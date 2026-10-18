@@ -211,14 +211,22 @@ def local_facts(d: Path, postcode: str, local: dict, meta: dict) -> dict:
         f = rec.get("f")
         if not f:
             out["flood"] = {"status": "not_listed", "text": "Not in the Environment Agency's list of postcodes in areas at risk of "
-                            "flooding from rivers or the sea.", "check": EA_FLOOD}
+                            "flooding from rivers or the sea (its assessment takes account of flood defences).", "check": EA_FLOOD}
         else:
             res, h, m, l, vl = f
-            parts = [f"{n} {lab}" for n, lab in ((h, "high"), (m, "medium"), (l, "low"), (vl, "very low")) if n]
+            bands = ((h, "high", "more than a 3.3% chance of flooding each year"), (m, "medium", "a 1% to 3.3% chance each year"),
+                     (l, "low", "a 0.1% to 1% chance each year"), (vl, "very low", "less than a 0.1% chance each year"))
+            parts = [f"{n} at {lab} risk" for n, lab, _ in bands if n]
+            top = next(((lab, means) for n, lab, means in bands if n), None)
+            text = (f"In an area at risk of flooding from rivers or the sea (Environment Agency, taking account of flood defences): "
+                    f"of {res} homes in the postcode, " + (", ".join(parts[:-1]) + " and " + parts[-1] if len(parts) > 1 else
+                    (parts[0] if parts else "none are themselves at risk (other buildings are)")) + ".")
+            if top:
+                text += f" {top[0].capitalize()} risk means {top[1]}."
             out["flood"] = {"status": "listed", "homes_in_postcode": res, "high": h, "medium": m, "low": l, "very_low": vl,
-                            "text": (f"In an area at risk of flooding from rivers or the sea: of {res} homes in the postcode, "
-                                     + (", ".join(parts) if parts else "none are themselves at risk (other buildings are)") + " risk."),
-                            "check": EA_FLOOD}
+                            "bands": {lab.replace(" ", "_"): means for _, lab, means in bands}, "text": text, "check": EA_FLOOD,
+                            "say": "State this plainly with its source: flood risk is material information a buyer must be told. "
+                                   "For one home's own result, give the GOV.UK check."}
         out["flood"]["not_covered"] = "Surface water, groundwater and reservoir risk aren't included: see the GOV.UK long-term flood risk check."
     else:
         out["flood"] = {"status": "wales", "text": "Flood risk in Wales: check Natural Resources Wales' Flood Map for Planning.", "check": NRW_FLOOD}

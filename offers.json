@@ -103,5 +103,9 @@
   }
  },
  "quote_cta_default": "Ask for a quote",
- "quote_greeting": "Hi Sam,"
+ "quote_greeting": "Hi Sam,",
+ "skill": {
+  "latest": "0.3.2",
+  "download": "https://github.com/Blueprint-Property-Marketing/blueprint-skill/releases/latest/download/blueprint.zip"
+ }
 }

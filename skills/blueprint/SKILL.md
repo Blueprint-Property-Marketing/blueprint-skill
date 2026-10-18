@@ -70,6 +70,8 @@ python scripts/blueprint.py fetch "<what they said>"
   `/mnt/user-data/uploads/`. Mention once that if their plan lets them allow network access in Settings →
   Capabilities, future chats can download areas themselves.
 
+If any output has `update`, tell the user once in the chat, at the end of that reply, as its `say` describes.
+
 ## 2. Branding (only if they've given it)
 
 | They've given | Run, before any page |
@@ -144,6 +146,7 @@ level), conservation area, Article 4, green belt, national park or National Land
 listed buildings within 100 m, coal mining high-risk areas, the nearest schools and stations, and the National
 Trading Standards material information checklist (Parts A to C) showing what the data fills in and what the seller
 supplies. `--page` writes a material information pack. **Read `references/material-information.md`** first.
+Give each fact as the output words it (`text`), flood risk too, with the check link for the individual home.
 
 ## 7. Area guides and AI search
 
@@ -199,6 +202,11 @@ information section, an area guide, a developer's board paper, a newsletter, a L
 6. **Their voice:** match their website or examples; otherwise plain, specific, British spelling, no hype, no
    "nestled", "boasts", "stunning" or "luxury". Subject line and preview for emails.
 7. **Offer the next version** for a different audience when it would help.
+8. **A brochure or listing pack:** ask what it's for (buyers, the vendor, a launch), then build what the skill can:
+   the material information pack (`local <postcode> --page`), the property report for a vendor
+   (`address ... --page`), the area section from `guide` and the address check, and the copy from what they tell you
+   (rooms, features, improvements). Say what they still need to gather (photos, floorplan, EPC, council tax band).
+   Then the `brochure` moment, with their request summarised as in section 12.
 
 ## 11. Rules for every answer
 
@@ -211,9 +219,11 @@ information section, an area guide, a developer's board paper, a newsletter, a L
 5. **New build against established is not a premium.** Show both medians with their sample sizes.
 6. **Say "registered sales";** the latest months are incomplete. Never call them a slowdown.
 7. **House numbers are for the user's own reference.** Leave them out of anything published.
-8. **Local facts are for the postcode's centre point,** from named sources with dates. Point to the source or the
-   council for anything decisive. No forecasts, no crime claims, no promises about school places, and no flood
-   "warnings" about named streets in marketing.
+8. **Local facts are for the postcode's centre point,** from named sources with dates. State every result plainly,
+   flood risk included, with its source and what it means: flood, coal mining and planning constraints are
+   material information a buyer must be told, so never skip one or say you can't comment. Point to the GOV.UK check
+   or the council for the individual home. No forecasts, no crime claims, no promises about school places, and no
+   flood "warnings" about named streets in marketing.
 9. **Rents are council-area averages for all tenancies,** not a rent for one home. No legal advice: point to GOV.UK.
 10. **Credit the data** on anything the user will publish; every page already carries it.
 11. **Voice:** plain, specific, British spelling, no hype.

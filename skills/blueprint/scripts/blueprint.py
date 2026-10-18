@@ -194,7 +194,7 @@ def cmd_fetch(a) -> None:
         district, _ = resolve(a.area, {"areas": []})
         district = (district or a.area).upper()
         d = fetch_from_zip(district, a.zip)
-        out({"status": "ok", "district": district, "source": "zip", "meta": read_json(d / "meta.json")})
+        out({"status": "ok", "district": district, "source": "zip", "meta": read_json(d / "meta.json"), **update_notice()})
         return
     ensure_clone(a.area)
     index = load_index()
@@ -223,7 +223,7 @@ def cmd_fetch(a) -> None:
     if r.returncode != 0:
         fail("offline", "Could not download that area's files.", detail=r.stderr.strip()[-300:], **area_file(district))
     meta = read_json(REPO_DIR / "areas" / district.lower() / "meta.json")
-    out({"status": "ok", "district": district, "source": "github", "meta": meta})
+    out({"status": "ok", "district": district, "source": "github", "meta": meta, **update_notice()})
 
 
 def cmd_areas(a) -> None:
@@ -489,6 +489,22 @@ def load_offers() -> dict:
     return found
 
 
+def update_notice() -> dict:
+    """{"update": {...}} when offers.json names a newer skill than this one, else {}."""
+    try:
+        latest = load_offers().get("skill") or {}
+        mine = json.loads((SKILL_DIR / "config.json").read_text(encoding="utf-8")).get("version", "0")
+        v = lambda s: tuple(int(x) for x in re.findall(r"\d+", str(s)))
+        if latest.get("latest") and v(latest["latest"]) > v(mine):
+            return {"update": {"installed": mine, "latest": latest["latest"], "download": latest.get("download"),
+                               "say": "Once in this chat, at the end of your reply: a newer version of the Blueprint skill is "
+                                      "out. To update, download blueprint.zip from `download`, then in Claude open Customize > "
+                                      "Skills, remove Blueprint and upload the new file."}}
+    except Exception:
+        pass
+    return {}
+
+
 def tracked(url: str, moment: str) -> str:
     """Tag Blueprint links so the site's analytics can tell which reply moments bring visits."""
     sep = "&" if "?" in url else "?"
@@ -628,6 +644,8 @@ def cmd_offer(a) -> None:
         if socials:
             link = {"text": " and ".join(s[0] for s in socials), "url": socials[0][1],
                     "all": [{"text": s[0], "url": s[1]} for s in socials]}
+        else:  # naming the platforms without links is a dead end
+            line = ""
     text = line
     if link:
         extra = " · ".join(f"[{x['text']}]({x['url']})" for x in link.get("all", [link]))
@@ -1013,7 +1031,7 @@ def cmd_setup(a) -> None:
     ready = all(c["ok"] for c in checks)
     out({"status": "ready" if ready else "needs_setup", "checks": checks, "steps": steps,
          "fallback_file": fallback if not net_ok else None,
-         "about": cfg.get("about", ""), "help": help_ways, "version": cfg.get("version"),
+         "about": cfg.get("about", ""), "help": help_ways, "version": cfg.get("version"), **update_notice(),
          "try_next": ["Blueprint: what did <number, street, postcode> sell for, and what's it on today's index?",
                       "Blueprint: area dashboard for <postcode district>", "Blueprint: material information for <postcode>",
                       "Blueprint: rents and yields in <district>"],
