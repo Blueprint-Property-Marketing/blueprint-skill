@@ -1,0 +1,242 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Blueprint area comparison</title>
+<style>/*__COMMON_CSS__*/
+  .cols { display: grid; gap: 14px; grid-template-columns: repeat(var(--n, 2), minmax(0, 1fr)); }
+  @media (max-width: 760px) { .cols { grid-template-columns: 1fr; } }
+  .sw { display: inline-block; width: 10px; height: 10px; border-radius: 5px; margin-right: 7px; vertical-align: 1px; }
+  .kpi .who { font-size: 13px; color: var(--muted); }
+  table.side th, table.side td { padding: 8px 10px; }
+  table.side td:first-child { color: var(--muted); }
+  table.side .sub2 { display: block; font-size: 12px; color: var(--muted); }
+  .bars .row { margin: 0 0 14px; }
+  .bars .lab { font-size: 13.5px; margin-bottom: 5px; }
+  .bars .bar { display: grid; grid-template-columns: 1fr 120px; align-items: center; gap: 10px; margin: 4px 0; }
+  .bars .track { height: 10px; border-radius: 5px; background: #EEF0F4; }
+  .bars .fill { height: 10px; border-radius: 5px; }
+  .bars .val { font-size: 12.5px; color: var(--muted); text-align: right; white-space: nowrap; }
+  .streetcol h3 { margin: 0 0 6px; font-size: 15px; font-weight: 400; }
+  .streetcol ol { margin: 0; padding-left: 18px; font-size: 13.5px; }
+  .streetcol li { padding: 3px 0; }
+  .streetcol li span { color: var(--muted); }
+</style>
+</head>
+<body>
+<header id="hdr" class="bp">
+  <div class="bar"><span id="logo-slot"></span><span class="eyebrow">Area comparison</span></div>
+  <div class="panel">
+    <h1 id="title"></h1>
+    <div class="sub" id="sub"></div>
+    <div class="prepared" id="prepared"></div>
+  </div>
+</header>
+<main>
+  <div class="cols" id="kpis"></div>
+
+  <section class="card">
+    <h2>Side by side.</h2>
+    <p class="note" id="side-note"></p>
+    <div class="scroll"><table class="side" id="side"></table></div>
+  </section>
+
+  <section class="grid two">
+    <div class="card">
+      <h2>Registered sales by month.</h2>
+      <p class="note">Land Registry registers sales weeks to months after completion, so the latest months are still filling in.</p>
+      <div class="legend" id="m-legend"></div>
+      <div id="monthly"></div>
+    </div>
+    <div class="card">
+      <h2>Price trend.</h2>
+      <p class="note" id="t-note"></p>
+      <div class="legend" id="t-legend"></div>
+      <div id="trend"></div>
+    </div>
+  </section>
+
+  <section class="grid two">
+    <div class="card">
+      <h2>Median price by type.</h2>
+      <p class="note">Registered sales, last 12 months. Comparing type by type is like for like; the overall median also reflects each area's mix.</p>
+      <div class="bars" id="types"></div>
+    </div>
+    <div class="card">
+      <h2>Price bands.</h2>
+      <p class="note">Share of each area's registered sales, last 12 months.</p>
+      <div class="bars" id="bands"></div>
+    </div>
+  </section>
+
+  <section class="card">
+    <h2>Busiest streets.</h2>
+    <p class="note">Registered sales in the last 12 months.</p>
+    <div class="cols" id="streets"></div>
+  </section>
+
+  <section class="card gap" id="gap"></section>
+</main>
+<footer id="footer"></footer>
+
+<script id="blueprint-data" type="application/json">/*__BLUEPRINT_DATA__*/</script>
+<script>/*__COMMON_JS__*/</script>
+<script>
+(function () {
+  "use strict";
+  var D = JSON.parse(el("blueprint-data").textContent);
+  var BR = applyBrand(D), COL = BR.series;
+  var AS = D.areas, N = AS.length;
+  document.documentElement.style.setProperty("--n", N);
+  function sw(i) { return '<i class="sw" style="background:' + COL[i] + '"></i>'; }
+  function list(xs) { return xs.length < 3 ? xs.join(" and ") : xs.slice(0, -1).join(", ") + " and " + xs[xs.length - 1]; }
+  function dlong(d) { return new Date(d + "T00:00:00").toLocaleDateString("en-GB", { day: "numeric", month: "long", year: "numeric" }); }
+
+  // ---------- header
+  var names = AS.map(function (x) { return x.area.name; });
+  var latest = AS.map(function (x) { return x.data.latest_registered_sale; }).sort()[0];
+  var hpiMonth = (AS.find(function (x) { return x.price_trend; }) || {}).price_trend;
+  document.title = "Blueprint · " + names.join(" vs ");
+  el("title").textContent = list(names) + ".";
+  el("sub").textContent = list(AS.map(function (x) { return x.area.district + " (" + x.area.local_authority + ")"; })) +
+    ". Sales registered to " + dlong(latest) + (hpiMonth ? "; UK House Price Index to " + hpiMonth.month + "." : ".");
+  el("prepared").textContent = BR.prepared(D.dates.generated_label);
+
+  // ---------- headline cards
+  el("kpis").innerHTML = AS.map(function (x, i) {
+    var L = x.last_12_months, P = x.price_trend;
+    return '<div class="card kpi"><div class="who">' + sw(i) + esc(x.area.name + ", " + x.area.district) + '</div>' +
+      '<div class="value">' + money(L.median_price) + '</div><div class="meta">Median sale, ' + esc(L.window) + ". " +
+      L.registered_sales.toLocaleString("en-GB") + " registered sales." +
+      (P ? " " + esc(P.geography) + " " + pct(P.annual_change_pct) + " on a year (UK HPI, " + esc(P.month) + ")." : "") + "</div></div>";
+  }).join("");
+
+  // ---------- side by side
+  var TYPES = ["Detached", "Semi-detached", "Terraced", "Flat or maisonette"];
+  function typeRow(x, t) {
+    var b = x.last_12_months.by_type.find(function (r) { return r.type === t; }) || {};
+    if (!b.sales) return "<span class='note'>none</span>";
+    return (b.median_price ? money(b.median_price) : "<span class='note'>too few</span>") +
+      "<span class='sub2'>" + b.sales + " sales" + (b.note === "small sample" ? ", small sample" : "") + "</span>";
+  }
+  var rows = [
+    ["Local authority", function (x) { return esc(x.area.local_authority); }],
+    ["Average price, UK HPI", function (x) { return x.price_trend ? money(x.price_trend.average_price) + "<span class='sub2'>" + esc(x.price_trend.month) + "</span>" : "n/a"; }],
+    ["On a year, UK HPI", function (x) { return x.price_trend ? pct(x.price_trend.annual_change_pct) : "n/a"; }],
+    ["Registered sales, 12 months", function (x) { return x.last_12_months.registered_sales.toLocaleString("en-GB") + "<span class='sub2'>" + esc(x.last_12_months.window) + "</span>"; }],
+    ["Median sale, 12 months", function (x) { return money(x.last_12_months.median_price); }]
+  ].concat(TYPES.map(function (t) { return [t + ", median", function (x) { return typeRow(x, t); }]; })).concat([
+    ["New-build sales, 12 months", function (x) { return x.last_12_months.new_build_sales; }],
+    ["New-build sales since 2021", function (x) { var nb = x.new_builds || {}; return nb.since_start ? nb.since_start.toLocaleString("en-GB") + "<span class='sub2'>" + nb.share_pct + "% of sales; latest " + esc(nb.latest.street + ", " + nb.latest.month) + "</span>" : "none"; }],
+    ["Top sale, 12 months", function (x) { var t = x.last_12_months.top_sale; return t ? money(t.price) + "<span class='sub2'>" + esc(t.type + ", " + t.street + ", " + t.month) + "</span>" : "n/a"; }],
+    ["Busiest street", function (x) { var s = x.last_12_months.busiest_streets[0]; return s ? esc(s.street) + "<span class='sub2'>" + s.sales + " sales</span>" : "n/a"; }]
+  ]);
+  el("side").innerHTML = "<tr><th></th>" + AS.map(function (x, i) { return "<th>" + sw(i) + esc(x.area.name + ", " + x.area.district) + "</th>"; }).join("") + "</tr>" +
+    rows.map(function (r) { return "<tr><td>" + r[0] + "</td>" + AS.map(function (x) { return "<td>" + r[1](x) + "</td>"; }).join("") + "</tr>"; }).join("");
+  el("side-note").textContent = (D.shared_la || []).length
+    ? D.shared_la.map(function (s) { return list(s.areas) + " are both in " + s.local_authority; }).join("; ") +
+      ", so they share one price index. Sales figures are each postcode district's own."
+    : "Price index figures are for each local authority; sales figures are each postcode district's own.";
+
+  // ---------- monthly lines
+  (function () {
+    var months = [];
+    AS.forEach(function (x) { x.monthly.forEach(function (m) { if (months.indexOf(m.m) < 0) months.push(m.m); }); });
+    months.sort();
+    var W = 640, H = 260, pl = 34, pr = 8, pt = 18, pb = 26;
+    var hi = Math.max.apply(null, [].concat.apply([], AS.map(function (x) { return x.monthly.map(function (m) { return m.n; }); }))) || 1;
+    function X(i) { return pl + i * (W - pl - pr) / (months.length - 1); }
+    function Y(v) { return pt + (1 - v / hi) * (H - pt - pb); }
+    var g = "";
+    var regStart = months.length - 3;
+    g += '<rect x="' + X(regStart) + '" y="' + pt + '" width="' + (X(months.length - 1) - X(regStart)) + '" height="' + (H - pt - pb) + '" fill="#F1F3F7"/>';
+    g += '<text x="' + X(regStart) + '" y="' + (pt - 6) + '" font-size="11" fill="#5F6472">Still registering</text>';
+    for (var t = 0; t <= 3; t++) {
+      var v = Math.round(hi * t / 3), yy = Y(v);
+      g += '<line x1="' + pl + '" x2="' + (W - pr) + '" y1="' + yy + '" y2="' + yy + '" stroke="#EEF0F2"/><text x="' + (pl - 6) + '" y="' + (yy + 4) + '" text-anchor="end" font-size="11" fill="#5F6472">' + v + "</text>";
+    }
+    months.forEach(function (m, i) { if (i % 3 === 0 || i === months.length - 1) g += '<text x="' + X(i) + '" y="' + (H - 8) + '" text-anchor="middle" font-size="11" fill="#5F6472">' + mlabel(m) + "</text>"; });
+    AS.slice().reverse().forEach(function (x, ri) {
+      var i = N - 1 - ri, by = {};
+      x.monthly.forEach(function (m) { by[m.m] = m.n; });
+      var pts = months.map(function (m, k) { return by[m] == null ? null : X(k).toFixed(1) + "," + Y(by[m]).toFixed(1); }).filter(Boolean);
+      g += '<polyline fill="none" stroke="' + COL[i] + '" stroke-width="' + (i === 0 ? 3 : 2.2) + '" stroke-linejoin="round" points="' + pts.join(" ") + '"/>';
+    });
+    months.forEach(function (m, k) {
+      var w = (W - pl - pr) / (months.length - 1);
+      var tip = mlabel(m, true) + AS.map(function (x) { var f = x.monthly.find(function (q) { return q.m === m; }); return "\n" + x.area.name + ": " + (f ? f.n : "n/a") + " registered sales"; }).join("");
+      g += '<rect x="' + (X(k) - w / 2) + '" y="' + pt + '" width="' + w + '" height="' + (H - pt - pb) + '" fill="transparent"><title>' + esc(tip) + "</title></rect>";
+    });
+    el("monthly").innerHTML = '<svg viewBox="0 0 ' + W + " " + H + '" role="img" aria-label="Registered sales by month">' + g + "</svg>";
+    el("m-legend").innerHTML = AS.map(function (x, i) { return '<span><i style="background:' + COL[i] + '"></i>' + esc(x.area.name) + "</span>"; }).join("");
+  })();
+
+  // ---------- price trend (one line per local authority)
+  (function () {
+    var seen = {}, lines = [];
+    AS.forEach(function (x, i) { var la = x.area.local_authority; if (!seen[la] && x.hpi_series.length) { seen[la] = 1; lines.push({ name: la, colour: COL[i], s: x.hpi_series }); } });
+    if (!lines.length) { el("trend").innerHTML = '<p class="note">No price index data.</p>'; return; }
+    var months = lines[0].s.map(function (p) { return p[0]; });
+    var all = [].concat.apply([], lines.map(function (l) { return l.s.map(function (p) { return p[1]; }); }));
+    var lo = Math.min.apply(null, all), hi = Math.max.apply(null, all), pad = (hi - lo) * .1 || 1;
+    lo -= pad; hi += pad;
+    var W = 640, H = 260, pl = 58, pr = 10, pt = 10, pb = 26;
+    function X(i) { return pl + i * (W - pl - pr) / (months.length - 1); }
+    function Y(v) { return pt + (hi - v) / (hi - lo) * (H - pt - pb); }
+    var g = "";
+    for (var t = 0; t <= 4; t++) {
+      var v = lo + (hi - lo) * t / 4, yy = Y(v);
+      g += '<line x1="' + pl + '" x2="' + (W - pr) + '" y1="' + yy + '" y2="' + yy + '" stroke="#EEF0F2"/><text x="' + (pl - 8) + '" y="' + (yy + 4) + '" text-anchor="end" font-size="11" fill="#5F6472">' + short(v) + "</text>";
+    }
+    [0, Math.floor((months.length - 1) / 2), months.length - 1].forEach(function (i) {
+      g += '<text x="' + X(i) + '" y="' + (H - 6) + '" text-anchor="' + (i === 0 ? "start" : i === months.length - 1 ? "end" : "middle") + '" font-size="11" fill="#5F6472">' + mlabel(months[i]) + "</text>";
+    });
+    lines.slice().reverse().forEach(function (l) {
+      g += '<polyline fill="none" stroke="' + l.colour + '" stroke-width="3" stroke-linejoin="round" points="' +
+        l.s.map(function (p, i) { return X(i).toFixed(1) + "," + Y(p[1]).toFixed(1); }).join(" ") + '"/>';
+    });
+    months.forEach(function (m, k) {
+      var w = (W - pl - pr) / (months.length - 1);
+      var tip = mlabel(m, true) + lines.map(function (l) { return "\n" + l.name + ": " + money(l.s[k] ? l.s[k][1] : null); }).join("");
+      g += '<rect x="' + (X(k) - w / 2) + '" y="' + pt + '" width="' + w + '" height="' + (H - pt - pb) + '" fill="transparent"><title>' + esc(tip) + "</title></rect>";
+    });
+    el("trend").innerHTML = '<svg viewBox="0 0 ' + W + " " + H + '" role="img" aria-label="Average price by local authority">' + g + "</svg>";
+    el("t-legend").innerHTML = lines.map(function (l) { return '<span><i style="background:' + l.colour + '"></i>' + esc(l.name) + "</span>"; }).join("");
+    el("t-note").textContent = "UK House Price Index average price, mix-adjusted, by local authority" +
+      (lines.length < N ? ". " + list(lines.filter(function (l) { return AS.filter(function (x) { return x.area.local_authority === l.name; }).length > 1; }).map(function (l) { return l.name; })) + " covers more than one of these areas, so it is one line." : ".");
+  })();
+
+  // ---------- grouped bars
+  function groups(target, labels, valueOf, maxOf, labelOf) {
+    el(target).innerHTML = labels.map(function (lab) {
+      var max = maxOf(lab) || 1;
+      return '<div class="row"><div class="lab">' + esc(lab) + "</div>" + AS.map(function (x, i) {
+        var v = valueOf(x, lab);
+        return '<div class="bar"><div class="track"><div class="fill" style="width:' + (v == null ? 0 : Math.max(1.5, 100 * v / max)) + "%;background:" + COL[i] + '"></div></div><div class="val">' + labelOf(x, lab, v) + "</div></div>";
+      }).join("") + "</div>";
+    }).join("") + '<div class="legend">' + AS.map(function (x, i) { return '<span><i style="background:' + COL[i] + '"></i>' + esc(x.area.name) + "</span>"; }).join("") + "</div>";
+  }
+  function typeMedian(x, t) { var b = x.last_12_months.by_type.find(function (r) { return r.type === t; }); return b && b.median_price ? b.median_price : null; }
+  var typeMax = Math.max.apply(null, [].concat.apply([], AS.map(function (x) { return TYPES.map(function (t) { return typeMedian(x, t) || 0; }); })));
+  groups("types", TYPES, typeMedian, function () { return typeMax; }, function (x, t, v) {
+    var b = x.last_12_months.by_type.find(function (r) { return r.type === t; }) || {};
+    return v == null ? (b.sales ? "too few" : "none") : money(v) + " · " + b.sales;
+  });
+  var bandNames = AS[0].last_12_months.price_bands.map(function (b) { return b.band; });
+  function share(x, band) { var b = x.last_12_months.price_bands.find(function (q) { return q.band === band; }); return b ? b.share_pct : null; }
+  var bandMax = Math.max.apply(null, [].concat.apply([], AS.map(function (x) { return bandNames.map(function (b) { return share(x, b) || 0; }); })));
+  groups("bands", bandNames, share, function () { return bandMax; }, function (x, b, v) { return v == null ? "n/a" : v + "%"; });
+
+  // ---------- streets
+  el("streets").innerHTML = AS.map(function (x, i) {
+    var S = x.last_12_months.busiest_streets;
+    return '<div class="streetcol"><h3>' + sw(i) + esc(x.area.name + ", " + x.area.district) + "</h3><ol>" +
+      (S.length ? S.map(function (s) { return "<li>" + esc(s.street) + " <span>" + s.sales + " sales</span></li>"; }).join("") : "<li><span>No street with three or more sales.</span></li>") + "</ol></div>";
+  }).join("");
+
+  renderGapAndFooter(D);
+})();
+</script>
+</body>
+</html>

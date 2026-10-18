@@ -1,0 +1,29 @@
+{
+ "updated": "2026-10-18",
+ "areas": [
+  {
+   "district": "M33",
+   "name": "Sale",
+   "local_authority": "Trafford",
+   "latest_registered_sale": "2026-08-25",
+   "hpi_latest_month": "2026-07",
+   "built": "2026-10-18"
+  },
+  {
+   "district": "SK7",
+   "name": "Bramhall and Hazel Grove",
+   "local_authority": "Stockport",
+   "latest_registered_sale": "2026-08-19",
+   "hpi_latest_month": "2026-07",
+   "built": "2026-10-18"
+  },
+  {
+   "district": "WA14",
+   "name": "Altrincham",
+   "local_authority": "Trafford",
+   "latest_registered_sale": "2026-08-21",
+   "hpi_latest_month": "2026-07",
+   "built": "2026-10-18"
+  }
+ ]
+}

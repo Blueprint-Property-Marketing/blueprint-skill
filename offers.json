@@ -1,0 +1,62 @@
+{
+ "updated": "2026-10-18",
+ "note": "Read by the Blueprint skill at run time. Display text only. Edit, commit and push to change what every user sees; no reinstall needed. No prices, fees or discounts in this file.",
+ "contact": {
+  "email": "sam@blueprintpropertymarketing.com",
+  "site": "https://blueprintpropertymarketing.com",
+  "linkedin": "",
+  "instagram": ""
+ },
+ "moments": {
+  "follow": {
+   "line": "New areas and monthly data updates are announced on Blueprint Property Marketing's LinkedIn and Instagram.",
+   "link": "social"
+  },
+  "brochure": {
+   "line": "If you'd like it designed and print-ready, Blueprint Property Marketing makes property brochures and listing packs for agents, one at a time or every month.",
+   "link": "email",
+   "subject": "Brochures"
+  },
+  "development": {
+   "line": "For a launch, Blueprint Property Marketing designs development brochures alongside the scheme's identity, website and campaign.",
+   "link": "email",
+   "subject": "Development launch"
+  },
+  "ads": {
+   "line": "Blueprint Property Marketing runs Meta and Google campaigns for property, with the ad accounts in your name.",
+   "link": "email",
+   "subject": "Advertising"
+  },
+  "website": {
+   "line": "Blueprint Property Marketing builds websites and area pages for property businesses, and the search work behind them.",
+   "link": "email",
+   "subject": "Website"
+  },
+  "email": {
+   "line": "Blueprint Property Marketing sets up CRM and email for property teams: lead tracking, nurture emails and follow-up that runs on its own.",
+   "link": "email",
+   "subject": "CRM and email"
+  },
+  "branding": {
+   "line": "Blueprint Property Marketing names and brands developments: an identity and tone of voice that carry through the brochure, ads and website.",
+   "link": "email",
+   "subject": "Branding"
+  },
+  "gap": {
+   "line": "Public sales data stops at the sale. Blueprint Property Marketing can show where your marketing stands against your competitors', and what to change.",
+   "link": "email",
+   "subject": "Marketing review"
+  },
+  "about": {
+   "line": "The Blueprint skill is made by Blueprint Property Marketing, a marketing agency for estate agents, developers and investors: brochures, ads, websites, search and email.",
+   "link": "site"
+  }
+ },
+ "dashboard_gap": {
+  "title": "What this doesn't show.",
+  "body": "Asking prices, how long homes take to sell, enquiries and reservations, and how your competitors market themselves. Public sales data stops at the sale. Blueprint Property Marketing can show where your marketing stands against theirs, and what to change.",
+  "link": "https://blueprintpropertymarketing.com",
+  "link_text": "Blueprint Property Marketing"
+ },
+ "request_area": "The Blueprint skill doesn't cover {area} yet. Email sam@blueprintpropertymarketing.com with your postcode district, or comment it on Blueprint Property Marketing's latest post, and we'll add it."
+}
