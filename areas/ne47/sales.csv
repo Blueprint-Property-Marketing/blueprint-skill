@@ -1,0 +1,546 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-03,160000,NE47 9BX,T,N,F,3,,Wentworth Place,Allendale,Hexham
+2026-07-29,400000,NE47 6EX,S,N,F,Merrilea,,Brigwood,Haydon Bridge,Hexham
+2026-07-24,280000,NE47 8AA,T,N,F,Post Office House,,,Carrshield,Hexham
+2026-07-24,260000,NE47 7JG,T,N,F,5,,Westwood Cottages,Westwood,Hexham
+2026-07-22,415000,NE47 9QJ,D,N,F,The Oval,,,Catton,Hexham
+2026-07-17,425000,NE47 9LS,D,N,F,Newfield,2,,Catton,Hexham
+2026-07-06,195000,NE47 9BB,S,N,F,9,,Selah Close,Allendale,Hexham
+2026-07-03,155000,NE47 6DF,S,N,L,26,,The Showfield,Haydon Bridge,Hexham
+2026-07-01,390000,NE47 6HG,S,N,F,3,,Belmont Gardens,Haydon Bridge,Hexham
+2026-07-01,755000,NE47 0AA,D,N,F,Winter House,,,Slaley,Hexham
+2026-06-30,190000,NE47 5AE,S,N,F,19,,Sidgate,Newbrough,Hexham
+2026-06-26,185000,NE47 9BP,S,N,F,2,,Shield Street,Allendale,Hexham
+2026-06-08,465000,NE47 9EH,S,N,F,3,,Brides Hill Cottages,Allendale,Hexham
+2026-05-27,575000,NE47 6HJ,D,N,F,Heugh House West,,Heugh House Lane,Haydon Bridge,Hexham
+2026-05-11,177000,NE47 9UY,T,N,F,3,,Sipton Terrace,Sparty Lea,Hexham
+2026-05-08,545000,NE47 7JL,D,N,F,High Birkshaw,,,Bardon Mill,Hexham
+2026-05-01,375000,NE47 9AS,D,N,F,30,,Forstersteads,Allendale,Hexham
+2026-05-01,125000,NE47 6DE,T,N,L,3,,Innerhaugh Mews,Haydon Bridge,Hexham
+2026-04-30,105000,NE47 7EH,T,N,F,Elms View,,,Tow House,Hexham
+2026-04-15,97000,NE47 9UJ,T,N,F,2,,Fell View,Sparty Lea,Hexham
+2026-04-15,765000,NE47 9NE,D,N,F,Walk Mill,,Wooley Burn Foot,Allendale,Hexham
+2026-04-14,170000,NE47 9QS,T,N,F,Dale View,,,Catton,Hexham
+2026-04-10,195000,NE47 9LG,D,N,F,The Hawthorns,,Shilburn Road,Allendale,Hexham
+2026-03-31,245000,NE47 6BL,T,N,F,1,,Shaftoe Court,Haydon Bridge,Hexham
+2026-03-30,242000,NE47 8DQ,D,N,F,Hush Cottage,,,Mohope,Hexham
+2026-03-25,205000,NE47 6DE,T,N,L,15,,Innerhaugh Mews,Haydon Bridge,Hexham
+2026-03-20,125000,NE47 9PP,T,N,F,2,,Dawson Place,Allendale,Hexham
+2026-03-05,655000,NE47 9PU,D,N,F,Elmcroft,,The Dene,Allendale,Hexham
+2026-02-20,317500,NE47 8AA,D,N,F,Down View Barn,,,Carrshield,Hexham
+2026-01-30,760000,NE47 9AR,D,N,F,Wentworth Riding,,,Allendale,Hexham
+2026-01-16,290000,NE47 9QJ,T,N,F,Orchard Farm Cottage,,,Catton,Hexham
+2026-01-16,360000,NE47 7EG,S,N,F,The Forge,,,Tow House,Hexham
+2026-01-09,757000,NE47 0AD,D,N,F,Linden House,,,Slaley,Hexham
+2026-01-05,307000,NE47 9QQ,T,N,F,6,,Allen View,Catton,Hexham
+2025-12-22,470000,NE47 6HG,S,N,F,"Meadow Bank, 10",,Belmont Gardens,Haydon Bridge,Hexham
+2025-12-19,126500,NE47 6JN,T,N,F,22,,Strother Close,Haydon Bridge,Hexham
+2025-12-18,260000,NE47 5BB,T,N,F,2,,The Terrace,Settlingstones,Hexham
+2025-12-17,187500,NE47 9PR,T,N,F,8,,Leadgate,Allendale,Hexham
+2025-12-17,805000,NE47 5BJ,T,N,F,Church Lane Barn,,Church Lane,Allerwash,Hexham
+2025-12-12,328000,NE47 6JY,S,N,F,5,,Stone Halt,Haydon Bridge,Hexham
+2025-12-12,183000,NE47 5DU,S,N,F,18,,Broadway,Fourstones,Hexham
+2025-12-10,375000,NE47 9QQ,T,N,F,8,,Allen View,Catton,Hexham
+2025-11-28,420000,NE47 5EB,D,N,F,1,,St Aidans Park,Fourstones,Hexham
+2025-11-28,250000,NE47 0BU,S,N,F,2,,Fell Cottages,Slaley,Hexham
+2025-11-27,300000,NE47 9AS,D,N,F,22,,Forstersteads,Allendale,Hexham
+2025-11-25,437500,NE47 7JD,D,N,F,Chineley Byre,,,Bardon Mill,Hexham
+2025-11-21,230000,NE47 9DR,S,N,F,18,,Wentworth Park,Allendale,Hexham
+2025-11-21,239000,NE47 6AD,S,N,F,7,,Tyne View Close,Haydon Bridge,Hexham
+2025-11-21,235000,NE47 6AD,S,N,F,29,,Tyne View Close,Haydon Bridge,Hexham
+2025-11-14,215000,NE47 6LT,T,N,F,3,,South View,Haydon Bridge,Hexham
+2025-11-13,222000,NE47 9NH,T,N,F,The Old Stables,,,Thornley Gate,Hexham
+2025-11-06,430000,NE47 5NR,D,N,F,Staward View,,,Langley On Tyne,Hexham
+2025-10-31,185000,NE47 6JN,T,N,F,4,,Strother Close,Haydon Bridge,Hexham
+2025-10-29,350000,NE47 5ED,D,N,F,15,,Charlton Place,Newbrough,Hexham
+2025-10-23,170000,NE47 6ER,T,N,F,1,,Ratcliffe Road,Haydon Bridge,Hexham
+2025-10-20,162700,NE47 9UY,T,N,F,5,,Sipton Terrace,Sparty Lea,Hexham
+2025-10-17,835000,NE47 0AD,D,N,F,Town Head Farm,,,Slaley,Hexham
+2025-10-15,395000,NE47 5LW,D,N,F,4,,Broadacres,Fourstones,Hexham
+2025-10-15,215000,NE47 5DU,S,N,F,1,,Broadway,Fourstones,Hexham
+2025-10-07,495500,NE47 9AL,D,N,F,Old Wooley Cottage,,,Allendale,Hexham
+2025-10-03,270000,NE47 9BP,S,N,F,Green Acres,,Shield Street,Allendale,Hexham
+2025-10-01,301770,NE47 9QS,D,N,F,Bridgebrook,,,Catton,Hexham
+2025-09-26,340000,NE47 6JY,S,N,F,4,,Stone Halt,Haydon Bridge,Hexham
+2025-09-26,182500,NE47 5DU,T,N,F,5,,Broadway,Fourstones,Hexham
+2025-09-26,502000,NE47 5AG,D,N,F,Whitegates,,,Newbrough,Hexham
+2025-09-25,425000,NE47 0BG,D,N,L,27,,Slaley Park,Slaley,Hexham
+2025-09-24,145000,NE47 6BQ,S,N,F,5,,Shaftoe Street,Haydon Bridge,Hexham
+2025-09-23,230000,NE47 6DF,S,N,F,74,,The Showfield,Haydon Bridge,Hexham
+2025-09-22,545000,NE47 7AD,D,N,F,West Cottage,,,Thorngrafton,Hexham
+2025-09-15,550000,NE47 0HL,D,N,F,High Raw Green,Kowhai Cottage,,Steel,Hexham
+2025-09-05,275000,NE47 7EQ,D,N,F,Lynnburn Cottage,,,Tow House,Hexham
+2025-08-27,453500,NE47 7BP,S,N,F,Woodside Cottage,,,Bardon Mill,Hexham
+2025-08-27,420000,NE47 6AB,S,N,F,Broadstone Cottage,,John Martin Street,Haydon Bridge,Hexham
+2025-08-22,240000,NE47 6DE,S,N,F,42,,Innerhaugh Mews,Haydon Bridge,Hexham
+2025-08-22,205000,NE47 6AD,S,N,F,45,,Tyne View Close,Haydon Bridge,Hexham
+2025-08-22,425000,NE47 5LW,D,N,F,3,,Broadacres,Fourstones,Hexham
+2025-08-13,515000,NE47 7EP,D,N,F,Grace House,,,Henshaw,Hexham
+2025-08-11,240000,NE47 6DF,S,N,F,63,,The Showfield,Haydon Bridge,Hexham
+2025-08-04,450000,NE47 9NE,D,N,F,Mill Race Cottage,,Wooley Burn Foot,Allendale,Hexham
+2025-08-01,850000,NE47 7AD,D,N,F,Thorngrafton House,,,Thorngrafton,Hexham
+2025-07-31,165000,NE47 5AF,T,N,F,56,,Sidgate,Newbrough,Hexham
+2025-07-29,477500,NE47 5AB,S,N,F,Allerwash Buildings Farm,Oak Ridge Barn,,Allerwash,Hexham
+2025-07-25,215000,NE47 7EE,T,N,F,5,,Springfield Terrace,Redburn,Hexham
+2025-07-18,500000,NE47 6LY,S,N,F,Strath View,,North Bank,Haydon Bridge,Hexham
+2025-07-18,215000,NE47 6BS,S,N,F,8,,Douglas Gardens,Haydon Bridge,Hexham
+2025-06-27,135000,NE47 8DB,T,N,F,Hillside,,,Ninebanks,Hexham
+2025-06-25,300000,NE47 5DT,D,N,F,Hillcrest,,,Fourstones,Hexham
+2025-06-25,150000,NE47 5DP,F,N,L,3,,Crossgate Cottages,Fourstones,Hexham
+2025-06-24,145000,NE47 5DX,D,N,F,East Fourstones,Rosebank Cottage 2 The Square,,Fourstones,Hexham
+2025-06-20,760000,NE47 7HF,D,N,F,Oakwell House,,,Bardon Mill,Hexham
+2025-06-17,295000,NE47 5DN,T,N,F,3,,Butt Bank,Fourstones,Hexham
+2025-06-03,275000,NE47 9QJ,T,N,F,Lovaine Cottage,,,Catton,Hexham
+2025-05-30,163100,NE47 6AH,S,N,L,8,,Whittis Crescent,Haydon Bridge,Hexham
+2025-04-28,180000,NE47 5BB,T,N,F,6,,The Terrace,Settlingstones,Hexham
+2025-03-28,212500,NE47 6EX,S,N,F,2,,Brigwood,Haydon Bridge,Hexham
+2025-03-28,130000,NE47 6BJ,T,N,F,24,,Shaftoe Street,Haydon Bridge,Hexham
+2025-03-28,180000,NE47 6AD,S,N,F,18,,Tyne View Close,Haydon Bridge,Hexham
+2025-03-27,310000,NE47 9QQ,T,N,F,7,,Allen View,Catton,Hexham
+2025-03-27,705000,NE47 5LA,S,N,F,Bristol Lodge,,,Langley On Tyne,Hexham
+2025-03-26,295000,NE47 9BD,T,N,F,The Dale Cottage,,Market Place,Allendale,Hexham
+2025-03-21,172000,NE47 9HA,T,N,F,12,,Dale Park,Allendale,Hexham
+2025-03-12,280000,NE47 7EP,D,N,F,Rustic Lodge,,,Henshaw,Hexham
+2025-03-12,350000,NE47 5DN,T,N,F,Garden House,,Butt Bank,Fourstones,Hexham
+2025-03-12,1780000,NE47 0BT,D,N,F,Rowantree Grange,,,Slaley,Hexham
+2025-03-11,315000,NE47 9BD,T,N,F,The Dale Townhouse,,Market Place,Allendale,Hexham
+2025-03-07,377777,NE47 6LU,D,N,F,Haydon Park,,North Bank,Haydon Bridge,Hexham
+2025-03-06,150000,NE47 9DB,T,N,F,51,,Allenfields,Allendale,Hexham
+2025-03-06,185000,NE47 7EG,S,N,F,The Nook,,,Tow House,Hexham
+2025-03-05,375000,NE47 6LY,D,N,F,The Timbers,,North Bank,Haydon Bridge,Hexham
+2025-02-28,297500,NE47 6AD,D,N,F,22,,Tyne View Close,Haydon Bridge,Hexham
+2025-02-26,145000,NE47 5AF,T,N,F,10,,Sidgate,Newbrough,Hexham
+2025-02-21,225000,NE47 9DR,D,N,F,37,,Wentworth Park,Allendale,Hexham
+2025-02-19,145000,NE47 6EU,T,N,F,5,,Tynedale Cottages,Haydon Bridge,Hexham
+2025-02-17,325000,NE47 9PZ,D,N,F,The Haining,,Station Road,Allendale,Hexham
+2025-02-17,245000,NE47 6BL,T,N,F,1,,Shaftoe Court,Haydon Bridge,Hexham
+2025-02-14,467000,NE47 9NS,D,N,F,North Holly Bush,,,Allendale,Hexham
+2025-02-07,185000,NE47 9UY,T,N,F,4,,Sipton Terrace,Sparty Lea,Hexham
+2025-02-07,320000,NE47 9AA,S,N,F,Bridge End Cottage,,Bridge End,Allendale,Hexham
+2025-02-05,373000,NE47 0BY,S,N,F,Colpitts Grange Farm Cottages,1,,Slaley,Hexham
+2025-02-03,290000,NE47 9QS,D,N,F,Valleyfield,,,Catton,Hexham
+2025-02-03,180000,NE47 9BB,S,N,F,3,,Selah Close,Allendale,Hexham
+2025-01-29,150000,NE47 7EF,T,N,F,4,,Broadacres,Bardon Mill,Hexham
+2025-01-28,365000,NE47 5AG,S,N,F,Low Park,,,Newbrough,Hexham
+2025-01-07,625000,NE47 9AY,D,N,F,Meadow View,3,Splitty Lane,Catton,Hexham
+2024-12-18,612000,NE47 9QY,D,N,F,Chipchase Lodge,,Splitty Lane,Catton,Hexham
+2024-12-18,105000,NE47 6HB,T,N,F,65,,Victoria Terrace,Haydon Bridge,Hexham
+2024-12-17,250000,NE47 7DT,D,N,F,1,,Tow House Green,Bardon Mill,Hexham
+2024-12-16,345000,NE47 6BP,D,N,F,Glencoyne,,Park Stile,Haydon Bridge,Hexham
+2024-12-13,140000,NE47 6AD,T,N,F,12,,Tyne View Close,Haydon Bridge,Hexham
+2024-12-06,390000,NE47 9NE,D,N,F,The Barn,,Wooley Burn Foot,Allendale,Hexham
+2024-12-06,486000,NE47 9LG,D,N,F,Glen View,1,Shilburn Road,Allendale,Hexham
+2024-12-03,485000,NE47 5BD,D,N,F,Settlingstones Farm Cottages,,,Settlingstones,Hexham
+2024-12-02,595000,NE47 9SL,D,N,F,Stob Green,,,Sinderhope,Hexham
+2024-11-29,390000,NE47 9QE,D,N,F,Smeathlands,,,Catton,Hexham
+2024-11-29,90000,NE47 6DF,T,N,L,32,,The Showfield,Haydon Bridge,Hexham
+2024-11-25,145000,NE47 7HX,T,N,F,"Glenholme, 3",,Millfield Terrace,Bardon Mill,Hexham
+2024-11-21,510000,NE47 9NH,D,N,F,Thornley Gate Farm,,,Thornley Gate,Hexham
+2024-11-15,850000,NE47 0AD,D,N,F,Slaley Grange,Meadow Rise,,Slaley,Hexham
+2024-11-14,708000,NE47 9NN,D,N,F,High Oustley Farm,,,Allendale,Hexham
+2024-11-08,121000,NE47 5BB,T,N,F,4,,The Terrace,Settlingstones,Hexham
+2024-11-01,233000,NE47 5AA,T,N,F,6,,Red Houses,Newbrough,Hexham
+2024-10-24,105000,NE47 9UP,T,N,F,Pryfield Cottages,3,,Sparty Lea,Hexham
+2024-10-23,135000,NE47 9UB,D,N,F,2,,Sparty Lea Terrace,Sparty Lea,Hexham
+2024-10-18,285000,NE47 6AT,T,N,F,2,,Rocksprings Crescent,Haydon Bridge,Hexham
+2024-10-14,395000,NE47 5EB,D,N,F,10,,St Aidans Park,Fourstones,Hexham
+2024-10-11,230000,NE47 9LG,S,N,F,Glendale,,Shilburn Road,Allendale,Hexham
+2024-10-07,570000,NE47 9AY,D,N,F,Meadow View,6,Splitty Lane,Catton,Hexham
+2024-10-04,145000,NE47 9AZ,S,N,F,Holmdene,,Market Place,Allendale,Hexham
+2024-10-04,415000,NE47 6LY,S,N,F,Highfield,,North Bank,Haydon Bridge,Hexham
+2024-10-04,225000,NE47 6AD,S,N,F,13,,Tyne View Close,Haydon Bridge,Hexham
+2024-09-30,245000,NE47 9QQ,T,N,F,19,,Allen View,Catton,Hexham
+2024-09-27,335000,NE47 0BQ,S,N,F,Hillcrest,,,Slaley,Hexham
+2024-09-13,132000,NE47 5BB,T,N,F,7,,The Terrace,Settlingstones,Hexham
+2024-09-13,680000,NE47 0BY,D,N,F,Colpitts Grange Farm,,,Slaley,Hexham
+2024-09-13,476000,NE47 0AD,D,N,F,South Croft,,,Slaley,Hexham
+2024-09-10,392000,NE47 9JB,S,N,F,2,,Lea Hall Cottages,Allenheads,Hexham
+2024-09-03,575000,NE47 5AR,D,N,F,Bridge House,,,Newbrough,Hexham
+2024-09-03,890000,NE47 0DF,D,N,F,East Woodfoot,Old Farm,,Slaley,Hexham
+2024-08-23,450000,NE47 9ND,D,N,F,Hallgarth,,,Allendale,Hexham
+2024-08-23,270000,NE47 7DU,D,N,F,8,,Falcon Grange,Bardon Mill,Hexham
+2024-08-23,202500,NE47 7DH,S,N,F,2,,Thorntree Close,Bardon Mill,Hexham
+2024-08-23,72000,NE47 7BR,S,N,L,13,,Redburn View,Bardon Mill,Hexham
+2024-08-23,45307,NE47 6ER,T,N,L,47,,Ratcliffe Road,Haydon Bridge,Hexham
+2024-08-13,300000,NE47 6AT,S,N,F,1,,Rocksprings Crescent,Haydon Bridge,Hexham
+2024-08-09,248000,NE47 7EA,S,N,L,Hartland,,,Redburn,Hexham
+2024-08-09,1890000,NE47 7DE,D,N,F,Allensgreen Farm,Annexe,,Bardon Mill,Hexham
+2024-08-02,175000,NE47 5AE,T,N,F,31,,Sidgate,Newbrough,Hexham
+2024-07-30,170000,NE47 5NU,D,N,F,Cross Lane Cottage,,,Langley On Tyne,Hexham
+2024-07-26,170000,NE47 9HF,T,N,F,7,,Ropehaugh Cottages,Ropehaugh,Hexham
+2024-07-22,315000,NE47 9BD,S,N,F,Grove Cottage,,Market Place,Allendale,Hexham
+2024-07-19,395000,NE47 9PW,D,N,F,9,,Denelands,Allendale,Hexham
+2024-07-19,635000,NE47 8DB,D,N,F,Far Pasture Farm,,,Ninebanks,Hexham
+2024-07-16,340000,NE47 9LG,S,N,F,Lauslea,,Shilburn Road,Allendale,Hexham
+2024-07-16,185000,NE47 6HR,D,N,F,1,,The Cottages,New Alston,Hexham
+2024-07-15,700000,NE47 6ND,D,N,F,Highfield,,Heugh House Lane,Haydon Bridge,Hexham
+2024-07-09,300000,NE47 0AD,D,N,F,The Old School House,,,Slaley,Hexham
+2024-07-08,241000,NE47 6DF,S,N,F,51,,The Showfield,Haydon Bridge,Hexham
+2024-07-04,350000,NE47 9AS,D,N,F,27,,Forstersteads,Allendale,Hexham
+2024-06-28,320000,NE47 9LG,S,N,F,Red Stacks,,Shilburn Road,Allendale,Hexham
+2024-06-27,370000,NE47 9PW,D,N,F,5,,Denelands,Allendale,Hexham
+2024-06-24,265500,NE47 7DT,D,N,F,25,,Tow House Green,Bardon Mill,Hexham
+2024-06-21,265000,NE47 9NH,S,N,F,The Gables,,,Thornley Gate,Hexham
+2024-06-21,300000,NE47 9AS,D,N,F,19,,Forstersteads,Allendale,Hexham
+2024-06-21,205000,NE47 6HF,D,N,F,Truro,,Belmont,Haydon Bridge,Hexham
+2024-06-21,80000,NE47 6DE,S,N,L,17,,Innerhaugh Mews,Haydon Bridge,Hexham
+2024-06-20,490000,NE47 5DP,D,N,F,Crossgate House,,Crossgate Cottages,Fourstones,Hexham
+2024-06-14,130000,NE47 6DS,S,N,F,27,,Greenwich Gardens,Haydon Bridge,Hexham
+2024-06-10,210000,NE47 9DR,S,N,F,18,,Wentworth Park,Allendale,Hexham
+2024-05-30,870000,NE47 9SW,D,N,F,Knockburn Farmhouse,,,Sinderhope,Hexham
+2024-05-24,565000,NE47 9AY,D,N,F,Meadow View,2,Splitty Lane,Catton,Hexham
+2024-05-24,550000,NE47 8AL,D,N,F,Low Limestone Brae,,,Carrshield,Hexham
+2024-05-17,170000,NE47 6ET,T,N,F,16,,Ratcliffe Road,Haydon Bridge,Hexham
+2024-05-14,398500,NE47 5EB,D,N,F,12,,St Aidans Park,Fourstones,Hexham
+2024-05-03,225000,NE47 9LT,S,N,F,Crawley House,1,Folly Lane,Catton,Hexham
+2024-05-02,585000,NE47 7EN,D,N,F,Wychwood Barn,,,Henshaw,Hexham
+2024-05-02,130000,NE47 6DR,S,N,F,2,,Hordley Acres,Haydon Bridge,Hexham
+2024-05-02,187000,NE47 6AE,S,N,F,7,,Martins Close,Haydon Bridge,Hexham
+2024-04-30,650000,NE47 9AD,D,N,F,Low Broadwood Hall,,,Allendale,Hexham
+2024-04-26,445000,NE47 0AT,S,N,F,"Bycroft, 2",,Townhead,Slaley,Hexham
+2024-04-15,402331,NE47 7AD,T,N,F,Rose Cottage,,,Thorngrafton,Hexham
+2024-04-09,385000,NE47 8DQ,D,N,F,Ivy Cottage,,,Mohope,Hexham
+2024-04-04,195000,NE47 9PR,T,N,F,5,,Leadgate,Allendale,Hexham
+2024-03-26,470000,NE47 6ND,D,N,F,Pleasant Cottage,,Heugh House Lane,Haydon Bridge,Hexham
+2024-03-22,240000,NE47 9QH,T,N,F,Brantgarth,,,Catton,Hexham
+2024-03-15,410000,NE47 9PY,D,N,F,Green Pastures,,Station Road,Allendale,Hexham
+2024-03-13,117500,NE47 6EF,S,N,F,43,,Langley Gardens,Haydon Bridge,Hexham
+2024-03-12,730000,NE47 0DF,T,N,F,West Woodfoot,Holly Hill View,,Slaley,Hexham
+2024-03-08,545000,NE47 9AA,D,N,F,Bridge End House,,Bridge End,Allendale,Hexham
+2024-02-27,385000,NE47 9JE,D,N,F,Roberta Cottage,,,Allenheads,Hexham
+2024-02-26,190000,NE47 5DU,S,N,F,22,,Broadway,Fourstones,Hexham
+2024-02-16,458000,NE47 6LY,S,N,F,Broomfield,,North Bank,Haydon Bridge,Hexham
+2024-02-15,125000,NE47 6AH,S,N,F,9,,Whittis Crescent,Haydon Bridge,Hexham
+2024-01-31,875000,NE47 5LZ,D,N,F,The Boundary,,,Langley On Tyne,Hexham
+2024-01-23,810000,NE47 5DL,T,N,F,Frankham Farm,Pole Barn,,Fourstones,Hexham
+2024-01-19,575000,NE47 9AY,D,N,F,Meadow View,5,Splitty Lane,Catton,Hexham
+2024-01-11,335000,NE47 7BP,D,N,F,Ridley Bastle,,,Bardon Mill,Hexham
+2024-01-09,695000,NE47 9AY,D,N,F,Meadow View,4,Splitty Lane,Catton,Hexham
+2024-01-08,225000,NE47 6LW,T,N,F,3,,Alexandra Terrace,Haydon Bridge,Hexham
+2023-12-19,395000,NE47 5AG,D,N,F,Stanegate House,,,Newbrough,Hexham
+2023-12-18,215000,NE47 9QN,S,N,F,1,,Glen Cottages,Allendale,Hexham
+2023-12-15,610000,NE47 9JQ,D,N,F,Thorn Green Cottage,,,Allenheads,Hexham
+2023-12-14,243500,NE47 9DR,D,N,F,32,,Wentworth Park,Allendale,Hexham
+2023-12-14,525000,NE47 7HF,D,N,F,Waughs Bank,,,Bardon Mill,Hexham
+2023-12-08,190000,NE47 6AA,S,N,F,Lynwood,,John Martin Street,Haydon Bridge,Hexham
+2023-12-07,230000,NE47 9JJ,S,N,F,2,,Guide Post Cottages,Allenheads,Hexham
+2023-12-07,220000,NE47 7EN,D,N,F,Netherbeck,,,Henshaw,Hexham
+2023-12-06,1000000,NE47 8HJ,D,N,F,Whamlands,,,Ninebanks,Hexham
+2023-12-01,420000,NE47 9JD,T,N,F,Kirks Cottage,,,Allenheads,Hexham
+2023-12-01,180500,NE47 6DR,S,N,F,8,,Hordley Acres,Haydon Bridge,Hexham
+2023-12-01,238000,NE47 6DE,D,N,L,25,,Innerhaugh Mews,Haydon Bridge,Hexham
+2023-11-30,245000,NE47 7ES,D,N,F,2,,Willow Close,Bardon Mill,Hexham
+2023-11-30,250000,NE47 6AD,S,N,F,9,,Tyne View Close,Haydon Bridge,Hexham
+2023-11-24,590000,NE47 9PX,D,N,F,Inglewood,,The Dene,Allendale,Hexham
+2023-11-24,365000,NE47 9AS,D,N,F,20,,Forstersteads,Allendale,Hexham
+2023-11-24,349950,NE47 8AA,D,N,F,Down View Barn,,,Carrshield,Hexham
+2023-11-22,175000,NE47 6DS,T,N,F,28,,Greenwich Gardens,Haydon Bridge,Hexham
+2023-11-22,950000,NE47 0LD,S,N,F,Black Hall Barn,,,Steel,Hexham
+2023-11-20,265000,NE47 9NF,D,N,F,Riversdale,,Bridge End,Allendale,Hexham
+2023-11-20,135000,NE47 7ED,T,N,F,3,,Hawthorn Terrace,Redburn,Hexham
+2023-11-16,457500,NE47 9QT,D,N,F,Highfield Barn,,,Catton,Hexham
+2023-11-16,465000,NE47 0AN,D,N,F,Broadpool,,,Slaley,Hexham
+2023-11-08,217500,NE47 9DR,S,N,F,20,,Wentworth Park,Allendale,Hexham
+2023-10-27,275000,NE47 9QQ,T,N,F,11,,Allen View,Catton,Hexham
+2023-10-27,170000,NE47 5DU,S,N,F,17,,Broadway,Fourstones,Hexham
+2023-10-27,655000,NE47 0AE,D,N,F,Stable Cottage,,,Slaley,Hexham
+2023-10-25,195000,NE47 9LT,S,N,F,Mount Pleasant Farmhouse,,Folly Lane,Catton,Hexham
+2023-10-20,360000,NE47 9PW,D,N,F,7,,Denelands,Allendale,Hexham
+2023-10-19,246000,NE47 7DT,D,N,F,26,,Tow House Green,Bardon Mill,Hexham
+2023-10-18,220000,NE47 9DR,S,N,F,10,,Wentworth Park,Allendale,Hexham
+2023-10-18,399500,NE47 6HN,D,N,F,Standalone,,,Haydon Bridge,Hexham
+2023-10-12,200000,NE47 5DX,D,N,F,The Croft,,,Fourstones,Hexham
+2023-10-03,505000,NE47 6HG,D,N,F,St Aidans,,Belmont Gardens,Haydon Bridge,Hexham
+2023-10-03,165000,NE47 5AE,T,N,F,7,,Sidgate,Newbrough,Hexham
+2023-10-02,425000,NE47 7BZ,D,N,F,The Bastle,,Beltingham,Bardon Mill,Hexham
+2023-09-29,545000,NE47 8JP,D,N,F,East Steel Farm,,,Whitfield,Hexham
+2023-09-29,165000,NE47 6AG,T,N,F,11,,Temple Houses,Haydon Bridge,Hexham
+2023-09-29,458000,NE47 5AB,T,N,F,1,,Allerwash Cottages,Allerwash,Hexham
+2023-09-27,425000,NE47 9NH,D,N,F,Thornleycombe,,,Thornley Gate,Hexham
+2023-09-22,265000,NE47 7JG,S,N,F,6,,Westwood Cottages,Westwood,Hexham
+2023-09-20,195000,NE47 9BB,D,N,F,1,,Selah Close,Allendale,Hexham
+2023-09-15,150000,NE47 6ET,T,N,F,18,,Ratcliffe Road,Haydon Bridge,Hexham
+2023-09-14,280000,NE47 9AS,D,N,F,24,,Forstersteads,Allendale,Hexham
+2023-09-14,195000,NE47 6AD,S,N,F,33,,Tyne View Close,Haydon Bridge,Hexham
+2023-09-13,226000,NE47 9DR,S,N,F,28,,Wentworth Park,Allendale,Hexham
+2023-09-13,295000,NE47 5AR,T,N,F,Town Hall Place,The Cottage,,Newbrough,Hexham
+2023-09-12,480000,NE47 9PA,D,N,F,Birkenpath,,,Allendale,Hexham
+2023-09-12,540000,NE47 6HJ,D,N,F,Heugh House West,,Heugh House Lane,Haydon Bridge,Hexham
+2023-09-08,410000,NE47 8AS,D,N,F,Shield Ridge,,,Carrshield,Hexham
+2023-09-08,295000,NE47 6BJ,T,N,F,22,,Shaftoe Street,Haydon Bridge,Hexham
+2023-09-05,80000,NE47 6AA,F,N,L,4A,,John Martin Street,Haydon Bridge,Hexham
+2023-08-31,325000,NE47 7JJ,S,N,F,Croydon Cottage,,,Thorngrafton,Hexham
+2023-08-31,210000,NE47 6DF,S,N,F,68,,The Showfield,Haydon Bridge,Hexham
+2023-08-25,315000,NE47 9PZ,S,N,F,Pinegarth,,Station Road,Allendale,Hexham
+2023-08-25,619000,NE47 8DB,D,N,F,The Old Vicarage,,,Ninebanks,Hexham
+2023-08-25,455000,NE47 7EN,D,N,F,Meadowdale,,,Henshaw,Hexham
+2023-08-22,350000,NE47 9PX,D,N,F,Burncroft,,The Dene,Allendale,Hexham
+2023-08-17,400000,NE47 0AB,S,N,F,1,,South Park,Slaley,Hexham
+2023-08-11,135000,NE47 6EE,T,N,F,23,,Langley Gardens,Haydon Bridge,Hexham
+2023-08-11,243000,NE47 6AT,S,N,F,3,,Rocksprings Crescent,Haydon Bridge,Hexham
+2023-08-10,780000,NE47 0AD,D,N,F,Slaley Grange,Meadow Rise,,Slaley,Hexham
+2023-08-07,170000,NE47 9HF,T,N,F,4,,Ropehaugh Cottages,Ropehaugh,Hexham
+2023-08-04,741000,NE47 6JU,D,N,F,Plunderheath,,,Haydon Bridge,Hexham
+2023-07-31,350000,NE47 8AW,D,N,F,Low Hartley Cleugh,,,Carrshield,Hexham
+2023-07-31,131250,NE47 6DF,S,N,L,3,,The Showfield,Haydon Bridge,Hexham
+2023-07-21,135000,NE47 6AD,T,N,F,10,,Tyne View Close,Haydon Bridge,Hexham
+2023-07-12,100500,NE47 5DN,D,N,F,Wyvern,,Butt Bank,Fourstones,Hexham
+2023-07-07,275000,NE47 9QL,T,N,F,"The Old Post Office, 1",,Batey Terrace,Catton,Hexham
+2023-07-07,165000,NE47 9QJ,T,N,F,Briar Cottage,,,Catton,Hexham
+2023-07-07,322000,NE47 6DF,D,N,F,70,,The Showfield,Haydon Bridge,Hexham
+2023-06-23,250000,NE47 6HR,D,N,F,Fell House,,,New Alston,Hexham
+2023-06-16,85000,NE47 6AJ,T,N,F,4,,Smiths Terrace,Haydon Bridge,Hexham
+2023-06-16,235000,NE47 6AD,S,N,F,8,,Tyne View Close,Haydon Bridge,Hexham
+2023-06-09,360000,NE47 6HG,D,N,F,4,,Belmont Gardens,Haydon Bridge,Hexham
+2023-05-26,140000,NE47 6DF,T,N,F,58,,The Showfield,Haydon Bridge,Hexham
+2023-05-19,165000,NE47 9DR,S,N,F,20,,Wentworth Park,Allendale,Hexham
+2023-05-19,53000,NE47 6HB,T,N,F,59,,Victoria Terrace,Haydon Bridge,Hexham
+2023-05-17,375000,NE47 8AA,D,N,F,Chapel Hill Cottage,,,Carrshield,Hexham
+2023-05-05,257000,NE47 7BH,S,N,F,Strand Cottage,,,Bardon Mill,Hexham
+2023-05-03,89000,NE47 7ED,T,N,F,6,,Hawthorn Terrace,Redburn,Hexham
+2023-04-27,640000,NE47 7AD,D,N,F,Holly Bank,,,Thorngrafton,Hexham
+2023-04-26,149500,NE47 6EQ,F,Y,L,2,,South Gables,Haydon Bridge,Hexham
+2023-04-21,120000,NE47 9XA,D,N,F,Tedham Cottage,,,Sparty Lea,Hexham
+2023-04-21,275500,NE47 6AD,D,N,F,26,,Tyne View Close,Haydon Bridge,Hexham
+2023-04-20,245000,NE47 7EQ,T,N,F,Tow House Farm Cottage,,,Tow House,Hexham
+2023-04-19,187000,NE47 6DE,T,N,L,37,,Innerhaugh Mews,Haydon Bridge,Hexham
+2023-04-18,450000,NE47 7HW,D,N,F,2,,Millfield Court,Bardon Mill,Hexham
+2023-04-17,405000,NE47 5AG,D,N,F,Overdale,,,Newbrough,Hexham
+2023-04-14,425000,NE47 9UR,D,N,F,Black Lot,,,Sparty Lea,Hexham
+2023-04-03,450000,NE47 7DY,D,N,F,The Larches,,,Bardon Mill,Hexham
+2023-03-31,152500,NE47 6AD,T,N,F,34,,Tyne View Close,Haydon Bridge,Hexham
+2023-03-30,168500,NE47 5AE,T,N,F,3,,Sidgate,Newbrough,Hexham
+2023-03-28,480000,NE47 9ND,T,N,F,Peth House,,,Allendale,Hexham
+2023-03-28,220000,NE47 9BP,T,N,F,5,,Shield Street,Allendale,Hexham
+2023-03-24,150000,NE47 9BP,T,N,F,7,,Shield Street,Allendale,Hexham
+2023-03-21,287500,NE47 6DE,D,N,L,21,,Innerhaugh Mews,Haydon Bridge,Hexham
+2023-03-17,225000,NE47 6JP,D,N,F,Springfield East,,,Haydon Bridge,Hexham
+2023-03-07,139000,NE47 5AF,T,N,F,40,,Sidgate,Newbrough,Hexham
+2023-03-03,254950,NE47 9EE,T,N,F,The Granary,,,Allendale,Hexham
+2023-02-20,326500,NE47 6EQ,D,Y,F,10,,South Gables,Haydon Bridge,Hexham
+2023-02-14,175000,NE47 6DS,S,N,F,6,,Greenwich Gardens,Haydon Bridge,Hexham
+2023-02-13,309000,NE47 5EB,D,N,F,2,,St Aidans Park,Fourstones,Hexham
+2023-02-02,395000,NE47 0BY,S,N,F,Ladycross Cottage,,,Slaley,Hexham
+2023-01-31,220000,NE47 9SF,D,N,F,Woodhall Cottage,,,Sinderhope,Hexham
+2023-01-31,131000,NE47 6DF,S,N,L,26,,The Showfield,Haydon Bridge,Hexham
+2023-01-30,205000,NE47 9BW,T,N,F,5,,Arnison Terrace,Allendale,Hexham
+2023-01-25,715000,NE47 0DF,D,N,F,East Woodfoot Cottage,,,Slaley,Hexham
+2023-01-03,160000,NE47 9UE,D,N,F,Ellershope Cottage,,,Sparty Lea,Hexham
+2022-12-20,185000,NE47 5AF,S,N,F,26,,Sidgate,Newbrough,Hexham
+2022-12-19,155000,NE47 6DF,T,N,F,62,,The Showfield,Haydon Bridge,Hexham
+2022-12-19,215000,NE47 6AD,S,N,F,32,,Tyne View Close,Haydon Bridge,Hexham
+2022-12-16,161250,NE47 7EF,T,N,F,6,,Broadacres,Bardon Mill,Hexham
+2022-12-16,362500,NE47 5AR,T,N,F,Ashley Cottage,,,Newbrough,Hexham
+2022-12-15,837000,NE47 0HL,D,N,F,Low Raw Green,,,Steel,Hexham
+2022-12-13,125000,NE47 6EU,T,N,F,3,,Tynedale Cottages,Haydon Bridge,Hexham
+2022-12-09,275000,NE47 9PX,T,N,F,Denecroft,,The Dene,Allendale,Hexham
+2022-12-09,350000,NE47 9NS,D,N,F,North Holly Bush,,,Allendale,Hexham
+2022-12-09,48050,NE47 6AD,T,N,L,35,,Tyne View Close,Haydon Bridge,Hexham
+2022-12-08,300000,NE47 7DU,D,N,F,6,,Falcon Grange,Bardon Mill,Hexham
+2022-12-02,215000,NE47 9DR,T,N,F,45,,Wentworth Park,Allendale,Hexham
+2022-12-02,327500,NE47 5EB,D,N,F,10,,St Aidans Park,Fourstones,Hexham
+2022-11-30,350000,NE47 6NB,S,N,F,Toft Bank House,,Tofts Bank,Haydon Bridge,Hexham
+2022-11-30,480000,NE47 0BY,S,N,F,Stoneyburn,,,Slaley,Hexham
+2022-11-24,580000,NE47 6NF,D,N,F,Cubstocks,2,,Haydon Bridge,Hexham
+2022-11-23,385000,NE47 0BN,D,N,F,Glencroft,,,Slaley,Hexham
+2022-11-11,485000,NE47 9NS,D,N,F,Holly Bush,,,Allendale,Hexham
+2022-11-08,185000,NE47 6EQ,F,N,L,7,,South Gables,Haydon Bridge,Hexham
+2022-11-01,530000,NE47 9SW,D,N,F,High Knockshield,,,Sinderhope,Hexham
+2022-11-01,200000,NE47 0AB,S,N,F,6,,South Park,Slaley,Hexham
+2022-10-31,378500,NE47 6HG,D,N,F,17,,Belmont Gardens,Haydon Bridge,Hexham
+2022-10-31,320000,NE47 6EX,S,N,F,Barnard House,,Brigwood,Haydon Bridge,Hexham
+2022-10-28,165000,NE47 6DR,S,N,F,23,,Hordley Acres,Haydon Bridge,Hexham
+2022-10-28,450000,NE47 0BG,D,N,F,18,,Slaley Park,Slaley,Hexham
+2022-10-26,185000,NE47 8DB,S,N,F,Farneyside Cottages,1,,Ninebanks,Hexham
+2022-10-21,275000,NE47 9QQ,T,N,F,6,,Allen View,Catton,Hexham
+2022-10-21,265000,NE47 9AS,S,N,F,9,,Forstersteads,Allendale,Hexham
+2022-10-19,285000,NE47 9HQ,S,N,F,Burnstones,,,Allenheads,Hexham
+2022-10-19,250000,NE47 8AA,S,N,F,Sunny Corner,,,Carrshield,Hexham
+2022-10-19,300000,NE47 6LX,D,N,F,Foxton,,North Bank,Haydon Bridge,Hexham
+2022-10-19,330000,NE47 6EQ,D,Y,F,9,,South Gables,Haydon Bridge,Hexham
+2022-10-17,199950,NE47 6BS,S,N,F,5,,Douglas Gardens,Haydon Bridge,Hexham
+2022-10-14,430000,NE47 5DX,D,N,F,Village Farm Cottage,,,Fourstones,Hexham
+2022-10-07,135000,NE47 6EF,T,N,F,40,,Langley Gardens,Haydon Bridge,Hexham
+2022-10-07,196000,NE47 6AD,T,N,F,40,,Tyne View Close,Haydon Bridge,Hexham
+2022-10-06,120000,NE47 6JN,T,N,F,33,,Strother Close,Haydon Bridge,Hexham
+2022-10-04,415000,NE47 9JQ,D,N,F,Kiln House,,,Allenheads,Hexham
+2022-09-30,485000,NE47 7JJ,D,N,F,Rosewood,,,Thorngrafton,Hexham
+2022-09-15,182000,NE47 9LG,D,N,F,Viewlands,,Shilburn Road,Allendale,Hexham
+2022-09-14,760000,NE47 0AT,D,N,F,"Drumtochty House, 5",,Townhead,Slaley,Hexham
+2022-09-09,330000,NE47 6EQ,D,Y,F,8,,South Gables,Haydon Bridge,Hexham
+2022-09-01,230000,NE47 6AD,S,N,F,30,,Tyne View Close,Haydon Bridge,Hexham
+2022-08-24,200000,NE47 6AD,S,N,F,17,,Tyne View Close,Haydon Bridge,Hexham
+2022-08-22,160000,NE47 6AD,S,N,F,16,,Tyne View Close,Haydon Bridge,Hexham
+2022-08-19,425000,NE47 9PW,D,N,F,1,,Denelands,Allendale,Hexham
+2022-08-17,245000,NE47 9PP,T,N,F,5,,Dawson Place,Allendale,Hexham
+2022-08-17,235000,NE47 8AA,S,N,F,Carrshield Cottage,,,Carrshield,Hexham
+2022-08-12,250000,NE47 9BJ,T,N,F,Allenton,,,Allendale,Hexham
+2022-08-12,255000,NE47 6ET,T,N,F,32,,Ratcliffe Road,Haydon Bridge,Hexham
+2022-08-03,550000,NE47 9JE,D,N,F,Bentfoot,,,Allenheads,Hexham
+2022-07-29,551000,NE47 9PA,D,N,F,Dryburn Hall,,,Allendale,Hexham
+2022-07-27,235000,NE47 8DB,S,N,F,The Old School House,,,Ninebanks,Hexham
+2022-07-25,198500,NE47 6LW,T,N,F,2,,Alexandra Terrace,Haydon Bridge,Hexham
+2022-07-20,615000,NE47 5BG,D,N,F,Thistledene Cottage,,,Newbrough,Hexham
+2022-07-15,265000,NE47 9DR,S,N,F,14,,Wentworth Park,Allendale,Hexham
+2022-07-11,340000,NE47 7EP,D,N,F,Grace Cottage,,,Henshaw,Hexham
+2022-07-11,350000,NE47 6ET,S,N,F,30,,Ratcliffe Road,Haydon Bridge,Hexham
+2022-07-08,265000,NE47 9QS,D,N,F,Valleyfield,,,Catton,Hexham
+2022-07-08,130000,NE47 6DF,D,N,F,46,,The Showfield,Haydon Bridge,Hexham
+2022-07-01,360000,NE47 9NT,T,N,F,Plane Trees,3,,Allendale,Hexham
+2022-06-30,45000,NE47 6DF,S,N,L,28,,The Showfield,Haydon Bridge,Hexham
+2022-06-30,770000,NE47 0LA,S,N,F,Juniper House,,,Low Juniper,Hexham
+2022-06-29,325000,NE47 9NN,D,N,F,Hill House,,,Allendale,Hexham
+2022-06-17,150000,NE47 5AE,S,N,F,25,,Sidgate,Newbrough,Hexham
+2022-06-15,143000,NE47 5DX,D,N,F,East Fourstones,Rosebank Cottage 2 The Square,,Fourstones,Hexham
+2022-06-08,615000,NE47 0BY,D,N,F,Colpitts Grange,Peartree Cottage,,Slaley,Hexham
+2022-06-07,122000,NE47 9QJ,T,N,F,Prospect Cottage,,,Catton,Hexham
+2022-06-01,255000,NE47 9QP,T,N,F,The Shieling,,Floral Terrace,Catton,Hexham
+2022-05-27,42500,NE47 6DF,T,N,L,33,,The Showfield,Haydon Bridge,Hexham
+2022-05-27,200000,NE47 5BB,T,N,F,10,,The Terrace,Settlingstones,Hexham
+2022-05-26,120000,NE47 6DF,T,N,L,9,,The Showfield,Haydon Bridge,Hexham
+2022-05-20,145000,NE47 6BQ,T,N,F,25,,Shaftoe Street,Haydon Bridge,Hexham
+2022-05-20,560000,NE47 5DF,D,N,F,The Gables,,,Fourstones,Hexham
+2022-05-19,275000,NE47 6LW,T,N,F,11,,Alexandra Terrace,Haydon Bridge,Hexham
+2022-05-17,347000,NE47 9JE,D,N,F,Roberta Cottage,,,Allenheads,Hexham
+2022-05-13,245000,NE47 9JQ,T,N,F,West Bank,,,Allenheads,Hexham
+2022-05-06,192000,NE47 9BB,T,N,F,15,,Selah Close,Allendale,Hexham
+2022-05-04,150000,NE47 5BB,T,N,F,9,,The Terrace,Settlingstones,Hexham
+2022-04-29,325000,NE47 7AN,D,N,F,Tall Trees,,,Bardon Mill,Hexham
+2022-04-29,200000,NE47 5BB,T,N,F,2,,The Terrace,Settlingstones,Hexham
+2022-04-27,400000,NE47 9QR,D,N,F,Hamstead,,,Catton,Hexham
+2022-04-25,723000,NE47 8DL,D,N,F,Middle,,,Ninebanks,Hexham
+2022-04-21,295000,NE47 6ED,D,N,F,House Martin,,,Haydon Bridge,Hexham
+2022-04-11,205000,NE47 6HD,D,N,F,Belmont Lodge,,Belmont,Haydon Bridge,Hexham
+2022-04-06,435000,NE47 5LW,D,N,F,12,,Broadacres,Fourstones,Hexham
+2022-04-04,280000,NE47 5AR,S,N,F,East View,,,Newbrough,Hexham
+2022-03-31,395000,NE47 5ED,D,N,F,13,,Charlton Place,Newbrough,Hexham
+2022-03-29,202500,NE47 9UP,D,N,F,Blackclough,,,Sparty Lea,Hexham
+2022-03-24,620000,NE47 9LN,D,N,F,Harlow Keep,,,Catton,Hexham
+2022-03-24,416000,NE47 0BY,T,N,F,Colpitts Grange,Pinecroft,,Slaley,Hexham
+2022-03-22,175000,NE47 7EE,T,N,F,5,,Springfield Terrace,Redburn,Hexham
+2022-03-18,220000,NE47 6EQ,T,N,F,19,,South Gables,Haydon Bridge,Hexham
+2022-03-14,150000,NE47 9DB,T,N,F,15,,Allenfields,Allendale,Hexham
+2022-03-14,116500,NE47 9BY,D,N,F,Lonkley Foot,,,Allendale,Hexham
+2022-03-11,160000,NE47 6LL,T,N,F,7,,Station Cottages,Haydon Bridge,Hexham
+2022-03-03,222500,NE47 6DF,S,N,F,52,,The Showfield,Haydon Bridge,Hexham
+2022-02-18,185000,NE47 6AD,S,N,F,45,,Tyne View Close,Haydon Bridge,Hexham
+2022-02-09,410000,NE47 9QS,D,N,F,Whitesmocks,,,Catton,Hexham
+2022-02-01,308000,NE47 9AS,D,N,F,1,,Forstersteads,Allendale,Hexham
+2022-01-27,160000,NE47 6ER,T,N,F,3,,Ratcliffe Road,Haydon Bridge,Hexham
+2022-01-18,245000,NE47 7ES,D,N,F,"Routburn, 3",,Willow Close,Bardon Mill,Hexham
+2022-01-17,185000,NE47 9LQ,T,N,F,Burnside,,Shilburn Road,Allendale,Hexham
+2021-12-20,385000,NE47 9EH,S,N,F,2,,Brides Hill Cottages,Allendale,Hexham
+2021-12-20,150000,NE47 5DP,F,N,L,3,,Crossgate Cottages,Fourstones,Hexham
+2021-12-17,280000,NE47 6LZ,S,N,F,Banks Cottages,2,North Bank,Haydon Bridge,Hexham
+2021-12-17,470000,NE47 0BQ,D,N,F,Park House,,,Slaley,Hexham
+2021-12-15,275000,NE47 9HQ,S,N,F,Burnstones,,,Allenheads,Hexham
+2021-12-10,240000,NE47 6JP,S,N,F,Springfield,2,,Haydon Bridge,Hexham
+2021-12-10,172500,NE47 6ET,T,N,F,44,,Ratcliffe Road,Haydon Bridge,Hexham
+2021-12-01,290000,NE47 8AS,D,N,F,Shield Ridge,,,Carrshield,Hexham
+2021-11-30,1392877,NE47 9AF,D,N,F,High Broadwood Hall,,,Allendale,Hexham
+2021-11-26,505000,NE47 9JE,D,N,F,Low Rigg,,,Allenheads,Hexham
+2021-11-19,874444,NE47 0HJ,D,N,F,Rowley Head,,,Steel,Hexham
+2021-11-12,450000,NE47 6LZ,D,N,F,Drummonds,,North Bank,Haydon Bridge,Hexham
+2021-11-08,169950,NE47 5BB,T,N,F,5,,The Terrace,Settlingstones,Hexham
+2021-11-08,346000,NE47 5AB,T,N,F,3,,Allerwash Cottages,Allerwash,Hexham
+2021-11-05,162500,NE47 9DR,S,N,F,25,,Wentworth Park,Allendale,Hexham
+2021-10-22,160000,NE47 9BW,T,N,F,5,,Arnison Terrace,Allendale,Hexham
+2021-10-22,170000,NE47 6ER,D,N,F,"Brigwood Cottage, 37",,Ratcliffe Road,Haydon Bridge,Hexham
+2021-10-18,82000,NE47 6JL,T,N,F,5,,Parkers Terrace,Haydon Bridge,Hexham
+2021-10-08,230000,NE47 9HQ,D,N,F,Molecatchers Cottage,,,Allenheads,Hexham
+2021-09-30,155000,NE47 9HF,T,N,F,12,,Ropehaugh Cottages,Ropehaugh,Hexham
+2021-09-30,740000,NE47 8JE,D,N,F,West Steel,,,Whitfield,Hexham
+2021-09-30,445000,NE47 5EF,D,N,F,Cherry Tree House,,,Fourstones,Hexham
+2021-09-28,245000,NE47 7EQ,D,N,F,Lynnburn Cottage,,,Tow House,Hexham
+2021-09-27,41250,NE47 6DF,T,N,L,41,,The Showfield,Haydon Bridge,Hexham
+2021-09-27,175000,NE47 6DE,T,N,L,15,,Innerhaugh Mews,Haydon Bridge,Hexham
+2021-09-24,268000,NE47 6ND,S,N,F,Castle View,,Heugh House Lane,Haydon Bridge,Hexham
+2021-09-10,230000,NE47 6HR,S,N,F,7,,The Cottages,New Alston,Hexham
+2021-09-08,540000,NE47 8DH,D,N,F,Chapel Cottage,,,Mohope,Hexham
+2021-08-26,144500,NE47 6DF,T,N,F,64,,The Showfield,Haydon Bridge,Hexham
+2021-08-23,297500,NE47 6DF,D,N,F,80,,The Showfield,Haydon Bridge,Hexham
+2021-08-19,425000,NE47 7JJ,D,N,F,Orchard House,,,Thorngrafton,Hexham
+2021-08-17,145000,NE47 9DB,T,N,F,7,,Allenfields,Allendale,Hexham
+2021-08-16,290000,NE47 9EN,D,N,F,Piatroon Cottage,,,Allendale,Hexham
+2021-08-13,476000,NE47 9HF,D,N,F,The Old Chapel,,Ropehaugh Cottages,Ropehaugh,Hexham
+2021-08-12,90000,NE47 9BP,T,N,F,The Cottage,,Shield Street,Allendale,Hexham
+2021-08-11,125000,NE47 9BP,T,N,F,"Ings Cottage, 1",,Shield Street,Allendale,Hexham
+2021-08-05,183430,NE47 9UR,S,N,F,Swinhope View,,,Sparty Lea,Hexham
+2021-08-05,245000,NE47 7JL,D,N,F,High Birkshaw,,,Bardon Mill,Hexham
+2021-08-02,158000,NE47 6AH,S,N,F,12,,Whittis Crescent,Haydon Bridge,Hexham
+2021-07-30,58000,NE47 9HF,T,N,F,13,,Ropehaugh Cottages,Ropehaugh,Hexham
+2021-07-23,50250,NE47 6DF,T,N,L,31,,The Showfield,Haydon Bridge,Hexham
+2021-07-23,145000,NE47 6BQ,S,N,F,5,,Shaftoe Street,Haydon Bridge,Hexham
+2021-07-16,180000,NE47 6BS,S,N,F,8,,Douglas Gardens,Haydon Bridge,Hexham
+2021-07-02,136500,NE47 6AJ,T,N,F,18,,Smiths Terrace,Haydon Bridge,Hexham
+2021-06-30,487500,NE47 6JS,D,N,F,Altonside Barn,,,Haydon Bridge,Hexham
+2021-06-29,405000,NE47 6AB,S,N,F,"Broadstone Cottage, 17",,John Martin Street,Haydon Bridge,Hexham
+2021-06-29,354300,NE47 5AB,S,N,F,2 Allerwash Hall,,,Allerwash,Hexham
+2021-06-29,600000,NE47 0AA,D,N,F,Orchard House West,,,Slaley,Hexham
+2021-06-28,570000,NE47 9PX,D,N,F,Redhurst,,The Dene,Allendale,Hexham
+2021-06-28,485000,NE47 9EE,S,N,F,Rowan House,,,Allendale,Hexham
+2021-06-28,510000,NE47 6ND,D,N,F,Highfield,,Heugh House Lane,Haydon Bridge,Hexham
+2021-06-25,340000,NE47 9QR,D,N,F,Capercaillie,,,Catton,Hexham
+2021-06-25,140000,NE47 9HF,T,N,F,16,,Ropehaugh Cottages,Ropehaugh,Hexham
+2021-06-25,200000,NE47 9AB,D,N,F,Wooley Park Farmhouse,,,Allendale,Hexham
+2021-06-25,247500,NE47 7DU,D,N,F,6,,Falcon Grange,Bardon Mill,Hexham
+2021-06-14,235000,NE47 9AA,S,N,F,Bridge End Cottage,,Bridge End,Allendale,Hexham
+2021-06-11,475000,NE47 9NL,D,N,F,Cleugh Head,,,Allendale,Hexham
+2021-06-11,156000,NE47 0BQ,D,N,F,Corrie House,,,Slaley,Hexham
+2021-06-04,184000,NE47 9QQ,S,N,F,22,,Allen View,Catton,Hexham
+2021-06-04,180000,NE47 9PA,D,N,F,2,,New Houses,Allendale,Hexham
+2021-06-03,170000,NE47 9DR,S,N,F,17,,Wentworth Park,Allendale,Hexham
+2021-05-29,165000,NE47 5DL,S,N,F,2,,Frankham Farm Cottages,Fourstones,Hexham
+2021-05-28,290000,NE47 9PR,S,N,F,Ashcroft,,Leadgate,Allendale,Hexham
+2021-05-28,375000,NE47 9LS,D,N,F,Newfield,1,,Catton,Hexham
+2021-05-28,185000,NE47 9DR,T,N,F,45,,Wentworth Park,Allendale,Hexham
+2021-05-28,210000,NE47 8DQ,D,N,F,Raby Cottage,,,Mohope,Hexham
+2021-05-21,490000,NE47 7JL,D,N,F,Birkshaw House,,,Bardon Mill,Hexham
+2021-05-21,455000,NE47 0BQ,D,N,F,Dalmore,,,Slaley,Hexham
+2021-05-17,116000,NE47 7EF,S,N,F,14,,Broadacres,Bardon Mill,Hexham
+2021-05-12,750000,NE47 9EF,D,N,F,Podsbank,,,Allendale,Hexham
+2021-05-07,260000,NE47 6AD,D,N,F,24,,Tyne View Close,Haydon Bridge,Hexham
+2021-05-06,220000,NE47 9JE,D,N,F,Rose Cottage,,,Allenheads,Hexham
+2021-05-05,245000,NE47 9PZ,S,N,F,"The Datcha, 9",,Station Road,Allendale,Hexham
+2021-05-04,319000,NE47 5EB,D,N,F,19,,St Aidans Park,Fourstones,Hexham
+2021-04-30,158500,NE47 6DE,S,N,L,9,,Innerhaugh Mews,Haydon Bridge,Hexham
+2021-04-29,390000,NE47 9BP,T,N,F,Cross Keys,,Shield Street,Allendale,Hexham
+2021-04-28,585000,NE47 9BW,T,N,F,Hotspur House,,Arnison Terrace,Allendale,Hexham
+2021-04-23,156000,NE47 7JG,T,N,F,3,,Westwood Cottages,Westwood,Hexham
+2021-04-23,205000,NE47 6DE,D,N,F,26,,Innerhaugh Mews,Haydon Bridge,Hexham
+2021-04-23,179995,NE47 6AD,S,N,F,18,,Tyne View Close,Haydon Bridge,Hexham
+2021-04-23,710000,NE47 0AD,D,N,F,Slaley House,,,Slaley,Hexham
+2021-04-22,187000,NE47 5DU,T,N,F,5,,Broadway,Fourstones,Hexham
+2021-04-20,275000,NE47 7JG,T,N,F,1,,Westwood Cottages,Westwood,Hexham
+2021-04-16,450000,NE47 7JJ,T,N,F,Westend Town Byre,,,Thorngrafton,Hexham
+2021-04-13,142500,NE47 9UY,T,N,F,2,,Sipton Terrace,Sparty Lea,Hexham
+2021-03-25,1000000,NE47 9ER,D,N,F,Lane Head,,,Allendale,Hexham
+2021-03-22,309000,NE47 9QS,D,N,F,Boundary House,,,Catton,Hexham
+2021-03-19,190000,NE47 7DX,D,N,F,Riverdale,,,Bardon Mill,Hexham
+2021-03-19,695000,NE47 0DF,D,N,F,East Woodfoot,Old Farm,,Slaley,Hexham
+2021-03-12,310000,NE47 7BT,D,N,L,Burn Cottage,,Beltingham,Bardon Mill,Hexham
+2021-03-12,200000,NE47 6AD,S,N,F,7,,Tyne View Close,Haydon Bridge,Hexham
+2021-03-12,680000,NE47 5DX,D,N,F,Hemmel House,,,Fourstones,Hexham
+2021-03-05,600000,NE47 0BQ,D,N,F,Towns Foot,The Granary,,Slaley,Hexham
+2021-03-03,243000,NE47 9BT,T,N,F,3,,Wentworth Terrace,Allendale,Hexham
+2021-03-03,180000,NE47 6LL,S,N,F,Station House,,,Haydon Bridge,Hexham
+2021-03-02,233000,NE47 6BL,T,N,F,2,,Shaftoe Court,Haydon Bridge,Hexham
+2021-03-01,195000,NE47 9DR,D,N,F,39,,Wentworth Park,Allendale,Hexham
+2021-03-01,171000,NE47 7DX,S,N,F,Riverdale,Lynwood,,Bardon Mill,Hexham
+2021-02-26,312500,NE47 9PX,S,N,F,Philipburn Cottage,,The Dene,Allendale,Hexham
+2021-02-26,167000,NE47 8AA,S,N,F,Heronwell,,,Carrshield,Hexham
+2021-02-26,85770,NE47 6JN,S,N,F,44,,Strother Close,Haydon Bridge,Hexham
+2021-02-22,335000,NE47 7EG,D,N,F,Mill Haven,,,Tow House,Hexham
+2021-02-15,260000,NE47 9LG,D,N,F,Bede Lodge,,Shilburn Road,Allendale,Hexham
+2021-02-11,295000,NE47 9BP,T,N,F,Southways,,Shield Street,Allendale,Hexham
+2021-02-11,122000,NE47 6AJ,T,N,F,20,,Smiths Terrace,Haydon Bridge,Hexham
+2021-02-05,217000,NE47 7JQ,T,N,F,5,,,Scroggwood,Hexham
+2021-02-04,467500,NE47 8AW,D,N,F,South View,,,Carrshield,Hexham
+2021-02-03,510000,NE47 7AS,D,N,F,Greenlee,,,Bardon Mill,Hexham
+2021-01-29,605000,NE47 7BZ,D,N,F,The Vicarage,,Beltingham,Bardon Mill,Hexham
+2021-01-27,350000,NE47 9QJ,D,N,F,The Oval,,,Catton,Hexham
+2021-01-26,164000,NE47 9UY,T,N,F,4,,Sipton Terrace,Sparty Lea,Hexham
+2021-01-25,388500,NE47 5LW,D,N,F,1,,Broadacres,Fourstones,Hexham
+2021-01-20,420000,NE47 5LW,D,N,F,12,,Broadacres,Fourstones,Hexham
+2021-01-15,175000,NE47 9BP,T,N,F,3,,Shield Street,Allendale,Hexham
+2021-01-05,315000,NE47 6DG,D,N,F,Clonmel,,Land Ends Road,Haydon Bridge,Hexham

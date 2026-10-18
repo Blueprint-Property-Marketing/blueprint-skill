@@ -1,0 +1,625 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-17,465000,DY7 6ES,D,N,F,74,,High Street,Kinver,Stourbridge
+2026-08-17,500000,DY7 5DL,D,N,F,1,,Glebelands,Bobbington,Stourbridge
+2026-08-06,350000,DY7 6HT,S,N,F,Woodale,,Comber Road,Kinver,Stourbridge
+2026-07-31,235000,DY7 6JP,T,N,F,25,,Redwood Road,Kinver,Stourbridge
+2026-07-30,440000,DY7 6BY,S,N,F,72,,Meddins Lane,Kinver,Stourbridge
+2026-07-07,610000,DY7 6LJ,D,N,F,15,,Dunsley Road,Kinver,Stourbridge
+2026-07-07,505000,DY7 6LB,D,N,F,18,,Mill Fields,Kinver,Stourbridge
+2026-06-08,240000,DY7 6EE,S,N,F,65,,Church View Gardens,Kinver,Stourbridge
+2026-05-29,648000,DY7 6EG,D,N,F,Hillview,,Stone Lane,Kinver,Stourbridge
+2026-05-22,486000,DY7 6EE,S,N,F,48,,Church View Gardens,Kinver,Stourbridge
+2026-05-22,280000,DY7 6AD,S,N,F,16A,,White Hill,Kinver,Stourbridge
+2026-05-20,150000,DY7 5DE,F,N,L,Leaton Hall,Flat 11,Leaton Lane,Bobbington,Stourbridge
+2026-05-15,335000,DY7 6NR,T,N,F,The Anchor,1,Dark Lane,Kinver,Stourbridge
+2026-05-15,499950,DY7 6BY,S,N,F,56,,Meddins Lane,Kinver,Stourbridge
+2026-05-08,250000,DY7 5DB,S,N,F,12,,Brantley Crescent,Bobbington,Stourbridge
+2026-04-24,670000,DY7 5NQ,D,N,F,Holly Rise,,Compton,Kinver,Stourbridge
+2026-04-21,180000,DY7 6AX,T,N,F,32,,Edge View Walk,Kinver,Stourbridge
+2026-04-07,350000,DY7 6BP,T,N,F,4,,Holly Close,Kinver,Stourbridge
+2026-04-01,882500,DY7 6NX,D,N,F,Whittington Old House,,Horse Bridge Lane,Kinver,Stourbridge
+2026-04-01,675000,DY7 6EG,D,N,F,12,,Stone Lane,Kinver,Stourbridge
+2026-03-31,249000,DY7 6BN,S,N,F,106,,Enville Road,Kinver,Stourbridge
+2026-03-27,495000,DY7 6RR,D,N,F,7,,Stourton Crescent,,Stourbridge
+2026-03-27,417500,DY7 6NR,T,N,F,The Anchor,4,Dark Lane,Kinver,Stourbridge
+2026-03-27,359950,DY7 6BW,S,N,F,42,,Cedar Gardens,Kinver,Stourbridge
+2026-03-26,223000,DY7 6EA,S,N,F,26,,Foster Crescent,Kinver,Stourbridge
+2026-03-26,730000,DY7 5JF,D,N,F,The Lodge,,Bridgnorth Road,Enville,Stourbridge
+2026-03-25,311000,DY7 6AX,T,N,F,19,,Edge View Walk,Kinver,Stourbridge
+2026-03-23,290000,DY7 6RL,T,N,F,26,,The Stewponey,Stourton,Stourbridge
+2026-03-20,255000,DY7 5PF,S,N,F,5,,Pavilion End,,Stourbridge
+2026-03-20,260000,DY7 5PF,T,N,F,12,,Pavilion End,,Stourbridge
+2026-03-19,280000,DY7 6JQ,S,N,F,19,,Lime Grove,Kinver,Stourbridge
+2026-03-13,360000,DY7 6BP,D,N,F,14,,Holly Close,Kinver,Stourbridge
+2026-03-13,570000,DY7 6AA,D,N,F,16B,Asprey House,Enville Road,Kinver,Stourbridge
+2026-02-25,495000,DY7 6HG,S,N,F,7,,High Street,Kinver,Stourbridge
+2026-02-20,500000,DY7 6SD,S,N,F,9,,Hyperion Road,Stourton,Stourbridge
+2026-02-20,255000,DY7 6EX,F,N,L,Lowestone Court,6,Stone Lane,Kinver,Stourbridge
+2026-02-13,280000,DY7 6BT,S,N,F,2,,Maple Close,Kinver,Stourbridge
+2026-02-13,440000,DY7 6BL,D,N,F,195,,Enville Road,Kinver,Stourbridge
+2026-02-13,392500,DY7 6AD,S,N,F,3,,White Hill,Kinver,Stourbridge
+2026-02-11,580000,DY7 6LJ,D,N,F,11,,Dunsley Road,Kinver,Stourbridge
+2026-02-06,240000,DY7 6HL,T,N,F,Clifton House,,High Street,Kinver,Stourbridge
+2026-01-22,490000,DY7 5HU,D,N,F,11,,Blundies Lane,Enville,Stourbridge
+2026-01-09,650000,DY7 6RT,D,N,F,44,,Bridgnorth Road,Stourton,Stourbridge
+2025-12-19,1251975,DY7 5AF,D,N,F,Beauchamp House,,Wolverhampton Road,Stourton,Stourbridge
+2025-12-12,159000,DY7 6RH,F,N,L,22,,Stewponey Court,Stourton,Stourbridge
+2025-12-12,460000,DY7 6HZ,D,N,F,The Old Church,,Church Hill,Kinver,Stourbridge
+2025-12-12,440000,DY7 6EE,S,N,F,59,,Church View Gardens,Kinver,Stourbridge
+2025-12-11,380000,DY7 6BU,D,N,F,68,,Enville Road,Kinver,Stourbridge
+2025-11-28,710000,DY7 6EP,D,N,F,Sun Rise,,Foley Street,Kinver,Stourbridge
+2025-11-26,383000,DY7 6JP,S,N,F,17,,Redwood Road,Kinver,Stourbridge
+2025-11-26,572500,DY7 6EB,T,N,F,3,,Foster Street,Kinver,Stourbridge
+2025-11-21,785000,DY7 6RY,D,N,F,Spring Kell House,,Bridgnorth Road,Stourton,Stourbridge
+2025-11-14,225000,DY7 6BN,T,N,F,153,,Enville Road,Kinver,Stourbridge
+2025-11-14,875000,DY7 5QW,D,N,F,Kelmestowe,,Lawnswood Drive,,Stourbridge
+2025-11-03,375000,DY7 6DD,S,N,F,85,,Meddins Lane,Kinver,Stourbridge
+2025-11-03,272500,DY7 6AD,S,N,F,16B,,White Hill,Kinver,Stourbridge
+2025-10-31,310000,DY7 6EE,D,N,F,96,,Church View Gardens,Kinver,Stourbridge
+2025-10-30,290000,DY7 6EX,F,N,L,Lowestone Court,22,Stone Lane,Kinver,Stourbridge
+2025-10-30,595000,DY7 5DP,D,N,F,Blacklands Barns,Meadowside,Six Ashes Road,Bobbington,Stourbridge
+2025-10-23,635000,DY7 6NB,D,N,F,Cornerways,,Dunsley Drive,Kinver,Stourbridge
+2025-10-23,304000,DY7 6JG,S,N,F,18,,Elm Grove,Kinver,Stourbridge
+2025-10-23,495000,DY7 6EP,D,N,F,9,,Foley Street,Kinver,Stourbridge
+2025-10-23,425000,DY7 6ED,D,N,F,19,,James Street,Kinver,Stourbridge
+2025-10-23,327500,DY7 6AJ,D,N,F,57,,Windsor Crescent,Kinver,Stourbridge
+2025-10-17,180000,DY7 6EB,S,N,F,34,,Foster Street,Kinver,Stourbridge
+2025-10-17,325000,DY7 5PA,D,N,F,3,,Boundary Lane,,Stourbridge
+2025-10-16,1100000,DY7 6JA,D,N,F,7,,Dark Lane,Kinver,Stourbridge
+2025-10-15,375000,DY7 6DN,D,N,F,24,,Compton Road,Kinver,Stourbridge
+2025-10-15,842000,DY7 5DH,D,N,F,The Birches,,Church Lane,Bobbington,Stourbridge
+2025-10-14,145000,DY7 6RH,F,N,L,15,,Stewponey Court,Stourton,Stourbridge
+2025-10-10,260000,DY7 6BA,S,N,F,69,,Huntsmans Drive,Kinver,Stourbridge
+2025-10-10,240000,DY7 5PE,D,N,F,10,,Lords Lane,,Stourbridge
+2025-10-06,585000,DY7 6RT,D,N,F,72,,Bridgnorth Road,Stourton,Stourbridge
+2025-10-03,244000,DY7 6AD,S,N,F,24,,White Hill,Kinver,Stourbridge
+2025-10-02,137000,DY7 6BA,T,N,F,55,,Huntsmans Drive,Kinver,Stourbridge
+2025-09-26,575000,DY7 6BY,D,N,F,52,,Meddins Lane,Kinver,Stourbridge
+2025-09-19,758500,DY7 6SD,D,N,F,35,,Hyperion Road,Stourton,Stourbridge
+2025-09-12,355500,DY7 6SL,D,N,F,104,,Hyperion Road,Stourton,Stourbridge
+2025-09-12,750000,DY7 6RS,D,N,F,35,,Bridgnorth Road,Stourton,Stourbridge
+2025-09-12,310000,DY7 6BA,S,N,F,13,,Huntsmans Drive,Kinver,Stourbridge
+2025-08-29,405000,DY7 6FG,D,Y,F,8,,Redcliff Close,Kinver,Stourbridge
+2025-08-29,600000,DY7 6FG,D,Y,F,10,,Redcliff Close,Kinver,Stourbridge
+2025-08-27,482000,DY7 6RR,D,N,F,33,,Stourton Crescent,,Stourbridge
+2025-08-27,345000,DY7 6JH,D,N,F,2,,The Grazings,Kinver,Stourbridge
+2025-08-21,385000,DY7 6EA,D,N,F,Avonlea,,Foster Crescent,Kinver,Stourbridge
+2025-08-14,825000,DY7 6LR,D,N,F,11,,Brindley Brae,Kinver,Stourbridge
+2025-08-12,345000,DY7 6DD,D,N,F,93,,Meddins Lane,Kinver,Stourbridge
+2025-08-11,520000,DY7 6PH,S,N,F,Round Hill Farm Cottages,8,Whittington Hall Lane,Kinver,Stourbridge
+2025-08-08,325000,DY7 6DG,T,N,F,3,,Crystal Gardens,Kinver,Stourbridge
+2025-08-08,448000,DY7 6AF,S,N,F,24,,Hyde Lane,Kinver,Stourbridge
+2025-08-06,560000,DY7 5BQ,S,N,F,Post House,,Bridgnorth Road,Stourton,Stourbridge
+2025-08-05,280000,DY7 6EY,F,N,L,Kinver Mount,7,Comber Grove,Kinver,Stourbridge
+2025-08-05,345000,DY7 6AF,S,N,F,8,,Hyde Lane,Kinver,Stourbridge
+2025-08-04,774000,DY7 6RS,D,N,F,33,,Bridgnorth Road,Stourton,Stourbridge
+2025-08-04,135000,DY7 6HW,T,N,F,The Coach House,,The Acre,Kinver,Stourbridge
+2025-08-04,330000,DY7 6EE,S,N,F,73,,Church View Gardens,Kinver,Stourbridge
+2025-08-01,1050000,DY7 6HX,D,N,F,Woodside,,Church Hill,Kinver,Stourbridge
+2025-08-01,585000,DY7 6EW,D,N,F,1,,Fairfield Drive,Kinver,Stourbridge
+2025-08-01,391770,DY7 5DD,D,N,F,8,,Six Ashes Road,Bobbington,Stourbridge
+2025-07-30,405000,DY7 6FG,D,Y,F,6,,Redcliff Close,Kinver,Stourbridge
+2025-07-25,410000,DY7 6PA,S,N,F,Horsebridge Barn,,Whittington,Kinver,Stourbridge
+2025-07-14,232500,DY7 6JL,T,N,F,18,,Pine Close,Kinver,Stourbridge
+2025-07-11,560000,DY7 6LB,D,N,F,11,,Mill Fields,Kinver,Stourbridge
+2025-07-11,980000,DY7 5QW,D,N,F,Woodcot,,Lawnswood Drive,,Stourbridge
+2025-07-10,490000,DY7 5HU,D,N,F,3,,Blundies Lane,Enville,Stourbridge
+2025-07-10,460000,DY7 5HT,S,N,F,7,,Morfe Hall Lane,Enville,Stourbridge
+2025-07-08,145000,DY7 6HE,F,N,L,55A,Flat,High Street,Kinver,Stourbridge
+2025-07-04,600000,DY7 6RS,D,N,F,47,,Bridgnorth Road,Stourton,Stourbridge
+2025-07-03,265000,DY7 6JP,S,N,F,53,,Redwood Road,Kinver,Stourbridge
+2025-07-03,437500,DY7 6JB,S,N,F,33,,Dark Lane,Kinver,Stourbridge
+2025-06-30,245000,DY7 5PE,S,N,F,3,,Lords Lane,,Stourbridge
+2025-06-26,800000,DY7 6RS,D,N,F,65,,Bridgnorth Road,Stourton,Stourbridge
+2025-06-20,515050,DY7 6LB,D,N,F,14,,Mill Fields,Kinver,Stourbridge
+2025-06-18,287000,DY7 6EY,F,N,L,Kinver Mount,9,Comber Grove,Kinver,Stourbridge
+2025-06-16,767000,DY7 6LL,D,N,F,7,,Orchard Grove,Kinver,Stourbridge
+2025-06-06,546000,DY7 6HW,D,N,F,One Acre Bungalow,,The Acre,Kinver,Stourbridge
+2025-05-30,685000,DY7 5QN,D,N,F,Swallows,,Hunters Ride,,Stourbridge
+2025-05-29,475000,DY7 5DZ,D,N,F,Hanily House,,Crab Lane,Bobbington,Stourbridge
+2025-05-28,249999,DY7 6EX,F,N,L,Lowestone Court,5,Stone Lane,Kinver,Stourbridge
+2025-05-19,480000,DY7 6EL,D,N,F,10,,Castle Street,Kinver,Stourbridge
+2025-05-02,323000,DY7 6HF,T,N,F,39,,High Street,Kinver,Stourbridge
+2025-04-30,570000,DY7 6FG,D,Y,F,4,,Redcliff Close,Kinver,Stourbridge
+2025-04-25,332500,DY7 6AF,S,N,F,34,,Hyde Lane,Kinver,Stourbridge
+2025-04-23,820000,DY7 6LL,D,N,F,5,,Orchard Grove,Kinver,Stourbridge
+2025-04-17,835000,DY7 6JB,D,N,F,"Meadow View, 28",,Dark Lane,Kinver,Stourbridge
+2025-04-04,420000,DY7 6RR,D,N,F,28,,Stourton Crescent,,Stourbridge
+2025-03-31,385000,DY7 6FG,D,Y,F,9,,Redcliff Close,Kinver,Stourbridge
+2025-03-31,410000,DY7 6ER,D,N,F,Trinity Court,5,High Street,Kinver,Stourbridge
+2025-03-28,526000,DY7 6LW,D,N,F,7,,Beech Close,Kinver,Stourbridge
+2025-03-28,635000,DY7 6DR,D,N,F,12,,Heather Drive,Kinver,Stourbridge
+2025-03-28,570000,DY7 5NN,S,N,F,1,,Compton,Kinver,Stourbridge
+2025-03-27,350000,DY7 6JT,D,N,F,5,,Rockmount Gardens,Kinver,Stourbridge
+2025-03-27,325000,DY7 6EA,S,N,F,12,,Foster Crescent,Kinver,Stourbridge
+2025-03-26,550000,DY7 6SJ,D,N,F,153,,Hyperion Road,Stourton,Stourbridge
+2025-03-24,227000,DY7 6EX,F,N,L,Lowestone Court,17,Stone Lane,Kinver,Stourbridge
+2025-03-14,350000,DY7 6EB,T,N,F,21,,Foster Street,Kinver,Stourbridge
+2025-03-13,580000,DY7 6SB,D,N,F,28,,Hyperion Road,Stourton,Stourbridge
+2025-03-07,390000,DY7 6BW,S,N,F,13,,Cedar Gardens,Kinver,Stourbridge
+2025-02-28,788250,DY7 5BA,D,N,F,The Oaklands Cottage,,Greensforge Lane,,Stourbridge
+2025-02-21,825000,DY7 6RT,D,N,F,64,,Bridgnorth Road,Stourton,Stourbridge
+2025-02-17,380000,DY7 6DW,S,N,F,20,,Compton Close,Kinver,Stourbridge
+2025-02-14,315000,DY7 6DG,D,N,F,4,,Crystal Gardens,Kinver,Stourbridge
+2025-02-13,325000,DY7 6LA,T,N,F,8,,Kenrose Mill,Kinver,Stourbridge
+2025-01-31,574000,DY7 6RR,D,N,F,22,,Stourton Crescent,,Stourbridge
+2025-01-31,765000,DY7 6LW,D,N,F,12,,Beech Close,Kinver,Stourbridge
+2025-01-31,500000,DY7 6JF,D,N,F,66,,Redwood Road,Kinver,Stourbridge
+2025-01-31,255000,DY7 6BA,S,N,F,7,,Huntsmans Drive,Kinver,Stourbridge
+2025-01-17,500000,DY7 5JF,D,N,F,Sunnyside,,Bridgnorth Road,Enville,Stourbridge
+2025-01-15,205000,DY7 6HW,S,N,F,6,,The Acre,Kinver,Stourbridge
+2025-01-10,545000,DY7 6RS,D,N,F,37,,Bridgnorth Road,Stourton,Stourbridge
+2025-01-10,515000,DY7 5BB,S,N,F,Pinewoods,,Greensforge Lane,,Stourbridge
+2025-01-09,273000,DY7 6BA,S,N,F,43,,Huntsmans Drive,Kinver,Stourbridge
+2024-12-19,720000,DY7 6LU,T,N,F,Dunsley Hall Farm Barns,Owl Roost 4,Dunsley Road,Kinver,Stourbridge
+2024-12-19,835000,DY7 6AU,D,N,F,112,,White Hill,Kinver,Stourbridge
+2024-12-18,299950,DY7 6EX,F,N,L,Lowestone Court,29,Stone Lane,Kinver,Stourbridge
+2024-12-13,370000,DY7 6LS,T,N,F,Hyde Farm Barns,The Dovecote Barn 4,The Hyde,Kinver,Stourbridge
+2024-12-13,160000,DY7 5AE,D,N,F,Water Glade,,Prestwood Road,Stourton,Stourbridge
+2024-12-06,410000,DY7 6HQ,D,N,F,Warren Bayne,,High Street,Kinver,Stourbridge
+2024-12-06,450000,DY7 6FG,D,Y,F,3,,Redcliff Close,Kinver,Stourbridge
+2024-12-06,440000,DY7 6BW,S,N,F,26,,Cedar Gardens,Kinver,Stourbridge
+2024-12-05,145000,DY7 6RH,F,N,L,21,,Stewponey Court,Stourton,Stourbridge
+2024-11-28,425000,DY7 6EB,S,N,F,13,,Foster Street,Kinver,Stourbridge
+2024-11-26,605000,DY7 6LB,D,N,F,12,,Mill Fields,Kinver,Stourbridge
+2024-11-25,318000,DY7 6BP,D,N,F,12,,Holly Close,Kinver,Stourbridge
+2024-11-25,735000,DY7 6BF,D,N,F,4,,Gallows Hill,Kinver,Stourbridge
+2024-11-22,418000,DY7 6EE,S,N,F,88,,Church View Gardens,Kinver,Stourbridge
+2024-11-22,620000,DY7 6ED,D,N,F,Beech Trees Bungalow,,James Street,Kinver,Stourbridge
+2024-11-18,465000,DY7 6JD,D,N,F,Fair View,,Dark Lane,Kinver,Stourbridge
+2024-11-18,250000,DY7 6HL,F,N,L,Ridgewood Court,2,High Street,Kinver,Stourbridge
+2024-11-17,305000,DY7 5BF,T,N,F,The Copse,2,The Oval,Prestwood,Stourbridge
+2024-11-15,425000,DY7 6SB,D,N,F,"New Wood Lodge, 2A",,Hyperion Road,Stourton,Stourbridge
+2024-11-15,485000,DY7 6SB,D,N,F,2,,Hyperion Road,Stourton,Stourbridge
+2024-11-08,265000,DY7 6HL,F,N,L,Ridgewood Court,1,High Street,Kinver,Stourbridge
+2024-11-08,275000,DY7 6HL,F,N,L,Ridgewood Court,3,High Street,Kinver,Stourbridge
+2024-11-05,535000,DY7 6AD,T,N,F,2,,White Hill,Kinver,Stourbridge
+2024-11-01,850000,DY7 5HX,D,N,F,"Beauvoir, 4A",,The Close,Enville,Stourbridge
+2024-10-31,550000,DY7 6FG,D,Y,F,2,,Redcliff Close,Kinver,Stourbridge
+2024-10-31,385000,DY7 6FF,D,Y,F,6,,Fort View,Kinver,Stourbridge
+2024-10-31,268000,DY7 6AQ,S,N,F,26,,Jenks Avenue,Kinver,Stourbridge
+2024-10-30,385000,DY7 6FG,D,Y,F,1,,Redcliff Close,Kinver,Stourbridge
+2024-10-28,299500,DY7 6EX,F,N,L,Lowestone Court,10,Stone Lane,Kinver,Stourbridge
+2024-10-28,300000,DY7 6DG,T,N,F,11,,Crystal Gardens,Kinver,Stourbridge
+2024-10-25,250000,DY7 6AX,S,N,F,25,,Edge View Walk,Kinver,Stourbridge
+2024-10-24,580000,DY7 6HS,D,N,F,Oakdale,,The Compa,Kinver,Stourbridge
+2024-10-23,425000,DY7 6EE,D,N,F,7,,Church View Gardens,Kinver,Stourbridge
+2024-10-23,430000,DY7 6DD,D,N,F,91,,Meddins Lane,Kinver,Stourbridge
+2024-10-14,260000,DY7 6BA,D,N,F,28,,Huntsmans Drive,Kinver,Stourbridge
+2024-10-08,760000,DY7 6LP,D,N,F,The Beeches,,Hampton Grove,Kinver,Stourbridge
+2024-10-08,949280,DY7 6HR,D,N,F,43,,Church Hill,Kinver,Stourbridge
+2024-09-30,80000,DY7 6FD,F,N,L,33,,Mill Brook Meadow,Kinver,Stourbridge
+2024-09-20,700000,DY7 6LP,D,N,F,"Pheasants Walk, 11",,Hampton Grove,Kinver,Stourbridge
+2024-09-20,260000,DY7 6AW,S,N,F,6,,Silver Birch Drive,Kinver,Stourbridge
+2024-09-06,765000,DY7 6RY,D,N,F,171,,Bridgnorth Road,Stourton,Stourbridge
+2024-09-06,455000,DY7 6FE,S,N,F,2,,Plemont Gardens,Kinver,Stourbridge
+2024-09-06,645000,DY7 6EH,D,N,F,1,,Heathermount Grange,Kinver,Stourbridge
+2024-09-06,230000,DY7 6EA,S,N,F,9,,Foster Crescent,Kinver,Stourbridge
+2024-09-06,209500,DY7 6BA,S,N,F,65,,Huntsmans Drive,Kinver,Stourbridge
+2024-08-30,269000,DY7 6EX,F,N,L,Lowestone Court,12,Stone Lane,Kinver,Stourbridge
+2024-08-30,294000,DY7 6EX,F,N,L,Lowestone Court,14,Stone Lane,Kinver,Stourbridge
+2024-08-28,155000,DY7 6RL,D,N,F,33,,The Stewponey,Stourton,Stourbridge
+2024-08-28,325000,DY7 6HG,D,N,F,"Millennium Cottage, 14",,High Street,Kinver,Stourbridge
+2024-08-28,290000,DY7 6EY,F,N,L,Kinver Mount,4,Comber Grove,Kinver,Stourbridge
+2024-08-23,270000,DY7 6RL,S,N,F,4,,The Stewponey,Stourton,Stourbridge
+2024-08-16,450000,DY7 6JT,D,N,F,The Dingle,,Brockleys Walk,Kinver,Stourbridge
+2024-08-15,425000,DY7 6RT,D,N,F,32,,Bridgnorth Road,Stourton,Stourbridge
+2024-08-05,503000,DY7 6JR,D,N,F,46,,Redwood Road,Kinver,Stourbridge
+2024-08-05,230000,DY7 6EX,F,N,L,Lowestone Court,38,Stone Lane,Kinver,Stourbridge
+2024-08-05,390000,DY7 6EF,D,N,F,112B,,Church View Gardens,Kinver,Stourbridge
+2024-07-26,290000,DY7 6JF,D,N,F,63,,Redwood Road,Kinver,Stourbridge
+2024-07-24,570000,DY7 6RX,D,N,F,San Malo,,Wollaston Road,New Wood,Stourbridge
+2024-07-23,279950,DY7 6BN,S,N,F,126,,Enville Road,Kinver,Stourbridge
+2024-07-10,195000,DY7 6RH,F,N,L,31,,Stewponey Court,Stourton,Stourbridge
+2024-07-09,225000,DY7 6AQ,S,N,F,6,,Jenks Avenue,Kinver,Stourbridge
+2024-07-05,580000,DY7 6RW,D,N,F,26,,Bridgnorth Road,Stourton,Stourbridge
+2024-07-02,420000,DY7 6SN,D,N,F,8,,New Wood Close,,Stourbridge
+2024-06-21,290000,DY7 6RL,T,N,F,24,,The Stewponey,Stourton,Stourbridge
+2024-06-21,685000,DY7 5QQ,D,N,F,Manilow,,Little Oaks Drive,,Stourbridge
+2024-06-20,635000,DY7 6LU,T,N,F,Dunsley Hall Farm Barns,The Sty 12,Dunsley Road,Kinver,Stourbridge
+2024-06-20,790000,DY7 6JB,D,N,F,8,,Dark Lane,Kinver,Stourbridge
+2024-06-07,322500,DY7 6DG,S,N,F,7,,Crystal Gardens,Kinver,Stourbridge
+2024-06-07,630000,DY7 5HX,D,N,F,"Meadow House, 6",,The Close,Enville,Stourbridge
+2024-05-31,230000,DY7 6AG,S,N,F,6,,Chandler Avenue,Kinver,Stourbridge
+2024-05-29,317500,DY7 5EA,S,N,F,95,,Six Ashes Road,Bobbington,Stourbridge
+2024-05-23,339950,DY7 6BZ,T,N,F,45,,Meddins Lane,Kinver,Stourbridge
+2024-05-20,1250000,DY7 6LX,D,N,F,48,,Dunsley Road,Kinver,Stourbridge
+2024-05-17,300000,DY7 6AL,T,N,F,15,,Horton Road,Kinver,Stourbridge
+2024-05-07,272606,DY7 6BN,S,N,F,138,,Enville Road,Kinver,Stourbridge
+2024-05-03,272500,DY7 6EX,F,N,L,Lowestone Court,15,Stone Lane,Kinver,Stourbridge
+2024-04-29,150000,DY7 6FD,T,N,L,6,,Mill Brook Meadow,Kinver,Stourbridge
+2024-04-29,380000,DY7 5DD,D,N,F,6,,Six Ashes Road,Bobbington,Stourbridge
+2024-04-18,630000,DY7 6SB,D,N,F,56,,Hyperion Road,Stourton,Stourbridge
+2024-04-12,400000,DY7 6RL,D,N,F,5,,The Stewponey,Stourton,Stourbridge
+2024-04-12,265000,DY7 6HS,T,N,F,Middle Oak,,The Compa,Kinver,Stourbridge
+2024-04-11,270000,DY7 6HZ,S,N,F,1,,Church Hill,Kinver,Stourbridge
+2024-04-11,172500,DY7 6BE,F,N,L,10,,Spring Close,Kinver,Stourbridge
+2024-04-08,485000,DY7 6EN,D,N,F,24,,Comber Grove,Kinver,Stourbridge
+2024-04-08,383000,DY7 6EE,D,N,F,58,,Church View Gardens,Kinver,Stourbridge
+2024-04-04,300000,DY7 6EX,F,N,L,Lowestone Court,2,Stone Lane,Kinver,Stourbridge
+2024-04-04,652500,DY7 6EG,D,N,F,The Gables,,Stone Lane,Kinver,Stourbridge
+2024-03-26,330000,DY7 6EY,F,N,L,Kinver Mount,5,Comber Grove,Kinver,Stourbridge
+2024-03-25,785950,DY7 5HX,D,N,F,"Church View, 4",,The Close,Enville,Stourbridge
+2024-03-22,370000,DY7 6RR,D,N,F,15,,Stourton Crescent,,Stourbridge
+2024-02-28,107000,DY7 5HN,S,N,F,1,,Chester Road,Enville,Stourbridge
+2024-02-26,675000,DY7 5BW,D,N,F,2,,Broadacres Close,Stourton,Stourbridge
+2024-02-23,285000,DY7 6EN,S,N,F,33,,Comber Grove,Kinver,Stourbridge
+2024-02-23,200000,DY7 6EN,D,N,F,16,,Comber Grove,Kinver,Stourbridge
+2024-02-23,335000,DY7 6AW,D,N,F,17,,Silver Birch Drive,Kinver,Stourbridge
+2024-02-09,475000,DY7 6DR,D,N,F,23,,Heather Drive,Kinver,Stourbridge
+2024-02-09,425000,DY7 6BY,S,N,F,72,,Meddins Lane,Kinver,Stourbridge
+2024-01-19,220000,DY7 6JL,T,N,F,19,,Pine Close,Kinver,Stourbridge
+2024-01-17,206000,DY7 6JP,T,N,F,41,,Redwood Road,Kinver,Stourbridge
+2023-12-19,535000,DY7 6AN,S,N,F,44,,White Hill,Kinver,Stourbridge
+2023-12-07,473000,DY7 6EB,S,N,F,4,,Foster Street,Kinver,Stourbridge
+2023-11-28,345000,DY7 6BN,T,N,F,123,,Enville Road,Kinver,Stourbridge
+2023-11-24,245000,DY7 6RL,T,N,F,41,,The Stewponey,Stourton,Stourbridge
+2023-11-16,238000,DY7 6BA,S,N,F,48,,Huntsmans Drive,Kinver,Stourbridge
+2023-11-14,566150,DY7 6ER,T,N,F,Trinity Court,2,High Street,Kinver,Stourbridge
+2023-11-06,275000,DY7 6EX,F,N,L,Lowestone Court,31,Stone Lane,Kinver,Stourbridge
+2023-11-03,344950,DY7 6DS,S,N,F,4,,Compton Gardens,Kinver,Stourbridge
+2023-11-03,295000,DY7 6BN,T,N,F,177,,Enville Road,Kinver,Stourbridge
+2023-11-03,450000,DY7 5BD,D,N,F,29,,Greensforge Lane,,Stourbridge
+2023-11-02,450000,DY7 6LB,S,N,F,10,,Mill Fields,Kinver,Stourbridge
+2023-11-02,353000,DY7 6EE,S,N,F,64,,Church View Gardens,Kinver,Stourbridge
+2023-11-02,470000,DY7 6AL,S,N,F,19,,Horton Road,Kinver,Stourbridge
+2023-11-02,594950,DY7 6AE,D,N,F,7,,Hyde Lane,Kinver,Stourbridge
+2023-11-02,463000,DY7 6AE,D,N,F,11,,Hyde Lane,Kinver,Stourbridge
+2023-10-27,735000,DY7 6DY,D,N,F,40,,Stone Lane,Kinver,Stourbridge
+2023-10-26,380000,DY7 6AX,S,N,F,Willow Bank,,Edge View Walk,Kinver,Stourbridge
+2023-10-24,525000,DY7 6AR,S,N,F,85,,White Hill,Kinver,Stourbridge
+2023-10-20,285000,DY7 6BX,S,N,F,58,,Enville Road,Kinver,Stourbridge
+2023-10-18,150000,DY7 6EY,F,N,L,Kinver Mount,15,Comber Grove,Kinver,Stourbridge
+2023-10-12,117500,DY7 6EB,F,N,L,45,,Foster Street,Kinver,Stourbridge
+2023-10-06,310000,DY7 6BA,D,N,F,7A,,Huntsmans Drive,Kinver,Stourbridge
+2023-10-05,240000,DY7 6EE,S,N,F,73,,Church View Gardens,Kinver,Stourbridge
+2023-09-26,220000,DY7 6JW,T,N,F,2,,Hawthorne Way,Kinver,Stourbridge
+2023-09-26,249995,DY7 6ES,S,N,F,77B,,High Street,Kinver,Stourbridge
+2023-09-22,750000,DY7 6NA,D,N,F,16,,Dunsley Road,Kinver,Stourbridge
+2023-09-18,405000,DY7 5BZ,D,N,F,59,,Six Ashes Road,Bobbington,Stourbridge
+2023-09-13,252500,DY7 6DW,S,N,F,9,,Compton Close,Kinver,Stourbridge
+2023-09-12,295000,DY7 5PB,D,N,F,10,,Covers Lane,,Stourbridge
+2023-09-04,590000,DY7 6RS,D,N,F,71,,Bridgnorth Road,Stourton,Stourbridge
+2023-09-04,580000,DY7 6EH,D,N,F,4,,Heathermount Grange,Kinver,Stourbridge
+2023-08-31,510000,DY7 6EF,D,N,F,136,,Church View Gardens,Kinver,Stourbridge
+2023-08-30,369950,DY7 6LA,T,N,F,26,,Kenrose Mill,Kinver,Stourbridge
+2023-08-30,292500,DY7 6EX,F,N,L,Lowestone Court,35,Stone Lane,Kinver,Stourbridge
+2023-08-30,517500,DY7 6BJ,D,N,F,12,,Laburnum Close,Kinver,Stourbridge
+2023-08-18,592500,DY7 6BN,D,N,F,"Windways, 137",,Enville Road,Kinver,Stourbridge
+2023-08-15,695000,DY7 6DX,D,N,F,10,,Forest Drive,Kinver,Stourbridge
+2023-08-04,225000,DY7 6BA,S,N,F,21,,Huntsmans Drive,Kinver,Stourbridge
+2023-08-03,440000,DY7 6SD,D,N,F,59,,Hyperion Road,Stourton,Stourbridge
+2023-07-20,740000,DY7 6LW,D,N,F,18,,Beech Close,Kinver,Stourbridge
+2023-07-20,783800,DY7 5BW,D,N,F,4,,Broadacres Close,Stourton,Stourbridge
+2023-07-12,365000,DY7 6DS,S,N,F,1,,Compton Gardens,Kinver,Stourbridge
+2023-07-07,320000,DY7 5PD,D,N,F,6,,Wicket Lane,,Stourbridge
+2023-07-05,380000,DY7 6EZ,D,N,F,5,,The Copelands,Kinver,Stourbridge
+2023-06-23,910000,DY7 6PS,D,N,F,Beehive Bungalow,,Sugar Loaf Lane,Iverley,Stourbridge
+2023-06-22,315000,DY7 6AL,S,N,F,6,,Horton Road,Kinver,Stourbridge
+2023-06-16,190900,DY7 6EL,T,N,F,8,,Castle Street,Kinver,Stourbridge
+2023-06-09,660000,DY7 6LA,D,N,F,7,,Kenrose Mill,Kinver,Stourbridge
+2023-06-09,295000,DY7 6AH,T,N,F,37A,,Jenks Avenue,Kinver,Stourbridge
+2023-06-06,725000,DY7 6JA,D,N,F,1,,Dark Lane,Kinver,Stourbridge
+2023-06-02,590000,DY7 6LS,S,N,F,Hyde Cottages,1,The Hyde,Kinver,Stourbridge
+2023-06-02,322500,DY7 6DD,S,N,F,73,,Meddins Lane,Kinver,Stourbridge
+2023-05-31,660000,DY7 6EH,D,N,F,3,,Heathermount Grange,Kinver,Stourbridge
+2023-05-19,161000,DY7 6RH,F,N,L,33,,Stewponey Court,Stourton,Stourbridge
+2023-05-19,369995,DY7 6LA,D,N,F,28,,Kenrose Mill,Kinver,Stourbridge
+2023-05-19,470000,DY7 6BY,D,N,F,70,,Meddins Lane,Kinver,Stourbridge
+2023-05-12,300000,DY7 6AL,T,N,F,18,,Horton Road,Kinver,Stourbridge
+2023-05-09,350000,DY7 6AW,D,N,F,5,,Silver Birch Drive,Kinver,Stourbridge
+2023-05-05,769000,DY7 5BW,D,N,F,3,,Broadacres Close,Stourton,Stourbridge
+2023-04-28,550000,DY7 6RT,D,N,F,Grade Made,,Bridgnorth Road,Stourton,Stourbridge
+2023-04-27,795000,DY7 6DX,D,N,F,2,,Forest Drive,Kinver,Stourbridge
+2023-04-27,590000,DY7 6AE,D,N,F,17,,Hyde Lane,Kinver,Stourbridge
+2023-04-19,455000,DY7 6FE,D,N,F,3,,Plemont Gardens,Kinver,Stourbridge
+2023-04-14,675000,DY7 6SA,D,N,F,25A,,Chantry Road,Stourton,Stourbridge
+2023-04-11,270000,DY7 6BP,T,N,F,4,,Holly Close,Kinver,Stourbridge
+2023-04-06,825000,DY7 5QN,D,N,F,Shreelane,,Hunters Ride,,Stourbridge
+2023-04-05,331000,DY7 5AQ,S,N,F,1,,New Cottages,Prestwood,Stourbridge
+2023-03-31,555000,DY7 6RT,S,N,F,70,,Bridgnorth Road,Stourton,Stourbridge
+2023-03-31,305000,DY7 6AN,D,N,F,34,,White Hill,Kinver,Stourbridge
+2023-03-30,165000,DY7 6BT,S,N,F,8,,Maple Close,Kinver,Stourbridge
+2023-03-29,767000,DY7 6LW,D,N,F,"Heron Hill, 11",,Beech Close,Kinver,Stourbridge
+2023-03-27,297500,DY7 6FD,S,Y,F,7,,Mill Brook Meadow,Kinver,Stourbridge
+2023-03-22,425000,DY7 6PH,S,N,F,Round Hill Farm Cottages,2,Whittington Hall Lane,Kinver,Stourbridge
+2023-03-17,270000,DY7 6EB,T,N,F,12,,Foster Street,Kinver,Stourbridge
+2023-03-17,435000,DY7 6DR,S,N,F,20,,Heather Drive,Kinver,Stourbridge
+2023-03-10,428000,DY7 6EB,T,N,F,5,,Foster Street,Kinver,Stourbridge
+2023-03-07,501500,DY7 6DR,D,N,F,18,,Heather Drive,Kinver,Stourbridge
+2023-02-17,223000,DY7 6BA,T,N,F,33,,Huntsmans Drive,Kinver,Stourbridge
+2023-02-10,650000,DY7 6LL,D,N,F,The Orchard,,Orchard Grove,Kinver,Stourbridge
+2023-02-06,510000,DY7 6BL,T,N,F,181,,Enville Road,Kinver,Stourbridge
+2023-01-31,262000,DY7 6BS,T,N,F,14,,Hillboro Rise,Kinver,Stourbridge
+2023-01-30,195000,DY7 6ES,T,N,F,"River View Cottage, 81A",,High Street,Kinver,Stourbridge
+2023-01-26,780000,DY7 6LU,D,N,F,Dunsley Hall Farm Barns,Hay Barn 5,Dunsley Road,Kinver,Stourbridge
+2023-01-26,750000,DY7 6AU,D,N,F,92,,White Hill,Kinver,Stourbridge
+2023-01-20,293950,DY7 6EA,S,N,F,24,,Foster Crescent,Kinver,Stourbridge
+2023-01-18,200000,DY7 6HL,T,N,F,113,,High Street,Kinver,Stourbridge
+2022-12-16,550000,DY7 6RR,D,N,F,44,,Stourton Crescent,,Stourbridge
+2022-12-16,300000,DY7 6FD,S,N,F,2,,Mill Brook Meadow,Kinver,Stourbridge
+2022-12-16,290000,DY7 6EX,F,N,L,Lowestone Court,28,Stone Lane,Kinver,Stourbridge
+2022-12-16,475000,DY7 6AB,T,N,F,31,,Enville Road,Kinver,Stourbridge
+2022-12-15,350000,DY7 6JF,D,N,F,75,,Redwood Road,Kinver,Stourbridge
+2022-12-15,383000,DY7 6DW,D,N,F,8,,Compton Close,Kinver,Stourbridge
+2022-12-15,285000,DY7 6DD,S,N,F,77,,Meddins Lane,Kinver,Stourbridge
+2022-12-15,205000,DY7 6BN,F,N,L,Cedar Grange,Flat 5,Enville Road,Kinver,Stourbridge
+2022-12-12,543000,DY7 6SJ,D,N,F,113,,Hyperion Road,Stourton,Stourbridge
+2022-12-09,245000,DY7 6JT,T,N,F,3,,Brockleys Walk,Kinver,Stourbridge
+2022-12-09,315000,DY7 6JN,S,N,F,3,,Larch Close,Kinver,Stourbridge
+2022-12-05,259995,DY7 6HG,F,N,L,Walmsley Court,4,High Street,Kinver,Stourbridge
+2022-12-02,1400000,DY7 5QN,D,N,F,The Coppins,,Hunters Ride,,Stourbridge
+2022-11-21,262500,DY7 6AD,S,N,F,16B,,White Hill,Kinver,Stourbridge
+2022-11-11,217000,DY7 6AW,D,N,F,5,,Silver Birch Drive,Kinver,Stourbridge
+2022-11-10,443000,DY7 6BN,D,N,F,129,,Enville Road,Kinver,Stourbridge
+2022-11-09,290000,DY7 6EZ,D,N,F,5,,The Copelands,Kinver,Stourbridge
+2022-11-07,715000,DY7 6HS,D,N,F,Oakdale,,The Compa,Kinver,Stourbridge
+2022-11-04,765000,DY7 6HS,D,N,F,Lothlorien,,The Compa,Kinver,Stourbridge
+2022-10-28,475000,DY7 6SJ,D,N,F,111,,Hyperion Road,Stourton,Stourbridge
+2022-10-27,415000,DY7 6BL,D,N,F,144,,Enville Road,Kinver,Stourbridge
+2022-10-21,405000,DY7 6PH,S,N,F,Round Hill Farm Cottages,1,Whittington Hall Lane,Kinver,Stourbridge
+2022-10-21,255000,DY7 5PE,D,N,F,1,,Lords Lane,,Stourbridge
+2022-10-14,720000,DY7 6LA,D,N,F,1,,Kenrose Mill,Kinver,Stourbridge
+2022-10-13,400000,DY7 6SP,D,N,F,2,,Friars Gorse,,Stourbridge
+2022-10-07,439000,DY7 6PA,T,N,F,Holloway Barn,,Whittington,Kinver,Stourbridge
+2022-10-03,270000,DY7 6DB,S,N,F,11,,Meddins Close,Kinver,Stourbridge
+2022-09-30,650000,DY7 6SA,D,N,F,4,,Chantry Road,Stourton,Stourbridge
+2022-09-30,495000,DY7 6FE,D,N,F,1,,Plemont Gardens,Kinver,Stourbridge
+2022-09-29,685000,DY7 6RY,D,N,F,Spring Kell House,,Bridgnorth Road,Stourton,Stourbridge
+2022-09-29,475000,DY7 6NE,D,N,F,Yew Tree Cottage,,Gibraltar,Kinver,Stourbridge
+2022-09-29,430000,DY7 6DL,D,N,F,15,,Compton Road,Kinver,Stourbridge
+2022-09-28,280000,DY7 6FD,S,Y,F,31,,Mill Brook Meadow,Kinver,Stourbridge
+2022-09-28,520000,DY7 6EE,D,N,F,41,,Church View Gardens,Kinver,Stourbridge
+2022-09-28,600000,DY7 6AR,D,N,F,87A,,White Hill,Kinver,Stourbridge
+2022-09-26,290000,DY7 6ER,D,N,F,Trinity Court,1,High Street,Kinver,Stourbridge
+2022-09-20,330000,DY7 6FD,S,Y,F,5,,Mill Brook Meadow,Kinver,Stourbridge
+2022-09-20,365000,DY7 6DS,S,N,F,5,,Compton Gardens,Kinver,Stourbridge
+2022-09-15,495000,DY7 5BB,S,N,F,Apple Dorn,,Greensforge Lane,,Stourbridge
+2022-09-13,530000,DY7 5BZ,D,N,F,19,,Six Ashes Road,Bobbington,Stourbridge
+2022-09-12,490000,DY7 6FE,D,N,F,4,,Plemont Gardens,Kinver,Stourbridge
+2022-09-09,305000,DY7 6BA,S,N,F,13,,Huntsmans Drive,Kinver,Stourbridge
+2022-09-08,550000,DY7 6SL,D,N,F,98,,Hyperion Road,Stourton,Stourbridge
+2022-09-07,445000,DY7 5DG,T,N,F,Halfcot Byre,4,Wolverhampton Road,Prestwood,Stourbridge
+2022-09-02,280000,DY7 6EX,F,N,L,Lowestone Court,9,Stone Lane,Kinver,Stourbridge
+2022-08-30,475000,DY7 6JT,D,N,F,Cook Cottage,,Brockleys Walk,Kinver,Stourbridge
+2022-08-15,290000,DY7 5DA,S,N,F,2,,Brantley Lane,Bobbington,Stourbridge
+2022-08-12,375000,DY7 6FD,S,Y,F,25,,Mill Brook Meadow,Kinver,Stourbridge
+2022-08-11,267500,DY7 6AG,S,N,F,8,,Chandler Avenue,Kinver,Stourbridge
+2022-08-09,350000,DY7 6NX,D,N,F,Hideaway Cottage,,Horse Bridge Lane,Kinver,Stourbridge
+2022-08-08,310000,DY7 6JT,T,N,F,2,,Brockleys Walk,Kinver,Stourbridge
+2022-08-05,280000,DY7 6DB,S,N,F,10,,Meddins Close,Kinver,Stourbridge
+2022-08-03,355000,DY7 6JT,T,N,F,1,,Brockleys Walk,Kinver,Stourbridge
+2022-08-03,710000,DY7 5NH,D,N,F,Lydiates House,,Compton,Kinver,Stourbridge
+2022-08-02,650000,DY7 6DX,D,N,F,11,,Forest Drive,Kinver,Stourbridge
+2022-07-29,540000,DY7 6DN,D,N,F,28,,Compton Road,Kinver,Stourbridge
+2022-07-25,410000,DY7 6HS,D,N,F,Oak House,,The Compa,Kinver,Stourbridge
+2022-07-25,325000,DY7 6BA,S,N,F,3,,Huntsmans Drive,Kinver,Stourbridge
+2022-07-22,476000,DY7 6SD,S,N,F,57,,Hyperion Road,Stourton,Stourbridge
+2022-07-22,705000,DY7 6LR,D,N,F,"Brackens, 8",,Brindley Brae,Kinver,Stourbridge
+2022-07-22,265000,DY7 5JA,F,N,L,The Old Rectory,1,Bridgnorth Road,Enville,Stourbridge
+2022-07-21,350000,DY7 6BA,D,N,F,9A,,Huntsmans Drive,Kinver,Stourbridge
+2022-07-19,375000,DY7 6FD,S,Y,F,27,,Mill Brook Meadow,Kinver,Stourbridge
+2022-07-15,295000,DY7 6FD,S,Y,F,51,,Mill Brook Meadow,Kinver,Stourbridge
+2022-07-15,292500,DY7 6BY,T,N,F,64,,Meddins Lane,Kinver,Stourbridge
+2022-07-15,320000,DY7 6AW,D,N,F,23,,Silver Birch Drive,Kinver,Stourbridge
+2022-07-13,695000,DY7 5AF,D,N,F,Helford,,Wolverhampton Road,Stourton,Stourbridge
+2022-07-01,285000,DY7 6FD,S,Y,F,29,,Mill Brook Meadow,Kinver,Stourbridge
+2022-07-01,335000,DY7 6FD,S,Y,F,11,,Mill Brook Meadow,Kinver,Stourbridge
+2022-06-27,445000,DY7 6EE,D,N,F,42,,Church View Gardens,Kinver,Stourbridge
+2022-06-27,660000,DY7 6DR,D,N,F,8,,Heather Drive,Kinver,Stourbridge
+2022-06-24,497500,DY7 6AP,S,N,F,67A,,White Hill,Kinver,Stourbridge
+2022-06-10,435000,DY7 6FD,D,Y,F,55,,Mill Brook Meadow,Kinver,Stourbridge
+2022-06-10,350000,DY7 6EE,D,N,F,7,,Church View Gardens,Kinver,Stourbridge
+2022-06-10,247500,DY7 6EB,T,N,F,11,,Foster Street,Kinver,Stourbridge
+2022-05-31,289000,DY7 6EX,F,N,L,Lowestone Court,34,Stone Lane,Kinver,Stourbridge
+2022-05-30,700000,DY7 6LP,D,N,F,4,,Hampton Grove,Kinver,Stourbridge
+2022-05-27,195000,DY7 6EL,T,N,F,25,,Castle Street,Kinver,Stourbridge
+2022-05-26,392000,DY7 6DZ,S,N,F,15,,Stone Lane,Kinver,Stourbridge
+2022-05-26,880000,DY7 5QP,D,N,F,Capulet House,,Lawnswood Road,Lawnswood,Stourbridge
+2022-05-24,600000,DY7 6SB,D,N,F,58,,Hyperion Road,Stourton,Stourbridge
+2022-05-24,675000,DY7 6DX,D,N,F,7,,Forest Drive,Kinver,Stourbridge
+2022-05-20,135000,DY7 6RH,F,N,L,25,,Stewponey Court,Stourton,Stourbridge
+2022-05-20,370000,DY7 6BX,D,N,F,"Dene Hollow, 60",,Enville Road,Kinver,Stourbridge
+2022-05-10,325000,DY7 6AF,S,N,F,10,,Hyde Lane,Kinver,Stourbridge
+2022-05-06,295000,DY7 6FD,S,Y,F,53,,Mill Brook Meadow,Kinver,Stourbridge
+2022-05-06,551500,DY7 6DN,D,N,F,"Austin, 18",,Compton Road,Kinver,Stourbridge
+2022-05-03,250000,DY7 6RS,D,N,F,31,,Bridgnorth Road,Stourton,Stourbridge
+2022-05-03,90000,DY7 6FD,F,N,L,39,,Mill Brook Meadow,Kinver,Stourbridge
+2022-04-27,390000,DY7 6AW,D,N,F,19,,Silver Birch Drive,Kinver,Stourbridge
+2022-04-22,780000,DY7 5QW,D,N,F,Friars Gorse,,Lawnswood Drive,,Stourbridge
+2022-04-14,265000,DY7 6ED,T,N,F,6,,James Street,Kinver,Stourbridge
+2022-04-11,484000,DY7 6JT,D,N,F,The Willows,,Brockleys Walk,Kinver,Stourbridge
+2022-04-08,420000,DY7 6SL,D,N,F,100,,Hyperion Road,Stourton,Stourbridge
+2022-04-08,565000,DY7 6BW,D,N,F,35,,Cedar Gardens,Kinver,Stourbridge
+2022-04-08,1044800,DY7 5JB,D,N,F,Whitfield,,Bridgnorth Road,Enville,Stourbridge
+2022-03-31,435000,DY7 6BU,D,N,F,83,,Enville Road,Kinver,Stourbridge
+2022-03-31,881000,DY7 5EN,D,N,F,Cherrydene,,Halfpenny Green,Bobbington,Stourbridge
+2022-03-30,620000,DY7 6RR,D,N,F,43,,Stourton Crescent,,Stourbridge
+2022-03-24,335000,DY7 6DD,S,N,F,81,,Meddins Lane,Kinver,Stourbridge
+2022-03-24,460000,DY7 6AN,S,N,F,"Elmhurst, 42",,White Hill,Kinver,Stourbridge
+2022-03-24,830000,DY7 5DG,D,N,F,Halfcot Byre,5,Wolverhampton Road,Prestwood,Stourbridge
+2022-03-23,412500,DY7 6SD,D,N,F,45,,Hyperion Road,Stourton,Stourbridge
+2022-03-21,440000,DY7 6DQ,D,N,F,6,,Chestnut Grove,Kinver,Stourbridge
+2022-03-18,450000,DY7 6JF,D,N,F,74,,Redwood Road,Kinver,Stourbridge
+2022-03-18,280000,DY7 6EX,F,N,L,Lowestone Court,10,Stone Lane,Kinver,Stourbridge
+2022-03-18,425000,DY7 6EB,S,N,F,19,,Foster Street,Kinver,Stourbridge
+2022-03-18,410000,DY7 6DY,D,N,F,30,,Stone Lane,Kinver,Stourbridge
+2022-03-18,415000,DY7 6BN,T,N,F,141,,Enville Road,Kinver,Stourbridge
+2022-03-18,187000,DY7 6BL,S,N,F,201,,Enville Road,Kinver,Stourbridge
+2022-03-18,335000,DY7 6AL,T,N,F,16,,Horton Road,Kinver,Stourbridge
+2022-03-17,820000,DY7 6NB,D,N,F,White Walls,,Dunsley Drive,Kinver,Stourbridge
+2022-03-15,218000,DY7 6BA,S,N,F,52,,Huntsmans Drive,Kinver,Stourbridge
+2022-03-03,170000,DY7 6RH,F,N,L,31,,Stewponey Court,Stourton,Stourbridge
+2022-03-03,400000,DY7 6NE,D,N,F,Dunsley Rock Cottage,,Gibraltar,Kinver,Stourbridge
+2022-03-03,325000,DY7 6FD,S,Y,F,9,,Mill Brook Meadow,Kinver,Stourbridge
+2022-03-03,625000,DY7 5JF,T,N,F,Newhouse Farm Barns,2,Bridgnorth Road,Enville,Stourbridge
+2022-02-28,425000,DY7 6DR,D,N,F,17,,Heather Drive,Kinver,Stourbridge
+2022-02-28,215000,DY7 5PE,S,N,F,4,,Lords Lane,,Stourbridge
+2022-02-25,675000,DY7 6SD,D,N,F,"Ambleside, 61",,Hyperion Road,Stourton,Stourbridge
+2022-02-25,137000,DY7 6RH,F,N,L,22,,Stewponey Court,Stourton,Stourbridge
+2022-02-18,685000,DY7 6SA,D,N,F,19,,Chantry Road,Stourton,Stourbridge
+2022-02-18,202000,DY7 6EB,S,N,F,16,,Foster Street,Kinver,Stourbridge
+2022-02-14,750000,DY7 6NX,D,N,F,Whittington Old House,,Horse Bridge Lane,Kinver,Stourbridge
+2022-02-11,465000,DY7 6SD,D,N,F,67,,Hyperion Road,Stourton,Stourbridge
+2022-02-10,200000,DY7 5DE,F,N,L,Leaton Hall,Flat 6,Leaton Lane,Bobbington,Stourbridge
+2022-02-03,720000,DY7 6LL,D,N,F,1,,Orchard Grove,Kinver,Stourbridge
+2022-01-21,570000,DY7 6SB,D,N,F,56,,Hyperion Road,Stourton,Stourbridge
+2022-01-21,360000,DY7 6LB,S,N,F,5,,Mill Fields,Kinver,Stourbridge
+2022-01-14,183000,DY7 5DE,F,N,L,Leaton Hall,Flat 10,Leaton Lane,Bobbington,Stourbridge
+2022-01-07,329950,DY7 6AA,S,N,F,2,,Enville Road,Kinver,Stourbridge
+2022-01-05,850000,DY7 6RZ,D,N,F,South Down,,Prestwood Drive,,Stourbridge
+2021-12-22,395000,DY7 6FD,D,Y,F,49,,Mill Brook Meadow,Kinver,Stourbridge
+2021-12-17,200000,DY7 6BU,T,N,F,76,,Enville Road,Kinver,Stourbridge
+2021-12-17,234400,DY7 6AX,T,N,F,21,,Edge View Walk,Kinver,Stourbridge
+2021-12-17,230000,DY7 6AJ,S,N,F,53,,Windsor Crescent,Kinver,Stourbridge
+2021-12-16,269950,DY7 6EX,F,N,L,Lowestone Court,12,Stone Lane,Kinver,Stourbridge
+2021-12-15,385000,DY7 5HU,T,N,F,19,,Blundies Lane,Enville,Stourbridge
+2021-12-13,350000,DY7 6NR,T,N,F,The Anchor,2,Dark Lane,Kinver,Stourbridge
+2021-12-10,474500,DY7 6FD,D,Y,F,24,,Mill Brook Meadow,Kinver,Stourbridge
+2021-12-03,250000,DY7 6RL,D,N,F,22,,The Stewponey,Stourton,Stourbridge
+2021-12-03,400000,DY7 5HP,S,N,F,68,,Blundies Lane,Enville,Stourbridge
+2021-11-30,405000,DY7 6FD,D,Y,F,28,,Mill Brook Meadow,Kinver,Stourbridge
+2021-11-29,325000,DY7 6DB,S,N,F,3,,Meddins Close,Kinver,Stourbridge
+2021-11-29,249950,DY7 6BS,S,N,F,24,,Hillboro Rise,Kinver,Stourbridge
+2021-11-29,280000,DY7 5PF,T,N,F,11,,Pavilion End,,Stourbridge
+2021-11-26,305000,DY7 5PE,D,N,F,9,,Lords Lane,,Stourbridge
+2021-11-19,475000,DY7 6FD,D,Y,F,26,,Mill Brook Meadow,Kinver,Stourbridge
+2021-11-10,485000,DY7 6RP,D,N,F,27,,Bridgnorth Road,Stourton,Stourbridge
+2021-11-08,510000,DY7 6FD,D,Y,F,30,,Mill Brook Meadow,Kinver,Stourbridge
+2021-10-28,460000,DY7 5DG,T,N,F,Halfcot Byre,6,Wolverhampton Road,Prestwood,Stourbridge
+2021-10-22,370000,DY7 6BW,S,N,F,19,,Cedar Gardens,Kinver,Stourbridge
+2021-10-21,565000,DY7 6SJ,D,N,F,83,,Hyperion Road,Stourton,Stourbridge
+2021-10-12,312000,DY7 5DA,S,N,F,4,,Brantley Lane,Bobbington,Stourbridge
+2021-09-30,564000,DY7 6EP,S,N,F,12,,Foley Street,Kinver,Stourbridge
+2021-09-30,170000,DY7 6BU,T,N,F,95,,Enville Road,Kinver,Stourbridge
+2021-09-29,220000,DY7 6BN,S,N,F,98,,Enville Road,Kinver,Stourbridge
+2021-09-28,275000,DY7 6JT,T,N,F,The Rookery,,Brockleys Walk,Kinver,Stourbridge
+2021-09-23,645000,DY7 6LU,T,N,F,Dunsley Hall Farm Barns,The Piggery 9,Dunsley Road,Kinver,Stourbridge
+2021-09-21,280000,DY7 6FD,S,Y,F,2,,Mill Brook Meadow,Kinver,Stourbridge
+2021-09-17,765000,DY7 6SD,D,N,F,67A,,Hyperion Road,Stourton,Stourbridge
+2021-09-17,540000,DY7 5EN,D,N,F,Westholme,,Halfpenny Green,Bobbington,Stourbridge
+2021-09-16,255000,DY7 6BN,S,N,F,128,,Enville Road,Kinver,Stourbridge
+2021-09-15,240000,DY7 6BA,D,N,F,28,,Huntsmans Drive,Kinver,Stourbridge
+2021-09-10,260000,DY7 6AH,S,N,F,51,,Jenks Avenue,Kinver,Stourbridge
+2021-09-09,353000,DY7 6DR,S,N,F,10,,Heather Drive,Kinver,Stourbridge
+2021-09-03,495000,DY7 6FD,D,Y,F,32,,Mill Brook Meadow,Kinver,Stourbridge
+2021-09-03,470000,DY7 6DJ,D,N,F,4,,Meddins Rise,Kinver,Stourbridge
+2021-09-01,181000,DY7 6DX,F,N,F,5B,,Forest Drive,Kinver,Stourbridge
+2021-08-31,305000,DY7 6BA,D,N,F,7B,,Huntsmans Drive,Kinver,Stourbridge
+2021-08-27,500000,DY7 6FD,D,Y,F,36,,Mill Brook Meadow,Kinver,Stourbridge
+2021-08-27,510000,DY7 6FD,D,Y,F,34,,Mill Brook Meadow,Kinver,Stourbridge
+2021-08-27,276000,DY7 6FD,S,Y,F,18,,Mill Brook Meadow,Kinver,Stourbridge
+2021-08-27,280000,DY7 6FD,S,Y,F,16,,Mill Brook Meadow,Kinver,Stourbridge
+2021-08-26,535000,DY7 6SA,D,N,F,23,,Chantry Road,Stourton,Stourbridge
+2021-08-26,220000,DY7 6BU,S,N,F,72,,Enville Road,Kinver,Stourbridge
+2021-08-23,395000,DY7 6SB,D,N,F,"New Wood Lodge, 2A",,Hyperion Road,Stourton,Stourbridge
+2021-08-10,520000,DY7 6AP,D,N,F,67,,White Hill,Kinver,Stourbridge
+2021-08-10,800000,DY7 5QN,D,N,F,Silverbirch,,Hunters Ride,,Stourbridge
+2021-08-06,235000,DY7 6RL,S,N,F,4,,The Stewponey,Stourton,Stourbridge
+2021-08-06,617500,DY7 5EA,D,N,F,97,,Six Ashes Road,Bobbington,Stourbridge
+2021-07-30,250000,DY7 6EE,S,N,F,67,,Church View Gardens,Kinver,Stourbridge
+2021-07-16,345000,DY7 6EA,D,N,F,Avonlea,,Foster Crescent,Kinver,Stourbridge
+2021-07-16,232000,DY7 6AQ,S,N,F,33,,Jenks Avenue,Kinver,Stourbridge
+2021-07-01,175000,DY7 6JP,T,N,F,41,,Redwood Road,Kinver,Stourbridge
+2021-06-30,315000,DY7 6FD,S,Y,F,3,,Mill Brook Meadow,Kinver,Stourbridge
+2021-06-30,300000,DY7 6AQ,S,N,F,15,,Jenks Avenue,Kinver,Stourbridge
+2021-06-30,380000,DY7 6AD,D,N,F,2A,,White Hill,Kinver,Stourbridge
+2021-06-30,600000,DY7 5DG,D,N,F,Halfcot Farmhouse,,Wolverhampton Road,Prestwood,Stourbridge
+2021-06-29,334000,DY7 6JL,D,N,F,1,,Pine Close,Kinver,Stourbridge
+2021-06-29,420000,DY7 6FD,D,Y,F,1,,Mill Brook Meadow,Kinver,Stourbridge
+2021-06-29,640000,DY7 6AU,D,N,F,104,,White Hill,Kinver,Stourbridge
+2021-06-29,367000,DY7 6AE,D,N,F,11,,Hyde Lane,Kinver,Stourbridge
+2021-06-29,616350,DY7 6AB,D,N,F,35,,Enville Road,Kinver,Stourbridge
+2021-06-29,525000,DY7 6AA,D,N,F,30,,Enville Road,Kinver,Stourbridge
+2021-06-29,2135000,DY7 5BQ,D,N,F,Warren Hill,,Bridgnorth Road,Stourton,Stourbridge
+2021-06-28,390000,DY7 6EE,D,N,F,8,,Church View Gardens,Kinver,Stourbridge
+2021-06-25,278000,DY7 6DY,S,N,F,34,,Stone Lane,Kinver,Stourbridge
+2021-06-25,330000,DY7 6DW,S,N,F,20,,Compton Close,Kinver,Stourbridge
+2021-06-25,490000,DY7 6DP,D,N,F,"Heatherlands, 1",,Edge Hill,Kinver,Stourbridge
+2021-06-24,850000,DY7 6LF,D,N,F,Fairfield,,Dunsley Court,Kinver,Stourbridge
+2021-06-23,575000,DY7 5JF,T,N,F,Newhouse Farm Barns,2,Bridgnorth Road,Enville,Stourbridge
+2021-06-22,480000,DY7 6BJ,D,N,F,10,,Laburnum Close,Kinver,Stourbridge
+2021-06-21,260475,DY7 5PF,D,N,F,16,,Pavilion End,,Stourbridge
+2021-06-15,320000,DY7 6SJ,D,N,F,101,,Hyperion Road,Stourton,Stourbridge
+2021-06-15,415000,DY7 6RS,S,N,F,45,,Bridgnorth Road,Stourton,Stourbridge
+2021-06-11,400000,DY7 6SJ,D,N,F,143,,Hyperion Road,Stourton,Stourbridge
+2021-06-10,310000,DY7 6DY,D,N,F,26,,Stone Lane,Kinver,Stourbridge
+2021-06-07,515000,DY7 6AP,D,N,F,59,,White Hill,Kinver,Stourbridge
+2021-06-04,245000,DY7 6BN,T,N,F,Grace Cottage,,Enville Road,Kinver,Stourbridge
+2021-06-03,250000,DY7 5PE,D,N,F,11,,Lords Lane,,Stourbridge
+2021-06-02,590000,DY7 6EH,D,N,F,2,,Heathermount Grange,Kinver,Stourbridge
+2021-05-28,235000,DY7 6JP,S,N,F,53,,Redwood Road,Kinver,Stourbridge
+2021-05-28,380000,DY7 6BW,S,N,F,26,,Cedar Gardens,Kinver,Stourbridge
+2021-05-19,440000,DY7 6NB,D,N,F,Elmsmead,,Dunsley Drive,Kinver,Stourbridge
+2021-05-19,635000,DY7 6AU,D,N,F,82,,White Hill,Kinver,Stourbridge
+2021-05-17,238500,DY7 6RL,T,N,F,10,,The Stewponey,Stourton,Stourbridge
+2021-05-17,482500,DY7 6LX,S,N,F,Dunsley Manor Farm Barns,2,Dunsley Road,Kinver,Stourbridge
+2021-05-14,725000,DY7 6RZ,D,N,F,Beam Ends,,Prestwood Drive,,Stourbridge
+2021-05-14,260000,DY7 6EX,F,N,L,Lowestone Court,23,Stone Lane,Kinver,Stourbridge
+2021-05-14,229950,DY7 6BA,S,N,F,9,,Huntsmans Drive,Kinver,Stourbridge
+2021-05-07,727500,DY7 6SD,D,N,F,71,,Hyperion Road,Stourton,Stourbridge
+2021-05-06,775000,DY7 6LR,D,N,F,18,,Brindley Brae,Kinver,Stourbridge
+2021-04-30,430000,DY7 6RR,D,N,F,22,,Stourton Crescent,,Stourbridge
+2021-04-30,318000,DY7 6JF,D,N,F,68,,Redwood Road,Kinver,Stourbridge
+2021-04-30,175000,DY7 6BN,T,N,F,155,,Enville Road,Kinver,Stourbridge
+2021-04-30,245000,DY7 6AG,S,N,F,15,,Chandler Avenue,Kinver,Stourbridge
+2021-04-27,700000,DY7 6RW,D,N,F,6,,Bridgnorth Road,Stourton,Stourbridge
+2021-04-23,176000,DY7 6PH,S,N,F,Round Hill Farm Cottages,2,Whittington Hall Lane,Kinver,Stourbridge
+2021-04-23,353000,DY7 6DN,D,N,F,8,,Compton Road,Kinver,Stourbridge
+2021-04-23,618000,DY7 6AR,D,N,F,77,,White Hill,Kinver,Stourbridge
+2021-04-23,193000,DY7 5PE,D,N,F,9,,Lords Lane,,Stourbridge
+2021-04-21,650000,DY7 6LA,D,N,F,3,,Kenrose Mill,Kinver,Stourbridge
+2021-04-21,580000,DY7 6HY,D,N,F,Viewbank,,Church Hill,Kinver,Stourbridge
+2021-04-21,255000,DY7 6EX,F,N,L,Lowestone Court,4,Stone Lane,Kinver,Stourbridge
+2021-04-01,440000,DY7 5EG,T,N,F,East Barn,,Manor Lane,Bobbington,Stourbridge
+2021-03-30,355000,DY7 6BL,D,N,F,144,,Enville Road,Kinver,Stourbridge
+2021-03-26,262500,DY7 6EX,F,N,L,Lowestone Court,35,Stone Lane,Kinver,Stourbridge
+2021-03-26,1550000,DY7 5AZ,D,N,F,Gothersley Hall,,Greensforge Lane,,Stourbridge
+2021-03-25,815000,DY7 6SD,D,N,F,69A,,Hyperion Road,Stourton,Stourbridge
+2021-03-25,600000,DY7 6DX,D,N,F,2,,Forest Drive,Kinver,Stourbridge
+2021-03-23,245000,DY7 6AJ,T,N,F,58,,Windsor Crescent,Kinver,Stourbridge
+2021-03-22,287000,DY7 6HP,D,N,F,Cliff Bungalow,,The Cliff,Kinver,Stourbridge
+2021-03-19,390000,DY7 6EE,D,N,F,82,,Church View Gardens,Kinver,Stourbridge
+2021-03-19,256000,DY7 6EB,S,N,F,2,,Foster Street,Kinver,Stourbridge
+2021-03-19,415000,DY7 6AE,D,N,F,17,,Hyde Lane,Kinver,Stourbridge
+2021-03-18,335000,DY7 5BZ,D,N,F,33,,Six Ashes Road,Bobbington,Stourbridge
+2021-03-17,550000,DY7 5JF,D,N,F,Yew Tree Cottage,,Bridgnorth Road,Enville,Stourbridge
+2021-03-17,400000,DY7 5BW,D,N,F,2,,Broadacres Close,Stourton,Stourbridge
+2021-03-16,285000,DY7 6EY,F,N,L,Kinver Mount,6,Comber Grove,Kinver,Stourbridge
+2021-03-15,447500,DY7 6QA,S,N,F,Sherwood Cottage,,Astles Rock Walk,Kinver,Stourbridge
+2021-03-15,280000,DY7 6EN,S,N,F,28,,Comber Grove,Kinver,Stourbridge
+2021-03-12,235000,DY7 6EB,T,N,F,12,,Foster Street,Kinver,Stourbridge
+2021-03-12,635000,DY7 5JF,D,N,F,The Lodge,,Bridgnorth Road,Enville,Stourbridge
+2021-03-05,250000,DY7 6HS,D,N,F,Sandrock,,The Compa,Kinver,Stourbridge
+2021-03-05,270000,DY7 6EL,D,N,F,10,,Castle Street,Kinver,Stourbridge
+2021-03-05,605000,DY7 6AB,D,N,F,9,,Enville Road,Kinver,Stourbridge
+2021-03-01,300000,DY7 6EY,F,N,L,Kinver Mount,22,Comber Grove,Kinver,Stourbridge
+2021-03-01,298950,DY7 6DD,S,N,F,73,,Meddins Lane,Kinver,Stourbridge
+2021-02-26,780000,DY7 6SB,D,N,F,Henley Grange,,Hyperion Road,Stourton,Stourbridge
+2021-02-26,940000,DY7 5QW,D,N,F,The Laurels,,Lawnswood Drive,,Stourbridge
+2021-02-25,105000,DY7 6BA,F,N,L,40,,Huntsmans Drive,Kinver,Stourbridge
+2021-02-24,350000,DY7 6HL,T,N,F,Jubilee House,,High Street,Kinver,Stourbridge
+2021-02-24,262500,DY7 5PB,D,N,F,4,,Covers Lane,,Stourbridge
+2021-02-22,730000,DY7 5HX,D,N,F,"Ashton House, 7",,The Close,Enville,Stourbridge
+2021-02-19,345000,DY7 6HT,S,N,F,Rangiora,,Comber Road,Kinver,Stourbridge
+2021-02-19,290000,DY7 6BW,S,N,F,5,,Cedar Gardens,Kinver,Stourbridge
+2021-02-19,250000,DY7 6AG,S,N,F,16,,Chandler Avenue,Kinver,Stourbridge
+2021-02-19,450000,DY7 5BW,D,N,F,1,,Broadacres Close,Stourton,Stourbridge
+2021-02-18,410000,DY7 6RP,D,N,F,7,,Bridgnorth Road,Stourton,Stourbridge
+2021-02-18,367000,DY7 6BL,S,N,F,162,,Enville Road,Kinver,Stourbridge
+2021-02-18,460000,DY7 6AB,S,N,F,49B,,Enville Road,Kinver,Stourbridge
+2021-02-15,595000,DY7 5QN,D,N,F,Wildwood,,Hunters Ride,,Stourbridge
+2021-02-12,590000,DY7 6RY,D,N,F,161,,Bridgnorth Road,Stourton,Stourbridge
+2021-02-05,189000,DY7 6BN,T,N,F,147,,Enville Road,Kinver,Stourbridge
+2021-02-03,176000,DY7 6HD,T,N,F,92,,High Street,Kinver,Stourbridge
+2021-01-28,475000,DY7 6ED,D,N,F,18,,James Street,Kinver,Stourbridge
+2021-01-25,270000,DY7 6EZ,D,N,F,8,,The Copelands,Kinver,Stourbridge
+2021-01-22,205000,DY7 6DG,T,N,F,9,,Crystal Gardens,Kinver,Stourbridge
+2021-01-22,317000,DY7 5PD,D,N,F,5,,Wicket Lane,,Stourbridge
+2021-01-21,185000,DY7 6BE,T,N,F,15,,Spring Close,Kinver,Stourbridge
+2021-01-20,720000,DY7 6LP,D,N,F,5,,Hampton Grove,Kinver,Stourbridge
+2021-01-19,712500,DY7 6NQ,D,N,F,3,,Lockside Drive,Kinver,Stourbridge
+2021-01-15,292500,DY7 6RT,D,N,F,Grade Made,,Bridgnorth Road,Stourton,Stourbridge
+2021-01-15,125000,DY7 6RH,F,N,L,21,,Stewponey Court,Stourton,Stourbridge
+2021-01-08,118000,DY7 6EB,F,N,L,49,,Foster Street,Kinver,Stourbridge
+2021-01-08,400000,DY7 6BY,D,N,F,68,,Meddins Lane,Kinver,Stourbridge

@@ -1,0 +1,814 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-25,465000,SP3 4HE,D,N,F,28,,Meadway,Shrewton,Salisbury
+2026-08-21,255000,SP3 4AX,T,N,F,44,,St Martins Close,Barford St Martin,Salisbury
+2026-08-20,280000,SP3 6PW,S,N,F,5A,,Brook Close,Tisbury,Salisbury
+2026-08-14,465000,SP3 5PW,D,N,F,The Old Manor House,,,Swallowcliffe,Salisbury
+2026-08-10,200000,SP3 6PP,S,N,F,18,,Castle Mount,Tisbury,Salisbury
+2026-08-07,316000,SP3 6AL,T,N,F,16,,The Street,East Knoyle,Salisbury
+2026-08-03,850000,SP3 5NA,D,N,F,Ivy Cottage,,,Sutton Mandeville,Salisbury
+2026-07-24,400000,SP3 5JW,D,N,F,Lydford,,Dinton Road,Fovant,Salisbury
+2026-07-23,360000,SP3 4DZ,S,N,F,26,,Highfield Rise,Shrewton,Salisbury
+2026-07-16,600000,SP3 6GX,D,N,F,1,,Morrison Avenue,Tisbury,Salisbury
+2026-07-15,487500,SP3 5SQ,S,N,F,28,,The Rings,Fonthill Bishop,Salisbury
+2026-07-14,745000,SP3 6ER,D,N,F,Spero House,,,Hindon,Salisbury
+2026-07-02,112927,SP3 4AX,S,N,F,9,,St Martins Close,Barford St Martin,Salisbury
+2026-06-26,460000,SP3 4LJ,D,N,F,Thatchers Cottage,,Berwick Road,Stapleford,Salisbury
+2026-06-26,285000,SP3 4AR,S,N,F,6,,The Poplars,Barford St Martin,Salisbury
+2026-06-25,685000,SP3 5JW,D,N,F,Harwood,,Dinton Road,Fovant,Salisbury
+2026-06-19,725000,SP3 5EG,D,N,F,The Forge,,Hindon Road,Dinton,Salisbury
+2026-06-16,515000,SP3 4JL,D,N,F,Southfield,,Maddington Street,Shrewton,Salisbury
+2026-06-15,575000,SP3 6LN,S,N,F,2,,Court Street,Tisbury,Salisbury
+2026-06-04,612500,SP3 5SU,D,N,F,Chicklade Lodge,,,Chicklade,Salisbury
+2026-06-02,575000,SP3 6RY,D,N,F,5,,Snows Hill,Tisbury,Salisbury
+2026-05-29,625000,SP3 6PS,T,N,F,4,,High Street,Tisbury,Salisbury
+2026-05-29,235000,SP3 6HR,S,N,F,Hill View,1,The Quarry,Tisbury,Salisbury
+2026-05-29,265000,SP3 4RJ,S,N,F,2,,Whatcombe Brow,Orcheston,Salisbury
+2026-05-26,350000,SP3 4DZ,D,N,F,32,,Highfield Rise,Shrewton,Salisbury
+2026-05-20,327000,SP3 6HJ,T,N,F,11,,Weaveland Road,Tisbury,Salisbury
+2026-05-19,392500,SP3 6LH,S,N,F,12,,Cuffs Lane,Tisbury,Salisbury
+2026-05-15,270000,SP3 6BN,T,N,F,4,,The Green,East Knoyle,Salisbury
+2026-04-28,458000,SP3 4EQ,D,N,F,Tillside,,Salisbury Road,Shrewton,Salisbury
+2026-04-23,535000,SP3 6EB,S,N,F,The Old Chapel,,The Dene,Hindon,Salisbury
+2026-04-08,675000,SP3 4HD,D,N,F,The Old Police House,,Amesbury Road,Shrewton,Salisbury
+2026-04-02,440000,SP3 5PF,D,N,F,Springside Cottage,,,Swallowcliffe,Salisbury
+2026-03-31,617500,SP3 6DW,D,N,F,Angel House,,Angel Lane,Hindon,Salisbury
+2026-03-27,550000,SP3 4TL,D,N,F,Barrington,,,Berwick St James,Salisbury
+2026-03-23,760000,SP3 5JU,D,N,F,Bridge Cottage,,Tisbury Road,Fovant,Salisbury
+2026-03-20,660000,SP3 5AU,S,N,F,Laburnum Cottage,,The Street,Chilmark,Salisbury
+2026-03-18,348000,SP3 6NH,T,N,F,May Cottage,,Church Street,Tisbury,Salisbury
+2026-03-18,220000,SP3 4BL,S,N,F,7,,Shaftesbury Road,Barford St Martin,Salisbury
+2026-03-04,565000,SP3 4LE,D,N,F,10,,Priory Close,Shrewton,Salisbury
+2026-03-02,368000,SP3 4BU,D,N,F,Burnside,,High Street,Shrewton,Salisbury
+2026-02-27,475000,SP3 4NG,S,N,F,2,,Church Cottages,Steeple Langford,Salisbury
+2026-02-25,639000,SP3 5SU,S,N,F,The Old Rectory,,,Chicklade,Salisbury
+2026-02-24,250000,SP3 4EA,S,N,F,1,,Hindes Meadow,Shrewton,Salisbury
+2026-02-13,682500,SP3 6AA,D,N,F,The Coach House,,Hindon Road,East Knoyle,Salisbury
+2026-02-10,345000,SP3 6PW,D,N,F,39,,Brook Close,Tisbury,Salisbury
+2026-02-03,450000,SP3 6AP,D,N,F,Millside,,Leigh Lane,East Knoyle,Salisbury
+2026-01-29,500000,SP3 4JT,D,N,F,Rose Cottage,,Tanners Lane,Shrewton,Salisbury
+2026-01-28,567500,SP3 5NB,D,N,F,Angel Cottage,,Glasses Lane,Sutton Mandeville,Salisbury
+2026-01-07,387500,SP3 4NW,D,N,F,Greenways,,Wylye Road,Hanging Langford,Salisbury
+2026-01-07,449999,SP3 4NB,S,N,F,2,,Berwick Lane,Steeple Langford,Salisbury
+2025-12-19,352000,SP3 6QD,S,N,F,Fonthill Cottages,4,Hindon Lane,Tisbury,Salisbury
+2025-12-19,173000,SP3 6AZ,F,N,L,Churchside,1,Church Street,Tisbury,Salisbury
+2025-12-19,162500,SP3 4FA,F,N,L,7,,Old School Mews,Shrewton,Salisbury
+2025-12-16,230000,SP3 6HJ,T,N,F,7A,,Weaveland Road,Tisbury,Salisbury
+2025-12-15,417000,SP3 5QY,D,N,F,Cosy Cottage,,,Teffont,Salisbury
+2025-12-12,740000,SP3 6DF,D,N,F,Elm House,,Gauns Court,East Knoyle,Salisbury
+2025-12-12,540000,SP3 6AR,D,N,F,Rose Ella,,Shaftesbury Road,East Knoyle,Salisbury
+2025-12-12,982500,SP3 5RE,D,N,F,The Willows,,,Teffont Evias,Salisbury
+2025-12-11,609000,SP3 6GZ,D,N,F,1,,Alice Combes Lane,Tisbury,Salisbury
+2025-12-09,409200,SP3 4JR,T,N,F,Denbry,,Tanners Lane,Shrewton,Salisbury
+2025-12-05,1000000,SP3 4LT,D,N,F,White House,,Warminster Road,Stapleford,Salisbury
+2025-12-05,360000,SP3 4BZ,D,N,F,Stoneleigh,,High Street,Shrewton,Salisbury
+2025-12-05,345000,SP3 4BT,S,N,F,8,,Catherine Court,Shrewton,Salisbury
+2025-12-04,257500,SP3 4BZ,T,N,F,Carriers Court,1,High Street,Shrewton,Salisbury
+2025-12-03,557000,SP3 4DD,D,N,F,Furlong House,,High Street,Shrewton,Salisbury
+2025-12-02,420000,SP3 4NH,S,N,F,Malraymar,,Duck Street,Steeple Langford,Salisbury
+2025-12-02,348000,SP3 4HB,D,N,F,Highways,,Nett Road,Shrewton,Salisbury
+2025-12-01,670000,SP3 6GX,D,N,F,12,,Morrison Avenue,Tisbury,Salisbury
+2025-11-28,400000,SP3 6QA,T,N,F,4,,Alexandra Terrace,Tisbury,Salisbury
+2025-11-28,2725000,SP3 5AJ,D,N,F,Furlong House,,Cow Drove,Chilmark,Salisbury
+2025-11-27,495000,SP3 6JT,F,N,L,Bridge House,1,,Tisbury,Salisbury
+2025-11-27,252000,SP3 6JR,S,N,F,16,,Station Road,Tisbury,Salisbury
+2025-11-25,735000,SP3 5JL,D,N,F,Riversdale,,High Street,Fovant,Salisbury
+2025-11-25,550000,SP3 4HE,D,N,F,30,,Meadway,Shrewton,Salisbury
+2025-11-21,387000,SP3 5LJ,T,N,F,3,,West Farm Cottages,Fovant,Salisbury
+2025-11-21,215000,SP3 4LD,S,N,F,8,,The Butts,Shrewton,Salisbury
+2025-11-19,930000,SP3 5NG,D,N,F,The Old Barn,,,Sutton Mandeville,Salisbury
+2025-11-18,290000,SP3 6AN,T,N,F,4,,Park Houses,East Knoyle,Salisbury
+2025-11-17,330000,SP3 6NY,S,N,F,49,,,Newtown,Salisbury
+2025-11-14,465000,SP3 4BS,D,N,F,Highfield Orchard,1,Highfield Rise,Shrewton,Salisbury
+2025-11-07,290000,SP3 6JW,S,N,F,73,,Queens Road,Tisbury,Salisbury
+2025-11-07,66375,SP3 6GY,T,N,L,7,,Maryland Avenue,Tisbury,Salisbury
+2025-11-07,900000,SP3 4NW,D,N,F,Coombe Cottage,,Wylye Road,Hanging Langford,Salisbury
+2025-11-04,1200000,SP3 6LF,D,N,F,The Old Vicarage,,Park Road,Tisbury,Salisbury
+2025-11-04,265000,SP3 6HJ,T,N,F,3,,Weaveland Road,Tisbury,Salisbury
+2025-11-03,350000,SP3 4SS,S,N,F,6,,Meadow View,Winterbourne Stoke,Salisbury
+2025-10-31,681500,SP3 5NL,D,N,F,The Beeches,,,Sutton Mandeville,Salisbury
+2025-10-31,815000,SP3 4NU,D,N,F,Rectory Paddock,,,Little Langford,Salisbury
+2025-10-30,1595000,SP3 6LL,D,N,F,"Cedar House, 21",,Lady Down View,Tisbury,Salisbury
+2025-10-24,255000,SP3 6JN,T,N,F,20,,Queens Road,Tisbury,Salisbury
+2025-10-23,368000,SP3 6JD,T,N,F,98,,Mount Pleasant,Tisbury,Salisbury
+2025-10-23,795000,SP3 5HH,D,N,F,Church View,,St Marys Road,Dinton,Salisbury
+2025-10-21,447000,SP3 6LJ,S,N,F,107,,Duck Street,Tisbury,Salisbury
+2025-10-14,342000,SP3 4DE,S,N,F,Cosynest,,Upper Backway,Shrewton,Salisbury
+2025-10-13,500201,SP3 6NH,D,N,F,58,,Church Street,Tisbury,Salisbury
+2025-10-10,295000,SP3 6PN,T,N,F,3,,St Johns Close,Tisbury,Salisbury
+2025-10-09,270000,SP3 4SS,T,N,F,3,,Meadow View,Winterbourne Stoke,Salisbury
+2025-10-08,717000,SP3 6DQ,D,N,F,2,,Knapp Hollow,Tisbury,Salisbury
+2025-10-06,335000,SP3 6DG,S,N,F,9,,Paradise Meadow,Tisbury,Salisbury
+2025-09-30,1200000,SP3 6QH,D,N,F,The Old Rectory Stables,,,Fonthill Gifford,Salisbury
+2025-09-30,4300000,SP3 6DN,D,N,F,Hawking Down House,,,Hindon,Salisbury
+2025-09-26,1175000,SP3 6NB,D,N,F,The Brambles,,Lower Chicksgrove,Tisbury,Salisbury
+2025-09-26,612500,SP3 5JT,D,N,F,Brookway,,Tisbury Road,Fovant,Salisbury
+2025-09-26,350000,SP3 4JE,S,N,F,Pear Tree Cottage,,,Shrewton,Salisbury
+2025-09-24,345000,SP3 5HG,S,N,F,17,,Clarendon Close,Dinton,Salisbury
+2025-09-11,643000,SP3 4RZ,D,N,F,Paynes Farm,,High Street,Tilshead,Salisbury
+2025-09-05,185000,SP3 6AZ,F,N,L,Churchside,2,Church Street,Tisbury,Salisbury
+2025-09-01,895000,SP3 6NZ,D,N,F,"Nadder Barn, 2",,The Old Farm Yard,Tisbury,Salisbury
+2025-08-29,240000,SP3 6PN,T,N,F,14,,St Johns Close,Tisbury,Salisbury
+2025-08-28,540000,SP3 6GT,D,N,F,2,,Wyndhams Place,Tisbury,Salisbury
+2025-08-28,1750000,SP3 5JL,D,N,F,Brook House,,High Street,Fovant,Salisbury
+2025-08-22,375000,SP3 6LB,D,N,F,The Bungalow,,The Causeway,Tisbury,Salisbury
+2025-08-22,1100000,SP3 5QY,D,N,F,Font House,,,Teffont,Salisbury
+2025-08-14,490000,SP3 4TN,S,N,F,Post Office Cottage,,High Street,Berwick St James,Salisbury
+2025-08-13,435000,SP3 6DP,D,N,F,Listan,,Field Way,Hindon,Salisbury
+2025-08-11,475000,SP3 6NH,T,N,F,57,,Church Street,Tisbury,Salisbury
+2025-08-08,450000,SP3 4LN,D,N,F,Bankside,,,Stapleford,Salisbury
+2025-08-04,350000,SP3 6BN,S,N,F,19,,The Green,East Knoyle,Salisbury
+2025-08-04,655000,SP3 4EQ,D,N,F,Fair View,,Salisbury Road,Shrewton,Salisbury
+2025-07-31,576000,SP3 6EF,D,N,F,Marston,,The Down,Hindon,Salisbury
+2025-07-24,645000,SP3 5JG,D,N,F,The Steps,,Green Drove,Fovant,Salisbury
+2025-07-22,1235000,SP3 5LU,D,N,F,Panters,,,Sutton Mandeville,Salisbury
+2025-07-18,975000,SP3 6AJ,D,N,F,Red Lion Cottage,,The Street,East Knoyle,Salisbury
+2025-07-18,270000,SP3 4BZ,S,N,F,Carriers Court,3,High Street,Shrewton,Salisbury
+2025-07-17,256000,SP3 6BF,T,N,F,4,,Church Mead,Tisbury,Salisbury
+2025-07-11,565000,SP3 5LB,D,N,F,Brock House,,Moor Hill,Fovant,Salisbury
+2025-07-04,400000,SP3 4SJ,D,N,F,11,,Candown Road,Tilshead,Salisbury
+2025-07-01,1150000,SP3 4NN,D,N,F,Jesolo,,Wylye Road,Hanging Langford,Salisbury
+2025-06-24,470000,SP3 4HG,D,N,F,Halfway Cottage,,Rollestone Road,Shrewton,Salisbury
+2025-06-20,270000,SP3 4SE,S,N,F,13,,Imber Place,Tilshead,Salisbury
+2025-06-20,290000,SP3 4SB,D,N,F,Hill View,,High Street,Tilshead,Salisbury
+2025-06-17,390000,SP3 4ND,T,N,F,32,,The Wirr,Steeple Langford,Salisbury
+2025-06-17,465000,SP3 4HD,D,N,F,Carder Bee House,,Amesbury Road,Shrewton,Salisbury
+2025-06-12,275000,SP3 6HW,T,N,F,2,,Temperance Row,Tisbury,Salisbury
+2025-06-11,450000,SP3 6JG,D,N,F,Pot House,,The Avenue,Tisbury,Salisbury
+2025-06-11,1000000,SP3 4AH,D,N,F,Cross Cottage,,West Street,Barford St Martin,Salisbury
+2025-06-09,350000,SP3 6QN,S,N,F,23,,Springfield Park,Tisbury,Salisbury
+2025-06-03,940000,SP3 5PG,D,N,F,Dean Lodge,,,Swallowcliffe,Salisbury
+2025-06-02,335000,SP3 5HU,S,N,F,9,,Tyndales Meadow,Dinton,Salisbury
+2025-05-30,350000,SP3 4DZ,S,N,F,3,,Highfield Rise,Shrewton,Salisbury
+2025-05-29,590000,SP3 6AJ,D,N,F,Thatch Croft,,The Street,East Knoyle,Salisbury
+2025-05-16,305000,SP3 4JL,S,N,F,Greengates,,Maddington Street,Shrewton,Salisbury
+2025-05-16,425000,SP3 4HG,S,N,F,Gilwell,,Rollestone Road,Shrewton,Salisbury
+2025-05-16,340000,SP3 4DZ,D,N,F,16,,Highfield Rise,Shrewton,Salisbury
+2025-05-13,255000,SP3 4LD,S,N,F,9,,The Butts,Shrewton,Salisbury
+2025-05-09,590000,SP3 6DR,T,N,F,Queenshead Mews,,High Street,Hindon,Salisbury
+2025-05-07,432000,SP3 4SR,D,N,F,6,,Brook Close,Winterbourne Stoke,Salisbury
+2025-05-06,975000,SP3 5AU,D,N,F,Chieldmarc,,The Street,Chilmark,Salisbury
+2025-04-30,240000,SP3 6HB,T,N,F,10,,Becket Street,Tisbury,Salisbury
+2025-04-28,432500,SP3 4EB,D,N,F,3,,Hilltop Close,Shrewton,Salisbury
+2025-04-25,240000,SP3 6JN,T,N,F,18,,Queens Road,Tisbury,Salisbury
+2025-04-25,375000,SP3 4DZ,D,N,F,14,,Highfield Rise,Shrewton,Salisbury
+2025-04-17,290000,SP3 5BJ,D,N,F,4,,Claybush,Chilmark,Salisbury
+2025-04-17,405500,SP3 4ER,S,N,F,Graten Cottage,,Homanton,Shrewton,Salisbury
+2025-04-09,220000,SP3 6HD,S,N,F,St Brelades,,High Street,Tisbury,Salisbury
+2025-03-31,725000,SP3 5QF,D,N,F,"Pennyfarthing Cottage, 65",,High Street,Ansty,Salisbury
+2025-03-28,465000,SP3 4SB,D,N,F,Sunnyside Cottage,,High Street,Tilshead,Salisbury
+2025-03-24,508000,SP3 5JW,D,N,F,Mallard,,Dinton Road,Fovant,Salisbury
+2025-03-21,495000,SP3 6SN,D,N,F,"Quarry Cottage, 35",,Castle Street,Tisbury,Salisbury
+2025-03-21,513000,SP3 6SD,D,N,F,1,,The Mallards,Tisbury,Salisbury
+2025-03-21,260000,SP3 6RX,S,N,F,7,,Squalls Lane,Tisbury,Salisbury
+2025-03-21,335000,SP3 6PW,T,N,F,31,,Brook Close,Tisbury,Salisbury
+2025-03-20,285000,SP3 4AX,S,N,F,43,,St Martins Close,Barford St Martin,Salisbury
+2025-03-19,375000,SP3 6DR,T,N,F,Demelza Cottage,,High Street,Hindon,Salisbury
+2025-03-12,625000,SP3 5JL,D,N,F,Little Barrow,,High Street,Fovant,Salisbury
+2025-03-12,696250,SP3 5AU,D,N,F,Winterbourne House,,The Street,Chilmark,Salisbury
+2025-03-07,290000,SP3 6NH,F,N,L,The Churchloft,,Church Street,Tisbury,Salisbury
+2025-03-07,308000,SP3 4AH,S,N,F,Fern Cottage,,West Street,Barford St Martin,Salisbury
+2025-03-05,370000,SP3 5HG,S,N,F,10,,Clarendon Close,Dinton,Salisbury
+2025-03-03,550000,SP3 5LB,D,N,F,1,,Wyatt Orchard,Fovant,Salisbury
+2025-02-28,305000,SP3 6NR,S,N,F,88,,Monmouth Road,Tisbury,Salisbury
+2025-02-28,500000,SP3 4SR,D,N,F,2,,Brook Close,Winterbourne Stoke,Salisbury
+2025-02-26,725000,SP3 4JL,D,N,F,White House,,Maddington Street,Shrewton,Salisbury
+2025-02-25,380000,SP3 6JG,S,N,F,Woodfalls,,The Avenue,Tisbury,Salisbury
+2025-02-21,360000,SP3 6PW,D,N,F,43,,Brook Close,Tisbury,Salisbury
+2025-02-21,1075000,SP3 5HH,D,N,F,Dinton Lodge,,St Marys Road,Dinton,Salisbury
+2025-02-17,675000,SP3 5JA,D,N,F,Swanshurst,,Shaftesbury Road,Fovant,Salisbury
+2025-02-14,925000,SP3 6QX,T,N,F,7,,Wardour Court,Tisbury,Salisbury
+2025-02-13,1037250,SP3 6AP,D,N,F,Stonehaven,,Leigh Lane,East Knoyle,Salisbury
+2025-02-03,200000,SP3 4SJ,S,N,F,19,,Candown Road,Tilshead,Salisbury
+2025-02-03,355000,SP3 4NF,T,N,F,17,,Salisbury Road,Steeple Langford,Salisbury
+2025-02-03,465000,SP3 4AG,D,N,F,5,,Mount Lane,Barford St Martin,Salisbury
+2025-01-31,412500,SP3 6QN,D,N,F,11,,Springfield Park,Tisbury,Salisbury
+2025-01-30,310000,SP3 4DY,D,N,F,Oakfield,,Furlong Way,Shrewton,Salisbury
+2025-01-29,215000,SP3 5DY,T,N,F,43,,Spracklands,Dinton,Salisbury
+2025-01-29,325000,SP3 4DH,D,N,F,Kuching Cottage,,London Road,Shrewton,Salisbury
+2025-01-28,330000,SP3 6NH,F,N,L,The Crown Inn,Flat 2,Church Street,Tisbury,Salisbury
+2025-01-24,313000,SP3 4RH,D,N,F,Text Cottage,,,Orcheston,Salisbury
+2025-01-22,700000,SP3 6BY,D,N,F,Bramble Cottage,,,East Knoyle,Salisbury
+2025-01-16,425000,SP3 4HG,D,N,F,Graten House,,Rollestone Road,Shrewton,Salisbury
+2025-01-10,173600,SP3 6AZ,F,N,L,Churchside,5,Church Street,Tisbury,Salisbury
+2025-01-09,447000,SP3 5JW,D,N,F,Sallys Garden,,Dinton Road,Fovant,Salisbury
+2025-01-07,860000,SP3 5QT,D,N,F,Willow House,,The Street,Teffont,Salisbury
+2025-01-06,169050,SP3 4DN,S,N,F,13,,London Road,Shrewton,Salisbury
+2024-12-23,160000,SP3 6JP,F,N,L,Teddy's Flat,,The Square,Tisbury,Salisbury
+2024-12-20,250000,SP3 6JQ,S,N,F,29,,The Avenue,Tisbury,Salisbury
+2024-12-20,250000,SP3 4BZ,S,N,F,Carriers Court,4,High Street,Shrewton,Salisbury
+2024-12-17,300750,SP3 6DG,T,N,F,14,,Paradise Meadow,Tisbury,Salisbury
+2024-12-13,830000,SP3 4ER,D,N,F,Duir Lodge,,Homanton,Shrewton,Salisbury
+2024-12-13,235000,SP3 4DG,T,N,F,26,,Trinity Road,Shrewton,Salisbury
+2024-12-12,600000,SP3 6LL,D,N,F,8,,Lady Down View,Tisbury,Salisbury
+2024-12-09,1300000,SP3 6HH,D,N,F,The Elms,,High Street,Tisbury,Salisbury
+2024-12-09,750000,SP3 4FU,D,N,F,3,,Chartwell Place,Shrewton,Salisbury
+2024-12-02,530000,SP3 6LF,D,N,F,St Helier,,Park Road,Tisbury,Salisbury
+2024-11-29,800000,SP3 5DX,D,N,F,4,,Lovegrove Acre,Dinton,Salisbury
+2024-11-28,393000,SP3 5JG,T,N,F,3,,Green Drove,Fovant,Salisbury
+2024-11-26,265000,SP3 6RX,S,N,F,1,,Squalls Lane,Tisbury,Salisbury
+2024-11-26,725000,SP3 5PZ,D,N,F,Holly House,,Ansty Coombe Lane,Ansty,Salisbury
+2024-11-18,895000,SP3 5BS,T,N,F,"Damson Cottage, 88",,Ridge,Chilmark,Salisbury
+2024-11-15,385000,SP3 5BS,T,N,F,89,,Ridge,Chilmark,Salisbury
+2024-11-13,350000,SP3 5BH,S,N,F,Mission Hall Cottage,,,Chilmark,Salisbury
+2024-11-08,310000,SP3 4RZ,D,N,F,Ruernarth,,High Street,Tilshead,Salisbury
+2024-11-08,500000,SP3 4HZ,D,N,F,White Lodge,,Salisbury Road,Shrewton,Salisbury
+2024-11-07,420000,SP3 5PH,D,N,F,Ar-Tig,,,Swallowcliffe,Salisbury
+2024-11-01,575000,SP3 5EP,D,N,F,East End Cottages,4,Sandhills Road,Dinton,Salisbury
+2024-10-30,1800000,SP3 5SH,D,N,F,The Upper House,,,Fonthill Bishop,Salisbury
+2024-10-30,400000,SP3 5QP,S,N,L,Fitz House,,The Street,Teffont,Salisbury
+2024-10-30,245000,SP3 5DJ,T,N,F,Sahaja,,Shaftesbury Road,Compton Chamberlayne,Salisbury
+2024-10-29,2146500,SP3 6PX,D,N,F,Stops House,,,Fonthill Gifford,Salisbury
+2024-10-28,720000,SP3 5PX,D,N,F,The Old Polo Stables,Arundel Barn,,Ansty,Salisbury
+2024-10-25,280000,SP3 4BW,T,N,F,8,,The Limes,Shrewton,Salisbury
+2024-10-25,277500,SP3 4BT,T,N,F,7,,Catherine Court,Shrewton,Salisbury
+2024-10-22,224000,SP3 6FD,F,N,L,The Crown,3,Church Street,Tisbury,Salisbury
+2024-10-15,345000,SP3 6NH,T,N,F,55,,Church Street,Tisbury,Salisbury
+2024-10-11,235000,SP3 4DN,S,N,F,15,,London Road,Shrewton,Salisbury
+2024-10-09,265000,SP3 4EZ,T,N,F,Ivydale Cottages,3,Nett Road,Shrewton,Salisbury
+2024-10-04,570000,SP3 5EG,D,N,F,Lanes End,,Hindon Road,Dinton,Salisbury
+2024-10-04,300000,SP3 5EE,S,N,F,11,,Pembroke Fields,Dinton,Salisbury
+2024-10-02,1500000,SP3 6EG,D,N,F,Hillcrest,,,Hindon,Salisbury
+2024-09-30,220500,SP3 6UD,S,N,F,7,,Dunworth Rise,Tisbury,Salisbury
+2024-09-27,500000,SP3 4AH,D,N,F,Old Chapel,,West Street,Barford St Martin,Salisbury
+2024-09-26,370000,SP3 4NF,S,N,F,22,,Salisbury Road,Steeple Langford,Salisbury
+2024-09-25,225000,SP3 4EU,S,N,F,5,,Chalk Hill,Shrewton,Salisbury
+2024-09-20,240000,SP3 5JT,D,N,F,Ashbrook,,Tisbury Road,Fovant,Salisbury
+2024-09-20,162350,SP3 4DQ,T,N,F,1,,Far View Road,Shrewton,Salisbury
+2024-09-18,547350,SP3 6DJ,S,N,F,Inverie,,High Street,Hindon,Salisbury
+2024-09-13,472000,SP3 6BN,D,N,F,Chapel House,,The Green,East Knoyle,Salisbury
+2024-09-13,1437000,SP3 6BL,D,N,F,Waterdale,,,East Knoyle,Salisbury
+2024-09-11,324000,SP3 6PN,T,N,F,16,,St Johns Close,Tisbury,Salisbury
+2024-09-11,275000,SP3 4DG,T,N,F,20,,Trinity Road,Shrewton,Salisbury
+2024-09-10,434000,SP3 4AL,T,N,F,Church Farm Cottages,1,Factory Lane,Barford St Martin,Salisbury
+2024-09-05,272500,SP3 4AX,T,N,F,42,,St Martins Close,Barford St Martin,Salisbury
+2024-09-03,430000,SP3 6DX,T,N,F,1,,Greystones,Hindon,Salisbury
+2024-08-30,560000,SP3 4ND,D,N,F,Windrush House,,The Wirr,Steeple Langford,Salisbury
+2024-08-28,430000,SP3 5RR,D,N,F,Teffont Lodge,,,Teffont,Salisbury
+2024-08-28,70000,SP3 4AX,S,N,F,45,,St Martins Close,Barford St Martin,Salisbury
+2024-08-23,370000,SP3 6NB,D,N,F,The Little Cottage,,Lower Chicksgrove,Tisbury,Salisbury
+2024-08-23,360000,SP3 6DJ,T,N,F,"Rosemary Cottage, 2",,High Street,Hindon,Salisbury
+2024-08-22,605000,SP3 6GX,D,N,F,9,,Morrison Avenue,Tisbury,Salisbury
+2024-08-22,1242986,SP3 5RE,D,N,F,Cleeve House,,,Teffont Evias,Salisbury
+2024-08-21,637000,SP3 6HZ,D,N,F,Knapp Cottage,,Vicarage Road,Tisbury,Salisbury
+2024-08-20,930000,SP3 5LB,D,N,F,Orchard House,,Moor Hill,Fovant,Salisbury
+2024-08-16,320000,SP3 6DR,T,N,F,12,,High Street,Hindon,Salisbury
+2024-08-16,257000,SP3 4LD,S,N,F,2,,The Butts,Shrewton,Salisbury
+2024-08-15,900650,SP3 6BN,D,N,F,Swainscombe,,The Green,East Knoyle,Salisbury
+2024-08-15,600000,SP3 5NQ,D,N,F,1,,Sutton Row,Sutton Mandeville,Salisbury
+2024-08-15,530000,SP3 4BX,D,N,F,Millstone,,Chapel Lane,Shrewton,Salisbury
+2024-08-12,1045000,SP3 6AA,S,N,F,Laundry House,,Hindon Road,East Knoyle,Salisbury
+2024-08-09,378500,SP3 6LG,D,N,F,Magpies,,Cuffs Lane,Tisbury,Salisbury
+2024-08-08,347500,SP3 6HT,T,N,F,20,,Churchill Estate,Tisbury,Salisbury
+2024-08-05,225000,SP3 6JW,S,N,F,41,,Queens Road,Tisbury,Salisbury
+2024-08-02,315000,SP3 4JT,D,N,F,Shenandoah,,Tanners Lane,Shrewton,Salisbury
+2024-08-01,535000,SP3 5QD,D,N,F,83,,High Street,Ansty,Salisbury
+2024-07-31,790000,SP3 6GY,D,N,F,4,,Maryland Avenue,Tisbury,Salisbury
+2024-07-31,900000,SP3 5PF,D,N,F,Springhead,,,Swallowcliffe,Salisbury
+2024-07-31,477500,SP3 4HG,D,N,F,Lanes End,,Rollestone Road,Shrewton,Salisbury
+2024-07-30,560000,SP3 5EG,D,N,F,Rosery Court,1,Hindon Road,Dinton,Salisbury
+2024-07-30,435000,SP3 4HB,D,N,F,Topfield House,,Nett Road,Shrewton,Salisbury
+2024-07-26,530000,SP3 4LP,D,N,F,The Paddock,1,Over Street,Stapleford,Salisbury
+2024-07-23,975800,SP3 6DR,T,N,F,Bank House,,High Street,Hindon,Salisbury
+2024-07-19,895000,SP3 5JY,D,N,F,Fovant Elm,,Tisbury Road,Fovant,Salisbury
+2024-07-09,470000,SP3 4ER,D,N,F,Winterbourne House,,Homanton,Shrewton,Salisbury
+2024-07-08,580000,SP3 6DP,D,N,F,Chaplins,,High Street,Hindon,Salisbury
+2024-07-08,335000,SP3 5JN,D,N,F,6,,Sling Orchard,Fovant,Salisbury
+2024-07-08,279500,SP3 4NJ,T,N,F,5,,The Glebe,Steeple Langford,Salisbury
+2024-06-28,300000,SP3 5AR,D,N,F,Vine Cottage,,The Street,Chilmark,Salisbury
+2024-06-27,465000,SP3 4HE,D,N,F,16,,Meadway,Shrewton,Salisbury
+2024-06-21,610000,SP3 5AH,D,N,F,Parsons Paddock,,Salisbury Road,Chilmark,Salisbury
+2024-06-20,235000,SP3 4SL,T,N,F,3,,Marvins Close,Tilshead,Salisbury
+2024-06-14,600000,SP3 6GY,D,N,F,6,,Maryland Avenue,Tisbury,Salisbury
+2024-06-14,980000,SP3 5JB,D,N,F,Highfield House,,Brook Street,Fovant,Salisbury
+2024-06-14,267500,SP3 4SY,D,N,F,4,,Cleeve View,Winterbourne Stoke,Salisbury
+2024-06-14,1085000,SP3 4JT,D,N,F,Karrick House,,Tanners Lane,Shrewton,Salisbury
+2024-06-14,450000,SP3 4HE,D,N,F,10,,Meadway,Shrewton,Salisbury
+2024-06-07,395000,SP3 6DS,T,N,F,20,,Says Cottages,Hindon,Salisbury
+2024-06-07,308500,SP3 4EE,S,N,F,Bizarre,,Salisbury Road,Shrewton,Salisbury
+2024-06-04,285500,SP3 6DR,T,N,F,Wyvern,,High Street,Hindon,Salisbury
+2024-06-03,185000,SP3 6AZ,F,N,L,Churchside,3,Church Street,Tisbury,Salisbury
+2024-05-20,525000,SP3 6JR,D,N,F,Old Riverside Dairy,,Station Road,Tisbury,Salisbury
+2024-05-17,600000,SP3 4NN,D,N,F,Robins Rest,,Wylye Road,Hanging Langford,Salisbury
+2024-05-14,350000,SP3 6PR,D,N,F,21,,High View Close,Tisbury,Salisbury
+2024-05-09,100000,SP3 6NU,S,N,F,1,,Lawn Farm Cottages,Tisbury,Salisbury
+2024-05-07,315000,SP3 4HB,D,N,F,Haytons Bent,,Nett Road,Shrewton,Salisbury
+2024-05-03,432000,SP3 6DR,T,N,F,2,The Swan House,High Street,Hindon,Salisbury
+2024-04-24,250000,SP3 6HB,T,N,F,10,,Becket Street,Tisbury,Salisbury
+2024-04-22,180000,SP3 6PR,S,N,F,26,,High View Close,Tisbury,Salisbury
+2024-04-22,595000,SP3 5HB,S,N,F,Barn Cottage,1,Catherine Ford Road,Dinton,Salisbury
+2024-04-16,400000,SP3 4NN,S,N,F,Trunkles,,Wylye Road,Hanging Langford,Salisbury
+2024-04-12,475000,SP3 4JX,S,N,F,Mill Cottage,,,Shrewton,Salisbury
+2024-04-11,510000,SP3 6NL,D,N,F,Tanglewood,,Monmouth Road,Tisbury,Salisbury
+2024-04-05,507000,SP3 6AE,D,N,F,The Rising,,Church Road,East Knoyle,Salisbury
+2024-04-04,345000,SP3 4LF,S,N,F,5,,Riverside Terrace,Stapleford,Salisbury
+2024-03-28,385000,SP3 6HD,S,N,F,The Old Garden Mews,5,High Street,Tisbury,Salisbury
+2024-03-28,811431,SP3 6DR,T,N,F,Barham Cottage,,High Street,Hindon,Salisbury
+2024-03-28,1800000,SP3 5SQ,D,N,F,35,,The Rings,Fonthill Bishop,Salisbury
+2024-03-28,400000,SP3 5HW,D,N,F,Penn Gere,,Hindon Road,Dinton,Salisbury
+2024-03-28,417500,SP3 4SW,S,N,F,"Greystoke, 2",,Church Street,Winterbourne Stoke,Salisbury
+2024-03-28,625000,SP3 4SP,D,N,F,Timberlea,,New Street,Winterbourne Stoke,Salisbury
+2024-03-28,385000,SP3 4AH,D,N,F,Heronsway,,West Street,Barford St Martin,Salisbury
+2024-03-27,318000,SP3 4HQ,S,N,F,Garbally,,Elston,Shrewton,Salisbury
+2024-03-22,800000,SP3 6RJ,D,N,F,Grove Cottage,,,Wardour,Salisbury
+2024-03-20,1500000,SP3 4LQ,D,N,F,The Old Vicarage,,Butts Hill,Stapleford,Salisbury
+2024-03-08,450000,SP3 6DJ,T,N,F,Church Cottage,,High Street,Hindon,Salisbury
+2024-03-04,470000,SP3 4JL,D,N,F,Charcroft,,Maddington Street,Shrewton,Salisbury
+2024-02-29,755000,SP3 5QX,D,N,F,Cerne House,,Old Dinton Road,Teffont,Salisbury
+2024-02-29,530000,SP3 4BX,D,N,F,Hillside,,Chapel Lane,Shrewton,Salisbury
+2024-02-22,237000,SP3 4BL,S,N,F,5,,Shaftesbury Road,Barford St Martin,Salisbury
+2024-02-21,1075000,SP3 5QP,D,N,F,Orchard Cottage,,The Street,Teffont,Salisbury
+2024-02-16,855000,SP3 5QD,D,N,F,Long Ash,,High Street,Ansty,Salisbury
+2024-02-13,900000,SP3 6QX,T,N,F,9,,Wardour Court,Tisbury,Salisbury
+2024-02-09,395000,SP3 6QQ,D,N,F,Melbury,,Hindon Lane,Tisbury,Salisbury
+2024-02-06,215000,SP3 6AY,F,N,L,Riverside,5,Church Street,Tisbury,Salisbury
+2024-01-26,448000,SP3 4SW,D,N,F,Till House,,Church Street,Winterbourne Stoke,Salisbury
+2024-01-23,420000,SP3 6QN,D,N,F,16,,Springfield Park,Tisbury,Salisbury
+2024-01-23,500000,SP3 6EE,D,N,F,Conifers,,The Dene,Hindon,Salisbury
+2024-01-23,318000,SP3 4EG,S,N,F,Old Bakery,1,Chants Lane,Shrewton,Salisbury
+2024-01-22,390000,SP3 6QQ,D,N,F,Hobbs Cottage,,Hindon Lane,Tisbury,Salisbury
+2024-01-18,444000,SP3 6GS,S,N,F,21,,Grosvenor Drive,Tisbury,Salisbury
+2024-01-12,219500,SP3 4DE,T,N,F,Rosewalk,,Upper Backway,Shrewton,Salisbury
+2024-01-04,791000,SP3 5DX,D,N,F,3,,Lovegrove Acre,Dinton,Salisbury
+2023-12-18,385000,SP3 6JF,D,N,F,Hawthorns,,Tuckingmill,Tisbury,Salisbury
+2023-12-18,540000,SP3 4FU,D,N,F,4,,Chartwell Place,Shrewton,Salisbury
+2023-12-15,425000,SP3 6QN,D,N,F,2,,Springfield Park,Tisbury,Salisbury
+2023-12-15,650000,SP3 6LL,D,N,F,15,,Lady Down View,Tisbury,Salisbury
+2023-12-15,725000,SP3 6AR,D,N,F,Roseneath,,Shaftesbury Road,East Knoyle,Salisbury
+2023-12-15,475000,SP3 4EQ,D,N,F,Dove Cottage,,Salisbury Road,Shrewton,Salisbury
+2023-12-12,247000,SP3 5DY,T,N,F,9,,Spracklands,Dinton,Salisbury
+2023-12-06,260000,SP3 6AT,S,N,F,Margretts,,Shaftesbury Road,East Knoyle,Salisbury
+2023-12-01,635000,SP3 4TL,D,N,F,Greendrake,,,Berwick St James,Salisbury
+2023-12-01,350000,SP3 4DZ,S,N,F,31,,Highfield Rise,Shrewton,Salisbury
+2023-11-30,340000,SP3 4LE,T,N,F,The Priory,1,Priory Close,Shrewton,Salisbury
+2023-11-17,775000,SP3 4AH,D,N,F,Green Eaves,,West Street,Barford St Martin,Salisbury
+2023-11-15,165000,SP3 6LE,T,N,F,15,,Park Road,Tisbury,Salisbury
+2023-11-10,625000,SP3 5LB,D,N,F,Clifton Cottage,,Moor Hill,Fovant,Salisbury
+2023-11-09,445000,SP3 6DY,D,N,F,Jubilee Buildings,2,High Street,Hindon,Salisbury
+2023-11-02,300000,SP3 4ND,S,N,F,16,,The Wirr,Steeple Langford,Salisbury
+2023-10-31,625000,SP3 6DJ,T,N,F,Grant Cottage,,High Street,Hindon,Salisbury
+2023-10-27,340000,SP3 4JL,S,N,F,3,,Post Grove Mews,Shrewton,Salisbury
+2023-10-27,220000,SP3 4DB,S,N,F,Magpie Cottage,,High Street,Shrewton,Salisbury
+2023-10-20,310000,SP3 6PP,S,N,F,12,,Castle Mount,Tisbury,Salisbury
+2023-10-20,638344,SP3 6DR,T,N,F,High Steps,2,High Street,Hindon,Salisbury
+2023-10-20,197000,SP3 4DH,T,N,F,The Cottage,,London Road,Shrewton,Salisbury
+2023-10-19,460000,SP3 5PF,D,N,F,Springhead Cottage,,,Swallowcliffe,Salisbury
+2023-10-18,298000,SP3 6HQ,T,N,F,3,,Bennett Mews,Tisbury,Salisbury
+2023-10-18,330000,SP3 6AY,F,N,L,Riverside,3,Church Street,Tisbury,Salisbury
+2023-10-11,450000,SP3 6QB,T,N,F,4,,Alexandra Cottages,Tisbury,Salisbury
+2023-10-11,695000,SP3 5HN,D,N,F,Gardeners Cottage,,Snow Hill,Dinton,Salisbury
+2023-10-05,716500,SP3 4TL,D,N,F,Woodsprings,,,Berwick St James,Salisbury
+2023-10-04,435000,SP3 5JN,D,N,F,4,,Sling Orchard,Fovant,Salisbury
+2023-10-04,1037500,SP3 4NF,D,N,F,Charvers,,Salisbury Road,Steeple Langford,Salisbury
+2023-09-29,745000,SP3 6NH,S,N,F,Stubbles,,Church Street,Tisbury,Salisbury
+2023-09-29,445500,SP3 5AW,D,N,F,3,,Park Drive,Chilmark,Salisbury
+2023-09-29,415000,SP3 4SE,S,N,F,10,,Imber Place,Tilshead,Salisbury
+2023-09-29,385000,SP3 4LE,S,N,F,11,,Priory Close,Shrewton,Salisbury
+2023-09-29,1100000,SP3 4HQ,D,N,F,Elston Lodge,,Elston,Shrewton,Salisbury
+2023-09-28,247500,SP3 6JW,T,N,F,29,,Queens Road,Tisbury,Salisbury
+2023-09-28,2035000,SP3 5HE,D,N,F,Field Barn House,,Field Barn Lane,Dinton,Salisbury
+2023-09-27,263000,SP3 4JQ,T,N,F,Parkview Cottages,3,Maddington Street,Shrewton,Salisbury
+2023-09-21,290000,SP3 6DU,T,N,F,5,,Victoria Terrace,Hindon,Salisbury
+2023-09-20,495000,SP3 4HG,D,N,F,Deems,,Rollestone Road,Shrewton,Salisbury
+2023-09-18,400000,SP3 4DZ,D,N,F,28,,Highfield Rise,Shrewton,Salisbury
+2023-09-06,477500,SP3 5JW,D,N,F,Neath Hill,,Dinton Road,Fovant,Salisbury
+2023-09-05,280000,SP3 6AY,F,N,L,Riverside,1,Church Street,Tisbury,Salisbury
+2023-09-05,467500,SP3 5JL,D,N,F,Brookside Cottage,,High Street,Fovant,Salisbury
+2023-09-05,540000,SP3 5BB,D,N,F,Little Langdale,,Frog Lane,Chilmark,Salisbury
+2023-09-01,325000,SP3 5NT,T,N,F,2,,Rookery Lane,Swallowcliffe,Salisbury
+2023-09-01,460000,SP3 5BB,D,N,F,Angoni,,Frog Lane,Chilmark,Salisbury
+2023-08-29,540000,SP3 6LG,D,N,F,Gilkin,,Cuffs Lane,Tisbury,Salisbury
+2023-08-25,330000,SP3 4JT,D,N,F,Berries,,Tanners Lane,Shrewton,Salisbury
+2023-08-25,590000,SP3 4EQ,D,N,F,Menengai Lodge,,Salisbury Road,Shrewton,Salisbury
+2023-08-22,1275000,SP3 5AJ,D,N,F,Oxley,,Cow Drove,Chilmark,Salisbury
+2023-08-14,455000,SP3 6TA,D,N,F,1,,Lower Pertwood Cottages,Hindon,Salisbury
+2023-08-14,275000,SP3 4DE,S,N,F,132,,Upper Backway,Shrewton,Salisbury
+2023-08-11,455000,SP3 4AD,S,N,F,Buttercups,,Wilton Road,Barford St Martin,Salisbury
+2023-08-10,2500000,SP3 5QY,D,N,F,The Malthouse,,,Teffont,Salisbury
+2023-08-09,555000,SP3 6HF,D,N,F,Lawn Cottage,,High Street,Tisbury,Salisbury
+2023-07-28,284000,SP3 5JZ,S,N,F,10,,The Elms,Fovant,Salisbury
+2023-07-28,130000,SP3 5EE,F,N,L,4,,Pembroke Fields,Dinton,Salisbury
+2023-07-28,399500,SP3 4NW,D,N,F,Meadow View,,Wylye Road,Hanging Langford,Salisbury
+2023-07-28,345000,SP3 4AR,S,N,F,1,,The Poplars,Barford St Martin,Salisbury
+2023-07-26,855000,SP3 6QX,T,N,F,11,,Wardour Court,Tisbury,Salisbury
+2023-07-24,601500,SP3 5LS,D,N,F,"Meadow Cottage, 1",,Home Close,Fovant,Salisbury
+2023-07-21,4950000,SP3 5QD,D,N,F,Ansty Manor,,High Street,Ansty,Salisbury
+2023-07-20,345000,SP3 5JL,D,N,F,Bakers Cottage,,High Street,Fovant,Salisbury
+2023-07-20,695000,SP3 5HW,D,N,F,Fair View,3,Hindon Road,Dinton,Salisbury
+2023-07-18,950000,SP3 6DR,D,N,F,Laurels,,High Street,Hindon,Salisbury
+2023-07-18,565000,SP3 6AL,S,N,F,19,,The Street,East Knoyle,Salisbury
+2023-07-17,547500,SP3 5PX,T,N,F,The Old Polo Stables,Criollo Barn,,Ansty,Salisbury
+2023-07-17,280000,SP3 4NJ,T,N,F,10,,The Glebe,Steeple Langford,Salisbury
+2023-07-17,375000,SP3 4DB,S,N,F,The Cottage,,High Street,Shrewton,Salisbury
+2023-07-14,466500,SP3 4EU,D,N,F,Greyholme,,Chalk Hill,Shrewton,Salisbury
+2023-07-10,700000,SP3 6LS,T,N,F,102,,Court Street,Tisbury,Salisbury
+2023-07-07,400000,SP3 6QB,S,N,F,2,,Alexandra Cottages,Tisbury,Salisbury
+2023-07-07,270000,SP3 6PS,T,N,F,The Cottage,,High Street,Tisbury,Salisbury
+2023-07-07,385000,SP3 4SJ,S,N,F,"Speech House, 10",,Candown Road,Tilshead,Salisbury
+2023-06-29,396000,SP3 5JZ,S,N,F,1,,The Elms,Fovant,Salisbury
+2023-06-23,295000,SP3 5HB,S,N,F,25,,Catherine Ford Road,Dinton,Salisbury
+2023-06-20,295000,SP3 4BW,S,N,F,11,,The Limes,Shrewton,Salisbury
+2023-06-15,550000,SP3 6EX,D,N,F,3,,Old Mill Close,East Knoyle,Salisbury
+2023-06-15,950000,SP3 6AR,D,N,F,Prospect House,,Shaftesbury Road,East Knoyle,Salisbury
+2023-06-15,605000,SP3 6AD,D,N,F,Kestral Cottage,,Church Rails,East Knoyle,Salisbury
+2023-06-08,775000,SP3 4PP,D,N,F,4,,Chapel Lane,Hanging Langford,Salisbury
+2023-06-05,322500,SP3 6BF,T,N,F,6,,Church Mead,Tisbury,Salisbury
+2023-06-01,880000,SP3 6BP,D,N,F,The Look Out,,Underhill,East Knoyle,Salisbury
+2023-05-25,775000,SP3 6DZ,D,N,F,Cricketers,,School Lane,Hindon,Salisbury
+2023-05-19,840000,SP3 6LL,D,N,F,"Tysse Cottage, 19",,Lady Down View,Tisbury,Salisbury
+2023-04-28,350000,SP3 6AG,S,N,F,4,,Malletts Close,East Knoyle,Salisbury
+2023-04-28,220000,SP3 5BJ,D,N,F,4,,Claybush,Chilmark,Salisbury
+2023-04-21,430000,SP3 6SR,T,N,F,1,,Targetts Mead,Tisbury,Salisbury
+2023-04-18,305000,SP3 4RZ,S,N,F,Verona,,High Street,Tilshead,Salisbury
+2023-04-13,875000,SP3 4LP,D,N,F,Piglet Hollow,,Over Street,Stapleford,Salisbury
+2023-04-11,650000,SP3 6DR,D,N,F,Pemberton,,High Street,Hindon,Salisbury
+2023-04-11,460000,SP3 6DJ,D,N,F,Ellandee,,High Street,Hindon,Salisbury
+2023-04-05,405000,SP3 5LF,D,N,F,Ash Cottage,,Sutton Road,Fovant,Salisbury
+2023-04-05,182500,SP3 4AX,T,N,F,24,,St Martins Close,Barford St Martin,Salisbury
+2023-03-31,430000,SP3 6LJ,D,N,F,Hillview,,Duck Street,Tisbury,Salisbury
+2023-03-31,300000,SP3 6BN,T,N,F,Rose Cottage,,The Green,East Knoyle,Salisbury
+2023-03-31,337500,SP3 6BN,T,N,F,Pear Tree Cottage,,The Green,East Knoyle,Salisbury
+2023-03-28,900000,SP3 4TG,D,N,F,Till Cottage,,,Winterbourne Stoke,Salisbury
+2023-03-28,545000,SP3 4BZ,D,N,F,Oak Beams,,High Street,Shrewton,Salisbury
+2023-03-24,335000,SP3 5JT,D,N,F,Applecross,,Tisbury Road,Fovant,Salisbury
+2023-03-24,387500,SP3 5AN,S,N,F,2,,Spilkins,Chilmark,Salisbury
+2023-03-24,495000,SP3 4LN,D,N,F,Lavender Cottage,,,Stapleford,Salisbury
+2023-03-21,430000,SP3 6AS,T,N,F,3,,Prospect Cottages,East Knoyle,Salisbury
+2023-03-15,325000,SP3 4HB,D,N,F,Alma,,Nett Road,Shrewton,Salisbury
+2023-03-13,420000,SP3 4DZ,D,N,F,18,,Highfield Rise,Shrewton,Salisbury
+2023-03-03,450000,SP3 4EB,D,N,F,1,,Hilltop Close,Shrewton,Salisbury
+2023-02-17,260000,SP3 5HB,T,N,F,23,,Catherine Ford Road,Dinton,Salisbury
+2023-02-16,625000,SP3 6EE,D,N,F,Chatfields,,The Dene,Hindon,Salisbury
+2023-02-15,300000,SP3 6AX,F,N,L,Townside,4,Church Street,Tisbury,Salisbury
+2023-02-14,610000,SP3 6GS,D,N,F,29,,Grosvenor Drive,Tisbury,Salisbury
+2023-02-14,895000,SP3 5QP,D,N,F,Oakridge Barn,,The Street,Teffont,Salisbury
+2023-02-10,437500,SP3 6QN,D,N,F,8,,Springfield Park,Tisbury,Salisbury
+2023-02-10,563000,SP3 6DP,D,N,F,Dolphin House,,High Street,Hindon,Salisbury
+2023-02-10,900000,SP3 5LB,D,N,F,Weather Oak,,Moor Hill,Fovant,Salisbury
+2023-02-08,685000,SP3 5QP,D,N,F,Paddock View,,The Street,Teffont,Salisbury
+2023-02-03,290000,SP3 6AR,S,N,F,Lilac Cottage,,Shaftesbury Road,East Knoyle,Salisbury
+2023-01-27,795000,SP3 4AH,D,N,F,West Lodge,,West Street,Barford St Martin,Salisbury
+2023-01-24,285000,SP3 6PN,T,N,F,3,,St Johns Close,Tisbury,Salisbury
+2023-01-23,253250,SP3 5LA,T,N,F,1A,,Grey Mews,Fovant,Salisbury
+2023-01-23,651000,SP3 5EA,D,N,F,1,,The Green,Dinton,Salisbury
+2023-01-19,235000,SP3 4SY,D,N,F,4,,Cleeve View,Winterbourne Stoke,Salisbury
+2023-01-13,350000,SP3 4SJ,S,N,F,16,,Candown Road,Tilshead,Salisbury
+2023-01-12,1400000,SP3 4AS,D,N,F,Mill House,,West Street,Barford St Martin,Salisbury
+2023-01-12,545000,SP3 4AN,D,N,F,Rivendell,,Duck Lane,Barford St Martin,Salisbury
+2023-01-11,245000,SP3 4SJ,T,N,F,20,,Candown Road,Tilshead,Salisbury
+2023-01-06,220000,SP3 5DY,S,N,F,5,,Spracklands,Dinton,Salisbury
+2023-01-05,325000,SP3 6HP,S,N,F,Lilac Cottages,2,The Quarry,Tisbury,Salisbury
+2023-01-03,307000,SP3 6HJ,S,N,F,39,,Weaveland Road,Tisbury,Salisbury
+2022-12-16,405000,SP3 4RP,D,N,F,Threepenny Bit,,,Orcheston,Salisbury
+2022-12-15,485000,SP3 6EE,D,N,F,Sirius,,The Dene,Hindon,Salisbury
+2022-12-14,380000,SP3 5QT,S,N,F,3,,Post Office Cottages,Teffont,Salisbury
+2022-12-13,277500,SP3 6GT,T,N,L,10,,Wyndhams Place,Tisbury,Salisbury
+2022-12-12,440000,SP3 4AH,D,N,F,Paddock Lea,,West Street,Barford St Martin,Salisbury
+2022-12-09,660000,SP3 4NN,D,N,F,Yew Tree Cottage,,Wylye Road,Hanging Langford,Salisbury
+2022-12-01,450000,SP3 6BJ,S,N,F,"Haddon Cottage, 38",,Milton,East Knoyle,Salisbury
+2022-12-01,480000,SP3 5LA,D,N,F,Rose Cottage,,Church Lane,Fovant,Salisbury
+2022-11-30,490000,SP3 6QY,S,N,F,6,,Church Street Close,Tisbury,Salisbury
+2022-11-30,300000,SP3 6AY,F,N,L,Riverside,2,Church Street,Tisbury,Salisbury
+2022-11-30,800000,SP3 5BY,D,N,F,"Maple Cottage, 3",,The Reeds,Chilmark,Salisbury
+2022-11-29,187500,SP3 4FA,F,N,L,5,,Old School Mews,Shrewton,Salisbury
+2022-11-24,470000,SP3 6AP,D,N,F,Orchard Bungalow,,Leigh Lane,East Knoyle,Salisbury
+2022-11-24,380000,SP3 6AG,S,N,F,2,,Malletts Close,East Knoyle,Salisbury
+2022-11-23,765000,SP3 4TF,D,N,F,Scotland Lodge,,,Winterbourne Stoke,Salisbury
+2022-11-22,450000,SP3 6AE,T,N,F,The Bell House,,Church Road,East Knoyle,Salisbury
+2022-11-16,419106,SP3 6QW,S,N,F,137,,Stop Street,Fonthill Gifford,Salisbury
+2022-11-14,419000,SP3 5JW,D,N,F,Thorncliffe,,Dinton Road,Fovant,Salisbury
+2022-11-14,305000,SP3 5JL,T,N,F,Dene Cottage,,High Street,Fovant,Salisbury
+2022-11-11,977000,SP3 6RT,D,N,F,Dunworth Cottage,,Jobbers Lane,Tisbury,Salisbury
+2022-11-11,865000,SP3 6BW,D,N,F,Culvert Cottage,,Upton,East Knoyle,Salisbury
+2022-11-11,760000,SP3 4EQ,D,N,F,Zion House,,Salisbury Road,Shrewton,Salisbury
+2022-11-04,295000,SP3 5QR,T,N,F,Hillside Cottages,3,The Street,Teffont,Salisbury
+2022-11-02,380000,SP3 6DP,D,N,F,Coppers,,Field Way,Hindon,Salisbury
+2022-11-01,347000,SP3 6AT,D,N,F,Meadside,,Shaftesbury Road,East Knoyle,Salisbury
+2022-10-27,229316,SP3 5BG,S,N,F,2,,Barn Hill,Chilmark,Salisbury
+2022-10-24,310000,SP3 6NH,S,N,F,Stubbles Cottage,,Church Street,Tisbury,Salisbury
+2022-10-24,480000,SP3 5PX,T,N,F,The Old Polo Stables,Ashcombe Barn,,Ansty,Salisbury
+2022-10-24,560000,SP3 4JG,D,N,F,5,,Brocks Orchard,Shrewton,Salisbury
+2022-10-21,720000,SP3 5HW,D,N,F,Fair View,1,Hindon Road,Dinton,Salisbury
+2022-10-20,790000,SP3 4TX,D,N,F,Appletree Cottage,,Duck Street,Berwick St James,Salisbury
+2022-10-20,515000,SP3 4LN,D,N,F,Sandringham Cottage,,,Stapleford,Salisbury
+2022-10-19,1240000,SP3 6PH,D,N,F,60,,East Hatch,Tisbury,Salisbury
+2022-10-19,190000,SP3 6HJ,S,N,F,47,,Weaveland Road,Tisbury,Salisbury
+2022-10-14,625000,SP3 4AQ,D,N,F,"Deer Hayes, 3",,Short Lane,Barford St Martin,Salisbury
+2022-10-13,460000,SP3 4RX,D,N,F,The Dings,,High Street,Tilshead,Salisbury
+2022-10-11,575000,SP3 4LT,D,N,F,Bromley,,Warminster Road,Stapleford,Salisbury
+2022-10-07,900000,SP3 6EJ,D,N,F,Woodstock,,,Hindon,Salisbury
+2022-10-07,235000,SP3 4BW,T,N,F,18,,The Limes,Shrewton,Salisbury
+2022-10-03,290000,SP3 5EE,S,N,F,9,,Pembroke Fields,Dinton,Salisbury
+2022-09-30,1300000,SP3 5LA,D,N,F,Herons Mead,,Church Lane,Fovant,Salisbury
+2022-09-30,3000000,SP3 4SW,D,N,F,The Old Rectory,,Church Street,Winterbourne Stoke,Salisbury
+2022-09-30,370000,SP3 4BX,D,N,F,2,,Chapel Lane,Shrewton,Salisbury
+2022-09-26,362500,SP3 5EB,S,N,F,Hall View,1,Bratch Lane,Dinton,Salisbury
+2022-09-23,720000,SP3 5HW,D,N,F,Fair View,2,Hindon Road,Dinton,Salisbury
+2022-09-16,435000,SP3 5JR,S,N,F,4,,Leatler Close,Fovant,Salisbury
+2022-09-15,1250000,SP3 6AP,D,N,F,Lower Leigh Cottage,,Leigh Lane,East Knoyle,Salisbury
+2022-09-12,308000,SP3 6PN,T,N,F,16,,St Johns Close,Tisbury,Salisbury
+2022-09-06,425000,SP3 5LA,D,N,F,Red Cedars,,Church Lane,Fovant,Salisbury
+2022-09-05,165000,SP3 4FA,F,N,L,7,,Old School Mews,Shrewton,Salisbury
+2022-09-02,136500,SP3 4BW,F,N,L,23,,The Limes,Shrewton,Salisbury
+2022-09-01,729000,SP3 4NZ,D,N,F,Grove House,,The Common,Shrewton,Salisbury
+2022-08-31,285000,SP3 6DU,S,N,F,2,,Victoria Terrace,Hindon,Salisbury
+2022-08-31,1140000,SP3 5PQ,D,N,F,July Cottage,,Barbers Lane,Swallowcliffe,Salisbury
+2022-08-30,3940091,SP3 6SL,D,N,F,Old Stonecourt,,,Newtown,Salisbury
+2022-08-30,360000,SP3 6QD,S,N,F,Fonthill Cottages,5,Hindon Lane,Tisbury,Salisbury
+2022-08-30,500000,SP3 6HA,S,N,F,Essex House,,High Street,Tisbury,Salisbury
+2022-08-26,286000,SP3 5DY,T,N,F,39,,Spracklands,Dinton,Salisbury
+2022-08-26,280000,SP3 4AR,T,N,F,8,,The Poplars,Barford St Martin,Salisbury
+2022-08-25,240000,SP3 6HJ,T,N,F,1,,Weaveland Road,Tisbury,Salisbury
+2022-08-24,800000,SP3 4NF,D,N,F,Charvers,,Salisbury Road,Steeple Langford,Salisbury
+2022-08-22,685000,SP3 6BG,D,N,F,Old Penny Cottage,,Milton,East Knoyle,Salisbury
+2022-08-19,175000,SP3 4FA,F,N,L,6,,Old School Mews,Shrewton,Salisbury
+2022-08-18,321000,SP3 5QF,D,N,F,"Snowdrop Cottage, 63",,High Street,Ansty,Salisbury
+2022-08-18,737500,SP3 5HW,D,N,F,Fair View,4,Hindon Road,Dinton,Salisbury
+2022-08-15,880000,SP3 6HY,S,N,F,The Chantry,,Vicarage Road,Tisbury,Salisbury
+2022-08-12,750000,SP3 6DP,S,N,F,Rose Cottage,,High Street,Hindon,Salisbury
+2022-08-10,395000,SP3 6LN,S,N,F,2,,Court Street,Tisbury,Salisbury
+2022-08-10,245000,SP3 6HJ,T,N,F,3,,Weaveland Road,Tisbury,Salisbury
+2022-08-09,248000,SP3 6HR,S,N,F,Oddfellows Cottages,1,The Quarry,Tisbury,Salisbury
+2022-08-04,400000,SP3 6LL,D,N,F,1,,Lady Down View,Tisbury,Salisbury
+2022-08-02,355000,SP3 5LA,T,N,F,1,,Grey Mews,Fovant,Salisbury
+2022-08-01,300000,SP3 6EE,D,N,F,Heathcote,,The Dene,Hindon,Salisbury
+2022-07-26,850000,SP3 5EQ,D,N,F,Meadow View,,Hindon Road,Dinton,Salisbury
+2022-07-26,1310000,SP3 5AR,D,N,F,The Cross,,The Street,Chilmark,Salisbury
+2022-07-25,452000,SP3 5LP,D,N,F,6,,Middle Ground,Fovant,Salisbury
+2022-07-22,885000,SP3 5QU,D,N,F,Pine Grove House,,Hindon Road,Teffont,Salisbury
+2022-07-20,675000,SP3 5JG,D,N,F,The Steps,,Green Drove,Fovant,Salisbury
+2022-07-20,879000,SP3 5AH,D,N,F,Odin Cottage,,Salisbury Road,Chilmark,Salisbury
+2022-07-15,395000,SP3 4HE,D,N,F,42,,Meadway,Shrewton,Salisbury
+2022-07-13,450000,SP3 6NH,D,N,F,58,,Church Street,Tisbury,Salisbury
+2022-07-08,229500,SP3 5DY,S,N,F,3,,Spracklands,Dinton,Salisbury
+2022-07-07,175000,SP3 6HD,F,N,L,The Old Garden House,Flat 4A,High Street,Tisbury,Salisbury
+2022-07-07,290000,SP3 4DN,S,N,F,18,,London Road,Shrewton,Salisbury
+2022-06-24,340000,SP3 6HT,T,N,F,20,,Churchill Estate,Tisbury,Salisbury
+2022-06-24,362000,SP3 4DE,D,N,F,Ceilo,,Upper Backway,Shrewton,Salisbury
+2022-06-23,765000,SP3 4DB,D,N,F,Old School House,,High Street,Shrewton,Salisbury
+2022-06-17,335000,SP3 6DR,T,N,F,Oaktree Cottage,,High Street,Hindon,Salisbury
+2022-06-13,682682,SP3 6BS,S,N,F,"Fairwood, 55",,Underhill,East Knoyle,Salisbury
+2022-06-13,380000,SP3 4DZ,D,N,F,2,,Highfield Rise,Shrewton,Salisbury
+2022-06-10,242000,SP3 4AR,S,N,F,6,,The Poplars,Barford St Martin,Salisbury
+2022-06-08,1350000,SP3 6AQ,D,N,F,Orchard House,,Holloway,East Knoyle,Salisbury
+2022-05-31,341169,SP3 6QW,D,N,F,128,,Stop Street,Fonthill Gifford,Salisbury
+2022-05-27,350000,SP3 6EP,S,N,F,Monkscellar,,East Street,Hindon,Salisbury
+2022-05-27,350000,SP3 5EB,S,N,F,Hall View,2,Bratch Lane,Dinton,Salisbury
+2022-05-27,508000,SP3 4EQ,D,N,F,Holly Cottage,,Salisbury Road,Shrewton,Salisbury
+2022-05-23,430000,SP3 5PX,T,N,F,The Old Polo Stables,Pelham Barn,,Ansty,Salisbury
+2022-05-09,570000,SP3 6GX,D,N,F,10,,Morrison Avenue,Tisbury,Salisbury
+2022-05-06,450000,SP3 6JD,T,N,F,94,,Mount Pleasant,Tisbury,Salisbury
+2022-05-06,320000,SP3 4SW,D,N,F,2A,,Church Street,Winterbourne Stoke,Salisbury
+2022-05-03,315000,SP3 6PW,T,N,F,17,,Brook Close,Tisbury,Salisbury
+2022-04-29,310000,SP3 6PW,T,N,F,19,,Brook Close,Tisbury,Salisbury
+2022-04-28,294000,SP3 4FA,T,N,F,15,,Old School Mews,Shrewton,Salisbury
+2022-04-27,390000,SP3 6LG,D,N,F,Linden Lea,,Cuffs Lane,Tisbury,Salisbury
+2022-04-26,450000,SP3 6PU,D,N,F,Shellharmia,,Hindon Lane,Tisbury,Salisbury
+2022-04-22,290000,SP3 5EE,S,N,F,7,,Pembroke Fields,Dinton,Salisbury
+2022-04-20,655000,SP3 5JR,D,N,F,1,,Leatler Close,Fovant,Salisbury
+2022-04-20,440000,SP3 5AW,D,N,F,12,,Park Drive,Chilmark,Salisbury
+2022-04-08,655000,SP3 6QT,D,N,F,9,,Beckford Close,Tisbury,Salisbury
+2022-04-08,425000,SP3 6PS,D,N,F,Little Haddon House,,High Street,Tisbury,Salisbury
+2022-04-08,255000,SP3 6HR,D,N,F,The Old Chapel,,The Quarry,Tisbury,Salisbury
+2022-04-08,575000,SP3 5QD,S,N,F,79,,High Street,Ansty,Salisbury
+2022-04-05,280000,SP3 4SB,D,N,F,Hill View,,High Street,Tilshead,Salisbury
+2022-03-17,450000,SP3 6DZ,D,N,F,Martletts,,School Lane,Hindon,Salisbury
+2022-03-17,750000,SP3 6DJ,S,N,F,The Old Post Office,,High Street,Hindon,Salisbury
+2022-03-11,565000,SP3 6DP,D,N,F,Jubilee House,,High Street,Hindon,Salisbury
+2022-03-11,873000,SP3 5QY,D,N,F,Fitz Farmhouse,,,Teffont,Salisbury
+2022-03-11,740000,SP3 5JB,D,N,F,Down Cottage,,Brook Street,Fovant,Salisbury
+2022-03-10,310000,SP3 6PW,S,N,F,33B,,Brook Close,Tisbury,Salisbury
+2022-03-04,460000,SP3 5JN,D,N,F,4,,Sling Orchard,Fovant,Salisbury
+2022-03-04,735000,SP3 4AH,D,N,F,Briden House,,West Street,Barford St Martin,Salisbury
+2022-03-03,485000,SP3 4RX,T,N,F,906,,High Street,Tilshead,Salisbury
+2022-03-03,230000,SP3 4LD,S,N,F,11,,The Butts,Shrewton,Salisbury
+2022-03-02,625000,SP3 5QD,D,N,F,Maypole Cottage,,High Street,Ansty,Salisbury
+2022-02-28,775000,SP3 6LJ,D,N,F,The Fief,,Duck Street,Tisbury,Salisbury
+2022-02-25,775000,SP3 5PZ,D,N,F,99,,Ansty Coombe Lane,Ansty,Salisbury
+2022-02-25,495000,SP3 5JB,D,N,F,Mulberry Cottage,,Brook Street,Fovant,Salisbury
+2022-02-24,521700,SP3 6DR,T,N,F,Lamb Cottage,,High Street,Hindon,Salisbury
+2022-02-18,1000000,SP3 4TL,D,N,F,The White House,,,Berwick St James,Salisbury
+2022-02-18,340000,SP3 4DZ,S,N,F,8,,Highfield Rise,Shrewton,Salisbury
+2022-02-15,95000,SP3 6HA,F,N,L,Flat 3 London House,,High Street,Tisbury,Salisbury
+2022-02-07,300000,SP3 6PS,S,N,F,Windsor Cottage,,High Street,Tisbury,Salisbury
+2022-02-04,345000,SP3 5RU,S,N,F,2,,Spring View,Teffont,Salisbury
+2022-02-04,445000,SP3 4TJ,S,N,F,4,,North View,Berwick St James,Salisbury
+2022-02-03,377000,SP3 5JW,D,N,F,Neath Hill,,Dinton Road,Fovant,Salisbury
+2022-02-02,410000,SP3 6DZ,D,N,F,Pitch End,,School Lane,Hindon,Salisbury
+2022-01-28,542500,SP3 4HD,D,N,F,Treetops,,Amesbury Road,Shrewton,Salisbury
+2022-01-28,390000,SP3 4ER,S,N,F,Graten Cottage,,Homanton,Shrewton,Salisbury
+2022-01-27,700000,SP3 5PX,D,N,F,The Old Polo Stables,Arundel Barn,,Ansty,Salisbury
+2022-01-26,235000,SP3 5DY,S,N,F,20,,Spracklands,Dinton,Salisbury
+2022-01-25,455000,SP3 5JL,D,N,F,The Little Malt House,,High Street,Fovant,Salisbury
+2022-01-24,405000,SP3 5QB,T,N,F,The Old Post Office,,,Ansty,Salisbury
+2022-01-21,430000,SP3 4EB,D,N,F,1,,Hilltop Close,Shrewton,Salisbury
+2022-01-17,341000,SP3 6AG,S,N,F,4,,Malletts Close,East Knoyle,Salisbury
+2022-01-14,435000,SP3 6EG,D,N,F,Chanson,,,Hindon,Salisbury
+2022-01-14,405000,SP3 4NG,S,N,F,2,,Church Cottages,Steeple Langford,Salisbury
+2022-01-10,875000,SP3 6QX,T,N,F,10,,Wardour Court,Tisbury,Salisbury
+2022-01-07,325000,SP3 4FA,D,N,F,10,,Old School Mews,Shrewton,Salisbury
+2022-01-07,242000,SP3 4AX,T,N,F,44,,St Martins Close,Barford St Martin,Salisbury
+2021-12-20,750000,SP3 5HU,D,N,F,Kingsmead,,Tyndales Meadow,Dinton,Salisbury
+2021-12-17,400000,SP3 6JF,D,N,F,Winpla,,Tuckingmill,Tisbury,Salisbury
+2021-12-15,520000,SP3 6BS,D,N,F,Wood-Lee,,Underhill,East Knoyle,Salisbury
+2021-12-13,620000,SP3 5BD,D,N,F,Greystones,,Becketts Lane,Chilmark,Salisbury
+2021-12-09,495000,SP3 4HD,D,N,F,Park House,,Amesbury Road,Shrewton,Salisbury
+2021-12-07,575000,SP3 4NN,D,N,F,Denewood,,,Hanging Langford,Salisbury
+2021-12-03,270000,SP3 4SE,S,N,F,13,,Imber Place,Tilshead,Salisbury
+2021-12-02,790000,SP3 5PW,D,N,F,Auvinya Lodge,,Yule Hill,Swallowcliffe,Salisbury
+2021-12-01,1920000,SP3 6RE,D,N,F,Buff Lodge,,Wardour,Tisbury,Salisbury
+2021-12-01,730000,SP3 4HB,D,N,F,Lorraine,,Nett Road,Shrewton,Salisbury
+2021-11-26,300000,SP3 4BT,S,N,F,8,,Catherine Court,Shrewton,Salisbury
+2021-11-24,690000,SP3 5AU,D,N,F,Village End,,The Street,Chilmark,Salisbury
+2021-11-18,575000,SP3 6GZ,D,N,F,2,,Alice Combes Lane,Tisbury,Salisbury
+2021-11-11,269950,SP3 6HN,T,N,F,3,,Jacksons Terrace,Tisbury,Salisbury
+2021-11-10,223650,SP3 6NH,F,N,L,The Crown Inn,Flat 2,Church Street,Tisbury,Salisbury
+2021-11-10,175725,SP3 6NH,F,N,L,The Crown Inn,Flat 4,Church Street,Tisbury,Salisbury
+2021-11-08,422000,SP3 4SR,D,N,F,4,,Brook Close,Winterbourne Stoke,Salisbury
+2021-11-05,385000,SP3 5JB,D,N,F,Brook Cottage,,Brook Street,Fovant,Salisbury
+2021-11-01,590000,SP3 6LG,D,N,F,Arundell Cottage,,Cuffs Lane,Tisbury,Salisbury
+2021-11-01,2130000,SP3 4NW,D,N,F,Manor Farm House,,Wylye Road,Hanging Langford,Salisbury
+2021-10-29,685000,SP3 5NA,D,N,F,Owlsmead,,,Sutton Mandeville,Salisbury
+2021-10-28,1020000,SP3 4LZ,D,N,F,East Clyffe House,,Salisbury Road,Steeple Langford,Salisbury
+2021-10-25,403500,SP3 4AL,S,N,F,Church Farm Cottages,3,Factory Lane,Barford St Martin,Salisbury
+2021-10-22,428000,SP3 5QB,T,N,F,Wisteria Cottage,,,Ansty,Salisbury
+2021-10-18,302500,SP3 6DX,T,N,F,1,,Greystones,Hindon,Salisbury
+2021-10-15,217000,SP3 4DH,T,N,F,Hill Cottage,,London Road,Shrewton,Salisbury
+2021-10-14,427500,SP3 5LF,D,N,F,Hoofprints,,Sutton Road,Fovant,Salisbury
+2021-10-08,425000,SP3 6LU,D,N,F,"Wild Rose Cottage, 115",,Chicksgrove Lane,Tisbury,Salisbury
+2021-10-01,995000,SP3 5AU,D,N,F,The Malthouse,,The Street,Chilmark,Salisbury
+2021-10-01,485000,SP3 4RY,D,N,F,Bell Cottage,,High Street,Tilshead,Salisbury
+2021-09-30,720000,SP3 6PS,T,N,F,The Cross,,High Street,Tisbury,Salisbury
+2021-09-30,520000,SP3 5JY,D,N,F,Beck Cottage,,Tisbury Road,Fovant,Salisbury
+2021-09-30,685000,SP3 4BZ,D,N,F,Kingfisher House,,High Street,Shrewton,Salisbury
+2021-09-30,340000,SP3 4AE,S,N,F,East End Cottages,1,Wilton Road,Barford St Martin,Salisbury
+2021-09-29,327000,SP3 6LH,D,N,F,Stone Bank,,Cuffs Lane,Tisbury,Salisbury
+2021-09-29,875000,SP3 5NL,D,N,F,Buxbury House,,,Sutton Mandeville,Salisbury
+2021-09-29,212500,SP3 5DY,S,N,F,21,,Spracklands,Dinton,Salisbury
+2021-09-29,335000,SP3 4LF,S,N,F,4,,Riverside Terrace,Stapleford,Salisbury
+2021-09-29,385000,SP3 4HG,D,N,F,Graten House,,Rollestone Road,Shrewton,Salisbury
+2021-09-28,660000,SP3 5JH,D,N,F,The Old Police House,,,Fovant,Salisbury
+2021-09-28,815000,SP3 5JB,D,N,F,Summerfield House,,Brook Street,Fovant,Salisbury
+2021-09-27,435000,SP3 5LF,D,N,F,Oakdene,,Sutton Road,Fovant,Salisbury
+2021-09-27,690000,SP3 4BZ,D,N,F,The Old Bakery,,High Street,Shrewton,Salisbury
+2021-09-24,435000,SP3 4SB,D,N,F,Sunnyside Cottage,,High Street,Tilshead,Salisbury
+2021-09-24,295000,SP3 4BW,D,N,F,5,,The Limes,Shrewton,Salisbury
+2021-09-22,330000,SP3 4JL,D,N,F,Southfield,,Maddington Street,Shrewton,Salisbury
+2021-09-21,450000,SP3 6QY,D,N,F,5,,Church Street Close,Tisbury,Salisbury
+2021-09-20,4200000,SP3 5AT,D,N,F,The Old Rectory,,The Street,Chilmark,Salisbury
+2021-09-20,635000,SP3 4SP,D,N,F,Manor Cottage,,New Street,Winterbourne Stoke,Salisbury
+2021-09-17,770000,SP3 6DR,T,N,F,Merlin House,,High Street,Hindon,Salisbury
+2021-09-17,725000,SP3 5AH,D,N,F,Ash Farm,,Salisbury Road,Chilmark,Salisbury
+2021-09-17,430000,SP3 4EB,D,N,F,5,,Hilltop Close,Shrewton,Salisbury
+2021-09-17,222500,SP3 4DN,T,N,F,10,,London Road,Shrewton,Salisbury
+2021-09-15,800000,SP3 4TS,D,N,F,2,,Henrys Yard,Berwick St James,Salisbury
+2021-09-13,200000,SP3 4LD,T,N,F,6,,The Butts,Shrewton,Salisbury
+2021-09-10,435000,SP3 6PZ,D,N,F,Anchor Cottage,,Hindon Lane,Tisbury,Salisbury
+2021-09-10,325000,SP3 4AD,D,N,F,Hill Cottage,,Wilton Road,Barford St Martin,Salisbury
+2021-09-08,765000,SP3 5EG,D,N,F,The Forge,,Hindon Road,Dinton,Salisbury
+2021-09-03,320000,SP3 5LF,D,N,F,Woodbury,,Sutton Road,Fovant,Salisbury
+2021-09-01,395000,SP3 6HR,T,N,F,Jasmine Cottage,,The Quarry,Tisbury,Salisbury
+2021-08-31,725000,SP3 6NZ,D,N,F,"Nadder Barn, 2",,The Old Farm Yard,Tisbury,Salisbury
+2021-08-31,115000,SP3 5EE,F,N,L,4,,Pembroke Fields,Dinton,Salisbury
+2021-08-25,280100,SP3 4AB,S,N,F,Old Post Office,,Grovely Road,Barford St Martin,Salisbury
+2021-08-16,265000,SP3 6HS,S,N,F,1,,Doctors Place,Tisbury,Salisbury
+2021-08-16,365000,SP3 6DR,T,N,F,Swan House,1,High Street,Hindon,Salisbury
+2021-08-16,256000,SP3 5EE,S,N,F,8,,Pembroke Fields,Dinton,Salisbury
+2021-08-10,267500,SP3 6BN,T,N,F,Trudys Cottage,,The Green,East Knoyle,Salisbury
+2021-08-10,252500,SP3 6BN,S,N,F,25,,The Green,East Knoyle,Salisbury
+2021-08-06,80000,SP3 6HA,F,N,L,Flat 4 London House,,High Street,Tisbury,Salisbury
+2021-08-06,460000,SP3 4TN,S,N,F,Post Office Cottage,,High Street,Berwick St James,Salisbury
+2021-07-30,660000,SP3 6LN,D,N,F,The Old Carriers Cottage,,Court Street,Tisbury,Salisbury
+2021-07-30,425000,SP3 6EB,D,N,F,Dove Cottage,,The Dene,Hindon,Salisbury
+2021-07-22,525000,SP3 6BG,D,N,F,Fallowfield Cottage,,Milton,East Knoyle,Salisbury
+2021-07-22,425000,SP3 5JL,D,N,F,Little Barrow,,High Street,Fovant,Salisbury
+2021-07-16,250000,SP3 6AX,F,N,L,Townside,2,Church Street,Tisbury,Salisbury
+2021-07-16,207500,SP3 4FB,T,N,F,3,,Elston Lane,Shrewton,Salisbury
+2021-07-16,225000,SP3 4EE,S,N,F,Bizarre,,Salisbury Road,Shrewton,Salisbury
+2021-07-16,208000,SP3 4AT,S,N,F,3,,Dairy Road,Barford St Martin,Salisbury
+2021-07-09,275000,SP3 6NH,F,N,L,The Churchloft,,Church Street,Tisbury,Salisbury
+2021-07-08,485000,SP3 5JA,D,N,F,Meadowbank,,Shaftesbury Road,Fovant,Salisbury
+2021-07-06,250000,SP3 6PP,S,N,F,12,,Castle Mount,Tisbury,Salisbury
+2021-06-30,255000,SP3 6LG,D,N,F,High Shield,,Cuffs Lane,Tisbury,Salisbury
+2021-06-30,485000,SP3 5NQ,D,N,F,Bailey Hill Farm,,Sutton Row,Sutton Mandeville,Salisbury
+2021-06-30,575000,SP3 4NN,D,N,F,Yew Tree Cottage,,Wylye Road,Hanging Langford,Salisbury
+2021-06-30,448000,SP3 4JX,S,N,F,Mill Cottage,,,Shrewton,Salisbury
+2021-06-29,438888,SP3 6DP,S,N,F,89,,High Street,Hindon,Salisbury
+2021-06-29,406000,SP3 5RQ,D,N,F,Home Farm Cottage,,,Teffont Evias,Salisbury
+2021-06-29,2400000,SP3 5AJ,D,N,F,Wandle House,,Cow Drove,Chilmark,Salisbury
+2021-06-29,399950,SP3 4QE,D,N,F,4,,Church Furlong,Stapleford,Salisbury
+2021-06-29,233000,SP3 4LG,T,N,F,5,,Hillside,Stapleford,Salisbury
+2021-06-28,285000,SP3 6AX,F,N,L,Townside,4,Church Street,Tisbury,Salisbury
+2021-06-28,575000,SP3 5HW,D,N,F,Wynot,,Hindon Road,Dinton,Salisbury
+2021-06-28,231000,SP3 4AR,S,N,F,5,,The Poplars,Barford St Martin,Salisbury
+2021-06-24,595000,SP3 6RZ,D,N,F,"Beaufort Cottage, 13",,Tisbury Row,Tisbury,Salisbury
+2021-06-24,800000,SP3 5QA,D,N,F,Meadow Cottage,,Kings Lane,Ansty,Salisbury
+2021-06-23,795000,SP3 5HY,D,N,F,Stone House,,Meadow Close,Dinton,Salisbury
+2021-06-23,530000,SP3 4LT,D,N,F,Bromley,,Warminster Road,Stapleford,Salisbury
+2021-06-23,290000,SP3 4BZ,S,N,F,Kendall,,High Street,Shrewton,Salisbury
+2021-06-23,264000,SP3 4BW,T,N,F,9,,The Limes,Shrewton,Salisbury
+2021-06-22,250000,SP3 4UQ,T,N,F,Camp Cottages,2,,Druids Lodge,Salisbury
+2021-06-21,420000,SP3 4BS,D,N,F,Highfield Orchard,1,Highfield Rise,Shrewton,Salisbury
+2021-06-18,482500,SP3 5PX,T,N,F,The Old Polo Stables,Criollo Barn,,Ansty,Salisbury
+2021-06-16,380000,SP3 6NJ,D,N,F,Springnook,,Oddford Vale,Tisbury,Salisbury
+2021-06-16,390000,SP3 6LJ,D,N,F,Corrie,,Duck Street,Tisbury,Salisbury
+2021-06-15,385000,SP3 4AF,D,N,F,Rupert Cottage,,Grovely Road,Barford St Martin,Salisbury
+2021-06-10,305000,SP3 6QW,S,N,F,136,,Stop Street,Fonthill Gifford,Salisbury
+2021-06-04,390000,SP3 5JW,D,N,F,Glendower,,Dinton Road,Fovant,Salisbury
+2021-06-04,307500,SP3 4ND,S,N,F,16,,The Wirr,Steeple Langford,Salisbury
+2021-06-03,395000,SP3 5PW,D,N,F,The Old Manor House,,,Swallowcliffe,Salisbury
+2021-06-03,3200000,SP3 5PB,D,N,F,Swallowcliffe Manor,,,Swallowcliffe,Salisbury
+2021-05-28,497500,SP3 5QT,D,N,F,Barnmead,,The Street,Teffont,Salisbury
+2021-05-28,760682,SP3 4LT,D,N,F,White House,,Warminster Road,Stapleford,Salisbury
+2021-05-27,522000,SP3 6EG,D,N,F,Kestrels,,,Hindon,Salisbury
+2021-05-26,372500,SP3 4AH,D,N,F,Green Eaves,,West Street,Barford St Martin,Salisbury
+2021-05-21,480000,SP3 6QT,D,N,F,2,,Beckford Close,Tisbury,Salisbury
+2021-05-20,325000,SP3 5AR,T,N,F,5,,The Street,Chilmark,Salisbury
+2021-05-12,241000,SP3 6DR,T,N,F,12,,High Street,Hindon,Salisbury
+2021-05-11,350000,SP3 5PX,T,N,F,The Old Polo Stables,Wardour Barn,,Ansty,Salisbury
+2021-05-10,70000,SP3 6LF,F,N,L,Park Heights,Flat 1,Park Road,Tisbury,Salisbury
+2021-05-06,160000,SP3 6PP,S,N,F,31,,Castle Mount,Tisbury,Salisbury
+2021-05-06,795000,SP3 5RN,D,N,F,Dairy Cottage,,,Teffont,Salisbury
+2021-05-04,348000,SP3 4AL,T,N,F,Church Farm Cottages,2,Factory Lane,Barford St Martin,Salisbury
+2021-04-30,250000,SP3 4RX,S,N,F,903,,High Street,Tilshead,Salisbury
+2021-04-22,315000,SP3 6QA,T,N,F,3,,Alexandra Terrace,Tisbury,Salisbury
+2021-04-22,562000,SP3 5PA,D,N,F,Mulberry Cottage,,,Swallowcliffe,Salisbury
+2021-04-20,699950,SP3 5BB,D,N,F,Hop House,,Frog Lane,Chilmark,Salisbury
+2021-04-16,305000,SP3 6DG,S,N,F,9,,Paradise Meadow,Tisbury,Salisbury
+2021-04-16,192500,SP3 5BU,S,N,L,16,,Frickers Paddock,Chilmark,Salisbury
+2021-04-13,189000,SP3 6JR,S,N,F,16,,Station Road,Tisbury,Salisbury
+2021-04-13,380000,SP3 4SB,D,N,F,Cedar Lodge,,High Street,Tilshead,Salisbury
+2021-04-13,625000,SP3 4NW,D,N,F,Mayfly Cottage,,Wylye Road,Hanging Langford,Salisbury
+2021-04-09,230000,SP3 6PN,T,N,F,9,,St Johns Close,Tisbury,Salisbury
+2021-04-09,500000,SP3 6NJ,D,N,F,"Barley Brook, 2A",,Oddford Vale,Tisbury,Salisbury
+2021-04-09,187500,SP3 6EH,T,N,F,1,,Whitehill Estate,Hindon,Salisbury
+2021-04-09,520000,SP3 5PW,D,N,F,Tatton,,Yule Hill,Swallowcliffe,Salisbury
+2021-04-08,635000,SP3 6BS,D,N,F,Godsview,,Underhill,East Knoyle,Salisbury
+2021-04-08,410000,SP3 4SR,D,N,F,6,,Brook Close,Winterbourne Stoke,Salisbury
+2021-03-31,750000,SP3 5QP,D,N,F,Bathurst Cottage,,The Street,Teffont,Salisbury
+2021-03-31,785000,SP3 5NL,D,N,F,Greenlands Farm,,,Sutton Mandeville,Salisbury
+2021-03-31,430000,SP3 4HG,D,N,F,Llanflorda,,Rollestone Road,Shrewton,Salisbury
+2021-03-31,260000,SP3 4EE,S,N,F,The Old Post Office,,Salisbury Road,Shrewton,Salisbury
+2021-03-30,425000,SP3 4DY,D,N,F,Solma-Ri,,Furlong Way,Shrewton,Salisbury
+2021-03-29,550000,SP3 6RF,S,N,F,41,,Wardour,Tisbury,Salisbury
+2021-03-26,490000,SP3 6RZ,D,N,F,22,,Tisbury Row,Tisbury,Salisbury
+2021-03-26,280000,SP3 4SZ,S,N,F,2,,High Street,Winterbourne Stoke,Salisbury
+2021-03-25,955000,SP3 5QP,D,N,F,Orchard Cottage,,The Street,Teffont,Salisbury
+2021-03-25,970000,SP3 5QD,D,N,F,Ansty House,,High Street,Ansty,Salisbury
+2021-03-24,475000,SP3 6GX,D,N,F,26,,Morrison Avenue,Tisbury,Salisbury
+2021-03-24,200000,SP3 6FD,F,N,L,The Crown,5,Church Street,Tisbury,Salisbury
+2021-03-23,550000,SP3 5SU,T,N,F,Down House,,,Chicklade,Salisbury
+2021-03-23,1225000,SP3 5AJ,D,N,F,Frickers House,,Cow Drove,Chilmark,Salisbury
+2021-03-19,850000,SP3 6NA,D,N,F,Stone Cross,,,Chicksgrove,Salisbury
+2021-03-19,250000,SP3 6BH,T,N,F,2,,Haddons Houses,East Knoyle,Salisbury
+2021-03-19,1480000,SP3 5RA,D,N,F,Springhead,,,Teffont,Salisbury
+2021-03-19,735000,SP3 5DX,D,N,F,2,,Lovegrove Acre,Dinton,Salisbury
+2021-03-18,395000,SP3 4NW,S,N,F,Ingle Nook,,Wylye Road,Hanging Langford,Salisbury
+2021-03-18,357500,SP3 4EG,D,N,F,Chants House,,Chants Lane,Shrewton,Salisbury
+2021-03-17,390000,SP3 6QQ,D,N,F,Cloverdown,,Hindon Lane,Tisbury,Salisbury
+2021-03-15,500000,SP3 6DR,D,N,F,Cockerels,,High Street,Hindon,Salisbury
+2021-03-15,256000,SP3 4JU,T,N,F,2,,Mill Lane,Shrewton,Salisbury
+2021-03-15,465000,SP3 4EQ,D,N,F,Sycamores,,Salisbury Road,Shrewton,Salisbury
+2021-03-12,750000,SP3 5NX,D,N,F,Hirondelle,,,Swallowcliffe,Salisbury
+2021-03-12,267000,SP3 5LF,S,N,F,Field View,,Sutton Road,Fovant,Salisbury
+2021-03-12,317500,SP3 4DZ,D,N,F,17,,Highfield Rise,Shrewton,Salisbury
+2021-03-12,295000,SP3 4DZ,D,N,F,10,,Highfield Rise,Shrewton,Salisbury
+2021-03-11,300000,SP3 6DJ,T,N,F,"Rosemary Cottage, 2",,High Street,Hindon,Salisbury
+2021-03-10,595000,SP3 6HF,S,N,F,17A,,High Street,Tisbury,Salisbury
+2021-03-05,205000,SP3 6HN,T,N,F,4,,Jacksons Terrace,Tisbury,Salisbury
+2021-03-05,295000,SP3 6HA,F,N,L,Co-Operative Retail Services Ltd,Flat,High Street,Tisbury,Salisbury
+2021-03-05,550000,SP3 6EJ,D,N,F,Pinchers Down,,,Hindon,Salisbury
+2021-03-04,287000,SP3 6AY,F,N,L,Riverside,3,Church Street,Tisbury,Salisbury
+2021-03-04,625000,SP3 5EL,D,N,F,Morris Farm House,,Hindon Road,Dinton,Salisbury
+2021-03-02,210000,SP3 6PW,S,N,F,5A,,Brook Close,Tisbury,Salisbury
+2021-02-26,397000,SP3 6AE,D,N,F,Denholme,,Church Road,East Knoyle,Salisbury
+2021-02-26,850000,SP3 5JB,D,N,F,Highfield House,,Brook Street,Fovant,Salisbury
+2021-02-25,525000,SP3 4LB,D,N,F,"Wren House, 2",,Abbey Close,Shrewton,Salisbury
+2021-02-24,295000,SP3 6AT,D,N,F,Meadside,,Shaftesbury Road,East Knoyle,Salisbury
+2021-02-24,570000,SP3 6AA,D,N,F,Greenwich Cottage,,Hindon Road,East Knoyle,Salisbury
+2021-02-23,565000,SP3 5AU,D,N,F,Fieldside,,The Street,Chilmark,Salisbury
+2021-02-19,99000,SP3 6GT,T,N,L,12,,Wyndhams Place,Tisbury,Salisbury
+2021-02-19,575000,SP3 6DR,T,N,F,Prospect,,High Street,Hindon,Salisbury
+2021-02-19,295000,SP3 5SU,D,N,F,Old Coach House,,,Chicklade,Salisbury
+2021-02-19,385000,SP3 5PX,T,N,F,The Old Polo Stables,Ashcombe Barn,,Ansty,Salisbury
+2021-02-12,246000,SP3 6BN,S,N,F,20,,The Green,East Knoyle,Salisbury
+2021-02-12,350000,SP3 5LJ,T,N,F,2,,West Farm Cottages,Fovant,Salisbury
+2021-02-12,450000,SP3 5JL,D,N,F,Medland Cottage,,High Street,Fovant,Salisbury
+2021-02-12,595000,SP3 5HN,D,N,F,Fortuna,,Snow Hill,Dinton,Salisbury
+2021-02-10,220000,SP3 6JQ,T,N,F,9,,The Avenue,Tisbury,Salisbury
+2021-02-10,560000,SP3 6AL,D,N,F,"Kopstone, 20",,The Street,East Knoyle,Salisbury
+2021-02-04,640000,SP3 4LP,D,N,F,Warren Bank,,Over Street,Stapleford,Salisbury
+2021-01-29,885000,SP3 6LL,D,N,F,"Merlin House, 20",,Lady Down View,Tisbury,Salisbury
+2021-01-29,470000,SP3 6BW,D,N,F,122,,Upton,East Knoyle,Salisbury
+2021-01-22,850000,SP3 4RZ,D,N,F,Skylark House,,High Street,Tilshead,Salisbury
+2021-01-21,645000,SP3 4JY,D,N,F,Ferne Cottage,,The Hollow,Shrewton,Salisbury
+2021-01-20,200000,SP3 6PP,S,N,F,29,,Castle Mount,Tisbury,Salisbury
+2021-01-20,579286,SP3 5PX,D,N,F,New Barn House,,,Ansty,Salisbury
+2021-01-15,350000,SP3 6QG,S,N,F,Sunnyside,1,Hindon Lane,Tisbury,Salisbury
+2021-01-15,350000,SP3 6HD,S,N,F,The Old Garden Mews,5,High Street,Tisbury,Salisbury
+2021-01-15,350000,SP3 6DJ,T,N,F,Church Cottage,,High Street,Hindon,Salisbury
+2021-01-15,1080000,SP3 5SU,S,N,F,Chicklade House,,,Chicklade,Salisbury
+2021-01-15,315000,SP3 4EP,D,N,F,Hacketty Way,,Lower Backway,Shrewton,Salisbury
+2021-01-14,399950,SP3 6EX,D,N,F,4,,Old Mill Close,East Knoyle,Salisbury
+2021-01-14,300000,SP3 4JL,S,N,F,2,,Post Grove Mews,Shrewton,Salisbury
+2021-01-12,345000,SP3 6HR,S,N,F,Ashlar,,The Quarry,Tisbury,Salisbury
+2021-01-05,450000,SP3 5LS,D,N,F,4,,Home Close,Fovant,Salisbury

@@ -1,0 +1,576 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-12,447500,LL32 8EL,D,N,F,2,,Parc Waen,,Conwy
+2026-07-30,375000,LL32 8RU,D,N,F,19,,Maes Gweryl,,Conwy
+2026-07-14,248000,LL32 8HN,T,N,F,Gwenallt,,Henryd Road,,Conwy
+2026-07-13,310000,LL32 8PW,D,N,F,25,,Bryn Celyn,,Conwy
+2026-07-10,215000,LL32 8UF,S,N,F,1,,Isgoed,,Conwy
+2026-06-26,265000,LL32 8SB,S,N,F,13,,Parc Sychnant,,Conwy
+2026-06-22,170000,LL32 8JL,S,N,F,4,,Graham Road,Dolgarrog,Conwy
+2026-06-05,140000,LL32 8AN,T,N,F,10,,Crown Lane,,Conwy
+2026-05-29,210000,LL32 8SB,F,N,L,Lancaster Court,Flat 1,Parc Sychnant,,Conwy
+2026-05-29,300000,LL32 8SB,S,N,F,41,,Parc Sychnant,,Conwy
+2026-05-29,365000,LL32 8RU,D,N,F,36,,Maes Gweryl,,Conwy
+2026-05-22,175000,LL32 8LR,S,N,F,7,,Glanafon Terrace,,Conwy
+2026-05-15,335000,LL32 8PA,D,N,F,2A,,Maes Rhun,Tyn-Y-Groes,Conwy
+2026-05-06,403500,LL32 8RD,D,N,F,10,,Rhodfa Sychnant,,Conwy
+2026-04-24,253000,LL32 8QG,S,N,F,15,,Coed Y Felin,,Conwy
+2026-04-17,208000,LL32 8LY,S,N,F,14,,New Street,,Conwy
+2026-03-31,285000,LL32 8QG,T,N,F,12,,Coed Y Felin,,Conwy
+2026-03-30,420000,LL32 8BX,D,N,F,Carreg Y Dinas,,,,Conwy
+2026-03-27,230000,LL32 8RP,S,N,F,55,,Pengarth,,Conwy
+2026-03-12,233500,LL32 8EU,S,N,F,1,,Penmaen Road,,Conwy
+2026-03-05,745000,LL32 8YG,D,N,F,Plas Heulog,,Henryd Road,,Conwy
+2026-02-27,165000,LL32 8YH,S,N,F,26,,Maes Refail,Henryd,Conwy
+2026-02-27,177000,LL32 8NB,S,N,F,16,,Maes Y Llan,,Conwy
+2026-02-26,145000,LL32 8SB,F,N,L,Windsor Court,Flat 1,Parc Sychnant,,Conwy
+2026-02-26,265000,LL32 8RA,S,N,F,12,,Ty Gwyn Gardens,,Conwy
+2026-02-25,945000,LL32 8RZ,D,N,F,Maes Y Pandy,,Henryd Road,,Conwy
+2026-02-23,340000,LL32 8GT,S,N,F,15,,Telford Close,,Conwy
+2026-02-16,180000,LL32 8LU,T,N,F,Fern Villa,,Bryn Terrace,Gyffin,Conwy
+2026-02-12,220000,LL32 8BN,T,N,F,15,,Sea View Terrace,,Conwy
+2026-02-11,157750,LL32 8JL,S,N,F,30,,Graham Road,Dolgarrog,Conwy
+2026-01-26,310000,LL32 8SW,D,N,F,Graiglwyd,,Trem Y Coed,Tyn-Y-Groes,Conwy
+2026-01-26,165000,LL32 8NB,S,N,F,41,,Maes Y Llan,,Conwy
+2026-01-23,660000,LL32 8BA,D,N,F,33,,Lon Caer Seion,,Conwy
+2026-01-19,420000,LL32 8YU,D,N,F,Yr Hen Berllan,4,,Rowen,Conwy
+2026-01-16,380000,LL32 8YT,D,N,F,Tyn Lon,,,Rowen,Conwy
+2026-01-12,337500,LL32 8DF,F,N,L,4,,Castle Quay Mews,,Conwy
+2026-01-09,150000,LL32 8RF,T,N,F,17,,Uppergate Street,,Conwy
+2026-01-09,430000,LL32 8BA,S,N,F,12,,Lon Caer Seion,,Conwy
+2025-12-18,580000,LL32 8TA,D,N,F,Cefn Cottage,,,Tyn-Y-Groes,Conwy
+2025-12-17,195000,LL32 8GZ,T,N,F,15,,Doctor Garrett's Drive,,Conwy
+2025-12-11,620000,LL32 8PE,S,N,F,52,,Cadnant Park,,Conwy
+2025-12-11,749950,LL32 8EX,D,N,F,Inglewood,,,Oakwood Park,Conwy
+2025-12-10,299500,LL32 8GH,T,N,F,25,,Gwynt Y Mor,,Conwy
+2025-12-10,192000,LL32 8BS,T,N,F,3,,Erskine Terrace,,Conwy
+2025-12-05,225000,LL32 8TD,S,N,F,1,,Glandwr,Tyn-Y-Groes,Conwy
+2025-11-28,175000,LL32 8RF,T,N,F,18,,Uppergate Street,,Conwy
+2025-11-21,399000,LL32 8YZ,S,N,F,Maes Bryn,,,Llanbedr Y Cennin,Conwy
+2025-11-21,210000,LL32 8YS,T,N,F,8,,Rose Gerlan Cottages,Rowen,Conwy
+2025-11-21,245000,LL32 8NT,S,N,F,4,,Pentre Wech,,Conwy
+2025-11-17,370000,LL32 8LN,D,N,F,6,,Bryn Eithin,,Conwy
+2025-11-14,240000,LL32 8DG,T,N,F,27,,Berry Street,,Conwy
+2025-11-11,350000,LL32 8EF,D,N,F,40,,Cwrt Llewelyn,,Conwy
+2025-11-07,195000,LL32 8RU,D,N,F,1,,Maes Gweryl,,Conwy
+2025-11-07,299950,LL32 8PU,S,N,F,4,,Mountain Road,,Conwy
+2025-11-07,310000,LL32 8GH,T,N,F,16,,Gwynt Y Mor,,Conwy
+2025-11-03,230000,LL32 8AR,S,N,F,13,,Lon Y Dderwen,,Conwy
+2025-10-31,570000,LL32 8YT,D,N,F,Ty Hwnt Yr Afon,,,Rowen,Conwy
+2025-10-31,450000,LL32 8HZ,T,N,F,Plas Glorian,1,Llanrwst Road,,Conwy
+2025-10-30,245000,LL32 8UE,S,N,F,15,,Allt Y Coed,,Conwy
+2025-10-27,280000,LL32 8GJ,T,N,F,4,,Morlais,,Conwy
+2025-10-24,195000,LL32 8YX,T,N,F,4,,Castle Terrace,Tal-Y-Bont,Conwy
+2025-10-24,209000,LL32 8GS,T,N,F,31,,Mulberry Close,,Conwy
+2025-10-17,277000,LL32 8QZ,D,N,F,3,,Tan Y Felin,,Conwy
+2025-10-16,245000,LL32 8SB,S,N,F,100,,Parc Sychnant,,Conwy
+2025-09-26,287000,LL32 8PA,D,N,F,4,,Maes Rhun,Tyn-Y-Groes,Conwy
+2025-09-26,220000,LL32 8GZ,T,N,F,43,,Doctor Garrett's Drive,,Conwy
+2025-09-24,195000,LL32 8RP,S,N,F,34,,Pengarth,,Conwy
+2025-09-12,285000,LL32 8SB,D,N,F,86,,Parc Sychnant,,Conwy
+2025-09-10,81000,LL32 8LU,T,N,F,8,,Bryn Terrace,Gyffin,Conwy
+2025-09-05,170000,LL32 8HP,T,N,F,25,,Llanrwst Road,,Conwy
+2025-09-04,135000,LL32 8ND,S,N,F,3,,Bryn Tirion Park,,Conwy
+2025-09-01,165000,LL32 8AW,T,N,F,5,,Llewelyn Street,,Conwy
+2025-08-29,226500,LL32 8UX,D,N,F,Hen Bryn Iolyn,,Iolyn Park,,Conwy
+2025-08-29,222500,LL32 8UF,S,N,F,3,,Isgoed,,Conwy
+2025-08-29,525000,LL32 8HW,D,N,F,Brynant,,Henryd Road,,Conwy
+2025-08-26,158100,LL32 8JQ,T,N,F,33,,Hendy,Tal-Y-Bont,Conwy
+2025-08-22,450000,LL32 8SD,D,N,F,Old Coach House,,,Tal-Y-Bont,Conwy
+2025-08-22,485000,LL32 8QA,D,N,F,Plas Rhaeadr,,,Dolgarrog,Conwy
+2025-08-22,272500,LL32 8NS,T,N,F,Hillcrest,,Sychnant Pass Road,,Conwy
+2025-08-22,325000,LL32 8LF,D,N,F,29,,Bryn Castell,,Conwy
+2025-08-21,300000,LL32 8GU,T,N,F,7,,Ellis Way,,Conwy
+2025-08-18,180000,LL32 8JN,T,N,F,15,,Tayler Avenue,Dolgarrog,Conwy
+2025-08-18,215000,LL32 8JJ,T,N,F,2,,Glandulyn,Tal-Y-Bont,Conwy
+2025-08-15,255000,LL32 8LF,D,N,F,34,,Bryn Castell,,Conwy
+2025-08-15,220000,LL32 8BS,T,N,F,1,,Erskine Terrace,,Conwy
+2025-08-14,437500,LL32 8EF,D,N,F,9,,Cwrt Llewelyn,,Conwy
+2025-08-08,445000,LL32 8BA,S,N,F,23,,Lon Caer Seion,,Conwy
+2025-08-05,310000,LL32 8PA,D,N,F,15,,Maes Rhun,Tyn-Y-Groes,Conwy
+2025-08-05,145000,LL32 8JQ,T,N,F,50,,Hendy,Tal-Y-Bont,Conwy
+2025-08-04,160000,LL32 8JQ,S,N,F,26,,Hendy,Tal-Y-Bont,Conwy
+2025-07-30,720000,LL32 8TQ,D,N,F,Pen Y Bryn,,,Tyn-Y-Groes,Conwy
+2025-07-28,375000,LL32 8QA,D,N,F,The Nook,,,Dolgarrog,Conwy
+2025-07-25,170000,LL32 8RT,S,N,F,33,,Gorlan,,Conwy
+2025-07-18,168500,LL32 8NB,S,N,F,34,,Maes Y Llan,,Conwy
+2025-07-16,235000,LL32 8ET,S,N,F,43,,Whinacres,,Conwy
+2025-07-11,137500,LL32 8PN,T,N,F,6,,Old Road,,Conwy
+2025-07-09,495000,LL32 8YN,D,N,F,Tanyffordd,,,Rowen,Conwy
+2025-07-04,180000,LL32 8EU,S,N,F,7,,Penmaen Road,,Conwy
+2025-07-03,245000,LL32 8HA,S,N,F,50,,Penmaen Road,,Conwy
+2025-07-02,203500,LL32 8GN,T,N,F,12,,Beacons Way,,Conwy
+2025-06-27,180000,LL32 8RN,T,N,F,52,,Mount Park,,Conwy
+2025-06-23,180000,LL32 8LB,T,N,F,2,,Railway Terrace,,Conwy
+2025-06-19,245000,LL32 8ET,S,N,F,5,,Whinacres,,Conwy
+2025-06-16,634000,LL32 8SZ,D,N,F,Bron Heulwen,,,Tyn-Y-Groes,Conwy
+2025-06-09,175000,LL32 8RF,T,N,F,13,,Uppergate Street,,Conwy
+2025-06-06,253500,LL32 8NT,S,N,F,19,,Pentre Wech,,Conwy
+2025-06-04,207500,LL32 8RW,S,N,F,3,,Pengarth,,Conwy
+2025-06-03,340000,LL32 8PA,D,N,F,1,,Maes Rhun,Tyn-Y-Groes,Conwy
+2025-05-30,170000,LL32 8LB,T,N,F,3,,Railway Terrace,,Conwy
+2025-05-23,230000,LL32 8EU,S,N,F,14,,Penmaen Road,,Conwy
+2025-05-07,920000,LL32 8YE,D,N,F,Merchlyn Forge,,,Henryd,Conwy
+2025-05-02,165000,LL32 8JN,S,N,F,16,,Tayler Avenue,Dolgarrog,Conwy
+2025-04-24,240000,LL32 8EF,T,N,F,28,,Cwrt Llewelyn,,Conwy
+2025-04-17,255000,LL32 8EF,T,N,F,19,,Cwrt Llewelyn,,Conwy
+2025-04-16,245000,LL32 8BF,T,Y,F,5,,Llys Afon,,Conwy
+2025-04-01,422500,LL32 8BA,D,N,F,11,,Lon Caer Seion,,Conwy
+2025-03-31,375000,LL32 8YU,D,N,F,Pen Y Bont,,,Rowen,Conwy
+2025-03-31,285000,LL32 8PA,D,N,F,5,,Maes Rhun,Tyn-Y-Groes,Conwy
+2025-03-28,268000,LL32 8ET,S,N,F,Celyn,,Whinacres,,Conwy
+2025-03-26,290000,LL32 8BP,S,N,F,Gwynfryn,,Chapel Street,,Conwy
+2025-03-19,216500,LL32 8BN,T,N,F,13,,Sea View Terrace,,Conwy
+2025-03-17,380000,LL32 8TQ,D,N,F,Isawel,,,Tyn-Y-Groes,Conwy
+2025-03-10,190000,LL32 8LF,S,N,F,13,,Bryn Castell,,Conwy
+2025-03-07,257500,LL32 8GW,T,N,F,5,,Stephenson Close,,Conwy
+2025-03-07,183000,LL32 8AE,S,N,F,4,,Trem Y Dolydd,Dolgarrog,Conwy
+2025-03-04,205000,LL32 8YP,D,N,F,Trigfan,,,Rowen,Conwy
+2025-02-28,180000,LL32 8JQ,S,N,F,64,,Hendy,Tal-Y-Bont,Conwy
+2025-02-28,145000,LL32 8EA,T,N,F,8,,Waen Terrace,,Conwy
+2025-02-27,599000,LL32 8BF,D,Y,F,4,,Llys Afon,,Conwy
+2025-02-26,599000,LL32 8BF,D,Y,F,3,,Llys Afon,,Conwy
+2025-02-21,169500,LL32 8YX,T,N,F,Gorlan,,,Tal-Y-Bont,Conwy
+2025-02-21,200000,LL32 8JJ,S,N,F,1,,Glandulyn,Tal-Y-Bont,Conwy
+2025-02-20,189000,LL32 8RN,S,N,F,5,,Mount Park,,Conwy
+2025-02-20,480000,LL32 8GS,T,N,F,14,,Mulberry Close,,Conwy
+2025-02-17,255000,LL32 8SB,S,N,F,84,,Parc Sychnant,,Conwy
+2025-02-17,170000,LL32 8LF,S,N,F,18,,Bryn Castell,,Conwy
+2025-02-14,220000,LL32 8EU,S,N,F,8,,Penmaen Road,,Conwy
+2025-02-12,450000,LL32 8SF,D,N,F,Plas Y Wennol,,Conway Road,Tal-Y-Bont,Conwy
+2025-02-12,230000,LL32 8BF,T,Y,F,10,,Llys Afon,,Conwy
+2025-02-07,197500,LL32 8HN,T,N,F,Glyndwr,,Henryd Road,,Conwy
+2025-02-07,510000,LL32 8BF,D,Y,F,15,,Llys Afon,,Conwy
+2025-02-06,390000,LL32 8RD,D,N,F,7,,Rhodfa Sychnant,,Conwy
+2025-01-30,272000,LL32 8AZ,F,N,L,Oakwood View,10,Sychnant Pass Road,,Conwy
+2025-01-24,525000,LL32 8SX,D,N,F,Pen Y Gader,,,Tyn-Y-Groes,Conwy
+2025-01-24,110000,LL32 8SF,S,N,F,Plas Arfon,2,Conway Road,Tal-Y-Bont,Conwy
+2025-01-24,145000,LL32 8NB,S,N,F,18,,Maes Y Llan,,Conwy
+2025-01-23,180000,LL32 8PR,F,N,F,19,Flat 1,Cadnant Park,,Conwy
+2025-01-21,595000,LL32 8YE,D,N,F,Hir Faes,,,Henryd,Conwy
+2025-01-17,155000,LL32 8EA,T,N,F,7,,Waen Terrace,,Conwy
+2025-01-16,195000,LL32 8RN,T,N,F,68,,Mount Park,,Conwy
+2025-01-10,220000,LL32 8AR,F,N,L,5,,Lon Y Dderwen,,Conwy
+2025-01-09,745000,LL32 8SZ,D,N,F,Bryn Hyfryd,,,Tyn-Y-Groes,Conwy
+2025-01-07,173000,LL32 8YA,T,N,F,7,,Llanerch Estate,Rowen,Conwy
+2025-01-06,430000,LL32 8AP,D,N,L,13,,Acrau Hirion,,Conwy
+2024-12-19,635000,LL32 8PP,D,N,F,7,,Cadnant Park,,Conwy
+2024-12-18,340000,LL32 8GS,T,N,F,10,,Mulberry Close,,Conwy
+2024-12-18,280000,LL32 8EZ,T,N,F,2,,Trecastell Terrace,Henryd,Conwy
+2024-12-17,395000,LL32 8GS,F,N,L,5,,Mulberry Close,,Conwy
+2024-12-13,190000,LL32 8UE,D,N,F,2,,Allt Y Coed,,Conwy
+2024-12-13,399950,LL32 8PW,D,N,F,"Clegir, 7A",,Bryn Celyn,,Conwy
+2024-12-10,499000,LL32 8BF,D,Y,F,11,,Llys Afon,,Conwy
+2024-12-09,155500,LL32 8LU,T,N,F,6,,Bryn Terrace,Gyffin,Conwy
+2024-12-02,520000,LL32 8AP,D,N,F,17,,Acrau Hirion,,Conwy
+2024-11-29,260000,LL32 8RR,D,N,F,93,,Gorlan,,Conwy
+2024-11-29,367500,LL32 8LT,S,N,F,Tal Y Fan,,Woodlands,Gyffin,Conwy
+2024-11-29,160000,LL32 8JL,S,N,F,32,,Graham Road,Dolgarrog,Conwy
+2024-11-26,185000,LL32 8GZ,T,N,F,12,,Doctor Garrett's Drive,,Conwy
+2024-11-22,347500,LL32 8EF,D,N,F,11,,Cwrt Llewelyn,,Conwy
+2024-11-20,205000,LL32 8HD,S,N,F,2,,Penmaen Crescent,,Conwy
+2024-11-20,395000,LL32 8BF,D,Y,F,13,,Llys Afon,,Conwy
+2024-11-18,385000,LL32 8PW,D,N,F,14,,Bryn Celyn,,Conwy
+2024-11-15,385000,LL32 8JX,D,N,F,Bryn Cowlyd,,Conway Road,Dolgarrog,Conwy
+2024-11-13,525000,LL32 8HP,D,N,F,Fishermore,,Llanrwst Road,,Conwy
+2024-10-29,410000,LL32 8RY,T,N,F,42,,St Agnes Road,,Conwy
+2024-10-25,390000,LL32 8RY,S,N,F,Islwyn,,St Agnes Road,,Conwy
+2024-10-25,180000,LL32 8PD,S,N,F,Morfa View,1,Mount Pleasant,,Conwy
+2024-10-25,222000,LL32 8GN,T,N,F,16,,Beacons Way,,Conwy
+2024-10-21,220000,LL32 8LF,S,N,F,38,,Bryn Castell,,Conwy
+2024-10-21,190000,LL32 8JW,D,N,F,New House,,Bryn Morfa,Dolgarrog,Conwy
+2024-10-21,706500,LL32 8HZ,D,N,F,Bryn Y Coed,,Llanrwst Road,,Conwy
+2024-10-21,487500,LL32 8AP,D,N,F,12,,Acrau Hirion,,Conwy
+2024-10-21,205000,LL32 8AN,S,N,F,4,,Crown Lane,,Conwy
+2024-10-18,310000,LL32 8TD,D,N,F,Bryn Tirion,,,Tyn-Y-Groes,Conwy
+2024-10-18,308000,LL32 8RY,T,N,F,"Craigfryn, 36",,St Agnes Road,,Conwy
+2024-10-15,695000,LL32 8PW,D,N,F,4,,Bryn Celyn,,Conwy
+2024-10-11,645000,LL32 8YS,D,N,F,Ty Uchaf,,,Rowen,Conwy
+2024-09-25,370000,LL32 8UN,D,N,F,Cefn Y Coed,,,Llanbedr Y Cennin,Conwy
+2024-09-23,169000,LL32 8TW,T,N,F,6,,Glanywern,Tyn-Y-Groes,Conwy
+2024-09-20,480000,LL32 8EF,D,N,F,6,,Cwrt Llewelyn,,Conwy
+2024-09-16,800000,LL32 8SS,D,N,F,Y Dderwen,,,Tyn-Y-Groes,Conwy
+2024-09-06,282500,LL32 8SB,D,N,F,22,,Parc Sychnant,,Conwy
+2024-08-30,280000,LL32 8AW,T,N,F,12,,Llewelyn Street,,Conwy
+2024-08-29,144000,LL32 8BF,T,Y,F,9,,Llys Afon,,Conwy
+2024-08-19,220000,LL32 8RW,S,N,F,6,,Pengarth,,Conwy
+2024-08-16,200000,LL32 8SB,S,N,F,68,,Parc Sychnant,,Conwy
+2024-08-16,120000,LL32 8DG,T,N,F,6,,Berry Street,,Conwy
+2024-08-12,250000,LL32 8YR,S,N,F,Preswylfa,,,Rowen,Conwy
+2024-08-08,259000,LL32 8LT,S,N,F,Glenva,,Woodlands,Gyffin,Conwy
+2024-08-01,105000,LL32 8JN,S,N,F,9,,Tayler Avenue,Dolgarrog,Conwy
+2024-08-01,220000,LL32 8GS,S,N,F,22,,Mulberry Close,,Conwy
+2024-08-01,710000,LL32 8BG,D,N,F,Shore Cottage,,Marine Walk,,Conwy
+2024-07-31,195000,LL32 8GZ,T,N,F,37,,Doctor Garrett's Drive,,Conwy
+2024-07-31,250000,LL32 8GT,S,N,F,17,,Telford Close,,Conwy
+2024-07-26,215000,LL32 8YA,T,N,F,10,,Llanerch Estate,Rowen,Conwy
+2024-07-25,427000,LL32 8RD,D,N,F,23,,Rhodfa Sychnant,,Conwy
+2024-07-15,385000,LL32 8SB,D,N,F,3,,Parc Sychnant,,Conwy
+2024-07-12,144000,LL32 8BF,T,Y,F,6,,Llys Afon,,Conwy
+2024-07-08,685000,LL32 8PE,D,N,F,64,,Cadnant Park,,Conwy
+2024-07-02,225000,LL32 8BF,D,Y,F,8,,Llys Afon,,Conwy
+2024-06-28,110000,LL32 8RB,S,N,F,36,,Llys Sychnant,,Conwy
+2024-06-28,172000,LL32 8JP,S,N,F,9,,Hillside Cottages,Dolgarrog,Conwy
+2024-06-19,203000,LL32 8NE,S,N,F,6,,Bryn Tirion Park,,Conwy
+2024-06-07,165000,LL32 8YX,T,N,F,Noddfa,,,Tal-Y-Bont,Conwy
+2024-06-07,177000,LL32 8YS,T,N,F,7,,Rose Gerlan Cottages,Rowen,Conwy
+2024-05-31,285000,LL32 8RU,D,N,F,34,,Maes Gweryl,,Conwy
+2024-05-31,225000,LL32 8BF,T,Y,F,7,,Llys Afon,,Conwy
+2024-05-31,495000,LL32 8BF,D,Y,F,14,,Llys Afon,,Conwy
+2024-05-30,295000,LL32 8GN,S,N,F,8,,Beacons Way,,Conwy
+2024-05-29,227000,LL32 8YY,D,N,F,21,,Erw Fawr,Henryd,Conwy
+2024-05-29,228000,LL32 8ND,T,N,F,18,,Bryn Tirion Park,,Conwy
+2024-05-28,190000,LL32 8ND,S,N,F,22,,Bryn Tirion Park,,Conwy
+2024-05-24,395000,LL32 8BF,D,Y,F,12,,Llys Afon,,Conwy
+2024-05-10,150000,LL32 8LU,T,N,F,7,,Bryn Terrace,Gyffin,Conwy
+2024-05-07,200000,LL32 8RR,S,N,F,49,,Gorlan,,Conwy
+2024-05-03,155000,LL32 8YA,T,N,F,4,,Llanerch Estate,Rowen,Conwy
+2024-04-26,215000,LL32 8RT,S,N,F,29,,Gorlan,,Conwy
+2024-04-26,283500,LL32 8RR,D,N,F,84,,Gorlan,,Conwy
+2024-04-18,600000,LL32 8PF,D,N,F,15,,Bryn Hyfryd Park,,Conwy
+2024-04-16,368000,LL32 8YR,D,N,F,Bryn Afon,,,Rowen,Conwy
+2024-04-05,300000,LL32 8AR,S,N,F,31,,Lon Y Dderwen,,Conwy
+2024-03-22,75000,LL32 8JN,S,N,F,17,,Tayler Avenue,Dolgarrog,Conwy
+2024-03-21,225000,LL32 8GU,T,N,F,10,,Ellis Way,,Conwy
+2024-03-12,550000,LL32 8BA,D,N,F,21,,Lon Caer Seion,,Conwy
+2024-02-29,390000,LL32 8BA,S,N,F,12,,Lon Caer Seion,,Conwy
+2024-02-27,483000,LL32 8YP,D,N,F,Maes Teg,,,Rowen,Conwy
+2024-02-23,180000,LL32 8TW,S,N,F,7,,Glanywern,Tyn-Y-Groes,Conwy
+2024-02-23,240000,LL32 8RG,S,N,F,2,,Railway View,,Conwy
+2024-02-22,375000,LL32 8RD,D,N,F,22,,Rhodfa Sychnant,,Conwy
+2024-02-16,258000,LL32 8LB,S,N,F,6,,Railway Terrace,,Conwy
+2024-02-09,710000,LL32 8PW,D,N,F,Ty Celyn,,Bryn Celyn,,Conwy
+2024-02-09,630000,LL32 8PW,S,N,F,1,,Bryn Celyn,,Conwy
+2024-01-31,340000,LL32 8GN,T,N,F,22,,Beacons Way,,Conwy
+2024-01-12,235000,LL32 8JS,S,N,F,6,,Gwydyr Road,Dolgarrog,Conwy
+2024-01-05,160000,LL32 8LR,T,N,F,4,,Glanafon Terrace,,Conwy
+2024-01-03,255000,LL32 8NS,S,N,F,Newlands,,Sychnant Pass Road,,Conwy
+2023-12-21,305000,LL32 8EF,D,N,F,4,,Cwrt Llewelyn,,Conwy
+2023-12-15,428000,LL32 8UX,D,N,F,Bryn Dyffryn,,Iolyn Park,,Conwy
+2023-12-11,340000,LL32 8RR,D,N,F,97,,Gorlan,,Conwy
+2023-12-08,185000,LL32 8SF,T,N,F,5,,Bryn Derwen Terrace,Tal-Y-Bont,Conwy
+2023-12-01,335000,LL32 8YT,D,N,F,Willow Cottage,,,Rowen,Conwy
+2023-11-27,420000,LL32 8BA,D,N,F,6,,Lon Caer Seion,,Conwy
+2023-11-24,225000,LL32 8LB,T,N,F,5,,Railway Terrace,,Conwy
+2023-11-24,380000,LL32 8GR,F,N,L,25,,Meirion Drive,,Conwy
+2023-11-21,150000,LL32 8NB,S,N,F,17,,Maes Y Llan,,Conwy
+2023-11-17,120000,LL32 8LF,S,N,F,42,,Bryn Castell,,Conwy
+2023-11-08,580000,LL32 8PF,D,N,F,19,,Bryn Hyfryd Park,,Conwy
+2023-10-27,277500,LL32 8EF,T,N,F,36,,Cwrt Llewelyn,,Conwy
+2023-10-20,220000,LL32 8SF,D,N,F,Gwynfryn,,Conway Road,Tal-Y-Bont,Conwy
+2023-10-19,302500,LL32 8GR,S,N,F,22,,Meirion Drive,,Conwy
+2023-10-18,160000,LL32 8PH,T,N,F,1,,Brynhyfryd Terrace,,Conwy
+2023-10-18,225000,LL32 8NP,S,N,F,21,,Berth Glyd,,Conwy
+2023-10-13,250000,LL32 8SB,T,N,F,31,,Parc Sychnant,,Conwy
+2023-10-05,169950,LL32 8GZ,T,N,F,25,,Doctor Garrett's Drive,,Conwy
+2023-09-29,280000,LL32 8RA,S,N,F,5,,Ty Gwyn Gardens,,Conwy
+2023-09-19,302500,LL32 8RL,S,N,F,"Plas Porth Uchaf, 1",,Watkin Street,,Conwy
+2023-08-31,190800,LL32 8RN,T,N,F,18,,Mount Park,,Conwy
+2023-08-29,229000,LL32 8RR,S,N,F,67,,Gorlan,,Conwy
+2023-08-25,233000,LL32 8YY,D,N,F,1,,Erw Fawr,Henryd,Conwy
+2023-08-25,270000,LL32 8UE,D,N,F,10,,Allt Y Coed,,Conwy
+2023-08-25,250000,LL32 8RU,S,N,F,10,,Maes Gweryl,,Conwy
+2023-08-25,247000,LL32 8HD,S,N,F,16,,Penmaen Crescent,,Conwy
+2023-08-18,456564,LL32 8RU,D,N,F,40,,Maes Gweryl,,Conwy
+2023-08-14,225000,LL32 8RR,S,N,F,75,,Gorlan,,Conwy
+2023-08-14,180000,LL32 8RR,S,N,F,66,,Gorlan,,Conwy
+2023-08-14,95000,LL32 8BE,T,N,F,16,,Lower Gate Street,,Conwy
+2023-07-28,160000,LL32 8JL,S,N,F,6,,Graham Road,Dolgarrog,Conwy
+2023-07-28,230000,LL32 8GH,T,N,F,23,,Gwynt Y Mor,,Conwy
+2023-07-13,200000,LL32 8HF,S,N,F,9,,Mona Road,,Conwy
+2023-07-12,215000,LL32 8AR,F,N,L,2,,Lon Y Dderwen,,Conwy
+2023-07-10,350000,LL32 8YT,D,N,F,Hyfrydle,,,Rowen,Conwy
+2023-07-10,450000,LL32 8RY,D,N,F,Bryn Gwynedd,,St Agnes Road,,Conwy
+2023-07-10,145000,LL32 8JY,T,N,F,12,,Bryn Morfa,Dolgarrog,Conwy
+2023-07-10,183000,LL32 8JP,S,N,F,3,,Hillside Cottages,Dolgarrog,Conwy
+2023-07-10,350000,LL32 8DL,D,N,F,4,,Parc Benarth,,Conwy
+2023-07-06,200000,LL32 8RF,T,N,F,6,,Uppergate Street,,Conwy
+2023-06-30,312500,LL32 8YT,S,N,F,Bod Afon,,,Rowen,Conwy
+2023-06-30,286700,LL32 8PD,S,N,F,Morfa View,2,Mount Pleasant,,Conwy
+2023-06-27,210000,LL32 8HZ,S,N,F,The Coach House,,Llanrwst Road,,Conwy
+2023-06-16,397500,LL32 8JX,D,N,F,Ty Newborough,,Conway Road,Dolgarrog,Conwy
+2023-06-16,159000,LL32 8AE,S,N,F,7,,Trem Y Dolydd,Dolgarrog,Conwy
+2023-06-14,785000,LL32 8PE,D,N,F,34A,,Cadnant Park,,Conwy
+2023-06-13,151898,LL32 8PH,T,N,F,9,,Brynhyfryd Terrace,,Conwy
+2023-05-30,94500,LL32 8HP,T,N,F,5,,Llanrwst Road,,Conwy
+2023-05-25,192000,LL32 8LT,F,N,L,Tan Y Coed,Flat 2,Woodlands,Gyffin,Conwy
+2023-05-05,540000,LL32 8PR,S,N,F,27,,Cadnant Park,,Conwy
+2023-04-26,290000,LL32 8GR,S,N,F,20,,Meirion Drive,,Conwy
+2023-04-25,226000,LL32 8RS,S,N,F,2,,Gorlan,,Conwy
+2023-04-14,190000,LL32 8UN,T,N,F,Tan Yr Ywen,5,,Llanbedr Y Cennin,Conwy
+2023-04-14,210000,LL32 8LF,S,N,F,20,,Bryn Castell,,Conwy
+2023-04-14,162500,LL32 8JX,S,N,F,Woodside,,Conway Road,Dolgarrog,Conwy
+2023-04-04,240000,LL32 8JS,D,N,F,2,,Gwydyr Road,Dolgarrog,Conwy
+2023-03-22,390000,LL32 8EF,D,N,F,6,,Cwrt Llewelyn,,Conwy
+2023-03-10,176000,LL32 8RB,S,N,F,22,,Llys Sychnant,,Conwy
+2023-03-02,140000,LL32 8PB,T,N,F,11,,Wind Street,,Conwy
+2023-02-28,200000,LL32 8LF,S,N,F,4,,Bryn Castell,,Conwy
+2023-02-28,80000,LL32 8JL,S,N,F,28,,Graham Road,Dolgarrog,Conwy
+2023-02-22,170000,LL32 8JR,S,N,F,2,,Croft Cottages,Dolgarrog,Conwy
+2023-02-21,160000,LL32 8BN,T,N,F,1,,Sea View Terrace,,Conwy
+2023-02-17,345000,LL32 8GH,T,N,F,14,,Gwynt Y Mor,,Conwy
+2023-02-15,275000,LL32 8QD,D,N,F,Trem-Y-Don,,,Dolgarrog,Conwy
+2023-02-03,165000,LL32 8PH,T,N,F,20,,Brynhyfryd Terrace,,Conwy
+2023-02-02,382500,LL32 8GS,T,N,F,37,,Mulberry Close,,Conwy
+2023-02-01,425000,LL32 8YZ,D,N,F,Tal Goed,,,Llanbedr Y Cennin,Conwy
+2023-02-01,550000,LL32 8YR,D,N,F,Pistyll Du,,,Rowen,Conwy
+2023-02-01,312000,LL32 8SE,D,N,F,Valmezo,,Conway Road,Tal-Y-Bont,Conwy
+2023-01-25,420000,LL32 8GH,D,N,F,35,,Gwynt Y Mor,,Conwy
+2023-01-20,525000,LL32 8TY,D,N,F,Tan-Y-Gwalia,,,Llangelynin,Conwy
+2023-01-20,337500,LL32 8PA,D,N,F,17,,Maes Rhun,Tyn-Y-Groes,Conwy
+2022-12-22,222000,LL32 8GH,T,N,F,22,,Gwynt Y Mor,,Conwy
+2022-12-21,246000,LL32 8BN,T,N,F,15,,Sea View Terrace,,Conwy
+2022-12-20,200000,LL32 8PH,T,N,F,10,,Brynhyfryd Terrace,,Conwy
+2022-12-20,213000,LL32 8HN,T,N,F,Glynside,,Henryd Road,,Conwy
+2022-12-19,180000,LL32 8HP,T,N,F,21,,Llanrwst Road,,Conwy
+2022-12-15,220000,LL32 8RU,S,N,F,15,,Maes Gweryl,,Conwy
+2022-12-15,299500,LL32 8ET,S,N,F,41,,Whinacres,,Conwy
+2022-12-15,150000,LL32 8EF,F,N,L,32,,Cwrt Llewelyn,,Conwy
+2022-12-15,280000,LL32 8AW,T,N,F,6,,Llewelyn Street,,Conwy
+2022-12-09,290000,LL32 8SW,D,N,F,3,,Trem Y Coed,Tyn-Y-Groes,Conwy
+2022-11-29,255000,LL32 8RH,T,N,F,4,,Newboro Terrace,,Conwy
+2022-11-28,485000,LL32 8AP,D,N,F,3,,Acrau Hirion,,Conwy
+2022-11-14,253500,LL32 8LT,S,N,F,Ivanhoe,,Woodlands,Gyffin,Conwy
+2022-11-10,165000,LL32 8JQ,S,N,F,57,,Hendy,Tal-Y-Bont,Conwy
+2022-11-03,229000,LL32 8AW,S,N,F,1,,Llewelyn Street,,Conwy
+2022-10-28,250000,LL32 8RR,S,N,F,69,,Gorlan,,Conwy
+2022-10-28,320000,LL32 8QD,D,N,F,Coedfa,,,Dolgarrog,Conwy
+2022-10-28,179000,LL32 8LF,S,N,F,11,,Bryn Castell,,Conwy
+2022-10-26,172950,LL32 8RN,T,N,F,66,,Mount Park,,Conwy
+2022-10-26,290000,LL32 8LF,D,N,F,25,,Bryn Castell,,Conwy
+2022-10-20,167500,LL32 8RL,T,N,F,15,,Watkin Street,,Conwy
+2022-10-14,635000,LL32 8UR,D,N,F,Waen Newydd,,,Llanbedr Y Cennin,Conwy
+2022-10-14,202000,LL32 8HP,T,N,F,33,,Llanrwst Road,,Conwy
+2022-10-14,250000,LL32 8BW,T,N,F,4,,Haven Villas,,Conwy
+2022-10-13,430000,LL32 8GS,T,N,F,8,,Mulberry Close,,Conwy
+2022-10-12,250000,LL32 8RB,T,N,F,25,,Llys Sychnant,,Conwy
+2022-10-12,337500,LL32 8GR,F,N,L,23,,Meirion Drive,,Conwy
+2022-09-30,295000,LL32 8SB,D,N,F,22,,Parc Sychnant,,Conwy
+2022-09-30,225000,LL32 8BS,T,N,F,12,,Erskine Terrace,,Conwy
+2022-09-27,500000,LL32 8UX,D,N,F,Richmond House,,Iolyn Park,,Conwy
+2022-09-23,215000,LL32 8LF,S,N,F,37,,Bryn Castell,,Conwy
+2022-09-23,150000,LL32 8JS,S,N,F,19,,Gwydyr Road,Dolgarrog,Conwy
+2022-09-23,223000,LL32 8GU,T,N,F,16,,Ellis Way,,Conwy
+2022-09-23,245000,LL32 8EF,T,N,F,14,,Cwrt Llewelyn,,Conwy
+2022-09-16,310000,LL32 8QG,T,N,F,2,,Coed Y Felin,,Conwy
+2022-09-09,161250,LL32 8JP,S,N,F,4,,Hillside Cottages,Dolgarrog,Conwy
+2022-09-07,420000,LL32 8ET,D,N,F,6,,Whinacres,,Conwy
+2022-09-06,370420,LL32 8RD,D,N,F,3,,Rhodfa Sychnant,,Conwy
+2022-09-05,277000,LL32 8EF,D,N,F,38,,Cwrt Llewelyn,,Conwy
+2022-09-02,534000,LL32 8SL,D,N,F,Brynsiriol,,,Tal-Y-Bont,Conwy
+2022-09-02,200000,LL32 8EF,T,N,F,33,,Cwrt Llewelyn,,Conwy
+2022-08-24,200000,LL32 8AY,F,N,L,Stanley Buildings,Flat 4,Castle Street,,Conwy
+2022-08-19,340000,LL32 8PA,D,N,F,12,,Maes Rhun,Tyn-Y-Groes,Conwy
+2022-08-17,395000,LL32 8BA,D,N,F,19,,Lon Caer Seion,,Conwy
+2022-08-15,262000,LL32 8YY,D,N,F,19,,Erw Fawr,Henryd,Conwy
+2022-08-12,249950,LL32 8LW,S,N,F,8,,Y Felin,,Conwy
+2022-08-12,385000,LL32 8GJ,F,N,L,23,,Morlais,,Conwy
+2022-08-12,215000,LL32 8BN,T,N,F,9,,Sea View Terrace,,Conwy
+2022-08-05,199500,LL32 8UF,S,N,F,1,,Isgoed,,Conwy
+2022-08-01,545000,LL32 8TQ,D,N,F,Glen Usk,,,Tyn-Y-Groes,Conwy
+2022-08-01,360000,LL32 8RU,D,N,F,38,,Maes Gweryl,,Conwy
+2022-08-01,168800,LL32 8JL,S,N,F,6,,Graham Road,Dolgarrog,Conwy
+2022-07-25,201000,LL32 8HG,S,N,F,4,,Gorsefield Road,,Conwy
+2022-07-20,350000,LL32 8PA,D,N,F,10,,Maes Rhun,Tyn-Y-Groes,Conwy
+2022-07-20,295950,LL32 8BH,D,N,F,Ty Capel Carmel,,Chapel Street,,Conwy
+2022-07-15,221000,LL32 8RW,S,N,F,28,,Pengarth,,Conwy
+2022-07-15,250000,LL32 8LF,D,N,F,58,,Bryn Castell,,Conwy
+2022-07-15,700000,LL32 8HZ,D,N,F,Brynglorian,,Llanrwst Road,,Conwy
+2022-07-15,345000,LL32 8DF,T,N,L,8,,Castle Quay Mews,,Conwy
+2022-07-12,160000,LL32 8AE,S,N,F,3,,Trem Y Dolydd,Dolgarrog,Conwy
+2022-07-06,365000,LL32 8AR,D,N,F,17,,Lon Y Dderwen,,Conwy
+2022-06-29,590000,LL32 8SQ,D,N,F,Arfryn,,,Groesffordd,Conwy
+2022-06-28,280000,LL32 8GT,S,N,F,17,,Telford Close,,Conwy
+2022-06-24,665000,LL32 8YB,D,N,F,Henryd Farm,,,Henryd,Conwy
+2022-06-22,121500,LL32 8JN,T,N,F,15,,Tayler Avenue,Dolgarrog,Conwy
+2022-06-21,215000,LL32 8LF,S,N,F,3,,Bryn Castell,,Conwy
+2022-06-16,560000,LL32 8RY,D,N,F,Bryn Eirian,,St Agnes Road,,Conwy
+2022-06-15,625000,LL32 8YG,D,N,F,Bunclody,,Henryd Road,,Conwy
+2022-06-15,355000,LL32 8PD,D,N,F,Can Yr Afon,,Mount Pleasant,,Conwy
+2022-06-14,347000,LL32 8EF,D,N,F,40,,Cwrt Llewelyn,,Conwy
+2022-05-27,338000,LL32 8RU,D,N,F,36,,Maes Gweryl,,Conwy
+2022-05-25,284750,LL32 8AW,T,N,F,9,,Llewelyn Street,,Conwy
+2022-05-20,127500,LL32 8NA,T,N,F,2,,Madoc Terrace,,Conwy
+2022-05-11,250000,LL32 8SB,D,N,F,104,,Parc Sychnant,,Conwy
+2022-05-11,398000,LL32 8RD,D,N,F,19,,Rhodfa Sychnant,,Conwy
+2022-05-09,275000,LL32 8GJ,S,N,F,14,,Morlais,,Conwy
+2022-05-04,340000,LL32 8RR,D,N,F,78,,Gorlan,,Conwy
+2022-04-29,121000,LL32 8LY,T,N,F,4,,New Street,,Conwy
+2022-04-29,240000,LL32 8BS,T,N,F,8,,Erskine Terrace,,Conwy
+2022-04-29,180000,LL32 8AZ,F,N,L,Oakwood View,8,Sychnant Pass Road,,Conwy
+2022-04-26,167000,LL32 8PB,T,N,F,10,,Wind Street,,Conwy
+2022-04-25,260000,LL32 8PN,D,N,F,9,,Old Road,,Conwy
+2022-04-12,140000,LL32 8NA,T,N,F,1,,Madoc Terrace,,Conwy
+2022-04-08,252500,LL32 8EF,T,N,F,24,,Cwrt Llewelyn,,Conwy
+2022-03-31,262000,LL32 8QF,D,N,F,School House,,Conway Road,Tal-Y-Bont,Conwy
+2022-03-25,495000,LL32 8BA,D,Y,F,8,,Lon Caer Seion,,Conwy
+2022-03-11,268000,LL32 8SB,S,N,F,48,,Parc Sychnant,,Conwy
+2022-03-11,277500,LL32 8PR,S,N,F,18,,Cadnant Park,,Conwy
+2022-03-07,235000,LL32 8AN,S,N,F,6,,Crown Lane,,Conwy
+2022-03-04,225000,LL32 8HF,S,N,F,14,,Mona Road,,Conwy
+2022-02-28,275000,LL32 8EF,T,N,F,35,,Cwrt Llewelyn,,Conwy
+2022-02-25,248000,LL32 8SB,S,N,F,54,,Parc Sychnant,,Conwy
+2022-02-22,110000,LL32 8JN,S,N,F,31,,Tayler Avenue,Dolgarrog,Conwy
+2022-02-21,230000,LL32 8LF,S,N,F,52,,Bryn Castell,,Conwy
+2022-02-18,195500,LL32 8RL,T,N,F,7,,Watkin Street,,Conwy
+2022-02-15,150000,LL32 8RB,S,N,F,42,,Llys Sychnant,,Conwy
+2022-02-11,290000,LL32 8YR,S,N,F,Cartrefle,,,Rowen,Conwy
+2022-02-11,185000,LL32 8RP,S,N,F,76,,Pengarth,,Conwy
+2022-02-11,260000,LL32 8PA,D,N,F,9,,Maes Rhun,Tyn-Y-Groes,Conwy
+2022-02-09,336000,LL32 8SF,D,N,F,Llwyn Y Coed,,Conway Road,Tal-Y-Bont,Conwy
+2022-01-28,190000,LL32 8JS,S,N,F,12,,Gwydyr Road,Dolgarrog,Conwy
+2022-01-25,161000,LL32 8LU,F,N,F,5,,Bryn Terrace,Gyffin,Conwy
+2022-01-21,205000,LL32 8RF,T,N,F,19,,Uppergate Street,,Conwy
+2022-01-12,215000,LL32 8BE,T,N,F,15,,Lower Gate Street,,Conwy
+2022-01-07,183000,LL32 8RN,S,N,F,7,,Mount Park,,Conwy
+2022-01-07,316000,LL32 8PR,D,N,F,24,,Cadnant Park,,Conwy
+2022-01-07,275000,LL32 8LT,S,N,F,Min Y Don,,Woodlands,Gyffin,Conwy
+2022-01-04,120000,LL32 8GT,S,N,F,19,,Telford Close,,Conwy
+2021-12-17,265000,LL32 8BW,T,N,F,8,,Haven Villas,,Conwy
+2021-12-17,395000,LL32 8BA,D,Y,F,3,,Lon Caer Seion,,Conwy
+2021-12-17,365000,LL32 8BA,D,Y,F,2,,Lon Caer Seion,,Conwy
+2021-12-13,150000,LL32 8LU,T,N,F,Fern Villa,,Bryn Terrace,Gyffin,Conwy
+2021-12-10,160000,LL32 8SB,F,N,L,Windsor Court,Flat 7,Parc Sychnant,,Conwy
+2021-12-10,230000,LL32 8NR,S,N,F,9,,Bryn Seiri Road,,Conwy
+2021-12-10,188000,LL32 8NB,T,N,F,6,,Maes Y Llan,,Conwy
+2021-12-10,182500,LL32 8NB,S,N,F,13,,Maes Y Llan,,Conwy
+2021-12-10,280000,LL32 8GJ,S,N,F,12,,Morlais,,Conwy
+2021-12-09,155000,LL32 8NB,S,N,F,39,,Maes Y Llan,,Conwy
+2021-12-08,196000,LL32 8HF,S,N,F,16,,Mona Road,,Conwy
+2021-12-06,247950,LL32 8HZ,T,N,F,The Stables,,Llanrwst Road,,Conwy
+2021-12-03,190000,LL32 8SF,D,N,F,Bron Eryri,,Conway Road,Tal-Y-Bont,Conwy
+2021-12-03,460500,LL32 8GS,T,N,F,7,,Mulberry Close,,Conwy
+2021-12-01,262500,LL32 8PH,T,N,F,16,,Brynhyfryd Terrace,,Conwy
+2021-11-26,220000,LL32 8UF,S,N,F,3,,Isgoed,,Conwy
+2021-11-26,230000,LL32 8NP,S,N,F,7,,Berth Glyd,,Conwy
+2021-11-26,165000,LL32 8HP,T,N,F,21,,Llanrwst Road,,Conwy
+2021-11-26,395000,LL32 8BA,D,Y,F,7,,Lon Caer Seion,,Conwy
+2021-11-24,330000,LL32 8RY,D,N,F,"Rosebank, 14",,St Agnes Road,,Conwy
+2021-11-19,573019,LL32 8YT,D,N,F,Pant Yr Afon,,,Rowen,Conwy
+2021-11-19,160000,LL32 8JL,S,N,F,25,,Graham Road,Dolgarrog,Conwy
+2021-11-18,190000,LL32 8SB,F,N,L,Windsor Court,Flat 4,Parc Sychnant,,Conwy
+2021-11-05,320000,LL32 8GR,S,N,F,21,,Meirion Drive,,Conwy
+2021-11-02,230000,LL32 8YP,D,N,F,Bryn Teg,,,Rowen,Conwy
+2021-11-02,335000,LL32 8PA,D,N,F,18,,Maes Rhun,Tyn-Y-Groes,Conwy
+2021-10-29,206000,LL32 8HD,S,N,F,11,,Penmaen Crescent,,Conwy
+2021-10-29,365000,LL32 8BA,D,Y,F,9,,Lon Caer Seion,,Conwy
+2021-10-29,395000,LL32 8BA,D,Y,F,11,,Lon Caer Seion,,Conwy
+2021-10-27,765000,LL32 8TQ,D,N,F,Pen Y Bryn,,,Tyn-Y-Groes,Conwy
+2021-10-27,295000,LL32 8BA,D,Y,F,6,,Lon Caer Seion,,Conwy
+2021-10-25,252500,LL32 8LT,S,N,F,Neckarmont,,Woodlands,Gyffin,Conwy
+2021-10-21,200000,LL32 8YP,S,N,F,Isycoed,,,Rowen,Conwy
+2021-10-19,529000,LL32 8UQ,D,N,F,The Hall,,,Tyn-Y-Groes,Conwy
+2021-10-15,125000,LL32 8UX,D,N,F,Sherwood,,Iolyn Park,,Conwy
+2021-10-15,595000,LL32 8BA,D,N,F,29,,Lon Caer Seion,,Conwy
+2021-10-15,180000,LL32 8AE,S,N,F,8,,Trem Y Dolydd,Dolgarrog,Conwy
+2021-10-14,370000,LL32 8PU,D,N,F,11,,Mountain Road,,Conwy
+2021-10-13,197000,LL32 8NE,T,N,F,36,,Bryn Tirion Park,,Conwy
+2021-10-08,151000,LL32 8DQ,T,N,F,2,,Bron Heulog,Llechwedd,Conwy
+2021-10-06,300000,LL32 8LJ,D,N,F,Tynyffridd Bach,,,Llechwedd,Conwy
+2021-10-06,320000,LL32 8AW,T,N,F,4,,Llewelyn Street,,Conwy
+2021-10-05,320000,LL32 8SW,D,N,F,The Sycamores,,Trem Y Coed,Tyn-Y-Groes,Conwy
+2021-09-30,150000,LL32 8NB,S,N,F,32,,Maes Y Llan,,Conwy
+2021-09-30,475000,LL32 8BA,D,Y,F,10,,Lon Caer Seion,,Conwy
+2021-09-27,510000,LL32 8SJ,D,N,F,Five Acres,,,Baclaw,Conwy
+2021-09-24,375000,LL32 8YR,S,N,F,Pont Ddu,,,Rowen,Conwy
+2021-09-21,190000,LL32 8YU,S,N,F,Swan Cottage,,,Rowen,Conwy
+2021-09-17,175000,LL32 8GZ,T,N,F,21,,Doctor Garrett's Drive,,Conwy
+2021-09-15,163500,LL32 8AE,S,N,F,4,,Trem Y Dolydd,Dolgarrog,Conwy
+2021-09-14,304500,LL32 8QA,D,N,F,Tyddyn Dyffryn,,,Dolgarrog,Conwy
+2021-09-14,195000,LL32 8GH,D,N,F,4,,Gwynt Y Mor,,Conwy
+2021-09-13,165000,LL32 8TJ,F,N,F,1,,Garfield Cottage,Tyn-Y-Groes,Conwy
+2021-09-13,200000,LL32 8LD,T,N,F,21,,Rose Hill Street,,Conwy
+2021-09-10,165000,LL32 8SE,T,N,F,Cartrefle,,Conway Road,Tal-Y-Bont,Conwy
+2021-09-10,120000,LL32 8NB,S,N,F,16,,Maes Y Llan,,Conwy
+2021-09-06,525000,LL32 8JD,D,N,F,Penygraig,,,Llanbedr Y Cennin,Conwy
+2021-09-03,525000,LL32 8TA,D,N,F,Llican Uchaf,,,Tyn-Y-Groes,Conwy
+2021-09-03,488000,LL32 8SZ,D,N,F,Greystone Cottage,,,Tyn-Y-Groes,Conwy
+2021-09-02,182000,LL32 8RU,D,N,F,17,,Maes Gweryl,,Conwy
+2021-09-02,145000,LL32 8NT,F,N,L,23,,Pentre Wech,,Conwy
+2021-08-31,460000,LL32 8DQ,D,N,F,Y Bwthyn,,,Llechwedd,Conwy
+2021-08-27,410000,LL32 8GS,D,N,F,1,,Mulberry Close,,Conwy
+2021-08-23,296000,LL32 8SW,T,N,F,27,,Trem Y Coed,Tyn-Y-Groes,Conwy
+2021-08-20,298000,LL32 8RN,T,N,F,6,,Mount Park,,Conwy
+2021-08-18,426500,LL32 8GT,S,N,F,4,,Telford Close,,Conwy
+2021-08-13,220000,LL32 8GN,T,N,F,4,,Beacons Way,,Conwy
+2021-07-29,110000,LL32 8SS,D,N,F,Cefn Bungalow,,Tyn Y Groes,,Conwy
+2021-07-16,144500,LL32 8TW,T,N,F,5,,Glanywern,Tyn-Y-Groes,Conwy
+2021-07-16,245000,LL32 8RU,D,N,F,58,,Maes Gweryl,,Conwy
+2021-07-05,364000,LL32 8RY,T,N,F,42,,St Agnes Road,,Conwy
+2021-07-02,150000,LL32 8BA,S,Y,F,13,,Lon Caer Seion,,Conwy
+2021-06-30,220000,LL32 8SB,F,N,L,Windsor Court,Flat 2,Parc Sychnant,,Conwy
+2021-06-30,275000,LL32 8SB,D,N,F,16,,Parc Sychnant,,Conwy
+2021-06-30,190000,LL32 8HF,S,N,F,32,,Mona Road,,Conwy
+2021-06-30,445000,LL32 8EP,S,N,L,28,,Morfa Drive,,Conwy
+2021-06-29,140000,LL32 8NA,T,N,F,3,,Madoc Terrace,,Conwy
+2021-06-29,150000,LL32 8JL,S,N,F,12,,Graham Road,Dolgarrog,Conwy
+2021-06-28,136000,LL32 8JP,S,N,F,21,,Hillside Cottages,Dolgarrog,Conwy
+2021-06-25,204500,LL32 8LL,S,N,F,4,,Llwyn Isaf,,Conwy
+2021-06-23,425000,LL32 8PR,D,N,F,39,,Cadnant Park,,Conwy
+2021-06-18,475000,LL32 8TQ,D,N,F,Cae Roger,,,Tyn-Y-Groes,Conwy
+2021-06-18,230000,LL32 8LW,D,N,F,28,,Y Felin,,Conwy
+2021-06-18,347500,LL32 8GH,T,N,F,14,,Gwynt Y Mor,,Conwy
+2021-06-16,585000,LL32 8PE,S,N,F,46,,Cadnant Park,,Conwy
+2021-06-16,450000,LL32 8LD,D,N,F,Castell Mai,,Rose Hill Street,,Conwy
+2021-06-15,310000,LL32 8RY,D,N,F,Belvedere,,St Agnes Road,,Conwy
+2021-06-11,100000,LL32 8SG,S,N,F,2,,Perthi,Tal-Y-Bont,Conwy
+2021-06-10,260000,LL32 8SB,D,N,F,24,,Parc Sychnant,,Conwy
+2021-06-09,295000,LL32 8SQ,S,N,F,Green Meadow,,,Groesffordd,Conwy
+2021-06-04,265000,LL32 8SW,D,N,F,17,,Trem Y Coed,Tyn-Y-Groes,Conwy
+2021-06-01,218000,LL32 8JJ,S,N,F,5,,Glandulyn,Tal-Y-Bont,Conwy
+2021-05-28,165000,LL32 8ED,D,N,F,Brook Villa,,Morfa Drive,,Conwy
+2021-05-25,220000,LL32 8BW,S,N,F,5,,Haven Villas,,Conwy
+2021-05-18,115000,LL32 8LU,T,N,F,4,,Bryn Terrace,Gyffin,Conwy
+2021-05-14,130000,LL32 8NB,S,N,F,36,,Maes Y Llan,,Conwy
+2021-05-14,210000,LL32 8EF,T,N,F,25,,Cwrt Llewelyn,,Conwy
+2021-05-10,186000,LL32 8SE,S,N,F,Berth,2,Conway Road,Tal-Y-Bont,Conwy
+2021-05-10,182500,LL32 8LS,S,N,F,2,,Rhos Cottages,,Conwy
+2021-05-07,253000,LL32 8HL,S,N,F,2,,Oakwood Park Mews,,Conwy
+2021-05-07,255000,LL32 8ET,S,N,L,27,,Whinacres,,Conwy
+2021-05-07,255000,LL32 8ET,S,N,F,27,,Whinacres,,Conwy
+2021-05-05,300000,LL32 8TJ,D,N,F,The Old Barn,,,Tyn-Y-Groes,Conwy
+2021-05-05,240000,LL32 8SB,S,N,F,17,,Parc Sychnant,,Conwy
+2021-04-30,180000,LL32 8YH,T,N,F,6,,Maes Refail,Henryd,Conwy
+2021-04-30,245000,LL32 8GS,T,N,F,33,,Mulberry Close,,Conwy
+2021-04-30,250000,LL32 8GH,T,N,F,1,,Gwynt Y Mor,,Conwy
+2021-04-30,475000,LL32 8BA,D,Y,F,27,,Lon Caer Seion,,Conwy
+2021-04-20,87000,LL32 8JN,S,N,F,32,,Tayler Avenue,Dolgarrog,Conwy
+2021-04-16,245000,LL32 8AR,S,Y,F,35,,Lon Y Dderwen,,Conwy
+2021-04-16,425000,LL32 8AR,D,Y,F,34,,Lon Y Dderwen,,Conwy
+2021-04-12,345000,LL32 8BA,S,Y,F,22,,Lon Caer Seion,,Conwy
+2021-04-09,245000,LL32 8BA,S,Y,F,20,,Lon Caer Seion,,Conwy
+2021-04-07,253000,LL32 8RU,D,N,F,40,,Maes Gweryl,,Conwy
+2021-04-07,373000,LL32 8GT,T,N,F,12,,Telford Close,,Conwy
+2021-04-01,425000,LL32 8BA,D,Y,F,21,,Lon Caer Seion,,Conwy
+2021-03-31,165000,LL32 8JZ,S,N,F,4,,Bibby Road,Dolgarrog,Conwy
+2021-03-30,285000,LL32 8SG,D,N,F,Llys Llewelyn,,,Tal-Y-Bont,Conwy
+2021-03-23,336000,LL32 8DG,T,N,F,19,,Berry Street,,Conwy
+2021-03-17,160000,LL32 8SZ,D,N,F,Mount Pleasant,,,Tyn-Y-Groes,Conwy
+2021-03-16,202500,LL32 8EP,D,N,F,Old Toll House,,Morfa Drive,,Conwy
+2021-03-16,335000,LL32 8DL,D,N,F,20,,Parc Benarth,,Conwy
+2021-03-12,595000,LL32 8YE,D,N,F,Hir Faes,,,Henryd,Conwy
+2021-03-12,355000,LL32 8TQ,D,N,F,Tynybryn,,,Tyn-Y-Groes,Conwy
+2021-03-12,125000,LL32 8JL,S,N,F,30,,Graham Road,Dolgarrog,Conwy
+2021-03-10,375000,LL32 8ET,S,N,F,28,,Whinacres,,Conwy
+2021-03-05,134800,LL32 8YX,T,N,F,3,,Castle Terrace,Tal-Y-Bont,Conwy
+2021-03-05,200000,LL32 8BA,S,Y,F,23,,Lon Caer Seion,,Conwy
+2021-03-03,165000,LL32 8YH,S,N,F,24,,Maes Refail,Henryd,Conwy
+2021-03-01,150000,LL32 8BA,D,Y,F,28,,Lon Caer Seion,,Conwy
+2021-02-23,390000,LL32 8PE,S,N,F,38,,Cadnant Park,,Conwy
+2021-02-19,250000,LL32 8UX,D,N,F,Maitland Cottage,,Iolyn Park,,Conwy
+2021-02-19,250000,LL32 8NW,D,N,F,7,,Tan Benarth,,Conwy
+2021-02-05,495000,LL32 8BA,D,Y,F,33,,Lon Caer Seion,,Conwy
+2021-01-29,105000,LL32 8RP,S,N,F,72,,Pengarth,,Conwy
+2021-01-29,300000,LL32 8LJ,D,N,F,Tyn Y Ffridd Fawr,,,Llechwedd,Conwy
+2021-01-29,425000,LL32 8BA,D,Y,F,24,,Lon Caer Seion,,Conwy
+2021-01-29,347500,LL32 8AR,D,N,F,10,,Lon Y Dderwen,,Conwy
+2021-01-22,360000,LL32 8UR,D,N,F,Cae Tacnal,,,Llanbedr Y Cennin,Conwy
+2021-01-22,192000,LL32 8SB,S,N,F,100,,Parc Sychnant,,Conwy
+2021-01-22,355000,LL32 8RD,D,N,F,8,,Rhodfa Sychnant,,Conwy
+2021-01-22,177500,LL32 8JQ,T,N,F,41,,Hendy,Tal-Y-Bont,Conwy
+2021-01-22,195000,LL32 8AR,F,N,L,4,,Lon Y Dderwen,,Conwy
+2021-01-20,112500,LL32 8LY,T,N,F,11,,New Street,,Conwy
+2021-01-18,220000,LL32 8YY,D,N,F,22,,Erw Fawr,Henryd,Conwy
+2021-01-15,145000,LL32 8YX,D,N,F,Cae Siop Castell,3,,Tal-Y-Bont,Conwy
+2021-01-15,212000,LL32 8AW,T,N,F,14,,Llewelyn Street,,Conwy
+2021-01-08,250000,LL32 8RN,S,N,F,1,,Mount Park,,Conwy
+2021-01-08,205000,LL32 8PN,T,N,F,8,,Old Road,,Conwy

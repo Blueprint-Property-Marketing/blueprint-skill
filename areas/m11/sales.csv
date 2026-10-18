@@ -1,0 +1,854 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-19,305000,M11 3NP,T,N,L,50,,Rylance Street,,Manchester
+2026-08-14,320000,M11 2LS,D,N,F,39,,Paprika Close,,Manchester
+2026-08-07,230000,M11 3NA,S,N,L,155,,Rylance Street,,Manchester
+2026-07-20,306000,M11 1GN,S,N,F,54,,Silverlace Avenue,,Manchester
+2026-07-17,160000,M11 4TF,F,N,L,5,Flat 544,Stillwater Drive,,Manchester
+2026-07-17,140000,M11 2AY,S,N,F,10,,Winslow Street,,Manchester
+2026-07-16,260000,M11 4SW,T,N,L,11,,Wesham Road,,Manchester
+2026-07-15,200000,M11 3UQ,T,N,F,1,,Aldershot Walk,,Manchester
+2026-07-10,315000,M11 1ER,S,N,F,2,,Gransmoor Road,,Manchester
+2026-06-29,340000,M11 1GN,T,N,F,26,,Silverlace Avenue,,Manchester
+2026-06-22,107000,M11 4DB,F,N,L,2B,Apartment 13,The Waterfront,Openshaw,Manchester
+2026-06-19,95000,M11 4TE,F,N,L,3,Flat 321,Stillwater Drive,,Manchester
+2026-06-12,170000,M11 4NL,T,N,F,31,,Canberra Street,,Manchester
+2026-06-10,180000,M11 1UA,T,N,L,14,,Reading Close,,Manchester
+2026-06-08,127500,M11 4AY,F,N,L,6,Apartment 21,The Waterfront,,Manchester
+2026-06-05,120000,M11 4BX,F,N,L,2A,Apartment 46,The Waterfront,Openshaw,Manchester
+2026-06-01,185000,M11 4AY,F,N,L,6,Apartment 14,The Waterfront,,Manchester
+2026-06-01,130000,M11 4AY,F,N,L,6,Apartment 26,The Waterfront,,Manchester
+2026-05-22,170000,M11 4QD,T,N,F,32,,Stokes Street,,Manchester
+2026-05-21,160000,M11 2DL,F,N,L,427,Apartment 13,Ashton Old Road,,Manchester
+2026-05-15,190000,M11 4WJ,T,N,F,51,,Walsden Street,,Manchester
+2026-05-08,170000,M11 4PP,T,N,L,12,,Hamnett Street,,Manchester
+2026-04-30,180000,M11 4NG,T,N,F,24,,North Road,,Manchester
+2026-04-30,152000,M11 2DJ,F,N,L,"Campbell House, 403",Apartment 18,Ashton Old Road,,Manchester
+2026-04-30,180000,M11 1LA,T,N,F,30,,Capital Road,,Manchester
+2026-04-29,127500,M11 4TE,F,N,L,3,Flat 349,Stillwater Drive,,Manchester
+2026-04-29,280000,M11 3NE,T,N,L,3,,Athletes Way,Beswick,Manchester
+2026-04-20,235000,M11 1GS,T,N,L,23,,Ashbrook Street,Openshaw,Manchester
+2026-04-17,237000,M11 4NB,T,N,F,35,,Ravensbury Street,,Manchester
+2026-04-16,305000,M11 3NU,T,N,L,12,,Commonwealth Avenue,,Manchester
+2026-04-15,171000,M11 1HZ,T,N,F,62,,Neston Street,,Manchester
+2026-04-10,240000,M11 4TP,T,N,L,29,,Stillwater Drive,,Manchester
+2026-04-09,330000,M11 1JX,T,N,F,1402,,Ashton Old Road,,Manchester
+2026-04-09,250000,M11 1EZ,T,N,F,127,,Toxteth Street,,Manchester
+2026-04-02,235000,M11 1HQ,S,N,L,12,,Albany Avenue,,Manchester
+2026-04-01,350000,M11 2LS,S,N,F,26,,Paprika Close,,Manchester
+2026-03-31,145000,M11 4BX,F,N,L,2A,Apartment 49,The Waterfront,Openshaw,Manchester
+2026-03-30,300000,M11 1LZ,S,N,F,8,,Malford Street,,Manchester
+2026-03-27,214000,M11 4DU,T,N,L,35,,Stuart Street,,Manchester
+2026-03-26,195000,M11 4PU,T,N,F,6,,Heathway Avenue,,Manchester
+2026-03-23,170500,M11 4PT,T,N,F,44,,Glenolden Street,,Manchester
+2026-03-06,250000,M11 3DN,T,N,L,7,,Burcot Road,,Manchester
+2026-02-27,124000,M11 1GP,F,N,L,2,Flat 5,Silverlace Avenue,,Manchester
+2026-02-26,230000,M11 4FE,T,N,F,47,,Bamford Street,,Manchester
+2026-02-23,235000,M11 4NR,S,N,L,33,,Vale Street,,Manchester
+2026-02-19,286000,M11 1DU,T,N,F,88,,Wheler Street,,Manchester
+2026-02-17,312500,M11 2LW,S,N,F,34,,Cherry Avenue,,Manchester
+2026-02-12,338000,M11 3BY,D,N,L,72,,Metcombe Way,,Manchester
+2026-02-11,215000,M11 3BX,T,N,F,4,,Dewar Close,,Manchester
+2026-02-06,117000,M11 4TE,F,N,L,3,Flat 325,Stillwater Drive,,Manchester
+2026-02-06,172250,M11 2AN,T,N,L,16,,Mayton Street,,Manchester
+2026-01-30,315000,M11 2LW,T,N,F,15,,Cherry Avenue,,Manchester
+2026-01-30,220000,M11 1HU,S,N,L,17,,Newhaven Avenue,,Manchester
+2026-01-26,325000,M11 2LS,S,N,F,46,,Paprika Close,,Manchester
+2026-01-26,280000,M11 1LZ,S,N,F,27,,Malford Street,,Manchester
+2026-01-23,180000,M11 4ED,T,N,F,174,,Barrington Street,,Manchester
+2026-01-23,170000,M11 4AY,F,N,L,6,Apartment 24,The Waterfront,,Manchester
+2026-01-20,245000,M11 3AW,S,N,L,24,,Bosworth Street,,Manchester
+2026-01-19,250000,M11 1JE,T,N,L,45,,Silverlace Avenue,,Manchester
+2026-01-16,225000,M11 4PS,S,N,F,132,,Seymour Road South,,Manchester
+2026-01-15,200000,M11 4HE,S,N,L,15,,Franton Road,,Manchester
+2026-01-09,138000,M11 4TE,F,N,L,3,Flat 308,Stillwater Drive,,Manchester
+2026-01-08,310000,M11 2EN,T,N,F,65,,Cornwall Street,,Manchester
+2025-12-19,80000,M11 4TF,F,N,L,5,Flat 504,Stillwater Drive,,Manchester
+2025-12-19,100000,M11 4TF,F,N,L,5,Flat 531,Stillwater Drive,,Manchester
+2025-12-19,275000,M11 3JJ,T,N,F,5,,Fairisle Close,,Manchester
+2025-12-19,270000,M11 3DP,T,N,L,16,,Carbis Avenue,,Manchester
+2025-12-18,175000,M11 4HG,S,N,L,9,,Homebury Drive,,Manchester
+2025-12-18,255000,M11 3WB,T,N,F,8,,Stedman Close,,Manchester
+2025-12-18,110000,M11 1GP,F,N,L,2,Flat 2,Silverlace Avenue,,Manchester
+2025-12-15,165000,M11 4AF,F,N,L,2,Apartment 28,The Waterfront,Openshaw,Manchester
+2025-12-12,230000,M11 1JR,S,N,F,2,,Holmpark Road,Openshaw,Manchester
+2025-12-08,325000,M11 1HH,S,N,F,1495,,Ashton Old Road,,Manchester
+2025-12-05,135000,M11 4TE,F,N,L,3,Flat 310,Stillwater Drive,,Manchester
+2025-12-05,149950,M11 1NB,S,N,F,17,,Tinningham Close,,Manchester
+2025-12-05,238000,M11 1AH,T,N,F,148,,Louisa Street,,Manchester
+2025-12-01,270000,M11 2EN,S,N,F,59,,Cornwall Street,,Manchester
+2025-11-28,122000,M11 4AY,F,N,L,6,Apartment 11,The Waterfront,,Manchester
+2025-11-27,200000,M11 4PS,T,N,F,87,,Seymour Road South,,Manchester
+2025-11-24,156000,M11 4FB,T,N,F,119,,Barrington Street,,Manchester
+2025-11-21,132000,M11 4TF,F,N,L,5,Flat 512,Stillwater Drive,,Manchester
+2025-11-18,166000,M11 1LH,T,N,F,5,,Vine Street,,Manchester
+2025-11-17,59000,M11 3RG,F,N,L,21,,Cyclone Street,,Manchester
+2025-11-14,197500,M11 1GJ,T,N,L,99,,Louisa Street,,Manchester
+2025-11-12,230000,M11 1AP,S,N,F,19,,Sexa Street,,Manchester
+2025-11-07,325000,M11 2LS,D,N,F,22,,Paprika Close,,Manchester
+2025-10-31,376000,M11 1GN,S,N,F,48,,Silverlace Avenue,,Manchester
+2025-10-30,275000,M11 1GU,S,N,L,5,,Rayleigh Avenue,Openshaw,Manchester
+2025-10-28,317500,M11 1HJ,S,N,F,1421,,Ashton Old Road,,Manchester
+2025-10-21,130550,M11 4TF,F,N,L,5,Flat 502,Stillwater Drive,,Manchester
+2025-10-17,190000,M11 4PS,T,N,F,99,,Seymour Road South,,Manchester
+2025-10-17,210000,M11 4JU,T,N,F,5,,Gleneagles Avenue,,Manchester
+2025-10-17,154000,M11 4BF,S,N,F,9,,Thirsfield Drive,,Manchester
+2025-10-13,120000,M11 4WT,T,N,F,11,,Tottington Street,,Manchester
+2025-10-13,117000,M11 4TD,F,N,L,1,Flat 116,Stillwater Drive,,Manchester
+2025-10-10,125000,M11 4DB,F,N,L,2B,Apartment 8,The Waterfront,Openshaw,Manchester
+2025-10-06,158000,M11 4BX,F,N,L,2A,Apartment 35,The Waterfront,Openshaw,Manchester
+2025-10-06,150000,M11 2DJ,F,N,L,"Radcliffe House, 401",Apartment 26,Ashton Old Road,,Manchester
+2025-10-03,135000,M11 4TF,F,N,L,5,Flat 527,Stillwater Drive,,Manchester
+2025-10-03,220000,M11 1AJ,S,N,F,2,,Saunton Road,Openshaw,Manchester
+2025-09-30,252000,M11 1HY,T,N,F,23,,Oxton Street,,Manchester
+2025-09-26,175000,M11 4HF,S,N,L,3,,Whiteley Street,,Manchester
+2025-09-26,265000,M11 3LH,S,N,L,25,,Kylemore Way,,Manchester
+2025-09-18,117000,M11 4BX,F,N,L,2A,Apartment 15,The Waterfront,Openshaw,Manchester
+2025-09-18,117000,M11 4BX,F,N,L,2A,Apartment 15,The Waterfront,Openshaw,Manchester
+2025-09-04,161000,M11 4EQ,T,N,F,17,,Pioneer Street,,Manchester
+2025-09-02,196972,M11 3JE,T,N,F,34,,Havana Close,,Manchester
+2025-08-29,290000,M11 3NL,S,N,L,40,,Paxton Place,,Manchester
+2025-08-22,200000,M11 3NA,T,N,L,151,,Rylance Street,,Manchester
+2025-08-22,230000,M11 3JB,T,N,F,16,,Biscay Close,,Manchester
+2025-08-21,136000,M11 4GA,T,N,F,35,,Powell Street,Clayton,Manchester
+2025-08-15,212000,M11 4JF,S,N,F,20,,Himley Road,,Manchester
+2025-08-15,145000,M11 4AF,F,N,L,2,Apartment 27,The Waterfront,Openshaw,Manchester
+2025-08-15,160000,M11 2JJ,T,N,L,103,,Meech Street,,Manchester
+2025-08-15,247500,M11 1LZ,T,N,F,9,,Malford Street,,Manchester
+2025-08-15,167000,M11 1DH,T,N,F,55,,Wheler Street,,Manchester
+2025-08-11,155000,M11 4DB,F,N,L,2B,Apartment 35,The Waterfront,Openshaw,Manchester
+2025-08-08,300000,M11 3BQ,D,N,L,12,,Chassen Close,,Manchester
+2025-08-07,140000,M11 4AU,F,N,L,4,Apartment 21,The Waterfront,,Manchester
+2025-07-31,127500,M11 4TF,F,N,L,5,Flat 538,Stillwater Drive,,Manchester
+2025-07-31,75000,M11 1NH,F,N,L,3,,Brinklow Close,,Manchester
+2025-07-30,145000,M11 1NA,S,N,F,15,,Ketton Close,,Manchester
+2025-07-25,130000,M11 4TF,F,N,L,5,Flat 533,Stillwater Drive,,Manchester
+2025-07-23,225000,M11 1HZ,T,N,F,28,,Neston Street,,Manchester
+2025-07-18,570000,M11 1HN,T,N,F,1520,,Ashton Old Road,,Manchester
+2025-07-15,165000,M11 4PT,T,N,F,36,,Glenolden Street,,Manchester
+2025-07-11,150450,M11 4TF,F,N,L,5,Flat 536,Stillwater Drive,,Manchester
+2025-07-11,120000,M11 3UA,F,N,L,18,,Bell Crescent,,Manchester
+2025-07-11,183000,M11 1HQ,S,N,L,15,,Albany Avenue,,Manchester
+2025-07-09,190000,M11 4NS,T,N,F,10,,Goldenhill Avenue,,Manchester
+2025-07-09,286500,M11 4LE,S,N,L,146,,North Road,,Manchester
+2025-07-04,117800,M11 3LR,T,N,L,14,,Capella Drive,,Manchester
+2025-06-30,190000,M11 4HE,S,N,F,7,,Franton Road,,Manchester
+2025-06-30,180000,M11 4FB,T,N,F,125,,Barrington Street,,Manchester
+2025-06-30,192000,M11 1DE,T,N,F,81,,Old Lane,,Manchester
+2025-06-24,153000,M11 4TE,F,N,L,3,Flat 327,Stillwater Drive,,Manchester
+2025-06-24,235000,M11 4DQ,T,N,F,5,,Stuart Street,,Manchester
+2025-06-20,155000,M11 4BX,F,N,L,2A,Apartment 32,The Waterfront,Openshaw,Manchester
+2025-06-18,185000,M11 2JJ,T,N,L,1,,Meech Street,,Manchester
+2025-06-16,248000,M11 2LW,S,N,F,47,,Cherry Avenue,,Manchester
+2025-06-13,70000,M11 4TT,S,N,L,2,,Bank Bridge Road,,Manchester
+2025-06-13,205000,M11 3JF,T,N,F,13,,Viking Close,,Manchester
+2025-06-13,140000,M11 2AP,T,N,L,44,,Colliery Street,,Manchester
+2025-06-05,115000,M11 1FZ,S,N,F,47,,Chariot Street,,Manchester
+2025-05-30,280000,M11 1JZ,D,N,F,53 - 55,,Capital Road,,Manchester
+2025-05-28,315000,M11 3BY,S,N,L,57,,Metcombe Way,,Manchester
+2025-05-16,275000,M11 1EZ,D,N,F,92,,Toxteth Street,,Manchester
+2025-05-14,207000,M11 4FE,S,N,L,37,,Bamford Street,,Manchester
+2025-05-13,220000,M11 3NA,S,N,L,163,,Rylance Street,,Manchester
+2025-05-13,130000,M11 1WS,T,N,F,10,,Mattison Street,,Manchester
+2025-05-09,115000,M11 3LN,F,N,L,1,Flat 1,Falconwood Way,,Manchester
+2025-05-08,136000,M11 1NA,S,N,F,3,,Ketton Close,,Manchester
+2025-05-07,156000,M11 4TE,F,N,L,3,Flat 351,Stillwater Drive,,Manchester
+2025-05-07,205000,M11 1NT,T,N,F,77,,Ackroyd Street,,Manchester
+2025-05-02,220000,M11 3TW,S,N,F,31,,Hartwell Close,,Manchester
+2025-05-02,205000,M11 2LH,T,N,F,1B,,Botha Close,,Manchester
+2025-04-25,175000,M11 1LH,T,N,F,13,,Vine Street,,Manchester
+2025-04-17,237500,M11 1HX,D,N,F,16,,Rosina Street,,Manchester
+2025-04-11,290000,M11 1PL,S,N,F,6,,Upton Street,,Manchester
+2025-04-04,115000,M11 4BX,F,N,L,2A,Apartment 22,The Waterfront,Openshaw,Manchester
+2025-04-03,130000,M11 1AR,T,N,F,34,,Cheadle Street,,Manchester
+2025-03-31,326000,M11 4TU,S,N,F,32,,Upper Lake Drive,,Manchester
+2025-03-31,160500,M11 4TF,F,N,L,5,Flat 569,Stillwater Drive,,Manchester
+2025-03-28,173000,M11 4EX,T,N,F,6,,Kellett Walk,,Manchester
+2025-03-28,80000,M11 1LQ,T,N,F,7,,Montana Square,,Manchester
+2025-03-27,135000,M11 4HD,T,N,F,48,,Whiteley Street,,Manchester
+2025-03-27,115000,M11 2JD,T,N,F,32,,Hovis Street,,Manchester
+2025-03-26,135000,M11 4QZ,T,N,F,45,,Coatbridge Street,,Manchester
+2025-03-23,266000,M11 4TU,S,N,L,30,,Upper Lake Drive,,Manchester
+2025-03-21,218000,M11 2BY,S,N,F,44,,Selby Street,,Manchester
+2025-03-19,195000,M11 4FP,S,N,F,17,,Ashurst Avenue,,Manchester
+2025-03-19,190000,M11 2EJ,T,N,F,5,,Neden Close,,Manchester
+2025-03-17,120000,M11 4TE,F,N,L,3,Flat 345,Stillwater Drive,,Manchester
+2025-03-14,217500,M11 4GS,T,N,F,821,,Ashton New Road,,Manchester
+2025-03-14,255000,M11 1JY,T,N,F,1,,Delamere Street,,Manchester
+2025-03-14,245000,M11 1BE,T,N,L,20,,Old Lane,,Manchester
+2025-03-07,245000,M11 4LY,S,N,F,4,,Third Avenue,Clayton,Manchester
+2025-03-04,75000,M11 2AY,T,N,L,3,,Winslow Street,,Manchester
+2025-02-28,194000,M11 4RD,T,N,F,34,,Coatbridge Street,,Manchester
+2025-02-21,222000,M11 4LL,S,N,F,12,,Folkestone Road East,,Manchester
+2025-02-14,167500,M11 4SD,T,N,F,4,,Roslin Street,,Manchester
+2025-02-12,77000,M11 2LS,F,N,F,10,,Paprika Close,,Manchester
+2025-02-07,300000,M11 1PL,S,N,F,8,,Upton Street,,Manchester
+2025-01-31,127000,M11 4TF,F,N,L,5,Flat 518,Stillwater Drive,,Manchester
+2025-01-31,312200,M11 3NE,T,N,L,4,,Athletes Way,,Manchester
+2025-01-31,134000,M11 2AW,T,N,L,33,,Colliery Street,,Manchester
+2025-01-17,95000,M11 4EW,T,N,F,16,,Ben Street,,Manchester
+2025-01-17,125000,M11 2JD,T,N,F,10,,Hovis Street,,Manchester
+2025-01-17,148000,M11 2AJ,S,N,F,19,,Herne Street,,Manchester
+2025-01-14,130000,M11 4PP,T,N,L,12,,Hamnett Street,,Manchester
+2025-01-13,96000,M11 1WR,T,N,F,12,,Ryan Street,Openshaw,Manchester
+2025-01-13,205000,M11 1GT,T,N,L,5,,West Bank,Openshaw,Manchester
+2025-01-10,265000,M11 3NE,S,N,L,30,,Athletes Way,,Manchester
+2025-01-10,75000,M11 2AY,T,N,L,17,,Winslow Street,,Manchester
+2024-12-20,80000,M11 4XB,S,N,L,1,,Viola Street,,Manchester
+2024-12-19,207000,M11 3AW,T,N,F,46,,Bosworth Street,,Manchester
+2024-12-19,180000,M11 2AY,T,N,L,19,,Winslow Street,,Manchester
+2024-12-18,202000,M11 4HG,S,N,F,4,,Homebury Drive,,Manchester
+2024-12-16,236500,M11 3TR,T,N,F,18,,Wynne Close,,Manchester
+2024-12-12,230000,M11 3TT,S,N,F,7,,Redfield Close,,Manchester
+2024-12-10,227500,M11 3BW,T,N,F,4,,Prentice Walk,,Manchester
+2024-12-10,275000,M11 1HX,S,N,L,13,,Rosina Street,,Manchester
+2024-12-09,275000,M11 3AS,D,N,L,3,,Albert Street,,Manchester
+2024-12-04,138000,M11 1EW,F,N,L,12,Flat 4,Fairfield Road,,Manchester
+2024-11-29,160000,M11 4HL,S,N,L,2,,Lowestead Road,,Manchester
+2024-11-29,158000,M11 4DB,F,N,L,2B,Apartment 17,The Waterfront,Openshaw,Manchester
+2024-11-29,270000,M11 3NB,T,N,L,8,,Stadium Drive,,Manchester
+2024-11-29,200000,M11 3DD,D,N,L,16,,Overlinks Road,,Manchester
+2024-11-27,126000,M11 4TF,F,N,L,5,Flat 511,Stillwater Drive,,Manchester
+2024-11-22,210000,M11 4DB,F,N,L,2B,Apartment 47,The Waterfront,Openshaw,Manchester
+2024-11-19,150500,M11 4TF,F,N,L,5,Flat 551,Stillwater Drive,,Manchester
+2024-11-11,193000,M11 4HE,S,N,F,3,,Franton Road,,Manchester
+2024-11-11,140000,M11 4DB,F,N,L,2B,Apartment 2,The Waterfront,Openshaw,Manchester
+2024-11-11,327000,M11 3NB,S,N,L,18,,Stadium Drive,,Manchester
+2024-11-08,180000,M11 4AY,F,N,L,6,Apartment 8,The Waterfront,,Manchester
+2024-11-04,210000,M11 1BE,T,N,L,4,,Old Lane,,Manchester
+2024-11-01,151000,M11 4TE,F,N,L,3,Flat 329,Stillwater Drive,,Manchester
+2024-10-31,260000,M11 4DH,T,N,F,5,,Willdale Close,,Manchester
+2024-10-30,198000,M11 4BP,S,N,F,3,,Hartington Drive,,Manchester
+2024-10-25,157500,M11 4PQ,T,N,F,37,,Pennell Street,,Manchester
+2024-10-25,177000,M11 4AF,F,N,L,2,Apartment 19,The Waterfront,Openshaw,Manchester
+2024-10-25,300000,M11 2LS,S,N,F,14,,Paprika Close,,Manchester
+2024-10-18,160000,M11 2JJ,T,N,L,91,,Meech Street,,Manchester
+2024-10-16,200000,M11 1PF,S,N,L,7,,Reading Close,,Manchester
+2024-10-16,190000,M11 1JZ,T,N,F,21,,Capital Road,,Manchester
+2024-10-14,105000,M11 2AU,T,N,F,39,,Goole Street,,Manchester
+2024-10-11,80000,M11 3UA,T,N,L,4,,Bell Crescent,,Manchester
+2024-10-11,190000,M11 2DL,F,N,L,425,Apartment 11,Ashton Old Road,,Manchester
+2024-10-11,191000,M11 1GT,T,N,L,9,,West Bank,Openshaw,Manchester
+2024-10-11,232500,M11 1EQ,T,N,F,33,,Toxteth Street,,Manchester
+2024-10-03,250000,M11 2LW,T,N,F,45,,Cherry Avenue,,Manchester
+2024-09-30,137500,M11 1QF,S,Y,L,30,,Edison Street,Openshaw,Manchester
+2024-09-27,146000,M11 2JF,T,N,F,20,,Range Street,,Manchester
+2024-09-27,137500,M11 1QF,S,Y,L,28,,Edison Street,Openshaw,Manchester
+2024-09-25,180000,M11 4AY,F,N,L,6,Apartment 4,The Waterfront,,Manchester
+2024-09-23,166000,M11 4ET,T,N,F,5,,Sweetnam Drive,,Manchester
+2024-09-20,151000,M11 4NH,T,N,F,25,,Stanton Street,,Manchester
+2024-09-18,340000,M11 3NP,T,N,L,32,,Rylance Street,,Manchester
+2024-09-17,200000,M11 3TQ,S,N,F,4,,Pilgrim Drive,,Manchester
+2024-09-13,200000,M11 1BB,T,N,F,89,,Sandywell Street,,Manchester
+2024-09-11,206250,M11 1QF,F,Y,L,32,,Edison Street,Openshaw,Manchester
+2024-09-04,322000,M11 1EQ,T,N,F,21,,Toxteth Street,,Manchester
+2024-08-28,307000,M11 4NE,T,N,F,117,,North Road,,Manchester
+2024-08-23,165000,M11 4DB,F,N,L,2B,Apartment 9,The Waterfront,Openshaw,Manchester
+2024-08-23,160000,M11 1AN,T,N,L,66,,Louisa Street,,Manchester
+2024-08-16,270000,M11 3BN,T,N,L,60,,Holly Street,,Manchester
+2024-08-13,212500,M11 4NG,T,N,F,28,,North Road,,Manchester
+2024-08-09,168500,M11 4FL,T,N,F,63,,Ilford Street,,Manchester
+2024-08-09,190000,M11 1JZ,T,N,F,25,,Capital Road,,Manchester
+2024-08-08,211000,M11 1GJ,T,N,L,105,,Louisa Street,,Manchester
+2024-08-02,118000,M11 4DB,F,N,L,2B,Apartment 6,The Waterfront,Openshaw,Manchester
+2024-08-02,225000,M11 3TT,S,N,F,9,,Redfield Close,,Manchester
+2024-07-31,145000,M11 4TF,F,N,L,5,Flat 550,Stillwater Drive,,Manchester
+2024-07-31,150000,M11 1QG,F,Y,L,14,,Harp Street,Openshaw,Manchester
+2024-07-29,213000,M11 4PR,T,N,F,48,,Seymour Road South,,Manchester
+2024-07-29,195000,M11 1EF,T,N,F,4,,Sandywell Close,,Manchester
+2024-07-26,210000,M11 1HX,T,N,F,30,,Rosina Street,,Manchester
+2024-07-25,110000,M11 4TF,F,N,L,5,Flat 517,Stillwater Drive,,Manchester
+2024-07-25,260500,M11 2LS,S,N,F,31,,Paprika Close,,Manchester
+2024-07-24,165000,M11 4BX,F,N,L,2A,Apartment 41,The Waterfront,Openshaw,Manchester
+2024-07-22,250000,M11 1JY,T,N,F,8,,Delamere Street,,Manchester
+2024-07-19,120000,M11 4TF,F,N,L,5,Flat 565,Stillwater Drive,,Manchester
+2024-07-17,200000,M11 3QB,T,N,F,10,,Valley Walk,,Manchester
+2024-07-15,133000,M11 4NL,T,N,F,31,,Canberra Street,,Manchester
+2024-07-10,175000,M11 4TE,F,N,L,3,Flat 356,Stillwater Drive,,Manchester
+2024-07-09,171000,M11 4BX,F,N,L,2A,Apartment 17,The Waterfront,Openshaw,Manchester
+2024-07-01,300000,M11 3BH,T,N,L,1,,Olympic Street,,Manchester
+2024-06-28,110000,M11 3LN,F,N,L,3,Flat 12,Falconwood Way,,Manchester
+2024-06-24,340000,M11 3NB,T,N,L,15,,Stadium Drive,,Manchester
+2024-06-21,300000,M11 3DN,T,N,L,13,,Burcot Road,,Manchester
+2024-06-14,245000,M11 2LS,S,N,F,36,,Paprika Close,,Manchester
+2024-06-11,180000,M11 4JL,S,N,F,34,,Ravensbury Street,,Manchester
+2024-06-07,310000,M11 3NP,T,N,L,3,,Rylance Street,,Manchester
+2024-06-03,111000,M11 4BX,F,N,L,2A,Apartment 38,The Waterfront,Openshaw,Manchester
+2024-06-03,151300,M11 2EU,T,N,F,44,,Bartlett Street,,Manchester
+2024-05-31,180000,M11 1QG,S,Y,L,19,,Harp Street,Openshaw,Manchester
+2024-05-31,150000,M11 1AR,T,N,F,58,,Cheadle Street,,Manchester
+2024-05-24,124000,M11 2AZ,T,N,F,50,,Wilson Street,Openshaw,Manchester
+2024-05-24,210000,M11 1HZ,T,N,F,30,,Neston Street,,Manchester
+2024-05-22,166000,M11 4NR,T,N,L,35,,Vale Street,,Manchester
+2024-05-13,60000,M11 4NZ,S,N,L,101,,Stanton Street,,Manchester
+2024-05-10,302000,M11 3NE,S,N,L,35,,Athletes Way,,Manchester
+2024-05-09,135000,M11 4EP,T,N,F,36,,Midlothian Street,,Manchester
+2024-05-03,267000,M11 4WE,S,N,F,Heath Lea,,North Road,,Manchester
+2024-05-03,158000,M11 4PW,T,N,F,23,,Dargai Street,,Manchester
+2024-04-30,123000,M11 4BX,F,N,L,2A,Apartment 50,The Waterfront,Openshaw,Manchester
+2024-04-30,230000,M11 1BX,S,N,F,9,,Welland Street,,Manchester
+2024-04-26,106000,M11 2JX,T,N,F,123,,Parkhouse Street,,Manchester
+2024-04-26,125000,M11 1NR,T,N,F,42,,Rushton Grove,,Manchester
+2024-04-19,110000,M11 3LN,F,N,L,57,Apartment 3,Falconwood Way,,Manchester
+2024-04-19,212500,M11 1EQ,S,N,F,14,,Toxteth Street,,Manchester
+2024-04-17,185000,M11 4BF,S,N,L,10,,Thirsfield Drive,,Manchester
+2024-04-15,90000,M11 4PB,T,N,L,895,,Ashton New Road,,Manchester
+2024-04-15,166000,M11 4FQ,T,N,F,16,,Stockholm Street,,Manchester
+2024-04-09,170000,M11 4AU,F,N,L,4,Apartment 10,The Waterfront,,Manchester
+2024-04-05,140000,M11 4BG,S,N,L,49,,John Heywood Street,,Manchester
+2024-03-28,200000,M11 4PG,T,N,F,10,,Seymour Road South,,Manchester
+2024-03-27,205000,M11 4RZ,T,N,F,1,,Minorca Avenue,,Manchester
+2024-03-26,305000,M11 3NB,T,N,L,39,,Stadium Drive,,Manchester
+2024-03-22,95000,M11 4PH,T,N,F,20,,Arbroath Street,,Manchester
+2024-03-22,184000,M11 4AF,F,N,L,2,Apartment 36,The Waterfront,Openshaw,Manchester
+2024-03-22,160000,M11 1GF,T,N,L,21,,Aldermoor Close,,Manchester
+2024-03-20,200000,M11 4WR,S,N,F,60,,Vale Street,,Manchester
+2024-03-15,160000,M11 1JZ,T,N,F,19,,Capital Road,,Manchester
+2024-03-14,120000,M11 1GP,F,N,L,2,Flat 3,Silverlace Avenue,,Manchester
+2024-03-13,165000,M11 1QG,S,Y,L,21,,Harp Street,Openshaw,Manchester
+2024-03-08,197500,M11 4JZ,S,N,F,18,,Lingfield Road,,Manchester
+2024-03-08,290000,M11 2LW,S,N,F,30,,Cherry Avenue,,Manchester
+2024-03-01,240000,M11 4LB,S,N,F,311,,North Road,,Manchester
+2024-02-27,250000,M11 4FE,S,N,L,53,,Bamford Street,,Manchester
+2024-02-26,165000,M11 1QD,S,Y,L,24,,Ezard Street,Openshaw,Manchester
+2024-02-26,182000,M11 1HS,T,N,L,30,,Manshaw Road,,Manchester
+2024-02-23,143000,M11 4NJ,T,N,F,11,,Walsden Street,,Manchester
+2024-02-23,130000,M11 4GR,T,N,F,719,,Ashton New Road,,Manchester
+2024-02-16,114000,M11 1LQ,T,N,F,29,,Montana Square,,Manchester
+2024-02-13,250000,M11 1HJ,T,N,F,1435,,Ashton Old Road,,Manchester
+2024-02-12,195000,M11 1GU,S,N,L,7,,Rayleigh Avenue,Openshaw,Manchester
+2024-02-09,150000,M11 4AU,F,N,L,4,Apartment 4,The Waterfront,,Manchester
+2024-02-09,95000,M11 3LN,F,N,L,5,Flat 19,Falconwood Way,,Manchester
+2024-02-01,155000,M11 1AS,T,N,F,61,,Harley Street,,Manchester
+2024-01-26,300000,M11 2LS,S,N,F,50,,Paprika Close,,Manchester
+2024-01-26,190000,M11 1EQ,T,N,F,85,,Toxteth Street,,Manchester
+2024-01-23,180000,M11 1GT,T,N,L,3,,West Bank,Openshaw,Manchester
+2024-01-19,135000,M11 4WJ,T,N,L,35,,Walsden Street,,Manchester
+2024-01-11,155000,M11 1NW,T,N,F,89,,Lees Street,Openshaw,Manchester
+2024-01-10,85000,M11 4PZ,T,N,F,68,,Schofield Street,,Manchester
+2024-01-09,150000,M11 4HP,D,N,L,4,,Enfield Drive,,Manchester
+2024-01-09,230000,M11 1DQ,T,N,F,12,,Salcombe Road,,Manchester
+2024-01-03,165000,M11 4FR,T,N,F,77,,Pioneer Street,,Manchester
+2023-12-18,280000,M11 1HH,S,N,F,1491,,Ashton Old Road,,Manchester
+2023-12-15,199000,M11 3NA,S,N,L,165,,Rylance Street,,Manchester
+2023-12-13,190000,M11 4JZ,S,N,F,2,,Lingfield Road,,Manchester
+2023-12-13,161250,M11 1QE,S,Y,L,26,,Tunstall Street,Openshaw,Manchester
+2023-12-04,302000,M11 1PL,S,N,F,11,,Upton Street,,Manchester
+2023-12-04,254500,M11 1ET,D,N,F,14,,Silverdale Street,,Manchester
+2023-12-01,187500,M11 4FE,S,N,L,49,,Bamford Street,,Manchester
+2023-12-01,275000,M11 1HQ,S,N,L,28,,Albany Avenue,,Manchester
+2023-11-27,248000,M11 3LD,S,N,L,12,,Brennock Close,,Manchester
+2023-11-24,270000,M11 1PQ,T,N,F,7,,Dobson Street,,Manchester
+2023-11-16,238000,M11 3DP,T,N,L,4,,Carbis Avenue,,Manchester
+2023-11-15,155000,M11 2LF,T,N,F,35,,Chisholm Street,,Manchester
+2023-11-13,240000,M11 3BY,S,N,L,43,,Metcombe Way,,Manchester
+2023-11-13,110000,M11 2AY,T,N,L,19,,Winslow Street,,Manchester
+2023-11-13,335000,M11 1ER,S,N,F,11,,Gransmoor Road,,Manchester
+2023-11-10,146700,M11 2DL,F,N,L,427,Apartment 8,Ashton Old Road,,Manchester
+2023-11-06,305000,M11 3BY,D,N,L,26,,Metcombe Way,,Manchester
+2023-11-03,170000,M11 4EG,T,N,F,30,,Tartan Street,,Manchester
+2023-11-01,275000,M11 2LR,S,N,F,143,,Ogden Lane,,Manchester
+2023-10-30,137000,M11 4RL,T,N,F,9,,Coatbridge Street,,Manchester
+2023-10-30,310000,M11 3NP,T,N,L,4,,Rylance Street,,Manchester
+2023-10-27,140000,M11 4WJ,S,N,L,37,,Walsden Street,,Manchester
+2023-10-27,226000,M11 3AD,S,N,L,17,,Rimmer Close,,Manchester
+2023-10-27,250000,M11 1JZ,T,N,F,7,,Capital Road,,Manchester
+2023-10-27,212000,M11 1AX,T,N,F,161,,Eastern By Pass,,Manchester
+2023-10-26,170000,M11 1LN,T,N,F,1,,Limebrook Close,Openshaw,Manchester
+2023-10-18,100000,M11 2AZ,T,N,F,70,,Wilson Street,Openshaw,Manchester
+2023-10-18,162500,M11 1BT,D,Y,L,7,,Prenton Street,Openshaw,Manchester
+2023-10-13,172000,M11 4HZ,S,N,F,5,,Glamis Avenue,,Manchester
+2023-10-02,235000,M11 3QL,T,N,F,9,,Doric Close,,Manchester
+2023-09-29,130000,M11 4ED,T,N,F,166,,Barrington Street,,Manchester
+2023-09-29,125000,M11 4BX,F,N,L,2A,Apartment 55,The Waterfront,Openshaw,Manchester
+2023-09-29,312000,M11 3NB,T,N,L,35,,Stadium Drive,,Manchester
+2023-09-22,115000,M11 4FB,T,N,F,189,,Barrington Street,,Manchester
+2023-09-22,150000,M11 3AW,T,N,L,14,,Bosworth Street,,Manchester
+2023-09-21,260000,M11 3NN,S,N,L,11,,Commonwealth Avenue,,Manchester
+2023-09-20,175000,M11 4PG,T,N,F,20,,Seymour Road South,,Manchester
+2023-09-18,194000,M11 1JQ,S,N,L,2,,Aldermoor Close,,Manchester
+2023-09-15,290000,M11 4SZ,T,N,L,23,,Sable Way,,Manchester
+2023-09-15,190000,M11 4FE,T,N,F,36,,Bamford Street,,Manchester
+2023-09-15,331000,M11 2LW,D,N,F,3,,Cherry Avenue,,Manchester
+2023-09-14,130000,M11 1NB,F,N,L,36,,Tinningham Close,,Manchester
+2023-09-11,120000,M11 1EW,F,N,L,12,Flat 2,Fairfield Road,,Manchester
+2023-09-08,180000,M11 2EF,T,N,F,33,,Herne Street,,Manchester
+2023-09-01,185000,M11 4PR,T,N,F,46,,Seymour Road South,,Manchester
+2023-08-31,145000,M11 4NH,T,N,F,13,,Stanton Street,,Manchester
+2023-08-31,286000,M11 1LZ,S,N,F,5,,Malford Street,,Manchester
+2023-08-29,165000,M11 1DE,T,N,F,93,,Old Lane,,Manchester
+2023-08-25,125000,M11 4PW,T,N,F,51,,Dargai Street,,Manchester
+2023-08-24,100000,M11 1BT,S,Y,L,3,,Prenton Street,Openshaw,Manchester
+2023-08-23,130000,M11 1BT,S,Y,L,5,,Prenton Street,Openshaw,Manchester
+2023-08-17,185000,M11 4HB,S,N,L,7,,Strathfield Drive,,Manchester
+2023-08-11,185000,M11 4GT,T,N,F,922,,Ashton New Road,,Manchester
+2023-08-11,206000,M11 4DU,T,N,L,27,,Stuart Street,,Manchester
+2023-08-09,115000,M11 2DJ,F,N,L,"Radcliffe House, 401",Apartment 3,Ashton Old Road,,Manchester
+2023-08-08,210000,M11 3UF,T,N,F,1,,Warner Walk,,Manchester
+2023-08-07,150000,M11 2AY,T,N,F,14,,Winslow Street,,Manchester
+2023-08-04,125000,M11 3AW,T,N,F,64,,Bosworth Street,,Manchester
+2023-08-02,150000,M11 4FQ,T,N,F,14,,Stockholm Street,,Manchester
+2023-07-28,135000,M11 4AF,F,N,L,2,Apartment 24,The Waterfront,Openshaw,Manchester
+2023-07-07,175800,M11 1UA,T,N,L,28,,Reading Close,,Manchester
+2023-07-07,227000,M11 1JY,T,N,F,3,,Delamere Street,,Manchester
+2023-07-04,117500,M11 4NH,T,N,F,29,,Stanton Street,,Manchester
+2023-07-03,161500,M11 2DL,F,N,L,427,Apartment 9,Ashton Old Road,,Manchester
+2023-06-30,175000,M11 4NG,T,N,F,36,,North Road,,Manchester
+2023-06-26,181000,M11 1HQ,S,N,L,4,,Albany Avenue,,Manchester
+2023-06-26,143500,M11 1AQ,T,N,F,81,,Cheadle Street,,Manchester
+2023-06-23,162000,M11 3DD,S,N,L,12,,Overlinks Road,,Manchester
+2023-06-16,180000,M11 4FN,T,N,L,42,,John Heywood Street,,Manchester
+2023-06-16,245000,M11 3BH,T,N,L,9,,Olympic Street,,Manchester
+2023-06-16,133500,M11 1WH,T,N,F,12,,Lees Street,Openshaw,Manchester
+2023-06-14,125000,M11 4GT,T,N,F,930,,Ashton New Road,,Manchester
+2023-06-13,100000,M11 1GT,T,N,L,9,,West Bank,Openshaw,Manchester
+2023-06-09,163000,M11 4QJ,T,N,F,665,,Ashton New Road,,Manchester
+2023-06-09,187000,M11 4DQ,T,N,F,3,,Stuart Street,,Manchester
+2023-06-08,135000,M11 3NJ,T,N,L,42,,Lloyd Wright Avenue,,Manchester
+2023-06-05,109000,M11 4TG,F,N,L,7,Apartment 13,Stillwater Drive,,Manchester
+2023-06-05,194000,M11 4PS,S,N,F,109,,Seymour Road South,,Manchester
+2023-05-31,120000,M11 4AF,F,N,L,2,Apartment 9,The Waterfront,Openshaw,Manchester
+2023-05-31,102000,M11 2AT,S,N,F,5,,Beede Street,Openshaw,Manchester
+2023-05-23,150000,M11 1LT,T,N,F,41,,Ryan Street,,Manchester
+2023-05-16,100000,M11 4GA,T,N,F,31,,Powell Street,Clayton,Manchester
+2023-05-12,140000,M11 4TE,F,N,L,3,Flat 333,Stillwater Drive,,Manchester
+2023-04-25,130000,M11 1DT,T,N,F,75,,Wheler Street,,Manchester
+2023-04-21,220000,M11 1ER,T,N,F,15,,Gransmoor Road,,Manchester
+2023-04-14,145000,M11 2EU,T,N,F,36,,Bartlett Street,,Manchester
+2023-04-13,201000,M11 3LP,T,N,L,6,,Barleywood Drive,,Manchester
+2023-04-04,132800,M11 3SU,T,N,F,54,,Albert Street,,Manchester
+2023-03-31,110000,M11 4FB,T,N,F,193,,Barrington Street,,Manchester
+2023-03-29,214000,M11 3BF,S,N,L,8,,Walshaw Street,,Manchester
+2023-03-27,209200,M11 1HY,T,N,F,33,,Oxton Street,,Manchester
+2023-03-24,110000,M11 4ND,T,N,F,76,,Lingfield Road,,Manchester
+2023-03-24,178000,M11 3AP,S,N,L,21,,Bosworth Street,,Manchester
+2023-03-17,175000,M11 4PS,T,N,F,85,,Seymour Road South,,Manchester
+2023-03-17,170000,M11 1WH,T,N,F,14,,Lees Street,Openshaw,Manchester
+2023-03-17,188000,M11 1AJ,S,N,F,3,,Saunton Road,Openshaw,Manchester
+2023-03-15,160000,M11 4LD,T,N,F,134,,North Road,,Manchester
+2023-03-13,145000,M11 2DL,F,N,L,425,Apartment 3,Ashton Old Road,,Manchester
+2023-03-07,105000,M11 2FU,T,N,F,12,,Vincent Street,,Manchester
+2023-03-03,125000,M11 2JJ,T,N,L,71,,Meech Street,,Manchester
+2023-03-01,198000,M11 3BJ,T,N,F,2,,Hornsea Walk,,Manchester
+2023-02-24,200000,M11 4DN,T,N,L,20,,Stuart Street,,Manchester
+2023-02-21,185000,M11 2DL,F,N,L,427,Apartment 15,Ashton Old Road,,Manchester
+2023-02-20,310000,M11 3JX,T,N,F,11,,Orme Close,,Manchester
+2023-02-17,185000,M11 4JU,T,N,F,3,,Gleneagles Avenue,,Manchester
+2023-02-16,195100,M11 4AY,F,N,L,6,Apartment 5,The Waterfront,,Manchester
+2023-02-14,258000,M11 2DL,F,N,L,427,Apartment 25,Ashton Old Road,,Manchester
+2023-02-14,185000,M11 1JY,S,N,F,40,,Delamere Street,,Manchester
+2023-02-13,175000,M11 4WG,S,N,F,28,,Vale Street,,Manchester
+2023-02-13,276500,M11 3NE,T,N,L,6,,Athletes Way,,Manchester
+2023-02-10,222000,M11 1NH,D,N,F,15,,Brinklow Close,,Manchester
+2023-02-03,157500,M11 4FB,T,N,F,201,,Barrington Street,,Manchester
+2023-02-03,147500,M11 2LG,T,N,F,19,,Weaver Walk,Openshaw,Manchester
+2023-02-03,130100,M11 2EX,T,N,F,17,,Greenside Street,,Manchester
+2023-02-01,121000,M11 1JZ,T,N,F,37,,Capital Road,,Manchester
+2023-01-27,146000,M11 4NH,T,N,F,7,,Stanton Street,,Manchester
+2023-01-26,132100,M11 1DF,T,N,F,54,,Wheler Street,,Manchester
+2023-01-26,180000,M11 1AN,T,N,L,38,,Louisa Street,,Manchester
+2023-01-21,303300,M11 3DN,T,N,L,19,,Burcot Road,,Manchester
+2023-01-20,180000,M11 4PR,T,N,F,86,,Seymour Road South,,Manchester
+2023-01-20,128000,M11 4EW,T,N,F,7,,Ben Street,,Manchester
+2023-01-20,170000,M11 4AY,F,N,L,6,Apartment 19,The Waterfront,,Manchester
+2023-01-20,300000,M11 1PQ,T,N,F,11,,Dobson Street,,Manchester
+2023-01-20,128000,M11 1FY,T,N,F,1,,Wallwork Street,Openshaw,Manchester
+2023-01-19,243000,M11 2LS,T,N,F,9,,Paprika Close,,Manchester
+2023-01-16,280000,M11 3NJ,T,N,L,16,,Lloyd Wright Avenue,,Manchester
+2023-01-12,295000,M11 2LS,D,N,F,23,,Paprika Close,,Manchester
+2023-01-10,285000,M11 1ET,T,N,F,9,,Silverdale Street,,Manchester
+2023-01-05,260000,M11 3NU,T,N,L,20,,Commonwealth Avenue,,Manchester
+2022-12-19,225000,M11 4SW,T,N,L,1,,Wesham Road,,Manchester
+2022-12-19,155000,M11 4FN,S,N,L,40,,John Heywood Street,,Manchester
+2022-12-19,186000,M11 2DL,F,N,L,427,Apartment 11,Ashton Old Road,,Manchester
+2022-12-16,200000,M11 4LJ,S,N,F,16,,Folkestone Road,,Manchester
+2022-12-16,235000,M11 1LZ,T,N,F,13,,Malford Street,,Manchester
+2022-12-16,240000,M11 1ET,T,N,F,7,,Silverdale Street,,Manchester
+2022-12-14,185000,M11 1AP,S,N,F,19,,Sexa Street,,Manchester
+2022-12-12,380000,M11 1PN,S,N,F,14,,Mossfield Street,,Manchester
+2022-12-12,255000,M11 1JQ,S,N,L,52,,Aldermoor Close,,Manchester
+2022-12-09,100000,M11 4FW,T,N,F,9,,Heather Street,,Manchester
+2022-12-09,180000,M11 4FH,T,N,F,4,,Pioneer Street,,Manchester
+2022-12-09,212000,M11 1EQ,T,N,F,19,,Toxteth Street,,Manchester
+2022-12-07,187000,M11 4RN,S,N,F,6,,Easthaven Avenue,,Manchester
+2022-12-07,195000,M11 1DS,T,N,F,127,,Wheler Street,,Manchester
+2022-12-06,248000,M11 1LS,D,N,F,3,,Bowness Street,,Manchester
+2022-12-02,125000,M11 4TE,F,N,L,3,Flat 347,Stillwater Drive,,Manchester
+2022-12-02,105000,M11 1NB,F,N,L,22,,Tinningham Close,,Manchester
+2022-11-29,161000,M11 1NB,D,N,F,20,,Tinningham Close,,Manchester
+2022-11-28,122000,M11 4LL,S,N,F,32,,Folkestone Road East,,Manchester
+2022-11-25,225000,M11 3BY,S,N,L,18,,Metcombe Way,,Manchester
+2022-11-24,172000,M11 1HX,T,N,F,50,,Rosina Street,,Manchester
+2022-11-23,197500,M11 4HF,S,N,F,5,,Whiteley Street,,Manchester
+2022-11-23,122000,M11 2AY,T,N,L,1,,Winslow Street,,Manchester
+2022-11-23,125000,M11 1NX,T,N,F,127,,Lees Street,Openshaw,Manchester
+2022-11-22,290000,M11 2LW,T,N,F,27,,Cherry Avenue,,Manchester
+2022-11-18,100000,M11 4WH,T,N,F,32,,Clayton Hall Road,,Manchester
+2022-11-18,115000,M11 1AR,T,N,F,36,,Cheadle Street,,Manchester
+2022-11-14,97500,M11 1GT,T,N,L,7,,West Bank,Openshaw,Manchester
+2022-11-07,214800,M11 1PG,S,N,F,7,,Florence Street,,Manchester
+2022-11-07,173000,M11 1HZ,T,N,F,10,,Neston Street,,Manchester
+2022-11-04,205000,M11 4ST,T,N,F,9,,Eastern By Pass,,Manchester
+2022-11-04,243000,M11 1ET,D,N,F,16,,Silverdale Street,,Manchester
+2022-10-31,154500,M11 1LA,S,N,F,48,,Capital Road,,Manchester
+2022-10-31,289000,M11 1ER,S,N,F,8,,Gransmoor Road,,Manchester
+2022-10-28,170000,M11 4PS,T,N,L,114,,Seymour Road South,,Manchester
+2022-10-28,118500,M11 1DT,T,N,F,77,,Wheler Street,,Manchester
+2022-10-21,200000,M11 4LS,T,N,F,25,,Folkestone Road West,,Manchester
+2022-10-21,252000,M11 1HN,S,N,F,1508,,Ashton Old Road,,Manchester
+2022-10-20,180000,M11 4BR,S,N,F,19,,Hartington Drive,,Manchester
+2022-10-18,225000,M11 1NP,T,N,L,1,,Beeth Street,,Manchester
+2022-10-14,170000,M11 4NJ,T,N,F,19,,Walsden Street,,Manchester
+2022-10-14,210000,M11 4LR,S,N,F,32,,North Crescent,,Manchester
+2022-10-14,140000,M11 4GD,T,N,F,13,,Tartan Street,,Manchester
+2022-10-07,180000,M11 4AY,F,N,L,6,Apartment 18,The Waterfront,,Manchester
+2022-10-06,200000,M11 1JZ,T,N,F,17,,Capital Road,,Manchester
+2022-10-05,180855,M11 4BR,S,N,F,17,,Hartington Drive,,Manchester
+2022-10-04,61000,M11 1NA,F,N,L,5,,Ketton Close,,Manchester
+2022-09-30,180000,M11 4LN,S,N,F,46,,South Crescent,,Manchester
+2022-09-30,275000,M11 3UA,F,N,L,30,,Bell Crescent,,Manchester
+2022-09-30,321500,M11 2LS,S,N,F,46,,Paprika Close,,Manchester
+2022-09-30,232000,M11 2LS,S,N,F,38,,Paprika Close,,Manchester
+2022-09-29,130000,M11 3TW,T,N,F,30,,Hartwell Close,,Manchester
+2022-09-28,85000,M11 4NH,T,N,F,15,,Stanton Street,,Manchester
+2022-09-26,145000,M11 4PX,T,N,F,152,,Stanton Street,,Manchester
+2022-09-23,85000,M11 4NY,F,N,L,"Park Court, 331",Flat 6,North Road,,Manchester
+2022-09-23,175000,M11 1HU,S,N,L,6,,Newhaven Avenue,,Manchester
+2022-09-16,321100,M11 3NJ,T,N,L,29,,Lloyd Wright Avenue,,Manchester
+2022-09-16,255000,M11 1JH,T,N,L,3,,Aniline Street,,Manchester
+2022-09-16,195000,M11 1HQ,S,N,L,12,,Albany Avenue,,Manchester
+2022-09-16,117500,M11 1AU,T,N,F,114,,Harley Street,,Manchester
+2022-09-15,175000,M11 4LD,S,N,F,96,,North Road,,Manchester
+2022-09-09,182000,M11 4FP,S,N,F,18,,Ashurst Avenue,,Manchester
+2022-09-05,78000,M11 1BF,T,N,F,3,,Buckley Street,Openshaw,Manchester
+2022-09-02,220000,M11 3NW,T,N,L,8,,Arena Drive,,Manchester
+2022-09-02,143000,M11 1LJ,T,N,F,26,,Vine Street,,Manchester
+2022-09-01,175000,M11 4AF,F,N,L,2,Apartment 35,The Waterfront,Openshaw,Manchester
+2022-08-31,156250,M11 2DL,F,N,L,427,Apartment 19,Ashton Old Road,,Manchester
+2022-08-31,122500,M11 1BJ,T,N,F,7,,Southsea Street,,Manchester
+2022-08-30,245000,M11 3NJ,T,N,L,22,,Lloyd Wright Avenue,,Manchester
+2022-08-26,142000,M11 1WT,T,N,F,76,,Ackroyd Street,,Manchester
+2022-08-18,125000,M11 4EW,T,N,F,32,,Ben Street,,Manchester
+2022-08-12,290000,M11 3NJ,F,N,L,4,,Lloyd Wright Avenue,,Manchester
+2022-08-10,215000,M11 1PG,T,N,F,4,,Florence Street,,Manchester
+2022-08-08,131250,M11 4RS,S,Y,L,2,,Howgill Street,,Manchester
+2022-07-29,270100,M11 3NU,S,N,L,10,,Commonwealth Avenue,,Manchester
+2022-07-29,174500,M11 2JJ,T,N,L,43,,Meech Street,,Manchester
+2022-07-28,110000,M11 4PW,T,N,F,23,,Dargai Street,,Manchester
+2022-07-27,155000,M11 4EZ,T,N,F,3,,Frankland Close,,Manchester
+2022-07-22,295000,M11 3NB,T,N,L,7,,Stadium Drive,,Manchester
+2022-07-22,135000,M11 2EU,T,N,F,8,,Bartlett Street,,Manchester
+2022-07-22,145000,M11 1WS,T,N,F,13,,Mattison Street,,Manchester
+2022-07-15,130000,M11 4FL,T,N,F,64,,Ilford Street,,Manchester
+2022-07-15,260000,M11 3BR,T,N,F,15,,Howarth Close,,Manchester
+2022-07-15,140000,M11 1LH,T,N,F,25,,Vine Street,,Manchester
+2022-07-15,80000,M11 1JZ,T,N,F,1,,Capital Road,,Manchester
+2022-07-14,200000,M11 4PZ,S,N,F,35,,Schofield Street,,Manchester
+2022-07-13,125000,M11 1BJ,T,N,F,11,,Southsea Street,,Manchester
+2022-07-11,195000,M11 2EN,S,N,F,73,,Cornwall Street,,Manchester
+2022-07-08,161000,M11 4AF,F,N,L,2,Apartment 33,The Waterfront,Openshaw,Manchester
+2022-07-07,75000,M11 4FQ,T,N,F,14,,Stockholm Street,,Manchester
+2022-07-04,174000,M11 1UA,T,N,L,6,,Reading Close,,Manchester
+2022-07-01,301000,M11 3NL,T,N,L,32,,Paxton Place,,Manchester
+2022-06-30,275000,M11 1EZ,T,N,F,119,,Toxteth Street,,Manchester
+2022-06-24,270000,M11 3NP,T,N,L,39,,Rylance Street,,Manchester
+2022-06-24,286000,M11 3NL,T,N,L,26,,Paxton Place,,Manchester
+2022-06-24,125000,M11 3AW,T,N,F,82,,Bosworth Street,,Manchester
+2022-06-22,261000,M11 3NP,T,N,L,11,,Rylance Street,,Manchester
+2022-06-21,131000,M11 1NB,S,N,F,17,,Tinningham Close,,Manchester
+2022-06-17,95000,M11 4FW,T,N,F,3,,Heather Street,,Manchester
+2022-06-10,160500,M11 1AR,T,N,F,32,,Cheadle Street,,Manchester
+2022-06-07,124999,M11 3LN,F,N,L,5,Flat 21,Falconwood Way,,Manchester
+2022-06-06,170000,M11 4HF,S,N,F,11,,Whiteley Street,,Manchester
+2022-05-31,120000,M11 4DG,F,N,L,2,Apartment 24,Stuart Street,,Manchester
+2022-05-31,208000,M11 1JQ,T,N,L,34,,Aldermoor Close,,Manchester
+2022-05-27,156000,M11 4PU,T,N,F,7,,Heathway Avenue,,Manchester
+2022-05-27,145000,M11 4EU,T,N,F,4,,Coghlan Close,,Manchester
+2022-05-27,190000,M11 4DF,D,N,F,87,,Bank Street,,Manchester
+2022-05-27,235000,M11 2LS,T,N,F,19,,Paprika Close,,Manchester
+2022-05-27,201500,M11 1HY,T,N,F,1,,Oxton Street,,Manchester
+2022-05-25,126000,M11 2BU,T,N,L,1,,Dulgar Street,Openshaw,Manchester
+2022-05-23,240000,M11 3RW,D,N,L,11,,Blackrock Street,,Manchester
+2022-05-19,175000,M11 1DE,T,N,F,80,,Old Lane,,Manchester
+2022-05-13,153000,M11 1EF,S,N,F,6,,Sandywell Close,,Manchester
+2022-05-11,283000,M11 3NN,T,N,L,23,,Commonwealth Avenue,,Manchester
+2022-04-29,135000,M11 2GG,T,N,F,22,,Elysian Street,Openshaw,Manchester
+2022-04-29,117000,M11 1EW,F,N,L,12,Flat 7,Fairfield Road,,Manchester
+2022-04-28,130000,M11 4QB,T,N,F,5,,Sumac Street,,Manchester
+2022-04-25,170000,M11 2HL,T,N,F,2,,Applecross Walk,Openshaw,Manchester
+2022-04-22,105000,M11 4EW,T,N,F,17,,Ben Street,,Manchester
+2022-04-20,85000,M11 3LN,F,N,L,1,Flat 7,Falconwood Way,,Manchester
+2022-04-14,176000,M11 4PB,T,N,L,887,,Ashton New Road,,Manchester
+2022-04-14,145000,M11 2BY,T,N,F,38,,Selby Street,,Manchester
+2022-04-13,285000,M11 3NH,T,N,L,25,,Wren Way,,Manchester
+2022-04-12,172000,M11 4AY,F,N,L,6,Apartment 29,The Waterfront,,Manchester
+2022-04-11,107000,M11 4BU,T,N,F,72,,Bank Street,,Manchester
+2022-04-04,258000,M11 3NP,S,N,L,10,,Rylance Street,,Manchester
+2022-04-04,172000,M11 1HZ,T,N,F,14,,Neston Street,,Manchester
+2022-04-01,119250,M11 4PQ,T,N,F,22,,Pennell Street,,Manchester
+2022-03-31,230000,M11 3LH,S,N,L,48,,Kylemore Way,,Manchester
+2022-03-30,143000,M11 4HG,S,N,L,7,,Homebury Drive,,Manchester
+2022-03-30,228000,M11 1EZ,S,N,F,94,,Toxteth Street,,Manchester
+2022-03-25,145000,M11 4LR,S,N,F,24,,North Crescent,,Manchester
+2022-03-25,139000,M11 3BU,S,N,F,12,,Sledmere Close,,Manchester
+2022-03-23,376000,M11 2FW,D,N,F,25,,Craydon Street,Openshaw,Manchester
+2022-03-18,115000,M11 1NT,T,N,F,87,,Ackroyd Street,,Manchester
+2022-03-18,168000,M11 1EQ,T,N,F,73,,Toxteth Street,,Manchester
+2022-03-16,375000,M11 3NB,S,N,L,16,,Stadium Drive,,Manchester
+2022-03-15,135000,M11 4AF,F,N,L,2,Apartment 15,The Waterfront,Openshaw,Manchester
+2022-03-15,265000,M11 3DP,T,N,L,3,,Carbis Avenue,,Manchester
+2022-03-15,191000,M11 1NE,T,N,F,10,,Backwell Street,,Manchester
+2022-03-11,180000,M11 4AU,F,N,L,4,Apartment 30,The Waterfront,,Manchester
+2022-03-10,140000,M11 2DL,F,N,L,427,Apartment 13,Ashton Old Road,,Manchester
+2022-03-09,115000,M11 4AU,F,N,L,4,Apartment 21,The Waterfront,,Manchester
+2022-03-07,250995,M11 1PS,S,N,F,8,,Reginald Street,,Manchester
+2022-03-04,260000,M11 3DH,T,N,L,15,,Aldridge Road,,Manchester
+2022-03-03,143000,M11 4HN,S,N,L,12,,Halton Road,,Manchester
+2022-02-28,135000,M11 1AS,T,N,F,89,,Harley Street,,Manchester
+2022-02-22,189950,M11 4SZ,T,N,L,5,,Sable Way,,Manchester
+2022-02-18,132000,M11 4AF,F,N,L,2,Apartment 31,The Waterfront,Openshaw,Manchester
+2022-02-18,175100,M11 2JH,T,N,F,55,,Brigham Street,,Manchester
+2022-02-14,140000,M11 3RQ,T,N,L,4,,Townley Street,,Manchester
+2022-02-11,165000,M11 4HX,T,N,F,7,,Keynsham Road,,Manchester
+2022-02-11,145000,M11 3TA,T,N,F,25,,Jobling Street,,Manchester
+2022-02-09,250000,M11 3LN,F,N,L,29,,Falconwood Way,,Manchester
+2022-02-08,247500,M11 1FQ,S,N,F,9,,Alpha Street,,Manchester
+2022-02-04,52000,M11 1HH,F,N,L,1467,Flat 1,Ashton Old Road,,Manchester
+2022-02-02,125000,M11 3BN,T,N,L,18,,Holly Street,,Manchester
+2022-01-31,100000,M11 3LN,F,N,L,1,Flat 8,Falconwood Way,,Manchester
+2022-01-28,127500,M11 4AY,F,N,L,6,Apartment 12,The Waterfront,,Manchester
+2022-01-28,189000,M11 1BA,S,N,F,70,,Chariot Street,,Manchester
+2022-01-27,100000,M11 3LN,F,N,L,3,Flat 13,Falconwood Way,,Manchester
+2022-01-26,226000,M11 1EZ,D,N,F,92,,Toxteth Street,,Manchester
+2022-01-25,249500,M11 2LW,T,N,F,19,,Cherry Avenue,,Manchester
+2022-01-24,160000,M11 1NL,T,N,F,16,,Kelmarsh Close,,Manchester
+2022-01-21,220000,M11 3NJ,T,N,L,26,,Lloyd Wright Avenue,,Manchester
+2022-01-21,190000,M11 1HQ,S,N,L,11,,Albany Avenue,,Manchester
+2022-01-14,158000,M11 2BY,S,N,F,42,,Selby Street,,Manchester
+2022-01-14,106500,M11 2AZ,T,N,F,48,,Wilson Street,Openshaw,Manchester
+2022-01-13,180000,M11 3DD,S,N,L,10,,Overlinks Road,,Manchester
+2022-01-13,120000,M11 2DJ,F,N,L,"Radcliffe House, 401",Apartment 10,Ashton Old Road,,Manchester
+2022-01-10,152500,M11 4HB,S,N,L,9,,Strathfield Drive,,Manchester
+2022-01-06,187000,M11 2DL,F,N,L,425,Apartment 25,Ashton Old Road,,Manchester
+2021-12-21,123750,M11 4TW,S,Y,L,2,,Bath Street,,Manchester
+2021-12-21,210000,M11 1AN,T,N,L,48,,Louisa Street,,Manchester
+2021-12-20,185000,M11 1EW,T,N,L,28,,Fairfield Road,,Manchester
+2021-12-20,170000,M11 1BB,T,N,F,101,,Sandywell Street,,Manchester
+2021-12-17,123750,M11 4TT,S,Y,L,8,,Bank Bridge Road,,Manchester
+2021-12-16,160000,M11 4JF,T,N,F,26,,Himley Road,,Manchester
+2021-12-15,160000,M11 2DL,F,N,L,425,Apartment 7,Ashton Old Road,,Manchester
+2021-12-13,180000,M11 1HZ,T,N,F,22,,Neston Street,,Manchester
+2021-12-09,175000,M11 4HQ,S,N,L,118,,John Heywood Street,,Manchester
+2021-12-07,118600,M11 4RT,T,N,F,172,,Stanton Street,,Manchester
+2021-12-07,170000,M11 4FU,T,N,F,8,,Theta Close,,Manchester
+2021-12-06,139000,M11 4WJ,T,N,F,22,,Walsden Street,,Manchester
+2021-12-02,93000,M11 4TU,S,Y,L,30,,Upper Lake Drive,,Manchester
+2021-11-30,235000,M11 1DE,T,N,F,89,,Old Lane,,Manchester
+2021-11-29,127875,M11 4TU,S,Y,L,18,,Upper Lake Drive,,Manchester
+2021-11-29,220000,M11 1AN,T,N,L,46,,Louisa Street,,Manchester
+2021-11-26,162000,M11 4LR,S,N,F,6,,North Crescent,,Manchester
+2021-11-26,252000,M11 3LN,T,N,L,11,,Falconwood Way,,Manchester
+2021-11-26,119950,M11 2LP,T,N,F,4,,Freeland Walk,Openshaw,Manchester
+2021-11-25,173000,M11 4GY,S,N,F,59,,Powell Street,Clayton,Manchester
+2021-11-25,149500,M11 4GB,S,N,F,1,,Lavenham Avenue,,Manchester
+2021-11-25,101500,M11 2FU,T,N,F,12,,Vincent Street,,Manchester
+2021-11-24,75000,M11 4QA,T,N,F,14,,Powell Street,Clayton,Manchester
+2021-11-24,120000,M11 1UA,T,N,L,36,,Reading Close,,Manchester
+2021-11-23,141000,M11 4HN,S,N,L,1,,Halton Road,,Manchester
+2021-11-22,138000,M11 3TA,T,N,F,15,,Jobling Street,,Manchester
+2021-11-19,148000,M11 4LX,S,N,F,20,,Second Avenue,,Manchester
+2021-11-18,72000,M11 4RS,S,Y,L,4,,Howgill Street,,Manchester
+2021-11-09,248000,M11 3NJ,S,N,L,23,,Lloyd Wright Avenue,,Manchester
+2021-11-05,130000,M11 2HU,T,N,F,30,,Bill Williams Close,,Manchester
+2021-11-05,184050,M11 1JH,T,N,L,1,,Aniline Street,,Manchester
+2021-11-04,95000,M11 2EU,T,N,F,22,,Bartlett Street,,Manchester
+2021-11-03,100000,M11 4BU,T,N,F,56,,Bank Street,,Manchester
+2021-11-01,160000,M11 1GT,T,N,L,11,,West Bank,Openshaw,Manchester
+2021-10-29,168000,M11 2EX,T,N,F,23,,Greenside Street,,Manchester
+2021-10-26,145000,M11 4JB,T,N,F,15,,East Grange Avenue,,Manchester
+2021-10-22,155000,M11 4BU,T,N,F,64,,Bank Street,,Manchester
+2021-10-22,250000,M11 3BN,T,N,L,60,,Holly Street,,Manchester
+2021-10-22,150000,M11 2GF,T,N,F,11,,Bob Massey Close,Openshaw,Manchester
+2021-10-22,112000,M11 1WU,T,N,F,21,,Alvan Square,,Manchester
+2021-10-20,93000,M11 3NW,S,N,L,2,,Arena Drive,,Manchester
+2021-10-20,150000,M11 2AT,S,N,F,9,,Beede Street,Openshaw,Manchester
+2021-10-19,104000,M11 4HH,T,N,F,76,,Whiteley Street,,Manchester
+2021-10-19,111000,M11 1EW,F,N,L,12,Flat 1,Fairfield Road,,Manchester
+2021-10-15,228000,M11 1LS,D,N,F,2,,Bowness Street,,Manchester
+2021-10-14,105000,M11 1NA,S,N,F,15,,Ketton Close,,Manchester
+2021-10-12,188500,M11 1ET,D,N,F,27,,Silverdale Street,,Manchester
+2021-10-07,79000,M11 2GJ,T,N,F,44,,Elysian Street,Openshaw,Manchester
+2021-10-07,165000,M11 1HS,T,N,L,32,,Manshaw Road,,Manchester
+2021-09-30,191000,M11 3JE,T,N,F,7,,Havana Close,,Manchester
+2021-09-30,256500,M11 2LR,S,N,F,151,,Ogden Lane,,Manchester
+2021-09-30,120000,M11 2DJ,F,N,L,"Campbell House, 403",Apartment 28,Ashton Old Road,,Manchester
+2021-09-30,116000,M11 1LH,T,N,F,13,,Vine Street,,Manchester
+2021-09-29,245000,M11 4NG,T,N,L,88,,North Road,,Manchester
+2021-09-29,251500,M11 1ER,S,N,F,12,,Gransmoor Road,,Manchester
+2021-09-29,210000,M11 1BE,T,N,L,12,,Old Lane,,Manchester
+2021-09-29,210000,M11 1BE,T,N,L,12,,Old Lane,,Manchester
+2021-09-28,299995,M11 3BY,D,N,L,52,,Metcombe Way,,Manchester
+2021-09-27,149950,M11 4RD,T,N,F,38,,Coatbridge Street,,Manchester
+2021-09-27,195000,M11 3BY,S,N,L,77,,Metcombe Way,,Manchester
+2021-09-24,225000,M11 3QG,T,N,F,21,,Darley Street,,Manchester
+2021-09-24,268000,M11 3NB,T,N,L,1,,Stadium Drive,,Manchester
+2021-09-23,155000,M11 4JE,S,N,F,23,,Himley Road,,Manchester
+2021-09-23,155000,M11 1JQ,T,N,L,32,,Aldermoor Close,,Manchester
+2021-09-17,130000,M11 4FB,T,N,F,149,,Barrington Street,,Manchester
+2021-09-17,126500,M11 2AJ,S,N,F,17,,Herne Street,,Manchester
+2021-09-15,221000,M11 1PQ,T,N,F,11,,Dobson Street,,Manchester
+2021-09-13,260000,M11 1HH,T,N,F,1503,,Ashton Old Road,,Manchester
+2021-09-09,254000,M11 3NE,S,N,L,41,,Athletes Way,Beswick,Manchester
+2021-09-03,155000,M11 4PG,T,N,F,28,,Seymour Road South,,Manchester
+2021-08-27,130000,M11 4GY,S,N,F,67,,Powell Street,Clayton,Manchester
+2021-08-27,174950,M11 4GT,T,N,F,920,,Ashton New Road,,Manchester
+2021-08-27,125000,M11 4GA,T,N,F,39,,Powell Street,Clayton,Manchester
+2021-08-27,125000,M11 4AF,F,N,L,2,Apartment 29,The Waterfront,Openshaw,Manchester
+2021-08-27,175000,M11 1GF,T,N,L,37,,Aldermoor Close,,Manchester
+2021-08-26,134500,M11 4RR,S,N,F,61,,Vale Street,,Manchester
+2021-08-20,205000,M11 3NH,T,N,L,11,,Wren Way,,Manchester
+2021-08-20,167500,M11 1GF,S,N,L,11,,Aldermoor Close,,Manchester
+2021-08-18,125000,M11 4FX,T,N,F,78,,Ranelagh Street,,Manchester
+2021-08-18,148000,M11 4EQ,T,N,F,11,,Pioneer Street,,Manchester
+2021-08-13,180000,M11 4DN,F,N,L,34,,Stuart Street,,Manchester
+2021-08-12,157000,M11 1HS,T,N,L,12,,Manshaw Road,,Manchester
+2021-08-11,120000,M11 1HZ,T,N,F,60,,Neston Street,,Manchester
+2021-08-09,173000,M11 4NY,S,N,L,337,,North Road,,Manchester
+2021-08-09,270000,M11 3BH,T,N,L,1,,Olympic Street,,Manchester
+2021-08-06,200000,M11 2LS,T,N,F,11,,Paprika Close,,Manchester
+2021-08-06,90000,M11 1AR,T,N,F,88,,Cheadle Street,,Manchester
+2021-08-03,136500,M11 4PR,T,N,F,80,,Seymour Road South,,Manchester
+2021-08-03,103250,M11 1NA,T,N,F,2,,Ketton Close,,Manchester
+2021-07-30,170000,M11 3TW,T,N,F,48,,Hartwell Close,,Manchester
+2021-07-30,240000,M11 3NE,T,N,L,40,,Athletes Way,Beswick,Manchester
+2021-07-30,175000,M11 1HY,T,N,F,1,,Oxton Street,,Manchester
+2021-07-30,179995,M11 1HJ,T,Y,F,1439,,Ashton Old Road,,Manchester
+2021-07-29,230000,M11 1ET,S,N,F,12,,Silverdale Street,,Manchester
+2021-07-26,156000,M11 4GG,T,N,F,5,,Ravensbury Street,,Manchester
+2021-07-23,245000,M11 1PL,T,N,F,9,,Upton Street,,Manchester
+2021-07-15,128500,M11 4WG,S,N,F,18,,Vale Street,,Manchester
+2021-07-12,150000,M11 4JF,T,N,F,24,,Himley Road,,Manchester
+2021-07-09,191000,M11 1HZ,T,N,F,64,,Neston Street,,Manchester
+2021-07-08,216500,M11 3DH,T,N,L,23,,Aldridge Road,,Manchester
+2021-07-07,110000,M11 4RT,T,N,F,170,,Stanton Street,,Manchester
+2021-07-02,226000,M11 3BY,S,N,L,9,,Metcombe Way,,Manchester
+2021-06-30,110000,M11 3LP,F,N,L,1,Flat 26,Barleywood Drive,,Manchester
+2021-06-30,238000,M11 3BN,T,N,L,10,,Holly Street,,Manchester
+2021-06-30,195000,M11 2DJ,F,N,L,"Campbell House, 403",Apartment 30,Ashton Old Road,,Manchester
+2021-06-29,150000,M11 1HT,T,N,L,17,,Hobson Street,,Manchester
+2021-06-29,285000,M11 1HN,S,N,F,1540,,Ashton Old Road,,Manchester
+2021-06-28,335000,M11 4LE,S,N,L,150,,North Road,,Manchester
+2021-06-25,274995,M11 1HJ,T,Y,F,1453,,Ashton Old Road,,Manchester
+2021-06-25,179995,M11 1HJ,T,Y,F,1445,,Ashton Old Road,,Manchester
+2021-06-25,179995,M11 1HJ,T,Y,F,1433,,Ashton Old Road,,Manchester
+2021-06-24,98000,M11 4HB,S,N,F,5,,Strathfield Drive,,Manchester
+2021-06-24,190000,M11 3TR,S,N,F,20,,Wynne Close,,Manchester
+2021-06-24,240000,M11 3NJ,T,N,L,10,,Lloyd Wright Avenue,,Manchester
+2021-06-18,170000,M11 4NF,T,N,F,173,,North Road,,Manchester
+2021-06-11,110000,M11 4LW,T,N,L,7,,Bristowe Street,,Manchester
+2021-06-11,274000,M11 1HH,S,N,F,1463,,Ashton Old Road,,Manchester
+2021-06-11,157000,M11 1GJ,T,N,L,107,,Louisa Street,,Manchester
+2021-06-10,275000,M11 3NU,S,N,L,2,,Commonwealth Avenue,,Manchester
+2021-06-07,110500,M11 1WT,S,N,F,70,,Ackroyd Street,,Manchester
+2021-06-04,225000,M11 3NN,T,N,L,41,,Commonwealth Avenue,,Manchester
+2021-06-04,232000,M11 1WP,S,N,F,12,,Varna Street,,Manchester
+2021-06-02,115000,M11 4PS,T,N,F,113,,Seymour Road South,,Manchester
+2021-05-28,164200,M11 4AY,F,N,L,6,Apartment 30,The Waterfront,,Manchester
+2021-05-28,267995,M11 1HJ,D,Y,F,1431,,Ashton Old Road,,Manchester
+2021-05-21,141000,M11 4WH,T,N,F,30,,Clayton Hall Road,,Manchester
+2021-05-21,96000,M11 2DJ,F,N,L,"Campbell House, 403",Apartment 1,Ashton Old Road,,Manchester
+2021-05-21,209995,M11 1HJ,T,Y,F,1443,,Ashton Old Road,,Manchester
+2021-05-21,209995,M11 1HJ,T,Y,F,1441,,Ashton Old Road,,Manchester
+2021-05-21,209995,M11 1HJ,T,Y,F,1437,,Ashton Old Road,,Manchester
+2021-05-21,137500,M11 1HG,T,N,L,12,,Hartshead Close,,Manchester
+2021-05-19,106032,M11 4AU,F,N,L,4,Apartment 6,The Waterfront,,Manchester
+2021-05-17,137500,M11 4WJ,T,N,F,22,,Walsden Street,,Manchester
+2021-05-17,132550,M11 4WH,T,N,F,12,,Clayton Hall Road,,Manchester
+2021-05-14,156000,M11 4GS,T,N,F,811,,Ashton New Road,,Manchester
+2021-05-14,125000,M11 1NH,S,N,F,17,,Brinklow Close,,Manchester
+2021-05-14,209995,M11 1HJ,T,Y,F,1447,,Ashton Old Road,,Manchester
+2021-05-14,145000,M11 1GS,T,N,L,21,,Ashbrook Street,Openshaw,Manchester
+2021-05-07,168000,M11 4DQ,T,N,F,11,,Stuart Street,,Manchester
+2021-05-07,184995,M11 1HJ,T,Y,F,1451,,Ashton Old Road,,Manchester
+2021-05-07,217995,M11 1HJ,T,Y,F,1449,,Ashton Old Road,,Manchester
+2021-05-06,165000,M11 1NA,T,N,F,58,,Ketton Close,,Manchester
+2021-05-04,202000,M11 3DN,T,N,L,5,,Burcot Road,,Manchester
+2021-04-30,125100,M11 4RD,T,N,F,10,,Coatbridge Street,,Manchester
+2021-04-30,165000,M11 4PH,T,N,F,2,,Arbroath Street,,Manchester
+2021-04-30,118000,M11 4FX,T,N,F,66,,Ranelagh Street,,Manchester
+2021-04-30,140000,M11 4BF,D,N,L,2,,Thirsfield Drive,,Manchester
+2021-04-30,265000,M11 3NJ,F,N,L,2,,Lloyd Wright Avenue,,Manchester
+2021-04-29,207995,M11 1JT,T,Y,F,1359,,Ashton Old Road,,Manchester
+2021-04-28,180000,M11 4DU,T,N,L,33,,Stuart Street,,Manchester
+2021-04-23,130000,M11 4QZ,T,N,F,45,,Coatbridge Street,,Manchester
+2021-04-23,209995,M11 1HJ,T,Y,F,1435,,Ashton Old Road,,Manchester
+2021-04-19,103000,M11 4HR,T,N,F,68,,Clayton Street,,Manchester
+2021-04-16,62000,M11 4TE,F,N,L,3,Flat 330,Stillwater Drive,,Manchester
+2021-04-15,81500,M11 2AP,T,N,L,34,,Colliery Street,,Manchester
+2021-04-09,144000,M11 1JY,T,N,F,46,,Delamere Street,,Manchester
+2021-04-06,125000,M11 4PT,T,N,F,30,,Glenolden Street,,Manchester
+2021-04-06,225000,M11 3NB,S,N,L,5,,Stadium Drive,,Manchester
+2021-04-01,185000,M11 2LS,S,N,F,34,,Paprika Close,,Manchester
+2021-04-01,100000,M11 2JJ,T,N,L,39,,Meech Street,,Manchester
+2021-04-01,154000,M11 1HY,T,N,F,9,,Oxton Street,,Manchester
+2021-03-31,145000,M11 4WH,T,N,F,36,,Clayton Hall Road,,Manchester
+2021-03-31,129950,M11 4PW,T,N,F,47,,Dargai Street,,Manchester
+2021-03-31,215000,M11 1LZ,S,N,F,23,,Malford Street,,Manchester
+2021-03-26,40000,M11 4SJ,T,N,F,33,,Stokes Street,,Manchester
+2021-03-26,230000,M11 3NP,S,N,L,35,,Rylance Street,,Manchester
+2021-03-26,246000,M11 3DN,T,N,L,13,,Burcot Road,,Manchester
+2021-03-26,169000,M11 3BG,S,N,L,8,,Dysart Street,,Manchester
+2021-03-26,170000,M11 1GW,S,N,L,4,,Evington Avenue,Openshaw,Manchester
+2021-03-25,267000,M11 1HH,S,N,F,1493,,Ashton Old Road,,Manchester
+2021-03-23,80000,M11 4HG,S,N,L,12,,Homebury Drive,,Manchester
+2021-03-23,93000,M11 4FL,T,N,F,65,,Ilford Street,,Manchester
+2021-03-19,42500,M11 4NH,T,N,L,33,,Stanton Street,,Manchester
+2021-03-19,100000,M11 1AX,S,N,F,127,,Eastern By Pass,,Manchester
+2021-03-18,225000,M11 3BH,T,N,L,17,,Olympic Street,,Manchester
+2021-03-16,260000,M11 1HH,S,N,F,1461,,Ashton Old Road,,Manchester
+2021-03-15,305000,M11 3DH,S,N,L,12,,Aldridge Road,,Manchester
+2021-03-15,171995,M11 1FQ,T,Y,F,13,,Alpha Street,,Manchester
+2021-03-12,135000,M11 4PW,T,N,F,31,,Dargai Street,,Manchester
+2021-03-12,171995,M11 1ER,T,Y,F,15,,Gransmoor Road,,Manchester
+2021-03-10,228000,M11 3DN,T,N,L,21,,Burcot Road,,Manchester
+2021-03-08,130000,M11 4PT,T,N,F,46,,Glenolden Street,,Manchester
+2021-03-05,203000,M11 2LR,T,N,F,133,,Ogden Lane,,Manchester
+2021-03-05,210000,M11 1PN,S,N,F,6,,Mossfield Street,,Manchester
+2021-03-05,171995,M11 1JT,T,Y,F,1357,,Ashton Old Road,,Manchester
+2021-03-05,165000,M11 1HT,T,N,L,9,,Hobson Street,,Manchester
+2021-03-02,88000,M11 4WT,T,N,F,16,,Tottington Street,,Manchester
+2021-03-01,166000,M11 4GY,S,N,F,62,,Powell Street,Clayton,Manchester
+2021-03-01,165000,M11 1LZ,S,N,F,22,,Malford Street,,Manchester
+2021-02-26,150000,M11 4DU,T,N,L,37,,Stuart Street,,Manchester
+2021-02-26,171995,M11 1PS,T,Y,F,14,,Reginald Street,,Manchester
+2021-02-19,125000,M11 4TF,F,N,L,5,Flat 536,Stillwater Drive,,Manchester
+2021-02-19,194995,M11 1FQ,T,Y,F,22,,Alpha Street,,Manchester
+2021-02-18,172500,M11 1JY,S,N,F,40,,Delamere Street,,Manchester
+2021-02-17,110000,M11 4ED,T,N,F,174,,Barrington Street,,Manchester
+2021-02-12,145450,M11 4NS,T,N,F,15,,Goldenhill Avenue,,Manchester
+2021-02-12,250995,M11 1PS,S,Y,F,10,,Reginald Street,,Manchester
+2021-02-12,192000,M11 1LZ,S,N,F,18,,Malford Street,,Manchester
+2021-02-12,207995,M11 1GN,S,Y,F,54,,Silverlace Avenue,,Manchester
+2021-02-09,75000,M11 2JT,T,N,L,17,,Connie Street,,Manchester
+2021-02-05,85000,M11 2JT,T,N,L,28,,Connie Street,,Manchester
+2021-02-05,250995,M11 1ER,S,Y,F,9,,Gransmoor Road,,Manchester
+2021-02-02,125000,M11 1JY,T,N,F,12,,Delamere Street,,Manchester
+2021-02-02,128000,M11 1JE,T,N,L,25,,Silverlace Avenue,,Manchester
+2021-01-29,145000,M11 4EW,T,N,F,19,,Ben Street,,Manchester
+2021-01-29,230000,M11 3NL,T,N,L,34,,Paxton Place,,Manchester
+2021-01-29,250995,M11 1GN,S,Y,F,62,,Silverlace Avenue,,Manchester
+2021-01-29,207995,M11 1GN,S,Y,F,56,,Silverlace Avenue,,Manchester
+2021-01-29,191995,M11 1ER,T,Y,F,13,,Gransmoor Road,,Manchester
+2021-01-29,261995,M11 1ER,S,Y,F,11,,Gransmoor Road,,Manchester
+2021-01-26,103500,M11 1HN,S,N,F,1540,,Ashton Old Road,,Manchester
+2021-01-22,125000,M11 4LX,T,N,F,16,,Second Avenue,,Manchester
+2021-01-22,67000,M11 2GX,S,N,F,4,,Elrick Walk,Openshaw,Manchester
+2021-01-22,194995,M11 1PS,T,Y,F,12,,Reginald Street,,Manchester
+2021-01-22,250995,M11 1GN,S,Y,F,60,,Silverlace Avenue,,Manchester
+2021-01-22,204995,M11 1GN,S,Y,F,58,,Silverlace Avenue,,Manchester
+2021-01-22,204995,M11 1FQ,S,Y,F,19,,Alpha Street,,Manchester
+2021-01-22,191995,M11 1ER,T,Y,F,17,,Gransmoor Road,,Manchester
+2021-01-21,105000,M11 1LJ,T,N,F,28,,Vine Street,,Manchester
+2021-01-15,130000,M11 4HU,S,N,F,124,,Clayton Street,,Manchester
+2021-01-15,208500,M11 3NE,T,N,L,8,,Athletes Way,Beswick,Manchester
+2021-01-11,215000,M11 2EN,S,N,F,77,,Cornwall Street,,Manchester
+2021-01-08,84100,M11 2EU,T,N,F,22,,Bartlett Street,,Manchester

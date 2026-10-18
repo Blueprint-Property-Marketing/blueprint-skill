@@ -1,0 +1,820 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-07-30,380000,B47 5PH,T,N,F,12,,Lint Meadow,Hollywood,Birmingham
+2026-07-28,405000,B47 5LN,S,N,F,8,,Easton Grove,Hollywood,Birmingham
+2026-07-17,360000,B47 5LJ,S,N,F,39,,Dyas Road,Hollywood,Birmingham
+2026-07-15,370000,B47 5JZ,S,N,F,64,,Douglas Road,Hollywood,Birmingham
+2026-07-14,285000,B47 6AX,T,N,F,28,,Wilfred Mews,Wythall,Birmingham
+2026-07-10,615000,B47 6JH,D,N,F,6,,Gorsey Lane,Wythall,Birmingham
+2026-07-10,165000,B47 6EW,F,N,L,7,,Innisfree Close,Wythall,Birmingham
+2026-07-01,260000,B47 5JA,S,N,F,7,,The Close,Hollywood,Birmingham
+2026-06-30,500000,B47 6BU,D,N,F,60,,Barkers Lane,Wythall,Birmingham
+2026-06-26,687500,B47 5RD,D,N,F,2,,Bramley Drive,Hollywood,Birmingham
+2026-06-25,235000,B47 5NX,T,N,F,37,,May Lane,Hollywood,Birmingham
+2026-06-18,365000,B47 6EG,S,N,F,49,,Meadow Road,Wythall,Birmingham
+2026-06-09,745000,B47 5QX,D,N,F,4,,Sycamore Drive,Hollywood,Birmingham
+2026-06-09,325000,B47 5JJ,S,N,F,12,,Coppice Gardens,Hollywood,Birmingham
+2026-05-29,425000,B47 5JS,D,N,F,10,,Forest Way,Hollywood,Birmingham
+2026-05-27,212000,B47 6LN,F,N,L,Silvermead Court,1,Silver Street,Wythall,Birmingham
+2026-05-22,600000,B47 5RJ,D,N,F,8,,Hazel Drive,Hollywood,Birmingham
+2026-05-22,409000,B47 5QA,T,N,L,32,,Windrush Road,Hollywood,Birmingham
+2026-05-22,530000,B47 5JT,D,N,F,2,,Holly Drive,Hollywood,Birmingham
+2026-05-15,278000,B47 5RW,T,N,F,10,,Rowan Close,Hollywood,Birmingham
+2026-05-15,460000,B47 5JY,D,N,F,23,,Douglas Road,Hollywood,Birmingham
+2026-05-01,405500,B47 5RL,S,N,F,24,,Cherry Walk,Hollywood,Birmingham
+2026-04-30,565000,B47 6AW,D,N,F,16,,Hastings Close,Wythall,Birmingham
+2026-04-30,265000,B47 5DL,T,N,F,9,,Oakwood Road,Hollywood,Birmingham
+2026-04-29,270000,B47 6AT,T,N,F,4,,Burnham Road,Wythall,Birmingham
+2026-04-29,580000,B47 6AG,D,N,F,131,,Station Road,Wythall,Birmingham
+2026-04-28,485000,B47 6LZ,D,N,F,8,,Silver Street,Wythall,Birmingham
+2026-04-28,428000,B47 5LG,S,N,F,2,,Kenway,Hollywood,Birmingham
+2026-04-28,251000,B47 5JG,T,N,F,14,,Mynors Crescent,Hollywood,Birmingham
+2026-04-27,540000,B47 5QD,D,N,F,2,,Richmond Close,Hollywood,Birmingham
+2026-04-24,435000,B47 5HQ,D,N,F,220,,Alcester Road,Hollywood,Birmingham
+2026-04-23,373000,B47 6AD,S,N,F,9,,Green Close,Wythall,Birmingham
+2026-04-10,460000,B47 6JP,D,N,F,"Yew Tree House, 1A",,Chapel Drive,Wythall,Birmingham
+2026-04-10,730000,B47 5NB,D,N,F,46,,Alcester Road,Hollywood,Birmingham
+2026-04-02,325000,B47 5DR,T,N,F,9,,Beaudesert Close,Hollywood,Birmingham
+2026-03-30,390000,B47 5QJ,T,N,F,86,,Hollywood Lane,Hollywood,Birmingham
+2026-03-30,477500,B47 5PT,D,N,F,21,,Hollywood Lane,Hollywood,Birmingham
+2026-03-27,420000,B47 5QQ,D,N,F,5,,Lime Close,Hollywood,Birmingham
+2026-03-27,365000,B47 5QG,T,N,F,29,,Mayhurst Road,Hollywood,Birmingham
+2026-03-27,540000,B47 5NR,D,N,F,137,,Alcester Road,Hollywood,Birmingham
+2026-03-26,270000,B47 5QW,T,N,F,19,,Laburnum Close,Hollywood,Birmingham
+2026-03-24,230000,B47 5QA,T,N,L,65,,Windrush Road,Hollywood,Birmingham
+2026-03-11,552000,B47 6JQ,D,N,F,3,,Church Close,Wythall,Birmingham
+2026-03-05,435000,B47 5QX,D,N,F,42,,Sycamore Drive,Hollywood,Birmingham
+2026-03-05,412000,B47 5PU,D,N,F,24,,Lynbrook Close,Hollywood,Birmingham
+2026-02-26,425000,B47 6AB,T,N,L,70,,Station Road,Wythall,Birmingham
+2026-02-20,400000,B47 6EQ,S,N,F,119,,Meadow Road,Wythall,Birmingham
+2026-02-20,410000,B47 6AS,D,N,F,107,,Burnham Road,Wythall,Birmingham
+2026-02-20,295000,B47 5QL,S,N,F,1,,Wythwood Road,Hollywood,Birmingham
+2026-02-19,280000,B47 6AS,S,N,F,19,,Burnham Road,Wythall,Birmingham
+2026-02-13,202000,B47 5QA,T,N,L,48,,Windrush Road,Hollywood,Birmingham
+2026-02-11,310500,B47 5BW,S,N,F,3,,Woodleaves,Hollywood,Birmingham
+2026-02-10,375000,B47 5JZ,S,N,F,46,,Douglas Road,Hollywood,Birmingham
+2026-02-09,324000,B47 5HQ,D,N,F,186,,Alcester Road,Hollywood,Birmingham
+2026-02-06,350000,B47 5NL,S,N,F,3,,Alcester Road,Hollywood,Birmingham
+2026-02-02,360000,B47 5LH,S,N,F,8,,Simon Road,Hollywood,Birmingham
+2026-01-30,175000,B47 6AH,T,N,L,18,,Butterworth Close,Wythall,Birmingham
+2026-01-28,290000,B47 6AX,S,N,F,4,,Wilfred Mews,Wythall,Birmingham
+2026-01-28,290000,B47 6AX,S,N,L,4,,Wilfred Mews,Wythall,Birmingham
+2026-01-23,355000,B47 6HB,T,N,F,16,,The Spinney,Wythall,Birmingham
+2026-01-22,325000,B47 5NP,D,N,F,69,,Alcester Road,Hollywood,Birmingham
+2026-01-20,200000,B47 5NR,T,N,F,75,,Alcester Road,Hollywood,Birmingham
+2026-01-16,362500,B47 6EG,S,N,F,57,,Meadow Road,Wythall,Birmingham
+2026-01-16,393000,B47 5RB,T,N,F,32,,Silver Birch Drive,Hollywood,Birmingham
+2026-01-16,290000,B47 5DL,T,N,F,5,,Oakwood Road,Hollywood,Birmingham
+2026-01-15,500000,B47 5QW,D,N,F,7,,Laburnum Close,Hollywood,Birmingham
+2026-01-15,325000,B47 5NN,D,N,F,4,,Hollywood Gardens,Hollywood,Birmingham
+2025-12-19,350000,B47 6AA,D,N,F,4,,Station Road,Wythall,Birmingham
+2025-12-19,415000,B47 5LD,S,N,F,2,,Alveston Road,Hollywood,Birmingham
+2025-12-18,343000,B47 6ES,S,N,F,200,,Station Road,Wythall,Birmingham
+2025-12-18,350000,B47 5NN,S,N,F,11A,,Hollywood Gardens,Hollywood,Birmingham
+2025-12-18,312000,B47 5DJ,T,N,F,21,,Arden Road,Hollywood,Birmingham
+2025-12-17,452500,B47 5JY,S,N,F,19,,Douglas Road,Hollywood,Birmingham
+2025-12-12,500000,B47 5QE,S,N,F,9,,Truemans Heath Lane,Hollywood,Birmingham
+2025-12-11,318000,B47 5QG,T,N,F,17,,Mayhurst Road,Hollywood,Birmingham
+2025-12-10,395000,B47 6HE,S,N,F,4,,Lea Green Lane,Wythall,Birmingham
+2025-12-04,402000,B47 5EP,S,N,F,34,,Falstaff Avenue,Hollywood,Birmingham
+2025-11-28,555000,B47 6LH,D,N,F,7,,Wilmore Lane,Wythall,Birmingham
+2025-11-28,196500,B47 5PY,S,N,F,64,,Hollywood Lane,Hollywood,Birmingham
+2025-11-27,510000,B47 6JP,D,N,F,6,,Chapel Drive,Wythall,Birmingham
+2025-11-21,380000,B47 6EQ,S,N,F,113,,Meadow Road,Wythall,Birmingham
+2025-11-21,222500,B47 5HZ,S,N,F,2B,,Woodrush Drive,Hollywood,Birmingham
+2025-11-20,435000,B47 6AE,T,N,F,140,,Station Road,Wythall,Birmingham
+2025-11-19,370000,B47 5LH,D,N,F,41,,Simon Road,Hollywood,Birmingham
+2025-11-17,442000,B47 5LS,S,N,F,3,,Fenton Road,Hollywood,Birmingham
+2025-11-14,425000,B47 6EL,S,N,F,12,,Manor Road,Wythall,Birmingham
+2025-11-14,427500,B47 5JZ,S,N,F,22,,Douglas Road,Hollywood,Birmingham
+2025-11-10,275000,B47 5HZ,T,N,F,3,,Woodrush Drive,Hollywood,Birmingham
+2025-11-07,337500,B47 6EW,D,N,F,15,,Innisfree Close,Wythall,Birmingham
+2025-11-06,265000,B47 5RW,S,N,F,22,,Rowan Close,Hollywood,Birmingham
+2025-10-31,305000,B47 5NN,D,N,F,6,,Hollywood Gardens,Hollywood,Birmingham
+2025-10-31,485500,B47 5JQ,D,N,F,4,,Shawhurst Gardens,Hollywood,Birmingham
+2025-10-31,243000,B47 5HZ,T,N,F,10,,Woodrush Drive,Hollywood,Birmingham
+2025-10-31,425000,B47 5EN,D,N,F,10,,Chesterwood,Hollywood,Birmingham
+2025-10-31,350000,B47 5DY,D,N,F,61,,Oakwood Road,Hollywood,Birmingham
+2025-10-28,340000,B47 6EW,T,N,F,21,,Innisfree Close,Wythall,Birmingham
+2025-10-28,395000,B47 5LL,D,N,F,1A,,Corbett Road,Hollywood,Birmingham
+2025-10-27,450000,B47 5LB,D,N,F,67,,Douglas Road,Hollywood,Birmingham
+2025-10-23,190000,B47 6LN,F,N,L,Silvermead Court,2,Silver Street,Wythall,Birmingham
+2025-10-22,400000,B47 5LJ,D,N,F,55,,Dyas Road,Hollywood,Birmingham
+2025-10-21,535000,B47 6AT,D,N,F,34,,Burnham Road,Wythall,Birmingham
+2025-10-20,315000,B47 5QA,T,N,F,33,,Windrush Road,Hollywood,Birmingham
+2025-10-14,680000,B47 5QT,D,N,F,8,,Hawthorne Drive,Hollywood,Birmingham
+2025-10-10,380000,B47 6LZ,S,N,F,88,,Silver Street,Wythall,Birmingham
+2025-10-10,354000,B47 5JN,S,N,F,164,,Shawhurst Lane,Hollywood,Birmingham
+2025-10-07,355000,B47 5LJ,S,N,F,35,,Dyas Road,Hollywood,Birmingham
+2025-10-02,698657,B47 6LX,T,N,F,Houndsfield Court,2,Houndsfield Lane,Wythall,Birmingham
+2025-09-26,265000,B47 6AX,T,N,F,26,,Wilfred Mews,Wythall,Birmingham
+2025-09-26,535000,B47 5JN,D,N,F,170,,Shawhurst Lane,Hollywood,Birmingham
+2025-09-26,465000,B47 5HQ,S,N,F,182B,,Alcester Road,Hollywood,Birmingham
+2025-09-05,415000,B47 6HG,T,N,F,9,,Three Oaks Road,Wythall,Birmingham
+2025-09-05,550000,B47 5LJ,D,N,F,17,,Dyas Road,Hollywood,Birmingham
+2025-09-04,570000,B47 5BT,D,N,F,16,,Dark Lane,Hollywood,Birmingham
+2025-08-29,376140,B47 6EP,S,N,F,18,,Ann Road,Wythall,Birmingham
+2025-08-29,300000,B47 6AY,S,N,F,2,,Bunny Court,Wythall,Birmingham
+2025-08-29,285000,B47 5HN,T,N,F,7,,Simms Lane,Hollywood,Birmingham
+2025-08-26,360000,B47 6EW,T,N,F,16,,Innisfree Close,Wythall,Birmingham
+2025-08-22,390000,B47 6AS,D,N,F,95,,Burnham Road,Wythall,Birmingham
+2025-08-20,790000,B47 6HE,D,N,F,15,,Lea Green Lane,Wythall,Birmingham
+2025-08-20,525000,B47 6EP,S,N,F,11,,Ann Road,Wythall,Birmingham
+2025-08-20,343000,B47 5ER,T,N,F,19,,Pearmans Croft,Hollywood,Birmingham
+2025-08-18,130000,B47 6AX,S,N,L,2,,Wilfred Mews,Wythall,Birmingham
+2025-08-18,557500,B47 6AT,D,N,F,58,,Burnham Road,Wythall,Birmingham
+2025-08-18,230500,B47 5HJ,T,N,F,313,,Alcester Road,Hollywood,Birmingham
+2025-08-15,410000,B47 5LE,S,N,F,26,,Dyas Road,Hollywood,Birmingham
+2025-08-15,310000,B47 5JP,S,N,F,109,,Shawhurst Lane,Hollywood,Birmingham
+2025-08-07,450000,B47 6LH,D,N,F,21,,Wilmore Lane,Wythall,Birmingham
+2025-08-07,150000,B47 6JL,T,N,L,399,,Alcester Road,Wythall,Birmingham
+2025-08-04,420000,B47 5PU,D,N,L,8,,Lynbrook Close,Hollywood,Birmingham
+2025-08-01,270000,B47 6LN,F,N,L,Silvermead Court,21,Silver Street,Wythall,Birmingham
+2025-08-01,275000,B47 5LP,S,N,L,39,,Corbett Road,Hollywood,Birmingham
+2025-07-31,650000,B47 6BA,D,N,F,Pitcroft Cottage,,Tanners Green Lane,Wythall,Birmingham
+2025-07-31,425000,B47 5PE,S,N,F,2,,Warmington Road,Hollywood,Birmingham
+2025-07-31,365000,B47 5PB,D,N,F,14,,Shawhurst Croft,Hollywood,Birmingham
+2025-07-31,395000,B47 5LJ,S,N,L,50,,Dyas Road,Hollywood,Birmingham
+2025-07-11,370000,B47 5LR,S,N,F,29,,Heath Road,Hollywood,Birmingham
+2025-07-03,330000,B47 5BW,S,N,F,19,,Woodleaves,Hollywood,Birmingham
+2025-06-27,306450,B47 6HB,S,N,F,5,,The Spinney,Wythall,Birmingham
+2025-06-26,377000,B47 5QG,S,N,F,22,,Mayhurst Road,Hollywood,Birmingham
+2025-06-26,452500,B47 5LH,D,N,F,11,,Simon Road,Hollywood,Birmingham
+2025-06-20,325000,B47 5LP,S,N,F,12,,Corbett Road,Hollywood,Birmingham
+2025-06-17,485000,B47 6JL,S,N,F,389,,Alcester Road,Wythall,Birmingham
+2025-06-17,525000,B47 5JQ,D,N,F,5,,Shawhurst Gardens,Hollywood,Birmingham
+2025-06-09,285000,B47 5HY,D,N,F,50,,Simms Lane,Hollywood,Birmingham
+2025-06-06,295000,B47 5JZ,S,N,F,76,,Douglas Road,Hollywood,Birmingham
+2025-06-04,350000,B47 5PX,T,N,F,22,,Hollywood Lane,Hollywood,Birmingham
+2025-05-29,325000,B47 5DP,S,N,F,41,,Beaudesert Road,Hollywood,Birmingham
+2025-05-27,415000,B47 6EQ,D,N,F,84,,Meadow Road,Wythall,Birmingham
+2025-05-16,365000,B47 6EQ,S,N,F,103,,Meadow Road,Wythall,Birmingham
+2025-05-16,365000,B47 6EQ,S,N,F,103,,Meadow Road,Wythall,Birmingham
+2025-05-06,557500,B47 6EQ,S,N,F,123,,Meadow Road,Wythall,Birmingham
+2025-05-06,520000,B47 5PS,S,N,F,12,,Hollywood Drive,Hollywood,Birmingham
+2025-05-02,675000,B47 6AX,D,N,F,7,,Wilfred Mews,Wythall,Birmingham
+2025-04-29,275000,B47 5QW,T,N,F,27,,Laburnum Close,Hollywood,Birmingham
+2025-04-29,305000,B47 5DJ,S,N,F,18,,Arden Road,Hollywood,Birmingham
+2025-04-11,240000,B47 5RD,T,N,F,29,,Bramley Drive,Hollywood,Birmingham
+2025-03-31,237500,B47 6LN,F,N,L,Silvermead Court,23,Silver Street,Wythall,Birmingham
+2025-03-31,192500,B47 6HJ,F,N,L,"Beech House, 10",Flat 3,Fulford Close,Wythall,Birmingham
+2025-03-31,405000,B47 6HA,S,N,F,39,,Norton Lane,Wythall,Birmingham
+2025-03-31,350000,B47 5LR,S,N,F,6,,Heath Road,Hollywood,Birmingham
+2025-03-28,360000,B47 6EQ,S,N,F,62,,Meadow Road,Wythall,Birmingham
+2025-03-28,375000,B47 6EP,S,N,L,52,,Ann Road,Wythall,Birmingham
+2025-03-28,280000,B47 6EJ,S,N,F,1,,School Drive,Wythall,Birmingham
+2025-03-28,515000,B47 6AQ,D,N,F,10,,Morrey Close,Wythall,Birmingham
+2025-03-28,400000,B47 5LU,D,N,F,4,,Chantry Close,Hollywood,Birmingham
+2025-03-28,270000,B47 5HN,T,N,F,4,,Simms Lane,Hollywood,Birmingham
+2025-03-28,440000,B47 5BT,S,N,F,78,,Dark Lane,Hollywood,Birmingham
+2025-03-27,375000,B47 5NE,T,N,F,24,,Alcester Road,Hollywood,Birmingham
+2025-03-27,500000,B47 5EB,D,N,F,38,,Paddocks Road,Hollywood,Birmingham
+2025-03-24,590000,B47 6EX,D,N,F,9,,Littleshaw Croft,Wythall,Birmingham
+2025-03-24,670000,B47 5QX,D,N,F,70,,Sycamore Drive,Hollywood,Birmingham
+2025-03-24,350000,B47 5LP,S,N,F,65,,Corbett Road,Hollywood,Birmingham
+2025-03-21,114000,B47 6AY,T,N,L,3,,Bunny Court,Wythall,Birmingham
+2025-03-21,430000,B47 6AW,D,N,F,11,,Hastings Close,Wythall,Birmingham
+2025-03-21,525000,B47 5HE,D,N,L,189,,Alcester Road,Hollywood,Birmingham
+2025-03-17,295000,B47 6LE,T,N,L,1,,Houndsfield Mews,Wythall,Birmingham
+2025-03-14,338000,B47 5QA,T,N,F,74,,Windrush Road,Hollywood,Birmingham
+2025-03-14,350000,B47 5QA,S,N,F,7,,Windrush Road,Hollywood,Birmingham
+2025-03-13,154000,B47 6HD,F,N,L,7,,Lea Green Drive,Wythall,Birmingham
+2025-03-13,413000,B47 6HB,S,N,F,11,,The Spinney,Wythall,Birmingham
+2025-03-13,490000,B47 5QE,S,N,F,35,,Truemans Heath Lane,Hollywood,Birmingham
+2025-03-12,710000,B47 6ER,D,N,F,74,,Gorsey Lane,Wythall,Birmingham
+2025-03-12,460000,B47 5LL,S,N,F,9,,Corbett Road,Hollywood,Birmingham
+2025-03-12,320000,B47 5JS,T,N,F,1,,Forest Way,Hollywood,Birmingham
+2025-03-12,265000,B47 5HN,T,N,F,12,,Simms Lane,Hollywood,Birmingham
+2025-03-11,315000,B47 6AA,D,N,F,2,,Station Road,Wythall,Birmingham
+2025-03-07,430000,B47 6AS,D,N,F,141,,Burnham Road,Wythall,Birmingham
+2025-03-07,345000,B47 5DP,D,N,L,32,,Beaudesert Road,Hollywood,Birmingham
+2025-03-03,580000,B47 5LJ,D,N,F,19,,Dyas Road,Hollywood,Birmingham
+2025-02-27,345000,B47 5LT,D,N,F,50,,Corbett Road,Hollywood,Birmingham
+2025-02-25,620000,B47 5QU,D,N,F,10,,Wood Croft,Hollywood,Birmingham
+2025-02-25,345000,B47 5DX,T,N,F,86,,Oakwood Road,Hollywood,Birmingham
+2025-02-21,492250,B47 6AB,D,N,F,92,,Station Road,Wythall,Birmingham
+2025-02-21,450000,B47 5NS,S,N,F,82,,Alcester Road,Hollywood,Birmingham
+2025-02-21,440500,B47 5LP,S,N,L,30,,Corbett Road,Hollywood,Birmingham
+2025-02-17,415000,B47 6AL,D,N,F,3,,Franklin Close,Wythall,Birmingham
+2025-02-14,280000,B47 5QJ,S,N,F,108,,Hollywood Lane,Hollywood,Birmingham
+2025-02-14,350000,B47 5QA,T,N,F,46,,Windrush Road,Hollywood,Birmingham
+2025-02-14,415000,B47 5ND,D,N,F,9,,New Road,Hollywood,Birmingham
+2025-02-14,391000,B47 5LR,S,N,F,27,,Heath Road,Hollywood,Birmingham
+2025-02-12,585000,B47 5PU,D,N,F,28,,Lynbrook Close,Hollywood,Birmingham
+2025-02-12,545000,B47 5LS,S,N,F,2,,Fenton Road,Hollywood,Birmingham
+2025-02-12,236000,B47 5JB,S,N,F,63,,Simms Lane,Hollywood,Birmingham
+2025-02-07,174000,B47 6AX,S,N,F,18,,Wilfred Mews,Wythall,Birmingham
+2025-02-07,290000,B47 6AX,S,N,F,18,,Wilfred Mews,Wythall,Birmingham
+2025-02-06,350000,B47 6EP,S,N,F,21,,Ann Road,Wythall,Birmingham
+2025-02-06,368500,B47 5JY,S,N,F,11,,Douglas Road,Hollywood,Birmingham
+2025-02-03,420000,B47 5PY,S,N,F,103,,Hollywood Lane,Hollywood,Birmingham
+2025-02-03,460000,B47 5LD,S,N,F,26,,Alveston Road,Hollywood,Birmingham
+2025-02-03,319250,B47 5BW,S,N,F,24,,Woodleaves,Hollywood,Birmingham
+2025-01-31,360000,B47 6EQ,S,N,F,117,,Meadow Road,Wythall,Birmingham
+2025-01-31,442500,B47 5JZ,S,N,F,16,,Douglas Road,Hollywood,Birmingham
+2025-01-30,235000,B47 5HS,T,N,F,3,,Flax Close,Hollywood,Birmingham
+2025-01-29,670000,B47 6HD,D,N,F,20,,Lea Green Drive,Wythall,Birmingham
+2025-01-16,395000,B47 5LH,S,N,F,24,,Simon Road,Hollywood,Birmingham
+2024-12-20,357000,B47 6AT,S,N,F,38,,Burnham Road,Wythall,Birmingham
+2024-12-19,520000,B47 6HA,D,N,F,16,,Norton Lane,Wythall,Birmingham
+2024-12-19,175000,B47 5HU,S,N,F,21,,Rye Croft,Hollywood,Birmingham
+2024-12-06,357500,B47 5QA,S,N,F,2,,Windrush Road,Hollywood,Birmingham
+2024-12-05,195000,B47 6HJ,F,N,L,"Beech House, 10",Flat 4,Fulford Close,Wythall,Birmingham
+2024-12-05,320100,B47 5QQ,S,N,F,35,,Lime Close,Hollywood,Birmingham
+2024-11-29,500000,B47 5JQ,D,N,F,1,,Shawhurst Gardens,Hollywood,Birmingham
+2024-11-29,325000,B47 5EH,T,N,L,3,,Burford Road,Hollywood,Birmingham
+2024-11-28,670000,B47 6ED,D,N,F,56,,Gorsey Lane,Wythall,Birmingham
+2024-11-26,340000,B47 5PZ,D,N,F,2,,Cropthorne Drive,Hollywood,Birmingham
+2024-11-25,325000,B47 5PH,T,N,F,5,,Lint Meadow,Hollywood,Birmingham
+2024-11-22,430000,B47 5QB,D,N,F,12,,Truemans Heath Lane,Hollywood,Birmingham
+2024-11-18,249000,B47 5HZ,T,N,F,23,,Woodrush Drive,Hollywood,Birmingham
+2024-11-08,450000,B47 5HF,D,N,F,231,,Alcester Road,Hollywood,Birmingham
+2024-11-07,260000,B47 5HL,T,N,F,26,,Shawhurst Lane,Hollywood,Birmingham
+2024-10-31,350000,B47 5JR,S,N,F,189,,Shawhurst Lane,Hollywood,Birmingham
+2024-10-30,407000,B47 6EU,S,N,F,12,,Littleshaw Lane,Wythall,Birmingham
+2024-10-30,740000,B47 6BS,D,N,F,120,,Barkers Lane,Wythall,Birmingham
+2024-10-30,422000,B47 6AL,D,N,F,5,,Franklin Close,Wythall,Birmingham
+2024-10-28,195000,B47 5HR,T,N,F,56,,The Innage,Hollywood,Birmingham
+2024-10-25,535000,B47 6AS,D,N,F,49,,Burnham Road,Wythall,Birmingham
+2024-10-25,295000,B47 5PS,S,N,F,5,,Hollywood Drive,Hollywood,Birmingham
+2024-10-25,370000,B47 5LG,T,N,F,10,,Kenway,Hollywood,Birmingham
+2024-10-18,529950,B47 5QE,D,N,F,41A,,Truemans Heath Lane,Hollywood,Birmingham
+2024-10-18,492500,B47 5PS,S,N,F,14,,Hollywood Drive,Hollywood,Birmingham
+2024-10-11,235000,B47 5QA,T,N,F,68,,Windrush Road,Hollywood,Birmingham
+2024-10-09,362500,B47 5LH,S,N,F,16,,Simon Road,Hollywood,Birmingham
+2024-09-30,550000,B47 6JL,D,N,F,397,,Alcester Road,Wythall,Birmingham
+2024-09-27,175000,B47 6LN,F,N,L,Silvermead Court,17,Silver Street,Wythall,Birmingham
+2024-09-27,357000,B47 5PB,D,N,F,17,,Shawhurst Croft,Hollywood,Birmingham
+2024-09-25,295000,B47 5QW,S,N,F,36,,Laburnum Close,Hollywood,Birmingham
+2024-09-20,377000,B47 6EL,S,N,F,9,,Manor Road,Wythall,Birmingham
+2024-09-19,675000,B47 6AW,D,N,F,17,,Hastings Close,Wythall,Birmingham
+2024-09-19,404000,B47 5NS,T,N,F,76,,Alcester Road,Hollywood,Birmingham
+2024-09-19,365000,B47 5LS,S,N,F,17,,Fenton Road,Hollywood,Birmingham
+2024-09-19,538000,B47 5JJ,S,N,F,6,,Coppice Gardens,Hollywood,Birmingham
+2024-09-19,123000,B47 5HP,F,N,L,19,,Shawfield,Hollywood,Birmingham
+2024-09-17,395000,B47 6AT,D,N,F,2,,Burnham Road,Wythall,Birmingham
+2024-09-16,335000,B47 5QH,T,N,F,10,,Mayhurst Close,Hollywood,Birmingham
+2024-09-16,439000,B47 5NX,D,N,F,51,,May Lane,Hollywood,Birmingham
+2024-09-16,335000,B47 5LP,S,N,F,47,,Corbett Road,Hollywood,Birmingham
+2024-09-13,665000,B47 6JL,D,N,F,383,,Alcester Road,Wythall,Birmingham
+2024-09-13,362000,B47 5LD,S,N,L,12,,Alveston Road,Hollywood,Birmingham
+2024-09-13,362000,B47 5LD,S,N,F,12,,Alveston Road,Hollywood,Birmingham
+2024-09-13,167100,B47 5DN,F,N,L,Laburnum Trees,24,May Farm Close,Hollywood,Birmingham
+2024-09-12,435000,B47 5JG,T,N,F,8,,Mynors Crescent,Hollywood,Birmingham
+2024-09-10,695000,B47 6HN,D,N,F,64,,Lea Green Lane,Wythall,Birmingham
+2024-09-10,252000,B47 5RL,T,N,F,18,,Cherry Walk,Hollywood,Birmingham
+2024-09-10,326500,B47 5LD,D,N,F,22,,Alveston Road,Hollywood,Birmingham
+2024-09-10,465000,B47 5JY,S,N,F,15,,Douglas Road,Hollywood,Birmingham
+2024-09-06,420000,B47 5LH,S,N,F,10,,Simon Road,Hollywood,Birmingham
+2024-09-05,375000,B47 5ER,D,N,F,25,,Pearmans Croft,Hollywood,Birmingham
+2024-09-02,740000,B47 6HH,D,N,F,"Burghley House, 3",,Norton Drive,Wythall,Birmingham
+2024-09-02,313500,B47 5QH,S,N,F,9,,Mayhurst Close,Hollywood,Birmingham
+2024-09-02,343000,B47 5LG,S,N,F,9,,Kenway,Hollywood,Birmingham
+2024-08-30,695000,B47 5QT,D,N,F,37,,Hawthorn Drive,Hollywood,Birmingham
+2024-08-30,435000,B47 5DU,S,N,F,31,,The Hurst,Hollywood,Birmingham
+2024-08-27,350000,B47 6EY,S,N,F,258,,Station Road,Wythall,Birmingham
+2024-08-27,662000,B47 5QX,D,N,F,47,,Sycamore Drive,Hollywood,Birmingham
+2024-08-22,273000,B47 5LT,S,N,F,68,,Corbett Road,Hollywood,Birmingham
+2024-08-19,480000,B47 5LH,D,N,F,19,,Simon Road,Hollywood,Birmingham
+2024-08-19,150000,B47 5DN,F,N,L,Poplar Trees,52,May Farm Close,Hollywood,Birmingham
+2024-08-09,210000,B47 6LN,F,N,L,Silvermead Court,16,Silver Street,Wythall,Birmingham
+2024-08-09,395000,B47 5NR,D,N,F,127A,,Alcester Road,Hollywood,Birmingham
+2024-08-07,375000,B47 6EG,T,N,F,30,,Meadow Road,Wythall,Birmingham
+2024-08-05,464000,B47 5RJ,D,N,F,2,,Hazel Drive,Hollywood,Birmingham
+2024-08-05,800000,B47 5QX,D,N,F,32,,Sycamore Drive,Hollywood,Birmingham
+2024-08-02,425000,B47 5LL,S,N,F,8,,Corbett Road,Hollywood,Birmingham
+2024-07-30,264000,B47 5DL,S,N,F,19,,Oakwood Road,Hollywood,Birmingham
+2024-07-26,425000,B47 5LU,D,N,F,10,,Chantry Close,Hollywood,Birmingham
+2024-07-25,590000,B47 6AB,S,N,F,118,,Station Road,Wythall,Birmingham
+2024-07-25,295000,B47 5QH,S,N,L,4,,Mayhurst Close,Hollywood,Birmingham
+2024-07-23,430000,B47 6JX,D,N,F,4,,Chapel Lane,Wythall,Birmingham
+2024-07-12,495000,B47 5PT,D,N,F,19,,Hollywood Lane,Hollywood,Birmingham
+2024-07-12,275000,B47 5DJ,S,N,F,27,,Arden Road,Hollywood,Birmingham
+2024-07-03,440000,B47 6EG,S,N,F,8,,Meadow Road,Wythall,Birmingham
+2024-06-28,185000,B47 6HD,F,N,L,17,,Lea Green Drive,Wythall,Birmingham
+2024-06-28,380000,B47 5EN,D,N,F,6,,Chesterwood,Hollywood,Birmingham
+2024-06-14,472000,B47 5LL,D,N,F,6,,Corbett Road,Hollywood,Birmingham
+2024-06-14,356000,B47 5ED,D,N,F,20,,Paddocks Road,Hollywood,Birmingham
+2024-06-12,515000,B47 6EP,T,N,F,55,,Ann Road,Wythall,Birmingham
+2024-06-12,550000,B47 5QJ,D,N,F,127,,Hollywood Lane,Hollywood,Birmingham
+2024-06-10,150000,B47 5JB,S,N,F,63,,Simms Lane,Hollywood,Birmingham
+2024-06-06,480000,B47 6JL,D,N,F,377,,Alcester Road,Wythall,Birmingham
+2024-06-06,440000,B47 5QQ,S,N,F,16,,Lime Close,Hollywood,Birmingham
+2024-05-31,310000,B47 5LN,S,N,F,8,,Easton Grove,Hollywood,Birmingham
+2024-05-30,245000,B47 5HJ,T,N,F,303,,Alcester Road,Hollywood,Birmingham
+2024-05-24,256000,B47 5QQ,T,N,L,17,,Lime Close,Hollywood,Birmingham
+2024-05-24,300000,B47 5PS,S,N,F,3,,Hollywood Drive,Hollywood,Birmingham
+2024-05-23,475000,B47 6JL,D,N,F,375,,Alcester Road,Wythall,Birmingham
+2024-05-21,475000,B47 5JR,D,N,F,201,,Shawhurst Lane,Hollywood,Birmingham
+2024-05-07,372500,B47 6AD,S,N,L,1,,Green Close,Wythall,Birmingham
+2024-05-07,365000,B47 5ND,D,N,F,15,,New Road,Hollywood,Birmingham
+2024-05-07,250000,B47 5HU,T,N,F,15,,Rye Croft,Hollywood,Birmingham
+2024-05-03,408000,B47 6AT,S,N,F,48,,Burnham Road,Wythall,Birmingham
+2024-05-03,420000,B47 5LU,D,N,L,29,,Chantry Close,Hollywood,Birmingham
+2024-05-03,299999,B47 5DL,T,N,F,11,,Oakwood Road,Hollywood,Birmingham
+2024-05-02,674000,B47 5RH,D,N,F,19,,Oak Tree Lane,Hollywood,Birmingham
+2024-04-29,305000,B47 5QL,T,N,F,28,,Wythwood Road,Hollywood,Birmingham
+2024-04-26,625000,B47 6LX,D,N,F,Houndsfield Court,1,Houndsfield Lane,Wythall,Birmingham
+2024-04-19,255000,B47 5JG,T,N,F,23,,Mynors Crescent,Hollywood,Birmingham
+2024-04-17,245000,B47 5DH,T,N,F,Packhorse Cottage,1,Packhorse Lane,Hollywood,Birmingham
+2024-04-15,495000,B47 5NR,D,N,F,131,,Alcester Road,Hollywood,Birmingham
+2024-04-11,430000,B47 6BU,S,N,F,4,,Barkers Lane,Wythall,Birmingham
+2024-04-10,336000,B47 6LZ,T,N,F,94,,Silver Street,Wythall,Birmingham
+2024-04-09,460000,B47 5LH,S,N,F,30,,Simon Road,Hollywood,Birmingham
+2024-04-08,300000,B47 5BW,S,N,F,26,,Woodleaves,Hollywood,Birmingham
+2024-04-04,337000,B47 5HL,T,N,L,33,,Shawhurst Lane,Hollywood,Birmingham
+2024-04-02,437500,B47 6EX,D,N,F,3,,Littleshaw Croft,Wythall,Birmingham
+2024-03-28,370000,B47 6HQ,S,N,F,44,,Three Oaks Road,Wythall,Birmingham
+2024-03-28,310000,B47 5QB,S,N,F,22,,Truemans Heath Lane,Hollywood,Birmingham
+2024-03-26,305000,B47 6BU,S,N,F,8,,Barkers Lane,Wythall,Birmingham
+2024-03-25,500000,B47 5NZ,D,N,F,2,,The Orchards,Hollywood,Birmingham
+2024-03-21,430000,B47 5RW,D,N,F,1,,Rowan Close,Hollywood,Birmingham
+2024-03-21,532500,B47 5RJ,D,N,F,14,,Hazel Drive,Hollywood,Birmingham
+2024-03-14,134000,B47 6AS,S,N,L,23,,Burnham Road,Wythall,Birmingham
+2024-03-11,295000,B47 5LS,S,N,L,20,,Fenton Road,Hollywood,Birmingham
+2024-03-08,435000,B47 6JH,D,N,F,8,,Gorsey Lane,Wythall,Birmingham
+2024-03-08,295000,B47 5QA,S,N,F,4,,Windrush Road,Hollywood,Birmingham
+2024-03-01,635000,B47 6JL,D,N,F,429,,Alcester Road,Wythall,Birmingham
+2024-02-29,475000,B47 6EQ,S,N,F,105,,Meadow Road,Wythall,Birmingham
+2024-02-14,313500,B47 6LY,T,N,F,27,,Silver Street,Wythall,Birmingham
+2024-02-14,320000,B47 5DU,T,N,F,1,,The Hurst,Hollywood,Birmingham
+2024-01-26,260000,B47 5ER,S,N,F,14,,Pearmans Croft,Hollywood,Birmingham
+2024-01-25,275000,B47 5RB,T,N,F,16,,Silver Birch Drive,Hollywood,Birmingham
+2024-01-25,330000,B47 5BW,S,N,L,28,,Woodleaves,Hollywood,Birmingham
+2024-01-19,241000,B47 5RW,S,N,F,6,,Rowan Close,Hollywood,Birmingham
+2024-01-15,454000,B47 5BT,S,N,F,76,,Dark Lane,Hollywood,Birmingham
+2023-12-21,310000,B47 5LT,S,N,F,70,,Corbett Road,Hollywood,Birmingham
+2023-12-20,351000,B47 5QA,S,N,F,18,,Windrush Road,Hollywood,Birmingham
+2023-12-20,310000,B47 5PH,T,N,F,7,,Lint Meadow,Hollywood,Birmingham
+2023-12-20,463000,B47 5LR,S,N,F,24,,Heath Road,Hollywood,Birmingham
+2023-12-20,475000,B47 5LL,S,N,F,5,,Corbett Road,Hollywood,Birmingham
+2023-12-20,230000,B47 5JE,T,N,F,6,,The Reddings,Hollywood,Birmingham
+2023-12-19,250000,B47 5RW,S,N,F,26,,Rowan Close,Hollywood,Birmingham
+2023-12-19,275000,B47 5EN,D,N,F,6,,Chesterwood,Hollywood,Birmingham
+2023-12-18,360000,B47 6HQ,T,N,F,26,,Three Oaks Road,Wythall,Birmingham
+2023-12-14,595000,B47 5QT,D,N,F,23,,Hawthorne Drive,Hollywood,Birmingham
+2023-12-14,348000,B47 5DY,D,N,F,73,,Oakwood Road,Hollywood,Birmingham
+2023-12-13,375000,B47 6JL,S,N,F,379,,Alcester Road,Wythall,Birmingham
+2023-12-12,482500,B47 5NR,D,N,F,85,,Alcester Road,Hollywood,Birmingham
+2023-12-08,360000,B47 5RL,D,N,F,2,,Cherry Walk,Hollywood,Birmingham
+2023-12-08,380000,B47 5EG,D,N,F,19,,Paddocks Road,Hollywood,Birmingham
+2023-12-08,310000,B47 5ED,T,N,F,14,,Paddocks Road,Hollywood,Birmingham
+2023-12-08,340000,B47 5DY,T,N,F,57,,Oakwood Road,Hollywood,Birmingham
+2023-12-07,350000,B47 5QA,S,N,F,12,,Windrush Road,Hollywood,Birmingham
+2023-12-01,285000,B47 6LS,D,N,F,Copperfield,,Houndsfield Lane,Wythall,Birmingham
+2023-12-01,575000,B47 6AF,D,N,F,147,,Station Road,Wythall,Birmingham
+2023-12-01,340000,B47 5LU,D,N,F,25,,Chantry Close,Hollywood,Birmingham
+2023-11-29,272000,B47 6AT,T,N,F,4,,Burnham Road,Wythall,Birmingham
+2023-11-29,148500,B47 6AT,T,N,F,4,,Burnham Road,Wythall,Birmingham
+2023-11-24,310000,B47 6AS,S,N,F,149,,Burnham Road,Wythall,Birmingham
+2023-11-24,355000,B47 5RD,T,N,F,12,,Bramley Drive,Hollywood,Birmingham
+2023-11-23,290000,B47 5DJ,S,N,F,8,,Arden Road,Hollywood,Birmingham
+2023-11-17,263000,B47 5QA,T,N,L,48,,Windrush Road,Hollywood,Birmingham
+2023-11-17,293000,B47 5LN,T,N,F,1,,Easton Grove,Hollywood,Birmingham
+2023-11-15,296500,B47 6ES,T,N,F,208,,Station Road,Wythall,Birmingham
+2023-11-07,508750,B47 6ED,D,N,F,62,,Gorsey Lane,Wythall,Birmingham
+2023-11-06,360000,B47 5HL,T,N,F,35,,Shawhurst Lane,Hollywood,Birmingham
+2023-11-03,450000,B47 5RW,D,N,F,5,,Rowan Close,Hollywood,Birmingham
+2023-10-23,465000,B47 6LZ,T,N,F,80,,Silver Street,Wythall,Birmingham
+2023-10-23,378135,B47 5LJ,D,N,F,34,,Dyas Road,Hollywood,Birmingham
+2023-10-06,490000,B47 6HA,D,N,F,21,,Norton Lane,Wythall,Birmingham
+2023-10-03,544000,B47 6JP,D,N,F,"Church House, 1D",,Chapel Drive,Wythall,Birmingham
+2023-09-29,382500,B47 6EG,S,N,F,5,,Meadow Road,Wythall,Birmingham
+2023-09-27,352000,B47 5PU,D,N,F,1,,Lynbrook Close,Hollywood,Birmingham
+2023-09-27,409750,B47 5DG,S,N,F,Beech Tree Cottage,2,Packhorse Lane,Hollywood,Birmingham
+2023-09-11,195000,B47 5QA,T,N,L,55,,Windrush Road,Hollywood,Birmingham
+2023-08-31,519500,B47 6HG,D,N,F,37,,Three Oaks Road,Wythall,Birmingham
+2023-08-31,355000,B47 5EP,T,N,F,30,,Falstaff Avenue,Hollywood,Birmingham
+2023-08-29,770000,B47 6LX,D,N,F,101,,Houndsfield Lane,Wythall,Birmingham
+2023-08-29,575000,B47 6AB,D,N,F,106,,Station Road,Wythall,Birmingham
+2023-08-25,246500,B47 5JS,T,N,F,3,,Forest Way,Hollywood,Birmingham
+2023-08-24,360000,B47 5EN,D,N,F,19,,Chesterwood,Hollywood,Birmingham
+2023-08-16,415000,B47 5EN,D,N,F,17,,Chesterwood,Hollywood,Birmingham
+2023-08-09,355000,B47 5HQ,D,N,F,"Rainbows, 218",,Alcester Road,Hollywood,Birmingham
+2023-08-07,460000,B47 5RL,S,N,F,4,,Cherry Walk,Hollywood,Birmingham
+2023-08-07,660000,B47 5QF,D,N,F,11,,Berrymound View,Hollywood,Birmingham
+2023-08-07,515000,B47 5PT,D,N,F,41,,Hollywood Lane,Hollywood,Birmingham
+2023-08-07,365000,B47 5LJ,S,N,F,39,,Dyas Road,Hollywood,Birmingham
+2023-08-07,420000,B47 5BS,S,N,F,7,,Dark Lane,Hollywood,Birmingham
+2023-07-31,470000,B47 6BU,D,N,F,48,,Barkers Lane,Wythall,Birmingham
+2023-07-31,150000,B47 5JS,F,N,L,19,,Forest Way,Hollywood,Birmingham
+2023-07-28,225000,B47 6EW,S,N,F,9,,Innisfree Close,Wythall,Birmingham
+2023-07-28,385000,B47 5JZ,D,N,L,90,,Douglas Road,Hollywood,Birmingham
+2023-07-25,415000,B47 5PH,T,N,F,3,,Lint Meadow,Hollywood,Birmingham
+2023-07-24,230000,B47 6LN,F,N,L,Silvermead Court,22,Silver Street,Wythall,Birmingham
+2023-07-24,347000,B47 5QN,T,N,F,3,,Wythwood Grove,Hollywood,Birmingham
+2023-07-24,550000,B47 5NN,D,N,F,3,,Hollywood Gardens,Hollywood,Birmingham
+2023-07-24,370000,B47 5HQ,D,N,F,226A,,Alcester Road,Hollywood,Birmingham
+2023-07-20,385750,B47 5JR,S,N,F,165,,Shawhurst Lane,Hollywood,Birmingham
+2023-07-17,375000,B47 6EU,D,N,F,3,,Littleshaw Lane,Wythall,Birmingham
+2023-07-17,505000,B47 6AS,D,N,F,51,,Burnham Road,Wythall,Birmingham
+2023-07-17,360500,B47 5JP,S,N,F,109,,Shawhurst Lane,Hollywood,Birmingham
+2023-07-14,485000,B47 5NZ,D,N,F,1,,The Orchards,Hollywood,Birmingham
+2023-07-14,345000,B47 5DX,S,N,F,58,,Oakwood Road,Hollywood,Birmingham
+2023-07-14,335000,B47 5DX,T,N,F,50,,Oakwood Road,Hollywood,Birmingham
+2023-07-07,365000,B47 5LN,S,N,F,2,,Easton Grove,Hollywood,Birmingham
+2023-06-30,323000,B47 6AD,S,N,F,7,,Green Close,Wythall,Birmingham
+2023-06-30,367000,B47 5QG,T,N,F,31,,Mayhurst Road,Hollywood,Birmingham
+2023-06-30,415000,B47 5ND,S,N,F,29,,New Road,Hollywood,Birmingham
+2023-06-30,310000,B47 5LD,S,N,F,18,,Alveston Road,Hollywood,Birmingham
+2023-06-29,375000,B47 5HL,D,N,F,17,,Shawhurst Lane,Hollywood,Birmingham
+2023-06-26,250000,B47 5HZ,T,N,F,29,,Woodrush Drive,Hollywood,Birmingham
+2023-06-23,330000,B47 6AS,T,N,F,119,,Burnham Road,Wythall,Birmingham
+2023-06-23,335000,B47 5RD,T,N,F,33,,Bramley Drive,Hollywood,Birmingham
+2023-06-23,341000,B47 5NY,S,N,F,4,,Lee Road,Hollywood,Birmingham
+2023-06-15,185000,B47 6HJ,F,N,L,"Beech House, 10",Flat 3,Fulford Close,Wythall,Birmingham
+2023-06-12,303000,B47 6EG,S,N,F,45,,Meadow Road,Wythall,Birmingham
+2023-06-06,490000,B47 5QB,D,N,F,2C,,Truemans Heath Lane,Hollywood,Birmingham
+2023-06-01,275000,B47 5QE,S,N,F,25,,Truemans Heath Lane,Hollywood,Birmingham
+2023-06-01,300000,B47 5LU,S,N,L,23,,Chantry Close,Hollywood,Birmingham
+2023-06-01,375000,B47 5LS,D,N,F,10,,Fenton Road,Hollywood,Birmingham
+2023-05-19,375000,B47 5LA,S,N,F,9A,,Mill Close,Hollywood,Birmingham
+2023-05-12,360000,B47 5QG,T,N,F,27,,Mayhurst Road,Hollywood,Birmingham
+2023-05-11,315000,B47 5LT,S,N,L,64,,Corbett Road,Hollywood,Birmingham
+2023-05-11,365500,B47 5JR,S,N,F,183,,Shawhurst Lane,Hollywood,Birmingham
+2023-05-03,860000,B47 6AG,D,N,F,"Grange Bungalow, 101A",,Station Road,Wythall,Birmingham
+2023-05-03,410000,B47 5ND,D,N,F,33,,New Road,Hollywood,Birmingham
+2023-05-02,475000,B47 5QB,D,N,F,2B,,Truemans Heath Lane,Hollywood,Birmingham
+2023-05-02,450000,B47 5BT,S,N,F,44,,Dark Lane,Hollywood,Birmingham
+2023-04-28,641250,B47 5NB,D,N,F,46,,Alcester Road,Hollywood,Birmingham
+2023-04-27,450000,B47 5DY,D,N,F,79,,Oakwood Road,Hollywood,Birmingham
+2023-04-24,360000,B47 6EG,S,N,F,19,,Meadow Road,Wythall,Birmingham
+2023-04-05,340000,B47 5LU,D,N,F,8,,Chantry Close,Hollywood,Birmingham
+2023-03-31,590000,B47 6AG,D,N,F,139,,Station Road,Wythall,Birmingham
+2023-03-31,360955,B47 5NX,D,N,F,53,,May Lane,Hollywood,Birmingham
+2023-03-31,255000,B47 5JB,T,N,F,51,,Simms Lane,Hollywood,Birmingham
+2023-03-30,170000,B47 5LH,S,N,F,26,,Simon Road,Hollywood,Birmingham
+2023-03-23,475000,B47 5HG,D,N,F,243,,Alcester Road,Hollywood,Birmingham
+2023-03-17,310000,B47 6HB,S,N,L,1,,The Spinney,Wythall,Birmingham
+2023-03-16,390000,B47 5LE,S,N,F,12,,Dyas Road,Hollywood,Birmingham
+2023-03-10,200000,B47 5HJ,T,N,F,297,,Alcester Road,Hollywood,Birmingham
+2023-03-07,615000,B47 5RH,D,N,F,1,,Oak Tree Lane,Hollywood,Birmingham
+2023-03-03,705000,B47 5QS,D,N,F,6,,Beech Road,Hollywood,Birmingham
+2023-03-03,355000,B47 5QH,S,N,F,8,,Mayhurst Close,Hollywood,Birmingham
+2023-03-03,350000,B47 5LU,D,N,F,18,,Chantry Close,Hollywood,Birmingham
+2023-03-03,350000,B47 5LU,D,N,L,18,,Chantry Close,Hollywood,Birmingham
+2023-02-28,386000,B47 6EP,S,N,F,25,,Ann Road,Wythall,Birmingham
+2023-02-28,418000,B47 6BY,S,N,F,15,,Barkers Lane,Wythall,Birmingham
+2023-02-24,200000,B47 5HQ,D,N,F,210,,Alcester Road,Hollywood,Birmingham
+2023-02-21,435000,B47 5EB,D,N,F,32,,Paddocks Road,Hollywood,Birmingham
+2023-02-03,230000,B47 5JG,T,N,F,9,,Mynors Crescent,Hollywood,Birmingham
+2023-01-31,427500,B47 5QJ,D,N,F,96,,Hollywood Lane,Hollywood,Birmingham
+2023-01-31,335000,B47 5LL,D,N,L,15,,Corbett Road,Hollywood,Birmingham
+2023-01-30,350000,B47 5JS,D,N,F,12,,Forest Way,Hollywood,Birmingham
+2023-01-27,380000,B47 6LH,S,N,F,9,,Wilmore Lane,Wythall,Birmingham
+2023-01-27,610000,B47 6JP,D,N,F,1C,,Chapel Drive,Wythall,Birmingham
+2023-01-27,250000,B47 6EJ,S,N,L,2,,School Drive,Wythall,Birmingham
+2023-01-27,375000,B47 5QG,S,N,F,15,,Mayhurst Road,Hollywood,Birmingham
+2023-01-27,440000,B47 5NL,D,N,F,11,,Alcester Road,Hollywood,Birmingham
+2023-01-17,410000,B47 5LL,S,N,F,8,,Corbett Road,Hollywood,Birmingham
+2023-01-06,476050,B47 5PX,T,N,F,69A,,Hollywood Lane,Hollywood,Birmingham
+2023-01-06,430000,B47 5JR,S,N,F,181,,Shawhurst Lane,Hollywood,Birmingham
+2022-12-19,337000,B47 5EN,S,N,F,15,,Chesterwood,Hollywood,Birmingham
+2022-12-16,495000,B47 6LL,S,N,F,35,,Brick Kiln Lane,Wythall,Birmingham
+2022-12-16,330000,B47 5ER,S,N,F,22,,Pearmans Croft,Hollywood,Birmingham
+2022-12-13,448000,B47 5LB,T,N,F,69,,Douglas Road,Hollywood,Birmingham
+2022-12-09,327500,B47 5EN,D,N,L,7,,Chesterwood,Hollywood,Birmingham
+2022-12-08,320000,B47 5JJ,T,N,F,9,,Coppice Gardens,Hollywood,Birmingham
+2022-12-07,230000,B47 5HJ,T,N,F,299,,Alcester Road,Hollywood,Birmingham
+2022-11-30,430000,B47 5QD,D,N,F,9,,Richmond Close,Hollywood,Birmingham
+2022-11-30,330000,B47 5ER,S,N,F,7,,Pearmans Croft,Hollywood,Birmingham
+2022-11-25,565000,B47 6LZ,D,N,F,54,,Silver Street,Wythall,Birmingham
+2022-11-25,167000,B47 6HJ,F,N,L,"Beech House, 10",Flat 5,Fulford Close,Wythall,Birmingham
+2022-11-25,300000,B47 5ER,S,N,L,10,,Pearmans Croft,Hollywood,Birmingham
+2022-11-23,272000,B47 5BP,D,N,F,19,,Alfreda Avenue,Hollywood,Birmingham
+2022-11-21,450000,B47 6JH,D,N,F,28,,Gorsey Lane,Wythall,Birmingham
+2022-11-16,255000,B47 5HN,T,N,F,12,,Simms Lane,Hollywood,Birmingham
+2022-11-11,425000,B47 5PB,D,N,F,8,,Shawhurst Croft,Hollywood,Birmingham
+2022-11-10,850000,B47 6BJ,D,N,F,Malory,,Mill Lane,Wythall,Birmingham
+2022-11-10,366000,B47 5RW,T,N,F,25,,Rowan Close,Hollywood,Birmingham
+2022-11-10,528000,B47 5RJ,D,N,F,17,,Hazel Drive,Hollywood,Birmingham
+2022-11-07,382000,B47 5LE,S,N,F,9,,Dyas Road,Hollywood,Birmingham
+2022-11-04,395000,B47 6LL,S,N,F,27,,Brick Kiln Lane,Wythall,Birmingham
+2022-11-01,690000,B47 6AF,T,N,F,177,,Station Road,Wythall,Birmingham
+2022-11-01,458000,B47 5QQ,S,N,F,10,,Lime Close,Hollywood,Birmingham
+2022-10-27,325000,B47 5LU,D,N,F,7,,Chantry Close,Hollywood,Birmingham
+2022-10-24,405000,B47 6AP,D,N,F,Cintra,,Alcester Road,Wythall,Birmingham
+2022-10-21,402000,B47 5JZ,S,N,F,36,,Douglas Road,Hollywood,Birmingham
+2022-10-19,780000,B47 6AT,D,N,F,56,,Burnham Road,Wythall,Birmingham
+2022-10-14,386350,B47 6EP,S,N,F,17,,Ann Road,Wythall,Birmingham
+2022-10-13,240000,B47 5NT,T,N,F,16,,May Lane,Hollywood,Birmingham
+2022-10-07,510000,B47 6AT,D,N,F,64,,Burnham Road,Wythall,Birmingham
+2022-10-07,533000,B47 5QD,D,N,F,2,,Richmond Close,Hollywood,Birmingham
+2022-10-06,335000,B47 6HB,S,N,F,3,,The Spinney,Wythall,Birmingham
+2022-10-05,495000,B47 5QD,D,N,F,15,,Richmond Close,Hollywood,Birmingham
+2022-09-30,272000,B47 5HL,T,N,F,32,,Shawhurst Lane,Hollywood,Birmingham
+2022-09-23,717500,B47 6LH,D,N,F,27,,Wilmore Lane,Wythall,Birmingham
+2022-09-23,490000,B47 6JP,D,N,F,"Yew Tree House, 1A",,Chapel Drive,Wythall,Birmingham
+2022-09-23,450000,B47 6EP,D,N,F,53,,Ann Road,Wythall,Birmingham
+2022-09-23,395060,B47 5QN,T,N,F,10,,Wythwood Grove,Hollywood,Birmingham
+2022-09-23,310000,B47 5QA,T,N,L,Links View,,Windrush Road,Hollywood,Birmingham
+2022-09-16,390000,B47 5QB,D,N,F,"The Bungalow, 22A",,Truemans Heath Lane,Hollywood,Birmingham
+2022-09-16,255000,B47 5HU,T,N,F,4,,Rye Croft,Hollywood,Birmingham
+2022-09-09,475000,B47 6JP,D,N,F,1B,,Chapel Drive,Wythall,Birmingham
+2022-09-01,343000,B47 6HB,S,N,L,26,,The Spinney,Wythall,Birmingham
+2022-08-31,706000,B47 6AB,D,N,F,82,,Station Road,Wythall,Birmingham
+2022-08-31,499950,B47 5LH,S,N,F,32,,Simon Road,Hollywood,Birmingham
+2022-08-31,450000,B47 5LH,D,N,F,25,,Simon Road,Hollywood,Birmingham
+2022-08-31,400000,B47 5DX,D,N,F,88,,Oakwood Road,Hollywood,Birmingham
+2022-08-26,180000,B47 6AY,S,N,F,1,,Bunny Court,Wythall,Birmingham
+2022-08-22,495000,B47 6AT,D,N,F,16,,Burnham Road,Wythall,Birmingham
+2022-08-22,400000,B47 5LR,S,N,F,8,,Heath Road,Hollywood,Birmingham
+2022-08-22,342000,B47 5LJ,S,N,F,44,,Dyas Road,Hollywood,Birmingham
+2022-08-19,346000,B47 6EW,T,N,F,11,,Innisfree Close,Wythall,Birmingham
+2022-08-12,526000,B47 6HP,D,N,F,3,,Selsdon Close,Wythall,Birmingham
+2022-08-12,397500,B47 5QL,S,N,F,19,,Wythwood Road,Hollywood,Birmingham
+2022-08-11,345000,B47 5QL,S,N,F,4,,Wythwood Road,Hollywood,Birmingham
+2022-08-11,370000,B47 5QG,S,N,F,25,,Mayhurst Road,Hollywood,Birmingham
+2022-08-10,323000,B47 5JY,S,N,F,31,,Douglas Road,Hollywood,Birmingham
+2022-08-08,430000,B47 5LB,D,N,F,63,,Douglas Road,Hollywood,Birmingham
+2022-08-08,333000,B47 5DU,S,N,F,21,,The Hurst,Hollywood,Birmingham
+2022-08-05,245000,B47 5HX,T,N,F,11,,The Innage,Hollywood,Birmingham
+2022-08-01,412000,B47 6HP,D,N,F,29,,Selsdon Close,Wythall,Birmingham
+2022-08-01,740000,B47 5QT,D,N,F,2,,Hawthorn Drive,Hollywood,Birmingham
+2022-07-29,326074,B47 6EG,S,N,L,59,,Meadow Road,Wythall,Birmingham
+2022-07-29,495000,B47 5PX,T,N,F,67,,Hollywood Lane,Hollywood,Birmingham
+2022-07-29,375000,B47 5LJ,S,N,F,54,,Dyas Road,Hollywood,Birmingham
+2022-07-29,365000,B47 5JP,S,N,F,125,,Shawhurst Lane,Hollywood,Birmingham
+2022-07-28,310000,B47 5QA,D,N,F,80,,Windrush Road,Hollywood,Birmingham
+2022-07-25,270000,B47 5HN,T,N,F,35,,Simms Lane,Hollywood,Birmingham
+2022-07-22,500000,B47 5QE,D,N,F,41B,,Truemans Heath Lane,Hollywood,Birmingham
+2022-07-21,430000,B47 6AT,S,N,F,52,,Burnham Road,Wythall,Birmingham
+2022-07-20,350000,B47 5RD,D,N,F,3,,Bramley Drive,Hollywood,Birmingham
+2022-07-15,323000,B47 5QG,T,N,F,29,,Mayhurst Road,Hollywood,Birmingham
+2022-07-15,310000,B47 5HQ,D,N,F,206,,Alcester Road,Hollywood,Birmingham
+2022-07-15,555000,B47 5HE,D,N,F,191,,Alcester Road,Hollywood,Birmingham
+2022-07-14,440000,B47 5DD,T,N,F,31,,Baccabox Lane,Hollywood,Birmingham
+2022-07-07,475000,B47 6AS,D,N,F,139,,Burnham Road,Wythall,Birmingham
+2022-07-06,485000,B47 5PS,D,N,F,13,,Hollywood Drive,Hollywood,Birmingham
+2022-07-05,210000,B47 6LN,F,N,L,Silvermead Court,30,Silver Street,Wythall,Birmingham
+2022-07-05,420000,B47 5LU,D,N,L,29,,Chantry Close,Hollywood,Birmingham
+2022-07-01,325000,B47 6AS,S,N,F,145,,Burnham Road,Wythall,Birmingham
+2022-06-30,365000,B47 6LZ,T,N,F,64,,Silver Street,Wythall,Birmingham
+2022-06-29,675000,B47 6AG,D,N,F,115,,Station Road,Wythall,Birmingham
+2022-06-27,388500,B47 5PX,S,N,F,34,,Hollywood Lane,Hollywood,Birmingham
+2022-06-27,323000,B47 5JP,T,N,F,75,,Shawhurst Lane,Hollywood,Birmingham
+2022-06-24,565000,B47 5RJ,D,N,F,28,,Hazel Drive,Hollywood,Birmingham
+2022-06-24,470000,B47 5PS,S,N,F,14,,Hollywood Drive,Hollywood,Birmingham
+2022-06-23,375900,B47 5NX,D,N,F,55,,May Lane,Hollywood,Birmingham
+2022-06-23,270000,B47 5JA,T,N,F,8,,The Close,Hollywood,Birmingham
+2022-06-20,330000,B47 5JR,D,N,F,147,,Shawhurst Lane,Hollywood,Birmingham
+2022-06-13,310000,B47 6AD,S,N,F,3,,Green Close,Wythall,Birmingham
+2022-05-30,357000,B47 5LA,D,N,F,4,,Mill Close,Hollywood,Birmingham
+2022-05-26,500000,B47 6LH,D,N,F,5,,Wilmore Lane,Wythall,Birmingham
+2022-05-25,290000,B47 5ND,D,N,F,15,,New Road,Hollywood,Birmingham
+2022-05-20,310000,B47 6HG,S,N,F,17,,Three Oaks Road,Wythall,Birmingham
+2022-05-20,149950,B47 6AH,T,N,L,12,,Butterworth Close,Wythall,Birmingham
+2022-05-20,345000,B47 5HL,D,N,F,69,,Shawhurst Lane,Hollywood,Birmingham
+2022-05-13,401950,B47 6AQ,D,N,F,8,,Morrey Close,Wythall,Birmingham
+2022-05-03,425000,B47 5DG,S,N,F,May Cottage,2,Packhorse Lane,Hollywood,Birmingham
+2022-04-29,282000,B47 5LP,S,N,F,33,,Corbett Road,Hollywood,Birmingham
+2022-04-27,305000,B47 6EH,S,N,F,2,,Meadow Croft,Wythall,Birmingham
+2022-04-26,400000,B47 6EP,S,N,L,22,,Ann Road,Wythall,Birmingham
+2022-04-26,215000,B47 5QA,T,N,F,61,,Windrush Road,Hollywood,Birmingham
+2022-04-26,215000,B47 5QA,T,N,L,61,,Windrush Road,Hollywood,Birmingham
+2022-04-20,395000,B47 5RJ,D,N,F,2,,Hazel Drive,Hollywood,Birmingham
+2022-04-14,880000,B47 6BU,D,N,F,70A,,Barkers Lane,Wythall,Birmingham
+2022-04-13,380000,B47 6EQ,S,N,F,115,,Meadow Road,Wythall,Birmingham
+2022-04-13,335000,B47 5RG,T,N,F,6,,Truemans Heath Court,Hollywood,Birmingham
+2022-04-08,355000,B47 5LP,S,N,F,67,,Corbett Road,Hollywood,Birmingham
+2022-04-04,310000,B47 6EG,S,N,F,61,,Meadow Road,Wythall,Birmingham
+2022-04-04,650000,B47 6AG,D,N,F,113,,Station Road,Wythall,Birmingham
+2022-03-31,405000,B47 6AL,D,N,F,8,,Franklin Close,Wythall,Birmingham
+2022-03-29,405000,B47 5BT,S,N,F,60,,Dark Lane,Hollywood,Birmingham
+2022-03-25,108000,B47 6AY,T,N,L,7,,Bunny Court,Wythall,Birmingham
+2022-03-22,290000,B47 5QA,T,N,F,22,,Windrush Road,Hollywood,Birmingham
+2022-03-22,385000,B47 5LU,D,N,F,3,,Chantry Close,Hollywood,Birmingham
+2022-03-15,435000,B47 5HL,T,N,F,15,,Shawhurst Lane,Hollywood,Birmingham
+2022-03-07,180000,B47 6HD,F,N,L,6,,Lea Green Drive,Wythall,Birmingham
+2022-03-04,325000,B47 5RG,T,N,F,7,,Truemans Heath Court,Hollywood,Birmingham
+2022-03-04,385000,B47 5RB,S,N,F,5,,Silver Birch Drive,Hollywood,Birmingham
+2022-03-04,228500,B47 5HJ,T,N,F,303,,Alcester Road,Hollywood,Birmingham
+2022-02-25,485000,B47 6ET,S,N,F,237,,Station Road,Wythall,Birmingham
+2022-02-24,390000,B47 6AS,D,N,F,85,,Burnham Road,Wythall,Birmingham
+2022-02-22,322500,B47 5BT,S,N,F,36,,Dark Lane,Hollywood,Birmingham
+2022-02-21,420000,B47 6EU,T,N,F,4,,Littleshaw Lane,Wythall,Birmingham
+2022-02-18,475000,B47 6JH,D,N,F,24,,Gorsey Lane,Wythall,Birmingham
+2022-02-18,382500,B47 5PU,D,N,F,17,,Lynbrook Close,Hollywood,Birmingham
+2022-02-18,311000,B47 5ER,T,N,F,19,,Pearmans Croft,Hollywood,Birmingham
+2022-02-16,726000,B47 5QX,D,N,F,6,,Sycamore Drive,Hollywood,Birmingham
+2022-02-15,192000,B47 6HJ,F,N,L,"Sycamore House, 9",Flat 2,Fulford Close,Wythall,Birmingham
+2022-02-11,352000,B47 6EP,S,N,F,58,,Ann Road,Wythall,Birmingham
+2022-02-04,97500,B47 6LN,F,N,L,Silvermead Court,8,Silver Street,Wythall,Birmingham
+2022-02-04,315000,B47 5RG,T,N,F,4,,Truemans Heath Court,Hollywood,Birmingham
+2022-02-03,400000,B47 5RG,T,Y,F,3,,Truemans Heath Court,Hollywood,Birmingham
+2022-01-31,545000,B47 6LL,S,N,F,23,,Brick Kiln Lane,Wythall,Birmingham
+2022-01-28,146000,B47 6JL,T,N,L,399,,Alcester Road,Wythall,Birmingham
+2022-01-28,315000,B47 5RG,T,N,F,5,,Truemans Heath Court,Hollywood,Birmingham
+2022-01-28,262000,B47 5QW,S,N,F,36,,Laburnum Close,Hollywood,Birmingham
+2022-01-27,390000,B47 5RG,T,Y,F,2,,Truemans Heath Court,Hollywood,Birmingham
+2022-01-27,367000,B47 5QJ,S,N,F,135,,Hollywood Lane,Hollywood,Birmingham
+2022-01-21,295000,B47 5RG,T,N,F,8,,Truemans Heath Court,Hollywood,Birmingham
+2022-01-21,340000,B47 5QA,S,N,F,6,,Windrush Road,Hollywood,Birmingham
+2022-01-14,350000,B47 5QN,T,N,F,2,,Wythwood Grove,Hollywood,Birmingham
+2022-01-13,342500,B47 5DP,T,N,L,42,,Beaudesert Road,Hollywood,Birmingham
+2022-01-12,563000,B47 6LZ,D,N,F,52A,,Silver Street,Wythall,Birmingham
+2022-01-12,352500,B47 5LD,S,N,F,16,,Alveston Road,Hollywood,Birmingham
+2022-01-10,250000,B47 5QE,S,N,F,19,,Truemans Heath Lane,Hollywood,Birmingham
+2022-01-10,300000,B47 5BW,S,N,F,27,,Woodleaves,Hollywood,Birmingham
+2022-01-07,299950,B47 5RG,T,N,F,1,,Truemans Heath Court,Hollywood,Birmingham
+2022-01-07,687500,B47 5QX,D,N,F,14,,Sycamore Drive,Hollywood,Birmingham
+2021-12-21,637000,B47 6LZ,D,N,F,10,,Silver Street,Wythall,Birmingham
+2021-12-21,300000,B47 6JR,S,N,F,316,,Alcester Road,Wythall,Birmingham
+2021-12-21,1150000,B47 5DQ,D,N,F,Westfield House,,Packhorse Lane,Hollywood,Birmingham
+2021-12-17,250000,B47 6LY,T,N,F,5,,Silver Street,Wythall,Birmingham
+2021-12-17,685000,B47 5QS,D,N,F,24,,Beech Road,Hollywood,Birmingham
+2021-12-17,210000,B47 5QA,T,N,F,62,,Windrush Road,Hollywood,Birmingham
+2021-12-13,325000,B47 5PE,S,N,L,17,,Warmington Road,Hollywood,Birmingham
+2021-12-13,310000,B47 5LT,S,N,F,72,,Corbett Road,Hollywood,Birmingham
+2021-12-10,255000,B47 6NG,T,N,F,1,,Batemans Lane,Wythall,Birmingham
+2021-12-10,408000,B47 6HA,D,N,F,17,,Norton Lane,Wythall,Birmingham
+2021-12-10,390000,B47 5JJ,D,N,F,1,,Coppice Gardens,Hollywood,Birmingham
+2021-12-03,222500,B47 5JD,S,N,F,8,,Park Croft,Hollywood,Birmingham
+2021-12-02,499950,B47 5LH,D,N,F,43,,Simon Road,Hollywood,Birmingham
+2021-11-30,390000,B47 6EN,D,N,F,133,,Meadow Road,Wythall,Birmingham
+2021-11-30,362500,B47 5QQ,S,N,F,37,,Lime Close,Hollywood,Birmingham
+2021-11-30,951017,B47 5DA,D,N,F,The Haven,,Love Lane,Hollywood,Birmingham
+2021-11-26,540000,B47 6BY,D,N,F,43,,Barkers Lane,Wythall,Birmingham
+2021-11-26,340000,B47 5NX,S,N,F,17,,May Lane,Hollywood,Birmingham
+2021-11-26,1050000,B47 5NB,D,N,F,34,,Alcester Road,Hollywood,Birmingham
+2021-11-26,219500,B47 5JP,S,N,F,121,,Shawhurst Lane,Hollywood,Birmingham
+2021-11-25,315000,B47 5PY,S,N,F,50,,Hollywood Lane,Hollywood,Birmingham
+2021-11-25,626500,B47 5NR,S,N,F,101,,Alcester Road,Hollywood,Birmingham
+2021-11-24,389000,B47 5RJ,D,N,F,20,,Hazel Drive,Hollywood,Birmingham
+2021-11-22,465000,B47 6AS,D,N,F,133,,Burnham Road,Wythall,Birmingham
+2021-11-19,175000,B47 6HD,F,N,L,8,,Lea Green Drive,Wythall,Birmingham
+2021-11-19,380000,B47 5RB,T,N,F,35,,Silver Birch Drive,Hollywood,Birmingham
+2021-11-19,370000,B47 5RB,S,N,F,15,,Silver Birch Drive,Hollywood,Birmingham
+2021-11-19,658000,B47 5QX,D,N,F,34,,Sycamore Drive,Hollywood,Birmingham
+2021-11-19,429500,B47 5NN,D,N,F,7,,Hollywood Gardens,Hollywood,Birmingham
+2021-11-19,322000,B47 5EE,T,N,F,6,,The Willows,Hollywood,Birmingham
+2021-11-12,310000,B47 5QW,S,N,F,30,,Laburnum Close,Hollywood,Birmingham
+2021-11-02,309985,B47 6EH,S,N,F,10,,Meadow Croft,Wythall,Birmingham
+2021-11-01,460000,B47 6JL,D,N,F,423,,Alcester Road,Wythall,Birmingham
+2021-11-01,700000,B47 5QT,D,N,F,1,,Hawthorne Drive,Hollywood,Birmingham
+2021-10-29,410000,B47 6HJ,S,N,F,6,,Fulford Close,Wythall,Birmingham
+2021-10-29,125000,B47 5HP,F,N,L,26,,Shawfield,Hollywood,Birmingham
+2021-10-27,193000,B47 5LN,T,N,L,6,,Easton Grove,Hollywood,Birmingham
+2021-10-25,722250,B47 5PT,D,N,F,25,,Hollywood Lane,Hollywood,Birmingham
+2021-10-20,149950,B47 6AH,T,N,L,14,,Butterworth Close,Wythall,Birmingham
+2021-10-20,312000,B47 5DY,T,N,L,65,,Oakwood Road,Hollywood,Birmingham
+2021-09-30,166000,B47 6HD,F,N,L,3,,Lea Green Drive,Wythall,Birmingham
+2021-09-30,384000,B47 6EL,S,N,F,10,,Manor Road,Wythall,Birmingham
+2021-09-30,250000,B47 6AA,D,N,F,4,,Station Road,Wythall,Birmingham
+2021-09-30,285000,B47 5RB,D,N,F,30,,Silver Birch Drive,Hollywood,Birmingham
+2021-09-30,580000,B47 5QD,D,N,F,19,,Richmond Close,Hollywood,Birmingham
+2021-09-30,397500,B47 5NR,D,N,F,129,,Alcester Road,Hollywood,Birmingham
+2021-09-29,592820,B47 6LY,D,N,F,13,,Silver Street,Wythall,Birmingham
+2021-09-28,412500,B47 5LP,S,N,F,36,,Corbett Road,Hollywood,Birmingham
+2021-09-28,425000,B47 5BN,S,N,F,12,,Dark Lane,Hollywood,Birmingham
+2021-09-27,455000,B47 6AT,D,N,F,68,,Burnham Road,Wythall,Birmingham
+2021-09-27,279950,B47 5NT,T,N,F,28,,May Lane,Hollywood,Birmingham
+2021-09-24,416000,B47 5QE,D,N,F,45,,Truemans Heath Lane,Hollywood,Birmingham
+2021-09-24,240000,B47 5LP,S,N,L,69,,Corbett Road,Hollywood,Birmingham
+2021-09-24,357500,B47 5LN,S,N,L,4,,Easton Grove,Hollywood,Birmingham
+2021-09-24,370000,B47 5DP,T,N,F,43,,Beaudesert Road,Hollywood,Birmingham
+2021-09-23,280500,B47 5DR,S,N,F,12,,Beaudesert Close,Hollywood,Birmingham
+2021-09-21,395000,B47 5LS,S,N,F,18,,Fenton Road,Hollywood,Birmingham
+2021-09-14,130000,B47 5JS,S,N,L,9,,Forest Way,Hollywood,Birmingham
+2021-09-10,490000,B47 6AQ,D,N,F,17,,Morrey Close,Wythall,Birmingham
+2021-08-27,308000,B47 5LT,S,N,F,76,,Corbett Road,Hollywood,Birmingham
+2021-08-13,225000,B47 5NN,D,N,F,19,,Hollywood Gardens,Hollywood,Birmingham
+2021-08-09,333000,B47 6AB,S,N,F,52,,Station Road,Wythall,Birmingham
+2021-08-06,295000,B47 5ER,T,N,F,17,,Pearmans Croft,Hollywood,Birmingham
+2021-08-05,337000,B47 5QG,T,N,F,39,,Mayhurst Road,Hollywood,Birmingham
+2021-08-05,375000,B47 5LT,D,N,F,58,,Corbett Road,Hollywood,Birmingham
+2021-08-03,710000,B47 6BU,D,N,F,West Winds,,Barkers Lane,Wythall,Birmingham
+2021-07-30,300000,B47 6EW,T,N,F,19,,Innisfree Close,Wythall,Birmingham
+2021-07-30,179950,B47 6AH,T,N,L,15,,Butterworth Close,Wythall,Birmingham
+2021-07-30,330000,B47 5RL,T,N,F,26,,Cherry Walk,Hollywood,Birmingham
+2021-07-29,232000,B47 6LN,F,N,L,Silvermead Court,4,Silver Street,Wythall,Birmingham
+2021-07-29,326000,B47 6HG,S,N,F,49,,Three Oaks Road,Wythall,Birmingham
+2021-07-29,275000,B47 5PS,T,N,F,2,,Hollywood Drive,Hollywood,Birmingham
+2021-07-23,305000,B47 6AD,S,N,L,7,,Green Close,Wythall,Birmingham
+2021-07-23,302000,B47 5PS,S,N,F,5,,Hollywood Drive,Hollywood,Birmingham
+2021-07-21,400000,B47 5EB,D,N,F,34,,Paddocks Road,Hollywood,Birmingham
+2021-07-19,150000,B47 6AY,S,N,F,2,,Bunny Court,Wythall,Birmingham
+2021-07-14,325000,B47 5LD,S,N,F,23,,Alveston Road,Hollywood,Birmingham
+2021-06-30,490000,B47 6EY,D,N,F,260,,Station Road,Wythall,Birmingham
+2021-06-30,575000,B47 5HF,D,N,F,223,,Alcester Road,Hollywood,Birmingham
+2021-06-30,335000,B47 5EP,T,N,F,32,,Falstaff Avenue,Hollywood,Birmingham
+2021-06-29,850000,B47 6JX,D,N,F,Vicarage Cottage,,Chapel Lane,Wythall,Birmingham
+2021-06-29,302000,B47 6EJ,S,N,L,3,,School Drive,Wythall,Birmingham
+2021-06-29,370000,B47 5EE,S,N,F,12,,The Willows,Hollywood,Birmingham
+2021-06-28,485000,B47 6AF,S,N,F,185,,Station Road,Wythall,Birmingham
+2021-06-28,435000,B47 5QX,T,N,F,37,,Sycamore Drive,Hollywood,Birmingham
+2021-06-28,410000,B47 5PT,D,N,F,45,,Hollywood Lane,Hollywood,Birmingham
+2021-06-28,300000,B47 5NN,D,N,F,6,,Hollywood Gardens,Hollywood,Birmingham
+2021-06-28,322500,B47 5JN,S,N,F,162,,Shawhurst Lane,Hollywood,Birmingham
+2021-06-25,159950,B47 6LN,F,N,L,Silvermead Court,14,Silver Street,Wythall,Birmingham
+2021-06-25,420000,B47 6HP,D,N,F,22,,Selsdon Close,Wythall,Birmingham
+2021-06-25,145000,B47 6HJ,F,N,L,"Beech House, 10",Flat 6,Fulford Close,Wythall,Birmingham
+2021-06-25,275000,B47 5PY,S,N,F,66,,Hollywood Lane,Hollywood,Birmingham
+2021-06-25,485000,B47 5PS,D,N,F,21,,Hollywood Drive,Hollywood,Birmingham
+2021-06-25,367000,B47 5LL,S,N,F,5,,Corbett Road,Hollywood,Birmingham
+2021-06-25,365000,B47 5JR,D,N,F,201,,Shawhurst Lane,Hollywood,Birmingham
+2021-06-25,305000,B47 5JP,T,N,F,93,,Shawhurst Lane,Hollywood,Birmingham
+2021-06-25,435000,B47 5BS,S,N,F,11,,Dark Lane,Hollywood,Birmingham
+2021-06-25,373000,B47 5BP,S,N,F,26,,Alfreda Avenue,Hollywood,Birmingham
+2021-06-23,296000,B47 6AW,S,N,F,4,,Hastings Close,Wythall,Birmingham
+2021-06-23,270000,B47 5DU,S,N,F,29,,The Hurst,Hollywood,Birmingham
+2021-06-21,450000,B47 6AQ,D,N,F,7,,Morrey Close,Wythall,Birmingham
+2021-06-21,365000,B47 5QQ,D,N,F,49,,Lime Close,Hollywood,Birmingham
+2021-06-21,210000,B47 5NX,T,N,F,39,,May Lane,Hollywood,Birmingham
+2021-06-18,440000,B47 6LY,D,N,F,9,,Silver Street,Wythall,Birmingham
+2021-06-18,300000,B47 5NH,S,N,F,28,,Orchard Way,Hollywood,Birmingham
+2021-06-18,235000,B47 5JA,T,N,F,8,,The Close,Hollywood,Birmingham
+2021-06-17,612000,B47 6HN,D,N,F,76,,Lea Green Lane,Wythall,Birmingham
+2021-06-17,412500,B47 6AS,D,N,F,91,,Burnham Road,Wythall,Birmingham
+2021-06-17,585000,B47 5QX,D,N,F,55,,Sycamore Drive,Hollywood,Birmingham
+2021-06-17,320000,B47 5QQ,D,N,L,43,,Lime Close,Hollywood,Birmingham
+2021-06-17,320000,B47 5QQ,T,N,F,43,,Lime Close,Hollywood,Birmingham
+2021-06-16,632500,B47 6LX,D,N,F,101,,Houndsfield Lane,Wythall,Birmingham
+2021-06-14,310000,B47 5QF,D,N,F,4,,Berrymound View,Hollywood,Birmingham
+2021-06-04,195000,B47 5NX,T,N,F,33,,May Lane,Hollywood,Birmingham
+2021-06-01,325000,B47 5JX,D,N,F,"Rose Cottage, 4",,Drakes Close,Hollywood,Birmingham
+2021-05-28,305000,B47 5JG,S,N,F,26,,Mynors Crescent,Hollywood,Birmingham
+2021-05-20,420000,B47 6EX,D,N,F,9,,Littleshaw Croft,Wythall,Birmingham
+2021-05-17,415000,B47 6AW,D,N,F,7,,Hastings Close,Wythall,Birmingham
+2021-05-14,385000,B47 6HP,D,N,F,20,,Selsdon Close,Wythall,Birmingham
+2021-05-14,590000,B47 6AF,D,N,F,153,,Station Road,Wythall,Birmingham
+2021-05-14,350000,B47 5NR,D,N,L,77,,Alcester Road,Hollywood,Birmingham
+2021-05-14,240000,B47 5JS,T,N,F,7,,Forest Way,Hollywood,Birmingham
+2021-05-14,385000,B47 5DX,D,N,F,80,,Oakwood Road,Hollywood,Birmingham
+2021-05-14,315000,B47 5DX,D,N,L,78,,Oakwood Road,Hollywood,Birmingham
+2021-05-14,285000,B47 5DU,S,N,L,25,,The Hurst,Hollywood,Birmingham
+2021-05-10,705000,B47 6BE,D,N,F,Myrtle Cottage,,Tanners Green Lane,Wythall,Birmingham
+2021-04-30,465000,B47 6AT,D,N,F,62,,Burnham Road,Wythall,Birmingham
+2021-04-30,320500,B47 5NX,D,N,F,1A,,May Lane,Hollywood,Birmingham
+2021-04-29,290000,B47 5LU,S,N,L,23,,Chantry Close,Hollywood,Birmingham
+2021-04-28,120000,B47 6AY,S,N,L,8,,Bunny Court,Wythall,Birmingham
+2021-04-26,427000,B47 6EL,S,N,F,2,,Manor Road,Wythall,Birmingham
+2021-04-26,240000,B47 5RW,S,N,F,16,,Rowan Close,Hollywood,Birmingham
+2021-04-23,375000,B47 6EG,S,N,F,31,,Meadow Road,Wythall,Birmingham
+2021-04-23,220000,B47 5HN,T,N,F,4,,Simms Lane,Hollywood,Birmingham
+2021-04-22,460000,B47 6BY,D,N,F,45,,Barkers Lane,Wythall,Birmingham
+2021-04-22,283000,B47 5QA,S,N,F,Ferndon,,Windrush Road,Hollywood,Birmingham
+2021-04-22,415000,B47 5LE,S,N,F,22,,Dyas Road,Hollywood,Birmingham
+2021-04-22,289950,B47 5EN,S,N,L,3,,Chesterwood,Hollywood,Birmingham
+2021-04-22,390000,B47 5EL,S,N,F,17,,Falstaff Avenue,Hollywood,Birmingham
+2021-04-16,380000,B47 5NZ,D,N,F,1,,The Orchards,Hollywood,Birmingham
+2021-04-16,470000,B47 5LH,D,N,F,15,,Simon Road,Hollywood,Birmingham
+2021-04-16,300000,B47 5JZ,S,N,F,34,,Douglas Road,Hollywood,Birmingham
+2021-04-08,343000,B47 6LY,T,N,F,19,,Silver Street,Wythall,Birmingham
+2021-04-08,348000,B47 5LU,D,N,F,15,,Chantry Close,Hollywood,Birmingham
+2021-04-08,335000,B47 5LT,T,N,F,62,,Corbett Road,Hollywood,Birmingham
+2021-04-08,460000,B47 5BS,D,N,F,15,,Dark Lane,Hollywood,Birmingham
+2021-04-07,300000,B47 5PU,D,N,F,24,,Lynbrook Close,Hollywood,Birmingham
+2021-04-01,320000,B47 5JZ,D,N,F,78,,Douglas Road,Hollywood,Birmingham
+2021-04-01,272500,B47 5EP,S,N,F,16,,Falstaff Avenue,Hollywood,Birmingham
+2021-04-01,372000,B47 5DJ,S,N,F,30,,Arden Road,Hollywood,Birmingham
+2021-03-31,425000,B47 5DG,S,N,F,May Cottage,1,Packhorse Lane,Hollywood,Birmingham
+2021-03-30,325500,B47 6EP,S,N,F,24,,Ann Road,Wythall,Birmingham
+2021-03-29,320000,B47 6EW,T,N,F,10,,Innisfree Close,Wythall,Birmingham
+2021-03-29,360000,B47 5RB,D,N,F,22,,Silver Birch Drive,Hollywood,Birmingham
+2021-03-26,620000,B47 6LS,D,N,F,The White House,,Houndsfield Lane,Wythall,Birmingham
+2021-03-26,237000,B47 5RD,S,N,F,6,,Bramley Drive,Hollywood,Birmingham
+2021-03-26,330000,B47 5QP,S,N,F,1,,Houndsfield Close,Hollywood,Birmingham
+2021-03-26,355500,B47 5QN,S,N,F,1,,Wythwood Grove,Hollywood,Birmingham
+2021-03-26,361500,B47 5PE,S,N,F,10,,Warmington Road,Hollywood,Birmingham
+2021-03-26,225000,B47 5JB,T,N,F,49,,Simms Lane,Hollywood,Birmingham
+2021-03-24,530000,B47 6HN,D,N,F,52,,Lea Green Lane,Wythall,Birmingham
+2021-03-24,645000,B47 5ND,D,N,F,Chez Belle,,New Road,Hollywood,Birmingham
+2021-03-23,452000,B47 6AW,D,N,F,2,,Hastings Close,Wythall,Birmingham
+2021-03-22,352000,B47 6BY,S,N,F,9,,Barkers Lane,Wythall,Birmingham
+2021-03-22,285000,B47 5EN,D,N,L,23,,Chesterwood,Hollywood,Birmingham
+2021-03-19,292500,B47 6AW,S,N,F,9,,Hastings Close,Wythall,Birmingham
+2021-03-19,280000,B47 5QG,S,N,F,8,,Mayhurst Road,Hollywood,Birmingham
+2021-03-19,335000,B47 5LS,S,N,F,16,,Fenton Road,Hollywood,Birmingham
+2021-03-18,337000,B47 5DU,S,N,F,3,,The Hurst,Hollywood,Birmingham
+2021-03-18,440000,B47 5DD,D,N,F,9,,Baccabox Lane,Hollywood,Birmingham
+2021-03-15,345000,B47 5ER,S,N,L,23,,Pearmans Croft,Hollywood,Birmingham
+2021-03-12,430000,B47 5QQ,D,N,F,6,,Lime Close,Hollywood,Birmingham
+2021-03-08,275000,B47 5QG,S,N,F,7,,Mayhurst Road,Hollywood,Birmingham
+2021-03-05,365000,B47 5PU,D,N,F,25,,Lynbrook Close,Hollywood,Birmingham
+2021-03-05,400000,B47 5NR,D,N,F,73,,Alcester Road,Hollywood,Birmingham
+2021-03-03,312500,B47 5LR,S,N,F,9,,Heath Road,Hollywood,Birmingham
+2021-03-02,140000,B47 6AH,T,N,L,17,,Butterworth Close,Wythall,Birmingham
+2021-02-26,338500,B47 6AS,D,N,F,93,,Burnham Road,Wythall,Birmingham
+2021-02-26,637000,B47 5QS,D,N,F,26,,Beech Road,Hollywood,Birmingham
+2021-02-26,275000,B47 5NT,T,N,F,14,,May Lane,Hollywood,Birmingham
+2021-02-26,305000,B47 5BP,S,N,F,16,,Alfreda Avenue,Hollywood,Birmingham
+2021-02-25,310000,B47 5LE,S,N,F,11,,Dyas Road,Hollywood,Birmingham
+2021-02-25,220000,B47 5DS,T,N,F,20,,Elmwood Grove,Hollywood,Birmingham
+2021-02-24,435000,B47 6JL,S,N,F,"Police Station, 387",,Alcester Road,Wythall,Birmingham
+2021-02-24,380000,B47 6EP,S,N,F,49,,Ann Road,Wythall,Birmingham
+2021-02-24,255000,B47 6EH,S,N,F,1,,Meadow Croft,Wythall,Birmingham
+2021-02-19,300000,B47 6AB,T,N,F,58,,Station Road,Wythall,Birmingham
+2021-02-19,670000,B47 5RA,D,N,F,5,,Alder Close,Hollywood,Birmingham
+2021-02-15,211000,B47 5HJ,T,N,F,293,,Alcester Road,Hollywood,Birmingham
+2021-02-12,295000,B47 5EE,T,N,F,10,,The Willows,Hollywood,Birmingham
+2021-02-12,455000,B47 5BP,S,N,F,2,,Alfreda Avenue,Hollywood,Birmingham
+2021-02-11,440000,B47 6EN,D,N,F,94,,Meadow Road,Wythall,Birmingham
+2021-02-11,310000,B47 6AD,S,N,F,8,,Green Close,Wythall,Birmingham
+2021-02-11,288000,B47 5PA,T,N,F,83,,May Lane,Hollywood,Birmingham
+2021-02-05,371000,B47 5RL,D,N,F,6,,Cherry Walk,Hollywood,Birmingham
+2021-02-05,320000,B47 5LH,S,N,F,4,,Simon Road,Hollywood,Birmingham
+2021-01-29,405000,B47 5JJ,D,N,F,15,,Coppice Gardens,Hollywood,Birmingham
+2021-01-27,205000,B47 5HN,T,N,F,19,,Simms Lane,Hollywood,Birmingham
+2021-01-21,269950,B47 6LX,T,N,F,67,,Houndsfield Lane,Wythall,Birmingham
+2021-01-19,505000,B47 5PX,D,N,F,10,,Hollywood Lane,Hollywood,Birmingham
+2021-01-14,590000,B47 5QT,D,N,F,40,,Hawthorn Drive,Hollywood,Birmingham

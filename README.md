@@ -4,7 +4,7 @@
 [Blueprint Property Marketing](https://blueprintpropertymarketing.com) for estate agents, developers, land and
 investment teams, and anyone who markets property in England and Wales.
 
-Give it your postcode and it opens a dashboard of your area beside the chat: price trends, sales by
+Give it any address or postcode in England and Wales and it opens a dashboard of that area beside the chat: price trends, sales by
 month and property type, new-build schemes, a postcode map, the busiest streets, and every sale since
 2021 to search.
 Give it your website or your logo and the dashboard carries your logo and colours. It is built from
@@ -53,30 +53,26 @@ says it can't download the data, use the area file below instead.
 
 Using Claude Code? Copy `skills/blueprint` into `~/.claude/skills/blueprint`.
 
-## Areas covered.
+## Where it works.
 
-| District | Area | Local authority | Sales to |
-|---|---|---|---|
-| M33 | Sale | Trafford | August 2026 |
-| WA14 | Altrincham | Trafford | August 2026 |
-| SK7 | Bramhall and Hazel Grove | Stockport | August 2026 |
+Any address, postcode or place in England and Wales: all 2,288 postcode districts with registered sales,
+4,608,851 sales since January 2021. Data is refreshed each month; your installed skill picks up the new
+figures automatically.
 
-Not listed? Email [sam@blueprintpropertymarketing.com](mailto:sam@blueprintpropertymarketing.com)
-with your postcode district, or comment it on our latest post, and we'll add it. Data is refreshed
-each month; your installed skill picks up the new figures automatically.
-
-**If Claude can't download the data:** download `blueprint-area-<district>.zip` from the
-[latest release](https://github.com/Blueprint-Property-Marketing/blueprint-skill/releases/latest), attach it to your chat,
-and ask Claude to use it.
+**If Claude can't download the data:** from the
+[latest release](https://github.com/Blueprint-Property-Marketing/blueprint-skill/releases/latest), download the
+file for the letters at the start of your postcode (`blueprint-areas-M.zip` for M33, `blueprint-areas-SK.zip` for
+SK7), attach it to your chat, and ask Claude to use it.
 
 ## The data.
 
-- **HM Land Registry Price Paid Data.** Every standard residential sale registered since January 2021.
+- **HM Land Registry Price Paid Data.** Every standard residential sale in England and Wales registered since
+  January 2021 (to 2026-08).
   Sales are registered weeks to months after completion, so the latest months are always incomplete;
   the dashboard marks them as still registering.
 - **UK House Price Index.** Published for the local authority, about two months behind. Every price
   trend comes from the index, because medians move with the mix of homes sold.
-- **Postcode locations** for the map, from the ONS Postcode Directory via postcodes.io.
+- **Postcode locations** for the map, and each area's region, from the ONS Postcode Directory.
 
 Contains HM Land Registry data © Crown copyright and database right 2026. This data is licensed under
 the [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
@@ -98,7 +94,7 @@ The skill runs inside your own Claude account. Blueprint Property Marketing can'
 your files or what you ask.
 
 - **What it downloads.** Area data and its display text (such as the panel at the foot of the
-  dashboard) from this public repository on GitHub, and only the area you ask for. GitHub handles
+  dashboard) from this public repository on GitHub, and only the areas you ask for. GitHub handles
   that download under its own privacy terms; the request comes from wherever Claude runs the skill.
 - **What it sends to Blueprint.** Nothing. There are no accounts, no tracking, no analytics and no
   cookies, and nothing is sent back to us.

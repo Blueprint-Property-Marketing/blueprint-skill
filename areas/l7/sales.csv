@@ -1,0 +1,729 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-07-28,60000,L7 0JE,F,N,L,35,,Rawlins Street,,Liverpool
+2026-07-24,232000,L7 1AJ,S,N,F,5,,Winifred Drive,,Liverpool
+2026-07-23,95000,L7 0JG,S,N,F,7A,,Holland Street,,Liverpool
+2026-07-21,130000,L7 0EW,T,N,F,10,,Cameron Street,,Liverpool
+2026-07-17,75000,L7 6AD,T,N,L,71,,Earle Road,,Liverpool
+2026-07-17,118000,L7 3QF,F,N,L,189,,Minster Court,,Liverpool
+2026-07-17,275000,L7 0JP,T,N,F,41,,Lorne Street,,Liverpool
+2026-07-17,178000,L7 0HT,S,N,F,41,,Laburnum Road,,Liverpool
+2026-07-06,161000,L7 9LA,T,N,F,25,,Garthowen Road,,Liverpool
+2026-07-06,242900,L7 8SJ,T,N,F,23,,Jubilee Drive,,Liverpool
+2026-06-23,160000,L7 0JJ,D,N,L,38,,Freehold Street,,Liverpool
+2026-06-22,76000,L7 3QD,F,N,L,71,,Minster Court,,Liverpool
+2026-06-19,26000,L7 3AA,F,N,L,"Queensland Place, 2",Flat 56,Chatham Place,,Liverpool
+2026-06-19,257500,L7 1AB,T,N,F,12,,Royston Street,,Liverpool
+2026-06-19,204000,L7 0JQ,S,N,F,56,,Holland Street,,Liverpool
+2026-06-18,90500,L7 3QE,F,N,L,168,,Minster Court,,Liverpool
+2026-06-16,254000,L7 1AB,T,N,F,14,,Royston Street,,Liverpool
+2026-06-01,196500,L7 2PZ,T,N,F,28,,Cotswold Street,,Liverpool
+2026-05-29,62000,L7 6HB,F,N,L,16,,Golders Green,,Liverpool
+2026-05-29,150000,L7 0JW,S,N,F,36,,Stanley Street,Fairfield,Liverpool
+2026-05-29,125000,L7 0EN,T,N,F,85,,Cameron Street,,Liverpool
+2026-05-28,160000,L7 0HP,S,N,F,14,,Lister Crescent,,Liverpool
+2026-05-22,157000,L7 7AL,F,N,L,198,,Grove Street,Edge Hill,Liverpool
+2026-05-22,45000,L7 0EN,T,N,F,57,,Cameron Street,,Liverpool
+2026-05-18,90000,L7 2PS,T,N,F,35,,Toft Street,,Liverpool
+2026-05-13,160000,L7 9LU,T,N,F,7,,Gresham Street,,Liverpool
+2026-04-24,250000,L7 2QE,T,N,F,11,,Ling Street,,Liverpool
+2026-04-21,89000,L7 6JY,T,N,F,78,,Spofforth Road,,Liverpool
+2026-04-14,192500,L7 0HW,S,N,F,52D,,Edge Grove,,Liverpool
+2026-04-10,145000,L7 2PY,T,N,F,49,,Cotswold Street,,Liverpool
+2026-04-09,105000,L7 0JX,F,N,L,Grampian Court,Flat 22B,Grampian Road,,Liverpool
+2026-03-30,270000,L7 1PF,T,N,F,15,,Wavertree Road,,Liverpool
+2026-03-24,168000,L7 0JE,S,N,F,29,,Rawlins Street,,Liverpool
+2026-03-23,170000,L7 0LJ,T,N,F,19,,Laurel Road,,Liverpool
+2026-03-20,185000,L7 2QU,T,N,F,26,,Anglezark Close,,Liverpool
+2026-03-10,166000,L7 0LH,S,N,F,23,,Holly Road,,Liverpool
+2026-03-06,280000,L7 1PF,T,N,F,43,,Wavertree Road,,Liverpool
+2026-03-02,221500,L7 1AJ,S,N,F,25,,Winifred Drive,,Liverpool
+2026-02-25,210000,L7 3QL,S,N,F,14,,Selsey Close,,Liverpool
+2026-02-13,150000,L7 7DA,F,N,L,120,Flat 10,Bedford Street South,,Liverpool
+2026-02-06,119000,L7 3QB,F,N,L,6,,Minster Court,,Liverpool
+2026-02-06,135000,L7 0JS,T,N,F,15,,Lindale Road,,Liverpool
+2026-01-28,31000,L7 5NH,F,N,L,St Cyprian's Student Halls Limited,Unit G13,Durning Road,,Liverpool
+2026-01-16,160174,L7 8RA,T,N,F,44,,Guelph Street,,Liverpool
+2025-12-19,70000,L7 9LP,T,N,F,18,,Southbank Road,Edge Hill,Liverpool
+2025-12-19,175000,L7 4LH,T,N,F,10,,Richardson Street,,Liverpool
+2025-12-19,162000,L7 2PU,T,N,F,2,,Wrenbury Street,,Liverpool
+2025-12-19,268000,L7 1PW,S,N,F,36,,Dorothy Drive,,Liverpool
+2025-12-17,120000,L7 0EE,T,N,L,39,,Needham Road,,Liverpool
+2025-12-15,200000,L7 6LR,S,N,F,23,,Harkbridge Drive,,Liverpool
+2025-12-11,226800,L7 8SQ,T,N,F,79,,Adelaide Road,Kensington,Liverpool
+2025-12-11,60000,L7 0JH,T,N,F,37,,Freehold Street,,Liverpool
+2025-12-10,150000,L7 6AB,S,N,L,4,,Dunstan Lane,,Liverpool
+2025-12-08,90000,L7 6PD,T,N,L,15,,Galloway Street,,Liverpool
+2025-12-04,337000,L7 0AB,D,N,L,129,,Marrow Drive,,Liverpool
+2025-12-03,166500,L7 7DA,F,N,L,120,Flat 5,Bedford Street South,,Liverpool
+2025-11-28,140000,L7 9LF,T,N,F,329A,,Edge Lane,Fairfield,Liverpool
+2025-11-28,300000,L7 0AB,D,N,F,59,,Marrow Drive,,Liverpool
+2025-11-25,23000,L7 2PR,F,N,L,"Flat 5, 112 - 114",,Holt Road,,Liverpool
+2025-11-21,145000,L7 9LG,S,N,L,355A,,Edge Lane,Fairfield,Liverpool
+2025-11-20,130000,L7 8SQ,T,N,F,46,,Adelaide Road,Kensington,Liverpool
+2025-11-20,107000,L7 2PY,T,N,F,33,,Cotswold Street,,Liverpool
+2025-11-14,120000,L7 0EB,T,N,F,4,,Odsey Street,,Liverpool
+2025-11-13,60000,L7 0EW,T,N,F,48,,Cameron Street,,Liverpool
+2025-11-10,115000,L7 3QD,F,N,L,80,,Minster Court,,Liverpool
+2025-11-05,175000,L7 6HF,T,N,F,12,,Earle Road,,Liverpool
+2025-11-03,185000,L7 1AJ,T,N,F,19,,Winifred Drive,,Liverpool
+2025-11-03,225000,L7 1AG,S,N,F,26,,Martensen Drive,,Liverpool
+2025-10-30,180000,L7 1AG,S,N,F,23,,Martensen Drive,,Liverpool
+2025-10-21,125000,L7 0JS,T,N,F,52,,Lindale Road,,Liverpool
+2025-10-17,100000,L7 3QD,F,N,L,44,,Minster Court,,Liverpool
+2025-10-17,190000,L7 2QN,T,N,F,57,,Holdsworth Drive,,Liverpool
+2025-10-10,84000,L7 6AD,F,N,L,43,,Earle Road,,Liverpool
+2025-10-09,152000,L7 7DL,F,N,L,2,Apartment 19,Stowell Street,,Liverpool
+2025-09-30,150000,L7 0JP,S,N,F,29,,Lorne Street,,Liverpool
+2025-09-22,120000,L7 8RS,T,N,F,17,,Battenberg Street,,Liverpool
+2025-09-22,180000,L7 1QL,T,N,F,4,,Lybro Way,,Liverpool
+2025-09-19,40000,L7 6AQ,F,N,L,1,,Rokesmith Avenue,,Liverpool
+2025-09-17,225000,L7 5PX,S,N,F,35,,Botanic Road,,Liverpool
+2025-09-05,161000,L7 1QL,T,N,F,7,,Lybro Way,,Liverpool
+2025-09-05,135000,L7 0JL,T,N,F,22,,Middleton Road,Fairfield,Liverpool
+2025-09-01,200000,L7 7DB,F,N,L,154,Apartment 1,Bedford Street South,,Liverpool
+2025-08-29,115000,L7 3QH,F,N,L,262,,Minster Court,,Liverpool
+2025-08-21,125000,L7 3QE,F,N,L,142,,Minster Court,,Liverpool
+2025-08-15,180000,L7 2QN,T,N,F,53,,Holdsworth Drive,,Liverpool
+2025-08-12,300000,L7 0AB,D,N,F,103,,Marrow Drive,,Liverpool
+2025-08-01,190000,L7 6AH,S,N,L,9,,Wilfer Close,,Liverpool
+2025-07-31,100000,L7 6LQ,T,N,F,3,,Dovestone Close,,Liverpool
+2025-07-31,155000,L7 2GA,T,N,F,19,,Minto Close,,Liverpool
+2025-07-31,130000,L7 0HE,T,N,F,13,,Lister Road,,Liverpool
+2025-07-31,330000,L7 0AD,D,N,L,10,,Marrow Drive,,Liverpool
+2025-07-28,152000,L7 0JR,S,N,F,4,,Lorne Street,,Liverpool
+2025-07-25,185000,L7 1PW,T,N,F,24,,Dorothy Drive,,Liverpool
+2025-07-23,30000,L7 4LW,F,N,L,10,,Darrel Drive,,Liverpool
+2025-07-23,235000,L7 1QQ,T,N,F,66,,Gladstone Road,Edge Hill,Liverpool
+2025-07-18,140000,L7 3AA,F,N,L,"Queensland Place, 2",Flat 1,Chatham Place,,Liverpool
+2025-07-09,100000,L7 4JG,T,N,F,10A,,Smithdown Road,,Liverpool
+2025-07-09,140000,L7 2PU,T,N,F,4,,Wrenbury Street,,Liverpool
+2025-07-04,248500,L7 0JY,S,N,F,23,,Fairfield Street,,Liverpool
+2025-06-30,122000,L7 9LF,T,N,F,321,,Edge Lane,Fairfield,Liverpool
+2025-06-30,87500,L7 0JJ,S,N,F,8A,,Freehold Street,,Liverpool
+2025-06-27,150000,L7 4JB,S,N,L,27,,Smithdown Road,,Liverpool
+2025-06-27,177500,L7 0JE,S,N,F,13A,,Rawlins Street,,Liverpool
+2025-06-23,227000,L7 1RH,T,N,F,48,,Waterworth Drive,,Liverpool
+2025-06-20,175000,L7 0JW,S,N,F,56,,Stanley Street,Fairfield,Liverpool
+2025-06-19,92000,L7 6JY,T,N,F,88,,Spofforth Road,,Liverpool
+2025-06-18,220000,L7 0JH,S,N,F,25,,Freehold Street,,Liverpool
+2025-06-13,200000,L7 6LH,T,N,F,2,,Silkstone Close,,Liverpool
+2025-06-04,95000,L7 8RR,T,N,F,29,,Teck Street,,Liverpool
+2025-05-30,170000,L7 2QB,T,N,F,37,,Fell Street,,Liverpool
+2025-05-23,127000,L7 0LR,F,N,L,20,Flat 4,Lilley Road,,Liverpool
+2025-05-21,173000,L7 6HQ,S,N,F,92,,Earle Road,,Liverpool
+2025-05-20,125000,L7 0JL,T,N,F,36,,Middleton Road,Fairfield,Liverpool
+2025-05-16,152000,L7 8SA,T,N,F,139,,Albert Edward Road,,Liverpool
+2025-05-14,167000,L7 9LU,T,N,F,12,,Gresham Street,,Liverpool
+2025-05-08,160000,L7 3QE,T,N,L,130,,Minster Court,,Liverpool
+2025-05-06,167500,L7 0EF,T,N,F,61,,Needham Road,,Liverpool
+2025-05-02,72000,L7 6PB,T,N,F,27,,Sandhead Street,,Liverpool
+2025-05-02,90000,L7 0JS,T,N,F,20,,Lindale Road,,Liverpool
+2025-04-25,236000,L7 1AG,T,N,F,16,,Martensen Drive,,Liverpool
+2025-04-11,80000,L7 7DA,F,N,L,120,Flat 2,Bedford Street South,,Liverpool
+2025-04-08,80750,L7 9LP,T,N,F,34,,Southbank Road,Edge Hill,Liverpool
+2025-04-07,190000,L7 1AF,S,N,F,12,,Cicely Drive,,Liverpool
+2025-04-04,142000,L7 9LU,T,N,F,27,,Gresham Street,,Liverpool
+2025-04-02,110000,L7 6HA,T,N,F,25,,Earle Road,,Liverpool
+2025-04-01,107000,L7 3QD,F,N,L,42,,Minster Court,,Liverpool
+2025-03-31,99000,L7 3QE,F,N,L,164,,Minster Court,,Liverpool
+2025-03-31,193000,L7 1AJ,T,N,F,9,,Winifred Drive,,Liverpool
+2025-03-28,190000,L7 6LR,S,N,F,11,,Harkbridge Drive,,Liverpool
+2025-03-28,100000,L7 3QE,F,N,L,113,,Minster Court,,Liverpool
+2025-03-27,262200,L7 0AB,S,N,F,35,,Marrow Drive,,Liverpool
+2025-03-25,300000,L7 1PW,D,N,F,5,,Dorothy Drive,,Liverpool
+2025-03-24,220000,L7 4LQ,T,N,F,106,,Webster Road,,Liverpool
+2025-03-21,82000,L7 6NX,T,N,F,13,,Corsewall Street,,Liverpool
+2025-03-21,111000,L7 0JH,D,N,F,19,,Freehold Street,,Liverpool
+2025-03-17,118000,L7 0JT,T,N,F,23,,Cheviot Road,,Liverpool
+2025-03-13,168750,L7 0JE,S,N,F,15A,,Rawlins Street,,Liverpool
+2025-03-12,200000,L7 0HP,S,N,F,3,,Lister Crescent,,Liverpool
+2025-03-07,200000,L7 1PZ,S,N,F,68,,Royston Street,,Liverpool
+2025-03-03,220000,L7 1RH,T,N,F,45,,Waterworth Drive,,Liverpool
+2025-02-28,122000,L7 3QH,F,N,L,276,,Minster Court,,Liverpool
+2025-02-28,95000,L7 3QE,F,N,L,117,,Minster Court,,Liverpool
+2025-02-28,170000,L7 0JP,S,N,F,25,,Lorne Street,,Liverpool
+2025-02-26,135000,L7 7DL,F,N,L,2,Apartment 1,Stowell Street,,Liverpool
+2025-02-21,150000,L7 0ET,T,N,F,34,,Deane Road,,Liverpool
+2025-02-19,60000,L7 6HY,F,N,L,107,,Spekeland Road,,Liverpool
+2025-02-19,220000,L7 1PW,T,N,F,10,,Dorothy Drive,,Liverpool
+2025-02-17,76000,L7 6PD,T,N,F,12,,Galloway Street,,Liverpool
+2025-02-12,100000,L7 8TS,F,N,L,3,,North View,Edge Hill,Liverpool
+2025-02-12,110000,L7 8SQ,T,N,F,102,,Adelaide Road,Kensington,Liverpool
+2025-02-12,41000,L7 4LW,F,N,L,8,,Darrel Drive,,Liverpool
+2025-01-27,130000,L7 4LW,T,N,L,15,,Darrel Drive,,Liverpool
+2025-01-17,44308,L7 0EN,T,N,F,69,,Cameron Street,,Liverpool
+2025-01-15,125000,L7 0HW,S,N,F,32,,Edge Grove,,Liverpool
+2025-01-14,54000,L7 0JJ,F,N,L,50B,,Freehold Street,,Liverpool
+2025-01-13,195000,L7 2QS,T,N,F,3,,Gilead Street,,Liverpool
+2025-01-10,105000,L7 9LP,T,N,F,13,,Southbank Road,Edge Hill,Liverpool
+2025-01-07,92000,L7 9LU,T,N,F,3,,Gresham Street,,Liverpool
+2025-01-07,140000,L7 7DA,F,N,L,122,Flat 4,Bedford Street South,,Liverpool
+2024-12-20,140000,L7 6AQ,S,N,L,30,,Rokesmith Avenue,,Liverpool
+2024-12-20,40000,L7 4LD,T,N,F,1,,Bird Street,,Liverpool
+2024-12-20,60000,L7 0JJ,T,N,F,8,,Freehold Street,,Liverpool
+2024-12-18,166000,L7 6LR,S,N,F,10,,Harkbridge Drive,,Liverpool
+2024-12-17,135000,L7 7DL,F,N,L,2,Apartment 50,Stowell Street,,Liverpool
+2024-12-13,10000,L7 3AA,F,N,L,"Queensland Place, 2",Flat 13,Chatham Place,,Liverpool
+2024-12-11,135000,L7 7DL,F,N,L,2,Apartment 39,Stowell Street,,Liverpool
+2024-12-10,132000,L7 0JS,T,N,F,21,,Lindale Road,,Liverpool
+2024-12-09,55000,L7 6JY,F,N,L,66,,Spofforth Road,,Liverpool
+2024-12-05,228000,L7 1AD,T,N,F,2,,Peet Street,,Liverpool
+2024-12-04,140000,L7 8SR,T,N,F,72,,Leopold Road,Kensington,Liverpool
+2024-12-02,250500,L7 1AB,T,N,F,20,,Royston Street,,Liverpool
+2024-11-29,110000,L7 0JE,S,N,F,11A,,Rawlins Street,,Liverpool
+2024-11-29,195000,L7 0HW,S,N,F,56,,Edge Grove,,Liverpool
+2024-11-29,140000,L7 0ET,S,N,F,36,,Deane Road,,Liverpool
+2024-11-28,122000,L7 3QH,F,N,L,247,,Minster Court,,Liverpool
+2024-11-28,230000,L7 1QR,S,N,F,2,,Milroy Way,,Liverpool
+2024-11-28,207000,L7 1AG,T,N,F,20,,Martensen Drive,,Liverpool
+2024-11-22,285000,L7 1PZ,D,N,F,86,,Royston Street,,Liverpool
+2024-11-18,203000,L7 9LY,T,N,F,43,,Birchfield Road,Edge Hill,Liverpool
+2024-11-11,202000,L7 6LP,S,N,F,70,,Tunnel Road,,Liverpool
+2024-11-08,145000,L7 8SR,T,N,F,100,,Leopold Road,Kensington,Liverpool
+2024-10-28,300000,L7 7DL,F,N,L,2,Apartment 55,Stowell Street,,Liverpool
+2024-10-23,139000,L7 0JP,S,N,F,21,,Lorne Street,,Liverpool
+2024-10-22,215000,L7 5ND,T,N,F,75A,,Durning Road,,Liverpool
+2024-10-16,217000,L7 9LB,T,N,F,271A,,Edge Lane,Fairfield,Liverpool
+2024-10-16,217000,L7 9LB,T,N,L,271A,,Edge Lane,Fairfield,Liverpool
+2024-10-01,183000,L7 5QB,T,N,L,30,,Arnside Road,Edge Hill,Liverpool
+2024-09-30,139500,L7 0ET,S,N,F,20,,Deane Road,,Liverpool
+2024-09-27,80000,L7 8SP,T,N,F,7,,Leopold Road,Kensington,Liverpool
+2024-09-27,137500,L7 7DL,F,N,L,2,Apartment 29,Stowell Street,,Liverpool
+2024-09-27,150000,L7 5QQ,T,N,F,16,,Clint Way,,Liverpool
+2024-09-25,100000,L7 3LB,F,N,L,116,,Crown Station Place,,Liverpool
+2024-09-16,310000,L7 8SF,T,N,F,150,,Empress Road,Kensington,Liverpool
+2024-09-12,94873,L7 2QE,T,N,F,11,,Ling Street,,Liverpool
+2024-09-06,70000,L7 0JE,F,N,L,37A,,Rawlins Street,,Liverpool
+2024-09-05,96000,L7 6PD,T,N,F,10,,Galloway Street,,Liverpool
+2024-09-03,140000,L7 2QF,T,N,L,8,,Ling Street,,Liverpool
+2024-08-30,60000,L7 8SN,F,N,L,40A,Flat 7,Jubilee Drive,,Liverpool
+2024-08-29,167500,L7 6LB,T,N,F,2,,Brightgate Close,,Liverpool
+2024-08-29,130000,L7 2QB,T,N,F,13,,Fell Street,,Liverpool
+2024-08-27,82500,L7 9LX,T,N,F,25,,Alford Street,,Liverpool
+2024-08-27,164000,L7 1QR,S,N,F,3,,Milroy Way,,Liverpool
+2024-08-23,115000,L7 9LU,T,N,F,36,,Gresham Street,,Liverpool
+2024-08-23,260000,L7 1AA,D,N,F,17,,Gladstone Road,,Liverpool
+2024-08-21,30500,L7 3AA,F,N,L,"Queensland Place, 2",Flat 173,Chatham Place,,Liverpool
+2024-08-14,215000,L7 1RB,T,N,F,3,,Thorburn Drive,,Liverpool
+2024-08-13,120000,L7 8SS,T,N,F,116,,Leopold Road,Kensington,Liverpool
+2024-08-13,108000,L7 3LB,F,N,L,112,,Crown Station Place,,Liverpool
+2024-08-09,134700,L7 7DL,F,N,L,2,Apartment 5,Stowell Street,,Liverpool
+2024-08-09,143000,L7 0JS,T,N,F,37,,Lindale Road,,Liverpool
+2024-08-05,72000,L7 6PB,T,N,F,3,,Sandhead Street,,Liverpool
+2024-07-31,117500,L7 0EH,T,N,F,15,,Dial Street,,Liverpool
+2024-07-26,105000,L7 8SS,T,N,F,130,,Leopold Road,Kensington,Liverpool
+2024-07-26,83000,L7 6PD,T,N,F,54,,Galloway Street,,Liverpool
+2024-07-26,150000,L7 6AT,T,N,F,14,,Bowmore Way,,Liverpool
+2024-07-26,96000,L7 3QB,F,N,L,27,,Minster Court,,Liverpool
+2024-07-22,120000,L7 4LH,T,N,F,11,,Richardson Street,,Liverpool
+2024-07-19,33000,L7 4LW,F,N,L,8,,Darrel Drive,,Liverpool
+2024-07-18,46000,L7 5NB,F,N,L,St Cyprian's Student Halls,Unit Cp11,Durning Road,,Liverpool
+2024-07-15,116000,L7 2PX,T,N,F,20,,Cliff Street,,Liverpool
+2024-07-15,257000,L7 1AA,D,N,F,11,,Gladstone Road,,Liverpool
+2024-07-15,61500,L7 0EU,F,N,L,17,Flat 7,Beech Street,,Liverpool
+2024-07-10,170000,L7 0HP,S,N,F,12,,Lister Crescent,,Liverpool
+2024-07-09,180000,L7 8RD,T,N,F,16,,Edinburgh Road,Kensington,Liverpool
+2024-07-05,100000,L7 8SR,T,N,F,86,,Leopold Road,Kensington,Liverpool
+2024-07-03,260000,L7 0AB,D,N,F,87,,Marrow Drive,,Liverpool
+2024-06-28,90000,L7 6PD,T,N,F,59,,Galloway Street,,Liverpool
+2024-06-24,120000,L7 8SF,T,N,F,129,,Empress Road,Kensington,Liverpool
+2024-06-24,77500,L7 6LR,F,N,L,2,,Harkbridge Drive,,Liverpool
+2024-06-13,207000,L7 1PW,T,N,F,8,,Dorothy Drive,,Liverpool
+2024-06-11,120000,L7 6JP,T,N,F,7,,Bannerman Street,,Liverpool
+2024-06-07,150500,L7 8TE,T,N,F,89,,Hall Lane,Kensington,Liverpool
+2024-06-07,252500,L7 5PY,T,N,F,111,,Botanic Road,,Liverpool
+2024-06-07,101000,L7 3LB,F,N,L,110,,Crown Station Place,,Liverpool
+2024-06-06,215000,L7 0HT,D,N,F,14,,Laburnum Road,,Liverpool
+2024-06-03,168000,L7 6LF,T,N,F,69,,Chatsworth Drive,,Liverpool
+2024-05-31,197000,L7 7DL,F,N,L,2,Apartment 7,Stowell Street,,Liverpool
+2024-05-31,90000,L7 6QA,S,N,L,11,,Heathcote Close,,Liverpool
+2024-05-31,55500,L7 6AD,F,N,L,57,,Earle Road,,Liverpool
+2024-05-31,113000,L7 0EH,T,N,F,5,,Dial Street,,Liverpool
+2024-05-24,100000,L7 3QB,F,N,L,25,,Minster Court,,Liverpool
+2024-05-21,165000,L7 0HW,S,N,F,52B,,Edge Grove,,Liverpool
+2024-05-17,74000,L7 6NY,T,N,F,31,,Webster Road,,Liverpool
+2024-05-16,95000,L7 0EQ,T,N,F,50,,Needham Road,,Liverpool
+2024-05-16,102500,L7 0EN,S,N,F,45,,Cameron Street,,Liverpool
+2024-05-10,55000,L7 6JS,T,N,F,33,,Spofforth Road,,Liverpool
+2024-05-03,142000,L7 9LU,T,N,F,15,,Gresham Street,,Liverpool
+2024-05-03,170000,L7 6LS,S,N,F,138,,Tunnel Road,,Liverpool
+2024-05-02,89950,L7 2QE,T,N,F,25,,Ling Street,,Liverpool
+2024-05-01,80000,L7 0JL,T,N,F,29,,Middleton Road,Fairfield,Liverpool
+2024-04-30,125000,L7 8SR,T,N,F,58,,Leopold Road,Kensington,Liverpool
+2024-04-22,87000,L7 1PW,T,N,L,42,,Dorothy Drive,,Liverpool
+2024-04-22,127000,L7 0JT,T,N,F,33,,Cheviot Road,,Liverpool
+2024-04-22,130000,L7 0ET,S,N,F,54,,Deane Road,,Liverpool
+2024-04-19,163000,L7 7DL,F,N,L,2,Apartment 52,Stowell Street,,Liverpool
+2024-04-18,130000,L7 8RQ,T,N,F,33,,Albany Road,Kensington,Liverpool
+2024-04-11,270000,L7 8SG,T,N,F,17,,Adelaide Road,Kensington,Liverpool
+2024-04-10,216000,L7 0JG,S,N,F,65,,Holland Street,,Liverpool
+2024-04-02,128500,L7 8SG,T,N,F,39,,Adelaide Road,Kensington,Liverpool
+2024-04-02,36000,L7 3AA,F,N,L,"Queensland Place, 2",Flat 65,Chatham Place,,Liverpool
+2024-03-28,185000,L7 0LR,T,N,F,22B,,Lilley Road,,Liverpool
+2024-03-20,62000,L7 0JQ,F,N,L,38,,Holland Street,,Liverpool
+2024-03-18,272000,L7 1PF,S,N,F,23,,Wavertree Road,,Liverpool
+2024-03-11,192000,L7 6AA,S,N,L,12,,Claypole Close,,Liverpool
+2024-03-11,160050,L7 1RB,T,N,F,12,,Thorburn Drive,,Liverpool
+2024-03-01,166000,L7 8SE,T,N,F,93,,Empress Road,Kensington,Liverpool
+2024-02-29,107500,L7 8SR,T,N,F,95,,Leopold Road,Kensington,Liverpool
+2024-02-23,103000,L7 2PU,T,N,F,15,,Wrenbury Street,,Liverpool
+2024-02-15,102186,L7 8SA,T,N,F,113,,Albert Edward Road,,Liverpool
+2024-02-07,90200,L7 6JS,T,N,F,11,,Spofforth Road,,Liverpool
+2024-02-06,165000,L7 6AQ,S,N,L,23,,Rokesmith Avenue,,Liverpool
+2024-01-31,290000,L7 1PF,T,N,F,29,,Wavertree Road,,Liverpool
+2024-01-12,265000,L7 7AL,F,N,L,198 - 200,Flat 1,Grove Street,Edge Hill,Liverpool
+2024-01-05,176500,L7 0JQ,S,N,F,32,,Holland Street,,Liverpool
+2023-12-12,125000,L7 8RP,T,N,F,82,,Connaught Road,,Liverpool
+2023-11-30,140000,L7 9LA,T,N,F,3,,Garthowen Road,,Liverpool
+2023-11-17,135000,L7 0HG,T,N,L,5,,Lockerby Road,,Liverpool
+2023-11-17,135000,L7 0HG,T,N,F,5,,Lockerby Road,,Liverpool
+2023-11-10,140000,L7 6LR,S,N,F,23,,Harkbridge Drive,,Liverpool
+2023-11-10,159000,L7 6AQ,S,N,L,25,,Rokesmith Avenue,,Liverpool
+2023-11-10,110000,L7 3QH,T,N,L,217,,Minster Court,,Liverpool
+2023-11-10,184500,L7 0JQ,S,N,F,24,,Holland Street,,Liverpool
+2023-11-02,145000,L7 0HW,S,N,F,86,,Edge Grove,,Liverpool
+2023-10-27,120000,L7 9LP,T,N,F,14,,Southbank Road,Edge Hill,Liverpool
+2023-10-27,210000,L7 2PY,T,N,F,57,,Cotswold Street,,Liverpool
+2023-10-24,3971025,L7 0JS,T,N,F,36,,Lindale Road,,Liverpool
+2023-10-18,79000,L7 6JS,T,N,F,5,,Spofforth Road,,Liverpool
+2023-10-18,120000,L7 3QH,F,N,L,254,,Minster Court,,Liverpool
+2023-10-13,18000,L7 6HH,F,N,L,158,Flat 7,Earle Road,,Liverpool
+2023-10-13,125000,L7 0JH,T,N,F,29,,Freehold Street,,Liverpool
+2023-10-10,125000,L7 0EB,T,N,F,19,,Odsey Street,,Liverpool
+2023-10-02,107500,L7 3LB,F,N,L,94,,Crown Station Place,,Liverpool
+2023-09-29,100000,L7 0HG,T,N,F,1,,Lockerby Road,,Liverpool
+2023-09-27,280000,L7 0AB,D,N,L,137,,Marrow Drive,,Liverpool
+2023-09-25,38130,L7 2QB,T,N,F,39,,Fell Street,,Liverpool
+2023-09-22,103000,L7 3LB,F,N,L,86,,Crown Station Place,,Liverpool
+2023-09-22,75000,L7 0JG,T,N,L,33B,,Holland Street,,Liverpool
+2023-09-19,110000,L7 5QQ,T,N,F,8,,Clint Way,,Liverpool
+2023-09-15,200000,L7 0ES,T,N,F,35,,Deane Road,,Liverpool
+2023-09-08,105000,L7 3LB,F,N,L,60,,Crown Station Place,,Liverpool
+2023-09-08,160000,L7 1RH,T,N,F,27,,Waterworth Drive,,Liverpool
+2023-09-07,300000,L7 8TE,T,N,F,53,,Hall Lane,Kensington,Liverpool
+2023-09-05,155000,L7 8SR,T,N,F,100,,Leopold Road,Kensington,Liverpool
+2023-09-05,172500,L7 6LG,T,N,F,34,,Chatsworth Drive,,Liverpool
+2023-08-31,115000,L7 8SR,T,N,F,74,,Leopold Road,Kensington,Liverpool
+2023-08-25,126000,L7 2QD,T,N,F,72,,Fell Street,,Liverpool
+2023-08-17,128000,L7 0HT,S,N,F,53,,Laburnum Road,,Liverpool
+2023-08-16,234000,L7 7BA,F,N,L,156,Flat 2,Chatham Street,,Liverpool
+2023-08-09,115000,L7 6HF,S,N,L,38,,Earle Road,,Liverpool
+2023-08-09,111000,L7 3QD,F,N,L,110,,Minster Court,,Liverpool
+2023-07-21,168500,L7 8TE,T,N,F,63,,Hall Lane,Kensington,Liverpool
+2023-07-21,163500,L7 6AH,S,N,L,6,,Wilfer Close,,Liverpool
+2023-07-19,165000,L7 0HW,S,N,F,50,,Edge Grove,,Liverpool
+2023-07-14,130000,L7 0ES,T,N,F,49,,Deane Road,,Liverpool
+2023-07-07,110000,L7 3LB,F,N,L,113,,Crown Station Place,,Liverpool
+2023-07-04,121000,L7 6AU,T,N,F,33,,Alexandra Road,,Liverpool
+2023-06-30,114000,L7 6AT,S,N,F,4,,Bowmore Way,,Liverpool
+2023-06-30,150000,L7 3AA,F,N,L,"Queensland Place, 2",Apartment 30,Chatham Place,,Liverpool
+2023-06-23,80000,L7 0JL,T,N,F,56,,Middleton Road,Fairfield,Liverpool
+2023-06-19,150000,L7 0JR,T,N,F,44,,Lorne Street,,Liverpool
+2023-06-14,210000,L7 0EH,T,N,F,3,,Dial Street,,Liverpool
+2023-06-09,28000,L7 3AA,F,N,L,Queensland Place 2,Flat 223,Chatham Place,,Liverpool
+2023-06-07,190999,L7 8XE,T,N,F,166,,Kensington,,Liverpool
+2023-06-01,130000,L7 4JP,T,N,F,22,,Corney Street,,Liverpool
+2023-05-26,122000,L7 9LT,T,N,F,9,,Romulus Street,,Liverpool
+2023-05-26,145000,L7 8RX,T,N,F,123,,Saxony Road,,Liverpool
+2023-05-26,285000,L7 1PG,T,N,F,89,,Wavertree Road,,Liverpool
+2023-05-26,155000,L7 0JE,S,N,F,45,,Rawlins Street,,Liverpool
+2023-05-25,64000,L7 8SN,F,N,L,40A,Flat 35,Jubilee Drive,,Liverpool
+2023-05-24,162500,L7 0HW,S,N,F,22,,Edge Grove,,Liverpool
+2023-05-24,125000,L7 0EJ,F,N,L,6,,Gannock Street,,Liverpool
+2023-05-24,125000,L7 0EJ,F,N,F,6,,Gannock Street,,Liverpool
+2023-05-23,225000,L7 0AB,S,N,F,27,,Marrow Drive,,Liverpool
+2023-05-19,135000,L7 4LW,T,N,L,29,,Darrel Drive,,Liverpool
+2023-05-12,130000,L7 8SF,T,N,F,123,,Empress Road,Kensington,Liverpool
+2023-05-12,115000,L7 3QH,F,N,L,255,,Minster Court,,Liverpool
+2023-05-09,140000,L7 6LR,S,N,F,11,,Harkbridge Drive,,Liverpool
+2023-05-02,97000,L7 2PT,T,N,F,29,,Stamford Street,,Liverpool
+2023-04-28,120000,L7 6QA,S,N,L,5,,Heathcote Close,,Liverpool
+2023-04-21,142000,L7 8RQ,T,N,F,79,,Albany Road,Kensington,Liverpool
+2023-04-21,125000,L7 6HY,T,N,L,123,,Spekeland Road,,Liverpool
+2023-04-06,176500,L7 8RD,S,N,F,41,,Edinburgh Road,Kensington,Liverpool
+2023-04-06,170000,L7 6AT,S,N,F,12,,Bowmore Way,,Liverpool
+2023-04-05,115000,L7 3QH,F,N,L,202,,Minster Court,,Liverpool
+2023-04-05,82000,L7 0ER,T,N,F,3,,Botanic Place,,Liverpool
+2023-04-03,175100,L7 3LP,T,N,F,257,,Smithdown Lane,,Liverpool
+2023-03-31,180000,L7 2QB,T,N,F,49,,Fell Street,,Liverpool
+2023-03-29,160000,L7 7BA,F,N,L,152,Flat 1,Chatham Street,,Liverpool
+2023-03-29,130000,L7 0JL,T,N,F,22,,Middleton Road,Fairfield,Liverpool
+2023-03-27,47750,L7 4JG,F,N,L,34,,Smithdown Road,,Liverpool
+2023-03-23,71000,L7 0JG,T,N,L,41A,,Holland Street,,Liverpool
+2023-03-17,153000,L7 8SF,T,N,F,148,,Empress Road,Kensington,Liverpool
+2023-03-15,205000,L7 8SQ,T,N,F,45,,Adelaide Road,Kensington,Liverpool
+2023-03-14,175000,L7 2QN,T,N,F,57,,Holdsworth Drive,,Liverpool
+2023-03-14,125000,L7 0HE,T,N,F,9,,Lister Road,,Liverpool
+2023-03-10,90000,L7 0JX,F,N,L,Grampian Court,Flat 24,Grampian Road,,Liverpool
+2023-03-03,235000,L7 1AJ,S,N,F,4,,Winifred Drive,,Liverpool
+2023-03-01,55000,L7 4LG,T,N,F,121,,Webster Road,,Liverpool
+2023-02-24,165000,L7 0JU,T,N,F,10,,Lomond Road,,Liverpool
+2023-02-24,159000,L7 0EE,T,N,F,53,,Needham Road,,Liverpool
+2023-02-23,115000,L7 6QA,S,N,L,10,,Heathcote Close,,Liverpool
+2023-02-22,85000,L7 0ER,T,N,F,28,,Botanic Place,,Liverpool
+2023-02-17,109000,L7 6QB,F,N,L,12,,Wainwright Close,,Liverpool
+2023-02-14,242000,L7 0LJ,S,N,F,17,,Laurel Road,,Liverpool
+2023-02-13,75000,L7 6PD,T,N,F,27,,Galloway Street,,Liverpool
+2023-02-06,115000,L7 0JG,S,N,L,9A,,Holland Street,,Liverpool
+2023-02-03,120000,L7 6AE,S,Y,F,18,,Fearnside Street,,Liverpool
+2023-02-02,101000,L7 3LB,F,N,L,108,,Crown Station Place,,Liverpool
+2023-02-01,130000,L7 6HG,T,N,L,23,,Golders Green,,Liverpool
+2023-01-31,105000,L7 2PY,T,N,F,59,,Cotswold Street,,Liverpool
+2023-01-31,280000,L7 0AB,D,N,L,7,,Marrow Drive,,Liverpool
+2023-01-27,190000,L7 6LG,T,N,F,32,,Chatsworth Drive,,Liverpool
+2023-01-26,115000,L7 7DA,F,N,L,122,Flat 7,Bedford Street South,,Liverpool
+2023-01-20,178500,L7 6AT,T,N,F,35,,Bowmore Way,,Liverpool
+2023-01-20,105000,L7 2QD,T,N,F,60,,Fell Street,,Liverpool
+2023-01-19,158000,L7 0LJ,T,N,F,19,,Laurel Road,,Liverpool
+2023-01-16,155000,L7 2QA,T,N,F,12,,Dell Street,,Liverpool
+2023-01-13,96000,L7 3QE,F,N,L,140,,Minster Court,,Liverpool
+2023-01-06,130000,L7 3QH,T,N,L,230,,Minster Court,,Liverpool
+2023-01-04,126712,L7 6JS,T,N,F,9,,Spofforth Road,,Liverpool
+2023-01-03,180000,L7 6AQ,S,N,L,30,,Rokesmith Avenue,,Liverpool
+2022-12-21,27000,L7 3AA,F,N,L,Queensland Place 2,Flat 200,Chatham Place,,Liverpool
+2022-12-19,90000,L7 0ER,S,N,F,39,,Botanic Place,,Liverpool
+2022-12-16,141000,L7 6NX,T,N,F,17,,Corsewall Street,,Liverpool
+2022-12-16,120000,L7 6AE,D,Y,F,8,,Fearnside Street,,Liverpool
+2022-12-16,150000,L7 0HW,S,N,F,48,,Edge Grove,,Liverpool
+2022-12-14,125000,L7 7DA,F,N,L,120,Flat 10,Bedford Street South,,Liverpool
+2022-12-13,133000,L7 6HB,T,N,L,42,,Golders Green,,Liverpool
+2022-12-12,135000,L7 9LY,T,N,F,39,,Birchfield Road,Edge Hill,Liverpool
+2022-12-12,120000,L7 6AE,S,Y,F,20,,Fearnside Street,,Liverpool
+2022-12-09,160000,L7 2QF,T,N,F,18,,Ling Street,,Liverpool
+2022-12-07,90500,L7 8RU,T,N,F,71,,Saxony Road,,Liverpool
+2022-12-06,78000,L7 6NY,T,N,F,33,,Webster Road,,Liverpool
+2022-12-05,80000,L7 8RT,T,N,F,3,,Saxony Road,,Liverpool
+2022-12-02,84000,L7 6NY,T,N,F,43,,Webster Road,,Liverpool
+2022-12-02,155000,L7 0JF,S,N,F,8,,Rawlins Street,,Liverpool
+2022-11-30,117000,L7 3QE,F,N,L,127,,Minster Court,,Liverpool
+2022-11-28,96000,L7 0JL,T,N,F,12,,Middleton Road,Fairfield,Liverpool
+2022-11-21,170000,L7 1PW,S,N,F,9,,Dorothy Drive,,Liverpool
+2022-11-15,90000,L7 2PS,S,N,F,3,,Toft Street,,Liverpool
+2022-11-11,160000,L7 8TD,T,N,F,25,,Hall Lane,Kensington,Liverpool
+2022-11-11,75000,L7 6AD,F,N,L,75,,Earle Road,,Liverpool
+2022-11-11,80000,L7 4LG,T,N,F,105,,Webster Road,,Liverpool
+2022-11-11,80000,L7 0JJ,F,N,L,44B,,Freehold Street,,Liverpool
+2022-11-07,120000,L7 9LP,T,N,F,3A,,Southbank Road,Edge Hill,Liverpool
+2022-11-07,145000,L7 0LP,F,N,L,39,Apartment 3,Lilley Road,,Liverpool
+2022-11-04,157000,L7 6LR,S,N,F,12,,Harkbridge Drive,,Liverpool
+2022-10-31,200000,L7 0JD,T,N,F,158,,Prescot Road,Fairfield,Liverpool
+2022-10-28,120000,L7 7DL,F,N,L,2,Apartment 41,Stowell Street,,Liverpool
+2022-10-28,20000,L7 6HH,F,N,L,158,Flat 14,Earle Road,,Liverpool
+2022-10-28,162500,L7 6AJ,S,N,L,5,,Wrayburn Close,,Liverpool
+2022-10-27,140000,L7 3JU,T,N,F,101,,Smithdown Lane,,Liverpool
+2022-10-20,460000,L7 8TS,T,N,F,5,,North View,Edge Hill,Liverpool
+2022-10-14,170000,L7 0JG,S,N,F,61,,Holland Street,,Liverpool
+2022-10-14,200000,L7 0AD,S,N,L,14,,Marrow Drive,,Liverpool
+2022-10-13,170000,L7 8RP,T,N,F,46,,Connaught Road,,Liverpool
+2022-10-12,110000,L7 7DL,F,N,L,2,Apartment 4,Stowell Street,,Liverpool
+2022-10-11,165000,L7 8SR,T,N,F,62,,Leopold Road,Kensington,Liverpool
+2022-10-08,183000,L7 0JQ,S,N,F,14,,Holland Street,,Liverpool
+2022-10-07,305000,L7 8SG,T,N,F,35,,Adelaide Road,Kensington,Liverpool
+2022-09-30,178500,L7 2QF,T,N,F,66,,Ling Street,,Liverpool
+2022-09-16,120000,L7 3LB,F,N,L,79,,Crown Station Place,,Liverpool
+2022-09-16,82000,L7 0JE,S,N,F,45,,Rawlins Street,,Liverpool
+2022-09-12,190000,L7 0HP,S,N,F,9,,Lister Crescent,,Liverpool
+2022-09-09,89000,L7 3QE,F,N,L,161,,Minster Court,,Liverpool
+2022-09-09,200000,L7 0JY,S,N,L,9,,Fairfield Street,,Liverpool
+2022-08-26,90000,L7 7DA,F,N,L,122,Flat 3,Bedford Street South,,Liverpool
+2022-08-26,151500,L7 0JQ,S,N,F,56,,Holland Street,,Liverpool
+2022-08-25,96500,L7 3LB,F,N,L,59,,Crown Station Place,,Liverpool
+2022-08-23,150000,L7 6QB,S,N,L,8,,Wainwright Close,,Liverpool
+2022-08-18,240000,L7 5NA,S,N,F,140,,Edge Lane,Edge Hill,Liverpool
+2022-08-17,165000,L7 9LY,T,N,F,41,,Birchfield Road,Edge Hill,Liverpool
+2022-08-16,120000,L7 2QN,T,N,F,51,,Holdsworth Drive,,Liverpool
+2022-08-16,140100,L7 2QN,T,N,F,11,,Holdsworth Drive,,Liverpool
+2022-08-12,90000,L7 0JX,F,N,L,Grampian Court,Flat 14B,Grampian Road,,Liverpool
+2022-08-11,85000,L7 0JS,T,N,F,43,,Lindale Road,,Liverpool
+2022-08-10,102000,L7 0LA,T,N,F,103A,,Prescot Road,Fairfield,Liverpool
+2022-08-09,320000,L7 0EU,S,N,F,13,,Beech Street,,Liverpool
+2022-08-05,130000,L7 8RQ,T,N,F,35,,Albany Road,Kensington,Liverpool
+2022-08-05,77000,L7 6PD,T,N,F,38,,Galloway Street,,Liverpool
+2022-08-05,124000,L7 3QE,F,N,L,143,,Minster Court,,Liverpool
+2022-08-04,128000,L7 6QB,S,N,L,2,,Wainwright Close,,Liverpool
+2022-07-29,180000,L7 8SD,T,N,F,25,,Empress Road,Kensington,Liverpool
+2022-07-29,112500,L7 0JS,T,N,F,25,,Lindale Road,,Liverpool
+2022-07-29,131000,L7 0EE,T,N,F,7,,Needham Road,,Liverpool
+2022-07-22,135000,L7 8SE,T,N,F,65,,Empress Road,Kensington,Liverpool
+2022-07-20,142000,L7 6AQ,S,N,L,11,,Rokesmith Avenue,,Liverpool
+2022-07-18,140000,L7 2QN,T,N,F,15,,Holdsworth Drive,,Liverpool
+2022-07-15,120000,L7 6AE,S,Y,F,10,,Fearnside Street,,Liverpool
+2022-07-15,255000,L7 1PF,T,N,F,31,,Wavertree Road,,Liverpool
+2022-06-30,39000,L7 3AA,F,N,L,"Queensland Place, 2",Flat 56,Chatham Place,,Liverpool
+2022-06-30,155000,L7 2GA,T,N,F,28B,,Minto Close,,Liverpool
+2022-06-22,100000,L7 2PX,T,N,F,22,,Cliff Street,,Liverpool
+2022-06-21,205000,L7 8XB,S,N,F,84,,Kensington,,Liverpool
+2022-06-21,85000,L7 2PY,T,N,F,49,,Cotswold Street,,Liverpool
+2022-06-15,170000,L7 1AJ,T,N,F,19,,Winifred Drive,,Liverpool
+2022-06-15,130000,L7 0LJ,D,N,F,17B,,Laurel Road,,Liverpool
+2022-06-13,180000,L7 0JQ,S,N,F,24,,Holland Street,,Liverpool
+2022-06-10,78000,L7 6JS,T,N,F,31,,Spofforth Road,,Liverpool
+2022-06-10,127000,L7 2QF,T,N,F,12,,Ling Street,,Liverpool
+2022-06-01,120000,L7 6AE,S,Y,F,12,,Fearnside Street,,Liverpool
+2022-05-31,137500,L7 2RF,T,N,F,219,,Kensington,,Liverpool
+2022-05-31,90000,L7 0JG,F,N,L,43B,,Holland Street,,Liverpool
+2022-05-30,208000,L7 8SW,T,N,F,108,,Jubilee Drive,,Liverpool
+2022-05-30,120000,L7 6AE,S,Y,F,16,,Fearnside Street,,Liverpool
+2022-05-30,120000,L7 6AE,S,Y,F,14,,Fearnside Street,,Liverpool
+2022-05-27,90000,L7 2QF,T,N,F,60,,Ling Street,,Liverpool
+2022-05-26,63000,L7 6HY,F,N,L,117,,Spekeland Road,,Liverpool
+2022-05-25,25500,L7 3AA,F,N,L,Queensland Place 2,Flat 209,Chatham Place,,Liverpool
+2022-05-24,235000,L7 5PX,T,N,F,59,,Botanic Road,,Liverpool
+2022-05-20,150000,L7 9LU,T,N,F,48,,Gresham Street,,Liverpool
+2022-05-20,150000,L7 6AB,S,N,L,8,,Dunstan Lane,,Liverpool
+2022-05-20,122000,L7 3QF,F,N,L,192,,Minster Court,,Liverpool
+2022-05-20,217500,L7 2RE,T,N,F,141,,Kensington,,Liverpool
+2022-05-19,168000,L7 2GB,T,N,F,264,,Kensington,,Liverpool
+2022-05-17,155000,L7 6LR,S,N,F,31,,Harkbridge Drive,,Liverpool
+2022-05-13,180000,L7 7DA,F,N,L,120,Flat 1,Bedford Street South,,Liverpool
+2022-05-12,85000,L7 3QE,F,N,L,132,,Minster Court,,Liverpool
+2022-05-11,128000,L7 3QH,T,N,L,215,,Minster Court,,Liverpool
+2022-05-10,117000,L7 8SP,T,N,F,37,,Leopold Road,Kensington,Liverpool
+2022-05-10,53500,L7 0JJ,F,N,L,48B,,Freehold Street,,Liverpool
+2022-05-06,65000,L7 6QA,F,N,L,15,,Heathcote Close,,Liverpool
+2022-05-05,90000,L7 9LR,T,N,F,12,,Adamson Street,,Liverpool
+2022-05-05,160000,L7 1QR,S,N,F,3,,Milroy Way,,Liverpool
+2022-05-04,160000,L7 8RZ,T,N,F,72,,Albert Edward Road,,Liverpool
+2022-05-03,103533,L7 7DB,F,N,L,138,Flat D,Bedford Street South,,Liverpool
+2022-04-29,95000,L7 0EB,T,N,F,15,,Odsey Street,,Liverpool
+2022-04-14,88000,L7 6JS,T,N,F,33,,Spofforth Road,,Liverpool
+2022-04-14,80000,L7 6JP,T,N,F,41,,Bannerman Street,,Liverpool
+2022-04-14,120000,L7 0HR,T,N,F,3,,Fareham Road,,Liverpool
+2022-04-11,60000,L7 0JX,F,N,L,Grampian Court,Flat 16A,Grampian Road,,Liverpool
+2022-04-07,60000,L7 4JP,T,N,L,26,,Corney Street,,Liverpool
+2022-04-01,127450,L7 2GA,T,N,F,22,,Minto Close,,Liverpool
+2022-03-31,92000,L7 3LB,F,N,L,90,,Crown Station Place,,Liverpool
+2022-03-29,262600,L7 1AA,D,N,F,23,,Gladstone Road,,Liverpool
+2022-03-23,60000,L7 6AD,F,N,L,65,,Earle Road,,Liverpool
+2022-03-23,75000,L7 0JS,T,N,F,27,,Lindale Road,,Liverpool
+2022-03-23,160000,L7 0EQ,T,N,F,82,,Needham Road,,Liverpool
+2022-03-18,135000,L7 8RQ,T,N,F,81,,Albany Road,Kensington,Liverpool
+2022-03-18,138000,L7 3QH,F,N,L,224,,Minster Court,,Liverpool
+2022-03-18,100000,L7 3LB,F,N,L,100,,Crown Station Place,,Liverpool
+2022-03-18,144500,L7 2QQ,T,N,F,22,,Brae Street,,Liverpool
+2022-03-16,141000,L7 0JR,S,N,F,16A,,Lorne Street,,Liverpool
+2022-03-14,85000,L7 0ER,T,N,F,31,,Botanic Place,,Liverpool
+2022-03-11,45000,L7 0JJ,F,N,L,44A,,Freehold Street,,Liverpool
+2022-03-11,45000,L7 0JG,F,N,L,33A,,Holland Street,,Liverpool
+2022-03-10,150000,L7 8SF,T,N,F,138,,Empress Road,Kensington,Liverpool
+2022-03-08,108500,L7 7DL,F,N,L,2,Apartment 29,Stowell Street,,Liverpool
+2022-03-04,94000,L7 3QE,F,N,L,131,,Minster Court,,Liverpool
+2022-03-04,280000,L7 1PG,T,N,F,103,,Wavertree Road,,Liverpool
+2022-03-03,115000,L7 0EB,T,N,F,6,,Odsey Street,,Liverpool
+2022-02-28,22500,L7 3AA,F,N,L,Queensland Place 2,Flat 224,Chatham Place,,Liverpool
+2022-02-25,145500,L7 6AQ,S,N,L,37,,Rokesmith Avenue,,Liverpool
+2022-02-25,118000,L7 2PY,T,N,F,15,,Cotswold Street,,Liverpool
+2022-02-25,107000,L7 0EG,T,N,F,42,,Needham Road,,Liverpool
+2022-02-21,123000,L7 8RR,T,N,F,12,,Teck Street,,Liverpool
+2022-02-21,170000,L7 2QN,T,N,F,53,,Holdsworth Drive,,Liverpool
+2022-02-18,97500,L7 3LB,F,N,L,80,,Crown Station Place,,Liverpool
+2022-02-11,135000,L7 6AT,S,N,F,51,,Bowmore Way,,Liverpool
+2022-02-10,133000,L7 9LP,T,N,F,6,,Southbank Road,Edge Hill,Liverpool
+2022-02-10,152000,L7 6HA,T,N,F,13,,Earle Road,,Liverpool
+2022-02-09,202500,L7 1AG,S,N,F,24,,Martensen Drive,,Liverpool
+2022-02-08,130000,L7 2QT,T,N,F,16,,Balm Street,,Liverpool
+2022-02-07,145000,L7 7AL,F,N,L,198,,Grove Street,Edge Hill,Liverpool
+2022-02-07,245000,L7 0AB,D,N,F,103,,Marrow Drive,,Liverpool
+2022-02-04,180000,L7 1AH,S,N,F,12,,Gladstone Road,,Liverpool
+2022-02-01,60000,L7 8SN,F,N,L,40A,Apartment 18,Jubilee Drive,,Liverpool
+2022-01-28,133999,L7 2PY,T,N,F,73,,Cotswold Street,,Liverpool
+2022-01-21,100000,L7 9LQ,T,N,F,375,,Edge Lane,Fairfield,Liverpool
+2022-01-17,219995,L7 1PA,T,Y,F,39,,Marmaduke Street,,Liverpool
+2022-01-14,30000,L7 6HH,F,N,L,158,Flat 4,Earle Road,,Liverpool
+2022-01-14,140000,L7 0JT,T,N,F,8,,Cheviot Road,,Liverpool
+2022-01-14,115000,L7 0ER,T,N,F,38,,Botanic Place,,Liverpool
+2022-01-07,118500,L7 0LP,F,N,L,39,Apartment 10,Lilley Road,,Liverpool
+2022-01-07,210000,L7 0JW,T,N,L,10,,Stanley Street,Fairfield,Liverpool
+2021-12-24,158000,L7 2PN,T,N,F,77,,Holt Road,,Liverpool
+2021-12-22,108488,L7 0LD,F,N,L,145,Flat 1,Prescot Road,Fairfield,Liverpool
+2021-12-17,57000,L7 8SN,F,N,L,40A,Flat 38,Jubilee Drive,,Liverpool
+2021-12-17,175000,L7 7DL,F,N,L,2,Apartment 47,Stowell Street,,Liverpool
+2021-12-16,175000,L7 8SP,T,N,F,38,,Leopold Road,Kensington,Liverpool
+2021-12-15,305000,L7 8SR,T,N,F,53,,Leopold Road,Kensington,Liverpool
+2021-12-15,320000,L7 8RU,T,N,F,43,,Saxony Road,,Liverpool
+2021-12-15,73000,L7 5QB,T,N,F,35,,Arnside Road,Edge Hill,Liverpool
+2021-12-10,94750,L7 3LB,F,N,L,81,,Crown Station Place,,Liverpool
+2021-12-09,155000,L7 0JP,S,N,F,15,,Lorne Street,,Liverpool
+2021-12-06,132000,L7 5QQ,T,N,F,2,,Clint Way,,Liverpool
+2021-12-03,195000,L7 0LW,S,N,F,6A,,Laurel Road,,Liverpool
+2021-11-30,140000,L7 4JW,S,N,L,1,,Webb Street,,Liverpool
+2021-11-26,77000,L7 0JE,S,N,F,19,,Rawlins Street,,Liverpool
+2021-11-22,62000,L7 8SN,F,N,L,40A,Flat 20,Jubilee Drive,,Liverpool
+2021-11-19,220000,L7 0JP,S,N,F,13,,Lorne Street,,Liverpool
+2021-11-17,256000,L7 0AB,D,N,L,19,,Marrow Drive,,Liverpool
+2021-11-12,142500,L7 0JP,D,N,F,33,,Lorne Street,,Liverpool
+2021-11-05,75000,L7 0EW,T,N,F,22,,Cameron Street,,Liverpool
+2021-10-29,100000,L7 8RG,T,N,F,21,,Albany Road,Kensington,Liverpool
+2021-10-29,145000,L7 2PL,F,N,F,37,,Holt Road,,Liverpool
+2021-10-29,40000,L7 1AL,T,N,L,6,,St Cyprian Place,,Liverpool
+2021-10-26,70000,L7 0LP,F,N,L,39,Apartment 2,Lilley Road,,Liverpool
+2021-10-25,82000,L7 0LW,F,N,L,48,Flat 1,Laurel Road,,Liverpool
+2021-10-22,153000,L7 8RT,T,N,L,8,,Saxony Road,,Liverpool
+2021-10-22,153000,L7 8RT,T,N,F,8,,Saxony Road,,Liverpool
+2021-10-22,110000,L7 0ES,F,N,L,11,Apartment 4,Deane Road,,Liverpool
+2021-10-19,80000,L7 3QD,F,N,L,110,,Minster Court,,Liverpool
+2021-10-15,112000,L7 3QF,F,N,L,191,,Minster Court,,Liverpool
+2021-10-15,320000,L7 0EU,T,N,F,11,,Beech Street,,Liverpool
+2021-10-08,105000,L7 3QD,F,N,L,37,,Minster Court,,Liverpool
+2021-10-08,265000,L7 2RE,T,N,F,145,,Kensington,,Liverpool
+2021-10-06,110000,L7 3QB,F,N,L,20,,Minster Court,,Liverpool
+2021-10-04,130000,L7 9LZ,S,N,F,7,,Birchfield Close,,Liverpool
+2021-10-01,96000,L7 3QB,F,N,L,26,,Minster Court,,Liverpool
+2021-09-30,215000,L7 1AG,T,N,F,19,,Martensen Drive,,Liverpool
+2021-09-29,80000,L7 8UX,F,N,L,45B,,Kensington,,Liverpool
+2021-09-29,218000,L7 5PX,T,N,L,27,,Botanic Road,,Liverpool
+2021-09-29,340000,L7 1PB,T,N,L,28,,Marmaduke Street,,Liverpool
+2021-09-28,143000,L7 5QQ,T,N,F,10,,Clint Way,,Liverpool
+2021-09-27,320000,L7 8RZ,T,N,F,87,,Albert Edward Road,,Liverpool
+2021-09-17,66000,L7 0JE,F,N,L,35A,,Rawlins Street,,Liverpool
+2021-09-15,110000,L7 0EP,T,N,F,6,,Bradfield Street,,Liverpool
+2021-09-13,105000,L7 7DL,F,N,L,2,Apartment 23,Stowell Street,,Liverpool
+2021-09-13,136000,L7 7DB,F,N,L,138,Flat C,Bedford Street South,,Liverpool
+2021-09-13,110000,L7 0JT,T,N,F,41,,Cheviot Road,,Liverpool
+2021-09-09,120000,L7 7DL,F,N,L,2,Apartment 22,Stowell Street,,Liverpool
+2021-09-08,95000,L7 6HF,T,N,L,66,,Earle Road,,Liverpool
+2021-09-03,70000,L7 0AG,S,N,L,12,,Dairy Close,,Liverpool
+2021-09-01,195000,L7 8RD,T,N,F,32,,Edinburgh Road,Kensington,Liverpool
+2021-09-01,145000,L7 5QE,T,N,F,14,,Crosfield Walk,,Liverpool
+2021-08-27,165000,L7 8SE,T,N,F,96,,Empress Road,Kensington,Liverpool
+2021-08-27,205000,L7 8RU,T,N,F,33,,Saxony Road,,Liverpool
+2021-08-27,75000,L7 4LG,T,N,F,99,,Webster Road,,Liverpool
+2021-08-26,122000,L7 7DB,F,N,L,154,Apartment 4,Bedford Street South,,Liverpool
+2021-08-20,80000,L7 0AG,T,N,L,16,,Dairy Close,,Liverpool
+2021-08-20,80000,L7 0AG,F,N,L,14,,Dairy Close,,Liverpool
+2021-08-19,103000,L7 0EF,T,N,F,67,,Needham Road,,Liverpool
+2021-08-09,214995,L7 1RB,T,N,F,2,,Thorburn Drive,,Liverpool
+2021-08-06,185000,L7 8SR,T,N,F,77,,Leopold Road,Kensington,Liverpool
+2021-08-06,239995,L7 1PF,T,Y,F,27,,Wavertree Road,,Liverpool
+2021-08-03,165000,L7 8RP,T,N,F,34,,Connaught Road,,Liverpool
+2021-08-03,219995,L7 1PF,T,Y,F,29,,Wavertree Road,,Liverpool
+2021-08-02,239995,L7 1PG,T,N,F,97,,Wavertree Road,,Liverpool
+2021-08-02,218995,L7 1PF,T,Y,F,25,,Wavertree Road,,Liverpool
+2021-08-02,199995,L7 1AG,D,Y,F,1,,Martensen Drive,,Liverpool
+2021-07-30,138500,L7 9LU,T,N,F,2,,Gresham Street,,Liverpool
+2021-07-30,187500,L7 7DL,F,N,L,2,Suite 8D,Stowell Street,,Liverpool
+2021-07-30,84500,L7 3QE,F,N,L,124,,Minster Court,,Liverpool
+2021-07-30,35000,L7 3AA,F,N,L,Queensland Place 2,Flat 344,Chatham Place,,Liverpool
+2021-07-30,148500,L7 1AF,S,N,F,12,,Cicely Drive,,Liverpool
+2021-07-29,98000,L7 0EG,T,N,F,38,,Needham Road,,Liverpool
+2021-07-23,80000,L7 0HG,S,Y,L,4B,,Lockerby Road,,Liverpool
+2021-07-21,90000,L7 3QH,F,N,L,253,,Minster Court,,Liverpool
+2021-07-16,80000,L7 0EA,T,N,F,8,,Chiswell Street,,Liverpool
+2021-07-15,115000,L7 3QB,F,N,L,4,,Minster Court,,Liverpool
+2021-07-15,155000,L7 2SA,T,N,F,14,,Clearwater Close,,Liverpool
+2021-07-12,90000,L7 7DL,F,N,L,2,Apartment 51,Stowell Street,,Liverpool
+2021-07-09,175000,L7 6LQ,T,N,F,3,,Dovestone Close,,Liverpool
+2021-07-07,150000,L7 1AF,S,N,F,6,,Cicely Drive,,Liverpool
+2021-07-06,116000,L7 8RS,T,N,F,21,,Battenberg Street,,Liverpool
+2021-07-05,185000,L7 8RP,T,N,F,60,,Connaught Road,,Liverpool
+2021-07-01,176000,L7 7DL,F,N,L,2,Apartment 12,Stowell Street,,Liverpool
+2021-06-30,78000,L7 4LG,T,N,F,59,,Webster Road,,Liverpool
+2021-06-30,250000,L7 2QE,T,N,F,65,,Ling Street,,Liverpool
+2021-06-30,280000,L7 2PX,T,N,F,1,,Cliff Street,,Liverpool
+2021-06-30,218995,L7 1PF,S,Y,F,23,,Wavertree Road,,Liverpool
+2021-06-30,229995,L7 1PF,S,Y,F,19,,Wavertree Road,,Liverpool
+2021-06-29,365000,L7 0LH,S,N,F,29,,Holly Road,,Liverpool
+2021-06-28,200000,L7 8SJ,T,N,F,23,,Jubilee Drive,,Liverpool
+2021-06-28,213995,L7 1PF,T,Y,F,17,,Wavertree Road,,Liverpool
+2021-06-28,229995,L7 1PF,T,Y,F,15,,Wavertree Road,,Liverpool
+2021-06-25,150000,L7 8RH,T,N,L,107,,Albany Road,Kensington,Liverpool
+2021-06-25,150000,L7 8RH,T,N,F,107,,Albany Road,Kensington,Liverpool
+2021-06-25,218995,L7 1PF,S,Y,F,21,,Wavertree Road,,Liverpool
+2021-06-25,80000,L7 0HE,S,N,L,1F,,Lister Road,,Liverpool
+2021-06-24,150000,L7 8SR,T,N,F,57,,Leopold Road,Kensington,Liverpool
+2021-06-18,166000,L7 8RZ,T,N,F,55,,Albert Edward Road,,Liverpool
+2021-06-18,65000,L7 6HG,F,N,L,17,,Golders Green,,Liverpool
+2021-06-18,170000,L7 2PZ,T,N,F,28,,Cotswold Street,,Liverpool
+2021-06-18,45000,L7 2PR,F,N,L,"Flat 2, 112 - 114",,Holt Road,,Liverpool
+2021-06-17,100000,L7 7DB,F,N,L,154,Apartment 2,Bedford Street South,,Liverpool
+2021-06-17,170000,L7 3QT,S,N,F,7,,Cardwell Street,,Liverpool
+2021-06-17,146000,L7 2QZ,T,N,F,3,,Lennox Way,,Liverpool
+2021-06-17,60000,L7 0EP,T,N,F,2,,Bradfield Street,,Liverpool
+2021-06-16,155000,L7 2RF,T,N,F,183,,Kensington,,Liverpool
+2021-06-16,170000,L7 2PN,T,N,F,93,,Holt Road,,Liverpool
+2021-06-10,200000,L7 0EF,T,N,F,123,,Needham Road,,Liverpool
+2021-06-08,60000,L7 6HG,F,N,L,31,,Golders Green,,Liverpool
+2021-06-04,115000,L7 6AE,S,N,L,5,,Fearnside Street,,Liverpool
+2021-05-28,35000,L7 3AA,F,N,L,Queensland Place 2,Flat 346,Chatham Place,,Liverpool
+2021-05-28,35000,L7 3AA,F,N,L,Queensland Place 2,Flat 347,Chatham Place,,Liverpool
+2021-05-28,231700,L7 1PF,T,N,F,43,,Wavertree Road,,Liverpool
+2021-05-27,125000,L7 9LT,T,N,F,2,,Romulus Street,,Liverpool
+2021-05-25,106000,L7 4JQ,T,N,F,86,,Smithdown Road,,Liverpool
+2021-05-21,125000,L7 7DL,F,N,L,2,Apartment 34,Stowell Street,,Liverpool
+2021-05-21,140000,L7 7DB,F,N,L,138,Flat B,Bedford Street South,,Liverpool
+2021-05-21,95000,L7 0EE,T,N,F,29,,Needham Road,,Liverpool
+2021-05-14,180000,L7 0JP,S,N,F,51,,Lorne Street,,Liverpool
+2021-05-11,100000,L7 0JP,S,N,F,63,,Lorne Street,,Liverpool
+2021-05-10,155000,L7 8SE,T,N,F,66,,Empress Road,Kensington,Liverpool
+2021-05-07,95500,L7 9LF,T,N,F,317B,,Edge Lane,Fairfield,Liverpool
+2021-05-07,168000,L7 8SG,T,N,F,30,,Adelaide Road,Kensington,Liverpool
+2021-05-04,85000,L7 4JG,T,N,F,52A,,Smithdown Road,,Liverpool
+2021-05-04,215995,L7 1PA,T,Y,F,41,,Marmaduke Street,,Liverpool
+2021-04-30,156000,L7 8RE,T,N,F,67,,Edinburgh Road,Kensington,Liverpool
+2021-04-30,69500,L7 6PA,T,N,F,28,,Whithorn Street,,Liverpool
+2021-04-30,25000,L7 6HH,F,N,L,158,Flat 14,Earle Road,,Liverpool
+2021-04-30,210995,L7 1PA,T,Y,F,35,,Marmaduke Street,,Liverpool
+2021-04-30,97500,L7 0ET,T,N,F,58,,Deane Road,,Liverpool
+2021-04-27,210995,L7 1PA,T,Y,F,33,,Marmaduke Street,,Liverpool
+2021-04-26,217500,L7 1PZ,D,N,F,82,,Royston Street,,Liverpool
+2021-04-23,167500,L7 8SQ,T,N,F,104,,Adelaide Road,Kensington,Liverpool
+2021-04-23,168000,L7 8RD,T,N,F,46,,Edinburgh Road,Kensington,Liverpool
+2021-04-16,115000,L7 9LY,T,N,F,39,,Birchfield Road,Edge Hill,Liverpool
+2021-04-16,212995,L7 1PA,T,Y,F,31,,Marmaduke Street,,Liverpool
+2021-04-16,155000,L7 1AH,D,N,F,10,,Gladstone Road,,Liverpool
+2021-04-09,214995,L7 1PA,T,Y,F,37,,Marmaduke Street,,Liverpool
+2021-03-31,290000,L7 7DL,F,N,L,2,Apartment 59,Stowell Street,,Liverpool
+2021-03-31,176000,L7 1RB,S,N,F,14,,Thorburn Drive,,Liverpool
+2021-03-30,92000,L7 0JL,T,N,F,17,,Middleton Road,Fairfield,Liverpool
+2021-03-29,265000,L7 8RG,T,N,F,18,,Albany Road,Kensington,Liverpool
+2021-03-29,68000,L7 6JP,T,N,F,28,,Bannerman Street,,Liverpool
+2021-03-29,165000,L7 3JE,T,N,F,29,,Queensland Street,,Liverpool
+2021-03-26,93000,L7 9LF,T,N,F,315C,,Edge Lane,Fairfield,Liverpool
+2021-03-26,165000,L7 8SF,T,N,F,124,,Empress Road,Kensington,Liverpool
+2021-03-26,215000,L7 8SA,T,N,F,135,,Albert Edward Road,,Liverpool
+2021-03-26,159450,L7 7DL,F,N,L,2,Suite 8C,Stowell Street,,Liverpool
+2021-03-26,160000,L7 1RH,T,N,F,30,,Waterworth Drive,,Liverpool
+2021-03-24,168000,L7 8RH,T,N,F,103,,Albany Road,Kensington,Liverpool
+2021-03-24,101500,L7 6HF,T,N,L,66,,Earle Road,,Liverpool
+2021-03-24,108000,L7 3QB,F,N,L,22,,Minster Court,,Liverpool
+2021-03-19,52750,L7 4LG,T,N,F,107,,Webster Road,,Liverpool
+2021-03-17,171000,L7 8SF,T,N,F,133,,Empress Road,Kensington,Liverpool
+2021-03-17,56000,L7 6PB,T,N,L,51,,Sandhead Street,,Liverpool
+2021-03-15,105000,L7 9LX,T,N,L,37,,Alford Street,,Liverpool
+2021-03-15,155000,L7 0JN,T,N,F,31A,,Stanley Street,Fairfield,Liverpool
+2021-03-12,200000,L7 8XB,S,N,F,84,,Kensington,,Liverpool
+2021-03-10,98000,L7 3QE,F,N,L,114,,Minster Court,,Liverpool
+2021-03-09,215000,L7 0ES,T,N,F,43,,Deane Road,,Liverpool
+2021-03-05,107500,L7 3QD,T,N,L,82,,Minster Court,,Liverpool
+2021-03-01,146500,L7 6AT,T,N,F,31,,Bowmore Way,,Liverpool
+2021-03-01,192000,L7 0JY,S,N,L,1,,Fairfield Street,,Liverpool
+2021-02-26,153000,L7 8SQ,T,N,F,101,,Adelaide Road,Kensington,Liverpool
+2021-02-26,100000,L7 6HG,T,N,L,19,,Golders Green,,Liverpool
+2021-02-24,107000,L7 3QF,F,N,L,190,,Minster Court,,Liverpool
+2021-02-19,90000,L7 6QB,T,N,L,15,,Wainwright Close,,Liverpool
+2021-02-19,131000,L7 6LS,S,N,F,134,,Tunnel Road,,Liverpool
+2021-02-19,125000,L7 6LR,S,N,F,19,,Harkbridge Drive,,Liverpool
+2021-02-18,146833,L7 9LY,T,N,F,21,,Birchfield Road,Edge Hill,Liverpool
+2021-02-18,151000,L7 3PG,T,N,F,14,,Cardwell Street,,Liverpool
+2021-02-15,201000,L7 8RE,T,N,F,113,,Edinburgh Road,Kensington,Liverpool
+2021-02-15,135000,L7 6QB,S,N,L,4,,Wainwright Close,,Liverpool
+2021-02-12,73000,L7 8RS,T,N,F,27,,Battenberg Street,,Liverpool
+2021-02-12,33000,L7 6PY,F,N,L,3,,Barnet Close,,Liverpool
+2021-02-12,127500,L7 2QZ,S,N,F,6,,Lennox Way,,Liverpool
+2021-02-08,76000,L7 4LG,T,N,F,77,,Webster Road,,Liverpool
+2021-02-05,135000,L7 9NA,T,N,F,16,,Westbank Road,,Liverpool
+2021-02-05,95000,L7 3LB,F,N,L,111,,Crown Station Place,,Liverpool
+2021-02-05,125000,L7 0ET,T,N,F,76,,Deane Road,,Liverpool
+2021-02-04,142000,L7 8SH,T,N,F,111,,Adelaide Road,Kensington,Liverpool
+2021-02-01,115000,L7 0LD,F,N,L,145,Flat 11,Prescot Road,Fairfield,Liverpool
+2021-01-29,113100,L7 9LY,T,N,F,47,,Birchfield Road,Edge Hill,Liverpool
+2021-01-28,215000,L7 0LP,S,N,F,25,,Lilley Road,,Liverpool
+2021-01-22,96000,L7 9LP,T,N,F,38,,Southbank Road,Edge Hill,Liverpool
+2021-01-22,115000,L7 7DL,F,N,L,2,Apartment 25,Stowell Street,,Liverpool
+2021-01-22,170500,L7 1AG,S,N,F,26,,Martensen Drive,,Liverpool
+2021-01-21,175000,L7 0EF,T,N,F,71,,Needham Road,,Liverpool
+2021-01-15,120000,L7 6LS,T,N,F,82,,Tunnel Road,,Liverpool
+2021-01-15,85000,L7 0JL,T,N,F,35,,Middleton Road,Fairfield,Liverpool
+2021-01-13,45000,L7 4LE,T,N,F,45,,Garrick Street,,Liverpool
+2021-01-08,285000,L7 0EU,S,N,F,9,,Beech Street,,Liverpool
+2021-01-01,39000,L7 0LD,F,N,L,145,Flat 10,Prescot Road,Fairfield,Liverpool

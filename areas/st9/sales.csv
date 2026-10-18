@@ -1,0 +1,936 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-12,266000,ST9 0HW,S,N,F,32,,Cellarhead Road,Werrington,Stoke-On-Trent
+2026-08-07,220000,ST9 9PQ,S,N,F,19,,Greenside Avenue,Stockton Brook,Stoke-On-Trent
+2026-08-07,246000,ST9 0HT,S,N,F,23,,Heath Avenue,Werrington,Stoke-On-Trent
+2026-08-07,152000,ST9 0AN,T,N,F,3,,Brentwood Court,Werrington,Stoke-On-Trent
+2026-08-03,215000,ST9 0DZ,S,N,F,9,,James Crescent,Werrington,Stoke-On-Trent
+2026-07-31,475000,ST9 9PS,D,N,F,11,,Heather Hills,Stockton Brook,Stoke-On-Trent
+2026-07-27,217500,ST9 0JH,S,N,F,16,,Somerton Road,Werrington,Stoke-On-Trent
+2026-07-24,350000,ST9 9EH,S,N,F,12,,Kent Drive,Endon,Stoke-On-Trent
+2026-07-17,230000,ST9 9PQ,T,N,F,15,,Greenside Avenue,Stockton Brook,Stoke-On-Trent
+2026-07-17,210000,ST9 9DB,D,N,F,8,,Cedar Crescent,Endon,Stoke-On-Trent
+2026-07-17,182000,ST9 0PQ,S,N,F,62,,Chartwell Close,Werrington,Stoke-On-Trent
+2026-07-17,168000,ST9 0PL,S,N,F,14,,Shugborough Close,Werrington,Stoke-On-Trent
+2026-07-13,210000,ST9 0FB,T,N,F,9,,Scholars Way,Werrington,Stoke-On-Trent
+2026-07-10,680000,ST9 9QD,D,N,F,The Firs,,Sutherland Road,Longsdon,Stoke-On-Trent
+2026-07-10,185000,ST9 0EP,S,N,F,43,,Moss Park Avenue,Werrington,Stoke-On-Trent
+2026-07-06,250000,ST9 0EQ,D,N,F,3,,Moorland Avenue,Werrington,Stoke-On-Trent
+2026-06-30,265000,ST9 9JL,F,N,L,2,,Bagnall Heights,Bagnall,Stoke-On-Trent
+2026-06-26,610000,ST9 9LH,D,N,F,The Farthings,,Stanley Moss Lane,Stockton Brook,Stoke-On-Trent
+2026-06-26,335000,ST9 0PA,D,N,F,45,,Chatsworth Drive,Werrington,Stoke-On-Trent
+2026-06-15,490000,ST9 9BU,D,N,F,Westfield Cottage,,Clay Lake,Endon,Stoke-On-Trent
+2026-06-05,228500,ST9 0AT,D,N,F,Linron,,Randles Lane,Wetley Rocks,Stoke-On-Trent
+2026-05-29,220000,ST9 0DJ,S,N,F,Hollywell,,Kingsley Road,Werrington,Stoke-On-Trent
+2026-05-28,340000,ST9 9BG,D,N,F,3,,The Meadows,Endon,Stoke-On-Trent
+2026-05-15,365000,ST9 9HS,D,N,F,79,,High View Road,Endon,Stoke-On-Trent
+2026-05-01,168000,ST9 0EU,S,N,F,66,,Moss Park Avenue,Werrington,Stoke-On-Trent
+2026-04-29,340000,ST9 0HT,D,N,F,13,,Heath Avenue,Werrington,Stoke-On-Trent
+2026-04-17,228000,ST9 0JH,D,N,F,20,,Somerton Road,Werrington,Stoke-On-Trent
+2026-04-15,240000,ST9 0LT,S,N,F,32,,Moss Park Avenue,Werrington,Stoke-On-Trent
+2026-03-27,885000,ST9 9AE,D,N,F,Hillswood,,Holehouse Lane,Endon,Stoke-On-Trent
+2026-03-27,230000,ST9 0HT,S,N,F,25,,Heath Avenue,Werrington,Stoke-On-Trent
+2026-03-23,270000,ST9 0DT,S,N,F,477,,Ash Bank Road,Werrington,Stoke-On-Trent
+2026-03-18,225000,ST9 0LF,S,N,F,8,,Uplands Croft,Werrington,Stoke-On-Trent
+2026-03-13,522500,ST9 9QD,S,N,F,Greenway,,Sutherland Road,Longsdon,Stoke-On-Trent
+2026-03-13,170000,ST9 0EP,S,N,F,44,,Moss Park Avenue,Werrington,Stoke-On-Trent
+2026-03-10,275000,ST9 0EG,D,N,F,67,,Armshead Road,Werrington,Stoke-On-Trent
+2026-03-06,200000,ST9 0JX,S,N,F,24,,Stonehouse Road,Werrington,Stoke-On-Trent
+2026-02-27,232500,ST9 9DL,D,N,F,Ridgemount,,Woodstone Avenue,Endon,Stoke-On-Trent
+2026-02-27,344000,ST9 0AP,D,N,F,Spring Cottage,,Leek Road,Wetley Rocks,Stoke-On-Trent
+2026-02-26,250000,ST9 9JL,F,N,L,28,,Bagnall Heights,Bagnall,Stoke-On-Trent
+2026-02-25,210000,ST9 0DY,D,N,F,65,,Johnstone Avenue,Werrington,Stoke-On-Trent
+2026-02-23,161000,ST9 0BH,S,N,F,11,,Main Road,Wetley Rocks,Stoke-On-Trent
+2026-02-20,370000,ST9 0DR,S,N,F,16,,Irvine Road,Werrington,Stoke-On-Trent
+2026-02-19,175000,ST9 0PQ,S,N,F,48,,Chartwell Close,Werrington,Stoke-On-Trent
+2026-02-19,260000,ST9 0EQ,T,N,F,26,,Moorland Avenue,Werrington,Stoke-On-Trent
+2026-02-13,225000,ST9 9JL,F,N,L,45,,Bagnall Heights,Bagnall,Stoke-On-Trent
+2026-02-13,200000,ST9 0EB,S,N,F,18,,Park Road,Werrington,Stoke-On-Trent
+2026-02-13,170000,ST9 0DP,S,N,F,17,,Hill Village Road,Werrington,Stoke-On-Trent
+2026-02-12,675000,ST9 9LX,D,N,F,Hillcrest,,Stanley Village,Stanley,Stoke-On-Trent
+2026-02-10,192500,ST9 9QF,D,N,F,Laburnum Cottage,,Leek Road,Longsdon,Stoke-On-Trent
+2026-02-03,655000,ST9 9PS,D,N,F,23,,Heather Hills,Stockton Brook,Stoke-On-Trent
+2026-02-03,617500,ST9 9NS,D,N,F,Heather Edge,,Edgefields Lane,Stockton Brook,Stoke-On-Trent
+2026-02-03,282500,ST9 9HY,D,N,F,16,,Parkside Crescent,Endon,Stoke-On-Trent
+2026-01-30,345000,ST9 0JE,T,N,F,40,,Moorside Road,Werrington,Stoke-On-Trent
+2026-01-30,675000,ST9 0DT,D,N,F,486,,Ash Bank Road,Werrington,Stoke-On-Trent
+2026-01-23,422500,ST9 9JR,D,N,F,Fair View,,The Green,Bagnall,Stoke-On-Trent
+2026-01-23,182000,ST9 0EA,S,N,F,6,,Windmill View,Werrington,Stoke-On-Trent
+2026-01-19,309000,ST9 9EN,S,N,F,3,,Spencer Avenue,Endon,Stoke-On-Trent
+2026-01-19,360000,ST9 9BP,D,N,F,11,,Spinney Close,Endon,Stoke-On-Trent
+2026-01-16,210000,ST9 9NY,S,N,F,49,,Nursery Avenue,Stockton Brook,Stoke-On-Trent
+2026-01-16,315000,ST9 9NS,S,N,F,The Spectrum,,Edgefields Lane,Stockton Brook,Stoke-On-Trent
+2026-01-16,380000,ST9 9LL,D,N,F,Rose View Cottage,,Stanley Road,Stockton Brook,Stoke-On-Trent
+2026-01-16,320000,ST9 9BF,D,N,F,4,,The Priory,Endon,Stoke-On-Trent
+2026-01-09,171000,ST9 0DB,S,N,F,17,,Salters Close,Werrington,Stoke-On-Trent
+2026-01-08,345000,ST9 9HH,D,N,F,16,,Hillside Avenue,Endon,Stoke-On-Trent
+2026-01-08,300000,ST9 0EL,D,N,F,155,,Armshead Road,Werrington,Stoke-On-Trent
+2026-01-06,350000,ST9 0AR,S,N,F,Dove Cottage,,Leek Road,Wetley Rocks,Stoke-On-Trent
+2025-12-19,190000,ST9 9NT,S,N,F,1036,,Leek New Road,Stockton Brook,Stoke-On-Trent
+2025-12-19,240000,ST9 9HH,D,N,F,21,,Hillside Avenue,Endon,Stoke-On-Trent
+2025-12-19,205000,ST9 9AZ,T,N,F,3,,Florence Terrace,Endon,Stoke-On-Trent
+2025-12-19,220000,ST9 0HZ,S,N,F,3,,Wilton Avenue,Werrington,Stoke-On-Trent
+2025-12-18,235000,ST9 9PU,D,N,F,33,,Shaldon Avenue,Stockton Brook,Stoke-On-Trent
+2025-12-18,185000,ST9 0FE,T,N,F,Stokers Cottage,,St Johns Drive,Wetley Rocks,Stoke-On-Trent
+2025-12-12,237500,ST9 0LF,S,N,F,44,,Uplands Croft,Werrington,Stoke-On-Trent
+2025-12-12,190000,ST9 0JG,S,N,F,8,,Toll Bar Road,Werrington,Stoke-On-Trent
+2025-12-12,425000,ST9 0DQ,D,N,F,The Croft,,Leek Road,Werrington,Stoke-On-Trent
+2025-12-10,255000,ST9 0JY,D,N,F,69,,Meigh Road,Werrington,Stoke-On-Trent
+2025-12-05,165000,ST9 0JF,S,N,F,62,,Moorside Road,Werrington,Stoke-On-Trent
+2025-12-04,335000,ST9 0JL,D,N,F,6,,Westerby Drive,Werrington,Stoke-On-Trent
+2025-12-03,275000,ST9 9HY,S,N,F,3,,Parkside Crescent,Endon,Stoke-On-Trent
+2025-12-03,450000,ST9 9BD,D,N,F,11,,Parkfields,Endon,Stoke-On-Trent
+2025-12-03,256000,ST9 0DD,S,N,F,24,,Clough Lane,Werrington,Stoke-On-Trent
+2025-12-02,272500,ST9 9ET,D,N,F,10,,Railway Court,Endon,Stoke-On-Trent
+2025-12-01,160000,ST9 0PQ,S,N,F,46,,Chartwell Close,Werrington,Stoke-On-Trent
+2025-11-28,178000,ST9 9PD,D,N,F,Sunnyside,,The Green,Stockton Brook,Stoke-On-Trent
+2025-11-26,425000,ST9 9PE,D,N,F,29,,Percival Drive,Stockton Brook,Stoke-On-Trent
+2025-11-26,405000,ST9 0JY,D,N,F,75,,Meigh Road,Werrington,Stoke-On-Trent
+2025-11-21,255000,ST9 0LF,S,N,F,35,,Uplands Croft,Werrington,Stoke-On-Trent
+2025-11-21,240000,ST9 0HU,S,N,F,72,,Heath Avenue,Werrington,Stoke-On-Trent
+2025-11-18,541000,ST9 9LT,D,N,F,Barncroft,,Stanley Bank,Stanley,Stoke-On-Trent
+2025-11-14,253000,ST9 9HX,D,N,F,1,,Kenley Avenue,Endon,Stoke-On-Trent
+2025-11-14,308000,ST9 9BH,D,N,F,233,,Leek Road,Endon,Stoke-On-Trent
+2025-11-14,255000,ST9 0LJ,S,N,F,8,,Hillside Road,Werrington,Stoke-On-Trent
+2025-11-13,610000,ST9 9LH,D,Y,F,Coltslow Cottage,,Stanley Moss Lane,Stockton Brook,Stoke-On-Trent
+2025-11-13,355000,ST9 0EQ,D,N,F,37,,Moorland Avenue,Werrington,Stoke-On-Trent
+2025-11-10,335000,ST9 9LJ,S,N,F,Lark Rise,,Stanley Road,Stockton Brook,Stoke-On-Trent
+2025-11-10,365001,ST9 9EX,S,N,F,9,,Florence Terrace,Endon,Stoke-On-Trent
+2025-11-10,278000,ST9 0EQ,D,N,F,41,,Moorland Avenue,Werrington,Stoke-On-Trent
+2025-11-05,200000,ST9 0NA,S,N,F,14,,Kaydor Close,Werrington,Stoke-On-Trent
+2025-11-04,760000,ST9 9DE,D,N,F,Lance House,,Clay Lake,Endon,Stoke-On-Trent
+2025-10-30,190000,ST9 9PR,T,N,F,1,,Bunts Lane,Stockton Brook,Stoke-On-Trent
+2025-10-30,300000,ST9 9HZ,T,N,F,3,,Fernlea Crescent,Endon,Stoke-On-Trent
+2025-10-24,492100,ST9 0DJ,D,N,F,3,,Sable Croft,Werrington,Stoke-On-Trent
+2025-10-21,700000,ST9 9QG,D,N,F,Waterside,,Denford Road,Longsdon,Stoke-On-Trent
+2025-10-20,255000,ST9 9HY,D,N,F,9,,Parkside Crescent,Endon,Stoke-On-Trent
+2025-10-17,205000,ST9 0LF,S,N,F,37,,Uplands Croft,Werrington,Stoke-On-Trent
+2025-10-17,275000,ST9 0AQ,D,N,F,4,,Chapel Close,Wetley Rocks,Stoke-On-Trent
+2025-10-16,248000,ST9 0PW,D,N,F,1,,Ferndale Close,Werrington,Stoke-On-Trent
+2025-10-16,150000,ST9 0ED,S,N,F,6,,Park Drive,Werrington,Stoke-On-Trent
+2025-10-14,205000,ST9 9NG,D,N,F,4,,Leighton Close,Stockton Brook,Stoke-On-Trent
+2025-10-13,168000,ST9 9PG,D,N,F,Hollylodge,,Roundfields,Stockton Brook,Stoke-On-Trent
+2025-10-10,677500,ST9 9QF,D,N,F,High View,,Leek Road,Longsdon,Stoke-On-Trent
+2025-10-10,240000,ST9 9PF,S,N,F,19,,Nursery Lane,Stockton Brook,Stoke-On-Trent
+2025-10-10,550000,ST9 9HW,D,N,F,18,,Houston Avenue,Endon,Stoke-On-Trent
+2025-10-10,350000,ST9 9EL,S,N,F,10,,Springbank Avenue,Endon,Stoke-On-Trent
+2025-10-03,475000,ST9 9HF,D,N,F,Greenbank,,Church Lane,Endon,Stoke-On-Trent
+2025-09-26,736000,ST9 9JB,D,N,F,Tan House,,Park Lane,Endon,Stoke-On-Trent
+2025-09-26,280000,ST9 9ET,D,N,F,9,,Railway Court,Endon,Stoke-On-Trent
+2025-09-26,136500,ST9 0JU,S,N,F,27,,Washerwall Lane,Werrington,Stoke-On-Trent
+2025-09-22,218000,ST9 0LF,S,N,F,10,,Uplands Croft,Werrington,Stoke-On-Trent
+2025-09-19,290000,ST9 0HZ,D,N,F,1,,Wilton Avenue,Werrington,Stoke-On-Trent
+2025-09-17,204000,ST9 0LT,S,N,F,28,,Moss Park Avenue,Werrington,Stoke-On-Trent
+2025-09-15,160000,ST9 0DD,S,N,F,3,,Clough Lane,Werrington,Stoke-On-Trent
+2025-09-12,290000,ST9 9NY,D,N,F,44,,Nursery Avenue,Stockton Brook,Stoke-On-Trent
+2025-09-12,158500,ST9 0DR,S,N,F,8,,Irvine Road,Werrington,Stoke-On-Trent
+2025-09-09,229000,ST9 0HR,S,N,F,19,,Southlowe Road,Werrington,Stoke-On-Trent
+2025-09-05,260000,ST9 9JL,T,N,L,66,,Bagnall Heights,Bagnall,Stoke-On-Trent
+2025-09-05,180000,ST9 0LW,S,N,F,26,,Whitmore Avenue,Werrington,Stoke-On-Trent
+2025-09-05,165350,ST9 0EP,S,N,F,46,,Moss Park Avenue,Werrington,Stoke-On-Trent
+2025-09-05,175000,ST9 0AN,T,N,F,4,,Brentwood Court,Werrington,Stoke-On-Trent
+2025-08-29,322000,ST9 9PA,D,N,F,16,,Rosewood Avenue,Stockton Brook,Stoke-On-Trent
+2025-08-28,205000,ST9 9HJ,D,N,F,2,,Hampshire Close,Endon,Stoke-On-Trent
+2025-08-27,175000,ST9 9PF,S,N,F,Little Dean,,Nursery Lane,Stockton Brook,Stoke-On-Trent
+2025-08-27,325000,ST9 9ET,D,N,F,21,,Railway Court,Endon,Stoke-On-Trent
+2025-08-26,335000,ST9 0PL,D,N,F,2,,Shugborough Close,Werrington,Stoke-On-Trent
+2025-08-26,239950,ST9 0LP,D,N,F,12,,Marsh Close,Werrington,Stoke-On-Trent
+2025-08-26,330000,ST9 0HJ,S,N,F,Lordshire Farm,2 The Mews,Armshead Road,Werrington,Stoke-On-Trent
+2025-08-22,502100,ST9 0DJ,D,N,F,2,,Sable Croft,Werrington,Stoke-On-Trent
+2025-08-15,580000,ST9 9ND,D,Y,F,2,,Coltslow Farm,Stockton Brook,Stoke-On-Trent
+2025-08-15,425000,ST9 9BL,D,N,F,42,,Hillswood Drive,Endon,Stoke-On-Trent
+2025-08-15,340000,ST9 0PQ,D,N,F,58,,Chartwell Close,Werrington,Stoke-On-Trent
+2025-08-13,165500,ST9 0JH,D,N,F,20,,Somerton Road,Werrington,Stoke-On-Trent
+2025-08-11,250000,ST9 0LP,D,N,F,13,,Marsh Close,Werrington,Stoke-On-Trent
+2025-08-06,285000,ST9 9LN,S,N,F,Glenwood,,Clewlows Bank,Stockton Brook,Stoke-On-Trent
+2025-08-01,460000,ST9 9PW,D,N,F,Portland,,Greenway Hall Road,Stockton Brook,Stoke-On-Trent
+2025-08-01,312000,ST9 9NX,S,N,F,1000,,Leek New Road,Stockton Brook,Stoke-On-Trent
+2025-08-01,395000,ST9 9ET,D,N,F,4,,Railway Court,Endon,Stoke-On-Trent
+2025-08-01,230000,ST9 0JZ,D,N,F,14,,Laurel Crescent,Werrington,Stoke-On-Trent
+2025-08-01,280000,ST9 0JR,S,N,F,400,,Ash Bank Road,Werrington,Stoke-On-Trent
+2025-08-01,255000,ST9 0HW,D,N,F,73,,Cellarhead Road,Werrington,Stoke-On-Trent
+2025-08-01,145000,ST9 0EP,S,N,F,31,,Moss Park Avenue,Werrington,Stoke-On-Trent
+2025-07-25,800000,ST9 9QF,D,N,F,Elmwood,,Leek Road,Longsdon,Stoke-On-Trent
+2025-07-25,157000,ST9 0DR,S,N,F,4,,Irvine Road,Werrington,Stoke-On-Trent
+2025-07-24,230000,ST9 9HT,S,N,F,19,,High View Road,Endon,Stoke-On-Trent
+2025-07-18,338000,ST9 9NS,D,N,F,The Lodge,,Edgefields Lane,Stockton Brook,Stoke-On-Trent
+2025-07-14,600000,ST9 9AB,D,N,F,Hazelcroft,,Gratton Lane,Endon,Stoke-On-Trent
+2025-07-11,740000,ST9 9HF,D,N,F,Holly Cottage,,Church Lane,Endon,Stoke-On-Trent
+2025-07-11,170000,ST9 0PQ,S,N,F,44,,Chartwell Close,Werrington,Stoke-On-Trent
+2025-07-10,260000,ST9 0BD,D,N,F,21,,Meadow Avenue,Wetley Rocks,Stoke-On-Trent
+2025-07-01,225000,ST9 9AZ,T,N,F,2,,Florence Terrace,Endon,Stoke-On-Trent
+2025-07-01,530000,ST9 0AP,D,N,F,Beech Trees,,Leek Road,Wetley Rocks,Stoke-On-Trent
+2025-06-30,302000,ST9 9ED,S,N,F,23,,Brookfield Avenue,Endon,Stoke-On-Trent
+2025-06-27,222500,ST9 9NY,S,N,F,67,,Nursery Avenue,Stockton Brook,Stoke-On-Trent
+2025-06-27,245000,ST9 9HP,S,N,F,12,,Mayfair Grove,Endon,Stoke-On-Trent
+2025-06-27,430000,ST9 0JS,D,N,F,340,,Ash Bank Road,Werrington,Stoke-On-Trent
+2025-06-27,255000,ST9 0JS,S,N,F,288,,Ash Bank Road,Werrington,Stoke-On-Trent
+2025-06-27,268000,ST9 0DW,D,N,F,32,,Brentwood Drive,Werrington,Stoke-On-Trent
+2025-06-23,176000,ST9 0ED,S,N,F,14,,Park Drive,Werrington,Stoke-On-Trent
+2025-06-20,270000,ST9 9PA,D,N,F,13,,Rosewood Avenue,Stockton Brook,Stoke-On-Trent
+2025-06-17,250000,ST9 9JL,F,N,L,15,,Bagnall Heights,Bagnall,Stoke-On-Trent
+2025-06-06,373000,ST9 9EH,D,N,F,1,,Kent Drive,Endon,Stoke-On-Trent
+2025-05-30,195000,ST9 0HU,D,N,F,77,,Heath Avenue,Werrington,Stoke-On-Trent
+2025-05-30,138000,ST9 0ER,S,N,F,2,,Philip Lane,Werrington,Stoke-On-Trent
+2025-05-30,250000,ST9 0BZ,D,N,F,16,,Oak Mount Road,Werrington,Stoke-On-Trent
+2025-05-27,630000,ST9 9ND,D,Y,F,5,,Coltslow Farm,Stockton Brook,Stoke-On-Trent
+2025-05-27,250000,ST9 9JL,F,N,L,52,,Bagnall Heights,Bagnall,Stoke-On-Trent
+2025-05-23,555000,ST9 9JW,D,N,F,Motivation,,The Village,Bagnall,Stoke-On-Trent
+2025-05-23,185000,ST9 0PB,D,N,F,20,,Chatsworth Drive,Werrington,Stoke-On-Trent
+2025-05-23,162000,ST9 0DR,S,N,F,3,,Irvine Road,Werrington,Stoke-On-Trent
+2025-05-16,495000,ST9 0DJ,D,N,F,1,,Sable Croft,Werrington,Stoke-On-Trent
+2025-04-23,347500,ST9 0LR,S,N,F,96,,Washerwall Lane,Werrington,Stoke-On-Trent
+2025-04-23,225000,ST9 0HY,S,N,F,11,,Wetley Avenue,Werrington,Stoke-On-Trent
+2025-04-23,210000,ST9 0EB,S,N,F,29,,Park Road,Werrington,Stoke-On-Trent
+2025-04-17,355000,ST9 0NE,D,N,F,3,,Newton Court,Werrington,Stoke-On-Trent
+2025-04-17,325000,ST9 0LY,D,N,F,118,,Washerwall Lane,Werrington,Stoke-On-Trent
+2025-04-17,130500,ST9 0LR,T,N,F,102,,Washerwall Lane,Werrington,Stoke-On-Trent
+2025-04-17,217500,ST9 0LN,S,N,F,41,,Cotehill Road,Werrington,Stoke-On-Trent
+2025-04-16,198000,ST9 9PF,S,N,F,5,,Nursery Lane,Stockton Brook,Stoke-On-Trent
+2025-04-15,127500,ST9 0LG,S,N,F,15,,Uplands Drive,Werrington,Stoke-On-Trent
+2025-03-31,480000,ST9 9NW,D,N,F,High Gables,,Moss Hill,Stockton Brook,Stoke-On-Trent
+2025-03-31,375000,ST9 9HF,D,N,F,Highlands,,Church Lane,Endon,Stoke-On-Trent
+2025-03-31,320000,ST9 0LP,D,N,F,16,,Marsh Close,Werrington,Stoke-On-Trent
+2025-03-31,242000,ST9 0LF,S,N,F,32,,Uplands Croft,Werrington,Stoke-On-Trent
+2025-03-28,300000,ST9 9NW,S,N,F,Moss Cottage,,Moss Hill,Stockton Brook,Stoke-On-Trent
+2025-03-28,350000,ST9 9LW,D,N,F,Kilaguni,,The Avenue,Stockton Brook,Stoke-On-Trent
+2025-03-28,265000,ST9 9HD,S,N,F,7,,Forge Side,Endon,Stoke-On-Trent
+2025-03-28,340000,ST9 9ED,S,N,F,16,,Brookfield Avenue,Endon,Stoke-On-Trent
+2025-03-28,475000,ST9 9DR,D,N,F,Greenfields,,Station Road,Endon,Stoke-On-Trent
+2025-03-28,200000,ST9 0LE,S,N,F,40,,Uplands Avenue,Werrington,Stoke-On-Trent
+2025-03-28,495000,ST9 0HW,D,N,F,52,,Cellarhead Road,Werrington,Stoke-On-Trent
+2025-03-28,260000,ST9 0EH,S,N,F,9,,Moorland Close,Werrington,Stoke-On-Trent
+2025-03-27,385000,ST9 9HQ,D,N,F,255,,Leek Road,Endon,Stoke-On-Trent
+2025-03-21,182000,ST9 9NY,D,N,F,63,,Nursery Avenue,Stockton Brook,Stoke-On-Trent
+2025-03-21,200000,ST9 0EG,D,N,F,71,,Armshead Road,Werrington,Stoke-On-Trent
+2025-03-20,700000,ST9 0AJ,D,N,F,Thornby Lodge,,Consall Forge,Wetley Rocks,Stoke-On-Trent
+2025-03-19,297750,ST9 9NY,D,N,F,27,,Nursery Avenue,Stockton Brook,Stoke-On-Trent
+2025-03-14,265000,ST9 9BG,S,N,F,17,,The Meadows,Endon,Stoke-On-Trent
+2025-03-14,210000,ST9 0PH,D,N,F,4,,Moreton Close,Werrington,Stoke-On-Trent
+2025-03-14,185000,ST9 0JB,T,N,F,28,,Rownall Road,Werrington,Stoke-On-Trent
+2025-03-12,220000,ST9 0JY,D,N,F,26,,Meigh Road,Werrington,Stoke-On-Trent
+2025-03-07,450000,ST9 0EL,D,N,F,137,,Armshead Road,Werrington,Stoke-On-Trent
+2025-02-28,190000,ST9 9BF,S,N,F,12,,The Priory,Endon,Stoke-On-Trent
+2025-02-28,265000,ST9 0JY,D,N,F,7,,Meigh Road,Werrington,Stoke-On-Trent
+2025-02-27,142000,ST9 0LS,S,N,F,9,,Moss Park Avenue,Werrington,Stoke-On-Trent
+2025-02-27,200000,ST9 0LF,S,N,F,2,,Uplands Croft,Werrington,Stoke-On-Trent
+2025-02-27,262000,ST9 0JL,D,N,F,2,,Westerby Drive,Werrington,Stoke-On-Trent
+2025-02-27,157500,ST9 0EX,S,N,F,10,,Russell Grove,Werrington,Stoke-On-Trent
+2025-02-25,330000,ST9 9LP,D,N,F,Moorland View,,Clewlows Bank,Bagnall,Stoke-On-Trent
+2025-02-25,585000,ST9 9LN,D,N,F,Moorland House,,Clewlows Bank,Stockton Brook,Stoke-On-Trent
+2025-02-21,150000,ST9 9BF,S,N,F,7,,The Priory,Endon,Stoke-On-Trent
+2025-02-21,321000,ST9 0PA,D,N,F,1,,Chatsworth Drive,Werrington,Stoke-On-Trent
+2025-02-19,160000,ST9 0LT,S,N,F,16,,Moss Park Avenue,Werrington,Stoke-On-Trent
+2025-02-19,220000,ST9 0EG,D,N,F,35,,Armshead Road,Werrington,Stoke-On-Trent
+2025-02-14,285000,ST9 9LN,D,N,F,Crib Mount,,Clewlows Bank,Stockton Brook,Stoke-On-Trent
+2025-02-14,250000,ST9 9BP,D,N,F,10,,Spinney Close,Endon,Stoke-On-Trent
+2025-02-14,180000,ST9 0DT,S,N,F,471,,Ash Bank Road,Werrington,Stoke-On-Trent
+2025-02-14,258000,ST9 0DS,D,N,F,5,,Highbury Road,Werrington,Stoke-On-Trent
+2025-02-13,195000,ST9 0LH,S,N,F,60,,Washerwall Lane,Werrington,Stoke-On-Trent
+2025-02-07,205000,ST9 0FB,S,N,F,37,,Scholars Way,Werrington,Stoke-On-Trent
+2025-01-31,425000,ST9 9LL,D,N,F,Hilrae,,Stanley Road,Stockton Brook,Stoke-On-Trent
+2025-01-31,240000,ST9 9JL,F,N,L,11,,Bagnall Heights,Bagnall,Stoke-On-Trent
+2025-01-31,520000,ST9 9AP,D,N,F,Oakcroft,,Dunwood Lane,Endon,Stoke-On-Trent
+2025-01-31,250000,ST9 0LP,D,N,F,5,,Marsh Close,Werrington,Stoke-On-Trent
+2025-01-31,320000,ST9 0HA,D,N,F,Alton,,Drawell Lane,Werrington,Stoke-On-Trent
+2025-01-31,205000,ST9 0ED,S,N,F,10,,Park Drive,Werrington,Stoke-On-Trent
+2025-01-30,215000,ST9 9PF,D,N,F,4,,Nursery Lane,Stockton Brook,Stoke-On-Trent
+2025-01-30,158000,ST9 0EB,S,N,F,50,,Park Road,Werrington,Stoke-On-Trent
+2025-01-29,281000,ST9 9HF,D,N,F,Highbury,,Church Lane,Endon,Stoke-On-Trent
+2025-01-24,166500,ST9 9HN,S,N,F,11,,Marlborough Crescent,Endon,Stoke-On-Trent
+2025-01-24,178000,ST9 0EZ,T,N,F,17,,Milford Avenue,Werrington,Stoke-On-Trent
+2025-01-21,185000,ST9 0EA,S,N,F,20,,Windmill View,Werrington,Stoke-On-Trent
+2025-01-17,170000,ST9 0LR,T,N,F,65 - 67,,Washerwall Lane,Werrington,Stoke-On-Trent
+2025-01-17,172500,ST9 0LE,S,N,F,62,,Uplands Avenue,Werrington,Stoke-On-Trent
+2025-01-16,263000,ST9 9HH,D,N,F,4,,Hillside Avenue,Endon,Stoke-On-Trent
+2025-01-16,337000,ST9 9EZ,S,N,F,East Lynn,,Brook Lane,Endon,Stoke-On-Trent
+2025-01-14,675000,ST9 9NJ,S,N,F,125,,Leek Road,Stockton Brook,Stoke-On-Trent
+2025-01-14,370000,ST9 9DQ,D,N,F,38,,Basnetts Wood,Endon,Stoke-On-Trent
+2025-01-13,310000,ST9 9NW,D,N,F,Bryn Euryn,,Moss Hill,Stockton Brook,Stoke-On-Trent
+2025-01-13,160000,ST9 0DR,S,N,F,1,,Irvine Road,Werrington,Stoke-On-Trent
+2025-01-10,265000,ST9 9PQ,S,N,F,34,,Greenside Avenue,Stockton Brook,Stoke-On-Trent
+2025-01-10,265000,ST9 9ED,S,N,F,7,,Brookfield Avenue,Endon,Stoke-On-Trent
+2025-01-09,219000,ST9 0HU,S,N,F,104,,Heath Avenue,Werrington,Stoke-On-Trent
+2024-12-20,327000,ST9 9BZ,S,N,F,Woodlands,,Stoney Lane,Endon,Stoke-On-Trent
+2024-12-20,107000,ST9 0LR,S,N,F,100,,Washerwall Lane,Werrington,Stoke-On-Trent
+2024-12-19,196000,ST9 0LU,S,N,F,10,,Caroline Close,Werrington,Stoke-On-Trent
+2024-12-12,345000,ST9 9NY,D,N,F,52,,Nursery Avenue,Stockton Brook,Stoke-On-Trent
+2024-12-12,625000,ST9 9LG,D,N,F,19,,Regency Drive,Stockton Brook,Stoke-On-Trent
+2024-12-12,212500,ST9 0HT,S,N,F,25,,Heath Avenue,Werrington,Stoke-On-Trent
+2024-12-11,260000,ST9 0DW,D,N,F,26,,Brentwood Drive,Werrington,Stoke-On-Trent
+2024-12-10,225000,ST9 0HW,S,N,F,16,,Cellarhead Road,Werrington,Stoke-On-Trent
+2024-12-06,320000,ST9 9PZ,D,N,F,7,,Matthews Close,Stockton Brook,Stoke-On-Trent
+2024-12-04,540000,ST9 9JS,S,N,F,Spring Barn,,Old Mill Lane,Bagnall,Stoke-On-Trent
+2024-12-04,173000,ST9 0LU,S,N,F,11,,Caroline Close,Werrington,Stoke-On-Trent
+2024-12-04,227500,ST9 0HT,D,N,F,45,,Heath Avenue,Werrington,Stoke-On-Trent
+2024-11-29,257000,ST9 9HP,T,N,F,3,,Mayfair Grove,Endon,Stoke-On-Trent
+2024-11-29,790000,ST9 0AR,D,N,F,Vicarage Farm,,Leek Road,Wetley Rocks,Stoke-On-Trent
+2024-11-27,230000,ST9 9BG,S,N,F,13,,The Meadows,Endon,Stoke-On-Trent
+2024-11-25,147000,ST9 9NT,S,N,F,1034,,Leek New Road,Stockton Brook,Stoke-On-Trent
+2024-11-22,367000,ST9 9HS,D,N,F,45,,High View Road,Endon,Stoke-On-Trent
+2024-11-22,210000,ST9 0EB,S,N,F,56,,Park Road,Werrington,Stoke-On-Trent
+2024-11-21,440000,ST9 9QD,S,N,F,Southwold House,,Sutherland Road,Longsdon,Stoke-On-Trent
+2024-11-19,250000,ST9 9JL,T,N,L,18,,Bagnall Heights,Bagnall,Stoke-On-Trent
+2024-11-18,195000,ST9 0LN,S,N,F,47,,Cotehill Road,Werrington,Stoke-On-Trent
+2024-11-15,250000,ST9 9JL,S,N,L,67,,Bagnall Heights,Bagnall,Stoke-On-Trent
+2024-11-15,375000,ST9 9HS,D,N,F,43,,High View Road,Endon,Stoke-On-Trent
+2024-11-15,365000,ST9 9DQ,D,N,F,36,,Basnetts Wood,Endon,Stoke-On-Trent
+2024-11-11,187500,ST9 0JX,T,N,F,3,,Stonehouse Road,Werrington,Stoke-On-Trent
+2024-11-11,170000,ST9 0EB,S,N,F,16,,Park Road,Werrington,Stoke-On-Trent
+2024-11-08,295000,ST9 9HH,S,N,F,24,,Hillside Avenue,Endon,Stoke-On-Trent
+2024-11-08,195000,ST9 0ER,S,N,F,15,,Philip Lane,Werrington,Stoke-On-Trent
+2024-11-07,330000,ST9 9BL,D,N,F,9,,Hillswood Drive,Endon,Stoke-On-Trent
+2024-11-07,235000,ST9 0PB,D,N,F,24,,Chatsworth Drive,Werrington,Stoke-On-Trent
+2024-11-07,236000,ST9 0ES,D,N,F,1,,Moss Close,Werrington,Stoke-On-Trent
+2024-11-01,250000,ST9 0PB,D,N,F,8,,Chatsworth Drive,Werrington,Stoke-On-Trent
+2024-11-01,182000,ST9 0LN,D,N,F,33,,Cotehill Road,Werrington,Stoke-On-Trent
+2024-10-29,295000,ST9 9PH,S,N,F,30,,Quarry Close,Stockton Brook,Stoke-On-Trent
+2024-10-28,510000,ST9 9EZ,S,N,F,Belmont,,Brook Lane,Endon,Stoke-On-Trent
+2024-10-28,325000,ST9 9BZ,S,N,F,Sunnymead,,Stoney Lane,Endon,Stoke-On-Trent
+2024-10-28,268000,ST9 0AT,D,N,F,Rose Cottage,,Randles Lane,Wetley Rocks,Stoke-On-Trent
+2024-10-25,295000,ST9 0JY,D,N,F,23,,Meigh Road,Werrington,Stoke-On-Trent
+2024-10-23,245000,ST9 9JL,F,N,L,17,,Bagnall Heights,Bagnall,Stoke-On-Trent
+2024-10-18,177000,ST9 0PQ,S,N,F,60,,Chartwell Close,Werrington,Stoke-On-Trent
+2024-10-18,233000,ST9 0JS,S,N,F,344,,Ash Bank Road,Werrington,Stoke-On-Trent
+2024-10-18,330000,ST9 0FB,D,N,F,19,,Scholars Way,Werrington,Stoke-On-Trent
+2024-10-17,159000,ST9 0LW,S,N,F,7,,Whitmore Avenue,Werrington,Stoke-On-Trent
+2024-10-17,190000,ST9 0LE,S,N,F,52,,Uplands Avenue,Werrington,Stoke-On-Trent
+2024-10-17,195000,ST9 0HZ,S,N,F,4,,Wilton Avenue,Werrington,Stoke-On-Trent
+2024-10-11,170000,ST9 0AN,T,N,F,4,,Brentwood Court,Werrington,Stoke-On-Trent
+2024-10-10,635000,ST9 9DT,S,N,F,Brookfield,,Post Lane,Endon,Stoke-On-Trent
+2024-10-10,175000,ST9 0DB,S,N,F,11,,Salters Close,Werrington,Stoke-On-Trent
+2024-10-04,500000,ST9 9PS,D,N,F,17,,Heather Hills,Stockton Brook,Stoke-On-Trent
+2024-10-04,190000,ST9 0JS,S,N,F,302,,Ash Bank Road,Werrington,Stoke-On-Trent
+2024-10-04,190000,ST9 0HY,S,N,F,15,,Wetley Avenue,Werrington,Stoke-On-Trent
+2024-09-26,155000,ST9 0LD,S,N,F,17,,Stonehouse Crescent,Werrington,Stoke-On-Trent
+2024-09-23,160000,ST9 0LS,D,N,F,1,,Moss Park Avenue,Werrington,Stoke-On-Trent
+2024-09-13,223625,ST9 0NA,S,N,F,24,,Kaydor Close,Werrington,Stoke-On-Trent
+2024-09-12,315000,ST9 0HY,D,N,F,28,,Wetley Avenue,Werrington,Stoke-On-Trent
+2024-09-06,464000,ST9 9LX,D,N,F,Stonewold,,Stanley Village,Stanley,Stoke-On-Trent
+2024-09-06,442000,ST9 9LX,T,N,F,Rose Cottage,,Stanley Village,Stanley,Stoke-On-Trent
+2024-09-06,258000,ST9 9DT,S,N,F,Brooklea,,Post Lane,Endon,Stoke-On-Trent
+2024-09-06,282500,ST9 9BL,D,N,F,34,,Hillswood Drive,Endon,Stoke-On-Trent
+2024-09-05,605000,ST9 9ND,D,Y,F,6,,Coltslow Farm,Stockton Brook,Stoke-On-Trent
+2024-09-05,230000,ST9 9DR,S,N,F,43,,Station Road,Endon,Stoke-On-Trent
+2024-09-04,302500,ST9 0HU,D,N,F,96,,Heath Avenue,Werrington,Stoke-On-Trent
+2024-08-30,220000,ST9 0LF,S,N,F,20,,Uplands Croft,Werrington,Stoke-On-Trent
+2024-08-28,250000,ST9 9HN,D,N,F,10,,Marlborough Crescent,Endon,Stoke-On-Trent
+2024-08-27,150000,ST9 0LP,D,N,F,1,,Marsh Close,Werrington,Stoke-On-Trent
+2024-08-19,485000,ST9 9HF,D,N,F,The Orchard,,Church Lane,Endon,Stoke-On-Trent
+2024-08-19,297000,ST9 9DA,D,N,F,"Quarry Bridge, 22",,Hazelwood Road,Endon,Stoke-On-Trent
+2024-08-16,348000,ST9 9LX,T,N,F,Jasmine Cottage,,Stanley Village,Stanley,Stoke-On-Trent
+2024-08-15,420000,ST9 0PW,D,N,F,12,,Ferndale Close,Werrington,Stoke-On-Trent
+2024-08-15,290000,ST9 0BZ,D,N,F,20,,Oak Mount Road,Werrington,Stoke-On-Trent
+2024-08-09,185000,ST9 9DT,S,N,F,Sunnyside,,Post Lane,Endon,Stoke-On-Trent
+2024-08-09,325000,ST9 9BF,D,N,F,5,,The Priory,Endon,Stoke-On-Trent
+2024-08-07,602500,ST9 9QF,D,N,F,Willow House,,Leek Road,Longsdon,Stoke-On-Trent
+2024-08-07,192000,ST9 0LH,S,N,F,53,,Washerwall Lane,Werrington,Stoke-On-Trent
+2024-08-06,275000,ST9 0NG,D,N,F,8,,Penmere Drive,Werrington,Stoke-On-Trent
+2024-08-05,305000,ST9 9BD,D,N,F,1,,Parkfields,Endon,Stoke-On-Trent
+2024-08-02,592500,ST9 9DQ,D,N,F,29,,Basnetts Wood,Endon,Stoke-On-Trent
+2024-07-31,215000,ST9 0DT,S,N,F,451,,Ash Bank Road,Werrington,Stoke-On-Trent
+2024-07-26,189500,ST9 0LN,D,N,F,15,,Cotehill Road,Werrington,Stoke-On-Trent
+2024-07-24,325000,ST9 9ED,S,N,F,24,,Brookfield Avenue,Endon,Stoke-On-Trent
+2024-07-22,304995,ST9 0FG,D,Y,F,2,,Spindlestone Close,Werrington,Stoke-On-Trent
+2024-07-19,365000,ST9 9BP,D,N,F,2,,Spinney Close,Endon,Stoke-On-Trent
+2024-07-05,250000,ST9 9JB,D,N,F,Highfield Cottage,,Park Lane,Endon,Stoke-On-Trent
+2024-07-05,220000,ST9 9DT,S,N,F,Holmlea,,Post Lane,Endon,Stoke-On-Trent
+2024-07-05,147000,ST9 0BH,T,N,F,29,,Main Road,Wetley Rocks,Stoke-On-Trent
+2024-07-05,150000,ST9 0BG,D,N,F,42,,Main Road,Wetley Rocks,Stoke-On-Trent
+2024-07-02,253000,ST9 0DD,S,N,F,14,,Clough Lane,Werrington,Stoke-On-Trent
+2024-06-28,610000,ST9 9LG,D,N,F,7,,Regency Drive,Stockton Brook,Stoke-On-Trent
+2024-06-28,309000,ST9 9HS,S,N,F,63,,High View Road,Endon,Stoke-On-Trent
+2024-06-28,382500,ST9 9HJ,D,N,F,10,,Hampshire Close,Endon,Stoke-On-Trent
+2024-06-28,315000,ST9 9BN,D,N,F,4,,Woodvale Crescent,Endon,Stoke-On-Trent
+2024-06-28,260000,ST9 9BH,D,N,F,235,,Leek Road,Endon,Stoke-On-Trent
+2024-06-28,205000,ST9 0LE,S,N,F,17,,Uplands Avenue,Werrington,Stoke-On-Trent
+2024-06-28,199995,ST9 0FF,S,Y,F,34,,Ravensmoor Road,Werrington,Stoke-On-Trent
+2024-06-27,190000,ST9 0LZ,D,N,F,Moorland House,,Sandy Lane,Werrington,Stoke-On-Trent
+2024-06-25,190000,ST9 0FB,S,N,F,39,,Scholars Way,Werrington,Stoke-On-Trent
+2024-06-14,365000,ST9 9LQ,D,N,F,1,,Moorhead Drive,Bagnall,Stoke-On-Trent
+2024-06-14,371500,ST9 9LN,D,N,F,Stanley View,,Clewlows Bank,Stockton Brook,Stoke-On-Trent
+2024-06-14,300000,ST9 9HS,D,N,F,79,,High View Road,Endon,Stoke-On-Trent
+2024-06-14,212000,ST9 0ER,S,N,F,1,,Philip Lane,Werrington,Stoke-On-Trent
+2024-06-06,165000,ST9 0PQ,S,N,F,62,,Chartwell Close,Werrington,Stoke-On-Trent
+2024-06-06,245000,ST9 0LG,S,N,F,27,,Uplands Drive,Werrington,Stoke-On-Trent
+2024-06-04,340000,ST9 9DR,S,N,F,Elroy,,Station Road,Endon,Stoke-On-Trent
+2024-05-31,210000,ST9 9DA,D,N,F,4,,Hazelwood Road,Endon,Stoke-On-Trent
+2024-05-31,435000,ST9 0EL,D,N,F,210,,Armshead Road,Werrington,Stoke-On-Trent
+2024-05-29,255000,ST9 9NZ,D,N,F,2,,Dorlan Close,Stockton Brook,Stoke-On-Trent
+2024-05-28,100000,ST9 0DR,S,N,F,5,,Irvine Road,Werrington,Stoke-On-Trent
+2024-05-24,180000,ST9 0LN,D,N,F,26,,Cotehill Road,Werrington,Stoke-On-Trent
+2024-05-24,241000,ST9 0EJ,D,N,F,3,,Mount Close,Werrington,Stoke-On-Trent
+2024-05-21,235000,ST9 9HX,D,N,F,13,,Kenley Avenue,Endon,Stoke-On-Trent
+2024-05-21,300000,ST9 9HS,S,N,F,47,,High View Road,Endon,Stoke-On-Trent
+2024-05-17,243000,ST9 9JL,F,N,L,38,,Bagnall Heights,Bagnall,Stoke-On-Trent
+2024-05-17,180000,ST9 0PQ,S,N,F,26,,Chartwell Close,Werrington,Stoke-On-Trent
+2024-05-16,240000,ST9 9JL,T,N,L,59,,Bagnall Heights,Bagnall,Stoke-On-Trent
+2024-05-15,540000,ST9 9PN,D,N,F,Quarry Bungalow,,Greenway Hall Road,Stockton Brook,Stoke-On-Trent
+2024-05-15,475000,ST9 9LR,D,N,F,Victoria House,,Stanley Moss Road,Stockton Brook,Stoke-On-Trent
+2024-05-03,300000,ST9 9JP,S,N,F,Richmond,,School Road,Bagnall,Stoke-On-Trent
+2024-05-03,330000,ST9 0JB,D,N,F,6,,Rownall Road,Werrington,Stoke-On-Trent
+2024-05-01,93000,ST9 0BG,S,N,F,38,,Main Road,Wetley Rocks,Stoke-On-Trent
+2024-04-26,205000,ST9 0EQ,S,N,F,16,,Moorland Avenue,Werrington,Stoke-On-Trent
+2024-04-25,345000,ST9 9LP,D,N,F,Linley,,Clewlows Bank,Bagnall,Stoke-On-Trent
+2024-04-22,222000,ST9 9JR,D,N,F,Badegenhall Barn,,The Green,Bagnall,Stoke-On-Trent
+2024-04-22,158500,ST9 0EB,S,N,F,26,,Park Road,Werrington,Stoke-On-Trent
+2024-04-19,230000,ST9 9PU,D,N,F,29,,Shaldon Avenue,Stockton Brook,Stoke-On-Trent
+2024-04-19,215000,ST9 0PB,D,N,F,94,,Chatsworth Drive,Werrington,Stoke-On-Trent
+2024-04-19,200000,ST9 0EQ,S,N,F,38,,Moorland Avenue,Werrington,Stoke-On-Trent
+2024-04-18,153000,ST9 0EL,S,N,F,153,,Armshead Road,Werrington,Stoke-On-Trent
+2024-04-15,200000,ST9 0BN,D,N,F,Acorn Barn,,Mill Lane,Wetley Rocks,Stoke-On-Trent
+2024-04-05,385000,ST9 9PE,D,N,F,27,,Percival Drive,Stockton Brook,Stoke-On-Trent
+2024-04-05,250000,ST9 0JN,S,N,F,7,,Radley Way,Werrington,Stoke-On-Trent
+2024-04-04,230000,ST9 9JL,F,N,L,41,,Bagnall Heights,Bagnall,Stoke-On-Trent
+2024-04-04,375000,ST9 9DQ,D,N,F,26,,Basnetts Wood,Endon,Stoke-On-Trent
+2024-04-04,523000,ST9 9BY,S,N,F,Sunnyside,,The Avenue,Endon,Stoke-On-Trent
+2024-04-03,370000,ST9 9PE,D,N,F,Canford,,Percival Drive,Stockton Brook,Stoke-On-Trent
+2024-04-03,570000,ST9 9LH,D,Y,F,Stable House,,Stanley Moss Lane,Stockton Brook,Stoke-On-Trent
+2024-04-03,340000,ST9 9HX,D,N,F,21,,Kenley Avenue,Endon,Stoke-On-Trent
+2024-03-28,188000,ST9 0JY,T,N,F,45,,Meigh Road,Werrington,Stoke-On-Trent
+2024-03-28,328000,ST9 0HU,D,N,F,91,,Heath Avenue,Werrington,Stoke-On-Trent
+2024-03-28,250000,ST9 0BZ,S,N,F,10,,Oak Mount Road,Werrington,Stoke-On-Trent
+2024-03-20,380000,ST9 0DG,S,N,F,Ashleigh,,Leek Road,Werrington,Stoke-On-Trent
+2024-03-15,195000,ST9 0ED,S,N,F,5,,Park Drive,Werrington,Stoke-On-Trent
+2024-03-01,174500,ST9 0EL,S,N,F,125,,Armshead Road,Werrington,Stoke-On-Trent
+2024-03-01,248000,ST9 0BB,D,N,F,579,,Cheadle Road,Wetley Rocks,Stoke-On-Trent
+2024-02-28,250000,ST9 0EG,S,N,F,47,,Armshead Road,Werrington,Stoke-On-Trent
+2024-02-21,322500,ST9 9PF,S,N,F,Wycliffe,,Nursery Lane,Stockton Brook,Stoke-On-Trent
+2024-02-16,210000,ST9 0DT,S,N,F,465,,Ash Bank Road,Werrington,Stoke-On-Trent
+2024-02-16,475000,ST9 0AE,D,N,F,Wrens Nest Barn,,Consall,Wetley Rocks,Stoke-On-Trent
+2024-02-15,176000,ST9 0DT,S,N,F,437,,Ash Bank Road,Werrington,Stoke-On-Trent
+2024-02-14,322500,ST9 9NQ,D,N,F,22,,Brentwood Grove,Stockton Brook,Stoke-On-Trent
+2024-02-12,145000,ST9 0EN,S,N,F,10,,Alan Dale,Werrington,Stoke-On-Trent
+2024-02-09,336000,ST9 9PF,S,N,F,Hillside,,Nursery Lane,Stockton Brook,Stoke-On-Trent
+2024-02-05,262500,ST9 9HX,D,N,F,17,,Kenley Avenue,Endon,Stoke-On-Trent
+2024-01-26,420000,ST9 9LP,D,N,F,Manorcroft,,Clewlows Bank,Bagnall,Stoke-On-Trent
+2024-01-26,245000,ST9 0NG,D,N,F,10,,Penmere Drive,Werrington,Stoke-On-Trent
+2024-01-26,185000,ST9 0JE,S,N,F,50,,Moorside Road,Werrington,Stoke-On-Trent
+2024-01-26,195000,ST9 0EZ,S,N,F,1,,Milford Avenue,Werrington,Stoke-On-Trent
+2024-01-26,165000,ST9 0EB,S,N,F,34,,Park Road,Werrington,Stoke-On-Trent
+2024-01-25,650005,ST9 9QG,D,N,F,Imperial,,Denford Road,Longsdon,Stoke-On-Trent
+2024-01-22,375000,ST9 9BL,D,N,F,15,,Hillswood Drive,Endon,Stoke-On-Trent
+2024-01-12,180000,ST9 0FB,S,N,F,43,,Scholars Way,Werrington,Stoke-On-Trent
+2024-01-10,181000,ST9 0LE,S,N,F,57,,Uplands Avenue,Werrington,Stoke-On-Trent
+2024-01-05,225000,ST9 0DZ,S,N,F,43,,James Crescent,Werrington,Stoke-On-Trent
+2023-12-20,242000,ST9 9JL,F,N,L,17,,Bagnall Heights,Bagnall,Stoke-On-Trent
+2023-12-18,297500,ST9 9HU,D,N,F,3,,Grosvenor Close,Endon,Stoke-On-Trent
+2023-12-18,280000,ST9 9EX,S,N,F,The Forge,2,The Village,Endon,Stoke-On-Trent
+2023-12-15,285000,ST9 0LY,S,N,F,128,,Washerwall Lane,Werrington,Stoke-On-Trent
+2023-12-12,185000,ST9 9AZ,T,N,F,1,,Florence Terrace,Endon,Stoke-On-Trent
+2023-12-08,155000,ST9 0PF,T,N,F,10,,Capesthorne Close,Werrington,Stoke-On-Trent
+2023-12-07,201000,ST9 0EA,S,N,F,8,,Windmill View,Werrington,Stoke-On-Trent
+2023-12-06,280000,ST9 0LQ,S,N,F,5,,Hewitt Crescent,Werrington,Stoke-On-Trent
+2023-12-06,187000,ST9 0EA,S,N,F,12,,Windmill View,Werrington,Stoke-On-Trent
+2023-12-01,575000,ST9 9LX,S,N,F,L'Hermitage,,Stanley Village,Stanley,Stoke-On-Trent
+2023-12-01,160000,ST9 0EX,S,N,F,4,,Russell Grove,Werrington,Stoke-On-Trent
+2023-11-30,175500,ST9 0ED,S,N,F,20,,Park Drive,Werrington,Stoke-On-Trent
+2023-11-28,522500,ST9 9EZ,D,N,F,Franswall,,Brook Lane,Endon,Stoke-On-Trent
+2023-11-27,240000,ST9 0BZ,S,N,F,8,,Oak Mount Road,Werrington,Stoke-On-Trent
+2023-11-24,225000,ST9 0PB,D,N,F,64,,Chatsworth Drive,Werrington,Stoke-On-Trent
+2023-11-24,220000,ST9 0DZ,S,N,F,11,,James Crescent,Werrington,Stoke-On-Trent
+2023-11-23,330000,ST9 0PB,D,N,F,78,,Chatsworth Drive,Werrington,Stoke-On-Trent
+2023-11-20,212000,ST9 0JZ,S,N,F,1,,Laurel Crescent,Werrington,Stoke-On-Trent
+2023-11-17,212000,ST9 9JR,T,N,F,1,,The Cottages,Bagnall,Stoke-On-Trent
+2023-11-10,250000,ST9 9HW,S,N,F,7,,Houston Avenue,Endon,Stoke-On-Trent
+2023-11-07,195000,ST9 0EQ,D,N,F,32,,Moorland Avenue,Werrington,Stoke-On-Trent
+2023-10-30,280000,ST9 9ED,S,N,F,3,,Brookfield Avenue,Endon,Stoke-On-Trent
+2023-10-27,460000,ST9 9AH,D,N,F,Blackwood Hill Cottage,,Blackwood Hill,Endon,Stoke-On-Trent
+2023-10-27,360000,ST9 0HU,D,N,F,109,,Heath Avenue,Werrington,Stoke-On-Trent
+2023-10-27,230000,ST9 0EL,D,N,F,111,,Armshead Road,Werrington,Stoke-On-Trent
+2023-10-24,310000,ST9 9LW,S,N,F,Trefnant,,The Avenue,Stockton Brook,Stoke-On-Trent
+2023-10-24,280000,ST9 9HZ,T,N,F,3,,Fernlea Crescent,Endon,Stoke-On-Trent
+2023-10-24,340000,ST9 9BG,D,N,F,Willow View,,The Meadows,Endon,Stoke-On-Trent
+2023-10-24,130000,ST9 0EW,S,N,F,13,,Kennedy Walk,Werrington,Stoke-On-Trent
+2023-10-23,171000,ST9 0JR,S,N,F,349,,Ash Bank Road,Werrington,Stoke-On-Trent
+2023-10-20,540000,ST9 9PS,D,N,F,14,,Heather Hills,Stockton Brook,Stoke-On-Trent
+2023-10-20,172500,ST9 9PH,S,N,F,8,,Quarry Close,Stockton Brook,Stoke-On-Trent
+2023-10-20,415000,ST9 9EU,D,N,F,1,,Greenmeadow Grove,Endon,Stoke-On-Trent
+2023-10-20,375000,ST9 0BN,D,N,F,Lodgeside,,Mill Lane,Wetley Rocks,Stoke-On-Trent
+2023-10-10,217000,ST9 0EB,S,N,F,6,,Park Road,Werrington,Stoke-On-Trent
+2023-10-09,228000,ST9 0PB,D,N,F,88,,Chatsworth Drive,Werrington,Stoke-On-Trent
+2023-10-06,215000,ST9 0LF,S,N,F,27,,Uplands Croft,Werrington,Stoke-On-Trent
+2023-10-06,499950,ST9 0AS,D,N,F,Wetley Abbey Cottage,,Abbey Road,Wetley Rocks,Stoke-On-Trent
+2023-10-05,225000,ST9 0LF,S,N,F,44,,Uplands Croft,Werrington,Stoke-On-Trent
+2023-09-22,230000,ST9 0LY,S,N,F,126,,Washerwall Lane,Werrington,Stoke-On-Trent
+2023-09-22,305000,ST9 0LE,D,N,F,49,,Uplands Avenue,Werrington,Stoke-On-Trent
+2023-09-15,210000,ST9 0BN,S,N,F,Oak Barn,,Mill Lane,Wetley Rocks,Stoke-On-Trent
+2023-09-08,470000,ST9 0DG,D,N,F,The Warren,,Leek Road,Werrington,Stoke-On-Trent
+2023-09-05,220000,ST9 0DY,S,N,F,18,,Johnstone Avenue,Werrington,Stoke-On-Trent
+2023-09-01,233000,ST9 0LY,S,N,F,127,,Washerwall Lane,Werrington,Stoke-On-Trent
+2023-08-31,515000,ST9 9AG,D,N,F,Fields Villa Farm,,Gratton Lane,Endon,Stoke-On-Trent
+2023-08-25,205000,ST9 9HT,D,N,F,18,,High View Road,Endon,Stoke-On-Trent
+2023-08-25,193000,ST9 0EX,D,N,F,18,,Russell Grove,Werrington,Stoke-On-Trent
+2023-08-18,214000,ST9 0LS,D,N,F,17,,Moss Park Avenue,Werrington,Stoke-On-Trent
+2023-08-18,220000,ST9 0HZ,S,N,F,17,,Wilton Avenue,Werrington,Stoke-On-Trent
+2023-08-18,280000,ST9 0HU,D,N,F,64,,Heath Avenue,Werrington,Stoke-On-Trent
+2023-08-18,240000,ST9 0EQ,S,N,F,2,,Moorland Avenue,Werrington,Stoke-On-Trent
+2023-08-15,157000,ST9 0DT,S,N,L,433,,Ash Bank Road,Werrington,Stoke-On-Trent
+2023-08-14,440000,ST9 9BY,S,N,F,Camara,,The Avenue,Endon,Stoke-On-Trent
+2023-08-10,198000,ST9 0LH,T,N,F,64,,Washerwall Lane,Werrington,Stoke-On-Trent
+2023-08-07,286200,ST9 0LF,D,N,F,58,,Uplands Croft,Werrington,Stoke-On-Trent
+2023-08-04,165000,ST9 9HN,S,N,F,7,,Marlborough Crescent,Endon,Stoke-On-Trent
+2023-08-04,130000,ST9 0PG,T,N,F,7,,Hadden Close,Werrington,Stoke-On-Trent
+2023-07-31,355000,ST9 0AE,D,N,F,The Homestead,,Consall,Wetley Rocks,Stoke-On-Trent
+2023-07-28,278000,ST9 9HJ,D,N,F,6,,Hampshire Close,Endon,Stoke-On-Trent
+2023-07-28,170000,ST9 0EB,S,N,F,14,,Park Road,Werrington,Stoke-On-Trent
+2023-07-21,150000,ST9 0JE,S,N,F,35,,Moorside Road,Werrington,Stoke-On-Trent
+2023-07-18,360000,ST9 9EG,S,N,F,Berwyn,,Platts Avenue,Endon,Stoke-On-Trent
+2023-07-14,262000,ST9 9HX,D,N,F,32,,Kenley Avenue,Endon,Stoke-On-Trent
+2023-07-13,425000,ST9 9DD,D,N,F,Treetops,,Clay Lake,Endon,Stoke-On-Trent
+2023-07-07,185000,ST9 0LN,S,N,F,18,,Cotehill Road,Werrington,Stoke-On-Trent
+2023-07-06,455000,ST9 9EZ,S,N,F,Claremont,,Brook Lane,Endon,Stoke-On-Trent
+2023-06-30,327500,ST9 9EL,S,N,F,14,,Springbank Avenue,Endon,Stoke-On-Trent
+2023-06-30,395000,ST9 9DL,D,N,F,Trevela,,Woodstone Avenue,Endon,Stoke-On-Trent
+2023-06-30,175500,ST9 0DR,S,N,F,14,,Irvine Road,Werrington,Stoke-On-Trent
+2023-06-23,170000,ST9 0EY,S,N,F,3,,Haven Crescent,Werrington,Stoke-On-Trent
+2023-06-22,225000,ST9 0HR,D,N,F,11,,Southlowe Road,Werrington,Stoke-On-Trent
+2023-06-16,190000,ST9 0LF,S,N,F,50,,Uplands Croft,Werrington,Stoke-On-Trent
+2023-06-16,180000,ST9 0JZ,S,N,F,6,,Laurel Crescent,Werrington,Stoke-On-Trent
+2023-06-16,125000,ST9 0BQ,T,N,F,2,,The Bunting,Wetley Rocks,Stoke-On-Trent
+2023-06-13,295000,ST9 9HS,S,N,F,63,,High View Road,Endon,Stoke-On-Trent
+2023-06-09,150000,ST9 9PP,S,N,F,Elm Cottages,2,Back Bunts Lane,Stockton Brook,Stoke-On-Trent
+2023-06-09,197500,ST9 0DW,D,N,F,22,,Brentwood Drive,Werrington,Stoke-On-Trent
+2023-06-01,180000,ST9 9NQ,D,N,F,22,,Brentwood Grove,Stockton Brook,Stoke-On-Trent
+2023-05-31,210000,ST9 0LN,D,N,F,48,,Cotehill Road,Werrington,Stoke-On-Trent
+2023-05-26,235000,ST9 9JL,F,N,L,26,,Bagnall Heights,Bagnall,Stoke-On-Trent
+2023-05-26,260000,ST9 9EJ,S,N,F,153,,Leek Road,Endon,Stoke-On-Trent
+2023-05-26,210000,ST9 0PQ,S,N,F,8,,Chartwell Close,Werrington,Stoke-On-Trent
+2023-05-26,285000,ST9 0LF,S,N,F,66,,Uplands Croft,Werrington,Stoke-On-Trent
+2023-05-23,128000,ST9 0PG,T,N,F,5,,Hadden Close,Werrington,Stoke-On-Trent
+2023-05-19,270000,ST9 9PX,D,N,F,3,,Blencarn Grove,Stockton Brook,Stoke-On-Trent
+2023-05-12,420000,ST9 0AE,D,N,F,Ivy House Farm,,Consall,Wetley Rocks,Stoke-On-Trent
+2023-05-09,330000,ST9 9NT,S,N,F,1066,,Leek New Road,Stockton Brook,Stoke-On-Trent
+2023-05-04,260000,ST9 9EL,S,N,F,4,,Springbank Avenue,Endon,Stoke-On-Trent
+2023-05-04,182000,ST9 9DS,T,N,F,23,,The Quadrangle,Endon,Stoke-On-Trent
+2023-05-04,225000,ST9 0EQ,D,N,F,11,,Moorland Avenue,Werrington,Stoke-On-Trent
+2023-05-02,300000,ST9 9DX,D,N,F,11,,Orford Road,Endon,Stoke-On-Trent
+2023-04-28,252500,ST9 9HX,D,N,F,2,,Kenley Avenue,Endon,Stoke-On-Trent
+2023-04-28,255000,ST9 9DR,S,N,F,41,,Station Road,Endon,Stoke-On-Trent
+2023-04-17,150000,ST9 0LF,S,N,F,20,,Uplands Croft,Werrington,Stoke-On-Trent
+2023-04-14,172000,ST9 0PL,S,N,F,8,,Shugborough Close,Werrington,Stoke-On-Trent
+2023-04-13,580000,ST9 9EZ,S,N,F,The Old Smithy,,Brook Lane,Endon,Stoke-On-Trent
+2023-04-13,180000,ST9 0JF,S,N,F,56,,Moorside Road,Werrington,Stoke-On-Trent
+2023-04-12,366000,ST9 9JR,D,N,F,Old Post Office,,The Green,Bagnall,Stoke-On-Trent
+2023-04-12,250000,ST9 9EX,S,N,F,Beech Cottage,,The Village,Endon,Stoke-On-Trent
+2023-04-04,125000,ST9 9BF,S,N,F,9,,The Priory,Endon,Stoke-On-Trent
+2023-03-31,163000,ST9 0LS,D,N,F,1,,Moss Park Avenue,Werrington,Stoke-On-Trent
+2023-03-31,520000,ST9 0AP,D,N,F,Beech Trees,,Leek Road,Wetley Rocks,Stoke-On-Trent
+2023-03-30,274000,ST9 0JS,S,N,F,287,,Ash Bank Road,Werrington,Stoke-On-Trent
+2023-03-30,175000,ST9 0EX,S,N,F,16,,Russell Grove,Werrington,Stoke-On-Trent
+2023-03-29,255000,ST9 0LS,D,N,F,3,,Moss Park Avenue,Werrington,Stoke-On-Trent
+2023-03-10,195000,ST9 0HZ,S,N,F,11,,Wilton Avenue,Werrington,Stoke-On-Trent
+2023-03-10,270000,ST9 0DD,S,N,F,2,,Clough Lane,Werrington,Stoke-On-Trent
+2023-03-01,358000,ST9 0EP,D,N,F,40A,,Moss Park Avenue,Werrington,Stoke-On-Trent
+2023-02-24,192500,ST9 9PH,S,N,F,15,,Quarry Close,Stockton Brook,Stoke-On-Trent
+2023-02-24,284000,ST9 0EP,D,N,F,54,,Moss Park Avenue,Werrington,Stoke-On-Trent
+2023-02-17,227000,ST9 9JL,F,N,L,21,,Bagnall Heights,Bagnall,Stoke-On-Trent
+2023-02-17,285000,ST9 9EX,S,N,F,The Forge,1,The Village,Endon,Stoke-On-Trent
+2023-02-17,260000,ST9 9DQ,S,N,F,Waterfall Cottages,7,Basnetts Wood,Endon,Stoke-On-Trent
+2023-02-17,155000,ST9 0PQ,S,N,F,4,,Chartwell Close,Werrington,Stoke-On-Trent
+2023-02-17,250000,ST9 0HU,D,N,F,67,,Heath Avenue,Werrington,Stoke-On-Trent
+2023-02-17,225000,ST9 0EB,S,N,F,22,,Park Road,Werrington,Stoke-On-Trent
+2023-02-16,233000,ST9 9JL,F,N,L,25,,Bagnall Heights,Bagnall,Stoke-On-Trent
+2023-02-10,633500,ST9 9PW,D,N,F,Holmlea,,Greenway Hall Road,Stockton Brook,Stoke-On-Trent
+2023-02-10,695000,ST9 9LP,D,N,F,Allancroft,,Clewlows Bank,Bagnall,Stoke-On-Trent
+2023-02-10,447500,ST9 9BL,D,N,F,24,,Hillswood Drive,Endon,Stoke-On-Trent
+2023-02-10,230000,ST9 0LU,S,N,F,9,,Caroline Close,Werrington,Stoke-On-Trent
+2023-02-03,702000,ST9 9BX,D,N,F,Lepe House,,Stoney Lane,Endon,Stoke-On-Trent
+2023-02-03,225000,ST9 0JY,D,N,F,69,,Meigh Road,Werrington,Stoke-On-Trent
+2023-02-03,257000,ST9 0JY,S,N,F,49,,Meigh Road,Werrington,Stoke-On-Trent
+2023-02-03,499500,ST9 0DL,D,N,F,March Cottage,,March Lane,Werrington,Stoke-On-Trent
+2023-02-03,310000,ST9 0BD,D,N,F,27,,Meadow Avenue,Wetley Rocks,Stoke-On-Trent
+2023-02-01,325000,ST9 9PA,D,N,F,42,,Rosewood Avenue,Stockton Brook,Stoke-On-Trent
+2023-01-30,387000,ST9 9NT,S,N,F,1056,,Leek New Road,Stockton Brook,Stoke-On-Trent
+2023-01-30,426000,ST9 9BU,D,N,F,Courtyard Cottage,,Clay Lake,Endon,Stoke-On-Trent
+2023-01-27,260000,ST9 9NY,D,N,F,81,,Nursery Avenue,Stockton Brook,Stoke-On-Trent
+2023-01-25,1300000,ST9 0BE,D,N,F,Wildacres,,Consall,Wetley Rocks,Stoke-On-Trent
+2023-01-20,174000,ST9 0HZ,S,N,F,5,,Wilton Avenue,Werrington,Stoke-On-Trent
+2023-01-20,152000,ST9 0DR,S,N,F,10,,Irvine Road,Werrington,Stoke-On-Trent
+2023-01-19,740000,ST9 9LP,D,N,F,Limetree House,,Clewlows Bank,Bagnall,Stoke-On-Trent
+2023-01-13,218000,ST9 0EJ,S,N,F,16,,Mount Close,Werrington,Stoke-On-Trent
+2023-01-09,182000,ST9 0DT,S,N,F,479,,Ash Bank Road,Werrington,Stoke-On-Trent
+2023-01-06,225000,ST9 9QE,S,N,F,St Claire,,Limes Avenue,Longsdon,Stoke-On-Trent
+2023-01-06,325000,ST9 9PE,D,N,F,Gable House,,Percival Drive,Stockton Brook,Stoke-On-Trent
+2023-01-06,345000,ST9 0EL,S,N,F,214,,Armshead Road,Werrington,Stoke-On-Trent
+2023-01-05,438000,ST9 9LP,S,N,F,Old Police House,,Clewlows Bank,Bagnall,Stoke-On-Trent
+2022-12-19,395000,ST9 9QD,S,N,F,Woodview,,Sutherland Road,Longsdon,Stoke-On-Trent
+2022-12-19,370000,ST9 9HS,S,N,F,30,,High View Road,Endon,Stoke-On-Trent
+2022-12-19,240000,ST9 9EW,S,N,F,142,,Leek Road,Endon,Stoke-On-Trent
+2022-12-16,268000,ST9 0HU,D,N,F,111,,Heath Avenue,Werrington,Stoke-On-Trent
+2022-12-15,480000,ST9 9JS,D,N,F,St Chads Lodge,,Old Mill Lane,Bagnall,Stoke-On-Trent
+2022-12-15,340000,ST9 0BZ,D,N,F,28,,Oak Mount Road,Werrington,Stoke-On-Trent
+2022-12-12,296000,ST9 9ET,D,N,F,10,,Railway Court,Endon,Stoke-On-Trent
+2022-12-12,350000,ST9 9EG,S,N,F,2,,Platts Avenue,Endon,Stoke-On-Trent
+2022-12-09,195000,ST9 0EG,S,N,F,45,,Armshead Road,Werrington,Stoke-On-Trent
+2022-12-05,250000,ST9 0BD,D,N,F,25,,Meadow Avenue,Wetley Rocks,Stoke-On-Trent
+2022-12-02,330000,ST9 9EX,S,N,F,9,,Florence Terrace,Endon,Stoke-On-Trent
+2022-12-02,200000,ST9 0DW,S,N,F,12,,Brentwood Drive,Werrington,Stoke-On-Trent
+2022-11-30,215000,ST9 0PF,D,N,F,5,,Capesthorne Close,Werrington,Stoke-On-Trent
+2022-11-25,195000,ST9 0JE,S,N,F,26,,Moorside Road,Werrington,Stoke-On-Trent
+2022-11-24,450000,ST9 9LN,S,N,F,Orchardlea,,Clewlows Bank,Stockton Brook,Stoke-On-Trent
+2022-11-18,200000,ST9 0HU,S,N,F,80,,Heath Avenue,Werrington,Stoke-On-Trent
+2022-11-11,555000,ST9 9LG,D,N,F,10,,Regency Drive,Stockton Brook,Stoke-On-Trent
+2022-11-11,175000,ST9 0LL,S,N,F,21,,Lansdowne Crescent,Werrington,Stoke-On-Trent
+2022-11-09,192950,ST9 0JZ,D,N,F,9,,Laurel Crescent,Werrington,Stoke-On-Trent
+2022-11-07,734000,ST9 9AJ,D,N,F,Dams Lane Cottage,,Dams Lane,Gratton,Stoke-On-Trent
+2022-11-07,190000,ST9 0EP,S,N,F,37,,Moss Park Avenue,Werrington,Stoke-On-Trent
+2022-11-04,555000,ST9 9QG,S,N,F,Meadowgates,,Denford Road,Longsdon,Stoke-On-Trent
+2022-10-31,425000,ST9 9JA,S,N,F,Mead Cottage,,Park Lane,Endon,Stoke-On-Trent
+2022-10-31,360000,ST9 9DQ,D,N,F,51,,Basnetts Wood,Endon,Stoke-On-Trent
+2022-10-31,320000,ST9 9BG,D,N,F,47,,The Meadows,Endon,Stoke-On-Trent
+2022-10-28,360000,ST9 9LL,D,N,F,The Nook,,Stanley Road,Stockton Brook,Stoke-On-Trent
+2022-10-28,355000,ST9 9DQ,D,N,F,41,,Basnetts Wood,Endon,Stoke-On-Trent
+2022-10-28,190000,ST9 0EQ,T,N,F,28,,Moorland Avenue,Werrington,Stoke-On-Trent
+2022-10-21,628000,ST9 9QG,D,N,F,Eversley,,Denford Road,Longsdon,Stoke-On-Trent
+2022-10-21,440000,ST9 9EH,D,N,F,17A,,Kent Drive,Endon,Stoke-On-Trent
+2022-10-21,580000,ST9 9BX,S,N,F,Rose Hill,,Stoney Lane,Endon,Stoke-On-Trent
+2022-10-21,1180000,ST9 0BT,D,N,F,Rownall Lodge,,Rownall Road,Wetley Rocks,Stoke-On-Trent
+2022-10-14,319000,ST9 0HR,S,N,F,31,,Southlowe Road,Werrington,Stoke-On-Trent
+2022-10-14,185000,ST9 0FE,T,N,F,Stokers Cottage,,St Johns Drive,Wetley Rocks,Stoke-On-Trent
+2022-10-12,225000,ST9 9HN,S,N,F,5,,Marlborough Crescent,Endon,Stoke-On-Trent
+2022-10-10,215000,ST9 0BQ,T,N,F,Pebble Cottage,,The Bunting,Wetley Rocks,Stoke-On-Trent
+2022-10-07,595000,ST9 9PW,D,N,F,Birchfields,,Greenway Hall Road,Stockton Brook,Stoke-On-Trent
+2022-10-07,175500,ST9 9PQ,S,N,F,19,,Greenside Avenue,Stockton Brook,Stoke-On-Trent
+2022-10-07,315000,ST9 9ET,D,N,F,21,,Railway Court,Endon,Stoke-On-Trent
+2022-10-07,160000,ST9 0LD,T,N,F,8,,Stonehouse Crescent,Werrington,Stoke-On-Trent
+2022-10-07,165000,ST9 0LD,S,N,F,5,,Stonehouse Crescent,Werrington,Stoke-On-Trent
+2022-10-07,220000,ST9 0JX,S,N,F,34,,Stonehouse Road,Werrington,Stoke-On-Trent
+2022-10-07,190000,ST9 0JS,S,N,F,304,,Ash Bank Road,Werrington,Stoke-On-Trent
+2022-10-05,240000,ST9 9JL,F,N,L,52,,Bagnall Heights,Bagnall,Stoke-On-Trent
+2022-09-30,117000,ST9 0BL,T,N,F,Corner Cottage,,Plough Bank,Wetley Rocks,Stoke-On-Trent
+2022-09-23,405000,ST9 9HG,S,N,F,Hallwater Cottages,1,Hallwater,Endon,Stoke-On-Trent
+2022-09-23,330000,ST9 0LY,D,N,F,118,,Washerwall Lane,Werrington,Stoke-On-Trent
+2022-09-23,230000,ST9 0LA,D,N,F,33,,Quarry Close,Werrington,Stoke-On-Trent
+2022-09-20,340000,ST9 9PE,D,N,F,Thaxted,,Percival Drive,Stockton Brook,Stoke-On-Trent
+2022-09-16,210000,ST9 0JS,D,N,F,322,,Ash Bank Road,Werrington,Stoke-On-Trent
+2022-09-15,285000,ST9 0FE,T,N,F,Church Side Cottage,,St Johns Drive,Wetley Rocks,Stoke-On-Trent
+2022-09-14,235000,ST9 0EB,S,N,F,8,,Park Road,Werrington,Stoke-On-Trent
+2022-09-09,255000,ST9 0HY,D,N,F,27,,Wetley Avenue,Werrington,Stoke-On-Trent
+2022-09-06,220000,ST9 9HT,D,N,F,20,,High View Road,Endon,Stoke-On-Trent
+2022-09-02,570000,ST9 9DT,D,N,F,Wolstanton House,,Post Lane,Endon,Stoke-On-Trent
+2022-08-25,230000,ST9 0JE,S,N,F,44,,Moorside Road,Werrington,Stoke-On-Trent
+2022-08-23,324500,ST9 0ND,S,N,F,327,,Armshead Road,Werrington,Stoke-On-Trent
+2022-08-22,250000,ST9 0DP,S,N,F,1,,Hill Village Road,Werrington,Stoke-On-Trent
+2022-08-19,220000,ST9 0DA,S,N,F,The Oaks,,Salters Lane,Werrington,Stoke-On-Trent
+2022-08-12,700000,ST9 9QF,D,N,F,Elmwood,,Leek Road,Longsdon,Stoke-On-Trent
+2022-08-11,360000,ST9 0NF,D,N,F,9,,Langton Court,Werrington,Stoke-On-Trent
+2022-08-05,335000,ST9 9DT,S,N,F,Windyside,,Post Lane,Endon,Stoke-On-Trent
+2022-08-03,200000,ST9 0JB,S,N,F,18,,Rownall Road,Werrington,Stoke-On-Trent
+2022-07-28,275000,ST9 9QE,S,N,F,Ashlea,,Limes Avenue,Longsdon,Stoke-On-Trent
+2022-07-27,255000,ST9 0JD,S,N,F,14,,Withystakes Road,Werrington,Stoke-On-Trent
+2022-07-26,165000,ST9 0JE,S,N,F,37,,Moorside Road,Werrington,Stoke-On-Trent
+2022-07-25,247500,ST9 9JP,S,N,F,Belmont,,School Road,Bagnall,Stoke-On-Trent
+2022-07-22,265000,ST9 9NX,S,N,F,1026,,Leek New Road,Stockton Brook,Stoke-On-Trent
+2022-07-19,238000,ST9 9JL,F,N,L,50,,Bagnall Heights,Bagnall,Stoke-On-Trent
+2022-07-15,195000,ST9 9NY,S,N,F,69,,Nursery Avenue,Stockton Brook,Stoke-On-Trent
+2022-07-15,322500,ST9 9DR,D,N,F,Blue Bricks,,Station Road,Endon,Stoke-On-Trent
+2022-07-15,235265,ST9 0DB,S,N,F,1,,Salters Close,Werrington,Stoke-On-Trent
+2022-07-11,312500,ST9 9PD,D,N,F,Helvelyn,,The Green,Stockton Brook,Stoke-On-Trent
+2022-07-08,195000,ST9 0EB,S,N,F,35,,Park Road,Werrington,Stoke-On-Trent
+2022-07-07,180000,ST9 0LN,D,N,F,3,,Cotehill Road,Werrington,Stoke-On-Trent
+2022-07-01,240000,ST9 9JL,S,Y,L,30,,Bagnall Heights,Bagnall,Stoke-On-Trent
+2022-06-30,190000,ST9 0JF,S,N,F,86,,Moorside Road,Werrington,Stoke-On-Trent
+2022-06-30,220400,ST9 0HU,S,N,F,114,,Heath Avenue,Werrington,Stoke-On-Trent
+2022-06-30,172000,ST9 0FB,S,N,F,25,,Scholars Way,Werrington,Stoke-On-Trent
+2022-06-30,435000,ST9 0DG,D,N,F,Ridgefields Farm,,Leek Road,Werrington,Stoke-On-Trent
+2022-06-27,230000,ST9 9JL,T,Y,L,44,,Bagnall Heights,Bagnall,Stoke-On-Trent
+2022-06-21,235000,ST9 9JL,F,N,L,2,,Bagnall Heights,Bagnall,Stoke-On-Trent
+2022-06-17,415000,ST9 9PF,S,N,F,31,,Nursery Lane,Stockton Brook,Stoke-On-Trent
+2022-06-17,245000,ST9 9LL,D,N,F,Rose View Cottage,,Stanley Road,Stockton Brook,Stoke-On-Trent
+2022-06-14,360000,ST9 0ET,D,N,F,3,,Sandy Hill,Werrington,Stoke-On-Trent
+2022-06-14,160000,ST9 0DR,S,N,F,3,,Irvine Road,Werrington,Stoke-On-Trent
+2022-06-10,205000,ST9 9PA,S,N,F,6,,Rosewood Avenue,Stockton Brook,Stoke-On-Trent
+2022-06-10,150000,ST9 0FE,D,N,F,St. Johns View,,St Johns Drive,Wetley Rocks,Stoke-On-Trent
+2022-06-10,202500,ST9 0EB,S,N,F,38,,Park Road,Werrington,Stoke-On-Trent
+2022-06-07,220000,ST9 0ED,S,N,F,1,,Park Drive,Werrington,Stoke-On-Trent
+2022-06-06,136000,ST9 9PR,S,N,F,5,,Bunts Lane,Stockton Brook,Stoke-On-Trent
+2022-06-06,220000,ST9 0JE,S,N,F,4,,Moorside Road,Werrington,Stoke-On-Trent
+2022-06-01,210000,ST9 0JE,S,N,F,1,,Moorside Road,Werrington,Stoke-On-Trent
+2022-05-27,190000,ST9 9JL,F,Y,L,51,,Bagnall Heights,Bagnall,Stoke-On-Trent
+2022-05-24,380000,ST9 9EH,S,N,F,3,,Kent Drive,Endon,Stoke-On-Trent
+2022-05-23,202000,ST9 0EA,S,N,F,20,,Windmill View,Werrington,Stoke-On-Trent
+2022-05-20,370000,ST9 0BN,D,N,F,Bramble House,,Mill Lane,Wetley Rocks,Stoke-On-Trent
+2022-05-13,265000,ST9 0EH,D,N,F,13,,Moorland Close,Werrington,Stoke-On-Trent
+2022-05-12,355000,ST9 9EL,S,N,F,1,,Springbank Avenue,Endon,Stoke-On-Trent
+2022-05-10,165000,ST9 0EH,S,N,F,1,,Moorland Close,Werrington,Stoke-On-Trent
+2022-05-09,429950,ST9 0AR,D,N,F,"Big Southlow Farm, 43",,Leek Road,Wetley Rocks,Stoke-On-Trent
+2022-05-06,182000,ST9 0JD,S,N,F,32,,Withystakes Road,Werrington,Stoke-On-Trent
+2022-05-05,211000,ST9 0JG,S,N,F,7,,Toll Bar Road,Werrington,Stoke-On-Trent
+2022-04-29,195000,ST9 9PH,S,N,F,7,,Quarry Close,Stockton Brook,Stoke-On-Trent
+2022-04-29,265000,ST9 0JS,S,N,F,354,,Ash Bank Road,Werrington,Stoke-On-Trent
+2022-04-29,285000,ST9 0HY,D,N,F,18,,Wetley Avenue,Werrington,Stoke-On-Trent
+2022-04-29,180000,ST9 0HX,D,N,F,5,,Leek Road,Werrington,Stoke-On-Trent
+2022-04-26,426000,ST9 9PW,S,N,F,Beech Cottage,,Greenway Hall Road,Stockton Brook,Stoke-On-Trent
+2022-04-13,189950,ST9 9BD,S,N,F,15,,Parkfields,Endon,Stoke-On-Trent
+2022-04-08,230000,ST9 9JL,T,N,L,22,,Bagnall Heights,Bagnall,Stoke-On-Trent
+2022-04-07,460000,ST9 9PS,D,N,F,6,,Heather Hills,Stockton Brook,Stoke-On-Trent
+2022-04-07,230000,ST9 9DA,D,N,F,12,,Hazelwood Road,Endon,Stoke-On-Trent
+2022-04-04,325000,ST9 9HJ,D,N,F,12,,Hampshire Close,Endon,Stoke-On-Trent
+2022-03-31,215000,ST9 9PF,S,N,F,9,,Nursery Lane,Stockton Brook,Stoke-On-Trent
+2022-03-31,225000,ST9 0HT,D,N,F,41,,Heath Avenue,Werrington,Stoke-On-Trent
+2022-03-28,1100000,ST9 9LX,D,N,F,The Firs,,Stanley Village,Stanley,Stoke-On-Trent
+2022-03-25,260000,ST9 9EL,S,N,F,17,,Springbank Avenue,Endon,Stoke-On-Trent
+2022-03-24,140000,ST9 0LH,S,N,F,55,,Washerwall Lane,Werrington,Stoke-On-Trent
+2022-03-18,178000,ST9 0LF,S,N,F,31,,Uplands Croft,Werrington,Stoke-On-Trent
+2022-03-11,135000,ST9 0PF,T,N,F,4,,Capesthorne Close,Werrington,Stoke-On-Trent
+2022-03-11,210000,ST9 0LE,S,N,F,55,,Uplands Avenue,Werrington,Stoke-On-Trent
+2022-03-10,719000,ST9 9DE,D,N,F,Bluestone House,,Clay Lake,Endon,Stoke-On-Trent
+2022-03-04,202500,ST9 0ER,S,N,F,14,,Philip Lane,Werrington,Stoke-On-Trent
+2022-02-28,222500,ST9 0LJ,S,N,F,30,,Hillside Road,Werrington,Stoke-On-Trent
+2022-02-25,215000,ST9 0PB,D,N,F,100,,Chatsworth Drive,Werrington,Stoke-On-Trent
+2022-02-24,150000,ST9 0EU,S,N,F,66,,Moss Park Avenue,Werrington,Stoke-On-Trent
+2022-02-23,692000,ST9 9DU,D,N,F,Caldon Cottage,,Post Lane,Endon,Stoke-On-Trent
+2022-02-18,215000,ST9 9PD,T,N,F,Melstock 5 The Cottages,,The Green,Stockton Brook,Stoke-On-Trent
+2022-02-16,175000,ST9 0LH,S,N,F,54,,Washerwall Lane,Werrington,Stoke-On-Trent
+2022-02-14,200000,ST9 0LE,S,N,F,17,,Uplands Avenue,Werrington,Stoke-On-Trent
+2022-02-11,340000,ST9 9QD,S,N,F,Shrubbs Hill Cottage,,Sutherland Road,Longsdon,Stoke-On-Trent
+2022-02-11,233250,ST9 0LQ,S,N,F,4,,Hewitt Crescent,Werrington,Stoke-On-Trent
+2022-02-04,160000,ST9 0FB,S,N,F,20,,Scholars Way,Werrington,Stoke-On-Trent
+2022-02-03,878000,ST9 9QW,D,N,F,Dunwood Cottage,,Dunwood Lane,Longsdon,Stoke-On-Trent
+2022-02-03,315000,ST9 9BL,D,N,F,31,,Hillswood Drive,Endon,Stoke-On-Trent
+2022-02-03,415000,ST9 0BA,D,N,F,699,,Cheadle Road,Wetley Rocks,Stoke-On-Trent
+2022-02-03,265000,ST9 0BA,D,N,F,647,,Cheadle Road,Wetley Rocks,Stoke-On-Trent
+2022-01-31,272500,ST9 9DB,D,N,F,9,,Cedar Crescent,Endon,Stoke-On-Trent
+2022-01-31,320000,ST9 0PW,D,N,F,18,,Ferndale Close,Werrington,Stoke-On-Trent
+2022-01-28,325000,ST9 9DT,S,N,F,Kendale,,Post Lane,Endon,Stoke-On-Trent
+2022-01-20,182500,ST9 0EY,S,N,F,10,,Haven Crescent,Werrington,Stoke-On-Trent
+2022-01-14,210000,ST9 0DZ,S,N,F,14,,James Crescent,Werrington,Stoke-On-Trent
+2022-01-07,186000,ST9 0LE,S,N,F,2,,Uplands Avenue,Werrington,Stoke-On-Trent
+2022-01-05,280000,ST9 9LW,S,N,F,Hilstan,,The Avenue,Stockton Brook,Stoke-On-Trent
+2022-01-05,195000,ST9 0LN,D,N,F,25,,Cotehill Road,Werrington,Stoke-On-Trent
+2022-01-04,195000,ST9 9NY,S,N,F,53,,Nursery Avenue,Stockton Brook,Stoke-On-Trent
+2021-12-20,120000,ST9 0DH,T,N,F,3,,Cellarhead Road,Werrington,Stoke-On-Trent
+2021-12-17,210000,ST9 9DS,S,N,F,19,,The Quadrangle,Endon,Stoke-On-Trent
+2021-12-17,245000,ST9 0HW,S,N,F,30,,Cellarhead Road,Werrington,Stoke-On-Trent
+2021-12-15,185000,ST9 9AA,T,N,F,5,,Heaton Terrace,Endon,Stoke-On-Trent
+2021-12-15,260000,ST9 0FB,D,N,F,3,,Scholars Way,Werrington,Stoke-On-Trent
+2021-12-10,450000,ST9 9BX,D,N,F,Laurel House,,Stoney Lane,Endon,Stoke-On-Trent
+2021-12-10,220000,ST9 0DT,S,N,F,503,,Ash Bank Road,Werrington,Stoke-On-Trent
+2021-12-09,1100000,ST9 9AR,D,N,F,Highwood,,Leek Road,Dunwood,Stoke-On-Trent
+2021-12-03,240000,ST9 9HA,S,N,F,3,,Brookside Drive,Endon,Stoke-On-Trent
+2021-11-30,205000,ST9 0ED,S,N,F,1,,Park Drive,Werrington,Stoke-On-Trent
+2021-11-26,210000,ST9 9PJ,D,N,F,Grove Cottage,,Cocks Lane,Stockton Brook,Stoke-On-Trent
+2021-11-25,255000,ST9 9PE,D,N,F,"Beechcroft, 14",,Percival Drive,Stockton Brook,Stoke-On-Trent
+2021-11-25,345000,ST9 0LY,D,N,F,124,,Washerwall Lane,Werrington,Stoke-On-Trent
+2021-11-25,206000,ST9 0EH,S,N,F,1,,Moorland Close,Werrington,Stoke-On-Trent
+2021-11-23,325000,ST9 9PP,D,N,F,Hillside Cottage,,Back Bunts Lane,Stockton Brook,Stoke-On-Trent
+2021-11-23,440000,ST9 9NS,S,N,F,Hillsden,,Edgefields Lane,Stockton Brook,Stoke-On-Trent
+2021-11-16,140000,ST9 9AA,T,N,F,2,,Heaton Terrace,Endon,Stoke-On-Trent
+2021-11-12,445000,ST9 9QD,D,N,F,Stone Barn Farm,,Sutherland Road,Longsdon,Stoke-On-Trent
+2021-11-12,297500,ST9 9HJ,S,N,F,8,,Hampshire Close,Endon,Stoke-On-Trent
+2021-11-12,491000,ST9 9BP,D,N,F,1,,Spinney Close,Endon,Stoke-On-Trent
+2021-11-12,265000,ST9 0HR,D,N,F,8,,Southlowe Road,Werrington,Stoke-On-Trent
+2021-11-08,193000,ST9 0LF,S,N,F,38,,Uplands Croft,Werrington,Stoke-On-Trent
+2021-11-03,265000,ST9 0DD,S,N,F,25,,Clough Lane,Werrington,Stoke-On-Trent
+2021-10-29,190000,ST9 0PH,D,N,F,5,,Moreton Close,Werrington,Stoke-On-Trent
+2021-10-26,255000,ST9 9HT,S,N,F,24,,High View Road,Endon,Stoke-On-Trent
+2021-10-26,135000,ST9 0BH,D,N,F,6,,Main Road,Wetley Rocks,Stoke-On-Trent
+2021-10-20,219000,ST9 0LP,D,N,F,9,,Marsh Close,Werrington,Stoke-On-Trent
+2021-10-20,197500,ST9 0JZ,S,N,F,7,,Laurel Crescent,Werrington,Stoke-On-Trent
+2021-10-20,161000,ST9 0DB,S,N,F,12,,Salters Close,Werrington,Stoke-On-Trent
+2021-10-19,190000,ST9 0HU,S,N,F,112,,Heath Avenue,Werrington,Stoke-On-Trent
+2021-10-18,350000,ST9 9BD,D,N,F,18,,Parkfields,Endon,Stoke-On-Trent
+2021-10-15,230000,ST9 0LP,D,N,F,18,,Marsh Close,Werrington,Stoke-On-Trent
+2021-10-11,260000,ST9 0JS,D,N,F,320,,Ash Bank Road,Werrington,Stoke-On-Trent
+2021-10-11,238000,ST9 0HU,S,N,F,54,,Heath Avenue,Werrington,Stoke-On-Trent
+2021-10-08,405000,ST9 0EL,D,N,F,204,,Armshead Road,Werrington,Stoke-On-Trent
+2021-09-30,226000,ST9 9NX,S,N,F,998,,Leek New Road,Stockton Brook,Stoke-On-Trent
+2021-09-30,196000,ST9 0JB,T,N,F,26,,Rownall Road,Werrington,Stoke-On-Trent
+2021-09-30,160000,ST9 0EB,S,N,F,35,,Park Road,Werrington,Stoke-On-Trent
+2021-09-30,160000,ST9 0DB,S,N,F,10,,Salters Close,Werrington,Stoke-On-Trent
+2021-09-29,135000,ST9 0JE,S,N,F,27,,Moorside Road,Werrington,Stoke-On-Trent
+2021-09-28,195000,ST9 9DS,S,N,F,4,,The Quadrangle,Endon,Stoke-On-Trent
+2021-09-27,372500,ST9 9QD,S,N,F,Southwold,,Sutherland Road,Longsdon,Stoke-On-Trent
+2021-09-27,325000,ST9 9QD,S,N,F,Carfield,,Sutherland Road,Longsdon,Stoke-On-Trent
+2021-09-27,240000,ST9 0HS,S,N,F,22,,The Oval,Werrington,Stoke-On-Trent
+2021-09-24,470000,ST9 9QD,D,N,F,Appletree Cottage,,Sutherland Road,Longsdon,Stoke-On-Trent
+2021-09-24,380000,ST9 9NX,D,N,F,1022,,Leek New Road,Stockton Brook,Stoke-On-Trent
+2021-09-24,230000,ST9 9EX,S,N,F,7,,Florence Terrace,Endon,Stoke-On-Trent
+2021-09-24,255000,ST9 9DQ,S,N,F,Waterfall Cottages,7,Basnetts Wood,Endon,Stoke-On-Trent
+2021-09-24,295000,ST9 0DW,D,N,F,2,,Brentwood Drive,Werrington,Stoke-On-Trent
+2021-09-24,162500,ST9 0DB,S,N,F,7,,Salters Close,Werrington,Stoke-On-Trent
+2021-09-23,190000,ST9 0LN,D,N,F,31,,Cotehill Road,Werrington,Stoke-On-Trent
+2021-09-23,330000,ST9 0BU,S,N,F,Westwood Cottage,,Westwood,Wetley Rocks,Stoke-On-Trent
+2021-09-21,250000,ST9 0JP,D,N,F,399,,Ash Bank Road,Werrington,Stoke-On-Trent
+2021-09-20,168000,ST9 0DT,S,N,F,435,,Ash Bank Road,Werrington,Stoke-On-Trent
+2021-09-17,437500,ST9 9PU,D,N,F,14,,Shaldon Avenue,Stockton Brook,Stoke-On-Trent
+2021-09-17,490000,ST9 9LP,D,N,F,Grayford,,Clewlows Bank,Bagnall,Stoke-On-Trent
+2021-09-17,470000,ST9 9BL,D,N,F,16,,Hillswood Drive,Endon,Stoke-On-Trent
+2021-09-16,245000,ST9 9HE,D,N,F,4,,Embers Way,Endon,Stoke-On-Trent
+2021-09-16,430000,ST9 9EZ,D,N,F,Franswall,,Brook Lane,Endon,Stoke-On-Trent
+2021-09-10,675000,ST9 9NW,D,N,F,Quarry House Farm,,Moss Hill,Stockton Brook,Stoke-On-Trent
+2021-09-10,205000,ST9 0LA,D,N,F,3,,Quarry Close,Werrington,Stoke-On-Trent
+2021-09-10,177500,ST9 0EQ,D,N,F,32,,Moorland Avenue,Werrington,Stoke-On-Trent
+2021-09-07,190000,ST9 0EB,S,N,F,43,,Park Road,Werrington,Stoke-On-Trent
+2021-09-03,175000,ST9 0FE,T,N,F,Church Side Cottage,,St Johns Drive,Wetley Rocks,Stoke-On-Trent
+2021-09-02,255000,ST9 9HX,S,N,F,30,,Kenley Avenue,Endon,Stoke-On-Trent
+2021-09-02,276000,ST9 9EY,T,N,F,Brook Cottages,4,The Village,Endon,Stoke-On-Trent
+2021-08-27,250000,ST9 9PD,S,N,F,Minden Rise,,The Green,Stockton Brook,Stoke-On-Trent
+2021-08-27,191000,ST9 0DD,S,N,F,18,,Clough Lane,Werrington,Stoke-On-Trent
+2021-08-25,190000,ST9 0JZ,S,N,F,1,,Laurel Crescent,Werrington,Stoke-On-Trent
+2021-08-20,190000,ST9 0LH,S,N,F,72,,Washerwall Lane,Werrington,Stoke-On-Trent
+2021-08-16,195000,ST9 0DZ,S,N,F,11,,James Crescent,Werrington,Stoke-On-Trent
+2021-08-13,146000,ST9 0DR,S,N,F,14,,Irvine Road,Werrington,Stoke-On-Trent
+2021-08-12,260000,ST9 9PX,D,N,F,2,,Blencarn Grove,Stockton Brook,Stoke-On-Trent
+2021-08-12,232000,ST9 9JL,T,N,L,14,,Bagnall Heights,Bagnall,Stoke-On-Trent
+2021-08-12,145000,ST9 0DR,S,N,F,12,,Irvine Road,Werrington,Stoke-On-Trent
+2021-08-11,215000,ST9 9DR,S,N,F,Pop Y Lyn,,Station Road,Endon,Stoke-On-Trent
+2021-08-06,351250,ST9 9LP,D,N,F,Oaklea,,Clewlows Bank,Bagnall,Stoke-On-Trent
+2021-08-06,225000,ST9 0EH,S,N,F,10,,Moorland Close,Werrington,Stoke-On-Trent
+2021-08-04,220000,ST9 0NG,D,N,F,10,,Penmere Drive,Werrington,Stoke-On-Trent
+2021-07-30,292750,ST9 9EX,S,N,F,8,,Florence Terrace,Endon,Stoke-On-Trent
+2021-07-30,186000,ST9 0JY,T,N,F,45,,Meigh Road,Werrington,Stoke-On-Trent
+2021-07-30,347500,ST9 0JS,D,N,F,314,,Ash Bank Road,Werrington,Stoke-On-Trent
+2021-07-30,375000,ST9 0AE,D,N,F,Rowan House,,Consall,Wetley Rocks,Stoke-On-Trent
+2021-07-29,486000,ST9 9LG,D,N,F,20,,Regency Drive,Stockton Brook,Stoke-On-Trent
+2021-07-29,258000,ST9 9JP,S,N,F,Hillcrest,,School Road,Bagnall,Stoke-On-Trent
+2021-07-29,320000,ST9 0NF,D,N,F,7,,Langton Court,Werrington,Stoke-On-Trent
+2021-07-29,231250,ST9 0DD,S,N,F,8,,Clough Lane,Werrington,Stoke-On-Trent
+2021-07-28,188000,ST9 9DE,T,N,F,Sunnyside,,Clay Lake,Endon,Stoke-On-Trent
+2021-07-28,330000,ST9 0FB,D,N,F,19,,Scholars Way,Werrington,Stoke-On-Trent
+2021-07-27,160000,ST9 0LT,S,N,F,19,,Moss Park Avenue,Werrington,Stoke-On-Trent
+2021-07-27,187000,ST9 0JS,S,N,F,332,,Ash Bank Road,Werrington,Stoke-On-Trent
+2021-07-27,176557,ST9 0ED,S,N,F,19,,Park Drive,Werrington,Stoke-On-Trent
+2021-07-21,140000,ST9 0JU,T,N,F,21,,Washerwall Lane,Werrington,Stoke-On-Trent
+2021-07-19,327000,ST9 9HH,D,N,F,29,,Hillside Avenue,Endon,Stoke-On-Trent
+2021-07-16,212000,ST9 0JF,S,N,F,49,,Moorside Road,Werrington,Stoke-On-Trent
+2021-07-09,210000,ST9 9JL,F,Y,L,4,,Bagnall Heights,Bagnall,Stoke-On-Trent
+2021-07-09,176000,ST9 0BB,D,N,F,601,,Cheadle Road,Wetley Rocks,Stoke-On-Trent
+2021-07-02,255000,ST9 9NY,D,N,F,6,,Nursery Avenue,Stockton Brook,Stoke-On-Trent
+2021-07-02,215000,ST9 9LL,D,N,F,Doran Dale,,Stanley Road,Stockton Brook,Stoke-On-Trent
+2021-07-02,171000,ST9 0EY,S,N,F,20,,Haven Crescent,Werrington,Stoke-On-Trent
+2021-07-02,160000,ST9 0EJ,S,N,F,15,,Mount Close,Werrington,Stoke-On-Trent
+2021-06-30,630000,ST9 9QH,S,N,F,Nether Stanlow Barn,,Leek Road,Longsdon,Stoke-On-Trent
+2021-06-30,390000,ST9 9PJ,D,N,F,Thorn Cottage,,Cocks Lane,Stockton Brook,Stoke-On-Trent
+2021-06-30,170000,ST9 9PH,S,N,F,21,,Quarry Close,Stockton Brook,Stoke-On-Trent
+2021-06-30,535000,ST9 9BZ,D,N,F,The Outspan,,Stoney Lane,Endon,Stoke-On-Trent
+2021-06-30,495000,ST9 0JB,D,N,F,Stonemoor,,Rownall Road,Werrington,Stoke-On-Trent
+2021-06-30,265000,ST9 0HY,D,N,F,26,,Wetley Avenue,Werrington,Stoke-On-Trent
+2021-06-29,375000,ST9 9DL,D,N,F,Evergreens,,Woodstone Avenue,Endon,Stoke-On-Trent
+2021-06-28,240000,ST9 9LN,D,N,F,The Hollies,,Clewlows Bank,Stockton Brook,Stoke-On-Trent
+2021-06-25,400000,ST9 9QW,D,N,F,Barncroft,,Dunwood Lane,Longsdon,Stoke-On-Trent
+2021-06-25,385000,ST9 9PF,D,N,F,Nursery View,,Nursery Lane,Stockton Brook,Stoke-On-Trent
+2021-06-25,240000,ST9 9JL,F,N,L,5,,Bagnall Heights,Bagnall,Stoke-On-Trent
+2021-06-25,740000,ST9 9JB,D,N,F,Reynolds Hey,,Park Lane,Endon,Stoke-On-Trent
+2021-06-25,325000,ST9 9EA,S,N,F,220,,Leek Road,Endon,Stoke-On-Trent
+2021-06-25,285000,ST9 0AR,S,N,F,Dove Cottage,,Leek Road,Wetley Rocks,Stoke-On-Trent
+2021-06-24,455000,ST9 9DD,D,N,F,Langfields,,Clay Lake,Endon,Stoke-On-Trent
+2021-06-23,360000,ST9 0DG,D,N,F,The Warren,,Leek Road,Werrington,Stoke-On-Trent
+2021-06-18,615000,ST9 9QW,D,N,F,Rose Bank,,Dunwood Lane,Longsdon,Stoke-On-Trent
+2021-06-18,265000,ST9 9NT,S,N,F,1052,,Leek New Road,Stockton Brook,Stoke-On-Trent
+2021-06-18,385000,ST9 0HU,D,N,F,105,,Heath Avenue,Werrington,Stoke-On-Trent
+2021-06-18,335000,ST9 0DT,D,N,F,486,,Ash Bank Road,Werrington,Stoke-On-Trent
+2021-06-17,168750,ST9 0EN,S,N,F,22,,Alan Dale,Werrington,Stoke-On-Trent
+2021-06-11,289950,ST9 9LL,S,N,F,Fern Villa,,Stanley Road,Stockton Brook,Stoke-On-Trent
+2021-06-11,130000,ST9 0PQ,S,N,F,48,,Chartwell Close,Werrington,Stoke-On-Trent
+2021-06-11,186000,ST9 0EG,S,N,F,63,,Armshead Road,Werrington,Stoke-On-Trent
+2021-06-11,165000,ST9 0DB,S,N,F,9,,Salters Close,Werrington,Stoke-On-Trent
+2021-06-11,340000,ST9 0AE,D,N,F,Ash Sprink Barn,,Consall,Wetley Rocks,Stoke-On-Trent
+2021-06-07,375000,ST9 9JR,D,N,F,Hunters Oak,,The Green,Bagnall,Stoke-On-Trent
+2021-06-07,230000,ST9 9JL,T,N,L,3,,Bagnall Heights,Bagnall,Stoke-On-Trent
+2021-06-07,115000,ST9 0AN,T,N,F,3,,Brentwood Court,Werrington,Stoke-On-Trent
+2021-06-04,220000,ST9 9JP,S,N,F,Wrens Cottage,,School Road,Bagnall,Stoke-On-Trent
+2021-06-01,280000,ST9 9DR,D,N,F,12,,Station Road,Endon,Stoke-On-Trent
+2021-06-01,630000,ST9 9BT,D,N,F,Westfields,,Clay Lake,Endon,Stoke-On-Trent
+2021-06-01,188000,ST9 0EZ,S,N,F,8,,Milford Avenue,Werrington,Stoke-On-Trent
+2021-05-28,260000,ST9 9LN,S,N,F,Loreto,,Clewlows Bank,Stockton Brook,Stoke-On-Trent
+2021-05-28,280000,ST9 9EL,S,N,F,21,,Springbank Avenue,Endon,Stoke-On-Trent
+2021-05-28,350000,ST9 9BW,D,N,F,46,,Hillswood Drive,Endon,Stoke-On-Trent
+2021-05-28,350000,ST9 9BN,D,N,F,9,,Woodvale Crescent,Endon,Stoke-On-Trent
+2021-05-28,167000,ST9 0LW,S,N,F,11,,Whitmore Avenue,Werrington,Stoke-On-Trent
+2021-05-28,187500,ST9 0JH,S,N,F,16,,Somerton Road,Werrington,Stoke-On-Trent
+2021-05-28,400000,ST9 0ET,D,N,F,1,,Sandy Hill,Werrington,Stoke-On-Trent
+2021-05-27,168000,ST9 0HY,S,N,F,17,,Wetley Avenue,Werrington,Stoke-On-Trent
+2021-05-27,245000,ST9 0BB,D,N,F,585,,Cheadle Road,Wetley Rocks,Stoke-On-Trent
+2021-05-26,125000,ST9 0LR,T,N,F,104,,Washerwall Lane,Werrington,Stoke-On-Trent
+2021-05-26,120000,ST9 0LD,T,N,F,7,,Stonehouse Crescent,Werrington,Stoke-On-Trent
+2021-05-24,250000,ST9 0EL,D,N,F,123,,Armshead Road,Werrington,Stoke-On-Trent
+2021-05-21,355000,ST9 9PE,D,N,F,35,,Percival Drive,Stockton Brook,Stoke-On-Trent
+2021-05-21,219950,ST9 9NY,D,N,F,61,,Nursery Avenue,Stockton Brook,Stoke-On-Trent
+2021-05-20,177000,ST9 9NX,S,N,F,1004,,Leek New Road,Stockton Brook,Stoke-On-Trent
+2021-05-14,490000,ST9 9QG,D,N,F,Waterside,,Denford Road,Longsdon,Stoke-On-Trent
+2021-05-14,202000,ST9 9HT,D,N,F,16,,High View Road,Endon,Stoke-On-Trent
+2021-05-14,190000,ST9 9HL,S,N,F,17,,Greenfield Road,Endon,Stoke-On-Trent
+2021-05-14,155000,ST9 0EX,S,N,F,16,,Russell Grove,Werrington,Stoke-On-Trent
+2021-05-10,285000,ST9 9HA,S,N,F,5,,Brookside Drive,Endon,Stoke-On-Trent
+2021-05-07,375000,ST9 9DY,D,N,F,The Beeches,,Leek Road,Endon,Stoke-On-Trent
+2021-05-04,167000,ST9 0DZ,S,N,F,3,,James Crescent,Werrington,Stoke-On-Trent
+2021-04-30,475000,ST9 9LG,D,N,F,7,,Regency Drive,Stockton Brook,Stoke-On-Trent
+2021-04-28,230000,ST9 9LH,S,N,F,Bramble Cottage,,Stanley Moss Lane,Stockton Brook,Stoke-On-Trent
+2021-04-26,520000,ST9 9PW,D,N,F,Birchfields,,Greenway Hall Road,Stockton Brook,Stoke-On-Trent
+2021-04-23,162000,ST9 9NY,S,N,F,49,,Nursery Avenue,Stockton Brook,Stoke-On-Trent
+2021-04-23,248000,ST9 9DL,D,N,F,Estepona,,Woodstone Avenue,Endon,Stoke-On-Trent
+2021-04-22,185000,ST9 0JY,D,N,F,5,,Meigh Road,Werrington,Stoke-On-Trent
+2021-04-22,230000,ST9 0JB,S,N,F,20,,Rownall Road,Werrington,Stoke-On-Trent
+2021-04-16,220000,ST9 9EG,S,N,F,Green Hollows,,Platts Avenue,Endon,Stoke-On-Trent
+2021-04-16,435500,ST9 9DT,D,N,F,2A,,Post Lane,Endon,Stoke-On-Trent
+2021-04-14,260000,ST9 9HS,S,N,F,63,,High View Road,Endon,Stoke-On-Trent
+2021-04-09,545000,ST9 9DL,D,N,F,The View,,Woodstone Avenue,Endon,Stoke-On-Trent
+2021-04-09,377500,ST9 0ES,D,N,F,7,,Moss Close,Werrington,Stoke-On-Trent
+2021-04-07,190500,ST9 9HR,S,N,F,16,,Brampton Close,Endon,Stoke-On-Trent
+2021-04-06,152000,ST9 0JU,D,N,F,33,,Washerwall Lane,Werrington,Stoke-On-Trent
+2021-04-01,185000,ST9 9HX,D,N,F,14,,Kenley Avenue,Endon,Stoke-On-Trent
+2021-03-31,380000,ST9 9JA,D,N,L,Wharf Cottage,,Park Lane,Endon,Stoke-On-Trent
+2021-03-31,472000,ST9 9EF,D,N,F,173A,,Leek Road,Endon,Stoke-On-Trent
+2021-03-30,235000,ST9 0HY,D,N,F,34,,Wetley Avenue,Werrington,Stoke-On-Trent
+2021-03-26,215000,ST9 9LN,S,N,F,Sunnybank,,Clewlows Bank,Stockton Brook,Stoke-On-Trent
+2021-03-26,235000,ST9 9HT,T,N,F,15,,High View Road,Endon,Stoke-On-Trent
+2021-03-26,345500,ST9 9HG,S,N,F,Hallwater Cottages,1,Hallwater,Endon,Stoke-On-Trent
+2021-03-26,295000,ST9 9EL,S,N,F,10,,Springbank Avenue,Endon,Stoke-On-Trent
+2021-03-26,435000,ST9 9BU,D,N,F,Loxley,,Clay Lake,Endon,Stoke-On-Trent
+2021-03-26,293000,ST9 9BH,D,N,F,233,,Leek Road,Endon,Stoke-On-Trent
+2021-03-26,226000,ST9 0JS,S,N,F,283,,Ash Bank Road,Werrington,Stoke-On-Trent
+2021-03-26,210000,ST9 0JF,S,N,F,47,,Moorside Road,Werrington,Stoke-On-Trent
+2021-03-26,215000,ST9 0EL,D,N,F,137,,Armshead Road,Werrington,Stoke-On-Trent
+2021-03-26,140000,ST9 0EE,S,N,F,4,,Park Avenue,Werrington,Stoke-On-Trent
+2021-03-25,189500,ST9 0LE,S,N,F,54,,Uplands Avenue,Werrington,Stoke-On-Trent
+2021-03-24,165000,ST9 0BQ,D,N,F,12,,The Bunting,Wetley Rocks,Stoke-On-Trent
+2021-03-23,101000,ST9 0JF,S,N,F,43,,Moorside Road,Werrington,Stoke-On-Trent
+2021-03-19,385000,ST9 9QA,S,N,F,Providence House,,Micklea Lane,Longsdon,Stoke-On-Trent
+2021-03-19,450000,ST9 9LL,D,N,F,Houghwood Cottage Farm,,Stanley Road,Stockton Brook,Stoke-On-Trent
+2021-03-19,725000,ST9 9EZ,D,N,F,Sutton House,,Brook Lane,Endon,Stoke-On-Trent
+2021-03-19,382500,ST9 9DG,S,N,F,Moorland Edge,,Edge Lane,Endon,Stoke-On-Trent
+2021-03-05,650000,ST9 9LY,D,N,F,Hayloft,,Tompkin Road,Stanley,Stoke-On-Trent
+2021-03-05,250000,ST9 9HS,S,N,F,63,,High View Road,Endon,Stoke-On-Trent
+2021-03-05,348000,ST9 9HH,D,N,F,15,,Hillside Avenue,Endon,Stoke-On-Trent
+2021-03-05,157000,ST9 9DT,S,N,F,Seafields,,Post Lane,Endon,Stoke-On-Trent
+2021-03-05,320000,ST9 9BL,D,N,F,39,,Hillswood Drive,Endon,Stoke-On-Trent
+2021-03-05,197500,ST9 0AT,D,N,F,Linron,,Randles Lane,Wetley Rocks,Stoke-On-Trent
+2021-03-03,290000,ST9 0AQ,D,N,F,3,,Chapel Close,Wetley Rocks,Stoke-On-Trent
+2021-03-01,285000,ST9 0LA,D,N,F,"Fasgarth, 18",,Quarry Close,Werrington,Stoke-On-Trent
+2021-03-01,160250,ST9 0HX,D,N,F,The Ross,,Leek Road,Werrington,Stoke-On-Trent
+2021-02-26,470000,ST9 9LG,D,N,F,19,,Regency Drive,Stockton Brook,Stoke-On-Trent
+2021-02-25,260000,ST9 9HA,S,N,F,14,,Brookside Drive,Endon,Stoke-On-Trent
+2021-02-25,360000,ST9 9EP,D,N,F,3,,Dorian Way,Endon,Stoke-On-Trent
+2021-02-24,255000,ST9 0HZ,D,N,F,1,,Wilton Avenue,Werrington,Stoke-On-Trent
+2021-02-23,440000,ST9 9PF,D,N,F,Lynallen,,Nursery Lane,Stockton Brook,Stoke-On-Trent
+2021-02-19,263000,ST9 9DQ,D,N,F,45,,Basnetts Wood,Endon,Stoke-On-Trent
+2021-02-19,190000,ST9 0LH,S,N,F,57A,,Washerwall Lane,Werrington,Stoke-On-Trent
+2021-02-19,275000,ST9 0EF,D,N,F,21,,Armshead Road,Werrington,Stoke-On-Trent
+2021-02-17,145000,ST9 0EQ,S,N,F,4,,Moorland Avenue,Werrington,Stoke-On-Trent
+2021-02-15,330000,ST9 9PF,D,N,F,Rose Cottage,,Nursery Lane,Stockton Brook,Stoke-On-Trent
+2021-02-15,315000,ST9 9DQ,D,N,F,34,,Basnetts Wood,Endon,Stoke-On-Trent
+2021-02-12,625000,ST9 9LH,D,N,F,Badgers Brook,,Stanley Moss Lane,Stockton Brook,Stoke-On-Trent
+2021-02-12,245000,ST9 9HZ,S,N,F,7,,Fernlea Crescent,Endon,Stoke-On-Trent
+2021-02-05,290000,ST9 9EF,S,N,F,"Lyncroft, 169",,Leek Road,Endon,Stoke-On-Trent
+2021-02-05,235000,ST9 9DR,D,N,F,Burnside,,Station Road,Endon,Stoke-On-Trent
+2021-02-03,600000,ST9 9BT,D,N,F,Layton House,,Clay Lake,Endon,Stoke-On-Trent
+2021-02-01,180300,ST9 9HJ,D,N,F,12,,Hampshire Close,Endon,Stoke-On-Trent
+2021-01-29,175000,ST9 0LG,S,N,F,15,,Uplands Drive,Werrington,Stoke-On-Trent
+2021-01-29,147000,ST9 0JX,S,N,F,21,,Stonehouse Road,Werrington,Stoke-On-Trent
+2021-01-28,380000,ST9 9ED,D,N,F,19,,Brookfield Avenue,Endon,Stoke-On-Trent
+2021-01-25,330000,ST9 9LJ,S,N,F,Greenway,,Stanley Road,Stockton Brook,Stoke-On-Trent
+2021-01-25,225000,ST9 9BG,S,N,F,21,,The Meadows,Endon,Stoke-On-Trent
+2021-01-25,173000,ST9 9BD,S,N,F,14,,Parkfields,Endon,Stoke-On-Trent
+2021-01-22,290000,ST9 9HL,D,N,F,8,,Greenfield Road,Endon,Stoke-On-Trent
+2021-01-22,170000,ST9 9DR,S,N,F,Elroy,,Station Road,Endon,Stoke-On-Trent
+2021-01-22,467500,ST9 0BB,D,N,F,Martin House,,Cheadle Road,Wetley Rocks,Stoke-On-Trent
+2021-01-19,210000,ST9 0EB,S,N,F,5,,Park Road,Werrington,Stoke-On-Trent
+2021-01-15,184000,ST9 9NQ,D,N,F,21,,Brentwood Grove,Stockton Brook,Stoke-On-Trent
+2021-01-15,170000,ST9 0JE,S,N,F,52,,Moorside Road,Werrington,Stoke-On-Trent
+2021-01-15,302000,ST9 0HT,S,N,F,42,,Heath Avenue,Werrington,Stoke-On-Trent
+2021-01-12,245000,ST9 0ET,D,N,F,33,,Sandy Hill,Werrington,Stoke-On-Trent
+2021-01-11,248000,ST9 9HS,D,N,F,43,,High View Road,Endon,Stoke-On-Trent
+2021-01-08,270000,ST9 0JY,D,N,F,62,,Meigh Road,Werrington,Stoke-On-Trent
+2021-01-08,180000,ST9 0HZ,S,N,F,3,,Wilton Avenue,Werrington,Stoke-On-Trent
+2021-01-04,470000,ST9 9NB,D,N,F,Knowsley Farm,,Knowsley Road,Stanley,Stoke-On-Trent

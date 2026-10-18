@@ -1,0 +1,552 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-14,97000,B9 5PE,F,N,L,32,,Bromwich Walk,,Birmingham
+2026-08-10,168000,B9 4UU,T,N,F,268,,Cherrywood Road,Bordesley Green,Birmingham
+2026-07-30,277500,B9 5XT,T,N,F,103,,Finnemore Road,Bordesley Green,Birmingham
+2026-07-27,170000,B9 5PD,T,N,F,566,,Bordesley Green,,Birmingham
+2026-07-24,220000,B9 4NU,T,N,F,375,,Garrison Lane,,Birmingham
+2026-07-23,206000,B9 5UX,T,N,F,24,,Kenwood Road,,Birmingham
+2026-07-17,119300,B9 4PQ,F,N,L,17,,Keer Court,Bordesley,Birmingham
+2026-07-10,183000,B9 5LQ,T,N,F,78,,Pretoria Road,,Birmingham
+2026-06-30,153000,B9 5EU,T,N,F,85,,Palace Road,Bordesley Green,Birmingham
+2026-06-18,55000,B9 5NG,T,N,F,38,,Colonial Road,Bordesley Green,Birmingham
+2026-06-17,122000,B9 5UG,T,N,F,199,,Eastfield Road,Bordesley Green,Birmingham
+2026-06-17,172000,B9 4UL,T,N,F,27,,Ronald Road,,Birmingham
+2026-05-29,60000,B9 5NP,T,N,F,205,,Colonial Road,Bordesley Green,Birmingham
+2026-05-15,135500,B9 4QH,F,N,L,24,Flat 6,Artillery Street,,Birmingham
+2026-05-07,360000,B9 4JG,T,N,F,218,,St Andrews Road,,Birmingham
+2026-05-05,49000,B9 5NG,S,N,F,26,,Colonial Road,Bordesley Green,Birmingham
+2026-04-30,170000,B9 5QY,T,N,F,46,,Blake Lane,Bordesley Green,Birmingham
+2026-03-31,225000,B9 5JB,S,N,F,88,,Little Bromwich Road,,Birmingham
+2026-03-27,207000,B9 5LU,S,N,F,31,,Botha Road,Bordesley Green,Birmingham
+2026-03-18,178250,B9 5HB,T,N,F,13,,Imperial Road,Bordesley Green,Birmingham
+2026-03-13,175000,B9 4NU,S,N,F,369,,Garrison Lane,,Birmingham
+2026-02-26,84000,B9 5HY,T,N,L,38,,Little Bromwich Road,,Birmingham
+2026-02-20,210000,B9 5LR,S,N,F,127,,Botha Road,Bordesley Green,Birmingham
+2026-02-18,175000,B9 5NY,T,N,F,5,,Churchill Road,,Birmingham
+2026-02-13,176000,B9 5LH,T,N,F,52,,Pretoria Road,,Birmingham
+2026-02-13,241000,B9 4JG,T,N,F,242,,St Andrews Road,,Birmingham
+2026-02-13,241000,B9 4JG,S,N,L,242,,St Andrews Road,,Birmingham
+2026-02-12,160000,B9 5TB,S,N,F,5,,Norton Crescent,,Birmingham
+2026-01-30,242500,B9 4PH,D,N,F,3,,Mill Burn Way,,Birmingham
+2026-01-28,195000,B9 5UN,T,N,F,5,,Alston Road,,Birmingham
+2026-01-27,115500,B9 4LB,F,N,L,"Garrison Court, 18",Flat 9,Barwell Road,,Birmingham
+2026-01-16,225000,B9 5JF,S,N,L,133,,Newbridge Road,Small Heath,Birmingham
+2025-12-19,80000,B9 5NL,T,N,F,46,,Whitacre Road,Bordesley Green,Birmingham
+2025-12-19,355000,B9 5JE,S,N,F,35,,Newbridge Road,Small Heath,Birmingham
+2025-12-10,125000,B9 4XA,T,N,F,383,,Cherrywood Road,Bordesley Green,Birmingham
+2025-12-02,80000,B9 5PE,F,N,L,2,,Bromwich Walk,,Birmingham
+2025-11-28,163000,B9 5RB,T,N,F,75,,Fifth Avenue,Bordesley Green,Birmingham
+2025-11-28,295000,B9 5PQ,S,N,F,704,,Bordesley Green,,Birmingham
+2025-11-25,200000,B9 4XD,T,N,F,233,,Cherrywood Road,Bordesley Green,Birmingham
+2025-11-14,250000,B9 5XN,S,N,F,57,,Finnemore Road,Bordesley Green,Birmingham
+2025-11-12,280000,B9 4PH,T,N,F,33,,Mill Burn Way,,Birmingham
+2025-11-11,145000,B9 5NN,T,N,F,92,,Whitacre Road,Bordesley Green,Birmingham
+2025-11-10,160000,B9 5PG,T,N,F,658,,Bordesley Green,,Birmingham
+2025-11-07,195000,B9 5RJ,T,N,F,20,,Third Avenue,Bordesley Green,Birmingham
+2025-10-31,252500,B9 5RZ,T,N,F,284,,Belchers Lane,Bordesley Green,Birmingham
+2025-10-30,255000,B9 5RT,T,N,F,227,,Belchers Lane,Bordesley Green,Birmingham
+2025-10-24,230000,B9 5FF,T,N,F,40,,Maybank,Bordesley Green,Birmingham
+2025-10-20,181000,B9 5RN,T,N,L,119,,Third Avenue,Bordesley Green,Birmingham
+2025-10-01,162300,B9 5UX,S,N,F,74,,Kenwood Road,,Birmingham
+2025-09-30,240000,B9 5QB,T,N,F,170,,Yardley Green Road,Bordesley Green,Birmingham
+2025-09-30,173000,B9 5HB,T,N,F,53,,Imperial Road,Bordesley Green,Birmingham
+2025-09-26,230000,B9 5TZ,T,N,F,104,,Norton Crescent,,Birmingham
+2025-09-23,233000,B9 5LT,T,N,F,80,,Botha Road,Bordesley Green,Birmingham
+2025-09-23,190000,B9 5LG,T,N,F,164,,Pretoria Road,,Birmingham
+2025-09-09,56250,B9 5FF,S,N,L,90,,Maybank,Bordesley Green,Birmingham
+2025-09-02,260000,B9 5RY,S,N,F,174,,Belchers Lane,Bordesley Green,Birmingham
+2025-08-29,240000,B9 5NX,T,N,F,169,,Churchill Road,,Birmingham
+2025-08-28,157500,B9 4XB,T,N,F,351,,Cherrywood Road,Bordesley Green,Birmingham
+2025-08-27,167500,B9 5TP,T,N,F,45,,Denville Crescent,Bordesley Green,Birmingham
+2025-08-22,125000,B9 5QA,F,N,L,"Elmbank Court, 291",Flat 8,Yardley Green Road,Bordesley Green,Birmingham
+2025-08-22,110000,B9 5PR,T,N,L,481,,Green Lane,Small Heath,Birmingham
+2025-08-15,225000,B9 5RY,S,N,F,190,,Belchers Lane,Bordesley Green,Birmingham
+2025-08-15,236000,B9 5RQ,T,N,F,18,,Fourth Avenue,Bordesley Green,Birmingham
+2025-08-13,205000,B9 5RD,T,N,F,14,,Fifth Avenue,Bordesley Green,Birmingham
+2025-08-11,175000,B9 5NT,T,N,F,56,,Churchill Road,,Birmingham
+2025-08-01,210000,B9 5TT,T,N,F,144,,Caldwell Road,Bordesley Green,Birmingham
+2025-08-01,172000,B9 5RJ,T,N,F,22,,Third Avenue,Bordesley Green,Birmingham
+2025-08-01,119000,B9 5HY,F,N,L,56B,,Little Bromwich Road,,Birmingham
+2025-08-01,105000,B9 4PG,F,N,L,31,,Hoff Beck Court,,Birmingham
+2025-07-31,230000,B9 5NJ,S,N,L,15,,Whitacre Road,Bordesley Green,Birmingham
+2025-07-17,180000,B9 5LE,T,N,F,19,,Fordrough Lane,Bordesley Green,Birmingham
+2025-07-11,90000,B9 4TA,T,N,F,62,,Bordesley Green Road,Bordesley Green,Birmingham
+2025-07-09,275000,B9 5LT,T,N,F,10,,Botha Road,Bordesley Green,Birmingham
+2025-07-04,235000,B9 5RQ,T,N,F,14,,Fourth Avenue,Bordesley Green,Birmingham
+2025-07-04,183000,B9 5EN,S,N,F,113,,Whitehall Road,Small Heath,Birmingham
+2025-07-04,135000,B9 4PQ,F,N,L,23,,Keer Court,Bordesley,Birmingham
+2025-06-30,158000,B9 5LL,S,N,F,87,,Pretoria Road,,Birmingham
+2025-06-30,160000,B9 5BD,T,N,F,22,,Wyndcliff Road,Small Heath,Birmingham
+2025-06-30,260000,B9 4PW,S,N,F,16,,Mease Croft,,Birmingham
+2025-06-27,280000,B9 5XU,S,N,F,18,,Daniels Road,Bordesley Green,Birmingham
+2025-06-27,182000,B9 5TP,T,N,F,8,,Denville Crescent,Bordesley Green,Birmingham
+2025-06-27,110000,B9 5HY,F,N,L,66B,,Little Bromwich Road,,Birmingham
+2025-06-27,170000,B9 4TR,T,N,F,85,,Bordesley Green Road,Bordesley Green,Birmingham
+2025-06-27,315000,B9 4PH,T,N,F,32,,Mill Burn Way,,Birmingham
+2025-06-27,287000,B9 4PH,F,N,F,29,,Mill Burn Way,,Birmingham
+2025-06-24,107400,B9 4UL,T,N,F,24,,Ronald Road,,Birmingham
+2025-06-23,147000,B9 5LF,T,N,F,5,,Fordrough Avenue,,Birmingham
+2025-06-23,376000,B9 5JG,S,N,L,28,,Newbridge Road,Small Heath,Birmingham
+2025-06-16,200000,B9 5XR,S,N,F,475,,Belchers Lane,Bordesley Green,Birmingham
+2025-06-16,160000,B9 5LX,T,N,F,56,,Bordesley Close,,Birmingham
+2025-06-11,212000,B9 5SG,T,N,F,26,,Foxwell Road,,Birmingham
+2025-06-05,220000,B9 5XB,T,N,F,152,,Eastfield Road,Bordesley Green,Birmingham
+2025-06-05,250000,B9 5NX,S,N,F,129,,Churchill Road,,Birmingham
+2025-06-03,87500,B9 5HN,S,N,L,12,,Lupin Grove,,Birmingham
+2025-05-30,240000,B9 5SR,S,N,F,159,,Bordesley Green East,Bordesley Green,Birmingham
+2025-05-30,180000,B9 5LG,S,N,F,180,,Pretoria Road,,Birmingham
+2025-05-29,220000,B9 5QY,T,N,F,78,,Blake Lane,Bordesley Green,Birmingham
+2025-05-23,230000,B9 5TD,T,N,F,42,,Norton Crescent,,Birmingham
+2025-05-23,230000,B9 5TD,S,N,L,42,,Norton Crescent,,Birmingham
+2025-05-22,64000,B9 5PE,F,N,L,12,,Bromwich Walk,,Birmingham
+2025-05-21,135000,B9 5RB,S,N,F,107,,Fifth Avenue,Bordesley Green,Birmingham
+2025-05-16,187500,B9 5UJ,T,N,F,84,,Repton Road,,Birmingham
+2025-04-30,175000,B9 5PS,T,N,F,5A,,Newland Road,Small Heath,Birmingham
+2025-04-30,160000,B9 5PP,T,N,F,411,,Green Lane,Small Heath,Birmingham
+2025-04-25,210000,B9 5SR,T,N,F,123,,Bordesley Green East,Bordesley Green,Birmingham
+2025-04-22,365000,B9 5JD,S,N,F,383,,Yardley Green Road,Bordesley Green,Birmingham
+2025-04-16,114000,B9 4QH,F,N,L,24,Flat 1,Artillery Street,,Birmingham
+2025-04-04,150000,B9 5UJ,S,N,F,62,,Repton Road,,Birmingham
+2025-04-03,62428,B9 5TB,T,N,F,73,,Norton Crescent,,Birmingham
+2025-03-31,250000,B9 5XS,S,N,F,482,,Belchers Lane,Bordesley Green,Birmingham
+2025-03-31,250000,B9 5XS,S,N,F,474,,Belchers Lane,Bordesley Green,Birmingham
+2025-03-28,189000,B9 5SG,T,N,F,28,,Foxwell Road,,Birmingham
+2025-03-28,235000,B9 5RZ,T,N,F,284,,Belchers Lane,Bordesley Green,Birmingham
+2025-03-28,178000,B9 5PS,T,N,F,87,,Newland Road,Small Heath,Birmingham
+2025-03-28,77000,B9 5JN,F,N,L,69,,Little Bromwich Road,,Birmingham
+2025-03-27,300000,B9 4NB,S,N,L,143,,St Andrews Road,,Birmingham
+2025-03-21,225000,B9 5RQ,T,N,F,16,,Fourth Avenue,Bordesley Green,Birmingham
+2025-03-21,199000,B9 5NF,S,N,F,3,,Priorygate Way,,Birmingham
+2025-03-19,196000,B9 5EJ,T,N,F,60,,Whitehall Road,Small Heath,Birmingham
+2025-03-18,231000,B9 5XQ,T,N,F,99,,Blakeland Street,,Birmingham
+2025-03-18,90000,B9 4PG,F,N,L,6,,Hoff Beck Court,,Birmingham
+2025-03-17,165000,B9 5SU,S,N,F,446,,Belchers Lane,Bordesley Green,Birmingham
+2025-03-14,215000,B9 5NU,S,N,F,176,,Churchill Road,,Birmingham
+2025-03-14,127000,B9 4XB,T,N,F,277,,Cherrywood Road,Bordesley Green,Birmingham
+2025-03-12,166000,B9 5NP,T,N,F,173,,Colonial Road,Bordesley Green,Birmingham
+2025-03-10,300000,B9 5RT,T,N,F,257,,Belchers Lane,Bordesley Green,Birmingham
+2025-03-07,205000,B9 5NX,T,N,F,199,,Churchill Road,,Birmingham
+2025-03-07,115000,B9 4LB,F,N,L,"Garrison Court, 18",Flat 20,Barwell Road,,Birmingham
+2025-03-05,249000,B9 5XT,S,N,F,105,,Finnemore Road,Bordesley Green,Birmingham
+2025-03-05,162000,B9 5EU,T,N,F,117,,Palace Road,Bordesley Green,Birmingham
+2025-02-28,170000,B9 5LQ,T,N,L,106,,Pretoria Road,,Birmingham
+2025-02-28,243000,B9 4LH,S,N,F,72,,Witton Street,,Birmingham
+2025-02-25,216000,B9 5NL,T,N,F,24,,Whitacre Road,Bordesley Green,Birmingham
+2025-02-25,310000,B9 5LS,T,N,F,61,,Fordrough Lane,Bordesley Green,Birmingham
+2025-02-21,220000,B9 5RG,T,N,F,75,,Fourth Avenue,Bordesley Green,Birmingham
+2025-02-17,320000,B9 5XX,S,N,F,35,,Marchmont Road,Bordesley Green,Birmingham
+2025-02-17,225000,B9 5NQ,T,N,F,224,,Colonial Road,Bordesley Green,Birmingham
+2025-02-05,179000,B9 5PG,T,N,F,654,,Bordesley Green,,Birmingham
+2025-01-29,150000,B9 5UD,T,N,F,133,,Norton Crescent,,Birmingham
+2024-12-20,300000,B9 5XJ,T,N,F,73,,Drummond Road,Bordesley Green,Birmingham
+2024-12-20,225000,B9 5UA,S,N,F,167,,Norton Crescent,,Birmingham
+2024-12-20,205000,B9 5TS,S,N,F,65,,Denville Crescent,Bordesley Green,Birmingham
+2024-12-20,215000,B9 5NR,T,N,F,33,,Colonial Road,Bordesley Green,Birmingham
+2024-12-20,118000,B9 5LG,T,N,F,174,,Pretoria Road,,Birmingham
+2024-12-18,95000,B9 5RL,T,N,F,124,,Third Avenue,Bordesley Green,Birmingham
+2024-12-16,235500,B9 5XU,T,N,F,20,,Daniels Road,Bordesley Green,Birmingham
+2024-12-16,215000,B9 5PW,T,N,F,345,,Green Lane,Small Heath,Birmingham
+2024-12-16,157500,B9 5LH,T,N,F,28,,Pretoria Road,,Birmingham
+2024-12-03,185000,B9 4JQ,T,N,F,16,,Maxstoke Street,,Birmingham
+2024-11-29,188000,B9 5HH,T,N,F,403,,Charles Road,Small Heath,Birmingham
+2024-11-27,175000,B9 5UP,T,N,F,12,,Repton Road,,Birmingham
+2024-11-22,225000,B9 4JQ,T,N,F,94,,Maxstoke Street,,Birmingham
+2024-11-20,70000,B9 4UL,T,N,F,63,,Ronald Road,,Birmingham
+2024-11-15,171000,B9 4UL,T,N,F,62,,Ronald Road,,Birmingham
+2024-11-14,170000,B9 5PS,T,N,F,83,,Newland Road,Small Heath,Birmingham
+2024-11-01,190000,B9 5FG,D,N,F,15,,Aspen Grove,,Birmingham
+2024-10-28,245000,B9 5UJ,T,N,F,44,,Repton Road,,Birmingham
+2024-10-28,250000,B9 5JJ,S,N,F,405,,Yardley Green Road,Bordesley Green,Birmingham
+2024-10-23,170000,B9 4TD,T,N,F,100,,Bordesley Green Road,Bordesley Green,Birmingham
+2024-10-21,260000,B9 5SU,S,N,F,432,,Belchers Lane,Bordesley Green,Birmingham
+2024-10-18,95000,B9 4TD,T,N,F,120,,Bordesley Green Road,Bordesley Green,Birmingham
+2024-10-15,170000,B9 5AA,T,N,F,18,,Victoria Street,,Birmingham
+2024-10-09,187000,B9 5BU,T,N,F,79,,Green Lane,Small Heath,Birmingham
+2024-09-27,192000,B9 5RG,T,N,F,43,,Fourth Avenue,Bordesley Green,Birmingham
+2024-09-27,135000,B9 4PQ,F,N,L,5,,Keer Court,Bordesley,Birmingham
+2024-09-22,195000,B9 4TJ,T,N,F,133,,Bordesley Green Road,Bordesley Green,Birmingham
+2024-09-20,170000,B9 5RD,T,N,F,108,,Fifth Avenue,Bordesley Green,Birmingham
+2024-09-16,195000,B9 5PP,T,N,L,393,,Green Lane,Small Heath,Birmingham
+2024-09-11,118500,B9 5PQ,T,N,F,708,,Bordesley Green,,Birmingham
+2024-09-06,160000,B9 5ER,T,N,F,132,,Palace Road,Bordesley Green,Birmingham
+2024-08-27,166000,B9 5LH,T,N,F,44,,Pretoria Road,,Birmingham
+2024-08-27,230000,B9 4LB,T,N,F,46,,Barwell Road,,Birmingham
+2024-08-23,215000,B9 5TY,T,N,F,184,,Norton Crescent,,Birmingham
+2024-08-23,215000,B9 5HN,S,N,F,4,,Lupin Grove,,Birmingham
+2024-08-05,120000,B9 4NW,F,N,L,25,Flat 14,Wolseley Street,Bordesley,Birmingham
+2024-08-02,168000,B9 5ND,T,N,F,386,,Bordesley Green,,Birmingham
+2024-08-01,140000,B9 4UQ,T,N,F,34,,Denbigh Street,Bordesley Green,Birmingham
+2024-07-25,200000,B9 5RQ,T,N,F,82,,Fourth Avenue,Bordesley Green,Birmingham
+2024-07-19,330500,B9 5XR,S,N,F,499,,Belchers Lane,Bordesley Green,Birmingham
+2024-07-12,160000,B9 5LT,S,N,F,24,,Botha Road,Bordesley Green,Birmingham
+2024-07-09,27360,B9 5LL,T,N,F,103,,Pretoria Road,,Birmingham
+2024-07-05,213000,B9 5UQ,T,N,F,67,,Kenwood Road,,Birmingham
+2024-07-05,135000,B9 5ND,T,N,F,402,,Bordesley Green,,Birmingham
+2024-06-28,175000,B9 4JU,T,N,F,15,,Sarah Street,,Birmingham
+2024-06-26,290000,B9 5XR,S,N,F,471,,Belchers Lane,Bordesley Green,Birmingham
+2024-06-24,215000,B9 5NT,S,N,F,102,,Churchill Road,,Birmingham
+2024-06-24,85000,B9 4NW,F,N,L,25,Flat 7,Wolseley Street,Bordesley,Birmingham
+2024-06-13,162500,B9 5HA,T,N,F,87,,Imperial Road,Bordesley Green,Birmingham
+2024-06-07,217500,B9 5NR,S,N,F,77,,Colonial Road,Bordesley Green,Birmingham
+2024-06-06,185000,B9 5TS,F,N,F,117,,Denville Crescent,Bordesley Green,Birmingham
+2024-06-06,80000,B9 5PS,T,N,F,24,,Newland Road,Small Heath,Birmingham
+2024-05-31,115000,B9 4QH,F,N,L,22,Flat 12,Artillery Street,,Birmingham
+2024-05-30,165000,B9 4NW,T,N,F,49,,Wolseley Street,Bordesley,Birmingham
+2024-05-29,170000,B9 5QY,T,N,F,92,,Blake Lane,Bordesley Green,Birmingham
+2024-05-28,168000,B9 5QY,T,N,F,114,,Blake Lane,Bordesley Green,Birmingham
+2024-05-24,123000,B9 5JL,F,N,L,344,,Yardley Green Road,Bordesley Green,Birmingham
+2024-05-22,164236,B9 5XT,S,N,F,105,,Finnemore Road,Bordesley Green,Birmingham
+2024-05-17,210000,B9 5AT,T,N,F,14,,Storrs Close,,Birmingham
+2024-05-09,146666,B9 5SL,T,N,F,146,,Bordesley Green East,Bordesley Green,Birmingham
+2024-05-09,183000,B9 5NG,T,N,F,16,,Colonial Road,Bordesley Green,Birmingham
+2024-05-07,235000,B9 5QB,S,N,F,130,,Yardley Green Road,Bordesley Green,Birmingham
+2024-04-12,150000,B9 5EE,T,N,F,97,,Carlton Road,Small Heath,Birmingham
+2024-04-05,102500,B9 5HH,T,N,F,363,,Charles Road,Small Heath,Birmingham
+2024-03-28,125000,B9 4PG,F,N,L,15,,Hoff Beck Court,,Birmingham
+2024-03-28,141000,B9 4NW,F,N,L,15,Flat 16,Wolseley Street,Bordesley,Birmingham
+2024-03-27,150000,B9 4UL,T,N,F,29,,Ronald Road,,Birmingham
+2024-03-26,120000,B9 4XB,S,N,F,271,,Cherrywood Road,Bordesley Green,Birmingham
+2024-03-13,415000,B9 5RE,T,N,F,427,,Bordesley Green,,Birmingham
+2024-03-07,230000,B9 5SU,T,N,F,396,,Belchers Lane,Bordesley Green,Birmingham
+2024-03-07,120000,B9 4TR,T,N,F,81,,Bordesley Green Road,Bordesley Green,Birmingham
+2024-02-29,227015,B9 5TP,T,N,F,59,,Denville Crescent,Bordesley Green,Birmingham
+2024-02-29,150000,B9 5NX,T,N,F,185,,Churchill Road,,Birmingham
+2024-02-21,174250,B9 5PW,T,N,F,357,,Green Lane,Small Heath,Birmingham
+2024-02-20,118000,B9 5EP,T,N,F,167,,Bordesley Green,,Birmingham
+2024-02-19,236000,B9 4LS,S,N,F,39,,Gray Street,,Birmingham
+2024-02-16,98000,B9 5XN,S,N,F,26,,Finnemore Road,Bordesley Green,Birmingham
+2024-02-16,175000,B9 4UP,T,N,F,69,,Cobham Road,,Birmingham
+2024-02-15,228000,B9 5XT,D,N,F,62,,Finnemore Road,Bordesley Green,Birmingham
+2024-02-14,270000,B9 5XX,S,N,F,33,,Marchmont Road,Bordesley Green,Birmingham
+2024-02-13,92500,B9 5UA,T,N,F,149,,Norton Crescent,,Birmingham
+2024-02-09,160000,B9 5XQ,T,N,F,99,,Blakeland Street,,Birmingham
+2024-02-09,200000,B9 5TT,S,N,F,138,,Caldwell Road,Bordesley Green,Birmingham
+2024-02-05,210000,B9 5QF,T,N,F,28,,Yardley Green Road,Bordesley Green,Birmingham
+2024-02-02,176000,B9 4NW,T,N,L,47,,Wolseley Street,Bordesley,Birmingham
+2024-01-29,105000,B9 4BX,T,N,L,122,,Garrison Lane,,Birmingham
+2024-01-23,180000,B9 5FF,T,N,F,40,,Maybank,Bordesley Green,Birmingham
+2024-01-23,75000,B9 4TD,T,N,F,116,,Bordesley Green Road,Bordesley Green,Birmingham
+2024-01-05,105000,B9 5HY,F,N,L,36,,Little Bromwich Road,,Birmingham
+2023-12-21,221000,B9 5LB,T,N,F,162,,Fordrough Lane,Bordesley Green,Birmingham
+2023-12-21,250000,B9 5JF,S,N,L,117,,Newbridge Road,Small Heath,Birmingham
+2023-12-20,259000,B9 4LW,S,N,F,119,,St Andrews Road,,Birmingham
+2023-12-18,185000,B9 5NQ,S,N,F,154,,Colonial Road,Bordesley Green,Birmingham
+2023-12-15,206000,B9 5UY,T,N,F,95,,Eastfield Road,Bordesley Green,Birmingham
+2023-12-15,220000,B9 4JG,T,N,F,224,,St Andrews Road,,Birmingham
+2023-12-14,196000,B9 5EJ,T,N,F,38,,Whitehall Road,Small Heath,Birmingham
+2023-12-12,200000,B9 5US,S,N,F,26,,Corbyn Road,,Birmingham
+2023-12-12,150000,B9 5LH,T,N,F,68,,Pretoria Road,,Birmingham
+2023-12-08,285000,B9 5XR,S,N,F,481,,Belchers Lane,Bordesley Green,Birmingham
+2023-12-08,160000,B9 5QY,T,N,F,76,,Blake Lane,Bordesley Green,Birmingham
+2023-12-08,215000,B9 5NX,T,N,F,223,,Churchill Road,,Birmingham
+2023-11-29,120000,B9 5JX,S,N,L,9,,Whichford Grove,,Birmingham
+2023-11-23,225000,B9 5TQ,T,N,F,16,,Caldwell Road,Bordesley Green,Birmingham
+2023-11-23,155000,B9 5EU,T,N,F,107,,Palace Road,Bordesley Green,Birmingham
+2023-11-13,180000,B9 5UQ,T,N,F,73,,Kenwood Road,,Birmingham
+2023-11-13,160000,B9 5PG,T,N,F,632,,Bordesley Green,,Birmingham
+2023-11-06,181000,B9 5QY,T,N,F,34,,Blake Lane,Bordesley Green,Birmingham
+2023-10-25,240000,B9 5XS,S,N,F,476,,Belchers Lane,Bordesley Green,Birmingham
+2023-10-20,60000,B9 5EN,T,N,L,87,,Whitehall Road,Small Heath,Birmingham
+2023-10-11,195000,B9 5ED,T,N,F,75,,Carlton Road,Small Heath,Birmingham
+2023-10-10,248500,B9 5JF,T,N,F,93,,Newbridge Road,Small Heath,Birmingham
+2023-10-09,52000,B9 4UL,T,N,F,5,,Ronald Road,,Birmingham
+2023-10-02,185000,B9 5PG,T,N,F,606,,Bordesley Green,,Birmingham
+2023-09-29,220000,B9 5SE,T,N,F,76,,Bordesley Green East,Bordesley Green,Birmingham
+2023-09-28,215000,B9 5UX,T,N,F,38,,Kenwood Road,,Birmingham
+2023-09-27,300000,B9 5XL,T,N,F,52,,Drummond Road,Bordesley Green,Birmingham
+2023-09-22,120000,B9 5LF,T,N,F,1,,Fordrough Avenue,,Birmingham
+2023-09-13,246000,B9 5XU,S,N,F,29,,Daniels Road,Bordesley Green,Birmingham
+2023-09-01,197500,B9 5NP,S,N,F,153,,Colonial Road,Bordesley Green,Birmingham
+2023-08-31,100000,B9 5LX,T,N,F,21,,Bordesley Close,,Birmingham
+2023-08-30,230000,B9 5UG,T,N,F,169,,Eastfield Road,Bordesley Green,Birmingham
+2023-08-25,215000,B9 5QB,S,N,F,128,,Yardley Green Road,Bordesley Green,Birmingham
+2023-08-25,205000,B9 5LP,T,N,F,94,,Botha Road,Bordesley Green,Birmingham
+2023-08-10,194000,B9 5LX,T,N,F,23,,Bordesley Close,,Birmingham
+2023-08-04,180000,B9 5LH,T,N,F,16,,Pretoria Road,,Birmingham
+2023-08-04,256000,B9 4JQ,S,N,F,36,,Maxstoke Street,,Birmingham
+2023-07-28,110000,B9 5NP,S,N,F,153,,Colonial Road,Bordesley Green,Birmingham
+2023-07-28,160000,B9 5ER,T,N,F,116,,Palace Road,Bordesley Green,Birmingham
+2023-07-28,130000,B9 4UN,T,N,F,166,,Cherrywood Road,Bordesley Green,Birmingham
+2023-07-27,270000,B9 4JF,S,N,F,44,,Hawthorn Close,,Birmingham
+2023-07-26,133000,B9 4UP,T,N,F,65,,Cobham Road,,Birmingham
+2023-07-18,139000,B9 5QY,T,N,F,34,,Blake Lane,Bordesley Green,Birmingham
+2023-07-14,85000,B9 5LX,F,N,L,8,,Bordesley Close,,Birmingham
+2023-07-14,193000,B9 5EP,T,N,F,155,,Bordesley Green,,Birmingham
+2023-07-10,80000,B9 5SD,S,N,L,32,,Bordesley Green East,Bordesley Green,Birmingham
+2023-07-04,123000,B9 5SD,T,N,F,42,,Bordesley Green East,Bordesley Green,Birmingham
+2023-06-30,120000,B9 4LB,F,N,L,Barwell Court,Flat 19,Barwell Road,,Birmingham
+2023-06-30,305000,B9 4JF,T,N,F,54,,Hawthorn Close,,Birmingham
+2023-06-26,120000,B9 4XB,T,N,F,319,,Cherrywood Road,Bordesley Green,Birmingham
+2023-06-26,105000,B9 4TJ,T,N,F,133,,Bordesley Green Road,Bordesley Green,Birmingham
+2023-06-26,180000,B9 4JF,T,N,F,56,,Hawthorn Close,,Birmingham
+2023-06-23,200000,B9 5SS,T,N,L,59,,Bordesley Green East,Bordesley Green,Birmingham
+2023-06-21,132000,B9 5PR,T,N,F,469,,Green Lane,Small Heath,Birmingham
+2023-06-16,220000,B9 5UU,F,N,F,2,,Mead Crescent,,Birmingham
+2023-06-16,217000,B9 5TY,T,N,F,152,,Norton Crescent,,Birmingham
+2023-06-15,154000,B9 5TD,S,N,L,42,,Norton Crescent,,Birmingham
+2023-06-14,112000,B9 4TT,T,N,F,5,,Crown Road,,Birmingham
+2023-06-07,80000,B9 5PG,T,N,F,638,,Bordesley Green,,Birmingham
+2023-06-05,175000,B9 5LQ,T,N,F,86,,Pretoria Road,,Birmingham
+2023-05-26,100000,B9 5RD,T,N,F,14,,Fifth Avenue,Bordesley Green,Birmingham
+2023-05-26,197000,B9 5LX,T,N,F,31,,Bordesley Close,,Birmingham
+2023-05-22,252000,B9 4NY,S,N,F,29,,Templefield Gardens,,Birmingham
+2023-05-12,210000,B9 5XB,T,N,F,202,,Eastfield Road,Bordesley Green,Birmingham
+2023-05-12,290000,B9 5LF,S,N,F,19,,Fordrough Avenue,,Birmingham
+2023-05-05,400000,B9 5SA,S,N,F,20,,Bordesley Green East,Bordesley Green,Birmingham
+2023-05-05,96000,B9 5JX,F,N,L,7B,,Whichford Grove,,Birmingham
+2023-05-05,140000,B9 4XB,T,N,F,301,,Cherrywood Road,Bordesley Green,Birmingham
+2023-05-05,191000,B9 4JQ,S,N,L,20,,Maxstoke Street,,Birmingham
+2023-04-28,172000,B9 5UJ,S,N,L,76,,Repton Road,,Birmingham
+2023-04-28,150000,B9 5RQ,T,N,F,78,,Fourth Avenue,Bordesley Green,Birmingham
+2023-04-28,165000,B9 5HJ,T,N,F,467,,Charles Road,Small Heath,Birmingham
+2023-04-21,155000,B9 4PQ,F,N,L,27,,Keer Court,Bordesley,Birmingham
+2023-04-06,230000,B9 5TH,S,N,F,84,,Caldwell Road,Bordesley Green,Birmingham
+2023-04-06,213000,B9 5RZ,T,N,F,264,,Belchers Lane,Bordesley Green,Birmingham
+2023-04-05,150000,B9 5UJ,S,N,F,62,,Repton Road,,Birmingham
+2023-03-31,190000,B9 5PW,T,N,F,333,,Green Lane,Small Heath,Birmingham
+2023-03-31,360000,B9 5JD,D,N,F,349,,Yardley Green Road,Bordesley Green,Birmingham
+2023-03-16,162000,B9 5EE,T,N,F,117,,Carlton Road,Small Heath,Birmingham
+2023-03-10,200000,B9 5SJ,T,N,F,132,,Bordesley Green East,Bordesley Green,Birmingham
+2023-03-10,158500,B9 5QY,T,N,F,66,,Blake Lane,Bordesley Green,Birmingham
+2023-03-09,160000,B9 5EB,T,N,F,8,,Carlton Road,Small Heath,Birmingham
+2023-03-07,187000,B9 5EL,T,N,F,61,,Whitehall Road,Small Heath,Birmingham
+2023-03-02,180000,B9 5UA,T,N,F,157,,Norton Crescent,,Birmingham
+2023-03-02,131000,B9 4LB,F,N,L,Barwell Court,Flat 31,Barwell Road,,Birmingham
+2023-02-20,195000,B9 5UY,T,N,F,73,,Eastfield Road,Bordesley Green,Birmingham
+2023-02-10,150000,B9 5UY,T,N,F,137,,Eastfield Road,Bordesley Green,Birmingham
+2023-02-10,188000,B9 5SQ,T,N,F,39,,Foxwell Road,,Birmingham
+2023-02-06,161000,B9 5XG,T,N,F,74,,Blakeland Street,,Birmingham
+2023-02-03,100000,B9 5DE,F,N,L,72,,Eversley Road,,Birmingham
+2023-01-31,104500,B9 5JT,S,N,L,4B,,Frankton Grove,,Birmingham
+2023-01-27,125000,B9 5PS,T,N,L,7,,Newland Road,Small Heath,Birmingham
+2023-01-27,120000,B9 4LB,F,N,L,Barwell Court,Flat 18,Barwell Road,,Birmingham
+2023-01-09,190000,B9 5UD,T,N,F,139,,Norton Crescent,,Birmingham
+2022-12-21,185000,B9 5TB,S,N,F,59,,Norton Crescent,,Birmingham
+2022-12-16,140000,B9 5TP,T,N,F,21,,Denville Crescent,Bordesley Green,Birmingham
+2022-12-15,145000,B9 5NY,T,N,F,25,,Churchill Road,,Birmingham
+2022-12-13,182500,B9 5PP,T,N,F,437,,Green Lane,Small Heath,Birmingham
+2022-12-09,175000,B9 5NU,T,N,F,204,,Churchill Road,,Birmingham
+2022-12-09,158000,B9 5HH,T,N,F,371,,Charles Road,Small Heath,Birmingham
+2022-12-08,215000,B9 5ND,T,N,F,392,,Bordesley Green,,Birmingham
+2022-12-02,204000,B9 5TP,T,N,F,39,,Denville Crescent,Bordesley Green,Birmingham
+2022-11-25,167000,B9 4UQ,T,N,F,16,,Denbigh Street,Bordesley Green,Birmingham
+2022-11-24,100000,B9 4QH,F,N,L,24,Flat 4,Artillery Street,,Birmingham
+2022-11-15,200000,B9 5QB,T,N,F,156,,Yardley Green Road,Bordesley Green,Birmingham
+2022-11-11,210000,B9 5XX,S,N,F,8,,Marchmont Road,Bordesley Green,Birmingham
+2022-11-10,230000,B9 5BD,T,N,F,10,,Wyndcliff Road,Small Heath,Birmingham
+2022-11-03,184000,B9 5ND,T,N,F,396,,Bordesley Green,,Birmingham
+2022-11-02,157000,B9 5NY,T,N,F,63,,Churchill Road,,Birmingham
+2022-10-26,230000,B9 5QA,S,N,F,267,,Yardley Green Road,Bordesley Green,Birmingham
+2022-10-26,150000,B9 5LJ,T,N,F,61,,Pretoria Road,,Birmingham
+2022-10-21,181000,B9 5NF,T,N,F,10,,Priorygate Way,,Birmingham
+2022-10-14,232500,B9 5XX,S,N,F,21,,Marchmont Road,Bordesley Green,Birmingham
+2022-10-14,180000,B9 4XB,T,N,F,303,,Cherrywood Road,Bordesley Green,Birmingham
+2022-10-13,120000,B9 5JG,T,N,L,88,,Newbridge Road,Small Heath,Birmingham
+2022-10-04,110000,B9 4QH,F,N,L,22,Flat 4,Artillery Street,,Birmingham
+2022-10-03,139000,B9 4NW,F,N,L,15,Flat 5,Wolseley Street,Bordesley,Birmingham
+2022-09-30,235000,B9 5UX,T,N,F,36,,Kenwood Road,,Birmingham
+2022-09-30,160000,B9 5JG,F,N,L,48,,Newbridge Road,Small Heath,Birmingham
+2022-09-30,300000,B9 5JE,S,N,F,69,,Newbridge Road,Small Heath,Birmingham
+2022-09-23,153000,B9 5EX,S,N,F,251,,Bordesley Green,,Birmingham
+2022-09-22,150000,B9 5NL,T,N,F,32,,Whitacre Road,Bordesley Green,Birmingham
+2022-09-15,90000,B9 5PD,T,N,F,576,,Bordesley Green,,Birmingham
+2022-09-15,161000,B9 5HN,S,N,F,1,,Lupin Grove,,Birmingham
+2022-09-09,360000,B9 5FG,D,N,F,1,,Aspen Grove,,Birmingham
+2022-09-09,130000,B9 4PQ,F,N,L,38,,Keer Court,Bordesley,Birmingham
+2022-09-01,150000,B9 5RE,T,N,F,405,,Bordesley Green,,Birmingham
+2022-08-31,240000,B9 5NX,S,N,F,115,,Churchill Road,,Birmingham
+2022-08-30,180000,B9 5RN,T,N,F,95,,Third Avenue,Bordesley Green,Birmingham
+2022-08-25,198000,B9 5DF,T,N,F,61,,Eversley Road,,Birmingham
+2022-08-17,100000,B9 4PG,F,N,L,1,,Hoff Beck Court,,Birmingham
+2022-08-12,135000,B9 5RE,T,N,F,423,,Bordesley Green,,Birmingham
+2022-08-11,152000,B9 5NY,T,N,F,19,,Churchill Road,,Birmingham
+2022-08-09,125000,B9 5RJ,T,N,F,2,,Third Avenue,Bordesley Green,Birmingham
+2022-08-05,206000,B9 5RQ,T,N,F,84,,Fourth Avenue,Bordesley Green,Birmingham
+2022-07-29,260000,B9 5QE,T,N,F,60,,Yardley Green Road,Bordesley Green,Birmingham
+2022-07-29,94000,B9 5LJ,T,N,F,19,,Pretoria Road,,Birmingham
+2022-07-29,275000,B9 5JB,S,N,F,94,,Little Bromwich Road,,Birmingham
+2022-07-29,120000,B9 4PG,F,N,L,22,,Hoff Beck Court,,Birmingham
+2022-07-28,112500,B9 5LQ,T,N,F,152,,Pretoria Road,,Birmingham
+2022-07-28,260000,B9 5JD,S,N,F,369,,Yardley Green Road,Bordesley Green,Birmingham
+2022-07-27,120000,B9 5AA,T,N,F,18,,Victoria Street,,Birmingham
+2022-07-26,195000,B9 5UQ,T,N,F,93,,Kenwood Road,,Birmingham
+2022-07-25,74772,B9 5EJ,T,N,F,38,,Whitehall Road,Small Heath,Birmingham
+2022-07-22,165000,B9 5RD,T,N,F,74,,Fifth Avenue,Bordesley Green,Birmingham
+2022-07-18,185000,B9 5TB,S,N,F,27,,Norton Crescent,,Birmingham
+2022-07-15,166000,B9 5RJ,T,N,F,32,,Third Avenue,Bordesley Green,Birmingham
+2022-07-15,82000,B9 5FN,S,N,F,11,,Springbank,,Birmingham
+2022-07-11,190000,B9 5TU,T,N,F,131,,Caldwell Road,Bordesley Green,Birmingham
+2022-07-01,200000,B9 5TH,S,N,F,106,,Caldwell Road,Bordesley Green,Birmingham
+2022-06-30,145000,B9 5NT,S,N,F,86,,Churchill Road,,Birmingham
+2022-06-17,265000,B9 5QB,S,N,F,128,,Yardley Green Road,Bordesley Green,Birmingham
+2022-05-31,110000,B9 4LB,F,N,L,Barwell Court,Flat 21,Barwell Road,,Birmingham
+2022-05-30,140000,B9 5SQ,T,N,F,39,,Foxwell Road,,Birmingham
+2022-05-26,150000,B9 5PS,T,N,F,22,,Newland Road,Small Heath,Birmingham
+2022-05-23,335000,B9 5JD,S,N,F,375,,Yardley Green Road,Bordesley Green,Birmingham
+2022-05-17,306000,B9 4QJ,F,N,F,1,,Waterside Close,Bordesley Green,Birmingham
+2022-05-10,188000,B9 5UY,T,N,F,139,,Eastfield Road,Bordesley Green,Birmingham
+2022-05-06,190000,B9 5UQ,T,N,F,105,,Kenwood Road,,Birmingham
+2022-05-06,260000,B9 4PH,S,N,F,30,,Mill Burn Way,,Birmingham
+2022-05-03,116250,B9 5FF,S,N,F,93,,Maybank,Bordesley Green,Birmingham
+2022-04-29,150000,B9 5RQ,T,N,F,104,,Fourth Avenue,Bordesley Green,Birmingham
+2022-04-28,110000,B9 4LB,F,N,L,"Garrison Court, 18",Flat 12,Barwell Road,,Birmingham
+2022-04-19,180000,B9 5XN,T,N,F,30,,Finnemore Road,Bordesley Green,Birmingham
+2022-04-19,169000,B9 5EN,T,N,F,139,,Whitehall Road,Small Heath,Birmingham
+2022-04-13,175000,B9 5SJ,T,N,F,116,,Bordesley Green East,Bordesley Green,Birmingham
+2022-04-08,188000,B9 5TY,S,N,F,154,,Norton Crescent,,Birmingham
+2022-04-08,165000,B9 5LH,T,N,F,56,,Pretoria Road,,Birmingham
+2022-04-08,145000,B9 5JG,F,N,L,52,,Newbridge Road,Small Heath,Birmingham
+2022-03-31,190000,B9 5NY,T,N,F,21,,Churchill Road,,Birmingham
+2022-03-30,100000,B9 5QA,T,N,F,257,,Yardley Green Road,Bordesley Green,Birmingham
+2022-03-28,185000,B9 5SJ,T,N,F,118,,Bordesley Green East,Bordesley Green,Birmingham
+2022-03-28,130000,B9 5ND,T,N,F,390,,Bordesley Green,,Birmingham
+2022-03-25,189000,B9 5AP,T,N,F,5,,Talfourd Street,,Birmingham
+2022-03-24,182000,B9 5FE,T,N,F,5,,Bramble Dell,,Birmingham
+2022-03-23,215000,B9 5QA,S,N,F,267,,Yardley Green Road,Bordesley Green,Birmingham
+2022-03-23,94500,B9 4JA,F,N,L,58,,Dart Street,,Birmingham
+2022-03-18,305000,B9 5XB,T,N,F,180,,Eastfield Road,Bordesley Green,Birmingham
+2022-03-11,250000,B9 5DQ,T,N,F,206B,,Green Lane,Small Heath,Birmingham
+2022-03-10,165500,B9 5XQ,T,N,F,43,,Blakeland Street,,Birmingham
+2022-03-04,292500,B9 5NW,S,N,F,14,,Azalea Grove,,Birmingham
+2022-03-04,182000,B9 5NN,T,N,F,96,,Whitacre Road,Bordesley Green,Birmingham
+2022-03-04,145000,B9 5LG,S,N,F,232,,Pretoria Road,,Birmingham
+2022-03-04,148000,B9 5ES,T,N,F,66,,Palace Road,Bordesley Green,Birmingham
+2022-03-01,297000,B9 5XN,T,N,F,53,,Finnemore Road,Bordesley Green,Birmingham
+2022-02-28,70000,B9 5PP,T,N,F,437,,Green Lane,Small Heath,Birmingham
+2022-02-25,177000,B9 5TD,T,N,F,14,,Norton Crescent,,Birmingham
+2022-02-25,240000,B9 5SU,S,N,F,384,,Belchers Lane,Bordesley Green,Birmingham
+2022-02-25,133000,B9 5RD,T,N,F,68,,Fifth Avenue,Bordesley Green,Birmingham
+2022-02-25,192350,B9 5NX,T,N,F,173,,Churchill Road,,Birmingham
+2022-02-25,155000,B9 5NT,T,N,F,40,,Churchill Road,,Birmingham
+2022-02-25,250000,B9 4UU,T,N,F,266,,Cherrywood Road,Bordesley Green,Birmingham
+2022-02-18,180000,B9 5UN,T,N,F,29,,Alston Road,,Birmingham
+2022-02-17,150000,B9 5PG,T,N,F,676,,Bordesley Green,,Birmingham
+2022-02-17,100000,B9 4UL,T,N,F,28,,Ronald Road,,Birmingham
+2022-02-16,280000,B9 5JE,S,N,F,75,,Newbridge Road,Small Heath,Birmingham
+2022-02-14,118000,B9 5XG,T,N,F,88,,Blakeland Street,,Birmingham
+2022-02-11,168000,B9 5PG,T,N,F,662,,Bordesley Green,,Birmingham
+2022-02-11,183000,B9 5NX,T,N,F,201,,Churchill Road,,Birmingham
+2022-02-04,147000,B9 5LJ,S,N,F,47,,Pretoria Road,,Birmingham
+2022-02-03,125000,B9 5ES,T,N,F,34,,Palace Road,Bordesley Green,Birmingham
+2022-01-31,92000,B9 5QA,F,N,L,"Elmbank Court, 291",Flat 5,Yardley Green Road,Bordesley Green,Birmingham
+2022-01-24,195000,B9 4QJ,T,N,F,16,,Waterside Close,Bordesley Green,Birmingham
+2022-01-10,150000,B9 4JG,T,N,L,230,,St Andrews Road,,Birmingham
+2022-01-07,56000,B9 5QA,F,N,L,"Elmbank Court, 291",Flat 7,Yardley Green Road,Bordesley Green,Birmingham
+2022-01-07,100000,B9 5LX,F,N,L,20,,Bordesley Close,,Birmingham
+2022-01-07,152000,B9 4XA,T,N,F,375,,Cherrywood Road,Bordesley Green,Birmingham
+2021-12-16,130000,B9 4NW,F,N,L,15,Flat 6,Wolseley Street,Bordesley,Birmingham
+2021-12-13,230000,B9 5FF,S,N,F,42,,Maybank,Bordesley Green,Birmingham
+2021-12-13,66560,B9 4UU,T,N,F,332,,Cherrywood Road,Bordesley Green,Birmingham
+2021-12-10,187000,B9 5XB,T,N,F,188,,Eastfield Road,Bordesley Green,Birmingham
+2021-12-10,200000,B9 4LS,T,N,F,23,,Gray Street,,Birmingham
+2021-12-08,253000,B9 5QB,S,N,F,110,,Yardley Green Road,Bordesley Green,Birmingham
+2021-12-03,125000,B9 4LB,F,N,L,Barwell Court,Flat 29,Barwell Road,,Birmingham
+2021-12-02,150000,B9 5TH,S,N,L,90,,Caldwell Road,Bordesley Green,Birmingham
+2021-11-29,180000,B9 5LN,T,N,F,185,,Pretoria Road,,Birmingham
+2021-11-22,162000,B9 5PP,T,N,F,395,,Green Lane,Small Heath,Birmingham
+2021-11-22,135000,B9 5NN,T,N,F,108,,Whitacre Road,Bordesley Green,Birmingham
+2021-11-17,266000,B9 5QB,S,N,F,146,,Yardley Green Road,Bordesley Green,Birmingham
+2021-11-05,110000,B9 5PH,T,N,F,113,,Broadway Avenue,,Birmingham
+2021-10-29,165000,B9 5UP,T,N,F,22,,Repton Road,,Birmingham
+2021-10-29,145000,B9 5RB,T,N,F,83,,Fifth Avenue,Bordesley Green,Birmingham
+2021-10-29,160000,B9 5LP,S,N,F,102,,Botha Road,Bordesley Green,Birmingham
+2021-10-29,195000,B9 5LE,T,N,F,54,,Fordrough Lane,Bordesley Green,Birmingham
+2021-10-29,141500,B9 5JG,F,N,L,54,,Newbridge Road,Small Heath,Birmingham
+2021-10-29,165000,B9 5EE,T,N,F,93,,Carlton Road,Small Heath,Birmingham
+2021-10-29,135000,B9 4XD,T,N,F,205,,Cherrywood Road,Bordesley Green,Birmingham
+2021-10-26,205000,B9 4PH,T,N,F,23,,Mill Burn Way,,Birmingham
+2021-10-25,220000,B9 4SA,T,N,F,51,,Cattell Road,,Birmingham
+2021-10-22,167500,B9 5RQ,T,N,F,20,,Fourth Avenue,Bordesley Green,Birmingham
+2021-10-20,123800,B9 5RD,T,N,F,46,,Fifth Avenue,Bordesley Green,Birmingham
+2021-10-15,275000,B9 5XN,S,N,F,39,,Finnemore Road,Bordesley Green,Birmingham
+2021-10-15,278000,B9 5JF,S,N,F,115,,Newbridge Road,Small Heath,Birmingham
+2021-10-12,132000,B9 5ET,T,N,F,13,,Palace Road,Bordesley Green,Birmingham
+2021-10-11,145000,B9 5LG,T,N,F,230,,Pretoria Road,,Birmingham
+2021-09-28,178000,B9 5UD,S,N,F,87,,Norton Crescent,,Birmingham
+2021-09-28,128000,B9 5LH,T,N,F,46,,Pretoria Road,,Birmingham
+2021-09-24,71500,B9 5PE,F,N,L,30,,Bromwich Walk,,Birmingham
+2021-09-17,184000,B9 5UJ,T,N,L,42,,Repton Road,,Birmingham
+2021-09-17,75000,B9 5NT,T,N,F,38,,Churchill Road,,Birmingham
+2021-09-15,170000,B9 5UY,T,N,F,125,,Eastfield Road,Bordesley Green,Birmingham
+2021-09-13,195000,B9 5UG,T,N,F,179,,Eastfield Road,Bordesley Green,Birmingham
+2021-09-10,210000,B9 5TH,T,N,F,68,,Caldwell Road,Bordesley Green,Birmingham
+2021-09-09,85000,B9 4NW,F,N,L,15,Flat 11,Wolseley Street,Bordesley,Birmingham
+2021-09-02,90000,B9 5NN,T,N,F,78,,Whitacre Road,Bordesley Green,Birmingham
+2021-08-31,200000,B9 5RT,T,N,F,263,,Belchers Lane,Bordesley Green,Birmingham
+2021-08-31,152000,B9 5HJ,T,N,F,469,,Charles Road,Small Heath,Birmingham
+2021-08-20,140000,B9 5RL,T,N,F,130,,Third Avenue,Bordesley Green,Birmingham
+2021-08-13,173000,B9 5TS,T,N,F,75,,Denville Crescent,Bordesley Green,Birmingham
+2021-08-12,150000,B9 5RJ,T,N,F,38,,Third Avenue,Bordesley Green,Birmingham
+2021-08-12,129000,B9 5EX,T,N,F,229,,Bordesley Green,,Birmingham
+2021-08-12,120000,B9 4UL,T,N,F,30,,Ronald Road,,Birmingham
+2021-08-10,283000,B9 5JE,S,N,F,33,,Newbridge Road,Small Heath,Birmingham
+2021-08-02,100000,B9 5SG,T,N,F,10,,Foxwell Road,,Birmingham
+2021-07-30,275000,B9 4LB,S,N,F,26,,Barwell Road,,Birmingham
+2021-07-28,140000,B9 4NW,F,N,L,15,Flat 2,Wolseley Street,Bordesley,Birmingham
+2021-07-27,165000,B9 5TD,T,N,F,26,,Norton Crescent,,Birmingham
+2021-07-23,185000,B9 5TP,T,N,F,18,,Denville Crescent,Bordesley Green,Birmingham
+2021-07-23,114000,B9 5EX,T,N,F,187,,Bordesley Green,,Birmingham
+2021-06-30,165000,B9 5SG,T,N,F,22,,Foxwell Road,,Birmingham
+2021-06-30,165000,B9 5PD,T,N,F,584,,Bordesley Green,,Birmingham
+2021-06-30,137000,B9 5HA,T,N,F,87,,Imperial Road,Bordesley Green,Birmingham
+2021-06-30,159950,B9 5EL,T,N,F,67,,Whitehall Road,Small Heath,Birmingham
+2021-06-24,228000,B9 5XR,T,N,F,509,,Belchers Lane,Bordesley Green,Birmingham
+2021-06-23,125000,B9 4TJ,T,N,F,145,,Bordesley Green Road,Bordesley Green,Birmingham
+2021-06-18,140000,B9 5PF,T,N,F,20,,Alum Drive,,Birmingham
+2021-06-18,175000,B9 5NN,T,N,F,80,,Whitacre Road,Bordesley Green,Birmingham
+2021-06-10,100000,B9 4UL,T,N,F,56,,Ronald Road,,Birmingham
+2021-06-09,145000,B9 5NQ,T,N,F,236,,Colonial Road,Bordesley Green,Birmingham
+2021-06-04,135000,B9 4UN,T,N,F,162,,Cherrywood Road,Bordesley Green,Birmingham
+2021-06-03,124000,B9 4QH,F,N,L,22,Flat 10,Artillery Street,,Birmingham
+2021-05-28,137500,B9 5TD,T,N,F,78,,Norton Crescent,,Birmingham
+2021-05-17,145000,B9 5NT,T,N,F,64,,Churchill Road,,Birmingham
+2021-05-14,210000,B9 5XN,S,N,F,15,,Finnemore Road,Bordesley Green,Birmingham
+2021-05-14,130000,B9 5PS,T,N,F,49,,Newland Road,Small Heath,Birmingham
+2021-05-14,100000,B9 4LB,F,N,L,Barwell Court,Flat 15,Barwell Road,,Birmingham
+2021-05-12,90000,B9 5JP,F,N,L,4,,Alveston Grove,,Birmingham
+2021-05-11,157000,B9 5UQ,T,N,F,65,,Kenwood Road,,Birmingham
+2021-05-07,120000,B9 5EX,T,N,F,193,,Bordesley Green,,Birmingham
+2021-05-04,168000,B9 5TQ,T,N,F,12,,Caldwell Road,Bordesley Green,Birmingham
+2021-04-30,132000,B9 4UL,T,N,F,35,,Ronald Road,,Birmingham
+2021-04-26,195000,B9 5XX,S,N,F,23,,Marchmont Road,Bordesley Green,Birmingham
+2021-04-09,165000,B9 5SE,S,N,L,68,,Bordesley Green East,Bordesley Green,Birmingham
+2021-04-08,73500,B9 5EB,T,N,F,66,,Carlton Road,Small Heath,Birmingham
+2021-04-07,131000,B9 5ED,T,N,F,57,,Carlton Road,Small Heath,Birmingham
+2021-03-30,150000,B9 5UX,T,N,F,48,,Kenwood Road,,Birmingham
+2021-03-30,160000,B9 5PF,T,N,F,10,,Alum Drive,,Birmingham
+2021-03-26,103250,B9 4NW,F,N,L,15,Flat 14,Wolseley Street,Bordesley,Birmingham
+2021-03-25,220000,B9 5JD,T,N,F,359,,Yardley Green Road,Bordesley Green,Birmingham
+2021-03-18,218000,B9 5NX,T,N,F,175,,Churchill Road,,Birmingham
+2021-03-16,120000,B9 4TJ,T,N,F,127,,Bordesley Green Road,Bordesley Green,Birmingham
+2021-03-15,210000,B9 5JQ,T,N,F,124,,Newbridge Road,Small Heath,Birmingham
+2021-03-15,127000,B9 4TD,T,N,F,98,,Bordesley Green Road,Bordesley Green,Birmingham
+2021-03-15,144000,B9 4PQ,F,N,L,42,,Keer Court,Bordesley,Birmingham
+2021-03-12,185000,B9 5TG,S,N,F,7,,Caldwell Road,Bordesley Green,Birmingham
+2021-03-12,152000,B9 5NP,T,N,F,189,,Colonial Road,Bordesley Green,Birmingham
+2021-03-12,140000,B9 5HN,S,N,F,20,,Lupin Grove,,Birmingham
+2021-03-05,140000,B9 5RL,T,N,F,90,,Third Avenue,Bordesley Green,Birmingham
+2021-03-01,178000,B9 5LE,T,N,F,32,,Fordrough Lane,Bordesley Green,Birmingham
+2021-02-26,175000,B9 5UX,S,N,F,72,,Kenwood Road,,Birmingham
+2021-02-26,100000,B9 5RE,T,N,F,415,,Bordesley Green,,Birmingham
+2021-02-26,196000,B9 5NU,S,N,F,118,,Churchill Road,,Birmingham
+2021-02-24,185000,B9 5XL,T,N,F,64,,Drummond Road,Bordesley Green,Birmingham
+2021-02-19,140000,B9 4UN,T,N,F,154,,Cherrywood Road,Bordesley Green,Birmingham
+2021-02-17,155000,B9 5LD,S,N,F,26,,Bell Close,Bordesley Green,Birmingham
+2021-02-05,140500,B9 5TH,T,N,F,68,,Caldwell Road,Bordesley Green,Birmingham
+2021-02-05,145000,B9 5NP,S,N,F,145,,Colonial Road,Bordesley Green,Birmingham
+2021-02-04,133500,B9 5QY,T,N,F,28,,Blake Lane,Bordesley Green,Birmingham
+2021-02-01,215000,B9 5XS,S,N,F,498,,Belchers Lane,Bordesley Green,Birmingham
+2021-02-01,160000,B9 5RT,T,N,F,247,,Belchers Lane,Bordesley Green,Birmingham
+2021-01-29,200000,B9 5XY,T,N,F,563,,Bordesley Green,,Birmingham
+2021-01-29,160000,B9 5XH,S,N,F,531,,Bordesley Green,,Birmingham
+2021-01-28,153000,B9 5RJ,T,N,F,24,,Third Avenue,Bordesley Green,Birmingham
+2021-01-22,166000,B9 5JG,T,N,F,80,,Newbridge Road,Small Heath,Birmingham
+2021-01-22,125000,B9 4UP,T,N,F,23,,Cobham Road,,Birmingham
+2021-01-22,140000,B9 4UL,T,N,F,41,,Ronald Road,,Birmingham
+2021-01-21,134000,B9 5QY,T,N,F,96,,Blake Lane,Bordesley Green,Birmingham
+2021-01-20,135000,B9 5LQ,T,N,F,144,,Pretoria Road,,Birmingham
+2021-01-19,250000,B9 5JF,S,N,F,103,,Newbridge Road,Small Heath,Birmingham
+2021-01-18,153000,B9 5PP,T,N,F,425,,Green Lane,Small Heath,Birmingham
+2021-01-14,170000,B9 5XJ,S,N,F,17,,Drummond Road,Bordesley Green,Birmingham
+2021-01-08,160000,B9 5PF,T,N,F,8,,Alum Drive,,Birmingham
+2021-01-08,129000,B9 5HH,T,N,F,399A,,Charles Road,Small Heath,Birmingham

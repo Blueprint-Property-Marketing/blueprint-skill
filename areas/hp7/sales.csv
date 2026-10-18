@@ -1,0 +1,784 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-04,880000,HP7 0BD,D,N,F,44,,Station Road,,Amersham
+2026-07-30,891000,HP7 9BU,S,N,F,36,,Highmoor,,Amersham
+2026-07-24,558000,HP7 9NE,T,N,F,4,,Finch Lane,,Amersham
+2026-07-24,496000,HP7 9LW,S,N,F,124,,White Lion Road,,Amersham
+2026-07-24,650000,HP7 9EW,S,N,F,29,,Black Acre Close,,Amersham
+2026-07-23,857000,HP7 0BB,D,N,F,35,,Station Road,,Amersham
+2026-07-10,355000,HP7 9PH,S,N,L,14A,,Chenies Parade,,Amersham
+2026-07-10,630000,HP7 9NW,T,N,F,32,,St Nicholas Close,,Amersham
+2026-07-02,600000,HP7 0DS,T,N,F,88,,High Street,,Amersham
+2026-06-26,630000,HP7 9JJ,S,N,F,54,,White Lion Road,,Amersham
+2026-06-19,650000,HP7 9JA,S,N,F,4,,Little Reeves Avenue,,Amersham
+2026-06-17,2850000,HP7 0QX,S,N,F,Ridgewell House,,,Little Missenden,Amersham
+2026-06-16,982500,HP7 9DQ,D,N,F,5,,Chequers Hill,,Amersham
+2026-06-03,690000,HP7 0DB,S,N,F,"Something Cottage, 6",,Church Street,,Amersham
+2026-06-01,760000,HP7 9FE,S,N,F,9,,High View Place,,Amersham
+2026-05-29,286000,HP7 9PH,F,N,L,3A,,Chenies Parade,,Amersham
+2026-05-28,730000,HP7 0LF,S,N,F,27,,Hill Meadow,Coleshill,Amersham
+2026-05-27,865000,HP7 9JA,S,N,F,7,,Little Reeves Avenue,,Amersham
+2026-05-22,322500,HP7 0EN,F,N,L,Elmodesham House,6,High Street,,Amersham
+2026-05-21,952750,HP7 0QN,S,N,F,22,,Chancellors,Penn Street,Amersham
+2026-05-21,1035000,HP7 0BN,D,N,F,16,,Highover Park,,Amersham
+2026-05-15,775000,HP7 9HR,D,N,F,16,,Stanley Hill,,Amersham
+2026-05-11,650000,HP7 0JF,S,N,F,9,,Piggotts End,,Amersham
+2026-05-11,283000,HP7 0DT,F,N,L,65,,High Street,,Amersham
+2026-05-07,870000,HP7 9HH,S,N,F,101,,Stanley Hill,,Amersham
+2026-05-07,895000,HP7 9AG,D,N,F,16,,The Rise,,Amersham
+2026-04-23,2750000,HP7 0QU,D,N,F,Michaelmas Meadow,,Penfold Lane,Little Missenden,Amersham
+2026-04-22,562500,HP7 9JN,S,N,F,4,,Pineapple Road,,Amersham
+2026-04-13,255000,HP7 9RX,F,N,L,104,,Chiltern Heights,,Amersham
+2026-04-10,825000,HP7 9DZ,D,N,F,37,,Acres End,,Amersham
+2026-04-09,670000,HP7 9JN,S,N,F,1A,,Pineapple Road,,Amersham
+2026-04-07,1180000,HP7 9HT,D,N,F,1,,Winchester Close,,Amersham
+2026-04-02,530000,HP7 0AH,T,N,F,123,,Station Road,,Amersham
+2026-04-01,365000,HP7 0JE,F,N,L,Tylesworth,,Whielden Green,,Amersham
+2026-03-27,1250000,HP7 0QT,D,N,F,The Paddocks,,Beamond End Lane,Beamond End,Amersham
+2026-03-26,725000,HP7 9JN,S,N,F,29,,Pineapple Road,,Amersham
+2026-03-19,500000,HP7 0HL,F,N,L,"Chiltern Place, 59 - 61",Flat 16,The Broadway,,Amersham
+2026-03-11,590000,HP7 0QJ,S,N,F,Pentlands,,School Lane,Penn Street,Amersham
+2026-02-27,357500,HP7 0ER,F,N,L,7,,Pondwicks,,Amersham
+2026-02-20,620000,HP7 9QT,D,N,L,16,,Snells Wood Court,Little Chalfont,Amersham
+2026-02-19,200000,HP7 9PG,F,N,L,7,,Derwent Close,,Amersham
+2026-02-18,930000,HP7 0HU,S,N,F,27,,Whielden Street,,Amersham
+2026-02-13,850000,HP7 9HL,D,N,F,48,,Stanley Hill,,Amersham
+2026-02-05,480000,HP7 0PF,S,N,F,Elmdon Cottages,2,Fagnall Lane,Winchmore Hill,Amersham
+2026-01-28,305000,HP7 9EN,S,N,L,2,,Longwood Lane,,Amersham
+2026-01-26,916500,HP7 0AH,S,N,F,109,,Station Road,,Amersham
+2026-01-22,610000,HP7 9NP,T,N,F,48,,St Nicholas Close,,Amersham
+2026-01-21,830000,HP7 9HJ,S,N,F,61,,The Ridgeway,,Amersham
+2026-01-15,292500,HP7 9JY,F,N,L,125B,,White Lion Road,,Amersham
+2026-01-15,1750000,HP7 9BB,D,N,F,30,,Stanley Hill Avenue,,Amersham
+2026-01-15,1125000,HP7 0PN,D,N,F,Crispins,,The Common,Winchmore Hill,Amersham
+2026-01-09,851000,HP7 0NP,D,N,F,Appledore,,Coleshill Lane,Winchmore Hill,Amersham
+2026-01-09,450000,HP7 0EW,T,N,F,17,,Thornhill Close,,Amersham
+2025-12-19,910000,HP7 0DS,T,N,F,92,,High Street,,Amersham
+2025-12-17,420000,HP7 9JN,S,N,F,7,,Pineapple Road,,Amersham
+2025-12-17,850000,HP7 9BL,D,N,F,41,,First Avenue,,Amersham
+2025-12-15,1050000,HP7 0EG,S,N,F,148,,High Street,,Amersham
+2025-12-12,695000,HP7 0AH,T,N,F,121,,Station Road,,Amersham
+2025-12-11,705000,HP7 0NH,D,N,F,Hillfoot Cottage,,The Hill,Winchmore Hill,Amersham
+2025-12-11,905000,HP7 0BN,D,N,F,20,,Highover Park,,Amersham
+2025-12-04,775000,HP7 0JP,T,N,F,2,,Forge End,,Amersham
+2025-12-03,210000,HP7 9PG,F,N,L,2,,Derwent Close,,Amersham
+2025-12-02,860000,HP7 9QH,D,N,F,20,,Linfields,,Amersham
+2025-12-02,580788,HP7 9NE,D,N,F,Pond House,,Finch Lane,,Amersham
+2025-12-02,315000,HP7 9JY,F,N,L,125A,,White Lion Road,,Amersham
+2025-11-28,230000,HP7 9BT,F,N,L,25,,Woodley Court,,Amersham
+2025-11-27,719950,HP7 9NY,S,N,F,9,,Loudhams Road,,Amersham
+2025-11-24,390000,HP7 9RZ,F,N,L,207,,Chiltern Heights,,Amersham
+2025-11-24,533000,HP7 9JL,T,N,F,6,,Lanewood Close,,Amersham
+2025-11-24,475000,HP7 0AR,F,N,L,Gilbert Scott Court,65,Whielden Street,,Amersham
+2025-11-21,845000,HP7 0HW,T,N,F,6,,Norwood Court,,Amersham
+2025-11-21,4750000,HP7 0DJ,T,N,F,28,,High Street,,Amersham
+2025-11-20,985000,HP7 0BB,D,N,F,43,,Station Road,,Amersham
+2025-11-12,739000,HP7 9HJ,S,N,F,45,,The Ridgeway,,Amersham
+2025-11-10,965000,HP7 9HL,D,N,F,46,,Stanley Hill,,Amersham
+2025-10-24,288000,HP7 9NF,F,N,L,49,,Applefield,,Amersham
+2025-10-24,345000,HP7 0AR,F,N,L,Gilbert Scott Court,50,Whielden Street,,Amersham
+2025-10-23,825000,HP7 9NL,S,N,F,"Bow Bridge House, 176A",,White Lion Road,,Amersham
+2025-10-17,1350000,HP7 0PN,D,N,F,Green Hedges,,The Common,Winchmore Hill,Amersham
+2025-10-17,390000,HP7 0BA,F,N,L,6,,Quickberry Place,,Amersham
+2025-10-16,475000,HP7 0DS,F,N,F,74A,,High Street,,Amersham
+2025-10-16,794000,HP7 0AS,S,N,F,90,,Station Road,,Amersham
+2025-10-14,450000,HP7 0RB,T,N,F,19,,Highmore Cottages,Little Missenden,Amersham
+2025-10-03,860000,HP7 0HU,D,N,F,30,,Whielden Street,,Amersham
+2025-09-30,640000,HP7 9QT,F,N,L,9,,Snells Wood Court,Little Chalfont,Amersham
+2025-09-30,1640000,HP7 9BA,D,N,F,81,,Stanley Hill Avenue,,Amersham
+2025-09-26,386500,HP7 0QN,T,N,F,5,,Chancellors,Penn Street,Amersham
+2025-09-25,999950,HP7 9QH,D,N,F,8,,Linfields,,Amersham
+2025-09-25,820000,HP7 9HJ,S,N,F,71,,The Ridgeway,,Amersham
+2025-09-15,680000,HP7 9EN,S,N,F,15,,Longwood Lane,,Amersham
+2025-09-12,1295000,HP7 9BB,D,N,F,28,,Stanley Hill Avenue,,Amersham
+2025-09-12,705000,HP7 9AR,S,N,F,43,,The Meadows,,Amersham
+2025-09-09,310000,HP7 9FA,F,N,L,30,,Abrahams Close,,Amersham
+2025-09-03,1075000,HP7 9HY,D,N,F,11,,Lime Tree Walk,,Amersham
+2025-09-03,925000,HP7 0DY,T,N,F,135,,High Street,,Amersham
+2025-09-01,550000,HP7 9EX,T,N,F,13,,Salisbury Close,,Amersham
+2025-08-29,820000,HP7 9ET,D,N,F,208,,Stanley Hill,,Amersham
+2025-08-29,995000,HP7 9AJ,D,N,F,33,,Batchelors Way,,Amersham
+2025-08-29,885000,HP7 0HJ,S,N,F,50,,The Broadway,,Amersham
+2025-08-29,580000,HP7 0DJ,S,N,F,The Worthies,1,High Street,,Amersham
+2025-08-28,220000,HP7 9PG,F,N,L,21,,Derwent Close,,Amersham
+2025-08-27,600000,HP7 9NT,T,N,F,9,,Clayton Walk,,Amersham
+2025-08-27,315000,HP7 0RB,F,N,L,14,,Highmore Cottages,Little Missenden,Amersham
+2025-08-27,827500,HP7 0QY,T,N,F,Reading Cottage,,,Little Missenden,Amersham
+2025-08-27,1550000,HP7 0PY,D,N,F,New Haven,,Penn Street,,Amersham
+2025-08-21,740000,HP7 9NY,S,N,F,20,,Loudhams Road,,Amersham
+2025-08-15,537500,HP7 9QU,S,N,F,The Cottages,4,London Road East,,Amersham
+2025-08-15,921000,HP7 9QH,D,N,F,11,,Linfields,,Amersham
+2025-08-14,955000,HP7 9QH,D,N,F,10,,Linfields,,Amersham
+2025-08-01,635000,HP7 9NY,S,N,F,18,,Loudhams Road,,Amersham
+2025-07-31,425000,HP7 0AR,F,N,L,Gilbert Scott Court,68,Whielden Street,,Amersham
+2025-07-25,321000,HP7 9PE,F,N,L,Belle Court,6,Bell Lane,,Amersham
+2025-07-25,252000,HP7 9FD,F,N,L,4,,Meadow Bank Close,,Amersham
+2025-07-24,850000,HP7 9HQ,D,N,F,133,,Stanley Hill,,Amersham
+2025-07-24,980000,HP7 0LG,D,N,F,Elm Gables,,Village Road,Coleshill,Amersham
+2025-07-21,514000,HP7 0LF,S,N,F,17,,Hill Meadow,Coleshill,Amersham
+2025-07-21,765000,HP7 0HT,F,N,L,2,,Whielden Street,,Amersham
+2025-07-16,1132500,HP7 0AZ,D,N,F,Conifers,,Beech Grove,,Amersham
+2025-07-04,675000,HP7 9BN,D,N,F,123,,Hundred Acres Lane,,Amersham
+2025-07-03,650000,HP7 9DZ,S,N,F,14,,Acres End,,Amersham
+2025-07-03,1350000,HP7 0ED,T,N,F,106,,High Street,,Amersham
+2025-06-30,655000,HP7 0EN,F,N,L,Elmodesham House,11,High Street,,Amersham
+2025-06-27,800000,HP7 0JP,T,N,F,4,,Forge End,,Amersham
+2025-06-16,550000,HP7 9JN,D,N,F,7A,,Pineapple Road,,Amersham
+2025-06-13,600000,HP7 9EW,S,N,F,15,,Black Acre Close,,Amersham
+2025-06-12,260000,HP7 9HD,F,N,L,"Chiltern Mews, 44",Flat 5,Lincoln Park,,Amersham
+2025-06-12,695000,HP7 0HT,T,N,F,14,,Whielden Street,,Amersham
+2025-06-11,645000,HP7 9EN,S,N,F,13,,Longwood Lane,,Amersham
+2025-06-09,310000,HP7 0FB,F,N,L,7,,Walnut Mews,,Amersham
+2025-06-06,322000,HP7 0BA,F,N,L,4,,Quickberry Place,,Amersham
+2025-05-30,520000,HP7 0RH,T,N,F,Parkview Cottages,1,Missenden Road,,Amersham
+2025-05-28,225000,HP7 9PG,F,N,L,17,,Derwent Close,,Amersham
+2025-05-16,611500,HP7 9EJ,S,N,F,52,,Sheepfold Lane,,Amersham
+2025-05-16,840000,HP7 9BJ,S,N,F,62,,First Avenue,,Amersham
+2025-05-15,1200000,HP7 9FA,D,N,F,20,,Abrahams Close,,Amersham
+2025-05-02,875000,HP7 0BY,T,N,F,6,,Diamond Court,,Amersham
+2025-04-30,1060000,HP7 9JN,D,N,F,24,,Pineapple Road,,Amersham
+2025-04-30,750000,HP7 9BW,S,N,F,46,,Pomeroy Close,,Amersham
+2025-04-30,1210000,HP7 0AZ,D,N,F,Hillcrest,,Beech Grove,,Amersham
+2025-04-17,1295000,HP7 0PY,D,N,F,Chevin,,,Penn Street,Amersham
+2025-03-31,1075000,HP7 9QL,D,N,F,7,,Yarrowside,,Amersham
+2025-03-31,360000,HP7 9NF,F,N,L,50,,Applefield,,Amersham
+2025-03-31,561000,HP7 9ER,T,N,F,99,,Quarrendon Road,,Amersham
+2025-03-31,741000,HP7 9EG,S,N,F,17,,Leywood Close,,Amersham
+2025-03-31,275000,HP7 0HY,F,N,L,2,,Whielden Close,,Amersham
+2025-03-31,450000,HP7 0DY,T,N,F,133,,High Street,,Amersham
+2025-03-31,712000,HP7 0BP,S,N,F,63,,Highover Park,,Amersham
+2025-03-31,710000,HP7 0BE,S,N,F,28,,Station Road,,Amersham
+2025-03-31,1080000,HP7 0AS,D,N,F,100C,,Station Road,,Amersham
+2025-03-28,277000,HP7 9PD,F,N,L,14,,Arbour View,,Amersham
+2025-03-28,696000,HP7 9HP,D,N,F,5,,Stanley Hill,,Amersham
+2025-03-28,508000,HP7 9HF,D,N,F,66,,Lincoln Park,,Amersham
+2025-03-28,531000,HP7 9EW,S,N,F,37,,Black Acre Close,,Amersham
+2025-03-28,460000,HP7 9EW,S,N,F,31,,Black Acre Close,,Amersham
+2025-03-28,223000,HP7 9EP,F,N,L,90,,Quarrendon Road,,Amersham
+2025-03-28,1430000,HP7 0HX,D,N,F,Chapel House,,The Platt,,Amersham
+2025-03-28,352500,HP7 0FB,F,N,L,3,,Walnut Mews,,Amersham
+2025-03-28,515000,HP7 0EL,S,N,F,7,,School Lane,,Amersham
+2025-03-28,2600000,HP7 0EG,D,N,F,164,,High Street,,Amersham
+2025-03-26,624300,HP7 9EW,S,N,F,30,,Black Acre Close,,Amersham
+2025-03-26,495000,HP7 0DJ,T,N,F,The Worthies,4,High Street,,Amersham
+2025-03-24,390000,HP7 0EP,F,N,L,18,,Pondwicks,,Amersham
+2025-03-21,380000,HP7 9NF,F,N,L,47,,Applefield,,Amersham
+2025-03-21,700000,HP7 9DZ,S,N,F,31,,Acres End,,Amersham
+2025-03-21,485000,HP7 9BY,T,N,F,5,,West Acres,,Amersham
+2025-03-21,525000,HP7 0QW,S,N,F,Tylers,,Amersham Road,Penn Street,Amersham
+2025-03-21,575000,HP7 0QJ,T,N,F,4,,School Lane,Penn Street,Amersham
+2025-03-20,255000,HP7 9BT,F,N,L,8,,Woodley Court,,Amersham
+2025-03-19,610000,HP7 0LR,S,N,F,New Cottages,1,Village Road,Coleshill,Amersham
+2025-03-17,952000,HP7 0LQ,D,N,F,Cotswold,,Village Road,Coleshill,Amersham
+2025-03-14,1400000,HP7 9DH,D,N,F,Bramblings,,London Road East,,Amersham
+2025-03-14,1400000,HP7 9DH,D,N,F,Bramblings,,London Road East,,Amersham
+2025-03-14,385000,HP7 0FB,F,N,L,6,,Walnut Mews,,Amersham
+2025-03-14,490000,HP7 0BD,D,N,F,64,,Station Road,,Amersham
+2025-03-12,890000,HP7 9DQ,S,N,F,45,,Chequers Hill,,Amersham
+2025-03-07,340000,HP7 0AJ,F,N,L,9,,Parsonage Place,,Amersham
+2025-03-06,700000,HP7 9NW,T,N,F,1A,,St Nicholas Close,,Amersham
+2025-02-28,500000,HP7 9DX,S,N,F,59,,Hillside Gardens,,Amersham
+2025-02-28,750000,HP7 9AT,S,N,F,9,,The Meadows,,Amersham
+2025-02-28,370000,HP7 0FB,F,N,L,1,,Walnut Mews,,Amersham
+2025-02-27,587950,HP7 0AP,T,N,L,Gilbert Scott Court,27,Whielden Street,,Amersham
+2025-02-27,435000,HP7 0AP,F,N,L,Gilbert Scott Court,18,Whielden Street,,Amersham
+2025-02-26,625000,HP7 0HL,F,N,L,"Chiltern Place, 59 - 61",Flat 26,The Broadway,,Amersham
+2025-02-19,745000,HP7 0HJ,S,N,F,48,,The Broadway,,Amersham
+2025-02-14,535000,HP7 9JR,T,N,F,85,,White Lion Road,,Amersham
+2025-02-14,705000,HP7 9FA,D,N,F,4,,Abrahams Close,,Amersham
+2025-02-14,1035000,HP7 9AJ,D,N,F,"Four Winds, 42",,Batchelors Way,,Amersham
+2025-02-07,762000,HP7 9EY,S,N,F,167,,Stanley Hill,,Amersham
+2025-02-05,780000,HP7 9QT,F,N,L,15,,Snells Wood Court,Little Chalfont,Amersham
+2025-02-03,880000,HP7 9LR,S,N,F,The Hyde,,Chilcote Lane,Little Chalfont,Amersham
+2025-01-31,712000,HP7 9NR,T,N,F,184A,,White Lion Road,,Amersham
+2025-01-31,900000,HP7 9AU,D,N,F,15,,Highland Road,,Amersham
+2025-01-29,755000,HP7 9FA,D,N,F,6,,Abrahams Close,,Amersham
+2025-01-24,268000,HP7 9PH,F,N,L,1A,,Chenies Parade,,Amersham
+2025-01-24,950000,HP7 9BL,D,N,F,Morten House,,First Avenue,,Amersham
+2025-01-24,841000,HP7 9AF,S,N,F,2,,The Green,,Amersham
+2025-01-23,303000,HP7 0HL,F,N,L,"Chiltern Place, 59 - 61",Flat 3,The Broadway,,Amersham
+2025-01-22,810000,HP7 9DG,D,N,F,18,,Millshot Drive,,Amersham
+2025-01-21,320000,HP7 9JR,T,N,F,83,,White Lion Road,,Amersham
+2025-01-17,572000,HP7 9NH,T,N,F,20,,Cumberland Close,,Amersham
+2025-01-16,452500,HP7 9JN,S,N,F,17,,Pineapple Road,,Amersham
+2025-01-10,710000,HP7 9EA,T,N,F,43,,Hundred Acres Lane,,Amersham
+2025-01-10,450000,HP7 9BY,T,N,F,17,,West Acres,,Amersham
+2025-01-09,995000,HP7 0DY,T,N,F,107,,High Street,,Amersham
+2024-12-20,465000,HP7 0QN,T,N,F,16,,Chancellors,Penn Street,Amersham
+2024-12-20,565000,HP7 0QJ,D,N,F,Woodside,,School Lane,Penn Street,Amersham
+2024-12-19,700000,HP7 9EQ,S,N,F,3,,Mortens Wood,,Amersham
+2024-12-17,716500,HP7 9EG,T,N,F,7,,Leywood Close,,Amersham
+2024-12-17,940000,HP7 9AG,D,N,F,27,,The Rise,,Amersham
+2024-12-17,430000,HP7 0DT,F,N,L,63,,High Street,,Amersham
+2024-12-17,795000,HP7 0BY,T,N,F,4,,Diamond Court,,Amersham
+2024-12-13,565000,HP7 9NW,T,N,F,6,,St Nicholas Close,,Amersham
+2024-12-12,970000,HP7 9PX,D,N,F,Juniper Cottage,,Village Way,,Amersham
+2024-12-12,850000,HP7 0SJ,S,N,F,"Mulberry Cottage, 13",,Bury Farm,,Amersham
+2024-12-12,755000,HP7 0HU,S,N,F,40,,Whielden Street,,Amersham
+2024-12-12,825000,HP7 0AT,D,N,F,85,,Station Road,,Amersham
+2024-12-11,510000,HP7 9JU,T,N,F,1,,White Lion Close,,Amersham
+2024-12-05,1450000,HP7 9BB,D,N,F,51,,Stanley Hill Avenue,,Amersham
+2024-11-29,840000,HP7 9EF,S,N,F,49,,Quarrendon Road,,Amersham
+2024-11-29,320000,HP7 0AP,F,N,L,Gilbert Scott Court,16,Whielden Street,,Amersham
+2024-11-28,760000,HP7 9HH,S,N,F,83,,Stanley Hill,,Amersham
+2024-11-26,795000,HP7 9HD,T,N,F,"Chiltern Mews, 44",2,Lincoln Park,,Amersham
+2024-11-22,400000,HP7 9JR,T,N,F,77,,White Lion Road,,Amersham
+2024-11-22,285000,HP7 9BT,F,N,L,4,,Woodley Court,,Amersham
+2024-11-22,1145000,HP7 0AZ,D,N,F,Hawthorns,,Beech Grove,,Amersham
+2024-11-15,675000,HP7 9FE,S,N,F,1,,High View Place,,Amersham
+2024-11-15,540000,HP7 0DJ,T,N,F,The Worthies,6,High Street,,Amersham
+2024-11-08,720000,HP7 9FD,D,N,F,8,,Meadow Bank Close,,Amersham
+2024-11-07,780000,HP7 9EN,S,N,F,27,,Longwood Lane,,Amersham
+2024-11-04,1250000,HP7 9BD,D,N,F,29,,Stanley Hill Avenue,,Amersham
+2024-10-31,735000,HP7 9AT,S,N,F,10,,The Meadows,,Amersham
+2024-10-29,1150000,HP7 9BA,D,N,F,69,,Stanley Hill Avenue,,Amersham
+2024-10-25,4775000,HP7 0LB,D,N,F,Orchard House,,Tower Road,Coleshill,Amersham
+2024-10-24,325000,HP7 9PG,F,N,L,22,,Derwent Close,,Amersham
+2024-10-18,695000,HP7 9EJ,S,N,F,47,,Sheepfold Lane,,Amersham
+2024-10-18,655000,HP7 9EH,S,N,F,54,,Quarrendon Road,,Amersham
+2024-10-18,805100,HP7 9EA,S,N,F,51,,Hundred Acres Lane,,Amersham
+2024-10-18,720000,HP7 9EA,S,N,F,29,,Hundred Acres Lane,,Amersham
+2024-10-18,786000,HP7 0HT,D,N,F,28,,Whielden Street,,Amersham
+2024-10-14,1200000,HP7 0HU,S,N,F,23,,Whielden Street,,Amersham
+2024-10-07,570000,HP7 9NP,T,N,F,66,,St Nicholas Close,,Amersham
+2024-10-07,865000,HP7 0HP,T,N,F,"Lansdowne House, 6",,The Broadway,,Amersham
+2024-10-04,745000,HP7 9QT,F,N,L,6,,Snells Wood Court,Little Chalfont,Amersham
+2024-10-04,700000,HP7 9BJ,S,N,F,22,,First Avenue,,Amersham
+2024-10-04,1395000,HP7 9BA,D,N,F,75,,Stanley Hill Avenue,,Amersham
+2024-10-03,795000,HP7 9EN,S,N,F,26,,Longwood Lane,,Amersham
+2024-10-01,1115000,HP7 0QP,D,N,F,Beechlea House,,,Mop End,Amersham
+2024-09-26,800000,HP7 9NQ,D,N,F,"Cheviot Cottage, 152",,White Lion Road,,Amersham
+2024-09-20,1205000,HP7 9NU,D,N,F,194,,White Lion Road,,Amersham
+2024-09-12,745000,HP7 9JD,D,N,F,26,,White Lion Road,,Amersham
+2024-09-09,625000,HP7 9HX,S,N,F,7,,White Lion Road,,Amersham
+2024-09-06,699995,HP7 9QT,F,N,L,33,,Snells Wood Court,Little Chalfont,Amersham
+2024-09-05,634000,HP7 9JP,T,N,F,12,,Orchard End Avenue,,Amersham
+2024-09-02,455000,HP7 0EL,S,N,F,4,,School Lane,,Amersham
+2024-08-29,690000,HP7 9JN,D,N,F,23,,Pineapple Road,,Amersham
+2024-08-29,661000,HP7 0AZ,D,N,F,April Cottage,,Beech Grove,,Amersham
+2024-08-27,1415000,HP7 9TH,D,N,F,2,,Birch Gardens,,Amersham
+2024-08-27,450000,HP7 0JJ,S,N,F,58,,Fieldway,,Amersham
+2024-08-23,1915000,HP7 0PX,D,N,F,Two Gates,,Penn Street,,Amersham
+2024-08-22,941000,HP7 9EF,S,N,F,32,,Quarrendon Road,,Amersham
+2024-08-12,750000,HP7 0BD,S,N,F,78,,Station Road,,Amersham
+2024-08-09,665000,HP7 9HD,D,N,F,79,,Lincoln Park,,Amersham
+2024-08-09,265000,HP7 0AF,F,N,L,Franklin Court,Flat 9,Station Road,,Amersham
+2024-07-31,1670000,HP7 0QX,D,N,F,Dering Cottage,,,Little Missenden,Amersham
+2024-07-24,1500000,HP7 0LX,D,N,F,5,,Chase Close,Coleshill,Amersham
+2024-07-24,700000,HP7 0HT,T,N,F,26,,Whielden Street,,Amersham
+2024-07-22,580000,HP7 0AR,T,N,F,Gilbert Scott Court,39,Whielden Street,,Amersham
+2024-07-19,575000,HP7 0RL,F,N,L,Shardeloes,4,Missenden Road,,Amersham
+2024-07-18,638000,HP7 9JN,S,N,F,19,,Pineapple Road,,Amersham
+2024-07-15,700000,HP7 9HH,S,N,F,113,,Stanley Hill,,Amersham
+2024-07-12,740000,HP7 0BN,S,N,F,21,,Highover Park,,Amersham
+2024-07-05,960000,HP7 9BL,D,N,F,Morten House,,First Avenue,,Amersham
+2024-07-03,2000000,HP7 0HJ,T,N,F,Broadway House,,The Broadway,,Amersham
+2024-07-03,2800000,HP7 0EQ,D,N,F,191,,High Street,,Amersham
+2024-07-01,450000,HP7 0HL,F,N,L,"Chiltern Place, 59 - 61",Flat 33,The Broadway,,Amersham
+2024-06-28,550000,HP7 9NP,T,N,F,46,,St Nicholas Close,,Amersham
+2024-06-21,1000000,HP7 9AH,D,N,F,14,,Batchelors Way,,Amersham
+2024-06-21,700000,HP7 0LL,D,N,F,5,,Meadowcot Lane,Coleshill,Amersham
+2024-06-14,705000,HP7 9HP,S,N,F,9,,Stanley Hill,,Amersham
+2024-06-14,302500,HP7 0AX,F,N,L,Martyrs Court,7,Station Road,,Amersham
+2024-06-14,680000,HP7 0AH,S,N,F,103,,Station Road,,Amersham
+2024-06-12,670000,HP7 9DQ,S,N,F,33,,Chequers Hill,,Amersham
+2024-06-07,545000,HP7 9EX,T,N,F,9,,Salisbury Close,,Amersham
+2024-06-05,850000,HP7 0NR,D,N,F,Clayton,,Coleshill Lane,Winchmore Hill,Amersham
+2024-06-04,1150000,HP7 0LR,D,N,F,Chapel Cottage,,Village Road,Coleshill,Amersham
+2024-06-03,830000,HP7 9FA,D,N,F,15,,Abrahams Close,,Amersham
+2024-05-23,826500,HP7 9AA,S,N,F,23,,The Drive,,Amersham
+2024-05-17,550000,HP7 9JY,S,N,F,127,,White Lion Road,,Amersham
+2024-05-17,812500,HP7 9BU,S,N,F,30,,Highmoor,,Amersham
+2024-05-10,515000,HP7 9JL,T,N,F,12,,Lanewood Close,,Amersham
+2024-05-10,735000,HP7 0QZ,T,N,F,3,,Red Lion Cottages,Little Missenden,Amersham
+2024-05-03,1580000,HP7 0JX,D,N,F,Meadow House,,Bottrells Lane,Coleshill,Amersham
+2024-05-02,995000,HP7 0BB,S,N,F,41,,Station Road,,Amersham
+2024-04-29,445100,HP7 9ER,S,N,F,95,,Quarrendon Road,,Amersham
+2024-04-26,330000,HP7 0AJ,F,N,L,7,,Parsonage Place,,Amersham
+2024-04-25,575000,HP7 9NH,T,N,F,6,,Cumberland Close,,Amersham
+2024-04-25,399000,HP7 0HL,F,N,L,"Chiltern Place, 59 - 61",Flat 27,The Broadway,,Amersham
+2024-04-19,936000,HP7 9PU,D,N,F,Drakes Cottage,,Village Way,Little Chalfont,Amersham
+2024-04-19,725000,HP7 0BD,D,N,F,58,,Station Road,,Amersham
+2024-04-12,850000,HP7 9DW,D,N,F,15,,Willow Lane,,Amersham
+2024-04-10,1375000,HP7 9AU,D,N,F,17,,Highland Road,,Amersham
+2024-04-09,725000,HP7 9EJ,S,N,F,51,,Sheepfold Lane,,Amersham
+2024-03-28,566000,HP7 0NG,S,N,F,Cowley Cottages,7,Whielden Lane,Winchmore Hill,Amersham
+2024-03-22,580000,HP7 9NW,T,N,F,8,,St Nicholas Close,,Amersham
+2024-03-22,774000,HP7 9HS,D,N,F,4,,Ely Close,,Amersham
+2024-03-22,445000,HP7 0AR,F,N,L,Gilbert Scott Court,84,Whielden Street,,Amersham
+2024-03-22,770000,HP7 0AB,T,N,F,2,,The Avenue,,Amersham
+2024-03-21,725000,HP7 9EW,S,N,F,18,,Black Acre Close,,Amersham
+2024-03-19,360000,HP7 0AP,F,N,L,Gilbert Scott Court,23,Whielden Street,,Amersham
+2024-03-18,335000,HP7 9NF,F,N,L,42,,Applefield,,Amersham
+2024-03-15,398000,HP7 9JN,S,N,F,16,,Pineapple Road,,Amersham
+2024-03-15,400000,HP7 9EN,S,N,F,17,,Longwood Lane,,Amersham
+2024-03-05,1065000,HP7 9AD,S,N,F,5,,The Drive,,Amersham
+2024-03-05,2200000,HP7 0EF,D,N,F,7,,Little Shardeloes,,Amersham
+2024-03-04,750000,HP7 9DW,D,N,F,7,,Willow Lane,,Amersham
+2024-02-29,1075000,HP7 0PN,D,N,F,Langland,,The Common,Winchmore Hill,Amersham
+2024-02-26,280000,HP7 0AP,F,N,L,Gilbert Scott Court,4,Whielden Street,,Amersham
+2024-02-23,530000,HP7 0NL,T,N,F,1,,The Hill,Winchmore Hill,Amersham
+2024-02-15,1150000,HP7 9DW,D,N,F,4,,Willow Lane,,Amersham
+2024-02-09,850000,HP7 0BP,D,N,F,49,,Highover Park,,Amersham
+2024-02-02,650000,HP7 9HQ,D,N,F,145,,Stanley Hill,,Amersham
+2024-02-02,350000,HP7 0AU,F,N,L,4,,Spinney Place,,Amersham
+2024-02-01,500000,HP7 0NR,S,N,F,Chiltern Cottage,,Coleshill Lane,Winchmore Hill,Amersham
+2024-01-26,420000,HP7 9BS,T,N,F,9,,Highmoor,,Amersham
+2024-01-19,489000,HP7 9BY,T,N,F,21,,West Acres,,Amersham
+2024-01-19,535000,HP7 0NX,T,N,F,The Row,6,The Hill,Winchmore Hill,Amersham
+2024-01-19,607500,HP7 0NX,T,N,F,The Row,4,The Hill,Winchmore Hill,Amersham
+2024-01-16,570000,HP7 9NH,T,N,F,4,,Cumberland Close,,Amersham
+2024-01-15,595000,HP7 0JJ,S,N,F,34,,Fieldway,,Amersham
+2024-01-12,695000,HP7 9NY,D,N,F,2,,Loudhams Road,,Amersham
+2024-01-08,1475000,HP7 9AJ,D,N,F,"Montesson, 29A",,Batchelors Way,,Amersham
+2024-01-03,970000,HP7 9AJ,D,N,F,35,,Batchelors Way,,Amersham
+2024-01-03,470000,HP7 0AR,F,N,L,Gilbert Scott Court,62,Whielden Street,,Amersham
+2023-12-20,500000,HP7 9AG,F,N,L,1,,The Rise,,Amersham
+2023-12-14,1400000,HP7 0NT,D,N,F,Wild Hatch,,Coleshill Lane,Winchmore Hill,Amersham
+2023-12-12,327500,HP7 0QN,T,N,F,10,,Chancellors,Penn Street,Amersham
+2023-12-01,820000,HP7 9DL,S,N,F,Llanberis,,London Road East,,Amersham
+2023-12-01,1275000,HP7 9AX,D,N,F,31,,Highland Road,,Amersham
+2023-11-27,660000,HP7 9JD,D,N,F,22,,White Lion Road,,Amersham
+2023-11-27,790000,HP7 9EX,D,N,F,15,,Salisbury Close,,Amersham
+2023-11-24,433000,HP7 9BL,D,N,F,Sovereign Heights,,First Avenue,,Amersham
+2023-11-23,580000,HP7 9JA,S,N,F,15,,Little Reeves Avenue,,Amersham
+2023-11-22,825000,HP7 9PX,D,N,F,Foxgloves,,Village Way,,Amersham
+2023-11-21,740000,HP7 0PN,T,N,F,Elm Tree Cottages,1,The Common,Winchmore Hill,Amersham
+2023-11-21,455000,HP7 0NY,T,N,F,Opposite The Row,2,The Hill,Winchmore Hill,Amersham
+2023-11-15,265000,HP7 9PD,T,N,L,18,,Arbour View,,Amersham
+2023-11-13,725000,HP7 9JN,D,N,F,14,,Pineapple Road,,Amersham
+2023-11-13,1000000,HP7 0BZ,D,N,F,11,,Ruckles Way,,Amersham
+2023-11-10,700000,HP7 9EA,S,N,F,10,,Hundred Acres Lane,,Amersham
+2023-11-09,924000,HP7 9JY,D,N,F,Bendrose Lodge,,White Lion Road,,Amersham
+2023-11-07,800000,HP7 9HG,S,N,F,133,,Lincoln Park,,Amersham
+2023-11-07,310000,HP7 9DN,F,N,L,The Appleyard,Flat 4,Bramble Lane,,Amersham
+2023-11-02,1275000,HP7 9HW,D,N,F,4,,Clare Park,,Amersham
+2023-11-02,793750,HP7 9BJ,S,N,F,65,,First Avenue,,Amersham
+2023-11-01,330000,HP7 0AU,F,N,L,2,,Spinney Place,,Amersham
+2023-10-31,830000,HP7 9DH,S,N,F,Kokedera,,London Road East,,Amersham
+2023-10-26,199000,HP7 9BT,F,N,L,11,,Woodley Court,,Amersham
+2023-10-20,495000,HP7 0AP,F,N,L,Gilbert Scott Court,32,Whielden Street,,Amersham
+2023-10-19,342500,HP7 9PG,F,N,L,20,,Derwent Close,,Amersham
+2023-10-18,675000,HP7 9EH,S,N,F,42,,Quarrendon Road,,Amersham
+2023-10-09,499000,HP7 0EW,T,N,F,9,,Thornhill Close,,Amersham
+2023-10-09,500000,HP7 0EW,T,N,F,18,,Thornhill Close,,Amersham
+2023-10-06,760000,HP7 9AG,D,N,F,16,,The Rise,,Amersham
+2023-10-06,600000,HP7 0HL,F,N,L,"Chiltern Place, 59 - 61",Flat 26,The Broadway,,Amersham
+2023-10-02,1420000,HP7 9AA,D,N,F,13,,The Drive,,Amersham
+2023-09-26,575000,HP7 0DY,T,N,F,129,,High Street,,Amersham
+2023-09-25,527500,HP7 0HL,F,N,L,"Chiltern Place, 59 - 61",Flat 32,The Broadway,,Amersham
+2023-09-13,2000000,HP7 0LQ,D,N,F,Coleshill Lodge,,Village Road,Coleshill,Amersham
+2023-09-11,350000,HP7 0LF,F,N,L,6,,Hill Meadow,Coleshill,Amersham
+2023-09-08,817000,HP7 0NQ,S,N,F,Holly Cottage,,Whielden Lane,Winchmore Hill,Amersham
+2023-09-08,380000,HP7 0EP,F,N,L,18,,Pondwicks,,Amersham
+2023-09-07,250000,HP7 9HD,T,N,F,52,,Lincoln Park,,Amersham
+2023-09-06,667500,HP7 9EH,S,N,F,61,,Quarrendon Road,,Amersham
+2023-09-06,750000,HP7 9BW,S,N,F,42,,Pomeroy Close,,Amersham
+2023-09-04,910000,HP7 9NQ,D,N,F,136,,White Lion Road,,Amersham
+2023-09-03,1005000,HP7 9BD,S,N,F,4,,Stanley Hill Avenue,,Amersham
+2023-09-01,720000,HP7 9JB,S,N,F,45,,Little Reeves Avenue,,Amersham
+2023-09-01,694000,HP7 0EZ,D,N,F,8,,London Road West,,Amersham
+2023-08-31,960000,HP7 0DY,T,N,F,109,,High Street,,Amersham
+2023-08-30,750000,HP7 9EN,S,N,F,30,,Longwood Lane,,Amersham
+2023-08-30,1080000,HP7 9DG,D,N,F,12,,Millshot Drive,,Amersham
+2023-08-25,699950,HP7 0AP,T,N,L,Gilbert Scott Court,36,Whielden Street,,Amersham
+2023-08-17,320000,HP7 0AR,F,N,L,Gilbert Scott Court,49,Whielden Street,,Amersham
+2023-08-16,740000,HP7 0NW,S,N,F,5,,Underwood Cottages,Winchmore Hill,Amersham
+2023-08-04,965000,HP7 0SJ,T,N,F,"Peartree Cottage, 8",,Bury Farm,,Amersham
+2023-08-03,640000,HP7 9BP,S,N,F,93,,Hundred Acres Lane,,Amersham
+2023-08-02,530000,HP7 9ER,T,N,F,111,,Quarrendon Road,,Amersham
+2023-07-31,397500,HP7 9JR,T,N,F,95,,White Lion Road,,Amersham
+2023-07-27,262500,HP7 0QN,T,N,L,13,,Chancellors,Penn Street,Amersham
+2023-07-20,372500,HP7 0BA,F,N,L,9,,Quickberry Place,,Amersham
+2023-07-18,282000,HP7 0AP,F,N,L,Gilbert Scott Court,7,Whielden Street,,Amersham
+2023-07-17,1760000,HP7 9AZ,D,N,F,4,,Westanley Avenue,,Amersham
+2023-07-14,765000,HP7 9EJ,S,N,F,60,,Sheepfold Lane,,Amersham
+2023-07-14,1655000,HP7 0PN,D,N,F,Three Ways,,The Common,Winchmore Hill,Amersham
+2023-07-06,666666,HP7 9FA,S,N,F,5,,Abrahams Close,,Amersham
+2023-07-03,332500,HP7 9JR,T,N,F,93,,White Lion Road,,Amersham
+2023-06-29,365000,HP7 0AJ,F,N,L,1,,Parsonage Place,,Amersham
+2023-06-26,92000,HP7 9LS,F,N,L,Lea Court,1,Orchard End Avenue,,Amersham
+2023-06-23,620000,HP7 0NS,S,N,F,Jasmine Cottage,,Coleshill Lane,Winchmore Hill,Amersham
+2023-06-16,880000,HP7 9BX,D,N,F,57,,Hundred Acres Lane,,Amersham
+2023-06-16,1850000,HP7 0PX,D,N,F,Peartree & Miles,,Penn Street,,Amersham
+2023-06-15,535000,HP7 9NP,T,N,F,76,,St Nicholas Close,,Amersham
+2023-06-08,850000,HP7 9QN,T,N,F,1,,Shenstone Cottages,,Amersham
+2023-06-06,1075000,HP7 0BN,T,N,F,11,,Highover Park,,Amersham
+2023-06-01,625000,HP7 9NX,S,N,F,25,,Loudhams Road,,Amersham
+2023-05-31,798000,HP7 9AR,S,N,F,40,,The Meadows,,Amersham
+2023-05-26,640000,HP7 9NS,D,N,F,37,,Beel Close,,Amersham
+2023-05-26,1100000,HP7 0EG,S,N,F,Coach House Barn,,High Street,,Amersham
+2023-05-26,985000,HP7 0EG,S,N,F,146,,High Street,,Amersham
+2023-05-19,760000,HP7 0BE,S,N,F,12,,Station Road,,Amersham
+2023-05-16,827500,HP7 9DH,S,N,F,Penny Piece,,London Road East,,Amersham
+2023-05-12,850000,HP7 9DW,D,N,F,"The Jays, 3A",,Willow Lane,,Amersham
+2023-05-11,615000,HP7 9FE,S,N,F,12,,High View Place,,Amersham
+2023-05-04,754500,HP7 0BB,S,N,F,59A,,Station Road,,Amersham
+2023-05-03,415000,HP7 0NX,T,N,F,The Row,11,The Hill,Winchmore Hill,Amersham
+2023-04-28,1350000,HP7 0HP,D,N,F,14,,The Broadway,,Amersham
+2023-04-28,450000,HP7 0AR,F,N,L,Gilbert Scott Court,71,Whielden Street,,Amersham
+2023-04-24,1215000,HP7 9JP,D,N,F,30,,Orchard End Avenue,,Amersham
+2023-04-24,770000,HP7 9HY,D,N,F,5,,Lime Tree Walk,,Amersham
+2023-04-21,687200,HP7 0HL,F,N,L,"Chiltern Place, 59 - 61",Flat 2,The Broadway,,Amersham
+2023-04-19,495000,HP7 0EW,T,N,F,16,,Thornhill Close,,Amersham
+2023-04-11,1415000,HP7 9BB,D,N,F,52,,Stanley Hill Avenue,,Amersham
+2023-04-05,660000,HP7 0NX,T,N,F,The Row,1,The Hill,Winchmore Hill,Amersham
+2023-04-05,425000,HP7 0AR,F,N,L,Gilbert Scott Court,52,Whielden Street,,Amersham
+2023-03-24,795000,HP7 0JZ,S,N,F,Rushymead Cottage,2,Beaconsfield Road,Coleshill,Amersham
+2023-03-09,651000,HP7 9NP,T,N,F,70,,St Nicholas Close,,Amersham
+2023-03-03,526500,HP7 9JU,T,N,F,3,,White Lion Close,,Amersham
+2023-03-02,665000,HP7 9DH,D,N,F,Glenside,,London Road East,,Amersham
+2023-02-27,460000,HP7 0DA,F,N,L,Badminton House,Flat 11,Church Street,,Amersham
+2023-02-24,488000,HP7 0EB,T,N,F,189,,High Street,,Amersham
+2023-02-23,600000,HP7 0AH,T,N,F,121,,Station Road,,Amersham
+2023-02-22,861000,HP7 9NZ,D,N,F,2,,Ashmead Place,Little Chalfont,Amersham
+2023-02-17,721000,HP7 9EA,S,N,F,6,,Hundred Acres Lane,,Amersham
+2023-02-17,575000,HP7 0SJ,S,N,F,3,,Bury Farm,,Amersham
+2023-02-14,575000,HP7 0PX,T,N,F,2 Penwood View,,Penn Street,,Amersham
+2023-02-09,760000,HP7 9NT,S,N,F,6,,Clayton Walk,,Amersham
+2023-02-09,875000,HP7 9AG,D,N,F,2,,The Rise,,Amersham
+2023-01-31,655000,HP7 0RL,F,N,L,Shardeloes,18,Missenden Road,,Amersham
+2023-01-27,681830,HP7 9BW,S,N,F,36,,Pomeroy Close,,Amersham
+2023-01-25,850000,HP7 9BN,D,N,F,86,,Hundred Acres Lane,,Amersham
+2023-01-18,775000,HP7 9BJ,S,N,F,18,,First Avenue,,Amersham
+2023-01-17,860000,HP7 0PB,S,N,F,5,,Nelson Close,Winchmore Hill,Amersham
+2022-12-21,560000,HP7 0RB,T,N,F,10,,Highmore Cottages,Little Missenden,Amersham
+2022-12-21,850000,HP7 0BG,S,N,F,21,,Station Road,,Amersham
+2022-12-19,876000,HP7 9EA,S,N,F,18,,Hundred Acres Lane,,Amersham
+2022-12-13,465000,HP7 0LW,T,N,F,9,,Amber Cottages,Coleshill,Amersham
+2022-12-12,870000,HP7 0EZ,D,N,F,6,,London Road West,,Amersham
+2022-12-09,781000,HP7 9EJ,S,N,F,36,,Sheepfold Lane,,Amersham
+2022-12-09,1024750,HP7 9AU,D,N,F,12,,Highland Road,,Amersham
+2022-12-06,899950,HP7 0DB,S,N,F,21,,Church Street,,Amersham
+2022-12-02,325000,HP7 0NU,F,N,L,18,,Pond Close,Winchmore Hill,Amersham
+2022-11-30,1250000,HP7 9BB,D,N,F,28,,Stanley Hill Avenue,,Amersham
+2022-11-30,2500000,HP7 0RG,D,N,F,Mill House,,,Little Missenden,Amersham
+2022-11-30,307000,HP7 0EW,T,N,F,5,,Thornhill Close,,Amersham
+2022-11-30,2500000,HP7 0BT,D,N,F,Meadow Barn,,Rectory Hill,,Amersham
+2022-11-29,295000,HP7 9PG,F,N,L,26,,Derwent Close,,Amersham
+2022-11-29,1110000,HP7 9AB,D,N,F,6,,Hazell Park,,Amersham
+2022-11-28,625000,HP7 9FA,T,N,F,26,,Abrahams Close,,Amersham
+2022-11-28,760000,HP7 0PB,S,N,F,10,,Nelson Close,Winchmore Hill,Amersham
+2022-11-22,715000,HP7 0JJ,S,N,F,18,,Fieldway,,Amersham
+2022-11-17,1165000,HP7 9BG,D,N,F,12,,Cedar Grove,,Amersham
+2022-11-09,355000,HP7 9NF,F,N,L,48,,Applefield,,Amersham
+2022-11-09,380000,HP7 0ER,F,N,L,7,,Pondwicks,,Amersham
+2022-11-07,1190000,HP7 9DL,D,N,F,The Firs,,London Road East,,Amersham
+2022-11-07,1912500,HP7 9BB,D,N,F,57,,Stanley Hill Avenue,,Amersham
+2022-11-03,520000,HP7 0NH,S,N,F,Garden Cottages,2,The Hill,Winchmore Hill,Amersham
+2022-11-02,775000,HP7 9EZ,D,N,F,11,,Lincoln Park,,Amersham
+2022-11-02,540650,HP7 0NX,T,N,F,The Row,8,The Hill,Winchmore Hill,Amersham
+2022-11-01,750000,HP7 9EL,S,N,F,24,,Sheepfold Lane,,Amersham
+2022-11-01,808802,HP7 9DZ,S,N,F,21,,Acres End,,Amersham
+2022-10-28,650000,HP7 9BL,S,N,F,28,,First Avenue,,Amersham
+2022-10-28,895000,HP7 0EB,T,N,F,155,,High Street,,Amersham
+2022-10-28,2500000,HP7 0BT,D,N,F,Valley View Barn,,Rectory Hill,,Amersham
+2022-10-27,850000,HP7 9HP,S,N,F,23,,Stanley Hill,,Amersham
+2022-10-27,485000,HP7 0EB,T,N,F,185,,High Street,,Amersham
+2022-10-21,638000,HP7 9DX,S,N,F,27,,Hillside Gardens,,Amersham
+2022-10-21,1562000,HP7 9BB,D,N,F,36,,Stanley Hill Avenue,,Amersham
+2022-10-21,675000,HP7 0HL,F,N,L,"Chiltern Place, 59 - 61",Flat 11,The Broadway,,Amersham
+2022-10-20,760000,HP7 9HJ,S,N,F,63,,The Ridgeway,,Amersham
+2022-10-20,1355000,HP7 9EU,D,N,F,"Greenway, 209",,Stanley Hill,,Amersham
+2022-10-14,705000,HP7 0RL,F,N,L,Shardeloes,11,Missenden Road,,Amersham
+2022-10-14,290000,HP7 0NU,F,N,L,14,,Pond Close,Winchmore Hill,Amersham
+2022-10-14,445000,HP7 0EN,F,N,L,Elmodesham House,2,High Street,,Amersham
+2022-10-12,650000,HP7 9JA,S,N,F,14,,Little Reeves Avenue,,Amersham
+2022-10-11,1375000,HP7 9HR,D,N,F,14,,Stanley Hill,,Amersham
+2022-10-07,445000,HP7 0HT,T,N,F,10,,Whielden Street,,Amersham
+2022-10-07,412500,HP7 0EP,F,N,L,24,,Pondwicks,,Amersham
+2022-10-07,385000,HP7 0DP,D,N,L,31A,,High Street,,Amersham
+2022-09-30,493000,HP7 9ER,T,N,F,113,,Quarrendon Road,,Amersham
+2022-09-30,1130000,HP7 0PQ,S,N,F,Farm Cottage,,Fagnall Lane,Winchmore Hill,Amersham
+2022-09-30,672000,HP7 0HL,F,N,L,"Chiltern Place, 59 - 61",Flat 1,The Broadway,,Amersham
+2022-09-28,1411000,HP7 9BB,D,N,F,41,,Stanley Hill Avenue,,Amersham
+2022-09-28,500000,HP7 0QZ,D,N,F,Oak Meadow Barn,,,Little Missenden,Amersham
+2022-09-23,2350000,HP7 0LB,D,N,F,Red Cottage,,Tower Road,Coleshill,Amersham
+2022-09-22,378000,HP7 0NX,T,N,F,The Row,13,The Hill,Winchmore Hill,Amersham
+2022-09-16,605000,HP7 0JG,S,N,F,15,,Piggotts Orchard,,Amersham
+2022-09-15,1025000,HP7 9HG,S,N,L,135,,Lincoln Park,,Amersham
+2022-09-15,1200000,HP7 0LU,D,N,F,Bowers Cottage,,Magpie Lane,Coleshill,Amersham
+2022-09-14,620000,HP7 9NS,D,N,F,36,,Beel Close,,Amersham
+2022-09-09,850000,HP7 0RL,F,N,L,Shardeloes,5,Missenden Road,,Amersham
+2022-09-09,875000,HP7 0PB,S,N,F,3,,Nelson Close,Winchmore Hill,Amersham
+2022-09-09,411000,HP7 0HL,F,N,L,"Chiltern Place, 59 - 61",Flat 3,The Broadway,,Amersham
+2022-09-07,2250000,HP7 0LG,D,N,F,Coleshill Cottage,1,Village Road,Coleshill,Amersham
+2022-09-05,866000,HP7 9BJ,D,N,F,10,,First Avenue,,Amersham
+2022-09-05,368700,HP7 0BA,F,N,L,9,,Quickberry Place,,Amersham
+2022-09-02,1140000,HP7 0NR,D,N,F,Peronne,,Coleshill Lane,Winchmore Hill,Amersham
+2022-09-02,570000,HP7 0NF,S,N,F,5,,Whielden Lane,Winchmore Hill,Amersham
+2022-08-26,1028000,HP7 9HT,D,N,F,4,,Winchester Close,,Amersham
+2022-08-25,910000,HP7 9BL,S,N,F,42,,First Avenue,,Amersham
+2022-08-25,610000,HP7 0BS,F,N,L,Rectory Court,2,Rectory Way,,Amersham
+2022-08-17,727000,HP7 9HF,D,N,F,119,,Lincoln Park,,Amersham
+2022-08-15,395000,HP7 9JQ,F,N,L,69,,White Lion Road,,Amersham
+2022-08-12,418000,HP7 9LZ,S,N,F,11,,Dane Close,,Amersham
+2022-08-12,950000,HP7 9JP,D,N,F,38,,Orchard End Avenue,,Amersham
+2022-08-11,850000,HP7 9PX,D,N,F,Eleven,,Village Way,,Amersham
+2022-08-11,935000,HP7 0BE,D,N,F,34,,Station Road,,Amersham
+2022-08-08,1830000,HP7 0SJ,D,N,F,9,,Bury Farm,,Amersham
+2022-08-03,2095000,HP7 9PU,D,N,F,Gable Cottage,,Village Way,Little Chalfont,Amersham
+2022-08-03,1111500,HP7 0DJ,T,N,F,50,,High Street,,Amersham
+2022-08-01,1050000,HP7 0BD,D,N,F,60,,Station Road,,Amersham
+2022-07-28,1150000,HP7 0BN,D,N,F,4,,Highover Park,,Amersham
+2022-07-25,328000,HP7 9NJ,F,N,L,35,,Cumberland Close,,Amersham
+2022-07-22,1200000,HP7 0LT,S,N,F,Crosspath Cottages,4,Magpie Lane,Coleshill,Amersham
+2022-07-13,222500,HP7 9DN,F,N,L,The Appleyard,Flat 1,Bramble Lane,,Amersham
+2022-07-13,670000,HP7 0LT,T,N,F,Crosspath Cottages,2,Magpie Lane,Coleshill,Amersham
+2022-07-13,917000,HP7 0LJ,S,N,F,7,,Manor Way,Coleshill,Amersham
+2022-07-11,545000,HP7 0PX,S,N,F,Pennwood View,10,Penn Street,,Amersham
+2022-07-08,1680000,HP7 9PU,D,N,F,Cherrywood,,Village Way,,Amersham
+2022-07-08,650000,HP7 9NH,T,N,F,11,,Cumberland Close,,Amersham
+2022-07-05,1450000,HP7 9AX,D,N,F,32,,Highland Road,,Amersham
+2022-07-01,795000,HP7 0BY,T,N,F,5,,Diamond Court,,Amersham
+2022-06-22,747633,HP7 0SJ,S,N,F,"Mulberry Cottage, 13",,Bury Farm,,Amersham
+2022-06-16,1720000,HP7 9PU,D,N,F,Shortmead,,Village Way,Little Chalfont,Amersham
+2022-06-10,732500,HP7 9EL,S,N,F,29,,Sheepfold Lane,,Amersham
+2022-06-08,738000,HP7 9QR,D,N,F,Beel Lodge,,White Lion Road,,Amersham
+2022-06-06,710000,HP7 9BP,S,N,F,68,,Hundred Acres Lane,,Amersham
+2022-06-01,1755000,HP7 0PN,D,N,F,The Garden House,,The Common,Winchmore Hill,Amersham
+2022-05-31,400000,HP7 0AB,F,N,L,Turret House,Second Floor,The Avenue,,Amersham
+2022-05-27,850000,HP7 0QN,S,N,F,22,,Chancellors,Penn Street,Amersham
+2022-05-19,415000,HP7 0DT,F,N,L,101B,,High Street,,Amersham
+2022-05-19,550000,HP7 0DT,F,N,L,101A,,High Street,,Amersham
+2022-05-13,550000,HP7 9BP,S,N,F,91,,Hundred Acres Lane,,Amersham
+2022-05-12,817000,HP7 9NR,T,N,F,184,,White Lion Road,,Amersham
+2022-05-11,801000,HP7 9EX,D,N,F,18,,Salisbury Close,,Amersham
+2022-05-10,860000,HP7 9EF,S,N,F,25,,Quarrendon Road,,Amersham
+2022-05-05,758900,HP7 9EJ,S,N,F,48,,Sheepfold Lane,,Amersham
+2022-05-03,400000,HP7 0AR,F,N,L,Gilbert Scott Court,40,Whielden Street,,Amersham
+2022-04-28,725000,HP7 0HT,T,N,F,26,,Whielden Street,,Amersham
+2022-04-22,810000,HP7 9AP,T,N,F,5,,Highland Road,,Amersham
+2022-04-22,1235000,HP7 0AZ,D,N,F,Micklegate,,Beech Grove,,Amersham
+2022-04-22,587500,HP7 0AP,S,N,L,Gilbert Scott Court,24,Whielden Street,,Amersham
+2022-04-20,880000,HP7 9EW,S,N,F,34,,Black Acre Close,,Amersham
+2022-04-11,490000,HP7 0QN,T,N,F,6,,Chancellors,Penn Street,Amersham
+2022-04-08,775750,HP7 0PA,T,N,F,Hill Cottage,,The Hill,Winchmore Hill,Amersham
+2022-03-25,870000,HP7 9QT,D,N,L,8,,Snells Wood Court,Little Chalfont,Amersham
+2022-03-23,351000,HP7 9NF,F,N,L,51,,Applefield,,Amersham
+2022-03-21,616000,HP7 9EL,S,N,F,23,,Sheepfold Lane,,Amersham
+2022-03-18,600000,HP7 0HU,T,N,F,15,,Whielden Street,,Amersham
+2022-03-16,840000,HP7 0NJ,T,N,F,Rose Cottages,4,The Hill,Winchmore Hill,Amersham
+2022-03-15,327500,HP7 9PN,F,N,L,The Old Warehouse,Flat 6,Chalfont Station Road,,Amersham
+2022-03-11,362000,HP7 0AP,F,N,L,Gilbert Scott Court,3,Whielden Street,,Amersham
+2022-03-09,565000,HP7 9JN,S,N,F,2,,Pineapple Road,,Amersham
+2022-03-07,1525000,HP7 9QJ,D,N,F,Charnwood,,Snells Lane,,Amersham
+2022-03-04,1250000,HP7 0ED,T,N,F,106,,High Street,,Amersham
+2022-03-01,265000,HP7 9EN,F,N,L,2A,,Longwood Lane,,Amersham
+2022-02-28,773000,HP7 9HD,S,N,F,"Chiltern Mews, 44",3,Lincoln Park,,Amersham
+2022-02-21,1150000,HP7 0PX,D,N,F,Copestakes,,Penn Street,,Amersham
+2022-02-15,675000,HP7 0HL,F,N,L,"Chiltern Place, 59 - 61",Flat 30,The Broadway,,Amersham
+2022-02-15,610000,HP7 0AB,S,N,F,"Fairview, 6",,The Avenue,,Amersham
+2022-02-11,260000,HP7 9PD,F,N,L,22,,Arbour View,,Amersham
+2022-02-11,945000,HP7 0LJ,D,N,F,4,,Manor Way,Coleshill,Amersham
+2022-02-11,835000,HP7 0BB,S,N,F,49,,Station Road,,Amersham
+2022-02-10,750000,HP7 9HA,D,N,F,5,,Canterbury Close,,Amersham
+2022-02-02,2400000,HP7 0QH,D,N,F,Woodrow Farm Cottage,,,Woodrow,Amersham
+2022-02-02,435000,HP7 0AR,F,N,L,Gilbert Scott Court,95,Whielden Street,,Amersham
+2022-01-31,1550000,HP7 0DJ,D,N,F,26,,High Street,,Amersham
+2022-01-28,740000,HP7 9EL,S,N,F,18,,Sheepfold Lane,,Amersham
+2022-01-27,1610000,HP7 0PG,D,N,F,Woodcot,,Fagnall Lane,Winchmore Hill,Amersham
+2022-01-24,950000,HP7 0PQ,S,N,F,Fagnall Cottage,,Fagnall Lane,Winchmore Hill,Amersham
+2022-01-11,1187500,HP7 9PU,D,N,F,The Bynn,,Village Way,Little Chalfont,Amersham
+2022-01-06,910000,HP7 9JS,D,N,F,58,,White Lion Road,,Amersham
+2022-01-05,900000,HP7 9EY,D,N,F,183,,Stanley Hill,,Amersham
+2021-12-23,320000,HP7 0DA,F,N,L,Badminton House,Flat 11,Church Street,,Amersham
+2021-12-22,428000,HP7 0AP,F,N,L,Gilbert Scott Court,12,Whielden Street,,Amersham
+2021-12-21,355000,HP7 9EW,S,N,F,21,,Black Acre Close,,Amersham
+2021-12-17,645000,HP7 0HL,F,N,L,"Chiltern Place, 59 - 61",Flat 7,The Broadway,,Amersham
+2021-12-15,280000,HP7 9PG,F,N,L,3,,Derwent Close,,Amersham
+2021-12-15,525000,HP7 0PX,T,N,F,Pennwood View,3,Penn Street,,Amersham
+2021-12-14,330000,HP7 0BA,F,N,L,6,,Quickberry Place,,Amersham
+2021-12-10,790000,HP7 9EZ,D,N,F,27,,Lincoln Park,,Amersham
+2021-12-10,651750,HP7 9DQ,S,N,F,37,,Chequers Hill,,Amersham
+2021-12-10,568000,HP7 0DS,F,N,F,78,,High Street,,Amersham
+2021-12-09,1410000,HP7 0QJ,D,N,F,Wedgewood Cottage,,School Lane,Penn Street,Amersham
+2021-12-09,720000,HP7 0NY,T,N,F,Opposite The Row,3,The Hill,Winchmore Hill,Amersham
+2021-12-06,262500,HP7 9FD,F,N,L,1,,Meadow Bank Close,,Amersham
+2021-11-30,570000,HP7 9NH,S,N,F,9,,Cumberland Close,,Amersham
+2021-11-26,1000000,HP7 9BA,D,N,F,69,,Stanley Hill Avenue,,Amersham
+2021-11-26,595000,HP7 0PH,S,N,F,Kiln Cottages,1,Fagnall Lane,Winchmore Hill,Amersham
+2021-11-26,695000,HP7 0BP,T,N,F,47,,Highover Park,,Amersham
+2021-11-25,680000,HP7 9DQ,S,N,F,41,,Chequers Hill,,Amersham
+2021-11-25,520000,HP7 0HU,T,N,F,42,,Whielden Street,,Amersham
+2021-11-23,295000,HP7 9PZ,F,N,L,2A,,Nightingales Corner,,Amersham
+2021-11-23,654000,HP7 9NW,S,N,F,10,,St Nicholas Close,,Amersham
+2021-11-18,582000,HP7 9EH,S,N,F,48,,Quarrendon Road,,Amersham
+2021-11-12,1025000,HP7 9NY,D,N,F,Laurel House,,Loudhams Road,,Amersham
+2021-11-03,207720,HP7 9JD,F,N,L,18,Flat 5,White Lion Road,,Amersham
+2021-11-03,655000,HP7 0BD,S,N,F,66,,Station Road,,Amersham
+2021-10-29,630000,HP7 0RL,F,N,L,Shardeloes,8,Missenden Road,,Amersham
+2021-10-22,667000,HP7 9EL,S,N,F,17,,Sheepfold Lane,,Amersham
+2021-10-15,985000,HP7 9BL,D,N,F,37,,First Avenue,,Amersham
+2021-10-12,620000,HP7 9JB,S,N,F,41,,Little Reeves Avenue,,Amersham
+2021-09-30,288500,HP7 9NJ,F,N,L,34,,Cumberland Close,,Amersham
+2021-09-30,570000,HP7 9JP,T,N,F,8,,Orchard End Avenue,,Amersham
+2021-09-30,285000,HP7 0RB,F,N,L,14,,Highmore Cottages,Little Missenden,Amersham
+2021-09-30,905000,HP7 0JB,D,N,F,"Tylehurst, 63",,Whielden Street,,Amersham
+2021-09-28,178750,HP7 9NF,F,N,L,43,,Applefield,,Amersham
+2021-09-28,657000,HP7 0LR,D,N,F,Romany Cottage,,Village Road,Coleshill,Amersham
+2021-09-27,730000,HP7 9EA,S,N,F,24,,Hundred Acres Lane,,Amersham
+2021-09-27,675000,HP7 9AU,D,N,F,9,,Highland Road,,Amersham
+2021-09-24,335000,HP7 9EW,D,N,F,2,,Black Acre Close,,Amersham
+2021-09-23,910000,HP7 9HP,S,N,F,19,,Stanley Hill,,Amersham
+2021-09-22,670000,HP7 9HQ,S,N,F,115,,Stanley Hill,,Amersham
+2021-09-17,582000,HP7 9EL,S,N,F,16,,Sheepfold Lane,,Amersham
+2021-09-17,385000,HP7 0AD,F,N,L,Station Court,Flat 2,The Avenue,,Amersham
+2021-09-16,668000,HP7 9HH,S,N,F,93,,Stanley Hill,,Amersham
+2021-09-15,1195000,HP7 9BG,D,N,F,11,,Cedar Grove,,Amersham
+2021-09-14,857000,HP7 9AA,D,N,F,26,,The Drive,,Amersham
+2021-09-14,480000,HP7 0AH,T,N,F,119,,Station Road,,Amersham
+2021-09-10,650000,HP7 0NR,D,N,F,Dorma,,Coleshill Lane,Winchmore Hill,Amersham
+2021-09-10,680000,HP7 0NQ,S,N,F,71,,Whielden Lane,Winchmore Hill,Amersham
+2021-09-09,1350000,HP7 0QE,D,N,F,Greenfields Cottage,,Cherry Lane,,Amersham
+2021-09-02,1650000,HP7 0QE,D,N,F,Firtree House,,Cherry Lane,,Amersham
+2021-09-01,675000,HP7 9QT,F,N,L,22,,Snells Wood Court,Little Chalfont,Amersham
+2021-09-01,576000,HP7 9NH,T,N,F,4,,Cumberland Close,,Amersham
+2021-09-01,690000,HP7 0EG,T,N,F,160A,,High Street,,Amersham
+2021-08-27,1500000,HP7 9AU,D,N,F,10,,Highland Road,,Amersham
+2021-08-20,590000,HP7 9NH,T,N,F,8,,Cumberland Close,,Amersham
+2021-08-16,200000,HP7 9JD,F,N,L,18,Flat 3,White Lion Road,,Amersham
+2021-08-06,950000,HP7 9NY,D,N,F,Lorelli,,Loudhams Road,,Amersham
+2021-08-05,600000,HP7 9NP,T,N,F,80,,St Nicholas Close,,Amersham
+2021-08-05,1600000,HP7 0QT,D,N,F,Nield House,,Beamond End Lane,Beamond End,Amersham
+2021-08-02,675000,HP7 0EU,T,N,F,2,,Ward Place,,Amersham
+2021-08-02,290000,HP7 0AX,F,N,L,Martyrs Court,8,Station Road,,Amersham
+2021-07-30,1550000,HP7 0QX,S,N,F,Town Farm House,,,Little Missenden,Amersham
+2021-07-28,1600000,HP7 9PX,D,N,F,Hereford House,,Village Way,,Amersham
+2021-07-26,320000,HP7 9PH,S,N,L,14A,,Chenies Parade,,Amersham
+2021-07-26,1015000,HP7 9BG,D,N,F,5,,Cedar Grove,,Amersham
+2021-07-16,412500,HP7 9NL,F,N,L,"Manor View Court, 178",Flat 2,White Lion Road,Little Chalfont,Amersham
+2021-07-16,600000,HP7 9JN,S,N,F,8,,Pineapple Road,,Amersham
+2021-07-13,864000,HP7 9EX,D,N,F,6,,Salisbury Close,,Amersham
+2021-06-30,640000,HP7 9EL,S,N,F,21,,Sheepfold Lane,,Amersham
+2021-06-30,852500,HP7 9DT,S,N,F,Lilleshall,,London Road East,,Amersham
+2021-06-30,865000,HP7 9BL,S,N,F,"Anantham, 44A",,First Avenue,,Amersham
+2021-06-30,560200,HP7 0RQ,D,N,F,5,,Pipers Wood Cottages,Little Missenden,Amersham
+2021-06-30,364439,HP7 0EP,F,N,L,18,,Pondwicks,,Amersham
+2021-06-30,465000,HP7 0DS,T,N,F,90,,High Street,,Amersham
+2021-06-29,650000,HP7 9NE,T,N,F,6,,Finch Lane,,Amersham
+2021-06-29,436600,HP7 9LZ,S,N,F,26,,Dane Close,,Amersham
+2021-06-29,1450000,HP7 9FF,D,N,F,Glendevon,,Drovers Lane,,Amersham
+2021-06-29,750000,HP7 9EU,D,N,F,213,,Stanley Hill,,Amersham
+2021-06-29,710000,HP7 9EL,S,N,F,14,,Sheepfold Lane,,Amersham
+2021-06-29,390000,HP7 0NX,T,N,F,The Row,11,The Hill,Winchmore Hill,Amersham
+2021-06-29,950000,HP7 0LB,D,N,F,Springfield,,Tower Road,Coleshill,Amersham
+2021-06-28,545000,HP7 9ER,S,N,F,149,,Quarrendon Road,,Amersham
+2021-06-28,850000,HP7 0AT,D,N,F,75,,Station Road,,Amersham
+2021-06-28,400000,HP7 0AB,F,N,L,"Avenue House, 1A",Flat 2,The Avenue,,Amersham
+2021-06-25,280000,HP7 9EN,S,N,L,2,,Longwood Lane,,Amersham
+2021-06-25,935000,HP7 9AJ,D,N,F,39,,Batchelors Way,,Amersham
+2021-06-25,642000,HP7 0QZ,T,N,F,3,,Red Lion Cottages,Little Missenden,Amersham
+2021-06-25,666000,HP7 0HL,F,N,L,"Chiltern Place, 59 - 61",Flat 37,The Broadway,,Amersham
+2021-06-25,370000,HP7 0AP,F,N,L,Gilbert Scott Court,20,Whielden Street,,Amersham
+2021-06-24,805000,HP7 9AT,S,N,F,5,,The Meadows,,Amersham
+2021-06-23,685000,HP7 9BW,S,N,F,16,,Pomeroy Close,,Amersham
+2021-06-22,936200,HP7 9BD,D,N,F,27,,Stanley Hill Avenue,,Amersham
+2021-06-22,2000000,HP7 0ED,D,N,F,Town Farm Meadow,,High Street,,Amersham
+2021-06-21,851000,HP7 9QH,D,N,F,15,,Linfields,,Amersham
+2021-06-21,591666,HP7 0HU,S,N,F,50,,Whielden Street,,Amersham
+2021-06-21,310000,HP7 0AR,F,N,L,Gilbert Scott Court,48,Whielden Street,,Amersham
+2021-06-18,507500,HP7 9EH,S,N,F,58,,Quarrendon Road,,Amersham
+2021-06-14,737500,HP7 9FE,S,N,F,7,,High View Place,,Amersham
+2021-06-14,937770,HP7 9BN,D,N,F,100,,Hundred Acres Lane,,Amersham
+2021-06-11,725000,HP7 9QT,F,N,L,2,,Snells Wood Court,Little Chalfont,Amersham
+2021-06-11,685000,HP7 9HA,D,N,F,7,,Canterbury Close,,Amersham
+2021-06-11,550000,HP7 9EZ,T,N,F,16,,Lincoln Park,,Amersham
+2021-06-11,439000,HP7 0NY,T,N,F,Opposite The Row,2,The Hill,Winchmore Hill,Amersham
+2021-06-09,405000,HP7 0NL,T,N,F,3,,The Hill,Winchmore Hill,Amersham
+2021-06-04,900000,HP7 9BD,S,N,F,15,,Stanley Hill Avenue,,Amersham
+2021-06-04,875000,HP7 0DY,T,N,F,135,,High Street,,Amersham
+2021-06-01,516000,HP7 0JJ,S,N,F,40,,Fieldway,,Amersham
+2021-05-29,405000,HP7 0AR,F,N,L,Gilbert Scott Court,44,Whielden Street,,Amersham
+2021-05-28,562500,HP7 0HU,T,N,F,35,,Whielden Street,,Amersham
+2021-05-21,315000,HP7 9NJ,F,N,L,28,,Cumberland Close,,Amersham
+2021-05-21,530000,HP7 9EZ,T,N,F,12,,Lincoln Park,,Amersham
+2021-05-21,385000,HP7 9ER,S,N,F,95,,Quarrendon Road,,Amersham
+2021-05-21,1510000,HP7 0PY,D,N,F,The Pond House,,Penn Street,,Amersham
+2021-05-20,2200000,HP7 9PU,D,N,F,The Knoll,,Village Way,Little Chalfont,Amersham
+2021-05-18,545000,HP7 9NH,T,N,F,22,,Cumberland Close,,Amersham
+2021-05-14,630000,HP7 0PG,D,N,F,Anley,,Fagnall Lane,Winchmore Hill,Amersham
+2021-05-07,372500,HP7 9TB,T,N,F,1,,Pear Tree Close,,Amersham
+2021-05-07,240000,HP7 9BS,F,N,L,1A,,Highmoor,,Amersham
+2021-04-30,675000,HP7 9QT,F,N,L,14,,Snells Wood Court,Little Chalfont,Amersham
+2021-04-30,500000,HP7 0PX,S,N,F,Pennwood View,8,Penn Street,,Amersham
+2021-04-30,565000,HP7 0PH,S,N,F,Kiln Cottages,3,Fagnall Lane,Winchmore Hill,Amersham
+2021-04-29,1700000,HP7 0LS,D,N,F,Nightingales,,Magpie Lane,Coleshill,Amersham
+2021-04-26,310000,HP7 9JR,T,N,F,95,,White Lion Road,,Amersham
+2021-04-23,795000,HP7 9EA,S,N,F,14,,Hundred Acres Lane,,Amersham
+2021-04-13,700000,HP7 9HD,S,N,F,"Chiltern Mews, 44",3,Lincoln Park,,Amersham
+2021-04-12,890000,HP7 0QT,D,N,F,Flint Cottage,,Beamond End Lane,Beamond End,Amersham
+2021-04-09,925000,HP7 9FA,D,N,F,14,,Abrahams Close,,Amersham
+2021-04-09,615000,HP7 9FA,S,N,F,10,,Abrahams Close,,Amersham
+2021-04-09,1155000,HP7 0DP,T,N,F,27,,High Street,,Amersham
+2021-04-09,625000,HP7 0BP,D,N,F,49,,Highover Park,,Amersham
+2021-04-07,848500,HP7 9EN,D,N,F,44,,Longwood Lane,,Amersham
+2021-04-07,975550,HP7 9AG,D,N,F,"Westlands, 4",,The Rise,,Amersham
+2021-04-06,1085000,HP7 0AZ,D,N,F,Wivenhoe,,Beech Grove,,Amersham
+2021-04-01,225000,HP7 9BT,F,N,L,25,,Woodley Court,,Amersham
+2021-03-31,280000,HP7 9PH,F,N,L,2A,,Chenies Parade,,Amersham
+2021-03-31,1200000,HP7 0PX,D,N,F,Forge House,,,Penn Street,Amersham
+2021-03-30,272500,HP7 0AF,F,N,L,Franklin Court,Flat 7,Station Road,,Amersham
+2021-03-29,449500,HP7 9EW,S,N,F,27,,Black Acre Close,,Amersham
+2021-03-29,1400000,HP7 0HU,T,N,F,46,,Whielden Street,,Amersham
+2021-03-26,575000,HP7 9QT,F,N,L,39,,Snells Wood Court,Little Chalfont,Amersham
+2021-03-26,600000,HP7 9EH,D,N,F,57,,Quarrendon Road,,Amersham
+2021-03-26,778850,HP7 9DQ,D,N,F,9,,Chequers Hill,,Amersham
+2021-03-25,1775000,HP7 0EB,T,N,F,147,,High Street,,Amersham
+2021-03-24,315000,HP7 9PE,F,N,L,Belle Court,6,Bell Lane,,Amersham
+2021-03-23,450000,HP7 9JA,T,N,F,47,,Little Reeves Avenue,,Amersham
+2021-03-23,625000,HP7 0BZ,D,N,F,4A,,Ruckles Way,,Amersham
+2021-03-22,625000,HP7 9DW,D,N,F,11,,Willow Lane,,Amersham
+2021-03-22,460000,HP7 0JJ,T,N,F,50,,Fieldway,,Amersham
+2021-03-19,655000,HP7 0HU,S,N,F,40,,Whielden Street,,Amersham
+2021-03-17,906000,HP7 0AZ,D,N,F,Beech Cottage,,Beech Grove,,Amersham
+2021-03-15,629000,HP7 9QT,F,N,L,31,,Snells Wood Court,Little Chalfont,Amersham
+2021-03-15,975000,HP7 0PG,D,N,F,Prospect Place,,Fagnall Lane,Winchmore Hill,Amersham
+2021-03-12,625000,HP7 9DL,S,N,F,Highway Cottage,,London Road East,,Amersham
+2021-03-12,760000,HP7 0LB,F,N,L,Coleshill House,Flat 1,Tower Road,Coleshill,Amersham
+2021-03-12,1038000,HP7 0HT,D,N,F,5A,,Whielden Street,,Amersham
+2021-03-05,582000,HP7 9NQ,D,N,F,154,,White Lion Road,,Amersham
+2021-03-03,619950,HP7 9EJ,S,N,F,46,,Sheepfold Lane,,Amersham
+2021-03-03,700000,HP7 9DH,S,N,F,Underwood,,London Road East,,Amersham
+2021-03-03,535500,HP7 0NF,S,N,F,4,,Whielden Lane,Winchmore Hill,Amersham
+2021-03-02,503000,HP7 9JZ,S,N,F,3,,Prospect Cottages,,Amersham
+2021-02-26,270000,HP7 9PG,F,N,L,18,,Derwent Close,,Amersham
+2021-02-26,265000,HP7 9PD,F,N,L,14,,Arbour View,,Amersham
+2021-02-26,532000,HP7 9EJ,S,N,F,47,,Sheepfold Lane,,Amersham
+2021-02-26,550000,HP7 9EH,S,N,F,50,,Quarrendon Road,,Amersham
+2021-02-26,1260000,HP7 9AX,D,N,F,41,,Highland Road,,Amersham
+2021-02-26,571000,HP7 0LF,D,N,F,7,,Hill Meadow,Coleshill,Amersham
+2021-02-25,735000,HP7 0JN,D,N,F,Orchard House,,Gore Hill,,Amersham
+2021-02-24,355000,HP7 0AX,F,N,L,Martyrs Court,2,Station Road,,Amersham
+2021-02-23,391250,HP7 9BY,T,N,F,17,,West Acres,,Amersham
+2021-02-23,1200000,HP7 9AQ,D,N,F,1,,Batchelors Way,,Amersham
+2021-02-19,495000,HP7 0QW,S,N,F,2,,Amersham Road,Penn Street,Amersham
+2021-02-18,850000,HP7 0EG,S,N,F,146,,High Street,,Amersham
+2021-02-16,952551,HP7 9AB,D,N,F,32,,Hazell Park,,Amersham
+2021-02-16,635000,HP7 0AP,T,N,L,Gilbert Scott Court,36,Whielden Street,,Amersham
+2021-02-12,575000,HP7 9JB,S,N,F,40,,Little Reeves Avenue,,Amersham
+2021-02-12,330000,HP7 0EP,F,N,L,18,,Pondwicks,,Amersham
+2021-02-12,1200000,HP7 0AZ,D,N,F,Highview,,Beech Grove,,Amersham
+2021-02-11,570000,HP7 0PG,D,N,F,Glendale,,Fagnall Lane,Winchmore Hill,Amersham
+2021-02-11,750000,HP7 0PB,S,N,F,8,,Nelson Close,Winchmore Hill,Amersham
+2021-02-10,630000,HP7 0NY,S,N,F,Springfield,,The Hill,Winchmore Hill,Amersham
+2021-02-04,936000,HP7 9AE,S,N,F,7,,The Green,,Amersham
+2021-02-02,615000,HP7 9HX,S,N,F,7,,White Lion Road,,Amersham
+2021-01-29,567500,HP7 9EZ,T,N,L,8,,Lincoln Park,,Amersham
+2021-01-29,615202,HP7 9EA,S,N,F,17,,Hundred Acres Lane,,Amersham
+2021-01-29,2250000,HP7 0EG,D,N,F,164,,High Street,,Amersham
+2021-01-27,820000,HP7 9JU,D,N,F,10,,White Lion Close,,Amersham
+2021-01-27,435000,HP7 9HZ,T,N,F,33,,White Lion Road,,Amersham
+2021-01-26,750000,HP7 9HJ,S,N,F,57,,The Ridgeway,,Amersham
+2021-01-22,585000,HP7 9EF,S,N,F,29,,Quarrendon Road,,Amersham
+2021-01-22,415000,HP7 0NA,T,N,F,Orchard Cottages,3,The Hill,Winchmore Hill,Amersham
+2021-01-22,309750,HP7 0AU,F,N,L,4,,Spinney Place,,Amersham
+2021-01-15,1700000,HP7 0LS,D,N,F,Burwood,,Magpie Lane,Coleshill,Amersham
+2021-01-15,2650000,HP7 0LQ,D,N,F,Ashdown House,,Village Road,Coleshill,Amersham
+2021-01-15,417000,HP7 0AP,F,N,L,Gilbert Scott Court,18,Whielden Street,,Amersham
+2021-01-14,750000,HP7 9BX,D,N,F,85,,Hundred Acres Lane,,Amersham
+2021-01-12,665000,HP7 9FA,D,N,F,18,,Abrahams Close,,Amersham
+2021-01-12,494000,HP7 0JQ,S,N,F,35,,Piggotts Orchard,,Amersham
+2021-01-12,580000,HP7 0DS,T,N,F,88,,High Street,,Amersham
+2021-01-08,585000,HP7 9NX,D,N,F,33,,Loudhams Road,,Amersham
+2021-01-08,585000,HP7 9DX,S,N,F,57,,Hillside Gardens,,Amersham
+2021-01-08,690000,HP7 0PN,D,N,F,Whitehaven,,The Common,Winchmore Hill,Amersham

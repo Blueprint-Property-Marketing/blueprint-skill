@@ -1,0 +1,1341 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-24,785000,CM22 6GU,D,N,F,25,,Isabel Drive,Elsenham,Bishop's Stortford
+2026-08-14,475000,CM22 6RJ,D,N,F,3,,Garnetts,Takeley,Bishop's Stortford
+2026-08-14,535000,CM22 6LU,D,N,F,27,,The Croft,Elsenham,Bishop's Stortford
+2026-08-07,387500,CM22 7TG,D,N,F,Red Brick House,,Start Hill,,Bishop's Stortford
+2026-08-06,405000,CM22 7AW,T,N,F,Ardley End Cottage,,Ardley End,Hatfield Heath,Bishop's Stortford
+2026-08-03,482500,CM22 7AH,S,N,F,8,,Ardley Crescent,Hatfield Heath,Bishop's Stortford
+2026-08-03,555000,CM22 6AB,S,N,F,34,,Mill Road,Henham,Bishop's Stortford
+2026-07-31,225000,CM22 6GB,T,N,L,17,,Oak Drive,Elsenham,Bishop's Stortford
+2026-07-29,545000,CM22 6SL,D,N,F,Bella View,,Dunmow Road,Takeley,Bishop's Stortford
+2026-07-28,410000,CM22 6GU,D,N,F,3,,Isabel Drive,Elsenham,Bishop's Stortford
+2026-07-24,460000,CM22 7QY,S,N,F,6,,Grinstead Lane,Little Hallingbury,Bishop's Stortford
+2026-07-21,550000,CM22 6TJ,D,N,F,18,,The Pastures,Takeley,Bishop's Stortford
+2026-07-14,415000,CM22 6DQ,T,N,F,54,,Hailes Wood,Elsenham,Bishop's Stortford
+2026-07-06,375000,CM22 6UF,S,N,F,13,,Franklin Drive,Elsenham,Bishop's Stortford
+2026-07-06,460000,CM22 6LD,T,N,F,20,,Broom Farm Road,Elsenham,Bishop's Stortford
+2026-07-06,400000,CM22 6DQ,S,N,F,44B,,Hailes Wood,Elsenham,Bishop's Stortford
+2026-07-03,800000,CM22 7RA,D,N,F,Brook House,,Lower Road,Little Hallingbury,Bishop's Stortford
+2026-07-03,925000,CM22 7HT,D,N,F,Cage End House,,Cage End,Hatfield Broad Oak,Bishop's Stortford
+2026-06-30,515000,CM22 7PT,S,N,F,4,,George Green Villas,Little Hallingbury,Bishop's Stortford
+2026-06-29,580000,CM22 7JB,D,N,F,18,,Medlars Mead,Hatfield Broad Oak,Bishop's Stortford
+2026-06-29,380000,CM22 6HD,S,N,F,18,,Alsa Gardens,Elsenham,Bishop's Stortford
+2026-06-29,520000,CM22 6GX,D,N,F,37,,Barley Way,Elsenham,Bishop's Stortford
+2026-06-26,515000,CM22 6EB,S,N,F,Major Oak,,Robin Hood Road,Elsenham,Bishop's Stortford
+2026-06-19,370000,CM22 6EL,S,N,F,39,,Glebe End,Elsenham,Bishop's Stortford
+2026-06-18,372500,CM22 6LN,T,N,F,Hill Croft Cottages,1,Molehill Green,Takeley,Bishop's Stortford
+2026-06-12,470000,CM22 6QZ,S,N,F,25,,Roseacres,Takeley,Bishop's Stortford
+2026-06-12,545000,CM22 6QP,S,N,F,4,,Clover Place,Takeley,Bishop's Stortford
+2026-06-12,330000,CM22 6LH,S,N,F,12,,Gilbey Cottages,Elsenham,Bishop's Stortford
+2026-06-09,445000,CM22 6ZJ,D,N,F,6,,Primrose Gardens,Elsenham,Bishop's Stortford
+2026-06-09,395000,CM22 6UD,T,N,F,5,,Lower Mead Close,Henham,Bishop's Stortford
+2026-06-08,418000,CM22 7NX,T,N,F,26,,Crown Close,Sheering,Bishop's Stortford
+2026-06-08,365000,CM22 6QY,S,N,F,17,,Roseacres,Takeley,Bishop's Stortford
+2026-06-05,745000,CM22 7HQ,T,N,F,Ye Old Forge House,,High Street,Hatfield Broad Oak,Bishop's Stortford
+2026-06-05,475000,CM22 6LD,S,N,F,13,,Broom Farm Road,Elsenham,Bishop's Stortford
+2026-05-29,428000,CM22 6GX,S,N,F,9,,Barley Way,Elsenham,Bishop's Stortford
+2026-05-22,425000,CM22 6QH,S,N,F,Monsal Dale,,Brewers End,Takeley,Bishop's Stortford
+2026-05-22,585000,CM22 6PE,S,N,F,Ivy Cottage,1,Bambers Green,Takeley,Bishop's Stortford
+2026-05-20,425000,CM22 6TR,S,N,F,4,,Chapel Fields,Takeley,Bishop's Stortford
+2026-05-20,425000,CM22 6TR,S,N,F,4,,Chapel Fields,Takeley,Bishop's Stortford
+2026-05-13,385000,CM22 6RW,D,N,F,2,,Chestnut Way,Takeley,Bishop's Stortford
+2026-05-08,380000,CM22 6UA,S,N,F,3,,Windmill Place,Takeley,Bishop's Stortford
+2026-05-08,357500,CM22 6LE,S,N,F,21,,Elm Close,Elsenham,Bishop's Stortford
+2026-04-23,420000,CM22 7JR,T,N,F,44,,Barnfield,Hatfield Broad Oak,Bishop's Stortford
+2026-04-23,325000,CM22 6EL,S,N,F,20,,Glebe End,Elsenham,Bishop's Stortford
+2026-04-22,1050000,CM22 7HX,D,N,F,Mutuca,,Cannons Lane,Hatfield Broad Oak,Bishop's Stortford
+2026-04-22,321450,CM22 6RX,S,N,F,54,,Long Croft,Takeley,Bishop's Stortford
+2026-04-20,310000,CM22 6SB,S,N,F,Lupin Cottage,,Brewers End,Takeley,Bishop's Stortford
+2026-04-17,1650000,CM22 7HT,D,N,F,Town Farm House,,Cage End,Hatfield Broad Oak,Bishop's Stortford
+2026-04-17,200000,CM22 6LU,T,N,F,18,,The Croft,Elsenham,Bishop's Stortford
+2026-04-14,495000,CM22 6TZ,D,N,F,3,,Church View Close,Takeley,Bishop's Stortford
+2026-04-10,1175000,CM22 7BD,D,N,F,Stonebridge House,,Chelmsford Road,Hatfield Heath,Bishop's Stortford
+2026-04-10,541000,CM22 6TH,D,N,F,27,,The Pastures,Takeley,Bishop's Stortford
+2026-04-10,450000,CM22 6GU,D,N,F,83,,Isabel Drive,Elsenham,Bishop's Stortford
+2026-03-24,325000,CM22 6QA,T,N,F,15,,Sycamore Close,Takeley,Bishop's Stortford
+2026-03-20,415000,CM22 7EU,S,N,F,7B,,Beehive Court,Hatfield Heath,Bishop's Stortford
+2026-03-20,515000,CM22 7EA,D,N,F,Shiralee,,The Heath,Hatfield Heath,Bishop's Stortford
+2026-03-18,425000,CM22 6HA,D,N,F,"Liberty View, 24",,New Road,Elsenham,Bishop's Stortford
+2026-03-13,545000,CM22 6FE,S,N,F,5,,Westwood Mews,Takeley,Bishop's Stortford
+2026-03-12,710000,CM22 6BU,D,N,F,14,,Blossom Hill Drive,Henham,Bishop's Stortford
+2026-03-06,375000,CM22 6AE,D,N,F,10,,Vernons Close,Henham,Bishop's Stortford
+2026-03-03,439000,CM22 6SD,S,N,F,1,,Hawthorn Close,Takeley,Bishop's Stortford
+2026-03-02,780000,CM22 6ST,D,N,F,Hart Lea,4,Canfield Road,Takeley,Bishop's Stortford
+2026-02-27,350000,CM22 6EL,T,N,F,44,,Glebe End,Elsenham,Bishop's Stortford
+2026-02-20,440000,CM22 6TW,S,N,F,5,,The Oaks,Takeley,Bishop's Stortford
+2026-02-13,520000,CM22 7NH,S,N,F,57,,Primley Lane,Sheering,Bishop's Stortford
+2026-02-13,675000,CM22 6DE,D,N,F,Elston Cottage,,Park Road,Elsenham,Bishop's Stortford
+2026-02-06,930000,CM22 7PH,D,N,F,The Havilland,,Latchmore Bank,Little Hallingbury,Bishop's Stortford
+2026-02-06,1300000,CM22 7BD,D,N,F,Friars Lea,,Chelmsford Road,Hatfield Heath,Bishop's Stortford
+2026-02-03,505000,CM22 6UG,D,N,F,50,,Franklin Drive,Elsenham,Bishop's Stortford
+2026-02-02,530000,CM22 6FU,D,N,F,35,,Godfrey Crescent,Takeley,Bishop's Stortford
+2026-01-30,225000,CM22 6RX,T,N,F,68,,Long Croft,Takeley,Bishop's Stortford
+2026-01-27,1000000,CM22 6DR,D,N,F,Home Farmhouse,,Gaunts End,Elsenham,Bishop's Stortford
+2026-01-22,640000,CM22 6UP,D,N,F,3,,Smallwood Road,Elsenham,Bishop's Stortford
+2026-01-15,675000,CM22 7BQ,D,N,F,Lingfield,,Chelmsford Road,Hatfield Heath,Bishop's Stortford
+2025-12-19,545000,CM22 7UJ,S,N,F,98,,Woodside Green,Great Hallingbury,Bishop's Stortford
+2025-12-19,356825,CM22 7JG,T,N,F,Park View Cottages,3,Dunmow Road,Hatfield Broad Oak,Bishop's Stortford
+2025-12-19,345000,CM22 6LS,S,N,F,21,,Oziers,Elsenham,Bishop's Stortford
+2025-12-19,352000,CM22 6GS,S,N,F,4,,Brook Springs Grove,Elsenham,Bishop's Stortford
+2025-12-18,141500,CM22 6GU,F,N,L,Orchard House,Flat 6,Isabel Drive,Elsenham,Bishop's Stortford
+2025-12-18,138000,CM22 6GS,T,N,L,9,,Brook Springs Grove,Elsenham,Bishop's Stortford
+2025-12-17,550000,CM22 6HP,T,N,F,Park Cottage,,Pound Lane,Ugley,Bishop's Stortford
+2025-12-15,187500,CM22 6UU,T,N,L,10,,Sant Road,Elsenham,Bishop's Stortford
+2025-12-12,415000,CM22 7HS,T,N,F,Conkers,,Cage End,Hatfield Broad Oak,Bishop's Stortford
+2025-12-12,585000,CM22 6FJ,D,N,F,3,,Orchard Crescent,Elsenham,Bishop's Stortford
+2025-12-11,1170000,CM22 7PA,D,N,F,The Chase,,Pig Lane,,Bishop's Stortford
+2025-12-05,422500,CM22 6GA,S,N,F,11,,Maple Close,Elsenham,Bishop's Stortford
+2025-12-04,773000,CM22 7TH,D,N,F,The Old Stables,,Tilekiln Green,Great Hallingbury,Bishop's Stortford
+2025-12-04,570000,CM22 6PH,D,N,F,Lyddon,,Molehill Green,Takeley,Bishop's Stortford
+2025-12-04,415000,CM22 6GU,D,N,F,7,,Isabel Drive,Elsenham,Bishop's Stortford
+2025-12-04,415000,CM22 6DZ,S,N,F,Mulberry Cottage,1,Tye Green,Elsenham,Bishop's Stortford
+2025-12-03,670000,CM22 6SL,D,N,F,Wayside,,Dunmow Road,Takeley,Bishop's Stortford
+2025-12-02,360000,CM22 6RS,S,N,F,8,,Ley Field,Takeley,Bishop's Stortford
+2025-12-01,630000,CM22 6ZB,D,N,F,40,,Crocus Drive,Elsenham,Bishop's Stortford
+2025-12-01,1290000,CM22 6DF,D,N,F,The Grange,,Park Road,Elsenham,Bishop's Stortford
+2025-11-28,655000,CM22 6YZ,D,Y,F,11,,Long Pond Drive,Takeley,Bishop's Stortford
+2025-11-28,870000,CM22 6SU,D,N,F,Lavenhams,,Canfield Road,Takeley,Bishop's Stortford
+2025-11-28,400000,CM22 6GU,D,N,F,1,,Isabel Drive,Elsenham,Bishop's Stortford
+2025-11-27,395000,CM22 6XW,S,N,F,20,,Turner Close,Elsenham,Bishop's Stortford
+2025-11-26,1650000,CM22 7TP,D,N,F,Hallington Wood,,Bedlars Green,Great Hallingbury,Bishop's Stortford
+2025-11-21,560000,CM22 6ZN,D,Y,F,15,,Ivy Way,Elsenham,Bishop's Stortford
+2025-11-21,392500,CM22 6HB,S,N,F,45,,Alsa Gardens,Elsenham,Bishop's Stortford
+2025-11-20,615000,CM22 7GH,T,Y,F,Lea Hall Barns,6,Lea Green Lane,Hatfield Heath,Bishop's Stortford
+2025-11-19,450000,CM22 6FQ,S,N,F,39,,Russell Francis Way,Takeley,Bishop's Stortford
+2025-11-19,1235000,CM22 6DP,D,N,F,Elsenham Hall,The Coach House,,Elsenham,Bishop's Stortford
+2025-11-18,1560000,CM22 6HJ,D,N,F,Fieldgate Farmhouse,,Fieldgate Lane,Ugley Green,Bishop's Stortford
+2025-11-17,800000,CM22 7JA,D,N,F,Outspan,,Broad Street Green,Hatfield Broad Oak,Bishop's Stortford
+2025-11-17,1400000,CM22 7BG,D,N,F,Westwoods,,Chelmsford Road,Hatfield Heath,Bishop's Stortford
+2025-11-17,700000,CM22 6ZE,D,Y,F,35,,Lily Walk,Elsenham,Bishop's Stortford
+2025-11-14,445000,CM22 6UE,D,N,F,3,,Cambridge Walk,Henham,Bishop's Stortford
+2025-11-14,715000,CM22 6DE,D,N,F,Tuppenny Breeze,,Park Road,Elsenham,Bishop's Stortford
+2025-11-14,680000,CM22 6BU,D,N,F,10,,Blossom Hill Drive,Henham,Bishop's Stortford
+2025-11-10,420000,CM22 6LQ,D,N,F,5,,Cranmore Close,Elsenham,Bishop's Stortford
+2025-11-07,610000,CM22 7ER,S,N,F,28,,Cox Ley,Hatfield Heath,Bishop's Stortford
+2025-11-07,310000,CM22 7EL,F,N,L,93,,Broomfields,Hatfield Heath,Bishop's Stortford
+2025-11-06,495000,CM22 7PX,D,N,F,Witneys,3,The Village,Little Hallingbury,Bishop's Stortford
+2025-10-31,960000,CM22 7FT,D,N,F,2,,Florence Drive,Hatfield Broad Oak,Bishop's Stortford
+2025-10-31,760000,CM22 7DL,D,N,F,Field View,,Stortford Road,Hatfield Heath,Bishop's Stortford
+2025-10-31,400000,CM22 6ZN,S,Y,F,23,,Ivy Way,Elsenham,Bishop's Stortford
+2025-10-31,148000,CM22 6LX,F,N,L,7,,Hunters Court,Elsenham,Bishop's Stortford
+2025-10-30,550000,CM22 6ZN,D,Y,F,26,,Ivy Way,Elsenham,Bishop's Stortford
+2025-10-29,370000,CM22 7HL,D,N,F,Butchers Cottage,,Cage End,Hatfield Broad Oak,Bishop's Stortford
+2025-10-29,570000,CM22 6ZP,D,Y,F,15,,Buttercup Close,Elsenham,Bishop's Stortford
+2025-10-29,940000,CM22 6NT,D,N,F,Waterside Cottage,,Jacks Lane,Takeley,Bishop's Stortford
+2025-10-28,638000,CM22 6YR,S,N,F,3,,Forest Gate,Takeley,Bishop's Stortford
+2025-10-22,725000,CM22 6JA,D,N,F,Vernon House,,Patmore End,Ugley,Bishop's Stortford
+2025-10-17,806500,CM22 7HN,D,N,F,Gingerbread Cottage,,Cage End,Hatfield Broad Oak,Bishop's Stortford
+2025-10-17,343000,CM22 6QH,T,N,F,Cambridge Cottages,3,Brewers End,Takeley,Bishop's Stortford
+2025-10-17,405000,CM22 6JS,D,N,F,27,,Alsa Leys,Elsenham,Bishop's Stortford
+2025-10-17,415000,CM22 6DQ,D,N,F,9,,Hailes Wood,Elsenham,Bishop's Stortford
+2025-10-16,255000,CM22 7LN,T,N,F,21,,Queens Head Yard,Sheering,Bishop's Stortford
+2025-10-15,1200000,CM22 7HP,D,N,F,Chapel Croat,,Cage End,Hatfield Broad Oak,Bishop's Stortford
+2025-10-15,775000,CM22 7DD,D,N,F,6,,The Shaw,Hatfield Heath,Bishop's Stortford
+2025-10-14,490000,CM22 6GX,D,N,F,35,,Barley Way,Elsenham,Bishop's Stortford
+2025-10-07,487500,CM22 7RB,S,N,F,1,,Lower Road,Little Hallingbury,Bishop's Stortford
+2025-10-07,712500,CM22 6SQ,S,Y,F,2,,Bonningtons Yard,Takeley,Bishop's Stortford
+2025-10-03,600000,CM22 6ZE,D,Y,F,31,,Lily Walk,Elsenham,Bishop's Stortford
+2025-10-03,285000,CM22 6LS,T,N,F,28,,Oziers,Elsenham,Bishop's Stortford
+2025-10-03,300000,CM22 6HD,T,N,F,5,,Alsa Gardens,Elsenham,Bishop's Stortford
+2025-10-03,348000,CM22 6DQ,S,N,F,10,,Hailes Wood,Elsenham,Bishop's Stortford
+2025-10-01,255000,CM22 6RX,T,N,F,76,,Long Croft,Takeley,Bishop's Stortford
+2025-09-30,585000,CM22 6ZN,D,Y,F,30,,Ivy Way,Elsenham,Bishop's Stortford
+2025-09-30,400000,CM22 6LD,S,N,F,11,,Broom Farm Road,Elsenham,Bishop's Stortford
+2025-09-29,650000,CM22 7PH,S,N,F,Amara,,Latchmore Bank,Little Hallingbury,Bishop's Stortford
+2025-09-29,595000,CM22 6ZN,D,Y,F,11,,Ivy Way,Elsenham,Bishop's Stortford
+2025-09-26,1065000,CM22 7EZ,D,N,F,4,,Chestnut Drive,Hatfield Heath,Bishop's Stortford
+2025-09-26,600000,CM22 6ZN,D,Y,F,5,,Ivy Way,Elsenham,Bishop's Stortford
+2025-09-26,570000,CM22 6ZA,D,Y,F,2,,Cam Place,Takeley,Bishop's Stortford
+2025-09-26,435000,CM22 6LN,T,N,F,Hill Croft Cottages,6,Molehill Green,Takeley,Bishop's Stortford
+2025-09-23,670000,CM22 7EH,D,N,F,Birchwood Cottage,,Broomfields,Hatfield Heath,Bishop's Stortford
+2025-09-19,420000,CM22 6ZR,S,Y,F,2,,Orchid Way,Elsenham,Bishop's Stortford
+2025-09-19,785000,CM22 6JJ,D,N,F,Woodlands,,Old Mead Lane,Henham,Bishop's Stortford
+2025-09-19,450000,CM22 6HH,D,N,F,Old School House,,,Ugley Green,Bishop's Stortford
+2025-09-17,407500,CM22 6RH,S,N,F,Chestnuts,,Parsonage Road,Takeley,Bishop's Stortford
+2025-09-16,585000,CM22 6ZB,D,Y,F,66,,Crocus Drive,Elsenham,Bishop's Stortford
+2025-09-15,375000,CM22 7NE,T,N,F,58,,Crown Close,Sheering,Bishop's Stortford
+2025-09-12,460000,CM22 6ZN,D,Y,F,19,,Ivy Way,Elsenham,Bishop's Stortford
+2025-09-12,380000,CM22 6HD,S,N,F,3,,Alsa Gardens,Elsenham,Bishop's Stortford
+2025-09-12,450000,CM22 6FU,D,N,F,2,,Godfrey Crescent,Takeley,Bishop's Stortford
+2025-09-09,550000,CM22 6HA,D,N,F,9,,New Road,Elsenham,Bishop's Stortford
+2025-09-05,500000,CM22 6QZ,D,N,F,65,,Roseacres,Takeley,Bishop's Stortford
+2025-09-05,387500,CM22 6LT,D,N,F,1,,Markwells,Elsenham,Bishop's Stortford
+2025-09-04,665000,CM22 7UH,S,N,F,Greenside,,Woodside Green,Great Hallingbury,Bishop's Stortford
+2025-09-03,480000,CM22 7EH,S,N,F,2,,Broomfields,Hatfield Heath,Bishop's Stortford
+2025-09-02,660000,CM22 6EP,D,N,F,2,,Paget Court,Elsenham,Bishop's Stortford
+2025-09-01,225000,CM22 6LU,T,N,F,20,,The Croft,Elsenham,Bishop's Stortford
+2025-08-29,385000,CM22 7EU,T,N,F,7,,Beehive Court,Hatfield Heath,Bishop's Stortford
+2025-08-29,512500,CM22 7BG,S,N,F,Eastwood,,Chelmsford Road,Hatfield Heath,Bishop's Stortford
+2025-08-29,530000,CM22 6ZN,D,Y,F,17,,Ivy Way,Elsenham,Bishop's Stortford
+2025-08-29,675000,CM22 6YZ,D,Y,F,5,,Long Pond Drive,Takeley,Bishop's Stortford
+2025-08-29,620000,CM22 6YX,D,Y,F,16,,Franklin Way,Takeley,Bishop's Stortford
+2025-08-29,352500,CM22 6LN,T,N,F,Hill Croft Cottages,2,Molehill Green,Takeley,Bishop's Stortford
+2025-08-28,665000,CM22 6NE,D,N,F,Conifers,,Bush End,Takeley,Bishop's Stortford
+2025-08-26,454995,CM22 6ZS,S,Y,F,32,,Golden Miller Avenue,Elsenham,Bishop's Stortford
+2025-08-22,935000,CM22 6SP,D,Y,F,The Copper,,Dunmow Road,Takeley,Bishop's Stortford
+2025-08-22,550000,CM22 6FJ,D,N,F,7,,Orchard Crescent,Elsenham,Bishop's Stortford
+2025-08-21,860000,CM22 6AZ,D,N,F,Pleasant Cottage,,Wood End Green,Henham,Bishop's Stortford
+2025-08-20,965000,CM22 7RH,D,N,F,Laburnum Tree House,,Wrights Green,Little Hallingbury,Bishop's Stortford
+2025-08-15,600000,CM22 6YZ,D,Y,F,1,,Long Pond Drive,Takeley,Bishop's Stortford
+2025-08-15,395000,CM22 6SR,T,N,F,14,,Broadfield Road,Takeley,Bishop's Stortford
+2025-08-14,655000,CM22 7QS,D,N,F,Pleasant Valley,1,Gaston Green,Little Hallingbury,Bishop's Stortford
+2025-08-13,286500,CM22 6QU,T,N,F,2,,The Street,Takeley,Bishop's Stortford
+2025-08-12,610000,CM22 6TT,D,N,F,6,,Harvest Fields,Takeley,Bishop's Stortford
+2025-08-11,770000,CM22 7NR,D,N,F,Woodcote,,Church Lane,Sheering,Bishop's Stortford
+2025-08-11,312500,CM22 6SL,S,N,F,Broadfield Villa,1,Dunmow Road,Takeley,Bishop's Stortford
+2025-08-08,682500,CM22 7TQ,D,N,F,Rivendell,,Tilekiln Green,Great Hallingbury,Bishop's Stortford
+2025-08-08,775000,CM22 7QZ,D,N,F,Brambles,,Lower Road,Little Hallingbury,Bishop's Stortford
+2025-08-07,167000,CM22 6LZ,F,N,L,Fenman Court,Flat 8,Station Road,Elsenham,Bishop's Stortford
+2025-08-01,940000,CM22 7AA,D,N,F,The Hollies,,Mill Lane,Hatfield Heath,Bishop's Stortford
+2025-08-01,430000,CM22 6RS,D,N,F,1,,Ley Field,Takeley,Bishop's Stortford
+2025-08-01,285000,CM22 6HD,T,N,F,8,,Alsa Gardens,Elsenham,Bishop's Stortford
+2025-07-31,940000,CM22 7FT,D,N,F,3,,Florence Drive,Hatfield Broad Oak,Bishop's Stortford
+2025-07-31,599999,CM22 6YX,D,Y,F,18,,Franklin Way,Takeley,Bishop's Stortford
+2025-07-29,550000,CM22 6HG,D,N,F,"Paddocks, 29",,Bedwell Road,Ugley,Bishop's Stortford
+2025-07-28,530000,CM22 7QS,D,N,F,The Cottage,,Gaston Green,Little Hallingbury,Bishop's Stortford
+2025-07-28,570000,CM22 6RW,D,N,F,19,,Chestnut Way,Takeley,Bishop's Stortford
+2025-07-28,740000,CM22 6DJ,D,N,F,Magnolia Lodge,,Henham Road,Elsenham,Bishop's Stortford
+2025-07-27,357000,CM22 6FJ,T,N,F,49,,Orchard Crescent,Elsenham,Bishop's Stortford
+2025-07-25,442500,CM22 7QF,S,N,F,Howe Green Moat Barns,1,Howe Green,Great Hallingbury,Bishop's Stortford
+2025-07-25,525000,CM22 7JR,S,N,F,30,,Barnfield,Hatfield Broad Oak,Bishop's Stortford
+2025-07-25,895000,CM22 7DL,D,N,F,Pennyfeathers,,Stortford Road,Hatfield Heath,Bishop's Stortford
+2025-07-25,1400000,CM22 7BD,D,N,F,Salamanca,,Chelmsford Road,Hatfield Heath,Bishop's Stortford
+2025-07-25,400000,CM22 6ZP,S,Y,F,5,,Buttercup Close,Elsenham,Bishop's Stortford
+2025-07-25,378500,CM22 6XW,D,N,F,18,,Turner Close,Elsenham,Bishop's Stortford
+2025-07-25,370000,CM22 6AF,D,N,F,59,,Vernon Close,Henham,Bishop's Stortford
+2025-07-24,585000,CM22 7SH,D,N,F,Dulwich House,,Dell Lane,Little Hallingbury,Bishop's Stortford
+2025-07-24,475000,CM22 7HJ,S,N,F,3,,Dukes Orchard,Hatfield Broad Oak,Bishop's Stortford
+2025-07-24,690000,CM22 6QH,D,N,F,The Sycamores,,Brewers End,Takeley,Bishop's Stortford
+2025-07-23,600000,CM22 6ZB,D,Y,F,64,,Crocus Drive,Elsenham,Bishop's Stortford
+2025-07-21,896160,CM22 6DH,D,N,F,Elsenham Place,,Henham Road,Elsenham,Bishop's Stortford
+2025-07-18,425000,CM22 6EG,F,N,F,5,,Mill Close,Elsenham,Bishop's Stortford
+2025-07-16,365000,CM22 7JR,S,N,F,25,,Barnfield,Hatfield Broad Oak,Bishop's Stortford
+2025-07-11,575000,CM22 6ZB,D,N,F,30,,Crocus Drive,Elsenham,Bishop's Stortford
+2025-07-04,625000,CM22 7SJ,S,N,F,1,,Dell Lane,Little Hallingbury,Bishop's Stortford
+2025-07-04,870000,CM22 7RH,D,N,F,Walhalla,,Wrights Green,Little Hallingbury,Bishop's Stortford
+2025-07-04,340000,CM22 6JR,T,N,F,4,,Gold Close,Elsenham,Bishop's Stortford
+2025-07-03,285000,CM22 6RE,D,N,F,1A,,East View,Takeley,Bishop's Stortford
+2025-06-30,500000,CM22 6ZP,D,Y,F,16,,Buttercup Close,Elsenham,Bishop's Stortford
+2025-06-30,500000,CM22 6ZP,D,Y,F,1,,Buttercup Close,Elsenham,Bishop's Stortford
+2025-06-30,570000,CM22 6ZN,D,Y,F,7,,Ivy Way,Elsenham,Bishop's Stortford
+2025-06-30,640000,CM22 6ZN,D,Y,F,3,,Ivy Way,Elsenham,Bishop's Stortford
+2025-06-30,550000,CM22 6ZN,D,Y,F,28,,Ivy Way,Elsenham,Bishop's Stortford
+2025-06-30,465000,CM22 6ZE,D,Y,F,29,,Lily Walk,Elsenham,Bishop's Stortford
+2025-06-30,1035000,CM22 6SP,D,Y,F,The Tortoiseshell,,Dunmow Road,Takeley,Bishop's Stortford
+2025-06-30,352500,CM22 6DQ,D,N,F,17,,Hailes Wood,Elsenham,Bishop's Stortford
+2025-06-27,570000,CM22 6ZN,D,Y,F,9,,Ivy Way,Elsenham,Bishop's Stortford
+2025-06-27,410000,CM22 6ZF,T,Y,F,9,,Daisy Close,Elsenham,Bishop's Stortford
+2025-06-27,700000,CM22 6ZE,D,Y,F,54,,Lily Walk,Elsenham,Bishop's Stortford
+2025-06-27,650000,CM22 6ZB,D,Y,F,60,,Crocus Drive,Elsenham,Bishop's Stortford
+2025-06-27,700000,CM22 6ZB,D,Y,F,33,,Crocus Drive,Elsenham,Bishop's Stortford
+2025-06-27,540000,CM22 6EG,D,N,F,29,,Mill Close,Elsenham,Bishop's Stortford
+2025-06-26,599999,CM22 6YX,D,Y,F,12,,Franklin Way,Takeley,Bishop's Stortford
+2025-06-25,560000,CM22 6ZP,D,Y,F,2,,Buttercup Close,Elsenham,Bishop's Stortford
+2025-06-20,875000,CM22 7QX,S,N,F,Cornfields,,Grinstead Lane,Little Hallingbury,Bishop's Stortford
+2025-06-20,730000,CM22 7HB,D,N,F,Ivy Cottage,,Feathers Hill,Hatfield Broad Oak,Bishop's Stortford
+2025-06-19,340000,CM22 6DQ,S,N,F,29,,Hailes Wood,Elsenham,Bishop's Stortford
+2025-06-18,650000,CM22 7QZ,D,N,F,Peeriecroft,,Lower Road,Little Hallingbury,Bishop's Stortford
+2025-06-11,450000,CM22 6LD,S,N,F,27,,Broom Farm Road,Elsenham,Bishop's Stortford
+2025-06-10,415000,CM22 6ZP,S,Y,F,4,,Buttercup Close,Elsenham,Bishop's Stortford
+2025-06-10,150500,CM22 6LX,F,N,L,14,,Hunters Court,Elsenham,Bishop's Stortford
+2025-06-06,630000,CM22 6YX,D,Y,F,14,,Franklin Way,Takeley,Bishop's Stortford
+2025-06-06,705000,CM22 6YD,D,N,F,8,,Maitland Close,Henham,Bishop's Stortford
+2025-06-06,700000,CM22 6NT,D,N,F,Apple Tree Cottage,,Jacks Lane,Takeley,Bishop's Stortford
+2025-06-06,334995,CM22 6EL,T,N,F,34,,Glebe End,Elsenham,Bishop's Stortford
+2025-06-06,645000,CM22 6DL,D,N,F,4,,Corriander Drive,Elsenham,Bishop's Stortford
+2025-06-05,887500,CM22 7FT,D,N,F,1,,Florence Drive,Hatfield Broad Oak,Bishop's Stortford
+2025-05-30,640000,CM22 7LR,D,N,F,The Elms,,The Street,Sheering,Bishop's Stortford
+2025-05-30,415000,CM22 6ZP,S,Y,F,3,,Buttercup Close,Elsenham,Bishop's Stortford
+2025-05-30,450000,CM22 6ZF,D,Y,F,23,,Daisy Close,Elsenham,Bishop's Stortford
+2025-05-30,450000,CM22 6ZE,D,Y,F,52,,Lily Walk,Elsenham,Bishop's Stortford
+2025-05-30,560000,CM22 6ZE,D,Y,F,27,,Lily Walk,Elsenham,Bishop's Stortford
+2025-05-30,595000,CM22 6YU,D,Y,F,3,,Hanley Crescent,Takeley,Bishop's Stortford
+2025-05-30,675000,CM22 6LY,D,N,F,Bassingbourn Lodge,1,The Street,Takeley,Bishop's Stortford
+2025-05-29,310000,CM22 7JE,T,N,F,Vicarage Cottages,2,Broad Street,Hatfield Broad Oak,Bishop's Stortford
+2025-05-23,985000,CM22 7FT,D,N,F,4,,Florence Drive,Hatfield Broad Oak,Bishop's Stortford
+2025-05-22,330000,CM22 6RT,T,N,F,6,,Long Croft,Takeley,Bishop's Stortford
+2025-05-20,600000,CM22 6DL,D,N,F,5,,Corriander Drive,Elsenham,Bishop's Stortford
+2025-05-15,491000,CM22 6TW,D,N,F,7,,The Oaks,Takeley,Bishop's Stortford
+2025-05-15,340000,CM22 6SF,T,N,F,22,,Elm Close,Takeley,Bishop's Stortford
+2025-05-13,425000,CM22 6DS,S,N,F,Magnolia Cottage,,Green Street,Elsenham,Bishop's Stortford
+2025-05-12,485000,CM22 6ST,S,N,F,Colvins,,Canfield Road,Takeley,Bishop's Stortford
+2025-05-09,367500,CM22 6LN,T,N,F,Hill Croft Cottages,3,Molehill Green,Takeley,Bishop's Stortford
+2025-05-07,285000,CM22 7HN,D,N,F,Sparrows Cottage,,Cage End,Hatfield Broad Oak,Bishop's Stortford
+2025-05-07,360000,CM22 6HB,S,N,F,23,,Alsa Gardens,Elsenham,Bishop's Stortford
+2025-05-02,518500,CM22 7HG,T,N,F,The Cottage,,High Street,Hatfield Broad Oak,Bishop's Stortford
+2025-05-02,550000,CM22 6ZE,D,Y,F,13,,Lily Walk,Elsenham,Bishop's Stortford
+2025-05-02,465000,CM22 6EH,S,N,F,Cedars,,Robin Hood Road,Elsenham,Bishop's Stortford
+2025-05-01,377000,CM22 6JS,D,N,F,6,,Alsa Leys,Elsenham,Bishop's Stortford
+2025-04-30,452995,CM22 6ZU,S,Y,F,17,,Cheltenham Close,Elsenham,Bishop's Stortford
+2025-04-30,650000,CM22 6ZB,D,Y,F,62,,Crocus Drive,Elsenham,Bishop's Stortford
+2025-04-30,455000,CM22 6ZB,D,Y,F,58,,Crocus Drive,Elsenham,Bishop's Stortford
+2025-04-30,550000,CM22 6YS,D,Y,F,41,,Mill Race Drive,Takeley,Bishop's Stortford
+2025-04-30,695000,CM22 6AD,D,N,F,13,,Mill Road,Henham,Bishop's Stortford
+2025-04-28,449995,CM22 6ZS,S,Y,F,27,,Golden Miller Avenue,Elsenham,Bishop's Stortford
+2025-04-25,425000,CM22 6ZN,S,Y,F,4,,Ivy Way,Elsenham,Bishop's Stortford
+2025-04-16,400000,CM22 6TP,S,N,F,2,,Orchid Close,Takeley,Bishop's Stortford
+2025-04-14,189500,CM22 6TN,T,N,L,15,,Orchid Close,Takeley,Bishop's Stortford
+2025-03-31,305000,CM22 7UU,T,N,F,76,,Woodside Green,Great Hallingbury,Bishop's Stortford
+2025-03-31,895000,CM22 7RJ,D,N,F,Tudor Lodge,,Pynchon Paddocks,Little Hallingbury,Bishop's Stortford
+2025-03-31,435000,CM22 6ZN,T,Y,F,6,,Ivy Way,Elsenham,Bishop's Stortford
+2025-03-31,425000,CM22 6ZN,S,Y,F,2,,Ivy Way,Elsenham,Bishop's Stortford
+2025-03-31,355000,CM22 6ZF,T,Y,F,14,,Daisy Close,Elsenham,Bishop's Stortford
+2025-03-31,400000,CM22 6ZF,T,Y,F,13,,Daisy Close,Elsenham,Bishop's Stortford
+2025-03-31,425000,CM22 6ZD,D,Y,F,1,,Bluebell Walk,Elsenham,Bishop's Stortford
+2025-03-31,600000,CM22 6YU,D,Y,F,4,,Hanley Crescent,Takeley,Bishop's Stortford
+2025-03-31,442000,CM22 6RY,S,N,F,1,,St Valery,Takeley,Bishop's Stortford
+2025-03-31,537500,CM22 6QZ,D,N,F,40,,Roseacres,Takeley,Bishop's Stortford
+2025-03-28,640000,CM22 7HN,S,N,F,Musbrook Cottage,,Cage End,Hatfield Broad Oak,Bishop's Stortford
+2025-03-28,709995,CM22 6ZS,D,Y,F,23,,Golden Miller Avenue,Elsenham,Bishop's Stortford
+2025-03-28,550000,CM22 6ZE,D,Y,F,30,,Lily Walk,Elsenham,Bishop's Stortford
+2025-03-28,642500,CM22 6SR,D,N,F,12A,,Broadfield Road,Takeley,Bishop's Stortford
+2025-03-28,350000,CM22 6GW,T,N,F,8,,Isabel Drive,Elsenham,Bishop's Stortford
+2025-03-28,485000,CM22 6EB,S,N,F,Cobwebs,,Robin Hood Road,Elsenham,Bishop's Stortford
+2025-03-28,490000,CM22 6AT,S,N,F,Thatch End,,The Row,Henham,Bishop's Stortford
+2025-03-27,560000,CM22 7TL,D,N,F,Pennshurst,,Bedlars Green,Great Hallingbury,Bishop's Stortford
+2025-03-27,449995,CM22 6ZS,S,Y,F,25,,Golden Miller Avenue,Elsenham,Bishop's Stortford
+2025-03-27,355000,CM22 6ZF,T,Y,F,11,,Daisy Close,Elsenham,Bishop's Stortford
+2025-03-27,550000,CM22 6ZE,D,Y,F,28,,Lily Walk,Elsenham,Bishop's Stortford
+2025-03-27,800000,CM22 6YQ,D,N,F,3,,Paddock Close,Henham,Bishop's Stortford
+2025-03-27,315000,CM22 6SD,S,N,F,21,,Hawthorn Close,Takeley,Bishop's Stortford
+2025-03-27,365000,CM22 6RX,D,N,F,51,,Long Croft,Takeley,Bishop's Stortford
+2025-03-27,425000,CM22 6LD,S,N,F,28,,Broom Farm Road,Elsenham,Bishop's Stortford
+2025-03-26,400000,CM22 6ZF,T,Y,F,16,,Daisy Close,Elsenham,Bishop's Stortford
+2025-03-26,395000,CM22 6FU,S,N,F,7,,Godfrey Crescent,Takeley,Bishop's Stortford
+2025-03-25,550000,CM22 6ZQ,D,Y,F,18,,Columbine View,Elsenham,Bishop's Stortford
+2025-03-25,350000,CM22 6LS,T,N,F,45,,Oziers,Elsenham,Bishop's Stortford
+2025-03-25,425000,CM22 6LE,S,N,F,9,,Elm Close,Elsenham,Bishop's Stortford
+2025-03-25,565000,CM22 6BY,D,N,F,1,,Leigh Drive,Elsenham,Bishop's Stortford
+2025-03-24,615000,CM22 6YU,D,Y,F,5,,Hanley Crescent,Takeley,Bishop's Stortford
+2025-03-24,430000,CM22 6QJ,D,N,F,Zena,,Brewers End,Takeley,Bishop's Stortford
+2025-03-21,360000,CM22 7NX,S,N,F,48,,Crown Close,Sheering,Bishop's Stortford
+2025-03-21,1435000,CM22 7JN,D,N,F,The Hammonds,,Hammond Road,Hatfield Broad Oak,Bishop's Stortford
+2025-03-21,1160000,CM22 7AZ,D,N,F,1,,Bentleys,Hatfield Heath,Bishop's Stortford
+2025-03-21,1160000,CM22 7AS,D,N,F,Downham,,Matching Road,Hatfield Heath,Bishop's Stortford
+2025-03-21,355000,CM22 6ZF,T,Y,F,15,,Daisy Close,Elsenham,Bishop's Stortford
+2025-03-21,425000,CM22 6RN,D,N,F,65A,,Garnetts,Takeley,Bishop's Stortford
+2025-03-21,431300,CM22 6FQ,S,N,F,20,,Russell Francis Way,Takeley,Bishop's Stortford
+2025-03-20,395000,CM22 6EB,S,N,F,8,,Robin Hood Road,Elsenham,Bishop's Stortford
+2025-03-19,565000,CM22 7RJ,D,N,F,Skarthi,,Pynchon Paddocks,Little Hallingbury,Bishop's Stortford
+2025-03-19,325000,CM22 6EL,T,N,F,29,,Glebe End,Elsenham,Bishop's Stortford
+2025-03-18,905000,CM22 7PA,D,N,F,Twyford Lodge,,Pig Lane,,Bishop's Stortford
+2025-03-18,450000,CM22 6FQ,D,N,F,37,,Russell Francis Way,Takeley,Bishop's Stortford
+2025-03-14,620000,CM22 6YS,D,Y,F,43,,Mill Race Drive,Takeley,Bishop's Stortford
+2025-03-13,827500,CM22 6DP,S,N,F,Elsenham Hall,The Stables,,Elsenham,Bishop's Stortford
+2025-03-13,462500,CM22 6BP,S,N,F,1,,School Lane,Henham,Bishop's Stortford
+2025-03-12,800000,CM22 6DF,D,N,F,Westcroft,,Park Road,Elsenham,Bishop's Stortford
+2025-03-11,325000,CM22 7PU,T,N,F,12,,Hatch Green,Little Hallingbury,Bishop's Stortford
+2025-03-11,585000,CM22 6ZL,D,Y,F,14,,Honeysuckle Walk,Elsenham,Bishop's Stortford
+2025-03-10,565000,CM22 7RF,D,N,F,Kernow,,Wrights Green Lane,Little Hallingbury,Bishop's Stortford
+2025-03-10,330000,CM22 7JA,T,N,F,2,,Broad Street Green,Hatfield Broad Oak,Bishop's Stortford
+2025-03-10,370000,CM22 6LN,T,N,F,Hill Croft Cottages,1,Molehill Green,Takeley,Bishop's Stortford
+2025-03-07,440000,CM22 6PA,S,N,F,1,,Easton View,Takeley,Bishop's Stortford
+2025-03-07,193800,CM22 6LU,F,N,F,19,,The Croft,Elsenham,Bishop's Stortford
+2025-03-07,375000,CM22 6LN,T,N,F,Hill Croft Cottages,5,Molehill Green,Takeley,Bishop's Stortford
+2025-03-07,595000,CM22 6AY,S,N,F,Wood End Green Cottages,1,Wood End Green,Henham,Bishop's Stortford
+2025-03-07,515000,CM22 6AB,S,N,F,46,,Mill Road,Henham,Bishop's Stortford
+2025-02-28,410000,CM22 6ZQ,T,Y,F,12,,Columbine View,Elsenham,Bishop's Stortford
+2025-02-28,435000,CM22 6ZN,S,Y,F,8,,Ivy Way,Elsenham,Bishop's Stortford
+2025-02-28,410000,CM22 6ZF,T,Y,F,8,,Daisy Close,Elsenham,Bishop's Stortford
+2025-02-28,415000,CM22 6SF,S,N,F,15,,Elm Close,Takeley,Bishop's Stortford
+2025-02-28,340000,CM22 6DQ,S,N,F,16,,Hailes Wood,Elsenham,Bishop's Stortford
+2025-02-24,445000,CM22 6RY,D,N,F,20,,St Valery,Takeley,Bishop's Stortford
+2025-02-21,410000,CM22 6ZF,T,Y,F,12,,Daisy Close,Elsenham,Bishop's Stortford
+2025-02-14,800000,CM22 7TQ,D,N,F,Lewis Mead,,Tilekiln Green,Great Hallingbury,Bishop's Stortford
+2025-02-14,1500000,CM22 7PQ,D,N,F,Latchmead,,Port Lane,Little Hallingbury,Bishop's Stortford
+2025-02-14,285500,CM22 7NN,T,N,F,39,,The Plashets,Sheering,Bishop's Stortford
+2025-02-14,325000,CM22 7NL,T,N,F,70,,The Plashets,Sheering,Bishop's Stortford
+2025-02-14,465000,CM22 6ZL,D,Y,F,17,,Honeysuckle Walk,Elsenham,Bishop's Stortford
+2025-02-14,485000,CM22 6UF,D,N,F,57,,Franklin Drive,Elsenham,Bishop's Stortford
+2025-02-14,1600000,CM22 6HX,D,N,F,Mulberry House,,Cambridge Road,Ugley,Bishop's Stortford
+2025-02-14,600000,CM22 6BZ,D,Y,F,46,,Woodland View,Elsenham,Bishop's Stortford
+2025-02-14,750000,CM22 6BZ,D,Y,F,38,,Woodland View,Elsenham,Bishop's Stortford
+2025-02-07,590000,CM22 7EU,D,N,F,12,,Beehive Court,Hatfield Heath,Bishop's Stortford
+2025-01-31,363600,CM22 6ZS,S,Y,F,5,,Golden Miller Avenue,Elsenham,Bishop's Stortford
+2025-01-31,449995,CM22 6ZS,S,Y,F,3,,Golden Miller Avenue,Elsenham,Bishop's Stortford
+2025-01-31,355000,CM22 6ZF,T,Y,F,10,,Daisy Close,Elsenham,Bishop's Stortford
+2025-01-31,565000,CM22 6YX,D,Y,F,15,,Franklin Way,Takeley,Bishop's Stortford
+2025-01-31,585000,CM22 6YX,D,Y,F,11,,Franklin Way,Takeley,Bishop's Stortford
+2025-01-31,799995,CM22 6SP,D,Y,F,The Holly,,Dunmow Road,Takeley,Bishop's Stortford
+2025-01-31,675000,CM22 6QS,D,N,F,Lynwood,,The Street,Takeley,Bishop's Stortford
+2025-01-31,565000,CM22 6LL,D,N,F,Bardox,,Stansted Road,Elsenham,Bishop's Stortford
+2025-01-31,310000,CM22 6JS,S,N,F,16,,Alsa Leys,Elsenham,Bishop's Stortford
+2025-01-31,525000,CM22 6ED,D,N,F,Llamedos,,Robin Hood Road,Elsenham,Bishop's Stortford
+2025-01-31,660000,CM22 6BZ,D,Y,F,44,,Woodland View,Elsenham,Bishop's Stortford
+2025-01-30,625000,CM22 6ZQ,D,Y,F,4,,Columbine View,Elsenham,Bishop's Stortford
+2025-01-30,420000,CM22 6ZN,D,Y,F,1,,Ivy Way,Elsenham,Bishop's Stortford
+2025-01-30,650000,CM22 6BZ,D,Y,F,48,,Woodland View,Elsenham,Bishop's Stortford
+2025-01-27,372000,CM22 6SD,S,N,F,18,,Hawthorn Close,Takeley,Bishop's Stortford
+2025-01-24,625000,CM22 6NN,D,N,F,21,,Bush End,Takeley,Bishop's Stortford
+2025-01-24,825000,CM22 6FP,D,N,F,7,,Fieldview Close,Henham,Bishop's Stortford
+2025-01-24,625000,CM22 6BG,S,N,F,Easter Cottage,,Chickney Road,Henham,Bishop's Stortford
+2025-01-24,935000,CM22 6AU,D,N,F,5,,Hall Close,Henham,Bishop's Stortford
+2025-01-23,410000,CM22 6ZF,T,Y,F,5,,Daisy Close,Elsenham,Bishop's Stortford
+2025-01-21,400000,CM22 7NL,T,N,F,64,,The Plashets,Sheering,Bishop's Stortford
+2025-01-17,555000,CM22 6TW,D,N,F,4,,The Oaks,Takeley,Bishop's Stortford
+2025-01-16,465000,CM22 6ZQ,D,Y,F,6,,Columbine View,Elsenham,Bishop's Stortford
+2025-01-10,450500,CM22 6BT,S,N,F,4,,Pimblett Row,Henham,Bishop's Stortford
+2025-01-08,390000,CM22 6UA,S,N,F,5,,Windmill Place,Takeley,Bishop's Stortford
+2025-01-07,850000,CM22 6BZ,D,Y,F,40,,Woodland View,Elsenham,Bishop's Stortford
+2025-01-03,350000,CM22 7NJ,T,N,F,22,,Primley Lane,Sheering,Bishop's Stortford
+2024-12-20,450000,CM22 6ZQ,D,Y,F,2,,Columbine View,Elsenham,Bishop's Stortford
+2024-12-20,380000,CM22 6EG,S,N,F,12,,Mill Close,Elsenham,Bishop's Stortford
+2024-12-20,470000,CM22 6BZ,D,Y,F,56,,Woodland View,Elsenham,Bishop's Stortford
+2024-12-20,470000,CM22 6BZ,D,Y,F,54,,Woodland View,Elsenham,Bishop's Stortford
+2024-12-20,750000,CM22 6BZ,D,Y,F,36,,Woodland View,Elsenham,Bishop's Stortford
+2024-12-19,350000,CM22 6ZF,T,Y,F,7,,Daisy Close,Elsenham,Bishop's Stortford
+2024-12-19,350000,CM22 6ZF,T,Y,F,6,,Daisy Close,Elsenham,Bishop's Stortford
+2024-12-19,422000,CM22 6JS,S,N,F,1,,Alsa Leys,Elsenham,Bishop's Stortford
+2024-12-19,435000,CM22 6BZ,S,Y,F,52,,Woodland View,Elsenham,Bishop's Stortford
+2024-12-19,700000,CM22 6BZ,D,Y,F,3,,Woodland View,Elsenham,Bishop's Stortford
+2024-12-19,310000,CM22 6BB,T,N,F,Wood End Cottages,3,Chickney Road,Henham,Bishop's Stortford
+2024-12-18,490000,CM22 7PL,S,N,F,5,,Hallingbury Close,Little Hallingbury,Bishop's Stortford
+2024-12-18,505000,CM22 7JW,S,N,F,8,,Waters Villas,Hatfield Broad Oak,Bishop's Stortford
+2024-12-18,700000,CM22 6ZL,D,Y,F,18,,Honeysuckle Walk,Elsenham,Bishop's Stortford
+2024-12-18,525000,CM22 6ZD,D,Y,F,7,,Bluebell Walk,Elsenham,Bishop's Stortford
+2024-12-18,550000,CM22 6YU,D,Y,F,1,,Hanley Crescent,Takeley,Bishop's Stortford
+2024-12-18,545000,CM22 6GU,D,N,F,39,,Isabel Drive,Elsenham,Bishop's Stortford
+2024-12-18,460000,CM22 6FS,D,N,F,12,,Cooper Smith Road,Takeley,Bishop's Stortford
+2024-12-18,660000,CM22 6BZ,D,Y,F,34,,Woodland View,Elsenham,Bishop's Stortford
+2024-12-18,575000,CM22 6BZ,D,Y,F,20,,Woodland View,Elsenham,Bishop's Stortford
+2024-12-17,585000,CM22 6ZE,D,Y,F,5,,Lily Walk,Elsenham,Bishop's Stortford
+2024-12-16,410000,CM22 6HB,S,N,F,47,,Alsa Gardens,Elsenham,Bishop's Stortford
+2024-12-13,965000,CM22 7TZ,D,N,F,Belvedere House,,Church Road,Great Hallingbury,Bishop's Stortford
+2024-12-13,922500,CM22 6YQ,D,N,F,2,,Paddock Close,Henham,Bishop's Stortford
+2024-12-13,410000,CM22 6QZ,S,N,F,61,,Roseacres,Takeley,Bishop's Stortford
+2024-12-13,380000,CM22 6HB,S,N,F,48,,Alsa Gardens,Elsenham,Bishop's Stortford
+2024-12-13,320000,CM22 6HA,D,N,F,9,,New Road,Elsenham,Bishop's Stortford
+2024-12-12,550000,CM22 6ZE,D,Y,F,11,,Lily Walk,Elsenham,Bishop's Stortford
+2024-12-12,375000,CM22 6TH,S,N,F,19,,The Pastures,Takeley,Bishop's Stortford
+2024-12-12,577500,CM22 6QN,D,N,F,Pincey Brook Cottages,1,The Street,Takeley,Bishop's Stortford
+2024-12-12,370000,CM22 6LE,T,N,F,29,,Elm Close,Elsenham,Bishop's Stortford
+2024-12-12,595000,CM22 6BZ,D,Y,F,26,,Woodland View,Elsenham,Bishop's Stortford
+2024-12-11,610000,CM22 7PL,D,N,F,2,,Hallingbury Close,Little Hallingbury,Bishop's Stortford
+2024-12-11,470000,CM22 6RY,D,N,F,4,,St Valery,Takeley,Bishop's Stortford
+2024-12-11,445000,CM22 6RN,D,N,F,64,,Garnetts,Takeley,Bishop's Stortford
+2024-12-10,600000,CM22 6YU,D,Y,F,7,,Hanley Crescent,Takeley,Bishop's Stortford
+2024-12-10,180000,CM22 6TN,T,N,L,25,,Orchid Close,Takeley,Bishop's Stortford
+2024-12-09,400000,CM22 6ZQ,T,Y,F,10,,Columbine View,Elsenham,Bishop's Stortford
+2024-12-06,480000,CM22 6ZL,D,Y,F,15,,Honeysuckle Walk,Elsenham,Bishop's Stortford
+2024-12-05,730000,CM22 7QS,D,N,F,Pleasant Valley,2,Gaston Green,Little Hallingbury,Bishop's Stortford
+2024-12-03,725000,CM22 7LN,D,N,F,The Fox Thatch,,The Street,Sheering,Bishop's Stortford
+2024-11-29,800000,CM22 7LY,D,N,F,Lyndun,,The Street,Sheering,Bishop's Stortford
+2024-11-29,545000,CM22 6ZL,D,Y,F,9,,Honeysuckle Walk,Elsenham,Bishop's Stortford
+2024-11-29,150000,CM22 6LX,F,N,L,3,,Hunters Court,Elsenham,Bishop's Stortford
+2024-11-29,290000,CM22 6HB,S,N,F,45,,Alsa Gardens,Elsenham,Bishop's Stortford
+2024-11-29,595000,CM22 6BZ,D,Y,F,32,,Woodland View,Elsenham,Bishop's Stortford
+2024-11-29,565000,CM22 6BY,D,N,F,2,,Leigh Drive,Elsenham,Bishop's Stortford
+2024-11-28,590000,CM22 6BZ,D,Y,F,30,,Woodland View,Elsenham,Bishop's Stortford
+2024-11-27,565000,CM22 6ZL,D,Y,F,16,,Honeysuckle Walk,Elsenham,Bishop's Stortford
+2024-11-26,342500,CM22 7JD,S,N,F,7,,Broad Street,Hatfield Broad Oak,Bishop's Stortford
+2024-11-25,625000,CM22 6ZQ,D,Y,F,16,,Columbine View,Elsenham,Bishop's Stortford
+2024-11-25,395000,CM22 6FU,D,N,F,41,,Godfrey Crescent,Takeley,Bishop's Stortford
+2024-11-22,765000,CM22 7RL,D,N,F,The Stallion,,Wrights Green Lane,Little Hallingbury,Bishop's Stortford
+2024-11-22,640000,CM22 6ZQ,D,Y,F,14,,Columbine View,Elsenham,Bishop's Stortford
+2024-11-22,558000,CM22 6YX,D,Y,F,13,,Franklin Way,Takeley,Bishop's Stortford
+2024-11-22,600000,CM22 6YS,D,Y,F,32,,Mill Race Drive,Takeley,Bishop's Stortford
+2024-11-22,325000,CM22 6TN,T,N,F,1,,Orchid Close,Takeley,Bishop's Stortford
+2024-11-22,975000,CM22 6SP,D,Y,F,The Ringlet,,Dunmow Road,Takeley,Bishop's Stortford
+2024-11-22,420000,CM22 6RJ,D,N,F,1,,Garnetts,Takeley,Bishop's Stortford
+2024-11-22,375000,CM22 6LN,T,N,F,Hill Croft Cottages,4,Molehill Green,Takeley,Bishop's Stortford
+2024-11-22,385000,CM22 6LE,S,N,F,11,,Elm Close,Elsenham,Bishop's Stortford
+2024-11-21,527000,CM22 7LS,D,N,F,Estoril,,The Street,Sheering,Bishop's Stortford
+2024-11-15,1200000,CM22 7HB,D,N,F,Feathers Hill Cottage,,Feathers Hill,Hatfield Broad Oak,Bishop's Stortford
+2024-11-15,555000,CM22 6ZE,D,Y,F,7,,Lily Walk,Elsenham,Bishop's Stortford
+2024-11-15,410000,CM22 6RA,S,N,F,29,,Parsonage Road,Takeley,Bishop's Stortford
+2024-11-15,683000,CM22 6PD,D,N,F,Walnut Tree Cottage,,Bambers Green,Takeley,Bishop's Stortford
+2024-11-15,565000,CM22 6LL,S,N,F,Moorcroft,,Stansted Road,Elsenham,Bishop's Stortford
+2024-11-14,315000,CM22 7TX,T,N,F,11,,Copthall Close,Great Hallingbury,Bishop's Stortford
+2024-11-14,475000,CM22 7HY,D,N,F,St Andrews,,Cannons Lane,Hatfield Broad Oak,Bishop's Stortford
+2024-11-14,442000,CM22 7HY,D,N,F,Ridgecroft,,Cannons Lane,Hatfield Broad Oak,Bishop's Stortford
+2024-11-14,665000,CM22 6FS,D,N,F,11,,Cooper Smith Road,Takeley,Bishop's Stortford
+2024-11-13,799995,CM22 6SP,D,Y,F,The Argus,,Dunmow Road,Takeley,Bishop's Stortford
+2024-11-11,610000,CM22 6ZL,D,Y,F,35,,Honeysuckle Walk,Elsenham,Bishop's Stortford
+2024-11-11,391000,CM22 6SF,S,N,F,4,,Elm Close,Takeley,Bishop's Stortford
+2024-11-11,405000,CM22 6SD,S,N,F,8,,Hawthorn Close,Takeley,Bishop's Stortford
+2024-11-08,585000,CM22 6BZ,D,Y,F,14,,Woodland View,Elsenham,Bishop's Stortford
+2024-11-07,357000,CM22 6RX,T,N,F,70,,Long Croft,Takeley,Bishop's Stortford
+2024-10-31,615000,CM22 6ZE,D,Y,F,26,,Lily Walk,Elsenham,Bishop's Stortford
+2024-10-31,535000,CM22 6ZD,D,Y,F,3,,Bluebell Walk,Elsenham,Bishop's Stortford
+2024-10-31,405000,CM22 6UD,T,Y,F,6,,Lower Mead Close,Henham,Bishop's Stortford
+2024-10-31,595000,CM22 6BZ,D,Y,F,28,,Woodland View,Elsenham,Bishop's Stortford
+2024-10-30,750000,CM22 7AJ,D,N,F,The Briars,,Ardley End,Hatfield Heath,Bishop's Stortford
+2024-10-30,565000,CM22 6ZB,D,Y,F,31,,Crocus Drive,Elsenham,Bishop's Stortford
+2024-10-29,365000,CM22 6LT,D,N,F,14,,Markwells,Elsenham,Bishop's Stortford
+2024-10-28,350000,CM22 6LR,D,N,F,9,,De Mandeville Road,Elsenham,Bishop's Stortford
+2024-10-28,450000,CM22 6FS,D,N,F,33,,Cooper Smith Road,Takeley,Bishop's Stortford
+2024-10-25,600000,CM22 6ZL,D,Y,F,37,,Honeysuckle Walk,Elsenham,Bishop's Stortford
+2024-10-25,735000,CM22 6YD,D,N,F,3,,Maitland Close,Henham,Bishop's Stortford
+2024-10-25,405000,CM22 6DQ,D,N,F,15,,Hailes Wood,Elsenham,Bishop's Stortford
+2024-10-25,585000,CM22 6BZ,D,Y,F,12,,Woodland View,Elsenham,Bishop's Stortford
+2024-10-24,594500,CM22 6YU,D,Y,F,6,,Hanley Crescent,Takeley,Bishop's Stortford
+2024-10-24,315000,CM22 6RX,T,N,F,53,,Long Croft,Takeley,Bishop's Stortford
+2024-10-24,575000,CM22 6FP,D,N,F,15,,Fieldview Close,Henham,Bishop's Stortford
+2024-10-22,900000,CM22 7SL,D,N,F,Tudor Cottage,,Dell Road,Little Hallingbury,Bishop's Stortford
+2024-10-22,760000,CM22 7PA,D,N,F,Twyford Orchard,,Pig Lane,,Bishop's Stortford
+2024-10-21,775000,CM22 6TT,D,N,F,12,,Harvest Fields,Takeley,Bishop's Stortford
+2024-10-18,340000,CM22 7NN,T,N,F,59,,The Plashets,Sheering,Bishop's Stortford
+2024-10-18,320000,CM22 7NJ,S,N,F,40,,Primley Lane,Sheering,Bishop's Stortford
+2024-10-18,550000,CM22 6ZE,D,Y,F,9,,Lily Walk,Elsenham,Bishop's Stortford
+2024-10-18,410000,CM22 6ZE,T,Y,F,25,,Lily Walk,Elsenham,Bishop's Stortford
+2024-10-15,810000,CM22 7HX,D,N,F,Larkspur,,Cannons Lane,Hatfield Broad Oak,Bishop's Stortford
+2024-10-11,370000,CM22 7TA,D,N,F,South View,,Start Hill,,Bishop's Stortford
+2024-10-09,375000,CM22 7TP,S,N,F,Wood End,,Bedlars Green,Great Hallingbury,Bishop's Stortford
+2024-10-09,315000,CM22 7NH,S,N,F,9,,Primley Lane,Sheering,Bishop's Stortford
+2024-10-04,700000,CM22 7JN,D,N,F,Sage Cottage,,Hammond Road,Hatfield Broad Oak,Bishop's Stortford
+2024-10-04,1020000,CM22 6SP,D,Y,F,The Heath,,Dunmow Road,Takeley,Bishop's Stortford
+2024-10-04,430000,CM22 6FJ,D,N,F,11,,Orchard Crescent,Elsenham,Bishop's Stortford
+2024-09-30,560000,CM22 6ZD,D,Y,F,2,,Bluebell Walk,Elsenham,Bishop's Stortford
+2024-09-30,635000,CM22 6ZB,D,Y,F,29,,Crocus Drive,Elsenham,Bishop's Stortford
+2024-09-30,207000,CM22 6JF,S,Y,L,5,,Sapling Close,Elsenham,Bishop's Stortford
+2024-09-27,340000,CM22 7NN,T,N,F,23,,The Plashets,Sheering,Bishop's Stortford
+2024-09-27,700000,CM22 7FJ,D,Y,F,17,,Mead Field Drive,Great Hallingbury,Bishop's Stortford
+2024-09-27,400000,CM22 6ZE,T,Y,F,23,,Lily Walk,Elsenham,Bishop's Stortford
+2024-09-27,967500,CM22 6JH,D,N,F,Wilderness,,Old Mead Lane,Henham,Bishop's Stortford
+2024-09-27,450000,CM22 6BZ,D,Y,F,24,,Woodland View,Elsenham,Bishop's Stortford
+2024-09-26,579000,CM22 7TY,S,N,F,126,,Church Road,Great Hallingbury,Bishop's Stortford
+2024-09-26,400000,CM22 6ZE,T,Y,F,21,,Lily Walk,Elsenham,Bishop's Stortford
+2024-09-26,410000,CM22 6PH,D,N,F,Rodings Rise,,Molehill Green,Takeley,Bishop's Stortford
+2024-09-25,495000,CM22 6LD,S,N,F,21,,Broom Farm Road,Elsenham,Bishop's Stortford
+2024-09-25,455000,CM22 6LB,S,N,F,21,,Ridley Gardens,Elsenham,Bishop's Stortford
+2024-09-25,411500,CM22 6DQ,D,N,F,51,,Hailes Wood,Elsenham,Bishop's Stortford
+2024-09-23,280000,CM22 6HB,T,N,F,33,,Alsa Gardens,Elsenham,Bishop's Stortford
+2024-09-22,425000,CM22 6RT,S,N,F,37,,Long Croft,Takeley,Bishop's Stortford
+2024-09-20,410000,CM22 6ZE,T,Y,F,19,,Lily Walk,Elsenham,Bishop's Stortford
+2024-09-20,650000,CM22 6SR,D,N,F,12B,,Broadfield Road,Takeley,Bishop's Stortford
+2024-09-18,850000,CM22 7TR,D,N,F,The Forge,,The Street,Great Hallingbury,Bishop's Stortford
+2024-09-18,535000,CM22 7EJ,S,N,F,15,,Broomfields,Hatfield Heath,Bishop's Stortford
+2024-09-18,580000,CM22 6SJ,D,N,F,The Copse,,Dunmow Road,Takeley,Bishop's Stortford
+2024-09-18,425000,CM22 6GB,D,N,F,5,,Oak Drive,Elsenham,Bishop's Stortford
+2024-09-13,545000,CM22 6ZJ,D,Y,F,16,,Primrose Gardens,Elsenham,Bishop's Stortford
+2024-09-13,395000,CM22 6UA,S,N,F,2,,Windmill Place,Takeley,Bishop's Stortford
+2024-09-13,395000,CM22 6FS,S,N,F,15,,Cooper Smith Road,Takeley,Bishop's Stortford
+2024-09-12,425000,CM22 6TH,T,N,F,7,,The Pastures,Takeley,Bishop's Stortford
+2024-09-11,360000,CM22 6RT,D,N,F,29,,Long Croft,Takeley,Bishop's Stortford
+2024-09-06,300000,CM22 6LS,S,N,F,15,,Oziers,Elsenham,Bishop's Stortford
+2024-09-06,315000,CM22 6EL,T,N,F,14,,Glebe End,Elsenham,Bishop's Stortford
+2024-09-05,595000,CM22 7DD,D,N,F,10,,The Shaw,Hatfield Heath,Bishop's Stortford
+2024-09-05,735000,CM22 6BE,D,N,F,5,,Chickney Road,Henham,Bishop's Stortford
+2024-08-30,560000,CM22 6ZD,D,Y,F,5,,Bluebell Walk,Elsenham,Bishop's Stortford
+2024-08-30,799995,CM22 6SP,D,Y,F,The Meadow,,Dunmow Road,Takeley,Bishop's Stortford
+2024-08-29,965000,CM22 7QZ,D,N,F,Friars Cottage,,Lower Road,Little Hallingbury,Bishop's Stortford
+2024-08-29,405000,CM22 6RW,D,N,F,6,,Chestnut Way,Takeley,Bishop's Stortford
+2024-08-28,545000,CM22 6ZJ,D,Y,F,14,,Primrose Gardens,Elsenham,Bishop's Stortford
+2024-08-28,535000,CM22 6ZB,D,Y,F,52,,Crocus Drive,Elsenham,Bishop's Stortford
+2024-08-28,860000,CM22 6JH,D,N,F,The Berries,,Old Mead Lane,Henham,Bishop's Stortford
+2024-08-27,475000,CM22 6ZJ,D,Y,F,10,,Primrose Gardens,Elsenham,Bishop's Stortford
+2024-08-27,340000,CM22 6EL,T,N,F,38,,Glebe End,Elsenham,Bishop's Stortford
+2024-08-23,545000,CM22 6ZL,D,Y,F,13,,Honeysuckle Walk,Elsenham,Bishop's Stortford
+2024-08-22,300000,CM22 7PY,T,N,F,1,,Red Brick Row,Little Hallingbury,Bishop's Stortford
+2024-08-22,161000,CM22 6DW,F,Y,L,3,,Olive Court,Elsenham,Bishop's Stortford
+2024-08-16,397500,CM22 6HJ,T,N,F,3,,Fieldgate Lane,Ugley Green,Bishop's Stortford
+2024-08-16,967500,CM22 6AR,D,N,F,Caldecote,,High Street,Henham,Bishop's Stortford
+2024-08-15,350000,CM22 7PA,F,N,L,Twyford Mill,Flat 2,Pig Lane,,Bishop's Stortford
+2024-08-14,590000,CM22 7JB,D,N,F,18,,Medlars Mead,Hatfield Broad Oak,Bishop's Stortford
+2024-08-09,1125000,CM22 7QS,D,N,F,Pleasant View House,,Gaston Green,Little Hallingbury,Bishop's Stortford
+2024-08-09,646000,CM22 6YR,S,Y,F,2,,Forest Gate,Takeley,Bishop's Stortford
+2024-08-08,702500,CM22 6LY,D,N,F,Westholme,,The Street,Takeley,Bishop's Stortford
+2024-08-08,415000,CM22 6GX,S,N,F,7,,Barley Way,Elsenham,Bishop's Stortford
+2024-08-06,600000,CM22 6QJ,D,N,F,Franklins,,Brewers End,Takeley,Bishop's Stortford
+2024-08-06,800000,CM22 6JL,D,N,F,Old Mead,,Old Mead Road,Henham,Bishop's Stortford
+2024-08-05,305000,CM22 6QA,T,N,F,14,,Sycamore Close,Takeley,Bishop's Stortford
+2024-08-02,280000,CM22 7PA,F,N,L,Twyford Mill,Flat 6,Pig Lane,,Bishop's Stortford
+2024-08-01,375000,CM22 6TN,T,N,F,3,,Orchid Close,Takeley,Bishop's Stortford
+2024-07-31,1175000,CM22 7EZ,D,N,F,11,,Chestnut Drive,Hatfield Heath,Bishop's Stortford
+2024-07-26,710000,CM22 7RZ,D,N,F,7,,Sutton Acres,Little Hallingbury,Bishop's Stortford
+2024-07-26,520000,CM22 6YW,D,Y,F,12,,Roding Chase,Takeley,Bishop's Stortford
+2024-07-25,450000,CM22 7FJ,D,Y,F,35,,Mead Field Drive,Great Hallingbury,Bishop's Stortford
+2024-07-19,1250000,CM22 7TR,D,N,F,The Gatehouse,1,The Street,Great Hallingbury,Bishop's Stortford
+2024-07-17,1230000,CM22 6BN,D,N,F,Wood Farm,,Pledgdon Green,Henham,Bishop's Stortford
+2024-07-15,725000,CM22 6UN,D,N,F,4,,Johnson Road,Elsenham,Bishop's Stortford
+2024-07-12,416000,CM22 7TA,D,N,F,Hillcrest,,Start Hill,,Bishop's Stortford
+2024-07-08,885000,CM22 7LJ,D,N,F,Benbecca,,Sheering Road,Hatfield Heath,Bishop's Stortford
+2024-07-08,312000,CM22 6RS,T,N,F,12,,Ley Field,Takeley,Bishop's Stortford
+2024-07-05,802500,CM22 7QS,D,N,F,Pleasant Valley,3,Gaston Green,Little Hallingbury,Bishop's Stortford
+2024-07-05,499000,CM22 6TH,S,N,F,21,,The Pastures,Takeley,Bishop's Stortford
+2024-07-05,525000,CM22 6EB,D,N,F,"Meadow View, 10",,Robin Hood Road,Elsenham,Bishop's Stortford
+2024-07-05,470000,CM22 6DJ,D,N,F,Rosmar,,Henham Road,Elsenham,Bishop's Stortford
+2024-07-02,425000,CM22 6FU,D,N,F,43,,Godfrey Crescent,Takeley,Bishop's Stortford
+2024-06-28,765000,CM22 7RL,D,N,F,The Downs,,Wrights Green Lane,Little Hallingbury,Bishop's Stortford
+2024-06-28,365000,CM22 6ZD,S,Y,F,34,,Bluebell Walk,Elsenham,Bishop's Stortford
+2024-06-28,610000,CM22 6ZB,D,Y,F,44,,Crocus Drive,Elsenham,Bishop's Stortford
+2024-06-28,550000,CM22 6JF,D,Y,F,8,,Sapling Close,Elsenham,Bishop's Stortford
+2024-06-28,375000,CM22 6EZ,S,N,F,15,,Spencer Close,Elsenham,Bishop's Stortford
+2024-06-28,465000,CM22 6DW,D,Y,F,1,,Olive Court,Elsenham,Bishop's Stortford
+2024-06-28,650000,CM22 6BZ,D,Y,F,22,,Woodland View,Elsenham,Bishop's Stortford
+2024-06-28,575000,CM22 6BZ,D,Y,F,16,,Woodland View,Elsenham,Bishop's Stortford
+2024-06-27,560000,CM22 6ZL,D,Y,F,12,,Honeysuckle Walk,Elsenham,Bishop's Stortford
+2024-06-27,480000,CM22 6ZJ,D,Y,F,8,,Primrose Gardens,Elsenham,Bishop's Stortford
+2024-06-27,535000,CM22 6ZJ,D,Y,F,18,,Primrose Gardens,Elsenham,Bishop's Stortford
+2024-06-27,560000,CM22 6ZE,D,Y,F,24,,Lily Walk,Elsenham,Bishop's Stortford
+2024-06-27,575000,CM22 6BZ,D,Y,F,18,,Woodland View,Elsenham,Bishop's Stortford
+2024-06-26,545000,CM22 6ZE,D,Y,F,3,,Lily Walk,Elsenham,Bishop's Stortford
+2024-06-26,505000,CM22 6ZE,D,Y,F,17,,Lily Walk,Elsenham,Bishop's Stortford
+2024-06-26,510000,CM22 6ZE,D,Y,F,15,,Lily Walk,Elsenham,Bishop's Stortford
+2024-06-25,375000,CM22 6ZD,S,Y,F,36,,Bluebell Walk,Elsenham,Bishop's Stortford
+2024-06-25,387500,CM22 6RT,S,N,F,10,,Long Croft,Takeley,Bishop's Stortford
+2024-06-24,995000,CM22 6AR,D,N,F,Salt Mead,,High Street,Henham,Bishop's Stortford
+2024-06-21,475000,CM22 6YS,D,Y,F,10,,Mill Race Drive,Takeley,Bishop's Stortford
+2024-06-21,580000,CM22 6BZ,D,Y,F,10,,Woodland View,Elsenham,Bishop's Stortford
+2024-06-17,575000,CM22 7AH,S,N,F,26,,Ardley Crescent,Hatfield Heath,Bishop's Stortford
+2024-06-17,580000,CM22 6YU,D,Y,F,2,,Hanley Crescent,Takeley,Bishop's Stortford
+2024-06-14,925000,CM22 7FQ,D,N,F,Mane,,Latchmore Bank,Little Hallingbury,Bishop's Stortford
+2024-06-14,750000,CM22 6BZ,D,Y,F,8,,Woodland View,Elsenham,Bishop's Stortford
+2024-06-13,820000,CM22 7BJ,D,N,F,Autumn Lodge,,Park Drive,Hatfield Heath,Bishop's Stortford
+2024-06-12,199000,CM22 7HL,T,N,F,Bakers Cottage,,Cage End,Hatfield Broad Oak,Bishop's Stortford
+2024-06-10,850000,CM22 6BZ,D,Y,F,6,,Woodland View,Elsenham,Bishop's Stortford
+2024-06-07,495000,CM22 6YW,D,Y,F,11,,Roding Chase,Takeley,Bishop's Stortford
+2024-06-03,510000,CM22 6YW,D,Y,F,13,,Roding Chase,Takeley,Bishop's Stortford
+2024-05-31,550000,CM22 6YS,D,Y,F,23,,Mill Race Drive,Takeley,Bishop's Stortford
+2024-05-31,370000,CM22 6TN,T,N,F,17,,Orchid Close,Takeley,Bishop's Stortford
+2024-05-31,390000,CM22 6LU,D,N,F,2,,The Croft,Elsenham,Bishop's Stortford
+2024-05-30,309000,CM22 7LP,T,N,F,17,,The Street,Sheering,Bishop's Stortford
+2024-05-30,535000,CM22 6ZB,D,Y,F,54,,Crocus Drive,Elsenham,Bishop's Stortford
+2024-05-30,535000,CM22 6ZB,D,Y,F,21,,Crocus Drive,Elsenham,Bishop's Stortford
+2024-05-29,498500,CM22 7JN,S,N,F,2,,Hammond Road,Hatfield Broad Oak,Bishop's Stortford
+2024-05-29,380000,CM22 6FR,T,N,F,9,,Copper Beech Avenue,Takeley,Bishop's Stortford
+2024-05-28,390000,CM22 7NH,S,N,F,43,,Primley Lane,Sheering,Bishop's Stortford
+2024-05-24,725000,CM22 7TH,D,N,F,Old Elm,,Tilekiln Green,Great Hallingbury,Bishop's Stortford
+2024-05-23,670000,CM22 7AB,D,N,F,Church View,,The Heath,Hatfield Heath,Bishop's Stortford
+2024-05-23,565000,CM22 6HX,D,N,F,St. Aubyns,,Cambridge Road,Ugley,Bishop's Stortford
+2024-05-22,260000,CM22 7EN,F,N,L,8A,,Wagon Mead,Hatfield Heath,Bishop's Stortford
+2024-05-22,250000,CM22 6RG,S,N,F,18,,North Road,Takeley,Bishop's Stortford
+2024-05-21,525000,CM22 6ZB,D,Y,F,23,,Crocus Drive,Elsenham,Bishop's Stortford
+2024-05-20,765000,CM22 7QZ,D,N,F,Badgers,,Lower Road,Little Hallingbury,Bishop's Stortford
+2024-05-20,625000,CM22 6ZB,D,Y,F,40,,Crocus Drive,Elsenham,Bishop's Stortford
+2024-05-17,730000,CM22 7PL,S,N,F,7,,Hallingbury Close,Little Hallingbury,Bishop's Stortford
+2024-05-16,390000,CM22 6RX,D,N,F,80,,Long Croft,Takeley,Bishop's Stortford
+2024-05-14,1365000,CM22 7LR,D,N,F,Hoppit,,The Street,Sheering,Bishop's Stortford
+2024-05-10,340000,CM22 6EL,T,N,F,9,,Glebe End,Elsenham,Bishop's Stortford
+2024-05-09,393000,CM22 6FU,D,N,F,39,,Godfrey Crescent,Takeley,Bishop's Stortford
+2024-04-30,400000,CM22 6ZE,S,Y,F,1,,Lily Walk,Elsenham,Bishop's Stortford
+2024-04-30,400000,CM22 6ZD,S,Y,F,8,,Bluebell Walk,Elsenham,Bishop's Stortford
+2024-04-29,545000,CM22 6ZJ,D,Y,F,12,,Primrose Gardens,Elsenham,Bishop's Stortford
+2024-04-29,600000,CM22 6ZB,D,Y,F,38,,Crocus Drive,Elsenham,Bishop's Stortford
+2024-04-29,854000,CM22 6TA,D,N,F,Oakwood Cottage,,Bullocks Lane,Takeley,Bishop's Stortford
+2024-04-29,560000,CM22 6AB,D,N,F,44,,Mill Road,Henham,Bishop's Stortford
+2024-04-26,820000,CM22 7RF,D,N,F,Casa Cyd,,Wrights Green Lane,Little Hallingbury,Bishop's Stortford
+2024-04-26,850000,CM22 7QZ,D,N,F,Birchwood,,Lower Road,Little Hallingbury,Bishop's Stortford
+2024-04-26,465000,CM22 7NP,S,N,F,10,,High Pastures,Sheering,Bishop's Stortford
+2024-04-26,415000,CM22 7FJ,D,Y,F,32,,Mead Field Drive,Great Hallingbury,Bishop's Stortford
+2024-04-26,400000,CM22 6ZJ,S,Y,F,5,,Primrose Gardens,Elsenham,Bishop's Stortford
+2024-04-26,470000,CM22 6YS,D,Y,F,8,,Mill Race Drive,Takeley,Bishop's Stortford
+2024-04-25,585000,CM22 6BZ,D,Y,F,4,,Woodland View,Elsenham,Bishop's Stortford
+2024-04-24,455000,CM22 6ZL,D,Y,F,10,,Honeysuckle Walk,Elsenham,Bishop's Stortford
+2024-04-24,342500,CM22 6JS,T,N,F,12,,Alsa Leys,Elsenham,Bishop's Stortford
+2024-04-24,650000,CM22 6BZ,D,Y,F,2,,Woodland View,Elsenham,Bishop's Stortford
+2024-04-19,520000,CM22 7NH,S,N,F,3,,Primley Lane,Sheering,Bishop's Stortford
+2024-04-19,1054905,CM22 7DR,D,N,F,Rosebery,,Sawbridgeworth Road,Hatfield Heath,Bishop's Stortford
+2024-04-19,200000,CM22 6UU,F,N,L,22,,Sant Road,Elsenham,Bishop's Stortford
+2024-04-19,370000,CM22 6UG,S,N,F,42,,Franklin Drive,Elsenham,Bishop's Stortford
+2024-04-12,820000,CM22 7EE,D,N,F,Conifers,,Dunmow Road,Hatfield Heath,Bishop's Stortford
+2024-04-08,475000,CM22 6EH,D,N,F,Alsaglebe,,Robin Hood Road,Elsenham,Bishop's Stortford
+2024-04-05,670000,CM22 6GX,D,N,F,31,,Barley Way,Elsenham,Bishop's Stortford
+2024-04-05,470000,CM22 6BZ,D,Y,F,1,,Woodland View,Elsenham,Bishop's Stortford
+2024-04-02,1150000,CM22 7QB,D,N,F,Howe Green Moat Hall,3,Howe Green,Great Hallingbury,Bishop's Stortford
+2024-03-28,857500,CM22 7JP,D,N,F,Brookside House,,Hammond Road,Hatfield Broad Oak,Bishop's Stortford
+2024-03-28,850000,CM22 7FQ,D,N,F,Vesperi,,Latchmore Bank,Little Hallingbury,Bishop's Stortford
+2024-03-28,550000,CM22 6ZD,D,Y,F,4,,Bluebell Walk,Elsenham,Bishop's Stortford
+2024-03-26,565000,CM22 7NB,D,N,F,Mulberry Cottage,,Harlow Road,Sheering,Bishop's Stortford
+2024-03-25,315000,CM22 6TZ,D,N,F,14,,Church View Close,Takeley,Bishop's Stortford
+2024-03-22,646000,CM22 6YR,D,Y,F,7,,Forest Gate,Takeley,Bishop's Stortford
+2024-03-21,865000,CM22 6GB,D,N,F,20,,Oak Drive,Elsenham,Bishop's Stortford
+2024-03-15,579000,CM22 6ZB,D,Y,F,32,,Crocus Drive,Elsenham,Bishop's Stortford
+2024-03-15,315000,CM22 6LS,D,N,F,43,,Oziers,Elsenham,Bishop's Stortford
+2024-03-14,370000,CM22 7TP,S,N,F,Kow Hai Cottage,,Bedlars Green,Great Hallingbury,Bishop's Stortford
+2024-03-07,610000,CM22 6ZB,D,Y,F,14,,Crocus Drive,Elsenham,Bishop's Stortford
+2024-03-07,1075000,CM22 6SY,D,N,F,Glyndale,,Canfield Road,Takeley,Bishop's Stortford
+2024-03-06,435000,CM22 6ZJ,D,Y,F,6,,Primrose Gardens,Elsenham,Bishop's Stortford
+2024-03-06,525000,CM22 6ZB,D,Y,F,18,,Crocus Drive,Elsenham,Bishop's Stortford
+2024-03-05,380000,CM22 6TJ,S,N,F,2,,The Pastures,Takeley,Bishop's Stortford
+2024-03-01,405000,CM22 7NN,T,N,F,53,,The Plashets,Sheering,Bishop's Stortford
+2024-03-01,500000,CM22 6ZB,D,Y,F,25,,Crocus Drive,Elsenham,Bishop's Stortford
+2024-03-01,456000,CM22 6TZ,D,N,F,17,,Church View Close,Takeley,Bishop's Stortford
+2024-02-29,355000,CM22 7LZ,T,N,F,6,,New Row,Sheering,Bishop's Stortford
+2024-02-29,440000,CM22 7FJ,D,Y,F,33,,Mead Field Drive,Great Hallingbury,Bishop's Stortford
+2024-02-29,370000,CM22 6ZD,S,Y,F,12,,Bluebell Walk,Elsenham,Bishop's Stortford
+2024-02-29,430000,CM22 6QJ,D,N,F,Zena,,Brewers End,Takeley,Bishop's Stortford
+2024-02-26,660000,CM22 7FJ,D,Y,F,21,,Mead Field Drive,Great Hallingbury,Bishop's Stortford
+2024-02-23,450000,CM22 7LS,D,N,F,Broadlands,,The Street,Sheering,Bishop's Stortford
+2024-02-22,430000,CM22 6YS,D,Y,F,6,,Mill Race Drive,Takeley,Bishop's Stortford
+2024-02-21,565000,CM22 6ZB,D,Y,F,30,,Crocus Drive,Elsenham,Bishop's Stortford
+2024-02-14,425000,CM22 6YS,D,Y,F,4,,Mill Race Drive,Takeley,Bishop's Stortford
+2024-02-09,647250,CM22 6UF,D,N,F,39,,Franklin Drive,Elsenham,Bishop's Stortford
+2024-02-06,425000,CM22 6HE,D,N,F,40,,New Road,Elsenham,Bishop's Stortford
+2024-02-02,275000,CM22 6RX,S,N,F,48,,Long Croft,Takeley,Bishop's Stortford
+2024-02-01,310000,CM22 6SD,S,N,F,9,,Hawthorn Close,Takeley,Bishop's Stortford
+2024-01-31,400000,CM22 6ZJ,S,Y,F,1,,Primrose Gardens,Elsenham,Bishop's Stortford
+2024-01-31,370000,CM22 6ZD,S,Y,F,10,,Bluebell Walk,Elsenham,Bishop's Stortford
+2024-01-31,525000,CM22 6YS,D,Y,F,3,,Mill Race Drive,Takeley,Bishop's Stortford
+2024-01-31,785000,CM22 6LY,D,N,F,Deacons,,The Street,Takeley,Bishop's Stortford
+2024-01-30,500000,CM22 7SH,D,N,F,Triscombe,,Dell Lane,Little Hallingbury,Bishop's Stortford
+2024-01-26,154000,CM22 6FJ,T,N,L,39,,Orchard Crescent,Elsenham,Bishop's Stortford
+2024-01-19,555750,CM22 6YS,D,Y,F,15,,Mill Race Drive,Takeley,Bishop's Stortford
+2024-01-19,295000,CM22 6SR,T,N,F,9,,Broadfield Road,Takeley,Bishop's Stortford
+2024-01-19,345000,CM22 6DQ,S,N,F,81,,Hailes Wood,Elsenham,Bishop's Stortford
+2024-01-12,635000,CM22 6YR,S,Y,F,6,,Forest Gate,Takeley,Bishop's Stortford
+2024-01-12,742000,CM22 6LY,D,N,F,Laurel Wood House,,The Street,Takeley,Bishop's Stortford
+2024-01-03,600000,CM22 6YS,D,Y,F,5,,Mill Race Drive,Takeley,Bishop's Stortford
+2023-12-20,1166000,CM22 7BD,D,N,F,Desford House,,Chelmsford Road,Hatfield Heath,Bishop's Stortford
+2023-12-20,365000,CM22 6SN,T,N,F,Nursery Cottages,1,Dunmow Road,Takeley,Bishop's Stortford
+2023-12-20,625000,CM22 6FW,D,N,F,13,,Stane Road,Takeley,Bishop's Stortford
+2023-12-18,345000,CM22 6JS,S,N,F,3,,Alsa Leys,Elsenham,Bishop's Stortford
+2023-12-15,810000,CM22 7FQ,D,N,F,Aurora,,Latchmore Bank,Little Hallingbury,Bishop's Stortford
+2023-12-15,500000,CM22 6ZJ,D,Y,F,4,,Primrose Gardens,Elsenham,Bishop's Stortford
+2023-12-15,400000,CM22 6ZJ,S,Y,F,3,,Primrose Gardens,Elsenham,Bishop's Stortford
+2023-12-15,500000,CM22 6ZJ,D,Y,F,2,,Primrose Gardens,Elsenham,Bishop's Stortford
+2023-12-15,500000,CM22 6ZB,D,Y,F,22,,Crocus Drive,Elsenham,Bishop's Stortford
+2023-12-12,940000,CM22 6YR,D,Y,F,1,,Forest Gate,Takeley,Bishop's Stortford
+2023-12-08,560000,CM22 6YR,S,Y,F,5,,Forest Gate,Takeley,Bishop's Stortford
+2023-12-01,943000,CM22 7FQ,D,N,F,Occasus,,Latchmore Bank,Little Hallingbury,Bishop's Stortford
+2023-12-01,700000,CM22 7FJ,D,Y,F,20,,Mead Field Drive,Great Hallingbury,Bishop's Stortford
+2023-12-01,550000,CM22 6ZB,D,Y,F,34,,Crocus Drive,Elsenham,Bishop's Stortford
+2023-12-01,370000,CM22 6YB,S,N,F,5,,Lankester Close,Elsenham,Bishop's Stortford
+2023-12-01,320000,CM22 6GU,S,N,F,79,,Isabel Drive,Elsenham,Bishop's Stortford
+2023-11-30,400000,CM22 6ZJ,S,Y,F,7,,Primrose Gardens,Elsenham,Bishop's Stortford
+2023-11-30,420000,CM22 6ZD,S,Y,F,6,,Bluebell Walk,Elsenham,Bishop's Stortford
+2023-11-30,640000,CM22 6ZB,D,Y,F,56,,Crocus Drive,Elsenham,Bishop's Stortford
+2023-11-30,442500,CM22 6QR,S,N,F,Pipers,1,The Street,Takeley,Bishop's Stortford
+2023-11-29,617500,CM22 6BN,S,N,F,The Old Coach House,,Pledgdon Green,Henham,Bishop's Stortford
+2023-11-28,435000,CM22 6ZB,D,Y,F,50,,Crocus Drive,Elsenham,Bishop's Stortford
+2023-11-28,570000,CM22 6BU,S,N,F,4,,Blossom Hill Drive,Henham,Bishop's Stortford
+2023-11-27,590000,CM22 7SH,D,N,F,Skerries,,Dell Lane,Little Hallingbury,Bishop's Stortford
+2023-11-27,640000,CM22 6ZB,D,Y,F,46,,Crocus Drive,Elsenham,Bishop's Stortford
+2023-11-24,900000,CM22 7FQ,D,N,F,Meridiem,,Latchmore Bank,Little Hallingbury,Bishop's Stortford
+2023-11-22,760000,CM22 6BD,D,N,F,Yew Tree Cottage,,Chickney Road,Henham,Bishop's Stortford
+2023-11-20,660000,CM22 7QZ,D,N,F,4,,Peacehaven,Little Hallingbury,Bishop's Stortford
+2023-11-17,355000,CM22 7NN,T,N,F,31,,The Plashets,Sheering,Bishop's Stortford
+2023-11-17,428000,CM22 7NJ,S,N,F,46,,Primley Lane,Sheering,Bishop's Stortford
+2023-11-17,500000,CM22 6ZB,D,Y,F,20,,Crocus Drive,Elsenham,Bishop's Stortford
+2023-11-17,1005000,CM22 6BH,D,N,F,Brambles,,Chickney Road,Henham,Bishop's Stortford
+2023-11-15,570000,CM22 7RJ,D,N,F,26,,Pynchon Paddocks,Little Hallingbury,Bishop's Stortford
+2023-11-14,735000,CM22 6SG,D,N,F,Number Nothing,,Station Road,Takeley,Bishop's Stortford
+2023-11-10,405000,CM22 7JR,T,N,F,40,,Barnfield,Hatfield Broad Oak,Bishop's Stortford
+2023-11-07,290000,CM22 6PT,S,N,F,6,,Coopers Villas,Takeley,Bishop's Stortford
+2023-11-07,785000,CM22 6JL,D,N,F,The Coach House,,Old Mead Road,Henham,Bishop's Stortford
+2023-11-03,520000,CM22 6YS,D,Y,F,17,,Mill Race Drive,Takeley,Bishop's Stortford
+2023-10-31,435000,CM22 6ZB,D,Y,F,48,,Crocus Drive,Elsenham,Bishop's Stortford
+2023-10-31,875000,CM22 6HR,D,N,F,The Old Post House,,Cambridge Road,Ugley,Bishop's Stortford
+2023-10-30,535000,CM22 7HU,S,N,F,8,,Cage End Close,Hatfield Broad Oak,Bishop's Stortford
+2023-10-30,550000,CM22 6ZB,D,Y,F,36,,Crocus Drive,Elsenham,Bishop's Stortford
+2023-10-30,350000,CM22 6LS,D,N,F,29,,Oziers,Elsenham,Bishop's Stortford
+2023-10-27,360000,CM22 6HT,T,N,F,Smiths Cottages,2,Cambridge Road,Ugley,Bishop's Stortford
+2023-10-27,137500,CM22 6GU,F,N,L,Orchard House,Flat 6,Isabel Drive,Elsenham,Bishop's Stortford
+2023-10-26,980000,CM22 7LR,D,N,F,Sycamore House,,The Street,Sheering,Bishop's Stortford
+2023-10-20,350000,CM22 6GW,T,N,F,6,,Isabel Drive,Elsenham,Bishop's Stortford
+2023-10-20,500000,CM22 6AS,S,N,F,White Pine Cottage,,High Street,Henham,Bishop's Stortford
+2023-10-18,775000,CM22 6SN,D,N,F,Woodside View,,Dunmow Road,Takeley,Bishop's Stortford
+2023-10-16,400000,CM22 6LR,S,N,F,8,,De Mandeville Road,Elsenham,Bishop's Stortford
+2023-10-12,470000,CM22 7UU,T,N,F,71,,Woodside Green,Great Hallingbury,Bishop's Stortford
+2023-10-12,290000,CM22 7DU,S,N,F,Rosemary Cottages,1,Stortford Road,Hatfield Heath,Bishop's Stortford
+2023-10-11,410000,CM22 6LH,S,N,F,3,,Gilbey Cottages,Elsenham,Bishop's Stortford
+2023-10-10,290000,CM22 7HH,S,N,F,Old Bakehouse Cottages,1,High Street,Hatfield Broad Oak,Bishop's Stortford
+2023-10-09,425000,CM22 6GA,D,N,F,3,,Maple Close,Elsenham,Bishop's Stortford
+2023-10-06,400000,CM22 7NN,T,N,F,45,,The Plashets,Sheering,Bishop's Stortford
+2023-10-06,680000,CM22 7JP,D,N,F,Evergreens,,Hammond Road,Hatfield Broad Oak,Bishop's Stortford
+2023-10-06,930000,CM22 7BL,T,N,F,Foxglove Farm,2,Dunmow Road,Hatfield Heath,Bishop's Stortford
+2023-10-06,305000,CM22 6RG,T,N,F,27,,North Road,Takeley,Bishop's Stortford
+2023-10-04,333000,CM22 7TX,S,N,F,8,,Copthall Close,Great Hallingbury,Bishop's Stortford
+2023-10-04,555000,CM22 7LS,D,N,F,Wood Rising,,The Street,Sheering,Bishop's Stortford
+2023-10-04,416000,CM22 6QZ,S,N,F,37,,Roseacres,Takeley,Bishop's Stortford
+2023-10-02,457000,CM22 6SD,D,N,F,10,,Hawthorn Close,Takeley,Bishop's Stortford
+2023-09-29,870000,CM22 7JA,D,N,F,Netherstone,,Broad Street Green,Hatfield Broad Oak,Bishop's Stortford
+2023-09-29,625000,CM22 6ZB,D,Y,F,42,,Crocus Drive,Elsenham,Bishop's Stortford
+2023-09-29,550000,CM22 6ZB,D,Y,F,27,,Crocus Drive,Elsenham,Bishop's Stortford
+2023-09-28,1075000,CM22 7SQ,D,N,F,The Wallburys,,Dell Lane,Little Hallingbury,Bishop's Stortford
+2023-09-27,440000,CM22 7FJ,D,Y,F,31,,Mead Field Drive,Great Hallingbury,Bishop's Stortford
+2023-09-26,900000,CM22 7EE,D,N,F,Willoways,,Dunmow Road,Hatfield Heath,Bishop's Stortford
+2023-09-26,1500000,CM22 7BD,D,N,F,Briarwood,,Chelmsford Road,Hatfield Heath,Bishop's Stortford
+2023-09-22,1000000,CM22 7LR,D,N,F,Beech House,,The Street,Sheering,Bishop's Stortford
+2023-09-22,327000,CM22 6BB,T,N,F,Wood End Cottages,4,Chickney Road,Henham,Bishop's Stortford
+2023-09-21,565000,CM22 7HX,S,N,F,9,,Cannons Lane,Hatfield Broad Oak,Bishop's Stortford
+2023-09-12,1300000,CM22 7PA,D,N,F,The Millers Cottage,,Pig Lane,,Bishop's Stortford
+2023-09-12,1150000,CM22 6LA,D,N,F,Turner House,,Station Road,Elsenham,Bishop's Stortford
+2023-09-08,450000,CM22 6RW,D,N,F,7,,Chestnut Way,Takeley,Bishop's Stortford
+2023-09-07,1994384,CM22 7QU,D,N,F,Broadcroft,,Sawbridgeworth Road,Little Hallingbury,Bishop's Stortford
+2023-08-30,423000,CM22 6QZ,S,N,F,51,,Roseacres,Takeley,Bishop's Stortford
+2023-08-24,635000,CM22 6XU,D,N,F,2,,Askew Close,Elsenham,Bishop's Stortford
+2023-08-21,525000,CM22 7RL,D,N,F,Horbury,,Wrights Green Lane,Little Hallingbury,Bishop's Stortford
+2023-08-21,315000,CM22 7PA,F,N,L,Twyford Mews,8,Pig Lane,,Bishop's Stortford
+2023-08-18,1150000,CM22 6YP,D,Y,F,1,,Ash View,Takeley,Bishop's Stortford
+2023-08-18,400000,CM22 6YL,S,Y,F,School Lane Cottages,3,School Lane,Takeley,Bishop's Stortford
+2023-08-18,400000,CM22 6TN,T,N,F,5,,Orchid Close,Takeley,Bishop's Stortford
+2023-08-18,625000,CM22 6FY,D,N,F,11,,Harris Road,Takeley,Bishop's Stortford
+2023-08-09,700000,CM22 6JL,D,N,F,Chalet,,Old Mead Road,Henham,Bishop's Stortford
+2023-08-04,358000,CM22 6SN,T,N,F,Nursery Cottages,2,Dunmow Road,Takeley,Bishop's Stortford
+2023-08-04,369995,CM22 6DQ,S,N,F,71,,Hailes Wood,Elsenham,Bishop's Stortford
+2023-08-03,370000,CM22 6PU,D,N,F,Fairview,,Parsonage Road,Takeley,Bishop's Stortford
+2023-08-01,1250000,CM22 6DH,D,N,F,Pennington Hall,,Henham Road,Elsenham,Bishop's Stortford
+2023-07-31,575000,CM22 6ZB,D,Y,F,26,,Crocus Drive,Elsenham,Bishop's Stortford
+2023-07-28,500000,CM22 7FJ,D,Y,F,29,,Mead Field Drive,Great Hallingbury,Bishop's Stortford
+2023-07-28,730000,CM22 6FR,D,N,F,6,,Copper Beech Avenue,Takeley,Bishop's Stortford
+2023-07-27,875000,CM22 6DP,F,N,L,Elsenham Hall,East Wing 2,,Elsenham,Bishop's Stortford
+2023-07-21,420000,CM22 6QR,S,N,F,Pipers,2,The Street,Takeley,Bishop's Stortford
+2023-07-21,355000,CM22 6EL,T,N,F,42,,Glebe End,Elsenham,Bishop's Stortford
+2023-07-20,318000,CM22 6EL,T,N,F,26,,Glebe End,Elsenham,Bishop's Stortford
+2023-07-20,522500,CM22 6BT,S,N,F,8,,Pimblett Row,Henham,Bishop's Stortford
+2023-07-19,310000,CM22 6QA,T,N,F,15,,Sycamore Close,Takeley,Bishop's Stortford
+2023-07-17,785000,CM22 6YP,D,Y,F,3,,Ash View,Takeley,Bishop's Stortford
+2023-07-14,425000,CM22 6ZB,S,Y,F,10,,Crocus Drive,Elsenham,Bishop's Stortford
+2023-07-11,310000,CM22 6BN,D,N,F,Catherine Cottage,,Pledgdon Green,Henham,Bishop's Stortford
+2023-06-30,157000,CM22 7AH,F,N,L,4A,,Ardley Crescent,Hatfield Heath,Bishop's Stortford
+2023-06-30,575000,CM22 6ZB,D,Y,F,28,,Crocus Drive,Elsenham,Bishop's Stortford
+2023-06-30,550000,CM22 6ZB,D,Y,F,24,,Crocus Drive,Elsenham,Bishop's Stortford
+2023-06-30,854000,CM22 6YR,D,Y,F,8,,Forest Gate,Takeley,Bishop's Stortford
+2023-06-30,525000,CM22 6YR,S,Y,F,4,,Forest Gate,Takeley,Bishop's Stortford
+2023-06-29,401000,CM22 7RB,S,N,F,7,,Lower Road,Little Hallingbury,Bishop's Stortford
+2023-06-28,450000,CM22 7FJ,D,Y,F,34,,Mead Field Drive,Great Hallingbury,Bishop's Stortford
+2023-06-23,725000,CM22 6ZB,D,Y,F,16,,Crocus Drive,Elsenham,Bishop's Stortford
+2023-06-16,595000,CM22 6HA,D,N,F,5,,New Road,Elsenham,Bishop's Stortford
+2023-06-09,760000,CM22 7SW,D,N,F,7,,The Staddles,Little Hallingbury,Bishop's Stortford
+2023-06-09,440000,CM22 6RJ,D,N,F,11,,Garnetts,Takeley,Bishop's Stortford
+2023-06-02,242500,CM22 7PA,F,N,L,Twyford Mews,9,Pig Lane,,Bishop's Stortford
+2023-06-01,518000,CM22 6UH,D,N,F,3,,Aylett Close,Elsenham,Bishop's Stortford
+2023-05-26,755000,CM22 6LY,D,N,F,Shanleigh House,,The Street,Takeley,Bishop's Stortford
+2023-05-25,450000,CM22 7FJ,D,Y,F,28,,Mead Field Drive,Great Hallingbury,Bishop's Stortford
+2023-05-25,405000,CM22 6TJ,T,N,F,44,,The Pastures,Takeley,Bishop's Stortford
+2023-05-25,370000,CM22 6EL,T,N,F,35,,Glebe End,Elsenham,Bishop's Stortford
+2023-05-24,725000,CM22 6ZB,D,Y,F,12,,Crocus Drive,Elsenham,Bishop's Stortford
+2023-05-24,375000,CM22 6HG,T,N,F,13,,Bedwell Road,Ugley,Bishop's Stortford
+2023-05-23,437000,CM22 6HG,S,N,F,15,,Bedwell Road,Ugley,Bishop's Stortford
+2023-05-17,530000,CM22 7NE,D,N,F,110A,,Crown Close,Sheering,Bishop's Stortford
+2023-05-11,756000,CM22 7BQ,D,N,F,Roseacres,,Chelmsford Road,Hatfield Heath,Bishop's Stortford
+2023-05-11,355000,CM22 6RE,T,N,F,4,,East View,Takeley,Bishop's Stortford
+2023-05-05,505000,CM22 7LN,D,N,F,The Twinings,,The Street,Sheering,Bishop's Stortford
+2023-04-28,500000,CM22 6YN,D,Y,F,10,,Hornbeam Crescent,Takeley,Bishop's Stortford
+2023-04-28,350000,CM22 6HB,T,N,F,31,,Alsa Gardens,Elsenham,Bishop's Stortford
+2023-04-28,345000,CM22 6DQ,S,N,F,24,,Hailes Wood,Elsenham,Bishop's Stortford
+2023-04-27,332500,CM22 6FP,D,N,L,4,,Fieldview Close,Henham,Bishop's Stortford
+2023-04-21,750000,CM22 7LX,D,N,F,Hawthorns,,The Street,Sheering,Bishop's Stortford
+2023-04-20,570000,CM22 7SH,D,N,F,Rosewood,,Dell Lane,Little Hallingbury,Bishop's Stortford
+2023-04-20,660000,CM22 7AJ,D,N,F,Woodbridge,,Ardley End,Hatfield Heath,Bishop's Stortford
+2023-04-17,675000,CM22 7RJ,D,N,F,4,,Pynchon Paddocks,Little Hallingbury,Bishop's Stortford
+2023-04-11,1250000,CM22 6AG,D,N,F,York Cottage,,Crow Street,Henham,Bishop's Stortford
+2023-04-05,420000,CM22 7PL,D,N,F,12A,,Hallingbury Close,Little Hallingbury,Bishop's Stortford
+2023-04-03,455000,CM22 6TH,T,N,F,41,,The Pastures,Takeley,Bishop's Stortford
+2023-04-03,212800,CM22 6PH,S,N,F,7,,School Villas,Takeley,Bishop's Stortford
+2023-04-03,432500,CM22 6DD,S,N,F,The Villa,,High Street,Elsenham,Bishop's Stortford
+2023-03-31,605900,CM22 7JN,T,N,F,6,,Hammond Road,Hatfield Broad Oak,Bishop's Stortford
+2023-03-28,2450000,CM22 7AB,D,N,F,Laurels,,The Heath,Hatfield Heath,Bishop's Stortford
+2023-03-27,850000,CM22 6JQ,D,N,F,Birch Grove,,Old Mead Road,Henham,Bishop's Stortford
+2023-03-24,870000,CM22 7UH,S,N,F,Marquis,,Woodside Green,Great Hallingbury,Bishop's Stortford
+2023-03-24,412000,CM22 6JS,S,N,F,4,,Alsa Leys,Elsenham,Bishop's Stortford
+2023-03-22,775000,CM22 6YP,D,Y,F,5,,Ash View,Takeley,Bishop's Stortford
+2023-03-20,490000,CM22 6RY,D,N,F,14,,St Valery,Takeley,Bishop's Stortford
+2023-03-17,960000,CM22 7LJ,D,N,F,Heath End,,Sheering Road,Hatfield Heath,Bishop's Stortford
+2023-03-17,457500,CM22 7EH,S,N,F,10,,Broomfields,Hatfield Heath,Bishop's Stortford
+2023-03-17,284000,CM22 6SF,S,N,F,17,,Elm Close,Takeley,Bishop's Stortford
+2023-03-17,915000,CM22 6AZ,D,N,F,Gernell,,Wood End Green,Henham,Bishop's Stortford
+2023-03-15,307000,CM22 6GW,T,N,F,28,,Isabel Drive,Elsenham,Bishop's Stortford
+2023-03-14,600000,CM22 6NT,D,N,F,Kambria,,Jacks Lane,Takeley,Bishop's Stortford
+2023-03-10,1540000,CM22 7EE,D,N,F,Bramleys,,Dunmow Road,Hatfield Heath,Bishop's Stortford
+2023-03-10,1140000,CM22 6HU,D,N,F,The Maltings,,Vicarage Lane,Ugley,Bishop's Stortford
+2023-03-09,300000,CM22 6QS,S,N,F,8,,The Street,Takeley,Bishop's Stortford
+2023-03-08,848250,CM22 7UH,S,N,F,Mandarin,,Woodside Green,Great Hallingbury,Bishop's Stortford
+2023-03-07,425000,CM22 6DP,F,N,L,Elsenham Hall,The Old Billiard Room,,Elsenham,Bishop's Stortford
+2023-03-03,610000,CM22 6SR,D,N,F,16,,Broadfield Road,Takeley,Bishop's Stortford
+2023-03-03,445000,CM22 6PQ,S,N,F,Old Forge,,Molehill Green,Takeley,Bishop's Stortford
+2023-02-28,399950,CM22 7NX,T,N,F,40,,Crown Close,Sheering,Bishop's Stortford
+2023-02-28,349995,CM22 6LS,T,N,F,41,,Oziers,Elsenham,Bishop's Stortford
+2023-02-24,310000,CM22 6HB,S,N,F,36,,Alsa Gardens,Elsenham,Bishop's Stortford
+2023-02-17,712500,CM22 6HA,D,N,F,18,,New Road,Elsenham,Bishop's Stortford
+2023-02-13,590000,CM22 6JG,D,N,F,Pump House,,Old Mead Road,Henham,Bishop's Stortford
+2023-02-10,275000,CM22 6DP,F,N,L,Elsenham Hall,1,,Elsenham,Bishop's Stortford
+2023-02-01,375000,CM22 6RT,D,N,F,28,,Long Croft,Takeley,Bishop's Stortford
+2023-01-31,327500,CM22 6LR,S,N,F,20,,De Mandeville Road,Elsenham,Bishop's Stortford
+2023-01-27,500000,CM22 6QJ,D,N,F,Cintra,,Brewers End,Takeley,Bishop's Stortford
+2023-01-20,525000,CM22 6QH,D,N,F,Summers,,Brewers End,Takeley,Bishop's Stortford
+2023-01-17,828500,CM22 6JL,D,N,F,The Bell House,,Old Mead Road,Henham,Bishop's Stortford
+2023-01-11,380000,CM22 6SD,S,N,F,38,,Hawthorn Close,Takeley,Bishop's Stortford
+2023-01-10,377500,CM22 7NX,T,N,F,36,,Crown Close,Sheering,Bishop's Stortford
+2023-01-10,450000,CM22 7NH,S,N,F,59,,Primley Lane,Sheering,Bishop's Stortford
+2023-01-10,495000,CM22 6QZ,S,N,F,48,,Roseacres,Takeley,Bishop's Stortford
+2023-01-10,425000,CM22 6QZ,S,N,F,35,,Roseacres,Takeley,Bishop's Stortford
+2023-01-04,735000,CM22 7DH,D,N,F,11,,West Hayes,Hatfield Heath,Bishop's Stortford
+2023-01-04,850000,CM22 7BL,D,N,F,2,,Lea Hall Bungalows,Hatfield Heath,Bishop's Stortford
+2023-01-04,800000,CM22 6SP,D,N,F,Swift Cottage,,Dunmow Road,Takeley,Bishop's Stortford
+2022-12-22,381000,CM22 6HB,S,N,F,38,,Alsa Gardens,Elsenham,Bishop's Stortford
+2022-12-22,580000,CM22 6FJ,D,N,F,2,,Orchard Crescent,Elsenham,Bishop's Stortford
+2022-12-21,750000,CM22 6YN,D,Y,F,12,,Hornbeam Crescent,Takeley,Bishop's Stortford
+2022-12-21,420000,CM22 6JP,T,N,F,9,,Jenkins Drive,Elsenham,Bishop's Stortford
+2022-12-20,495000,CM22 6YN,D,Y,F,11,,Hornbeam Crescent,Takeley,Bishop's Stortford
+2022-12-16,1150000,CM22 7BJ,D,N,F,Springfield,,Park Drive,Hatfield Heath,Bishop's Stortford
+2022-12-16,485000,CM22 6YN,D,Y,F,9,,Hornbeam Crescent,Takeley,Bishop's Stortford
+2022-12-16,550000,CM22 6BY,D,N,F,14,,Leigh Drive,Elsenham,Bishop's Stortford
+2022-12-15,947500,CM22 6ST,D,N,F,Hart Lea,1,Canfield Road,Takeley,Bishop's Stortford
+2022-12-15,365000,CM22 6LS,D,N,F,39,,Oziers,Elsenham,Bishop's Stortford
+2022-12-15,520000,CM22 6AF,D,N,F,36,,Vernon Close,Henham,Bishop's Stortford
+2022-12-14,441000,CM22 6EG,S,N,F,27,,Mill Close,Elsenham,Bishop's Stortford
+2022-12-13,310000,CM22 7PA,F,N,L,Twyford Mill,Flat 2,Pig Lane,,Bishop's Stortford
+2022-12-09,1050000,CM22 7SH,D,N,F,High Oak,,Dell Lane,Little Hallingbury,Bishop's Stortford
+2022-12-09,310000,CM22 7EL,F,N,L,95,,Broomfields,Hatfield Heath,Bishop's Stortford
+2022-12-09,470000,CM22 6RY,D,N,F,3,,St Valery,Takeley,Bishop's Stortford
+2022-12-06,370000,CM22 6SF,T,N,F,12,,Elm Close,Takeley,Bishop's Stortford
+2022-12-06,925000,CM22 6LA,D,N,F,Crossways,2,Station Road,Elsenham,Bishop's Stortford
+2022-12-02,655000,CM22 6TQ,D,N,F,9,,Chapel Fields,Takeley,Bishop's Stortford
+2022-12-02,320000,CM22 6PJ,D,N,F,The Rockies,,School Lane,Takeley,Bishop's Stortford
+2022-12-02,460000,CM22 6PB,S,N,F,2,,Bury Villas,Takeley,Bishop's Stortford
+2022-11-30,683000,CM22 6JJ,D,N,F,Woodlands,,Old Mead Lane,Henham,Bishop's Stortford
+2022-11-28,405000,CM22 7DU,D,N,F,Blackbird Cottages,3,Stortford Road,Hatfield Heath,Bishop's Stortford
+2022-11-25,540000,CM22 7RJ,D,N,F,26,,Pynchon Paddocks,Little Hallingbury,Bishop's Stortford
+2022-11-25,747500,CM22 6ST,S,N,F,Hart Lea,3,Canfield Road,Takeley,Bishop's Stortford
+2022-11-21,465000,CM22 7RL,D,N,F,Bridge End,,Wrights Green Lane,Little Hallingbury,Bishop's Stortford
+2022-11-17,575000,CM22 7FJ,D,Y,F,22,,Mead Field Drive,Great Hallingbury,Bishop's Stortford
+2022-11-16,475000,CM22 6RX,D,N,F,42,,Long Croft,Takeley,Bishop's Stortford
+2022-11-11,450000,CM22 6QZ,S,N,F,41,,Roseacres,Takeley,Bishop's Stortford
+2022-11-11,395600,CM22 6LD,S,N,F,15,,Broom Farm Road,Elsenham,Bishop's Stortford
+2022-11-11,402000,CM22 6AF,D,N,F,47,,Vernon Close,Henham,Bishop's Stortford
+2022-11-10,255000,CM22 6LU,T,N,F,26,,The Croft,Elsenham,Bishop's Stortford
+2022-11-10,400000,CM22 6DS,S,N,F,Gauntsend Cottages,3,Green Street,Elsenham,Bishop's Stortford
+2022-11-08,580000,CM22 7NG,S,N,F,76,,Back Lane,Sheering,Bishop's Stortford
+2022-11-08,550000,CM22 6UF,D,N,F,49,,Franklin Drive,Elsenham,Bishop's Stortford
+2022-11-07,670000,CM22 6XU,D,N,F,1,,Askew Close,Elsenham,Bishop's Stortford
+2022-11-04,592000,CM22 6PF,D,N,F,The Grange,,Bambers Green,Takeley,Bishop's Stortford
+2022-11-02,1100000,CM22 6EA,D,N,F,Farndale Cottage,,Fullers End,Elsenham,Bishop's Stortford
+2022-10-31,942500,CM22 7BL,S,N,F,Foxglove Farm,6,Dunmow Road,Hatfield Heath,Bishop's Stortford
+2022-10-28,567500,CM22 7NG,S,N,F,78,,Back Lane,Sheering,Bishop's Stortford
+2022-10-28,515000,CM22 6EQ,D,N,F,Greencotes,,Robin Hood Road,Elsenham,Bishop's Stortford
+2022-10-26,620000,CM22 7RD,S,N,F,Elm Cottage,2,Lower Road,Little Hallingbury,Bishop's Stortford
+2022-10-25,375000,CM22 6LR,D,N,F,26,,De Mandeville Road,Elsenham,Bishop's Stortford
+2022-10-25,335000,CM22 6DR,D,N,F,Grooms Cottage,,Gaunts End,Elsenham,Bishop's Stortford
+2022-10-21,440000,CM22 7JR,T,N,F,39,,Barnfield,Hatfield Broad Oak,Bishop's Stortford
+2022-10-21,625000,CM22 6FS,D,N,F,1,,Cooper Smith Road,Takeley,Bishop's Stortford
+2022-10-21,385000,CM22 6DQ,D,N,F,14,,Hailes Wood,Elsenham,Bishop's Stortford
+2022-10-21,595000,CM22 6BU,D,N,F,1,,Blossom Hill Drive,Henham,Bishop's Stortford
+2022-10-20,390000,CM22 6QA,T,N,F,24,,Sycamore Close,Takeley,Bishop's Stortford
+2022-10-20,375000,CM22 6LT,D,N,F,37,,Markwells,Elsenham,Bishop's Stortford
+2022-10-20,500000,CM22 6LR,D,N,F,22,,De Mandeville Road,Elsenham,Bishop's Stortford
+2022-10-20,547500,CM22 6DG,S,N,F,Camellia Cottage,,The Cross,Elsenham,Bishop's Stortford
+2022-10-18,2200000,CM22 7UE,D,N,F,Hallingbury House,,Hallingbury Place,Great Hallingbury,Bishop's Stortford
+2022-10-17,456000,CM22 6EZ,S,N,F,17,,Spencer Close,Elsenham,Bishop's Stortford
+2022-10-14,797500,CM22 6FR,D,N,F,3,,Copper Beech Avenue,Takeley,Bishop's Stortford
+2022-10-13,850000,CM22 7UE,D,N,F,West Lodge,,Hallingbury Place,Great Hallingbury,Bishop's Stortford
+2022-10-11,800000,CM22 7RL,D,N,F,Grindelwald,,Wrights Green Lane,Little Hallingbury,Bishop's Stortford
+2022-10-10,545000,CM22 6AT,S,N,F,Dolls Cottage,,The Row,Henham,Bishop's Stortford
+2022-10-07,800000,CM22 6SP,D,N,F,Swallow Cottage,,Dunmow Road,Takeley,Bishop's Stortford
+2022-10-07,620000,CM22 6LA,D,N,F,Alsadene,,Station Road,Elsenham,Bishop's Stortford
+2022-10-03,685000,CM22 7RA,D,N,F,The Firs,,Lower Road,Little Hallingbury,Bishop's Stortford
+2022-09-30,570000,CM22 7QW,D,N,F,Windermere,,The Village,Little Hallingbury,Bishop's Stortford
+2022-09-30,505000,CM22 6TL,D,N,F,7,,Gorefeld,Takeley,Bishop's Stortford
+2022-09-30,377000,CM22 6GW,D,N,F,40,,Isabel Drive,Elsenham,Bishop's Stortford
+2022-09-28,580000,CM22 7UJ,S,N,F,97,,Woodside Green,Great Hallingbury,Bishop's Stortford
+2022-09-28,815000,CM22 6SP,D,N,F,Dreadnought,,Dunmow Road,Takeley,Bishop's Stortford
+2022-09-28,380000,CM22 6PU,F,N,F,6,,Old House Villas,Takeley,Bishop's Stortford
+2022-09-26,375000,CM22 7DU,S,N,F,2,,Rosemary Cottages,Hatfield Heath,Bishop's Stortford
+2022-09-23,580000,CM22 6NT,S,N,F,Coniston,,Jacks Lane,Takeley,Bishop's Stortford
+2022-09-22,860000,CM22 7LX,D,N,F,Linton House,,The Street,Sheering,Bishop's Stortford
+2022-09-20,1000000,CM22 7TR,D,N,F,Spring Cottage,,The Street,Great Hallingbury,Bishop's Stortford
+2022-09-16,361000,CM22 6RT,T,N,F,11,,Long Croft,Takeley,Bishop's Stortford
+2022-09-16,325000,CM22 6LS,T,N,F,38,,Oziers,Elsenham,Bishop's Stortford
+2022-09-15,831750,CM22 7NR,D,N,F,Barnfield,,Church Lane,Sheering,Bishop's Stortford
+2022-09-14,260000,CM22 6RX,S,N,F,44,,Long Croft,Takeley,Bishop's Stortford
+2022-09-12,450000,CM22 6NY,S,N,F,Parkers Farm,Parkers Cottage,Warish Hall Road,Takeley,Bishop's Stortford
+2022-09-09,1295000,CM22 7JN,D,N,F,The Hammonds,,Hammond Road,Hatfield Broad Oak,Bishop's Stortford
+2022-09-08,530000,CM22 7DU,D,N,F,Rosemary Court,1,Stortford Road,Hatfield Heath,Bishop's Stortford
+2022-09-08,780000,CM22 6ST,S,Y,F,Hart Lea,2,Canfield Road,Takeley,Bishop's Stortford
+2022-09-07,252500,CM22 7LN,T,N,F,21,,Queens Head Yard,Sheering,Bishop's Stortford
+2022-09-07,568000,CM22 7FJ,D,Y,F,24,,Mead Field Drive,Great Hallingbury,Bishop's Stortford
+2022-09-07,465000,CM22 6JS,S,N,F,10,,Alsa Leys,Elsenham,Bishop's Stortford
+2022-09-06,720000,CM22 6HN,D,N,F,The Ashes,,Dellows Lane,Ugley,Bishop's Stortford
+2022-09-06,630000,CM22 6ET,D,N,F,2,,Saunders Close,Elsenham,Bishop's Stortford
+2022-09-02,795000,CM22 7RZ,D,N,F,3,,Sutton Acres,Little Hallingbury,Bishop's Stortford
+2022-08-26,485000,CM22 7TP,S,N,F,Fairview,,Bedlars Green,Great Hallingbury,Bishop's Stortford
+2022-08-26,970000,CM22 6LA,D,N,F,Crossways,3,Station Road,Elsenham,Bishop's Stortford
+2022-08-23,1350000,CM22 7DL,D,N,F,The Willows,,Stortford Road,Hatfield Heath,Bishop's Stortford
+2022-08-19,2150000,CM22 7BD,D,N,F,Stonebridge,,Chelmsford Road,Hatfield Heath,Bishop's Stortford
+2022-08-19,580000,CM22 6SD,S,N,F,29,,Hawthorn Close,Takeley,Bishop's Stortford
+2022-08-19,650000,CM22 6AQ,D,N,F,Mark Lyn,,Carters Lane,Henham,Bishop's Stortford
+2022-08-08,750000,CM22 6PE,S,N,F,Ivy Cottage,2,Bambers Green,Takeley,Bishop's Stortford
+2022-08-08,1370000,CM22 6JH,D,N,F,The Bears,,Old Mead Lane,Henham,Bishop's Stortford
+2022-08-05,1000000,CM22 6JJ,D,N,F,The Fuchsias,,Old Mead Lane,Henham,Bishop's Stortford
+2022-07-28,150000,CM22 7HD,F,N,L,"Eden End, 1",7,Feathers Hill,Hatfield Broad Oak,Bishop's Stortford
+2022-07-28,360000,CM22 6HD,T,N,F,6,,Alsa Gardens,Elsenham,Bishop's Stortford
+2022-07-26,2100000,CM22 7HE,T,N,F,Rundle House,,High Street,Hatfield Broad Oak,Bishop's Stortford
+2022-07-26,620000,CM22 7DH,D,N,F,15,,West Hayes,Hatfield Heath,Bishop's Stortford
+2022-07-25,680000,CM22 7RA,D,N,F,The Oaks,,Lower Road,Little Hallingbury,Bishop's Stortford
+2022-07-22,565000,CM22 7RF,D,N,F,Wrights Green Cottage,,Wrights Green Lane,Little Hallingbury,Bishop's Stortford
+2022-07-22,506250,CM22 7EH,S,N,F,8,,Broomfields,Hatfield Heath,Bishop's Stortford
+2022-07-22,390000,CM22 6TZ,S,N,F,7,,Church View Close,Takeley,Bishop's Stortford
+2022-07-18,725000,CM22 6GB,D,N,F,6,,Oak Drive,Elsenham,Bishop's Stortford
+2022-07-15,428000,CM22 6DQ,S,N,F,44C,,Hailes Wood,Elsenham,Bishop's Stortford
+2022-07-13,325000,CM22 7PA,T,N,F,Twyford Mill,15,Pig Lane,,Bishop's Stortford
+2022-07-08,400000,CM22 6AE,D,N,F,10,,Vernons Close,Henham,Bishop's Stortford
+2022-07-07,560000,CM22 6FJ,D,N,F,73,,Orchard Crescent,Elsenham,Bishop's Stortford
+2022-07-01,390000,CM22 6LE,S,N,F,2,,Elm Close,Elsenham,Bishop's Stortford
+2022-06-30,1365021,CM22 7RF,D,N,F,Leah House,,Wrights Green Lane,Little Hallingbury,Bishop's Stortford
+2022-06-30,308000,CM22 6GW,T,N,F,6,,Isabel Drive,Elsenham,Bishop's Stortford
+2022-06-29,315000,CM22 7PY,T,N,F,3,,Red Brick Row,Little Hallingbury,Bishop's Stortford
+2022-06-29,875000,CM22 7BL,T,N,F,Foxglove Farm,2,Dunmow Road,Hatfield Heath,Bishop's Stortford
+2022-06-28,307500,CM22 7NW,D,N,F,4,,The Plashets,Sheering,Bishop's Stortford
+2022-06-24,995000,CM22 6JQ,D,N,F,Cam House,,Old Mead Road,Henham,Bishop's Stortford
+2022-06-22,410000,CM22 6DG,T,N,F,Tinkers Cottage,,The Cross,Elsenham,Bishop's Stortford
+2022-06-17,305000,CM22 7JQ,T,N,F,2,,Park Terrace,Hatfield Broad Oak,Bishop's Stortford
+2022-06-17,563000,CM22 6PJ,D,N,F,Sunnyview,,School Lane,Takeley,Bishop's Stortford
+2022-06-16,525000,CM22 6QS,S,N,F,Rayleigh Cottage,,The Street,Takeley,Bishop's Stortford
+2022-06-14,635000,CM22 7HY,D,N,F,Broadacres,,Cannons Lane,Hatfield Broad Oak,Bishop's Stortford
+2022-06-10,481000,CM22 6FS,S,N,F,22,,Cooper Smith Road,Takeley,Bishop's Stortford
+2022-06-09,874000,CM22 6HJ,D,N,F,Maughans,,Fieldgate Lane,Ugley Green,Bishop's Stortford
+2022-06-08,392000,CM22 7JR,T,N,F,18,,Barnfield,Hatfield Broad Oak,Bishop's Stortford
+2022-06-08,385000,CM22 6JS,S,N,F,4,,Alsa Leys,Elsenham,Bishop's Stortford
+2022-06-07,635000,CM22 6UG,D,N,F,22,,Franklin Drive,Elsenham,Bishop's Stortford
+2022-05-31,575000,CM22 7FJ,D,Y,F,25,,Mead Field Drive,Great Hallingbury,Bishop's Stortford
+2022-05-30,265000,CM22 6RX,S,N,F,52,,Long Croft,Takeley,Bishop's Stortford
+2022-05-27,388000,CM22 7PX,S,N,F,Hillcrest South,,The Village,Little Hallingbury,Bishop's Stortford
+2022-05-26,450000,CM22 6EG,S,N,F,11,,Mill Close,Elsenham,Bishop's Stortford
+2022-05-25,630000,CM22 7PH,D,N,F,Avalon,,Latchmore Bank,Little Hallingbury,Bishop's Stortford
+2022-05-23,240400,CM22 6RB,S,N,F,14,,South Road,Takeley,Bishop's Stortford
+2022-05-13,590000,CM22 7FJ,D,Y,F,23,,Mead Field Drive,Great Hallingbury,Bishop's Stortford
+2022-05-12,375000,CM22 6DQ,D,N,F,23,,Hailes Wood,Elsenham,Bishop's Stortford
+2022-05-06,500000,CM22 7EG,S,N,F,18,,Clipped Hedge,Hatfield Heath,Bishop's Stortford
+2022-05-06,725000,CM22 6PH,D,N,F,Pavilion View,,Molehill Green,Takeley,Bishop's Stortford
+2022-05-04,897500,CM22 6LA,D,N,F,Crossways,1,Station Road,Elsenham,Bishop's Stortford
+2022-04-29,550000,CM22 7EG,D,N,F,9,,Clipped Hedge,Hatfield Heath,Bishop's Stortford
+2022-04-29,685000,CM22 6DQ,D,N,F,93,,Hailes Wood,Elsenham,Bishop's Stortford
+2022-04-28,302000,CM22 6LS,T,N,F,20,,Oziers,Elsenham,Bishop's Stortford
+2022-04-26,370000,CM22 6XW,S,N,F,20,,Turner Close,Elsenham,Bishop's Stortford
+2022-04-26,425000,CM22 6QZ,S,N,F,63,,Roseacres,Takeley,Bishop's Stortford
+2022-04-26,436000,CM22 6GW,S,N,F,14,,Isabel Drive,Elsenham,Bishop's Stortford
+2022-04-22,352000,CM22 7NN,T,N,F,29,,The Plashets,Sheering,Bishop's Stortford
+2022-04-22,345000,CM22 6LR,S,N,F,7,,De Mandeville Road,Elsenham,Bishop's Stortford
+2022-04-21,305000,CM22 7PA,F,N,L,Twyford Mill,Flat 5,Pig Lane,,Bishop's Stortford
+2022-04-13,975000,CM22 7LX,D,N,F,Street Farm House,,The Street,Sheering,Bishop's Stortford
+2022-04-11,450000,CM22 6GW,S,N,F,38,,Isabel Drive,Elsenham,Bishop's Stortford
+2022-04-07,600000,CM22 7JJ,D,N,F,Lincewood Cottage,,Dunmow Road,Hatfield Broad Oak,Bishop's Stortford
+2022-04-07,775000,CM22 6JJ,D,N,F,Lynwood,,Old Mead Lane,Henham,Bishop's Stortford
+2022-04-06,700000,CM22 7QB,T,N,F,Howe Green Moat Hall,2,Howe Green,Great Hallingbury,Bishop's Stortford
+2022-03-24,680000,CM22 7SW,D,N,F,9,,The Staddles,Little Hallingbury,Bishop's Stortford
+2022-03-24,430000,CM22 7PA,F,N,L,Twyford Mews,1,Pig Lane,,Bishop's Stortford
+2022-03-24,470000,CM22 6YB,D,N,F,7,,Lankester Close,Elsenham,Bishop's Stortford
+2022-03-23,300000,CM22 7HG,S,N,F,Laburnum Cottage,,High Street,Hatfield Broad Oak,Bishop's Stortford
+2022-03-22,560000,CM22 6FQ,D,N,F,6,,Russell Francis Way,Takeley,Bishop's Stortford
+2022-03-21,367500,CM22 6SD,S,N,F,14,,Hawthorn Close,Takeley,Bishop's Stortford
+2022-03-18,630000,CM22 6DX,D,N,F,The Haven,,Tye Green Road,Elsenham,Bishop's Stortford
+2022-03-16,564000,CM22 7FJ,D,Y,F,26,,Mead Field Drive,Great Hallingbury,Bishop's Stortford
+2022-03-15,431000,CM22 6LD,S,N,F,28,,Broom Farm Road,Elsenham,Bishop's Stortford
+2022-03-15,525000,CM22 6HJ,D,N,F,Spurgate,,Fieldgate Lane,Ugley Green,Bishop's Stortford
+2022-03-11,575000,CM22 7DD,D,N,F,14,,The Shaw,Hatfield Heath,Bishop's Stortford
+2022-03-11,1150000,CM22 7BD,D,N,F,Tangletrees,,Chelmsford Road,Hatfield Heath,Bishop's Stortford
+2022-03-11,1100000,CM22 6QP,D,N,F,Woodleigh House,,The Street,Takeley,Bishop's Stortford
+2022-03-07,315000,CM22 6RS,T,N,F,16,,Ley Field,Takeley,Bishop's Stortford
+2022-03-03,355500,CM22 6DQ,S,N,F,13,,Hailes Wood,Elsenham,Bishop's Stortford
+2022-02-28,525000,CM22 6PH,S,N,F,Salmon Meadow,,Molehill Green,Takeley,Bishop's Stortford
+2022-02-24,600000,CM22 6TJ,D,N,F,24,,The Pastures,Takeley,Bishop's Stortford
+2022-02-23,718000,CM22 7RJ,D,N,F,13,,Pynchon Paddocks,Little Hallingbury,Bishop's Stortford
+2022-02-18,350000,CM22 6SD,S,N,F,32,,Hawthorn Close,Takeley,Bishop's Stortford
+2022-02-18,465000,CM22 6FJ,D,N,F,17,,Orchard Crescent,Elsenham,Bishop's Stortford
+2022-02-16,400000,CM22 6UJ,S,N,F,4,,Palmer Close,Elsenham,Bishop's Stortford
+2022-02-16,435000,CM22 6QZ,S,N,F,62,,Roseacres,Takeley,Bishop's Stortford
+2022-02-07,950000,CM22 6AR,D,N,F,Ash Cottage,,High Street,Henham,Bishop's Stortford
+2022-02-04,375000,CM22 6XW,D,N,F,18,,Turner Close,Elsenham,Bishop's Stortford
+2022-02-04,425000,CM22 6QZ,S,N,F,25,,Roseacres,Takeley,Bishop's Stortford
+2022-02-04,620000,CM22 6QR,D,N,F,2,,Stile Close,Takeley,Bishop's Stortford
+2022-02-04,635000,CM22 6QR,D,N,F,1,,Stile Close,Takeley,Bishop's Stortford
+2022-01-28,425000,CM22 7TT,S,N,F,10,,The Grove,Great Hallingbury,Bishop's Stortford
+2022-01-28,172000,CM22 6LZ,F,N,L,Fenman Court,Flat 5,Station Road,Elsenham,Bishop's Stortford
+2022-01-28,610000,CM22 6LG,D,N,F,The Brambles,,Station Road,Elsenham,Bishop's Stortford
+2022-01-28,420000,CM22 6DQ,D,N,F,63,,Hailes Wood,Elsenham,Bishop's Stortford
+2022-01-27,680000,CM22 7PH,D,N,F,Brendon,,Latchmore Bank,Little Hallingbury,Bishop's Stortford
+2022-01-27,570000,CM22 7HA,D,N,F,Copperfields,,Feathers Hill,Hatfield Broad Oak,Bishop's Stortford
+2022-01-27,1175000,CM22 6AR,D,N,F,Paddock Lodge,,High Street,Henham,Bishop's Stortford
+2022-01-25,530000,CM22 6TZ,D,N,F,1,,Church View Close,Takeley,Bishop's Stortford
+2022-01-24,410000,CM22 7NH,S,N,F,27,,Primley Lane,Sheering,Bishop's Stortford
+2022-01-21,580000,CM22 7TH,D,N,F,Start House,,Tilekiln Green,Great Hallingbury,Bishop's Stortford
+2022-01-17,308000,CM22 6EL,T,N,F,12,,Glebe End,Elsenham,Bishop's Stortford
+2022-01-12,410000,CM22 6RS,S,N,F,6,,Ley Field,Takeley,Bishop's Stortford
+2022-01-11,945000,CM22 7BL,T,N,F,3 Foxglove Farm,The Yews,Dunmow Road,Hatfield Heath,Bishop's Stortford
+2022-01-10,590000,CM22 7JB,D,N,F,13,,Medlars Mead,Hatfield Broad Oak,Bishop's Stortford
+2022-01-10,450000,CM22 6QR,S,N,F,Mill Cottage,2,The Street,Takeley,Bishop's Stortford
+2022-01-07,727500,CM22 7RG,D,N,F,The Nest,,Goose Lane,Little Hallingbury,Bishop's Stortford
+2022-01-07,430000,CM22 6FS,S,N,F,29,,Cooper Smith Road,Takeley,Bishop's Stortford
+2022-01-05,890000,CM22 6ST,D,N,F,Moor Hill,,Canfield Road,Takeley,Bishop's Stortford
+2022-01-05,430000,CM22 6RN,S,N,F,41,,Garnetts,Takeley,Bishop's Stortford
+2021-12-22,820000,CM22 6AQ,D,N,F,The Cedars,,Carters Lane,Henham,Bishop's Stortford
+2021-12-20,1140500,CM22 7QU,D,N,F,Oaks & Bushes,,Sawbridgeworth Road,Little Hallingbury,Bishop's Stortford
+2021-12-17,340000,CM22 7PY,T,N,F,2,,Red Brick Row,Little Hallingbury,Bishop's Stortford
+2021-12-16,427500,CM22 6QZ,S,N,F,28,,Roseacres,Takeley,Bishop's Stortford
+2021-12-15,169600,CM22 7FB,T,N,L,11,,Moat Field,Hatfield Heath,Bishop's Stortford
+2021-12-15,875000,CM22 7BL,D,Y,F,Foxglove Farm,1,Dunmow Road,Hatfield Heath,Bishop's Stortford
+2021-12-15,525000,CM22 7AA,T,N,F,2,,Mill Lane,Hatfield Heath,Bishop's Stortford
+2021-12-15,335000,CM22 6HB,T,N,F,43,,Alsa Gardens,Elsenham,Bishop's Stortford
+2021-12-15,305000,CM22 6EQ,D,N,F,8,,The Glebe,Elsenham,Bishop's Stortford
+2021-12-14,290000,CM22 6SN,T,N,F,Nursery Cottages,3,Dunmow Road,Takeley,Bishop's Stortford
+2021-12-13,945000,CM22 7BJ,D,N,F,Farthings,,Park Drive,Hatfield Heath,Bishop's Stortford
+2021-12-10,915000,CM22 7JN,D,N,F,Parson's Cottage,,Hammond Road,Hatfield Broad Oak,Bishop's Stortford
+2021-12-10,875000,CM22 6AS,T,N,F,Clifton House,,High Street,Henham,Bishop's Stortford
+2021-12-10,1295000,CM22 6AR,D,N,F,Bell House,,High Street,Henham,Bishop's Stortford
+2021-12-08,538000,CM22 6EP,D,N,F,8,,Paget Court,Elsenham,Bishop's Stortford
+2021-12-08,420000,CM22 6DQ,D,N,F,87,,Hailes Wood,Elsenham,Bishop's Stortford
+2021-12-03,395000,CM22 6EG,S,N,F,13,,Mill Close,Elsenham,Bishop's Stortford
+2021-12-02,1012500,CM22 7JJ,D,N,F,The Cottage,,Dunmow Road,Hatfield Broad Oak,Bishop's Stortford
+2021-12-01,413000,CM22 6SF,S,N,F,8,,Elm Close,Takeley,Bishop's Stortford
+2021-11-29,491995,CM22 6LQ,D,N,F,6,,Cranmore Close,Elsenham,Bishop's Stortford
+2021-11-29,500000,CM22 6FR,S,N,F,12,,Copper Beech Avenue,Takeley,Bishop's Stortford
+2021-11-19,1200000,CM22 6AR,D,N,F,Bell Lodge,,High Street,Henham,Bishop's Stortford
+2021-11-18,529500,CM22 6HP,T,N,F,Park Cottage,,Pound Lane,Ugley,Bishop's Stortford
+2021-11-12,435000,CM22 7JR,S,N,F,23,,Barnfield,Hatfield Broad Oak,Bishop's Stortford
+2021-11-12,375000,CM22 6LR,S,N,F,5,,De Mandeville Road,Elsenham,Bishop's Stortford
+2021-11-12,415000,CM22 6LR,D,N,F,21,,De Mandeville Road,Elsenham,Bishop's Stortford
+2021-11-09,346500,CM22 7NN,T,N,F,25,,The Plashets,Sheering,Bishop's Stortford
+2021-11-08,850000,CM22 7RN,D,N,F,Walnut Tree Cottage,,Motts Green,Little Hallingbury,Bishop's Stortford
+2021-11-04,385000,CM22 6LD,S,N,F,9,,Broom Farm Road,Elsenham,Bishop's Stortford
+2021-11-04,760000,CM22 6DS,D,N,F,The Oak Barn,,Green Street,Elsenham,Bishop's Stortford
+2021-11-04,825000,CM22 6AX,D,N,F,2,,Wrights Piece,Henham,Bishop's Stortford
+2021-11-02,610000,CM22 7RJ,D,N,F,7,,Pynchon Paddocks,Little Hallingbury,Bishop's Stortford
+2021-11-01,331500,CM22 7NH,S,N,F,13,,Primley Lane,Sheering,Bishop's Stortford
+2021-10-29,700000,CM22 7RW,D,N,F,Chestnut Cottage,,Motts Green,Little Hallingbury,Bishop's Stortford
+2021-10-29,620000,CM22 6LY,S,N,F,York House,,The Street,Takeley,Bishop's Stortford
+2021-10-15,710000,CM22 6SG,D,N,F,The Well House,,Station Road,Takeley,Bishop's Stortford
+2021-10-15,950000,CM22 6EA,D,N,F,Freshfields,,Fullers End,Elsenham,Bishop's Stortford
+2021-10-08,165000,CM22 7AH,F,N,L,3A,,Ardley Crescent,Hatfield Heath,Bishop's Stortford
+2021-10-08,1050000,CM22 6ST,D,N,F,Canfield Cottage,,Canfield Road,Takeley,Bishop's Stortford
+2021-10-07,717174,CM22 7TQ,D,N,F,Gerald Villa,,Tilekiln Green,Great Hallingbury,Bishop's Stortford
+2021-09-30,1200000,CM22 7RF,D,N,F,Pynchon Hall,,Wrights Green,Little Hallingbury,Bishop's Stortford
+2021-09-30,650000,CM22 7JT,D,N,F,Cammas Cottage,,Needham Green,Hatfield Broad Oak,Bishop's Stortford
+2021-09-30,250000,CM22 7HD,F,N,L,"Eden End, 1",4,Feathers Hill,Hatfield Broad Oak,Bishop's Stortford
+2021-09-30,578550,CM22 6YE,D,N,F,Marcham Row,3,Isabel Drive,Elsenham,Bishop's Stortford
+2021-09-30,393000,CM22 6UJ,S,N,F,3,,Palmer Close,Elsenham,Bishop's Stortford
+2021-09-30,300000,CM22 6SF,S,N,F,18,,Elm Close,Takeley,Bishop's Stortford
+2021-09-30,630000,CM22 6BN,S,N,F,Pledgdon Green Farm,,Pledgdon Green,Henham,Bishop's Stortford
+2021-09-29,442000,CM22 6QH,S,N,F,Moana,,Brewers End,Takeley,Bishop's Stortford
+2021-09-29,375000,CM22 6LT,T,N,F,17,,Markwells,Elsenham,Bishop's Stortford
+2021-09-29,387500,CM22 6LT,D,N,F,1,,Markwells,Elsenham,Bishop's Stortford
+2021-09-29,307500,CM22 6LS,T,N,F,17,,Oziers,Elsenham,Bishop's Stortford
+2021-09-29,580000,CM22 6FE,S,N,F,9,,Westwood Mews,Takeley,Bishop's Stortford
+2021-09-28,500000,CM22 7AA,D,N,F,Mill End,,Mill Lane,Hatfield Heath,Bishop's Stortford
+2021-09-28,417000,CM22 6QR,D,N,F,Ramor,,The Street,Takeley,Bishop's Stortford
+2021-09-24,610000,CM22 7TS,S,N,F,Rainbows,,Church Road,Great Hallingbury,Bishop's Stortford
+2021-09-24,800000,CM22 7LN,D,N,F,Centuries,,The Street,Sheering,Bishop's Stortford
+2021-09-24,482500,CM22 6TZ,D,N,F,9,,Church View Close,Takeley,Bishop's Stortford
+2021-09-24,420000,CM22 6QR,S,N,F,Glenmore,,The Street,Takeley,Bishop's Stortford
+2021-09-24,620000,CM22 6DQ,D,N,F,61,,Hailes Wood,Elsenham,Bishop's Stortford
+2021-09-24,570000,CM22 6BN,S,N,F,The Old Coach House,,Pledgdon Green,Henham,Bishop's Stortford
+2021-09-23,1450000,CM22 7DR,D,N,F,The Mount,,Sawbridgeworth Road,Hatfield Heath,Bishop's Stortford
+2021-09-23,850000,CM22 6AY,D,N,F,May House,,Wood End Green,Henham,Bishop's Stortford
+2021-09-22,300000,CM22 6EL,T,N,F,7,,Glebe End,Elsenham,Bishop's Stortford
+2021-09-21,307500,CM22 6SR,T,N,F,1,,Broadfield Road,Takeley,Bishop's Stortford
+2021-09-20,315000,CM22 7EL,T,N,F,51,,Broomfields,Hatfield Heath,Bishop's Stortford
+2021-09-17,610000,CM22 6FS,D,N,F,4,,Cooper Smith Road,Takeley,Bishop's Stortford
+2021-09-16,490000,CM22 7EU,S,N,F,8,,Beehive Court,Hatfield Heath,Bishop's Stortford
+2021-09-15,710000,CM22 7RZ,D,N,F,8,,Sutton Acres,Little Hallingbury,Bishop's Stortford
+2021-09-09,219000,CM22 6GW,T,N,F,32,,Isabel Drive,Elsenham,Bishop's Stortford
+2021-09-03,420000,CM22 6GS,S,N,F,14,,Brook Springs Grove,Elsenham,Bishop's Stortford
+2021-09-02,560000,CM22 6FS,D,N,F,13,,Cooper Smith Road,Takeley,Bishop's Stortford
+2021-09-01,395000,CM22 6LH,T,N,F,15,,Gilbey Cottages,Elsenham,Bishop's Stortford
+2021-09-01,345000,CM22 6HD,T,N,F,11,,Alsa Gardens,Elsenham,Bishop's Stortford
+2021-08-31,695000,CM22 7QS,D,N,F,Olde House Farm,,Gaston Green,Little Hallingbury,Bishop's Stortford
+2021-08-27,214500,CM22 7PA,F,N,L,Twyford Mill,Flat 1,Pig Lane,,Bishop's Stortford
+2021-08-26,415000,CM22 6FU,D,N,F,37,,Godfrey Crescent,Takeley,Bishop's Stortford
+2021-08-26,1100000,CM22 6AG,D,N,F,Littlebrook,,Crow Street,Henham,Bishop's Stortford
+2021-08-25,292500,CM22 6LS,T,N,F,24,,Oziers,Elsenham,Bishop's Stortford
+2021-08-24,595000,CM22 7UU,T,N,F,75,,Woodside Green,Great Hallingbury,Bishop's Stortford
+2021-08-21,520000,CM22 6SA,S,N,F,Mulberry,,Brewers End,Takeley,Bishop's Stortford
+2021-08-20,445000,CM22 6FJ,D,N,F,11,,Orchard Crescent,Elsenham,Bishop's Stortford
+2021-08-20,500000,CM22 6EN,D,N,F,2,,Haileswood Close,Elsenham,Bishop's Stortford
+2021-08-19,400000,CM22 7UU,T,N,F,73,,Woodside Green,Great Hallingbury,Bishop's Stortford
+2021-08-19,500320,CM22 6LJ,S,N,F,South View,,Stansted Road,Elsenham,Bishop's Stortford
+2021-08-17,494000,CM22 6AT,S,N,F,Thatch End,,The Row,Henham,Bishop's Stortford
+2021-08-13,361000,CM22 6JS,D,N,F,27,,Alsa Leys,Elsenham,Bishop's Stortford
+2021-08-11,980000,CM22 7AL,D,N,F,Chippings,,Ardley End,Hatfield Heath,Bishop's Stortford
+2021-08-11,370000,CM22 6HG,T,N,F,8,,Bedwell Road,Ugley,Bishop's Stortford
+2021-08-10,365000,CM22 6UJ,S,N,F,1,,Palmer Close,Elsenham,Bishop's Stortford
+2021-08-10,340000,CM22 6GS,S,N,F,10,,Brook Springs Grove,Elsenham,Bishop's Stortford
+2021-08-06,484000,CM22 7ES,D,N,F,2,,Home Pastures,Hatfield Heath,Bishop's Stortford
+2021-08-06,475000,CM22 7ER,T,N,F,10,,Cox Ley,Hatfield Heath,Bishop's Stortford
+2021-08-04,350000,CM22 6HB,T,N,F,39,,Alsa Gardens,Elsenham,Bishop's Stortford
+2021-07-30,470000,CM22 6SF,D,N,F,6,,Elm Close,Takeley,Bishop's Stortford
+2021-07-30,195000,CM22 6LU,T,N,F,14,,The Croft,Elsenham,Bishop's Stortford
+2021-07-23,775000,CM22 7TR,D,N,F,Spring Cottage,,The Street,Great Hallingbury,Bishop's Stortford
+2021-07-15,340000,CM22 6AJ,T,N,F,Church Cottages,3,Church Street,Henham,Bishop's Stortford
+2021-07-14,367000,CM22 6TH,T,N,F,43,,The Pastures,Takeley,Bishop's Stortford
+2021-06-30,326000,CM22 7TG,S,N,F,9,,Start Hill,,Bishop's Stortford
+2021-06-30,800000,CM22 7RF,D,N,F,Wrights Lodge,,Wrights Green Lane,Little Hallingbury,Bishop's Stortford
+2021-06-30,740000,CM22 7PH,D,N,F,Cambeck,,Latchmore Bank,Little Hallingbury,Bishop's Stortford
+2021-06-30,320000,CM22 7NX,T,N,F,30,,Crown Close,Sheering,Bishop's Stortford
+2021-06-30,650000,CM22 7NB,D,N,F,Sunnyview,,Harlow Road,Sheering,Bishop's Stortford
+2021-06-30,500000,CM22 6YJ,D,N,F,1,,Camps Close,Takeley,Bishop's Stortford
+2021-06-30,461000,CM22 6UG,D,N,F,36,,Franklin Drive,Elsenham,Bishop's Stortford
+2021-06-30,360000,CM22 6RL,D,N,F,29,,Garnetts,Takeley,Bishop's Stortford
+2021-06-30,265000,CM22 6RG,T,N,F,23,,North Road,Takeley,Bishop's Stortford
+2021-06-30,745000,CM22 6QJ,D,N,F,The Chalet,,Brewers End,Takeley,Bishop's Stortford
+2021-06-30,700000,CM22 6PE,D,N,F,Countryside,,Bambers Green,Takeley,Bishop's Stortford
+2021-06-29,445000,CM22 7PT,S,N,F,4,,George Green Villas,Little Hallingbury,Bishop's Stortford
+2021-06-29,334500,CM22 7HH,S,N,F,Olde Bakehouse Cottages,2,High Street,Hatfield Broad Oak,Bishop's Stortford
+2021-06-29,385000,CM22 6JS,D,N,F,11,,Alsa Leys,Elsenham,Bishop's Stortford
+2021-06-29,485000,CM22 6AG,D,N,F,Bacons Cottage,,Crow Street,Henham,Bishop's Stortford
+2021-06-28,494000,CM22 7JD,T,N,F,Little Bradwell,,Broad Street,Hatfield Broad Oak,Bishop's Stortford
+2021-06-28,900000,CM22 7FG,D,N,F,1,,Church Fields,Sheering,Bishop's Stortford
+2021-06-28,282000,CM22 6QH,T,N,F,Cambridge Cottages,4,Brewers End,Takeley,Bishop's Stortford
+2021-06-28,395000,CM22 6FS,S,N,F,16,,Cooper Smith Road,Takeley,Bishop's Stortford
+2021-06-28,425000,CM22 6EZ,S,N,F,17,,Spencer Close,Elsenham,Bishop's Stortford
+2021-06-28,395000,CM22 6DQ,D,N,F,33,,Hailes Wood,Elsenham,Bishop's Stortford
+2021-06-25,350000,CM22 7NN,T,N,F,47,,The Plashets,Sheering,Bishop's Stortford
+2021-06-25,365000,CM22 6YB,S,N,F,3,,Lankester Close,Elsenham,Bishop's Stortford
+2021-06-25,610000,CM22 6DY,D,N,F,Barley Cottage,,Tye Green,Elsenham,Bishop's Stortford
+2021-06-25,495000,CM22 6DQ,D,N,F,85,,Hailes Wood,Elsenham,Bishop's Stortford
+2021-06-24,380000,CM22 6AE,D,N,F,12,,Vernons Close,Henham,Bishop's Stortford
+2021-06-23,680000,CM22 7QU,S,N,F,Barncroft,,Sawbridgeworth Road,Little Hallingbury,Bishop's Stortford
+2021-06-23,540000,CM22 6FJ,D,N,F,5,,Orchard Crescent,Elsenham,Bishop's Stortford
+2021-06-23,1110000,CM22 6DF,D,N,F,Gilvus Oak,,Park Road,Elsenham,Bishop's Stortford
+2021-06-22,723500,CM22 7HR,D,N,F,Cage End Cottage,,Cage End,Hatfield Broad Oak,Bishop's Stortford
+2021-06-22,1200000,CM22 6AG,D,N,F,Bacons Farm,,Crow Street,Henham,Bishop's Stortford
+2021-06-21,445000,CM22 6QR,S,N,F,120,,The Street,Takeley,Bishop's Stortford
+2021-06-21,440000,CM22 6PJ,S,N,F,Cricket View,3,School Lane,Takeley,Bishop's Stortford
+2021-06-21,297500,CM22 6HA,S,N,F,13,,New Road,Elsenham,Bishop's Stortford
+2021-06-21,610000,CM22 6DY,D,N,F,White Cottage,,Tye Green,Elsenham,Bishop's Stortford
+2021-06-18,435000,CM22 6YJ,S,N,F,2,,Camps Close,Takeley,Bishop's Stortford
+2021-06-18,550000,CM22 6BY,D,N,F,31,,Leigh Drive,Elsenham,Bishop's Stortford
+2021-06-17,1175000,CM22 7AX,D,N,F,Holmby,,Chelmsford Road,Hatfield Heath,Bishop's Stortford
+2021-06-14,270000,CM22 6RG,T,N,F,7,,North Road,Takeley,Bishop's Stortford
+2021-06-11,600000,CM22 7RA,D,N,F,Natters,,Lower Road,Little Hallingbury,Bishop's Stortford
+2021-06-11,305000,CM22 7PA,F,N,L,Twyford Mews,8,Pig Lane,,Bishop's Stortford
+2021-06-11,800000,CM22 7LA,D,N,F,Cannons Barn,,,Hatfield Broad Oak,Bishop's Stortford
+2021-06-11,264000,CM22 6QU,T,N,F,2,,The Street,Takeley,Bishop's Stortford
+2021-06-11,400000,CM22 6LH,S,N,F,4,,Gilbey Cottages,Elsenham,Bishop's Stortford
+2021-06-11,405000,CM22 6LE,D,N,F,28,,Elm Close,Elsenham,Bishop's Stortford
+2021-06-11,590000,CM22 6DF,D,N,F,Sudorpocha,,Park Road,Elsenham,Bishop's Stortford
+2021-06-10,400000,CM22 6HL,S,N,F,Oakley Cottage,,,Ugley Green,Bishop's Stortford
+2021-06-10,605000,CM22 6HA,D,N,F,39,,New Road,Elsenham,Bishop's Stortford
+2021-06-04,632500,CM22 7RJ,D,N,F,15,,Pynchon Paddocks,Little Hallingbury,Bishop's Stortford
+2021-06-04,330000,CM22 7NN,T,N,F,53,,The Plashets,Sheering,Bishop's Stortford
+2021-06-04,605000,CM22 7NB,D,N,F,The Hollys,,Harlow Road,Sheering,Bishop's Stortford
+2021-06-03,335000,CM22 7HF,T,N,F,Cock Cottage,,High Street,Hatfield Broad Oak,Bishop's Stortford
+2021-05-28,465000,CM22 7PX,D,N,F,Witneys,2,The Village,Little Hallingbury,Bishop's Stortford
+2021-05-28,760000,CM22 7PN,D,N,F,116,,Latchmore Bank,Little Hallingbury,Bishop's Stortford
+2021-05-28,800000,CM22 7EE,D,N,F,Clipped Hedge Cottage,,Dunmow Road,Hatfield Heath,Bishop's Stortford
+2021-05-28,358000,CM22 6UD,T,N,F,5,,Lower Mead Close,Henham,Bishop's Stortford
+2021-05-28,422500,CM22 6ET,D,N,F,8,,Saunders Close,Elsenham,Bishop's Stortford
+2021-05-28,315000,CM22 6EL,T,N,F,30,,Glebe End,Elsenham,Bishop's Stortford
+2021-05-28,415000,CM22 6EG,S,N,F,25,,Mill Close,Elsenham,Bishop's Stortford
+2021-05-27,390000,CM22 6SR,S,N,F,"Oak Tree Cottage, 1B",,Broadfield Road,Takeley,Bishop's Stortford
+2021-05-26,1680000,CM22 7NR,D,N,F,Old Rectory,,Church Lane,Sheering,Bishop's Stortford
+2021-05-24,875000,CM22 7RH,D,N,F,Benvilles,,Wrights Green,Little Hallingbury,Bishop's Stortford
+2021-05-21,920000,CM22 7PA,D,N,F,The Chase,,Pig Lane,,Bishop's Stortford
+2021-05-21,386500,CM22 6RN,D,N,F,65A,,Garnetts,Takeley,Bishop's Stortford
+2021-05-20,475000,CM22 6QZ,S,N,F,39,,Roseacres,Takeley,Bishop's Stortford
+2021-05-19,412500,CM22 6LR,S,N,F,36,,De Mandeville Road,Elsenham,Bishop's Stortford
+2021-05-18,476000,CM22 7QU,S,N,F,Burstead Cottages,,Sawbridgeworth Road,Little Hallingbury,Bishop's Stortford
+2021-05-17,412500,CM22 7HJ,T,N,F,4,,Dukes Orchard,Hatfield Broad Oak,Bishop's Stortford
+2021-05-14,345000,CM22 7NX,S,N,F,50,,Crown Close,Sheering,Bishop's Stortford
+2021-05-14,120000,CM22 7HD,F,N,L,"Eden End, 1",3,Feathers Hill,Hatfield Broad Oak,Bishop's Stortford
+2021-05-14,745000,CM22 7FH,D,N,F,1,,Tawny Grove,Hatfield Broad Oak,Bishop's Stortford
+2021-05-13,350000,CM22 6RX,D,N,F,56,,Long Croft,Takeley,Bishop's Stortford
+2021-05-07,535000,CM22 7PT,S,N,F,7,,George Green Villas,Little Hallingbury,Bishop's Stortford
+2021-05-07,410000,CM22 7JR,T,N,F,19,,Barnfield,Hatfield Broad Oak,Bishop's Stortford
+2021-05-07,592000,CM22 7JH,T,N,F,Barrington Cottages,1,Dunmow Road,Hatfield Broad Oak,Bishop's Stortford
+2021-05-07,186000,CM22 6UH,S,N,L,15,,Aylett Close,Elsenham,Bishop's Stortford
+2021-05-07,735000,CM22 6FR,D,N,F,7,,Copper Beech Avenue,Takeley,Bishop's Stortford
+2021-05-07,322500,CM22 6DQ,S,N,F,71,,Hailes Wood,Elsenham,Bishop's Stortford
+2021-04-30,266000,CM22 6RX,S,N,F,50,,Long Croft,Takeley,Bishop's Stortford
+2021-04-30,550000,CM22 6QX,D,N,F,Roverdean,,Parsonage Road,Takeley,Bishop's Stortford
+2021-04-30,355000,CM22 6HD,S,N,F,14,,Alsa Gardens,Elsenham,Bishop's Stortford
+2021-04-30,515000,CM22 6DY,S,N,F,Lavender Cottage,,Tye Green,Elsenham,Bishop's Stortford
+2021-04-28,1325000,CM22 6EA,D,N,F,Manor House,,Fullers End,Elsenham,Bishop's Stortford
+2021-04-28,500000,CM22 6BG,S,N,F,Swift Cottage,,Chickney Road,Henham,Bishop's Stortford
+2021-04-27,315000,CM22 6GW,T,N,F,4,,Isabel Drive,Elsenham,Bishop's Stortford
+2021-04-26,595000,CM22 6LG,D,N,F,Quindon,,Station Road,Elsenham,Bishop's Stortford
+2021-04-23,353000,CM22 7NE,S,N,F,86,,Crown Close,Sheering,Bishop's Stortford
+2021-04-23,470500,CM22 7EG,S,N,F,13,,Clipped Hedge,Hatfield Heath,Bishop's Stortford
+2021-04-20,1200000,CM22 6HW,D,N,F,The Cottage,,Snakes Lane,Ugley,Bishop's Stortford
+2021-04-16,425000,CM22 6YJ,D,N,F,3,,Camps Close,Takeley,Bishop's Stortford
+2021-04-16,512500,CM22 6TH,D,N,F,13,,The Pastures,Takeley,Bishop's Stortford
+2021-04-16,365000,CM22 6SD,S,N,F,28,,Hawthorn Close,Takeley,Bishop's Stortford
+2021-04-16,375000,CM22 6HB,S,N,F,47,,Alsa Gardens,Elsenham,Bishop's Stortford
+2021-04-15,510000,CM22 7PX,D,N,F,Abbeville,,The Village,Little Hallingbury,Bishop's Stortford
+2021-04-15,360000,CM22 6AB,S,N,F,30,,Mill Road,Henham,Bishop's Stortford
+2021-04-14,357500,CM22 7UG,D,N,F,Monkswood Bungalow,,Woodside Green,Great Hallingbury,Bishop's Stortford
+2021-04-14,725000,CM22 6JQ,D,N,F,Yew Tree House,,Old Mead Road,Henham,Bishop's Stortford
+2021-04-14,264000,CM22 6HT,D,N,F,Chestnut Cottage,,Cambridge Road,Ugley,Bishop's Stortford
+2021-04-09,840000,CM22 7HQ,S,N,F,Great Chalks,1,High Street,Hatfield Broad Oak,Bishop's Stortford
+2021-04-09,320000,CM22 6HB,T,N,F,30,,Alsa Gardens,Elsenham,Bishop's Stortford
+2021-04-08,305000,CM22 6LE,T,N,F,35,,Elm Close,Elsenham,Bishop's Stortford
+2021-04-08,509000,CM22 6DR,D,N,F,Home Farm Cottage,,Gaunts End,Elsenham,Bishop's Stortford
+2021-04-01,605000,CM22 7RJ,D,N,F,17,,Pynchon Paddocks,Little Hallingbury,Bishop's Stortford
+2021-03-31,160000,CM22 6UU,T,N,L,10,,Sant Road,Elsenham,Bishop's Stortford
+2021-03-30,362000,CM22 7NE,T,N,F,76,,Crown Close,Sheering,Bishop's Stortford
+2021-03-30,615000,CM22 6FS,D,N,F,3,,Cooper Smith Road,Takeley,Bishop's Stortford
+2021-03-29,740000,CM22 6JQ,D,N,F,Kingsmead House,,Old Mead Road,Henham,Bishop's Stortford
+2021-03-29,410000,CM22 6HG,S,N,F,23,,Bedwell Road,Ugley,Bishop's Stortford
+2021-03-29,437500,CM22 6FP,S,N,F,9,,Fieldview Close,Henham,Bishop's Stortford
+2021-03-26,185000,CM22 6RX,T,N,F,58,,Long Croft,Takeley,Bishop's Stortford
+2021-03-25,850000,CM22 7BL,S,N,F,Foxglove Farm,5,Dunmow Road,Hatfield Heath,Bishop's Stortford
+2021-03-23,662500,CM22 7RL,D,N,F,Cornfields,,Wrights Green Lane,Little Hallingbury,Bishop's Stortford
+2021-03-23,1475000,CM22 6AY,D,N,F,Wood End,,Wood End Green,Henham,Bishop's Stortford
+2021-03-22,425000,CM22 7PA,F,N,L,Twyford Mews,3,Pig Lane,,Bishop's Stortford
+2021-03-22,330000,CM22 7HT,T,N,F,Forsythia Cottage,,Cage End,Hatfield Broad Oak,Bishop's Stortford
+2021-03-22,600000,CM22 6QU,D,N,F,Apton Cottage,,The Street,Takeley,Bishop's Stortford
+2021-03-22,840000,CM22 6QL,D,N,F,Millers,,Cooks Hill,Takeley,Bishop's Stortford
+2021-03-17,410000,CM22 6LB,S,N,F,21,,Ridley Gardens,Elsenham,Bishop's Stortford
+2021-03-17,675000,CM22 6JW,D,N,F,6,,Patmore Fields,Ugley,Bishop's Stortford
+2021-03-15,1020000,CM22 7LX,D,N,F,Oak Cottage,,The Street,Sheering,Bishop's Stortford
+2021-03-15,580000,CM22 6SL,D,N,F,Wayside,,Dunmow Road,Takeley,Bishop's Stortford
+2021-03-13,477500,CM22 7ER,S,N,F,17,,Cox Ley,Hatfield Heath,Bishop's Stortford
+2021-03-12,1000000,CM22 6HZ,D,N,F,Roseland House,,Cambridge Road,Ugley,Bishop's Stortford
+2021-03-11,615000,CM22 6GX,D,N,F,23,,Barley Way,Elsenham,Bishop's Stortford
+2021-03-09,745000,CM22 7RL,D,N,F,Birch Grove,,Wrights Green Lane,Little Hallingbury,Bishop's Stortford
+2021-03-09,575000,CM22 7RA,D,N,F,Sunny View,,Lower Road,Little Hallingbury,Bishop's Stortford
+2021-03-09,495000,CM22 6BY,D,N,F,10,,Leigh Drive,Elsenham,Bishop's Stortford
+2021-03-05,700000,CM22 7UW,D,N,F,83,,Woodside Green,Great Hallingbury,Bishop's Stortford
+2021-03-05,585000,CM22 6LJ,S,N,F,2,,Stansted Road,Elsenham,Bishop's Stortford
+2021-03-04,325000,CM22 6SD,S,N,F,16,,Hawthorn Close,Takeley,Bishop's Stortford
+2021-03-04,399995,CM22 6FU,D,N,F,14,,Godfrey Crescent,Takeley,Bishop's Stortford
+2021-03-02,405000,CM22 6HG,D,N,F,"Dormers, 27",,Bedwell Road,Ugley,Bishop's Stortford
+2021-03-01,343500,CM22 6LT,D,N,F,27,,Markwells,Elsenham,Bishop's Stortford
+2021-02-26,835000,CM22 7RN,S,N,F,Three Acres,,Motts Green,Little Hallingbury,Bishop's Stortford
+2021-02-26,390000,CM22 6LD,S,N,F,25,,Broom Farm Road,Elsenham,Bishop's Stortford
+2021-02-26,575000,CM22 6LB,D,N,F,2,,Ridley Gardens,Elsenham,Bishop's Stortford
+2021-02-26,400000,CM22 6EB,D,N,F,Krithia,,Robin Hood Road,Elsenham,Bishop's Stortford
+2021-02-26,440000,CM22 6DF,S,N,F,Birches,,Park Road,Elsenham,Bishop's Stortford
+2021-02-26,780000,CM22 6AQ,D,N,F,The Haven,,Carters Lane,Henham,Bishop's Stortford
+2021-02-25,1190000,CM22 7FH,D,Y,F,2,,Tawny Grove,Hatfield Broad Oak,Bishop's Stortford
+2021-02-24,225000,CM22 6SR,T,N,F,7,,Broadfield Road,Takeley,Bishop's Stortford
+2021-02-23,600000,CM22 7UW,D,N,F,"Woodside Cottage, 82A",,Woodside Green,Great Hallingbury,Bishop's Stortford
+2021-02-23,1045000,CM22 7BD,D,N,F,Englefield,,Chelmsford Road,Hatfield Heath,Bishop's Stortford
+2021-02-22,710000,CM22 7HB,D,N,F,Priory Barn,,Feathers Hill,Hatfield Broad Oak,Bishop's Stortford
+2021-02-22,325000,CM22 6LT,D,N,F,23,,Markwells,Elsenham,Bishop's Stortford
+2021-02-19,289500,CM22 7HF,T,N,F,Twiss Cottage,,High Street,Hatfield Broad Oak,Bishop's Stortford
+2021-02-19,430000,CM22 6PJ,S,N,F,Cricket View,2,School Lane,Takeley,Bishop's Stortford
+2021-02-18,490000,CM22 7EP,D,N,F,16,,Little Heath,Hatfield Heath,Bishop's Stortford
+2021-02-17,783000,CM22 7TS,D,N,F,Highfield,,Church Road,Great Hallingbury,Bishop's Stortford
+2021-02-17,421500,CM22 7JS,D,N,F,Waters Farm,Essex Barn,,Hatfield Broad Oak,Bishop's Stortford
+2021-02-17,550000,CM22 6AY,S,N,F,1,,Wood End Green,Henham,Bishop's Stortford
+2021-02-16,1060000,CM22 7FH,D,Y,F,6,,Tawny Grove,Hatfield Broad Oak,Bishop's Stortford
+2021-02-15,435000,CM22 6PJ,S,N,F,Cricket View,4,School Lane,Takeley,Bishop's Stortford
+2021-02-12,430000,CM22 6YF,D,N,F,20,,Southfield Close,Elsenham,Bishop's Stortford
+2021-02-12,412500,CM22 6TP,D,N,F,6,,Orchid Close,Takeley,Bishop's Stortford
+2021-02-12,620000,CM22 6SF,D,N,F,Ivy Chimney Cottage,,Elm Close,Takeley,Bishop's Stortford
+2021-02-12,597000,CM22 6LA,D,N,F,The Stocks,,Station Road,Elsenham,Bishop's Stortford
+2021-02-12,675000,CM22 6JW,D,N,F,2,,Patmore Fields,Ugley,Bishop's Stortford
+2021-02-11,970000,CM22 7FH,D,Y,F,7,,Tawny Grove,Hatfield Broad Oak,Bishop's Stortford
+2021-02-11,365000,CM22 6FU,D,N,F,12,,Godfrey Crescent,Takeley,Bishop's Stortford
+2021-02-09,380000,CM22 7GD,S,N,F,York Barn,,Cage End,Hatfield Broad Oak,Bishop's Stortford
+2021-02-09,800000,CM22 6SY,D,N,F,Newcroft,,Canfield Road,Takeley,Bishop's Stortford
+2021-02-08,690000,CM22 6JJ,D,N,F,Thorn Cottage,,Old Mead Lane,Henham,Bishop's Stortford
+2021-02-05,675000,CM22 7QX,D,N,F,Mccalls,,Grinstead Lane,Little Hallingbury,Bishop's Stortford
+2021-02-05,485000,CM22 6PH,S,N,F,8,,School Villas,Takeley,Bishop's Stortford
+2021-02-05,275000,CM22 6EL,T,N,F,2,,Glebe End,Elsenham,Bishop's Stortford
+2021-02-05,820000,CM22 6EA,D,N,F,Bessacarr,,Fullers End,Elsenham,Bishop's Stortford
+2021-02-03,947500,CM22 6QP,T,N,F,Oak Tree House,,The Street,Takeley,Bishop's Stortford
+2021-02-02,665000,CM22 7RH,D,N,F,Outlook,,Wrights Green,Little Hallingbury,Bishop's Stortford
+2021-02-01,315000,CM22 6RY,D,N,F,11,,St Valery,Takeley,Bishop's Stortford
+2021-01-29,391000,CM22 7NP,S,N,F,13,,High Pastures,Sheering,Bishop's Stortford
+2021-01-29,205000,CM22 6LU,T,N,F,26,,The Croft,Elsenham,Bishop's Stortford
+2021-01-29,495000,CM22 6AG,S,N,F,Oakville,,Crow Street,Henham,Bishop's Stortford
+2021-01-27,316000,CM22 7NJ,T,N,F,38,,Primley Lane,Sheering,Bishop's Stortford
+2021-01-26,397500,CM22 6LB,S,N,F,10,,Ridley Gardens,Elsenham,Bishop's Stortford
+2021-01-22,990000,CM22 7AD,D,N,F,Lyndhurst,,The Heath,Hatfield Heath,Bishop's Stortford
+2021-01-22,430000,CM22 6YL,S,Y,F,School Lane Cottages,2,School Lane,Takeley,Bishop's Stortford
+2021-01-20,550000,CM22 7LY,D,N,F,Teasles,,The Street,Sheering,Bishop's Stortford
+2021-01-20,597500,CM22 6YD,D,Y,F,9,,Maitland Close,Henham,Bishop's Stortford
+2021-01-20,660000,CM22 6ST,D,N,F,Hemmingford,,Canfield Road,Takeley,Bishop's Stortford
+2021-01-20,820000,CM22 6FP,D,N,F,8,,Fieldview Close,Henham,Bishop's Stortford
+2021-01-19,775000,CM22 6JL,D,N,F,The Coach House,,Old Mead Road,Henham,Bishop's Stortford
+2021-01-15,425000,CM22 6PJ,S,N,F,Cricket View,1,School Lane,Takeley,Bishop's Stortford
+2021-01-14,970000,CM22 6DF,D,N,F,Lamorna,,Park Road,Elsenham,Bishop's Stortford
+2021-01-12,460000,CM22 6RN,D,N,F,66,,Garnetts,Takeley,Bishop's Stortford
+2021-01-08,335000,CM22 7PA,T,N,F,Twyford Mill,14,Pig Lane,,Bishop's Stortford
+2021-01-08,295000,CM22 6SF,T,N,F,22,,Elm Close,Takeley,Bishop's Stortford
+2021-01-08,437000,CM22 6PG,S,N,F,Mole Hill Green Cottages,2,Molehill Green,Takeley,Bishop's Stortford
+2021-01-08,790000,CM22 6JQ,D,N,F,Hill View,,Old Mead Road,Henham,Bishop's Stortford
+2021-01-07,657000,CM22 7JD,D,N,F,Gable End,,Broad Street,Hatfield Broad Oak,Bishop's Stortford
+2021-01-06,685000,CM22 7QX,D,N,F,Shepherds,,Grinstead Lane,Little Hallingbury,Bishop's Stortford
+2021-01-05,550000,CM22 7AL,S,N,F,Winchmore,,Ardley End,Hatfield Heath,Bishop's Stortford

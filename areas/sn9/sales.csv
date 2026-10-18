@@ -1,0 +1,714 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-07-31,535000,SN9 6LU,S,N,F,Spring Cottage,,,Bottlesford,Pewsey
+2026-07-31,200000,SN9 6AD,T,N,F,3,,Avon Square,Upavon,Pewsey
+2026-07-13,380000,SN9 6EU,S,N,F,Bungalow,2,,Charlton,Pewsey
+2026-06-26,447800,SN9 5LF,D,N,F,Carey Cottage,,,Littleworth,Pewsey
+2026-06-26,137500,SN9 5DP,F,N,L,12A,,The Crescent,,Pewsey
+2026-06-25,1975000,SN9 5LQ,D,N,F,Bourne House,,The Old Severalls,Milton Lilbourne,Pewsey
+2026-06-22,545000,SN9 5NT,S,N,F,Glenthorne,,Marlborough Road,,Pewsey
+2026-06-18,402500,SN9 5AX,D,N,F,2,,Avonleaze Road,,Pewsey
+2026-06-11,210000,SN9 6AD,T,N,F,7,,Avon Square,Upavon,Pewsey
+2026-06-05,475000,SN9 5LF,D,N,F,Rosedale,,,Littleworth,Pewsey
+2026-06-05,360000,SN9 5HP,D,N,F,65,,Swan Meadow,,Pewsey
+2026-06-05,399500,SN9 5AT,S,N,F,3,,Martinsell Green,,Pewsey
+2026-06-02,375000,SN9 5NH,D,N,F,Piccadilly Cottage,,Woodborough Road,West End,Pewsey
+2026-06-02,890000,SN9 5LD,D,N,F,Avon Cottage,,,New Mill,Pewsey
+2026-06-02,575000,SN9 5HR,D,N,F,1,,Woodlands Road,,Pewsey
+2026-05-29,280000,SN9 6EA,S,N,F,"Applecott, 15A",,High Street,Upavon,Pewsey
+2026-05-28,875000,SN9 6ED,D,N,F,3,,Devizes Road,Upavon,Pewsey
+2026-05-22,299000,SN9 5JT,T,N,F,7,,Smiths Close,,Pewsey
+2026-05-20,250000,SN9 5HF,T,N,F,2,,Millennium Court,,Pewsey
+2026-05-15,360000,SN9 6DD,D,N,F,Cherry Picker Cottage,,Long Street,Enford,Pewsey
+2026-05-13,585000,SN9 5BZ,D,N,F,"Daisy Cottage, 8",,Hurly Lane,,Pewsey
+2026-05-11,350000,SN9 5JT,D,N,F,12,,Smiths Close,,Pewsey
+2026-04-30,235000,SN9 5NF,T,N,L,30,,Olympian Road,,Pewsey
+2026-04-24,650000,SN9 5AY,D,N,F,2,,King Alfred Close,,Pewsey
+2026-04-17,171000,SN9 6FG,T,N,L,4,,Gloster Close,Upavon,Pewsey
+2026-04-17,323000,SN9 6AS,S,N,F,45,,,Enford,Pewsey
+2026-04-17,562000,SN9 5BJ,D,N,F,5,,St Johns Close,,Pewsey
+2026-04-17,345000,SN9 5BD,D,N,F,4,,Astley Close,,Pewsey
+2026-04-14,500000,SN9 5BD,D,N,F,21,,Astley Close,,Pewsey
+2026-04-07,425000,SN9 6NF,S,N,F,Finches Cottages,3,Pewsey Road,Upavon,Pewsey
+2026-04-01,78750,SN9 5NF,F,N,L,52,,Olympian Road,,Pewsey
+2026-03-30,280000,SN9 5HJ,S,N,F,Raffin Court,3,Raffin Lane,,Pewsey
+2026-03-27,350000,SN9 5BU,S,N,F,2,,Rowan Close,,Pewsey
+2026-03-27,180000,SN9 5AA,T,N,F,1A,,Market Place,,Pewsey
+2026-03-12,325000,SN9 5HX,S,N,F,70,,Cossor Road,,Pewsey
+2026-03-06,310000,SN9 5HP,S,N,F,62,,Swan Meadow,,Pewsey
+2026-03-06,265000,SN9 5DU,S,N,F,30,,Broadfields,,Pewsey
+2026-02-27,260000,SN9 6LP,T,N,F,9,,Martins Close,Bottlesford,Pewsey
+2026-02-27,530000,SN9 6BB,S,N,F,Foresters Lodge,,,West Chisenbury,Pewsey
+2026-02-13,450000,SN9 5JN,D,N,F,30,,Dursden Lane,,Pewsey
+2026-02-06,350000,SN9 5AS,D,N,F,14,,Broomcroft Road,,Pewsey
+2026-01-30,360000,SN9 6DF,T,N,F,35,,Coombe Lane,Enford,Pewsey
+2026-01-28,180000,SN9 5EA,T,N,F,19,,Rawlins Road,,Pewsey
+2026-01-27,200000,SN9 5BL,D,N,F,1,,Ball Road,,Pewsey
+2026-01-27,170000,SN9 5AR,F,N,L,33,,Whatley Drive,,Pewsey
+2026-01-23,365000,SN9 5HH,D,N,F,Swan Villa,,Swan Road,,Pewsey
+2026-01-21,490000,SN9 5AZ,D,N,F,20,,Middlemass Green,,Pewsey
+2026-01-21,268800,SN9 5AR,T,N,F,15,,Whatley Drive,,Pewsey
+2026-01-16,850000,SN9 5EH,D,N,F,27,,Wilcot Road,,Pewsey
+2026-01-06,850000,SN9 6HT,D,N,F,Drove House,,,Manningford Abbots,Pewsey
+2025-12-19,115000,SN9 5DG,F,N,L,14,Flat 1,Phoenix Square,,Pewsey
+2025-12-18,165000,SN9 6DN,F,N,L,6,,Paddock Close,Enford,Pewsey
+2025-12-18,275000,SN9 6DB,T,N,F,3,,Grants Road,Enford,Pewsey
+2025-12-17,670000,SN9 5LY,D,N,F,Fairview,,,Easton Royal,Pewsey
+2025-12-16,126500,SN9 5EQ,F,N,L,24,,Aston Close,,Pewsey
+2025-12-10,242500,SN9 5HX,T,N,F,7,,Cossor Road,,Pewsey
+2025-12-01,575000,SN9 6JX,D,N,F,"Khanspur, 5",,Park Road,North Newnton,Pewsey
+2025-11-28,320000,SN9 6DU,T,N,F,"Middle Cottage, 17",,Jarvis Street,Upavon,Pewsey
+2025-11-28,390000,SN9 6DF,S,N,F,14,,Coombe Lane,Enford,Pewsey
+2025-11-21,320000,SN9 5HP,T,N,F,60,,Swan Meadow,,Pewsey
+2025-11-18,375000,SN9 6AB,S,N,F,21,,Andover Road,Upavon,Pewsey
+2025-11-17,360000,SN9 5BX,D,N,F,8,,Hawthorn Close,,Pewsey
+2025-11-17,210000,SN9 5AA,F,N,L,5,Flat 2,Market Place,,Pewsey
+2025-11-13,336000,SN9 5EH,D,N,F,31,,Wilcot Road,,Pewsey
+2025-11-11,270000,SN9 5DX,S,N,F,14,,Haines Terrace,,Pewsey
+2025-11-07,249950,SN9 5ED,S,N,F,11,,Coronation Close,,Pewsey
+2025-10-31,260000,SN9 5DW,T,N,L,Manor Court,13,Swan Road,,Pewsey
+2025-10-31,223500,SN9 5AQ,F,N,L,46,,High Street,,Pewsey
+2025-10-30,203000,SN9 5NF,T,N,F,26,,Olympian Road,,Pewsey
+2025-10-30,240000,SN9 5DE,F,N,L,2,,Holly Tree Walk,,Pewsey
+2025-10-30,465000,SN9 5AT,D,N,F,10,,Martinsell Green,,Pewsey
+2025-10-28,370000,SN9 5HW,D,N,F,5,,Swan Meadow,,Pewsey
+2025-10-28,485000,SN9 5AT,D,N,F,19,,Martinsell Green,,Pewsey
+2025-10-24,290000,SN9 6AE,T,N,F,30,,Watson Close,Upavon,Pewsey
+2025-10-21,575000,SN9 5LF,D,N,F,Bourne Villa,,,Littleworth,Pewsey
+2025-10-21,490000,SN9 5AU,D,N,F,8,,Scotchel Green,,Pewsey
+2025-10-17,1220000,SN9 5LZ,D,N,F,Athelstan House,,,Easton Royal,Pewsey
+2025-10-15,835000,SN9 5PH,D,N,F,Bield House,,Church Road,Woodborough,Pewsey
+2025-10-15,280000,SN9 5AQ,T,N,F,82,,High Street,,Pewsey
+2025-10-10,230000,SN9 5NB,S,N,F,Little Salisbury Cottage,,,Little Salisbury,Pewsey
+2025-10-06,405000,SN9 6JY,S,N,F,14,,Rushall Road,North Newnton,Pewsey
+2025-10-03,422500,SN9 5HP,S,N,F,41,,Swan Meadow,,Pewsey
+2025-09-30,1200000,SN9 6HB,D,N,F,The Old Post Office,,,Wilsford,Pewsey
+2025-09-30,1000000,SN9 5PX,D,N,F,"Laurel House, 1",,The Laurels,Honeystreet,Pewsey
+2025-09-26,180000,SN9 6AD,T,N,F,22,,Avon Square,Upavon,Pewsey
+2025-09-25,557500,SN9 5HR,D,N,F,1,,Woodlands Road,,Pewsey
+2025-09-22,322000,SN9 6AZ,T,N,F,19,,Compton,Enford,Pewsey
+2025-09-22,600000,SN9 5HD,D,N,F,9,,Inlands Close,,Pewsey
+2025-09-22,651000,SN9 5DH,D,N,F,15,,River Street,,Pewsey
+2025-09-22,1100000,SN9 5AR,D,N,F,Grove House,,Whatley Drive,,Pewsey
+2025-09-22,550000,SN9 5AR,D,N,F,4,,Whatley Drive,,Pewsey
+2025-09-19,550000,SN9 6JX,D,N,F,9,,Park Road,North Newnton,Pewsey
+2025-09-19,385000,SN9 6JX,D,N,F,18,,Park Road,North Newnton,Pewsey
+2025-09-17,570000,SN9 6HB,S,N,F,"Rose Cottage, 23",,,Wilsford,Pewsey
+2025-09-15,350000,SN9 5AQ,T,N,F,22,,High Street,,Pewsey
+2025-09-12,910000,SN9 5NT,D,N,F,Mellowstones,,Marlborough Road,,Pewsey
+2025-09-10,435000,SN9 6DU,D,N,F,16,,Jarvis Street,Upavon,Pewsey
+2025-09-05,425000,SN9 6JX,D,N,F,15,,Park Road,North Newnton,Pewsey
+2025-09-05,335000,SN9 5DW,F,N,L,Manor Court,25,Swan Road,,Pewsey
+2025-09-01,312500,SN9 5DW,T,N,L,Manor Court,23,Swan Road,,Pewsey
+2025-08-29,355000,SN9 6DZ,D,N,F,1,,Fairfield,Upavon,Pewsey
+2025-08-29,455000,SN9 6DU,D,N,F,29,,Jarvis Street,Upavon,Pewsey
+2025-08-29,385000,SN9 5FD,D,N,F,11,,Crown Close,,Pewsey
+2025-08-27,430000,SN9 5LQ,S,N,F,Lavender Cottage,,,Milton Lilbourne,Pewsey
+2025-08-22,340000,SN9 5FB,T,N,F,4,,Station Mews,,Pewsey
+2025-08-22,300000,SN9 5DA,T,N,F,4,,Wilderness Row,,Pewsey
+2025-08-18,267000,SN9 6AE,S,N,F,12,,Watson Close,Upavon,Pewsey
+2025-08-15,350000,SN9 6HH,S,N,F,7,,Limberstone,Beechingstoke,Pewsey
+2025-08-15,347500,SN9 5FD,S,N,F,6,,Crown Close,,Pewsey
+2025-08-15,350000,SN9 5BT,D,N,F,4,,Robinia Close,,Pewsey
+2025-08-14,1655000,SN9 6HB,D,N,F,The Old Vicarage,,,Wilsford,Pewsey
+2025-08-11,370000,SN9 5DR,S,N,F,47,,The Crescent,,Pewsey
+2025-08-08,550000,SN9 6FH,D,N,F,2,,Hawker Close,Upavon,Pewsey
+2025-08-08,287500,SN9 5JT,T,N,F,4,,Smiths Close,,Pewsey
+2025-08-05,1250000,SN9 5PH,D,N,F,The Old Rectory,,Church Road,Woodborough,Pewsey
+2025-07-31,195000,SN9 5LL,S,N,F,22,,The New Severalls,Milton Lilbourne,Pewsey
+2025-07-31,310000,SN9 5EB,S,N,F,28,,Rawlins Road,,Pewsey
+2025-07-25,272500,SN9 6DN,T,N,F,11,,Paddock Close,Enford,Pewsey
+2025-07-25,382000,SN9 5HW,D,N,F,3,,Swan Meadow,,Pewsey
+2025-07-21,345000,SN9 5ES,T,N,F,7,,Greyhound Mews,,Pewsey
+2025-07-11,255000,SN9 6JH,T,N,F,5,,The Ivies,Manningford Bruce,Pewsey
+2025-07-01,1460000,SN9 6DY,D,N,F,"Fairfield House, 10",,Chapel Lane,Upavon,Pewsey
+2025-06-30,230000,SN9 5DP,S,N,F,26,,The Crescent,,Pewsey
+2025-06-27,198000,SN9 5BG,S,N,F,1,,Holly Close,,Pewsey
+2025-06-26,270000,SN9 5JT,S,N,F,14,,Smiths Close,,Pewsey
+2025-06-20,335000,SN9 6HB,T,N,F,14,,,Wilsford,Pewsey
+2025-06-16,1620000,SN9 5LQ,D,N,F,Beech House,,The Old Severalls,Milton Lilbourne,Pewsey
+2025-06-16,322500,SN9 5ES,T,N,F,23,,North Street,,Pewsey
+2025-06-02,325000,SN9 5HX,S,N,F,33,,Cossor Road,,Pewsey
+2025-05-30,310000,SN9 5JD,S,N,F,27,,Green Drove,,Pewsey
+2025-05-30,453100,SN9 5BD,D,N,F,14,,Astley Close,,Pewsey
+2025-05-28,480000,SN9 6AW,S,N,F,Littlecott,2,,Enford,Pewsey
+2025-05-28,640000,SN9 5NS,D,N,F,The Coach House,,,Wilcot,Pewsey
+2025-05-09,820000,SN9 6LW,D,N,F,Fairview,,,Bottlesford,Pewsey
+2025-05-09,745000,SN9 6HW,D,N,F,115,,Broad Street,Beechingstoke,Pewsey
+2025-05-07,1400000,SN9 5NS,D,N,F,Paradise Cottage,,,Wilcot,Pewsey
+2025-04-30,137000,SN9 5AG,F,N,L,Old Ford Court,Flat 10,High Street,,Pewsey
+2025-04-17,675000,SN9 5HJ,D,N,F,17,,Raffin Lane,,Pewsey
+2025-04-17,475000,SN9 5BD,D,N,F,3,,Astley Close,,Pewsey
+2025-04-11,210000,SN9 5NF,T,N,F,22,,Olympian Road,,Pewsey
+2025-04-11,404000,SN9 5HX,D,N,F,4,,Cossor Road,,Pewsey
+2025-04-11,175000,SN9 5DT,F,N,L,3,,Broadfields,,Pewsey
+2025-04-10,2500000,SN9 6AW,D,N,F,Glebe Farm,,,Enford,Pewsey
+2025-03-31,398500,SN9 6AA,S,N,F,8,,Vicarage Lane,Upavon,Pewsey
+2025-03-31,585000,SN9 5NX,D,N,F,62,,North Street,,Pewsey
+2025-03-31,510000,SN9 5HZ,D,N,F,18,,Wheeler Close,,Pewsey
+2025-03-31,505750,SN9 5HW,S,N,F,7,,Swan Meadow,,Pewsey
+2025-03-31,250000,SN9 5BA,F,N,L,Edwardian Court,21,Masons Field,,Pewsey
+2025-03-28,460000,SN9 5FF,D,N,F,8,,Haybrook Rise,,Pewsey
+2025-03-27,470000,SN9 5BP,D,N,F,19,,Easterton Lane,,Pewsey
+2025-03-27,155000,SN9 5AG,F,N,L,Old Ford Court,Flat 13,High Street,,Pewsey
+2025-03-25,217500,SN9 6DQ,D,N,F,Fifield Farmhouse,,Fifield,Enford,Pewsey
+2025-03-24,300000,SN9 6LP,S,N,F,2,,Martins Close,Bottlesford,Pewsey
+2025-03-21,415000,SN9 6HB,D,N,F,9,,,Wilsford,Pewsey
+2025-03-21,129200,SN9 5NF,F,N,L,42,,Olympian Road,,Pewsey
+2025-03-21,130000,SN9 5AQ,F,N,L,48A,,High Street,,Pewsey
+2025-03-20,550000,SN9 6LE,S,N,F,1,,Hilcott Cottages,Hilcott,Pewsey
+2025-03-20,875000,SN9 6DU,D,N,F,"Gisburne House, 13",,Jarvis Street,Upavon,Pewsey
+2025-03-18,310000,SN9 6AW,S,N,F,Littlecott,1,,Enford,Pewsey
+2025-03-14,565000,SN9 6JU,D,N,F,Sundale,,,North Newnton,Pewsey
+2025-03-14,500000,SN9 6EA,T,N,F,8,,High Street,Upavon,Pewsey
+2025-03-14,242000,SN9 6AF,S,N,F,59,,Watson Close,Upavon,Pewsey
+2025-03-07,390000,SN9 5LL,T,N,F,10,,The New Severalls,Milton Lilbourne,Pewsey
+2025-03-07,415000,SN9 5JR,D,N,F,7,,Silver Road,,Pewsey
+2025-03-07,267500,SN9 5HX,T,N,F,51,,Cossor Road,,Pewsey
+2025-03-07,198000,SN9 5DL,S,N,F,4,,Church Street,,Pewsey
+2025-02-21,360000,SN9 6EA,D,N,F,23A,,High Street,Upavon,Pewsey
+2025-02-21,465000,SN9 6DU,D,N,F,27A,,Jarvis Street,Upavon,Pewsey
+2025-02-14,510000,SN9 6EU,S,N,F,Maple Cottage,,,Charlton,Pewsey
+2025-02-12,340000,SN9 6DF,T,N,F,37,,Coombe Lane,Enford,Pewsey
+2025-02-07,710000,SN9 6JW,D,N,F,Waights Corner,,,Manningford Bruce,Pewsey
+2025-02-03,420000,SN9 5LH,S,N,F,2,,Forge Close,Milton Lilbourne,Pewsey
+2025-01-31,575000,SN9 5NS,D,N,F,The Old Post Office,,,Wilcot,Pewsey
+2025-01-31,875000,SN9 5LZ,D,N,F,Library Cottage,,,Easton Royal,Pewsey
+2025-01-28,632500,SN9 5HJ,D,N,F,37,,Raffin Lane,,Pewsey
+2025-01-23,200000,SN9 5ES,F,N,L,4,,Greyhound Mews,,Pewsey
+2025-01-20,305000,SN9 6LG,D,N,F,Fourways,,,Hilcott,Pewsey
+2025-01-20,415000,SN9 6HX,S,N,F,2,,Main Road Cottages,Manningford Bruce,Pewsey
+2025-01-17,562000,SN9 6JX,D,N,F,"Brynteg, 17",,Park Road,North Newnton,Pewsey
+2025-01-17,295000,SN9 5AQ,S,N,F,70B,,High Street,,Pewsey
+2025-01-14,109000,SN9 5HJ,S,N,F,70,,Raffin Lane,,Pewsey
+2025-01-10,475000,SN9 5HU,D,N,F,8,,Bailey Close,,Pewsey
+2025-01-07,210000,SN9 5NF,T,N,F,24,,Olympian Road,,Pewsey
+2024-12-18,832500,SN9 6LW,D,N,F,Merchant House,,,Bottlesford,Pewsey
+2024-12-18,280000,SN9 5HA,T,N,F,8,,Frensham Way,,Pewsey
+2024-12-10,730000,SN9 5LT,D,N,F,White Gate,,Burbage Road,Easton Royal,Pewsey
+2024-12-09,375000,SN9 6LY,D,N,F,2,,Mullens Cottages,Manningford Bohune Common,Pewsey
+2024-12-09,675000,SN9 6LU,D,N,F,Fir Cottage,,,Bottlesford,Pewsey
+2024-12-09,840000,SN9 6FA,D,N,F,"Hunters Close, 6",,The Gardens,Upavon,Pewsey
+2024-12-09,460000,SN9 5NT,D,N,F,Wharf Cottage,,Marlborough Road,,Pewsey
+2024-12-06,328000,SN9 5FB,T,N,F,6,,Station Mews,,Pewsey
+2024-11-29,275000,SN9 5JU,D,N,F,Fairfield Barn,,,Fairfield,Pewsey
+2024-11-27,211000,SN9 5BS,T,N,F,The Old School,3,Kings Corner,,Pewsey
+2024-11-25,135000,SN9 5DH,F,N,L,20 - 22,Flat 3,River Street,,Pewsey
+2024-11-18,1000000,SN9 6AQ,D,N,F,Fir Tree Cottage,,,East Chisenbury,Pewsey
+2024-11-15,600000,SN9 5PG,S,N,F,Brow Cottages,1,,Woodborough,Pewsey
+2024-11-15,315000,SN9 5FG,S,N,F,14,,Old Hospital Road,,Pewsey
+2024-11-15,227000,SN9 5EL,T,N,F,58A,,Wilcot Road,,Pewsey
+2024-11-15,430000,SN9 5DD,D,N,F,3,,White Horse Drive,,Pewsey
+2024-10-18,1150000,SN9 5LZ,S,N,F,The Old Beer House,,,Easton Royal,Pewsey
+2024-10-10,365000,SN9 5PU,T,N,F,3,,The Terrace,Honeystreet,Pewsey
+2024-10-01,287000,SN9 6NB,S,N,F,7,,Alexander Fields,Upavon,Pewsey
+2024-09-30,480000,SN9 5NN,D,N,F,13,,,Wilcot,Pewsey
+2024-09-30,350000,SN9 5LF,D,N,F,Cedars,2,,Littleworth,Pewsey
+2024-09-27,215000,SN9 6EN,S,N,F,Avoca,,Pewsey Road,Rushall,Pewsey
+2024-09-27,485000,SN9 5EE,D,N,F,7,,Slater Road,,Pewsey
+2024-09-23,605000,SN9 6EA,D,N,F,"The Coach House, 36",,High Street,Upavon,Pewsey
+2024-09-20,490000,SN9 6FA,D,N,F,The Old School House,,High Street,Upavon,Pewsey
+2024-09-20,250000,SN9 5BG,T,N,F,7,,Holly Close,,Pewsey
+2024-09-05,755000,SN9 6DZ,D,N,F,Stowell House,,Fairfield,Upavon,Pewsey
+2024-08-28,540000,SN9 6JG,S,N,F,Oak Lodge,,Primrose Lane,Manningford Bruce,Pewsey
+2024-08-28,420000,SN9 5HS,D,N,F,10,,Tinkers Mead,,Pewsey
+2024-08-28,735000,SN9 5HJ,D,N,F,7A,,Raffin Lane,,Pewsey
+2024-08-23,360000,SN9 5ES,T,N,F,10,,Greyhound Mews,,Pewsey
+2024-08-16,208000,SN9 5DN,F,N,L,Phoenix House,Flat 1,Phoenix Square,,Pewsey
+2024-08-15,828000,SN9 5PS,D,N,F,Foremans Cottage,,,Honeystreet,Pewsey
+2024-08-12,632000,SN9 5NN,D,N,F,"Yew Tree Cottage, 9",,,Wilcot,Pewsey
+2024-08-09,332000,SN9 6AD,T,N,F,1,,Avon Square,Upavon,Pewsey
+2024-08-05,478000,SN9 6LD,D,N,F,Staddlestones,,Stitchings Lane,Hilcott,Pewsey
+2024-08-01,233000,SN9 5DN,F,N,L,Phoenix House,Flat 3,Phoenix Square,,Pewsey
+2024-07-31,315000,SN9 5AT,T,N,F,28,,Martinsell Green,,Pewsey
+2024-07-30,290000,SN9 6DN,S,N,F,8,,Paddock Close,Enford,Pewsey
+2024-07-26,342000,SN9 5FD,S,N,F,8,,Crown Close,,Pewsey
+2024-07-19,320000,SN9 5JB,T,N,F,Swan Cottages,1,Green Drove,,Pewsey
+2024-07-11,425000,SN9 6JW,D,N,F,The New House,,,Manningford Bruce,Pewsey
+2024-07-10,720000,SN9 5BP,D,N,F,33,,Easterton Lane,,Pewsey
+2024-07-09,235000,SN9 5DJ,T,N,F,7,,Avon Place,,Pewsey
+2024-07-05,215000,SN9 5DZ,S,N,F,6,,The Square,,Pewsey
+2024-07-04,775000,SN9 5PL,D,N,F,Old Station House,,,Woodborough,Pewsey
+2024-07-04,1850000,SN9 5LA,D,N,F,Sunnyhill Farm,,,Sunnyhill,Pewsey
+2024-06-28,345000,SN9 6DF,T,N,F,38,,Coombe Lane,Enford,Pewsey
+2024-06-26,280000,SN9 5BG,T,N,F,15,,Holly Close,,Pewsey
+2024-06-24,355500,SN9 5EJ,D,N,F,61,,Wilcot Road,,Pewsey
+2024-06-21,240000,SN9 5BG,T,N,F,8,,Holly Close,,Pewsey
+2024-06-18,355000,SN9 6DF,T,N,F,40,,Coombe Lane,Enford,Pewsey
+2024-06-14,350000,SN9 5DS,S,N,F,57,,Broadfields,,Pewsey
+2024-06-14,230000,SN9 5AF,F,N,L,39 - 41,Flat 1,High Street,,Pewsey
+2024-06-11,430000,SN9 5HU,D,N,F,7,,Bailey Close,,Pewsey
+2024-05-31,342500,SN9 6EA,T,N,F,"Clumber Cottage, 5",,High Street,Upavon,Pewsey
+2024-05-31,475000,SN9 5JJ,D,N,F,11,,Milton Road,,Pewsey
+2024-05-31,525000,SN9 5HU,D,N,F,5,,Bailey Close,,Pewsey
+2024-05-31,425000,SN9 5HU,D,N,F,15,,Bailey Close,,Pewsey
+2024-05-24,665000,SN9 6FE,D,N,F,2,,Vulcan Drive,Upavon,Pewsey
+2024-05-24,350000,SN9 5ES,T,N,F,8,,Greyhound Mews,,Pewsey
+2024-05-23,200000,SN9 6AF,S,N,F,49,,Watson Close,Upavon,Pewsey
+2024-05-13,260000,SN9 6HD,T,N,F,2,,Church Lane,Wilsford,Pewsey
+2024-05-13,338000,SN9 5BS,T,N,F,1,,Kings Corner,,Pewsey
+2024-05-02,310000,SN9 5FD,S,N,F,10,,Crown Close,,Pewsey
+2024-04-19,357000,SN9 5BL,T,N,F,5,,Ball Road,,Pewsey
+2024-04-10,310000,SN9 5BT,D,N,F,2,,Robinia Close,,Pewsey
+2024-04-02,146866,SN9 5JD,S,N,F,28,,Green Drove,,Pewsey
+2024-03-27,465000,SN9 5BD,D,N,F,6,,Astley Close,,Pewsey
+2024-03-25,470500,SN9 5PR,S,N,F,7,,The Sands,Woodborough,Pewsey
+2024-03-22,235000,SN9 5DS,T,N,F,3,,Roman Court,,Pewsey
+2024-03-22,520000,SN9 5AR,D,N,F,20,,Whatley Drive,,Pewsey
+2024-03-15,1100000,SN9 5PH,D,N,F,Silverton Cottage,,Church Road,Woodborough,Pewsey
+2024-03-11,265000,SN9 5NL,T,N,F,98,,Wilcot Road,,Pewsey
+2024-03-08,245000,SN9 6AF,S,N,F,53,,Watson Close,Upavon,Pewsey
+2024-03-01,170000,SN9 6AD,T,N,F,17,,Avon Square,Upavon,Pewsey
+2024-02-27,388500,SN9 5PL,T,N,F,The Old Post Office,,,Woodborough,Pewsey
+2024-02-22,427500,SN9 5AU,D,N,F,13,,Scotchel Green,,Pewsey
+2024-02-19,730000,SN9 5QA,D,N,F,7,,Lawn Farm Close,Milton Lilbourne,Pewsey
+2024-02-19,430000,SN9 5NP,S,N,F,10,,Alton Road,Wilcot,Pewsey
+2024-02-16,190000,SN9 5AA,F,N,L,5,Flat 1,Market Place,,Pewsey
+2024-02-09,415000,SN9 5QA,T,N,F,1,,Lawn Farm Close,Milton Lilbourne,Pewsey
+2024-02-09,850000,SN9 5JJ,D,N,F,"Dairy Cottage, 8",,Milton Road,,Pewsey
+2024-02-04,205000,SN9 6AD,T,N,F,10,,Avon Square,Upavon,Pewsey
+2024-01-15,205000,SN9 6DB,S,N,F,6,,Grants Road,Enford,Pewsey
+2024-01-15,350000,SN9 5NP,S,N,F,11,,Alton Road,Wilcot,Pewsey
+2024-01-12,230000,SN9 6DU,T,N,F,3,,Jarvis Street,Upavon,Pewsey
+2024-01-05,218500,SN9 6AE,T,N,F,18,,Watson Close,Upavon,Pewsey
+2024-01-04,380000,SN9 5JR,S,N,F,6,,Silver Road,,Pewsey
+2023-12-20,487500,SN9 5BD,D,N,F,12,,Astley Close,,Pewsey
+2023-12-19,465000,SN9 6EN,D,N,F,Paddock Cottage,,Pewsey Road,Rushall,Pewsey
+2023-12-14,155000,SN9 6AE,T,N,F,30,,Watson Close,Upavon,Pewsey
+2023-12-08,660000,SN9 6DD,D,N,F,River Cottage,,Long Street,Enford,Pewsey
+2023-12-01,800000,SN9 6HW,D,N,F,83,,Broad Street,Beechingstoke,Pewsey
+2023-11-30,360000,SN9 6LU,S,N,F,The Cedars,,,Bottlesford,Pewsey
+2023-11-30,426525,SN9 5PQ,S,N,F,1,,Bondfields,Woodborough,Pewsey
+2023-11-30,380000,SN9 5EL,S,N,F,24,,Wilcot Road,,Pewsey
+2023-11-28,232000,SN9 6JH,T,N,F,14,,The Ivies,Manningford Bruce,Pewsey
+2023-11-23,540000,SN9 5LZ,D,N,F,4,,,Easton Royal,Pewsey
+2023-11-17,268500,SN9 6DU,S,N,F,15,,Jarvis Street,Upavon,Pewsey
+2023-11-13,530000,SN9 5PL,T,N,F,Shamrock Cottage,,,Woodborough,Pewsey
+2023-11-10,140000,SN9 5DN,F,N,L,15,,Phoenix Square,,Pewsey
+2023-11-02,310000,SN9 5DW,T,N,L,Manor Court,1,Swan Road,,Pewsey
+2023-10-31,590000,SN9 5LQ,S,N,F,Old Forge Cottage,,The Street,Milton Lilbourne,Pewsey
+2023-10-27,320000,SN9 5HA,T,N,F,4,,Frensham Way,,Pewsey
+2023-10-25,340000,SN9 5NF,T,N,F,62,,Olympian Road,,Pewsey
+2023-10-23,825000,SN9 5AF,T,N,F,"Bisley House, 61",,High Street,,Pewsey
+2023-10-12,410000,SN9 6DZ,D,N,F,Lynton,,Fairfield,Upavon,Pewsey
+2023-10-12,138075,SN9 5NB,S,N,F,Roadside Farm,4,,Little Salisbury,Pewsey
+2023-10-06,997500,SN9 5PG,D,N,F,Pantawick House,,,Woodborough,Pewsey
+2023-10-06,460000,SN9 5AT,D,N,F,2,,Martinsell Green,,Pewsey
+2023-09-29,245000,SN9 5LL,S,N,F,18,,The New Severalls,Milton Lilbourne,Pewsey
+2023-09-29,243000,SN9 5DX,S,N,F,16,,Haines Terrace,,Pewsey
+2023-09-21,290900,SN9 5JT,T,N,F,2,,Smiths Close,,Pewsey
+2023-09-19,400000,SN9 5LH,S,N,F,7,,Forge Close,Milton Lilbourne,Pewsey
+2023-09-18,350000,SN9 5PU,T,N,F,6,,The Terrace,Honeystreet,Pewsey
+2023-09-08,285000,SN9 6AA,S,N,F,4,,Vicarage Lane,Upavon,Pewsey
+2023-09-01,750000,SN9 5NL,D,N,F,Martinborough,,Wilcot Road,,Pewsey
+2023-09-01,420000,SN9 5EH,S,N,F,23,,Wilcot Road,,Pewsey
+2023-08-31,412000,SN9 5PG,S,N,F,Brow Cottages,2,,Woodborough,Pewsey
+2023-08-25,230000,SN9 5DP,S,N,F,32,,The Crescent,,Pewsey
+2023-08-22,625000,SN9 6EU,D,N,F,Cleeve House,,,Charlton,Pewsey
+2023-08-18,200000,SN9 6AD,T,N,F,7,,Avon Square,Upavon,Pewsey
+2023-08-18,275000,SN9 5AT,S,N,F,21,,Martinsell Green,,Pewsey
+2023-08-18,325000,SN9 5AQ,T,N,F,70A,,High Street,,Pewsey
+2023-08-17,272000,SN9 6AD,T,N,F,21,,Avon Square,Upavon,Pewsey
+2023-08-17,425000,SN9 5PU,S,N,F,2,,The Terrace,Honeystreet,Pewsey
+2023-08-17,313250,SN9 5DJ,T,N,F,1,,Avon Place,,Pewsey
+2023-08-16,630000,SN9 5JJ,D,N,F,19,,Milton Road,,Pewsey
+2023-08-11,395000,SN9 5AQ,D,N,F,"The Grange, 40",The Old Stables,High Street,,Pewsey
+2023-08-07,510000,SN9 5AQ,D,N,F,38,,High Street,,Pewsey
+2023-08-03,925000,SN9 5PL,D,N,F,Rose Farm House,,,Woodborough,Pewsey
+2023-08-01,550000,SN9 5LQ,T,N,F,Clover Cottage,,,Milton Lilbourne,Pewsey
+2023-07-21,385000,SN9 6JX,D,N,F,"Ainswood, 7",,Park Road,North Newnton,Pewsey
+2023-07-21,850000,SN9 5PN,D,N,F,Hartwood House,,,Woodborough,Pewsey
+2023-07-21,485000,SN9 5PL,D,N,F,Brandrith,,,Woodborough,Pewsey
+2023-07-21,270000,SN9 5LL,S,N,F,14,,The New Severalls,Milton Lilbourne,Pewsey
+2023-07-14,270000,SN9 6AE,T,N,F,50,,Watson Close,Upavon,Pewsey
+2023-07-14,217500,SN9 5BA,F,N,L,Edwardian Court,Flat 10,Masons Field,,Pewsey
+2023-07-13,315000,SN9 5HA,T,N,F,7,,Frensham Way,,Pewsey
+2023-07-12,240500,SN9 5BP,T,N,F,14,,Easterton Lane,,Pewsey
+2023-07-07,485000,SN9 5AT,D,N,F,12,,Martinsell Green,,Pewsey
+2023-06-28,525000,SN9 6FE,D,N,F,22,,Vulcan Drive,Upavon,Pewsey
+2023-06-26,256000,SN9 5AZ,T,N,F,14,,Middlemass Green,,Pewsey
+2023-06-23,195000,SN9 5DW,F,N,L,Manor Court,6,Swan Road,,Pewsey
+2023-06-20,585000,SN9 5PG,S,N,F,Mortimers,,,Woodborough,Pewsey
+2023-06-02,308000,SN9 6EA,S,N,F,19,,High Street,Upavon,Pewsey
+2023-06-02,910000,SN9 5DL,D,N,F,24,,Church Street,,Pewsey
+2023-05-30,270000,SN9 5AQ,T,N,F,78,,High Street,,Pewsey
+2023-05-26,480000,SN9 6DZ,D,N,F,42,,Fairfield,Upavon,Pewsey
+2023-05-26,350000,SN9 5FB,T,N,F,2,,Station Mews,,Pewsey
+2023-05-23,737500,SN9 5PH,D,N,F,Mulberry House,,Church Road,Woodborough,Pewsey
+2023-05-22,620000,SN9 5LQ,D,N,F,Fern Cottage,,,Milton Lilbourne,Pewsey
+2023-05-19,375000,SN9 5HD,D,N,F,10,,Inlands Close,,Pewsey
+2023-05-11,221354,SN9 5BD,D,N,F,11,,Astley Close,,Pewsey
+2023-05-10,460000,SN9 5HU,D,N,F,14,,Bailey Close,,Pewsey
+2023-05-03,315000,SN9 5DW,T,N,L,Manor Court,21,Swan Road,,Pewsey
+2023-04-28,1325000,SN9 5NB,D,N,F,Walton Grange,,,Little Salisbury,Pewsey
+2023-04-25,250000,SN9 6AJ,S,N,F,Littlecott Cottages,Brynteg,,Enford,Pewsey
+2023-04-21,135000,SN9 5DP,F,N,L,12A,,The Crescent,,Pewsey
+2023-04-14,300100,SN9 5LP,S,N,F,3,,Burbage Road,Milton Lilbourne,Pewsey
+2023-04-12,487500,SN9 5HA,D,N,F,11,,Frensham Way,,Pewsey
+2023-03-31,169750,SN9 5HX,T,N,F,8,,Cossor Road,,Pewsey
+2023-03-25,255000,SN9 5HX,T,N,F,15,,Cossor Road,,Pewsey
+2023-03-17,300000,SN9 5NS,D,N,F,52,,,Wilcot,Pewsey
+2023-03-08,250000,SN9 5EE,S,N,F,9,,Slater Road,,Pewsey
+2023-03-01,630000,SN9 5PT,S,N,F,2,,The Square,Honeystreet,Pewsey
+2023-02-28,730000,SN9 6JA,D,N,F,Aero View,,,Manningford Abbots,Pewsey
+2023-02-28,425000,SN9 5HS,D,N,F,1,,Tinkers Mead,,Pewsey
+2023-02-24,275000,SN9 5EB,S,N,F,28,,Rawlins Road,,Pewsey
+2023-02-22,390000,SN9 6JE,D,N,F,Renwick,,Dragon Lane,Manningford Bruce,Pewsey
+2023-02-21,460000,SN9 6EA,T,N,F,24,,High Street,Upavon,Pewsey
+2023-02-17,440000,SN9 6HF,D,N,F,Steam Cottage,,Yards Lane,Hilcott,Pewsey
+2023-02-13,307000,SN9 5DW,T,N,L,Manor Court,24,Swan Road,,Pewsey
+2023-02-13,315000,SN9 5BN,T,N,F,34,,Ball Road,,Pewsey
+2023-02-11,645199,SN9 5NN,S,N,F,"Boundary Cottage, 11",,Wilcot Green,Wilcot,Pewsey
+2023-02-03,300000,SN9 6DX,S,N,F,6,,Palmerston Meadow,Enford,Pewsey
+2023-02-03,870000,SN9 5PH,D,N,F,Orchard House,,Church Road,Woodborough,Pewsey
+2023-01-30,1440000,SN9 5LQ,T,N,F,Mead Acre,,The Street,Milton Lilbourne,Pewsey
+2023-01-27,415000,SN9 5HP,D,N,F,46,,Swan Meadow,,Pewsey
+2023-01-23,925000,SN9 5HW,D,N,F,Kinsmead House,,Swan Meadow,,Pewsey
+2023-01-17,360000,SN9 5BT,D,N,F,1,,Robinia Close,,Pewsey
+2023-01-16,455000,SN9 5HU,D,N,F,8,,Bailey Close,,Pewsey
+2023-01-11,310600,SN9 5FG,S,N,F,10,,Old Hospital Road,,Pewsey
+2023-01-09,470000,SN9 5DN,T,N,F,3,,Phoenix Square,,Pewsey
+2023-01-06,545000,SN9 6HB,D,N,F,Dominies,,,Wilsford,Pewsey
+2023-01-06,284250,SN9 6DB,T,N,F,12,,Grants Road,Enford,Pewsey
+2022-12-19,280000,SN9 5DJ,T,N,L,4,,Avon Place,,Pewsey
+2022-12-15,134000,SN9 5LL,S,N,F,1,,The New Severalls,Milton Lilbourne,Pewsey
+2022-12-15,220000,SN9 5BA,T,N,L,Edwardian Court,5,Masons Field,,Pewsey
+2022-12-15,370000,SN9 5AS,D,N,F,6,,Broomcroft Road,,Pewsey
+2022-12-14,700000,SN9 6EN,S,N,F,School House,,Pewsey Road,Rushall,Pewsey
+2022-12-09,835000,SN9 5DL,D,N,F,24A,,Church Street,,Pewsey
+2022-12-08,500000,SN9 5BD,D,N,F,8,,Astley Close,,Pewsey
+2022-12-05,242500,SN9 6DB,T,N,F,21,,Grants Road,Enford,Pewsey
+2022-11-30,188000,SN9 5AA,F,N,L,5,Flat 2,Market Place,,Pewsey
+2022-11-25,710000,SN9 6NB,D,N,F,10,,Alexander Fields,Upavon,Pewsey
+2022-11-25,80000,SN9 5AH,F,N,L,1,,Meadow Court,,Pewsey
+2022-11-23,427000,SN9 6JQ,D,N,F,Lodgewood,,,Manningford Bruce,Pewsey
+2022-11-21,561000,SN9 5HP,S,N,F,39,,Swan Meadow,,Pewsey
+2022-11-18,420000,SN9 5NF,D,N,F,8,,Olympian Road,,Pewsey
+2022-11-17,127000,SN9 5AZ,T,N,F,18,,Middlemass Green,,Pewsey
+2022-11-15,350000,SN9 5AS,D,N,F,8,,Broomcroft Road,,Pewsey
+2022-11-14,349950,SN9 5NB,S,N,F,Hillview,,,Little Salisbury,Pewsey
+2022-11-11,195000,SN9 5DN,F,N,L,Phoenix House,Flat 1,Phoenix Square,,Pewsey
+2022-11-07,515000,SN9 6JY,D,N,F,Hornbeam House,,Rushall Road,North Newnton,Pewsey
+2022-11-04,475150,SN9 5QS,D,N,F,7,,Walnut Close,,Pewsey
+2022-11-04,560000,SN9 5HW,D,N,F,14,,Swan Meadow,,Pewsey
+2022-11-03,360000,SN9 5AX,D,N,F,8,,Avonleaze Road,,Pewsey
+2022-11-02,1725000,SN9 5LZ,D,N,F,Little Follets,,,Easton Royal,Pewsey
+2022-10-31,1000000,SN9 5JL,D,N,F,Willow End,,,Kepnal,Pewsey
+2022-10-31,465000,SN9 5BD,D,N,F,22,,Astley Close,,Pewsey
+2022-10-31,480000,SN9 5BD,D,N,F,19,,Astley Close,,Pewsey
+2022-10-29,185000,SN9 6AD,T,N,F,16,,Avon Square,Upavon,Pewsey
+2022-10-28,280000,SN9 6AG,S,N,F,21,,Down View,Upavon,Pewsey
+2022-10-27,315000,SN9 5BS,S,N,F,8,,Kings Corner,,Pewsey
+2022-10-24,445000,SN9 5HD,D,N,F,2,,Inlands Close,,Pewsey
+2022-10-24,407500,SN9 5EL,D,N,F,70,,Wilcot Road,,Pewsey
+2022-10-21,695000,SN9 5BZ,D,N,F,4,,Hurly Lane,,Pewsey
+2022-10-20,375000,SN9 5AP,D,N,F,2,,Brunkards Lane,,Pewsey
+2022-10-17,553300,SN9 6LU,D,N,F,Chalk Rose Cottage,,,Bottlesford,Pewsey
+2022-10-14,976000,SN9 6HB,D,N,F,Parham House,,,Wilsford,Pewsey
+2022-10-14,300000,SN9 5NJ,D,N,F,Braemar,,,Sharcott,Pewsey
+2022-10-14,650000,SN9 5LS,D,N,F,Roanoke,,,Easton Royal,Pewsey
+2022-10-11,1150000,SN9 5LJ,D,N,F,Abbotsfield,,Havering Lane,Milton Lilbourne,Pewsey
+2022-10-11,450000,SN9 5HW,D,N,F,30,,Swan Meadow,,Pewsey
+2022-10-10,1900000,SN9 5NJ,D,N,F,Sharcott Barracks,,,Sharcott,Pewsey
+2022-10-07,200000,SN9 5DN,F,N,L,Phoenix House,Flat 4,Phoenix Square,,Pewsey
+2022-10-05,525000,SN9 6DD,D,N,F,The Cottage,,Long Street,Enford,Pewsey
+2022-10-05,325000,SN9 5HS,D,N,F,2,,Tinkers Mead,,Pewsey
+2022-09-30,585000,SN9 6EN,D,N,F,Keene's Land,,Pewsey Road,Rushall,Pewsey
+2022-09-30,260000,SN9 5HF,T,N,F,1,,Millennium Court,,Pewsey
+2022-09-09,430000,SN9 5BP,S,N,F,8,,Easterton Lane,,Pewsey
+2022-09-08,2875000,SN9 6AW,D,N,F,Littlecott Mill,,,Enford,Pewsey
+2022-09-07,398500,SN9 6EQ,S,N,F,2,,Elm Row,Rushall,Pewsey
+2022-09-05,220000,SN9 6AH,F,N,L,12,,Chisenbury Court,East Chisenbury,Pewsey
+2022-09-02,530000,SN9 6DD,D,N,F,Long Cottage,,Long Street,Enford,Pewsey
+2022-09-02,285000,SN9 5DW,T,N,L,Manor Court,10,Swan Road,,Pewsey
+2022-08-30,725000,SN9 6DZ,D,N,F,Stowell House,,Fairfield,Upavon,Pewsey
+2022-08-30,120000,SN9 5DN,F,N,L,15,,Phoenix Square,,Pewsey
+2022-08-19,210000,SN9 5EX,T,N,F,26,,North Street,,Pewsey
+2022-08-19,227000,SN9 5DN,F,N,L,Phoenix House,Flat 3,Phoenix Square,,Pewsey
+2022-08-17,400000,SN9 6DU,T,N,F,"Little Thatch, 1",,Jarvis Street,Upavon,Pewsey
+2022-08-17,118000,SN9 5AA,F,N,L,5,Flat 3,Market Place,,Pewsey
+2022-08-09,430000,SN9 6DZ,D,N,F,2,,Fairfield,Upavon,Pewsey
+2022-08-09,705000,SN9 5HJ,D,N,F,12,,Raffin Lane,,Pewsey
+2022-08-05,310000,SN9 5AR,T,N,F,9,,Whatley Drive,,Pewsey
+2022-07-29,246000,SN9 6AY,T,N,F,566,,New Buildings,Enford,Pewsey
+2022-07-29,280000,SN9 5DW,F,N,L,Manor Court,2,Swan Road,,Pewsey
+2022-07-29,430000,SN9 5BS,T,N,F,12,,Kings Corner,,Pewsey
+2022-07-25,1560500,SN9 6EH,D,N,F,Churchstow,,Church Lane,Rushall,Pewsey
+2022-07-21,615000,SN9 5JN,D,N,F,30,,Dursden Lane,,Pewsey
+2022-07-19,515000,SN9 6JY,D,N,F,Cherry Tree House,,Rushall Road,North Newnton,Pewsey
+2022-07-18,270000,SN9 5FA,T,N,F,4,,Dewey Mews,,Pewsey
+2022-07-08,365000,SN9 6FF,S,Y,F,12,,Avro Close,Upavon,Pewsey
+2022-07-08,146000,SN9 5DR,F,N,L,23B,,The Crescent,,Pewsey
+2022-07-07,382500,SN9 6NF,S,N,F,Finches Cottages,2,Pewsey Road,Upavon,Pewsey
+2022-07-07,810000,SN9 6EN,D,N,F,2,,The Old Tractor Yard,Rushall,Pewsey
+2022-07-01,900000,SN9 5JF,D,N,F,"Catmint Cottage, 2",,,Southcott,Pewsey
+2022-06-24,360000,SN9 5QS,S,N,F,11,,Walnut Close,,Pewsey
+2022-06-24,516000,SN9 5BL,D,N,F,15,,Ball Road,,Pewsey
+2022-06-23,260000,SN9 5BG,T,N,F,15,,Holly Close,,Pewsey
+2022-06-20,365000,SN9 5DH,S,N,F,19,,River Street,,Pewsey
+2022-06-17,525000,SN9 5HA,D,N,F,18,,Frensham Way,,Pewsey
+2022-06-15,377000,SN9 6FF,S,Y,F,8,,Avro Close,Upavon,Pewsey
+2022-06-15,560000,SN9 6DF,S,N,F,12,,Coombe Lane,Enford,Pewsey
+2022-06-10,310000,SN9 6HW,S,N,F,"Homeside, 97",,Broad Street,Beechingstoke,Pewsey
+2022-06-10,352500,SN9 5FB,T,N,F,3,,Station Mews,,Pewsey
+2022-06-06,975000,SN9 5AF,D,N,F,89,,High Street,,Pewsey
+2022-05-31,260500,SN9 5DY,S,N,F,6,,Stratton Road,,Pewsey
+2022-05-30,570000,SN9 5HJ,D,N,F,13,,Raffin Lane,,Pewsey
+2022-05-27,177000,SN9 5BG,S,N,F,11,,Holly Close,,Pewsey
+2022-05-24,475000,SN9 5HW,S,N,F,7,,Swan Meadow,,Pewsey
+2022-05-24,320000,SN9 5DW,T,N,L,Manor Court,3,Swan Road,,Pewsey
+2022-05-19,250000,SN9 6AA,T,N,F,3,,Vicarage Lane,Upavon,Pewsey
+2022-05-17,377000,SN9 6FF,S,Y,F,10,,Avro Close,Upavon,Pewsey
+2022-05-16,560000,SN9 5LY,D,N,F,"Catslide Cottage, 50",,,Easton Royal,Pewsey
+2022-05-13,161500,SN9 5DL,S,N,F,4,,Church Street,,Pewsey
+2022-04-29,330000,SN9 5AQ,F,N,L,50,,High Street,,Pewsey
+2022-04-29,127500,SN9 5AQ,F,N,L,48,,High Street,,Pewsey
+2022-04-27,425000,SN9 6DF,S,N,F,15,,Coombe Lane,Enford,Pewsey
+2022-04-22,444000,SN9 6FF,D,Y,F,4,,Avro Close,Upavon,Pewsey
+2022-04-22,195000,SN9 6AH,F,N,L,3,,Chisenbury Court,East Chisenbury,Pewsey
+2022-04-22,615000,SN9 5PL,D,N,F,Amberley,,,Woodborough,Pewsey
+2022-04-14,850000,SN9 5PG,D,N,F,Manningford Studios,,,Woodborough,Pewsey
+2022-04-12,1650000,SN9 6JW,D,N,F,The Old Manor House,,,Manningford Bruce,Pewsey
+2022-04-04,295000,SN9 6AY,S,N,F,558,,New Buildings,Enford,Pewsey
+2022-04-04,560000,SN9 5LD,D,N,F,Upper New Mill Cottage,,,New Mill,Pewsey
+2022-03-25,356000,SN9 5PU,T,N,F,3,,The Terrace,Honeystreet,Pewsey
+2022-03-25,142500,SN9 5ES,F,N,L,1,,Greyhound Mews,,Pewsey
+2022-03-25,218000,SN9 5BA,T,N,L,Edwardian Court,20,Masons Field,,Pewsey
+2022-03-23,685000,SN9 5PR,D,N,F,Accra,,The Sands,Woodborough,Pewsey
+2022-03-23,465000,SN9 5BD,D,N,F,27,,Astley Close,,Pewsey
+2022-03-16,180000,SN9 5DE,F,N,L,5,,Holly Tree Walk,,Pewsey
+2022-03-11,619000,SN9 6FE,D,Y,F,9,,Vulcan Drive,Upavon,Pewsey
+2022-03-10,630000,SN9 5LQ,S,N,F,Hazel House,,,Milton Lilbourne,Pewsey
+2022-03-04,485000,SN9 5AU,D,N,F,3,,Scotchel Green,,Pewsey
+2022-02-25,1135000,SN9 6HB,D,N,F,"Mulberry House, 17",,,Wilsford,Pewsey
+2022-02-22,620000,SN9 6JN,S,N,F,1,,Mill Road,Manningford Bruce,Pewsey
+2022-02-17,550000,SN9 6JY,D,N,F,Chestnut Tree House,,Rushall Road,North Newnton,Pewsey
+2022-02-16,545000,SN9 6HW,D,N,F,115,,Broad Street,Beechingstoke,Pewsey
+2022-02-16,1500000,SN9 6AQ,D,N,F,Strongs Farm,,,East Chisenbury,Pewsey
+2022-02-14,1217691,SN9 5PL,D,N,F,Bonnington House,,,Woodborough,Pewsey
+2022-02-11,425000,SN9 5NS,S,N,F,26,,,Wilcot,Pewsey
+2022-02-03,415000,SN9 6DZ,D,N,F,19,,Fairfield,Upavon,Pewsey
+2022-02-03,572500,SN9 6AQ,S,N,F,539,,,East Chisenbury,Pewsey
+2022-02-02,585000,SN9 5DN,T,N,F,9,,Phoenix Square,,Pewsey
+2022-01-28,960000,SN9 6LW,D,N,F,Barn House,,,Bottlesford,Pewsey
+2022-01-28,194000,SN9 5LL,S,N,F,20,,The New Severalls,Milton Lilbourne,Pewsey
+2022-01-28,380000,SN9 5BL,D,N,F,17,,Ball Road,,Pewsey
+2022-01-27,445000,SN9 5AS,S,N,F,5,,Broomcroft Road,,Pewsey
+2022-01-21,210000,SN9 5BA,T,N,L,Edwardian Court,4,Masons Field,,Pewsey
+2022-01-19,785000,SN9 6JL,D,N,F,The Old Post Office,,,Manningford Bruce,Pewsey
+2022-01-12,250000,SN9 6JJ,S,N,F,2,,The Firs,Manningford Bruce,Pewsey
+2022-01-11,597650,SN9 5DN,T,N,F,7,,Phoenix Square,,Pewsey
+2022-01-07,290000,SN9 5AR,T,N,F,12,,Whatley Drive,,Pewsey
+2022-01-05,1150000,SN9 6DT,D,N,F,College Farm House,,Pewsey Road,Upavon,Pewsey
+2021-12-22,326000,SN9 6EA,D,N,F,23A,,High Street,Upavon,Pewsey
+2021-12-21,359000,SN9 6FF,D,Y,F,2,,Avro Close,Upavon,Pewsey
+2021-12-21,465000,SN9 6DZ,D,N,F,11,,Fairfield,Upavon,Pewsey
+2021-12-20,300000,SN9 6DX,S,N,F,2,,Palmerston Meadow,Enford,Pewsey
+2021-12-17,580000,SN9 6JW,D,N,F,Wheatlands,,,Manningford Bruce,Pewsey
+2021-12-17,680000,SN9 6AQ,D,N,F,The Cottage,,,East Chisenbury,Pewsey
+2021-12-17,595000,SN9 5QA,D,N,F,9,,Lawn Farm Close,Milton Lilbourne,Pewsey
+2021-12-17,395000,SN9 5NP,S,N,F,3,,Alton Road,Wilcot,Pewsey
+2021-12-17,260000,SN9 5FG,S,Y,F,14,,Old Hospital Road,,Pewsey
+2021-12-10,423000,SN9 6FG,D,Y,F,2,,Gloster Close,Upavon,Pewsey
+2021-12-10,121000,SN9 5DR,F,N,L,21A,,The Crescent,,Pewsey
+2021-12-08,285000,SN9 5DW,T,N,L,Manor Court,1,Swan Road,,Pewsey
+2021-12-07,450000,SN9 5NF,D,N,F,3,,Olympian Road,,Pewsey
+2021-12-03,512000,SN9 6FE,D,Y,F,2,,Vulcan Drive,Upavon,Pewsey
+2021-12-03,481500,SN9 6FE,D,Y,F,11,,Vulcan Drive,Upavon,Pewsey
+2021-12-03,365000,SN9 6EN,S,N,F,Glencoe,,Pewsey Road,Rushall,Pewsey
+2021-12-03,260000,SN9 5LG,T,N,F,9,,Cross Roads,Milton Lilbourne,Pewsey
+2021-12-02,530000,SN9 5BB,D,N,F,Bramblings,,Hollybush Lane,,Pewsey
+2021-12-01,472500,SN9 6DZ,D,N,F,42,,Fairfield,Upavon,Pewsey
+2021-12-01,290000,SN9 5HX,T,N,F,23,,Cossor Road,,Pewsey
+2021-11-30,875000,SN9 5LQ,D,N,F,Cobbetts Way,,The Street,Milton Lilbourne,Pewsey
+2021-11-29,550000,SN9 6HD,S,N,F,"The Timbers, 3",,Church Lane,Wilsford,Pewsey
+2021-11-26,210000,SN9 6JH,T,N,F,5,,The Ivies,Manningford Bruce,Pewsey
+2021-11-26,615000,SN9 6FE,D,Y,F,15,,Vulcan Drive,Upavon,Pewsey
+2021-11-26,176000,SN9 6AD,T,N,F,15,,Avon Square,Upavon,Pewsey
+2021-11-26,462500,SN9 5HR,D,N,F,12,,Woodlands Road,,Pewsey
+2021-11-26,255000,SN9 5FG,S,Y,F,3,,Old Hospital Road,,Pewsey
+2021-11-26,460000,SN9 5BD,D,N,F,23,,Astley Close,,Pewsey
+2021-11-26,375000,SN9 5AX,D,N,F,2,,Avonleaze Road,,Pewsey
+2021-11-25,265500,SN9 5FG,S,Y,F,10,,Old Hospital Road,,Pewsey
+2021-11-24,986000,SN9 5LD,D,N,F,Little Wharf,,,New Mill,Pewsey
+2021-11-24,460000,SN9 5BD,D,N,F,31,,Astley Close,,Pewsey
+2021-11-23,705000,SN9 6HY,D,N,F,Manorfield,,,Manningford Abbots,Pewsey
+2021-11-23,450000,SN9 5QA,T,N,F,5,,Lawn Farm Close,Milton Lilbourne,Pewsey
+2021-11-19,440000,SN9 6HW,S,N,F,124,,Broad Street,Beechingstoke,Pewsey
+2021-11-19,611500,SN9 6FE,D,Y,F,17,,Vulcan Drive,Upavon,Pewsey
+2021-11-19,300000,SN9 5NL,S,N,F,86,,Wilcot Road,,Pewsey
+2021-11-19,270000,SN9 5DY,S,N,F,9,,Stratton Road,,Pewsey
+2021-11-19,179450,SN9 5BS,T,N,F,The Old School,3,Kings Corner,,Pewsey
+2021-11-12,260000,SN9 5FG,S,Y,F,1,,Old Hospital Road,,Pewsey
+2021-11-11,260000,SN9 5FG,S,Y,F,16,,Old Hospital Road,,Pewsey
+2021-11-09,480000,SN9 5JR,D,N,F,9,,Silver Road,,Pewsey
+2021-11-05,287170,SN9 6LF,S,N,F,7,,Wilsford Road,North Newnton,Pewsey
+2021-11-05,173000,SN9 6AD,T,N,F,13,,Avon Square,Upavon,Pewsey
+2021-11-05,475000,SN9 5DH,T,N,F,13,,River Street,,Pewsey
+2021-11-04,445000,SN9 5NN,D,N,F,13,,,Wilcot,Pewsey
+2021-10-27,595000,SN9 5DN,T,N,F,8,,Phoenix Square,,Pewsey
+2021-10-26,316000,SN9 6EA,T,N,F,Clumber Cottage,,High Street,Upavon,Pewsey
+2021-10-22,250000,SN9 5JT,T,N,F,9,,Smiths Close,,Pewsey
+2021-10-22,255000,SN9 5FG,S,Y,F,12,,Old Hospital Road,,Pewsey
+2021-10-21,450000,SN9 5AR,S,N,F,50,,Whatley Drive,,Pewsey
+2021-09-30,400000,SN9 6FB,D,N,F,2,,Woodbridge Close,North Newnton,Pewsey
+2021-09-30,227500,SN9 6AG,S,N,F,14,,Down View,Upavon,Pewsey
+2021-09-30,315000,SN9 5EJ,D,N,F,61,,Wilcot Road,,Pewsey
+2021-09-30,275000,SN9 5BT,T,N,F,9,,Robinia Close,,Pewsey
+2021-09-30,237500,SN9 5AQ,T,N,F,78,,High Street,,Pewsey
+2021-09-29,675000,SN9 6DU,D,N,F,24,,Jarvis Street,Upavon,Pewsey
+2021-09-29,905000,SN9 5PH,D,N,F,Silverton Cottage,,Church Road,Woodborough,Pewsey
+2021-09-28,245000,SN9 5AZ,T,N,F,13,,Middlemass Green,,Pewsey
+2021-09-28,295000,SN9 5AT,T,N,F,28,,Martinsell Green,,Pewsey
+2021-09-24,485000,SN9 6FH,D,Y,F,2,,Hawker Close,Upavon,Pewsey
+2021-09-23,1500000,SN9 6JF,D,N,F,Paradise House,,,Manningford Bruce,Pewsey
+2021-09-23,185000,SN9 6AD,T,N,F,6,,Avon Square,Upavon,Pewsey
+2021-09-21,460000,SN9 5AQ,S,N,F,4,,High Street,,Pewsey
+2021-09-13,310000,SN9 6AS,S,N,F,45,,,Enford,Pewsey
+2021-09-07,480000,SN9 5LQ,D,N,F,The Willows,,,Milton Lilbourne,Pewsey
+2021-09-06,370000,SN9 5HS,S,N,F,15,,Tinkers Mead,,Pewsey
+2021-09-06,115000,SN9 5AH,F,N,L,7,,Meadow Court,,Pewsey
+2021-09-03,345000,SN9 6LR,S,N,F,Martins Cottage,,,Bottlesford,Pewsey
+2021-09-03,1015950,SN9 5LQ,D,N,F,Meadowcroft,,The Old Severalls,Milton Lilbourne,Pewsey
+2021-09-03,2175000,SN9 5LQ,D,N,F,Bourne House,,The Old Severalls,Milton Lilbourne,Pewsey
+2021-09-03,590000,SN9 5FE,S,N,F,The White House,2,Smithy Lane,Woodborough,Pewsey
+2021-09-03,295000,SN9 5BS,T,N,F,1,,Kings Corner,,Pewsey
+2021-08-31,333000,SN9 6FH,D,Y,F,1,,Hawker Close,Upavon,Pewsey
+2021-08-31,940000,SN9 5LF,D,N,F,Sycamore House,,,Littleworth,Pewsey
+2021-08-31,641000,SN9 5AR,D,N,F,52,,Whatley Drive,,Pewsey
+2021-08-26,662500,SN9 5AP,D,N,F,4,,Brunkards Lane,,Pewsey
+2021-08-23,199950,SN9 5FD,F,N,L,7,,Crown Close,,Pewsey
+2021-08-23,250000,SN9 5EH,D,N,F,31,,Wilcot Road,,Pewsey
+2021-08-20,212500,SN9 5BA,F,N,L,Edwardian Court,Flat 7,Masons Field,,Pewsey
+2021-08-19,816600,SN9 5LY,D,N,F,The Chandlers,,,Easton Royal,Pewsey
+2021-08-19,475000,SN9 5AR,D,N,F,37,,Whatley Drive,,Pewsey
+2021-08-10,527500,SN9 5EH,D,N,F,19,,Wilcot Road,,Pewsey
+2021-08-06,452500,SN9 5PG,S,N,F,Sunflower Cottages,1,,Woodborough,Pewsey
+2021-08-06,275000,SN9 5DW,T,N,L,Manor Court,17,Swan Road,,Pewsey
+2021-08-06,190000,SN9 5BA,F,N,L,Edwardian Court,19,Masons Field,,Pewsey
+2021-08-04,180000,SN9 5BG,S,N,F,2,,Holly Close,,Pewsey
+2021-08-03,352000,SN9 6FB,D,N,F,1,,Woodbridge Close,North Newnton,Pewsey
+2021-08-02,285000,SN9 6DY,S,N,F,6,,Chapel Lane,Upavon,Pewsey
+2021-07-23,438000,SN9 6FE,D,Y,F,19,,Vulcan Drive,Upavon,Pewsey
+2021-07-19,355000,SN9 6EA,D,N,F,2A,,High Street,Upavon,Pewsey
+2021-07-14,345000,SN9 6EB,D,N,F,1A,,Andover Road,Upavon,Pewsey
+2021-07-01,180000,SN9 5DE,F,N,L,8,,Holly Tree Walk,,Pewsey
+2021-06-30,1565000,SN9 6JW,D,N,F,The Hold Cottage,,,Manningford Bruce,Pewsey
+2021-06-30,285000,SN9 6JH,T,N,F,12,,The Ivies,Manningford Bruce,Pewsey
+2021-06-30,465000,SN9 6DZ,D,N,F,9,,Fairfield,Upavon,Pewsey
+2021-06-30,340000,SN9 5JN,D,N,F,2,,Dursden Lane,,Pewsey
+2021-06-30,270000,SN9 5AQ,T,N,F,84,,High Street,,Pewsey
+2021-06-29,325000,SN9 6FE,D,Y,F,21,,Vulcan Drive,Upavon,Pewsey
+2021-06-29,160000,SN9 6AF,S,N,F,13,,Watson Close,Upavon,Pewsey
+2021-06-29,355000,SN9 5LP,S,N,F,2,,Burbage Road,Milton Lilbourne,Pewsey
+2021-06-28,600000,SN9 6LU,D,N,F,Fir Cottage,,,Bottlesford,Pewsey
+2021-06-28,280000,SN9 5AZ,T,N,F,12,,Middlemass Green,,Pewsey
+2021-06-28,300000,SN9 5AQ,T,N,F,22,,High Street,,Pewsey
+2021-06-25,362500,SN9 6DZ,D,N,F,19,,Fairfield,Upavon,Pewsey
+2021-06-25,510000,SN9 5NX,D,N,F,60,,North Street,,Pewsey
+2021-06-25,380000,SN9 5HP,D,N,F,38,,Swan Meadow,,Pewsey
+2021-06-25,215000,SN9 5HF,T,N,F,4,,Millennium Court,,Pewsey
+2021-06-25,203000,SN9 5DE,F,N,L,1,,Holly Tree Walk,,Pewsey
+2021-06-24,191100,SN9 6JH,T,N,F,4,,The Ivies,Manningford Bruce,Pewsey
+2021-06-24,245000,SN9 6DX,S,N,F,4,,Palmerston Meadow,Enford,Pewsey
+2021-06-24,850000,SN9 5LY,D,N,F,Windyridge,,,Easton Royal,Pewsey
+2021-06-23,610000,SN9 6BF,D,N,F,The Old Barnyard,6,Pewsey Road,Rushall,Pewsey
+2021-06-22,600000,SN9 5NB,D,N,F,Dell View,,,Little Salisbury,Pewsey
+2021-06-22,220000,SN9 5EL,T,N,F,58A,,Wilcot Road,,Pewsey
+2021-06-21,1500000,SN9 5LQ,D,N,F,The Brambles,,The Old Severalls,Milton Lilbourne,Pewsey
+2021-06-18,295250,SN9 6LP,S,N,F,4,,Martins Close,Bottlesford,Pewsey
+2021-06-18,438000,SN9 6FE,D,Y,F,23,,Vulcan Drive,Upavon,Pewsey
+2021-06-18,405000,SN9 5QA,T,N,F,4,,Lawn Farm Close,Milton Lilbourne,Pewsey
+2021-06-17,450000,SN9 6NB,D,N,F,"Vale House, 1",,Alexander Fields,Upavon,Pewsey
+2021-06-16,310000,SN9 5EH,D,N,F,17,,Wilcot Road,,Pewsey
+2021-06-14,535000,SN9 5AZ,D,N,F,8,,Middlemass Green,,Pewsey
+2021-06-08,385000,SN9 5FF,D,Y,F,8,,Haybrook Rise,,Pewsey
+2021-06-07,570000,SN9 6FB,D,N,F,"Ptarmigan House, 7",,Woodbridge Close,North Newnton,Pewsey
+2021-06-04,650000,SN9 5HJ,D,N,F,7,,Raffin Lane,,Pewsey
+2021-06-04,242500,SN9 5BS,T,N,F,The Old School,2,Kings Corner,,Pewsey
+2021-05-28,425000,SN9 5HJ,D,N,F,59,,Raffin Lane,,Pewsey
+2021-05-28,425000,SN9 5BY,D,N,F,1,,Lime Close,,Pewsey
+2021-05-28,460000,SN9 5AR,D,N,F,38,,Whatley Drive,,Pewsey
+2021-05-27,179950,SN9 6AD,T,N,F,10,,Avon Square,Upavon,Pewsey
+2021-05-21,500000,SN9 5NS,D,N,F,The Coach House,,,Wilcot,Pewsey
+2021-05-18,504000,SN9 6HW,D,N,F,"Crab Apple Cottage, 122",,Broad Street,Beechingstoke,Pewsey
+2021-05-18,280000,SN9 5HX,T,N,F,37,,Cossor Road,,Pewsey
+2021-05-17,425000,SN9 5HR,D,N,F,11,,Woodlands Road,,Pewsey
+2021-05-14,595000,SN9 6ED,D,N,F,10,,Devizes Road,Upavon,Pewsey
+2021-05-14,217500,SN9 5BA,F,N,L,Edwardian Court,21,Masons Field,,Pewsey
+2021-05-13,742750,SN9 6DU,D,N,F,Burnham House,,Jarvis Street,Upavon,Pewsey
+2021-05-07,450000,SN9 6LU,S,N,F,Spring Cottage,,,Bottlesford,Pewsey
+2021-05-07,415000,SN9 6FE,D,Y,F,4,,Vulcan Drive,Upavon,Pewsey
+2021-05-07,500000,SN9 6DU,T,N,F,19,,Jarvis Street,Upavon,Pewsey
+2021-04-30,429000,SN9 6FE,D,Y,F,22,,Vulcan Drive,Upavon,Pewsey
+2021-04-30,445000,SN9 5NF,D,N,F,1,,Olympian Road,,Pewsey
+2021-04-29,325000,SN9 6EQ,S,N,F,6,,Elm Row,Rushall,Pewsey
+2021-04-23,825000,SN9 6LW,D,N,F,Ford House,,,Bottlesford,Pewsey
+2021-04-21,565000,SN9 6DT,D,N,F,"Twin Trees, 12",,Pewsey Road,Upavon,Pewsey
+2021-04-16,164500,SN9 5HX,T,N,F,47,,Cossor Road,,Pewsey
+2021-04-16,220000,SN9 5DT,T,N,F,12,,Broadfields,,Pewsey
+2021-04-16,370000,SN9 5BX,D,N,F,4,,Hawthorn Close,,Pewsey
+2021-04-15,570000,SN9 6DU,D,N,F,2,,Jarvis Street,Upavon,Pewsey
+2021-04-15,625000,SN9 5ER,D,N,F,Nene Cottage,,North Street,,Pewsey
+2021-04-14,745000,SN9 5PL,D,N,F,The Nook,,,Woodborough,Pewsey
+2021-04-09,436000,SN9 6FE,D,Y,F,20,,Vulcan Drive,Upavon,Pewsey
+2021-04-08,550000,SN9 5AZ,D,N,F,5,,Middlemass Green,,Pewsey
+2021-04-01,285500,SN9 5DT,S,N,F,69,,Broadfields,,Pewsey
+2021-04-01,390000,SN9 5BD,D,N,F,6,,Astley Close,,Pewsey
+2021-03-31,580000,SN9 6DH,D,N,F,Newton Cottage,,Newtown,Enford,Pewsey
+2021-03-26,1300000,SN9 6EH,D,N,F,Churchstow,,Church Lane,Rushall,Pewsey
+2021-03-26,365000,SN9 5HZ,D,N,F,9,,Wheeler Close,,Pewsey
+2021-03-26,605000,SN9 5DE,D,N,F,10,,Holly Tree Walk,,Pewsey
+2021-03-24,245000,SN9 6DX,S,N,F,6,,Palmerston Meadow,Enford,Pewsey
+2021-03-24,510000,SN9 5HJ,D,N,F,37,,Raffin Lane,,Pewsey
+2021-03-22,205000,SN9 6AG,S,N,F,24,,Down View,Upavon,Pewsey
+2021-03-22,530000,SN9 5BJ,D,N,F,9,,St Johns Close,,Pewsey
+2021-03-18,375000,SN9 5AQ,F,N,L,"The Grange, 40",Flat B,High Street,,Pewsey
+2021-03-16,305000,SN9 5FD,T,N,F,19,,Crown Close,,Pewsey
+2021-03-16,380000,SN9 5AS,D,N,F,9,,Broomcroft Road,,Pewsey
+2021-03-15,370000,SN9 6JL,S,N,F,Sunningdale,,,Manningford Bruce,Pewsey
+2021-03-15,675000,SN9 5DN,T,N,F,6,,Phoenix Square,,Pewsey
+2021-03-15,270000,SN9 5BT,T,N,F,11,,Robinia Close,,Pewsey
+2021-03-12,762500,SN9 5LZ,D,N,F,Follets Cottage,,,Easton Royal,Pewsey
+2021-03-11,330000,SN9 6DZ,D,N,F,Alandale,,Fairfield,Upavon,Pewsey
+2021-03-11,300000,SN9 5BS,T,N,F,3,,Kings Corner,,Pewsey
+2021-03-05,345000,SN9 6JX,D,N,F,"Ainswood, 7",,Park Road,North Newnton,Pewsey
+2021-03-05,610000,SN9 5DF,D,N,F,77,,Swan Meadow,,Pewsey
+2021-03-04,385000,SN9 5BD,D,N,F,13,,Astley Close,,Pewsey
+2021-03-01,310000,SN9 6JX,D,N,F,15,,Park Road,North Newnton,Pewsey
+2021-03-01,375000,SN9 5LT,S,N,F,8,,Burbage Road,Easton Royal,Pewsey
+2021-02-26,435000,SN9 6FE,D,Y,F,14,,Vulcan Drive,Upavon,Pewsey
+2021-02-26,165000,SN9 6AD,T,N,F,18,,Avon Square,Upavon,Pewsey
+2021-02-26,518000,SN9 5LY,D,N,F,Greenbanks,,,Easton Royal,Pewsey
+2021-02-26,387500,SN9 5LL,T,N,F,"Appletree Cottage, 4",,The New Severalls,Milton Lilbourne,Pewsey
+2021-02-26,263000,SN9 5JT,S,N,F,14,,Smiths Close,,Pewsey
+2021-02-25,448000,SN9 6FE,D,Y,F,16,,Vulcan Drive,Upavon,Pewsey
+2021-02-25,375000,SN9 5LZ,D,N,F,Inch Cottage,,,Easton Royal,Pewsey
+2021-02-25,400000,SN9 5DN,T,N,F,5,,Phoenix Square,,Pewsey
+2021-02-19,510000,SN9 6LE,S,N,F,2,,Hilcott Cottages,Hilcott,Pewsey
+2021-02-19,485000,SN9 5FF,D,Y,F,6,,Haybrook Rise,,Pewsey
+2021-02-19,250000,SN9 5DJ,T,N,F,1,,Avon Place,,Pewsey
+2021-02-16,165000,SN9 5DZ,S,N,F,6,,The Square,,Pewsey
+2021-02-15,460000,SN9 5NR,S,N,F,Oak Cottages,1,Alton Road,Wilcot,Pewsey
+2021-02-15,437500,SN9 5HD,D,N,F,9,,Inlands Close,,Pewsey
+2021-02-15,252500,SN9 5AR,T,N,F,14,,Whatley Drive,,Pewsey
+2021-02-11,295000,SN9 6JB,D,N,F,Jasmine Cottage,,,Manningford Bruce,Pewsey
+2021-02-11,422000,SN9 6FE,D,Y,F,6,,Vulcan Drive,Upavon,Pewsey
+2021-02-11,475000,SN9 5AU,D,N,F,4,,Scotchel Green,,Pewsey
+2021-02-10,390000,SN9 5FF,D,Y,F,7,,Haybrook Rise,,Pewsey
+2021-02-05,355000,SN9 6AG,S,N,F,2,,Down View,Upavon,Pewsey
+2021-02-05,935000,SN9 5PH,D,N,F,The Old Rectory,,Church Road,Woodborough,Pewsey
+2021-02-05,355000,SN9 5HX,D,N,F,29,,Cossor Road,,Pewsey
+2021-02-05,950000,SN9 5BP,D,N,F,"The Ramblers, 20",,Easterton Lane,,Pewsey
+2021-02-05,247000,SN9 5AR,S,N,F,25,,Whatley Drive,,Pewsey
+2021-02-03,1125000,SN9 5JF,D,N,F,Mills Farm,,,Southcott,Pewsey
+2021-02-03,242500,SN9 5DU,S,N,F,86,,Broadfields,,Pewsey
+2021-02-02,340000,SN9 5BS,T,N,F,12,,Kings Corner,,Pewsey
+2021-01-29,2100000,SN9 6JW,D,N,F,Manningford Bruce House,,,Manningford Bruce,Pewsey
+2021-01-29,312500,SN9 5QS,D,N,F,25,,Walnut Close,,Pewsey
+2021-01-29,235000,SN9 5HX,T,N,F,6,,Cossor Road,,Pewsey
+2021-01-29,295000,SN9 5AR,T,N,F,9,,Whatley Drive,,Pewsey
+2021-01-28,425000,SN9 5NN,S,N,F,18,,,Wilcot,Pewsey
+2021-01-28,435000,SN9 5HD,D,N,F,8,,Inlands Close,,Pewsey
+2021-01-22,485000,SN9 6DD,D,N,F,Old Stables,,Long Street,Enford,Pewsey
+2021-01-14,474600,SN9 6BF,S,N,F,The Old Barnyard,8,Pewsey Road,Rushall,Pewsey
+2021-01-11,280000,SN9 5NL,D,N,F,103,,Wilcot Road,,Pewsey

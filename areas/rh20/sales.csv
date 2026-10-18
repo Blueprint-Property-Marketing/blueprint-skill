@@ -1,0 +1,2405 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-21,620000,RH20 2HU,D,N,F,8,,Curbey Close,West Chiltington,Pulborough
+2026-08-21,360000,RH20 2GP,T,N,F,10,,Wildbrooks Close,,Pulborough
+2026-08-14,325000,RH20 4QU,T,N,F,81,,Crowhurst Crescent,Storrington,Pulborough
+2026-08-14,330000,RH20 4JR,T,N,F,10,,Dukes Row,Cootham,Pulborough
+2026-08-13,775000,RH20 3LP,D,N,F,32,,Rectory Close,Ashington,Pulborough
+2026-08-07,970000,RH20 4BH,D,N,F,Emily Cottage,,Melton Avenue,Storrington,Pulborough
+2026-08-03,250000,RH20 1AL,F,N,L,20,,Arun Prospect,,Pulborough
+2026-07-31,435000,RH20 3AR,S,N,F,11,,Penn Gardens,Ashington,Pulborough
+2026-07-31,865000,RH20 2HA,D,N,F,Inglenook Cottage,,Nutbourne Road,,Pulborough
+2026-07-31,615000,RH20 1NR,D,N,F,Barn By The Willow,,Bury Common,Bury,Pulborough
+2026-07-31,425000,RH20 1FS,D,N,F,32,,Oddstones,Codmore Hill,Pulborough
+2026-07-29,571000,RH20 3LP,D,N,F,31,,Rectory Close,Ashington,Pulborough
+2026-07-24,425000,RH20 4FQ,D,N,F,2,,Priory Close,Storrington,Pulborough
+2026-07-24,600000,RH20 3HH,D,N,F,The Spinney,,Melrose Place,Storrington,Pulborough
+2026-07-24,1500000,RH20 2QA,D,N,F,Wildcroft,,The Hollow,West Chiltington,Pulborough
+2026-07-23,850000,RH20 3JW,D,N,F,Dalhousie,,Thakeham Copse,Storrington,Pulborough
+2026-07-21,640000,RH20 4HJ,D,N,F,25,,Pulborough Road,Storrington,Pulborough
+2026-07-21,485000,RH20 1AW,D,N,F,14,,Chestnut Walk,,Pulborough
+2026-07-20,405000,RH20 1BD,S,N,F,15,,Stane Street Close,Codmore Hill,Pulborough
+2026-07-17,233500,RH20 4NA,T,N,F,19,,School Hill,Storrington,Pulborough
+2026-07-15,950000,RH20 4NU,D,N,F,Yaffles,,Nightingale Lane,Storrington,Pulborough
+2026-07-15,800000,RH20 4NE,D,N,F,Beechwood House,,Fryern Road,Storrington,Pulborough
+2026-07-15,350000,RH20 3BS,S,N,F,19,,Spring Gardens,Washington,Pulborough
+2026-07-10,505000,RH20 1AN,D,N,F,39,,Chestnut Walk,,Pulborough
+2026-07-09,1275000,RH20 2PB,D,N,F,Honeysuckle Cottage,,Sunset Lane,West Chiltington,Pulborough
+2026-07-08,645000,RH20 4NJ,D,N,F,51,,Hawthorn Way,Storrington,Pulborough
+2026-07-08,450000,RH20 4HA,D,N,F,The Croft,,Wantley Lane,Storrington,Pulborough
+2026-07-08,540000,RH20 3NQ,D,N,F,Hunters Roost,,Thakeham Road,Storrington,Pulborough
+2026-07-07,1330000,RH20 1ER,D,N,F,Hill Cottage,,Tripp Hill,Fittleworth,Pulborough
+2026-07-07,2700000,RH20 1EN,D,N,F,Street Farm,,Lower Street,Fittleworth,Pulborough
+2026-07-06,1075000,RH20 1DR,S,N,F,Park Farm Stables,1,Stopham Road,,Pulborough
+2026-07-03,185000,RH20 4QU,F,N,L,79,,Crowhurst Crescent,Storrington,Pulborough
+2026-07-03,318000,RH20 4QU,S,N,F,35,,Crowhurst Crescent,Storrington,Pulborough
+2026-07-03,260000,RH20 3RD,F,N,L,10,,Nursery Rise,Thakeham,Pulborough
+2026-07-03,130000,RH20 1RG,F,N,L,Riverside Court,Flat 11,Station Road,,Pulborough
+2026-07-03,350000,RH20 1BQ,D,N,F,Fredoli,,Stane Street,Codmore Hill,Pulborough
+2026-07-02,415000,RH20 3LB,S,N,F,Beeding Cottage,,Hillcrest Drive,Ashington,Pulborough
+2026-07-02,635000,RH20 3AZ,D,N,F,Saddlestones,The Granary,Billingshurst Road,Ashington,Pulborough
+2026-07-02,616000,RH20 1PA,T,N,F,Norfolk Cottages,5,The Street,Bury,Pulborough
+2026-07-01,550000,RH20 4PS,D,N,F,28,,Downsview Avenue,Storrington,Pulborough
+2026-06-29,800000,RH20 4ND,D,N,F,Cedar Wood,,Wisborough Lane,Storrington,Pulborough
+2026-06-29,825000,RH20 3EN,D,N,F,South Hill Barn,,Storrington Road,Thakeham,Pulborough
+2026-06-26,520000,RH20 4QT,D,N,F,34,,Hormare Crescent,Storrington,Pulborough
+2026-06-26,200000,RH20 4GL,F,N,L,8,,The Glade,Storrington,Pulborough
+2026-06-25,465000,RH20 4PY,D,N,F,16,,Greenfield Way,Storrington,Pulborough
+2026-06-25,385000,RH20 4NL,D,N,F,18,,Hawthorn Way,Storrington,Pulborough
+2026-06-25,345000,RH20 3NP,T,N,F,13,,Beech Grove,Storrington,Pulborough
+2026-06-25,550000,RH20 3EU,D,N,F,36,,Linfield Copse,Thakeham,Pulborough
+2026-06-24,225000,RH20 2TA,S,N,F,8,,Orchard Way,,Pulborough
+2026-06-24,850000,RH20 2HG,D,N,F,Little Croft,,Stream Lane,Nutbourne,Pulborough
+2026-06-23,616667,RH20 3GL,D,N,F,35,,Blakiston Close,Ashington,Pulborough
+2026-06-22,335000,RH20 3PB,S,N,F,1,,Banks Croft,Storrington,Pulborough
+2026-06-19,1050000,RH20 2EF,D,N,F,The Lions,,Tudor Close,,Pulborough
+2026-06-19,555000,RH20 1PA,S,N,F,Paddock Cottage,,The Street,Bury,Pulborough
+2026-06-19,320000,RH20 1DH,T,N,F,8,,Bell Close,,Pulborough
+2026-06-18,700000,RH20 4RN,D,N,F,Chestnut Cottage,,The Brackens,Storrington,Pulborough
+2026-06-18,855000,RH20 4NT,D,N,F,Laverock,,Fryern Road,Storrington,Pulborough
+2026-06-18,850000,RH20 3JW,D,N,F,High Trees,,Thakeham Copse,Storrington,Pulborough
+2026-06-15,520000,RH20 1PE,D,N,F,"Rhulan, 48",,Coombe Crescent,Bury,Pulborough
+2026-06-12,315000,RH20 4QZ,T,N,F,7,,Reed Close,Storrington,Pulborough
+2026-06-10,355000,RH20 3NL,S,N,F,4,,The Green,Storrington,Pulborough
+2026-06-08,600000,RH20 1PE,D,N,F,61,,Coombe Crescent,Bury,Pulborough
+2026-06-05,640000,RH20 3PR,D,N,F,19,,Covert Mead,Ashington,Pulborough
+2026-06-05,385000,RH20 2DQ,D,N,F,9,,Downlands,,Pulborough
+2026-06-04,770000,RH20 4NT,D,N,F,Checkmate,,Fryern Road,Storrington,Pulborough
+2026-06-04,500000,RH20 4JZ,D,N,F,8,,Turners Mead,Storrington,Pulborough
+2026-06-04,710000,RH20 3PR,D,N,F,2,,Covert Mead,Ashington,Pulborough
+2026-06-04,725000,RH20 3GU,D,N,F,38,,Watermeadow Lane,Storrington,Pulborough
+2026-05-29,445000,RH20 4NZ,T,N,F,"Lavender Corner, 21A",,North Street,Storrington,Pulborough
+2026-05-29,435000,RH20 3PU,D,N,F,13,,Sanders Gate,Storrington,Pulborough
+2026-05-29,620000,RH20 3PQ,D,N,F,1,,Willard Way,Ashington,Pulborough
+2026-05-29,142500,RH20 1FE,F,N,L,Wey House,19,Spiro Close,,Pulborough
+2026-05-28,860000,RH20 4LS,D,N,F,2,,Link Hill,Storrington,Pulborough
+2026-05-28,638000,RH20 4EP,D,N,F,15,,John Ireland Way,Washington,Pulborough
+2026-05-28,825000,RH20 3HQ,D,N,F,Silverwood,,Newhouse Lane,Storrington,Pulborough
+2026-05-28,865000,RH20 3ED,D,N,F,Birch Hay,,Storrington Road,Thakeham,Pulborough
+2026-05-27,408000,RH20 3QY,T,N,F,1,,Rockwood Mews,Washington,Pulborough
+2026-05-22,395000,RH20 3EL,S,N,F,6,,Guyhurst Spinney,Thakeham,Pulborough
+2026-05-20,670000,RH20 4QL,D,N,F,2,,Rapley Avenue,Storrington,Pulborough
+2026-05-20,562500,RH20 3QX,D,N,F,1,,Chestnut Drive,Thakeham,Pulborough
+2026-05-15,450000,RH20 1HT,D,N,F,"Bramblings, 9A",,The Gardens,Fittleworth,Pulborough
+2026-05-14,343492,RH20 4BF,T,N,F,13,,Birklands,Storrington,Pulborough
+2026-05-14,817000,RH20 3JQ,D,N,F,23,,Cricketers Close,Ashington,Pulborough
+2026-05-11,700000,RH20 3LR,D,N,F,4,,Greenacres,Ashington,Pulborough
+2026-05-08,485000,RH20 3PU,D,N,F,2,,Sanders Gate,Storrington,Pulborough
+2026-05-07,495000,RH20 4PX,D,N,F,5,,Denshire Drive,Storrington,Pulborough
+2026-05-07,475000,RH20 2DF,S,N,F,Heather Bank,,Moat Lane,,Pulborough
+2026-05-05,500000,RH20 1HX,S,N,F,23,,Greatpin Croft,Fittleworth,Pulborough
+2026-05-01,518000,RH20 3EU,D,N,F,49,,Linfield Copse,Thakeham,Pulborough
+2026-04-30,665000,RH20 2QW,D,N,F,12,,Haglands Copse,West Chiltington,Pulborough
+2026-04-29,555000,RH20 4DT,T,N,F,3,,Hillcrest,Storrington,Pulborough
+2026-04-29,1300000,RH20 1JT,D,N,F,Parsley Cottage,,Little Bognor,Fittleworth,Pulborough
+2026-04-27,692000,RH20 2PZ,D,N,F,Goldings,,Mill Road,West Chiltington,Pulborough
+2026-04-27,497000,RH20 1EP,T,N,F,The Mill Cottage,,Lower Street,Fittleworth,Pulborough
+2026-04-22,375000,RH20 4LW,S,N,F,St. Johns,2,Fern Road,Storrington,Pulborough
+2026-04-21,785000,RH20 3PR,D,N,F,30,,Covert Mead,Ashington,Pulborough
+2026-04-16,950000,RH20 3LZ,D,N,F,24,,Hillside Road,Storrington,Pulborough
+2026-04-16,600000,RH20 2HD,D,N,F,Bourne End,,Nutbourne Road,Nutbourne,Pulborough
+2026-04-14,295000,RH20 3GW,F,N,L,3,Flat 2,Abingworth Crescent,Thakeham,Pulborough
+2026-04-14,1225000,RH20 1HD,D,N,F,Westburton Cottage,,,Westburton,Pulborough
+2026-04-10,875000,RH20 2NE,D,N,F,Pine Croft,,Nyetimber Copse,West Chiltington,Pulborough
+2026-04-10,1450000,RH20 2JY,D,N,F,The Old Granary,,East Street,West Chiltington,Pulborough
+2026-04-09,530000,RH20 3NA,S,N,F,Crescent House,1,Storrington Road,Thakeham,Pulborough
+2026-04-08,530000,RH20 4QW,D,N,F,80,,Hormare Crescent,Storrington,Pulborough
+2026-04-08,365000,RH20 4GL,S,N,F,1,,The Glade,Storrington,Pulborough
+2026-04-08,410000,RH20 2QQ,S,N,F,13,,Mill End,West Chiltington,Pulborough
+2026-04-08,860000,RH20 2NE,D,N,F,Sunrise,,Nyetimber Copse,West Chiltington,Pulborough
+2026-04-07,700000,RH20 1LR,D,N,F,Sandy Lodge,,London Road,Coldwaltham,Pulborough
+2026-04-02,975000,RH20 4NT,D,N,F,Downsview House,,Fryern Road,Storrington,Pulborough
+2026-04-02,415000,RH20 3QP,D,N,F,6,,Thompson Drive,Storrington,Pulborough
+2026-04-02,825000,RH20 2QW,D,N,F,Haglands Farm,,Haglands Copse,West Chiltington,Pulborough
+2026-04-01,435000,RH20 1LX,S,N,F,4,,Brookview South,Coldwaltham,Pulborough
+2026-04-01,475000,RH20 1LJ,D,N,F,16,,Silverdale,Coldwaltham,Pulborough
+2026-04-01,485000,RH20 1JE,S,N,F,Picknell Cottage,,Lower Street,Fittleworth,Pulborough
+2026-03-31,540000,RH20 3QG,D,N,F,10,,Turnpike Way,Ashington,Pulborough
+2026-03-31,375000,RH20 1FS,T,N,F,13,,Oddstones,Codmore Hill,Pulborough
+2026-03-30,360000,RH20 3NS,S,N,F,4,,Southdown Way,Storrington,Pulborough
+2026-03-30,950000,RH20 3HZ,D,N,F,Brambledene,,Hampers Lane,Storrington,Pulborough
+2026-03-27,382750,RH20 1LU,S,N,F,25,,Brookview,Coldwaltham,Pulborough
+2026-03-27,315000,RH20 1LU,S,N,F,19,,Brookview,Coldwaltham,Pulborough
+2026-03-27,210000,RH20 1FS,F,N,L,6,,Oddstones,Codmore Hill,Pulborough
+2026-03-26,210000,RH20 3GS,F,N,L,11,,Mousdell Close,Ashington,Pulborough
+2026-03-26,430000,RH20 3BG,D,N,F,3,,Willow Way,Ashington,Pulborough
+2026-03-26,300000,RH20 2BF,T,N,F,12,,Swan View,,Pulborough
+2026-03-25,600000,RH20 3EU,D,N,F,60,,Linfield Copse,Thakeham,Pulborough
+2026-03-25,1040000,RH20 2PB,D,N,F,Rufflets,,Sunset Lane,West Chiltington,Pulborough
+2026-03-25,540000,RH20 2HU,D,N,F,4,,Curbey Close,West Chiltington,Pulborough
+2026-03-25,315000,RH20 2BD,F,N,L,Beverley Court,Flat 6,Skeyne Drive,,Pulborough
+2026-03-24,850000,RH20 2JQ,D,N,F,Knoll Cottage,,Foxfields,West Chiltington,Pulborough
+2026-03-23,475000,RH20 1AN,D,N,F,43,,Chestnut Walk,,Pulborough
+2026-03-20,190000,RH20 4PE,F,N,L,1,,Holly Court,Storrington,Pulborough
+2026-03-20,1030000,RH20 2HJ,D,N,F,Kahnters,,Gay Street,,Pulborough
+2026-03-20,380000,RH20 1PF,S,N,F,Old Cottage East,,The Street,Bury,Pulborough
+2026-03-20,500000,RH20 1FX,D,N,F,2,,Sinclair Drive,Codmore Hill,Pulborough
+2026-03-20,830000,RH20 1DZ,D,N,F,28,,Masons Way,Codmore Hill,Pulborough
+2026-03-18,907500,RH20 1LS,D,N,F,Honeysuckle Cottage,,Brook Lane,Coldwaltham,Pulborough
+2026-03-16,650000,RH20 4PS,D,N,F,11,,Downsview Avenue,Storrington,Pulborough
+2026-03-16,444000,RH20 3QQ,S,N,F,1,,Wallace Road,Storrington,Pulborough
+2026-03-16,405000,RH20 3LS,T,N,F,20,,Pulla Hill Drive,Storrington,Pulborough
+2026-03-13,369000,RH20 4DZ,S,N,F,"Lyndhurst, 57",,West Street,Storrington,Pulborough
+2026-03-13,422500,RH20 3QD,T,N,F,3,,Warminghurst Close,Ashington,Pulborough
+2026-03-12,505000,RH20 2PJ,D,N,F,Sunnyside,,The Common,West Chiltington,Pulborough
+2026-03-12,239995,RH20 2HT,F,N,L,15,,Barnhouse Close,,Pulborough
+2026-03-11,455000,RH20 4PA,S,N,F,1,,Ryecroft Lane,Storrington,Pulborough
+2026-03-11,165000,RH20 4LH,S,N,L,8,,Manor Court,Storrington,Pulborough
+2026-03-11,226212,RH20 4FT,D,N,F,3,,Angel Heights,Storrington,Pulborough
+2026-03-11,410000,RH20 1AS,T,N,F,34,,London Road,,Pulborough
+2026-03-10,295000,RH20 4FT,D,N,F,6,,Angel Heights,Storrington,Pulborough
+2026-03-10,345000,RH20 4FT,D,N,F,5,,Angel Heights,Storrington,Pulborough
+2026-03-10,460000,RH20 4FT,D,N,F,4,,Angel Heights,Storrington,Pulborough
+2026-03-06,500000,RH20 4GL,S,N,F,13,,The Glade,Storrington,Pulborough
+2026-03-06,330000,RH20 4BF,F,N,L,5,,Birklands,Storrington,Pulborough
+2026-03-03,230000,RH20 2BG,F,N,L,Barclays Court,Flat 6,Skeyne Drive,,Pulborough
+2026-03-02,265000,RH20 4GW,F,N,L,3,,Holm Oak,Storrington,Pulborough
+2026-02-26,275000,RH20 2DD,F,N,L,Arun Court,10,Lower Street,,Pulborough
+2026-02-26,295000,RH20 2BG,F,N,L,Barclays Court,Flat 7,Skeyne Drive,,Pulborough
+2026-02-26,400000,RH20 1FJ,T,N,F,20,,Riverside,Codmore Hill,Pulborough
+2026-02-25,465000,RH20 4QP,D,N,F,88,,Hormare Crescent,Storrington,Pulborough
+2026-02-23,360000,RH20 2JA,S,N,F,26,,Aston Rise,,Pulborough
+2026-02-20,210000,RH20 3PT,S,N,L,1,,Viney Close,Ashington,Pulborough
+2026-02-20,620000,RH20 3EF,S,N,F,Champions Cottages,2,Storrington Road,Thakeham,Pulborough
+2026-02-20,775000,RH20 2EL,S,N,F,New Cottage,31,Wiggonholt,,Pulborough
+2026-02-17,740000,RH20 4LQ,D,N,F,Field Cottage,,Browns Lane,Storrington,Pulborough
+2026-02-17,595000,RH20 3QX,D,N,F,32,,Chestnut Drive,Thakeham,Pulborough
+2026-02-17,450000,RH20 3QX,S,N,F,23,,Chestnut Drive,Thakeham,Pulborough
+2026-02-17,1010000,RH20 2NE,D,N,F,Rustlings,,Nyetimber Copse,West Chiltington,Pulborough
+2026-02-16,572500,RH20 4QX,D,N,F,50,,Hormare Crescent,Storrington,Pulborough
+2026-02-16,730000,RH20 2EX,S,N,F,11,,Rackham Street,Rackham,Pulborough
+2026-02-13,785000,RH20 2NP,D,N,F,Greensands,,Wyndham Lea,West Chiltington,Pulborough
+2026-02-13,335000,RH20 2AP,T,N,F,33,,The Spinney,,Pulborough
+2026-02-12,645000,RH20 2QW,D,N,F,15,,Haglands Copse,West Chiltington,Pulborough
+2026-02-06,295000,RH20 4JE,T,N,F,15,,Amberley Road,Storrington,Pulborough
+2026-02-06,517500,RH20 4HF,S,N,F,Barn Cottage,,Hurston Lane,Storrington,Pulborough
+2026-02-06,262500,RH20 4BN,T,N,F,1,,Virginia Cottages,Storrington,Pulborough
+2026-02-06,255000,RH20 3QA,D,N,F,9,,Puttick Close,Storrington,Pulborough
+2026-02-03,370000,RH20 2QB,S,N,F,39,,Martlets,West Chiltington,Pulborough
+2026-01-30,815000,RH20 1PU,D,N,F,Seven Doors,,School Lane,Sutton,Pulborough
+2026-01-29,950000,RH20 2NA,D,N,F,Craven Cottage,,Nyetimber Lane,West Chiltington,Pulborough
+2026-01-29,775000,RH20 2AD,D,N,F,Greytiles,,Rectory Lane,,Pulborough
+2026-01-28,500000,RH20 4GW,S,N,F,11,,Holm Oak,Storrington,Pulborough
+2026-01-26,430000,RH20 4NL,D,N,F,28,,Hawthorn Way,Storrington,Pulborough
+2026-01-26,207500,RH20 4FN,F,N,L,Foxmead Court,17,Meadowside,Storrington,Pulborough
+2026-01-23,565000,RH20 4NW,D,N,F,8,,Stor Meadow,Storrington,Pulborough
+2026-01-23,435000,RH20 4LE,T,N,F,2,,Rosemary Close,Storrington,Pulborough
+2026-01-23,715000,RH20 1PB,D,N,F,Jessamine Cottage,,Church Lane,Bury,Pulborough
+2026-01-23,610000,RH20 1HW,D,N,F,Wayside,,Wyncombe Close,Fittleworth,Pulborough
+2026-01-19,705000,RH20 1EY,D,N,F,Bell Meadow,,Burygate,Bury,Pulborough
+2026-01-16,725000,RH20 4JY,D,N,F,The Hermitage,,Fox Dell,Storrington,Pulborough
+2026-01-16,870000,RH20 2SA,D,N,F,2,,Kingswood,West Chiltington,Pulborough
+2026-01-16,310000,RH20 2JL,T,N,F,142,,Glebelands,,Pulborough
+2026-01-16,557500,RH20 2JJ,D,N,F,90,,Glebelands,,Pulborough
+2026-01-16,363000,RH20 1FJ,S,N,F,54,,Riverside,Codmore Hill,Pulborough
+2026-01-16,550000,RH20 1AW,D,N,F,8,,Chestnut Walk,,Pulborough
+2026-01-13,820000,RH20 2QU,D,N,F,Southernwood,,Lordings Lane,West Chiltington,Pulborough
+2026-01-12,375000,RH20 1AP,S,N,F,10,,London Road,,Pulborough
+2026-01-09,165000,RH20 4NZ,F,N,L,"Frasier House, 48",Flat 4,North Street,Storrington,Pulborough
+2026-01-09,500000,RH20 4AR,S,N,F,Littlecroft,,Chanctonbury Close,Washington,Pulborough
+2026-01-09,185000,RH20 3QN,F,N,L,Klada Court,4,Field End,Storrington,Pulborough
+2026-01-08,799950,RH20 1PF,D,N,F,Bury House Cottage,,The Street,Bury,Pulborough
+2026-01-08,1200000,RH20 1NE,D,N,F,Balnald,,Sandy Lane,Watersfield,Pulborough
+2026-01-07,450000,RH20 4PJ,S,N,F,14,,Fryern Close,Storrington,Pulborough
+2026-01-07,627500,RH20 4JL,D,N,F,2,,Fox Court,Storrington,Pulborough
+2025-12-19,250000,RH20 4QH,T,N,F,18,,Rectory Walk,Storrington,Pulborough
+2025-12-19,330000,RH20 4NF,S,N,F,Sundown,,Mill Lane,Storrington,Pulborough
+2025-12-19,610000,RH20 3BX,D,N,F,Quendale House,,Mill Lane,Ashington,Pulborough
+2025-12-19,280000,RH20 2BF,T,N,F,14,,Swan View,,Pulborough
+2025-12-19,391000,RH20 1FW,S,N,F,13,,Sinclair Drive,Codmore Hill,Pulborough
+2025-12-18,380000,RH20 4EQ,S,N,F,36,,Meadowside,Storrington,Pulborough
+2025-12-18,760000,RH20 2ED,D,N,F,Cherrytree Cottage,,Batts Lane,,Pulborough
+2025-12-18,490000,RH20 1HH,D,N,F,12,,High Trees,Fittleworth,Pulborough
+2025-12-16,580000,RH20 4BX,D,N,F,2,,Chantry Close,Storrington,Pulborough
+2025-12-16,345000,RH20 3QA,T,N,F,11,,Puttick Close,Storrington,Pulborough
+2025-12-15,120000,RH20 3GL,F,N,L,29,,Blakiston Close,Ashington,Pulborough
+2025-12-12,325000,RH20 4QQ,T,N,F,8,,Rectory Close,Storrington,Pulborough
+2025-12-12,770000,RH20 1PD,D,N,F,Bank Cottage,,Houghton Lane,Bury,Pulborough
+2025-12-12,720000,RH20 1BG,D,N,F,Gomera,,Stane Street,Codmore Hill,Pulborough
+2025-12-11,475000,RH20 3JN,D,N,F,2,,Morleys,Ashington,Pulborough
+2025-12-11,810000,RH20 2NE,D,N,F,Bahati,,Nyetimber Copse,West Chiltington,Pulborough
+2025-12-11,925000,RH20 1PS,D,N,F,Rectory Gate Cottage,,The Street,Sutton,Pulborough
+2025-12-10,702000,RH20 4LL,D,N,F,Cobb Gate,,School Lane,Storrington,Pulborough
+2025-12-10,575000,RH20 2QF,D,N,F,5,,Birch End,West Chiltington,Pulborough
+2025-12-10,610000,RH20 2AE,D,N,F,Tiltridge,,Rectory Lane,,Pulborough
+2025-12-09,200000,RH20 4FN,F,N,L,Foxmead Court,25,Meadowside,Storrington,Pulborough
+2025-12-09,925000,RH20 1BG,D,N,F,Chestnut Holt,,Stane Street,Codmore Hill,Pulborough
+2025-12-08,515000,RH20 4QX,D,N,F,68,,Hormare Crescent,Storrington,Pulborough
+2025-12-08,710000,RH20 3BX,D,N,F,Moonfleet,,Mill Lane,Ashington,Pulborough
+2025-12-05,260000,RH20 3NR,D,N,F,8,,Woodside Close,Storrington,Pulborough
+2025-12-04,400000,RH20 4FH,T,N,F,The Laurels,4,Pulborough Road,Storrington,Pulborough
+2025-12-04,840000,RH20 3GJ,D,N,F,"Ashworth House, 3",,Knapweld Chase,Storrington,Pulborough
+2025-12-04,675000,RH20 2PJ,D,N,F,Cartref,,The Common,West Chiltington,Pulborough
+2025-12-03,480000,RH20 4QS,D,N,F,24,,Dean Way,Storrington,Pulborough
+2025-12-01,367500,RH20 3ES,D,N,F,10,,Hardbarrow Woods,Thakeham,Pulborough
+2025-11-28,395000,RH20 4BT,D,N,F,Sawyards,,Manleys Hill,Storrington,Pulborough
+2025-11-28,260000,RH20 1FE,F,N,L,Wey House,1,Spiro Close,,Pulborough
+2025-11-28,330000,RH20 1AS,T,N,F,40,,London Road,,Pulborough
+2025-11-27,530000,RH20 4QW,D,N,F,83,,Hormare Crescent,Storrington,Pulborough
+2025-11-27,130000,RH20 4NF,F,N,L,Gatley House,Flat 1,Mill Lane,Storrington,Pulborough
+2025-11-27,749000,RH20 4JH,D,N,F,Rangoon,,Kithurst Park,Storrington,Pulborough
+2025-11-26,400000,RH20 2AJ,S,N,F,19,,Rectory Close,,Pulborough
+2025-11-25,350000,RH20 4EG,S,N,F,33,,Meadowside,Storrington,Pulborough
+2025-11-25,1110000,RH20 3HD,D,N,F,Little Bracken,,Merrywood Lane,Thakeham,Pulborough
+2025-11-25,1100000,RH20 2QR,D,N,F,Millbank House,,Haglands Lane,West Chiltington,Pulborough
+2025-11-25,400000,RH20 2BS,T,N,F,Meadow Barn,,Barn House Lane,,Pulborough
+2025-11-25,460000,RH20 1BS,S,N,F,Penelope Cottage,,Coombelands Lane,,Pulborough
+2025-11-21,760000,RH20 4BS,D,N,F,"The Lee, 3",,Byne Close,Storrington,Pulborough
+2025-11-21,500000,RH20 3LS,D,N,F,5,,Pulla Hill Drive,Storrington,Pulborough
+2025-11-21,355000,RH20 2GP,T,N,F,1,,Wildbrooks Close,,Pulborough
+2025-11-21,330000,RH20 1LU,T,N,F,23A,,Brookview,Coldwaltham,Pulborough
+2025-11-20,480000,RH20 4QJ,D,N,F,12,,Tansy Mead,Storrington,Pulborough
+2025-11-20,500000,RH20 3LD,S,N,F,4,,Timberlea Close,Ashington,Pulborough
+2025-11-20,1750000,RH20 2NY,D,N,F,Cherry Tree Cottage,,Sunset Lane,West Chiltington,Pulborough
+2025-11-20,295000,RH20 2LX,D,N,F,18,,Wheelwrights,West Chiltington,Pulborough
+2025-11-20,1100000,RH20 2HL,D,N,F,Sandpond Cottage,,Gay Street,,Pulborough
+2025-11-20,371000,RH20 1LU,S,N,F,40,,Brookview,Coldwaltham,Pulborough
+2025-11-19,670000,RH20 2PY,D,N,F,Old Bilton,,Mill Road,West Chiltington,Pulborough
+2025-11-19,370000,RH20 2BZ,D,N,F,73,,Glebelands,,Pulborough
+2025-11-19,415000,RH20 1SA,D,N,F,18,,Chapel Close,Watersfield,Pulborough
+2025-11-17,337000,RH20 3NZ,T,N,F,10,,Jubilee Way,Storrington,Pulborough
+2025-11-17,323000,RH20 3NF,T,N,F,13,,Timberlands,Storrington,Pulborough
+2025-11-17,296500,RH20 1AN,T,N,F,11,,Chestnut Walk,,Pulborough
+2025-11-14,365000,RH20 4LF,T,N,F,22,,Manor Close,Storrington,Pulborough
+2025-11-14,290000,RH20 4FN,F,N,L,Foxmead Court,9,Meadowside,Storrington,Pulborough
+2025-11-14,848000,RH20 2PN,D,N,F,Oakdene,,Harborough Drive,,Pulborough
+2025-11-12,725000,RH20 4PS,D,N,F,7,,Downsview Avenue,Storrington,Pulborough
+2025-11-11,684000,RH20 3HG,D,N,F,Serena,,Woodlands Lane,Storrington,Pulborough
+2025-11-10,795000,RH20 4HJ,D,N,F,"Greenlands, 17",,Pulborough Road,Storrington,Pulborough
+2025-11-10,387500,RH20 4EG,S,N,F,9,,Meadowside,Storrington,Pulborough
+2025-11-10,490000,RH20 3LS,D,N,F,32,,Pulla Hill Drive,Storrington,Pulborough
+2025-11-07,695000,RH20 3PR,D,N,F,5,,Covert Mead,Ashington,Pulborough
+2025-11-07,385000,RH20 2JJ,D,N,F,4,,Glebelands,,Pulborough
+2025-11-07,772000,RH20 1NX,D,N,F,Brockhurst Farm,The Warren 3,London Road,Watersfield,Pulborough
+2025-11-06,1225000,RH20 2RD,D,N,F,White Oaks,,Grove Lane,West Chiltington,Pulborough
+2025-11-04,1155000,RH20 2ED,D,N,F,Greenford,,Batts Lane,,Pulborough
+2025-11-04,865000,RH20 1LW,D,N,F,Artigh,,Church Lane,Coldwaltham,Pulborough
+2025-11-03,200000,RH20 4GL,F,N,L,10,,The Glade,Storrington,Pulborough
+2025-11-03,595000,RH20 2PZ,D,N,F,Keys Cottage,,Mill Road,West Chiltington,Pulborough
+2025-11-03,1150000,RH20 1PB,D,N,F,River House,,Church Lane,Bury,Pulborough
+2025-10-31,196000,RH20 4PE,F,N,L,19,,Holly Court,Storrington,Pulborough
+2025-10-31,445000,RH20 4EP,D,N,F,55,,John Ireland Way,Washington,Pulborough
+2025-10-31,149000,RH20 4DQ,F,N,L,20,,White Horse Court,Storrington,Pulborough
+2025-10-31,860000,RH20 3ET,D,N,F,Brambledown,,Badgers Holt,Storrington,Pulborough
+2025-10-31,277500,RH20 2RX,F,N,L,19,,Morris Way,West Chiltington,Pulborough
+2025-10-31,445000,RH20 2JL,S,N,F,104,,Glebelands,,Pulborough
+2025-10-31,467500,RH20 1LP,D,N,F,12,,Arun Vale,Coldwaltham,Pulborough
+2025-10-30,975000,RH20 2PP,D,N,F,Carnforth,,New Barn Lane,West Chiltington,Pulborough
+2025-10-29,960000,RH20 2NE,D,N,F,Heronslea,,Nyetimber Copse,West Chiltington,Pulborough
+2025-10-29,89000,RH20 1RG,F,N,L,Riverside Court,Flat 25,Station Road,,Pulborough
+2025-10-24,370000,RH20 2JF,T,N,F,8,,Nutcroft,,Pulborough
+2025-10-24,490000,RH20 2GZ,F,Y,L,5,,Wells Place,West Chiltington,Pulborough
+2025-10-21,180000,RH20 1FJ,F,N,L,72,,Riverside,Codmore Hill,Pulborough
+2025-10-17,325000,RH20 4QZ,T,N,F,4,,Reed Close,Storrington,Pulborough
+2025-10-17,835000,RH20 4FF,D,N,F,Brookside,,Fryern Park,Storrington,Pulborough
+2025-10-17,367500,RH20 3EG,T,N,F,39,,Furze Common Road,Thakeham,Pulborough
+2025-10-17,750000,RH20 2RQ,D,N,F,4,,Silver Glade,West Chiltington,Pulborough
+2025-10-17,750000,RH20 2HR,S,N,F,Stall House Cottage,1,Stall House Lane,North Heath,Pulborough
+2025-10-16,295000,RH20 2BA,F,N,L,Beaumont Court,Flat 6,Skeyne Drive,,Pulborough
+2025-10-15,435000,RH20 3LQ,S,N,F,25,,The Sands,Ashington,Pulborough
+2025-10-15,565000,RH20 1LF,D,N,F,The Croft,,Old London Road,Coldwaltham,Pulborough
+2025-10-14,910000,RH20 2QZ,D,N,F,Milestones,,Crossways Park,West Chiltington,Pulborough
+2025-10-14,2850000,RH20 2HA,D,N,F,Carpe Diem,,Nutbourne Road,,Pulborough
+2025-10-10,495000,RH20 4QN,D,N,F,23,,Dean Way,Storrington,Pulborough
+2025-10-10,778000,RH20 3RF,D,Y,F,5,,Springett Close,Thakeham,Pulborough
+2025-10-10,442000,RH20 3JR,D,N,F,Downview,,London Road,Ashington,Pulborough
+2025-10-08,760000,RH20 1DZ,D,N,F,14,,Masons Way,Codmore Hill,Pulborough
+2025-10-07,860000,RH20 4DD,D,N,F,Beeches,,Heather Way,Storrington,Pulborough
+2025-10-03,173500,RH20 3QN,F,N,L,Klada Court,8,Field End,Storrington,Pulborough
+2025-10-03,470000,RH20 2JB,D,N,F,2,,New Place Road,,Pulborough
+2025-10-02,342000,RH20 4QQ,T,N,F,20,,Rectory Close,Storrington,Pulborough
+2025-10-01,835000,RH20 3HS,D,N,F,Foxholme,,Bracken Lane,Storrington,Pulborough
+2025-09-30,325000,RH20 4QN,S,N,F,59,,Dean Way,Storrington,Pulborough
+2025-09-30,695000,RH20 4LW,D,N,F,"St Wilfreds, 13",,Fern Road,Storrington,Pulborough
+2025-09-30,135000,RH20 3BW,F,N,L,27,,Montpelier Gardens,Washington,Pulborough
+2025-09-30,773000,RH20 2JQ,D,N,F,Michaelmas Cottage,,Foxfields,West Chiltington,Pulborough
+2025-09-30,415000,RH20 1FQ,S,N,F,27,,Corden Place,Codmore Hill,Pulborough
+2025-09-29,1010000,RH20 2QZ,D,N,F,Heatherdown,,Crossways Park,West Chiltington,Pulborough
+2025-09-29,425000,RH20 2QE,D,N,F,9,,Larch End,West Chiltington,Pulborough
+2025-09-29,1210000,RH20 2EF,D,N,F,Mustercoombe House,,Tudor Close,,Pulborough
+2025-09-26,455000,RH20 3QX,S,N,F,7,,Chestnut Drive,Thakeham,Pulborough
+2025-09-26,555000,RH20 3JH,D,N,F,La Selva,,Georges Lane,Storrington,Pulborough
+2025-09-26,332500,RH20 2JL,T,N,F,152,,Glebelands,,Pulborough
+2025-09-25,490000,RH20 3QP,S,N,F,37,,Thompson Drive,Storrington,Pulborough
+2025-09-24,360000,RH20 3GT,S,N,F,34,,Leatherbottle Way,Storrington,Pulborough
+2025-09-23,492500,RH20 4QJ,D,N,F,6,,Tansy Mead,Storrington,Pulborough
+2025-09-23,1500000,RH20 1PS,D,N,F,Old Manor House,,The Street,Sutton,Pulborough
+2025-09-23,1040000,RH20 1JB,D,N,F,Aldermoor,,School Lane,Fittleworth,Pulborough
+2025-09-22,330000,RH20 4FN,F,N,L,Foxmead Court,19,Meadowside,Storrington,Pulborough
+2025-09-19,795000,RH20 3QR,D,Y,F,23,,Penn Stone Way,Thakeham,Pulborough
+2025-09-19,700000,RH20 3BY,D,N,F,2,,Blacksmiths Close,Ashington,Pulborough
+2025-09-19,535001,RH20 2GZ,F,Y,L,6,,Wells Place,West Chiltington,Pulborough
+2025-09-19,499999,RH20 2GZ,F,Y,F,4,,Wells Place,West Chiltington,Pulborough
+2025-09-19,1160000,RH20 2EF,D,N,F,Grey Oak,,Tudor Close,,Pulborough
+2025-09-18,750000,RH20 3HF,D,N,F,Squirrels,,Tudor Village,Storrington,Pulborough
+2025-09-18,320000,RH20 2BP,T,N,F,113B,,Lower Street,,Pulborough
+2025-09-17,310000,RH20 4DF,T,N,F,3,,Swan Close,Storrington,Pulborough
+2025-09-12,331500,RH20 3NS,S,N,F,10,,Southdown Way,Storrington,Pulborough
+2025-09-12,470000,RH20 2QB,D,N,F,37,,Martlets,West Chiltington,Pulborough
+2025-09-12,795000,RH20 2PX,D,N,F,Tobbs Cottage,,Finches Lane,West Chiltington,Pulborough
+2025-09-12,625000,RH20 1JZ,T,N,F,2,,The Old School,Fittleworth,Pulborough
+2025-09-10,350000,RH20 4NF,S,N,F,Dawnwind,,Mill Lane,Storrington,Pulborough
+2025-09-10,485000,RH20 2JP,D,N,F,1,,Pond Rise,West Chiltington,Pulborough
+2025-09-09,740000,RH20 3QB,D,N,F,"Gwinguines, 4",,Meiros Way,Ashington,Pulborough
+2025-09-08,600000,RH20 3NB,D,N,F,Acorns,,Crescent Rise,Thakeham,Pulborough
+2025-09-08,495000,RH20 3JN,D,N,F,5,,Morleys,Ashington,Pulborough
+2025-09-08,875000,RH20 2RU,D,N,F,Fernshaw,,Harborough Gorse,West Chiltington,Pulborough
+2025-09-05,550000,RH20 3NB,D,N,F,21,,Crescent Rise,Thakeham,Pulborough
+2025-09-04,695000,RH20 2HU,D,N,F,6,,Curbey Close,West Chiltington,Pulborough
+2025-09-04,799500,RH20 1PD,D,N,F,Downs Court,,Houghton Lane,Bury,Pulborough
+2025-09-03,680000,RH20 3QX,D,N,F,43,,Chestnut Drive,Thakeham,Pulborough
+2025-09-03,1000000,RH20 2PX,D,N,F,7,,Finches Lane,West Chiltington,Pulborough
+2025-09-03,1325000,RH20 2NP,D,N,F,5,,Wyndham Lea,West Chiltington,Pulborough
+2025-09-03,1295000,RH20 2NH,D,N,F,Jarenice,,Monkmead Lane,West Chiltington,Pulborough
+2025-09-02,550000,RH20 1LD,T,N,F,Priory Cottages,2,London Road,Hardham,Pulborough
+2025-09-01,2725000,RH20 1NJ,D,N,F,Hoeland House,,London Road,Watersfield,Pulborough
+2025-08-29,243500,RH20 4LB,T,N,F,Castle Bungalows,3,Church Street,Storrington,Pulborough
+2025-08-28,360000,RH20 4FN,F,N,L,Foxmead Court,4,Meadowside,Storrington,Pulborough
+2025-08-27,725000,RH20 3JQ,D,N,F,15,,Cricketers Close,Ashington,Pulborough
+2025-08-27,350000,RH20 3EU,T,N,F,8,,Linfield Copse,Thakeham,Pulborough
+2025-08-27,232000,RH20 2QR,F,N,L,"Haglands Stores, 3",Flat 2,Haglands Lane,West Chiltington,Pulborough
+2025-08-22,435000,RH20 2AN,S,N,F,7,,Link Lane,,Pulborough
+2025-08-22,498000,RH20 1PP,S,N,F,2,,Greenfield,Sutton,Pulborough
+2025-08-21,280000,RH20 4BT,T,N,F,Blakes Cottage,,Manleys Hill,Storrington,Pulborough
+2025-08-21,580000,RH20 3NA,D,N,F,Little Oak,,Storrington Road,Thakeham,Pulborough
+2025-08-21,475000,RH20 2QB,D,N,F,35,,Martlets,West Chiltington,Pulborough
+2025-08-21,880000,RH20 2GT,D,N,F,3,,Castle Rise,West Chiltington,Pulborough
+2025-08-20,885000,RH20 2NE,D,N,F,Squirrels Run,,Nyetimber Copse,West Chiltington,Pulborough
+2025-08-20,445000,RH20 2AN,S,N,F,6,,Link Lane,,Pulborough
+2025-08-19,455000,RH20 3JT,S,N,F,Magnolia,2,London Road,Ashington,Pulborough
+2025-08-18,760000,RH20 4QS,D,N,F,88,,Dean Way,Storrington,Pulborough
+2025-08-15,660000,RH20 2AD,D,N,F,Orange Tree Cottage,,Rectory Lane,,Pulborough
+2025-08-14,625000,RH20 3LZ,D,N,F,8,,Hillside Road,Storrington,Pulborough
+2025-08-13,1000000,RH20 4LY,D,N,F,3,,Nightingale Park,Storrington,Pulborough
+2025-08-13,1120000,RH20 2SF,D,N,F,1,,Grange Park,West Chiltington,Pulborough
+2025-08-13,365000,RH20 1RH,D,N,F,1,,The Willows,,Pulborough
+2025-08-11,580000,RH20 3JB,D,N,F,Hampers Barn,,Hampers Lane,Storrington,Pulborough
+2025-08-11,367000,RH20 3AS,S,N,F,Rectory Place,Medway Cottage,Rectory Lane,Ashington,Pulborough
+2025-08-11,325000,RH20 1AN,D,N,F,13,,Chestnut Walk,,Pulborough
+2025-08-08,165000,RH20 2HT,F,N,L,6,,Barnhouse Close,,Pulborough
+2025-08-08,487500,RH20 2GN,S,N,F,8,,Drovers Lane,,Pulborough
+2025-08-08,352500,RH20 2BL,T,N,F,16A,,Lower Street,,Pulborough
+2025-08-07,588500,RH20 2JJ,D,N,F,56,,Glebelands,,Pulborough
+2025-08-07,395000,RH20 2AJ,S,N,F,20,,Rectory Close,,Pulborough
+2025-08-06,870000,RH20 2RX,D,N,F,5,,Morris Way,West Chiltington,Pulborough
+2025-08-05,155000,RH20 4FP,F,N,L,35,,Orchard Gardens,Storrington,Pulborough
+2025-08-05,1300000,RH20 2PA,D,N,F,Green Shaw,,Westward Lane,West Chiltington,Pulborough
+2025-08-04,1172000,RH20 2NY,D,N,F,Heatherland,,Sunset Lane,West Chiltington,Pulborough
+2025-08-04,560000,RH20 2LB,D,N,F,Medburn,,Orchard Dell,West Chiltington,Pulborough
+2025-08-04,350000,RH20 2BW,D,N,F,76,,Lower Street,,Pulborough
+2025-08-04,307000,RH20 2BB,F,N,L,2,,The Mews,,Pulborough
+2025-08-01,675000,RH20 2NX,D,N,F,Farthings,,Spinney Lane,West Chiltington,Pulborough
+2025-07-31,415000,RH20 4NN,S,N,F,9,,Riverside,Storrington,Pulborough
+2025-07-31,960000,RH20 2PL,D,N,F,Bukit Besi,,The Common,West Chiltington,Pulborough
+2025-07-31,640000,RH20 1JB,D,N,F,Farthings,,School Lane,Fittleworth,Pulborough
+2025-07-30,292500,RH20 4JR,T,N,F,5,,Dukes Row,Cootham,Pulborough
+2025-07-30,538500,RH20 2QE,D,N,F,1,,Larch End,West Chiltington,Pulborough
+2025-07-28,605000,RH20 1NG,D,N,F,Peartree Cottage,,River Lane,Watersfield,Pulborough
+2025-07-25,870000,RH20 2NE,D,N,F,Orme Cottage,,Nyetimber Copse,West Chiltington,Pulborough
+2025-07-25,195000,RH20 1FF,F,N,L,Arun House,1,Spiro Close,,Pulborough
+2025-07-24,765000,RH20 2NJ,D,N,F,Arborfield,,Castlegate,,Pulborough
+2025-07-21,400000,RH20 4PG,S,N,F,11,,Spierbridge Road,Storrington,Pulborough
+2025-07-21,690000,RH20 3JQ,D,N,F,1,,Cricketers Close,Ashington,Pulborough
+2025-07-18,305000,RH20 4GL,S,N,F,2,,The Glade,Storrington,Pulborough
+2025-07-18,1140000,RH20 2HY,D,N,F,Broxbury Meadow,,Broomers Hill Lane,Codmore Hill,Pulborough
+2025-07-18,860000,RH20 2AD,D,N,F,The Dell,,Rectory Lane,,Pulborough
+2025-07-17,420000,RH20 4EP,D,N,F,54,,John Ireland Way,Washington,Pulborough
+2025-07-17,565000,RH20 2JL,D,N,F,96,,Glebelands,,Pulborough
+2025-07-16,810000,RH20 2PF,D,N,F,Carousel,,Monkmead Lane,West Chiltington,Pulborough
+2025-07-15,108000,RH20 4EH,F,N,L,37,,Ravenscroft,Storrington,Pulborough
+2025-07-15,500000,RH20 2JT,S,N,F,10,,The Juggs,West Chiltington,Pulborough
+2025-07-15,695000,RH20 1PZ,D,N,F,Redhill Hollow,,Sutton Common,Sutton,Pulborough
+2025-07-14,380000,RH20 3BP,D,N,F,Sumar,,London Road,Washington,Pulborough
+2025-07-14,230000,RH20 2HT,F,N,L,9,,Barnhouse Close,,Pulborough
+2025-07-11,457500,RH20 3QX,S,N,F,17,,Chestnut Drive,Thakeham,Pulborough
+2025-07-11,635000,RH20 2LE,S,N,F,Willetts End,,Broadford Bridge Road,West Chiltington,Pulborough
+2025-07-10,530000,RH20 3DL,S,N,F,17,,Church Close,Ashington,Pulborough
+2025-07-09,514500,RH20 4BF,T,N,F,15,,Birklands,Storrington,Pulborough
+2025-07-08,340000,RH20 4LG,S,N,F,9,,Browns Lane,Storrington,Pulborough
+2025-07-08,840000,RH20 2RT,D,N,F,2,,Threals Copse,West Chiltington,Pulborough
+2025-07-07,275000,RH20 2JH,T,N,F,129,,Glebelands,,Pulborough
+2025-07-07,320000,RH20 1RJ,T,N,F,2,,Swan Corner,,Pulborough
+2025-07-07,525000,RH20 1AA,D,N,F,The Corner House,,Church Hill,,Pulborough
+2025-07-04,675000,RH20 3QD,D,N,F,30,,Warminghurst Close,Ashington,Pulborough
+2025-07-04,425000,RH20 3LN,S,N,F,9,,Alicia Avenue,Ashington,Pulborough
+2025-07-04,460000,RH20 3LB,D,N,F,11,,Hillcrest Drive,Ashington,Pulborough
+2025-07-04,407500,RH20 1FQ,T,N,F,53,,Corden Place,Codmore Hill,Pulborough
+2025-07-03,471429,RH20 3GY,D,N,F,30,,Pavilion Close,Thakeham,Pulborough
+2025-07-02,935000,RH20 2GX,D,N,F,4,,Chilton Gate,,Pulborough
+2025-07-02,320000,RH20 1HY,T,N,F,38,,Greatpin Croft,Fittleworth,Pulborough
+2025-06-30,422000,RH20 4PZ,D,N,F,8,,Kingsland Close,Storrington,Pulborough
+2025-06-30,295000,RH20 4EY,T,N,F,1,,Cassidy Place,Storrington,Pulborough
+2025-06-27,375000,RH20 4RQ,S,N,F,15,,Willow Close,Storrington,Pulborough
+2025-06-27,170000,RH20 4FN,F,N,L,Foxmead Court,23,Meadowside,Storrington,Pulborough
+2025-06-26,487500,RH20 3QP,S,N,F,45,,Thompson Drive,Storrington,Pulborough
+2025-06-26,395000,RH20 3NZ,T,N,F,6,,Jubilee Way,Storrington,Pulborough
+2025-06-25,1400000,RH20 4JQ,D,N,F,Kithurst Hill House,,Amberley Road,Storrington,Pulborough
+2025-06-24,360000,RH20 4NZ,T,N,F,22,,North Street,Storrington,Pulborough
+2025-06-24,435000,RH20 4JJ,T,N,F,The Pines,2,New Town Road,Storrington,Pulborough
+2025-06-24,385000,RH20 4EP,S,N,F,65,,John Ireland Way,Washington,Pulborough
+2025-06-24,350000,RH20 4EP,T,N,F,62,,John Ireland Way,Washington,Pulborough
+2025-06-23,420000,RH20 3RD,T,Y,F,28,,Nursery Rise,Thakeham,Pulborough
+2025-06-20,375000,RH20 3QQ,T,N,F,8,,Wallace Road,Storrington,Pulborough
+2025-06-20,280000,RH20 3EG,T,N,F,46,,Furze Common Road,Thakeham,Pulborough
+2025-06-20,820000,RH20 2NE,D,N,F,Bywood,,Nyetimber Copse,West Chiltington,Pulborough
+2025-06-18,490000,RH20 3EP,D,N,F,Barn Cottage,,The Street,Thakeham,Pulborough
+2025-06-18,170000,RH20 2LX,F,N,L,12A,,Wheelwrights,West Chiltington,Pulborough
+2025-06-16,160000,RH20 1BD,F,N,L,52,,Stane Street Close,Codmore Hill,Pulborough
+2025-06-13,415000,RH20 4PG,S,N,F,3,,Spierbridge Road,Storrington,Pulborough
+2025-06-13,315000,RH20 4JJ,S,N,F,1,,New Town Green,Storrington,Pulborough
+2025-06-13,176000,RH20 3QR,S,N,L,37,,Penn Stone Way,Thakeham,Pulborough
+2025-06-13,340000,RH20 2TB,S,N,F,9,,Cousins Way,,Pulborough
+2025-06-13,500000,RH20 2PH,S,N,F,7,,The Birches,West Chiltington,Pulborough
+2025-06-13,705000,RH20 2LP,S,N,F,Bowford Cottages,2,Billingshurst Road,Goose Green,Pulborough
+2025-06-13,599950,RH20 2JS,S,N,F,Waycross,,Juggs Lane,West Chiltington,Pulborough
+2025-06-12,1200000,RH20 2BH,D,N,F,37,,Lower Street,,Pulborough
+2025-06-09,410000,RH20 4RQ,S,N,F,1,,Willow Close,Storrington,Pulborough
+2025-06-09,312000,RH20 4NY,T,N,F,5,,Mant Close,Storrington,Pulborough
+2025-06-06,685000,RH20 4NX,D,N,F,5,,Nightingale Close,Storrington,Pulborough
+2025-06-06,421500,RH20 3RJ,S,N,F,3,,Maple Gardens,Washington,Pulborough
+2025-06-06,930000,RH20 2HE,D,N,F,Harrows,,The Street,Nutbourne,Pulborough
+2025-06-06,850000,RH20 2AF,D,N,F,Old Walls,,Old Rectory Lane,,Pulborough
+2025-06-05,540000,RH20 4QS,D,N,F,10,,Dean Way,Storrington,Pulborough
+2025-06-03,350000,RH20 1ER,S,N,F,Railway Cottages,2,Tripp Hill,Fittleworth,Pulborough
+2025-05-30,630000,RH20 3JH,D,N,F,Kuldana,,Georges Lane,Storrington,Pulborough
+2025-05-29,825000,RH20 4JJ,D,N,F,Bluemoon,,New Town Road,Storrington,Pulborough
+2025-05-28,1100000,RH20 2SE,D,N,F,1,,Heathermead,West Chiltington,Pulborough
+2025-05-27,342500,RH20 3EU,S,N,F,22,,Linfield Copse,Thakeham,Pulborough
+2025-05-23,610000,RH20 3LY,D,N,F,Willow House,,Water Lane,Storrington,Pulborough
+2025-05-23,295000,RH20 1AN,T,N,F,29,,Chestnut Walk,,Pulborough
+2025-05-22,945000,RH20 2NA,D,N,F,Heathfield House,,Nyetimber Lane,West Chiltington,Pulborough
+2025-05-16,520000,RH20 3BQ,D,N,F,Goodyers Farm,,Rock Road,Washington,Pulborough
+2025-05-16,715000,RH20 3BE,D,N,F,23,,Mill Mead,Ashington,Pulborough
+2025-05-15,650000,RH20 3QR,D,Y,F,21,,Penn Stone Way,Thakeham,Pulborough
+2025-05-15,575000,RH20 2JP,D,N,F,6,,Pond Rise,West Chiltington,Pulborough
+2025-05-14,375000,RH20 3NX,S,N,F,5,,Rother Close,Storrington,Pulborough
+2025-05-14,1135000,RH20 2RF,D,N,F,2,,Grange Park,West Chiltington,Pulborough
+2025-05-13,1015000,RH20 2JQ,D,N,F,La Taniere,,Foxfields,West Chiltington,Pulborough
+2025-05-13,215000,RH20 1HZ,F,N,L,56,,Greatpin Croft,Fittleworth,Pulborough
+2025-05-12,240000,RH20 3JZ,T,N,F,22,,Fairfield Road,Ashington,Pulborough
+2025-05-09,380000,RH20 3JZ,S,N,F,14,,Fairfield Road,Ashington,Pulborough
+2025-05-09,500000,RH20 3GL,D,N,F,18,,Blakiston Close,Ashington,Pulborough
+2025-05-08,985000,RH20 4JQ,D,N,F,Sandown,,Amberley Road,Storrington,Pulborough
+2025-05-02,590000,RH20 3FU,D,N,F,1,,Swan Close,Ashington,Pulborough
+2025-04-30,405000,RH20 4NL,D,N,F,30,,Hawthorn Way,Storrington,Pulborough
+2025-04-30,1890000,RH20 4HE,D,N,F,Old Greyfriars,3,Greyfriars Lane,Storrington,Pulborough
+2025-04-30,750000,RH20 4AS,D,N,F,St Marys Gate,,The Street,Washington,Pulborough
+2025-04-30,350000,RH20 3NY,T,N,F,5,,Rainbow Way,Storrington,Pulborough
+2025-04-24,900000,RH20 3ET,D,N,F,Woodlands,,Badgers Holt,Storrington,Pulborough
+2025-04-23,1150000,RH20 2ND,D,N,F,Nyetimber House,,Nyetimber Lane,West Chiltington,Pulborough
+2025-04-17,710000,RH20 4HG,D,N,F,West Fryern Lodge,,Hurston Lane,Storrington,Pulborough
+2025-04-17,450000,RH20 3RF,S,Y,F,19,,Springett Close,Thakeham,Pulborough
+2025-04-17,820000,RH20 1DN,D,N,F,The Barn,,Stane Street,North Heath,Pulborough
+2025-04-16,300000,RH20 4JJ,S,N,F,2,,New Town Green,Storrington,Pulborough
+2025-04-14,625000,RH20 2PR,D,N,F,Bargate,,West Chiltington Road,,Pulborough
+2025-04-07,300000,RH20 2AS,T,N,F,21,,Spinney North,,Pulborough
+2025-04-04,510000,RH20 4HB,T,N,F,50,,Windmill Copse,Storrington,Pulborough
+2025-04-04,1010000,RH20 2HW,D,N,F,Bassett House,,Gay Street Lane,North Heath,Pulborough
+2025-03-31,575000,RH20 4QS,D,N,F,118,,Dean Way,Storrington,Pulborough
+2025-03-31,530000,RH20 4PU,D,N,F,22,,Bannister Gardens,Storrington,Pulborough
+2025-03-31,405000,RH20 4JJ,S,N,F,3,,New Town Green,Storrington,Pulborough
+2025-03-31,495000,RH20 3BX,D,N,F,Triangles,,Mill Lane,Ashington,Pulborough
+2025-03-31,315000,RH20 2LX,D,N,F,4,,Wheelwrights,West Chiltington,Pulborough
+2025-03-30,345000,RH20 1FW,T,N,F,5,,Sinclair Drive,Codmore Hill,Pulborough
+2025-03-28,542500,RH20 4PU,D,N,F,5,,Bannister Gardens,Storrington,Pulborough
+2025-03-28,435000,RH20 3EG,T,N,F,24,,Furze Common Road,Thakeham,Pulborough
+2025-03-28,875000,RH20 2NA,D,N,F,Lindenwood,,Nyetimber Lane,West Chiltington,Pulborough
+2025-03-28,240000,RH20 2BE,F,N,L,Belgrave Court,Flat 3,Skeyne Drive,,Pulborough
+2025-03-28,605000,RH20 1NR,D,N,F,Hillside Cottage,,Bury Common,Bury,Pulborough
+2025-03-28,411000,RH20 1FL,T,N,F,4,,Harwood Close,Codmore Hill,Pulborough
+2025-03-28,380000,RH20 1FJ,D,N,F,15,,Riverside,Codmore Hill,Pulborough
+2025-03-28,665000,RH20 1BQ,D,N,F,Hill House,,Stane Street,Codmore Hill,Pulborough
+2025-03-27,215000,RH20 4NU,F,N,L,Berkeley Lodge,Flat 4,Nightingale Lane,Storrington,Pulborough
+2025-03-27,282500,RH20 4GW,F,N,L,6,,Holm Oak,Storrington,Pulborough
+2025-03-27,350000,RH20 4EH,T,N,F,19,,Ravenscroft,Storrington,Pulborough
+2025-03-27,480000,RH20 3LS,S,N,F,34,,Pulla Hill Drive,Storrington,Pulborough
+2025-03-27,840000,RH20 3JQ,D,N,F,18,,Cricketers Close,Ashington,Pulborough
+2025-03-27,695000,RH20 3JD,D,N,F,Oakwood Cottage,,Sanctuary Lane,Storrington,Pulborough
+2025-03-27,665000,RH20 3BH,S,N,F,Jenners Field,2,Rock Road,Washington,Pulborough
+2025-03-27,870000,RH20 2RP,D,N,F,2,,Willow Close,West Chiltington,Pulborough
+2025-03-27,790000,RH20 2QR,D,N,F,Careys,,Haglands Lane,West Chiltington,Pulborough
+2025-03-27,945000,RH20 2NU,D,N,F,Greylands,,Birch Grove,West Chiltington,Pulborough
+2025-03-27,1860000,RH20 2LJ,D,N,F,Apsley Farm,Pond House,Coolham Road,West Chiltington,Pulborough
+2025-03-27,452500,RH20 2JT,S,N,F,2,,The Juggs,West Chiltington,Pulborough
+2025-03-27,410000,RH20 2JJ,D,N,F,50,,Glebelands,,Pulborough
+2025-03-27,465000,RH20 1LP,D,N,F,14,,Arun Vale,Coldwaltham,Pulborough
+2025-03-27,383000,RH20 1FJ,D,N,F,21,,Riverside,Codmore Hill,Pulborough
+2025-03-26,322000,RH20 4JW,T,N,F,9,,Cootham Green,Cootham,Pulborough
+2025-03-26,825000,RH20 3PE,D,N,F,Silver Birches,,Birch Way,Storrington,Pulborough
+2025-03-26,235428,RH20 3JB,D,N,F,Pinelea,,Hampers Lane,Storrington,Pulborough
+2025-03-26,508000,RH20 3HD,D,N,F,Merrywood Lodge,,Merrywood Lane,Thakeham,Pulborough
+2025-03-26,850000,RH20 2RU,D,N,F,8,,Harborough Gorse,West Chiltington,Pulborough
+2025-03-26,1150000,RH20 2NQ,D,N,F,Lantanna,,Silverwood Copse,West Chiltington,Pulborough
+2025-03-26,430000,RH20 2NL,S,N,F,Bets-Y-Coed,,Common Hill,West Chiltington,Pulborough
+2025-03-26,893000,RH20 2HW,D,N,F,Hare Field House,,Gay Street Lane,North Heath,Pulborough
+2025-03-25,295000,RH20 4QB,T,N,F,14,,Steyning Crescent,Storrington,Pulborough
+2025-03-25,795000,RH20 4HH,D,N,F,Cedar Cottage,,Hurston Lane,Storrington,Pulborough
+2025-03-25,675000,RH20 3PP,D,N,F,Westholm,,Thakeham Road,Storrington,Pulborough
+2025-03-24,330000,RH20 4EZ,T,N,F,4,,Post View,Storrington,Pulborough
+2025-03-24,332000,RH20 4EZ,T,N,F,32,,Post View,Storrington,Pulborough
+2025-03-24,550000,RH20 3EF,D,N,F,Hickory,,Storrington Road,Thakeham,Pulborough
+2025-03-21,717000,RH20 2PW,D,N,F,Fullarton,,Harborough Hill,,Pulborough
+2025-03-21,190000,RH20 1FL,F,N,L,11,,Harwood Close,Codmore Hill,Pulborough
+2025-03-20,570000,RH20 4FP,T,N,L,24,,Orchard Gardens,Storrington,Pulborough
+2025-03-20,800000,RH20 4DE,D,N,F,Colwyn,,Washington Road,Storrington,Pulborough
+2025-03-20,425000,RH20 3NZ,D,N,F,7,,Jubilee Way,Storrington,Pulborough
+2025-03-20,300000,RH20 3NL,S,N,F,20,,The Green,Storrington,Pulborough
+2025-03-20,762500,RH20 2PR,D,N,F,Hulls Cottages,2,West Chiltington Road,,Pulborough
+2025-03-20,865000,RH20 2NE,D,N,F,Langsett,,Nyetimber Copse,West Chiltington,Pulborough
+2025-03-20,345000,RH20 1FW,T,N,F,5,,Sinclair Drive,Codmore Hill,Pulborough
+2025-03-19,375000,RH20 1FJ,T,N,F,66,,Riverside,Codmore Hill,Pulborough
+2025-03-18,855000,RH20 3QR,D,N,F,13,,Penn Stone Way,Thakeham,Pulborough
+2025-03-18,275000,RH20 1FX,F,N,L,38,,Sinclair Drive,Codmore Hill,Pulborough
+2025-03-17,330000,RH20 4JJ,S,N,F,New Town Cottages,6,New Town Road,Storrington,Pulborough
+2025-03-14,390000,RH20 4QU,D,N,F,18,,Crowhurst Crescent,Storrington,Pulborough
+2025-03-14,351500,RH20 4JJ,S,N,F,New Town Cottages,4,New Town Road,Storrington,Pulborough
+2025-03-14,468000,RH20 4GL,D,N,F,4,,The Glade,Storrington,Pulborough
+2025-03-14,257500,RH20 3RD,F,N,L,2,,Nursery Rise,Thakeham,Pulborough
+2025-03-14,352000,RH20 3BS,T,N,F,12,,Spring Gardens,Washington,Pulborough
+2025-03-14,937000,RH20 1PA,D,N,F,Street Cottage,,The Street,Bury,Pulborough
+2025-03-13,590000,RH20 4AP,D,N,F,Westbank,,School Lane,Washington,Pulborough
+2025-03-13,657500,RH20 3PN,D,N,F,"Feniton, 4",,Bunbury Close,Storrington,Pulborough
+2025-03-13,575000,RH20 3DL,S,N,F,18,,Church Close,Ashington,Pulborough
+2025-03-11,565000,RH20 2PL,D,N,F,Cloverly,,The Common,West Chiltington,Pulborough
+2025-03-10,375000,RH20 3LN,S,N,F,1,,Alicia Avenue,Ashington,Pulborough
+2025-03-10,1185000,RH20 3EP,D,N,F,The Rectory,,The Street,Thakeham,Pulborough
+2025-03-06,772500,RH20 3QB,D,N,F,19,,Meiros Way,Ashington,Pulborough
+2025-03-05,1295000,RH20 2PF,D,N,F,Tarent House,,Monkmead Lane,West Chiltington,Pulborough
+2025-03-05,1050000,RH20 2EW,D,N,F,Waterfall Cottage,,Hurston Lane,Storrington,Pulborough
+2025-03-05,244000,RH20 2DD,F,N,L,Arun Court,5,Lower Street,,Pulborough
+2025-03-04,560000,RH20 3GN,D,N,F,7,,Lamorna Close,Washington,Pulborough
+2025-02-28,825000,RH20 3RF,D,Y,F,29,,Springett Close,Thakeham,Pulborough
+2025-02-28,400000,RH20 3QP,T,N,F,3,,Thompson Drive,Storrington,Pulborough
+2025-02-28,500000,RH20 3PU,D,N,F,11,,Sanders Gate,Storrington,Pulborough
+2025-02-28,575000,RH20 1FX,D,N,F,6,,Sinclair Drive,Codmore Hill,Pulborough
+2025-02-28,511000,RH20 1FW,S,N,F,21,,Sinclair Drive,Codmore Hill,Pulborough
+2025-02-28,195000,RH20 1FE,F,N,L,Wey House,23,Spiro Close,,Pulborough
+2025-02-28,260000,RH20 1BG,D,N,F,Willow Barn,,Stane Street,Codmore Hill,Pulborough
+2025-02-27,327500,RH20 4PD,T,N,F,3,,Holly Close,Storrington,Pulborough
+2025-02-26,535000,RH20 4AP,D,N,F,Long Island,,School Lane,Washington,Pulborough
+2025-02-21,805000,RH20 4EP,D,N,F,18,,John Ireland Way,Washington,Pulborough
+2025-02-21,680000,RH20 2JP,D,N,F,8,,Pond Rise,West Chiltington,Pulborough
+2025-02-21,365000,RH20 1DU,T,N,F,16,,Spiro Close,,Pulborough
+2025-02-14,262000,RH20 4JW,T,N,F,14,,Cootham Green,Cootham,Pulborough
+2025-02-14,375000,RH20 4EZ,T,N,F,10,,Post View,Storrington,Pulborough
+2025-02-14,780000,RH20 3PA,D,N,F,Cobwebs,,Chestnut Close,Storrington,Pulborough
+2025-02-14,470000,RH20 3LS,S,N,F,11,,Pulla Hill Drive,Storrington,Pulborough
+2025-02-14,395000,RH20 3LA,S,N,F,15,,Fairfield Way,Ashington,Pulborough
+2025-02-14,470000,RH20 3HN,D,N,F,5,,Palmer Close,Storrington,Pulborough
+2025-02-14,352500,RH20 2GP,T,N,F,4,,Wildbrooks Close,,Pulborough
+2025-02-14,370000,RH20 1HX,S,N,F,27,,Greatpin Croft,Fittleworth,Pulborough
+2025-02-14,220000,RH20 1FE,F,N,L,Wey House,2,Spiro Close,,Pulborough
+2025-02-13,587000,RH20 4PY,D,N,F,18,,Greenfield Way,Storrington,Pulborough
+2025-02-13,520000,RH20 4PY,D,N,F,13,,Greenfield Way,Storrington,Pulborough
+2025-02-13,470000,RH20 3GU,T,N,F,6,,Watermeadow Lane,Storrington,Pulborough
+2025-02-13,390000,RH20 2DB,S,N,F,25,,Little Dippers,,Pulborough
+2025-02-12,250000,RH20 2AJ,S,N,F,5,,Rectory Close,,Pulborough
+2025-02-10,460000,RH20 2JB,D,N,F,10,,New Place Road,,Pulborough
+2025-02-07,450000,RH20 2QB,D,N,F,31,,Martlets,West Chiltington,Pulborough
+2025-02-06,940000,RH20 2NE,D,N,F,Lodwick,,Nyetimber Copse,West Chiltington,Pulborough
+2025-02-03,770000,RH20 4LW,D,N,F,Birch Corner,,Fern Road,Storrington,Pulborough
+2025-02-03,310000,RH20 2AT,T,N,F,68,,Spinney North,,Pulborough
+2025-02-03,285000,RH20 1BD,T,N,F,40,,Stane Street Close,Codmore Hill,Pulborough
+2025-01-31,345000,RH20 3LB,S,N,F,7,,Hillcrest Drive,Ashington,Pulborough
+2025-01-27,435000,RH20 4AP,T,N,F,Hillview,,School Lane,Washington,Pulborough
+2025-01-27,615000,RH20 3EU,D,N,F,63,,Linfield Copse,Thakeham,Pulborough
+2025-01-24,515000,RH20 4QU,D,N,F,2,,Crowhurst Crescent,Storrington,Pulborough
+2025-01-24,205000,RH20 4LH,F,N,L,3,,Manor Court,Storrington,Pulborough
+2025-01-24,409000,RH20 3RD,T,Y,F,34,,Nursery Rise,Thakeham,Pulborough
+2025-01-24,700000,RH20 2RL,D,N,F,Owl End,,Roundabout Lane,West Chiltington,Pulborough
+2025-01-24,475000,RH20 2BF,T,N,F,34,,Swan View,,Pulborough
+2025-01-24,450000,RH20 1AX,T,N,F,5,,Waters Edge,,Pulborough
+2025-01-23,1100000,RH20 3PJ,D,N,F,Wantley Corner,,Mead Lane,Storrington,Pulborough
+2025-01-23,1090000,RH20 3GY,D,N,F,22,,Pavilion Close,Thakeham,Pulborough
+2025-01-23,360000,RH20 2JD,T,N,F,3,,New Place Road,,Pulborough
+2025-01-22,458000,RH20 4BS,D,N,F,1,,Byne Close,Storrington,Pulborough
+2025-01-21,335000,RH20 4DF,T,N,F,20,,Swan Close,Storrington,Pulborough
+2025-01-17,757500,RH20 1BJ,D,N,F,The White House,,Hill Farm Lane,Codmore Hill,Pulborough
+2025-01-15,599950,RH20 3QG,D,N,F,4,,Turnpike Way,Ashington,Pulborough
+2025-01-14,730000,RH20 4EP,D,N,F,16,,John Ireland Way,Washington,Pulborough
+2025-01-14,770000,RH20 1DZ,D,N,F,1,,Masons Way,Codmore Hill,Pulborough
+2025-01-10,1185000,RH20 2NL,D,N,F,Highclere,,Common Hill,West Chiltington,Pulborough
+2025-01-10,1900000,RH20 1EW,D,N,F,Holly Grove,,Hesworth Common,Fittleworth,Pulborough
+2025-01-10,320000,RH20 1DT,F,N,L,The Bell House,2,London Road,,Pulborough
+2025-01-10,455000,RH20 1AX,T,N,F,6,,Waters Edge,,Pulborough
+2025-01-09,215000,RH20 2HT,F,N,L,17,,Barnhouse Close,,Pulborough
+2025-01-03,325000,RH20 4PD,T,N,F,5,,Holly Close,Storrington,Pulborough
+2024-12-19,200000,RH20 4LA,F,N,L,19,,Church Street,Storrington,Pulborough
+2024-12-19,762500,RH20 2EF,D,N,F,Rozelle,,Tudor Close,,Pulborough
+2024-12-18,810000,RH20 2NE,D,N,F,Tawny Cottage,,Nyetimber Copse,West Chiltington,Pulborough
+2024-12-18,1535000,RH20 2HS,D,N,F,Upper Nash House,,Nutbourne Lane,Nutbourne,Pulborough
+2024-12-18,540000,RH20 1JD,D,N,F,15,,School Close,Fittleworth,Pulborough
+2024-12-18,422500,RH20 1DU,T,N,F,6,,Spiro Close,,Pulborough
+2024-12-17,770000,RH20 3RF,D,Y,F,1,,Springett Close,Thakeham,Pulborough
+2024-12-16,610000,RH20 4PL,D,N,F,4,,Garden Close,Storrington,Pulborough
+2024-12-16,535000,RH20 3JY,S,N,F,Ashleigh,,Church Lane,Ashington,Pulborough
+2024-12-16,650000,RH20 3AE,D,N,F,Titchmarsh,,Rock Road,Storrington,Pulborough
+2024-12-16,790000,RH20 2ED,D,N,F,Charters House,,Batts Lane,,Pulborough
+2024-12-16,982500,RH20 1JF,D,N,F,St Mary's,,,Fittleworth,Pulborough
+2024-12-16,205000,RH20 1FL,F,N,L,20,,Harwood Close,Codmore Hill,Pulborough
+2024-12-13,595000,RH20 2QU,S,N,F,Bay Tree,,Lordings Lane,West Chiltington,Pulborough
+2024-12-13,675000,RH20 2LB,D,N,F,Chalford,,Orchard Dell,West Chiltington,Pulborough
+2024-12-12,360000,RH20 4DN,T,N,F,"Mill View Cottage, 8",,Brewers Yard,Storrington,Pulborough
+2024-12-12,676000,RH20 3QR,D,Y,F,19,,Penn Stone Way,Thakeham,Pulborough
+2024-12-12,282000,RH20 3NJ,T,N,F,29,,Sullington Copse,Storrington,Pulborough
+2024-12-12,622500,RH20 1AF,D,N,F,Charnwood,,Church Place,,Pulborough
+2024-12-11,362000,RH20 4PG,S,N,F,7,,Spierbridge Road,Storrington,Pulborough
+2024-12-10,415000,RH20 4QN,S,N,F,41,,Dean Way,Storrington,Pulborough
+2024-12-06,164000,RH20 4DQ,F,N,L,21,,White Horse Court,Storrington,Pulborough
+2024-12-06,372500,RH20 3ES,S,N,F,7,,Hardbarrow Woods,Thakeham,Pulborough
+2024-12-06,875000,RH20 1BW,D,N,F,Highview,,Hill Farm Lane,Codmore Hill,Pulborough
+2024-12-05,520000,RH20 3QX,D,N,F,2,,Chestnut Drive,Thakeham,Pulborough
+2024-12-05,730000,RH20 3JH,D,N,F,Coppers,,Georges Lane,Storrington,Pulborough
+2024-12-05,260000,RH20 1RJ,F,N,L,15,,Swan Corner,,Pulborough
+2024-11-29,172000,RH20 4PE,F,N,L,20,,Holly Court,Storrington,Pulborough
+2024-11-29,410000,RH20 3RF,S,Y,F,17,,Springett Close,Thakeham,Pulborough
+2024-11-29,365000,RH20 3RD,T,Y,F,22,,Nursery Rise,Thakeham,Pulborough
+2024-11-29,982000,RH20 3EP,D,N,F,The Roses,,The Street,Thakeham,Pulborough
+2024-11-29,343000,RH20 3BX,T,N,F,5,,Mill Lane,Ashington,Pulborough
+2024-11-29,570000,RH20 3BE,D,N,F,25,,Mill Mead,Ashington,Pulborough
+2024-11-29,350000,RH20 1DN,D,N,F,Fairview,,Stane Street,North Heath,Pulborough
+2024-11-28,215000,RH20 4FN,F,N,L,Foxmead Court,16,Meadowside,Storrington,Pulborough
+2024-11-28,215000,RH20 1HZ,F,N,L,55,,Greatpin Croft,Fittleworth,Pulborough
+2024-11-28,352000,RH20 1DU,T,N,F,5,,Spiro Close,,Pulborough
+2024-11-27,330000,RH20 3NZ,S,N,F,20,,Jubilee Way,Storrington,Pulborough
+2024-11-27,515000,RH20 1BJ,S,N,F,Holly Cottage,,Hill Farm Lane,Codmore Hill,Pulborough
+2024-11-26,349000,RH20 3NF,T,N,F,22,,Timberlands,Storrington,Pulborough
+2024-11-26,400000,RH20 1LP,D,N,F,24,,Arun Vale,Coldwaltham,Pulborough
+2024-11-22,393950,RH20 4JP,S,N,F,5,,Cootham Brow,Storrington,Pulborough
+2024-11-22,950000,RH20 4JN,D,N,F,Oaklands Paddock,,Pulborough Road,Cootham,Pulborough
+2024-11-22,340000,RH20 4JE,S,N,F,14,,Amberley Road,Storrington,Pulborough
+2024-11-22,1110000,RH20 3QS,D,N,F,5,,Strawberry Close,Thakeham,Pulborough
+2024-11-22,1175000,RH20 3JB,D,N,F,Longbury End,,Hampers Lane,Storrington,Pulborough
+2024-11-22,1060000,RH20 2NQ,D,N,F,Woodfold Barn,,Silverwood Copse,West Chiltington,Pulborough
+2024-11-22,960000,RH20 2DR,D,N,F,Downs View,,Old Mill Place,,Pulborough
+2024-11-21,860000,RH20 3ET,D,N,F,Lynwood,,Badgers Holt,Storrington,Pulborough
+2024-11-21,330000,RH20 1RH,T,N,F,4,,The Willows,,Pulborough
+2024-11-21,480000,RH20 1NQ,D,N,F,Watersfield Chapel,,London Road,Watersfield,Pulborough
+2024-11-20,358000,RH20 3NS,S,N,F,24,,Southdown Way,Storrington,Pulborough
+2024-11-20,395000,RH20 3GU,T,N,F,5,,Watermeadow Lane,Storrington,Pulborough
+2024-11-20,468000,RH20 2JJ,D,N,F,92,,Glebelands,,Pulborough
+2024-11-19,652000,RH20 3RF,D,Y,F,31,,Springett Close,Thakeham,Pulborough
+2024-11-19,655000,RH20 2QB,D,N,F,47,,Martlets,West Chiltington,Pulborough
+2024-11-12,738000,RH20 4AU,D,N,F,7,,Stocks Mead,Washington,Pulborough
+2024-11-09,175000,RH20 4FP,F,N,L,34,,Orchard Gardens,Storrington,Pulborough
+2024-11-08,415000,RH20 4LR,S,N,F,The Cobbles,,Monastery Lane,Storrington,Pulborough
+2024-11-08,305000,RH20 3PB,S,N,F,1,,Banks Croft,Storrington,Pulborough
+2024-11-08,1150000,RH20 2NL,D,N,F,Manderley,,Common Hill,West Chiltington,Pulborough
+2024-11-05,744300,RH20 1LS,D,N,F,White Cottage,,Brook Lane,Coldwaltham,Pulborough
+2024-11-04,340000,RH20 1FL,D,N,F,7,,Harwood Close,Codmore Hill,Pulborough
+2024-11-01,300000,RH20 1LU,S,N,F,23,,Brookview,Coldwaltham,Pulborough
+2024-10-31,380000,RH20 4QU,T,N,F,87,,Crowhurst Crescent,Storrington,Pulborough
+2024-10-31,475000,RH20 4JT,S,N,F,Winbury,,Pulborough Road,Cootham,Pulborough
+2024-10-31,637500,RH20 4EP,D,N,F,46,,John Ireland Way,Washington,Pulborough
+2024-10-31,355000,RH20 4DF,S,N,F,5,,Swan Close,Storrington,Pulborough
+2024-10-31,327000,RH20 3QQ,T,N,F,10,,Wallace Road,Storrington,Pulborough
+2024-10-31,877500,RH20 3JH,D,N,F,Woodside,,Georges Lane,Storrington,Pulborough
+2024-10-31,177500,RH20 2AT,F,N,L,4,,Spinney North,,Pulborough
+2024-10-31,635000,RH20 1LP,D,N,F,"Talavera, 39",,Arun Vale,Coldwaltham,Pulborough
+2024-10-30,600000,RH20 3QR,D,Y,F,39,,Penn Stone Way,Thakeham,Pulborough
+2024-10-30,1500000,RH20 3EE,D,N,F,Greenacre,,Storrington Road,Thakeham,Pulborough
+2024-10-30,795000,RH20 1DZ,D,N,F,16,,Masons Way,Codmore Hill,Pulborough
+2024-10-28,900000,RH20 2RW,D,N,F,Morningside,,Harborough Meadow,West Chiltington,Pulborough
+2024-10-28,600000,RH20 1LJ,S,N,F,4,,Silverdale,Coldwaltham,Pulborough
+2024-10-28,590000,RH20 1FJ,D,N,F,7,,Riverside,Codmore Hill,Pulborough
+2024-10-28,851000,RH20 1DR,D,N,F,Spring Mount,,Stopham Road,,Pulborough
+2024-10-25,467000,RH20 4QS,D,N,F,8,,Dean Way,Storrington,Pulborough
+2024-10-25,720000,RH20 3RF,D,Y,F,10,,Springett Close,Thakeham,Pulborough
+2024-10-25,465000,RH20 1JA,S,N,F,11,,Churchfield,Fittleworth,Pulborough
+2024-10-24,825000,RH20 4EP,D,N,F,53,,John Ireland Way,Washington,Pulborough
+2024-10-18,545000,RH20 4QW,D,N,F,71,,Hormare Crescent,Storrington,Pulborough
+2024-10-18,480000,RH20 4QL,D,N,F,7,,Rapley Avenue,Storrington,Pulborough
+2024-10-18,320000,RH20 2EX,S,N,F,12,,Rackham Street,Rackham,Pulborough
+2024-10-18,630000,RH20 1LG,D,N,F,Lilac Cottage,,London Road,Coldwaltham,Pulborough
+2024-10-18,675000,RH20 1LF,D,N,F,Willow Brook,,Old London Road,Coldwaltham,Pulborough
+2024-10-16,675000,RH20 2NB,D,N,F,Foxghyll,,Heathfield Copse,West Chiltington,Pulborough
+2024-10-16,825000,RH20 2EE,D,N,F,Pinewood,,West Chiltington Road,,Pulborough
+2024-10-14,675000,RH20 4NX,D,N,F,2,,Nightingale Close,Storrington,Pulborough
+2024-10-14,780000,RH20 2JW,D,N,F,Kirklea,,Church Street,West Chiltington,Pulborough
+2024-10-10,777000,RH20 1BG,D,N,F,Summit House,,Stane Street,Codmore Hill,Pulborough
+2024-10-09,1300000,RH20 2NL,D,N,F,Gorselands,,Common Hill,West Chiltington,Pulborough
+2024-10-08,974000,RH20 4LP,D,N,F,High Pines,,Kithurst Lane,Storrington,Pulborough
+2024-10-08,494000,RH20 3QX,S,N,F,19,,Chestnut Drive,Thakeham,Pulborough
+2024-10-08,955000,RH20 2RF,D,N,F,Pipers Cottage,,Threals Lane,West Chiltington,Pulborough
+2024-10-08,390000,RH20 2JD,T,N,F,5,,New Place Road,,Pulborough
+2024-10-07,185000,RH20 4FN,F,N,L,Foxmead Court,20,Meadowside,Storrington,Pulborough
+2024-10-03,550000,RH20 4QJ,D,N,F,2,,Tansy Mead,Storrington,Pulborough
+2024-10-03,515000,RH20 4JJ,T,N,F,The Pines,1,New Town Road,Storrington,Pulborough
+2024-10-03,1025000,RH20 2HR,D,N,F,Laurel Cottage,,Stall House Lane,North Heath,Pulborough
+2024-10-03,275000,RH20 2BL,S,N,F,22,,Lower Street,,Pulborough
+2024-10-01,332500,RH20 4EH,T,N,F,33,,Ravenscroft,Storrington,Pulborough
+2024-10-01,450000,RH20 3JA,S,N,F,4,,Ashdene Gardens,Ashington,Pulborough
+2024-10-01,960000,RH20 2NJ,D,N,F,Kelmaine,,Castlegate,,Pulborough
+2024-09-30,472500,RH20 4QL,D,N,F,1,,Rapley Avenue,Storrington,Pulborough
+2024-09-30,375000,RH20 3NX,S,N,F,5,,Rother Close,Storrington,Pulborough
+2024-09-27,375000,RH20 3GT,S,N,L,38,,Leatherbottle Way,Storrington,Pulborough
+2024-09-27,357500,RH20 1FW,D,N,F,17,,Sinclair Drive,Codmore Hill,Pulborough
+2024-09-26,415000,RH20 3RJ,S,N,F,2,,Maple Gardens,Washington,Pulborough
+2024-09-26,1175000,RH20 3JF,D,N,F,Little Warren,,Veras Walk,Storrington,Pulborough
+2024-09-26,850000,RH20 2RW,D,N,F,Hillcote,,Harborough Meadow,West Chiltington,Pulborough
+2024-09-26,580000,RH20 2AD,D,N,F,Andrews,,Rectory Lane,,Pulborough
+2024-09-26,765000,RH20 1FU,D,N,F,4,,Corden Place,Codmore Hill,Pulborough
+2024-09-25,402000,RH20 2DQ,D,N,F,19,,Downlands,,Pulborough
+2024-09-23,1150000,RH20 2NL,D,N,F,Witan House,,Common Hill,West Chiltington,Pulborough
+2024-09-20,325000,RH20 3LB,S,N,F,13,,Hillcrest Drive,Ashington,Pulborough
+2024-09-20,160000,RH20 2AZ,F,N,L,65,Flat 5,Lower Street,,Pulborough
+2024-09-20,1250000,RH20 1ER,D,N,F,The Barn House,,Tripp Hill,Fittleworth,Pulborough
+2024-09-19,1015000,RH20 2HZ,D,N,F,Holly Tree House,,Broomers Hill Lane,,Pulborough
+2024-09-19,890000,RH20 1ET,D,N,F,The Old School House,,Coates,Fittleworth,Pulborough
+2024-09-17,810000,RH20 4GZ,D,N,F,6,,Bax Close,Storrington,Pulborough
+2024-09-17,755000,RH20 2QW,D,N,F,6,,Haglands Copse,West Chiltington,Pulborough
+2024-09-17,342322,RH20 2PN,D,N,F,Grey Tibbar,,Harborough Drive,,Pulborough
+2024-09-17,405000,RH20 1JZ,T,N,F,5,,The Old School,Fittleworth,Pulborough
+2024-09-13,385000,RH20 4NL,T,N,F,16,,Hawthorn Way,Storrington,Pulborough
+2024-09-12,570000,RH20 3RF,D,Y,F,16,,Springett Close,Thakeham,Pulborough
+2024-09-12,510000,RH20 3PU,D,N,F,3,,Sanders Gate,Storrington,Pulborough
+2024-09-12,613000,RH20 2QD,D,N,F,2,,The Martlets,West Chiltington,Pulborough
+2024-09-09,1400000,RH20 2NH,D,N,F,Brookwood,,Monkmead Lane,West Chiltington,Pulborough
+2024-09-06,610000,RH20 4PL,D,N,F,1,,Garden Close,Storrington,Pulborough
+2024-09-06,1100000,RH20 2NJ,D,N,F,Beechmore,,Castlegate,,Pulborough
+2024-09-03,775000,RH20 2HE,D,N,F,Oakdene House,,The Street,Nutbourne,Pulborough
+2024-09-02,330000,RH20 4QZ,T,N,F,5,,Reed Close,Storrington,Pulborough
+2024-09-02,315000,RH20 4QZ,T,N,F,10,,Reed Close,Storrington,Pulborough
+2024-09-02,715000,RH20 3EF,S,N,F,Greenways,,Storrington Road,Thakeham,Pulborough
+2024-08-30,570000,RH20 3RF,D,Y,F,20,,Springett Close,Thakeham,Pulborough
+2024-08-30,975000,RH20 3NE,D,N,F,4,,Heatherlands,Storrington,Pulborough
+2024-08-29,900000,RH20 4JQ,D,N,F,High Pines,,Amberley Road,Storrington,Pulborough
+2024-08-28,840000,RH20 2GN,D,N,F,3,,Drovers Lane,,Pulborough
+2024-08-28,616000,RH20 2DZ,D,N,F,Hillside,,Batts Lane,,Pulborough
+2024-08-28,635000,RH20 1JD,T,N,F,Birch Court,9,School Close,Fittleworth,Pulborough
+2024-08-28,425000,RH20 1HT,D,N,F,10,,The Gardens,Fittleworth,Pulborough
+2024-08-27,580000,RH20 3EU,D,N,F,3,,Linfield Copse,Thakeham,Pulborough
+2024-08-23,500000,RH20 4PU,D,N,F,18,,Bannister Gardens,Storrington,Pulborough
+2024-08-23,365000,RH20 3QP,T,N,F,33,,Thompson Drive,Storrington,Pulborough
+2024-08-23,1550000,RH20 1EZ,D,N,F,Eedes Cottage,,Burygate,Bury,Pulborough
+2024-08-22,650000,RH20 4JX,D,N,F,Rising Sun Cottage,,Chapel Lane,Cootham,Pulborough
+2024-08-22,570000,RH20 3RF,D,Y,F,18,,Springett Close,Thakeham,Pulborough
+2024-08-22,755000,RH20 3JE,D,N,F,Imp Cottage,,Sanctuary Lane,Storrington,Pulborough
+2024-08-22,1625000,RH20 3HZ,D,N,F,Hemmingways,,Hampers Lane,Storrington,Pulborough
+2024-08-19,575000,RH20 3JQ,D,N,F,31,,Cricketers Close,Ashington,Pulborough
+2024-08-19,910000,RH20 2ED,D,N,F,Ponders,,Batts Lane,,Pulborough
+2024-08-16,217700,RH20 4PE,F,N,L,13,,Holly Court,Storrington,Pulborough
+2024-08-16,850000,RH20 3RF,D,Y,F,2,,Springett Close,Thakeham,Pulborough
+2024-08-16,405000,RH20 2TA,S,N,F,9,,Orchard Way,,Pulborough
+2024-08-15,790000,RH20 3GU,D,N,F,17,,Watermeadow Lane,Storrington,Pulborough
+2024-08-15,1750000,RH20 1PS,D,N,F,Browns House,,The Street,Sutton,Pulborough
+2024-08-13,450000,RH20 1BS,S,N,F,Pandora Cottage,,Coombelands Lane,,Pulborough
+2024-08-12,195000,RH20 3DD,F,N,L,Clearview House,Flat 1,London Road,Ashington,Pulborough
+2024-08-12,255000,RH20 2RX,F,N,L,23,,Morris Way,West Chiltington,Pulborough
+2024-08-09,675000,RH20 4NE,D,N,F,Windwhistle,,Fryern Road,Storrington,Pulborough
+2024-08-09,805000,RH20 4JF,D,N,F,7,,Plantation Way,Storrington,Pulborough
+2024-08-09,725000,RH20 2PN,D,N,F,Woodland,,Harborough Drive,,Pulborough
+2024-08-09,330000,RH20 2DB,D,N,F,4,,Little Dippers,,Pulborough
+2024-08-09,730000,RH20 1EN,D,N,F,Hazels,,Lower Street,Fittleworth,Pulborough
+2024-08-08,215000,RH20 4FJ,F,N,L,1,,Strome Park,Storrington,Pulborough
+2024-08-08,877150,RH20 3RF,D,Y,F,4,,Springett Close,Thakeham,Pulborough
+2024-08-08,305000,RH20 2RX,F,N,L,22,,Morris Way,West Chiltington,Pulborough
+2024-08-07,1275000,RH20 3JH,D,N,F,Saphira,,Georges Lane,Storrington,Pulborough
+2024-08-07,600000,RH20 2LA,D,N,F,Palmers Lodge,,Broadford Bridge Road,West Chiltington,Pulborough
+2024-08-06,675000,RH20 3QR,D,Y,F,31,,Penn Stone Way,Thakeham,Pulborough
+2024-08-05,500000,RH20 4NW,D,N,F,2,,Stor Meadow,Storrington,Pulborough
+2024-08-05,350000,RH20 1BD,S,N,F,29,,Stane Street Close,Codmore Hill,Pulborough
+2024-08-02,460000,RH20 3RF,S,Y,F,12,,Springett Close,Thakeham,Pulborough
+2024-08-02,370000,RH20 3RD,T,Y,F,32,,Nursery Rise,Thakeham,Pulborough
+2024-08-02,360000,RH20 3QQ,T,N,F,14,,Wallace Road,Storrington,Pulborough
+2024-08-02,680000,RH20 2NN,D,N,F,Rose Cottage,,Garden Wood Close,West Chiltington,Pulborough
+2024-07-31,700000,RH20 3GW,D,N,F,10,,Abingworth Crescent,Thakeham,Pulborough
+2024-07-31,1200000,RH20 3ED,D,N,F,Fairlands,,Storrington Road,Thakeham,Pulborough
+2024-07-31,650000,RH20 2NX,D,N,F,Thatchers,,Spinney Lane,West Chiltington,Pulborough
+2024-07-31,1565000,RH20 2HR,D,N,F,Stallhouse Barn,,Stall House Lane,North Heath,Pulborough
+2024-07-30,903922,RH20 3RF,D,Y,F,8,,Springett Close,Thakeham,Pulborough
+2024-07-29,544500,RH20 3QR,D,Y,F,25,,Penn Stone Way,Thakeham,Pulborough
+2024-07-29,160000,RH20 2LX,F,N,L,21,,Wheelwrights,West Chiltington,Pulborough
+2024-07-26,525000,RH20 4QN,D,N,F,25,,Dean Way,Storrington,Pulborough
+2024-07-26,321250,RH20 4JR,T,N,F,10,,Dukes Row,Cootham,Pulborough
+2024-07-25,447000,RH20 1AN,T,N,F,21,,Chestnut Walk,,Pulborough
+2024-07-24,180000,RH20 3NP,F,N,L,14,,Beech Grove,Storrington,Pulborough
+2024-07-24,565000,RH20 3EW,S,N,F,Townhouse Cottages,6,Coolham Road,Thakeham,Pulborough
+2024-07-24,825000,RH20 2PN,D,N,F,Brock Spinney,,Harborough Drive,,Pulborough
+2024-07-23,725000,RH20 3PA,D,N,F,Raxendale,,Chestnut Close,Storrington,Pulborough
+2024-07-19,175000,RH20 4PR,F,N,L,Mill House,15,Hawthorn Way,Storrington,Pulborough
+2024-07-19,1165650,RH20 4LP,D,N,F,Hill View,,Kithurst Lane,Storrington,Pulborough
+2024-07-19,840000,RH20 3RF,D,Y,F,6,,Springett Close,Thakeham,Pulborough
+2024-07-19,575000,RH20 3RF,D,Y,F,22,,Springett Close,Thakeham,Pulborough
+2024-07-19,436500,RH20 3RF,S,Y,F,14,,Springett Close,Thakeham,Pulborough
+2024-07-19,275000,RH20 2AB,S,N,F,Potts Barn,,Rectory Lane,,Pulborough
+2024-07-19,775000,RH20 1NF,D,N,F,Winter Well,,Sandy Lane,Watersfield,Pulborough
+2024-07-19,325000,RH20 1LU,S,N,F,28,,Brookview,Coldwaltham,Pulborough
+2024-07-16,1400000,RH20 2PW,D,N,F,Palings,,Harborough Hill,,Pulborough
+2024-07-16,750000,RH20 2PF,D,N,F,Tall Trees,,Monkmead Lane,West Chiltington,Pulborough
+2024-07-15,735000,RH20 4QG,D,N,F,5,,Greenacre Close,Storrington,Pulborough
+2024-07-15,442500,RH20 4NU,D,N,F,Freshfields,,Nightingale Lane,Storrington,Pulborough
+2024-07-15,638000,RH20 3HJ,D,N,F,Harleydene,,Sandgate Lane,Storrington,Pulborough
+2024-07-12,172500,RH20 3GZ,T,N,L,6,,Massey Close,Thakeham,Pulborough
+2024-07-12,350000,RH20 3GS,S,N,F,3,,Mousdell Close,Ashington,Pulborough
+2024-07-12,365000,RH20 2AJ,S,N,F,17,,Rectory Close,,Pulborough
+2024-07-11,210000,RH20 4QU,F,N,L,61,,Crowhurst Crescent,Storrington,Pulborough
+2024-07-11,150000,RH20 4DQ,F,N,L,16,,White Horse Court,Storrington,Pulborough
+2024-07-11,1110000,RH20 4DD,D,N,F,Hillcote House,,Heather Way,Storrington,Pulborough
+2024-07-11,340000,RH20 3EU,T,N,F,34,,Linfield Copse,Thakeham,Pulborough
+2024-07-11,1365000,RH20 2DR,D,N,F,Millstone Barn,,Old Mill Place,,Pulborough
+2024-07-05,137000,RH20 2LX,F,N,L,20,,Wheelwrights,West Chiltington,Pulborough
+2024-07-05,450000,RH20 1AN,D,N,F,61,,Chestnut Walk,,Pulborough
+2024-06-28,325000,RH20 4QU,T,N,F,14,,Crowhurst Crescent,Storrington,Pulborough
+2024-06-28,435000,RH20 4QR,D,N,F,104,,Hormare Crescent,Storrington,Pulborough
+2024-06-28,525000,RH20 4JZ,D,N,F,2,,Turners Mead,Storrington,Pulborough
+2024-06-28,587500,RH20 3EU,D,N,F,"Linfield House, 35",,Linfield Copse,Thakeham,Pulborough
+2024-06-28,367000,RH20 2TA,S,N,F,2,,Orchard Way,,Pulborough
+2024-06-28,485000,RH20 2PH,S,N,F,11,,The Birches,West Chiltington,Pulborough
+2024-06-28,515000,RH20 1ES,S,N,F,30C,,Coates,Fittleworth,Pulborough
+2024-06-27,450000,RH20 3EH,S,N,F,Athea,,High Bar Lane,Thakeham,Pulborough
+2024-06-27,555000,RH20 3BH,T,N,F,New Cottages,3,Rock Road,Washington,Pulborough
+2024-06-26,140000,RH20 2HT,F,N,L,8,,Barnhouse Close,,Pulborough
+2024-06-24,270000,RH20 1LT,T,N,F,13,,Brookland Way,Coldwaltham,Pulborough
+2024-06-21,352084,RH20 3BH,S,N,F,New Cottages,2,Rock Road,Washington,Pulborough
+2024-06-21,560000,RH20 2JJ,D,N,F,94,,Glebelands,,Pulborough
+2024-06-21,235000,RH20 2HT,F,N,L,16,,Barnhouse Close,,Pulborough
+2024-06-21,165000,RH20 2AZ,F,N,L,63,Flat 4,Lower Street,,Pulborough
+2024-06-19,425000,RH20 4HT,S,N,F,Kithurst Farm Cottages,2,Kithurst Farm Road,Storrington,Pulborough
+2024-06-17,474000,RH20 4LW,S,N,F,16,,Fern Road,Storrington,Pulborough
+2024-06-17,440000,RH20 2BL,D,N,F,4,,Lower Street,,Pulborough
+2024-06-14,600000,RH20 4PU,D,N,F,7,,Bannister Gardens,Storrington,Pulborough
+2024-06-14,715000,RH20 4LU,D,N,F,12,,Melton Drive,Storrington,Pulborough
+2024-06-14,340000,RH20 3NZ,T,N,F,2,,Jubilee Way,Storrington,Pulborough
+2024-06-14,1100000,RH20 2RE,D,N,F,"The White House, 4",,High Spinney,West Chiltington,Pulborough
+2024-06-14,695000,RH20 2NA,S,N,F,Gillies Cottage,,Nyetimber Lane,West Chiltington,Pulborough
+2024-06-14,480000,RH20 2JP,D,N,F,4,,Pond Rise,West Chiltington,Pulborough
+2024-06-13,855000,RH20 4NE,D,N,F,Southdown Cottage,,Fryern Road,Storrington,Pulborough
+2024-06-13,205000,RH20 3ND,F,N,L,1,,Kingsfield,Storrington,Pulborough
+2024-06-12,600000,RH20 4QA,S,N,F,1,,Melton Close,Storrington,Pulborough
+2024-06-10,151000,RH20 4QF,F,N,L,39,,Steyning Crescent,Storrington,Pulborough
+2024-06-10,480000,RH20 1PA,T,N,F,Norfolk Cottages,6,The Street,Bury,Pulborough
+2024-06-06,720000,RH20 2QT,D,N,F,Goodstead Cottage,,Nightingales,West Chiltington,Pulborough
+2024-05-31,250000,RH20 3GH,F,N,L,10,,Linfield Lane,Ashington,Pulborough
+2024-05-30,825000,RH20 2HR,D,N,F,Silver Birches,,Stall House Lane,North Heath,Pulborough
+2024-05-30,2000000,RH20 2EF,D,N,F,The Well House,,Tudor Close,,Pulborough
+2024-05-30,1850000,RH20 1ER,D,N,F,Old House,,Tripp Hill,Fittleworth,Pulborough
+2024-05-29,590000,RH20 4LR,D,N,F,St Christophers,,Monastery Lane,Storrington,Pulborough
+2024-05-29,820000,RH20 4HJ,D,N,F,"Fieldings, 39",,Pulborough Road,Storrington,Pulborough
+2024-05-29,506250,RH20 2RF,S,N,F,Wood View,,Threals Lane,West Chiltington,Pulborough
+2024-05-29,1115000,RH20 2PP,D,N,F,Cornerstone,,New Barn Lane,West Chiltington,Pulborough
+2024-05-28,685000,RH20 3LZ,D,N,F,5,,Hillside Road,Storrington,Pulborough
+2024-05-28,680000,RH20 2PX,D,N,F,Oakmeade,,Finches Lane,West Chiltington,Pulborough
+2024-05-24,575000,RH20 4QL,D,N,F,15,,Rapley Avenue,Storrington,Pulborough
+2024-05-24,400000,RH20 4HT,D,N,F,Kithurst Farm Cottages,1,Kithurst Farm Road,Storrington,Pulborough
+2024-05-24,835000,RH20 4HJ,D,N,F,47,,Pulborough Road,Storrington,Pulborough
+2024-05-24,390000,RH20 4FN,F,N,L,Foxmead Court,18,Meadowside,Storrington,Pulborough
+2024-05-24,580000,RH20 3QE,D,N,F,14,,Chanctonbury,Ashington,Pulborough
+2024-05-24,275000,RH20 3QA,T,N,F,10,,Puttick Close,Storrington,Pulborough
+2024-05-22,310000,RH20 4LF,T,N,F,15,,Manor Close,Storrington,Pulborough
+2024-05-22,410000,RH20 1LU,S,N,F,6,,Brookview,Coldwaltham,Pulborough
+2024-05-21,322500,RH20 2AT,T,N,F,46,,Spinney North,,Pulborough
+2024-05-17,395000,RH20 4GW,S,N,F,9,,Holm Oak,Storrington,Pulborough
+2024-05-17,330000,RH20 3NU,S,N,F,4,,Snapes Road,Storrington,Pulborough
+2024-05-17,375000,RH20 3GT,S,N,F,36,,Leatherbottle Way,Storrington,Pulborough
+2024-05-16,1750000,RH20 1PS,D,N,F,Old Manor House,,The Street,Sutton,Pulborough
+2024-05-10,1400000,RH20 2NJ,D,N,F,Kenmore,,Castlegate,,Pulborough
+2024-05-09,900000,RH20 4JQ,D,N,F,Stable Cottage,,Amberley Road,Storrington,Pulborough
+2024-05-09,1025000,RH20 3GY,D,N,F,30,,Pavilion Close,Thakeham,Pulborough
+2024-05-09,660000,RH20 3GW,D,N,F,34,,Abingworth Crescent,Thakeham,Pulborough
+2024-05-09,875000,RH20 2QL,D,N,F,3,,Church Grove,West Chiltington,Pulborough
+2024-05-08,875000,RH20 2EE,D,N,F,Withdean,,West Chiltington Road,,Pulborough
+2024-05-05,477500,RH20 4QS,D,N,F,116,,Dean Way,Storrington,Pulborough
+2024-05-03,325000,RH20 3QH,T,N,F,3,,The Mews,Ashington,Pulborough
+2024-05-03,372000,RH20 3BX,T,N,F,1,,Mill Lane,Ashington,Pulborough
+2024-05-01,499950,RH20 4NP,D,N,F,1,,Merryfield Road,Storrington,Pulborough
+2024-04-29,626000,RH20 4PU,D,N,F,28,,Bannister Gardens,Storrington,Pulborough
+2024-04-29,477300,RH20 4BE,D,N,F,9,,Warren Croft,Cootham,Pulborough
+2024-04-29,360000,RH20 3NP,S,N,F,44,,Beech Grove,Storrington,Pulborough
+2024-04-26,225000,RH20 2HT,F,N,L,15,,Barnhouse Close,,Pulborough
+2024-04-26,1340000,RH20 2AE,D,N,F,Byeways,,Rectory Lane,,Pulborough
+2024-04-26,425000,RH20 1LP,D,N,F,4,,Arun Vale,Coldwaltham,Pulborough
+2024-04-26,386000,RH20 1DP,S,N,F,Railway Cottages,1,Stopham Road,,Pulborough
+2024-04-25,740000,RH20 3HS,D,N,F,Verton Lodge,,Bracken Lane,Storrington,Pulborough
+2024-04-24,540000,RH20 2JP,D,N,F,3,,Pond Rise,West Chiltington,Pulborough
+2024-04-22,318000,RH20 2DQ,D,N,F,11,,Downlands,,Pulborough
+2024-04-22,315000,RH20 1HY,T,N,F,37,,Greatpin Croft,Fittleworth,Pulborough
+2024-04-19,555000,RH20 2JP,D,N,F,7,,Pond Rise,West Chiltington,Pulborough
+2024-04-15,375000,RH20 4NP,S,N,F,10,,Merryfield Road,Storrington,Pulborough
+2024-04-11,345000,RH20 4PG,S,N,F,34,,Spierbridge Road,Storrington,Pulborough
+2024-04-08,275000,RH20 3PY,S,N,F,1,,Oak End,Storrington,Pulborough
+2024-04-08,315000,RH20 3NF,T,N,F,13,,Timberlands,Storrington,Pulborough
+2024-04-05,450000,RH20 4QY,D,N,F,13,,Faithfull Crescent,Storrington,Pulborough
+2024-04-05,445000,RH20 2JH,S,N,F,95,,Glebelands,,Pulborough
+2024-04-05,390000,RH20 2DQ,D,N,F,23,,Downlands,,Pulborough
+2024-04-04,560000,RH20 4GJ,F,N,L,St. Joseph's Abbey,4,Greyfriars Lane,Storrington,Pulborough
+2024-04-04,160000,RH20 4DQ,F,N,L,4,,White Horse Court,Storrington,Pulborough
+2024-04-04,850000,RH20 3JB,D,N,F,Half Moon Cottage,,Hampers Lane,Storrington,Pulborough
+2024-04-04,475000,RH20 3HU,D,N,F,Fernbank,,Hampers Lane,Storrington,Pulborough
+2024-04-04,1250000,RH20 2AF,D,N,F,Glebe Barn,,Old Rectory Lane,,Pulborough
+2024-04-02,1160000,RH20 1LE,D,N,F,Fulbrook,,Kings Lane,Coldwaltham,Pulborough
+2024-04-02,212000,RH20 1FJ,F,N,L,36,,Riverside,Codmore Hill,Pulborough
+2024-03-28,650000,RH20 4QX,D,N,F,53,,Hormare Crescent,Storrington,Pulborough
+2024-03-28,211000,RH20 3EG,T,N,F,41,,Furze Common Road,Thakeham,Pulborough
+2024-03-28,967500,RH20 2RN,D,N,F,Deerswood,,Roundabout Copse,West Chiltington,Pulborough
+2024-03-28,400000,RH20 2QD,D,N,F,18,,The Martlets,West Chiltington,Pulborough
+2024-03-28,399950,RH20 1FJ,T,N,F,90,,Riverside,Codmore Hill,Pulborough
+2024-03-27,350000,RH20 4NZ,T,N,F,25,,North Street,Storrington,Pulborough
+2024-03-27,787900,RH20 3NW,D,N,F,Treyford,,Thakeham Road,Storrington,Pulborough
+2024-03-27,555000,RH20 2LW,D,N,F,Goose Green Cottage,,Goose Green Lane,Goose Green,Pulborough
+2024-03-26,250000,RH20 1FS,F,N,F,33,,Oddstones,Codmore Hill,Pulborough
+2024-03-25,445000,RH20 4FN,F,N,L,Foxmead Court,24,Meadowside,Storrington,Pulborough
+2024-03-22,253000,RH20 3RD,F,Y,L,14,,Nursery Rise,Thakeham,Pulborough
+2024-03-22,911800,RH20 2BH,S,N,F,31,,Lower Street,,Pulborough
+2024-03-21,215000,RH20 4PR,F,N,L,Mill House,5,Hawthorn Way,Storrington,Pulborough
+2024-03-21,928000,RH20 3EP,D,N,F,Badgers Lodge,,The Street,Thakeham,Pulborough
+2024-03-20,208000,RH20 4PR,F,N,L,Mill House,1,Hawthorn Way,Storrington,Pulborough
+2024-03-20,667500,RH20 3PR,D,N,F,26,,Covert Mead,Ashington,Pulborough
+2024-03-19,298000,RH20 1FJ,T,N,F,96,,Riverside,Codmore Hill,Pulborough
+2024-03-18,405000,RH20 4FH,T,N,F,The Laurels,2,Pulborough Road,Storrington,Pulborough
+2024-03-18,859000,RH20 1HU,D,N,F,Church End,,Upper Street,Fittleworth,Pulborough
+2024-03-15,690000,RH20 3QZ,D,N,F,3,,Hazelbank,Ashington,Pulborough
+2024-03-15,675000,RH20 3QR,D,Y,F,29,,Penn Stone Way,Thakeham,Pulborough
+2024-03-15,520000,RH20 3BH,S,N,F,Jenners Field,2,Rock Road,Washington,Pulborough
+2024-03-15,960050,RH20 2PF,D,N,F,Tansy Hollow,,Monkmead Lane,West Chiltington,Pulborough
+2024-03-15,575000,RH20 2LF,D,N,F,Gatewick Lodge,,Broadford Bridge Road,West Chiltington,Pulborough
+2024-03-15,815000,RH20 1PD,D,N,F,Southcombe,,Houghton Lane,Bury,Pulborough
+2024-03-15,1335000,RH20 1NY,D,N,F,"Highfield, 161",,Burygate,Bury,Pulborough
+2024-03-15,173000,RH20 1FJ,F,N,L,74,,Riverside,Codmore Hill,Pulborough
+2024-03-15,300000,RH20 1BD,T,N,F,55,,Stane Street Close,Codmore Hill,Pulborough
+2024-03-12,725000,RH20 4NT,D,N,F,Serena,,Fryern Road,Storrington,Pulborough
+2024-03-08,2990000,RH20 2DU,D,N,F,Green Jade,,Broomers Hill Lane,,Pulborough
+2024-03-08,295000,RH20 2BA,F,N,L,Beaumont Court,Flat 4,Skeyne Drive,,Pulborough
+2024-03-06,720000,RH20 3JH,D,N,F,Little Fairseat,,Georges Lane,Storrington,Pulborough
+2024-03-01,725000,RH20 3QB,D,N,F,30,,Meiros Way,Ashington,Pulborough
+2024-03-01,313000,RH20 2JR,D,N,F,29,,Holly Close,West Chiltington,Pulborough
+2024-03-01,340000,RH20 2DQ,D,N,F,5,,Downlands,,Pulborough
+2024-02-29,490000,RH20 4QX,D,N,F,60,,Hormare Crescent,Storrington,Pulborough
+2024-02-29,375000,RH20 4QU,T,N,F,53,,Crowhurst Crescent,Storrington,Pulborough
+2024-02-29,542500,RH20 4QP,D,N,F,98,,Hormare Crescent,Storrington,Pulborough
+2024-02-29,350000,RH20 3RD,T,Y,F,26,,Nursery Rise,Thakeham,Pulborough
+2024-02-29,465000,RH20 2PH,S,N,F,11,,The Birches,West Chiltington,Pulborough
+2024-02-27,382500,RH20 4NL,T,N,F,12,,Hawthorn Way,Storrington,Pulborough
+2024-02-27,500000,RH20 1DN,S,N,F,Blake Cottages,3,Stane Street,North Heath,Pulborough
+2024-02-23,350000,RH20 3LE,S,N,F,1B,,Hillcrest Close,Ashington,Pulborough
+2024-02-23,213500,RH20 1FL,F,N,L,22,,Harwood Close,Codmore Hill,Pulborough
+2024-02-22,365000,RH20 4EG,S,N,F,20,,Meadowside,Storrington,Pulborough
+2024-02-22,610000,RH20 2BZ,D,N,F,63,,Glebelands,,Pulborough
+2024-02-21,620000,RH20 4JQ,D,N,F,Cherry Cottage,,Amberley Road,Storrington,Pulborough
+2024-02-19,655000,RH20 2NN,D,N,F,10,,Garden Wood Close,West Chiltington,Pulborough
+2024-02-16,372500,RH20 4JU,S,N,F,5,,The Crescent,Cootham,Pulborough
+2024-02-16,475000,RH20 4HN,S,N,F,Springhead Farm Cottages,6,Amberley Road,Parham,Pulborough
+2024-02-16,425000,RH20 3JT,S,N,F,Magnolia,1,London Road,Ashington,Pulborough
+2024-02-15,450000,RH20 3QD,S,N,F,10,,Warminghurst Close,Ashington,Pulborough
+2024-02-15,325000,RH20 3BS,S,N,F,3,,Spring Gardens,Washington,Pulborough
+2024-02-14,850000,RH20 2LB,D,N,F,Crooklets,,Orchard Dell,West Chiltington,Pulborough
+2024-02-12,288000,RH20 3BS,T,N,F,13,,Spring Gardens,Washington,Pulborough
+2024-02-12,299950,RH20 1PE,T,N,F,47,,Coombe Crescent,Bury,Pulborough
+2024-02-09,415000,RH20 4PJ,S,N,F,27,,Fryern Close,Storrington,Pulborough
+2024-02-09,450000,RH20 1AX,T,N,F,3,,Waters Edge,,Pulborough
+2024-02-08,870000,RH20 2NU,D,N,F,Azibicasa,,Birch Grove,West Chiltington,Pulborough
+2024-02-07,312000,RH20 4QH,T,N,F,28,,Rectory Walk,Storrington,Pulborough
+2024-02-07,393000,RH20 1FJ,T,N,F,88,,Riverside,Codmore Hill,Pulborough
+2024-02-02,800000,RH20 3BB,D,N,F,Thornbank,,Billingshurst Road,Ashington,Pulborough
+2024-02-02,650000,RH20 2NE,D,N,F,Sonning Dene,,Nyetimber Copse,West Chiltington,Pulborough
+2024-02-02,185000,RH20 1HZ,F,N,L,56,,Greatpin Croft,Fittleworth,Pulborough
+2024-02-02,275000,RH20 1FS,D,N,F,11,,Oddstones,Codmore Hill,Pulborough
+2024-02-01,515000,RH20 4AS,T,N,F,Spring Cottage,,The Street,Washington,Pulborough
+2024-02-01,860000,RH20 3JE,D,N,F,The Yews,,Sanctuary Lane,Storrington,Pulborough
+2024-02-01,725000,RH20 2GR,S,N,F,2,,Jayswood,West Chiltington,Pulborough
+2024-01-31,210000,RH20 4EQ,F,N,L,88,,Meadowside,Storrington,Pulborough
+2024-01-31,355000,RH20 4EQ,T,N,F,41,,Meadowside,Storrington,Pulborough
+2024-01-31,256500,RH20 3RD,F,Y,L,4,,Nursery Rise,Thakeham,Pulborough
+2024-01-31,335000,RH20 3RD,T,Y,F,24,,Nursery Rise,Thakeham,Pulborough
+2024-01-31,190000,RH20 1AU,F,N,L,Poplar Court,5,Station Road,,Pulborough
+2024-01-30,510500,RH20 3RE,D,Y,F,4,,Shelley Place,Thakeham,Pulborough
+2024-01-29,665000,RH20 3QR,D,Y,F,27,,Penn Stone Way,Thakeham,Pulborough
+2024-01-25,775000,RH20 3RF,D,Y,F,3,,Springett Close,Thakeham,Pulborough
+2024-01-25,485000,RH20 3GU,D,N,F,27,,Watermeadow Lane,Storrington,Pulborough
+2024-01-25,475000,RH20 3EG,S,N,F,16,,Furze Common Road,Thakeham,Pulborough
+2024-01-25,205000,RH20 2AG,F,N,L,"Brook House, 59",Flat 9,Lower Street,,Pulborough
+2024-01-25,395000,RH20 1LU,S,N,F,21,,Brookview,Coldwaltham,Pulborough
+2024-01-25,1510000,RH20 1HD,D,N,F,Cokes Cottage,,,Westburton,Pulborough
+2024-01-22,420000,RH20 4QN,S,N,F,79,,Dean Way,Storrington,Pulborough
+2024-01-22,385000,RH20 2GN,D,N,F,12,,Drovers Lane,,Pulborough
+2024-01-19,345000,RH20 2JA,S,N,F,10,,Aston Rise,,Pulborough
+2024-01-19,705000,RH20 2AD,D,N,F,Little Ridge,,Rectory Lane,,Pulborough
+2024-01-18,1037000,RH20 1EN,D,N,F,White Eaves,,Lower Street,Fittleworth,Pulborough
+2024-01-15,272000,RH20 3PY,S,N,F,4,,Oak End,Storrington,Pulborough
+2024-01-12,663000,RH20 3RA,D,Y,F,9,,Vineyards Close,Washington,Pulborough
+2024-01-12,551000,RH20 3JB,D,N,F,Walscombe,,Hampers Lane,Storrington,Pulborough
+2024-01-12,330000,RH20 3GW,F,N,L,3,Flat 1,Abingworth Crescent,Thakeham,Pulborough
+2024-01-11,600000,RH20 2RB,D,N,F,Poppys Place,,Roundabout Lane,West Chiltington,Pulborough
+2024-01-10,912500,RH20 4JH,D,N,F,16,,Kithurst Park,Storrington,Pulborough
+2024-01-09,660000,RH20 3RA,D,Y,F,8,,Vineyards Close,Washington,Pulborough
+2024-01-08,300000,RH20 4QH,T,N,F,22,,Rectory Walk,Storrington,Pulborough
+2024-01-08,366500,RH20 2PR,D,N,F,1,,Heath Mill Cottages,,Pulborough
+2024-01-05,510000,RH20 4QP,D,N,F,95,,Hormare Crescent,Storrington,Pulborough
+2024-01-04,930000,RH20 2PW,D,N,F,Yeomans,,Harborough Hill,,Pulborough
+2023-12-20,380000,RH20 4ND,T,N,F,Wisborough Cottage,,Wisborough Lane,Storrington,Pulborough
+2023-12-19,250000,RH20 3QG,D,N,F,17,,Turnpike Way,Ashington,Pulborough
+2023-12-19,338000,RH20 3LP,S,N,F,8,,Rectory Close,Ashington,Pulborough
+2023-12-19,195000,RH20 1FL,F,N,L,10,,Harwood Close,Codmore Hill,Pulborough
+2023-12-18,437000,RH20 4NZ,S,N,F,37,,North Street,Storrington,Pulborough
+2023-12-18,445000,RH20 3EF,D,N,F,Furzefield,,Storrington Road,Thakeham,Pulborough
+2023-12-15,435021,RH20 4NA,S,N,F,3,,School Hill,Storrington,Pulborough
+2023-12-15,150000,RH20 4EZ,F,N,L,21,,Post View,Storrington,Pulborough
+2023-12-15,400000,RH20 3NF,T,N,F,31,,Timberlands,Storrington,Pulborough
+2023-12-15,480000,RH20 3GU,D,N,F,37,,Watermeadow Lane,Storrington,Pulborough
+2023-12-15,350000,RH20 3EU,S,N,F,30,,Linfield Copse,Thakeham,Pulborough
+2023-12-15,345000,RH20 2DB,T,N,F,5,,Little Dippers,,Pulborough
+2023-12-15,405500,RH20 2AP,T,N,F,37,,The Spinney,,Pulborough
+2023-12-08,720000,RH20 3JQ,D,N,F,39,,Cricketers Close,Ashington,Pulborough
+2023-12-08,500000,RH20 2AX,T,N,F,"Chene Colline Chase, 87",4,Lower Street,,Pulborough
+2023-12-07,155000,RH20 2AG,F,N,L,"Brook House, 59",Flat 7,Lower Street,,Pulborough
+2023-12-05,415000,RH20 4RQ,D,N,F,11,,Willow Close,Storrington,Pulborough
+2023-12-04,372500,RH20 4RG,S,N,F,4,,Tritton Place,Cootham,Pulborough
+2023-12-04,612500,RH20 3EU,S,N,F,1,,Linfield Copse,Thakeham,Pulborough
+2023-12-01,350000,RH20 4EG,S,N,F,12,,Meadowside,Storrington,Pulborough
+2023-12-01,842000,RH20 4EF,D,N,F,Glebe House,,Rectory Road,Storrington,Pulborough
+2023-12-01,912000,RH20 1PB,D,N,F,Shepherdswell,,Church Lane,Bury,Pulborough
+2023-11-30,426000,RH20 4QP,D,N,F,107,,Hormare Crescent,Storrington,Pulborough
+2023-11-30,545000,RH20 4DN,D,N,F,"Malt Cottage, 1",,Brewers Yard,Storrington,Pulborough
+2023-11-29,264000,RH20 4LH,S,N,L,1,,Manor Court,Storrington,Pulborough
+2023-11-29,800000,RH20 2NE,D,N,F,Pinehaven,,Nyetimber Copse,West Chiltington,Pulborough
+2023-11-24,300000,RH20 4PD,T,N,F,2,,Holly Close,Storrington,Pulborough
+2023-11-24,562000,RH20 4FP,T,N,L,10,,Orchard Gardens,Storrington,Pulborough
+2023-11-24,950000,RH20 3ET,D,N,F,Seasons,,Badgers Holt,Storrington,Pulborough
+2023-11-24,370000,RH20 3BW,S,N,F,2,,Montpelier Gardens,Washington,Pulborough
+2023-11-24,1300000,RH20 3AU,D,N,F,Hook Farm,,London Road,Ashington,Pulborough
+2023-11-24,365000,RH20 2JA,T,N,F,13,,Aston Rise,,Pulborough
+2023-11-20,226000,RH20 4DN,T,N,F,13,,Brewers Yard,Storrington,Pulborough
+2023-11-20,270000,RH20 3RD,F,Y,L,12,,Nursery Rise,Thakeham,Pulborough
+2023-11-20,260000,RH20 3RD,F,Y,L,10,,Nursery Rise,Thakeham,Pulborough
+2023-11-20,1953500,RH20 1EW,D,N,F,Hesworth Barn,,Hesworth Common,Fittleworth,Pulborough
+2023-11-15,405000,RH20 3LP,S,N,F,19,,Rectory Close,Ashington,Pulborough
+2023-11-14,395000,RH20 4QU,S,N,F,47,,Crowhurst Crescent,Storrington,Pulborough
+2023-11-14,640000,RH20 3HN,D,N,F,12,,Palmer Close,Storrington,Pulborough
+2023-11-14,1190000,RH20 2QU,D,N,F,Morningside,,Lordings Lane,West Chiltington,Pulborough
+2023-11-13,430000,RH20 4PS,D,N,F,5,,Downsview Avenue,Storrington,Pulborough
+2023-11-13,565000,RH20 2QG,D,N,F,3,,Oak End,West Chiltington,Pulborough
+2023-11-13,702500,RH20 2PU,D,N,F,Lilac Cottage,,Little Hill,West Chiltington,Pulborough
+2023-11-13,825000,RH20 2LB,D,N,F,Seando,,Orchard Dell,West Chiltington,Pulborough
+2023-11-13,600000,RH20 2JR,D,N,F,3,,Holly Close,West Chiltington,Pulborough
+2023-11-13,610000,RH20 1PA,T,N,F,Norfolk Cottages,8,The Street,Bury,Pulborough
+2023-11-10,327000,RH20 2TB,T,N,F,25,,Cousins Way,,Pulborough
+2023-11-10,618000,RH20 2DE,D,N,F,2,,Laurel Mount,,Pulborough
+2023-11-10,710000,RH20 1PA,S,N,F,Kesters House,,The Street,Bury,Pulborough
+2023-11-10,615000,RH20 1LP,D,N,F,21,,Arun Vale,Coldwaltham,Pulborough
+2023-11-10,600000,RH20 1LD,D,N,F,The Granary,,London Road,Hardham,Pulborough
+2023-11-09,760000,RH20 3NG,D,N,F,Weyland House,,Thakeham Road,Storrington,Pulborough
+2023-11-09,1070000,RH20 3GY,D,N,F,5,,Pavilion Close,Thakeham,Pulborough
+2023-11-09,1210000,RH20 2NY,D,N,F,Olivers,,Sunset Lane,West Chiltington,Pulborough
+2023-11-09,405000,RH20 2NL,S,N,F,Whales Cottages,1,Common Hill,West Chiltington,Pulborough
+2023-11-08,914000,RH20 4GZ,D,N,F,16,,Bax Close,Storrington,Pulborough
+2023-11-06,530000,RH20 3QE,D,N,F,17,,Chanctonbury,Ashington,Pulborough
+2023-11-06,445000,RH20 3LG,S,N,F,1,,Windmill Close,Ashington,Pulborough
+2023-11-01,1425000,RH20 2NZ,D,N,F,Dell Cottage,,Heather Lane,West Chiltington,Pulborough
+2023-10-30,500000,RH20 3RJ,D,N,F,1,,Maple Gardens,Washington,Pulborough
+2023-10-30,442500,RH20 3JL,D,N,F,25,,Concorde Close,Storrington,Pulborough
+2023-10-27,274000,RH20 3RD,F,Y,F,6,,Nursery Rise,Thakeham,Pulborough
+2023-10-27,460000,RH20 3RD,T,Y,F,20,,Nursery Rise,Thakeham,Pulborough
+2023-10-27,265000,RH20 3RD,F,Y,L,2,,Nursery Rise,Thakeham,Pulborough
+2023-10-27,275000,RH20 3RD,F,Y,L,18,,Nursery Rise,Thakeham,Pulborough
+2023-10-27,258000,RH20 3RD,F,Y,L,16,,Nursery Rise,Thakeham,Pulborough
+2023-10-27,770000,RH20 3HQ,D,N,F,Villa Adagio,,Newhouse Lane,Storrington,Pulborough
+2023-10-26,780000,RH20 4NT,D,N,F,Laverock,,Fryern Road,Storrington,Pulborough
+2023-10-26,617250,RH20 4FP,S,N,L,18,,Orchard Gardens,Storrington,Pulborough
+2023-10-26,595000,RH20 2DX,D,N,F,Dukes Oak,,Mare Hill Common,,Pulborough
+2023-10-26,650000,RH20 2AF,D,N,F,Glebefields,,Old Rectory Lane,,Pulborough
+2023-10-26,670000,RH20 1HT,S,N,F,1,,The Gardens,Fittleworth,Pulborough
+2023-10-26,327000,RH20 1FS,T,N,F,3,,Oddstones,Codmore Hill,Pulborough
+2023-10-24,270000,RH20 4FJ,F,N,L,2,,Strome Park,Storrington,Pulborough
+2023-10-24,602500,RH20 3QG,D,N,F,7,,Turnpike Way,Ashington,Pulborough
+2023-10-24,765000,RH20 3BX,D,N,F,Moonfleet,,Mill Lane,Ashington,Pulborough
+2023-10-24,489000,RH20 2JY,S,N,F,Hatches Cottages,2,East Street,West Chiltington,Pulborough
+2023-10-23,370000,RH20 4HB,S,N,F,18,,Windmill Copse,Storrington,Pulborough
+2023-10-23,425000,RH20 1JD,S,N,F,Birch Court,4,School Close,Fittleworth,Pulborough
+2023-10-20,480000,RH20 4NP,D,N,F,9,,Merryfield Road,Storrington,Pulborough
+2023-10-20,190000,RH20 3PH,F,N,L,16,,Field End,Storrington,Pulborough
+2023-10-20,330000,RH20 3NJ,T,N,F,18,,Sullington Copse,Storrington,Pulborough
+2023-10-20,510000,RH20 3LQ,S,N,F,"Sandy Oaks, 53",,The Sands,Ashington,Pulborough
+2023-10-20,830000,RH20 2PT,D,N,F,Commonland Farmhouse,,Mill Lane,West Chiltington,Pulborough
+2023-10-19,335000,RH20 1FL,T,N,F,17,,Harwood Close,Codmore Hill,Pulborough
+2023-10-19,255000,RH20 1AL,F,N,L,22,,Arun Prospect,,Pulborough
+2023-10-17,507000,RH20 4QT,D,N,F,37,,Hormare Crescent,Storrington,Pulborough
+2023-10-17,555000,RH20 4BF,F,N,L,9,,Birklands,Storrington,Pulborough
+2023-10-17,1035000,RH20 3EP,D,N,F,Highfield,,The Street,Thakeham,Pulborough
+2023-10-16,330333,RH20 2EL,S,N,F,New Cottage,32,Wiggonholt,,Pulborough
+2023-10-13,270000,RH20 3RD,F,Y,L,8,,Nursery Rise,Thakeham,Pulborough
+2023-10-13,465000,RH20 2JF,T,N,F,1,,Nutcroft,,Pulborough
+2023-10-13,320000,RH20 1BQ,D,N,F,Moyne,,Stane Street,Codmore Hill,Pulborough
+2023-10-12,390000,RH20 2JT,S,N,F,17,,The Juggs,West Chiltington,Pulborough
+2023-10-10,875000,RH20 2JW,S,N,F,Stone House,,Church Street,West Chiltington,Pulborough
+2023-10-06,980000,RH20 2JQ,D,N,F,"Cranmere, 8",,Foxfields,West Chiltington,Pulborough
+2023-10-05,440000,RH20 1HH,T,N,F,2,,High Trees,Fittleworth,Pulborough
+2023-10-04,565000,RH20 4QP,D,N,F,94,,Hormare Crescent,Storrington,Pulborough
+2023-09-29,544050,RH20 3RE,D,Y,F,1,,Shelley Place,Thakeham,Pulborough
+2023-09-29,375000,RH20 3QA,D,N,F,5,,Puttick Close,Storrington,Pulborough
+2023-09-29,388500,RH20 2QX,S,N,F,Copse View,2,Smock Alley,West Chiltington,Pulborough
+2023-09-29,1200000,RH20 2QU,D,N,F,Harptree,,Lordings Lane,West Chiltington,Pulborough
+2023-09-29,175000,RH20 1HY,F,N,L,46,,Greatpin Croft,Fittleworth,Pulborough
+2023-09-29,349950,RH20 1DU,T,N,F,3,,Spiro Close,,Pulborough
+2023-09-28,635000,RH20 2QW,D,N,F,23,,Haglands Copse,West Chiltington,Pulborough
+2023-09-27,565000,RH20 3LP,D,N,F,33,,Rectory Close,Ashington,Pulborough
+2023-09-26,170000,RH20 4FN,F,N,L,Foxmead Court,1,Meadowside,Storrington,Pulborough
+2023-09-25,413000,RH20 1DP,T,N,F,7,,Stopham Road,,Pulborough
+2023-09-22,605000,RH20 4QX,D,N,F,49,,Hormare Crescent,Storrington,Pulborough
+2023-09-21,720000,RH20 1NR,D,N,F,Coachmans Cottage,,Bury Common,Bury,Pulborough
+2023-09-19,810000,RH20 4LY,D,N,F,3,,Nightingale Park,Storrington,Pulborough
+2023-09-19,1200000,RH20 2NJ,D,N,F,Little Foxes,,Castlegate,,Pulborough
+2023-09-15,665000,RH20 4JY,D,N,F,7,,Fox Dell,Storrington,Pulborough
+2023-09-15,930000,RH20 4JG,D,N,F,Serenity,,The Plantation,Storrington,Pulborough
+2023-09-15,350000,RH20 3NL,T,N,F,26,,The Green,Storrington,Pulborough
+2023-09-13,680000,RH20 4EP,D,N,F,38,,John Ireland Way,Washington,Pulborough
+2023-09-13,700000,RH20 3HL,D,N,F,Crestview,,Hillside Walk,Storrington,Pulborough
+2023-09-13,627000,RH20 2QW,D,N,F,29,,Haglands Copse,West Chiltington,Pulborough
+2023-09-13,975000,RH20 2NR,D,N,F,Hill End,,Common Hill,West Chiltington,Pulborough
+2023-09-13,1050000,RH20 2LB,D,N,F,Appletrees,,Orchard Dell,West Chiltington,Pulborough
+2023-09-08,1050000,RH20 3ET,D,N,F,Woodlands,,Badgers Holt,Storrington,Pulborough
+2023-09-08,290000,RH20 1DT,F,N,L,The Bell House,4,London Road,,Pulborough
+2023-09-06,1000000,RH20 2RN,D,N,F,Lavenders,,Roundabout Copse,West Chiltington,Pulborough
+2023-09-06,1348000,RH20 2PA,D,N,F,Thrums,,Westward Lane,West Chiltington,Pulborough
+2023-09-05,580000,RH20 1NR,D,N,F,Barn By The Willow,,Bury Common,Bury,Pulborough
+2023-09-04,435000,RH20 3BX,D,N,F,Ceando,,Mill Lane,Ashington,Pulborough
+2023-09-01,582500,RH20 4JW,S,N,F,Mole End,,Cootham Green,Cootham,Pulborough
+2023-09-01,377500,RH20 2PH,S,N,F,8,,The Birches,West Chiltington,Pulborough
+2023-09-01,995000,RH20 2NE,D,N,F,Desiderata,,Nyetimber Copse,West Chiltington,Pulborough
+2023-09-01,365000,RH20 2DQ,D,N,F,29,,Downlands,,Pulborough
+2023-09-01,665000,RH20 1LJ,D,N,F,5,,Silverdale,Coldwaltham,Pulborough
+2023-08-31,645000,RH20 3GW,D,N,F,30,,Abingworth Crescent,Thakeham,Pulborough
+2023-08-31,700000,RH20 2NB,D,N,F,Monkshood,,Heathfield Copse,West Chiltington,Pulborough
+2023-08-31,655000,RH20 2HB,D,N,F,Twitten Orchard,,Nutbourne Common,,Pulborough
+2023-08-31,617500,RH20 1PF,S,N,L,Bury House,South Cottage,The Street,Bury,Pulborough
+2023-08-31,500000,RH20 1FJ,D,N,F,29,,Riverside,Codmore Hill,Pulborough
+2023-08-30,400000,RH20 4JW,D,N,F,1,,Cootham Green,Cootham,Pulborough
+2023-08-30,365000,RH20 3BS,T,N,F,10,,Spring Gardens,Washington,Pulborough
+2023-08-30,517500,RH20 3BP,D,N,F,Birchdown,,London Road,Washington,Pulborough
+2023-08-29,665000,RH20 4QS,D,N,F,56,,Dean Way,Storrington,Pulborough
+2023-08-29,497500,RH20 4HA,D,N,F,The Croft,,Wantley Lane,Storrington,Pulborough
+2023-08-29,490000,RH20 3EG,T,N,F,18,,Furze Common Road,Thakeham,Pulborough
+2023-08-25,340000,RH20 4PB,T,N,F,Sunnyside,2,North Street,Storrington,Pulborough
+2023-08-25,353000,RH20 4GL,D,N,F,3,,The Glade,Storrington,Pulborough
+2023-08-25,380000,RH20 3QP,T,N,F,29,,Thompson Drive,Storrington,Pulborough
+2023-08-25,390000,RH20 1LU,S,N,F,8,,Brookview,Coldwaltham,Pulborough
+2023-08-25,228000,RH20 1FS,F,N,F,34,,Oddstones,Codmore Hill,Pulborough
+2023-08-21,795000,RH20 2DZ,D,N,F,Pear Trees,,Batts Lane,,Pulborough
+2023-08-18,400000,RH20 3JU,S,N,F,2,,Woelfs Close,Ashington,Pulborough
+2023-08-18,1225000,RH20 2EE,D,N,F,Oakhurst,,West Chiltington Road,,Pulborough
+2023-08-18,865000,RH20 1NS,D,N,F,White Horse Cottage,,Bury Common,Bury,Pulborough
+2023-08-17,577500,RH20 4HH,D,N,F,Finchingfield,,Hurston Lane,Storrington,Pulborough
+2023-08-15,680500,RH20 3JH,D,N,F,Little Yew,,Georges Lane,Storrington,Pulborough
+2023-08-15,487500,RH20 3EG,S,N,F,50,,Furze Common Road,Thakeham,Pulborough
+2023-08-15,596500,RH20 2AH,S,N,F,Eggars,,Potts Lane,,Pulborough
+2023-08-11,345000,RH20 4LF,F,N,L,12,,Manor Close,Storrington,Pulborough
+2023-08-11,865000,RH20 3QS,D,N,F,6,,Strawberry Close,Thakeham,Pulborough
+2023-08-11,380000,RH20 3LH,T,N,F,Pear Tree Cottages,1,Rectory Lane,Ashington,Pulborough
+2023-08-10,470000,RH20 3LB,S,N,F,24,,Hillcrest Drive,Ashington,Pulborough
+2023-08-10,655000,RH20 3BL,D,N,F,Island Cottage,,Rock Lane,Washington,Pulborough
+2023-08-08,344000,RH20 3QP,T,N,F,5,,Thompson Drive,Storrington,Pulborough
+2023-08-07,485000,RH20 1PP,S,N,F,6,,Greenfield,Sutton,Pulborough
+2023-08-04,420000,RH20 4JJ,S,N,F,New Town Cottages,3A,New Town Road,Storrington,Pulborough
+2023-08-04,410000,RH20 4HU,T,N,F,4,,Hormare Crescent,Storrington,Pulborough
+2023-08-03,1050000,RH20 4DB,D,N,F,The Haydays,,Woodpecker Lane,Storrington,Pulborough
+2023-08-03,335000,RH20 3DD,S,N,F,Sherrie,,London Road,Ashington,Pulborough
+2023-08-02,607000,RH20 4QW,D,N,F,75,,Hormare Crescent,Storrington,Pulborough
+2023-08-01,175000,RH20 3ND,F,N,L,4,,Kingsfield,Storrington,Pulborough
+2023-08-01,215000,RH20 3NA,F,N,L,The Flower Corner,Flat 1,Storrington Road,Thakeham,Pulborough
+2023-07-31,350000,RH20 3LE,T,N,F,13,,Hillcrest Close,Ashington,Pulborough
+2023-07-28,840000,RH20 4BL,D,N,F,Tillington,,Melton Drive,Storrington,Pulborough
+2023-07-28,475000,RH20 1BD,S,N,F,31,,Stane Street Close,Codmore Hill,Pulborough
+2023-07-25,945000,RH20 2QH,D,N,F,Broadoaks,,The Hawthorns,West Chiltington,Pulborough
+2023-07-21,470000,RH20 3JA,S,N,F,6,,Ashdene Gardens,Ashington,Pulborough
+2023-07-18,360000,RH20 4HB,S,N,F,41,,Windmill Copse,Storrington,Pulborough
+2023-07-17,770000,RH20 3HQ,D,N,F,Amyday,,Newhouse Lane,Storrington,Pulborough
+2023-07-14,725000,RH20 4LS,D,N,F,9,,Link Hill,Storrington,Pulborough
+2023-07-14,370000,RH20 1LX,S,N,F,9,,Brookview South,Coldwaltham,Pulborough
+2023-07-14,225000,RH20 1FF,F,N,L,Arun House,6,Spiro Close,,Pulborough
+2023-07-13,2050000,RH20 2HH,D,N,F,Lintotts,,Gay Street,,Pulborough
+2023-07-12,425000,RH20 4NL,T,N,F,6,,Hawthorn Way,Storrington,Pulborough
+2023-07-12,237000,RH20 2BG,F,N,L,Barclays Court,Flat 2,Skeyne Drive,,Pulborough
+2023-07-11,155500,RH20 2AT,F,N,L,38,,Spinney North,,Pulborough
+2023-07-07,587000,RH20 3NB,D,N,F,50,,Crescent Rise,Thakeham,Pulborough
+2023-07-07,945000,RH20 3HZ,D,N,F,Hampers Cottage,,Hampers Lane,Storrington,Pulborough
+2023-07-07,575000,RH20 3DE,D,N,F,Whitelands Lodge,,Hole Street,Ashington,Pulborough
+2023-07-05,435000,RH20 2BZ,D,N,F,71,,Glebelands,,Pulborough
+2023-07-05,435000,RH20 1EJ,S,N,F,Ironstone Cottage,,Lower Street,Fittleworth,Pulborough
+2023-07-04,890000,RH20 3PF,D,N,F,Lynwood,,Pine Close,Storrington,Pulborough
+2023-06-30,930000,RH20 3ET,D,N,F,Elmwood,,Badgers Holt,Storrington,Pulborough
+2023-06-30,800000,RH20 2RN,D,N,F,Yew Tree House,,Roundabout Copse,West Chiltington,Pulborough
+2023-06-30,964500,RH20 2NE,D,N,F,Ivanhoe,,Nyetimber Copse,West Chiltington,Pulborough
+2023-06-30,359000,RH20 2JA,S,N,F,23,,Aston Rise,,Pulborough
+2023-06-30,630000,RH20 2EX,S,N,F,7,,Rackham Street,Rackham,Pulborough
+2023-06-30,515000,RH20 2BZ,D,N,F,55,,Glebelands,,Pulborough
+2023-06-29,395000,RH20 1LU,S,N,F,27,,Brookview,Coldwaltham,Pulborough
+2023-06-28,277000,RH20 3RA,F,N,L,12,,Vineyards Close,Washington,Pulborough
+2023-06-27,1250000,RH20 2NL,D,N,F,Witan House,,Common Hill,West Chiltington,Pulborough
+2023-06-27,950000,RH20 2EF,D,N,F,Nevilles Piece,,Tudor Close,,Pulborough
+2023-06-23,770000,RH20 2NX,D,N,F,Willow Cottage,,Spinney Lane,West Chiltington,Pulborough
+2023-06-23,481000,RH20 1AW,D,N,F,12,,Chestnut Walk,,Pulborough
+2023-06-22,401050,RH20 4DH,S,N,F,2,,North Street,Storrington,Pulborough
+2023-06-22,470000,RH20 3RE,D,Y,F,6,,Shelley Place,Thakeham,Pulborough
+2023-06-22,675000,RH20 3RA,D,Y,F,7,,Vineyards Close,Washington,Pulborough
+2023-06-22,785000,RH20 1NP,D,N,F,Brambledown Cottage,,Bury Common,Bury,Pulborough
+2023-06-21,801250,RH20 1AP,D,N,F,2,,London Road,,Pulborough
+2023-06-16,385000,RH20 3RA,T,Y,F,6,,Vineyards Close,Washington,Pulborough
+2023-06-16,162000,RH20 2AN,F,N,L,32,Flat,Link Lane,,Pulborough
+2023-06-14,970000,RH20 2JX,S,N,F,Hatches,158,Sinnocks,West Chiltington,Pulborough
+2023-06-13,292600,RH20 4LA,S,N,L,"Friars Oak, 5A",,Church Street,Storrington,Pulborough
+2023-06-12,950000,RH20 4ND,D,N,F,Stablebrook,,Wisborough Lane,Storrington,Pulborough
+2023-06-09,713000,RH20 4AU,D,N,F,3,,Stocks Mead,Washington,Pulborough
+2023-06-09,374000,RH20 3ES,S,N,F,6,,Hardbarrow Woods,Thakeham,Pulborough
+2023-06-05,440000,RH20 3LB,S,N,F,9,,Hillcrest Drive,Ashington,Pulborough
+2023-06-05,415000,RH20 2NE,D,N,F,Tyllian,,Nyetimber Copse,West Chiltington,Pulborough
+2023-05-31,885000,RH20 2QY,D,N,F,Acorns,,Crossways,West Chiltington,Pulborough
+2023-05-31,785000,RH20 2PS,D,N,F,3,,Harborough Close,,Pulborough
+2023-05-26,330000,RH20 3BW,S,N,F,19,,Montpelier Gardens,Washington,Pulborough
+2023-05-26,295000,RH20 1LT,T,N,F,11,,Brookland Way,Coldwaltham,Pulborough
+2023-05-26,475000,RH20 1LF,S,N,F,Little Fowlers,,Old London Road,Coldwaltham,Pulborough
+2023-05-25,500000,RH20 4PG,D,N,F,53,,Spierbridge Road,Storrington,Pulborough
+2023-05-25,478000,RH20 4GW,S,N,F,14,,Holm Oak,Storrington,Pulborough
+2023-05-25,575000,RH20 3RA,D,Y,F,2,,Vineyards Close,Washington,Pulborough
+2023-05-23,432250,RH20 3RE,D,Y,F,2,,Shelley Place,Thakeham,Pulborough
+2023-05-22,570000,RH20 3RA,D,Y,F,11,,Vineyards Close,Washington,Pulborough
+2023-05-19,513000,RH20 3QR,D,Y,F,33,,Penn Stone Way,Thakeham,Pulborough
+2023-05-19,192000,RH20 1LT,F,N,L,20,,Brookland Way,Coldwaltham,Pulborough
+2023-05-19,410000,RH20 1AS,D,N,F,"Laurel Cottage, 21",,London Road,,Pulborough
+2023-05-15,467500,RH20 3LD,S,N,F,4,,Timberlea Close,Ashington,Pulborough
+2023-05-15,695000,RH20 3GU,D,N,F,41,,Watermeadow Lane,Storrington,Pulborough
+2023-05-12,475000,RH20 4JA,D,N,F,3,,Amberley Close,Storrington,Pulborough
+2023-05-12,605000,RH20 3JR,D,N,F,Coconino,,London Road,Ashington,Pulborough
+2023-05-10,407000,RH20 3JN,S,N,F,3,,Morleys,Ashington,Pulborough
+2023-05-05,585000,RH20 1LF,D,N,F,Appledown,,Old London Road,Coldwaltham,Pulborough
+2023-05-03,480000,RH20 4QY,D,N,F,6,,Faithfull Crescent,Storrington,Pulborough
+2023-05-03,268000,RH20 4DF,T,N,F,21,,Swan Close,Storrington,Pulborough
+2023-05-02,450000,RH20 3HB,D,N,F,Merryhill Corner,,Merrywood Lane,Thakeham,Pulborough
+2023-04-28,413500,RH20 4DF,T,N,F,29,,Swan Close,Storrington,Pulborough
+2023-04-28,1800000,RH20 1PS,D,N,F,The Smithy,,The Street,Sutton,Pulborough
+2023-04-26,167750,RH20 4FN,F,N,L,Foxmead Court,26,Meadowside,Storrington,Pulborough
+2023-04-26,735000,RH20 2ND,D,N,F,Haycourts,,Nyetimber Lane,West Chiltington,Pulborough
+2023-04-20,430000,RH20 4GL,S,N,F,23,,The Glade,Storrington,Pulborough
+2023-04-20,615000,RH20 3LB,D,N,F,21,,Hillcrest Drive,Ashington,Pulborough
+2023-04-18,475000,RH20 3NX,D,N,F,23,,Rother Close,Storrington,Pulborough
+2023-04-18,950000,RH20 2QU,D,N,F,Blue Ridge,,Lordings Lane,West Chiltington,Pulborough
+2023-04-17,341000,RH20 4EH,T,N,F,14,,Ravenscroft,Storrington,Pulborough
+2023-04-14,848000,RH20 3AZ,D,N,F,Firtree Cottage,,Billingshurst Road,Ashington,Pulborough
+2023-04-14,1180000,RH20 2DR,D,N,F,Parkview,,Old Mill Place,,Pulborough
+2023-04-14,648000,RH20 2AD,D,N,F,The Crest,,Rectory Lane,,Pulborough
+2023-04-06,208000,RH20 1AL,F,N,L,20,,Arun Prospect,,Pulborough
+2023-04-05,1200000,RH20 2GX,D,N,F,2,,Chilton Gate,,Pulborough
+2023-04-05,850000,RH20 1PF,D,N,F,The Berries,,The Street,Bury,Pulborough
+2023-04-04,474000,RH20 1AN,D,N,F,45,,Chestnut Walk,,Pulborough
+2023-04-03,410000,RH20 1SA,D,N,F,9,,Chapel Close,Watersfield,Pulborough
+2023-03-31,170000,RH20 4EQ,F,N,L,76,,Meadowside,Storrington,Pulborough
+2023-03-31,810000,RH20 2NE,D,N,F,Ranmoor,,Nyetimber Copse,West Chiltington,Pulborough
+2023-03-31,220000,RH20 2LL,S,N,L,15,,Steele Close,West Chiltington,Pulborough
+2023-03-31,612000,RH20 1NN,D,N,F,Field House,,Burygate,Bury,Pulborough
+2023-03-31,360000,RH20 1AS,T,N,F,44,,London Road,,Pulborough
+2023-03-30,800000,RH20 1JB,D,N,F,Aldermoor,,School Lane,Fittleworth,Pulborough
+2023-03-29,325000,RH20 4FN,F,N,L,Foxmead Court,31,Meadowside,Storrington,Pulborough
+2023-03-29,799950,RH20 2QY,D,N,F,Crossways Corner,,Crossways,West Chiltington,Pulborough
+2023-03-28,450000,RH20 4LA,S,N,F,"Little Friars, 5",,Church Street,Storrington,Pulborough
+2023-03-27,242000,RH20 2BG,F,N,L,Barclays Court,Flat 3,Skeyne Drive,,Pulborough
+2023-03-24,400000,RH20 4NJ,S,N,F,37,,Hawthorn Way,Storrington,Pulborough
+2023-03-24,340000,RH20 4JR,T,N,F,9,,Dukes Row,Cootham,Pulborough
+2023-03-24,530000,RH20 4GL,S,N,F,21,,The Glade,Storrington,Pulborough
+2023-03-24,685000,RH20 3JX,D,N,F,Firle,,Church Lane,Ashington,Pulborough
+2023-03-24,817000,RH20 3JQ,D,N,F,23,,Cricketers Close,Ashington,Pulborough
+2023-03-23,435000,RH20 4QU,T,N,F,71,,Crowhurst Crescent,Storrington,Pulborough
+2023-03-20,162500,RH20 3EQ,S,N,F,The Corner Cottage,,Storrington Road,Thakeham,Pulborough
+2023-03-17,375000,RH20 4QU,T,N,F,26,,Crowhurst Crescent,Storrington,Pulborough
+2023-03-17,275000,RH20 3RA,F,N,L,15,,Vineyards Close,Washington,Pulborough
+2023-03-17,635000,RH20 2HE,D,N,F,Garden View,,The Street,Nutbourne,Pulborough
+2023-03-17,460000,RH20 1LB,S,N,F,New Cottages,1,London Road,Hardham,Pulborough
+2023-03-16,365000,RH20 4FN,F,N,L,Foxmead Court,7,Meadowside,Storrington,Pulborough
+2023-03-16,540000,RH20 1FJ,D,N,F,23,,Riverside,Codmore Hill,Pulborough
+2023-03-15,205000,RH20 4FN,F,N,L,Foxmead Court,15,Meadowside,Storrington,Pulborough
+2023-03-14,284000,RH20 3AR,S,N,F,5,,Penn Gardens,Ashington,Pulborough
+2023-03-09,757500,RH20 3GW,D,N,F,Abingworth Mews,Rowan House,Abingworth Crescent,Thakeham,Pulborough
+2023-03-09,865000,RH20 1AX,D,N,F,8,,Waters Edge,,Pulborough
+2023-03-06,653500,RH20 1FX,D,N,F,46,,Sinclair Drive,Codmore Hill,Pulborough
+2023-03-03,645000,RH20 3GL,D,N,F,3,,Blakiston Close,Ashington,Pulborough
+2023-03-03,800000,RH20 2NH,D,N,F,Drogeda,,Monkmead Lane,West Chiltington,Pulborough
+2023-03-03,238000,RH20 2AS,F,N,L,33,,Spinney North,,Pulborough
+2023-03-03,303750,RH20 2AP,T,N,F,45,,The Spinney,,Pulborough
+2023-03-02,370000,RH20 1LE,S,N,F,4,,Kings Lane,Coldwaltham,Pulborough
+2023-03-01,622000,RH20 4JQ,D,N,F,Amberglade,,Amberley Road,Storrington,Pulborough
+2023-02-28,1475000,RH20 2NG,D,N,F,York Lodge,,Silver Wood,West Chiltington,Pulborough
+2023-02-24,315000,RH20 4JW,T,N,F,5,,Cootham Green,Cootham,Pulborough
+2023-02-24,378000,RH20 1FL,D,N,F,8,,Harwood Close,Codmore Hill,Pulborough
+2023-02-24,130000,RH20 1BD,F,N,L,52,,Stane Street Close,Codmore Hill,Pulborough
+2023-02-23,415000,RH20 1FS,S,N,F,17,,Oddstones,Codmore Hill,Pulborough
+2023-02-21,570000,RH20 4QN,D,N,F,5,,Dean Way,Storrington,Pulborough
+2023-02-17,280000,RH20 3RA,F,N,L,16,,Vineyards Close,Washington,Pulborough
+2023-02-17,395000,RH20 3RA,D,Y,F,10,,Vineyards Close,Washington,Pulborough
+2023-02-17,585000,RH20 2PZ,D,N,F,Hatherley,,Mill Road,West Chiltington,Pulborough
+2023-02-14,277000,RH20 4PE,F,N,L,12,,Holly Court,Storrington,Pulborough
+2023-02-14,1500000,RH20 4FF,D,N,F,Fryern Court,,Fryern Park,Storrington,Pulborough
+2023-02-14,395000,RH20 3RA,T,Y,F,4,,Vineyards Close,Washington,Pulborough
+2023-02-14,170000,RH20 1BD,F,N,L,48,,Stane Street Close,Codmore Hill,Pulborough
+2023-02-10,544000,RH20 3BX,D,N,F,Camwood,,Mill Lane,Ashington,Pulborough
+2023-02-10,700000,RH20 2QW,D,N,F,Flint Cottage,,Haglands Copse,West Chiltington,Pulborough
+2023-02-10,685000,RH20 2QW,D,N,F,1,,Haglands Copse,West Chiltington,Pulborough
+2023-02-10,825000,RH20 1DZ,D,N,F,3,,Masons Way,Codmore Hill,Pulborough
+2023-02-10,474500,RH20 1AS,D,N,F,27,,London Road,,Pulborough
+2023-02-07,675000,RH20 2LB,D,N,F,Bramley,,Orchard Dell,West Chiltington,Pulborough
+2023-02-06,525000,RH20 4QS,D,N,F,4,,Dean Way,Storrington,Pulborough
+2023-02-06,550000,RH20 3BQ,D,N,F,Goodyers Farm,,Rock Road,Washington,Pulborough
+2023-02-03,1225000,RH20 1EH,D,N,F,Strawberry Trees,,Sandy Lane,Fittleworth,Pulborough
+2023-02-02,550000,RH20 3RA,D,Y,F,3,,Vineyards Close,Washington,Pulborough
+2023-01-31,380000,RH20 1DU,T,N,F,"Rose Cottage, 4",,Spiro Close,,Pulborough
+2023-01-27,275000,RH20 3RA,F,N,L,14,,Vineyards Close,Washington,Pulborough
+2023-01-27,200000,RH20 3GS,F,N,L,14,,Mousdell Close,Ashington,Pulborough
+2023-01-27,390000,RH20 2BP,S,N,F,111,,Lower Street,,Pulborough
+2023-01-25,450000,RH20 1LJ,D,N,F,16,,Silverdale,Coldwaltham,Pulborough
+2023-01-23,1115000,RH20 3AZ,D,N,F,Yew Tree Cottage,,Billingshurst Road,Ashington,Pulborough
+2023-01-20,390000,RH20 2JT,S,N,F,24,,The Juggs,West Chiltington,Pulborough
+2023-01-18,625000,RH20 4QP,D,N,F,90,,Hormare Crescent,Storrington,Pulborough
+2023-01-18,1175000,RH20 3HQ,D,N,F,Heaths,,Newhouse Lane,Storrington,Pulborough
+2023-01-13,225000,RH20 4LH,F,N,L,2,,Manor Court,Storrington,Pulborough
+2023-01-12,680000,RH20 3QE,D,N,F,4,,Chanctonbury,Ashington,Pulborough
+2023-01-12,580000,RH20 3NG,D,N,F,Cobwebs,,Thakeham Road,Storrington,Pulborough
+2023-01-11,585000,RH20 1FS,D,N,F,22,,Oddstones,Codmore Hill,Pulborough
+2023-01-09,349950,RH20 4RG,T,N,F,6,,Tritton Place,Cootham,Pulborough
+2023-01-06,480000,RH20 2DY,T,N,F,Wickford Cottage,,Mare Hill Road,,Pulborough
+2023-01-06,950000,RH20 1PA,D,N,F,Farriers,,The Street,Bury,Pulborough
+2023-01-05,420000,RH20 4RQ,S,N,F,25,,Willow Close,Storrington,Pulborough
+2023-01-05,720000,RH20 3QG,D,N,F,1,,Turnpike Way,Ashington,Pulborough
+2023-01-05,1165000,RH20 2PZ,D,N,F,Mawkins,,Mill Road,West Chiltington,Pulborough
+2023-01-05,400000,RH20 1LU,S,N,F,24,,Brookview,Coldwaltham,Pulborough
+2023-01-03,395000,RH20 3RA,D,Y,F,1,,Vineyards Close,Washington,Pulborough
+2022-12-22,1037500,RH20 1HR,D,N,F,Ashlyns,,Limbourne Lane,Fittleworth,Pulborough
+2022-12-21,874000,RH20 4AS,T,N,F,The Post Office House,,The Street,Washington,Pulborough
+2022-12-21,315000,RH20 2LX,D,N,F,3,,Wheelwrights,West Chiltington,Pulborough
+2022-12-21,2025000,RH20 2ES,D,Y,F,The Parlour,,Greatham Lane,Greatham,Pulborough
+2022-12-20,155000,RH20 4DQ,F,N,L,16,,White Horse Court,Storrington,Pulborough
+2022-12-20,390000,RH20 3RA,D,Y,F,17,,Vineyards Close,Washington,Pulborough
+2022-12-20,361000,RH20 3BS,T,N,F,11,,Spring Gardens,Washington,Pulborough
+2022-12-19,324750,RH20 4JW,T,N,F,16,,Cootham Green,Cootham,Pulborough
+2022-12-19,385000,RH20 3RA,T,Y,F,5,,Vineyards Close,Washington,Pulborough
+2022-12-19,187500,RH20 3GS,F,N,L,13,,Mousdell Close,Ashington,Pulborough
+2022-12-19,365000,RH20 2JD,S,N,F,23,,New Place Road,,Pulborough
+2022-12-16,550000,RH20 4PS,D,N,F,14,,Downsview Avenue,Storrington,Pulborough
+2022-12-16,378000,RH20 3GS,S,N,F,2,,Mousdell Close,Ashington,Pulborough
+2022-12-15,545000,RH20 3NB,D,N,F,25A,,Crescent Rise,Thakeham,Pulborough
+2022-12-14,835000,RH20 2NB,D,N,F,Ravensmead,,Heathfield Copse,West Chiltington,Pulborough
+2022-12-14,930000,RH20 1PE,D,N,F,65,,Coombe Crescent,Bury,Pulborough
+2022-12-13,850000,RH20 3GU,D,N,F,25,,Watermeadow Lane,Storrington,Pulborough
+2022-12-12,575000,RH20 4JZ,D,N,F,5,,Turners Mead,Storrington,Pulborough
+2022-12-12,415000,RH20 3AS,S,N,F,Briar Cottage,,Rectory Lane,Ashington,Pulborough
+2022-12-09,415000,RH20 3QP,S,N,F,11,,Thompson Drive,Storrington,Pulborough
+2022-12-09,575000,RH20 3LZ,D,N,F,2,,Hillside Road,Storrington,Pulborough
+2022-12-08,186750,RH20 3GW,T,N,L,15,,Abingworth Crescent,Thakeham,Pulborough
+2022-12-07,1010000,RH20 3BA,D,N,F,1,,Holly Gate,Ashington,Pulborough
+2022-12-06,635000,RH20 4QR,D,N,F,102,,Hormare Crescent,Storrington,Pulborough
+2022-12-06,795000,RH20 3NE,D,N,F,8,,Heatherlands,Storrington,Pulborough
+2022-12-06,1250000,RH20 3HS,D,N,F,Arborgarth,,Bracken Lane,Storrington,Pulborough
+2022-12-06,1148000,RH20 2QY,D,N,F,Briarwood Cottage,,Crossways,West Chiltington,Pulborough
+2022-12-06,190000,RH20 1FE,F,N,L,Wey House,8,Spiro Close,,Pulborough
+2022-12-05,1110000,RH20 2RD,D,N,F,Brackenhill,,Grove Lane,West Chiltington,Pulborough
+2022-12-02,305000,RH20 4EY,T,N,F,5,,Cassidy Place,Storrington,Pulborough
+2022-12-02,900000,RH20 3AS,D,N,F,The Squirrels,,Rectory Lane,Ashington,Pulborough
+2022-12-01,1210000,RH20 2EF,D,N,F,Applewood,,Tudor Close,,Pulborough
+2022-11-30,1215000,RH20 2PF,D,N,F,Monkswood,,Monkmead Lane,West Chiltington,Pulborough
+2022-11-29,695000,RH20 4JZ,D,N,F,11,,Turners Mead,Storrington,Pulborough
+2022-11-29,400000,RH20 3QD,T,N,F,3,,Warminghurst Close,Ashington,Pulborough
+2022-11-29,832500,RH20 3DL,D,N,F,6,,Church Close,Ashington,Pulborough
+2022-11-25,415000,RH20 4EP,D,N,F,54,,John Ireland Way,Washington,Pulborough
+2022-11-25,850000,RH20 2PW,D,N,F,Leigh Cottage,,Harborough Hill,,Pulborough
+2022-11-25,950000,RH20 2NG,D,N,F,Cornerways,,Silver Wood,West Chiltington,Pulborough
+2022-11-25,202000,RH20 1AH,F,N,L,Westminster House,Flat 6,Station Road,,Pulborough
+2022-11-24,277000,RH20 3NJ,S,N,F,23,,Sullington Copse,Storrington,Pulborough
+2022-11-24,715000,RH20 1ER,T,N,F,Wayside,,Tripp Hill,Fittleworth,Pulborough
+2022-11-23,399950,RH20 1LU,S,N,F,13,,Brookview,Coldwaltham,Pulborough
+2022-11-23,565000,RH20 1AS,D,N,F,20,,London Road,,Pulborough
+2022-11-22,920000,RH20 1LF,D,N,F,Church House,,Old London Road,Coldwaltham,Pulborough
+2022-11-18,747500,RH20 4AS,D,N,F,Downlands,,The Street,Washington,Pulborough
+2022-11-18,450000,RH20 3QA,S,N,F,1,,Puttick Close,Storrington,Pulborough
+2022-11-18,625000,RH20 1LP,D,N,F,29,,Arun Vale,Coldwaltham,Pulborough
+2022-11-17,459000,RH20 2QQ,S,N,F,1,,Mill End,West Chiltington,Pulborough
+2022-11-17,357000,RH20 2JL,T,N,F,154,,Glebelands,,Pulborough
+2022-11-16,333000,RH20 4JR,T,N,F,8,,Dukes Row,Cootham,Pulborough
+2022-11-16,425000,RH20 3DL,S,N,F,13,,Church Close,Ashington,Pulborough
+2022-11-16,235000,RH20 2HT,F,N,L,9,,Barnhouse Close,,Pulborough
+2022-11-15,530000,RH20 4PX,D,N,F,11,,Denshire Drive,Storrington,Pulborough
+2022-11-15,405000,RH20 4NL,D,N,F,20,,Hawthorn Way,Storrington,Pulborough
+2022-11-15,424500,RH20 4NH,T,N,F,3,,Old Mill Drive,Storrington,Pulborough
+2022-11-15,1100597,RH20 3HY,D,N,F,Longbury Covert,,Hampers Lane,Storrington,Pulborough
+2022-11-15,440000,RH20 1FX,T,N,F,54,,Sinclair Drive,Codmore Hill,Pulborough
+2022-11-14,549950,RH20 1LN,D,N,F,"The Brambles, 3",,Mapleleaf,Coldwaltham,Pulborough
+2022-11-11,239000,RH20 4PR,F,N,L,Mill House,11,Hawthorn Way,Storrington,Pulborough
+2022-11-11,775000,RH20 4ND,D,N,F,Kurial,,Wisborough Lane,Storrington,Pulborough
+2022-11-11,812500,RH20 4LP,D,N,F,Capella,,Kithurst Lane,Storrington,Pulborough
+2022-11-11,835000,RH20 4BE,D,N,F,16,,Warren Croft,Cootham,Pulborough
+2022-11-11,1100000,RH20 2EF,D,N,F,Wingfield Cottage,,Tudor Close,,Pulborough
+2022-11-08,685000,RH20 2DW,D,N,F,84,,Lower Street,,Pulborough
+2022-11-04,975000,RH20 4JQ,D,N,F,Fontwell,,Amberley Road,Storrington,Pulborough
+2022-11-04,560000,RH20 3AS,D,N,F,Winders,,Rectory Lane,Ashington,Pulborough
+2022-11-02,1100000,RH20 1EP,D,N,F,Lower Street House,,Lower Street,Fittleworth,Pulborough
+2022-11-01,680000,RH20 4JN,D,N,F,Talbot Cottage,,Pulborough Road,Cootham,Pulborough
+2022-11-01,965000,RH20 3JW,D,N,F,Maple Lodge,,Thakeham Copse,Storrington,Pulborough
+2022-10-28,510000,RH20 4NL,S,N,F,32,,Hawthorn Way,Storrington,Pulborough
+2022-10-28,370000,RH20 1PE,S,N,F,11A,,Coombe Crescent,Bury,Pulborough
+2022-10-28,854000,RH20 1LS,D,N,F,Saxons,,Brook Lane,Coldwaltham,Pulborough
+2022-10-27,865000,RH20 1NP,D,N,F,Croft Cottage,,Bury Common,Bury,Pulborough
+2022-10-27,350000,RH20 1FT,T,N,F,2,,Bartram Close,,Pulborough
+2022-10-26,315000,RH20 4BN,D,N,F,Wayside,,Manleys Hill,Storrington,Pulborough
+2022-10-24,635000,RH20 4QT,D,N,F,13,,Hormare Crescent,Storrington,Pulborough
+2022-10-21,385000,RH20 4EG,S,N,F,9,,Meadowside,Storrington,Pulborough
+2022-10-21,490000,RH20 3GL,D,N,F,12,,Blakiston Close,Ashington,Pulborough
+2022-10-18,490000,RH20 3EG,D,N,F,9,,Furze Common Road,Thakeham,Pulborough
+2022-10-17,685000,RH20 2LB,D,N,F,Bel-Air,,Orchard Dell,West Chiltington,Pulborough
+2022-10-15,1150000,RH20 3EE,D,N,F,Greenacre,,Storrington Road,Thakeham,Pulborough
+2022-10-14,800000,RH20 4JE,D,N,F,26,,Amberley Road,Storrington,Pulborough
+2022-10-14,292000,RH20 3NP,S,N,F,52,,Beech Grove,Storrington,Pulborough
+2022-10-12,525250,RH20 4QR,D,N,F,113,,Hormare Crescent,Storrington,Pulborough
+2022-10-12,850000,RH20 4HH,S,N,F,Oakhurst,,Hurston Lane,Storrington,Pulborough
+2022-10-12,649950,RH20 2EG,D,N,F,5,,St Marys Close,,Pulborough
+2022-10-12,680000,RH20 2BL,D,N,F,4A,,Lower Street,,Pulborough
+2022-10-11,885000,RH20 3QS,D,N,F,2,,Strawberry Close,Thakeham,Pulborough
+2022-10-07,345000,RH20 2BP,T,N,F,105,,Lower Street,,Pulborough
+2022-10-06,430000,RH20 4BG,S,N,F,5,,Shermanbury Drive,Storrington,Pulborough
+2022-10-06,350000,RH20 3PB,S,N,F,7,,Banks Croft,Storrington,Pulborough
+2022-10-06,343500,RH20 2JH,T,N,F,113,,Glebelands,,Pulborough
+2022-10-05,585000,RH20 4NU,D,N,F,Woodway,,Nightingale Lane,Storrington,Pulborough
+2022-10-05,265000,RH20 4FJ,F,N,L,3,,Strome Park,Storrington,Pulborough
+2022-10-05,750000,RH20 3EP,D,N,F,The Reading Rooms,,The Street,Thakeham,Pulborough
+2022-10-04,600000,RH20 3LP,D,N,F,25,,Rectory Close,Ashington,Pulborough
+2022-10-04,472500,RH20 3LG,S,N,F,3,,Windmill Close,Ashington,Pulborough
+2022-10-04,680000,RH20 3HR,D,N,F,Tumps Cottage,,Bracken Lane,Storrington,Pulborough
+2022-10-04,1200000,RH20 3DZ,D,N,F,Chequers,,Bramble Lane,Thakeham,Pulborough
+2022-10-03,455000,RH20 2GY,D,N,F,3,,Spinney Mews,,Pulborough
+2022-09-30,285026,RH20 4DH,S,N,F,11,,North Street,Storrington,Pulborough
+2022-09-30,355000,RH20 3NY,S,N,F,1,,Rainbow Way,Storrington,Pulborough
+2022-09-30,280000,RH20 3GW,F,N,L,3,Flat 2,Abingworth Crescent,Thakeham,Pulborough
+2022-09-30,665000,RH20 2PY,S,N,F,Palm Cottage,,Mill Road,West Chiltington,Pulborough
+2022-09-30,525000,RH20 2DX,D,N,F,Mole Cottage,,Mare Hill Common,,Pulborough
+2022-09-30,2000000,RH20 1HD,D,N,F,Downfield Cottage,,,Westburton,Pulborough
+2022-09-29,365000,RH20 3LP,S,N,F,1,,Rectory Close,Ashington,Pulborough
+2022-09-28,855000,RH20 4TB,D,N,F,3,,The Gables,Storrington,Pulborough
+2022-09-28,1340000,RH20 2PW,D,N,F,Palings,,Harborough Hill,,Pulborough
+2022-09-28,1295000,RH20 2GX,D,N,F,1,,Chilton Gate,,Pulborough
+2022-09-27,1200000,RH20 1NQ,S,N,F,Beacon House,,London Road,Watersfield,Pulborough
+2022-09-26,350000,RH20 3QA,D,N,F,12,,Puttick Close,Storrington,Pulborough
+2022-09-23,735000,RH20 4NX,D,N,F,13,,Nightingale Close,Storrington,Pulborough
+2022-09-23,865000,RH20 3JH,D,N,F,Brackenhurst,,Georges Lane,Storrington,Pulborough
+2022-09-22,370000,RH20 2JS,D,N,F,Lune Cot,,Juggs Lane,West Chiltington,Pulborough
+2022-09-21,950000,RH20 3NG,D,N,F,Pine Lodge,,Thakeham Road,Storrington,Pulborough
+2022-09-16,390000,RH20 4BF,F,N,L,8,,Birklands,Storrington,Pulborough
+2022-09-16,354000,RH20 3JR,S,N,F,Broadbridge Cottages,3,London Road,Ashington,Pulborough
+2022-09-16,475000,RH20 3JL,S,N,F,13,,Concorde Close,Storrington,Pulborough
+2022-09-16,480000,RH20 1LW,D,N,F,Daba,,Church Lane,Coldwaltham,Pulborough
+2022-09-15,325000,RH20 4FN,F,N,L,Foxmead Court,3,Meadowside,Storrington,Pulborough
+2022-09-15,990000,RH20 2QU,D,N,F,Timaru,,Lordings Lane,West Chiltington,Pulborough
+2022-09-14,556500,RH20 4JZ,D,N,F,1,,Turners Mead,Storrington,Pulborough
+2022-09-13,990000,RH20 3BX,D,N,F,Shona,,Mill Lane,Ashington,Pulborough
+2022-09-12,350000,RH20 3GZ,T,N,F,4,,Massey Close,Thakeham,Pulborough
+2022-09-12,315000,RH20 3EU,T,N,F,15,,Linfield Copse,Thakeham,Pulborough
+2022-09-12,1700000,RH20 2SN,D,N,F,"Acorn House, 1",,Panners Drive,,Pulborough
+2022-09-09,490000,RH20 3LS,S,N,F,1,,Pulla Hill Drive,Storrington,Pulborough
+2022-09-09,370000,RH20 3LQ,S,N,F,55,,The Sands,Ashington,Pulborough
+2022-09-09,360000,RH20 1SA,D,N,F,17,,Chapel Close,Watersfield,Pulborough
+2022-09-08,650000,RH20 4QN,D,N,F,65,,Dean Way,Storrington,Pulborough
+2022-09-08,2174999,RH20 3JF,D,N,F,Longbury Hill House,,Veras Walk,Storrington,Pulborough
+2022-09-07,730000,RH20 4PL,D,N,F,5,,Garden Close,Storrington,Pulborough
+2022-09-07,460000,RH20 3NB,S,N,F,13,,Crescent Rise,Thakeham,Pulborough
+2022-09-07,425500,RH20 3LE,T,N,F,9,,Hillcrest Close,Ashington,Pulborough
+2022-09-07,695000,RH20 1BJ,D,N,F,White Lodge,,Hill Farm Lane,Codmore Hill,Pulborough
+2022-09-07,352500,RH20 1AZ,T,N,F,1,,Lyntons,,Pulborough
+2022-09-06,870000,RH20 2JQ,D,N,F,Santa Monica,,Foxfields,West Chiltington,Pulborough
+2022-09-01,930000,RH20 1NX,D,N,F,Brockhurst Farm,Thorndale House,London Road,Watersfield,Pulborough
+2022-08-31,500000,RH20 4PS,D,N,F,17,,Downsview Avenue,Storrington,Pulborough
+2022-08-31,1145000,RH20 3HS,S,N,F,Fledglings,,Bracken Lane,Storrington,Pulborough
+2022-08-31,235000,RH20 2HT,F,N,L,19,,Barnhouse Close,,Pulborough
+2022-08-30,550000,RH20 3LP,D,N,F,26,,Rectory Close,Ashington,Pulborough
+2022-08-26,240000,RH20 2RX,F,N,L,21,,Morris Way,West Chiltington,Pulborough
+2022-08-26,147000,RH20 2DA,F,N,L,33,,Rivermead,,Pulborough
+2022-08-26,420000,RH20 2BP,S,N,F,103,,Lower Street,,Pulborough
+2022-08-26,1250000,RH20 1BJ,D,N,F,The Deck House,,Hill Farm Lane,Codmore Hill,Pulborough
+2022-08-25,375000,RH20 3EU,T,N,F,31,,Linfield Copse,Thakeham,Pulborough
+2022-08-24,795000,RH20 3BE,D,N,F,5,,Mill Mead,Ashington,Pulborough
+2022-08-22,1500000,RH20 4DD,D,N,F,Rosha House,,Heather Way,Storrington,Pulborough
+2022-08-19,560000,RH20 3NB,S,N,F,25,,Crescent Rise,Thakeham,Pulborough
+2022-08-19,330000,RH20 1LU,S,N,F,7,,Brookview,Coldwaltham,Pulborough
+2022-08-18,145000,RH20 4DQ,F,N,L,10,,White Horse Court,Storrington,Pulborough
+2022-08-16,517000,RH20 3QD,D,N,F,24,,Warminghurst Close,Ashington,Pulborough
+2022-08-15,1006000,RH20 1JH,D,N,F,Wheelwrights,,Bedham Road,Fittleworth,Pulborough
+2022-08-12,592500,RH20 4LU,D,N,F,8,,Melton Drive,Storrington,Pulborough
+2022-08-12,520000,RH20 3EG,S,N,F,49,,Furze Common Road,Thakeham,Pulborough
+2022-08-12,87500,RH20 1RG,F,N,L,Riverside Court,Flat 12,Station Road,,Pulborough
+2022-08-11,400000,RH20 4LW,S,N,F,2A,,Fern Road,Storrington,Pulborough
+2022-08-10,675000,RH20 4BE,D,N,F,10,,Warren Croft,Cootham,Pulborough
+2022-08-10,825000,RH20 3NH,D,N,F,Chanctonbury View,,Marley Way,Storrington,Pulborough
+2022-08-10,200000,RH20 3EG,T,N,F,22,,Furze Common Road,Thakeham,Pulborough
+2022-08-10,235000,RH20 2BE,F,N,L,Belgrave Court,Flat 7,Skeyne Drive,,Pulborough
+2022-08-10,699950,RH20 1LH,D,N,F,Little Splinters,,London Road,Coldwaltham,Pulborough
+2022-08-08,345000,RH20 4RG,S,N,F,2,,Tritton Place,Cootham,Pulborough
+2022-08-08,650000,RH20 3NX,D,N,F,25,,Rother Close,Storrington,Pulborough
+2022-08-05,440000,RH20 2GY,S,N,F,2,,Spinney Mews,,Pulborough
+2022-08-04,186000,RH20 3BW,F,N,L,27,,Montpelier Gardens,Washington,Pulborough
+2022-08-03,775000,RH20 3HF,D,N,F,Little Timbers,,Tudor Village,Storrington,Pulborough
+2022-08-03,440000,RH20 2GY,S,N,F,1,,Spinney Mews,,Pulborough
+2022-08-01,503000,RH20 2PH,S,N,F,10,,The Birches,West Chiltington,Pulborough
+2022-07-29,370000,RH20 1PE,T,N,F,42,,Coombe Crescent,Bury,Pulborough
+2022-07-29,218000,RH20 1AU,F,N,L,Poplar Court,10,Station Road,,Pulborough
+2022-07-27,540000,RH20 4BF,F,N,L,10,,Birklands,Storrington,Pulborough
+2022-07-27,200000,RH20 1FJ,S,N,L,50,,Riverside,Codmore Hill,Pulborough
+2022-07-26,350000,RH20 4LT,S,N,L,1,,Chanctonbury Walk,Storrington,Pulborough
+2022-07-26,190000,RH20 4LE,F,N,F,The Studio,Ground Floor,Rosemary Close,Storrington,Pulborough
+2022-07-26,490000,RH20 4HX,D,N,F,12,,Hormare Crescent,Storrington,Pulborough
+2022-07-26,350000,RH20 3ES,S,N,F,5,,Hardbarrow Woods,Thakeham,Pulborough
+2022-07-26,1280000,RH20 2PF,D,N,F,Koroboree,,Monkmead Lane,West Chiltington,Pulborough
+2022-07-21,675000,RH20 3EP,D,N,F,Barn Cottage,,The Street,Thakeham,Pulborough
+2022-07-20,667000,RH20 4EP,D,N,F,8,,John Ireland Way,Washington,Pulborough
+2022-07-20,820000,RH20 3GW,D,N,F,9,,Abingworth Crescent,Thakeham,Pulborough
+2022-07-18,395000,RH20 3PX,S,N,F,1,,Rowan Close,Storrington,Pulborough
+2022-07-15,795000,RH20 3BZ,D,N,F,Oakhurst,,Ivy Lane,Ashington,Pulborough
+2022-07-15,445000,RH20 1JD,S,N,F,1,,School Close,Fittleworth,Pulborough
+2022-07-14,390000,RH20 3LP,S,N,F,12,,Rectory Close,Ashington,Pulborough
+2022-07-14,265000,RH20 3GH,F,N,L,5,,Linfield Lane,Ashington,Pulborough
+2022-07-12,1225000,RH20 3JH,D,N,F,Wrens Hill,,Georges Lane,Storrington,Pulborough
+2022-07-08,305000,RH20 4NY,T,N,F,2,,Mant Close,Storrington,Pulborough
+2022-07-06,490000,RH20 4HY,D,N,F,15,,Longland Avenue,Storrington,Pulborough
+2022-07-06,760000,RH20 2ND,D,N,F,Tamarisk,,Nyetimber Lane,West Chiltington,Pulborough
+2022-07-01,325000,RH20 4DF,T,N,F,4,,Swan Close,Storrington,Pulborough
+2022-07-01,625000,RH20 3JQ,D,N,F,9,,Cricketers Close,Ashington,Pulborough
+2022-07-01,425000,RH20 3JN,D,N,F,2,,Morleys,Ashington,Pulborough
+2022-07-01,375000,RH20 3EJ,S,N,F,Woodlands Cottages,2,Storrington Road,Thakeham,Pulborough
+2022-07-01,875000,RH20 2QU,D,N,F,Berrington Lodge,,Lordings Lane,West Chiltington,Pulborough
+2022-07-01,417250,RH20 2JT,S,N,F,11,,The Juggs,West Chiltington,Pulborough
+2022-06-30,650000,RH20 4QT,D,N,F,36,,Hormare Crescent,Storrington,Pulborough
+2022-06-30,640000,RH20 4JL,D,N,F,Tree Tops,,Fox Court,Storrington,Pulborough
+2022-06-30,675550,RH20 4JL,D,N,F,13,,Fox Court,Storrington,Pulborough
+2022-06-28,475000,RH20 4QN,D,N,F,1,,Dean Way,Storrington,Pulborough
+2022-06-28,235000,RH20 2BD,F,N,L,Beverley Court,Flat 1,Skeyne Drive,,Pulborough
+2022-06-27,1500000,RH20 3EP,D,N,F,The Old Schoolhouse,,The Street,Thakeham,Pulborough
+2022-06-27,675000,RH20 1PE,D,N,F,57,,Coombe Crescent,Bury,Pulborough
+2022-06-24,511000,RH20 4QL,D,N,F,5,,Rapley Avenue,Storrington,Pulborough
+2022-06-24,336500,RH20 1PE,T,N,F,25,,Coombe Crescent,Bury,Pulborough
+2022-06-24,390000,RH20 1AS,T,N,F,39,,London Road,,Pulborough
+2022-06-24,925000,RH20 1AB,D,N,F,Coppice Hanger,,Church Hill,,Pulborough
+2022-06-23,625000,RH20 3EH,D,N,F,Serassa,,High Bar Lane,Thakeham,Pulborough
+2022-06-22,110000,RH20 4PP,F,N,L,Havant House,Flat 2,Mill Lane,Storrington,Pulborough
+2022-06-21,650000,RH20 3QF,D,N,F,9,,Posthorses,Ashington,Pulborough
+2022-06-21,410410,RH20 2JH,S,N,F,105,,Glebelands,,Pulborough
+2022-06-20,1225000,RH20 3AF,D,N,F,The Clearing,,Rock Road,Storrington,Pulborough
+2022-06-20,520000,RH20 2QB,D,N,F,45,,Martlets,West Chiltington,Pulborough
+2022-06-17,520000,RH20 4LQ,D,N,F,Field Cottage,,Browns Lane,Storrington,Pulborough
+2022-06-17,1615000,RH20 3JF,D,N,F,Heathside,,Veras Walk,Storrington,Pulborough
+2022-06-14,710000,RH20 3GW,D,N,F,14,,Abingworth Crescent,Thakeham,Pulborough
+2022-06-10,697000,RH20 4JE,D,N,F,29,,Amberley Road,Storrington,Pulborough
+2022-06-10,430000,RH20 3JU,S,N,F,5,,Woelfs Close,Ashington,Pulborough
+2022-06-10,160000,RH20 2BW,F,N,L,"The Cedars, 74",Flat 2,Lower Street,,Pulborough
+2022-06-10,294000,RH20 2BP,T,N,F,109,,Lower Street,,Pulborough
+2022-06-10,235000,RH20 2BD,F,N,L,Beverley Court,Flat 7,Skeyne Drive,,Pulborough
+2022-06-08,342500,RH20 3NX,S,N,F,13,,Rother Close,Storrington,Pulborough
+2022-06-07,875000,RH20 4EP,D,N,F,35,,John Ireland Way,Washington,Pulborough
+2022-06-06,400000,RH20 1BB,S,N,F,"Sopers Cottage, 13",,Sopers,Codmore Hill,Pulborough
+2022-06-01,660000,RH20 3JQ,D,N,F,31,,Cricketers Close,Ashington,Pulborough
+2022-06-01,1350000,RH20 1EH,D,N,F,The Knoll House,,Sandy Lane,Fittleworth,Pulborough
+2022-05-31,587500,RH20 4QA,D,N,F,8,,Melton Close,Storrington,Pulborough
+2022-05-31,1200000,RH20 2NL,D,N,F,Old Well Cottage,,Common Hill,West Chiltington,Pulborough
+2022-05-27,185000,RH20 4FN,F,N,L,Foxmead Court,28,Meadowside,Storrington,Pulborough
+2022-05-27,282000,RH20 4FJ,F,N,L,5,,Strome Park,Storrington,Pulborough
+2022-05-27,673000,RH20 3LZ,D,N,F,23,,Hillside Road,Storrington,Pulborough
+2022-05-27,1285000,RH20 3JF,D,N,F,Silver Trees,,Veras Walk,Storrington,Pulborough
+2022-05-27,178000,RH20 2AS,F,N,L,1,,Spinney North,,Pulborough
+2022-05-26,615000,RH20 3HY,D,N,F,Little Cottage,,Hampers Lane,Storrington,Pulborough
+2022-05-25,950000,RH20 2HE,D,N,F,Nutlea,,The Street,Nutbourne,Pulborough
+2022-05-25,425000,RH20 2AN,S,N,F,8,,Link Lane,,Pulborough
+2022-05-25,725000,RH20 1DZ,D,N,F,25,,Masons Way,Codmore Hill,Pulborough
+2022-05-24,645000,RH20 1AH,D,N,F,Silver Leigh,,Station Road,,Pulborough
+2022-05-20,610000,RH20 2JP,D,N,F,6,,Pond Rise,West Chiltington,Pulborough
+2022-05-16,620000,RH20 3LP,D,N,F,29,,Rectory Close,Ashington,Pulborough
+2022-05-13,518000,RH20 3NH,S,N,F,8,,Marley Way,Storrington,Pulborough
+2022-05-13,168000,RH20 2AT,F,N,L,32,,Spinney North,,Pulborough
+2022-05-13,223000,RH20 1DU,F,N,L,19,,Spiro Close,,Pulborough
+2022-05-12,726000,RH20 4NX,D,N,F,3,,Nightingale Close,Storrington,Pulborough
+2022-05-12,730000,RH20 3HL,D,N,F,Fairhaven,,Hillside Walk,Storrington,Pulborough
+2022-05-10,599950,RH20 2BX,S,N,F,129,,Lower Street,,Pulborough
+2022-05-06,480000,RH20 3NB,D,N,F,34,,Crescent Rise,Thakeham,Pulborough
+2022-05-06,220000,RH20 2BG,F,N,L,Barclays Court,Flat 5,Skeyne Drive,,Pulborough
+2022-05-06,185000,RH20 1FF,F,N,L,Arun House,8,Spiro Close,,Pulborough
+2022-05-04,695000,RH20 3LZ,D,N,F,7,,Hillside Road,Storrington,Pulborough
+2022-05-04,375000,RH20 3EU,T,N,F,7,,Linfield Copse,Thakeham,Pulborough
+2022-05-04,1098500,RH20 2NE,D,N,F,Calday,,Nyetimber Copse,West Chiltington,Pulborough
+2022-04-29,802500,RH20 4HP,D,N,F,Charity Farm,Oak Barn,Pulborough Road,Cootham,Pulborough
+2022-04-29,445000,RH20 3DB,T,N,F,26,,Fairfield Road,Ashington,Pulborough
+2022-04-29,915000,RH20 2NH,D,N,F,Glencroft,,Monkmead Lane,West Chiltington,Pulborough
+2022-04-29,615000,RH20 1BN,D,N,F,The Corner House,,Stane Street,Codmore Hill,Pulborough
+2022-04-29,210000,RH20 1AL,F,N,L,11,,Arun Prospect,,Pulborough
+2022-04-28,1247950,RH20 2PN,D,N,F,Timberdown,,Harborough Drive,,Pulborough
+2022-04-27,664000,RH20 4BE,D,N,F,21,,Warren Croft,Cootham,Pulborough
+2022-04-27,610000,RH20 4BE,D,N,F,1,,Warren Croft,Cootham,Pulborough
+2022-04-27,975000,RH20 2PB,D,N,F,Spindlewood,,Sunset Lane,West Chiltington,Pulborough
+2022-04-27,1009075,RH20 2HR,D,N,F,Woodside,,Stall House Lane,North Heath,Pulborough
+2022-04-27,1250000,RH20 2EF,D,N,F,Little House,,Tudor Close,,Pulborough
+2022-04-25,940000,RH20 4HJ,D,N,F,53,,Pulborough Road,Storrington,Pulborough
+2022-04-25,660000,RH20 2QW,D,N,F,3,,Haglands Copse,West Chiltington,Pulborough
+2022-04-25,334000,RH20 2AS,T,N,F,45,,Spinney North,,Pulborough
+2022-04-22,535000,RH20 2JR,D,N,F,10,,Holly Close,West Chiltington,Pulborough
+2022-04-21,626000,RH20 4HH,D,N,F,Bramlands,,Hurston Lane,Storrington,Pulborough
+2022-04-21,415500,RH20 2JL,S,N,F,104,,Glebelands,,Pulborough
+2022-04-21,610000,RH20 1FS,D,N,F,47,,Oddstones,Codmore Hill,Pulborough
+2022-04-20,597000,RH20 4LW,S,N,F,20,,Fern Road,Storrington,Pulborough
+2022-04-20,320000,RH20 4LG,T,N,F,7,,Browns Lane,Storrington,Pulborough
+2022-04-20,400000,RH20 4FP,F,N,L,19,,Orchard Gardens,Storrington,Pulborough
+2022-04-14,467000,RH20 1PS,S,N,F,Hillview,,The Street,Sutton,Pulborough
+2022-04-13,324750,RH20 4LQ,D,N,L,Garden Cottage,,Browns Lane,Storrington,Pulborough
+2022-04-13,484000,RH20 2HE,D,N,F,Mole End,,The Street,Nutbourne,Pulborough
+2022-04-12,319950,RH20 2JL,S,N,F,164,,Glebelands,,Pulborough
+2022-04-12,335000,RH20 2JG,S,N,F,20,,New Place Road,,Pulborough
+2022-04-08,534000,RH20 4QT,D,N,F,17,,Hormare Crescent,Storrington,Pulborough
+2022-04-08,362500,RH20 3EQ,S,N,F,Clayes Cottage,,Storrington Road,Thakeham,Pulborough
+2022-04-08,259950,RH20 2BG,F,N,L,Barclays Court,Flat 7,Skeyne Drive,,Pulborough
+2022-04-07,398000,RH20 4NH,S,N,F,5,,Old Mill Drive,Storrington,Pulborough
+2022-04-06,605000,RH20 3NR,D,N,F,12,,Woodside Close,Storrington,Pulborough
+2022-04-01,480000,RH20 4HY,D,N,F,3,,Longland Avenue,Storrington,Pulborough
+2022-04-01,215000,RH20 4GL,F,N,L,7,,The Glade,Storrington,Pulborough
+2022-04-01,485000,RH20 3PU,S,N,F,9,,Sanders Gate,Storrington,Pulborough
+2022-04-01,296250,RH20 3GT,T,N,L,11,,Leatherbottle Way,Storrington,Pulborough
+2022-04-01,193000,RH20 2DL,F,N,L,3,,Herons Rye,,Pulborough
+2022-04-01,640000,RH20 1FX,D,N,F,46,,Sinclair Drive,Codmore Hill,Pulborough
+2022-03-31,750000,RH20 4NB,S,N,F,24,,School Hill,Storrington,Pulborough
+2022-03-31,312000,RH20 4JE,T,N,F,9,,Amberley Road,Storrington,Pulborough
+2022-03-31,170000,RH20 2AT,F,N,L,18,,Spinney North,,Pulborough
+2022-03-30,685000,RH20 2PN,D,N,F,The Willdons,,Harborough Drive,,Pulborough
+2022-03-30,1300000,RH20 1PA,D,N,F,Campion House,,The Street,Bury,Pulborough
+2022-03-29,700000,RH20 4GJ,F,N,L,St. Joseph's Abbey,2,Greyfriars Lane,Storrington,Pulborough
+2022-03-29,1230000,RH20 3JF,D,N,F,Outwood,,Veras Walk,Storrington,Pulborough
+2022-03-29,1083000,RH20 3AG,D,N,F,Birch Holt,,Rock Road,Storrington,Pulborough
+2022-03-29,680000,RH20 2HU,D,N,F,15,,Curbey Close,West Chiltington,Pulborough
+2022-03-25,730000,RH20 4BT,D,N,F,Old House Cottage,,Manleys Hill,Storrington,Pulborough
+2022-03-25,502500,RH20 2BW,S,N,F,52,,Lower Street,,Pulborough
+2022-03-25,710000,RH20 1NB,D,N,F,Malt House,,London Road,Watersfield,Pulborough
+2022-03-25,210000,RH20 1FE,F,N,L,Wey House,22,Spiro Close,,Pulborough
+2022-03-24,329950,RH20 4QU,T,N,F,19,,Crowhurst Crescent,Storrington,Pulborough
+2022-03-23,1510000,RH20 3JF,D,N,F,Tree Tops,,Veras Walk,Storrington,Pulborough
+2022-03-22,555000,RH20 4EP,D,N,F,29,,John Ireland Way,Washington,Pulborough
+2022-03-22,592500,RH20 3JD,D,N,F,Oakwood Cottage,,Sanctuary Lane,Storrington,Pulborough
+2022-03-21,640000,RH20 4JF,D,N,F,6,,Plantation Way,Storrington,Pulborough
+2022-03-21,170000,RH20 4DQ,F,N,L,17,,White Horse Court,Storrington,Pulborough
+2022-03-21,540000,RH20 3GU,S,N,F,26,,Watermeadow Lane,Storrington,Pulborough
+2022-03-21,177500,RH20 2HT,F,N,L,2,,Barnhouse Close,,Pulborough
+2022-03-18,980000,RH20 4HH,D,N,F,Sunhurst,,Hurston Lane,Storrington,Pulborough
+2022-03-18,499950,RH20 3NT,D,N,F,3,,Brook Close,Storrington,Pulborough
+2022-03-18,475000,RH20 1PJ,T,N,F,5,,Cootes Cottages,Bignor,Pulborough
+2022-03-17,415000,RH20 1RJ,S,N,F,11,,Swan Corner,,Pulborough
+2022-03-16,550000,RH20 4HJ,D,N,F,41,,Pulborough Road,Storrington,Pulborough
+2022-03-16,675000,RH20 3NA,D,N,F,Alpen Rose,,Storrington Road,Thakeham,Pulborough
+2022-03-15,600000,RH20 3HG,D,N,F,Serena,,Woodlands Lane,Storrington,Pulborough
+2022-03-11,565000,RH20 1LP,D,N,F,48,,Arun Vale,Coldwaltham,Pulborough
+2022-03-10,442500,RH20 2AN,D,N,F,17,,Link Lane,,Pulborough
+2022-03-08,945000,RH20 4BJ,D,N,F,Dyke Cottage,,Fryern Road,Storrington,Pulborough
+2022-03-08,415000,RH20 3JH,D,N,F,April Cottage,,Georges Lane,Storrington,Pulborough
+2022-03-07,499000,RH20 1HJ,D,N,F,6,,Padwicks Field,Fittleworth,Pulborough
+2022-03-04,295000,RH20 4QZ,T,N,F,4,,Reed Close,Storrington,Pulborough
+2022-03-04,355000,RH20 4QU,T,N,F,51,,Crowhurst Crescent,Storrington,Pulborough
+2022-03-04,140000,RH20 4DQ,F,N,L,22,,White Horse Court,Storrington,Pulborough
+2022-03-03,220000,RH20 4PE,F,N,L,16,,Holly Court,Storrington,Pulborough
+2022-03-02,850000,RH20 2PN,D,N,F,Oakdene,,Harborough Drive,,Pulborough
+2022-03-02,735000,RH20 1DZ,D,N,F,3,,Masons Way,Codmore Hill,Pulborough
+2022-02-28,1525000,RH20 3HR,D,N,F,Hindover,,Bracken Lane,Storrington,Pulborough
+2022-02-25,712500,RH20 4JY,D,N,F,8,,Fox Dell,Storrington,Pulborough
+2022-02-25,337000,RH20 4DF,T,N,F,1,,Swan Close,Storrington,Pulborough
+2022-02-25,773000,RH20 3JD,D,N,F,Aotearoa,,Sanctuary Lane,Storrington,Pulborough
+2022-02-25,452500,RH20 3BG,D,N,F,4,,Willow Way,Ashington,Pulborough
+2022-02-23,875000,RH20 2PX,D,N,F,22,The Levels,Finches Lane,West Chiltington,Pulborough
+2022-02-23,550000,RH20 2GZ,F,Y,L,1,,Wells Place,West Chiltington,Pulborough
+2022-02-22,875000,RH20 3AZ,D,N,F,Oast Cottage,,Billingshurst Road,Ashington,Pulborough
+2022-02-21,235000,RH20 2DD,F,N,L,Arun Court,5,Lower Street,,Pulborough
+2022-02-18,470000,RH20 3GU,D,N,F,9,,Watermeadow Lane,Storrington,Pulborough
+2022-02-17,499900,RH20 3EG,S,N,F,55,,Furze Common Road,Thakeham,Pulborough
+2022-02-17,445805,RH20 2BW,S,N,F,34,,Lower Street,,Pulborough
+2022-02-17,530000,RH20 1NS,D,N,F,Tumbleweed,,Bury Common,Bury,Pulborough
+2022-02-16,685000,RH20 4LW,D,N,F,Orchid House,,Fern Road,Storrington,Pulborough
+2022-02-16,1098000,RH20 2NX,D,N,F,Honeypots,,Spinney Lane,West Chiltington,Pulborough
+2022-02-15,1270000,RH20 3HJ,D,N,F,South Lodge,,Sandgate Lane,Storrington,Pulborough
+2022-02-15,875000,RH20 3DL,D,N,F,5,,Church Close,Ashington,Pulborough
+2022-02-14,350000,RH20 4EF,F,N,L,Green Arbour,Flat,Rectory Road,Storrington,Pulborough
+2022-02-14,730000,RH20 3AG,D,N,F,Welmdene,,Rock Road,Storrington,Pulborough
+2022-02-14,670000,RH20 2NX,D,N,F,Brook Cottage,,Spinney Lane,West Chiltington,Pulborough
+2022-02-14,1740000,RH20 1JH,D,N,F,Cherry Orchard,,Bedham Road,Fittleworth,Pulborough
+2022-02-11,300000,RH20 4QB,T,N,F,22,,Steyning Crescent,Storrington,Pulborough
+2022-02-11,650000,RH20 4EP,D,N,F,10,,John Ireland Way,Washington,Pulborough
+2022-02-11,168000,RH20 2AT,F,N,L,4,,Spinney North,,Pulborough
+2022-02-10,845000,RH20 2GS,D,N,F,3,,Bracklyn Close,West Chiltington,Pulborough
+2022-02-09,697500,RH20 1PF,F,N,L,Bury House,Apartment 2,The Street,Bury,Pulborough
+2022-02-09,786999,RH20 1PA,D,N,F,Squires Cottages,5,The Street,Bury,Pulborough
+2022-02-09,715000,RH20 1AX,D,N,F,1,,Waters Edge,,Pulborough
+2022-02-09,330000,RH20 1AL,F,N,L,28,,Arun Prospect,,Pulborough
+2022-02-08,392500,RH20 3NZ,S,N,F,31,,Jubilee Way,Storrington,Pulborough
+2022-02-07,356000,RH20 4EH,T,N,F,16,,Ravenscroft,Storrington,Pulborough
+2022-02-07,405000,RH20 4EG,T,N,F,24,,Meadowside,Storrington,Pulborough
+2022-02-04,425000,RH20 3JL,D,N,F,2,,Concorde Close,Storrington,Pulborough
+2022-02-03,380000,RH20 2DB,T,N,F,7,,Little Dippers,,Pulborough
+2022-02-02,650000,RH20 3BX,S,N,F,Hillview,,Mill Lane,Ashington,Pulborough
+2022-02-02,575000,RH20 2JR,D,N,F,7,,Holly Close,West Chiltington,Pulborough
+2022-01-31,420000,RH20 4PJ,S,N,F,28,,Fryern Close,Storrington,Pulborough
+2022-01-31,120000,RH20 4DQ,F,N,L,27,,White Horse Court,Storrington,Pulborough
+2022-01-31,350000,RH20 1FW,T,Y,F,7,,Sinclair Drive,Codmore Hill,Pulborough
+2022-01-28,347500,RH20 4PD,T,N,F,2,,Holly Close,Storrington,Pulborough
+2022-01-28,650000,RH20 4HH,D,N,F,Briar Cottage,,Hurston Lane,Storrington,Pulborough
+2022-01-28,373908,RH20 3JR,S,N,F,Broadbridge Cottages,1,London Road,Ashington,Pulborough
+2022-01-27,750000,RH20 4PA,D,N,F,9,,Ryecroft Lane,Storrington,Pulborough
+2022-01-27,455000,RH20 4DT,T,N,F,2,,Hillcrest,Storrington,Pulborough
+2022-01-24,765000,RH20 2AD,D,N,F,Downland Lodge,,Rectory Lane,,Pulborough
+2022-01-21,266000,RH20 3HW,T,N,L,2,,Barker Road,Storrington,Pulborough
+2022-01-21,420000,RH20 3BG,T,N,F,8,,Willow Way,Ashington,Pulborough
+2022-01-21,860000,RH20 1PA,D,N,F,Little Paddock,,The Street,Bury,Pulborough
+2022-01-20,720000,RH20 4DB,D,N,F,Cartmel,,Woodpecker Lane,Storrington,Pulborough
+2022-01-19,296000,RH20 4FN,F,N,L,Foxmead Court,32,Meadowside,Storrington,Pulborough
+2022-01-19,950101,RH20 2RW,D,N,F,The Oaks,,Harborough Meadow,West Chiltington,Pulborough
+2022-01-18,275000,RH20 4DF,T,N,F,22,,Swan Close,Storrington,Pulborough
+2022-01-18,760000,RH20 3BB,D,N,F,Priors Barn,,Billingshurst Road,Ashington,Pulborough
+2022-01-18,1075000,RH20 2RW,D,N,F,"Pine Ridge, 1",,Harborough Meadow,West Chiltington,Pulborough
+2022-01-18,2050000,RH20 2RA,D,N,F,Reflections,,Fir Tree Lane,West Chiltington,Pulborough
+2022-01-18,840000,RH20 1HS,D,N,F,Fleethouse,,The Fleet,Fittleworth,Pulborough
+2022-01-14,585000,RH20 4NE,D,N,F,Landsdown,,Fryern Road,Storrington,Pulborough
+2022-01-14,414000,RH20 2PH,S,N,F,24,,The Birches,West Chiltington,Pulborough
+2022-01-14,485000,RH20 1HT,S,N,F,11,,The Gardens,Fittleworth,Pulborough
+2022-01-13,331000,RH20 1JA,S,N,F,7,,Churchfield,Fittleworth,Pulborough
+2022-01-12,760000,RH20 4GZ,D,N,F,14,,Bax Close,Storrington,Pulborough
+2022-01-12,1300000,RH20 4FF,D,N,F,Fryern Park House,,Fryern Park,Storrington,Pulborough
+2022-01-12,975000,RH20 2JW,D,N,F,Rose Barn Cottage,,Church Street,West Chiltington,Pulborough
+2022-01-07,315000,RH20 3NJ,S,N,F,48,,Sullington Copse,Storrington,Pulborough
+2022-01-07,855000,RH20 2SW,D,N,F,Wellers,,Chestnut Ridge,West Chiltington,Pulborough
+2022-01-06,475000,RH20 2RH,D,N,F,Summerleas,,Bower Lane,West Chiltington,Pulborough
+2022-01-05,630000,RH20 4EP,D,N,F,8,,John Ireland Way,Washington,Pulborough
+2022-01-05,355000,RH20 1JU,T,N,F,Egdean Cottages,2,Egdean,Fittleworth,Pulborough
+2021-12-22,730000,RH20 1EA,D,N,F,Bridge Mead,,,Stopham,Pulborough
+2021-12-21,540000,RH20 4JT,S,N,F,Crown Cottages,3,Pulborough Road,Cootham,Pulborough
+2021-12-21,660000,RH20 4JF,D,N,F,5,,Plantation Way,Storrington,Pulborough
+2021-12-21,220000,RH20 3GH,F,N,L,18,,Linfield Lane,Ashington,Pulborough
+2021-12-20,265000,RH20 4QZ,T,N,F,7,,Reed Close,Storrington,Pulborough
+2021-12-20,1275000,RH20 2NL,D,N,F,Ranleigh House,,Common Hill,West Chiltington,Pulborough
+2021-12-20,240000,RH20 2DD,F,N,L,Arun Court,8,Lower Street,,Pulborough
+2021-12-17,355000,RH20 3LE,T,N,F,13,,Hillcrest Close,Ashington,Pulborough
+2021-12-17,455000,RH20 3BG,D,N,F,2,,Willow Way,Ashington,Pulborough
+2021-12-17,647000,RH20 2JR,D,N,F,16,,Holly Close,West Chiltington,Pulborough
+2021-12-17,340000,RH20 1FW,T,Y,F,5,,Sinclair Drive,Codmore Hill,Pulborough
+2021-12-17,395000,RH20 1FW,S,Y,F,13,,Sinclair Drive,Codmore Hill,Pulborough
+2021-12-16,490000,RH20 4LW,S,N,F,"The Haven, 18",,Fern Road,Storrington,Pulborough
+2021-12-16,665000,RH20 3QX,D,N,F,41,,Chestnut Drive,Thakeham,Pulborough
+2021-12-16,740000,RH20 3GU,D,N,F,4,,Watermeadow Lane,Storrington,Pulborough
+2021-12-16,1090000,RH20 2RS,D,N,F,Wychacre,Pussy Willows,Harborough Hill,,Pulborough
+2021-12-16,1200000,RH20 2QR,D,N,F,Sandalwood,,Haglands Lane,West Chiltington,Pulborough
+2021-12-16,415000,RH20 2GP,T,N,F,9,,Wildbrooks Close,,Pulborough
+2021-12-15,665000,RH20 4LW,S,N,F,"Candle Cottage, 5",,Fern Road,Storrington,Pulborough
+2021-12-15,875000,RH20 4FF,D,N,F,Fryern Rise,,Fryern Park,Storrington,Pulborough
+2021-12-15,158000,RH20 3GS,F,N,L,12,,Mousdell Close,Ashington,Pulborough
+2021-12-15,330000,RH20 2GP,T,N,F,10,,Wildbrooks Close,,Pulborough
+2021-12-14,199950,RH20 4LT,F,N,L,23,,Chanctonbury Walk,Storrington,Pulborough
+2021-12-14,800000,RH20 3JQ,D,N,F,22,,Cricketers Close,Ashington,Pulborough
+2021-12-14,795000,RH20 3HS,D,N,F,Sunnydale,,Bracken Lane,Storrington,Pulborough
+2021-12-10,1175000,RH20 3QW,D,N,F,"Hookmare House, 3",,Silver Birches,Storrington,Pulborough
+2021-12-10,565000,RH20 3GU,S,N,F,24,,Watermeadow Lane,Storrington,Pulborough
+2021-12-10,665000,RH20 2PN,D,N,F,Hunyani,,Harborough Drive,,Pulborough
+2021-12-10,1185000,RH20 2NL,D,N,F,Summerley,,Common Hill,West Chiltington,Pulborough
+2021-12-10,440000,RH20 2BH,D,N,F,39,,Lower Street,,Pulborough
+2021-12-10,915000,RH20 1LS,D,N,F,Widneys,,Brook Lane,Coldwaltham,Pulborough
+2021-12-08,505000,RH20 4HZ,D,N,F,6,,Bramber Avenue,Storrington,Pulborough
+2021-12-08,220000,RH20 3GH,F,N,L,20,,Linfield Lane,Ashington,Pulborough
+2021-12-08,230000,RH20 2HT,F,N,L,14,,Barnhouse Close,,Pulborough
+2021-12-06,465000,RH20 2HU,D,N,F,3,,Curbey Close,West Chiltington,Pulborough
+2021-12-06,549950,RH20 1JE,D,N,F,Old Post Office,,Lower Street,Fittleworth,Pulborough
+2021-12-06,380000,RH20 1HX,S,N,F,6,,Greatpin Croft,Fittleworth,Pulborough
+2021-12-03,345000,RH20 4DN,T,N,F,5,,Brewers Yard,Storrington,Pulborough
+2021-12-03,335000,RH20 3LE,S,N,F,1A,,Hillcrest Close,Ashington,Pulborough
+2021-12-03,600000,RH20 3GL,D,N,F,3,,Blakiston Close,Ashington,Pulborough
+2021-12-03,819000,RH20 3EZ,D,N,F,East Wantley Cottage,,Northlands Lane,Storrington,Pulborough
+2021-12-03,715000,RH20 3EP,S,N,F,The Old Post Office,The Yellow Door,The Street,Thakeham,Pulborough
+2021-12-03,436000,RH20 2JT,D,N,F,15,,The Juggs,West Chiltington,Pulborough
+2021-12-03,357500,RH20 1RH,T,N,F,2,,The Willows,,Pulborough
+2021-12-03,400000,RH20 1FW,D,Y,F,17,,Sinclair Drive,Codmore Hill,Pulborough
+2021-12-02,342000,RH20 3NZ,D,N,F,28,,Jubilee Way,Storrington,Pulborough
+2021-12-02,230000,RH20 3BX,F,N,L,Tatra,Flat 2,Mill Lane,Ashington,Pulborough
+2021-12-02,312500,RH20 2JT,S,N,F,2,,The Juggs,West Chiltington,Pulborough
+2021-12-02,630000,RH20 1FW,D,Y,F,19,,Sinclair Drive,Codmore Hill,Pulborough
+2021-11-30,385000,RH20 3NZ,S,N,F,29,,Jubilee Way,Storrington,Pulborough
+2021-11-30,875000,RH20 2NE,D,N,F,Highlands,,Nyetimber Copse,West Chiltington,Pulborough
+2021-11-29,182000,RH20 4EP,S,N,L,19,,John Ireland Way,Washington,Pulborough
+2021-11-26,865000,RH20 3HL,D,N,F,Hillocks,,Hillside Walk,Storrington,Pulborough
+2021-11-26,325000,RH20 2PH,S,N,F,22,,The Birches,West Chiltington,Pulborough
+2021-11-26,650000,RH20 2JN,D,N,F,Lakers Croft,,The Hollow,West Chiltington,Pulborough
+2021-11-26,530000,RH20 1FW,D,Y,F,9,,Sinclair Drive,Codmore Hill,Pulborough
+2021-11-26,345000,RH20 1FW,T,Y,F,1,,Sinclair Drive,Codmore Hill,Pulborough
+2021-11-26,740800,RH20 1EU,T,N,F,4,,Coates Castle,Fittleworth,Pulborough
+2021-11-24,499950,RH20 1FX,D,Y,F,2,,Sinclair Drive,Codmore Hill,Pulborough
+2021-11-23,1275000,RH20 3ET,D,N,F,Badgers Hill,,Badgers Holt,Storrington,Pulborough
+2021-11-23,1100000,RH20 2GX,D,N,F,2,,Chilton Gate,,Pulborough
+2021-11-23,332500,RH20 1FW,T,Y,F,3,,Sinclair Drive,Codmore Hill,Pulborough
+2021-11-19,940000,RH20 4AB,D,N,F,Waterfall Cottage,,Chantry Lane,Storrington,Pulborough
+2021-11-18,435000,RH20 2DS,D,N,F,Downsview,,Mare Hill Road,,Pulborough
+2021-11-17,357000,RH20 1FL,D,N,F,9,,Harwood Close,Codmore Hill,Pulborough
+2021-11-16,635000,RH20 1PF,F,N,L,Bury House,Apartment 4,The Street,Bury,Pulborough
+2021-11-12,331732,RH20 4ND,D,N,F,1,,Wisborough Lane,Storrington,Pulborough
+2021-11-12,330000,RH20 3BN,T,N,F,Montpelier Cottages,4,Old London Road,Washington,Pulborough
+2021-11-12,1197000,RH20 2RA,D,N,F,Downway,,Fir Tree Lane,West Chiltington,Pulborough
+2021-11-12,975000,RH20 2NE,D,N,F,The Willows,,Nyetimber Copse,West Chiltington,Pulborough
+2021-11-12,235000,RH20 2DL,F,N,L,6,,Herons Rye,,Pulborough
+2021-11-12,240000,RH20 1EL,T,N,F,St. Richards Cottages,1,Lower Street,Fittleworth,Pulborough
+2021-11-11,1160000,RH20 2NH,D,N,F,Hounds View,,Monkmead Lane,West Chiltington,Pulborough
+2021-11-11,899950,RH20 2BH,D,N,F,37,,Lower Street,,Pulborough
+2021-11-09,935000,RH20 2LY,D,N,F,6,,Chiltington Close,West Chiltington,Pulborough
+2021-11-05,540000,RH20 4QN,D,N,F,9,,Dean Way,Storrington,Pulborough
+2021-11-05,1050000,RH20 3GY,D,N,F,22,,Pavilion Close,Thakeham,Pulborough
+2021-11-05,500000,RH20 2HS,F,N,L,Beedings Castle,Flat 7,Nutbourne Lane,Nutbourne,Pulborough
+2021-11-04,730000,RH20 4JZ,D,N,F,15,,Turners Mead,Storrington,Pulborough
+2021-11-04,490000,RH20 1FW,D,Y,F,39,,Sinclair Drive,Codmore Hill,Pulborough
+2021-11-03,735000,RH20 4JN,D,N,F,Oaklands Paddock,,Pulborough Road,Cootham,Pulborough
+2021-11-03,255000,RH20 4DF,T,N,F,21,,Swan Close,Storrington,Pulborough
+2021-11-03,900000,RH20 2JY,D,N,F,Little Naldretts,,East Street,West Chiltington,Pulborough
+2021-11-01,1000000,RH20 2NE,D,N,F,Ticino,,Nyetimber Copse,West Chiltington,Pulborough
+2021-11-01,988500,RH20 1NE,D,N,F,Ennismore,,Sandy Lane,Watersfield,Pulborough
+2021-10-29,1140000,RH20 2RD,D,N,F,Picketty House,,Grove Lane,West Chiltington,Pulborough
+2021-10-28,240000,RH20 4LT,F,N,L,12,,Chanctonbury Walk,Storrington,Pulborough
+2021-10-28,229000,RH20 4BW,F,N,L,Eastbrook Court,3,Manleys Hill,Storrington,Pulborough
+2021-10-28,285000,RH20 2HQ,T,N,F,30,,Carpenters Meadow,,Pulborough
+2021-10-28,350000,RH20 1DJ,S,N,F,Old School Cottage,,Stane Street,North Heath,Pulborough
+2021-10-27,650000,RH20 4LU,D,N,F,16,,Melton Drive,Storrington,Pulborough
+2021-10-27,312500,RH20 4LT,S,N,L,2,,Chanctonbury Walk,Storrington,Pulborough
+2021-10-27,775000,RH20 3AS,D,N,F,Rectory Cottage,,Rectory Lane,Ashington,Pulborough
+2021-10-27,1825000,RH20 2QA,D,N,F,Trian-By-The-Mill,,The Hollow,West Chiltington,Pulborough
+2021-10-27,1000000,RH20 2NJ,D,N,F,Lewa Downs,,Castlegate,,Pulborough
+2021-10-22,875000,RH20 2GW,D,N,F,3 Ling Common Place,,Common Hill,West Chiltington,Pulborough
+2021-10-21,465000,RH20 4BF,F,N,L,6,,Birklands,Storrington,Pulborough
+2021-10-21,340000,RH20 2DQ,D,N,F,13,,Downlands,,Pulborough
+2021-10-21,480000,RH20 1AN,D,N,F,35,,Chestnut Walk,,Pulborough
+2021-10-18,390000,RH20 4QU,D,N,F,45,,Crowhurst Crescent,Storrington,Pulborough
+2021-10-15,360000,RH20 4NH,T,N,F,3,,Old Mill Drive,Storrington,Pulborough
+2021-10-15,302000,RH20 4JR,T,N,F,7,,Dukes Row,Cootham,Pulborough
+2021-10-15,755600,RH20 3NQ,D,N,F,Birches,,Thakeham Road,Storrington,Pulborough
+2021-10-15,910000,RH20 3EF,D,N,F,The Jays,,Storrington Road,Thakeham,Pulborough
+2021-10-15,395000,RH20 1FW,S,Y,F,11,,Sinclair Drive,Codmore Hill,Pulborough
+2021-10-15,740000,RH20 1DZ,D,N,F,9,,Masons Way,Codmore Hill,Pulborough
+2021-10-14,375000,RH20 1SA,D,N,F,1,,Chapel Close,Watersfield,Pulborough
+2021-10-14,467500,RH20 1LF,S,N,F,April Cottage,,Old London Road,Coldwaltham,Pulborough
+2021-10-13,625000,RH20 3EU,D,N,F,37,,Linfield Copse,Thakeham,Pulborough
+2021-10-11,212000,RH20 1FJ,F,N,L,10,,Riverside,Codmore Hill,Pulborough
+2021-10-08,499950,RH20 4QW,D,N,F,79,,Hormare Crescent,Storrington,Pulborough
+2021-10-08,410000,RH20 2JT,S,N,F,10,,The Juggs,West Chiltington,Pulborough
+2021-10-08,165000,RH20 2AS,F,N,L,13,,Spinney North,,Pulborough
+2021-10-05,2090000,RH20 1JH,D,N,F,Pitts Garden,,Bedham Road,Fittleworth,Pulborough
+2021-10-01,450000,RH20 1FJ,D,N,F,39,,Riverside,Codmore Hill,Pulborough
+2021-09-30,590000,RH20 4PS,D,N,F,12,,Downsview Avenue,Storrington,Pulborough
+2021-09-30,210000,RH20 4NU,F,N,L,Berkeley Lodge,Flat 5,Nightingale Lane,Storrington,Pulborough
+2021-09-30,612000,RH20 4BS,D,N,F,Birch Corner,,Byne Close,Storrington,Pulborough
+2021-09-30,412500,RH20 3LQ,S,N,F,15,,The Sands,Ashington,Pulborough
+2021-09-30,675000,RH20 3AQ,D,N,F,1,,Gorse Bank Close,Storrington,Pulborough
+2021-09-30,1250000,RH20 2RU,D,N,F,Brookhill,,Harborough Gorse,West Chiltington,Pulborough
+2021-09-30,469950,RH20 1LP,D,N,F,21,,Arun Vale,Coldwaltham,Pulborough
+2021-09-30,975300,RH20 1HU,S,N,F,The Old Rectory,,Upper Street,Fittleworth,Pulborough
+2021-09-30,1525000,RH20 1HB,D,N,F,Newlands,,Westburton Lane,Bury,Pulborough
+2021-09-30,227000,RH20 1EL,T,N,F,St. Richards Cottages,3,Lower Street,Fittleworth,Pulborough
+2021-09-29,2250000,RH20 4LR,D,N,F,Lady Place,,Monastery Lane,Storrington,Pulborough
+2021-09-29,520250,RH20 4JA,D,N,F,7,,Amberley Close,Storrington,Pulborough
+2021-09-29,1015000,RH20 3PJ,D,N,F,Wantley Corner,,Mead Lane,Storrington,Pulborough
+2021-09-29,335000,RH20 3LE,T,N,F,11,,Hillcrest Close,Ashington,Pulborough
+2021-09-29,875000,RH20 3HS,D,N,F,Greenwood,,Bracken Lane,Storrington,Pulborough
+2021-09-29,780000,RH20 3GW,D,N,F,Abingworth Mews,Finches,Abingworth Crescent,Thakeham,Pulborough
+2021-09-29,439000,RH20 3GU,T,N,F,3,,Watermeadow Lane,Storrington,Pulborough
+2021-09-29,235000,RH20 3GH,F,N,L,1,,Linfield Lane,Ashington,Pulborough
+2021-09-29,875000,RH20 2RW,D,N,F,Nul Autre,,Harborough Meadow,West Chiltington,Pulborough
+2021-09-29,2200000,RH20 2RD,D,N,F,Grove House,,Grove Lane,West Chiltington,Pulborough
+2021-09-29,595000,RH20 2QB,D,N,F,"Dooncroft, 11",,Martlets,West Chiltington,Pulborough
+2021-09-28,725000,RH20 3QD,D,N,F,23,,Warminghurst Close,Ashington,Pulborough
+2021-09-28,460000,RH20 3GU,T,N,F,6,,Watermeadow Lane,Storrington,Pulborough
+2021-09-28,585000,RH20 3EP,S,N,F,Bottom Cottage,,The Street,Thakeham,Pulborough
+2021-09-28,278500,RH20 2BA,F,N,L,Beaumont Court,Flat 3,Skeyne Drive,,Pulborough
+2021-09-28,530000,RH20 1FW,D,Y,F,41,,Sinclair Drive,Codmore Hill,Pulborough
+2021-09-27,348000,RH20 4LQ,S,N,F,Maruned,,Browns Lane,Storrington,Pulborough
+2021-09-27,705000,RH20 4HA,D,N,F,Wood Myst,,Wantley Lane,Storrington,Pulborough
+2021-09-27,925000,RH20 4BL,D,N,F,Leyeshurst,,Melton Drive,Storrington,Pulborough
+2021-09-27,225000,RH20 3GH,F,N,L,3,,Linfield Lane,Ashington,Pulborough
+2021-09-27,305000,RH20 3BN,T,N,F,Montpelier Cottages,6,Old London Road,Washington,Pulborough
+2021-09-27,506000,RH20 1DJ,D,N,F,Mulsey Farmhouse,,Stane Street,North Heath,Pulborough
+2021-09-24,340000,RH20 4JQ,S,N,F,Rosebank Cottage,,Amberley Road,Storrington,Pulborough
+2021-09-24,1000000,RH20 4DB,D,N,F,3,,Woodpecker Lane,Storrington,Pulborough
+2021-09-24,390000,RH20 3QP,S,N,F,13,,Thompson Drive,Storrington,Pulborough
+2021-09-24,374582,RH20 3LQ,T,N,F,18,,The Sands,Ashington,Pulborough
+2021-09-24,330000,RH20 2BP,T,N,F,113C,,Lower Street,,Pulborough
+2021-09-24,1129500,RH20 1EY,D,N,F,Bell House,,Burygate,Bury,Pulborough
+2021-09-24,415000,RH20 1DU,T,N,F,6,,Spiro Close,,Pulborough
+2021-09-23,630000,RH20 1FW,D,Y,F,33,,Sinclair Drive,Codmore Hill,Pulborough
+2021-09-22,745000,RH20 4BE,D,N,F,17,,Warren Croft,Cootham,Pulborough
+2021-09-22,455000,RH20 2QD,S,N,F,20,,The Martlets,West Chiltington,Pulborough
+2021-09-22,160000,RH20 2GB,F,N,L,"Kyneton Lodge, 61",Flat 5,Lower Street,,Pulborough
+2021-09-21,1125000,RH20 2EB,S,N,F,Kings Acre,,Kings Lane,,Pulborough
+2021-09-21,492000,RH20 1FW,S,Y,F,23,,Sinclair Drive,Codmore Hill,Pulborough
+2021-09-20,850000,RH20 2PX,D,N,F,6,,Finches Lane,West Chiltington,Pulborough
+2021-09-20,1290000,RH20 2PA,D,N,F,Fir Trees,,Westward Lane,West Chiltington,Pulborough
+2021-09-20,230000,RH20 2DD,F,N,L,Arun Court,4,Lower Street,,Pulborough
+2021-09-17,300000,RH20 2JL,T,N,F,156,,Glebelands,,Pulborough
+2021-09-17,357500,RH20 2AD,S,N,F,St. Marys Cottages,3,Rectory Lane,,Pulborough
+2021-09-17,770000,RH20 1ER,S,N,F,Rotherside,,Tripp Hill,Fittleworth,Pulborough
+2021-09-16,672010,RH20 3HL,D,N,F,Little Gobles,,Hillside Walk,Storrington,Pulborough
+2021-09-16,735000,RH20 1JB,D,N,F,Sayers House,,School Lane,Fittleworth,Pulborough
+2021-09-15,802500,RH20 1JB,D,N,F,Hampton Cottage,,School Lane,Fittleworth,Pulborough
+2021-09-14,237500,RH20 4BW,F,N,L,Eastbrook Court,1,Manleys Hill,Storrington,Pulborough
+2021-09-13,500000,RH20 3LW,D,N,F,Breccia,,Ivy Close,Ashington,Pulborough
+2021-09-13,649950,RH20 1FS,D,N,F,30,,Oddstones,Codmore Hill,Pulborough
+2021-09-10,750000,RH20 3QJ,D,N,F,Birchwood,,Rectory Lane,Ashington,Pulborough
+2021-09-10,580000,RH20 3LZ,D,N,F,"Woodpeckers, 20",,Hillside Road,Storrington,Pulborough
+2021-09-10,415000,RH20 3JA,S,N,F,6,,Ashdene Gardens,Ashington,Pulborough
+2021-09-10,700000,RH20 1LF,D,N,F,Arundale,,Old London Road,Coldwaltham,Pulborough
+2021-09-10,440000,RH20 1HH,D,N,F,12,,High Trees,Fittleworth,Pulborough
+2021-09-08,570000,RH20 4FP,S,N,L,17,,Orchard Gardens,Storrington,Pulborough
+2021-09-08,1250000,RH20 2PF,D,N,F,Summers Lodge,,Monkmead Lane,West Chiltington,Pulborough
+2021-09-08,870000,RH20 2LB,D,N,F,Marys,,Orchard Dell,West Chiltington,Pulborough
+2021-09-07,450000,RH20 3QD,D,N,F,11,,Warminghurst Close,Ashington,Pulborough
+2021-09-07,865000,RH20 2LH,D,N,F,Parsons Cottage,,Coolham Road,West Chiltington,Pulborough
+2021-09-07,360000,RH20 2JA,S,N,F,29,,Aston Rise,,Pulborough
+2021-09-07,260000,RH20 1FW,F,Y,L,45,,Sinclair Drive,Codmore Hill,Pulborough
+2021-09-06,270000,RH20 4QZ,T,N,F,10,,Reed Close,Storrington,Pulborough
+2021-09-06,485000,RH20 3NB,D,N,F,48,,Crescent Rise,Thakeham,Pulborough
+2021-09-03,389950,RH20 3JN,S,N,F,4,,Morleys,Ashington,Pulborough
+2021-08-31,120000,RH20 3GL,F,N,L,29,,Blakiston Close,Ashington,Pulborough
+2021-08-31,750000,RH20 1NF,D,N,F,Ambleside,,Sandy Lane,Watersfield,Pulborough
+2021-08-27,727500,RH20 4EP,D,N,F,45,,John Ireland Way,Washington,Pulborough
+2021-08-27,765000,RH20 2PP,D,N,F,Fairhaven,,New Barn Lane,West Chiltington,Pulborough
+2021-08-27,615000,RH20 2BH,S,N,F,2,,Temple Mews,,Pulborough
+2021-08-26,184000,RH20 1DT,F,N,L,The Bell House,1,London Road,,Pulborough
+2021-08-25,442500,RH20 3GU,D,N,F,37,,Watermeadow Lane,Storrington,Pulborough
+2021-08-24,687500,RH20 3HN,D,N,F,11,,Palmer Close,Storrington,Pulborough
+2021-08-24,259950,RH20 2BA,F,N,L,Beaumont Court,Flat 5,Skeyne Drive,,Pulborough
+2021-08-23,280000,RH20 1JU,T,N,F,Egdean Cottages,5,Egdean,Fittleworth,Pulborough
+2021-08-20,440000,RH20 4HJ,S,N,F,35,,Pulborough Road,Storrington,Pulborough
+2021-08-20,355000,RH20 3LS,D,N,F,6,,Pulla Hill Drive,Storrington,Pulborough
+2021-08-20,1200000,RH20 2RF,D,N,F,Threals Barn,,Threals Lane,West Chiltington,Pulborough
+2021-08-20,560000,RH20 1LP,D,N,F,56,,Arun Vale,Coldwaltham,Pulborough
+2021-08-20,495000,RH20 1FW,S,Y,F,21,,Sinclair Drive,Codmore Hill,Pulborough
+2021-08-19,380000,RH20 4NL,S,N,F,44,,Hawthorn Way,Storrington,Pulborough
+2021-08-19,810000,RH20 4JQ,D,N,F,Amberley Gate,The Lodge,Amberley Road,Storrington,Pulborough
+2021-08-18,1200000,RH20 1BW,D,N,F,Hill Farm Barn,,Hill Farm Lane,Codmore Hill,Pulborough
+2021-08-17,775238,RH20 1DZ,D,N,F,27,,Masons Way,Codmore Hill,Pulborough
+2021-08-14,600000,RH20 3NW,D,N,F,Water Lane Farm,,Thakeham Road,Storrington,Pulborough
+2021-08-13,940000,RH20 1HD,D,N,F,Foxbury Farm,,,Westburton,Pulborough
+2021-08-12,415000,RH20 4QJ,D,N,F,7,,Tansy Mead,Storrington,Pulborough
+2021-08-12,340000,RH20 3NX,T,N,F,4,,Rother Close,Storrington,Pulborough
+2021-08-06,400000,RH20 1HH,S,N,F,1,,High Trees,Fittleworth,Pulborough
+2021-08-03,310000,RH20 2BW,T,N,F,42,,Lower Street,,Pulborough
+2021-08-02,323000,RH20 3BX,S,N,F,2,,Mill Lane,Ashington,Pulborough
+2021-07-30,360000,RH20 4BG,T,N,F,3,,Shermanbury Drive,Storrington,Pulborough
+2021-07-30,650000,RH20 3GW,D,Y,F,8,,Abingworth Crescent,Thakeham,Pulborough
+2021-07-30,315000,RH20 1LU,T,N,F,31,,Brookview,Coldwaltham,Pulborough
+2021-07-29,525000,RH20 4QS,D,N,F,10,,Dean Way,Storrington,Pulborough
+2021-07-29,175000,RH20 3BW,F,N,L,27,,Montpelier Gardens,Washington,Pulborough
+2021-07-29,980000,RH20 2RB,D,N,F,Robinswood,,Roundabout Lane,West Chiltington,Pulborough
+2021-07-28,167000,RH20 1FJ,F,N,L,72,,Riverside,Codmore Hill,Pulborough
+2021-07-26,717000,RH20 2NR,D,N,F,Wildshaw,,Common Hill,West Chiltington,Pulborough
+2021-07-26,625000,RH20 1FX,D,Y,F,46,,Sinclair Drive,Codmore Hill,Pulborough
+2021-07-23,850000,RH20 3PW,D,N,F,Tamarind,,Oak Avenue,Storrington,Pulborough
+2021-07-23,1200000,RH20 1NA,S,N,F,Woodside,,Colebrook Lane,Watersfield,Pulborough
+2021-07-23,299950,RH20 1JG,S,N,F,2,,Little Pin Croft,Fittleworth,Pulborough
+2021-07-21,180000,RH20 3QP,T,N,L,21,,Thompson Drive,Storrington,Pulborough
+2021-07-21,880000,RH20 2PX,D,N,F,"Linnets, 8",,Finches Lane,West Chiltington,Pulborough
+2021-07-20,172500,RH20 4DQ,F,N,L,25,,White Horse Court,Storrington,Pulborough
+2021-07-16,308000,RH20 1LU,S,N,F,33,,Brookview,Coldwaltham,Pulborough
+2021-07-13,640000,RH20 3LW,D,N,F,Rosewood,,Ivy Close,Ashington,Pulborough
+2021-07-08,205000,RH20 3BS,T,N,F,12,,Spring Gardens,Washington,Pulborough
+2021-07-01,210000,RH20 1FF,F,N,L,Arun House,7,Spiro Close,,Pulborough
+2021-06-30,360000,RH20 4QU,T,N,F,77,,Crowhurst Crescent,Storrington,Pulborough
+2021-06-30,355000,RH20 4LG,S,N,F,18,,Browns Lane,Storrington,Pulborough
+2021-06-30,282000,RH20 4LF,F,N,L,16,,Manor Close,Storrington,Pulborough
+2021-06-30,745000,RH20 3JF,D,N,F,Oakland,,Veras Walk,Storrington,Pulborough
+2021-06-30,680000,RH20 3HH,D,N,F,Beechurst,,Melrose Place,Storrington,Pulborough
+2021-06-30,650000,RH20 3GW,D,N,F,6,,Abingworth Crescent,Thakeham,Pulborough
+2021-06-30,975000,RH20 3ET,D,N,F,Laurel Lea,,Badgers Holt,Storrington,Pulborough
+2021-06-30,1850000,RH20 2NX,D,N,F,Brackenburn,,Spinney Lane,West Chiltington,Pulborough
+2021-06-30,875000,RH20 2HW,D,N,F,Beverley,,Gay Street Lane,North Heath,Pulborough
+2021-06-30,1300000,RH20 2HL,D,N,F,Hayes,,Gay Street,,Pulborough
+2021-06-30,1350000,RH20 2HA,D,N,F,Carpe Diem,,Nutbourne Road,,Pulborough
+2021-06-30,1300000,RH20 2GF,D,N,F,Crimbles,,Hillstream Close,West Chiltington,Pulborough
+2021-06-30,440000,RH20 1HS,D,N,F,Little Seas,,The Fleet,Fittleworth,Pulborough
+2021-06-30,459000,RH20 1AJ,T,N,F,9,,Cobbetts Mews,,Pulborough
+2021-06-30,395000,RH20 1AJ,T,N,F,4,,Cobbetts Mews,,Pulborough
+2021-06-29,600000,RH20 4LP,D,N,F,Dendrons,,Kithurst Lane,Storrington,Pulborough
+2021-06-29,280500,RH20 4EQ,T,N,F,92,,Meadowside,Storrington,Pulborough
+2021-06-29,600000,RH20 4EP,D,N,F,32,,John Ireland Way,Washington,Pulborough
+2021-06-29,750000,RH20 4DB,D,N,F,Gawsworth,,Woodpecker Lane,Storrington,Pulborough
+2021-06-29,380000,RH20 3QY,T,N,F,3,,Rockwood Mews,Washington,Pulborough
+2021-06-29,499950,RH20 3QX,D,Y,F,3,,Chestnut Drive,Thakeham,Pulborough
+2021-06-29,578000,RH20 2BH,S,N,F,Templemead House,,Lower Street,,Pulborough
+2021-06-28,662500,RH20 4QE,D,N,F,2,,Brow Close,Storrington,Pulborough
+2021-06-28,620000,RH20 4JW,D,N,F,Brookside,,Cootham Green,Cootham,Pulborough
+2021-06-28,429995,RH20 3QX,S,N,F,15,,Chestnut Drive,Thakeham,Pulborough
+2021-06-28,415000,RH20 3QE,D,N,F,20,,Chanctonbury,Ashington,Pulborough
+2021-06-28,485000,RH20 3QD,D,N,F,22,,Warminghurst Close,Ashington,Pulborough
+2021-06-28,405000,RH20 3JA,S,N,F,4,,Ashdene Gardens,Ashington,Pulborough
+2021-06-28,715000,RH20 3GU,D,N,F,35,,Watermeadow Lane,Storrington,Pulborough
+2021-06-28,1300000,RH20 2RF,D,N,F,Logans,,Threals Lane,West Chiltington,Pulborough
+2021-06-28,812500,RH20 2QY,D,N,F,Treetops,,Crossways,West Chiltington,Pulborough
+2021-06-28,680000,RH20 2JQ,D,N,F,The End House,,Foxfields,West Chiltington,Pulborough
+2021-06-28,399950,RH20 2JA,D,N,F,1,,Aston Rise,,Pulborough
+2021-06-28,420000,RH20 2HE,S,N,F,Mercers,2,The Street,Nutbourne,Pulborough
+2021-06-28,405000,RH20 1FS,S,N,F,1,,Oddstones,Codmore Hill,Pulborough
+2021-06-28,1025000,RH20 1EJ,D,N,F,Hillgrove House,,Lower Street,Fittleworth,Pulborough
+2021-06-28,340000,RH20 1AP,S,N,F,10,,London Road,,Pulborough
+2021-06-25,306000,RH20 4EZ,T,N,F,28,,Post View,Storrington,Pulborough
+2021-06-25,590000,RH20 4EP,D,N,F,3,,John Ireland Way,Washington,Pulborough
+2021-06-25,285000,RH20 3NL,S,N,F,19,,The Green,Storrington,Pulborough
+2021-06-25,690000,RH20 3HX,D,N,F,Woodfold,,Hazelwood Close,Storrington,Pulborough
+2021-06-25,875000,RH20 3DA,S,N,F,Rock House Cottage,,The Hollow,Washington,Pulborough
+2021-06-25,1295000,RH20 2NP,D,N,F,Hatfield,,Wyndham Lea,West Chiltington,Pulborough
+2021-06-25,799995,RH20 2HB,D,N,F,Tinkers Green,,Nutbourne Common,,Pulborough
+2021-06-25,1050000,RH20 1PQ,D,N,F,Westgate,,,Bignor,Pulborough
+2021-06-25,425000,RH20 1FW,D,Y,F,25,,Sinclair Drive,Codmore Hill,Pulborough
+2021-06-24,415000,RH20 4NZ,S,N,F,Bramley Cottages,1,North Street,Storrington,Pulborough
+2021-06-24,960000,RH20 4JQ,D,N,F,Amberley Gate,White Edge,Amberley Road,Storrington,Pulborough
+2021-06-24,625000,RH20 3HR,D,N,F,Carrick Cottage,,Bracken Lane,Storrington,Pulborough
+2021-06-24,650000,RH20 2QW,D,N,F,2,,Haglands Copse,West Chiltington,Pulborough
+2021-06-24,990000,RH20 1NN,D,N,F,Woodland,,Burygate,Bury,Pulborough
+2021-06-24,385000,RH20 1FW,S,Y,F,37,,Sinclair Drive,Codmore Hill,Pulborough
+2021-06-24,530000,RH20 1FW,D,Y,F,31,,Sinclair Drive,Codmore Hill,Pulborough
+2021-06-23,365000,RH20 4QU,T,N,F,91,,Crowhurst Crescent,Storrington,Pulborough
+2021-06-23,425000,RH20 4JP,S,N,F,6,,Cootham Brow,Storrington,Pulborough
+2021-06-23,860000,RH20 3HU,D,N,F,Wayside,,Hampers Lane,Storrington,Pulborough
+2021-06-23,1055000,RH20 3HS,D,N,F,Kilbride,,Bracken Lane,Storrington,Pulborough
+2021-06-23,1600000,RH20 2HS,D,N,F,Upper Nash House,,Nutbourne Lane,Nutbourne,Pulborough
+2021-06-23,437500,RH20 1HH,T,N,F,9,,High Trees,Fittleworth,Pulborough
+2021-06-22,280000,RH20 4JW,D,N,F,12,,Cootham Green,Cootham,Pulborough
+2021-06-22,130000,RH20 4FP,F,N,L,39,,Orchard Gardens,Storrington,Pulborough
+2021-06-21,330000,RH20 4NZ,T,N,F,20,,North Street,Storrington,Pulborough
+2021-06-21,185000,RH20 4NU,F,N,L,Berkeley Lodge,Flat 2,Nightingale Lane,Storrington,Pulborough
+2021-06-21,350000,RH20 3LD,S,N,F,1,,Timberlea Close,Ashington,Pulborough
+2021-06-21,1250000,RH20 2HS,D,N,F,Lower Nash,Nash Manor,Nutbourne Lane,Nutbourne,Pulborough
+2021-06-21,350000,RH20 2BF,S,N,F,17,,Swan View,,Pulborough
+2021-06-21,312000,RH20 1FT,S,N,F,6,,Bartram Close,,Pulborough
+2021-06-21,1467500,RH20 1DS,D,N,F,Toll House,,Stopham Road,,Pulborough
+2021-06-18,685000,RH20 3JT,D,N,F,Bloxhams,,London Road,Ashington,Pulborough
+2021-06-18,539950,RH20 3GW,D,Y,F,38,,Abingworth Crescent,Thakeham,Pulborough
+2021-06-18,190000,RH20 2AG,F,N,L,"Brook House, 59",Flat 9,Lower Street,,Pulborough
+2021-06-18,677500,RH20 1HS,D,N,F,Manderley,,The Fleet,Fittleworth,Pulborough
+2021-06-18,255000,RH20 1FS,D,N,F,11,,Oddstones,Codmore Hill,Pulborough
+2021-06-17,310000,RH20 4PG,S,N,F,21,,Spierbridge Road,Storrington,Pulborough
+2021-06-17,1264000,RH20 4FF,D,N,F,Fryern Home Farm House,,Fryern Park,Storrington,Pulborough
+2021-06-17,629000,RH20 3GW,D,Y,F,34,,Abingworth Crescent,Thakeham,Pulborough
+2021-06-16,660000,RH20 3LY,D,N,F,Homewood,,Water Lane,Storrington,Pulborough
+2021-06-16,630000,RH20 2JW,D,N,F,Kirklea,,Church Street,West Chiltington,Pulborough
+2021-06-16,271653,RH20 1DN,S,N,F,Blake Cottages,3,Stane Street,North Heath,Pulborough
+2021-06-14,240000,RH20 4JU,S,N,F,1,,The Crescent,Cootham,Pulborough
+2021-06-14,447500,RH20 3EG,S,N,F,11,,Furze Common Road,Thakeham,Pulborough
+2021-06-14,725000,RH20 3AQ,D,N,F,8,,Gorse Bank Close,Storrington,Pulborough
+2021-06-14,255000,RH20 1FW,F,Y,L,55,,Sinclair Drive,Codmore Hill,Pulborough
+2021-06-14,255000,RH20 1FW,F,Y,L,51,,Sinclair Drive,Codmore Hill,Pulborough
+2021-06-14,618000,RH20 1EU,D,N,F,5,,Coates Castle,Fittleworth,Pulborough
+2021-06-11,635000,RH20 4JH,D,N,F,Park Corner,,Kithurst Park,Storrington,Pulborough
+2021-06-11,435000,RH20 4FP,F,N,L,12,,Orchard Gardens,Storrington,Pulborough
+2021-06-11,305000,RH20 3NU,S,N,F,8,,Snapes Road,Storrington,Pulborough
+2021-06-11,260000,RH20 3NJ,S,N,F,25,,Sullington Copse,Storrington,Pulborough
+2021-06-11,525000,RH20 3GW,D,Y,F,36,,Abingworth Crescent,Thakeham,Pulborough
+2021-06-11,925000,RH20 2QZ,D,N,F,Kithurst Lodge,,Crossways Park,West Chiltington,Pulborough
+2021-06-11,475000,RH20 1FH,D,N,F,5,,Bridge Close,Codmore Hill,Pulborough
+2021-06-10,332000,RH20 1EJ,S,N,F,Ironstone Cottage,,Lower Street,Fittleworth,Pulborough
+2021-06-07,672450,RH20 4JG,D,N,F,Rest Harrow,,The Plantation,Storrington,Pulborough
+2021-06-07,622500,RH20 3GW,D,Y,F,30,,Abingworth Crescent,Thakeham,Pulborough
+2021-06-04,278738,RH20 3LG,S,N,L,6,,Windmill Close,Ashington,Pulborough
+2021-06-02,325000,RH20 2GP,T,N,F,6,,Wildbrooks Close,,Pulborough
+2021-05-28,380000,RH20 4NL,T,N,F,12,,Hawthorn Way,Storrington,Pulborough
+2021-05-28,525000,RH20 3JR,D,N,F,Ashdene Cottage,,London Road,Ashington,Pulborough
+2021-05-28,210000,RH20 2BD,F,N,L,Beverley Court,Flat 6,Skeyne Drive,,Pulborough
+2021-05-28,435000,RH20 1FW,S,Y,F,27,,Sinclair Drive,Codmore Hill,Pulborough
+2021-05-28,418000,RH20 1FS,S,N,F,27,,Oddstones,Codmore Hill,Pulborough
+2021-05-28,380000,RH20 1FQ,T,Y,F,57,,Corden Place,Codmore Hill,Pulborough
+2021-05-27,830000,RH20 4GZ,D,N,F,"Amberdown, 2",,Bax Close,Storrington,Pulborough
+2021-05-27,450000,RH20 3BQ,D,N,F,Ceres,,Rock Road,Washington,Pulborough
+2021-05-27,319000,RH20 2BL,S,N,F,24,,Lower Street,,Pulborough
+2021-05-27,550000,RH20 1FW,D,Y,F,43,,Sinclair Drive,Codmore Hill,Pulborough
+2021-05-26,495000,RH20 3QX,D,Y,F,1,,Chestnut Drive,Thakeham,Pulborough
+2021-05-26,365000,RH20 1BJ,D,N,F,Codling House,,Hill Farm Lane,Codmore Hill,Pulborough
+2021-05-21,435000,RH20 4QU,T,N,F,49,,Crowhurst Crescent,Storrington,Pulborough
+2021-05-21,353500,RH20 4NJ,S,N,F,31,,Hawthorn Way,Storrington,Pulborough
+2021-05-21,259500,RH20 3NJ,S,N,F,21,,Sullington Copse,Storrington,Pulborough
+2021-05-21,629000,RH20 3GW,D,Y,F,32,,Abingworth Crescent,Thakeham,Pulborough
+2021-05-21,507500,RH20 3GU,S,N,F,18,,Watermeadow Lane,Storrington,Pulborough
+2021-05-21,230000,RH20 2DD,F,N,L,Arun Court,9,Lower Street,,Pulborough
+2021-05-21,311000,RH20 2BB,T,N,L,1,,The Mews,,Pulborough
+2021-05-19,435000,RH20 1FW,S,Y,F,29,,Sinclair Drive,Codmore Hill,Pulborough
+2021-05-18,350000,RH20 2BB,T,N,L,3,,The Mews,,Pulborough
+2021-05-17,995000,RH20 2NQ,D,N,F,Woodfold Barn,,Silverwood Copse,West Chiltington,Pulborough
+2021-05-17,387000,RH20 2BF,T,N,F,30,,Swan View,,Pulborough
+2021-05-14,3225000,RH20 3EW,D,N,F,Thakeham Manor,,Coolham Road,Thakeham,Pulborough
+2021-05-14,250000,RH20 2DJ,S,N,F,22,,The Moat,,Pulborough
+2021-05-13,194000,RH20 1FL,F,N,L,12,,Harwood Close,Codmore Hill,Pulborough
+2021-05-12,540000,RH20 1LP,D,N,F,44,,Arun Vale,Coldwaltham,Pulborough
+2021-05-11,848000,RH20 2PQ,D,N,F,15,,Barkworth Way,West Chiltington,Pulborough
+2021-05-10,822000,RH20 2PD,D,N,F,Brook End,,Monkmead Copse,West Chiltington,Pulborough
+2021-05-10,170000,RH20 2LX,F,N,L,9,,Wheelwrights,West Chiltington,Pulborough
+2021-05-10,850000,RH20 2LT,D,N,F,Goffsland House,,Coolham Road,West Chiltington,Pulborough
+2021-05-07,296500,RH20 3BX,T,N,F,1,,Mill Lane,Ashington,Pulborough
+2021-05-07,400000,RH20 2DF,D,N,F,Hillside,,Moat Lane,,Pulborough
+2021-05-04,980000,RH20 2RN,D,N,F,Oak Ridge,,Roundabout Copse,West Chiltington,Pulborough
+2021-05-04,1350000,RH20 2NR,D,N,F,Mulberry House,,Common Hill,West Chiltington,Pulborough
+2021-05-04,492000,RH20 1FU,S,Y,F,14,,Corden Place,Codmore Hill,Pulborough
+2021-04-30,355500,RH20 4NH,T,N,F,11A,,Old Mill Drive,Storrington,Pulborough
+2021-04-30,400000,RH20 3QY,S,N,F,5,,Rockwood Mews,Washington,Pulborough
+2021-04-30,640000,RH20 3PJ,D,N,F,Ponderosa,,Mead Lane,Storrington,Pulborough
+2021-04-30,615000,RH20 3GW,D,Y,F,26,,Abingworth Crescent,Thakeham,Pulborough
+2021-04-30,340000,RH20 3AS,S,N,F,Brady Cottage,,Rectory Lane,Ashington,Pulborough
+2021-04-30,565000,RH20 2PZ,S,N,F,Sandy Ridge,,Mill Road,West Chiltington,Pulborough
+2021-04-30,420000,RH20 2GQ,T,N,F,2,,Arundale Mews,,Pulborough
+2021-04-30,345000,RH20 2AT,T,N,F,48,,Spinney North,,Pulborough
+2021-04-30,575000,RH20 1FX,D,Y,F,4,,Sinclair Drive,Codmore Hill,Pulborough
+2021-04-30,617000,RH20 1FU,D,Y,F,2,,Corden Place,Codmore Hill,Pulborough
+2021-04-30,322500,RH20 1FJ,S,N,F,54,,Riverside,Codmore Hill,Pulborough
+2021-04-29,305000,RH20 2AR,T,N,F,48,,The Spinney,,Pulborough
+2021-04-28,700000,RH20 3GW,D,Y,F,22,,Abingworth Crescent,Thakeham,Pulborough
+2021-04-27,379950,RH20 3PY,S,N,F,5,,Oak End,Storrington,Pulborough
+2021-04-27,875000,RH20 2NE,D,N,F,Chanctonbury,,Nyetimber Copse,West Chiltington,Pulborough
+2021-04-26,257000,RH20 3JR,D,N,F,Downview,,London Road,Ashington,Pulborough
+2021-04-26,780000,RH20 1JF,D,N,F,Badgers,,,Fittleworth,Pulborough
+2021-04-23,525000,RH20 3QZ,D,N,F,1,,Hazelbank,Ashington,Pulborough
+2021-04-23,380000,RH20 3QY,T,N,F,1,,Rockwood Mews,Washington,Pulborough
+2021-04-23,665000,RH20 3QB,D,N,F,29,,Meiros Way,Ashington,Pulborough
+2021-04-23,750000,RH20 3GW,D,N,F,Abingworth Mews,Rowan House,Abingworth Crescent,Thakeham,Pulborough
+2021-04-23,450000,RH20 3GT,D,N,F,1,,Leatherbottle Way,Storrington,Pulborough
+2021-04-23,410000,RH20 2QF,S,N,F,11,,Birch End,West Chiltington,Pulborough
+2021-04-23,502500,RH20 1FS,D,N,F,31,,Oddstones,Codmore Hill,Pulborough
+2021-04-23,370000,RH20 1FQ,T,Y,F,53,,Corden Place,Codmore Hill,Pulborough
+2021-04-23,288000,RH20 1DH,T,N,F,8,,Bell Close,,Pulborough
+2021-04-22,282500,RH20 1FL,T,N,F,67,,Harwood Close,Codmore Hill,Pulborough
+2021-04-21,183333,RH20 1HY,T,N,F,32,,Greatpin Croft,Fittleworth,Pulborough
+2021-04-20,790000,RH20 3ED,D,N,F,Grassmere House,,Storrington Road,Thakeham,Pulborough
+2021-04-19,1180000,RH20 2RA,D,N,F,Larchill,,Fir Tree Lane,West Chiltington,Pulborough
+2021-04-19,640000,RH20 1NR,D,N,F,Coachmans Cottage,,Bury Common,Bury,Pulborough
+2021-04-16,465000,RH20 4QW,D,N,F,69,,Hormare Crescent,Storrington,Pulborough
+2021-04-16,308000,RH20 2DQ,D,N,F,12,,Downlands,,Pulborough
+2021-04-16,420000,RH20 1FQ,S,Y,F,31,,Corden Place,Codmore Hill,Pulborough
+2021-04-16,650000,RH20 1DZ,D,N,F,35,,Masons Way,Codmore Hill,Pulborough
+2021-04-15,740000,RH20 4NE,D,N,F,High Timbers,,Fryern Road,Storrington,Pulborough
+2021-04-15,1075000,RH20 4HT,D,N,F,West Barn,,Kithurst Farm Road,Storrington,Pulborough
+2021-04-15,215000,RH20 1FE,F,N,L,Wey House,15,Spiro Close,,Pulborough
+2021-04-14,666500,RH20 3JD,D,N,F,Heath Common House,,Sanctuary Lane,Storrington,Pulborough
+2021-04-14,1030000,RH20 2RF,D,N,F,Solmio,,Threals Lane,West Chiltington,Pulborough
+2021-04-14,740000,RH20 2NE,D,N,F,Woodlands,,Nyetimber Copse,West Chiltington,Pulborough
+2021-04-14,560000,RH20 1BJ,D,N,F,Ridgemount,,Hill Farm Lane,Codmore Hill,Pulborough
+2021-04-13,465000,RH20 4QW,D,N,F,78,,Hormare Crescent,Storrington,Pulborough
+2021-04-13,470000,RH20 1FU,D,Y,F,10,,Corden Place,Codmore Hill,Pulborough
+2021-04-12,325000,RH20 4AP,T,N,F,Old Barn Cottage,,School Lane,Washington,Pulborough
+2021-04-12,606250,RH20 3NW,D,N,F,Byeways,,Thakeham Road,Storrington,Pulborough
+2021-04-09,318000,RH20 4GL,S,N,F,1,,The Glade,Storrington,Pulborough
+2021-04-09,1120000,RH20 2HE,D,N,F,Marsh House,,The Street,Nutbourne,Pulborough
+2021-04-08,605000,RH20 2PW,D,N,F,Bylinks,,Harborough Hill,,Pulborough
+2021-04-01,335000,RH20 4NJ,S,N,F,25,,Hawthorn Way,Storrington,Pulborough
+2021-04-01,250000,RH20 4LT,F,N,L,15,,Chanctonbury Walk,Storrington,Pulborough
+2021-04-01,420000,RH20 4JD,S,N,F,Spring Cottages,3,Amberley Road,Storrington,Pulborough
+2021-04-01,357000,RH20 2TA,S,N,F,12,,Orchard Way,,Pulborough
+2021-03-31,366810,RH20 4QN,S,N,F,79,,Dean Way,Storrington,Pulborough
+2021-03-31,680000,RH20 4BJ,D,N,F,West Wantley Lodge,,Fryern Road,Storrington,Pulborough
+2021-03-31,365000,RH20 3QY,T,N,F,2,,Rockwood Mews,Washington,Pulborough
+2021-03-31,345000,RH20 3EU,T,N,F,11,,Linfield Copse,Thakeham,Pulborough
+2021-03-31,895000,RH20 3EP,D,N,F,The Bowries,,The Street,Thakeham,Pulborough
+2021-03-31,585000,RH20 1FX,D,N,F,48,,Sinclair Drive,Codmore Hill,Pulborough
+2021-03-31,585000,RH20 1FX,D,Y,F,16,,Sinclair Drive,Codmore Hill,Pulborough
+2021-03-31,650000,RH20 1DA,D,N,F,Tullens Cottage,,Pickhurst Lane,,Pulborough
+2021-03-30,500000,RH20 3QE,D,N,F,14,,Chanctonbury,Ashington,Pulborough
+2021-03-30,472000,RH20 3BG,D,N,F,23,,Willow Way,Ashington,Pulborough
+2021-03-30,875000,RH20 2PG,D,N,F,Yeomans,,Monkmead Lane,West Chiltington,Pulborough
+2021-03-30,413500,RH20 2BZ,D,N,F,25,,Glebelands,,Pulborough
+2021-03-30,397500,RH20 2BF,T,N,F,33,,Swan View,,Pulborough
+2021-03-30,450000,RH20 1SA,D,N,F,15,,Chapel Close,Watersfield,Pulborough
+2021-03-29,651000,RH20 4QS,D,N,F,106,,Dean Way,Storrington,Pulborough
+2021-03-29,450000,RH20 4PB,T,N,F,Sunnyside,6,North Street,Storrington,Pulborough
+2021-03-29,385000,RH20 1FX,S,Y,F,60,,Sinclair Drive,Codmore Hill,Pulborough
+2021-03-29,455000,RH20 1EJ,S,N,F,Devon Villas,1,Lower Street,Fittleworth,Pulborough
+2021-03-26,480000,RH20 4NE,D,N,F,Trewent,,Fryern Road,Storrington,Pulborough
+2021-03-26,330000,RH20 4HB,S,N,F,36,,Windmill Copse,Storrington,Pulborough
+2021-03-26,430000,RH20 4BF,F,N,L,5,,Birklands,Storrington,Pulborough
+2021-03-26,495000,RH20 4AS,D,N,F,St Marys Gate,,The Street,Washington,Pulborough
+2021-03-26,370000,RH20 3NS,S,N,F,12,,Southdown Way,Storrington,Pulborough
+2021-03-26,330000,RH20 3JY,T,N,F,26,,Church Lane,Ashington,Pulborough
+2021-03-26,525000,RH20 2QQ,D,N,F,6,,Mill End,West Chiltington,Pulborough
+2021-03-26,1300000,RH20 2HJ,D,N,F,Highcroft Farmhouse,,Gay Street,,Pulborough
+2021-03-26,715000,RH20 1FU,D,Y,F,4,,Corden Place,Codmore Hill,Pulborough
+2021-03-25,530000,RH20 3LB,D,N,F,21,,Hillcrest Drive,Ashington,Pulborough
+2021-03-25,471250,RH20 3JP,D,N,F,Forge House,,London Road,Ashington,Pulborough
+2021-03-25,725000,RH20 2HN,D,N,F,Beedings Cottage,,Gay Street Lane,North Heath,Pulborough
+2021-03-25,330000,RH20 2EQ,D,N,F,4,,Sanctuary Court,,Pulborough
+2021-03-24,297000,RH20 4QU,T,N,F,8,,Crowhurst Crescent,Storrington,Pulborough
+2021-03-24,232500,RH20 4EY,T,N,F,3,,Cassidy Place,Storrington,Pulborough
+2021-03-24,637500,RH20 3JH,D,N,F,Beech Tree Corner,,Georges Lane,Storrington,Pulborough
+2021-03-23,620000,RH20 4QS,D,N,F,64,,Dean Way,Storrington,Pulborough
+2021-03-23,300000,RH20 3NP,S,N,F,44,,Beech Grove,Storrington,Pulborough
+2021-03-23,900000,RH20 2RF,D,N,F,The Gate House,,Threals Lane,West Chiltington,Pulborough
+2021-03-23,550000,RH20 2NT,D,N,F,Green Shadow,,Roundabout Lane,West Chiltington,Pulborough
+2021-03-23,2000000,RH20 2EA,D,N,F,Mare Meadow,,West Mare Lane,,Pulborough
+2021-03-23,995000,RH20 1PB,D,N,F,Bean Tree Cottage,,Church Lane,Bury,Pulborough
+2021-03-23,810000,RH20 1LW,D,N,F,Woodlands,,Church Lane,Coldwaltham,Pulborough
+2021-03-23,485000,RH20 1FU,D,Y,F,8,,Corden Place,Codmore Hill,Pulborough
+2021-03-22,635000,RH20 3GW,D,Y,F,28,,Abingworth Crescent,Thakeham,Pulborough
+2021-03-19,460000,RH20 4AR,S,N,F,12,,Chanctonbury Close,Washington,Pulborough
+2021-03-19,620000,RH20 4AE,D,N,F,The Bungalow,,Sullington Lane,Storrington,Pulborough
+2021-03-19,515000,RH20 3JY,D,N,F,The White House,,Church Lane,Ashington,Pulborough
+2021-03-19,289950,RH20 3BS,S,N,F,17,,Spring Gardens,Washington,Pulborough
+2021-03-19,479000,RH20 2QE,D,N,F,1,,Larch End,West Chiltington,Pulborough
+2021-03-19,325000,RH20 2AJ,S,N,F,17,,Rectory Close,,Pulborough
+2021-03-19,718000,RH20 1NR,D,N,F,The Cedar House,,Bury Common,Bury,Pulborough
+2021-03-18,395000,RH20 3LB,S,N,F,14,,Hillcrest Drive,Ashington,Pulborough
+2021-03-18,799950,RH20 3GY,D,N,F,10,,Pavilion Close,Thakeham,Pulborough
+2021-03-18,290000,RH20 3GW,F,N,L,3,Flat 1,Abingworth Crescent,Thakeham,Pulborough
+2021-03-17,587500,RH20 3QG,D,N,F,18,,Turnpike Way,Ashington,Pulborough
+2021-03-17,725000,RH20 2HG,D,N,F,Applegarth,,Stream Lane,Nutbourne,Pulborough
+2021-03-17,480000,RH20 1LJ,D,N,F,10,,Silverdale,Coldwaltham,Pulborough
+2021-03-16,270000,RH20 1RJ,T,N,F,5,,Swan Corner,,Pulborough
+2021-03-15,805000,RH20 2HE,D,N,F,Nutbourne Manor Cottage,,The Street,Nutbourne,Pulborough
+2021-03-12,365000,RH20 3NY,D,N,F,6,,Rainbow Way,Storrington,Pulborough
+2021-03-12,475000,RH20 3NY,D,N,F,12,,Rainbow Way,Storrington,Pulborough
+2021-03-12,170000,RH20 3ND,F,N,L,1,,Kingsfield,Storrington,Pulborough
+2021-03-12,795000,RH20 2NR,D,N,F,Hill Side,,Common Hill,West Chiltington,Pulborough
+2021-03-12,725000,RH20 2NJ,D,N,F,Highwood,,Castlegate,,Pulborough
+2021-03-12,715000,RH20 2LA,D,N,F,Westridge House,,Broadford Bridge Road,West Chiltington,Pulborough
+2021-03-12,222500,RH20 2BP,F,N,L,"The Mews, 89",Flat 1,Lower Street,,Pulborough
+2021-03-12,570000,RH20 1PE,D,N,F,53,,Coombe Crescent,Bury,Pulborough
+2021-03-12,725000,RH20 1LG,D,N,F,Cedar Cottage,,London Road,Coldwaltham,Pulborough
+2021-03-12,550000,RH20 1HT,D,N,F,3,,The Gardens,Fittleworth,Pulborough
+2021-03-12,420000,RH20 1HH,D,N,F,11,,High Trees,Fittleworth,Pulborough
+2021-03-12,550000,RH20 1FX,D,Y,F,6,,Sinclair Drive,Codmore Hill,Pulborough
+2021-03-11,620000,RH20 3QX,D,N,F,42,,Chestnut Drive,Thakeham,Pulborough
+2021-03-11,465000,RH20 3LW,S,N,F,Teviotdale,,Ivy Close,Ashington,Pulborough
+2021-03-11,880000,RH20 3HJ,D,N,F,Wild Fortune,,Sandgate Lane,Storrington,Pulborough
+2021-03-11,845000,RH20 2PP,D,N,F,Barn Owls,,New Barn Lane,West Chiltington,Pulborough
+2021-03-11,330000,RH20 1PE,T,N,F,5,,Coombe Crescent,Bury,Pulborough
+2021-03-10,795000,RH20 3QZ,D,N,F,4,,Hazelbank,Ashington,Pulborough
+2021-03-10,630000,RH20 3QB,D,N,F,12A,,Meiros Way,Ashington,Pulborough
+2021-03-10,890000,RH20 1NX,D,N,F,Brockhurst Farm,Meadowview,London Road,Watersfield,Pulborough
+2021-03-09,460000,RH20 4QY,D,N,F,10,,Faithfull Crescent,Storrington,Pulborough
+2021-03-09,400000,RH20 4PW,D,N,F,3,,Hormare Crescent,Storrington,Pulborough
+2021-03-09,559000,RH20 4JZ,D,N,F,11,,Turners Mead,Storrington,Pulborough
+2021-03-09,599950,RH20 3HR,D,N,F,Sandalwood,,Bracken Lane,Storrington,Pulborough
+2021-03-09,210000,RH20 2HT,F,N,L,18,,Barnhouse Close,,Pulborough
+2021-03-09,875000,RH20 1PA,D,N,F,Farriers,,The Street,Bury,Pulborough
+2021-03-09,405000,RH20 1FQ,S,Y,F,21,,Corden Place,Codmore Hill,Pulborough
+2021-03-08,950000,RH20 4JQ,D,N,F,Burwood,,Amberley Road,Storrington,Pulborough
+2021-03-08,770000,RH20 3GY,D,N,F,3,,Pavilion Close,Thakeham,Pulborough
+2021-03-08,1100000,RH20 2LN,D,N,F,Dan Farm,,Goose Green Lane,Goose Green,Pulborough
+2021-03-08,374950,RH20 2BW,S,N,F,68A,,Lower Street,,Pulborough
+2021-03-08,510000,RH20 1DJ,D,N,F,Peartree Cottage,,Stane Street,North Heath,Pulborough
+2021-03-05,450000,RH20 4QY,D,N,F,15,,Faithfull Crescent,Storrington,Pulborough
+2021-03-05,375000,RH20 4NJ,D,N,F,43,,Hawthorn Way,Storrington,Pulborough
+2021-03-05,365000,RH20 3NJ,S,N,F,16,,Sullington Copse,Storrington,Pulborough
+2021-03-05,697500,RH20 3GW,D,Y,F,20,,Abingworth Crescent,Thakeham,Pulborough
+2021-03-05,230000,RH20 3GL,F,N,L,30,,Blakiston Close,Ashington,Pulborough
+2021-03-05,300000,RH20 3EU,T,N,F,20,,Linfield Copse,Thakeham,Pulborough
+2021-03-05,345000,RH20 2AJ,S,N,F,19,,Rectory Close,,Pulborough
+2021-03-05,925000,RH20 1NR,D,N,F,Treelands,,Bury Common,Bury,Pulborough
+2021-03-05,435000,RH20 1LN,D,N,F,"Tinkers Halt, 4",,Mapleleaf,Coldwaltham,Pulborough
+2021-03-05,585000,RH20 1LG,D,N,F,Highlands,,London Road,Coldwaltham,Pulborough
+2021-03-05,365000,RH20 1FQ,T,Y,F,55,,Corden Place,Codmore Hill,Pulborough
+2021-03-04,530000,RH20 4LW,D,N,F,"St Wilfreds, 13",,Fern Road,Storrington,Pulborough
+2021-03-04,290000,RH20 4JW,T,N,F,17,,Cootham Green,Cootham,Pulborough
+2021-03-04,473000,RH20 4HX,D,N,F,18,,Hormare Crescent,Storrington,Pulborough
+2021-03-04,631000,RH20 3NB,D,N,F,28,,Crescent Rise,Thakeham,Pulborough
+2021-03-04,822500,RH20 2BN,D,N,F,10,,Allfreys Wharf,,Pulborough
+2021-03-03,655000,RH20 3QZ,D,N,F,2,,Hazelbank,Ashington,Pulborough
+2021-03-02,675000,RH20 4QS,D,N,F,52,,Dean Way,Storrington,Pulborough
+2021-03-02,320000,RH20 4BW,S,N,F,Eastbrook Court Cottages,7,Manleys Hill,Storrington,Pulborough
+2021-03-02,667500,RH20 3LP,D,N,F,39,,Rectory Close,Ashington,Pulborough
+2021-03-02,925000,RH20 3JE,D,N,F,Lowood,,Sanctuary Lane,Storrington,Pulborough
+2021-03-02,700000,RH20 3GW,D,Y,F,18,,Abingworth Crescent,Thakeham,Pulborough
+2021-03-02,333000,RH20 3GT,S,N,F,17,,Leatherbottle Way,Storrington,Pulborough
+2021-03-02,665000,RH20 3EP,D,N,F,Pine Tree Cottage,,The Street,Thakeham,Pulborough
+2021-02-26,320000,RH20 4LT,T,N,L,30,,Chanctonbury Walk,Storrington,Pulborough
+2021-02-26,750000,RH20 4LS,D,N,F,2,,Link Hill,Storrington,Pulborough
+2021-02-26,500000,RH20 3QE,D,N,F,15,,Chanctonbury,Ashington,Pulborough
+2021-02-26,930000,RH20 3PA,D,N,F,Ashcombe,,Chestnut Close,Storrington,Pulborough
+2021-02-26,735000,RH20 3JW,D,N,F,La Rochelle,,Thakeham Copse,Storrington,Pulborough
+2021-02-26,970000,RH20 2NL,D,N,F,Ranleigh House,,Common Hill,West Chiltington,Pulborough
+2021-02-26,192000,RH20 2DL,F,N,L,7,,Herons Rye,,Pulborough
+2021-02-26,410000,RH20 1FQ,S,Y,F,29,,Corden Place,Codmore Hill,Pulborough
+2021-02-26,414000,RH20 1FQ,S,Y,F,27,,Corden Place,Codmore Hill,Pulborough
+2021-02-25,435000,RH20 4JZ,D,N,F,1,,Turners Mead,Storrington,Pulborough
+2021-02-25,380000,RH20 3NR,D,N,F,10,,Woodside Close,Storrington,Pulborough
+2021-02-25,735000,RH20 3AG,D,N,F,Amari,,Rock Road,Storrington,Pulborough
+2021-02-25,875000,RH20 2BP,D,N,F,Moncrieff Barn,,Lower Street,,Pulborough
+2021-02-25,370000,RH20 2BL,S,N,F,28,,Lower Street,,Pulborough
+2021-02-25,219000,RH20 1FL,F,N,L,28,,Harwood Close,Codmore Hill,Pulborough
+2021-02-24,468250,RH20 4QY,D,N,F,4,,Faithfull Crescent,Storrington,Pulborough
+2021-02-24,485000,RH20 4HJ,S,N,F,33,,Pulborough Road,Storrington,Pulborough
+2021-02-24,550000,RH20 4AR,D,N,F,Fairview,,Chanctonbury Close,Washington,Pulborough
+2021-02-24,900000,RH20 2HZ,D,N,F,Owls Acre,,Broomers Hill Lane,,Pulborough
+2021-02-24,1525000,RH20 2HJ,D,N,F,Spring Hill,,Gay Street,,Pulborough
+2021-02-24,440000,RH20 1ND,S,N,F,Cherrytree Cottage,,London Road,Watersfield,Pulborough
+2021-02-24,470000,RH20 1LJ,D,N,F,17,,Silverdale,Coldwaltham,Pulborough
+2021-02-22,625000,RH20 4FR,S,Y,F,1,,The Glebe,Storrington,Pulborough
+2021-02-22,239995,RH20 2HT,F,N,L,16,,Barnhouse Close,,Pulborough
+2021-02-22,1330000,RH20 2HR,D,N,F,Stallhouse Barn,,Stall House Lane,North Heath,Pulborough
+2021-02-22,325000,RH20 2BN,D,N,F,5,,Allfreys Wharf,,Pulborough
+2021-02-22,203000,RH20 1FE,F,N,L,Wey House,4,Spiro Close,,Pulborough
+2021-02-22,440000,RH20 1AX,D,N,F,4,,Waters Edge,,Pulborough
+2021-02-19,475000,RH20 4AN,D,N,F,Pinecroft,,The Holt,Washington,Pulborough
+2021-02-19,860000,RH20 3PJ,D,N,F,Nevern House,,Mead Lane,Storrington,Pulborough
+2021-02-19,655000,RH20 3LP,D,N,F,32,,Rectory Close,Ashington,Pulborough
+2021-02-19,1060000,RH20 3JF,D,N,F,Tree Tops,,Veras Walk,Storrington,Pulborough
+2021-02-19,382000,RH20 3GN,S,N,F,3,,Lamorna Close,Washington,Pulborough
+2021-02-18,157500,RH20 4EP,S,N,L,20,,John Ireland Way,Washington,Pulborough
+2021-02-18,375000,RH20 3LB,S,N,F,28,,Hillcrest Drive,Ashington,Pulborough
+2021-02-18,345000,RH20 2DG,T,N,F,1,,The Mews,,Pulborough
+2021-02-17,395000,RH20 4FH,T,N,F,The Laurels,4,Pulborough Road,Storrington,Pulborough
+2021-02-17,662500,RH20 3JQ,D,N,F,21,,Cricketers Close,Ashington,Pulborough
+2021-02-17,765000,RH20 3HG,D,N,F,Lark Rise,,Woodlands Lane,Storrington,Pulborough
+2021-02-16,190000,RH20 4PE,F,N,L,3,,Holly Court,Storrington,Pulborough
+2021-02-16,842500,RH20 2QR,D,N,F,Downsview,,Haglands Lane,West Chiltington,Pulborough
+2021-02-15,295000,RH20 3NX,S,N,F,3,,Rother Close,Storrington,Pulborough
+2021-02-15,730000,RH20 1NX,D,N,F,Brockhurst Farm,Wooly Lodge,London Road,Watersfield,Pulborough
+2021-02-15,399950,RH20 1LP,D,N,F,8,,Arun Vale,Coldwaltham,Pulborough
+2021-02-12,560000,RH20 4NU,D,N,F,Hollies,,Nightingale Lane,Storrington,Pulborough
+2021-02-12,735000,RH20 4AF,D,N,F,Greenacres Farm,Poppies,Washington Road,Storrington,Pulborough
+2021-02-12,690000,RH20 3HZ,D,N,F,Chardonnay,,Hampers Lane,Storrington,Pulborough
+2021-02-11,410000,RH20 1FQ,S,Y,F,25,,Corden Place,Codmore Hill,Pulborough
+2021-02-10,303000,RH20 4JE,T,N,F,16,,Amberley Road,Storrington,Pulborough
+2021-02-10,1200000,RH20 4AG,D,N,F,Hillside,,Storrington Road,Washington,Pulborough
+2021-02-10,810000,RH20 2RL,D,N,F,Judds Wood,2,Roundabout Lane,West Chiltington,Pulborough
+2021-02-10,485000,RH20 1FU,D,Y,F,6,,Corden Place,Codmore Hill,Pulborough
+2021-02-08,385000,RH20 4LF,T,N,L,9,,Manor Close,Storrington,Pulborough
+2021-02-08,850000,RH20 4BL,D,N,F,Corsley,,Melton Drive,Storrington,Pulborough
+2021-02-08,645000,RH20 3HQ,D,N,F,Villa Adagio,,Newhouse Lane,Storrington,Pulborough
+2021-02-08,835000,RH20 2BH,S,N,F,33,,Lower Street,,Pulborough
+2021-02-08,545000,RH20 2AD,D,N,F,Andrews,,Rectory Lane,,Pulborough
+2021-02-05,637500,RH20 3GW,D,Y,F,24,,Abingworth Crescent,Thakeham,Pulborough
+2021-02-05,770000,RH20 3EN,S,N,F,South Hill Farmhouse,,Storrington Road,Thakeham,Pulborough
+2021-02-04,395000,RH20 1FU,S,Y,F,18,,Corden Place,Codmore Hill,Pulborough
+2021-02-03,495000,RH20 4QY,D,N,F,2,,Faithfull Crescent,Storrington,Pulborough
+2021-02-03,520000,RH20 3EU,S,N,F,1,,Linfield Copse,Thakeham,Pulborough
+2021-02-03,400000,RH20 1FU,S,Y,F,16,,Corden Place,Codmore Hill,Pulborough
+2021-02-02,520000,RH20 2HU,D,N,F,14,,Curbey Close,West Chiltington,Pulborough
+2021-02-01,282000,RH20 4EJ,T,N,F,60,,Ravenscroft,Storrington,Pulborough
+2021-02-01,367500,RH20 2DQ,D,N,F,7,,Downlands,,Pulborough
+2021-02-01,282000,RH20 2BW,S,N,F,38,,Lower Street,,Pulborough
+2021-02-01,385000,RH20 2BF,S,N,F,32,,Swan View,,Pulborough
+2021-01-29,250000,RH20 4QQ,T,N,F,17,,Rectory Close,Storrington,Pulborough
+2021-01-29,665000,RH20 3QZ,D,N,F,3,,Hazelbank,Ashington,Pulborough
+2021-01-29,350000,RH20 3LS,S,N,F,40,,Pulla Hill Drive,Storrington,Pulborough
+2021-01-29,750000,RH20 2NG,D,N,F,Cornerways,,Silver Wood,West Chiltington,Pulborough
+2021-01-29,375000,RH20 1FQ,T,Y,F,37,,Corden Place,Codmore Hill,Pulborough
+2021-01-29,400000,RH20 1FQ,S,Y,F,23,,Corden Place,Codmore Hill,Pulborough
+2021-01-28,419950,RH20 3QX,S,Y,F,36,,Chestnut Drive,Thakeham,Pulborough
+2021-01-28,650000,RH20 1NP,D,N,F,Sunnydell,,Bury Common,Bury,Pulborough
+2021-01-27,350000,RH20 3GS,T,N,F,9,,Mousdell Close,Ashington,Pulborough
+2021-01-27,378000,RH20 2JT,S,N,F,9,,The Juggs,West Chiltington,Pulborough
+2021-01-27,280000,RH20 2BA,F,N,L,Beaumont Court,Flat 6,Skeyne Drive,,Pulborough
+2021-01-27,285000,RH20 1DH,T,N,F,4,,Bell Close,,Pulborough
+2021-01-26,1422000,RH20 1NQ,D,N,F,Swallowfield,,London Road,Watersfield,Pulborough
+2021-01-25,382500,RH20 2JJ,D,N,F,26,,Glebelands,,Pulborough
+2021-01-22,375000,RH20 4HU,S,N,F,6,,Hormare Crescent,Storrington,Pulborough
+2021-01-22,502000,RH20 2PR,D,N,F,Furze Cottage,,West Chiltington Road,,Pulborough
+2021-01-22,400000,RH20 1FU,S,Y,F,20,,Corden Place,Codmore Hill,Pulborough
+2021-01-22,305000,RH20 1FT,T,N,F,3,,Bartram Close,,Pulborough
+2021-01-21,740000,RH20 2PU,D,N,F,Little Quarry,,Little Hill,West Chiltington,Pulborough
+2021-01-21,650000,RH20 1PB,D,N,F,Hidden House,,Church Lane,Bury,Pulborough
+2021-01-21,410000,RH20 1JU,T,N,F,Egdean Cottages,1,Egdean,Fittleworth,Pulborough
+2021-01-21,405000,RH20 1FQ,D,Y,F,33,,Corden Place,Codmore Hill,Pulborough
+2021-01-20,450000,RH20 4NJ,D,N,F,49,,Hawthorn Way,Storrington,Pulborough
+2021-01-20,430000,RH20 4HJ,S,N,F,43,,Pulborough Road,Storrington,Pulborough
+2021-01-20,295000,RH20 4FJ,F,N,L,9,,Strome Park,Storrington,Pulborough
+2021-01-20,225000,RH20 4BW,F,N,L,Eastbrook Court,2,Manleys Hill,Storrington,Pulborough
+2021-01-19,501000,RH20 3JQ,D,N,F,28,,Cricketers Close,Ashington,Pulborough
+2021-01-15,490000,RH20 3QX,D,Y,F,11,,Chestnut Drive,Thakeham,Pulborough
+2021-01-15,780000,RH20 3JD,D,N,F,Hurworth,,Sanctuary Lane,Storrington,Pulborough
+2021-01-15,1400000,RH20 1JY,D,N,F,River Valley,,Riverhill,Fittleworth,Pulborough
+2021-01-14,1160000,RH20 2EF,D,N,F,Lowerfold,,Tudor Close,,Pulborough
+2021-01-14,575000,RH20 1JE,D,N,F,Ivy Cottage,,Lower Street,Fittleworth,Pulborough
+2021-01-14,760000,RH20 1HS,D,N,F,Gingerbread Cottage,,The Fleet,Fittleworth,Pulborough
+2021-01-13,833500,RH20 2SD,D,N,F,2,,Oakvale,West Chiltington,Pulborough
+2021-01-12,485000,RH20 2JP,D,N,F,5,,Pond Rise,West Chiltington,Pulborough
+2021-01-11,375000,RH20 1FQ,T,Y,F,43,,Corden Place,Codmore Hill,Pulborough
+2021-01-08,233000,RH20 4JE,T,N,F,11,,Amberley Road,Storrington,Pulborough
+2021-01-08,503000,RH20 4AE,S,N,F,2,,Sullington Lane,Storrington,Pulborough
+2021-01-08,910000,RH20 3QW,D,N,F,2,,Silver Birches,Storrington,Pulborough
+2021-01-08,540000,RH20 2PX,D,N,F,Pippins,,Finches Lane,West Chiltington,Pulborough
+2021-01-08,420000,RH20 1PD,S,N,F,1,,Houghton Lane,Bury,Pulborough
+2021-01-08,370000,RH20 1FQ,T,Y,F,39,,Corden Place,Codmore Hill,Pulborough
+2021-01-07,226500,RH20 4NU,F,N,L,Berkeley Lodge,Flat 1,Nightingale Lane,Storrington,Pulborough
+2021-01-07,632000,RH20 3QB,D,N,F,26,,Meiros Way,Ashington,Pulborough
+2021-01-07,375000,RH20 3NB,D,N,F,17,,Crescent Rise,Thakeham,Pulborough
+2021-01-07,400000,RH20 3LB,S,N,F,45,,Hillcrest Drive,Ashington,Pulborough
+2021-01-07,625000,RH20 3JE,D,N,F,Hamfield Cottage,,Sanctuary Lane,Storrington,Pulborough

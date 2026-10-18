@@ -1,0 +1,991 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-14,485000,CA4 9QR,D,N,F,High Garth,,,Ruckcroft,Carlisle
+2026-08-11,437500,CA4 8LD,D,N,F,65,,Greenacres,Wetheral,Carlisle
+2026-07-24,185000,CA4 8PN,S,N,F,Roma House,,,Corby Hill,Carlisle
+2026-07-22,620000,CA4 0PA,D,N,F,Garner House,,,Ivegill,Carlisle
+2026-07-17,355000,CA4 9SY,D,N,F,Froddle Crook,,,Armathwaite,Carlisle
+2026-07-17,394950,CA4 8HX,D,Y,F,7,,Leveret Lane,Scotby,Carlisle
+2026-07-17,518000,CA4 8DR,D,N,F,14,,Holme Meadow,Cumwhinton,Carlisle
+2026-07-16,295000,CA4 0PE,T,N,F,"The Granary, 7",,The Grange,Ivegill,Carlisle
+2026-07-15,400000,CA4 8DH,D,N,F,Millfield House,,,Cumwhinton,Carlisle
+2026-07-15,160000,CA4 0RL,D,N,L,The Shieling,,,Wreay,Carlisle
+2026-07-10,217500,CA4 8FN,S,N,F,6,,King George Gardens,Warwick Bridge,Carlisle
+2026-07-01,620000,CA4 8RJ,D,N,F,Holme View,,,Warwick Bridge,Carlisle
+2026-06-29,250000,CA4 8DW,F,N,L,7,,Scotby Grange,Scotby,Carlisle
+2026-06-26,143500,CA4 8FT,T,N,F,14,,Lough Wood Crescent,Scotby,Carlisle
+2026-06-22,465000,CA4 0RG,D,N,F,4,,St Marys Court,Wreay,Carlisle
+2026-06-19,187500,CA4 8LJ,T,N,F,5,,Corby Gates,Great Corby,Carlisle
+2026-06-15,147000,CA4 8FT,S,N,F,8,,Lough Wood Crescent,Scotby,Carlisle
+2026-06-12,275000,CA4 8FT,S,N,F,4,,Lough Wood Crescent,Scotby,Carlisle
+2026-06-10,216000,CA4 8JR,F,N,L,27,,Goose Garth,Wetheral,Carlisle
+2026-06-01,210000,CA4 8JF,T,N,F,2,,Pleasant View,Wetheral,Carlisle
+2026-05-28,350000,CA4 8FA,D,N,F,23,,Alders Edge,Scotby,Carlisle
+2026-05-28,430000,CA4 8ET,D,N,F,Orchard Cottage,,The Green,Wetheral,Carlisle
+2026-05-28,210000,CA4 8ER,S,N,F,Rosecote,,,Cumwhinton,Carlisle
+2026-05-22,375000,CA4 8AU,D,N,F,6,,Near Park,Scotby,Carlisle
+2026-05-22,350000,CA4 8AT,S,N,F,Lochiel,,Park Road,Scotby,Carlisle
+2026-05-22,430000,CA4 8AL,D,N,F,25,,The Old Tannery,Scotby,Carlisle
+2026-05-18,168000,CA4 8FQ,S,N,F,19,,St Constantines Way,Wetheral,Carlisle
+2026-05-15,370000,CA4 8AL,D,N,F,10,,The Old Tannery,Scotby,Carlisle
+2026-05-15,245000,CA4 0DF,S,N,F,37,,Townhead Road,Cotehill,Carlisle
+2026-05-11,340000,CA4 8FW,D,N,F,9,,Reeds Way,Cumwhinton,Carlisle
+2026-05-08,400000,CA4 8FF,D,N,F,2,,Thornedge Court,Cumwhinton,Carlisle
+2026-05-08,425000,CA4 8DH,D,N,F,The Old Forge,,,Cumwhinton,Carlisle
+2026-05-08,305000,CA4 0HS,D,N,F,Charphyl,,,High Hesket,Carlisle
+2026-05-07,380000,CA4 9RZ,T,N,F,Lion House,,,Croglin,Carlisle
+2026-05-01,255000,CA4 8QF,T,N,F,52,,Hurley Road,Little Corby,Carlisle
+2026-05-01,227000,CA4 8FN,S,N,F,3,,King George Gardens,Warwick Bridge,Carlisle
+2026-04-29,230000,CA4 0HA,S,N,F,1,,Stoney Mount,Low Hesket,Carlisle
+2026-04-23,210000,CA4 8EJ,T,N,F,11,,Beech Tree Farm,Cumwhinton,Carlisle
+2026-04-21,485000,CA4 8FT,D,N,F,23,,Lough Wood Crescent,Scotby,Carlisle
+2026-04-15,435000,CA4 8HR,D,N,F,Rossandahl,,,Wetheral Pasture,Carlisle
+2026-04-10,298000,CA4 8BT,S,N,F,16,,Ghyll Road,Scotby,Carlisle
+2026-04-07,161000,CA4 0DQ,S,N,F,2,,Front Street,Cotehill,Carlisle
+2026-04-02,215000,CA4 8LX,S,N,F,10,,Woodlands,Great Corby,Carlisle
+2026-04-02,210000,CA4 8JF,T,N,F,3,,Pleasant View,Wetheral,Carlisle
+2026-04-02,350000,CA4 8EG,S,N,F,The Byre,,Pow Maughan Court,Scotby,Carlisle
+2026-03-31,403500,CA4 8DS,S,N,F,3,,Holme Farm Court,Cumwhinton,Carlisle
+2026-03-27,590000,CA4 0AJ,D,N,F,Newbiggin House,,,Carleton,Carlisle
+2026-03-20,355000,CA4 8NE,D,N,F,Chapel House,,,Great Corby,Carlisle
+2026-03-20,230000,CA4 8LP,T,N,F,9,,The Beeches,Great Corby,Carlisle
+2026-03-18,300000,CA4 0EJ,D,N,F,Blindwells,,,Low Cotehill,Carlisle
+2026-03-17,325000,CA4 8AG,D,N,F,Hartside,,,Aglionby,Carlisle
+2026-03-17,353000,CA4 0RB,D,N,F,Four Ways,,,Brisco,Carlisle
+2026-03-12,800000,CA4 9SE,D,N,F,Scarrowmanwick,The Croft,,Croglin,Carlisle
+2026-03-11,250000,CA4 8ET,F,N,L,Killoran,Thirlmere 4,The Green,Wetheral,Carlisle
+2026-03-11,440000,CA4 8BW,S,N,F,3,,Scotby Village,Scotby,Carlisle
+2026-03-10,550000,CA4 8JY,D,N,F,Eden House,,Plains Road,Wetheral,Carlisle
+2026-03-09,143500,CA4 8FT,S,N,F,20,,Lough Wood Crescent,Scotby,Carlisle
+2026-03-06,142500,CA4 0JS,T,N,L,Haycock,,Barrock Park,Southwaite,Carlisle
+2026-03-04,400000,CA4 8FL,D,N,F,9,,Thornedge Gardens,Cumwhinton,Carlisle
+2026-03-03,304000,CA4 9TN,D,N,F,Nord Vue Lodge,,,Armathwaite,Carlisle
+2026-02-27,340000,CA4 9PB,S,N,F,Eden Grove,,,Armathwaite,Carlisle
+2026-02-27,740000,CA4 8HH,D,N,F,"Howard Lodge, 1",,Paddock Lane,Wetheral Pasture,Carlisle
+2026-02-27,430000,CA4 0RL,D,N,F,Littles Way,,,Wreay,Carlisle
+2026-02-19,382500,CA4 8DW,D,N,L,15,,Scotby Grange,Scotby,Carlisle
+2026-02-18,400000,CA4 0AL,D,N,F,Garth Cottage,,Alby Orchard,Cumwhinton,Carlisle
+2026-02-13,130000,CA4 8RH,T,N,F,24,,Chapel Close,Warwick Bridge,Carlisle
+2026-02-13,265000,CA4 8NS,T,N,F,1,,Bridge End Cottages,Wetheral,Carlisle
+2026-02-12,520000,CA4 9AQ,D,N,F,7,,Curlew Close,Armathwaite,Carlisle
+2026-02-12,30000,CA4 8AL,F,N,L,11,,The Old Tannery,Scotby,Carlisle
+2026-02-09,335000,CA4 8PA,D,N,F,The Quoins,,,Warwick On Eden,Carlisle
+2026-02-09,450000,CA4 8PA,D,N,F,3,,Warwick Farm,Warwick On Eden,Carlisle
+2026-02-09,399950,CA4 8JH,D,N,F,8,,Croft Park,Wetheral,Carlisle
+2026-02-05,309000,CA4 9TP,S,N,F,Baron Wood,Beech Cottage,,Armathwaite,Carlisle
+2026-02-05,323200,CA4 8ET,F,N,L,Killoran,Haweswater 2,The Green,Wetheral,Carlisle
+2026-02-05,360000,CA4 8AL,D,N,F,12,,The Old Tannery,Scotby,Carlisle
+2026-02-04,300000,CA4 9QF,S,N,F,4,,Ghyll Croft,Ainstable,Carlisle
+2026-02-04,180000,CA4 0AU,S,N,F,4,,Alby Terrace,Cumwhinton,Carlisle
+2026-01-30,285000,CA4 8AT,S,N,F,Northway,,Park Road,Scotby,Carlisle
+2026-01-23,260000,CA4 8PE,D,N,F,1,,Grahams Croft,Warwick On Eden,Carlisle
+2026-01-20,385000,CA4 8JY,D,N,F,Roseneath,,Plains Road,Wetheral,Carlisle
+2026-01-19,240000,CA4 0DY,T,N,F,Tomary Cottage,,,Cotehill,Carlisle
+2026-01-16,325000,CA4 9PF,D,N,F,Roundwood,,,Armathwaite,Carlisle
+2026-01-16,195000,CA4 9PB,D,N,F,Forge Cottage,,,Armathwaite,Carlisle
+2026-01-07,160000,CA4 0QW,D,N,F,Cammock Cottage,,,Brisco,Carlisle
+2025-12-19,190000,CA4 9PL,T,N,F,4,,Station Road,Armathwaite,Carlisle
+2025-12-18,660000,CA4 8FJ,D,N,F,2,,Williams Pasture,Aglionby,Carlisle
+2025-12-18,480000,CA4 8DE,D,N,F,25,,Broomfallen Road,Scotby,Carlisle
+2025-12-12,129950,CA4 8EH,T,N,L,20,,Scotby Green Steading,Scotby,Carlisle
+2025-12-12,165000,CA4 0QS,S,N,F,Hazeldean,,,Brisco,Carlisle
+2025-12-12,650000,CA4 0QF,D,N,F,Owl Barn,,,Ivegill,Carlisle
+2025-12-12,215000,CA4 0DZ,D,N,F,Pennine View,,Front Street,Cotehill,Carlisle
+2025-12-10,490000,CA4 8LN,T,N,F,3,,Wentworth Terrace,Great Corby,Carlisle
+2025-12-05,295000,CA4 8PF,D,N,F,8,,Buffs Croft,Warwick On Eden,Carlisle
+2025-11-28,355000,CA4 8AT,D,N,F,1,,Park Road,Scotby,Carlisle
+2025-11-24,325000,CA4 8HE,S,N,F,Green Garth,,,Wetheral,Carlisle
+2025-11-21,180000,CA4 8PA,D,N,F,10,,,Warwick On Eden,Carlisle
+2025-11-21,180000,CA4 8PA,D,N,F,10,,,Warwick On Eden,Carlisle
+2025-11-21,290000,CA4 8LL,S,N,F,Cherry Tree Cottage,,,Great Corby,Carlisle
+2025-11-20,515000,CA4 8PA,D,N,F,Ashbury House,,,Warwick On Eden,Carlisle
+2025-11-20,231000,CA4 8FA,S,N,F,10,,Alders Edge,Scotby,Carlisle
+2025-11-14,183000,CA4 8RE,T,N,F,Holme Eden Farm Cottages,2,The Courtyard,Warwick Bridge,Carlisle
+2025-11-14,270000,CA4 8QN,D,N,F,25,,Little Corby Road,Little Corby,Carlisle
+2025-11-14,272500,CA4 8FA,T,N,F,33,,Alders Edge,Scotby,Carlisle
+2025-11-14,238000,CA4 8FA,S,N,F,26,,Alders Edge,Scotby,Carlisle
+2025-11-07,242500,CA4 8FT,S,N,F,5,,Lough Wood Crescent,Scotby,Carlisle
+2025-11-07,81000,CA4 8EH,F,N,L,7,,Scotby Green Steading,Scotby,Carlisle
+2025-10-31,276000,CA4 9AQ,S,N,F,10,,Curlew Close,Armathwaite,Carlisle
+2025-10-31,440000,CA4 8DE,D,N,F,57,,Broomfallen Road,Scotby,Carlisle
+2025-10-31,145000,CA4 0RJ,T,N,F,1,,Wreay Court,Wreay,Carlisle
+2025-10-28,144000,CA4 8QP,T,N,F,8,,Millriggs,Corby Hill,Carlisle
+2025-10-27,280000,CA4 0HS,D,N,F,Vedra,,,High Hesket,Carlisle
+2025-10-24,145500,CA4 9QD,T,N,F,1,,Wayside Cottages,Ainstable,Carlisle
+2025-10-24,550000,CA4 8BA,D,N,F,8,,Wellgate,Scotby,Carlisle
+2025-10-24,135000,CA4 0JU,T,N,F,1,,Hesket Place,Southwaite,Carlisle
+2025-10-23,470000,CA4 8JG,D,N,F,Jessamine Cottage,,,Wetheral,Carlisle
+2025-10-23,507000,CA4 0NA,D,N,F,Stoneleigh,,,Southwaite,Carlisle
+2025-10-17,150000,CA4 8DX,S,N,F,8,,West View,Cumwhinton,Carlisle
+2025-10-15,136500,CA4 0DL,S,N,F,Hillcrest,,Front Street,Cotehill,Carlisle
+2025-10-10,171000,CA4 8QR,T,N,F,86,,Millriggs,Corby Hill,Carlisle
+2025-10-10,400000,CA4 8LD,D,N,F,90,,Greenacres,Wetheral,Carlisle
+2025-10-10,350000,CA4 8LD,D,N,F,66,,Greenacres,Wetheral,Carlisle
+2025-10-10,325000,CA4 8JG,F,N,L,Skelton Court,Apartment 3,,Wetheral,Carlisle
+2025-10-10,320000,CA4 8DE,D,N,F,16,,Broomfallen Road,Scotby,Carlisle
+2025-10-07,277000,CA4 9RH,D,N,F,The Dale,Rose Cottage,,Ainstable,Carlisle
+2025-10-07,420000,CA4 8LD,D,N,F,116,,Greenacres,Wetheral,Carlisle
+2025-10-06,255000,CA4 8LR,T,N,F,Corby Cottage,,,Great Corby,Carlisle
+2025-10-03,300000,CA4 8JH,D,N,F,4,,Croft Park,Wetheral,Carlisle
+2025-10-03,235000,CA4 8ER,T,N,F,Thornedge,25,,Cumwhinton,Carlisle
+2025-10-03,122500,CA4 8AL,F,N,L,13,,The Old Tannery,Scotby,Carlisle
+2025-10-02,245000,CA4 8AT,D,N,F,Cranham,,Park Road,Scotby,Carlisle
+2025-09-26,350000,CA4 8BD,S,N,F,72,,Scotby Road,Scotby,Carlisle
+2025-09-26,434700,CA4 8AQ,D,N,F,Long Ridge,,,Aglionby,Carlisle
+2025-09-22,250000,CA4 8LX,S,N,F,20,,Woodlands,Great Corby,Carlisle
+2025-09-19,377500,CA4 8DG,S,N,F,Raydon,,Broomfallen Road,Scotby,Carlisle
+2025-09-19,160000,CA4 8AQ,F,N,L,Whooff House,7,,Aglionby,Carlisle
+2025-09-18,345000,CA4 0RS,D,N,F,Blanchland,,,Wreay,Carlisle
+2025-09-18,270000,CA4 0HJ,S,N,F,1,,Mill Bank,Low Hesket,Carlisle
+2025-09-15,225000,CA4 8ER,T,N,F,17,,Thornedge,Cumwhinton,Carlisle
+2025-09-12,259000,CA4 8QY,S,N,F,121,,Hurley Road,Little Corby,Carlisle
+2025-09-11,335000,CA4 8AT,S,N,F,Chatsworth,,Park Road,Scotby,Carlisle
+2025-09-09,410000,CA4 8LD,D,N,F,68,,Greenacres,Wetheral,Carlisle
+2025-09-09,265000,CA4 8JZ,S,N,F,17,,Faustin Hill,Wetheral,Carlisle
+2025-09-03,204500,CA4 0DF,S,N,F,47,,Townhead Road,Cotehill,Carlisle
+2025-09-01,180000,CA4 8FH,S,Y,F,5,,The Plains,Scotby,Carlisle
+2025-09-01,200000,CA4 8FH,S,Y,F,3,,The Plains,Scotby,Carlisle
+2025-08-29,115500,CA4 0RA,T,N,F,2,,North Park Cottages,Brisco,Carlisle
+2025-08-27,355000,CA4 8NQ,D,N,F,Corner Stones,,Sandy Lane,Great Corby,Carlisle
+2025-08-26,402500,CA4 9ST,D,N,F,Holme Acre,,,Armathwaite,Carlisle
+2025-08-22,210000,CA4 8QQ,T,N,F,Riverside Cottage,,Little Corby Road,Little Corby,Carlisle
+2025-08-22,682500,CA4 8JQ,D,N,F,Brookvale,,,Wetheral,Carlisle
+2025-08-22,515000,CA4 8FP,D,N,F,12,,St Benedicts Way,Wetheral,Carlisle
+2025-08-20,550000,CA4 8BN,D,N,F,10,,Holme Close,Scotby,Carlisle
+2025-08-20,385000,CA4 8BJ,S,N,F,102,,Scotby Road,Scotby,Carlisle
+2025-08-15,505000,CA4 8PA,S,N,F,Over Eden,,,Warwick On Eden,Carlisle
+2025-08-14,250000,CA4 9QY,D,N,F,Channel Pool,,,Armathwaite,Carlisle
+2025-08-14,75000,CA4 8RD,F,N,L,Holme Eden Hall,5,,Warwick Bridge,Carlisle
+2025-08-08,450000,CA4 9QN,D,N,F,The Brambles,,,Ainstable,Carlisle
+2025-08-08,235000,CA4 8NS,S,N,F,2,,Bridge End Cottages,Wetheral,Carlisle
+2025-08-05,198000,CA4 0AQ,T,N,F,5,,Anvil Close,Low Hesket,Carlisle
+2025-08-04,310000,CA4 0AQ,D,N,F,2,,Anvil Close,Low Hesket,Carlisle
+2025-07-31,266000,CA4 8AX,S,N,F,5,,Park Close,Scotby,Carlisle
+2025-07-30,240000,CA4 8JS,S,N,L,20,,Hall Moor Court,Wetheral,Carlisle
+2025-07-30,263500,CA4 8BH,S,N,F,13,,Hill Head,Scotby,Carlisle
+2025-07-28,327000,CA4 8PF,D,N,F,12,,Buffs Croft,Warwick On Eden,Carlisle
+2025-07-25,430000,CA4 8JH,D,N,F,12,,Croft Park,Wetheral,Carlisle
+2025-07-25,143000,CA4 8DD,S,N,F,13,,Ladysteps,Scotby,Carlisle
+2025-07-18,175000,CA4 8JR,F,N,L,22,,Goose Garth,Wetheral,Carlisle
+2025-07-17,260000,CA4 8RX,S,N,F,Chapel Court,1,Waters Meet,Warwick Bridge,Carlisle
+2025-07-17,155000,CA4 8QR,T,N,F,75,,Millriggs,Corby Hill,Carlisle
+2025-07-17,250000,CA4 8DW,F,N,L,1,,Scotby Grange,Scotby,Carlisle
+2025-07-17,350000,CA4 0BT,S,N,F,High Scalesceugh House,,,Carleton,Carlisle
+2025-07-11,265000,CA4 8RE,T,N,F,Millers Cottage,,,Warwick Bridge,Carlisle
+2025-07-11,330000,CA4 8DU,D,N,F,Olive Tree Cottage,,School Road,Cumwhinton,Carlisle
+2025-06-27,195000,CA4 9TP,T,N,F,Baron Wood,Elm Cottage,,Armathwaite,Carlisle
+2025-06-27,526600,CA4 8RT,D,N,F,"Trelowen, 23",,Waters Meet,Warwick Bridge,Carlisle
+2025-06-27,155500,CA4 8QR,T,N,F,72,,Millriggs,Corby Hill,Carlisle
+2025-06-27,315000,CA4 8BG,D,N,F,97,,Scotby Road,Scotby,Carlisle
+2025-06-27,390000,CA4 8AL,D,N,F,22,,The Old Tannery,Scotby,Carlisle
+2025-06-24,327000,CA4 8BH,S,N,F,19,,Hill Head,Scotby,Carlisle
+2025-06-24,120000,CA4 0RS,S,N,F,Bankdale Farm,5,,Wreay,Carlisle
+2025-06-16,455000,CA4 8AJ,D,N,F,7,,Rosegate,Aglionby,Carlisle
+2025-06-12,265000,CA4 8BJ,S,N,F,105,,Scotby Road,Scotby,Carlisle
+2025-06-12,450000,CA4 8AX,D,N,F,Willowbeck,,Park Close,Scotby,Carlisle
+2025-06-05,379000,CA4 8BT,S,N,F,14,,Ghyll Road,Scotby,Carlisle
+2025-06-05,235000,CA4 8AT,D,N,F,Dunvegan,,Park Road,Scotby,Carlisle
+2025-05-23,330000,CA4 0HS,D,N,F,Thwaitehowe,,,High Hesket,Carlisle
+2025-05-21,575000,CA4 8HJ,D,Y,F,2,,Priors Garth,Wetheral,Carlisle
+2025-05-20,350000,CA4 8NL,S,N,F,Brocklewath,Edenside Barn,Randlaw Lane,Great Corby,Carlisle
+2025-05-16,280000,CA4 8BL,S,N,F,8,,Holme Fauld,Scotby,Carlisle
+2025-05-16,265000,CA4 8BH,S,N,F,6,,Hill Head,Scotby,Carlisle
+2025-05-09,266000,CA4 9PJ,S,N,F,17,,Mill Brow,Armathwaite,Carlisle
+2025-05-09,460000,CA4 8RG,D,N,F,Holme Eden,2,Church Road,Warwick Bridge,Carlisle
+2025-05-09,425000,CA4 8RD,F,N,L,Holme Eden Hall,1,,Warwick Bridge,Carlisle
+2025-05-09,287500,CA4 8BL,S,N,F,20,,Holme Fauld,Scotby,Carlisle
+2025-05-09,250000,CA4 8AU,S,N,F,1,,Near Park,Scotby,Carlisle
+2025-05-09,740000,CA4 8AQ,D,N,F,The Willows,,,Aglionby,Carlisle
+2025-05-09,168000,CA4 0JD,S,N,F,12,,Coopers Close,High Hesket,Carlisle
+2025-05-06,79000,CA4 8RH,F,N,L,36,,Chapel Close,Warwick Bridge,Carlisle
+2025-05-02,150000,CA4 8QR,T,N,F,82,,Millriggs,Corby Hill,Carlisle
+2025-04-30,100000,CA4 8QP,T,N,F,34,,Millriggs,Corby Hill,Carlisle
+2025-04-30,140000,CA4 8FT,S,N,F,18,,Lough Wood Crescent,Scotby,Carlisle
+2025-04-25,275000,CA4 8BL,S,N,F,18,,Holme Fauld,Scotby,Carlisle
+2025-04-17,125000,CA4 8SA,F,N,L,1,,King George Court,Warwick Bridge,Carlisle
+2025-04-16,195000,CA4 0HH,T,N,F,4,,Farriers Way,Low Hesket,Carlisle
+2025-04-15,300000,CA4 8RT,D,N,F,3,,Waters Meet,Warwick Bridge,Carlisle
+2025-04-15,210000,CA4 8LX,S,N,F,13,,Woodlands,Great Corby,Carlisle
+2025-04-14,120000,CA4 8AL,F,N,L,17,,The Old Tannery,Scotby,Carlisle
+2025-03-31,475000,CA4 9QN,D,N,F,Forella,,,Ainstable,Carlisle
+2025-03-31,450000,CA4 8RL,S,N,F,Ivy Cottage,,,Warwick Bridge,Carlisle
+2025-03-31,425000,CA4 8QX,D,N,F,Keele View,,,Newby East,Carlisle
+2025-03-31,543500,CA4 8LA,S,N,F,Furze Brook,,Plains Road,Wetheral,Carlisle
+2025-03-31,365000,CA4 8JH,D,N,F,34,,Croft Park,Wetheral,Carlisle
+2025-03-31,150000,CA4 8JH,F,N,L,19,,Croft Park,Wetheral,Carlisle
+2025-03-28,227755,CA4 8QG,D,N,F,Galesyke,,,Corby Hill,Carlisle
+2025-03-28,375000,CA4 8LA,D,N,F,Dewberry Lodge,,Plains Road,Wetheral,Carlisle
+2025-03-28,182000,CA4 8JS,F,N,L,14,,Hall Moor Court,Wetheral,Carlisle
+2025-03-28,90000,CA4 8AB,F,N,L,1,,Wheelbarrow Court,Scotby,Carlisle
+2025-03-28,180000,CA4 0DR,T,N,F,Fern Cottage,,Back Street,Cotehill,Carlisle
+2025-03-26,174500,CA4 0AG,F,N,L,Scalesceugh Hall,9,,Carleton,Carlisle
+2025-03-24,255000,CA4 8HD,S,N,F,Honeysuckle Cottage,,,Wetheral,Carlisle
+2025-03-24,235000,CA4 8DF,T,N,F,Lane End Cottage,,Broomfallen Road,Scotby,Carlisle
+2025-03-24,325000,CA4 8BD,S,N,F,68,,Scotby Road,Scotby,Carlisle
+2025-03-21,350000,CA4 8LL,D,N,F,Moss House,,,Great Corby,Carlisle
+2025-03-21,295000,CA4 8EW,F,N,L,Lime House,6,The Green,Wetheral,Carlisle
+2025-03-21,225000,CA4 0BT,T,N,F,10,,Scalesceugh Villas,Carleton,Carlisle
+2025-03-17,280000,CA4 8BG,T,N,F,89,,Scotby Road,Scotby,Carlisle
+2025-03-14,778000,CA4 8BU,D,N,F,"Beechnut House, 61A",,Scotby Village,Scotby,Carlisle
+2025-03-10,244200,CA4 8DJ,D,N,F,Culreoch,,Station Road,Cumwhinton,Carlisle
+2025-03-07,157000,CA4 8FL,S,N,F,12,,Thornedge Gardens,Cumwhinton,Carlisle
+2025-03-04,437500,CA4 9RB,D,N,F,Thwaites,,,Armathwaite,Carlisle
+2025-02-28,160000,CA4 9QD,S,N,F,2,,Wayside Cottages,Ainstable,Carlisle
+2025-02-28,180000,CA4 8RH,T,N,F,7,,Chapel Close,Warwick Bridge,Carlisle
+2025-02-28,381000,CA4 8LD,D,N,F,98,,Greenacres,Wetheral,Carlisle
+2025-02-28,255000,CA4 8DE,S,N,F,53,,Broomfallen Road,Scotby,Carlisle
+2025-02-25,290000,CA4 0LE,D,N,F,Beech Grove,,,Mellguards,Carlisle
+2025-02-19,320000,CA4 8LT,T,N,F,Grove Cottage,,,Great Corby,Carlisle
+2025-02-17,450000,CA4 0PA,D,N,F,Barraghyll,,,Ivegill,Carlisle
+2025-02-14,260000,CA4 8JJ,T,N,F,4,,Jennet Croft,Wetheral,Carlisle
+2025-02-14,282500,CA4 8BH,S,N,F,15,,Hill Head,Scotby,Carlisle
+2025-02-14,357500,CA4 8AQ,S,N,F,Dale Field,,,Aglionby,Carlisle
+2025-02-13,490000,CA4 8LL,S,N,F,Grayling Hill,,,Great Corby,Carlisle
+2025-02-10,185000,CA4 8LR,T,N,F,Mulcaster Cottage,,,Great Corby,Carlisle
+2025-02-10,300000,CA4 8AP,D,N,F,3,,Holmegate Cottages,Aglionby,Carlisle
+2025-02-06,245000,CA4 8BG,S,N,F,96,,Scotby Road,Scotby,Carlisle
+2025-02-04,380000,CA4 0DD,T,N,F,Stoneywath House,,,Cotehill,Carlisle
+2025-02-03,249000,CA4 8QY,D,N,F,89,,Hurley Road,Little Corby,Carlisle
+2025-01-31,260000,CA4 8BG,S,N,F,87,,Scotby Road,Scotby,Carlisle
+2025-01-30,350000,CA4 8FA,D,N,F,19,,Alders Edge,Scotby,Carlisle
+2025-01-24,322500,CA4 8BT,D,N,F,23,,Ghyll Road,Scotby,Carlisle
+2025-01-24,317500,CA4 8BG,S,N,F,69,,Scotby Road,Scotby,Carlisle
+2025-01-20,380000,CA4 9AS,S,N,F,Old Carriage Barn,,,Ainstable,Carlisle
+2025-01-20,395000,CA4 8ER,D,N,F,Swallow Barn,,,Cumwhinton,Carlisle
+2025-01-20,300000,CA4 8AU,D,N,F,6,,Near Park,Scotby,Carlisle
+2025-01-20,540000,CA4 0RH,D,N,F,Low Hurst House,,,Wreay,Carlisle
+2025-01-15,925000,CA4 8JT,D,N,F,3,,Spring Field Close,Wetheral,Carlisle
+2025-01-15,925000,CA4 8JT,D,N,F,3,,Spring Field Close,Wetheral,Carlisle
+2025-01-15,350000,CA4 8AQ,D,N,F,The Strand,3,,Aglionby,Carlisle
+2025-01-15,560000,CA4 0EW,S,N,F,Moorhouse Hill,,,Southwaite,Carlisle
+2025-01-14,150000,CA4 8AZ,F,N,L,7,,Sutton Court,Scotby,Carlisle
+2024-12-19,567500,CA4 8JN,D,N,F,Over Eden,,,Wetheral,Carlisle
+2024-12-19,850000,CA4 0QS,D,N,F,The Cottage,,,Brisco,Carlisle
+2024-12-18,485000,CA4 8DE,S,N,F,33,,Broomfallen Road,Scotby,Carlisle
+2024-12-18,210000,CA4 8BH,S,N,F,26,,Hill Head,Scotby,Carlisle
+2024-12-17,170000,CA4 8RT,S,N,F,20,,Waters Meet,Warwick Bridge,Carlisle
+2024-12-17,200000,CA4 8JJ,S,N,F,12,,Jennet Croft,Wetheral,Carlisle
+2024-12-09,200000,CA4 8AU,F,N,L,4B,,Near Park,Scotby,Carlisle
+2024-12-06,187000,CA4 9QE,S,N,F,2,,Ghyll Foot,Ainstable,Carlisle
+2024-12-06,340000,CA4 8HE,D,N,F,Caretta,,,Wetheral,Carlisle
+2024-12-06,125000,CA4 8FX,D,N,F,5,,Bluebell Meadows,Cumwhinton,Carlisle
+2024-12-06,161000,CA4 8FA,T,N,F,20,,Alders Edge,Scotby,Carlisle
+2024-12-06,180000,CA4 0PE,T,N,F,11,,The Grange,Ivegill,Carlisle
+2024-11-29,277500,CA4 8QN,D,N,F,28,,Little Corby Road,Little Corby,Carlisle
+2024-11-29,199950,CA4 8LW,S,N,F,N E R Cottage Homes,7,,Great Corby,Carlisle
+2024-11-29,165000,CA4 8JS,F,N,L,15,,Hall Moor Court,Wetheral,Carlisle
+2024-11-29,161820,CA4 8DU,S,N,F,West Gate,,School Road,Cumwhinton,Carlisle
+2024-11-29,751000,CA4 0RH,D,N,F,Woodside Bungalow,,,Wreay,Carlisle
+2024-11-29,355000,CA4 0JX,D,N,F,3,,The Meadows,Southwaite,Carlisle
+2024-11-29,285000,CA4 0BT,D,N,F,Domek House,,,Carleton,Carlisle
+2024-11-27,800000,CA4 9PB,S,N,F,Allendale House,,,Armathwaite,Carlisle
+2024-11-26,315000,CA4 8LN,T,N,F,2,,Wentworth Terrace,Great Corby,Carlisle
+2024-11-26,315000,CA4 8JJ,S,N,F,22,,Jennet Croft,Wetheral,Carlisle
+2024-11-25,140000,CA4 9PA,T,N,F,1,,Front Street,Armathwaite,Carlisle
+2024-11-22,185000,CA4 8QY,S,N,F,57,,Hurley Road,Little Corby,Carlisle
+2024-11-22,210000,CA4 0AG,F,Y,L,Scalesceugh Hall,10,,Carleton,Carlisle
+2024-11-20,345000,CA4 8DE,D,N,F,45,,Broomfallen Road,Scotby,Carlisle
+2024-11-08,140000,CA4 8ER,T,N,F,20,,Thornedge,Cumwhinton,Carlisle
+2024-11-08,262500,CA4 8BL,S,N,F,19,,Holme Fauld,Scotby,Carlisle
+2024-11-01,256000,CA4 8PF,D,N,F,14,,Buffs Croft,Warwick On Eden,Carlisle
+2024-11-01,97500,CA4 8EH,F,N,L,18,,Scotby Green Steading,Scotby,Carlisle
+2024-11-01,205000,CA4 8BD,S,N,F,59,,Scotby Road,Scotby,Carlisle
+2024-11-01,224000,CA4 0DW,D,N,F,Mountain View,,Back Street,Cotehill,Carlisle
+2024-10-30,240000,CA4 8JZ,T,N,F,21,,Faustin Hill,Wetheral,Carlisle
+2024-10-30,505000,CA4 8FX,D,N,F,7,,Bluebell Meadows,Cumwhinton,Carlisle
+2024-10-28,163500,CA4 0PA,T,N,F,High Garth Meadows,19,,Ivegill,Carlisle
+2024-10-25,250000,CA4 0DR,S,N,F,Clearways,,Back Street,Cotehill,Carlisle
+2024-10-24,300000,CA4 8QN,D,N,F,5,,Little Corby Road,Little Corby,Carlisle
+2024-10-18,147500,CA4 8AH,S,N,F,1,,Arch Cottages,Aglionby,Carlisle
+2024-10-11,195000,CA4 8QY,S,N,F,95,,Hurley Road,Little Corby,Carlisle
+2024-10-11,100000,CA4 8AB,F,N,L,5,,Wheelbarrow Court,Scotby,Carlisle
+2024-10-09,365000,CA4 8BL,D,N,F,25,,Holme Fauld,Scotby,Carlisle
+2024-10-04,240000,CA4 8FT,S,N,F,7,,Lough Wood Crescent,Scotby,Carlisle
+2024-10-04,306500,CA4 8BL,S,N,F,21,,Holme Fauld,Scotby,Carlisle
+2024-10-03,136000,CA4 9ST,S,N,F,1,,Low House Farm Cottages,Armathwaite,Carlisle
+2024-09-30,152500,CA4 8BP,T,N,F,38,,Scotby Village,Scotby,Carlisle
+2024-09-27,165000,CA4 8QW,S,N,F,4,,Eden Grange,Little Corby,Carlisle
+2024-09-27,165000,CA4 8JS,F,N,L,11,,Hall Moor Court,Wetheral,Carlisle
+2024-09-27,590000,CA4 8HJ,D,Y,F,3,,Priors Garth,Wetheral,Carlisle
+2024-09-23,445000,CA4 8HW,S,N,F,Richmond Hill,,,Wetheral,Carlisle
+2024-09-20,640000,CA4 8LT,S,N,F,Manor House,,,Great Corby,Carlisle
+2024-09-19,1050000,CA4 8LE,D,N,F,Moor Yeat,,Plains Road,Wetheral,Carlisle
+2024-09-19,395000,CA4 0QS,D,N,F,The Shields,,,Brisco,Carlisle
+2024-09-19,587000,CA4 0AJ,D,N,F,Newbiggin Hall,Stable House,,Carleton,Carlisle
+2024-09-16,350000,CA4 0HY,D,N,F,Eden Chase,,,High Hesket,Carlisle
+2024-09-13,437500,CA4 8DS,D,N,F,5,,Holme Farm Court,Cumwhinton,Carlisle
+2024-09-12,116500,CA4 8QH,S,N,F,24,,Cairn Crescent,Corby Hill,Carlisle
+2024-09-11,650000,CA4 9TF,D,N,F,Standend Cottage,,,Armathwaite,Carlisle
+2024-09-11,385000,CA4 8LA,D,N,F,Dunkeld,,Plains Road,Wetheral,Carlisle
+2024-09-10,190000,CA4 8BT,D,N,F,Ivy Cottage,,Ghyll Road,Scotby,Carlisle
+2024-09-10,149000,CA4 0DL,S,N,F,Barley Cottage,,Front Street,Cotehill,Carlisle
+2024-09-06,120000,CA4 8DY,T,N,F,The Chestnuts,5,Chestnut Grove,Cumwhinton,Carlisle
+2024-09-05,367500,CA4 8FA,D,N,F,29,,Alders Edge,Scotby,Carlisle
+2024-08-30,230000,CA4 9PL,T,N,F,Underknoll Cottage,,Station Road,Armathwaite,Carlisle
+2024-08-30,220000,CA4 8QQ,T,N,F,Riverside Cottage,,Little Corby Road,Little Corby,Carlisle
+2024-08-30,140000,CA4 8FT,T,N,F,16,,Lough Wood Crescent,Scotby,Carlisle
+2024-08-30,390000,CA4 8DL,D,N,F,Hollyside,,,Cumwhinton,Carlisle
+2024-08-29,275000,CA4 8HW,S,N,F,The Challenge,,,Wetheral,Carlisle
+2024-08-22,725000,CA4 8RL,D,N,F,Cairn House,,,Warwick Bridge,Carlisle
+2024-08-22,550000,CA4 8NJ,S,N,F,Gin Case Barn,,,Great Corby,Carlisle
+2024-08-19,550000,CA4 8HA,D,N,F,Ferryholme,,,Wetheral,Carlisle
+2024-08-15,150000,CA4 8LL,T,N,F,Thule House,,,Great Corby,Carlisle
+2024-08-14,154000,CA4 8JL,F,N,L,6,,Whitegate,Wetheral,Carlisle
+2024-08-07,265000,CA4 8RZ,D,N,F,12,,Holme Eden Gardens,Warwick Bridge,Carlisle
+2024-07-26,160000,CA4 8JH,F,N,L,16,,Croft Park,Wetheral,Carlisle
+2024-07-26,150000,CA4 8EH,T,N,L,11,,Scotby Green Steading,Scotby,Carlisle
+2024-07-26,170000,CA4 8BP,T,N,F,57,,Scotby Village,Scotby,Carlisle
+2024-07-26,180000,CA4 0HD,T,N,F,2,,Hawthorne Cottage,Low Hesket,Carlisle
+2024-07-25,122500,CA4 8AL,F,N,L,5,,The Old Tannery,Scotby,Carlisle
+2024-07-19,785000,CA4 8LE,D,N,F,Fallowfield,,Plains Road,Wetheral,Carlisle
+2024-07-19,800000,CA4 8HA,D,N,F,Edenhurst,,,Wetheral,Carlisle
+2024-07-19,600000,CA4 0PE,D,N,F,"Fishers Ghyll, 4",,The Grange,Ivegill,Carlisle
+2024-07-18,325000,CA4 0HG,D,N,F,Nemo,,,Low Hesket,Carlisle
+2024-07-12,235000,CA4 8QG,S,N,F,Eden Mount,,,Corby Hill,Carlisle
+2024-07-12,295000,CA4 8DE,D,N,F,23,,Broomfallen Road,Scotby,Carlisle
+2024-07-05,245000,CA4 8PF,D,N,F,19,,Buffs Croft,Warwick On Eden,Carlisle
+2024-07-05,155000,CA4 8DW,F,N,L,4,,Scotby Grange,Scotby,Carlisle
+2024-06-28,275000,CA4 8QN,D,N,F,1,,Little Corby Road,Little Corby,Carlisle
+2024-06-28,129950,CA4 8EH,T,N,L,12,,Scotby Green Steading,Scotby,Carlisle
+2024-06-27,70000,CA4 0DH,S,N,F,5,,Rose Cottages,Cotehill,Carlisle
+2024-06-21,405000,CA4 8ER,D,N,F,10,,Thornedge,Cumwhinton,Carlisle
+2024-06-19,565000,CA4 0QP,D,N,F,The Barn,,,Brisco,Carlisle
+2024-06-14,136500,CA4 8FT,T,N,F,12,,Lough Wood Crescent,Scotby,Carlisle
+2024-06-14,175000,CA4 8DU,S,N,F,Hill Dene,,School Road,Cumwhinton,Carlisle
+2024-06-14,257500,CA4 8AT,S,N,F,Lochiel,,Park Road,Scotby,Carlisle
+2024-06-12,345000,CA4 0EG,T,N,F,Rumdoodle,,,Cotehill,Carlisle
+2024-06-11,200000,CA4 8BT,D,N,F,Netherby House,,Ghyll Road,Scotby,Carlisle
+2024-06-03,127000,CA4 8EH,T,N,L,1,,Scotby Green Steading,Scotby,Carlisle
+2024-05-30,70000,CA4 8QF,S,N,F,98,,Hurley Road,Little Corby,Carlisle
+2024-05-30,365000,CA4 0NG,D,N,F,Low Braithwaite,Old Barns,,Ivegill,Carlisle
+2024-05-24,275000,CA4 9RX,T,N,F,"Cornhill Cottage, 4",,Mulcaster Place,Croglin,Carlisle
+2024-05-23,260000,CA4 0BT,T,N,F,13,,Scalesceugh Villas,Carleton,Carlisle
+2024-05-17,133000,CA4 8FW,T,N,F,17,,Reeds Way,Cumwhinton,Carlisle
+2024-05-17,302500,CA4 8EA,S,N,F,High House Cottage,,Station Road,Cumwhinton,Carlisle
+2024-05-14,225000,CA4 0JD,S,N,F,7,,Coopers Close,High Hesket,Carlisle
+2024-05-10,260000,CA4 8JZ,S,N,F,2,,Faustin Hill,Wetheral,Carlisle
+2024-05-10,480000,CA4 8BL,D,N,F,1,,Holme Fauld,Scotby,Carlisle
+2024-05-03,300000,CA4 8ET,D,N,F,The Retreat,,The Green,Wetheral,Carlisle
+2024-05-02,1150000,CA4 8HZ,D,N,F,Wray Croft,,,Wetheral,Carlisle
+2024-04-29,314000,CA4 8AQ,S,N,F,Whooff House,9,,Aglionby,Carlisle
+2024-04-26,220000,CA4 8QF,T,N,F,76,,Hurley Road,Little Corby,Carlisle
+2024-04-23,585000,CA4 8JY,T,N,F,The Plains,,Plains Road,Wetheral,Carlisle
+2024-04-19,325000,CA4 9RZ,S,N,F,Copper Hall,,,Croglin,Carlisle
+2024-04-19,270000,CA4 8QF,S,N,F,110,,Hurley Road,Little Corby,Carlisle
+2024-04-16,392000,CA4 8BJ,S,N,F,134,,Scotby Road,Scotby,Carlisle
+2024-04-12,220000,CA4 8QY,S,N,F,67,,Hurley Road,Little Corby,Carlisle
+2024-04-12,175000,CA4 8QW,D,N,F,29,,Eden Grange,Little Corby,Carlisle
+2024-04-12,375000,CA4 8FG,D,N,F,11,,Croft Close,Cumwhinton,Carlisle
+2024-04-05,370000,CA4 8JD,S,N,F,1,,Whitegate Cottages,Wetheral,Carlisle
+2024-03-28,534500,CA4 8DE,D,N,F,41,,Broomfallen Road,Scotby,Carlisle
+2024-03-28,350000,CA4 8BD,S,N,F,47,,Scotby Road,Scotby,Carlisle
+2024-03-27,805000,CA4 9PB,D,N,F,Bridge End Farm,,,Armathwaite,Carlisle
+2024-03-27,225000,CA4 0ES,S,N,F,Walla Crag,,Southwaite Road,Low Hesket,Carlisle
+2024-03-22,280000,CA4 0ES,S,N,F,Oak View,,Southwaite Road,Low Hesket,Carlisle
+2024-03-21,165000,CA4 0PA,T,N,F,High Garth Meadows,20,,Ivegill,Carlisle
+2024-03-12,525000,CA4 9RE,D,N,F,Towngate,,,Ainstable,Carlisle
+2024-03-01,195000,CA4 8BP,T,N,F,51,,Scotby Village,Scotby,Carlisle
+2024-02-29,210000,CA4 0QR,S,N,F,1,,High Woodbank,Brisco,Carlisle
+2024-02-28,210000,CA4 9PF,T,N,F,The Barn,4,,Armathwaite,Carlisle
+2024-02-21,330000,CA4 8LD,D,N,F,90,,Greenacres,Wetheral,Carlisle
+2024-02-12,170000,CA4 8RT,S,N,F,10,,Waters Meet,Warwick Bridge,Carlisle
+2024-02-09,362500,CA4 8LU,D,N,F,158,,Greenacres,Wetheral,Carlisle
+2024-02-07,270000,CA4 8HR,S,N,F,Hilldale,,,Wetheral Pasture,Carlisle
+2024-01-31,418500,CA4 8JY,D,N,F,Eden House,,Plains Road,Wetheral,Carlisle
+2024-01-31,210000,CA4 0JD,S,N,F,22,,Coopers Close,High Hesket,Carlisle
+2024-01-26,245000,CA4 8RZ,D,N,F,1,,Holme Eden Gardens,Warwick Bridge,Carlisle
+2024-01-26,215000,CA4 8QG,D,N,F,Ashlea,,,Corby Hill,Carlisle
+2024-01-26,175000,CA4 8LX,S,N,F,14,,Woodlands,Great Corby,Carlisle
+2024-01-26,138750,CA4 0DF,T,N,F,20,,Townhead Road,Cotehill,Carlisle
+2024-01-19,223000,CA4 8DL,S,N,F,Halls Fell View,,,Cumwhinton,Carlisle
+2024-01-10,380000,CA4 0RG,D,N,F,2,,St Marys Court,Wreay,Carlisle
+2023-12-20,275000,CA4 9AQ,S,N,F,17,,Curlew Close,Armathwaite,Carlisle
+2023-12-19,295000,CA4 8JJ,S,N,F,11,,Jennet Croft,Wetheral,Carlisle
+2023-12-18,255000,CA4 9PN,T,N,F,2,,Pennine View,Armathwaite,Carlisle
+2023-12-13,150000,CA4 8QY,S,N,F,73,,Hurley Road,Little Corby,Carlisle
+2023-12-12,920000,CA4 8JT,D,N,F,2,,Spring Field Close,Wetheral,Carlisle
+2023-12-12,470000,CA4 8DF,S,N,F,Orchard House,,Broomfallen Road,Scotby,Carlisle
+2023-12-08,348000,CA4 8FA,D,N,F,6,,Alders Edge,Scotby,Carlisle
+2023-12-08,690000,CA4 8BS,S,N,F,"Rooks Close, 16",,Scotby Village,Scotby,Carlisle
+2023-12-08,315000,CA4 8BJ,S,N,F,110,,Scotby Road,Scotby,Carlisle
+2023-12-01,164000,CA4 8QH,S,N,F,22,,Cairn Crescent,Corby Hill,Carlisle
+2023-12-01,340000,CA4 8HE,S,N,F,Craik Trees,,,Wetheral,Carlisle
+2023-11-30,137000,CA4 8RT,F,N,L,Cairn Mill,Flat 3,Waters Meet,Warwick Bridge,Carlisle
+2023-11-29,160000,CA4 8BP,S,N,F,59,,Scotby Village,Scotby,Carlisle
+2023-11-28,281000,CA4 8RZ,D,N,F,8,,Holme Eden Gardens,Warwick Bridge,Carlisle
+2023-11-24,167500,CA4 8QH,S,N,F,5,,Cairn Crescent,Corby Hill,Carlisle
+2023-11-24,412000,CA4 8LD,D,N,F,3,,Greenacres,Wetheral,Carlisle
+2023-11-22,445000,CA4 8FT,D,N,F,19,,Lough Wood Crescent,Scotby,Carlisle
+2023-11-17,430000,CA4 8PE,D,N,F,3,,Grahams Croft,Warwick On Eden,Carlisle
+2023-11-17,650000,CA4 8LE,D,N,F,The Limes,,Plains Road,Wetheral,Carlisle
+2023-11-17,175000,CA4 8DU,D,N,F,Bannockburn,,School Road,Cumwhinton,Carlisle
+2023-11-17,200000,CA4 8BJ,S,N,F,129,,Scotby Road,Scotby,Carlisle
+2023-11-10,282500,CA4 0DB,D,N,F,Beech Grove,,,Cotehill,Carlisle
+2023-11-03,220000,CA4 8FN,S,N,F,4,,King George Gardens,Warwick Bridge,Carlisle
+2023-11-03,218000,CA4 8AY,D,N,F,2,,Nightingale Court,Scotby,Carlisle
+2023-11-03,235000,CA4 0JD,S,N,F,17,,Coopers Close,High Hesket,Carlisle
+2023-11-02,645000,CA4 8PA,D,N,F,Eden View,,,Warwick On Eden,Carlisle
+2023-11-01,275000,CA4 9TA,S,N,F,Coachmans View,,,Armathwaite,Carlisle
+2023-11-01,180000,CA4 8HL,F,N,F,High Croft Cottage,Flat 2,,Wetheral,Carlisle
+2023-10-30,525000,CA4 0AH,D,N,F,Quarry Gate,,,Carleton,Carlisle
+2023-10-27,128000,CA4 8EH,T,N,L,4,,Scotby Green Steading,Scotby,Carlisle
+2023-10-20,575000,CA4 8QT,D,N,F,3,,Greenholme Steading,Corby Hill,Carlisle
+2023-10-20,143000,CA4 8QR,T,N,F,73,,Millriggs,Corby Hill,Carlisle
+2023-10-20,262500,CA4 8QF,T,N,F,48,,Hurley Road,Little Corby,Carlisle
+2023-10-16,205000,CA4 8DB,S,N,F,8,,Broomfallen Road,Scotby,Carlisle
+2023-10-13,280000,CA4 8PE,D,N,F,7,,Grahams Croft,Warwick On Eden,Carlisle
+2023-10-12,480000,CA4 8GZ,D,N,F,7,,Ivy Lane,Wetheral,Carlisle
+2023-10-06,152000,CA4 8JD,S,N,F,Maycote,,,Wetheral,Carlisle
+2023-10-06,280000,CA4 8FW,S,N,F,10,,Reeds Way,Cumwhinton,Carlisle
+2023-10-06,305000,CA4 8DJ,D,N,F,Ash View,,Station Road,Cumwhinton,Carlisle
+2023-10-02,650000,CA4 8HJ,D,Y,F,8,,Priors Garth,Wetheral,Carlisle
+2023-10-02,300000,CA4 8ET,F,N,L,Killoran,Windermere 6,The Green,Wetheral,Carlisle
+2023-10-02,350000,CA4 8DE,D,N,F,45,,Broomfallen Road,Scotby,Carlisle
+2023-09-29,270000,CA4 8BT,S,N,F,31,,Ghyll Road,Scotby,Carlisle
+2023-09-28,298000,CA4 8EW,F,N,L,Lime House,1,The Green,Wetheral,Carlisle
+2023-09-28,120000,CA4 0AX,D,N,F,Alby Top,,,Cumwhinton,Carlisle
+2023-09-26,195000,CA4 8PA,S,N,F,2,,,Warwick On Eden,Carlisle
+2023-09-20,250000,CA4 8JJ,S,N,F,14,,Jennet Croft,Wetheral,Carlisle
+2023-09-15,175000,CA4 8LQ,S,N,F,2,,Corby Bridge Close,Great Corby,Carlisle
+2023-09-15,435000,CA4 8JH,D,N,F,1,,Croft Park,Wetheral,Carlisle
+2023-09-15,207500,CA4 8DJ,T,N,F,Laurel Cottage,,Station Road,Cumwhinton,Carlisle
+2023-09-15,470000,CA4 0RL,D,N,F,The Vicarage,,,Wreay,Carlisle
+2023-09-15,220500,CA4 0DQ,D,N,F,Parkwood,,Front Street,Cotehill,Carlisle
+2023-09-13,525000,CA4 8GZ,D,N,F,5,,Ivy Lane,Wetheral,Carlisle
+2023-09-13,330000,CA4 8DU,D,N,F,Apple Tree House,,School Road,Cumwhinton,Carlisle
+2023-09-05,370000,CA4 8JH,D,N,F,12,,Croft Park,Wetheral,Carlisle
+2023-09-05,290000,CA4 8JG,F,N,L,Skelton Court,Apartment 6,,Wetheral,Carlisle
+2023-09-04,177500,CA4 8JS,F,N,L,22,,Hall Moor Court,Wetheral,Carlisle
+2023-08-29,495000,CA4 8GZ,D,N,F,6,,Ivy Lane,Wetheral,Carlisle
+2023-08-25,184000,CA4 9PL,T,N,F,4,,Station Road,Armathwaite,Carlisle
+2023-08-25,190000,CA4 8QY,D,N,F,35,,Hurley Road,Little Corby,Carlisle
+2023-08-24,329000,CA4 0BT,T,N,F,7,,Scalesceugh Villas,Carleton,Carlisle
+2023-08-23,285000,CA4 8AT,D,N,F,Dunvegan,,Park Road,Scotby,Carlisle
+2023-08-21,325000,CA4 8LU,D,N,F,162,,Greenacres,Wetheral,Carlisle
+2023-08-17,245000,CA4 8BD,S,N,F,45,,Scotby Road,Scotby,Carlisle
+2023-08-16,290000,CA4 9PB,T,N,F,Fern House,,,Armathwaite,Carlisle
+2023-08-16,151500,CA4 8AH,S,N,F,2,,Arch Cottages,Aglionby,Carlisle
+2023-08-15,370000,CA4 8LU,D,N,F,140,,Greenacres,Wetheral,Carlisle
+2023-08-14,365000,CA4 8DL,D,N,F,The Brambles,,,Cumwhinton,Carlisle
+2023-08-14,250000,CA4 0HE,S,N,F,Old Smithy,,,Low Hesket,Carlisle
+2023-08-14,410000,CA4 0DB,D,N,F,Little Oak,,,Cotehill,Carlisle
+2023-08-11,150000,CA4 0RJ,T,N,F,3,,Wreay Court,Wreay,Carlisle
+2023-08-10,475000,CA4 0PR,D,N,F,Rigg House,,,Ivegill,Carlisle
+2023-08-07,370000,CA4 8LA,D,N,F,South Riding,,Plains Road,Wetheral,Carlisle
+2023-08-07,780000,CA4 8EF,D,N,F,Escott House,,,Scotby,Carlisle
+2023-08-01,210000,CA4 9QJ,S,N,F,1,,Crown Gardens,Ainstable,Carlisle
+2023-08-01,690000,CA4 8ET,D,N,F,The Green Farm,,The Green,Wetheral,Carlisle
+2023-07-31,390000,CA4 9PJ,D,N,F,6,,Mill Brow,Armathwaite,Carlisle
+2023-07-28,250000,CA4 0ES,S,N,F,Moorlands,,Southwaite Road,Low Hesket,Carlisle
+2023-07-26,220000,CA4 0HS,D,N,F,Smithy Cottage,,,High Hesket,Carlisle
+2023-07-21,187500,CA4 9PL,T,N,F,3,,Station Road,Armathwaite,Carlisle
+2023-07-21,380000,CA4 8FG,D,N,F,15,,Croft Close,Cumwhinton,Carlisle
+2023-07-13,325000,CA4 8LD,D,N,F,50,,Greenacres,Wetheral,Carlisle
+2023-07-12,350000,CA4 8FH,D,Y,F,10,,The Plains,Scotby,Carlisle
+2023-07-12,292000,CA4 8BJ,D,N,F,132,,Scotby Road,Scotby,Carlisle
+2023-07-04,350000,CA4 0HG,D,N,F,Crown Villa,,,Low Hesket,Carlisle
+2023-06-30,240000,CA4 8PE,D,N,F,1,,Grahams Croft,Warwick On Eden,Carlisle
+2023-06-30,260000,CA4 8GX,D,Y,F,2,,Barley Close,Wetheral,Carlisle
+2023-06-30,210000,CA4 8FN,S,N,F,8,,King George Gardens,Warwick Bridge,Carlisle
+2023-06-30,470000,CA4 8BA,D,N,F,15,,Wellgate,Scotby,Carlisle
+2023-06-26,220000,CA4 8PA,S,N,F,The Croft,,,Warwick On Eden,Carlisle
+2023-06-23,160000,CA4 8QR,T,N,F,74,,Millriggs,Corby Hill,Carlisle
+2023-06-23,300000,CA4 8QF,D,N,F,8,,Hurley Road,Little Corby,Carlisle
+2023-06-23,297500,CA4 8DG,D,N,F,Hazlemere,,Broomfallen Road,Scotby,Carlisle
+2023-06-23,255000,CA4 0QS,D,N,F,Fox Clease,,,Brisco,Carlisle
+2023-06-16,250000,CA4 8ER,S,N,F,Eastcote,,,Cumwhinton,Carlisle
+2023-06-16,280000,CA4 0DT,S,N,F,2,,Chatsworth Cottages,Cotehill,Carlisle
+2023-06-13,200000,CA4 8QN,S,N,F,18,,Little Corby Road,Little Corby,Carlisle
+2023-06-12,325000,CA4 8FX,S,N,F,3,,Bluebell Meadows,Cumwhinton,Carlisle
+2023-06-12,395000,CA4 8BD,D,N,F,33,,Scotby Road,Scotby,Carlisle
+2023-06-09,220000,CA4 8BT,D,N,F,22,,Ghyll Road,Scotby,Carlisle
+2023-06-07,450000,CA4 8FH,D,Y,F,4,,The Plains,Scotby,Carlisle
+2023-05-26,240000,CA4 8LP,T,N,F,8,,The Beeches,Great Corby,Carlisle
+2023-05-22,345000,CA4 8LD,D,N,F,12,,Greenacres,Wetheral,Carlisle
+2023-05-22,280000,CA4 8DE,S,N,F,30,,Broomfallen Road,Scotby,Carlisle
+2023-05-22,285000,CA4 0DQ,D,N,F,3,,Front Street,Cotehill,Carlisle
+2023-05-16,100000,CA4 8JH,F,N,L,23,,Croft Park,Wetheral,Carlisle
+2023-05-12,323000,CA4 8HE,S,N,F,Highfield,,,Wetheral,Carlisle
+2023-05-10,150000,CA4 8DD,D,N,F,3,,Ladysteps,Scotby,Carlisle
+2023-05-10,685000,CA4 0AW,D,N,F,Springbank House,,The Stripes,Cumwhinton,Carlisle
+2023-05-05,330000,CA4 8FA,D,N,F,7,,Alders Edge,Scotby,Carlisle
+2023-05-05,155000,CA4 0HT,T,N,F,2,,Mountain View,High Hesket,Carlisle
+2023-05-02,230000,CA4 8AQ,D,N,F,Cornerstones,,,Aglionby,Carlisle
+2023-04-28,210000,CA4 8PS,S,N,F,Woodcroft,,Langley Gardens,Corby Hill,Carlisle
+2023-04-27,765000,CA4 8HR,D,N,F,Broome Close,,,Wetheral Pasture,Carlisle
+2023-04-20,240000,CA4 8BX,D,N,F,Kerrera,,Lambley Bank,Scotby,Carlisle
+2023-04-18,650000,CA4 8JQ,D,N,F,Stonehurst,,,Wetheral,Carlisle
+2023-04-11,475000,CA4 8GZ,D,N,F,4,,Ivy Lane,Wetheral,Carlisle
+2023-04-11,330000,CA4 8FX,S,N,F,4,,Bluebell Meadows,Cumwhinton,Carlisle
+2023-04-11,300000,CA4 8AX,S,N,F,9,,Park Close,Scotby,Carlisle
+2023-04-11,142000,CA4 0EY,T,N,F,1,,Gash Cottages,Low Hesket,Carlisle
+2023-04-06,150000,CA4 8QL,S,N,F,Eden Cottages,5,Little Corby Road,Little Corby,Carlisle
+2023-03-31,200000,CA4 8JT,D,N,F,4,,Spring Field Close,Wetheral,Carlisle
+2023-03-31,500000,CA4 8GZ,D,N,F,3,,Ivy Lane,Wetheral,Carlisle
+2023-03-31,222500,CA4 0DX,D,N,F,Bramling Cottage,,,Cotehill,Carlisle
+2023-03-31,185000,CA4 0DJ,S,N,F,1,,Prospect Terrace,Cotehill,Carlisle
+2023-03-28,135000,CA4 8RT,F,N,L,Cairn Mill,Flat 3,Waters Meet,Warwick Bridge,Carlisle
+2023-03-24,505000,CA4 0EW,T,N,F,Galloway House,,,Southwaite,Carlisle
+2023-03-22,215000,CA4 8FH,S,Y,F,6,,The Plains,Scotby,Carlisle
+2023-03-22,225000,CA4 8ER,T,N,F,Thornedge,24,,Cumwhinton,Carlisle
+2023-03-20,325000,CA4 8DH,D,N,F,The Old Forge,,,Cumwhinton,Carlisle
+2023-03-13,250000,CA4 8QN,D,N,F,8,,Little Corby Road,Little Corby,Carlisle
+2023-03-13,375000,CA4 8FL,D,N,F,"Vilamoura, 4",,Thornedge Gardens,Cumwhinton,Carlisle
+2023-03-10,318000,CA4 8LD,D,N,F,19,,Greenacres,Wetheral,Carlisle
+2023-03-10,115000,CA4 8AL,F,N,L,7,,The Old Tannery,Scotby,Carlisle
+2023-03-09,580000,CA4 8JY,D,N,F,Eden House,,Plains Road,Wetheral,Carlisle
+2023-03-03,128000,CA4 8EH,F,N,L,15,,Scotby Green Steading,Scotby,Carlisle
+2023-03-01,134000,CA4 0HQ,T,N,F,3,,Police Row,Low Hesket,Carlisle
+2023-02-24,400000,CA4 8QT,D,Y,F,4,,Greenholme Steading,Corby Hill,Carlisle
+2023-02-24,465000,CA4 8QT,D,Y,F,2,,Greenholme Steading,Corby Hill,Carlisle
+2023-02-24,348000,CA4 8JZ,D,N,F,17A,,Faustin Hill,Wetheral,Carlisle
+2023-02-24,226000,CA4 8HR,S,N,F,Hilldale,,,Wetheral Pasture,Carlisle
+2023-02-24,240000,CA4 8FT,S,N,F,2,,Lough Wood Crescent,Scotby,Carlisle
+2023-02-24,342500,CA4 0RH,D,N,F,Low Hurst House,,,Wreay,Carlisle
+2023-02-23,350000,CA4 9QW,D,N,F,Fernlands,,,Ainstable,Carlisle
+2023-02-17,500000,CA4 8GZ,D,N,F,2,,Ivy Lane,Wetheral,Carlisle
+2023-02-16,200000,CA4 9TA,D,N,F,Fell View,,,Armathwaite,Carlisle
+2023-02-16,125000,CA4 8HZ,S,N,L,Wrayside,1,,Wetheral,Carlisle
+2023-02-14,267500,CA4 8BL,D,N,F,24,,Holme Fauld,Scotby,Carlisle
+2023-02-14,167500,CA4 0HZ,S,N,F,6,,Old Town Lodge,High Hesket,Carlisle
+2023-02-13,480000,CA4 8GZ,D,N,F,1,,Ivy Lane,Wetheral,Carlisle
+2023-02-10,550000,CA4 8RJ,D,N,F,Holme View,,,Warwick Bridge,Carlisle
+2023-02-10,440000,CA4 8QT,D,Y,F,7,,Greenholme Steading,Corby Hill,Carlisle
+2023-02-10,425000,CA4 8ER,D,N,F,Beech Croft,,,Cumwhinton,Carlisle
+2023-02-10,152000,CA4 0JD,S,N,F,18,,Coopers Close,High Hesket,Carlisle
+2023-02-08,326000,CA4 8RN,D,N,F,Troutbeck Cottage,,,Warwick Bridge,Carlisle
+2023-01-30,275000,CA4 8RZ,D,N,F,4,,Holme Eden Gardens,Warwick Bridge,Carlisle
+2023-01-27,325000,CA4 8PS,D,N,F,The Brambles,,Langley Gardens,Corby Hill,Carlisle
+2023-01-27,305000,CA4 8AR,S,N,F,Cathay,,Park Road,Scotby,Carlisle
+2023-01-20,134000,CA4 8SA,F,N,L,2,,King George Court,Warwick Bridge,Carlisle
+2023-01-20,215000,CA4 8BJ,S,N,F,103,,Scotby Road,Scotby,Carlisle
+2023-01-19,285000,CA4 9SH,D,N,F,Carlton House,,,Longdales,Carlisle
+2023-01-12,159000,CA4 9AQ,D,N,F,15,,Curlew Close,Armathwaite,Carlisle
+2022-12-20,460000,CA4 8FG,D,N,F,10,,Croft Close,Cumwhinton,Carlisle
+2022-12-20,183000,CA4 0AW,S,N,F,Dale View,2,The Stripes,Cumwhinton,Carlisle
+2022-12-19,325000,CA4 9QN,T,N,F,West Corner Cottage,,,Ainstable,Carlisle
+2022-12-19,310000,CA4 8HU,D,N,F,Sangria,,,Wetheral Pasture,Carlisle
+2022-12-16,200000,CA4 8ER,S,N,F,Rosecote,,,Cumwhinton,Carlisle
+2022-12-09,615000,CA4 8JQ,D,N,F,Brookvale,,,Wetheral,Carlisle
+2022-12-09,232500,CA4 0HG,T,N,F,Rose Cottage,,,Low Hesket,Carlisle
+2022-12-08,270000,CA4 0ED,D,N,F,8,,St Johns Close,Cotehill,Carlisle
+2022-12-07,475000,CA4 8QT,D,Y,F,3,,Greenholme Steading,Corby Hill,Carlisle
+2022-12-07,595000,CA4 8HA,S,N,F,2,,Edenside Cottage,Wetheral,Carlisle
+2022-12-06,340000,CA4 8DJ,D,N,F,Orchard View,,Station Road,Cumwhinton,Carlisle
+2022-12-06,245000,CA4 0LB,S,N,F,Bluebell Cottage,,,Southwaite,Carlisle
+2022-12-02,377500,CA4 9PX,D,N,F,6,,Brackenrigg,Armathwaite,Carlisle
+2022-12-01,180000,CA4 8HD,S,N,F,Honeysuckle Cottage,,,Wetheral,Carlisle
+2022-11-30,470000,CA4 8QT,D,Y,F,6,,Greenholme Steading,Corby Hill,Carlisle
+2022-11-28,266000,CA4 8EA,S,N,F,High House Cottage,,Station Road,Cumwhinton,Carlisle
+2022-11-25,231400,CA4 8AT,S,N,F,Silver Beech,,Park Road,Scotby,Carlisle
+2022-11-24,480000,CA4 8QT,D,Y,F,1,,Greenholme Steading,Corby Hill,Carlisle
+2022-11-24,650000,CA4 0BT,D,N,F,Dower House,,,Carleton,Carlisle
+2022-11-23,440000,CA4 8FP,D,N,F,10,,St Benedicts Way,Wetheral,Carlisle
+2022-11-23,245000,CA4 8DW,F,N,L,6,,Scotby Grange,Scotby,Carlisle
+2022-11-21,310000,CA4 9PL,D,N,F,Harp Hill,,Station Road,Armathwaite,Carlisle
+2022-11-21,203000,CA4 9PL,T,N,F,Eden Grove Cottages,1,Station Road,Armathwaite,Carlisle
+2022-11-15,385000,CA4 8PA,S,N,F,Grey Owl Cottage,,,Warwick On Eden,Carlisle
+2022-11-10,400000,CA4 8QT,D,Y,F,8,,Greenholme Steading,Corby Hill,Carlisle
+2022-11-09,685000,CA4 8FY,D,N,F,2,,Limebeck Close,Scotby,Carlisle
+2022-11-07,200000,CA4 8JH,F,N,L,20,,Croft Park,Wetheral,Carlisle
+2022-11-04,357500,CA4 0QQ,S,N,F,Old School House,,,Sowerby Row,Carlisle
+2022-10-31,213500,CA4 8FN,S,N,F,11,,King George Gardens,Warwick Bridge,Carlisle
+2022-10-28,172000,CA4 0EZ,T,N,F,2,,Green View,Low Hesket,Carlisle
+2022-10-25,300000,CA4 0JT,S,N,F,Southwaite Hall,Kestral Cottage,,Southwaite,Carlisle
+2022-10-24,185000,CA4 8DW,F,N,L,5,,Scotby Grange,Scotby,Carlisle
+2022-10-24,190000,CA4 0HZ,F,N,L,Inglewood,,Old Town Lodge,High Hesket,Carlisle
+2022-10-21,299500,CA4 9QH,D,N,F,3,,Broomrigg Crescent,Ainstable,Carlisle
+2022-10-21,225000,CA4 8LP,S,N,F,16,,The Beeches,Great Corby,Carlisle
+2022-10-21,385000,CA4 8LL,D,N,F,Brindles,,,Great Corby,Carlisle
+2022-10-20,345000,CA4 8FA,D,N,F,19,,Alders Edge,Scotby,Carlisle
+2022-10-20,735000,CA4 8DG,D,N,F,The Finials,,Broomfallen Road,Scotby,Carlisle
+2022-10-20,295000,CA4 0EG,T,N,F,Krakatoa,,,Cotehill,Carlisle
+2022-10-18,286000,CA4 8AT,S,N,F,Gowanlea,,Park Road,Scotby,Carlisle
+2022-10-14,81000,CA4 8RE,T,N,F,Cobblers Cottage,,,Warwick Bridge,Carlisle
+2022-10-14,380000,CA4 8JH,D,N,F,8,,Croft Park,Wetheral,Carlisle
+2022-10-14,154000,CA4 8FA,T,N,F,20,,Alders Edge,Scotby,Carlisle
+2022-10-14,102500,CA4 8EH,F,N,L,9,,Scotby Green Steading,Scotby,Carlisle
+2022-10-14,410000,CA4 0RL,D,N,F,Croglin,,,Wreay,Carlisle
+2022-10-14,250000,CA4 0QS,D,N,F,Wooden Walls,,,Brisco,Carlisle
+2022-10-14,220000,CA4 0AG,F,Y,L,Scalesceugh Hall,5,,Carleton,Carlisle
+2022-10-07,200000,CA4 8QF,D,N,F,10,,Hurley Road,Little Corby,Carlisle
+2022-10-05,170000,CA4 8QY,S,N,F,5,,Hurley Road,Little Corby,Carlisle
+2022-10-04,550000,CA4 8JG,D,N,F,Meadow Croft,,,Wetheral,Carlisle
+2022-10-03,220000,CA4 8FN,S,N,F,1,,King George Gardens,Warwick Bridge,Carlisle
+2022-10-03,250000,CA4 8DW,F,N,L,7,,Scotby Grange,Scotby,Carlisle
+2022-10-03,450000,CA4 8BD,D,N,F,23A,,Scotby Road,Scotby,Carlisle
+2022-10-03,310000,CA4 0BT,D,N,F,12,,Scalesceugh Villas,Carleton,Carlisle
+2022-09-30,175000,CA4 8QF,T,N,F,26,,Hurley Road,Little Corby,Carlisle
+2022-09-30,475000,CA4 8LS,D,N,F,1,,The Orchard,Great Corby,Carlisle
+2022-09-30,295000,CA4 8LD,D,N,F,108,,Greenacres,Wetheral,Carlisle
+2022-09-30,375000,CA4 8HE,D,N,F,Sgumain,,,Wetheral,Carlisle
+2022-09-27,285000,CA4 8RD,F,N,L,Holme Eden Hall,12,,Warwick Bridge,Carlisle
+2022-09-27,270000,CA4 8ET,D,N,L,The Gables,1,The Green,Wetheral,Carlisle
+2022-09-26,143000,CA4 8JL,F,N,L,1,,Whitegate,Wetheral,Carlisle
+2022-09-23,295000,CA4 8BH,S,N,F,2,,Hill Head,Scotby,Carlisle
+2022-09-22,366382,CA4 9PX,D,N,F,14,,Brackenrigg,Armathwaite,Carlisle
+2022-09-21,169000,CA4 8QW,T,N,F,9,,Eden Grange,Little Corby,Carlisle
+2022-09-16,515000,CA4 8LR,T,N,F,Castle View,,,Great Corby,Carlisle
+2022-09-16,600000,CA4 8FX,D,N,F,6,,Bluebell Meadows,Cumwhinton,Carlisle
+2022-09-16,130000,CA4 8AL,F,N,L,17,,The Old Tannery,Scotby,Carlisle
+2022-09-15,275000,CA4 8FL,S,N,F,11,,Thornedge Gardens,Cumwhinton,Carlisle
+2022-09-09,290000,CA4 8HD,S,N,F,Primrose Hill Nook,,,Wetheral,Carlisle
+2022-09-05,420000,CA4 0JD,D,N,F,33,,Coopers Close,High Hesket,Carlisle
+2022-08-31,560000,CA4 9RJ,D,N,F,Thornthwaite House,,,Ainstable,Carlisle
+2022-08-31,425000,CA4 8AQ,D,N,F,Hill House,,,Aglionby,Carlisle
+2022-08-31,600000,CA4 0QH,D,N,F,Roe Head,,,Sowerby Row,Carlisle
+2022-08-30,285000,CA4 8DU,D,N,F,Cherry Nook,,School Road,Cumwhinton,Carlisle
+2022-08-26,390000,CA4 9QH,D,N,F,6,,Broomrigg Crescent,Ainstable,Carlisle
+2022-08-26,144000,CA4 8AH,S,N,F,2,,Arch Cottages,Aglionby,Carlisle
+2022-08-25,442500,CA4 8FP,D,N,F,16,,St Benedicts Way,Wetheral,Carlisle
+2022-08-25,381000,CA4 0ET,D,N,F,The Coppers,,,Low Hesket,Carlisle
+2022-08-23,375000,CA4 0EW,D,N,F,Oakside,,,Southwaite,Carlisle
+2022-08-22,350000,CA4 8LD,D,N,F,102,,Greenacres,Wetheral,Carlisle
+2022-08-19,910000,CA4 8DH,D,N,F,How Croft,,,Cumwhinton,Carlisle
+2022-08-19,390000,CA4 8BT,S,N,F,20,,Ghyll Road,Scotby,Carlisle
+2022-08-19,305000,CA4 8AJ,D,N,F,17,,Rosegate,Aglionby,Carlisle
+2022-08-15,540000,CA4 8HA,D,N,F,Edenside House,,,Wetheral,Carlisle
+2022-08-15,175000,CA4 8DU,S,N,F,Fell View House,,School Road,Cumwhinton,Carlisle
+2022-08-11,260000,CA4 8BJ,S,N,F,104,,Scotby Road,Scotby,Carlisle
+2022-08-11,250000,CA4 8BG,D,N,F,97,,Scotby Road,Scotby,Carlisle
+2022-08-05,436000,CA4 8FP,D,N,F,15,,St Benedicts Way,Wetheral,Carlisle
+2022-08-05,135000,CA4 8EH,T,N,L,11,,Scotby Green Steading,Scotby,Carlisle
+2022-07-29,470000,CA4 8PA,D,N,F,Warwick House,,,Warwick On Eden,Carlisle
+2022-07-29,155000,CA4 8JR,F,N,L,24,,Goose Garth,Wetheral,Carlisle
+2022-07-29,150000,CA4 8JL,F,N,L,3,,Whitegate,Wetheral,Carlisle
+2022-07-29,170000,CA4 8FY,D,N,F,4,,Limebeck Close,Scotby,Carlisle
+2022-07-25,300000,CA4 8AL,D,N,F,8,,The Old Tannery,Scotby,Carlisle
+2022-07-22,270000,CA4 8DJ,D,N,F,Ash View,,Station Road,Cumwhinton,Carlisle
+2022-07-22,185000,CA4 0HL,T,N,F,8,,Croft Court,High Hesket,Carlisle
+2022-07-21,300000,CA4 0PA,D,N,F,High Garth Meadows,15,,Ivegill,Carlisle
+2022-07-18,288000,CA4 8RE,D,N,F,The Steading,1,,Warwick Bridge,Carlisle
+2022-07-15,195000,CA4 8RZ,F,N,L,14,,Holme Eden Gardens,Warwick Bridge,Carlisle
+2022-07-15,185000,CA4 8LX,S,N,F,20,,Woodlands,Great Corby,Carlisle
+2022-07-15,360000,CA4 8AJ,D,N,F,7,,Rosegate,Aglionby,Carlisle
+2022-07-12,153000,CA4 8LJ,T,N,F,3,,Corby Gates,Great Corby,Carlisle
+2022-07-11,230000,CA4 8FA,S,N,F,25,,Alders Edge,Scotby,Carlisle
+2022-07-11,400000,CA4 8AL,D,N,F,18,,The Old Tannery,Scotby,Carlisle
+2022-07-04,180000,CA4 9PX,T,N,F,22,,Brackenrigg,Armathwaite,Carlisle
+2022-07-01,740000,CA4 8LA,D,N,F,Baytree House,,Plains Road,Wetheral,Carlisle
+2022-06-29,260000,CA4 8DE,S,N,F,48,,Broomfallen Road,Scotby,Carlisle
+2022-06-27,142700,CA4 0DR,S,N,F,Orchard Cottage,,Back Street,Cotehill,Carlisle
+2022-06-22,450000,CA4 8HW,S,N,F,Richmond Hill,,,Wetheral,Carlisle
+2022-06-20,800000,CA4 8LE,D,N,F,Birchwood,,Plains Road,Wetheral,Carlisle
+2022-06-14,285000,CA4 8EW,F,N,L,Lime House,7,The Green,Wetheral,Carlisle
+2022-06-10,235000,CA4 8LT,T,N,F,Grove Cottage,,,Great Corby,Carlisle
+2022-06-10,345000,CA4 8AF,D,N,F,"Aglionby Farm, 2",,Broomy Hill,Aglionby,Carlisle
+2022-06-08,130000,CA4 8QP,T,N,F,44,,Millriggs,Corby Hill,Carlisle
+2022-06-07,490000,CA4 8FP,D,N,F,5,,St Benedicts Way,Wetheral,Carlisle
+2022-06-01,412500,CA4 8LL,S,N,F,West View,,,Great Corby,Carlisle
+2022-06-01,425000,CA4 8FJ,D,N,F,1,,Williams Pasture,Aglionby,Carlisle
+2022-06-01,237500,CA4 0BT,T,N,F,8,,Scalesceugh Villas,Carleton,Carlisle
+2022-05-30,367500,CA4 8AY,D,N,F,5,,Nightingale Court,Scotby,Carlisle
+2022-05-26,560000,CA4 8ET,D,N,F,South View Lodge,,The Green,Wetheral,Carlisle
+2022-05-16,450000,CA4 8HL,D,N,F,Saffron House,,,Wetheral,Carlisle
+2022-05-13,160000,CA4 8QF,T,N,F,32,,Hurley Road,Little Corby,Carlisle
+2022-05-06,310000,CA4 0AG,F,Y,L,Scalesceugh Hall,6,,Carleton,Carlisle
+2022-05-04,255000,CA4 8LL,F,N,F,Wythburn House,,,Great Corby,Carlisle
+2022-04-28,398000,CA4 9QN,D,N,F,Meadow Stone,,,Ainstable,Carlisle
+2022-04-28,300000,CA4 8JW,S,N,F,8,,Myre Bank,Wetheral,Carlisle
+2022-04-28,342250,CA4 8AQ,S,N,F,Dale Field,,,Aglionby,Carlisle
+2022-04-22,270000,CA4 8EW,F,N,L,Lime House,5,The Green,Wetheral,Carlisle
+2022-04-22,399950,CA4 8ES,D,N,F,Celtic Cottage,,,Wetheral,Carlisle
+2022-04-22,120000,CA4 8BP,T,N,F,39,,Scotby Village,Scotby,Carlisle
+2022-04-22,127000,CA4 0RJ,T,N,F,1,,Wreay Court,Wreay,Carlisle
+2022-04-13,140000,CA4 0HJ,T,N,F,7,,Mill Bank,Low Hesket,Carlisle
+2022-04-06,250000,CA4 8GX,D,N,F,3,,Barley Close,Wetheral,Carlisle
+2022-04-06,405000,CA4 8FX,D,Y,F,8,,Bluebell Meadows,Cumwhinton,Carlisle
+2022-04-06,185000,CA4 0DF,S,N,F,29,,Townhead Road,Cotehill,Carlisle
+2022-04-04,400000,CA4 8JD,D,N,F,Oak Tree Cottage,,,Wetheral,Carlisle
+2022-03-31,250000,CA4 8PJ,D,N,F,Albie Cottage,,,Corby Hill,Carlisle
+2022-03-31,70000,CA4 8DH,S,N,F,Dale House,,,Cumwhinton,Carlisle
+2022-03-30,775000,CA4 8NJ,D,N,F,Birkhill,,,Great Corby,Carlisle
+2022-03-25,150000,CA4 8LX,T,N,F,1,,Woodlands,Great Corby,Carlisle
+2022-03-25,215000,CA4 8ER,T,N,F,Thornedge,23,,Cumwhinton,Carlisle
+2022-03-25,232500,CA4 8DA,T,N,F,4,,Broomfallen Road,Scotby,Carlisle
+2022-03-25,225000,CA4 0QS,S,N,F,Risena,,,Brisco,Carlisle
+2022-03-22,650000,CA4 8FY,D,N,F,1,,Limebeck Close,Scotby,Carlisle
+2022-03-19,460000,CA4 8QT,D,Y,F,5,,Greenholme Steading,Corby Hill,Carlisle
+2022-03-18,265000,CA4 0HB,D,N,F,Ingledene,,,Low Hesket,Carlisle
+2022-03-17,270000,CA4 0GZ,D,N,F,1,,Stonecroft Gardens,High Hesket,Carlisle
+2022-03-14,360000,CA4 9RZ,D,N,F,Silverdell Cottage,,,Croglin,Carlisle
+2022-03-11,312500,CA4 8AQ,S,N,F,Nancy Croft,,,Aglionby,Carlisle
+2022-03-11,160000,CA4 0DF,T,N,F,34,,Townhead Road,Cotehill,Carlisle
+2022-03-04,244000,CA4 8RE,T,N,F,Millers Cottage,,,Warwick Bridge,Carlisle
+2022-03-04,190000,CA4 8DE,S,N,F,20,,Broomfallen Road,Scotby,Carlisle
+2022-03-04,260000,CA4 8BD,S,N,F,60,,Scotby Road,Scotby,Carlisle
+2022-03-01,710000,CA4 8EY,D,N,F,3,,The Glebe,Wetheral,Carlisle
+2022-02-28,510000,CA4 9TJ,D,N,F,Hewen House,,,Armathwaite,Carlisle
+2022-02-24,179000,CA4 8LX,T,N,F,7,,Woodlands,Great Corby,Carlisle
+2022-02-17,400000,CA4 8LB,D,N,F,11,,Elm Garth,Wetheral,Carlisle
+2022-02-15,125000,CA4 8HZ,T,N,L,Wrayside,4,,Wetheral,Carlisle
+2022-02-15,185000,CA4 8BP,T,N,F,50,,Scotby Village,Scotby,Carlisle
+2022-02-14,245000,CA4 8RZ,F,N,L,13,,Holme Eden Gardens,Warwick Bridge,Carlisle
+2022-02-14,129500,CA4 8ER,T,N,F,19,,Thornedge,Cumwhinton,Carlisle
+2022-02-14,546000,CA4 8BX,D,N,F,Ireby Gate,,Lambley Bank,Scotby,Carlisle
+2022-02-07,110000,CA4 8EH,T,N,L,20,,Scotby Green Steading,Scotby,Carlisle
+2022-01-31,343000,CA4 8LD,D,N,F,114,,Greenacres,Wetheral,Carlisle
+2022-01-31,270000,CA4 8DE,D,N,F,43,,Broomfallen Road,Scotby,Carlisle
+2022-01-28,145000,CA4 8PR,F,N,L,5,,Tithebarn Hill,Warwick On Eden,Carlisle
+2022-01-28,138000,CA4 8JH,F,N,L,27,,Croft Park,Wetheral,Carlisle
+2022-01-28,950000,CA4 8AQ,D,N,F,Fair View,,,Aglionby,Carlisle
+2022-01-27,450000,CA4 8AD,D,N,F,Rose Park,,,Aglionby,Carlisle
+2022-01-26,350000,CA4 9RZ,T,N,F,Lion House,,,Croglin,Carlisle
+2022-01-24,450000,CA4 8AJ,D,N,F,14,,Rosegate,Aglionby,Carlisle
+2022-01-20,315500,CA4 8AY,D,N,F,4,,Nightingale Court,Scotby,Carlisle
+2022-01-19,182250,CA4 0AG,F,Y,L,Scalesceugh Hall,8,,Carleton,Carlisle
+2022-01-18,229500,CA4 8ER,D,N,F,Stirling House,,,Cumwhinton,Carlisle
+2022-01-14,137500,CA4 8QP,T,N,F,12,,Millriggs,Corby Hill,Carlisle
+2022-01-08,555000,CA4 8DU,D,N,F,The Nook,,School Road,Cumwhinton,Carlisle
+2022-01-07,220000,CA4 9PL,S,N,F,Eden Grove Cottages,2,Station Road,Armathwaite,Carlisle
+2022-01-07,250000,CA4 8RE,T,N,F,Howard Cottage,,,Warwick Bridge,Carlisle
+2021-12-17,170000,CA4 8HJ,D,Y,F,4,,Priors Garth,Wetheral,Carlisle
+2021-12-17,185000,CA4 8DD,S,N,F,19,,Ladysteps,Scotby,Carlisle
+2021-12-14,265000,CA4 9PF,T,N,F,The Barn,5,,Armathwaite,Carlisle
+2021-12-10,215000,CA4 8BD,S,N,F,53,,Scotby Road,Scotby,Carlisle
+2021-12-07,322000,CA4 8LA,D,N,F,Dewberry Lodge,,Plains Road,Wetheral,Carlisle
+2021-12-03,180000,CA4 8RT,D,N,F,7,,Waters Meet,Warwick Bridge,Carlisle
+2021-12-03,175000,CA4 8QF,S,N,F,62,,Hurley Road,Little Corby,Carlisle
+2021-12-03,312000,CA4 8JH,S,N,F,2,,Croft Park,Wetheral,Carlisle
+2021-12-01,126500,CA4 8LU,F,N,L,180,,Greenacres,Wetheral,Carlisle
+2021-12-01,395000,CA4 8JQ,D,N,F,Stonegarth,,,Wetheral,Carlisle
+2021-12-01,600000,CA4 8ES,S,N,F,Thorn Leigh,,,Wetheral,Carlisle
+2021-11-30,205000,CA4 8PE,D,N,F,2,,Grahams Croft,Warwick On Eden,Carlisle
+2021-11-29,357500,CA4 8DE,D,N,F,41,,Broomfallen Road,Scotby,Carlisle
+2021-11-29,288500,CA4 8AL,D,N,F,4,,The Old Tannery,Scotby,Carlisle
+2021-11-26,295000,CA4 0EU,D,N,F,Underfell,,,Low Hesket,Carlisle
+2021-11-25,650000,CA4 8HR,D,N,F,Pinfold,,,Wetheral Pasture,Carlisle
+2021-11-25,437500,CA4 8AU,D,N,F,5,,Near Park,Scotby,Carlisle
+2021-11-23,308000,CA4 8LD,D,N,F,47,,Greenacres,Wetheral,Carlisle
+2021-11-22,150000,CA4 8RT,S,N,F,14,,Waters Meet,Warwick Bridge,Carlisle
+2021-11-22,370000,CA4 8AQ,D,N,F,The Strand,3,,Aglionby,Carlisle
+2021-11-19,305500,CA4 0AG,F,N,L,Scalesceugh Hall,1,,Carleton,Carlisle
+2021-11-16,130000,CA4 0EZ,S,N,F,1,,Green View,Low Hesket,Carlisle
+2021-11-12,300000,CA4 8BJ,D,N,F,101,,Scotby Road,Scotby,Carlisle
+2021-11-12,361500,CA4 8BD,D,N,F,23,,Scotby Road,Scotby,Carlisle
+2021-11-11,305000,CA4 8LD,D,N,F,43,,Greenacres,Wetheral,Carlisle
+2021-11-09,375000,CA4 8JD,D,N,F,Fairways,,,Wetheral,Carlisle
+2021-11-05,222000,CA4 0BT,S,N,F,Scalesceugh,Stable Cottage,,Carleton,Carlisle
+2021-11-02,122500,CA4 8DD,S,N,F,13,,Ladysteps,Scotby,Carlisle
+2021-10-29,365000,CA4 0AA,D,N,F,River Forge,,,Carleton,Carlisle
+2021-10-22,180000,CA4 8ER,S,N,F,Croft House,,,Cumwhinton,Carlisle
+2021-10-22,1350000,CA4 0PA,D,N,F,The Old Vicarage,,,Ivegill,Carlisle
+2021-10-21,350000,CA4 0JD,D,Y,F,36,,Coopers Close,High Hesket,Carlisle
+2021-10-21,173000,CA4 0HZ,D,N,F,9,,Old Town Lodge,High Hesket,Carlisle
+2021-10-19,230000,CA4 0AG,F,Y,L,Scalesceugh Hall,11,,Carleton,Carlisle
+2021-10-18,162500,CA4 9ST,S,N,F,2,,Low House Farm Cottages,Armathwaite,Carlisle
+2021-10-08,520000,CA4 8DJ,D,N,F,2,,High Croft,Cumwhinton,Carlisle
+2021-10-06,165000,CA4 8JG,D,N,F,Plot 1,,Scotby Road,Wetheral,Carlisle
+2021-09-30,376000,CA4 8NQ,D,N,F,High Garth,,Sandy Lane,Great Corby,Carlisle
+2021-09-30,176550,CA4 8LX,S,N,F,10,,Woodlands,Great Corby,Carlisle
+2021-09-30,390000,CA4 0JD,D,Y,F,33,,Coopers Close,High Hesket,Carlisle
+2021-09-30,255000,CA4 0HS,D,N,F,Meadowbank House,,,High Hesket,Carlisle
+2021-09-29,192500,CA4 8LX,S,N,F,22,,Woodlands,Great Corby,Carlisle
+2021-09-29,725000,CA4 8HR,D,N,F,Highclere,,,Wetheral Pasture,Carlisle
+2021-09-29,285000,CA4 8ET,F,N,L,Killoran,Windermere 6,The Green,Wetheral,Carlisle
+2021-09-28,129033,CA4 8RZ,D,N,F,16,,Holme Eden Gardens,Warwick Bridge,Carlisle
+2021-09-28,265000,CA4 8BA,D,N,F,13,,Wellgate,Scotby,Carlisle
+2021-09-27,210000,CA4 9PJ,S,N,F,17,,Mill Brow,Armathwaite,Carlisle
+2021-09-27,435000,CA4 8BT,S,N,F,21,,Ghyll Road,Scotby,Carlisle
+2021-09-27,107000,CA4 8AZ,F,N,L,9,,Sutton Court,Scotby,Carlisle
+2021-09-27,270000,CA4 8AT,S,N,F,Arundel,,Park Road,Scotby,Carlisle
+2021-09-27,730000,CA4 8AQ,D,N,F,Hunters Croft,,,Aglionby,Carlisle
+2021-09-24,137000,CA4 8LT,T,N,F,Milford,,,Great Corby,Carlisle
+2021-09-24,345000,CA4 8LL,S,N,F,New Croft,,,Great Corby,Carlisle
+2021-09-24,415000,CA4 0EG,D,N,F,Highcotes Corner,,,Cotehill,Carlisle
+2021-09-23,335000,CA4 8QX,S,N,F,Croft House,,,Newby East,Carlisle
+2021-09-21,185351,CA4 8ET,F,N,L,Killoran,Derwent 5,The Green,Wetheral,Carlisle
+2021-09-17,158500,CA4 8QY,S,N,F,101,,Hurley Road,Little Corby,Carlisle
+2021-09-17,250000,CA4 8QN,D,N,F,5,,Little Corby Road,Little Corby,Carlisle
+2021-09-17,150050,CA4 0DF,T,N,F,44,,Townhead Road,Cotehill,Carlisle
+2021-09-17,153050,CA4 0AU,S,N,F,4,,Alby Terrace,Cumwhinton,Carlisle
+2021-09-15,210000,CA4 8QF,D,N,F,18,,Hurley Road,Little Corby,Carlisle
+2021-09-06,305000,CA4 0BT,T,Y,F,7,,Scalesceugh Villas,Carleton,Carlisle
+2021-09-03,335000,CA4 0JG,D,N,F,Herdwick House,,,High Hesket,Carlisle
+2021-09-01,260000,CA4 8JH,D,N,F,41,,Croft Park,Wetheral,Carlisle
+2021-09-01,425000,CA4 0QE,D,N,F,Summer Hill,,,Ivegill,Carlisle
+2021-08-27,305000,CA4 8AL,D,N,F,22,,The Old Tannery,Scotby,Carlisle
+2021-08-27,219500,CA4 0AG,F,Y,L,Scalesceugh Hall,12,,Carleton,Carlisle
+2021-08-23,192500,CA4 8JS,F,N,L,1,,Hall Moor Court,Wetheral,Carlisle
+2021-08-23,250000,CA4 8JJ,S,N,F,22,,Jennet Croft,Wetheral,Carlisle
+2021-08-23,272500,CA4 8DH,D,N,F,The Copper Beech,,,Cumwhinton,Carlisle
+2021-08-20,190000,CA4 8PF,S,N,F,24,,Buffs Croft,Warwick On Eden,Carlisle
+2021-08-20,325000,CA4 8DL,D,N,F,Knott View,,,Cumwhinton,Carlisle
+2021-08-20,695000,CA4 8BS,D,N,F,"Holly Bush, 14",,Scotby Village,Scotby,Carlisle
+2021-08-19,430000,CA4 0ND,D,N,F,Low Grange Farm,,,Southwaite,Carlisle
+2021-08-18,237000,CA4 8BL,D,N,F,24,,Holme Fauld,Scotby,Carlisle
+2021-08-13,205000,CA4 8ET,F,N,L,The Gables,2,The Green,Wetheral,Carlisle
+2021-08-13,210000,CA4 8ER,T,N,F,Thornedge,24,,Cumwhinton,Carlisle
+2021-08-12,218250,CA4 8BS,D,N,F,22,,Scotby Village,Scotby,Carlisle
+2021-08-12,148000,CA4 0PA,T,N,F,High Garth Meadows,19,,Ivegill,Carlisle
+2021-08-11,121500,CA4 0HT,T,N,F,2,,Mountain View,High Hesket,Carlisle
+2021-08-06,122000,CA4 8RL,T,N,F,Burnside Cottage,,,Warwick Bridge,Carlisle
+2021-08-06,235000,CA4 8FA,T,N,F,31,,Alders Edge,Scotby,Carlisle
+2021-08-05,129000,CA4 8JF,S,N,F,7,,Pleasant View,Wetheral,Carlisle
+2021-07-30,345000,CA4 9AS,S,N,F,Old Carriage Barn,,,Ainstable,Carlisle
+2021-07-30,120000,CA4 8AL,F,N,L,1,,The Old Tannery,Scotby,Carlisle
+2021-07-29,220000,CA4 8HR,S,N,F,1,,Fernbank Cottage,Wetheral Pasture,Carlisle
+2021-07-23,307500,CA4 8BT,D,N,F,Chestnut Bank,,Ghyll Road,Scotby,Carlisle
+2021-07-22,181000,CA4 8AQ,D,N,F,Cornerstones,,,Aglionby,Carlisle
+2021-07-21,340000,CA4 8PA,D,N,F,Rozel,,,Warwick On Eden,Carlisle
+2021-07-21,320000,CA4 8PA,T,N,F,Rose Cottage,,,Warwick On Eden,Carlisle
+2021-07-16,277500,CA4 8DX,S,N,F,1,,West View,Cumwhinton,Carlisle
+2021-07-14,288000,CA4 0PA,D,N,F,Rose Cottage,,,Ivegill,Carlisle
+2021-07-13,165000,CA4 0DF,S,N,F,22,,Townhead Road,Cotehill,Carlisle
+2021-07-09,135000,CA4 8AB,F,N,L,2,,Wheelbarrow Court,Scotby,Carlisle
+2021-07-09,150000,CA4 0QR,S,N,F,3,,High Woodbank,Brisco,Carlisle
+2021-07-09,220000,CA4 0DQ,S,N,F,4,,Front Street,Cotehill,Carlisle
+2021-07-09,179250,CA4 0AU,S,N,F,5,,Alby Terrace,Cumwhinton,Carlisle
+2021-07-07,170000,CA4 8HJ,D,Y,F,6,,Priors Garth,Wetheral,Carlisle
+2021-07-07,193000,CA4 8ER,T,N,F,18,,Thornedge,Cumwhinton,Carlisle
+2021-07-02,125000,CA4 8QH,S,N,F,23,,Cairn Crescent,Corby Hill,Carlisle
+2021-07-02,170000,CA4 8HJ,D,Y,F,5,,Priors Garth,Wetheral,Carlisle
+2021-06-30,325000,CA4 9PY,T,N,F,Bridge End Cottage,,,Armathwaite,Carlisle
+2021-06-30,128000,CA4 8PA,F,N,L,10,,Warwick Farm,Warwick On Eden,Carlisle
+2021-06-30,412000,CA4 8AS,D,N,F,Eden Glass,,The Park,Scotby,Carlisle
+2021-06-30,650000,CA4 0LN,D,N,F,The Park,,,Southwaite,Carlisle
+2021-06-30,240000,CA4 0EU,D,N,F,Springbank House,,,Low Hesket,Carlisle
+2021-06-29,335000,CA4 8QB,D,N,F,Lowmoor Lodge,,,Corby Hill,Carlisle
+2021-06-29,275000,CA4 8NA,T,N,F,Quarry Bank Cottage,,,Great Corby,Carlisle
+2021-06-29,490000,CA4 8HR,D,N,F,Wisteria,,,Wetheral Pasture,Carlisle
+2021-06-29,380000,CA4 8FP,D,N,F,4,,St Benedicts Way,Wetheral,Carlisle
+2021-06-29,405500,CA4 8BT,D,N,F,Beech Croft,,Ghyll Road,Scotby,Carlisle
+2021-06-28,330000,CA4 8RD,F,N,L,Holme Eden Hall,11,,Warwick Bridge,Carlisle
+2021-06-28,680000,CA4 8JY,D,N,F,Tulip House,,Plains Road,Wetheral,Carlisle
+2021-06-28,550000,CA4 8ES,S,N,F,Woodgrange,,,Wetheral,Carlisle
+2021-06-28,220000,CA4 8BW,D,N,F,11,,Scotby Village,Scotby,Carlisle
+2021-06-28,405000,CA4 8AJ,D,N,F,11,,Rosegate,Aglionby,Carlisle
+2021-06-28,305000,CA4 8AF,D,N,F,12,,Broomy Hill,Aglionby,Carlisle
+2021-06-28,120000,CA4 0EH,D,N,F,Wych Wae,,,Cotehill,Carlisle
+2021-06-25,264000,CA4 8RZ,D,N,F,15,,Holme Eden Gardens,Warwick Bridge,Carlisle
+2021-06-25,275000,CA4 8LN,T,N,F,2,,Wentworth Terrace,Great Corby,Carlisle
+2021-06-25,280000,CA4 8LD,D,N,F,45,,Greenacres,Wetheral,Carlisle
+2021-06-25,255000,CA4 0PE,T,N,F,"The Barn, 9",,The Grange,Ivegill,Carlisle
+2021-06-25,335000,CA4 0BT,S,N,F,1,,Scalesceugh Villas,Carleton,Carlisle
+2021-06-25,485000,CA4 0AJ,S,N,F,Newbiggin Hall Farm,Bonehouse Barn,,Carleton,Carlisle
+2021-06-24,575000,CA4 8PT,D,N,F,3,,Fallowfield Gardens,Wetheral,Carlisle
+2021-06-23,115000,CA4 8EH,T,N,L,11,,Scotby Green Steading,Scotby,Carlisle
+2021-06-18,185000,CA4 8QF,S,N,F,104,,Hurley Road,Little Corby,Carlisle
+2021-06-18,395000,CA4 0JD,D,Y,F,34,,Coopers Close,High Hesket,Carlisle
+2021-06-17,275000,CA4 8NE,D,N,F,Chapel House,,,Great Corby,Carlisle
+2021-06-17,370000,CA4 8LL,D,N,F,Fairfield House,,,Great Corby,Carlisle
+2021-06-16,330000,CA4 8LB,D,N,F,6,,Elm Garth,Wetheral,Carlisle
+2021-06-16,207500,CA4 0AG,F,Y,L,Scalesceugh Hall,4,,Carleton,Carlisle
+2021-06-11,450000,CA4 8BX,D,N,F,White House,,Lambley Bank,Scotby,Carlisle
+2021-06-11,275000,CA4 8BH,S,N,F,21,,Hill Head,Scotby,Carlisle
+2021-06-10,137500,CA4 0JS,T,N,L,Bassenthwaite,,Barrock Park,Southwaite,Carlisle
+2021-06-08,169000,CA4 0AG,F,Y,L,Scalesceugh Hall,14,,Carleton,Carlisle
+2021-06-07,180000,CA4 0PE,T,N,F,"Eight Byre, 13",,The Grange,Ivegill,Carlisle
+2021-06-04,377500,CA4 8ER,D,N,F,11,,Thornedge,Cumwhinton,Carlisle
+2021-06-04,236000,CA4 8BJ,S,N,F,131,,Scotby Road,Scotby,Carlisle
+2021-05-28,118500,CA4 8LR,T,N,F,Jesmond Cottage,,,Great Corby,Carlisle
+2021-05-28,340000,CA4 8FE,D,N,F,2,,Lime House Gardens,Wetheral,Carlisle
+2021-05-28,270000,CA4 8DE,D,N,F,44,,Broomfallen Road,Scotby,Carlisle
+2021-05-28,365000,CA4 0JD,D,Y,F,27,,Coopers Close,High Hesket,Carlisle
+2021-05-27,372000,CA4 9QA,D,N,F,Four Winds,,,Ainstable,Carlisle
+2021-05-27,160000,CA4 0JS,T,N,L,Blencathra,,Barrock Park,Southwaite,Carlisle
+2021-05-26,297000,CA4 0AG,F,Y,L,Scalesceugh Hall,7,,Carleton,Carlisle
+2021-05-21,375000,CA4 9PW,D,N,F,School House,,,Armathwaite,Carlisle
+2021-05-21,165000,CA4 8JR,F,N,L,27,,Goose Garth,Wetheral,Carlisle
+2021-05-21,230000,CA4 8DG,S,N,F,Royston,,Broomfallen Road,Scotby,Carlisle
+2021-05-21,252000,CA4 0AG,F,Y,L,Scalesceugh Hall,2,,Carleton,Carlisle
+2021-05-21,205000,CA4 0AG,F,Y,L,Scalesceugh Hall,3,,Carleton,Carlisle
+2021-05-19,139500,CA4 0HL,T,N,F,3,,Croft Court,High Hesket,Carlisle
+2021-05-19,290000,CA4 0BT,D,N,F,12,,Scalesceugh Villas,Carleton,Carlisle
+2021-05-14,232000,CA4 8HZ,D,N,F,Edenflow,,,Wetheral,Carlisle
+2021-05-14,267000,CA4 8BX,D,N,F,Winds Over,,Lambley Bank,Scotby,Carlisle
+2021-05-12,90000,CA4 8AD,T,N,F,3,,Holme Park,Aglionby,Carlisle
+2021-05-10,255000,CA4 8BJ,D,N,F,125,,Scotby Road,Scotby,Carlisle
+2021-05-10,285000,CA4 8AQ,D,N,F,Manor Barn,,,Aglionby,Carlisle
+2021-05-10,180000,CA4 0JD,S,N,F,22,,Coopers Close,High Hesket,Carlisle
+2021-05-10,625000,CA4 0AW,D,N,F,Springbank House,,The Stripes,Cumwhinton,Carlisle
+2021-05-07,280000,CA4 8FX,S,Y,F,4,,Bluebell Meadows,Cumwhinton,Carlisle
+2021-05-07,246500,CA4 8DW,T,N,L,12,,Scotby Grange,Scotby,Carlisle
+2021-05-04,250000,CA4 8HE,S,N,F,Longlands Place,,,Wetheral,Carlisle
+2021-04-30,215000,CA4 9PF,T,N,F,The Barn,3,,Armathwaite,Carlisle
+2021-04-30,147500,CA4 8QW,S,N,F,41,,Eden Grange,Little Corby,Carlisle
+2021-04-30,226000,CA4 8AF,T,N,L,5,,Broomy Hill,Aglionby,Carlisle
+2021-04-30,258500,CA4 0HS,D,N,F,Mountfields,,,High Hesket,Carlisle
+2021-04-27,115125,CA4 8JR,F,N,L,23,,Goose Garth,Wetheral,Carlisle
+2021-04-26,307000,CA4 8JZ,D,N,F,17A,,Faustin Hill,Wetheral,Carlisle
+2021-04-23,105000,CA4 8RE,F,N,F,The Steading,2,,Warwick Bridge,Carlisle
+2021-04-23,105000,CA4 8LR,T,N,F,Mulcaster Cottage,,,Great Corby,Carlisle
+2021-04-23,175000,CA4 8JF,T,N,F,4,,Pleasant View,Wetheral,Carlisle
+2021-04-16,260000,CA4 0HS,D,N,F,Stonecroft House,,,High Hesket,Carlisle
+2021-04-15,217000,CA4 8ER,T,N,F,Thornedge,25,,Cumwhinton,Carlisle
+2021-04-15,205000,CA4 0HS,D,N,F,Windy Heights,,,High Hesket,Carlisle
+2021-04-12,550000,CA4 8DE,D,N,F,19,,Broomfallen Road,Scotby,Carlisle
+2021-04-09,378450,CA4 8FT,D,Y,F,13,,Lough Wood Crescent,Scotby,Carlisle
+2021-04-09,342500,CA4 8BT,S,N,F,18,,Ghyll Road,Scotby,Carlisle
+2021-04-06,159950,CA4 0HH,T,N,F,4,,Farriers Way,Low Hesket,Carlisle
+2021-04-01,299000,CA4 8PB,S,N,F,Ash Tree House,,,Warwick On Eden,Carlisle
+2021-04-01,265000,CA4 8JZ,S,N,F,13,,Faustin Hill,Wetheral,Carlisle
+2021-04-01,423500,CA4 8BT,D,N,F,"Meadowbank, 33",,Ghyll Road,Scotby,Carlisle
+2021-04-01,140000,CA4 0DN,T,N,F,Fern House,2,Back Street,Cotehill,Carlisle
+2021-03-31,107000,CA4 0JS,T,N,L,Rydal,,Barrock Park,Southwaite,Carlisle
+2021-03-30,465000,CA4 8DW,D,N,L,16,,Scotby Grange,Scotby,Carlisle
+2021-03-29,123000,CA4 0DL,S,N,F,Barley Cottage,,Front Street,Cotehill,Carlisle
+2021-03-24,250000,CA4 9PX,D,N,F,7,,Brackenrigg,Armathwaite,Carlisle
+2021-03-24,128000,CA4 0DF,S,N,F,21,,Townhead Road,Cotehill,Carlisle
+2021-03-22,375000,CA4 0EW,S,N,F,Swallow House,,,Southwaite,Carlisle
+2021-03-19,240000,CA4 8PJ,D,N,F,Oak Cottage,,,Corby Hill,Carlisle
+2021-03-19,295000,CA4 8JG,F,N,L,Skelton Court,Apartment 2,,Wetheral,Carlisle
+2021-03-19,455000,CA4 8HR,D,N,F,Fern Pasture,,,Wetheral Pasture,Carlisle
+2021-03-19,380000,CA4 8FT,D,Y,F,6,,Lough Wood Crescent,Scotby,Carlisle
+2021-03-19,265000,CA4 8AT,S,N,F,Hom Green,,Park Road,Scotby,Carlisle
+2021-03-19,141000,CA4 0QF,D,N,F,Owl Barn,,,Ivegill,Carlisle
+2021-03-18,90000,CA4 8QP,T,N,F,12,,Millriggs,Corby Hill,Carlisle
+2021-03-17,335000,CA4 9TH,S,N,F,Rose Dale,,,Aiketgate,Carlisle
+2021-03-17,325000,CA4 8FR,D,N,F,3,,Kates Beck Lane,Scotby,Carlisle
+2021-03-15,184000,CA4 8QG,D,N,F,Ashlea,,,Corby Hill,Carlisle
+2021-03-12,210500,CA4 8JJ,S,N,F,20,,Jennet Croft,Wetheral,Carlisle
+2021-03-12,270000,CA4 0EU,D,N,F,Underfell,,,Low Hesket,Carlisle
+2021-03-11,362500,CA4 8BS,S,N,F,"Rosebank, 15A",,Scotby Village,Scotby,Carlisle
+2021-03-09,410000,CA4 8LL,S,N,F,Grayling Hill,,,Great Corby,Carlisle
+2021-03-05,337000,CA4 9PW,D,N,F,Laurel House,,,Armathwaite,Carlisle
+2021-03-05,380950,CA4 8FT,D,Y,F,11,,Lough Wood Crescent,Scotby,Carlisle
+2021-03-05,730000,CA4 8ET,S,N,F,Edenmount,,The Green,Wetheral,Carlisle
+2021-03-05,730000,CA4 8ET,D,N,F,Edenmount,,The Green,Wetheral,Carlisle
+2021-03-05,377500,CA4 0RL,D,N,F,Badgers Rake,,,Wreay,Carlisle
+2021-03-04,395000,CA4 8DJ,D,N,F,Lime Tree House,,Station Road,Cumwhinton,Carlisle
+2021-03-02,205000,CA4 8RY,D,N,F,Four Oaks,,,Warwick Bridge,Carlisle
+2021-03-01,123000,CA4 8SA,F,N,L,7,,King George Court,Warwick Bridge,Carlisle
+2021-03-01,137706,CA4 8SA,F,N,L,11,,King George Court,Warwick Bridge,Carlisle
+2021-03-01,135000,CA4 8DX,S,N,F,3,,West View,Cumwhinton,Carlisle
+2021-03-01,170000,CA4 0DF,T,N,F,12,,Townhead Road,Cotehill,Carlisle
+2021-02-26,233000,CA4 8RZ,D,N,F,10,,Holme Eden Gardens,Warwick Bridge,Carlisle
+2021-02-24,450000,CA4 8FP,D,N,F,2,,St Benedicts Way,Wetheral,Carlisle
+2021-02-23,295000,CA4 8EA,S,N,F,High House,,Station Road,Cumwhinton,Carlisle
+2021-02-23,285000,CA4 8BZ,D,N,F,Park View,,Parkett Hill,Scotby,Carlisle
+2021-02-23,290000,CA4 0BT,D,Y,F,12,,Scalesceugh Villas,Carleton,Carlisle
+2021-02-19,250000,CA4 8FW,D,Y,F,9,,Reeds Way,Cumwhinton,Carlisle
+2021-02-19,295000,CA4 8FW,D,Y,F,12,,Reeds Way,Cumwhinton,Carlisle
+2021-02-19,220000,CA4 8DL,S,Y,F,Bowscale View,,,Cumwhinton,Carlisle
+2021-02-17,582500,CA4 8FS,D,Y,F,2,,Mulberry Mews,Wetheral,Carlisle
+2021-02-17,320000,CA4 0ES,D,N,F,Three Gables,,Southwaite Road,Low Hesket,Carlisle
+2021-02-16,640000,CA4 8BS,S,N,F,Acorn House,,Scotby Village,Scotby,Carlisle
+2021-02-12,182500,CA4 9PL,S,N,F,Rose Cottage,,Station Road,Armathwaite,Carlisle
+2021-02-12,161000,CA4 8QW,S,N,F,16,,Eden Grange,Little Corby,Carlisle
+2021-02-12,260000,CA4 8ER,D,N,F,Beech Croft,,,Cumwhinton,Carlisle
+2021-02-10,350000,CA4 8FU,D,N,F,1,,Ridge Close,Scotby,Carlisle
+2021-02-09,515000,CA4 8LA,D,N,F,Mill Eden,,Plains Road,Wetheral,Carlisle
+2021-02-08,230000,CA4 8FZ,D,N,F,1,,Hay Close,Wetheral,Carlisle
+2021-02-05,385950,CA4 8FT,D,Y,F,17,,Lough Wood Crescent,Scotby,Carlisle
+2021-02-05,60050,CA4 0DG,T,N,F,1,,William Street,Cotehill,Carlisle
+2021-02-05,280000,CA4 0AY,S,N,F,2,,Lonsdale Terrace,Cumwhinton,Carlisle
+2021-02-01,230000,CA4 8FX,S,Y,F,3,,Bluebell Meadows,Cumwhinton,Carlisle
+2021-01-29,295000,CA4 8LL,D,N,F,Woodbrae,,,Great Corby,Carlisle
+2021-01-29,386950,CA4 8FT,D,Y,F,21,,Lough Wood Crescent,Scotby,Carlisle
+2021-01-28,352950,CA4 8FT,D,Y,F,19,,Lough Wood Crescent,Scotby,Carlisle
+2021-01-22,409950,CA4 8FT,D,Y,F,23,,Lough Wood Crescent,Scotby,Carlisle
+2021-01-22,425950,CA4 8DE,D,Y,F,51,,Broomfallen Road,Scotby,Carlisle
+2021-01-21,295000,CA4 8PS,D,N,F,Holly House,,Langley Gardens,Corby Hill,Carlisle
+2021-01-15,280000,CA4 8JG,F,Y,L,Skelton Court,Apartment 14,,Wetheral,Carlisle
+2021-01-15,549950,CA4 8FS,D,Y,F,3,,Mulberry Mews,Wetheral,Carlisle
+2021-01-15,175000,CA4 8BL,D,N,F,2,,Holme Fauld,Scotby,Carlisle
+2021-01-15,625000,CA4 0AW,D,N,F,Whistletyne,,The Stripes,Cumwhinton,Carlisle
+2021-01-14,190000,CA4 8DA,T,N,F,3,,Broomfallen Road,Scotby,Carlisle
+2021-01-11,161750,CA4 9PX,T,N,F,23,,Brackenrigg,Armathwaite,Carlisle
+2021-01-08,325000,CA4 8FR,D,N,F,1,,Kates Beck Lane,Scotby,Carlisle
+2021-01-08,625000,CA4 8BX,D,N,F,Orchard Hill House,,Lambley Bank,Scotby,Carlisle
+2021-01-04,181000,CA4 8QY,D,N,F,19,,Hurley Road,Little Corby,Carlisle
+2021-01-04,250000,CA4 8PA,D,N,F,1,,Warwick Farm,Warwick On Eden,Carlisle

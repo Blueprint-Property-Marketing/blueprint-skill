@@ -1,0 +1,703 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-21,210000,TR12 7EQ,T,N,F,38,,Clifden Close,Mullion,Helston
+2026-08-11,255000,TR12 7PN,S,N,F,28,,Croft Parc,The Lizard,Helston
+2026-07-29,280000,TR12 7EP,S,N,F,6,,Coastguard Cottages,Mullion,Helston
+2026-07-29,500000,TR12 6BN,D,N,F,4,,Bouldens Orchard,Gweek,Helston
+2026-07-24,185000,TR12 6RA,S,N,F,30,,Treskewes Estate,St Keverne,Helston
+2026-07-23,582500,TR12 7AF,D,N,F,Tregoon,,,Gweek,Helston
+2026-07-23,179950,TR12 6JP,T,N,F,2,,Kensa Kew,Manaccan,Helston
+2026-07-21,282500,TR12 6PD,S,N,F,8,,Tregellast Parc,St Keverne,Helston
+2026-07-17,280000,TR12 7PN,S,N,F,17,,Croft Parc,The Lizard,Helston
+2026-07-17,317000,TR12 6UW,S,N,F,8,,Meneth,Gweek,Helston
+2026-07-17,360000,TR12 6JG,D,N,F,15,,Minster Fields,Manaccan,Helston
+2026-07-07,293000,TR12 6NL,T,N,F,3,,Back Lane,St Keverne,Helston
+2026-07-06,280000,TR12 7DX,S,N,F,6,,Tregellas Road,Mullion,Helston
+2026-07-03,425000,TR12 7PQ,D,N,F,Trewince,,,Church Cove,Helston
+2026-07-03,100000,TR12 6AP,F,N,L,Tremrose Court,1,High Street,St Keverne,Helston
+2026-06-17,245000,TR12 6BU,T,N,F,2,,Fords Hill,St Martin,Helston
+2026-06-05,220000,TR12 7BH,T,N,F,Merry Meetings,,White Cross,Cury,Helston
+2026-05-29,273000,TR12 7JJ,S,N,F,3,,Higher Moor,Ruan Minor,Helston
+2026-05-29,545000,TR12 6NT,T,N,F,Kevran,,,St Keverne,Helston
+2026-05-29,475000,TR12 6LY,D,N,F,The Manse,,Commercial Road,St Keverne,Helston
+2026-05-22,492000,TR12 7LY,D,N,F,Kingey Vean,,Kuggar,Ruan Minor,Helston
+2026-05-21,710000,TR12 6EW,D,N,F,Tregarne Farm,Hen House,,Tregarne,Helston
+2026-05-19,290000,TR12 6LX,D,N,F,6,,Lanheverne Parc,St Keverne,Helston
+2026-05-15,333000,TR12 6TU,T,N,F,1,,Post Office Row,Gweek,Helston
+2026-04-30,410000,TR12 6UP,D,N,F,18,,Cryben,Gweek,Helston
+2026-04-10,287000,TR12 7HS,S,N,F,Police House,1,Lender Lane,Mullion,Helston
+2026-04-07,500000,TR12 6AH,D,N,F,Chybilly Farmhouse,,,Mawgan,Helston
+2026-04-07,330000,TR12 6AF,S,N,F,2,,Home Farm Cottages,Mawgan,Helston
+2026-03-31,166500,TR12 7DX,T,N,F,32,,Tregellas Road,Mullion,Helston
+2026-03-26,725000,TR12 7FF,D,N,F,"Bartholomew, 2",,Parc Garland,Cross Common,Helston
+2026-03-26,375000,TR12 6UP,D,N,F,4,,Cryben,Gweek,Helston
+2026-03-23,600000,TR12 6LP,D,N,F,Pipers Green,,,Garras,Helston
+2026-03-05,240000,TR12 7NH,T,N,F,6,,Kynance Terrace,The Lizard,Helston
+2026-02-16,185000,TR12 6PL,F,N,L,Gallen Treath,Flat 1,Porthallow,St Keverne,Helston
+2026-02-16,240000,TR12 6BS,D,N,F,3,,Greenhill Terrace,St Martin,Helston
+2026-02-13,1050000,TR12 6JY,D,N,F,Willowmead,,,Helford,Helston
+2026-02-06,675000,TR12 7BG,D,N,F,Chy An Huder,,White Cross,Cury,Helston
+2026-02-04,185000,TR12 7EA,T,N,F,29,,Gibbons Fields,Mullion,Helston
+2026-01-26,463000,TR12 6RS,D,N,F,Third Acre,,Penwartha,Coverack,Helston
+2026-01-23,377500,TR12 6AX,D,N,F,Langrigg,,,Mawgan,Helston
+2026-01-20,270000,TR12 7JJ,S,N,F,28,,Higher Moor,Ruan Minor,Helston
+2026-01-15,560000,TR12 7DQ,D,N,F,Pendower,,Nansmellyon Road,Mullion,Helston
+2026-01-12,858000,TR12 7NR,S,N,F,Pednagothollan,,Penmenner Road,The Lizard,Helston
+2025-12-22,195000,TR12 6RA,T,N,F,68,,Treskewes Estate,St Keverne,Helston
+2025-12-19,235000,TR12 7DY,D,N,F,48,,Trembel Road,Mullion,Helston
+2025-12-17,750000,TR12 7LS,D,N,F,The Glanis,,,Ruan Minor,Helston
+2025-12-16,222000,TR12 6TU,T,N,F,Alpha Cottage,,,Gweek,Helston
+2025-12-16,922500,TR12 6TH,D,N,F,Mellan House,,North Corner,Coverack,Helston
+2025-12-12,874000,TR12 7EE,D,N,F,Tregwyth,,Nansmellyon Road,Mullion,Helston
+2025-12-12,1100000,TR12 6TJ,D,N,F,Parc Lea,,North Corner,Coverack,Helston
+2025-12-10,460000,TR12 7HR,D,N,F,69,,Laflouder Fields,Mullion,Helston
+2025-12-10,265000,TR12 7BU,T,N,F,8,,Gweal Wollas Fields,Cury,Helston
+2025-12-10,450000,TR12 6DP,D,N,F,Meadow View,,Newtown,St Martin,Helston
+2025-12-09,490000,TR12 6SZ,D,N,F,Skylight Barn,,Sunny Corner,Coverack,Helston
+2025-12-09,475000,TR12 6DN,S,N,F,2 Cedar Chapel,,,St Martin,Helston
+2025-12-03,150000,TR12 7LY,S,N,F,4 Council Houses,,Kuggar,Ruan Minor,Helston
+2025-12-03,236000,TR12 7AW,S,N,F,8,,Riviera Close,Mullion,Helston
+2025-12-02,557500,TR12 7JA,D,N,F,Meadowbank,,Angrouse Lane,Mullion,Helston
+2025-11-28,276500,TR12 6AU,T,N,F,8,,Langweath Estate,Mawgan,Helston
+2025-11-26,795000,TR12 7JS,D,N,F,St. Ruan,1 Pras Coombe,,Ruan Minor,Helston
+2025-11-26,155000,TR12 7DH,S,N,F,5,,Trenance Court Bungalows,Mullion,Helston
+2025-11-25,315000,TR12 6SX,S,N,F,Ye Old Carpenters Shop,,The Cove,Coverack,Helston
+2025-11-25,703500,TR12 6LA,D,N,F,Sanderling House,,Orchard Lane,Helford,Helston
+2025-11-24,875000,TR12 7LN,D,N,F,Mount Herman,,,Ruan Minor,Helston
+2025-11-21,225000,TR12 6AN,S,N,F,Tredeljosh,,Higher Lane,Mawgan,Helston
+2025-11-20,500000,TR12 7PZ,S,N,F,School Cottage,,,Gunwalloe,Helston
+2025-11-17,335000,TR12 6UP,D,N,F,14,,Cryben,Gweek,Helston
+2025-11-14,230000,TR12 7PN,D,N,F,1,,Croft Parc,The Lizard,Helston
+2025-11-14,215000,TR12 6PP,D,N,F,Clifton Cottage,,Porthallow,St Keverne,Helston
+2025-11-13,260000,TR12 7JL,S,N,F,Fuchsia Cottage,,,Ruan Minor,Helston
+2025-11-13,265000,TR12 7AX,S,N,F,15,,Henrys Croft,The Lizard,Helston
+2025-11-11,650000,TR12 6HD,D,N,F,Mennavean,,Carne,Manaccan,Helston
+2025-11-10,365000,TR12 7LF,D,N,F,26,,Mundys Field,Ruan Minor,Helston
+2025-11-10,585000,TR12 7JT,D,N,F,Penreenes,,,Ruan Minor,Helston
+2025-11-07,205000,TR12 7JT,S,N,F,2,,Chapel Terrace,Ruan Minor,Helston
+2025-11-05,1650000,TR12 6JX,D,N,F,Maybury House,,,Helford,Helston
+2025-10-31,485000,TR12 7RW,D,N,F,19,,Gwel An Garrek,Mullion,Helston
+2025-10-31,720000,TR12 7PG,D,N,F,Morwen,,,The Lizard,Helston
+2025-10-31,525000,TR12 7HN,D,N,F,Mullyon House,,Churchtown,Mullion,Helston
+2025-10-30,145000,TR12 7AE,D,N,F,Valley View,,Chapel Hill,Gweek,Helston
+2025-10-28,475000,TR12 6NJ,D,N,F,Penwyth,,Trelyn Lane,St Keverne,Helston
+2025-10-22,222500,TR12 7DX,S,N,F,56,,Tregellas Road,Mullion,Helston
+2025-10-21,565000,TR12 7DA,D,N,F,Willows View,,,Mullion,Helston
+2025-10-20,470000,TR12 7BS,D,N,F,Corantyn Cottage,,,Cury,Helston
+2025-10-17,435000,TR12 6PW,D,N,F,Gwel Teg,,Porthallow,St Keverne,Helston
+2025-10-17,360000,TR12 6HR,D,N,F,Chy-Vean,,,Manaccan,Helston
+2025-10-16,450000,TR12 7NQ,D,N,F,Telvyn House,,,The Lizard,Helston
+2025-10-09,475000,TR12 7PE,D,N,F,Rosemullion,,,Cross Common,Helston
+2025-10-09,290000,TR12 6UX,D,N,F,6,,Doctors Hill,St Keverne,Helston
+2025-10-09,399000,TR12 6EA,S,N,F,Chybron,,Traboe,St Martin,Helston
+2025-10-06,295000,TR12 7LF,D,N,F,14,,Mundys Field,Ruan Minor,Helston
+2025-10-06,640000,TR12 6JH,D,N,F,Landre,,,Manaccan,Helston
+2025-10-03,450000,TR12 7HR,D,N,F,68,,Laflouder Fields,Mullion,Helston
+2025-10-03,240000,TR12 7DY,S,N,F,12,,Trembel Road,Mullion,Helston
+2025-10-03,232500,TR12 7DX,T,N,F,42,,Tregellas Road,Mullion,Helston
+2025-10-03,440000,TR12 6QP,D,N,F,Kelswell,,Treloyan,St Keverne,Helston
+2025-10-02,300000,TR12 6UN,D,N,F,2,,Forthcrom,Gweek,Helston
+2025-09-30,102825,TR12 7JJ,S,N,L,14,,Higher Moor,Ruan Minor,Helston
+2025-09-29,420000,TR12 7JG,D,N,F,7,,Park Enskellaw,Mullion,Helston
+2025-09-25,125000,TR12 6SA,F,N,L,Poop Deck,Flat 3,School Hill,Coverack,Helston
+2025-09-23,420000,TR12 6UW,D,N,F,"Merriporth, 23A",,Meneth,Gweek,Helston
+2025-09-12,425000,TR12 6AX,D,N,F,Chy An Gwyns,,,Mawgan,Helston
+2025-09-05,521000,TR12 7DS,D,N,F,Clahar Cottage,,Trewoon Road,Mullion,Helston
+2025-09-05,420000,TR12 6LN,D,N,F,Three Firs,,,Garras,Helston
+2025-09-04,207500,TR12 7DY,S,N,F,39,,Trembel Road,Mullion,Helston
+2025-09-03,300000,TR12 7DH,D,N,F,Heathermoor,,Nansmellyon Road,Mullion,Helston
+2025-09-02,435000,TR12 7EJ,D,N,F,91,,Laflouder Fields,Mullion,Helston
+2025-08-29,787500,TR12 7JS,D,N,F,St. Ruan,4 Pras Coombe,,Ruan Minor,Helston
+2025-08-27,321500,TR12 7DP,D,N,F,Larkspur,,Meaver Road,Mullion,Helston
+2025-08-27,280000,TR12 7BU,S,N,F,3,,Gweal Wollas Fields,Cury,Helston
+2025-08-26,285000,TR12 7AG,S,N,F,17,,Lower Parc Estate,Gweek,Helston
+2025-08-22,375000,TR12 7RS,D,N,F,16,,Lusart Drive,The Lizard,Helston
+2025-08-22,315000,TR12 7HZ,D,N,F,Honeysuckle-Chy,,The Commons,Mullion,Helston
+2025-08-20,340000,TR12 6TA,T,N,F,Winifred Cottage,,Chymbloth Way,Coverack,Helston
+2025-08-14,312000,TR12 7EA,S,N,F,9,,Gibbons Fields,Mullion,Helston
+2025-08-07,330000,TR12 6PS,D,N,F,Cider House,,,St Keverne,Helston
+2025-08-06,574367,TR12 6QD,D,N,F,Tarragon,,Laddenvean,St Keverne,Helston
+2025-07-31,330000,TR12 7JZ,D,N,F,Ashanti,,Cadgwith,Ruan Minor,Helston
+2025-07-31,175337,TR12 7JR,D,N,F,Sunlea,,,Ruan Minor,Helston
+2025-07-31,295000,TR12 7HX,D,N,F,Namkha,,Meres Valley,Mullion,Helston
+2025-07-31,1075000,TR12 6TJ,D,N,F,Kensa Chy,,North Corner,Coverack,Helston
+2025-07-24,230000,TR12 7DX,S,N,F,48,,Tregellas Road,Mullion,Helston
+2025-07-24,120000,TR12 6JJ,F,N,L,10,,Minster Terrace,Manaccan,Helston
+2025-07-10,315000,TR12 7JB,D,N,F,The White House,,Poldhu Cove,Mullion,Helston
+2025-07-02,525000,TR12 7ED,D,N,F,Parc Venton Sah,,Garro Lane,Mullion,Helston
+2025-06-27,167505,TR12 7DZ,S,N,F,6,,Colroger Close,Mullion,Helston
+2025-06-26,295000,TR12 7DQ,T,N,F,Hazel Cottage,,Nansmellyon Road,Mullion,Helston
+2025-06-23,190000,TR12 7EQ,T,N,F,1,,Clifden Close,Mullion,Helston
+2025-06-20,275000,TR12 6QF,S,N,F,7,,Tregonning Parc,St Keverne,Helston
+2025-06-20,650000,TR12 6BS,D,N,F,Boskenna Cottage,,,St Martin,Helston
+2025-06-18,555000,TR12 6HR,D,N,F,Bosvorgus,,,Manaccan,Helston
+2025-06-18,530000,TR12 6EP,D,N,F,Halvilla,,,Manaccan,Helston
+2025-06-12,225000,TR12 7DS,S,N,F,Elm Cottage,,Trewoon Road,Mullion,Helston
+2025-06-12,470000,TR12 6PP,D,N,F,Tredenny,,Porthallow,St Keverne,Helston
+2025-06-06,600000,TR12 7RB,D,N,F,Cobblers Cottage,,Nantithet,Cury,Helston
+2025-06-05,337500,TR12 7DQ,S,N,F,Willow Cottage,,Nansmellyon Road,Mullion,Helston
+2025-05-30,770000,TR12 7JS,D,N,F,St. Ruan,2 Pras Coombe,,Ruan Minor,Helston
+2025-05-30,725000,TR12 7HT,T,N,F,Spring Tide,,Laflouder Lane,Mullion,Helston
+2025-05-30,290000,TR12 6UX,S,N,F,12,,Doctors Hill,St Keverne,Helston
+2025-05-30,345000,TR12 6TA,D,N,F,Hjem,,Chymbloth Way,Coverack,Helston
+2025-05-30,445000,TR12 6RS,D,N,F,Ravenswood,,Penwartha,Coverack,Helston
+2025-05-30,390000,TR12 6PD,D,N,F,7,,Tregellast Parc,St Keverne,Helston
+2025-05-29,775000,TR12 7JS,D,N,F,St. Ruan,3 Pras Coombe,,Ruan Minor,Helston
+2025-05-21,587500,TR12 7LB,D,N,F,Moorlands,,Cadgwith,Ruan Minor,Helston
+2025-05-20,355000,TR12 6PP,D,N,F,Rutherglen,,Porthallow,St Keverne,Helston
+2025-05-12,800000,TR12 6JX,S,N,F,Well House,,,Helford,Helston
+2025-04-30,335000,TR12 7LF,D,N,F,1,,Mundys Field,Ruan Minor,Helston
+2025-04-16,775000,TR12 6TS,D,N,F,4,,Park Halligey,Coverack,Helston
+2025-04-10,510000,TR12 7HQ,T,N,F,The Lizardery,,Churchtown,Mullion,Helston
+2025-03-31,375000,TR12 7DH,S,N,F,Lantyne,,Nansmellyon Road,Mullion,Helston
+2025-03-31,450000,TR12 6UW,D,N,F,"Merriporth, 23A",,Meneth,Gweek,Helston
+2025-03-31,135000,TR12 6NP,S,N,F,1,,Penmenner Estate,St Keverne,Helston
+2025-03-28,245000,TR12 6PN,S,N,F,Merrow Down,,Porthallow,St Keverne,Helston
+2025-03-28,760000,TR12 6HJ,D,N,F,Eastcote Lodge,,,Gillan,Helston
+2025-03-28,160000,TR12 6BU,T,N,F,3,,Fords Hill,St Martin,Helston
+2025-03-27,295000,TR12 7DX,D,N,F,2,,Tregellas Road,Mullion,Helston
+2025-03-27,390000,TR12 6UW,D,N,F,7,,Meneth,Gweek,Helston
+2025-03-25,250000,TR12 7PN,S,N,F,14,,Croft Parc,The Lizard,Helston
+2025-03-17,415000,TR12 6QW,D,N,F,Volnay,,Porthoustock,St Keverne,Helston
+2025-03-14,1200000,TR12 6TJ,D,N,F,Porth Gwel,4,North Corner,Coverack,Helston
+2025-03-12,495000,TR12 7JG,D,N,F,11,,Park Enskellaw,Mullion,Helston
+2025-03-12,445000,TR12 7EJ,D,N,F,Lanarth,,Laflouder Fields,Mullion,Helston
+2025-03-07,275000,TR12 7LS,S,N,F,Treal House,,,Ruan Minor,Helston
+2025-03-07,320000,TR12 7DQ,T,N,F,The Old Church House,Guillemot,Nansmellyon Road,Mullion,Helston
+2025-03-07,589240,TR12 6AX,D,N,F,Meadowgate,,,Mawgan,Helston
+2025-03-04,297700,TR12 6AU,S,N,F,4,,Langweath Estate,Mawgan,Helston
+2025-02-27,275000,TR12 7DY,T,N,F,45,,Trembel Road,Mullion,Helston
+2025-02-27,150000,TR12 6TE,T,N,F,Harbour View,,Mill Road,Coverack,Helston
+2025-02-26,465000,TR12 6UJ,D,N,F,Chy-Ryn,,Bonallack Lane,Gweek,Helston
+2025-02-21,400000,TR12 7RT,D,N,F,9,,Green Field Close,The Lizard,Helston
+2025-02-21,695000,TR12 7FF,D,N,F,"Unity, 6",,Parc Garland,Cross Common,Helston
+2025-02-21,170000,TR12 6RA,T,N,F,19,,Treskewes Estate,St Keverne,Helston
+2025-02-20,345000,TR12 6EE,D,N,F,Highfield,,Tretharrup,St Martin,Helston
+2025-02-14,260500,TR12 7QA,S,N,F,4,,Parc Askell Close,Gunwalloe,Helston
+2025-02-13,265000,TR12 7HE,T,N,F,78,,Redannack North,Mullion,Helston
+2025-02-12,325000,TR12 7RR,D,N,F,8,,Mitchell Close,The Lizard,Helston
+2025-02-07,425000,TR12 7LS,D,N,F,Treal Lodge,,,Ruan Minor,Helston
+2025-02-05,460000,TR12 7HA,D,N,F,Bos-Vean,,,Mullion,Helston
+2025-02-05,360000,TR12 7AS,T,N,F,8,,Mile End,The Lizard,Helston
+2025-02-03,237500,TR12 6AA,S,N,F,7,,Glebe Close,Mawgan,Helston
+2025-01-27,402500,TR12 6PL,D,N,F,Willow Cottage,,Porthallow,St Keverne,Helston
+2025-01-21,550000,TR12 7JR,D,N,F,Rose Cottage,,,Ruan Minor,Helston
+2025-01-17,355000,TR12 7EJ,D,N,F,81,,Laflouder Fields,Mullion,Helston
+2025-01-08,800000,TR12 7PG,D,N,F,The Crag,,,The Lizard,Helston
+2025-01-08,300000,TR12 6NF,T,N,F,Trecol,,Lemon Street,St Keverne,Helston
+2025-01-07,275000,TR12 7LX,F,N,L,The Beach,8,,Kuggar,Helston
+2024-12-20,570000,TR12 7RF,D,N,F,Lavender Mist,,,Gunwalloe,Helston
+2024-12-20,215000,TR12 7JW,T,N,F,34,,Glebe Place,Ruan Minor,Helston
+2024-12-20,355000,TR12 7AS,T,N,F,Mill Look,,Mile End,The Lizard,Helston
+2024-12-20,212500,TR12 6JJ,T,N,F,1,,Minster Terrace,Manaccan,Helston
+2024-12-19,525000,TR12 6TH,D,N,F,Deusfield,,North Corner,Coverack,Helston
+2024-12-19,550000,TR12 6SD,D,N,F,Trevothen Common,,Trevothen,Coverack,Helston
+2024-12-18,290000,TR12 7JL,D,N,F,St. Marys,,,Ruan Minor,Helston
+2024-12-18,370000,TR12 7JL,D,N,F,Gwelmor,,,Ruan Minor,Helston
+2024-12-18,75000,TR12 7FA,S,N,L,12,,The Triangle,The Lizard,Helston
+2024-11-29,550000,TR12 6SY,D,N,F,Rose Cottage,,Sunny Corner,Coverack,Helston
+2024-11-27,550000,TR12 6NY,D,N,F,Higher Treglohan,,,St Keverne,Helston
+2024-11-22,475000,TR12 7HX,D,N,F,Trenwith 23,,Meres Valley,Mullion,Helston
+2024-11-22,338500,TR12 6UN,D,N,F,14,,Forthcrom,Gweek,Helston
+2024-11-18,495000,TR12 6SZ,D,N,F,Skylight Barn,,Sunny Corner,Coverack,Helston
+2024-11-15,440000,TR12 7PB,D,N,F,Carn Hyr,,Beacon Terrace,The Lizard,Helston
+2024-11-15,245000,TR12 6LN,D,N,F,Bowermead,,,Garras,Helston
+2024-11-14,589000,TR12 7QB,D,N,F,Cliff House,,,Gunwalloe,Helston
+2024-11-08,297500,TR12 7RN,T,N,F,4,,Woodlands,Mullion,Helston
+2024-11-08,200000,TR12 7JL,S,N,F,Monte Carlo,,,Ruan Minor,Helston
+2024-11-06,550000,TR12 7EJ,D,N,F,95,,Laflouder Fields,Mullion,Helston
+2024-11-01,299000,TR12 7RR,S,N,F,2,,Mitchell Close,The Lizard,Helston
+2024-10-29,221000,TR12 7RJ,F,N,L,Polpeor,,Treveglos Court,Mullion,Helston
+2024-10-24,490000,TR12 7EJ,D,N,F,40,,Laflouder Fields,Mullion,Helston
+2024-10-24,260000,TR12 6QD,T,N,F,Tremaen Cottage,,Laddenvean,St Keverne,Helston
+2024-10-23,200000,TR12 7DG,D,N,F,The Nook,,Eglos Parc,Mullion,Helston
+2024-10-23,550000,TR12 7BZ,D,N,F,Little Alma,,Churchtown,Mullion,Helston
+2024-10-23,455000,TR12 6TX,D,N,F,Raun Gwel,,,Gweek,Helston
+2024-10-22,1000000,TR12 6EW,D,N,F,Old Byre House,,,Tregarne,Helston
+2024-10-18,540000,TR12 7RW,D,N,F,8,,Gwel An Garrek,Mullion,Helston
+2024-10-17,386000,TR12 7EJ,D,N,F,38,,Laflouder Fields,Mullion,Helston
+2024-10-17,264500,TR12 6BU,D,N,F,Treganna,,,St Martin,Helston
+2024-10-11,350000,TR12 7EJ,D,N,F,75,,Laflouder Fields,Mullion,Helston
+2024-10-11,620000,TR12 6TA,D,N,F,Pretoria,,Chymbloth Way,Coverack,Helston
+2024-10-11,650000,TR12 6NY,D,N,F,Trythance Farm Cottage,,,St Keverne,Helston
+2024-10-11,140000,TR12 6AD,D,N,F,Catkins,,,Mawgan,Helston
+2024-10-08,380000,TR12 7JD,D,N,F,Termeil,,Polhorman Lane,Mullion,Helston
+2024-10-08,115000,TR12 7FA,S,N,L,14,,The Triangle,The Lizard,Helston
+2024-10-03,950000,TR12 6TA,D,N,F,Tydl,,Chymbloth Way,Coverack,Helston
+2024-10-01,445000,TR12 7LD,D,N,F,4,,Ledra Close,Ruan Minor,Helston
+2024-10-01,485000,TR12 6UJ,D,N,F,Tinkers Post,,Bonallack Lane,Gweek,Helston
+2024-09-30,390000,TR12 7HN,D,N,F,Hill House,,Churchtown,Mullion,Helston
+2024-09-27,235000,TR12 7BL,T,N,F,13,,Parc Enys,Cury Cross Lanes,Helston
+2024-09-25,460000,TR12 7HW,D,N,F,The Old Chapel,,Lender Lane,Mullion,Helston
+2024-09-23,750000,TR12 6TQ,D,N,F,Menavean,,North Corner,Coverack,Helston
+2024-09-20,145000,TR12 6PL,F,N,L,Porthallow,"Beach View, Gallen Treath Apartments",,St Keverne,Helston
+2024-09-20,188500,TR12 6BS,S,N,F,2,,Greenhill Terrace,St Martin,Helston
+2024-09-13,220000,TR12 6BU,T,N,F,1,,Fords Hill,St Martin,Helston
+2024-09-13,260000,TR12 6AA,T,N,F,10,,Glebe Close,Mawgan,Helston
+2024-09-06,370000,TR12 6UN,D,N,F,13,,Forthcrom,Gweek,Helston
+2024-09-06,380000,TR12 6PW,D,N,F,Pednatiere,,Porthallow,St Keverne,Helston
+2024-09-06,195000,TR12 6NQ,T,N,F,Marlea Cottage,,School Hill,St Keverne,Helston
+2024-09-03,460000,TR12 6HN,D,N,F,Southley Vean,,,Manaccan,Helston
+2024-08-30,640000,TR12 7DS,D,N,F,Trevethow,,Trewoon Road,Mullion,Helston
+2024-08-30,275000,TR12 6LY,S,N,F,The Studio,,Commercial Road,St Keverne,Helston
+2024-08-23,333000,TR12 7JJ,S,N,F,35,,Higher Moor,Ruan Minor,Helston
+2024-08-13,450000,TR12 7JR,D,N,F,Wheldon,,,Ruan Minor,Helston
+2024-08-09,280000,TR12 6UW,D,N,F,11,,Meneth,Gweek,Helston
+2024-08-05,377000,TR12 7RS,D,N,F,7,,Lusart Drive,The Lizard,Helston
+2024-07-31,440000,TR12 7EF,D,N,F,"Nanshallow, 1",,Glenmoor Lane,Mullion,Helston
+2024-07-15,1350000,TR12 6TJ,D,N,F,Porth Gwel,2,North Corner,Coverack,Helston
+2024-07-05,370000,TR12 6UP,D,N,F,"Swallows, 16",,Cryben,Gweek,Helston
+2024-07-03,80000,TR12 7JH,S,N,L,3,,Park En Venton,Mullion,Helston
+2024-06-25,895000,TR12 7EN,D,N,F,Greenacre,,Polurrian Road,Mullion,Helston
+2024-06-24,170000,TR12 7HP,S,N,F,20,,Redannack Estate,Mullion,Helston
+2024-06-20,862500,TR12 6HL,D,N,F,Porthvean,,Gillan,Manaccan,Helston
+2024-06-19,1400000,TR12 6HF,D,N,F,Chy-Mor,,Gillan Cove,Manaccan,Helston
+2024-06-14,135000,TR12 6JP,T,N,L,5,,Kensa Kew,Manaccan,Helston
+2024-06-13,425000,TR12 6UA,D,N,F,Springfield,,,Gweek,Helston
+2024-06-03,605000,TR12 7LY,D,N,F,Cargey Cottage,,Kuggar,Ruan Minor,Helston
+2024-06-03,330000,TR12 7LF,D,N,F,17,,Mundys Field,Ruan Minor,Helston
+2024-06-03,900000,TR12 6JY,D,N,F,Pointside,,,Helford,Helston
+2024-05-29,613000,TR12 6RH,D,N,F,Little Trevean,,,St Keverne,Helston
+2024-05-29,400000,TR12 6PN,S,N,F,Cove Cottage,,Porthallow,St Keverne,Helston
+2024-05-24,543750,TR12 6SX,T,N,F,Dolor Cottage,,The Cove,Coverack,Helston
+2024-05-17,235000,TR12 7BL,T,N,F,17,,Parc Enys,Cury Cross Lanes,Helston
+2024-05-15,237500,TR12 6AU,S,N,F,20,,Langweath Estate,Mawgan,Helston
+2024-05-02,275000,TR12 7NJ,F,N,L,9,,Trenoweth Court,The Lizard,Helston
+2024-04-26,530000,TR12 7JG,D,N,F,12,,Park Enskellaw,Mullion,Helston
+2024-04-26,735000,TR12 6EA,D,N,F,Rosuick Chapel House,,Traboe,St Martin,Helston
+2024-04-17,375000,TR12 7LU,D,N,F,Valley View,,,Ruan Minor,Helston
+2024-04-11,567500,TR12 6UW,D,N,F,"Trebah, 18",,Meneth,Gweek,Helston
+2024-04-10,465000,TR12 7PH,D,N,F,Trewidden,,,Church Cove,Helston
+2024-04-10,590000,TR12 6PT,D,N,F,The Old Farmhouse,,,Tregowris,Helston
+2024-04-04,240000,TR12 7PQ,T,N,F,Kilcobben,,,Church Cove,Helston
+2024-04-02,150000,TR12 6RE,D,N,F,Butlers Cottage,,,St Keverne,Helston
+2024-03-27,885000,TR12 7HT,D,N,F,Trevaylor,,Laflouder Lane,Mullion,Helston
+2024-03-22,325000,TR12 7DQ,T,N,F,The Old Church House,Melyan,Nansmellyon Road,Mullion,Helston
+2024-03-20,555000,TR12 7HN,D,N,F,The Poppies,,Churchtown,Mullion,Helston
+2024-03-20,438000,TR12 7BY,T,N,F,The Old Bank House,,Churchtown,Mullion,Helston
+2024-03-18,515000,TR12 7JA,T,N,F,Angrouse Court,4,Angrouse Lane,Mullion,Helston
+2024-03-15,230000,TR12 7HX,D,N,F,Marietta,,Meres Valley,Mullion,Helston
+2024-03-13,280000,TR12 7PN,D,N,F,3,,Croft Parc,The Lizard,Helston
+2024-03-08,604200,TR12 6PN,D,N,F,School Hill House,,Porthallow,St Keverne,Helston
+2024-03-05,335000,TR12 7DQ,F,N,F,The Old Church House,Meaver,Nansmellyon Road,Mullion,Helston
+2024-02-29,285000,TR12 7DQ,T,N,F,The Old Church House,Cormorant,Nansmellyon Road,Mullion,Helston
+2024-02-28,460000,TR12 7JY,S,N,F,Welfield,,Cadgwith,Ruan Minor,Helston
+2024-02-28,255000,TR12 6UD,F,N,L,The Old Corn Mill,5,,Gweek,Helston
+2024-02-26,400000,TR12 7JD,D,N,F,Pixie Cottage,,Polhorman Lane,Mullion,Helston
+2024-02-09,325000,TR12 7DQ,T,N,F,The Old Church House,Guillemot,Nansmellyon Road,Mullion,Helston
+2024-02-09,375000,TR12 7BX,T,N,F,4,,Shortwoods,Mullion,Helston
+2024-02-09,430000,TR12 7AW,D,N,F,33,,Riviera Close,Mullion,Helston
+2024-01-30,290000,TR12 7RR,D,N,F,1,,Mitchell Close,The Lizard,Helston
+2024-01-26,515000,TR12 6HA,D,N,F,Woodbine Cottage,,,Manaccan,Helston
+2024-01-25,225000,TR12 7JY,D,N,F,Little Sandcastle,,Cadgwith,Ruan Minor,Helston
+2024-01-24,160000,TR12 7JW,T,N,F,8,,Glebe Place,Ruan Minor,Helston
+2024-01-23,570000,TR12 6AD,D,N,F,Le-An-Marghas,,,Mawgan,Helston
+2024-01-19,430000,TR12 6UW,D,N,F,"Chy-An-Bell, 13",,Meneth,Gweek,Helston
+2024-01-18,450000,TR12 6SD,D,N,F,Sarnia,,Trevothen,Coverack,Helston
+2024-01-12,1130000,TR12 6TA,D,N,F,Lowlands,,Chymbloth Way,Coverack,Helston
+2024-01-11,650000,TR12 6SD,D,N,F,Garden Cottage,,Trevothen,Coverack,Helston
+2024-01-11,325000,TR12 6BU,S,N,F,The Anchorage,,,St Martin,Helston
+2024-01-09,160000,TR12 7QJ,D,N,F,Killianchor,,,Gunwalloe,Helston
+2024-01-09,280000,TR12 6SB,T,N,L,26,,Headland Cottages,Coverack,Helston
+2024-01-05,749000,TR12 7EF,D,N,F,Trenance Vean,,Glenmoor Lane,Mullion,Helston
+2023-12-20,240000,TR12 7DY,D,N,F,16,,Trembel Road,Mullion,Helston
+2023-12-13,225000,TR12 7DH,D,N,F,7,,Trenance Court Bungalows,Mullion,Helston
+2023-12-08,575000,TR12 6UW,D,N,F,16,,Meneth,Gweek,Helston
+2023-12-07,720000,TR12 6TJ,D,N,F,Myrtle Lodge,,North Corner,Coverack,Helston
+2023-12-04,725000,TR12 7HT,D,N,F,Meres,,Laflouder Lane,Mullion,Helston
+2023-12-04,210000,TR12 7DH,S,N,F,6,,Trenance Court Bungalows,Mullion,Helston
+2023-12-01,255000,TR12 7EQ,S,N,F,35,,Clifden Close,Mullion,Helston
+2023-11-22,271000,TR12 7JJ,S,N,F,28,,Higher Moor,Ruan Minor,Helston
+2023-11-21,200000,TR12 7NA,D,N,F,The Pines,,,Ruan Minor,Helston
+2023-11-17,255000,TR12 6NR,T,N,F,Corner Cottage,,Monastery Close,St Keverne,Helston
+2023-11-10,350000,TR12 6PD,D,N,F,7,,Tregellast Parc,St Keverne,Helston
+2023-11-03,230000,TR12 7HH,T,N,F,6,,Elm Terrace,Mullion,Helston
+2023-10-31,120000,TR12 7NL,T,N,F,Penn An Vownder,,The Lizard,,Helston
+2023-10-27,158000,TR12 7JW,T,N,F,7,,Glebe Place,Ruan Minor,Helston
+2023-10-25,265500,TR12 7EQ,S,N,F,21,,Clifden Close,Mullion,Helston
+2023-10-20,275000,TR12 6NG,S,N,F,The House,,Lemon Street,St Keverne,Helston
+2023-10-12,345000,TR12 7NQ,T,N,F,Telvyn Cottages,3,,The Lizard,Helston
+2023-10-12,325000,TR12 6AY,D,N,F,Little Tregear,,St Keverne Road,Mawgan,Helston
+2023-10-09,650000,TR12 7JR,D,N,F,Rose Merryn,,,Ruan Minor,Helston
+2023-10-04,430000,TR12 7DB,D,N,F,The Laurels,,Vicarage Lane,Mullion,Helston
+2023-09-30,280000,TR12 6SB,F,N,L,7,,Headland Apartments,Coverack,Helston
+2023-09-29,425000,TR12 7LF,D,N,F,20,,Mundys Field,Ruan Minor,Helston
+2023-09-29,475000,TR12 7JN,S,N,F,Glynhurst,,,Ruan Minor,Helston
+2023-09-29,1000000,TR12 6TJ,D,N,F,Eyla Chy,,North Corner,Coverack,Helston
+2023-09-28,285000,TR12 7EH,S,N,F,9,,St Mellans Terrace,Mullion,Helston
+2023-09-25,360000,TR12 6AB,S,N,F,Brendon,,,Mawgan,Helston
+2023-09-22,880000,TR12 6RP,D,N,F,Trelan Gate Farm,,Trelan,St Keverne,Helston
+2023-09-22,325000,TR12 6HR,D,N,F,Dagworth,,,Manaccan,Helston
+2023-09-22,382500,TR12 6AT,D,N,F,The Long Barn,,,Mawgan,Helston
+2023-09-11,265000,TR12 7PN,S,N,F,13,,Croft Parc,The Lizard,Helston
+2023-09-06,492500,TR12 7DH,D,N,F,The Cabin,,Nansmellyon Road,Mullion,Helston
+2023-09-01,535000,TR12 7EJ,D,N,F,41,,Laflouder Fields,Mullion,Helston
+2023-08-29,247500,TR12 7DY,T,N,F,32,,Trembel Road,Mullion,Helston
+2023-08-29,230000,TR12 6QS,S,N,F,2,,Coronation Cottages,St Keverne,Helston
+2023-08-21,280000,TR12 6QF,D,N,F,20,,Tregonning Parc,St Keverne,Helston
+2023-08-21,440000,TR12 6HE,D,N,F,Downside,,Gillan,Manaccan,Helston
+2023-08-15,225000,TR12 7JN,D,N,F,The Old Forge,,,Ruan Minor,Helston
+2023-08-04,485000,TR12 6PN,S,N,F,Wreckers Corner,,Porthallow,St Keverne,Helston
+2023-08-01,640000,TR12 6PS,S,N,F,Treglossick Farm,,,St Keverne,Helston
+2023-07-31,235000,TR12 7HQ,T,N,F,Savoy House,,Churchtown,Mullion,Helston
+2023-07-27,230000,TR12 6AU,S,N,F,13,,Langweath Estate,Mawgan,Helston
+2023-07-24,700000,TR12 6RP,D,N,F,Hope Sanctuary,,Trelan,St Keverne,Helston
+2023-07-14,385000,TR12 7LX,F,N,L,The Beach,7,,Kuggar,Helston
+2023-07-14,580000,TR12 6RP,D,N,F,Trelan Gate House,,Trelan,St Keverne,Helston
+2023-07-14,263000,TR12 6QF,D,N,F,16,,Tregonning Parc,St Keverne,Helston
+2023-07-14,210000,TR12 6JJ,S,N,F,2,,Minster Terrace,Manaccan,Helston
+2023-07-13,331000,TR12 7BW,D,N,F,Tregweath,,Churchtown,Cury,Helston
+2023-06-19,625000,TR12 7PB,D,N,F,6,,Beacon Terrace,The Lizard,Helston
+2023-06-16,860000,TR12 7RA,D,N,F,Merries Barns,The Stable,,Cury,Helston
+2023-06-16,260000,TR12 6LN,D,N,F,Kiddleywink Cottage,,,Garras,Helston
+2023-06-13,1195000,TR12 6EG,D,N,F,Trethewey,Trethewey Farmhouse,,St Martin,Helston
+2023-06-09,325000,TR12 6LY,D,N,F,Charmilie,,Commercial Road,St Keverne,Helston
+2023-06-09,1400000,TR12 6HL,D,N,F,Spinneywood,,Gillan,Manaccan,Helston
+2023-05-10,165000,TR12 6RA,T,N,F,67,,Treskewes Estate,St Keverne,Helston
+2023-05-09,750000,TR12 6PT,D,N,F,Polherno,,,Tregowris,Helston
+2023-05-04,270000,TR12 6NL,T,N,F,4,,Back Lane,St Keverne,Helston
+2023-04-28,185000,TR12 6RA,S,N,F,50,,Treskewes Estate,St Keverne,Helston
+2023-04-21,540000,TR12 6LQ,D,N,F,Trezemper,,,Goonhilly Downs,Helston
+2023-04-06,183000,TR12 7PA,S,N,F,18,,Parc An Ithan,The Lizard,Helston
+2023-03-31,465000,TR12 7PE,S,N,F,Octagon Villa,,Cross Common,The Lizard,Helston
+2023-03-31,705000,TR12 7HT,T,N,F,Spring Tide,,Laflouder Lane,Mullion,Helston
+2023-03-31,387500,TR12 7HR,D,N,F,63,,Laflouder Fields,Mullion,Helston
+2023-03-31,150000,TR12 6JP,T,N,F,1,,Kensa Kew,Manaccan,Helston
+2023-03-31,250000,TR12 6AU,T,N,F,7,,Langweath Estate,Mawgan,Helston
+2023-03-29,902500,TR12 6SZ,D,N,F,Prospect Cottage,,Sunny Corner,Coverack,Helston
+2023-03-24,270000,TR12 7DZ,S,N,F,3,,Colroger Close,Mullion,Helston
+2023-03-24,245000,TR12 6QF,D,N,F,10,,Tregonning Parc,St Keverne,Helston
+2023-03-17,450000,TR12 6AB,D,N,F,Mawgan Cross,Cross Cottage,,Mawgan,Helston
+2023-03-14,316000,TR12 7PN,S,N,F,22,,Croft Parc,The Lizard,Helston
+2023-03-10,440000,TR12 6LQ,D,N,F,Kevelek,,,Goonhilly Downs,Helston
+2023-03-08,260000,TR12 6SA,T,N,F,Gatewynyack,5,School Hill,Coverack,Helston
+2023-03-03,360000,TR12 6UX,D,N,F,"Coney Pine, 8",,Doctors Hill,St Keverne,Helston
+2023-03-02,231740,TR12 6TD,D,N,F,Penwrea,,Polcoverack Lane,Coverack,Helston
+2023-03-02,350000,TR12 6NS,D,N,F,Ridge House,,High Street,St Keverne,Helston
+2023-02-24,470000,TR12 7LY,D,N,F,Agan Lowarth,,Kuggar,Ruan Minor,Helston
+2023-02-24,400000,TR12 7BG,D,N,F,Chy Corantyn,,White Cross,Cury,Helston
+2023-02-23,465000,TR12 7BZ,S,N,F,Alma House,,Churchtown,Mullion,Helston
+2023-02-21,350000,TR12 6LN,D,N,F,Shalom,,,Garras,Helston
+2023-02-14,318500,TR12 6QD,S,N,F,Greyholme,,Laddenvean,St Keverne,Helston
+2023-02-14,255000,TR12 6PQ,D,N,F,Treleague,The Walled Garden,,St Keverne,Helston
+2023-02-13,1250000,TR12 6NU,D,N,F,Montana,,,Trevalsoe,Helston
+2023-01-31,425000,TR12 6UP,D,N,F,"Swallows, 16",,Cryben,Gweek,Helston
+2023-01-27,237500,TR12 7DZ,T,N,F,12,,Colroger Close,Mullion,Helston
+2023-01-26,399950,TR12 6AB,D,N,F,Mawgan Cross,Eglos View,,Mawgan,Helston
+2023-01-24,180000,TR12 7JW,T,N,F,23,,Glebe Place,Ruan Minor,Helston
+2023-01-23,340000,TR12 7DX,T,N,F,8,,Tregellas Road,Mullion,Helston
+2023-01-23,227000,TR12 6NN,S,N,F,Trudis Cottage,,High Street,St Keverne,Helston
+2023-01-20,387000,TR12 7JL,T,N,F,Tremogh,,,Ruan Minor,Helston
+2023-01-19,450000,TR12 7PE,D,N,F,In Behind,,Cross Common,The Lizard,Helston
+2023-01-13,848000,TR12 7JS,D,N,F,Trelowarth,,,Ruan Minor,Helston
+2023-01-13,140000,TR12 7ER,T,N,L,6,,Mullion Cove Bungalows,Mullion,Helston
+2023-01-06,450000,TR12 6NS,D,N,F,Lanheverne,,High Street,St Keverne,Helston
+2023-01-05,605000,TR12 6LX,D,N,F,"Chy An Vre, 9",,Lanheverne Parc,St Keverne,Helston
+2022-12-20,326000,TR12 7LY,D,N,F,The Cottage,,Kuggar,Ruan Minor,Helston
+2022-12-20,108000,TR12 6PT,T,N,F,Tregowris Court Cottages,6,,Tregowris,Helston
+2022-12-16,515000,TR12 7EF,D,N,F,Rosemorran,,Glenmoor Lane,Mullion,Helston
+2022-12-15,175000,TR12 6RA,T,N,F,60,,Treskewes Estate,St Keverne,Helston
+2022-12-14,335000,TR12 7PN,D,N,F,52,,Croft Parc,The Lizard,Helston
+2022-12-12,475000,TR12 7EF,D,N,F,Rosalea,,Glenmoor Lane,Mullion,Helston
+2022-12-09,650000,TR12 7EJ,D,N,F,50,,Laflouder Fields,Mullion,Helston
+2022-12-09,275000,TR12 7DY,S,N,F,9,,Trembel Road,Mullion,Helston
+2022-12-08,400000,TR12 7HR,D,N,F,57,,Laflouder Fields,Mullion,Helston
+2022-12-06,1075000,TR12 7NA,D,N,F,Kingey,,,Ruan Minor,Helston
+2022-12-06,750000,TR12 6SX,S,N,F,Greystone,,The Cove,Coverack,Helston
+2022-11-30,225000,TR12 6BT,F,N,F,Boskernow,Flat 1,,St Martin,Helston
+2022-11-28,194000,TR12 6SB,F,N,L,8,,Headland Apartments,Coverack,Helston
+2022-11-25,625000,TR12 7LD,D,N,F,7,,Ledra Close,Ruan Minor,Helston
+2022-11-21,465000,TR12 6SQ,D,N,F,Trehaven,,Ponsongath,Coverack,Helston
+2022-11-18,875000,TR12 7EW,D,N,F,Tamarisk,,,Polurrian Cliffs,Helston
+2022-11-17,410000,TR12 7PQ,D,N,F,Kates Meddo,,,Church Cove,Helston
+2022-11-16,572000,TR12 7HR,D,N,F,25,,Laflouder Fields,Mullion,Helston
+2022-11-11,382000,TR12 6UP,D,N,F,12,,Cryben,Gweek,Helston
+2022-11-11,150000,TR12 6BT,F,N,L,Boskernow,Flat 3,,St Martin,Helston
+2022-11-04,290000,TR12 7PN,S,N,F,33,,Croft Parc,The Lizard,Helston
+2022-11-04,85000,TR12 7AU,T,N,L,Trevelyan Holiday Homes,36,,Predannack,Helston
+2022-11-02,92500,TR12 7AZ,F,N,L,Kittiwake,Bungalow 3,,Cury Cross Lanes,Helston
+2022-10-28,585000,TR12 7NZ,D,N,F,Chapel House,,,The Lizard,Helston
+2022-10-28,500000,TR12 7BG,D,N,F,Sunny Corner,,White Cross,Cury,Helston
+2022-10-28,1250000,TR12 6JY,D,N,F,Quay House,,,Helford,Helston
+2022-10-28,520000,TR12 6HE,D,N,F,Polgwithan House,,Gillan,Manaccan,Helston
+2022-10-25,665500,TR12 6SQ,D,N,F,Ponsongath Old Farmhouse,,Ponsongath,Coverack,Helston
+2022-10-21,2150000,TR12 7EP,D,N,F,Henscath,,,Mullion,Helston
+2022-10-14,375000,TR12 6NJ,S,N,F,Fairholme,,Trelyn Lane,St Keverne,Helston
+2022-10-10,266666,TR12 6SD,D,N,F,Trecarne,,Trevothen,Coverack,Helston
+2022-10-06,1100000,TR12 6TJ,D,N,F,Kensa Chy,,North Corner,Coverack,Helston
+2022-10-03,520000,TR12 7EL,D,N,F,"Trotters Way, 11",,Laflouder Fields,Mullion,Helston
+2022-09-30,85000,TR12 7AU,F,N,L,Trevelyan Holiday Homes,28C,,Predannack,Helston
+2022-09-30,450000,TR12 7AB,D,N,F,Boskenwyn Chapel,,,,Helston
+2022-09-28,295000,TR12 6UN,D,N,F,6,,Forthcrom,Gweek,Helston
+2022-09-27,493000,TR12 7RW,D,N,F,12,,Gwel An Garrek,Mullion,Helston
+2022-09-23,268000,TR12 7PQ,F,N,F,Wynwallow,,,Church Cove,Helston
+2022-09-23,270000,TR12 6SE,D,N,F,Little Pednavounder,,Pednavounder,Coverack,Helston
+2022-09-16,525000,TR12 6PW,T,N,F,The Haven,,Porthallow,St Keverne,Helston
+2022-09-16,700000,TR12 6AJ,D,N,F,The Old School House,,Lower Lane,Mawgan,Helston
+2022-09-15,420000,TR12 6JH,D,N,F,Little Folly,,Vicarage Lane,Manaccan,Helston
+2022-09-14,300000,TR12 7HB,D,N,F,Trenance Bungalow,,,Mullion,Helston
+2022-09-02,305000,TR12 7PD,D,N,F,Rozelle,,Cross Common,The Lizard,Helston
+2022-09-01,245000,TR12 7DX,T,N,F,49,,Tregellas Road,Mullion,Helston
+2022-08-11,800000,TR12 6TA,T,N,F,Polwithen,,Chymbloth Way,Coverack,Helston
+2022-07-29,390000,TR12 7LF,D,N,F,23,,Mundys Field,Ruan Minor,Helston
+2022-07-28,115000,TR12 6LY,T,N,F,Tenders Nook,,Commercial Road,St Keverne,Helston
+2022-07-26,718000,TR12 7HR,D,N,F,29,,Laflouder Fields,Mullion,Helston
+2022-07-26,470000,TR12 7EF,D,N,F,Karena,,Glenmoor Lane,Mullion,Helston
+2022-07-21,436000,TR12 6PS,D,N,F,Cider House,,,St Keverne,Helston
+2022-07-15,540000,TR12 6UA,D,N,F,Rose Cottage,,,Gweek,Helston
+2022-07-06,360000,TR12 7LF,S,N,F,11,,Mundys Field,Ruan Minor,Helston
+2022-07-06,460000,TR12 7JZ,D,N,F,Tregastel,,Cadgwith,Ruan Minor,Helston
+2022-07-01,770000,TR12 6JX,D,N,F,Mimosa,,,Helford,Helston
+2022-06-30,440000,TR12 7DA,S,N,F,Cornish Haven,,,Mullion,Helston
+2022-06-17,275000,TR12 6LX,D,N,F,10,,Lanheverne Parc,St Keverne,Helston
+2022-06-16,611000,TR12 6PQ,D,N,F,Treleague Farm,,,St Keverne,Helston
+2022-06-10,392000,TR12 7HX,D,N,F,Shara Seyth 19,,Meres Valley,Mullion,Helston
+2022-06-10,1575000,TR12 6TQ,D,N,F,Tregisky,,North Corner,Coverack,Helston
+2022-06-09,625000,TR12 7BW,T,N,F,Nanfant,Polurrian House,Churchtown,Cury,Helston
+2022-06-08,330000,TR12 6DW,T,N,F,Holly Cottage,,Newtown,St Martin,Helston
+2022-06-07,350000,TR12 7HZ,S,N,F,Campden House,,The Commons,Mullion,Helston
+2022-06-01,299950,TR12 6UW,D,N,F,14,,Meneth,Gweek,Helston
+2022-06-01,750000,TR12 6TP,D,N,F,"Kenryn Peder, 5",,Bounder Treath,Coverack,Helston
+2022-06-01,307500,TR12 6QF,D,N,F,8,,Tregonning Parc,St Keverne,Helston
+2022-05-27,800000,TR12 7PQ,D,N,F,Chy Kerenza,,,Church Cove,Helston
+2022-05-26,785000,TR12 7FF,D,Y,F,"Christo, 5",,Parc Garland,Cross Common,Helston
+2022-05-23,550000,TR12 7BU,D,N,F,"Summerstone House, 12",,Gweal Wollas Fields,Cury,Helston
+2022-05-20,550000,TR12 6RS,D,N,F,High View,,Penwartha,Coverack,Helston
+2022-05-06,550000,TR12 6DP,S,N,F,Glenesk House,,Newtown,St Martin,Helston
+2022-04-29,585000,TR12 7PQ,D,N,F,Trenook,,,Church Cove,Helston
+2022-04-29,325000,TR12 6BS,D,N,F,The Gables,,,St Martin,Helston
+2022-04-29,205000,TR12 6BA,S,N,F,Ambella,,Rosevear Hill,Mawgan,Helston
+2022-04-22,366100,TR12 6PL,S,N,F,April Cottage,,Porthallow,St Keverne,Helston
+2022-04-22,1150000,TR12 6JU,D,N,F,Pear Tree,,,Helford,Helston
+2022-04-19,127500,TR12 6AP,F,N,L,Tremrose Court,3,High Street,St Keverne,Helston
+2022-04-14,1435000,TR12 7JA,D,N,F,Angrouse Farmhouse,,Angrouse Lane,Mullion,Helston
+2022-04-12,130000,TR12 6NJ,D,N,F,Cartref,,Trelyn Lane,St Keverne,Helston
+2022-04-07,305000,TR12 7HN,S,N,F,Carpenters Cottage,,Churchtown,Mullion,Helston
+2022-04-04,425000,TR12 7HA,T,N,F,Predannack Manor,The Piggery,,Mullion,Helston
+2022-03-31,810000,TR12 6AX,D,N,F,Langweath Bungalow,,,Mawgan,Helston
+2022-03-25,235000,TR12 7HE,T,N,F,79,,Redannack North,Mullion,Helston
+2022-03-24,330000,TR12 7AS,T,N,F,Grochall Cottage,,Mile End,The Lizard,Helston
+2022-03-11,300000,TR12 7JJ,S,N,F,2,,Higher Moor,Ruan Minor,Helston
+2022-03-11,183000,TR12 6RA,T,N,F,23,,Treskewes Estate,St Keverne,Helston
+2022-03-08,1600000,TR12 7EW,D,N,F,Timber Ridge,,,Polurrian Cliffs,Helston
+2022-03-08,575000,TR12 7DL,D,N,F,Salt House,,Trewoon Road,Mullion,Helston
+2022-03-04,629500,TR12 7DP,D,N,F,Little Trudnoe,,Meaver Road,Mullion,Helston
+2022-03-04,350000,TR12 6RP,D,N,F,Trelan Cottage,,Trelan,St Keverne,Helston
+2022-03-02,720195,TR12 6TA,D,N,F,Chymbloth,,Chymbloth Way,Coverack,Helston
+2022-02-18,595000,TR12 7QU,D,N,F,Gwealeath,Plas Merryn,,Cury Cross Lanes,Helston
+2022-02-16,320000,TR12 6UP,D,N,F,18,,Cryben,Gweek,Helston
+2022-02-16,650000,TR12 6LN,D,N,F,Chapel House,,,Garras,Helston
+2022-02-11,1175000,TR12 6HX,D,N,F,Tregithew Farm,,,Manaccan,Helston
+2022-02-07,565000,TR12 6TE,D,N,F,Sun Cliff,,Mill Road,Coverack,Helston
+2022-01-25,500000,TR12 6BN,D,N,F,3,,Bouldens Orchard,Gweek,Helston
+2022-01-24,2100000,TR12 6AD,D,N,F,The Old Rectory,,,Mawgan,Helston
+2022-01-22,900000,TR12 6UB,D,N,F,The Elms,,,Gweek,Helston
+2022-01-20,389950,TR12 6NB,S,N,F,Barclay House,,The Square,St Keverne,Helston
+2022-01-19,240000,TR12 7DY,S,N,F,13,,Trembel Road,Mullion,Helston
+2022-01-18,1100000,TR12 7JU,D,N,F,Vine Cottage,,Cadgwith,Ruan Minor,Helston
+2022-01-14,285000,TR12 7EJ,D,N,F,81,,Laflouder Fields,Mullion,Helston
+2022-01-14,500000,TR12 6BN,D,N,F,4,,Bouldens Orchard,Gweek,Helston
+2022-01-12,803500,TR12 7EE,D,N,F,Tregwyth,,Nansmellyon Road,Mullion,Helston
+2022-01-07,325000,TR12 7NJ,D,N,F,Brith-Chy,,,The Lizard,Helston
+2022-01-07,280000,TR12 7HJ,D,N,F,3,,Chapel Place,Mullion,Helston
+2022-01-06,410000,TR12 7DX,D,N,F,1,,Tregellas Road,Mullion,Helston
+2021-12-21,550000,TR12 6BN,D,N,F,5,,Bouldens Orchard,Gweek,Helston
+2021-12-20,210000,TR12 7EA,T,N,F,26,,Gibbons Fields,Mullion,Helston
+2021-12-20,150000,TR12 7DZ,S,N,F,1,,Colroger Close,Mullion,Helston
+2021-12-20,474000,TR12 6BT,D,N,F,Tangent,,,St Martin,Helston
+2021-12-17,260000,TR12 7PN,S,N,F,7,,Croft Parc,The Lizard,Helston
+2021-12-17,250000,TR12 6UD,F,N,L,The Old Corn Mill,5,,Gweek,Helston
+2021-12-17,201000,TR12 6JJ,T,N,F,1,,Minster Terrace,Manaccan,Helston
+2021-12-17,580000,TR12 6HG,D,N,F,Tremara,,Gillan,Manaccan,Helston
+2021-12-16,240000,TR12 7DX,S,N,F,51,,Tregellas Road,Mullion,Helston
+2021-12-15,420000,TR12 7NQ,T,N,F,Caerthillian Cottage,,,The Lizard,Helston
+2021-12-14,1275000,TR12 7LA,D,N,F,High Massetts,,Cadgwith,Ruan Minor,Helston
+2021-12-14,425000,TR12 6RS,D,N,F,Seaward,,Penwartha,Coverack,Helston
+2021-12-14,345000,TR12 6NH,D,N,F,Lowenva,,Tregellast Close,St Keverne,Helston
+2021-11-26,640000,TR12 7EX,D,N,F,Westward,,,Mullion,Helston
+2021-11-19,242000,TR12 6UD,F,N,L,The Old Corn Mill,6,,Gweek,Helston
+2021-11-09,345000,TR12 7BZ,S,N,F,The Foresters Room,,Churchtown,Mullion,Helston
+2021-11-08,387500,TR12 7PH,T,N,F,Wynwallow Cottage,,,Church Cove,Helston
+2021-11-08,480000,TR12 7PH,T,N,F,Church Cottage,,,Church Cove,Helston
+2021-11-08,1030000,TR12 6JY,D,N,F,Willow Mead,,,Helford,Helston
+2021-11-04,1180000,TR12 6TG,D,N,F,Fair Winds,,North Corner,Coverack,Helston
+2021-11-04,1550000,TR12 6DR,D,N,F,Tredower,,Newtown,St Martin,Helston
+2021-10-30,165000,TR12 7DX,S,N,F,52,,Tregellas Road,Mullion,Helston
+2021-10-28,700000,TR12 7NP,D,N,F,Summer Lodge,,Penmenner Road,The Lizard,Helston
+2021-10-22,378750,TR12 7PE,S,N,F,Dene House,,Cross Common,The Lizard,Helston
+2021-10-18,675000,TR12 6EF,D,N,F,Trewince Cottage,,,St Martin,Helston
+2021-10-07,365000,TR12 6LN,D,N,F,Poplar Cottage,,,Garras,Helston
+2021-10-04,210000,TR12 6PL,F,N,L,Gallen Treath,Flat 4,Porthallow,St Keverne,Helston
+2021-09-30,310000,TR12 7BX,T,Y,F,6,,Shortwoods,Mullion,Helston
+2021-09-29,752500,TR12 6TJ,D,N,F,Thornhill,,North Corner,Coverack,Helston
+2021-09-28,1350000,TR12 7EW,D,N,F,Tregwinian,,,Polurrian Cliffs,Helston
+2021-09-27,520000,TR12 7NN,D,N,F,Cove View,1,Penmenner Road,The Lizard,Helston
+2021-09-27,260000,TR12 6NL,T,N,F,3,,Back Lane,St Keverne,Helston
+2021-09-24,490000,TR12 7NP,D,N,F,Camelia Cottage,,Penmenner Road,The Lizard,Helston
+2021-09-24,465000,TR12 7NL,D,N,F,Tyller Teg,,,The Lizard,Helston
+2021-09-24,375000,TR12 7DQ,D,N,F,Men-Y-Gwydn,,Nansmellyon Road,Mullion,Helston
+2021-09-24,550000,TR12 7BH,D,N,F,Trevow Barn,,White Cross,Cury,Helston
+2021-09-24,641000,TR12 7AY,D,N,F,Polglase Farm,,,Cury Cross Lanes,Helston
+2021-09-24,291000,TR12 6UW,D,N,F,30,,Meneth,Gweek,Helston
+2021-09-24,370000,TR12 6UP,D,N,F,7,,Cryben,Gweek,Helston
+2021-09-23,861100,TR12 7BW,D,N,F,Nanfant,Carleon Lodge,Churchtown,Cury,Helston
+2021-09-22,284000,TR12 6UG,T,N,F,3,,Rose Terrace,Gweek,Helston
+2021-09-22,360000,TR12 6UA,D,N,F,Priors Cottage,,,Gweek,Helston
+2021-09-20,380000,TR12 7JD,D,N,F,The Cuddy,,Polhorman Lane,Mullion,Helston
+2021-09-20,300000,TR12 7EA,S,N,F,18,,Gibbons Fields,Mullion,Helston
+2021-09-15,210000,TR12 7PD,D,N,F,Little Lizian,,Cross Common,The Lizard,Helston
+2021-09-10,276000,TR12 7AW,S,N,F,10,,Riviera Close,Mullion,Helston
+2021-09-08,318500,TR12 7HX,D,N,F,Chy An Gweal,,Meres Valley,Mullion,Helston
+2021-09-07,303000,TR12 6HE,D,N,F,The Old Chapel,,Gillan,Manaccan,Helston
+2021-09-06,350000,TR12 7DH,D,N,F,Tyr Bean,,Nansmellyon Road,Mullion,Helston
+2021-09-02,185000,TR12 6PA,S,N,F,2,,Treskewes Estate,St Keverne,Helston
+2021-08-23,281000,TR12 7LF,S,N,F,12,,Mundys Field,Ruan Minor,Helston
+2021-08-20,331376,TR12 7NX,D,N,F,Myrtle Cottage,,,The Lizard,Helston
+2021-08-20,400000,TR12 7BJ,D,N,F,Colvennor Court,,,Cury Cross Lanes,Helston
+2021-08-13,535000,TR12 7RW,D,N,F,16,,Gwel An Garrek,Mullion,Helston
+2021-08-12,465000,TR12 7PE,D,N,F,Treynwyns,,Cross Common,The Lizard,Helston
+2021-08-10,725000,TR12 6QL,D,N,F,Downend Cottage,,Trenance,St Keverne,Helston
+2021-08-10,1050000,TR12 6HL,D,N,F,The Round,,Gillan,Manaccan,Helston
+2021-08-06,815000,TR12 7NY,D,N,F,Atlantic House,,,The Lizard,Helston
+2021-08-04,1950000,TR12 6TF,D,N,F,The Croft,,North Corner,Coverack,Helston
+2021-07-30,169000,TR12 6PB,S,N,F,2,,Polventon Parc,St Keverne,Helston
+2021-07-23,655000,TR12 6HG,D,N,F,Tranquillity,,Gillan,Manaccan,Helston
+2021-07-21,188000,TR12 7DX,T,N,F,38,,Tregellas Road,Mullion,Helston
+2021-07-21,155000,TR12 6RA,S,N,F,47,,Treskewes Estate,St Keverne,Helston
+2021-07-02,635000,TR12 7AE,D,N,F,Poohs Retreat,,Chapel Hill,Gweek,Helston
+2021-06-30,150000,TR12 7JN,T,N,F,5,,Glebe Terrace,Ruan Minor,Helston
+2021-06-30,380000,TR12 7HA,T,N,F,Predannack Manor,The Bull Pen,,Mullion,Helston
+2021-06-30,385000,TR12 7DA,S,N,F,Lilys Retreat,,,Mullion,Helston
+2021-06-30,257250,TR12 6UW,D,N,F,3,,Meneth,Gweek,Helston
+2021-06-30,285000,TR12 6UA,D,N,F,Rose Cottage,,,Gweek,Helston
+2021-06-30,455000,TR12 6QW,D,N,F,Trevalza Cottage,,Porthoustock,St Keverne,Helston
+2021-06-30,435000,TR12 6DP,S,N,F,Glenesk House,,Newtown,St Martin,Helston
+2021-06-30,375000,TR12 6BT,D,N,F,Chy Lowena,,,St Martin,Helston
+2021-06-29,500000,TR12 7PH,D,N,F,Trewidden,,,Church Cove,Helston
+2021-06-29,275000,TR12 6UX,D,N,F,6,,Doctors Hill,St Keverne,Helston
+2021-06-28,521000,TR12 6RG,D,N,F,The Olde Smithy,,,St Keverne,Helston
+2021-06-25,425000,TR12 7HR,D,N,F,Churchy Fields,Agan Chi,Laflouder Fields,Mullion,Helston
+2021-06-25,320000,TR12 7EJ,D,N,F,88,,Laflouder Fields,Mullion,Helston
+2021-06-25,365000,TR12 7DN,D,N,F,Angwenyn,,Meaver Road,Mullion,Helston
+2021-06-25,303000,TR12 6BU,D,N,F,Piglet Cottage,,,St Martin,Helston
+2021-06-25,800000,TR12 6BJ,D,N,F,Higher Trevilgan,,,Gweek,Helston
+2021-06-24,320000,TR12 7HT,S,N,F,Chy-An-Coth,,Laflouder Lane,Mullion,Helston
+2021-06-24,337000,TR12 6LN,D,N,F,Neid Cottage,,,Garras,Helston
+2021-06-23,370000,TR12 7HN,D,N,F,Tavern Coth Cottage,,Churchtown,Mullion,Helston
+2021-06-23,330000,TR12 7EF,D,N,F,Hideaway,,Glenmoor Lane,Mullion,Helston
+2021-06-23,275000,TR12 7EA,S,N,F,22A,,Gibbons Fields,Mullion,Helston
+2021-06-23,655000,TR12 7DP,D,N,F,Meaver House,,Meaver Road,Mullion,Helston
+2021-06-23,300000,TR12 7DJ,D,N,F,Treharren,,Colroger Lane,Mullion,Helston
+2021-06-23,299000,TR12 6UW,D,N,F,1,,Meneth,Gweek,Helston
+2021-06-18,175000,TR12 6NG,T,N,F,4,,Lemon Street,St Keverne,Helston
+2021-06-14,360000,TR12 7HA,T,N,F,Predannack Manor,The Milking Parlour,,Mullion,Helston
+2021-06-11,750000,TR12 7FF,D,N,F,4,,Parc Garland,Cross Common,Helston
+2021-06-11,230000,TR12 7AX,T,N,F,3,,Henrys Croft,The Lizard,Helston
+2021-06-11,412500,TR12 7AE,D,N,F,Adelaide,,Chapel Hill,Gweek,Helston
+2021-06-11,240000,TR12 6HY,D,N,F,Trenellan,,,Manaccan,Helston
+2021-06-04,305000,TR12 6HR,D,N,F,Penvounder,,,Manaccan,Helston
+2021-06-02,290000,TR12 7BW,D,N,F,Tregweath,,Churchtown,Cury,Helston
+2021-06-02,1150000,TR12 6TQ,D,N,F,Penmarth House,,North Corner,Coverack,Helston
+2021-06-01,285000,TR12 7HJ,T,N,F,Mullion Cottage,,Churchtown,Mullion,Helston
+2021-06-01,1250000,TR12 6TB,D,N,F,Cove Outlook,,Chymbloth Way,Coverack,Helston
+2021-06-01,378750,TR12 6SD,D,N,F,Sarnia,,Trevothen,Coverack,Helston
+2021-05-28,860000,TR12 6SA,D,N,F,Hillcrest,,School Hill,Coverack,Helston
+2021-05-28,275000,TR12 6NL,D,N,F,The Old Coach House,,Back Lane,St Keverne,Helston
+2021-05-26,157500,TR12 6SB,F,N,L,13,,Headland Apartments,Coverack,Helston
+2021-05-25,580000,TR12 7LY,D,N,F,Ambergate,,Kuggar,Ruan Minor,Helston
+2021-05-24,100000,TR12 6PT,T,N,F,Tregowris Court Cottages,Gillan 3,,Tregowris,Helston
+2021-05-21,490000,TR12 6HG,D,N,F,Karenza,,Gillan,Manaccan,Helston
+2021-05-19,620000,TR12 7BW,T,N,F,Nanfant,Scovarn House,Churchtown,Cury,Helston
+2021-05-19,725000,TR12 6TG,D,N,F,Lyndu,,North Corner,Coverack,Helston
+2021-05-14,383000,TR12 7JG,D,N,F,2,,Park Enskellaw,Mullion,Helston
+2021-05-14,200000,TR12 6PD,S,N,F,6,,Tregellast Parc,St Keverne,Helston
+2021-05-12,650000,TR12 7QU,D,N,F,Higher Gwealeath Farm,,,Cury Cross Lanes,Helston
+2021-05-11,330000,TR12 7EF,D,N,F,Hideaway,,Glenmoor Lane,Mullion,Helston
+2021-05-06,295000,TR12 7BT,T,N,F,St. Michaels Cottage,,Churchtown,Mullion,Helston
+2021-05-04,675000,TR12 6SA,D,N,F,Morva,,School Hill,Coverack,Helston
+2021-04-30,82000,TR12 7AG,F,N,L,4A,,Lower Parc Estate,Gweek,Helston
+2021-04-28,335000,TR12 7RT,D,N,F,4,,Green Field Close,The Lizard,Helston
+2021-04-23,303000,TR12 7QG,D,N,F,Rose Cottage,,Berepper,Gunwalloe,Helston
+2021-04-23,575000,TR12 7BW,T,N,F,Nanfant,Polurrian House,Churchtown,Cury,Helston
+2021-04-21,162000,TR12 7NJ,T,N,F,Royca,,,The Lizard,Helston
+2021-04-15,1412500,TR12 6DR,D,N,F,Tredower,,Newtown,St Martin,Helston
+2021-04-14,335000,TR12 7JD,S,N,F,Tal An Vean,,Polhorman Lane,Mullion,Helston
+2021-04-12,306000,TR12 7JL,S,N,F,Yellow Fish Cottage,,,Ruan Minor,Helston
+2021-04-09,247500,TR12 6SA,T,N,F,Gatewynyack,3,School Hill,Coverack,Helston
+2021-04-08,250000,TR12 6NL,T,N,F,2,,Back Lane,St Keverne,Helston
+2021-04-01,265000,TR12 6BU,S,N,F,The Anchorage,,,St Martin,Helston
+2021-03-31,108000,TR12 6PT,T,N,F,Tregowris Court Cottages,7,,Tregowris,Helston
+2021-03-31,1025000,TR12 6LP,D,N,F,Little Kaledna,,,Garras,Helston
+2021-03-30,220000,TR12 7PQ,T,N,F,Kynance,,,Church Cove,Helston
+2021-03-26,450000,TR12 7DS,D,N,F,Trevethow,,Trewoon Road,Mullion,Helston
+2021-03-26,400000,TR12 6LA,D,N,F,Tredour,,Orchard Lane,Helford,Helston
+2021-03-24,420000,TR12 6AX,D,N,F,Chy Crogan,,,Mawgan,Helston
+2021-03-19,327500,TR12 7QG,S,N,F,Chyvean,,Berepper,Gunwalloe,Helston
+2021-03-19,325000,TR12 7PD,D,N,F,Atlantic View Cottage,,Cross Common,The Lizard,Helston
+2021-03-19,620000,TR12 6QW,D,N,F,The Bungalow,,Porthoustock,St Keverne,Helston
+2021-03-19,128500,TR12 6PN,D,N,F,The Old Stable,,Porthallow,St Keverne,Helston
+2021-03-19,1750000,TR12 6AD,D,N,F,The Old Rectory,,,Mawgan,Helston
+2021-03-17,500000,TR12 6BW,D,N,F,Trengilly,,St Martins Green,St Martin,Helston
+2021-03-15,730000,TR12 7NR,D,N,F,Parc Brawse House,,Penmenner Road,The Lizard,Helston
+2021-03-15,465000,TR12 7LY,D,N,F,Ferny Scat,,Kuggar,Ruan Minor,Helston
+2021-03-15,370000,TR12 6BQ,S,N,F,Nanseverne Farm,,,Mawgan,Helston
+2021-03-12,230000,TR12 7DX,T,N,F,15,,Tregellas Road,Mullion,Helston
+2021-03-12,375000,TR12 6PN,D,N,F,The Old Chapel,,Porthallow,St Keverne,Helston
+2021-03-12,455000,TR12 6PL,D,N,F,Willow Cottage,,Porthallow,St Keverne,Helston
+2021-03-11,380000,TR12 7LD,D,N,F,5,,Ledra Close,Ruan Minor,Helston
+2021-03-10,540000,TR12 7HX,D,N,F,Mereside,,Meres Valley,Mullion,Helston
+2021-03-10,350000,TR12 7EJ,D,N,F,Sea Glimpse,,Laflouder Fields,Mullion,Helston
+2021-03-09,500000,TR12 6SW,D,N,F,Charleston Cottage,,Polcoverack,Coverack,Helston
+2021-03-08,165000,TR12 7PA,S,N,F,32,,Parc An Ithan,The Lizard,Helston
+2021-03-08,230000,TR12 6QS,S,N,F,5,,Coronation Cottages,St Keverne,Helston
+2021-03-05,435000,TR12 7HA,T,N,F,Predannack Manor,The Stables,,Mullion,Helston
+2021-03-05,330000,TR12 7EJ,D,N,F,76,,Laflouder Fields,Mullion,Helston
+2021-03-05,260000,TR12 7DF,T,N,F,1,,Willis Vean,Mullion,Helston
+2021-03-05,64412,TR12 7AW,F,N,L,14,,Riviera Close,Mullion,Helston
+2021-03-05,455000,TR12 6SQ,D,N,F,Heather Bank,,Ponsongath,Coverack,Helston
+2021-03-05,500000,TR12 6QR,D,N,F,Godrevy Cottage,,Rosenithon,St Keverne,Helston
+2021-03-05,485000,TR12 6BS,D,N,F,Kilgreggan,,,St Martin,Helston
+2021-03-03,540000,TR12 7BH,D,N,F,Higher Penvearne,,White Cross,Cury,Helston
+2021-03-03,335000,TR12 6UN,D,N,F,8,,Forthcrom,Gweek,Helston
+2021-03-03,200000,TR12 6HY,D,N,F,Trenellan,,,Manaccan,Helston
+2021-03-02,100000,TR12 7EW,D,N,F,Treverbyn,,,Polurrian Cliffs,Helston
+2021-02-26,375000,TR12 7EL,D,N,F,"Trotters Way, 11",,Laflouder Fields,Mullion,Helston
+2021-02-26,250000,TR12 6UP,D,N,F,4,,Cryben,Gweek,Helston
+2021-02-26,714000,TR12 6HF,D,N,F,The Trek,,Gillan Cove,Manaccan,Helston
+2021-02-26,370000,TR12 6HA,T,N,F,Little Treneglos,,,Manaccan,Helston
+2021-02-25,235000,TR12 7JL,D,N,F,Springfield,,,Ruan Minor,Helston
+2021-02-25,415000,TR12 7HT,D,N,F,Gwendra,,Laflouder Lane,Mullion,Helston
+2021-02-24,495000,TR12 7NN,D,N,F,Cove View,1,Penmenner Road,The Lizard,Helston
+2021-02-24,280000,TR12 6LY,D,N,F,Old Post Office,,Commercial Road,St Keverne,Helston
+2021-02-19,800000,TR12 7QY,D,N,F,Transingove,,,Cury Cross Lanes,Helston
+2021-02-19,220000,TR12 7NN,S,N,F,Morgelynen,,Penmenner Road,The Lizard,Helston
+2021-02-19,495000,TR12 7NN,D,N,F,Cove View,2,Penmenner Road,The Lizard,Helston
+2021-02-19,190000,TR12 7DY,T,N,F,27,,Trembel Road,Mullion,Helston
+2021-02-19,357000,TR12 6LW,D,N,F,"Redwoods, 4",,Tregear Close,Garras,Helston
+2021-02-18,475000,TR12 6EN,D,N,F,Roskruge Barton Cottage,,,Manaccan,Helston
+2021-02-17,275000,TR12 7RS,D,N,F,9,,Lusart Drive,The Lizard,Helston
+2021-02-17,285000,TR12 7BX,T,N,F,4,,Shortwoods,Mullion,Helston
+2021-02-16,310000,TR12 6NY,D,N,F,Treglohan Minor,,,St Keverne,Helston
+2021-02-12,237500,TR12 7PB,D,N,F,Sea Cure,,Beacon Terrace,The Lizard,Helston
+2021-02-12,585500,TR12 6UH,D,N,F,Goon Reath,,,Gweek,Helston
+2021-02-11,270000,TR12 7JP,D,N,F,St Annes,,,Ruan Minor,Helston
+2021-02-08,227500,TR12 7NH,T,N,F,3,,Kynance Terrace,The Lizard,Helston
+2021-02-08,176000,TR12 7DY,T,N,F,26,,Trembel Road,Mullion,Helston
+2021-02-08,325000,TR12 6PP,D,N,F,Rutherglen,,Porthallow,St Keverne,Helston
+2021-02-05,495000,TR12 7NN,D,N,F,Cove View,3,Penmenner Road,The Lizard,Helston
+2021-02-05,350000,TR12 7EJ,D,N,F,101,,Laflouder Fields,Mullion,Helston
+2021-02-05,87500,TR12 6JJ,F,N,L,10,,Minster Terrace,Manaccan,Helston
+2021-02-04,289950,TR12 7BX,T,N,F,5,,Shortwoods,Mullion,Helston
+2021-02-02,275000,TR12 6UX,D,N,F,7,,Doctors Hill,St Keverne,Helston
+2021-02-01,236000,TR12 6AU,S,N,F,15,,Langweath Estate,Mawgan,Helston
+2021-01-29,550000,TR12 6TX,D,N,F,Mellanoweth House,,,Gweek,Helston
+2021-01-22,250000,TR12 7RN,S,N,F,12,,Woodlands,Mullion,Helston
+2021-01-22,425000,TR12 6SZ,D,N,F,West House,,Sunny Corner,Coverack,Helston
+2021-01-22,485000,TR12 6SX,T,N,F,Minstrel Cottage,,The Cove,Coverack,Helston
+2021-01-15,355000,TR12 7HX,D,N,F,Treganoon,,Meres Valley,Mullion,Helston
+2021-01-15,225000,TR12 7BG,T,N,F,8,,Trelawney Terrace,Cury,Helston
+2021-01-08,555000,TR12 7RB,D,N,F,Riverside,,Nantithet,Cury,Helston
+2021-01-08,229658,TR12 7HN,T,N,F,Rosewal,,Churchtown,Mullion,Helston
+2021-01-07,300000,TR12 7HS,D,N,F,Redannack Bungalow,,Lender Lane,Mullion,Helston
+2021-01-06,295000,TR12 6TU,T,N,F,Tattle Tale Cottage,,,Gweek,Helston
+2021-01-04,425000,TR12 6LY,S,N,F,Chapel House,,Commercial Road,St Keverne,Helston
+2021-01-01,775000,TR12 6TB,D,N,F,Tremayne,,Chymbloth Way,Coverack,Helston

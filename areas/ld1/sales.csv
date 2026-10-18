@@ -1,0 +1,866 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-27,155000,LD1 6BY,D,N,F,Engelberg,,North Avenue,,Llandrindod Wells
+2026-08-07,156000,LD1 6DG,S,N,F,Paham,,Hillcrest Drive,,Llandrindod Wells
+2026-07-30,175000,LD1 6DW,S,N,F,28,,Holcombe Avenue,,Llandrindod Wells
+2026-07-22,172000,LD1 6DP,S,N,F,94,,Holcombe Drive,,Llandrindod Wells
+2026-07-21,60000,LD1 5HF,F,N,L,Belmont,Flat 4,Temple Street,,Llandrindod Wells
+2026-07-15,190000,LD1 5NT,D,N,F,49,,Lakeside Avenue,,Llandrindod Wells
+2026-07-14,385000,LD1 6PH,S,N,F,1,,Paddock Cottage,Abbeycwmhir,Llandrindod Wells
+2026-07-10,256000,LD1 5NT,D,N,F,8,,Lakeside Avenue,,Llandrindod Wells
+2026-07-09,565000,LD1 5RF,D,N,F,Cefn Bach,,,Howey,Llandrindod Wells
+2026-06-26,230000,LD1 5NE,S,N,F,Greentiles,,Grosvenor Close,,Llandrindod Wells
+2026-06-19,85000,LD1 6AU,F,N,L,South Court,Flat 9,Park Terrace,,Llandrindod Wells
+2026-06-19,373000,LD1 6AR,D,N,F,Chapter House,,Rock Park Close,,Llandrindod Wells
+2026-06-18,77000,LD1 5LU,F,N,L,Carlyon,Flat 3,Temple Drive,,Llandrindod Wells
+2026-06-16,160000,LD1 5HB,T,N,F,11,,Brynteg,,Llandrindod Wells
+2026-06-12,275000,LD1 5NZ,D,N,F,5,,Dolydd Pentrosfa,,Llandrindod Wells
+2026-06-05,190000,LD1 5NW,D,N,F,42,,Pentrosfa Crescent,,Llandrindod Wells
+2026-06-04,300000,LD1 6LZ,D,N,F,3,,Clos Y Berllan,Newbridge On Wye,Llandrindod Wells
+2026-06-04,165000,LD1 6LF,T,N,F,Knapplands,1,,Newbridge On Wye,Llandrindod Wells
+2026-06-03,187000,LD1 6DT,T,N,F,39,,Cortay Park,Llanyre,Llandrindod Wells
+2026-05-28,328000,LD1 5PJ,D,N,F,6,,Disserth View,Howey,Llandrindod Wells
+2026-05-22,350000,LD1 6AR,D,N,F,Waters Edge,,Rock Park Close,,Llandrindod Wells
+2026-05-15,300000,LD1 6DT,D,N,F,"Heddfan, 12",,Cortay Park,Llanyre,Llandrindod Wells
+2026-05-15,255000,LD1 5PU,S,N,F,Fairview,,,Howey,Llandrindod Wells
+2026-05-15,335000,LD1 5HT,D,N,F,The Spinney,,Broadway,,Llandrindod Wells
+2026-05-14,300000,LD1 5NX,D,N,F,12,,Maple Ridge Close,,Llandrindod Wells
+2026-05-12,199000,LD1 6DG,S,N,F,Hillcom,,Hillcrest Drive,,Llandrindod Wells
+2026-05-08,460000,LD1 6AS,D,N,F,Llwyn,,Ithon Road,,Llandrindod Wells
+2026-05-06,380000,LD1 5EB,D,N,F,Ty-Cerrig,,Tremont Road,,Llandrindod Wells
+2026-04-30,255000,LD1 5BZ,D,N,F,16,,Clywedog Drive,,Llandrindod Wells
+2026-04-30,245000,LD1 5BF,S,N,F,17,,Camddwr Rise,,Llandrindod Wells
+2026-04-29,170000,LD1 6PE,S,N,F,Bluebell Cottages,5,Ddole Road,,Llandrindod Wells
+2026-04-28,420000,LD1 6EA,D,N,F,Highgrove,,,Llanyre,Llandrindod Wells
+2026-04-28,245000,LD1 6DT,D,N,F,44,,Cortay Park,Llanyre,Llandrindod Wells
+2026-04-24,221000,LD1 6LQ,S,N,F,1B,,Cae Nant,Newbridge On Wye,Llandrindod Wells
+2026-04-24,200000,LD1 6LH,D,N,F,Tan-Y-Bryn,,,Newbridge On Wye,Llandrindod Wells
+2026-04-24,270000,LD1 6AN,S,N,F,Ashleigh,,Dyffryn Road,,Llandrindod Wells
+2026-04-10,295000,LD1 5PJ,D,N,F,7,,Disserth View,Howey,Llandrindod Wells
+2026-04-02,240000,LD1 6DN,D,N,F,74,,Holcombe Drive,,Llandrindod Wells
+2026-04-02,325000,LD1 5PJ,D,N,F,10,,Disserth View,Howey,Llandrindod Wells
+2026-03-27,95000,LD1 6AB,T,N,F,Hazelhurst,,Park Crescent,,Llandrindod Wells
+2026-03-26,495000,LD1 5NN,D,N,F,Arlington,,Park Lane,,Llandrindod Wells
+2026-03-26,245000,LD1 5DE,D,N,F,54,,Woodlands,,Llandrindod Wells
+2026-03-24,108500,LD1 6HU,S,N,F,13,,Llwyn Celyn,Newbridge On Wye,Llandrindod Wells
+2026-03-19,240000,LD1 6BL,T,N,F,Archibald House,,Waterloo Road,,Llandrindod Wells
+2026-03-13,160000,LD1 5RB,T,N,F,19,,Goylands Close,,Llandrindod Wells
+2026-03-13,290000,LD1 5HT,S,N,F,Oakfield,,Broadway,,Llandrindod Wells
+2026-03-09,245000,LD1 5DE,D,N,F,39,,Woodlands,,Llandrindod Wells
+2026-03-06,365000,LD1 6DT,D,N,F,34,,Cortay Park,Llanyre,Llandrindod Wells
+2026-03-04,33000,LD1 5BD,F,N,L,Commerce House,Flat 1,Station Crescent,,Llandrindod Wells
+2026-02-27,700000,LD1 6PD,D,N,F,Nantyrhaidd,,,Nant Glas,Llandrindod Wells
+2026-02-27,390000,LD1 5SP,D,N,F,Penffynon,,,Penybont,Llandrindod Wells
+2026-02-27,212500,LD1 5BA,S,N,F,5,,Hernog Close,,Llandrindod Wells
+2026-02-20,122000,LD1 5HT,F,N,L,Penrhyn,15,Broadway,,Llandrindod Wells
+2026-02-20,215000,LD1 5BF,S,N,F,22,,Camddwr Rise,,Llandrindod Wells
+2026-02-19,295000,LD1 6AN,D,N,F,Tycoch,,Dyffryn Road,,Llandrindod Wells
+2026-02-16,113000,LD1 5LR,F,N,L,York House,3,Temple Avenue,,Llandrindod Wells
+2026-02-13,120000,LD1 6AN,D,N,F,Dyffryn House,,Dyffryn Road,,Llandrindod Wells
+2026-02-13,41000,LD1 5LP,F,N,L,Rosslare Garden,Flat B,Temple Avenue,,Llandrindod Wells
+2026-02-09,230000,LD1 5EW,D,N,F,2,,Oakridge Drive,,Llandrindod Wells
+2026-01-30,315000,LD1 5NA,D,N,F,Stanmore,,Grosvenor Road,,Llandrindod Wells
+2026-01-16,295000,LD1 6LQ,D,N,F,5,,Cae Nant,Newbridge On Wye,Llandrindod Wells
+2026-01-16,38000,LD1 5LP,F,N,L,Rosslare,Flat 3,Temple Avenue,,Llandrindod Wells
+2026-01-16,160000,LD1 5HB,T,N,F,10,,Brynteg,,Llandrindod Wells
+2026-01-09,500000,LD1 5NT,D,N,F,Glanllyn,,Lakeside Avenue,,Llandrindod Wells
+2026-01-09,450000,LD1 5LD,D,N,F,Nyth Y Wiwer,1,Cefnllys Lane,,Llandrindod Wells
+2025-12-19,145500,LD1 5TY,S,N,F,Middle House,,,Penybont,Llandrindod Wells
+2025-12-19,183500,LD1 5BH,S,N,F,Glenmonnow,,Tremont Road,,Llandrindod Wells
+2025-12-18,248000,LD1 5NZ,D,N,F,43,,Dolydd Pentrosfa,,Llandrindod Wells
+2025-12-17,422500,LD1 6HT,D,N,F,Great House,,,Newbridge On Wye,Llandrindod Wells
+2025-12-17,173000,LD1 6DG,T,N,F,5,,Hillcrest Drive,,Llandrindod Wells
+2025-12-10,255000,LD1 6AS,S,N,F,Lorian,,Ithon Road,,Llandrindod Wells
+2025-12-08,120000,LD1 5ES,F,N,L,Mangalore,Flat 2,Spa Road East,,Llandrindod Wells
+2025-12-05,350000,LD1 6AP,D,N,F,The Laurels,,Victoria Road,,Llandrindod Wells
+2025-12-01,230000,LD1 6AN,S,N,F,Dolcoed,,Dyffryn Road,,Llandrindod Wells
+2025-11-28,240000,LD1 6DT,D,N,F,50,,Cortay Park,Llanyre,Llandrindod Wells
+2025-11-28,237000,LD1 5NW,S,N,F,Lindenbar,,Pentrosfa Crescent,,Llandrindod Wells
+2025-11-27,325000,LD1 6EW,D,N,F,Cil Llwyn,,,Llanyre,Llandrindod Wells
+2025-11-26,430000,LD1 5PN,D,N,F,Pengarreg,,,Howey,Llandrindod Wells
+2025-11-24,340000,LD1 5SF,D,N,F,Woodbury,,,Cregrina,Llandrindod Wells
+2025-11-21,318500,LD1 6RF,S,N,F,Ithon House,,,Crossgates,Llandrindod Wells
+2025-11-21,269000,LD1 5NZ,D,N,F,39,,Dolydd Pentrosfa,,Llandrindod Wells
+2025-11-21,230000,LD1 5BF,D,N,F,10,,Camddwr Rise,,Llandrindod Wells
+2025-11-20,320000,LD1 6TU,D,N,F,Glen View,,,Llanbadarn Fynydd,Llandrindod Wells
+2025-11-12,355000,LD1 6AS,S,N,F,Tredawel,,Ithon Road,,Llandrindod Wells
+2025-11-11,153000,LD1 5HB,S,N,F,10A,,Brynteg,,Llandrindod Wells
+2025-11-06,295000,LD1 5DE,D,N,F,7,,Woodlands,,Llandrindod Wells
+2025-11-03,265000,LD1 6NU,D,N,F,Tycoch,,,Llanwrthwl,Llandrindod Wells
+2025-10-24,240000,LD1 5BF,D,N,F,2,,Camddwr Rise,,Llandrindod Wells
+2025-10-21,499950,LD1 6SE,D,N,F,Broadlands,,,Llanddewi,Llandrindod Wells
+2025-10-21,355000,LD1 5TW,D,N,F,Maesnewydd,,,Dolau,Llandrindod Wells
+2025-10-17,380000,LD1 6RR,D,N,F,Tir Coed,,Rock Road,Crossgates,Llandrindod Wells
+2025-10-16,475000,LD1 6DY,D,N,F,Copeland,,Cagebrook Lane,Llanyre,Llandrindod Wells
+2025-10-13,148000,LD1 6RL,S,N,F,1,,Talbot Place,Gwystre,Llandrindod Wells
+2025-10-10,640000,LD1 5TY,D,N,F,Tynewydd,,,Penybont,Llandrindod Wells
+2025-09-30,213650,LD1 6BL,T,N,F,Wyvern,2,Waterloo Road,,Llandrindod Wells
+2025-09-26,320000,LD1 5HT,S,N,F,The Ovals,,Broadway,,Llandrindod Wells
+2025-09-26,160000,LD1 5BL,S,N,F,1,,Boundary Terrace,,Llandrindod Wells
+2025-09-25,185000,LD1 5PS,D,N,F,Harwen,,,Howey,Llandrindod Wells
+2025-09-24,840000,LD1 5NY,D,N,F,Caerigwibber,,,,Llandrindod Wells
+2025-09-24,215000,LD1 5BA,S,N,F,7,,Hernog Close,,Llandrindod Wells
+2025-09-22,225000,LD1 5TS,T,N,F,"Tramore, 2",,Ridgebourne Drive,,Llandrindod Wells
+2025-09-22,230000,LD1 5DE,D,N,F,23A,,Woodlands,,Llandrindod Wells
+2025-09-19,435000,LD1 5NT,D,N,F,Herons Way,,Lakeside Avenue,,Llandrindod Wells
+2025-09-17,250000,LD1 6AH,D,N,F,Ty Celynnen,,Oxford Road,,Llandrindod Wells
+2025-09-12,175000,LD1 5RY,S,N,F,8,,Colwyn Terrace,Hundred House,Llandrindod Wells
+2025-09-12,225000,LD1 5LP,T,N,F,Teviot,,Temple Avenue,,Llandrindod Wells
+2025-09-08,320000,LD1 5RB,D,N,F,51,,Goylands Close,,Llandrindod Wells
+2025-09-08,332000,LD1 5NL,D,N,F,10,,Pentrosfa Road,,Llandrindod Wells
+2025-09-03,345000,LD1 5NT,D,N,F,52,,Lakeside Avenue,,Llandrindod Wells
+2025-08-29,345000,LD1 5NZ,D,N,F,33,,Dolydd Pentrosfa,,Llandrindod Wells
+2025-08-27,461750,LD1 5NT,D,N,F,Creignant,,Lakeside Avenue,,Llandrindod Wells
+2025-08-22,198000,LD1 5PH,D,N,F,Maesyronnen,,,Howey Road,Llandrindod Wells
+2025-08-21,212500,LD1 6AH,D,N,F,Islay,,Oxford Road,,Llandrindod Wells
+2025-08-18,280000,LD1 5TH,D,N,F,Delfryn,,,Dolau,Llandrindod Wells
+2025-08-18,270000,LD1 5NW,D,N,F,Hawthorns,,Pentrosfa Crescent,,Llandrindod Wells
+2025-08-15,196000,LD1 5SN,D,N,F,Maesgwyn,,,Crossgates,Llandrindod Wells
+2025-08-15,180000,LD1 5EF,S,N,F,31,,Lant Avenue,,Llandrindod Wells
+2025-08-12,232000,LD1 6BN,D,N,F,7,,Hillcrest Rise,,Llandrindod Wells
+2025-08-06,230000,LD1 5DE,D,N,F,43,,Woodlands,,Llandrindod Wells
+2025-08-06,370000,LD1 5DE,D,N,F,13,,Woodlands,,Llandrindod Wells
+2025-08-01,365000,LD1 6EN,D,N,F,Ty Seren,3,,Nantmel,Llandrindod Wells
+2025-08-01,235000,LD1 5AF,S,N,F,11,,Dulas Bank,,Llandrindod Wells
+2025-07-31,150000,LD1 6DP,T,N,F,90,,Holcombe Drive,,Llandrindod Wells
+2025-07-31,186000,LD1 6DG,S,N,F,Rozel,,Hillcrest Drive,,Llandrindod Wells
+2025-07-31,89000,LD1 6AG,F,N,L,Cemlyn House,Flat 7,High Street,,Llandrindod Wells
+2025-07-30,153000,LD1 6LN,S,N,F,Old Lion Cottage,,,Newbridge On Wye,Llandrindod Wells
+2025-07-29,460000,LD1 6DY,D,N,F,Tall Trees,,,Llanyre,Llandrindod Wells
+2025-07-25,210000,LD1 5BA,D,N,F,8,,Hernog Close,,Llandrindod Wells
+2025-07-22,51500,LD1 5LP,F,N,L,Rosslare,Flat 5,Temple Avenue,,Llandrindod Wells
+2025-07-21,320000,LD1 6RJ,D,N,F,7,,Badgers Green,Crossgates,Llandrindod Wells
+2025-07-18,195000,LD1 5NZ,S,N,F,20,,Dolydd Pentrosfa,,Llandrindod Wells
+2025-07-18,272500,LD1 5BH,D,N,F,Wynyard,,Tremont Road,,Llandrindod Wells
+2025-07-11,295000,LD1 6DT,D,N,F,42,,Cortay Park,Llanyre,Llandrindod Wells
+2025-07-11,305000,LD1 5BJ,D,N,F,Yew Tree Cottage,,Tremont Road,,Llandrindod Wells
+2025-07-11,232500,LD1 5AF,S,N,F,13,,Dulas Bank,,Llandrindod Wells
+2025-07-10,275000,LD1 5NL,D,N,F,19,,Pentrosfa Road,,Llandrindod Wells
+2025-07-08,237000,LD1 5NT,D,N,F,34,,Lakeside Avenue,,Llandrindod Wells
+2025-07-08,240000,LD1 5AJ,S,N,F,8,,Afon Way,,Llandrindod Wells
+2025-06-30,265000,LD1 5NZ,D,N,F,8,,Dolydd Pentrosfa,,Llandrindod Wells
+2025-06-30,225000,LD1 5BF,S,N,F,24,,Camddwr Rise,,Llandrindod Wells
+2025-06-27,178000,LD1 6YR,D,N,F,Rock House,,,Davids Well,Llandrindod Wells
+2025-06-27,115000,LD1 6AG,F,N,L,Spa Heights,Flat 3,High Street,,Llandrindod Wells
+2025-06-25,465000,LD1 6EQ,D,Y,F,1,,Long Meadow Rise,Llanyre,Llandrindod Wells
+2025-06-23,245000,LD1 5NA,S,N,F,Linden-Lea,,Grosvenor Road,,Llandrindod Wells
+2025-06-16,180000,LD1 6BB,S,N,F,9,,Llethyr Bryn,,Llandrindod Wells
+2025-06-16,202500,LD1 5BP,T,N,F,6,,Maple Terrace,,Llandrindod Wells
+2025-06-13,135000,LD1 6BL,T,N,F,Mayfield,,Waterloo Road,,Llandrindod Wells
+2025-06-13,176000,LD1 5PY,S,N,F,3,,Llwynbrain Villas,Howey,Llandrindod Wells
+2025-06-13,202500,LD1 5NL,D,N,F,30,,Pentrosfa Road,,Llandrindod Wells
+2025-06-12,235000,LD1 5NT,S,N,F,25,,Lakeside Avenue,,Llandrindod Wells
+2025-06-11,215000,LD1 6AN,S,N,F,Wynberg,,Dyffryn Road,,Llandrindod Wells
+2025-06-06,335000,LD1 6SQ,D,Y,F,18,,Llanddewi Hills,Llanddewi,Llandrindod Wells
+2025-06-06,190000,LD1 5BA,S,N,F,2,,Hernog Close,,Llandrindod Wells
+2025-06-03,230000,LD1 5BF,D,N,F,35,,Camddwr Rise,,Llandrindod Wells
+2025-05-28,131550,LD1 5HU,F,N,L,Sunnycroft,Flat 5,Princes Avenue,,Llandrindod Wells
+2025-05-27,63000,LD1 5HG,F,N,L,The Beaufort,Flat 4,Temple Street,,Llandrindod Wells
+2025-05-23,310000,LD1 6SQ,D,Y,F,8,,Llanddewi Hills,Llanddewi,Llandrindod Wells
+2025-05-09,117000,LD1 5YA,T,N,F,48,,Trefonen Way,,Llandrindod Wells
+2025-05-08,362300,LD1 5NP,D,N,F,22,,Cefn Morfa,,Llandrindod Wells
+2025-05-07,220000,LD1 5BF,S,N,F,8,,Camddwr Rise,,Llandrindod Wells
+2025-05-02,260000,LD1 6TB,D,N,F,2,,Village Close,Crossgates,Llandrindod Wells
+2025-05-01,69000,LD1 5HG,F,N,L,Sorrento,Flat 3,Temple Street,,Llandrindod Wells
+2025-04-24,315000,LD1 6SQ,D,Y,F,7,,Llanddewi Hills,Llanddewi,Llandrindod Wells
+2025-04-16,200000,LD1 6SQ,D,Y,F,16,,Llanddewi Hills,Llanddewi,Llandrindod Wells
+2025-04-15,280000,LD1 5SH,D,N,F,33,,Gorse Farm Estate,,Llandrindod Wells
+2025-04-15,269000,LD1 5HS,S,N,F,The Elms,,Craig Road,,Llandrindod Wells
+2025-04-14,185000,LD1 6BB,S,N,F,7,,Llethyr Bryn,,Llandrindod Wells
+2025-04-14,168000,LD1 5NB,S,N,F,2 Penrhiw Villa,,Wellington Road,,Llandrindod Wells
+2025-04-11,405000,LD1 6SQ,D,N,F,4,,Llanddewi Hills,Llanddewi,Llandrindod Wells
+2025-04-11,85000,LD1 5HW,F,N,L,Broadmead,Flat 2,Temple Street,,Llandrindod Wells
+2025-04-11,125000,LD1 5EF,T,N,F,37,,Lant Avenue,,Llandrindod Wells
+2025-04-10,100000,LD1 5LU,F,N,L,Singleton,3,Temple Drive,,Llandrindod Wells
+2025-04-09,260000,LD1 6DN,D,N,F,21,,Holcombe Drive,,Llandrindod Wells
+2025-03-31,279950,LD1 6LY,D,N,F,Chapel House,,,Newbridge On Wye,Llandrindod Wells
+2025-03-28,400000,LD1 6DX,D,N,F,7,,Church Land,Llanyre,Llandrindod Wells
+2025-03-28,140000,LD1 5YE,S,N,F,15,,Llanfawr Close,,Llandrindod Wells
+2025-03-28,300000,LD1 5PT,S,N,F,Tanglewood,,,Howey,Llandrindod Wells
+2025-03-27,423000,LD1 5PU,D,N,F,Pantglas,,,Howey,Llandrindod Wells
+2025-03-24,325000,LD1 6HT,D,N,F,Grovenbury,,,Newbridge On Wye,Llandrindod Wells
+2025-03-24,105000,LD1 6AU,F,N,L,South Court,Flat 4,Park Terrace,,Llandrindod Wells
+2025-03-20,166000,LD1 6BN,D,N,F,2,,Hillcrest Rise,,Llandrindod Wells
+2025-03-20,440000,LD1 5SW,D,N,F,Ty Afon,,,Penybont,Llandrindod Wells
+2025-03-13,155000,LD1 6RY,S,N,F,15,,Guidfa Meadows,Crossgates,Llandrindod Wells
+2025-03-13,110000,LD1 5BU,D,N,F,Tremont Court,1,Tremont Road,,Llandrindod Wells
+2025-03-12,344300,LD1 6PD,D,N,F,Tawelfan,,,Nant Glas,Llandrindod Wells
+2025-03-07,190000,LD1 6NE,S,N,F,23,,Meadowlands,Newbridge On Wye,Llandrindod Wells
+2025-03-07,265000,LD1 5TL,D,N,F,Church House,,,Dolau,Llandrindod Wells
+2025-03-03,279950,LD1 5EB,D,N,F,Dunblair,,Tremont Road,,Llandrindod Wells
+2025-02-28,130000,LD1 5YA,T,N,F,11,,Trefonen Way,,Llandrindod Wells
+2025-02-28,168000,LD1 5BW,S,N,F,Parc Yr Ar Fau,,Tremont Road,,Llandrindod Wells
+2025-02-21,392500,LD1 6DX,D,N,F,4,,Church Land,Llanyre,Llandrindod Wells
+2025-02-21,233000,LD1 5AF,S,N,F,4,,Dulas Bank,,Llandrindod Wells
+2025-02-20,68000,LD1 5ES,F,N,L,Mangalore,Flat 6,Spa Road East,,Llandrindod Wells
+2025-02-14,148000,LD1 6BT,S,N,F,6,,Nelson Street,,Llandrindod Wells
+2025-02-14,100000,LD1 6AG,F,N,L,Spa Heights,Flat 5,High Street,,Llandrindod Wells
+2025-02-14,225000,LD1 5UD,D,N,F,Mithil Cottage,,,Llandegley,Llandrindod Wells
+2025-02-14,325000,LD1 5TE,D,N,F,The Sycamores,2,,Dolau,Llandrindod Wells
+2025-02-12,425000,LD1 5UD,D,N,F,Ashlea,,,Llandegley,Llandrindod Wells
+2025-02-10,165000,LD1 6PF,T,N,F,2,,Ddole Road,,Llandrindod Wells
+2025-02-07,295000,LD1 6SQ,D,Y,F,6,,Llanddewi Hills,Llanddewi,Llandrindod Wells
+2025-02-07,155000,LD1 6BB,D,N,F,16,,Llethyr Bryn,,Llandrindod Wells
+2025-02-07,275000,LD1 5RB,D,N,F,7,,Goylands Close,,Llandrindod Wells
+2025-02-07,165000,LD1 5NX,T,N,F,2,,Maple Ridge Close,,Llandrindod Wells
+2025-02-05,155000,LD1 6DN,D,N,F,13,,Holcombe Drive,,Llandrindod Wells
+2025-02-05,268000,LD1 5SH,D,N,F,39,,Gorse Farm Estate,,Llandrindod Wells
+2025-01-30,270000,LD1 5PS,T,N,F,Upper Caerddu,4,,Howey,Llandrindod Wells
+2025-01-29,385000,LD1 6SE,D,N,F,Castlemount,,,Llanddewi,Llandrindod Wells
+2025-01-21,152100,LD1 6DG,T,N,F,10,,Hillcrest Drive,,Llandrindod Wells
+2025-01-17,450000,LD1 6PA,D,N,F,Swn Y Don,,,Nant Glas,Llandrindod Wells
+2025-01-17,75000,LD1 5LR,F,N,L,York House,4,Temple Avenue,,Llandrindod Wells
+2025-01-16,470000,LD1 5HE,D,N,F,The Old Rectory,,Arlais Road,,Llandrindod Wells
+2025-01-10,80000,LD1 5HU,F,N,L,Sunnycroft,Flat 6B,Princes Avenue,,Llandrindod Wells
+2025-01-08,545000,LD1 6SP,D,N,F,Dolyfelin,,,Llanbister Road,Llandrindod Wells
+2025-01-06,370000,LD1 6SN,D,N,F,Heartsease Bungalow,,,Llanddewi,Llandrindod Wells
+2024-12-19,200000,LD1 5LL,T,N,F,Dingleside,,Montpellier Park,,Llandrindod Wells
+2024-12-19,140000,LD1 5HB,S,N,F,12,,Brynteg,,Llandrindod Wells
+2024-12-16,147500,LD1 6DB,T,N,F,23,,Brookland Road,,Llandrindod Wells
+2024-12-16,220000,LD1 5DE,D,N,F,47,,Woodlands,,Llandrindod Wells
+2024-12-13,245000,LD1 6SE,D,N,F,School House,,,Llanddewi,Llandrindod Wells
+2024-12-13,240000,LD1 5BX,S,N,F,28,,Ithon View,,Llandrindod Wells
+2024-12-10,290000,LD1 6TA,D,N,F,37,,Meadow Rise,Crossgates,Llandrindod Wells
+2024-12-05,140000,LD1 5DB,T,N,F,Seaton,,Tremont Road,,Llandrindod Wells
+2024-12-04,285000,LD1 5SH,D,N,F,55,,Gorse Farm Estate,,Llandrindod Wells
+2024-12-04,101000,LD1 5DG,F,N,L,Victoria Arcade,Ferndale Furnishers,Middleton Street,,Llandrindod Wells
+2024-12-03,270000,LD1 6DL,D,N,F,The Corner House,,Hillcrest Avenue,,Llandrindod Wells
+2024-11-29,365000,LD1 5SA,D,N,F,Banc Y Defaid,,,Franksbridge,Llandrindod Wells
+2024-11-27,275000,LD1 6SQ,D,Y,F,17,,Llanddewi Hills,Llanddewi,Llandrindod Wells
+2024-11-22,253000,LD1 5NP,D,N,F,14,,Cefn Morfa,,Llandrindod Wells
+2024-11-22,157500,LD1 5HB,S,N,F,16,,Brynteg,,Llandrindod Wells
+2024-11-22,235000,LD1 5AF,S,N,F,12,,Dulas Bank,,Llandrindod Wells
+2024-11-19,163000,LD1 6DB,T,N,F,1,,Brookland Road,,Llandrindod Wells
+2024-11-18,98000,LD1 5LP,F,N,L,Rosslare Garden,Flat A,Temple Avenue,,Llandrindod Wells
+2024-11-15,133000,LD1 6BB,T,N,F,5,,Llethyr Bryn,,Llandrindod Wells
+2024-11-11,180000,LD1 6HY,D,N,F,2,,Robin Close,Newbridge On Wye,Llandrindod Wells
+2024-11-08,215000,LD1 6SQ,S,Y,F,11,,Llanddewi Hills,Llanddewi,Llandrindod Wells
+2024-11-08,180000,LD1 6AH,S,N,F,Gareon,,Oxford Road,,Llandrindod Wells
+2024-11-04,126500,LD1 6AN,T,N,F,Casela,,Dyffryn Road,,Llandrindod Wells
+2024-11-04,300000,LD1 5NW,D,N,F,Goldcrest,,Pentrosfa Crescent,,Llandrindod Wells
+2024-11-01,167500,LD1 6LG,T,N,F,Windsor Cottage,1,,Newbridge On Wye,Llandrindod Wells
+2024-11-01,110000,LD1 5YB,T,N,F,24,,Trefonen Avenue,,Llandrindod Wells
+2024-10-30,386500,LD1 6UN,D,N,F,Upper Caeglas,,,Llanbister,Llandrindod Wells
+2024-10-28,295000,LD1 5TT,D,N,F,Dolbarcut,,,Crossgates,Llandrindod Wells
+2024-10-28,155000,LD1 5BH,S,N,F,Quinta Cottage,,Tremont Road,,Llandrindod Wells
+2024-10-28,260000,LD1 5AF,D,N,F,19,,Dulas Bank,,Llandrindod Wells
+2024-10-25,224000,LD1 6DW,D,N,F,30,,Holcombe Avenue,,Llandrindod Wells
+2024-10-25,215000,LD1 5NZ,S,N,F,19,,Dolydd Pentrosfa,,Llandrindod Wells
+2024-10-25,149000,LD1 5HB,S,N,F,18,,Brynteg,,Llandrindod Wells
+2024-10-23,359000,LD1 6YS,D,N,F,5,,,Llaithddu,Llandrindod Wells
+2024-10-10,204000,LD1 5NT,S,N,F,15,,Lakeside Avenue,,Llandrindod Wells
+2024-10-09,98000,LD1 6AG,F,N,L,Spa Heights,Flat 1,High Street,,Llandrindod Wells
+2024-10-09,120000,LD1 5LU,F,N,L,Carlyon,Flat 4,Temple Drive,,Llandrindod Wells
+2024-10-09,225000,LD1 5BX,S,N,F,2,,Ithon View,,Llandrindod Wells
+2024-10-04,150000,LD1 6LD,T,N,F,Cambrian Cottage,,,Newbridge On Wye,Llandrindod Wells
+2024-10-04,122500,LD1 5PN,T,N,F,The Pines,,,Howey,Llandrindod Wells
+2024-10-03,200000,LD1 6EN,S,N,F,1,,Star Villas,Nantmel,Llandrindod Wells
+2024-10-03,220000,LD1 5TL,D,N,F,The Stables,,,Dolau,Llandrindod Wells
+2024-09-25,475000,LD1 6YS,D,N,F,Stables,,,Llaithddu,Llandrindod Wells
+2024-09-24,290000,LD1 5NL,D,N,F,7,,Pentrosfa Road,,Llandrindod Wells
+2024-09-20,161000,LD1 6AN,T,N,F,Tyntyndaer,,Dyffryn Road,,Llandrindod Wells
+2024-09-16,367500,LD1 6SE,D,N,F,Llwyn-Teg,,,Llanddewi,Llandrindod Wells
+2024-09-16,240000,LD1 6LF,S,N,F,Knapplands,29,,Newbridge On Wye,Llandrindod Wells
+2024-09-16,287500,LD1 5NW,D,N,F,Dundry,,Pentrosfa Crescent,,Llandrindod Wells
+2024-09-13,70000,LD1 6AG,F,N,L,Cemlyn House,Flat 3,High Street,,Llandrindod Wells
+2024-09-06,185000,LD1 5TF,T,N,F,1,,Kingshead,Dolau,Llandrindod Wells
+2024-09-05,125000,LD1 5LT,T,N,F,10,,Alexandra Road,,Llandrindod Wells
+2024-09-04,240000,LD1 5BF,D,N,F,38,,Camddwr Rise,,Llandrindod Wells
+2024-09-03,255000,LD1 5RY,D,N,F,The Grange,,,Hundred House,Llandrindod Wells
+2024-08-30,270000,LD1 5NZ,D,N,F,37,,Dolydd Pentrosfa,,Llandrindod Wells
+2024-08-23,100000,LD1 6DY,S,N,F,3,,Penrhiw Villas,Llanyre,Llandrindod Wells
+2024-08-19,215000,LD1 6BB,S,N,F,10,,Llethyr Bryn,,Llandrindod Wells
+2024-08-13,202500,LD1 5RY,S,N,F,5,,Colwyn Terrace,Hundred House,Llandrindod Wells
+2024-08-01,225000,LD1 5SA,S,N,F,Dol Y Menyn,,,Franksbridge,Llandrindod Wells
+2024-08-01,355000,LD1 5RB,D,N,F,16,,Goylands Close,,Llandrindod Wells
+2024-07-31,285000,LD1 6EP,S,N,F,19,,Crabtree Green,,Llandrindod Wells
+2024-07-25,623000,LD1 6NT,D,N,F,The Old Mill,,,Llanwrthwl,Llandrindod Wells
+2024-07-19,230000,LD1 6SA,D,N,F,"The Ashby, 1",,Greenway Close,Crossgates,Llandrindod Wells
+2024-07-19,230000,LD1 5HT,S,N,F,Arlais,,Broadway,,Llandrindod Wells
+2024-07-18,220000,LD1 5PH,D,N,F,Wingate,,,Howey Road,Llandrindod Wells
+2024-07-12,222500,LD1 5NT,D,N,F,48,,Lakeside Avenue,,Llandrindod Wells
+2024-07-12,270000,LD1 5NL,D,N,F,20,,Pentrosfa Road,,Llandrindod Wells
+2024-07-11,535000,LD1 6LY,D,N,F,Wyeview,,,Newbridge On Wye,Llandrindod Wells
+2024-07-11,150000,LD1 6LF,T,N,F,Knapplands,1,,Newbridge On Wye,Llandrindod Wells
+2024-07-09,100000,LD1 6RE,T,N,F,2,,Station Terrace,Crossgates,Llandrindod Wells
+2024-07-09,360000,LD1 5TB,D,N,F,Glanyrafon,,,Dolau,Llandrindod Wells
+2024-07-08,39999,LD1 5LP,F,N,L,Rosslare,Flat 1A,Temple Avenue,,Llandrindod Wells
+2024-07-05,500000,LD1 6PA,D,N,F,Larches,,,Nant Glas,Llandrindod Wells
+2024-06-28,245000,LD1 6AN,D,N,F,Gwerncynydd,,Dyffryn Road,,Llandrindod Wells
+2024-06-28,435000,LD1 5SE,D,N,F,The Glais,,,Glascwm,Llandrindod Wells
+2024-06-25,281000,LD1 6RD,D,N,F,The Grange,,,Crossgates,Llandrindod Wells
+2024-06-25,322500,LD1 5NA,D,N,F,Marroc,,Grosvenor Road,,Llandrindod Wells
+2024-06-25,170000,LD1 5EF,S,N,F,47,,Lant Avenue,,Llandrindod Wells
+2024-06-25,170000,LD1 5EF,S,N,F,47,,Lant Avenue,,Llandrindod Wells
+2024-06-13,125000,LD1 5NB,T,N,F,Llandaff House,,Wellington Road,,Llandrindod Wells
+2024-05-31,225000,LD1 6YS,D,N,F,Gorsty,,,Llaithddu,Llandrindod Wells
+2024-05-31,232500,LD1 5UW,D,N,F,New Cottage,,,Llanbister Road,Llandrindod Wells
+2024-05-31,170000,LD1 5NX,S,N,F,15,,Maple Ridge Close,,Llandrindod Wells
+2024-05-30,345000,LD1 5LF,D,N,F,7,,Brookfields,Cefnllys,Llandrindod Wells
+2024-05-24,250000,LD1 6DT,D,N,F,6,,Cortay Park,Llanyre,Llandrindod Wells
+2024-05-24,155000,LD1 5NB,F,N,F,Leominster House,,Wellington Road,,Llandrindod Wells
+2024-05-24,180000,LD1 5EH,T,N,F,25,,Lant Avenue,,Llandrindod Wells
+2024-05-17,265000,LD1 6SQ,S,Y,F,13,,Llanddewi Hills,Llanddewi,Llandrindod Wells
+2024-05-17,80000,LD1 5UA,T,N,F,2,,Ithon Terrace,Penybont,Llandrindod Wells
+2024-05-15,300000,LD1 6DX,D,N,F,2,,Church Land,Llanyre,Llandrindod Wells
+2024-05-13,225000,LD1 5NW,S,N,F,Lindenbar,,Pentrosfa Crescent,,Llandrindod Wells
+2024-05-13,295500,LD1 5HT,D,N,F,Aberdovey,,Broadway,,Llandrindod Wells
+2024-05-13,235000,LD1 5EE,D,N,F,Southover,,Beaufort Road,,Llandrindod Wells
+2024-05-13,300000,LD1 5DE,D,N,F,6,,Woodlands,,Llandrindod Wells
+2024-05-10,250000,LD1 6SQ,S,Y,F,9,,Llanddewi Hills,Llanddewi,Llandrindod Wells
+2024-05-10,163000,LD1 6BB,S,N,F,9,,Llethyr Bryn,,Llandrindod Wells
+2024-05-10,118000,LD1 5YA,T,N,F,30,,Trefonen Way,,Llandrindod Wells
+2024-05-10,340000,LD1 5NZ,D,N,F,7,,Dolydd Pentrosfa,,Llandrindod Wells
+2024-05-08,225000,LD1 6NN,D,N,F,Wyeside,,,Llanwrthwl,Llandrindod Wells
+2024-05-03,310000,LD1 6HN,D,N,F,"The Grovelands, 6",,Oaktree View,Crossgates,Llandrindod Wells
+2024-05-03,260000,LD1 6EW,D,N,F,Craignant,Pavilla 2,,Nantmel,Llandrindod Wells
+2024-04-29,120000,LD1 5YB,T,N,F,60,,Trefonen Avenue,,Llandrindod Wells
+2024-04-26,350000,LD1 6LY,D,N,F,Mid Wales House,,,Newbridge On Wye,Llandrindod Wells
+2024-04-26,210000,LD1 5AF,D,N,F,18,,Dulas Bank,,Llandrindod Wells
+2024-04-24,286000,LD1 6EP,D,N,F,18,,Crabtree Green,,Llandrindod Wells
+2024-04-23,54500,LD1 6AS,F,N,L,The Grove,Flat 3,Ithon Road,,Llandrindod Wells
+2024-04-19,236500,LD1 6SQ,S,N,F,10,,Llanddewi Hills,Llanddewi,Llandrindod Wells
+2024-04-19,267000,LD1 6RJ,D,N,F,14,,Badgers Green,Crossgates,Llandrindod Wells
+2024-04-19,350000,LD1 5HT,D,N,F,Tudor House,,Broadway,,Llandrindod Wells
+2024-04-19,148000,LD1 5BN,S,N,F,Gingerbread House,,Tremont Road,,Llandrindod Wells
+2024-04-18,340000,LD1 5UW,D,N,F,Cwmvilla,,,Llanbister Road,Llandrindod Wells
+2024-04-08,153500,LD1 6BE,S,N,F,6,,Lon Cwm,,Llandrindod Wells
+2024-03-27,69000,LD1 5EY,F,N,L,Belgrave House,Flat 7,Spa Road,,Llandrindod Wells
+2024-03-22,560000,LD1 6RU,D,N,F,Cefn Farmhouse,,,Crossgates,Llandrindod Wells
+2024-03-22,585000,LD1 6EA,D,N,F,Highbury House,,,Llanyre,Llandrindod Wells
+2024-03-21,385000,LD1 6EN,D,N,F,Ty Seren,5,,Nantmel,Llandrindod Wells
+2024-03-11,55000,LD1 6AY,F,N,L,Granville,Flat 7,Park Terrace,,Llandrindod Wells
+2024-03-08,120000,LD1 5YD,S,N,F,2,,The Rise,,Llandrindod Wells
+2024-03-08,150000,LD1 5RB,S,N,F,19A,,Goylands Close,,Llandrindod Wells
+2024-02-26,230000,LD1 6BN,D,N,F,1,,Hillcrest Rise,,Llandrindod Wells
+2024-02-26,110000,LD1 5HT,F,N,L,Penrhyn,8,Broadway,,Llandrindod Wells
+2024-02-23,187500,LD1 6PE,S,N,F,Bluebell Cottages,4,Ddole Road,,Llandrindod Wells
+2024-02-23,124000,LD1 5NG,T,N,F,5,,Wellington Terrace,,Llandrindod Wells
+2024-02-19,209500,LD1 6BX,D,N,F,2,,Laurel Gardens,,Llandrindod Wells
+2024-02-16,205000,LD1 5DE,S,N,F,19,,Woodlands,,Llandrindod Wells
+2024-02-14,203000,LD1 6BL,S,N,F,Norton Villa,2,Waterloo Road,,Llandrindod Wells
+2024-02-14,72000,LD1 6AY,F,N,L,Granville,Flat 6,Park Terrace,,Llandrindod Wells
+2024-02-13,128000,LD1 5YB,T,N,F,73,,Trefonen Avenue,,Llandrindod Wells
+2024-02-13,125000,LD1 5HT,F,N,L,Penrhyn,13,Broadway,,Llandrindod Wells
+2024-02-13,125000,LD1 5HT,F,N,L,Penrhyn,14,Broadway,,Llandrindod Wells
+2024-02-13,265000,LD1 5EB,S,N,F,Glaslyn,,Tremont Road,,Llandrindod Wells
+2024-01-31,230000,LD1 6RR,D,N,F,Guidfa Ridge,,Rock Road,Crossgates,Llandrindod Wells
+2024-01-31,270000,LD1 5NZ,D,N,F,3,,Dolydd Pentrosfa,,Llandrindod Wells
+2024-01-26,350000,LD1 5NA,S,N,F,Wayside,,Grosvenor Road,,Llandrindod Wells
+2024-01-25,230000,LD1 6LN,D,N,F,Orchard Bungalow,,,Newbridge On Wye,Llandrindod Wells
+2024-01-23,250000,LD1 5DE,D,N,F,29,,Woodlands,,Llandrindod Wells
+2024-01-19,190000,LD1 6RP,S,N,F,4,,Tanyfron,Crossgates,Llandrindod Wells
+2024-01-19,274000,LD1 5EB,D,N,F,Gwenfron,,Tremont Road,,Llandrindod Wells
+2024-01-09,122000,LD1 6RF,D,N,F,Rose Cottage,,,Crossgates,Llandrindod Wells
+2024-01-08,255000,LD1 5BZ,T,N,F,18,,Clywedog Drive,,Llandrindod Wells
+2024-01-05,235000,LD1 5BY,D,N,F,Claremont,,Tremont Road,,Llandrindod Wells
+2023-12-15,345000,LD1 5LE,D,N,F,Trefnant,,Cefnllys Lane,,Llandrindod Wells
+2023-12-14,223000,LD1 6ST,D,N,F,Black Ditch,,,Llanbister,Llandrindod Wells
+2023-12-14,288000,LD1 6LZ,D,N,F,7,,Clos Y Berllan,Newbridge On Wye,Llandrindod Wells
+2023-12-04,240000,LD1 5NL,D,N,F,3,,Pentrosfa Road,,Llandrindod Wells
+2023-12-01,172000,LD1 5EF,T,N,F,39,,Lant Avenue,,Llandrindod Wells
+2023-11-29,365000,LD1 5LE,D,N,F,Quarter Green,,Cefnllys Lane,,Llandrindod Wells
+2023-11-27,280000,LD1 5SH,D,N,F,4,,Gorse Farm Estate,,Llandrindod Wells
+2023-11-23,255000,LD1 6EA,D,N,F,Goudhurst,,,Llanyre,Llandrindod Wells
+2023-11-23,232500,LD1 6DT,D,N,F,7,,Cortay Park,Llanyre,Llandrindod Wells
+2023-11-22,436000,LD1 5SW,D,N,F,Gattyn Lodge,,,Penybont,Llandrindod Wells
+2023-11-22,320000,LD1 5NZ,D,N,F,30,,Dolydd Pentrosfa,,Llandrindod Wells
+2023-11-20,127000,LD1 6AN,D,N,F,Sunnycrest,,Dyffryn Road,,Llandrindod Wells
+2023-11-17,95000,LD1 5HG,F,N,L,The Beaufort,Flat 3,Temple Street,,Llandrindod Wells
+2023-11-10,44500,LD1 6AG,F,N,L,The New Central,Flat 9,High Street,,Llandrindod Wells
+2023-11-03,530000,LD1 5SP,D,N,F,Nursery Cottage,,,Penybont,Llandrindod Wells
+2023-10-31,170000,LD1 5HF,S,N,F,Penn Lodge,,Temple Street,,Llandrindod Wells
+2023-10-27,180000,LD1 5NL,S,N,F,"The Haven, 18",,Pentrosfa Road,,Llandrindod Wells
+2023-10-12,262000,LD1 6UG,D,N,F,Tylcau,,,Llanbister Road,Llandrindod Wells
+2023-10-12,145000,LD1 6DP,T,N,F,92,,Holcombe Drive,,Llandrindod Wells
+2023-10-12,195000,LD1 5PN,D,N,F,The Lodge,,,Howey,Llandrindod Wells
+2023-10-12,275000,LD1 5LY,D,N,F,Greenacres,,Western Promenade,,Llandrindod Wells
+2023-10-06,210000,LD1 5NE,S,N,F,Greentiles,,Grosvenor Close,,Llandrindod Wells
+2023-10-04,360000,LD1 5NZ,D,N,F,28,,Dolydd Pentrosfa,,Llandrindod Wells
+2023-09-27,605000,LD1 5RE,D,N,F,Corven Hall,,,Howey,Llandrindod Wells
+2023-09-22,155000,LD1 5PS,T,N,F,Upper Caerddu,3,,Howey,Llandrindod Wells
+2023-09-22,236500,LD1 5AF,S,N,F,8,,Dulas Bank,,Llandrindod Wells
+2023-09-22,590000,LD1 5AE,D,N,F,Pen Y Bryn,,Maelog Court,,Llandrindod Wells
+2023-09-20,65000,LD1 5LP,F,N,L,Rosslare,Flat 2,Temple Avenue,,Llandrindod Wells
+2023-09-13,345000,LD1 5UW,S,N,F,1,,Cwmygaist Cottages,Llanbister Road,Llandrindod Wells
+2023-09-07,220000,LD1 6AP,S,N,F,Pen Lone,,Victoria Road,,Llandrindod Wells
+2023-09-05,180000,LD1 5NE,S,N,F,Brynawel,,Grosvenor Close,,Llandrindod Wells
+2023-09-04,315500,LD1 5NA,D,N,F,Moorside,,Grosvenor Road,,Llandrindod Wells
+2023-09-01,375000,LD1 5RR,D,N,F,Llwynpinch,,,Hundred House,Llandrindod Wells
+2023-09-01,105000,LD1 5HT,F,N,F,Penrhyn,11,Broadway,,Llandrindod Wells
+2023-08-18,369000,LD1 5TG,D,N,F,The Crossing House,,,Dolau,Llandrindod Wells
+2023-08-16,122222,LD1 6YS,D,N,F,Pabyllwyd Ganol,,,Llaithddu,Llandrindod Wells
+2023-08-15,174500,LD1 6RS,D,N,F,West Grove,,,Crossgates,Llandrindod Wells
+2023-08-15,168727,LD1 6DH,D,N,F,Kinnoull,,Almond Avenue,,Llandrindod Wells
+2023-08-15,185000,LD1 6AH,S,N,F,Buriton House,,Oxford Road,,Llandrindod Wells
+2023-08-14,260000,LD1 5HS,T,N,F,Craig Y Nos,,Craig Road,,Llandrindod Wells
+2023-08-11,167500,LD1 6BE,S,N,F,9,,Lon Cwm,,Llandrindod Wells
+2023-08-09,185000,LD1 5EX,T,N,F,11,,Cedar Ridge,,Llandrindod Wells
+2023-08-07,195000,LD1 6LH,D,N,F,Tan-Y-Bryn,,,Newbridge On Wye,Llandrindod Wells
+2023-08-07,320000,LD1 5HT,S,N,F,Branscombe,,Broadway,,Llandrindod Wells
+2023-07-28,240000,LD1 6BY,S,N,F,Ventnor,,North Avenue,,Llandrindod Wells
+2023-07-28,227000,LD1 5NT,D,N,F,10,,Lakeside Avenue,,Llandrindod Wells
+2023-07-24,270000,LD1 5NZ,D,N,F,37,,Dolydd Pentrosfa,,Llandrindod Wells
+2023-07-21,150000,LD1 5HB,T,N,F,11,,Brynteg,,Llandrindod Wells
+2023-07-18,195000,LD1 5BX,S,N,F,13,,Ithon View,,Llandrindod Wells
+2023-07-17,450000,LD1 6LS,D,N,F,Spinney,,,Newbridge On Wye,Llandrindod Wells
+2023-07-14,147500,LD1 5YB,T,N,F,47,,Trefonen Avenue,,Llandrindod Wells
+2023-07-14,280000,LD1 5HE,D,N,F,Park House,,Arlais Road,,Llandrindod Wells
+2023-07-06,345000,LD1 6HS,D,N,F,Meadow Lane,,,Newbridge On Wye,Llandrindod Wells
+2023-06-30,155000,LD1 5BP,T,N,F,6,,Maple Terrace,,Llandrindod Wells
+2023-06-28,130000,LD1 5HS,S,N,F,The Elms,,Craig Road,,Llandrindod Wells
+2023-06-27,128000,LD1 5YA,T,N,F,31,,Trefonen Way,,Llandrindod Wells
+2023-06-26,53500,LD1 5HF,F,N,L,Belmont,Flat 5,Temple Street,,Llandrindod Wells
+2023-06-23,270000,LD1 5NA,S,N,F,Hendre,,Grosvenor Road,,Llandrindod Wells
+2023-06-19,260000,LD1 6AP,S,N,F,Sun Lea,,Victoria Road,,Llandrindod Wells
+2023-06-16,77000,LD1 5HG,F,N,L,The Beaufort,Flat 4,Temple Street,,Llandrindod Wells
+2023-06-13,650000,LD1 6UN,D,N,F,Great Moelfre,,,Llanbister,Llandrindod Wells
+2023-06-13,148000,LD1 5BL,S,N,F,1,,Boundary Terrace,,Llandrindod Wells
+2023-06-02,73000,LD1 6PE,F,N,L,Brookland Mews,3,Ddole Road,,Llandrindod Wells
+2023-06-01,160000,LD1 5LY,D,N,F,Claerwen,,Western Promenade,,Llandrindod Wells
+2023-05-31,375000,LD1 6AX,D,N,F,4,,Rock House Court,,Llandrindod Wells
+2023-05-28,220000,LD1 6PH,D,N,F,Cwm Bedw,The Barn,,Abbeycwmhir,Llandrindod Wells
+2023-05-26,230000,LD1 5AJ,S,N,F,11,,Afon Way,,Llandrindod Wells
+2023-05-15,106000,LD1 5LQ,S,N,F,Llwynon,,Alexandra Terrace,,Llandrindod Wells
+2023-05-09,262000,LD1 6SA,D,N,F,5,,Greenway Close,Crossgates,Llandrindod Wells
+2023-05-05,325000,LD1 6RY,D,N,F,Penally,,Guidfa Meadows,Crossgates,Llandrindod Wells
+2023-04-27,155000,LD1 5DA,T,N,F,Cartref,,Tremont Road,,Llandrindod Wells
+2023-04-19,205000,LD1 6AN,S,N,F,Collingwood,,Dyffryn Road,,Llandrindod Wells
+2023-04-17,125000,LD1 5LW,D,N,F,Maldwyn,,Montpellier Park,,Llandrindod Wells
+2023-04-12,365000,LD1 6PD,D,N,F,Shimver,,,Nant Glas,Llandrindod Wells
+2023-04-12,260000,LD1 5AL,D,N,F,Bryn Llwyd,,Pentrosfa,,Llandrindod Wells
+2023-04-05,435000,LD1 5RS,D,N,F,Church House,,,Hundred House,Llandrindod Wells
+2023-03-31,285000,LD1 6RS,D,N,F,Gwalia,,,Crossgates,Llandrindod Wells
+2023-03-31,115000,LD1 5RS,D,N,F,Ddole Bungalow,,,Hundred House,Llandrindod Wells
+2023-03-31,208000,LD1 5PP,D,N,F,Ballacraine Bungalow,,,Howey,Llandrindod Wells
+2023-03-31,250000,LD1 5NA,D,N,F,Piedmount,,Grosvenor Road,,Llandrindod Wells
+2023-03-31,115000,LD1 5HT,F,N,L,Penrhyn,2,Broadway,,Llandrindod Wells
+2023-03-30,32000,LD1 5HG,F,N,L,Derry More,Flat 4,Temple Street,,Llandrindod Wells
+2023-03-30,32000,LD1 5HG,F,N,L,Derry More,Flat 6,Temple Street,,Llandrindod Wells
+2023-03-23,185000,LD1 6TN,D,N,F,School Meadows,2,,Llanbister,Llandrindod Wells
+2023-03-21,128000,LD1 6BU,T,N,F,2,,New Street,,Llandrindod Wells
+2023-03-17,230000,LD1 6DN,D,N,F,53,,Holcombe Drive,,Llandrindod Wells
+2023-03-06,160000,LD1 5RY,S,N,F,9,,Colwyn Terrace,Hundred House,Llandrindod Wells
+2023-03-02,46500,LD1 5HG,F,N,L,Sorrento,Flat 1,Temple Street,,Llandrindod Wells
+2023-02-28,251000,LD1 6RN,S,N,F,Craig-Y-Lea,,,Gwystre,Llandrindod Wells
+2023-02-28,89000,LD1 6LB,S,N,F,Pendre,4,,Newbridge On Wye,Llandrindod Wells
+2023-02-27,230000,LD1 6DG,D,N,F,Yr Edw,,Hillcrest Drive,,Llandrindod Wells
+2023-02-24,385000,LD1 6EN,D,N,F,Maes Seren,1,,Nantmel,Llandrindod Wells
+2023-02-22,95000,LD1 5LU,F,N,L,Orielton,5,Temple Drive,,Llandrindod Wells
+2023-02-20,330000,LD1 6RJ,D,N,F,9,,Badgers Green,Crossgates,Llandrindod Wells
+2023-02-20,220000,LD1 5LQ,S,N,F,The Eyrie,,Alexandra Terrace,,Llandrindod Wells
+2023-02-20,80000,LD1 5LN,F,N,L,The Glen,Flat 2,Montpellier Park,,Llandrindod Wells
+2023-02-08,44000,LD1 6AG,F,N,L,The New Central,Flat 5,High Street,,Llandrindod Wells
+2023-02-03,322500,LD1 6LH,D,N,F,The Willows,,,Newbridge On Wye,Llandrindod Wells
+2023-02-03,310000,LD1 5SP,D,N,F,Bwlch Llwyn,,,Penybont,Llandrindod Wells
+2023-02-02,322500,LD1 5TE,D,N,F,Ty Nant,,,Dolau,Llandrindod Wells
+2023-02-01,165000,LD1 6BB,S,N,F,11,,Llethyr Bryn,,Llandrindod Wells
+2023-01-25,75000,LD1 5HU,F,N,L,Sunnycroft,Flat 6A,Princes Avenue,,Llandrindod Wells
+2023-01-20,500000,LD1 6NU,D,N,F,Cwm Tawel,,,Llanwrthwl,Llandrindod Wells
+2023-01-20,86000,LD1 6AG,F,N,L,Ystrad,Flat 2,High Street,,Llandrindod Wells
+2023-01-20,130000,LD1 5DP,T,N,F,Wrentham House,,Temple Street,,Llandrindod Wells
+2023-01-20,137000,LD1 5BH,T,N,F,Thornleigh,,Tremont Road,,Llandrindod Wells
+2023-01-12,385000,LD1 6PH,D,N,F,Forest Lodge,,,Abbeycwmhir,Llandrindod Wells
+2023-01-12,290000,LD1 6LH,D,N,F,Glannant,,,Newbridge On Wye,Llandrindod Wells
+2023-01-12,300000,LD1 5TL,S,N,F,Cwm Arran Mill,,,Dolau,Llandrindod Wells
+2023-01-06,310000,LD1 6RY,D,N,F,23,,Guidfa Meadows,Crossgates,Llandrindod Wells
+2023-01-06,160000,LD1 5LA,S,N,F,8,,Lant Avenue,,Llandrindod Wells
+2023-01-06,180000,LD1 5LA,S,N,F,19,,Lant Avenue,,Llandrindod Wells
+2022-12-16,145000,LD1 6LF,T,N,F,Knapplands,1,,Newbridge On Wye,Llandrindod Wells
+2022-12-16,51000,LD1 6AU,F,N,L,South Court,Flat 10,Park Terrace,,Llandrindod Wells
+2022-12-14,197500,LD1 5LA,S,N,F,4,,Lant Avenue,,Llandrindod Wells
+2022-12-09,155000,LD1 6DW,S,N,F,26,,Holcombe Avenue,,Llandrindod Wells
+2022-12-09,360000,LD1 5SA,S,N,F,Three Cottages,,,Franksbridge,Llandrindod Wells
+2022-12-09,85000,LD1 5NB,S,N,F,Oaklands,,Wellington Road,,Llandrindod Wells
+2022-12-09,105000,LD1 5HF,F,N,L,Flat 3 Newman Southall,,Temple Street,,Llandrindod Wells
+2022-12-05,320000,LD1 5SF,D,N,F,Woodbury,,,Cregrina,Llandrindod Wells
+2022-12-02,56000,LD1 6AG,F,N,L,The New Central,Flat 6,High Street,,Llandrindod Wells
+2022-11-25,115000,LD1 5HT,F,N,L,Broadway Towers,3,Broadway,,Llandrindod Wells
+2022-11-23,400000,LD1 6TN,D,N,F,Old Turnpike House,,,Llanbister,Llandrindod Wells
+2022-11-21,60000,LD1 6AG,F,N,L,Cemlyn House,Flat 5,High Street,,Llandrindod Wells
+2022-11-21,200000,LD1 5BA,S,N,F,14,,Hernog Close,,Llandrindod Wells
+2022-11-14,345000,LD1 5LF,D,N,F,Manston,,Brookfields,Cefnllys,Llandrindod Wells
+2022-11-10,330000,LD1 5RG,D,N,F,Brynheulog,,,Howey,Llandrindod Wells
+2022-11-10,350000,LD1 5LE,D,N,F,Gwenllian,,Cefnllys Lane,,Llandrindod Wells
+2022-11-09,220000,LD1 6RH,D,N,F,Cefn Cae,,,Crossgates,Llandrindod Wells
+2022-11-09,53000,LD1 5HG,F,N,L,Derry More,Flat 8,Temple Street,,Llandrindod Wells
+2022-11-09,237000,LD1 5DE,D,N,F,54,,Woodlands,,Llandrindod Wells
+2022-11-08,360000,LD1 6RN,S,N,F,Birch House,,,Gwystre,Llandrindod Wells
+2022-11-08,110000,LD1 6AU,F,N,L,South Court,Flat 1,Park Terrace,,Llandrindod Wells
+2022-11-07,210000,LD1 5BX,S,N,F,9,,Ithon View,,Llandrindod Wells
+2022-11-04,86500,LD1 5ES,F,N,L,Mangalore,Flat 5,Spa Road East,,Llandrindod Wells
+2022-11-04,255000,LD1 5DE,D,N,F,12,,Woodlands,,Llandrindod Wells
+2022-11-03,590000,LD1 6EH,D,N,F,Y Garth,,,Nantmel,Llandrindod Wells
+2022-10-31,225000,LD1 6NE,D,N,F,1,,Meadowlands,Newbridge On Wye,Llandrindod Wells
+2022-10-27,225000,LD1 5BX,S,N,F,7,,Ithon View,,Llandrindod Wells
+2022-10-21,275000,LD1 6NU,D,N,F,Dolgam Bungalow,,,Llanwrthwl,Llandrindod Wells
+2022-10-21,220000,LD1 5UW,S,N,F,Hova Cottage,,,Llanbister Road,Llandrindod Wells
+2022-10-20,145000,LD1 5HB,T,N,F,10,,Brynteg,,Llandrindod Wells
+2022-10-14,195000,LD1 6BW,T,N,F,6,,Hillcrest Close,,Llandrindod Wells
+2022-10-13,55000,LD1 6AG,F,N,L,The New Central,Flat 7,High Street,,Llandrindod Wells
+2022-10-11,147500,LD1 5PY,S,N,F,14,,Llwynbrain Villas,Howey,Llandrindod Wells
+2022-10-10,152500,LD1 5NG,T,N,F,2,,Wellington Terrace,,Llandrindod Wells
+2022-10-07,345000,LD1 5LF,D,N,F,12,,Brookfields,Cefnllys,Llandrindod Wells
+2022-09-30,305000,LD1 5LJ,D,N,F,Brynhir,,Cefnllys Lane,,Llandrindod Wells
+2022-09-30,108000,LD1 5HF,F,N,L,Flat 4 Newman Southall,,Temple Street,,Llandrindod Wells
+2022-09-29,75000,LD1 5HF,F,N,L,Belmont,Flat 10,Temple Street,,Llandrindod Wells
+2022-09-28,275000,LD1 6TB,D,N,F,4,,Village Close,Crossgates,Llandrindod Wells
+2022-09-23,272500,LD1 5NZ,D,Y,F,40,,Dolydd Pentrosfa,,Llandrindod Wells
+2022-09-20,295000,LD1 5TE,D,N,F,Derwydd,,,Dolau,Llandrindod Wells
+2022-09-20,295000,LD1 5NL,D,N,F,40,,Pentrosfa Road,,Llandrindod Wells
+2022-09-20,155000,LD1 5LQ,T,N,F,Hardwicke,,Alexandra Terrace,,Llandrindod Wells
+2022-09-13,235000,LD1 5EL,S,N,F,Glendoran,,Lant Avenue,,Llandrindod Wells
+2022-09-12,310000,LD1 5LP,D,N,F,Sunnymead,,Temple Avenue,,Llandrindod Wells
+2022-09-07,297000,LD1 5NW,D,N,F,6,,Pentrosfa Crescent,,Llandrindod Wells
+2022-09-05,153000,LD1 6BE,S,N,F,12,,Lon Cwm,,Llandrindod Wells
+2022-09-01,360000,LD1 6SE,D,N,F,Llwyn-Teg,,,Llanddewi,Llandrindod Wells
+2022-08-31,212000,LD1 6RR,D,N,F,Fernhill,,Rock Road,Crossgates,Llandrindod Wells
+2022-08-31,109600,LD1 5DL,F,N,L,Imperial Buildings,1A,Temple Street,,Llandrindod Wells
+2022-08-26,220000,LD1 6RY,D,N,F,20,,Guidfa Meadows,Crossgates,Llandrindod Wells
+2022-08-26,290000,LD1 6EP,D,N,F,10,,Crabtree Green,,Llandrindod Wells
+2022-08-26,198000,LD1 5NZ,S,N,F,15,,Dolydd Pentrosfa,,Llandrindod Wells
+2022-08-19,375000,LD1 6NF,D,N,F,"The Vicarage, 2",,Highbury Fields,Llanyre,Llandrindod Wells
+2022-08-19,295000,LD1 5EW,D,N,F,13,,Oakridge Drive,,Llandrindod Wells
+2022-08-19,325000,LD1 5AN,D,N,F,3,,Rainbow View,,Llandrindod Wells
+2022-08-19,225000,LD1 5AJ,S,N,F,11,,Afon Way,,Llandrindod Wells
+2022-08-18,365000,LD1 5SA,D,N,F,Cae Yr Adar,,,Franksbridge,Llandrindod Wells
+2022-08-15,600000,LD1 6RF,D,N,F,Guidfa House,,,Crossgates,Llandrindod Wells
+2022-08-12,285000,LD1 5NW,D,N,F,8,,Pentrosfa Crescent,,Llandrindod Wells
+2022-08-12,250000,LD1 5EW,S,N,F,11,,Oakridge Drive,,Llandrindod Wells
+2022-08-10,365000,LD1 5SH,D,N,F,10,,Gorse Farm Estate,,Llandrindod Wells
+2022-08-08,215000,LD1 6LF,S,N,F,Knapplands,30,,Newbridge On Wye,Llandrindod Wells
+2022-08-05,150000,LD1 5RA,T,N,F,5,,Mill View Close,Howey,Llandrindod Wells
+2022-08-03,450000,LD1 5TE,D,N,F,Henryd,,,Dolau,Llandrindod Wells
+2022-08-02,60000,LD1 5HF,F,N,L,Belmont,Flat 11,Temple Street,,Llandrindod Wells
+2022-08-02,71000,LD1 5HF,F,N,L,Belmont,Flat 9,Temple Street,,Llandrindod Wells
+2022-07-29,299950,LD1 6DN,D,N,F,52,,Holcombe Drive,,Llandrindod Wells
+2022-07-29,80000,LD1 5LU,F,N,L,Orielton,4,Temple Drive,,Llandrindod Wells
+2022-07-29,85000,LD1 5HG,F,N,L,The Beaufort,Flat 5,Temple Street,,Llandrindod Wells
+2022-07-27,90000,LD1 5HG,F,N,L,The Beaufort,Flat 6,Temple Street,,Llandrindod Wells
+2022-07-22,230000,LD1 6LQ,S,N,F,1B,,Cae Nant,Newbridge On Wye,Llandrindod Wells
+2022-07-22,225000,LD1 5BZ,S,N,F,13,,Clywedog Drive,,Llandrindod Wells
+2022-07-19,107000,LD1 5ES,F,N,L,Mangalore,Flat 2,Spa Road East,,Llandrindod Wells
+2022-07-14,590000,LD1 6SE,D,N,F,Crofty Perthy,,,Llanddewi,Llandrindod Wells
+2022-07-14,302000,LD1 5HS,T,N,F,Silverdale,,Craig Road,,Llandrindod Wells
+2022-07-12,200000,LD1 6DT,D,N,F,29,,Cortay Park,Llanyre,Llandrindod Wells
+2022-07-12,301000,LD1 5PU,D,N,F,Pen Y Cae,,,Howey,Llandrindod Wells
+2022-07-11,343000,LD1 6SE,S,N,F,The Seat,,,Llanddewi,Llandrindod Wells
+2022-07-08,210500,LD1 5NZ,S,N,F,14,,Dolydd Pentrosfa,,Llandrindod Wells
+2022-07-07,440000,LD1 5UB,D,N,F,Swydd Villa,,,Penybont,Llandrindod Wells
+2022-07-01,190000,LD1 5PY,S,N,F,2,,Llwynbrain Villas,Howey,Llandrindod Wells
+2022-07-01,160000,LD1 5HB,S,N,F,9,,Brynteg,,Llandrindod Wells
+2022-06-27,124000,LD1 6LB,S,N,F,Pendre,4,,Newbridge On Wye,Llandrindod Wells
+2022-06-24,220000,LD1 6DT,D,N,F,12A,,Cortay Park,Llanyre,Llandrindod Wells
+2022-06-24,90000,LD1 6AY,F,N,L,Granville,Flat 2,Park Terrace,,Llandrindod Wells
+2022-06-24,575000,LD1 5LE,D,N,F,The Shaws,,Cefnllys Lane,,Llandrindod Wells
+2022-06-17,360000,LD1 6PH,D,N,F,Cross Cottage,,,Abbeycwmhir,Llandrindod Wells
+2022-06-17,66000,LD1 5LU,F,N,L,Carlyon,Flat 2,Temple Drive,,Llandrindod Wells
+2022-06-16,82000,LD1 5HF,F,N,L,Newman Southall,Flat 1,Temple Street,,Llandrindod Wells
+2022-06-13,256000,LD1 5AJ,D,N,F,12A,,Afon Way,,Llandrindod Wells
+2022-06-10,53000,LD1 5HF,F,N,L,Stoneleigh,Flat 3,Temple Street,,Llandrindod Wells
+2022-06-08,250000,LD1 5NZ,D,N,F,43,,Dolydd Pentrosfa,,Llandrindod Wells
+2022-06-07,525000,LD1 5TL,D,N,F,The Lane Cottage,,,Dolau,Llandrindod Wells
+2022-06-01,125000,LD1 5HT,F,N,L,Penrhyn,5,Broadway,,Llandrindod Wells
+2022-05-31,183000,LD1 6RS,S,N,F,Grove House,2,,Crossgates,Llandrindod Wells
+2022-05-31,240000,LD1 6EP,D,N,F,21,,Crabtree Green,,Llandrindod Wells
+2022-05-31,220000,LD1 5LA,S,N,F,17,,Lant Avenue,,Llandrindod Wells
+2022-05-27,120000,LD1 6BD,S,N,F,14,,Ithon Close,,Llandrindod Wells
+2022-05-26,245000,LD1 6EA,D,N,F,Foxgloves,,,Llanyre,Llandrindod Wells
+2022-05-25,225000,LD1 5RB,D,N,F,12,,Goylands Close,,Llandrindod Wells
+2022-05-23,393000,LD1 5TE,D,N,F,Maes Villa,,,Dolau,Llandrindod Wells
+2022-05-18,228500,LD1 6DB,S,N,F,Volga,,Brookland Road,,Llandrindod Wells
+2022-05-18,386000,LD1 5SH,D,N,F,15,,Gorse Farm Estate,,Llandrindod Wells
+2022-05-18,325000,LD1 5NZ,D,N,F,31,,Dolydd Pentrosfa,,Llandrindod Wells
+2022-05-16,85000,LD1 6AG,F,N,L,Spa Heights,Flat 7,High Street,,Llandrindod Wells
+2022-05-13,375000,LD1 5AN,D,N,F,4,,Rainbow View,,Llandrindod Wells
+2022-05-06,157500,LD1 6BE,S,N,F,9,,Lon Cwm,,Llandrindod Wells
+2022-05-05,155000,LD1 6BE,S,N,F,6,,Lon Cwm,,Llandrindod Wells
+2022-05-05,530000,LD1 5SF,D,N,F,Penarth,,,Cregrina,Llandrindod Wells
+2022-04-29,315000,LD1 6RJ,D,N,F,7,,Badgers Green,Crossgates,Llandrindod Wells
+2022-04-29,240000,LD1 5EY,T,N,F,Grantley,,Spa Road,,Llandrindod Wells
+2022-04-28,240000,LD1 5NX,D,N,F,6,,Maple Ridge Close,,Llandrindod Wells
+2022-04-28,275000,LD1 5NB,T,N,F,Hillcrest,,Wellington Road,,Llandrindod Wells
+2022-04-26,380000,LD1 6RQ,D,N,F,4,,Camlo Close,Gwystre,Llandrindod Wells
+2022-04-20,325000,LD1 5PT,D,N,F,Brookside,,,Howey,Llandrindod Wells
+2022-04-20,88000,LD1 5BG,T,N,F,Mount Pleasant,2,Tremont Road,,Llandrindod Wells
+2022-04-19,385000,LD1 5NN,D,N,F,Llonydd,,Park Lane,,Llandrindod Wells
+2022-04-13,125000,LD1 6LD,T,N,F,Cambrian Cottage,,,Newbridge On Wye,Llandrindod Wells
+2022-04-12,260000,LD1 6EP,D,N,F,22,,Crabtree Green,,Llandrindod Wells
+2022-04-12,255000,LD1 5NZ,D,N,F,35,,Dolydd Pentrosfa,,Llandrindod Wells
+2022-04-08,260000,LD1 6BB,S,N,F,21,,Llethyr Bryn,,Llandrindod Wells
+2022-04-05,72000,LD1 6PE,F,N,L,1,,Brookland Mews,,Llandrindod Wells
+2022-04-05,357000,LD1 6PA,D,N,F,Ty Ffridd,,,Nant Glas,Llandrindod Wells
+2022-04-01,243000,LD1 5NL,D,N,F,20,,Pentrosfa Road,,Llandrindod Wells
+2022-03-30,112500,LD1 5YB,T,N,F,7,,Trefonen Avenue,,Llandrindod Wells
+2022-03-28,430000,LD1 5SE,D,N,F,Court Cottage,,,Glascwm,Llandrindod Wells
+2022-03-25,222000,LD1 6DT,D,N,F,35,,Cortay Park,Llanyre,Llandrindod Wells
+2022-03-25,165000,LD1 5NB,S,N,F,2 Penrhiw Villa,,Wellington Road,,Llandrindod Wells
+2022-03-23,155000,LD1 6DS,S,N,F,10,,Penybryn,,Llandrindod Wells
+2022-03-23,170000,LD1 5HB,T,N,F,13,,Brynteg,,Llandrindod Wells
+2022-03-18,365000,LD1 6AS,S,N,F,Ty Tredawel,,Ithon Road,,Llandrindod Wells
+2022-03-16,345000,LD1 6RY,D,N,F,7,,Guidfa Meadows,Crossgates,Llandrindod Wells
+2022-03-11,100000,LD1 6SR,S,N,F,Cantel School House,,,Llanbister Road,Llandrindod Wells
+2022-03-10,240000,LD1 5UW,S,N,F,Ynys Cottage,,,Llanbister Road,Llandrindod Wells
+2022-03-10,127000,LD1 5ES,F,N,L,Mangalore,Flat 1,Spa Road East,,Llandrindod Wells
+2022-03-09,53000,LD1 6AG,F,N,L,The New Central,Flat 11,High Street,,Llandrindod Wells
+2022-03-09,168500,LD1 5EX,T,N,F,9,,Cedar Ridge,,Llandrindod Wells
+2022-03-04,245000,LD1 6RY,S,N,F,14,,Guidfa Meadows,Crossgates,Llandrindod Wells
+2022-03-04,81000,LD1 6PF,T,N,F,3,,Ddole Road,,Llandrindod Wells
+2022-03-04,220000,LD1 6LG,D,N,F,Ridgemount Hill,,,Newbridge On Wye,Llandrindod Wells
+2022-02-28,310000,LD1 6AP,S,N,F,Cheriton,,Victoria Road,,Llandrindod Wells
+2022-02-28,100000,LD1 5HF,F,N,L,Flat 2 Newman Southall,,Temple Street,,Llandrindod Wells
+2022-02-28,120000,LD1 5ES,F,N,L,Mangalore,Flat 3,Spa Road East,,Llandrindod Wells
+2022-02-25,315000,LD1 6LX,D,N,F,12,,Lon Yr Afon,Newbridge On Wye,Llandrindod Wells
+2022-02-22,270000,LD1 5NL,D,N,F,1,,Pentrosfa Road,,Llandrindod Wells
+2022-02-21,190000,LD1 6BB,D,N,F,24,,Llethyr Bryn,,Llandrindod Wells
+2022-02-21,235000,LD1 5NL,D,N,F,34,,Pentrosfa Road,,Llandrindod Wells
+2022-02-18,380000,LD1 6PD,D,N,F,Pine View,,,Nant Glas,Llandrindod Wells
+2022-02-18,275000,LD1 6DD,T,N,F,Glenlingen,,Brookland Road,,Llandrindod Wells
+2022-02-18,170500,LD1 5EX,T,N,F,7,,Cedar Ridge,,Llandrindod Wells
+2022-02-15,60000,LD1 6AU,F,N,L,South Court,Flat 6,Park Terrace,,Llandrindod Wells
+2022-02-14,120000,LD1 6SD,D,N,F,New-House,,,Llanddewi,Llandrindod Wells
+2022-02-11,560000,LD1 6AX,D,N,F,5,,Rock House Court,,Llandrindod Wells
+2022-02-10,250000,LD1 5LF,D,N,F,12,,Brookfields,Cefnllys,Llandrindod Wells
+2022-02-04,275000,LD1 5SA,D,N,F,Tyn Wern,,,Franksbridge,Llandrindod Wells
+2022-02-01,160000,LD1 5PN,T,N,F,Westlyn,,,Howey,Llandrindod Wells
+2022-01-31,53000,LD1 6AU,F,N,L,South Court,Flat 2,Park Terrace,,Llandrindod Wells
+2022-01-28,100000,LD1 6AS,F,N,L,The Grove,Flat 1,Ithon Road,,Llandrindod Wells
+2022-01-28,280000,LD1 5PH,D,N,F,Old Police House,,,Howey Road,Llandrindod Wells
+2022-01-26,835000,LD1 6SR,D,N,F,Blaen Y Cwm,,,Llanbister Road,Llandrindod Wells
+2022-01-25,377000,LD1 6EN,D,N,F,Rose Cottage,,,Nantmel,Llandrindod Wells
+2022-01-21,288000,LD1 6DN,D,N,F,56,,Holcombe Drive,,Llandrindod Wells
+2022-01-20,152000,LD1 6BD,T,N,F,2,,Ithon Close,,Llandrindod Wells
+2022-01-19,220000,LD1 6AN,S,N,F,Blaen Hernin,,Dyffryn Road,,Llandrindod Wells
+2022-01-19,265000,LD1 5LP,T,N,F,Killawley,,Temple Avenue,,Llandrindod Wells
+2022-01-17,280000,LD1 5NT,D,N,F,44,,Lakeside Avenue,,Llandrindod Wells
+2022-01-10,207000,LD1 5SL,S,N,F,Ithon View,,,Crossgates,Llandrindod Wells
+2022-01-06,40000,LD1 6AG,F,N,L,The New Central,Flat 2,High Street,,Llandrindod Wells
+2022-01-06,62000,LD1 5EY,F,N,L,Cecil Lodge,3,Spa Road,,Llandrindod Wells
+2021-12-22,160000,LD1 5PJ,T,N,F,17,,Disserth View,Howey,Llandrindod Wells
+2021-12-22,110000,LD1 5DB,T,N,F,Seaton,,Tremont Road,,Llandrindod Wells
+2021-12-21,149500,LD1 6DS,S,N,F,13,,Penybryn,,Llandrindod Wells
+2021-12-21,320000,LD1 5SR,D,N,F,Cwmbrith Isaf,,,Penybont,Llandrindod Wells
+2021-12-17,138000,LD1 5PY,S,N,F,56,,Llwynbrain Villas,Howey,Llandrindod Wells
+2021-12-14,240000,LD1 6DR,D,N,F,71,,Holcombe Avenue,,Llandrindod Wells
+2021-12-14,52000,LD1 5HF,F,N,L,Belmont,Flat 5,Temple Street,,Llandrindod Wells
+2021-12-13,285000,LD1 6LA,D,N,F,School House,,,Newbridge On Wye,Llandrindod Wells
+2021-12-13,252500,LD1 5SR,D,N,F,Cwmbrith Bungalow,,,Penybont,Llandrindod Wells
+2021-12-10,365000,LD1 6RS,D,N,F,Brynteg,,,Crossgates,Llandrindod Wells
+2021-12-10,250000,LD1 6LH,D,N,F,Tegfan,,,Newbridge On Wye,Llandrindod Wells
+2021-12-10,211000,LD1 5RB,D,N,F,7,,Goylands Close,,Llandrindod Wells
+2021-12-10,400000,LD1 5PN,D,N,F,Pengarreg,,,Howey,Llandrindod Wells
+2021-12-10,485000,LD1 5PE,D,N,F,"Trehelig, 3",,Walnut Close,,Llandrindod Wells
+2021-12-10,205000,LD1 5NZ,S,N,F,19,,Dolydd Pentrosfa,,Llandrindod Wells
+2021-12-10,217500,LD1 5LY,S,N,F,Little Meads,,Western Promenade,,Llandrindod Wells
+2021-12-10,320000,LD1 5LF,D,N,F,7,,Brookfields,Cefnllys,Llandrindod Wells
+2021-12-10,110000,LD1 5HF,S,N,F,Penn Lodge,,Temple Street,,Llandrindod Wells
+2021-12-09,88000,LD1 6LP,T,N,F,6,,Tanyfford,Newbridge On Wye,Llandrindod Wells
+2021-12-08,65000,LD1 5HG,F,N,L,The Beaufort,Flat 4,Temple Street,,Llandrindod Wells
+2021-12-06,317500,LD1 6EH,D,N,F,Church Cottage,,,Nantmel,Llandrindod Wells
+2021-12-06,240000,LD1 5UW,D,N,F,The Manse,,,Llanbister Road,Llandrindod Wells
+2021-12-06,330000,LD1 5NT,D,N,F,50,,Lakeside Avenue,,Llandrindod Wells
+2021-12-06,210000,LD1 5NL,D,N,F,23,,Pentrosfa Road,,Llandrindod Wells
+2021-12-06,265000,LD1 5DE,S,N,F,35,,Woodlands,,Llandrindod Wells
+2021-12-03,325000,LD1 5LD,D,N,F,Nyth Y Wiwer,4,Cefnllys Lane,,Llandrindod Wells
+2021-12-03,290000,LD1 5BL,D,N,F,Cwm Ithon,,Tremont Road,,Llandrindod Wells
+2021-11-30,191000,LD1 5SH,S,N,F,57,,Gorse Farm Estate,,Llandrindod Wells
+2021-11-30,355000,LD1 5SA,D,N,F,Banc Y Defaid,,,Franksbridge,Llandrindod Wells
+2021-11-30,157500,LD1 5NX,T,N,F,2,,Maple Ridge Close,,Llandrindod Wells
+2021-11-29,182000,LD1 6RY,D,N,F,"Rookery Nook, 13",,Guidfa Meadows,Crossgates,Llandrindod Wells
+2021-11-26,280000,LD1 6TP,D,N,F,"Brynal, 1",,Caerfaelog Lane,Llanbister,Llandrindod Wells
+2021-11-26,175000,LD1 6NU,D,N,F,Tyncastle,,,Llanwrthwl,Llandrindod Wells
+2021-11-19,190000,LD1 6PF,T,N,F,1,,Ddole Road,,Llandrindod Wells
+2021-11-19,235000,LD1 6DN,D,N,F,21,,Holcombe Drive,,Llandrindod Wells
+2021-11-19,126000,LD1 5YB,D,N,F,67,,Trefonen Avenue,,Llandrindod Wells
+2021-11-18,450000,LD1 6YW,D,N,F,Red Lion House,,,Llanbadarn Fynydd,Llandrindod Wells
+2021-11-18,280000,LD1 5NT,D,N,F,51,,Lakeside Avenue,,Llandrindod Wells
+2021-11-17,250000,LD1 6NG,D,N,F,9,,The Paddock,Llanyre,Llandrindod Wells
+2021-11-12,271000,LD1 5HT,S,N,F,The Ovals,,Broadway,,Llandrindod Wells
+2021-11-08,89950,LD1 6AG,F,N,L,Spa Heights,Flat 12,High Street,,Llandrindod Wells
+2021-11-05,300000,LD1 6SD,D,N,F,The Firs,,,Llanddewi,Llandrindod Wells
+2021-11-03,79000,LD1 5LU,F,N,L,Orielton,12,Temple Drive,,Llandrindod Wells
+2021-11-02,128000,LD1 6AN,T,N,F,Hiraethog,,Dyffryn Road,,Llandrindod Wells
+2021-11-01,205000,LD1 5BA,D,N,F,1,,Hernog Close,,Llandrindod Wells
+2021-10-29,172500,LD1 5EX,T,N,F,1,,Cedar Ridge,,Llandrindod Wells
+2021-10-28,230000,LD1 6LQ,S,N,F,2A,,Cae Nant,Newbridge On Wye,Llandrindod Wells
+2021-10-28,280000,LD1 6LQ,D,N,F,15,,Cae Nant,Newbridge On Wye,Llandrindod Wells
+2021-10-28,190000,LD1 5NE,S,N,F,Rotherslade,,Grosvenor Close,,Llandrindod Wells
+2021-10-27,90000,LD1 5YB,T,N,F,60,,Trefonen Avenue,,Llandrindod Wells
+2021-10-27,300000,LD1 5NT,D,N,F,52,,Lakeside Avenue,,Llandrindod Wells
+2021-10-22,135000,LD1 5PN,S,N,F,Hill View,,,Howey,Llandrindod Wells
+2021-10-20,450000,LD1 5RW,D,N,F,Rhoscwm,,,Bettws,Llandrindod Wells
+2021-10-20,98000,LD1 5NG,T,N,F,4,,Wellington Terrace,,Llandrindod Wells
+2021-10-19,350000,LD1 5SH,D,N,F,10,,Gorse Farm Estate,,Llandrindod Wells
+2021-10-15,320000,LD1 6AS,S,N,F,Grove Lodge,,Ithon Road,,Llandrindod Wells
+2021-10-15,350000,LD1 5SH,D,N,F,3,,Gorse Farm Estate,,Llandrindod Wells
+2021-10-15,187000,LD1 5PT,T,N,L,Bridgend Cottages,,,Howey,Llandrindod Wells
+2021-10-15,110000,LD1 5LB,T,N,F,4,,Quarry Lane,,Llandrindod Wells
+2021-10-14,92500,LD1 5LP,F,N,L,Rosslare Garden,Flat A,Temple Avenue,,Llandrindod Wells
+2021-10-13,220000,LD1 5RB,S,N,F,5,,Goylands Close,,Llandrindod Wells
+2021-10-13,290000,LD1 5LE,S,N,F,Brynderi,,Cefnllys Lane,,Llandrindod Wells
+2021-10-12,220000,LD1 6RY,D,N,F,30A,,Guidfa Meadows,Crossgates,Llandrindod Wells
+2021-10-08,95000,LD1 5DG,F,N,L,Victoria Arcade,Flat 1,Middleton Street,,Llandrindod Wells
+2021-10-04,350000,LD1 5NP,D,N,F,2,,Cefn Morfa,,Llandrindod Wells
+2021-10-04,185000,LD1 5BA,S,N,F,12,,Hernog Close,,Llandrindod Wells
+2021-10-01,180000,LD1 6TA,D,N,F,9,,Meadow Rise,Crossgates,Llandrindod Wells
+2021-10-01,236500,LD1 5LY,D,N,F,Lound,,Western Promenade,,Llandrindod Wells
+2021-10-01,265000,LD1 5BL,D,N,F,Tyr Cornel,,Tremont Road,,Llandrindod Wells
+2021-09-30,675000,LD1 6LY,D,N,F,The Old Vicarage,,,Newbridge On Wye,Llandrindod Wells
+2021-09-30,230000,LD1 6LF,D,N,F,17,,Knapplands,Newbridge On Wye,Llandrindod Wells
+2021-09-30,280000,LD1 5NB,D,N,F,Twyford,,Wellington Road,,Llandrindod Wells
+2021-09-30,190000,LD1 5BZ,T,N,F,19,,Clywedog Drive,,Llandrindod Wells
+2021-09-29,85000,LD1 5DG,F,N,F,Flat In The Lane,,Middleton Street,,Llandrindod Wells
+2021-09-28,265000,LD1 6LQ,D,N,F,4,,Cae Nant,Newbridge On Wye,Llandrindod Wells
+2021-09-28,178000,LD1 5NG,T,N,F,Cartref,,Wellington Road,,Llandrindod Wells
+2021-09-27,160000,LD1 5BF,S,N,F,11,,Camddwr Rise,,Llandrindod Wells
+2021-09-24,300000,LD1 6YS,D,N,F,Fwnog,,,Llaithddu,Llandrindod Wells
+2021-09-22,38950,LD1 6AG,F,N,L,The New Central,Flat 8,High Street,,Llandrindod Wells
+2021-09-22,39950,LD1 5DP,F,N,L,Arvon House,2,Temple Street,,Llandrindod Wells
+2021-09-17,298000,LD1 5NA,D,N,F,Awel Deg,,Grosvenor Road,,Llandrindod Wells
+2021-09-17,275000,LD1 5DE,D,N,F,17,,Woodlands,,Llandrindod Wells
+2021-09-16,130000,LD1 5YA,S,N,F,66,,Trefonen Way,,Llandrindod Wells
+2021-09-15,270000,LD1 5NT,D,N,F,14,,Lakeside Avenue,,Llandrindod Wells
+2021-09-15,190000,LD1 5BX,S,N,F,24,,Ithon View,,Llandrindod Wells
+2021-09-14,187000,LD1 6RY,D,N,F,22,,Guidfa Meadows,Crossgates,Llandrindod Wells
+2021-09-13,75000,LD1 6PE,F,N,L,4,,Brookland Mews,,Llandrindod Wells
+2021-09-13,320000,LD1 5LD,D,N,F,Nyth Y Wiwer,3,Cefnllys Lane,,Llandrindod Wells
+2021-09-10,207000,LD1 5RB,D,N,F,49,,Goylands Close,,Llandrindod Wells
+2021-09-08,185000,LD1 5NZ,S,N,F,20,,Dolydd Pentrosfa,,Llandrindod Wells
+2021-09-08,185000,LD1 5DB,S,N,F,Myrtle Dene,,Tremont Road,,Llandrindod Wells
+2021-09-07,225000,LD1 6SF,T,N,F,2,,Ithon View,Llanddewi,Llandrindod Wells
+2021-09-07,180000,LD1 6LF,S,N,F,Druidston,,Knapplands,Newbridge On Wye,Llandrindod Wells
+2021-09-07,205000,LD1 6DN,D,N,F,9,,Holcombe Drive,,Llandrindod Wells
+2021-09-06,400000,LD1 5NT,D,N,F,Herons Way,,Lakeside Avenue,,Llandrindod Wells
+2021-09-03,64000,LD1 5EY,F,N,L,Cecil Lodge,Basement Flat,Spa Road,,Llandrindod Wells
+2021-08-31,132000,LD1 6BD,T,N,F,4,,Ithon Close,,Llandrindod Wells
+2021-08-27,135000,LD1 6PE,S,N,F,Bluebell Cottages,4,Ddole Road,,Llandrindod Wells
+2021-08-27,260000,LD1 5NB,S,N,F,Berwyn,,Wellington Road,,Llandrindod Wells
+2021-08-26,180000,LD1 6LQ,S,N,F,1A,,Cae Nant,Newbridge On Wye,Llandrindod Wells
+2021-08-26,246000,LD1 6AR,D,N,F,Glaslyn,,Rock Park Close,,Llandrindod Wells
+2021-08-26,260000,LD1 5EB,S,N,F,Kingswood,,Tremont Road,,Llandrindod Wells
+2021-08-25,450000,LD1 6EA,D,N,F,3,,Highbury Close,Llanyre,Llandrindod Wells
+2021-08-25,325000,LD1 6DT,D,N,F,34,,Cortay Park,Llanyre,Llandrindod Wells
+2021-08-25,287000,LD1 5NY,D,N,F,Cairn,,,,Llandrindod Wells
+2021-08-20,90000,LD1 6SE,S,N,F,1,,Mill Cottages,Llanddewi,Llandrindod Wells
+2021-08-19,39000,LD1 6AG,F,N,L,The New Central,Flat 1,High Street,,Llandrindod Wells
+2021-08-19,87000,LD1 5ES,F,N,L,Mangalore,Flat 2,Spa Road East,,Llandrindod Wells
+2021-08-18,210000,LD1 5EH,S,N,F,34,,Lant Avenue,,Llandrindod Wells
+2021-08-16,200000,LD1 5LQ,S,N,F,The Eyrie,,Alexandra Terrace,,Llandrindod Wells
+2021-08-10,165000,LD1 6BL,T,N,F,Wyvern,2,Waterloo Road,,Llandrindod Wells
+2021-08-06,125000,LD1 5NB,S,N,F,Ridgeview,,Wellington Road,,Llandrindod Wells
+2021-08-02,72000,LD1 6AB,F,N,L,Haselmere,Flat 2,Park Crescent,,Llandrindod Wells
+2021-07-30,165000,LD1 6DT,S,N,F,40,,Cortay Park,Llanyre,Llandrindod Wells
+2021-07-30,72500,LD1 6AG,F,N,L,Cemlyn House,Flat 10,High Street,,Llandrindod Wells
+2021-07-30,150000,LD1 5NE,S,N,F,Greentiles,,Grosvenor Close,,Llandrindod Wells
+2021-07-30,139000,LD1 5NB,F,N,F,Leominster House,,Wellington Road,,Llandrindod Wells
+2021-07-26,234000,LD1 5RY,D,N,F,Croftdene,,,Hundred House,Llandrindod Wells
+2021-07-23,375000,LD1 6TN,D,N,F,Church Stile,,,Llanbister,Llandrindod Wells
+2021-07-21,220000,LD1 6NE,D,N,F,9,,Meadowlands,Newbridge On Wye,Llandrindod Wells
+2021-07-21,72000,LD1 6AG,F,N,L,Cemlyn House,Flat 6,High Street,,Llandrindod Wells
+2021-07-19,149000,LD1 6RS,D,N,F,West Grove,,,Crossgates,Llandrindod Wells
+2021-07-19,335296,LD1 5LD,D,N,F,Nyth Y Wiwer,2,Cefnllys Lane,,Llandrindod Wells
+2021-07-19,180000,LD1 5DG,T,N,F,Wadham House,,Middleton Street,,Llandrindod Wells
+2021-07-16,68000,LD1 6AU,F,N,L,South Court,Flat 7,Park Terrace,,Llandrindod Wells
+2021-07-09,177500,LD1 6AH,S,N,F,8,,Oxford Road,,Llandrindod Wells
+2021-07-05,160500,LD1 6DW,D,N,F,6,,Holcombe Avenue,,Llandrindod Wells
+2021-06-30,285000,LD1 6ND,D,N,F,Penrhos,,,Newbridge On Wye,Llandrindod Wells
+2021-06-30,200000,LD1 5NT,D,N,F,1,,Lakeside Avenue,,Llandrindod Wells
+2021-06-30,310000,LD1 5DE,D,N,F,22,,Woodlands,,Llandrindod Wells
+2021-06-30,192500,LD1 5BH,D,N,F,Ash Villa,,Tremont Road,,Llandrindod Wells
+2021-06-29,625000,LD1 6DY,D,N,F,Nant-Y-Groes,,,Llanyre,Llandrindod Wells
+2021-06-28,325000,LD1 6AX,D,N,F,"Norton, 3",,Rock House Court,,Llandrindod Wells
+2021-06-28,270000,LD1 5PJ,D,N,F,13,,Disserth View,Howey,Llandrindod Wells
+2021-06-25,215000,LD1 6LG,T,N,F,Windsor Cottage,3,,Newbridge On Wye,Llandrindod Wells
+2021-06-25,195000,LD1 6LF,S,N,F,Knapplands,15,,Newbridge On Wye,Llandrindod Wells
+2021-06-25,250000,LD1 5NP,D,N,F,14,,Cefn Morfa,,Llandrindod Wells
+2021-06-22,280000,LD1 5TY,D,N,F,Mallards,,,Penybont,Llandrindod Wells
+2021-06-18,135000,LD1 6PE,S,N,F,Bluebell Cottages,5,Ddole Road,,Llandrindod Wells
+2021-06-18,247500,LD1 6HN,D,N,F,"The Grovelands, 6",,Oaktree View,Crossgates,Llandrindod Wells
+2021-06-18,310000,LD1 6EN,T,N,F,Ty Seren,4,,Nantmel,Llandrindod Wells
+2021-06-16,625000,LD1 6ND,D,N,F,Brochen,,,Newbridge On Wye,Llandrindod Wells
+2021-06-16,358407,LD1 5LD,D,N,F,Nyth Y Wiwer,1,Cefnllys Lane,,Llandrindod Wells
+2021-06-11,227500,LD1 6AP,S,N,F,Gellidawel,,Victoria Road,,Llandrindod Wells
+2021-06-11,50000,LD1 5HU,F,N,L,Sunnycroft,Flat 6B,Princes Avenue,,Llandrindod Wells
+2021-06-10,170000,LD1 6LR,S,N,F,2,,Gwaryffordd,Newbridge On Wye,Llandrindod Wells
+2021-06-08,200000,LD1 6DZ,S,N,F,4,,Clar Court,,Llandrindod Wells
+2021-06-08,139000,LD1 5NN,T,N,F,"Daisy Cottage, 2",,Park Lane,,Llandrindod Wells
+2021-06-04,93000,LD1 5LB,T,N,F,4,,Quarry Lane,,Llandrindod Wells
+2021-06-02,220000,LD1 5NT,D,N,F,11,,Lakeside Avenue,,Llandrindod Wells
+2021-06-01,130823,LD1 6EB,D,N,F,Rowan,,,Llanyre,Llandrindod Wells
+2021-05-28,175000,LD1 6RN,D,N,F,Gwystre Cottage,,,Gwystre,Llandrindod Wells
+2021-05-28,100000,LD1 6RD,D,N,F,The Glen,,,Crossgates,Llandrindod Wells
+2021-05-28,47000,LD1 5HF,F,N,L,Belmont,Flat 3,Temple Street,,Llandrindod Wells
+2021-05-24,390000,LD1 5UA,D,N,F,Roxbury,,,Penybont,Llandrindod Wells
+2021-05-21,150000,LD1 5UA,D,N,F,The Old Bank,,,Penybont,Llandrindod Wells
+2021-05-18,150000,LD1 5LJ,D,N,F,Fir Trees,,Cefnllys Lane,,Llandrindod Wells
+2021-05-14,338000,LD1 6SN,D,N,F,Heartsease Bungalow,,,Llanddewi,Llandrindod Wells
+2021-05-14,220000,LD1 6LN,D,N,F,The Lion House,,,Newbridge On Wye,Llandrindod Wells
+2021-05-10,66000,LD1 6AU,F,N,L,South Court,Flat 9,Park Terrace,,Llandrindod Wells
+2021-05-07,250000,LD1 6NU,D,N,F,Coppice,,,Llanwrthwl,Llandrindod Wells
+2021-05-07,253000,LD1 6LZ,D,N,F,5,,Clos Y Berllan,Newbridge On Wye,Llandrindod Wells
+2021-05-06,162500,LD1 6AN,S,N,F,Matapan,,Dyffryn Road,,Llandrindod Wells
+2021-04-30,273000,LD1 6PD,D,N,F,Tawelfan,,,Nant Glas,Llandrindod Wells
+2021-04-30,145000,LD1 6BE,S,N,F,1,,Lon Cwm,,Llandrindod Wells
+2021-04-30,146000,LD1 5US,D,N,F,27,,Old Market Meadows,Penybont,Llandrindod Wells
+2021-04-30,131000,LD1 5BT,T,N,F,Swiss Villa,3,Tremont Road,,Llandrindod Wells
+2021-04-28,180000,LD1 6RB,D,N,F,Cartref,,,Crossgates,Llandrindod Wells
+2021-04-16,145000,LD1 6DN,D,N,F,24,,Holcombe Drive,,Llandrindod Wells
+2021-04-16,117500,LD1 6DE,T,N,F,5,,Brickfield Cottages,,Llandrindod Wells
+2021-04-16,117000,LD1 6BT,T,N,F,Rock Villa,1,Nelson Street,,Llandrindod Wells
+2021-04-16,150000,LD1 5EX,T,N,F,5,,Cedar Ridge,,Llandrindod Wells
+2021-04-14,335000,LD1 5TE,D,N,F,Maesbrook House,,,Dolau,Llandrindod Wells
+2021-04-09,197000,LD1 5TL,T,N,F,Brookside Cottage,,,Dolau,Llandrindod Wells
+2021-04-09,195000,LD1 5PT,S,N,F,Tanglewood,,,Howey,Llandrindod Wells
+2021-04-09,92500,LD1 5PN,T,N,F,Neyland Villa,,,Howey,Llandrindod Wells
+2021-04-08,420000,LD1 6EH,D,N,F,Kerriel Lodge,,,Nantmel,Llandrindod Wells
+2021-04-01,165000,LD1 5LW,S,N,F,Rhos,,Montpellier Park,,Llandrindod Wells
+2021-03-31,170000,LD1 6LQ,S,N,F,25,,Cae Nant,Newbridge On Wye,Llandrindod Wells
+2021-03-31,182500,LD1 6BL,T,N,F,Archibald House,,Waterloo Road,,Llandrindod Wells
+2021-03-31,165000,LD1 5NE,S,N,F,Cefn Llyn,,Grosvenor Close,,Llandrindod Wells
+2021-03-30,72000,LD1 6AB,F,N,L,Belvedere,Flat 2,Park Crescent,,Llandrindod Wells
+2021-03-29,185000,LD1 6EP,D,N,F,20,,Crabtree Green,,Llandrindod Wells
+2021-03-26,495000,LD1 6TW,D,N,F,Glandwr,,,Llanbister,Llandrindod Wells
+2021-03-26,228000,LD1 6SE,D,N,F,Meadow View,,,Llanddewi,Llandrindod Wells
+2021-03-26,325000,LD1 6RR,D,N,F,Caebach,,Rock Road,Crossgates,Llandrindod Wells
+2021-03-26,35500,LD1 6AG,F,N,L,The New Central,Flat 3,High Street,,Llandrindod Wells
+2021-03-26,160000,LD1 5NW,D,N,F,Delapre,,Pentrosfa Crescent,,Llandrindod Wells
+2021-03-26,245000,LD1 5EB,S,N,F,Glaslyn,,Tremont Road,,Llandrindod Wells
+2021-03-25,142500,LD1 5NX,T,N,F,3,,Maple Ridge Close,,Llandrindod Wells
+2021-03-24,247000,LD1 6LZ,D,N,F,3,,Clos Y Berllan,Newbridge On Wye,Llandrindod Wells
+2021-03-23,527500,LD1 6NT,D,N,F,The Old Mill,,,Llanwrthwl,Llandrindod Wells
+2021-03-19,162500,LD1 6LD,T,N,F,Cambrian House,,,Newbridge On Wye,Llandrindod Wells
+2021-03-15,175000,LD1 5AJ,S,Y,F,3,,Afon Way,,Llandrindod Wells
+2021-03-10,190000,LD1 5SN,D,N,F,Maesgwyn,,,Crossgates,Llandrindod Wells
+2021-03-10,215000,LD1 5ER,D,N,F,Collen,,Spa Road,,Llandrindod Wells
+2021-03-09,170000,LD1 5AJ,S,Y,F,2,,Afon Way,,Llandrindod Wells
+2021-03-05,245000,LD1 5UF,D,N,F,The Old School House,,,Llandegley,Llandrindod Wells
+2021-03-05,310000,LD1 5HT,D,N,F,Tudor House,,Broadway,,Llandrindod Wells
+2021-02-26,175000,LD1 5AF,S,N,F,12,,Dulas Bank,,Llandrindod Wells
+2021-02-25,448000,LD1 6PH,D,N,F,Garden Cottage,,,Abbeycwmhir,Llandrindod Wells
+2021-02-25,285000,LD1 6NL,D,N,F,Ty Maes Mawr,,,Howey,Llandrindod Wells
+2021-02-24,370000,LD1 6PR,D,N,F,Pant Yr Hedyn,,,Abbeycwmhir,Llandrindod Wells
+2021-02-22,300000,LD1 5HF,S,N,F,Barcourt,,Temple Street,,Llandrindod Wells
+2021-02-19,255000,LD1 6EP,S,N,F,7,,Crabtree Green,,Llandrindod Wells
+2021-02-19,148000,LD1 5SH,S,N,F,28,,Gorse Farm Estate,,Llandrindod Wells
+2021-02-19,112000,LD1 5LJ,D,N,F,Fir Trees,,Cefnllys Lane,,Llandrindod Wells
+2021-02-18,175000,LD1 5AJ,S,N,F,4,,Afon Way,,Llandrindod Wells
+2021-02-12,84000,LD1 6AU,F,N,L,South Court,Flat 4,Park Terrace,,Llandrindod Wells
+2021-02-12,130000,LD1 5YD,T,N,F,3,,The Rise,,Llandrindod Wells
+2021-02-05,160000,LD1 6DP,D,N,F,86,,Holcombe Drive,,Llandrindod Wells
+2021-02-03,230000,LD1 6NE,T,N,F,19,,Meadowlands,Newbridge On Wye,Llandrindod Wells
+2021-02-02,160000,LD1 5LT,T,N,F,9,,Alexandra Road,,Llandrindod Wells
+2021-02-01,155000,LD1 5NG,T,N,F,1,,Wellington Terrace,,Llandrindod Wells
+2021-01-29,210000,LD1 5NZ,D,N,F,41,,Dolydd Pentrosfa,,Llandrindod Wells
+2021-01-27,385000,LD1 5TY,D,N,F,Tyn Y Coed,,,Penybont,Llandrindod Wells
+2021-01-25,119500,LD1 6DB,T,N,F,1,,Brookland Road,,Llandrindod Wells
+2021-01-22,180000,LD1 5BZ,S,N,F,15,,Clywedog Drive,,Llandrindod Wells
+2021-01-15,195000,LD1 6RB,D,N,F,Uplands,,,Crossgates,Llandrindod Wells
+2021-01-15,415000,LD1 5SE,D,N,F,Coach House,,,Glascwm,Llandrindod Wells
+2021-01-15,341250,LD1 5RG,D,N,F,Brynderw,,,Howey,Llandrindod Wells
+2021-01-15,360000,LD1 5RF,D,N,F,Bryn Rhydd Cottage,,,Howey,Llandrindod Wells
+2021-01-15,225000,LD1 5NT,D,N,F,21,,Lakeside Avenue,,Llandrindod Wells
+2021-01-14,147000,LD1 6DW,D,N,F,Fairways,,Holcombe Avenue,,Llandrindod Wells
+2021-01-13,210000,LD1 6DT,D,N,F,44,,Cortay Park,Llanyre,Llandrindod Wells
+2021-01-07,260000,LD1 5LE,D,N,F,Trefnant,,Cefnllys Lane,,Llandrindod Wells
+2021-01-06,93000,LD1 6BB,T,N,F,2,,Llethyr Bryn,,Llandrindod Wells
+2021-01-06,345000,LD1 5NN,D,N,F,Arlington,,Park Lane,,Llandrindod Wells
+2021-01-05,87500,LD1 6DE,T,N,F,Brickfield Cottages,7,Brookland Road,,Llandrindod Wells

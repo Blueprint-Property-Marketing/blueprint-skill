@@ -1,0 +1,955 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-19,405500,CA8 1TZ,D,N,F,"Chateau Roc, 7",,Tree Gardens,,Brampton
+2026-08-13,290000,CA8 1AL,D,N,F,26,,Beck Riggs,,Brampton
+2026-08-06,75000,CA8 7EH,F,N,L,Maia,,,Gilsland,Brampton
+2026-08-06,32500,CA8 1ST,F,N,L,Townfoot Farm,Flat 3,Carlisle Road,,Brampton
+2026-08-04,240000,CA8 2PL,T,N,F,4,,Park Terrace,Hallbankgate,Brampton
+2026-07-29,188500,CA8 1DT,S,N,F,3,,Stanley Road,,Brampton
+2026-07-22,387500,CA8 2LY,D,N,F,The Barn,,,Low Row,Brampton
+2026-07-17,399950,CA8 9AL,D,N,F,7,,The Whins,Heads Nook,Brampton
+2026-07-17,103000,CA8 7DP,T,N,F,11,,Rosehill,Gilsland,Brampton
+2026-06-30,710000,CA8 2QU,D,N,F,The Old Corn Mill,,,Denton Mill,Brampton
+2026-06-19,146000,CA8 1US,S,N,F,18,,Beckside Gardens,,Brampton
+2026-06-18,500000,CA8 9HT,D,N,F,Applegarth,,,Hayton,Brampton
+2026-06-17,375000,CA8 1TP,D,N,F,6,,Oak Park,,Brampton
+2026-06-04,210000,CA8 9LY,S,N,F,2,,Rectory Road,Castle Carrock,Brampton
+2026-06-01,475000,CA8 9AE,D,N,F,Westwood,,,Heads Nook,Brampton
+2026-06-01,290000,CA8 1UA,S,N,F,Kenbank,,Tree Road,,Brampton
+2026-05-22,225000,CA8 1NT,T,N,F,56,,Front Street,,Brampton
+2026-05-15,350000,CA8 2LQ,D,N,F,Pine Croft,,,Low Row,Brampton
+2026-05-12,595000,CA8 9AF,D,N,F,Stockdale House,,,Heads Nook,Brampton
+2026-05-12,90000,CA8 7LB,S,N,F,6,,Pennine Road,Halton Lea Gate,Brampton
+2026-05-11,335000,CA8 9JY,D,N,F,Ashness,,,How Mill,Brampton
+2026-05-08,380000,CA8 9LY,S,N,F,9,,Rectory Road,Castle Carrock,Brampton
+2026-05-08,195000,CA8 9LY,S,N,F,3,,Rectory Road,Castle Carrock,Brampton
+2026-05-08,305000,CA8 9BH,D,N,F,Ivy Cottage,,Burnrigg,Heads Nook,Brampton
+2026-05-08,169000,CA8 2DJ,S,N,F,Greenside,,,Walton,Brampton
+2026-05-01,215000,CA8 1QE,T,N,F,5,,Oulton Terrace,,Brampton
+2026-04-23,87000,CA8 1NX,S,N,L,8,,Gelt Road,,Brampton
+2026-04-23,260000,CA8 1AX,S,N,F,35,,Greencroft,,Brampton
+2026-04-15,165000,CA8 7TF,T,N,F,11,,The Forge,Gilsland,Brampton
+2026-04-13,375000,CA8 1EB,D,N,F,60,,Irthing Park,,Brampton
+2026-04-08,135000,CA8 1NT,D,N,F,Garden Hill,,Front Street,,Brampton
+2026-03-31,330000,CA8 7DL,D,N,F,16,,Irthing Park,Gilsland,Brampton
+2026-03-19,400000,CA8 9LZ,D,N,F,Castle Garth,,,Castle Carrock,Brampton
+2026-03-19,500000,CA8 2ES,D,N,F,High Stead Ash,,,West Hall,Brampton
+2026-03-17,270000,CA8 1AH,D,N,F,5,,Howard Gardens,,Brampton
+2026-03-16,410000,CA8 1LA,D,N,F,Brackenridge,,,Farlam,Brampton
+2026-03-13,400000,CA8 9HR,D,N,F,Bunkers Hill,,,Hayton,Brampton
+2026-03-10,370000,CA8 9AL,D,N,F,12,,The Whins,Heads Nook,Brampton
+2026-03-10,70000,CA8 1NF,T,N,F,Beck Cottage,,Beck Lane,,Brampton
+2026-03-06,222500,CA8 9AH,S,N,F,19,,Cairn Wood,Heads Nook,Brampton
+2026-03-06,100000,CA8 1NY,S,N,L,24,,Showfield,,Brampton
+2026-03-02,147500,CA8 1EA,T,N,F,22,,Farish Close,,Brampton
+2026-02-27,200000,CA8 9AQ,S,N,F,1,,Sids Field,Castle Carrock,Brampton
+2026-02-27,190000,CA8 1DN,S,N,F,35,,Berrymoor Road,,Brampton
+2026-02-25,270000,CA8 2EH,D,N,F,Meadowbank,,,West Hall,Brampton
+2026-02-24,280000,CA8 2DH,T,N,F,Newberry,,,Walton,Brampton
+2026-02-23,152000,CA8 1NX,T,N,F,31,,Gelt Road,,Brampton
+2026-02-20,192500,CA8 2QJ,T,N,F,6,,Tindale Terrace,Tindale Fell,Brampton
+2026-02-20,187500,CA8 1SS,D,N,F,The Courtyard,2,Carlisle Road,,Brampton
+2026-02-19,190000,CA8 9HP,S,N,F,2,,Beck Cottages,Hayton,Brampton
+2026-02-19,245000,CA8 2QW,T,N,F,1,,Store Cottage,Tindale Fell,Brampton
+2026-02-18,167000,CA8 7HA,S,N,F,Bank Top,West Cottage,,Greenhead,Brampton
+2026-02-17,475000,CA8 9JY,D,N,F,Glen Cottage,,,How Mill,Brampton
+2026-02-13,149950,CA8 1NT,T,N,F,50,,Front Street,,Brampton
+2026-02-12,200000,CA8 1NY,D,N,F,21,,Showfield,,Brampton
+2026-02-09,455000,CA8 2PF,D,N,F,Pallion House,,,Hallbankgate,Brampton
+2026-02-06,222500,CA8 2DP,S,N,F,3,,Irthing View,Walton,Brampton
+2026-02-06,352500,CA8 1LA,D,N,F,Leesom,,,Farlam,Brampton
+2026-01-29,65000,CA8 1SP,T,N,L,20,,Townfoot Court,,Brampton
+2026-01-29,680000,CA8 1SG,D,N,F,Croft House,2,Main Street,,Brampton
+2026-01-28,143000,CA8 1TH,T,N,F,5,,St Martins Close,,Brampton
+2026-01-28,545000,CA8 1QW,D,N,F,Capon Tree House,,Capon Tree Road,,Brampton
+2026-01-23,198000,CA8 2QD,T,N,F,Roachburn Six Cottages,3,,Tindale Fell,Brampton
+2026-01-21,118000,CA8 1NY,F,N,L,33,,Showfield,,Brampton
+2025-12-19,275000,CA8 9JY,S,N,F,The Nook,,,How Mill,Brampton
+2025-12-19,168000,CA8 7BU,T,N,F,1,,Carlton Trice,Gilsland,Brampton
+2025-12-17,205000,CA8 1DL,S,N,F,10,,Croft Road,,Brampton
+2025-12-15,305000,CA8 9JQ,D,N,F,Knowe Cottage,,,Townhead,Brampton
+2025-12-15,87500,CA8 1AL,F,N,L,6,,Beck Riggs,,Brampton
+2025-12-12,280000,CA8 7PG,D,N,F,Chapel Eals,,,Eals,Brampton
+2025-12-12,507000,CA8 2BQ,D,N,F,Kirkdale,,,Kirkcambeck,Brampton
+2025-12-10,215000,CA8 9LR,D,N,F,1,,Burnside Terrace,Castle Carrock,Brampton
+2025-12-04,322500,CA8 2DS,D,N,F,1,,Woodleigh,Walton,Brampton
+2025-12-03,625000,CA8 9HZ,D,N,F,"Chestnut House, 3",,The Woodlands,Hayton,Brampton
+2025-11-27,128000,CA8 1BB,F,N,L,Hadrian Court,7,Union Lane,,Brampton
+2025-11-21,325000,CA8 9HR,D,N,F,Biskey Howe,,,Hayton,Brampton
+2025-11-19,110000,CA8 7AJ,F,N,L,Orchard House,Flat 7,,Gilsland,Brampton
+2025-11-14,335000,CA8 9JQ,D,N,F,Tinling Hill,,,Townhead,Brampton
+2025-11-14,130000,CA8 7DR,S,N,F,Runnerfoot Cottage,,,Gilsland,Brampton
+2025-11-10,222500,CA8 1AX,S,N,F,9,,Greencroft,,Brampton
+2025-11-06,280000,CA8 1RZ,D,N,F,89,,Townfoot Park,,Brampton
+2025-11-03,428000,CA8 9BF,D,N,F,3,,Arthurs Place,Castle Carrock,Brampton
+2025-10-31,90000,CA8 7EH,F,N,L,Onnum,,,Gilsland,Brampton
+2025-10-30,160000,CA8 7DW,D,N,F,Station House,,,Gilsland,Brampton
+2025-10-27,120000,CA8 7DW,D,N,F,Old Station Cottage,,,Gilsland,Brampton
+2025-10-24,127500,CA8 7HU,T,N,F,10,,High Castle Terrace,Greenhead,Brampton
+2025-10-23,270000,CA8 9BA,D,N,F,Broadwath Old House,,,Broadwath,Brampton
+2025-10-20,82500,CA8 1AL,F,N,L,7,,Beck Riggs,,Brampton
+2025-10-17,202000,CA8 2PX,D,N,F,Coalfell Farm Cottage,,,Hallbankgate,Brampton
+2025-10-17,235000,CA8 1BY,D,N,F,4,,Ridley Gardens,,Brampton
+2025-10-16,130000,CA8 7LB,S,N,F,20,,Pennine Road,Halton Lea Gate,Brampton
+2025-10-14,690000,CA8 2BT,D,N,F,Craigsyke Ford,,,West Hall,Brampton
+2025-10-10,300000,CA8 1LE,D,N,F,Hamel Croft,,,Talkin,Brampton
+2025-09-29,450000,CA8 9JF,D,N,F,Pembroke,,,Townhead,Brampton
+2025-09-26,185000,CA8 1UT,D,N,F,25,,Jocks Hill,,Brampton
+2025-09-26,125000,CA8 1AJ,S,N,F,15,,Bishops Hill Lane,,Brampton
+2025-09-25,255000,CA8 1EB,D,N,F,3,,Irthing Park,,Brampton
+2025-09-24,72000,CA8 7EH,F,N,L,Magnis,,,Gilsland,Brampton
+2025-09-23,250000,CA8 1LA,T,N,F,Farlam House Barn,7,,Farlam,Brampton
+2025-09-16,466000,CA8 1TP,D,N,F,10,,Oak Park,,Brampton
+2025-09-12,97000,CA8 1SP,T,N,L,12,,Townfoot Court,,Brampton
+2025-09-11,118000,CA8 9HR,D,N,F,Chestnut Cottage,,,Hayton,Brampton
+2025-09-05,92500,CA8 1SP,T,N,L,25,,Townfoot Court,,Brampton
+2025-09-04,425000,CA8 7HN,D,N,F,Stoneybeck,,,Greenhead,Brampton
+2025-09-04,155000,CA8 1SS,S,N,F,The Courtyard,1,Carlisle Road,,Brampton
+2025-09-03,155000,CA8 1TJ,T,N,F,11,,Well Lonning Close,,Brampton
+2025-09-02,307000,CA8 1TD,D,N,F,17,,Ash Lea,,Brampton
+2025-09-02,245000,CA8 1GH,S,N,F,18,,Edmondson Close,,Brampton
+2025-09-01,290000,CA8 7BP,D,N,F,4,,Hadrians Crescent,Gilsland,Brampton
+2025-08-29,145000,CA8 7HU,T,N,F,6,,High Castle Terrace,Greenhead,Brampton
+2025-08-29,525000,CA8 1QA,S,N,F,Prospect Place,,Gelt Road,,Brampton
+2025-08-26,265000,CA8 9LX,S,N,F,3,,The Glebe,Castle Carrock,Brampton
+2025-08-22,470000,CA8 1BX,D,N,F,White House Cottage,,Union Lane,,Brampton
+2025-08-21,240000,CA8 1BT,T,N,F,123,,Dacre Road,,Brampton
+2025-08-19,277500,CA8 1TX,S,N,F,Ndola,,Tree Road,,Brampton
+2025-08-15,474000,CA8 9EJ,D,N,F,Broadwath Holdings,23,,Broadwath,Brampton
+2025-08-15,411300,CA8 9AH,D,N,F,56,,Cairn Wood,Heads Nook,Brampton
+2025-08-15,410000,CA8 7LN,D,N,F,Green Riggs,,,Lambley,Brampton
+2025-08-15,470000,CA8 1QL,D,N,F,Heather Croft,,Capon Tree Road,,Brampton
+2025-08-14,260000,CA8 1DJ,S,N,F,50,,Berrymoor Road,,Brampton
+2025-08-13,275000,CA8 7LB,T,N,F,21,,Pennine Road,Halton Lea Gate,Brampton
+2025-08-12,151000,CA8 2EY,T,N,F,3,,Courtyard Cottages,,Brampton
+2025-08-11,390000,CA8 1TD,D,N,F,23,,Ash Lea,,Brampton
+2025-08-11,270000,CA8 1PP,S,Y,F,16,,Hillside Rise,,Brampton
+2025-08-08,595000,CA8 1LE,D,N,F,Cob Cottage,,,Talkin,Brampton
+2025-07-29,83000,CA8 1PF,T,N,F,4,,Cambeck Close,,Brampton
+2025-07-28,275000,CA8 7DX,D,N,F,Crantock,,,Gilsland,Brampton
+2025-07-25,170000,CA8 2PY,T,N,F,7,,Coal Fell,Hallbankgate,Brampton
+2025-07-25,452500,CA8 2JH,D,N,F,Camlann,,,Banks,Brampton
+2025-07-24,185000,CA8 1AB,T,N,F,3,,Ridge View,,Brampton
+2025-07-14,128000,CA8 7LD,T,N,F,5,,Lane Terrace,Halton Lea Gate,Brampton
+2025-07-11,292500,CA8 2BQ,D,N,F,Shepherds Croft,,,Kirkcambeck,Brampton
+2025-07-11,420000,CA8 1LE,S,N,F,Honeymeade,,,Talkin,Brampton
+2025-07-11,100000,CA8 1DT,T,N,F,11,,Stanley Road,,Brampton
+2025-07-09,320000,CA8 9AH,D,N,F,6,,Cairn Wood,Heads Nook,Brampton
+2025-07-07,130000,CA8 2DH,T,N,F,Croft Cottage,,,Walton,Brampton
+2025-07-07,250000,CA8 1NY,D,N,F,14,,Showfield,,Brampton
+2025-07-04,165000,CA8 2NJ,D,N,F,The Reading Room House,,,Hallbankgate,Brampton
+2025-07-02,150000,CA8 2PQ,S,N,F,8B,,Crossgates Road,Hallbankgate,Brampton
+2025-06-30,520000,CA8 9JH,D,N,F,Oakleigh,,,Townhead,Brampton
+2025-06-27,70000,CA8 1UN,F,N,L,6,,Moatside,,Brampton
+2025-06-20,50000,CA8 1SP,T,N,L,23,,Townfoot Court,,Brampton
+2025-06-19,270000,CA8 7AA,D,N,F,Roman Wall Villa,,,Gilsland,Brampton
+2025-06-12,210000,CA8 2HL,D,N,F,East Island Cottage,,,Lanercost,Brampton
+2025-06-06,140000,CA8 7NH,S,N,F,1,,Springhead Cottages,Slaggyford,Brampton
+2025-06-03,120000,CA8 7JQ,S,N,F,Bankfoot,Wayside,,Greenhead,Brampton
+2025-05-29,695000,CA8 1TR,D,N,F,Fir Tree House,,Craw Hall,,Brampton
+2025-05-23,505000,CA8 9EJ,D,N,F,22 Broadwath Holdings,Tailwinds,,Broadwath,Brampton
+2025-05-23,155000,CA8 2QB,D,N,F,1,,Follysyke,Tindale Fell,Brampton
+2025-05-23,130000,CA8 1BP,T,N,F,113,,Dacre Road,,Brampton
+2025-05-20,425000,CA8 9EX,D,N,F,Tarn Rigg,,,Cumwhitton,Brampton
+2025-05-19,310000,CA8 9AH,D,N,F,4,,Cairn Wood,Heads Nook,Brampton
+2025-05-16,90000,CA8 7DR,T,N,F,Pathways,,,Gilsland,Brampton
+2025-05-13,260000,CA8 9DH,D,N,F,The Barn,,,Newbiggin,Brampton
+2025-05-07,532000,CA8 7NW,D,N,F,Low Darkdale House,,,Slaggyford,Brampton
+2025-05-02,155000,CA8 1SJ,T,N,F,8,,Longtown Road,,Brampton
+2025-05-02,120000,CA8 1BP,T,N,F,90,,Dacre Road,,Brampton
+2025-04-30,125000,CA8 1DR,S,N,F,159,,Dacre Road,,Brampton
+2025-04-28,300000,CA8 1UT,D,N,F,15,,Jocks Hill,,Brampton
+2025-04-28,410000,CA8 1UA,D,N,F,Hill Crest,,Tree Road,,Brampton
+2025-04-28,435000,CA8 1AF,D,N,F,61,,Howgill Way,,Brampton
+2025-04-17,400000,CA8 9EX,T,N,F,The Cottage,,,Cumwhitton,Brampton
+2025-04-17,90000,CA8 1NP,T,N,F,8,,Low Cross Street,,Brampton
+2025-04-15,200000,CA8 9BB,D,N,F,The Lilacs,,,Broadwath,Brampton
+2025-04-11,420000,CA8 2BT,D,N,F,Craigsyke Bridge Cottage,,,West Hall,Brampton
+2025-04-11,420000,CA8 2BT,D,N,F,Craigsyke Bridge Cottage,,,West Hall,Brampton
+2025-04-10,315000,CA8 9JY,D,N,F,Woodside,,,How Mill,Brampton
+2025-04-10,382500,CA8 7LQ,D,N,F,Thornley Cottage,,,Lambley,Brampton
+2025-04-10,287000,CA8 7LQ,S,N,F,Braeside,,,Lambley,Brampton
+2025-04-06,254000,CA8 1QW,S,N,F,The Coach House,,Capon Tree Road,,Brampton
+2025-03-31,355000,CA8 9BW,D,N,F,9,,The Dell,Broadwath,Brampton
+2025-03-31,230000,CA8 1SL,T,N,F,3,,St Martins Terrace,,Brampton
+2025-03-31,247500,CA8 1NY,D,N,F,22,,Showfield,,Brampton
+2025-03-31,550000,CA8 1EX,D,N,F,Rowantree Cottage,,Station Road,,Brampton
+2025-03-28,365000,CA8 9NE,D,N,F,Garth Foot Cottage,,,Castle Carrock,Brampton
+2025-03-28,451000,CA8 2JH,D,N,F,Stanley Barn,,,Banks,Brampton
+2025-03-28,292000,CA8 1LE,S,N,F,Sunset Cottage,,,Talkin,Brampton
+2025-03-25,195000,CA8 7NH,T,N,F,Dovecott Barn,,,Slaggyford,Brampton
+2025-03-21,595000,CA8 1LE,D,N,F,Pen Cottage,,,Talkin,Brampton
+2025-03-18,170000,CA8 1TH,S,N,F,7,,St Martins Close,,Brampton
+2025-03-17,74000,CA8 1RP,F,N,L,1,,High Cross Street,,Brampton
+2025-03-14,295000,CA8 1QT,D,N,F,Hilanna,,Paving Brow,,Brampton
+2025-03-07,258000,CA8 1ST,D,N,F,Chesterton,,Carlisle Road,,Brampton
+2025-03-06,136500,CA8 1BN,S,N,F,74,,Dacre Road,,Brampton
+2025-03-05,242500,CA8 1SB,T,N,F,60,,Main Street,,Brampton
+2025-03-03,185000,CA8 2LE,D,N,F,Station House,,,Low Row,Brampton
+2025-02-28,250000,CA8 1LE,D,N,F,Terne House,,,Talkin,Brampton
+2025-02-27,350000,CA8 1RZ,D,N,F,85,,Townfoot Park,,Brampton
+2025-02-27,115000,CA8 1NY,F,N,L,26,,Showfield,,Brampton
+2025-02-25,305000,CA8 2HZ,S,N,F,Four Gables,1,,,Brampton
+2025-02-21,72000,CA8 1SD,F,N,F,3B,,Mark Terrace,,Brampton
+2025-02-21,72000,CA8 1SD,T,N,L,3A,,Mark Terrace,,Brampton
+2025-02-20,385000,CA8 2QT,D,N,F,Station House,,,Naworth,Brampton
+2025-02-20,265000,CA8 1PP,S,Y,F,2,,Hillside Rise,,Brampton
+2025-02-18,35000,CA8 1TQ,F,N,L,27,,St Martins Drive,,Brampton
+2025-02-18,172500,CA8 1EJ,T,N,F,Earl Grey Cottages,2,The Sands,,Brampton
+2025-02-18,275000,CA8 1EB,D,N,F,36,,Irthing Park,,Brampton
+2025-02-14,225000,CA8 1UZ,S,N,F,4A,,Craw Park,,Brampton
+2025-02-14,176500,CA8 1HU,S,N,F,4,,Milton Terrace,Milton,Brampton
+2025-02-13,445000,CA8 9NE,D,N,F,Hallsteads,,,Castle Carrock,Brampton
+2025-02-13,630000,CA8 2NF,D,N,F,New Garth,,,Hallbankgate,Brampton
+2025-02-13,100000,CA8 1SD,T,N,F,1,,Mark Terrace,,Brampton
+2025-02-11,555750,CA8 2AZ,D,N,F,Whitehill Crest,,,Walton,Brampton
+2025-02-05,262000,CA8 1AF,S,N,F,36,,Howgill Way,,Brampton
+2025-01-31,540000,CA8 9NA,D,N,F,The Swifts,,,Castle Carrock,Brampton
+2025-01-31,185000,CA8 7LB,S,N,F,10,,Pennine Road,Halton Lea Gate,Brampton
+2025-01-27,73000,CA8 1SP,T,N,L,27,,Townfoot Court,,Brampton
+2025-01-27,73000,CA8 1SP,T,N,L,14,,Townfoot Court,,Brampton
+2025-01-27,155000,CA8 1DT,S,N,F,3,,Stanley Road,,Brampton
+2025-01-22,255000,CA8 7NH,T,N,F,Barhaugh View,,,Slaggyford,Brampton
+2025-01-21,333000,CA8 2QW,T,N,F,Emporion,,,Tindale Fell,Brampton
+2025-01-17,280000,CA8 2NJ,S,N,F,School House,,,Hallbankgate,Brampton
+2025-01-16,167500,CA8 1NU,T,N,F,Knuckleskuds,,Church Lane,,Brampton
+2025-01-09,175000,CA8 7LB,D,N,F,29,,Pennine Road,Halton Lea Gate,Brampton
+2025-01-03,105000,CA8 1NY,F,N,L,23,,Showfield,,Brampton
+2025-01-03,179950,CA8 1BJ,S,N,F,24,,Dacre Road,,Brampton
+2024-12-18,349500,CA8 9JY,S,N,F,Kingwater House,,,How Mill,Brampton
+2024-12-18,132500,CA8 7LB,S,N,F,17,,Pennine Road,Halton Lea Gate,Brampton
+2024-12-18,269000,CA8 1PP,S,Y,F,17,,Hillside Rise,,Brampton
+2024-12-16,315000,CA8 1AF,D,N,F,25,,Howgill Way,,Brampton
+2024-12-13,160000,CA8 1DX,S,N,F,30,,Stanley Road,,Brampton
+2024-12-09,305000,CA8 2DS,S,N,F,8,,Woodleigh,Walton,Brampton
+2024-12-09,670000,CA8 1EX,D,N,F,Belmore,,Station Road,,Brampton
+2024-12-07,175000,CA8 2QJ,T,N,F,1,,Tindale Terrace,Tindale Fell,Brampton
+2024-12-06,61000,CA8 1UN,F,N,L,30,,Moatside,,Brampton
+2024-12-02,218750,CA8 1QJ,S,N,F,18,,Capon Hill,,Brampton
+2024-12-02,150000,CA8 1DJ,S,N,F,21,,Berrymoor Road,,Brampton
+2024-11-28,310000,CA8 2BB,D,N,F,Newfield,,,Lees Hill,Brampton
+2024-11-28,117500,CA8 1SP,T,N,L,20,,Townfoot Court,,Brampton
+2024-11-21,565000,CA8 9DD,D,N,F,The Hollies,,,Cumrew,Brampton
+2024-11-21,44000,CA8 1SP,T,N,L,11,,Townfoot Court,,Brampton
+2024-11-18,162000,CA8 7HL,T,N,F,4,,Thirlwall View,Greenhead,Brampton
+2024-11-18,226000,CA8 7EA,D,N,F,Crooks Cottage,,,Gilsland,Brampton
+2024-11-18,129950,CA8 1BB,F,N,L,Hadrian Court,8,Union Lane,,Brampton
+2024-11-15,450000,CA8 7LE,D,N,F,Burn Bottom,,,Halton Lea Gate,Brampton
+2024-11-15,130000,CA8 7BH,T,N,F,2,,Stanley Crescent,Gilsland,Brampton
+2024-11-14,199000,CA8 9HS,T,N,F,Old Post Office,,,Hayton,Brampton
+2024-11-14,420000,CA8 1NT,S,N,F,Eldon Place,,Front Street,,Brampton
+2024-11-08,136750,CA8 1RR,T,N,F,6,,Carricks Yard,,Brampton
+2024-11-01,320000,CA8 7PG,D,N,F,Newholme,,,Eals,Brampton
+2024-10-30,206500,CA8 2QJ,T,N,F,7,,Tindale Terrace,Tindale Fell,Brampton
+2024-10-29,186666,CA8 1HR,D,N,F,Milton Hall,Lindens,,Milton,Brampton
+2024-10-25,157500,CA8 1US,S,N,F,23,,Beckside Gardens,,Brampton
+2024-10-24,630000,CA8 9JP,D,Y,F,2,,Fairfields,Hayton,Brampton
+2024-10-24,580000,CA8 2DH,D,N,F,Walnut Cottage,,,Walton,Brampton
+2024-10-23,98000,CA8 1PB,T,N,F,29,,St Martins Close,,Brampton
+2024-10-21,140000,CA8 1RZ,S,N,F,21A,,Townfoot Park,,Brampton
+2024-10-17,325000,CA8 2EA,D,N,F,Hill Cottage,,,Walton,Brampton
+2024-10-14,300000,CA8 2DJ,D,N,F,The Limes,,,Walton,Brampton
+2024-10-14,120000,CA8 1LL,T,N,F,1,,South View,Talkin,Brampton
+2024-10-09,445000,CA8 9BF,D,N,F,8,,Arthurs Place,Castle Carrock,Brampton
+2024-10-09,359950,CA8 9AH,S,N,F,29,,Cairn Wood,Heads Nook,Brampton
+2024-10-07,265000,CA8 2HX,D,N,F,14,,Stanegate Way,Low Row,Brampton
+2024-10-04,440000,CA8 9LT,D,N,F,Geltsgarth,,,Castle Carrock,Brampton
+2024-10-03,359000,CA8 9BF,S,N,F,6,,Arthurs Place,Castle Carrock,Brampton
+2024-10-01,175000,CA8 2QD,T,N,F,Roachburn Six Cottages,5,,Tindale Fell,Brampton
+2024-10-01,255000,CA8 1AX,S,N,F,33,,Greencroft,,Brampton
+2024-09-27,168150,CA8 7PG,D,N,F,Rose Cottage,,,Eals,Brampton
+2024-09-27,80000,CA8 1SP,T,N,L,7,,Townfoot Court,,Brampton
+2024-09-27,135550,CA8 1PF,T,N,F,11,,Cambeck Close,,Brampton
+2024-09-20,160000,CA8 9AH,T,N,F,36,,Cairn Wood,Heads Nook,Brampton
+2024-09-20,440000,CA8 1QS,D,N,F,Rosebank,,Paving Brow,,Brampton
+2024-09-20,250000,CA8 1DN,S,N,F,43,,Berrymoor Road,,Brampton
+2024-09-20,255000,CA8 1DF,S,N,F,17,,Parkhead Road,,Brampton
+2024-09-20,154500,CA8 1AL,S,N,F,12,,Beck Riggs,,Brampton
+2024-09-18,205000,CA8 1TZ,S,N,F,3,,Tree Gardens,,Brampton
+2024-09-09,306000,CA8 7NH,S,N,F,Oranmore,,,Slaggyford,Brampton
+2024-09-02,565000,CA8 9JY,D,N,F,How Farm,,,How Mill,Brampton
+2024-09-02,260000,CA8 9HW,S,N,F,8,,Acre Close,Hayton,Brampton
+2024-08-27,250000,CA8 9HR,T,N,F,Jesmond Cottage,,,Hayton,Brampton
+2024-08-23,162500,CA8 1BN,T,N,F,64,,Dacre Road,,Brampton
+2024-08-22,675000,CA8 9JP,D,Y,F,7,,Fairfields,Hayton,Brampton
+2024-08-22,259500,CA8 1RZ,D,N,F,25,,Townfoot Park,,Brampton
+2024-08-20,220000,CA8 1LE,T,N,F,Greenside Cottage,,,Talkin,Brampton
+2024-08-19,260000,CA8 2PN,T,N,F,Howgill,3,,Hallbankgate,Brampton
+2024-08-19,455000,CA8 1HY,D,N,F,Birch Head Cottage,,,Milton,Brampton
+2024-08-19,185500,CA8 1HT,T,N,F,1,,Braeside,Milton,Brampton
+2024-08-19,141000,CA8 1BS,T,N,F,108,,Dacre Road,,Brampton
+2024-08-16,625000,CA8 9HZ,D,Y,F,12,,The Woodlands,Hayton,Brampton
+2024-08-16,325000,CA8 1TP,D,N,F,5,,Oak Park,,Brampton
+2024-08-16,283000,CA8 1QJ,S,N,F,7,,Capon Hill,,Brampton
+2024-08-15,250000,CA8 7BP,D,N,F,5,,Hadrians Crescent,Gilsland,Brampton
+2024-08-12,130000,CA8 2LP,T,N,F,5,,Denton Crescent,Low Row,Brampton
+2024-08-09,582500,CA8 2LY,D,N,F,Burnside,,,Low Row,Brampton
+2024-08-09,150000,CA8 1BQ,S,N,F,19,,Howard Road,,Brampton
+2024-08-08,610000,CA8 9JP,D,Y,F,1,,Fairfields,Hayton,Brampton
+2024-08-06,307500,CA8 7BE,D,N,F,Ridgedale,,,Gilsland,Brampton
+2024-08-06,250000,CA8 1TP,D,N,F,1,,Oak Park,,Brampton
+2024-08-02,377500,CA8 2BA,D,N,F,Forest Lodge,,,Walton,Brampton
+2024-08-01,145000,CA8 7LB,S,N,F,11,,Pennine Road,Halton Lea Gate,Brampton
+2024-07-22,130000,CA8 1BN,T,N,F,68,,Dacre Road,,Brampton
+2024-07-19,140000,CA8 9BP,T,N,F,3,,Fieldside,Burnrigg,Brampton
+2024-07-17,640000,CA8 9EX,D,N,F,Grange House,,,Cumwhitton,Brampton
+2024-07-12,249000,CA8 9LT,S,N,F,Woodside Cottage,,,Castle Carrock,Brampton
+2024-07-09,123040,CA8 2NJ,D,N,F,Engine House Cottage,,,Hallbankgate,Brampton
+2024-07-08,345000,CA8 1QJ,S,N,F,1,Strathcarron,Capon Hill,,Brampton
+2024-07-05,190000,CA8 7AF,S,N,F,Bush Nook Cottage,,,Gilsland,Brampton
+2024-07-02,353750,CA8 9AN,D,N,F,1,,Rose Paddock,Heads Nook,Brampton
+2024-07-01,305000,CA8 1DZ,D,N,F,69,,Stanley Road,,Brampton
+2024-07-01,150000,CA8 1DP,S,N,F,146,,Dacre Road,,Brampton
+2024-06-28,120000,CA8 2QB,T,N,F,5,,Follysyke,Tindale Fell,Brampton
+2024-06-19,157000,CA8 1DE,S,N,F,5,,Parkhead Road,,Brampton
+2024-06-14,195000,CA8 2PL,T,N,F,6,,Park Terrace,Hallbankgate,Brampton
+2024-06-14,237500,CA8 2EB,T,N,F,Guards Hill,The Barn,,Walton,Brampton
+2024-05-31,270000,CA8 2DJ,D,N,F,White House,3,,Walton,Brampton
+2024-05-31,150000,CA8 1TT,S,N,F,11,,Millfield,,Brampton
+2024-05-31,56000,CA8 1NP,T,N,L,5,,Low Cross Street,,Brampton
+2024-05-24,165000,CA8 1TH,T,N,F,2,,St Martins Close,,Brampton
+2024-05-21,401000,CA8 2BU,D,N,F,Wallbowers,,,Banks,Brampton
+2024-05-20,200000,CA8 1LE,D,N,F,Highfield House,,,Talkin,Brampton
+2024-05-17,180000,CA8 1SL,T,N,F,1,,St Martins Terrace,,Brampton
+2024-05-16,126000,CA8 1BB,F,N,L,Hadrian Court,5,Union Lane,,Brampton
+2024-05-15,675000,CA8 9JP,D,Y,F,8,,Fairfields,Hayton,Brampton
+2024-05-09,270000,CA8 9LT,T,N,F,Oaklands,,,Castle Carrock,Brampton
+2024-05-08,441000,CA8 7NH,D,N,F,Ashleigh Lodge,,,Slaggyford,Brampton
+2024-05-03,247000,CA8 1EB,D,N,F,45,,Irthing Park,,Brampton
+2024-05-03,165000,CA8 1DP,S,N,F,138,,Dacre Road,,Brampton
+2024-05-02,365000,CA8 2EB,D,N,F,Guards Hill,,,Walton,Brampton
+2024-05-01,380000,CA8 1AF,D,N,F,16,,Howgill Way,,Brampton
+2024-04-30,127000,CA8 1BT,S,N,F,141,,Dacre Road,,Brampton
+2024-04-22,220000,CA8 7JQ,D,N,F,College View East,,,Greenhead,Brampton
+2024-04-19,180000,CA8 1SS,D,N,F,The Courtyard,2,Carlisle Road,,Brampton
+2024-04-17,410000,CA8 9JA,D,N,F,Nook Cottage,,,Hayton,Brampton
+2024-04-16,300000,CA8 1NY,D,N,F,4,,Showfield,,Brampton
+2024-04-12,220000,CA8 1TF,S,N,F,16,,Elmfield,,Brampton
+2024-04-05,165000,CA8 7BU,T,N,F,3,,Carlton Trice,Gilsland,Brampton
+2024-04-04,550000,CA8 9HT,D,N,F,Bothy Cottage,,,Hayton,Brampton
+2024-04-04,98000,CA8 7HS,T,N,F,1,,Low Castle Terrace,Greenhead,Brampton
+2024-04-02,200000,CA8 9LH,D,N,F,Cowran Cottage,,,Cowranbridge,Brampton
+2024-03-28,230000,CA8 9HW,S,N,F,5,,Acre Close,Hayton,Brampton
+2024-03-22,160000,CA8 1BT,S,N,F,137,,Dacre Road,,Brampton
+2024-03-20,108000,CA8 1PG,T,N,F,17,,Cambeck Close,,Brampton
+2024-03-18,186000,CA8 9AH,S,N,F,17,,Cairn Wood,Heads Nook,Brampton
+2024-03-11,725000,CA8 9JP,D,Y,F,6,,Fairfields,Hayton,Brampton
+2024-03-08,385000,CA8 9BF,S,N,F,4,,Arthurs Place,Castle Carrock,Brampton
+2024-03-08,97000,CA8 7JJ,T,N,F,3,,Old Row,Greenhead,Brampton
+2024-03-08,140000,CA8 2NL,T,N,F,1,,Store Terrace,Hallbankgate,Brampton
+2024-03-07,105000,CA8 1DB,S,N,F,2,,Greenfield Lane,,Brampton
+2024-03-01,180000,CA8 2LZ,S,N,F,1,,Chapelburn Cottages,Low Row,Brampton
+2024-03-01,210000,CA8 1QJ,S,N,F,8,,Capon Hill,,Brampton
+2024-03-01,228000,CA8 1GH,S,N,F,39,,Edmondson Close,,Brampton
+2024-02-29,210000,CA8 9LE,D,N,F,Greycott,,Fenton Lane End,How Mill,Brampton
+2024-02-29,385000,CA8 9DH,D,N,F,Riverside Cottage,,,Newbiggin,Brampton
+2024-02-28,125000,CA8 1SJ,T,N,F,12,,Longtown Road,,Brampton
+2024-02-21,640000,CA8 9JP,D,Y,F,4,,Fairfields,Hayton,Brampton
+2024-02-16,455000,CA8 2HL,D,N,F,Millersholme,,,Lanercost,Brampton
+2024-02-09,225000,CA8 1RZ,D,N,F,1,,Townfoot Park,,Brampton
+2024-02-09,115000,CA8 1NX,T,N,F,35,,Gelt Road,,Brampton
+2024-02-02,330000,CA8 9AH,S,N,F,24,,Cairn Wood,Heads Nook,Brampton
+2024-02-01,630000,CA8 9JP,D,Y,F,3,,Fairfields,Hayton,Brampton
+2024-01-23,220000,CA8 7BQ,S,N,F,2,,Thirlwall Villas,Gilsland,Brampton
+2024-01-15,245000,CA8 2LP,T,N,F,3,,Denton Crescent,Low Row,Brampton
+2023-12-20,300000,CA8 1RZ,D,N,F,71,,Townfoot Park,,Brampton
+2023-12-20,150000,CA8 1DS,T,N,F,1,,Morpeth Close,,Brampton
+2023-12-19,325000,CA8 1LE,S,N,F,Banktop House,,,Talkin,Brampton
+2023-12-18,190000,CA8 1PL,S,N,F,3,,St Martins Court,,Brampton
+2023-12-18,115000,CA8 1NT,T,N,F,48,,Front Street,,Brampton
+2023-12-15,130000,CA8 2LR,T,N,F,2,,James Terrace,Low Row,Brampton
+2023-12-15,225000,CA8 1PP,S,Y,F,3,,Hillside Rise,,Brampton
+2023-12-15,390000,CA8 1AZ,S,N,F,1,,Craigmore,,Brampton
+2023-12-15,234000,CA8 1AL,S,N,F,42,,Beck Riggs,,Brampton
+2023-12-14,209000,CA8 1LL,T,N,F,2,,South View,Talkin,Brampton
+2023-12-08,125000,CA8 1SH,T,N,F,73,,Main Street,,Brampton
+2023-12-08,100000,CA8 1NP,T,N,F,10,,Low Cross Street,,Brampton
+2023-12-05,465000,CA8 2NF,D,N,F,Silver Top,,,Hallbankgate,Brampton
+2023-12-01,285000,CA8 2HX,D,N,F,4,,Stanegate Way,Low Row,Brampton
+2023-12-01,270000,CA8 1PP,S,Y,F,19,,Hillside Rise,,Brampton
+2023-12-01,134500,CA8 1JE,T,N,F,9,,Fell View,Milton,Brampton
+2023-11-24,282500,CA8 9JY,S,N,F,The How,2,,How Mill,Brampton
+2023-11-24,135000,CA8 1JE,T,N,F,2,,Fell View,Milton,Brampton
+2023-11-20,325000,CA8 9AH,S,N,F,27,,Cairn Wood,Heads Nook,Brampton
+2023-11-17,165000,CA8 1BS,T,N,F,104,,Dacre Road,,Brampton
+2023-11-14,375000,CA8 1GH,D,N,F,27,,Edmondson Close,,Brampton
+2023-11-13,390000,CA8 7AG,D,N,F,Park House,,,Denton,Brampton
+2023-11-09,145000,CA8 9AH,T,N,F,34,,Cairn Wood,Heads Nook,Brampton
+2023-11-07,125000,CA8 9BP,T,N,F,11,,Fieldside,Burnrigg,Brampton
+2023-11-06,122000,CA8 9AB,T,N,F,6,,Glen Terrace,Heads Nook,Brampton
+2023-11-03,128510,CA8 1RR,T,N,F,9,,Carricks Yard,,Brampton
+2023-10-31,161500,CA8 1BQ,S,N,F,3,,Howard Road,,Brampton
+2023-10-30,520000,CA8 1QN,D,N,F,Quarry Bank,,Capon Hill,,Brampton
+2023-10-27,355000,CA8 9HF,D,N,F,Wingward,,,Hornsby,Brampton
+2023-10-27,240000,CA8 9BH,D,N,F,Holme View,,Burnrigg,Heads Nook,Brampton
+2023-10-26,782000,CA8 2LY,D,N,F,Church Hill,,,Low Row,Brampton
+2023-10-26,300000,CA8 1QS,D,N,F,Culzean,,Paving Brow,,Brampton
+2023-10-24,290000,CA8 1LE,S,N,F,Hazel House,,,Talkin,Brampton
+2023-10-24,415000,CA8 1GH,D,N,F,24,,Edmondson Close,,Brampton
+2023-10-20,246000,CA8 1TF,S,N,F,18,,Elmfield,,Brampton
+2023-10-19,575000,CA8 9HB,D,N,F,Piper Wicket,,,Cumwhitton,Brampton
+2023-10-02,580000,CA8 9JE,D,N,F,Stonehouse Farm,,,Hayton,Brampton
+2023-09-29,250000,CA8 7JR,D,N,F,Burnside Cottage,,,Greenhead,Brampton
+2023-09-29,250000,CA8 7JR,D,N,F,Burnside Cottage,,,Greenhead,Brampton
+2023-09-29,250000,CA8 2QU,D,N,F,Caer Urfa,,,Denton Mill,Brampton
+2023-09-27,473400,CA8 1ES,D,N,F,Ramleh,,Newcastle Road,,Brampton
+2023-09-27,602500,CA8 1AZ,S,N,F,2,,Craigmore,,Brampton
+2023-09-22,205000,CA8 9DD,D,N,F,The Stars,,,Cumrew,Brampton
+2023-09-15,325000,CA8 9AL,D,N,F,8,,The Whins,Heads Nook,Brampton
+2023-09-15,820000,CA8 2NH,D,N,F,Farlam Ghyll,,,Hallbankgate,Brampton
+2023-09-15,110000,CA8 1SP,T,N,L,28,,Townfoot Court,,Brampton
+2023-09-12,120000,CA8 1RZ,S,N,F,19A,,Townfoot Park,,Brampton
+2023-09-08,200000,CA8 2LP,S,N,F,2,,Denton Crescent,Low Row,Brampton
+2023-09-08,95000,CA8 1SB,T,N,F,59,,Main Street,,Brampton
+2023-08-30,300000,CA8 2DS,D,N,F,3,,Woodleigh,Walton,Brampton
+2023-08-30,56500,CA8 1LE,T,N,F,Tarn End Cottage,,,Talkin,Brampton
+2023-08-29,147000,CA8 1DN,S,N,F,55,,Berrymoor Road,,Brampton
+2023-08-25,335000,CA8 9JE,S,N,F,Stonethwaite,,,Hayton,Brampton
+2023-08-25,135000,CA8 1BT,S,N,F,147,,Dacre Road,,Brampton
+2023-08-24,770000,CA8 9NB,S,N,F,Garth House,,,Castle Carrock,Brampton
+2023-08-24,575000,CA8 1QU,D,N,F,The Paddock,,Paving Brow,,Brampton
+2023-08-24,100000,CA8 1NY,F,N,L,26,,Showfield,,Brampton
+2023-08-23,500000,CA8 9DD,D,N,F,The Old Forge,,,Cumrew,Brampton
+2023-08-23,895000,CA8 2LY,D,N,F,The Old Rectory,,,Low Row,Brampton
+2023-08-18,174000,CA8 1DN,S,N,F,70,,Berrymoor Road,,Brampton
+2023-08-11,300000,CA8 1EX,S,N,F,Stanehie,,Station Road,,Brampton
+2023-08-11,490000,CA8 1EX,D,N,F,Infield,,Station Road,,Brampton
+2023-08-11,157000,CA8 1BH,S,N,F,37,,Howard Road,,Brampton
+2023-08-07,250000,CA8 9JY,D,N,F,Inwood,,,How Mill,Brampton
+2023-08-07,650000,CA8 2BT,D,N,F,Craigsyke Ford,,,West Hall,Brampton
+2023-08-04,200000,CA8 1UZ,S,N,F,5,,Craw Park,,Brampton
+2023-07-28,360000,CA8 9HF,D,N,F,The Firs,,,Hornsby,Brampton
+2023-07-28,170000,CA8 2PH,S,N,F,1,,Lea Terrace,Hallbankgate,Brampton
+2023-07-28,265000,CA8 2DH,T,N,F,Newberry,,,Walton,Brampton
+2023-07-27,69000,CA8 1RP,F,N,L,1,,High Cross Street,,Brampton
+2023-07-24,795000,CA8 9JP,D,Y,F,5,,Fairfields,Hayton,Brampton
+2023-07-24,290000,CA8 7DL,D,N,F,2,,Irthing Park,Gilsland,Brampton
+2023-07-21,150000,CA8 9HR,S,N,F,Rose Cottage,,,Hayton,Brampton
+2023-07-14,187500,CA8 2LQ,S,N,F,North Croft,,,Low Row,Brampton
+2023-07-14,325000,CA8 2HX,D,N,F,3,,Stanegate Way,Low Row,Brampton
+2023-07-14,82000,CA8 1SR,F,N,L,20,,Carlisle Road,,Brampton
+2023-07-10,98000,CA8 7AJ,F,N,L,Orchard House,Flat 7,,Gilsland,Brampton
+2023-07-10,160000,CA8 1NH,S,N,F,Old Blacksmiths Shop,2,Howard Arms Lane,,Brampton
+2023-07-07,185000,CA8 1DS,S,N,F,2,,Morpeth Close,,Brampton
+2023-07-07,218000,CA8 1AH,D,N,F,10,,Howard Gardens,,Brampton
+2023-07-05,105000,CA8 1SP,T,N,L,12,,Townfoot Court,,Brampton
+2023-06-30,135000,CA8 1UQ,T,N,F,14,,Sands Cottages,,Brampton
+2023-06-30,325000,CA8 1TP,D,N,F,2,,Oak Park,,Brampton
+2023-06-28,153500,CA8 7NH,D,N,F,Greenend,,,Slaggyford,Brampton
+2023-06-20,550000,CA8 2HD,F,N,F,Manor House,,,Boothby,Brampton
+2023-06-16,97000,CA8 7JJ,T,N,F,1,,Old Row,Greenhead,Brampton
+2023-06-16,250000,CA8 1PP,S,N,F,1,,Hillside Rise,,Brampton
+2023-06-16,256000,CA8 1DH,S,N,F,7,,Berrymoor Road,,Brampton
+2023-06-16,148000,CA8 1BT,T,N,F,123,,Dacre Road,,Brampton
+2023-06-13,300000,CA8 9AH,D,N,F,57,,Cairn Wood,Heads Nook,Brampton
+2023-06-12,122500,CA8 7HS,T,N,F,8,,Low Castle Terrace,Greenhead,Brampton
+2023-06-12,125000,CA8 2DH,T,N,F,Greenbank,,,Walton,Brampton
+2023-06-09,153000,CA8 7LQ,S,N,F,West View,,,Lambley,Brampton
+2023-06-09,67000,CA8 1UN,F,N,L,20,,Moatside,,Brampton
+2023-06-09,375000,CA8 1GH,D,N,F,26,,Edmondson Close,,Brampton
+2023-06-01,327500,CA8 7HE,D,N,F,Chapel House,,,Greenhead,Brampton
+2023-05-30,300000,CA8 1LA,D,N,F,Inisfree,,,Farlam,Brampton
+2023-05-26,285000,CA8 9AF,D,N,F,The Pines,,,Heads Nook,Brampton
+2023-05-19,240000,CA8 7BS,D,N,F,Riverside,,,Gilsland,Brampton
+2023-05-19,156000,CA8 1TF,S,N,F,13,,Elmfield,,Brampton
+2023-05-18,475000,CA8 1UA,D,N,F,Hollygarth,,Tree Road,,Brampton
+2023-05-18,600000,CA8 1RA,D,N,F,Lonnings End,,Sandy Lonning,,Brampton
+2023-05-17,95000,CA8 1SP,T,N,F,5,,Townfoot Court,,Brampton
+2023-05-12,129950,CA8 1SJ,T,N,F,8,,Longtown Road,,Brampton
+2023-05-11,150000,CA8 7LA,S,N,F,7,,Lea Side,Halton Lea Gate,Brampton
+2023-05-11,125000,CA8 7DN,T,N,F,5,,Railway Terrace,Gilsland,Brampton
+2023-05-05,120250,CA8 9LR,T,N,F,3,,Burnside Terrace,Castle Carrock,Brampton
+2023-05-05,270000,CA8 7JT,S,N,F,Autumn Hill Cottage,,,Greenhead,Brampton
+2023-05-05,275000,CA8 1QQ,T,N,F,Common House,1,Gelt Road,,Brampton
+2023-05-05,125000,CA8 1JE,T,N,F,7,,Fell View,Milton,Brampton
+2023-05-05,180000,CA8 1AX,S,N,F,22,,Greencroft,,Brampton
+2023-04-28,355000,CA8 1TS,D,N,F,Beechgrove,1,Craw Hall,,Brampton
+2023-04-28,160000,CA8 1DQ,S,N,F,12,,Parkhead Road,,Brampton
+2023-04-27,195000,CA8 1AX,S,N,F,30,,Greencroft,,Brampton
+2023-04-21,140000,CA8 2LS,S,N,F,3,,Brow Top,Low Row,Brampton
+2023-04-14,160000,CA8 7JN,T,N,F,5,,Blenkinsopp Terrace,Greenhead,Brampton
+2023-04-06,190000,CA8 1RW,T,N,F,Garden View,,Market Place,,Brampton
+2023-04-04,300000,CA8 2LN,D,N,F,Hawthorn,,,Low Row,Brampton
+2023-04-04,150000,CA8 2EH,S,N,F,2,,West Hall Cottages,West Hall,Brampton
+2023-03-28,190000,CA8 1AX,S,N,F,21,,Greencroft,,Brampton
+2023-03-17,70000,CA8 1SD,T,N,L,3A,,Mark Terrace,,Brampton
+2023-03-17,356500,CA8 1EB,D,N,F,17,,Irthing Park,,Brampton
+2023-03-16,170000,CA8 7JN,T,N,F,7,,Blenkinsopp Terrace,Greenhead,Brampton
+2023-03-15,95000,CA8 1SD,T,N,F,1,,Mark Terrace,,Brampton
+2023-03-14,159250,CA8 9BF,S,Y,F,2,,Arthurs Place,Castle Carrock,Brampton
+2023-03-14,195000,CA8 1AG,S,N,F,27,,Pepperill Place,,Brampton
+2023-03-13,85000,CA8 1PL,F,N,L,5,,St Martins Court,,Brampton
+2023-03-09,63500,CA8 1SB,S,N,F,56,,Main Street,,Brampton
+2023-03-09,235000,CA8 1EB,D,N,F,55,,Irthing Park,,Brampton
+2023-03-02,155000,CA8 1DJ,S,N,F,25,,Berrymoor Road,,Brampton
+2023-03-01,330000,CA8 7JQ,D,N,F,Bankfoot,Milestone Cottage,,Greenhead,Brampton
+2023-02-24,417500,CA8 2LN,D,N,F,The Old School,,,Low Row,Brampton
+2023-02-24,285000,CA8 1RZ,D,N,F,75,,Townfoot Park,,Brampton
+2023-02-23,220000,CA8 7BQ,S,N,F,2,,Thirlwall Villas,Gilsland,Brampton
+2023-02-21,75000,CA8 1SJ,T,N,F,4,,Longtown Road,,Brampton
+2023-02-17,420000,CA8 9NE,D,N,F,Garth Foot Farm,,,Castle Carrock,Brampton
+2023-02-17,249000,CA8 1EX,D,N,F,Drewton,,Station Road,,Brampton
+2023-02-15,159250,CA8 9BF,S,Y,F,1,,Arthurs Place,Castle Carrock,Brampton
+2023-02-15,795000,CA8 1EF,D,N,F,1,,Partridge Hill,Talkin,Brampton
+2023-02-13,62000,CA8 7EH,F,N,L,Bibra,,,Gilsland,Brampton
+2023-02-10,105000,CA8 1AJ,S,Y,F,17,,Bishops Hill Lane,,Brampton
+2023-02-07,240000,CA8 1TT,S,N,F,2,,Millfield,,Brampton
+2023-02-03,130000,CA8 2DH,T,N,F,Rose Cottage,,,Walton,Brampton
+2023-01-31,235000,CA8 9BH,T,N,F,10,,Burnrigg,Heads Nook,Brampton
+2023-01-31,330000,CA8 9BG,D,N,F,10,,Sandy Lane,Heads Nook,Brampton
+2023-01-31,230000,CA8 9AA,T,N,F,Eden Holme,,,Heads Nook,Brampton
+2023-01-27,166000,CA8 1RZ,S,N,F,21A,,Townfoot Park,,Brampton
+2023-01-27,70000,CA8 1NX,S,N,L,8,,Gelt Road,,Brampton
+2023-01-27,180000,CA8 1DJ,S,N,F,46,,Berrymoor Road,,Brampton
+2023-01-27,125000,CA8 1BL,T,N,F,38,,Dacre Road,,Brampton
+2023-01-27,105000,CA8 1AJ,S,Y,F,15,,Bishops Hill Lane,,Brampton
+2023-01-25,294000,CA8 9BB,D,N,F,Broadwath Holdings,15,,Broadwath,Brampton
+2023-01-20,170000,CA8 1DR,T,N,F,134,,Dacre Road,,Brampton
+2023-01-20,127400,CA8 1AJ,S,Y,F,13,,Bishops Hill Lane,,Brampton
+2023-01-13,350000,CA8 2LE,D,N,F,Kells Cottage,,,Low Row,Brampton
+2023-01-13,127400,CA8 1AJ,S,Y,F,11,,Bishops Hill Lane,,Brampton
+2023-01-12,155000,CA8 1DX,S,N,F,30,,Stanley Road,,Brampton
+2023-01-11,245000,CA8 1UT,D,N,F,10,,Jocks Hill,,Brampton
+2023-01-06,310000,CA8 7PG,D,N,F,Chapel Eals,,,Eals,Brampton
+2023-01-04,173000,CA8 1SR,T,N,F,60,,Carlisle Road,,Brampton
+2023-01-04,78000,CA8 1NX,F,N,L,5,,Gelt Road,,Brampton
+2022-12-22,350000,CA8 2JH,T,N,F,The Plough,,,Banks,Brampton
+2022-12-19,325000,CA8 7DX,S,N,F,Eastwood Villa,1,,Gilsland,Brampton
+2022-12-19,187500,CA8 7BW,T,N,F,1,,Hall Terrace,Gilsland,Brampton
+2022-12-16,237000,CA8 9JY,S,N,F,The Nook,,,How Mill,Brampton
+2022-12-16,455000,CA8 1EX,D,N,F,Rosewood House,,Station Road,,Brampton
+2022-12-12,235000,CA8 1NY,D,N,F,8,,Showfield,,Brampton
+2022-12-09,300000,CA8 2JW,D,N,F,Roman Retreat,,,Walton,Brampton
+2022-12-08,346000,CA8 2LN,D,N,F,Denton Villa,,,Low Row,Brampton
+2022-12-07,390000,CA8 1TD,D,N,F,7,,Ash Lea,,Brampton
+2022-12-05,407500,CA8 9JZ,D,N,F,Glenburn,,,Fenton,Brampton
+2022-12-05,146000,CA8 1UG,S,N,F,Sands House Court,28,The Sands,,Brampton
+2022-12-02,875000,CA8 9JY,D,N,F,Cedar Barn,,,How Mill,Brampton
+2022-12-02,350000,CA8 1EN,D,N,F,Braefoot,,Lanercost Road,,Brampton
+2022-12-01,149950,CA8 1AB,S,N,F,4,,Ridge View,,Brampton
+2022-11-30,60000,CA8 2JG,S,N,F,Fellfoot Byre,,,Low Row,Brampton
+2022-11-25,155000,CA8 9HT,T,N,F,Croft View,,,Hayton,Brampton
+2022-11-23,330000,CA8 1LA,D,N,F,Tarn Heights,,,Farlam,Brampton
+2022-11-22,259500,CA8 9HL,S,N,F,Little Garth,,,Hayton,Brampton
+2022-11-16,205000,CA8 9HR,T,N,F,The Beeches,,,Hayton,Brampton
+2022-11-16,200000,CA8 2PL,T,N,F,8,,Park Terrace,Hallbankgate,Brampton
+2022-11-16,240000,CA8 1NY,D,N,F,18,,Showfield,,Brampton
+2022-11-16,149500,CA8 1AL,S,N,F,24,,Beck Riggs,,Brampton
+2022-11-15,390000,CA8 1GH,S,N,F,42,,Edmondson Close,,Brampton
+2022-11-11,230000,CA8 1TX,S,N,F,Ndola,,Tree Road,,Brampton
+2022-11-11,165000,CA8 1BU,S,N,F,Upper Laurel Cottage,,Falkins Hill,,Brampton
+2022-11-11,179950,CA8 1AJ,T,Y,F,6,,Bishops Hill Lane,,Brampton
+2022-11-01,670000,CA8 9JU,D,N,F,Braemar,,,How Mill,Brampton
+2022-11-01,435000,CA8 1UA,D,N,F,West Holme,,Tree Road,,Brampton
+2022-10-31,185000,CA8 9AH,S,N,F,17,,Cairn Wood,Heads Nook,Brampton
+2022-10-28,370000,CA8 9AR,D,N,F,Troutbeck Cottage,,,Heads Nook,Brampton
+2022-10-26,385000,CA8 9HN,D,N,F,Lynden Lea,,Brier Lonning,Hayton,Brampton
+2022-10-26,600000,CA8 2HH,D,N,F,Buck House,,,Lanercost,Brampton
+2022-10-24,180000,CA8 9LU,D,N,F,Fairfield House,,,Castle Carrock,Brampton
+2022-10-21,375000,CA8 1BF,T,Y,F,2,,Tarn End,Talkin,Brampton
+2022-10-14,375000,CA8 1UA,D,N,F,Clover Hill,,Tree Road,,Brampton
+2022-10-14,290000,CA8 1TX,D,N,F,Penwortham,,Tree Road,,Brampton
+2022-10-14,340000,CA8 1TS,S,N,F,Beechgrove,2,Craw Hall,,Brampton
+2022-10-14,280000,CA8 1SY,S,N,F,Low Gelt,Bridge House,,,Brampton
+2022-10-14,334950,CA8 1AJ,D,Y,F,3,,Bishops Hill Lane,,Brampton
+2022-10-13,95000,CA8 1NY,F,N,L,27,,Showfield,,Brampton
+2022-10-03,162000,CA8 9AH,S,N,F,42,,Cairn Wood,Heads Nook,Brampton
+2022-10-03,265000,CA8 1DA,D,N,F,8,,Sawmill Lane,,Brampton
+2022-09-29,495000,CA8 1EF,D,N,F,2,,Partridge Hill,Talkin,Brampton
+2022-09-27,470000,CA8 7LQ,D,N,F,Prudhams Close House,,,Lambley,Brampton
+2022-09-27,775000,CA8 1BE,D,N,F,1,,Ridgemount,,Brampton
+2022-09-26,165000,CA8 1SR,S,N,F,1,,Coxs Lane,,Brampton
+2022-09-23,399950,CA8 1AF,D,Y,F,38,,Howgill Way,,Brampton
+2022-09-22,250000,CA8 2LN,D,N,F,Gillmar,,,Low Row,Brampton
+2022-09-22,425000,CA8 1JL,S,N,F,Sunnyside Cottages,1,,Hallbankgate,Brampton
+2022-09-22,230000,CA8 1AL,S,N,F,38,,Beck Riggs,,Brampton
+2022-09-16,131000,CA8 1US,T,N,F,15,,Beckside Gardens,,Brampton
+2022-09-16,80100,CA8 1DY,T,N,F,53,,Stanley Road,,Brampton
+2022-09-16,121000,CA8 1BJ,S,N,F,24,,Dacre Road,,Brampton
+2022-09-15,295000,CA8 9AL,D,N,F,2,,The Whins,Heads Nook,Brampton
+2022-09-12,400000,CA8 1UA,D,N,F,Hill Crest,,Tree Road,,Brampton
+2022-09-09,53000,CA8 1RP,F,N,L,Jackson Court,Flat 2,High Cross Street,,Brampton
+2022-09-09,495000,CA8 1EF,D,N,F,4,,Partridge Hill,Talkin,Brampton
+2022-09-09,448950,CA8 1AF,D,Y,F,3,,Howgill Way,,Brampton
+2022-09-02,229000,CA8 1GH,S,N,F,40,,Edmondson Close,,Brampton
+2022-09-01,162000,CA8 1AG,T,N,F,19,,Pepperill Place,,Brampton
+2022-08-31,395000,CA8 2QZ,D,N,F,Scarrow Hill,,,,Brampton
+2022-08-30,187500,CA8 2LP,T,N,F,6,,Denton Crescent,Low Row,Brampton
+2022-08-24,225000,CA8 7HN,S,N,F,Holyrood House,,,Greenhead,Brampton
+2022-08-23,123000,CA8 1AL,S,N,F,12,,Beck Riggs,,Brampton
+2022-08-19,225000,CA8 9JT,S,N,F,Lonning Foot,,,How Mill,Brampton
+2022-08-19,230000,CA8 7LB,S,N,F,The Coach House,,Pennine Road,Halton Lea Gate,Brampton
+2022-08-19,395000,CA8 1AF,D,N,F,2,,Howgill Way,,Brampton
+2022-08-18,315950,CA8 1AF,D,Y,F,67,,Howgill Way,,Brampton
+2022-08-15,475000,CA8 1EF,D,N,F,3,,Partridge Hill,Talkin,Brampton
+2022-08-12,427000,CA8 9BF,D,Y,F,3,,Arthurs Place,Castle Carrock,Brampton
+2022-08-12,200000,CA8 7LT,T,N,F,1,,High Midgeholme Cottages,Midgeholme,Brampton
+2022-08-12,315000,CA8 1QB,D,N,F,Hartfield,,Gelt Road,,Brampton
+2022-08-12,135000,CA8 1BB,F,N,L,Hadrian Court,7,Union Lane,,Brampton
+2022-08-05,374950,CA8 1AF,D,Y,F,61,,Howgill Way,,Brampton
+2022-08-04,400000,CA8 9AN,D,N,F,2,,Rose Paddock,Heads Nook,Brampton
+2022-08-02,350000,CA8 9BF,S,Y,F,4,,Arthurs Place,Castle Carrock,Brampton
+2022-08-02,120000,CA8 7DP,T,N,F,12,,Rosehill,Gilsland,Brampton
+2022-07-29,350000,CA8 9BF,S,Y,F,5,,Arthurs Place,Castle Carrock,Brampton
+2022-07-29,309950,CA8 1AF,D,Y,F,59,,Howgill Way,,Brampton
+2022-07-27,80000,CA8 1SB,F,N,F,43,,Main Street,,Brampton
+2022-07-15,226950,CA8 1AF,S,Y,F,43,,Howgill Way,,Brampton
+2022-07-14,250000,CA8 1TR,D,N,F,Nestling Fir House,,Craw Hall,,Brampton
+2022-07-08,540000,CA8 1SH,D,N,F,The Hollies,,Main Street,,Brampton
+2022-07-08,218452,CA8 1AF,S,Y,F,45,,Howgill Way,,Brampton
+2022-07-01,565000,CA8 1QL,D,N,F,Fallows End,,Capon Tree Road,,Brampton
+2022-06-28,330000,CA8 7NJ,D,N,F,Cedar Gables,,,Slaggyford,Brampton
+2022-06-27,560000,CA8 9HG,D,N,F,Fowlpool Farm,,,Hornsby Gate,Brampton
+2022-06-24,290000,CA8 7DX,D,N,F,Borderside,,,Gilsland,Brampton
+2022-06-23,295000,CA8 2LL,S,N,F,Coach House Cottage,,,Low Row,Brampton
+2022-06-22,350000,CA8 9BF,S,Y,F,7,,Arthurs Place,Castle Carrock,Brampton
+2022-06-22,185000,CA8 1BU,S,N,F,Lower Laurel Cottage,,Falkins Hill,,Brampton
+2022-06-17,105000,CA8 1SP,T,N,L,25,,Townfoot Court,,Brampton
+2022-06-17,105000,CA8 1AF,T,Y,F,51,,Howgill Way,,Brampton
+2022-06-17,364950,CA8 1AF,D,Y,F,41,,Howgill Way,,Brampton
+2022-06-13,100000,CA8 7LG,F,N,F,"The Shanters, 4",,Shanters Houses,Lambley,Brampton
+2022-06-09,350000,CA8 9BF,S,Y,F,6,,Arthurs Place,Castle Carrock,Brampton
+2022-06-09,195000,CA8 2QA,T,N,F,Blackthorn Bank Cottage,,,Tindale Fell,Brampton
+2022-06-09,410000,CA8 2LQ,D,N,F,Denton House,,,Low Row,Brampton
+2022-06-06,78000,CA8 7BE,S,N,F,Middle March Cottage,,,Gilsland,Brampton
+2022-05-31,420000,CA8 9NL,D,N,F,2,,High Meadow,Castle Carrock,Brampton
+2022-05-31,78000,CA8 7BE,T,N,F,Jubilee Cottage,,,Gilsland,Brampton
+2022-05-31,80000,CA8 1SE,T,N,F,Bank Court,3,Main Street,,Brampton
+2022-05-31,85000,CA8 1SE,T,N,F,Bank Court,4,Main Street,,Brampton
+2022-05-31,150000,CA8 1BN,T,N,F,64,,Dacre Road,,Brampton
+2022-05-27,115000,CA8 7EP,S,N,F,1,,Croft Cottages,Gilsland,Brampton
+2022-05-27,135000,CA8 1US,T,N,F,16,,Beckside Gardens,,Brampton
+2022-05-27,60000,CA8 1PL,F,N,L,8,,St Martins Court,,Brampton
+2022-05-27,234950,CA8 1AF,S,Y,F,36,,Howgill Way,,Brampton
+2022-05-26,90000,CA8 1SP,T,N,L,6,,Townfoot Court,,Brampton
+2022-05-13,243000,CA8 1BY,D,N,F,7,,Ridley Gardens,,Brampton
+2022-05-13,234950,CA8 1AF,S,Y,F,34,,Howgill Way,,Brampton
+2022-05-13,234950,CA8 1AF,S,N,F,34,,Howgill Way,,Brampton
+2022-05-06,675000,CA8 2DJ,D,N,F,Orchard House,,,Walton,Brampton
+2022-04-21,395000,CA8 1TP,D,N,F,9,,Oak Park,,Brampton
+2022-04-21,385000,CA8 1QH,S,N,F,Westfield,,Gelt Road,,Brampton
+2022-04-21,495000,CA8 1ET,D,N,F,Cottage,,The Sands,,Brampton
+2022-04-14,105000,CA8 1SA,T,N,F,2,,Main Court,,Brampton
+2022-04-14,215000,CA8 1EB,D,N,F,26,,Irthing Park,,Brampton
+2022-04-14,160000,CA8 1AX,S,N,F,1,,Greencroft,,Brampton
+2022-04-14,295000,CA8 1AL,D,N,F,30,,Beck Riggs,,Brampton
+2022-04-14,314950,CA8 1AF,D,Y,F,37,,Howgill Way,,Brampton
+2022-04-13,120000,CA8 1BN,S,N,F,65,,Dacre Road,,Brampton
+2022-04-11,200000,CA8 7LQ,D,N,F,Valley View,,,Lambley,Brampton
+2022-04-08,129350,CA8 1DT,S,N,F,21,,Stanley Road,,Brampton
+2022-04-01,80000,CA8 1SP,T,N,L,23,,Townfoot Court,,Brampton
+2022-04-01,296950,CA8 1AF,D,Y,F,35,,Howgill Way,,Brampton
+2022-04-01,359950,CA8 1AF,D,Y,F,33,,Howgill Way,,Brampton
+2022-04-01,179950,CA8 1AF,S,Y,F,30,,Howgill Way,,Brampton
+2022-04-01,179950,CA8 1AF,S,N,F,30,,Howgill Way,,Brampton
+2022-03-31,100000,CA8 1NX,T,N,F,2 - 4,,Gelt Road,,Brampton
+2022-03-25,135000,CA8 1DU,S,N,F,29,,Stanley Road,,Brampton
+2022-03-25,294950,CA8 1AF,D,Y,F,31,,Howgill Way,,Brampton
+2022-03-23,266000,CA8 2DZ,D,N,F,Petersyke Cottage,,,Walton,Brampton
+2022-03-22,135000,CA8 2AZ,S,N,F,Howard Cottage,,,Walton,Brampton
+2022-03-21,130000,CA8 1HT,T,N,F,2,,Braeside,Milton,Brampton
+2022-03-21,375000,CA8 1EN,S,N,F,Ridgevale,,Lanercost Road,,Brampton
+2022-03-18,440000,CA8 1ET,D,N,F,Fair Hill,,The Sands,,Brampton
+2022-03-18,179950,CA8 1AF,S,Y,F,28,,Howgill Way,,Brampton
+2022-03-17,263000,CA8 2QA,D,N,F,Roachburn House,,,Tindale Fell,Brampton
+2022-03-17,62500,CA8 1SB,S,N,F,56,,Main Street,,Brampton
+2022-03-11,82500,CA8 1SP,T,N,L,11,,Townfoot Court,,Brampton
+2022-03-11,223950,CA8 1AF,S,Y,F,22,,Howgill Way,,Brampton
+2022-03-04,165000,CA8 2LE,T,N,F,8,,Carricks Court,Low Row,Brampton
+2022-03-04,268000,CA8 1NY,D,N,F,9,,Showfield,,Brampton
+2022-03-04,221950,CA8 1AF,S,Y,F,20,,Howgill Way,,Brampton
+2022-02-25,150000,CA8 2LE,D,N,F,"The Brackens, 3",,Carricks Court,Low Row,Brampton
+2022-02-25,150000,CA8 1DR,T,N,F,134,,Dacre Road,,Brampton
+2022-02-25,359950,CA8 1AF,D,Y,F,29,,Howgill Way,,Brampton
+2022-02-25,372950,CA8 1AF,D,Y,F,27,,Howgill Way,,Brampton
+2022-02-24,135000,CA8 1BB,F,N,L,Hadrian Court,8,Union Lane,,Brampton
+2022-02-23,495000,CA8 1QP,D,N,F,Horizon,,Capon Tree Road,,Brampton
+2022-02-21,175000,CA8 2PR,S,N,F,1,,Beechwood,Hallbankgate,Brampton
+2022-02-18,477500,CA8 9HT,D,N,F,Hope Cottage,,,Hayton,Brampton
+2022-02-18,189000,CA8 1EB,S,N,F,33,,Irthing Park,,Brampton
+2022-02-18,216500,CA8 1BY,S,N,F,2,,Ridley Gardens,,Brampton
+2022-02-18,78000,CA8 1AL,F,N,L,1,,Beck Riggs,,Brampton
+2022-02-17,545000,CA8 9AY,D,N,F,Corry House,,,Heads Nook,Brampton
+2022-02-04,100000,CA8 2QJ,T,N,F,8,,Tindale Terrace,Tindale Fell,Brampton
+2022-02-03,216500,CA8 1NT,T,N,F,58,,Front Street,,Brampton
+2022-02-03,367950,CA8 1AF,D,Y,F,23,,Howgill Way,,Brampton
+2022-02-02,180000,CA8 1LE,T,N,F,Dreneholme,,,Talkin,Brampton
+2022-01-28,115000,CA8 1SR,T,N,F,60,,Carlisle Road,,Brampton
+2022-01-28,184950,CA8 1AG,T,Y,F,17,,Pepperill Place,,Brampton
+2022-01-28,179950,CA8 1AG,T,Y,F,15,,Pepperill Place,,Brampton
+2022-01-28,179950,CA8 1AG,T,Y,F,13,,Pepperill Place,,Brampton
+2022-01-28,184950,CA8 1AG,T,Y,F,11,,Pepperill Place,,Brampton
+2022-01-28,289950,CA8 1AF,D,Y,F,18,,Howgill Way,,Brampton
+2022-01-21,115000,CA8 1NX,T,N,F,39,,Gelt Road,,Brampton
+2022-01-18,180000,CA8 1HT,T,N,F,1,,Braeside,Milton,Brampton
+2022-01-14,72000,CA8 1RP,F,N,L,Jackson Court,Flat 6,High Cross Street,,Brampton
+2022-01-14,311950,CA8 1AF,D,Y,F,16,,Howgill Way,,Brampton
+2022-01-07,605000,CA8 2JR,D,N,F,Low Dovecote,,,Walton,Brampton
+2021-12-23,300000,CA8 9HR,D,N,F,Castle Bank,,,Hayton,Brampton
+2021-12-21,125000,CA8 1US,T,N,F,15,,Beckside Gardens,,Brampton
+2021-12-17,190000,CA8 7NH,S,N,F,Grove View,,,Slaggyford,Brampton
+2021-12-17,192000,CA8 1AX,S,N,F,17,,Greencroft,,Brampton
+2021-12-17,179950,CA8 1AG,T,N,F,16,,Pepperill Place,,Brampton
+2021-12-17,179950,CA8 1AG,T,Y,F,16,,Pepperill Place,,Brampton
+2021-12-17,371950,CA8 1AF,D,Y,F,14,,Howgill Way,,Brampton
+2021-12-15,143000,CA8 9BP,T,N,F,12,,Fieldside,Burnrigg,Brampton
+2021-12-15,90000,CA8 2QA,S,N,F,Follysyke Farm,,,Tindale Fell,Brampton
+2021-12-13,175000,CA8 7NH,D,N,F,Rose Cottage,,,Slaggyford,Brampton
+2021-12-10,746000,CA8 9AR,D,N,F,Summerfield,,,Heads Nook,Brampton
+2021-12-10,190000,CA8 7DA,D,N,F,Hillcroft,,,Gilsland,Brampton
+2021-12-10,289950,CA8 1AG,D,Y,F,1,,Pepperill Place,,Brampton
+2021-12-09,263000,CA8 9HR,T,N,F,Wellfield,,,Hayton,Brampton
+2021-12-09,90000,CA8 1NY,F,N,L,23,,Showfield,,Brampton
+2021-12-03,300000,CA8 9EJ,D,N,F,Broadwath Holdings,"Howard Place, 22A",,Broadwath,Brampton
+2021-12-03,470000,CA8 1QX,D,N,F,Hemblesgate,,Tarn Road,,Brampton
+2021-12-03,450000,CA8 1BF,T,Y,F,6,,Tarn End,Talkin,Brampton
+2021-12-01,115000,CA8 7LB,S,N,F,15,,Pennine Road,Halton Lea Gate,Brampton
+2021-12-01,351950,CA8 1AG,D,Y,F,9,,Pepperill Place,,Brampton
+2021-11-30,93000,CA8 7DP,S,N,F,Thorns,,Rosehill,Gilsland,Brampton
+2021-11-26,135000,CA8 2LG,S,N,F,5,,Railway Cottages,Low Row,Brampton
+2021-11-26,126000,CA8 2BQ,D,N,F,Howdale Cottage,,,Kirkcambeck,Brampton
+2021-11-22,190000,CA8 7HR,D,N,F,4,,Balmoral Cottage,Greenhead,Brampton
+2021-11-19,140000,CA8 1DF,S,N,F,9,,Parkhead Road,,Brampton
+2021-11-19,240000,CA8 1BY,D,N,F,4,,Ridley Gardens,,Brampton
+2021-11-19,184950,CA8 1AG,S,Y,F,27,,Pepperill Place,,Brampton
+2021-11-12,169950,CA8 1RR,T,N,F,4,,Carricks Yard,,Brampton
+2021-11-12,105000,CA8 1DN,S,N,F,33,,Berrymoor Road,,Brampton
+2021-11-11,400000,CA8 2LN,D,N,F,Wallfoot,,,Low Row,Brampton
+2021-11-09,127000,CA8 2DH,T,N,F,Wallside,,,Walton,Brampton
+2021-11-08,287500,CA8 1LE,D,N,F,Ashtree House,,,Talkin,Brampton
+2021-11-05,69000,CA8 1NP,T,N,F,8,,Low Cross Street,,Brampton
+2021-11-05,450000,CA8 1BF,T,Y,F,4,,Tarn End,Talkin,Brampton
+2021-11-05,182950,CA8 1AG,T,Y,F,14,,Pepperill Place,,Brampton
+2021-11-03,125500,CA8 7BE,T,N,F,The Towers,,,Gilsland,Brampton
+2021-11-01,520000,CA8 9JZ,D,N,F,Fenton Grange,,,Fenton,Brampton
+2021-10-29,183000,CA8 1TT,S,N,F,3,,Millfield,,Brampton
+2021-10-29,221950,CA8 1AG,S,Y,F,7,,Pepperill Place,,Brampton
+2021-10-27,165000,CA8 1EB,S,N,F,37,,Irthing Park,,Brampton
+2021-10-25,300000,CA8 1EX,S,N,F,Oaklea,,Station Road,,Brampton
+2021-10-25,175000,CA8 1EB,S,N,F,35,,Irthing Park,,Brampton
+2021-10-22,219950,CA8 1AG,S,Y,F,5,,Pepperill Place,,Brampton
+2021-10-19,245000,CA8 1UT,D,N,F,23,,Jocks Hill,,Brampton
+2021-10-19,245000,CA8 1TW,S,N,F,11,,Craw Hall,,Brampton
+2021-10-18,119500,CA8 1BP,T,N,F,84,,Dacre Road,,Brampton
+2021-10-15,330000,CA8 9EL,D,N,F,Stonerigg Barn,,,Broadwath,Brampton
+2021-10-15,251950,CA8 9AE,S,N,F,Paddington Cottage,,,Heads Nook,Brampton
+2021-10-14,369950,CA8 1AG,D,Y,F,3,,Pepperill Place,,Brampton
+2021-10-08,141000,CA8 7LQ,S,N,F,West View,,,Lambley,Brampton
+2021-10-08,150000,CA8 7DA,D,N,F,Willow Bank,,,Gilsland,Brampton
+2021-10-08,135000,CA8 1DP,S,N,F,144,,Dacre Road,,Brampton
+2021-10-08,179950,CA8 1AG,T,Y,F,18,,Pepperill Place,,Brampton
+2021-10-07,184950,CA8 1AG,S,Y,F,25,,Pepperill Place,,Brampton
+2021-09-30,211000,CA8 2QD,T,N,F,Roachburn Six Cottages,3,,Tindale Fell,Brampton
+2021-09-30,175000,CA8 1US,S,N,F,17,,Beckside Gardens,,Brampton
+2021-09-30,280000,CA8 1EW,T,N,F,4,,Ridgevale Terrace,,Brampton
+2021-09-30,247500,CA8 1DA,D,N,F,6,,Sawmill Lane,,Brampton
+2021-09-30,289950,CA8 1AF,D,Y,F,21,,Howgill Way,,Brampton
+2021-09-30,359950,CA8 1AF,D,Y,F,19,,Howgill Way,,Brampton
+2021-09-29,300000,CA8 1SY,D,N,F,Low Gelt,Old Hare & Hounds,,,Brampton
+2021-09-29,365000,CA8 1BF,T,Y,F,3,,Tarn End,Talkin,Brampton
+2021-09-29,335000,CA8 1BF,T,Y,F,1,,Tarn End,Talkin,Brampton
+2021-09-27,130000,CA8 9AF,D,N,F,Dovedale,,,Heads Nook,Brampton
+2021-09-27,273000,CA8 7EB,D,N,F,Holmlea,,,Gilsland,Brampton
+2021-09-24,164500,CA8 1UT,D,N,F,24,,Jocks Hill,,Brampton
+2021-09-24,97000,CA8 1PF,T,N,F,9,,Cambeck Close,,Brampton
+2021-09-24,388000,CA8 1EX,S,N,F,Bromfield,,Station Road,,Brampton
+2021-09-24,151000,CA8 1BH,S,N,F,27,,Howard Road,,Brampton
+2021-09-24,149950,CA8 1AG,S,N,F,23,,Pepperill Place,,Brampton
+2021-09-24,147950,CA8 1AG,T,Y,F,21,,Pepperill Place,,Brampton
+2021-09-24,147950,CA8 1AG,T,N,F,21,,Pepperill Place,,Brampton
+2021-09-23,155000,CA8 1DU,T,N,F,20,,Stanley Road,,Brampton
+2021-09-23,122000,CA8 1BN,S,N,F,60,,Dacre Road,,Brampton
+2021-09-17,79000,CA8 1PF,T,N,F,11,,Cambeck Close,,Brampton
+2021-09-17,248000,CA8 1LU,S,N,F,Fell View,,,Talkin,Brampton
+2021-09-17,149950,CA8 1AG,T,Y,F,19,,Pepperill Place,,Brampton
+2021-09-16,240000,CA8 1RZ,D,N,F,13,,Townfoot Park,,Brampton
+2021-09-15,98000,CA8 1SP,T,N,L,20,,Townfoot Court,,Brampton
+2021-09-10,265000,CA8 9HG,D,N,F,Quietways,,,Hornsby Gate,Brampton
+2021-09-10,208000,CA8 2DW,D,N,F,Ash Garth,,,Walton,Brampton
+2021-09-09,295000,CA8 1UZ,D,N,F,12,,Craw Park,,Brampton
+2021-09-08,250000,CA8 1NY,D,N,F,20,,Showfield,,Brampton
+2021-09-07,190000,CA8 7EB,T,N,F,Alpha Rise,3,,Gilsland,Brampton
+2021-09-06,350000,CA8 9BP,D,N,F,7,,Fieldside,Burnrigg,Brampton
+2021-09-03,310000,CA8 1TS,D,N,F,Beechgrove,1,Craw Hall,,Brampton
+2021-09-03,195000,CA8 1BT,S,N,F,117,,Dacre Road,,Brampton
+2021-09-02,148000,CA8 7LB,T,N,F,24,,Pennine Road,Halton Lea Gate,Brampton
+2021-09-01,349950,CA8 1AG,D,Y,F,8,,Pepperill Place,,Brampton
+2021-08-31,265000,CA8 9HL,D,N,F,Little Garth Barn,,,Hayton,Brampton
+2021-08-31,500000,CA8 2JH,D,N,F,High Barn,,,Banks,Brampton
+2021-08-27,125000,CA8 9HT,T,N,F,Croft View,,,Hayton,Brampton
+2021-08-27,340000,CA8 9BA,D,N,F,Field View,,,Broadwath,Brampton
+2021-08-27,465000,CA8 2QU,D,N,F,Scarrow Hill House,,,Denton Mill,Brampton
+2021-08-27,174950,CA8 1AG,S,Y,F,31,,Pepperill Place,,Brampton
+2021-08-27,174950,CA8 1AG,S,Y,F,29,,Pepperill Place,,Brampton
+2021-08-26,177500,CA8 2NQ,T,N,F,3,,Farlam Hall Cottages,Hallbankgate,Brampton
+2021-08-20,157000,CA8 9AH,T,N,F,35,,Cairn Wood,Heads Nook,Brampton
+2021-08-20,167000,CA8 9AH,S,N,F,20,,Cairn Wood,Heads Nook,Brampton
+2021-08-20,219950,CA8 1AG,S,Y,F,4,,Pepperill Place,,Brampton
+2021-08-18,385000,CA8 9HR,S,N,F,Hempgarth,,,Hayton,Brampton
+2021-08-18,180000,CA8 1QW,S,N,F,Capon Hill Barn,,Capon Tree Road,,Brampton
+2021-08-17,100000,CA8 7EA,D,N,F,Crooks Cottage,,,Gilsland,Brampton
+2021-08-16,200000,CA8 2LE,D,N,F,Thistle Dew,,,Low Row,Brampton
+2021-08-16,347000,CA8 1GH,D,N,F,33,,Edmondson Close,,Brampton
+2021-08-13,123000,CA8 7JG,T,N,F,2,,Byron Terrace,Greenhead,Brampton
+2021-08-06,192500,CA8 1NY,D,N,F,2,,Showfield,,Brampton
+2021-08-06,182950,CA8 1AG,T,Y,F,20,,Pepperill Place,,Brampton
+2021-08-05,244000,CA8 9EN,S,N,F,The Hallows,,Warren Hill,Faugh,Brampton
+2021-07-30,210000,CA8 9HT,S,N,F,High House,,,Hayton,Brampton
+2021-07-26,320000,CA8 1TD,D,N,F,4,,Ash Lea,,Brampton
+2021-07-23,550000,CA8 2JW,D,N,F,Burthinghurst,,,Walton,Brampton
+2021-07-23,189950,CA8 1AG,S,N,F,12,,Pepperill Place,,Brampton
+2021-07-23,189950,CA8 1AG,S,Y,F,12,,Pepperill Place,,Brampton
+2021-07-23,189950,CA8 1AG,S,Y,F,10,,Pepperill Place,,Brampton
+2021-07-21,144000,CA8 2NP,T,N,F,Bank Hall,4,,Hallbankgate,Brampton
+2021-07-19,298000,CA8 2PF,S,N,F,Eastern Cottage,,,Hallbankgate,Brampton
+2021-07-16,310722,CA8 9HF,D,N,F,Rose Dene,,,Hornsby,Brampton
+2021-07-16,120000,CA8 1US,S,N,F,22,,Beckside Gardens,,Brampton
+2021-07-16,182000,CA8 1UG,S,N,F,Kilmorry Cottages,1,The Sands,,Brampton
+2021-07-16,51000,CA8 1SR,T,N,F,15,,Carlisle Road,,Brampton
+2021-07-16,105000,CA8 1PG,T,N,F,17,,Cambeck Close,,Brampton
+2021-07-15,260000,CA8 7BE,D,N,F,Ridgedale,,,Gilsland,Brampton
+2021-07-13,385000,CA8 2NJ,D,N,F,Police House,,,Hallbankgate,Brampton
+2021-07-09,380000,CA8 1TD,D,N,F,16,,Ash Lea,,Brampton
+2021-07-09,289950,CA8 1AG,D,Y,F,6,,Pepperill Place,,Brampton
+2021-07-07,85950,CA8 7EH,F,N,L,Banna,,,Gilsland,Brampton
+2021-07-05,110000,CA8 1BT,S,N,F,149,,Dacre Road,,Brampton
+2021-07-02,157000,CA8 9AH,S,N,F,31,,Cairn Wood,Heads Nook,Brampton
+2021-07-02,98000,CA8 1NP,S,N,F,7,,Low Cross Street,,Brampton
+2021-06-30,380000,CA8 9EX,D,N,F,Church Gates,,,Cumwhitton,Brampton
+2021-06-30,450000,CA8 9EG,D,N,F,Faugh Farm House,,,Faugh,Brampton
+2021-06-30,415000,CA8 9AP,D,N,F,Dunira,,Allengrove,Heads Nook,Brampton
+2021-06-30,229500,CA8 1RZ,D,N,F,71,,Townfoot Park,,Brampton
+2021-06-29,385000,CA8 9AT,D,N,F,8,,Whins Close,Heads Nook,Brampton
+2021-06-29,135000,CA8 1UL,T,N,F,4,,Moat Terrace,,Brampton
+2021-06-29,289950,CA8 1AF,D,Y,F,17,,Howgill Way,,Brampton
+2021-06-28,165000,CA8 7LB,T,N,F,14,,Pennine Road,Halton Lea Gate,Brampton
+2021-06-28,295000,CA8 2LT,D,N,F,The Hollies,,,Low Row,Brampton
+2021-06-28,205000,CA8 1BY,T,N,F,5,,Ridley Gardens,,Brampton
+2021-06-25,280000,CA8 9HL,S,N,F,Garth Barn,,,Hayton,Brampton
+2021-06-25,200000,CA8 1HY,D,N,F,Birch Head Bungalow,,,Milton,Brampton
+2021-06-23,410000,CA8 7HB,D,N,F,School House,,,Greenhead,Brampton
+2021-06-23,119950,CA8 1BW,S,N,F,35,,Dacre Road,,Brampton
+2021-06-22,240000,CA8 1LE,S,N,F,Hazel House,,,Talkin,Brampton
+2021-06-18,490244,CA8 2AT,T,N,F,Crooked Holme Barn,,,,Brampton
+2021-06-18,87000,CA8 1NY,F,N,L,32,,Showfield,,Brampton
+2021-06-17,505000,CA8 9LE,D,N,F,Millerground,,Fenton Lane End,How Mill,Brampton
+2021-06-17,285000,CA8 9EB,D,N,F,School House,,,Faugh,Brampton
+2021-06-16,585000,CA8 2DJ,D,N,F,Orchard House,,,Walton,Brampton
+2021-06-16,122500,CA8 1SP,T,N,F,4,,Townfoot Court,,Brampton
+2021-06-11,355000,CA8 9DW,D,N,F,Clouds Cottage,,,Heads Nook,Brampton
+2021-06-08,235000,CA8 2LE,D,N,F,Casa Mia,,,Low Row,Brampton
+2021-06-04,375000,CA8 9LH,D,N,F,Penclose,,,Cowranbridge,Brampton
+2021-06-04,375000,CA8 9EX,D,N,F,Blossom House,,,Cumwhitton,Brampton
+2021-06-04,133000,CA8 1DZ,S,N,F,59,,Stanley Road,,Brampton
+2021-06-04,304950,CA8 1AF,D,Y,F,15,,Howgill Way,,Brampton
+2021-06-01,112000,CA8 7DR,S,N,L,Old Forge,,,Gilsland,Brampton
+2021-05-28,162500,CA8 9HJ,T,N,F,1,,Brier Mews,Hayton,Brampton
+2021-05-28,130000,CA8 2NP,F,N,F,Bank Hall,3,,Hallbankgate,Brampton
+2021-05-28,275000,CA8 2NJ,D,N,F,Holme Fell Cottage,,,Hallbankgate,Brampton
+2021-05-28,450000,CA8 1SF,D,N,F,Holme Oak,,Manor Gardens,,Brampton
+2021-05-28,425000,CA8 1QW,D,N,F,Braemore,,Capon Tree Road,,Brampton
+2021-05-28,250000,CA8 1EE,T,N,F,3,,Scholars Rise,,Brampton
+2021-05-28,335000,CA8 1BF,T,Y,F,10,,Tarn End,Talkin,Brampton
+2021-05-28,289950,CA8 1AF,D,Y,F,13,,Howgill Way,,Brampton
+2021-05-27,140000,CA8 7HL,T,N,F,3,,Thirlwall View,Greenhead,Brampton
+2021-05-27,225000,CA8 1EX,D,N,F,Wellesley,,Station Road,,Brampton
+2021-05-27,134500,CA8 1AT,S,N,F,2,,The Wayside,,Brampton
+2021-05-25,117000,CA8 1BQ,S,N,F,2,,Howard Road,,Brampton
+2021-05-18,300000,CA8 9BA,S,N,F,Millbrook,2,,Broadwath,Brampton
+2021-05-14,150000,CA8 1BU,S,N,F,Lower Laurel Cottage,,Falkins Hill,,Brampton
+2021-05-12,400000,CA8 1UA,D,N,F,West Holme,,Tree Road,,Brampton
+2021-05-11,185000,CA8 9DW,S,N,F,2,,Longdyke Cottages,Heads Nook,Brampton
+2021-05-10,67000,CA8 1RS,S,N,F,2,,Main Street,,Brampton
+2021-05-07,255000,CA8 9EG,D,N,F,The Cottage,,,Faugh,Brampton
+2021-05-07,84500,CA8 1NF,T,N,F,Beckside Court,2,Beck Lane,,Brampton
+2021-05-07,107500,CA8 1BP,S,N,F,100,,Dacre Road,,Brampton
+2021-05-07,325000,CA8 1BF,T,Y,F,12,,Tarn End,Talkin,Brampton
+2021-05-06,250000,CA8 1EE,T,N,F,4,,Scholars Rise,,Brampton
+2021-05-05,572500,CA8 1SG,D,N,F,High Croft,,Main Street,,Brampton
+2021-04-26,233950,CA8 7JQ,D,N,F,College View East,,,Greenhead,Brampton
+2021-04-23,265000,CA8 9EN,S,N,F,"Dunkeld, 7",,Warren Hill,Faugh,Brampton
+2021-04-23,410000,CA8 2LT,D,N,F,Low Broomhill,,,Low Row,Brampton
+2021-04-23,120000,CA8 2LF,T,N,F,1,,Dairy Cottages,Low Row,Brampton
+2021-04-22,195000,CA8 1TY,T,N,F,1,,Tree Terrace,,Brampton
+2021-04-16,275000,CA8 1EU,D,N,F,Edgewood,,Station Road,,Brampton
+2021-04-16,183000,CA8 1AX,S,N,F,39,,Greencroft,,Brampton
+2021-04-15,115000,CA8 7DP,T,N,F,3,,Rosehill,Gilsland,Brampton
+2021-04-13,166000,CA8 2PL,T,N,F,6,,Park Terrace,Hallbankgate,Brampton
+2021-04-13,310000,CA8 2EY,S,N,F,Keep Cottage,,,,Brampton
+2021-04-09,430000,CA8 1JY,D,N,F,Williamgill,,,Hallbankgate,Brampton
+2021-04-09,335000,CA8 1EN,D,N,F,Langthwaite,,Lanercost Road,,Brampton
+2021-04-09,410000,CA8 1BF,T,Y,F,9,,Tarn End,Talkin,Brampton
+2021-04-08,302500,CA8 7AW,S,N,F,Heather Bank Cottage,,,Gilsland,Brampton
+2021-04-07,115000,CA8 7TF,T,N,F,6,,The Forge,Gilsland,Brampton
+2021-04-07,110000,CA8 7JJ,S,N,F,8,,Old Row,Greenhead,Brampton
+2021-04-07,125000,CA8 1BP,S,N,F,85,,Dacre Road,,Brampton
+2021-03-31,350000,CA8 9NF,D,N,F,Hynam Shield,,,Castle Carrock,Brampton
+2021-03-31,133000,CA8 9AF,T,N,F,2,,Croftland Cottages,Heads Nook,Brampton
+2021-03-30,375000,CA8 2AZ,S,N,F,Whitehill,,,Walton,Brampton
+2021-03-30,352950,CA8 1AF,D,Y,F,10,,Howgill Way,,Brampton
+2021-03-26,470000,CA8 9JZ,D,N,F,The Orchard,,,Fenton,Brampton
+2021-03-26,160000,CA8 9HJ,T,N,F,1,,Brier Mews,Hayton,Brampton
+2021-03-26,175000,CA8 1TT,S,N,F,8,,Millfield,,Brampton
+2021-03-26,340000,CA8 1AF,D,Y,F,12,,Howgill Way,,Brampton
+2021-03-26,310950,CA8 1AF,D,Y,F,11,,Howgill Way,,Brampton
+2021-03-23,485000,CA8 2AT,D,N,F,Crooked Holme Cottage,,,,Brampton
+2021-03-22,395000,CA8 9AW,D,N,F,5,,Clover Meadows,Heads Nook,Brampton
+2021-03-19,447500,CA8 9LE,D,N,F,The Hollies,,Fenton Lane End,How Mill,Brampton
+2021-03-19,166500,CA8 2QW,T,N,F,Emporion,,,Tindale Fell,Brampton
+2021-03-19,400000,CA8 1TU,S,N,F,Oakleigh,,Tarn Road,,Brampton
+2021-03-19,85000,CA8 1SP,T,N,L,15,,Townfoot Court,,Brampton
+2021-03-19,71000,CA8 1NX,S,N,L,8,,Gelt Road,,Brampton
+2021-03-19,81500,CA8 1JH,S,N,F,1,,South View,Hallbankgate,Brampton
+2021-03-19,352950,CA8 1AF,D,Y,F,9,,Howgill Way,,Brampton
+2021-03-18,412000,CA8 2BB,D,N,F,The Willows,,,Lees Hill,Brampton
+2021-03-17,307500,CA8 9HT,D,N,F,Hillcrest,,,Hayton,Brampton
+2021-03-15,451000,CA8 1JY,D,N,F,Woodside House,,,Hallbankgate,Brampton
+2021-03-12,288000,CA8 9AN,D,N,F,3,,Rose Paddock,Heads Nook,Brampton
+2021-03-12,112000,CA8 7TF,T,N,F,2,,The Forge,Gilsland,Brampton
+2021-03-12,160000,CA8 7LB,S,N,F,18,,Pennine Road,Halton Lea Gate,Brampton
+2021-03-12,90000,CA8 7HU,T,N,F,12,,High Castle Terrace,Greenhead,Brampton
+2021-03-12,115000,CA8 1US,T,N,F,9,,Beckside Gardens,,Brampton
+2021-03-12,84000,CA8 1NY,F,N,L,26,,Showfield,,Brampton
+2021-03-12,289950,CA8 1AF,D,Y,F,6,,Howgill Way,,Brampton
+2021-03-11,775373,CA8 7EL,D,N,F,Chapel House Farm,,,Gilsland,Brampton
+2021-03-11,78000,CA8 1JH,S,N,F,2,,South View,Hallbankgate,Brampton
+2021-03-10,425000,CA8 1SF,D,N,F,West View,,Manor Gardens,,Brampton
+2021-03-09,100000,CA8 7HU,T,N,F,6,,High Castle Terrace,Greenhead,Brampton
+2021-03-09,375000,CA8 2EH,D,N,F,Holly Barn,,,West Hall,Brampton
+2021-03-08,485000,CA8 7BB,D,N,F,Paddaburn House,,,Gilsland,Brampton
+2021-03-08,350000,CA8 1SH,D,N,F,The Hollies,,Main Street,,Brampton
+2021-03-05,400000,CA8 9ER,D,N,F,Violet Bank,,,Cumwhitton,Brampton
+2021-03-05,309950,CA8 1AF,D,Y,F,8,,Howgill Way,,Brampton
+2021-03-04,185500,CA8 1RP,S,N,F,20,,High Cross Street,,Brampton
+2021-03-03,250000,CA8 9HR,D,N,F,Bunkers Hill,,,Hayton,Brampton
+2021-03-02,289000,CA8 2JH,D,N,F,Stonegarth,,,Banks,Brampton
+2021-03-01,320000,CA8 7LQ,D,N,F,Thornley Cottage,,,Lambley,Brampton
+2021-03-01,125000,CA8 1SR,S,N,F,2,,Coxs Lane,,Brampton
+2021-02-26,139000,CA8 1NX,T,N,F,37,,Gelt Road,,Brampton
+2021-02-26,344000,CA8 1AF,D,Y,F,4,,Howgill Way,,Brampton
+2021-02-24,210000,CA8 7BP,D,N,F,2,,Hadrians Crescent,Gilsland,Brampton
+2021-02-23,218500,CA8 9HN,S,N,F,Meadow View,,Brier Lonning,Hayton,Brampton
+2021-02-22,365000,CA8 1TP,D,N,F,8,,Oak Park,,Brampton
+2021-02-22,464250,CA8 1LA,D,N,F,Fulbeck House,,,Farlam,Brampton
+2021-02-22,163000,CA8 1AX,S,N,F,11,,Greencroft,,Brampton
+2021-02-20,172374,CA8 2PL,T,N,F,1,,Park Terrace,Hallbankgate,Brampton
+2021-02-19,218000,CA8 7HE,D,N,F,Station House,,,Greenhead,Brampton
+2021-02-19,210000,CA8 1TT,S,N,F,23,,Millfield,,Brampton
+2021-02-19,369950,CA8 1AF,D,Y,F,2,,Howgill Way,,Brampton
+2021-02-17,345000,CA8 1BF,T,Y,F,11,,Tarn End,Talkin,Brampton
+2021-02-16,250000,CA8 1EE,T,N,F,2,,Scholars Rise,,Brampton
+2021-02-15,63500,CA8 1SN,T,N,F,88,,Main Street,,Brampton
+2021-02-12,315000,CA8 9BW,D,N,F,1,,The Dell,Broadwath,Brampton
+2021-02-12,600000,CA8 9AW,D,N,F,4,,Clover Meadows,Heads Nook,Brampton
+2021-02-12,335000,CA8 1GH,D,N,F,36,,Edmondson Close,,Brampton
+2021-02-05,210000,CA8 1UT,D,N,F,1,,Jocks Hill,,Brampton
+2021-01-29,137500,CA8 9HR,S,N,F,Nobles Farmhouse,,,Hayton,Brampton
+2021-01-29,73000,CA8 1SB,T,N,F,42,,Main Street,,Brampton
+2021-01-28,190000,CA8 1EX,D,N,F,Warren Bank Cottage,,Station Road,,Brampton
+2021-01-25,150000,CA8 2JH,S,N,F,Oak Tree Barn,,,Banks,Brampton
+2021-01-22,135000,CA8 7HL,T,N,F,5,,Thirlwall View,Greenhead,Brampton
+2021-01-22,315000,CA8 1UA,S,N,F,Tree Bank,,Tree Road,,Brampton
+2021-01-13,595000,CA8 9AF,D,N,F,Croft House,,,Heads Nook,Brampton
+2021-01-08,90000,CA8 1DY,T,N,F,78,,Stanley Road,,Brampton
+2021-01-07,265000,CA8 9AH,D,N,F,3,,Cairn Wood,Heads Nook,Brampton
+2021-01-05,226000,CA8 2BQ,D,N,F,Jennet Croft,,,Kirkcambeck,Brampton
+2021-01-04,270000,CA8 9AH,S,N,F,25,,Cairn Wood,Heads Nook,Brampton

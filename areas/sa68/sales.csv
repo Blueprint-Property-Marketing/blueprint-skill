@@ -1,0 +1,402 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-18,430000,SA68 0PN,D,N,F,Mixen House,,,Lawrenny,Kilgetty
+2026-07-24,255000,SA68 0RN,S,N,F,Hamilton,,,Broadmoor,Kilgetty
+2026-07-24,222500,SA68 0AD,S,N,F,4,,Meadow Gardens,,Kilgetty
+2026-07-22,252500,SA68 0UD,S,N,F,46,,Oakfield Drive,,Kilgetty
+2026-07-17,235000,SA68 0TL,D,N,F,New Cottage,,,West Williamston,Kilgetty
+2026-06-29,280000,SA68 0XH,D,N,F,The Green,,,Thomas Chapel,Kilgetty
+2026-06-26,295000,SA68 0TB,D,N,F,Hillcrest,,Lawrenny Road,Cresselly,Kilgetty
+2026-06-24,286000,SA68 0QP,D,N,F,Melrose,,Kingsmoor Road,,Kilgetty
+2026-06-22,320000,SA68 0ZA,D,N,F,32,,Newton Fields,,Kilgetty
+2026-06-04,475000,SA68 0RA,D,N,F,New Haven,,Templebar Road,,Kilgetty
+2026-06-01,270000,SA68 0XX,D,N,F,Ashford,,Carmarthen Road,,Kilgetty
+2026-05-15,220000,SA68 0PW,S,N,F,Kirkham Cottage,,,Lawrenny,Kilgetty
+2026-05-11,263000,SA68 0QS,T,N,F,2,,Hill Rise,,Kilgetty
+2026-05-07,385000,SA68 0TZ,D,N,F,16,,Kilvelgy Park,,Kilgetty
+2026-05-06,310000,SA68 0AA,D,N,F,11,,Park Gardens,Begelly,Kilgetty
+2026-05-01,210000,SA68 0TZ,S,N,F,6,,Kilvelgy Park,,Kilgetty
+2026-04-29,395000,SA68 0RA,D,N,F,Highfield,,Templebar Road,,Kilgetty
+2026-04-24,215000,SA68 0XY,D,N,F,13,,Ash Park,,Kilgetty
+2026-04-24,182000,SA68 0UR,T,N,F,3,,Newton Terrace,,Kilgetty
+2026-04-17,365000,SA68 0TS,D,N,F,Crickchurch Cottage,,,Cresselly,Kilgetty
+2026-04-14,235000,SA68 0RN,D,N,F,Arvan,,,Broadmoor,Kilgetty
+2026-04-09,210475,SA68 0YD,D,N,F,7,,James Park,,Kilgetty
+2026-03-27,206000,SA68 0UD,D,N,F,28,,Oakfield Drive,,Kilgetty
+2026-03-23,270000,SA68 0RJ,D,N,F,Fairgate,,,Broadmoor,Kilgetty
+2026-03-13,208000,SA68 0PE,D,N,F,Greenwood Cottage,,,Reynalton,Kilgetty
+2026-03-09,340000,SA68 0YE,D,N,F,Hazeley,,New Road,,Kilgetty
+2026-02-23,350000,SA68 0SA,D,N,F,10,,Millfields Close,,Kilgetty
+2026-02-20,300000,SA68 0ZB,D,N,F,31,,Newton Heights,,Kilgetty
+2026-02-20,185000,SA68 0UB,S,N,F,20,,Park Avenue,,Kilgetty
+2026-02-10,235000,SA68 0XY,D,N,F,15,,Ash Park,,Kilgetty
+2026-01-30,250000,SA68 0XE,D,N,F,The Laurels,,,Begelly,Kilgetty
+2026-01-30,420000,SA68 0SA,D,N,F,71,,Millfields Close,,Kilgetty
+2026-01-29,285000,SA68 0SA,D,N,F,28,,Millfields Close,,Kilgetty
+2026-01-23,251200,SA68 0RE,S,N,F,Fuchsia Cottage,,,Jeffreyston,Kilgetty
+2025-12-19,180000,SA68 0RW,D,N,F,Myrtle Cottage,,,Broadmoor,Kilgetty
+2025-12-16,390000,SA68 0RJ,T,N,F,7,,Broadmoor Cottages,Broadmoor,Kilgetty
+2025-12-12,210000,SA68 0TW,T,N,F,1,,Heritage Gardens,,Kilgetty
+2025-12-05,250000,SA68 0PW,D,N,F,Spindles,,,Lawrenny,Kilgetty
+2025-12-03,267500,SA68 0ZB,D,N,F,5,,Newton Heights,,Kilgetty
+2025-11-24,640000,SA68 0XL,D,N,F,Rock Farm,,,Begelly,Kilgetty
+2025-11-24,305000,SA68 0AB,D,N,F,7,,Rock Park,,Kilgetty
+2025-11-20,218000,SA68 0XE,S,N,F,Zion School House,,,Begelly,Kilgetty
+2025-11-20,370000,SA68 0RA,D,N,F,The Haven,,Templebar Road,,Kilgetty
+2025-11-19,430000,SA68 0TZ,D,N,F,18,,Kilvelgy Park,,Kilgetty
+2025-11-19,330000,SA68 0SA,D,N,F,46,,Millfields Close,,Kilgetty
+2025-10-31,392000,SA68 0YL,D,N,F,The Cottage,,Parsonage Lane,Begelly,Kilgetty
+2025-10-21,360000,SA68 0XH,D,N,F,Thomas Chapel House,,,Thomas Chapel,Kilgetty
+2025-10-10,215000,SA68 0UX,S,N,F,36,,Ryelands Place,,Kilgetty
+2025-10-10,240000,SA68 0TR,S,N,F,Castle View,,Carew Lane,Cresselly,Kilgetty
+2025-10-03,212500,SA68 0YF,S,N,F,Lavendar,,New Road,Begelly,Kilgetty
+2025-10-03,220000,SA68 0UD,S,N,F,47,,Oakfield Drive,,Kilgetty
+2025-10-03,420000,SA68 0NN,D,N,F,Croft Cottage,,,Loveston,Kilgetty
+2025-09-29,128000,SA68 0UQ,F,N,L,Oak Tree Court,9,Oakfield Drive,,Kilgetty
+2025-09-18,275000,SA68 0XD,D,N,F,11,,Fir Grove,,Kilgetty
+2025-09-18,270000,SA68 0AA,S,N,F,9,,Park Gardens,Begelly,Kilgetty
+2025-09-17,297500,SA68 0ZA,D,N,F,10,,Newton Fields,,Kilgetty
+2025-09-09,390000,SA68 0AE,D,N,F,7,,Barley Park Close,Begelly,Kilgetty
+2025-09-05,150500,SA68 0ZB,S,N,F,24,,Newton Heights,,Kilgetty
+2025-09-05,285000,SA68 0AD,S,N,F,13,,Meadow Gardens,,Kilgetty
+2025-08-22,217500,SA68 0ZB,S,N,F,22,,Newton Heights,,Kilgetty
+2025-08-22,148000,SA68 0RJ,T,N,F,"Delena, 2",,Broadmoor Cottages,Broadmoor,Kilgetty
+2025-08-08,265000,SA68 0UD,D,N,F,40,,Oakfield Drive,,Kilgetty
+2025-08-01,181500,SA68 0QS,D,N,F,6,,Hill Rise,,Kilgetty
+2025-07-25,395000,SA68 0AE,D,Y,F,15,,Barley Park Close,Begelly,Kilgetty
+2025-07-24,240000,SA68 0SS,S,N,F,3,,Well Park,Cresselly,Kilgetty
+2025-07-18,177000,SA68 0XS,D,N,F,Lansdowne,,Station Road,,Kilgetty
+2025-07-16,224000,SA68 0XY,D,N,F,15,,Ash Park,,Kilgetty
+2025-07-16,224000,SA68 0UJ,D,N,F,Myrtle House,,Carmarthen Road,,Kilgetty
+2025-07-10,225000,SA68 0RL,S,N,F,Ford House,,,Broadmoor,Kilgetty
+2025-07-04,325000,SA68 0XE,D,N,F,Sunny Meadow,,,Begelly,Kilgetty
+2025-06-25,400000,SA68 0PE,D,N,F,Old Cowshed,,,Reynalton,Kilgetty
+2025-06-16,242000,SA68 0QS,T,N,F,12,,Hill Rise,,Kilgetty
+2025-06-06,245000,SA68 0YD,S,N,F,19,,James Park,,Kilgetty
+2025-06-02,275000,SA68 0SA,D,N,F,19,,Millfields Close,,Kilgetty
+2025-05-13,295000,SA68 0TZ,D,N,F,15,,Kilvelgy Park,,Kilgetty
+2025-05-12,272500,SA68 0RZ,D,N,F,19,,Lyndhurst Avenue,Broadmoor,Kilgetty
+2025-05-08,510000,SA68 0PE,D,N,F,9,,Maes Elwyn John,Reynalton,Kilgetty
+2025-05-06,320000,SA68 0XS,D,N,F,Sedgemoor,,Station Road,,Kilgetty
+2025-05-02,150500,SA68 0ZB,S,N,F,25,,Newton Heights,,Kilgetty
+2025-05-02,175000,SA68 0XY,D,N,F,6,,Ash Park,,Kilgetty
+2025-05-02,260000,SA68 0XS,D,N,F,Newbury,,Station Road,,Kilgetty
+2025-05-02,262500,SA68 0SA,D,N,F,47,,Millfields Close,,Kilgetty
+2025-04-25,227000,SA68 0ZB,S,N,F,12,,Newton Heights,,Kilgetty
+2025-04-25,270000,SA68 0UX,S,N,F,28,,Ryelands Place,,Kilgetty
+2025-04-02,415000,SA68 0AB,D,N,F,17,,Rock Park,,Kilgetty
+2025-03-28,245000,SA68 0UW,D,N,F,22,,Mayfield Acres,,Kilgetty
+2025-03-26,161500,SA68 0UB,T,N,F,21,,Park Avenue,,Kilgetty
+2025-03-14,215000,SA68 0QU,D,N,F,Maindy,,Hill Lane,,Kilgetty
+2025-03-12,290000,SA68 0AD,D,N,F,16,,Meadow Gardens,,Kilgetty
+2025-03-11,325000,SA68 0RG,D,N,F,Three Gables,,,Jeffreyston,Kilgetty
+2025-02-14,440000,SA68 0YP,D,N,F,34,,Church Close,Begelly,Kilgetty
+2025-02-14,330000,SA68 0UY,D,N,F,Rosemount,,Ryelands Lane,,Kilgetty
+2025-01-17,222500,SA68 0ZB,S,N,F,10,,Newton Heights,,Kilgetty
+2025-01-17,312500,SA68 0UJ,T,N,F,Fairview,,Carmarthen Road,,Kilgetty
+2025-01-14,275000,SA68 0PN,T,N,F,Mill End Cottage,,,Lawrenny,Kilgetty
+2025-01-10,425000,SA68 0RR,D,N,F,Sunningdale,,Clayford Road,,Kilgetty
+2025-01-10,395000,SA68 0AE,D,Y,F,14,,Barley Park Close,Begelly,Kilgetty
+2025-01-09,330000,SA68 0TZ,D,N,F,25,,Kilvelgy Park,,Kilgetty
+2024-12-20,220500,SA68 0AE,S,Y,F,19,,Barley Park Close,Begelly,Kilgetty
+2024-12-20,220500,SA68 0AE,S,Y,F,18,,Barley Park Close,Begelly,Kilgetty
+2024-12-19,250000,SA68 0RE,D,N,F,Sheffield House,,,Jeffreyston,Kilgetty
+2024-12-06,225000,SA68 0UB,S,N,F,72,,Park Avenue,,Kilgetty
+2024-12-06,210000,SA68 0RW,S,N,F,The Beehive,,,Broadmoor,Kilgetty
+2024-11-29,201000,SA68 0YF,D,N,F,Tara,,New Road,Begelly,Kilgetty
+2024-11-29,420000,SA68 0RE,D,N,F,Chapel House,,,Jeffreyston,Kilgetty
+2024-11-28,295000,SA68 0PE,D,N,F,Maes Elwyn John,15,,Reynalton,Kilgetty
+2024-11-27,248000,SA68 0XY,D,N,F,21,,Ash Park,,Kilgetty
+2024-11-22,166000,SA68 0RW,S,N,F,Melenos,,,Broadmoor,Kilgetty
+2024-11-13,300000,SA68 0ZA,D,N,F,8,,Newton Fields,,Kilgetty
+2024-11-01,325000,SA68 0SA,D,N,F,70,,Millfields Close,,Kilgetty
+2024-10-28,162000,SA68 0QS,D,N,F,3,,Hill Rise,,Kilgetty
+2024-10-25,210000,SA68 0YN,S,N,F,8,,Parsonage Green,Begelly,Kilgetty
+2024-10-25,165000,SA68 0UB,S,N,F,54,,Park Avenue,,Kilgetty
+2024-10-24,460000,SA68 0XG,D,N,F,Glen View,,,Thomas Chapel,Kilgetty
+2024-10-23,242000,SA68 0XG,D,N,F,Windy Ridge,,,Thomas Chapel,Kilgetty
+2024-10-22,372500,SA68 0YP,D,N,F,28,,Church Close,Begelly,Kilgetty
+2024-10-21,285000,SA68 0XE,S,N,F,Tanrhiw,,,Begelly,Kilgetty
+2024-10-18,285000,SA68 0UY,D,N,F,Bala-Gopala,,Ryelands Lane,,Kilgetty
+2024-10-11,260000,SA68 0UW,D,N,F,4,,Mayfield Acres,,Kilgetty
+2024-10-11,210000,SA68 0UB,S,N,F,28,,Park Avenue,,Kilgetty
+2024-10-04,230000,SA68 0YW,S,N,F,20,,The Grove,Begelly,Kilgetty
+2024-10-04,198000,SA68 0UX,S,N,F,3,,Ryelands Place,,Kilgetty
+2024-09-30,147000,SA68 0QS,D,N,F,48,,Hill Rise,,Kilgetty
+2024-09-27,195000,SA68 0SA,D,N,F,31,,Millfields Close,,Kilgetty
+2024-09-25,180000,SA68 0SA,D,N,F,39,,Millfields Close,,Kilgetty
+2024-09-24,265000,SA68 0NT,S,N,F,Yerbeston Cottage,,,Yerbeston,Kilgetty
+2024-09-23,245000,SA68 0ZA,D,N,F,22,,Newton Fields,,Kilgetty
+2024-09-20,255000,SA68 0ZB,D,N,F,33,,Newton Heights,,Kilgetty
+2024-09-20,395000,SA68 0AE,D,Y,F,4,,Barley Park Close,Begelly,Kilgetty
+2024-09-16,210000,SA68 0QS,D,N,F,35,,Hill Rise,,Kilgetty
+2024-09-11,265000,SA68 0ZA,D,N,F,34,,Newton Fields,,Kilgetty
+2024-09-06,392500,SA68 0YF,D,N,F,Riverside,,New Road,Begelly,Kilgetty
+2024-09-06,425000,SA68 0TX,D,N,F,Copper Leaves,,,Whitehill,Kilgetty
+2024-08-28,280000,SA68 0UD,D,N,F,56,,Oakfield Drive,,Kilgetty
+2024-08-27,125000,SA68 0UJ,D,N,F,Conch Cottage,,Carmarthen Road,,Kilgetty
+2024-08-23,395000,SA68 0AE,D,Y,F,3,,Barley Park Close,Begelly,Kilgetty
+2024-08-22,365000,SA68 0TT,S,N,F,2,,Branders Park,Cresselly,Kilgetty
+2024-08-21,220000,SA68 0QZ,S,N,F,2,,Kingsmoor Close,,Kilgetty
+2024-08-16,292500,SA68 0AD,D,N,F,20,,Meadow Gardens,,Kilgetty
+2024-07-26,395000,SA68 0NT,D,N,L,St Lawrence's Church,,,Yerbeston,Kilgetty
+2024-07-24,500000,SA68 0UY,D,N,F,The Anchorage,,Ryelands Lane,,Kilgetty
+2024-07-23,280000,SA68 0ZB,D,N,F,35,,Newton Heights,,Kilgetty
+2024-07-22,119950,SA68 0UB,F,N,L,4,,Park Avenue,,Kilgetty
+2024-07-17,420000,SA68 0TA,D,N,F,Fresh Winds,,Rosemary Lane,Cresselly,Kilgetty
+2024-07-16,235000,SA68 0ZA,D,N,F,18,,Newton Fields,,Kilgetty
+2024-07-12,210000,SA68 0ZB,S,N,F,13,,Newton Heights,,Kilgetty
+2024-07-12,290000,SA68 0UD,S,N,F,77,,Oakfield Drive,,Kilgetty
+2024-07-08,399950,SA68 0YE,D,N,F,Melrose,,New Road,,Kilgetty
+2024-07-05,182000,SA68 0UW,D,N,F,1,,Mayfield Acres,,Kilgetty
+2024-06-28,395000,SA68 0AE,D,N,F,8,,Barley Park Close,Begelly,Kilgetty
+2024-06-17,320000,SA68 0SA,D,N,F,14,,Millfields Close,,Kilgetty
+2024-06-07,225000,SA68 0UY,D,N,F,Cartref,,Ryelands Lane,,Kilgetty
+2024-05-24,260000,SA68 0AA,S,N,F,24,,Park Gardens,Begelly,Kilgetty
+2024-05-21,425000,SA68 0TY,D,N,F,Guildford House,,,Cresselly,Kilgetty
+2024-05-15,320000,SA68 0YA,D,N,F,Laurellee,,Carmarthen Road,,Kilgetty
+2024-05-10,180000,SA68 0QP,D,N,F,The Pines,,Kingsmoor Road,,Kilgetty
+2024-04-24,250000,SA68 0YD,D,N,F,8,,James Park,,Kilgetty
+2024-04-16,395000,SA68 0AE,D,N,F,9,,Barley Park Close,Begelly,Kilgetty
+2024-04-12,395000,SA68 0AE,D,N,F,10,,Barley Park Close,Begelly,Kilgetty
+2024-04-05,280000,SA68 0AE,S,Y,F,21,,Barley Park Close,Begelly,Kilgetty
+2024-03-28,275000,SA68 0UW,D,N,F,"Bryn Banc, 27",,Mayfield Acres,,Kilgetty
+2024-03-28,352000,SA68 0UU,D,N,F,44,,Ryelands Lane,,Kilgetty
+2024-03-26,147250,SA68 0QP,F,N,L,Greenacre Court,Flat 1,Kingsmoor Road,,Kilgetty
+2024-03-26,200000,SA68 0PE,T,N,F,7,,New Terrace,Reynalton,Kilgetty
+2024-03-22,240000,SA68 0ZA,D,N,F,24,,Newton Fields,,Kilgetty
+2024-03-18,265000,SA68 0XH,D,N,F,Honeywood Cottage,,,Thomas Chapel,Kilgetty
+2024-03-18,350000,SA68 0TZ,D,N,F,5,,Kilvelgy Park,,Kilgetty
+2024-03-13,190000,SA68 0YW,S,N,F,15,,The Grove,Begelly,Kilgetty
+2024-03-01,235000,SA68 0YW,S,N,F,11,,The Grove,Begelly,Kilgetty
+2024-03-01,220000,SA68 0UD,S,N,F,35,,Oakfield Drive,,Kilgetty
+2024-02-29,205000,SA68 0QP,D,N,F,Killawen House,,Kingsmoor Road,,Kilgetty
+2024-02-28,215000,SA68 0YN,S,N,F,2,,Parsonage Green,Begelly,Kilgetty
+2024-02-26,267000,SA68 0RJ,D,N,F,Am Nawr,,,Broadmoor,Kilgetty
+2024-02-13,83000,SA68 0XS,F,N,L,Sunset View,,Station Road,,Kilgetty
+2024-01-31,190000,SA68 0YH,D,N,F,Gay Willows,,,Begelly,Kilgetty
+2024-01-19,273500,SA68 0AE,S,Y,F,2,,Barley Park Close,Begelly,Kilgetty
+2024-01-03,390000,SA68 0US,D,N,F,Trees,,Ryelands Way,,Kilgetty
+2023-12-20,165000,SA68 0RU,T,N,F,2,,Stone Cottages,Jeffreyston,Kilgetty
+2023-12-15,275000,SA68 0YD,D,N,F,17,,James Park,,Kilgetty
+2023-12-15,235000,SA68 0UW,D,N,F,20,,Mayfield Acres,,Kilgetty
+2023-12-13,108000,SA68 0UB,T,N,L,11,,Park Avenue,,Kilgetty
+2023-12-01,220000,SA68 0XS,S,N,F,Springfields,,Station Road,,Kilgetty
+2023-12-01,240000,SA68 0UZ,D,N,F,8,,Kerrs Way,,Kilgetty
+2023-11-30,227000,SA68 0RZ,D,N,F,10,,Lyndhurst Avenue,Broadmoor,Kilgetty
+2023-11-27,188000,SA68 0UB,S,N,F,70,,Park Avenue,,Kilgetty
+2023-11-14,252500,SA68 0SU,D,N,F,Westwood,,,Cresselly,Kilgetty
+2023-11-13,181000,SA68 0UB,S,N,F,33,,Park Avenue,,Kilgetty
+2023-10-27,143500,SA68 0ZB,S,N,F,24,,Newton Heights,,Kilgetty
+2023-10-25,258000,SA68 0SA,D,N,F,45,,Millfields Close,,Kilgetty
+2023-10-20,211000,SA68 0SS,S,N,F,4,,Well Park,Cresselly,Kilgetty
+2023-10-13,260000,SA68 0RA,D,N,F,Levereux Farm Cottage,,Templebar Road,,Kilgetty
+2023-10-02,530000,SA68 0TX,D,N,F,Birch Grove,,,Whitehill,Kilgetty
+2023-09-29,232000,SA68 0UW,D,N,F,19,,Mayfield Acres,,Kilgetty
+2023-09-29,120000,SA68 0QS,D,N,F,40,,Hill Rise,,Kilgetty
+2023-09-27,250000,SA68 0UD,S,N,F,49,,Oakfield Drive,,Kilgetty
+2023-08-25,250000,SA68 0ZB,S,N,F,8,,Newton Heights,,Kilgetty
+2023-08-25,335000,SA68 0SA,D,N,F,24,,Millfields Close,,Kilgetty
+2023-08-18,490000,SA68 0TL,D,N,F,The Smithy,,,West Williamston,Kilgetty
+2023-08-17,185000,SA68 0UB,T,N,F,18,,Park Avenue,,Kilgetty
+2023-08-17,355000,SA68 0TX,D,N,F,Melrose,,,Whitehill,Kilgetty
+2023-08-15,325000,SA68 0YD,D,N,F,14,,James Park,,Kilgetty
+2023-08-15,169950,SA68 0UH,T,N,F,11,,St Marys Place,,Kilgetty
+2023-08-14,540000,SA68 0ST,D,N,F,Stoney Brook,,,Cresselly,Kilgetty
+2023-08-09,275000,SA68 0RH,D,N,F,Hanbury Lodge,2,,Broadmoor,Kilgetty
+2023-07-31,465000,SA68 0TA,D,N,F,Brockington,,Rosemary Lane,Cresselly,Kilgetty
+2023-07-28,205000,SA68 0RL,S,N,F,1,,Council Houses,Broadmoor,Kilgetty
+2023-07-14,405000,SA68 0PN,D,N,F,Sea View,,,Lawrenny,Kilgetty
+2023-06-30,230000,SA68 0UW,D,N,F,7,,Mayfield Acres,,Kilgetty
+2023-06-23,295000,SA68 0PW,D,N,F,Park View,,,Lawrenny,Kilgetty
+2023-06-15,550000,SA68 0PH,D,N,F,Hillcrest,,,Reynalton,Kilgetty
+2023-06-07,179000,SA68 0SA,D,N,F,19,,Millfields Close,,Kilgetty
+2023-05-26,165000,SA68 0PE,T,N,F,3,,New Terrace,Reynalton,Kilgetty
+2023-05-23,199000,SA68 0SA,D,N,F,64,,Millfields Close,,Kilgetty
+2023-05-19,300000,SA68 0UD,D,N,F,65,,Oakfield Drive,,Kilgetty
+2023-05-19,360000,SA68 0QS,D,N,F,26,,Hill Rise,,Kilgetty
+2023-05-04,330600,SA68 0TX,D,N,F,Llys Gwyn,,,Whitehill,Kilgetty
+2023-05-03,260000,SA68 0TT,D,N,F,Markham,,,Whitehill,Kilgetty
+2023-04-28,120000,SA68 0UB,F,N,L,3,,Park Avenue,,Kilgetty
+2023-04-28,208000,SA68 0QS,D,N,F,16,,Hill Rise,,Kilgetty
+2023-04-25,270000,SA68 0UN,D,N,F,Belmont,,Carmarthen Road,,Kilgetty
+2023-04-06,183000,SA68 0QS,D,N,F,38,,Hill Rise,,Kilgetty
+2023-04-05,245000,SA68 0UW,D,N,F,20,,Mayfield Acres,,Kilgetty
+2023-03-30,535000,SA68 0XT,D,N,F,Stoneleigh,,Crosslanes,,Kilgetty
+2023-03-24,295000,SA68 0UU,D,N,F,40,,Ryelands Lane,,Kilgetty
+2023-03-24,235000,SA68 0UD,D,N,F,23,,Oakfield Drive,,Kilgetty
+2023-03-23,178000,SA68 0QY,S,N,F,Apple Tree Cottage,,Hill Lane,,Kilgetty
+2023-03-21,152100,SA68 0TD,S,N,F,4,,Pisgah Cottages,Cresselly,Kilgetty
+2023-03-16,492500,SA68 0RP,D,N,F,The Ridings,,,Cold Inn,Kilgetty
+2023-03-14,277000,SA68 0YE,D,N,F,Melrose,,New Road,,Kilgetty
+2023-03-07,390000,SA68 0YP,D,N,F,30,,Church Close,Begelly,Kilgetty
+2023-03-03,140000,SA68 0QS,D,N,F,21,,Hill Rise,,Kilgetty
+2023-03-01,456656,SA68 0RP,D,N,F,Stonecrest,,,Cold Inn,Kilgetty
+2023-03-01,235000,SA68 0RH,D,N,F,Kendreya,,,Broadmoor,Kilgetty
+2023-02-28,210000,SA68 0SN,D,N,F,The Bungalow,,,Cresselly,Kilgetty
+2023-02-24,207500,SA68 0XY,D,N,F,16,,Ash Park,,Kilgetty
+2023-02-10,165000,SA68 0YJ,D,N,F,2,,Brookfield Villas,Begelly,Kilgetty
+2023-02-10,220000,SA68 0AD,S,Y,F,9,,Meadow Gardens,,Kilgetty
+2023-02-09,215000,SA68 0YW,S,N,F,7,,The Grove,Begelly,Kilgetty
+2023-02-03,600000,SA68 0PE,D,N,F,Maes Elwyn John,1,,Reynalton,Kilgetty
+2023-01-27,225000,SA68 0AD,S,Y,F,4,,Meadow Gardens,,Kilgetty
+2023-01-26,365000,SA68 0YH,D,N,F,Cleveland,,,Begelly,Kilgetty
+2023-01-20,375000,SA68 0XE,D,N,F,7,,Pen Y Bryn,Begelly,Kilgetty
+2023-01-20,300000,SA68 0UW,D,N,F,25,,Mayfield Acres,,Kilgetty
+2023-01-13,110000,SA68 0ZB,S,N,F,22,,Newton Heights,,Kilgetty
+2023-01-04,280000,SA68 0YE,D,N,F,Hazeley,,New Road,,Kilgetty
+2023-01-04,320000,SA68 0XE,D,N,F,6,,Pen Y Bryn,Begelly,Kilgetty
+2022-12-19,285000,SA68 0YP,D,Y,F,22,,Church Close,Begelly,Kilgetty
+2022-12-19,272000,SA68 0UD,D,N,F,81,,Oakfield Drive,,Kilgetty
+2022-12-16,450000,SA68 0UA,D,N,F,9,,Cooksyeat View,,Kilgetty
+2022-11-25,205000,SA68 0UD,S,N,F,15,,Oakfield Drive,,Kilgetty
+2022-11-24,300000,SA68 0XH,D,N,F,Ashmead,,,Thomas Chapel,Kilgetty
+2022-11-24,380000,SA68 0PG,S,N,F,Church Farm Cottage,,,Reynalton,Kilgetty
+2022-11-18,270000,SA68 0QS,S,N,F,13,,Hill Rise,,Kilgetty
+2022-11-16,475000,SA68 0AB,D,Y,F,9,,Rock Park,,Kilgetty
+2022-11-04,225000,SA68 0AD,S,Y,F,7,,Meadow Gardens,,Kilgetty
+2022-10-25,315000,SA68 0XD,T,N,F,14,,Fir Grove,,Kilgetty
+2022-10-14,400000,SA68 0RE,D,N,F,Beggars Roost,,,Jeffreyston,Kilgetty
+2022-10-14,300000,SA68 0PE,D,N,F,Maes Elwyn John,13,,Reynalton,Kilgetty
+2022-10-12,152000,SA68 0QZ,S,N,F,11,,Kingsmoor Close,,Kilgetty
+2022-10-11,230000,SA68 0AD,D,Y,F,22,,Meadow Gardens,,Kilgetty
+2022-10-07,400000,SA68 0AB,D,Y,F,17,,Rock Park,,Kilgetty
+2022-09-30,270000,SA68 0QS,D,N,F,11,,Hill Rise,,Kilgetty
+2022-09-20,390000,SA68 0TP,D,N,F,Norgans Cottage,,,Carew Newton,Kilgetty
+2022-09-12,245000,SA68 0AD,D,Y,F,24,,Meadow Gardens,,Kilgetty
+2022-09-09,250000,SA68 0YP,D,Y,F,12,,Church Close,Begelly,Kilgetty
+2022-09-09,515000,SA68 0UL,S,N,F,Kilvelgy Cottage,,,,Kilgetty
+2022-09-09,250000,SA68 0AD,D,Y,F,20,,Meadow Gardens,,Kilgetty
+2022-09-05,175000,SA68 0PE,T,N,F,5,,New Terrace,Reynalton,Kilgetty
+2022-08-26,390000,SA68 0SA,D,N,F,41,,Millfields Close,,Kilgetty
+2022-08-16,310000,SA68 0RA,D,N,F,The Haven,,Templebar Road,,Kilgetty
+2022-08-02,300000,SA68 0YH,D,N,F,Thornbury,,,Begelly,Kilgetty
+2022-08-02,259999,SA68 0AB,D,Y,F,7,,Rock Park,,Kilgetty
+2022-07-25,306000,SA68 0PG,D,N,F,Kenmar,,,Reynalton,Kilgetty
+2022-07-22,393000,SA68 0UJ,D,N,F,Kilvelgy Wells,,Carmarthen Road,,Kilgetty
+2022-07-22,165000,SA68 0UB,T,N,F,27,,Park Avenue,,Kilgetty
+2022-07-20,240000,SA68 0AD,S,Y,F,12,,Meadow Gardens,,Kilgetty
+2022-07-15,300000,SA68 0YE,D,N,F,Lone Pine,,New Road,,Kilgetty
+2022-07-12,202500,SA68 0ZB,S,N,F,20,,Newton Heights,,Kilgetty
+2022-07-01,250000,SA68 0UW,D,N,F,23,,Mayfield Acres,,Kilgetty
+2022-06-28,235000,SA68 0AD,S,Y,F,14,,Meadow Gardens,,Kilgetty
+2022-06-24,210000,SA68 0QS,D,N,F,39,,Hill Rise,,Kilgetty
+2022-06-23,249999,SA68 0UD,D,N,F,30,,Oakfield Drive,,Kilgetty
+2022-06-22,265000,SA68 0SA,D,N,F,13,,Millfields Close,,Kilgetty
+2022-06-14,160000,SA68 0UB,S,N,F,20,,Park Avenue,,Kilgetty
+2022-05-31,357500,SA68 0SA,D,N,F,10,,Millfields Close,,Kilgetty
+2022-05-31,259999,SA68 0AB,D,Y,F,5,,Rock Park,,Kilgetty
+2022-05-27,310000,SA68 0PF,D,N,F,4,,Parsonage Court,Begelly,Kilgetty
+2022-05-20,320000,SA68 0ZB,D,N,F,1,,Newton Heights,,Kilgetty
+2022-05-20,289999,SA68 0AB,D,Y,F,1,,Rock Park,,Kilgetty
+2022-05-18,247500,SA68 0YP,D,Y,F,24,,Church Close,Begelly,Kilgetty
+2022-05-12,370000,SA68 0XF,D,N,F,Cobbler's Cottage,,,Begelly,Kilgetty
+2022-05-09,230000,SA68 0AD,S,Y,F,10,,Meadow Gardens,,Kilgetty
+2022-04-28,259999,SA68 0AB,D,Y,F,3,,Rock Park,,Kilgetty
+2022-04-22,347000,SA68 0XS,D,N,F,Stoney Brook,,Station Road,,Kilgetty
+2022-04-21,240000,SA68 0UF,D,N,F,The Croft,,Carmarthen Road,,Kilgetty
+2022-04-20,397000,SA68 0PW,S,N,F,Lilac Cottage,,,Lawrenny,Kilgetty
+2022-04-18,270000,SA68 0XD,S,N,F,"Little Ash, 12A",,Fir Grove,,Kilgetty
+2022-04-14,265000,SA68 0YP,D,Y,F,25,,Church Close,Begelly,Kilgetty
+2022-04-14,230000,SA68 0AD,S,Y,F,8,,Meadow Gardens,,Kilgetty
+2022-04-13,185000,SA68 0UT,S,N,F,1,,Woodfield Avenue,,Kilgetty
+2022-04-01,335000,SA68 0XE,D,N,F,Ashleigh House,,,Begelly,Kilgetty
+2022-03-24,475000,SA68 0RX,D,N,F,Bromley Wells,,,Jeffreyston,Kilgetty
+2022-03-18,235000,SA68 0AD,S,Y,F,11,,Meadow Gardens,,Kilgetty
+2022-03-17,170000,SA68 0XS,D,N,F,Alma Cottages,2,Station Road,,Kilgetty
+2022-03-10,320000,SA68 0PF,D,N,F,1,,Parsonage Court,Begelly,Kilgetty
+2022-03-04,235000,SA68 0AD,D,Y,F,18,,Meadow Gardens,,Kilgetty
+2022-03-04,230000,SA68 0AD,D,Y,F,16,,Meadow Gardens,,Kilgetty
+2022-02-25,278000,SA68 0TR,D,N,F,Clifton House,,Carew Lane,Cresselly,Kilgetty
+2022-02-23,600000,SA68 0PE,D,N,F,"Ty Dwr, 5",,Maes Elwyn John,Reynalton,Kilgetty
+2022-02-18,235000,SA68 0AD,S,Y,F,13,,Meadow Gardens,,Kilgetty
+2022-02-03,265000,SA68 0YP,D,Y,F,28,,Church Close,Begelly,Kilgetty
+2022-01-28,249950,SA68 0UD,S,N,F,77,,Oakfield Drive,,Kilgetty
+2022-01-28,550000,SA68 0TB,D,N,F,Freestone Villa,,Lawrenny Road,Cresselly,Kilgetty
+2022-01-25,300000,SA68 0PG,D,N,F,Kenmar,,,Reynalton,Kilgetty
+2022-01-05,370000,SA68 0SD,D,N,F,8,,Churchill Park,Jeffreyston,Kilgetty
+2021-12-22,375000,SA68 0TR,S,N,F,Sunnyside,,Carew Lane,Cresselly,Kilgetty
+2021-12-22,265000,SA68 0AB,S,Y,F,14,,Rock Park,,Kilgetty
+2021-12-20,182000,SA68 0RZ,D,N,F,6,,Lyndhurst Avenue,Broadmoor,Kilgetty
+2021-12-17,235000,SA68 0RN,D,N,F,Compton,,,Broadmoor,Kilgetty
+2021-12-16,210000,SA68 0XS,D,N,F,Larks Whistle,,Station Road,,Kilgetty
+2021-12-10,198000,SA68 0YD,D,N,F,20,,James Park,,Kilgetty
+2021-12-10,295000,SA68 0RE,D,N,F,Appletree Lodge,,,Jeffreyston,Kilgetty
+2021-12-10,285000,SA68 0PE,D,N,F,Maes Elwyn John,11,,Reynalton,Kilgetty
+2021-12-08,290000,SA68 0ZA,D,N,F,34,,Newton Fields,,Kilgetty
+2021-11-29,199950,SA68 0TW,T,N,F,3,,Heritage Gardens,,Kilgetty
+2021-11-26,169950,SA68 0QS,D,N,F,31,,Hill Rise,,Kilgetty
+2021-11-22,299000,SA68 0XE,D,N,F,5,,Pen Y Bryn,Begelly,Kilgetty
+2021-11-18,192500,SA68 0UX,S,N,F,15,,Ryelands Place,,Kilgetty
+2021-11-12,335000,SA68 0RF,D,N,F,Primrose Cottage,,,Jeffreyston,Kilgetty
+2021-11-12,360000,SA68 0AB,D,Y,F,11,,Rock Park,,Kilgetty
+2021-10-27,120000,SA68 0PE,S,N,F,Holmleigh,,,Reynalton,Kilgetty
+2021-10-27,105000,SA68 0PE,D,N,F,8,,Maes Elwyn John,Reynalton,Kilgetty
+2021-10-25,267000,SA68 0XY,D,N,F,2,,Ash Park,,Kilgetty
+2021-10-24,130000,SA68 0RN,S,N,F,Hamilton,,,Broadmoor,Kilgetty
+2021-10-21,485000,SA68 0PE,D,N,F,Maes Elwyn John,17,,Reynalton,Kilgetty
+2021-10-15,135000,SA68 0UB,S,N,F,34,,Park Avenue,,Kilgetty
+2021-10-07,202000,SA68 0YF,T,N,F,"Ty Dee, 3",,New Road,Begelly,Kilgetty
+2021-10-05,280000,SA68 0SA,T,N,F,23,,Millfields Close,,Kilgetty
+2021-10-01,187000,SA68 0QS,D,N,F,16,,Hill Rise,,Kilgetty
+2021-09-28,265000,SA68 0XH,D,N,F,Acorn Cottage,,,Thomas Chapel,Kilgetty
+2021-09-10,220000,SA68 0UF,S,N,F,The Chase,Siena,Carmarthen Road,,Kilgetty
+2021-09-03,190000,SA68 0XD,S,N,F,19,,Fir Grove,,Kilgetty
+2021-09-01,625000,SA68 0NU,D,N,F,Trevayne Farm,,,Yerbeston,Kilgetty
+2021-08-20,225000,SA68 0UD,S,N,F,24,,Oakfield Drive,,Kilgetty
+2021-08-18,110000,SA68 0YA,D,N,F,Laurellee,,Carmarthen Road,,Kilgetty
+2021-08-02,182500,SA68 0QZ,S,N,F,5,,Kingsmoor Close,,Kilgetty
+2021-07-23,150000,SA68 0QS,D,N,F,32,,Hill Rise,,Kilgetty
+2021-07-22,315000,SA68 0XB,D,N,F,La Rochelle,,,Begelly,Kilgetty
+2021-07-19,145000,SA68 0XU,T,N,F,Penrhiw,,Carmarthen Road,,Kilgetty
+2021-07-19,555000,SA68 0PE,D,N,F,Two Gates,,,Reynalton,Kilgetty
+2021-07-14,260000,SA68 0AB,S,Y,F,12,,Rock Park,,Kilgetty
+2021-07-13,245000,SA68 0UW,D,N,F,10,,Mayfield Acres,,Kilgetty
+2021-07-12,450000,SA68 0SY,D,N,F,Avonridge,,Lawrenny Road,Cresselly,Kilgetty
+2021-07-09,239950,SA68 0QS,T,N,F,2,,Hill Rise,,Kilgetty
+2021-07-07,750000,SA68 0XE,D,N,F,Paddock Wood Cottage,,,Begelly,Kilgetty
+2021-07-07,235000,SA68 0QS,S,N,F,24,,Hill Rise,,Kilgetty
+2021-07-01,120000,SA68 0RE,D,N,F,Beggars Roost,,,Jeffreyston,Kilgetty
+2021-06-30,385000,SA68 0RF,D,N,F,Castell Y Dwr,,Hill Lane,Jeffreyston,Kilgetty
+2021-06-28,175000,SA68 0YN,S,N,F,18,,Parsonage Green,Begelly,Kilgetty
+2021-06-24,239000,SA68 0AA,S,N,F,24,,Park Gardens,Begelly,Kilgetty
+2021-06-23,180000,SA68 0QS,D,N,F,30,,Hill Rise,,Kilgetty
+2021-06-18,405000,SA68 0NP,D,N,F,Bethel House,,,Loveston,Kilgetty
+2021-06-15,119000,SA68 0ZB,S,N,F,25,,Newton Heights,,Kilgetty
+2021-06-10,310000,SA68 0RJ,T,N,F,7,,Broadmoor Cottages,Broadmoor,Kilgetty
+2021-06-03,210000,SA68 0SA,D,N,F,47,,Millfields Close,,Kilgetty
+2021-05-28,240000,SA68 0YQ,D,N,F,4,,Cotswold Gardens,,Kilgetty
+2021-05-28,215000,SA68 0YF,D,N,F,Inglenook,,New Road,Begelly,Kilgetty
+2021-05-27,180000,SA68 0YE,D,N,F,Deri-Dene,,New Road,,Kilgetty
+2021-05-25,250000,SA68 0UJ,D,N,F,Bwythyn Sant Mair,,Carmarthen Road,,Kilgetty
+2021-05-14,215000,SA68 0YF,D,N,F,New Lodge,,New Road,Begelly,Kilgetty
+2021-05-14,168000,SA68 0QS,D,N,F,23,,Hill Rise,,Kilgetty
+2021-05-14,315000,SA68 0AB,D,Y,F,11A,,Rock Park,,Kilgetty
+2021-05-07,300000,SA68 0AB,D,Y,F,15,,Rock Park,,Kilgetty
+2021-04-19,170000,SA68 0XY,D,N,F,17,,Ash Park,,Kilgetty
+2021-04-16,260000,SA68 0AB,S,Y,F,10,,Rock Park,,Kilgetty
+2021-04-13,245000,SA68 0YD,D,N,F,4,,James Park,,Kilgetty
+2021-04-07,455000,SA68 0PE,D,N,F,Maes Elwyn John,1,,Reynalton,Kilgetty
+2021-04-07,280000,SA68 0AB,D,Y,F,2,,Rock Park,,Kilgetty
+2021-03-31,225000,SA68 0UW,D,N,F,15,,Mayfield Acres,,Kilgetty
+2021-03-30,430000,SA68 0PG,D,N,F,Reynalton House,,,Reynalton,Kilgetty
+2021-03-26,230000,SA68 0UD,D,N,F,69,,Oakfield Drive,,Kilgetty
+2021-03-24,280000,SA68 0RG,D,N,F,Lilac Lodge,,,Jeffreyston,Kilgetty
+2021-03-19,195000,SA68 0QS,D,N,F,34,,Hill Rise,,Kilgetty
+2021-03-18,725000,SA68 0RY,D,N,F,Rose Park,,,Broadmoor,Kilgetty
+2021-03-15,145000,SA68 0UT,S,N,F,6,,Woodfield Avenue,,Kilgetty
+2021-03-08,221000,SA68 0YN,S,N,F,3,,Parsonage Green,Begelly,Kilgetty
+2021-03-08,330000,SA68 0UA,D,N,F,7,,Cooksyeat View,,Kilgetty
+2021-02-22,175000,SA68 0XS,T,N,F,Alma Cottages,2A,Station Road,,Kilgetty
+2021-02-17,225000,SA68 0YE,D,N,F,Leigh,,New Road,,Kilgetty
+2021-02-16,245000,SA68 0TB,D,N,F,Hillcrest,,Lawrenny Road,Cresselly,Kilgetty
+2021-02-12,120000,SA68 0QP,F,N,L,Greenacre Court,Flat 1,Kingsmoor Road,,Kilgetty
+2021-02-01,282500,SA68 0XX,D,N,F,Puddleducks,,Carmarthen Road,,Kilgetty
+2021-01-29,385000,SA68 0YD,D,N,F,The Retreat,,James Park,,Kilgetty
+2021-01-29,275000,SA68 0UJ,D,N,F,The Nook,,Carmarthen Road,,Kilgetty
+2021-01-29,200000,SA68 0RJ,D,N,F,Treffgarne,,,Broadmoor,Kilgetty
+2021-01-27,135000,SA68 0QZ,S,N,F,17,,Kingsmoor Close,,Kilgetty
+2021-01-21,210000,SA68 0SA,D,N,F,30,,Millfields Close,,Kilgetty
+2021-01-08,205000,SA68 0UD,S,N,F,46,,Oakfield Drive,,Kilgetty
+2021-01-08,339500,SA68 0PG,D,N,F,Woodland View,,,Reynalton,Kilgetty
+2021-01-05,270000,SA68 0XX,D,N,F,Ashford,,Carmarthen Road,,Kilgetty
+2021-01-04,230000,SA68 0YQ,D,N,F,2,,Cotswold Gardens,,Kilgetty

@@ -1,0 +1,837 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-20,625000,SA44 5AA,D,N,F,Cnwcyreithin,,,Bancyffordd,Llandysul
+2026-07-31,359000,SA44 5ED,D,N,F,Maes Yrhaf,,,Saron,Llandysul
+2026-07-17,227000,SA44 6BZ,T,N,F,The Old Dairy,,,Llwyndafydd,Llandysul
+2026-07-09,173000,SA44 5NQ,S,N,F,24,,Cae Rwgan,Penrhiwllan,Llandysul
+2026-07-02,395000,SA44 4JW,D,N,F,Clover Cottage,,Llyn Y Fran Road,,Llandysul
+2026-06-30,199950,SA44 4AH,T,N,F,Glenydd,,Chapel Street,Pontwelly,Llandysul
+2026-06-26,246850,SA44 6PX,D,N,F,Bryneirin Lodge,,,Sarnau,Llandysul
+2026-06-24,304000,SA44 6AR,D,N,F,Bronhawen,,,Llangrannog,Llandysul
+2026-06-23,125000,SA44 6HS,D,N,F,Zefyr House,,,Plwmp,Llandysul
+2026-06-22,250000,SA44 6BN,S,N,F,Fron Villa,3,,Caerwedros,Llandysul
+2026-06-16,222000,SA44 5UH,T,N,F,Bargoed Villa,,,Dre Fach Felindre,Llandysul
+2026-06-15,170000,SA44 4JQ,S,N,F,105,,The Beeches,,Llandysul
+2026-06-12,255000,SA44 4UN,S,N,F,Aberglasne,,,Pontsian,Llandysul
+2026-06-12,140000,SA44 4TU,T,N,F,8,,Clettwr Terrace,Pontsian,Llandysul
+2026-06-12,215000,SA44 4JQ,S,N,F,94,,The Beeches,,Llandysul
+2026-06-09,120000,SA44 6SL,F,N,L,Cilborth,Flat 1,,Llangrannog,Llandysul
+2026-06-08,280000,SA44 4LZ,D,N,F,Pencarniced,,,Tregroes,Llandysul
+2026-06-05,130000,SA44 4HU,S,N,F,Teifi Cottage,,,,Llandysul
+2026-05-27,119000,SA44 6BB,F,N,L,20,,Heol Y Cwm,Cross Inn,Llandysul
+2026-05-22,175000,SA44 4DR,T,N,F,2,,Spring Gardens,,Llandysul
+2026-05-21,115000,SA44 6BB,F,N,L,19,,Heol Y Cwm,Cross Inn,Llandysul
+2026-05-20,350000,SA44 5BS,D,N,F,Garregwen Smithy,,,Bangor Teifi,Llandysul
+2026-05-15,265000,SA44 4JU,S,N,F,58,,Parc Yr Ynn,,Llandysul
+2026-05-08,407500,SA44 4SY,D,N,F,Rhydmel,,,Ffostrasol,Llandysul
+2026-05-08,166000,SA44 4BH,D,N,F,Maes Y Haf,,Wind Street,,Llandysul
+2026-05-07,330000,SA44 6EY,D,N,F,Fron-Y-Garth,,,Plwmp,Llandysul
+2026-04-29,328000,SA44 6QT,D,N,F,Marlais,,,Sarnau,Llandysul
+2026-04-28,165000,SA44 5NN,S,N,F,5,,Tremyfoel,Penrhiwllan,Llandysul
+2026-04-07,160000,SA44 6EE,D,N,F,Bronallt,,,Brynhoffnant,Llandysul
+2026-04-02,310000,SA44 5LS,D,N,F,Perth Uchaf,,,Coed Y Bryn,Llandysul
+2026-04-01,240000,SA44 5PF,D,N,F,Maelgwyn,,,Rhydlewis,Llandysul
+2026-04-01,462500,SA44 5NY,S,N,F,Dyffryn,1,,Penrhiwllan,Llandysul
+2026-03-31,112000,SA44 4HX,D,N,F,Gilfachwen Lodge,,,Bangor Teifi,Llandysul
+2026-03-27,335000,SA44 6LQ,S,N,F,Melin Y Gors,,Cwmtydu,Llwyndafydd,Llandysul
+2026-03-27,183000,SA44 6BX,T,N,F,Gwynfryn,,,Llwyndafydd,Llandysul
+2026-03-25,230000,SA44 5NN,S,N,F,7,,Tremyfoel,Penrhiwllan,Llandysul
+2026-03-24,127000,SA44 4DY,S,N,F,Crud-Yr-Awel,,Graig Road,,Llandysul
+2026-03-20,185000,SA44 6HJ,D,N,F,The Bungalow,,,Plwmp,Llandysul
+2026-03-20,288000,SA44 4DA,D,N,F,Myfyrgell,,Seion Hill,,Llandysul
+2026-03-17,399999,SA44 4UD,D,N,F,Oakfield House,,,Pontsian,Llandysul
+2026-03-16,350000,SA44 6DY,D,N,F,Glandwr Isaf,,,Brynhoffnant,Llandysul
+2026-03-12,270000,SA44 5LH,D,N,F,Ucheldir,,,Coed Y Bryn,Llandysul
+2026-03-10,270000,SA44 6RP,D,N,F,Rhydnanty,,,Llangrannog,Llandysul
+2026-03-10,305000,SA44 5YH,D,N,F,Ty Dderwen,,,Velindre,Llandysul
+2026-03-06,125000,SA44 4DS,T,N,F,Woodlands,,Lon Fedwen,,Llandysul
+2026-02-26,212500,SA44 5AF,S,N,F,Siloh Villa,,,Rhos,Llandysul
+2026-02-18,415000,SA44 6PN,D,N,F,Windy Ridge,,,Glynarthen,Llandysul
+2026-02-17,380000,SA44 6BB,D,N,F,7,,Heol Y Cwm,Cross Inn,Llandysul
+2026-02-12,320000,SA44 4SA,D,N,F,Cross Hands,,,Bancyffordd,Llandysul
+2026-01-30,550000,SA44 6NX,D,N,F,Ty'R Dderwen Ddu,,,Glynarthen,Llandysul
+2026-01-30,125000,SA44 4QP,T,N,F,3,,Porth Terrace,,Llandysul
+2026-01-28,255000,SA44 5RE,D,N,F,Folly Lodge,,,Rhydlewis,Llandysul
+2026-01-22,520000,SA44 4JW,D,N,F,Ardoch House,,Llyn Y Fran Road,,Llandysul
+2026-01-21,270000,SA44 6BT,D,N,F,Bro Mebyd,,Llwyndafydd Road,,Llandysul
+2026-01-16,157500,SA44 5XH,D,N,F,Danrhiw,,,Velindre,Llandysul
+2026-01-16,190000,SA44 5LN,S,N,F,Bro Gernos,Havard House 5,,Coed Y Bryn,Llandysul
+2026-01-16,285000,SA44 5BD,D,N,F,Derwen Las,,,Pentre Cwrt,Llandysul
+2026-01-15,310000,SA44 6HW,D,N,F,Green Acres,,,Pentregat,Llandysul
+2026-01-14,395000,SA44 5NQ,D,N,F,10,,Cae Rwgan,Penrhiwllan,Llandysul
+2026-01-05,175000,SA44 5TS,T,N,F,Penrhiwaber,3,,Henllan,Llandysul
+2025-12-19,160000,SA44 4SZ,S,N,F,4,,Llysgwyn,Ffostrasol,Llandysul
+2025-12-18,325000,SA44 4TF,D,N,F,Genaur Glyn,,,Ffostrasol,Llandysul
+2025-12-16,200000,SA44 5NT,T,N,F,Gwernllwyn,3,,Penrhiwllan,Llandysul
+2025-12-12,230000,SA44 6JZ,D,N,F,St. Martin,,,Pentre R Bryn,Llandysul
+2025-12-08,260000,SA44 6EA,D,N,F,Rhosawel,,,Brynhoffnant,Llandysul
+2025-12-05,420000,SA44 5UT,D,N,F,Ty Camallt,,,Velindre,Llandysul
+2025-12-05,95000,SA44 4DY,T,N,F,Bryntyssul,,Graig Road,,Llandysul
+2025-12-04,160000,SA44 6NQ,S,N,F,16,,Bro Hafan,Cross Inn,Llandysul
+2025-12-03,530000,SA44 4RY,D,N,F,Golwg Y Fro,,,Bancyffordd,Llandysul
+2025-12-01,470000,SA44 6AT,D,N,F,Lletyr Maes,,,Pontgarreg,Llandysul
+2025-12-01,390000,SA44 5LN,D,N,F,Gernos Lodge,,,Coed Y Bryn,Llandysul
+2025-12-01,224000,SA44 4HN,S,N,F,7,,Heol Y Gilfach,,Llandysul
+2025-11-28,300000,SA44 4JU,D,N,F,45,,Parc Yr Ynn,,Llandysul
+2025-11-26,238000,SA44 6PS,D,N,F,Lletyrcastan,,,Glynarthen,Llandysul
+2025-11-21,305000,SA44 6QS,D,N,F,Gwynfryn,,,Sarnau,Llandysul
+2025-11-20,206000,SA44 6LD,S,N,F,Heol Tydu,1,,Llwyndafydd,Llandysul
+2025-11-20,125000,SA44 4JD,T,N,F,Brynarwel,,,Horeb,Llandysul
+2025-11-19,495000,SA44 6DE,D,N,F,Berry Green,,,Blaencelyn,Llandysul
+2025-11-14,410000,SA44 5TX,S,N,F,The Coach House,,,Henllan,Llandysul
+2025-11-13,253000,SA44 6NH,D,N,F,Gwern Cottage,,,Cross Inn,Llandysul
+2025-11-07,267000,SA44 6RH,T,N,F,Riverside,,,Llangrannog,Llandysul
+2025-11-07,380000,SA44 6AH,D,N,F,Brynllin,,,Llangrannog,Llandysul
+2025-11-07,375000,SA44 5TN,D,N,F,Berllan,,,Henllan,Llandysul
+2025-11-06,220000,SA44 6AF,T,N,F,2,,Mill View Road,Llangrannog,Llandysul
+2025-10-31,412500,SA44 5ST,D,N,F,Cwm Llydrew,,,Rhydlewis,Llandysul
+2025-10-24,115000,SA44 4HU,S,N,F,Clettwr Cottage,,,,Llandysul
+2025-10-17,335000,SA44 4PX,D,N,F,Twynfan,,,Rhydowen,Llandysul
+2025-10-13,475000,SA44 5YF,D,N,F,Alban,,,Velindre,Llandysul
+2025-10-13,135000,SA44 5PE,D,N,F,Tegfan,,,Rhydlewis,Llandysul
+2025-10-13,275500,SA44 5DY,D,N,F,Yr Henfro,,,Saron,Llandysul
+2025-10-06,218000,SA44 5TN,S,N,F,Clydfan,,,Henllan,Llandysul
+2025-09-30,220000,SA44 4UL,T,N,F,Dol Clettwr,,,Pontsian,Llandysul
+2025-09-30,168000,SA44 4JF,T,N,F,Nythfa,,,Horeb,Llandysul
+2025-09-29,218000,SA44 6BU,S,N,F,Tanyfron,4,,Llwyndafydd,Llandysul
+2025-09-17,530000,SA44 5DR,D,N,F,Penralltddu,,,Saron,Llandysul
+2025-09-12,251000,SA44 4NQ,D,N,F,Rosehill,,,Maesymeillion,Llandysul
+2025-09-10,265000,SA44 5PQ,D,N,F,Rhydwen,,,Rhydlewis,Llandysul
+2025-09-09,280000,SA44 6NT,D,N,F,13,,Pencnwc Isaf Estate,Cross Inn,Llandysul
+2025-09-05,190000,SA44 4SL,S,N,F,Maeslan,,,Panteg Cross,Llandysul
+2025-09-04,420000,SA44 6DE,D,N,F,Brynhyfryd,,,Blaencelyn,Llandysul
+2025-09-02,402500,SA44 5TD,D,N,F,Bryn Siencyn,,,Henllan,Llandysul
+2025-09-01,160000,SA44 4SU,S,N,F,Clydfan,,,Panteg Cross,Llandysul
+2025-09-01,350000,SA44 4LZ,D,N,F,Iscoed,,,Tregroes,Llandysul
+2025-08-29,147000,SA44 4TE,S,N,F,Cysgod Yr Hafod,,,Ffostrasol,Llandysul
+2025-08-29,500000,SA44 4RL,D,N,F,Dol Llan Mansion,,Dol Llan Road,,Llandysul
+2025-08-29,318000,SA44 4JG,D,N,F,Pennant,,,Horeb,Llandysul
+2025-08-22,236000,SA44 5YG,D,N,F,Bramble Cottage,,,Velindre,Llandysul
+2025-08-22,461250,SA44 5XG,D,N,F,Hillside,,,Velindre,Llandysul
+2025-08-22,156000,SA44 5TN,D,N,F,Tregwyn,,,Henllan,Llandysul
+2025-08-18,345000,SA44 6BB,D,N,F,6,,Heol Y Cwm,Cross Inn,Llandysul
+2025-08-15,175000,SA44 6NL,T,N,F,Bryneglwys,,,Cross Inn,Llandysul
+2025-08-15,250125,SA44 5YW,D,N,F,Brohedyn,,,Dre Fach Felindre,Llandysul
+2025-08-14,260000,SA44 4LQ,D,N,F,Llwyncelyn,,Gorrig Road,Pentrellwyn,Llandysul
+2025-08-13,285000,SA44 4ET,D,N,F,Cnwc,,,Talgarreg,Llandysul
+2025-08-08,320000,SA44 5DU,D,N,F,Bryniau,,,Saron,Llandysul
+2025-08-06,185000,SA44 5DJ,S,N,F,4,,Maesyderi,Pentre Cwrt,Llandysul
+2025-08-04,400000,SA44 4SL,D,N,F,Penlan House,,,Panteg Cross,Llandysul
+2025-08-04,215000,SA44 4SL,D,N,F,Penlan Farm,,,Panteg Cross,Llandysul
+2025-08-01,342500,SA44 6JZ,D,N,F,Bryngelli,,,Pentre R Bryn,Llandysul
+2025-08-01,210000,SA44 5EH,D,N,F,Llwyngwyn,,,Saron,Llandysul
+2025-07-28,260000,SA44 5UH,D,N,F,Vaynor,,,Dre Fach Felindre,Llandysul
+2025-07-28,436500,SA44 4XH,D,N,F,Pant Y Grugos,,,Talgarreg,Llandysul
+2025-07-25,325000,SA44 5HX,D,N,F,Bach Y Gwyddel Isaf,,,Velindre,Llandysul
+2025-07-25,70000,SA44 4DE,T,N,F,4,,Barley Mow,,Llandysul
+2025-07-22,320000,SA44 4RJ,D,N,F,Erw Lon,,,,Llandysul
+2025-07-19,410000,SA44 4HR,D,N,F,Perthi,,Llyn Y Fran Road,,Llandysul
+2025-07-18,340000,SA44 6SG,T,N,F,Glanrhaiadr,3,,Llangrannog,Llandysul
+2025-07-18,555000,SA44 6ED,D,N,F,Blaenhoffnant Isaf,,,Brynhoffnant,Llandysul
+2025-07-18,165000,SA44 5TN,T,N,F,1,,Lan Cottages,Henllan,Llandysul
+2025-07-15,220000,SA44 6SB,D,N,F,Pinewood,,,Llangrannog,Llandysul
+2025-07-11,440000,SA44 4RP,D,N,F,Llys Y Dderwen,,Heol Y Dderwen,,Llandysul
+2025-07-10,450000,SA44 4XB,D,N,F,Caermeini,,,Talgarreg,Llandysul
+2025-07-09,300000,SA44 4LA,D,N,F,Yr Hafod,,Well Street,,Llandysul
+2025-06-30,178000,SA44 5XG,T,N,F,Pendre,,,Velindre,Llandysul
+2025-06-30,170000,SA44 5BD,D,N,F,Alltcafan House,,,Pentre Cwrt,Llandysul
+2025-06-27,150000,SA44 6EH,D,N,F,Hafan Deg,,,Brynhoffnant,Llandysul
+2025-06-27,330000,SA44 4DL,D,N,F,Garfield House,,High Street,,Llandysul
+2025-06-25,537500,SA44 6AU,D,N,F,Ty Clyd,,,Pontgarreg,Llandysul
+2025-06-23,280000,SA44 5DL,D,N,F,Pantyglien,,Saron Road,Pentre Cwrt,Llandysul
+2025-06-12,255000,SA44 6JL,D,N,F,Derlwyn,,,Synod Inn,Llandysul
+2025-06-10,205000,SA44 5UH,T,N,F,Ty Gwyn,,,Dre Fach Felindre,Llandysul
+2025-06-04,199500,SA44 6HS,D,N,F,Cartre Cariad,,,Plwmp,Llandysul
+2025-05-29,245000,SA44 6BE,D,N,F,8,,Caer Henwas,Caerwedros,Llandysul
+2025-05-22,255000,SA44 5DR,D,N,F,Gwelfro,,,Saron,Llandysul
+2025-05-21,300000,SA44 5EE,D,N,F,Noddfa,,,Rhos,Llandysul
+2025-05-20,153000,SA44 4QW,T,N,F,6,,Charles Street,,Llandysul
+2025-05-15,245000,SA44 4SS,D,N,F,The Haven,,,Panteg Cross,Llandysul
+2025-05-14,88500,SA44 4BU,T,N,F,21,,Lincoln Street,,Llandysul
+2025-05-09,555000,SA44 6AU,D,N,F,Plas Y Ddraig,,,Pontgarreg,Llandysul
+2025-05-09,455000,SA44 5AQ,D,Y,F,7,,Cae Crug,Penrhiwllan,Llandysul
+2025-04-25,89000,SA44 5UY,T,N,F,Fronheulog,,,Velindre,Llandysul
+2025-04-24,220000,SA44 4SH,D,N,F,Gwelfryn,,,Panteg Cross,Llandysul
+2025-04-17,153500,SA44 6AR,D,N,F,Pennant,,,Llangrannog,Llandysul
+2025-04-17,137500,SA44 5NP,S,N,F,Tegfan,,Aberbanc,Penrhiwllan,Llandysul
+2025-04-17,180000,SA44 4RW,S,N,F,7,,Heol Y Dderwen,,Llandysul
+2025-04-16,194000,SA44 4TQ,S,N,F,Penllwyn Fawr,,,Ffostrasol,Llandysul
+2025-04-14,295000,SA44 6PH,D,N,F,Llanerch Deg,,,Glynarthen,Llandysul
+2025-04-11,200000,SA44 4SU,D,N,F,Bartress,,,Panteg Cross,Llandysul
+2025-04-10,165000,SA44 6RH,D,N,F,Maes-Y-Llan,,,Llangrannog,Llandysul
+2025-04-10,56000,SA44 5LY,D,N,F,Bronydre,,,Coed Y Bryn,Llandysul
+2025-04-07,172000,SA44 4TU,T,N,F,Aelybryn,,,Pontsian,Llandysul
+2025-04-04,190000,SA44 5DJ,D,N,F,1,,Maesyderi,Pentre Cwrt,Llandysul
+2025-03-28,334000,SA44 6DE,D,N,F,Brook Cottage,,,Blaencelyn,Llandysul
+2025-03-26,270000,SA44 5DG,S,N,F,Glandilen,,,Pentre Cwrt,Llandysul
+2025-03-24,235000,SA44 6SH,T,N,F,Bodawen,,,Llangrannog,Llandysul
+2025-03-24,120000,SA44 4QE,D,N,F,Gelliowen,,,Rhydowen,Llandysul
+2025-03-17,450000,SA44 4TU,D,N,F,The Granary,,,Pontsian,Llandysul
+2025-03-14,260000,SA44 6BS,D,N,F,Gwelfryn,,,Caerwedros,Llandysul
+2025-03-07,175000,SA44 6AT,T,N,F,Heol Y Garreg,4,,Pontgarreg,Llandysul
+2025-03-07,210000,SA44 5NY,D,N,F,Ddolwen,,,Penrhiwllan,Llandysul
+2025-03-07,365000,SA44 5AJ,D,N,F,Rhydcarlin,,,Pentre Cwrt,Llandysul
+2025-03-05,300000,SA44 4DT,D,N,F,Llwyn Uchaf,,Sunny Hill,,Llandysul
+2025-02-24,370000,SA44 6BS,D,N,F,Tawelfan,,,Caerwedros,Llandysul
+2025-02-24,390000,SA44 4NG,D,N,F,Gorwel,,,Maesymeillion,Llandysul
+2025-02-14,285000,SA44 6HJ,D,N,F,Jade House,,,Plwmp,Llandysul
+2025-02-10,125000,SA44 5UY,T,N,F,Bronwion,,,Velindre,Llandysul
+2025-02-06,172000,SA44 5UP,S,N,F,7,,Cambrian,Velindre,Llandysul
+2025-02-05,340000,SA44 5TD,D,N,F,Glyn Noddfa,,,Henllan,Llandysul
+2025-02-04,435000,SA44 5AF,D,N,F,Ffynnon Fach,,,Rhos,Llandysul
+2025-02-04,81000,SA44 4JQ,S,N,F,104,,The Beeches,,Llandysul
+2025-01-31,235000,SA44 5XL,D,N,F,Glan Y Nant,,Cwmhiraeth,Velindre,Llandysul
+2025-01-31,200000,SA44 4JJ,D,N,F,Heddfryn,,,Horeb,Llandysul
+2025-01-30,225000,SA44 4JU,D,N,F,31,,Parc Yr Ynn,,Llandysul
+2025-01-24,187000,SA44 6NL,T,N,F,Arwel,,,Cross Inn,Llandysul
+2025-01-21,199500,SA44 5AQ,S,Y,F,6,,Cae Crug,Penrhiwllan,Llandysul
+2025-01-17,112500,SA44 5YW,S,N,F,The Old Mill,,,Dre Fach Felindre,Llandysul
+2025-01-17,560000,SA44 4NE,D,N,F,Afallon,,,Tregroes,Llandysul
+2025-01-17,97500,SA44 4DN,D,N,F,Pen-Y-Banc,,High Street,,Llandysul
+2025-01-13,82000,SA44 4DN,T,N,F,Hyfrydle,,High Street,,Llandysul
+2025-01-10,335000,SA44 5RE,D,N,F,Bwlchgwyn,,,Rhydlewis,Llandysul
+2025-01-10,124000,SA44 4BY,T,N,F,2,,Clifton Terrace,,Llandysul
+2024-12-20,115000,SA44 5UJ,T,N,L,Green Park,,Meiros Lane,Velindre,Llandysul
+2024-12-19,185000,SA44 6HS,D,N,F,Gorwelfa,,,Plwmp,Llandysul
+2024-12-19,105000,SA44 4QP,T,N,F,1,,Porth Terrace,,Llandysul
+2024-12-18,181000,SA44 5JT,S,N,F,Cartrefle,,,Ffostrasol,Llandysul
+2024-12-17,110000,SA44 4DL,T,N,F,Llwyndyrus,,High Street,,Llandysul
+2024-12-13,242000,SA44 6EB,D,N,F,Pengraig,,,Brynhoffnant,Llandysul
+2024-12-13,250000,SA44 4UD,D,N,F,Heddle,,,Pontsian,Llandysul
+2024-12-13,175000,SA44 4LA,T,N,F,"Brodeg, 3",,Well Street,,Llandysul
+2024-12-11,315000,SA44 6LJ,D,N,F,2,,Parc Yr Efail,Cross Inn,Llandysul
+2024-12-06,450000,SA44 5YL,D,N,F,Westfork,,,Velindre,Llandysul
+2024-12-05,360000,SA44 5NT,D,N,F,Carillon,,,Penrhiwllan,Llandysul
+2024-12-03,100000,SA44 5TL,S,N,F,18,,Bro Dewi,Henllan,Llandysul
+2024-12-02,162000,SA44 4SU,D,N,F,Y Spite,,,Panteg Cross,Llandysul
+2024-11-22,178000,SA44 5NN,S,N,F,19,,Tremyfoel,Penrhiwllan,Llandysul
+2024-11-22,280000,SA44 5DA,T,N,F,Glanyrafon,,,Pentre Cwrt,Llandysul
+2024-11-22,265000,SA44 4NN,D,N,F,Esgairwen,,,Tregroes,Llandysul
+2024-11-19,187500,SA44 5AT,S,N,F,Maes Y Meillion,10,,Pentre Cwrt,Llandysul
+2024-11-15,165000,SA44 6AT,S,N,F,Heol Y Garreg,1,,Pontgarreg,Llandysul
+2024-11-15,330000,SA44 5PH,D,N,F,Glandwr,(Elwell),,Rhydlewis,Llandysul
+2024-11-14,230000,SA44 5QG,S,N,F,Min-Y-Garth,,,Rhydlewis,Llandysul
+2024-11-13,340000,SA44 5DL,D,N,F,Brynderwen,,Saron Road,Pentre Cwrt,Llandysul
+2024-11-13,340000,SA44 5BS,D,N,F,Garregwen Smithy,,,Bangor Teifi,Llandysul
+2024-11-13,315000,SA44 4XA,D,N,F,Y Berllan,,,Talgarreg,Llandysul
+2024-11-12,330000,SA44 5NL,D,N,F,Brongelli,,,Penrhiwllan,Llandysul
+2024-11-12,140000,SA44 4JF,S,N,F,Heol Y Merwydd,2,,Horeb,Llandysul
+2024-11-08,545000,SA44 6BN,D,N,F,Arlwyn,,,Caerwedros,Llandysul
+2024-11-05,90500,SA44 5UL,T,N,F,4,,Llys Puw,Velindre,Llandysul
+2024-11-05,440000,SA44 5RH,D,N,F,Brooklands,,,Rhydlewis,Llandysul
+2024-11-05,345000,SA44 5BS,D,N,F,Crosshill,,,Bangor Teifi,Llandysul
+2024-11-04,137500,SA44 6QT,D,N,F,Cilhaul,,,Sarnau,Llandysul
+2024-10-31,270000,SA44 4JU,D,N,F,13,,Parc Yr Ynn,,Llandysul
+2024-10-28,215000,SA44 5DA,S,N,F,Rose Cottage,,,Pentre Cwrt,Llandysul
+2024-10-25,375000,SA44 6SW,T,N,F,Llais Y Mor,,,Llangrannog,Llandysul
+2024-10-24,450000,SA44 5HD,D,N,F,Ty Hen,,,Rhos,Llandysul
+2024-10-23,400000,SA44 5DT,D,N,F,Craiglas,,,Saron,Llandysul
+2024-10-23,216000,SA44 4JJ,D,N,F,Penpark,,,Horeb,Llandysul
+2024-10-21,195000,SA44 6QT,D,N,F,Brynonnen,,,Sarnau,Llandysul
+2024-10-15,237000,SA44 5DX,S,N,F,Bryntudur,,,Saron,Llandysul
+2024-10-15,472000,SA44 4JW,D,Y,F,Brynamlwg,,Llyn Y Fran Road,,Llandysul
+2024-10-14,162500,SA44 4ST,T,N,F,11,,Bro Gwynfaen,Panteg Cross Roads,Llandysul
+2024-10-11,290000,SA44 6QN,D,N,F,Tan Y Bryn,,,Sarnau,Llandysul
+2024-10-04,160000,SA44 4AJ,T,N,F,Old Commerce House,,,Pontwelly,Llandysul
+2024-09-27,108000,SA44 5NN,S,N,F,7,,Tremyfoel,Penrhiwllan,Llandysul
+2024-09-25,595000,SA44 6SE,D,N,F,Frondeiniol,,,Llangrannog,Llandysul
+2024-09-23,250000,SA44 6SH,S,N,F,Pencastell,,,Llangrannog,Llandysul
+2024-09-23,170000,SA44 5XG,S,N,F,Bridge House,,,Velindre,Llandysul
+2024-09-18,177500,SA44 6BP,S,N,F,4,,Bro Ffion,Caerwedros,Llandysul
+2024-09-18,400000,SA44 6BB,D,N,F,23,,Heol Y Cwm,Cross Inn,Llandysul
+2024-09-13,470000,SA44 6LJ,D,N,F,5,,Parc Yr Efail,Cross Inn,Llandysul
+2024-09-12,870000,SA44 6BZ,D,N,F,Heddfan,,,Llwyndafydd,Llandysul
+2024-09-12,187000,SA44 4RW,D,N,F,19,,Heol Y Dderwen,,Llandysul
+2024-09-06,161500,SA44 5NN,S,N,F,16,,Tremyfoel,Penrhiwllan,Llandysul
+2024-09-05,165000,SA44 5UH,D,N,F,Haulfryn,,C1297 From Felindre To Pentrecagal,Velindre,Llandysul
+2024-09-05,400000,SA44 4NJ,D,N,F,Caemeillion,,,Maesymeillion,Llandysul
+2024-08-28,320000,SA44 5EG,D,N,F,Bryncerdd,,,Rhos,Llandysul
+2024-08-22,160000,SA44 4QJ,T,N,L,Alafon,,New Road,,Llandysul
+2024-08-20,149500,SA44 4QN,T,N,F,Brynteg,,Lon Wesley,,Llandysul
+2024-08-19,155000,SA44 5XG,S,N,F,Angorfa,,,Velindre,Llandysul
+2024-08-19,320000,SA44 4RY,D,N,F,Afallon,,,Bancyffordd,Llandysul
+2024-08-19,215000,SA44 4JU,S,N,F,Windsor,,Parc Yr Ynn,,Llandysul
+2024-08-16,300000,SA44 4LE,S,N,F,Frongoch,1,Gorrig Road,Pentrellwyn,Llandysul
+2024-08-08,400000,SA44 6JY,D,N,F,Penlon House,,,Pentre R Bryn,Llandysul
+2024-08-06,575000,SA44 6NN,D,N,F,Pencoed,,,Cross Inn,Llandysul
+2024-08-02,285000,SA44 6DE,S,N,F,Blaencastell,,,Blaencelyn,Llandysul
+2024-08-01,485000,SA44 5RH,D,N,F,Bronwylfa,,,Rhydlewis,Llandysul
+2024-07-24,174000,SA44 5DZ,D,N,F,Heulwen,,,Saron,Llandysul
+2024-07-23,354000,SA44 5UG,D,N,F,Garth,,,Velindre,Llandysul
+2024-07-19,90000,SA44 5UH,T,N,F,Ivy House,,,Dre Fach Felindre,Llandysul
+2024-07-18,150000,SA44 5TN,T,N,F,Willows Edge,,,Henllan,Llandysul
+2024-07-17,310000,SA44 6RE,D,N,F,Nyth Y Wennol,,,Sarnau,Llandysul
+2024-07-12,417000,SA44 5NN,D,N,F,Blaenparc,,Tremyfoel,Penrhiwllan,Llandysul
+2024-07-11,164000,SA44 4BY,T,N,F,3,,Clifton Terrace,,Llandysul
+2024-07-05,203000,SA44 5AQ,S,Y,F,5,,Cae Crug,Penrhiwllan,Llandysul
+2024-07-03,362000,SA44 5TN,D,N,F,Clifton,,,Henllan,Llandysul
+2024-06-28,360000,SA44 6NT,D,N,F,9,,Pencnwc Isaf Estate,Cross Inn,Llandysul
+2024-06-27,130000,SA44 6DS,D,N,F,Lingcroft,,,Brynhoffnant,Llandysul
+2024-06-27,225000,SA44 5EQ,S,N,F,Brynawelon,,,Rhos,Llandysul
+2024-06-25,160000,SA44 6DS,D,N,F,Moranedd,,,Brynhoffnant,Llandysul
+2024-06-21,285000,SA44 5JX,D,N,F,Charlesville,,,Bwlchygroes,Llandysul
+2024-06-21,185000,SA44 4TJ,D,N,F,Elmor,,,Ffostrasol,Llandysul
+2024-06-18,320000,SA44 5NU,D,N,F,Blaenwaun Cottage,,,Penrhiwllan,Llandysul
+2024-06-10,110000,SA44 5UT,S,N,F,1,,Llysnewydd Cottages,Velindre,Llandysul
+2024-06-10,217500,SA44 5NG,T,N,F,2,,Orllwyn Terrace,Penrhiwllan,Llandysul
+2024-06-07,210000,SA44 4TD,D,N,F,Bwlchyronen,,,Ffostrasol,Llandysul
+2024-06-05,320000,SA44 5EN,D,N,F,Ceridwen,,,Saron,Llandysul
+2024-06-03,195000,SA44 6HN,S,N,F,Bro Ffynnon,2,,Pentregat,Llandysul
+2024-06-03,160000,SA44 5DS,T,N,F,3,,Trewern,Saron,Llandysul
+2024-05-31,340000,SA44 6SA,T,N,F,Cartrefle,,,Llangrannog,Llandysul
+2024-05-31,465000,SA44 5SA,D,N,F,Arfryn,,,Rhydlewis,Llandysul
+2024-05-31,365000,SA44 5HW,D,N,F,Swn Y Coed,,,Dre Fach Felindre,Llandysul
+2024-05-29,290000,SA44 5YG,D,N,F,Dolydd,,,Velindre,Llandysul
+2024-05-29,287000,SA44 5UG,D,N,F,Llys Herber,,,Velindre,Llandysul
+2024-05-24,135000,SA44 6AR,D,N,F,Dolnant,,,Llangrannog,Llandysul
+2024-05-23,357500,SA44 6PX,D,N,F,Trem-Yr-Enlli,,,Sarnau,Llandysul
+2024-05-23,500000,SA44 5AQ,D,Y,F,4,,Cae Crug,Penrhiwllan,Llandysul
+2024-05-22,198000,SA44 4QD,S,N,F,Abernant,,,Rhydowen,Llandysul
+2024-05-20,140000,SA44 4JW,D,Y,F,Penrhewl,,Llyn Y Fran Road,,Llandysul
+2024-05-17,355000,SA44 6HB,S,N,F,Gerycoed,,,Plwmp,Llandysul
+2024-05-14,412000,SA44 4JW,D,N,F,Ty Celyn,,Llyn Y Fran Road,,Llandysul
+2024-05-02,110000,SA44 6AU,D,Y,F,Ty Nant,,,Pontgarreg,Llandysul
+2024-04-30,336000,SA44 6NX,D,N,F,Dale Garth,,,Glynarthen,Llandysul
+2024-04-29,317500,SA44 5ED,D,N,F,Cadwgan,,,Saron,Llandysul
+2024-04-26,320000,SA44 5PE,D,N,F,Glancollen,,,Rhydlewis,Llandysul
+2024-04-25,110000,SA44 4ER,T,N,F,Tycanol,,,Talgarreg,Llandysul
+2024-04-19,135000,SA44 5TH,T,N,F,9,,Railway Terrace,Henllan,Llandysul
+2024-04-12,130000,SA44 6EA,D,N,F,Cefn Bryn,,,Brynhoffnant,Llandysul
+2024-04-05,420000,SA44 5QS,D,N,F,Drws Y Coed,,,Rhydlewis,Llandysul
+2024-04-03,88000,SA44 5UL,T,N,F,3,,Llys Puw,Velindre,Llandysul
+2024-03-28,80000,SA44 4BZ,T,N,F,3,,Green Hill,,Llandysul
+2024-03-26,315000,SA44 6LJ,D,N,F,8,,Parc Yr Efail,Cross Inn,Llandysul
+2024-03-26,130000,SA44 4AE,D,N,F,Gerallt,,Pencader Road,Pontwelly,Llandysul
+2024-03-25,235000,SA44 6DA,T,N,F,1,,Clos Y Graig Cottages,Penbontrhydyfothau,Llandysul
+2024-03-25,158000,SA44 4AP,T,N,F,3,,Station Road,Pontwelly,Llandysul
+2024-03-20,750000,SA44 5YL,D,N,F,Fron Rafel,,,Velindre,Llandysul
+2024-03-11,400000,SA44 5HE,D,N,F,Heather Breeze,,,Rhos,Llandysul
+2024-03-11,292000,SA44 4JW,D,N,F,Dyffryn,,Llyn Y Fran Road,,Llandysul
+2024-03-07,352500,SA44 6LJ,D,N,F,4,,Parc Yr Efail,Cross Inn,Llandysul
+2024-02-26,244950,SA44 6BN,S,N,F,Fron Villa,3,,Caerwedros,Llandysul
+2024-02-23,279000,SA44 4HS,D,N,F,Brenig,,The Beeches,,Llandysul
+2024-02-22,175000,SA44 4BA,D,N,F,Rocklee,,Bridge Street,,Llandysul
+2024-02-21,150000,SA44 6ED,D,N,F,Plot 1,,Llangranog Road,,Llandysul
+2024-02-19,225000,SA44 5NG,T,N,F,1,,Orllwyn Terrace,Penrhiwllan,Llandysul
+2024-02-15,242000,SA44 6NX,S,N,F,Preswylfa,,,Glynarthen,Llandysul
+2024-02-15,278000,SA44 5NT,S,N,F,Llwyngwyn,,,Penrhiwllan,Llandysul
+2024-02-15,206456,SA44 4PX,D,N,F,Henfron,,,Rhydowen,Llandysul
+2024-02-06,320000,SA44 5DL,D,N,F,Coldeelee,,Saron Road,Pentre Cwrt,Llandysul
+2024-02-02,70000,SA44 4DE,S,N,F,3,,Barley Mow,,Llandysul
+2024-01-29,270000,SA44 5HT,D,N,F,Penlon Rhadis,,Cwmpengraig,Velindre,Llandysul
+2024-01-24,385000,SA44 5LD,D,N,F,Arlyn,,,Maesllyn,Llandysul
+2024-01-19,199000,SA44 4JU,S,N,F,37,,Parc Yr Ynn,,Llandysul
+2024-01-15,105000,SA44 4DB,T,N,F,5,,Marble Terrace,,Llandysul
+2024-01-05,265000,SA44 5NH,D,N,F,Orllwyn Hall,,,Penrhiwllan,Llandysul
+2023-12-20,450000,SA44 6QH,D,N,F,Glaslwyn,,,Sarnau,Llandysul
+2023-12-20,184000,SA44 5EX,T,N,F,5,,Brogeler,Llangeler,Llandysul
+2023-12-20,205000,SA44 4RW,S,N,F,17,,Heol Y Dderwen,,Llandysul
+2023-12-18,272000,SA44 6NX,D,N,F,Glenydd,,,Glynarthen,Llandysul
+2023-12-18,295000,SA44 5NH,D,N,F,Penrallt Fern,,,Penrhiwllan,Llandysul
+2023-12-18,345000,SA44 4UD,D,N,F,Blodeuen,,,Pontsian,Llandysul
+2023-12-15,445000,SA44 6QQ,D,N,F,4,,Cae Llwyni,Sarnau,Llandysul
+2023-12-15,690000,SA44 6NP,D,N,F,Pantygwair,,,Cross Inn,Llandysul
+2023-12-15,170000,SA44 6NG,D,N,F,Cilmeri,,,Cross Inn,Llandysul
+2023-12-15,357500,SA44 4SL,D,N,F,Llaindelyn,,,Panteg Cross,Llandysul
+2023-12-08,220000,SA44 5TH,T,N,F,5,,Railway Terrace,Henllan,Llandysul
+2023-11-30,220000,SA44 5NS,S,N,F,Penrhiwprian Isaf,,,Penrhiwllan,Llandysul
+2023-11-29,340000,SA44 6AU,D,N,F,Golwg Y Mor,,,Pontgarreg,Llandysul
+2023-11-29,455000,SA44 4SD,D,N,F,Brwynduon,,,Bancyffordd,Llandysul
+2023-11-22,315000,SA44 5NU,D,N,F,Awelfa,,,Penrhiwllan,Llandysul
+2023-11-09,305000,SA44 6DE,D,N,F,Blaencelyn Cottage,,,Blaencelyn,Llandysul
+2023-11-08,175000,SA44 5DR,T,N,F,Rose Hill,,,Saron,Llandysul
+2023-11-07,222500,SA44 6LD,S,N,F,Heol Tydu,2,,Llwyndafydd,Llandysul
+2023-11-07,174000,SA44 4RW,S,N,F,16,,Heol Y Dderwen,,Llandysul
+2023-11-02,172500,SA44 5HT,T,N,F,Green Meadow,2,Cwmpengraig,Velindre,Llandysul
+2023-11-01,450000,SA44 5TY,D,N,F,Ty Sinc,,,Henllan,Llandysul
+2023-10-30,250000,SA44 6NS,D,N,F,1,,Penrhiwgaled Lane,Cross Inn,Llandysul
+2023-10-30,291950,SA44 5DY,D,N,F,Delfan,,,Saron,Llandysul
+2023-10-27,680000,SA44 6PE,D,N,F,Sycharth,,,Glynarthen,Llandysul
+2023-10-27,250000,SA44 6HW,D,N,F,Green Acres,,,Pentregat,Llandysul
+2023-10-23,349950,SA44 5EN,D,N,F,Rhyd Y Wern,,,Saron,Llandysul
+2023-10-20,300000,SA44 6DE,S,N,F,Blaencastell,,,Blaencelyn,Llandysul
+2023-10-20,325000,SA44 6BA,D,N,F,4,,Winllan Lane,Cross Inn,Llandysul
+2023-10-20,80000,SA44 5UH,D,N,F,Erw R Delyn,,,Dre Fach Felindre,Llandysul
+2023-10-18,250000,SA44 6PX,D,N,F,Bryneirin Lodge,,,Sarnau,Llandysul
+2023-10-18,175000,SA44 5DZ,S,N,F,Maesgwyn,1,,Saron,Llandysul
+2023-10-18,150000,SA44 4TN,D,N,F,Merecot,,,Ffostrasol,Llandysul
+2023-10-16,180000,SA44 4LG,S,N,F,Plasyfedwen,2,Gorrig Road,Pentrellwyn,Llandysul
+2023-10-13,408500,SA44 4NP,T,N,F,Bonty Bargoed,,,Prengwyn,Llandysul
+2023-10-05,290000,SA44 5DU,S,N,F,Craig Y Nos,,,Saron,Llandysul
+2023-09-29,60000,SA44 4SL,D,N,F,Penlan Cottage,,,Panteg Cross,Llandysul
+2023-09-28,460000,SA44 6RP,D,N,F,Bwlch Y Groes,,,Llangrannog,Llandysul
+2023-09-22,140500,SA44 4ST,T,N,F,11,,Bro Gwynfaen,Panteg Cross Roads,Llandysul
+2023-09-21,345000,SA44 5DR,D,N,F,Bryn Y Wawr,,,Saron,Llandysul
+2023-09-18,300000,SA44 4LQ,D,N,F,Rhosydd,,Gorrig Road,Pentrellwyn,Llandysul
+2023-09-15,260000,SA44 5ET,D,N,F,Parc Yr Eglwys,,,Llangeler,Llandysul
+2023-09-15,420000,SA44 4RP,D,N,F,Cilmelyn,,Heol Y Dderwen,,Llandysul
+2023-09-07,178000,SA44 5NW,T,N,F,Bryngoleu,,,Penrhiwllan,Llandysul
+2023-09-07,275000,SA44 5LD,T,N,F,Tegfan,,,Maesllyn,Llandysul
+2023-09-04,265000,SA44 4BZ,D,N,L,Seion Cottage,,Green Hill,,Llandysul
+2023-09-01,575000,SA44 5DX,D,N,F,Cefn Plas,,,Saron,Llandysul
+2023-08-31,250000,SA44 6JE,D,N,F,Coed Y Bryn,,,Synod Inn,Llandysul
+2023-08-30,295000,SA44 5QH,D,N,F,Euron,,,Rhydlewis,Llandysul
+2023-08-30,150000,SA44 4QW,T,N,F,2,,Charles Street,,Llandysul
+2023-08-29,325000,SA44 5TH,D,N,F,Glenalmond,,,Henllan,Llandysul
+2023-08-29,245000,SA44 5DY,D,N,F,Maesteg,,,Saron,Llandysul
+2023-08-25,175000,SA44 5XL,S,N,F,Pant Glas,2,Cwmhiraeth,Velindre,Llandysul
+2023-08-23,130000,SA44 5XB,T,N,F,Dderwendeg,,,Velindre,Llandysul
+2023-08-21,250000,SA44 6EA,D,N,F,Murmur Y Coed,,,Brynhoffnant,Llandysul
+2023-08-18,210000,SA44 6LW,D,N,F,Pendre,1,,Cross Inn,Llandysul
+2023-08-16,277000,SA44 6PX,D,N,F,Coed-Y-Wern,,,Sarnau,Llandysul
+2023-08-11,177000,SA44 6LA,T,N,F,Gwynfa,,,Llwyndafydd,Llandysul
+2023-08-11,279500,SA44 6AF,S,N,F,1,,Mill View Road,Llangrannog,Llandysul
+2023-08-09,435000,SA44 5EH,D,N,F,Llwyn Uchaf,,,Saron,Llandysul
+2023-08-08,165000,SA44 4EP,S,N,F,Clettwr Vale,,,Talgarreg,Llandysul
+2023-08-07,80000,SA44 5UH,T,N,F,Anchor House,,,Dre Fach Felindre,Llandysul
+2023-08-04,410000,SA44 6BW,D,N,F,Siop Y Castell,,,Caerwedros,Llandysul
+2023-08-01,390000,SA44 5NG,D,N,F,Woodville,,,Penrhiwllan,Llandysul
+2023-07-17,210000,SA44 5NU,S,N,F,Cartrefle,,,Penrhiwllan,Llandysul
+2023-07-14,265000,SA44 6NX,T,N,F,Cartref,,,Glynarthen,Llandysul
+2023-07-14,160000,SA44 4QL,S,N,F,7,,Heol Y Neuadd,,Llandysul
+2023-07-07,250000,SA44 4SU,S,N,F,Panteg,,,Panteg Cross,Llandysul
+2023-07-03,260000,SA44 4QP,T,N,F,9,,Porth Terrace,,Llandysul
+2023-07-03,215000,SA44 4QJ,T,N,F,Llysawen,,New Road,,Llandysul
+2023-06-30,285000,SA44 6AH,D,N,F,Cae'R Onnen,,,Llangrannog,Llandysul
+2023-06-27,415000,SA44 5AT,D,N,F,Eithinog,,,Pentre Cwrt,Llandysul
+2023-06-26,295000,SA44 5DU,S,N,F,Cefn Canol,,,Saron,Llandysul
+2023-06-23,260000,SA44 4TJ,D,N,F,Parcyrodyn,,,Ffostrasol,Llandysul
+2023-06-22,110000,SA44 5NG,T,N,F,Tynewydd,,,Penrhiwllan,Llandysul
+2023-06-16,247500,SA44 5AX,D,N,F,Ty Cerdin,,,Pentre Cwrt,Llandysul
+2023-06-16,118000,SA44 4DN,S,N,F,Brodawel,,High Street,,Llandysul
+2023-06-15,210000,SA44 5EB,D,N,F,Tegrin,,,Saron,Llandysul
+2023-06-13,150000,SA44 5YG,T,N,F,5,,Gilwen Terrace,Velindre,Llandysul
+2023-06-13,127500,SA44 4HS,S,N,F,39,,The Beeches,,Llandysul
+2023-05-31,330000,SA44 6AR,D,N,F,Bronhawen,,,Llangrannog,Llandysul
+2023-05-23,161000,SA44 6AU,S,N,F,Ty Syren,,,Pontgarreg,Llandysul
+2023-05-19,220000,SA44 4SL,D,N,F,The Farmhouse,,,Panteg Cross,Llandysul
+2023-05-18,175000,SA44 5NQ,S,Y,F,24,,Cae Rwgan,Penrhiwllan,Llandysul
+2023-05-18,265000,SA44 5AJ,D,N,F,Lletty,,,Pentre Cwrt,Llandysul
+2023-05-17,330000,SA44 6HJ,D,N,F,Tandisgwylfa,,,Plwmp,Llandysul
+2023-05-15,279000,SA44 4RY,D,N,F,Alandel,,,Bancyffordd,Llandysul
+2023-05-15,185000,SA44 4BA,T,N,F,Fernlea,,Bridge Street,,Llandysul
+2023-05-15,175000,SA44 4BA,T,N,F,Dolau Villa,,Bridge Street,,Llandysul
+2023-05-12,122500,SA44 5HE,D,N,F,Cae Maen,,,Rhos,Llandysul
+2023-05-12,330000,SA44 4NG,D,N,F,Awel Y Mynydd,,,Maesymeillion,Llandysul
+2023-05-12,167500,SA44 4DN,T,N,F,Green Court,,High Street,,Llandysul
+2023-05-05,122000,SA44 4LF,D,N,F,Panteg,,Gorrig Road,Pentrellwyn,Llandysul
+2023-05-05,600000,SA44 4EN,D,N,F,Gwarallt Faerdre,,,Talgarreg,Llandysul
+2023-05-03,490000,SA44 4UA,D,N,F,Yr Efail,,,Pontsian,Llandysul
+2023-05-02,272500,SA44 4JG,D,N,F,Rhoslan,,,Horeb,Llandysul
+2023-04-24,250100,SA44 6DA,D,N,F,Sunnyside,,,Penbontrhydyfothau,Llandysul
+2023-04-20,131600,SA44 6HS,S,N,F,Awelfor,,,Plwmp,Llandysul
+2023-04-19,165000,SA44 5XD,S,N,F,Cilgraig,(Stevenson),,Velindre,Llandysul
+2023-04-17,220000,SA44 4ES,D,N,F,Penlon,,,Talgarreg,Llandysul
+2023-04-14,161000,SA44 6AU,S,N,F,Glyndwr,,,Pontgarreg,Llandysul
+2023-04-12,385000,SA44 4RY,D,N,F,Ucheldir,,,Bancyffordd,Llandysul
+2023-04-12,115000,SA44 4QX,T,N,F,6,,Teras Cambrian Terrace,,Llandysul
+2023-04-06,159600,SA44 6ED,S,N,F,Brynhyfryd,,,Brynhoffnant,Llandysul
+2023-04-05,376000,SA44 5HF,D,N,F,Penclawdd Uchaf,,,Rhos,Llandysul
+2023-04-04,300000,SA44 6RE,D,N,F,North Fawr Farm,,,Sarnau,Llandysul
+2023-04-04,137500,SA44 5UL,T,N,F,1,,Llys Puw,Velindre,Llandysul
+2023-04-04,285000,SA44 5DY,D,N,F,Silver Hills,,,Saron,Llandysul
+2023-04-03,180000,SA44 5XU,D,N,F,Gwelfro,,,Velindre,Llandysul
+2023-03-28,288000,SA44 6HJ,D,N,F,Tanybanc,,,Plwmp,Llandysul
+2023-03-17,320000,SA44 6AS,D,N,F,Coederyl,,,Pontgarreg,Llandysul
+2023-03-17,395000,SA44 5NT,D,N,F,Berllan Deg,,,Penrhiwllan,Llandysul
+2023-03-15,230000,SA44 4SH,D,N,F,Gwelfryn,,,Panteg Cross,Llandysul
+2023-03-14,210000,SA44 5UJ,T,N,L,Dyffryn Bargoed,,Meiros Lane,Velindre,Llandysul
+2023-03-13,330000,SA44 4QE,D,N,F,Brynowen,,,Rhydowen,Llandysul
+2023-03-13,265000,SA44 4PP,D,N,F,Tanyfron,,,Capel Dewi,Llandysul
+2023-03-10,110000,SA44 4TU,T,N,F,3,,Clettwr Terrace,Pontsian,Llandysul
+2023-03-10,250000,SA44 4JU,D,N,F,20,,Parc Yr Ynn,,Llandysul
+2023-03-09,322500,SA44 4UN,S,N,F,Aberglasne,,,Pontsian,Llandysul
+2023-03-03,243000,SA44 5BP,S,N,F,2,,Fron,Bangor Teifi,Llandysul
+2023-03-01,135000,SA44 4QS,T,N,F,Fedwen Villa,,Church Street,,Llandysul
+2023-03-01,135000,SA44 4LN,T,N,F,Hergest,,,Prengwyn,Llandysul
+2023-02-28,155000,SA44 4JJ,D,N,F,Penpark,,,Horeb,Llandysul
+2023-02-24,295000,SA44 5DZ,D,N,F,Coedlan,,,Saron,Llandysul
+2023-02-20,505000,SA44 6LJ,D,N,F,6,,Parc Yr Efail,Cross Inn,Llandysul
+2023-02-17,175000,SA44 5TH,T,N,F,11,,Railway Terrace,Henllan,Llandysul
+2023-02-16,370000,SA44 5AX,D,N,F,Ffrwd Melin,,,Pentre Cwrt,Llandysul
+2023-02-10,205000,SA44 6BZ,T,N,F,The Old Dairy,,,Llwyndafydd,Llandysul
+2023-02-10,230000,SA44 5FA,S,N,F,2,,Tiraeron,Llangeler,Llandysul
+2023-02-09,400000,SA44 5JS,D,N,F,Blue Barn,,,Ffostrasol,Llandysul
+2023-02-01,385000,SA44 5AX,D,N,F,Dyffryn Cwrt,,,Pentre Cwrt,Llandysul
+2023-02-01,118000,SA44 4TU,T,N,F,9,,Clettwr Terrace,Pontsian,Llandysul
+2023-01-26,445000,SA44 6BU,D,N,F,Quindon,,,Llwyndafydd,Llandysul
+2023-01-20,300000,SA44 4JU,D,N,F,53,,Parc Yr Ynn,,Llandysul
+2023-01-18,825000,SA44 4RG,D,N,F,Bryngolau,,,Capel Dewi,Llandysul
+2023-01-16,370000,SA44 6AG,D,N,F,Coedmor,,,Llangrannog,Llandysul
+2023-01-11,290000,SA44 5EE,D,N,F,Redlands,,,Rhos,Llandysul
+2023-01-11,160000,SA44 4JF,S,N,F,Heol Y Merwydd,5,,Horeb,Llandysul
+2023-01-09,220000,SA44 5YD,D,N,F,Meysydd,,,Velindre,Llandysul
+2022-12-22,388000,SA44 5PL,D,N,F,Blaenbarre Cottage,,,Rhydlewis,Llandysul
+2022-12-21,160000,SA44 5UP,S,N,F,3,,Cambrian Street,Velindre,Llandysul
+2022-12-21,164500,SA44 4JW,S,Y,F,Taldir,,Llynyfran Road,,Llandysul
+2022-12-13,420000,SA44 6QY,D,N,F,Mor Welier,,,Sarnau,Llandysul
+2022-12-12,660000,SA44 4RZ,D,N,F,Golygfa'R Mynydd,,,Bancyffordd,Llandysul
+2022-12-09,380000,SA44 6DE,D,N,F,Brynhyfryd,,,Blaencelyn,Llandysul
+2022-12-09,353558,SA44 5NQ,S,Y,F,23,,Cae Rwgan,Penrhiwllan,Llandysul
+2022-12-09,400000,SA44 5EG,D,N,F,Ty Deri,,,Rhos,Llandysul
+2022-12-09,325000,SA44 5EE,D,N,F,Rhoslas,,,Rhos,Llandysul
+2022-12-09,320000,SA44 4SH,D,N,F,Talfan,,,Panteg Cross,Llandysul
+2022-12-07,859000,SA44 5SR,D,N,F,Ffynnon Fendigaid,,,Rhydlewis,Llandysul
+2022-12-01,314000,SA44 5YF,D,N,F,Bryngwenllan,,,Velindre,Llandysul
+2022-12-01,575126,SA44 5NQ,D,Y,F,20,,Cae Rwgan,Penrhiwllan,Llandysul
+2022-11-30,270000,SA44 4SH,T,N,F,Cartref,,,Panteg Cross,Llandysul
+2022-11-28,790000,SA44 6HU,D,N,F,Blaenbedw House,,,Plwmp,Llandysul
+2022-11-28,260000,SA44 5EA,D,N,F,Hendre,,,Saron,Llandysul
+2022-11-22,299950,SA44 6JB,D,N,F,Brynywawr,,,Synod Inn,Llandysul
+2022-11-21,270000,SA44 4RW,D,N,F,Brynawel,,Heol Y Dderwen,,Llandysul
+2022-11-18,279500,SA44 5UG,S,N,F,Glan Yw Mor,,,Velindre,Llandysul
+2022-11-18,199500,SA44 5NQ,S,Y,F,26,,Cae Rwgan,Penrhiwllan,Llandysul
+2022-11-17,424000,SA44 5QU,D,N,F,Merrymeads,,,Rhydlewis,Llandysul
+2022-11-11,285000,SA44 5PQ,D,N,F,Llwyncerdinen,,,Rhydlewis,Llandysul
+2022-11-11,105000,SA44 4DE,S,N,F,2,,Barley Mow,,Llandysul
+2022-11-08,130000,SA44 4EP,D,N,F,Lonlas,,,Talgarreg,Llandysul
+2022-11-03,517245,SA44 5NQ,D,Y,F,18,,Cae Rwgan,Penrhiwllan,Llandysul
+2022-11-02,1567100,SA44 6QJ,D,N,F,Troedyrhiw,,,Sarnau,Llandysul
+2022-11-01,179950,SA44 5XD,T,N,F,Ty Harris,,,Velindre,Llandysul
+2022-10-28,195000,SA44 5UG,S,N,F,Islwyn,,,Velindre,Llandysul
+2022-10-28,335000,SA44 5ST,D,N,F,Cwm Llydrew,,,Rhydlewis,Llandysul
+2022-10-28,375000,SA44 5EN,D,N,F,Ger Y Groes,,,Saron,Llandysul
+2022-10-27,167000,SA44 4TE,S,N,F,6 Llys Cerdin,,,Ffostrasol,Llandysul
+2022-10-21,650000,SA44 6EA,T,N,F,Perthygopa,,,Brynhoffnant,Llandysul
+2022-10-21,345000,SA44 5NS,D,N,F,Blaencwm Bach,,,Penrhiwllan,Llandysul
+2022-10-20,265000,SA44 5AY,D,N,F,Glas Y Dorlan,,,Pentre Cwrt,Llandysul
+2022-10-20,395000,SA44 4SU,D,N,F,Tresi Aur,,,Panteg Cross,Llandysul
+2022-10-20,302000,SA44 4NG,D,N,F,Brodawel,,,Maesymeillion,Llandysul
+2022-10-18,279950,SA44 4JU,D,N,F,Haulfryn,,Parc Yr Ynn,,Llandysul
+2022-10-17,187000,SA44 5DJ,S,N,F,8,,Maesyderi,Pentre Cwrt,Llandysul
+2022-10-14,375000,SA44 6BB,D,N,F,23,,Heol Y Cwm,Cross Inn,Llandysul
+2022-10-14,180000,SA44 4RR,D,N,F,Birchgrove,,,,Llandysul
+2022-10-12,249950,SA44 4JW,S,Y,F,Meadow Views,,Llynyfran Road,,Llandysul
+2022-10-07,340000,SA44 5YF,T,N,F,Tresi Aur,,,Velindre,Llandysul
+2022-10-06,289950,SA44 5UY,T,N,F,Derwenlas,,,Velindre,Llandysul
+2022-10-06,275000,SA44 5NP,D,N,F,Hafan Hedd,,Aberbanc,Penrhiwllan,Llandysul
+2022-10-05,250000,SA44 5DY,D,N,F,Delfan,,,Saron,Llandysul
+2022-09-29,310000,SA44 5XG,T,N,F,Glen View,,,Velindre,Llandysul
+2022-09-26,287000,SA44 6LW,D,N,F,Castell Twm,,,Cross Inn,Llandysul
+2022-09-26,235000,SA44 6DE,D,N,F,Wern,,,Blaencelyn,Llandysul
+2022-09-26,395263,SA44 5NQ,S,Y,F,25,,Cae Rwgan,Penrhiwllan,Llandysul
+2022-09-23,615000,SA44 5EA,D,N,F,Beili Farm,,,Saron,Llandysul
+2022-09-23,180000,SA44 5DY,D,N,F,Arwynfa,,,Saron,Llandysul
+2022-09-16,125000,SA44 4DE,T,N,F,1,,Barley Mow,,Llandysul
+2022-09-15,395000,SA44 6BB,D,Y,F,16,,Heol Y Cwm,Cross Inn,Llandysul
+2022-09-15,490000,SA44 4PG,D,N,F,Penrhiwpinne,,,Capel Dewi,Llandysul
+2022-09-14,361000,SA44 5LH,D,N,F,Trevor,,,Coed Y Bryn,Llandysul
+2022-09-09,520000,SA44 4QD,D,N,F,Glanffynnon,,,Rhydowen,Llandysul
+2022-09-07,240000,SA44 4RZ,D,N,F,Golwg Y Cwm,,,Bancyffordd,Llandysul
+2022-09-05,395000,SA44 6JR,D,N,F,Post Bach,,,Synod Inn,Llandysul
+2022-08-31,130000,SA44 4AJ,T,N,F,Porthkerry,,,Pontwelly,Llandysul
+2022-08-30,510000,SA44 6QS,D,N,F,Cartrefle,,,Sarnau,Llandysul
+2022-08-30,295000,SA44 4SY,D,N,F,Crudyrawel,,,Ffostrasol,Llandysul
+2022-08-26,368000,SA44 5NQ,S,Y,F,22,,Cae Rwgan,Penrhiwllan,Llandysul
+2022-08-26,572034,SA44 5NQ,D,Y,F,19,,Cae Rwgan,Penrhiwllan,Llandysul
+2022-08-25,429970,SA44 5NQ,S,Y,F,21,,Cae Rwgan,Penrhiwllan,Llandysul
+2022-08-22,320000,SA44 5UP,S,N,F,Inderwong House,,Cambrian Street,Velindre,Llandysul
+2022-08-22,425000,SA44 4NR,D,N,F,Glancerdin,,,Tregroes,Llandysul
+2022-08-19,150000,SA44 4BH,S,N,F,Brynmyfyr,,Wind Street,,Llandysul
+2022-08-16,225000,SA44 4NA,D,N,F,Dysefin,,,Tregroes,Llandysul
+2022-08-11,287500,SA44 5YG,D,N,F,Parc Y Deri,,,Velindre,Llandysul
+2022-08-01,120000,SA44 5UH,T,N,F,Rose Cottage,,,Dre Fach Felindre,Llandysul
+2022-07-29,129500,SA44 4DJ,S,N,F,Henfryn,,High Street,,Llandysul
+2022-07-29,142000,SA44 4BY,T,N,F,3,,Clifton Terrace,,Llandysul
+2022-07-28,155000,SA44 4QD,S,N,F,Abernant,,,Rhydowen,Llandysul
+2022-07-28,148000,SA44 4HS,D,N,F,16,,The Beeches,,Llandysul
+2022-07-26,585000,SA44 6LW,D,N,F,Rhyd-Yr-Hwyaid,,,Cross Inn,Llandysul
+2022-07-20,399000,SA44 6BW,D,N,F,Brynawel,,,Caerwedros,Llandysul
+2022-07-20,272500,SA44 5QQ,D,N,F,Ger Y Nant,,,Rhydlewis,Llandysul
+2022-07-20,650000,SA44 5QJ,D,N,F,Colderbrooke Lodge,,,Rhydlewis,Llandysul
+2022-07-14,380000,SA44 4SS,D,N,F,Newlands,,,Panteg Cross,Llandysul
+2022-07-12,675500,SA44 6DD,D,N,F,Rhandir,,,Blaencelyn,Llandysul
+2022-07-12,149950,SA44 4QP,T,N,F,9,,Porth Terrace,,Llandysul
+2022-07-05,119000,SA44 4BY,T,N,F,2,,Clifton Terrace,,Llandysul
+2022-07-01,320000,SA44 5PN,D,N,F,Traleen,,,Rhydlewis,Llandysul
+2022-07-01,225000,SA44 5HT,S,N,F,Tycanol,,Cwmpengraig,Velindre,Llandysul
+2022-06-30,325000,SA44 6AU,D,N,F,Caergaent,,,Pontgarreg,Llandysul
+2022-06-24,230000,SA44 4NG,D,N,L,Rhoslwyn,,,Maesymeillion,Llandysul
+2022-06-17,240000,SA44 5AT,D,N,F,Maes-Yr-Afon,,,Pentre Cwrt,Llandysul
+2022-06-16,400000,SA44 5RG,D,N,F,Yeoman House,,,Rhydlewis,Llandysul
+2022-06-07,250000,SA44 5UU,D,N,F,Gwynfryn,,,Velindre,Llandysul
+2022-06-01,200000,SA44 5XB,D,N,F,Pant-Teg,,,Velindre,Llandysul
+2022-05-30,255000,SA44 4JU,S,N,F,58,,Parc Yr Ynn,,Llandysul
+2022-05-27,125000,SA44 5DY,D,N,F,Awelon,,,Saron,Llandysul
+2022-05-27,290000,SA44 4TE,D,N,F,Llwynon,,,Ffostrasol,Llandysul
+2022-05-25,240000,SA44 4LU,D,N,F,Anneddwen,,,Prengwyn,Llandysul
+2022-05-23,490000,SA44 6EH,D,N,F,Morfryn,,,Brynhoffnant,Llandysul
+2022-05-20,218000,SA44 5YH,S,N,F,Stad Y Waun,1,,Velindre,Llandysul
+2022-05-16,266000,SA44 5SN,D,N,F,Pencnwc,,,Rhydlewis,Llandysul
+2022-05-13,215000,SA44 6NL,S,N,F,1,,,Cross Inn,Llandysul
+2022-05-13,173000,SA44 5PG,D,N,F,Pensarngerrig,,,Rhydlewis,Llandysul
+2022-05-13,149950,SA44 5DS,S,N,F,53,,Trewern,Saron,Llandysul
+2022-05-10,140000,SA44 4DP,T,N,F,Springcroft,2,High Street,,Llandysul
+2022-05-06,175000,SA44 5XG,D,N,F,Carlton House,,,Velindre,Llandysul
+2022-05-06,385000,SA44 5AH,D,N,F,Clais,,,Rhos,Llandysul
+2022-05-06,315000,SA44 4EP,D,N,F,Bryneryr,,,Talgarreg,Llandysul
+2022-05-03,460000,SA44 6RL,D,N,F,Swn Y Nant,,,Llangrannog,Llandysul
+2022-04-29,410000,SA44 6SH,T,N,F,Penffynnon,,,Llangrannog,Llandysul
+2022-04-29,515000,SA44 4UB,D,N,F,Penrhiw,,,Pontsian,Llandysul
+2022-04-28,200000,SA44 6PL,D,N,F,Tresi-Aur,,,Glynarthen,Llandysul
+2022-04-22,365000,SA44 4QS,T,N,F,Glan Teifi,,Church Street,,Llandysul
+2022-04-21,240000,SA44 5RG,D,N,F,Minffordd,,,Rhydlewis,Llandysul
+2022-04-21,90000,SA44 5DG,S,N,F,Gwynfe,,,Pentre Cwrt,Llandysul
+2022-04-20,160000,SA44 5XG,T,N,F,Pendre,,,Velindre,Llandysul
+2022-04-14,240000,SA44 6BN,D,N,F,Derwig,,,Caerwedros,Llandysul
+2022-04-11,275000,SA44 6JS,S,N,F,Brynawelon,,,Synod Inn,Llandysul
+2022-04-08,220000,SA44 4TU,S,N,F,The Old Village Stores,,,Pontsian,Llandysul
+2022-04-08,280000,SA44 4HN,S,N,F,6,,Heol Y Gilfach,,Llandysul
+2022-04-07,335000,SA44 5AG,D,N,F,Swn Y Gwynt,,,Rhos,Llandysul
+2022-04-05,120000,SA44 4BY,D,N,F,Clifton Cottage,,Clifton Terrace,,Llandysul
+2022-04-01,252000,SA44 5DR,D,N,F,Gwelfro,,,Saron,Llandysul
+2022-03-31,325000,SA44 4EP,D,N,F,Derlwyn,,,Talgarreg,Llandysul
+2022-03-29,815000,SA44 5SN,D,N,F,Nant Y Brenni,,,Rhydlewis,Llandysul
+2022-03-28,461000,SA44 5DG,D,N,F,Rhydonnen,,,Pentre Cwrt,Llandysul
+2022-03-25,350000,SA44 6LQ,D,N,F,Heather View,,Cwmtydu,Llwyndafydd,Llandysul
+2022-03-25,130000,SA44 4EP,D,N,F,Lonlas,,,Talgarreg,Llandysul
+2022-03-22,360000,SA44 6AU,D,N,F,Difor,,,Pontgarreg,Llandysul
+2022-03-22,136000,SA44 4UD,S,N,F,4,,Bro Marles,Pontshaen,Llandysul
+2022-03-21,182000,SA44 4RY,D,N,F,Afallon,,,Bancyffordd,Llandysul
+2022-03-18,273000,SA44 5EB,D,N,F,Llwynon,,,Saron,Llandysul
+2022-03-18,299995,SA44 4PP,D,N,F,Dewi Villa,,,Capel Dewi,Llandysul
+2022-03-16,145000,SA44 5UR,S,N,F,2,,Oaklands,Velindre,Llandysul
+2022-03-16,166000,SA44 4JF,S,N,F,Heol Y Merwydd,4,,Horeb,Llandysul
+2022-03-14,269000,SA44 5AX,D,N,F,Waun Cottage,,,Pentre Cwrt,Llandysul
+2022-03-14,345000,SA44 4NY,D,N,F,Derwenfa,,,,Llandysul
+2022-03-11,205000,SA44 5TN,S,N,F,Clydfan,,,Henllan,Llandysul
+2022-03-04,320000,SA44 4UP,D,N,F,Gerallt,,,Pontsian,Llandysul
+2022-03-01,140000,SA44 6BQ,D,N,F,4,,Parc Ffynnon,Sarnau,Llandysul
+2022-02-25,305000,SA44 6BW,D,N,F,Caer Gwin,,,Caerwedros,Llandysul
+2022-02-24,210000,SA44 4LF,S,N,F,Pantmorwynion,,Gorrig Road,Pentrellwyn,Llandysul
+2022-02-24,252000,SA44 4HP,T,N,F,Y Meysydd,,Llynyfran Road,,Llandysul
+2022-02-22,207500,SA44 6BS,T,N,F,Gwelfor,,,Caerwedros,Llandysul
+2022-02-18,150000,SA44 5XH,S,N,F,2,,Colville Place,Velindre,Llandysul
+2022-02-17,245000,SA44 5DU,S,N,F,Craig Y Nos,,,Saron,Llandysul
+2022-02-15,390000,SA44 5XB,D,N,F,Ty'R Felin New Mill,,,Velindre,Llandysul
+2022-02-15,257000,SA44 5NL,D,N,F,Awel Y Llan,,,Penrhiwllan,Llandysul
+2022-02-14,165000,SA44 5DR,T,N,F,Rose Hill,,,Saron,Llandysul
+2022-02-11,453027,SA44 5SA,D,N,F,Porthgwyn,,,Rhydlewis,Llandysul
+2022-02-11,200000,SA44 4UD,D,N,F,Heddle,,,Pontsian,Llandysul
+2022-02-11,90000,SA44 4TU,T,N,F,9,,Clettwr Terrace,Pontsian,Llandysul
+2022-02-10,108000,SA44 4DP,T,N,F,Springcroft,3,High Street,,Llandysul
+2022-02-09,275000,SA44 6RH,T,N,F,Cranog Cottage,,,Llangrannog,Llandysul
+2022-02-04,115000,SA44 4DX,T,N,F,2,,Sunny Hill,,Llandysul
+2022-02-03,310000,SA44 5NU,D,N,F,Brynderw,,,Penrhiwllan,Llandysul
+2022-01-31,210000,SA44 4PA,T,N,F,Abercerdin Mill,2,,,Llandysul
+2022-01-28,257500,SA44 6RJ,S,N,F,4,,Bro Cranog,Llangrannog,Llandysul
+2022-01-28,140000,SA44 6BQ,D,N,F,3,,Parc Ffynnon,Sarnau,Llandysul
+2022-01-27,275000,SA44 6JS,D,N,F,Glynmar,,,Synod Inn,Llandysul
+2022-01-25,228000,SA44 6PX,D,N,F,Bryneirin Lodge,,,Sarnau,Llandysul
+2022-01-25,212500,SA44 5YH,S,N,F,Stad Y Waun,3,,Velindre,Llandysul
+2022-01-21,177500,SA44 5YF,D,N,F,Y Nyth,,,Velindre,Llandysul
+2022-01-21,380000,SA44 4JW,D,N,F,Ty Celyn,,Llynyfran Road,,Llandysul
+2022-01-20,284500,SA44 6HJ,D,N,F,The Manse,,,Plwmp,Llandysul
+2022-01-19,150000,SA44 4BA,T,N,F,Brithdir,,Bridge Street,,Llandysul
+2022-01-18,95000,SA44 4BH,S,N,F,Highbury,,Wind Street,,Llandysul
+2022-01-13,490000,SA44 5NQ,D,N,F,17,,Cae Rwgan,Penrhiwllan,Llandysul
+2022-01-10,167500,SA44 5UJ,D,N,L,Farteg,,Meiros Lane,Velindre,Llandysul
+2021-12-23,260000,SA44 6NT,S,N,F,4,,Pencnwc Isaf Estate,Cross Inn,Llandysul
+2021-12-21,218000,SA44 5LQ,S,N,F,Brynhyffryd,1,,Coed Y Bryn,Llandysul
+2021-12-20,237000,SA44 4SS,D,N,F,Tegfan,,,Panteg Cross,Llandysul
+2021-12-17,160000,SA44 5NP,S,N,F,Tegfan,,Aberbanc,Penrhiwllan,Llandysul
+2021-12-17,185250,SA44 5DY,D,N,F,Gerddi,,,Saron,Llandysul
+2021-12-15,325000,SA44 4RJ,D,N,F,Golwg Y Llan,,,Pontwelly,Llandysul
+2021-12-15,280000,SA44 4JU,D,N,F,52,,Parc Yr Ynn,,Llandysul
+2021-12-14,148500,SA44 5DJ,D,N,F,1,,Maesyderi,Pentre Cwrt,Llandysul
+2021-12-10,253000,SA44 6LW,D,N,F,Bettina Lodge,,,Cross Inn,Llandysul
+2021-12-10,200000,SA44 6AR,S,N,F,Glenydd,,,Llangrannog,Llandysul
+2021-12-06,187000,SA44 6LD,S,N,F,Heol Tydu,1,,Llwyndafydd,Llandysul
+2021-12-06,175000,SA44 6HS,D,N,F,Brodeg,,,Plwmp,Llandysul
+2021-12-03,269999,SA44 4ET,D,N,F,Cnwc,,,Talgarreg,Llandysul
+2021-12-02,249950,SA44 4JU,D,N,F,62,,Parc Yr Ynn,,Llandysul
+2021-12-01,150000,SA44 6DS,S,N,F,5,,Council Houses,Brynhoffnant,Llandysul
+2021-11-30,1347964,SA44 6JH,D,N,F,Tiresgob,,,Synod Inn,Llandysul
+2021-11-24,137000,SA44 4QW,T,N,F,2,,Charles Street,,Llandysul
+2021-11-23,150000,SA44 5TH,T,N,F,6,,Railway Terrace,Henllan,Llandysul
+2021-11-22,169000,SA44 5DS,S,N,F,42,,Trewern,Saron,Llandysul
+2021-11-19,235000,SA44 5NQ,S,N,F,9,,Cae Rwgan,Penrhiwllan,Llandysul
+2021-11-19,365000,SA44 4JW,D,Y,F,Bryn Awel,,Llynyfran Road,,Llandysul
+2021-11-15,142000,SA44 4BY,T,N,F,6,,Clifton Terrace,,Llandysul
+2021-11-11,250000,SA44 5XG,D,N,F,Trewennol,,,Velindre,Llandysul
+2021-11-09,252500,SA44 5DY,D,N,F,Yr Henfro,,,Saron,Llandysul
+2021-11-05,196000,SA44 4HN,S,N,F,7,,Heol Y Gilfach,,Llandysul
+2021-11-04,217000,SA44 5AG,D,N,F,Awel-Deg,,,Rhos,Llandysul
+2021-11-03,284000,SA44 5BD,D,N,F,Alltcafan House,,,Pentre Cwrt,Llandysul
+2021-11-02,170000,SA44 6NG,D,N,F,Belle Vue,,,Cross Inn,Llandysul
+2021-11-02,133000,SA44 4SU,D,N,F,Golygfa Glir,,,Panteg Cross,Llandysul
+2021-10-28,435000,SA44 6AD,D,N,F,Llys Y Nant,,,Llangrannog,Llandysul
+2021-10-27,260000,SA44 5LQ,D,N,F,Brynhedd,,,Coed Y Bryn,Llandysul
+2021-10-25,152000,SA44 5UG,S,N,F,Glyncoed,2,,Velindre,Llandysul
+2021-10-22,160000,SA44 6AR,D,N,F,Tygarreg,,,Llangrannog,Llandysul
+2021-10-22,205500,SA44 4JU,D,N,F,9,,Parc Yr Ynn,,Llandysul
+2021-10-22,330000,SA44 4HX,D,N,F,Ffinant,,,Bangor Teifi,Llandysul
+2021-10-15,290000,SA44 4JU,D,N,F,54,,Parc Yr Ynn,,Llandysul
+2021-10-14,132500,SA44 5NP,T,N,F,Brynaber,,Aberbanc,Penrhiwllan,Llandysul
+2021-09-30,145000,SA44 5XG,T,N,F,Maesygan,,,Velindre,Llandysul
+2021-09-30,125000,SA44 4PG,D,N,F,Pantyreithinen,,,Capel Dewi,Llandysul
+2021-09-28,210000,SA44 5JX,D,N,F,Lle Pedr,,,Bwlchygroes,Llandysul
+2021-09-27,500000,SA44 6SD,S,N,F,Banc-Y-Felin Chapel,,,Llangrannog,Llandysul
+2021-09-24,295000,SA44 5PT,D,N,F,Maesteg,,,Rhydlewis,Llandysul
+2021-09-24,170000,SA44 4TY,D,N,F,Hafdir,,,Pontsian,Llandysul
+2021-09-21,372300,SA44 5SD,D,N,F,Lanlas Uchaf,,,Rhydlewis,Llandysul
+2021-09-21,185000,SA44 5DS,S,N,F,43,,Trewern,Saron,Llandysul
+2021-09-20,279950,SA44 6NU,D,N,F,7,,Maes Yr Halen,Cross Inn,Llandysul
+2021-09-20,300000,SA44 5HW,D,N,F,Ynysycoed,,,Dre Fach Felindre,Llandysul
+2021-09-14,240000,SA44 5YF,D,N,F,Parc Ddol,,,Velindre,Llandysul
+2021-09-13,71000,SA44 5UY,T,N,F,Fronheulog,,,Velindre,Llandysul
+2021-09-10,535000,SA44 5AR,D,N,F,Plasnewydd,,Pentrecourt Road,,Llandysul
+2021-09-10,154000,SA44 4BS,T,N,F,Vaynor,,Lincoln Street,,Llandysul
+2021-09-07,445000,SA44 6SP,S,N,F,Pengwern,,,Llangrannog,Llandysul
+2021-09-03,180000,SA44 4EP,D,N,F,Llygad Yr Haul,,,Talgarreg,Llandysul
+2021-09-02,450000,SA44 5JL,D,N,F,Bryn Hywel,,Llangranog Road,Coed Y Bryn,Llandysul
+2021-08-27,750000,SA44 6RR,D,N,F,Cnwc-Yr-Hyglyn,,,Llangrannog,Llandysul
+2021-08-26,162000,SA44 5TN,S,N,F,Tegfan,,,Henllan,Llandysul
+2021-08-23,325000,SA44 6AU,D,N,F,Dyffryn,,,Pontgarreg,Llandysul
+2021-08-20,230000,SA44 5AX,D,N,F,Ty Cerdin,,,Pentre Cwrt,Llandysul
+2021-08-19,268802,SA44 4UN,D,N,F,Glynafon,,,Pontsian,Llandysul
+2021-08-18,68000,SA44 4AL,T,N,F,3,,Lewis Street,Pontwelly,Llandysul
+2021-08-10,213000,SA44 5XJ,D,N,F,Pantygog,,Cwmhiraeth,Velindre,Llandysul
+2021-08-10,89500,SA44 4BY,T,N,F,5,,Clifton Terrace,,Llandysul
+2021-08-09,85000,SA44 5UL,T,N,F,2,,Llys Puw,Velindre,Llandysul
+2021-08-09,180000,SA44 5EG,D,N,F,Awel Y Grug,,,Rhos,Llandysul
+2021-08-09,168000,SA44 4JU,S,N,F,37,,Parc Yr Ynn,,Llandysul
+2021-08-06,90000,SA44 5UJ,T,N,L,Green Park,,Meiros Lane,Velindre,Llandysul
+2021-08-04,200000,SA44 6QT,D,N,F,Penllain,,,Sarnau,Llandysul
+2021-08-03,350000,SA44 5TD,D,N,F,Bryn Siencyn,,,Henllan,Llandysul
+2021-08-03,170000,SA44 5LH,D,N,F,Coed-Y-Bryn,,,Coed Y Bryn,Llandysul
+2021-08-02,129000,SA44 5UP,S,N,F,8,,Cambrian Street,Velindre,Llandysul
+2021-07-30,210000,SA44 6QT,S,N,F,Brynhafod,,,Sarnau,Llandysul
+2021-07-30,375000,SA44 5BD,S,N,F,Henfryn Mills,,,Pentre Cwrt,Llandysul
+2021-07-30,540000,SA44 4UD,D,N,F,Ger Y Capel,,,Pontsian,Llandysul
+2021-07-29,345000,SA44 4TB,D,N,F,Caer Llwyd,,,Ffostrasol,Llandysul
+2021-07-23,309250,SA44 6QR,D,N,F,Ty-Bryn,,,Sarnau,Llandysul
+2021-07-23,135000,SA44 5TL,S,N,F,18,,Bro Dewi,Henllan,Llandysul
+2021-07-19,170000,SA44 4AH,D,N,F,Bryn Yr Afon,,Chapel Street,Pontwelly,Llandysul
+2021-07-16,162000,SA44 5UQ,D,N,F,Anneddwen,,,Velindre,Llandysul
+2021-07-09,295000,SA44 6BB,D,Y,F,23,,Heol Y Cwm,Cross Inn,Llandysul
+2021-07-08,199950,SA44 5XB,D,N,F,Bronallt,,,Velindre,Llandysul
+2021-06-30,245000,SA44 5NR,D,N,F,Llwyngwair,,,Penrhiwllan,Llandysul
+2021-06-30,269950,SA44 5EY,D,N,F,Tredegar House,,,Llangeler,Llandysul
+2021-06-28,195000,SA44 5YF,D,N,F,Gwyndaf,,,Velindre,Llandysul
+2021-06-28,380000,SA44 4RL,D,N,F,Tanrallt,,Dol Llan Road,,Llandysul
+2021-06-28,115000,SA44 4BH,D,N,F,Maes Y Haf,,Wind Street,,Llandysul
+2021-06-23,375000,SA44 5EJ,D,N,F,Waunwthan Farmhouse,,,Saron,Llandysul
+2021-06-23,225000,SA44 5EB,D,N,F,Llysgwyn,,,Saron,Llandysul
+2021-06-22,130000,SA44 4JJ,D,N,F,Y Bryn,,,Horeb,Llandysul
+2021-06-21,392000,SA44 5YD,D,N,F,Llyscoed,,,Velindre,Llandysul
+2021-06-21,257000,SA44 4HR,D,N,F,Talarwen,,Llynyfran Road,,Llandysul
+2021-06-18,348000,SA44 5HR,D,N,F,Swyn Y Nant,,,Dre Fach Felindre,Llandysul
+2021-06-18,150000,SA44 4UB,D,N,F,Moelhedog Isaf,,,Pontsian,Llandysul
+2021-06-17,349950,SA44 6NL,D,N,F,Hafod-Y-Coed,,,Cross Inn,Llandysul
+2021-06-15,195000,SA44 4UD,D,N,F,Eryl,,,Pontsian,Llandysul
+2021-06-14,180000,SA44 4BA,S,N,F,Yr Aelwen,,Bridge Street,,Llandysul
+2021-06-11,375000,SA44 6LW,D,N,F,Pendre,,,Cross Inn,Llandysul
+2021-06-11,100000,SA44 6BQ,D,N,F,2,,Parc Ffynnon,Sarnau,Llandysul
+2021-06-11,165000,SA44 5LD,S,N,F,Quillers Rest,,,,Llandysul
+2021-06-11,182000,SA44 4JU,D,N,F,29,,Parc Yr Ynn,,Llandysul
+2021-06-07,109950,SA44 4BU,T,N,F,21,,Lincoln Street,,Llandysul
+2021-06-04,344000,SA44 6HD,S,N,F,Gerycoed,,,Brynhoffnant,Llandysul
+2021-06-04,290000,SA44 5XB,D,N,F,New Mill,,,Velindre,Llandysul
+2021-06-04,107500,SA44 4HS,S,N,F,23,,The Beeches,,Llandysul
+2021-06-02,149500,SA44 4SF,S,N,F,8,,Tanybryn,Pontwelly,Llandysul
+2021-06-02,565000,SA44 4RA,D,N,F,Aberclettwr,,Llanfair Road,,Llandysul
+2021-05-28,190000,SA44 6NX,S,N,F,Pendre,,,Glynarthen,Llandysul
+2021-05-28,235000,SA44 6AU,D,N,F,Gelliwen,,,Pontgarreg,Llandysul
+2021-05-28,329950,SA44 5RH,D,N,F,Brooklands,,,Rhydlewis,Llandysul
+2021-05-28,220000,SA44 4XA,D,N,F,Drws Y Coed,,,Talgarreg,Llandysul
+2021-05-28,120000,SA44 4QS,S,N,F,Afallon,,Church Street,,Llandysul
+2021-05-27,97750,SA44 5UL,T,N,F,5,,Llys Puw,Velindre,Llandysul
+2021-05-27,100000,SA44 4QB,S,N,F,Maes Yr Odyn,7,,Rhydowen,Llandysul
+2021-05-26,300000,SA44 6AR,D,N,F,Hawen View,,,Llangrannog,Llandysul
+2021-05-21,180000,SA44 6NX,D,N,F,Glenydd,,,Glynarthen,Llandysul
+2021-05-19,380000,SA44 6BS,D,N,F,Cilwendeg,,,Caerwedros,Llandysul
+2021-05-19,93000,SA44 4DR,T,N,F,3,,Spring Gardens,,Llandysul
+2021-05-18,600000,SA44 5XR,D,N,F,Penrallt Isaf,,,Dre Fach Felindre,Llandysul
+2021-05-13,335000,SA44 6PR,D,N,F,Gwylfa,,,Glynarthen,Llandysul
+2021-05-13,335000,SA44 5AT,D,N,F,Yr Hafod,,,Pentre Cwrt,Llandysul
+2021-05-11,214500,SA44 6QR,D,N,F,Trysor,,,Sarnau,Llandysul
+2021-05-07,500000,SA44 6JR,D,N,F,Pencwm,,,Synod Inn,Llandysul
+2021-05-07,250000,SA44 6BW,D,N,F,Ty-Ar-Y-Bryn,,,Caerwedros,Llandysul
+2021-05-07,165000,SA44 6AT,S,N,F,Heol Y Garreg,1,,Pontgarreg,Llandysul
+2021-05-05,137500,SA44 5NN,S,N,F,15,,Tremyfoel,Penrhiwllan,Llandysul
+2021-05-04,510000,SA44 6LY,D,N,F,Synod Mill Coach House,,,Cross Inn,Llandysul
+2021-04-27,131000,SA44 6NL,T,N,F,Dolphin Cottage,,,Cross Inn,Llandysul
+2021-04-21,215000,SA44 6HL,S,N,F,Ynysmor,,,Plwmp,Llandysul
+2021-04-20,190000,SA44 4SH,D,N,F,Gwelfryn,,,Panteg Cross,Llandysul
+2021-04-16,152500,SA44 5RF,S,N,F,9,,Bro Hawen,Rhydlewis,Llandysul
+2021-04-16,245000,SA44 5EE,D,N,F,Bryncrug,,,Rhos,Llandysul
+2021-04-15,338000,SA44 5QH,D,N,F,Aur Y Bryn,,,Rhydlewis,Llandysul
+2021-04-15,289950,SA44 5DL,D,N,F,Maes Glas,,Saron Road,Pentre Cwrt,Llandysul
+2021-04-15,242000,SA44 4SY,D,N,F,Ty Anton,,,Ffostrasol,Llandysul
+2021-04-14,186000,SA44 6DA,T,N,F,Fronlefrith,,,Penbontrhydyfothau,Llandysul
+2021-04-14,98000,SA44 6BB,F,N,L,18,,Heol Y Cwm,Cross Inn,Llandysul
+2021-04-13,215000,SA44 5AF,D,N,F,Bryn-Geler,,,Rhos,Llandysul
+2021-04-12,420000,SA44 4PX,D,N,F,Tygwyn,,,Rhydowen,Llandysul
+2021-04-12,210000,SA44 4PX,S,N,F,Llwyn-Rhyd-Owen,2,,Rhydowen,Llandysul
+2021-04-09,255000,SA44 6HS,D,N,F,Rhos Y Mor,,,Plwmp,Llandysul
+2021-04-08,310000,SA44 6PH,D,N,F,Llanerch Deg,,,Glynarthen,Llandysul
+2021-04-08,160000,SA44 4TA,D,N,F,Goytre Cottage,,,Ffostrasol,Llandysul
+2021-04-06,345500,SA44 4LD,D,N,F,Canton,,Gorrig Road,,Llandysul
+2021-04-01,297250,SA44 6JZ,D,N,F,The Barns,,,Pentre R Bryn,Llandysul
+2021-04-01,100000,SA44 6BQ,D,N,F,1,,Parc Ffynnon,Sarnau,Llandysul
+2021-04-01,105000,SA44 4HS,T,N,F,6,,The Beeches,,Llandysul
+2021-04-01,115000,SA44 4BA,D,N,F,Rocklee,,Bridge Street,,Llandysul
+2021-03-31,180000,SA44 5DR,D,N,F,Gwelfro,,,Saron,Llandysul
+2021-03-30,370000,SA44 4UD,D,N,F,Arnant,,,Pontsian,Llandysul
+2021-03-26,309000,SA44 6AD,D,N,F,Maglona,,,Llangrannog,Llandysul
+2021-03-26,310000,SA44 4RJ,D,N,F,Gorwel,,,,Llandysul
+2021-03-26,258000,SA44 4PT,D,N,F,Penrhiwcoele,,,Capel Dewi,Llandysul
+2021-03-26,239500,SA44 4JW,D,N,F,Derwen Las,,Llynyfran Road,,Llandysul
+2021-03-25,130000,SA44 5YB,S,N,F,37,,Ger Y Llan,Velindre,Llandysul
+2021-03-25,322500,SA44 4PP,D,N,F,Glenview,,,Capel Dewi,Llandysul
+2021-03-22,365000,SA44 6NG,D,N,L,Penuel Chapel,,,Cross Inn,Llandysul
+2021-03-22,180000,SA44 4BJ,T,N,F,3,,Lincoln Street,,Llandysul
+2021-03-19,84818,SA44 5FA,S,N,F,1,,Tiraeron,Llangeler,Llandysul
+2021-03-19,285000,SA44 4JW,D,Y,F,Clover Cottage,,Llyn Y Fran Road,,Llandysul
+2021-03-18,220000,SA44 5RH,D,N,F,Glynarwel,,,Rhydlewis,Llandysul
+2021-03-18,485000,SA44 4UD,D,N,F,Ty Pant Allt Y Coed,,,Pontsian,Llandysul
+2021-03-16,300000,SA44 5UY,S,N,F,Dolwion,,,Velindre,Llandysul
+2021-03-10,262000,SA44 5HE,D,N,F,Glasnant,,,Rhos,Llandysul
+2021-03-09,715000,SA44 4HU,D,N,F,Plas Gilfachwen,,,,Llandysul
+2021-03-05,140000,SA44 5HT,T,N,F,Green Meadow,2,Cwmpengraig,Velindre,Llandysul
+2021-03-05,130000,SA44 4QE,D,N,F,Rhydowen Goed,,,Rhydowen,Llandysul
+2021-03-05,235000,SA44 4LE,S,N,F,Frongoch,1,Gorrig Road,Pentrellwyn,Llandysul
+2021-03-01,110000,SA44 5XG,T,N,F,Bangor House,,,Velindre,Llandysul
+2021-03-01,250000,SA44 5NL,D,N,F,Dolwerdd,,,Penrhiwllan,Llandysul
+2021-03-01,120000,SA44 5HS,T,N,F,1,,Spring Cottages,Dre Fach Felindre,Llandysul
+2021-02-26,195000,SA44 5UY,D,N,F,Islaw'R Coed,,,Velindre,Llandysul
+2021-02-26,240000,SA44 5LH,D,N,F,Clouds Hill,,,Coed Y Bryn,Llandysul
+2021-02-25,260000,SA44 6QT,D,N,F,Almyra,,,Sarnau,Llandysul
+2021-02-25,320000,SA44 5LN,D,N,F,Gernos Lodge,,,Coed Y Bryn,Llandysul
+2021-02-25,290500,SA44 5EN,D,N,F,Rhyd Y Wern,,,Saron,Llandysul
+2021-02-25,169000,SA44 4QB,D,N,F,Berthlas,,,Rhydowen,Llandysul
+2021-02-19,142000,SA44 5TN,D,N,F,Hafan,,,Henllan,Llandysul
+2021-02-19,207000,SA44 5DZ,D,N,F,Plas Bach,,,Saron,Llandysul
+2021-02-19,340000,SA44 4RP,D,N,F,Llys Y Dderwen,,Heol Y Dderwen,,Llandysul
+2021-02-17,230000,SA44 6JY,D,N,F,Waun Fawr,,,Pentre R Bryn,Llandysul
+2021-02-16,153000,SA44 4SZ,S,N,F,6,,Llysgwyn,Ffostrasol,Llandysul
+2021-02-15,289950,SA44 6BT,D,N,F,Brynderw,,Llwyndafydd Road,,Llandysul
+2021-02-15,245000,SA44 5UG,D,N,F,Glan Yw Mor,,,Velindre,Llandysul
+2021-02-15,148514,SA44 5NU,S,N,F,Cartrefle,,,Penrhiwllan,Llandysul
+2021-02-12,240000,SA44 6BN,D,N,F,Wedrosfa,,,Caerwedros,Llandysul
+2021-02-12,245000,SA44 4UL,D,N,F,Clettwr Villa,,,Pontsian,Llandysul
+2021-02-12,75000,SA44 4BZ,T,N,F,1,,Green Hill,,Llandysul
+2021-02-10,88500,SA44 4QP,T,N,F,3,,Porth Terrace,,Llandysul
+2021-02-05,352000,SA44 6PG,D,N,F,Brynarthen,,,Glynarthen,Llandysul
+2021-02-05,199950,SA44 5JA,D,N,F,Valley View,,,Velindre,Llandysul
+2021-02-03,475000,SA44 5JF,D,N,F,Penlan Ganol,,,Velindre,Llandysul
+2021-01-29,353000,SA44 5XP,D,N,F,Snowsilk Cottage,,,Velindre,Llandysul
+2021-01-29,325000,SA44 4LF,D,N,F,Nant Yr Ythan,,Gorrig Road,Pentrellwyn,Llandysul
+2021-01-29,132500,SA44 4JF,S,N,F,Heol Y Merwydd,3,,Horeb,Llandysul
+2021-01-29,135500,SA44 4DD,T,N,F,Pantglas,,,,Llandysul
+2021-01-28,372500,SA44 6DG,D,N,F,Garnowen,,,Blaencelyn,Llandysul
+2021-01-28,345000,SA44 4UL,D,N,F,Tawelfan,,,Pontsian,Llandysul
+2021-01-28,138000,SA44 4AH,T,N,F,Taliesin,,Chapel Street,Pontwelly,Llandysul
+2021-01-27,499000,SA44 5JF,D,N,F,Caerdelyn,,,Velindre,Llandysul
+2021-01-27,250000,SA44 5HD,D,N,F,Seren Y Bore,,,Rhos,Llandysul
+2021-01-27,360000,SA44 4TB,D,N,F,Plas Y Gorlan,,,Ffostrasol,Llandysul
+2021-01-26,335000,SA44 4QD,D,N,F,Rhydowen Mill,,,Rhydowen,Llandysul
+2021-01-22,91000,SA44 4BY,T,N,F,2,,Clifton Terrace,,Llandysul
+2021-01-20,262500,SA44 5NP,D,N,F,Llygad Yr Haul,,Aberbanc,Penrhiwllan,Llandysul
+2021-01-18,135000,SA44 5NU,D,N,F,Llwynderw,,,Penrhiwllan,Llandysul
+2021-01-15,295000,SA44 4EW,D,N,F,Lleifior,,,Talgarreg,Llandysul
+2021-01-13,131500,SA44 5TE,D,N,F,Penybont,,,Henllan,Llandysul
+2021-01-13,259000,SA44 4ES,D,N,F,Aberdulais,,,Talgarreg,Llandysul
+2021-01-06,169950,SA44 4JF,D,N,F,Brynmerwydd,,,Horeb,Llandysul
+2021-01-05,355000,SA44 5NQ,D,N,F,10,,Cae Rwgan,Penrhiwllan,Llandysul
+2021-01-05,395000,SA44 4TJ,D,N,F,Glas Olwg,,,Ffostrasol,Llandysul

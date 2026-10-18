@@ -1,0 +1,535 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-07-31,550000,E20 1HR,F,N,L,"Lantana Heights, 1",303,Glasshouse Gardens,,London
+2026-07-24,750000,E20 1HL,F,N,L,7,,Derny Avenue,,London
+2026-07-09,480000,E20 1HX,F,N,L,"Cassia Point, 2",1901,Glasshouse Gardens,,London
+2026-06-24,635000,E20 1HW,F,N,L,"Cassia Point, 2",1206,Glasshouse Gardens,,London
+2026-06-05,1465000,E20 1GW,T,N,F,24,,Villiers Gardens,,London
+2026-06-04,439200,E20 1HW,F,N,L,"Cassia Point, 2",1004,Glasshouse Gardens,,London
+2026-05-29,678000,E20 1EZ,F,N,L,"Karner House, 14",16,Logan Close,Olympic Park,London
+2026-04-21,645000,E20 1LL,F,N,L,Goswell Court,Flat 27,Honour Lea Avenue,,London
+2026-04-17,640000,E20 1HW,F,N,L,"Cassia Point, 2",1806,Glasshouse Gardens,,London
+2026-04-15,440000,E20 1AR,F,N,L,"Asterid Heights, 7",Flat 34,Liberty Bridge Road,Olympic Park,London
+2026-04-02,345000,E20 1AZ,F,N,L,"Cavesson House, 2",Flat 41,Ribbons Walk,Olympic Park,London
+2026-03-26,425000,E20 1HT,F,N,L,"Lantana Heights, 1",1308,Glasshouse Gardens,,London
+2026-03-13,635000,E20 1HT,F,N,L,"Lantana Heights, 1",1504,Glasshouse Gardens,,London
+2026-03-13,675000,E20 1FT,F,N,L,18,,Olympic Park Avenue,,London
+2026-03-03,453000,E20 1LL,F,N,L,Goswell Court,Flat 34,Honour Lea Avenue,,London
+2026-03-02,240000,E20 3AP,F,N,L,17,Flat 4,Waterden Road,,London
+2026-02-27,210000,E20 1LP,F,N,L,"Barrett House, 109",Flat 7,Villiers Gardens,,London
+2026-02-26,670000,E20 1HT,F,N,L,"Lantana Heights, 1",1604,Glasshouse Gardens,,London
+2026-02-20,1300000,E20 3AZ,T,N,F,14,,Forbes Lane,,London
+2026-01-29,360000,E20 1AZ,F,N,L,"Cavesson House, 2",Flat 44,Ribbons Walk,Olympic Park,London
+2026-01-19,870000,E20 3AR,F,N,L,16,Flat 39,Tandy Place,,London
+2026-01-08,477000,E20 3AP,F,N,L,17,Flat 3,Waterden Road,,London
+2026-01-07,460000,E20 1HU,F,N,L,"Cassia Point, 2",204,Glasshouse Gardens,,London
+2025-12-19,920000,E20 1HB,F,N,L,51,,Peloton Avenue,,London
+2025-12-15,659000,E20 1DT,F,N,L,"Aurelia House, 10",Flat 30,Sunrise Close,,London
+2025-12-12,705000,E20 1HT,F,N,L,"Lantana Heights, 1",1403,Glasshouse Gardens,,London
+2025-12-09,930000,E20 1HJ,F,N,L,32,,Peloton Avenue,,London
+2025-12-09,600000,E20 1GQ,F,N,L,"Manhattan Loft Apartments, 22",Apartment 1403,International Way,,London
+2025-11-28,650000,E20 1PA,F,N,L,"Triathlon Point, 1",Flat 14,Madison Way,,London
+2025-11-25,725000,E20 1HT,F,N,L,"Lantana Heights, 1",1505,Glasshouse Gardens,,London
+2025-11-21,690500,E20 1BP,F,N,L,"Chroma Mansions, 14",Flat 28,Penny Brookes Street,,London
+2025-11-20,710000,E20 1BB,F,N,L,"Tucana Heights, 11",Flat 35,Cheering Lane,,London
+2025-11-17,815000,E20 1HA,F,N,L,"Compton House, 19",4,Peloton Avenue,,London
+2025-11-13,172500,E20 1LP,F,N,L,"Barrett House, 109",Flat 9,Villiers Gardens,,London
+2025-11-12,450000,E20 3BE,F,Y,L,96,Apartment 19,Waterden Road,,London
+2025-11-10,475000,E20 1HT,F,N,L,"Lantana Heights, 1",901,Glasshouse Gardens,,London
+2025-11-07,187500,E20 3AL,F,N,L,7,Flat 5,Waterden Road,,London
+2025-11-07,885000,E20 1FA,F,N,L,Park View Mansions,34,Olympic Park Avenue,,London
+2025-11-07,273000,E20 1DS,F,N,L,"Verna House, 24",Flat 34,Sunrise Close,Olympic Park,London
+2025-11-05,725000,E20 1HR,F,N,L,"Lantana Heights, 1",406,Glasshouse Gardens,,London
+2025-11-03,360000,E20 1AZ,F,N,L,"Cavesson House, 2",Flat 37,Ribbons Walk,Olympic Park,London
+2025-10-31,850000,E20 3AR,F,N,L,16,Flat 43,Tandy Place,,London
+2025-10-29,480000,E20 3BE,F,Y,L,96,Apartment 27,Waterden Road,,London
+2025-10-15,498000,E20 3BE,F,Y,L,96,Apartment 44,Waterden Road,,London
+2025-10-09,820000,E20 1HA,F,N,L,"Compton House, 19",2,Peloton Avenue,,London
+2025-10-01,742500,E20 3BE,F,Y,L,96,Apartment 34,Waterden Road,,London
+2025-09-26,585000,E20 3BF,F,Y,L,74,Apartment 12,Waterden Road,,London
+2025-09-26,555000,E20 1FL,F,N,L,"Zeller House, 21",Apartment 15,Scarlet Close,Olympic Park,London
+2025-09-19,457500,E20 3BE,F,Y,L,92,,Waterden Road,,London
+2025-09-17,425000,E20 1HW,F,N,L,"Cassia Point, 2",1304,Glasshouse Gardens,,London
+2025-09-12,720000,E20 1HL,F,N,L,"Ruckholt House, 15",1,Derny Avenue,,London
+2025-09-05,610000,E20 3BE,F,Y,L,96,Apartment 21,Waterden Road,,London
+2025-09-05,865000,E20 1FA,F,N,L,Park View Mansions,45,Olympic Park Avenue,,London
+2025-09-03,590000,E20 1EA,F,N,L,"Festive Mansions, 10",Flat 9,Napa Close,Olympic Park,London
+2025-09-03,258000,E20 1BU,F,N,L,"Kaleidoscope House, 25",Flat 7,Mirabelle Gardens,Olympic Park,London
+2025-09-01,752500,E20 3BE,F,Y,L,96,Apartment 25,Waterden Road,,London
+2025-08-29,644000,E20 1HJ,F,N,L,"Hyett Court, 2",8,Peloton Avenue,,London
+2025-08-28,790000,E20 3BF,F,Y,L,74,Apartment 37,Waterden Road,,London
+2025-08-27,770000,E20 3BF,F,Y,L,74,Apartment 31,Waterden Road,,London
+2025-08-22,585000,E20 3BE,F,Y,L,96,Apartment 13,Waterden Road,,London
+2025-08-22,202500,E20 3AT,F,N,L,"Peel House, 7",Flat 7,Copper Street,,London
+2025-08-15,460000,E20 1HW,F,N,L,"Cassia Point, 2",1104,Glasshouse Gardens,,London
+2025-08-05,732500,E20 3BE,F,Y,L,96,Apartment 30,Waterden Road,,London
+2025-08-04,137500,E20 1DS,F,N,L,"Verna House, 24",Flat 36,Sunrise Close,Olympic Park,London
+2025-07-31,640000,E20 1HH,F,N,L,Hyett Court,14,Honour Lea Avenue,,London
+2025-07-30,580000,E20 3BE,F,Y,L,96,Apartment 5,Waterden Road,,London
+2025-07-29,775000,E20 3BE,F,Y,L,96,Apartment 33,Waterden Road,,London
+2025-07-29,547500,E20 1AB,F,N,L,"Vega House, 17",Flat 17,Prize Walk,Olympic Park,London
+2025-07-28,500000,E20 3BE,F,Y,L,96,Apartment 38,Waterden Road,,London
+2025-07-24,707500,E20 3BE,F,Y,L,96,Apartment 26,Waterden Road,,London
+2025-07-23,715000,E20 3BE,F,Y,L,96,Apartment 43,Waterden Road,,London
+2025-07-23,478000,E20 1HW,F,N,L,"Cassia Point, 2",1205,Glasshouse Gardens,,London
+2025-07-22,585000,E20 1DQ,F,N,L,"Tayberry House, 10",Flat 39,Ravens Walk,Olympic Park,London
+2025-07-21,725000,E20 3BE,F,Y,L,96,Apartment 9,Waterden Road,,London
+2025-07-21,795000,E20 3BE,F,Y,L,96,Apartment 39,Waterden Road,,London
+2025-07-21,480000,E20 3BE,F,Y,L,96,Apartment 16,Waterden Road,,London
+2025-07-21,460000,E20 1HT,F,N,L,"Lantana Heights, 1",905,Glasshouse Gardens,,London
+2025-07-21,635000,E20 1HH,F,N,L,Hyett Court,3,Honour Lea Avenue,,London
+2025-07-18,760000,E20 3BE,F,Y,L,96,Apartment 17,Waterden Road,,London
+2025-07-18,770000,E20 3BE,F,Y,L,96,Apartment 40,Waterden Road,,London
+2025-07-17,797500,E20 3BE,F,Y,L,96,Apartment 42,Waterden Road,,London
+2025-07-16,595000,E20 3BE,F,Y,L,96,Apartment 29,Waterden Road,,London
+2025-07-09,490000,E20 1HX,F,N,L,"Cassia Point, 2",2501,Glasshouse Gardens,,London
+2025-06-23,585000,E20 1EA,F,N,L,"Festive Mansions, 10",Flat 22,Napa Close,Olympic Park,London
+2025-05-30,1170000,E20 1FU,T,N,F,48,,Abercrombie Road,,London
+2025-05-01,782000,E20 3AU,F,N,L,21,Flat 31,Copper Street,,London
+2025-04-25,1300000,E20 1GW,T,N,F,4,,Villiers Gardens,,London
+2025-03-31,445000,E20 1HR,F,N,L,"Lantana Heights, 1",708,Glasshouse Gardens,,London
+2025-03-31,580000,E20 1FG,F,N,L,"Meander House, 20",28,Logan Close,Olympic Park,London
+2025-03-28,690000,E20 1HH,F,N,L,Hyett Court,8,Honour Lea Avenue,,London
+2025-03-28,565000,E20 1FF,F,N,L,"Lucia Heights, 23",Flat 29,Logan Close,Olympic Park,London
+2025-03-28,720000,E20 1DX,F,N,L,"Sable House, 15",16,Honour Lea Avenue,,London
+2025-03-26,685000,E20 1HL,F,N,L,"Ruckholt House, 15",9,Derny Avenue,,London
+2025-03-25,432000,E20 1AX,F,N,L,"Saddlers House, 13",Flat 43,Ribbons Walk,Olympic Park,London
+2025-03-24,770000,E20 1HL,F,N,L,"Platamone House, 13",7,Derny Avenue,,London
+2025-03-18,508000,E20 1HX,F,N,L,"Cassia Point, 2",2005,Glasshouse Gardens,,London
+2025-03-14,710000,E20 1BR,F,N,L,"Festuca House, 38",Flat 20,Mirabelle Gardens,Olympic Park,London
+2025-02-21,545000,E20 1AB,F,N,L,"Vega House, 17",Flat 10,Prize Walk,Olympic Park,London
+2025-02-20,136250,E20 1DZ,F,N,L,"Samphire Heights, 24",Flat 30,Napa Close,Olympic Park,London
+2025-02-18,738000,E20 1DX,F,N,L,"Sable House, 15",25,Honour Lea Avenue,,London
+2025-02-17,778000,E20 1HJ,F,N,L,"Allen House, 20",2,Peloton Avenue,,London
+2025-02-17,1230000,E20 1GW,T,N,F,60,,Villiers Gardens,,London
+2025-02-03,585000,E20 1BR,F,N,L,"Festuca House, 38",Flat 22,Mirabelle Gardens,Olympic Park,London
+2025-01-30,655000,E20 1HJ,F,N,L,"Hyett Court, 2",4,Peloton Avenue,,London
+2025-01-27,443000,E20 1AX,F,N,L,"Saddlers House, 13",Flat 30,Ribbons Walk,Olympic Park,London
+2025-01-24,480000,E20 1HR,F,N,L,"Lantana Heights, 1",701,Glasshouse Gardens,,London
+2024-12-19,148750,E20 3AL,F,N,L,7,Flat 6,Waterden Road,,London
+2024-12-18,910000,E20 1HJ,F,N,L,"Hyett Court, 2",18,Peloton Avenue,,London
+2024-12-18,575000,E20 1FL,F,N,L,"Zeller House, 21",Apartment 34,Scarlet Close,Olympic Park,London
+2024-12-12,715000,E20 1HY,F,N,L,"Cassia Point, 2",2705,Glasshouse Gardens,,London
+2024-12-05,467000,E20 1HU,F,N,L,"Cassia Point, 2",705,Glasshouse Gardens,,London
+2024-12-05,650000,E20 1HT,F,N,L,"Lantana Heights, 1",1503,Glasshouse Gardens,,London
+2024-12-02,115000,E20 1LL,F,N,L,Goswell Court,Flat 20,Honour Lea Avenue,,London
+2024-11-29,111250,E20 1BB,F,N,L,"Tucana Heights, 11",Flat 16,Cheering Lane,,London
+2024-11-25,462000,E20 1LL,F,N,L,Goswell Court,Flat 4,Honour Lea Avenue,,London
+2024-11-08,585000,E20 1AN,F,N,L,"Vesta House, 4",Flat 86,Liberty Bridge Road,Olympic Park,London
+2024-11-06,660000,E20 1FH,F,N,L,"Titian Heights, 12",24,Scarlet Close,Olympic Park,London
+2024-11-01,975000,E20 3AR,F,N,L,16,Flat 20,Tandy Place,,London
+2024-10-30,755000,E20 1HL,F,N,L,"Hyett Court, 1",14,Derny Avenue,,London
+2024-10-30,336000,E20 1AZ,F,N,L,"Cavesson House, 2",Flat 34,Ribbons Walk,Olympic Park,London
+2024-10-28,1125000,E20 3AZ,T,N,L,3,,Forbes Lane,,London
+2024-10-28,1220000,E20 1HQ,T,N,F,4,,Brewers Lane,,London
+2024-10-13,105000,E20 1BB,F,N,L,"Tucana Heights, 11",Flat 10,Cheering Lane,,London
+2024-10-04,710000,E20 1EZ,F,N,L,"Karner House, 14",32,Logan Close,Olympic Park,London
+2024-10-04,565000,E20 1BR,F,N,L,"Festuca House, 38",Flat 5,Mirabelle Gardens,Olympic Park,London
+2024-10-03,460000,E20 1BU,F,N,L,25,Flat 24,Mirabelle Gardens,Olympic Park,London
+2024-09-26,690000,E20 1HW,F,N,L,"Cassia Point, 2",1507,Glasshouse Gardens,,London
+2024-09-25,270000,E20 1AR,F,N,L,"Asterid Heights, 7",Flat 58,Liberty Bridge Road,Olympic Park,London
+2024-09-20,740000,E20 1GQ,F,N,L,"Manhattan Loft Apartments, 22",Apartment 1507,International Way,,London
+2024-09-19,815000,E20 1HL,F,N,L,"Ruckholt House, 15",5,Derny Avenue,,London
+2024-09-19,1250000,E20 1FU,T,N,F,24,,Abercrombie Road,,London
+2024-09-18,705000,E20 1HW,F,N,L,Cassia Point 2,1707,Glasshouse Gardens,,London
+2024-08-22,638000,E20 1GQ,F,N,L,"Manhattan Loft Apartments, 22",Apartment 2008,International Way,,London
+2024-08-16,340000,E20 1HR,F,N,L,"Lantana Heights, 1",501,Glasshouse Gardens,,London
+2024-08-12,672000,E20 1EA,F,N,L,"Festive Mansions, 10",Flat 30,Napa Close,Olympic Park,London
+2024-08-01,462500,E20 1HU,F,N,L,"Cassia Point, 2",701,Glasshouse Gardens,,London
+2024-07-31,120000,E20 3AP,F,N,L,17,Flat 17,Waterden Road,,London
+2024-07-31,430000,E20 1HU,F,N,L,"Cassia Point, 2",205,Glasshouse Gardens,,London
+2024-07-30,1270000,E20 1GW,T,N,F,40,,Villiers Gardens,,London
+2024-07-29,434000,E20 1AZ,F,N,L,"Cavesson House, 2",Flat 30,Ribbons Walk,Olympic Park,London
+2024-07-24,1100000,E20 1GU,T,N,F,13,,Keirin Road,,London
+2024-07-16,495000,E20 1HX,F,N,L,"Cassia Point, 2",2101,Glasshouse Gardens,,London
+2024-07-12,825000,E20 1FA,F,N,L,Park View Mansions,41,Olympic Park Avenue,,London
+2024-06-07,730000,E20 1DX,F,N,L,"Sable House, 15",35,Honour Lea Avenue,,London
+2024-06-03,785000,E20 1GQ,F,N,L,"Manhattan Loft Apartments, 22",Apartment 1410,International Way,,London
+2024-05-17,485000,E20 1FL,F,N,L,"Zeller House, 21",Apartment 31,Scarlet Close,Olympic Park,London
+2024-05-09,435000,E20 1DQ,F,N,L,"Tayberry House, 10",Flat 46,Ravens Walk,Olympic Park,London
+2024-04-30,471000,E20 1AZ,F,N,L,"Cavesson House, 2",Flat 47,Ribbons Walk,Olympic Park,London
+2024-04-23,690000,E20 1HT,F,N,L,"Lantana Heights, 1",1402,Glasshouse Gardens,,London
+2024-04-12,461000,E20 1AB,F,N,L,"Vega House, 17",Flat 32,Prize Walk,Olympic Park,London
+2024-03-25,352000,E20 1AQ,F,N,L,"Burgundy House, 25",Flat 26,Liberty Bridge Road,Olympic Park,London
+2024-03-22,943000,E20 1HH,F,N,L,Hyett Terrace,2,Honour Lea Avenue,,London
+2024-03-18,535000,E20 1DS,F,N,L,"Verna House, 24",Flat 18,Sunrise Close,Olympic Park,London
+2024-03-14,675000,E20 1HL,F,N,L,"Hyett Court, 1",8,Derny Avenue,,London
+2024-03-07,1100000,E20 1HP,T,N,F,6,,Coopers Lane,,London
+2024-02-09,700000,E20 1EZ,F,N,L,"Karner House, 14",26,Logan Close,Olympic Park,London
+2024-01-26,485000,E20 1HR,F,N,L,"Lantana Heights, 1",601,Glasshouse Gardens,,London
+2024-01-25,360750,E20 1AB,F,N,L,"Vega House, 17",Flat 30,Prize Walk,Olympic Park,London
+2024-01-05,465000,E20 1HT,F,N,L,"Lantana Heights, 1",1108,Glasshouse Gardens,,London
+2023-12-15,192500,E20 1EA,F,N,L,"Festive Mansions, 10",Flat 19,Napa Close,Olympic Park,London
+2023-12-08,430000,E20 1AZ,F,N,L,"Cavesson House, 2",Flat 31,Ribbons Walk,Olympic Park,London
+2023-12-05,476000,E20 1BU,F,N,L,"Kaleidoscope House, 25",Flat 29,Mirabelle Gardens,Olympic Park,London
+2023-11-15,490000,E20 1HX,F,N,L,"Cassia Point, 2",2201,Glasshouse Gardens,,London
+2023-11-13,450000,E20 1HU,F,N,L,"Cassia Point, 2",501,Glasshouse Gardens,,London
+2023-11-03,568500,E20 1BR,F,N,L,"Festuca House, 38",Flat 19,Mirabelle Gardens,Olympic Park,London
+2023-10-16,1200000,E20 1GW,T,N,F,42,,Villiers Gardens,,London
+2023-10-16,560000,E20 1FH,F,N,L,"Titian Heights, 12",33,Scarlet Close,Olympic Park,London
+2023-10-11,310000,E20 1AZ,F,N,L,"Cavesson House, 2",Flat 38,Ribbons Walk,Olympic Park,London
+2023-10-06,555000,E20 1BB,F,N,L,"Tucana Heights, 11",Flat 7,Cheering Lane,,London
+2023-09-13,665000,E20 1HL,F,N,L,"Platamone House, 13",8,Derny Avenue,,London
+2023-09-12,652000,E20 1PD,F,N,L,"Triathlon Point, 11",Flat 40,Madison Way,,London
+2023-09-06,624000,E20 1HT,F,N,L,"Lantana Heights, 1",807,Glasshouse Gardens,,London
+2023-09-01,680000,E20 1GY,F,N,L,"Burnell House, 55",1,Peloton Avenue,,London
+2023-08-29,780000,E20 1HL,F,N,L,9,,Derny Avenue,,London
+2023-08-18,560000,E20 1BR,F,N,L,"Festuca House, 38",Flat 13,Mirabelle Gardens,Olympic Park,London
+2023-08-10,875000,E20 1FA,F,N,L,Park View Mansions,35,Olympic Park Avenue,,London
+2023-07-31,345600,E20 1BU,F,N,L,"Kaleidoscope House, 25",Flat 20,Mirabelle Gardens,Olympic Park,London
+2023-07-25,660000,E20 1HX,F,N,L,"Cassia Point, 2",2503,Glasshouse Gardens,,London
+2023-07-21,400000,E20 1NY,F,Y,L,"Criterium House, 13",Flat 1,Olympic Park Avenue,,London
+2023-07-14,722000,E20 1GQ,F,N,L,"Manhattan Loft Apartments, 22",Apartment 1910,International Way,,London
+2023-07-14,545000,E20 1FF,F,N,L,"Lucia Heights, 23",Flat 24,Logan Close,Olympic Park,London
+2023-07-14,680000,E20 1DT,F,N,L,"Aurelia House, 10",Flat 20,Sunrise Close,,London
+2023-07-12,555000,E20 1GT,F,N,L,"Vesta House, 4",Flat 97,Liberty Bridge Road,,London
+2023-07-06,404000,E20 1BB,F,N,L,"Tucana Heights, 11",Flat 36,Cheering Lane,,London
+2023-07-05,410000,E20 1FU,F,N,L,"Hewett House, 12",Flat 1,Abercrombie Road,,London
+2023-07-04,688000,E20 1HH,F,N,L,Hyett Court,5,Honour Lea Avenue,,London
+2023-06-30,450000,E20 1PE,F,Y,L,"Audax Heights, 11",Flat 5,Olympic Park Avenue,,London
+2023-06-22,825000,E20 1HB,F,N,L,47,,Peloton Avenue,,London
+2023-06-21,456000,E20 1AZ,F,N,L,"Cavesson House, 2",Flat 48,Ribbons Walk,Olympic Park,London
+2023-06-19,460000,E20 1AZ,F,N,L,"Cavesson House, 2",Flat 46,Ribbons Walk,Olympic Park,London
+2023-06-12,450000,E20 1HW,F,N,L,"Cassia Point, 2",1201,Glasshouse Gardens,,London
+2023-06-06,430000,E20 1AX,F,N,L,"Saddlers House, 13",Flat 50,Ribbons Walk,Olympic Park,London
+2023-06-02,450000,E20 1PB,F,Y,L,"Triathlon Point, 5",Flat 23,Madison Way,,London
+2023-06-02,485000,E20 1FT,F,Y,L,20,,Olympic Park Avenue,,London
+2023-05-26,605000,E20 1HW,F,N,L,"Cassia Point, 2",1202,Glasshouse Gardens,,London
+2023-05-24,575000,E20 1HU,F,N,L,Cassia Point 2,603,Glasshouse Gardens,,London
+2023-05-19,474000,E20 1PE,F,Y,L,"Audax Heights, 11",Flat 4,Olympic Park Avenue,,London
+2023-04-28,475000,E20 1PB,F,Y,L,"Triathlon Point, 5",Flat 25,Madison Way,,London
+2023-04-28,543000,E20 1BR,F,N,L,"Festuca House, 38",Flat 10,Mirabelle Gardens,Olympic Park,London
+2023-04-21,442500,E20 1PE,F,Y,L,"Audax Heights, 11",Flat 11,Olympic Park Avenue,,London
+2023-04-14,437000,E20 1PE,F,Y,L,"Audax Heights, 11",Flat 16,Olympic Park Avenue,,London
+2023-04-14,442500,E20 1PE,F,Y,L,"Audax Heights, 11",Flat 10,Olympic Park Avenue,,London
+2023-03-24,555000,E20 1DS,F,N,L,"Verna House, 24",Flat 24,Sunrise Close,Olympic Park,London
+2023-03-07,507500,E20 1HW,F,N,L,"Cassia Point, 2",1501,Glasshouse Gardens,,London
+2023-02-10,495000,E20 1PE,F,Y,L,"Audax Heights, 11",Flat 22,Olympic Park Avenue,,London
+2023-02-09,477000,E20 1PA,F,Y,L,"Triathlon Point, 1",Flat 9,Madison Way,,London
+2023-02-03,470000,E20 1PA,F,Y,L,"Triathlon Point, 1",Flat 4,Madison Way,,London
+2023-02-03,900000,E20 1HT,F,N,L,"Lantana Heights, 1",1502,Glasshouse Gardens,,London
+2023-02-02,652000,E20 1HL,F,N,L,"Hyett Court, 1",11,Derny Avenue,,London
+2023-01-30,420000,E20 1AX,F,N,L,"Saddlers House, 13",Flat 29,Ribbons Walk,Olympic Park,London
+2023-01-23,500000,E20 1HX,F,N,L,"Cassia Point, 2",2301,Glasshouse Gardens,,London
+2023-01-06,700000,E20 1PE,F,Y,L,"Audax Heights, 11",Flat 6,Olympic Park Avenue,,London
+2022-12-30,1380000,E20 1LG,F,N,F,20 And 20A,,Derny Avenue,,London
+2022-12-23,469000,E20 1NY,F,Y,L,"Criterium House, 13",Flat 11,Olympic Park Avenue,,London
+2022-12-19,160000,E20 1BS,F,N,L,"Galena Heights, 47",Flat 22,Mirabelle Gardens,,London
+2022-12-16,344500,E20 1AZ,F,N,L,"Cavesson House, 2",Flat 38,Ribbons Walk,Olympic Park,London
+2022-12-15,800000,E20 1FA,F,N,L,Park View Mansions,45,Olympic Park Avenue,,London
+2022-12-15,250000,E20 1DT,F,N,L,"Aurelia House, 10",Flat 24,Sunrise Close,,London
+2022-12-09,510000,E20 1NZ,F,Y,L,"Criterium House, 19",Flat 27,Olympic Park Avenue,,London
+2022-12-06,670000,E20 1FQ,F,N,L,"Park View Mansions, 2",84,Abercrombie Road,,London
+2022-11-25,498000,E20 1PE,F,Y,L,"Audax Heights, 11",Flat 28,Olympic Park Avenue,,London
+2022-11-11,580000,E20 1EA,F,N,L,"Festive Mansions, 10",Flat 29,Napa Close,Olympic Park,London
+2022-11-04,745000,E20 1HX,F,N,L,Cassia Point 2,2107,Glasshouse Gardens,,London
+2022-10-28,475000,E20 1PD,F,Y,L,"Triathlon Point, 11",Flat 31,Madison Way,,London
+2022-10-28,700000,E20 1GY,F,N,L,"Burnell House, 55",10,Peloton Avenue,,London
+2022-10-27,575000,E20 1GT,F,N,L,"Vesta House, 4",Flat 117,Liberty Bridge Road,,London
+2022-10-26,470000,E20 1PD,F,Y,L,"Triathlon Point, 11",Flat 32,Madison Way,,London
+2022-10-21,498000,E20 1PE,F,Y,L,"Audax Heights, 11",Flat 29,Olympic Park Avenue,,London
+2022-10-21,508000,E20 1NZ,F,Y,L,"Criterium House, 19",Flat 26,Olympic Park Avenue,,London
+2022-10-21,525000,E20 1GT,F,N,L,"Vesta House, 4",Flat 100,Liberty Bridge Road,,London
+2022-10-07,695000,E20 1HT,F,N,L,"Lantana Heights, 1",903,Glasshouse Gardens,,London
+2022-09-26,560000,E20 1BR,F,N,L,"Festuca House, 38",Flat 27,Mirabelle Gardens,Olympic Park,London
+2022-09-20,560000,E20 1GT,F,N,L,"Vesta House, 4",Flat 107,Liberty Bridge Road,,London
+2022-09-16,520000,E20 1FT,F,Y,L,12,,Olympic Park Avenue,,London
+2022-09-16,357500,E20 1AB,F,N,L,"Vega House, 17",Flat 35,Prize Walk,Olympic Park,London
+2022-09-15,473000,E20 1PA,F,Y,L,"Triathlon Point, 1",Flat 10,Madison Way,,London
+2022-09-14,450000,E20 1HU,F,N,L,"Cassia Point, 2",405,Glasshouse Gardens,,London
+2022-09-13,493000,E20 1PE,F,Y,L,"Audax Heights, 11",Flat 17,Olympic Park Avenue,,London
+2022-09-13,448000,E20 1HU,F,N,L,"Cassia Point, 2",204,Glasshouse Gardens,,London
+2022-09-09,475000,E20 1PD,F,Y,L,"Triathlon Point, 11",Flat 33,Madison Way,,London
+2022-09-08,475000,E20 1PA,F,Y,L,"Triathlon Point, 1",Flat 3,Madison Way,,London
+2022-09-02,473000,E20 1PD,F,Y,L,"Triathlon Point, 11",Flat 38,Madison Way,,London
+2022-08-30,442000,E20 1FQ,F,N,L,"Park View Mansions, 2",82,Abercrombie Road,,London
+2022-08-26,135000,E20 1EA,F,N,L,"Festive Mansions, 10",Flat 13,Napa Close,Olympic Park,London
+2022-08-24,327000,E20 1ED,F,N,L,"Rye Mansions, 23",Flat 41,Napa Close,Olympic Park,London
+2022-08-10,960000,E20 1GU,T,N,F,16,,Keirin Road,,London
+2022-08-05,600000,E20 1PE,F,Y,L,"Audax Heights, 11",Flat 14,Olympic Park Avenue,,London
+2022-08-05,477000,E20 1PB,F,Y,L,"Triathlon Point, 5",Flat 28,Madison Way,,London
+2022-08-03,945000,E20 1HQ,T,N,F,4,,Brewers Lane,,London
+2022-08-01,1165000,E20 1GW,T,N,F,34,,Villiers Gardens,,London
+2022-07-22,640000,E20 1GY,F,N,L,"Burnell House, 55",16,Peloton Avenue,,London
+2022-07-21,600000,E20 1PE,F,Y,L,"Audax Heights, 11",Flat 2,Olympic Park Avenue,,London
+2022-07-20,487000,E20 1PD,F,Y,L,"Triathlon Point, 11",Flat 54,Madison Way,,London
+2022-07-15,577000,E20 1PA,F,Y,L,"Triathlon Point, 1",Flat 1,Madison Way,,London
+2022-07-15,600000,E20 1FT,F,Y,L,15,,Olympic Park Avenue,,London
+2022-07-14,600000,E20 1NY,F,Y,L,"Criterium House, 13",Flat 10,Olympic Park Avenue,,London
+2022-07-05,600000,E20 1NZ,F,Y,L,"Criterium House, 19",Flat 28,Olympic Park Avenue,,London
+2022-07-04,550000,E20 1GT,F,N,L,"Vesta House, 4",Flat 110,Liberty Bridge Road,,London
+2022-07-01,626000,E20 1PE,F,Y,L,"Audax Heights, 11",Flat 33,Olympic Park Avenue,,London
+2022-07-01,635000,E20 1EZ,F,N,L,"Karner House, 14",8,Logan Close,Olympic Park,London
+2022-06-30,595000,E20 1PF,F,Y,L,3,,Grupetto Terrace,,London
+2022-06-30,610000,E20 1PE,F,Y,L,"Audax Heights, 11",Flat 21,Olympic Park Avenue,,London
+2022-06-30,475000,E20 1PA,F,Y,L,"5 Triathlon Point, 1",,Madison Way,,London
+2022-06-30,648000,E20 1NZ,F,Y,L,"Criterium House, 19",Flat 44,Olympic Park Avenue,,London
+2022-06-29,640000,E20 1PF,F,Y,L,1,,Grupetto Terrace,,London
+2022-06-29,702000,E20 1PE,F,Y,L,"Audax Heights, 11",Flat 18,Olympic Park Avenue,,London
+2022-06-28,565000,E20 1EA,F,N,L,"Festive Mansions, 10",Flat 31,Napa Close,Olympic Park,London
+2022-06-27,599000,E20 1PF,F,Y,L,2,,Grupetto Terrace,,London
+2022-06-27,600000,E20 1PE,F,Y,L,"Audax Heights, 11",Flat 3,Olympic Park Avenue,,London
+2022-06-27,600000,E20 1PE,F,Y,L,"Audax Heights, 11",Flat 8,Olympic Park Avenue,,London
+2022-06-27,477000,E20 1PD,F,Y,L,"Triathlon Point, 11",Flat 37,Madison Way,,London
+2022-06-27,580000,E20 1PA,F,Y,L,"Triathlon Point, 1",Flat 2,Madison Way,,London
+2022-06-24,575000,E20 1NZ,F,Y,L,"Criterium House, 19",Flat 25,Olympic Park Avenue,,London
+2022-06-24,595000,E20 1HD,F,Y,L,15,,Madison Way,,London
+2022-06-22,612000,E20 1PE,F,Y,L,"Audax Heights, 11",Flat 20,Olympic Park Avenue,,London
+2022-06-22,700000,E20 1PE,F,Y,L,"Audax Heights, 11",Flat 7,Olympic Park Avenue,,London
+2022-06-22,700000,E20 1PE,F,Y,L,"Audax Heights, 11",Flat 12,Olympic Park Avenue,,London
+2022-06-22,600000,E20 1PE,F,Y,L,"Audax Heights, 11",Flat 9,Olympic Park Avenue,,London
+2022-06-22,614000,E20 1PE,F,Y,L,"Audax Heights, 11",Flat 27,Olympic Park Avenue,,London
+2022-06-21,600000,E20 1PE,F,Y,L,"Audax Heights, 11",Flat 15,Olympic Park Avenue,,London
+2022-06-21,185500,E20 1BR,F,N,L,"Festuca House, 38",Flat 16,Mirabelle Gardens,Olympic Park,London
+2022-06-20,174125,E20 3AU,F,N,L,21,Flat 17,Copper Street,,London
+2022-06-20,704000,E20 1PE,F,Y,L,"Audax Heights, 11",Flat 24,Olympic Park Avenue,,London
+2022-06-20,706000,E20 1PE,F,Y,L,"Audax Heights, 11",Flat 31,Olympic Park Avenue,,London
+2022-06-20,616000,E20 1PE,F,Y,L,"Audax Heights, 11",Flat 26,Olympic Park Avenue,,London
+2022-06-20,702000,E20 1PE,F,Y,L,"Audax Heights, 11",Flat 19,Olympic Park Avenue,,London
+2022-06-20,704000,E20 1PE,F,Y,L,"Audax Heights, 11",Flat 25,Olympic Park Avenue,,London
+2022-06-20,706000,E20 1PE,F,Y,L,"Audax Heights, 11",Flat 30,Olympic Park Avenue,,London
+2022-06-17,619000,E20 1PE,F,Y,L,"Audax Heights, 11",Flat 32,Olympic Park Avenue,,London
+2022-06-17,598000,E20 1PE,F,Y,L,"Audax Heights, 11",Flat 34,Olympic Park Avenue,,London
+2022-06-17,477000,E20 1PD,F,Y,L,"Triathlon Point, 11",Flat 39,Madison Way,,London
+2022-06-17,577000,E20 1PD,F,Y,L,"Triathlon Point, 11",Flat 35,Madison Way,,London
+2022-06-17,479000,E20 1PD,F,Y,L,"Triathlon Point, 11",Flat 44,Madison Way,,London
+2022-06-17,482000,E20 1PD,F,Y,L,"Triathlon Point, 11",Flat 49,Madison Way,,London
+2022-06-16,710000,E20 1PE,F,Y,L,"Audax Heights, 11",Flat 41,Olympic Park Avenue,,London
+2022-06-16,630000,E20 1PE,F,Y,L,"Audax Heights, 11",Flat 38,Olympic Park Avenue,,London
+2022-06-16,708000,E20 1PE,F,Y,L,"Audax Heights, 11",Flat 36,Olympic Park Avenue,,London
+2022-06-16,603000,E20 1PE,F,Y,L,"Audax Heights, 11",Flat 39,Olympic Park Avenue,,London
+2022-06-16,710000,E20 1PE,F,Y,L,"Audax Heights, 11",Flat 40,Olympic Park Avenue,,London
+2022-06-15,624000,E20 1PE,F,Y,L,"Audax Heights, 11",Flat 37,Olympic Park Avenue,,London
+2022-06-15,579000,E20 1PA,F,Y,L,"Triathlon Point, 1",Flat 7,Madison Way,,London
+2022-06-15,648000,E20 1NZ,F,Y,L,"Criterium House, 19",Flat 43,Olympic Park Avenue,,London
+2022-06-10,646000,E20 1NY,F,Y,L,"Criterium House, 13",Flat 17,Olympic Park Avenue,,London
+2022-06-10,690000,E20 1NY,F,Y,L,"Criterium House, 13",Flat 21,Olympic Park Avenue,,London
+2022-06-10,471000,E20 1NY,F,Y,L,"Criterium House, 13",Flat 16,Olympic Park Avenue,,London
+2022-06-09,700000,E20 1NZ,F,Y,L,"Criterium House, 19",Flat 45,Olympic Park Avenue,,London
+2022-06-09,651000,E20 1NZ,F,Y,L,"Criterium House, 19",Flat 47,Olympic Park Avenue,,London
+2022-06-09,651000,E20 1NY,F,Y,L,"Criterium House, 13",Flat 23,Olympic Park Avenue,,London
+2022-06-09,651000,E20 1NY,F,Y,L,"Criterium House, 13",Flat 24,Olympic Park Avenue,,London
+2022-06-09,648000,E20 1NY,F,Y,L,"Criterium House, 13",Flat 18,Olympic Park Avenue,,London
+2022-06-08,517000,E20 1NZ,F,Y,L,"Criterium House, 19",Flat 42,Olympic Park Avenue,,London
+2022-06-08,581000,E20 1NZ,F,Y,L,"Criterium House, 19",Flat 40,Olympic Park Avenue,,London
+2022-06-08,515000,E20 1NZ,F,Y,L,"Criterium House, 19",Flat 41,Olympic Park Avenue,,London
+2022-06-08,644000,E20 1NY,F,Y,L,"Criterium House, 13",Flat 12,Olympic Park Avenue,,London
+2022-06-08,648000,E20 1NY,F,Y,L,"Criterium House, 13",Flat 20,Olympic Park Avenue,,London
+2022-06-07,514000,E20 1NZ,F,Y,L,"Criterium House, 19",Flat 37,Olympic Park Avenue,,London
+2022-06-07,512000,E20 1NZ,F,Y,L,"Criterium House, 19",Flat 36,Olympic Park Avenue,,London
+2022-06-07,600000,E20 1NZ,F,Y,L,"Criterium House, 19",Flat 39,Olympic Park Avenue,,London
+2022-06-07,600000,E20 1NZ,F,Y,L,"Criterium House, 19",Flat 38,Olympic Park Avenue,,London
+2022-06-07,600000,E20 1NY,F,Y,L,"Criterium House, 13",Flat 15,Olympic Park Avenue,,London
+2022-06-07,600000,E20 1NY,F,Y,L,"Criterium House, 13",Flat 14,Olympic Park Avenue,,London
+2022-06-06,512000,E20 1NZ,F,Y,L,"Criterium House, 19",Flat 32,Olympic Park Avenue,,London
+2022-06-06,600000,E20 1NZ,F,Y,L,"Criterium House, 19",Flat 33,Olympic Park Avenue,,London
+2022-06-06,646000,E20 1NY,F,Y,L,"Criterium House, 13",Flat 13,Olympic Park Avenue,,London
+2022-06-06,600000,E20 1NY,F,Y,L,"Criterium House, 13",Flat 8,Olympic Park Avenue,,London
+2022-06-06,600000,E20 1NY,F,Y,L,"Criterium House, 13",Flat 9,Olympic Park Avenue,,London
+2022-06-06,642000,E20 1NY,F,Y,L,"Criterium House, 13",Flat 7,Olympic Park Avenue,,London
+2022-06-06,525000,E20 1AB,F,N,L,"Vega House, 17",Flat 17,Prize Walk,Olympic Park,London
+2022-06-01,139375,E20 3AU,F,N,L,21,Flat 10,Copper Street,,London
+2022-06-01,510000,E20 1NZ,F,Y,L,"Criterium House, 19",Flat 31,Olympic Park Avenue,,London
+2022-06-01,600000,E20 1NZ,F,Y,L,"Criterium House, 19",Flat 29,Olympic Park Avenue,,London
+2022-06-01,577000,E20 1NZ,F,Y,L,"Criterium House, 19",Flat 30,Olympic Park Avenue,,London
+2022-06-01,635000,E20 1NY,F,Y,L,"Criterium House, 13",Flat 2,Olympic Park Avenue,,London
+2022-06-01,600000,E20 1NY,F,Y,L,"Criterium House, 13",Flat 3,Olympic Park Avenue,,London
+2022-06-01,600000,E20 1NY,F,Y,L,"Criterium House, 13",Flat 5,Olympic Park Avenue,,London
+2022-06-01,799995,E20 1HL,F,N,L,"Hyett Court, 1",1,Derny Avenue,,London
+2022-05-31,599000,E20 1PA,F,Y,L,"Triathlon Point, 1",Flat 17,Madison Way,,London
+2022-05-31,600000,E20 1NZ,F,Y,L,"Criterium House, 19",Flat 34,Olympic Park Avenue,,London
+2022-05-31,600000,E20 1NY,F,Y,L,"Criterium House, 13",Flat 4,Olympic Park Avenue,,London
+2022-05-31,648000,E20 1NY,F,Y,L,"Criterium House, 13",Flat 19,Olympic Park Avenue,,London
+2022-05-31,600000,E20 1FT,F,Y,L,18,,Olympic Park Avenue,,London
+2022-05-31,600000,E20 1FT,F,Y,L,17,,Olympic Park Avenue,,London
+2022-05-31,600000,E20 1FT,F,Y,L,16,,Olympic Park Avenue,,London
+2022-05-27,765000,E20 3AR,F,Y,L,16,Flat 25,Tandy Place,,London
+2022-05-24,155750,E20 1LL,F,N,L,Goswell Court,Flat 3,Honour Lea Avenue,,London
+2022-05-10,595000,E20 1BR,F,N,L,"Festuca House, 38",Flat 2,Mirabelle Gardens,Olympic Park,London
+2022-05-06,580000,E20 1PD,F,Y,L,"Triathlon Point, 11",Flat 34,Madison Way,,London
+2022-05-06,603000,E20 1DT,F,N,L,"Aurelia House, 10",Flat 2,Sunrise Close,,London
+2022-04-29,930000,E20 3AZ,T,Y,F,6,,Forbes Lane,,London
+2022-04-28,940000,E20 3AX,T,Y,L,5,,Kingsford Row,,London
+2022-04-22,137500,E20 1EA,F,N,L,"Festive Mansions, 10",Flat 11,Napa Close,Olympic Park,London
+2022-04-20,940000,E20 3AX,F,Y,L,7,,Kingsford Row,,London
+2022-04-13,484000,E20 1PA,F,Y,L,"Triathlon Point, 1",Flat 18,Madison Way,,London
+2022-04-13,455000,E20 1HU,F,N,L,"Cassia Point, 2",508,Glasshouse Gardens,,London
+2022-04-12,625000,E20 1EB,F,N,L,"Titan House, 11",Flat 14,Napa Close,,London
+2022-04-08,930000,E20 3AZ,T,Y,F,8,,Forbes Lane,,London
+2022-04-07,870000,E20 1FU,T,N,F,64,,Abercrombie Road,,London
+2022-04-07,870000,E20 1FU,T,N,F,54,,Abercrombie Road,,London
+2022-04-01,156250,E20 3AP,F,N,L,17,Flat 13,Waterden Road,,London
+2022-04-01,889000,E20 1FU,T,N,F,62,,Abercrombie Road,,London
+2022-04-01,889000,E20 1FU,T,N,F,60,,Abercrombie Road,,London
+2022-04-01,870000,E20 1FU,T,N,F,58,,Abercrombie Road,,London
+2022-04-01,889000,E20 1FU,T,N,F,56,,Abercrombie Road,,London
+2022-04-01,879000,E20 1FU,T,N,F,52,,Abercrombie Road,,London
+2022-03-24,479000,E20 1PA,F,Y,L,"Triathlon Point, 1",Flat 15,Madison Way,,London
+2022-03-21,475000,E20 1HX,F,N,L,"Cassia Point, 2",1905,Glasshouse Gardens,,London
+2022-03-18,595000,E20 1PF,F,Y,L,4,,Grupetto Terrace,,London
+2022-03-17,715000,E20 1GW,F,Y,L,93,,Villiers Gardens,,London
+2022-03-17,535000,E20 1BR,F,N,L,"Festuca House, 38",Flat 33,Mirabelle Gardens,Olympic Park,London
+2022-03-15,640000,E20 1HH,F,Y,L,5,,Hyett Terrace,,London
+2022-03-11,581000,E20 1PD,F,Y,L,"Triathlon Point, 11",Flat 46,Madison Way,,London
+2022-03-11,477000,E20 1PA,F,Y,L,"Triathlon Point, 1",Flat 11,Madison Way,,London
+2022-03-10,715000,E20 1GW,F,Y,L,91,,Villiers Gardens,,London
+2022-03-04,164125,E20 1LP,F,N,L,"Barrett House, 109",Flat 12,Villiers Gardens,,London
+2022-03-03,930000,E20 3AZ,T,Y,F,12,,Forbes Lane,,London
+2022-03-03,584000,E20 1PD,F,Y,L,"Triathlon Point, 11",Flat 45,Madison Way,,London
+2022-03-01,495000,E20 1HX,F,N,L,"Cassia Point, 2",2308,Glasshouse Gardens,,London
+2022-02-28,565000,E20 1EA,F,N,L,"Festive Mansions, 10",Flat 23,Napa Close,Olympic Park,London
+2022-02-27,635000,E20 1HA,F,N,L,"Compton House, 19",3,Peloton Avenue,,London
+2022-02-22,910000,E20 3AZ,F,Y,L,7,,Forbes Lane,,London
+2022-02-18,720000,E20 1GW,F,Y,L,79,,Villiers Gardens,,London
+2022-02-16,770000,E20 3AR,F,Y,L,16,Flat 43,Tandy Place,,London
+2022-02-11,710000,E20 1GW,F,Y,L,87,,Villiers Gardens,,London
+2022-02-04,620000,E20 1DT,F,N,L,"Aurelia House, 10",Flat 30,Sunrise Close,,London
+2022-02-02,750000,E20 3AR,F,Y,L,16,Flat 33,Tandy Place,,London
+2022-01-28,582000,E20 1PA,F,Y,L,"Triathlon Point, 1",Flat 13,Madison Way,,London
+2022-01-28,535000,E20 1EA,F,N,L,"Festive Mansions, 10",Flat 3,Napa Close,Olympic Park,London
+2022-01-24,607000,E20 1PB,F,Y,L,"Triathlon Point, 5",Flat 29,Madison Way,,London
+2022-01-21,840000,E20 1LQ,T,N,F,1,,Painters Lane,,London
+2022-01-21,617000,E20 1HD,F,Y,L,9,,Madison Way,,London
+2022-01-14,579000,E20 1PD,F,Y,L,"Triathlon Point, 11",Flat 41,Madison Way,,London
+2022-01-14,479000,E20 1PA,F,Y,L,"Triathlon Point, 1",Flat 19,Madison Way,,London
+2022-01-14,610000,E20 1HD,F,Y,L,3,,Madison Way,,London
+2022-01-07,488000,E20 1PD,F,Y,L,"Triathlon Point, 11",Flat 56,Madison Way,,London
+2022-01-07,607000,E20 1PB,F,Y,L,"Triathlon Point, 5",Flat 27,Madison Way,,London
+2022-01-07,609000,E20 1PA,F,Y,L,"Triathlon Point, 1",Flat 21,Madison Way,,London
+2022-01-07,715000,E20 1GW,F,Y,L,85,,Villiers Gardens,,London
+2022-01-06,597000,E20 1PA,F,Y,L,"Triathlon Point, 1",Flat 12,Madison Way,,London
+2022-01-06,750000,E20 1HY,F,N,L,"Cassia Point, 2",2905,Glasshouse Gardens,,London
+2022-01-05,582000,E20 1PA,F,Y,L,"Triathlon Point, 1",Flat 8,Madison Way,,London
+2022-01-04,584000,E20 1PD,F,Y,L,"Triathlon Point, 11",Flat 51,Madison Way,,London
+2022-01-04,600000,E20 1PD,F,Y,L,"Triathlon Point, 11",Flat 47,Madison Way,,London
+2022-01-04,599000,E20 1PD,F,Y,L,"Triathlon Point, 11",Flat 42,Madison Way,,London
+2022-01-04,595000,E20 1PD,F,Y,L,"Triathlon Point, 11",Flat 30,Madison Way,,London
+2022-01-04,597000,E20 1PD,F,Y,L,"Triathlon Point, 11",Flat 36,Madison Way,,London
+2022-01-04,483000,E20 1PD,F,Y,L,"Triathlon Point, 11",Flat 55,Madison Way,,London
+2022-01-04,582000,E20 1PD,F,Y,L,"Triathlon Point, 11",Flat 40,Madison Way,,London
+2022-01-04,600000,E20 1PB,F,Y,L,"Triathlon Point, 5",Flat 24,Madison Way,,London
+2022-01-04,483000,E20 1PA,F,Y,L,"Triathlon Point, 1",Flat 20,Madison Way,,London
+2022-01-04,595000,E20 1PA,F,Y,L,"Triathlon Point, 1",Flat 6,Madison Way,,London
+2022-01-04,584000,E20 1PA,F,Y,L,"Triathlon Point, 1",Flat 14,Madison Way,,London
+2022-01-04,595000,E20 1HD,F,Y,L,13,,Madison Way,,London
+2021-12-30,634000,E20 1PD,F,Y,L,"Triathlon Point, 11",Flat 43,Madison Way,,London
+2021-12-29,636000,E20 1PD,F,Y,L,"Triathlon Point, 11",Flat 48,Madison Way,,London
+2021-12-29,611000,E20 1PD,F,Y,L,"Triathlon Point, 11",Flat 53,Madison Way,,London
+2021-12-29,589000,E20 1PA,F,Y,L,"Triathlon Point, 1",Flat 22,Madison Way,,London
+2021-12-29,840000,E20 1LQ,T,N,F,5,,Painters Lane,,London
+2021-12-29,610000,E20 1HD,F,Y,L,7,,Madison Way,,London
+2021-12-29,720000,E20 1GW,F,Y,L,95,,Villiers Gardens,,London
+2021-12-29,870000,E20 1FU,T,N,F,76,,Abercrombie Road,,London
+2021-12-23,592000,E20 1PD,F,Y,L,"Triathlon Point, 11",Flat 52,Madison Way,,London
+2021-12-23,605000,E20 1PB,F,Y,L,"Triathlon Point, 5",Flat 26,Madison Way,,London
+2021-12-23,634000,E20 1PA,F,Y,L,"Triathlon Point, 1",Flat 16,Madison Way,,London
+2021-12-23,845000,E20 1LQ,T,N,F,4,,Painters Lane,,London
+2021-12-23,700000,E20 1GW,F,Y,L,83,,Villiers Gardens,,London
+2021-12-23,720000,E20 1GW,F,Y,L,73,,Villiers Gardens,,London
+2021-12-23,889000,E20 1FU,T,N,F,78,,Abercrombie Road,,London
+2021-12-23,870000,E20 1FU,T,N,F,74,,Abercrombie Road,,London
+2021-12-22,906240,E20 3AZ,T,Y,F,10,,Forbes Lane,,London
+2021-12-22,586000,E20 1PD,F,Y,L,"Triathlon Point, 11",Flat 50,Madison Way,,London
+2021-12-22,839500,E20 1LQ,T,N,F,6,,Painters Lane,,London
+2021-12-22,720000,E20 1GW,F,Y,L,89,,Villiers Gardens,,London
+2021-12-22,695000,E20 1GW,F,Y,L,77,,Villiers Gardens,,London
+2021-12-22,700000,E20 1GW,F,Y,L,75,,Villiers Gardens,,London
+2021-12-22,870000,E20 1FU,T,N,F,72,,Abercrombie Road,,London
+2021-12-21,879000,E20 1LR,T,N,F,8,,Cadence Way,,London
+2021-12-21,835000,E20 1LQ,T,N,F,3,,Painters Lane,,London
+2021-12-20,720000,E20 1GW,F,Y,L,81,,Villiers Gardens,,London
+2021-12-20,889000,E20 1FU,T,N,F,70,,Abercrombie Road,,London
+2021-12-20,870000,E20 1FU,T,N,F,68,,Abercrombie Road,,London
+2021-12-20,884000,E20 1FU,T,N,F,66,,Abercrombie Road,,London
+2021-12-17,840000,E20 1LQ,T,N,F,2,,Painters Lane,,London
+2021-12-17,600000,E20 1EB,F,N,L,"Titan House, 11",Flat 28,Napa Close,,London
+2021-12-15,915000,E20 3AZ,T,Y,F,4,,Forbes Lane,,London
+2021-12-14,194700,E20 1LP,F,N,L,"Barrett House, 109",Flat 7,Villiers Gardens,,London
+2021-12-14,595000,E20 1EA,F,N,L,"Festive Mansions, 10",Flat 6,Napa Close,,London
+2021-12-13,137500,E20 1EA,F,N,L,"Festive Mansions, 10",Flat 10,Napa Close,Olympic Park,London
+2021-12-10,874000,E20 1LR,T,N,F,3,,Cadence Way,,London
+2021-12-08,874000,E20 1LR,T,N,F,10,,Cadence Way,,London
+2021-12-07,874000,E20 1LR,T,N,F,6,,Cadence Way,,London
+2021-12-07,865000,E20 1LR,T,N,F,12,,Cadence Way,,London
+2021-12-07,870000,E20 1LR,T,N,F,1,,Cadence Way,,London
+2021-12-03,865000,E20 1LR,T,N,F,7,,Cadence Way,,London
+2021-12-03,850000,E20 1LR,T,N,F,5,,Cadence Way,,London
+2021-11-25,725000,E20 3AR,F,Y,L,16,Flat 21,Tandy Place,,London
+2021-11-24,556250,E20 1EA,F,N,L,"Festive Mansions, 10",Flat 4,Napa Close,Olympic Park,London
+2021-10-25,447500,E20 1FA,F,N,L,Park View Mansions,19,Olympic Park Avenue,,London
+2021-10-22,950000,E20 3AX,T,Y,L,9,,Kingsford Row,,London
+2021-10-21,218750,E20 1LL,F,N,L,Goswell Court,Flat 30,Honour Lea Avenue,,London
+2021-10-12,910000,E20 3AX,S,Y,L,4,,Kingsford Row,,London
+2021-09-30,930000,E20 3AZ,T,Y,F,14,,Forbes Lane,,London
+2021-09-30,960000,E20 3AZ,T,Y,L,11,,Forbes Lane,,London
+2021-09-30,680000,E20 1HU,F,N,L,"Cassia Point, 2",806,Glasshouse Gardens,,London
+2021-09-30,865000,E20 1GU,T,N,F,14,,Keirin Road,,London
+2021-09-30,638000,E20 1DT,F,N,L,"Aurelia House, 10",Flat 26,Sunrise Close,,London
+2021-09-29,925000,E20 3AZ,T,Y,L,5,,Forbes Lane,,London
+2021-09-24,473000,E20 1HW,F,N,L,"Cassia Point, 2",1005,Glasshouse Gardens,,London
+2021-09-20,780000,E20 3AR,F,Y,L,16,Flat 29,Tandy Place,,London
+2021-09-09,616500,E20 3AU,F,Y,L,21,Flat 21,Copper Street,,London
+2021-09-09,460000,E20 3AR,F,Y,L,16,Flat 35,Tandy Place,,London
+2021-09-09,890000,E20 3AR,F,Y,L,16,Flat 37,Tandy Place,,London
+2021-09-09,495000,E20 3AR,F,Y,L,16,Flat 32,Tandy Place,,London
+2021-09-09,670000,E20 1HT,F,N,L,"Lantana Heights, 1",1202,Glasshouse Gardens,,London
+2021-09-06,680000,E20 3AU,F,Y,L,21,Flat 31,Copper Street,,London
+2021-09-06,755000,E20 3AU,F,Y,L,21,Flat 30,Copper Street,,London
+2021-09-06,625000,E20 3AU,F,Y,L,21,Flat 29,Copper Street,,London
+2021-09-06,617500,E20 3AR,F,Y,L,16,Flat 30,Tandy Place,,London
+2021-09-06,840000,E20 3AR,F,Y,L,16,Flat 38,Tandy Place,,London
+2021-09-06,810000,E20 3AR,F,Y,L,16,Flat 42,Tandy Place,,London
+2021-09-06,770000,E20 3AR,F,Y,L,16,Flat 20,Tandy Place,,London
+2021-09-06,622500,E20 3AR,F,Y,L,16,Flat 40,Tandy Place,,London
+2021-09-06,589950,E20 3AR,F,Y,L,16,Flat 22,Tandy Place,,London
+2021-09-06,475000,E20 3AR,F,Y,L,16,Flat 41,Tandy Place,,London
+2021-09-03,711150,E20 3AR,F,Y,L,16,Flat 39,Tandy Place,,London
+2021-08-27,720000,E20 1FU,F,Y,L,92,,Abercrombie Road,,London
+2021-08-27,699500,E20 1FU,F,Y,L,84,,Abercrombie Road,,London
+2021-08-27,705000,E20 1FU,F,Y,L,82,,Abercrombie Road,,London
+2021-08-24,720000,E20 1FU,F,Y,L,90,,Abercrombie Road,,London
+2021-08-20,765000,E20 1GY,F,N,L,"Burnell House, 55",18,Peloton Avenue,,London
+2021-07-26,557000,E20 1EA,F,N,L,"Festive Mansions, 10",Flat 17,Napa Close,Olympic Park,London
+2021-06-30,885000,E20 3AZ,T,Y,L,9,,Forbes Lane,,London
+2021-06-30,925000,E20 3AX,T,Y,L,6,,Kingsford Row,,London
+2021-06-30,925000,E20 3AX,T,Y,L,10,,Kingsford Row,,London
+2021-06-30,820000,E20 1HH,F,N,L,5,,Hyett Terrace,,London
+2021-06-30,994000,E20 1GW,T,N,F,56,,Villiers Gardens,,London
+2021-06-30,715000,E20 1FU,F,Y,L,94,,Abercrombie Road,,London
+2021-06-30,660000,E20 1FU,F,Y,L,88,,Abercrombie Road,,London
+2021-06-29,910000,E20 3AZ,T,Y,L,3,,Forbes Lane,,London
+2021-06-29,720000,E20 1FU,F,Y,L,86,,Abercrombie Road,,London
+2021-06-29,669000,E20 1FU,F,Y,L,80,,Abercrombie Road,,London
+2021-06-29,630000,E20 1DX,F,N,L,"Sable House, 15",30,Honour Lea Avenue,,London
+2021-06-28,635000,E20 1DX,F,N,L,"Sable House, 15",11,Honour Lea Avenue,,London
+2021-06-28,506250,E20 1BB,F,N,L,"Tucana Heights, 11",Flat 31,Cheering Lane,,London
+2021-06-28,630000,E20 1BB,F,N,L,"Tucana Heights, 11",Flat 38,Cheering Lane,,London
+2021-06-25,219000,E20 3AP,F,N,L,17,Flat 4,Waterden Road,,London
+2021-06-21,362375,E20 3AP,F,N,L,17,Flat 22,Waterden Road,,London
+2021-06-17,199125,E20 3AP,F,N,L,"Studio House, 17",Flat 10,Waterden Road,,London
+2021-06-17,236000,E20 3AP,F,N,L,17,Flat 1,Waterden Road,,London
+2021-06-11,367500,E20 1LL,F,N,L,Goswell Court,Flat 9,Honour Lea Avenue,,London
+2021-06-03,560000,E20 1BB,F,N,L,"Tucana Heights, 11",Flat 13,Cheering Lane,,London
+2021-06-02,999000,E20 1GW,T,N,F,46,,Villiers Gardens,,London
+2021-05-27,994000,E20 1GW,T,N,F,60,,Villiers Gardens,,London
+2021-05-19,990000,E20 1GW,T,N,F,58,,Villiers Gardens,,London
+2021-05-10,110625,E20 3AL,F,N,L,7,Flat 37,Waterden Road,,London
+2021-05-10,107500,E20 3AL,F,N,L,7,Flat 18,Waterden Road,,London
+2021-05-10,106875,E20 3AL,F,N,L,7,Flat 10,Waterden Road,,London
+2021-05-07,130500,E20 3AL,F,N,L,7,Flat 34,Waterden Road,,London
+2021-05-07,110625,E20 3AL,F,N,L,7,Flat 38,Waterden Road,,London
+2021-05-07,196500,E20 3AL,F,N,L,7,Flat 35,Waterden Road,,London
+2021-04-15,999000,E20 1GW,T,N,F,54,,Villiers Gardens,,London
+2021-04-09,995000,E20 1GW,T,N,F,50,,Villiers Gardens,,London
+2021-04-09,995000,E20 1GW,T,N,F,48,,Villiers Gardens,,London
+2021-04-06,800000,E20 1FA,F,N,L,Park View Mansions,23,Olympic Park Avenue,,London
+2021-04-01,700000,E20 1FA,F,N,L,Park View Mansions,22,Olympic Park Avenue,,London
+2021-03-31,999000,E20 1GW,T,N,F,44,,Villiers Gardens,,London
+2021-03-26,483000,E20 1HU,F,N,L,"Cassia Point, 2",801,Glasshouse Gardens,,London
+2021-03-26,995000,E20 1GW,T,N,F,52,,Villiers Gardens,,London
+2021-03-26,994000,E20 1GW,T,N,F,40,,Villiers Gardens,,London
+2021-03-24,965000,E20 1GW,T,N,F,3,,Villiers Gardens,,London
+2021-03-12,375000,E20 1AX,F,N,L,"Saddlers House, 13",Flat 24,Ribbons Walk,Olympic Park,London
+2021-03-03,540000,E20 1FF,F,N,L,"Lucia Heights, 23",Flat 12,Logan Close,Olympic Park,London
+2021-02-26,705000,E20 1HA,F,N,L,"Compton House, 19",8,Peloton Avenue,,London
+2021-02-26,635000,E20 1EZ,F,N,L,"Karner House, 14",16,Logan Close,Olympic Park,London
+2021-01-22,655000,E20 1HU,F,N,L,"Cassia Point, 2",606,Glasshouse Gardens,,London

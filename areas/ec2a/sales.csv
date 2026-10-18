@@ -1,0 +1,402 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-07-28,850000,EC2A 2FF,F,N,L,2,Flat 3007,Principal Place,,London
+2026-07-20,528000,EC2A 3EW,F,N,L,7,Flat 503,Garden Walk,,London
+2026-04-09,465000,EC2A 4AZ,F,N,L,"Cosmopolitan House, 8",Flat 2,Christina Street,,London
+2026-04-07,1680000,EC2A 3PY,F,N,L,8 - 13,Flat 5,New Inn Street,,London
+2026-04-02,465000,EC2A 4AZ,F,N,L,"Cosmopolitan House, 8",Flat 8,Christina Street,,London
+2026-03-16,692000,EC2A 3EP,F,N,L,50 - 52,Flat 6,Great Eastern Street,,London
+2026-02-16,360000,EC2A 3EN,F,N,L,"Pennybank Chambers, 1",Flat 4A,Fairchild Place,,London
+2026-02-06,620000,EC2A 3PR,F,N,L,7,Flat 15,New Inn Broadway,,London
+2026-01-23,415000,EC2A 4ED,F,N,L,Victoria Chambers,Flat 10,Paul Street,,London
+2026-01-09,220000,EC2A 3PR,F,N,L,7,Flat 8,New Inn Broadway,,London
+2025-11-28,990000,EC2A 2FB,F,N,L,2,Flat 601,Principal Place,,London
+2025-10-17,1395000,EC2A 4AA,F,N,L,51,Flat 3,Tabernacle Street,,London
+2025-10-09,699000,EC2A 2FJ,F,N,L,19,Apartment N1202,Sun Street,,London
+2025-09-26,700000,EC2A 4AA,F,N,L,47,Flat 1,Tabernacle Street,,London
+2025-09-23,710000,EC2A 2FJ,F,N,L,19,Apartment S1604,Sun Street,,London
+2025-09-19,137500,EC2A 4AN,F,N,L,7,Flat 11,Leonard Street,,London
+2025-08-18,990000,EC2A 2FJ,F,Y,L,19,Apartment N2802,Sun Street,,London
+2025-08-07,950000,EC2A 2FJ,F,Y,L,19,Apartment S1206,Sun Street,,London
+2025-07-15,1160000,EC2A 2AH,F,N,L,34,Flat 5,Worship Street,,London
+2025-06-16,3000000,EC2A 3PY,F,N,L,8 - 13,Flat 10,New Inn Street,,London
+2025-06-10,1300000,EC2A 3HJ,T,N,F,17,,Dereham Place,,London
+2025-05-30,975000,EC2A 3BF,F,N,L,3,Flat 2,Mills Court,Hackney,London
+2025-05-16,1521000,EC2A 2FJ,F,Y,L,19,Apartment S0905,Sun Street,,London
+2025-04-07,182500,EC2A 3PR,F,N,L,7,Flat 1,New Inn Broadway,,London
+2025-03-28,380000,EC2A 4PA,F,N,L,1 - 4,Flat 14,Christina Street,,London
+2025-03-24,970000,EC2A 4AD,F,N,L,"Chamberlain House, 1",Flat 2,Blackall Street,,London
+2025-03-20,600000,EC2A 2FE,F,N,L,2,Flat 2706,Principal Place,,London
+2025-02-14,865000,EC2A 2FJ,F,N,L,19,Apartment N1006,Sun Street,,London
+2025-01-27,820000,EC2A 3LX,F,N,L,40,Flat 1,Rivington Street,,London
+2025-01-24,2350000,EC2A 2FJ,F,Y,L,19,Apartment N1902,Sun Street,,London
+2024-12-12,2480000,EC2A 2FF,F,N,L,2,Flat 3406,Principal Place,,London
+2024-11-29,520000,EC2A 3BH,F,N,L,3,Flat 103,Bowl Court,,London
+2024-11-25,915000,EC2A 4LX,F,N,L,"Galaxy House, 32",Flat 15,Leonard Street,,London
+2024-11-25,1125000,EC2A 3BS,F,N,L,"Cordy House, 93",Flat 2,Curtain Road,,London
+2024-11-08,875000,EC2A 3BE,F,N,L,10,Flat C,Standard Place,,London
+2024-10-25,600000,EC2A 3EW,F,N,L,7,Flat 202,Garden Walk,,London
+2024-10-18,1170000,EC2A 2FE,F,N,L,2 Principal Place,Flat 2704,Worship Street,,London
+2024-10-16,725000,EC2A 2FB,F,N,L,2,Flat 906,Principal Place,,London
+2024-10-09,1045000,EC2A 2FE,F,N,L,2,Flat 2907,Principal Place,,London
+2024-09-27,390000,EC2A 4BF,F,N,L,9,Flat 1,Leonard Street,,London
+2024-09-26,1120000,EC2A 2FE,F,N,L,2,Flat 2404,Principal Place,,London
+2024-09-16,2450000,EC2A 2FF,F,N,L,2,Flat 3101,Principal Place,,London
+2024-09-13,600000,EC2A 4AN,F,N,L,7,Flat 40,Leonard Street,,London
+2024-09-12,143750,EC2A 3BH,F,N,L,3,Flat 503,Bowl Court,,London
+2024-09-10,1024600,EC2A 2FE,F,N,L,2,Flat 2607,Principal Place,,London
+2024-09-06,850000,EC2A 4LE,F,N,L,City Lofts 112-116,Flat 12,Tabernacle Street,,London
+2024-08-30,825000,EC2A 2FE,F,N,L,2,Flat 2307,Principal Place,,London
+2024-08-29,3275000,EC2A 3BS,F,N,L,"Cordy House, 93",The Penthouse Apartment,Curtain Road,,London
+2024-08-09,365000,EC2A 4ED,F,N,L,Victoria Chambers,Flat 27,Paul Street,,London
+2024-08-02,420000,EC2A 4AP,F,N,L,25A,Flat 3,Cowper Street,,London
+2024-07-05,1075000,EC2A 3QQ,F,N,L,61A,,Rivington Street,,London
+2024-07-02,775000,EC2A 3BS,F,N,L,73,Flat 3,Curtain Road,,London
+2024-05-24,880000,EC2A 2FJ,F,N,L,19,Apartment S1601,Sun Street,,London
+2024-05-21,1850000,EC2A 2FG,F,N,L,2,Flat 4001,Principal Place,,London
+2024-05-10,940000,EC2A 1AN,F,N,L,"The Broadway, 12A",Flat 7,Finsbury Square,,London
+2024-04-19,1548000,EC2A 2FG,F,N,L,2,Flat 4202,Principal Place,,London
+2024-04-09,1084500,EC2A 2FE,F,N,L,2,Flat 2107,Principal Place,,London
+2024-04-02,750000,EC2A 3LX,F,N,L,40,Flat 2,Rivington Street,,London
+2024-03-26,765000,EC2A 3HH,F,N,L,"Flat 2, 12",,Batemans Row,,London
+2024-03-19,1250000,EC2A 2FB,F,N,L,2 Principal Place,Flat 605,Worship Street,,London
+2024-02-26,1151920,EC2A 2FB,F,N,L,2,Flat 205,Principal Place,,London
+2024-02-05,850000,EC2A 2FJ,F,N,L,19,Apartment N1502,Sun Street,,London
+2024-02-01,850000,EC2A 3EU,F,N,L,20,Flat 1,Garden Walk,,London
+2024-01-31,482000,EC2A 3EU,F,N,L,20,Flat 7,Garden Walk,,London
+2024-01-23,415000,EC2A 4ED,F,N,L,Victoria Chambers,Flat 28,Paul Street,,London
+2024-01-18,475000,EC2A 4AD,F,N,L,"Chamberlain House, 1",Flat 5,Blackall Street,,London
+2023-12-06,688750,EC2A 3NL,F,Y,L,"Stage Apartments, 22",Apartment 809,Hewett Street,,London
+2023-11-29,1650000,EC2A 3NL,F,Y,L,"Stage Apartments, 22",Apartment 1911,Hewett Street,,London
+2023-11-17,721680,EC2A 3NL,F,N,L,Stage Apartments 22,Apartment 2509,Hewett Street,,London
+2023-11-17,946000,EC2A 2FD,F,N,L,2,Flat 1406,Principal Place,,London
+2023-11-14,696960,EC2A 3NL,F,Y,L,"Stage Apartments, 22",Apartment 1007,Hewett Street,,London
+2023-11-03,688500,EC2A 3NL,F,N,L,"Stage Apartments, 22",Apartment 1212,Hewett Street,,London
+2023-11-03,1391750,EC2A 3NL,F,Y,L,"Stage Apartments, 22",Apartment 2104,Hewett Street,,London
+2023-11-01,693550,EC2A 3NL,F,Y,L,"Stage Apartments, 22",Apartment 609,Hewett Street,,London
+2023-10-31,640000,EC2A 4AN,F,N,L,7,Flat 10,Leonard Street,,London
+2023-10-31,850000,EC2A 2FJ,F,N,L,19,Apartment N1505,Sun Street,,London
+2023-10-27,864900,EC2A 3NL,F,Y,L,"Stage Apartments, 22",Apartment 806,Hewett Street,,London
+2023-10-27,909920,EC2A 3NL,F,Y,L,Stage Apartments 22,Apartment 1208,Hewett Street,,London
+2023-10-27,625000,EC2A 3EU,F,N,L,20,Flat 5,Garden Walk,,London
+2023-10-25,697500,EC2A 3NL,F,Y,L,"Stage Apartments, 22",Apartment 715,Hewett Street,,London
+2023-10-25,900900,EC2A 3NL,F,Y,L,"Stage Apartments, 22",Apartment 1308,Hewett Street,,London
+2023-10-23,891800,EC2A 3NL,F,Y,L,"Stage Apartments, 22",Apartment 2405,Hewett Street,,London
+2023-10-20,1200000,EC2A 3PT,F,N,L,"Butler House, 51",Flat 6,Curtain Road,,London
+2023-10-20,885000,EC2A 3NL,F,Y,L,"Stage Apartments, 22",Apartment 205,Hewett Street,,London
+2023-10-19,680000,EC2A 3NL,F,Y,L,"Stage Apartment, 22",Apartment 909,Hewett Street,,London
+2023-10-18,1441800,EC2A 3NL,F,N,L,"Stage Apartments, 22",Apartment 2310,Hewett Street,,London
+2023-10-16,900900,EC2A 3NL,F,Y,L,"Stage Apartments, 22",Apartment 505,Hewett Street,,London
+2023-10-16,1370000,EC2A 3NL,F,N,L,"Stage Apartments, 22",Flat 1612,Hewett Street,,London
+2023-10-13,706800,EC2A 3NL,F,Y,L,"Stage Apartments, 22",Apartment 1609,Hewett Street,,London
+2023-10-13,820000,EC2A 3NL,F,Y,L,"Stage Apartments, 22",Apartment 1111,Hewett Street,,London
+2023-10-10,737200,EC2A 3NL,F,Y,L,22,Apartment 902,Hewett Street,,London
+2023-10-09,1023500,EC2A 3NL,F,Y,L,"Stage Apartments, 22",Apartment 1801,Hewett Street,,London
+2023-10-06,695400,EC2A 3NL,F,Y,L,"Stage Apartments, 22",Apartment 1009,Hewett Street,,London
+2023-10-06,1287000,EC2A 3BS,F,N,L,"Cordy House, 93",Flat 6,Curtain Road,,London
+2023-10-05,739100,EC2A 3NL,F,Y,L,"Stage Apartments, 22",Apartment 1202,Hewett Street,,London
+2023-10-05,703080,EC2A 3NL,F,Y,L,Stage Apartments,Apartment 916,Hewett Street,,London
+2023-10-04,689400,EC2A 3NL,F,Y,L,"Stage Apartments, 22",Apartment 1414,Hewett Street,,London
+2023-10-04,1196800,EC2A 3NL,F,Y,L,Stage Apartments,Apartment 1004,Hewett Street,,London
+2023-10-03,819000,EC2A 3NL,F,Y,L,"Stage Apartments, 22",Apartment 503,Hewett Street,,London
+2023-09-29,1300000,EC2A 3NL,F,Y,L,"Stage Apartments, 22",Apartment 2204,Hewett Street,,London
+2023-09-29,1027900,EC2A 3NL,F,Y,L,"Stage Apartments, 22",Apartment 801,Hewett Street,,London
+2023-09-29,720960,EC2A 3NL,F,Y,L,"Stage Apartments, 22",Apartment 1210,Hewett Street,,London
+2023-09-29,1115500,EC2A 2FJ,F,Y,L,19,Apartment N0804,Sun Street,,London
+2023-09-28,772800,EC2A 3NL,F,Y,L,"Stage Apartments, 22",Apartment 2412,Hewett Street,,London
+2023-09-28,960300,EC2A 3NL,F,Y,L,"Stage Apartments, 22",Apartment 2103,Hewett Street,,London
+2023-09-28,714240,EC2A 3NL,F,Y,L,"Stage Apartments, 22",Apartment 1514,Hewett Street,,London
+2023-09-27,787500,EC2A 3NL,F,Y,L,"Stage Apartments, 22",Apartment 1211,Hewett Street,,London
+2023-09-26,970000,EC2A 3NL,F,N,L,"Stage Apartments, 22",Apartment 2806,Hewett Street,,London
+2023-09-26,709800,EC2A 3NL,F,Y,L,"Stage Apartments, 22",Apartment 1907,Hewett Street,,London
+2023-09-26,841750,EC2A 3NL,F,Y,L,"Stage Apartments, 22",Apartment 706,Hewett Street,,London
+2023-09-26,717120,EC2A 3NL,F,Y,L,"Stage Apartments, 22",Apartment 1010,Hewett Street,,London
+2023-09-26,850850,EC2A 3NL,F,Y,L,"Stage Apartments, 22",Apartment 906,Hewett Street,,London
+2023-09-26,830000,EC2A 3NL,F,Y,L,"Stage Apartments, 22",Apartment 1305,Hewett Street,,London
+2023-09-26,855600,EC2A 3NL,F,Y,L,"Stage Apartments, 22",Apartment 1206,Hewett Street,,London
+2023-09-25,692850,EC2A 3NL,F,Y,L,"Stage Apartments, 22",Apartment 615,Hewett Street,,London
+2023-09-22,450000,EC2A 4ED,F,N,L,Victoria Chambers,Flat 13,Paul Street,,London
+2023-09-22,1408603,EC2A 3NL,F,N,L,"Stage Apartments, 22",Apartment 2210,Hewett Street,,London
+2023-09-22,775000,EC2A 3NL,F,Y,L,"Stage Apartments, 22",Apartment 2302,Hewett Street,,London
+2023-09-22,720750,EC2A 3NL,F,Y,L,"Stage Apartments, 22",Apartment 915,Hewett Street,,London
+2023-09-22,774900,EC2A 3NL,F,Y,L,"Stage Apartments, 22",Apartment 2012,Hewett Street,,London
+2023-09-21,2000000,EC2A 3NL,F,N,L,"Stage Apartments, 22",Apartment 2906,Hewett Street,,London
+2023-09-21,803700,EC2A 3NL,F,Y,L,"Stage Apartments, 22",Apartment 911,Hewett Street,,London
+2023-09-21,860000,EC2A 3NL,F,Y,L,"Stage Apartments, 22",Apartment 1105,Hewett Street,,London
+2023-09-21,880000,EC2A 3NL,F,Y,L,"Stage Apartments, 22",Apartment 1603,Hewett Street,,London
+2023-09-21,761200,EC2A 3NL,F,Y,L,Stage Apartments 22,Apartment 2512,Hewett Street,,London
+2023-09-20,1029800,EC2A 3NL,F,Y,L,"Stage Apartments, 22",Apartment 901,Hewett Street,,London
+2023-09-20,1010500,EC2A 3NL,S,Y,L,"Stage Apartments, 22",Apartment 1101,Hewett Street,,London
+2023-09-20,686400,EC2A 3NL,F,Y,L,"Stage Apartments, 22",Apartment 607,Hewett Street,,London
+2023-09-20,780000,EC2A 3NL,F,Y,L,"Stage Apartments, 22",Apartment 1011,Hewett Street,,London
+2023-09-20,1288888,EC2A 2FD,F,N,L,2,Flat 1401,Principal Place,,London
+2023-09-19,737900,EC2A 3NL,F,Y,L,"Stage Apartments, 22",Apartment 1115,Hewett Street,,London
+2023-09-18,694800,EC2A 3NL,F,Y,L,"Stage Apartments, 22",Apartment 1807,Hewett Street,,London
+2023-09-18,701100,EC2A 3NL,F,Y,L,"Stage Apartments, 22",Apartment 1110,Hewett Street,,London
+2023-09-18,877590,EC2A 3NL,F,Y,L,"Stage Apartments, 22",Apartment 1214,Hewett Street,,London
+2023-09-18,864800,EC2A 3NL,F,Y,L,"Stage Apartments, 22",Apartment 1406,Hewett Street,,London
+2023-09-15,1334000,EC2A 4AA,F,N,L,45,Apartment 4,Tabernacle Street,,London
+2023-09-15,1389750,EC2A 3NL,F,N,L,"Stage Apartments, 22",Apartment 2410,Hewett Street,,London
+2023-09-15,689750,EC2A 3NL,F,N,L,"Stage Apartments, 22",Apartment 1411,Hewett Street,,London
+2023-09-15,710400,EC2A 3NL,F,Y,L,"Stage Apartments, 22",Apartment 1707,Hewett Street,,London
+2023-09-15,885600,EC2A 3NL,F,Y,L,"Stage Apartments, 22",Apartment 1008,Hewett Street,,London
+2023-09-15,1600000,EC2A 3NL,F,Y,L,"Stage Apartments, 22",Apartment 2411,Hewett Street,,London
+2023-09-15,679960,EC2A 3NL,F,Y,L,"Stage Apartments, 22",Apartment 1407,Hewett Street,,London
+2023-09-15,1218000,EC2A 3NL,F,Y,L,"Stage Apartments, 22",Apartment 904,Hewett Street,,London
+2023-09-15,768000,EC2A 3NL,F,Y,L,"Stage Apartments, 22",Apartment 206,Hewett Street,,London
+2023-09-15,729600,EC2A 3NL,F,Y,L,22,Apartment 1607,Hewett Street,,London
+2023-09-13,2225000,EC2A 3NL,F,Y,L,"Stage Apartments, 22",Apartment 2901,Hewett Street,,London
+2023-09-13,756000,EC2A 3NL,F,Y,L,"Stage Apartments, 22",Apartment 711,Hewett Street,,London
+2023-09-08,1182200,EC2A 3NL,F,Y,L,"Stage Apartments, 22",Apartment 504,Hewett Street,,London
+2023-09-07,2100000,EC2A 3NL,F,Y,L,"Stage Apartments, 22",Apartment 3302,Hewett Street,,London
+2023-09-06,1400300,EC2A 3NL,F,Y,L,"Stage Apartments, 22",Apartment 1504,Hewett Street,,London
+2023-09-06,803700,EC2A 3NL,F,Y,L,"Stage Apartments, 22",Apartment 2402,Hewett Street,,London
+2023-09-05,1342200,EC2A 3NL,F,N,L,Stage Apartments 22,Apartment 1013,Hewett Street,,London
+2023-08-31,1358500,EC2A 2FJ,F,Y,L,19,Apartment N2206,Sun Street,,London
+2023-08-31,1244500,EC2A 2FJ,F,Y,L,19,Apartment N2702,Sun Street,,London
+2023-08-30,1616800,EC2A 2FG,F,N,L,2,Flat 4003,Principal Place,,London
+2023-08-25,2800000,EC2A 2FJ,F,Y,L,19,Apartment N2602,Sun Street,,London
+2023-08-24,958080,EC2A 2FJ,F,Y,L,19,Apartment N1405,Sun Street,,London
+2023-08-04,2790000,EC2A 2FF,F,N,L,2,Flat 3605,Principal Place,,London
+2023-06-30,2295000,EC2A 2FG,F,N,L,2,Flat 4201,Principal Place,,London
+2023-06-16,1185000,EC2A 2FJ,F,Y,L,19,Apartment S0701,Sun Street,,London
+2023-06-08,1525000,EC2A 3PB,F,N,L,34,Flat 1,Charlotte Road,,London
+2023-06-01,1509750,EC2A 2FJ,F,Y,L,19,Apartment S2405,Sun Street,,London
+2023-05-11,760000,EC2A 2FD,F,N,L,2,Flat 1203,Principal Place,,London
+2023-05-03,1272450,EC2A 2FE,F,N,L,2,Flat 2904,Principal Place,,London
+2023-04-17,1089600,EC2A 2FJ,F,Y,L,19,Apartment S1304,Sun Street,,London
+2023-04-06,1280000,EC2A 2FJ,F,Y,L,19,Apartment N1606,Sun Street,,London
+2023-04-04,1097400,EC2A 2FJ,F,Y,L,19,Apartment S2601,Sun Street,,London
+2023-03-31,1553406,EC2A 2FJ,F,Y,L,19,Apartment S1605,Sun Street,,London
+2023-03-29,1200000,EC2A 4NQ,F,N,L,87,Flat C,Paul Street,,London
+2023-03-17,248000,EC2A 4AN,F,N,L,7,Flat 22,Leonard Street,,London
+2023-03-10,1500000,EC2A 4LX,F,N,L,"Galaxy House, 32",Flat 16,Leonard Street,,London
+2023-03-10,499000,EC2A 3EU,F,N,L,20,Flat 3,Garden Walk,,London
+2023-03-08,1281000,EC2A 2FJ,F,Y,L,19,Apartment S0902,Sun Street,,London
+2023-03-06,2540000,EC2A 2FF,F,N,L,2,Flat 3201,Principal Place,,London
+2023-02-28,1700000,EC2A 2FJ,F,Y,L,19,Apartment S2105,Sun Street,,London
+2023-02-24,765000,EC2A 4LX,F,N,L,"Galaxy House, 32",Flat 2,Leonard Street,,London
+2023-02-22,1023750,EC2A 2FJ,F,Y,L,19,Apartment S1506,Sun Street,,London
+2023-02-17,1231120,EC2A 2FD,F,N,L,2,Flat 1604,Principal Place,,London
+2023-02-10,2730930,EC2A 2FF,F,N,L,2,Flat 3501,Principal Place,,London
+2023-02-07,1481200,EC2A 2FJ,F,Y,L,19,Apartment S1503,Sun Street,,London
+2023-02-03,1313500,EC2A 2FJ,F,Y,L,19,Apartment N2106,Sun Street,,London
+2023-01-31,1302200,EC2A 2FF,F,N,L,2,Flat 3703,Principal Place,,London
+2023-01-19,1309780,EC2A 2FF,F,N,L,2,Flat 3503,Principal Place,,London
+2023-01-12,900000,EC2A 4BY,F,N,L,24,Apartment 5,Leonard Street,,London
+2023-01-06,1363000,EC2A 2FD,F,N,L,2,Flat 1804,Principal Place,,London
+2022-12-21,1051860,EC2A 2FJ,F,Y,L,19,Apartment S1406,Sun Street,,London
+2022-12-16,1237500,EC2A 2FJ,F,Y,L,19,Apartment N2803,Sun Street,,London
+2022-12-15,1430600,EC2A 2FJ,F,Y,L,19,Apartment N1805,Sun Street,,London
+2022-12-15,1466136,EC2A 2FJ,F,Y,L,19,Apartment S2605,Sun Street,,London
+2022-12-12,845000,EC2A 2AH,F,N,L,34,Flat 8,Worship Street,,London
+2022-12-08,1125000,EC2A 2AH,F,N,L,34,Flat 2,Worship Street,,London
+2022-12-01,2530000,EC2A 2FJ,F,Y,L,19,Apartment N2002,Sun Street,,London
+2022-11-28,1457409,EC2A 2FJ,F,Y,L,19,Apartment S2505,Sun Street,,London
+2022-11-18,1590000,EC2A 2FJ,F,Y,L,19,Apartment S1305,Sun Street,,London
+2022-11-09,5440000,EC2A 2FF,F,N,L,2,Flat 3801,Principal Place,,London
+2022-11-04,745000,EC2A 3QR,F,N,L,60,Flat 3,Great Eastern Street,,London
+2022-10-14,1487500,EC2A 4LJ,F,N,L,17 - 18,Flat 2,Clere Street,,London
+2022-10-14,2495000,EC2A 2FJ,F,Y,L,19,Apartment N1702,Sun Street,,London
+2022-10-13,1474200,EC2A 2FJ,F,Y,L,19,Apartment S1603,Sun Street,,London
+2022-10-13,948100,EC2A 2FJ,F,Y,L,19,Apartment S0906,Sun Street,,London
+2022-10-05,1250000,EC2A 4LE,F,N,L,"City Lofts, 112 - 116",Flat 8,Tabernacle Street,,London
+2022-09-23,575000,EC2A 4PA,F,N,L,1 - 4,Flat 5,Christina Street,,London
+2022-09-16,1584000,EC2A 2FG,F,N,L,2,Flat 4002,Principal Place,,London
+2022-09-15,1060200,EC2A 2FJ,F,Y,L,19,Apartment S1404,Sun Street,,London
+2022-09-13,1032300,EC2A 2FE,F,N,L,2,Flat 2902,Principal Place,,London
+2022-09-09,1100000,EC2A 2FE,F,N,L,2,Flat 2001,Principal Place,,London
+2022-08-26,765000,EC2A 4BW,F,N,L,15,Flat 9,Leonard Street,,London
+2022-08-22,1492400,EC2A 2FJ,F,Y,L,19,Apartment S1803,Sun Street,,London
+2022-08-19,1217130,EC2A 2FB,F,N,L,2,Flat 208,Principal Place,,London
+2022-08-05,1680000,EC2A 2FG,F,N,L,2,Flat 4203,Principal Place,,London
+2022-08-02,1519700,EC2A 2FJ,F,Y,L,19,Apartment S2103,Sun Street,,London
+2022-07-29,1220000,EC2A 4LX,F,N,L,"Galaxy House, 32",Flat 14,Leonard Street,,London
+2022-07-27,427500,EC2A 4EE,F,N,L,Victoria Chambers,Flat 17,Luke Street,,London
+2022-07-07,1200000,EC2A 3PT,F,N,L,"Butler House, 51",Flat 5,Curtain Road,,London
+2022-07-01,1157000,EC2A 2FJ,F,Y,L,19,Apartment N1107,Sun Street,,London
+2022-06-27,755000,EC2A 3BS,F,N,L,75,Flat 1,Curtain Road,,London
+2022-06-17,955000,EC2A 4AP,F,N,L,25,Ground Floor And Basement,Cowper Street,,London
+2022-06-16,645000,EC2A 4BY,F,N,L,24,Apartment 3,Leonard Street,,London
+2022-05-20,975000,EC2A 3HH,F,N,L,1 - 6,Flat 28,Batemans Row,,London
+2022-05-18,576500,EC2A 3LX,F,N,L,40,Flat 3,Rivington Street,,London
+2022-04-22,1060000,EC2A 2FB,F,N,L,2 Principal Place,Flat 605,Worship Street,,London
+2022-04-20,1100000,EC2A 4LE,F,N,L,City Lofts 112-116,Flat 4,Tabernacle Street,,London
+2022-03-31,1700000,EC2A 3BF,F,N,L,3,Flat 6,Mills Court,Hackney,London
+2022-03-31,1283100,EC2A 2FJ,F,Y,L,19,Apartment N2406,Sun Street,,London
+2022-03-30,1287000,EC2A 2FJ,F,Y,L,19,Apartment S1902,Sun Street,,London
+2022-03-21,988000,EC2A 2FJ,F,Y,L,19,Apartment N1201,Sun Street,,London
+2022-03-18,783000,EC2A 4AA,F,N,L,47,Flat 1,Tabernacle Street,,London
+2022-03-04,2932960,EC2A 2FG,F,N,L,2,Flat 4301,Principal Place,,London
+2022-02-28,586000,EC2A 4PA,F,N,L,1 - 4,Flat 11,Christina Street,,London
+2022-02-16,840000,EC2A 2FB,F,N,L,2,Flat 306,Principal Place,,London
+2022-01-24,947600,EC2A 2FJ,F,Y,L,19,Apartment N1302,Sun Street,,London
+2022-01-20,1539700,EC2A 2FJ,F,Y,L,19,Apartment S1205,Sun Street,,London
+2021-12-14,1002250,EC2A 2FJ,F,Y,L,19,Apartment N2201,Sun Street,,London
+2021-12-14,800375,EC2A 2FJ,F,Y,L,19,Apartment N0907,Sun Street,,London
+2021-12-08,440000,EC2A 4EE,F,N,L,Victoria Chambers,Flat 4,Luke Street,,London
+2021-12-08,1593100,EC2A 2FJ,F,Y,L,19,Apartment S1705,Sun Street,,London
+2021-12-02,926100,EC2A 2FJ,F,Y,L,19,Apartment S1606,Sun Street,,London
+2021-11-29,868150,EC2A 2FJ,F,Y,L,19,Apartment N1903,Sun Street,,London
+2021-11-24,1638000,EC2A 2FJ,F,Y,L,19,Apartment S2005,Sun Street,,London
+2021-11-24,2316250,EC2A 2FJ,F,Y,L,19,Apartment N1602,Sun Street,,London
+2021-11-22,1100000,EC2A 2AH,F,N,L,34,Flat 5,Worship Street,,London
+2021-11-19,880000,EC2A 2FJ,F,Y,L,19,Apartment N1502,Sun Street,,London
+2021-10-22,1320000,EC2A 2FJ,F,Y,L,19,Apartment N2405,Sun Street,,London
+2021-10-05,1269000,EC2A 2FJ,F,Y,L,19,Apartment N2306,Sun Street,,London
+2021-10-01,1029600,EC2A 2FJ,F,Y,L,19,Apartment S2504,Sun Street,,London
+2021-09-29,1302400,EC2A 2FJ,F,Y,L,19,Apartment S1202,Sun Street,,London
+2021-09-24,1327900,EC2A 2FJ,F,Y,L,19,Apartment N1503,Sun Street,,London
+2021-09-24,800950,EC2A 2FJ,F,Y,L,19,Apartment N0806,Sun Street,,London
+2021-09-20,880000,EC2A 4LX,F,N,L,"Galaxy House, 32",Flat 16,Leonard Street,,London
+2021-09-02,1050600,EC2A 2FJ,F,Y,L,19,Apartment S2106,Sun Street,,London
+2021-08-31,1477400,EC2A 2FJ,F,Y,L,19,Apartment S2003,Sun Street,,London
+2021-08-27,975000,EC2A 3BX,F,N,L,133,Flat 2,Curtain Road,,London
+2021-08-24,1396000,EC2A 2FJ,F,Y,L,19,Apartment N1303,Sun Street,,London
+2021-08-23,1251000,EC2A 2FJ,F,Y,L,19,Apartment S1502,Sun Street,,London
+2021-08-20,916750,EC2A 2FJ,F,Y,L,19,Apartment N2003,Sun Street,,London
+2021-08-20,1036000,EC2A 2FJ,F,Y,L,19,Apartment N2001,Sun Street,,London
+2021-08-17,1103900,EC2A 2FJ,F,N,L,19,Apartment S2206,Sun Street,,London
+2021-08-16,865340,EC2A 2FJ,F,Y,L,19,Apartment S1005,Sun Street,,London
+2021-08-16,919000,EC2A 2FJ,F,Y,L,19,Apartment S0804,Sun Street,,London
+2021-08-13,947660,EC2A 2FJ,F,Y,L,19,Apartment S1504,Sun Street,,London
+2021-08-12,1230000,EC2A 2FJ,F,Y,L,19,Apartment N1605,Sun Street,,London
+2021-08-10,1314350,EC2A 2FJ,F,Y,L,19,Apartment N0903,Sun Street,,London
+2021-08-06,920000,EC2A 4NQ,F,N,L,89,Flat 2,Paul Street,,London
+2021-07-30,1995000,EC2A 2FJ,F,Y,L,19,Apartment N0701,Sun Street,,London
+2021-07-28,871780,EC2A 2FJ,F,Y,L,19,Apartment S1601,Sun Street,,London
+2021-07-27,1269000,EC2A 2FJ,F,Y,L,19,Apartment S1702,Sun Street,,London
+2021-07-27,1314350,EC2A 2FJ,F,Y,L,19,Apartment N2205,Sun Street,,London
+2021-07-22,1224000,EC2A 2FJ,F,Y,L,19,Apartment S1002,Sun Street,,London
+2021-07-16,772240,EC2A 2FJ,F,Y,L,19,Apartment S0907,Sun Street,,London
+2021-07-16,849660,EC2A 2FJ,F,Y,L,19,Apartment S0901,Sun Street,,London
+2021-07-13,853125,EC2A 2FJ,F,Y,L,19,Apartment N0808,Sun Street,,London
+2021-07-12,856800,EC2A 2FJ,F,Y,L,19,Apartment S1501,Sun Street,,London
+2021-07-09,2140000,EC2A 4BY,F,N,L,24,Penthouse 43,Leonard Street,,London
+2021-07-07,840000,EC2A 2FJ,F,Y,L,19,Apartment N1504,Sun Street,,London
+2021-07-05,877850,EC2A 2FJ,F,Y,L,19,Apartment N2103,Sun Street,,London
+2021-07-01,1455000,EC2A 2FJ,F,Y,L,19,Apartment S2203,Sun Street,,London
+2021-07-01,990000,EC2A 2FJ,F,Y,L,19,Apartment N0801,Sun Street,,London
+2021-06-30,560000,EC2A 4NY,F,N,L,91 - 93,Flat 5,Paul Street,,London
+2021-06-30,450000,EC2A 4JJ,F,N,L,7A,,Paul Street,,London
+2021-06-30,640000,EC2A 4BF,F,N,L,9,Flat 2,Leonard Street,,London
+2021-06-30,875000,EC2A 3QR,F,N,L,60,Flat 3,Great Eastern Street,,London
+2021-06-30,722000,EC2A 2FJ,F,N,L,19,Apartment N0909,Sun Street,,London
+2021-06-30,1256150,EC2A 2FJ,F,Y,L,19,Apartment N1206,Sun Street,,London
+2021-06-30,787500,EC2A 2FJ,F,Y,L,19,Apartment S0801,Sun Street,,London
+2021-06-30,735000,EC2A 2FJ,F,Y,L,19,Apartment N0805,Sun Street,,London
+2021-06-30,830000,EC2A 2FJ,F,Y,L,19,Apartment N1006,Sun Street,,London
+2021-06-30,775125,EC2A 2FJ,F,Y,L,19,Apartment N0802,Sun Street,,London
+2021-06-30,1212500,EC2A 2FJ,F,Y,L,19,Apartment N1406,Sun Street,,London
+2021-06-30,916300,EC2A 2FJ,F,Y,L,19,Apartment S0904,Sun Street,,London
+2021-06-30,911800,EC2A 2FJ,F,Y,L,19,Apartment N2403,Sun Street,,London
+2021-06-30,871200,EC2A 2FJ,F,Y,L,19,Apartment N1703,Sun Street,,London
+2021-06-30,1348000,EC2A 2FJ,F,Y,L,19,Apartment N2005,Sun Street,,London
+2021-06-30,993600,EC2A 2FJ,F,Y,L,19,Apartment S2004,Sun Street,,London
+2021-06-30,982940,EC2A 2FJ,F,Y,L,19,Apartment S2104,Sun Street,,London
+2021-06-30,1129500,EC2A 2FJ,F,Y,L,19,Apartment N1207,Sun Street,,London
+2021-06-30,936880,EC2A 2FJ,F,Y,L,19,Apartment S1806,Sun Street,,London
+2021-06-30,845000,EC2A 2FJ,F,Y,L,19,Apartment N1204,Sun Street,,London
+2021-06-30,808500,EC2A 2FJ,F,Y,L,19,Apartment N1301,Sun Street,,London
+2021-06-30,828750,EC2A 2FJ,F,Y,L,19,Apartment N1205,Sun Street,,London
+2021-06-30,1143000,EC2A 2FJ,F,Y,L,19,Apartment S0802,Sun Street,,London
+2021-06-30,865800,EC2A 2FJ,F,Y,L,19,Apartment S0702,Sun Street,,London
+2021-06-30,936975,EC2A 2FJ,F,Y,L,19,Apartment S1906,Sun Street,,London
+2021-06-30,1138500,EC2A 2FJ,F,Y,L,19,Apartment N1307,Sun Street,,London
+2021-06-29,157500,EC2A 4AN,F,N,L,7,Flat 35,Leonard Street,,London
+2021-06-29,1281000,EC2A 3QR,F,N,L,60,Flat 7,Great Eastern Street,,London
+2021-06-29,1610000,EC2A 2FJ,F,Y,L,19,Apartment S1505,Sun Street,,London
+2021-06-29,985000,EC2A 2FJ,F,Y,L,19,Apartment N1601,Sun Street,,London
+2021-06-29,808500,EC2A 2FJ,F,Y,L,19,Apartment S0704,Sun Street,,London
+2021-06-29,868800,EC2A 2FJ,F,Y,L,19,Apartment N1505,Sun Street,,London
+2021-06-29,1311000,EC2A 2FJ,F,Y,L,19,Apartment N1003,Sun Street,,London
+2021-06-29,867600,EC2A 2FJ,F,Y,L,19,Apartment S1701,Sun Street,,London
+2021-06-29,1245000,EC2A 2FJ,F,Y,L,19,Apartment S1102,Sun Street,,London
+2021-06-29,768000,EC2A 2FJ,F,Y,L,19,Apartment S0808,Sun Street,,London
+2021-06-29,819000,EC2A 2FJ,F,Y,L,19,Apartment N1105,Sun Street,,London
+2021-06-29,814125,EC2A 2FJ,F,Y,L,19,Apartment N0807,Sun Street,,London
+2021-06-29,801450,EC2A 2FJ,F,Y,L,19,Apartment N1104,Sun Street,,London
+2021-06-29,795400,EC2A 2FJ,F,Y,L,19,Apartment N1002,Sun Street,,London
+2021-06-28,830000,EC2A 4PA,F,N,L,1 - 4,Flat 19,Christina Street,,London
+2021-06-28,370000,EC2A 3EN,F,N,L,"Pennybank Chambers, 1",Flat 4D,Fairchild Place,,London
+2021-06-28,799500,EC2A 2FJ,F,Y,L,19,Apartment N1001,Sun Street,,London
+2021-06-28,828000,EC2A 2FJ,F,Y,L,19,Apartment N1604,Sun Street,,London
+2021-06-28,819000,EC2A 2FJ,F,Y,L,19,Apartment N1101,Sun Street,,London
+2021-06-28,997000,EC2A 2FJ,F,Y,L,19,Apartment S1904,Sun Street,,London
+2021-06-28,921500,EC2A 2FJ,F,Y,L,19,Apartment N1803,Sun Street,,London
+2021-06-28,832500,EC2A 2FJ,F,Y,L,19,Apartment N1704,Sun Street,,London
+2021-06-28,818300,EC2A 2FJ,F,Y,L,19,Apartment S0703,Sun Street,,London
+2021-06-28,940800,EC2A 2FJ,F,Y,L,19,Apartment S1104,Sun Street,,London
+2021-06-28,888000,EC2A 2FJ,F,Y,L,19,Apartment S0908,Sun Street,,London
+2021-06-28,888000,EC2A 2FJ,F,Y,L,19,Apartment S1101,Sun Street,,London
+2021-06-28,931980,EC2A 2FJ,F,Y,L,19,Apartment S1706,Sun Street,,London
+2021-06-28,755000,EC2A 2FJ,F,Y,L,19,Apartment N1005,Sun Street,,London
+2021-06-28,1179000,EC2A 2FJ,F,Y,L,19,Apartment S1001,Sun Street,,London
+2021-06-28,967260,EC2A 2FJ,F,Y,L,19,Apartment S1804,Sun Street,,London
+2021-06-28,957460,EC2A 2FJ,F,Y,L,19,Apartment S1704,Sun Street,,London
+2021-06-28,1021500,EC2A 2FJ,F,Y,L,19,Apartment N1801,Sun Street,,London
+2021-06-28,891480,EC2A 2FJ,F,Y,L,19,Apartment S1801,Sun Street,,London
+2021-06-28,815850,EC2A 2FJ,F,Y,L,19,Apartment N0906,Sun Street,,London
+2021-06-28,830000,EC2A 2FJ,F,Y,L,19,Apartment N1401,Sun Street,,London
+2021-06-28,918000,EC2A 2FJ,F,Y,L,19,Apartment N0904,Sun Street,,London
+2021-06-28,725000,EC2A 2FJ,F,Y,L,19,Apartment N0905,Sun Street,,London
+2021-06-28,930825,EC2A 2FJ,F,Y,L,19,Apartment S1003,Sun Street,,London
+2021-06-28,1198500,EC2A 2FJ,F,Y,L,19,Apartment N1407,Sun Street,,London
+2021-06-28,805000,EC2A 2FJ,F,Y,L,19,Apartment N1402,Sun Street,,London
+2021-06-25,836000,EC2A 3HH,F,N,L,1 - 6,Flat 9,Batemans Row,,London
+2021-06-25,1272375,EC2A 2FJ,F,Y,L,19,Apartment N1306,Sun Street,,London
+2021-06-25,841500,EC2A 2FJ,F,Y,L,19,Apartment N1904,Sun Street,,London
+2021-06-25,1214995,EC2A 2FJ,F,Y,L,19,Apartment N1906,Sun Street,,London
+2021-06-25,1306400,EC2A 2FJ,F,Y,L,19,Apartment S1802,Sun Street,,London
+2021-06-25,884640,EC2A 2FJ,F,Y,L,19,Apartment N2303,Sun Street,,London
+2021-06-25,1205955,EC2A 2FJ,F,Y,L,19,Apartment N1806,Sun Street,,London
+2021-06-25,1285000,EC2A 2FJ,F,Y,L,19,Apartment N1905,Sun Street,,London
+2021-06-25,1192455,EC2A 2FJ,F,Y,L,19,Apartment N1706,Sun Street,,London
+2021-06-25,1073500,EC2A 2FJ,F,Y,L,19,Apartment S1204,Sun Street,,London
+2021-06-25,788900,EC2A 2FJ,F,Y,L,19,Apartment N0902,Sun Street,,London
+2021-06-25,850000,EC2A 2FJ,F,Y,L,19,Apartment N1603,Sun Street,,London
+2021-06-25,826650,EC2A 2FJ,F,Y,L,19,Apartment N1501,Sun Street,,London
+2021-06-25,1401400,EC2A 2FJ,F,Y,L,19,Apartment N1103,Sun Street,,London
+2021-06-25,882700,EC2A 2FJ,F,Y,L,19,Apartment N2203,Sun Street,,London
+2021-06-24,816750,EC2A 3HH,F,N,L,1 - 6,Flat 3,Batemans Row,,London
+2021-06-24,1066000,EC2A 2FJ,F,Y,L,19,Apartment N2501,Sun Street,,London
+2021-06-24,1152550,EC2A 2FJ,F,Y,L,19,Apartment N1507,Sun Street,,London
+2021-06-24,1430400,EC2A 2FJ,F,Y,L,19,Apartment S1903,Sun Street,,London
+2021-06-24,788900,EC2A 2FJ,F,Y,L,19,Apartment N0901,Sun Street,,London
+2021-06-24,1353600,EC2A 2FJ,F,Y,L,19,Apartment S2002,Sun Street,,London
+2021-06-24,1217350,EC2A 2FJ,F,Y,L,19,Apartment N1506,Sun Street,,London
+2021-06-23,1022900,EC2A 2FJ,F,Y,L,19,Apartment N1701,Sun Street,,London
+2021-06-23,855600,EC2A 2FJ,F,Y,L,19,Apartment N1804,Sun Street,,London
+2021-06-23,1083000,EC2A 2FJ,F,Y,L,19,Apartment N2601,Sun Street,,London
+2021-06-23,970000,EC2A 2FJ,F,Y,L,19,Apartment S2006,Sun Street,,London
+2021-06-23,997975,EC2A 2FJ,F,Y,L,19,Apartment S2204,Sun Street,,London
+2021-06-23,1430400,EC2A 2FJ,T,Y,L,19,Apartment S2303,Sun Street,,London
+2021-06-23,1499000,EC2A 2FJ,F,Y,L,19,Apartment S1805,Sun Street,,London
+2021-06-23,815360,EC2A 2FJ,F,Y,L,19,Apartment N1304,Sun Street,,London
+2021-06-23,828750,EC2A 2FJ,F,Y,L,19,Apartment N1102,Sun Street,,London
+2021-06-23,1342600,EC2A 2FJ,F,Y,L,19,Apartment N1203,Sun Street,,London
+2021-06-23,1800000,EC2A 2FJ,F,Y,L,19,Apartment S2305,Sun Street,,London
+2021-06-23,1043700,EC2A 2FJ,F,Y,L,19,Apartment S2604,Sun Street,,London
+2021-06-23,876600,EC2A 2FJ,F,Y,L,19,Apartment S1901,Sun Street,,London
+2021-06-22,1207853,EC2A 2FJ,F,Y,L,19,Apartment N1106,Sun Street,,London
+2021-06-22,1497600,EC2A 2FJ,F,Y,L,19,Apartment S2602,Sun Street,,London
+2021-06-22,1288000,EC2A 2FJ,F,Y,L,19,Apartment S1602,Sun Street,,London
+2021-06-22,1304203,EC2A 2FJ,F,Y,L,19,Apartment N2006,Sun Street,,London
+2021-06-22,1005000,EC2A 2FJ,F,Y,L,19,Apartment N2401,Sun Street,,London
+2021-06-22,1020000,EC2A 2FJ,F,Y,L,19,Apartment N1901,Sun Street,,London
+2021-06-21,1377000,EC2A 2FJ,F,Y,L,19,Apartment S1103,Sun Street,,London
+2021-06-21,1119300,EC2A 2FJ,F,Y,L,19,Apartment S2304,Sun Street,,London
+2021-06-18,1282500,EC2A 2FJ,F,Y,L,19,Apartment N1403,Sun Street,,London
+2021-06-18,1311000,EC2A 2FJ,F,Y,L,19,Apartment N2305,Sun Street,,London
+2021-06-16,1470000,EC2A 2FJ,F,Y,L,19,Apartment N2105,Sun Street,,London
+2021-06-11,1065000,EC2A 2FJ,F,Y,L,19,Apartment N1004,Sun Street,,London
+2021-06-03,997500,EC2A 2FJ,F,N,L,19,Apartment N2101,Sun Street,,London
+2021-05-25,650000,EC2A 3HH,F,N,L,1 - 6,Flat 20,Batemans Row,,London
+2021-03-19,631000,EC2A 4NY,F,N,L,91 - 93,Flat 1,Paul Street,,London
+2021-03-18,845000,EC2A 3PR,F,N,L,7,Flat 18,New Inn Broadway,,London
+2021-03-11,620000,EC2A 4BY,F,N,L,24,Apartment 30,Leonard Street,,London
+2021-03-08,1440000,EC2A 2FE,F,Y,L,2,Flat 2504,Principal Place,,London
+2021-02-26,635000,EC2A 4BW,F,N,L,15,Flat 6,Leonard Street,,London
+2021-02-26,1089650,EC2A 2FF,F,Y,L,2,Flat 3502,Principal Place,,London
+2021-01-26,950000,EC2A 3QQ,F,N,L,61A,,Rivington Street,,London
+2021-01-15,1090328,EC2A 2FF,F,Y,L,2,Flat 3702,Principal Place,,London
+2021-01-11,1085760,EC2A 2FE,F,Y,L,2,Flat 2906,Principal Place,,London

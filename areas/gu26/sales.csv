@@ -1,0 +1,706 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-20,605000,GU26 6LU,S,N,F,Glen-Myra,,Whitmore Vale Road,Grayshott,Hindhead
+2026-08-07,510000,GU26 6UY,T,N,F,31,,Hunters Place,,Hindhead
+2026-07-30,311250,GU26 6SP,F,N,L,Brambledown,12,Tower Road,,Hindhead
+2026-07-29,1030000,GU26 6JB,D,N,F,Little Wood,,Whitmore Vale,Grayshott,Hindhead
+2026-07-27,1294000,GU26 6TB,D,N,F,"Holly Lodge, 2",,Greening Wood,,Hindhead
+2026-07-09,606500,GU26 6PE,D,N,F,The Quotient,,Churt Road,,Hindhead
+2026-07-07,263000,GU26 6UB,F,N,L,Rockdale House,3,Rockdale Drive,Grayshott,Hindhead
+2026-07-01,605000,GU26 6PJ,D,N,F,The Links,,Fairways,,Hindhead
+2026-07-01,630000,GU26 6LU,S,N,F,Whitmore Hill Cottages,2,Whitmore Vale Road,Grayshott,Hindhead
+2026-06-26,1295000,GU26 6PP,D,N,F,8,,Hillgarth,,Hindhead
+2026-06-26,1088000,GU26 6FQ,D,N,F,Stringers,,Portsmouth Road,Bramshott Chase,Hindhead
+2026-06-09,1500000,GU26 6JA,D,N,F,Bracken House,,Whitmore Vale Road,,Hindhead
+2026-05-14,285000,GU26 6HD,F,N,L,Ensleigh,Flat 1,Crossways Road,Grayshott,Hindhead
+2026-05-14,215000,GU26 6FR,F,N,L,Pevensey,2,Beacon Hill Road,,Hindhead
+2026-05-01,642000,GU26 6FW,D,N,F,1,,Beechen Row,Grayshott,Hindhead
+2026-05-01,279750,GU26 6FS,F,N,L,Watson Grove,Flat 4,Headley Road,Grayshott,Hindhead
+2026-04-30,410000,GU26 6RQ,T,N,F,Northwood Cottages,13,Tilford Road,,Hindhead
+2026-04-27,475000,GU26 6RU,D,N,F,Tanglewood,,Sandheath Road,,Hindhead
+2026-04-24,205000,GU26 6PW,F,N,L,Highcroft,5,Wood Road,,Hindhead
+2026-04-21,330000,GU26 6SH,F,N,L,Thirlestane Court,6,Tilford Road,,Hindhead
+2026-04-17,875000,GU26 6QD,D,N,F,Restmaur,,Beacon Hill Road,,Hindhead
+2026-04-16,615000,GU26 6FU,S,N,F,21,,Tennyson Way,Grayshott,Hindhead
+2026-04-16,1000000,GU26 6BE,D,N,F,Red Beech Cottage,,Polecat Valley,,Hindhead
+2026-04-13,200000,GU26 6PW,F,N,L,Highcroft,4,Wood Road,,Hindhead
+2026-04-13,670000,GU26 6AP,T,N,F,1,,Tyndalls,,Hindhead
+2026-04-08,164500,GU26 6LG,F,N,L,Beacon View House,Flat 5,Headley Road,Grayshott,Hindhead
+2026-04-07,254000,GU26 6SH,F,N,L,Thirlestane Court,4,Tilford Road,,Hindhead
+2026-03-31,1602500,GU26 6TP,D,N,F,Tarn Cottage,,Tarn Road,,Hindhead
+2026-03-31,156000,GU26 6FR,F,N,L,Pevensey,4,Beacon Hill Road,,Hindhead
+2026-03-30,590500,GU26 6LS,S,N,F,3,,Beech Hanger Road,Grayshott,Hindhead
+2026-03-30,487500,GU26 6FB,T,N,F,5,,Royal Huts Avenue,,Hindhead
+2026-03-27,185000,GU26 6SD,F,N,L,38,,The Moorings,,Hindhead
+2026-03-25,210000,GU26 6LQ,F,N,L,5,First And Second Floor Flat,The Square,Grayshott,Hindhead
+2026-03-20,660000,GU26 6EF,D,N,F,Pinetrees,,The Paddock,Grayshott,Hindhead
+2026-03-18,535000,GU26 6UL,T,N,F,2,,Stronsay Close,,Hindhead
+2026-03-17,523500,GU26 6QD,S,N,F,Vintas,,Beacon Hill Road,,Hindhead
+2026-03-17,1200000,GU26 6EU,D,N,F,30,,Kingswood Firs,Grayshott,Hindhead
+2026-03-06,280000,GU26 6AA,F,N,L,Exchange House,1,Hindhead Road,,Hindhead
+2026-03-04,750000,GU26 6EE,D,N,F,94,,Halters End,Grayshott,Hindhead
+2026-02-27,628000,GU26 6RP,D,N,F,Clover Cottage,,Clovelly Road,,Hindhead
+2026-02-27,250000,GU26 6HG,F,N,L,Harlequin House,Flat 3,Crossways Road,Grayshott,Hindhead
+2026-02-20,220000,GU26 6TN,F,N,L,Cornerway Lodge,Flat 22,Headley Road,,Hindhead
+2026-02-20,275000,GU26 6SP,F,N,L,Brambledown,4A,Tower Road,,Hindhead
+2026-02-20,182000,GU26 6PW,F,N,L,Highcroft,19,Wood Road,,Hindhead
+2026-02-20,1055000,GU26 6JA,D,N,F,Green Pines,,Whitmore Vale Road,,Hindhead
+2026-02-17,339000,GU26 6UG,F,N,L,30,,Beacon Crescent,,Hindhead
+2026-02-13,727000,GU26 6EB,D,N,F,85,,Wheelwrights Lane,Grayshott,Hindhead
+2026-02-12,1050000,GU26 6ER,D,N,F,71,,Kingswood Firs,Grayshott,Hindhead
+2026-02-12,420000,GU26 6EP,F,N,L,Tennyson Court,Flat 6,Tilford Road,,Hindhead
+2026-02-06,720000,GU26 6FQ,D,N,F,Hazelwood,,Portsmouth Road,,Hindhead
+2026-02-04,680000,GU26 6PG,D,N,F,Beechdown,,Steepways,,Hindhead
+2026-02-03,495000,GU26 6AP,T,N,F,28,,Tyndalls,,Hindhead
+2026-01-29,250000,GU26 6PU,F,N,L,35,,Beacon Hill Court,,Hindhead
+2026-01-23,300000,GU26 6UG,F,N,L,36,,Beacon Crescent,,Hindhead
+2026-01-19,207000,GU26 6LG,F,N,L,Oaklea House,Flat 4,Headley Road,Grayshott,Hindhead
+2026-01-15,515000,GU26 6LA,S,N,F,Maidstone Villa,,The Avenue,Grayshott,Hindhead
+2026-01-13,844000,GU26 6PX,D,N,F,Tresand,,Wood Road,,Hindhead
+2025-12-19,575000,GU26 6PB,D,N,F,Woodend,,Corry Road,,Hindhead
+2025-12-17,180000,GU26 6GX,T,N,L,25,,Canes Close,Grayshott,Hindhead
+2025-12-11,1147000,GU26 6TP,D,N,F,Merlewood,,Tarn Road,,Hindhead
+2025-12-08,355000,GU26 6UG,F,N,L,24,,Beacon Crescent,,Hindhead
+2025-12-05,1000000,GU26 6QX,D,N,F,3,,Ridgemoor Close,,Hindhead
+2025-12-04,595000,GU26 6SY,S,N,F,3,,Moorlands Close,,Hindhead
+2025-12-04,835000,GU26 6HL,S,N,F,Spurhill,,Hill Road,Grayshott,Hindhead
+2025-12-02,1650000,GU26 6GD,D,N,F,10,,Baskerville Drive,,Hindhead
+2025-12-01,1325000,GU26 6SS,D,N,F,26,,Pine Bank,,Hindhead
+2025-11-28,555000,GU26 6RH,S,N,F,Cornerways,,Tilford Road,,Hindhead
+2025-11-28,938000,GU26 6RD,S,N,F,Meldon Cottage,,Tilford Road,,Hindhead
+2025-11-14,462500,GU26 6UQ,S,N,F,9,,Writers Close,,Hindhead
+2025-11-14,825000,GU26 6GD,D,N,F,3,,Baskerville Drive,,Hindhead
+2025-11-07,335000,GU26 6RQ,T,N,F,Northwood Cottages,2,Tilford Road,,Hindhead
+2025-11-07,763000,GU26 6NE,S,N,F,"Fircroft, 5",,Glen Road,Grayshott,Hindhead
+2025-11-07,935000,GU26 6LX,D,N,F,Valley Rise,,Valewood Lane,Grayshott,Hindhead
+2025-11-04,278500,GU26 6TS,F,N,L,Oak House,Flat 4,Hurstmere Close,Grayshott,Hindhead
+2025-11-04,805000,GU26 6TG,D,N,F,Greenbank,,Highfield Crescent,,Hindhead
+2025-11-04,705000,GU26 6HL,S,N,F,White Cottage,,Hill Road,Grayshott,Hindhead
+2025-10-31,580000,GU26 6RD,D,N,F,Stanway,,Tilford Road,,Hindhead
+2025-10-31,225000,GU26 6AZ,F,N,L,4,,Nutcombe Hill,,Hindhead
+2025-10-29,1135000,GU26 6BJ,D,N,F,Loxwood House,,Hazel Grove,,Hindhead
+2025-10-20,500000,GU26 6RY,S,N,F,45,,Eight Acres,,Hindhead
+2025-10-20,200000,GU26 6HG,F,N,L,Pendarvis Court,Flat 1,Crossways Road,Grayshott,Hindhead
+2025-10-16,650000,GU26 6TG,D,N,F,Halkyn,,Highfield Crescent,,Hindhead
+2025-10-15,910000,GU26 6TR,D,N,F,1,,Hurstmere Close,Grayshott,Hindhead
+2025-10-15,815000,GU26 6EE,D,N,F,88,,Halters End,Grayshott,Hindhead
+2025-10-15,439000,GU26 6AZ,F,N,L,Nutcombe Hill,Flat 2,Hindhead Road,,Hindhead
+2025-10-14,515000,GU26 6LD,S,N,F,2,,Border Mews,Grayshott,Hindhead
+2025-10-14,688000,GU26 6DY,D,N,F,Little Waggoners,,The Spinney,Grayshott,Hindhead
+2025-10-10,500000,GU26 6QB,T,N,F,Halleys Cottage,,Beacon Hill Road,,Hindhead
+2025-10-07,90000,GU26 6TN,F,N,L,Cornerway Lodge,Flat 21,Headley Road,,Hindhead
+2025-10-03,375000,GU26 6QH,T,N,F,8,,Heath Cottages,,Hindhead
+2025-10-03,2100000,GU26 6EJ,D,N,F,Tyndall Grange,,Headley Road,Grayshott,Hindhead
+2025-10-02,440000,GU26 6TZ,T,N,F,Oak Cottage,1,Headley Road,Grayshott,Hindhead
+2025-10-02,210000,GU26 6SD,F,N,L,39,,The Moorings,,Hindhead
+2025-10-02,555000,GU26 6QN,S,N,F,East Cottages,4,Hill Road,,Hindhead
+2025-10-02,360000,GU26 6FL,T,N,F,Lunn Cottages,6,Tilford Road,,Hindhead
+2025-10-02,980000,GU26 6ET,D,N,F,26,,Kingswood Firs,Grayshott,Hindhead
+2025-09-30,266000,GU26 6PU,F,N,L,26,,Beacon Hill Court,,Hindhead
+2025-09-30,875000,GU26 6FU,D,N,F,45,,Tennyson Way,Grayshott,Hindhead
+2025-09-25,1200000,GU26 6TP,D,N,F,Holly Cottage,,Tarn Road,,Hindhead
+2025-09-24,700000,GU26 6JU,S,N,F,Gable Cottage,,The Avenue,Grayshott,Hindhead
+2025-09-19,1175000,GU26 6LF,D,N,F,Apley Court,,Headley Road,Grayshott,Hindhead
+2025-09-18,631500,GU26 6HL,S,N,F,Molbay,,Hill Road,Grayshott,Hindhead
+2025-09-18,780000,GU26 6EE,D,N,F,Chilworth,,Halters End,Grayshott,Hindhead
+2025-09-12,535000,GU26 6RU,D,N,F,Belmont,,Sandheath Road,,Hindhead
+2025-09-12,332000,GU26 6NB,T,N,F,Corner Cottages,3,Glen Road,Grayshott,Hindhead
+2025-09-10,675000,GU26 6BB,T,N,F,Longdown Cottages,1,Hindhead Road,,Hindhead
+2025-09-05,710000,GU26 6LT,S,N,F,7,,Beech Lane,Grayshott,Hindhead
+2025-09-05,1205000,GU26 6JF,D,N,F,Dormers,,Kiln Way,Grayshott,Hindhead
+2025-09-05,515000,GU26 6HE,D,N,F,Aston Cottage,,Crossways Road,Grayshott,Hindhead
+2025-09-05,1127300,GU26 6BE,D,N,F,Anthony Cottage,,Polecat Valley,,Hindhead
+2025-09-04,292500,GU26 6FF,F,N,L,46,,Royal Huts Avenue,,Hindhead
+2025-09-03,790000,GU26 6SX,D,N,F,5,,Glenville Gardens,,Hindhead
+2025-08-29,1525000,GU26 6SG,D,N,F,The Steading,,Mead Road,,Hindhead
+2025-08-29,130000,GU26 6PZ,F,N,L,Cornerways,2,Wood Road,,Hindhead
+2025-08-22,790000,GU26 6TR,D,N,F,7,,Hurstmere Close,Grayshott,Hindhead
+2025-08-22,195000,GU26 6SP,F,N,L,Brambledown,5,Tower Road,,Hindhead
+2025-08-22,890000,GU26 6BN,D,N,F,St Andrews,,High Pitfold,,Hindhead
+2025-08-12,1080000,GU26 6ER,D,N,F,"Blencathera, 62",,Kingswood Firs,Grayshott,Hindhead
+2025-08-04,116000,GU26 6TN,F,N,L,Cornerway Lodge,Flat 6,Headley Road,,Hindhead
+2025-08-04,230000,GU26 6TN,F,N,L,Cornerway Lodge,Flat 4,Headley Road,,Hindhead
+2025-08-04,605000,GU26 6QD,D,N,F,Highfield,,Beacon Hill Road,,Hindhead
+2025-07-30,496500,GU26 6LT,S,N,F,22,,Beech Lane,Grayshott,Hindhead
+2025-07-29,2450000,GU26 6JD,D,N,F,Oakwood House,,Hammer Lane,Grayshott,Hindhead
+2025-07-25,810000,GU26 6AW,D,N,F,Littleshaw,,Hindhead Road,,Hindhead
+2025-07-21,510000,GU26 6UY,T,N,F,33,,Hunters Place,,Hindhead
+2025-07-21,587500,GU26 6RW,D,N,F,Morcot,,Clovelly Road,,Hindhead
+2025-07-18,155000,GU26 6NR,F,N,L,10,,Hampton Terrace,,Hindhead
+2025-07-18,745000,GU26 6GJ,S,Y,F,8,,Hind Gardens,,Hindhead
+2025-07-11,1800000,GU26 6HT,D,N,F,Hurst Hill,,Churt Road,,Hindhead
+2025-07-03,1100000,GU26 6JQ,D,N,F,Rosewood,,Fir Way,Grayshott,Hindhead
+2025-06-27,185000,GU26 6SW,F,N,L,Heatherbank,Flat 2,Tower Road,,Hindhead
+2025-06-27,995000,GU26 6GH,D,Y,F,6,,Hudson Gardens,,Hindhead
+2025-06-20,985000,GU26 6HG,S,N,F,Glenhead,,Crossways Road,Grayshott,Hindhead
+2025-06-19,600000,GU26 6ES,D,N,F,"Morar, 42",,Kingswood Firs,Grayshott,Hindhead
+2025-06-13,865000,GU26 6FY,D,N,F,8,,Miller Avenue,Grayshott,Hindhead
+2025-05-29,1000000,GU26 6HX,D,N,F,Malabia,,Churt Road,,Hindhead
+2025-05-23,665000,GU26 6LB,D,N,F,1,,Tyler Mews,Grayshott,Hindhead
+2025-05-15,785000,GU26 6LY,D,N,F,Altyre,,Church Lane,Grayshott,Hindhead
+2025-05-13,375000,GU26 6JP,F,N,L,Grover's Manor,Flat 10,Wood Road,,Hindhead
+2025-05-09,485000,GU26 6RQ,T,N,F,Northwood Cottages,9,Tilford Road,,Hindhead
+2025-05-09,475000,GU26 6QW,S,N,F,Home Cottage,,Hill Road,,Hindhead
+2025-05-09,280000,GU26 6AA,F,N,L,Exchange House,1,Hindhead Road,,Hindhead
+2025-05-07,592500,GU26 6SX,D,N,F,8,,Glenville Gardens,,Hindhead
+2025-04-29,700000,GU26 6LZ,S,N,F,Taeping,,Avenue Road,Grayshott,Hindhead
+2025-04-29,750000,GU26 6HL,S,N,F,Chaverden Cottage,,Hill Road,Grayshott,Hindhead
+2025-04-22,245000,GU26 6AS,F,N,L,Russell Court,9,Heather Way,,Hindhead
+2025-04-14,1540000,GU26 6JD,D,N,F,Fairacre,,Hammer Lane,Grayshott,Hindhead
+2025-04-14,1300000,GU26 6ER,D,N,F,61,,Kingswood Firs,Grayshott,Hindhead
+2025-04-04,175000,GU26 6TN,F,N,L,Cornerway Lodge,Flat 14,Headley Road,,Hindhead
+2025-03-31,540000,GU26 6NR,D,N,F,Andeley,,Beacon Hill Road,,Hindhead
+2025-03-31,740000,GU26 6JB,D,N,F,Dovecote Cottage,,Whitmore Vale,Grayshott,Hindhead
+2025-03-28,1000000,GU26 6SL,D,N,F,Fox Warren,,Tower Road,,Hindhead
+2025-03-28,775000,GU26 6RU,D,N,F,Verulam,,Sandheath Road,,Hindhead
+2025-03-27,185000,GU26 6UA,F,N,L,The Gables,Flat 7,Headley Road,Grayshott,Hindhead
+2025-03-27,667000,GU26 6QW,D,N,F,Storrington,,Hill Road,,Hindhead
+2025-03-26,990000,GU26 6SW,D,N,F,Kismet,,Tower Road,,Hindhead
+2025-03-26,405000,GU26 6EP,F,N,L,Tennyson Court,Flat 5,Tilford Road,,Hindhead
+2025-03-21,1150000,GU26 6PN,D,N,F,9,,Trimmers Wood,,Hindhead
+2025-03-20,650000,GU26 6LS,S,N,F,22,,Beech Hanger Road,Grayshott,Hindhead
+2025-03-19,757000,GU26 6DX,D,N,F,51,,Waggoners Way,Grayshott,Hindhead
+2025-03-19,639000,GU26 6DX,D,N,F,34,,Waggoners Way,Grayshott,Hindhead
+2025-03-18,200000,GU26 6SW,F,N,L,Heatherbank,Flat 21,Tower Road,,Hindhead
+2025-03-05,115000,GU26 6TN,F,N,L,Cornerway Lodge,Flat 16,Headley Road,,Hindhead
+2025-02-28,265000,GU26 6LE,F,N,L,The Grove,Flat 12,Headley Road,Grayshott,Hindhead
+2025-02-28,1100000,GU26 6JB,D,N,F,Oaklands,,Whitmore Vale,Grayshott,Hindhead
+2025-02-26,995000,GU26 6JF,D,N,F,Minstead,,Kiln Way,Grayshott,Hindhead
+2025-02-25,432500,GU26 6LD,S,N,F,4,,Border Mews,Grayshott,Hindhead
+2025-02-20,1050000,GU26 6TL,D,N,F,Fairbanks,2,Headley Road,,Hindhead
+2025-02-07,1070000,GU26 6TL,D,N,F,Fairbanks,3,Headley Road,,Hindhead
+2025-01-31,335000,GU26 6AB,T,N,F,27,,London Road,,Hindhead
+2025-01-30,1275000,GU26 6SG,D,N,F,Pelham,,Mead Road,,Hindhead
+2025-01-30,1170000,GU26 6PH,D,N,F,Brackenwood,,Grove Road,,Hindhead
+2025-01-29,1395000,GU26 6SG,D,N,F,Merriemead,,Mead Road,,Hindhead
+2025-01-27,295000,GU26 6LR,F,N,L,Marcelle Court,4,School Road,Grayshott,Hindhead
+2025-01-24,475000,GU26 6RS,T,N,F,8,,Clovelly Drive,,Hindhead
+2025-01-24,783000,GU26 6EB,D,N,F,69,,Wheelwrights Lane,Grayshott,Hindhead
+2025-01-23,370000,GU26 6QE,S,N,F,Aldrans,,Glen Road,,Hindhead
+2025-01-17,1050000,GU26 6TL,D,N,F,Fairbanks,1,Headley Road,,Hindhead
+2025-01-17,680000,GU26 6PG,S,N,F,Rose Cottage,,Steepways,,Hindhead
+2025-01-15,265000,GU26 6LE,F,N,L,The Grove,Flat 10,Headley Road,Grayshott,Hindhead
+2025-01-15,1800000,GU26 6HY,D,N,F,Pine House,,Churt Road,,Hindhead
+2025-01-09,95000,GU26 6TN,F,N,L,Cornerway Lodge,Flat 17,Headley Road,,Hindhead
+2025-01-08,463551,GU26 6BE,D,N,F,Angle Cottage,,Polecat Valley,,Hindhead
+2024-12-16,550000,GU26 6QR,S,N,F,Grove Cottages,1,Grove Road,,Hindhead
+2024-12-13,455000,GU26 6UF,S,N,F,2,,Thistledown,,Hindhead
+2024-12-05,80000,GU26 6UJ,F,N,L,Summerhouse Court,5,Headley Road,Grayshott,Hindhead
+2024-12-05,1050000,GU26 6DN,D,N,L,Summerden South,,Waggoners Wells,Grayshott,Hindhead
+2024-11-14,564000,GU26 6FT,S,N,F,4,,Coopers Court,,Hindhead
+2024-11-08,615000,GU26 6TG,D,N,F,Easdale,,Highfield Crescent,,Hindhead
+2024-11-01,1010000,GU26 6SS,D,N,F,24,,Pine Bank,,Hindhead
+2024-11-01,575000,GU26 6RW,S,N,F,Little Pines,,Clovelly Road,,Hindhead
+2024-10-25,585000,GU26 6HZ,S,N,F,Bunker,,Churt Road,,Hindhead
+2024-10-25,315000,GU26 6FS,F,N,L,Watson Grove,Flat 6,Headley Road,Grayshott,Hindhead
+2024-10-25,800000,GU26 6EY,D,N,F,"Seven, 7",,Mowatt Road,Grayshott,Hindhead
+2024-10-25,1415000,GU26 6ET,D,N,F,27,,Kingswood Firs,Grayshott,Hindhead
+2024-10-18,600000,GU26 6TU,T,N,F,Rockdale,3,Headley Road,Grayshott,Hindhead
+2024-10-16,200000,GU26 6QL,F,N,L,Marlborough House,Flat 1,Beacon Hill Road,,Hindhead
+2024-10-10,1395000,GU26 6SN,D,N,F,Woodspring,,Tower Road,,Hindhead
+2024-09-26,710000,GU26 6DX,D,N,F,49,,Waggoners Way,Grayshott,Hindhead
+2024-09-23,950000,GU26 6EX,D,N,F,77,,Kingswood Firs,Grayshott,Hindhead
+2024-09-18,705000,GU26 6TZ,T,N,F,Lyncot,,Headley Road,Grayshott,Hindhead
+2024-09-16,1091500,GU26 6QP,D,N,F,Good Haven,,Grove Road,,Hindhead
+2024-09-12,875000,GU26 6FU,D,N,F,45,,Tennyson Way,Grayshott,Hindhead
+2024-09-11,1150000,GU26 6TP,D,N,F,Tarn End,,Tarn Road,,Hindhead
+2024-09-06,768000,GU26 6LZ,D,N,F,Gullivers,,Avenue Road,Grayshott,Hindhead
+2024-09-06,595000,GU26 6LS,S,N,F,21,,Beech Hanger Road,Grayshott,Hindhead
+2024-09-05,745000,GU26 6HD,D,N,F,Stoney Bottom House,,Crossways Road,Grayshott,Hindhead
+2024-09-04,810000,GU26 6DX,D,N,F,40,,Waggoners Way,Grayshott,Hindhead
+2024-08-29,725000,GU26 6QN,S,N,F,Redlands,,Hill Road,,Hindhead
+2024-08-28,900000,GU26 6TW,D,N,F,22,,Rozeldene,,Hindhead
+2024-08-28,265000,GU26 6ST,F,N,L,7,,Bramley Croft,,Hindhead
+2024-08-28,750000,GU26 6RW,S,N,F,Croft Corner,,Clovelly Road,,Hindhead
+2024-08-23,482500,GU26 6UY,T,N,F,32,,Hunters Place,,Hindhead
+2024-08-22,1180000,GU26 6JA,D,N,F,March Hares,,Whitmore Vale Road,,Hindhead
+2024-08-21,264000,GU26 6JS,F,N,L,Woolmer View,Flat 8,The Avenue,Grayshott,Hindhead
+2024-08-16,935000,GU26 6LX,D,N,F,Valley View,,Valewood Lane,Grayshott,Hindhead
+2024-08-15,915000,GU26 6AX,S,N,F,Hindmoor Manor,4,Hindhead Road,,Hindhead
+2024-08-14,96000,GU26 6TN,F,N,L,Cornerway Lodge,Flat 11,Headley Road,,Hindhead
+2024-08-14,1037000,GU26 6NX,D,N,F,Laurel Cottage,,Linkside South,,Hindhead
+2024-08-14,680000,GU26 6LD,T,N,F,The Pines,3,Headley Road,Grayshott,Hindhead
+2024-08-12,1525000,GU26 6PP,D,N,F,5,,Hillgarth,,Hindhead
+2024-08-09,370000,GU26 6UY,T,N,F,12,,Hunters Place,,Hindhead
+2024-08-09,178000,GU26 6SW,F,N,L,Heatherbank,Flat 17,Tower Road,,Hindhead
+2024-08-05,94000,GU26 6UJ,F,N,L,Summerhouse Court,15,Headley Road,Grayshott,Hindhead
+2024-07-30,562000,GU26 6QQ,S,N,F,Glen View,1,Beacon Hill Road,,Hindhead
+2024-07-26,320000,GU26 6SN,F,N,L,Wheelside,Flat 3,Tower Road,,Hindhead
+2024-07-26,645000,GU26 6LZ,S,N,F,The Mousehole,,Avenue Road,Grayshott,Hindhead
+2024-07-26,185000,GU26 6HR,F,N,L,19,,St Austins,Grayshott,Hindhead
+2024-07-26,345000,GU26 6HD,F,N,L,Ensleigh,Flat 2,Crossways Road,Grayshott,Hindhead
+2024-07-25,325000,GU26 6HQ,F,N,L,Edinburgh House,Flat 3,Jubilee Lane,Grayshott,Hindhead
+2024-07-19,415000,GU26 6UY,T,N,F,19,,Hunters Place,,Hindhead
+2024-07-19,310000,GU26 6PU,F,N,L,28,,Beacon Hill Court,,Hindhead
+2024-07-19,240000,GU26 6LE,T,N,F,2A,,Headley Road,Grayshott,Hindhead
+2024-07-19,1400000,GU26 6EX,D,N,F,75,,Kingswood Firs,Grayshott,Hindhead
+2024-07-18,800000,GU26 6PY,D,N,F,4,,Downview Close,,Hindhead
+2024-07-12,351000,GU26 6SN,F,N,L,Wheelside,Flat 5,Tower Road,,Hindhead
+2024-07-08,1400000,GU26 6PP,D,N,F,15,,Hillgarth,,Hindhead
+2024-07-05,340000,GU26 6UQ,T,N,F,5,,Writers Close,,Hindhead
+2024-07-03,535000,GU26 6RU,D,N,F,Robin Dale,,Sandheath Road,,Hindhead
+2024-07-02,295000,GU26 6FF,F,N,L,43,,Royal Huts Avenue,,Hindhead
+2024-06-28,687500,GU26 6PB,D,N,F,Corrie Edge,,Corry Road,,Hindhead
+2024-06-28,1025000,GU26 6JB,D,N,F,Melsetter,,Whitmore Vale,Grayshott,Hindhead
+2024-06-27,480000,GU26 6RY,S,N,F,7,,Eight Acres,,Hindhead
+2024-06-26,700000,GU26 6DT,D,N,F,Ladsland,,Waggoners Wells Lane,Grayshott,Hindhead
+2024-06-25,182000,GU26 6LE,F,N,L,The Grove,Flat 6,Headley Road,Grayshott,Hindhead
+2024-06-21,467500,GU26 6FB,S,N,F,21,,Royal Huts Avenue,,Hindhead
+2024-06-14,455000,GU26 6UY,T,N,F,21,,Hunters Place,,Hindhead
+2024-06-14,755000,GU26 6LY,D,N,F,Sandown,,Church Lane,Grayshott,Hindhead
+2024-05-31,135000,GU26 6TN,F,N,L,Cornerway Lodge,Flat 30,Headley Road,,Hindhead
+2024-05-29,1125000,GU26 6NZ,D,N,F,Skibbereen,,Linkside North,,Hindhead
+2024-05-28,1280000,GU26 6JA,D,N,F,Combe End,,Whitmore Vale Road,,Hindhead
+2024-05-24,1175000,GU26 6HP,D,N,F,27,,Tudor Close,Grayshott,Hindhead
+2024-05-22,849000,GU26 6TA,D,N,F,8,,Forestdale,,Hindhead
+2024-05-22,877000,GU26 6EU,D,N,F,35,,Kingswood Firs,Grayshott,Hindhead
+2024-05-22,1395000,GU26 6DD,D,N,F,Jays,,Upper Hammer Lane,Bramshott Chase,Hindhead
+2024-05-17,180000,GU26 6UA,F,N,L,The Gables,Flat 5,Headley Road,Grayshott,Hindhead
+2024-05-17,740000,GU26 6ED,D,N,F,79,,Horseshoe Bend,Grayshott,Hindhead
+2024-05-14,220000,GU26 6HJ,F,N,L,Laurel Cottages,4,Crossways Road,Grayshott,Hindhead
+2024-05-10,405000,GU26 6UG,F,N,L,2,,Beacon Crescent,,Hindhead
+2024-05-09,2050000,GU26 6ER,D,N,F,70,,Kingswood Firs,Grayshott,Hindhead
+2024-05-03,800000,GU26 6HD,D,N,F,Melbury,,Crossways Road,Grayshott,Hindhead
+2024-04-30,515000,GU26 6QN,S,N,F,Hindhead Grove,,Hill Road,,Hindhead
+2024-04-24,435000,GU26 6UY,T,N,F,25,,Hunters Place,,Hindhead
+2024-04-19,1175000,GU26 6JQ,D,N,F,Little Witches,,Fir Way,Grayshott,Hindhead
+2024-04-19,1467500,GU26 6JE,D,N,F,The Old Farmhouse,,Headley Road,Grayshott,Hindhead
+2024-04-19,799995,GU26 6EY,D,N,F,Fairfield,,Mowatt Road,Grayshott,Hindhead
+2024-04-11,995000,GU26 6JD,D,N,F,Cobwebs,,Hammer Lane,Grayshott,Hindhead
+2024-04-08,1212500,GU26 6PA,D,N,F,Greenway,,Linkside West,,Hindhead
+2024-04-05,680000,GU26 6RW,D,N,F,Tighnabruaich,,Clovelly Road,,Hindhead
+2024-04-05,1160000,GU26 6EQ,D,N,F,1,,Holmes Place,,Hindhead
+2024-04-04,1565000,GU26 6HZ,D,N,F,Horwood House,,Churt Road,,Hindhead
+2024-04-04,1152000,GU26 6ER,D,N,F,73,,Kingswood Firs,Grayshott,Hindhead
+2024-04-04,387000,GU26 6EL,F,N,L,Kingswood,Flat 2,Crossways Road,,Hindhead
+2024-04-02,170000,GU26 6PW,F,N,L,Highcroft,17,Wood Road,,Hindhead
+2024-03-27,250000,GU26 6LT,S,N,F,22,,Beech Lane,Grayshott,Hindhead
+2024-03-20,695000,GU26 6EA,D,N,F,Wychwood,,Bridle Close,Grayshott,Hindhead
+2024-03-14,1060000,GU26 6EQ,D,N,F,3,,Holmes Place,,Hindhead
+2024-03-05,318000,GU26 6LT,S,N,F,15,,Beech Lane,Grayshott,Hindhead
+2024-03-04,375000,GU26 6UG,F,N,L,47,,Beacon Crescent,,Hindhead
+2024-02-29,147500,GU26 6PZ,F,N,L,Cornerways,7,Wood Road,,Hindhead
+2024-02-28,226000,GU26 6UG,F,N,L,16,,Beacon Crescent,,Hindhead
+2024-02-27,175000,GU26 6PW,F,N,L,Highcroft,2,Wood Road,,Hindhead
+2024-02-16,525000,GU26 6FB,S,N,F,23,,Royal Huts Avenue,,Hindhead
+2024-02-16,585000,GU26 6DQ,S,N,F,Firbank,,Kingswood Lane,,Hindhead
+2024-02-09,795000,GU26 6NH,D,N,F,3,,Vicarage Gardens,Grayshott,Hindhead
+2024-02-05,860000,GU26 6HD,D,N,F,Rose Cottage,,Crossways Road,Grayshott,Hindhead
+2024-01-31,445000,GU26 6FB,T,N,F,4,,Royal Huts Avenue,,Hindhead
+2024-01-26,1090000,GU26 6BN,D,N,F,Amesbury Cottage,,High Pitfold,,Hindhead
+2024-01-26,925500,GU26 6AY,D,N,F,The Spinney,,Hindhead Road,,Hindhead
+2024-01-26,254000,GU26 6AQ,F,N,L,Nutcombe Height,Flat 5,Portsmouth Road,,Hindhead
+2024-01-17,1210000,GU26 6NX,D,N,F,Birkdale Cottage,,Linkside South,,Hindhead
+2024-01-11,574000,GU26 6RH,S,N,F,Redcot,,Tilford Road,,Hindhead
+2024-01-09,397682,GU26 6PP,D,N,F,10,,Hillgarth,,Hindhead
+2023-12-20,1242500,GU26 6SW,S,N,F,Heatherbank Stables,,Tower Road,,Hindhead
+2023-12-20,1750000,GU26 6GD,D,Y,F,10,,Baskerville Drive,,Hindhead
+2023-12-20,80000,GU26 6FJ,F,N,L,35,,Royal Huts Avenue,,Hindhead
+2023-11-30,375000,GU26 6JP,F,N,L,Grover's Manor,Flat 2,Wood Road,,Hindhead
+2023-11-24,245000,GU26 6TN,F,N,L,Cornerway Lodge,Flat 9,Headley Road,,Hindhead
+2023-11-17,379950,GU26 6HD,F,N,L,Deepwood Cottages,2,Crossways Road,Grayshott,Hindhead
+2023-11-16,940000,GU26 6LT,D,N,F,29,,Beech Lane,Grayshott,Hindhead
+2023-11-08,835000,GU26 6LT,D,N,F,14,,Beech Lane,Grayshott,Hindhead
+2023-11-02,1537000,GU26 6GD,D,Y,F,11,,Baskerville Drive,,Hindhead
+2023-11-01,273000,GU26 6PU,F,N,L,19,,Beacon Hill Court,,Hindhead
+2023-10-31,248600,GU26 6JS,F,N,L,Woolmer View,Flat 6,The Avenue,Grayshott,Hindhead
+2023-10-31,352000,GU26 6BT,T,N,F,Gorse Cottages,4,Little Hammer Lane,Bramshott Chase,Hindhead
+2023-10-26,1050000,GU26 6DR,D,N,F,The Glade,,Ladygate Drive,Grayshott,Hindhead
+2023-10-20,845000,GU26 6FU,D,N,F,43,,Tennyson Way,Grayshott,Hindhead
+2023-10-09,540000,GU26 6JP,F,N,L,Grovers Manor,Flat 16,Wood Road,,Hindhead
+2023-10-09,805000,GU26 6BJ,D,N,F,Acorn Lodge,,Hazel Grove,,Hindhead
+2023-09-29,620000,GU26 6QT,S,N,F,Glen Court,21,Glen Close,,Hindhead
+2023-09-29,1245000,GU26 6DL,D,N,F,Ruffits,,Headley Road,Grayshott,Hindhead
+2023-09-27,1792896,GU26 6AY,D,N,F,Longdown Lawn,,Hindhead Road,,Hindhead
+2023-09-15,460000,GU26 6JP,T,N,F,Grovers Manor,24,Wood Road,,Hindhead
+2023-09-01,270000,GU26 6TS,F,N,L,Oak House,Flat 6,Hurstmere Close,Grayshott,Hindhead
+2023-08-25,1230000,GU26 6SR,D,N,F,8,,Pine Bank,,Hindhead
+2023-08-25,450000,GU26 6QS,D,N,F,The Jays,,Grove Road,,Hindhead
+2023-08-11,450000,GU26 6UL,T,N,F,8,,Stronsay Close,,Hindhead
+2023-08-11,186000,GU26 6FJ,F,N,L,37,,Royal Huts Avenue,,Hindhead
+2023-08-08,283000,GU26 6TG,F,N,F,Crown House,,Highfield Crescent,,Hindhead
+2023-08-08,375000,GU26 6SA,T,N,F,Huntswood Cottages,4,Hill Road,,Hindhead
+2023-08-02,125000,GU26 6TN,F,N,L,Cornerway Lodge,Flat 24,Headley Road,,Hindhead
+2023-07-31,520000,GU26 6QE,S,N,F,Oriel House,,Glen Road,,Hindhead
+2023-07-31,715000,GU26 6LR,T,N,F,President Cottages,1,School Road,Grayshott,Hindhead
+2023-07-26,950000,GU26 6ER,D,N,F,"Lavenders, 72",,Kingswood Firs,Grayshott,Hindhead
+2023-07-21,685000,GU26 6RU,S,N,F,Bramdean,,Sandheath Road,,Hindhead
+2023-07-21,1212500,GU26 6NZ,D,N,F,Isabella,,Linkside North,,Hindhead
+2023-07-18,840000,GU26 6TW,D,N,F,13,,Rozeldene,,Hindhead
+2023-07-10,230000,GU26 6SD,F,N,L,31,,The Moorings,,Hindhead
+2023-07-06,353000,GU26 6UG,F,N,L,34,,Beacon Crescent,,Hindhead
+2023-07-04,685000,GU26 6EY,S,N,F,"The Rowans, 4",,Mowatt Road,Grayshott,Hindhead
+2023-07-03,270000,GU26 6LE,F,N,L,Wayside,Flat 6,Headley Road,Grayshott,Hindhead
+2023-06-30,410000,GU26 6QW,S,N,F,West Cottages,2,Hill Road,,Hindhead
+2023-06-30,355000,GU26 6QF,T,N,F,67,,Glen Close,,Hindhead
+2023-06-30,1000000,GU26 6HX,D,N,F,Kemeys,,Churt Road,,Hindhead
+2023-06-28,800000,GU26 6HE,D,N,F,The Shieling,,Crossways Road,Grayshott,Hindhead
+2023-06-28,349950,GU26 6FL,T,N,F,Lunn Cottages,2,Tilford Road,,Hindhead
+2023-06-23,850000,GU26 6TU,D,N,F,The Chase,,Headley Road,Grayshott,Hindhead
+2023-06-19,950000,GU26 6BJ,D,N,F,Holly Hill,,Hazel Grove,,Hindhead
+2023-06-05,590000,GU26 6SX,D,N,F,16,,Glenville Gardens,,Hindhead
+2023-06-02,715000,GU26 6PS,D,N,F,Bargate Wood,,Churt Road,,Hindhead
+2023-06-01,1425000,GU26 6GD,D,Y,F,"Upper Fielde, 9",,Baskerville Drive,,Hindhead
+2023-05-31,775000,GU26 6LU,D,N,F,Columbine Cottage,,Whitmore Vale Road,Grayshott,Hindhead
+2023-05-17,982500,GU26 6ER,D,N,F,61,,Kingswood Firs,Grayshott,Hindhead
+2023-05-15,1125000,GU26 6QZ,D,N,F,5,,Willian Place,,Hindhead
+2023-05-12,271500,GU26 6HG,F,N,L,Harlequin House,Flat 3,Crossways Road,Grayshott,Hindhead
+2023-05-10,755000,GU26 6HL,D,N,F,Moonglow,,Hill Road,Grayshott,Hindhead
+2023-05-10,780000,GU26 6ED,D,N,F,74,,Horseshoe Bend,Grayshott,Hindhead
+2023-05-05,550000,GU26 6RR,D,N,F,3,,Downside,,Hindhead
+2023-04-27,1225000,GU26 6SG,D,N,F,Tall Trees,,Mead Road,,Hindhead
+2023-04-26,642000,GU26 6SZ,D,N,F,4,,Clovelly Park,,Hindhead
+2023-04-25,120000,GU26 6UJ,F,N,L,Summerhouse Court,10,Headley Road,Grayshott,Hindhead
+2023-04-14,585000,GU26 6RU,S,N,F,Lowick,,Sandheath Road,,Hindhead
+2023-04-11,1525000,GU26 6BJ,D,N,F,Haslemount,,Hazel Grove,,Hindhead
+2023-04-06,585000,GU26 6RU,S,N,F,Wetherell,,Sandheath Road,,Hindhead
+2023-04-05,775000,GU26 6RW,D,N,F,High Grove,,Clovelly Road,,Hindhead
+2023-03-31,790000,GU26 6JD,S,N,F,Whitmore View,,Hammer Lane,Grayshott,Hindhead
+2023-03-31,795000,GU26 6JB,D,N,F,The Covert,,Whitmore Vale,Grayshott,Hindhead
+2023-03-31,480000,GU26 6FB,T,N,F,17,,Royal Huts Avenue,,Hindhead
+2023-03-29,267500,GU26 6BJ,F,N,L,Parklands,Flat 5,Hazel Grove,,Hindhead
+2023-03-27,845000,GU26 6GD,D,Y,F,3,,Baskerville Drive,,Hindhead
+2023-03-15,635000,GU26 6EF,D,N,F,Alto Sereno,,The Paddock,Grayshott,Hindhead
+2023-03-15,823400,GU26 6DX,D,N,F,"Auriga, 43",,Waggoners Way,Grayshott,Hindhead
+2023-03-10,115000,GU26 6UY,F,N,L,7,,Hunters Place,,Hindhead
+2023-03-10,650000,GU26 6BB,D,N,F,Huntons,,Hindhead Road,,Hindhead
+2023-03-08,1170000,GU26 6GD,D,Y,F,7,,Baskerville Drive,,Hindhead
+2023-03-01,285000,GU26 6SN,F,N,L,Beech Court,Flat 4,Tower Road,,Hindhead
+2023-02-28,491000,GU26 6TG,D,N,F,Highfield House,,Highfield Crescent,,Hindhead
+2023-02-27,375000,GU26 6GD,S,Y,F,5,,Baskerville Drive,,Hindhead
+2023-02-24,750000,GU26 6LA,S,N,F,Holly Lea,,The Avenue,Grayshott,Hindhead
+2023-02-20,167000,GU26 6FR,F,N,L,Pevensey,3,Beacon Hill Road,,Hindhead
+2023-02-17,350000,GU26 6QE,S,N,F,Salima,,Glen Road,,Hindhead
+2023-02-17,2375000,GU26 6HY,D,N,F,Pine House,,Churt Road,,Hindhead
+2023-02-17,185950,GU26 6HR,F,N,L,20,,St Austins,Grayshott,Hindhead
+2023-02-10,1200000,GU26 6NA,D,N,F,Daleside,,Woodcock Bottom,Grayshott,Hindhead
+2023-02-10,174500,GU26 6FJ,F,N,L,32,,Royal Huts Avenue,,Hindhead
+2023-02-03,191000,GU26 6PW,F,N,L,Highcroft,22,Wood Road,,Hindhead
+2023-02-03,420000,GU26 6LS,S,N,F,1,,Beech Hanger Road,Grayshott,Hindhead
+2023-01-31,375000,GU26 6JP,F,N,L,Grover's Manor,Flat 3,Wood Road,,Hindhead
+2023-01-30,369000,GU26 6UR,S,N,F,1,,Harlequin Close,,Hindhead
+2023-01-27,225000,GU26 6NR,F,N,L,4,,Hampton Terrace,,Hindhead
+2023-01-25,790000,GU26 6AB,D,N,F,31,,London Road,,Hindhead
+2023-01-18,1250000,GU26 6NX,D,N,F,Heathcroft,,Linkside South,,Hindhead
+2023-01-16,600000,GU26 6EE,D,N,F,91,,Halters End,Grayshott,Hindhead
+2023-01-13,540000,GU26 6AF,S,N,F,22,,London Road,,Hindhead
+2023-01-12,886166,GU26 6TW,D,N,F,12,,Rozeldene,,Hindhead
+2023-01-12,440000,GU26 6FB,T,N,F,10,,Royal Huts Avenue,,Hindhead
+2023-01-11,740000,GU26 6EF,D,N,F,Farriers,,The Paddock,Grayshott,Hindhead
+2023-01-09,1115000,GU26 6BD,T,N,F,2,,Anthony Place,,Hindhead
+2023-01-06,700000,GU26 6QS,D,N,F,Quince Cottage,,Grove Road,,Hindhead
+2022-12-22,1275000,GU26 6GD,D,Y,F,8,,Baskerville Drive,,Hindhead
+2022-12-21,850000,GU26 6QD,D,N,F,Restmaur,,Beacon Hill Road,,Hindhead
+2022-12-21,375000,GU26 6GD,S,Y,F,4,,Baskerville Drive,,Hindhead
+2022-12-20,495000,GU26 6GD,D,Y,F,6,,Baskerville Drive,,Hindhead
+2022-12-16,525000,GU26 6UB,S,N,F,12,,Rockdale Drive,Grayshott,Hindhead
+2022-12-16,845000,GU26 6GD,D,Y,F,2,,Baskerville Drive,,Hindhead
+2022-12-12,760000,GU26 6RX,D,N,F,Fairoak,,Heath Close,,Hindhead
+2022-12-12,1000000,GU26 6EU,D,N,F,33,,Kingswood Firs,Grayshott,Hindhead
+2022-12-08,975000,GU26 6TA,D,N,F,9,,Forestdale,,Hindhead
+2022-12-06,2475000,GU26 6HX,D,N,F,Heatherwold,,Churt Road,,Hindhead
+2022-12-06,175000,GU26 6FR,T,N,F,Rex Court,3,Beacon Hill Road,,Hindhead
+2022-12-02,490000,GU26 6RQ,T,N,F,Northwood Cottages,1,Tilford Road,,Hindhead
+2022-12-02,350000,GU26 6GB,S,N,F,3,,Hepplewhite Place,,Hindhead
+2022-12-01,314000,GU26 6LG,F,N,L,Lloyds Tsb Bank Plc,Flat 1,Headley Road,Grayshott,Hindhead
+2022-12-01,250000,GU26 6LE,F,N,L,Wayside,Flat 4,Headley Road,Grayshott,Hindhead
+2022-11-30,890000,GU26 6EX,D,N,F,"Treetops, 5",,Kingswood Firs,Grayshott,Hindhead
+2022-11-25,750000,GU26 6BZ,T,N,F,6,,Chase Plain,,Hindhead
+2022-11-23,800000,GU26 6RE,D,N,F,Caritas,,Heathside Lane,,Hindhead
+2022-11-23,665000,GU26 6ED,D,N,F,"Hassocks, 84",,Horseshoe Bend,Grayshott,Hindhead
+2022-11-23,355000,GU26 6AQ,F,N,L,Nutcombe Height,Flat 7,Portsmouth Road,,Hindhead
+2022-11-18,632500,GU26 6DX,D,N,F,24,,Waggoners Way,Grayshott,Hindhead
+2022-11-16,1285000,GU26 6SP,D,N,F,South Lodge,,Tower Road,,Hindhead
+2022-11-16,620000,GU26 6ND,S,N,F,1,,Thornhill View,Grayshott,Hindhead
+2022-11-16,1875000,GU26 6HX,D,N,F,The Heath,,Churt Road,,Hindhead
+2022-11-15,175000,GU26 6FR,T,N,F,Rex Court,1,Beacon Hill Road,,Hindhead
+2022-11-02,450000,GU26 6SF,D,N,F,Highbroom,,Tilford Road,,Hindhead
+2022-11-01,192000,GU26 6PZ,F,N,L,Cornerways,6,Wood Road,,Hindhead
+2022-10-21,235000,GU26 6GB,F,N,L,2,,Hepplewhite Place,,Hindhead
+2022-10-19,455000,GU26 6RY,S,N,F,17,,Eight Acres,,Hindhead
+2022-10-18,320000,GU26 6EL,F,N,L,Kingswood,Flat 4,Crossways Road,,Hindhead
+2022-10-12,355000,GU26 6JP,F,N,L,Grover's Manor,Flat 10,Wood Road,,Hindhead
+2022-10-11,350000,GU26 6EL,F,N,L,Kingswood,Flat 3,Crossways Road,,Hindhead
+2022-10-07,507000,GU26 6RX,S,N,F,"Brightman House, 7",,Heath Close,,Hindhead
+2022-10-07,500000,GU26 6FB,S,N,F,12,,Royal Huts Avenue,,Hindhead
+2022-10-06,129950,GU26 6TN,F,N,L,Cornerway Lodge,Flat 20,Headley Road,,Hindhead
+2022-10-04,210000,GU26 6TN,F,N,L,Cornerway Lodge,Flat 1,Headley Road,,Hindhead
+2022-09-30,500000,GU26 6UY,T,N,F,15,,Hunters Place,,Hindhead
+2022-09-30,400000,GU26 6UG,F,N,L,2,,Beacon Crescent,,Hindhead
+2022-09-30,593000,GU26 6RP,S,N,F,Little Dawn,,Clovelly Road,,Hindhead
+2022-09-30,1150000,GU26 6PG,D,N,F,Schiehallion,,Steepways,,Hindhead
+2022-09-29,1150000,GU26 6PE,D,N,F,Pilgrim Lodge,,Churt Road,,Hindhead
+2022-09-26,286000,GU26 6NB,T,N,F,Corner Cottages,3,Glen Road,Grayshott,Hindhead
+2022-09-23,160000,GU26 6TN,F,N,L,Cornerway Lodge,Flat 27,Headley Road,,Hindhead
+2022-09-23,980000,GU26 6JD,D,N,F,Badgers Holt,,Hammer Lane,Grayshott,Hindhead
+2022-09-22,1910000,GU26 6LX,D,N,F,Peony Cottage,,Valewood Lane,Grayshott,Hindhead
+2022-09-16,270000,GU26 6NB,T,N,F,Corner Cottages,2,Glen Road,Grayshott,Hindhead
+2022-09-16,200000,GU26 6GB,F,N,L,1,,Hepplewhite Place,,Hindhead
+2022-09-14,175000,GU26 6UA,F,N,L,The Gables,Flat 11,Headley Road,Grayshott,Hindhead
+2022-09-12,300000,GU26 6TT,F,N,L,Hurstmere House,Flat 2,Hurstmere Close,Grayshott,Hindhead
+2022-09-12,1700000,GU26 6PT,D,N,F,Westcott,,Wood Road,,Hindhead
+2022-09-09,861000,GU26 6HU,D,N,F,The Lodge,,Beacon Hill Park,,Hindhead
+2022-09-09,365000,GU26 6HD,F,N,L,Deepwood Cottages,1,Crossways Road,Grayshott,Hindhead
+2022-09-08,675000,GU26 6QN,S,N,F,Glenthorne,,Hill Road,,Hindhead
+2022-09-06,357000,GU26 6GB,S,N,F,4,,Hepplewhite Place,,Hindhead
+2022-09-06,410000,GU26 6FT,S,N,F,1,,Coopers Court,,Hindhead
+2022-09-05,780950,GU26 6QD,D,N,F,Hilltop,,Beacon Hill Road,,Hindhead
+2022-09-02,314000,GU26 6HG,S,N,F,Harlequin Cottages,2,Crossways Road,Grayshott,Hindhead
+2022-09-01,615000,GU26 6FU,S,N,F,21,,Tennyson Way,Grayshott,Hindhead
+2022-08-31,1351407,GU26 6HZ,D,N,F,St Andrews Cottage,,Churt Road,,Hindhead
+2022-08-26,1675000,GU26 6DU,D,N,F,Priors,,Ludshott Common,Grayshott,Hindhead
+2022-08-25,185000,GU26 6AT,F,N,L,9,,Broom Squires,,Hindhead
+2022-08-24,130000,GU26 6UJ,F,N,L,Summerhouse Court,7,Headley Road,Grayshott,Hindhead
+2022-08-24,790000,GU26 6TW,D,N,F,8,,Rozeldene,,Hindhead
+2022-08-24,634500,GU26 6QB,D,N,F,Woodpecker Lodge,,Beacon Hill Road,,Hindhead
+2022-08-24,895000,GU26 6JW,D,N,F,7,,Oakhurst,Grayshott,Hindhead
+2022-08-24,900000,GU26 6DZ,D,N,F,Farriers,,Saddlers Scarp,Grayshott,Hindhead
+2022-08-17,1150000,GU26 6TA,D,N,F,11,,Forestdale,,Hindhead
+2022-08-16,405000,GU26 6EP,F,N,L,Tennyson Court,Flat 9,Tilford Road,,Hindhead
+2022-08-09,730000,GU26 6TN,D,N,F,Tamarind,,Headley Road,,Hindhead
+2022-08-09,695000,GU26 6HE,D,N,F,The Old Orchard,,Crossways Road,Grayshott,Hindhead
+2022-08-08,2750000,GU26 6DT,D,N,F,Waggoners Wells Cottage,,Waggoners Wells Lane,Grayshott,Hindhead
+2022-08-04,910000,GU26 6LY,D,N,F,The Knoll,,Church Lane,Grayshott,Hindhead
+2022-08-03,210000,GU26 6LG,F,N,L,Oaklea House,Flat 4,Headley Road,Grayshott,Hindhead
+2022-08-02,535000,GU26 6GB,D,N,F,5,,Hepplewhite Place,,Hindhead
+2022-08-01,565000,GU26 6QE,S,N,F,Haleview,4,Glen Road,,Hindhead
+2022-07-28,160000,GU26 6TN,F,N,L,Cornerway Lodge,Flat 25,Headley Road,,Hindhead
+2022-07-28,1105950,GU26 6DS,T,N,F,Grayshott Court,,Headley Road,Grayshott,Hindhead
+2022-07-28,396000,GU26 6AT,T,N,F,2,,Broom Squires,,Hindhead
+2022-07-25,770000,GU26 6RW,D,N,F,Brecon,,Clovelly Road,,Hindhead
+2022-07-25,290000,GU26 6LG,F,N,L,Oaklea House,Flat 5,Headley Road,Grayshott,Hindhead
+2022-07-20,540000,GU26 6LN,D,N,F,12,,Chestnut Close,Grayshott,Hindhead
+2022-07-15,275000,GU26 6SW,F,N,L,Heatherbank,Flat 9,Tower Road,,Hindhead
+2022-07-15,760000,GU26 6QN,D,N,F,Four Ways,,Hill Road,,Hindhead
+2022-07-14,990000,GU26 6SU,D,N,F,Sherwood House,,Tower Road,,Hindhead
+2022-07-14,935500,GU26 6BJ,S,N,F,Loxleys,,Hazel Grove,,Hindhead
+2022-07-11,550000,GU26 6NF,T,N,F,The Brae,1,Glen Road,Grayshott,Hindhead
+2022-07-11,285000,GU26 6HS,F,N,L,2,,The Kings Peace,Grayshott,Hindhead
+2022-07-11,1570000,GU26 6BP,D,N,F,The Coach House,,Nutcombe Lane,,Hindhead
+2022-07-01,1250000,GU26 6PX,D,N,F,The Hollies,,Wood Road,,Hindhead
+2022-06-28,1075000,GU26 6EZ,D,N,F,Witchwood,,Cypress Way,,Hindhead
+2022-06-27,1282500,GU26 6SS,D,N,F,28,,Pine Bank,,Hindhead
+2022-06-21,220000,GU26 6SW,F,N,L,Heatherbank,Flat 21,Tower Road,,Hindhead
+2022-06-15,565000,GU26 6QE,D,N,F,Harrow,,Glen Road,,Hindhead
+2022-06-09,1100000,GU26 6EU,D,N,F,38,,Kingswood Firs,Grayshott,Hindhead
+2022-06-01,240000,GU26 6FJ,F,N,L,27,,Royal Huts Avenue,,Hindhead
+2022-05-31,434000,GU26 6QT,S,N,F,Glen Court,24,Glen Close,,Hindhead
+2022-05-31,600000,GU26 6PQ,D,N,F,9,,Golf Links Avenue,,Hindhead
+2022-05-31,515000,GU26 6GX,S,N,F,4,,Canes Close,Grayshott,Hindhead
+2022-05-30,430000,GU26 6SN,S,N,F,Corner Croft,,Tower Road,,Hindhead
+2022-05-27,1250000,GU26 6SN,D,N,F,"Ellanby Lodge, 4",,Tower Road,,Hindhead
+2022-05-27,565000,GU26 6DD,S,N,F,Glenvale,,Upper Hammer Lane,Bramshott Chase,Hindhead
+2022-05-27,1850000,GU26 6BJ,D,N,F,Whincroft,,Hazel Grove,,Hindhead
+2022-05-23,590000,GU26 6EB,S,N,F,101,,Wheelwrights Lane,Grayshott,Hindhead
+2022-05-20,400000,GU26 6UY,T,N,F,13,,Hunters Place,,Hindhead
+2022-05-20,350000,GU26 6UG,F,N,L,8,,Beacon Crescent,,Hindhead
+2022-05-19,515000,GU26 6QE,D,N,F,Harrowdene,,Glen Road,,Hindhead
+2022-05-10,638500,GU26 6LX,D,N,F,Oaks,,Valewood Lane,Grayshott,Hindhead
+2022-05-06,510000,GU26 6RH,S,N,F,Highcombe Cottage,,Tilford Road,,Hindhead
+2022-05-06,230000,GU26 6AA,F,N,L,Exchange House,7,Hindhead Road,,Hindhead
+2022-05-05,650000,GU26 6LY,D,N,F,Little Mulberries,,Church Lane,Grayshott,Hindhead
+2022-05-05,1150000,GU26 6BG,D,N,F,Grange Patch,,Huntington House Drive,,Hindhead
+2022-05-03,389955,GU26 6UG,F,N,L,43,,Beacon Crescent,,Hindhead
+2022-04-26,1690000,GU26 6DD,D,N,F,Laurel Lodge,,Upper Hammer Lane,Bramshott Chase,Hindhead
+2022-04-22,709000,GU26 6SZ,D,N,F,12,,Clovelly Park,,Hindhead
+2022-04-14,225000,GU26 6SD,F,N,L,39,,The Moorings,,Hindhead
+2022-04-14,410000,GU26 6HN,S,N,F,Spring Cottage,,Stoney Bottom,Grayshott,Hindhead
+2022-04-01,330000,GU26 6UG,F,N,L,14,,Beacon Crescent,,Hindhead
+2022-04-01,410000,GU26 6RY,S,N,F,29,,Eight Acres,,Hindhead
+2022-04-01,364000,GU26 6JP,F,N,L,Grover's Manor,Flat 2,Wood Road,,Hindhead
+2022-03-31,1650000,GU26 6PP,D,N,F,22,,Hillgarth,,Hindhead
+2022-03-31,735000,GU26 6ED,D,N,F,74,,Horseshoe Bend,Grayshott,Hindhead
+2022-03-29,350000,GU26 6ST,F,N,L,6,,Bramley Croft,,Hindhead
+2022-03-28,335000,GU26 6RQ,T,N,F,Northwood Cottages,10,Tilford Road,,Hindhead
+2022-03-18,329950,GU26 6UG,F,N,L,37,,Beacon Crescent,,Hindhead
+2022-03-18,955000,GU26 6QX,D,N,F,9,,Ridgemoor Close,,Hindhead
+2022-03-16,652500,GU26 6SZ,D,N,F,7,,Clovelly Park,,Hindhead
+2022-03-11,243000,GU26 6TX,F,N,L,Holmes Court,Flat 4,Boundary Road,Grayshott,Hindhead
+2022-03-08,220000,GU26 6AS,F,N,L,Russell Court,12,Heather Way,,Hindhead
+2022-03-04,510000,GU26 6RH,S,N,F,Kitchener Villa,,Tilford Road,,Hindhead
+2022-03-04,297500,GU26 6HS,F,N,L,5,,The Kings Peace,Grayshott,Hindhead
+2022-03-01,260000,GU26 6FF,F,N,L,44,,Royal Huts Avenue,,Hindhead
+2022-03-01,618000,GU26 6BT,D,N,F,Hucclecote,,Little Hammer Lane,Bramshott Chase,Hindhead
+2022-02-28,950000,GU26 6HA,D,N,F,Tanglewood,,Crossways Road,,Hindhead
+2022-02-25,315000,GU26 6BZ,T,N,F,5,,Chase Plain,,Hindhead
+2022-02-21,515000,GU26 6RZ,T,N,F,36,,Eight Acres,,Hindhead
+2022-02-18,289950,GU26 6JT,F,N,L,Selborne Place,Flat 3,The Avenue,Grayshott,Hindhead
+2022-02-18,233000,GU26 6DB,F,N,F,2 Ravensvale Cottages,Flat A,Old Bramshott Chase,,Hindhead
+2022-02-14,690000,GU26 6ER,D,N,F,66,,Kingswood Firs,Grayshott,Hindhead
+2022-02-14,590000,GU26 6AB,S,Y,F,33,,London Road,,Hindhead
+2022-02-11,350000,GU26 6TX,F,N,L,Holmes Court,Flat 9,Boundary Road,Grayshott,Hindhead
+2022-02-11,605000,GU26 6LN,D,N,F,3,,Chestnut Close,Grayshott,Hindhead
+2022-02-11,200000,GU26 6BJ,F,N,L,Parklands,Flat 8,Hazel Grove,,Hindhead
+2022-02-10,270000,GU26 6AA,F,N,L,Exchange House,1,Hindhead Road,,Hindhead
+2022-02-07,465000,GU26 6TX,D,N,F,Caldew Cottages,2,Boundary Road,Grayshott,Hindhead
+2022-02-04,280000,GU26 6PU,F,N,L,27,,Beacon Hill Court,,Hindhead
+2022-01-28,500000,GU26 6HN,S,N,F,Cosy Cottage,,Stoney Bottom,Grayshott,Hindhead
+2022-01-27,320000,GU26 6UG,F,N,L,44,,Beacon Crescent,,Hindhead
+2022-01-27,735000,GU26 6NR,S,N,F,Vine Cottage,,Beacon Hill Road,,Hindhead
+2022-01-25,870000,GU26 6FQ,D,N,F,Bears Wood,2,Portsmouth Road,,Hindhead
+2022-01-14,1200000,GU26 6FQ,D,N,F,Stringers,,Portsmouth Road,Bramshott Chase,Hindhead
+2022-01-06,580000,GU26 6AB,S,Y,F,35,,London Road,,Hindhead
+2022-01-04,695000,GU26 6PL,D,N,F,4,,Caerleon Close,,Hindhead
+2022-01-04,295000,GU26 6LB,F,N,L,Dowse House,Flat 2,Headley Road,Grayshott,Hindhead
+2021-12-22,905000,GU26 6LY,D,N,F,Pinewoods,,Church Lane,Grayshott,Hindhead
+2021-12-21,120000,GU26 6UJ,F,N,L,Summerhouse Court,15,Headley Road,Grayshott,Hindhead
+2021-12-17,199500,GU26 6HJ,F,N,L,Laurel Cottages,4,Crossways Road,Grayshott,Hindhead
+2021-12-16,425000,GU26 6UG,F,N,L,21,,Beacon Crescent,,Hindhead
+2021-12-10,620000,GU26 6QD,D,N,F,Highfield,,Beacon Hill Road,,Hindhead
+2021-12-07,810000,GU26 6HD,D,N,F,Pooks Hill Cottage,,Crossways Road,Grayshott,Hindhead
+2021-12-06,410000,GU26 6QH,T,N,F,6,,Heath Cottages,,Hindhead
+2021-12-03,297000,GU26 6FL,T,N,F,Lunn Cottages,5,Tilford Road,,Hindhead
+2021-12-02,320000,GU26 6AT,T,N,F,10,,Broom Squires,,Hindhead
+2021-11-26,215000,GU26 6AA,F,N,L,Exchange House,6,Hindhead Road,,Hindhead
+2021-11-25,1350000,GU26 6DD,D,N,F,Pastures,,Upper Hammer Lane,Bramshott Chase,Hindhead
+2021-11-23,1600000,GU26 6TX,D,N,F,Boundary House,,Boundary Road,Grayshott,Hindhead
+2021-11-19,250000,GU26 6TX,F,N,L,Holmes Court,Flat 5,Boundary Road,Grayshott,Hindhead
+2021-11-19,395000,GU26 6SA,T,N,F,Huntswood Cottages,2,Hill Road,,Hindhead
+2021-11-19,575000,GU26 6FP,S,N,F,2,,Roedeer Gardens,,Hindhead
+2021-11-19,252000,GU26 6AA,F,N,L,Exchange House,8,Hindhead Road,,Hindhead
+2021-11-18,680000,GU26 6SX,D,N,F,14,,Glenville Gardens,,Hindhead
+2021-11-12,587500,GU26 6TZ,T,N,F,Oak Cottage,4,Headley Road,Grayshott,Hindhead
+2021-11-12,725000,GU26 6QE,D,N,F,Inholme,,Glen Road,,Hindhead
+2021-11-12,900500,GU26 6EU,D,N,F,12,,Kingswood Firs,Grayshott,Hindhead
+2021-11-05,2650000,GU26 6JB,D,N,F,Laurel Cottage,,Whitmore Vale,Grayshott,Hindhead
+2021-10-22,150000,GU26 6QT,F,N,L,Glen Court,18,Glen Close,,Hindhead
+2021-10-19,1935000,GU26 6AY,D,N,F,Chase House,,Hindhead Road,,Hindhead
+2021-10-15,245000,GU26 6FR,F,N,L,Pevensey,2,Beacon Hill Road,,Hindhead
+2021-10-14,1097500,GU26 6SS,D,N,F,27,,Pine Bank,,Hindhead
+2021-10-07,111000,GU26 6SW,F,N,L,Heatherbank,Flat 1,Tower Road,,Hindhead
+2021-09-30,500000,GU26 6HJ,T,N,F,1,,Elm Mews,Grayshott,Hindhead
+2021-09-30,275000,GU26 6BQ,T,N,F,Little Acorns,,Portsmouth Road,,Hindhead
+2021-09-29,1100000,GU26 6PS,D,N,F,Goldcrest Lodge,,Churt Road,,Hindhead
+2021-09-29,193500,GU26 6JP,F,N,L,Grovers Manor,Flat 23,Wood Road,,Hindhead
+2021-09-24,335000,GU26 6HQ,S,N,F,11,,Jubilee Lane,Grayshott,Hindhead
+2021-09-24,205000,GU26 6HJ,F,N,L,Laurel Cottages,1,Crossways Road,Grayshott,Hindhead
+2021-09-24,710000,GU26 6EE,D,N,F,The Crofters,,Halters End,Grayshott,Hindhead
+2021-09-22,1270000,GU26 6JD,D,N,F,Westwinds,,Hammer Lane,Grayshott,Hindhead
+2021-09-21,230000,GU26 6TN,F,N,L,Cornerway Lodge,Flat 5,Headley Road,,Hindhead
+2021-09-21,750000,GU26 6TA,D,N,F,8,,Forestdale,,Hindhead
+2021-09-21,325000,GU26 6HD,F,N,L,Deepwood Cottages,1,Crossways Road,Grayshott,Hindhead
+2021-09-17,181500,GU26 6PW,F,N,L,Highcroft,5,Wood Road,,Hindhead
+2021-09-14,267500,GU26 6SH,F,N,L,Thirlestane Court,5,Tilford Road,,Hindhead
+2021-09-14,540000,GU26 6FT,S,Y,F,5,,Coopers Court,,Hindhead
+2021-08-27,267995,GU26 6JS,F,N,L,Woolmer View,Flat 3,The Avenue,Grayshott,Hindhead
+2021-08-26,316500,GU26 6HG,S,N,F,Harlequin Cottages,1,Crossways Road,Grayshott,Hindhead
+2021-08-24,384000,GU26 6QQ,T,N,F,Borgwitha,,Beacon Hill Road,,Hindhead
+2021-08-19,212000,GU26 6HL,F,N,L,Fir View,3B,Hill Road,Grayshott,Hindhead
+2021-08-19,2530000,GU26 6BB,D,N,F,Ridge Place,,Hindhead Road,,Hindhead
+2021-08-18,840000,GU26 6DZ,D,N,F,Wood End,,Saddlers Scarp,Grayshott,Hindhead
+2021-08-16,525000,GU26 6RH,S,N,F,Redcot,,Tilford Road,,Hindhead
+2021-08-10,1333333,GU26 6DR,D,N,F,Farlingaye,,Ladygate Drive,Grayshott,Hindhead
+2021-08-09,166000,GU26 6SW,F,N,L,Heatherbank,Flat 18,Tower Road,,Hindhead
+2021-08-02,455000,GU26 6RH,S,N,F,French Villa,,Tilford Road,,Hindhead
+2021-07-26,207000,GU26 6AS,F,N,L,Russell Court,3,Heather Way,,Hindhead
+2021-07-15,265000,GU26 6JS,F,N,L,Woolmer View,Flat 9,The Avenue,Grayshott,Hindhead
+2021-07-02,124000,GU26 6SW,F,N,L,Heatherbank,Flat 19,Tower Road,,Hindhead
+2021-06-30,1200000,GU26 6SR,D,N,F,1,,Pine Bank,,Hindhead
+2021-06-30,1150000,GU26 6SN,D,N,F,Highdown,,Tower Road,,Hindhead
+2021-06-30,1300000,GU26 6QX,D,N,F,7,,Ridgemoor Close,,Hindhead
+2021-06-30,785000,GU26 6PG,D,N,F,The Cottage On The Links,,Steepways,,Hindhead
+2021-06-30,550000,GU26 6LX,S,N,F,Blue Hills,,Valewood Lane,Grayshott,Hindhead
+2021-06-30,495000,GU26 6FD,T,N,F,50,,Royal Huts Avenue,,Hindhead
+2021-06-30,465000,GU26 6AP,S,N,F,10,,Tyndalls,,Hindhead
+2021-06-29,510000,GU26 6UY,T,N,F,31,,Hunters Place,,Hindhead
+2021-06-29,290000,GU26 6UG,F,N,L,18,,Beacon Crescent,,Hindhead
+2021-06-29,1450000,GU26 6PA,S,N,F,Westward,,Linkside West,,Hindhead
+2021-06-29,480000,GU26 6FD,D,N,F,49,,Royal Huts Avenue,,Hindhead
+2021-06-29,650000,GU26 6EB,D,N,F,86,,Wheelwrights Lane,Grayshott,Hindhead
+2021-06-29,767000,GU26 6BN,D,N,F,Oakwood,,High Pitfold,,Hindhead
+2021-06-28,799500,GU26 6TG,D,N,F,Fairways,,Highfield Crescent,,Hindhead
+2021-06-28,1075000,GU26 6SS,D,N,F,33,,Pine Bank,,Hindhead
+2021-06-26,1390000,GU26 6BJ,D,N,F,Dingley,,Hazel Grove,,Hindhead
+2021-06-25,465000,GU26 6HS,F,N,L,7,,The Kings Peace,Grayshott,Hindhead
+2021-06-24,255000,GU26 6TT,F,N,L,Hurstmere House,Flat 7,Hurstmere Close,Grayshott,Hindhead
+2021-06-24,715000,GU26 6SZ,D,N,F,11,,Clovelly Park,,Hindhead
+2021-06-24,259000,GU26 6HG,F,N,L,Harlequin House,Flat 3,Crossways Road,Grayshott,Hindhead
+2021-06-24,950000,GU26 6EL,D,N,F,Kenstead,,Crossways Road,,Hindhead
+2021-06-23,1260500,GU26 6SS,D,N,F,26,,Pine Bank,,Hindhead
+2021-06-23,900000,GU26 6NP,D,N,F,Bracken House,,Parsons Lane,,Hindhead
+2021-06-23,695000,GU26 6HP,D,N,F,10,,Tudor Close,Grayshott,Hindhead
+2021-06-22,866000,GU26 6SZ,D,N,F,13,,Clovelly Park,,Hindhead
+2021-06-21,720000,GU26 6RQ,D,N,F,Brae Lea,,Tilford Road,,Hindhead
+2021-06-21,840000,GU26 6HF,D,N,F,Comus,,Crossways Road,Grayshott,Hindhead
+2021-06-21,800000,GU26 6EX,D,N,F,7,,Kingswood Firs,Grayshott,Hindhead
+2021-06-18,495000,GU26 6JP,F,N,L,Grovers Manor,Flat 9,Wood Road,,Hindhead
+2021-06-17,185000,GU26 6PW,F,N,L,Highcroft,24,Wood Road,,Hindhead
+2021-06-16,445000,GU26 6NB,S,N,F,"Sabato, 2",,Aberdeen Terrace,Grayshott,Hindhead
+2021-06-15,590000,GU26 6RU,D,N,F,Denbar,,Sandheath Road,,Hindhead
+2021-06-11,170000,GU26 6PW,F,N,L,Highcroft,8,Wood Road,,Hindhead
+2021-06-10,571150,GU26 6SX,D,N,F,12,,Glenville Gardens,,Hindhead
+2021-05-28,782000,GU26 6RQ,S,N,F,Bark Hart,,Tilford Road,,Hindhead
+2021-05-27,1100000,GU26 6TX,D,N,F,Foxhill,,Boundary Road,Grayshott,Hindhead
+2021-05-27,803000,GU26 6JD,D,N,F,Glebe Cottage,,Hammer Lane,Grayshott,Hindhead
+2021-05-14,575000,GU26 6LD,T,N,F,The Pines,1,Headley Road,Grayshott,Hindhead
+2021-05-10,225000,GU26 6SD,F,N,L,31,,The Moorings,,Hindhead
+2021-04-28,1150000,GU26 6JD,D,N,F,Valeside,,Hammer Lane,Grayshott,Hindhead
+2021-04-27,600000,GU26 6ED,D,N,F,78,,Horseshoe Bend,Grayshott,Hindhead
+2021-04-23,785000,GU26 6JF,D,N,F,Cedar House,,Kiln Way,Grayshott,Hindhead
+2021-04-16,578000,GU26 6RU,D,N,F,Kariba,,Sandheath Road,,Hindhead
+2021-04-15,118500,GU26 6SW,F,N,L,Heatherbank,Flat 20,Tower Road,,Hindhead
+2021-04-14,690000,GU26 6LT,S,N,F,12,,Beech Lane,Grayshott,Hindhead
+2021-04-12,1075000,GU26 6HG,D,N,F,Inglewood,,Crossways Road,Grayshott,Hindhead
+2021-04-12,300000,GU26 6EL,F,N,L,Kingswood,Flat 1,Crossways Road,,Hindhead
+2021-04-09,630000,GU26 6TX,D,N,F,Morlan Court,,Boundary Road,Grayshott,Hindhead
+2021-04-08,480000,GU26 6FU,S,N,F,15,,Tennyson Way,Grayshott,Hindhead
+2021-04-07,2035000,GU26 6HY,D,N,F,Ormonde House,,Churt Road,,Hindhead
+2021-04-06,385000,GU26 6BT,T,N,F,Gorse Cottages,2,Little Hammer Lane,Bramshott Chase,Hindhead
+2021-04-01,717000,GU26 6TG,D,N,F,Greenbank,,Highfield Crescent,,Hindhead
+2021-04-01,1100000,GU26 6SG,D,N,F,Merriemead,,Mead Road,,Hindhead
+2021-04-01,690000,GU26 6RW,D,N,F,Pine Hurst,,Clovelly Road,,Hindhead
+2021-03-31,640000,GU26 6HL,D,N,F,Apley Lodge,,Hill Road,Grayshott,Hindhead
+2021-03-31,850000,GU26 6DX,D,N,F,Bridles,,Waggoners Way,Grayshott,Hindhead
+2021-03-30,410000,GU26 6HF,D,N,F,Stewart House,,Crossways Road,Grayshott,Hindhead
+2021-03-26,380000,GU26 6UG,F,N,L,49,,Beacon Crescent,,Hindhead
+2021-03-26,400000,GU26 6FP,S,N,F,Roedeer Gardens,1,Portsmouth Road,Bramshott Chase,Hindhead
+2021-03-23,867500,GU26 6NP,D,N,F,Winters Choice,,Parsons Lane,,Hindhead
+2021-03-19,400000,GU26 6LR,S,N,F,Clarks Cottages,2,School Road,Grayshott,Hindhead
+2021-03-19,930000,GU26 6FQ,D,N,F,Springwheel House,,Portsmouth Road,,Hindhead
+2021-03-17,285000,GU26 6UY,F,N,L,29,,Hunters Place,,Hindhead
+2021-03-17,735000,GU26 6NH,D,N,F,2,,Vicarage Gardens,Grayshott,Hindhead
+2021-03-16,640000,GU26 6TQ,D,N,F,Old Stone Cottage,,Portsmouth Road,,Hindhead
+2021-03-15,440000,GU26 6AF,T,N,F,16,,London Road,,Hindhead
+2021-03-12,630000,GU26 6PJ,D,N,F,Samarkand,,Fairways,,Hindhead
+2021-03-12,440000,GU26 6JX,T,N,F,Hazlehurst,1,The Avenue,Grayshott,Hindhead
+2021-03-12,365000,GU26 6HD,F,N,L,Ensleigh,Flat 2,Crossways Road,Grayshott,Hindhead
+2021-03-09,115000,GU26 6UJ,F,N,L,Summerhouse Court,8,Headley Road,Grayshott,Hindhead
+2021-03-08,923000,GU26 6DP,D,N,F,Beechwood,,Headley Road,Grayshott,Hindhead
+2021-03-05,355000,GU26 6RS,S,N,F,8A,,Clovelly Drive,,Hindhead
+2021-03-05,250000,GU26 6PU,F,N,L,36,,Beacon Hill Court,,Hindhead
+2021-03-05,193000,GU26 6PU,F,N,L,13,,Beacon Hill Court,,Hindhead
+2021-03-04,199500,GU26 6PU,F,N,L,12,,Beacon Hill Court,,Hindhead
+2021-03-04,1310000,GU26 6NY,D,N,F,Wisteria Cottage,,Linkside East,,Hindhead
+2021-03-01,480000,GU26 6UL,T,N,F,3,,Stronsay Close,,Hindhead
+2021-02-26,250000,GU26 6TX,F,N,L,Holmes Court,Flat 3,Boundary Road,Grayshott,Hindhead
+2021-02-25,840000,GU26 6TR,D,N,F,10,,Hurstmere Close,Grayshott,Hindhead
+2021-02-25,887000,GU26 6EX,D,N,F,74,,Kingswood Firs,Grayshott,Hindhead
+2021-02-25,475000,GU26 6BN,S,N,F,Field Side,,High Pitfold,,Hindhead
+2021-02-24,610000,GU26 6LY,D,N,F,Sea Paddock,,Church Lane,Grayshott,Hindhead
+2021-02-19,680000,GU26 6TU,D,N,F,The Chase,,Headley Road,Grayshott,Hindhead
+2021-02-18,755250,GU26 6SR,D,N,F,12,,Pine Bank,,Hindhead
+2021-02-18,480000,GU26 6RP,S,N,F,Little Dawn,,Clovelly Road,,Hindhead
+2021-02-15,360000,GU26 6FB,T,N,F,19,,Royal Huts Avenue,,Hindhead
+2021-02-12,275000,GU26 6TX,F,N,L,Holmes Court,Flat 2,Boundary Road,Grayshott,Hindhead
+2021-02-12,280000,GU26 6PU,F,N,L,28,,Beacon Hill Court,,Hindhead
+2021-02-12,1272000,GU26 6HY,D,N,F,Noddon,,Churt Road,,Hindhead
+2021-02-12,935000,GU26 6HY,D,N,F,Larch House,,Churt Road,,Hindhead
+2021-02-12,1100000,GU26 6ER,D,N,F,65,,Kingswood Firs,Grayshott,Hindhead
+2021-02-12,743000,GU26 6AY,S,N,F,Chase Coach House,,Hindhead Road,,Hindhead
+2021-02-11,735000,GU26 6AW,D,N,F,Littleshaw,,Hindhead Road,,Hindhead
+2021-02-05,760000,GU26 6SG,D,N,F,Tanglewood,,Mead Road,,Hindhead
+2021-02-05,220000,GU26 6FR,F,N,L,Pevensey,1,Beacon Hill Road,,Hindhead
+2021-02-02,840000,GU26 6PL,D,N,F,8,,Caerleon Close,,Hindhead
+2021-01-29,810000,GU26 6SD,D,N,F,6,,The Moorings,,Hindhead
+2021-01-29,287500,GU26 6JS,F,N,L,Woolmer View,Flat 1,The Avenue,Grayshott,Hindhead
+2021-01-29,610000,GU26 6HU,D,N,F,Little Beacon,,Beacon Hill Park,,Hindhead
+2021-01-22,960000,GU26 6TN,D,N,F,Woodcote,,Headley Road,,Hindhead
+2021-01-22,289950,GU26 6TN,F,N,L,Cornerway Lodge,Flat 9,Headley Road,,Hindhead
+2021-01-22,432500,GU26 6RH,S,N,F,Roberts Villa,,Tilford Road,,Hindhead
+2021-01-21,717500,GU26 6SR,D,N,F,5,,Pine Bank,,Hindhead
+2021-01-21,765000,GU26 6JA,D,N,F,Honeysuckle Cottage,,Whitmore Vale Road,,Hindhead
+2021-01-21,472500,GU26 6FB,S,N,F,23,,Royal Huts Avenue,,Hindhead
+2021-01-12,710000,GU26 6SZ,D,N,F,10,,Clovelly Park,,Hindhead
+2021-01-08,685000,GU26 6RR,D,N,F,4,,Downside,,Hindhead
+2021-01-08,115000,GU26 6PZ,F,N,L,Cornerways,5,Wood Road,,Hindhead
+2021-01-07,1250000,GU26 6QA,D,N,F,The Harbour,,Heathside Lane,,Hindhead
+2021-01-06,695000,GU26 6EB,D,N,F,100,,Wheelwrights Lane,Grayshott,Hindhead

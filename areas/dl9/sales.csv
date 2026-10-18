@@ -1,0 +1,807 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-07-31,162000,DL9 4SE,S,N,F,26,,Chestnut Crescent,,Catterick Garrison
+2026-07-31,120000,DL9 4LY,S,N,F,53,,Colburn Lane,,Catterick Garrison
+2026-07-24,220000,DL9 3NP,D,N,F,33,,Mallard Road,Scotton,Catterick Garrison
+2026-07-17,190000,DL9 4NT,S,N,F,17,,St Cuthberts Avenue,,Catterick Garrison
+2026-07-17,140000,DL9 4DS,S,N,F,7,,Westridge Crescent,,Catterick Garrison
+2026-07-17,370000,DL9 3NN,D,N,F,The Woodlands,,Hunton Road,Scotton,Catterick Garrison
+2026-07-06,219000,DL9 3PW,S,N,F,Scotton House Barns,5,Kemmel Close,,Catterick Garrison
+2026-06-19,160000,DL9 4DT,S,N,F,14,,Albermarle Drive,,Catterick Garrison
+2026-06-01,70000,DL9 4LF,T,N,L,22,,Beckfield Close,Colburn,Catterick Garrison
+2026-05-28,215000,DL9 4XG,D,N,F,50,,Cookson Way,Brough With St Giles,Catterick Garrison
+2026-05-28,114000,DL9 4GE,F,N,L,32,,Ayr Avenue,Colburn,Catterick Garrison
+2026-05-22,135000,DL9 4JU,T,N,F,23,,Castleton Road,,Catterick Garrison
+2026-05-22,135000,DL9 4HS,T,N,F,5,,Hambleton Road,,Catterick Garrison
+2026-05-15,125100,DL9 4HU,T,N,F,58,,Scotton Gardens,,Catterick Garrison
+2026-05-15,295000,DL9 3RB,D,N,F,25,,Falcon Close,Scotton,Catterick Garrison
+2026-05-08,120000,DL9 3HE,T,N,F,13,,Somerset Close,,Catterick Garrison
+2026-05-05,160000,DL9 4LZ,S,N,F,78,,Colburn Lane,,Catterick Garrison
+2026-04-27,140000,DL9 3HL,T,N,F,28,,Bedford Close,,Catterick Garrison
+2026-04-20,155000,DL9 4WD,T,N,F,63,,Woodland Avenue,Colburn,Catterick Garrison
+2026-04-17,180000,DL9 4XP,S,N,F,7,,Beecher Stowe Drive,Brough With St Giles,Catterick Garrison
+2026-04-17,160000,DL9 4RH,S,N,F,31,,First Avenue,,Catterick Garrison
+2026-04-16,415000,DL9 4PD,D,N,F,Ashfield,,,Colburn,Catterick Garrison
+2026-04-02,160000,DL9 4XG,S,N,F,23,,Cookson Way,Brough With St Giles,Catterick Garrison
+2026-03-31,185000,DL9 4WG,T,N,F,15,,Walkerville Road,Colburn,Catterick Garrison
+2026-03-31,150000,DL9 4NA,S,N,F,18,,Meadowfield Road,,Catterick Garrison
+2026-03-30,170000,DL9 4TA,T,N,F,8,,Vicarage Road,,Catterick Garrison
+2026-03-27,215000,DL9 4TA,D,N,F,19,,Vicarage Road,,Catterick Garrison
+2026-03-20,135000,DL9 4JZ,T,N,F,44,,Horne Road,,Catterick Garrison
+2026-03-20,82000,DL9 4EZ,T,N,F,45,,Albermarle Drive,,Catterick Garrison
+2026-03-20,168000,DL9 3ES,S,N,F,2,,Lincoln Close,,Catterick Garrison
+2026-03-18,127000,DL9 4HT,T,N,F,28,,Hambleton Road,,Catterick Garrison
+2026-03-18,334000,DL9 4GD,D,N,F,16,,York Road,Colburn,Catterick Garrison
+2026-03-18,282500,DL9 3RE,D,N,F,14,,Oak Tree Avenue,Scotton,Catterick Garrison
+2026-03-13,160000,DL9 3RA,S,N,F,12,,Osprey Close,Scotton,Catterick Garrison
+2026-03-13,94000,DL9 3HE,T,N,F,38,,Somerset Close,,Catterick Garrison
+2026-03-10,155111,DL9 3EL,S,N,F,1,,Gough Road,,Catterick Garrison
+2026-03-06,180000,DL9 4DU,S,N,F,31,,Albermarle Drive,,Catterick Garrison
+2026-02-27,83000,DL9 4GG,F,N,L,35,,Chepstow Close,Colburn,Catterick Garrison
+2026-02-27,247000,DL9 4FH,D,Y,F,36,,Regiment Way,Brough With St Giles,Catterick Garrison
+2026-02-20,121000,DL9 4HT,S,N,F,50,,Hambleton Road,,Catterick Garrison
+2026-02-19,158000,DL9 3NB,D,N,F,Stroon,,Meanee Road,Scotton,Catterick Garrison
+2026-02-17,155000,DL9 3RA,S,N,F,9,,Osprey Close,Scotton,Catterick Garrison
+2026-01-30,130000,DL9 4JZ,T,N,F,39,,Horne Road,,Catterick Garrison
+2026-01-30,266000,DL9 4FH,D,Y,F,12,,Regiment Way,Brough With St Giles,Catterick Garrison
+2026-01-23,210000,DL9 4DN,S,N,F,26,,Linton Rise,,Catterick Garrison
+2026-01-20,180000,DL9 4NZ,T,N,F,2,,Springcroft Close,,Catterick Garrison
+2026-01-19,132500,DL9 4SS,T,N,F,33,,Tulip Avenue,Colburn,Catterick Garrison
+2026-01-12,132000,DL9 4WG,T,N,F,17,,Walkerville Road,Colburn,Catterick Garrison
+2026-01-12,280000,DL9 4FH,D,Y,F,6,,Regiment Way,Brough With St Giles,Catterick Garrison
+2026-01-09,175000,DL9 4WA,T,N,F,65,,Beechwood Grove,Colburn,Catterick Garrison
+2026-01-09,125000,DL9 4RD,S,N,F,39,,Constantine Avenue,,Catterick Garrison
+2025-12-19,313500,DL9 4FH,D,Y,F,9,,Regiment Way,Brough With St Giles,Catterick Garrison
+2025-12-18,134750,DL9 4FH,S,Y,F,8,,Regiment Way,Brough With St Giles,Catterick Garrison
+2025-12-18,134750,DL9 4FH,S,Y,F,7,,Regiment Way,Brough With St Giles,Catterick Garrison
+2025-12-18,300000,DL9 4FH,D,Y,F,3,,Regiment Way,Brough With St Giles,Catterick Garrison
+2025-12-15,225000,DL9 3PL,D,N,F,Dalegarth,,,Scotton,Catterick Garrison
+2025-12-12,128000,DL9 4JS,S,N,F,10,,Cleveland Road,,Catterick Garrison
+2025-12-12,188000,DL9 4DU,S,N,F,1,,Albermarle Drive,,Catterick Garrison
+2025-12-11,187500,DL9 4XG,S,N,F,26,,Cookson Way,Brough With St Giles,Catterick Garrison
+2025-12-09,140000,DL9 4NF,S,N,F,25,,Grange Road,,Catterick Garrison
+2025-12-05,255000,DL9 4XR,D,N,F,35,,Churchill Drive,Brough With St Giles,Catterick Garrison
+2025-12-05,240000,DL9 4XG,D,N,F,14,,Cookson Way,Brough With St Giles,Catterick Garrison
+2025-12-03,214000,DL9 4SS,D,N,F,21,,Tulip Avenue,Colburn,Catterick Garrison
+2025-12-03,150000,DL9 4RE,S,N,F,5,,Constantine Grove,,Catterick Garrison
+2025-12-03,190000,DL9 4GB,T,N,F,3,,Horseshoe Close,Colburn,Catterick Garrison
+2025-12-02,168000,DL9 4GB,T,N,F,19,,Horseshoe Close,Colburn,Catterick Garrison
+2025-12-01,131500,DL9 4HT,S,N,F,56,,Hambleton Road,,Catterick Garrison
+2025-11-28,211850,DL9 4FN,S,Y,F,16,,Somme Way,Brough With St Giles,Catterick Garrison
+2025-11-28,327000,DL9 4FH,D,Y,F,2,,Regiment Way,Brough With St Giles,Catterick Garrison
+2025-11-28,280250,DL9 4FF,D,Y,F,19,,Cambrai Close,Brough With St Giles,Catterick Garrison
+2025-11-28,180500,DL9 4FF,S,Y,F,16,,Cambrai Close,Brough With St Giles,Catterick Garrison
+2025-11-28,245000,DL9 4FF,D,Y,F,12,,Cambrai Close,Brough With St Giles,Catterick Garrison
+2025-11-24,155000,DL9 4DZ,S,N,F,74,,Falkland Road,,Catterick Garrison
+2025-11-21,115000,DL9 3HG,T,N,F,12,,Essex Close,,Catterick Garrison
+2025-11-21,211000,DL9 3HE,D,N,F,75,,Somerset Close,,Catterick Garrison
+2025-11-21,229500,DL9 3ES,D,N,F,8,,Lincoln Close,,Catterick Garrison
+2025-11-14,282500,DL9 4BN,D,N,F,50,,Haydock Road,Colburn,Catterick Garrison
+2025-11-12,192000,DL9 4DU,S,N,F,21,,Albermarle Drive,,Catterick Garrison
+2025-11-07,160000,DL9 4JR,T,N,F,5,,Cleveland Road,,Catterick Garrison
+2025-11-07,88000,DL9 4DP,F,N,L,25,,Kingfisher Drive,,Catterick Garrison
+2025-11-06,175000,DL9 4SS,T,N,F,42,,Tulip Avenue,Colburn,Catterick Garrison
+2025-11-03,118000,DL9 4JU,T,N,F,27,,Castleton Road,,Catterick Garrison
+2025-10-31,144305,DL9 4FN,S,Y,F,5,,Somme Way,Brough With St Giles,Catterick Garrison
+2025-10-31,180500,DL9 4FF,S,Y,F,23,,Cambrai Close,Brough With St Giles,Catterick Garrison
+2025-10-31,90000,DL9 4DP,F,N,L,26,,Kingfisher Drive,,Catterick Garrison
+2025-10-31,294995,DL9 4DA,D,Y,F,7,,Kirkham Road,Brough With St Giles,Catterick Garrison
+2025-10-31,229995,DL9 4DA,T,Y,F,38,,Kirkham Road,Brough With St Giles,Catterick Garrison
+2025-10-29,180500,DL9 4FF,S,Y,F,9,,Cambrai Close,Brough With St Giles,Catterick Garrison
+2025-10-28,212000,DL9 3RE,S,N,F,20,,Oak Tree Avenue,Scotton,Catterick Garrison
+2025-10-27,280250,DL9 4FF,D,Y,F,14,,Cambrai Close,Brough With St Giles,Catterick Garrison
+2025-10-27,107500,DL9 4DP,F,N,L,29,,Kingfisher Drive,,Catterick Garrison
+2025-10-24,142310,DL9 4FN,S,Y,F,4,,Somme Way,Brough With St Giles,Catterick Garrison
+2025-10-22,123000,DL9 4LF,T,N,L,8,,Beckfield Close,Colburn,Catterick Garrison
+2025-10-17,180000,DL9 4XQ,S,N,F,3,,Francis Drive,Brough With St Giles,Catterick Garrison
+2025-10-17,280000,DL9 4XP,D,N,F,14,,Beecher Stowe Drive,Brough With St Giles,Catterick Garrison
+2025-10-17,180500,DL9 4FF,S,Y,F,6,,Cambrai Close,Brough With St Giles,Catterick Garrison
+2025-10-17,190000,DL9 4FF,S,Y,F,3,,Cambrai Close,Brough With St Giles,Catterick Garrison
+2025-10-16,179500,DL9 4NN,S,N,F,24,,Sutton Avenue,,Catterick Garrison
+2025-10-14,308750,DL9 4FN,D,Y,F,6,,Somme Way,Brough With St Giles,Catterick Garrison
+2025-10-10,247995,DL9 4ET,S,Y,F,50,,Easby Crescent,Brough With St Giles,Catterick Garrison
+2025-10-10,182000,DL9 4DY,S,N,F,40,,Cravendale Road,,Catterick Garrison
+2025-10-09,211000,DL9 4NL,S,N,F,27,,Sutton Avenue,,Catterick Garrison
+2025-10-03,338000,DL9 4GJ,S,N,F,9,,Derby Way,Colburn,Catterick Garrison
+2025-10-03,235000,DL9 4GG,S,N,F,10,,Chepstow Close,Colburn,Catterick Garrison
+2025-10-03,250000,DL9 4FF,D,Y,F,10,,Cambrai Close,Brough With St Giles,Catterick Garrison
+2025-10-01,197000,DL9 3BB,D,Y,F,9,,Poppy Close,,Catterick Garrison
+2025-09-30,292995,DL9 4ET,D,Y,F,12,,Easby Crescent,Brough With St Giles,Catterick Garrison
+2025-09-30,332500,DL9 4BU,D,N,F,2,,Wetherby Close,Colburn,Catterick Garrison
+2025-09-29,160000,DL9 4UZ,T,N,F,2,,Evergreen Avenue,Colburn,Catterick Garrison
+2025-09-26,130000,DL9 4HR,T,N,F,10,,Field Grove,,Catterick Garrison
+2025-09-26,261250,DL9 4FF,D,Y,F,17,,Cambrai Close,Brough With St Giles,Catterick Garrison
+2025-09-26,300000,DL9 4FF,D,Y,F,15,,Cambrai Close,Brough With St Giles,Catterick Garrison
+2025-09-26,182000,DL9 4ET,T,Y,F,36,,Easby Crescent,Brough With St Giles,Catterick Garrison
+2025-09-26,180000,DL9 4ET,T,Y,F,20,,Easby Crescent,Brough With St Giles,Catterick Garrison
+2025-09-12,223000,DL9 4FF,S,Y,F,25,,Cambrai Close,Brough With St Giles,Catterick Garrison
+2025-09-08,175000,DL9 4PF,S,N,F,8,,St Peters Close,,Catterick Garrison
+2025-09-01,240000,DL9 4GB,T,N,F,5,,Horseshoe Close,Colburn,Catterick Garrison
+2025-08-29,232500,DL9 4WB,D,N,F,23,,Bluebell Walk,Colburn,Catterick Garrison
+2025-08-27,90000,DL9 4DP,S,N,L,32,,Kingfisher Drive,,Catterick Garrison
+2025-08-26,261250,DL9 4FF,D,Y,F,21,,Cambrai Close,Brough With St Giles,Catterick Garrison
+2025-08-15,88500,DL9 4GG,F,N,L,15,,Chepstow Close,Colburn,Catterick Garrison
+2025-08-15,195500,DL9 3ND,S,N,F,9,,Moorfield Bungalows,Scotton,Catterick Garrison
+2025-08-14,187000,DL9 3BB,S,Y,F,19,,Poppy Close,,Catterick Garrison
+2025-08-08,184000,DL9 3BB,S,Y,F,23,,Poppy Close,,Catterick Garrison
+2025-08-08,160000,DL9 3BB,S,Y,F,18,,Poppy Close,,Catterick Garrison
+2025-08-07,160000,DL9 4PF,S,N,F,7,,St Peters Close,,Catterick Garrison
+2025-08-07,264999,DL9 3BB,D,Y,F,20,,Poppy Close,,Catterick Garrison
+2025-08-06,253995,DL9 4DA,S,Y,F,9,,Kirkham Road,Brough With St Giles,Catterick Garrison
+2025-08-06,162000,DL9 3BB,S,Y,F,30,,Poppy Close,,Catterick Garrison
+2025-08-01,270000,DL9 3BB,D,Y,F,21,,Poppy Close,,Catterick Garrison
+2025-07-31,220000,DL9 4FF,S,Y,F,8,,Cambrai Close,Brough With St Giles,Catterick Garrison
+2025-07-31,345000,DL9 4FF,D,Y,F,2,,Cambrai Close,Brough With St Giles,Catterick Garrison
+2025-07-28,175000,DL9 3RA,D,N,F,15,,Osprey Close,Scotton,Catterick Garrison
+2025-07-25,331995,DL9 4ET,D,Y,F,52,,Easby Crescent,Brough With St Giles,Catterick Garrison
+2025-07-25,119000,DL9 3HE,T,N,F,35,,Somerset Close,,Catterick Garrison
+2025-07-24,88000,DL9 4GG,F,N,L,5,,Chepstow Close,Colburn,Catterick Garrison
+2025-07-21,325000,DL9 4FF,D,Y,F,4,,Cambrai Close,Brough With St Giles,Catterick Garrison
+2025-07-18,155000,DL9 4SE,S,N,F,24,,Chestnut Crescent,,Catterick Garrison
+2025-07-11,216000,DL9 4TA,S,N,F,20,,Vicarage Road,,Catterick Garrison
+2025-07-11,165000,DL9 4RD,T,N,F,52,,Constantine Avenue,,Catterick Garrison
+2025-07-11,215000,DL9 4PF,D,N,F,10,,St Peters Close,,Catterick Garrison
+2025-06-30,304995,DL9 4DA,D,Y,F,17,,Kirkham Road,Brough With St Giles,Catterick Garrison
+2025-06-30,162000,DL9 3RA,S,N,F,17,,Osprey Close,Scotton,Catterick Garrison
+2025-06-30,135000,DL9 3HH,T,N,F,20,,Warwick Close,,Catterick Garrison
+2025-06-30,186000,DL9 3BB,S,Y,F,27,,Poppy Close,,Catterick Garrison
+2025-06-27,115000,DL9 4NH,S,N,F,44,,Grange Road,,Catterick Garrison
+2025-06-27,285000,DL9 4FN,D,Y,F,1,,Somme Way,Brough With St Giles,Catterick Garrison
+2025-06-27,149800,DL9 4FF,S,Y,F,7,,Cambrai Close,Brough With St Giles,Catterick Garrison
+2025-06-27,149800,DL9 4FF,S,Y,F,5,,Cambrai Close,Brough With St Giles,Catterick Garrison
+2025-06-27,201400,DL9 4FF,S,Y,F,11,,Cambrai Close,Brough With St Giles,Catterick Garrison
+2025-06-27,200000,DL9 4FF,S,Y,F,1,,Cambrai Close,Brough With St Giles,Catterick Garrison
+2025-06-27,331995,DL9 4ET,D,Y,F,54,,Easby Crescent,Brough With St Giles,Catterick Garrison
+2025-06-27,253995,DL9 4ET,S,Y,F,48,,Easby Crescent,Brough With St Giles,Catterick Garrison
+2025-06-27,253995,DL9 4ET,S,Y,F,46,,Easby Crescent,Brough With St Giles,Catterick Garrison
+2025-06-27,253995,DL9 4ET,S,Y,F,44,,Easby Crescent,Brough With St Giles,Catterick Garrison
+2025-06-27,197999,DL9 3BB,S,Y,F,28,,Poppy Close,,Catterick Garrison
+2025-06-23,334000,DL9 4GJ,S,N,F,12,,Derby Way,Colburn,Catterick Garrison
+2025-06-13,126500,DL9 4HT,S,N,F,36,,Hambleton Road,,Catterick Garrison
+2025-06-13,160000,DL9 3BB,S,Y,F,26,,Poppy Close,,Catterick Garrison
+2025-06-09,208000,DL9 4SB,T,N,F,2,,Cottages Beck Court,,Catterick Garrison
+2025-06-09,120000,DL9 3HQ,T,N,F,57,,Essex Close,,Catterick Garrison
+2025-06-06,180000,DL9 4ET,T,Y,F,31,,Easby Crescent,Brough With St Giles,Catterick Garrison
+2025-06-05,190000,DL9 4GL,S,N,F,6,,Lingfield Close,Colburn,Catterick Garrison
+2025-06-05,87500,DL9 4GG,F,N,L,11,,Chepstow Close,Colburn,Catterick Garrison
+2025-05-30,168000,DL9 4XG,S,N,F,46,,Cookson Way,Brough With St Giles,Catterick Garrison
+2025-05-30,145000,DL9 4NU,S,N,F,6,,St Giles Close,,Catterick Garrison
+2025-05-30,187000,DL9 4ET,T,Y,F,34,,Easby Crescent,Brough With St Giles,Catterick Garrison
+2025-05-30,253995,DL9 4ET,S,Y,F,32,,Easby Crescent,Brough With St Giles,Catterick Garrison
+2025-05-30,148000,DL9 4DN,S,N,F,23,,Linton Rise,,Catterick Garrison
+2025-05-30,295995,DL9 4DA,D,Y,F,1,,Kirkham Road,Brough With St Giles,Catterick Garrison
+2025-05-29,248995,DL9 4ET,D,Y,F,42,,Easby Crescent,Brough With St Giles,Catterick Garrison
+2025-05-27,95000,DL9 4UY,T,N,F,5,,Copper Beech Way,Colburn,Catterick Garrison
+2025-05-23,140000,DL9 4WD,T,N,F,26,,Woodland Avenue,Colburn,Catterick Garrison
+2025-05-16,215000,DL9 4XG,S,N,F,54,,Cookson Way,Brough With St Giles,Catterick Garrison
+2025-05-16,230000,DL9 4XG,D,N,F,37,,Cookson Way,Brough With St Giles,Catterick Garrison
+2025-05-16,165500,DL9 4TE,S,N,F,5,,St Oswalds Close,,Catterick Garrison
+2025-05-16,255000,DL9 3PJ,D,N,F,Fourways,,,Scotton,Catterick Garrison
+2025-05-02,100000,DL9 4NR,S,N,F,9,,Brough Avenue,,Catterick Garrison
+2025-05-02,135000,DL9 4JR,S,N,F,71,,Cleveland Road,,Catterick Garrison
+2025-05-02,175000,DL9 4BQ,S,N,F,3,,St Johns Road,Hipswell,Catterick Garrison
+2025-04-30,195000,DL9 3BB,S,Y,F,22,,Poppy Close,,Catterick Garrison
+2025-04-28,187000,DL9 4ET,T,Y,F,38,,Easby Crescent,Brough With St Giles,Catterick Garrison
+2025-04-28,185000,DL9 4ET,T,Y,F,18,,Easby Crescent,Brough With St Giles,Catterick Garrison
+2025-04-25,135000,DL9 4LS,S,N,F,44,,Colburn Lane,,Catterick Garrison
+2025-04-25,178000,DL9 4GD,S,N,F,7,,York Road,Colburn,Catterick Garrison
+2025-04-21,345000,DL9 4PB,D,N,F,108,,Colburn Lane,,Catterick Garrison
+2025-04-17,115000,DL9 4HT,S,N,F,58,,Hambleton Road,,Catterick Garrison
+2025-04-17,104000,DL9 4GE,F,N,L,28,,Ayr Avenue,Colburn,Catterick Garrison
+2025-04-15,215000,DL9 4RY,T,N,F,16,,Rosebud Way,Colburn,Catterick Garrison
+2025-04-11,369950,DL9 4NZ,D,Y,F,11,,Springcroft Close,,Catterick Garrison
+2025-04-11,157500,DL9 4HX,T,N,F,40,,Scotton Gardens,,Catterick Garrison
+2025-04-11,110000,DL9 3HQ,T,N,F,56,,Essex Close,,Catterick Garrison
+2025-04-09,315000,DL9 4NZ,D,Y,F,17,,Springcroft Close,,Catterick Garrison
+2025-03-31,379950,DL9 4NZ,D,Y,F,9,,Springcroft Close,,Catterick Garrison
+2025-03-31,180500,DL9 4JN,S,N,F,1,,Carlton Road,,Catterick Garrison
+2025-03-31,196000,DL9 4GF,S,N,F,2,,Ascot Avenue,Colburn,Catterick Garrison
+2025-03-28,294995,DL9 4ET,D,Y,F,6,,Easby Crescent,Brough With St Giles,Catterick Garrison
+2025-03-28,331995,DL9 4ET,D,Y,F,28,,Easby Crescent,Brough With St Giles,Catterick Garrison
+2025-03-28,225995,DL9 4ET,S,Y,F,23,,Easby Crescent,Brough With St Giles,Catterick Garrison
+2025-03-28,185000,DL9 4ET,T,Y,F,22,,Easby Crescent,Brough With St Giles,Catterick Garrison
+2025-03-28,229995,DL9 4DA,S,Y,F,5,,Kirkham Road,Brough With St Giles,Catterick Garrison
+2025-03-28,185000,DL9 3EL,S,N,F,5,,Gough Road,,Catterick Garrison
+2025-03-28,195000,DL9 3BB,S,Y,F,11,,Poppy Close,,Catterick Garrison
+2025-03-27,304995,DL9 4ET,D,Y,F,15,,Easby Crescent,Brough With St Giles,Catterick Garrison
+2025-03-21,162500,DL9 4RD,T,N,F,50,,Constantine Avenue,,Catterick Garrison
+2025-03-21,200000,DL9 3HE,S,N,F,78,,Somerset Close,,Catterick Garrison
+2025-03-21,190000,DL9 3HE,S,N,F,76,,Somerset Close,,Catterick Garrison
+2025-03-20,157660,DL9 3RA,D,N,F,18,,Osprey Close,Scotton,Catterick Garrison
+2025-03-18,369950,DL9 4NZ,D,Y,F,15,,Springcroft Close,,Catterick Garrison
+2025-03-14,175000,DL9 4HD,S,N,F,7,,Maple Close,,Catterick Garrison
+2025-03-14,223999,DL9 3BB,D,Y,F,24,,Poppy Close,,Catterick Garrison
+2025-03-14,224000,DL9 3BB,D,Y,F,17,,Poppy Close,,Catterick Garrison
+2025-03-13,178500,DL9 4GD,S,N,F,4,,York Road,Colburn,Catterick Garrison
+2025-03-06,154999,DL9 3BB,S,Y,F,2,,Poppy Close,,Catterick Garrison
+2025-03-04,112000,DL9 4BQ,S,N,F,47,,St Johns Road,Hipswell,Catterick Garrison
+2025-02-28,224000,DL9 3BB,S,Y,F,16,,Poppy Close,,Catterick Garrison
+2025-02-21,310000,DL9 4NY,D,Y,F,14,,Summercroft Road,,Catterick Garrison
+2025-02-17,160000,DL9 4NA,S,N,F,28,,Meadowfield Road,,Catterick Garrison
+2025-02-14,80000,DL9 4XS,T,N,L,19,,Darwin Drive,Brough With St Giles,Catterick Garrison
+2025-02-14,217500,DL9 4XR,T,N,F,9,,Churchill Drive,Brough With St Giles,Catterick Garrison
+2025-02-14,260000,DL9 4WF,D,N,F,18,,St Cuthberts Close,Colburn,Catterick Garrison
+2025-02-14,182000,DL9 4RE,S,N,F,15,,Constantine Grove,,Catterick Garrison
+2025-02-14,135000,DL9 4HT,T,N,F,22,,Hambleton Road,,Catterick Garrison
+2025-02-14,42500,DL9 4HB,F,N,L,Albermarle Court,6,Albermarle Drive,,Catterick Garrison
+2025-02-14,182000,DL9 4GF,S,N,F,9,,Ascot Avenue,Colburn,Catterick Garrison
+2025-02-13,130000,DL9 4HT,S,N,F,6,,Hambleton Road,,Catterick Garrison
+2025-02-12,265000,DL9 4NY,S,Y,F,10,,Summercroft Road,,Catterick Garrison
+2025-02-07,92000,DL9 4UY,T,N,F,3,,Copper Beech Way,Colburn,Catterick Garrison
+2025-02-07,120000,DL9 4TT,T,N,F,4,,Daisy Close,Colburn,Catterick Garrison
+2025-02-07,119000,DL9 4HT,S,N,F,50,,Hambleton Road,,Catterick Garrison
+2025-01-31,181999,DL9 3BB,S,Y,F,10,,Poppy Close,,Catterick Garrison
+2025-01-30,197000,DL9 3BB,D,Y,F,7,,Poppy Close,,Catterick Garrison
+2025-01-29,170000,DL9 4EB,S,N,F,11,,Cravendale Road,,Catterick Garrison
+2025-01-24,192000,DL9 4NN,S,N,F,14,,Sutton Avenue,,Catterick Garrison
+2025-01-24,125000,DL9 4HU,S,N,F,68,,Scotton Gardens,,Catterick Garrison
+2025-01-24,155000,DL9 4HD,T,N,F,2,,Maple Close,,Catterick Garrison
+2025-01-24,115000,DL9 3HQ,T,N,F,66,,Essex Close,,Catterick Garrison
+2025-01-22,129995,DL9 3HN,T,N,F,7,,Derby Close,,Catterick Garrison
+2025-01-20,290000,DL9 4NY,D,N,F,9,,Summercroft Road,,Catterick Garrison
+2025-01-20,118000,DL9 4GB,F,N,L,16,,Horseshoe Close,Colburn,Catterick Garrison
+2025-01-17,155999,DL9 3BB,S,Y,F,15,,Poppy Close,,Catterick Garrison
+2025-01-17,197500,DL9 3BB,D,Y,F,14,,Poppy Close,,Catterick Garrison
+2025-01-07,195000,DL9 4NT,T,N,F,34,,St Cuthberts Avenue,,Catterick Garrison
+2024-12-23,259999,DL9 3BB,D,Y,F,12,,Poppy Close,,Catterick Garrison
+2024-12-20,140000,DL9 4JU,S,N,F,1,,Castleton Road,,Catterick Garrison
+2024-12-20,175000,DL9 4GD,S,N,F,3,,York Road,Colburn,Catterick Garrison
+2024-12-19,190000,DL9 4GH,T,N,F,9,,Goodwood Avenue,Colburn,Catterick Garrison
+2024-12-18,160000,DL9 4XP,T,N,F,11,,Beecher Stowe Drive,Brough With St Giles,Catterick Garrison
+2024-12-16,244995,DL9 4ET,D,Y,F,40,,Easby Crescent,Brough With St Giles,Catterick Garrison
+2024-12-13,196500,DL9 4WF,S,N,F,14,,St Cuthberts Close,Colburn,Catterick Garrison
+2024-12-13,245000,DL9 4WF,D,N,F,12,,St Cuthberts Close,Colburn,Catterick Garrison
+2024-12-13,130000,DL9 4JR,T,N,F,11,,Cleveland Road,,Catterick Garrison
+2024-12-13,133000,DL9 4HS,T,N,F,29,,Hambleton Road,,Catterick Garrison
+2024-12-13,249995,DL9 4FA,S,Y,F,5,,Fountains Row,Brough With St Giles,Catterick Garrison
+2024-12-13,249995,DL9 4FA,S,Y,F,4,,Fountains Row,Brough With St Giles,Catterick Garrison
+2024-12-13,249995,DL9 4FA,S,Y,F,2,,Fountains Row,Brough With St Giles,Catterick Garrison
+2024-12-13,185000,DL9 4FA,S,Y,F,10,,Fountains Row,Brough With St Giles,Catterick Garrison
+2024-12-13,135000,DL9 3HH,T,N,F,42,,Warwick Close,,Catterick Garrison
+2024-12-11,185000,DL9 4TE,S,N,F,17,,St Oswalds Close,,Catterick Garrison
+2024-12-11,235000,DL9 4TD,S,N,F,14,,St Oswalds Road,,Catterick Garrison
+2024-12-11,145000,DL9 4NF,T,N,F,37,,Grange Road,,Catterick Garrison
+2024-12-06,156000,DL9 4NE,S,N,F,20,,Grange Road,,Catterick Garrison
+2024-12-06,180000,DL9 4DU,S,N,F,5,,Albermarle Drive,,Catterick Garrison
+2024-11-29,205000,DL9 4NT,S,N,F,11,,St Cuthberts Avenue,,Catterick Garrison
+2024-11-29,185000,DL9 4FA,S,Y,F,6,,Fountains Row,Brough With St Giles,Catterick Garrison
+2024-11-29,225995,DL9 4ET,S,Y,F,25,,Easby Crescent,Brough With St Giles,Catterick Garrison
+2024-11-29,226995,DL9 4ET,S,Y,F,21,,Easby Crescent,Brough With St Giles,Catterick Garrison
+2024-11-29,186000,DL9 4DU,S,N,F,7,,Albermarle Drive,,Catterick Garrison
+2024-11-25,249995,DL9 4FA,S,Y,F,3,,Fountains Row,Brough With St Giles,Catterick Garrison
+2024-11-22,161000,DL9 4RN,S,N,F,11,,Fourth Avenue,Colburn,Catterick Garrison
+2024-11-15,150000,DL9 3NS,D,N,F,12,,Curlew Crescent,Scotton,Catterick Garrison
+2024-11-14,175000,DL9 4HU,T,N,F,52,,Scotton Gardens,,Catterick Garrison
+2024-11-12,160000,DL9 3ND,S,N,F,1,,Moorfield Bungalows,Scotton,Catterick Garrison
+2024-11-04,160000,DL9 4NE,T,N,F,8,,Grange Road,,Catterick Garrison
+2024-10-31,198000,DL9 4WB,S,N,F,3,,Bluebell Walk,Colburn,Catterick Garrison
+2024-10-31,155000,DL9 4NT,S,N,F,20,,St Cuthberts Avenue,,Catterick Garrison
+2024-10-31,145000,DL9 4ET,S,Y,F,26,,Easby Crescent,Brough With St Giles,Catterick Garrison
+2024-10-31,145000,DL9 4ET,S,Y,F,24,,Easby Crescent,Brough With St Giles,Catterick Garrison
+2024-10-31,229995,DL9 4DA,S,Y,F,3,,Kirkham Road,Brough With St Giles,Catterick Garrison
+2024-10-31,140000,DL9 4BG,S,N,F,Hipswell Village,14,,Hipswell,Catterick Garrison
+2024-10-30,220000,DL9 4GE,S,N,F,1,,Ayr Avenue,Colburn,Catterick Garrison
+2024-10-29,168000,DL9 4GB,S,N,F,15A,,Horseshoe Close,Colburn,Catterick Garrison
+2024-10-29,120000,DL9 3HH,T,N,F,41,,Warwick Close,,Catterick Garrison
+2024-10-28,185000,DL9 4FA,S,Y,F,9,,Fountains Row,Brough With St Giles,Catterick Garrison
+2024-10-25,304995,DL9 4FA,D,Y,F,1,,Fountains Row,Brough With St Giles,Catterick Garrison
+2024-10-21,177500,DL9 4GE,T,N,F,10,,Ayr Avenue,Colburn,Catterick Garrison
+2024-10-21,210000,DL9 3RE,T,N,F,4,,Oak Tree Avenue,Scotton,Catterick Garrison
+2024-10-21,95000,DL9 3HJ,T,N,F,32,,Rutland Close,,Catterick Garrison
+2024-10-14,168000,DL9 4GB,S,N,F,27,,Horseshoe Close,Colburn,Catterick Garrison
+2024-10-14,216999,DL9 3BB,D,Y,F,8,,Poppy Close,,Catterick Garrison
+2024-10-09,191999,DL9 3BB,S,Y,F,4,,Poppy Close,,Catterick Garrison
+2024-10-07,299950,DL9 4NZ,D,Y,F,21,,Springcroft Close,,Catterick Garrison
+2024-10-07,181999,DL9 3BB,S,Y,F,6,,Poppy Close,,Catterick Garrison
+2024-10-04,127500,DL9 4JS,S,N,F,12,,Cleveland Road,,Catterick Garrison
+2024-10-04,151999,DL9 3BB,S,Y,F,3,,Poppy Close,,Catterick Garrison
+2024-10-04,197999,DL9 3BB,S,Y,F,1,,Poppy Close,,Catterick Garrison
+2024-10-01,151999,DL9 3BB,S,Y,F,5,,Poppy Close,,Catterick Garrison
+2024-09-30,145000,DL9 4TA,T,N,F,7,,Vicarage Road,,Catterick Garrison
+2024-09-27,304995,DL9 4ET,D,Y,F,27,,Easby Crescent,Brough With St Giles,Catterick Garrison
+2024-09-27,324995,DL9 4ET,D,Y,F,17,,Easby Crescent,Brough With St Giles,Catterick Garrison
+2024-09-20,239995,DL9 4FA,D,Y,F,11,,Fountains Row,Brough With St Giles,Catterick Garrison
+2024-09-18,180000,DL9 3LX,D,N,F,3,,Kestrel Drive,Scotton,Catterick Garrison
+2024-09-17,110000,DL9 3HH,T,N,F,12,,Warwick Close,,Catterick Garrison
+2024-09-13,199995,DL9 4ET,T,Y,F,33,,Easby Crescent,Brough With St Giles,Catterick Garrison
+2024-09-13,189950,DL9 3NW,D,N,F,3,,Woodcock Drive,Scotton,Catterick Garrison
+2024-09-11,185000,DL9 4XR,T,N,F,41,,Churchill Drive,Brough With St Giles,Catterick Garrison
+2024-09-11,125000,DL9 4RN,S,N,F,12,,Fourth Avenue,Colburn,Catterick Garrison
+2024-09-05,240000,DL9 4XR,T,N,F,11,,Churchill Drive,Brough With St Giles,Catterick Garrison
+2024-08-30,168000,DL9 4SS,S,N,F,22,,Tulip Avenue,Colburn,Catterick Garrison
+2024-08-30,145000,DL9 4ET,S,Y,F,35,,Easby Crescent,Brough With St Giles,Catterick Garrison
+2024-08-30,199995,DL9 4ET,T,Y,F,29,,Easby Crescent,Brough With St Giles,Catterick Garrison
+2024-08-30,226995,DL9 4ET,S,Y,F,19,,Easby Crescent,Brough With St Giles,Catterick Garrison
+2024-08-29,165000,DL9 4HX,T,N,F,1,,Scotton Gardens,,Catterick Garrison
+2024-08-29,304995,DL9 4FA,D,Y,F,8,,Fountains Row,Brough With St Giles,Catterick Garrison
+2024-08-29,165000,DL9 3RA,S,N,F,5,,Osprey Close,Scotton,Catterick Garrison
+2024-08-28,127000,DL9 3NE,T,N,F,2,,Hawthorn Avenue,Scotton,Catterick Garrison
+2024-08-23,145000,DL9 4SE,S,N,F,26,,Chestnut Crescent,,Catterick Garrison
+2024-08-23,130000,DL9 4HS,T,N,F,35,,Hambleton Road,,Catterick Garrison
+2024-08-23,212500,DL9 4HD,D,N,F,12,,Maple Close,,Catterick Garrison
+2024-08-21,282000,DL9 3RE,D,N,F,33,,Oak Tree Avenue,Scotton,Catterick Garrison
+2024-08-21,122000,DL9 3NP,S,N,F,69,,Mallard Road,Scotton,Catterick Garrison
+2024-08-16,423668,DL9 4PD,D,N,F,Avalon,,,Colburn,Catterick Garrison
+2024-08-16,240000,DL9 3NS,D,N,F,9,,Curlew Crescent,Scotton,Catterick Garrison
+2024-08-15,340000,DL9 4GF,D,N,F,26,,Ascot Avenue,Colburn,Catterick Garrison
+2024-08-09,90000,DL9 4GG,F,N,L,21,,Chepstow Close,Colburn,Catterick Garrison
+2024-08-07,120000,DL9 4HS,S,N,F,47,,Hambleton Road,,Catterick Garrison
+2024-07-26,135000,DL9 4WF,T,N,F,21,,St Cuthberts Close,Colburn,Catterick Garrison
+2024-07-26,169000,DL9 4FA,S,Y,F,12,,Fountains Row,Brough With St Giles,Catterick Garrison
+2024-07-26,157000,DL9 4ET,S,Y,F,37,,Easby Crescent,Brough With St Giles,Catterick Garrison
+2024-07-26,163000,DL9 3NW,D,N,F,7,,Woodcock Drive,Scotton,Catterick Garrison
+2024-07-22,170000,DL9 4BJ,S,N,F,8,,St Johns Road,Hipswell,Catterick Garrison
+2024-07-19,145000,DL9 4FA,S,Y,F,15,,Fountains Row,Brough With St Giles,Catterick Garrison
+2024-07-19,110000,DL9 3HQ,T,N,F,65,,Essex Close,,Catterick Garrison
+2024-07-18,100000,DL9 4UY,T,N,F,4,,Copper Beech Way,Colburn,Catterick Garrison
+2024-07-12,185000,DL9 4ET,S,Y,F,11,,Easby Crescent,Brough With St Giles,Catterick Garrison
+2024-06-28,180000,DL9 4QZ,S,N,F,5,,Catterick Road,,Catterick Garrison
+2024-06-28,178000,DL9 4NL,S,N,F,11,,Sutton Avenue,,Catterick Garrison
+2024-06-28,180000,DL9 4LU,S,N,F,10,,Colville Road,,Catterick Garrison
+2024-06-28,185000,DL9 4FA,S,Y,F,7,,Fountains Row,Brough With St Giles,Catterick Garrison
+2024-06-28,145000,DL9 4FA,S,Y,F,16,,Fountains Row,Brough With St Giles,Catterick Garrison
+2024-06-28,229995,DL9 4ET,S,Y,F,7,,Easby Crescent,Brough With St Giles,Catterick Garrison
+2024-06-28,206000,DL9 4BN,S,N,F,46,,Haydock Road,Colburn,Catterick Garrison
+2024-06-25,135000,DL9 4DU,S,N,F,19,,Albermarle Drive,,Catterick Garrison
+2024-06-21,221000,DL9 4TE,D,N,F,1,,St Oswalds Close,,Catterick Garrison
+2024-06-21,118000,DL9 3HE,T,N,F,39,,Somerset Close,,Catterick Garrison
+2024-06-18,140000,DL9 4HX,S,N,F,2,,Scotton Gardens,,Catterick Garrison
+2024-06-12,145000,DL9 4FA,S,Y,F,14,,Fountains Row,Brough With St Giles,Catterick Garrison
+2024-06-07,405000,DL9 3RE,D,N,F,36,,Oak Tree Avenue,Scotton,Catterick Garrison
+2024-05-31,215000,DL9 4RY,T,N,F,17,,Rosebud Way,Colburn,Catterick Garrison
+2024-05-31,162500,DL9 4BX,S,N,F,8,,Doncaster Close,Colburn,Catterick Garrison
+2024-05-24,137731,DL9 4JU,S,N,F,31,,Castleton Road,,Catterick Garrison
+2024-05-24,185000,DL9 4ET,S,Y,F,9,,Easby Crescent,Brough With St Giles,Catterick Garrison
+2024-05-17,195000,DL9 3NP,D,N,F,22,,Mallard Road,Scotton,Catterick Garrison
+2024-05-03,250000,DL9 4XP,D,N,F,41,,Beecher Stowe Drive,Brough With St Giles,Catterick Garrison
+2024-05-03,199995,DL9 3HE,D,Y,F,75,,Somerset Close,,Catterick Garrison
+2024-04-23,225995,DL9 4ET,S,Y,F,8,,Easby Crescent,Brough With St Giles,Catterick Garrison
+2024-04-22,135000,DL9 4JR,S,N,F,59,,Cleveland Road,,Catterick Garrison
+2024-04-22,113500,DL9 4GE,F,N,L,25,,Ayr Avenue,Colburn,Catterick Garrison
+2024-04-19,130000,DL9 4TB,T,N,F,9,,St Martins Close,,Catterick Garrison
+2024-04-17,295000,DL9 3RB,D,N,F,6,,Falcon Close,Scotton,Catterick Garrison
+2024-03-28,195000,DL9 4QZ,S,N,F,10,,Catterick Road,Colburn,Catterick Garrison
+2024-03-28,93500,DL9 4GB,F,N,L,28,,Horseshoe Close,Colburn,Catterick Garrison
+2024-03-28,225995,DL9 4ET,S,Y,F,10,,Easby Crescent,Brough With St Giles,Catterick Garrison
+2024-03-28,120000,DL9 3HJ,T,N,F,28,,Rutland Close,,Catterick Garrison
+2024-03-28,194995,DL9 3HE,T,Y,F,72,,Somerset Close,,Catterick Garrison
+2024-03-20,212000,DL9 4NZ,S,Y,F,14,,Springcroft Close,,Catterick Garrison
+2024-03-11,204995,DL9 4ET,S,Y,F,2,,Easby Crescent,Brough With St Giles,Catterick Garrison
+2024-03-08,320000,DL9 4LG,D,N,F,Willowgarth,,Ringwood Road,,Catterick Garrison
+2024-03-05,195000,DL9 4TE,S,N,F,9,,St Oswalds Close,,Catterick Garrison
+2024-03-01,201000,DL9 4PJ,S,N,F,Oakside,2,,Colburn,Catterick Garrison
+2024-03-01,85000,DL9 4DP,T,N,L,33,,Kingfisher Drive,,Catterick Garrison
+2024-02-29,249995,DL9 4DA,D,Y,F,2,,Kirkham Road,Brough With St Giles,Catterick Garrison
+2024-02-29,265000,DL9 3PL,D,N,F,Sycamore Cottage,,,Scotton,Catterick Garrison
+2024-02-26,157000,DL9 4DN,S,N,F,36,,Linton Rise,,Catterick Garrison
+2024-02-23,122000,DL9 4HS,S,N,F,23,,Hambleton Road,,Catterick Garrison
+2024-02-21,110000,DL9 4HS,T,N,F,11,,Hambleton Road,,Catterick Garrison
+2024-02-05,179995,DL9 4ET,S,Y,F,4,,Easby Crescent,Brough With St Giles,Catterick Garrison
+2024-02-01,181500,DL9 4XN,S,N,F,6,,Kipling Drive,Brough With St Giles,Catterick Garrison
+2024-02-01,140000,DL9 3HG,T,N,F,3,,Essex Close,,Catterick Garrison
+2024-01-26,124000,DL9 4UQ,T,N,F,11,,Snowdrop Walk,Colburn,Catterick Garrison
+2024-01-26,140000,DL9 4HS,T,N,F,45,,Hambleton Road,,Catterick Garrison
+2024-01-26,179995,DL9 4ET,S,Y,F,14,,Easby Crescent,Brough With St Giles,Catterick Garrison
+2024-01-17,135000,DL9 4SS,T,N,F,42,,Tulip Avenue,Colburn,Catterick Garrison
+2024-01-10,120000,DL9 4NA,S,N,F,6,,Meadowfield Road,,Catterick Garrison
+2024-01-09,435000,DL9 3NF,D,N,F,Thieves Gill,,Hawthorne Avenue,Scotton,Catterick Garrison
+2023-12-22,119000,DL9 3HH,T,N,F,32,,Warwick Close,,Catterick Garrison
+2023-12-21,229995,DL9 4ET,S,Y,F,5,,Easby Crescent,Brough With St Giles,Catterick Garrison
+2023-12-21,296995,DL9 4DA,D,Y,F,4,,Kirkham Road,Brough With St Giles,Catterick Garrison
+2023-12-21,309995,DL9 4DA,D,Y,F,10,,Kirkham Road,Brough With St Giles,Catterick Garrison
+2023-12-20,194995,DL9 4ET,S,Y,F,16,,Easby Crescent,Brough With St Giles,Catterick Garrison
+2023-12-20,185000,DL9 4DZ,S,N,F,42,,Falkland Road,,Catterick Garrison
+2023-12-20,209995,DL9 4DA,S,Y,F,8,,Kirkham Road,Brough With St Giles,Catterick Garrison
+2023-12-20,209995,DL9 4DA,S,Y,F,6,,Kirkham Road,Brough With St Giles,Catterick Garrison
+2023-12-18,190000,DL9 3NP,S,N,F,47,,Mallard Road,Scotton,Catterick Garrison
+2023-12-15,231500,DL9 4GF,S,N,F,12,,Ascot Avenue,Colburn,Catterick Garrison
+2023-12-11,255000,DL9 4NY,S,Y,F,12,,Summercroft Road,,Catterick Garrison
+2023-12-11,100000,DL9 4LX,S,N,F,29,,Colville Crescent,,Catterick Garrison
+2023-12-08,235000,DL9 3RB,D,N,F,23,,Falcon Close,Scotton,Catterick Garrison
+2023-12-01,255000,DL9 4WB,D,N,F,22,,Bluebell Walk,Colburn,Catterick Garrison
+2023-12-01,183888,DL9 3NW,D,N,F,9,,Woodcock Drive,Scotton,Catterick Garrison
+2023-12-01,237557,DL9 3NJ,S,N,F,1,,Hillcrest,Scotton,Catterick Garrison
+2023-11-30,170000,DL9 4GL,S,N,F,5,,Lingfield Close,Colburn,Catterick Garrison
+2023-11-30,130000,DL9 4DH,S,N,F,7B,,Hildyard Row,,Catterick Garrison
+2023-11-29,108500,DL9 4GE,F,N,L,30,,Ayr Avenue,Colburn,Catterick Garrison
+2023-11-29,118000,DL9 3HQ,T,N,F,60,,Essex Close,,Catterick Garrison
+2023-11-29,128000,DL9 3HN,T,N,F,16,,Derby Close,,Catterick Garrison
+2023-11-28,186000,DL9 4SE,D,N,F,27,,Chestnut Crescent,,Catterick Garrison
+2023-11-24,215000,DL9 4XR,T,N,F,2,,Churchill Drive,Brough With St Giles,Catterick Garrison
+2023-11-23,159995,DL9 3HE,T,Y,F,73,,Somerset Close,,Catterick Garrison
+2023-11-16,272000,DL9 4NZ,D,Y,F,16,,Springcroft Close,,Catterick Garrison
+2023-11-10,135000,DL9 3NE,T,N,F,3,,Hawthorn Avenue,Scotton,Catterick Garrison
+2023-11-09,110000,DL9 4HT,T,N,F,54,,Hambleton Road,,Catterick Garrison
+2023-10-30,400000,DL9 4PD,D,N,F,Thistle Cottage,,,Colburn,Catterick Garrison
+2023-10-27,111500,DL9 4UA,T,N,F,3,,Carter Close,Colburn,Catterick Garrison
+2023-10-27,199995,DL9 3HE,T,Y,F,71,,Somerset Close,,Catterick Garrison
+2023-10-24,208000,DL9 4SS,S,N,F,17,,Tulip Avenue,Colburn,Catterick Garrison
+2023-10-23,180000,DL9 4WD,T,N,F,1,,Woodland Avenue,Colburn,Catterick Garrison
+2023-10-20,132500,DL9 4RD,T,N,F,52,,Constantine Avenue,,Catterick Garrison
+2023-10-20,140000,DL9 4HU,T,N,F,64,,Scotton Gardens,,Catterick Garrison
+2023-10-20,220000,DL9 4BX,S,N,F,21,,Doncaster Close,Colburn,Catterick Garrison
+2023-10-18,110000,DL9 4NN,S,N,F,12,,Sutton Avenue,,Catterick Garrison
+2023-10-13,150000,DL9 4HT,S,N,F,44,,Hambleton Road,,Catterick Garrison
+2023-10-12,144000,DL9 4TB,S,N,F,1,,St Martins Close,,Catterick Garrison
+2023-10-12,157500,DL9 4JN,S,N,F,15,,Carlton Road,,Catterick Garrison
+2023-10-10,240000,DL9 4SS,D,N,F,3,,Tulip Avenue,Colburn,Catterick Garrison
+2023-10-06,200000,DL9 4LS,S,N,F,38,,Colburn Lane,,Catterick Garrison
+2023-10-06,139950,DL9 4DN,S,N,F,14,,Linton Rise,,Catterick Garrison
+2023-10-06,290000,DL9 3NB,S,N,F,Hill View,,Meanee Road,Scotton,Catterick Garrison
+2023-09-29,147500,DL9 4PF,S,N,F,1,,St Peters Close,,Catterick Garrison
+2023-09-29,115000,DL9 4GB,F,N,L,20,,Horseshoe Close,Colburn,Catterick Garrison
+2023-09-29,220995,DL9 3HE,D,Y,F,74,,Somerset Close,,Catterick Garrison
+2023-09-29,164995,DL9 3ES,S,Y,F,1,,Lincoln Close,,Catterick Garrison
+2023-09-27,110000,DL9 3HH,T,N,F,47,,Warwick Close,,Catterick Garrison
+2023-09-22,118000,DL9 4JU,T,N,F,21,,Castleton Road,,Catterick Garrison
+2023-09-01,164995,DL9 3ES,S,Y,F,3,,Lincoln Close,,Catterick Garrison
+2023-08-31,210000,DL9 4XR,S,N,F,22,,Churchill Drive,Brough With St Giles,Catterick Garrison
+2023-08-31,165000,DL9 4NR,S,N,F,17,,Brough Avenue,,Catterick Garrison
+2023-08-31,125000,DL9 4HX,T,N,F,3,,Scotton Gardens,,Catterick Garrison
+2023-08-31,104000,DL9 3ES,S,Y,F,7,,Lincoln Close,,Catterick Garrison
+2023-08-31,202995,DL9 3ES,S,Y,F,5,,Lincoln Close,,Catterick Garrison
+2023-08-24,190000,DL9 4TE,S,N,F,7,,St Oswalds Close,,Catterick Garrison
+2023-08-23,185000,DL9 4NZ,T,Y,F,2,,Springcroft Close,,Catterick Garrison
+2023-08-18,222500,DL9 4XR,T,N,F,19,,Churchill Drive,Brough With St Giles,Catterick Garrison
+2023-08-18,225000,DL9 4NZ,T,Y,F,6,,Springcroft Close,,Catterick Garrison
+2023-08-18,195000,DL9 4NZ,T,Y,F,4,,Springcroft Close,,Catterick Garrison
+2023-08-08,193000,DL9 4WF,S,N,F,16,,St Cuthberts Close,Colburn,Catterick Garrison
+2023-08-03,120000,DL9 3HQ,T,N,F,22,,Essex Close,,Catterick Garrison
+2023-07-28,130000,DL9 4HS,S,N,F,9,,Hambleton Road,,Catterick Garrison
+2023-07-21,120000,DL9 4HX,T,N,F,43,,Scotton Gardens,,Catterick Garrison
+2023-07-20,138000,DL9 4NP,S,N,F,2,,Coronation Avenue,,Catterick Garrison
+2023-06-30,191995,DL9 3ES,S,Y,F,9,,Lincoln Close,,Catterick Garrison
+2023-06-30,193995,DL9 3ES,S,Y,F,11,,Lincoln Close,,Catterick Garrison
+2023-06-29,90000,DL9 4GG,F,N,L,49,,Chepstow Close,Colburn,Catterick Garrison
+2023-06-28,224995,DL9 3HE,D,Y,F,82,,Somerset Close,,Catterick Garrison
+2023-06-28,92000,DL9 3ES,S,Y,F,17,,Lincoln Close,,Catterick Garrison
+2023-06-27,153995,DL9 3ES,S,Y,F,15,,Lincoln Close,,Catterick Garrison
+2023-06-16,260000,DL9 4TE,S,N,F,8,,St Oswalds Close,,Catterick Garrison
+2023-06-16,121000,DL9 3HE,T,N,F,15,,Somerset Close,,Catterick Garrison
+2023-06-09,115000,DL9 4WG,T,N,F,17,,Walkerville Road,Colburn,Catterick Garrison
+2023-06-05,189995,DL9 4DU,S,N,F,17,,Albermarle Drive,,Catterick Garrison
+2023-05-26,110000,DL9 4RN,S,N,F,28,,Fourth Avenue,Colburn,Catterick Garrison
+2023-05-26,215000,DL9 4LF,S,N,F,2,,Beckfield Close,Colburn,Catterick Garrison
+2023-05-24,179960,DL9 4NZ,S,Y,F,10,,Springcroft Close,,Catterick Garrison
+2023-05-23,194950,DL9 4NY,S,Y,F,23,,Summercroft Road,,Catterick Garrison
+2023-05-19,202950,DL9 4NY,S,Y,F,5,,Summercroft Road,,Catterick Garrison
+2023-05-12,314950,DL9 4NY,D,Y,F,19,,Summercroft Road,,Catterick Garrison
+2023-05-11,269950,DL9 4NY,D,Y,F,8,,Summercroft Road,,Catterick Garrison
+2023-05-02,180000,DL9 4XH,S,N,F,7,,Herriot Drive,Brough With St Giles,Catterick Garrison
+2023-04-28,148000,DL9 4ND,S,N,F,11,,Meadowfield Road,,Catterick Garrison
+2023-04-27,205000,DL9 3NS,D,N,F,5,,Curlew Crescent,Scotton,Catterick Garrison
+2023-04-26,199600,DL9 4NZ,S,Y,F,12,,Springcroft Close,,Catterick Garrison
+2023-04-21,119250,DL9 3HJ,T,N,F,5,,Rutland Close,,Catterick Garrison
+2023-04-19,263000,DL9 4WB,D,N,F,25,,Bluebell Walk,Colburn,Catterick Garrison
+2023-04-14,240000,DL9 4XG,D,N,F,42,,Cookson Way,Brough With St Giles,Catterick Garrison
+2023-04-14,215000,DL9 3NP,D,N,F,24,,Mallard Road,Scotton,Catterick Garrison
+2023-04-14,115000,DL9 3HQ,T,N,F,69,,Essex Close,,Catterick Garrison
+2023-04-06,220000,DL9 4TD,D,N,F,12,,St Oswalds Road,,Catterick Garrison
+2023-04-06,200000,DL9 4GE,S,N,F,3,,Ayr Avenue,Colburn,Catterick Garrison
+2023-03-31,224950,DL9 4NZ,S,Y,F,8,,Springcroft Close,,Catterick Garrison
+2023-03-31,245995,DL9 3ES,D,Y,F,24,,Lincoln Close,,Catterick Garrison
+2023-03-29,269000,DL9 4RS,D,N,F,8,,Maple Avenue,Colburn,Catterick Garrison
+2023-03-28,110000,DL9 4UT,T,N,F,91,,Forest Drive,Colburn,Catterick Garrison
+2023-03-24,165000,DL9 4PF,S,N,F,5,,St Peters Close,,Catterick Garrison
+2023-03-24,300000,DL9 4GE,D,N,F,21,,Ayr Avenue,Colburn,Catterick Garrison
+2023-03-21,289950,DL9 4NY,D,Y,F,17,,Summercroft Road,,Catterick Garrison
+2023-03-16,99995,DL9 4GE,F,N,L,28,,Ayr Avenue,Colburn,Catterick Garrison
+2023-03-10,119000,DL9 4HS,T,N,F,21,,Hambleton Road,,Catterick Garrison
+2023-03-08,230000,DL9 4XG,D,N,F,16,,Cookson Way,Brough With St Giles,Catterick Garrison
+2023-02-28,142500,DL9 4LX,S,N,F,15,,Colville Crescent,,Catterick Garrison
+2023-02-28,169000,DL9 4BX,T,N,F,7,,Doncaster Close,Colburn,Catterick Garrison
+2023-02-24,249500,DL9 4NY,S,Y,F,6,,Summercroft Road,,Catterick Garrison
+2023-02-24,200000,DL9 4LF,T,N,F,18,,Beckfield Close,Colburn,Catterick Garrison
+2023-02-23,205000,DL9 4RN,S,N,F,20,,Fourth Avenue,Colburn,Catterick Garrison
+2023-02-23,229950,DL9 4NY,D,Y,F,3,,Summercroft Road,,Catterick Garrison
+2023-02-21,150000,DL9 4TB,S,N,F,10,,St Martins Close,,Catterick Garrison
+2023-02-17,150000,DL9 4UN,S,N,F,11,,Firefly Walk,Colburn,Catterick Garrison
+2023-02-17,269950,DL9 4NY,D,Y,F,1,,Summercroft Road,,Catterick Garrison
+2023-02-15,204950,DL9 4NY,S,Y,F,7,,Summercroft Road,,Catterick Garrison
+2023-02-10,145000,DL9 4XG,S,N,F,22,,Cookson Way,Brough With St Giles,Catterick Garrison
+2023-02-10,249500,DL9 4NY,S,Y,F,4,,Summercroft Road,,Catterick Garrison
+2023-02-03,160000,DL9 4RE,S,N,F,11,,Constantine Grove,,Catterick Garrison
+2023-02-01,194950,DL9 4NY,S,Y,F,21,,Summercroft Road,,Catterick Garrison
+2023-01-20,219995,DL9 3ES,S,Y,F,22,,Lincoln Close,,Catterick Garrison
+2023-01-06,289950,DL9 4NY,D,Y,F,2,,Summercroft Road,,Catterick Garrison
+2023-01-06,210000,DL9 4DJ,S,N,F,14,,Byng Road,,Catterick Garrison
+2022-12-22,171995,DL9 3ES,S,Y,F,20,,Lincoln Close,,Catterick Garrison
+2022-12-22,92000,DL9 3ES,S,Y,F,18,,Lincoln Close,,Catterick Garrison
+2022-12-21,264950,DL9 4NY,D,Y,F,9,,Summercroft Road,,Catterick Garrison
+2022-12-21,151995,DL9 3ES,S,Y,F,16,,Lincoln Close,,Catterick Garrison
+2022-12-21,171995,DL9 3ES,S,Y,F,14,,Lincoln Close,,Catterick Garrison
+2022-12-17,120000,DL9 3HJ,T,N,F,34,,Rutland Close,,Catterick Garrison
+2022-12-16,310000,DL9 3RE,D,N,F,61,,Oak Tree Avenue,Scotton,Catterick Garrison
+2022-12-16,186995,DL9 3ES,T,Y,F,12,,Lincoln Close,,Catterick Garrison
+2022-12-15,120000,DL9 4RD,S,N,F,5,,Constantine Avenue,,Catterick Garrison
+2022-12-14,150000,DL9 4HD,S,N,F,8,,Maple Close,,Catterick Garrison
+2022-12-14,186500,DL9 3RE,T,N,F,49,,Oak Tree Avenue,Scotton,Catterick Garrison
+2022-12-09,223000,DL9 4GJ,S,N,F,3,,Derby Way,Colburn,Catterick Garrison
+2022-12-09,115000,DL9 4GB,F,N,L,16,,Horseshoe Close,Colburn,Catterick Garrison
+2022-12-02,170000,DL9 4XH,S,N,F,3,,Herriot Drive,Brough With St Giles,Catterick Garrison
+2022-12-02,130000,DL9 4RE,S,N,F,2,,Constantine Grove,,Catterick Garrison
+2022-11-30,135000,DL9 4DT,S,N,F,16,,Albermarle Drive,,Catterick Garrison
+2022-11-30,188995,DL9 3ES,S,Y,F,10,,Lincoln Close,,Catterick Garrison
+2022-11-28,90000,DL9 4GG,F,N,L,17,,Chepstow Close,Colburn,Catterick Garrison
+2022-11-25,152000,DL9 4RN,S,N,F,6,,Fourth Avenue,Colburn,Catterick Garrison
+2022-11-23,93482,DL9 4XS,S,N,L,25,,Darwin Drive,Brough With St Giles,Catterick Garrison
+2022-11-23,128000,DL9 3HF,T,N,F,54,,Somerset Close,,Catterick Garrison
+2022-11-18,110000,DL9 4HT,S,N,F,40,,Hambleton Road,,Catterick Garrison
+2022-11-17,125000,DL9 4RL,S,N,F,47,,First Avenue,,Catterick Garrison
+2022-11-17,132500,DL9 4HS,T,N,F,53,,Hambleton Road,,Catterick Garrison
+2022-11-11,164000,DL9 4XN,S,N,F,9,,Kipling Drive,Brough With St Giles,Catterick Garrison
+2022-11-10,195000,DL9 4GF,S,N,F,27,,Ascot Avenue,Colburn,Catterick Garrison
+2022-11-07,210000,DL9 3RE,S,N,F,20,,Oak Tree Avenue,Scotton,Catterick Garrison
+2022-11-01,181000,DL9 4DN,S,N,F,21,,Linton Rise,,Catterick Garrison
+2022-10-21,252000,DL9 4XR,D,N,F,25,,Churchill Drive,Brough With St Giles,Catterick Garrison
+2022-10-21,150000,DL9 4XG,S,N,F,45,,Cookson Way,Brough With St Giles,Catterick Garrison
+2022-10-21,300000,DL9 4PB,D,N,F,110,,Colburn Lane,,Catterick Garrison
+2022-10-21,237995,DL9 3ES,D,Y,F,6,,Lincoln Close,,Catterick Garrison
+2022-10-19,216995,DL9 3ES,D,Y,F,8,,Lincoln Close,,Catterick Garrison
+2022-10-18,215000,DL9 4GB,T,N,F,5,,Horseshoe Close,Colburn,Catterick Garrison
+2022-10-14,170000,DL9 4SE,S,N,F,11,,Chestnut Crescent,,Catterick Garrison
+2022-10-11,147000,DL9 4PJ,S,N,F,Oakside,2,,Colburn,Catterick Garrison
+2022-10-10,185000,DL9 4WD,T,N,F,6,,Woodland Avenue,Colburn,Catterick Garrison
+2022-10-10,115000,DL9 4RY,S,N,F,43,,Rosebud Way,Colburn,Catterick Garrison
+2022-10-10,169950,DL9 4HX,T,N,F,24,,Scotton Gardens,,Catterick Garrison
+2022-10-07,210000,DL9 4HT,S,N,F,72,,Hambleton Road,,Catterick Garrison
+2022-09-30,139950,DL9 3ND,S,N,F,10,,Moorfield Bungalows,Scotton,Catterick Garrison
+2022-09-30,92000,DL9 3HE,T,Y,F,77,,Somerset Close,,Catterick Garrison
+2022-09-30,214995,DL9 3ES,D,Y,F,4,,Lincoln Close,,Catterick Garrison
+2022-09-29,200000,DL9 4WD,S,N,F,23,,Woodland Avenue,Colburn,Catterick Garrison
+2022-09-12,200000,DL9 4GE,T,N,F,16,,Ayr Avenue,Colburn,Catterick Garrison
+2022-09-12,181995,DL9 3HE,S,Y,F,78,,Somerset Close,,Catterick Garrison
+2022-09-09,240000,DL9 4GB,S,N,F,32,,Horseshoe Close,Colburn,Catterick Garrison
+2022-09-07,189000,DL9 4TA,S,N,F,15,,Vicarage Road,,Catterick Garrison
+2022-09-07,150000,DL9 4RD,S,N,F,46,,Constantine Avenue,,Catterick Garrison
+2022-09-05,247500,DL9 4TA,S,N,F,4,,Vicarage Road,,Catterick Garrison
+2022-09-02,152000,DL9 4TY,T,N,F,2,,Cottee Way,Colburn,Catterick Garrison
+2022-08-31,235000,DL9 4XG,D,N,F,14,,Cookson Way,Brough With St Giles,Catterick Garrison
+2022-08-31,156000,DL9 4DU,S,N,F,15,,Albermarle Drive,,Catterick Garrison
+2022-08-26,110000,DL9 4TH,T,N,F,6,,Bramble Close,Colburn,Catterick Garrison
+2022-08-24,129950,DL9 4JZ,T,N,F,39,,Horne Road,,Catterick Garrison
+2022-08-23,180000,DL9 4PF,S,N,F,11,,St Peters Close,,Catterick Garrison
+2022-08-19,162000,DL9 4SS,T,N,F,51,,Tulip Avenue,Colburn,Catterick Garrison
+2022-08-12,195000,DL9 4DT,S,N,F,28,,Albermarle Drive,,Catterick Garrison
+2022-08-09,127500,DL9 4UU,T,N,F,3,,Elm Tree Avenue,Colburn,Catterick Garrison
+2022-08-05,165000,DL9 4BX,T,N,F,6,,Doncaster Close,Colburn,Catterick Garrison
+2022-08-04,250000,DL9 4PJ,D,N,F,Oakside,3,,Colburn,Catterick Garrison
+2022-08-02,225000,DL9 4RS,D,N,F,20,,Maple Avenue,Colburn,Catterick Garrison
+2022-08-02,163000,DL9 4DY,S,N,F,4,,Cravendale Road,,Catterick Garrison
+2022-08-01,140000,DL9 4NX,S,N,F,91,,Colburn Lane,,Catterick Garrison
+2022-08-01,190000,DL9 3NW,D,N,F,16,,Woodcock Drive,Scotton,Catterick Garrison
+2022-07-29,135000,DL9 4HD,D,N,F,21,,Maple Close,,Catterick Garrison
+2022-07-29,265000,DL9 4HA,S,N,F,62,,Albermarle Drive,,Catterick Garrison
+2022-07-29,175000,DL9 4DW,S,N,F,18,,Byng Road,,Catterick Garrison
+2022-07-29,150000,DL9 3HN,T,N,F,19,,Derby Close,,Catterick Garrison
+2022-07-29,135000,DL9 3HE,T,N,F,17,,Somerset Close,,Catterick Garrison
+2022-07-28,215000,DL9 4XR,T,N,F,24,,Churchill Drive,Brough With St Giles,Catterick Garrison
+2022-07-25,165000,DL9 4WD,T,N,F,24,,Woodland Avenue,Colburn,Catterick Garrison
+2022-07-22,216000,DL9 3NP,D,N,F,4,,Mallard Road,Scotton,Catterick Garrison
+2022-07-15,185000,DL9 3NP,S,N,F,16,,Mallard Road,Scotton,Catterick Garrison
+2022-07-14,187000,DL9 4BQ,S,N,F,49,,St Johns Road,Hipswell,Catterick Garrison
+2022-07-11,104000,DL9 4WG,T,N,F,21,,Walkerville Road,Colburn,Catterick Garrison
+2022-07-08,210000,DL9 4XR,T,N,F,6,,Churchill Drive,Brough With St Giles,Catterick Garrison
+2022-06-30,192995,DL9 3HE,D,Y,F,81,,Somerset Close,,Catterick Garrison
+2022-06-30,179995,DL9 3HE,T,Y,F,80,,Somerset Close,,Catterick Garrison
+2022-06-30,178995,DL9 3HE,T,Y,F,79,,Somerset Close,,Catterick Garrison
+2022-06-30,163995,DL9 3HE,S,Y,F,76,,Somerset Close,,Catterick Garrison
+2022-06-30,157995,DL9 3ES,S,Y,F,2,,Lincoln Close,,Catterick Garrison
+2022-06-24,174995,DL9 3EL,S,Y,F,5,,Gough Road,,Catterick Garrison
+2022-06-23,240000,DL9 4GJ,S,N,F,6,,Derby Way,Colburn,Catterick Garrison
+2022-06-23,163995,DL9 3EL,S,Y,F,3,,Gough Road,,Catterick Garrison
+2022-06-23,142995,DL9 3EL,S,Y,F,1,,Gough Road,,Catterick Garrison
+2022-06-17,160000,DL9 4HU,T,N,F,72,,Scotton Gardens,,Catterick Garrison
+2022-06-10,150000,DL9 4WG,T,N,F,29,,Walkerville Road,Colburn,Catterick Garrison
+2022-06-10,180000,DL9 4LS,S,N,F,18,,Colburn Lane,,Catterick Garrison
+2022-06-10,372000,DL9 3NN,D,N,F,Wayside,,Hunton Road,Scotton,Catterick Garrison
+2022-05-31,140000,DL9 4RJ,S,N,F,15,,Fifth Avenue,,Catterick Garrison
+2022-05-31,104000,DL9 3EL,S,Y,F,9,,Gough Road,,Catterick Garrison
+2022-05-31,138995,DL9 3EL,S,Y,F,7,,Gough Road,,Catterick Garrison
+2022-05-31,175995,DL9 3EL,S,Y,F,11,,Gough Road,,Catterick Garrison
+2022-05-27,187000,DL9 4RS,S,N,F,12,,Maple Avenue,Colburn,Catterick Garrison
+2022-05-27,345000,DL9 4PE,D,N,F,Cherrytree Cottage,,,Colburn,Catterick Garrison
+2022-05-27,167000,DL9 4BN,T,N,F,42,,Haydock Road,Colburn,Catterick Garrison
+2022-05-27,227995,DL9 3EL,D,Y,F,17,,Gough Road,,Catterick Garrison
+2022-05-27,188995,DL9 3EL,D,Y,F,15,,Gough Road,,Catterick Garrison
+2022-05-26,140000,DL9 4UN,S,N,F,2,,Firefly Walk,Colburn,Catterick Garrison
+2022-05-25,161000,DL9 4RE,S,N,F,15,,Constantine Grove,,Catterick Garrison
+2022-05-23,115000,DL9 4JS,T,N,F,30,,Cleveland Road,,Catterick Garrison
+2022-05-20,226374,DL9 3NP,D,N,F,6,,Mallard Road,Scotton,Catterick Garrison
+2022-05-20,148000,DL9 3HQ,T,N,F,31,,Essex Close,,Catterick Garrison
+2022-05-18,127000,DL9 4NN,S,N,F,10,,Sutton Avenue,,Catterick Garrison
+2022-05-18,170000,DL9 4NL,S,N,F,11,,Sutton Avenue,,Catterick Garrison
+2022-05-17,115000,DL9 4GB,F,N,L,30,,Horseshoe Close,Colburn,Catterick Garrison
+2022-05-10,227500,DL9 4GN,S,N,F,4,,Foxhunter Avenue,Colburn,Catterick Garrison
+2022-05-10,297560,DL9 3JF,D,N,F,72,,Richmond Road,,Catterick Garrison
+2022-05-06,172500,DL9 4NP,S,N,F,3,,Coronation Avenue,,Catterick Garrison
+2022-05-06,132500,DL9 4NH,T,N,F,32,,Grange Road,,Catterick Garrison
+2022-04-29,126000,DL9 4HS,S,N,F,1,,Hambleton Road,,Catterick Garrison
+2022-04-29,149950,DL9 3NA,S,N,F,14,,Bedale Road,Scotton,Catterick Garrison
+2022-04-29,122500,DL9 3HH,T,N,F,44,,Warwick Close,,Catterick Garrison
+2022-04-22,120000,DL9 4NG,S,N,F,6,,Manor Grove,,Catterick Garrison
+2022-04-20,220000,DL9 4WA,D,N,F,11,,Beechwood Grove,Colburn,Catterick Garrison
+2022-04-20,111000,DL9 4GB,F,N,L,20,,Horseshoe Close,Colburn,Catterick Garrison
+2022-04-11,217000,DL9 4GH,D,N,F,10,,Goodwood Avenue,Colburn,Catterick Garrison
+2022-04-11,310000,DL9 4BX,D,N,F,18,,Doncaster Close,Colburn,Catterick Garrison
+2022-04-08,135000,DL9 4RE,S,N,F,7,,Constantine Grove,,Catterick Garrison
+2022-04-08,230000,DL9 4DP,D,N,F,4,,Kingfisher Drive,,Catterick Garrison
+2022-04-08,250000,DL9 3NP,D,N,F,34,,Mallard Road,Scotton,Catterick Garrison
+2022-04-07,114000,DL9 4GE,F,N,L,32,,Ayr Avenue,Colburn,Catterick Garrison
+2022-04-05,133005,DL9 4HW,T,N,F,3,,Orchard Mews,,Catterick Garrison
+2022-03-31,110000,DL9 3HQ,T,N,F,17,,Essex Close,,Catterick Garrison
+2022-03-30,135000,DL9 4HX,T,N,F,42,,Scotton Gardens,,Catterick Garrison
+2022-03-29,119950,DL9 3HJ,T,N,F,4,,Rutland Close,,Catterick Garrison
+2022-03-24,130095,DL9 4HT,S,N,F,96,,Hambleton Road,,Catterick Garrison
+2022-03-18,185000,DL9 4WA,S,N,F,17,,Beechwood Grove,Colburn,Catterick Garrison
+2022-03-14,170000,DL9 4DZ,S,N,F,10,,Falkland Road,,Catterick Garrison
+2022-03-11,130000,DL9 4HU,T,N,F,81,,Scotton Gardens,,Catterick Garrison
+2022-03-11,100000,DL9 4GE,F,N,L,33,,Ayr Avenue,Colburn,Catterick Garrison
+2022-03-09,135000,DL9 4JN,T,N,F,9,,Carlton Road,,Catterick Garrison
+2022-03-09,125000,DL9 4HX,S,N,F,14,,Scotton Gardens,,Catterick Garrison
+2022-03-09,133000,DL9 3HH,T,N,F,14,,Warwick Close,,Catterick Garrison
+2022-03-03,140000,DL9 4RB,S,N,F,8,,Constantine Avenue,,Catterick Garrison
+2022-02-28,130000,DL9 4QZ,S,N,F,7,,Catterick Road,,Catterick Garrison
+2022-02-25,210000,DL9 4XR,T,N,F,5,,Churchill Drive,Brough With St Giles,Catterick Garrison
+2022-02-25,230000,DL9 4WF,D,N,F,24,,St Cuthberts Close,Colburn,Catterick Garrison
+2022-02-25,165000,DL9 4BN,S,N,F,23,,Haydock Road,Colburn,Catterick Garrison
+2022-02-23,445000,DL9 4PE,T,N,F,Colburn Barns,The Stables,,Colburn,Catterick Garrison
+2022-02-18,165000,DL9 4SE,T,N,F,28,,Chestnut Crescent,,Catterick Garrison
+2022-02-18,205000,DL9 4RS,D,N,F,26,,Maple Avenue,Colburn,Catterick Garrison
+2022-02-18,96000,DL9 4GG,F,N,L,11,,Chepstow Close,Colburn,Catterick Garrison
+2022-02-18,100000,DL9 3HH,T,N,F,30,,Warwick Close,,Catterick Garrison
+2022-02-17,106000,DL9 4TB,S,N,F,10,,St Martins Close,,Catterick Garrison
+2022-02-15,85000,DL9 4RN,T,N,F,30,,Fourth Avenue,Colburn,Catterick Garrison
+2022-02-15,140000,DL9 4NT,T,N,F,36,,St Cuthberts Avenue,,Catterick Garrison
+2022-01-31,155000,DL9 4WD,T,N,F,24,,Woodland Avenue,Colburn,Catterick Garrison
+2022-01-28,141000,DL9 4SS,T,N,F,53,,Tulip Avenue,Colburn,Catterick Garrison
+2022-01-27,80000,DL9 4UD,T,N,F,4,,Chester Walk,Colburn,Catterick Garrison
+2022-01-26,197000,DL9 4TA,D,N,F,9,,Vicarage Road,,Catterick Garrison
+2022-01-25,128000,DL9 4HU,T,N,F,67,,Scotton Gardens,,Catterick Garrison
+2022-01-21,148000,DL9 4TB,S,N,F,12,,St Martins Close,,Catterick Garrison
+2022-01-17,157000,DL9 4BW,T,N,F,5,,Thirsk Close,Colburn,Catterick Garrison
+2022-01-14,160000,DL9 4DP,T,N,F,5,,Kingfisher Drive,,Catterick Garrison
+2022-01-11,137500,DL9 4JU,S,N,F,19,,Castleton Road,,Catterick Garrison
+2021-12-20,112000,DL9 4HS,S,N,F,9,,Hambleton Road,,Catterick Garrison
+2021-12-20,135000,DL9 4DP,T,N,F,12,,Kingfisher Drive,,Catterick Garrison
+2021-12-17,200000,DL9 4XR,S,N,F,14,,Churchill Drive,Brough With St Giles,Catterick Garrison
+2021-12-17,122500,DL9 4HU,T,N,F,53,,Scotton Gardens,,Catterick Garrison
+2021-12-17,125000,DL9 3HH,T,N,F,16,,Warwick Close,,Catterick Garrison
+2021-12-16,120000,DL9 4NP,S,N,F,3,,Coronation Avenue,,Catterick Garrison
+2021-12-15,178000,DL9 4EA,S,N,F,23,,Falkland Road,,Catterick Garrison
+2021-12-10,160000,DL9 4WG,T,N,F,27,,Walkerville Road,Colburn,Catterick Garrison
+2021-12-08,120000,DL9 4JZ,T,N,F,37,,Horne Road,,Catterick Garrison
+2021-12-08,130000,DL9 4HR,T,N,F,6,,Field Grove,,Catterick Garrison
+2021-12-07,230000,DL9 4HD,D,N,F,19,,Maple Close,,Catterick Garrison
+2021-12-06,130000,DL9 4WE,S,N,F,17,,Catterick Road,Colburn,Catterick Garrison
+2021-12-03,185000,DL9 4WD,T,N,F,77,,Woodland Avenue,Colburn,Catterick Garrison
+2021-12-03,155500,DL9 4DZ,S,N,F,30,,Falkland Road,,Catterick Garrison
+2021-12-02,170000,DL9 4WF,T,N,F,9,,St Cuthberts Close,Colburn,Catterick Garrison
+2021-12-02,170000,DL9 4SS,S,N,F,20,,Tulip Avenue,Colburn,Catterick Garrison
+2021-11-29,190000,DL9 3NP,D,N,F,35,,Mallard Road,Scotton,Catterick Garrison
+2021-11-26,205000,DL9 4RN,S,N,F,20,,Fourth Avenue,Colburn,Catterick Garrison
+2021-11-22,210000,DL9 4BX,S,N,F,2,,Doncaster Close,Colburn,Catterick Garrison
+2021-11-17,160000,DL9 4WA,S,N,F,15,,Beechwood Grove,Colburn,Catterick Garrison
+2021-11-17,170000,DL9 4QZ,S,N,F,11,,Catterick Road,,Catterick Garrison
+2021-11-12,140000,DL9 4RJ,S,N,F,23,,Fifth Avenue,,Catterick Garrison
+2021-11-08,235000,DL9 4XR,D,N,F,35,,Churchill Drive,Brough With St Giles,Catterick Garrison
+2021-11-05,160000,DL9 4DU,S,N,F,7,,Albermarle Drive,,Catterick Garrison
+2021-11-05,175000,DL9 4BB,S,N,F,11,,,Hipswell,Catterick Garrison
+2021-11-05,126000,DL9 3HQ,T,N,F,41,,Essex Close,,Catterick Garrison
+2021-10-29,92000,DL9 4GG,F,N,L,55,,Chepstow Close,Colburn,Catterick Garrison
+2021-10-29,120000,DL9 3HL,S,N,F,18,,Bedford Close,,Catterick Garrison
+2021-10-25,180000,DL9 4NT,S,N,F,3,,St Cuthberts Avenue,,Catterick Garrison
+2021-10-25,211500,DL9 4GJ,S,N,F,3,,Derby Way,Colburn,Catterick Garrison
+2021-10-22,165000,DL9 4BX,S,N,F,8,,Doncaster Close,Colburn,Catterick Garrison
+2021-10-18,196000,DL9 4XG,D,N,F,2,,Cookson Way,Brough With St Giles,Catterick Garrison
+2021-10-15,140000,DL9 4RB,S,N,F,4,,Constantine Avenue,,Catterick Garrison
+2021-10-14,147000,DL9 4RN,S,N,F,26,,Fourth Avenue,Colburn,Catterick Garrison
+2021-10-12,140000,DL9 4PF,S,N,F,7,,St Peters Close,,Catterick Garrison
+2021-10-04,124000,DL9 4HT,S,N,F,42,,Hambleton Road,,Catterick Garrison
+2021-09-30,295000,DL9 4BP,D,N,F,5,,Carlisle Walk,Colburn,Catterick Garrison
+2021-09-28,159000,DL9 4WF,T,N,F,5,,St Cuthberts Close,Colburn,Catterick Garrison
+2021-09-28,164000,DL9 4NR,S,N,F,5,,Brough Avenue,,Catterick Garrison
+2021-09-28,160000,DL9 4GH,T,N,F,9,,Goodwood Avenue,Colburn,Catterick Garrison
+2021-09-28,150000,DL9 4BQ,S,N,F,49,,St Johns Road,Hipswell,Catterick Garrison
+2021-09-27,150000,DL9 4WG,S,N,F,3,,Walkerville Road,Colburn,Catterick Garrison
+2021-09-27,178000,DL9 3RE,T,N,F,49,,Oak Tree Avenue,Scotton,Catterick Garrison
+2021-09-24,172500,DL9 4XU,T,N,F,6,,Drakes Close,Brough With St Giles,Catterick Garrison
+2021-09-24,306000,DL9 4BT,D,N,F,7,,Newcastle Walk,Colburn,Catterick Garrison
+2021-09-23,425000,DL9 4LG,S,N,F,Low Hall Cottage,,Ringwood Road,,Catterick Garrison
+2021-09-10,97000,DL9 4UW,T,N,F,11,,Blue Nile Way,Colburn,Catterick Garrison
+2021-09-10,230000,DL9 4GF,S,N,F,15,,Ascot Avenue,Colburn,Catterick Garrison
+2021-09-09,170000,DL9 4SB,S,N,F,1,,Cottages Beck Court,,Catterick Garrison
+2021-09-03,130000,DL9 4RD,S,N,F,40,,Constantine Avenue,,Catterick Garrison
+2021-09-03,182950,DL9 4LY,S,N,F,47,,Colburn Lane,,Catterick Garrison
+2021-09-03,207995,DL9 4JR,S,N,F,33,,Cleveland Road,,Catterick Garrison
+2021-09-03,279500,DL9 4BU,D,N,F,8,,Wetherby Close,Colburn,Catterick Garrison
+2021-09-01,110000,DL9 4HT,S,N,F,20,,Hambleton Road,,Catterick Garrison
+2021-08-31,107000,DL9 3HE,T,N,F,34,,Somerset Close,,Catterick Garrison
+2021-08-27,187550,DL9 4EA,S,N,F,17,,Falkland Road,,Catterick Garrison
+2021-08-26,163000,DL9 4WG,T,N,F,25,,Walkerville Road,Colburn,Catterick Garrison
+2021-08-20,135000,DL9 4TD,S,N,F,10,,St Oswalds Road,,Catterick Garrison
+2021-08-17,240000,DL9 4DW,S,N,F,16,,Byng Road,,Catterick Garrison
+2021-08-17,134000,DL9 3RA,S,N,F,12,,Osprey Close,Scotton,Catterick Garrison
+2021-08-16,228500,DL9 4WA,D,N,F,5,,Beechwood Grove,Colburn,Catterick Garrison
+2021-08-13,141000,DL9 4BJ,T,N,F,42,,St Johns Road,Hipswell,Catterick Garrison
+2021-07-26,119000,DL9 3HQ,T,N,F,23,,Essex Close,,Catterick Garrison
+2021-07-26,128000,DL9 3HL,T,N,F,7,,Bedford Close,,Catterick Garrison
+2021-07-23,135000,DL9 4WD,S,N,F,21,,Woodland Avenue,Colburn,Catterick Garrison
+2021-07-23,125000,DL9 3HH,T,N,F,34,,Warwick Close,,Catterick Garrison
+2021-07-19,155000,DL9 4WG,T,N,F,15,,Walkerville Road,Colburn,Catterick Garrison
+2021-07-15,102000,DL9 3HQ,T,N,F,49,,Essex Close,,Catterick Garrison
+2021-07-06,168000,DL9 4XP,T,N,F,5,,Beecher Stowe Drive,Brough With St Giles,Catterick Garrison
+2021-07-06,128000,DL9 3HH,T,N,F,42,,Warwick Close,,Catterick Garrison
+2021-07-02,229000,DL9 4WB,D,N,F,7,,Bluebell Walk,Colburn,Catterick Garrison
+2021-06-30,355000,DL9 4PD,D,N,F,Kildavin,,,Colburn,Catterick Garrison
+2021-06-30,195000,DL9 4BP,S,N,F,2,,Carlisle Walk,Colburn,Catterick Garrison
+2021-06-30,120000,DL9 3HH,T,N,F,50,,Warwick Close,,Catterick Garrison
+2021-06-25,230000,DL9 4TA,D,N,F,23,,Vicarage Road,,Catterick Garrison
+2021-06-25,120000,DL9 3HE,T,N,F,19,,Somerset Close,,Catterick Garrison
+2021-06-24,133000,DL9 4NU,D,N,F,2,,St Giles Close,,Catterick Garrison
+2021-06-24,127500,DL9 3HL,T,N,F,47,,Bedford Close,,Catterick Garrison
+2021-06-18,180000,DL9 4LX,S,N,F,33,,Colville Crescent,,Catterick Garrison
+2021-06-15,320000,DL9 3NP,D,N,F,40,,Mallard Road,Scotton,Catterick Garrison
+2021-06-11,215000,DL9 4WA,S,N,F,10,,Beechwood Grove,Colburn,Catterick Garrison
+2021-06-11,400000,DL9 4PD,D,N,F,Thistle Cottage,,,Colburn,Catterick Garrison
+2021-06-08,123000,DL9 4RJ,S,N,F,11,,Fifth Avenue,,Catterick Garrison
+2021-06-04,130000,DL9 4UR,T,N,F,56,,Forest Drive,Colburn,Catterick Garrison
+2021-06-04,155000,DL9 4UJ,S,N,F,3,,Thistle Walk,Colburn,Catterick Garrison
+2021-06-04,399995,DL9 3NQ,D,N,F,The Homestead,,Bedale Road,Scotton,Catterick Garrison
+2021-06-04,116000,DL9 3HF,T,N,F,64,,Somerset Close,,Catterick Garrison
+2021-05-28,130000,DL9 4WA,T,N,F,69,,Beechwood Grove,Colburn,Catterick Garrison
+2021-05-28,90000,DL9 4UY,T,N,F,3,,Copper Beech Way,Colburn,Catterick Garrison
+2021-05-21,94000,DL9 4XS,S,N,L,5,,Darwin Drive,Brough With St Giles,Catterick Garrison
+2021-05-14,227500,DL9 4WB,D,N,F,19,,Bluebell Walk,Colburn,Catterick Garrison
+2021-05-13,115500,DL9 4DN,S,N,F,33,,Linton Rise,,Catterick Garrison
+2021-05-11,82500,DL9 4DP,F,N,L,29,,Kingfisher Drive,,Catterick Garrison
+2021-05-06,382250,DL9 3NN,S,N,F,Nine Elms,,Hunton Road,Scotton,Catterick Garrison
+2021-04-30,148000,DL9 4WF,T,N,F,8,,St Cuthberts Close,Colburn,Catterick Garrison
+2021-04-30,230000,DL9 4WD,D,N,F,8,,Woodland Avenue,Colburn,Catterick Garrison
+2021-04-30,165000,DL9 4NU,S,N,F,7,,St Giles Close,,Catterick Garrison
+2021-04-19,130000,DL9 4RJ,S,N,F,21,,Fifth Avenue,,Catterick Garrison
+2021-04-19,105000,DL9 4LS,S,N,F,14,,Colburn Lane,,Catterick Garrison
+2021-04-16,117500,DL9 3HN,T,N,F,1,,Derby Close,,Catterick Garrison
+2021-04-09,155000,DL9 4GH,T,N,F,5,,Goodwood Avenue,Colburn,Catterick Garrison
+2021-04-06,126500,DL9 4RY,S,N,F,43,,Rosebud Way,Colburn,Catterick Garrison
+2021-03-31,142000,DL9 4RD,S,N,F,44,,Constantine Avenue,,Catterick Garrison
+2021-03-30,90000,DL9 4UF,T,N,F,1,,Peppermint Drive,Colburn,Catterick Garrison
+2021-03-30,112000,DL9 4HT,T,N,F,26,,Hambleton Road,,Catterick Garrison
+2021-03-26,222000,DL9 4XL,D,N,F,12,,Bronte Drive,Brough With St Giles,Catterick Garrison
+2021-03-26,120000,DL9 4LS,S,N,F,34,,Colburn Lane,,Catterick Garrison
+2021-03-26,142000,DL9 4BJ,S,N,F,12,,St Johns Road,Hipswell,Catterick Garrison
+2021-03-26,132500,DL9 4BG,S,N,F,Hipswell Village,14,,Hipswell,Catterick Garrison
+2021-03-25,97500,DL9 4GE,F,N,L,27,,Ayr Avenue,Colburn,Catterick Garrison
+2021-03-17,118000,DL9 4DN,S,N,F,16,,Linton Rise,,Catterick Garrison
+2021-03-16,143000,DL9 4DP,T,N,F,10,,Kingfisher Drive,,Catterick Garrison
+2021-03-15,160000,DL9 4XQ,S,N,F,3,,Francis Drive,Brough With St Giles,Catterick Garrison
+2021-03-15,97000,DL9 4HS,S,N,F,23,,Hambleton Road,,Catterick Garrison
+2021-03-12,112000,DL9 4RE,S,N,F,2,,Constantine Grove,,Catterick Garrison
+2021-03-12,117500,DL9 3HQ,T,N,F,47,,Essex Close,,Catterick Garrison
+2021-03-05,199000,DL9 4XP,D,N,F,41,,Beecher Stowe Drive,Brough With St Giles,Catterick Garrison
+2021-03-05,122000,DL9 4JN,S,N,F,1,,Carlton Road,,Catterick Garrison
+2021-03-05,112500,DL9 4HX,T,N,F,13,,Scotton Gardens,,Catterick Garrison
+2021-03-01,113000,DL9 4LS,S,N,F,20,,Colburn Lane,,Catterick Garrison
+2021-03-01,89995,DL9 4GG,F,N,L,45,,Chepstow Close,Colburn,Catterick Garrison
+2021-02-26,175000,DL9 4XS,T,N,F,6,,Darwin Drive,Brough With St Giles,Catterick Garrison
+2021-02-19,250000,DL9 4BX,D,N,F,19,,Doncaster Close,Colburn,Catterick Garrison
+2021-02-19,195000,DL9 3RE,D,N,F,26,,Oak Tree Avenue,Scotton,Catterick Garrison
+2021-02-17,76000,DL9 4DP,F,N,L,17,,Kingfisher Drive,,Catterick Garrison
+2021-02-12,115000,DL9 4RH,S,N,F,33,,First Avenue,,Catterick Garrison
+2021-02-12,195000,DL9 3PW,S,N,F,Scotton House Barns,5,Kemmel Close,,Catterick Garrison
+2021-02-10,130000,DL9 4RN,S,N,F,18,,Fourth Avenue,Colburn,Catterick Garrison
+2021-02-05,169500,DL9 4HA,S,N,F,60,,Albermarle Drive,,Catterick Garrison
+2021-02-01,105000,DL9 3HF,T,N,F,57,,Somerset Close,,Catterick Garrison
+2021-01-29,155000,DL9 4GE,T,N,F,14,,Ayr Avenue,Colburn,Catterick Garrison
+2021-01-26,161500,DL9 4NL,S,N,F,27,,Sutton Avenue,,Catterick Garrison
+2021-01-25,178000,DL9 3NS,D,N,F,21,,Curlew Crescent,Scotton,Catterick Garrison
+2021-01-20,120000,DL9 4RA,S,N,F,4,,Colburn Lane,,Catterick Garrison
+2021-01-15,78000,DL9 4UY,T,N,F,5,,Copper Beech Way,Colburn,Catterick Garrison
+2021-01-15,103000,DL9 4HU,T,N,F,74,,Scotton Gardens,,Catterick Garrison
+2021-01-15,175000,DL9 4GF,S,N,F,14,,Ascot Avenue,Colburn,Catterick Garrison
+2021-01-15,225000,DL9 3RE,D,N,F,14,,Oak Tree Avenue,Scotton,Catterick Garrison
+2021-01-15,140000,DL9 3ND,S,N,F,4,,Moorfield Bungalows,Scotton,Catterick Garrison
+2021-01-14,174000,DL9 3RE,T,N,F,4,,Oak Tree Avenue,Scotton,Catterick Garrison
+2021-01-12,120000,DL9 3HE,T,N,F,41,,Somerset Close,,Catterick Garrison
+2021-01-11,98000,DL9 4NX,S,N,F,85,,Colburn Lane,,Catterick Garrison
+2021-01-07,162000,DL9 4RY,S,N,F,30,,Rosebud Way,Colburn,Catterick Garrison
+2021-01-06,228500,DL9 4WA,D,N,F,23,,Beechwood Grove,Colburn,Catterick Garrison

@@ -1,0 +1,571 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-20,430000,B94 6LW,T,N,F,33,,Station Lane,Lapworth,Solihull
+2026-08-18,879950,B94 5SL,D,N,F,31,,Earlswood Common,Earlswood,Solihull
+2026-08-05,517000,B94 5AW,T,N,F,2,,Bell Field,Tanworth In Arden,Solihull
+2026-07-31,320000,B94 6QR,S,N,F,63,,Orchard Road,Hockley Heath,Solihull
+2026-07-29,1975000,B94 6PT,D,N,F,Windmill Farm Barn,,Windmill Lane,Hockley Heath,Solihull
+2026-07-17,388000,B94 6SD,S,N,F,7,,Rashwood Close,Hockley Heath,Solihull
+2026-07-10,325000,B94 6NB,T,N,F,20,,Yew Tree Close,Lapworth,Solihull
+2026-07-03,599305,B94 6QY,S,N,F,28,,Spring Lane,Hockley Heath,Solihull
+2026-07-03,1250000,B94 5HR,D,N,F,Timberdel,,Broad Lane,Tanworth In Arden,Solihull
+2026-06-26,450000,B94 6LW,S,N,F,23,,Station Lane,Lapworth,Solihull
+2026-06-26,705000,B94 6DQ,D,N,F,Brook House Barn,,Salter Street,Hockley Heath,Solihull
+2026-06-05,625000,B94 5AY,T,N,F,2,,Doctors Close,Tanworth In Arden,Solihull
+2026-06-05,715000,B94 5AG,S,N,F,4,,Mile End,Tanworth In Arden,Solihull
+2026-05-29,560000,B94 6LY,S,N,F,28,,Kingswood Green,Lapworth,Solihull
+2026-05-15,660000,B94 6NL,D,N,F,2589,,Stratford Road,Hockley Heath,Solihull
+2026-05-01,650000,B94 6LE,D,N,F,8,,Lapworth Oaks,Lapworth,Solihull
+2026-05-01,440000,B94 5QZ,S,N,F,6,,Brome Hall Lane,Lapworth,Solihull
+2026-04-29,725000,B94 5SH,D,N,F,132,,Earlswood Common,Earlswood,Solihull
+2026-04-02,605000,B94 5BE,D,N,F,4,Station Masters House,Station Cottages,Danzey Green,Solihull
+2026-03-31,880000,B94 6PJ,D,N,F,62,,Aylesbury Road,Hockley Heath,Solihull
+2026-03-20,805000,B94 5SJ,D,N,F,51,,Earlswood Common,Earlswood,Solihull
+2026-03-13,212500,B94 5BN,S,N,L,6,,Webb Grove,Hockley Heath,Solihull
+2026-03-10,343000,B94 6BB,S,N,F,2,,Portmanteau Mews,Hockley Heath,Solihull
+2026-03-04,930000,B94 5NA,D,N,F,174,,Rumbush Lane,Earlswood,Solihull
+2026-03-03,780000,B94 5ED,S,N,F,Glenourie,,Poolhead Lane,Tanworth In Arden,Solihull
+2026-02-16,418000,B94 6QW,S,N,F,16,,Hazel Grove,Hockley Heath,Solihull
+2026-02-16,225000,B94 6QT,F,N,L,2376,Flat 1,Stratford Road,Hockley Heath,Solihull
+2026-02-16,350000,B94 6JX,F,N,L,Bird In Hand Court,1,Mill Lane,Lapworth,Solihull
+2026-02-12,531400,B94 6PE,D,N,F,15,,Park View,Hockley Heath,Solihull
+2026-02-12,400000,B94 6PB,S,N,F,28,,Aylesbury Road,Hockley Heath,Solihull
+2026-02-09,650000,B94 5JU,D,N,F,Wynyard,,Forshaw Heath Road,Earlswood,Solihull
+2026-02-06,760000,B94 5JA,D,N,F,Woodborough,,Broad Lane,Tanworth In Arden,Solihull
+2026-02-06,900000,B94 5DN,D,N,F,Wood End Cottage,,Broad Lane,Tanworth In Arden,Solihull
+2026-01-30,485000,B94 6JY,T,N,F,Bakehouse Cottages,3,Old Warwick Road,Lapworth,Solihull
+2026-01-16,660000,B94 6JQ,S,N,F,21,,Kingswood Close,Lapworth,Solihull
+2026-01-16,1300000,B94 5BU,D,N,F,4,,Church Rise,Tanworth In Arden,Solihull
+2026-01-15,625000,B94 5RZ,S,N,F,63,,Malthouse Lane,Earlswood,Solihull
+2026-01-09,552710,B94 6QD,D,N,F,10,,Lindhurst Drive,Hockley Heath,Solihull
+2026-01-09,350000,B94 6BB,S,N,F,6,,Portmanteau Mews,Hockley Heath,Solihull
+2025-12-18,545000,B94 5HR,S,N,F,Glenfield,,Broad Lane,Tanworth In Arden,Solihull
+2025-12-17,750000,B94 6SE,D,N,F,Aspen House,,Cut Throat Lane,Hockley Heath,Solihull
+2025-12-17,1150000,B94 5BA,D,N,F,Pentewan,,Rams Hill Lane,Tanworth In Arden,Solihull
+2025-12-15,580000,B94 6PJ,D,N,F,80A,,Aylesbury Road,Hockley Heath,Solihull
+2025-12-04,505000,B94 5LT,S,N,F,180,,Norton Lane,Earlswood,Solihull
+2025-12-03,127000,B94 5BN,S,N,L,18,,Webb Grove,Hockley Heath,Solihull
+2025-12-01,480000,B94 6BL,D,N,F,Flower Fields,,Warings Green Road,Hockley Heath,Solihull
+2025-11-28,338000,B94 6NG,T,N,F,27,,Shelfield Close,Hockley Heath,Solihull
+2025-11-19,530000,B94 5AF,S,N,F,3,,Knowlebury Cross,Tanworth In Arden,Solihull
+2025-11-17,850000,B94 6JH,D,N,F,The Coach House,,Station Lane,Lapworth,Solihull
+2025-11-16,505000,B94 6BA,S,N,F,Canal Cottage,2,Old Warwick Road,Lapworth,Solihull
+2025-11-14,675000,B94 6PD,T,N,F,39,,Aylesbury Road,Hockley Heath,Solihull
+2025-11-14,850000,B94 6EL,D,N,F,135,,Chessetts Wood Road,Lapworth,Solihull
+2025-11-10,462000,B94 6NW,S,N,F,2425,,Stratford Road,Hockley Heath,Solihull
+2025-11-07,670000,B94 5SE,D,N,F,Sherrifhales,,Cloweswood Lane,Earlswood,Solihull
+2025-11-04,710000,B94 5AL,D,N,F,Oxstalls Farm House,,The Green,Tanworth In Arden,Solihull
+2025-10-31,640000,B94 5SL,D,N,F,21,,Earlswood Common,Earlswood,Solihull
+2025-10-27,575000,B94 5SD,D,N,F,150,,Malthouse Lane,Earlswood,Solihull
+2025-10-24,600000,B94 5SQ,D,N,F,177,,Earlswood Common,Earlswood,Solihull
+2025-10-23,575000,B94 5AY,T,N,F,"Felicita, 4",,Doctors Close,Tanworth In Arden,Solihull
+2025-10-03,178000,B94 6NB,F,N,L,9,,Yew Tree Close,Lapworth,Solihull
+2025-10-02,720000,B94 6SA,D,N,F,28,,Tutnall Drive,Hockley Heath,Solihull
+2025-09-29,200000,B94 6BD,F,N,L,"Kingswood Court, 2405",Flat 8,Stratford Road,Hockley Heath,Solihull
+2025-09-22,1710000,B94 6AU,D,N,F,Cedar Barn,,Packwood Lane,Lapworth,Solihull
+2025-09-19,531000,B94 5SB,D,N,F,151,,Malthouse Lane,Earlswood,Solihull
+2025-09-16,435000,B94 6NG,S,N,F,2,,Shelfield Close,Hockley Heath,Solihull
+2025-09-12,400000,B94 6QX,S,N,F,5,,Spring Lane,Hockley Heath,Solihull
+2025-09-12,475000,B94 6PF,D,N,F,16,,Meadow Close,Hockley Heath,Solihull
+2025-09-08,438500,B94 6LY,S,N,F,19,,Kingswood Green,Lapworth,Solihull
+2025-09-04,1150000,B94 5SQ,D,N,F,181,,Earlswood Common,Earlswood,Solihull
+2025-09-03,385000,B94 6PJ,S,N,F,82,,Aylesbury Road,Hockley Heath,Solihull
+2025-08-27,585000,B94 5AH,D,N,F,Cank Farm,,Well Lane,Tanworth In Arden,Solihull
+2025-08-26,700000,B94 6LE,D,N,F,7,,Lapworth Oaks,Lapworth,Solihull
+2025-08-22,478000,B94 5SA,S,N,F,68,,Malthouse Lane,Earlswood,Solihull
+2025-08-22,1610000,B94 5JT,D,N,F,Tudor Croft,,Tanners Green Lane,Earlswood,Solihull
+2025-08-22,1120000,B94 5HX,D,N,F,Broadmere,,Broad Lane,Tanworth In Arden,Solihull
+2025-08-15,1220000,B94 6BT,D,N,F,Brooklin,,Warings Green Road,Hockley Heath,Solihull
+2025-08-07,615000,B94 6PS,S,N,F,40,,Vicarage Road,Hockley Heath,Solihull
+2025-08-01,345000,B94 6NG,T,N,F,26,,Shelfield Close,Hockley Heath,Solihull
+2025-07-28,475000,B94 5HX,S,N,F,Cambrian,,Broad Lane,Tanworth In Arden,Solihull
+2025-07-25,359000,B94 6RX,S,N,F,9,,Kineton Lane,Hockley Heath,Solihull
+2025-07-15,2250000,B94 6ER,D,N,F,Penn Barn Cottage,,Chessetts Wood Road,Lapworth,Solihull
+2025-07-14,317000,B94 5SJ,T,N,F,77,,Earlswood Common,Earlswood,Solihull
+2025-07-11,525000,B94 5RX,S,N,F,31,,Malthouse Lane,Earlswood,Solihull
+2025-07-09,265000,B94 6LX,T,N,F,Kingswood Cottage,3,Old Warwick Road,Lapworth,Solihull
+2025-07-09,385000,B94 6LD,T,N,F,10,,St Chads Mews,Lapworth,Solihull
+2025-06-27,400000,B94 6LY,T,N,F,39,,Kingswood Green,Lapworth,Solihull
+2025-06-27,600000,B94 5QS,D,N,F,Thornwick,,Lapworth Street,Lapworth,Solihull
+2025-06-26,710000,B94 6RA,D,N,F,20,,School Road,Hockley Heath,Solihull
+2025-06-20,900000,B94 6EL,D,N,F,125,,Chessetts Wood Road,Lapworth,Solihull
+2025-06-17,187500,B94 6NB,F,N,L,14,,Yew Tree Close,Lapworth,Solihull
+2025-06-17,320000,B94 6LD,T,N,F,9,,St Chads Mews,Lapworth,Solihull
+2025-06-06,392000,B94 6QW,S,N,F,14,,Hazel Grove,Hockley Heath,Solihull
+2025-06-06,585000,B94 6QG,D,N,F,7,,Tysoe Close,Hockley Heath,Solihull
+2025-06-06,475000,B94 6PF,T,N,F,3,,Meadow Close,Hockley Heath,Solihull
+2025-05-23,550000,B94 6AA,D,N,F,Capricorn,,Valley Road,Earlswood,Solihull
+2025-05-16,363100,B94 5NH,T,N,F,2641,,Stratford Road,Hockley Heath,Solihull
+2025-05-14,390000,B94 5SA,S,N,F,84,,Malthouse Lane,Earlswood,Solihull
+2025-04-30,360000,B94 6PB,S,N,F,22,,Aylesbury Road,Hockley Heath,Solihull
+2025-04-30,373000,B94 6NB,T,N,F,34,,Yew Tree Close,Lapworth,Solihull
+2025-04-16,500000,B94 5RX,S,N,F,5,,Malthouse Lane,Earlswood,Solihull
+2025-04-11,560000,B94 6PX,S,N,F,12,,Fetherston Grange,Lapworth,Solihull
+2025-04-03,386000,B94 6QR,S,N,F,60,,Orchard Road,Hockley Heath,Solihull
+2025-03-31,445000,B94 6QW,D,N,F,27,,Hazel Grove,Hockley Heath,Solihull
+2025-03-31,530000,B94 6BZ,D,N,F,128,,Shutt Lane,Earlswood,Solihull
+2025-03-31,610000,B94 5HJ,D,N,F,Ladbrook Cottage,,Penn Lane,Tanworth In Arden,Solihull
+2025-03-31,617500,B94 5AG,T,N,F,8,,Mile End,Tanworth In Arden,Solihull
+2025-03-27,732000,B94 5BS,D,N,F,Waveney,,Doctors Hill,Tanworth In Arden,Solihull
+2025-03-26,431000,B94 5QA,D,N,F,Ash-Mere,,Umberslade Road,Earlswood,Solihull
+2025-03-24,950000,B94 5RU,D,N,F,9,,The Maltings,Earlswood,Solihull
+2025-03-24,1650000,B94 5HX,D,N,F,Broad Oak House,,Broad Lane,Tanworth In Arden,Solihull
+2025-03-21,711000,B94 5AN,D,N,F,The Hunting Lodge,,Vicarage Hill,Tanworth In Arden,Solihull
+2025-03-20,1100000,B94 5RZ,D,N,F,107,,Malthouse Lane,Earlswood,Solihull
+2025-03-17,627500,B94 6BZ,D,N,F,117,,Shutt Lane,Earlswood,Solihull
+2025-03-05,420000,B94 6LN,S,N,F,White Cottage,1,Old Warwick Road,Lapworth,Solihull
+2025-03-03,307500,B94 6BD,F,N,L,"Kingswood Court, 2405",Flat 3,Stratford Road,Hockley Heath,Solihull
+2025-03-03,605000,B94 5NH,D,N,F,The Rosery,,Stratford Road,Hockley Heath,Solihull
+2025-02-21,520000,B94 6LP,S,N,F,49,,Station Lane,Lapworth,Solihull
+2025-02-18,555000,B94 6JQ,S,N,F,11,,Kingswood Close,Lapworth,Solihull
+2025-02-14,610000,B94 6PD,S,N,F,55,,Aylesbury Road,Hockley Heath,Solihull
+2025-02-03,525000,B94 6QN,D,N,F,12,,Arden Meads,Hockley Heath,Solihull
+2025-01-24,535000,B94 6PX,S,N,F,3,,Fetherston Grange,Lapworth,Solihull
+2025-01-24,2000000,B94 6HB,D,N,F,Ashtree Cottage,,Valley Lane,Lapworth,Solihull
+2025-01-24,625000,B94 5SE,D,N,F,Ardencroft,,Cloweswood Lane,Earlswood,Solihull
+2025-01-24,390000,B94 5AL,D,N,F,The Old Malt Shovel,,The Green,Tanworth In Arden,Solihull
+2025-01-22,580000,B94 6DE,D,N,F,Green Gate Barns,3,Salter Street,Earlswood,Solihull
+2025-01-16,900000,B94 6JZ,D,N,F,Oakfield,,Old Warwick Road,Lapworth,Solihull
+2025-01-16,1450000,B94 5HH,D,N,F,Cedarwood,,Penn Lane,Tanworth In Arden,Solihull
+2024-12-18,1310000,B94 5AR,D,N,F,Green Hollow,,Bates Lane,Tanworth In Arden,Solihull
+2024-12-16,415000,B94 6LJ,T,N,F,Min-Y-Don Cottage,3,Old Warwick Road,Lapworth,Solihull
+2024-12-11,540000,B94 6ES,F,N,L,Broad Oaks,Apartment 2,Chessetts Wood Road,Lapworth,Solihull
+2024-12-11,345000,B94 5AJ,T,N,F,Middle Bell Cottage,,The Green,Tanworth In Arden,Solihull
+2024-12-02,540000,B94 5JX,D,N,F,Brenrice,,Forshaw Heath Road,Earlswood,Solihull
+2024-11-25,385000,B94 6QR,T,N,F,48,,Orchard Road,Hockley Heath,Solihull
+2024-11-21,2700000,B94 6LD,D,N,F,Clover Hill,,Old Warwick Road,Lapworth,Solihull
+2024-11-18,365000,B94 5EN,S,N,F,3,,Biddles Hill,Earlswood,Solihull
+2024-11-15,449950,B94 6LY,S,N,F,20,,Kingswood Green,Lapworth,Solihull
+2024-11-15,2750000,B94 6JZ,D,N,F,Packwood Grange,,Old Warwick Road,Lapworth,Solihull
+2024-11-13,399950,B94 5SA,S,N,F,64,,Malthouse Lane,Earlswood,Solihull
+2024-11-06,875000,B94 6JH,D,N,F,The Old Nursery,The Stables,Station Lane,Lapworth,Solihull
+2024-11-05,745000,B94 6DA,D,N,F,101,,Shutt Lane,Earlswood,Solihull
+2024-11-01,560000,B94 5HU,S,N,F,21,,Aspley Heath Lane,Tanworth In Arden,Solihull
+2024-10-30,850000,B94 5HS,D,N,F,38,,Blind Lane,Tanworth In Arden,Solihull
+2024-10-28,975000,B94 6LY,D,N,F,10,,Kingswood Green,Lapworth,Solihull
+2024-10-25,670000,B94 5HX,D,N,F,Rosneath,,Broad Lane,Tanworth In Arden,Solihull
+2024-10-16,800000,B94 6DE,D,N,F,Green Gate Barns,2,Salter Street,Earlswood,Solihull
+2024-10-14,500000,B94 6NS,D,N,F,2249,,Stratford Road,Hockley Heath,Solihull
+2024-10-07,875000,B94 5NH,D,N,F,2671,,Stratford Road,Hockley Heath,Solihull
+2024-10-03,560000,B94 6QE,D,N,L,10,,Blackberry Avenue,Hockley Heath,Solihull
+2024-09-24,850000,B94 5JL,D,N,F,167C,,Wood Lane,Earlswood,Solihull
+2024-09-20,1075000,B94 5HX,D,N,F,Lampton,,Broad Lane,Tanworth In Arden,Solihull
+2024-09-13,510000,B94 5HS,D,N,F,"Brockweir, 40",,Blind Lane,Tanworth In Arden,Solihull
+2024-09-12,620000,B94 5LX,S,N,F,275,,Rumbush Lane,Earlswood,Solihull
+2024-09-05,500000,B94 6LP,T,N,F,63,,Station Lane,Lapworth,Solihull
+2024-09-05,3350000,B94 6EP,D,N,F,Netherwood,,Chessetts Wood Road,Lapworth,Solihull
+2024-09-03,800000,B94 6JQ,D,N,F,1,,Kingswood Close,Lapworth,Solihull
+2024-08-23,550000,B94 5NT,S,N,F,Lapworth Grange Cottages,2,Church Lane,Lapworth,Solihull
+2024-08-22,1400000,B94 5DJ,D,N,F,Field House,,Tithe Barn Lane,Hockley Heath,Solihull
+2024-08-15,1290000,B94 5PH,D,N,F,Keepers Cottage,,Irelands Lane,Lapworth,Solihull
+2024-08-05,212500,B94 5BN,S,N,L,14,,Webb Grove,Hockley Heath,Solihull
+2024-07-26,477000,B94 6PE,D,N,L,19,,Park View,Hockley Heath,Solihull
+2024-07-19,346000,B94 6SA,T,N,F,11,,Tutnall Drive,Hockley Heath,Solihull
+2024-07-15,750000,B94 6QY,D,N,F,42,,Spring Lane,Hockley Heath,Solihull
+2024-07-01,800000,B94 5HJ,D,N,F,Ladbrook Cottage,,Penn Lane,Tanworth In Arden,Solihull
+2024-06-27,352000,B94 5EN,S,N,F,1,,Biddles Hill,Earlswood,Solihull
+2024-06-25,599000,B94 6QX,D,N,F,14,,Spring Lane,Hockley Heath,Solihull
+2024-06-18,840000,B94 5PJ,T,N,F,Tapster Court,3,Bushwood Lane,Lapworth,Solihull
+2024-06-13,710000,B94 6QY,D,N,F,26,,Spring Lane,Hockley Heath,Solihull
+2024-06-11,356000,B94 5SJ,S,N,F,103,,Earlswood Common,Earlswood,Solihull
+2024-06-06,1770000,B94 6PT,D,N,F,Windmill House,,Windmill Lane,Hockley Heath,Solihull
+2024-06-03,4000000,B94 5AP,D,N,F,Shenstone,,Bates Lane,Tanworth In Arden,Solihull
+2024-05-28,405000,B94 5RY,S,N,F,2,,Malthouse Lane,Earlswood,Solihull
+2024-05-17,565000,B94 5HS,S,N,F,Homestead,,Blind Lane,Tanworth In Arden,Solihull
+2024-05-17,735000,B94 5ES,S,Y,F,Yew Tree Farm Barn,1,Poolhead Lane,Earlswood,Solihull
+2024-05-16,825000,B94 5HR,D,N,F,Chelstone,,Broad Lane,Tanworth In Arden,Solihull
+2024-05-03,880000,B94 5SJ,D,N,F,63,,Earlswood Common,Earlswood,Solihull
+2024-04-26,1290000,B94 6PZ,D,N,F,The Stables,,Glasshouse Lane,Lapworth,Solihull
+2024-04-26,335000,B94 5HU,S,N,F,2,,Aspley Heath Lane,Tanworth In Arden,Solihull
+2024-04-25,390000,B94 5SA,S,N,F,82,,Malthouse Lane,Earlswood,Solihull
+2024-04-19,772500,B94 6JG,D,N,F,185,,Station Lane,Lapworth,Solihull
+2024-04-18,370000,B94 6QL,S,N,F,66,,Orchard Road,Hockley Heath,Solihull
+2024-04-11,525000,B94 6QN,D,N,F,7,,Arden Meads,Hockley Heath,Solihull
+2024-04-10,490000,B94 6ES,F,N,L,Broad Oaks,Apartment 1,Chessetts Wood Road,Lapworth,Solihull
+2024-03-28,356000,B94 6PB,S,N,F,42,,Aylesbury Road,Hockley Heath,Solihull
+2024-03-27,245000,B94 6BD,F,N,L,"Kingswood Court, 2405",Flat 9,Stratford Road,Hockley Heath,Solihull
+2024-03-21,780000,B94 5NL,D,N,F,Letty Cottage,,Nuthurst Grange Lane,Hockley Heath,Solihull
+2024-03-18,720000,B94 5SE,D,N,F,Wychwood,,Cloweswood Lane,Earlswood,Solihull
+2024-03-14,740000,B94 6JH,D,N,F,157,,Station Lane,Lapworth,Solihull
+2024-02-23,625000,B94 5HJ,S,N,F,Ladbrook Hall North,,Penn Lane,Tanworth In Arden,Solihull
+2024-02-16,365000,B94 6JQ,S,N,F,6,,Kingswood Close,Lapworth,Solihull
+2024-02-07,850000,B94 5SH,D,N,F,167,,Earlswood Common,Earlswood,Solihull
+2024-01-19,925000,B94 6BY,D,N,F,Broadlands Cottage,,Salter Street,Hockley Heath,Solihull
+2024-01-19,440000,B94 5AY,S,N,F,10,,Doctors Close,Tanworth In Arden,Solihull
+2024-01-08,540000,B94 6AA,D,N,F,Drakeford,,Valley Road,Earlswood,Solihull
+2024-01-05,1600000,B94 6DB,D,N,F,62A,,Shutt Lane,Earlswood,Solihull
+2023-12-22,1990000,B94 5BU,D,Y,F,9,,Church Rise,Tanworth In Arden,Solihull
+2023-12-20,310000,B94 6DE,D,N,F,School House,,Salter Street,Earlswood,Solihull
+2023-12-14,875000,B94 5RY,D,N,F,26,,Malthouse Lane,Earlswood,Solihull
+2023-12-08,392500,B94 6QW,S,N,F,31,,Hazel Grove,Hockley Heath,Solihull
+2023-12-08,2100000,B94 5BU,D,Y,F,7,,Church Rise,Tanworth In Arden,Solihull
+2023-12-07,2825000,B94 5JT,D,N,F,Spinney House,,Tanners Green Lane,Earlswood,Solihull
+2023-12-07,1325000,B94 5BU,D,Y,F,4,,Church Rise,Tanworth In Arden,Solihull
+2023-12-06,1700000,B94 6BT,D,N,F,Lodge Paddocks,,Warings Green Road,Hockley Heath,Solihull
+2023-12-01,705000,B94 6AF,D,N,F,The Cottage,,Cleobury Lane,Earlswood,Solihull
+2023-11-30,1900000,B94 5BU,D,Y,F,8,,Church Rise,Tanworth In Arden,Solihull
+2023-11-24,325000,B94 5QZ,S,N,F,6,,Brome Hall Lane,Lapworth,Solihull
+2023-11-22,490000,B94 6QN,D,N,F,15,,Arden Meads,Hockley Heath,Solihull
+2023-11-17,2000000,B94 5JT,D,N,F,Little Fulford Farm,,Tanners Green Lane,Earlswood,Solihull
+2023-10-31,840000,B94 6EN,D,N,F,177,,Chessetts Wood Road,Lapworth,Solihull
+2023-10-24,295000,B94 6JX,F,N,L,Bird In Hand Court,4,Mill Lane,Lapworth,Solihull
+2023-10-24,428000,B94 6BN,D,N,F,Old Timbers,,Warings Green Road,Hockley Heath,Solihull
+2023-10-20,625000,B94 5LP,D,N,F,292,,Norton Lane,Earlswood,Solihull
+2023-10-19,1125000,B94 5BU,D,Y,F,2,,Church Rise,Tanworth In Arden,Solihull
+2023-10-13,1390000,B94 5SF,D,N,F,Winterlea,,Springbrook Lane,Earlswood,Solihull
+2023-10-13,1300000,B94 5BU,D,Y,F,3,,Church Rise,Tanworth In Arden,Solihull
+2023-09-29,408000,B94 5HU,S,N,F,8,,Aspley Heath Lane,Tanworth In Arden,Solihull
+2023-09-28,592500,B94 6QD,D,N,F,17,,Lindhurst Drive,Hockley Heath,Solihull
+2023-09-26,695000,B94 6QR,D,N,F,29,,Orchard Road,Hockley Heath,Solihull
+2023-09-26,680000,B94 6DA,D,N,F,102,,Shutt Lane,Earlswood,Solihull
+2023-09-25,332300,B94 6NB,T,N,F,17,,Yew Tree Close,Lapworth,Solihull
+2023-09-25,370000,B94 5BN,S,N,F,9,,Webb Grove,Hockley Heath,Solihull
+2023-09-22,725000,B94 6AJ,D,N,F,2,,Earlsmere,Earlswood,Solihull
+2023-09-22,750000,B94 5ED,D,N,F,Bybrook,,Poolhead Lane,Tanworth In Arden,Solihull
+2023-09-07,360000,B94 5JS,T,N,F,5,,Station Drive,Earlswood,Solihull
+2023-09-05,550000,B94 5SJ,S,N,F,86,,Earlswood Common,Earlswood,Solihull
+2023-09-01,730000,B94 6QH,D,N,F,5,,School Road,Hockley Heath,Solihull
+2023-08-31,580000,B94 5SE,S,N,F,Mouzel,,Cloweswood Lane,Earlswood,Solihull
+2023-08-31,2350000,B94 5QS,D,N,F,Chestnut House,,Lapworth Street,Lapworth,Solihull
+2023-08-31,1475000,B94 5BW,D,Y,F,3,,Archer Court,Tanworth In Arden,Solihull
+2023-08-25,1500000,B94 5ED,D,N,F,Mirella,,Poolhead Lane,Tanworth In Arden,Solihull
+2023-08-18,400000,B94 6QW,S,N,F,33,,Hazel Grove,Hockley Heath,Solihull
+2023-08-18,511000,B94 6PH,D,N,F,18,,Park View,Hockley Heath,Solihull
+2023-08-18,657500,B94 5LT,D,N,F,238,,Norton Lane,Earlswood,Solihull
+2023-08-08,521000,B94 6NN,S,N,F,2517,,Stratford Road,Hockley Heath,Solihull
+2023-08-08,425000,B94 5LT,S,N,F,178,,Norton Lane,Earlswood,Solihull
+2023-08-07,525000,B94 6PP,S,N,F,204,,Aylesbury Road,Hockley Heath,Solihull
+2023-07-26,575000,B94 5SB,T,N,F,153,,Malthouse Lane,Earlswood,Solihull
+2023-07-26,1090000,B94 5BU,D,Y,F,5,,Church Rise,Tanworth In Arden,Solihull
+2023-07-07,550000,B94 5HS,D,N,F,Meadowville,,Blind Lane,Tanworth In Arden,Solihull
+2023-07-07,1235000,B94 5AR,D,N,F,Newburn,,Bates Lane,Tanworth In Arden,Solihull
+2023-07-06,675000,B94 5HS,D,N,F,1,,Blind Lane,Tanworth In Arden,Solihull
+2023-06-29,820000,B94 5SL,D,N,F,23,,Earlswood Common,Earlswood,Solihull
+2023-06-29,710000,B94 5QZ,S,N,F,1,,Brome Hall Lane,Lapworth,Solihull
+2023-06-23,500000,B94 6PE,D,N,L,3,,Park View,Hockley Heath,Solihull
+2023-06-23,500000,B94 6PE,D,N,F,3,,Park View,Hockley Heath,Solihull
+2023-06-15,250000,B94 6NN,T,N,F,2553,,Stratford Road,Hockley Heath,Solihull
+2023-06-09,585000,B94 6NU,D,N,F,2206,,Stratford Road,Hockley Heath,Solihull
+2023-06-09,1110000,B94 6AP,D,N,F,The Moorings,,Old Warwick Road,Lapworth,Solihull
+2023-06-05,1110000,B94 5SD,D,N,F,148,,Malthouse Lane,Earlswood,Solihull
+2023-05-30,320000,B94 6DA,D,N,F,89A,,Shutt Lane,Earlswood,Solihull
+2023-05-18,350000,B94 6NN,S,N,F,2529,,Stratford Road,Hockley Heath,Solihull
+2023-05-05,425000,B94 6PP,S,N,F,166,,Aylesbury Road,Hockley Heath,Solihull
+2023-05-05,640000,B94 6NN,D,N,F,2521,,Stratford Road,Hockley Heath,Solihull
+2023-05-02,645000,B94 5LT,S,N,F,234,,Norton Lane,Earlswood,Solihull
+2023-04-28,581000,B94 5SD,D,N,F,144,,Malthouse Lane,Earlswood,Solihull
+2023-04-20,1475000,B94 5BW,D,Y,F,2,,Archer Court,Tanworth In Arden,Solihull
+2023-04-17,416000,B94 6SD,S,N,F,11,,Rashwood Close,Hockley Heath,Solihull
+2023-04-03,1250000,B94 5SB,D,N,F,131,,Malthouse Lane,Earlswood,Solihull
+2023-03-31,500000,B94 6RB,D,N,F,68,,School Road,Hockley Heath,Solihull
+2023-03-31,555000,B94 5SJ,D,N,F,57,,Earlswood Common,Earlswood,Solihull
+2023-03-28,740000,B94 5SJ,D,N,F,47,,Earlswood Common,Earlswood,Solihull
+2023-03-20,725000,B94 5HR,D,N,F,Boscolato,,Broad Lane,Tanworth In Arden,Solihull
+2023-03-17,850000,B94 6RB,D,N,F,58,,School Road,Hockley Heath,Solihull
+2023-03-13,640000,B94 5SJ,D,N,F,69,,Earlswood Common,Earlswood,Solihull
+2023-02-17,290000,B94 6QX,D,N,F,12,,Spring Lane,Hockley Heath,Solihull
+2023-02-17,1265000,B94 6AS,D,N,F,Packwood Farm Barn,,Packwood Road,Lapworth,Solihull
+2023-02-17,735000,B94 5SH,D,N,F,170,,Earlswood Common,Earlswood,Solihull
+2023-02-17,2100000,B94 5QA,D,N,F,Umberslade House,,Umberslade Road,Earlswood,Solihull
+2023-02-17,1150000,B94 5QA,D,N,F,The Willows,,Umberslade Road,Earlswood,Solihull
+2023-02-10,900000,B94 6BQ,D,N,F,Acorns,,Lake View,Earlswood,Solihull
+2023-02-09,1330000,B94 5JT,D,N,F,Boscobel,,Tanners Green Lane,Earlswood,Solihull
+2023-02-07,249950,B94 6NB,S,N,F,36,,Yew Tree Close,Lapworth,Solihull
+2023-01-25,1575000,B94 6EN,D,N,F,147,,Chessetts Wood Road,Lapworth,Solihull
+2023-01-17,720000,B94 5HT,S,N,F,Appledore,,Blind Lane,Tanworth In Arden,Solihull
+2023-01-13,245000,B94 5AW,S,N,F,27,,Bell Field,Tanworth In Arden,Solihull
+2023-01-12,3035000,B94 6EL,D,N,F,91,,Chessetts Wood Road,Lapworth,Solihull
+2023-01-12,430000,B94 5NL,D,N,F,The Lodge,,Nuthurst Grange Lane,Hockley Heath,Solihull
+2023-01-06,1695000,B94 6EL,D,N,F,95,,Chessetts Wood Road,Lapworth,Solihull
+2023-01-06,405000,B94 5HU,S,N,F,1,,Aspley Heath Lane,Tanworth In Arden,Solihull
+2022-12-16,818000,B94 6RD,D,N,F,157,,School Road,Hockley Heath,Solihull
+2022-12-16,413000,B94 6LY,T,N,F,39,,Kingswood Green,Lapworth,Solihull
+2022-12-16,370000,B94 6LA,T,N,F,1,,Mill Mews,Lapworth,Solihull
+2022-12-16,1000000,B94 5BW,D,Y,F,4,,Archer Court,Tanworth In Arden,Solihull
+2022-12-16,1600000,B94 5BU,D,Y,F,6,,Church Rise,Tanworth In Arden,Solihull
+2022-12-16,1500000,B94 5BU,D,Y,F,1,,Church Rise,Tanworth In Arden,Solihull
+2022-12-15,450000,B94 5SG,S,N,F,3,,Springbrook Lane,Earlswood,Solihull
+2022-12-15,1025000,B94 5BW,D,Y,F,1,,Archer Court,Tanworth In Arden,Solihull
+2022-12-08,388380,B94 5BW,S,Y,F,5,,Archer Court,Tanworth In Arden,Solihull
+2022-12-05,343140,B94 5BW,S,Y,F,10,,Archer Court,Tanworth In Arden,Solihull
+2022-12-02,575000,B94 6QQ,D,N,F,10,,Muntz Crescent,Hockley Heath,Solihull
+2022-12-01,320000,B94 5BE,S,N,F,1,,Station Cottages,Danzey Green,Solihull
+2022-11-30,335000,B94 6NB,T,N,F,32,,Yew Tree Close,Lapworth,Solihull
+2022-11-29,355020,B94 5BW,D,Y,F,8,,Archer Court,Tanworth In Arden,Solihull
+2022-11-25,375960,B94 5BW,D,N,F,7,,Archer Court,Tanworth In Arden,Solihull
+2022-11-25,277560,B94 5BW,S,Y,F,6,,Archer Court,Tanworth In Arden,Solihull
+2022-11-15,1110000,B94 5NX,D,N,F,Rectory Cottage,,Church Lane,Lapworth,Solihull
+2022-11-11,681000,B94 6JQ,S,N,F,2,,Kingswood Close,Lapworth,Solihull
+2022-11-11,1350000,B94 6AA,D,N,F,The White House,,Valley Road,Earlswood,Solihull
+2022-11-10,561159,B94 6QG,D,N,F,3,,Tysoe Close,Hockley Heath,Solihull
+2022-11-10,974000,B94 6EL,D,N,F,"Hillside Cottage, 109",,Chessetts Wood Road,Lapworth,Solihull
+2022-11-07,1075000,B94 5JL,D,N,F,167B,,Wood Lane,Earlswood,Solihull
+2022-11-01,1250000,B94 5JL,D,N,F,167A,,Wood Lane,Earlswood,Solihull
+2022-10-28,343140,B94 5BW,S,Y,F,9,,Archer Court,Tanworth In Arden,Solihull
+2022-10-26,540000,B94 6LP,S,N,F,65,,Station Lane,Lapworth,Solihull
+2022-10-25,660000,B94 6LN,S,N,F,Brookfield,,Old Warwick Road,Lapworth,Solihull
+2022-10-20,1150000,B94 6JJ,D,N,F,The Old Nursery,Chestnut House,Station Lane,Lapworth,Solihull
+2022-10-17,850000,B94 5DU,D,N,F,Burtons Farm Cottage,,Malthouse Lane,Earlswood,Solihull
+2022-10-07,530000,B94 6NN,S,N,F,2507,,Stratford Road,Hockley Heath,Solihull
+2022-10-05,460000,B94 6LP,S,N,F,79,,Station Lane,Lapworth,Solihull
+2022-10-04,225000,B94 6QY,D,N,F,26,,Spring Lane,Hockley Heath,Solihull
+2022-10-03,1800000,B94 5AL,D,N,F,Oxstalls,,The Green,Tanworth In Arden,Solihull
+2022-09-29,825000,B94 5SG,D,N,F,Springbrook Lodge,,Springbrook Lane,Earlswood,Solihull
+2022-09-27,475000,B94 5DQ,D,N,F,Old Grove Farm,The Stables,Umberslade,Hockley Heath,Solihull
+2022-09-23,413000,B94 6SD,S,N,F,5,,Rashwood Close,Hockley Heath,Solihull
+2022-09-23,438000,B94 6LY,S,N,F,19,,Kingswood Green,Lapworth,Solihull
+2022-09-23,790000,B94 5ES,S,N,F,Yew Tree Farm Barn,2,Poolhead Lane,Earlswood,Solihull
+2022-09-16,485000,B94 6PF,D,N,F,4,,Meadow Close,Hockley Heath,Solihull
+2022-09-16,409000,B94 6PB,S,N,F,38,,Aylesbury Road,Hockley Heath,Solihull
+2022-09-16,595000,B94 5RZ,S,N,F,87,,Malthouse Lane,Earlswood,Solihull
+2022-09-12,850000,B94 6DB,D,N,F,"Pinewood, 62",,Shutt Lane,Earlswood,Solihull
+2022-09-09,370000,B94 6LU,T,N,F,Meadow Croft,,Old Warwick Road,Lapworth,Solihull
+2022-09-08,465000,B94 6PE,D,N,L,7,,Park View,Hockley Heath,Solihull
+2022-09-08,610000,B94 5SB,D,N,F,135,,Malthouse Lane,Earlswood,Solihull
+2022-09-06,900255,B94 5HX,D,N,F,Foxwood,,Broad Lane,Tanworth In Arden,Solihull
+2022-08-25,305000,B94 6PP,T,N,F,180,,Aylesbury Road,Hockley Heath,Solihull
+2022-08-25,1360000,B94 6AR,D,N,F,Packwood Grove,,Grove Lane,Lapworth,Solihull
+2022-08-24,940000,B94 6LY,D,N,F,12,,Kingswood Green,Lapworth,Solihull
+2022-08-24,1801050,B94 5DZ,D,N,F,Sunningdale House,,Broad Lane,Tanworth In Arden,Solihull
+2022-08-18,1895000,B94 5DP,D,N,F,Edelweiss,,Broad Lane,Tanworth In Arden,Solihull
+2022-08-17,1250000,B94 6AP,D,N,F,Yew Tree House,,Old Warwick Road,Lapworth,Solihull
+2022-08-12,730000,B94 5SG,D,N,F,Westering,,Springbrook Lane,Earlswood,Solihull
+2022-08-12,580000,B94 5HS,D,N,F,The Lawns,,Blind Lane,Tanworth In Arden,Solihull
+2022-08-08,425000,B94 5AN,T,N,F,Kings Pleck,,Vicarage Hill,Tanworth In Arden,Solihull
+2022-08-04,468000,B94 6PD,S,N,F,51,,Aylesbury Road,Hockley Heath,Solihull
+2022-07-29,1575000,B94 5HH,D,N,F,Forge End,,Penn Lane,Tanworth In Arden,Solihull
+2022-07-29,1425000,B94 5AP,D,N,F,Oaks Lodge,,Bates Lane,Tanworth In Arden,Solihull
+2022-07-28,702000,B94 6PJ,D,N,F,72,,Aylesbury Road,Hockley Heath,Solihull
+2022-07-25,438000,B94 6PX,F,N,L,27,,Fetherston Grange,Lapworth,Solihull
+2022-07-22,475000,B94 6QX,D,N,F,7A,,Spring Lane,Hockley Heath,Solihull
+2022-07-22,405000,B94 6NW,S,N,F,2421,,Stratford Road,Hockley Heath,Solihull
+2022-07-22,450000,B94 5SA,S,N,F,92,,Malthouse Lane,Earlswood,Solihull
+2022-07-13,725000,B94 6JG,D,N,F,171,,Station Lane,Lapworth,Solihull
+2022-07-07,745000,B94 6JL,D,N,F,2,,Priory Close,Lapworth,Solihull
+2022-06-30,535000,B94 6SA,S,N,F,7,,Tutnall Drive,Hockley Heath,Solihull
+2022-06-30,1375000,B94 6PT,D,N,F,Commoners Cottage,,Windmill Lane,Hockley Heath,Solihull
+2022-06-30,525000,B94 6BU,S,N,F,9,,Lime Kiln Lane,Earlswood,Solihull
+2022-06-30,1650000,B94 5EH,D,N,F,Gentian,,Poolhead Lane,Tanworth In Arden,Solihull
+2022-06-28,530000,B94 6QQ,D,N,F,12,,Muntz Crescent,Hockley Heath,Solihull
+2022-06-24,488500,B94 6QL,T,N,F,64,,Orchard Road,Hockley Heath,Solihull
+2022-06-24,335000,B94 6NG,T,N,F,14,,Shelfield Close,Hockley Heath,Solihull
+2022-06-23,325000,B94 6NB,S,N,F,28,,Yew Tree Close,Lapworth,Solihull
+2022-06-21,310000,B94 6LN,T,N,F,Woodbine Cottage,1,Old Warwick Road,Lapworth,Solihull
+2022-06-21,376000,B94 5RB,D,N,F,Canal Cottage,,Brome Hall Lane,Lapworth,Solihull
+2022-06-21,520000,B94 5QS,D,N,F,Thornwick,,Lapworth Street,Lapworth,Solihull
+2022-06-17,1100000,B94 5HH,D,N,F,The Lodge,,Penn Lane,Tanworth In Arden,Solihull
+2022-06-16,635000,B94 6EA,D,N,F,2177,,Stratford Road,Hockley Heath,Solihull
+2022-06-15,412500,B94 6QL,S,N,F,94,,Orchard Road,Hockley Heath,Solihull
+2022-06-06,900000,B94 5SG,D,N,F,Westview,,Springbrook Lane,Earlswood,Solihull
+2022-05-30,500000,B94 6PF,D,N,F,8,,Meadow Close,Hockley Heath,Solihull
+2022-05-25,580000,B94 5SH,D,N,F,141,,Earlswood Common,Earlswood,Solihull
+2022-05-16,405000,B94 6NG,S,N,F,2,,Shelfield Close,Hockley Heath,Solihull
+2022-05-16,312000,B94 5JS,T,N,F,3,,Station Drive,Earlswood,Solihull
+2022-05-13,590000,B94 5LT,D,N,F,210,,Norton Lane,Earlswood,Solihull
+2022-05-12,3900000,B94 6AR,D,N,F,The Dower House,,Grove Lane,Lapworth,Solihull
+2022-05-08,411000,B94 5AJ,T,N,F,The Old Boot Shop,,The Green,Tanworth In Arden,Solihull
+2022-05-05,440000,B94 5RX,S,N,F,15,,Malthouse Lane,Earlswood,Solihull
+2022-04-29,421000,B94 6QW,D,N,F,26,,Hazel Grove,Hockley Heath,Solihull
+2022-04-29,715000,B94 6BE,D,N,F,Aylesbury Court,7,Aylesbury Road,Lapworth,Solihull
+2022-04-28,151000,B94 6NB,F,N,L,9,,Yew Tree Close,Lapworth,Solihull
+2022-04-28,320000,B94 6LX,T,N,F,Kingswood Cottage,1,Old Warwick Road,Lapworth,Solihull
+2022-04-27,620000,B94 6QE,D,N,L,11,,Blackberry Avenue,Hockley Heath,Solihull
+2022-04-27,620000,B94 6QE,D,N,F,11,,Blackberry Avenue,Hockley Heath,Solihull
+2022-04-21,650000,B94 6AY,D,N,F,Lapworth Lodge,,Old Warwick Road,Lapworth,Solihull
+2022-04-14,374950,B94 6SD,T,N,F,37,,Rashwood Close,Hockley Heath,Solihull
+2022-04-14,340000,B94 6NB,T,N,F,25,,Yew Tree Close,Lapworth,Solihull
+2022-04-08,782500,B94 6LH,S,N,F,St. Chads Cottage,1,Old Warwick Road,Lapworth,Solihull
+2022-04-08,475000,B94 5DF,F,N,L,Umberslade Hall,12,Pound House Lane,Hockley Heath,Solihull
+2022-04-04,1900000,B94 5DZ,D,N,F,Wentworth House,,Broad Lane,Tanworth In Arden,Solihull
+2022-04-01,565100,B94 6QZ,D,N,F,35,,School Road,Hockley Heath,Solihull
+2022-04-01,515000,B94 6JY,T,N,F,Bakehouse Cottages,2,Old Warwick Road,Lapworth,Solihull
+2022-03-29,1495000,B94 5AA,D,N,F,Browns Green House,,Broad Lane,Tanworth In Arden,Solihull
+2022-03-04,665000,B94 6JF,D,N,F,Lawnshurst,,Station Lane,Lapworth,Solihull
+2022-02-28,93750,B94 6LY,D,N,L,36,,Kingswood Green,Lapworth,Solihull
+2022-02-18,340000,B94 6LD,T,N,F,5,,St Chads Mews,Lapworth,Solihull
+2022-02-17,595000,B94 6NU,D,N,F,2232,,Stratford Road,Hockley Heath,Solihull
+2022-02-17,330000,B94 5QA,T,N,F,Rose Cottage,,Umberslade Road,Earlswood,Solihull
+2022-02-16,1405000,B94 5AR,D,N,F,Mirador,,Bates Lane,Tanworth In Arden,Solihull
+2022-02-10,505000,B94 6PD,T,N,F,41,,Aylesbury Road,Hockley Heath,Solihull
+2022-02-04,750000,B94 6JJ,D,N,F,114,,Station Lane,Lapworth,Solihull
+2022-02-04,1525000,B94 5AX,D,N,F,Forde Hall Park,,Forde Hall Lane,Tanworth In Arden,Solihull
+2022-01-26,675000,B94 6QQ,D,N,F,1,,Muntz Crescent,Hockley Heath,Solihull
+2022-01-26,1150000,B94 5EA,D,N,F,Arden Conifers,,Vicarage Hill,Tanworth In Arden,Solihull
+2022-01-21,785000,B94 5HR,D,N,F,Tacna,,Broad Lane,Tanworth In Arden,Solihull
+2022-01-14,515000,B94 6QU,D,N,F,12A,,Belton Close,Hockley Heath,Solihull
+2022-01-11,454000,B94 5RY,S,N,F,32,,Malthouse Lane,Earlswood,Solihull
+2022-01-07,420000,B94 5EN,S,N,F,4,,Biddles Hill,Earlswood,Solihull
+2021-12-20,2050000,B94 6LD,D,N,F,Tuckenhay,,Old Warwick Road,Lapworth,Solihull
+2021-12-17,900000,B94 5BJ,D,N,F,Oak Cottage,,,Danzey Green,Solihull
+2021-12-10,415000,B94 6QG,D,N,F,17,,Tysoe Close,Hockley Heath,Solihull
+2021-12-10,1095000,B94 6EL,D,N,F,123,,Chessetts Wood Road,Lapworth,Solihull
+2021-12-02,2100000,B94 6RW,D,N,F,Heathfield Farm House,,Rotherhams Oak Lane,Hockley Heath,Solihull
+2021-12-01,930000,B94 5AL,T,N,F,"(Crabtree), Bank House",,The Green,Tanworth In Arden,Solihull
+2021-11-30,540000,B94 6NJ,D,N,F,2605,,Stratford Road,Hockley Heath,Solihull
+2021-11-29,558000,B94 5HR,D,N,F,Pantry House Farm Cottage,,Broad Lane,Tanworth In Arden,Solihull
+2021-11-23,635000,B94 5LT,S,N,F,222,,Norton Lane,Earlswood,Solihull
+2021-11-12,515000,B94 6LW,S,N,F,21,,Station Lane,Lapworth,Solihull
+2021-11-05,1900000,B94 6LD,D,N,F,Clover Hill,,Old Warwick Road,Lapworth,Solihull
+2021-11-02,210000,B94 5BN,S,N,L,4,,Webb Grove,Hockley Heath,Solihull
+2021-11-01,585000,B94 5HU,D,N,F,Windways,,Aspley Heath Lane,Tanworth In Arden,Solihull
+2021-10-28,800000,B94 5LT,D,N,F,250,,Norton Lane,Earlswood,Solihull
+2021-10-27,490000,B94 5SH,D,N,F,169,,Earlswood Common,Earlswood,Solihull
+2021-10-27,713000,B94 5RZ,D,N,F,93,,Malthouse Lane,Earlswood,Solihull
+2021-10-26,736000,B94 6QU,D,N,F,10,,Belton Close,Hockley Heath,Solihull
+2021-10-26,528000,B94 6QG,D,N,F,19,,Tysoe Close,Hockley Heath,Solihull
+2021-10-26,1200000,B94 5HH,D,N,F,Ladbrook House,,Penn Lane,Tanworth In Arden,Solihull
+2021-10-25,455000,B94 6AZ,S,N,F,Cedar Cottages,2,Old Warwick Road,Lapworth,Solihull
+2021-10-22,1303150,B94 5SF,D,N,F,Hidden,,Springbrook Lane,Earlswood,Solihull
+2021-10-18,800000,B94 5HR,D,N,F,Linden Lodge,,Broad Lane,Tanworth In Arden,Solihull
+2021-09-30,465000,B94 6QE,D,N,F,4,,Blackberry Avenue,Hockley Heath,Solihull
+2021-09-30,387500,B94 6LU,S,N,F,Maroban,,Old Warwick Road,Lapworth,Solihull
+2021-09-30,755000,B94 6JE,D,N,F,High Noon,,Rising Lane,Lapworth,Solihull
+2021-09-30,625000,B94 6BE,F,N,F,Aylesbury Court,2,Aylesbury Road,Lapworth,Solihull
+2021-09-30,895000,B94 6BE,D,N,F,Aylesbury Court,8,Aylesbury Road,Lapworth,Solihull
+2021-09-30,2800000,B94 5QS,D,N,F,The Hey House,,Lapworth Street,Lapworth,Solihull
+2021-09-29,360000,B94 5SA,S,N,F,108,,Malthouse Lane,Earlswood,Solihull
+2021-09-29,1100000,B94 5JT,D,N,F,Tudor Croft,,Tanners Green Lane,Earlswood,Solihull
+2021-09-29,975000,B94 5HX,D,N,F,Lampton,,Broad Lane,Tanworth In Arden,Solihull
+2021-09-27,395000,B94 6RT,T,N,F,17,,Illshaw Heath Road,Hockley Heath,Solihull
+2021-09-27,735000,B94 5SH,D,N,F,172,,Earlswood Common,Earlswood,Solihull
+2021-09-24,775000,B94 5SH,D,N,F,113,,Earlswood Common,Earlswood,Solihull
+2021-09-24,210000,B94 5AW,S,N,F,27,,Bell Field,Tanworth In Arden,Solihull
+2021-09-23,700000,B94 5SL,D,N,F,37,,Earlswood Common,Earlswood,Solihull
+2021-09-21,1835000,B94 5EA,D,N,F,Gilberts Green Farm,,Vicarage Hill,Tanworth In Arden,Solihull
+2021-09-17,330000,B94 5SA,S,N,F,124,,Malthouse Lane,Earlswood,Solihull
+2021-09-10,470000,B94 6QH,D,N,F,25,,School Road,Hockley Heath,Solihull
+2021-09-07,4300000,B94 6SQ,D,N,F,Earlswood Court,,Leafy Lane,Earlswood,Solihull
+2021-09-03,575000,B94 5HS,D,N,F,11,,Blind Lane,Tanworth In Arden,Solihull
+2021-09-03,695000,B94 5ED,S,N,F,Glenourie,,Poolhead Lane,Tanworth In Arden,Solihull
+2021-09-02,1300000,B94 5NN,D,N,F,Hazelwood,,Stratford Road,Hockley Heath,Solihull
+2021-08-31,720000,B94 5JE,D,N,F,4,,Arden Leys,Tanworth In Arden,Solihull
+2021-08-31,1187000,B94 5DY,D,N,F,Aldersyde,,Broad Lane,Tanworth In Arden,Solihull
+2021-08-29,612500,B94 6AJ,D,N,F,10,,Earlsmere,Earlswood,Solihull
+2021-08-25,1550000,B94 6JB,D,N,F,Pine Cottage,,Rising Lane,Lapworth,Solihull
+2021-08-25,300000,B94 5JS,T,N,F,4,,Station Drive,Earlswood,Solihull
+2021-08-24,415000,B94 6LW,S,N,F,39,,Station Lane,Lapworth,Solihull
+2021-08-19,500000,B94 6BZ,S,N,F,126,,Shutt Lane,Earlswood,Solihull
+2021-08-17,167191,B94 6BD,F,N,L,"Kingswood Court, 2405",Flat 12A,Stratford Road,Hockley Heath,Solihull
+2021-08-16,288000,B94 6BD,F,N,L,"Kingswood Court, 2405",Flat 5,Stratford Road,Hockley Heath,Solihull
+2021-08-06,363000,B94 6QR,T,N,F,24,,Orchard Road,Hockley Heath,Solihull
+2021-07-30,815000,B94 6RJ,S,N,F,198,,School Road,Hockley Heath,Solihull
+2021-07-30,270000,B94 6LD,T,N,F,9,,St Chads Mews,Lapworth,Solihull
+2021-07-23,410000,B94 6QZ,T,N,F,89,,School Road,Hockley Heath,Solihull
+2021-07-16,565000,B94 5AR,D,N,F,Wakefield,,Bates Lane,Tanworth In Arden,Solihull
+2021-07-12,355000,B94 5AJ,T,N,F,Cobblers Cottage,,The Green,Tanworth In Arden,Solihull
+2021-07-07,397000,B94 6NU,S,N,F,2180,,Stratford Road,Hockley Heath,Solihull
+2021-06-30,790000,B94 6SD,D,N,F,65,,Rashwood Close,Hockley Heath,Solihull
+2021-06-30,210000,B94 6QT,F,N,L,2376,Flat 1,Stratford Road,Hockley Heath,Solihull
+2021-06-30,765000,B94 6BQ,D,N,F,Acorns,,Lake View,Earlswood,Solihull
+2021-06-29,750000,B94 6LH,S,N,F,2,,St Chads Cottage,Lapworth,Solihull
+2021-06-28,339950,B94 6QR,S,N,F,61,,Orchard Road,Hockley Heath,Solihull
+2021-06-28,332500,B94 6PX,F,N,L,22,,Fetherston Grange,Lapworth,Solihull
+2021-06-28,449000,B94 6PG,D,N,F,34,,Meadow Close,Hockley Heath,Solihull
+2021-06-28,290000,B94 5QA,T,N,F,Crabtree Cottage,,Umberslade Road,Earlswood,Solihull
+2021-06-28,710000,B94 5JY,D,N,F,Mill Cottage,,Mill Lane,Earlswood,Solihull
+2021-06-25,555000,B94 6AX,D,N,F,Pound House,The Lodge,Lapworth Street,Lapworth,Solihull
+2021-06-25,510000,B94 5HS,S,N,F,Faraway,,Blind Lane,Tanworth In Arden,Solihull
+2021-06-25,1725000,B94 5EH,D,Y,F,Celandine,,Poolhead Lane,Tanworth In Arden,Solihull
+2021-06-24,875000,B94 5LT,S,N,F,248,,Norton Lane,Earlswood,Solihull
+2021-06-24,595000,B94 5HS,D,N,F,Selworthy,,Blind Lane,Tanworth In Arden,Solihull
+2021-06-23,535000,B94 5RY,D,N,F,6,,Malthouse Lane,Earlswood,Solihull
+2021-06-22,425000,B94 6LP,S,N,F,81,,Station Lane,Lapworth,Solihull
+2021-06-22,475000,B94 5DY,D,N,F,Grayson,,Broad Lane,Tanworth In Arden,Solihull
+2021-06-21,925000,B94 5LT,D,N,F,192,,Norton Lane,Earlswood,Solihull
+2021-06-18,375000,B94 6QW,S,N,F,22,,Hazel Grove,Hockley Heath,Solihull
+2021-06-18,468000,B94 6NU,S,N,F,2224,,Stratford Road,Hockley Heath,Solihull
+2021-06-18,520000,B94 5AN,T,N,F,Leamington Cottage,,Vicarage Hill,Tanworth In Arden,Solihull
+2021-06-17,468000,B94 6QG,D,N,F,9,,Tysoe Close,Hockley Heath,Solihull
+2021-06-17,535000,B94 6QE,D,N,F,12,,Blackberry Avenue,Hockley Heath,Solihull
+2021-06-17,925000,B94 6BQ,D,N,F,Earlswood House,,Lake View,Earlswood,Solihull
+2021-06-16,1475000,B94 5QP,D,N,F,Juniper Hill,,Lapworth Street,Lapworth,Solihull
+2021-06-14,424000,B94 5HS,S,N,F,Homestead,,Blind Lane,Tanworth In Arden,Solihull
+2021-06-14,570000,B94 5HS,S,N,F,Arcadia,,Blind Lane,Tanworth In Arden,Solihull
+2021-06-11,330000,B94 6QW,S,N,F,21,,Hazel Grove,Hockley Heath,Solihull
+2021-06-11,417800,B94 5AJ,T,N,F,Bay Tree Cottage,,The Green,Tanworth In Arden,Solihull
+2021-06-09,297500,B94 5JS,T,N,F,2,,Station Drive,Earlswood,Solihull
+2021-06-08,560000,B94 6ES,F,N,L,Broad Oaks,Apartment 4,Chessetts Wood Road,Lapworth,Solihull
+2021-06-04,21755,B94 6PE,S,N,F,4,,Park View,Hockley Heath,Solihull
+2021-06-03,193000,B94 5AW,T,N,F,14,,Bell Field,Tanworth In Arden,Solihull
+2021-05-28,1250000,B94 5RB,D,N,F,Foremans Cottage,,Brome Hall Lane,Lapworth,Solihull
+2021-05-27,800000,B94 5LX,D,N,F,271,,Rumbush Lane,Earlswood,Solihull
+2021-05-25,468000,B94 5SB,S,N,F,147,,Malthouse Lane,Earlswood,Solihull
+2021-05-14,650000,B94 5JP,D,N,F,Serendipity,,Wood Lane,Earlswood,Solihull
+2021-05-05,660000,B94 6PP,D,N,F,156 - 158,,Aylesbury Road,Hockley Heath,Solihull
+2021-05-04,357000,B94 5HX,S,N,F,Cambrian,,Broad Lane,Tanworth In Arden,Solihull
+2021-04-30,290000,B94 6NB,T,N,F,6,,Yew Tree Close,Lapworth,Solihull
+2021-04-30,370000,B94 5RX,T,N,F,37,,Malthouse Lane,Earlswood,Solihull
+2021-04-29,140000,B94 6NB,F,N,L,11,,Yew Tree Close,Lapworth,Solihull
+2021-04-29,1400000,B94 6JZ,D,N,F,Fairfield,,Old Warwick Road,Lapworth,Solihull
+2021-04-28,547500,B94 6JD,S,N,F,Bell Cottage,,Rising Lane,Lapworth,Solihull
+2021-04-22,899950,B94 6LX,D,N,F,Kingswood Farm,,Old Warwick Road,Lapworth,Solihull
+2021-04-21,875000,B94 6BE,F,Y,F,Aylesbury Court,1,Aylesbury Road,Lapworth,Solihull
+2021-04-16,472500,B94 6QH,D,N,F,27,,School Road,Hockley Heath,Solihull
+2021-04-16,330000,B94 5EN,S,N,F,8,,Biddles Hill,Earlswood,Solihull
+2021-04-14,899950,B94 6BQ,D,N,F,Norton House,,Lake View,Earlswood,Solihull
+2021-04-13,688000,B94 5JE,D,N,F,1,,Arden Leys,Tanworth In Arden,Solihull
+2021-04-09,619080,B94 6JJ,S,N,F,166,,Station Lane,Lapworth,Solihull
+2021-04-09,775000,B94 6BQ,D,N,F,Kingswood House,,Lake View,Earlswood,Solihull
+2021-04-08,360000,B94 6PD,S,N,F,51,,Aylesbury Road,Hockley Heath,Solihull
+2021-04-07,665250,B94 6SE,D,N,F,Willow House,,Cut Throat Lane,Hockley Heath,Solihull
+2021-03-31,877500,B94 5RU,D,N,F,8,,The Maltings,Earlswood,Solihull
+2021-03-31,457500,B94 5QZ,S,N,F,8,,Brome Hall Lane,Lapworth,Solihull
+2021-03-31,600000,B94 5AY,D,N,F,5,,Doctors Close,Tanworth In Arden,Solihull
+2021-03-31,443000,B94 5AW,T,N,F,9,,Bell Field,Tanworth In Arden,Solihull
+2021-03-29,360000,B94 6LX,T,N,F,Nursery Cottages,1,Old Warwick Road,Lapworth,Solihull
+2021-03-29,1950000,B94 5BB,D,N,F,Alne House,,Mill Lane,Tanworth In Arden,Solihull
+2021-03-26,425000,B94 6AZ,S,N,F,2,,Jubilee Cottages,Lapworth,Solihull
+2021-03-26,445000,B94 5HW,S,N,F,4,,Rushbrook Lane,Tanworth In Arden,Solihull
+2021-03-23,475000,B94 6BE,F,Y,F,Aylesbury Court,5,Aylesbury Road,Lapworth,Solihull
+2021-03-23,1300000,B94 5HH,D,N,F,Kewstoke,,Penn Lane,Tanworth In Arden,Solihull
+2021-03-19,488000,B94 5SA,S,N,F,66,,Malthouse Lane,Earlswood,Solihull
+2021-03-19,449950,B94 5RX,S,N,F,23,,Malthouse Lane,Earlswood,Solihull
+2021-03-19,610320,B94 5HL,D,N,F,The Hollies,,Penn Lane,Tanworth In Arden,Solihull
+2021-03-19,1850000,B94 5EH,D,N,F,Campion,,Poolhead Lane,Tanworth In Arden,Solihull
+2021-03-19,940000,B94 5ED,D,N,F,Regent House,,Poolhead Lane,Tanworth In Arden,Solihull
+2021-03-18,1200000,B94 6LY,D,Y,F,9,,Kingswood Green,Lapworth,Solihull
+2021-03-17,1750000,B94 6LY,D,Y,F,5,,Kingswood Green,Lapworth,Solihull
+2021-03-15,840000,B94 6QB,D,N,F,Fox Brook,,Vicarage Road,Lapworth,Solihull
+2021-03-15,900000,B94 5NU,D,N,F,Spinaway,,Church Lane,Lapworth,Solihull
+2021-03-12,1250000,B94 6LY,D,Y,F,6,,Kingswood Green,Lapworth,Solihull
+2021-03-12,530000,B94 6AZ,S,N,F,4,,Jubilee Cottages,Lapworth,Solihull
+2021-03-12,469950,B94 5RZ,S,N,F,71,,Malthouse Lane,Earlswood,Solihull
+2021-03-10,635000,B94 5LT,S,N,F,216,,Norton Lane,Earlswood,Solihull
+2021-03-10,725000,B94 5AP,D,N,F,Ayot,,Bates Lane,Tanworth In Arden,Solihull
+2021-03-08,1150000,B94 5HH,D,N,F,Woodlawn,,Penn Lane,Tanworth In Arden,Solihull
+2021-03-05,640000,B94 5SL,D,N,F,17,,Earlswood Common,Earlswood,Solihull
+2021-03-05,530000,B94 5RY,S,N,F,46,,Malthouse Lane,Earlswood,Solihull
+2021-03-05,435000,B94 5RX,S,N,F,17,,Malthouse Lane,Earlswood,Solihull
+2021-03-03,976200,B94 6AF,D,N,F,Little Cleobury Barn,,Cleobury Lane,Earlswood,Solihull
+2021-03-03,599950,B94 5SJ,D,N,F,69,,Earlswood Common,Earlswood,Solihull
+2021-03-01,699950,B94 6JQ,D,N,F,1,,Kingswood Close,Lapworth,Solihull
+2021-03-01,655000,B94 5SH,D,N,F,115,,Earlswood Common,Earlswood,Solihull
+2021-02-26,297000,B94 6RA,S,N,F,16,,School Road,Hockley Heath,Solihull
+2021-02-26,249000,B94 6PP,S,N,F,176,,Aylesbury Road,Hockley Heath,Solihull
+2021-02-26,425000,B94 5RX,S,N,F,53,,Malthouse Lane,Earlswood,Solihull
+2021-02-26,630000,B94 5HP,D,N,F,Broome,,Rushbrook Lane,Tanworth In Arden,Solihull
+2021-02-26,422500,B94 5AL,D,N,F,The Old Malt Shovel,,The Green,Tanworth In Arden,Solihull
+2021-02-24,295000,B94 6LP,S,N,F,79,,Station Lane,Lapworth,Solihull
+2021-02-19,560000,B94 5SF,D,N,F,Widdecombe,,Springbrook Lane,Earlswood,Solihull
+2021-02-15,450000,B94 6NN,D,N,F,2509,,Stratford Road,Hockley Heath,Solihull
+2021-02-12,847500,B94 6LY,D,Y,F,8,,Kingswood Green,Lapworth,Solihull
+2021-02-12,795000,B94 6LY,D,Y,F,23,,Kingswood Green,Lapworth,Solihull
+2021-02-12,465000,B94 6JY,T,N,F,Bakehouse Cottages,3,Old Warwick Road,Lapworth,Solihull
+2021-02-12,786000,B94 5SB,D,N,F,143,,Malthouse Lane,Earlswood,Solihull
+2021-02-12,1180000,B94 5HL,D,N,F,Oaklands,,Penn Lane,Tanworth In Arden,Solihull
+2021-02-08,335000,B94 6QX,S,N,F,1,,Spring Lane,Hockley Heath,Solihull
+2021-02-08,860000,B94 5SH,S,N,F,168,,Earlswood Common,Earlswood,Solihull
+2021-02-05,452500,B94 6QG,D,N,F,21,,Tysoe Close,Hockley Heath,Solihull
+2021-01-29,1150000,B94 6BE,D,Y,F,Aylesbury Court,17,Aylesbury Road,Lapworth,Solihull
+2021-01-29,1100000,B94 5HP,D,N,F,Comrie,,Rushbrook Lane,Tanworth In Arden,Solihull
+2021-01-26,189950,B94 6NB,F,N,L,10,,Yew Tree Close,Lapworth,Solihull
+2021-01-26,430000,B94 5DP,S,N,F,Church View,,Broad Lane,Tanworth In Arden,Solihull
+2021-01-25,467000,B94 6LQ,D,N,F,4,,Canalside,Lapworth,Solihull
+2021-01-21,1050000,B94 5LU,D,N,F,Fulford Hall Farm,,Fulford Hall Road,Earlswood,Solihull
+2021-01-20,670500,B94 5NJ,D,N,F,Stratford House,,Stratford Road,Hockley Heath,Solihull
+2021-01-15,300000,B94 6QX,D,N,F,8,,Spring Lane,Hockley Heath,Solihull
+2021-01-15,466000,B94 6NZ,S,N,F,37,,Aylesbury Road,Hockley Heath,Solihull
+2021-01-15,580000,B94 5NR,D,N,F,Keldy House,,Wharf Lane,Lapworth,Solihull
+2021-01-15,612500,B94 5JJ,D,N,F,1,,Mason Lane,Earlswood,Solihull
+2021-01-11,445000,B94 6LS,S,N,F,1,,Meadow Lane,Lapworth,Solihull
+2021-01-08,297500,B94 6JL,T,N,F,11,,Priory Close,Lapworth,Solihull
+2021-01-06,840000,B94 5AX,D,N,F,Grange Hall,,Forde Hall Lane,Tanworth In Arden,Solihull

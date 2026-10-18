@@ -1,0 +1,845 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-03,250000,E12 5LH,F,N,L,1019B,,Romford Road,Manor Park,London
+2026-07-31,710000,E12 6RE,T,N,F,24,,Essex Road,,London
+2026-07-24,425000,E12 6HH,T,N,F,266,,Sheringham Avenue,,London
+2026-07-09,540000,E12 6TW,T,N,F,349,,Strone Road,,London
+2026-06-29,265000,E12 5EU,F,N,L,106,,Empress Avenue,,London
+2026-06-19,532000,E12 6UQ,T,N,F,330,,Sherrard Road,,London
+2026-06-19,525000,E12 6PL,T,N,F,24,,Ruskin Avenue,,London
+2026-06-17,310000,E12 6JL,F,N,L,8,,Gainsborough Avenue,,London
+2026-06-12,465000,E12 6DP,T,N,F,77,,Fourth Avenue,,London
+2026-06-08,167000,E12 6AW,F,N,L,43,,First Avenue,Manor Park,London
+2026-06-05,550000,E12 6ST,T,N,F,9,,Byron Avenue,Manor Park,London
+2026-06-05,1165000,E12 5HE,T,N,F,17,,Ingatestone Road,,London
+2026-05-29,537000,E12 6NX,T,N,F,202,,Browning Road,,London
+2026-05-28,260000,E12 6HL,F,N,L,160A,,Church Road,,London
+2026-05-28,275000,E12 6AL,S,N,L,107,,First Avenue,Manor Park,London
+2026-05-15,250000,E12 6TR,F,N,L,229A,,Strone Road,,London
+2026-05-15,500000,E12 6QD,T,N,F,18,,Goldsmith Avenue,,London
+2026-05-15,166000,E12 5PW,F,N,L,48,,Little Ilford Lane,,London
+2026-05-15,525000,E12 5BG,T,N,F,15,,Carlton Road,,London
+2026-05-14,485000,E12 6HQ,T,N,F,28,,St Winefrides Avenue,,London
+2026-05-13,750000,E12 5DH,S,N,F,82B,,Aldersbrook Road,,London
+2026-05-13,750000,E12 5DH,S,N,F,82A,,Aldersbrook Road,,London
+2026-05-07,775000,E12 6QR,T,N,F,135,,Essex Road,,London
+2026-05-01,580000,E12 5HT,T,N,F,8,,Forest View Road,,London
+2026-05-01,450000,E12 5EA,F,N,L,80A,,Dover Road,,London
+2026-04-30,450000,E12 6TR,T,N,F,249,,Strone Road,,London
+2026-04-24,480000,E12 6RN,T,N,F,24,,Rixsen Road,,London
+2026-04-20,295000,E12 6UW,F,N,L,112,,Queensberry Place,,London
+2026-04-20,420000,E12 6JL,T,N,F,68,,Gainsborough Avenue,,London
+2026-04-14,300000,E12 6UW,F,N,L,92,,Queensberry Place,,London
+2026-04-07,496000,E12 5PW,T,N,F,55,,Little Ilford Lane,,London
+2026-03-31,430000,E12 6JH,T,N,F,24,,Barrington Road,,London
+2026-03-31,475000,E12 6HT,S,N,F,309,,Church Road,,London
+2026-03-30,635000,E12 5AY,T,N,F,79,,Durham Road,Manor Park,London
+2026-03-23,400000,E12 6AU,T,N,F,70,,Nine Acres Close,Manor Park,London
+2026-03-20,522000,E12 6TP,T,N,F,286,,Strone Road,,London
+2026-03-19,611295,E12 6UF,T,N,F,248,,Sherrard Road,,London
+2026-03-19,435000,E12 6RB,T,N,F,99,,Browning Road,,London
+2026-03-19,430000,E12 5DL,F,N,L,"St. James Court, 71",Flat 12,Aldersbrook Road,Wanstead,London
+2026-03-13,920000,E12 5DR,T,N,F,63,,St Margarets Road,,London
+2026-03-11,608000,E12 6UG,T,N,F,235,,Sherrard Road,,London
+2026-03-09,290000,E12 6BB,F,N,L,102,,Snowshill Road,,London
+2026-02-27,200000,E12 5PH,T,N,F,185,,Sheringham Avenue,,London
+2026-02-27,447500,E12 5HY,T,N,F,18,,The Warren,,London
+2026-02-25,958000,E12 5EQ,S,N,F,54,,Herongate Road,,London
+2026-02-19,445000,E12 6JW,T,N,F,29,,Leighton Avenue,,London
+2026-02-16,280000,E12 6LD,T,N,F,71,,Chesterford Road,,London
+2026-02-13,620000,E12 6EJ,T,N,F,51,,Second Avenue,,London
+2026-02-04,500000,E12 6AN,T,N,F,20,,First Avenue,Manor Park,London
+2026-01-26,1075000,E12 5BX,S,N,F,95,,Whitta Road,,London
+2026-01-23,390000,E12 5LF,T,N,F,23,,Colchester Avenue,,London
+2026-01-16,510000,E12 6HJ,T,N,F,259,,Sheringham Avenue,,London
+2025-12-19,290000,E12 6JB,F,N,L,21A,,Rectory Road,,London
+2025-12-18,580000,E12 6SS,T,N,F,12,,Byron Avenue,Manor Park,London
+2025-12-18,180000,E12 6HN,F,N,L,213B,,Church Road,,London
+2025-12-18,425000,E12 5HR,T,N,F,32,,Sunderland Way,,London
+2025-12-09,280000,E12 5QE,T,N,F,38,,Dersingham Avenue,,London
+2025-12-08,435000,E12 6JH,T,N,F,6,,Barrington Road,,London
+2025-12-04,494000,E12 6AW,T,N,F,23,,First Avenue,Manor Park,London
+2025-12-03,350000,E12 6JU,T,N,F,32,,Dore Avenue,,London
+2025-12-01,435000,E12 6AU,T,N,F,66,,Nine Acres Close,Manor Park,London
+2025-11-28,342857,E12 6HH,T,N,F,240,,Sheringham Avenue,,London
+2025-11-28,230000,E12 5BN,F,N,L,"Hyle House, 119",Flat 19,Walton Road,,London
+2025-11-19,475000,E12 6EP,T,N,F,54,,Morris Avenue,,London
+2025-11-17,580000,E12 6NP,T,N,F,40,,Kensington Avenue,,London
+2025-11-17,460000,E12 6JY,T,N,F,292,,Dersingham Avenue,,London
+2025-11-14,480100,E12 6LB,T,N,F,94,,Chesterford Road,,London
+2025-11-14,440000,E12 6LA,T,N,F,74,,Elsenham Road,,London
+2025-11-14,890000,E12 5HN,T,N,F,92,,Harpenden Road,,London
+2025-11-13,1115000,E12 5EL,D,N,F,39,,Wanstead Park Avenue,,London
+2025-11-13,880000,E12 5EA,T,N,F,66,,Dover Road,,London
+2025-11-12,665000,E12 6NB,T,N,F,146,,Shakespeare Crescent,,London
+2025-11-12,378000,E12 5NY,T,N,F,11,,Florence Elson Close,,London
+2025-11-07,555000,E12 6DR,T,N,F,86,,Fourth Avenue,,London
+2025-10-31,215000,E12 6SW,F,N,L,16A,,Shelley Avenue,,London
+2025-10-31,965000,E12 5EA,T,N,F,84,,Dover Road,,London
+2025-10-24,650000,E12 5SB,T,N,F,12,,Heatherwood Close,,London
+2025-10-24,920000,E12 5EN,S,N,F,6,,Wanstead Park Avenue,,London
+2025-10-24,930000,E12 5EG,T,N,F,8,,Herongate Road,,London
+2025-10-24,865000,E12 5DZ,T,N,F,5,,Dover Road,,London
+2025-10-24,480000,E12 5BT,T,N,F,26,,Station Road,Manor Park,London
+2025-10-23,452000,E12 5QP,T,N,F,140,,Lawrence Avenue,,London
+2025-10-21,330000,E12 5DD,F,N,L,1E,,Gladding Road,,London
+2025-10-20,275000,E12 6UN,F,N,L,38,,Queensberry Place,,London
+2025-10-17,280000,E12 5BF,F,N,L,"Springate House, 117",Flat 20,Walton Road,,London
+2025-10-16,228178,E12 5PU,T,N,F,160,,Sixth Avenue,,London
+2025-10-16,967000,E12 5HN,T,N,F,100,,Harpenden Road,,London
+2025-10-14,222000,E12 6QT,F,N,L,31,Flat A,Sheridan Road,,London
+2025-10-13,318000,E12 6UN,F,N,L,1,,Queensberry Place,,London
+2025-10-10,530000,E12 6QD,T,N,F,114,,Goldsmith Avenue,,London
+2025-10-10,1750000,E12 5EN,S,N,F,18,,Wanstead Park Avenue,,London
+2025-10-09,230000,E12 6JX,F,N,L,341A,,Dersingham Avenue,,London
+2025-10-07,235000,E12 6QT,T,N,F,47,,Sheridan Road,,London
+2025-10-06,445000,E12 5HS,T,N,F,13,,Westmorland Close,,London
+2025-10-01,480000,E12 6RG,T,N,F,42,,Coleridge Avenue,,London
+2025-09-26,431000,E12 6QR,T,N,F,103,,Essex Road,,London
+2025-09-26,1385000,E12 5DZ,S,N,F,47,,Dover Road,,London
+2025-09-25,512500,E12 5BE,T,N,F,4,,Albany Road,,London
+2025-09-24,237000,E12 5HU,F,N,L,72,,Forest View Road,,London
+2025-09-24,902700,E12 5HN,T,N,F,32,,Harpenden Road,,London
+2025-09-23,520000,E12 6QB,T,N,F,29,,Goldsmith Avenue,,London
+2025-09-19,205000,E12 6BD,F,N,L,33,,Greenhill Grove,,London
+2025-09-18,1250000,E12 5EE,T,N,F,131,,Wanstead Park Avenue,,London
+2025-09-12,370000,E12 6HS,T,N,F,137,,Landseer Avenue,,London
+2025-09-12,550000,E12 6DR,T,N,F,132,,Fourth Avenue,,London
+2025-09-05,305000,E12 6UW,F,N,L,103,,Queensberry Place,,London
+2025-09-05,280000,E12 5PS,F,N,L,117,,Sixth Avenue,,London
+2025-09-05,1050000,E12 5HL,T,N,F,45,,Harpenden Road,,London
+2025-09-03,500000,E12 6SR,T,N,F,44,,Woodhouse Grove,,London
+2025-09-02,1225000,E12 5HF,S,N,F,5,,Northumberland Avenue,,London
+2025-09-01,545000,E12 6PR,T,N,F,144,,Ruskin Avenue,,London
+2025-08-29,1245000,E12 5EY,T,N,F,81,,Clavering Road,,London
+2025-08-29,1185000,E12 5DZ,T,N,F,7,,Dover Road,,London
+2025-08-27,685000,E12 6QB,T,N,F,17,,Goldsmith Avenue,,London
+2025-08-26,210000,E12 6AN,T,N,F,58,,First Avenue,Manor Park,London
+2025-08-22,410000,E12 6HP,T,N,F,263,,Dersingham Avenue,,London
+2025-08-22,290000,E12 5BF,F,N,L,"Springate House, 117",Flat 12,Walton Road,,London
+2025-08-21,400000,E12 5NE,T,N,F,80,,Grantham Road,Manor Park,London
+2025-08-21,850000,E12 5EX,S,N,F,4,,Clavering Road,,London
+2025-08-18,680000,E12 6SR,T,N,F,15,,Woodhouse Grove,,London
+2025-08-15,314000,E12 6AS,F,N,L,149A,,Meanley Road,,London
+2025-08-15,480000,E12 5QR,T,N,F,177,,Lawrence Avenue,,London
+2025-08-12,590000,E12 6RQ,T,N,F,15,,Coleridge Avenue,,London
+2025-08-11,290000,E12 6SG,T,N,F,65,,East Avenue,,London
+2025-08-01,466000,E12 5QU,T,N,F,219,,Parkhurst Road,,London
+2025-07-31,318250,E12 5JD,F,N,L,"Gingerbread Court, 2A",Flat 7,Michigan Avenue,,London
+2025-07-31,1155000,E12 5DR,T,N,F,29,,St Margarets Road,,London
+2025-07-31,1310000,E12 5DH,T,N,F,86,,Aldersbrook Road,Wanstead,London
+2025-07-30,520000,E12 6SP,T,N,F,41,,Shelley Avenue,,London
+2025-07-25,490000,E12 6PX,T,N,F,105,,Shelley Avenue,,London
+2025-07-25,207000,E12 5HY,F,N,L,28B,,The Warren,,London
+2025-07-24,480000,E12 6JL,T,N,F,60,,Gainsborough Avenue,,London
+2025-07-24,325000,E12 6EJ,F,N,L,63,Ground Floor Flat,Second Avenue,,London
+2025-07-23,535000,E12 5EN,S,N,F,4,,Wanstead Park Avenue,,London
+2025-07-18,550000,E12 6EN,T,N,F,151,,Second Avenue,,London
+2025-07-17,470000,E12 5QR,T,N,F,153,,Lawrence Avenue,,London
+2025-07-15,305000,E12 6UD,F,N,L,248A,,Halley Road,,London
+2025-06-30,455000,E12 6UG,T,N,F,227,,Sherrard Road,,London
+2025-06-30,435000,E12 5DL,F,N,L,"St. James Court, 71",Flat 14,Aldersbrook Road,Wanstead,London
+2025-06-26,365000,E12 5DD,F,N,L,16A,,Gladding Road,,London
+2025-06-23,540000,E12 6PA,T,N,F,181,,Browning Road,,London
+2025-06-19,480000,E12 6QY,T,N,F,51,,Sheridan Road,,London
+2025-06-17,515000,E12 6QD,T,N,F,86,,Goldsmith Avenue,,London
+2025-06-05,450000,E12 5HR,T,N,F,11,,Sunderland Way,,London
+2025-05-30,552000,E12 6DB,T,N,F,13,,Fourth Avenue,,London
+2025-05-29,425000,E12 5DL,F,N,L,"St. James Court, 71",Flat 5,Aldersbrook Road,Wanstead,London
+2025-05-23,465000,E12 6LD,T,N,F,73,,Chesterford Road,,London
+2025-05-23,250000,E12 5HX,F,N,L,151,,Forest View Road,,London
+2025-05-22,280000,E12 6TH,F,N,L,483,,High Street North,Manor Park,London
+2025-05-21,465000,E12 6QR,T,N,F,131,,Essex Road,,London
+2025-05-12,315000,E12 6NX,F,N,L,195,,Browning Road,,London
+2025-05-12,536000,E12 6DT,T,N,F,152,,Third Avenue,,London
+2025-05-07,490000,E12 6SD,T,N,F,75,,Sibley Grove,,London
+2025-05-06,416000,E12 6DB,T,N,F,25,,Fourth Avenue,,London
+2025-05-01,607500,E12 6AJ,T,N,F,82,,First Avenue,Manor Park,London
+2025-05-01,725000,E12 5ET,T,N,F,1,,Empress Avenue,,London
+2025-04-30,1100000,E12 5DR,T,N,F,39,,St Margarets Road,,London
+2025-04-28,571324,E12 5PW,T,N,F,22,,Little Ilford Lane,,London
+2025-04-25,530000,E12 5PJ,T,N,F,130,,Little Ilford Lane,,London
+2025-04-17,316000,E12 6EJ,F,N,L,63,First Floor Flat,Second Avenue,,London
+2025-04-09,400000,E12 6TS,T,N,F,230,,Monega Road,,London
+2025-04-01,475000,E12 5PN,T,N,F,70,,Little Ilford Lane,,London
+2025-03-31,617000,E12 6SU,T,N,F,30,,Wordsworth Avenue,,London
+2025-03-31,550000,E12 6SF,T,N,F,100,,Sibley Grove,,London
+2025-03-31,450000,E12 6LD,T,N,F,85,,Chesterford Road,,London
+2025-03-31,370000,E12 6HG,T,N,F,12,,St Marys Approach,,London
+2025-03-31,440000,E12 5BH,T,N,F,111,,Clarence Road,Manor Park,London
+2025-03-28,650000,E12 6NS,T,N,F,40,,Gladstone Avenue,Manor Park,London
+2025-03-28,390000,E12 5PD,T,N,F,4,,Wolferton Road,,London
+2025-03-28,255000,E12 5FB,F,N,L,"Churcher House, 88",Flat 10,Jack Cornwell Street,,London
+2025-03-28,1300000,E12 5ES,S,N,F,12,,Empress Avenue,,London
+2025-03-27,450000,E12 5SA,T,N,F,75,,Empress Avenue,,London
+2025-03-27,925000,E12 5HN,T,N,F,110,,Harpenden Road,,London
+2025-03-27,582500,E12 5AY,T,N,F,23,,Durham Road,Manor Park,London
+2025-03-26,415000,E12 5JH,T,N,F,120,,Seventh Avenue,,London
+2025-03-25,510000,E12 6UE,T,N,F,275,,Halley Road,,London
+2025-03-24,455000,E12 6PW,S,N,F,108,,Ruskin Avenue,,London
+2025-03-21,550000,E12 6NN,T,N,F,138,,Kensington Avenue,,London
+2025-03-21,1190000,E12 5SE,D,N,F,1,,Albury Mews,,London
+2025-03-21,471500,E12 5HJ,F,N,L,7A,,Harpenden Road,,London
+2025-03-21,920000,E12 5EF,T,N,F,154,,Wanstead Park Avenue,,London
+2025-03-18,510000,E12 6DB,T,N,F,19,,Fourth Avenue,,London
+2025-03-17,625000,E12 5PP,T,N,F,16,,Sixth Avenue,,London
+2025-03-14,460000,E12 6TN,T,N,F,338,,Strone Road,,London
+2025-03-14,567500,E12 6LW,T,N,F,159,,Shakespeare Crescent,,London
+2025-03-13,450000,E12 5PJ,T,N,F,177,,Little Ilford Lane,,London
+2025-03-07,470000,E12 5DD,F,N,L,"Manor House, 24",Flat 2,Gladding Road,,London
+2025-03-07,470000,E12 5DD,F,N,L,"Manor House, 24",Flat 2,Gladding Road,,London
+2025-03-05,340000,E12 5DW,F,N,L,Highfield Court,Flat 2,St Margarets Road,,London
+2025-03-03,495000,E12 6EJ,T,N,F,23,,Second Avenue,,London
+2025-02-28,470000,E12 6QD,T,N,F,78,,Goldsmith Avenue,,London
+2025-02-26,445000,E12 5PW,T,N,F,10,,Little Ilford Lane,,London
+2025-02-25,625000,E12 6EW,T,N,F,24,,Morris Avenue,,London
+2025-02-18,285000,E12 5BN,F,N,L,"Hyle House, 119",Flat 21,Walton Road,,London
+2025-02-17,281000,E12 6UW,F,N,L,113,,Queensberry Place,,London
+2025-02-17,850000,E12 5ET,T,N,F,7,,Empress Avenue,,London
+2025-02-14,410000,E12 6HP,T,N,F,289,,Dersingham Avenue,,London
+2025-02-13,314000,E12 5PE,T,N,L,126A,,Sheringham Avenue,,London
+2025-02-07,480000,E12 6RN,T,N,F,35,,Rixsen Road,,London
+2025-02-07,538000,E12 5JN,T,N,F,17,,Eighth Avenue,,London
+2025-02-07,577000,E12 5JH,T,N,F,72,,Seventh Avenue,,London
+2025-02-05,500000,E12 6PZ,T,N,F,48,,Rosebery Avenue,,London
+2025-02-05,345000,E12 5RN,T,N,F,189,,Walton Road,,London
+2025-01-31,960000,E12 5ED,T,N,F,96,,Dover Road,,London
+2025-01-30,1150000,E12 5EN,T,N,F,62,,Wanstead Park Avenue,,London
+2025-01-29,280000,E12 6UN,F,N,L,73,,Queensberry Place,,London
+2025-01-27,275000,E12 6AN,F,N,L,72,,First Avenue,Manor Park,London
+2025-01-24,542500,E12 6NW,T,N,F,65,,Kensington Avenue,,London
+2025-01-24,285000,E12 6EA,T,N,F,831D,,Romford Road,Manor Park,London
+2025-01-23,605000,E12 5PJ,T,N,F,195,,Little Ilford Lane,,London
+2025-01-22,510000,E12 6DG,T,N,F,16,,Harcourt Avenue,,London
+2025-01-17,525000,E12 6PX,T,N,F,89,,Shelley Avenue,,London
+2025-01-17,410000,E12 6HG,T,N,F,15,,St Marys Approach,,London
+2025-01-14,1150000,E12 5EF,T,N,F,144,,Wanstead Park Avenue,,London
+2025-01-10,250000,E12 6UG,T,N,F,259,,Sherrard Road,,London
+2025-01-03,630000,E12 6UG,T,N,F,279,,Sherrard Road,,London
+2025-01-03,750000,E12 5DF,S,N,F,17,,Forest Drive,,London
+2024-12-23,143600,E12 6DG,F,N,L,64,,Harcourt Avenue,,London
+2024-12-20,290000,E12 5PE,F,N,L,126,,Sheringham Avenue,,London
+2024-12-19,695000,E12 5AX,T,N,F,10,,Durham Road,Manor Park,London
+2024-12-16,2225000,E12 5HD,D,N,F,28,,Northumberland Avenue,,London
+2024-12-13,449500,E12 5DY,F,N,L,58,,Aldersbrook Road,,London
+2024-12-12,330000,E12 5JY,F,N,L,873,,Romford Road,Manor Park,London
+2024-12-10,310000,E12 6EU,T,N,F,"Mallard Court, 54A",1,Morris Avenue,,London
+2024-12-06,430000,E12 5NB,T,N,F,197,,Grantham Road,,London
+2024-12-05,328000,E12 5AD,F,N,L,633,Flat 1,Romford Road,,London
+2024-12-04,530000,E12 5DT,T,N,F,2,,Keller Crescent,,London
+2024-12-02,1300000,E12 5EA,S,N,F,34,,Dover Road,,London
+2024-11-29,820000,E12 5BD,T,N,F,17,,Wentworth Road,,London
+2024-11-28,272000,E12 5JE,T,N,F,8,,Oregon Avenue,,London
+2024-11-26,505000,E12 6TN,T,N,F,346,,Strone Road,,London
+2024-11-26,1027000,E12 5DZ,T,N,F,81,,Dover Road,,London
+2024-11-25,975000,E12 5ED,T,N,F,109,,Dover Road,,London
+2024-11-22,380000,E12 6JE,T,N,F,53,,Landseer Avenue,,London
+2024-11-21,480000,E12 6UG,T,N,F,229,,Sherrard Road,,London
+2024-11-18,447500,E12 5AX,T,N,F,70,,Durham Road,Manor Park,London
+2024-11-15,695000,E12 5AY,T,N,F,51,,Durham Road,Manor Park,London
+2024-11-14,575000,E12 6PZ,T,N,F,32,,Rosebery Avenue,,London
+2024-11-14,290000,E12 5BN,F,N,L,"Hyle House, 119",Flat 13,Walton Road,,London
+2024-11-06,600000,E12 5JG,T,N,F,786,,Romford Road,Manor Park,London
+2024-11-04,430500,E12 6TW,T,N,F,321,,Strone Road,,London
+2024-11-04,490000,E12 5PH,T,N,F,175,,Sheringham Avenue,,London
+2024-11-01,1360000,E12 5EN,S,N,F,32,,Wanstead Park Avenue,,London
+2024-10-30,405000,E12 5DL,F,N,L,"St. James Court, 71",Flat 4,Aldersbrook Road,Wanstead,London
+2024-10-30,555557,E12 5BE,T,N,F,39,,Albany Road,,London
+2024-10-29,575000,E12 5JJ,T,N,F,93,,Seventh Avenue,,London
+2024-10-28,490000,E12 6PP,T,N,F,147,,Ruskin Avenue,,London
+2024-10-25,475000,E12 6LB,T,N,F,114,,Chesterford Road,,London
+2024-10-25,380000,E12 5DD,F,N,L,10B,,Gladding Road,,London
+2024-10-24,1250000,E12 5ET,T,N,F,41,,Empress Avenue,,London
+2024-10-23,640000,E12 6UA,T,N,F,262,,Halley Road,,London
+2024-10-23,980000,E12 5DZ,T,N,F,25,,Dover Road,,London
+2024-10-22,335000,E12 6QB,T,N,L,49A,,Goldsmith Avenue,,London
+2024-10-21,430000,E12 6JZ,T,N,F,25,,Elsenham Road,,London
+2024-10-18,537500,E12 6JX,T,N,F,367,,Dersingham Avenue,,London
+2024-10-18,660000,E12 5BE,T,N,F,36,,Albany Road,,London
+2024-10-17,498248,E12 5QQ,T,N,F,133,,Dersingham Avenue,,London
+2024-10-16,647000,E12 5BB,T,N,F,15,,Clarence Road,Manor Park,London
+2024-10-11,417500,E12 5HN,T,N,F,92,,Harpenden Road,,London
+2024-10-11,1002000,E12 5EA,T,N,F,78,,Dover Road,,London
+2024-10-10,280000,E12 6BE,F,N,L,65,,Snowshill Road,,London
+2024-10-02,520000,E12 6QP,T,N,F,21,,Warwick Road,,London
+2024-09-30,265449,E12 6SE,T,N,F,48,,Sibley Grove,,London
+2024-09-30,395000,E12 5BH,T,N,F,82,,Clarence Road,Manor Park,London
+2024-09-27,319000,E12 6TP,F,N,L,240A,,Strone Road,,London
+2024-09-27,1207500,E12 5EL,T,N,F,25,,Wanstead Park Avenue,,London
+2024-09-13,500000,E12 6EH,T,N,F,46,,Second Avenue,,London
+2024-09-10,485000,E12 5QE,T,N,F,10,,Dersingham Avenue,,London
+2024-09-06,490000,E12 6NL,T,N,F,103,,Kensington Avenue,,London
+2024-09-06,472700,E12 5DH,F,N,L,79C,,Aldersbrook Road,Wanstead,London
+2024-09-04,955000,E12 5EB,T,N,F,7,,Margaretting Road,,London
+2024-08-30,420000,E12 5JX,T,N,F,8,,Worcester Road,,London
+2024-08-30,1305500,E12 5EE,S,N,F,119,,Wanstead Park Avenue,,London
+2024-08-27,585000,E12 5BX,T,N,F,49,,Whitta Road,,London
+2024-08-19,535000,E12 5JN,T,N,F,45,,Eighth Avenue,,London
+2024-08-19,1025000,E12 5HN,T,N,F,86,,Harpenden Road,,London
+2024-08-02,238000,E12 5QQ,T,N,L,129A,,Dersingham Avenue,,London
+2024-07-29,375000,E12 6PU,F,N,L,66,,Shelley Avenue,,London
+2024-07-29,260000,E12 5EW,F,N,L,"Guppy House, 121",Flat 13,Walton Road,,London
+2024-07-29,127000,E12 5AX,F,N,L,78A,,Durham Road,Manor Park,London
+2024-07-26,420000,E12 6DP,T,N,F,117,,Fourth Avenue,,London
+2024-07-23,480740,E12 6AP,T,N,F,35,,Meanley Road,,London
+2024-07-22,510000,E12 6SS,T,N,F,38,,Byron Avenue,Manor Park,London
+2024-07-19,240000,E12 5QQ,F,N,L,129,,Dersingham Avenue,,London
+2024-07-19,430000,E12 5PW,T,N,F,30,,Little Ilford Lane,,London
+2024-07-12,415000,E12 5NX,T,N,F,10,,Sally Murray Close,,London
+2024-07-12,210000,E12 5JP,S,N,L,876A,,Romford Road,Manor Park,London
+2024-07-05,325000,E12 6BS,T,N,L,129,,Carlyle Road,,London
+2024-07-03,380000,E12 6LL,T,N,F,69,,Shakespeare Crescent,,London
+2024-07-02,380256,E12 5BB,T,N,F,67,,Clarence Road,Manor Park,London
+2024-07-01,360000,E12 5RF,F,N,L,33,,Walton Road,,London
+2024-06-28,331000,E12 6UN,F,N,L,25,,Queensberry Place,,London
+2024-06-19,1100000,E12 6SR,T,N,F,46,,Woodhouse Grove,,London
+2024-06-17,440000,E12 6DP,T,N,F,141,,Fourth Avenue,,London
+2024-06-13,200001,E12 6HP,T,N,F,259,,Dersingham Avenue,,London
+2024-06-12,360000,E12 6DS,F,N,L,163A,,Third Avenue,,London
+2024-06-11,480000,E12 6AW,T,N,F,61,,First Avenue,Manor Park,London
+2024-06-07,550000,E12 6RB,T,N,F,119,,Browning Road,,London
+2024-06-07,1000000,E12 5HL,T,N,F,37,,Harpenden Road,,London
+2024-05-31,535000,E12 6AT,T,N,F,132,,Meanley Road,,London
+2024-05-31,500000,E12 5EJ,F,N,L,49,,Herongate Road,,London
+2024-05-31,850000,E12 5DZ,T,N,F,35,,Dover Road,,London
+2024-05-30,400000,E12 6DP,T,N,F,125,,Fourth Avenue,,London
+2024-05-24,260000,E12 6DU,T,N,F,56,,Third Avenue,,London
+2024-05-24,475000,E12 5PJ,T,N,F,167,,Little Ilford Lane,,London
+2024-05-24,320000,E12 5DW,F,N,L,Highfield Court,Flat 4,St Margarets Road,,London
+2024-05-22,500000,E12 6TW,T,N,F,339,,Strone Road,,London
+2024-05-17,246000,E12 6RE,F,N,L,58,Flat B,Essex Road,,London
+2024-05-13,172100,E12 6JD,F,N,L,22A,,Landseer Avenue,,London
+2024-05-13,375000,E12 5HX,F,N,L,138B,,Forest View Road,,London
+2024-05-08,925000,E12 5EY,T,N,F,73,,Clavering Road,,London
+2024-05-07,411000,E12 6PN,T,N,F,119,,Ruskin Avenue,,London
+2024-05-03,610000,E12 6PZ,T,N,F,98,,Rosebery Avenue,,London
+2024-04-29,310000,E12 6JT,F,N,L,75A,,Dore Avenue,,London
+2024-04-26,425000,E12 6HN,T,N,F,279,,Church Road,,London
+2024-04-26,360000,E12 6AP,T,N,F,47,,Meanley Road,,London
+2024-04-26,430000,E12 5PT,T,N,F,157,,Sixth Avenue,,London
+2024-04-26,1455000,E12 5EN,S,N,F,28,,Wanstead Park Avenue,,London
+2024-04-24,425000,E12 6DP,T,N,F,107,,Fourth Avenue,,London
+2024-04-19,463000,E12 6QB,T,N,F,5,,Goldsmith Avenue,,London
+2024-04-11,245000,E12 6DR,T,N,F,96,,Fourth Avenue,,London
+2024-04-10,465000,E12 5QP,T,N,F,192,,Lawrence Avenue,,London
+2024-03-28,425000,E12 6DP,T,N,F,123,,Fourth Avenue,,London
+2024-03-25,350000,E12 5QH,T,N,F,188,,Dersingham Avenue,,London
+2024-03-22,1375000,E12 5ET,S,N,F,29,,Empress Avenue,,London
+2024-03-22,200000,E12 5AD,F,N,L,633 - 637,Flat 9,Romford Road,Manor Park,London
+2024-03-20,332500,E12 5DW,F,N,L,Highfield Court,Flat 11,St Margarets Road,,London
+2024-03-14,1040000,E12 5EX,T,N,F,74,,Clavering Road,,London
+2024-03-12,350000,E12 5HB,F,N,L,Woodside Court,Flat 6,Northumberland Avenue,,London
+2024-03-08,465000,E12 6UF,T,N,F,272,,Sherrard Road,,London
+2024-03-08,585000,E12 6RQ,T,N,F,3,,Coleridge Avenue,,London
+2024-03-01,1192000,E12 5HE,T,N,F,29,,Ingatestone Road,,London
+2024-02-29,500000,E12 5HY,T,N,F,8,,The Warren,,London
+2024-02-28,415000,E12 5QH,T,N,F,184,,Dersingham Avenue,,London
+2024-02-26,900000,E12 5HJ,T,N,F,12,,Harpenden Road,,London
+2024-02-23,1125000,E12 5DP,T,N,F,48,,St Margarets Road,,London
+2024-02-09,475000,E12 6QD,T,N,F,38,,Goldsmith Avenue,,London
+2024-02-09,220000,E12 5HX,F,N,L,128,,Forest View Road,,London
+2024-02-02,550000,E12 6PP,T,N,F,135,,Ruskin Avenue,,London
+2024-01-31,400000,E12 5RL,T,N,F,238,,Walton Road,,London
+2024-01-29,265000,E12 6LB,T,N,F,114,,Chesterford Road,,London
+2024-01-26,355000,E12 6HG,T,N,F,17,,St Marys Approach,,London
+2024-01-19,550000,E12 5BD,T,N,F,1,,Wentworth Road,,London
+2024-01-18,450000,E12 5JE,T,N,F,18,,Oregon Avenue,,London
+2024-01-15,610000,E12 6NR,T,N,F,1,,Gladstone Avenue,Manor Park,London
+2024-01-08,358000,E12 5AY,T,N,L,27,,Durham Road,Manor Park,London
+2024-01-05,525000,E12 6UA,T,N,F,310,,Halley Road,,London
+2024-01-05,535000,E12 6EN,T,N,F,101,,Second Avenue,,London
+2023-12-20,510000,E12 6NS,T,N,F,78,,Gladstone Avenue,Manor Park,London
+2023-12-19,455000,E12 5PN,T,N,F,106,,Little Ilford Lane,,London
+2023-12-19,378000,E12 5EF,F,N,L,92B,,Wanstead Park Avenue,,London
+2023-12-18,312500,E12 6NB,F,N,L,166,,Shakespeare Crescent,,London
+2023-12-18,542000,E12 6AN,T,N,F,28,,First Avenue,Manor Park,London
+2023-12-15,570000,E12 6NX,T,N,F,205,,Browning Road,,London
+2023-12-15,770000,E12 5DD,T,N,F,3,,Gladding Road,,London
+2023-12-12,1175000,E12 5HG,S,N,F,29,,Park Road,,London
+2023-12-07,445000,E12 6SE,T,N,F,24,,Sibley Grove,,London
+2023-11-30,500000,E12 6PX,T,N,F,103,,Shelley Avenue,,London
+2023-11-30,400000,E12 6DP,T,N,F,131,,Fourth Avenue,,London
+2023-11-29,277000,E12 5AY,F,N,L,35,,Durham Road,Manor Park,London
+2023-11-24,445000,E12 6DF,T,N,F,17,,Harcourt Avenue,,London
+2023-11-23,450000,E12 5PE,T,N,F,140,,Sheringham Avenue,,London
+2023-11-22,194000,E12 6TR,F,N,L,231,,Strone Road,,London
+2023-11-22,186000,E12 6QY,F,N,L,59,,Sheridan Road,,London
+2023-11-22,635740,E12 5AX,T,N,F,62,,Durham Road,Manor Park,London
+2023-11-20,1210000,E12 5EH,T,N,F,63,,Herongate Road,,London
+2023-11-20,240000,E12 5BF,F,N,L,"Springate House, 117",Flat 10,Walton Road,,London
+2023-11-17,520500,E12 6TU,T,N,F,281,,Monega Road,,London
+2023-11-15,450000,E12 6BW,T,N,F,63,,Carlyle Road,,London
+2023-11-14,453500,E12 6LP,T,N,F,100,,Shakespeare Crescent,,London
+2023-11-07,255000,E12 6UA,F,N,L,334A,,Halley Road,,London
+2023-11-07,206000,E12 6SS,F,N,L,40B,,Byron Avenue,Manor Park,London
+2023-10-31,322500,E12 6TP,F,N,L,270A,,Strone Road,,London
+2023-10-31,355000,E12 6HR,T,N,F,132,,Landseer Avenue,,London
+2023-10-31,250000,E12 6EH,T,N,L,50,,Second Avenue,,London
+2023-10-26,1060000,E12 5HL,T,N,F,79,,Harpenden Road,,London
+2023-10-25,600000,E12 6PY,T,N,F,39,,Rosebery Avenue,,London
+2023-10-16,250000,E12 6QY,F,N,L,87B,,Sheridan Road,,London
+2023-10-13,518000,E12 6QD,T,N,F,120,,Goldsmith Avenue,,London
+2023-10-11,590000,E12 6BS,F,N,F,109A,,Carlyle Road,,London
+2023-10-09,482500,E12 6RP,T,N,F,39,,Berkeley Road,,London
+2023-10-09,580000,E12 5PR,T,N,F,52,,Sixth Avenue,,London
+2023-10-05,650000,E12 5BB,T,N,F,18,,Clarence Road,Manor Park,London
+2023-10-02,540000,E12 5BE,T,N,F,33,,Albany Road,,London
+2023-10-02,230000,E12 5AB,T,N,L,15,,Manor Park Road,,London
+2023-09-29,905000,E12 5EA,T,N,F,48,,Dover Road,,London
+2023-09-28,595000,E12 6BW,T,N,F,71,,Carlyle Road,,London
+2023-09-27,195000,E12 6JX,F,N,L,345A,,Dersingham Avenue,,London
+2023-09-22,270600,E12 6QZ,T,N,F,96,,Browning Road,,London
+2023-09-22,445000,E12 5PP,F,N,L,46,,Sixth Avenue,,London
+2023-09-22,415000,E12 5EJ,F,N,L,7,,Herongate Road,,London
+2023-09-20,440000,E12 6DH,T,N,F,104,,Harcourt Avenue,,London
+2023-09-20,263000,E12 5HW,F,N,L,144,,Empress Avenue,,London
+2023-09-19,420500,E12 5QG,T,N,F,102,,Dersingham Avenue,,London
+2023-09-15,520000,E12 6TU,T,N,F,245,,Monega Road,,London
+2023-09-15,490000,E12 5PS,T,N,F,103,,Sixth Avenue,,London
+2023-08-31,535000,E12 6NL,T,N,F,141,,Kensington Avenue,,London
+2023-08-29,625000,E12 5AB,S,N,F,41,,Manor Park Road,,London
+2023-08-23,612000,E12 5JD,T,N,F,22,,Michigan Avenue,Manor Park,London
+2023-08-22,580000,E12 5DP,T,N,L,2,,St Margarets Road,,London
+2023-08-15,290000,E12 6UW,F,N,L,96,,Queensberry Place,,London
+2023-08-15,920000,E12 5EB,T,N,F,9,,Margaretting Road,,London
+2023-08-14,495000,E12 6PN,T,N,F,113,,Ruskin Avenue,,London
+2023-08-11,365000,E12 6UA,F,N,L,280,,Halley Road,,London
+2023-08-11,485000,E12 6RD,T,N,F,142,,Browning Road,,London
+2023-08-11,575000,E12 6DU,T,N,F,38,,Third Avenue,,London
+2023-08-11,365000,E12 5HB,F,N,L,Woodside Court,Flat 7,Northumberland Avenue,,London
+2023-08-07,150000,E12 6QD,F,N,L,102A,,Goldsmith Avenue,,London
+2023-08-02,515000,E12 6PX,T,N,F,107,,Shelley Avenue,,London
+2023-07-26,226190,E12 6NS,T,N,F,56,,Gladstone Avenue,Manor Park,London
+2023-07-24,530000,E12 6BP,T,N,F,88,,Carlyle Road,,London
+2023-07-21,320000,E12 6UW,F,N,L,123,,Queensberry Place,,London
+2023-07-21,230000,E12 6AF,F,N,L,"Razia Mews, 135",Flat 4,Church Road,,London
+2023-07-14,565000,E12 6SG,T,N,F,7,,East Avenue,,London
+2023-07-14,560000,E12 6LL,T,N,F,41,,Shakespeare Crescent,,London
+2023-07-14,430000,E12 6JD,T,N,F,58,,Landseer Avenue,,London
+2023-07-14,1365000,E12 5HQ,S,N,F,2,,Park Road,,London
+2023-07-14,1065000,E12 5EX,T,N,F,20,,Clavering Road,,London
+2023-07-06,397000,E12 6PP,T,N,F,161,,Ruskin Avenue,,London
+2023-07-05,417000,E12 6HH,T,N,F,232,,Sheringham Avenue,,London
+2023-07-05,515000,E12 5AX,T,N,F,100,,Durham Road,Manor Park,London
+2023-06-30,1300000,E12 5HD,S,N,F,36,,Northumberland Avenue,,London
+2023-06-29,460000,E12 6TS,T,N,F,280,,Monega Road,,London
+2023-06-28,1000000,E12 5EA,D,N,F,10,,Dover Road,,London
+2023-06-23,550000,E12 6SP,T,N,F,25,,Shelley Avenue,,London
+2023-06-23,300000,E12 5BT,F,N,L,24B,,Station Road,Manor Park,London
+2023-06-16,296800,E12 6JN,F,N,L,171,,Gainsborough Avenue,,London
+2023-06-14,995000,E12 5EG,T,N,F,16,,Herongate Road,,London
+2023-06-09,370000,E12 5NB,T,N,F,185,,Grantham Road,,London
+2023-05-30,366000,E12 5NX,T,N,L,6,,Sally Murray Close,,London
+2023-05-23,280000,E12 5FB,F,N,L,"Churcher House, 88",Flat 11,Jack Cornwell Street,,London
+2023-05-11,185000,E12 6JN,F,N,L,165A,,Gainsborough Avenue,,London
+2023-05-09,300000,E12 6UW,F,N,L,107,,Queensberry Place,,London
+2023-05-05,842000,E12 5EY,T,N,F,49,,Clavering Road,,London
+2023-04-28,425000,E12 5DL,F,N,L,"St. James Court, 71",Flat 10,Aldersbrook Road,Wanstead,London
+2023-04-27,129000,E12 5LH,F,N,L,1027,,Romford Road,Manor Park,London
+2023-04-27,348500,E12 5DB,F,N,L,172,,Capel Road,,London
+2023-04-26,350000,E12 5LE,T,N,F,64,,Colchester Avenue,,London
+2023-04-25,616000,E12 5AZ,T,N,F,3,,Cumberland Road,,London
+2023-04-06,600000,E12 6RQ,T,N,F,71,,Coleridge Avenue,,London
+2023-03-31,490000,E12 6TW,T,N,F,337,,Strone Road,,London
+2023-03-29,240000,E12 5PW,F,N,L,51,,Little Ilford Lane,,London
+2023-03-21,450000,E12 6DX,T,N,F,35,,Third Avenue,Manor Park,London
+2023-03-21,435000,E12 5LZ,T,N,F,115,,Grantham Road,Manor Park,London
+2023-03-20,297000,E12 6UN,F,N,L,41,,Queensberry Place,,London
+2023-03-15,315000,E12 5JE,T,N,L,11A,,Oregon Avenue,,London
+2023-03-14,880000,E12 5EN,S,N,F,8,,Wanstead Park Avenue,,London
+2023-03-13,266000,E12 6JX,F,N,L,349A,,Dersingham Avenue,,London
+2023-03-10,500000,E12 6TS,T,N,F,312,,Monega Road,,London
+2023-03-07,698600,E12 5SB,T,N,F,10,,Heatherwood Close,,London
+2023-03-07,231369,E12 5PB,T,N,F,9,,Sheringham Avenue,,London
+2023-03-07,1055000,E12 5DR,T,N,F,47,,St Margarets Road,,London
+2023-03-01,490000,E12 5PN,T,N,F,109,,Little Ilford Lane,,London
+2023-03-01,500000,E12 5AX,T,N,F,76,,Durham Road,Manor Park,London
+2023-02-27,478000,E12 6JZ,T,N,F,43,,Elsenham Road,,London
+2023-02-21,577000,E12 5AX,T,N,F,80,,Durham Road,Manor Park,London
+2023-02-20,295000,E12 5BN,F,N,L,"Hyle House, 119",Flat 20,Walton Road,,London
+2023-02-10,490000,E12 5PF,T,N,F,91,,Sheringham Avenue,,London
+2023-02-08,210000,E12 5JP,F,N,L,878A,,Romford Road,Manor Park,London
+2023-02-06,512500,E12 6UH,T,N,F,387,,Sherrard Road,,London
+2023-02-02,355000,E12 5RA,F,N,L,11,,Walton Road,,London
+2023-01-31,1150000,E12 5EU,T,N,F,60,,Empress Avenue,,London
+2023-01-30,445000,E12 6UH,T,N,F,349,,Sherrard Road,,London
+2023-01-27,499550,E12 5HS,T,N,F,10,,Westmorland Close,,London
+2023-01-27,865000,E12 5ET,T,N,F,3,,Empress Avenue,,London
+2023-01-27,255000,E12 5BH,T,N,F,86,,Clarence Road,Manor Park,London
+2023-01-19,353680,E12 6EN,T,N,L,153,,Second Avenue,,London
+2023-01-13,850000,E12 5EU,D,N,F,68,,Empress Avenue,,London
+2023-01-11,595000,E12 6NS,F,N,L,34,,Gladstone Avenue,Manor Park,London
+2023-01-11,590000,E12 5SB,T,N,F,8,,Heatherwood Close,,London
+2023-01-05,310000,E12 5HW,F,N,L,162,,Empress Avenue,,London
+2022-12-22,380500,E12 5DB,F,N,L,209A,,Capel Road,,London
+2022-12-20,537500,E12 6PY,T,N,F,27,,Rosebery Avenue,,London
+2022-12-20,260000,E12 6BS,F,N,L,141A,,Carlyle Road,,London
+2022-12-20,500000,E12 5PT,T,N,F,145,,Sixth Avenue,,London
+2022-12-20,415000,E12 5JE,T,N,F,9,,Oregon Avenue,,London
+2022-12-20,579825,E12 5BG,T,N,F,39,,Carlton Road,,London
+2022-12-19,325000,E12 6UW,F,N,L,97,,Queensberry Place,,London
+2022-12-19,249000,E12 5HW,F,N,L,178,,Empress Avenue,,London
+2022-12-16,370000,E12 5HH,F,N,L,23,Flat 5,Aldersbrook Road,,London
+2022-12-15,275000,E12 5FB,F,N,L,"Churcher House, 88",Flat 12,Jack Cornwell Street,,London
+2022-12-09,405000,E12 5JX,T,N,F,34,,Worcester Road,,London
+2022-12-08,537500,E12 5PP,T,N,F,17,,Sixth Avenue,,London
+2022-12-06,460000,E12 6HQ,T,N,F,28,,St Winefrides Avenue,,London
+2022-11-29,550000,E12 6EW,T,N,F,20,,Morris Avenue,,London
+2022-11-25,480000,E12 6LB,T,N,F,6,,Chesterford Road,,London
+2022-11-25,440100,E12 6DP,T,N,F,77,,Fourth Avenue,,London
+2022-11-25,540000,E12 6AA,T,N,F,49,,Salisbury Road,Manor Park,London
+2022-11-24,425000,E12 6AT,T,N,F,122,,Meanley Road,,London
+2022-11-24,280000,E12 5PE,T,N,L,84,,Sheringham Avenue,,London
+2022-11-24,953000,E12 5HD,S,N,F,37,,Northumberland Avenue,,London
+2022-11-23,490000,E12 6UB,T,N,F,355,,Halley Road,,London
+2022-11-18,233000,E12 6UJ,F,N,L,17,,Bluebell Avenue,,London
+2022-11-18,565000,E12 6SE,T,N,F,18,,Sibley Grove,,London
+2022-11-15,431000,E12 5JX,T,N,F,36,,Worcester Road,,London
+2022-11-11,562000,E12 6NH,T,N,F,156,,Byron Avenue,Manor Park,London
+2022-11-11,483000,E12 6DR,T,N,F,126,,Fourth Avenue,,London
+2022-11-07,442500,E12 6UG,T,N,F,257,,Sherrard Road,,London
+2022-11-07,245000,E12 5NR,F,N,L,Charlbury House,Flat 46,Grantham Road,Manor Park,London
+2022-11-04,975000,E12 5DR,T,N,F,31,,St Margarets Road,,London
+2022-11-04,642000,E12 5DD,F,N,L,"Manor House, 24",Flat 4,Gladding Road,,London
+2022-11-03,283000,E12 5HU,F,N,L,83,,Forest View Road,,London
+2022-10-31,940000,E12 5DZ,T,N,F,13,,Dover Road,,London
+2022-10-28,501000,E12 6PZ,T,N,F,38,,Rosebery Avenue,,London
+2022-10-28,475000,E12 6JZ,S,N,F,35,,Elsenham Road,,London
+2022-10-28,422500,E12 6JE,T,N,F,49,,Landseer Avenue,,London
+2022-10-28,450000,E12 5JX,T,N,F,12,,Worcester Road,,London
+2022-10-26,342000,E12 5HH,F,N,L,21,Flat 6,Aldersbrook Road,,London
+2022-10-24,1005000,E12 5EY,T,N,F,11,,Clavering Road,,London
+2022-10-21,680000,E12 5ET,T,N,F,1,,Empress Avenue,,London
+2022-10-21,1100000,E12 5EG,T,N,F,38,,Herongate Road,,London
+2022-10-19,175000,E12 6DF,F,N,L,9,,Harcourt Avenue,,London
+2022-10-14,245233,E12 6NX,T,N,F,206,,Browning Road,,London
+2022-10-13,490000,E12 6TU,T,N,F,287,,Monega Road,,London
+2022-10-10,515000,E12 6QB,T,N,F,71,,Goldsmith Avenue,,London
+2022-10-10,285000,E12 6JZ,F,N,L,11,,Elsenham Road,,London
+2022-10-10,1000000,E12 5DD,S,N,F,13,,Gladding Road,,London
+2022-10-07,455000,E12 6AT,T,N,F,136,,Meanley Road,,London
+2022-10-07,349000,E12 5HQ,F,N,L,18,First Floor Flat,Park Road,,London
+2022-10-07,375000,E12 5HH,F,N,L,21,Flat 1,Aldersbrook Road,,London
+2022-10-04,300000,E12 5LE,T,N,F,70,,Colchester Avenue,,London
+2022-10-03,475000,E12 6RW,T,N,F,20,,Berkeley Road,,London
+2022-10-03,360000,E12 6DA,F,N,L,"Cameron Court, 33",Flat 7,Fifth Avenue,,London
+2022-09-30,550000,E12 6LL,T,N,F,11,,Shakespeare Crescent,,London
+2022-09-30,310000,E12 6DF,F,N,L,39,,Harcourt Avenue,,London
+2022-09-30,305000,E12 6BN,F,N,L,40A,,Carlyle Road,,London
+2022-09-30,450000,E12 5EA,F,N,L,80,First Floor Maisonette,Dover Road,,London
+2022-09-29,795000,E12 5HW,S,N,F,198,,Empress Avenue,,London
+2022-09-26,392000,E12 6JG,T,N,F,3,,George Comberton Walk,,London
+2022-09-23,513000,E12 5QQ,T,N,F,149,,Dersingham Avenue,,London
+2022-09-21,330000,E12 6UW,F,N,L,104,,Queensberry Place,,London
+2022-09-13,236000,E12 6UD,T,N,L,240,,Halley Road,,London
+2022-09-09,405000,E12 5RN,T,N,F,193,,Walton Road,,London
+2022-09-08,610000,E12 5BE,T,N,F,27,,Albany Road,,London
+2022-09-07,1164173,E12 5HJ,T,N,F,2,,Harpenden Road,,London
+2022-09-02,490000,E12 6PY,T,N,F,17,,Rosebery Avenue,,London
+2022-09-02,390000,E12 6AZ,T,N,F,9,,Marabou Close,,London
+2022-08-26,565000,E12 5JD,T,N,F,8,,Michigan Avenue,Manor Park,London
+2022-08-26,265000,E12 5EW,F,N,L,"Guppy House, 121",Flat 11,Walton Road,,London
+2022-08-25,375000,E12 5QE,T,N,F,14,,Dersingham Avenue,,London
+2022-08-19,485000,E12 6LL,T,N,F,59,,Shakespeare Crescent,,London
+2022-08-19,380000,E12 5JX,T,N,F,2,,Worcester Road,,London
+2022-08-15,260000,E12 5JD,F,N,L,2,Ground Floor Flat,Michigan Avenue,Manor Park,London
+2022-08-12,530000,E12 6NB,T,N,F,164,,Shakespeare Crescent,,London
+2022-08-11,390000,E12 6AU,T,N,F,4,,Nine Acres Close,Manor Park,London
+2022-08-10,320000,E12 6UW,F,N,L,134,,Queensberry Place,,London
+2022-08-10,515000,E12 6DP,T,N,F,49,,Fourth Avenue,,London
+2022-08-08,750000,E12 5DD,T,N,F,5,,Gladding Road,,London
+2022-08-05,315000,E12 6UN,F,N,L,69,,Queensberry Place,,London
+2022-08-05,295000,E12 5PE,F,N,L,86B,,Sheringham Avenue,,London
+2022-08-04,1672022,E12 5HH,T,N,F,15,,Aldersbrook Road,,London
+2022-08-04,1050000,E12 5EE,T,N,F,135,,Wanstead Park Avenue,,London
+2022-08-03,515000,E12 5JN,T,N,F,19,,Eighth Avenue,,London
+2022-08-03,795000,E12 5BD,T,N,F,7,,Wentworth Road,,London
+2022-08-01,480000,E12 6UE,T,N,F,257,,Halley Road,,London
+2022-07-29,320000,E12 5PQ,F,N,L,202,Flat A,Sheringham Avenue,,London
+2022-07-27,250000,E12 6UF,T,N,F,316,,Sherrard Road,,London
+2022-07-27,261000,E12 6UD,F,N,L,194,,Halley Road,,London
+2022-07-25,400000,E12 6HG,T,N,F,9,,St Marys Approach,,London
+2022-07-19,1180000,E12 5EZ,D,N,F,53,,Northumberland Avenue,,London
+2022-07-12,247000,E12 6JA,F,N,L,66,,Rectory Road,,London
+2022-07-12,207000,E12 6JA,F,N,L,66,,Rectory Road,,London
+2022-07-12,465000,E12 5JN,T,N,F,5,,Eighth Avenue,,London
+2022-07-07,322000,E12 6UW,F,N,L,125,,Queensberry Place,,London
+2022-07-04,530000,E12 6QD,T,N,F,68,,Goldsmith Avenue,,London
+2022-07-04,1040000,E12 5EH,T,N,F,73,,Herongate Road,,London
+2022-07-01,330000,E12 6RE,F,N,L,42B,Flat,Essex Road,,London
+2022-07-01,1142000,E12 5EF,T,N,F,88,,Wanstead Park Avenue,,London
+2022-07-01,330000,E12 5BB,T,N,F,49,,Clarence Road,Manor Park,London
+2022-06-30,480000,E12 6LB,T,N,F,110,,Chesterford Road,,London
+2022-06-30,290000,E12 6LA,F,N,L,8,,Elsenham Road,,London
+2022-06-30,280000,E12 5FB,F,N,L,"Churcher House, 88",Flat 15,Jack Cornwell Street,,London
+2022-06-29,475000,E12 6TN,T,N,F,376,,Strone Road,,London
+2022-06-24,270000,E12 5BT,F,N,L,28B,,Station Road,Manor Park,London
+2022-06-23,375000,E12 5HH,F,N,L,23,Flat 4,Aldersbrook Road,,London
+2022-06-20,272500,E12 5LH,T,N,L,1009A,,Romford Road,Manor Park,London
+2022-06-17,935000,E12 5HE,T,N,F,15,,Ingatestone Road,,London
+2022-06-17,894000,E12 5DJ,S,N,F,16,,Merlin Road,,London
+2022-06-14,250000,E12 6NU,T,N,F,227,,Browning Road,,London
+2022-06-10,550000,E12 5QG,T,N,F,122,,Dersingham Avenue,,London
+2022-06-09,419500,E12 6TU,T,N,F,267,,Monega Road,,London
+2022-06-09,440000,E12 6RJ,T,N,F,10,,Stanley Road,,London
+2022-06-01,495000,E12 6PT,T,N,F,107,,Rosebery Avenue,,London
+2022-05-30,440000,E12 6RN,T,N,F,23,,Rixsen Road,,London
+2022-05-30,290000,E12 6BB,F,N,L,150,,Snowshill Road,,London
+2022-05-27,500100,E12 5PP,T,N,F,49,,Sixth Avenue,,London
+2022-05-19,413000,E12 5PU,T,N,F,176,,Sixth Avenue,,London
+2022-05-18,405000,E12 6DP,T,N,F,93,,Fourth Avenue,,London
+2022-05-13,305000,E12 6UN,F,N,L,5,,Queensberry Place,,London
+2022-05-13,250000,E12 5PW,T,N,F,8,,Little Ilford Lane,,London
+2022-05-11,417000,E12 6UE,T,N,F,271,,Halley Road,,London
+2022-05-10,495000,E12 6EP,T,N,F,76,,Morris Avenue,,London
+2022-05-09,345000,E12 6JP,T,N,F,24,,Leader Avenue,,London
+2022-05-06,475000,E12 6LP,T,N,F,90,,Shakespeare Crescent,,London
+2022-04-29,320000,E12 6NS,F,N,L,28B,,Gladstone Avenue,Manor Park,London
+2022-04-29,490000,E12 6LL,T,N,F,45,,Shakespeare Crescent,,London
+2022-04-28,520000,E12 6QZ,T,N,F,64,,Browning Road,,London
+2022-04-21,435000,E12 5HS,T,N,F,36,,Westmorland Close,,London
+2022-04-14,285000,E12 6UW,F,N,L,137,,Queensberry Place,,London
+2022-04-14,550000,E12 6JA,T,N,F,28,,Rectory Road,,London
+2022-04-14,500000,E12 6AA,T,N,F,53,,Salisbury Road,Manor Park,London
+2022-04-14,405000,E12 5EN,F,N,L,4,B,Wanstead Park Avenue,,London
+2022-04-14,1408990,E12 5EA,T,N,F,18,,Dover Road,,London
+2022-04-14,125000,E12 5AX,F,N,L,78B,,Durham Road,Manor Park,London
+2022-04-04,245000,E12 5EU,F,N,L,106,,Empress Avenue,,London
+2022-03-31,1126000,E12 5EG,T,N,F,28,,Herongate Road,,London
+2022-03-29,865000,E12 5EG,T,N,F,50,,Herongate Road,,London
+2022-03-25,205000,E12 6JD,F,N,L,72,,Landseer Avenue,,London
+2022-03-25,240000,E12 5QE,T,N,F,88,,Dersingham Avenue,,London
+2022-03-21,380000,E12 5JA,S,N,F,53,,Washington Avenue,,London
+2022-03-18,225000,E12 5AH,F,N,L,"Oldham House, 3A",Flat 14,Grantham Road,Manor Park,London
+2022-03-17,375000,E12 5JU,T,N,F,33,,Gloucester Road,,London
+2022-03-16,495000,E12 6PS,T,N,F,118,,Rosebery Avenue,,London
+2022-03-16,395000,E12 5RL,T,N,F,246,,Walton Road,,London
+2022-03-11,365000,E12 6HN,T,N,F,269,,Church Road,,London
+2022-03-08,875000,E12 5EF,T,N,F,106,,Wanstead Park Avenue,,London
+2022-03-04,370000,E12 6JJ,T,N,F,67,,Gainsborough Avenue,,London
+2022-03-02,530000,E12 6BW,T,N,F,75,,Carlyle Road,,London
+2022-02-28,256000,E12 6UH,F,N,L,331,,Sherrard Road,,London
+2022-02-28,947550,E12 5HG,T,N,F,15,,Park Road,,London
+2022-02-24,960000,E12 5EN,S,N,F,10,,Wanstead Park Avenue,,London
+2022-02-22,345000,E12 5JU,T,N,F,41,,Gloucester Road,,London
+2022-02-18,425000,E12 6JS,T,N,F,17,,Reynolds Avenue,,London
+2022-02-17,362011,E12 6HL,T,N,F,180,,Church Road,,London
+2022-02-17,875000,E12 5DR,T,N,F,33,,St Margarets Road,,London
+2022-02-14,417500,E12 6HQ,T,N,F,14,,St Winefrides Avenue,,London
+2022-02-11,415000,E12 5EJ,F,N,L,7A,,Herongate Road,,London
+2022-02-11,895000,E12 5EG,T,N,F,48,,Herongate Road,,London
+2022-02-04,520000,E12 6TS,T,N,F,210,,Monega Road,,London
+2022-02-04,475000,E12 5PA,T,N,F,56,,Sheringham Avenue,,London
+2022-02-02,490000,E12 5PF,T,N,F,113,,Sheringham Avenue,,London
+2022-02-01,307000,E12 5DF,F,N,L,7,,Forest Drive,,London
+2022-01-28,886000,E12 5EQ,T,N,F,70,,Herongate Road,,London
+2022-01-26,385000,E12 6JT,T,N,F,5,,Dore Avenue,,London
+2022-01-26,265000,E12 6JB,F,N,L,9,First Floor Flat,Rectory Road,,London
+2022-01-26,285000,E12 6JB,F,N,L,9,Ground Floor Flat,Rectory Road,,London
+2022-01-24,374500,E12 5JU,T,N,F,14,,Gloucester Road,,London
+2022-01-24,740000,E12 5BB,T,N,F,22,,Clarence Road,Manor Park,London
+2022-01-21,495000,E12 6LN,T,N,F,62,,Shakespeare Crescent,,London
+2022-01-21,460000,E12 5HJ,S,N,L,7,,Harpenden Road,,London
+2022-01-19,505000,E12 5HJ,F,N,L,7A,,Harpenden Road,,London
+2022-01-14,200000,E12 6QD,T,N,F,44,,Goldsmith Avenue,,London
+2022-01-13,143000,E12 5LF,F,N,L,43A,,Colchester Avenue,,London
+2022-01-12,275000,E12 5DB,F,N,L,207,,Capel Road,,London
+2022-01-11,637500,E12 5BB,T,N,F,20,,Clarence Road,Manor Park,London
+2022-01-10,1020000,E12 5EN,T,N,F,54,,Wanstead Park Avenue,,London
+2022-01-07,485000,E12 6EJ,T,N,F,49,,Second Avenue,,London
+2021-12-22,515000,E12 6QT,T,N,F,17,,Sheridan Road,,London
+2021-12-22,380000,E12 5JU,T,N,F,2,,Gloucester Road,,London
+2021-12-21,475000,E12 6NP,T,N,F,10,,Kensington Avenue,,London
+2021-12-17,427000,E12 5JA,T,N,F,17,,Washington Avenue,,London
+2021-12-17,1098150,E12 5EJ,T,N,F,29,,Herongate Road,,London
+2021-12-17,280000,E12 5BN,F,N,L,"Hyle House, 119",Flat 23,Walton Road,,London
+2021-12-16,410000,E12 5QY,T,N,F,242,,Parkhurst Road,,London
+2021-12-10,475000,E12 5PA,T,N,F,58,,Sheringham Avenue,,London
+2021-12-10,403000,E12 5JQ,T,N,F,14,,Seventh Avenue,,London
+2021-12-09,232000,E12 6UH,T,N,F,339,,Sherrard Road,,London
+2021-12-08,485000,E12 6DQ,T,N,F,91,,Harcourt Avenue,,London
+2021-11-30,690000,E12 5BG,T,N,F,5,,Carlton Road,,London
+2021-11-29,107700,E12 5HU,F,N,L,92,,Forest View Road,,London
+2021-11-24,1275000,E12 5DR,S,N,F,5,,St Margarets Road,,London
+2021-11-23,922500,E12 5DJ,S,N,F,25,,Merlin Road,,London
+2021-11-19,475000,E12 6PT,T,N,F,115,,Rosebery Avenue,,London
+2021-11-19,368000,E12 6NW,T,N,F,37,,Kensington Avenue,,London
+2021-11-16,362000,E12 5HB,F,N,L,Woodside Court,Flat 3,Northumberland Avenue,,London
+2021-11-15,425000,E12 5PN,T,N,F,96,,Little Ilford Lane,,London
+2021-11-02,420000,E12 6ER,T,N,F,9,,Morris Avenue,,London
+2021-11-02,625000,E12 5SB,T,N,F,5,,Heatherwood Close,,London
+2021-10-28,309000,E12 6UN,F,N,L,63,,Queensberry Place,,London
+2021-10-28,1570000,E12 5HN,T,N,F,112,,Harpenden Road,,London
+2021-10-27,450000,E12 6RE,T,N,F,62,,Essex Road,,London
+2021-10-27,225000,E12 6JN,T,N,L,147,,Gainsborough Avenue,,London
+2021-10-26,221000,E12 6UH,F,N,L,323A,,Sherrard Road,,London
+2021-10-22,387000,E12 6JH,T,N,F,26,,Barrington Road,,London
+2021-10-22,925000,E12 5HA,T,N,F,50,,Northumberland Avenue,,London
+2021-10-21,370000,E12 5JX,T,N,F,29,,Worcester Road,,London
+2021-10-20,970000,E12 5EF,T,N,F,162,,Wanstead Park Avenue,,London
+2021-10-15,385000,E12 6TS,T,N,F,252,,Monega Road,,London
+2021-10-15,425000,E12 5QH,T,N,F,182,,Dersingham Avenue,,London
+2021-10-15,225000,E12 5HY,F,N,L,20B,,The Warren,,London
+2021-10-15,285000,E12 5HH,F,N,L,22,Flat 4,Aldersbrook Road,,London
+2021-10-08,370000,E12 5QJ,T,N,F,189,,Dersingham Avenue,,London
+2021-10-05,500000,E12 6AP,T,N,F,27,,Meanley Road,,London
+2021-09-30,295000,E12 6UN,F,N,L,44,,Queensberry Place,,London
+2021-09-30,543500,E12 6NG,T,N,F,102,,Byron Avenue,Manor Park,London
+2021-09-30,455000,E12 5PL,T,N,F,7,,Trevelyan Avenue,,London
+2021-09-30,420000,E12 5PA,T,N,F,16,,Sheringham Avenue,,London
+2021-09-30,250000,E12 5AQ,F,N,L,636C,,Romford Road,Manor Park,London
+2021-09-29,560000,E12 6RW,T,N,F,6,,Berkeley Road,,London
+2021-09-24,152000,E12 6QD,F,N,L,102,,Goldsmith Avenue,,London
+2021-09-24,488000,E12 6PU,T,N,F,134,,Shelley Avenue,,London
+2021-09-24,437000,E12 5PQ,T,N,F,154,,Sheringham Avenue,,London
+2021-09-24,560000,E12 5PF,T,N,F,89,,Sheringham Avenue,,London
+2021-09-24,727600,E12 5BE,T,N,F,11,,Albany Road,,London
+2021-09-24,699000,E12 5BB,T,N,F,25,,Clarence Road,Manor Park,London
+2021-09-22,435000,E12 6AB,T,N,F,40A,,Salisbury Road,Manor Park,London
+2021-09-17,317500,E12 6UW,F,N,L,125,,Queensberry Place,,London
+2021-09-08,310000,E12 6UN,F,N,L,9,,Queensberry Place,,London
+2021-09-03,435000,E12 6QZ,T,N,F,52,,Browning Road,,London
+2021-09-03,300000,E12 6QZ,T,N,L,52,,Browning Road,,London
+2021-09-03,135000,E12 6QZ,F,N,L,52,First Floor Flat,Browning Road,,London
+2021-09-01,355000,E12 6TN,T,N,F,344,,Strone Road,,London
+2021-08-27,1451050,E12 5ET,S,N,F,23,,Empress Avenue,,London
+2021-08-25,245000,E12 6DD,F,N,L,68,,Fourth Avenue,,London
+2021-08-25,1025000,E12 5EQ,T,N,F,64,,Herongate Road,,London
+2021-08-20,440000,E12 6DP,T,N,F,91,,Fourth Avenue,,London
+2021-08-19,1240000,E12 5HF,S,N,F,7,,Northumberland Avenue,,London
+2021-08-18,450000,E12 6LB,T,N,F,20,,Chesterford Road,,London
+2021-08-18,450000,E12 6AL,T,N,F,141,,First Avenue,Manor Park,London
+2021-08-17,307000,E12 6UN,F,N,L,68,,Queensberry Place,,London
+2021-08-13,502500,E12 6LN,T,N,F,48,,Shakespeare Crescent,,London
+2021-08-06,910000,E12 5EG,T,N,F,12,,Herongate Road,,London
+2021-08-04,306500,E12 6UA,F,N,L,280,,Halley Road,,London
+2021-07-27,450000,E12 6DT,T,N,F,152,,Third Avenue,,London
+2021-07-14,450000,E12 6DR,T,N,F,146,,Fourth Avenue,,London
+2021-07-12,386000,E12 5PH,T,N,F,209,,Sheringham Avenue,,London
+2021-06-30,506000,E12 6UB,T,N,F,375,,Halley Road,,London
+2021-06-30,334000,E12 6SW,T,N,F,42,,Shelley Avenue,,London
+2021-06-30,545000,E12 6QD,T,N,F,58,,Goldsmith Avenue,,London
+2021-06-30,540000,E12 6HJ,T,N,F,245,,Sheringham Avenue,,London
+2021-06-30,485000,E12 6AJ,T,N,F,140,,First Avenue,Manor Park,London
+2021-06-30,650000,E12 5EX,T,N,F,86,,Clavering Road,,London
+2021-06-30,810000,E12 5EU,T,N,F,54,,Empress Avenue,,London
+2021-06-29,285000,E12 6HR,T,N,F,104,,Landseer Avenue,,London
+2021-06-29,435000,E12 5SA,S,N,F,65,,Empress Avenue,,London
+2021-06-28,311500,E12 6UN,F,N,L,1,,Queensberry Place,,London
+2021-06-28,455000,E12 6AW,T,N,F,41,,First Avenue,Manor Park,London
+2021-06-28,245000,E12 5HU,F,N,L,91,,Forest View Road,,London
+2021-06-28,445000,E12 5HR,T,N,F,20,,Sunderland Way,,London
+2021-06-28,435000,E12 5EU,T,N,F,78,,Empress Avenue,,London
+2021-06-28,413105,E12 5DF,F,N,L,22,,Forest Drive,,London
+2021-06-28,615000,E12 5AZ,T,N,F,14,,Cumberland Road,,London
+2021-06-28,360000,E12 5AX,F,N,L,52,,Durham Road,Manor Park,London
+2021-06-25,254000,E12 6UD,T,N,F,244,,Halley Road,,London
+2021-06-25,625000,E12 6TR,T,N,F,269,,Strone Road,,London
+2021-06-25,540000,E12 6LL,T,N,F,73,,Shakespeare Crescent,,London
+2021-06-25,400000,E12 6JH,T,N,F,24,,Barrington Road,,London
+2021-06-25,395000,E12 6JA,S,N,F,56,,Rectory Road,,London
+2021-06-25,582500,E12 6BW,T,N,F,71,,Carlyle Road,,London
+2021-06-25,776000,E12 5DJ,T,N,F,29,,Merlin Road,,London
+2021-06-25,521500,E12 5BB,T,N,F,15,,Clarence Road,Manor Park,London
+2021-06-23,400000,E12 6TR,T,N,F,277,,Strone Road,,London
+2021-06-23,480000,E12 6AW,T,N,F,1,,First Avenue,Manor Park,London
+2021-06-23,400000,E12 5BH,T,N,F,121,,Clarence Road,Manor Park,London
+2021-06-21,600000,E12 6UD,T,N,F,218A,,Halley Road,,London
+2021-06-21,480000,E12 6SQ,T,N,F,20,,East Avenue,,London
+2021-06-21,700000,E12 5HJ,D,N,F,2B,,Harpenden Road,,London
+2021-06-18,515000,E12 6NP,T,N,F,42,,Kensington Avenue,,London
+2021-06-18,935000,E12 5DZ,T,N,F,19,,Dover Road,,London
+2021-06-17,475000,E12 6LL,T,N,F,25,,Shakespeare Crescent,,London
+2021-06-17,860000,E12 5DZ,T,N,F,75,,Dover Road,,London
+2021-06-15,650000,E12 6PZ,S,N,F,10,,Rosebery Avenue,,London
+2021-06-15,347000,E12 5HB,F,N,L,Woodside Court,Flat 10,Northumberland Avenue,,London
+2021-06-11,417500,E12 6TS,T,N,F,214,,Monega Road,,London
+2021-06-11,250000,E12 5LQ,F,N,L,16,,Daines Close,,London
+2021-06-11,425000,E12 5HS,T,N,F,5,,Westmorland Close,,London
+2021-06-08,410000,E12 6LD,T,N,F,51,,Chesterford Road,,London
+2021-06-07,510000,E12 6SW,T,N,F,46,,Shelley Avenue,,London
+2021-06-07,419995,E12 6JZ,T,N,F,15,,Elsenham Road,,London
+2021-06-04,270000,E12 5FB,F,N,L,"Churcher House, 88",Flat 9,Jack Cornwell Street,,London
+2021-06-03,1150000,E12 5EH,T,N,F,83,,Herongate Road,,London
+2021-05-28,412500,E12 5JD,T,N,F,7,,Michigan Avenue,Manor Park,London
+2021-05-28,990000,E12 5HQ,T,N,F,22,,Park Road,,London
+2021-05-18,520000,E12 6EN,T,N,F,93,,Second Avenue,,London
+2021-05-17,520000,E12 6NJ,T,N,F,165,,Byron Avenue,Manor Park,London
+2021-05-17,218820,E12 6EU,T,N,F,"Mallard Court, 54A",2,Morris Avenue,,London
+2021-05-14,218000,E12 5HX,F,N,L,151,,Forest View Road,,London
+2021-05-14,395650,E12 5EJ,F,N,L,7,,Herongate Road,,London
+2021-05-12,525000,E12 6NS,T,N,F,88,,Gladstone Avenue,Manor Park,London
+2021-05-07,410000,E12 5QG,T,N,F,136,,Dersingham Avenue,,London
+2021-05-07,933000,E12 5HJ,T,N,F,11,,Harpenden Road,,London
+2021-05-04,400000,E12 6UN,F,N,L,27,,Queensberry Place,,London
+2021-05-04,345000,E12 5HB,F,N,L,Woodside Court,Flat 9,Northumberland Avenue,,London
+2021-04-30,458000,E12 6UG,T,N,F,235,,Sherrard Road,,London
+2021-04-30,310000,E12 6NJ,T,N,F,175,,Byron Avenue,Manor Park,London
+2021-04-30,860000,E12 5EA,S,N,F,82,,Dover Road,,London
+2021-04-23,400000,E12 6PY,T,N,F,71,,Rosebery Avenue,,London
+2021-04-23,425000,E12 6DS,T,N,F,157,,Third Avenue,,London
+2021-04-21,360000,E12 6JW,T,N,F,40,,Leighton Avenue,,London
+2021-04-16,410000,E12 5PW,T,N,F,28,,Little Ilford Lane,,London
+2021-04-14,125000,E12 5AX,F,N,L,78A,,Durham Road,Manor Park,London
+2021-04-12,174999,E12 6UD,F,N,L,198,,Halley Road,,London
+2021-04-09,515000,E12 6EJ,T,N,F,33,,Second Avenue,,London
+2021-04-09,790000,E12 5SE,D,N,F,1,,Albury Mews,,London
+2021-04-08,317000,E12 6UN,F,N,L,14,,Queensberry Place,,London
+2021-04-01,415000,E12 5PL,T,N,F,6,,Trevelyan Avenue,,London
+2021-03-31,980000,E12 5EE,T,N,F,131,,Wanstead Park Avenue,,London
+2021-03-31,800000,E12 5AZ,T,N,F,2,,Cumberland Road,,London
+2021-03-29,350000,E12 6BL,F,N,L,43A,,Carlyle Road,,London
+2021-03-29,985000,E12 5DR,S,N,F,41,,St Margarets Road,,London
+2021-03-26,307500,E12 6UW,F,N,L,132,,Queensberry Place,,London
+2021-03-26,485000,E12 6NP,T,N,F,2,,Kensington Avenue,,London
+2021-03-26,301150,E12 6DG,T,N,F,28,,Harcourt Avenue,,London
+2021-03-26,465000,E12 5QG,T,N,F,116,,Dersingham Avenue,,London
+2021-03-26,300000,E12 5AH,F,N,L,"Oldham House, 3A",Flat 5,Grantham Road,Manor Park,London
+2021-03-25,445000,E12 5EN,F,N,L,2,Flat 2,Wanstead Park Avenue,,London
+2021-03-25,675000,E12 5DB,T,N,F,197,,Capel Road,,London
+2021-03-24,200000,E12 6LL,T,N,F,47,,Shakespeare Crescent,,London
+2021-03-19,450000,E12 6AD,S,N,F,49,,Church Road,,London
+2021-03-15,615000,E12 6SR,T,N,F,15,,Woodhouse Grove,,London
+2021-03-15,480000,E12 6RD,T,N,F,142,,Browning Road,,London
+2021-03-12,450000,E12 6UF,T,N,F,322,,Sherrard Road,,London
+2021-03-12,466000,E12 6UE,T,N,F,233,,Halley Road,,London
+2021-03-08,450000,E12 6NB,T,N,F,138,,Shakespeare Crescent,,London
+2021-03-05,500000,E12 6NP,T,N,F,44,,Kensington Avenue,,London
+2021-03-05,275000,E12 5LH,F,N,L,1011A,,Romford Road,Manor Park,London
+2021-03-03,430000,E12 6EJ,F,N,L,65A,,Second Avenue,,London
+2021-03-01,682700,E12 5EX,T,N,F,82,,Clavering Road,,London
+2021-03-01,322500,E12 5DF,F,N,L,9,,Forest Drive,,London
+2021-02-26,540000,E12 6NH,T,N,F,156,,Byron Avenue,Manor Park,London
+2021-02-26,195000,E12 6NB,T,N,F,140,,Shakespeare Crescent,,London
+2021-02-26,450000,E12 5PU,T,N,F,120,,Sixth Avenue,,London
+2021-02-24,297000,E12 6LN,F,N,L,50,First Floor Flat,Shakespeare Crescent,,London
+2021-02-24,970000,E12 5HN,T,N,F,64,,Harpenden Road,,London
+2021-02-19,408000,E12 6JT,T,N,F,9,,Dore Avenue,,London
+2021-02-19,425000,E12 6EH,T,N,F,30,,Second Avenue,,London
+2021-02-18,440000,E12 5BH,T,N,F,129,,Clarence Road,Manor Park,London
+2021-02-17,918775,E12 5HL,T,N,F,23,,Harpenden Road,,London
+2021-02-17,807500,E12 5HG,T,N,F,39,,Park Road,,London
+2021-02-17,925000,E12 5HE,T,N,F,5,,Ingatestone Road,,London
+2021-02-17,700000,E12 5EE,S,N,F,119,,Wanstead Park Avenue,,London
+2021-02-12,300000,E12 6QD,T,N,F,114,,Goldsmith Avenue,,London
+2021-02-12,360000,E12 5RN,T,N,F,173,,Walton Road,,London
+2021-02-12,1100000,E12 5EQ,T,N,F,74,,Herongate Road,,London
+2021-02-10,430000,E12 6DA,T,N,F,25,,Fifth Avenue,,London
+2021-02-10,715000,E12 5SB,T,N,F,10,,Heatherwood Close,,London
+2021-02-08,105000,E12 5LZ,F,N,L,61,,Grantham Road,Manor Park,London
+2021-02-05,312000,E12 6UW,F,N,L,127,,Queensberry Place,,London
+2021-02-02,420000,E12 6DP,T,N,F,137,,Fourth Avenue,,London
+2021-01-26,472500,E12 6LN,T,N,F,60,,Shakespeare Crescent,,London
+2021-01-25,235000,E12 6HN,F,N,L,253D,,Church Road,,London
+2021-01-25,457000,E12 5JJ,T,N,F,93,,Seventh Avenue,,London
+2021-01-25,740000,E12 5EF,T,N,F,112,,Wanstead Park Avenue,,London
+2021-01-25,380000,E12 5DT,T,N,F,27,,Keller Crescent,,London
+2021-01-22,510000,E12 6NR,T,N,F,41,,Gladstone Avenue,Manor Park,London
+2021-01-22,472000,E12 6EN,T,N,F,107,,Second Avenue,,London
+2021-01-15,407000,E12 6HQ,T,N,F,16,,St Winefrides Avenue,,London
+2021-01-15,220000,E12 6BB,F,N,L,52,,Snowshill Road,,London
+2021-01-15,475000,E12 5PA,T,N,F,68,,Sheringham Avenue,,London
+2021-01-15,668000,E12 5BB,T,N,F,24,,Clarence Road,Manor Park,London
+2021-01-14,543000,E12 6RF,T,N,F,61,,Essex Road,,London
+2021-01-11,305000,E12 6UW,F,N,L,115,,Queensberry Place,,London
+2021-01-08,375000,E12 5PS,F,N,L,117,,Sixth Avenue,,London
+2021-01-08,1100000,E12 5EJ,T,N,F,45,,Herongate Road,,London

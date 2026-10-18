@@ -1,0 +1,923 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-12,1275000,SW5 0RR,T,N,F,32,,Kenway Road,,London
+2026-08-03,512000,SW5 9TH,F,N,L,27A,Flat 3,Nevern Square,,London
+2026-07-31,425000,SW5 0TR,F,N,L,29,Flat 2,Earls Court Gardens,,London
+2026-07-31,3716666,SW5 0EB,F,N,L,Coleherne Court,Flat 118,Old Brompton Road,,London
+2026-07-30,1550000,SW5 0JW,F,N,L,14,Flat 1,Wetherby Gardens,,London
+2026-07-29,1999000,SW5 0AJ,F,N,L,16,Flat 4,Bolton Gardens,,London
+2026-07-23,1150000,SW5 9TH,F,N,L,27A,Flat 21,Nevern Square,,London
+2026-07-23,400000,SW5 9PG,F,N,L,5,Flat 4,Nevern Road,,London
+2026-07-06,700000,SW5 9EE,F,N,L,"Flat 4, 67",,Philbeach Gardens,,London
+2026-07-03,485000,SW5 0LD,F,N,L,5,Flat 8,Bina Gardens,,London
+2026-06-30,600000,SW5 9JS,F,N,L,13,Flat D,Eardley Crescent,,London
+2026-06-26,900000,SW5 9AS,F,N,L,284,Basement Flat,Earls Court Road,,London
+2026-06-26,1630000,SW5 0ES,F,N,L,51,Flat 2,Barkston Gardens,,London
+2026-06-23,525000,SW5 0PT,F,N,L,24,Flat 3,Hogarth Road,,London
+2026-06-22,2655000,SW5 0RG,T,N,F,8,,Redfield Lane,,London
+2026-06-12,950000,SW5 9PN,F,N,L,62,Flat F,Nevern Square,,London
+2026-06-01,255000,SW5 9BW,F,N,L,4,Flat 14,The Mansions,,London
+2026-05-29,837500,SW5 0NU,F,N,L,"Ashburn House, 35",Flat 2,Collingham Road,,London
+2026-05-27,800000,SW5 9TL,F,N,L,"Nevern Mansions, 44",Flat 31A,Warwick Road,,London
+2026-05-27,705000,SW5 9PD,F,N,L,25,Flat P,Nevern Square,,London
+2026-05-20,496000,SW5 9LH,F,N,L,10,The Patio Flat,Kempsford Gardens,,London
+2026-05-15,925000,SW5 0PY,F,N,L,8,Flat 3,Collingham Place,,London
+2026-05-13,850000,SW5 9EY,F,N,L,71,Flat 3,Philbeach Gardens,,London
+2026-05-08,500000,SW5 9JF,F,N,L,294,Flat 6,Old Brompton Road,,London
+2026-05-07,1640000,SW5 0JE,F,N,L,20,Flat 3,Bramham Gardens,,London
+2026-05-05,3900000,SW5 0HF,F,N,L,30,Flat 12,Bramham Gardens,,London
+2026-04-30,650000,SW5 9JT,F,N,L,67,Flat L,Eardley Crescent,,London
+2026-04-30,1325000,SW5 0EX,F,N,L,105,,Barkston Gardens,,London
+2026-04-28,2200000,SW5 0PL,F,N,L,12,Flat 15,Courtfield Gardens,,London
+2026-04-24,520000,SW5 9JZ,F,N,L,28,Flat G,Eardley Crescent,,London
+2026-04-17,900000,SW5 9PD,F,N,L,23B,,Nevern Square,,London
+2026-04-10,307000,SW5 9QJ,F,N,L,4,Flat 12,West Cromwell Road,,London
+2026-04-02,975000,SW5 9TH,F,N,L,27A,Flat 10,Nevern Square,,London
+2026-04-02,1085000,SW5 0PH,F,N,L,32,Flat 1,Courtfield Gardens,,London
+2026-03-31,1430000,SW5 0RP,T,N,F,17,,Kenway Road,,London
+2026-03-27,825000,SW5 9UP,F,N,L,43A,,Warwick Road,,London
+2026-03-27,1400000,SW5 9TQ,F,N,L,Kensington Mansions,Flat 33,Trebovir Road,,London
+2026-03-23,600000,SW5 9SL,F,N,L,20,Flat B,Longridge Road,,London
+2026-03-20,640000,SW5 9EE,F,N,L,"Flat 5, 67",,Philbeach Gardens,,London
+2026-03-20,980000,SW5 9BH,F,N,L,Wetherby Mansions,Flat 39A,Earls Court Square,,London
+2026-03-18,1125000,SW5 0AN,F,N,L,169,Flat 1,Old Brompton Road,,London
+2026-03-16,731000,SW5 9EB,F,N,L,40,Flat 3,Philbeach Gardens,,London
+2026-03-12,450000,SW5 9PD,F,N,L,23L,Second Floor Flat,Nevern Square,,London
+2026-03-12,2300000,SW5 0DL,F,N,L,Coleherne Court,Flat 7,The Little Boltons,,London
+2026-03-11,1500000,SW5 0ER,F,N,L,15,,Barkston Gardens,,London
+2026-03-03,750000,SW5 0SQ,F,N,L,163,Flat 8,Cromwell Road,,London
+2026-03-02,815000,SW5 9SB,F,N,L,7A,Basement Flat,Longridge Road,,London
+2026-03-02,650000,SW5 0SP,F,N,L,"Moscow Mansions, 224",Flat 18,Cromwell Road,,London
+2026-02-27,500000,SW5 9PE,F,N,L,28,Flat I,Nevern Square,,London
+2026-02-27,795000,SW5 9DJ,F,N,L,Wetherby Mansions,Flat 2,Earls Court Square,,London
+2026-02-25,555000,SW5 9EZ,F,N,L,103,Flat 2,Warwick Road,,London
+2026-02-25,1750000,SW5 9ET,F,N,L,101,Flat 3,Philbeach Gardens,,London
+2026-02-18,1800000,SW5 0JJ,F,N,L,14,Flat 1,Bramham Gardens,,London
+2026-02-13,2020000,SW5 9TT,F,N,L,3,Flat 2,Penywern Road,,London
+2026-02-05,850000,SW5 9PL,F,N,L,"Rupert House, 52 - 57",Flat 2,Nevern Square,,London
+2026-02-05,1200000,SW5 0PL,F,N,L,Courtfield House 10-11,Flat 6,Courtfield Gardens,,London
+2026-01-30,876000,SW5 9LZ,F,N,L,2 - 4,Unit B3,Templeton Place,,London
+2026-01-29,792000,SW5 9RP,F,N,L,"Sullivan Court, 109",Flat 38,Earls Court Road,,London
+2026-01-16,1440310,SW5 0RF,T,N,F,18,,Wallgrave Road,,London
+2026-01-12,700000,SW5 9TJ,F,N,L,"Nevern Mansions, 42",Flat 14,Warwick Road,,London
+2026-01-06,1050000,SW5 0RN,T,N,L,14,,Redfield Lane,,London
+2025-12-19,2450000,SW5 0JE,F,N,L,27,Flat E,Bramham Gardens,,London
+2025-12-18,994800,SW5 9DY,F,N,L,26,Flat 1,Philbeach Gardens,,London
+2025-12-12,410000,SW5 9JF,F,N,L,296,Flat 3,Old Brompton Road,,London
+2025-12-11,434000,SW5 0NF,F,N,L,"Edinburgh House, 56 - 57",Flat 6,Courtfield Gardens,,London
+2025-12-10,1525000,SW5 0HG,F,N,L,41,Flat 2,Bramham Gardens,,London
+2025-12-02,1040000,SW5 9UH,F,N,L,Langham Mansions,Flat 3,Earls Court Square,,London
+2025-12-01,930000,SW5 9NN,F,N,L,3,Second Floor Flat,Nevern Square,,London
+2025-12-01,800000,SW5 9EY,F,N,L,71,Flat 5,Philbeach Gardens,,London
+2025-11-28,372000,SW5 9LS,F,N,L,15F,,Trebovir Road,,London
+2025-11-28,3000000,SW5 0LF,T,N,F,145,,Old Brompton Road,,London
+2025-11-27,860000,SW5 0AJ,F,N,L,16,Flat 5,Bolton Gardens,,London
+2025-11-21,2050000,SW5 9BH,F,N,L,Wetherby Mansions,Flat 41,Earls Court Square,,London
+2025-11-21,715000,SW5 0PA,F,N,L,7,Flat E,Courtfield Gardens,,London
+2025-11-18,2325000,SW5 9EY,F,N,L,72,Flat 1,Philbeach Gardens,,London
+2025-11-14,1100000,SW5 0PJ,F,N,L,39,Flat 14,Courtfield Gardens,,London
+2025-11-12,1640000,SW5 0PA,F,N,L,1,Basement Flat F,Courtfield Gardens,,London
+2025-11-06,1130000,SW5 9RZ,T,N,F,1,,Childs Walk,,London
+2025-11-05,1760000,SW5 0PH,F,N,L,30,Flat 5,Courtfield Gardens,,London
+2025-10-30,1750000,SW5 9AG,F,N,L,3,Apartment 32,Cluny Mews,,London
+2025-10-30,475000,SW5 0PY,F,N,L,4,Flat 6,Collingham Place,,London
+2025-10-27,1090000,SW5 9TF,F,N,L,Kensington Mansions,Flat 20A,Trebovir Road,,London
+2025-10-16,540000,SW5 9LD,F,N,L,"Hunter House, 326 - 342",Flat 1,Old Brompton Road,,London
+2025-10-13,1125000,SW5 0AZ,F,N,L,27,Flat 2,Gledhow Gardens,,London
+2025-10-10,615000,SW5 9DQ,F,N,L,40,Flat I,Earls Court Square,,London
+2025-10-02,2720000,SW5 0PD,F,N,L,17,Flat 2,Courtfield Gardens,,London
+2025-10-02,1900000,SW5 0AZ,F,N,L,19,Flat 5,Gledhow Gardens,,London
+2025-09-29,1425000,SW5 9BY,F,N,L,13B,,Earls Court Square,,London
+2025-09-29,340000,SW5 0ST,F,N,L,"Sherborne Court, 180 - 186",Flat 53,Cromwell Road,,London
+2025-09-26,392500,SW5 9SX,F,N,L,48A,,Penywern Road,,London
+2025-09-24,850000,SW5 9SX,F,N,L,50C,,Penywern Road,,London
+2025-09-19,310000,SW5 9BY,F,N,L,1,Flat 3B,Earls Court Square,,London
+2025-09-18,1425000,SW5 0JG,T,N,F,1,,Wetherby Mews,,London
+2025-09-15,685000,SW5 9TB,F,N,L,Kensington Mansions,Flat 68B,Warwick Road,,London
+2025-09-15,1360000,SW5 9AF,F,N,L,"York Mansions, 215",Flat 10,Earls Court Road,,London
+2025-09-12,835000,SW5 9TU,F,N,L,"Courtside, 47 - 49",Flat 47,Penywern Road,,London
+2025-09-12,1140000,SW5 9BH,F,N,L,Wetherby Mansions,Flat 15,Earls Court Square,,London
+2025-09-11,837000,SW5 9PD,F,N,L,21,First Floor Flat,Nevern Square,,London
+2025-09-11,345000,SW5 0ER,F,N,L,3,Flat C,Barkston Gardens,,London
+2025-09-10,1250000,SW5 0NA,F,N,L,48,Flat F,Courtfield Gardens,,London
+2025-09-08,450000,SW5 9LD,F,N,L,"Hunter House, 326 - 342",Flat 10,Old Brompton Road,,London
+2025-09-05,600000,SW5 9QR,F,N,L,Warwick Mansions,Flat 9A,Cromwell Crescent,,London
+2025-09-05,810000,SW5 0PA,F,N,L,6,Flat G,Courtfield Gardens,,London
+2025-09-03,600000,SW5 9QR,F,N,L,Warwick Mansions,Flat 7A,Cromwell Crescent,,London
+2025-09-02,1510000,SW5 9RX,T,N,F,1A,,Childs Place,,London
+2025-09-02,1475000,SW5 0RH,T,N,F,1,,Redfield Mews,,London
+2025-08-29,727500,SW5 9TF,F,N,L,Kensington Mansions,Flat 12A,Trebovir Road,,London
+2025-08-27,600000,SW5 0PJ,F,N,L,38,Flat 4,Courtfield Gardens,,London
+2025-08-22,475000,SW5 9SX,F,N,L,50E,,Penywern Road,,London
+2025-08-22,700000,SW5 0TQ,F,N,L,153,Garden Flat,Cromwell Road,,London
+2025-08-22,875000,SW5 0JE,F,N,L,21,Flat 6,Bramham Gardens,,London
+2025-08-15,580000,SW5 0TR,F,N,L,25,Flat 1,Earls Court Gardens,,London
+2025-08-12,394000,SW5 0NA,F,N,L,46G,,Courtfield Gardens,,London
+2025-08-11,1080000,SW5 9AH,F,N,L,239,Flat 2,Earls Court Road,,London
+2025-08-07,1190000,SW5 0LZ,F,N,L,45,Flat D,Courtfield Gardens,,London
+2025-08-04,1200000,SW5 0HF,F,N,L,30,Flat 1,Bramham Gardens,,London
+2025-08-01,732500,SW5 9EB,F,N,L,42,Flat B,Philbeach Gardens,,London
+2025-07-31,1069375,SW5 0JQ,F,N,L,8,Flat 5,Bramham Gardens,,London
+2025-07-29,1277500,SW5 0EX,F,N,L,103 - 121,Penthouse A,Barkston Gardens,,London
+2025-07-28,515000,SW5 9EB,F,N,L,43,Flat 2,Philbeach Gardens,,London
+2025-07-25,1380000,SW5 9PD,F,N,L,19,Flat 6,Nevern Square,,London
+2025-07-25,795000,SW5 9JT,F,N,L,57,First Floor Flat 2,Eardley Crescent,,London
+2025-07-25,475000,SW5 9EB,F,N,L,40,Flat 3,Philbeach Gardens,,London
+2025-07-25,340000,SW5 0NQ,F,N,L,65,Flat 8,Courtfield Gardens,,London
+2025-07-23,865000,SW5 9SX,F,N,L,54,Ground Floor Flat,Penywern Road,,London
+2025-07-23,585000,SW5 9PL,F,N,L,"Rupert House, 52 - 57",Flat 17,Nevern Square,,London
+2025-07-22,1010000,SW5 0AZ,F,N,L,26,Flat 2,Gledhow Gardens,,London
+2025-07-11,683500,SW5 0NS,F,N,L,"Boston House, 31",Flat 5,Collingham Road,,London
+2025-07-01,295000,SW5 9JS,F,N,L,1,Flat D,Eardley Crescent,,London
+2025-06-27,400000,SW5 9PN,F,N,L,62,Flat A,Nevern Square,,London
+2025-06-27,688888,SW5 9JZ,F,N,L,8,Flat 2,Eardley Crescent,,London
+2025-06-26,614000,SW5 9UD,F,N,L,22,First Floor Flat,Warwick Road,,London
+2025-06-26,1925000,SW5 0HH,T,N,F,8,,Hesper Mews,,London
+2025-06-23,1650000,SW5 9ET,F,N,L,96,Flat 4,Philbeach Gardens,,London
+2025-06-23,1077300,SW5 0RG,T,N,F,12,,Redfield Lane,,London
+2025-06-17,1100000,SW5 0PH,F,N,L,26 - 28,Flat 24,Courtfield Gardens,,London
+2025-06-10,1500000,SW5 9PF,F,N,L,51,Flat 5,Nevern Square,,London
+2025-06-09,2800000,SW5 9TF,F,N,L,Kensington Mansions,Flat 17,Trebovir Road,,London
+2025-06-09,2325000,SW5 0BJ,F,N,L,2,Flat 1,Cresswell Gardens,,London
+2025-06-06,1395000,SW5 9TL,F,N,L,"Nevern Mansions, 44",Flat 26A,Warwick Road,,London
+2025-06-05,700000,SW5 9DG,F,N,L,53 - 55,Flat 14,Earls Court Square,,London
+2025-06-02,732500,SW5 9DY,F,N,L,16,Flat 4,Philbeach Gardens,,London
+2025-05-30,400000,SW5 9SX,F,N,L,50H,,Penywern Road,,London
+2025-05-30,423000,SW5 9LH,F,N,L,30,Flat D,Kempsford Gardens,,London
+2025-05-30,1150000,SW5 0AZ,F,N,L,27,Flat 1,Gledhow Gardens,,London
+2025-05-30,1920000,SW5 0AY,F,N,L,12,Flat 5,Gledhow Gardens,,London
+2025-05-29,615000,SW5 0QF,F,N,L,33,Flat 4,Collingham Place,,London
+2025-05-23,470000,SW5 9NW,F,N,L,13,Flat 10,Nevern Square,,London
+2025-05-16,795000,SW5 0PL,F,N,L,Courtfield House 10-11,Flat 4,Courtfield Gardens,,London
+2025-05-12,1090000,SW5 9NW,F,N,L,8,Flat 2,Nevern Square,,London
+2025-05-09,710000,SW5 9HY,F,N,L,29,,Redcliffe Close,,London
+2025-04-28,690000,SW5 9PD,F,N,L,25,Flat H,Nevern Square,,London
+2025-04-24,1300000,SW5 9PF,F,N,L,51,Flat 2,Nevern Square,,London
+2025-04-23,1590000,SW5 0BJ,F,N,L,6,Flat 3,Cresswell Gardens,,London
+2025-04-22,1100000,SW5 9QN,F,N,L,4,Flat B,Cromwell Crescent,,London
+2025-04-22,2485000,SW5 0LD,F,N,L,7,Flat A,Bina Gardens,,London
+2025-04-16,1015000,SW5 0NQ,F,N,L,64,Flat D,Courtfield Gardens,,London
+2025-04-14,955000,SW5 9DG,F,N,L,53 - 55,Flat 13,Earls Court Square,,London
+2025-04-09,1621000,SW5 0BT,F,N,L,198,Second Floor Flat,Old Brompton Road,,London
+2025-04-07,1627000,SW5 9SD,F,N,L,37,Flat A,Longridge Road,,London
+2025-04-04,1050000,SW5 9DJ,F,N,L,Wetherby Mansions,Flat 26,Earls Court Square,,London
+2025-03-31,1145000,SW5 9TF,F,N,L,Kensington Mansions,Flat 24A,Trebovir Road,,London
+2025-03-31,485000,SW5 9LA,F,N,L,41,Flat 2,Kempsford Gardens,,London
+2025-03-31,585000,SW5 9HY,F,N,L,35,,Redcliffe Close,,London
+2025-03-31,500000,SW5 9HX,F,N,L,2,,Redcliffe Close,,London
+2025-03-31,820000,SW5 9AF,F,N,L,"York Mansions, 215",Flat 3,Earls Court Road,,London
+2025-03-31,851000,SW5 0RF,F,N,L,22A,,Wallgrave Road,,London
+2025-03-31,510000,SW5 0PD,F,N,L,20,Flat 11,Courtfield Gardens,,London
+2025-03-31,1435000,SW5 0NA,F,N,L,49,Flat B,Courtfield Gardens,,London
+2025-03-28,455140,SW5 9TB,F,N,L,Kensington Mansions,Flat 67A,Warwick Road,,London
+2025-03-28,730000,SW5 9ET,F,N,L,95,Flat D,Philbeach Gardens,,London
+2025-03-28,1280000,SW5 9DP,F,N,L,8,Flat 4,Earls Court Square,,London
+2025-03-28,265500,SW5 0SS,F,N,L,"Sherborne Court, 180 - 186",Flat 15,Cromwell Road,,London
+2025-03-28,2000000,SW5 0JJ,F,N,L,13,Flat 2,Bramham Gardens,,London
+2025-03-28,1200000,SW5 0DL,F,N,L,Coleherne Court,Flat 18A,The Little Boltons,,London
+2025-03-27,580000,SW5 9EB,F,N,L,30 - 31,Flat 2 Second Floor,Philbeach Gardens,,London
+2025-03-27,1775000,SW5 0AQ,F,N,L,25,Flat D,Bolton Gardens,,London
+2025-03-26,400000,SW5 9SX,F,N,L,50G,,Penywern Road,,London
+2025-03-26,392500,SW5 0SS,F,N,L,"Sherborne Court, 180 - 186",Flat 19,Cromwell Road,,London
+2025-03-24,410000,SW5 0NL,F,N,L,72,Flat 17,Courtfield Gardens,,London
+2025-03-21,500000,SW5 9SL,F,N,L,12,Flat 3,Longridge Road,,London
+2025-03-21,1275000,SW5 0SE,F,N,L,177,Flat 5,Cromwell Road,,London
+2025-03-21,270000,SW5 0NT,F,N,L,9,Flat 7,Collingham Road,,London
+2025-03-21,825000,SW5 0LA,F,N,L,6,Flat 2,Bina Gardens,,London
+2025-03-17,387500,SW5 9SJ,F,N,L,28,Flat 4,Longridge Road,,London
+2025-03-14,1375000,SW5 0RH,T,N,F,2,,Redfield Mews,,London
+2025-03-14,2410000,SW5 0PH,F,N,L,26 - 28,Flat 15,Courtfield Gardens,,London
+2025-03-14,675000,SW5 0DE,F,N,L,246,Flat 3,Old Brompton Road,,London
+2025-03-13,465000,SW5 9LH,F,N,L,32,Second Floor Flat,Kempsford Gardens,,London
+2025-03-12,625000,SW5 9JS,F,N,L,21 - 23,Flat 5,Eardley Crescent,,London
+2025-03-12,1215000,SW5 9BY,F,N,L,3,Flat 2,Earls Court Square,,London
+2025-03-11,850000,SW5 9DG,F,N,L,69,Flat 4,Earls Court Square,,London
+2025-03-10,615500,SW5 9EB,F,N,L,42E,,Philbeach Gardens,,London
+2025-03-07,1450000,SW5 0ES,F,N,L,"Roberts Court, 45",Flat 16,Barkston Gardens,,London
+2025-03-05,2150000,SW5 0AJ,F,N,L,17,Flat 4,Bolton Gardens,,London
+2025-02-28,1060000,SW5 9DJ,F,N,L,Wetherby Mansions,Flat 40,Earls Court Square,,London
+2025-02-28,405000,SW5 0TR,F,N,L,26,Flat 4,Earls Court Gardens,,London
+2025-02-26,386000,SW5 9PR,F,N,L,16,Flat 12,Nevern Place,,London
+2025-02-24,575000,SW5 9HZ,F,N,L,62,,Redcliffe Close,,London
+2025-02-24,1550000,SW5 0NH,T,N,L,1,,Courtfield Mews,,London
+2025-02-20,610000,SW5 0TR,F,N,L,32A,,Earls Court Gardens,,London
+2025-02-19,410000,SW5 9HZ,F,N,L,69,,Redcliffe Close,,London
+2025-02-17,325000,SW5 9DN,F,N,L,14,Flat 3,Earls Court Square,,London
+2025-02-14,575000,SW5 0HQ,F,N,L,44,Flat G,Bramham Gardens,,London
+2025-02-14,1400000,SW5 0AQ,F,N,L,30 - 31,Flat 1,Bolton Gardens,,London
+2025-02-10,795000,SW5 0PH,F,N,L,26 - 28,Flat 20,Courtfield Gardens,,London
+2025-02-07,1150000,SW5 0PL,F,N,L,12A,Flat 1,Courtfield Gardens,,London
+2025-02-03,990000,SW5 0PH,F,N,L,34,Flat 14,Courtfield Gardens,,London
+2025-01-31,620000,SW5 9HX,F,N,L,4,,Redcliffe Close,,London
+2025-01-31,325000,SW5 0PY,F,N,L,2,Flat 12,Collingham Place,,London
+2025-01-24,740000,SW5 9JZ,F,N,L,30A,,Eardley Crescent,,London
+2025-01-24,885000,SW5 9DJ,F,N,L,Wetherby Mansions,Flat 32,Earls Court Square,,London
+2025-01-24,450000,SW5 0SQ,F,N,L,165,Flat 15,Cromwell Road,,London
+2025-01-17,530000,SW5 0ES,F,N,L,53,Flat 5,Barkston Gardens,,London
+2025-01-15,800000,SW5 0SE,F,N,L,177,Flat 2,Cromwell Road,,London
+2025-01-15,720000,SW5 0NS,F,N,L,"Boston House, 31",Flat 12,Collingham Road,,London
+2025-01-14,800000,SW5 0RQ,F,N,L,34B,,Redfield Lane,,London
+2025-01-09,1200000,SW5 9TQ,F,N,L,Kensington Mansions,Flat 41A,Trebovir Road,,London
+2025-01-06,800000,SW5 0LT,F,N,L,4,Flat 3,Collingham Road,,London
+2024-12-20,365000,SW5 9PR,F,N,L,6,Flat 7,Nevern Place,,London
+2024-12-20,760000,SW5 9NN,F,N,L,1,Flat 1,Nevern Square,,London
+2024-12-20,540000,SW5 9LH,F,N,L,32,Third Floor Flat,Kempsford Gardens,,London
+2024-12-20,1030000,SW5 9DG,F,N,L,63,Flat 3,Earls Court Square,,London
+2024-12-19,1086725,SW5 9EU,F,N,L,92,Third Floor Flat,Philbeach Gardens,,London
+2024-12-19,1010000,SW5 9AS,F,N,L,288,Flat 4,Earls Court Road,,London
+2024-12-19,320000,SW5 0DE,F,N,L,236 - 238,Flat 2,Old Brompton Road,,London
+2024-12-18,840000,SW5 9BH,F,N,L,Wetherby Mansions,Flat 39A,Earls Court Square,,London
+2024-12-12,945000,SW5 9BY,F,N,L,35 - 37,Flat 29,Earls Court Square,,London
+2024-12-06,851940,SW5 9UD,F,N,L,22,Flat 4,Warwick Road,,London
+2024-12-06,337000,SW5 9HB,F,N,L,75,Flat 2,Warwick Road,,London
+2024-12-06,1225000,SW5 0RQ,T,N,F,36,,Redfield Lane,,London
+2024-12-06,1331500,SW5 0ES,F,N,L,51,Flat 1,Barkston Gardens,,London
+2024-12-05,475000,SW5 9LA,F,N,L,47,Flat 2,Kempsford Gardens,,London
+2024-12-02,725000,SW5 9LY,F,N,L,"Orpen House, 10 - 14",Flat 6,Trebovir Road,,London
+2024-11-25,875000,SW5 9EX,F,N,L,"Beach House, 77",Flat 5,Philbeach Gardens,,London
+2024-11-22,1250000,SW5 9RY,T,N,F,11,,Childs Street,,London
+2024-11-22,665000,SW5 9QR,F,N,L,Warwick Mansions,Flat 4A,Cromwell Crescent,,London
+2024-11-20,1450000,SW5 9TH,F,N,L,27A,Flat 20,Nevern Square,,London
+2024-11-15,1444490,SW5 0BJ,F,N,L,9,Flat 2,Cresswell Gardens,,London
+2024-11-08,1600000,SW5 9TQ,F,N,L,Kensington Mansions,Flat 42,Trebovir Road,,London
+2024-11-08,3750000,SW5 0DL,F,N,L,Coleherne Court,Flat 12,The Little Boltons,,London
+2024-11-05,1020000,SW5 9DG,F,N,L,69,Flat 6,Earls Court Square,,London
+2024-10-30,810000,SW5 9EX,F,N,L,"Beach House, 77",Flat 14,Philbeach Gardens,,London
+2024-10-29,425000,SW5 9UH,F,N,L,Langham Mansions,Flat 4,Earls Court Square,,London
+2024-10-28,490000,SW5 9HZ,F,N,L,58,,Redcliffe Close,,London
+2024-10-28,994000,SW5 0AG,F,N,L,45,Flat 6,Bolton Gardens,,London
+2024-10-25,1650000,SW5 0AZ,F,N,L,27,Flat 3,Gledhow Gardens,,London
+2024-10-24,580000,SW5 9BY,F,N,L,35 - 37,Flat 3,Earls Court Square,,London
+2024-10-23,305000,SW5 0NQ,F,N,L,65,Flat 21,Courtfield Gardens,,London
+2024-10-23,850000,SW5 0BX,F,N,L,214,Flat 7,Old Brompton Road,,London
+2024-10-18,735000,SW5 9SF,T,N,L,57C,,Longridge Road,,London
+2024-10-18,660000,SW5 9SB,F,N,L,19,Second Floor Flat,Longridge Road,,London
+2024-10-16,4410500,SW5 0ET,F,N,L,"Sheridan Court, 55 - 81",Flat 6,Barkston Gardens,,London
+2024-10-14,2775000,SW5 0JN,F,N,L,6,,Wetherby Gardens,,London
+2024-10-14,1150000,SW5 0HL,F,N,L,21,Flat 7,Collingham Gardens,,London
+2024-10-11,1600000,SW5 0NF,F,N,L,59,Ground Floor Flat,Courtfield Gardens,,London
+2024-10-09,1625000,SW5 0EF,F,N,L,Coleherne Court,Flat 58,Old Brompton Road,,London
+2024-10-04,520000,SW5 9LD,F,N,L,"Hunter House, 326 - 342",Flat 15,Old Brompton Road,,London
+2024-10-04,1075000,SW5 0AN,F,N,L,175,Lower Ground Floor Flat,Old Brompton Road,,London
+2024-10-01,675000,SW5 9QR,F,N,L,Warwick Mansions,Flat 30,Cromwell Crescent,,London
+2024-10-01,1950000,SW5 0AZ,F,N,L,23,Flat 2,Gledhow Gardens,,London
+2024-09-30,975000,SW5 9NA,F,N,L,16,Ground Floor Flat,Spear Mews,,London
+2024-09-30,1250000,SW5 9DG,F,N,L,65,Ground Floor Flat,Earls Court Square,,London
+2024-09-27,571000,SW5 9LH,F,N,L,8C,,Kempsford Gardens,,London
+2024-09-25,1020000,SW5 0LA,F,N,L,18,Flat 5,Bina Gardens,,London
+2024-09-20,2118500,SW5 0RQ,F,N,L,34,,Redfield Lane,,London
+2024-09-19,3050000,SW5 0LD,F,N,L,1,Flat F,Bina Gardens,,London
+2024-09-10,850000,SW5 9BH,F,N,L,Wetherby Mansions,Flat 15,Earls Court Square,,London
+2024-09-10,3700000,SW5 0AQ,F,N,L,28,Ground Floor Maisonette,Bolton Gardens,,London
+2024-09-06,7100000,SW5 0JW,F,N,L,11,Flat A,Wetherby Gardens,,London
+2024-09-06,1950000,SW5 0HW,F,N,L,6,Flat 1,Collingham Gardens,,London
+2024-09-06,2575000,SW5 0EE,F,N,L,Coleherne Court,Flat 88,Old Brompton Road,,London
+2024-09-03,1280000,SW5 9PN,F,N,L,62,Flat E,Nevern Square,,London
+2024-09-02,490000,SW5 9RH,F,N,L,125 - 127,Flat 3,Earls Court Road,,London
+2024-09-02,465000,SW5 0LE,F,N,L,12,,Dove Mews,,London
+2024-08-30,635000,SW5 9JA,F,N,L,279,,Old Brompton Road,,London
+2024-08-30,390000,SW5 9EZ,F,N,L,95,Ground Floor Flat,Warwick Road,,London
+2024-08-30,810000,SW5 9EB,F,N,L,42C,,Philbeach Gardens,,London
+2024-08-30,2500000,SW5 0DU,F,N,L,Coleherne Court,Flat 189,Redcliffe Gardens,,London
+2024-08-29,465000,SW5 0SL,F,N,L,"Fraser House, 190",Flat 9,Cromwell Road,,London
+2024-08-28,450000,SW5 9LA,F,N,L,"Victoria Court, 17 - 19",Flat 4,Kempsford Gardens,,London
+2024-08-28,538000,SW5 0AG,F,N,L,45,Flat 5,Bolton Gardens,,London
+2024-08-23,730000,SW5 9JS,F,N,L,25,Flat 2,Eardley Crescent,,London
+2024-08-23,1500000,SW5 0JN,F,N,L,1,Flat 2A,Wetherby Gardens,,London
+2024-08-23,1300000,SW5 0BZ,F,N,L,"Boltons Court, 216",Flat 22,Old Brompton Road,,London
+2024-08-21,1005000,SW5 0EE,F,N,L,Coleherne Court,Flat 87A,Old Brompton Road,,London
+2024-08-12,775000,SW5 9DJ,F,N,L,Wetherby Mansions,Flat 38A,Earls Court Square,,London
+2024-08-09,1125000,SW5 9BY,F,N,L,3,Flat 1,Earls Court Square,,London
+2024-08-09,795000,SW5 0TN,F,N,L,Knaresborough House 5-7,Flat 8,Knaresborough Place,,London
+2024-08-09,2150000,SW5 0SD,F,N,L,Cromwell Mansions,Flat 237,Cromwell Road,,London
+2024-08-08,650000,SW5 9HX,F,N,L,26,,Redcliffe Close,,London
+2024-08-08,1575000,SW5 0LE,T,N,F,3,,Dove Mews,,London
+2024-08-08,2350000,SW5 0EF,F,N,L,Coleherne Court,Flat 65,Old Brompton Road,,London
+2024-07-31,930000,SW5 0HL,F,N,L,21,Flat 3,Collingham Gardens,,London
+2024-07-30,1100000,SW5 9TL,F,N,L,"Nevern Mansions, 44",Flat 29,Warwick Road,,London
+2024-07-29,975000,SW5 9NN,F,N,L,4,Second Floor Flat,Nevern Square,,London
+2024-07-26,450000,SW5 9RH,F,N,L,125 - 127,Flat 5,Earls Court Road,,London
+2024-07-25,725000,SW5 9PD,F,N,L,17,Flat F,Nevern Square,,London
+2024-07-24,872000,SW5 9TJ,F,N,L,"Nevern Mansions, 42",Flat 19,Warwick Road,,London
+2024-07-22,795000,SW5 9NN,F,N,L,6A,,Nevern Square,,London
+2024-07-22,400000,SW5 0NQ,F,N,L,65,Flat 17,Courtfield Gardens,,London
+2024-07-19,945000,SW5 9PF,F,N,L,"Nevern Square House, 43 - 44",Flat 19,Nevern Square,,London
+2024-07-19,1275000,SW5 0NJ,F,N,L,69,Flat 10,Courtfield Gardens,,London
+2024-07-11,755000,SW5 9JZ,F,N,L,50,Basement Flat 1,Eardley Crescent,,London
+2024-07-11,930000,SW5 0AS,F,N,L,32,Flat 5,Gledhow Gardens,,London
+2024-07-09,2450000,SW5 0JQ,F,N,L,3 - 4,Flat 12,Bramham Gardens,,London
+2024-07-05,532000,SW5 9LH,F,N,L,12,Ground Floor Flat,Kempsford Gardens,,London
+2024-07-05,2000000,SW5 0PH,F,N,L,28,Flat 12A,Courtfield Gardens,,London
+2024-07-05,3400000,SW5 0AQ,F,N,L,23,Flat 2,Bolton Gardens,,London
+2024-07-04,570000,SW5 9JS,F,N,L,21 - 23,Flat 7,Eardley Crescent,,London
+2024-07-03,385000,SW5 9HX,F,N,L,17,,Redcliffe Close,,London
+2024-07-01,814250,SW5 9EX,F,N,L,"Beach House, 77",Flat 10,Philbeach Gardens,,London
+2024-06-28,1100000,SW5 9DL,T,N,F,8,,Farnell Mews,,London
+2024-06-27,1000000,SW5 0LT,F,N,L,4,Flat 1,Collingham Road,,London
+2024-06-21,600000,SW5 9ET,F,N,L,101,Flat 1,Philbeach Gardens,,London
+2024-06-19,765000,SW5 9JT,F,N,L,73,Flat 2,Eardley Crescent,,London
+2024-06-17,1500000,SW5 0AW,F,N,L,10,Flat 6,Bolton Gardens,,London
+2024-06-14,585000,SW5 0PD,F,N,L,20,Flat 3,Courtfield Gardens,,London
+2024-06-14,893250,SW5 0BQ,F,N,L,15,Flat 5,Cresswell Gardens,,London
+2024-06-12,2950000,SW5 0NQ,F,N,L,60 - 61,First Floor Flat,Courtfield Gardens,,London
+2024-06-10,685000,SW5 9QR,F,N,L,Warwick Mansions,Flat 26,Cromwell Crescent,,London
+2024-06-07,425000,SW5 9EZ,F,N,L,107,Flat 5,Warwick Road,,London
+2024-06-07,1100000,SW5 9AS,F,N,L,288,Flat 1,Earls Court Road,,London
+2024-06-07,1850000,SW5 0DU,F,N,L,Coleherne Court,Flat 190,Redcliffe Gardens,,London
+2024-06-05,510000,SW5 9UP,F,N,L,43C,,Warwick Road,,London
+2024-06-05,4300000,SW5 0EU,F,N,L,101,,Barkston Gardens,,London
+2024-06-04,1062500,SW5 0LA,F,N,L,14 - 16,Flat 9,Bina Gardens,,London
+2024-05-31,1333000,SW5 9JS,F,N,L,5,Flat 1,Eardley Crescent,,London
+2024-05-31,735000,SW5 9DY,F,N,L,21,First Floor Flat,Philbeach Gardens,,London
+2024-05-28,1095000,SW5 9AG,F,Y,L,3,Apartment 1,Cluny Mews,,London
+2024-05-28,723000,SW5 0QE,F,N,L,3 - 5,Flat 9,Collingham Place,,London
+2024-05-24,575000,SW5 9JZ,F,N,L,48,Flat 5,Eardley Crescent,,London
+2024-05-24,812500,SW5 9EB,F,N,L,36,Flat 3,Philbeach Gardens,,London
+2024-05-24,667000,SW5 9DG,F,N,L,65,Fourth Floor Flat,Earls Court Square,,London
+2024-05-23,565000,SW5 9SL,F,N,L,10,Flat 3,Longridge Road,,London
+2024-05-21,592500,SW5 9HB,F,N,L,61,6,Warwick Road,,London
+2024-05-20,2825000,SW5 0EB,F,N,L,Coleherne Court,Flat 127,Old Brompton Road,,London
+2024-05-17,3052866,SW5 0HE,F,N,L,28,Flat 5,Bramham Gardens,,London
+2024-05-16,1048309,SW5 9SQ,F,N,L,76,Flat 3,Longridge Road,,London
+2024-05-15,339000,SW5 9PG,F,N,L,3,Flat 5,Nevern Road,,London
+2024-05-13,610000,SW5 0UA,F,N,L,"Savoy Court, 245",Flat 22,Cromwell Road,,London
+2024-05-10,1425000,SW5 0EL,F,N,L,48A,,Barkston Gardens,,London
+2024-04-26,975000,SW5 9AG,F,Y,L,3,Apartment 4,Cluny Mews,,London
+2024-04-26,2100000,SW5 0LZ,F,N,L,45,Flat B,Courtfield Gardens,,London
+2024-04-26,1025000,SW5 0HQ,F,N,L,47,Flat 3,Bramham Gardens,,London
+2024-04-22,390500,SW5 9DG,F,N,L,51,Flat 5,Earls Court Square,,London
+2024-04-17,665000,SW5 9DH,F,N,L,Herbert Court Mansions,Flat 6A,Earls Court Square,,London
+2024-04-16,640000,SW5 0QD,F,N,L,"Laurel House, 147A",Apartment 3,Cromwell Road,,London
+2024-04-16,1080000,SW5 0JP,F,N,L,"Wetherby House, 20 - 21",Flat 11,Wetherby Gardens,,London
+2024-04-15,1890000,SW5 9RX,T,N,F,16,,Childs Place,,London
+2024-04-12,375000,SW5 0ST,F,N,L,"Sherborne Court, 180 - 186",Flat 51,Cromwell Road,,London
+2024-04-05,760000,SW5 0AY,F,N,L,16,Flat 8,Gledhow Gardens,,London
+2024-03-28,535000,SW5 9NN,F,N,L,2,Basement Flat,Nevern Square,,London
+2024-03-28,575000,SW5 0NA,F,N,L,49,Basement Flat F,Courtfield Gardens,,London
+2024-03-26,2800000,SW5 9NA,T,N,L,14,,Spear Mews,,London
+2024-03-26,2250000,SW5 9DQ,F,N,L,32,Flat 1,Earls Court Square,,London
+2024-03-26,1200000,SW5 9DJ,F,N,L,Wetherby Mansions,Flat 6,Earls Court Square,,London
+2024-03-26,4275000,SW5 0BL,F,N,L,5,Flat A,Gledhow Gardens,,London
+2024-03-25,1326000,SW5 9AS,F,N,L,278D,,Earls Court Road,,London
+2024-03-22,1000000,SW5 0JW,F,N,L,14,Flat 4,Wetherby Gardens,,London
+2024-03-21,875000,SW5 9JT,F,N,L,69,Flat 2,Eardley Crescent,,London
+2024-03-21,635000,SW5 9DJ,F,N,L,Wetherby Mansions,Flat 4B,Earls Court Square,,London
+2024-03-21,350000,SW5 0ST,F,N,L,"Sherborne Court, 180 - 186",Flat 81,Cromwell Road,,London
+2024-03-21,2200000,SW5 0LA,F,N,L,14 - 16,Flat 7,Bina Gardens,,London
+2024-03-18,445000,SW5 9HL,F,N,L,Richmond Mansions,Flat 10A,Old Brompton Road,,London
+2024-03-15,670000,SW5 9PE,F,N,L,39,Flat 1,Nevern Square,,London
+2024-03-15,1050000,SW5 0PA,F,N,L,2,Second Floor Flat C,Courtfield Gardens,,London
+2024-03-15,1740800,SW5 0LD,F,N,L,7,Flat D,Bina Gardens,,London
+2024-03-13,775000,SW5 9BH,F,N,L,Wetherby Mansions,Flat 37A,Earls Court Square,,London
+2024-03-08,525000,SW5 9JF,F,N,L,296,Flat 2,Old Brompton Road,,London
+2024-03-06,450000,SW5 9LH,F,N,L,2,Flat 1,Kempsford Gardens,,London
+2024-03-05,670000,SW5 9UL,F,N,L,15,Flat 6,Warwick Road,,London
+2024-03-05,1600000,SW5 0JQ,F,N,L,1 - 2,Flat 8,Bramham Gardens,,London
+2024-03-05,720000,SW5 0HQ,F,N,L,44,Flat F,Bramham Gardens,,London
+2024-03-04,255000,SW5 9SD,F,N,L,33,4,Longridge Road,,London
+2024-02-29,2850000,SW5 9TQ,F,N,L,Kensington Mansions,Flat 32,Trebovir Road,,London
+2024-02-29,1290000,SW5 9BY,F,N,L,17B,,Earls Court Square,,London
+2024-02-28,320000,SW5 9PH,F,N,L,12,Flat H,Nevern Road,,London
+2024-02-26,675000,SW5 9ET,F,N,L,102B,,Philbeach Gardens,,London
+2024-02-21,1800000,SW5 9TQ,F,N,L,Kensington Mansions,Flat 28,Trebovir Road,,London
+2024-02-16,640000,SW5 9RP,F,N,L,"Sullivan Court, 109",Flat 17,Earls Court Road,,London
+2024-02-16,862000,SW5 9RH,F,N,L,139,Top Floor Flat,Earls Court Road,,London
+2024-02-16,640000,SW5 9HY,F,N,L,37,,Redcliffe Close,,London
+2024-02-07,390000,SW5 9EB,F,N,L,43,Flat 2,Philbeach Gardens,,London
+2024-02-02,1215000,SW5 9HW,F,N,L,"The Mansions, 252",Flat 36B,Old Brompton Road,,London
+2024-01-31,750000,SW5 0PY,F,N,L,8,Flat 5,Collingham Place,,London
+2024-01-30,556667,SW5 0RL,F,N,L,8A,,Wallgrave Road,,London
+2024-01-30,1113333,SW5 0RL,T,N,F,8,,Wallgrave Road,,London
+2024-01-30,510000,SW5 0AZ,F,N,L,29,Flat 9,Gledhow Gardens,,London
+2024-01-25,772000,SW5 9DY,F,N,L,14D,,Philbeach Gardens,,London
+2024-01-19,700000,SW5 9QF,F,N,L,192,Flat 3,Earls Court Road,,London
+2024-01-10,1350000,SW5 0PZ,F,N,L,14,Flat 4,Collingham Place,,London
+2024-01-08,625000,SW5 9LA,F,N,L,"Victoria Court, 17 - 19",Flat 2,Kempsford Gardens,,London
+2024-01-08,1200000,SW5 0RP,T,N,F,23,,Kenway Road,,London
+2024-01-04,770000,SW5 9JZ,F,N,L,28,Flat C,Eardley Crescent,,London
+2023-12-22,1900000,SW5 0JW,F,N,L,9,Flat D,Wetherby Gardens,,London
+2023-12-21,400000,SW5 9EB,F,N,L,40,Flat 1,Philbeach Gardens,,London
+2023-12-20,257000,SW5 9SU,F,N,L,36,Flat 11,Penywern Road,,London
+2023-12-15,1150000,SW5 9ET,F,N,L,109,Flat 1,Philbeach Gardens,,London
+2023-12-11,450000,SW5 9BY,F,N,L,35 - 37,Flat 3,Earls Court Square,,London
+2023-12-11,972800,SW5 9AG,F,Y,L,3,Apartment 14,Cluny Mews,,London
+2023-12-08,340000,SW5 9SU,F,N,L,36,Flat 12,Penywern Road,,London
+2023-12-08,970000,SW5 9DJ,F,N,L,Wetherby Mansions,Flat 44A,Earls Court Square,,London
+2023-12-08,800000,SW5 0LZ,F,N,L,42,Flat D,Courtfield Gardens,,London
+2023-12-07,1180000,SW5 9TD,F,N,L,Kensington Mansions,Flat 66A,Trebovir Road,,London
+2023-12-06,260000,SW5 0SU,F,N,L,"Sherborne Court, 180 - 186",Flat 137,Cromwell Road,,London
+2023-12-06,1900000,SW5 0BE,F,N,L,148A,Flat 3,Old Brompton Road,,London
+2023-12-01,1950000,SW5 0JP,F,N,L,17,Flat 4,Wetherby Gardens,,London
+2023-11-29,590000,SW5 0PT,F,N,L,24,Flat 6,Hogarth Road,,London
+2023-11-24,2650000,SW5 0DN,F,N,L,Coleherne Court,Flat 36,The Little Boltons,,London
+2023-11-22,3125000,SW5 0JE,F,N,L,27,Flat C,Bramham Gardens,,London
+2023-11-21,644000,SW5 0PJ,F,N,L,39,Flat 15,Courtfield Gardens,,London
+2023-11-20,1050000,SW5 9NW,F,N,L,15,Flat 1,Nevern Square,,London
+2023-11-16,485000,SW5 0JJ,F,N,L,18,Flat 9,Bramham Gardens,,London
+2023-11-13,875000,SW5 9NW,F,N,L,11,Fourth Floor Flat,Nevern Square,,London
+2023-11-13,419500,SW5 9DY,F,N,L,20,Flat B,Philbeach Gardens,,London
+2023-11-07,900000,SW5 0PA,F,N,L,6,Flat M,Courtfield Gardens,,London
+2023-11-06,410000,SW5 9SX,F,N,L,54,Flat 6,Penywern Road,,London
+2023-10-30,3750000,SW5 0SZ,T,N,F,17,,Earls Court Gardens,,London
+2023-10-30,640000,SW5 0JE,F,N,L,27,Flat B2,Bramham Gardens,,London
+2023-10-26,4700000,SW5 0HF,F,N,L,30,Flat 5,Bramham Gardens,,London
+2023-10-23,950000,SW5 9AG,F,Y,L,3,Apartment 5,Cluny Mews,,London
+2023-10-20,1050000,SW5 9NW,F,N,L,11,Third Floor Flat,Nevern Square,,London
+2023-10-19,930000,SW5 0RR,T,N,F,24,,Kenway Road,,London
+2023-10-18,1160000,SW5 9AB,T,N,F,3,,Old Manor Yard,,London
+2023-10-16,625000,SW5 9JZ,F,N,L,14,Flat 1,Eardley Crescent,,London
+2023-10-16,1080000,SW5 0BA,F,N,L,176,Flat 4,Old Brompton Road,,London
+2023-10-13,950000,SW5 0JR,F,N,L,"Allenby House, 24",Flat 6,Wetherby Gardens,,London
+2023-10-12,965000,SW5 9AS,F,N,L,274,Flat 4,Earls Court Road,,London
+2023-10-12,625000,SW5 0LD,F,N,L,1,Flat C,Bina Gardens,,London
+2023-10-11,1090000,SW5 0DA,F,N,L,224,Flat 6,Old Brompton Road,,London
+2023-10-06,795000,SW5 0NF,F,N,L,"Edinburgh House, 56 - 57",Flat 14,Courtfield Gardens,,London
+2023-10-04,1775000,SW5 0DL,F,N,L,Coleherne Court,Flat 17,The Little Boltons,,London
+2023-10-03,1150000,SW5 9TF,F,N,L,Kensington Mansions,Flat 5A,Trebovir Road,,London
+2023-09-29,1600000,SW5 0RP,T,N,F,21,,Kenway Road,,London
+2023-09-29,1550000,SW5 0LE,T,N,F,10,,Dove Mews,,London
+2023-09-29,3200000,SW5 0HJ,T,N,F,4,,Laverton Place,,London
+2023-09-29,1873000,SW5 0ES,F,N,L,"Roberts Court, 45",Flat 28,Barkston Gardens,,London
+2023-09-28,926000,SW5 9EY,F,N,L,76,Flat B,Philbeach Gardens,,London
+2023-09-28,600000,SW5 0QD,F,N,L,"Laurel House, 147A",Apartment 2,Cromwell Road,,London
+2023-09-28,1975000,SW5 0HN,F,N,L,29,Flat 6,Collingham Gardens,,London
+2023-09-27,176000,SW5 9JT,F,N,L,41 - 43,Flat 3,Eardley Crescent,,London
+2023-09-27,575000,SW5 0PD,F,N,L,20,Flat 9,Courtfield Gardens,,London
+2023-09-22,1005000,SW5 9HW,F,N,L,"The Mansions, 252",Flat 34B,Old Brompton Road,,London
+2023-09-22,400000,SW5 0ST,F,N,L,"Sherborne Court, 180 - 186",Flat 80,Cromwell Road,,London
+2023-09-22,1845000,SW5 0HQ,F,N,L,44,Flat C,Bramham Gardens,,London
+2023-09-21,615000,SW5 0LD,F,N,L,5,Flat 4,Bina Gardens,,London
+2023-09-19,850000,SW5 0NQ,F,N,L,64,Flat E,Courtfield Gardens,,London
+2023-09-18,1625000,SW5 9TQ,F,N,L,Kensington Mansions,Flat 41,Trebovir Road,,London
+2023-09-15,1200000,SW5 9BY,F,N,L,35 - 37,Flat 27,Earls Court Square,,London
+2023-09-15,3400000,SW5 0SZ,T,N,F,15,,Earls Court Gardens,,London
+2023-09-15,1100000,SW5 0LA,F,N,L,18,Flat 4,Bina Gardens,,London
+2023-09-14,750000,SW5 9PL,F,N,L,"Rupert House, 52 - 57",Flat 2,Nevern Square,,London
+2023-09-14,1550000,SW5 0LA,F,N,L,6,Flat 5,Bina Gardens,,London
+2023-09-13,520000,SW5 9BY,F,N,L,35 - 37,Flat 17,Earls Court Square,,London
+2023-09-11,675000,SW5 9TU,F,N,L,"Courtside, 47 - 49",Flat 65,Penywern Road,,London
+2023-09-08,490000,SW5 9DY,F,N,L,26,Flat 4,Philbeach Gardens,,London
+2023-09-06,1500000,SW5 0NU,F,N,L,33,Flat 12,Collingham Road,,London
+2023-09-05,770000,SW5 0PX,F,N,L,58,Flat 1,Hogarth Road,,London
+2023-08-31,635000,SW5 9SB,F,N,L,3,Flat E,Longridge Road,,London
+2023-08-23,1645000,SW5 9AG,F,Y,L,3,Apartment 27,Cluny Mews,,London
+2023-08-21,920000,SW5 0NU,F,N,L,"Melbourne House, 27 - 29",Flat 2,Collingham Road,,London
+2023-08-11,450000,SW5 9DY,F,N,L,13E,,Philbeach Gardens,,London
+2023-08-10,500000,SW5 0PU,F,N,L,38,Flat C,Hogarth Road,,London
+2023-08-10,675000,SW5 0PT,F,N,L,24,Flat 2,Hogarth Road,,London
+2023-08-10,1200000,SW5 0LE,F,N,L,"Attwood House, 3A",Flat 1,Dove Mews,,London
+2023-08-08,2415000,SW5 9NA,T,N,F,1,,Spear Mews,,London
+2023-08-04,950000,SW5 9DG,F,N,L,53 - 55,Flat 4,Earls Court Square,,London
+2023-08-04,895000,SW5 0PZ,F,N,L,14,Basement Flat,Collingham Place,,London
+2023-07-31,980232,SW5 9AG,F,Y,L,3,Apartment 21,Cluny Mews,,London
+2023-07-28,963680,SW5 9AG,F,Y,L,3,Apartment 12,Cluny Mews,,London
+2023-07-27,650000,SW5 0HS,F,N,L,18,Flat 11,Collingham Gardens,,London
+2023-07-25,521000,SW5 9JT,F,N,L,49,Flat 4,Eardley Crescent,,London
+2023-07-25,1618800,SW5 9AG,F,Y,L,3,Apartment 32,Cluny Mews,,London
+2023-07-25,625000,SW5 0PX,F,N,L,56,Flat 5,Hogarth Road,,London
+2023-07-24,505000,SW5 0JJ,F,N,L,18,Flat 3,Bramham Gardens,,London
+2023-07-21,1618800,SW5 9AG,F,Y,L,3,Apartment 31,Cluny Mews,,London
+2023-07-20,1875775,SW5 0LZ,F,N,L,42,Flat A,Courtfield Gardens,,London
+2023-07-19,1158500,SW5 9DY,F,N,L,10 - 11,Flat 8,Philbeach Gardens,,London
+2023-07-19,1515250,SW5 9AG,F,Y,L,3,Apartment 35,Cluny Mews,,London
+2023-07-18,1296750,SW5 9AG,F,Y,L,3,Apartment 26,Cluny Mews,,London
+2023-07-18,1405300,SW5 9AG,F,Y,L,3,Apartment 34,Cluny Mews,,London
+2023-07-18,1269000,SW5 9AG,F,Y,L,3,Apartment 28,Cluny Mews,,London
+2023-07-18,1316000,SW5 9AG,F,Y,L,3,Apartment 29,Cluny Mews,,London
+2023-07-18,1081000,SW5 9AG,F,Y,L,3,Apartment 25,Cluny Mews,,London
+2023-07-17,455000,SW5 9PN,F,N,L,63,Flat 4,Nevern Square,,London
+2023-07-17,7200000,SW5 0AN,T,N,F,175,,Old Brompton Road,,London
+2023-07-14,157250,SW5 9SU,F,N,L,36,Flat 14,Penywern Road,,London
+2023-07-14,640000,SW5 9RP,F,N,L,"Sullivan Court, 109",Flat 26,Earls Court Road,,London
+2023-07-13,450000,SW5 9TB,F,N,L,Kensington Mansions,Flat 68A,Warwick Road,,London
+2023-07-13,695000,SW5 9HY,F,N,L,43,,Redcliffe Close,,London
+2023-07-12,990000,SW5 0BA,F,N,L,176,Flat 1,Old Brompton Road,,London
+2023-07-07,420000,SW5 9LH,F,N,L,18D,,Kempsford Gardens,,London
+2023-07-07,1025000,SW5 9AB,F,N,F,7,,Old Manor Yard,,London
+2023-07-05,517000,SW5 0SQ,F,N,L,169,Flat 7,Cromwell Road,,London
+2023-07-04,992750,SW5 9AG,F,Y,L,3,Apartment 33,Cluny Mews,,London
+2023-07-04,1250000,SW5 0ES,F,N,L,41,Flat 5,Barkston Gardens,,London
+2023-06-30,1098625,SW5 9AG,F,Y,L,3,Apartment 17,Cluny Mews,,London
+2023-06-30,1051875,SW5 9AG,F,Y,L,3,Apartment 18,Cluny Mews,,London
+2023-06-29,775000,SW5 9SB,F,N,L,9A,,Longridge Road,,London
+2023-06-28,2700000,SW5 0PH,F,N,L,34,Flat 24,Courtfield Gardens,,London
+2023-06-28,3400000,SW5 0NJ,F,N,L,69,Flat 9,Courtfield Gardens,,London
+2023-06-27,520000,SW5 9RP,F,N,L,"Sullivan Court, 109",Flat 19,Earls Court Road,,London
+2023-06-27,905249,SW5 9DG,F,N,L,53 - 55,Flat 10,Earls Court Square,,London
+2023-06-26,930000,SW5 9PD,F,N,L,23B,,Nevern Square,,London
+2023-06-23,890000,SW5 9HY,F,N,L,34,,Redcliffe Close,,London
+2023-06-22,833000,SW5 9TT,F,N,L,3,Flat 5,Penywern Road,,London
+2023-06-20,525000,SW5 9RH,F,N,L,"Richmond House, 141 - 145",Flat 4,Earls Court Road,,London
+2023-06-20,3398202,SW5 0LD,F,N,L,11,Apartment B,Bina Gardens,,London
+2023-06-19,880000,SW5 9EU,F,N,L,88,Flat J,Philbeach Gardens,,London
+2023-06-16,902500,SW5 9AG,F,Y,L,3,Apartment 3,Cluny Mews,,London
+2023-06-16,790000,SW5 0QF,F,N,L,23,Flat 2,Collingham Place,,London
+2023-06-16,860000,SW5 0NU,F,N,L,35,Flat 11,Collingham Road,,London
+2023-06-16,2070000,SW5 0EB,F,N,L,Coleherne Court,Flat 120,Old Brompton Road,,London
+2023-06-14,200000,SW5 9SD,F,N,L,33,4,Longridge Road,,London
+2023-06-09,1250000,SW5 9BH,F,N,L,23,,Wetherby Mansions,,London
+2023-06-05,2350000,SW5 9PE,F,N,L,33 - 34,Flat 2,Nevern Square,,London
+2023-06-05,691000,SW5 9JZ,F,N,L,26,Flat 6,Eardley Crescent,,London
+2023-06-02,640000,SW5 9SB,F,N,L,13,Flat 1,Longridge Road,,London
+2023-06-02,280000,SW5 0SU,F,N,L,"Sherborne Court, 180 - 186",Flat 129,Cromwell Road,,London
+2023-06-01,250000,SW5 0SU,F,N,L,"Sherborne Court, 180 - 186",Flat 97,Cromwell Road,,London
+2023-05-31,1400000,SW5 0AQ,F,N,L,25,Flat A,Bolton Gardens,,London
+2023-05-30,1077000,SW5 0BQ,F,N,L,16,Garden Flat,Cresswell Gardens,,London
+2023-05-26,1930000,SW5 0AQ,F,N,L,24,Flat 2,Bolton Gardens,,London
+2023-05-25,195000,SW5 0PT,F,N,L,24,Flat 5,Hogarth Road,,London
+2023-05-24,445000,SW5 0ST,F,N,L,"Sherborne Court, 180 - 186",Flat 64,Cromwell Road,,London
+2023-05-19,270000,SW5 9PL,F,N,L,"Rupert House, 52 - 57",Flat 5,Nevern Square,,London
+2023-05-16,650000,SW5 9TU,F,N,L,"Courtside, 47 - 49",Flat 53,Penywern Road,,London
+2023-05-11,1300000,SW5 9HN,F,N,L,Richmond Mansions,Flat 15,Old Brompton Road,,London
+2023-04-28,1010000,SW5 9PE,F,N,L,39,Flat 3,Nevern Square,,London
+2023-04-28,665000,SW5 9EU,F,N,L,93,Flat 3,Philbeach Gardens,,London
+2023-04-28,350000,SW5 0SU,F,N,L,"Sherborne Court, 180 - 186",Flat 138,Cromwell Road,,London
+2023-04-28,1510000,SW5 0DX,F,N,L,Coleherne Court,Flat 167,Redcliffe Gardens,,London
+2023-04-28,3900000,SW5 0AG,T,N,F,41,,Bolton Gardens,,London
+2023-04-25,515000,SW5 9EJ,F,N,L,62,Flat D,Warwick Road,,London
+2023-04-25,2050000,SW5 9DP,F,N,L,8,Flat 5,Earls Court Square,,London
+2023-04-20,1050000,SW5 9PP,F,N,L,34,Flat 1,Nevern Place,,London
+2023-04-17,2800000,SW5 0AJ,F,N,L,19,Flat 3,Bolton Gardens,,London
+2023-04-14,960000,SW5 9UL,F,N,L,15,Flat 1,Warwick Road,,London
+2023-04-13,490000,SW5 9DG,F,N,L,69,Flat 3,Earls Court Square,,London
+2023-04-05,2100000,SW5 0SD,F,N,L,Cromwell Mansions,Flat 239,Cromwell Road,,London
+2023-03-31,1290000,SW5 9RZ,T,N,F,1,,Childs Walk,,London
+2023-03-30,455000,SW5 9RY,F,N,L,18A,,Childs Street,,London
+2023-03-30,960000,SW5 0NA,F,N,L,47D,,Courtfield Gardens,,London
+2023-03-21,1630000,SW5 0JR,F,N,L,"Allenby House, 24",Flat 4,Wetherby Gardens,,London
+2023-03-17,1670000,SW5 0PD,F,N,L,16,Flat 1,Courtfield Gardens,,London
+2023-03-15,3900000,SW5 0JN,F,N,L,7,Flat 6,Wetherby Gardens,,London
+2023-03-15,1185000,SW5 0AQ,F,N,L,34 - 35,Flat 6,Bolton Gardens,,London
+2023-03-14,1094000,SW5 0PZ,F,N,L,30,Flat 4,Collingham Place,,London
+2023-03-13,3500000,SW5 0PH,F,N,L,30,Flat 3,Courtfield Gardens,,London
+2023-03-10,840000,SW5 0HL,F,N,L,20,Flat 2,Collingham Gardens,,London
+2023-03-09,795074,SW5 9HN,F,N,L,Richmond Mansions,Flat 24A,Old Brompton Road,,London
+2023-03-06,282000,SW5 9BA,F,N,L,302,Flat 5,Earls Court Road,,London
+2023-03-03,295000,SW5 9QG,F,N,L,188 - 190,Flat 2,Earls Court Road,,London
+2023-03-02,625000,SW5 9JZ,F,N,L,26A,,Eardley Crescent,,London
+2023-03-01,700000,SW5 9DY,F,N,L,14C,,Philbeach Gardens,,London
+2023-02-27,1750000,SW5 0EE,F,N,L,Coleherne Court,Flat 84,Old Brompton Road,,London
+2023-02-24,461000,SW5 0NF,F,N,L,60,Flat 4,Courtfield Gardens,,London
+2023-02-24,1175000,SW5 0AQ,F,N,L,34 - 35,Flat 9,Bolton Gardens,,London
+2023-02-23,950000,SW5 9PP,F,N,L,30,Second Floor Flat,Nevern Place,,London
+2023-02-16,560000,SW5 0RP,F,N,L,15A,,Kenway Road,,London
+2023-02-15,1120000,SW5 9DG,F,N,L,53 - 55,Flat 16,Earls Court Square,,London
+2023-02-13,405000,SW5 9RH,F,N,L,"Richmond House, 141 - 145",Flat 3,Earls Court Road,,London
+2023-02-10,1025000,SW5 9TE,F,N,L,Kensington Mansions,Flat 45A,Trebovir Road,,London
+2023-02-10,1035000,SW5 0HL,F,N,L,21,Flat 8,Collingham Gardens,,London
+2023-02-09,1215000,SW5 0PH,F,N,L,34,Flat 4,Courtfield Gardens,,London
+2023-02-07,828000,SW5 9BZ,F,N,L,15C,,Earls Court Square,,London
+2023-02-02,1630000,SW5 0PH,F,N,L,34,Flat 19,Courtfield Gardens,,London
+2023-02-02,2323951,SW5 0ER,F,N,L,35,,Barkston Gardens,,London
+2023-01-31,760000,SW5 0PH,F,N,L,34,Flat 17,Courtfield Gardens,,London
+2023-01-31,3000000,SW5 0JN,F,N,L,1,Flat 1,Wetherby Gardens,,London
+2023-01-31,2531000,SW5 0DT,F,N,L,Coleherne Court,Flat 207,Redcliffe Gardens,,London
+2023-01-20,1190000,SW5 9BH,F,N,L,Wetherby Mansions,Flat 29,Earls Court Square,,London
+2023-01-13,465000,SW5 0SU,F,N,L,"Sherborne Court, 180 - 186",Flat 103,Cromwell Road,,London
+2023-01-13,1400000,SW5 0HN,F,N,L,29,Flat 5,Collingham Gardens,,London
+2023-01-12,562000,SW5 9DG,F,N,L,"Flat 1, 67",Lower Ground Floor,Earls Court Square,,London
+2023-01-09,760000,SW5 0UA,F,N,L,"Savoy Court, 245",Flat 7,Cromwell Road,,London
+2023-01-09,836000,SW5 0QE,F,N,L,3 - 5,Flat 14,Collingham Place,,London
+2023-01-03,315000,SW5 0SS,F,N,L,"Sherborne Court, 180 - 186",Flat 33,Cromwell Road,,London
+2022-12-22,1490000,SW5 0AQ,F,N,L,24,Flat 5,Bolton Gardens,,London
+2022-12-21,785000,SW5 9ST,F,N,L,4,Flat 4,Penywern Road,,London
+2022-12-21,790000,SW5 0QH,F,N,L,9,Flat 3,Hogarth Road,,London
+2022-12-21,563000,SW5 0NS,F,N,L,"Boston House, 31",Flat 9,Collingham Road,,London
+2022-12-15,650000,SW5 9ET,F,N,L,97F,,Philbeach Gardens,,London
+2022-12-15,1800000,SW5 0ED,F,N,L,Coleherne Court,Flat 94,Old Brompton Road,,London
+2022-12-08,818000,SW5 9TF,F,N,L,Kensington Mansions,Flat 12B,Trebovir Road,,London
+2022-12-08,800000,SW5 9TE,F,N,L,Kensington Mansions,Flat 44A,Trebovir Road,,London
+2022-12-07,1150000,SW5 9PE,F,N,L,32,Flat 2,Nevern Square,,London
+2022-12-02,1005000,SW5 0PU,F,N,L,50,Flat 5,Hogarth Road,,London
+2022-11-25,650000,SW5 9JZ,F,N,L,48,Flat 2,Eardley Crescent,,London
+2022-11-25,683200,SW5 9EB,F,N,L,49,Third Floor Flat,Philbeach Gardens,,London
+2022-11-18,820000,SW5 0HG,F,N,L,43,Flat 1,Bramham Gardens,,London
+2022-11-11,1140000,SW5 0BQ,F,N,L,16,Flat A,Cresswell Gardens,,London
+2022-11-11,662500,SW5 0BP,F,N,L,"Beatrix House, 206 - 210",Flat 1,Old Brompton Road,,London
+2022-11-11,1450000,SW5 0BE,F,N,L,148A,Flat 4,Old Brompton Road,,London
+2022-11-10,965000,SW5 9AH,F,N,L,239,Flat 2,Earls Court Road,,London
+2022-11-09,5400000,SW5 9DQ,T,N,F,36,,Earls Court Square,,London
+2022-11-08,423000,SW5 9EB,F,N,L,30 - 31,Flat 1 Second Floor,Philbeach Gardens,,London
+2022-10-31,2450000,SW5 0HH,T,N,F,36,,Hesper Mews,,London
+2022-10-28,3450000,SW5 9NW,F,N,L,12,Ground And Lower Ground Floor Flat,Nevern Square,,London
+2022-10-28,1500000,SW5 0RG,T,N,F,13,,Redfield Lane,,London
+2022-10-24,492000,SW5 9LS,F,N,L,13,Flat 7,Trebovir Road,,London
+2022-10-21,567000,SW5 9LA,F,N,L,37,Flat 5,Kempsford Gardens,,London
+2022-10-14,834000,SW5 9JT,F,N,L,71,Flat 6,Eardley Crescent,,London
+2022-10-14,1040000,SW5 0QH,F,N,L,11A,Flat 2,Hogarth Road,,London
+2022-10-14,580000,SW5 0PA,F,N,L,9,Front Lower Ground Floor Flat,Courtfield Gardens,,London
+2022-10-12,400000,SW5 9QQ,F,N,L,160 - 164,Flat 12,Earls Court Road,,London
+2022-10-11,1550000,SW5 9DH,F,N,L,Herbert Court Mansions,Flat 4A,Earls Court Square,,London
+2022-10-07,910000,SW5 9EE,F,N,L,62,Flat 4,Philbeach Gardens,,London
+2022-10-07,1325000,SW5 9EB,F,N,L,40,Basement Flat,Philbeach Gardens,,London
+2022-10-07,1150000,SW5 0JR,F,N,L,"Allenby House, 24",Flat 4,Wetherby Gardens,,London
+2022-10-03,1620000,SW5 9TJ,F,N,L,"Nevern Mansions, 42",Flat 17A,Warwick Road,,London
+2022-10-03,725000,SW5 9LY,F,N,L,Orpen House,Flat 7,Trebovir Road,,London
+2022-10-03,1650000,SW5 9HL,F,N,L,Richmond Mansions,Flat 11,Old Brompton Road,,London
+2022-09-30,1850000,SW5 9BY,F,N,L,7,Upper Flat,Earls Court Square,,London
+2022-09-30,1295000,SW5 0ER,F,N,L,3,Flat F,Barkston Gardens,,London
+2022-09-26,625000,SW5 9JT,F,N,L,55,Flat 3,Eardley Crescent,,London
+2022-09-23,720000,SW5 9EZ,F,N,L,107,Flat 3,Warwick Road,,London
+2022-09-23,2350000,SW5 9DP,F,N,L,6,The Penthouse,Earls Court Square,,London
+2022-09-23,11750000,SW5 0HS,T,N,F,14,,Collingham Gardens,,London
+2022-09-22,2875000,SW5 0DL,F,N,L,Coleherne Court,Flat 18,The Little Boltons,,London
+2022-09-20,1345000,SW5 0BJ,F,N,L,6,Flat 4,Cresswell Gardens,,London
+2022-09-15,747125,SW5 0PX,F,N,L,60,Flat 1,Hogarth Road,,London
+2022-09-15,2295000,SW5 0JQ,T,N,L,9E,,Bramham Gardens,,London
+2022-09-12,743000,SW5 0UA,F,N,L,"Savoy Court, 245",Flat 3,Cromwell Road,,London
+2022-09-12,850000,SW5 0PT,F,N,L,14,Basement Flat,Hogarth Road,,London
+2022-09-09,265000,SW5 0SS,F,N,L,"Sherborne Court, 180 - 186",Flat 31,Cromwell Road,,London
+2022-09-09,1225000,SW5 0HS,F,N,L,18,Flat 6,Collingham Gardens,,London
+2022-09-05,1400000,SW5 9TQ,F,N,L,Kensington Mansions,Flat 26,Trebovir Road,,London
+2022-09-05,770000,SW5 9EZ,F,N,L,103,Flat 3,Warwick Road,,London
+2022-09-01,3650000,SW5 0ED,F,N,L,Coleherne Court,Flat 103,Old Brompton Road,,London
+2022-08-30,1298000,SW5 9PD,F,N,L,21,Flat 2,Nevern Square,,London
+2022-08-30,1880000,SW5 0AQ,F,N,L,25,Flat B,Bolton Gardens,,London
+2022-08-23,1470000,SW5 0JW,F,N,L,12,Fourth And Fifth Floor Flat,Wetherby Gardens,,London
+2022-08-19,995000,SW5 9SD,F,N,L,41,Flat 1,Longridge Road,,London
+2022-08-17,4030000,SW5 0NU,F,N,L,21,Flat 4,Collingham Road,,London
+2022-08-10,635000,SW5 0PL,F,N,L,Courtfield House 10-11,Flat 8,Courtfield Gardens,,London
+2022-08-08,1355000,SW5 9TL,F,N,L,"Nevern Mansions, 44",Flat 26A,Warwick Road,,London
+2022-08-05,705000,SW5 9JZ,F,N,L,50,Third Floor Flat,Eardley Crescent,,London
+2022-08-05,785000,SW5 0PA,F,N,L,9,Rear Basement Flat,Courtfield Gardens,,London
+2022-08-05,1900000,SW5 0JQ,F,N,L,5 - 6,Flat 7,Bramham Gardens,,London
+2022-08-01,1100000,SW5 9PP,F,N,L,30,First Floor Flat,Nevern Place,,London
+2022-07-29,950000,SW5 9PE,F,N,L,37 - 38,Flat 4A,Nevern Square,,London
+2022-07-29,870000,SW5 0QE,F,N,L,3 - 5,Flat 12,Collingham Place,,London
+2022-07-28,1000000,SW5 9HW,F,N,L,"The Mansions, 252",Flat 29A,Old Brompton Road,,London
+2022-07-28,1800000,SW5 0PA,F,N,L,3,Flat 1,Courtfield Gardens,,London
+2022-07-27,620000,SW5 9HB,F,N,L,65,Flat 8,Warwick Road,,London
+2022-07-26,1135000,SW5 9SX,T,N,L,50D,,Penywern Road,,London
+2022-07-21,617500,SW5 9LH,F,N,L,22,2,Kempsford Gardens,,London
+2022-07-20,740000,SW5 9EZ,F,N,L,97,Flat A,Warwick Road,,London
+2022-07-20,825000,SW5 0DE,F,N,L,240,The First Floor Flat A,Old Brompton Road,,London
+2022-07-18,1320000,SW5 0ET,F,N,L,"Sheridan Court, 55 - 81",Flat B,Barkston Gardens,,London
+2022-07-15,935000,SW5 9DJ,F,N,L,Wetherby Mansions,Flat 34A,Earls Court Square,,London
+2022-07-15,680000,SW5 0HG,F,N,L,42,Flat 2,Bramham Gardens,,London
+2022-07-14,975000,SW5 9DB,F,N,L,"Chepstow Hall, 29 - 31",Flat 12,Earls Court Square,,London
+2022-07-08,1060000,SW5 9HL,F,N,L,Richmond Mansions,Flat 12,Old Brompton Road,,London
+2022-07-06,1600000,SW5 9PD,F,N,L,23K,Second Floor Flat,Nevern Square,,London
+2022-07-06,675000,SW5 0LT,F,N,L,4,Flat 5,Collingham Road,,London
+2022-07-01,1150000,SW5 9UH,F,N,L,Langham Mansions,Flat 14B,Earls Court Square,,London
+2022-07-01,1400000,SW5 9NN,F,N,L,3,First Floor Flat,Nevern Square,,London
+2022-07-01,750000,SW5 0SN,F,N,L,194,Flat 7,Cromwell Road,,London
+2022-06-24,805000,SW5 9EZ,F,N,L,95,Flat D,Warwick Road,,London
+2022-06-21,1085000,SW5 0RJ,F,N,L,20,Flat 4,Redfield Lane,,London
+2022-06-21,905000,SW5 0LE,F,N,L,"Attwood House, 3A",Flat 2,Dove Mews,,London
+2022-06-20,800000,SW5 9UH,F,N,L,Langham Mansions,Flat D,Earls Court Square,,London
+2022-06-20,1415000,SW5 0DL,F,N,L,Coleherne Court,Flat 16,The Little Boltons,,London
+2022-06-15,600000,SW5 0TQ,F,N,L,159,Flat 7,Cromwell Road,,London
+2022-06-13,860000,SW5 9PE,F,N,L,35,Flat 1,Nevern Square,,London
+2022-06-13,830000,SW5 9HX,F,N,L,19,,Redcliffe Close,,London
+2022-06-10,1000000,SW5 9TF,F,N,L,Kensington Mansions,Flat 3A,Trebovir Road,,London
+2022-06-10,1000000,SW5 9TF,F,N,L,Kensington Mansions,Flat 3A,Trebovir Road,,London
+2022-06-10,582000,SW5 0BA,F,N,L,176,Flat 3,Old Brompton Road,,London
+2022-06-08,575000,SW5 0SQ,F,N,L,165,Flat 13,Cromwell Road,,London
+2022-06-08,2000000,SW5 0AY,F,N,L,17,Flat 4,Gledhow Gardens,,London
+2022-06-07,1055000,SW5 0PA,F,N,L,9,Fourth Floor Flat,Courtfield Gardens,,London
+2022-06-06,2500000,SW5 0PB,T,N,F,3,,Laverton Mews,,London
+2022-06-01,585000,SW5 9PD,F,N,L,23,D,Nevern Square,,London
+2022-06-01,1750000,SW5 0JP,F,N,L,16,Flat 3,Wetherby Gardens,,London
+2022-05-27,590000,SW5 9TJ,F,N,L,"Nevern Mansions, 42",Flat 13,Warwick Road,,London
+2022-05-27,2520000,SW5 0AL,F,N,L,12A,,Bolton Gardens,,London
+2022-05-23,781000,SW5 0PU,F,N,L,26 - 28,Flat 6,Hogarth Road,,London
+2022-05-23,1085000,SW5 0AZ,F,N,L,27,Flat 1,Gledhow Gardens,,London
+2022-05-20,2600000,SW5 9TF,F,N,L,Kensington Mansions,Flat 16,Trebovir Road,,London
+2022-05-19,1295000,SW5 0QF,F,N,L,33,Flat 2,Collingham Place,,London
+2022-05-17,1772500,SW5 0ES,F,N,L,"Roberts Court, 45",Flat 15,Barkston Gardens,,London
+2022-05-12,480000,SW5 0SU,F,N,L,"Sherborne Court, 180 - 186",Flat 140,Cromwell Road,,London
+2022-05-12,1600000,SW5 0ES,F,N,L,53,Flat 1,Barkston Gardens,,London
+2022-05-06,550000,SW5 0AQ,F,N,L,32,Flat 4,Bolton Gardens,,London
+2022-05-05,925000,SW5 0AW,F,N,L,10,Flat 3,Bolton Gardens,,London
+2022-04-29,1170000,SW5 9RY,F,N,F,6,,Childs Street,,London
+2022-04-29,450000,SW5 0NQ,F,N,L,65,Flat 14,Courtfield Gardens,,London
+2022-04-28,560000,SW5 9LS,F,N,L,9,Flat 2,Trebovir Road,,London
+2022-04-26,3350000,SW5 0BQ,F,N,L,15,Flat 1,Cresswell Gardens,,London
+2022-04-25,2225000,SW5 0SD,F,N,L,Cromwell Mansions,Flat 231,Cromwell Road,,London
+2022-04-19,1185000,SW5 0HL,F,N,L,19,Flat 5,Collingham Gardens,,London
+2022-04-14,925000,SW5 9NR,F,N,L,21,Flat 5,Nevern Place,,London
+2022-04-14,490000,SW5 9LA,F,N,L,33,Flat 2,Kempsford Gardens,,London
+2022-04-12,425000,SW5 0SU,F,N,L,"Sherborne Court, 180 - 186",Flat 126,Cromwell Road,,London
+2022-04-08,3520000,SW5 0EU,F,N,L,95,,Barkston Gardens,,London
+2022-04-06,840000,SW5 9DY,F,N,L,10 - 11,Flat 14,Philbeach Gardens,,London
+2022-04-01,3300000,SW5 0PB,F,N,F,5,,Laverton Mews,,London
+2022-04-01,4000000,SW5 0ED,F,N,L,Coleherne Court,Flat 108,Old Brompton Road,,London
+2022-03-31,862500,SW5 0BJ,F,N,L,6,Flat 4,Cresswell Gardens,,London
+2022-03-30,850000,SW5 9PR,F,N,L,6,Flat 9,Nevern Place,,London
+2022-03-28,1100000,SW5 9HW,F,N,L,"The Mansions, 252",Flat 33A,Old Brompton Road,,London
+2022-03-25,1475000,SW5 0BE,F,N,L,148A,Flat 3,Old Brompton Road,,London
+2022-03-24,590000,SW5 9LA,F,N,L,"Victoria Court, 17 - 19",Flat 3,Kempsford Gardens,,London
+2022-03-22,1140000,SW5 9TQ,F,N,L,Kensington Mansions,Flat 34,Trebovir Road,,London
+2022-03-21,4025000,SW5 0PB,T,N,F,6,,Laverton Mews,,London
+2022-03-18,2700000,SW5 9HN,F,N,L,Richmond Mansions,Flat 20,Old Brompton Road,,London
+2022-03-14,1355000,SW5 0JP,F,N,L,"Wetherby House, 20 - 21",Flat 1,Wetherby Gardens,,London
+2022-03-11,1615000,SW5 0EE,F,N,L,Coleherne Court,Flat 81,Old Brompton Road,,London
+2022-03-08,730000,SW5 9HR,F,N,L,284,Flat 7,Old Brompton Road,,London
+2022-03-04,650000,SW5 0AZ,F,N,L,27,Flat 2,Gledhow Gardens,,London
+2022-02-28,2450000,SW5 0JJ,F,N,L,13,Flat 3,Bramham Gardens,,London
+2022-02-25,640000,SW5 0QF,F,N,L,33,Flat 4,Collingham Place,,London
+2022-02-25,1210000,SW5 0HG,F,N,L,42,Flat 6,Bramham Gardens,,London
+2022-02-25,2100000,SW5 0AQ,F,N,L,30 - 31,Flat 8,Bolton Gardens,,London
+2022-02-24,1707000,SW5 0HL,F,N,L,21,Flat 1,Collingham Gardens,,London
+2022-02-22,740000,SW5 0SE,F,N,L,191,Flat 4,Cromwell Road,,London
+2022-02-22,2400000,SW5 0NU,F,N,L,15,Flat 1,Collingham Road,,London
+2022-02-22,2400000,SW5 0NU,F,N,L,15,Flat 1,Collingham Road,,London
+2022-02-15,830000,SW5 0BX,F,N,L,214,Flat 7,Old Brompton Road,,London
+2022-02-11,690000,SW5 9SQ,F,N,L,72,Flat 4,Longridge Road,,London
+2022-02-11,873945,SW5 0PL,F,N,L,Courtfield House 10-11,Flat 5,Courtfield Gardens,,London
+2022-02-11,1225000,SW5 0NU,F,N,L,35,Flat 3,Collingham Road,,London
+2022-02-11,3800000,SW5 0BL,F,N,L,8 - 9,2Nd Floor Flat,Gledhow Gardens,,London
+2022-02-09,1350000,SW5 9LA,F,N,L,25,Flat D,Kempsford Gardens,,London
+2022-02-04,850000,SW5 0NF,F,N,L,"Edinburgh House, 56 - 57",Flat 11,Courtfield Gardens,,London
+2022-02-04,850000,SW5 0NF,F,N,L,"Edinburgh House, 56 - 57",Flat 11,Courtfield Gardens,,London
+2022-01-26,660000,SW5 9JS,F,N,L,21 - 23,Flat 3,Eardley Crescent,,London
+2022-01-25,1450000,SW5 0HW,F,N,L,2,Flat 4,Collingham Gardens,,London
+2022-01-21,2850000,SW5 0NU,F,N,L,15,Flat 2,Collingham Road,,London
+2022-01-20,980000,SW5 9PD,F,N,L,17,Flat E,Nevern Square,,London
+2022-01-20,1050000,SW5 0AZ,F,N,L,22,Flat 2,Gledhow Gardens,,London
+2022-01-19,1250000,SW5 0NU,F,N,L,Ashburn House,Flat 8,Collingham Road,,London
+2022-01-18,635000,SW5 9JS,F,N,L,29,Basement Flat,Eardley Crescent,,London
+2022-01-17,2000000,SW5 0RG,T,N,F,9,,Redfield Lane,,London
+2022-01-17,2858000,SW5 0PL,F,N,L,12,Flat 15,Courtfield Gardens,,London
+2022-01-12,690000,SW5 9PN,F,N,L,63,Flat 1,Nevern Square,,London
+2022-01-12,800000,SW5 9JT,F,N,L,71,Flat 4,Eardley Crescent,,London
+2022-01-10,475000,SW5 9JT,F,N,L,41 - 43,Flat 4,Eardley Crescent,,London
+2022-01-07,750000,SW5 0NU,F,N,L,33,Flat 6,Collingham Road,,London
+2022-01-04,1800000,SW5 0AY,F,N,L,13,Flat 5,Gledhow Gardens,,London
+2021-12-22,475000,SW5 0ES,F,N,L,"Roberts Court, 45",Flat 8,Barkston Gardens,,London
+2021-12-21,680000,SW5 9QN,F,N,L,5,Flat 5,Cromwell Crescent,,London
+2021-12-21,1028000,SW5 9DN,F,N,L,20,Flat 5,Earls Court Square,,London
+2021-12-21,1895000,SW5 0NQ,F,N,L,61,Second Floor Flat At,Courtfield Gardens,,London
+2021-12-21,552500,SW5 0HG,F,N,L,42,Flat 4,Bramham Gardens,,London
+2021-12-20,880000,SW5 9SX,F,N,L,42A,Basement Flat,Penywern Road,,London
+2021-12-20,1325000,SW5 9HL,F,N,L,Richmond Mansions,Flat 5,Old Brompton Road,,London
+2021-12-15,1000000,SW5 9BJ,F,N,L,Wetherby Mansions,Flat B,Earls Court Square,,London
+2021-12-13,893000,SW5 9NN,F,N,L,6,Second Floor Flat,Nevern Square,,London
+2021-12-10,760000,SW5 9PL,F,N,L,"Rupert House, 52 - 57",Flat 8,Nevern Square,,London
+2021-12-10,825000,SW5 9EE,F,N,L,67,Flat 3,Philbeach Gardens,,London
+2021-12-10,1630000,SW5 0DY,F,N,L,Coleherne Court,Flat 138,Redcliffe Gardens,,London
+2021-12-09,1740000,SW5 0HL,F,N,L,20,Flat 3,Collingham Gardens,,London
+2021-12-08,160000,SW5 9JA,F,N,L,"Studio Flat On The Mezzanine Floor, 279 - 279A",,Old Brompton Road,,London
+2021-12-07,1357500,SW5 9TE,F,N,L,Kensington Mansions,Flat 51,Trebovir Road,,London
+2021-12-06,770000,SW5 9JZ,F,N,L,50,Basement Flat 1,Eardley Crescent,,London
+2021-12-03,2000000,SW5 0PD,F,N,L,15A,,Courtfield Gardens,,London
+2021-12-02,700000,SW5 9RH,F,N,L,139,Top Floor Flat,Earls Court Road,,London
+2021-11-29,800000,SW5 0HQ,F,N,L,47,Flat 6,Bramham Gardens,,London
+2021-11-29,1200000,SW5 0ES,F,N,L,"Roberts Court, 45",Flat 12,Barkston Gardens,,London
+2021-11-23,1825000,SW5 9QN,F,N,L,4,Flat D,Cromwell Crescent,,London
+2021-11-19,1240000,SW5 9HW,F,N,L,"The Mansions, 252",Flat 37B,Old Brompton Road,,London
+2021-11-12,700000,SW5 9HB,F,N,L,63 - 65,Flat 10,Warwick Road,,London
+2021-11-11,888000,SW5 9PD,F,N,L,25,Basement Flat B,Nevern Square,,London
+2021-11-09,680000,SW5 9HY,F,N,L,34,,Redcliffe Close,,London
+2021-11-09,283500,SW5 0UA,F,N,L,"Savoy Court, 245",Flat 18,Cromwell Road,,London
+2021-10-20,995000,SW5 9NR,F,N,L,21,Flat 4,Nevern Place,,London
+2021-10-20,625000,SW5 9LA,F,N,L,23,Flat 1,Kempsford Gardens,,London
+2021-10-15,850000,SW5 9JT,F,N,L,45,Flat 1,Eardley Crescent,,London
+2021-10-12,425000,SW5 9SF,F,N,L,51D,,Longridge Road,,London
+2021-10-08,695000,SW5 0PJ,F,N,L,38,Flat 5,Courtfield Gardens,,London
+2021-09-30,1100000,SW5 9HW,F,N,L,"The Mansions, 252",Flat 31B,Old Brompton Road,,London
+2021-09-30,762500,SW5 9DQ,F,N,L,48A,,Earls Court Square,,London
+2021-09-30,665000,SW5 9DH,F,N,L,Herbert Court Mansions,Flat 6A,Earls Court Square,,London
+2021-09-30,801000,SW5 0PZ,F,N,L,10,Flat 3,Collingham Place,,London
+2021-09-30,1225000,SW5 0PD,F,N,L,15,Flat 2,Courtfield Gardens,,London
+2021-09-30,2157500,SW5 0AJ,F,N,L,18,Flat 5,Bolton Gardens,,London
+2021-09-28,881000,SW5 9PD,F,N,L,21,Flat 2,Nevern Square,,London
+2021-09-28,663000,SW5 9AS,F,N,L,288,Flat 5,Earls Court Road,,London
+2021-09-27,700000,SW5 9HL,F,N,L,Richmond Mansions,Flat 1,Old Brompton Road,,London
+2021-09-24,4425000,SW5 9TJ,F,N,L,Nevern Mansions,18,Warwick Road,,London
+2021-09-24,3225000,SW5 0JQ,F,N,L,1 - 2,Flat 12,Bramham Gardens,,London
+2021-09-23,1140000,SW5 9EU,F,N,L,90,Flat 2,Philbeach Gardens,,London
+2021-09-21,1350000,SW5 9AF,F,N,L,"York Mansions, 215",Flat 10,Earls Court Road,,London
+2021-09-20,1300000,SW5 9TD,F,N,L,Kensington Mansions,Flat 63,Trebovir Road,,London
+2021-09-15,710000,SW5 9NW,F,N,L,8,Flat 6,Nevern Square,,London
+2021-09-10,950000,SW5 9RP,F,N,L,"Sullivan Court, 109",Flat 29,Earls Court Road,,London
+2021-09-08,1825000,SW5 0HF,F,N,L,30,Flat 14,Bramham Gardens,,London
+2021-09-08,1549411,SW5 0ES,F,N,L,"Roberts Court, 45",Flat 21,Barkston Gardens,,London
+2021-09-08,7057000,SW5 0AQ,F,N,L,22,Lower Maisonette,Bolton Gardens,,London
+2021-09-03,3785000,SW5 0SZ,T,N,F,18,,Earls Court Gardens,,London
+2021-09-01,844000,SW5 9PE,F,N,L,32,Flat 1,Nevern Square,,London
+2021-08-27,850000,SW5 9JZ,F,N,L,54,Flat A,Eardley Crescent,,London
+2021-08-20,1501000,SW5 0RL,T,N,F,15,,Wallgrave Road,,London
+2021-08-17,397000,SW5 0NS,F,N,L,"Boston House, 31",Flat 9,Collingham Road,,London
+2021-08-12,1290000,SW5 0PJ,F,N,L,38,Flat 11,Courtfield Gardens,,London
+2021-08-12,2002253,SW5 0AL,F,N,L,11,Ground Floor Flat At,Bolton Gardens,,London
+2021-08-06,845000,SW5 0BE,F,N,L,152,Flat 3,Old Brompton Road,,London
+2021-07-30,1575000,SW5 9BY,F,N,L,35 - 37,Flat 2,Earls Court Square,,London
+2021-07-30,1270000,SW5 0NQ,F,N,L,61,Ground Floor Flat,Courtfield Gardens,,London
+2021-07-29,1800000,SW5 0DU,F,N,L,Coleherne Court,Flat 179,Redcliffe Gardens,,London
+2021-07-26,670000,SW5 0SQ,F,N,L,165,Flat 16,Cromwell Road,,London
+2021-07-20,3350000,SW5 0PA,F,N,L,3,Flat 3,Courtfield Gardens,,London
+2021-07-14,3715000,SW5 0SZ,T,N,F,22,,Earls Court Gardens,,London
+2021-06-30,1190000,SW5 9PN,F,N,L,58,Flat A,Nevern Square,,London
+2021-06-30,572500,SW5 9PL,F,N,L,"Rupert House, 52 - 57",Flat 9,Nevern Square,,London
+2021-06-30,420000,SW5 9LS,F,N,L,9,Flat 7,Trebovir Road,,London
+2021-06-30,730000,SW5 9JT,F,N,L,75,Flat 5,Eardley Crescent,,London
+2021-06-30,640000,SW5 0SU,F,N,L,"Sherborne Court, 180 - 186",Flat 124,Cromwell Road,,London
+2021-06-30,575000,SW5 0NF,F,N,L,"Edinburgh House, 56 - 57",Flat 3,Courtfield Gardens,,London
+2021-06-30,1035000,SW5 0LZ,F,N,L,45,Flat E,Courtfield Gardens,,London
+2021-06-30,1725000,SW5 0JE,F,N,L,21,Flat 4,Bramham Gardens,,London
+2021-06-29,1100000,SW5 9TH,F,N,L,27A,Flat 6,Nevern Square,,London
+2021-06-29,842000,SW5 0PZ,F,N,L,12,Ground Floor Flat,Collingham Place,,London
+2021-06-29,750000,SW5 0PH,F,N,L,34,Flat 14,Courtfield Gardens,,London
+2021-06-29,585000,SW5 0PA,F,N,L,6,Flat B,Courtfield Gardens,,London
+2021-06-29,708000,SW5 0NU,F,N,L,35,10 Ashburn House,Collingham Road,,London
+2021-06-29,860000,SW5 0NU,F,N,L,19,Flat 2,Collingham Road,,London
+2021-06-29,1575000,SW5 0ES,F,N,L,41,Flat 3,Barkston Gardens,,London
+2021-06-29,742500,SW5 0DE,F,N,L,240,Flat F,Old Brompton Road,,London
+2021-06-28,725000,SW5 9PD,F,N,L,21,Flat 4,Nevern Square,,London
+2021-06-28,665000,SW5 9DY,F,N,L,26,Flat 3,Philbeach Gardens,,London
+2021-06-28,1550000,SW5 9DY,F,N,L,19D,,Philbeach Gardens,,London
+2021-06-28,832575,SW5 0QF,F,N,L,33,Flat 2,Collingham Place,,London
+2021-06-28,830000,SW5 0PY,F,N,L,8,Flat 1,Collingham Place,,London
+2021-06-25,1352500,SW5 0NA,F,N,L,46E,,Courtfield Gardens,,London
+2021-06-25,1150000,SW5 0HL,F,N,L,19,Flat 6,Collingham Gardens,,London
+2021-06-25,404000,SW5 0HG,F,N,L,43,Flat 4,Bramham Gardens,,London
+2021-06-25,2050000,SW5 0BZ,F,N,L,"Boltons Court, 216",Flat 13,Old Brompton Road,,London
+2021-06-24,950000,SW5 0DE,F,N,L,236 - 238,Flat 4,Old Brompton Road,,London
+2021-06-23,822000,SW5 9EZ,F,N,L,87,,Warwick Road,,London
+2021-06-22,1250000,SW5 9QR,F,N,L,Warwick Mansions,Flat 28,Cromwell Crescent,,London
+2021-06-21,500000,SW5 9TT,F,N,L,7C,,Penywern Road,,London
+2021-06-21,672500,SW5 9ET,F,N,L,"Flat 4, 110",,Philbeach Gardens,,London
+2021-06-18,862000,SW5 9PD,F,N,L,27H,,Nevern Square,,London
+2021-06-18,727000,SW5 0NU,F,N,L,35,Flat 4,Collingham Road,,London
+2021-06-18,760000,SW5 0BT,F,N,L,198,Third Floor Flat,Old Brompton Road,,London
+2021-06-18,1310000,SW5 0BJ,F,N,L,6,Flat 3,Cresswell Gardens,,London
+2021-06-17,735000,SW5 9ET,F,N,L,103,Flat 3,Philbeach Gardens,,London
+2021-06-14,750000,SW5 9HB,F,N,L,79,Flat C,Warwick Road,,London
+2021-06-11,1470000,SW5 0PJ,F,N,L,38,Flat 10,Courtfield Gardens,,London
+2021-06-10,3900000,SW5 0BQ,F,N,L,18,Flat 18,Cresswell Gardens,,London
+2021-06-04,815000,SW5 9LZ,F,N,L,8,Flat 6,Templeton Place,,London
+2021-06-04,850000,SW5 9EY,F,N,L,71,Flat 1,Philbeach Gardens,,London
+2021-06-04,962500,SW5 0JP,F,N,L,"Wetherby House, 20 - 21",Flat 14,Wetherby Gardens,,London
+2021-06-02,695000,SW5 0TR,F,N,L,29,Flat 3,Earls Court Gardens,,London
+2021-05-28,790000,SW5 9HN,F,N,L,Richmond Mansions,Flat 15A,Old Brompton Road,,London
+2021-05-28,1487500,SW5 0RF,T,N,F,25,,Wallgrave Road,,London
+2021-05-28,601000,SW5 0PT,F,N,L,14,Flat 3,Hogarth Road,,London
+2021-05-28,2295000,SW5 0JN,F,N,L,7,Flat 1,Wetherby Gardens,,London
+2021-05-28,2250000,SW5 0HJ,T,N,F,5,,Laverton Place,,London
+2021-05-28,2750000,SW5 0HH,T,N,F,12,,Hesper Mews,,London
+2021-05-24,720000,SW5 9JZ,F,N,L,24,Flat 3,Eardley Crescent,,London
+2021-05-21,475000,SW5 0SP,F,N,L,"Moscow Mansions, 224",Flat 28,Cromwell Road,,London
+2021-05-17,3800000,SW5 0ET,F,N,L,"Sheridan Court, 55 - 81",Flat 3,Barkston Gardens,,London
+2021-05-14,2450000,SW5 0ND,F,N,L,50,Flat 1A,Courtfield Gardens,,London
+2021-05-14,1100000,SW5 0HL,F,N,L,19,Flat 8,Collingham Gardens,,London
+2021-05-07,900000,SW5 9QN,F,N,L,7 - 8,Flat 7,Cromwell Crescent,,London
+2021-04-30,765000,SW5 0SJ,F,N,L,"Pentland House, 188",Flat C1,Cromwell Road,,London
+2021-04-30,1675000,SW5 0JJ,F,N,L,12,Flat 2,Bramham Gardens,,London
+2021-04-27,300000,SW5 9HL,F,N,L,Richmond Mansions,Flat 2B,Old Brompton Road,,London
+2021-04-19,550000,SW5 0ES,F,N,L,"Roberts Court, 45",Flat 4,Barkston Gardens,,London
+2021-04-16,950000,SW5 9DG,F,N,L,65,Flat 4,Earls Court Square,,London
+2021-04-16,1000000,SW5 0AQ,F,N,L,34 - 35,Flat 8,Bolton Gardens,,London
+2021-04-15,290900,SW5 0ER,F,N,L,9F,,Barkston Gardens,,London
+2021-04-09,807220,SW5 9DJ,F,N,L,Wetherby Mansions,Flat 2,Earls Court Square,,London
+2021-04-08,1025000,SW5 9HN,F,N,L,Richmond Mansions,Flat 13B,Old Brompton Road,,London
+2021-04-06,1600000,SW5 0JJ,F,N,L,12,Flat 1,Bramham Gardens,,London
+2021-03-31,1100000,SW5 0PH,F,N,L,26 - 28,Flat 21,Courtfield Gardens,,London
+2021-03-31,1850000,SW5 0AL,F,N,L,13,Flat 3,Bolton Gardens,,London
+2021-03-30,480000,SW5 9JT,F,N,L,67,Flat E,Eardley Crescent,,London
+2021-03-29,5875000,SW5 9DQ,T,N,F,38,,Earls Court Square,,London
+2021-03-29,1540500,SW5 0JJ,F,N,L,14,Flat 3,Bramham Gardens,,London
+2021-03-29,7850000,SW5 0AN,T,N,F,171,,Old Brompton Road,,London
+2021-03-26,950000,SW5 9DY,F,N,L,10 - 11,Flat 8,Philbeach Gardens,,London
+2021-03-24,500000,SW5 9NR,F,N,L,21,Flat 3,Nevern Place,,London
+2021-03-24,1450000,SW5 9BH,F,N,L,Wetherby Mansions,Flat 35,Earls Court Square,,London
+2021-03-22,1850000,SW5 9PE,F,N,L,33 - 34,Flat 4,Nevern Square,,London
+2021-03-19,800000,SW5 9PD,F,N,L,23A,,Nevern Square,,London
+2021-03-18,2150000,SW5 0JP,F,N,L,19,First Floor Flat,Wetherby Gardens,,London
+2021-03-17,1180000,SW5 9HL,F,N,L,Richmond Mansions,Flat 9,Old Brompton Road,,London
+2021-03-15,2250000,SW5 0ND,F,N,L,50,Flat 2,Courtfield Gardens,,London
+2021-03-12,815000,SW5 9PR,F,N,L,"Second Floor Flat, 10",,Nevern Place,,London
+2021-03-12,572325,SW5 9EB,F,N,L,47,Flat A,Philbeach Gardens,,London
+2021-03-12,1900000,SW5 0PD,F,N,L,21,Flat B,Courtfield Gardens,,London
+2021-03-12,1770000,SW5 0AL,F,N,L,11,Third Floor Flat 5,Bolton Gardens,,London
+2021-03-10,980000,SW5 0DA,F,N,L,226,Flat 1,Old Brompton Road,,London
+2021-03-05,900000,SW5 0HW,F,N,L,2,Flat 7,Collingham Gardens,,London
+2021-03-05,1420300,SW5 0ER,F,N,L,7,Flat 1,Barkston Gardens,,London
+2021-03-04,350000,SW5 9QR,F,N,L,Warwick Mansions,Flat 6,Cromwell Crescent,,London
+2021-03-04,530000,SW5 9JZ,F,N,L,48,Flat 5,Eardley Crescent,,London
+2021-03-04,1100000,SW5 0PY,F,N,L,4,Flat 5,Collingham Place,,London
+2021-03-01,415000,SW5 0TR,F,N,L,27,4,Earls Court Gardens,,London
+2021-03-01,270000,SW5 0ST,F,N,L,"Sherborne Court, 180 - 186",Flat 49,Cromwell Road,,London
+2021-03-01,370000,SW5 0ST,F,N,L,"Sherborne Court, 180 - 186",Flat 80,Cromwell Road,,London
+2021-03-01,365000,SW5 0SS,F,N,L,"Sherborne Court, 180 - 186",Flat 24,Cromwell Road,,London
+2021-03-01,260000,SW5 0SS,F,N,L,"Sherborne Court, 180 - 186",Flat 29,Cromwell Road,,London
+2021-02-26,1165000,SW5 9HN,F,N,L,Richmond Mansions,Flat 24,Old Brompton Road,,London
+2021-02-26,520000,SW5 0SS,F,N,L,"Sherborne Court, 180 - 186",Flat 41,Cromwell Road,,London
+2021-02-26,3150000,SW5 0JN,F,N,L,1,Flat 4B,Wetherby Gardens,,London
+2021-02-26,3150000,SW5 0JN,F,N,L,1,Flat 4A,Wetherby Gardens,,London
+2021-02-24,1500000,SW5 9BH,F,N,L,Wetherby Mansions,Flat 31A,Earls Court Square,,London
+2021-02-17,1430000,SW5 9DH,F,N,L,Herbert Court Mansions,Flat 5A,Earls Court Square,,London
+2021-02-15,999000,SW5 9QR,F,N,L,Warwick Mansions,Flat 20,Cromwell Crescent,,London
+2021-02-15,1235000,SW5 0AN,F,N,L,181,Flat 3,Old Brompton Road,,London
+2021-02-12,3675000,SW5 0NJ,F,N,L,69,Flat 1,Courtfield Gardens,,London
+2021-02-12,1310000,SW5 0HQ,F,N,L,45,Flat 6,Bramham Gardens,,London
+2021-02-05,535000,SW5 9NW,F,N,L,8,Flat 5,Nevern Square,,London
+2021-02-03,610000,SW5 0LD,F,N,L,"Spicer House, 3",Flat 3,Bina Gardens,,London
+2021-01-25,1180000,SW5 9AS,F,N,L,284,Basement Flat,Earls Court Road,,London
+2021-01-22,820000,SW5 9DY,F,N,L,8,Flat 5,Philbeach Gardens,,London
+2021-01-22,820000,SW5 9DY,F,N,L,8,Flat 5,Philbeach Gardens,,London
+2021-01-22,2390000,SW5 0NJ,F,N,L,71,Ground Floor Flat,Courtfield Gardens,,London
+2021-01-19,520000,SW5 9DN,F,N,L,22,Flat 4,Earls Court Square,,London
+2021-01-14,1650000,SW5 0BL,F,N,L,2,Flat 3,Gledhow Gardens,,London
+2021-01-08,610000,SW5 0PH,F,N,L,34,Flat 8,Courtfield Gardens,,London
+2021-01-08,596000,SW5 0PH,F,N,L,32,Flat 5,Courtfield Gardens,,London
+2021-01-08,1850000,SW5 0DX,F,N,L,Coleherne Court,Flat 166,Redcliffe Gardens,,London

@@ -1,0 +1,2327 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-25,35138,SR7 0LF,T,N,F,5,,Manor Hall Close,,Seaham
+2026-08-20,25000,SR7 8BJ,T,N,F,176,,Malvern Crescent,,Seaham
+2026-08-14,363000,SR7 7BQ,D,N,F,18,,Dene House Road,,Seaham
+2026-08-10,255000,SR7 9BD,D,N,F,18,,Morton Close,Murton,Seaham
+2026-08-07,125000,SR7 7DY,F,N,L,10,,Mappleton Drive,,Seaham
+2026-08-07,181000,SR7 0LG,S,N,F,10,,Eppleton Hall Close,,Seaham
+2026-08-07,277000,SR7 0JQ,S,N,L,49,,Burdon Crescent,,Seaham
+2026-08-06,190000,SR7 7RN,D,N,F,34,,Chestnut Way,,Seaham
+2026-08-06,165000,SR7 7FA,T,N,F,3,,Roseberry Close,,Seaham
+2026-08-05,220000,SR7 7DZ,S,N,F,8,,Mulberry Way,,Seaham
+2026-08-05,205000,SR7 7DY,T,N,F,24,,Mappleton Drive,,Seaham
+2026-08-03,122500,SR7 8JJ,S,N,F,100,,Windermere Road,,Seaham
+2026-07-31,36000,SR7 7TL,S,N,F,29,,Grants Crescent,,Seaham
+2026-07-27,10000,SR7 9SB,S,N,F,16,,Jedburgh Close,Murton,Seaham
+2026-07-24,74400,SR7 8NP,T,N,F,4,,Laurel Avenue,,Seaham
+2026-07-24,124000,SR7 8LR,T,N,F,4,,Exeter Avenue,,Seaham
+2026-07-24,232500,SR7 7WX,D,N,F,32,,Marsdon Way,,Seaham
+2026-07-24,155000,SR7 7LH,T,N,F,31,,Alfred Street,,Seaham
+2026-07-17,130000,SR7 8BD,T,N,F,173,,The Avenue,,Seaham
+2026-07-17,200000,SR7 7ST,S,N,F,6,,Victoria Street,,Seaham
+2026-07-17,95000,SR7 7RL,T,N,F,19,,Cottages Road,,Seaham
+2026-07-17,160000,SR7 0EF,S,N,F,12,,Normanby Close,,Seaham
+2026-07-17,170000,SR7 0EA,S,N,F,1,,Norfolk Close,,Seaham
+2026-07-10,145000,SR7 9SD,D,N,F,48,,Melrose Avenue,Murton,Seaham
+2026-07-10,99950,SR7 7QN,T,N,F,28,,Hill Street,,Seaham
+2026-07-10,149950,SR7 7JW,S,N,F,20,,Linthorpe Avenue,,Seaham
+2026-07-10,440000,SR7 7BQ,D,N,F,25,,Dene House Road,,Seaham
+2026-07-10,240000,SR7 0EH,S,N,F,49,,Neasham Road,,Seaham
+2026-07-09,365000,SR7 8DF,D,N,F,70,,Weymouth Drive,Dalton Le Dale,Seaham
+2026-07-03,89950,SR7 9GW,S,N,L,40,,Grenaby Way,Murton,Seaham
+2026-07-03,60000,SR7 8AF,T,N,F,72,,Bethune Avenue,,Seaham
+2026-07-03,430000,SR7 7SX,D,N,F,Dale View,,Camden Square,,Seaham
+2026-07-03,430000,SR7 7SX,D,N,F,Dale View,,Camden Square,,Seaham
+2026-07-03,135000,SR7 7QN,T,N,F,29,,Hill Street,,Seaham
+2026-07-03,58000,SR7 7NA,T,N,F,12,,Mount Stewart Street,,Seaham
+2026-07-02,190000,SR7 7PU,S,N,F,56,,St Helens Drive,,Seaham
+2026-07-01,135000,SR7 7DY,F,N,L,40,,Mappleton Drive,,Seaham
+2026-06-30,285000,SR7 9GY,D,N,F,2,,Foxdale Court,Murton,Seaham
+2026-06-30,175000,SR7 7WU,T,N,F,8,,Alnmouth Way,,Seaham
+2026-06-30,445000,SR7 7WL,D,N,F,22,,Boulmer Lea,,Seaham
+2026-06-29,162500,SR7 9BD,T,N,F,69,,Morton Close,Murton,Seaham
+2026-06-26,375000,SR7 7WX,D,N,F,19,,Marsdon Way,,Seaham
+2026-06-25,93999,SR7 9JN,T,N,F,22,,Trevone Square,Murton,Seaham
+2026-06-22,125000,SR7 9SA,S,N,F,1,,Melrose Avenue,Murton,Seaham
+2026-06-22,243000,SR7 9DL,D,N,F,22,,Broadoaks,Murton,Seaham
+2026-06-19,220000,SR7 9TG,D,N,F,52,,Winds Lonnen,Murton,Seaham
+2026-06-19,140000,SR7 9BD,T,N,F,40,,Morton Close,Murton,Seaham
+2026-06-19,285000,SR7 7ST,T,N,F,10,,Victoria Street,,Seaham
+2026-06-19,53000,SR7 0HL,F,N,L,16,,Dovedale Court,,Seaham
+2026-06-12,83500,SR7 9NW,T,N,F,7,,Fife Street,Murton,Seaham
+2026-06-12,162000,SR7 8EY,T,N,F,18,,Doreen Avenue,Dalton Le Dale,Seaham
+2026-06-12,109000,SR7 0HR,T,N,F,9,,Park View,,Seaham
+2026-06-11,120000,SR7 9SW,S,N,F,22,,Station Estate South,Murton,Seaham
+2026-06-11,110000,SR7 9NH,S,N,F,9,,Grasmere Terrace,Murton,Seaham
+2026-06-08,80000,SR7 9DF,T,N,F,39,,Matthews Road,Murton,Seaham
+2026-06-05,299950,SR7 7DG,D,N,F,48,,Stoneycroft Way,,Seaham
+2026-06-05,195000,SR7 7DG,S,N,F,32,,Stoneycroft Way,,Seaham
+2026-06-05,251000,SR7 7DG,S,N,F,15,,Stoneycroft Way,,Seaham
+2026-06-05,147500,SR7 0AS,T,N,F,9,,Ranksborough Street,,Seaham
+2026-05-29,127000,SR7 8AP,T,N,F,9,,Milton Close,,Seaham
+2026-05-29,65000,SR7 7TX,T,N,F,7,,Eloise Close,,Seaham
+2026-05-29,225000,SR7 7SQ,T,N,F,5,,Clarence Street,,Seaham
+2026-05-29,245000,SR7 7RU,D,N,F,3,,Almond Way,,Seaham
+2026-05-29,87500,SR7 7QN,T,N,F,5,,Hill Street,,Seaham
+2026-05-29,135000,SR7 7PU,S,N,F,27,,St Helens Drive,,Seaham
+2026-05-29,265000,SR7 7PA,D,N,F,1,,Aspen Grove,,Seaham
+2026-05-29,202500,SR7 7DZ,S,N,F,36,,Mulberry Way,,Seaham
+2026-05-29,95000,SR7 0AR,T,N,F,7,,Rutland Street,,Seaham
+2026-05-29,145000,SR7 0AR,T,N,F,6,,Rutland Street,,Seaham
+2026-05-28,147000,SR7 8LA,S,N,F,4,,Galfrid Close,Dalton Le Dale,Seaham
+2026-05-28,150000,SR7 0BY,S,N,F,29,,Cheviot Gardens,,Seaham
+2026-05-27,124000,SR7 7UT,S,N,F,2,,Maple Crescent,,Seaham
+2026-05-22,123000,SR7 9NS,T,N,F,13A,,Brooklyn Terrace North,Murton,Seaham
+2026-05-22,73500,SR7 8NJ,T,N,F,64,,Jasper Avenue,,Seaham
+2026-05-22,67000,SR7 8BP,T,N,F,1,,Saturn Street,,Seaham
+2026-05-22,125000,SR7 0DT,S,N,F,11,,Napier Road,,Seaham
+2026-05-22,154000,SR7 0AF,S,N,F,16,,Thornhill Reach,,Seaham
+2026-05-20,195000,SR7 8SB,S,N,F,27,,West Lane,Hawthorn,Seaham
+2026-05-18,80000,SR7 9HQ,S,N,F,59,,Metcalf Crescent,Murton,Seaham
+2026-05-18,110000,SR7 7JZ,T,N,F,4,,Ropery Walk,,Seaham
+2026-05-18,117000,SR7 7DZ,T,N,F,22,,Mulberry Way,,Seaham
+2026-05-15,159995,SR7 7WN,S,N,F,17,,Hunstanton,,Seaham
+2026-05-15,500000,SR7 7WL,D,N,F,20,,Boulmer Lea,,Seaham
+2026-05-15,120000,SR7 0JZ,T,N,F,135,,Melrose Crescent,,Seaham
+2026-05-15,150000,SR7 0EZ,S,N,F,55,,Burnhall Drive,,Seaham
+2026-05-14,147000,SR7 7BU,T,N,F,99,,Dene House Road,,Seaham
+2026-05-13,70000,SR7 7RL,T,N,F,17,,Cottages Road,,Seaham
+2026-05-13,157000,SR7 0BY,S,N,F,49,,Cheviot Gardens,,Seaham
+2026-05-11,210000,SR7 7DG,S,N,F,39,,Stoneycroft Way,,Seaham
+2026-05-07,155000,SR7 7PT,S,N,F,45,,Hazel Dene Way,,Seaham
+2026-05-01,146000,SR7 9SA,T,N,F,21,,Melrose Avenue,Murton,Seaham
+2026-05-01,31000,SR7 7FB,T,N,F,3,,Elderberry Close,,Seaham
+2026-05-01,90000,SR7 0HX,T,N,F,21,,Byron Terrace,,Seaham
+2026-05-01,63500,SR7 0HL,F,N,L,21,,Dovedale Court,,Seaham
+2026-04-30,100000,SR7 9LX,T,N,F,18,,Glebe View,Murton,Seaham
+2026-04-30,40000,SR7 0HL,F,N,L,22,,Dovedale Court,,Seaham
+2026-04-29,195000,SR7 9RE,S,N,F,20,,Church Lane,Murton,Seaham
+2026-04-29,100000,SR7 7QZ,T,N,F,14,,Queen Alexandra Road,,Seaham
+2026-04-24,99950,SR7 9RR,T,N,F,6,,Station Road North,Murton,Seaham
+2026-04-24,92000,SR7 8LG,T,N,F,23,,The Avenue,,Seaham
+2026-04-24,79500,SR7 8DZ,S,N,F,20,,Essex Crescent,,Seaham
+2026-04-21,150000,SR7 8HZ,S,N,F,47,,Watling Avenue,,Seaham
+2026-04-20,148500,SR7 0BY,T,N,F,57,,Cheviot Gardens,,Seaham
+2026-04-17,82500,SR7 8PZ,T,N,F,7,,Dunelm Terrace,Dalton Le Dale,Seaham
+2026-04-17,185000,SR7 0EW,S,N,F,5,,Burnhall Drive,,Seaham
+2026-04-13,55000,SR7 8ED,S,N,F,36,,Eastlea Road,,Seaham
+2026-04-10,80000,SR7 7NA,S,N,F,58,,Mount Stewart Street,,Seaham
+2026-04-09,78000,SR7 0JZ,T,N,F,44,,Melrose Crescent,,Seaham
+2026-04-08,170000,SR7 9GX,T,N,F,17,,Dalby Grove,Murton,Seaham
+2026-04-07,152000,SR7 8HP,S,N,F,32,,Wycliffe Road,,Seaham
+2026-04-07,190000,SR7 7SE,T,N,F,22,,Adolphus Street West,,Seaham
+2026-04-06,110000,SR7 8JD,D,N,F,66,,Watling Avenue,,Seaham
+2026-03-31,92000,SR7 7EB,F,N,L,21,,Mariners Way,,Seaham
+2026-03-27,60000,SR7 8QE,S,N,F,4,,Strangford Road,,Seaham
+2026-03-27,200000,SR7 8JY,S,N,F,7,,Bowes Avenue,Dalton Le Dale,Seaham
+2026-03-27,140000,SR7 8JS,S,N,F,87,,Warkworth Crescent,,Seaham
+2026-03-27,380000,SR7 8DE,D,N,F,2,,Dawlish Close,,Seaham
+2026-03-27,165000,SR7 7DG,S,N,F,21,,Stoneycroft Way,,Seaham
+2026-03-23,83000,SR7 9BL,T,N,F,2,,Windsor Terrace South,Murton,Seaham
+2026-03-20,137000,SR7 0JY,T,N,F,6,,Byron Lodge Estate,,Seaham
+2026-03-20,265000,SR7 0JP,S,N,F,36,,Haverley Drive,,Seaham
+2026-03-13,85000,SR7 8BQ,T,N,F,218,,The Avenue,,Seaham
+2026-03-13,100000,SR7 7LX,T,N,F,51,,Wynyard Street,,Seaham
+2026-03-13,100000,SR7 0ER,S,N,F,15,,Woodlands,,Seaham
+2026-03-12,100000,SR7 0AX,T,N,F,10,,Sutherland Street,,Seaham
+2026-03-11,115000,SR7 8LZ,T,N,F,25,,Grantham Avenue,,Seaham
+2026-03-11,138000,SR7 8BQ,T,N,F,198,,The Avenue,,Seaham
+2026-03-11,105000,SR7 7QS,T,N,F,1,,Rainton Street,,Seaham
+2026-03-11,78000,SR7 7QN,T,N,F,22,,Hill Street,,Seaham
+2026-03-11,95000,SR7 0JJ,S,N,L,18,,Leechmere Crescent,,Seaham
+2026-03-09,130000,SR7 0DZ,S,N,F,27,,Norton Avenue,,Seaham
+2026-03-06,122500,SR7 8JL,S,N,F,18,,Wedgewood Road,,Seaham
+2026-03-06,100000,SR7 8EE,S,N,F,23,,Eastlea Crescent,,Seaham
+2026-03-06,105000,SR7 7TG,T,N,F,6,,Park Street,,Seaham
+2026-03-05,120000,SR7 9BF,T,N,F,1,,Denewood,Murton,Seaham
+2026-03-05,188500,SR7 8LD,S,N,F,28,,Beldon Close,Dalton Le Dale,Seaham
+2026-03-05,140000,SR7 7HQ,S,N,F,23,,Church Street,,Seaham
+2026-03-05,231000,SR7 7EB,T,N,L,52,,Mariners Way,,Seaham
+2026-03-04,110000,SR7 0AN,T,N,F,12,,St Aldwyn Road,,Seaham
+2026-02-27,95000,SR7 9SJ,S,N,F,28,,Station Estate North,Murton,Seaham
+2026-02-27,185000,SR7 9HP,S,N,F,12,,Lumsden Square,Murton,Seaham
+2026-02-27,85000,SR7 8NA,T,N,F,12,,Hexham Avenue,,Seaham
+2026-02-27,195000,SR7 0LG,S,N,F,6,,Eppleton Hall Close,,Seaham
+2026-02-27,115000,SR7 0LA,S,N,F,161,,Melrose Crescent,,Seaham
+2026-02-27,138000,SR7 0JX,S,N,F,16,,Rutherford Avenue,,Seaham
+2026-02-27,80000,SR7 0DQ,T,N,F,26,,Duke Street,,Seaham
+2026-02-26,113000,SR7 7UZ,T,N,F,66,,Parkside Crescent,,Seaham
+2026-02-26,130000,SR7 0AL,T,N,F,5,,Swallow Street,,Seaham
+2026-02-25,215000,SR7 7WP,S,N,F,19,,Caister Close,,Seaham
+2026-02-25,472500,SR7 0DB,D,N,F,13,,Field House Farm,,Seaham
+2026-02-24,170000,SR7 7ST,T,N,F,13,,Victoria Street,,Seaham
+2026-02-23,265000,SR7 0LU,S,N,L,12,,Seaton Grove,,Seaham
+2026-02-23,285000,SR7 0ET,F,N,F,25,,Burnway,,Seaham
+2026-02-23,160000,SR7 0DW,T,N,F,1,,Durham Street,,Seaham
+2026-02-20,61753,SR7 9AS,T,N,F,4,,James Street South,Murton,Seaham
+2026-02-20,65000,SR7 7RF,T,N,F,12,,Maglona Street,,Seaham
+2026-02-20,285000,SR7 7EA,T,N,L,28,,Marquess Point,,Seaham
+2026-02-20,750000,SR7 0NW,T,N,F,Old Burdon Hamlet,2,Old Burdon,Seaton,Seaham
+2026-02-20,75000,SR7 0DH,T,N,F,15,,Earl Street,,Seaham
+2026-02-17,60000,SR7 7NB,T,N,F,11,,Londonderry Street,,Seaham
+2026-02-13,124000,SR7 7EA,F,N,L,21,,Marquess Point,,Seaham
+2026-02-13,195000,SR7 0BY,D,N,F,8,,Cheviot Gardens,,Seaham
+2026-02-12,65000,SR7 7RA,T,N,F,36,,Stavordale Street West,,Seaham
+2026-02-10,107000,SR7 9JN,T,N,F,10,,Trevone Square,Murton,Seaham
+2026-02-10,110000,SR7 8NQ,T,N,F,28,,Jasper Avenue,,Seaham
+2026-02-06,150000,SR7 7ST,T,N,F,15,,Victoria Street,,Seaham
+2026-01-30,95000,SR7 9PN,S,N,F,25,,Ripon Terrace,Murton,Seaham
+2026-01-30,152500,SR7 9HX,T,N,F,49,,Douglas Way,Murton,Seaham
+2026-01-30,235000,SR7 8DF,D,N,F,38,,Weymouth Drive,Dalton Le Dale,Seaham
+2026-01-30,185000,SR7 7RR,D,N,F,7,,Cherry Grove,,Seaham
+2026-01-28,82000,SR7 9TE,S,N,F,61,,Short Grove,Murton,Seaham
+2026-01-26,54750,SR7 8LJ,T,N,F,8,,Dalton Avenue,,Seaham
+2026-01-23,70000,SR7 0AU,T,N,F,34,,Stanley Street,,Seaham
+2026-01-22,170000,SR7 8JZ,S,N,F,31,,Escallond Drive,Dalton Le Dale,Seaham
+2026-01-19,102000,SR7 0AZ,T,N,F,29,,Oliver Street,,Seaham
+2026-01-16,39500,SR7 9BL,T,N,F,5,,Windsor Terrace South,Murton,Seaham
+2026-01-16,162000,SR7 7TL,S,N,F,42,,Grants Crescent,,Seaham
+2026-01-16,153000,SR7 7PT,S,N,F,3,,Hazel Dene Way,,Seaham
+2026-01-16,161000,SR7 7DZ,S,N,F,21,,Mulberry Way,,Seaham
+2026-01-15,128999,SR7 9PL,S,N,F,7,,Porter Terrace,Murton,Seaham
+2026-01-14,113000,SR7 7TB,T,N,F,111,,Princess Road,,Seaham
+2026-01-09,46000,SR7 9RG,T,N,F,1,,West Avenue,Murton,Seaham
+2026-01-08,100000,SR7 9SU,S,N,F,74,,Station Estate North,Murton,Seaham
+2026-01-08,220000,SR7 9RS,S,N,F,3,,Station Road South,Murton,Seaham
+2026-01-08,64000,SR7 9DG,T,N,F,12,,Matthews Road,Murton,Seaham
+2026-01-08,75999,SR7 9DE,T,N,F,4,,Forster Avenue,Murton,Seaham
+2026-01-07,60000,SR7 9EP,S,N,F,10,,Shinwell Terrace,Murton,Seaham
+2026-01-06,120000,SR7 8RX,S,N,F,6,,Glencot Grove,Hawthorn,Seaham
+2025-12-31,96999,SR7 9AP,T,N,F,8,,Henry Street South,Murton,Seaham
+2025-12-19,147600,SR7 0ED,S,N,F,42,,Newark Crescent,,Seaham
+2025-12-18,155000,SR7 7LH,T,N,F,29,,Alfred Street,,Seaham
+2025-12-17,345617,SR7 8SJ,D,N,F,5,,Barn Hollows,Hawthorn,Seaham
+2025-12-17,83000,SR7 8LZ,T,N,F,31,,Grantham Avenue,,Seaham
+2025-12-17,84000,SR7 8EU,T,N,L,19,,Jubilee Avenue,Dalton Le Dale,Seaham
+2025-12-17,166650,SR7 7FA,T,N,F,14,,Roseberry Close,,Seaham
+2025-12-12,71000,SR7 8DZ,T,N,F,16,,Essex Crescent,,Seaham
+2025-12-12,75000,SR7 7UB,D,N,F,Seaview House,,Parkside Road,,Seaham
+2025-12-12,235000,SR7 7SU,T,N,F,1,,Springfield Crescent,,Seaham
+2025-12-12,679950,SR7 7DW,D,N,F,"The Limes, 2",,Countess Close,,Seaham
+2025-12-12,115000,SR7 0PG,T,N,F,3,,Hall Close,,Seaham
+2025-12-12,167000,SR7 0EH,T,N,F,52,,Neasham Road,,Seaham
+2025-12-11,275000,SR7 8HG,D,N,F,22,,Weymouth Drive,Dalton Le Dale,Seaham
+2025-12-11,90000,SR7 7UD,T,N,F,11,,Parkside Crescent,,Seaham
+2025-12-10,76500,SR7 7LG,T,N,F,13,,Candlish Terrace,,Seaham
+2025-12-09,159950,SR7 9RS,S,N,F,1,,Station Road South,Murton,Seaham
+2025-12-08,138000,SR7 8AP,T,N,F,21,,Milton Close,,Seaham
+2025-12-05,80000,SR7 9PH,T,N,F,9,,Edison Street,Murton,Seaham
+2025-12-05,115000,SR7 8EX,T,N,F,19,,Queens Avenue,Dalton Le Dale,Seaham
+2025-12-05,120000,SR7 7DZ,S,N,F,6,,Mulberry Way,,Seaham
+2025-12-05,240000,SR7 0LJ,S,N,F,19,,Pacific Hall Close,,Seaham
+2025-12-05,80000,SR7 0HX,T,N,F,27,,Byron Terrace,,Seaham
+2025-12-04,123000,SR7 9LS,S,N,F,7,,Hesledon Walk,Murton,Seaham
+2025-12-04,70000,SR7 8BP,T,N,F,13,,Saturn Street,,Seaham
+2025-11-28,118000,SR7 9SN,S,N,F,40,,Station Estate North,Murton,Seaham
+2025-11-28,248000,SR7 7WG,D,N,F,50,,Beadnell Drive,,Seaham
+2025-11-28,110000,SR7 7UJ,T,N,F,26,,Fern Crescent,,Seaham
+2025-11-28,157500,SR7 7AL,D,N,F,15,,Tintagel Drive,,Seaham
+2025-11-27,74000,SR7 9NE,F,N,L,18,,Dreswick Court,Murton,Seaham
+2025-11-27,248000,SR7 9GQ,D,N,F,2,,Ramsey Grove,Murton,Seaham
+2025-11-27,68000,SR7 7TX,S,N,F,10,,Eloise Close,,Seaham
+2025-11-27,320000,SR7 7SN,T,N,F,18,,Maureen Terrace,,Seaham
+2025-11-24,265000,SR7 9TG,D,N,F,48,,Winds Lonnen,Murton,Seaham
+2025-11-24,95000,SR7 9HS,S,N,F,12,,Farmer Crescent,Murton,Seaham
+2025-11-24,100000,SR7 9EG,T,N,F,18,,Burnip Road,Murton,Seaham
+2025-11-21,115000,SR7 9RF,T,N,F,11,,Vicarage Terrace,Murton,Seaham
+2025-11-21,151000,SR7 9JT,T,N,F,1,,Penzance Court,Murton,Seaham
+2025-11-21,93500,SR7 8AE,T,N,F,16,,Bethune Avenue,,Seaham
+2025-11-21,205000,SR7 7WN,S,N,F,23,,Hunstanton,,Seaham
+2025-11-21,50000,SR7 7RA,T,N,F,26,,Stavordale Street West,,Seaham
+2025-11-21,120000,SR7 0JZ,T,N,F,83,,Melrose Crescent,,Seaham
+2025-11-20,185500,SR7 8RX,S,N,F,1,,Glencot Grove,Hawthorn,Seaham
+2025-11-20,140000,SR7 0AR,T,N,F,9,,Rutland Street,,Seaham
+2025-11-19,75000,SR7 8BB,T,N,F,143,,The Avenue,,Seaham
+2025-11-18,115000,SR7 7TN,T,N,F,6,,Dillon Street,,Seaham
+2025-11-18,214000,SR7 7SE,T,N,F,14,,Adolphus Street West,,Seaham
+2025-11-18,176000,SR7 0DQ,T,N,F,6,,Duke Street,,Seaham
+2025-11-14,80000,SR7 9GW,F,N,L,11,,Grenaby Way,Murton,Seaham
+2025-11-14,47500,SR7 9AH,T,N,F,15,,Glenhurst Terrace,Murton,Seaham
+2025-11-14,160000,SR7 8JA,S,N,F,7,,Walpole Avenue,,Seaham
+2025-11-13,80000,SR7 9BG,T,N,F,27,,West Coronation Street,Murton,Seaham
+2025-11-13,115000,SR7 7UF,T,N,F,58,,Ash Crescent,,Seaham
+2025-11-12,235000,SR7 7EA,F,N,L,9,,Marquess Point,,Seaham
+2025-11-11,240000,SR7 7PU,D,N,F,46,,St Helens Drive,,Seaham
+2025-11-11,85000,SR7 0LA,T,N,F,175,,Melrose Crescent,,Seaham
+2025-11-10,105000,SR7 8JF,T,N,F,19,,Wolsey Road,,Seaham
+2025-11-09,258000,SR7 0PQ,D,N,F,18,,Middleton Close,Seaton,Seaham
+2025-11-07,90000,SR7 8NQ,T,N,F,25,,Jasper Avenue,,Seaham
+2025-11-07,105000,SR7 8EU,T,N,L,27,,Jubilee Avenue,Dalton Le Dale,Seaham
+2025-11-07,82000,SR7 7QN,T,N,F,18,,Hill Street,,Seaham
+2025-11-07,123000,SR7 0HX,T,N,F,31,,Byron Terrace,,Seaham
+2025-11-06,390000,SR7 7WX,D,N,F,57,,Marsdon Way,,Seaham
+2025-11-03,153000,SR7 9SD,T,N,F,45,,Melrose Avenue,Murton,Seaham
+2025-10-31,70000,SR7 9TE,S,N,F,65,,Short Grove,Murton,Seaham
+2025-10-31,195000,SR7 8LD,S,N,F,45,,Beldon Close,Dalton Le Dale,Seaham
+2025-10-31,170000,SR7 7JW,S,N,F,3,,Linthorpe Avenue,,Seaham
+2025-10-31,86000,SR7 7EB,F,N,L,21,,Mariners Way,,Seaham
+2025-10-31,226500,SR7 7DZ,D,N,F,59,,Mulberry Way,,Seaham
+2025-10-31,208000,SR7 0PJ,S,N,F,25,,Blaykeston Close,,Seaham
+2025-10-31,140000,SR7 0ED,S,N,F,22,,Newark Crescent,,Seaham
+2025-10-30,680000,SR7 9QS,D,N,F,Murton Farm Steading,3,The Village,Murton,Seaham
+2025-10-30,110000,SR7 8JL,S,N,F,8,,Wedgewood Road,,Seaham
+2025-10-29,135000,SR7 8HP,S,N,F,44,,Wycliffe Road,,Seaham
+2025-10-29,280000,SR7 7WP,D,N,F,9,,Caister Close,,Seaham
+2025-10-29,365000,SR7 7WF,D,N,F,7,,Staithes Court,,Seaham
+2025-10-29,385000,SR7 7BQ,D,N,F,16,,Dene House Road,,Seaham
+2025-10-27,59950,SR7 9RH,S,N,F,24,,Williams Road,Murton,Seaham
+2025-10-24,112000,SR7 8DU,S,N,F,24,,Evesham Road,,Seaham
+2025-10-24,82500,SR7 7LB,T,N,F,25,,Stewart Street East,,Seaham
+2025-10-24,254000,SR7 0LG,S,N,F,7,,Eppleton Hall Close,,Seaham
+2025-10-24,76000,SR7 0JX,S,N,F,29,,Rutherford Avenue,,Seaham
+2025-10-24,127000,SR7 0DP,T,N,F,23,,Newlands Road East,,Seaham
+2025-10-22,115000,SR7 8PA,T,N,F,103,,The Avenue,,Seaham
+2025-10-22,105000,SR7 8JF,S,N,F,6,,Wolsey Road,,Seaham
+2025-10-22,110000,SR7 8EE,T,N,F,26,,Eastlea Crescent,,Seaham
+2025-10-22,91000,SR7 8AP,S,N,F,37,,Milton Close,,Seaham
+2025-10-22,100000,SR7 7TH,T,N,F,23,,Corcyra Street,,Seaham
+2025-10-22,435000,SR7 7BJ,D,N,F,Denehouse Cottage,,Dene House Road,,Seaham
+2025-10-21,287500,SR7 8JY,D,N,F,18,,Bowes Avenue,Dalton Le Dale,Seaham
+2025-10-21,253000,SR7 7PT,D,N,F,56,,Hazel Dene Way,,Seaham
+2025-10-21,140000,SR7 0DU,S,N,F,7,,Newark Crescent,,Seaham
+2025-10-21,160000,SR7 0DJ,S,N,F,57,,Northlea Road,,Seaham
+2025-10-20,220000,SR7 7BH,S,N,F,1,,Northdene Avenue,,Seaham
+2025-10-17,102000,SR7 9HD,S,N,F,4,,Lumsden Square,Murton,Seaham
+2025-10-17,78000,SR7 9DG,T,N,F,20,,Matthews Road,Murton,Seaham
+2025-10-17,180000,SR7 0DL,S,N,F,18,,Northlea Road,,Seaham
+2025-10-16,235000,SR7 0EH,S,N,L,45,,Neasham Road,,Seaham
+2025-10-15,96000,SR7 9BF,T,N,F,77,,Denewood,Murton,Seaham
+2025-10-14,145000,SR7 8LZ,T,N,F,17,,Grantham Avenue,,Seaham
+2025-10-09,118000,SR7 8NA,T,N,F,20,,Hexham Avenue,,Seaham
+2025-10-09,130000,SR7 8AP,T,N,F,20,,Milton Close,,Seaham
+2025-10-06,115000,SR7 9PR,S,N,F,7,,Williams Road,Murton,Seaham
+2025-10-06,67000,SR7 8NW,T,N,F,20,,Kingston Avenue,,Seaham
+2025-10-06,270000,SR7 8HG,D,N,F,16,,Weymouth Drive,Dalton Le Dale,Seaham
+2025-10-06,270000,SR7 7WF,D,N,F,11,,Staithes Court,,Seaham
+2025-10-06,310000,SR7 7BH,S,N,F,12,,Northdene Avenue,,Seaham
+2025-10-03,119950,SR7 7UQ,S,N,F,39,,Parkside Crescent,,Seaham
+2025-10-03,180000,SR7 7JP,T,N,F,2,,Adolphus Place,,Seaham
+2025-10-03,179950,SR7 7AU,T,N,F,10,,Vane Terrace,,Seaham
+2025-10-02,85000,SR7 8DG,S,N,F,57,,Windsor Road,,Seaham
+2025-10-01,100000,SR7 9HT,S,N,F,44,,Bevan Square,Murton,Seaham
+2025-10-01,110000,SR7 8AF,T,N,F,86,,Bethune Avenue,,Seaham
+2025-10-01,101000,SR7 7QH,T,N,F,3,,Union Street,,Seaham
+2025-09-30,100000,SR7 9EG,S,N,F,4,,Burnip Road,Murton,Seaham
+2025-09-30,110000,SR7 7UN,T,N,F,63,,Fern Crescent,,Seaham
+2025-09-26,80000,SR7 9PY,S,N,F,13,,Gray Avenue,Murton,Seaham
+2025-09-26,110000,SR7 9BD,T,N,F,29,,Morton Close,Murton,Seaham
+2025-09-26,245000,SR7 7PT,D,N,F,27,,Hazel Dene Way,,Seaham
+2025-09-26,145000,SR7 0BF,D,N,F,7,,Hambleton Drive,,Seaham
+2025-09-25,185000,SR7 7SX,T,N,F,10,,Camden Square,,Seaham
+2025-09-19,430000,SR7 7WL,D,N,F,8,,Boulmer Lea,,Seaham
+2025-09-19,170000,SR7 0HH,D,N,F,5,,Seaton Park,,Seaham
+2025-09-18,93000,SR7 8NG,T,N,F,27,,Ivy Avenue,,Seaham
+2025-09-18,140000,SR7 0DR,T,N,F,10,,Northwood Road,,Seaham
+2025-09-15,270000,SR7 7DG,D,N,F,42,,Stoneycroft Way,,Seaham
+2025-09-15,100000,SR7 0AU,T,N,F,66,,Stanley Street,,Seaham
+2025-09-15,136000,SR7 0AP,T,N,F,12,,Parkland Terrace,,Seaham
+2025-09-10,385000,SR7 7WF,D,N,F,8,,Staithes Court,,Seaham
+2025-09-09,60000,SR7 8LU,T,N,F,49,,Frank Avenue,,Seaham
+2025-09-09,60000,SR7 0DQ,T,N,F,36,,Duke Street,,Seaham
+2025-09-09,65625,SR7 0AS,T,N,F,38,,Ranksborough Street,,Seaham
+2025-09-05,155000,SR7 7TR,S,N,F,19,,Grants Crescent,,Seaham
+2025-09-05,252000,SR7 0LS,S,N,F,Holly Lodge,,Seaton Lane,Seaton,Seaham
+2025-09-03,125000,SR7 8JP,S,N,F,20,,Wordsworth Avenue,,Seaham
+2025-09-02,172500,SR7 0EG,S,N,F,1,,Neasham Road,,Seaham
+2025-09-01,137000,SR7 9SB,S,N,F,1,,Jedburgh Close,Murton,Seaham
+2025-09-01,66500,SR7 9DE,T,N,F,13,,Forster Avenue,Murton,Seaham
+2025-09-01,99930,SR7 7LX,T,N,F,55,,Wynyard Street,,Seaham
+2025-09-01,249950,SR7 7AL,D,N,F,12,,Tintagel Drive,,Seaham
+2025-08-29,192000,SR7 9RY,S,N,L,26,,Station Road North,Murton,Seaham
+2025-08-29,84000,SR7 9NE,F,N,L,41,,Dreswick Court,Murton,Seaham
+2025-08-29,43500,SR7 8DP,S,N,F,1,,Everton Drive,,Seaham
+2025-08-29,53000,SR7 7QH,T,N,F,12,,Union Street,,Seaham
+2025-08-29,192000,SR7 0HA,T,N,F,74,,Burnhall Drive,,Seaham
+2025-08-28,53000,SR7 9GW,S,N,L,40,,Grenaby Way,Murton,Seaham
+2025-08-22,120000,SR7 9SD,S,N,F,62,,Melrose Avenue,Murton,Seaham
+2025-08-22,193000,SR7 9GX,S,N,F,8,,Dalby Grove,Murton,Seaham
+2025-08-22,70000,SR7 7LN,T,N,F,45,,Strangways Street,,Seaham
+2025-08-22,165000,SR7 7LJ,T,N,F,27,,Albert Street,,Seaham
+2025-08-22,197000,SR7 7DZ,S,N,F,36,,Mulberry Way,,Seaham
+2025-08-21,485000,SR7 8LB,D,N,F,45,,Dalton Heights,Dalton Le Dale,Seaham
+2025-08-20,140000,SR7 0PH,S,N,F,12,,Lyster Close,,Seaham
+2025-08-18,81500,SR7 9EG,S,N,F,20,,Burnip Road,Murton,Seaham
+2025-08-18,90000,SR7 8BB,T,N,F,163,,The Avenue,,Seaham
+2025-08-18,104500,SR7 7TA,T,N,F,124,,Princess Road,,Seaham
+2025-08-15,82000,SR7 9GW,F,N,L,39,,Grenaby Way,Murton,Seaham
+2025-08-15,149950,SR7 9DW,T,N,F,2,,Empire Terrace,Murton,Seaham
+2025-08-15,185000,SR7 8JZ,D,N,F,71,,Escallond Drive,Dalton Le Dale,Seaham
+2025-08-15,155000,SR7 8JY,S,N,F,32,,Bowes Avenue,Dalton Le Dale,Seaham
+2025-08-15,220000,SR7 7RT,D,N,F,7,,Alder Grove,,Seaham
+2025-08-15,100000,SR7 0AH,T,N,F,18,,Stanley Street,,Seaham
+2025-08-14,128000,SR7 9RL,T,N,F,44,,Church Lane,Murton,Seaham
+2025-08-14,225000,SR7 7RU,D,N,F,12,,Almond Way,,Seaham
+2025-08-14,122757,SR7 7JZ,T,N,F,12,,Ropery Walk,,Seaham
+2025-08-12,303000,SR7 8QW,S,N,F,Briar Dene,,The Dene,Dalton Le Dale,Seaham
+2025-08-12,135000,SR7 8EX,T,N,L,4,,Queens Avenue,Dalton Le Dale,Seaham
+2025-08-12,195000,SR7 7RP,S,N,F,10,,Yarmouth Close,,Seaham
+2025-08-12,130000,SR7 7PU,T,N,F,34,,St Helens Drive,,Seaham
+2025-08-08,76000,SR7 9PQ,T,N,L,20,,Harrogate Terrace,Murton,Seaham
+2025-08-08,189950,SR7 8JY,S,N,F,38,,Bowes Avenue,Dalton Le Dale,Seaham
+2025-08-01,323000,SR7 8LB,D,N,F,15,,Dalton Heights,Dalton Le Dale,Seaham
+2025-08-01,105000,SR7 8HZ,S,N,F,38,,Watling Avenue,,Seaham
+2025-07-31,137500,SR7 8JT,S,N,F,49,,Warkworth Crescent,,Seaham
+2025-07-31,65000,SR7 7NQ,T,N,F,17,,Longnewton Street,,Seaham
+2025-07-31,68000,SR7 0HL,F,N,L,14,,Dovedale Court,,Seaham
+2025-07-31,370000,SR7 0AG,D,N,F,9,,Parklands Court,,Seaham
+2025-07-31,295000,SR7 0AF,D,N,F,19,,Thornhill Reach,,Seaham
+2025-07-29,123000,SR7 8JZ,S,N,F,62,,Escallond Drive,Dalton Le Dale,Seaham
+2025-07-28,129000,SR7 8AF,T,N,F,64,,Bethune Avenue,,Seaham
+2025-07-25,115000,SR7 9SU,S,N,F,62,,Station Estate North,Murton,Seaham
+2025-07-25,225000,SR7 9DL,D,N,F,22,,Broadoaks,Murton,Seaham
+2025-07-25,38000,SR7 7LH,F,N,L,21A,,Alfred Street,,Seaham
+2025-07-25,80000,SR7 0DU,S,N,F,37,,Newark Crescent,,Seaham
+2025-07-21,92500,SR7 9SU,S,N,F,60,,Station Estate North,Murton,Seaham
+2025-07-21,93500,SR7 9EA,T,N,F,84,,Toft Crescent,Murton,Seaham
+2025-07-18,78000,SR7 9BQ,T,N,F,9,,Federation Square,Murton,Seaham
+2025-07-18,75000,SR7 7UQ,S,N,F,31,,Parkside Crescent,,Seaham
+2025-07-18,213000,SR7 7RN,D,N,F,5,,Chestnut Way,,Seaham
+2025-07-18,135000,SR7 7HW,T,N,F,1,,Shaw Street,,Seaham
+2025-07-18,120000,SR7 0AU,T,N,F,46,,Stanley Street,,Seaham
+2025-07-17,124999,SR7 9HT,S,N,F,46,,Bevan Square,Murton,Seaham
+2025-07-17,328000,SR7 8LB,D,N,F,59,,Dalton Heights,Dalton Le Dale,Seaham
+2025-07-17,165000,SR7 0JE,S,N,F,Heather Lea,,Stockton Road,,Seaham
+2025-07-14,253000,SR7 7RN,D,N,F,11,,Chestnut Way,,Seaham
+2025-07-11,118000,SR7 9SE,S,N,F,27,,Station Road South,Murton,Seaham
+2025-07-11,380000,SR7 8LE,D,N,F,10,,Carrhouse Walk,Dalton Le Dale,Seaham
+2025-07-11,232500,SR7 7AS,T,N,F,16,,Trinity Court,,Seaham
+2025-07-11,139950,SR7 0LE,T,N,F,47,,Sharpley Drive,,Seaham
+2025-07-10,87000,SR7 7LQ,T,N,F,18,,Stewart Street,,Seaham
+2025-07-09,90000,SR7 8DU,S,N,F,20,,Evesham Road,,Seaham
+2025-07-08,72000,SR7 8AU,S,N,F,106,,Malvern Crescent,,Seaham
+2025-07-08,155000,SR7 0AP,T,N,F,11,,Parkland Terrace,,Seaham
+2025-07-07,100000,SR7 9DF,T,N,F,38,,Matthews Road,Murton,Seaham
+2025-07-04,87000,SR7 9NQ,S,N,F,5,,Ada Street West,Murton,Seaham
+2025-07-04,215000,SR7 9GX,S,N,F,11,,Dalby Grove,Murton,Seaham
+2025-07-04,129950,SR7 9BD,T,N,F,66,,Morton Close,Murton,Seaham
+2025-07-04,127000,SR7 8LA,S,N,F,6,,Galfrid Close,Dalton Le Dale,Seaham
+2025-07-04,52500,SR7 7QB,T,N,F,48,,Beech Crescent,,Seaham
+2025-07-03,90000,SR7 9PP,S,N,F,5,,Dobson Terrace,Murton,Seaham
+2025-07-01,61000,SR7 9QW,S,N,F,33,,Barnes Road,Murton,Seaham
+2025-06-30,196500,SR7 8FB,S,Y,F,20,,Starling Way,Seaham Garden Village,Seaham
+2025-06-30,194750,SR7 8FB,S,Y,F,19,,Starling Way,Seaham Garden Village,Seaham
+2025-06-30,250000,SR7 8DF,D,N,F,55,,Weymouth Drive,Dalton Le Dale,Seaham
+2025-06-27,76000,SR7 9DQ,T,N,F,36,,Hawkins Road,Murton,Seaham
+2025-06-27,20000,SR7 9DJ,T,N,F,12,,Oliver Street,Murton,Seaham
+2025-06-27,97000,SR7 7TA,T,N,F,122,,Princess Road,,Seaham
+2025-06-27,205000,SR7 7RU,D,N,F,1,,Almond Way,,Seaham
+2025-06-27,190000,SR7 7AX,T,N,F,Rockwood,1,Tempest Road,,Seaham
+2025-06-27,145000,SR7 0JY,T,N,F,11,,Byron Lodge Estate,,Seaham
+2025-06-26,57500,SR7 9AT,T,N,F,25,,Watt Street,Murton,Seaham
+2025-06-25,65000,SR7 7LP,T,N,F,47,,Stavordale Street,,Seaham
+2025-06-25,210000,SR7 7DZ,D,N,F,1,,Mulberry Way,,Seaham
+2025-06-24,82000,SR7 7QH,T,N,F,11,,Union Street,,Seaham
+2025-06-20,99950,SR7 8EX,T,N,F,18,,Queens Avenue,Dalton Le Dale,Seaham
+2025-06-20,215000,SR7 7DZ,T,N,F,45,,Mulberry Way,,Seaham
+2025-06-19,80000,SR7 8EE,T,N,F,24,,Eastlea Crescent,,Seaham
+2025-06-19,50000,SR7 7NA,T,N,F,49,,Mount Stewart Street,,Seaham
+2025-06-13,145000,SR7 8SB,S,N,F,3,,West Lane,Hawthorn,Seaham
+2025-06-13,173000,SR7 8RS,D,N,F,4,,Stockton Road West,Hawthorn,Seaham
+2025-06-13,85000,SR7 8LP,T,N,F,42,,Exeter Avenue,,Seaham
+2025-06-13,104000,SR7 7NA,T,N,F,2,,Mount Stewart Street,,Seaham
+2025-06-12,295000,SR7 8HE,D,N,F,9,,Falmouth Close,Dalton Le Dale,Seaham
+2025-06-11,515000,SR7 8BF,D,N,F,20,,Western Park,Hawthorn,Seaham
+2025-06-11,55000,SR7 7PU,T,N,F,35,,St Helens Drive,,Seaham
+2025-06-11,255000,SR7 0EW,S,N,F,15,,Burnhall Drive,,Seaham
+2025-06-06,110000,SR7 9NJ,T,N,F,1,,East Ellen Street,Murton,Seaham
+2025-06-06,190000,SR7 9HX,S,N,F,27,,Douglas Way,Murton,Seaham
+2025-06-06,80000,SR7 8BA,T,N,F,156,,The Avenue,,Seaham
+2025-06-06,487500,SR7 7SU,D,N,F,8,,Springfield Crescent,,Seaham
+2025-06-06,122000,SR7 7FA,T,N,F,12,,Roseberry Close,,Seaham
+2025-06-06,370000,SR7 7DH,S,N,F,18,,Dalden Grove,,Seaham
+2025-06-05,161000,SR7 7UQ,S,N,F,38,,Parkside Crescent,,Seaham
+2025-06-04,102000,SR7 8JG,S,N,F,106,,Watling Avenue,,Seaham
+2025-06-02,51500,SR7 7LX,T,N,F,51,,Wynyard Street,,Seaham
+2025-05-30,197500,SR7 8JZ,S,N,F,24,,Escallond Drive,Dalton Le Dale,Seaham
+2025-05-30,135000,SR7 7PU,S,N,F,41,,St Helens Drive,,Seaham
+2025-05-30,70000,SR7 0HA,F,N,L,46,,Burnhall Drive,,Seaham
+2025-05-27,80000,SR7 8LU,T,N,F,64,,Frank Avenue,,Seaham
+2025-05-23,240000,SR7 9TG,S,N,F,60,,Winds Lonnen,Murton,Seaham
+2025-05-23,263000,SR7 9GW,D,N,F,18,,Grenaby Way,Murton,Seaham
+2025-05-23,100000,SR7 8NG,T,N,F,15,,Ivy Avenue,,Seaham
+2025-05-23,159950,SR7 8JS,S,N,F,69,,Warkworth Crescent,,Seaham
+2025-05-23,60000,SR7 8HG,S,N,F,1,,Weymouth Drive,Dalton Le Dale,Seaham
+2025-05-23,60000,SR7 7RH,T,N,F,8,,Dawdon Crescent,,Seaham
+2025-05-23,230000,SR7 0PD,S,N,F,17,,Glebe Drive,,Seaham
+2025-05-23,340000,SR7 0PB,S,N,F,East Cherry Knowle Farm,,Stockton Road,,Seaham
+2025-05-22,24000,SR7 9AW,T,N,F,13,,Henry Street North,Murton,Seaham
+2025-05-16,185000,SR7 9RS,S,N,F,2,,Station Road South,Murton,Seaham
+2025-05-16,125000,SR7 9HL,S,N,F,13,,Wellfield Road,Murton,Seaham
+2025-05-16,145000,SR7 8EY,S,N,F,3,,Doreen Avenue,Dalton Le Dale,Seaham
+2025-05-16,120000,SR7 7BS,T,N,F,10,,Derwent Close,,Seaham
+2025-05-16,129000,SR7 0LE,D,N,F,51,,Sharpley Drive,,Seaham
+2025-05-09,84000,SR7 9GW,F,N,L,30,,Grenaby Way,Murton,Seaham
+2025-05-09,93000,SR7 9DD,T,N,F,40,,Forster Avenue,Murton,Seaham
+2025-05-09,65000,SR7 8AY,T,N,F,16,,Queensbury Road,,Seaham
+2025-05-09,170000,SR7 7WJ,S,N,F,5,,Goswick Way,,Seaham
+2025-05-07,145000,SR7 7JZ,T,N,F,20,,Ropery Walk,,Seaham
+2025-05-02,110000,SR7 8LZ,T,N,F,25,,Grantham Avenue,,Seaham
+2025-05-02,59950,SR7 7LN,T,N,F,27,,Strangways Street,,Seaham
+2025-05-02,150000,SR7 0DL,S,N,F,38,,Northlea Road,,Seaham
+2025-04-30,340000,SR7 8FD,D,Y,F,20,,Brambling Close,Seaham Garden Village,Seaham
+2025-04-29,200000,SR7 7WT,S,N,F,33,,Souter Drive,,Seaham
+2025-04-25,120000,SR7 0JX,S,N,F,14,,Rutherford Avenue,,Seaham
+2025-04-24,20000,SR7 9QP,T,N,F,72,,Barnes Road,Murton,Seaham
+2025-04-24,171950,SR7 8FD,T,Y,F,4,,Brambling Close,Seaham Garden Village,Seaham
+2025-04-17,55000,SR7 9BS,T,N,F,7,,South View,Murton,Seaham
+2025-04-16,95000,SR7 9JZ,T,N,F,24,,Truro Avenue,Murton,Seaham
+2025-04-16,87000,SR7 8JW,S,N,F,6,,Webb Avenue,,Seaham
+2025-04-15,102500,SR7 9BF,T,N,F,43,,Denewood,Murton,Seaham
+2025-04-14,227000,SR7 7RR,D,N,F,17,,Cherry Grove,,Seaham
+2025-04-11,65000,SR7 8BL,T,N,F,14,,Ryton Crescent,,Seaham
+2025-04-07,100000,SR7 8NE,T,N,F,60,,Ivy Avenue,,Seaham
+2025-04-07,90000,SR7 7ND,T,N,F,5,,Seaham Street,,Seaham
+2025-04-04,85000,SR7 9NP,T,N,F,6,,Brooklyn Street,Murton,Seaham
+2025-03-31,100000,SR7 9HE,S,N,F,38,,Gowland Square,Murton,Seaham
+2025-03-31,167000,SR7 8LA,S,N,F,5,,Galfrid Close,Dalton Le Dale,Seaham
+2025-03-31,220000,SR7 8FD,T,Y,F,25,,Brambling Close,Seaham Garden Village,Seaham
+2025-03-31,183000,SR7 7RR,D,N,F,12,,Cherry Grove,,Seaham
+2025-03-31,243000,SR7 0PD,S,N,F,19,,Glebe Drive,,Seaham
+2025-03-28,92000,SR7 9NR,T,N,F,9,,Brooklyn Terrace,Murton,Seaham
+2025-03-28,510000,SR7 9DN,D,N,F,7,,Village Farm,Murton,Seaham
+2025-03-28,40000,SR7 8NJ,S,N,F,59,,Jasper Avenue,,Seaham
+2025-03-28,215000,SR7 0PJ,D,N,F,32,,Blaykeston Close,,Seaham
+2025-03-28,137500,SR7 0DL,S,N,F,36,,Northlea Road,,Seaham
+2025-03-28,360000,SR7 0AG,D,N,F,11,,Parklands Court,,Seaham
+2025-03-27,340000,SR7 8FB,D,Y,F,15,,Starling Way,Seaham Garden Village,Seaham
+2025-03-27,575000,SR7 7WL,D,N,F,9,,Boulmer Lea,,Seaham
+2025-03-26,58550,SR7 8NA,T,N,F,22,,Hexham Avenue,,Seaham
+2025-03-26,140000,SR7 8LD,S,N,F,44,,Beldon Close,Dalton Le Dale,Seaham
+2025-03-21,92500,SR7 9PN,S,N,F,18,,Ripon Terrace,Murton,Seaham
+2025-03-21,550000,SR7 8SB,D,N,F,"Westwood House, 13",,West Lane,Hawthorn,Seaham
+2025-03-21,99950,SR7 8BD,T,N,F,209,,The Avenue,,Seaham
+2025-03-21,92000,SR7 8AW,T,N,F,11,,Colling Avenue,,Seaham
+2025-03-21,435000,SR7 7WX,D,N,F,24,,Marsdon Way,,Seaham
+2025-03-21,270000,SR7 7WX,D,N,F,2,,Marsdon Way,,Seaham
+2025-03-21,263000,SR7 7WT,D,N,F,14,,Souter Drive,,Seaham
+2025-03-21,300000,SR7 7WE,D,N,F,2,,Weybourne Lea,,Seaham
+2025-03-21,158000,SR7 7TL,S,N,F,25,,Grants Crescent,,Seaham
+2025-03-21,135000,SR7 0JW,S,N,F,7,,Seaton Crescent,,Seaham
+2025-03-20,70000,SR7 9JP,T,N,F,12,,Treen Crescent,Murton,Seaham
+2025-03-19,106500,SR7 9RX,T,N,F,10,,Station Road North,Murton,Seaham
+2025-03-19,125000,SR7 8AR,T,N,F,59,,Milton Close,,Seaham
+2025-03-18,167000,SR7 9NE,T,N,F,6,,Dreswick Court,Murton,Seaham
+2025-03-18,250000,SR7 9HX,D,N,F,32,,Douglas Way,Murton,Seaham
+2025-03-18,70000,SR7 7RE,T,N,F,12,,Aged Miners Homes,,Seaham
+2025-03-18,82500,SR7 0AR,T,N,F,25,,Rutland Street,,Seaham
+2025-03-14,216000,SR7 8LD,D,N,F,47,,Beldon Close,Dalton Le Dale,Seaham
+2025-03-14,185000,SR7 8HG,S,N,F,9,,Weymouth Drive,Dalton Le Dale,Seaham
+2025-03-14,200000,SR7 8HE,D,N,F,12,,Falmouth Close,Dalton Le Dale,Seaham
+2025-03-14,193000,SR7 8FD,S,Y,F,21,,Brambling Close,Seaham Garden Village,Seaham
+2025-03-14,108000,SR7 8ED,T,N,F,35,,Eastlea Road,,Seaham
+2025-03-14,62000,SR7 8AE,T,N,F,21,,Bethune Avenue,,Seaham
+2025-03-14,120000,SR7 0LD,T,N,F,23,,Melrose Crescent,,Seaham
+2025-03-14,99000,SR7 0LB,S,N,F,2,,Milldale,,Seaham
+2025-03-14,85500,SR7 0JZ,S,N,F,54,,Melrose Crescent,,Seaham
+2025-03-14,175000,SR7 0JH,T,N,L,67,,Burdon Crescent,,Seaham
+2025-03-14,145000,SR7 0EA,T,N,F,25,,Norfolk Close,,Seaham
+2025-03-14,99950,SR7 0AZ,T,N,F,11,,Oliver Street,,Seaham
+2025-03-13,110000,SR7 0JZ,S,N,F,26,,Melrose Crescent,,Seaham
+2025-03-11,20000,SR7 7LN,T,N,F,49,,Strangways Street,,Seaham
+2025-03-07,885000,SR7 0DE,D,N,F,17,,Poppyfield Court,Seaton,Seaham
+2025-03-05,120000,SR7 8NU,T,N,F,87,,The Avenue,,Seaham
+2025-03-05,110000,SR7 8DS,S,N,F,17,,Ellesmere Drive,,Seaham
+2025-03-05,93000,SR7 0LD,T,N,F,37,,Melrose Crescent,,Seaham
+2025-03-04,58500,SR7 7RG,T,N,F,21,,Chaplin Street,,Seaham
+2025-03-03,75000,SR7 0HX,T,N,F,9,,Byron Terrace,,Seaham
+2025-02-28,80000,SR7 9EN,S,N,F,19,,Shinwell Terrace,Murton,Seaham
+2025-02-28,120000,SR7 8NE,T,N,F,65,,Ivy Avenue,,Seaham
+2025-02-28,124000,SR7 8NA,T,N,F,17,,Hexham Avenue,,Seaham
+2025-02-28,166250,SR7 8FD,T,Y,F,24,,Brambling Close,Seaham Garden Village,Seaham
+2025-02-28,124950,SR7 7TP,T,N,F,8,,Elizabeth Street,,Seaham
+2025-02-28,60000,SR7 0HL,F,N,L,19,,Dovedale Court,,Seaham
+2025-02-25,93330,SR7 9JH,T,N,F,24,,Beech Avenue,Murton,Seaham
+2025-02-25,54000,SR7 9AX,T,N,F,5,,North Coronation Street,Murton,Seaham
+2025-02-21,50000,SR7 7UP,T,N,F,66,,Fern Crescent,,Seaham
+2025-02-21,103000,SR7 7DY,F,N,L,3,,Mappleton Drive,,Seaham
+2025-02-20,85999,SR7 9AR,T,N,F,2,,James Street North,Murton,Seaham
+2025-02-20,84950,SR7 7QS,T,N,F,21,,Rainton Street,,Seaham
+2025-02-19,105000,SR7 0EA,S,N,F,8,,Norfolk Close,,Seaham
+2025-02-17,323000,SR7 8FD,D,Y,F,31,,Brambling Close,Seaham Garden Village,Seaham
+2025-02-17,205000,SR7 7DZ,T,N,F,26,,Mulberry Way,,Seaham
+2025-02-14,150000,SR7 9TF,S,N,F,25,,Winds Lonnen,Murton,Seaham
+2025-02-14,78000,SR7 9NE,F,N,L,40,,Dreswick Court,Murton,Seaham
+2025-02-14,160000,SR7 8SB,T,N,F,4,,West Lane,Hawthorn,Seaham
+2025-02-14,66000,SR7 8NQ,T,N,F,28,,Jasper Avenue,,Seaham
+2025-02-14,113000,SR7 8JL,S,N,F,33,,Wedgewood Road,,Seaham
+2025-02-14,110000,SR7 8HH,S,N,F,13,,Wells Crescent,,Seaham
+2025-02-14,184000,SR7 8FD,T,Y,F,23,,Brambling Close,Seaham Garden Village,Seaham
+2025-02-14,55000,SR7 7RG,T,N,F,18,,Chaplin Street,,Seaham
+2025-02-14,163000,SR7 0JT,T,N,F,14A,,Hoy Crescent,,Seaham
+2025-02-13,104000,SR7 8EA,S,N,F,3,,Eastlea Road,,Seaham
+2025-02-12,30000,SR7 9BB,T,N,F,2,,East Coronation Street,Murton,Seaham
+2025-02-12,340000,SR7 7WX,D,N,F,39,,Marsdon Way,,Seaham
+2025-02-12,232500,SR7 7WU,T,N,F,19,,Alnmouth Way,,Seaham
+2025-02-07,97500,SR7 9JZ,T,N,F,22,,Truro Avenue,Murton,Seaham
+2025-02-07,119999,SR7 9BF,T,N,F,14,,Denewood,Murton,Seaham
+2025-02-07,355000,SR7 0LU,S,N,L,9,,Seaton Grove,,Seaham
+2025-02-07,80000,SR7 0HS,T,N,F,1,,Gregson Terrace,,Seaham
+2025-02-07,120000,SR7 0AR,T,N,F,5,,Rutland Street,,Seaham
+2025-02-07,110000,SR7 0AN,T,N,F,11,,St Aldwyn Road,,Seaham
+2025-02-06,90000,SR7 7QL,T,N,F,10,,Vincent Street,,Seaham
+2025-02-05,60000,SR7 9RU,T,N,F,5,,Doxford Terrace North,Murton,Seaham
+2025-01-31,195700,SR7 8FB,S,Y,F,9,,Starling Way,Seaham Garden Village,Seaham
+2025-01-31,180500,SR7 8FB,S,Y,F,11,,Starling Way,Seaham Garden Village,Seaham
+2025-01-31,42500,SR7 7LW,T,N,F,28,,Ilchester Street,,Seaham
+2025-01-29,250000,SR7 7PU,D,N,F,17,,St Helens Drive,,Seaham
+2025-01-24,207500,SR7 0PB,S,N,F,Glenholme,,Stockton Road,,Seaham
+2025-01-17,82500,SR7 9HS,S,N,F,15,,Farmer Crescent,Murton,Seaham
+2025-01-17,120000,SR7 8LR,T,N,F,1,,Exeter Avenue,,Seaham
+2025-01-17,160000,SR7 7WR,T,N,F,27,,Runswick Drive,,Seaham
+2025-01-17,60000,SR7 7UJ,T,N,F,23,,Fern Crescent,,Seaham
+2025-01-17,150000,SR7 0HS,T,N,F,23,,Gregson Terrace,,Seaham
+2025-01-13,162000,SR7 7JW,S,N,F,29,,Linthorpe Avenue,,Seaham
+2025-01-10,112000,SR7 9NS,T,N,F,2,,Brooklyn Terrace North,Murton,Seaham
+2025-01-10,155000,SR7 9DW,T,N,F,4,,Empire Terrace,Murton,Seaham
+2025-01-10,80000,SR7 7NE,T,N,F,8,,Theresa Street,,Seaham
+2025-01-10,140000,SR7 7BZ,T,N,F,20,,Henry Street,,Seaham
+2025-01-10,320000,SR7 7BQ,D,N,F,42,,Dene House Road,,Seaham
+2025-01-09,75000,SR7 7LZ,T,N,F,47,,Longnewton Street,,Seaham
+2025-01-07,138000,SR7 8DG,S,N,F,31,,Windsor Road,,Seaham
+2025-01-06,82500,SR7 9PR,T,N,F,12,,Williams Road,Murton,Seaham
+2025-01-06,310000,SR7 8LD,D,N,F,14,,Beldon Close,Dalton Le Dale,Seaham
+2025-01-06,170000,SR7 8HD,S,N,F,26,,Sidmouth Close,Dalton Le Dale,Seaham
+2025-01-06,130000,SR7 7FA,T,N,F,20,,Roseberry Close,,Seaham
+2025-01-06,190000,SR7 7EA,F,N,L,20,,Marquess Point,,Seaham
+2025-01-06,250000,SR7 0PJ,D,N,F,10,,Blaykeston Close,,Seaham
+2025-01-06,225000,SR7 0JQ,S,N,L,17,,Burdon Crescent,,Seaham
+2025-01-03,165500,SR7 9SB,T,N,F,18,,Jedburgh Close,Murton,Seaham
+2025-01-03,160000,SR7 0EY,S,N,F,10,,Northlea Road,,Seaham
+2024-12-20,214995,SR7 8FJ,T,Y,F,6,,Siskin Meadow,Seaham Garden Village,Seaham
+2024-12-20,219995,SR7 8FJ,T,Y,F,4,,Siskin Meadow,Seaham Garden Village,Seaham
+2024-12-20,264995,SR7 8FJ,S,Y,F,1,,Siskin Meadow,Seaham Garden Village,Seaham
+2024-12-20,161496,SR7 8FF,T,Y,F,27,,Chaffinch Drive,Seaham Garden Village,Seaham
+2024-12-20,170050,SR7 8FD,T,Y,F,32,,Brambling Close,Seaham Garden Village,Seaham
+2024-12-20,345000,SR7 8FD,D,Y,F,30,,Brambling Close,Seaham Garden Village,Seaham
+2024-12-20,299000,SR7 8FD,D,Y,F,29,,Brambling Close,Seaham Garden Village,Seaham
+2024-12-20,323000,SR7 8FD,D,Y,F,28,,Brambling Close,Seaham Garden Village,Seaham
+2024-12-20,331550,SR7 8FD,D,Y,F,26,,Brambling Close,Seaham Garden Village,Seaham
+2024-12-20,228000,SR7 8FD,S,Y,F,22,,Brambling Close,Seaham Garden Village,Seaham
+2024-12-20,160000,SR7 0LA,S,N,F,92,,Melrose Crescent,,Seaham
+2024-12-19,107500,SR7 9NU,T,N,F,17,,Grasmere Terrace,Murton,Seaham
+2024-12-19,93400,SR7 9DX,T,N,F,20,,Ash Terrace,Murton,Seaham
+2024-12-19,97000,SR7 9BT,T,N,F,17,,Warnebrooke Avenue,Murton,Seaham
+2024-12-19,169995,SR7 8FJ,T,Y,F,48,,Siskin Meadow,Seaham Garden Village,Seaham
+2024-12-19,165000,SR7 8FD,T,Y,F,33,,Brambling Close,Seaham Garden Village,Seaham
+2024-12-19,327750,SR7 8FD,D,Y,F,27,,Brambling Close,Seaham Garden Village,Seaham
+2024-12-19,22750,SR7 7NW,T,N,F,36,,Embleton Street,,Seaham
+2024-12-19,27000,SR7 7LW,T,N,L,11A,,Ilchester Street,,Seaham
+2024-12-18,89950,SR7 9RT,T,N,F,10,,Doxford Terrace South,Murton,Seaham
+2024-12-18,94000,SR7 8AW,T,N,F,15,,Colling Avenue,,Seaham
+2024-12-18,242500,SR7 0LS,S,N,F,Burdon View,,Seaton Lane,Seaton,Seaham
+2024-12-18,545000,SR7 0AA,D,N,F,8,,Station Road,,Seaham
+2024-12-16,55000,SR7 9BL,T,N,F,2,,Windsor Terrace South,Murton,Seaham
+2024-12-16,239995,SR7 8FF,T,Y,F,41,,Chaffinch Drive,Seaham Garden Village,Seaham
+2024-12-13,126000,SR7 9RQ,T,N,F,11,,Knaresborough Road,Murton,Seaham
+2024-12-13,130000,SR7 0DP,S,N,F,7,,Newlands Road East,,Seaham
+2024-12-12,150000,SR7 9SD,S,N,F,53,,Melrose Avenue,Murton,Seaham
+2024-12-12,61579,SR7 9JH,T,N,F,22,,Beech Avenue,Murton,Seaham
+2024-12-12,575000,SR7 9DN,D,N,F,8,,Village Farm,Murton,Seaham
+2024-12-09,240000,SR7 7ST,T,N,F,10,,Victoria Street,,Seaham
+2024-12-09,75000,SR7 7NB,T,N,F,27,,Londonderry Street,,Seaham
+2024-12-06,175000,SR7 9HX,S,N,F,43,,Douglas Way,Murton,Seaham
+2024-12-06,170000,SR7 9HP,S,N,F,12,,Lumsden Square,Murton,Seaham
+2024-12-06,100000,SR7 8NR,T,N,F,17,,Laurel Avenue,,Seaham
+2024-12-06,102000,SR7 8EX,T,N,L,36,,Queens Avenue,Dalton Le Dale,Seaham
+2024-12-06,392000,SR7 7WQ,S,N,F,42,,Aldeburgh Way,,Seaham
+2024-12-06,217000,SR7 7WP,S,N,F,3,,Caister Close,,Seaham
+2024-12-06,140000,SR7 7DY,F,N,L,6,,Mappleton Drive,,Seaham
+2024-12-06,290000,SR7 7DG,D,N,F,48,,Stoneycroft Way,,Seaham
+2024-12-05,79500,SR7 9JZ,T,N,F,19,,Truro Avenue,Murton,Seaham
+2024-12-05,153000,SR7 7SE,T,N,F,33,,Adolphus Street West,,Seaham
+2024-12-05,97500,SR7 7LZ,T,N,F,77,,Longnewton Street,,Seaham
+2024-12-03,76000,SR7 8HY,S,N,F,129,,Windermere Road,,Seaham
+2024-12-03,160000,SR7 0BY,S,N,F,11,,Cheviot Gardens,,Seaham
+2024-12-02,75200,SR7 7SB,T,N,F,36,,Marlborough,,Seaham
+2024-11-29,125000,SR7 9RF,T,N,F,10,,Vicarage Terrace,Murton,Seaham
+2024-11-29,85550,SR7 9QG,S,N,F,30,,Calvert Terrace,Murton,Seaham
+2024-11-29,179999,SR7 9NB,T,N,F,22,,Fairfield Grove,Murton,Seaham
+2024-11-29,105000,SR7 9HE,S,N,F,32,,Gowland Square,Murton,Seaham
+2024-11-29,135000,SR7 8QX,T,N,F,8,,St Cuthberts Terrace,Dalton Le Dale,Seaham
+2024-11-29,336000,SR7 8FD,D,Y,F,35,,Brambling Close,Seaham Garden Village,Seaham
+2024-11-29,170050,SR7 8FD,T,Y,F,34,,Brambling Close,Seaham Garden Village,Seaham
+2024-11-29,219375,SR7 8FD,S,Y,F,1,,Brambling Close,Seaham Garden Village,Seaham
+2024-11-29,194750,SR7 8FB,S,Y,F,7,,Starling Way,Seaham Garden Village,Seaham
+2024-11-29,205000,SR7 8FB,S,Y,F,5,,Starling Way,Seaham Garden Village,Seaham
+2024-11-29,342000,SR7 8FB,D,Y,F,1,,Starling Way,Seaham Garden Village,Seaham
+2024-11-29,77000,SR7 7UQ,T,N,F,45,,Parkside Crescent,,Seaham
+2024-11-29,84000,SR7 7TH,T,N,F,20,,Corcyra Street,,Seaham
+2024-11-29,95000,SR7 7NF,T,N,F,15,,Melbury Street,,Seaham
+2024-11-29,235000,SR7 0NS,S,N,F,Hillcrest,,Stockton Road,,Seaham
+2024-11-28,96000,SR7 7TH,T,N,F,16,,Corcyra Street,,Seaham
+2024-11-28,479999,SR7 0DB,D,N,F,9,,Field House Farm,,Seaham
+2024-11-25,115000,SR7 8JW,T,N,F,18,,Webb Avenue,,Seaham
+2024-11-22,55000,SR7 9DH,T,N,F,1,,Hawkins Road,Murton,Seaham
+2024-11-22,95000,SR7 9BG,T,N,F,23,,West Coronation Street,Murton,Seaham
+2024-11-22,185000,SR7 7WS,T,N,F,9,,Flamborough Walk,,Seaham
+2024-11-22,165000,SR7 7WG,S,N,F,40,,Beadnell Drive,,Seaham
+2024-11-22,100000,SR7 7UG,T,N,F,79,,Ash Crescent,,Seaham
+2024-11-22,120000,SR7 7BT,S,N,F,87,,Derwent Close,,Seaham
+2024-11-20,200000,SR7 8JY,S,N,F,3,,Bowes Avenue,Dalton Le Dale,Seaham
+2024-11-19,180000,SR7 9HX,T,N,F,4A,,Douglas Way,Murton,Seaham
+2024-11-18,240000,SR7 0NA,D,N,F,Seaton Bungalow,,The Village,Seaton,Seaham
+2024-11-15,197500,SR7 9TG,D,N,F,71,,Winds Lonnen,Murton,Seaham
+2024-11-15,169000,SR7 9HX,T,N,F,51,,Douglas Way,Murton,Seaham
+2024-11-15,285000,SR7 9GW,D,N,F,19,,Grenaby Way,Murton,Seaham
+2024-11-14,99950,SR7 7UU,S,N,F,91,,Heathway,,Seaham
+2024-11-12,150000,SR7 0AX,T,N,F,6,,Sutherland Street,,Seaham
+2024-11-11,135000,SR7 7TB,T,N,F,18,,Princess Road,,Seaham
+2024-11-11,128500,SR7 7EA,F,N,L,18,,Marquess Point,,Seaham
+2024-11-11,87000,SR7 0AW,T,N,F,11,,Corbett Street,,Seaham
+2024-11-08,95000,SR7 9JQ,S,N,F,40,,Toft Crescent,Murton,Seaham
+2024-11-08,187000,SR7 7RN,D,N,F,42,,Chestnut Way,,Seaham
+2024-11-08,140000,SR7 7PU,S,N,F,6,,St Helens Drive,,Seaham
+2024-11-08,190000,SR7 0HT,S,N,F,6,,Gregson Terrace West,,Seaham
+2024-11-07,82000,SR7 0AR,T,N,F,26,,Rutland Street,,Seaham
+2024-11-01,96500,SR7 9HS,S,N,F,16,,Farmer Crescent,Murton,Seaham
+2024-11-01,90000,SR7 0HX,T,N,F,18,,Byron Terrace,,Seaham
+2024-10-31,149995,SR7 8HR,S,N,F,9,,Wesley Way,,Seaham
+2024-10-31,379953,SR7 8FD,D,Y,F,3,,Brambling Close,Seaham Garden Village,Seaham
+2024-10-31,143000,SR7 7SX,T,N,F,7,,Camden Square,,Seaham
+2024-10-30,128000,SR7 9BD,T,N,F,37,,Morton Close,Murton,Seaham
+2024-10-30,194750,SR7 8FB,S,Y,F,3,,Starling Way,Seaham Garden Village,Seaham
+2024-10-30,60000,SR7 7RQ,T,N,F,5,,Margaret Street,,Seaham
+2024-10-29,167000,SR7 7SZ,T,N,F,23,,Queen Street,,Seaham
+2024-10-25,75000,SR7 9EX,S,N,F,26,,Luke Crescent,Murton,Seaham
+2024-10-25,60500,SR7 8LZ,T,N,F,27,,Grantham Avenue,,Seaham
+2024-10-25,510000,SR7 8LB,D,N,F,3,,Dalton Heights,Dalton Le Dale,Seaham
+2024-10-25,169995,SR7 8FF,T,Y,F,23,,Chaffinch Drive,Seaham Garden Village,Seaham
+2024-10-25,335000,SR7 8BZ,D,N,F,"Hillcrest House, 2",,Hillcrest Mews,Cold Hesledon,Seaham
+2024-10-25,55000,SR7 7QN,T,N,F,4,,Hill Street,,Seaham
+2024-10-25,55000,SR7 7NE,T,N,F,9,,Theresa Street,,Seaham
+2024-10-25,110000,SR7 0JR,T,N,F,7,,St Johns Terrace,,Seaham
+2024-10-23,95000,SR7 9BF,T,N,F,33,,Denewood,Murton,Seaham
+2024-10-23,57500,SR7 7RQ,T,N,F,8,,Margaret Street,,Seaham
+2024-10-23,195000,SR7 7RN,D,N,F,15,,Chestnut Way,,Seaham
+2024-10-23,90000,SR7 7NA,T,N,F,6,,Mount Stewart Street,,Seaham
+2024-10-23,165000,SR7 7HW,T,N,F,11,,Shaw Street,,Seaham
+2024-10-23,190000,SR7 0EP,S,N,F,3,,Woodlands,,Seaham
+2024-10-18,100000,SR7 7TA,T,N,F,126,,Princess Road,,Seaham
+2024-10-18,135000,SR7 7JW,S,N,F,34,,Linthorpe Avenue,,Seaham
+2024-10-18,225000,SR7 0JP,D,N,F,68,,Haverley Drive,,Seaham
+2024-10-18,110000,SR7 0DT,S,N,F,12,,Napier Road,,Seaham
+2024-10-15,75000,SR7 7LZ,T,N,F,78,,Longnewton Street,,Seaham
+2024-10-15,80000,SR7 0EA,S,N,F,1,,Norfolk Close,,Seaham
+2024-10-14,170000,SR7 8JP,S,N,F,21,,Wordsworth Avenue,,Seaham
+2024-10-11,183000,SR7 8SL,S,N,F,5,,The Paddocks,Hawthorn,Seaham
+2024-10-11,400000,SR7 8SD,D,N,F,Charnwood,,The Village,Hawthorn,Seaham
+2024-10-11,187995,SR7 8FF,T,Y,F,21,,Chaffinch Drive,Seaham Garden Village,Seaham
+2024-10-11,222000,SR7 7RZ,T,N,F,26,,Cornelia Terrace,,Seaham
+2024-10-11,60000,SR7 7ND,T,N,F,3,,Seaham Street,,Seaham
+2024-10-11,110000,SR7 7HU,T,N,F,2,,Alexandrina Street,,Seaham
+2024-10-10,77999,SR7 7RG,T,N,F,6,,Chaplin Street,,Seaham
+2024-10-10,92999,SR7 7NW,T,N,F,35,,Embleton Street,,Seaham
+2024-10-07,145000,SR7 0ET,S,N,F,29,,Burnway,,Seaham
+2024-10-04,135000,SR7 8JW,S,N,F,1,,Webb Avenue,,Seaham
+2024-10-04,499950,SR7 7WE,D,N,F,40,,Weybourne Lea,,Seaham
+2024-10-04,55000,SR7 7RA,T,N,F,35,,Stavordale Street West,,Seaham
+2024-10-02,82000,SR7 9JJ,T,N,F,5,,Cedar Crescent,Murton,Seaham
+2024-10-02,36000,SR7 7RG,T,N,F,3,,Chaplin Street,,Seaham
+2024-10-01,92500,SR7 7LX,T,N,F,43,,Wynyard Street,,Seaham
+2024-09-30,280203,SR7 8FD,D,Y,F,2,,Brambling Close,Seaham Garden Village,Seaham
+2024-09-27,242995,SR7 8FF,T,Y,F,7,,Chaffinch Drive,Seaham Garden Village,Seaham
+2024-09-27,327750,SR7 8FE,D,Y,F,3,,Goldcrest Court,Seaham Garden Village,Seaham
+2024-09-27,60000,SR7 8DZ,S,N,F,31,,Essex Crescent,,Seaham
+2024-09-27,102000,SR7 8DH,S,N,F,1,,Evesham Road,,Seaham
+2024-09-27,210000,SR7 7PU,D,N,F,12,,St Helens Drive,,Seaham
+2024-09-27,650000,SR7 0NW,T,N,F,The Sheepfold,,Old Burdon,Seaton,Seaham
+2024-09-20,160000,SR7 8QX,T,N,F,1,,St Cuthberts Terrace,Dalton Le Dale,Seaham
+2024-09-20,180500,SR7 8FB,S,Y,F,16,,Starling Way,Seaham Garden Village,Seaham
+2024-09-20,332000,SR7 7WP,D,N,F,6,,Caister Close,,Seaham
+2024-09-20,235000,SR7 7SR,T,N,F,7,,Queen Street,,Seaham
+2024-09-20,74250,SR7 7QR,T,N,F,28,,Garron Street,,Seaham
+2024-09-20,72000,SR7 7QJ,T,N,F,3,,Edward Street,,Seaham
+2024-09-20,155000,SR7 7DZ,S,N,F,15,,Mulberry Way,,Seaham
+2024-09-20,109000,SR7 7AL,T,N,F,45,,Tintagel Drive,,Seaham
+2024-09-20,117000,SR7 0AU,T,N,F,51,,Stanley Street,,Seaham
+2024-09-18,80000,SR7 9BZ,T,N,F,18,,Dalton Terrace,Murton,Seaham
+2024-09-18,50000,SR7 8NA,T,N,F,27,,Hexham Avenue,,Seaham
+2024-09-13,125000,SR7 7DY,F,N,L,41,,Mappleton Drive,,Seaham
+2024-09-12,148500,SR7 0DJ,S,N,F,79,,Northlea Road,,Seaham
+2024-09-11,150000,SR7 8HR,S,N,F,1,,Wesley Way,,Seaham
+2024-09-09,29000,SR7 7LW,F,N,L,11,,Ilchester Street,,Seaham
+2024-09-06,232000,SR7 9BD,D,N,F,57,,Morton Close,Murton,Seaham
+2024-09-06,110000,SR7 8JJ,S,N,F,102,,Windermere Road,,Seaham
+2024-09-06,205000,SR7 7PT,D,N,F,8,,Hazel Dene Way,,Seaham
+2024-09-06,275000,SR7 0EP,T,N,L,52,,Woodlands,,Seaham
+2024-09-06,239950,SR7 0EP,S,N,F,32,,Woodlands,,Seaham
+2024-09-05,81000,SR7 7RE,T,N,F,6,,Aged Miners Homes,,Seaham
+2024-09-05,200000,SR7 0HY,D,N,F,12,,Ambleside Avenue,,Seaham
+2024-09-04,190000,SR7 8FE,T,Y,F,6,,Goldcrest Court,Seaham Garden Village,Seaham
+2024-09-02,135000,SR7 9LT,S,N,F,53,,Sea View Walk,Murton,Seaham
+2024-09-02,82500,SR7 8DZ,S,N,F,15,,Essex Crescent,,Seaham
+2024-09-02,135000,SR7 8AF,T,N,F,47,,Bethune Avenue,,Seaham
+2024-09-02,85500,SR7 0HY,T,N,F,40,,Ambleside Avenue,,Seaham
+2024-08-30,379953,SR7 8FE,D,Y,F,5,,Goldcrest Court,Seaham Garden Village,Seaham
+2024-08-30,79100,SR7 7EW,T,N,F,3,,Tyne Street,,Seaham
+2024-08-28,95000,SR7 0JX,S,N,F,19,,Rutherford Avenue,,Seaham
+2024-08-23,113000,SR7 9LT,T,N,F,21,,Sea View Walk,Murton,Seaham
+2024-08-23,500000,SR7 8SD,D,N,F,Hawthorn Villa,,The Village,Hawthorn,Seaham
+2024-08-23,167000,SR7 8JY,S,N,F,22,,Bowes Avenue,Dalton Le Dale,Seaham
+2024-08-23,259995,SR7 8FF,T,Y,F,9,,Chaffinch Drive,Seaham Garden Village,Seaham
+2024-08-23,190000,SR7 8DF,S,N,F,53,,Weymouth Drive,Dalton Le Dale,Seaham
+2024-08-23,38300,SR7 8AP,T,N,F,19,,Milton Close,,Seaham
+2024-08-23,81000,SR7 7QL,T,N,F,23,,Vincent Street,,Seaham
+2024-08-23,350000,SR7 0PH,D,N,F,37,,Lyster Close,,Seaham
+2024-08-20,58000,SR7 9JH,T,N,F,19,,Beech Avenue,Murton,Seaham
+2024-08-16,65000,SR7 9PN,S,N,F,8,,Ripon Terrace,Murton,Seaham
+2024-08-16,82500,SR7 7ND,T,N,F,19,,Seaham Street,,Seaham
+2024-08-14,81500,SR7 9HT,S,N,F,43,,Bevan Square,Murton,Seaham
+2024-08-14,75000,SR7 7UZ,T,N,F,63,,Parkside Crescent,,Seaham
+2024-08-13,46000,SR7 0AH,T,N,F,17,,Stanley Street,,Seaham
+2024-08-12,69000,SR7 9NE,F,N,L,28,,Dreswick Court,Murton,Seaham
+2024-08-12,95000,SR7 8EX,S,N,L,1,,Queens Avenue,Dalton Le Dale,Seaham
+2024-08-09,59000,SR7 9PN,T,N,F,13,,Ripon Terrace,Murton,Seaham
+2024-08-09,76000,SR7 7UJ,T,N,F,10,,Fern Crescent,,Seaham
+2024-08-09,485000,SR7 7SU,T,N,F,3,,Springfield Crescent,,Seaham
+2024-08-09,345000,SR7 7AN,D,N,F,2,,Camelot Close,,Seaham
+2024-08-08,141000,SR7 8DG,S,N,F,35,,Windsor Road,,Seaham
+2024-08-05,95000,SR7 8AF,T,N,F,65,,Bethune Avenue,,Seaham
+2024-08-02,240000,SR7 7WX,D,N,F,9,,Marsdon Way,,Seaham
+2024-08-02,170000,SR7 7AS,T,N,F,10,,Trinity Court,,Seaham
+2024-08-02,49000,SR7 0BT,F,N,L,94,,Station Road,,Seaham
+2024-08-01,208500,SR7 7WU,S,N,F,7,,Alnmouth Way,,Seaham
+2024-07-31,78000,SR7 8EX,T,N,F,18,,Queens Avenue,Dalton Le Dale,Seaham
+2024-07-31,63000,SR7 8BG,T,N,F,226,,The Avenue,,Seaham
+2024-07-31,80000,SR7 7TB,T,N,F,108,,Princess Road,,Seaham
+2024-07-31,105000,SR7 7QQ,T,N,F,3,,Malcolm Street,,Seaham
+2024-07-30,467500,SR7 8RL,S,N,F,Tamworth Cottage,,,Cold Hesledon,Seaham
+2024-07-30,265000,SR7 7WR,D,N,F,46,,Runswick Drive,,Seaham
+2024-07-29,185250,SR7 8FE,T,Y,F,8,,Goldcrest Court,Seaham Garden Village,Seaham
+2024-07-29,94000,SR7 0AS,T,N,F,36,,Ranksborough Street,,Seaham
+2024-07-26,161000,SR7 8NJ,T,N,F,68,,Jasper Avenue,,Seaham
+2024-07-26,90000,SR7 8LS,T,N,F,19,,Frank Avenue,,Seaham
+2024-07-26,254995,SR7 8FG,S,Y,F,2,,Chaffinch Drive,Seaham Garden Village,Seaham
+2024-07-24,141950,SR7 8SB,S,N,F,34,,West Lane,Hawthorn,Seaham
+2024-07-19,315000,SR7 7WX,D,N,F,62,,Marsdon Way,,Seaham
+2024-07-19,250000,SR7 7SN,D,N,F,32,,Maureen Terrace,,Seaham
+2024-07-19,157000,SR7 7DZ,S,N,F,21,,Mulberry Way,,Seaham
+2024-07-19,299950,SR7 7DG,D,N,F,6,,Stoneycroft Way,,Seaham
+2024-07-19,210000,SR7 7DG,S,N,F,25,,Stoneycroft Way,,Seaham
+2024-07-19,115000,SR7 0AN,S,N,F,13,,St Aldwyn Road,,Seaham
+2024-07-16,150000,SR7 0JQ,T,N,L,38,,Burdon Crescent,,Seaham
+2024-07-15,286000,SR7 9HX,D,N,F,24,,Douglas Way,Murton,Seaham
+2024-07-12,100000,SR7 9BZ,T,N,F,20,,Dalton Terrace,Murton,Seaham
+2024-07-12,96000,SR7 8JE,S,N,F,97,,Watling Avenue,,Seaham
+2024-07-12,117500,SR7 0HS,T,N,F,22,,Gregson Terrace,,Seaham
+2024-07-05,85000,SR7 9SU,S,N,F,79,,Station Estate North,Murton,Seaham
+2024-07-05,125000,SR7 9NB,S,N,F,29,,Fairfield Grove,Murton,Seaham
+2024-07-05,269995,SR7 8FF,D,Y,F,1,,Chaffinch Drive,Seaham Garden Village,Seaham
+2024-07-05,87000,SR7 7TW,T,N,F,7,,Ross Street,,Seaham
+2024-07-05,235000,SR7 7ST,T,N,F,2,,Victoria Street,,Seaham
+2024-07-05,62000,SR7 7RL,T,N,F,1,,Cottages Road,,Seaham
+2024-07-05,740000,SR7 0DE,D,N,F,22,,Poppyfield Court,Seaton,Seaham
+2024-07-04,112000,SR7 9SA,T,N,F,13,,Melrose Avenue,Murton,Seaham
+2024-07-04,199950,SR7 7DG,D,N,F,50,,Stoneycroft Way,,Seaham
+2024-07-03,38000,SR7 8EX,T,N,L,6,,Queens Avenue,Dalton Le Dale,Seaham
+2024-07-01,77000,SR7 9DE,T,N,F,10,,Forster Avenue,Murton,Seaham
+2024-07-01,125000,SR7 7JD,T,N,F,1,,Shelley Street,,Seaham
+2024-06-28,92000,SR7 9SR,S,N,F,11,,Dowson Square,Murton,Seaham
+2024-06-28,230000,SR7 9GQ,S,N,F,1,,Ramsey Grove,Murton,Seaham
+2024-06-28,120000,SR7 8NX,T,N,F,86,,The Avenue,,Seaham
+2024-06-28,140000,SR7 8NJ,T,N,F,67,,Jasper Avenue,,Seaham
+2024-06-28,276319,SR7 8FF,T,Y,F,15,,Chaffinch Drive,Seaham Garden Village,Seaham
+2024-06-28,379953,SR7 8FE,D,Y,F,7,,Goldcrest Court,Seaham Garden Village,Seaham
+2024-06-28,343950,SR7 8FE,D,Y,F,4,,Goldcrest Court,Seaham Garden Village,Seaham
+2024-06-28,213703,SR7 8FE,S,Y,F,2,,Goldcrest Court,Seaham Garden Village,Seaham
+2024-06-28,327703,SR7 8FE,D,Y,F,11,,Goldcrest Court,Seaham Garden Village,Seaham
+2024-06-28,198503,SR7 8FE,T,Y,F,10,,Goldcrest Court,Seaham Garden Village,Seaham
+2024-06-28,190000,SR7 8FB,S,Y,F,4,,Starling Way,Seaham Garden Village,Seaham
+2024-06-28,320886,SR7 8FB,D,Y,F,2,,Starling Way,Seaham Garden Village,Seaham
+2024-06-28,209950,SR7 8FB,S,Y,F,14,,Starling Way,Seaham Garden Village,Seaham
+2024-06-28,199453,SR7 8FB,S,Y,F,12,,Starling Way,Seaham Garden Village,Seaham
+2024-06-28,292000,SR7 7DG,D,N,F,45,,Stoneycroft Way,,Seaham
+2024-06-28,135000,SR7 0JP,S,N,F,29,,Haverley Drive,,Seaham
+2024-06-28,110000,SR7 0BF,S,N,F,4,,Hambleton Drive,,Seaham
+2024-06-28,94000,SR7 0AS,T,N,F,33,,Ranksborough Street,,Seaham
+2024-06-27,259995,SR7 8FF,S,N,F,19,,Chaffinch Drive,Seaham Garden Village,Seaham
+2024-06-27,254995,SR7 8FF,S,Y,F,17,,Chaffinch Drive,Seaham Garden Village,Seaham
+2024-06-27,379953,SR7 8FE,D,Y,F,9,,Goldcrest Court,Seaham Garden Village,Seaham
+2024-06-27,105000,SR7 7QH,T,N,F,7,,Union Street,,Seaham
+2024-06-27,206000,SR7 7PT,D,N,F,21,,Hazel Dene Way,,Seaham
+2024-06-25,116000,SR7 7EB,T,N,L,29,,Mariners Way,,Seaham
+2024-06-25,200000,SR7 7DG,S,N,F,39,,Stoneycroft Way,,Seaham
+2024-06-24,95000,SR7 8LJ,T,N,F,9,,Dalton Avenue,,Seaham
+2024-06-21,205000,SR7 0PJ,S,N,F,3,,Blaykeston Close,,Seaham
+2024-06-21,156000,SR7 0HT,T,N,F,4,,Gregson Terrace West,,Seaham
+2024-06-21,210000,SR7 0EL,S,N,F,21,,Burnhall Drive,,Seaham
+2024-06-20,57719,SR7 9AA,T,N,F,17,,Woods Terrace East,Murton,Seaham
+2024-06-19,67000,SR7 9AT,T,N,F,14,,Watt Street,Murton,Seaham
+2024-06-19,62000,SR7 7LN,T,N,F,10,,Strangways Street,,Seaham
+2024-06-14,170000,SR7 7EB,S,N,L,28,,Mariners Way,,Seaham
+2024-06-13,38000,SR7 7RH,T,N,F,55,,Dawdon Crescent,,Seaham
+2024-06-13,225000,SR7 0EH,S,N,F,36,,Neasham Road,,Seaham
+2024-06-10,70000,SR7 7TX,T,N,F,26,,Eloise Close,,Seaham
+2024-06-07,137500,SR7 7SE,T,N,F,14,,Adolphus Street West,,Seaham
+2024-06-07,580000,SR7 7DW,D,N,F,7,,Countess Close,,Seaham
+2024-06-03,97000,SR7 9BQ,T,N,F,4,,Federation Square,Murton,Seaham
+2024-06-03,125000,SR7 7BW,T,N,F,32,,Dene Way,,Seaham
+2024-05-31,80000,SR7 9RU,T,N,F,6,,Doxford Terrace North,Murton,Seaham
+2024-05-31,123500,SR7 9RF,S,N,F,16,,Vicarage Terrace,Murton,Seaham
+2024-05-31,107000,SR7 9HG,S,N,F,9,,Metcalfe Crescent,Murton,Seaham
+2024-05-31,118500,SR7 8EZ,S,N,F,5,,Walton Avenue,,Seaham
+2024-05-31,195000,SR7 0PD,S,N,F,13,,Glebe Drive,,Seaham
+2024-05-30,69950,SR7 8JJ,S,N,F,109,,Windermere Road,,Seaham
+2024-05-30,173000,SR7 0JP,S,N,F,62,,Haverley Drive,,Seaham
+2024-05-28,110000,SR7 9NT,T,N,F,2,,William Johnson Street,Murton,Seaham
+2024-05-28,102000,SR7 9BF,T,N,F,23,,Denewood,Murton,Seaham
+2024-05-24,27000,SR7 9AH,T,N,F,7,,Glenhurst Terrace,Murton,Seaham
+2024-05-24,108000,SR7 8DQ,S,N,F,7,,Windsor Road,,Seaham
+2024-05-24,187500,SR7 0JJ,S,N,L,20,,Leechmere Crescent,,Seaham
+2024-05-23,145000,SR7 8BX,S,N,F,4,,Portland Avenue,,Seaham
+2024-05-22,96000,SR7 8AF,T,N,F,35,,Bethune Avenue,,Seaham
+2024-05-22,117000,SR7 7EB,S,N,L,1,,Mariners Way,,Seaham
+2024-05-21,96500,SR7 0EA,S,N,F,15,,Norfolk Close,,Seaham
+2024-05-17,47000,SR7 9PQ,T,N,L,19,,Harrogate Terrace,Murton,Seaham
+2024-05-17,40000,SR7 8AF,T,N,F,60,,Bethune Avenue,,Seaham
+2024-05-16,95000,SR7 7DA,T,N,F,21,,North Railway Street,,Seaham
+2024-05-10,172000,SR7 9SB,S,N,F,21,,Jedburgh Close,Murton,Seaham
+2024-05-10,80000,SR7 9NE,F,N,L,27,,Dreswick Court,Murton,Seaham
+2024-05-10,300000,SR7 7QF,D,N,F,113,,Daphne Crescent,,Seaham
+2024-05-09,72000,SR7 8BB,T,N,F,153,,The Avenue,,Seaham
+2024-05-07,100000,SR7 0JX,S,N,F,37,,Rutherford Avenue,,Seaham
+2024-05-07,100000,SR7 0DG,T,N,F,29,,Nelson Street,,Seaham
+2024-05-03,169950,SR7 8JG,S,N,F,157,,Watling Avenue,,Seaham
+2024-05-03,213000,SR7 7RR,D,N,F,9,,Cherry Grove,,Seaham
+2024-05-03,87500,SR7 7LJ,T,N,F,5,,Albert Street,,Seaham
+2024-05-02,93000,SR7 0JZ,T,N,F,135,,Melrose Crescent,,Seaham
+2024-04-30,115000,SR7 8JE,S,N,F,78,,Watling Avenue,,Seaham
+2024-04-30,50000,SR7 8JE,T,N,F,107,,Watling Avenue,,Seaham
+2024-04-30,42600,SR7 7HU,T,N,F,35,,Alexandrina Street,,Seaham
+2024-04-30,385000,SR7 7EA,T,N,L,26,,Marquess Point,,Seaham
+2024-04-30,200000,SR7 7DG,S,N,F,49,,Stoneycroft Way,,Seaham
+2024-04-26,158000,SR7 7TL,S,N,F,28,,Grants Crescent,,Seaham
+2024-04-26,68000,SR7 0HA,F,N,L,46,,Burnhall Drive,,Seaham
+2024-04-19,258250,SR7 7WQ,D,N,F,32,,Aldeburgh Way,,Seaham
+2024-04-19,62000,SR7 7UT,T,N,F,4,,Maple Crescent,,Seaham
+2024-04-19,161000,SR7 0HW,S,N,F,12,,Mill Road,,Seaham
+2024-04-18,189950,SR7 7LJ,T,N,F,13,,Albert Street,,Seaham
+2024-04-17,66000,SR7 7TX,S,N,F,1,,Eloise Close,,Seaham
+2024-04-12,145000,SR7 8JT,S,N,F,45,,Warkworth Crescent,,Seaham
+2024-04-12,185000,SR7 8DF,S,N,F,87,,Weymouth Drive,Dalton Le Dale,Seaham
+2024-04-12,115050,SR7 0LB,T,N,F,1,,Milldale,,Seaham
+2024-04-10,187700,SR7 9HX,T,N,F,56,,Douglas Way,Murton,Seaham
+2024-04-10,405000,SR7 8LB,D,N,F,48,,Dalton Heights,Dalton Le Dale,Seaham
+2024-04-10,247500,SR7 7WT,T,N,F,41,,Souter Drive,,Seaham
+2024-04-10,68050,SR7 7UH,T,N,F,9,,Heathway,,Seaham
+2024-04-10,190000,SR7 0EG,S,N,L,24,,Neasham Road,,Seaham
+2024-04-08,75000,SR7 7TX,T,N,F,21,,Eloise Close,,Seaham
+2024-04-05,133000,SR7 9JT,S,N,F,12,,Penzance Court,Murton,Seaham
+2024-04-05,185000,SR7 7EB,S,N,F,37,,Mariners Way,,Seaham
+2024-04-04,58000,SR7 9PQ,T,N,L,30,,Harrogate Terrace,Murton,Seaham
+2024-04-04,102141,SR7 7WR,T,N,F,21,,Runswick Drive,,Seaham
+2024-04-02,176000,SR7 9NE,T,N,F,51,,Dreswick Court,Murton,Seaham
+2024-04-02,31000,SR7 9AR,T,N,F,6,,James Street North,Murton,Seaham
+2024-04-02,159000,SR7 8HE,S,N,F,10,,Falmouth Close,Dalton Le Dale,Seaham
+2024-03-28,360000,SR7 8RG,D,N,F,Laira,,Stockton Road,Dalton Le Dale,Seaham
+2024-03-28,147000,SR7 8LZ,T,N,F,17,,Grantham Avenue,,Seaham
+2024-03-28,94000,SR7 8AR,D,N,F,63,,Milton Close,,Seaham
+2024-03-28,210000,SR7 7PU,S,N,F,56,,St Helens Drive,,Seaham
+2024-03-28,200000,SR7 7PF,S,N,F,3,,The Villas,,Seaham
+2024-03-28,135000,SR7 7FA,T,N,F,7,,Roseberry Close,,Seaham
+2024-03-28,155000,SR7 7BQ,D,N,F,27,,Dene House Road,,Seaham
+2024-03-28,215000,SR7 0EH,S,N,F,65,,Neasham Road,,Seaham
+2024-03-27,97000,SR7 7QX,T,N,F,30,,Princess Road,,Seaham
+2024-03-22,70000,SR7 9BZ,T,N,F,19,,Dalton Terrace,Murton,Seaham
+2024-03-22,230000,SR7 7PA,D,N,F,10,,Aspen Grove,,Seaham
+2024-03-20,70000,SR7 7QN,T,N,F,30,,Hill Street,,Seaham
+2024-03-18,35000,SR7 7LL,T,N,F,24,,Fox Street,,Seaham
+2024-03-18,105000,SR7 0DQ,S,N,F,11,,Duke Street,,Seaham
+2024-03-15,132995,SR7 9RT,T,N,F,20,,Doxford Terrace South,Murton,Seaham
+2024-03-15,245000,SR7 7SX,S,N,F,11A,,Camden Square,,Seaham
+2024-03-15,465000,SR7 7SU,D,N,F,9,,Springfield Crescent,,Seaham
+2024-03-15,128000,SR7 0JY,T,N,F,33,,Byron Lodge Estate,,Seaham
+2024-03-14,350000,SR7 8RL,D,N,F,Rosewood Cottage,,,Cold Hesledon,Seaham
+2024-03-08,130000,SR7 7QT,T,N,F,66,,Princess Road,,Seaham
+2024-03-04,290000,SR7 7DP,D,N,F,5,,Rockingham Close,,Seaham
+2024-03-01,78000,SR7 9BE,T,N,F,4,,South Coronation Street,Murton,Seaham
+2024-03-01,160000,SR7 7EA,F,N,L,19,,Marquess Point,,Seaham
+2024-03-01,120000,SR7 0HS,T,N,F,13,,Gregson Terrace,,Seaham
+2024-02-29,460000,SR7 9RN,D,N,F,Pond Farm Diary Cottage,,The Village,Murton,Seaham
+2024-02-29,236950,SR7 9DL,D,N,F,7,,Broadoaks,Murton,Seaham
+2024-02-23,133000,SR7 7SP,T,N,F,128,,Princess Road,,Seaham
+2024-02-23,140000,SR7 7PT,S,N,F,29,,Hazel Dene Way,,Seaham
+2024-02-23,210000,SR7 7PA,D,N,F,15,,Aspen Grove,,Seaham
+2024-02-23,340000,SR7 0LU,S,N,F,11,,Seaton Grove,,Seaham
+2024-02-22,69950,SR7 7RA,T,N,F,22,,Stavordale Street West,,Seaham
+2024-02-20,42500,SR7 9AW,T,N,F,12,,Henry Street North,Murton,Seaham
+2024-02-19,113500,SR7 9PE,T,N,F,2,,West View,Murton,Seaham
+2024-02-19,235000,SR7 9GZ,D,N,F,1,,Stanton Court,Murton,Seaham
+2024-02-19,97500,SR7 9BD,T,N,F,35,,Morton Close,Murton,Seaham
+2024-02-19,245000,SR7 7WJ,S,N,F,4,,Goswick Way,,Seaham
+2024-02-16,332500,SR7 9QS,D,N,F,Murton Farm Steading,1,The Village,Murton,Seaham
+2024-02-16,30000,SR7 9BH,T,N,F,18,,Windsor Terrace,Murton,Seaham
+2024-02-16,64950,SR7 8AU,T,N,F,119,,Malvern Crescent,,Seaham
+2024-02-16,56000,SR7 7UT,S,N,F,26,,Maple Crescent,,Seaham
+2024-02-16,236000,SR7 7RU,D,N,F,16,,Almond Way,,Seaham
+2024-02-16,81000,SR7 7QN,T,N,F,23,,Hill Street,,Seaham
+2024-02-15,125000,SR7 7BW,S,N,F,13,,Dene Way,,Seaham
+2024-02-14,65000,SR7 7RH,T,N,F,42,,Dawdon Crescent,,Seaham
+2024-02-14,175750,SR7 7AS,T,N,F,7,,Trinity Court,,Seaham
+2024-02-14,135000,SR7 0LE,S,N,F,44,,Sharpley Drive,,Seaham
+2024-02-12,98000,SR7 9HQ,S,N,F,52,,Metcalf Crescent,Murton,Seaham
+2024-02-09,84000,SR7 9RQ,T,N,F,5,,Knaresborough Road,Murton,Seaham
+2024-02-09,152000,SR7 8JT,S,N,F,14,,Warkworth Crescent,,Seaham
+2024-02-09,127000,SR7 7JB,T,N,F,8,,Shakespeare Street,,Seaham
+2024-02-09,495000,SR7 7EZ,T,N,F,1,,Bath Terrace,,Seaham
+2024-02-08,166500,SR7 7DG,S,N,F,36,,Stoneycroft Way,,Seaham
+2024-02-05,185000,SR7 9GX,S,N,F,7,,Dalby Grove,Murton,Seaham
+2024-02-05,195000,SR7 7WP,S,N,F,3,,Caister Close,,Seaham
+2024-02-05,280000,SR7 7BQ,D,N,F,50,,Dene House Road,,Seaham
+2024-02-02,97000,SR7 0LD,T,N,F,14,,Melrose Crescent,,Seaham
+2024-02-02,97000,SR7 0AZ,T,N,F,29,,Oliver Street,,Seaham
+2024-01-31,81000,SR7 8EU,T,N,L,4,,Jubilee Avenue,Dalton Le Dale,Seaham
+2024-01-26,225000,SR7 9TG,D,N,F,55,,Winds Lonnen,Murton,Seaham
+2024-01-26,255500,SR7 7WR,D,N,F,35,,Runswick Drive,,Seaham
+2024-01-26,244000,SR7 7RR,D,N,F,23,,Cherry Grove,,Seaham
+2024-01-26,51000,SR7 7RB,T,N,F,4,,Shrewsbury Street,,Seaham
+2024-01-26,120000,SR7 0JZ,T,N,F,81,,Melrose Crescent,,Seaham
+2024-01-26,175000,SR7 0JQ,S,N,L,7,,Burdon Crescent,,Seaham
+2024-01-26,122500,SR7 0JN,T,N,F,5,,Clarks Terrace,,Seaham
+2024-01-25,168000,SR7 7EB,S,N,L,5,,Mariners Way,,Seaham
+2024-01-22,76000,SR7 9NE,F,N,L,26,,Dreswick Court,Murton,Seaham
+2024-01-22,875000,SR7 0DE,D,N,F,16,,Poppyfield Court,Seaton,Seaham
+2024-01-22,211205,SR7 0AD,S,N,F,9,,Station Road,,Seaham
+2024-01-19,96000,SR7 9BF,T,N,F,34,,Denewood,Murton,Seaham
+2024-01-19,129950,SR7 7JD,T,N,F,7,,Shelley Street,,Seaham
+2024-01-15,115000,SR7 0HX,T,N,F,26,,Byron Terrace,,Seaham
+2024-01-15,62000,SR7 0DG,T,N,F,14,,Nelson Street,,Seaham
+2024-01-12,41000,SR7 9DU,T,N,F,1,,Claude Terrace,Murton,Seaham
+2024-01-12,100000,SR7 9BG,T,N,F,28,,West Coronation Street,Murton,Seaham
+2024-01-12,113000,SR7 8NW,T,N,F,6,,Kingston Avenue,,Seaham
+2024-01-12,275000,SR7 7WS,S,N,F,1,,Flamborough Walk,,Seaham
+2024-01-12,72500,SR7 7QN,T,N,F,28,,Hill Street,,Seaham
+2024-01-12,60000,SR7 7NA,T,N,F,47,,Mount Stewart Street,,Seaham
+2024-01-12,55000,SR7 7HU,T,N,F,40,,Alexandrina Street,,Seaham
+2024-01-12,415000,SR7 7DH,D,N,F,Ambleside,,Dalden Grove,,Seaham
+2024-01-12,162000,SR7 0LQ,S,N,F,15,,Stotfold Close,,Seaham
+2024-01-08,80000,SR7 9HA,S,N,F,2,,Stephens Road,Murton,Seaham
+2024-01-08,106000,SR7 0JX,S,N,F,20A,,Rutherford Avenue,,Seaham
+2024-01-05,61000,SR7 7TQ,T,N,F,22,,Polemarch Street,,Seaham
+2024-01-04,28750,SR7 7LL,T,N,F,23,,Fox Street,,Seaham
+2024-01-03,69950,SR7 7TX,T,N,F,9,,Eloise Close,,Seaham
+2024-01-03,65000,SR7 7TX,T,N,F,3,,Eloise Close,,Seaham
+2023-12-20,178000,SR7 9HX,S,N,F,63,,Douglas Way,Murton,Seaham
+2023-12-20,350000,SR7 7XD,D,N,F,4,,Church Green,,Seaham
+2023-12-20,368000,SR7 7WW,D,N,F,16,,Craster Point,,Seaham
+2023-12-20,210000,SR7 7WT,D,N,F,8,,Souter Drive,,Seaham
+2023-12-20,125000,SR7 7BX,S,N,F,23,,New Drive,,Seaham
+2023-12-20,127500,SR7 0DT,S,N,F,3,,Napier Road,,Seaham
+2023-12-19,90000,SR7 7QN,T,N,F,12,,Hill Street,,Seaham
+2023-12-19,49000,SR7 7LL,T,N,F,14,,Fox Street,,Seaham
+2023-12-18,250000,SR7 0PB,S,N,F,Sunnydale,,Stockton Road,,Seaham
+2023-12-18,65000,SR7 0AL,T,N,F,5,,Swallow Street,,Seaham
+2023-12-15,120000,SR7 0JQ,S,N,L,5,,Burdon Crescent,,Seaham
+2023-12-14,295000,SR7 9RU,D,N,F,12,,Doxford Terrace North,Murton,Seaham
+2023-12-14,87000,SR7 8ND,T,N,F,53,,Hexham Avenue,,Seaham
+2023-12-14,290000,SR7 8HD,D,N,F,5,,Sidmouth Close,Dalton Le Dale,Seaham
+2023-12-14,81000,SR7 8EE,T,N,F,59,,Eastlea Crescent,,Seaham
+2023-12-14,267000,SR7 7WT,D,N,F,19,,Souter Drive,,Seaham
+2023-12-13,125000,SR7 8SB,T,N,F,7,,West Lane,Hawthorn,Seaham
+2023-12-13,210000,SR7 0HH,D,N,F,10,,Seaton Park,,Seaham
+2023-12-12,335000,SR7 8LE,D,N,F,25,,Carrhouse Walk,Dalton Le Dale,Seaham
+2023-12-12,75000,SR7 7UX,T,N,F,37,,Heathway,,Seaham
+2023-12-12,190000,SR7 7JW,T,N,F,44,,Linthorpe Avenue,,Seaham
+2023-12-11,52000,SR7 9JZ,T,N,F,22,,Truro Avenue,Murton,Seaham
+2023-12-08,155000,SR7 9EA,S,N,F,117,,Toft Crescent,Murton,Seaham
+2023-12-08,76000,SR7 8BD,T,N,F,199,,The Avenue,,Seaham
+2023-12-07,40250,SR7 7RL,T,N,F,9,,Cottages Road,,Seaham
+2023-12-05,80000,SR7 8NN,T,N,F,42,,Kingston Avenue,,Seaham
+2023-12-04,50000,SR7 9DG,T,N,F,13,,Matthews Road,Murton,Seaham
+2023-12-04,116000,SR7 7PU,S,N,F,3,,St Helens Drive,,Seaham
+2023-12-01,76500,SR7 9NE,F,N,L,43,,Dreswick Court,Murton,Seaham
+2023-12-01,60000,SR7 9EW,T,N,F,51,,Hill Crescent,Murton,Seaham
+2023-12-01,230000,SR7 7WX,D,N,F,25,,Marsdon Way,,Seaham
+2023-12-01,155000,SR7 0EA,S,N,F,11,,Norfolk Close,,Seaham
+2023-11-27,232250,SR7 7DH,S,N,F,14,,Dalden Grove,,Seaham
+2023-11-24,114000,SR7 0LB,S,N,F,21,,Milldale,,Seaham
+2023-11-23,72000,SR7 9RQ,T,N,F,2,,Knaresborough Road,Murton,Seaham
+2023-11-23,205000,SR7 8PR,D,N,L,11,,Brixham Close,Dalton Le Dale,Seaham
+2023-11-21,120000,SR7 9SA,S,N,F,2,,Melrose Avenue,Murton,Seaham
+2023-11-21,425000,SR7 0NP,D,N,F,Sharpley Manor,,,Seaton,Seaham
+2023-11-20,100000,SR7 9JG,S,N,F,3,,Toft Crescent,Murton,Seaham
+2023-11-17,195000,SR7 8QP,T,N,F,1,,Dale Terrace,Dalton Le Dale,Seaham
+2023-11-17,135000,SR7 7DY,F,N,L,8,,Mappleton Drive,,Seaham
+2023-11-15,38000,SR7 7HU,T,N,F,15,,Alexandrina Street,,Seaham
+2023-11-14,150000,SR7 9DL,S,N,F,32,,Broadoaks,Murton,Seaham
+2023-11-13,73000,SR7 7QS,T,N,F,1,,Rainton Street,,Seaham
+2023-11-10,205000,SR7 9NB,D,N,F,8,,Fairfield Grove,Murton,Seaham
+2023-11-10,89950,SR7 8BD,T,N,F,215,,The Avenue,,Seaham
+2023-11-10,80000,SR7 7TG,T,N,F,3,,Park Street,,Seaham
+2023-11-10,175000,SR7 7RU,S,N,F,28,,Almond Way,,Seaham
+2023-11-10,80000,SR7 7QL,T,N,F,11,,Vincent Street,,Seaham
+2023-11-09,62000,SR7 9DQ,T,N,F,36,,Hawkins Road,Murton,Seaham
+2023-11-07,166000,SR7 8JZ,S,N,F,75,,Escallond Drive,Dalton Le Dale,Seaham
+2023-11-03,113000,SR7 9SJ,S,N,F,32,,Station Estate North,Murton,Seaham
+2023-11-03,90000,SR7 9EE,S,N,F,7,,Mann Crescent,Murton,Seaham
+2023-11-03,140000,SR7 8EY,S,N,F,15,,Doreen Avenue,Dalton Le Dale,Seaham
+2023-11-03,134000,SR7 7BS,S,N,F,23,,Derwent Close,,Seaham
+2023-11-02,160000,SR7 9SX,S,N,F,41,,Short Grove,Murton,Seaham
+2023-11-02,109000,SR7 9SU,S,N,F,80,,Station Estate North,Murton,Seaham
+2023-11-01,46500,SR7 9PA,S,N,F,4,,East View,Murton,Seaham
+2023-11-01,156000,SR7 9HL,S,N,F,8,,Wellfield Road,Murton,Seaham
+2023-11-01,295000,SR7 7AA,F,N,F,12A,,North Road,,Seaham
+2023-10-31,21000,SR7 7LN,T,N,F,49,,Strangways Street,,Seaham
+2023-10-30,250000,SR7 7RT,D,N,F,1,,Alder Grove,,Seaham
+2023-10-30,280000,SR7 7QL,D,N,F,Vincent Lodge,,Vincent Street,,Seaham
+2023-10-30,160000,SR7 7AY,T,N,F,20,,Tempest Road,,Seaham
+2023-10-27,63000,SR7 9DX,T,N,F,21,,Ash Terrace,Murton,Seaham
+2023-10-27,81000,SR7 8JN,S,N,F,58,,Windermere Road,,Seaham
+2023-10-27,69950,SR7 8JJ,S,N,F,109,,Windermere Road,,Seaham
+2023-10-27,264000,SR7 0PQ,D,N,F,30,,Middleton Close,Seaton,Seaham
+2023-10-27,94950,SR7 0HS,T,N,F,34,,Gregson Terrace,,Seaham
+2023-10-27,232000,SR7 0AF,D,N,F,22,,Thornhill Reach,,Seaham
+2023-10-23,65000,SR7 9EG,S,N,F,4,,Burnip Road,Murton,Seaham
+2023-10-20,112000,SR7 9SB,S,N,F,7,,Jedburgh Close,Murton,Seaham
+2023-10-20,105000,SR7 9SA,S,N,F,8,,Melrose Avenue,Murton,Seaham
+2023-10-20,56000,SR7 9PN,S,N,F,18,,Ripon Terrace,Murton,Seaham
+2023-10-20,89950,SR7 8NT,T,N,F,60,,The Avenue,,Seaham
+2023-10-20,154500,SR7 8JT,S,N,F,22,,Warkworth Crescent,,Seaham
+2023-10-20,120000,SR7 8AF,T,N,F,55,,Bethune Avenue,,Seaham
+2023-10-20,155000,SR7 0JU,S,N,F,1,,Cutting Street,,Seaham
+2023-10-20,168000,SR7 0DJ,S,N,F,73,,Northlea Road,,Seaham
+2023-10-20,87500,SR7 0AZ,T,N,F,6,,Oliver Street,,Seaham
+2023-10-19,246000,SR7 7WW,D,N,F,17,,Craster Point,,Seaham
+2023-10-19,257500,SR7 7RZ,T,N,F,25,,Cornelia Terrace,,Seaham
+2023-10-19,120000,SR7 7HX,T,N,F,22,,Frederick Street,,Seaham
+2023-10-18,75000,SR7 9RH,S,N,F,35,,Williams Road,Murton,Seaham
+2023-10-17,100000,SR7 0DQ,T,N,F,27,,Duke Street,,Seaham
+2023-10-16,95000,SR7 9DB,T,N,F,11,,Barwick Street,Murton,Seaham
+2023-10-16,55000,SR7 7RB,T,N,F,3,,Shrewsbury Street,,Seaham
+2023-10-13,149950,SR7 9SB,S,N,F,10,,Jedburgh Close,Murton,Seaham
+2023-10-13,248000,SR7 9RE,S,N,F,24,,Church Lane,Murton,Seaham
+2023-10-13,71000,SR7 9BG,T,N,F,21,,West Coronation Street,Murton,Seaham
+2023-10-13,89995,SR7 7QH,T,N,F,3,,Union Street,,Seaham
+2023-10-13,90000,SR7 0LD,T,N,F,11,,Melrose Crescent,,Seaham
+2023-10-12,151000,SR7 8JZ,S,N,F,41,,Escallond Drive,Dalton Le Dale,Seaham
+2023-10-11,261000,SR7 9DL,D,N,F,25,,Broadoaks,Murton,Seaham
+2023-10-11,40000,SR7 7LW,T,N,F,7,,Ilchester Street,,Seaham
+2023-10-06,90000,SR7 9EN,S,N,F,33,,Shinwell Terrace,Murton,Seaham
+2023-10-06,140000,SR7 8ET,S,N,F,4,,Watson Close,Dalton Le Dale,Seaham
+2023-10-06,57000,SR7 7LR,T,N,F,2,,Stavordale Street,,Seaham
+2023-10-06,76500,SR7 0HX,T,N,F,21,,Byron Terrace,,Seaham
+2023-10-06,200000,SR7 0DE,D,N,F,15,,Poppyfield Court,Seaton,Seaham
+2023-10-05,75000,SR7 7QN,T,N,F,19,,Hill Street,,Seaham
+2023-09-29,265000,SR7 7ST,T,N,F,3,,Victoria Street,,Seaham
+2023-09-28,147500,SR7 0DZ,S,N,F,41,,Norton Avenue,,Seaham
+2023-09-27,147500,SR7 9JT,T,N,F,6,,Penzance Court,Murton,Seaham
+2023-09-27,120000,SR7 7BS,S,N,F,6,,Derwent Close,,Seaham
+2023-09-27,205000,SR7 0EH,S,N,L,34,,Neasham Road,,Seaham
+2023-09-25,79000,SR7 7UN,T,N,F,63,,Fern Crescent,,Seaham
+2023-09-19,53500,SR7 9JL,S,N,F,5,,Trevone Square,Murton,Seaham
+2023-09-19,170000,SR7 7SH,S,N,F,3,,Emily Street East,,Seaham
+2023-09-19,178500,SR7 0JX,S,N,F,50,,Rutherford Avenue,,Seaham
+2023-09-15,85000,SR7 9AP,T,N,F,9,,Henry Street South,Murton,Seaham
+2023-09-15,80000,SR7 8NQ,T,N,F,32,,Jasper Avenue,,Seaham
+2023-09-15,102500,SR7 8JA,T,N,F,5,,Walpole Avenue,,Seaham
+2023-09-15,70000,SR7 0JP,T,N,F,54,,Haverley Drive,,Seaham
+2023-09-12,65000,SR7 7RF,T,N,F,4,,Maglona Street,,Seaham
+2023-09-12,81500,SR7 0AZ,T,N,F,2,,Oliver Street,,Seaham
+2023-09-08,129950,SR7 8HR,S,N,F,11,,Wesley Way,,Seaham
+2023-09-08,235000,SR7 0EH,S,N,L,72,,Neasham Road,,Seaham
+2023-09-07,280000,SR7 0AF,D,N,F,19,,Thornhill Reach,,Seaham
+2023-09-05,350000,SR7 8BZ,D,N,F,"Hillcrest House, 2",,Hillcrest Mews,Cold Hesledon,Seaham
+2023-09-04,165000,SR7 7WG,T,N,F,45,,Beadnell Drive,,Seaham
+2023-09-01,117000,SR7 9NU,S,N,F,12,,Grasmere Terrace,Murton,Seaham
+2023-09-01,85000,SR7 9DG,T,N,F,19,,Matthews Road,Murton,Seaham
+2023-09-01,145000,SR7 7JW,S,N,F,23,,Linthorpe Avenue,,Seaham
+2023-09-01,295000,SR7 7BQ,D,N,F,14,,Dene House Road,,Seaham
+2023-08-31,196500,SR7 9RS,S,N,F,20,,Station Road South,Murton,Seaham
+2023-08-31,85000,SR7 0HY,T,N,F,42,,Ambleside Avenue,,Seaham
+2023-08-31,123500,SR7 0BY,D,N,F,18,,Cheviot Gardens,,Seaham
+2023-08-29,69950,SR7 7TX,S,N,F,24,,Eloise Close,,Seaham
+2023-08-29,142000,SR7 7JW,S,N,F,28,,Linthorpe Avenue,,Seaham
+2023-08-23,165000,SR7 7RT,S,N,F,22,,Alder Grove,,Seaham
+2023-08-21,90000,SR7 9PR,T,N,F,16,,Williams Road,Murton,Seaham
+2023-08-18,72500,SR7 8EG,S,N,F,17,,Enfield Road,,Seaham
+2023-08-17,185000,SR7 8HD,S,N,F,12,,Sidmouth Close,Dalton Le Dale,Seaham
+2023-08-16,85000,SR7 7QS,T,N,F,7,,Rainton Street,,Seaham
+2023-08-14,182000,SR7 7XF,S,N,F,8,,Church Close,,Seaham
+2023-08-11,187000,SR7 9HX,T,N,F,12,,Douglas Way,Murton,Seaham
+2023-08-11,85000,SR7 8EX,T,N,L,13,,Queens Avenue,Dalton Le Dale,Seaham
+2023-08-11,88500,SR7 8EF,T,N,F,41,,Eastlea Crescent,,Seaham
+2023-08-11,95000,SR7 0HY,T,N,F,38,,Ambleside Avenue,,Seaham
+2023-08-11,187000,SR7 0ER,S,N,F,70,,Woodlands,,Seaham
+2023-08-09,195000,SR7 7DZ,T,N,F,41,,Mulberry Way,,Seaham
+2023-08-09,166000,SR7 0JW,S,N,F,4,,Seaton Crescent,,Seaham
+2023-08-09,140000,SR7 0BY,S,N,F,37,,Cheviot Gardens,,Seaham
+2023-08-08,105000,SR7 8DS,S,N,F,23,,Ellesmere Drive,,Seaham
+2023-08-08,59800,SR7 7UN,S,N,F,61,,Fern Crescent,,Seaham
+2023-08-04,400000,SR7 9RN,S,N,F,Paddock View,,The Village,Murton,Seaham
+2023-08-04,95000,SR7 8AW,T,N,F,9,,Colling Avenue,,Seaham
+2023-08-03,89000,SR7 8NG,T,N,F,4,,Ivy Avenue,,Seaham
+2023-08-03,167000,SR7 7AS,T,N,F,9,,Trinity Court,,Seaham
+2023-08-03,190000,SR7 0LS,S,N,F,Chez Nous,,Seaton Lane,Seaton,Seaham
+2023-08-02,182000,SR7 9BY,S,N,F,8,,Hawthorn Close,Murton,Seaham
+2023-08-02,89500,SR7 8AP,T,N,F,27,,Milton Close,,Seaham
+2023-08-02,89000,SR7 7UU,T,N,F,94,,Heathway,,Seaham
+2023-08-02,164950,SR7 7LH,T,N,F,28,,Alfred Street,,Seaham
+2023-08-01,80000,SR7 9SR,S,N,F,9,,Dowson Square,Murton,Seaham
+2023-07-31,135000,SR7 9QD,S,N,F,Oaklea,,Calvert Terrace,Murton,Seaham
+2023-07-31,80000,SR7 8AF,T,N,F,36,,Bethune Avenue,,Seaham
+2023-07-31,71000,SR7 7UR,S,N,F,103,,Heathway,,Seaham
+2023-07-31,179950,SR7 7SH,T,N,F,6,,Emily Street East,,Seaham
+2023-07-28,168000,SR7 9NB,T,N,F,24,,Fairfield Grove,Murton,Seaham
+2023-07-28,195000,SR7 8SB,D,N,F,14,,West Lane,Hawthorn,Seaham
+2023-07-28,240000,SR7 7XD,T,N,F,2,,Church Green,,Seaham
+2023-07-27,55000,SR7 7HU,T,N,F,21,,Alexandrina Street,,Seaham
+2023-07-25,190000,SR7 7WT,S,N,F,7,,Souter Drive,,Seaham
+2023-07-24,51000,SR7 9BT,T,N,F,11,,Warnebrooke Avenue,Murton,Seaham
+2023-07-24,150000,SR7 7BU,T,N,F,109,,Dene House Road,,Seaham
+2023-07-21,68000,SR7 9PZ,S,N,F,11,,Porter Terrace,Murton,Seaham
+2023-07-21,64000,SR7 8DH,S,N,F,10,,Evesham Road,,Seaham
+2023-07-21,140000,SR7 0JY,T,N,F,22,,Byron Lodge Estate,,Seaham
+2023-07-19,47000,SR7 7HX,F,N,L,13,,Frederick Street,,Seaham
+2023-07-19,115000,SR7 0AW,T,N,F,15,,Corbett Street,,Seaham
+2023-07-18,107000,SR7 9JB,T,N,F,17,,The Avenue,Murton,Seaham
+2023-07-17,105000,SR7 9HQ,S,N,F,53,,Metcalf Crescent,Murton,Seaham
+2023-07-17,87500,SR7 9BD,T,N,F,5,,Morton Close,Murton,Seaham
+2023-07-14,65000,SR7 7ER,T,N,F,10,,Wear Street,,Seaham
+2023-07-14,145000,SR7 0JW,S,N,F,8,,Seaton Crescent,,Seaham
+2023-07-14,77999,SR7 0AZ,T,N,F,3,,Oliver Street,,Seaham
+2023-07-12,150000,SR7 9RL,S,N,F,49,,Church Lane,Murton,Seaham
+2023-07-12,183000,SR7 9GW,T,N,F,14,,Grenaby Way,Murton,Seaham
+2023-07-12,299950,SR7 8QW,S,N,F,Gloucester House,,The Dene,Dalton Le Dale,Seaham
+2023-07-10,84000,SR7 9QN,T,N,F,15,,Lansbury Drive,Murton,Seaham
+2023-07-10,82000,SR7 7QR,T,N,F,27,,Garron Street,,Seaham
+2023-07-07,249950,SR7 7WJ,S,N,F,3,,Goswick Way,,Seaham
+2023-07-07,340000,SR7 7WH,D,N,F,1,,Bamburgh Drive,,Seaham
+2023-07-07,104000,SR7 7HY,T,N,F,49,,Viceroy Street,,Seaham
+2023-07-04,92500,SR7 7SB,T,N,F,45,,Marlborough,,Seaham
+2023-07-03,41000,SR7 0DQ,F,N,L,2,,Duke Street,,Seaham
+2023-06-30,118000,SR7 8JT,S,N,F,24,,Warkworth Crescent,,Seaham
+2023-06-30,126500,SR7 8HZ,S,N,F,36,,Watling Avenue,,Seaham
+2023-06-30,68000,SR7 7TX,T,N,F,18,,Eloise Close,,Seaham
+2023-06-30,145000,SR7 7ST,T,N,F,4,,Victoria Street,,Seaham
+2023-06-30,240000,SR7 7RT,D,N,F,17,,Alder Grove,,Seaham
+2023-06-30,60000,SR7 7HT,T,N,F,3,,West Street,,Seaham
+2023-06-30,68000,SR7 0HA,F,N,L,62,,Burnhall Drive,,Seaham
+2023-06-29,190000,SR7 0PJ,D,N,F,1,,Blaykeston Close,,Seaham
+2023-06-28,76000,SR7 7TX,T,N,F,6,,Eloise Close,,Seaham
+2023-06-27,93500,SR7 7UQ,T,N,F,50,,Parkside Crescent,,Seaham
+2023-06-26,162500,SR7 0LG,S,N,F,10,,Eppleton Hall Close,,Seaham
+2023-06-23,102000,SR7 9TB,T,N,F,41,,Station Estate East,Murton,Seaham
+2023-06-23,110000,SR7 8NN,T,N,F,34,,Kingston Avenue,,Seaham
+2023-06-23,75000,SR7 8AF,S,N,F,82,,Bethune Avenue,,Seaham
+2023-06-23,160000,SR7 7NY,S,N,F,2,,Nursery Bungalows,,Seaham
+2023-06-23,95000,SR7 0EA,S,N,F,7,,Norfolk Close,,Seaham
+2023-06-21,185000,SR7 8HF,S,N,F,15,,Plymouth Close,Dalton Le Dale,Seaham
+2023-06-19,45000,SR7 9DB,T,N,F,6,,Barwick Street,Murton,Seaham
+2023-06-16,58000,SR7 9BH,T,N,F,28,,Windsor Terrace,Murton,Seaham
+2023-06-16,77500,SR7 8LX,T,N,F,57,,Grantham Avenue,,Seaham
+2023-06-09,126000,SR7 9RS,S,N,F,19,,Station Road South,Murton,Seaham
+2023-06-09,74000,SR7 9PY,T,N,F,18,,Gray Avenue,Murton,Seaham
+2023-06-09,58000,SR7 7RE,T,N,F,11,,Aged Miners Homes,,Seaham
+2023-06-07,79950,SR7 9BE,T,N,F,10,,South Coronation Street,Murton,Seaham
+2023-06-06,100000,SR7 7TL,S,N,F,29,,Grants Crescent,,Seaham
+2023-06-01,340000,SR7 8LB,D,N,F,3,,Dalton Heights,Dalton Le Dale,Seaham
+2023-05-31,96000,SR7 8DL,S,N,F,2,,Ennerdale Close,,Seaham
+2023-05-30,39000,SR7 7HX,F,N,L,17A,,Frederick Street,,Seaham
+2023-05-30,125000,SR7 0JJ,S,N,L,9,,Leechmere Crescent,,Seaham
+2023-05-26,83000,SR7 9GW,F,N,L,6,,Grenaby Way,Murton,Seaham
+2023-05-26,68000,SR7 7JT,T,N,F,7,,Mary Street,,Seaham
+2023-05-26,65000,SR7 7HU,T,N,F,27,,Alexandrina Street,,Seaham
+2023-05-26,165000,SR7 0DQ,T,N,F,6,,Duke Street,,Seaham
+2023-05-25,96000,SR7 9SA,T,N,F,30,,Melrose Avenue,Murton,Seaham
+2023-05-22,133000,SR7 8SB,S,N,F,2,,West Lane,Hawthorn,Seaham
+2023-05-19,125000,SR7 8LZ,D,N,F,22,,Grantham Avenue,,Seaham
+2023-05-19,270000,SR7 7PA,D,N,F,14,,Aspen Grove,,Seaham
+2023-05-19,65000,SR7 0JY,F,N,L,48,,Byron Lodge Estate,,Seaham
+2023-05-19,160000,SR7 0BF,S,N,F,16,,Hambleton Drive,,Seaham
+2023-05-17,123000,SR7 7TP,T,N,F,2,,Elizabeth Street,,Seaham
+2023-05-16,100000,SR7 9BD,T,N,F,34,,Morton Close,Murton,Seaham
+2023-05-15,70900,SR7 8NS,T,N,F,51A,,The Avenue,,Seaham
+2023-05-12,112000,SR7 7DZ,S,N,F,4,,Mulberry Way,,Seaham
+2023-05-10,100000,SR7 8JA,S,N,F,7,,Walpole Avenue,,Seaham
+2023-05-09,62500,SR7 7EW,T,N,F,3,,Tyne Street,,Seaham
+2023-05-09,100000,SR7 0HR,T,N,F,16,,Park View,,Seaham
+2023-05-05,155000,SR7 9SB,S,N,F,16,,Jedburgh Close,Murton,Seaham
+2023-05-03,300000,SR7 7BH,D,N,F,13,,Northdene Avenue,,Seaham
+2023-05-03,475000,SR7 0NW,S,N,F,Old Burdon Hamlet,3,Old Burdon,Seaton,Seaham
+2023-04-28,78500,SR7 8AP,S,N,F,14,,Milton Close,,Seaham
+2023-04-28,62000,SR7 7HU,T,N,F,17,,Alexandrina Street,,Seaham
+2023-04-21,275000,SR7 8HE,D,N,F,20,,Falmouth Close,Dalton Le Dale,Seaham
+2023-04-21,70000,SR7 7LZ,T,N,F,72,,Longnewton Street,,Seaham
+2023-04-20,58000,SR7 0HL,F,N,L,4,,Dovedale Court,,Seaham
+2023-04-20,63000,SR7 0BX,F,N,L,60,,Station Road,,Seaham
+2023-04-17,87000,SR7 0BY,D,N,F,27,,Cheviot Gardens,,Seaham
+2023-04-14,250000,SR7 9GY,D,N,F,6,,Foxdale Court,Murton,Seaham
+2023-04-14,118000,SR7 0AR,D,N,F,24,,Rutland Street,,Seaham
+2023-04-14,140000,SR7 0AP,T,N,F,11,,Parkland Terrace,,Seaham
+2023-04-13,85000,SR7 7NQ,T,N,F,21,,Longnewton Street,,Seaham
+2023-04-13,123000,SR7 0AW,T,N,F,4,,Corbett Street,,Seaham
+2023-04-11,62117,SR7 7RE,T,N,F,12,,Aged Miners Homes,,Seaham
+2023-04-05,85000,SR7 7JZ,T,N,F,19,,Ropery Walk,,Seaham
+2023-04-05,295000,SR7 0JG,D,N,F,29,,Leechmere Crescent,,Seaham
+2023-04-03,140000,SR7 8JG,S,N,F,167,,Watling Avenue,,Seaham
+2023-04-03,43000,SR7 7QZ,F,N,F,4A,,Queen Alexandra Road,,Seaham
+2023-03-31,70000,SR7 9PQ,T,N,L,20,,Harrogate Terrace,Murton,Seaham
+2023-03-31,100000,SR7 9DH,T,N,F,18,,Hawkins Road,Murton,Seaham
+2023-03-31,100000,SR7 7UF,T,N,F,59,,Ash Crescent,,Seaham
+2023-03-31,154000,SR7 7ST,T,N,F,17,,Victoria Street,,Seaham
+2023-03-31,210000,SR7 7RP,S,N,F,4,,Yarmouth Close,,Seaham
+2023-03-24,95000,SR7 9BZ,T,N,F,17,,Dalton Terrace,Murton,Seaham
+2023-03-24,85000,SR7 8JW,S,N,F,4,,Webb Avenue,,Seaham
+2023-03-24,123000,SR7 7LA,T,N,F,2,,Alfred Street East,,Seaham
+2023-03-23,750000,SR7 0DE,D,N,F,3,,Poppyfield Court,Seaton,Seaham
+2023-03-22,81000,SR7 0AZ,T,N,F,12,,Oliver Street,,Seaham
+2023-03-21,169000,SR7 7WG,T,N,F,27,,Beadnell Drive,,Seaham
+2023-03-20,77000,SR7 8EE,T,N,F,17,,Eastlea Crescent,,Seaham
+2023-03-17,67000,SR7 9RU,T,N,F,1,,Doxford Terrace North,Murton,Seaham
+2023-03-17,88000,SR7 8LS,T,N,F,3,,Frank Avenue,,Seaham
+2023-03-17,233000,SR7 7WS,T,N,F,7,,Flamborough Walk,,Seaham
+2023-03-17,140000,SR7 7DY,F,N,L,52,,Mappleton Drive,,Seaham
+2023-03-17,130000,SR7 0AX,T,N,F,22,,Sutherland Street,,Seaham
+2023-03-16,79710,SR7 7UG,S,N,F,41,,Ash Crescent,,Seaham
+2023-03-15,85000,SR7 7SQ,S,N,F,9,,Clarence Street,,Seaham
+2023-03-14,230000,SR7 0LY,D,N,F,High Uplands,,The Village,Seaton,Seaham
+2023-03-10,83000,SR7 7TQ,T,N,F,16,,Polemarch Street,,Seaham
+2023-03-10,90000,SR7 7QN,T,N,F,9,,Hill Street,,Seaham
+2023-03-10,95000,SR7 7HX,T,N,F,15,,Frederick Street,,Seaham
+2023-03-03,150000,SR7 8HD,S,N,F,28,,Sidmouth Close,Dalton Le Dale,Seaham
+2023-03-03,230000,SR7 0LU,S,N,F,11,,Seaton Grove,,Seaham
+2023-03-03,99500,SR7 0LD,T,N,F,2,,Melrose Crescent,,Seaham
+2023-03-02,130000,SR7 7BW,S,N,F,59,,Dene Way,,Seaham
+2023-02-28,159950,SR7 0AS,T,N,F,20,,Ranksborough Street,,Seaham
+2023-02-27,78000,SR7 8BQ,S,N,F,186,,The Avenue,,Seaham
+2023-02-27,65000,SR7 8AW,S,N,F,13,,Colling Avenue,,Seaham
+2023-02-22,187500,SR7 7SR,T,N,F,6,,Queen Street,,Seaham
+2023-02-22,146000,SR7 7JW,T,N,F,48,,Linthorpe Avenue,,Seaham
+2023-02-20,138000,SR7 9HE,S,N,F,43,,Gowland Square,Murton,Seaham
+2023-02-20,140000,SR7 0BY,D,N,F,13,,Cheviot Gardens,,Seaham
+2023-02-17,75000,SR7 8JU,T,N,F,6,,Winslow Crescent,,Seaham
+2023-02-17,84000,SR7 7LB,T,N,F,28,,Stewart Street East,,Seaham
+2023-02-14,485000,SR7 8QZ,D,N,F,Twynholme,,Overdene,Dalton Le Dale,Seaham
+2023-02-13,67500,SR7 9JL,S,N,F,4,,Trevone Square,Murton,Seaham
+2023-02-13,69995,SR7 9JH,T,N,F,8,,Beech Avenue,Murton,Seaham
+2023-02-10,155000,SR7 7FA,S,N,F,19,,Roseberry Close,,Seaham
+2023-02-06,399950,SR7 7WG,D,N,F,55,,Beadnell Drive,,Seaham
+2023-02-03,33000,SR7 9BA,T,N,F,7,,Western Terrace South,Murton,Seaham
+2023-02-03,155000,SR7 8JY,S,N,F,5,,Bowes Avenue,Dalton Le Dale,Seaham
+2023-02-03,195000,SR7 7PU,D,N,F,53,,St Helens Drive,,Seaham
+2023-02-03,160000,SR7 0DL,S,N,F,28,,Northlea Road,,Seaham
+2023-02-03,140000,SR7 0AL,T,N,F,3,,Swallow Street,,Seaham
+2023-02-01,178000,SR7 7RU,S,N,F,18,,Almond Way,,Seaham
+2023-01-31,254000,SR7 0BE,T,N,F,143,,Station Road,,Seaham
+2023-01-27,137000,SR7 7SQ,T,N,F,4,,Clarence Street,,Seaham
+2023-01-27,185000,SR7 7RT,D,N,F,24,,Alder Grove,,Seaham
+2023-01-27,124950,SR7 7QT,T,N,F,64,,Princess Road,,Seaham
+2023-01-27,350000,SR7 7FB,T,N,F,5,,Elderberry Close,,Seaham
+2023-01-25,105000,SR7 9BQ,T,N,F,12,,Federation Square,Murton,Seaham
+2023-01-25,106000,SR7 8HP,S,N,F,44,,Wycliffe Road,,Seaham
+2023-01-23,71250,SR7 9ND,S,N,F,4,,Wellfield Court,Murton,Seaham
+2023-01-23,166550,SR7 7WT,S,N,F,29,,Souter Drive,,Seaham
+2023-01-23,65000,SR7 7ND,T,N,F,9,,Seaham Street,,Seaham
+2023-01-20,135000,SR7 8AF,T,N,F,96,,Bethune Avenue,,Seaham
+2023-01-20,232125,SR7 7WG,S,N,F,26,,Beadnell Drive,,Seaham
+2023-01-20,70000,SR7 7LG,T,N,F,9,,Candlish Terrace,,Seaham
+2023-01-20,255000,SR7 0PJ,D,N,F,14,,Blaykeston Close,,Seaham
+2023-01-19,80000,SR7 8EU,T,N,L,18,,Jubilee Avenue,Dalton Le Dale,Seaham
+2023-01-18,95000,SR7 9HF,S,N,F,11,,Metcalf Crescent,Murton,Seaham
+2023-01-18,50000,SR7 9DD,T,N,F,35,,Forster Avenue,Murton,Seaham
+2023-01-13,70000,SR7 7HE,T,N,F,69,,Church Street,,Seaham
+2023-01-12,522500,SR7 9DN,D,N,F,9,,Village Farm,Murton,Seaham
+2023-01-09,242500,SR7 9NR,D,N,F,The Bungalow,,Brooklyn Terrace,Murton,Seaham
+2023-01-09,267000,SR7 7WT,D,N,F,28,,Souter Drive,,Seaham
+2023-01-06,85000,SR7 8EX,T,N,F,45,,Queens Avenue,Dalton Le Dale,Seaham
+2023-01-06,75000,SR7 7RL,T,N,F,11,,Cottages Road,,Seaham
+2023-01-06,248000,SR7 0JW,S,N,F,13,,Seaton Crescent,,Seaham
+2023-01-04,61000,SR7 9EL,S,N,F,5,,Clarke Terrace,Murton,Seaham
+2023-01-04,225000,SR7 7EB,S,N,L,42,,Mariners Way,,Seaham
+2023-01-03,50000,SR7 9AR,T,N,F,2,,James Street North,Murton,Seaham
+2022-12-22,120000,SR7 7UG,T,N,F,89,,Ash Crescent,,Seaham
+2022-12-21,190000,SR7 7RS,D,N,F,37,,Redwood,,Seaham
+2022-12-20,255000,SR7 9BD,D,N,F,56,,Morton Close,Murton,Seaham
+2022-12-20,119000,SR7 8NB,T,N,F,34,,Hexham Avenue,,Seaham
+2022-12-20,110000,SR7 7TJ,T,N,F,17,,Benevente Street,,Seaham
+2022-12-19,63500,SR7 7RL,T,N,F,28,,Cottages Road,,Seaham
+2022-12-19,110000,SR7 0HY,T,N,F,9,,Ambleside Avenue,,Seaham
+2022-12-16,64000,SR7 9NR,T,N,F,9,,Brooklyn Terrace,Murton,Seaham
+2022-12-16,68700,SR7 9LG,T,N,F,91,,St Ives Place,Murton,Seaham
+2022-12-16,82000,SR7 7JT,T,N,F,2,,Mary Street,,Seaham
+2022-12-16,149950,SR7 0AL,T,N,F,16,,Swallow Street,,Seaham
+2022-12-15,75000,SR7 8AE,T,N,F,7,,Bethune Avenue,,Seaham
+2022-12-15,115000,SR7 7LH,T,N,F,19,,Alfred Street,,Seaham
+2022-12-15,85000,SR7 7JX,T,N,F,8,,Robert Street,,Seaham
+2022-12-14,57000,SR7 9PS,S,N,F,39,,Porter Terrace,Murton,Seaham
+2022-12-09,39500,SR7 9JH,T,N,F,18,,Beech Avenue,Murton,Seaham
+2022-12-09,195000,SR7 7WG,T,N,F,20,,Beadnell Drive,,Seaham
+2022-12-09,156000,SR7 7JP,T,N,F,1,,Adolphus Place,,Seaham
+2022-12-09,130000,SR7 7DY,F,N,L,38,,Mappleton Drive,,Seaham
+2022-12-08,180000,SR7 9HX,T,N,F,71,,Douglas Way,Murton,Seaham
+2022-12-08,230000,SR7 9GQ,D,N,F,2,,Ramsey Grove,Murton,Seaham
+2022-12-08,282500,SR7 8QE,D,N,F,Dale View,,Strangford Road,,Seaham
+2022-12-06,75000,SR7 8HN,S,N,F,2,,Windermere Road,,Seaham
+2022-12-02,74950,SR7 9PN,S,N,L,"Heather Cottage, 26",,Ripon Terrace,Murton,Seaham
+2022-12-02,39950,SR7 9NP,F,N,L,14,,Brooklyn Street,Murton,Seaham
+2022-12-02,70000,SR7 9JB,T,N,F,18,,The Avenue,Murton,Seaham
+2022-12-02,105000,SR7 8LJ,T,N,F,22,,Dalton Avenue,,Seaham
+2022-12-02,231500,SR7 8DF,D,N,F,50,,Weymouth Drive,Dalton Le Dale,Seaham
+2022-12-02,80000,SR7 7QW,T,N,F,25,,James Street,,Seaham
+2022-12-02,219950,SR7 7PU,D,N,F,16,,St Helens Drive,,Seaham
+2022-12-02,160000,SR7 7PT,S,N,F,43,,Hazel Dene Way,,Seaham
+2022-12-02,121000,SR7 7BS,S,N,F,24,,Derwent Close,,Seaham
+2022-12-02,275000,SR7 0EP,S,N,F,33,,Woodlands,,Seaham
+2022-12-02,230000,SR7 0EP,S,N,F,21,,Woodlands,,Seaham
+2022-12-01,59000,SR7 0BG,F,N,L,191,,Station Road,,Seaham
+2022-12-01,146500,SR7 0AR,T,N,F,6,,Rutland Street,,Seaham
+2022-11-30,25000,SR7 7LW,F,N,L,10A,,Ilchester Street,,Seaham
+2022-11-29,122000,SR7 8RT,S,N,F,11,,Stockton Road East,,Seaham
+2022-11-28,97500,SR7 9BD,S,N,F,67,,Morton Close,Murton,Seaham
+2022-11-28,230000,SR7 8LD,D,N,F,18,,Beldon Close,Dalton Le Dale,Seaham
+2022-11-28,465000,SR7 0DB,D,N,F,11,,Field House Farm,,Seaham
+2022-11-25,86950,SR7 9QF,S,N,F,26,,Calvert Terrace,Murton,Seaham
+2022-11-25,290000,SR7 8RL,T,N,F,West Farm,,,Cold Hesledon,Seaham
+2022-11-25,344000,SR7 8DD,D,N,F,1,,Pemberton View,Cold Hesledon,Seaham
+2022-11-25,85000,SR7 7TB,T,N,F,110,,Princess Road,,Seaham
+2022-11-25,88000,SR7 7NS,T,N,F,16,,Embleton Mews,,Seaham
+2022-11-25,118500,SR7 0JY,T,N,F,24,,Byron Lodge Estate,,Seaham
+2022-11-25,145000,SR7 0DR,T,N,F,1,,Northwood Road,,Seaham
+2022-11-24,120000,SR7 7PU,S,N,F,5,,St Helens Drive,,Seaham
+2022-11-23,180000,SR7 7DG,D,N,F,20,,Stoneycroft Way,,Seaham
+2022-11-21,40000,SR7 7TF,F,N,L,86,,Princess Road,,Seaham
+2022-11-18,78000,SR7 9LQ,T,N,F,38,,Tregoney Avenue,Murton,Seaham
+2022-11-18,297500,SR7 9GY,D,N,F,3,,Foxdale Court,Murton,Seaham
+2022-11-18,169950,SR7 0HD,S,N,F,5,,Lady Milbanke Mews,,Seaham
+2022-11-18,205000,SR7 0DE,D,N,F,6,,Poppyfield Court,Seaton,Seaham
+2022-11-16,70000,SR7 8ED,S,N,F,20,,Eastlea Road,,Seaham
+2022-11-14,80000,SR7 8LJ,T,N,F,18,,Dalton Avenue,,Seaham
+2022-11-11,120000,SR7 9LX,S,N,F,12,,Glebe View,Murton,Seaham
+2022-11-11,142500,SR7 9LS,S,N,F,17,,Hesledon Walk,Murton,Seaham
+2022-11-11,99950,SR7 9EZ,S,N,F,1,,Huntley Avenue,Murton,Seaham
+2022-11-11,123000,SR7 8LR,T,N,F,2,,Exeter Avenue,,Seaham
+2022-11-11,114950,SR7 8JL,S,N,F,16,,Wedgewood Road,,Seaham
+2022-11-11,97000,SR7 8EY,S,N,F,3,,Doreen Avenue,Dalton Le Dale,Seaham
+2022-11-11,76000,SR7 8DN,S,N,F,12,,Eskdale Close,,Seaham
+2022-11-11,95000,SR7 0JJ,S,N,L,18,,Leechmere Crescent,,Seaham
+2022-11-11,140000,SR7 0DJ,S,N,F,58,,Northlea Road,,Seaham
+2022-11-09,151000,SR7 9TG,S,N,F,42,,Winds Lonnen,Murton,Seaham
+2022-11-09,115000,SR7 7JZ,T,N,F,4,,Ropery Walk,,Seaham
+2022-11-08,232500,SR7 8HG,D,N,F,16,,Weymouth Drive,Dalton Le Dale,Seaham
+2022-11-07,97000,SR7 8HZ,S,N,F,1,,Watling Avenue,,Seaham
+2022-11-07,225000,SR7 7WR,T,N,F,18,,Runswick Drive,,Seaham
+2022-11-04,157000,SR7 9NH,S,N,F,8,,Grasmere Terrace,Murton,Seaham
+2022-11-04,240000,SR7 9BD,D,N,F,55,,Morton Close,Murton,Seaham
+2022-11-04,329950,SR7 8LE,D,N,F,6,,Carrhouse Walk,Dalton Le Dale,Seaham
+2022-11-04,250000,SR7 7XD,D,N,F,1,,Church Green,,Seaham
+2022-11-04,199950,SR7 7SQ,T,N,F,2,,Clarence Street,,Seaham
+2022-11-04,139950,SR7 7BS,S,N,F,51,,Derwent Close,,Seaham
+2022-11-01,75000,SR7 9SU,S,N,F,87,,Station Estate North,Murton,Seaham
+2022-10-28,100000,SR7 9HJ,S,N,F,23,,Farmer Crescent,Murton,Seaham
+2022-10-28,167950,SR7 0HD,S,N,F,1,,Lady Milbanke Mews,,Seaham
+2022-10-28,155000,SR7 0DT,S,N,F,5,,Napier Road,,Seaham
+2022-10-28,865000,SR7 0DE,D,N,F,11,,Poppyfield Court,Seaton,Seaham
+2022-10-28,83000,SR7 0AH,T,N,F,7,,Stanley Street,,Seaham
+2022-10-27,100000,SR7 9EQ,S,N,F,39,,Webb Avenue,Murton,Seaham
+2022-10-26,320000,SR7 8LD,D,N,F,24,,Beldon Close,Dalton Le Dale,Seaham
+2022-10-26,70000,SR7 7RQ,T,N,F,7,,Margaret Street,,Seaham
+2022-10-26,160000,SR7 7BT,S,N,F,91,,Derwent Close,,Seaham
+2022-10-25,49500,SR7 9JJ,S,N,F,3,,Cedar Crescent,Murton,Seaham
+2022-10-24,85000,SR7 9BQ,T,N,F,5,,Federation Square,Murton,Seaham
+2022-10-24,78000,SR7 9BG,T,N,F,13,,West Coronation Street,Murton,Seaham
+2022-10-24,92000,SR7 7EB,F,N,L,21,,Mariners Way,,Seaham
+2022-10-21,80000,SR7 9GW,F,N,L,34,,Grenaby Way,Murton,Seaham
+2022-10-21,55000,SR7 9DQ,T,N,F,32,,Hawkins Road,Murton,Seaham
+2022-10-21,140000,SR7 8LN,T,N,F,50,,Dalton Avenue,,Seaham
+2022-10-21,349950,SR7 8DD,D,N,F,4,,Pemberton View,Cold Hesledon,Seaham
+2022-10-21,123950,SR7 8AP,T,N,F,42,,Milton Close,,Seaham
+2022-10-21,85000,SR7 7QJ,T,N,F,4,,Edward Street,,Seaham
+2022-10-21,510500,SR7 0ND,D,N,F,2,,Peartree Rise,Seaton,Seaham
+2022-10-20,90000,SR7 0JY,T,N,F,16,,Byron Lodge Estate,,Seaham
+2022-10-19,88000,SR7 0HX,T,N,F,29,,Byron Terrace,,Seaham
+2022-10-18,129950,SR7 7DY,F,N,L,53,,Mappleton Drive,,Seaham
+2022-10-17,135000,SR7 8HP,S,N,F,34,,Wycliffe Road,,Seaham
+2022-10-14,100000,SR7 9DG,T,N,F,15,,Matthews Road,Murton,Seaham
+2022-10-14,375000,SR7 8RL,S,N,F,West Farm Paddock,,,Cold Hesledon,Seaham
+2022-10-14,240000,SR7 7PU,D,N,F,43,,St Helens Drive,,Seaham
+2022-10-14,175000,SR7 7EB,T,N,L,45,,Mariners Way,,Seaham
+2022-10-13,58000,SR7 8AH,T,N,F,83,,Portland Avenue,,Seaham
+2022-10-13,383000,SR7 7WR,S,N,F,16,,Runswick Drive,,Seaham
+2022-10-11,59950,SR7 7JT,T,N,F,1,,Mary Street,,Seaham
+2022-10-10,100000,SR7 8DN,S,N,F,13,,Eskdale Close,,Seaham
+2022-10-10,465000,SR7 0NS,D,N,F,Aldersyde,,Stockton Road,,Seaham
+2022-10-07,94000,SR7 9TB,S,N,F,56,,Station Estate East,Murton,Seaham
+2022-10-07,32000,SR7 9AH,T,N,F,11,,Glenhurst Terrace,Murton,Seaham
+2022-10-07,115000,SR7 8NF,T,N,F,34,,Ivy Avenue,,Seaham
+2022-10-07,115000,SR7 7TB,T,N,F,114,,Princess Road,,Seaham
+2022-10-07,91000,SR7 0DT,S,N,F,16,,Napier Road,,Seaham
+2022-10-06,162950,SR7 9SE,S,N,F,29,,Station Road South,Murton,Seaham
+2022-10-06,92000,SR7 0EF,S,N,F,24,,Normanby Close,,Seaham
+2022-10-04,74000,SR7 9NE,F,N,L,21,,Dreswick Court,Murton,Seaham
+2022-10-03,65000,SR7 9AT,T,N,F,7,,Watt Street,Murton,Seaham
+2022-09-30,280000,SR7 9HX,D,N,F,30,,Douglas Way,Murton,Seaham
+2022-09-30,135000,SR7 8LA,S,N,F,25,,Galfrid Close,Dalton Le Dale,Seaham
+2022-09-30,66000,SR7 7RF,T,N,F,10,,Maglona Street,,Seaham
+2022-09-30,230000,SR7 7PU,D,N,F,18,,St Helens Drive,,Seaham
+2022-09-30,123000,SR7 7HW,T,N,F,11,,Shaw Street,,Seaham
+2022-09-30,375000,SR7 0PB,D,N,F,Seaham Grange Farm,Grange Garth,Stockton Road,,Seaham
+2022-09-28,139950,SR7 8NW,T,N,F,16,,Kingston Avenue,,Seaham
+2022-09-28,112000,SR7 8AR,S,N,F,65,,Milton Close,,Seaham
+2022-09-28,247000,SR7 0EP,S,N,L,56,,Woodlands,,Seaham
+2022-09-27,180000,SR7 0EY,S,N,F,14,,Northlea Road,,Seaham
+2022-09-23,100000,SR7 9EN,T,N,F,45,,Shinwell Terrace,Murton,Seaham
+2022-09-23,115995,SR7 7TB,T,N,F,111,,Princess Road,,Seaham
+2022-09-22,205000,SR7 7PA,D,N,F,15,,Aspen Grove,,Seaham
+2022-09-16,399500,SR7 9NY,D,N,F,2,,Calstock Close,Murton,Seaham
+2022-09-16,252000,SR7 9BD,D,N,F,18,,Morton Close,Murton,Seaham
+2022-09-16,250000,SR7 8RL,D,N,F,Nord Cottage,,,Cold Hesledon,Seaham
+2022-09-16,350000,SR7 8LB,D,N,F,47,,Dalton Heights,Dalton Le Dale,Seaham
+2022-09-16,370000,SR7 7XH,D,N,F,18,,Merlin Close,,Seaham
+2022-09-16,55000,SR7 7LN,T,N,F,14,,Strangways Street,,Seaham
+2022-09-16,150000,SR7 0LE,S,N,F,69,,Sharpley Drive,,Seaham
+2022-09-16,108000,SR7 0JR,T,N,F,10,,St Johns Terrace,,Seaham
+2022-09-16,289950,SR7 0HY,D,N,F,"West Bungalow, 3",,Ambleside Avenue,,Seaham
+2022-09-16,179950,SR7 0DR,S,N,F,8,,Northwood Road,,Seaham
+2022-09-15,299950,SR7 7XH,D,N,F,25,,Merlin Close,,Seaham
+2022-09-15,190000,SR7 7WN,S,N,F,11,,Hunstanton,,Seaham
+2022-09-12,195000,SR7 7RZ,T,N,F,21,,Cornelia Terrace,,Seaham
+2022-09-12,164950,SR7 7RS,T,N,F,15,,Redwood,,Seaham
+2022-09-12,115500,SR7 0AU,S,N,F,69,,Stanley Street,,Seaham
+2022-09-09,75000,SR7 8SE,F,N,L,5,,The Green,,Seaham
+2022-09-09,175000,SR7 7WU,S,N,F,14,,Alnmouth Way,,Seaham
+2022-09-09,54000,SR7 7QL,S,N,F,5,,Vincent Street,,Seaham
+2022-09-09,69000,SR7 7NF,T,N,F,21,,Melbury Street,,Seaham
+2022-09-09,95000,SR7 0HS,T,N,F,33,,Gregson Terrace,,Seaham
+2022-09-09,192000,SR7 0EP,S,N,F,40,,Woodlands,,Seaham
+2022-09-09,260000,SR7 0EP,S,N,F,35,,Woodlands,,Seaham
+2022-09-08,65950,SR7 9JJ,T,N,F,17,,Cedar Crescent,Murton,Seaham
+2022-09-08,350000,SR7 7SN,T,N,F,18,,Maureen Terrace,,Seaham
+2022-09-02,105000,SR7 9BF,D,N,F,6,,Denewood,Murton,Seaham
+2022-09-02,173000,SR7 7WG,S,N,F,38,,Beadnell Drive,,Seaham
+2022-09-02,68000,SR7 7QN,T,N,F,15,,Hill Street,,Seaham
+2022-09-02,85000,SR7 7NB,T,N,F,7,,Londonderry Street,,Seaham
+2022-09-02,125000,SR7 7HS,T,N,F,2,,Laura Street,,Seaham
+2022-09-02,155000,SR7 0JW,S,N,F,11,,Seaton Crescent,,Seaham
+2022-09-02,178000,SR7 0BF,D,N,F,1,,Hambleton Drive,,Seaham
+2022-08-30,73000,SR7 7QJ,T,N,F,2,,Edward Street,,Seaham
+2022-08-30,136000,SR7 7LH,T,N,F,31,,Alfred Street,,Seaham
+2022-08-26,116000,SR7 8LG,T,N,F,27,,The Avenue,,Seaham
+2022-08-26,89000,SR7 8JN,S,N,F,62,,Windermere Road,,Seaham
+2022-08-26,105000,SR7 8AG,T,N,F,100,,Bethune Avenue,,Seaham
+2022-08-26,89950,SR7 7ND,T,N,F,5,,Seaham Street,,Seaham
+2022-08-26,110000,SR7 7JW,T,N,F,22,,Linthorpe Avenue,,Seaham
+2022-08-26,123000,SR7 7JW,S,N,F,20,,Linthorpe Avenue,,Seaham
+2022-08-26,68000,SR7 0HL,F,N,L,2,,Dovedale Court,,Seaham
+2022-08-24,143000,SR7 9EA,S,N,F,122,,Toft Crescent,Murton,Seaham
+2022-08-24,76000,SR7 8NE,T,N,F,57,,Ivy Avenue,,Seaham
+2022-08-24,73700,SR7 7TP,T,N,F,8,,Elizabeth Street,,Seaham
+2022-08-24,48000,SR7 7ND,T,N,F,17,,Seaham Street,,Seaham
+2022-08-23,82000,SR7 8ED,T,N,F,23,,Eastlea Road,,Seaham
+2022-08-23,80000,SR7 7LQ,T,N,F,20,,Stewart Street,,Seaham
+2022-08-22,75000,SR7 7UU,S,N,F,104,,Heathway,,Seaham
+2022-08-19,78000,SR7 9SU,S,N,F,76,,Station Estate North,Murton,Seaham
+2022-08-19,265000,SR7 7WN,D,N,F,1,,Hunstanton,,Seaham
+2022-08-19,375000,SR7 7BN,D,N,F,11,,Antrim Gardens,,Seaham
+2022-08-19,203000,SR7 0HH,D,N,F,11,,Seaton Park,,Seaham
+2022-08-19,65000,SR7 0BU,T,N,L,19,,Clara Street,,Seaham
+2022-08-18,172500,SR7 7UH,D,N,F,2,,Heathway,,Seaham
+2022-08-17,170000,SR7 8JT,S,N,F,16,,Warkworth Crescent,,Seaham
+2022-08-17,200000,SR7 7RN,D,N,F,29,,Chestnut Way,,Seaham
+2022-08-17,80000,SR7 7ND,T,N,F,1,,Seaham Street,,Seaham
+2022-08-12,50000,SR7 9BJ,T,N,F,8,,Oak Terrace,Murton,Seaham
+2022-08-12,87500,SR7 8DN,S,N,F,3,,Eskdale Close,,Seaham
+2022-08-10,87000,SR7 9HH,S,N,F,6,,Farmer Crescent,Murton,Seaham
+2022-08-08,109950,SR7 9BD,T,N,F,39,,Morton Close,Murton,Seaham
+2022-08-05,172500,SR7 9SE,S,N,F,35,,Station Road South,Murton,Seaham
+2022-08-05,70000,SR7 9PF,T,N,F,9,,North View,Murton,Seaham
+2022-08-05,140000,SR7 9EE,S,N,F,9,,Mann Crescent,Murton,Seaham
+2022-08-05,90000,SR7 7RL,T,N,F,10,,Cottages Road,,Seaham
+2022-08-05,299950,SR7 7AT,T,N,F,5,,Castlereagh Road,,Seaham
+2022-08-04,116000,SR7 7JW,T,N,F,18,,Linthorpe Avenue,,Seaham
+2022-08-02,80000,SR7 8LY,S,N,F,43,,Grantham Avenue,,Seaham
+2022-08-02,105000,SR7 8DN,S,N,F,10,,Eskdale Close,,Seaham
+2022-08-01,70000,SR7 7HT,T,N,F,2,,West Street,,Seaham
+2022-07-29,76000,SR7 9SN,S,N,F,35,,Station Estate North,Murton,Seaham
+2022-07-29,113500,SR7 9SA,T,N,F,22,,Melrose Avenue,Murton,Seaham
+2022-07-29,105000,SR7 9JN,T,N,F,8,,Trevone Square,Murton,Seaham
+2022-07-29,275000,SR7 7WQ,D,N,F,12,,Aldeburgh Way,,Seaham
+2022-07-29,216000,SR7 7WG,S,N,F,12,,Beadnell Drive,,Seaham
+2022-07-29,83320,SR7 7QR,T,N,F,34,,Garron Street,,Seaham
+2022-07-29,84950,SR7 7PE,T,N,F,11,,Aged Miners Homes,Dawdon,Seaham
+2022-07-29,155000,SR7 7AY,T,N,F,24,,Tempest Road,,Seaham
+2022-07-29,325000,SR7 7AT,D,N,F,6,,Castlereagh Road,,Seaham
+2022-07-27,35000,SR7 9BT,T,N,F,11,,Warnebrooke Avenue,Murton,Seaham
+2022-07-27,99950,SR7 8NG,T,N,F,25,,Ivy Avenue,,Seaham
+2022-07-27,153000,SR7 7TL,S,N,F,37,,Grants Crescent,,Seaham
+2022-07-27,53000,SR7 7RF,T,N,F,5,,Maglona Street,,Seaham
+2022-07-27,175000,SR7 7JW,T,N,F,43,,Linthorpe Avenue,,Seaham
+2022-07-27,149000,SR7 0NA,T,N,F,Seaton Farm Cottage,,The Village,Seaton,Seaham
+2022-07-25,77500,SR7 7QH,T,N,F,15,,Union Street,,Seaham
+2022-07-22,76000,SR7 9JG,S,N,F,11,,Toft Crescent,Murton,Seaham
+2022-07-22,250000,SR7 7WT,D,N,F,44,,Souter Drive,,Seaham
+2022-07-22,120000,SR7 7UU,S,N,F,120,,Heathway,,Seaham
+2022-07-22,115300,SR7 7BW,S,N,F,61,,Dene Way,,Seaham
+2022-07-21,245000,SR7 7ST,T,N,F,3,,Victoria Street,,Seaham
+2022-07-19,121000,SR7 8LR,T,N,F,18,,Exeter Avenue,,Seaham
+2022-07-19,95000,SR7 7NA,T,N,F,4,,Mount Stewart Street,,Seaham
+2022-07-19,157500,SR7 7AL,T,N,F,43,,Tintagel Drive,,Seaham
+2022-07-15,86000,SR7 9EQ,S,N,F,35,,Webb Avenue,Murton,Seaham
+2022-07-15,79000,SR7 8EX,T,N,L,41,,Queens Avenue,Dalton Le Dale,Seaham
+2022-07-15,99950,SR7 7NA,T,N,F,8,,Mount Stewart Street,,Seaham
+2022-07-12,76000,SR7 7UE,T,N,F,98,,Ash Crescent,,Seaham
+2022-07-11,72000,SR7 0HL,F,N,L,15,,Dovedale Court,,Seaham
+2022-07-11,90950,SR7 0DG,T,N,F,34,,Nelson Street,,Seaham
+2022-07-08,50000,SR7 8LL,T,N,F,44,,Dalton Avenue,,Seaham
+2022-07-08,220000,SR7 8DF,D,N,F,47,,Weymouth Drive,Dalton Le Dale,Seaham
+2022-07-08,95000,SR7 7NF,T,N,F,5,,Melbury Street,,Seaham
+2022-07-08,64000,SR7 0HL,F,N,L,21,,Dovedale Court,,Seaham
+2022-07-06,52000,SR7 7RG,T,N,F,18,,Chaplin Street,,Seaham
+2022-07-06,308100,SR7 7BQ,D,N,F,13,,Dene House Road,,Seaham
+2022-07-05,115000,SR7 8NA,T,N,F,20,,Hexham Avenue,,Seaham
+2022-07-05,145000,SR7 0JT,S,N,F,22,,Hoy Crescent,,Seaham
+2022-07-05,116000,SR7 0AZ,T,N,F,30,,Oliver Street,,Seaham
+2022-07-04,140000,SR7 0JY,T,N,F,11,,Byron Lodge Estate,,Seaham
+2022-07-01,520000,SR7 0QB,D,N,F,3,,The Meadows,Seaton,Seaham
+2022-07-01,725000,SR7 0DE,D,N,F,1,,Poppyfield Court,Seaton,Seaham
+2022-07-01,108000,SR7 0AL,T,N,F,7,,Swallow Street,,Seaham
+2022-06-30,63000,SR7 7TX,T,N,F,22,,Eloise Close,,Seaham
+2022-06-30,130000,SR7 0JY,T,N,F,31,,Byron Lodge Estate,,Seaham
+2022-06-29,180000,SR7 7DZ,S,N,F,32,,Mulberry Way,,Seaham
+2022-06-28,50000,SR7 7DD,T,N,F,18,,Hawthorn Square,,Seaham
+2022-06-27,80500,SR7 9QJ,T,N,F,4,,Park Lane,Murton,Seaham
+2022-06-27,249950,SR7 7EB,D,N,L,36,,Mariners Way,,Seaham
+2022-06-24,110000,SR7 8NA,S,N,F,31,,Hexham Avenue,,Seaham
+2022-06-24,95000,SR7 8DQ,S,N,F,36,,Windsor Road,,Seaham
+2022-06-24,69000,SR7 7QR,T,N,F,7,,Garron Street,,Seaham
+2022-06-22,70000,SR7 9NP,T,N,F,4,,Brooklyn Street,Murton,Seaham
+2022-06-22,108000,SR7 8JS,S,N,F,69,,Warkworth Crescent,,Seaham
+2022-06-21,69950,SR7 7QR,T,N,F,40,,Garron Street,,Seaham
+2022-06-17,125500,SR7 8LD,S,N,F,43,,Beldon Close,Dalton Le Dale,Seaham
+2022-06-17,90000,SR7 7JX,T,N,F,6,,Robert Street,,Seaham
+2022-06-17,61000,SR7 7JT,T,N,F,3,,Mary Street,,Seaham
+2022-06-16,166550,SR7 9GW,T,N,F,25,,Grenaby Way,Murton,Seaham
+2022-06-15,66500,SR7 7UQ,S,N,F,31,,Parkside Crescent,,Seaham
+2022-06-15,158000,SR7 0JQ,T,N,L,18,,Burdon Crescent,,Seaham
+2022-06-14,43000,SR7 7HN,T,N,F,4,,South Terrace,,Seaham
+2022-06-13,68000,SR7 7QQ,T,N,F,3,,Malcolm Street,,Seaham
+2022-06-10,421000,SR7 9TH,D,N,F,"Poppyfields, 6",,Meadow Lane,Murton,Seaham
+2022-06-10,82000,SR7 7RQ,T,N,F,18,,Margaret Street,,Seaham
+2022-06-10,67000,SR7 7LP,T,N,F,55,,Stavordale Street,,Seaham
+2022-06-07,179950,SR7 7FB,T,N,F,7,,Elderberry Close,,Seaham
+2022-06-07,110000,SR7 0DR,S,N,F,5,,Northwood Road,,Seaham
+2022-05-31,91000,SR7 0HX,T,N,F,17,,Byron Terrace,,Seaham
+2022-05-30,230000,SR7 7EB,D,N,L,44,,Mariners Way,,Seaham
+2022-05-27,100000,SR7 8AF,S,N,F,70,,Bethune Avenue,,Seaham
+2022-05-27,128000,SR7 7TB,T,N,F,118,,Princess Road,,Seaham
+2022-05-27,125000,SR7 7DY,F,N,L,5,,Mappleton Drive,,Seaham
+2022-05-27,110000,SR7 0JJ,S,N,L,20,,Leechmere Crescent,,Seaham
+2022-05-27,125000,SR7 0AR,T,N,F,8,,Rutland Street,,Seaham
+2022-05-26,116000,SR7 9BF,T,N,F,9,,Denewood,Murton,Seaham
+2022-05-25,80000,SR7 9TB,S,N,F,37,,Station Estate East,Murton,Seaham
+2022-05-25,80000,SR7 9EG,T,N,F,7,,Burnip Road,Murton,Seaham
+2022-05-24,193000,SR7 9GX,S,N,F,5,,Dalby Grove,Murton,Seaham
+2022-05-23,125000,SR7 7SE,T,N,F,33,,Adolphus Street West,,Seaham
+2022-05-23,80000,SR7 7LQ,T,N,F,9,,Stewart Street,,Seaham
+2022-05-20,185000,SR7 9HX,T,N,F,53,,Douglas Way,Murton,Seaham
+2022-05-20,80000,SR7 7NG,T,N,F,23,,Mount Stewart Street,,Seaham
+2022-05-20,160000,SR7 7DG,S,N,F,37,,Stoneycroft Way,,Seaham
+2022-05-20,125000,SR7 0LB,T,N,F,23,,Milldale,,Seaham
+2022-05-19,120000,SR7 0AJ,S,N,F,7,,St Aldwyn Road,,Seaham
+2022-05-16,545000,SR7 0DB,D,N,F,6,,Field House Farm,,Seaham
+2022-05-13,480000,SR7 8SD,D,N,F,The Shieling,,The Village,Hawthorn,Seaham
+2022-05-13,365000,SR7 8LB,D,N,F,12,,Dalton Heights,Dalton Le Dale,Seaham
+2022-05-13,80000,SR7 8AB,T,N,F,22,,The Avenue,,Seaham
+2022-05-13,105000,SR7 7UF,T,N,F,59,,Ash Crescent,,Seaham
+2022-05-13,160100,SR7 7BS,T,N,F,9,,Derwent Close,,Seaham
+2022-05-13,150000,SR7 7AL,S,N,F,27,,Tintagel Drive,,Seaham
+2022-05-12,265000,SR7 7WX,D,N,F,51,,Marsdon Way,,Seaham
+2022-05-10,275000,SR7 7WT,S,N,F,3,,Souter Drive,,Seaham
+2022-05-10,95000,SR7 7QT,T,N,F,62,,Princess Road,,Seaham
+2022-05-09,72500,SR7 9LG,T,N,F,77,,St Ives Place,Murton,Seaham
+2022-05-06,179950,SR7 9TG,D,N,F,71,,Winds Lonnen,Murton,Seaham
+2022-05-06,110000,SR7 9SW,S,N,F,29,,Station Estate South,Murton,Seaham
+2022-05-06,120000,SR7 0HY,T,N,F,35,,Ambleside Avenue,,Seaham
+2022-05-06,76000,SR7 0HS,T,N,F,36,,Gregson Terrace,,Seaham
+2022-05-04,116000,SR7 0AR,D,N,F,24,,Rutland Street,,Seaham
+2022-05-03,13000,SR7 7DP,S,N,F,2,,Rockingham Close,,Seaham
+2022-05-03,62000,SR7 0HA,F,N,L,62,,Burnhall Drive,,Seaham
+2022-04-29,315000,SR7 7WR,D,N,F,37,,Runswick Drive,,Seaham
+2022-04-29,185000,SR7 7RN,D,N,F,34,,Chestnut Way,,Seaham
+2022-04-29,69000,SR7 7NW,T,N,F,26,,Embleton Street,,Seaham
+2022-04-29,65000,SR7 7LS,T,N,F,33,,Stavordale Street,,Seaham
+2022-04-29,170000,SR7 7DG,S,N,F,22,,Stoneycroft Way,,Seaham
+2022-04-29,90000,SR7 0JR,S,N,F,6,,St Johns Terrace,,Seaham
+2022-04-27,129995,SR7 7SA,T,N,F,15,,Marlborough,,Seaham
+2022-04-27,80000,SR7 0JN,T,N,F,4,,Clarks Terrace,,Seaham
+2022-04-26,118500,SR7 7JB,T,N,F,16,,Shakespeare Street,,Seaham
+2022-04-22,85000,SR7 8NU,T,N,F,93,,The Avenue,,Seaham
+2022-04-22,77500,SR7 7RA,T,N,F,46,,Stavordale Street West,,Seaham
+2022-04-21,310000,SR7 7AT,D,N,F,4,,Castlereagh Road,,Seaham
+2022-04-19,338000,SR7 8DD,D,N,F,3,,Pemberton View,Cold Hesledon,Seaham
+2022-04-19,115000,SR7 0BU,T,N,F,5 - 6,,Clara Street,,Seaham
+2022-04-14,257000,SR7 9HX,D,N,F,18,,Douglas Way,Murton,Seaham
+2022-04-14,140000,SR7 8JZ,S,N,F,41,,Escallond Drive,Dalton Le Dale,Seaham
+2022-04-14,145000,SR7 8JZ,S,N,F,20,,Escallond Drive,Dalton Le Dale,Seaham
+2022-04-14,70000,SR7 7XA,T,N,F,108,,Parkside Crescent,,Seaham
+2022-04-14,335000,SR7 7WX,D,N,F,6,,Marsdon Way,,Seaham
+2022-04-14,192000,SR7 7WT,S,N,F,33,,Souter Drive,,Seaham
+2022-04-14,160000,SR7 7WJ,S,N,F,15,,Goswick Way,,Seaham
+2022-04-13,54500,SR7 9JH,T,N,F,15,,Beech Avenue,Murton,Seaham
+2022-04-12,55000,SR7 7JH,T,N,F,15,,Lord Street,,Seaham
+2022-04-11,125500,SR7 8HZ,S,N,F,33,,Watling Avenue,,Seaham
+2022-04-11,165000,SR7 0PD,S,N,F,4,,Glebe Drive,,Seaham
+2022-04-08,166000,SR7 9HX,T,N,F,4,,Douglas Way,Murton,Seaham
+2022-04-08,162000,SR7 7LG,T,N,F,12,,Candlish Terrace,,Seaham
+2022-04-08,150000,SR7 0DU,S,N,F,5,,Newark Crescent,,Seaham
+2022-04-04,100000,SR7 8JE,S,N,F,84,,Watling Avenue,,Seaham
+2022-04-01,73000,SR7 9GW,F,N,L,36,,Grenaby Way,Murton,Seaham
+2022-04-01,50000,SR7 7RG,T,N,F,7,,Chaplin Street,,Seaham
+2022-04-01,89995,SR7 0HR,T,N,F,4,,Park View,,Seaham
+2022-03-31,165000,SR7 9RX,S,N,F,17,,Station Road North,Murton,Seaham
+2022-03-31,80000,SR7 9RU,T,N,F,8,,Doxford Terrace North,Murton,Seaham
+2022-03-31,117000,SR7 9HA,S,N,F,31,,Stephens Road,Murton,Seaham
+2022-03-30,210000,SR7 7WS,T,N,F,15,,Flamborough Walk,,Seaham
+2022-03-29,275000,SR7 7BX,D,N,F,Welfare Cottage,,New Drive,,Seaham
+2022-03-28,80000,SR7 8DG,S,N,F,21,,Windsor Road,,Seaham
+2022-03-25,175000,SR7 9TG,D,N,F,51,,Winds Lonnen,Murton,Seaham
+2022-03-25,75000,SR7 9NZ,F,N,L,5,,Murton Mews,Murton,Seaham
+2022-03-25,135000,SR7 9HA,S,N,F,13,,Stephens Road,Murton,Seaham
+2022-03-25,125000,SR7 8JG,S,N,F,112,,Watling Avenue,,Seaham
+2022-03-25,59000,SR7 7RQ,T,N,F,20,,Margaret Street,,Seaham
+2022-03-25,82500,SR7 0HT,T,N,F,3,,Gregson Terrace West,,Seaham
+2022-03-25,85000,SR7 0AJ,T,N,F,3,,St Aldwyn Road,,Seaham
+2022-03-24,71500,SR7 9DG,T,N,F,6,,Matthews Road,Murton,Seaham
+2022-03-22,500000,SR7 9QS,D,N,F,Murton Farm Steading,3,The Village,Murton,Seaham
+2022-03-22,500000,SR7 9QS,D,N,F,Murton Farm Steading,1,The Village,Murton,Seaham
+2022-03-22,75000,SR7 9NE,F,N,L,23,,Dreswick Court,Murton,Seaham
+2022-03-18,79950,SR7 9PH,T,N,F,9,,Edison Street,Murton,Seaham
+2022-03-18,115000,SR7 8NG,T,N,F,18,,Ivy Avenue,,Seaham
+2022-03-18,135000,SR7 8JY,S,N,F,32,,Bowes Avenue,Dalton Le Dale,Seaham
+2022-03-18,87500,SR7 7UX,T,N,F,8,,Heathway,,Seaham
+2022-03-18,180000,SR7 0HU,S,N,F,54,,Ambleside Avenue,,Seaham
+2022-03-17,189950,SR7 7UX,S,N,F,62,,Heathway,,Seaham
+2022-03-16,159995,SR7 9JB,T,N,F,1,,The Avenue,Murton,Seaham
+2022-03-15,55000,SR7 9PQ,T,N,L,8,,Harrogate Terrace,Murton,Seaham
+2022-03-11,96000,SR7 9BF,T,N,F,34,,Denewood,Murton,Seaham
+2022-03-11,124995,SR7 8ET,S,N,F,10,,Watson Close,Dalton Le Dale,Seaham
+2022-03-11,139950,SR7 0EE,S,N,F,31,,Normanby Close,,Seaham
+2022-03-10,310000,SR7 7AT,D,N,F,2,,Castlereagh Road,,Seaham
+2022-03-08,102500,SR7 9TB,S,N,F,38,,Station Estate East,Murton,Seaham
+2022-03-08,128000,SR7 7WG,T,N,F,44,,Beadnell Drive,,Seaham
+2022-03-08,125000,SR7 0AS,T,N,F,28,,Ranksborough Street,,Seaham
+2022-03-04,190000,SR7 9QS,D,N,F,Murton Farm Steading,2,The Village,Murton,Seaham
+2022-03-04,72000,SR7 9DX,T,N,F,22,,Ash Terrace,Murton,Seaham
+2022-03-03,426000,SR7 9RN,D,N,F,Pond Farm,The Lodge,The Village,Murton,Seaham
+2022-03-02,88000,SR7 0LA,T,N,F,149,,Melrose Crescent,,Seaham
+2022-03-02,62500,SR7 0HA,F,N,L,46,,Burnhall Drive,,Seaham
+2022-02-28,65000,SR7 9GW,F,N,L,9,,Grenaby Way,Murton,Seaham
+2022-02-28,97500,SR7 8NX,T,N,F,86,,The Avenue,,Seaham
+2022-02-28,80000,SR7 0AX,T,N,F,18,,Sutherland Street,,Seaham
+2022-02-25,95000,SR7 9SU,S,N,F,59,,Station Estate North,Murton,Seaham
+2022-02-25,85000,SR7 8LJ,T,N,F,22,,Dalton Avenue,,Seaham
+2022-02-25,445000,SR7 7WL,D,N,F,5,,Boulmer Lea,,Seaham
+2022-02-25,112000,SR7 0AL,T,N,F,8,,Swallow Street,,Seaham
+2022-02-24,72000,SR7 9AS,T,N,F,12,,James Street South,Murton,Seaham
+2022-02-24,115000,SR7 0JZ,T,N,F,133,,Melrose Crescent,,Seaham
+2022-02-23,85000,SR7 8HZ,S,N,F,10,,Watling Avenue,,Seaham
+2022-02-23,105000,SR7 7BT,S,N,F,101,,Derwent Close,,Seaham
+2022-02-18,59500,SR7 9PN,T,N,F,11,,Ripon Terrace,Murton,Seaham
+2022-02-18,95000,SR7 9JL,T,N,F,7,,Trevone Square,Murton,Seaham
+2022-02-18,135000,SR7 7QX,S,N,F,37,,Princess Road,,Seaham
+2022-02-18,120000,SR7 7BJ,S,N,F,79,,Dene House Road,,Seaham
+2022-02-18,65000,SR7 0HL,F,N,L,16,,Dovedale Court,,Seaham
+2022-02-16,103500,SR7 9DF,T,N,F,21,,Matthews Road,Murton,Seaham
+2022-02-16,122000,SR7 0AU,S,N,F,61,,Stanley Street,,Seaham
+2022-02-14,138000,SR7 0JU,S,N,F,9,,Cutting Street,,Seaham
+2022-02-11,140000,SR7 7WG,T,N,F,24,,Beadnell Drive,,Seaham
+2022-02-11,63000,SR7 7TX,T,N,F,19,,Eloise Close,,Seaham
+2022-02-11,207000,SR7 0DE,D,Y,F,17,,Poppyfield Court,Seaton,Seaham
+2022-02-07,70000,SR7 7RB,T,N,F,9,,Shrewsbury Street,,Seaham
+2022-02-04,165000,SR7 9HX,S,N,F,52,,Douglas Way,Murton,Seaham
+2022-01-31,85000,SR7 9GW,F,N,L,35,,Grenaby Way,Murton,Seaham
+2022-01-28,112500,SR7 9ND,S,N,F,11,,Wellfield Court,Murton,Seaham
+2022-01-28,83000,SR7 8PD,T,N,F,113,,The Avenue,,Seaham
+2022-01-28,165000,SR7 7WG,T,N,F,34,,Beadnell Drive,,Seaham
+2022-01-28,98500,SR7 7UX,T,N,F,76,,Heathway,,Seaham
+2022-01-28,160000,SR7 7RU,S,N,F,28,,Almond Way,,Seaham
+2022-01-25,95000,SR7 9QG,S,N,F,55,,Calvert Terrace,Murton,Seaham
+2022-01-24,212000,SR7 7RS,D,N,F,41,,Redwood,,Seaham
+2022-01-24,230000,SR7 7RR,D,N,F,10,,Cherry Grove,,Seaham
+2022-01-24,196000,SR7 0JQ,T,N,L,13,,Burdon Crescent,,Seaham
+2022-01-24,79000,SR7 0HS,T,N,F,4,,Gregson Terrace,,Seaham
+2022-01-21,95000,SR7 8EH,S,N,F,8,,Westlea Road,,Seaham
+2022-01-21,170000,SR7 7RW,S,N,F,4,,Exmouth Close,,Seaham
+2022-01-21,65100,SR7 7HU,T,N,F,27,,Alexandrina Street,,Seaham
+2022-01-21,129950,SR7 0EF,S,N,F,18,,Normanby Close,,Seaham
+2022-01-21,99950,SR7 0AS,T,N,F,27,,Ranksborough Street,,Seaham
+2022-01-21,137000,SR7 0AR,T,N,F,10,,Rutland Street,,Seaham
+2022-01-19,120000,SR7 9NH,S,N,F,6,,Grasmere Terrace,Murton,Seaham
+2022-01-19,339950,SR7 7AS,D,N,F,3,,Trinity Court,,Seaham
+2022-01-14,40000,SR7 8LW,T,N,F,61,,Exeter Avenue,,Seaham
+2022-01-14,350000,SR7 7WQ,D,N,F,11,,Aldeburgh Way,,Seaham
+2022-01-14,162000,SR7 7JW,S,N,F,51,,Linthorpe Avenue,,Seaham
+2022-01-13,63000,SR7 9HG,S,N,F,6,,Metcalfe Crescent,Murton,Seaham
+2022-01-12,119000,SR7 9PP,S,N,F,16,,Dobson Terrace,Murton,Seaham
+2022-01-12,195000,SR7 8SD,S,N,F,24,,The Village,Hawthorn,Seaham
+2022-01-12,115000,SR7 8EY,S,N,F,2,,Doreen Avenue,Dalton Le Dale,Seaham
+2022-01-10,34000,SR7 9AR,T,N,F,6,,James Street North,Murton,Seaham
+2022-01-07,135000,SR7 9SA,S,N,F,10,,Melrose Avenue,Murton,Seaham
+2022-01-07,197000,SR7 7JL,S,N,F,1,,Regency Court,,Seaham
+2022-01-05,176000,SR7 8HG,D,N,F,22,,Weymouth Drive,Dalton Le Dale,Seaham
+2022-01-05,89000,SR7 8BG,T,N,F,240,,The Avenue,,Seaham
+2021-12-23,54000,SR7 8HZ,S,N,F,44,,Watling Avenue,,Seaham
+2021-12-22,75000,SR7 7UX,T,N,F,27,,Heathway,,Seaham
+2021-12-17,79950,SR7 9AP,T,N,F,9,,Henry Street South,Murton,Seaham
+2021-12-17,163000,SR7 8SD,T,N,F,Byfields,,The Village,Hawthorn,Seaham
+2021-12-17,75100,SR7 8NQ,T,N,F,8,,Jasper Avenue,,Seaham
+2021-12-17,292995,SR7 8LD,D,Y,F,1,,Beldon Close,Dalton Le Dale,Seaham
+2021-12-17,96000,SR7 8HW,S,N,F,24,,Windermere Road,,Seaham
+2021-12-17,432500,SR7 7WH,D,N,F,22,,Bamburgh Drive,,Seaham
+2021-12-17,50000,SR7 7QL,T,N,F,16,,Vincent Street,,Seaham
+2021-12-17,182000,SR7 7PU,D,N,F,53,,St Helens Drive,,Seaham
+2021-12-17,49250,SR7 7LX,T,N,F,42,,Wynyard Street,,Seaham
+2021-12-17,489950,SR7 7EZ,S,N,F,2,,Bath Terrace,,Seaham
+2021-12-17,700000,SR7 0PB,D,N,F,West Wynd,,Stockton Road,,Seaham
+2021-12-17,700000,SR7 0PB,D,N,F,West Wynd,,Stockton Road,,Seaham
+2021-12-17,92000,SR7 0LB,T,N,F,28,,Milldale,,Seaham
+2021-12-17,154000,SR7 0EY,S,N,F,16,,Northlea Road,,Seaham
+2021-12-17,116000,SR7 0EB,T,N,F,4,,Navenby Close,,Seaham
+2021-12-17,110000,SR7 0AS,T,N,F,39,,Ranksborough Street,,Seaham
+2021-12-16,50000,SR7 9PX,S,N,F,26,,Gray Avenue,Murton,Seaham
+2021-12-16,160000,SR7 9HX,T,N,F,10,,Douglas Way,Murton,Seaham
+2021-12-16,115000,SR7 8JT,T,N,F,30,,Warkworth Crescent,,Seaham
+2021-12-16,519250,SR7 7WL,D,N,F,19,,Boulmer Lea,,Seaham
+2021-12-16,245000,SR7 7WF,D,N,F,11,,Staithes Court,,Seaham
+2021-12-16,90000,SR7 0AZ,T,N,F,17,,Oliver Street,,Seaham
+2021-12-15,130000,SR7 7JW,T,N,F,31,,Linthorpe Avenue,,Seaham
+2021-12-13,76000,SR7 7QW,T,N,F,30,,James Street,,Seaham
+2021-12-10,170000,SR7 9HX,T,N,F,71,,Douglas Way,Murton,Seaham
+2021-12-10,108000,SR7 9HA,S,N,F,29,,Stephens Road,Murton,Seaham
+2021-12-10,148000,SR7 7BW,S,N,F,27,,Dene Way,,Seaham
+2021-12-10,325000,SR7 7AT,D,N,F,3,,Castlereagh Road,,Seaham
+2021-12-09,52500,SR7 9BG,T,N,F,3,,West Coronation Street,Murton,Seaham
+2021-12-09,130000,SR7 7SN,T,N,F,9,,Maureen Terrace,,Seaham
+2021-12-07,56000,SR7 7QR,T,N,F,26,,Garron Street,,Seaham
+2021-12-07,490000,SR7 0DB,D,N,F,2,,Field House Farm,,Seaham
+2021-12-03,77000,SR7 9PS,S,N,F,33,,Porter Terrace,Murton,Seaham
+2021-12-03,110000,SR7 8AR,T,N,F,59,,Milton Close,,Seaham
+2021-12-03,89995,SR7 7ND,T,N,F,6,,Seaham Street,,Seaham
+2021-12-03,129950,SR7 0EA,S,N,F,18,,Norfolk Close,,Seaham
+2021-12-03,85000,SR7 0AZ,T,N,F,27,,Oliver Street,,Seaham
+2021-12-01,71000,SR7 9PQ,T,N,L,14,,Harrogate Terrace,Murton,Seaham
+2021-12-01,250000,SR7 0LP,S,N,F,Maple Tree,,Seaton Lane,Seaton,Seaham
+2021-11-30,147500,SR7 8HZ,S,N,F,19,,Watling Avenue,,Seaham
+2021-11-30,110000,SR7 0LD,T,N,F,27,,Melrose Crescent,,Seaham
+2021-11-30,79950,SR7 0LD,T,N,F,17,,Melrose Crescent,,Seaham
+2021-11-26,125000,SR7 9LT,T,N,F,19,,Sea View Walk,Murton,Seaham
+2021-11-26,45000,SR7 7NB,T,N,F,11,,Londonderry Street,,Seaham
+2021-11-26,175000,SR7 0JS,S,N,F,8,,Mccutcheon Street,,Seaham
+2021-11-26,230000,SR7 0ER,S,N,F,71,,Woodlands,,Seaham
+2021-11-26,131000,SR7 0BY,S,N,F,37,,Cheviot Gardens,,Seaham
+2021-11-25,112000,SR7 0EA,T,N,F,21,,Norfolk Close,,Seaham
+2021-11-23,284995,SR7 8LE,D,Y,F,5,,Carrhouse Walk,Dalton Le Dale,Seaham
+2021-11-23,370000,SR7 7WL,D,N,F,25,,Boulmer Lea,,Seaham
+2021-11-23,115000,SR7 0AL,T,N,F,17,,Swallow Street,,Seaham
+2021-11-19,117500,SR7 9BF,T,N,F,20,,Denewood,Murton,Seaham
+2021-11-19,105000,SR7 9BD,T,N,F,36,,Morton Close,Murton,Seaham
+2021-11-19,90000,SR7 8LZ,T,N,F,23,,Grantham Avenue,,Seaham
+2021-11-19,87000,SR7 8EX,T,N,L,24,,Queens Avenue,Dalton Le Dale,Seaham
+2021-11-18,189000,SR7 0DE,D,Y,F,5,,Poppyfield Court,Seaton,Seaham
+2021-11-17,265000,SR7 0NA,S,N,F,Solbo,,The Village,Seaton,Seaham
+2021-11-12,200000,SR7 9SE,S,N,F,39,,Station Road South,Murton,Seaham
+2021-11-12,205000,SR7 7RU,D,N,F,5,,Almond Way,,Seaham
+2021-11-12,145000,SR7 7PU,T,N,F,34,,St Helens Drive,,Seaham
+2021-11-12,75000,SR7 7LJ,F,N,L,15,,Albert Street,,Seaham
+2021-11-11,104500,SR7 9RG,T,N,F,7,,West Avenue,Murton,Seaham
+2021-11-11,47000,SR7 9AH,T,N,F,7,,Glenhurst Terrace,Murton,Seaham
+2021-11-11,210000,SR7 7EB,S,N,L,39,,Mariners Way,,Seaham
+2021-11-10,123500,SR7 8AP,T,N,F,18,,Milton Close,,Seaham
+2021-11-10,94000,SR7 7SA,T,N,F,94,,Marlborough,,Seaham
+2021-11-09,57000,SR7 9RG,T,N,F,15,,West Avenue,Murton,Seaham
+2021-11-08,30000,SR7 9BG,T,N,F,21,,West Coronation Street,Murton,Seaham
+2021-11-05,85000,SR7 9QA,S,N,F,5,,Watkin Crescent,Murton,Seaham
+2021-11-05,83000,SR7 9EU,T,N,F,8,,Wetherburn Avenue,Murton,Seaham
+2021-11-05,130000,SR7 9BF,T,N,F,45,,Denewood,Murton,Seaham
+2021-11-05,99950,SR7 9BD,T,N,F,23,,Morton Close,Murton,Seaham
+2021-11-05,60000,SR7 8DB,T,N,F,7,,Holyhead Close,,Seaham
+2021-11-05,108000,SR7 0JY,T,N,F,32,,Byron Lodge Estate,,Seaham
+2021-11-05,195000,SR7 0EP,S,N,F,19,,Woodlands,,Seaham
+2021-11-05,51000,SR7 0BX,F,N,L,84,,Station Road,,Seaham
+2021-11-04,77950,SR7 9DE,T,N,F,18,,Forster Avenue,Murton,Seaham
+2021-11-04,180000,SR7 7WU,S,N,F,18,,Alnmouth Way,,Seaham
+2021-11-04,109000,SR7 0JZ,T,N,F,67,,Melrose Crescent,,Seaham
+2021-11-03,70000,SR7 9NW,T,N,F,7,,Fife Street,Murton,Seaham
+2021-11-03,260000,SR7 9GZ,D,N,F,3,,Stanton Court,Murton,Seaham
+2021-11-03,60000,SR7 7NW,T,N,F,15,,Embleton Street,,Seaham
+2021-11-02,54000,SR7 9NR,T,N,F,7,,Brooklyn Terrace,Murton,Seaham
+2021-11-01,95000,SR7 7XB,T,N,F,119,,Parkside Crescent,,Seaham
+2021-10-29,110000,SR7 9BF,S,N,F,80,,Denewood,Murton,Seaham
+2021-10-29,306995,SR7 8LE,D,Y,F,8,,Carrhouse Walk,Dalton Le Dale,Seaham
+2021-10-29,304995,SR7 8LE,D,Y,F,7,,Carrhouse Walk,Dalton Le Dale,Seaham
+2021-10-29,135000,SR7 8JG,S,N,F,167,,Watling Avenue,,Seaham
+2021-10-29,146524,SR7 8DG,S,N,F,45,,Windsor Road,,Seaham
+2021-10-29,240000,SR7 7WX,D,N,F,58,,Marsdon Way,,Seaham
+2021-10-29,77500,SR7 7QS,T,N,F,6,,Rainton Street,,Seaham
+2021-10-29,99950,SR7 0DG,T,N,F,24,,Nelson Street,,Seaham
+2021-10-28,45000,SR7 9PH,T,N,F,16,,Edison Street,Murton,Seaham
+2021-10-28,75000,SR7 9ED,S,N,F,62,,Toft Crescent,Murton,Seaham
+2021-10-28,336995,SR7 8LE,D,Y,F,9,,Carrhouse Walk,Dalton Le Dale,Seaham
+2021-10-28,125000,SR7 8EY,T,N,L,7,,Doreen Avenue,Dalton Le Dale,Seaham
+2021-10-28,130000,SR7 8EY,T,N,F,18,,Doreen Avenue,Dalton Le Dale,Seaham
+2021-10-28,83000,SR7 0AH,T,N,F,5,,Stanley Street,,Seaham
+2021-10-27,188000,SR7 7WG,S,N,F,39,,Beadnell Drive,,Seaham
+2021-10-27,89950,SR7 7LT,T,N,F,6,,Wynyard Street,,Seaham
+2021-10-27,127000,SR7 7BX,S,N,F,23,,New Drive,,Seaham
+2021-10-26,92500,SR7 8HW,S,N,F,38,,Windermere Road,,Seaham
+2021-10-26,99950,SR7 0LA,T,N,F,84,,Melrose Crescent,,Seaham
+2021-10-25,56000,SR7 9SW,S,N,F,29,,Station Estate South,Murton,Seaham
+2021-10-25,96000,SR7 8JS,S,N,F,57,,Warkworth Crescent,,Seaham
+2021-10-25,95000,SR7 8EX,T,N,F,29,,Queens Avenue,Dalton Le Dale,Seaham
+2021-10-25,95000,SR7 8EX,T,N,L,29,,Queens Avenue,Dalton Le Dale,Seaham
+2021-10-22,274995,SR7 8LE,D,Y,F,6,,Carrhouse Walk,Dalton Le Dale,Seaham
+2021-10-22,65000,SR7 8DZ,S,N,F,34,,Essex Crescent,,Seaham
+2021-10-18,62500,SR7 7LA,T,N,L,8,,Alfred Street East,,Seaham
+2021-10-15,79000,SR7 9HQ,S,N,F,52,,Metcalf Crescent,Murton,Seaham
+2021-10-15,339950,SR7 8DD,D,N,F,2,,Pemberton View,Cold Hesledon,Seaham
+2021-10-15,207000,SR7 7WT,S,N,F,24,,Souter Drive,,Seaham
+2021-10-15,96000,SR7 7RL,T,N,F,6,,Cottages Road,,Seaham
+2021-10-15,75000,SR7 7QR,T,N,F,22,,Garron Street,,Seaham
+2021-10-15,85000,SR7 7NF,T,N,F,3,,Melbury Street,,Seaham
+2021-10-15,115000,SR7 7HY,T,N,F,63,,Viceroy Street,,Seaham
+2021-10-15,120000,SR7 0JY,T,N,F,20,,Byron Lodge Estate,,Seaham
+2021-10-12,210000,SR7 7BN,D,N,F,9,,Antrim Gardens,,Seaham
+2021-10-11,71500,SR7 0HL,F,N,L,7,,Dovedale Court,,Seaham
+2021-10-08,71000,SR7 9RG,T,N,F,3,,West Avenue,Murton,Seaham
+2021-10-08,170000,SR7 8JY,S,N,F,3,,Bowes Avenue,Dalton Le Dale,Seaham
+2021-10-08,127000,SR7 8EY,T,N,F,8,,Doreen Avenue,Dalton Le Dale,Seaham
+2021-10-08,127000,SR7 8EY,T,N,L,8,,Doreen Avenue,Dalton Le Dale,Seaham
+2021-10-08,68000,SR7 7QN,T,N,F,11,,Hill Street,,Seaham
+2021-10-07,62500,SR7 9AA,T,N,F,14,,Woods Terrace East,Murton,Seaham
+2021-10-07,145000,SR7 0BY,T,N,F,56,,Cheviot Gardens,,Seaham
+2021-10-04,82000,SR7 7QJ,T,N,F,6,,Edward Street,,Seaham
+2021-10-01,120000,SR7 9HB,T,N,F,4,,Gowland Square,Murton,Seaham
+2021-10-01,89950,SR7 8AF,T,N,F,80,,Bethune Avenue,,Seaham
+2021-10-01,120000,SR7 0AL,T,N,F,10,,Swallow Street,,Seaham
+2021-09-30,240000,SR7 9HX,D,N,F,38,,Douglas Way,Murton,Seaham
+2021-09-30,495000,SR7 9DN,D,N,F,9,,Village Farm,Murton,Seaham
+2021-09-30,650000,SR7 8SG,D,N,F,West Farm,,The Village,Hawthorn,Seaham
+2021-09-30,284995,SR7 8LE,D,Y,F,4,,Carrhouse Walk,Dalton Le Dale,Seaham
+2021-09-30,274995,SR7 8LE,D,Y,F,3,,Carrhouse Walk,Dalton Le Dale,Seaham
+2021-09-30,279995,SR7 8LD,D,Y,F,2,,Beldon Close,Dalton Le Dale,Seaham
+2021-09-30,347000,SR7 7WG,D,N,F,54,,Beadnell Drive,,Seaham
+2021-09-30,156255,SR7 7PT,S,N,F,41,,Hazel Dene Way,,Seaham
+2021-09-30,95000,SR7 7LA,T,N,F,3,,Alfred Street East,,Seaham
+2021-09-30,155000,SR7 7DG,S,N,F,54,,Stoneycroft Way,,Seaham
+2021-09-30,159950,SR7 0EZ,S,N,F,80,,Burnhall Drive,,Seaham
+2021-09-30,189000,SR7 0DE,D,Y,F,6,,Poppyfield Court,Seaton,Seaham
+2021-09-30,105000,SR7 0AP,T,N,F,2,,Parkland Terrace,,Seaham
+2021-09-29,95000,SR7 9HA,S,N,F,32,,Stephens Road,Murton,Seaham
+2021-09-29,445000,SR7 8QT,D,N,F,Daelton,,,Dalton Le Dale,Seaham
+2021-09-29,147000,SR7 8ND,S,N,F,68,,Hexham Avenue,,Seaham
+2021-09-29,90000,SR7 8AJ,T,N,F,77,,Colling Avenue,,Seaham
+2021-09-29,99950,SR7 7TG,T,N,F,15,,Park Street,,Seaham
+2021-09-29,165000,SR7 7RU,S,N,F,30,,Almond Way,,Seaham
+2021-09-28,117000,SR7 7DY,F,N,L,1,,Mappleton Drive,,Seaham
+2021-09-28,82000,SR7 0DG,T,N,F,12,,Nelson Street,,Seaham
+2021-09-28,130000,SR7 0BU,T,N,F,11,,Clara Street,,Seaham
+2021-09-27,72000,SR7 9TB,S,N,F,38,,Station Estate East,Murton,Seaham
+2021-09-27,60000,SR7 8EE,T,N,F,25,,Eastlea Crescent,,Seaham
+2021-09-24,35000,SR7 9NL,T,N,F,5,,Cookson Terrace,Murton,Seaham
+2021-09-24,130000,SR7 8JY,S,N,F,6,,Bowes Avenue,Dalton Le Dale,Seaham
+2021-09-24,160000,SR7 0DT,S,N,F,1,,Napier Road,,Seaham
+2021-09-23,39999,SR7 9PN,T,N,F,5,,Ripon Terrace,Murton,Seaham
+2021-09-21,100000,SR7 9SA,T,N,F,31,,Melrose Avenue,Murton,Seaham
+2021-09-21,515000,SR7 8SL,D,N,F,7,,The Paddocks,Hawthorn,Seaham
+2021-09-20,85000,SR7 8JP,S,N,F,17,,Wordsworth Avenue,,Seaham
+2021-09-20,69500,SR7 8EX,T,N,L,17,,Queens Avenue,Dalton Le Dale,Seaham
+2021-09-17,304995,SR7 8LD,D,Y,F,16,,Beldon Close,Dalton Le Dale,Seaham
+2021-09-17,200000,SR7 7PA,D,N,F,8,,Aspen Grove,,Seaham
+2021-09-16,75000,SR7 9NE,F,N,L,45,,Dreswick Court,Murton,Seaham
+2021-09-16,85000,SR7 8DG,T,N,F,27,,Windsor Road,,Seaham
+2021-09-14,160000,SR7 8NP,S,N,F,3,,Laurel Avenue,,Seaham
+2021-09-14,71100,SR7 7JX,T,N,F,4,,Robert Street,,Seaham
+2021-09-13,259950,SR7 8SG,S,N,F,Coops Farm,,The Village,Hawthorn,Seaham
+2021-09-13,105500,SR7 7TN,T,N,F,16,,Dillon Street,,Seaham
+2021-09-13,245000,SR7 7RR,S,N,F,14,,Cherry Grove,,Seaham
+2021-09-10,179950,SR7 8SL,S,N,F,4,,The Paddocks,Hawthorn,Seaham
+2021-09-10,128000,SR7 7SF,T,N,F,3,,Talbot Place,,Seaham
+2021-09-10,168000,SR7 7RT,D,N,F,18,,Alder Grove,,Seaham
+2021-09-10,58500,SR7 0HL,F,N,L,20,,Dovedale Court,,Seaham
+2021-09-07,126000,SR7 7JW,T,N,F,47,,Linthorpe Avenue,,Seaham
+2021-09-03,595000,SR7 0NE,D,N,F,Stotfold Farm,Tall Trees,,Seaton,Seaham
+2021-09-02,120000,SR7 8AP,T,N,F,41,,Milton Close,,Seaham
+2021-09-01,108500,SR7 7BW,S,N,F,57,,Dene Way,,Seaham
+2021-08-31,79950,SR7 8JJ,S,N,F,113,,Windermere Road,,Seaham
+2021-08-27,108018,SR7 9RF,T,N,F,18,,Vicarage Terrace,Murton,Seaham
+2021-08-27,111000,SR7 9BF,T,N,F,28,,Denewood,Murton,Seaham
+2021-08-27,166000,SR7 9BB,D,N,F,Valetta Bungalow,,East Coronation Street,Murton,Seaham
+2021-08-27,85000,SR7 8NT,T,N,F,58,,The Avenue,,Seaham
+2021-08-27,337995,SR7 8LE,D,Y,F,2,,Carrhouse Walk,Dalton Le Dale,Seaham
+2021-08-27,272495,SR7 8LE,D,Y,F,12,,Carrhouse Walk,Dalton Le Dale,Seaham
+2021-08-27,227500,SR7 8LD,D,N,F,50,,Beldon Close,Dalton Le Dale,Seaham
+2021-08-27,124000,SR7 8HP,S,N,F,8,,Wycliffe Road,,Seaham
+2021-08-27,66000,SR7 0DQ,T,N,F,27,,Duke Street,,Seaham
+2021-08-26,106000,SR7 9SU,S,N,F,84,,Station Estate North,Murton,Seaham
+2021-08-26,215000,SR7 9NB,D,N,F,14,,Fairfield Grove,Murton,Seaham
+2021-08-26,235000,SR7 9GZ,D,N,F,5,,Stanton Court,Murton,Seaham
+2021-08-26,305995,SR7 8LE,D,Y,F,1,,Carrhouse Walk,Dalton Le Dale,Seaham
+2021-08-26,170000,SR7 0JP,S,N,F,26,,Haverley Drive,,Seaham
+2021-08-26,100500,SR7 0DG,T,N,F,16,,Nelson Street,,Seaham
+2021-08-26,85000,SR7 0AL,T,N,F,3,,Swallow Street,,Seaham
+2021-08-20,78000,SR7 9NE,F,N,L,29,,Dreswick Court,Murton,Seaham
+2021-08-20,336995,SR7 8LE,D,Y,F,10,,Carrhouse Walk,Dalton Le Dale,Seaham
+2021-08-20,89950,SR7 8EX,T,N,L,36,,Queens Avenue,Dalton Le Dale,Seaham
+2021-08-20,155000,SR7 0LE,S,N,F,27,,Sharpley Drive,,Seaham
+2021-08-20,97500,SR7 0HY,T,N,F,11,,Ambleside Avenue,,Seaham
+2021-08-20,94000,SR7 0EF,S,N,F,22,,Normanby Close,,Seaham
+2021-08-20,61000,SR7 0BX,F,N,L,60,,Station Road,,Seaham
+2021-08-20,171000,SR7 0AR,T,N,F,22,,Rutland Street,,Seaham
+2021-08-19,200000,SR7 9RS,S,N,F,"Glenridding, 16",,Station Road South,Murton,Seaham
+2021-08-17,215000,SR7 0HY,S,N,F,7,,Ambleside Avenue,,Seaham
+2021-08-17,229500,SR7 0EP,S,N,F,25,,Woodlands,,Seaham
+2021-08-17,425500,SR7 0DB,D,N,F,14,,Field House Farm,,Seaham
+2021-08-16,282995,SR7 8LD,D,Y,F,17,,Beldon Close,Dalton Le Dale,Seaham
+2021-08-16,179950,SR7 7WG,S,N,F,7,,Beadnell Drive,,Seaham
+2021-08-13,110000,SR7 9RR,T,N,F,4,,Station Road North,Murton,Seaham
+2021-08-13,89000,SR7 9HT,S,N,F,3,,Bevan Square,Murton,Seaham
+2021-08-13,119500,SR7 8RT,S,N,F,5,,Stockton Road East,,Seaham
+2021-08-13,65000,SR7 8LT,T,N,F,41,,Frank Avenue,,Seaham
+2021-08-13,80000,SR7 8AE,T,N,F,27,,Bethune Avenue,,Seaham
+2021-08-13,83500,SR7 7EB,F,N,L,24,,Mariners Way,,Seaham
+2021-08-10,58000,SR7 9AS,T,N,F,8,,James Street South,Murton,Seaham
+2021-08-06,185000,SR7 9TG,D,N,F,54,,Winds Lonnen,Murton,Seaham
+2021-08-06,250000,SR7 7WX,D,N,F,31,,Marsdon Way,,Seaham
+2021-08-06,153000,SR7 7WT,S,N,F,11,,Souter Drive,,Seaham
+2021-08-06,265000,SR7 7WR,D,N,F,12,,Runswick Drive,,Seaham
+2021-08-06,270000,SR7 7QL,D,N,F,Swine Bank Lodge,,Vincent Street,,Seaham
+2021-08-06,78000,SR7 7LB,T,N,F,25,,Stewart Street East,,Seaham
+2021-08-04,170000,SR7 0DE,D,Y,F,26,,Poppyfield Court,,Seaham
+2021-08-02,66250,SR7 9EZ,S,N,F,4,,Huntley Avenue,Murton,Seaham
+2021-08-02,242500,SR7 7WR,S,N,F,25,,Runswick Drive,,Seaham
+2021-08-02,112000,SR7 7DY,F,N,L,44,,Mappleton Drive,,Seaham
+2021-07-30,92500,SR7 9NH,S,N,F,10,,Grasmere Terrace,Murton,Seaham
+2021-07-30,38000,SR7 9BE,T,N,F,8,,Coronation Street South,Murton,Seaham
+2021-07-30,304995,SR7 8LE,D,Y,F,14,,Carrhouse Walk,Dalton Le Dale,Seaham
+2021-07-30,274995,SR7 8LE,D,Y,F,11,,Carrhouse Walk,Dalton Le Dale,Seaham
+2021-07-30,130000,SR7 8JZ,S,N,F,64,,Escallond Drive,Dalton Le Dale,Seaham
+2021-07-30,239950,SR7 7WX,D,N,F,28,,Marsdon Way,,Seaham
+2021-07-30,223500,SR7 7WS,T,N,F,6,,Flamborough Walk,,Seaham
+2021-07-30,303000,SR7 7WG,D,N,F,2,,Beadnell Drive,,Seaham
+2021-07-30,380000,SR7 7SR,D,N,F,Melbourne House,,Queen Street,,Seaham
+2021-07-30,70000,SR7 7QL,S,N,F,7,,Vincent Street,,Seaham
+2021-07-30,235000,SR7 7PU,D,N,F,45,,St Helens Drive,,Seaham
+2021-07-30,152000,SR7 7PT,S,N,F,45,,Hazel Dene Way,,Seaham
+2021-07-30,139995,SR7 7FA,T,Y,F,9,,Roseberry Close,,Seaham
+2021-07-30,119995,SR7 7FA,T,Y,F,7,,Roseberry Close,,Seaham
+2021-07-30,139995,SR7 7FA,T,Y,F,3,,Roseberry Close,,Seaham
+2021-07-30,107500,SR7 7DY,F,N,L,47,,Mappleton Drive,,Seaham
+2021-07-30,174950,SR7 7DG,S,N,F,26,,Stoneycroft Way,,Seaham
+2021-07-30,107000,SR7 7BZ,T,N,F,19,,Henry Street,,Seaham
+2021-07-29,130000,SR7 7PA,S,N,F,20,,Aspen Grove,,Seaham
+2021-07-28,83996,SR7 7FA,T,Y,F,5,,Roseberry Close,,Seaham
+2021-07-26,147500,SR7 9SD,T,N,F,45,,Melrose Avenue,Murton,Seaham
+2021-07-26,98500,SR7 9BD,T,N,F,65,,Morton Close,Murton,Seaham
+2021-07-23,89950,SR7 9BZ,T,N,F,3,,Dalton Terrace,Murton,Seaham
+2021-07-23,120000,SR7 9BF,T,N,F,16,,Denewood,Murton,Seaham
+2021-07-23,262000,SR7 0PJ,D,N,F,24,,Blaykeston Close,,Seaham
+2021-07-22,68000,SR7 9NE,F,N,L,19,,Dreswick Court,Murton,Seaham
+2021-07-22,209500,SR7 9HX,D,N,F,33,,Douglas Way,Murton,Seaham
+2021-07-21,149995,SR7 7FA,S,Y,F,11,,Roseberry Close,,Seaham
+2021-07-20,81500,SR7 9TE,S,N,F,68,,Short Grove,Murton,Seaham
+2021-07-20,55000,SR7 9RG,T,N,F,2,,West Avenue,Murton,Seaham
+2021-07-20,70000,SR7 7TN,T,N,F,10,,Dillon Street,,Seaham
+2021-07-20,49000,SR7 7BT,F,N,L,64,,Derwent Close,,Seaham
+2021-07-16,75000,SR7 9RT,T,N,F,5,,Doxford Terrace South,Murton,Seaham
+2021-07-16,245000,SR7 8SG,D,N,F,Westfield Bungalow,,The Village,Hawthorn,Seaham
+2021-07-16,125000,SR7 8HD,S,N,F,20,,Sidmouth Close,Dalton Le Dale,Seaham
+2021-07-16,72000,SR7 8EE,T,N,F,13,,Eastlea Crescent,,Seaham
+2021-07-16,125000,SR7 7AL,T,N,F,41,,Tintagel Drive,,Seaham
+2021-07-16,78000,SR7 0LA,T,N,F,76,,Melrose Crescent,,Seaham
+2021-07-16,170000,SR7 0DE,D,Y,F,1,,Poppyfield Court,,Seaham
+2021-07-15,304995,SR7 8LE,D,Y,F,15,,Carrhouse Walk,Dalton Le Dale,Seaham
+2021-07-15,115000,SR7 8DQ,S,N,F,32,,Windsor Road,,Seaham
+2021-07-15,135000,SR7 7RP,S,N,F,10,,Yarmouth Close,,Seaham
+2021-07-14,70000,SR7 8JF,T,N,F,25,,Wolsey Road,,Seaham
+2021-07-12,555000,SR7 8RU,D,N,F,Grange Cottage,,Sunderland Road,Hawthorn,Seaham
+2021-07-12,435000,SR7 8BF,D,N,F,24,,Western Park,Hawthorn,Seaham
+2021-07-09,205000,SR7 8QZ,S,N,F,4,,Overdene,Dalton Le Dale,Seaham
+2021-07-09,84000,SR7 8AF,T,N,F,58,,Bethune Avenue,,Seaham
+2021-07-09,30000,SR7 7LU,T,N,F,15,,Wynyard Street,,Seaham
+2021-07-08,83000,SR7 8LT,T,N,F,48,,Frank Avenue,,Seaham
+2021-07-07,125000,SR7 9ND,D,N,F,16,,Wellfield Court,Murton,Seaham
+2021-07-07,68000,SR7 9AF,T,N,F,32,,Woods Terrace East,Murton,Seaham
+2021-07-06,95000,SR7 8JW,T,N,F,39,,Webb Avenue,,Seaham
+2021-07-06,52000,SR7 8JT,S,N,F,19,,Warkworth Crescent,,Seaham
+2021-07-05,83000,SR7 9PR,S,N,F,8,,Williams Road,Murton,Seaham
+2021-07-05,120000,SR7 9LX,S,N,F,35,,Glebe View,Murton,Seaham
+2021-07-02,88000,SR7 8NP,T,N,F,5,,Laurel Avenue,,Seaham
+2021-07-02,75000,SR7 8BG,T,N,F,242,,The Avenue,,Seaham
+2021-07-02,110000,SR7 7TL,S,N,F,32,,Grants Crescent,,Seaham
+2021-07-02,195000,SR7 7PA,D,N,F,6,,Aspen Grove,,Seaham
+2021-07-02,72500,SR7 7LT,T,N,F,5,,Wynyard Street,,Seaham
+2021-07-02,53500,SR7 7LN,T,N,F,22,,Strangways Street,,Seaham
+2021-07-02,185000,SR7 0BY,D,N,F,45,,Cheviot Gardens,,Seaham
+2021-07-01,150000,SR7 7DY,T,N,F,14,,Mappleton Drive,,Seaham
+2021-06-30,106000,SR7 9EE,S,N,F,11,,Mann Crescent,Murton,Seaham
+2021-06-30,400000,SR7 8QT,D,N,F,Springdale,,,Dalton Le Dale,Seaham
+2021-06-30,334995,SR7 8LE,D,Y,F,16,,Carrhouse Walk,Dalton Le Dale,Seaham
+2021-06-30,272995,SR7 8LD,D,Y,F,15,,Beldon Close,Dalton Le Dale,Seaham
+2021-06-30,130000,SR7 8DQ,S,N,F,24,,Windsor Road,,Seaham
+2021-06-30,75000,SR7 7UX,T,N,F,16,,Heathway,,Seaham
+2021-06-30,119995,SR7 7FA,T,Y,F,6,,Roseberry Close,,Seaham
+2021-06-30,149995,SR7 7FA,S,Y,F,15,,Roseberry Close,,Seaham
+2021-06-30,116000,SR7 7BS,S,N,F,24,,Derwent Close,,Seaham
+2021-06-30,149950,SR7 7AY,S,N,F,28,,Tempest Road,,Seaham
+2021-06-30,222000,SR7 0EH,T,N,F,78,,Neasham Road,,Seaham
+2021-06-30,123000,SR7 0AL,T,N,F,9,,Swallow Street,,Seaham
+2021-06-29,320000,SR7 8RY,D,N,F,Bonville,,High West Lane,Hawthorn,Seaham
+2021-06-29,347000,SR7 7WW,D,N,F,5,,Craster Point,,Seaham
+2021-06-29,340000,SR7 7WQ,D,N,F,3,,Aldeburgh Way,,Seaham
+2021-06-29,515000,SR7 7WL,D,N,F,11,,Boulmer Lea,,Seaham
+2021-06-29,70000,SR7 0JZ,S,N,F,54,,Melrose Crescent,,Seaham
+2021-06-28,121000,SR7 9HP,S,N,F,10,,Lumsden Square,Murton,Seaham
+2021-06-28,299950,SR7 9DL,D,N,F,1,,Broadoaks,Murton,Seaham
+2021-06-28,499950,SR7 0DB,D,N,F,3,,Field House Farm,,Seaham
+2021-06-25,190000,SR7 9RY,S,N,F,30,,Station Road North,Murton,Seaham
+2021-06-25,105000,SR7 9PE,T,N,F,2,,West View,Murton,Seaham
+2021-06-25,110000,SR7 9BF,S,N,F,21,,Denewood,Murton,Seaham
+2021-06-25,315000,SR7 7WH,D,N,F,27,,Bamburgh Drive,,Seaham
+2021-06-25,175995,SR7 7FA,T,Y,F,8,,Roseberry Close,,Seaham
+2021-06-25,139995,SR7 7FA,T,Y,F,4,,Roseberry Close,,Seaham
+2021-06-25,70000,SR7 7ER,S,N,F,3,,Wear Street,,Seaham
+2021-06-25,130000,SR7 7BW,S,N,F,2,,Dene Way,,Seaham
+2021-06-25,166000,SR7 0EW,S,N,F,15,,Burnhall Drive,,Seaham
+2021-06-23,38000,SR7 9RT,T,N,F,19,,Doxford Terrace South,Murton,Seaham
+2021-06-23,30000,SR7 8AU,T,N,F,118,,Malvern Crescent,,Seaham
+2021-06-23,47000,SR7 7LZ,T,N,F,68,,Longnewton Street,,Seaham
+2021-06-22,64000,SR7 7NQ,T,N,F,32,,Longnewton Street,,Seaham
+2021-06-18,279995,SR7 8LE,D,Y,F,18,,Carrhouse Walk,Dalton Le Dale,Seaham
+2021-06-18,334995,SR7 8LE,D,Y,F,17,,Carrhouse Walk,Dalton Le Dale,Seaham
+2021-06-18,218000,SR7 7WR,T,N,F,19,,Runswick Drive,,Seaham
+2021-06-18,175000,SR7 7WJ,S,N,F,28,,Goswick Way,,Seaham
+2021-06-18,109000,SR7 7SP,T,N,F,130,,Princess Road,,Seaham
+2021-06-17,65000,SR7 9NE,F,N,L,34,,Dreswick Court,Murton,Seaham
+2021-06-17,161000,SR7 9HX,T,N,F,11,,Douglas Way,Murton,Seaham
+2021-06-17,255000,SR7 7WX,D,N,F,46,,Marsdon Way,,Seaham
+2021-06-17,345000,SR7 7WQ,D,N,F,38,,Aldeburgh Way,,Seaham
+2021-06-17,440000,SR7 7WL,D,N,F,26,,Boulmer Lea,,Seaham
+2021-06-17,58000,SR7 7LZ,T,N,F,65,,Longnewton Street,,Seaham
+2021-06-17,109950,SR7 7HW,T,N,F,5,,Shaw Street,,Seaham
+2021-06-16,140000,SR7 0DZ,S,N,F,28,,Norton Avenue,,Seaham
+2021-06-16,96000,SR7 0AX,D,N,F,8,,Sutherland Street,,Seaham
+2021-06-15,36000,SR7 9NQ,T,N,F,8,,Ada Street West,Murton,Seaham
+2021-06-14,345000,SR7 7WW,D,N,F,14,,Craster Point,,Seaham
+2021-06-11,445000,SR7 9DN,D,N,F,2,,Village Farm,Murton,Seaham
+2021-06-11,115000,SR7 0PG,S,N,F,"Woodside House, 7",,Hall Close,,Seaham
+2021-06-11,106000,SR7 0JX,S,N,F,40,,Rutherford Avenue,,Seaham
+2021-06-07,179995,SR7 7EB,S,N,L,49,,Mariners Way,,Seaham
+2021-06-07,250000,SR7 0PQ,D,N,F,37,,Middleton Close,Seaton,Seaham
+2021-06-04,244000,SR7 7WQ,D,N,F,2,,Aldeburgh Way,,Seaham
+2021-06-04,75000,SR7 7BZ,T,N,F,4,,Henry Street,,Seaham
+2021-06-02,84000,SR7 8DG,S,N,F,44,,Windsor Road,,Seaham
+2021-06-02,94000,SR7 7DY,F,N,L,51,,Mappleton Drive,,Seaham
+2021-06-02,155000,SR7 0DL,S,N,F,20,,Northlea Road,,Seaham
+2021-06-01,320000,SR7 8BZ,D,N,F,1,,Hillcrest Mews,Cold Hesledon,Seaham
+2021-05-28,65000,SR7 9DX,T,N,F,24,,Ash Terrace,Murton,Seaham
+2021-05-28,65000,SR7 9BG,T,N,F,26,,West Coronation Street,Murton,Seaham
+2021-05-28,300000,SR7 7WR,S,N,F,5,,Runswick Drive,,Seaham
+2021-05-28,465000,SR7 7WL,D,N,F,21,,Boulmer Lea,,Seaham
+2021-05-28,210000,SR7 7RT,D,N,F,17,,Alder Grove,,Seaham
+2021-05-28,176000,SR7 0LS,S,N,F,The Poplars,,Seaton Lane,Seaton,Seaham
+2021-05-27,332000,SR7 7WH,D,N,F,20,,Bamburgh Drive,,Seaham
+2021-05-26,188000,SR7 7WT,S,N,F,17,,Souter Drive,,Seaham
+2021-05-24,69500,SR7 9ES,S,N,F,12,,Davison Crescent,Murton,Seaham
+2021-05-24,76000,SR7 8LP,T,N,F,38,,Exeter Avenue,,Seaham
+2021-05-21,39950,SR7 9PN,T,N,F,9,,Ripon Terrace,Murton,Seaham
+2021-05-21,55600,SR7 9DE,T,N,F,14,,Forster Avenue,Murton,Seaham
+2021-05-21,62000,SR7 9BH,S,N,F,35,,Windsor Terrace,Murton,Seaham
+2021-05-21,43000,SR7 7HU,T,N,F,23,,Alexandrina Street,,Seaham
+2021-05-19,83000,SR7 8LZ,T,N,F,15,,Grantham Avenue,,Seaham
+2021-05-19,137000,SR7 8JG,S,N,F,157,,Watling Avenue,,Seaham
+2021-05-14,127000,SR7 9TF,S,N,F,25,,Winds Lonnen,Murton,Seaham
+2021-05-14,72500,SR7 9NE,F,N,L,17,,Dreswick Court,Murton,Seaham
+2021-05-14,60000,SR7 9ND,T,N,F,2,,Wellfield Court,Murton,Seaham
+2021-05-14,54000,SR7 8LH,T,N,F,8A,,Dalton Avenue,,Seaham
+2021-05-14,80500,SR7 8EU,T,N,L,27,,Jubilee Avenue,Dalton Le Dale,Seaham
+2021-05-14,50000,SR7 8AQ,T,N,F,129,,Colling Avenue,,Seaham
+2021-05-14,60000,SR7 7LZ,T,N,F,41,,Longnewton Street,,Seaham
+2021-05-13,143000,SR7 9TG,D,N,F,47,,Winds Lonnen,Murton,Seaham
+2021-05-13,157000,SR7 9GW,T,N,F,24,,Grenaby Way,Murton,Seaham
+2021-05-13,176000,SR7 0DE,D,Y,F,8,,Poppyfield Court,Seaton,Seaham
+2021-05-11,73500,SR7 8EW,S,N,F,41,,Westlea Road,,Seaham
+2021-05-10,157000,SR7 7JW,D,N,F,2,,Linthorpe Avenue,,Seaham
+2021-05-07,42500,SR7 9BG,T,N,F,2,,West Coronation Street,Murton,Seaham
+2021-05-07,280000,SR7 7WX,D,N,F,50,,Marsdon Way,,Seaham
+2021-05-07,150000,SR7 7WG,T,N,F,47,,Beadnell Drive,,Seaham
+2021-05-07,55000,SR7 7LX,T,N,F,55,,Wynyard Street,,Seaham
+2021-05-07,188000,SR7 7DG,S,N,F,31,,Stoneycroft Way,,Seaham
+2021-05-07,130000,SR7 0LE,S,N,F,6,,Sharpley Drive,,Seaham
+2021-05-06,120000,SR7 9JB,T,N,F,9,,The Avenue,Murton,Seaham
+2021-05-05,215000,SR7 0DE,D,Y,F,22,,Poppyfield Court,Seaton,Seaham
+2021-05-04,47000,SR7 7NQ,T,N,F,25,,Longnewton Street,,Seaham
+2021-05-02,525000,SR7 0DE,D,Y,F,2,,Poppyfield Court,Seaton,Seaham
+2021-04-30,70000,SR7 9NE,F,N,L,18,,Dreswick Court,Murton,Seaham
+2021-04-30,65000,SR7 9BG,T,N,F,24,,West Coronation Street,Murton,Seaham
+2021-04-30,171995,SR7 8LE,S,Y,F,20,,Carrhouse Walk,Dalton Le Dale,Seaham
+2021-04-30,171995,SR7 8LE,S,Y,F,19,,Carrhouse Walk,Dalton Le Dale,Seaham
+2021-04-30,80000,SR7 7TQ,T,N,F,1,,Polemarch Street,,Seaham
+2021-04-30,179995,SR7 7FA,D,Y,F,16,,Roseberry Close,,Seaham
+2021-04-30,139995,SR7 7FA,T,N,F,14,,Roseberry Close,,Seaham
+2021-04-30,119995,SR7 7FA,T,Y,F,12,,Roseberry Close,,Seaham
+2021-04-30,139995,SR7 7FA,T,Y,F,10,,Roseberry Close,,Seaham
+2021-04-30,125000,SR7 0DT,S,N,F,2,,Napier Road,,Seaham
+2021-04-29,142000,SR7 9SD,S,N,F,39,,Melrose Avenue,Murton,Seaham
+2021-04-29,65000,SR7 9BT,T,N,F,17,,Warnebrooke Avenue,Murton,Seaham
+2021-04-23,82000,SR7 9BS,T,N,F,6,,South View,Murton,Seaham
+2021-04-23,62000,SR7 8ED,T,N,F,25,,Eastlea Road,,Seaham
+2021-04-23,92000,SR7 8DH,S,N,F,2,,Evesham Road,,Seaham
+2021-04-23,73000,SR7 7UE,T,N,F,17,,Ash Crescent,,Seaham
+2021-04-23,119950,SR7 0AN,T,N,F,22,,St Aldwyn Road,,Seaham
+2021-04-16,39950,SR7 9RG,T,N,F,15,,West Avenue,Murton,Seaham
+2021-04-16,152000,SR7 7TR,S,N,F,11,,Grants Crescent,,Seaham
+2021-04-16,46000,SR7 7RG,T,N,F,18,,Chaplin Street,,Seaham
+2021-04-16,139995,SR7 7FA,T,Y,F,22,,Roseberry Close,,Seaham
+2021-04-16,150000,SR7 0EP,S,N,F,2,,Woodlands,,Seaham
+2021-04-16,132000,SR7 0DQ,T,N,F,6,,Duke Street,,Seaham
+2021-04-14,182500,SR7 0DE,D,Y,F,12,,Poppyfield Court,Seaton,Seaham
+2021-04-13,80000,SR7 9SJ,S,N,F,2,,Station Estate North,Murton,Seaham
+2021-04-13,96000,SR7 0HX,T,N,F,3,,Byron Terrace,,Seaham
+2021-04-09,100000,SR7 8NP,S,N,F,1,,Laurel Avenue,,Seaham
+2021-04-09,194995,SR7 8LD,S,Y,F,8,,Beldon Close,Dalton Le Dale,Seaham
+2021-04-09,100000,SR7 8JP,S,N,F,22,,Wordsworth Avenue,,Seaham
+2021-04-09,160000,SR7 0LH,S,N,F,9,,Slingley Close,,Seaham
+2021-04-08,152500,SR7 7WT,S,N,F,12,,Souter Drive,,Seaham
+2021-04-07,75000,SR7 9QS,D,N,F,Murton Farm Steading,4,The Village,Murton,Seaham
+2021-04-06,160000,SR7 0LG,S,N,F,5,,Eppleton Hall Close,,Seaham
+2021-04-01,165376,SR7 9RE,S,N,F,17,,Church Lane,Murton,Seaham
+2021-04-01,43500,SR7 9DF,T,N,F,30,,Matthews Road,Murton,Seaham
+2021-04-01,169995,SR7 8LE,S,Y,F,22,,Carrhouse Walk,Dalton Le Dale,Seaham
+2021-04-01,82000,SR7 7TJ,T,N,F,13,,Benevente Street,,Seaham
+2021-03-31,49950,SR7 7HU,T,N,F,38,,Alexandrina Street,,Seaham
+2021-03-30,189950,SR7 7RN,D,N,F,38,,Chestnut Way,,Seaham
+2021-03-30,139950,SR7 7FA,T,Y,F,18,,Roseberry Close,,Seaham
+2021-03-26,259995,SR7 8LE,D,Y,F,26,,Carrhouse Walk,Dalton Le Dale,Seaham
+2021-03-26,169995,SR7 8LE,S,Y,F,21,,Carrhouse Walk,Dalton Le Dale,Seaham
+2021-03-26,196995,SR7 8LD,D,Y,F,30,,Beldon Close,Dalton Le Dale,Seaham
+2021-03-26,269995,SR7 8LD,D,Y,F,19,,Beldon Close,Dalton Le Dale,Seaham
+2021-03-26,204995,SR7 8LD,D,Y,F,18,,Beldon Close,Dalton Le Dale,Seaham
+2021-03-26,267995,SR7 8LD,D,Y,F,14,,Beldon Close,Dalton Le Dale,Seaham
+2021-03-26,329995,SR7 8LD,D,Y,F,11,,Beldon Close,Dalton Le Dale,Seaham
+2021-03-26,385000,SR7 8LB,D,N,F,48,,Dalton Heights,Dalton Le Dale,Seaham
+2021-03-26,149950,SR7 8HE,S,N,F,10,,Falmouth Close,Dalton Le Dale,Seaham
+2021-03-26,88000,SR7 7QS,T,N,F,18,,Rainton Street,,Seaham
+2021-03-26,119995,SR7 7FA,T,Y,F,20,,Roseberry Close,,Seaham
+2021-03-26,229000,SR7 0BE,T,N,F,143,,Station Road,,Seaham
+2021-03-25,260000,SR7 8SG,D,N,F,Maycote,,The Village,Hawthorn,Seaham
+2021-03-25,320000,SR7 8SG,T,N,F,Garden Cottage,,The Village,Hawthorn,Seaham
+2021-03-24,125000,SR7 0JW,S,N,F,7,,Seaton Crescent,,Seaham
+2021-03-24,120000,SR7 0JJ,S,N,L,6,,Leechmere Crescent,,Seaham
+2021-03-22,329995,SR7 8LD,D,Y,F,12,,Beldon Close,Dalton Le Dale,Seaham
+2021-03-19,64500,SR7 9SN,S,N,F,40,,Station Estate North,Murton,Seaham
+2021-03-19,150000,SR7 8SB,D,N,F,16,,West Lane,Hawthorn,Seaham
+2021-03-19,274995,SR7 8LE,D,Y,F,23,,Carrhouse Walk,Dalton Le Dale,Seaham
+2021-03-19,59220,SR7 7SA,T,N,F,94,,Marlborough,,Seaham
+2021-03-19,175995,SR7 7FA,S,Y,F,26,,Roseberry Close,,Seaham
+2021-03-19,175995,SR7 7FA,D,Y,F,24,,Roseberry Close,,Seaham
+2021-03-17,161000,SR7 9RE,S,N,F,22,,Church Lane,Murton,Seaham
+2021-03-17,152000,SR7 7WG,S,N,F,37,,Beadnell Drive,,Seaham
+2021-03-17,380000,SR7 7BJ,D,N,F,Denehouse Cottage,,Dene House Road,,Seaham
+2021-03-15,80000,SR7 8HP,S,N,F,11,,Wycliffe Road,,Seaham
+2021-03-15,185000,SR7 8DE,D,N,F,5,,Dawlish Close,,Seaham
+2021-03-15,205000,SR7 0DE,D,Y,F,21,,Poppyfield Court,,Seaham
+2021-03-12,294995,SR7 8LE,D,Y,F,25,,Carrhouse Walk,Dalton Le Dale,Seaham
+2021-03-12,274995,SR7 8LE,D,Y,F,24,,Carrhouse Walk,Dalton Le Dale,Seaham
+2021-03-12,490000,SR7 0QB,D,N,F,1,,The Meadows,Seaton,Seaham
+2021-03-12,110000,SR7 0JY,T,N,F,4,,Byron Lodge Estate,,Seaham
+2021-03-12,180000,SR7 0DE,D,Y,F,15,,Poppyfield Court,Seaton,Seaham
+2021-03-12,104000,SR7 0AP,T,N,F,12,,Parkland Terrace,,Seaham
+2021-03-11,30000,SR7 7LN,T,N,F,48,,Strangways Street,,Seaham
+2021-03-11,106000,SR7 7BS,S,N,F,18,,Derwent Close,,Seaham
+2021-03-11,179000,SR7 0DE,D,Y,F,14,,Poppyfield Court,Seaton,Seaham
+2021-03-10,46000,SR7 7RA,T,N,F,16,,Stavordale Street West,,Seaham
+2021-03-09,260000,SR7 7WX,D,N,F,51,,Marsdon Way,,Seaham
+2021-03-09,470000,SR7 7WL,D,N,F,27,,Boulmer Lea,,Seaham
+2021-03-08,44000,SR7 7LZ,T,N,F,83,,Longnewton Street,,Seaham
+2021-03-08,97000,SR7 7LG,T,N,F,11,,Candlish Terrace,,Seaham
+2021-03-08,80000,SR7 7BW,S,N,F,51,,Dene Way,,Seaham
+2021-03-05,80000,SR7 7SB,S,N,F,35,,Marlborough,,Seaham
+2021-03-05,222500,SR7 7QF,D,N,F,113,,Daphne Crescent,,Seaham
+2021-03-04,65500,SR7 7UT,T,N,F,9,,Maple Crescent,,Seaham
+2021-03-04,97500,SR7 7SX,S,N,F,17,,Camden Square,,Seaham
+2021-03-04,170350,SR7 7PA,D,N,F,15,,Aspen Grove,,Seaham
+2021-03-01,84000,SR7 8HZ,S,N,F,39,,Watling Avenue,,Seaham
+2021-03-01,148000,SR7 7PU,S,N,F,42,,St Helens Drive,,Seaham
+2021-02-26,47000,SR7 9QG,S,N,F,49,,Calvert Terrace,Murton,Seaham
+2021-02-26,194995,SR7 8LD,D,Y,F,7,,Beldon Close,Dalton Le Dale,Seaham
+2021-02-26,197995,SR7 8LD,D,Y,F,31,,Beldon Close,Dalton Le Dale,Seaham
+2021-02-26,87000,SR7 8ED,T,N,F,35,,Eastlea Road,,Seaham
+2021-02-26,420000,SR7 8BZ,D,N,F,"Hillside, 3",,Hillcrest Mews,Cold Hesledon,Seaham
+2021-02-26,71000,SR7 7SB,F,N,L,32,,Marlborough,,Seaham
+2021-02-26,118000,SR7 7PU,S,N,F,37,,St Helens Drive,,Seaham
+2021-02-26,199995,SR7 7FA,D,Y,F,30,,Roseberry Close,,Seaham
+2021-02-26,175995,SR7 7FA,S,Y,F,28,,Roseberry Close,,Seaham
+2021-02-26,184000,SR7 7DG,S,N,F,32,,Stoneycroft Way,,Seaham
+2021-02-26,162500,SR7 0LH,S,N,F,3,,Slingley Close,,Seaham
+2021-02-26,99950,SR7 0EF,S,N,F,20,,Normanby Close,,Seaham
+2021-02-26,184000,SR7 0DE,D,Y,F,4,,Poppyfield Court,Seaton,Seaham
+2021-02-25,92000,SR7 9HQ,S,N,F,41,,Metcalf Crescent,Murton,Seaham
+2021-02-24,150000,SR7 9GW,T,N,F,14,,Grenaby Way,Murton,Seaham
+2021-02-24,95000,SR7 9EQ,S,N,F,25,,Webb Avenue,Murton,Seaham
+2021-02-19,264995,SR7 8LD,D,Y,F,9,,Beldon Close,Dalton Le Dale,Seaham
+2021-02-19,299995,SR7 8LD,D,Y,F,10,,Beldon Close,Dalton Le Dale,Seaham
+2021-02-19,175000,SR7 7PU,D,N,F,26,,St Helens Drive,,Seaham
+2021-02-19,125000,SR7 0AS,T,N,F,3,,Ranksborough Street,,Seaham
+2021-02-17,77500,SR7 0AL,T,N,F,10,,Swallow Street,,Seaham
+2021-02-15,125000,SR7 8JW,S,N,F,27,,Webb Avenue,,Seaham
+2021-02-12,75000,SR7 8BW,S,N,F,18,,Topaz Street,,Seaham
+2021-02-12,250000,SR7 7WT,D,N,F,2,,Souter Drive,,Seaham
+2021-02-12,129000,SR7 7JW,S,N,F,29,,Linthorpe Avenue,,Seaham
+2021-02-12,77000,SR7 7HY,T,N,F,62,,Viceroy Street,,Seaham
+2021-02-12,357000,SR7 7BE,D,N,F,Hazeldene,,Dene House Road,,Seaham
+2021-02-12,185000,SR7 0EH,S,N,F,33,,Neasham Road,,Seaham
+2021-02-08,35000,SR7 9DJ,T,N,F,4,,Oliver Street,Murton,Seaham
+2021-02-05,145000,SR7 9SB,S,N,F,12,,Jedburgh Close,Murton,Seaham
+2021-02-05,147500,SR7 9GX,T,N,F,9,,Dalby Grove,Murton,Seaham
+2021-02-05,220000,SR7 9GQ,D,N,F,12,,Ramsey Grove,Murton,Seaham
+2021-02-05,105000,SR7 9BF,T,N,F,51,,Denewood,Murton,Seaham
+2021-02-05,39950,SR7 9AF,T,N,F,29,,Woods Terrace East,Murton,Seaham
+2021-02-05,194550,SR7 8SF,S,N,F,8,,Belmont Avenue,,Seaham
+2021-02-05,247500,SR7 7WN,D,N,F,15,,Hunstanton,,Seaham
+2021-02-05,58000,SR7 7UF,T,N,F,69,,Ash Crescent,,Seaham
+2021-02-05,72500,SR7 7NF,T,N,F,4,,Melbury Street,,Seaham
+2021-02-05,178000,SR7 0DE,D,Y,F,23,,Poppyfield Court,Seaton,Seaham
+2021-02-04,104250,SR7 7TZ,S,N,F,7,,Ashcroft Mews,,Seaham
+2021-02-03,315000,SR7 0PJ,D,N,F,27,,Blaykeston Close,,Seaham
+2021-02-02,36500,SR7 9JJ,S,N,F,14,,Cedar Crescent,Murton,Seaham
+2021-02-01,57500,SR7 7QW,T,N,F,23,,James Street,,Seaham
+2021-01-29,162000,SR7 9QJ,T,N,F,2,,Park Lane,Murton,Seaham
+2021-01-29,232000,SR7 9HX,D,N,F,59,,Douglas Way,Murton,Seaham
+2021-01-29,39999,SR7 9AX,T,N,F,5,,North Coronation Street,Murton,Seaham
+2021-01-29,287500,SR7 8SG,S,N,F,Wheel House,,The Village,Hawthorn,Seaham
+2021-01-29,90000,SR7 8NF,T,N,F,45,,Ivy Avenue,,Seaham
+2021-01-29,89950,SR7 8LR,T,N,F,9,,Exeter Avenue,,Seaham
+2021-01-29,196995,SR7 8LD,D,Y,F,6,,Beldon Close,Dalton Le Dale,Seaham
+2021-01-29,352500,SR7 7WX,D,N,F,36,,Marsdon Way,,Seaham
+2021-01-29,135000,SR7 7SP,T,N,F,9,,Princess Road,,Seaham
+2021-01-29,318000,SR7 7SN,T,N,F,16,,Maureen Terrace,,Seaham
+2021-01-29,90000,SR7 7QS,T,N,F,29,,Rainton Street,,Seaham
+2021-01-29,75000,SR7 0JZ,S,N,F,52,,Melrose Crescent,,Seaham
+2021-01-29,80000,SR7 0AH,T,N,F,19,,Stanley Street,,Seaham
+2021-01-28,297995,SR7 8LD,D,Y,F,20,,Beldon Close,Dalton Le Dale,Seaham
+2021-01-27,110000,SR7 8DH,S,N,F,11,,Evesham Road,,Seaham
+2021-01-26,29000,SR7 9AT,T,N,F,7,,Watt Street,Murton,Seaham
+2021-01-26,58000,SR7 0ES,F,N,L,36,,Burnhall Drive,,Seaham
+2021-01-25,310000,SR7 8RY,D,N,F,"Paddock View, 5A",,High West Lane,Hawthorn,Seaham
+2021-01-25,175995,SR7 7FA,D,Y,F,17,,Roseberry Close,,Seaham
+2021-01-22,65000,SR7 7TG,T,N,F,17,,Park Street,,Seaham
+2021-01-22,45000,SR7 7RQ,T,N,F,20,,Margaret Street,,Seaham
+2021-01-21,215000,SR7 0PJ,D,N,F,16,,Blaykeston Close,,Seaham
+2021-01-21,155000,SR7 0JY,T,N,F,30,,Byron Lodge Estate,,Seaham
+2021-01-19,140000,SR7 7AS,T,N,F,10,,Trinity Court,,Seaham
+2021-01-15,110000,SR7 9RS,S,N,F,2,,Station Road South,Murton,Seaham
+2021-01-15,84000,SR7 9BD,T,N,F,35,,Morton Close,Murton,Seaham
+2021-01-15,73000,SR7 8NF,T,N,F,47,,Ivy Avenue,,Seaham
+2021-01-15,207995,SR7 8LD,D,Y,F,21,,Beldon Close,Dalton Le Dale,Seaham
+2021-01-15,180000,SR7 8DF,D,N,L,29,,Weymouth Drive,Dalton Le Dale,Seaham
+2021-01-15,365000,SR7 7WF,D,N,F,5,,Staithes Court,,Seaham
+2021-01-15,245000,SR7 7WE,D,N,F,18,,Weybourne Lea,,Seaham
+2021-01-15,49950,SR7 7UL,T,N,F,4,,Jasmine Crescent,,Seaham
+2021-01-15,87500,SR7 7NB,T,N,F,2,,Londonderry Street,,Seaham
+2021-01-15,121000,SR7 0JT,T,N,F,11,,Hoy Crescent,,Seaham
+2021-01-15,245000,SR7 0AG,D,N,F,12,,Parklands Court,,Seaham
+2021-01-08,78000,SR7 8LQ,T,N,F,9,,The Avenue,,Seaham
+2021-01-08,35000,SR7 8AY,T,N,F,3,,Queensbury Road,,Seaham
+2021-01-08,141200,SR7 7RS,T,N,F,15,,Redwood,,Seaham
+2021-01-08,75000,SR7 7LG,T,N,F,8,,Candlish Terrace,,Seaham
+2021-01-08,149950,SR7 7ET,S,N,F,1,,Green Street,,Seaham
+2021-01-06,85000,SR7 0LB,T,N,F,23,,Milldale,,Seaham

@@ -1,0 +1,603 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-06,465000,GL13 9FQ,D,N,F,2,,Kingscote Drive,,Berkeley
+2026-07-31,290000,GL13 9TA,T,N,F,16,,Lynch Road,,Berkeley
+2026-07-31,200000,GL13 9NT,T,N,F,3,,Bays Hill,Newtown,Berkeley
+2026-07-31,282500,GL13 9FJ,T,N,F,8,,Reeves Drive,,Berkeley
+2026-07-30,125000,GL13 9EF,F,N,L,41,,The Brambles,,Berkeley
+2026-07-24,415000,GL13 9DA,S,N,F,17,,Leaze Close,,Berkeley
+2026-07-03,615000,GL13 9LR,D,N,F,21D,,Court Meadow,Stone,Berkeley
+2026-06-08,445000,GL13 9BS,S,N,F,31,,Salter Street,,Berkeley
+2026-06-05,290000,GL13 9EL,T,N,F,1,,Fieldview,,Berkeley
+2026-06-04,450000,GL13 9DB,T,N,F,34,,Salter Street,,Berkeley
+2026-05-28,300000,GL13 9FN,T,N,F,11,,Marybrook Mews,,Berkeley
+2026-05-22,250000,GL13 9BY,S,N,F,29,,Stock Lane,,Berkeley
+2026-05-12,513000,GL13 9JY,D,N,F,Park View,,,Stone,Berkeley
+2026-05-11,240000,GL13 9AF,T,N,F,30A,,The Leys,,Berkeley
+2026-05-08,228000,GL13 9ND,T,N,F,6,,Severn View Parade,Newtown,Berkeley
+2026-05-01,234000,GL13 9DF,T,N,F,31,,Canon Park,,Berkeley
+2026-05-01,310000,GL13 9AR,S,N,F,27,,Howmead,,Berkeley
+2026-04-24,425000,GL13 9BG,T,N,F,24,,Canonbury Street,,Berkeley
+2026-04-24,234000,GL13 9AF,T,N,F,18A,,The Leys,,Berkeley
+2026-04-09,317500,GL13 9DA,S,N,F,21,,Leaze Close,,Berkeley
+2026-03-31,262500,GL13 9FE,T,N,F,13,,Edward Way,,Berkeley
+2026-03-25,1290000,GL13 9DY,D,N,F,The Firs,,,Rockhampton,Berkeley
+2026-03-20,340000,GL13 9LR,D,N,F,28,,Court Meadow,Stone,Berkeley
+2026-03-16,210000,GL13 9ND,T,N,F,7,,Severn View Parade,Newtown,Berkeley
+2026-03-13,235000,GL13 9UT,S,N,F,45,,Oakfield Way,Sharpness,Berkeley
+2026-03-13,250000,GL13 9TD,T,N,F,14,,Parkview Road,,Berkeley
+2026-02-27,207500,GL13 9PY,F,N,L,Newport House,Flat 1,,Newport,Berkeley
+2026-02-18,280000,GL13 9NX,S,N,F,12,,Baylands,Newtown,Berkeley
+2026-02-04,331000,GL13 9FL,D,N,F,26,,Chamberlayne Crescent,,Berkeley
+2026-01-30,475000,GL13 9PL,S,N,F,Cold Elm,,Heathfield,Alkington,Berkeley
+2026-01-30,345000,GL13 9NX,S,N,F,11,,Baylands,Newtown,Berkeley
+2026-01-30,345000,GL13 9DF,D,N,F,19,,Canon Park,,Berkeley
+2026-01-30,375000,GL13 9AS,S,N,F,36,,Howmead,,Berkeley
+2026-01-23,399950,GL13 9HB,S,N,F,Nubbis Ash,2,Berkeley Road,,Berkeley
+2026-01-20,325000,GL13 9RZ,S,N,F,Stambourne Villas,4,Stambourne Lane,Wanswell,Berkeley
+2026-01-16,325000,GL13 9FS,S,N,F,16,,Doverte Close,Newport,Berkeley
+2025-12-19,270000,GL13 9LF,S,N,F,7,,Court Mead,Stone,Berkeley
+2025-12-19,270000,GL13 9FG,T,N,F,27,,Stump Street,,Berkeley
+2025-12-17,380000,GL13 9EN,S,N,F,Cherry Tree Barn,,,Mobley,Berkeley
+2025-12-09,125000,GL13 9EF,F,N,L,39,,The Brambles,,Berkeley
+2025-12-05,425000,GL13 9HT,D,N,F,Corner House,,,Purton,Berkeley
+2025-12-01,695000,GL13 9DN,D,N,F,Shepherds Cottage,,,Lower Stone,Berkeley
+2025-11-28,310000,GL13 9FR,S,Y,F,20,,Tyndale Rise,Newport,Berkeley
+2025-11-28,92000,GL13 9FE,T,N,L,43,,Edward Way,,Berkeley
+2025-11-28,417500,GL13 9DX,D,N,F,Church View,4,Church Road,Rockhampton,Berkeley
+2025-11-28,156000,GL13 9AU,F,N,L,7,,Fishers Road,,Berkeley
+2025-11-27,362500,GL13 9PY,D,N,F,The Old Bakery,,,Newport,Berkeley
+2025-11-26,540000,GL13 9DJ,D,N,F,The Cottage,,,Lower Stone,Berkeley
+2025-11-26,260000,GL13 9DA,S,N,F,29,,Leaze Close,,Berkeley
+2025-11-11,535000,GL13 9DE,D,N,F,16,,Lantern Close,,Berkeley
+2025-11-10,310000,GL13 9UT,S,N,F,1,,Oakfield Way,Sharpness,Berkeley
+2025-10-31,300000,GL13 9FR,S,Y,F,21,,Tyndale Rise,Newport,Berkeley
+2025-10-31,315000,GL13 9AS,S,N,F,12,,Howmead,,Berkeley
+2025-10-30,265000,GL13 9PE,T,N,F,20,,Jubilee Way,Newtown,Berkeley
+2025-10-24,300000,GL13 9BY,S,N,F,4,,Stock Lane,,Berkeley
+2025-10-03,310000,GL13 9NB,T,N,F,13,,Oldminster Road,Sharpness,Berkeley
+2025-10-03,322500,GL13 9FS,S,Y,F,2,,Doverte Close,Newport,Berkeley
+2025-10-03,265000,GL13 9BN,S,N,F,1,,Church Lane,,Berkeley
+2025-09-22,760000,GL13 9SP,D,N,F,The Hay Barn,,,Hainses,Berkeley
+2025-09-01,675000,GL13 9QA,D,Y,F,19,,Kingfisher Way,Newport,Berkeley
+2025-09-01,1010000,GL13 9HZ,D,N,F,The Malt House,,,Hinton,Berkeley
+2025-09-01,252888,GL13 9EG,S,N,F,8,,Fitzhardinge Way,,Berkeley
+2025-08-29,635000,GL13 9QA,D,Y,F,11,,Kingfisher Way,Newport,Berkeley
+2025-08-29,228000,GL13 9EF,T,N,F,36,,The Brambles,,Berkeley
+2025-08-26,196000,GL13 9NN,T,N,F,7,,New Street,Newtown,Berkeley
+2025-08-18,300000,GL13 9FR,S,Y,F,19,,Tyndale Rise,Newport,Berkeley
+2025-08-01,190000,GL13 9UU,S,N,F,60,,Oakfield Way,Sharpness,Berkeley
+2025-08-01,170000,GL13 9NB,T,N,F,"Oldminster Court, 9",2,Oldminster Road,Sharpness,Berkeley
+2025-07-31,595000,GL13 9QA,D,Y,F,16,,Kingfisher Way,Newport,Berkeley
+2025-07-28,237000,GL13 9FL,T,N,F,32,,Chamberlayne Crescent,,Berkeley
+2025-07-25,419000,GL13 9FT,D,Y,F,8,,Nelmes Way,,Berkeley
+2025-07-18,457000,GL13 9FW,D,Y,F,31,,Blossom Lane,,Berkeley
+2025-07-18,785000,GL13 9DT,D,N,F,Laurel Cottage,,,Rockhampton,Berkeley
+2025-07-15,335000,GL13 9DE,D,N,F,46,,Lantern Close,,Berkeley
+2025-07-14,305000,GL13 9FR,S,Y,F,22,,Tyndale Rise,Newport,Berkeley
+2025-07-11,620000,GL13 9LR,D,N,F,27,,Court Meadow,Stone,Berkeley
+2025-07-11,515000,GL13 9FS,D,Y,F,14,,Doverte Close,Newport,Berkeley
+2025-07-11,237000,GL13 9FL,T,N,F,34,,Chamberlayne Crescent,,Berkeley
+2025-07-10,375000,GL13 9SF,T,N,F,Salem Villa,,,New Brookend,Berkeley
+2025-07-04,200000,GL13 9BG,S,N,F,6,,Canonbury Street,,Berkeley
+2025-07-03,482500,GL13 9FS,D,Y,F,5,,Doverte Close,Newport,Berkeley
+2025-07-01,213000,GL13 9DF,T,N,F,25,,Canon Park,,Berkeley
+2025-06-30,320000,GL13 9LF,S,N,F,3,,Court Mead,Stone,Berkeley
+2025-06-27,529000,GL13 9FW,D,Y,F,26,,Blossom Lane,,Berkeley
+2025-06-27,339000,GL13 9FW,S,Y,F,24,,Blossom Lane,,Berkeley
+2025-06-25,339000,GL13 9FW,S,Y,F,22,,Blossom Lane,,Berkeley
+2025-06-23,773000,GL13 9DT,D,N,F,Springfield,,,Rockhampton,Berkeley
+2025-06-20,255000,GL13 9PZ,T,N,F,4,,Chapel Hill,Newport,Berkeley
+2025-06-20,315000,GL13 9NL,T,N,F,Cromwell Villa,,Gloucester Road,Newtown,Berkeley
+2025-06-20,449000,GL13 9FW,D,Y,F,33,,Blossom Lane,,Berkeley
+2025-06-20,454000,GL13 9FW,D,Y,F,29,,Blossom Lane,,Berkeley
+2025-06-20,286000,GL13 9AQ,T,N,F,7,,Berrycroft,,Berkeley
+2025-06-16,310000,GL13 9SE,T,N,F,Elmtree Villa,1,,Wanswell,Berkeley
+2025-06-16,500000,GL13 9FS,D,Y,F,4,,Doverte Close,Newport,Berkeley
+2025-06-16,500000,GL13 9FS,D,Y,F,3,,Doverte Close,Newport,Berkeley
+2025-06-13,302500,GL13 9UR,S,N,F,61,,Oldminster Road,Sharpness,Berkeley
+2025-06-13,112500,GL13 9GA,T,N,L,8,,Cromwell Close,Newtown,Berkeley
+2025-06-10,300000,GL13 9DE,S,N,F,22,,Lantern Close,,Berkeley
+2025-06-06,315000,GL13 9FS,S,Y,F,1,,Doverte Close,Newport,Berkeley
+2025-06-06,245000,GL13 9FL,T,N,F,38,,Chamberlayne Crescent,,Berkeley
+2025-05-29,104000,GL13 9FG,T,N,L,8,,Stump Street,,Berkeley
+2025-05-27,270000,GL13 9FE,T,N,F,73,,Edward Way,,Berkeley
+2025-05-23,259000,GL13 9AX,T,N,F,4,,Fishers Road,,Berkeley
+2025-05-21,449000,GL13 9FW,D,Y,F,27,,Blossom Lane,,Berkeley
+2025-05-09,515000,GL13 9FS,D,Y,F,12,,Doverte Close,Newport,Berkeley
+2025-04-30,400000,GL13 9FL,D,N,F,72,,Chamberlayne Crescent,,Berkeley
+2025-04-30,357000,GL13 9AS,S,N,F,24,,Howmead,,Berkeley
+2025-04-25,445000,GL13 9FW,D,Y,F,3,,Blossom Lane,,Berkeley
+2025-04-25,435000,GL13 9FW,D,Y,F,25,,Blossom Lane,,Berkeley
+2025-04-25,405000,GL13 9FW,D,Y,F,23,,Blossom Lane,,Berkeley
+2025-04-25,387500,GL13 9FH,D,N,F,3,,Jester Court,,Berkeley
+2025-04-23,240000,GL13 9FJ,T,N,F,12,,Reeves Drive,,Berkeley
+2025-04-14,545000,GL13 9FS,D,Y,F,11,,Doverte Close,Newport,Berkeley
+2025-04-09,325000,GL13 9FS,S,Y,F,16,,Doverte Close,Newport,Berkeley
+2025-03-31,520000,GL13 9QA,D,Y,F,29,,Kingfisher Way,Newport,Berkeley
+2025-03-31,227000,GL13 9AQ,S,N,F,9,,,Berrycroft,Berkeley
+2025-03-28,275000,GL13 9UU,S,N,F,4,,Oakfield Way,Sharpness,Berkeley
+2025-03-28,290000,GL13 9TE,T,N,F,37,,Lynch Road,,Berkeley
+2025-03-28,685000,GL13 9QA,D,Y,F,25,,Kingfisher Way,Newport,Berkeley
+2025-03-28,425000,GL13 9PZ,D,N,F,The Old Chapel,,Chapel Hill,Newport,Berkeley
+2025-03-28,175000,GL13 9EH,T,N,F,32,,Severn Drive,,Berkeley
+2025-03-28,135000,GL13 9AA,F,N,L,Mason Court,Flat 2,Marybrook Street,,Berkeley
+2025-03-27,500000,GL13 9JP,D,N,F,Matford Cottage,,Matford Lane,Woodford,Berkeley
+2025-03-24,252500,GL13 9UU,S,N,F,58,,Oakfield Way,Sharpness,Berkeley
+2025-03-21,535000,GL13 9FS,D,Y,F,10,,Doverte Close,Newport,Berkeley
+2025-03-14,212500,GL13 9EH,T,N,F,6,,Severn Drive,,Berkeley
+2025-03-03,525000,GL13 9FS,D,Y,F,8,,Doverte Close,Newport,Berkeley
+2025-02-28,570000,GL13 9JU,D,N,F,Avon Hollow,,Old Bristol Road,Woodford,Berkeley
+2025-02-27,110000,GL13 9GA,T,N,L,6,,Cromwell Close,Newtown,Berkeley
+2025-02-25,305000,GL13 9NJ,S,N,F,11,,Gloucester Road,Newtown,Berkeley
+2025-02-25,200000,GL13 9ND,T,N,F,4,,Severn View Parade,Newtown,Berkeley
+2025-02-21,187500,GL13 9NN,T,N,F,17,,New Street,Newtown,Berkeley
+2025-02-21,565000,GL13 9FS,D,Y,F,13,,Doverte Close,Newport,Berkeley
+2025-02-21,265000,GL13 9DD,S,N,F,6A,,Trevisa Crescent,,Berkeley
+2025-02-20,365000,GL13 9DE,D,N,F,45,,Lantern Close,,Berkeley
+2025-02-18,710000,GL13 9NF,D,N,F,The Venns,,Sanigar Lane,Newtown,Berkeley
+2025-02-05,670000,GL13 9QA,D,Y,F,13,,Kingfisher Way,Newport,Berkeley
+2025-02-03,370000,GL13 9LT,D,N,F,7,,Vale Orchard,Stone,Berkeley
+2025-01-31,690000,GL13 9QA,D,Y,F,21,,Kingfisher Way,Newport,Berkeley
+2025-01-31,320000,GL13 9JW,T,N,F,1,,The Square,Woodford,Berkeley
+2025-01-31,467025,GL13 9FT,D,Y,F,24,,Nelmes Way,,Berkeley
+2025-01-27,250000,GL13 9NX,S,N,F,42,,Baylands,Newtown,Berkeley
+2025-01-24,469000,GL13 9FT,D,Y,F,28,,Nelmes Way,,Berkeley
+2025-01-22,310000,GL13 9TF,D,N,F,2,,Bevans Hill,,Berkeley
+2025-01-22,131500,GL13 9AP,F,N,L,17,,Forest View Road,,Berkeley
+2025-01-13,257000,GL13 9FL,T,N,F,60,,Chamberlayne Crescent,,Berkeley
+2025-01-08,480000,GL13 9FT,D,Y,F,26,,Nelmes Way,,Berkeley
+2024-12-20,378000,GL13 9FT,D,Y,F,22,,Nelmes Way,,Berkeley
+2024-12-19,260000,GL13 9PE,T,N,F,16,,Jubilee Way,Newtown,Berkeley
+2024-12-19,352500,GL13 9LR,D,N,F,46,,Court Meadow,Stone,Berkeley
+2024-12-18,464000,GL13 9FT,D,Y,F,30,,Nelmes Way,,Berkeley
+2024-12-18,270000,GL13 9DF,S,N,F,22,,Canon Park,,Berkeley
+2024-12-17,469000,GL13 9FT,D,Y,F,32,,Nelmes Way,,Berkeley
+2024-12-16,381000,GL13 9TP,D,N,F,44,,James Orchard,,Berkeley
+2024-12-16,280000,GL13 9GA,S,N,F,20,,Cromwell Close,Newtown,Berkeley
+2024-12-13,430000,GL13 9FT,D,Y,F,20,,Nelmes Way,,Berkeley
+2024-12-11,487000,GL13 9FS,D,Y,F,6,,Doverte Close,Newport,Berkeley
+2024-12-10,225000,GL13 9EH,T,N,F,14,,Severn Drive,,Berkeley
+2024-11-29,540000,GL13 9QA,D,Y,F,27,,Kingfisher Way,Newport,Berkeley
+2024-11-29,230000,GL13 9FJ,T,N,F,15,,Reeves Drive,,Berkeley
+2024-11-26,630000,GL13 9SF,D,N,F,Cornerways,,,New Brookend,Berkeley
+2024-11-26,395000,GL13 9QA,D,Y,F,3,,Kingfisher Way,Newport,Berkeley
+2024-11-22,458000,GL13 9FT,D,Y,F,18,,Nelmes Way,,Berkeley
+2024-11-21,469000,GL13 9FT,D,Y,F,34,,Nelmes Way,,Berkeley
+2024-11-14,370000,GL13 9GA,D,N,F,44,,Cromwell Close,Newtown,Berkeley
+2024-11-08,430000,GL13 9EN,D,N,F,8,,Mobley,,Berkeley
+2024-11-01,190000,GL13 9NJ,T,N,F,4,,Gloucester Road,Newtown,Berkeley
+2024-11-01,157000,GL13 9NB,F,N,L,6A,,Oldminster Road,Sharpness,Berkeley
+2024-10-31,575000,GL13 9FS,D,Y,F,7,,Doverte Close,Newport,Berkeley
+2024-10-30,230000,GL13 9JN,S,N,F,Gramaran Villa,,Main Road,Woodford,Berkeley
+2024-10-30,395000,GL13 9FL,D,N,F,76,,Chamberlayne Crescent,,Berkeley
+2024-10-28,485000,GL13 9HF,D,N,F,Greenacre Lodge,,,Breadstone,Berkeley
+2024-10-25,655000,GL13 9QA,D,Y,F,17,,Kingfisher Way,Newport,Berkeley
+2024-10-23,810000,GL13 9HJ,D,N,F,Bakers Patch,,,Halmore,Berkeley
+2024-10-23,540000,GL13 9FT,D,Y,F,16,,Nelmes Way,,Berkeley
+2024-10-18,467000,GL13 9FT,D,Y,F,14,,Nelmes Way,,Berkeley
+2024-10-11,230000,GL13 9FL,T,N,F,44,,Chamberlayne Crescent,,Berkeley
+2024-10-10,280000,GL13 9HP,T,N,F,Sunnyside Cottage,,,Purton,Berkeley
+2024-10-07,227500,GL13 9DF,T,N,F,29,,Canon Park,,Berkeley
+2024-10-04,650000,GL13 9QA,D,Y,F,23,,Kingfisher Way,Newport,Berkeley
+2024-10-04,600000,GL13 9QA,D,Y,F,14,,Kingfisher Way,Newport,Berkeley
+2024-10-04,830000,GL13 9PY,D,N,F,Linden House,,,Newport,Berkeley
+2024-10-04,204250,GL13 9NN,T,N,F,21,,New Street,Newtown,Berkeley
+2024-10-04,480000,GL13 9FT,D,Y,F,10,,Nelmes Way,,Berkeley
+2024-10-01,590000,GL13 9QA,D,Y,F,15,,Kingfisher Way,Newport,Berkeley
+2024-09-30,280000,GL13 9QA,S,Y,F,32,,Kingfisher Way,Newport,Berkeley
+2024-09-30,260000,GL13 9PE,S,N,F,4,,Jubilee Way,Newtown,Berkeley
+2024-09-27,485000,GL13 9QA,D,Y,F,5,,Kingfisher Way,Newport,Berkeley
+2024-09-27,280000,GL13 9QA,S,Y,F,30,,Kingfisher Way,Newport,Berkeley
+2024-09-27,455000,GL13 9FT,D,Y,F,12,,Nelmes Way,,Berkeley
+2024-09-20,605000,GL13 9SF,D,N,F,Highbury House,,,New Brookend,Berkeley
+2024-09-18,290000,GL13 9UG,D,N,F,Central House,,The Docks,Sharpness,Berkeley
+2024-09-13,250500,GL13 9TE,T,N,F,39,,Lynch Road,,Berkeley
+2024-09-12,600000,GL13 9FS,D,Y,F,9,,Doverte Close,Newport,Berkeley
+2024-09-06,375000,GL13 9HP,S,N,F,Green Bank,,,Purton,Berkeley
+2024-08-30,253000,GL13 9NY,T,N,F,12,,The Crescent,Newtown,Berkeley
+2024-08-30,362500,GL13 9LR,D,N,F,42,,Court Meadow,Stone,Berkeley
+2024-08-29,225000,GL13 9FL,T,N,F,20,,Chamberlayne Crescent,,Berkeley
+2024-08-29,375000,GL13 9FL,D,N,F,2,,Chamberlayne Crescent,,Berkeley
+2024-08-23,340000,GL13 9TB,S,N,F,13,,Parkview Road,,Berkeley
+2024-08-23,256000,GL13 9QA,S,Y,F,18,,Kingfisher Way,Newport,Berkeley
+2024-08-23,390000,GL13 9NA,S,N,F,30,,Oldminster Road,Sharpness,Berkeley
+2024-08-23,289000,GL13 9HP,S,N,F,Lavender House,,,Purton,Berkeley
+2024-08-23,755000,GL13 9HF,D,N,F,Evergreen Farm,,,Breadstone,Berkeley
+2024-08-23,327000,GL13 9FT,S,Y,F,4,,Nelmes Way,,Berkeley
+2024-08-23,440000,GL13 9FT,D,Y,F,2,,Nelmes Way,,Berkeley
+2024-08-23,250000,GL13 9AJ,T,N,F,8,,Station Road,,Berkeley
+2024-08-22,327000,GL13 9FT,S,Y,F,6,,Nelmes Way,,Berkeley
+2024-08-21,678300,GL13 9HJ,D,N,F,The Puffins,,,Halmore,Berkeley
+2024-08-21,298500,GL13 9FN,T,N,F,7,,Marybrook Mews,,Berkeley
+2024-08-19,400000,GL13 9AJ,S,N,F,16,,Station Road,,Berkeley
+2024-08-16,181000,GL13 9AQ,T,N,F,3,,Berrycroft,,Berkeley
+2024-08-02,265000,GL13 9AU,T,N,F,25,,Fishers Road,,Berkeley
+2024-07-25,275000,GL13 9US,T,N,F,38,,Oldminster Road,Sharpness,Berkeley
+2024-07-25,198000,GL13 9ND,T,N,F,3,,Severn View Parade,Newtown,Berkeley
+2024-07-19,964000,GL13 9JH,D,N,F,Swanley House,,Swanley Lane,Alkington,Berkeley
+2024-07-16,661750,GL13 9PY,D,N,F,Greenbanks,,,Newport,Berkeley
+2024-07-15,256000,GL13 9QA,S,Y,F,20,,Kingfisher Way,Newport,Berkeley
+2024-06-28,290000,GL13 9UU,T,N,F,30,,Oakfield Way,Sharpness,Berkeley
+2024-06-28,285000,GL13 9EJ,T,N,F,7,,Coach Close,,Berkeley
+2024-06-26,380000,GL13 9LR,D,N,F,44,,Court Meadow,Stone,Berkeley
+2024-06-21,245000,GL13 9PE,T,N,F,12,,Jubilee Way,Newtown,Berkeley
+2024-06-19,495000,GL13 9QA,D,Y,F,1,,Kingfisher Way,Newport,Berkeley
+2024-06-18,133000,GL13 9AA,F,N,L,Mason Court,Flat 6,Marybrook Street,,Berkeley
+2024-06-10,438000,GL13 9FQ,D,Y,F,4,,Kingscote Drive,,Berkeley
+2024-05-24,325000,GL13 9FQ,S,Y,F,12,,Kingscote Drive,,Berkeley
+2024-05-22,450000,GL13 9FQ,D,Y,F,14,,Kingscote Drive,,Berkeley
+2024-05-10,400000,GL13 9DN,D,N,F,Greenways,,,Lower Stone,Berkeley
+2024-05-10,325000,GL13 9BZ,T,N,F,7,,Leaze Close,,Berkeley
+2024-05-03,275000,GL13 9TE,S,N,F,27,,Lynch Road,,Berkeley
+2024-05-03,385000,GL13 9PL,S,N,F,Cold Elm,,Heathfield,Alkington,Berkeley
+2024-05-03,226000,GL13 9NB,T,N,F,8,,Oldminster Road,Sharpness,Berkeley
+2024-05-03,750000,GL13 9LL,D,N,F,Dog Gate House,,Dog Gate Lane,Hystfield,Berkeley
+2024-05-02,367500,GL13 9DE,D,N,F,52,,Lantern Close,,Berkeley
+2024-05-01,290000,GL13 9TA,S,N,F,36,,Lynch Road,,Berkeley
+2024-05-01,575000,GL13 9EN,S,N,F,Hither Moor View,,Mobley,,Berkeley
+2024-04-30,820000,GL13 9SP,D,N,F,Butlers Orchard,,,Hainses,Berkeley
+2024-04-26,480000,GL13 9LR,D,N,F,62,,Court Meadow,Stone,Berkeley
+2024-04-26,325000,GL13 9FQ,S,Y,F,10,,Kingscote Drive,,Berkeley
+2024-04-24,519000,GL13 9FW,D,Y,F,1,,Blossom Lane,,Berkeley
+2024-04-22,449000,GL13 9FQ,D,Y,F,2,,Kingscote Drive,,Berkeley
+2024-04-19,256000,GL13 9QA,S,Y,F,7,,Kingfisher Way,Newport,Berkeley
+2024-04-19,195000,GL13 9ND,T,N,F,5,,Severn View Parade,Newtown,Berkeley
+2024-04-15,315500,GL13 9NX,S,N,F,9,,Baylands,Newtown,Berkeley
+2024-04-12,175000,GL13 9NN,T,N,F,26,,New Street,Newtown,Berkeley
+2024-04-12,205000,GL13 9EH,T,N,F,16,,Severn Drive,,Berkeley
+2024-04-05,448000,GL13 9FQ,D,Y,F,6,,Kingscote Drive,,Berkeley
+2024-04-05,430000,GL13 9FQ,D,Y,F,3,,Kingscote Drive,,Berkeley
+2024-04-03,256000,GL13 9QA,S,Y,F,9,,Kingfisher Way,Newport,Berkeley
+2024-03-28,422500,GL13 9TP,S,N,F,19,,James Orchard,,Berkeley
+2024-03-28,420000,GL13 9FQ,D,Y,F,8,,Kingscote Drive,,Berkeley
+2024-03-28,230000,GL13 9AJ,S,N,F,6,,Station Road,,Berkeley
+2024-03-15,400000,GL13 9TL,D,N,F,Avon Lodge,,,Hamfields,Berkeley
+2024-03-15,445000,GL13 9FQ,D,Y,F,1,,Kingscote Drive,,Berkeley
+2024-03-12,665000,GL13 9PY,D,N,F,Croft House,,,Newport,Berkeley
+2024-02-23,225000,GL13 9NJ,T,N,F,2,,Gloucester Road,Newtown,Berkeley
+2024-02-09,425000,GL13 9GA,D,N,F,65,,Cromwell Close,Newtown,Berkeley
+2024-01-12,310000,GL13 9TP,S,N,F,40,,James Orchard,,Berkeley
+2024-01-03,670000,GL13 9DY,D,N,F,Barn Cottage,,,Rockhampton,Berkeley
+2023-12-18,280000,GL13 9TB,T,N,F,11,,Parkview Road,,Berkeley
+2023-12-18,306500,GL13 9GA,D,N,F,64,,Cromwell Close,Newtown,Berkeley
+2023-12-18,120000,GL13 9FG,T,N,L,9,,Stump Street,,Berkeley
+2023-12-18,390000,GL13 9FE,D,N,F,1,,Edward Way,,Berkeley
+2023-12-15,273000,GL13 9LR,T,N,F,80,,Court Meadow,Stone,Berkeley
+2023-12-15,470000,GL13 9FQ,D,Y,F,5,,Kingscote Drive,,Berkeley
+2023-12-08,450000,GL13 9HJ,T,N,F,Leazecroft,3,,Halmore,Berkeley
+2023-12-08,185000,GL13 9FF,D,Y,F,60,,Edward Way,,Berkeley
+2023-11-17,198000,GL13 9NP,T,N,F,6,,Lewisham Terrace,Newtown,Berkeley
+2023-11-17,130000,GL13 9NB,F,N,L,7A,,Oldminster Road,Sharpness,Berkeley
+2023-11-14,500000,GL13 9TH,D,N,F,Keepers Lodge,,Hook Street,,Berkeley
+2023-11-14,319000,GL13 9TA,S,N,F,4,,Lynch Road,,Berkeley
+2023-11-10,420000,GL13 9DA,D,N,F,36,,Leaze Close,,Berkeley
+2023-11-06,610000,GL13 9SQ,D,N,F,6,,,Old Brookend,Berkeley
+2023-11-03,487500,GL13 9FF,D,Y,F,62,,Edward Way,,Berkeley
+2023-11-01,365000,GL13 9FF,D,Y,F,2,,Edward Way,,Berkeley
+2023-10-19,294000,GL13 9TA,D,N,F,34,,Lynch Road,,Berkeley
+2023-10-06,357000,GL13 9GA,D,N,F,57,,Cromwell Close,Newtown,Berkeley
+2023-09-29,1000000,GL13 9SQ,D,N,F,Bemerton,,,Old Brookend,Berkeley
+2023-09-29,567000,GL13 9PY,D,N,F,Avonbreak,,,Newport,Berkeley
+2023-09-29,275000,GL13 9NJ,T,N,F,7,,Gloucester Road,Newtown,Berkeley
+2023-09-29,222000,GL13 9EF,T,N,F,37,,The Brambles,,Berkeley
+2023-09-28,215000,GL13 9EF,T,N,F,21,,The Brambles,,Berkeley
+2023-09-22,296495,GL13 9FF,S,Y,F,54,,Edward Way,,Berkeley
+2023-09-22,240000,GL13 9AE,T,N,F,Burdett Terrace,1,Lower Berrycroft,,Berkeley
+2023-09-15,425000,GL13 9RY,D,N,F,The South Barn,,Vinecroft,Wanswell,Berkeley
+2023-09-15,248000,GL13 9NS,S,N,F,Moreton Villas,1,Gloucester Road,Newtown,Berkeley
+2023-09-15,480000,GL13 9DE,D,N,F,40,,Lantern Close,,Berkeley
+2023-08-25,1250000,GL13 9HQ,D,N,F,Appleridge House,,Halmore Lane,Halmore,Berkeley
+2023-08-25,233250,GL13 9DF,T,N,F,27,,Canon Park,,Berkeley
+2023-08-25,290000,GL13 9DA,S,N,F,21,,Leaze Close,,Berkeley
+2023-08-04,230000,GL13 9NN,T,N,F,22,,New Street,Newtown,Berkeley
+2023-08-01,360000,GL13 9JH,S,N,F,Wishing Well Cottage,,Swanley Lane,Alkington,Berkeley
+2023-07-28,235000,GL13 9EF,T,N,F,8,,The Brambles,,Berkeley
+2023-07-28,225000,GL13 9DH,S,N,F,16,,Gilbert Hill,,Berkeley
+2023-07-20,360000,GL13 9ER,D,N,F,6,,The Common,Berkeley Heath,Berkeley
+2023-07-13,340000,GL13 9PY,T,N,F,Wyverne,,,Newport,Berkeley
+2023-07-12,100000,GL13 9GA,T,N,L,8,,Cromwell Close,Newtown,Berkeley
+2023-07-07,530995,GL13 9FF,D,Y,F,64,,Edward Way,,Berkeley
+2023-07-03,250000,GL13 9PU,S,N,F,19,,Church View,Newport,Berkeley
+2023-07-03,350000,GL13 9JR,D,N,F,Cottage Farmhouse,,Damery Lane,Woodford,Berkeley
+2023-06-30,540995,GL13 9FF,D,Y,F,66,,Edward Way,,Berkeley
+2023-06-30,499000,GL13 9FF,D,Y,F,58,,Edward Way,,Berkeley
+2023-06-30,294995,GL13 9FF,S,Y,F,56,,Edward Way,,Berkeley
+2023-06-30,300000,GL13 9FF,D,Y,F,4,,Edward Way,,Berkeley
+2023-06-30,111000,GL13 9EF,F,N,L,32,,The Brambles,,Berkeley
+2023-06-26,512000,GL13 9DE,D,N,F,94,,Lantern Close,,Berkeley
+2023-06-16,355000,GL13 9LR,T,N,F,76,,Court Meadow,Stone,Berkeley
+2023-06-11,370000,GL13 9JN,D,N,F,Old Baptist Chapel,,Main Road,Woodford,Berkeley
+2023-06-07,320000,GL13 9DF,T,N,F,3,,Canon Park,,Berkeley
+2023-05-12,176500,GL13 9NN,T,N,F,5,,New Street,Newtown,Berkeley
+2023-05-04,620000,GL13 9RZ,S,N,F,Stambourne Villas,5,Stambourne Lane,Wanswell,Berkeley
+2023-04-28,475000,GL13 9ES,D,N,F,St Swithins,,,Berkeley Heath,Berkeley
+2023-04-18,211000,GL13 9FD,F,N,L,Fitzhardinge House,Flat 4,Marybrook Street,,Berkeley
+2023-04-06,965000,GL13 9SP,D,N,F,The Old Granary,,,Hainses,Berkeley
+2023-03-31,300000,GL13 9UR,D,N,F,69,,Oldminster Road,Sharpness,Berkeley
+2023-03-23,642500,GL13 9DP,D,N,F,Treetops,,,Lower Stone,Berkeley
+2023-03-13,380000,GL13 9FL,D,Y,F,76,,Chamberlayne Crescent,,Berkeley
+2023-03-13,405000,GL13 9DX,S,N,F,Church View,2,Church Road,Rockhampton,Berkeley
+2023-03-10,255000,GL13 9NX,S,N,F,32,,Baylands,Newtown,Berkeley
+2023-02-28,300000,GL13 9FN,T,N,F,10,,Marybrook Mews,,Berkeley
+2023-02-28,258000,GL13 9FG,T,N,F,25,,Stump Street,,Berkeley
+2023-02-28,234500,GL13 9DE,T,N,F,41,,Lantern Close,,Berkeley
+2023-02-24,484000,GL13 9FE,D,Y,F,81,,Edward Way,,Berkeley
+2023-02-17,365000,GL13 9FF,D,N,F,26,,Edward Way,,Berkeley
+2023-02-03,360000,GL13 9EN,S,N,F,Cherry Tree Barn,,,Mobley,Berkeley
+2023-02-01,194000,GL13 9TA,T,N,F,40,,Lynch Road,,Berkeley
+2023-01-23,807500,GL13 9HJ,D,N,F,The Lagger,,,Halmore,Berkeley
+2023-01-20,200000,GL13 9NN,T,N,F,14,,New Street,Newtown,Berkeley
+2023-01-09,117000,GL13 9BH,F,N,L,1,Flat 4,High Street,,Berkeley
+2022-12-22,418995,GL13 9FL,D,Y,F,74,,Chamberlayne Crescent,,Berkeley
+2022-12-22,398000,GL13 9FL,D,Y,F,70,,Chamberlayne Crescent,,Berkeley
+2022-12-22,310000,GL13 9FL,D,Y,F,62,,Chamberlayne Crescent,,Berkeley
+2022-12-22,415995,GL13 9FE,D,Y,F,77,,Edward Way,,Berkeley
+2022-12-19,245000,GL13 9DE,T,N,F,7,,Lantern Close,,Berkeley
+2022-12-16,419995,GL13 9FL,D,Y,F,72,,Chamberlayne Crescent,,Berkeley
+2022-12-16,415995,GL13 9FE,D,Y,F,79,,Edward Way,,Berkeley
+2022-12-16,440000,GL13 9ES,D,N,F,St Swithins,,,Berkeley Heath,Berkeley
+2022-12-15,355000,GL13 9FL,D,Y,F,68,,Chamberlayne Crescent,,Berkeley
+2022-12-14,281250,GL13 9LF,S,N,F,6,,Court Mead,Stone,Berkeley
+2022-12-07,235000,GL13 9AQ,T,N,F,5,,Berrycroft,,Berkeley
+2022-12-02,375000,GL13 9LR,T,N,F,75,,Court Meadow,Stone,Berkeley
+2022-12-02,415000,GL13 9LF,T,N,F,2,,Court Mead,Stone,Berkeley
+2022-11-30,319000,GL13 9FL,D,Y,F,64,,Chamberlayne Crescent,,Berkeley
+2022-11-30,240000,GL13 9FL,T,N,F,20,,Chamberlayne Crescent,,Berkeley
+2022-11-28,165400,GL13 9HN,S,N,F,8,,Riddle Street,Purton,Berkeley
+2022-11-25,475000,GL13 9DE,D,N,F,78,,Lantern Close,,Berkeley
+2022-11-23,450000,GL13 9US,D,N,F,43,,Oldminster Road,Sharpness,Berkeley
+2022-11-21,140000,GL13 9NB,F,N,L,6A,,Oldminster Road,Sharpness,Berkeley
+2022-11-21,281995,GL13 9FE,T,Y,F,63,,Edward Way,,Berkeley
+2022-11-18,399000,GL13 9US,S,N,F,36,,Oldminster Road,Sharpness,Berkeley
+2022-11-18,205000,GL13 9NN,T,N,F,23,,New Street,Newtown,Berkeley
+2022-11-18,271995,GL13 9FE,T,Y,F,61,,Edward Way,,Berkeley
+2022-11-18,281995,GL13 9FE,T,Y,F,57,,Edward Way,,Berkeley
+2022-11-18,275000,GL13 9EG,S,N,F,6,,Fitzhardinge Way,,Berkeley
+2022-11-08,856000,GL13 9JY,D,N,F,Garden Lodge,,,Stone,Berkeley
+2022-11-07,278995,GL13 9FE,T,Y,F,69,,Edward Way,,Berkeley
+2022-11-04,322500,GL13 9HP,S,N,F,Ivydene,,,Purton,Berkeley
+2022-11-03,550000,GL13 9SN,D,N,F,New Bungalow,,Wanswell Green,,Berkeley
+2022-11-03,323000,GL13 9EY,S,N,F,2,,Station Houses,,Berkeley
+2022-10-31,265000,GL13 9UT,S,N,F,45,,Oakfield Way,Sharpness,Berkeley
+2022-10-31,385000,GL13 9FL,D,Y,F,66,,Chamberlayne Crescent,,Berkeley
+2022-10-31,271995,GL13 9FE,T,Y,F,59,,Edward Way,,Berkeley
+2022-10-25,124000,GL13 9PY,F,N,L,Newport House,Flat 4,,Newport,Berkeley
+2022-10-21,1105000,GL13 9QU,D,N,F,Park Gate Cottage,,,Clapton,Berkeley
+2022-10-14,919000,GL13 9RB,D,N,F,Crown Cottage,,,Bevington,Berkeley
+2022-10-14,279995,GL13 9FE,T,Y,F,75,,Edward Way,,Berkeley
+2022-10-14,288000,GL13 9FE,S,Y,F,67,,Edward Way,,Berkeley
+2022-10-14,289995,GL13 9FE,S,Y,F,65,,Edward Way,,Berkeley
+2022-10-13,385000,GL13 9AG,S,N,F,Coppit House,,Berrycroft,,Berkeley
+2022-10-11,268995,GL13 9FE,T,Y,F,71,,Edward Way,,Berkeley
+2022-10-10,267995,GL13 9FE,T,Y,F,73,,Edward Way,,Berkeley
+2022-09-26,410000,GL13 9AJ,S,N,F,18,,Station Road,,Berkeley
+2022-09-23,180000,GL13 9NN,T,N,F,16,,New Street,Newtown,Berkeley
+2022-09-07,340000,GL13 9FF,D,Y,F,50,,Edward Way,,Berkeley
+2022-09-02,450000,GL13 9PY,S,N,F,The Willows,,,Newport,Berkeley
+2022-08-22,224436,GL13 9LS,S,N,F,4,,Church Close,Stone,Berkeley
+2022-08-17,260000,GL13 9DE,T,N,F,11,,Lantern Close,,Berkeley
+2022-08-12,340000,GL13 9AS,D,N,F,10,,Howmead,,Berkeley
+2022-08-10,200000,GL13 9EN,D,N,F,The Glasshouse,,Mobley,,Berkeley
+2022-08-05,325000,GL13 9UG,D,N,F,Entrance House,,The Docks,Sharpness,Berkeley
+2022-08-05,240000,GL13 9NJ,T,N,F,6,,Gloucester Road,Newtown,Berkeley
+2022-08-05,100000,GL13 9GA,T,N,L,6,,Cromwell Close,Newtown,Berkeley
+2022-08-04,172000,GL13 9AP,S,N,L,31,,Forest View Road,,Berkeley
+2022-08-03,207000,GL13 9ND,T,N,F,9,,Severn View Parade,Newtown,Berkeley
+2022-08-02,327995,GL13 9FF,D,Y,F,48,,Edward Way,,Berkeley
+2022-07-29,216000,GL13 9NP,T,N,F,5,,Lewisham Terrace,Newtown,Berkeley
+2022-07-29,215000,GL13 9BY,T,N,F,33,,Stock Lane,,Berkeley
+2022-07-29,430000,GL13 9BA,T,N,F,28,,Marybrook Street,,Berkeley
+2022-07-29,297155,GL13 9AE,S,N,F,7,,Lower Berrycroft,,Berkeley
+2022-07-28,230000,GL13 9EF,T,N,F,11,,The Brambles,,Berkeley
+2022-07-15,375000,GL13 9EN,T,N,F,1,,Mobley,,Berkeley
+2022-06-30,244995,GL13 9FJ,T,Y,F,9,,Reeves Drive,,Berkeley
+2022-06-30,235000,GL13 9FJ,T,Y,F,7,,Reeves Drive,,Berkeley
+2022-06-30,235000,GL13 9FJ,T,Y,F,5,,Reeves Drive,,Berkeley
+2022-06-30,245995,GL13 9FJ,T,Y,F,3,,Reeves Drive,,Berkeley
+2022-06-30,405000,GL13 9FJ,D,Y,F,25,,Reeves Drive,,Berkeley
+2022-06-30,405000,GL13 9FJ,D,Y,F,23,,Reeves Drive,,Berkeley
+2022-06-30,227995,GL13 9FJ,T,Y,F,13,,Reeves Drive,,Berkeley
+2022-06-30,234995,GL13 9FJ,T,Y,F,11,,Reeves Drive,,Berkeley
+2022-06-30,321995,GL13 9FF,D,Y,F,46,,Edward Way,,Berkeley
+2022-06-24,290000,GL13 9TD,T,N,F,20,,Parkview Road,,Berkeley
+2022-06-24,229000,GL13 9NS,S,N,F,Moreton Villas,2,Gloucester Road,Newtown,Berkeley
+2022-06-24,229995,GL13 9FJ,T,Y,F,15,,Reeves Drive,,Berkeley
+2022-06-23,399995,GL13 9FJ,D,Y,F,21,,Reeves Drive,,Berkeley
+2022-06-20,620000,GL13 9JQ,D,N,F,3,,Woodford Green,Woodford,Berkeley
+2022-06-10,260575,GL13 9TA,T,N,F,13,,Lynch Road,,Berkeley
+2022-06-10,240000,GL13 9NF,S,N,F,Bridge Cottages,1,Sanigar Lane,Newtown,Berkeley
+2022-05-31,394995,GL13 9FJ,D,Y,F,19,,Reeves Drive,,Berkeley
+2022-05-31,344995,GL13 9FJ,D,Y,F,17,,Reeves Drive,,Berkeley
+2022-05-30,230000,GL13 9DE,T,N,F,9,,Lantern Close,,Berkeley
+2022-05-30,310000,GL13 9DE,D,N,F,26,,Lantern Close,,Berkeley
+2022-05-27,300000,GL13 9FF,S,N,F,16,,Edward Way,,Berkeley
+2022-05-27,317500,GL13 9DA,S,N,F,34,,Leaze Close,,Berkeley
+2022-05-23,195000,GL13 9PE,T,N,F,8,,Jubilee Way,Newtown,Berkeley
+2022-05-20,320000,GL13 9TA,T,N,F,21,,Lynch Road,,Berkeley
+2022-05-20,290200,GL13 9PU,T,N,F,1,,Church View,Newport,Berkeley
+2022-05-20,222000,GL13 9BS,T,N,F,3,,Salter Street,,Berkeley
+2022-05-19,470000,GL13 9LR,D,N,F,24,,Court Meadow,Stone,Berkeley
+2022-05-19,344995,GL13 9FJ,D,Y,F,1,,Reeves Drive,,Berkeley
+2022-05-17,190000,GL13 9LB,T,N,F,Ivy Cottage,,,Stone,Berkeley
+2022-05-12,232995,GL13 9FJ,T,Y,F,8,,Reeves Drive,,Berkeley
+2022-05-09,220000,GL13 9EG,S,N,F,8,,Fitzhardinge Way,,Berkeley
+2022-05-04,1020000,GL13 9HL,D,N,F,Waifers Cottage,,,Halmore,Berkeley
+2022-04-29,286495,GL13 9FJ,D,Y,F,26,,Reeves Drive,,Berkeley
+2022-04-25,350000,GL13 9GA,D,N,F,45,,Cromwell Close,Newtown,Berkeley
+2022-04-21,415000,GL13 9LR,D,N,F,14,,Court Meadow,Stone,Berkeley
+2022-04-13,265000,GL13 9DE,T,N,F,39,,Lantern Close,,Berkeley
+2022-04-11,745000,GL13 9HE,D,N,F,Barn Orchard View,,,Breadstone,Berkeley
+2022-04-11,315000,GL13 9FN,T,N,F,2,,Marybrook Mews,,Berkeley
+2022-04-04,295000,GL13 9TB,T,N,F,65,,Parkview Road,,Berkeley
+2022-04-04,280000,GL13 9AS,S,N,F,18,,Howmead,,Berkeley
+2022-03-31,289995,GL13 9FJ,D,Y,F,24,,Reeves Drive,,Berkeley
+2022-03-31,299995,GL13 9FJ,D,Y,F,22,,Reeves Drive,,Berkeley
+2022-03-25,610000,GL13 9TE,D,N,F,41B,,Lynch Road,,Berkeley
+2022-03-25,225995,GL13 9FL,T,Y,F,32,,Chamberlayne Crescent,,Berkeley
+2022-03-18,580000,GL13 9JN,D,N,F,Windermere House,,Main Road,Woodford,Berkeley
+2022-03-18,242495,GL13 9FJ,T,Y,F,6,,Reeves Drive,,Berkeley
+2022-03-18,237495,GL13 9FJ,T,Y,F,12,,Reeves Drive,,Berkeley
+2022-03-18,400000,GL13 9DB,T,N,F,30,,Salter Street,,Berkeley
+2022-03-17,603500,GL13 9AZ,D,N,F,11,,Marybrook Street,,Berkeley
+2022-03-10,285000,GL13 9AR,S,N,F,17,,Howmead,,Berkeley
+2022-03-10,231133,GL13 9AF,T,N,F,10,,The Leys,,Berkeley
+2022-03-04,212000,GL13 9NY,T,N,F,10,,The Crescent,Newtown,Berkeley
+2022-03-04,232000,GL13 9FJ,T,Y,F,10,,Reeves Drive,,Berkeley
+2022-03-04,130000,GL13 9FG,T,N,L,10,,Stump Street,,Berkeley
+2022-03-03,900000,GL13 9DU,D,N,F,Court Hayes,,,Rockhampton,Berkeley
+2022-03-01,114975,GL13 9FG,T,N,L,28,,Stump Street,,Berkeley
+2022-03-01,197984,GL13 9FD,F,N,L,Fitzhardinge House,Flat 1,Marybrook Street,,Berkeley
+2022-02-28,143000,GL13 9AU,F,N,L,7,,Fishers Road,,Berkeley
+2022-02-25,470000,GL13 9LT,D,N,F,9,,Vale Orchard,Stone,Berkeley
+2022-02-25,369995,GL13 9FJ,D,Y,F,28,,Reeves Drive,,Berkeley
+2022-02-24,309995,GL13 9FJ,D,Y,F,30,,Reeves Drive,,Berkeley
+2022-02-14,299995,GL13 9FJ,D,Y,F,32,,Reeves Drive,,Berkeley
+2022-02-10,110000,GL13 9AA,F,N,L,Mason Court,Flat 6,Marybrook Street,,Berkeley
+2022-02-09,169950,GL13 9FD,F,N,L,Fitzhardinge House,Flat 7,Marybrook Street,,Berkeley
+2022-02-07,412500,GL13 9LR,D,N,F,64,,Court Meadow,Stone,Berkeley
+2022-02-04,205000,GL13 9AF,T,N,F,4,,The Leys,,Berkeley
+2022-02-02,345000,GL13 9DE,D,N,F,27,,Lantern Close,,Berkeley
+2022-01-31,310000,GL13 9AB,D,N,F,16,,Marybrook Street,,Berkeley
+2022-01-27,320000,GL13 9JY,D,N,F,Park View,,,Stone,Berkeley
+2022-01-26,725000,GL13 9LB,D,N,F,Tudor Lodge,,,Stone,Berkeley
+2022-01-26,300000,GL13 9DG,D,N,F,13,,Hillcrest,,Berkeley
+2022-01-20,200000,GL13 9NN,T,N,F,19,,New Street,Newtown,Berkeley
+2022-01-07,335000,GL13 9DA,S,N,F,26,,Leaze Close,,Berkeley
+2022-01-07,355000,GL13 9BZ,S,N,F,3,,Leaze Close,,Berkeley
+2022-01-06,450500,GL13 9DD,D,N,F,7A,,Trevisa Crescent,,Berkeley
+2022-01-06,320000,GL13 9DA,S,N,F,20,,Leaze Close,,Berkeley
+2021-12-22,296995,GL13 9FL,D,Y,F,28,,Chamberlayne Crescent,,Berkeley
+2021-12-22,305995,GL13 9FJ,D,Y,F,2,,Reeves Drive,,Berkeley
+2021-12-22,247000,GL13 9EF,T,N,F,4,,The Brambles,,Berkeley
+2021-12-21,306495,GL13 9FJ,D,Y,F,4,,Reeves Drive,,Berkeley
+2021-12-15,695000,GL13 9DX,D,N,F,Tanglewood Cottage,,Church Road,Rockhampton,Berkeley
+2021-12-15,242500,GL13 9AE,S,N,F,5,,Lower Berrycroft,,Berkeley
+2021-12-14,295000,GL13 9HP,S,N,F,Rydersford,,,Purton,Berkeley
+2021-12-10,185000,GL13 9NN,T,N,F,4,,New Street,Newtown,Berkeley
+2021-12-10,296995,GL13 9FL,D,Y,F,6,,Chamberlayne Crescent,,Berkeley
+2021-12-10,850000,GL13 9BJ,T,N,F,16,Perrots House,High Street,,Berkeley
+2021-12-08,585000,GL13 9BE,T,N,F,Court House,,Canonbury Street,,Berkeley
+2021-12-06,260000,GL13 9AP,T,N,F,39,,Forest View Road,,Berkeley
+2021-12-03,815000,GL13 9JU,D,N,F,White House,,Old Bristol Road,Woodford,Berkeley
+2021-12-03,550000,GL13 9JS,D,N,F,Meadowview,,Mule Street,Woodford,Berkeley
+2021-12-03,286495,GL13 9FE,D,Y,F,53,,Edward Way,,Berkeley
+2021-12-03,294995,GL13 9FE,D,Y,F,49,,Edward Way,,Berkeley
+2021-12-02,325000,GL13 9FE,D,Y,F,55,,Edward Way,,Berkeley
+2021-11-26,185000,GL13 9NT,T,N,F,8,,Bays Hill,Newtown,Berkeley
+2021-11-26,296500,GL13 9FE,D,Y,F,51,,Edward Way,,Berkeley
+2021-11-22,230995,GL13 9FL,T,Y,F,56,,Chamberlayne Crescent,,Berkeley
+2021-11-19,440000,GL13 9TA,D,N,F,8,,Lynch Road,,Berkeley
+2021-11-15,223995,GL13 9FL,T,Y,F,58,,Chamberlayne Crescent,,Berkeley
+2021-11-12,230995,GL13 9FL,T,Y,F,60,,Chamberlayne Crescent,,Berkeley
+2021-11-08,197500,GL13 9NN,T,N,F,18,,New Street,Newtown,Berkeley
+2021-11-05,222000,GL13 9FL,T,Y,F,44,,Chamberlayne Crescent,,Berkeley
+2021-10-25,125000,GL13 9GA,S,N,L,1,,Cromwell Close,Newtown,Berkeley
+2021-10-25,216000,GL13 9FL,T,Y,F,34,,Chamberlayne Crescent,,Berkeley
+2021-10-20,295995,GL13 9FL,D,Y,F,54,,Chamberlayne Crescent,,Berkeley
+2021-10-19,217495,GL13 9FL,T,Y,F,36,,Chamberlayne Crescent,,Berkeley
+2021-10-15,219495,GL13 9FL,T,Y,F,42,,Chamberlayne Crescent,,Berkeley
+2021-09-30,294995,GL13 9FL,D,Y,F,52,,Chamberlayne Crescent,,Berkeley
+2021-09-30,224995,GL13 9FL,T,Y,F,38,,Chamberlayne Crescent,,Berkeley
+2021-09-30,222495,GL13 9FL,T,Y,F,30,,Chamberlayne Crescent,,Berkeley
+2021-09-30,420000,GL13 9DE,D,N,F,38,,Lantern Close,,Berkeley
+2021-09-24,280000,GL13 9DB,T,N,F,12,,Salter Street,,Berkeley
+2021-09-23,345000,GL13 9HP,S,N,F,Rose Cottage,,,Purton,Berkeley
+2021-09-22,402500,GL13 9LT,D,N,F,7,,Vale Orchard,Stone,Berkeley
+2021-09-17,372000,GL13 9EN,D,N,F,8,,Mobley,,Berkeley
+2021-09-16,370000,GL13 9PY,S,N,F,The Willows,,,Newport,Berkeley
+2021-09-06,184000,GL13 9NP,T,N,F,4,,Lewisham Terrace,Newtown,Berkeley
+2021-09-02,662501,GL13 9JH,D,N,F,Winterbourne Lodge,,Swanley Lane,Alkington,Berkeley
+2021-09-01,265101,GL13 9TP,T,N,F,26,,James Orchard,,Berkeley
+2021-09-01,370000,GL13 9LE,D,N,F,Twynings,,,Stone,Berkeley
+2021-09-01,210000,GL13 9DH,T,N,F,22,,Gilbert Hill,,Berkeley
+2021-08-31,283995,GL13 9FL,D,Y,F,26,,Chamberlayne Crescent,,Berkeley
+2021-08-27,250000,GL13 9PU,T,N,F,10,,Church View,Newport,Berkeley
+2021-08-27,279995,GL13 9FL,D,Y,F,50,,Chamberlayne Crescent,,Berkeley
+2021-08-27,280000,GL13 9FL,D,Y,F,48,,Chamberlayne Crescent,,Berkeley
+2021-08-26,220000,GL13 9SQ,T,N,F,11,,,Old Brookend,Berkeley
+2021-08-23,495000,GL13 9JX,S,N,F,Elms Court,,,Stone,Berkeley
+2021-08-20,190000,GL13 9NB,T,N,F,5,,Oldminster Road,Sharpness,Berkeley
+2021-08-19,343300,GL13 9RR,T,N,F,3,,Poplar Villas,Wanswell,Berkeley
+2021-08-19,476500,GL13 9ES,D,N,F,Epney,,,Berkeley Heath,Berkeley
+2021-08-13,200000,GL13 9EH,T,N,F,16,,Severn Drive,,Berkeley
+2021-08-10,290000,GL13 9GA,D,N,F,49,,Cromwell Close,Newtown,Berkeley
+2021-08-02,309995,GL13 9FL,D,Y,F,14,,Chamberlayne Crescent,,Berkeley
+2021-07-30,190000,GL13 9TP,T,N,F,4,,James Orchard,,Berkeley
+2021-07-30,275000,GL13 9FL,D,Y,F,24,,Chamberlayne Crescent,,Berkeley
+2021-07-28,305000,GL13 9PU,T,N,F,6,,Church View,Newport,Berkeley
+2021-07-26,257000,GL13 9UR,D,N,F,68,,Oldminster Road,Sharpness,Berkeley
+2021-07-16,176500,GL13 9NN,T,N,F,15,,New Street,Newtown,Berkeley
+2021-07-02,193400,GL13 9DA,S,N,F,25,,Leaze Close,,Berkeley
+2021-06-30,380000,GL13 9TP,D,N,F,52,,James Orchard,,Berkeley
+2021-06-30,220000,GL13 9TA,T,N,F,26,,Lynch Road,,Berkeley
+2021-06-30,425000,GL13 9RL,D,N,F,Station House,,Station Road,,Berkeley
+2021-06-30,770000,GL13 9JY,D,N,F,Barn Court Moat,,,Stone,Berkeley
+2021-06-30,274000,GL13 9FL,D,Y,F,8,,Chamberlayne Crescent,,Berkeley
+2021-06-30,229995,GL13 9FL,D,Y,F,46,,Chamberlayne Crescent,,Berkeley
+2021-06-30,229995,GL13 9FL,T,Y,F,40,,Chamberlayne Crescent,,Berkeley
+2021-06-30,362000,GL13 9FL,D,Y,F,12,,Chamberlayne Crescent,,Berkeley
+2021-06-30,272000,GL13 9FE,D,Y,F,19,,Edward Way,,Berkeley
+2021-06-30,175000,GL13 9EJ,T,N,L,5,,Coach Close,,Berkeley
+2021-06-30,212700,GL13 9EH,T,N,F,5,,Severn Drive,,Berkeley
+2021-06-30,235000,GL13 9DF,S,N,F,22,,Canon Park,,Berkeley
+2021-06-29,210995,GL13 9FL,T,Y,F,20,,Chamberlayne Crescent,,Berkeley
+2021-06-28,370000,GL13 9TP,D,N,F,54,,James Orchard,,Berkeley
+2021-06-28,370000,GL13 9LR,T,N,F,70,,Court Meadow,Stone,Berkeley
+2021-06-28,295000,GL13 9DE,D,N,F,86,,Lantern Close,,Berkeley
+2021-06-17,205000,GL13 9EL,T,N,F,5,,Fieldview,,Berkeley
+2021-06-16,285000,GL13 9TP,S,N,F,38,,James Orchard,,Berkeley
+2021-06-16,295000,GL13 9DF,D,N,F,10,,Canon Park,,Berkeley
+2021-06-16,234000,GL13 9BH,T,N,F,7,,High Street,,Berkeley
+2021-06-14,212132,GL13 9AX,S,N,F,8,,Fishers Road,,Berkeley
+2021-06-11,296000,GL13 9DE,D,N,F,48,,Lantern Close,,Berkeley
+2021-06-08,280000,GL13 9AS,S,N,F,28,,Howmead,,Berkeley
+2021-05-28,400000,GL13 9DF,D,N,F,15,,Canon Park,,Berkeley
+2021-05-21,98000,GL13 9FG,T,N,L,6,,Stump Street,,Berkeley
+2021-05-14,320995,GL13 9FL,D,Y,F,10,,Chamberlayne Crescent,,Berkeley
+2021-05-14,275000,GL13 9FE,D,Y,F,21,,Edward Way,,Berkeley
+2021-05-14,441311,GL13 9DA,S,N,F,24,,Leaze Close,,Berkeley
+2021-05-07,225000,GL13 9TA,T,N,F,13,,Lynch Road,,Berkeley
+2021-05-07,260000,GL13 9NE,T,N,F,4,,Oldminster Road,Sharpness,Berkeley
+2021-05-07,272000,GL13 9AS,S,N,F,6,,Howmead,,Berkeley
+2021-04-29,252000,GL13 9BY,S,N,F,4,,Stock Lane,,Berkeley
+2021-04-28,397500,GL13 9TP,D,N,F,13,,James Orchard,,Berkeley
+2021-04-28,457500,GL13 9PY,D,N,F,Horseshoe House,,,Newport,Berkeley
+2021-04-28,245000,GL13 9DG,D,N,F,1,,Hillcrest,,Berkeley
+2021-04-14,300000,GL13 9DE,D,N,F,45,,Lantern Close,,Berkeley
+2021-04-09,225000,GL13 9BN,S,N,F,1,,Church Lane,,Berkeley
+2021-03-26,270000,GL13 9PZ,T,N,F,2,,Chapel Hill,Newport,Berkeley
+2021-03-26,285000,GL13 9HN,S,N,F,9,,Riddle Street,Purton,Berkeley
+2021-03-26,250500,GL13 9AF,T,N,F,5,,The Leys,,Berkeley
+2021-03-19,270000,GL13 9RP,S,N,F,Tormead,,,Wanswell,Berkeley
+2021-03-18,270000,GL13 9BG,T,N,F,10,,Canonbury Street,,Berkeley
+2021-03-15,210000,GL13 9FL,T,Y,F,22,,Chamberlayne Crescent,,Berkeley
+2021-03-12,149000,GL13 9ND,T,N,F,3,,Severn View Parade,Newtown,Berkeley
+2021-03-12,257500,GL13 9FG,S,N,F,3,,Stump Street,,Berkeley
+2021-03-12,170000,GL13 9EF,T,N,F,44,,The Brambles,,Berkeley
+2021-03-08,340000,GL13 9EJ,T,N,F,8,,Coach Close,,Berkeley
+2021-03-05,434000,GL13 9SQ,D,N,F,2 Arundel Villa,,,Old Brookend,Berkeley
+2021-03-05,283500,GL13 9FN,T,N,F,12,,Marybrook Mews,,Berkeley
+2021-03-05,202995,GL13 9FL,T,Y,F,18,,Chamberlayne Crescent,,Berkeley
+2021-03-04,625000,GL13 9HJ,D,N,F,Jasmine Cottage,,,Halmore,Berkeley
+2021-03-01,272500,GL13 9DG,D,N,F,14,,Hillcrest,,Berkeley
+2021-02-26,310000,GL13 9NT,D,N,F,Police House,,Bays Hill,Newtown,Berkeley
+2021-02-26,270000,GL13 9FL,D,Y,F,4,,Chamberlayne Crescent,,Berkeley
+2021-02-26,210000,GL13 9FL,T,Y,F,16,,Chamberlayne Crescent,,Berkeley
+2021-02-19,255000,GL13 9GA,S,N,F,20,,Cromwell Close,Newtown,Berkeley
+2021-02-19,220000,GL13 9BG,T,N,F,26,,Canonbury Street,,Berkeley
+2021-02-17,875000,GL13 9BJ,S,N,F,"Berkeley House, 42",,High Street,,Berkeley
+2021-02-16,340000,GL13 9LF,S,N,F,8,,Court Mead,Stone,Berkeley
+2021-02-12,380000,GL13 9SW,S,N,F,Rosewell Cottage,,,Pitbrook,Berkeley
+2021-02-12,193500,GL13 9AX,T,N,F,20,,Fishers Road,,Berkeley
+2021-02-11,685000,GL13 9PL,D,N,F,Flowerdale,,Heathfield,Alkington,Berkeley
+2021-02-10,530000,GL13 9JN,D,N,F,Windermere House,,Main Road,Woodford,Berkeley
+2021-02-04,340000,GL13 9AW,D,N,F,Caprea,,Forest View Road,,Berkeley
+2021-01-29,465000,GL13 9HT,S,N,F,Kenmoore,,,Purton,Berkeley
+2021-01-29,274000,GL13 9FH,D,Y,F,7,,Jester Court,,Berkeley
+2021-01-29,275000,GL13 9FF,D,Y,F,20,,Edward Way,,Berkeley
+2021-01-29,205000,GL13 9AU,T,N,F,29,,Fishers Road,,Berkeley
+2021-01-20,390000,GL13 9TE,D,N,F,43,,Lynch Road,,Berkeley
+2021-01-20,275000,GL13 9DE,D,N,F,23,,Lantern Close,,Berkeley
+2021-01-15,395000,GL13 9PZ,D,N,F,9,,Chapel Hill,Newport,Berkeley
+2021-01-13,177000,GL13 9AP,T,N,F,3,,Forest View Road,,Berkeley
+2021-01-04,88000,GL13 9NJ,F,Y,L,1C,,Gloucester Road,Newtown,Berkeley

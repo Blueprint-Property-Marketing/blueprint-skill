@@ -1,0 +1,716 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-07-30,154000,CA6 4EB,S,N,F,21,,Maxwell Drive,Kingstown,Carlisle
+2026-07-17,120000,CA6 4BZ,T,N,F,23,,Crindledyke Estate,Kingstown,Carlisle
+2026-07-14,350000,CA6 4NH,D,N,F,Beanlands Parke,The Lodge,,Irthington,Carlisle
+2026-06-22,250000,CA6 4NL,S,N,F,3,,Fox Hills,Irthington,Carlisle
+2026-06-19,115000,CA6 5UY,T,N,F,18,,Swan Street,Longtown,Carlisle
+2026-06-19,250000,CA6 4QD,D,N,F,Woodside,,,Linstock,Carlisle
+2026-06-15,143500,CA6 4DL,T,N,F,50,,Fenwick Drive,Kingstown,Carlisle
+2026-05-29,114000,CA6 5PS,T,N,F,25,,Bank Street,Longtown,Carlisle
+2026-05-26,260000,CA6 5XF,D,N,F,12,,Ladyseat Gardens,Longtown,Carlisle
+2026-05-22,235000,CA6 5NU,S,N,F,9,,The Scaur,Longtown,Carlisle
+2026-05-20,147000,CA6 5FA,S,N,F,35,,St Michaels Drive,Longtown,Carlisle
+2026-05-20,560000,CA6 4NN,S,N,F,Applegarth,,,Irthington,Carlisle
+2026-05-19,210000,CA6 5XF,D,N,F,4,,Ladyseat Gardens,Longtown,Carlisle
+2026-05-19,125000,CA6 4NX,D,N,F,Glasden Cottage,,,Newtown,Carlisle
+2026-05-08,333000,CA6 4AQ,D,N,F,69,,Edenside,Cargo,Carlisle
+2026-04-30,195000,CA6 5TH,D,N,F,38,,Old Road,Longtown,Carlisle
+2026-04-30,280000,CA6 4PB,D,N,F,5,,Church Close,Irthington,Carlisle
+2026-04-27,400000,CA6 4EX,D,N,F,8,,Paddock Gardens,Brunstock,Carlisle
+2026-04-24,395000,CA6 5LS,D,N,F,11,,Rosetrees Lane,Longtown,Carlisle
+2026-04-24,370000,CA6 4PN,D,N,F,10,,Vestaneum,Crosby On Eden,Carlisle
+2026-04-24,230000,CA6 4HS,S,N,F,10,,Harker Park Road,Harker Park,Carlisle
+2026-04-17,122500,CA6 4DL,S,N,F,52,,Fenwick Drive,Kingstown,Carlisle
+2026-04-01,95000,CA6 5TQ,T,N,F,6,,Raefield,Longtown,Carlisle
+2026-03-27,125000,CA6 4DL,F,N,L,28,,Fenwick Drive,Kingstown,Carlisle
+2026-03-19,220000,CA6 4AQ,S,N,F,6,,Edenside,Cargo,Carlisle
+2026-03-17,395000,CA6 4HG,D,N,F,Metal Bridge,Thackwood,,Blackford,Carlisle
+2026-03-13,134000,CA6 5UH,S,N,F,7,,Lovers Lane,Longtown,Carlisle
+2026-03-06,172000,CA6 6HJ,D,N,F,Abby Croft,,Moss Edge,Hethersgill,Carlisle
+2026-02-27,192000,CA6 5QP,D,N,F,Corner Cottage,,,Penton,Carlisle
+2026-02-26,220000,CA6 5UB,T,N,F,"Cobbinshaw House, 11",,Bridge Street,Longtown,Carlisle
+2026-02-10,325000,CA6 6BP,D,N,F,Rosedale,,,Smithfield,Carlisle
+2026-02-09,425000,CA6 4QZ,S,N,F,Fellview,,,Crosby On Eden,Carlisle
+2026-02-04,245000,CA6 4JE,D,N,F,Holly Cottage,,Brunstock Lane,Houghton,Carlisle
+2026-02-02,145000,CA6 5PU,T,N,F,43,,Esk Street,Longtown,Carlisle
+2026-02-02,120000,CA6 4DR,T,N,F,5,,Old Harker,Low Harker,Carlisle
+2026-01-30,142000,CA6 5UP,S,N,F,1,,Liddel Road,Longtown,Carlisle
+2026-01-23,360000,CA6 4QD,D,N,F,Ellengrove,,,Linstock,Carlisle
+2026-01-23,320000,CA6 4EB,D,N,F,43,,Maxwell Drive,Kingstown,Carlisle
+2026-01-21,195000,CA6 5XF,D,N,F,16,,Ladyseat Gardens,Longtown,Carlisle
+2026-01-09,150000,CA6 5FB,S,N,F,98,,St Michaels Drive,Longtown,Carlisle
+2026-01-09,230000,CA6 4DL,S,N,F,20,,Fenwick Drive,Kingstown,Carlisle
+2026-01-08,140000,CA6 4AU,S,N,F,4,,King Garth,Cargo,Carlisle
+2025-12-19,285000,CA6 4PF,D,N,F,Glendue,,,Newtown,Carlisle
+2025-12-17,165000,CA6 5NZ,S,N,F,43,,Sycamore Drive,Longtown,Carlisle
+2025-12-16,270000,CA6 6AA,D,N,F,Dunno,,,Westlinton,Carlisle
+2025-12-16,279500,CA6 4AQ,D,N,F,38,,Edenside,Cargo,Carlisle
+2025-12-12,132000,CA6 4PA,T,N,F,2,,Anvil Close,Irthington,Carlisle
+2025-12-10,220000,CA6 6EP,T,N,F,3,,Dacre Road,Hethersgill,Carlisle
+2025-12-08,260500,CA6 6PA,S,N,F,25,,Sleetbeck Road,Roadhead,Carlisle
+2025-12-08,160000,CA6 5NZ,S,N,F,27,,Sycamore Drive,Longtown,Carlisle
+2025-12-08,575000,CA6 4BH,D,N,F,Aspendale,,,Rockcliffe,Carlisle
+2025-12-05,235000,CA6 5XD,S,N,F,10,,Powdrake Crescent,Longtown,Carlisle
+2025-11-28,265000,CA6 5XJ,D,N,F,"March House, 22",,Netherby Road,Longtown,Carlisle
+2025-11-28,190000,CA6 5SU,T,N,F,6,,Cliff Road,Longtown,Carlisle
+2025-11-28,234000,CA6 4QD,D,N,F,The Old Cottage,,,Linstock,Carlisle
+2025-11-28,380000,CA6 4LW,T,N,F,The Hayloft,,,Scaleby,Carlisle
+2025-11-28,325000,CA6 4EU,D,N,F,25,,Charlton Way,Kingstown,Carlisle
+2025-11-27,265000,CA6 4LH,D,N,F,The Shrubbery,,,Barclose,Carlisle
+2025-11-21,177000,CA6 5SF,S,N,F,33,,Albert Street,Longtown,Carlisle
+2025-11-21,250000,CA6 4FB,S,N,F,7,,Elliot Drive,Kingstown,Carlisle
+2025-11-21,430000,CA6 4DA,D,N,F,23,,Crindledyke Lane,Kingstown,Carlisle
+2025-11-21,420000,CA6 4AQ,D,N,F,2,,Edenside,Cargo,Carlisle
+2025-11-20,84000,CA6 4QH,T,N,F,Edenholme,,,Park Broom,Carlisle
+2025-11-19,260000,CA6 5XD,S,N,F,7,,Powdrake Crescent,Longtown,Carlisle
+2025-11-19,204995,CA6 5FF,D,Y,F,2,,Fawn Wood Way,Longtown,Carlisle
+2025-11-17,235000,CA6 4AA,D,N,F,Green Fields,,,Rockcliffe,Carlisle
+2025-11-14,402000,CA6 6PU,D,N,F,Hillside,,,Bewcastle,Carlisle
+2025-11-13,580000,CA6 5SS,D,N,F,Beech Tree Barn,,,Sandysike,Carlisle
+2025-11-13,170995,CA6 5FF,S,Y,F,3,,Fawn Wood Way,Longtown,Carlisle
+2025-11-11,259995,CA6 5FF,D,Y,F,1,,Fawn Wood Way,Longtown,Carlisle
+2025-11-10,420000,CA6 4DS,S,N,F,High Harker Farmhouse,,,Harker,Carlisle
+2025-11-07,101500,CA6 5FF,S,Y,F,49,,Fawn Wood Way,Longtown,Carlisle
+2025-11-07,318000,CA6 4EB,D,N,F,65,,Maxwell Drive,Kingstown,Carlisle
+2025-10-31,170995,CA6 5FF,S,Y,F,4,,Fawn Wood Way,Longtown,Carlisle
+2025-10-31,280000,CA6 4DL,T,N,F,5,,Fenwick Drive,Kingstown,Carlisle
+2025-10-31,190000,CA6 4AR,S,N,F,6,,Holm Garth,Cargo,Carlisle
+2025-10-31,249950,CA6 4AQ,D,N,F,65,,Edenside,Cargo,Carlisle
+2025-10-24,215000,CA6 4FB,S,N,F,2,,Elliot Drive,Kingstown,Carlisle
+2025-10-23,270000,CA6 4NL,S,N,F,7,,Fox Hills,Irthington,Carlisle
+2025-10-23,230000,CA6 4EH,S,N,F,Orchard View,,,Blackford,Carlisle
+2025-10-22,165000,CA6 6PA,T,N,F,7,,Sleetbeck Road,Roadhead,Carlisle
+2025-10-20,240000,CA6 4DT,D,N,F,The Orchard,,,Harker,Carlisle
+2025-10-03,77500,CA6 5XS,T,N,F,12,,Bellsfield,Longtown,Carlisle
+2025-10-02,300000,CA6 4NN,S,N,F,The Cottage,,,Irthington,Carlisle
+2025-10-01,312000,CA6 5FE,D,Y,F,12,,Waverley Road,Longtown,Carlisle
+2025-10-01,89600,CA6 4DL,F,N,L,34,,Fenwick Drive,Kingstown,Carlisle
+2025-09-29,207995,CA6 5FF,D,Y,F,51,,Fawn Wood Way,Longtown,Carlisle
+2025-09-26,352000,CA6 6AA,D,N,F,Lyne Lodge,,,Westlinton,Carlisle
+2025-09-26,120000,CA6 5WE,S,N,F,12,,Beech Close,Longtown,Carlisle
+2025-09-26,194745,CA6 5FF,D,Y,F,60,,Fawn Wood Way,Longtown,Carlisle
+2025-09-26,259995,CA6 5FF,D,Y,F,59,,Fawn Wood Way,Longtown,Carlisle
+2025-09-26,97997,CA6 5FF,S,Y,F,58,,Fawn Wood Way,Longtown,Carlisle
+2025-09-26,170995,CA6 5FF,S,Y,F,57,,Fawn Wood Way,Longtown,Carlisle
+2025-09-26,170995,CA6 5FF,S,Y,F,56,,Fawn Wood Way,Longtown,Carlisle
+2025-09-26,98000,CA6 5FF,S,Y,F,55,,Fawn Wood Way,Longtown,Carlisle
+2025-09-26,535000,CA6 4NH,D,N,F,Beanlands Park,,,Irthington,Carlisle
+2025-09-24,113000,CA6 4BZ,T,N,F,26,,Crindledyke Estate,Kingstown,Carlisle
+2025-09-19,200000,CA6 5TH,D,N,F,8A,,Old Road,Longtown,Carlisle
+2025-09-12,390000,CA6 6BX,D,N,F,Sunnyside,,,Kirklinton,Carlisle
+2025-09-12,270000,CA6 5NU,D,N,F,13,,The Scaur,Longtown,Carlisle
+2025-09-12,190000,CA6 5FB,D,N,F,24,,St Michaels Drive,Longtown,Carlisle
+2025-09-10,145000,CA6 5WF,T,N,F,13,,Oak Avenue,Longtown,Carlisle
+2025-09-05,315000,CA6 4AW,D,N,F,Granview,,,Cargo,Carlisle
+2025-09-04,200000,CA6 4EU,S,N,F,31,,Charlton Way,Kingstown,Carlisle
+2025-08-29,370000,CA6 4RR,D,N,F,17,,The Nurseries,Linstock,Carlisle
+2025-08-14,235000,CA6 4QH,S,N,F,2,,Eden View,Park Broom,Carlisle
+2025-08-14,305000,CA6 4PG,D,N,F,Hillcrest,,,Irthington,Carlisle
+2025-08-11,189000,CA6 4BH,D,N,F,Crindledyke House,,,Rockcliffe,Carlisle
+2025-08-08,312500,CA6 5FE,D,Y,F,11,,Waverley Road,Longtown,Carlisle
+2025-08-01,171000,CA6 5FB,S,N,F,114,,St Michaels Drive,Longtown,Carlisle
+2025-08-01,495000,CA6 4PN,D,N,F,12,,Vestaneum,Crosby On Eden,Carlisle
+2025-07-28,70000,CA6 5SF,T,N,F,57,,Albert Street,Longtown,Carlisle
+2025-07-26,106000,CA6 5LT,T,N,F,38,,Greenmill Road,Longtown,Carlisle
+2025-07-21,440000,CA6 6EH,D,N,F,The Croft,,,Hethersgill,Carlisle
+2025-07-17,380000,CA6 5FE,D,Y,F,7,,Waverley Road,Longtown,Carlisle
+2025-07-10,427500,CA6 4DS,D,N,F,Old Swinford,,,Harker,Carlisle
+2025-07-08,187500,CA6 4PS,T,N,F,The Elms,,,Laversdale,Carlisle
+2025-07-04,398000,CA6 4NH,D,N,F,Beanlands Park,Highfield House,,Irthington,Carlisle
+2025-07-03,428000,CA6 5PH,D,N,F,The Orchard,,Kirkandrews Moat,Longtown,Carlisle
+2025-07-02,275000,CA6 4PZ,S,N,F,Fern Lea,,,Linstock,Carlisle
+2025-07-02,275000,CA6 4PZ,S,N,F,Fern Lea,,,Linstock,Carlisle
+2025-07-01,380000,CA6 5FE,D,Y,F,8,,Waverley Road,Longtown,Carlisle
+2025-06-25,179000,CA6 5FB,S,N,F,116,,St Michaels Drive,Longtown,Carlisle
+2025-06-16,350000,CA6 6BH,D,N,F,20,,Ryehill Park,Kirklinton,Carlisle
+2025-06-13,185000,CA6 5SG,D,N,F,7,,Arthuret Drive,Longtown,Carlisle
+2025-06-13,600000,CA6 4AF,D,N,F,Lapwing Meadow,,,Rockcliffe,Carlisle
+2025-06-12,39000,CA6 5TF,T,N,F,7,,Mill Street,Longtown,Carlisle
+2025-06-02,163000,CA6 5FA,S,N,F,39,,St Michaels Drive,Longtown,Carlisle
+2025-05-30,220000,CA6 4BG,S,N,F,1,,Sunny Mount,Cargo,Carlisle
+2025-05-27,148000,CA6 5WF,S,N,F,5,,Oak Avenue,Longtown,Carlisle
+2025-05-23,175000,CA6 5XS,S,N,F,24,,Bellsfield,Longtown,Carlisle
+2025-05-23,185000,CA6 5PT,S,N,F,4,,Esk Bank,Longtown,Carlisle
+2025-05-21,205000,CA6 6NE,D,N,F,Solway View,,,Roadhead,Carlisle
+2025-05-19,493450,CA6 4QX,D,N,F,Timberwell,,,Crosby Moor,Carlisle
+2025-05-19,295000,CA6 4AQ,D,N,F,70,,Edenside,Cargo,Carlisle
+2025-05-13,380000,CA6 4EX,D,Y,F,10,,Paddock Gardens,Brunstock,Carlisle
+2025-04-25,285000,CA6 4HS,D,N,F,40,,Harker Park Road,Harker Park,Carlisle
+2025-04-25,218000,CA6 4HB,D,N,F,Shannondore,,,Todhills,Carlisle
+2025-04-17,250000,CA6 4AW,D,N,F,Tall Trees,,,Cargo,Carlisle
+2025-04-16,130000,CA6 5UJ,T,N,F,38,,Dukeswood Road,Longtown,Carlisle
+2025-04-11,525000,CA6 4NQ,D,N,F,South House,,,Ruleholme,Carlisle
+2025-04-04,365000,CA6 6LN,D,N,F,Mallsburn Cottage,,,Roweltown,Carlisle
+2025-04-04,68000,CA6 5QD,S,N,F,Warwicksland,Beech Cottage,,Penton,Carlisle
+2025-04-04,70000,CA6 4NH,F,N,L,Beanlands,1 The Courtyard,,Irthington,Carlisle
+2025-03-31,227000,CA6 5FB,S,N,F,74,,St Michaels Drive,Longtown,Carlisle
+2025-03-31,615000,CA6 4PF,D,N,F,Holly House,,,Newtown,Carlisle
+2025-03-31,165000,CA6 4AH,T,N,F,41,,Blencarn Park,Rockcliffe,Carlisle
+2025-03-28,480000,CA6 6DR,D,N,F,Copper Beeches,,,Kirklinton,Carlisle
+2025-03-28,145000,CA6 5FA,S,N,F,23,,St Michaels Drive,Longtown,Carlisle
+2025-03-28,250000,CA6 4BX,D,N,F,5,,Crindledyke Close,Kingstown,Carlisle
+2025-03-26,161500,CA6 5FA,S,N,F,17,,St Michaels Drive,Longtown,Carlisle
+2025-03-26,245000,CA6 4DL,S,N,F,13,,Fenwick Drive,Kingstown,Carlisle
+2025-03-25,240000,CA6 6BP,D,N,F,Belmar,,,Smithfield,Carlisle
+2025-03-24,225000,CA6 4HS,D,N,F,34,,Harker Park Road,Harker Park,Carlisle
+2025-03-21,250000,CA6 5SG,D,N,F,25,,Arthuret Drive,Longtown,Carlisle
+2025-03-21,330000,CA6 4EB,D,N,F,5,,Maxwell Drive,Kingstown,Carlisle
+2025-03-19,480000,CA6 4QH,D,N,F,Park Broom House,,,Park Broom,Carlisle
+2025-03-14,329950,CA6 4EU,D,N,F,16,,Charlton Way,Kingstown,Carlisle
+2025-03-11,280000,CA6 4DL,T,N,F,5,,Fenwick Drive,Kingstown,Carlisle
+2025-03-10,195000,CA6 5TH,S,N,F,8,,Old Road,Longtown,Carlisle
+2025-03-07,280000,CA6 4DL,T,N,F,47,,Fenwick Drive,Kingstown,Carlisle
+2025-03-03,370000,CA6 4AA,D,N,F,Heather Lea,,,Rockcliffe,Carlisle
+2025-02-28,148000,CA6 4AQ,S,N,F,85,,Edenside,Cargo,Carlisle
+2025-02-27,200000,CA6 6NG,D,N,F,Kinkry Hill Cottage,,,Roadhead,Carlisle
+2025-02-27,295000,CA6 4PZ,D,N,F,Holly Lodge,,,Linstock,Carlisle
+2025-02-25,510000,CA6 6DR,S,N,F,Alder House,,,Kirklinton,Carlisle
+2025-02-14,220000,CA6 4DL,T,N,F,29,,Fenwick Drive,Kingstown,Carlisle
+2025-02-11,395000,CA6 4QN,D,N,F,Tallantyre,,,Crosby On Eden,Carlisle
+2025-01-31,249950,CA6 6NB,D,N,F,Hillcrest,,Cannon Field,Roadhead,Carlisle
+2025-01-28,187000,CA6 5TH,D,N,F,3,,Old Road,Longtown,Carlisle
+2025-01-17,220000,CA6 5XD,D,N,F,6,,Powdrake Crescent,Longtown,Carlisle
+2025-01-17,435000,CA6 4EX,D,Y,F,2,,Paddock Gardens,Brunstock,Carlisle
+2025-01-13,39000,CA6 5SF,T,N,F,13,,Albert Street,Longtown,Carlisle
+2025-01-13,120000,CA6 5SF,T,N,F,1,,Albert Street,Longtown,Carlisle
+2024-12-20,110000,CA6 5UF,T,N,F,11,,Mary Street,Longtown,Carlisle
+2024-12-20,145000,CA6 5FB,S,N,F,66,,St Michaels Drive,Longtown,Carlisle
+2024-12-19,127000,CA6 5PH,S,N,F,4,,Kirkandrews Moat,Longtown,Carlisle
+2024-12-16,310000,CA6 6BP,D,N,F,Pear Tree Cottage,,,Smithfield,Carlisle
+2024-12-12,595000,CA6 6DL,D,N,F,Green Wood Side,Longlands,,Kirklinton,Carlisle
+2024-12-09,475000,CA6 6AF,D,N,F,4,,Alstonby Court,Westlinton,Carlisle
+2024-12-06,90000,CA6 5UN,S,N,F,21,,Lovers Lane,Longtown,Carlisle
+2024-12-06,145000,CA6 5SF,T,N,F,17,,Albert Street,Longtown,Carlisle
+2024-12-02,200000,CA6 6LF,D,N,F,Longrigg House,,,Roweltown,Carlisle
+2024-12-02,186500,CA6 5PU,T,N,F,10,,Esk Street,Longtown,Carlisle
+2024-11-28,300000,CA6 4LB,D,N,F,Brown Dykes,,,Scaleby,Carlisle
+2024-11-28,170000,CA6 4AW,D,N,F,Orchard Croft,,,Cargo,Carlisle
+2024-11-26,165000,CA6 5WF,S,N,F,14,,Oak Avenue,Longtown,Carlisle
+2024-11-22,170000,CA6 5NZ,S,N,F,32,,Sycamore Drive,Longtown,Carlisle
+2024-11-11,175000,CA6 5QJ,S,N,F,3,,Bushfield,Penton,Carlisle
+2024-11-07,450000,CA6 6HX,D,N,F,Myrtle Cottage,,,Hethersgill,Carlisle
+2024-11-05,350000,CA6 4DY,D,N,F,Grayrigg,,,Houghton,Carlisle
+2024-11-04,410000,CA6 4PN,D,N,F,18,,Vestaneum,Crosby On Eden,Carlisle
+2024-11-01,485000,CA6 6AW,D,N,F,The Boggs Farm,,,Westlinton,Carlisle
+2024-11-01,125000,CA6 5UQ,S,N,F,10,,Moor Crescent,Longtown,Carlisle
+2024-10-31,320000,CA6 6NB,S,N,F,6,,Cannon Field,Roadhead,Carlisle
+2024-10-29,435000,CA6 4EX,D,Y,F,1,,Paddock Gardens,Brunstock,Carlisle
+2024-10-24,490000,CA6 4LS,D,N,F,Stoneknowe,Ash Lea,,Scaleby,Carlisle
+2024-10-11,328000,CA6 5LS,D,N,F,8,,Rosetrees Lane,Longtown,Carlisle
+2024-10-08,275000,CA6 4HB,D,N,F,West View,,,Todhills,Carlisle
+2024-10-04,145000,CA6 5UN,S,N,F,33,,Lovers Lane,Longtown,Carlisle
+2024-10-03,240000,CA6 4AQ,D,N,F,55,,Edenside,Cargo,Carlisle
+2024-09-27,276500,CA6 4HL,S,N,F,8,,,Harker Road Ends,Carlisle
+2024-09-25,210000,CA6 4PR,D,N,F,4,,Dale View,Laversdale,Carlisle
+2024-09-24,169500,CA6 5NZ,S,N,F,41,,Sycamore Drive,Longtown,Carlisle
+2024-09-20,380000,CA6 4NQ,T,N,F,Granary House,,,Ruleholme,Carlisle
+2024-09-20,250000,CA6 4DL,T,N,F,21,,Fenwick Drive,Kingstown,Carlisle
+2024-09-19,330000,CA6 4NR,T,N,F,1,,Irthing Court,Irthington,Carlisle
+2024-09-13,115000,CA6 5UN,S,N,F,43,,Lovers Lane,Longtown,Carlisle
+2024-09-13,128000,CA6 4AQ,S,N,F,86,,Edenside,Cargo,Carlisle
+2024-09-06,125000,CA6 5PT,S,N,F,30,,Esk Bank,Longtown,Carlisle
+2024-09-06,280000,CA6 4RR,S,N,F,5,,The Nurseries,Linstock,Carlisle
+2024-09-05,165000,CA6 5FB,D,N,F,84,,St Michaels Drive,Longtown,Carlisle
+2024-09-02,405000,CA6 4NJ,D,N,F,Wilmar,,,Irthington,Carlisle
+2024-08-30,142000,CA6 4NU,T,N,F,Weavers Cottage,,,Newtown,Carlisle
+2024-08-30,500000,CA6 4DS,D,N,F,Meadow Croft,,,Harker,Carlisle
+2024-08-28,120000,CA6 5LT,T,N,F,35,,Greenmill Road,Longtown,Carlisle
+2024-08-23,216000,CA6 6PQ,D,N,F,Sandcrook,,,Roadhead,Carlisle
+2024-08-23,90000,CA6 5PS,T,N,F,4,,Bank Street,Longtown,Carlisle
+2024-08-23,530000,CA6 4ND,D,N,F,Gillmorran,,,Irthington,Carlisle
+2024-08-23,200000,CA6 4LJ,D,N,F,Church Close,,,Scaleby,Carlisle
+2024-08-21,200000,CA6 6PQ,D,N,F,The Myre,,,Roadhead,Carlisle
+2024-08-21,550000,CA6 4LS,D,N,F,Stoneknowe Villa,,,Scaleby,Carlisle
+2024-08-16,200000,CA6 6AY,S,N,F,5,,Skitby Road,Smithfield,Carlisle
+2024-08-15,279950,CA6 5SG,D,N,F,14,,Arthuret Drive,Longtown,Carlisle
+2024-08-13,400000,CA6 4NN,D,N,F,Garthfoot,,,Irthington,Carlisle
+2024-08-12,247000,CA6 4AY,S,N,F,West View,,,Cargo,Carlisle
+2024-08-12,375000,CA6 4AQ,D,N,F,2,,Edenside,Cargo,Carlisle
+2024-08-09,136500,CA6 4DL,T,N,F,48,,Fenwick Drive,Kingstown,Carlisle
+2024-08-05,210000,CA6 5YS,D,N,F,14,,Briar Lea Court,Longtown,Carlisle
+2024-08-02,380000,CA6 4EX,D,Y,F,5,,Paddock Gardens,Brunstock,Carlisle
+2024-07-29,241000,CA6 5SP,S,N,F,2,,Woodside,Sandysike,Carlisle
+2024-07-29,165000,CA6 5SE,T,N,F,53,,English Street,Longtown,Carlisle
+2024-07-26,470000,CA6 5FD,D,Y,F,4,,Murray Close,Longtown,Carlisle
+2024-07-26,165000,CA6 5FA,D,N,F,7,,St Michaels Drive,Longtown,Carlisle
+2024-07-26,210000,CA6 4AQ,D,N,F,89,,Edenside,Cargo,Carlisle
+2024-07-25,245000,CA6 4AQ,D,N,F,56,,Edenside,Cargo,Carlisle
+2024-07-25,136000,CA6 4AQ,S,N,F,15,,Edenside,Cargo,Carlisle
+2024-07-24,493000,CA6 5RB,D,N,F,Old Hall Cottage,,,Penton,Carlisle
+2024-07-23,400000,CA6 4HE,D,N,F,9,,Meadowfield,Harker Road Ends,Carlisle
+2024-07-23,287500,CA6 4AQ,D,N,F,20,,Edenside,Cargo,Carlisle
+2024-07-12,220000,CA6 5FA,D,N,F,15,,St Michaels Drive,Longtown,Carlisle
+2024-07-09,100000,CA6 5TB,T,N,F,27,,Burn Street,Longtown,Carlisle
+2024-07-08,110000,CA6 5UJ,T,N,F,37,,Dukeswood Road,Longtown,Carlisle
+2024-07-05,162000,CA6 5UQ,S,N,F,28,,Moor Crescent,Longtown,Carlisle
+2024-06-28,197000,CA6 5UJ,S,N,F,15,,Dukeswood Road,Longtown,Carlisle
+2024-06-28,95000,CA6 5TB,T,N,F,19,,Burn Street,Longtown,Carlisle
+2024-06-25,120000,CA6 5TQ,T,N,F,40,,Raefield,Longtown,Carlisle
+2024-06-21,330000,CA6 4DA,D,N,F,5,,Crindledyke Lane,Kingstown,Carlisle
+2024-06-14,600000,CA6 6DA,D,N,F,West Acres,,,Kirklinton,Carlisle
+2024-06-14,570000,CA6 5XH,D,N,F,Sulwath Moss,,,Longtown,Carlisle
+2024-06-14,135000,CA6 5FB,S,N,F,68,,St Michaels Drive,Longtown,Carlisle
+2024-06-13,95000,CA6 5PU,T,N,F,21,,Esk Street,Longtown,Carlisle
+2024-06-13,310000,CA6 5LS,D,N,F,5,,Rosetrees Lane,Longtown,Carlisle
+2024-06-07,175000,CA6 6BH,D,N,F,23,,Ryehill Park,Kirklinton,Carlisle
+2024-06-07,390000,CA6 5FE,D,Y,F,13,,Waverley Road,Longtown,Carlisle
+2024-06-03,390000,CA6 5FE,D,Y,F,10,,Waverley Road,Longtown,Carlisle
+2024-05-31,248000,CA6 5SG,S,N,F,8,,Arthuret Drive,Longtown,Carlisle
+2024-05-30,180000,CA6 6BH,D,N,F,19,,Ryehill Park,Kirklinton,Carlisle
+2024-05-30,130000,CA6 5UR,T,N,F,3,,Stackbraes Road,Longtown,Carlisle
+2024-05-17,195000,CA6 5SJ,D,N,F,The Limes,,Arthuret Road,Longtown,Carlisle
+2024-05-17,208000,CA6 4AW,T,N,F,Carreg Barn,2,,Cargo,Carlisle
+2024-05-16,315000,CA6 6AW,S,N,F,Waverley House,,,Westlinton,Carlisle
+2024-05-16,320000,CA6 5LQ,D,N,F,Greenwood House,,,Blackbank,Carlisle
+2024-05-01,125000,CA6 5UH,S,N,F,11,,Lovers Lane,Longtown,Carlisle
+2024-04-29,460000,CA6 4NN,D,N,F,Burn House,,,Irthington,Carlisle
+2024-04-26,280000,CA6 4QU,D,N,F,22,,Hendersons Croft,Crosby On Eden,Carlisle
+2024-04-26,142500,CA6 4PY,D,N,F,Willow Barn,,,Linstock,Carlisle
+2024-04-19,325000,CA6 4PJ,D,N,F,Towngate,,,Laversdale,Carlisle
+2024-04-19,530000,CA6 4HL,D,N,F,9,,,Harker Road Ends,Carlisle
+2024-04-17,140000,CA6 5XF,D,N,F,1,,Ladyseat Gardens,Longtown,Carlisle
+2024-04-16,385000,CA6 4RS,D,N,F,"Selah, 4",,Chestnut Grove,Linstock,Carlisle
+2024-04-09,57000,CA6 5XS,T,N,L,1,,Bellsfield,Longtown,Carlisle
+2024-04-05,140000,CA6 6HW,D,N,F,Leabrae,,,Hethersgill,Carlisle
+2024-04-05,75000,CA6 5TF,T,N,F,19,,Mill Street,Longtown,Carlisle
+2024-04-05,575000,CA6 4PY,D,N,F,Linstock House,,,Linstock,Carlisle
+2024-03-28,136000,CA6 5UR,T,N,F,19,,Stackbraes Road,Longtown,Carlisle
+2024-03-28,175000,CA6 5QG,S,N,F,Stoneygate,2,,Penton,Carlisle
+2024-03-28,235000,CA6 4AW,D,N,F,Pangbourne,,,Cargo,Carlisle
+2024-03-22,177000,CA6 6DP,T,N,F,3,,Hether Bank,Kirklinton,Carlisle
+2024-03-20,130000,CA6 5FA,S,N,F,11,,St Michaels Drive,Longtown,Carlisle
+2024-03-08,307000,CA6 4FA,D,N,F,9,,Kinmont Way,Kingstown,Carlisle
+2024-03-07,145000,CA6 5FA,S,N,F,35,,St Michaels Drive,Longtown,Carlisle
+2024-02-29,450000,CA6 5FE,D,Y,F,4,,Waverley Road,Longtown,Carlisle
+2024-02-22,270000,CA6 4QG,T,N,F,Brunstock Mews,Barley House,,Brunstock,Carlisle
+2024-02-22,160000,CA6 4FB,T,N,F,8,,Elliot Drive,Kingstown,Carlisle
+2024-02-21,125000,CA6 4AH,S,N,F,18,,Blencarn Park,Rockcliffe,Carlisle
+2024-02-21,185000,CA6 4AB,S,N,F,9,,Lonning Foot,Rockcliffe,Carlisle
+2024-02-19,155000,CA6 5NZ,S,N,F,31,,Sycamore Drive,Longtown,Carlisle
+2024-02-16,86000,CA6 5SE,T,N,F,17,,English Street,Longtown,Carlisle
+2024-02-13,250000,CA6 5QG,D,N,F,Stoney Gate House,,,Penton,Carlisle
+2024-02-12,137500,CA6 4PY,T,N,F,Acorn Barn,,,Linstock,Carlisle
+2024-02-08,385000,CA6 5PN,D,N,F,Hazel Croft,,,Moat,Carlisle
+2024-01-30,230000,CA6 4QG,T,N,F,Brunstock Mews,The Cornerstone,,Brunstock,Carlisle
+2024-01-26,115000,CA6 5UR,S,N,F,7,,Stackbraes Road,Longtown,Carlisle
+2024-01-23,170000,CA6 4LJ,D,N,F,All Saints Hall,,,Scaleby,Carlisle
+2024-01-17,274000,CA6 4DL,T,N,F,1,,Fenwick Drive,Kingstown,Carlisle
+2024-01-17,370000,CA6 4AA,D,N,F,Wylock House,,,Rockcliffe,Carlisle
+2023-12-20,103250,CA6 5FE,T,Y,F,2,,Waverley Road,Longtown,Carlisle
+2023-12-07,250000,CA6 6AU,T,N,F,5,,Beechtree Court,Smithfield,Carlisle
+2023-12-06,106750,CA6 5FE,T,Y,F,3,,Waverley Road,Longtown,Carlisle
+2023-12-04,100000,CA6 5UQ,S,N,F,11,,Moor Crescent,Longtown,Carlisle
+2023-11-28,397750,CA6 5FE,D,Y,F,5,,Waverley Road,Longtown,Carlisle
+2023-11-27,178400,CA6 4LL,T,N,F,3,,Church Houses,Scaleby,Carlisle
+2023-11-24,113750,CA6 5FE,T,Y,F,1,,Waverley Road,Longtown,Carlisle
+2023-11-17,207500,CA6 4QD,S,N,F,Hazel Grove,,,Linstock,Carlisle
+2023-11-17,385000,CA6 4PN,D,N,F,7,,Vestaneum,Crosby On Eden,Carlisle
+2023-11-17,305000,CA6 4EB,D,N,F,38,,Maxwell Drive,Kingstown,Carlisle
+2023-11-15,475000,CA6 5QW,D,N,F,The Firs,,,Penton,Carlisle
+2023-11-03,475000,CA6 4QN,D,N,F,The Orchard,Eden House,,Crosby On Eden,Carlisle
+2023-11-02,175000,CA6 5YS,D,N,F,16,,Briar Lea Court,Longtown,Carlisle
+2023-10-31,395000,CA6 5PH,D,N,F,The Orchard,,Kirkandrews Moat,Longtown,Carlisle
+2023-10-06,110000,CA6 5SU,T,N,F,12,,Cliff Road,Longtown,Carlisle
+2023-10-06,235000,CA6 5PT,D,N,F,Esk View,,Esk Bank,Longtown,Carlisle
+2023-10-03,217750,CA6 4AW,T,N,F,Carreg Barn,3,,Cargo,Carlisle
+2023-09-29,280000,CA6 6DX,T,N,F,Old School House,1,,Kirklinton,Carlisle
+2023-09-29,62000,CA6 5PU,T,N,F,45,,Esk Street,Longtown,Carlisle
+2023-09-28,57000,CA6 5SA,T,N,F,14,,Netherby Street,Longtown,Carlisle
+2023-09-27,445000,CA6 4EX,D,Y,F,8,,Paddock Gardens,Brunstock,Carlisle
+2023-09-22,140000,CA6 5WF,T,N,F,3,,Oak Avenue,Longtown,Carlisle
+2023-09-04,249999,CA6 6DX,T,N,F,Old School House,2,,Kirklinton,Carlisle
+2023-09-01,128000,CA6 5NZ,S,N,F,15,,Sycamore Drive,Longtown,Carlisle
+2023-09-01,220000,CA6 4PJ,D,N,F,Hoggin Cottage,,,Laversdale,Carlisle
+2023-09-01,255000,CA6 4AQ,D,N,F,45,,Edenside,Cargo,Carlisle
+2023-08-31,665000,CA6 5PQ,D,N,F,Livingston House,,,Longtown,Carlisle
+2023-08-30,310000,CA6 4QG,D,N,F,Buttercup,,,Brunstock,Carlisle
+2023-08-30,130000,CA6 4BZ,T,N,F,19,,Crindledyke Estate,Kingstown,Carlisle
+2023-08-29,219000,CA6 4AQ,D,N,F,21,,Edenside,Cargo,Carlisle
+2023-08-25,240000,CA6 5TS,D,N,F,Woodhead,,,Longtown,Carlisle
+2023-08-25,242000,CA6 4EH,S,N,F,The Furrows,,,Blackford,Carlisle
+2023-08-24,225000,CA6 4AQ,D,N,F,65,,Edenside,Cargo,Carlisle
+2023-08-22,275000,CA6 5NR,D,N,F,Nursery Cottage,,Graham Street,Longtown,Carlisle
+2023-08-17,190000,CA6 4RA,D,N,F,The Lodge,,,Crosby On Eden,Carlisle
+2023-08-16,315000,CA6 6BP,D,N,F,Layla Vale,,,Smithfield,Carlisle
+2023-08-14,96000,CA6 5UZ,T,N,F,30,,Swan Street,Longtown,Carlisle
+2023-08-11,115000,CA6 5UF,T,N,F,23,,Mary Street,Longtown,Carlisle
+2023-08-11,81000,CA6 5TB,T,N,F,27,,Burn Street,Longtown,Carlisle
+2023-08-10,85000,CA6 4JF,S,N,F,Glenroy,,,Houghton,Carlisle
+2023-08-08,475000,CA6 4AB,D,N,F,Lee View,,Lonning Foot,Rockcliffe,Carlisle
+2023-08-07,257000,CA6 4AQ,D,N,F,32,,Edenside,Cargo,Carlisle
+2023-08-04,270000,CA6 4PJ,D,N,F,Dalecrest,,,Laversdale,Carlisle
+2023-08-02,75000,CA6 5SF,T,N,F,2A,,Albert Street,Longtown,Carlisle
+2023-08-02,370000,CA6 4HG,D,N,F,Metal Bridge,Holly Lodge,,Blackford,Carlisle
+2023-07-31,189000,CA6 5FB,D,N,F,4,,St Michaels Drive,Longtown,Carlisle
+2023-07-10,675000,CA6 4RA,D,N,F,Batt House,,,Crosby On Eden,Carlisle
+2023-07-07,132500,CA6 5TQ,T,N,F,7,,Raefield,Longtown,Carlisle
+2023-07-07,133995,CA6 5FA,S,Y,F,53,,St Michaels Drive,Longtown,Carlisle
+2023-07-03,95000,CA6 5SF,S,N,F,1A,,Albert Street,Longtown,Carlisle
+2023-07-03,129000,CA6 4AH,T,N,F,42,,Blencarn Park,Rockcliffe,Carlisle
+2023-06-30,325000,CA6 6HJ,D,N,F,The Haven,,Moss Edge,Hethersgill,Carlisle
+2023-06-30,115000,CA6 5SF,T,N,L,15,,Albert Street,Longtown,Carlisle
+2023-06-30,160000,CA6 5NZ,S,N,F,32,,Sycamore Drive,Longtown,Carlisle
+2023-06-30,128245,CA6 5FB,S,Y,F,88,,St Michaels Drive,Longtown,Carlisle
+2023-06-30,265000,CA6 4PJ,D,N,F,The Gables,,,Laversdale,Carlisle
+2023-06-30,350000,CA6 4NN,S,N,F,Fine View,,,Irthington,Carlisle
+2023-06-30,465000,CA6 4EX,D,Y,F,7,,Paddock Gardens,Brunstock,Carlisle
+2023-06-30,120000,CA6 4AS,S,N,F,12,,Applegarth,Cargo,Carlisle
+2023-06-23,515000,CA6 6DR,D,N,F,Yew House,,,Kirklinton,Carlisle
+2023-06-14,110000,CA6 5XE,S,N,F,2,,Claremont Drive,Longtown,Carlisle
+2023-06-05,396000,CA6 4AW,D,N,F,Paddock View,,,Cargo,Carlisle
+2023-05-26,151500,CA6 6PA,S,N,F,24,,Sleetbeck Road,Roadhead,Carlisle
+2023-05-25,212000,CA6 4QS,S,N,F,23,,The Garth,Crosby On Eden,Carlisle
+2023-05-05,135995,CA6 5FB,S,Y,F,98,,St Michaels Drive,Longtown,Carlisle
+2023-05-03,465000,CA6 4EX,D,Y,F,6,,Paddock Gardens,Brunstock,Carlisle
+2023-04-28,135995,CA6 5FB,S,Y,F,94,,St Michaels Drive,Longtown,Carlisle
+2023-04-28,300000,CA6 4LU,D,N,F,Sandhouse,,,Burnhill,Carlisle
+2023-04-28,291000,CA6 4EH,S,N,F,Riggmoor Close,,,Blackford,Carlisle
+2023-04-27,104000,CA6 5SD,T,N,F,14,,English Street,Longtown,Carlisle
+2023-04-27,134000,CA6 4PT,S,N,F,Flosh House,,,Irthington,Carlisle
+2023-04-25,296000,CA6 4AQ,D,N,F,25,,Edenside,Cargo,Carlisle
+2023-04-17,465000,CA6 4EX,D,Y,F,4,,Paddock Gardens,Brunstock,Carlisle
+2023-04-14,350000,CA6 4AA,D,N,F,Skenegarth,,,Rockcliffe,Carlisle
+2023-04-11,220000,CA6 4DL,T,N,F,31,,Fenwick Drive,Kingstown,Carlisle
+2023-04-04,135995,CA6 5FB,S,Y,F,80,,St Michaels Drive,Longtown,Carlisle
+2023-04-03,385000,CA6 4QN,D,N,F,Marland,,,Crosby On Eden,Carlisle
+2023-03-31,70000,CA6 5UR,T,N,F,11,,Stackbraes Road,Longtown,Carlisle
+2023-03-29,287000,CA6 4AB,S,N,F,10,,Lonning Foot,Rockcliffe,Carlisle
+2023-03-27,235000,CA6 5QP,D,N,F,Woodlands,,,Penton,Carlisle
+2023-03-20,340000,CA6 4NN,D,N,F,Gatesgarth,,,Irthington,Carlisle
+2023-03-17,75000,CA6 5NR,T,N,F,4,,Graham Street,Longtown,Carlisle
+2023-03-14,190000,CA6 5NP,T,N,F,"The Shades, 1",,Ward Street,Longtown,Carlisle
+2023-03-10,420001,CA6 4ES,D,N,F,Broadacres,,,Blackford,Carlisle
+2023-03-01,102000,CA6 5NZ,T,N,F,16,,Sycamore Drive,Longtown,Carlisle
+2023-02-28,350000,CA6 5QP,D,N,F,Milbourne House,,,Penton,Carlisle
+2023-02-27,179995,CA6 5FA,S,Y,F,3,,St Michaels Drive,Longtown,Carlisle
+2023-02-24,110000,CA6 4AH,T,N,F,14,,Blencarn Park,Rockcliffe,Carlisle
+2023-02-22,133000,CA6 6PA,S,N,F,12,,Sleetbeck Road,Roadhead,Carlisle
+2023-02-22,161995,CA6 5FA,S,Y,F,1,,St Michaels Drive,Longtown,Carlisle
+2023-02-21,385000,CA6 4RR,D,N,F,7,,The Nurseries,Linstock,Carlisle
+2023-02-17,183000,CA6 4AH,D,N,F,51,,Blencarn Park,Rockcliffe,Carlisle
+2023-02-03,266000,CA6 4QN,S,N,F,Fell View,,,Crosby On Eden,Carlisle
+2023-01-31,127000,CA6 4AQ,S,N,F,9,,Edenside,Cargo,Carlisle
+2023-01-26,260000,CA6 5NU,D,N,F,13,,The Scaur,Longtown,Carlisle
+2023-01-20,610000,CA6 6PR,D,N,F,Kirkbeckstown,,,Bewcastle,Carlisle
+2023-01-20,267500,CA6 4AQ,D,N,F,27,,Edenside,Cargo,Carlisle
+2023-01-16,285000,CA6 4HS,D,N,F,18,,Harker Park Road,Harker Park,Carlisle
+2023-01-13,120000,CA6 4AH,T,N,F,37,,Blencarn Park,Rockcliffe,Carlisle
+2023-01-12,135000,CA6 4AW,S,N,F,Willow End,,,Cargo,Carlisle
+2022-12-21,135000,CA6 4AH,T,N,F,23,,Blencarn Park,Rockcliffe,Carlisle
+2022-12-20,190000,CA6 5NP,T,N,F,The Coach House,,Ward Street,Longtown,Carlisle
+2022-12-20,174995,CA6 5FB,S,Y,F,96,,St Michaels Drive,Longtown,Carlisle
+2022-12-19,159995,CA6 5FB,S,Y,F,100,,St Michaels Drive,Longtown,Carlisle
+2022-12-19,74000,CA6 4AH,T,N,F,13,,Blencarn Park,Rockcliffe,Carlisle
+2022-12-16,95000,CA6 5PT,T,N,F,18,,Esk Bank,Longtown,Carlisle
+2022-12-16,184995,CA6 5FB,D,Y,F,84,,St Michaels Drive,Longtown,Carlisle
+2022-12-16,171995,CA6 5FB,S,Y,F,82,,St Michaels Drive,Longtown,Carlisle
+2022-12-15,480000,CA6 6NG,D,N,F,Kinkry Hill House,,,Roadhead,Carlisle
+2022-12-09,215000,CA6 5SA,T,N,F,27A,,Netherby Street,Longtown,Carlisle
+2022-12-09,355000,CA6 4RR,D,N,F,8,,The Nurseries,Linstock,Carlisle
+2022-12-08,75000,CA6 5PT,T,N,F,16,,Esk Bank,Longtown,Carlisle
+2022-12-05,130000,CA6 5PU,T,N,F,47,,Esk Street,Longtown,Carlisle
+2022-12-02,111000,CA6 5TF,T,N,F,17,,Mill Street,Longtown,Carlisle
+2022-12-02,300000,CA6 4AW,D,N,F,Dabbing Cottage,,,Cargo,Carlisle
+2022-12-01,335000,CA6 4HB,D,N,F,Fir Trees,,,Todhills,Carlisle
+2022-11-25,151000,CA6 6LG,D,N,F,Crossings Cottage,,,Roweltown,Carlisle
+2022-11-23,180000,CA6 5UZ,T,N,F,43,,Swan Street,Longtown,Carlisle
+2022-11-17,249000,CA6 4QX,D,N,F,Rose Cottage,,,Crosby Moor,Carlisle
+2022-11-14,375000,CA6 6LX,D,N,F,Crossings Burn,,,Roweltown,Carlisle
+2022-11-14,150000,CA6 5FB,S,N,F,72,,St Michaels Drive,Longtown,Carlisle
+2022-11-08,205000,CA6 4BG,S,N,F,2,,Sunny Mount,Cargo,Carlisle
+2022-11-01,245000,CA6 4HS,D,N,F,40,,Harker Park Road,Harker Park,Carlisle
+2022-11-01,290000,CA6 4EA,D,N,F,Forde House,,,Blackford,Carlisle
+2022-10-28,240000,CA6 5XF,D,N,F,12,,Ladyseat Gardens,Longtown,Carlisle
+2022-10-28,205000,CA6 5FB,D,N,F,20,,St Michaels Drive,Longtown,Carlisle
+2022-10-25,230000,CA6 4DL,T,N,F,41,,Fenwick Drive,Kingstown,Carlisle
+2022-10-24,150000,CA6 5WF,S,N,F,8,,Oak Avenue,Longtown,Carlisle
+2022-10-21,120000,CA6 5NU,S,N,F,1,,The Scaur,Longtown,Carlisle
+2022-10-19,190000,CA6 4QS,S,N,F,5,,The Garth,Crosby On Eden,Carlisle
+2022-10-17,260000,CA6 5SQ,D,N,F,Esk Vale,,Carlisle Road,Longtown,Carlisle
+2022-10-14,162500,CA6 4RB,D,N,F,4,,Eden Mews,Crosby On Eden,Carlisle
+2022-10-14,341175,CA6 4PF,S,N,F,Apple Cottage,,,Newtown,Carlisle
+2022-10-05,275000,CA6 5SD,T,N,F,6,,English Street,Longtown,Carlisle
+2022-10-03,290000,CA6 6PF,D,N,F,Dirtup,Black Lyne Lodge,,Roadhead,Carlisle
+2022-10-03,197995,CA6 5FA,D,Y,F,5,,St Michaels Drive,Longtown,Carlisle
+2022-10-03,827500,CA6 4LU,D,N,F,The Severals,,,Burnhill,Carlisle
+2022-09-30,169995,CA6 5FA,S,Y,F,49,,St Michaels Drive,Longtown,Carlisle
+2022-09-29,90000,CA6 5UJ,S,N,F,62,,Dukeswood Road,Longtown,Carlisle
+2022-09-21,105000,CA6 4EB,T,N,F,27,,Maxwell Drive,Kingstown,Carlisle
+2022-09-15,250000,CA6 4PF,T,N,F,Jasmine Cottage,,,Newtown,Carlisle
+2022-09-06,600000,CA6 5NT,D,N,F,Gable Croft,,Netherby Road,Longtown,Carlisle
+2022-08-31,350050,CA6 6PN,D,N,F,Noblestown Farmhouse,,,Bewcastle,Carlisle
+2022-08-31,183995,CA6 5FB,D,Y,F,120,,St Michaels Drive,Longtown,Carlisle
+2022-08-31,165995,CA6 5FA,S,Y,F,47,,St Michaels Drive,Longtown,Carlisle
+2022-08-31,179995,CA6 5FA,D,Y,F,45,,St Michaels Drive,Longtown,Carlisle
+2022-08-31,176995,CA6 5FA,D,Y,F,43,,St Michaels Drive,Longtown,Carlisle
+2022-08-30,400000,CA6 4QN,D,N,F,Marland,,,Crosby On Eden,Carlisle
+2022-08-26,800000,CA6 6AF,D,N,F,2,,Alstonby Court,Westlinton,Carlisle
+2022-08-26,585000,CA6 4JF,S,N,F,Woodlands,,,Houghton,Carlisle
+2022-08-23,255000,CA6 4AQ,D,N,F,42,,Edenside,Cargo,Carlisle
+2022-08-15,260000,CA6 6BH,S,N,F,22,,Ryehill Park,Kirklinton,Carlisle
+2022-08-12,80000,CA6 5PT,T,N,F,12,,Esk Bank,Longtown,Carlisle
+2022-08-04,168000,CA6 4AQ,S,N,F,7,,Edenside,Cargo,Carlisle
+2022-08-03,87500,CA6 4DL,F,N,L,38,,Fenwick Drive,Kingstown,Carlisle
+2022-08-02,97500,CA6 5XU,T,N,F,61,,Lochinvar Close,Longtown,Carlisle
+2022-07-29,190995,CA6 5FB,D,Y,F,102,,St Michaels Drive,Longtown,Carlisle
+2022-07-28,137500,CA6 4DL,F,N,L,63,,Fenwick Drive,Kingstown,Carlisle
+2022-07-22,135000,CA6 5WF,T,N,F,11,,Oak Avenue,Longtown,Carlisle
+2022-07-15,335000,CA6 6AF,D,N,F,Lyne View,,,Westlinton,Carlisle
+2022-07-08,145000,CA6 5NZ,T,N,F,49,,Sycamore Drive,Longtown,Carlisle
+2022-07-07,317500,CA6 5PG,D,N,F,Stott Foot Cottage,,,Longtown,Carlisle
+2022-07-07,162500,CA6 4LZ,T,N,F,1,,Elm Terrace,Scaleby Hill,Carlisle
+2022-07-01,210000,CA6 4BZ,D,N,F,31,,Crindledyke Estate,Kingstown,Carlisle
+2022-06-30,146995,CA6 5FB,S,Y,F,114,,St Michaels Drive,Longtown,Carlisle
+2022-06-30,151995,CA6 5FB,S,Y,F,112,,St Michaels Drive,Longtown,Carlisle
+2022-06-30,129995,CA6 5FA,S,Y,F,41,,St Michaels Drive,Longtown,Carlisle
+2022-06-30,151995,CA6 5FA,S,Y,F,39,,St Michaels Drive,Longtown,Carlisle
+2022-06-29,280000,CA6 4HS,S,N,F,5,,Harker Park Road,Harker Park,Carlisle
+2022-06-27,161995,CA6 5FB,S,Y,F,116,,St Michaels Drive,Longtown,Carlisle
+2022-06-24,132995,CA6 5FB,S,Y,F,118,,St Michaels Drive,Longtown,Carlisle
+2022-06-24,142995,CA6 5FB,S,Y,F,110,,St Michaels Drive,Longtown,Carlisle
+2022-06-24,143995,CA6 5FB,S,Y,F,108,,St Michaels Drive,Longtown,Carlisle
+2022-06-07,220000,CA6 5XD,S,N,F,7,,Powdrake Crescent,Longtown,Carlisle
+2022-06-01,100000,CA6 5UP,S,N,F,9,,Liddel Road,Longtown,Carlisle
+2022-05-27,800000,CA6 6JJ,D,N,F,The Oaks,,,Roweltown,Carlisle
+2022-05-27,162995,CA6 5FA,S,Y,F,37,,St Michaels Drive,Longtown,Carlisle
+2022-05-27,131995,CA6 5FA,S,Y,F,35,,St Michaels Drive,Longtown,Carlisle
+2022-05-20,242500,CA6 4QG,S,N,F,Brunstock Mews,Old Cobblestones,,Brunstock,Carlisle
+2022-05-20,365000,CA6 4HS,D,N,F,25,,Harker Park Road,Harker Park,Carlisle
+2022-05-16,550000,CA6 4EQ,D,N,F,Dyke Nook,,,Blackford,Carlisle
+2022-05-13,169995,CA6 5FB,D,Y,F,106,,St Michaels Drive,Longtown,Carlisle
+2022-05-13,164995,CA6 5FB,D,Y,F,104,,St Michaels Drive,Longtown,Carlisle
+2022-05-13,300000,CA6 4FA,D,N,F,9,,Kinmont Way,Kingstown,Carlisle
+2022-05-10,59000,CA6 5SA,T,N,F,10,,Netherby Street,Longtown,Carlisle
+2022-05-05,115000,CA6 6BD,S,N,F,Bramley Mews,,,Kirklinton,Carlisle
+2022-04-29,450000,CA6 6BD,T,N,F,Bramley Dene,,,Kirklinton,Carlisle
+2022-04-29,125000,CA6 5UY,F,N,F,19A,,Swan Street,Longtown,Carlisle
+2022-04-29,213000,CA6 4DL,T,N,F,7,,Fenwick Drive,Kingstown,Carlisle
+2022-04-22,130000,CA6 5NZ,T,N,F,14,,Sycamore Drive,Longtown,Carlisle
+2022-04-21,140000,CA6 5NZ,S,N,F,8,,Sycamore Drive,Longtown,Carlisle
+2022-04-14,132750,CA6 5XS,T,N,F,9,,Bellsfield,Longtown,Carlisle
+2022-04-11,118000,CA6 5XB,S,N,F,117,,Moor Road,Longtown,Carlisle
+2022-04-01,530000,CA6 6PW,D,N,F,Noblestown,,,Bewcastle,Carlisle
+2022-04-01,137500,CA6 5YS,D,N,F,11,,Briar Lea Court,Longtown,Carlisle
+2022-04-01,210000,CA6 5SR,D,N,F,Tall Trees,,,Sandysike,Carlisle
+2022-04-01,136995,CA6 5FB,S,Y,F,50,,St Michaels Drive,Longtown,Carlisle
+2022-04-01,138995,CA6 5FB,S,Y,F,48,,St Michaels Drive,Longtown,Carlisle
+2022-03-28,195000,CA6 6BH,D,N,F,4,,Ryehill Park,Kirklinton,Carlisle
+2022-03-28,325000,CA6 4HS,D,N,F,22,,Harker Park Road,Harker Park,Carlisle
+2022-03-25,90000,CA6 5SF,T,N,F,17A,,Albert Street,Longtown,Carlisle
+2022-03-21,170000,CA6 6AY,S,N,F,6,,Skitby Road,Smithfield,Carlisle
+2022-03-11,100000,CA6 5TQ,T,N,F,36,,Raefield,Longtown,Carlisle
+2022-03-11,140000,CA6 5NZ,S,N,F,6,,Sycamore Drive,Longtown,Carlisle
+2022-03-09,68000,CA6 5UY,T,N,F,18,,Swan Street,Longtown,Carlisle
+2022-03-03,276500,CA6 4HS,D,N,F,4,,Harker Park Road,Harker Park,Carlisle
+2022-02-28,148995,CA6 5FB,S,Y,F,54,,St Michaels Drive,Longtown,Carlisle
+2022-02-28,135995,CA6 5FB,S,Y,F,52,,St Michaels Drive,Longtown,Carlisle
+2022-02-28,171995,CA6 5FB,D,Y,F,46,,St Michaels Drive,Longtown,Carlisle
+2022-02-21,265000,CA6 4HL,S,N,F,8,,,Harker Road Ends,Carlisle
+2022-02-18,400000,CA6 6LX,D,N,F,Trough Farm,,,Roweltown,Carlisle
+2022-02-15,107500,CA6 4DR,T,N,F,5,,Old Harker,Low Harker,Carlisle
+2022-02-14,220000,CA6 4QS,S,N,F,18,,The Garth,Crosby On Eden,Carlisle
+2022-02-14,241000,CA6 4PF,D,N,F,Glendue,,,Newtown,Carlisle
+2022-02-07,180000,CA6 4QZ,S,N,F,Crosby Grange,4,,Crosby On Eden,Carlisle
+2022-01-31,1050000,CA6 5QP,D,N,F,Chapel Hill,,,Penton,Carlisle
+2022-01-28,140000,CA6 6HW,D,N,F,The Hayloft,,,Hethersgill,Carlisle
+2022-01-28,125000,CA6 4LH,D,N,F,1,,Oakland View,Barclose,Carlisle
+2022-01-28,390000,CA6 4BF,D,N,F,7,,Honeypot Meadow,Cargo,Carlisle
+2022-01-27,255000,CA6 4DL,T,N,F,3,,Fenwick Drive,Kingstown,Carlisle
+2022-01-14,120000,CA6 6PA,T,N,F,7,,Sleetbeck Road,Roadhead,Carlisle
+2022-01-11,133000,CA6 6NT,D,N,F,Oakshaw Ford,The Forge,,Roadhead,Carlisle
+2022-01-07,370000,CA6 4QX,D,N,F,Timberwell,,,Crosby Moor,Carlisle
+2021-12-21,190000,CA6 6EH,S,N,F,Wenault,,,Hethersgill,Carlisle
+2021-12-20,159995,CA6 5FB,D,Y,F,44,,St Michaels Drive,Longtown,Carlisle
+2021-12-20,150995,CA6 5FB,S,Y,F,42,,St Michaels Drive,Longtown,Carlisle
+2021-12-20,122995,CA6 5FB,S,Y,F,40,,St Michaels Drive,Longtown,Carlisle
+2021-12-20,257500,CA6 4PJ,D,N,F,The Gables,,,Laversdale,Carlisle
+2021-12-20,250000,CA6 4NN,S,N,F,Fine View,,,Irthington,Carlisle
+2021-12-17,850000,CA6 6ES,D,N,F,Mount Pleasant,,,Hethersgill,Carlisle
+2021-12-17,217000,CA6 4AA,D,N,F,Hillside Cottage,,,Rockcliffe,Carlisle
+2021-12-10,230000,CA6 5PS,T,N,F,20,,Bank Street,Longtown,Carlisle
+2021-12-10,291000,CA6 4PN,D,N,F,9,,Vestaneum,Crosby On Eden,Carlisle
+2021-12-10,160000,CA6 4NN,D,N,F,Meadow View,,,Irthington,Carlisle
+2021-12-10,85000,CA6 4DL,F,N,L,38,,Fenwick Drive,Kingstown,Carlisle
+2021-12-07,50000,CA6 5UZ,T,N,F,27,,Swan Street,Longtown,Carlisle
+2021-11-30,125000,CA6 6PA,T,N,F,7,,Sleetbeck Road,Roadhead,Carlisle
+2021-11-30,87500,CA6 5XU,S,N,F,27,,Lochinvar Close,Longtown,Carlisle
+2021-11-26,145995,CA6 5FB,S,Y,F,62,,St Michaels Drive,Longtown,Carlisle
+2021-11-26,117995,CA6 5FB,S,Y,F,60,,St Michaels Drive,Longtown,Carlisle
+2021-11-19,370000,CA6 4BY,D,N,F,Kingswood,,,Kingstown,Carlisle
+2021-11-17,390000,CA6 6AW,S,N,F,Meadow View,,,Westlinton,Carlisle
+2021-11-17,160000,CA6 5UF,T,N,F,12,,Mary Street,Longtown,Carlisle
+2021-11-15,278660,CA6 5QW,S,N,F,Pepper Moss,,,Penton,Carlisle
+2021-11-12,575000,CA6 6DR,D,N,F,Copper Beeches,,,Kirklinton,Carlisle
+2021-11-12,214995,CA6 5FB,D,Y,F,56,,St Michaels Drive,Longtown,Carlisle
+2021-11-12,185000,CA6 4BG,S,N,F,1,,Sunny Mount,Cargo,Carlisle
+2021-11-05,145000,CA6 5NU,S,N,F,1,,The Scaur,Longtown,Carlisle
+2021-11-05,182995,CA6 5FA,D,Y,F,9,,St Michaels Drive,Longtown,Carlisle
+2021-10-29,140000,CA6 5NZ,S,N,F,22,,Sycamore Drive,Longtown,Carlisle
+2021-10-29,165995,CA6 5FB,D,Y,F,58,,St Michaels Drive,Longtown,Carlisle
+2021-10-28,130000,CA6 5WE,S,N,F,4,,Beech Close,Longtown,Carlisle
+2021-10-27,570000,CA6 4JF,S,N,F,Woodlands,,,Houghton,Carlisle
+2021-10-15,131000,CA6 5UZ,T,N,F,43,,Swan Street,Longtown,Carlisle
+2021-10-15,111000,CA6 5PT,S,N,F,30,,Esk Bank,Longtown,Carlisle
+2021-10-12,167500,CA6 4NL,S,N,F,3,,Fox Hills,Irthington,Carlisle
+2021-10-11,147000,CA6 4DL,T,N,F,46,,Fenwick Drive,Kingstown,Carlisle
+2021-10-08,117995,CA6 5FB,S,Y,F,66,,St Michaels Drive,Longtown,Carlisle
+2021-10-08,143995,CA6 5FB,S,Y,F,36,,St Michaels Drive,Longtown,Carlisle
+2021-10-06,170000,CA6 4AW,T,N,F,Carreg Barn,1,,Cargo,Carlisle
+2021-09-30,98000,CA6 5LT,T,N,F,38,,Greenmill Road,Longtown,Carlisle
+2021-09-30,410000,CA6 4PJ,D,N,F,Brow Top,,,Laversdale,Carlisle
+2021-09-30,269000,CA6 4LW,T,N,F,The Hayloft,,,Scaleby,Carlisle
+2021-09-30,225000,CA6 4AW,D,N,F,Oak House,,,Cargo,Carlisle
+2021-09-29,158000,CA6 6DX,S,N,F,Netherdale,,,Kirklinton,Carlisle
+2021-09-29,400000,CA6 4QH,D,N,F,Brantwood,,,Park Broom,Carlisle
+2021-09-29,297000,CA6 4DA,D,N,F,1,,Crindledyke Lane,Kingstown,Carlisle
+2021-09-24,138000,CA6 5NZ,S,N,F,27,,Sycamore Drive,Longtown,Carlisle
+2021-09-24,121995,CA6 5FB,S,Y,F,38,,St Michaels Drive,Longtown,Carlisle
+2021-09-24,192000,CA6 4BX,D,N,F,11,,Crindledyke Close,Kingstown,Carlisle
+2021-09-24,350000,CA6 4AB,D,N,F,Treyarnon,,Lonning Foot,Rockcliffe,Carlisle
+2021-09-23,525000,CA6 5PE,D,N,F,Carwinley Cottage,,,Carwinley,Carlisle
+2021-09-22,145000,CA6 5WF,T,N,F,9,,Oak Avenue,Longtown,Carlisle
+2021-09-22,170000,CA6 4DL,S,N,F,62,,Fenwick Drive,Kingstown,Carlisle
+2021-09-22,205000,CA6 4DL,T,N,F,29,,Fenwick Drive,Kingstown,Carlisle
+2021-09-20,161995,CA6 5FB,D,Y,F,76,,St Michaels Drive,Longtown,Carlisle
+2021-09-20,162995,CA6 5FA,D,Y,F,21,,St Michaels Drive,Longtown,Carlisle
+2021-09-20,251000,CA6 4AQ,D,N,F,70,,Edenside,Cargo,Carlisle
+2021-09-17,154995,CA6 5FB,D,Y,F,78,,St Michaels Drive,Longtown,Carlisle
+2021-09-17,197500,CA6 4DL,T,N,F,41,,Fenwick Drive,Kingstown,Carlisle
+2021-09-16,275000,CA6 4HL,S,N,F,7,,,Harker Road Ends,Carlisle
+2021-09-15,330000,CA6 4RR,D,N,F,14,,The Nurseries,Linstock,Carlisle
+2021-09-10,136500,CA6 4DR,T,N,F,2,,Old Harker,Low Harker,Carlisle
+2021-09-10,90000,CA6 4DL,F,N,L,61,,Fenwick Drive,Kingstown,Carlisle
+2021-09-06,175000,CA6 4QS,S,N,F,12,,The Garth,Crosby On Eden,Carlisle
+2021-09-03,138000,CA6 5XF,D,N,F,3,,Ladyseat Gardens,Longtown,Carlisle
+2021-09-03,141500,CA6 5PH,S,N,F,8,,Kirkandrews Moat,Longtown,Carlisle
+2021-09-03,310000,CA6 4HE,D,N,F,2,,Meadowfield,Harker Road Ends,Carlisle
+2021-08-31,870000,CA6 4JG,D,N,F,Cavalaire,,,The Knells,Carlisle
+2021-08-31,235000,CA6 4HS,D,N,F,23,,Harker Park Road,Harker Park,Carlisle
+2021-08-27,120000,CA6 5SA,T,N,F,29,,Netherby Street,Longtown,Carlisle
+2021-08-27,175000,CA6 4EB,S,N,F,15,,Maxwell Drive,Kingstown,Carlisle
+2021-08-20,193000,CA6 5SQ,D,N,F,Fairways,,Carlisle Road,Longtown,Carlisle
+2021-08-19,119995,CA6 5FB,S,Y,F,70,,St Michaels Drive,Longtown,Carlisle
+2021-08-18,235000,CA6 4QU,D,N,F,"Corner House, 2",,Hendersons Croft,Crosby On Eden,Carlisle
+2021-08-13,115995,CA6 5FB,S,Y,F,68,,St Michaels Drive,Longtown,Carlisle
+2021-08-12,240000,CA6 4AQ,D,N,F,87,,Edenside,Cargo,Carlisle
+2021-08-09,195000,CA6 5YS,D,N,F,1,,Briar Lea Court,Longtown,Carlisle
+2021-08-09,225000,CA6 5QP,D,N,F,Woodlands,,,Penton,Carlisle
+2021-08-06,260000,CA6 4AQ,D,N,F,53,,Edenside,Cargo,Carlisle
+2021-08-06,108000,CA6 4AQ,S,N,F,15,,Edenside,Cargo,Carlisle
+2021-08-05,160000,CA6 4FB,S,N,F,4,,Elliot Drive,Kingstown,Carlisle
+2021-07-30,156995,CA6 5FB,D,Y,F,64,,St Michaels Drive,Longtown,Carlisle
+2021-07-30,210000,CA6 4DL,S,N,F,13,,Fenwick Drive,Kingstown,Carlisle
+2021-07-28,227500,CA6 4PF,S,N,F,Westfield,,,Newtown,Carlisle
+2021-07-23,200000,CA6 5LQ,D,N,F,Kelora,,,Blackbank,Carlisle
+2021-07-22,212500,CA6 4BX,D,N,F,9,,Crindledyke Close,Kingstown,Carlisle
+2021-07-16,135000,CA6 5NZ,S,N,F,38,,Sycamore Drive,Longtown,Carlisle
+2021-07-09,219000,CA6 5NP,S,N,F,Highclere House,,Ward Street,Longtown,Carlisle
+2021-07-01,232000,CA6 6AH,D,N,F,West Lodge,,,Justicetown,Carlisle
+2021-07-01,220000,CA6 4ET,D,N,F,Leagate,,,Newtown,Carlisle
+2021-06-30,130000,CA6 5SA,S,N,F,Netherby Court,1,Netherby Street,Longtown,Carlisle
+2021-06-30,337500,CA6 4RR,D,N,F,9,,The Nurseries,Linstock,Carlisle
+2021-06-25,208995,CA6 5FB,S,Y,F,74,,St Michaels Drive,Longtown,Carlisle
+2021-06-25,129995,CA6 5FB,S,Y,F,72,,St Michaels Drive,Longtown,Carlisle
+2021-06-25,338000,CA6 4RR,D,N,F,"Glenmavis, 15",,The Nurseries,Linstock,Carlisle
+2021-06-24,450000,CA6 4PE,D,N,F,Hawthorns,,,Irthington,Carlisle
+2021-06-23,725000,CA6 6DZ,D,N,F,Hallside,,,Kirklinton,Carlisle
+2021-06-21,125000,CA6 5SG,D,N,F,7,,Arthuret Drive,Longtown,Carlisle
+2021-06-18,160000,CA6 4EH,S,N,F,Orchard View,,,Blackford,Carlisle
+2021-06-17,310000,CA6 5LL,D,N,F,Tarn Lodge,,,Gaitle,Carlisle
+2021-06-17,285000,CA6 4AA,D,N,F,Skenegarth,,,Rockcliffe,Carlisle
+2021-06-15,243000,CA6 4JP,D,N,F,Far Long Park,The Barn,,Long Park,Carlisle
+2021-06-08,264000,CA6 4EB,D,N,F,43,,Maxwell Drive,Kingstown,Carlisle
+2021-06-08,205000,CA6 4BQ,S,N,F,2,,Beckside Cottage,Rockcliffe,Carlisle
+2021-06-04,420000,CA6 4NJ,D,N,F,Red Bank House,,,Irthington,Carlisle
+2021-06-04,175000,CA6 4AQ,D,N,F,89,,Edenside,Cargo,Carlisle
+2021-06-04,242500,CA6 4AQ,D,N,F,72,,Edenside,Cargo,Carlisle
+2021-05-28,405000,CA6 6AG,D,N,F,Clifford House,,,Westlinton,Carlisle
+2021-05-28,162500,CA6 5WF,D,N,F,1,,Oak Avenue,Longtown,Carlisle
+2021-05-28,161995,CA6 5FA,D,Y,F,33,,St Michaels Drive,Longtown,Carlisle
+2021-05-28,156995,CA6 5FA,D,Y,F,31,,St Michaels Drive,Longtown,Carlisle
+2021-05-28,144995,CA6 5FA,S,Y,F,25,,St Michaels Drive,Longtown,Carlisle
+2021-05-28,167000,CA6 4FB,S,N,F,3,,Elliot Drive,Kingstown,Carlisle
+2021-05-28,100000,CA6 4EB,T,N,F,31,,Maxwell Drive,Kingstown,Carlisle
+2021-05-28,158000,CA6 4AW,T,N,F,Carreg Barn,2,,Cargo,Carlisle
+2021-05-27,222000,CA6 4PJ,D,N,F,Applecross,,,Laversdale,Carlisle
+2021-05-26,121000,CA6 5WF,S,N,F,10,,Oak Avenue,Longtown,Carlisle
+2021-05-21,105000,CA6 5TQ,T,N,F,52,,Raefield,Longtown,Carlisle
+2021-05-21,193000,CA6 4AQ,D,N,F,55,,Edenside,Cargo,Carlisle
+2021-05-19,215000,CA6 4PP,S,N,F,Old Wall Cottage,,,Old Wall,Carlisle
+2021-05-14,375000,CA6 6LH,D,N,F,Waters Mill,,,Roweltown,Carlisle
+2021-05-14,210000,CA6 4AQ,D,N,F,78,,Edenside,Cargo,Carlisle
+2021-05-12,220000,CA6 4HS,D,N,F,36,,Harker Park Road,Harker Park,Carlisle
+2021-05-10,260000,CA6 6BZ,D,N,F,Fir Ends School House,,,Kirklinton,Carlisle
+2021-05-07,180000,CA6 4PS,T,N,F,Oaklands,,,Laversdale,Carlisle
+2021-05-05,189000,CA6 4AQ,D,N,F,34,,Edenside,Cargo,Carlisle
+2021-04-30,95000,CA6 4NH,F,N,L,Beanlands,2 The Courtyard,,Irthington,Carlisle
+2021-04-30,215000,CA6 4AQ,D,N,F,33,,Edenside,Cargo,Carlisle
+2021-04-27,210000,CA6 5NU,D,N,F,17,,The Scaur,Longtown,Carlisle
+2021-04-26,160995,CA6 5FB,D,Y,F,24,,St Michaels Drive,Longtown,Carlisle
+2021-04-26,118000,CA6 4BB,D,N,F,Cargo Beck House,,,Cargo,Carlisle
+2021-04-23,84000,CA6 5SF,S,N,F,1A,,Albert Street,Longtown,Carlisle
+2021-04-23,180000,CA6 5BF,D,Y,F,1,,The Dell,Longtown,Carlisle
+2021-04-23,285000,CA6 4AB,D,N,F,11,,Lonning Foot,Rockcliffe,Carlisle
+2021-04-22,153995,CA6 5FB,D,Y,F,22,,St Michaels Drive,Longtown,Carlisle
+2021-04-22,112000,CA6 4EB,T,N,F,13,,Maxwell Drive,Kingstown,Carlisle
+2021-04-20,184000,CA6 4HS,S,N,F,9,,Harker Park Road,Harker Park,Carlisle
+2021-04-16,100000,CA6 5WE,S,N,F,5,,Beech Close,Longtown,Carlisle
+2021-04-16,250000,CA6 4PZ,D,N,F,Close House,,,Linstock,Carlisle
+2021-04-16,175000,CA6 4FB,S,N,F,2,,Elliot Drive,Kingstown,Carlisle
+2021-04-16,540000,CA6 4DX,D,N,F,Woodside,,,Houghton,Carlisle
+2021-04-16,218500,CA6 4AQ,D,N,F,56,,Edenside,Cargo,Carlisle
+2021-04-12,270000,CA6 4EB,D,N,F,63,,Maxwell Drive,Kingstown,Carlisle
+2021-04-09,153995,CA6 5FA,D,Y,F,27,,St Michaels Drive,Longtown,Carlisle
+2021-04-09,178000,CA6 4FA,S,N,F,4,,Kinmont Way,Kingstown,Carlisle
+2021-04-07,380000,CA6 6HW,D,N,F,Pointer Dog House,,,Hethersgill,Carlisle
+2021-04-01,135000,CA6 5NZ,S,N,F,3,,Sycamore Drive,Longtown,Carlisle
+2021-04-01,325000,CA6 4NR,T,N,F,7,,Irthing Court,Irthington,Carlisle
+2021-04-01,204000,CA6 4LJ,D,N,F,Church View,,,Scaleby,Carlisle
+2021-04-01,220000,CA6 4DG,D,N,F,Ghyll Wood,,,Low Harker,Carlisle
+2021-03-31,350000,CA6 4RR,D,N,F,21,,The Nurseries,Linstock,Carlisle
+2021-03-31,235000,CA6 4AQ,D,N,F,76,,Edenside,Cargo,Carlisle
+2021-03-29,335000,CA6 4DA,D,N,F,21,,Crindledyke Lane,Kingstown,Carlisle
+2021-03-26,112500,CA6 5UJ,T,N,F,43,,Dukeswood Road,Longtown,Carlisle
+2021-03-26,72100,CA6 5SF,T,N,F,55,,Albert Street,Longtown,Carlisle
+2021-03-26,248300,CA6 4PG,D,N,F,Fairfield,,,Irthington,Carlisle
+2021-03-26,110000,CA6 4BZ,T,N,F,29,,Crindledyke Estate,Kingstown,Carlisle
+2021-03-25,325000,CA6 4AW,D,N,F,Paddock View,,,Cargo,Carlisle
+2021-03-23,166500,CA6 4QN,D,N,F,Keystone,,,Crosby On Eden,Carlisle
+2021-03-17,90000,CA6 5UJ,S,N,F,54,,Dukeswood Road,Longtown,Carlisle
+2021-03-16,165000,CA6 4BZ,D,N,F,32,,Crindledyke Estate,Kingstown,Carlisle
+2021-03-15,325000,CA6 4QG,D,N,F,Brunstock Farmhouse,,,Brunstock,Carlisle
+2021-03-11,257500,CA6 6NA,D,N,F,Shimal,,,Roadhead,Carlisle
+2021-03-11,206500,CA6 5BF,D,Y,F,2,,The Dell,Longtown,Carlisle
+2021-03-10,435000,CA6 6LN,D,N,F,Westfield House,,,Roweltown,Carlisle
+2021-03-08,141500,CA6 5QU,D,N,F,Coach House,,,Penton,Carlisle
+2021-03-05,180000,CA6 5TH,S,N,F,17,,Old Road,Longtown,Carlisle
+2021-03-05,120000,CA6 5QU,D,N,F,The Stables,,,Penton,Carlisle
+2021-03-05,500000,CA6 5QU,T,N,F,Penton House,,,Penton,Carlisle
+2021-03-05,320000,CA6 5PH,D,N,F,The Orchard,,Kirkandrews Moat,Longtown,Carlisle
+2021-03-05,465000,CA6 4JY,D,N,F,Rougestone,,,Scaleby,Carlisle
+2021-03-01,95000,CA6 5SA,S,N,F,Netherby Court,1,Netherby Street,Longtown,Carlisle
+2021-02-26,150000,CA6 6LX,D,N,F,The Roan,,,Roweltown,Carlisle
+2021-02-26,152500,CA6 6EY,D,N,F,Loray,,,Hethersgill,Carlisle
+2021-02-26,140000,CA6 6DX,D,N,F,Shawfield,,,Kirklinton,Carlisle
+2021-02-25,115000,CA6 4PF,D,N,F,Rose Cottage,,,Newtown,Carlisle
+2021-02-22,143000,CA6 5TH,D,N,F,40,,Old Road,Longtown,Carlisle
+2021-02-19,190000,CA6 6AU,T,N,F,8,,Beechtree Court,Smithfield,Carlisle
+2021-02-19,105000,CA6 5SF,T,N,F,1,,Albert Street,Longtown,Carlisle
+2021-02-19,400000,CA6 5LH,D,N,F,Fairfield,,,Longtown,Carlisle
+2021-02-18,255000,CA6 4HE,D,N,F,4,,Meadowfield,Harker Road Ends,Carlisle
+2021-02-15,370000,CA6 6DR,D,N,F,Yew House,,,Kirklinton,Carlisle
+2021-02-12,83000,CA6 5TF,T,N,F,25,,Mill Street,Longtown,Carlisle
+2021-02-12,250000,CA6 4HG,D,N,F,Metal Bridge,Thackwood,,Blackford,Carlisle
+2021-02-08,158000,CA6 4AA,D,N,F,Heather Cottage,,,Rockcliffe,Carlisle
+2021-02-04,175000,CA6 4HS,S,N,F,21,,Harker Park Road,Harker Park,Carlisle
+2021-02-04,139170,CA6 4EA,D,N,F,Forde House,,,Blackford,Carlisle
+2021-02-04,280000,CA6 4DS,D,N,F,Station Road,Waverley,,Harker,Carlisle
+2021-02-01,255000,CA6 4PS,D,N,F,Greenside,,,Laversdale,Carlisle
+2021-01-29,160000,CA6 6EH,D,N,F,High Gate,,,Hethersgill,Carlisle
+2021-01-29,102000,CA6 5PU,T,N,F,10,,Esk Street,Longtown,Carlisle
+2021-01-29,118995,CA6 5FB,S,Y,F,34,,St Michaels Drive,Longtown,Carlisle
+2021-01-29,207000,CA6 4PR,D,N,F,1,,Dale View,Laversdale,Carlisle
+2021-01-25,279000,CA6 4AB,D,N,F,Beech Nook,,Lonning Foot,Rockcliffe,Carlisle
+2021-01-22,135000,CA6 5UP,T,N,F,18,,Liddel Road,Longtown,Carlisle
+2021-01-22,475000,CA6 4AA,D,N,F,Hayfield,,,Rockcliffe,Carlisle
+2021-01-19,305000,CA6 4LS,D,N,F,Stoneknowe,Owl Barn,,Scaleby,Carlisle

@@ -1,0 +1,394 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-19,165000,BA7 7DU,T,N,F,10,,Bridgewater Buildings,,Castle Cary
+2026-07-24,125000,BA7 7BR,F,N,L,9,,Montague Gardens,,Castle Cary
+2026-07-23,295000,BA7 7LA,S,N,F,5,,Churchfield Drive,,Castle Cary
+2026-07-23,427000,BA7 7JL,D,N,F,Canterbury Bells,,Ansford Hill,,Castle Cary
+2026-07-22,210000,BA7 7ND,T,N,F,24,,Castle Rise,,Castle Cary
+2026-07-02,461051,BA7 7HL,D,N,F,Cary Hill House,,Cary Hill,,Castle Cary
+2026-06-30,345000,BA7 7ND,D,N,F,20,,Castle Rise,,Castle Cary
+2026-06-12,240000,BA7 7BH,T,N,F,Staffordshire House,,Lower Woodcock Street,,Castle Cary
+2026-06-08,124950,BA7 7FU,D,N,L,7,,Carter Close,Ansford,Castle Cary
+2026-05-08,240000,BA7 7BS,T,N,F,22,,Brookfields,,Castle Cary
+2026-05-06,212000,BA7 7BU,T,N,F,7,,Station Road,,Castle Cary
+2026-04-30,169880,BA7 7NL,T,N,F,Victoria Court,18,Station Road,,Castle Cary
+2026-04-30,315000,BA7 7JN,T,N,F,Geancot,,Ansford Hill,,Castle Cary
+2026-04-30,317000,BA7 7BS,S,N,F,50,,Brookfields,,Castle Cary
+2026-04-30,180000,BA7 7BE,S,N,F,1,,Ashby Place,,Castle Cary
+2026-04-17,400000,BA7 7ES,T,N,F,Lodge Court,4,South Street,,Castle Cary
+2026-04-10,249000,BA7 7BS,T,N,F,4,,Brookfields,,Castle Cary
+2026-03-23,835000,BA7 7LX,D,N,F,Orchard Stables,,,Hadspen,Castle Cary
+2026-03-20,75500,BA7 7NL,F,N,L,Victoria Court,Flat 39,Station Road,,Castle Cary
+2026-03-11,300000,BA7 7ET,T,N,F,Alma Cottage,1,South Street,,Castle Cary
+2026-03-11,440000,BA7 7AE,S,N,F,Dunstar,,Florida Street,,Castle Cary
+2026-03-06,180000,BA7 7BX,T,N,F,32,,Station Road,,Castle Cary
+2026-02-27,165000,BA7 7BS,T,N,F,7,,Brookfields,,Castle Cary
+2026-02-20,180000,BA7 7BS,T,N,F,36,,Brookfields,,Castle Cary
+2026-02-13,325000,BA7 7ET,S,N,F,Alma Cottage,2,South Street,,Castle Cary
+2026-02-06,120000,BA7 7FU,S,N,L,32,,Carter Close,Ansford,Castle Cary
+2026-02-06,270000,BA7 7DP,T,N,F,2,,Rowells Place,,Castle Cary
+2026-02-05,160000,BA7 7EF,F,N,L,13,,Millbrook Gardens,,Castle Cary
+2026-01-27,210000,BA7 7LF,S,N,F,Fallow End,,Tuckers Lane,,Castle Cary
+2026-01-23,280000,BA7 7FD,S,N,F,All Saints Cottages,2,Church Street,,Castle Cary
+2026-01-06,185000,BA7 7ES,F,N,L,Oram House,Flat 1,South Street,,Castle Cary
+2025-12-19,240000,BA7 7BU,T,N,F,Mondacha Cottage,,Station Road,,Castle Cary
+2025-12-18,750000,BA7 7AR,D,N,F,Keniston House,,Upper High Street,,Castle Cary
+2025-12-16,770000,BA7 7ER,D,N,F,Primrose Cottage,,South Cary Lane,,Castle Cary
+2025-12-15,360000,BA7 7HT,D,N,F,22,,Priorygate Court,,Castle Cary
+2025-12-11,762000,BA7 7HZ,D,N,F,The Red House,,Cumnock Road,,Castle Cary
+2025-12-10,225000,BA7 7DB,T,N,F,15,,West Park,,Castle Cary
+2025-12-09,240000,BA7 7LA,S,N,F,7,,Churchfield Drive,,Castle Cary
+2025-11-28,195000,BA7 7DS,T,N,F,Pipers Plot,,Torbay Road,,Castle Cary
+2025-11-25,350000,BA7 7PJ,D,N,F,Lone Oak,,,Clanville,Castle Cary
+2025-11-14,532500,BA7 7AW,D,N,F,Knights Yard,Gannin Hyem,High Street,,Castle Cary
+2025-11-11,128625,BA7 7FU,D,N,L,38,,Carter Close,Ansford,Castle Cary
+2025-11-11,64000,BA7 7DQ,F,N,L,5,,Victoria Park,,Castle Cary
+2025-11-10,630000,BA7 7PQ,D,N,F,Appletrees,,,Clanville,Castle Cary
+2025-11-03,270000,BA7 7LU,S,N,F,9,,Mullins Way,Ansford,Castle Cary
+2025-10-30,240000,BA7 7PY,S,N,F,2,,Charity Cottages,Lovington,Castle Cary
+2025-10-21,242000,BA7 7JG,F,N,L,Old Ansford Inn,Flat 5,Higher Ansford,,Castle Cary
+2025-10-20,265000,BA7 7EH,T,N,F,10,,Park Street,,Castle Cary
+2025-10-20,214000,BA7 7EG,T,N,F,3,,Park Place,,Castle Cary
+2025-10-17,154000,BA7 7FF,S,N,L,24,,Almsford Close,Ansford,Castle Cary
+2025-10-16,469000,BA7 7HJ,D,N,F,8,,Coombe Close,,Castle Cary
+2025-10-15,300000,BA7 7LD,S,N,F,31,,Woodforde Green,Ansford,Castle Cary
+2025-10-10,260000,BA7 7PX,S,N,F,4,,Brue Farm Cottages,Lovington,Castle Cary
+2025-10-10,220000,BA7 7FB,T,N,F,9,,Whites Yard,,Castle Cary
+2025-10-10,225000,BA7 7BF,T,N,F,4,,Badgers Folly,,Castle Cary
+2025-09-29,300000,BA7 7HU,T,N,F,25,,Ancastle Terrace,,Castle Cary
+2025-09-09,108000,BA7 7FT,S,N,L,19,,Compton Drive,Ansford,Castle Cary
+2025-09-05,285000,BA7 7HG,S,N,F,Colway House,,Ansford Road,,Castle Cary
+2025-09-01,145000,BA7 7BS,T,N,F,20,,Brookfields,,Castle Cary
+2025-08-29,315000,BA7 7BJ,T,N,F,St Osyth,,Woodcock Street,,Castle Cary
+2025-08-28,110000,BA7 7GB,S,N,L,9,,Olympic Drive,,Castle Cary
+2025-08-28,145000,BA7 7BS,T,N,F,26,,Brookfields,,Castle Cary
+2025-08-27,360000,BA7 7DU,S,N,F,16,,Bridgewater Buildings,,Castle Cary
+2025-08-15,565000,BA7 7PT,D,N,F,Sunny Holme,,,Lovington,Castle Cary
+2025-08-15,230000,BA7 7LG,D,N,F,9,,Hallett Road,,Castle Cary
+2025-08-14,226000,BA7 7JN,D,N,F,Rossgreen,,Ansford Hill,,Castle Cary
+2025-08-11,320000,BA7 7ND,T,N,F,2,,Castle Rise,,Castle Cary
+2025-08-08,210000,BA7 7JE,S,N,F,40,,Ancastle Avenue,,Castle Cary
+2025-07-31,470000,BA7 7ND,D,N,F,15,,Castle Rise,,Castle Cary
+2025-07-31,245000,BA7 7BG,T,N,F,Upside Down Cottage,,Fore Street,,Castle Cary
+2025-07-28,397375,BA7 7GR,S,N,F,2,,Mulberry Lane,Lovington,Castle Cary
+2025-07-28,514000,BA7 7FP,S,N,F,16,,Burfitt Road,Ansford,Castle Cary
+2025-07-04,300000,BA7 7HT,S,N,F,16,,Priorygate Court,,Castle Cary
+2025-06-19,445000,BA7 7LG,D,N,F,28,,Hallett Road,,Castle Cary
+2025-06-19,285000,BA7 7JF,D,N,F,6,,Fourways Close,,Castle Cary
+2025-06-17,330000,BA7 7DL,D,N,F,17,,Florida Fields,,Castle Cary
+2025-06-13,160000,BA7 7BS,T,N,F,2,,Brookfields,,Castle Cary
+2025-06-09,655000,BA7 7PD,D,N,F,Little Sark,,Station Road,Ansford,Castle Cary
+2025-05-30,179000,BA7 7NL,T,N,F,Victoria Court,10,Station Road,,Castle Cary
+2025-05-23,592000,BA7 7HA,D,N,F,"Fairview, 11",,Clothier Meadow,,Castle Cary
+2025-04-30,265000,BA7 7DG,S,N,F,39,,Victoria Park,,Castle Cary
+2025-04-25,105000,BA7 7FU,S,N,L,34,,Carter Close,Ansford,Castle Cary
+2025-04-23,330000,BA7 7ND,S,N,F,30,,Castle Rise,,Castle Cary
+2025-03-28,650000,BA7 7HW,D,N,F,Freedland,,Cumnock Road,,Castle Cary
+2025-03-28,370000,BA7 7HT,T,N,F,Holly Cottage,,Priorygate Court,,Castle Cary
+2025-03-28,300000,BA7 7AZ,T,N,F,Mount Pleasant,2,North Street,,Castle Cary
+2025-03-24,425000,BA7 7LB,D,N,F,38,,Churchfield Drive,,Castle Cary
+2025-03-20,260000,BA7 7EP,S,N,F,2,,The Park,,Castle Cary
+2025-03-18,420000,BA7 7AE,T,N,F,Rose Cottage,,Florida Street,,Castle Cary
+2025-03-14,130000,BA7 7FE,T,N,L,15,,Cumnock Road,,Castle Cary
+2025-03-14,228000,BA7 7DB,S,N,F,32,,West Park,,Castle Cary
+2025-03-07,270000,BA7 7LS,T,N,F,"Bluebell Cottage, 10",,Ashlea,,Castle Cary
+2025-03-07,285000,BA7 7JY,T,N,F,Fir Tree Cottages,2,Lower Ansford,,Castle Cary
+2025-02-28,163000,BA7 7BZ,T,N,F,3,,Salisbury Terrace,,Castle Cary
+2025-01-09,147000,BA7 7FU,D,N,L,4,,Carter Close,Ansford,Castle Cary
+2024-12-17,365000,BA7 7HY,T,N,F,6,,Cumnock Terrace,,Castle Cary
+2024-12-12,710000,BA7 7AE,D,N,F,Daisy Cottage,,Florida Street,,Castle Cary
+2024-12-05,210000,BA7 7BS,S,N,F,11,,Brookfields,,Castle Cary
+2024-11-29,265000,BA7 7DG,S,N,F,71,,Victoria Park,,Castle Cary
+2024-11-27,140000,BA7 7FN,T,N,L,23,,Bartlett Square,Ansford,Castle Cary
+2024-11-22,255000,BA7 7LT,S,N,F,4,,Parsonage Crescent,,Castle Cary
+2024-11-22,285000,BA7 7HF,T,N,F,7,,South Bank,,Castle Cary
+2024-11-20,1300000,BA7 7JJ,D,N,F,Ansford Park Farm,Ansford Park Cottage,Ansford Park,,Castle Cary
+2024-11-20,526000,BA7 7EW,T,N,F,Dahlia Cottage,,South Street,,Castle Cary
+2024-11-15,293000,BA7 7EY,T,N,F,1,,West View Cottages,,Castle Cary
+2024-11-14,342500,BA7 7JE,S,N,F,31,,Ancastle Avenue,,Castle Cary
+2024-11-12,200000,BA7 7BU,T,N,F,13,,Station Road,,Castle Cary
+2024-11-11,355000,BA7 7HT,D,N,F,22,,Priorygate Court,,Castle Cary
+2024-10-31,390000,BA7 7BX,T,N,F,Fair View Terrace,2,Station Road,,Castle Cary
+2024-10-29,190000,BA7 7DU,T,N,F,11,,Bridgwater Buildings,,Castle Cary
+2024-10-22,1850000,BA7 7LX,D,N,F,Hadspen Valley House,,,Hadspen,Castle Cary
+2024-10-18,175000,BA7 7EF,F,N,L,14,,Millbrook Gardens,,Castle Cary
+2024-10-16,860000,BA7 7JA,D,N,F,Ansford Farmhouse,,Cumnock Road,,Castle Cary
+2024-10-16,325000,BA7 7DZ,S,N,F,3,,Kingsacre,,Castle Cary
+2024-10-10,325000,BA7 7FN,T,N,F,5,,Bartlett Square,Ansford,Castle Cary
+2024-09-27,965500,BA7 7HT,D,N,F,14,,Priorygate Court,,Castle Cary
+2024-09-26,680000,BA7 7PP,D,N,F,Raglyn,,,Lovington,Castle Cary
+2024-09-20,165000,BA7 7BR,F,N,L,1,,Montague Gardens,,Castle Cary
+2024-09-11,595000,BA7 7ER,D,N,F,April Place,,South Cary Lane,,Castle Cary
+2024-08-23,345000,BA7 7ES,S,N,F,Southway House,,South Street,,Castle Cary
+2024-08-19,200000,BA7 7BX,T,N,F,19,,Station Road,,Castle Cary
+2024-08-16,435000,BA7 7EP,S,N,F,Chapel House,,The Park,,Castle Cary
+2024-08-09,285000,BA7 7BH,T,N,F,6,,Lower Woodcock Street,,Castle Cary
+2024-08-01,325000,BA7 7DL,D,N,F,6,,Florida Fields,,Castle Cary
+2024-07-31,215000,BA7 7ND,T,N,F,5,,Castle Rise,,Castle Cary
+2024-07-26,270000,BA7 7HT,S,N,F,23,,Priorygate Court,,Castle Cary
+2024-07-23,340000,BA7 7LG,D,N,F,13,,Hallett Road,,Castle Cary
+2024-07-04,340000,BA7 7LD,S,N,F,10,,Woodforde Green,Ansford,Castle Cary
+2024-06-28,265000,BA7 7DG,S,N,F,81,,Victoria Park,,Castle Cary
+2024-06-21,125000,BA7 7NL,F,N,L,Victoria Court,Flat 36,Station Road,,Castle Cary
+2024-06-21,305000,BA7 7LT,S,N,F,12,,Parsonage Crescent,,Castle Cary
+2024-06-20,141600,BA7 7DQ,F,N,L,13,,Victoria Park,,Castle Cary
+2024-06-19,300000,BA7 7DL,D,N,F,14,,Florida Fields,,Castle Cary
+2024-06-14,670000,BA7 7HE,D,N,F,Park Gate,,Park Avenue,,Castle Cary
+2024-06-14,175000,BA7 7DB,T,N,F,35,,West Park,,Castle Cary
+2024-05-29,105000,BA7 7FE,T,N,L,14,,Cumnock Road,,Castle Cary
+2024-05-22,355000,BA7 7ER,T,N,F,Maybourne,,South Cary Lane,,Castle Cary
+2024-05-15,130000,BA7 7GG,D,N,L,6,,Apple Drive,Ansford,Castle Cary
+2024-05-10,210000,BA7 7BH,T,N,F,27,,Lower Woodcock Street,,Castle Cary
+2024-05-07,400000,BA7 7FF,D,N,F,6,,Almsford Close,Ansford,Castle Cary
+2024-05-02,246500,BA7 7DB,T,N,F,21,,West Park,,Castle Cary
+2024-04-30,567500,BA7 7PA,S,N,F,The Croft,,Station Road,Ansford,Castle Cary
+2024-04-19,147916,BA7 7BJ,F,N,L,Montague House,Flat 2,Woodcock Street,,Castle Cary
+2024-04-18,840000,BA7 7ER,D,N,F,Applegarth,,South Cary Lane,,Castle Cary
+2024-04-12,155000,BA7 7DQ,F,N,L,3,,Victoria Park,,Castle Cary
+2024-04-05,441750,BA7 7HJ,D,N,F,7,,Coombe Close,,Castle Cary
+2024-03-28,525000,BA7 7JY,D,N,F,Beech House,,Lower Ansford,,Castle Cary
+2024-03-19,355000,BA7 7HT,D,N,F,22,,Priorygate Court,,Castle Cary
+2024-03-15,160000,BA7 7PW,D,N,F,The Old Reading Room,,,Alford,Castle Cary
+2024-03-14,272000,BA7 7DA,T,N,F,Moore Villas,1,,,Castle Cary
+2024-02-29,280000,BA7 7LU,T,N,F,14,,Mullins Way,Ansford,Castle Cary
+2024-02-23,290000,BA7 7FF,S,N,F,4,,Almsford Close,Ansford,Castle Cary
+2024-01-29,415000,BA7 7LG,D,N,F,33,,Hallett Road,,Castle Cary
+2024-01-29,350000,BA7 7DS,S,N,F,The Cottage,,Torbay Road,,Castle Cary
+2024-01-10,812275,BA7 7JY,D,N,F,Field House,,Lower Ansford,,Castle Cary
+2024-01-03,325000,BA7 7EE,T,N,F,8,,Millbrook Gardens,,Castle Cary
+2023-12-19,550000,BA7 7FP,D,N,F,24,,Burfitt Road,Ansford,Castle Cary
+2023-12-18,249950,BA7 7DU,T,N,F,15,,Bridgwater Buildings,,Castle Cary
+2023-12-15,153000,BA7 7BJ,F,N,L,Montague House,Flat 1,Woodcock Street,,Castle Cary
+2023-12-13,345000,BA7 7FN,T,N,F,12,,Bartlett Square,Ansford,Castle Cary
+2023-11-30,550000,BA7 7HB,D,N,F,3,,Yeabsleys Way,,Castle Cary
+2023-11-30,200000,BA7 7BS,S,N,F,31,,Brookfields,,Castle Cary
+2023-11-28,750000,BA7 7PQ,D,N,F,Orchard House,,,Clanville,Castle Cary
+2023-11-10,330000,BA7 7LG,D,N,F,30,,Hallett Road,,Castle Cary
+2023-10-20,140000,BA7 7NL,F,N,L,Victoria Court,Flat 24,Station Road,,Castle Cary
+2023-10-13,147000,BA7 7FE,T,N,L,3,,Cumnock Road,,Castle Cary
+2023-10-11,250000,BA7 7JT,T,N,F,22,,Fourways Close,,Castle Cary
+2023-10-06,225000,BA7 7BS,T,N,F,58,,Brookfields,,Castle Cary
+2023-10-04,765000,BA7 7JN,D,N,F,Creech View,,Ansford Hill,,Castle Cary
+2023-10-02,115000,BA7 7BG,F,N,L,Ashton House,Flat 3,Fore Street,,Castle Cary
+2023-09-29,520000,BA7 7PN,D,N,F,Greystones,,,Alford,Castle Cary
+2023-09-26,410000,BA7 7AD,T,N,F,Rosemary Cottage,,Bailey Hill,,Castle Cary
+2023-09-25,225000,BA7 7DB,T,N,F,29,,West Park,,Castle Cary
+2023-09-08,295000,BA7 7DN,S,N,F,Strangeways,,Torbay Close,,Castle Cary
+2023-09-06,300000,BA7 7LG,S,N,F,8,,Hallett Road,,Castle Cary
+2023-09-06,138000,BA7 7BX,T,N,F,19,,Station Road,,Castle Cary
+2023-09-01,600000,BA7 7DL,D,N,F,30,,Florida Fields,,Castle Cary
+2023-08-31,1500000,BA7 7HT,D,N,F,Tor Manor,,Priorygate Court,,Castle Cary
+2023-08-30,512500,BA7 7LB,D,N,F,65,,Churchfield Drive,,Castle Cary
+2023-08-29,415000,BA7 7GR,S,N,F,1,,Mulberry Lane,Lovington,Castle Cary
+2023-08-29,324000,BA7 7AD,S,N,F,Bailey Courtyard,The Flax House,Bailey Hill,,Castle Cary
+2023-08-21,275000,BA7 7JZ,T,N,F,3,,Yew Tree Terrace,,Castle Cary
+2023-08-14,108000,BA7 7FT,S,N,L,21,,Compton Drive,Ansford,Castle Cary
+2023-07-31,950000,BA7 7ET,D,N,F,Garden Cottage,,South Street,,Castle Cary
+2023-07-21,995000,BA7 7JD,D,N,F,9,,Alma Field,,Castle Cary
+2023-07-18,427500,BA7 7AR,T,N,F,2,,Upper High Street,,Castle Cary
+2023-07-03,245000,BA7 7DB,T,N,F,16,,West Park,,Castle Cary
+2023-06-26,241000,BA7 7JE,S,N,F,7,,Ancastle Avenue,,Castle Cary
+2023-06-23,216000,BA7 7BY,T,N,F,Hill View,,Station Road,,Castle Cary
+2023-06-21,280000,BA7 7FN,T,N,F,9,,Bartlett Square,Ansford,Castle Cary
+2023-06-16,290000,BA7 7LA,S,N,F,3,,Churchfield Drive,,Castle Cary
+2023-06-09,320000,BA7 7FN,T,N,F,4,,Bartlett Square,Ansford,Castle Cary
+2023-05-11,510000,BA7 7JD,S,N,F,1,,Alma Field,,Castle Cary
+2023-05-04,271000,BA7 7ES,S,N,F,Avenue House,,South Street,,Castle Cary
+2023-04-28,193000,BA7 7PG,T,N,F,2,,Clanville Cottages,Clanville,Castle Cary
+2023-04-13,272000,BA7 7HF,T,N,F,8,,South Bank,,Castle Cary
+2023-03-29,360000,BA7 7JF,D,N,F,5,,Fourways Close,,Castle Cary
+2023-03-13,357500,BA7 7LA,S,N,F,8,,Churchfield Drive,,Castle Cary
+2023-03-13,250000,BA7 7LA,T,N,F,27,,Churchfield Drive,,Castle Cary
+2023-03-08,492500,BA7 7FP,D,N,F,38,,Burfitt Road,Ansford,Castle Cary
+2023-03-03,100000,BA7 7JE,F,N,L,48,,Ancastle Avenue,,Castle Cary
+2023-03-03,645000,BA7 7FL,D,N,F,1,,Hardy Rise,Ansford,Castle Cary
+2023-02-24,475000,BA7 7PB,D,N,F,Cooks Court,1,Station Road,Ansford,Castle Cary
+2023-02-24,88000,BA7 7FY,S,Y,L,38,,Blackberry Drive,Ansford,Castle Cary
+2023-02-23,715000,BA7 7HT,D,N,F,Victoria Cottage,,Priorygate Court,,Castle Cary
+2023-02-23,92000,BA7 7FY,S,Y,L,36,,Blackberry Drive,Ansford,Castle Cary
+2023-02-22,177000,BA7 7FY,F,Y,L,30,,Blackberry Drive,Ansford,Castle Cary
+2023-02-21,162250,BA7 7FY,D,Y,L,34,,Blackberry Drive,Ansford,Castle Cary
+2023-02-14,155000,BA7 7PY,D,N,F,Church Cottage,,,Lovington,Castle Cary
+2023-02-03,280000,BA7 7FN,T,N,F,10,,Bartlett Square,Ansford,Castle Cary
+2023-01-27,375000,BA7 7DZ,D,N,F,5,,Kingsacre,,Castle Cary
+2023-01-16,370000,BA7 7HE,S,N,F,7,,Park Avenue,,Castle Cary
+2023-01-11,210000,BA7 7BF,T,N,F,11,,Badgers Folly,,Castle Cary
+2022-12-21,445000,BA7 7EP,D,N,F,Park Mount,,The Park,,Castle Cary
+2022-12-20,415000,BA7 7JX,T,N,F,1,,Brock Court,,Castle Cary
+2022-12-20,320000,BA7 7DH,S,N,F,2,,Priory Close,,Castle Cary
+2022-12-16,485000,BA7 7PB,D,N,F,Cooks Court,2,Station Road,Ansford,Castle Cary
+2022-12-16,230000,BA7 7DB,T,N,F,1,,West Park,,Castle Cary
+2022-12-14,375000,BA7 7HY,T,N,F,9,,Cumnock Terrace,,Castle Cary
+2022-12-07,495000,BA7 7PB,D,N,F,Cooks Court,4,Station Road,Ansford,Castle Cary
+2022-11-30,510000,BA7 7PB,D,N,F,Cooks Court,3,Station Road,Ansford,Castle Cary
+2022-11-28,1650000,BA7 7JY,D,N,F,The Old House,,Lower Ansford,,Castle Cary
+2022-11-28,610000,BA7 7JY,D,N,F,Airlie House,,Lower Ansford,,Castle Cary
+2022-11-28,650000,BA7 7HT,S,N,F,10,,Priorygate Court,,Castle Cary
+2022-11-18,295000,BA7 7FF,S,N,F,7,,Almsford Close,Ansford,Castle Cary
+2022-11-18,335000,BA7 7DL,D,N,F,4,,Florida Fields,,Castle Cary
+2022-11-16,660000,BA7 7PQ,D,N,F,Briar House,,,Clanville,Castle Cary
+2022-10-28,190000,BA7 7EL,T,N,F,The Cartshed,,Church Street,,Castle Cary
+2022-10-24,95000,BA7 7NL,F,N,L,Victoria Court,Flat 27,Station Road,,Castle Cary
+2022-10-20,345000,BA7 7FN,T,N,F,6,,Bartlett Square,Ansford,Castle Cary
+2022-10-20,705000,BA7 7EZ,D,N,F,Wor Hyem,,Cockhill Elm Lane,,Castle Cary
+2022-10-11,250000,BA7 7HT,S,N,F,24,,Priorygate Court,,Castle Cary
+2022-10-11,175000,BA7 7BS,T,N,F,6,,Brookfields,,Castle Cary
+2022-09-24,96250,BA7 7FU,S,N,L,36,,Carter Close,Ansford,Castle Cary
+2022-09-23,490500,BA7 7HY,T,N,F,"High House, 12",,Cumnock Terrace,,Castle Cary
+2022-09-15,765000,BA7 7HT,D,N,F,15,,Priorygate Court,,Castle Cary
+2022-09-12,366000,BA7 7DL,D,N,F,3,,Florida Fields,,Castle Cary
+2022-09-09,182000,BA7 7JT,T,N,F,16,,Fourways Close,,Castle Cary
+2022-09-08,700000,BA7 7LL,S,N,F,Wellspring Cottage,,Wyke Road,,Castle Cary
+2022-09-05,990000,BA7 7PS,D,N,F,Mill Close,,,Lovington,Castle Cary
+2022-09-02,300000,BA7 7EY,T,N,F,1,,West View Cottages,,Castle Cary
+2022-09-02,450000,BA7 7DW,S,N,F,10,,Torbay Road,,Castle Cary
+2022-09-02,475000,BA7 7DL,D,N,F,21,,Florida Fields,,Castle Cary
+2022-09-02,290000,BA7 7DB,T,N,F,9,,West Park,,Castle Cary
+2022-08-31,675000,BA7 7HG,T,N,F,Hill View,1,Ansford Road,,Castle Cary
+2022-08-26,485000,BA7 7JS,D,N,F,1,,Parsons Gate,,Castle Cary
+2022-08-16,285000,BA7 7ND,T,N,F,8,,Castle Rise,,Castle Cary
+2022-08-15,275000,BA7 7PT,S,N,F,8,,Pilgrims Way,Lovington,Castle Cary
+2022-08-09,400000,BA7 7HG,D,N,F,Tanglefoot,,Ansford Road,,Castle Cary
+2022-08-08,333000,BA7 7DN,D,N,F,Underhill,,Torbay Close,,Castle Cary
+2022-08-08,155000,BA7 7BX,F,N,L,Gladstone House,Flat 2,Station Road,,Castle Cary
+2022-08-05,285000,BA7 7LT,S,N,F,6,,Parsonage Crescent,,Castle Cary
+2022-08-05,273000,BA7 7HU,S,N,F,23,,Ancastle Terrace,,Castle Cary
+2022-08-05,240000,BA7 7EL,S,N,F,2,,Swiss Cottages,,Castle Cary
+2022-07-22,181600,BA7 7EP,F,N,F,Mitre Place,Flat 2,The Park,,Castle Cary
+2022-07-22,288000,BA7 7AD,D,N,F,Long Lodge,,Bailey Hill,,Castle Cary
+2022-07-15,215000,BA7 7LA,T,N,F,33,,Churchfield Drive,,Castle Cary
+2022-07-15,590000,BA7 7HT,D,Y,F,18,,Priorygate Court,,Castle Cary
+2022-07-15,375000,BA7 7ED,S,N,F,Pen Gale,,Park Street,,Castle Cary
+2022-07-08,215000,BA7 7JT,T,N,F,14,,Fourways Close,,Castle Cary
+2022-06-30,435000,BA7 7EP,D,N,F,Southlyn,,The Park,,Castle Cary
+2022-06-30,275000,BA7 7DS,T,N,F,Chez Nous,,Torbay Road,,Castle Cary
+2022-06-24,220500,BA7 7BF,T,N,F,11,,Badgers Folly,,Castle Cary
+2022-06-23,231500,BA7 7AN,F,N,L,1A,,High Street,,Castle Cary
+2022-06-14,120000,BA7 7NL,F,N,L,Victoria Court,Flat 28,Station Road,,Castle Cary
+2022-06-14,430000,BA7 7ES,T,N,F,Dene Cottage,,South Street,,Castle Cary
+2022-06-10,168000,BA7 7EL,F,N,F,Mitre Place,Flat 4,Church Street,,Castle Cary
+2022-06-09,525000,BA7 7ES,T,N,F,Lorien House,,South Street,,Castle Cary
+2022-06-01,635000,BA7 7PX,D,N,F,Oakview,,,Lovington,Castle Cary
+2022-05-27,183625,BA7 7GF,D,Y,L,10,,Juniper Road,Ansford,Castle Cary
+2022-05-10,228000,BA7 7BS,T,N,F,4,,Brookfields,,Castle Cary
+2022-04-29,595000,BA7 7HT,D,Y,F,19,,Priorygate Court,,Castle Cary
+2022-04-29,158000,BA7 7BU,F,N,L,Kiln Cottage,2,Station Road,,Castle Cary
+2022-04-22,318500,BA7 7AD,T,N,F,Bryn Cottage,,Bailey Hill,,Castle Cary
+2022-03-31,275000,BA7 7ET,D,N,F,Baytree Gardens,,South Street,,Castle Cary
+2022-03-25,320000,BA7 7HG,T,N,F,St Erme,,Ansford Road,,Castle Cary
+2022-03-23,590000,BA7 7HT,D,Y,F,20,,Priorygate Court,,Castle Cary
+2022-03-14,97500,BA7 7LJ,T,N,L,8,,St Andrews Close,,Castle Cary
+2022-03-01,113500,BA7 7FE,T,N,L,2,,Cumnock Road,,Castle Cary
+2022-02-25,485000,BA7 7FP,S,Y,F,16,,Burfitt Road,Ansford,Castle Cary
+2022-02-25,320000,BA7 7FN,T,N,F,2,,Bartlett Square,Ansford,Castle Cary
+2022-02-18,227500,BA7 7BS,T,N,F,48,,Brookfields,,Castle Cary
+2022-02-15,317000,BA7 7AR,T,N,F,1A,,Upper High Street,,Castle Cary
+2022-02-11,200000,BA7 7NL,T,N,F,Victoria Court,7,Station Road,,Castle Cary
+2022-02-11,117500,BA7 7DG,F,N,L,67,,Victoria Park,,Castle Cary
+2022-01-21,299950,BA7 7HT,D,Y,F,22,,Priorygate Court,,Castle Cary
+2022-01-14,470000,BA7 7JU,D,N,F,Grantlands,,Mill Lane,,Castle Cary
+2022-01-13,555000,BA7 7ND,D,N,F,9,,Castle Rise,,Castle Cary
+2022-01-12,109125,BA7 7GE,S,Y,L,1,,Damson Drive,Ansford,Castle Cary
+2021-12-17,320000,BA7 7FN,T,N,F,5,,Bartlett Square,Ansford,Castle Cary
+2021-12-17,202000,BA7 7DJ,T,N,F,7,,Victoria Gardens,,Castle Cary
+2021-12-16,96000,BA7 7FY,S,Y,L,9,,Blackberry Drive,Ansford,Castle Cary
+2021-12-10,640000,BA7 7PW,D,N,F,Dairy House,,,Alford,Castle Cary
+2021-12-10,425000,BA7 7FP,D,Y,F,18,,Burfitt Road,Ansford,Castle Cary
+2021-12-10,210000,BA7 7BH,T,N,F,27,,Lower Woodcock Street,,Castle Cary
+2021-12-03,96000,BA7 7FY,S,Y,L,11,,Blackberry Drive,Ansford,Castle Cary
+2021-11-26,350000,BA7 7BX,T,N,F,Fair View Terrace,2,Station Road,,Castle Cary
+2021-11-25,425000,BA7 7PA,D,N,F,Medlars,,Station Road,Ansford,Castle Cary
+2021-11-24,417000,BA7 7FP,D,Y,F,20,,Burfitt Road,Ansford,Castle Cary
+2021-11-19,945000,BA7 7JJ,D,N,F,Ansford Park Farm,The Barn,Ansford Park,,Castle Cary
+2021-11-19,495000,BA7 7AX,D,N,F,4,,Chapel Close,,Castle Cary
+2021-11-18,567000,BA7 7AX,S,N,F,5,,Chapel Close,,Castle Cary
+2021-11-15,110000,BA7 7NL,F,N,L,Victoria Court,Flat 33,Station Road,,Castle Cary
+2021-11-11,430000,BA7 7HT,T,N,F,"Oak Cottage, 5",,Priorygate Court,,Castle Cary
+2021-11-05,700000,BA7 7PQ,D,N,F,Walnut Cottage,,,Clanville,Castle Cary
+2021-11-03,245000,BA7 7LD,S,N,F,17,,Woodforde Green,Ansford,Castle Cary
+2021-11-01,335000,BA7 7LG,D,N,F,33,,Hallett Road,,Castle Cary
+2021-11-01,490000,BA7 7FP,D,Y,F,10,,Burfitt Road,Ansford,Castle Cary
+2021-10-29,90000,BA7 7GG,S,Y,L,2,,Apple Drive,Ansford,Castle Cary
+2021-10-29,490000,BA7 7FP,D,Y,F,14,,Burfitt Road,Ansford,Castle Cary
+2021-10-27,122500,BA7 7NL,F,N,L,Victoria Court,Flat 37,Station Road,,Castle Cary
+2021-10-25,490000,BA7 7FP,D,Y,F,12,,Burfitt Road,Ansford,Castle Cary
+2021-10-22,86000,BA7 7FY,S,Y,L,3,,Blackberry Drive,Ansford,Castle Cary
+2021-10-21,490000,BA7 7FP,S,Y,F,8,,Burfitt Road,Ansford,Castle Cary
+2021-10-06,194000,BA7 7EF,F,N,L,13,,Millbrook Gardens,,Castle Cary
+2021-09-29,420000,BA7 7FP,D,Y,F,36,,Burfitt Road,Ansford,Castle Cary
+2021-09-29,335000,BA7 7AR,T,N,F,2,,Upper High Street,,Castle Cary
+2021-09-28,65000,BA7 7LJ,F,N,L,5,,St Andrews Close,,Castle Cary
+2021-09-27,410000,BA7 7LA,D,N,F,1,,Churchfield Drive,,Castle Cary
+2021-09-10,245000,BA7 7HT,S,Y,F,17,,Priorygate Court,,Castle Cary
+2021-09-07,205000,BA7 7BS,D,N,F,30,,Brookfields,,Castle Cary
+2021-09-03,245000,BA7 7HT,S,Y,F,16,,Priorygate Court,,Castle Cary
+2021-09-02,327000,BA7 7ER,T,N,F,Maybourne,,South Cary Lane,,Castle Cary
+2021-09-02,222500,BA7 7AZ,T,N,F,Mount Pleasant,2,North Street,,Castle Cary
+2021-08-16,232500,BA7 7JT,T,N,F,22,,Fourways Close,,Castle Cary
+2021-08-09,250000,BA7 7JZ,T,N,F,2,,Yew Tree Terrace,,Castle Cary
+2021-08-06,108000,BA7 7JG,F,N,L,Old Ansford Inn,Flat 3,Higher Ansford,,Castle Cary
+2021-08-06,187000,BA7 7GB,S,N,F,11,,Olympic Drive,,Castle Cary
+2021-08-06,227500,BA7 7FU,D,Y,L,6,,Carter Close,Ansford,Castle Cary
+2021-08-03,225000,BA7 7DX,S,N,F,20,,Priory View,,Castle Cary
+2021-08-03,350000,BA7 7DW,S,N,F,3,,Torbay Road,,Castle Cary
+2021-07-27,380000,BA7 7LB,D,N,F,61,,Churchfield Drive,,Castle Cary
+2021-07-12,168000,BA7 7LA,F,N,L,10,,Churchfield Drive,,Castle Cary
+2021-06-30,499999,BA7 7FJ,D,Y,F,1,,Farrant Green,Ansford,Castle Cary
+2021-06-29,480000,BA7 7FP,T,Y,F,4,,Burfitt Road,Ansford,Castle Cary
+2021-06-29,450000,BA7 7ET,S,N,F,Court Cottage,,South Street,,Castle Cary
+2021-06-28,205000,BA7 7JE,S,N,F,21,,Ancastle Avenue,,Castle Cary
+2021-06-28,540000,BA7 7FJ,D,Y,F,3,,Farrant Green,Ansford,Castle Cary
+2021-06-21,1117300,BA7 7ES,D,N,F,South Dene,,South Street,,Castle Cary
+2021-06-18,241000,BA7 7LU,D,N,F,12,,Mullins Way,Ansford,Castle Cary
+2021-06-18,540000,BA7 7FJ,D,Y,F,2,,Farrant Green,Ansford,Castle Cary
+2021-06-17,415000,BA7 7FP,D,Y,F,38,,Burfitt Road,Ansford,Castle Cary
+2021-06-04,189950,BA7 7BS,D,N,F,32,,Brookfields,,Castle Cary
+2021-05-25,359450,BA7 7HJ,D,N,F,11,,Coombe Close,,Castle Cary
+2021-05-24,299950,BA7 7HT,D,Y,F,21,,Priorygate Court,,Castle Cary
+2021-05-21,135000,BA7 7BJ,F,N,L,Montague House,Flat 2,Woodcock Street,,Castle Cary
+2021-05-17,354500,BA7 7AD,T,N,F,Round House Cottage,,Bailey Hill,,Castle Cary
+2021-04-30,215000,BA7 7ND,S,N,F,7,,Castle Rise,,Castle Cary
+2021-04-23,480000,BA7 7FP,D,Y,F,22,,Burfitt Road,Ansford,Castle Cary
+2021-04-20,490000,BA7 7FP,D,Y,F,24,,Burfitt Road,Ansford,Castle Cary
+2021-04-16,385000,BA7 7HL,D,N,F,Tor View,,Cary Hill,,Castle Cary
+2021-04-16,340000,BA7 7FF,D,Y,F,32,,Almsford Close,Ansford,Castle Cary
+2021-04-16,226000,BA7 7BS,S,N,F,54,,Brookfields,,Castle Cary
+2021-03-31,550000,BA7 7FP,D,Y,F,26,,Burfitt Road,Ansford,Castle Cary
+2021-03-31,270000,BA7 7BT,S,N,F,Tranquility,,Station Road,,Castle Cary
+2021-03-31,167500,BA7 7BS,T,N,F,56,,Brookfields,,Castle Cary
+2021-03-26,610000,BA7 7EZ,D,N,F,Bees Nest,,Cockhill Elm Lane,,Castle Cary
+2021-03-26,120000,BA7 7BR,F,N,L,3,,Montague Gardens,,Castle Cary
+2021-03-24,1950000,BA7 7PJ,D,N,F,Clanville Manor Farm,,,Clanville,Castle Cary
+2021-03-24,1700000,BA7 7EN,D,N,F,South Cottage,,South Street,,Castle Cary
+2021-03-24,675000,BA7 7AE,D,N,F,Lodge View,,Florida Street,,Castle Cary
+2021-03-19,248000,BA7 7LD,S,N,F,11,,Woodforde Green,Ansford,Castle Cary
+2021-03-19,375000,BA7 7JL,D,N,F,Canterbury Bells,,Ansford Hill,,Castle Cary
+2021-03-19,825000,BA7 7HT,D,N,F,2,,Priorygate Court,,Castle Cary
+2021-03-18,425000,BA7 7LB,D,N,F,65,,Churchfield Drive,,Castle Cary
+2021-03-16,222500,BA7 7DB,T,N,F,8,,West Park,,Castle Cary
+2021-03-11,212000,BA7 7ES,T,N,F,Jasmine Cottage,,South Street,,Castle Cary
+2021-03-08,165000,BA7 7PG,T,N,F,1,,Clanville Cottages,Clanville,Castle Cary
+2021-03-05,490000,BA7 7FJ,D,Y,F,5,,Farrant Green,Ansford,Castle Cary
+2021-03-05,345000,BA7 7DL,D,N,F,23,,Florida Fields,,Castle Cary
+2021-02-26,440000,BA7 7FP,D,Y,F,30,,Burfitt Road,Ansford,Castle Cary
+2021-02-26,215000,BA7 7EY,T,N,F,2,,West View Cottages,,Castle Cary
+2021-02-25,248000,BA7 7AE,T,N,F,"Plum Cottage, 5",,Florida Street,,Castle Cary
+2021-02-22,440000,BA7 7FP,D,Y,F,32,,Burfitt Road,Ansford,Castle Cary
+2021-02-22,210000,BA7 7BJ,T,N,F,Woodcock Cottage,,Woodcock Street,,Castle Cary
+2021-02-22,195000,BA7 7BH,T,N,F,26 - 27,,Lower Woodcock Street,,Castle Cary
+2021-02-18,271000,BA7 7HF,S,N,F,1,,South Bank,,Castle Cary
+2021-02-17,850000,BA7 7LW,D,N,F,Hillview,,,Hadspen,Castle Cary
+2021-02-12,325000,BA7 7JZ,D,N,F,Kilshane,,Lower Ansford,,Castle Cary
+2021-02-12,340000,BA7 7GR,S,N,F,2,,Mulberry Lane,Lovington,Castle Cary
+2021-02-05,283000,BA7 7HJ,D,N,F,2,,Coombe Close,,Castle Cary
+2021-02-04,550000,BA7 7FL,D,N,F,1,,Hardy Rise,Ansford,Castle Cary
+2021-02-02,550000,BA7 7GR,D,N,F,4,,Mulberry Lane,Lovington,Castle Cary
+2021-01-29,550000,BA7 7FP,D,Y,F,28,,Burfitt Road,Ansford,Castle Cary
+2021-01-22,340000,BA7 7FF,D,Y,F,9,,Almsford Close,Ansford,Castle Cary
+2021-01-19,365000,BA7 7GR,S,N,F,5,,Mulberry Lane,Lovington,Castle Cary
+2021-01-18,295000,BA7 7DL,D,N,F,16,,Florida Fields,,Castle Cary
+2021-01-15,502000,BA7 7FJ,D,Y,F,4,,Farrant Green,Ansford,Castle Cary
+2021-01-15,192500,BA7 7DB,T,N,F,16,,West Park,,Castle Cary
+2021-01-14,221000,BA7 7LS,T,N,F,10,,Ashlea,,Castle Cary
+2021-01-14,240000,BA7 7JY,T,N,F,Fir Tree Cottages,2,Lower Ansford,,Castle Cary
+2021-01-14,430000,BA7 7FF,D,Y,F,42,,Almsford Close,Ansford,Castle Cary
+2021-01-07,322500,BA7 7EE,D,N,F,Springfield,,Millbrook Gardens,,Castle Cary

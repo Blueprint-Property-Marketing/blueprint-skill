@@ -1,0 +1,533 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-21,275000,PL18 9JS,D,N,F,Genesis,,King Street,,Gunnislake
+2026-08-14,290000,PL18 9HW,D,N,F,Ash Vonne,,,St Anns Chapel,Gunnislake
+2026-08-12,165000,PL18 9BW,T,N,F,Woodhouse,,The Square,,Gunnislake
+2026-08-11,330000,PL18 9NA,D,N,F,Penhedker House,,Chapel Street,,Gunnislake
+2026-07-31,180000,PL18 9RB,S,N,F,30,,Rowse Gardens,,Calstock
+2026-07-31,129000,PL18 9NA,F,N,L,Ebenezer Chapel,Flat 7,Chapel Street,,Gunnislake
+2026-07-31,218000,PL18 9BP,T,N,F,4,,Belle Vue Terrace,,Gunnislake
+2026-07-22,440000,PL18 9TF,D,N,F,1,,Petroc Court,St Anns Chapel,Gunnislake
+2026-07-20,150000,PL18 9RX,T,N,F,3,,,Lower Kelly,Calstock
+2026-07-20,315000,PL18 9JF,D,N,F,1,,Pine View,,Gunnislake
+2026-07-16,250000,PL18 9QP,T,N,F,3,,May Place,,Calstock
+2026-07-16,240000,PL18 9NB,T,N,F,5,,Prospect Terrace,,Gunnislake
+2026-07-13,255000,PL18 9TA,S,N,F,4,,All Saints Park,St Anns Chapel,Gunnislake
+2026-07-13,275000,PL18 9FB,D,N,F,8,,Phoebe Close,St Anns Chapel,Gunnislake
+2026-07-03,150000,PL18 9JL,S,N,F,The Old Chapel,,Under Road,,Gunnislake
+2026-06-19,195000,PL18 9RR,T,N,F,"The Cobbles, 2",,Baptist Street,,Calstock
+2026-06-19,195000,PL18 9HE,D,N,F,Rosemill Cottage,,,St Anns Chapel,Gunnislake
+2026-06-16,270000,PL18 9HN,S,N,F,West End Cottages,1,,St Anns Chapel,Gunnislake
+2026-06-16,88000,PL18 9FG,S,N,L,2,,Fosters Meadow,St Anns Chapel,Gunnislake
+2026-06-12,240000,PL18 9EH,S,N,F,"Windsong, 1",,Delaware Road,Drakewalls,Gunnislake
+2026-05-27,249300,PL18 9JW,T,N,F,The Lodge,,Commercial Street,,Gunnislake
+2026-05-18,160000,PL18 9AJ,S,N,F,Romany,,,Albaston,Gunnislake
+2026-04-20,126500,PL18 9RQ,F,N,L,10,,St Andrews Close,,Calstock
+2026-04-02,270000,PL18 9FR,S,N,F,12,,Curlew Walk,St Anns Chapel,Gunnislake
+2026-04-02,420000,PL18 9AS,D,N,F,Greenhill Lodge,,Delaware Road,,Gunnislake
+2026-03-16,500000,PL18 9BU,D,N,F,Delaney,,Calstock Road,,Gunnislake
+2026-03-06,263000,PL18 9FQ,S,N,F,6,,Raven Close,St Anns Chapel,Gunnislake
+2026-02-16,390000,PL18 9QY,S,N,F,Churston House,,Higher Kelly,,Calstock
+2026-02-13,230000,PL18 9TF,S,N,F,7,,Petroc Court,St Anns Chapel,Gunnislake
+2026-02-12,210000,PL18 9NP,D,N,F,Butterfly Cottage,,,Lower Dimson,Gunnislake
+2026-01-26,480000,PL18 9QX,D,N,F,Trade Winds,,Sand Lane,,Calstock
+2026-01-26,424000,PL18 9QT,D,N,F,Lime Kiln Cottage,,Commercial Road,,Calstock
+2026-01-20,230000,PL18 9BH,T,N,F,6,,Delaware Court,,Gunnislake
+2026-01-20,200000,PL18 9AN,S,N,F,Trena Cottage,,,Albaston,Gunnislake
+2026-01-19,280000,PL18 9NA,D,N,F,Tamaree,,Chapel Street,,Gunnislake
+2026-01-19,300000,PL18 9FL,D,N,F,21,,Buzzard Rise,St Anns Chapel,Gunnislake
+2025-12-19,520000,PL18 9BA,D,N,F,Homestead,,,Cox Park,Gunnislake
+2025-12-09,445000,PL18 9PB,D,N,F,Redwings,,,Chilsworthy,Gunnislake
+2025-11-28,275000,PL18 9SA,D,N,F,Kelly Cottage,,Kelly Gardens,,Calstock
+2025-11-28,180000,PL18 9RQ,S,N,F,2,,St Andrews Close,,Calstock
+2025-11-27,320000,PL18 9SB,D,N,F,The Nook,,Kelly Gardens,,Calstock
+2025-11-25,180000,PL18 9RN,T,N,F,The Old Chocolate Box,,Fore Street,,Calstock
+2025-11-25,375000,PL18 9FL,D,N,F,56,,Buzzard Rise,St Anns Chapel,Gunnislake
+2025-11-20,530000,PL18 9RH,D,N,F,4,,Johnson Park,,Calstock
+2025-11-14,350000,PL18 9FW,D,N,F,8,,Oll An Gwella,St Anns Chapel,Gunnislake
+2025-11-14,147000,PL18 9FB,S,N,F,6,,Phoebe Close,St Anns Chapel,Gunnislake
+2025-11-07,155000,PL18 9NA,T,N,F,Chapel Court,1,Chapel Street,,Gunnislake
+2025-11-04,452000,PL18 9PB,D,N,F,The Beeches,,,Chilsworthy,Gunnislake
+2025-11-03,186000,PL18 9SG,T,N,F,Churchtown House,,,,Calstock
+2025-10-31,350000,PL18 9JD,S,N,F,1,,Sound View,St Anns Chapel,Gunnislake
+2025-10-29,230000,PL18 9FS,S,N,F,10,,Starling Lane,St Anns Chapel,Gunnislake
+2025-10-29,249000,PL18 9BH,T,N,F,14,,Delaware Court,,Gunnislake
+2025-10-24,425000,PL18 9BE,D,N,F,Hingston Farm,,,St Anns Chapel,Gunnislake
+2025-10-21,240000,PL18 9BW,D,N,F,The Bungalow,,The Square,,Gunnislake
+2025-10-17,200000,PL18 9HT,T,N,F,6,,Rose Terrace,St Anns Chapel,Gunnislake
+2025-10-15,280000,PL18 9FL,S,N,F,32,,Buzzard Rise,St Anns Chapel,Gunnislake
+2025-10-13,160000,PL18 9QE,F,N,F,Wickham Cottage,,Church Street,,Calstock
+2025-10-10,338000,PL18 9SG,T,N,F,Glebelands,1,,,Calstock
+2025-10-03,220000,PL18 9JG,T,N,F,Hillcrest,,Fore Street,,Gunnislake
+2025-09-30,200000,PL18 9DQ,S,N,F,3,,Sims Terrace,,Gunnislake
+2025-09-30,108000,PL18 9BP,T,N,F,2,,Belle Vue Terrace,,Gunnislake
+2025-09-26,75000,PL18 9RR,F,N,L,Baptist Chapel,Flat 2,Baptist Street,,Calstock
+2025-09-26,148000,PL18 9QR,T,N,F,3,,Adit Cottages,,Calstock
+2025-09-19,250000,PL18 9TB,T,N,F,16,,Gennys Close,St Anns Chapel,Gunnislake
+2025-09-18,465000,PL18 9PB,D,N,F,Bytheway,,,Chilsworthy,Gunnislake
+2025-09-18,492500,PL18 9HN,D,N,F,Kimberley,,,St Anns Chapel,Gunnislake
+2025-09-16,293000,PL18 9JF,D,N,F,7,,Pine View,,Gunnislake
+2025-09-15,160000,PL18 9HT,T,N,F,2,,Rose Terrace,St Anns Chapel,Gunnislake
+2025-09-10,207000,PL18 9GZ,S,N,F,3,,The Beeches,St Anns Chapel,Gunnislake
+2025-09-04,335000,PL18 9FL,D,N,F,20,,Buzzard Rise,St Anns Chapel,Gunnislake
+2025-09-02,485000,PL18 9DH,D,N,F,Little Honeycombe,,Tamar Way,,Gunnislake
+2025-09-02,360000,PL18 9DF,D,N,F,Little Axford,,Kingswood Road,,Gunnislake
+2025-08-29,425000,PL18 9RB,D,N,F,21,,Rowse Gardens,,Calstock
+2025-08-22,165000,PL18 9TE,S,N,F,2,,Mawes Court,St Anns Chapel,Gunnislake
+2025-08-22,1350000,PL18 9QZ,D,N,F,Noosa,,Higher Kelly,,Calstock
+2025-08-22,337500,PL18 9DY,D,N,F,3,,Chawleigh Close,,Gunnislake
+2025-08-15,280000,PL18 9DE,D,N,F,"Chantry, 21",,Bealswood Close,,Gunnislake
+2025-08-12,300000,PL18 9FP,S,N,F,4,,Heron Road,St Anns Chapel,Gunnislake
+2025-08-05,288000,PL18 9AJ,S,N,F,Sands,,,Albaston,Gunnislake
+2025-07-25,188000,PL18 9QN,S,N,F,Mount Pleasant,3,Harewood Road,,Calstock
+2025-07-24,266000,PL18 9DP,D,N,F,17,,Sand Hill Park,,Gunnislake
+2025-07-17,400000,PL18 9EP,D,N,F,Trebant,,,Albaston,Gunnislake
+2025-07-15,152000,PL18 9PJ,F,N,L,3,,The Laurels,St Anns Chapel,Gunnislake
+2025-07-02,362500,PL18 9AN,D,N,F,2,,Lane Cottage,Albaston,Gunnislake
+2025-06-30,160000,PL18 9JB,T,N,F,28,,Chapel Close,,Gunnislake
+2025-06-27,225000,PL18 9TB,T,N,F,10,,Gennys Close,St Anns Chapel,Gunnislake
+2025-06-27,375000,PL18 9SQ,D,N,F,Stable Cottage,,,Harewood,Calstock
+2025-06-27,350000,PL18 9NA,D,N,F,Brackendale,,Chapel Street,,Gunnislake
+2025-06-27,338000,PL18 9BH,T,N,F,20,,Delaware Court,,Gunnislake
+2025-06-26,175000,PL18 9EJ,D,N,F,Pozy Cottage,,,Drakewalls,Gunnislake
+2025-06-25,331250,PL18 9FL,D,N,F,30,,Buzzard Rise,St Anns Chapel,Gunnislake
+2025-06-24,180000,PL18 9EX,S,N,F,1,,Moorland Way,,Gunnislake
+2025-06-20,163655,PL18 9PJ,F,N,L,1,,The Laurels,St Anns Chapel,Gunnislake
+2025-06-19,377500,PL18 9BT,D,N,F,Janadene,,Calstock Road,,Gunnislake
+2025-06-02,773500,PL18 9QN,D,N,F,Wildfern,,Harewood Road,,Calstock
+2025-06-02,178000,PL18 9AH,T,N,F,2,,Chapel Terrace,Albaston,Gunnislake
+2025-05-28,220000,PL18 9BB,D,N,F,Station House,,,Cox Park,Gunnislake
+2025-05-19,235000,PL18 9NY,T,N,F,North Dimson Cottages,8,,North Dimson,Gunnislake
+2025-05-02,438000,PL18 9EH,D,N,F,Copse Cottage,,Delaware Road,Drakewalls,Gunnislake
+2025-04-30,115000,PL18 9RQ,F,N,L,14,,St Andrews Close,,Calstock
+2025-04-15,80000,PL18 9JW,F,N,L,3A,,Commercial Street,,Gunnislake
+2025-04-14,225000,PL18 9TF,S,N,F,15,,Petroc Court,St Anns Chapel,Gunnislake
+2025-04-14,260000,PL18 9FR,S,N,F,2,,Curlew Walk,St Anns Chapel,Gunnislake
+2025-04-09,110000,PL18 9LS,S,N,L,10,,Drakewalls Gardens,,Gunnislake
+2025-04-09,300000,PL18 9EY,T,N,F,1 Crowhill,Quarry Cottage,,St Anns Chapel,Gunnislake
+2025-04-08,86000,PL18 9FG,T,N,L,9,,Fosters Meadow,St Anns Chapel,Gunnislake
+2025-04-02,272000,PL18 9RE,T,N,F,7,,Rose Hill Terrace,,Calstock
+2025-03-31,370000,PL18 9RX,T,N,F,5,,,Lower Kelly,Calstock
+2025-03-31,270000,PL18 9QE,T,N,F,Bromley House,,Church Street,,Calstock
+2025-03-31,360000,PL18 9PB,D,N,F,1,,Little Meadow,Chilsworthy,Gunnislake
+2025-03-31,276000,PL18 9FB,D,N,F,9,,Phoebe Close,St Anns Chapel,Gunnislake
+2025-03-28,767500,PL18 9SE,D,N,F,Summer Lea,,Sandways,,Calstock
+2025-03-28,198000,PL18 9RR,F,N,L,Archway House,Top Floor Flat,Baptist Street,,Calstock
+2025-03-28,267500,PL18 9QL,S,N,F,Ivy House,,Back Road,,Calstock
+2025-03-28,365000,PL18 9NG,D,N,F,Chantmarle,,,Middle Dimson,Gunnislake
+2025-03-21,185000,PL18 9FP,T,N,F,12,,Heron Road,St Anns Chapel,Gunnislake
+2025-03-19,280000,PL18 9BZ,S,N,F,2,,Weir Head,,Gunnislake
+2025-03-17,219000,PL18 9DD,T,N,F,4,,Cliff View Terrace,,Gunnislake
+2025-03-14,480000,PL18 9DX,D,N,F,Perrymead,,Station Road,,Gunnislake
+2025-03-13,248000,PL18 9FW,D,N,F,10,,Oll An Gwella,St Anns Chapel,Gunnislake
+2025-03-07,350000,PL18 9RN,T,N,F,Dittons,,Fore Street,,Calstock
+2025-03-07,340000,PL18 9QX,T,N,F,Railway Cottage,,Sand Lane,,Calstock
+2025-03-06,510000,PL18 9DN,D,N,F,The Sticks,,,Drakewalls,Gunnislake
+2025-03-05,345550,PL18 9HE,T,N,F,Bracken Cottage,,,St Anns Chapel,Gunnislake
+2025-03-03,182000,PL18 9BP,T,N,F,3,,Belle Vue Terrace,,Gunnislake
+2025-02-28,650000,PL18 9SE,D,N,F,Overdale,,Sandways,,Calstock
+2025-02-28,317000,PL18 9JT,D,N,F,Chez-Nous,,King Street,,Gunnislake
+2025-02-26,525000,PL18 9AA,D,N,F,Tamrock,,Calstock Road,,Gunnislake
+2025-02-20,277500,PL18 9GZ,S,N,F,9,,The Beeches,St Anns Chapel,Gunnislake
+2025-02-18,625000,PL18 9LH,D,N,F,Torrington House,,,Newbridge,Gunnislake
+2025-02-14,355000,PL18 9BB,S,N,F,Truscott,2,,Cox Park,Gunnislake
+2025-02-06,370000,PL18 9JS,D,N,F,Shorelyknot,,King Street,,Gunnislake
+2025-02-05,900000,PL18 9SE,D,N,F,Yennadon House,,Sandways,,Calstock
+2025-02-05,1060000,PL18 9SB,D,N,F,Falcon Crest,,Kelly Gardens,,Calstock
+2025-01-31,145500,PL18 9DS,T,N,F,2,,Alma Terrace,,Gunnislake
+2025-01-28,310000,PL18 9QS,T,N,F,Adit Cottage,,,,Calstock
+2025-01-24,175000,PL18 9LW,T,N,F,8,,Mudges Terrace,,Gunnislake
+2025-01-21,220000,PL18 9PB,T,N,F,1,,Laurel Cottage,Chilsworthy,Gunnislake
+2025-01-21,113000,PL18 9BW,T,N,F,3,,The Square,,Gunnislake
+2025-01-20,226500,PL18 9JL,T,N,F,4,,Under Road,,Gunnislake
+2025-01-17,555000,PL18 9HP,D,N,F,Smeaton House,,,St Anns Chapel,Gunnislake
+2025-01-10,145000,PL18 9JS,T,N,F,14,,King Street,,Gunnislake
+2025-01-06,240000,PL18 9HW,S,N,F,Alexandra Bungalow,,,St Anns Chapel,Gunnislake
+2024-12-16,360000,PL18 9HB,S,N,F,Ramsea,,,St Anns Chapel,Gunnislake
+2024-12-16,128100,PL18 9FB,T,N,F,1,,Phoebe Close,St Anns Chapel,Gunnislake
+2024-12-12,420000,PL18 9QY,D,N,F,Station House,,Higher Kelly,,Calstock
+2024-12-06,290900,PL18 9JF,D,N,F,26,,Pine View,,Gunnislake
+2024-12-03,317000,PL18 9QX,T,N,F,4,,Tamar Terrace,,Calstock
+2024-12-02,480000,PL18 9NA,D,N,F,Stones Cottage,,Chapel Street,,Gunnislake
+2024-11-29,215000,PL18 9TG,S,N,F,3A,,Piran Close,St Anns Chapel,Gunnislake
+2024-11-29,412500,PL18 9TF,D,N,F,Tamar View,1,Petroc Court,St Anns Chapel,Gunnislake
+2024-11-26,179950,PL18 9NW,S,N,F,10,,Bedford Close,,Gunnislake
+2024-11-25,375000,PL18 9PB,D,N,F,Carraton,,,Chilsworthy,Gunnislake
+2024-11-15,313000,PL18 9HJ,D,N,F,9,,Edgecombe Way,St Anns Chapel,Gunnislake
+2024-11-15,295000,PL18 9FR,S,N,F,11,,Curlew Walk,St Anns Chapel,Gunnislake
+2024-11-11,247000,PL18 9BH,T,N,F,18,,Delaware Court,,Gunnislake
+2024-11-06,410000,PL18 9NZ,D,N,F,The Laurels,,,North Dimson,Gunnislake
+2024-10-25,185000,PL18 9TE,S,N,F,1,,Mawes Court,St Anns Chapel,Gunnislake
+2024-10-25,580000,PL18 9PB,D,N,F,Brimble Hall,,,Chilsworthy,Gunnislake
+2024-09-30,274500,PL18 9FL,S,N,F,24,,Buzzard Rise,St Anns Chapel,Gunnislake
+2024-09-27,215000,PL18 9TD,S,N,F,3,,Sampson Close,St Anns Chapel,Gunnislake
+2024-09-18,145000,PL18 9JS,T,N,F,5,,King Street,,Gunnislake
+2024-09-16,550000,PL18 9AA,D,N,F,Jasmin Cottage,,Calstock Road,,Gunnislake
+2024-09-12,170250,PL18 9TD,D,N,F,12,,Sampson Close,St Anns Chapel,Gunnislake
+2024-09-12,190000,PL18 9FW,S,N,F,12,,Oll An Gwella,St Anns Chapel,Gunnislake
+2024-09-05,172500,PL18 9QR,T,N,F,Adit Cottages,6,The Adits,,Calstock
+2024-09-05,260000,PL18 9DY,D,N,F,2,,Chawleigh Close,,Gunnislake
+2024-09-04,490000,PL18 9AY,D,N,F,Hickstead,,,Latchley,Gunnislake
+2024-08-22,135000,PL18 9RB,S,N,F,9,,Rowse Gardens,,Calstock
+2024-08-19,280000,PL18 9LQ,S,N,F,1,,Riverside Cottages,Newbridge,Gunnislake
+2024-08-08,380000,PL18 9DR,S,N,F,Valley View,,Sand Hill,,Gunnislake
+2024-08-06,154000,PL18 9LW,T,N,F,9,,Mudges Terrace,,Gunnislake
+2024-08-06,450000,PL18 9HD,D,N,F,Dunfree,,,St Anns Chapel,Gunnislake
+2024-08-06,370000,PL18 9EH,T,N,F,Celtic Mist,,Delaware Road,Drakewalls,Gunnislake
+2024-08-05,352500,PL18 9HE,T,N,F,Homeleigh,1,,St Anns Chapel,Gunnislake
+2024-07-19,133000,PL18 9NS,S,N,F,Sunnyville,,,Lower Dimson,Gunnislake
+2024-07-18,505000,PL18 9AW,D,N,F,The Small Barn,,,St Anns Chapel,Gunnislake
+2024-07-16,535000,PL18 9BA,D,N,F,Meadowside,,,Cox Park,Gunnislake
+2024-07-04,330000,PL18 9DB,T,N,F,4,,Bealswood Terrace,,Gunnislake
+2024-06-24,357000,PL18 9QS,D,N,F,Pentemar,,,,Calstock
+2024-06-21,260000,PL18 9TD,D,N,F,1,,Sampson Close,St Anns Chapel,Gunnislake
+2024-06-21,330000,PL18 9NB,T,N,F,7,,Prospect Terrace,,Gunnislake
+2024-06-19,445000,PL18 9BB,D,N,F,Woodlark,,,Cox Park,Gunnislake
+2024-06-17,218500,PL18 9JW,T,N,F,7 - 8,,Commercial Street,,Gunnislake
+2024-06-14,285000,PL18 9DQ,S,N,F,4,,Sims Terrace,,Gunnislake
+2024-06-14,325000,PL18 9AJ,D,N,F,Gnaton House,,,Albaston,Gunnislake
+2024-06-12,252500,PL18 9DP,D,N,F,2,,Sand Hill Park,,Gunnislake
+2024-06-10,265000,PL18 9EA,T,N,F,11,,Heath Terrace,,Gunnislake
+2024-05-31,136000,PL18 9HU,T,N,F,2,,River View,St Anns Chapel,Gunnislake
+2024-05-29,320000,PL18 9PG,D,N,F,6,,Parkers Green,,Gunnislake
+2024-05-22,258000,PL18 9DY,D,N,F,4,,Chawleigh Close,,Gunnislake
+2024-05-17,155000,PL18 9RB,S,N,F,6,,Rowse Gardens,,Calstock
+2024-05-15,180000,PL18 9RR,F,N,L,Archway House,Top Floor Flat,Baptist Street,,Calstock
+2024-04-30,177000,PL18 9TB,T,N,F,15,,Gennys Close,St Anns Chapel,Gunnislake
+2024-04-30,98000,PL18 9LS,S,N,L,25,,Drakewalls Gardens,,Gunnislake
+2024-04-30,205000,PL18 9BW,D,N,F,The Bungalow,,The Square,,Gunnislake
+2024-04-26,175000,PL18 9RR,T,N,F,Old School House,1,Baptist Street,,Calstock
+2024-04-19,360000,PL18 9QN,D,N,F,Tower View,,Harewood Road,,Calstock
+2024-04-19,357500,PL18 9FP,D,N,F,26,,Heron Road,St Anns Chapel,Gunnislake
+2024-04-15,282000,PL18 9DR,D,N,F,Bramley,,Sand Hill,,Gunnislake
+2024-04-05,270000,PL18 9AN,D,N,F,Stratton Gables,,,Albaston,Gunnislake
+2024-03-11,610000,PL18 9RF,D,N,F,1,,Rock Park Villas,,Calstock
+2024-03-11,300000,PL18 9HA,D,N,F,Downhead Forge,,,St Anns Chapel,Gunnislake
+2024-03-11,470000,PL18 9DX,D,N,F,Trelawny,,Station Road,,Gunnislake
+2024-02-27,260000,PL18 9BP,T,N,F,5,,Belle Vue Terrace,,Gunnislake
+2024-02-23,128000,PL18 9NS,S,N,F,Sunnyville,,,Lower Dimson,Gunnislake
+2024-02-23,300000,PL18 9DR,D,N,F,Fair Oak,,Sand Hill,,Gunnislake
+2024-02-05,175000,PL18 9NS,D,N,F,Fiddlers Green,,,Lower Dimson,Gunnislake
+2024-02-02,300000,PL18 9FW,D,N,F,27,,Oll An Gwella,St Anns Chapel,Gunnislake
+2024-02-02,190000,PL18 9EA,T,N,F,5,,Heath Terrace,,Gunnislake
+2024-02-01,215000,PL18 9DQ,S,N,F,2,,Sims Terrace,,Gunnislake
+2024-01-26,320000,PL18 9TA,D,N,F,3,,All Saints Park,St Anns Chapel,Gunnislake
+2024-01-26,230000,PL18 9FQ,S,N,F,10,,Raven Close,St Anns Chapel,Gunnislake
+2024-01-23,450000,PL18 9NZ,D,N,F,Moor View Cottage,,,North Dimson,Gunnislake
+2024-01-19,230000,PL18 9TA,T,N,F,8,,All Saints Park,St Anns Chapel,Gunnislake
+2024-01-15,205000,PL18 9JX,D,N,F,Chimney Rock,,King Street,,Gunnislake
+2024-01-15,325000,PL18 9HD,S,N,F,Drakes View,,,St Anns Chapel,Gunnislake
+2024-01-09,275000,PL18 9QP,S,N,F,5,,May Place,,Calstock
+2023-12-18,200000,PL18 9DP,D,N,F,18,,Sand Hill Park,,Gunnislake
+2023-12-13,160000,PL18 9LD,T,N,F,2,,Strasburg Terrace,,Gunnislake
+2023-11-30,260000,PL18 9NA,S,N,F,Annerley Villa,,Chapel Street,,Gunnislake
+2023-11-30,197500,PL18 9ET,T,N,F,4,,Delaware Cottages,Delaware,Gunnislake
+2023-11-30,230000,PL18 9DA,D,N,F,Curlew House,,Bealswood Road,,Gunnislake
+2023-11-29,340000,PL18 9DN,D,N,F,Tryga,,,Drakewalls,Gunnislake
+2023-11-17,340000,PL18 9DF,T,N,F,Rockview Cottage,,Kingswood Road,,Gunnislake
+2023-11-10,640000,PL18 9AB,S,N,F,Well Park House,,,Albaston,Gunnislake
+2023-11-09,725000,PL18 9SQ,D,N,F,Harewood Gardens,,,Harewood,Calstock
+2023-11-06,265000,PL18 9TD,S,N,F,15,,Sampson Close,St Anns Chapel,Gunnislake
+2023-11-01,752500,PL18 9RA,D,N,F,Southbreeze,,Higher Kelly,,Calstock
+2023-10-30,133000,PL18 9LW,T,N,F,7,,Mudges Terrace,,Gunnislake
+2023-10-28,208000,PL18 9EE,D,N,F,Ashleigh,,,Drakewalls,Gunnislake
+2023-10-25,235000,PL18 9TD,S,N,F,14,,Sampson Close,St Anns Chapel,Gunnislake
+2023-10-18,337000,PL18 9BH,T,N,F,20,,Delaware Court,,Gunnislake
+2023-09-27,370000,PL18 9NN,D,N,F,Vine Cottage,,Hoopers Lane,,Gunnislake
+2023-09-25,330000,PL18 9AX,T,N,F,Primrose Cottage,,,Latchley,Gunnislake
+2023-09-22,253000,PL18 9JS,T,N,F,11,,King Street,,Gunnislake
+2023-09-20,110000,PL18 9NA,F,N,L,Ebenezer Chapel,Flat 3,Chapel Street,,Gunnislake
+2023-09-15,370000,PL18 9FL,D,N,F,29,,Buzzard Rise,St Anns Chapel,Gunnislake
+2023-09-14,90000,PL18 9NA,F,N,L,Ebenezer Chapel,Flat 1,Chapel Street,,Gunnislake
+2023-09-13,300000,PL18 9QX,T,N,F,1,,Tamar Terrace,,Calstock
+2023-09-08,113300,PL18 9DG,T,N,F,10,,Crockers Row,,Gunnislake
+2023-09-01,213000,PL18 9AX,T,N,F,7,,James Terrace,Latchley,Gunnislake
+2023-08-22,450000,PL18 9PB,D,N,F,Silver Birches,,,Chilsworthy,Gunnislake
+2023-08-14,295000,PL18 9FL,S,N,F,13,,Buzzard Rise,St Anns Chapel,Gunnislake
+2023-08-11,540000,PL18 9QN,D,N,F,Chygarth,,Harewood Road,,Calstock
+2023-08-11,230000,PL18 9PJ,F,N,L,2,,The Laurels,St Anns Chapel,Gunnislake
+2023-08-11,265000,PL18 9DF,S,N,F,Pine View,,Kingswood Road,,Gunnislake
+2023-07-28,335000,PL18 9QF,T,N,F,2,,Station Lane,,Calstock
+2023-07-26,315000,PL18 9NQ,D,N,F,Rose Cottage,,,Middle Dimson,Gunnislake
+2023-07-20,198000,PL18 9JL,D,N,F,Trefusis,,Under Road,,Gunnislake
+2023-07-20,350000,PL18 9FW,D,N,F,20,,Oll An Gwella,St Anns Chapel,Gunnislake
+2023-07-10,282500,PL18 9NP,T,N,F,6,,Ivy Cottages,Lower Dimson,Gunnislake
+2023-07-06,225000,PL18 9QL,T,N,F,Mount Pleasant,3,Back Road,,Calstock
+2023-07-03,175000,PL18 9RR,T,N,F,Old School House,2,Baptist Street,,Calstock
+2023-06-30,290000,PL18 9AX,S,N,F,Wheatridge,,,Latchley,Gunnislake
+2023-06-23,805000,PL18 9BY,D,N,F,Wayfield Farm,,Calstock Road,,Gunnislake
+2023-06-16,195000,PL18 9PJ,F,N,L,5,,The Laurels,St Anns Chapel,Gunnislake
+2023-06-16,225000,PL18 9DF,D,N,F,Quiet Ways,,Kingswood Road,,Gunnislake
+2023-06-15,303000,PL18 9QX,T,N,F,4,,Tamar Terrace,,Calstock
+2023-05-25,215000,PL18 9JA,S,N,F,7,,Woodland Way,,Gunnislake
+2023-05-18,230000,PL18 9QT,T,N,F,1A,,Commercial Road,,Calstock
+2023-05-12,312000,PL18 9JU,D,N,F,Stevela,,King Street,,Gunnislake
+2023-05-05,286000,PL18 9FR,S,N,F,12,,Curlew Walk,St Anns Chapel,Gunnislake
+2023-04-28,405000,PL18 9AN,D,N,F,The Old Mine,,,Albaston,Gunnislake
+2023-04-21,190000,PL18 9EJ,T,N,F,4,,Drakewalls Place,Drakewalls,Gunnislake
+2023-04-14,472500,PL18 9DH,D,N,F,Hazel Cottage,,Tamar Way,,Gunnislake
+2023-04-11,296000,PL18 9FL,S,N,F,14,,Buzzard Rise,St Anns Chapel,Gunnislake
+2023-04-11,290000,PL18 9AX,S,N,F,5,,James Terrace,Latchley,Gunnislake
+2023-04-06,440000,PL18 9TF,D,N,F,6,,Petroc Court,St Anns Chapel,Gunnislake
+2023-04-05,167000,PL18 9SE,T,N,F,Gem Cottage,,Sandways,,Calstock
+2023-03-24,162500,PL18 9AN,S,N,F,1,,Lane Cottage,Albaston,Gunnislake
+2023-03-13,321500,PL18 9TF,D,N,F,9,,Petroc Court,St Anns Chapel,Gunnislake
+2023-03-13,410000,PL18 9TF,D,N,F,10,,Petroc Court,St Anns Chapel,Gunnislake
+2023-03-10,613000,PL18 9PB,D,N,F,Ramelsa,,,Chilsworthy,Gunnislake
+2023-02-13,330000,PL18 9RE,T,N,F,9,,Rose Hill Terrace,,Calstock
+2023-02-10,310000,PL18 9JH,D,N,F,Newbridge View,,Newbridge Hill,,Gunnislake
+2023-02-10,240000,PL18 9DX,D,N,F,Moorlea,,Station Road,,Gunnislake
+2023-01-24,440000,PL18 9RY,S,N,F,Ebbtide Cottage,,,Lower Kelly,Calstock
+2023-01-16,595000,PL18 9BB,D,N,F,Ten Acres,,,Cox Park,Gunnislake
+2023-01-13,74000,PL18 9FG,T,N,L,8,,Fosters Meadow,St Anns Chapel,Gunnislake
+2022-12-21,245000,PL18 9EE,D,N,F,Cadwell,,,Drakewalls,Gunnislake
+2022-12-20,160000,PL18 9JS,T,N,F,9,,King Street,,Gunnislake
+2022-12-19,680000,PL18 9SE,D,N,F,Summer Lea,,Sandways,,Calstock
+2022-12-16,260000,PL18 9JF,D,N,F,30,,Pine View,,Gunnislake
+2022-12-16,268000,PL18 9FT,S,N,F,13,,Arum Grove,St Anns Chapel,Gunnislake
+2022-12-12,375000,PL18 9TA,D,N,F,18,,All Saints Park,St Anns Chapel,Gunnislake
+2022-12-09,74000,PL18 9LS,S,N,L,12,,Drakewalls Gardens,,Gunnislake
+2022-12-09,300000,PL18 9HW,D,N,F,Penmarric,,,St Anns Chapel,Gunnislake
+2022-12-02,470000,PL18 9AD,D,N,F,Denham,,,Albaston,Gunnislake
+2022-11-25,233000,PL18 9BH,T,N,F,21,,Delaware Court,,Gunnislake
+2022-11-23,385000,PL18 9RH,D,N,F,8,,Johnson Park,,Calstock
+2022-11-23,285000,PL18 9FL,S,N,F,58,,Buzzard Rise,St Anns Chapel,Gunnislake
+2022-11-23,215000,PL18 9BJ,S,N,F,2,,Gillys Walk,Albaston,Gunnislake
+2022-11-18,240000,PL18 9QR,T,N,F,2,,Adit Cottages,,Calstock
+2022-11-18,370000,PL18 9PG,D,N,F,3,,Parkers Green,,Gunnislake
+2022-11-15,275000,PL18 9RB,S,N,F,17,,Rowse Gardens,,Calstock
+2022-11-11,465000,PL18 9DA,D,N,F,The Old Boathouse,,Bealswood Road,,Gunnislake
+2022-11-09,390000,PL18 9EL,D,N,F,The Old Sunday School,,,Drakewalls,Gunnislake
+2022-10-31,143000,PL18 9NA,F,N,L,Ebenezer Chapel,Flat 5,Chapel Street,,Gunnislake
+2022-10-30,262950,PL18 9FP,S,Y,F,4,,Heron Road,St Anns Chapel,Gunnislake
+2022-10-28,225000,PL18 9RS,T,N,F,1,,Poplar Cottages,,Calstock
+2022-10-27,375000,PL18 9TA,S,N,F,15,,All Saints Park,St Anns Chapel,Gunnislake
+2022-10-27,440000,PL18 9AW,D,N,F,Hollow Greep Cottage,,,Albaston,Gunnislake
+2022-10-21,490000,PL18 9RW,T,N,F,Providence Cottage,,Providence Place,,Calstock
+2022-10-21,130500,PL18 9DS,T,N,F,2,,Alma Terrace,,Gunnislake
+2022-10-14,222000,PL18 9TD,S,N,F,3,,Sampson Close,St Anns Chapel,Gunnislake
+2022-10-11,525000,PL18 9DH,D,N,F,Pines Aletris,,Tamar Way,,Gunnislake
+2022-10-10,250000,PL18 9EE,D,N,F,Bella Vista,,,Drakewalls,Gunnislake
+2022-09-30,340000,PL18 9QX,T,N,F,Railway Cottage,,Sand Lane,,Calstock
+2022-09-30,250000,PL18 9HW,D,N,F,Edgecombe,,,St Anns Chapel,Gunnislake
+2022-09-29,278250,PL18 9QP,T,N,F,4,,May Place,,Calstock
+2022-09-21,464750,PL18 9AY,D,N,F,Hickstead,,,Latchley,Gunnislake
+2022-09-16,375000,PL18 9DY,D,N,F,1,,Chawleigh Close,,Gunnislake
+2022-09-15,395000,PL18 9TA,D,N,F,16,,All Saints Park,St Anns Chapel,Gunnislake
+2022-09-14,335000,PL18 9SG,T,N,F,Glebelands,2,,,Calstock
+2022-09-12,460000,PL18 9EU,D,N,F,Torwood,,Delaware Road,,Gunnislake
+2022-09-09,358000,PL18 9AX,D,N,F,Little Latchley,,,Latchley,Gunnislake
+2022-09-08,390000,PL18 9HL,D,N,F,Fairview,,,St Anns Chapel,Gunnislake
+2022-09-06,376000,PL18 9BT,D,N,F,The Arches,,Calstock Road,,Gunnislake
+2022-09-01,275000,PL18 9RB,S,N,F,16,,Rowse Gardens,,Calstock
+2022-08-31,370000,PL18 9TF,D,N,F,Tamar View,3,Petroc Court,St Anns Chapel,Gunnislake
+2022-08-26,375000,PL18 9BU,S,N,F,Woodley,,Calstock Road,,Gunnislake
+2022-08-19,200000,PL18 9QS,T,N,F,The Old Bakery,,,,Calstock
+2022-08-15,239950,PL18 9NB,T,N,F,4,,Prospect Terrace,,Gunnislake
+2022-08-12,378000,PL18 9HW,D,N,F,Greenlands,,,St Anns Chapel,Gunnislake
+2022-08-12,235000,PL18 9AL,S,N,F,"Moyon, 1",,Albaston Cottages,Albaston,Gunnislake
+2022-08-08,360000,PL18 9ND,D,N,F,Quarry Corner,,Chapel Street,Dimson,Gunnislake
+2022-08-05,515000,PL18 9AZ,D,N,F,Feathers Barn,,,Cox Park,Gunnislake
+2022-08-03,330000,PL18 9FL,D,N,F,30,,Buzzard Rise,St Anns Chapel,Gunnislake
+2022-08-03,272000,PL18 9DB,T,N,F,3,,Bealswood Terrace,,Gunnislake
+2022-07-18,535000,PL18 9AJ,D,N,F,Bealswood,,,Albaston,Gunnislake
+2022-07-15,235000,PL18 9TD,S,N,F,9,,Sampson Close,St Anns Chapel,Gunnislake
+2022-07-14,310000,PL18 9JS,D,N,F,Shorelyknot,,King Street,,Gunnislake
+2022-07-14,310000,PL18 9HE,T,N,F,Bracken Cottage,,,St Anns Chapel,Gunnislake
+2022-07-04,410000,PL18 9HJ,D,N,F,2,,Edgecombe Way,St Anns Chapel,Gunnislake
+2022-07-01,250000,PL18 9NA,S,N,F,Chapel Court,2,Chapel Street,,Gunnislake
+2022-07-01,178000,PL18 9NA,T,N,F,1,,Chapel Street,,Gunnislake
+2022-06-29,375000,PL18 9EA,T,N,F,13,,Heath Terrace,,Gunnislake
+2022-06-24,700000,PL18 9QA,D,N,F,The Anchorage,,The Quay,,Calstock
+2022-06-24,675000,PL18 9NF,D,N,F,Foxglove,,,Higher Dimson,Gunnislake
+2022-06-24,257500,PL18 9DU,T,N,F,3,,Albert Terrace,Drakewalls,Gunnislake
+2022-06-23,189000,PL18 9LA,T,N,F,10,,Masons Row,,Gunnislake
+2022-06-17,195000,PL18 9DE,D,N,F,6,,Bealswood Close,,Gunnislake
+2022-06-17,291000,PL18 9AS,D,N,F,Greenhill Lodge,,Delaware Road,,Gunnislake
+2022-06-14,238000,PL18 9TB,T,N,F,10,,Gennys Close,St Anns Chapel,Gunnislake
+2022-06-09,165000,PL18 9FP,S,N,F,20,,Heron Road,St Anns Chapel,Gunnislake
+2022-05-31,115000,PL18 9DS,T,N,F,9,,Alma Terrace,,Gunnislake
+2022-05-27,220000,PL18 9RB,S,N,F,18,,Rowse Gardens,,Calstock
+2022-05-23,309000,PL18 9TA,D,N,F,1,,All Saints Park,St Anns Chapel,Gunnislake
+2022-05-18,255000,PL18 9DP,D,N,F,17,,Sand Hill Park,,Gunnislake
+2022-05-12,685000,PL18 9AR,D,N,F,Trebo,,Delaware Road,,Gunnislake
+2022-05-06,250000,PL18 9AW,S,N,F,Todsworthy House,2,,Albaston,Gunnislake
+2022-05-03,145000,PL18 9NA,F,N,L,Ebenezer Chapel,Flat 7,Chapel Street,,Gunnislake
+2022-05-03,330000,PL18 9JL,D,N,F,Rosemount,,Under Road,,Gunnislake
+2022-05-03,285000,PL18 9DG,D,N,F,16,,Crockers Row,,Gunnislake
+2022-04-28,309950,PL18 9FL,D,Y,F,53,,Buzzard Rise,St Anns Chapel,Gunnislake
+2022-04-28,269950,PL18 9FL,D,Y,F,3,,Buzzard Rise,St Anns Chapel,Gunnislake
+2022-04-14,285000,PL18 9FL,S,N,F,8,,Buzzard Rise,St Anns Chapel,Gunnislake
+2022-04-06,337000,PL18 9DF,D,N,F,2,,Conifer Close,,Gunnislake
+2022-04-04,700000,PL18 9AB,D,N,F,Wheal Arthur House,,,Albaston,Gunnislake
+2022-04-01,334950,PL18 9FL,D,Y,F,55,,Buzzard Rise,St Anns Chapel,Gunnislake
+2022-04-01,309950,PL18 9FL,D,Y,F,54,,Buzzard Rise,St Anns Chapel,Gunnislake
+2022-03-31,76000,PL18 9RR,F,N,L,Baptist Chapel,Flat 1,Baptist Street,,Calstock
+2022-03-31,249950,PL18 9FL,S,Y,F,2,,Buzzard Rise,St Anns Chapel,Gunnislake
+2022-03-31,275000,PL18 9FL,S,Y,F,1,,Buzzard Rise,St Anns Chapel,Gunnislake
+2022-03-30,186950,PL18 9FN,S,Y,F,17,,Nuthatch Close,St Anns Chapel,Gunnislake
+2022-03-29,329950,PL18 9FL,D,Y,F,20,,Buzzard Rise,St Anns Chapel,Gunnislake
+2022-03-29,410000,PL18 9AX,D,N,F,Laneside,,,Latchley,Gunnislake
+2022-03-28,350000,PL18 9HJ,D,N,F,12,,Edgecombe Way,St Anns Chapel,Gunnislake
+2022-03-25,365000,PL18 9PB,D,N,F,2,,Little Meadow,Chilsworthy,Gunnislake
+2022-03-24,186950,PL18 9FN,D,Y,F,18,,Nuthatch Close,St Anns Chapel,Gunnislake
+2022-03-18,245000,PL18 9FW,D,N,F,10,,Oll An Gwella,St Anns Chapel,Gunnislake
+2022-03-18,480000,PL18 9DR,D,N,F,The Old Orchard,,Sand Hill,,Gunnislake
+2022-03-14,349000,PL18 9NZ,D,N,F,Hillside View,,,North Dimson,Gunnislake
+2022-03-10,189950,PL18 9FN,S,Y,F,15,,Nuthatch Close,St Anns Chapel,Gunnislake
+2022-03-03,186950,PL18 9FN,S,Y,F,16,,Nuthatch Close,St Anns Chapel,Gunnislake
+2022-02-28,220000,PL18 9RB,S,N,F,7,,Rowse Gardens,,Calstock
+2022-02-21,115000,PL18 9NA,F,N,L,Ebenezer Chapel,Flat 2,Chapel Street,,Gunnislake
+2022-02-15,290000,PL18 9AH,S,N,F,1,,Chapel Terrace,Albaston,Gunnislake
+2022-02-11,133000,PL18 9JH,T,N,F,Tinners,,Newbridge Hill,,Gunnislake
+2022-02-09,111000,PL18 9JW,T,N,F,The Nook,,Commercial Street,,Gunnislake
+2022-01-28,206500,PL18 9JJ,T,N,F,2,,Newbridge Hill,,Gunnislake
+2022-01-25,890000,PL18 9BB,D,N,F,Highlands,,,Cox Park,Gunnislake
+2022-01-19,220000,PL18 9RB,S,N,F,28,,Rowse Gardens,,Calstock
+2022-01-06,299950,PL18 9FL,D,Y,F,21,,Buzzard Rise,St Anns Chapel,Gunnislake
+2021-12-21,294950,PL18 9FN,D,Y,F,10,,Nuthatch Close,St Anns Chapel,Gunnislake
+2021-12-20,285000,PL18 9JX,D,N,F,Woodview,,King Street,,Gunnislake
+2021-12-13,252000,PL18 9FW,S,N,F,4,,Oll An Gwella,St Anns Chapel,Gunnislake
+2021-12-09,560000,PL18 9BB,D,N,F,Welwyn,,,Cox Park,Gunnislake
+2021-12-09,1300000,PL18 9AL,D,N,F,Albaston House,,,Albaston,Gunnislake
+2021-12-08,491665,PL18 9AA,D,N,F,Tamrock,,Calstock Road,,Gunnislake
+2021-11-26,550000,PL18 9SQ,D,N,F,Pendragon,,,Harewood,Calstock
+2021-11-26,450000,PL18 9QN,D,N,F,Penrest,,Harewood Road,,Calstock
+2021-11-26,340000,PL18 9DH,D,N,F,Sunnyside,,Tamar Way,,Gunnislake
+2021-11-25,540000,PL18 9BU,D,N,F,Delaney,,Calstock Road,,Gunnislake
+2021-11-24,320000,PL18 9FT,D,N,F,8,,Arum Grove,St Anns Chapel,Gunnislake
+2021-11-10,570000,PL18 9HW,D,N,F,Chynoweth,,,St Anns Chapel,Gunnislake
+2021-11-08,215000,PL18 9TB,D,N,F,19,,Gennys Close,St Anns Chapel,Gunnislake
+2021-11-05,300000,PL18 9FL,D,N,F,50,,Buzzard Rise,St Anns Chapel,Gunnislake
+2021-11-01,320000,PL18 9JF,D,N,F,18,,Pine View,,Gunnislake
+2021-10-29,640000,PL18 9GJ,D,N,F,Splatford Coombe,,Bakers Lane,,Gunnislake
+2021-10-28,110000,PL18 9QN,F,N,L,Wesley Flats,2,Harewood Road,,Calstock
+2021-10-28,310000,PL18 9JW,D,N,F,Woodland Cottage,,Commercial Street,,Gunnislake
+2021-10-27,370000,PL18 9ED,D,N,F,Stannary Cottage,,Wellpark Road,Drakewalls,Gunnislake
+2021-10-26,400000,PL18 9AR,D,N,F,Southernwood,,Delaware Road,,Gunnislake
+2021-10-25,196000,PL18 9TB,T,N,F,14,,Gennys Close,St Anns Chapel,Gunnislake
+2021-10-21,575000,PL18 9BD,D,N,F,Longridge,,,Cox Park,Gunnislake
+2021-10-15,327500,PL18 9FW,D,N,F,8,,Oll An Gwella,St Anns Chapel,Gunnislake
+2021-10-11,280000,PL18 9RW,S,N,F,Lavinia,,Providence Place,,Calstock
+2021-10-05,225000,PL18 9FT,S,N,F,7,,Arum Grove,St Anns Chapel,Gunnislake
+2021-10-01,294950,PL18 9FL,D,Y,F,30,,Buzzard Rise,St Anns Chapel,Gunnislake
+2021-09-30,300000,PL18 9FT,D,N,F,9,,Arum Grove,St Anns Chapel,Gunnislake
+2021-09-30,289950,PL18 9FL,D,Y,F,36,,Buzzard Rise,St Anns Chapel,Gunnislake
+2021-09-30,219950,PL18 9FL,S,Y,F,33,,Buzzard Rise,St Anns Chapel,Gunnislake
+2021-09-30,352950,PL18 9FL,D,Y,F,31,,Buzzard Rise,St Anns Chapel,Gunnislake
+2021-09-30,329950,PL18 9FL,D,Y,F,29,,Buzzard Rise,St Anns Chapel,Gunnislake
+2021-09-30,292950,PL18 9FL,D,Y,F,28,,Buzzard Rise,St Anns Chapel,Gunnislake
+2021-09-29,600000,PL18 9QZ,D,N,F,Grenfell Garden,,Higher Kelly,,Calstock
+2021-09-29,289950,PL18 9FL,D,Y,F,35,,Buzzard Rise,St Anns Chapel,Gunnislake
+2021-09-29,319950,PL18 9FL,D,Y,F,34,,Buzzard Rise,St Anns Chapel,Gunnislake
+2021-09-29,223950,PL18 9FL,S,Y,F,32,,Buzzard Rise,St Anns Chapel,Gunnislake
+2021-09-28,340000,PL18 9JL,D,N,F,Rivendell,,Under Road,,Gunnislake
+2021-09-27,572000,PL18 9RG,D,N,F,The Piggery,,,,Calstock
+2021-09-26,260000,PL18 9AX,D,N,F,Little Latchley,,,Latchley,Gunnislake
+2021-09-21,280000,PL18 9DR,D,N,F,Fair Oak,,Sand Hill,,Gunnislake
+2021-09-14,270000,PL18 9NA,D,N,F,Brittle Ash,,Chapel Street,,Gunnislake
+2021-09-09,402000,PL18 9NJ,D,N,F,Bramble Cottage,,,Dimson,Gunnislake
+2021-09-03,235000,PL18 9AS,T,N,F,2,,Greenhill Cottages,,Gunnislake
+2021-09-01,165000,PL18 9JH,S,N,F,Newbridge Hill House,,Newbridge Hill,,Gunnislake
+2021-08-26,222000,PL18 9FP,S,N,F,14,,Heron Road,St Anns Chapel,Gunnislake
+2021-08-26,241950,PL18 9FL,D,Y,F,27,,Buzzard Rise,St Anns Chapel,Gunnislake
+2021-08-25,319950,PL18 9FL,D,Y,F,37,,Buzzard Rise,St Anns Chapel,Gunnislake
+2021-08-19,217500,PL18 9TB,S,N,F,6,,Gennys Close,St Anns Chapel,Gunnislake
+2021-08-11,265000,PL18 9SA,T,N,F,"Jasmine Cottage, 3",,Kelly Gardens,,Calstock
+2021-08-05,280000,PL18 9QA,T,N,F,The Lodge Riverside,,The Quay,,Calstock
+2021-08-03,635000,PL18 9NZ,D,N,F,Collingwood Cottage,,,North Dimson,Gunnislake
+2021-08-02,180000,PL18 9HN,S,N,F,Meadow View,,,St Anns Chapel,Gunnislake
+2021-07-27,270500,PL18 9FL,S,N,F,16,,Buzzard Rise,St Anns Chapel,Gunnislake
+2021-07-21,170000,PL18 9GZ,S,N,F,4,,The Beeches,St Anns Chapel,Gunnislake
+2021-07-20,216950,PL18 9FL,S,Y,F,26,,Buzzard Rise,St Anns Chapel,Gunnislake
+2021-07-20,216950,PL18 9FL,S,Y,F,25,,Buzzard Rise,St Anns Chapel,Gunnislake
+2021-07-09,122500,PL18 9NH,S,N,F,Alma Cottage,2,,Dimson,Gunnislake
+2021-07-02,205000,PL18 9JB,T,N,F,33,,Chapel Close,,Gunnislake
+2021-06-30,290000,PL18 9RG,D,N,F,Rosen Brea,,,,Calstock
+2021-06-30,365000,PL18 9QA,S,N,L,River Cottage,2,The Quay,,Calstock
+2021-06-30,370000,PL18 9PD,D,N,F,Woodcliff,,,Bitthams,Gunnislake
+2021-06-30,76000,PL18 9LS,S,N,L,31,,Drakewalls Gardens,,Gunnislake
+2021-06-30,370000,PL18 9DH,D,N,F,Hazel Cottage,,Tamar Way,,Gunnislake
+2021-06-29,235000,PL18 9NA,D,N,F,Penhedker House,,Chapel Street,,Gunnislake
+2021-06-28,285000,PL18 9PJ,D,N,F,7,,The Laurels,St Anns Chapel,Gunnislake
+2021-06-28,265000,PL18 9JL,D,N,F,Tudor Barn,,Under Road,,Gunnislake
+2021-06-28,180000,PL18 9JL,T,N,F,2,,Under Road,,Gunnislake
+2021-06-25,222000,PL18 9TB,D,N,F,17,,Gennys Close,St Anns Chapel,Gunnislake
+2021-06-25,575000,PL18 9RG,D,N,F,Glenver Nurseries,,,,Calstock
+2021-06-24,289950,PL18 9FL,D,Y,F,38,,Buzzard Rise,St Anns Chapel,Gunnislake
+2021-06-21,342000,PL18 9HD,D,N,F,Moonrakers,,,St Anns Chapel,Gunnislake
+2021-06-21,214950,PL18 9FL,S,Y,F,23,,Buzzard Rise,St Anns Chapel,Gunnislake
+2021-06-18,180000,PL18 9FJ,T,N,F,4,,Double White Rise,St Anns Chapel,Gunnislake
+2021-06-18,179950,PL18 9EG,S,N,F,Hilton,,,Drakewalls,Gunnislake
+2021-06-15,214950,PL18 9FL,S,Y,F,24,,Buzzard Rise,St Anns Chapel,Gunnislake
+2021-06-11,710000,PL18 9QZ,S,N,F,Rose Hill House,,Higher Kelly,,Calstock
+2021-06-11,350000,PL18 9PB,D,N,F,Moorland Butts,,,Chilsworthy,Gunnislake
+2021-06-04,170000,PL18 9HT,T,N,F,6,,Rose Terrace,St Anns Chapel,Gunnislake
+2021-06-04,192500,PL18 9BP,T,N,F,4,,Belle Vue Terrace,,Gunnislake
+2021-06-04,181500,PL18 9AS,T,N,F,3,,Greenhill Cottages,,Gunnislake
+2021-06-03,135000,PL18 9RW,T,N,F,14,,Providence Place,,Calstock
+2021-06-03,219950,PL18 9FL,S,Y,F,39,,Buzzard Rise,St Anns Chapel,Gunnislake
+2021-06-02,380000,PL18 9EP,D,N,F,Meadows End,,,Albaston,Gunnislake
+2021-05-28,160000,PL18 9QS,T,N,F,Cadena Cottage,,,,Calstock
+2021-05-28,316950,PL18 9FL,D,Y,F,22,,Buzzard Rise,St Anns Chapel,Gunnislake
+2021-05-21,192500,PL18 9QD,T,N,F,1,,The Court,,Calstock
+2021-05-21,195000,PL18 9HS,T,N,F,2,,Fernleigh Terrace,St Anns Chapel,Gunnislake
+2021-05-21,135000,PL18 9HH,S,N,F,2,,Prospect Cottages,St Anns Chapel,Gunnislake
+2021-05-21,150000,PL18 9BT,S,N,F,Haydown,,Calstock Road,,Gunnislake
+2021-05-19,115000,PL18 9DS,T,N,F,12,,Alma Terrace,,Gunnislake
+2021-05-18,140000,PL18 9FW,S,Y,F,14,,Oll An Gwella,St Anns Chapel,Gunnislake
+2021-05-14,210000,PL18 9RS,T,N,F,2,,Poplar Cottages,,Calstock
+2021-05-12,169000,PL18 9JA,S,N,F,5,,Woodland Way,,Gunnislake
+2021-05-07,219950,PL18 9FL,S,Y,F,40,,Buzzard Rise,St Anns Chapel,Gunnislake
+2021-05-06,1100000,PL18 9RY,D,N,F,Danish Perch,,,Lower Kelly,Calstock
+2021-04-30,190000,PL18 9HP,D,N,F,Carfrae,,,St Anns Chapel,Gunnislake
+2021-04-30,297000,PL18 9FL,D,Y,F,41,,Buzzard Rise,St Anns Chapel,Gunnislake
+2021-04-29,104000,PL18 9HX,T,N,F,2,,Sea View Terrace,St Anns Chapel,Gunnislake
+2021-04-29,289950,PL18 9FL,D,Y,F,42,,Buzzard Rise,St Anns Chapel,Gunnislake
+2021-04-27,215000,PL18 9DY,D,N,F,4,,Chawleigh Close,,Gunnislake
+2021-04-26,190000,PL18 9FW,D,Y,F,10,,Oll An Gwella,St Anns Chapel,Gunnislake
+2021-04-26,220000,PL18 9EA,T,N,F,11,,Heath Terrace,,Gunnislake
+2021-04-26,202500,PL18 9DP,D,N,F,17,,Sand Hill Park,,Gunnislake
+2021-04-23,300000,PL18 9BU,S,N,F,Weir View House,,Calstock Road,,Gunnislake
+2021-04-19,130000,PL18 9LR,T,N,F,1,,Lower Tamar Terrace,,Gunnislake
+2021-04-15,383000,PL18 9SE,D,N,F,Sandways Barn,,Sandways,,Calstock
+2021-04-14,122000,PL18 9AL,T,N,F,2,,The Terrace,Albaston,Gunnislake
+2021-04-13,95000,PL18 9JS,T,N,F,16,,King Street,,Gunnislake
+2021-04-09,475000,PL18 9RX,D,N,F,Fivewells,,,Lower Kelly,Calstock
+2021-04-07,250000,PL18 9HW,D,N,F,Eagle House,,,St Anns Chapel,Gunnislake
+2021-04-07,490000,PL18 9BB,D,N,F,Devon View,,,Cox Park,Gunnislake
+2021-03-31,275000,PL18 9HW,S,N,F,The Manse,,,St Anns Chapel,Gunnislake
+2021-03-31,241000,PL18 9DX,D,N,F,2,,Station Road,,Gunnislake
+2021-03-26,316950,PL18 9FL,D,Y,F,43,,Buzzard Rise,St Anns Chapel,Gunnislake
+2021-03-19,250000,PL18 9QE,T,N,F,1,,Church Street,,Calstock
+2021-03-19,190000,PL18 9DA,D,N,F,Allandale,,Bealswood Road,,Gunnislake
+2021-03-19,190000,PL18 9DA,S,N,F,1,,Bealswood Cottages,,Gunnislake
+2021-03-18,202000,PL18 9FN,T,Y,F,2,,Nuthatch Close,St Anns Chapel,Gunnislake
+2021-03-15,219950,PL18 9FL,S,Y,F,44,,Buzzard Rise,St Anns Chapel,Gunnislake
+2021-03-12,120000,PL18 9RR,T,N,F,Old School House,1,Baptist Street,,Calstock
+2021-03-12,87500,PL18 9LS,S,N,L,10,,Drakewalls Gardens,,Gunnislake
+2021-03-12,205000,PL18 9FN,T,Y,F,3,,Nuthatch Close,St Anns Chapel,Gunnislake
+2021-03-12,205000,PL18 9FN,T,Y,F,1,,Nuthatch Close,St Anns Chapel,Gunnislake
+2021-03-12,385000,PL18 9AX,D,N,F,Keardon Bank,,,Latchley,Gunnislake
+2021-03-08,287500,PL18 9PB,D,N,F,Pineridge,,,Chilsworthy,Gunnislake
+2021-03-08,530000,PL18 9EZ,D,N,F,South Leat House,,,Albaston,Gunnislake
+2021-03-05,337500,PL18 9EL,D,N,F,Tunley Barn,,,Drakewalls,Gunnislake
+2021-03-04,265000,PL18 9RE,D,N,F,25,,Rose Hill Terrace,,Calstock
+2021-03-04,360000,PL18 9PB,D,N,F,Hazeldene,,,Chilsworthy,Gunnislake
+2021-02-26,349950,PL18 9FL,D,Y,F,46,,Buzzard Rise,St Anns Chapel,Gunnislake
+2021-02-26,214950,PL18 9FL,S,Y,F,45,,Buzzard Rise,St Anns Chapel,Gunnislake
+2021-02-12,265000,PL18 9FP,S,Y,F,3,,Heron Road,St Anns Chapel,Gunnislake
+2021-02-12,260000,PL18 9DF,D,N,F,Stable Cottage,,Kingswood Road,,Gunnislake
+2021-02-11,148000,PL18 9HT,T,N,F,5,,Rose Terrace,St Anns Chapel,Gunnislake
+2021-02-10,460000,PL18 9PB,D,N,F,Highfields,,,Chilsworthy,Gunnislake
+2021-02-05,135001,PL18 9ET,T,N,F,6,,Delaware Cottages,Delaware,Gunnislake
+2021-01-29,289950,PL18 9FL,D,Y,F,47,,Buzzard Rise,St Anns Chapel,Gunnislake
+2021-01-29,320000,PL18 9BZ,T,N,F,4,,Weir Head,,Gunnislake
+2021-01-28,442500,PL18 9AN,D,N,F,Wheal Edward,,,Albaston,Gunnislake
+2021-01-26,385000,PL18 9SF,D,N,F,Ravenscourt Lodge,,,,Calstock
+2021-01-22,145000,PL18 9RW,T,N,F,3,,Providence Place,,Calstock
+2021-01-21,311000,PL18 9BW,T,N,F,1,,The Square,,Gunnislake
+2021-01-11,280000,PL18 9TF,D,N,F,9,,Petroc Court,St Anns Chapel,Gunnislake
+2021-01-11,212950,PL18 9FL,S,Y,F,48,,Buzzard Rise,St Anns Chapel,Gunnislake
+2021-01-08,223000,PL18 9DP,D,N,F,11,,Sand Hill Park,,Gunnislake
+2021-01-07,305000,PL18 9HW,D,N,F,Crossways,,,St Anns Chapel,Gunnislake
+2021-01-05,285000,PL18 9HW,D,N,F,High Rising,,,St Anns Chapel,Gunnislake

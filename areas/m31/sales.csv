@@ -1,0 +1,670 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-17,177000,M31 4HH,T,N,F,7,,Birch Road,Partington,Manchester
+2026-07-31,120000,M31 4NZ,F,N,L,1,Apartment 2,New William Close,Partington,Manchester
+2026-07-14,290000,M31 4AW,S,N,F,55,,Ackers Lane,Carrington,Manchester
+2026-07-10,84000,M31 4EP,T,N,F,9,,Avens Road,Partington,Manchester
+2026-07-08,280000,M31 4DH,S,N,F,30,,Broadway,Partington,Manchester
+2026-07-03,275000,M31 4PX,T,N,F,12A,,Lock Lane,Partington,Manchester
+2026-06-29,320000,M31 4RU,S,N,F,1,,Dunnock Road,Partington,Manchester
+2026-06-26,205000,M31 4FD,T,N,F,7,,Furze Walk,Partington,Manchester
+2026-06-01,155000,M31 4EF,T,N,F,39,,Albinson Walk,Partington,Manchester
+2026-05-29,185000,M31 4GR,T,N,F,5,,Damson Walk,Partington,Manchester
+2026-05-18,210000,M31 4ED,T,N,F,27,,Hallcroft,Partington,Manchester
+2026-03-31,250000,M31 4FX,T,N,F,22,,Erskine Road,Partington,Manchester
+2026-03-30,180000,M31 4JB,T,N,F,16,,Redbrook Road,Partington,Manchester
+2026-03-23,268000,M31 4QF,S,N,F,6,,Marine Avenue,Partington,Manchester
+2026-02-27,196000,M31 4PJ,T,N,L,65,,Lock Lane,Partington,Manchester
+2026-02-27,277500,M31 4DH,S,N,F,4,,Broadway,Partington,Manchester
+2026-02-24,180000,M31 4PF,T,N,L,31,,Grasmere Road,Partington,Manchester
+2026-01-29,275100,M31 4RY,S,N,F,10,,Sparrow Street,Partington,Manchester
+2026-01-16,210000,M31 4PT,S,N,L,62,,Thirlmere Road,Partington,Manchester
+2026-01-16,170000,M31 4PB,T,N,L,6,,Meadow Walk,Partington,Manchester
+2026-01-06,225000,M31 4DR,T,N,F,7,,Davies Road,Partington,Manchester
+2025-12-19,230000,M31 4PR,S,N,L,18,,Thirlmere Road,Partington,Manchester
+2025-12-19,95000,M31 4NZ,F,N,L,3,Apartment 21,New William Close,Partington,Manchester
+2025-12-19,185000,M31 4FD,T,N,F,6,,Furze Walk,Partington,Manchester
+2025-12-15,252000,M31 4HZ,T,N,F,300,,Wood Lane,Partington,Manchester
+2025-12-09,240000,M31 4NE,T,N,L,36,,Langdale Road,Partington,Manchester
+2025-12-08,104000,M31 4RS,S,N,L,39,,Lapwing Close,Partington,Manchester
+2025-12-05,290000,M31 4PG,S,N,L,4,,Penrith Close,Partington,Manchester
+2025-12-05,209456,M31 4BW,T,N,F,Station Cottages,2,Manchester Road,Partington,Manchester
+2025-12-03,330000,M31 4DL,S,N,L,47,,Orchard Avenue,Partington,Manchester
+2025-12-01,327000,M31 4DH,S,N,F,38,,Broadway,Partington,Manchester
+2025-11-28,210000,M31 4QA,S,N,L,11,,Derwent Close,Partington,Manchester
+2025-11-21,800000,M31 4AE,D,N,F,Ackers Farmhouse,,Carrington Lane,Carrington,Manchester
+2025-11-14,285000,M31 4DH,S,N,F,3,,Broadway,Partington,Manchester
+2025-11-14,230000,M31 4DB,S,N,F,25,,River Lane,Partington,Manchester
+2025-11-12,300000,M31 4SR,S,N,F,7,,Aire Road,Partington,Manchester
+2025-10-31,329995,M31 4TP,D,Y,F,35,,Plover Way,Partington,Manchester
+2025-10-31,280000,M31 4GB,S,N,L,3,,Dane Avenue,Partington,Manchester
+2025-10-30,210000,M31 4PP,S,N,F,56,,Lock Lane,Partington,Manchester
+2025-10-30,250000,M31 4FB,D,N,F,Neuholme,,Manchester Road,Partington,Manchester
+2025-10-24,169950,M31 4PD,T,N,L,9,,Field Walk,Partington,Manchester
+2025-10-24,270000,M31 4NH,S,N,F,9,,Patterdale Road,Partington,Manchester
+2025-10-24,270000,M31 4NH,S,N,L,9,,Patterdale Road,Partington,Manchester
+2025-10-24,185000,M31 4HJ,T,N,F,3,,Ash Road,Partington,Manchester
+2025-10-24,275000,M31 4DT,T,N,F,2,,Hardwick Road,Partington,Manchester
+2025-10-21,257000,M31 4PP,S,N,L,86,,Lock Lane,Partington,Manchester
+2025-10-17,350000,M31 4SQ,D,N,F,4,,Nene Road,Partington,Manchester
+2025-10-13,299995,M31 4SW,S,Y,F,8,,Wharfe Road,Partington,Manchester
+2025-10-10,260000,M31 4RY,S,N,F,18,,Sparrow Street,Partington,Manchester
+2025-10-10,300000,M31 4PG,S,N,L,5,,Penrith Close,Partington,Manchester
+2025-10-03,240000,M31 4PA,S,N,L,33,,Lock Lane,Partington,Manchester
+2025-09-30,234090,M31 4BB,S,N,F,20,,St Georges Road,Carrington,Manchester
+2025-09-29,299995,M31 4TR,S,Y,F,2,,Jay Gardens,Partington,Manchester
+2025-09-29,289995,M31 4TQ,S,Y,F,60,,Magpie Lane,Partington,Manchester
+2025-09-29,307995,M31 4SW,S,Y,F,5,,Wharfe Road,Partington,Manchester
+2025-09-29,240000,M31 4BH,T,N,F,Holly Farm House,3,Isherwood Road,Carrington,Manchester
+2025-09-26,292995,M31 4TQ,S,Y,F,50,,Magpie Lane,Partington,Manchester
+2025-09-26,249995,M31 4TP,S,Y,F,29,,Plover Way,Partington,Manchester
+2025-09-26,187500,M31 4PP,S,N,L,38,,Lock Lane,Partington,Manchester
+2025-09-26,218500,M31 4ED,S,N,F,20,,Hallcroft,Partington,Manchester
+2025-09-19,130000,M31 4TB,T,N,L,18,,Poppy Street,Partington,Manchester
+2025-09-19,245000,M31 4NT,T,N,L,2,,Hankinson Close,Partington,Manchester
+2025-09-19,185000,M31 4JE,T,N,F,10,,Tulip Road,Partington,Manchester
+2025-09-15,274000,M31 4AW,T,N,L,59,,Ackers Lane,Carrington,Manchester
+2025-09-12,265000,M31 4EU,S,N,L,36,,Cross Lane West,Partington,Manchester
+2025-09-08,200000,M31 4FA,T,N,F,96,,Moss Lane,Partington,Manchester
+2025-08-29,297995,M31 4TR,S,Y,F,1,,Jay Gardens,Partington,Manchester
+2025-08-29,287995,M31 4TQ,S,Y,F,62,,Magpie Lane,Partington,Manchester
+2025-08-29,233695,M31 4TQ,T,Y,F,39,,Magpie Lane,Partington,Manchester
+2025-08-29,241695,M31 4TQ,T,Y,F,37,,Magpie Lane,Partington,Manchester
+2025-08-29,247995,M31 4TQ,T,Y,F,35,,Magpie Lane,Partington,Manchester
+2025-08-22,235000,M31 4PW,S,N,L,152,,Lock Lane,Partington,Manchester
+2025-08-15,220000,M31 4PY,S,N,F,15,,Hall Lane,Partington,Manchester
+2025-08-11,210000,M31 4JB,S,N,F,2A,,Redbrook Road,Partington,Manchester
+2025-08-07,247995,M31 4TQ,S,Y,F,64,,Magpie Lane,Partington,Manchester
+2025-07-31,245995,M31 4TQ,S,Y,F,68,,Magpie Lane,Partington,Manchester
+2025-07-31,245995,M31 4TQ,S,Y,F,66,,Magpie Lane,Partington,Manchester
+2025-07-31,235995,M31 4TQ,T,Y,F,45,,Magpie Lane,Partington,Manchester
+2025-07-31,244995,M31 4TQ,T,Y,F,43,,Magpie Lane,Partington,Manchester
+2025-07-31,349995,M31 4SW,D,Y,F,9,,Wharfe Road,Partington,Manchester
+2025-07-31,334995,M31 4RU,S,Y,F,36,,Dunnock Road,Partington,Manchester
+2025-07-31,235000,M31 4GZ,T,N,F,6,,Blackthorn Walk,Partington,Manchester
+2025-07-31,222500,M31 4DT,S,N,F,18,,Hardwick Road,Partington,Manchester
+2025-07-29,225000,M31 4EQ,T,N,F,115,,Central Road,Partington,Manchester
+2025-07-25,179000,M31 4LF,T,N,F,79,,Oak Road,Partington,Manchester
+2025-07-25,215000,M31 4ER,T,N,F,12,,Cross Lane East,Partington,Manchester
+2025-07-24,102000,M31 4QX,S,N,L,8,,Aspen Place,Partington,Manchester
+2025-07-18,275000,M31 4DY,S,N,L,33,,Russell Road,Partington,Manchester
+2025-07-16,240000,M31 4EY,S,N,F,4,,Chapel Lane,Partington,Manchester
+2025-07-14,188000,M31 4JH,T,N,F,9,,Blossom Road,Partington,Manchester
+2025-07-14,169000,M31 4DN,S,N,F,19,,Bucklow Avenue,Partington,Manchester
+2025-07-10,210000,M31 4GB,S,N,L,16,,Dane Avenue,Partington,Manchester
+2025-07-04,248000,M31 4PU,S,N,L,27,,Elizabeth Road,Partington,Manchester
+2025-06-30,284995,M31 4TQ,S,Y,F,76,,Magpie Lane,Partington,Manchester
+2025-06-30,242995,M31 4TQ,S,Y,F,72,,Magpie Lane,Partington,Manchester
+2025-06-30,242995,M31 4TQ,S,Y,F,70,,Magpie Lane,Partington,Manchester
+2025-06-30,286995,M31 4TQ,S,Y,F,51,,Magpie Lane,Partington,Manchester
+2025-06-30,286995,M31 4TQ,S,Y,F,49,,Magpie Lane,Partington,Manchester
+2025-06-30,239495,M31 4TQ,T,Y,F,47,,Magpie Lane,Partington,Manchester
+2025-06-30,409995,M31 4SW,D,Y,F,7,,Wharfe Road,Partington,Manchester
+2025-06-30,349995,M31 4SW,D,Y,F,6,,Wharfe Road,Partington,Manchester
+2025-06-30,354995,M31 4SW,D,Y,F,4,,Wharfe Road,Partington,Manchester
+2025-06-30,349995,M31 4SU,D,Y,F,18,,Mersey Avenue,Partington,Manchester
+2025-06-30,370495,M31 4ST,D,Y,F,43,,Mersey Avenue,Partington,Manchester
+2025-06-27,294995,M31 4TP,S,Y,F,14,,Plover Way,Partington,Manchester
+2025-06-27,344995,M31 4SW,D,Y,F,1,,Wharfe Road,Partington,Manchester
+2025-06-27,394995,M31 4SU,D,Y,F,20,,Mersey Avenue,Partington,Manchester
+2025-06-27,304995,M31 4ST,S,Y,F,39,,Mersey Avenue,Partington,Manchester
+2025-06-27,334995,M31 4RU,S,Y,F,38,,Dunnock Road,Partington,Manchester
+2025-06-20,120000,M31 4TB,T,N,L,10,,Poppy Street,Partington,Manchester
+2025-06-20,304995,M31 4SW,S,Y,F,3,,Wharfe Road,Partington,Manchester
+2025-06-13,192000,M31 4DN,S,N,L,8,,Bucklow Avenue,Partington,Manchester
+2025-06-06,225000,M31 4GB,S,N,F,9,,Dane Avenue,Partington,Manchester
+2025-06-06,277000,M31 4BB,T,N,F,12,,St Georges Road,Carrington,Manchester
+2025-05-30,284995,M31 4TQ,S,Y,F,53,,Magpie Lane,Partington,Manchester
+2025-05-30,285950,M31 4PS,S,N,F,61,,Thirlmere Road,Partington,Manchester
+2025-05-30,267500,M31 4PR,S,N,F,59,,Thirlmere Road,Partington,Manchester
+2025-05-30,256000,M31 4BU,S,N,F,54,,Warburton Lane,Partington,Manchester
+2025-05-29,419995,M31 4SU,D,Y,F,14,,Mersey Avenue,Partington,Manchester
+2025-05-27,185000,M31 4LJ,T,N,F,4,,Hazel Walk,Partington,Manchester
+2025-05-16,274995,M31 4TQ,T,Y,F,8,,Magpie Lane,Partington,Manchester
+2025-05-09,215000,M31 4PU,S,N,L,17,,Elizabeth Road,Partington,Manchester
+2025-05-02,245000,M31 4WN,S,N,L,2,,Carmichael Close,Partington,Manchester
+2025-04-30,262500,M31 4NL,S,N,F,47,,Warburton Lane,Partington,Manchester
+2025-04-30,140000,M31 4NA,T,N,F,2,,Elderberry Walk,Partington,Manchester
+2025-04-28,284995,M31 4TQ,S,Y,F,12,,Magpie Lane,Partington,Manchester
+2025-04-28,354995,M31 4SU,D,Y,F,16,,Mersey Avenue,Partington,Manchester
+2025-04-28,297495,M31 4ST,S,Y,F,41,,Mersey Avenue,Partington,Manchester
+2025-04-25,329995,M31 4RU,D,Y,F,30,,Dunnock Road,Partington,Manchester
+2025-04-17,210000,M31 4DT,S,N,L,26,,Hardwick Road,Partington,Manchester
+2025-04-11,236500,M31 4DY,S,N,L,17,,Russell Road,Partington,Manchester
+2025-04-08,205000,M31 4BU,T,N,F,4,,Lyle Terrace,Partington,Manchester
+2025-04-07,282995,M31 4TP,S,Y,F,25,,Plover Way,Partington,Manchester
+2025-04-03,128000,M31 4NZ,F,N,L,1,Apartment 11,New William Close,Partington,Manchester
+2025-04-01,128000,M31 4EB,S,N,F,26,,Moss Lane,Partington,Manchester
+2025-03-31,237995,M31 4TP,S,Y,F,27,,Plover Way,Partington,Manchester
+2025-03-31,279995,M31 4TP,S,Y,F,23,,Plover Way,Partington,Manchester
+2025-03-31,239995,M31 4TP,S,Y,F,12,,Plover Way,Partington,Manchester
+2025-03-31,289995,M31 4SU,S,Y,F,48,,Mersey Avenue,Partington,Manchester
+2025-03-31,299995,M31 4ST,S,Y,F,51,,Mersey Avenue,Partington,Manchester
+2025-03-28,309995,M31 4TQ,D,Y,F,20,,Magpie Lane,Partington,Manchester
+2025-03-28,314995,M31 4TQ,D,Y,F,18,,Magpie Lane,Partington,Manchester
+2025-03-28,394995,M31 4SU,D,Y,F,46,,Mersey Avenue,Partington,Manchester
+2025-03-28,289995,M31 4ST,S,Y,F,53,,Mersey Avenue,Partington,Manchester
+2025-03-28,384995,M31 4ST,D,Y,F,45,,Mersey Avenue,Partington,Manchester
+2025-03-28,329995,M31 4RU,S,Y,F,34,,Dunnock Road,Partington,Manchester
+2025-03-28,247000,M31 4DZ,S,N,L,22,,Russell Road,Partington,Manchester
+2025-03-28,418500,M31 4AA,T,N,F,6,,Ackers Barn Courtyard,Carrington,Manchester
+2025-03-21,370495,M31 4SU,D,Y,F,56,,Mersey Avenue,Partington,Manchester
+2025-03-21,275000,M31 4PL,S,N,L,39,,Forest Gardens,Partington,Manchester
+2025-03-21,320000,M31 4AW,S,N,F,61,,Ackers Lane,Carrington,Manchester
+2025-03-20,223400,M31 4EJ,S,N,L,30,,The Willows,Partington,Manchester
+2025-03-14,329995,M31 4RU,S,Y,F,32,,Dunnock Road,Partington,Manchester
+2025-03-14,287200,M31 4NS,S,N,L,8,,Sheldon Close,Partington,Manchester
+2025-03-14,287200,M31 4NS,S,N,F,8,,Sheldon Close,Partington,Manchester
+2025-03-14,177700,M31 4ET,T,N,F,11,,Cross Lane West,Partington,Manchester
+2025-02-28,264995,M31 4TQ,T,Y,F,4,,Magpie Lane,Partington,Manchester
+2025-02-28,271315,M31 4TP,S,Y,F,21,,Plover Way,Partington,Manchester
+2025-02-28,354495,M31 4TP,D,Y,F,10,,Plover Way,Partington,Manchester
+2025-02-28,280000,M31 4PR,S,N,L,15,,Thirlmere Road,Partington,Manchester
+2025-02-24,275000,M31 4WZ,T,N,L,13,,Kinders Close,Carrington,Manchester
+2025-02-21,191000,M31 4FQ,T,N,F,22,,Cranberry Road,Partington,Manchester
+2025-02-21,205000,M31 4DE,T,N,L,11,,Queensway,Partington,Manchester
+2025-02-07,125000,M31 4PY,S,N,F,2,,Hall Lane,Partington,Manchester
+2025-02-07,195000,M31 4PL,S,N,L,44,,Forest Gardens,Partington,Manchester
+2025-01-31,170000,M31 4LB,S,N,F,33,,Cumberland Road,Partington,Manchester
+2025-01-31,185000,M31 4GT,T,N,F,6,,Wiltshire Road,Partington,Manchester
+2025-01-30,384995,M31 4SU,D,Y,F,78,,Mersey Avenue,Partington,Manchester
+2025-01-30,230000,M31 4LX,T,N,F,317,,Wood Lane,Partington,Manchester
+2025-01-29,160000,M31 4NH,S,N,F,9,,Patterdale Road,Partington,Manchester
+2025-01-22,182400,M31 4HJ,T,N,F,6,,Ash Road,Partington,Manchester
+2025-01-18,196000,M31 4FJ,T,N,F,8,,Broom Road,Partington,Manchester
+2025-01-17,172000,M31 4WG,T,N,F,4,,Woodland Terrace,Partington,Manchester
+2025-01-10,163750,M31 4FX,T,N,F,24,,Erskine Road,Partington,Manchester
+2024-12-20,364995,M31 4TQ,D,Y,F,14,,Magpie Lane,Partington,Manchester
+2024-12-20,277995,M31 4TP,S,Y,F,19,,Plover Way,Partington,Manchester
+2024-12-20,234995,M31 4TP,S,Y,F,17,,Plover Way,Partington,Manchester
+2024-12-20,234995,M31 4TP,S,Y,F,15,,Plover Way,Partington,Manchester
+2024-12-20,284995,M31 4ST,S,Y,F,47,,Mersey Avenue,Partington,Manchester
+2024-12-20,195000,M31 4PR,S,N,L,3,,Thirlmere Road,Partington,Manchester
+2024-12-18,165000,M31 4JB,T,N,F,4,,Redbrook Road,Partington,Manchester
+2024-12-18,165000,M31 4HR,T,N,F,9,,Lime Walk,Partington,Manchester
+2024-12-16,274995,M31 4TP,S,Y,F,13,,Plover Way,Partington,Manchester
+2024-12-16,274995,M31 4TP,S,Y,F,11,,Plover Way,Partington,Manchester
+2024-12-16,299995,M31 4ST,S,Y,F,49,,Mersey Avenue,Partington,Manchester
+2024-12-13,399995,M31 4SU,D,Y,F,44,,Mersey Avenue,Partington,Manchester
+2024-12-13,319995,M31 4SU,D,Y,F,36,,Mersey Avenue,Partington,Manchester
+2024-12-13,244995,M31 4SU,S,Y,F,28,,Mersey Avenue,Partington,Manchester
+2024-12-13,244995,M31 4SU,S,Y,F,26,,Mersey Avenue,Partington,Manchester
+2024-12-13,322995,M31 4SU,D,Y,F,24,,Mersey Avenue,Partington,Manchester
+2024-12-12,215000,M31 4EJ,S,N,L,4,,The Willows,Partington,Manchester
+2024-12-12,366000,M31 4DB,S,N,L,27,,River Lane,Partington,Manchester
+2024-12-11,141400,M31 4DJ,S,N,F,Broom Cottage,,Manchester Road,Partington,Manchester
+2024-12-06,180000,M31 4ED,T,N,F,33,,Hallcroft,Partington,Manchester
+2024-12-05,239995,M31 4SU,S,Y,F,30,,Mersey Avenue,Partington,Manchester
+2024-12-05,210000,M31 4JG,T,N,F,7,,Willow Road,Partington,Manchester
+2024-12-02,329995,M31 4SU,D,Y,F,34,,Mersey Avenue,Partington,Manchester
+2024-12-02,260000,M31 4LD,S,N,L,151,,Oak Road,Partington,Manchester
+2024-11-29,404995,M31 4TQ,D,Y,F,16,,Magpie Lane,Partington,Manchester
+2024-11-29,234995,M31 4TQ,S,Y,F,13,,Magpie Lane,Partington,Manchester
+2024-11-29,284995,M31 4TQ,S,Y,F,10,,Magpie Lane,Partington,Manchester
+2024-11-29,329995,M31 4SU,D,Y,F,38,,Mersey Avenue,Partington,Manchester
+2024-11-29,239995,M31 4SU,S,Y,F,32,,Mersey Avenue,Partington,Manchester
+2024-11-29,174000,M31 4JB,T,N,F,2,,Redbrook Road,Partington,Manchester
+2024-11-28,265000,M31 4WE,S,N,L,28,,Buttermere Road,Partington,Manchester
+2024-11-22,277995,M31 4TQ,S,Y,F,9,,Magpie Lane,Partington,Manchester
+2024-11-22,274995,M31 4TQ,S,N,F,7,,Magpie Lane,Partington,Manchester
+2024-11-22,234995,M31 4TQ,S,Y,F,11,,Magpie Lane,Partington,Manchester
+2024-11-22,379995,M31 4SU,D,Y,F,54,,Mersey Avenue,Partington,Manchester
+2024-11-08,231000,M31 4PF,S,N,F,4,,Grasmere Road,Partington,Manchester
+2024-11-08,115000,M31 4NZ,F,N,L,2,Apartment 19,New William Close,Partington,Manchester
+2024-11-08,212500,M31 4ND,S,N,F,14,,Wood Lane,Partington,Manchester
+2024-11-08,158000,M31 4EB,T,N,F,10,,Moss Lane,Partington,Manchester
+2024-10-31,272995,M31 4TQ,S,Y,F,5,,Magpie Lane,Partington,Manchester
+2024-10-31,272995,M31 4TQ,S,Y,F,3,,Magpie Lane,Partington,Manchester
+2024-10-31,272995,M31 4TQ,S,Y,F,1,,Magpie Lane,Partington,Manchester
+2024-10-31,269995,M31 4TP,S,Y,F,9,,Plover Way,Partington,Manchester
+2024-10-31,279995,M31 4TP,S,Y,F,8,,Plover Way,Partington,Manchester
+2024-10-25,165000,M31 4GL,T,N,F,4,,Saffron Walk,Partington,Manchester
+2024-10-21,334995,M31 4SU,D,Y,F,70,,Mersey Avenue,Partington,Manchester
+2024-10-18,215000,M31 4NE,T,N,L,36,,Langdale Road,Partington,Manchester
+2024-10-09,185000,M31 4FP,T,N,F,10,,Charlock Walk,Partington,Manchester
+2024-10-03,262500,M31 4QX,S,N,L,2,,Aspen Place,Partington,Manchester
+2024-09-30,259995,M31 4TQ,T,Y,F,6,,Magpie Lane,Partington,Manchester
+2024-09-30,309995,M31 4TQ,D,Y,F,2,,Magpie Lane,Partington,Manchester
+2024-09-30,239995,M31 4SU,S,Y,F,72,,Mersey Avenue,Partington,Manchester
+2024-09-30,329995,M31 4SU,D,Y,F,52,,Mersey Avenue,Partington,Manchester
+2024-09-30,299995,M31 4SU,S,Y,F,50,,Mersey Avenue,Partington,Manchester
+2024-09-30,259995,M31 4ST,S,Y,F,101,,Mersey Avenue,Partington,Manchester
+2024-09-27,364995,M31 4TP,D,Y,F,6,,Plover Way,Partington,Manchester
+2024-09-27,359995,M31 4TP,D,Y,F,4,,Plover Way,Partington,Manchester
+2024-09-27,269995,M31 4TP,S,Y,F,3,,Plover Way,Partington,Manchester
+2024-09-27,399995,M31 4TN,D,Y,F,7,,Sparrowhawk Grove,Partington,Manchester
+2024-09-27,259995,M31 4ST,S,Y,F,99,,Mersey Avenue,Partington,Manchester
+2024-09-26,329995,M31 4SU,D,Y,F,58,,Mersey Avenue,Partington,Manchester
+2024-09-26,340000,M31 4RG,T,N,L,1,,Ingle Nook Close,Carrington,Manchester
+2024-09-23,240000,M31 4BF,S,N,F,25,,Ackers Lane,Carrington,Manchester
+2024-09-12,165000,M31 4EU,S,N,L,36,,Cross Lane West,Partington,Manchester
+2024-09-09,230000,M31 4WE,S,N,L,2,,Buttermere Road,Partington,Manchester
+2024-09-02,264995,M31 4TP,S,Y,F,5,,Plover Way,Partington,Manchester
+2024-08-30,267995,M31 4TP,S,Y,F,7,,Plover Way,Partington,Manchester
+2024-08-30,294995,M31 4SU,S,Y,F,62,,Mersey Avenue,Partington,Manchester
+2024-08-30,329995,M31 4SU,D,Y,F,60,,Mersey Avenue,Partington,Manchester
+2024-08-29,299995,M31 4TP,D,Y,F,1,,Plover Way,Partington,Manchester
+2024-08-29,359995,M31 4TN,D,Y,F,3,,Sparrowhawk Grove,Partington,Manchester
+2024-08-29,264995,M31 4TN,S,Y,F,1,,Sparrowhawk Grove,Partington,Manchester
+2024-08-29,274995,M31 4RU,S,Y,F,28,,Dunnock Road,Partington,Manchester
+2024-08-23,329995,M31 4SU,D,Y,F,66,,Mersey Avenue,Partington,Manchester
+2024-08-23,205000,M31 4PA,S,N,F,21,,Lock Lane,Partington,Manchester
+2024-08-22,263500,M31 4PR,S,N,F,37,,Thirlmere Road,Partington,Manchester
+2024-08-22,335000,M31 4BD,S,N,F,110,,Manchester Road,Carrington,Manchester
+2024-08-21,268500,M31 4PP,S,N,L,84,,Lock Lane,Partington,Manchester
+2024-08-08,180000,M31 4FB,S,N,F,1,,Manchester Road,Partington,Manchester
+2024-07-31,192000,M31 4PS,S,N,F,75,,Thirlmere Road,Partington,Manchester
+2024-07-30,329995,M31 4SU,D,Y,F,68,,Mersey Avenue,Partington,Manchester
+2024-07-29,294995,M31 4SU,S,Y,F,64,,Mersey Avenue,Partington,Manchester
+2024-07-26,160000,M31 4WJ,T,N,F,22,,Warburton Lane,Partington,Manchester
+2024-07-25,140000,M31 4NZ,F,N,L,3,Apartment 22,New William Close,Partington,Manchester
+2024-07-19,250000,M31 4WN,S,N,L,4,,Carmichael Close,Partington,Manchester
+2024-07-19,240000,M31 4NL,T,N,L,43,,Warburton Lane,Partington,Manchester
+2024-07-19,260000,M31 4EY,S,N,F,18,,Chapel Lane,Partington,Manchester
+2024-07-12,247500,M31 4PP,D,N,L,24,,Lock Lane,Partington,Manchester
+2024-07-12,117500,M31 4NZ,F,N,L,1,Apartment 3,New William Close,Partington,Manchester
+2024-07-10,265000,M31 4WN,D,N,F,1,,Carmichael Close,Partington,Manchester
+2024-06-28,324995,M31 4SU,D,Y,F,86,,Mersey Avenue,Partington,Manchester
+2024-06-28,234995,M31 4SU,S,Y,F,84,,Mersey Avenue,Partington,Manchester
+2024-06-28,239995,M31 4SU,S,Y,F,82,,Mersey Avenue,Partington,Manchester
+2024-06-28,379995,M31 4SU,D,Y,F,80,,Mersey Avenue,Partington,Manchester
+2024-06-28,329995,M31 4SU,D,Y,F,76,,Mersey Avenue,Partington,Manchester
+2024-06-28,239995,M31 4SU,S,Y,F,74,,Mersey Avenue,Partington,Manchester
+2024-06-27,219995,M31 4ST,S,Y,F,113,,Mersey Avenue,Partington,Manchester
+2024-06-27,219995,M31 4ST,S,Y,F,111,,Mersey Avenue,Partington,Manchester
+2024-06-27,219996,M31 4ST,S,Y,F,109,,Mersey Avenue,Partington,Manchester
+2024-06-27,259995,M31 4ST,S,Y,F,105,,Mersey Avenue,Partington,Manchester
+2024-06-27,259995,M31 4ST,S,Y,F,103,,Mersey Avenue,Partington,Manchester
+2024-06-17,128000,M31 4TA,S,N,L,24,,Elderflower Way,Partington,Manchester
+2024-06-13,200000,M31 4PL,S,N,L,47,,Forest Gardens,Partington,Manchester
+2024-06-07,210000,M31 4BW,T,N,F,Station Cottages,3,Manchester Road,Partington,Manchester
+2024-05-31,190000,M31 4PW,S,N,F,126,,Lock Lane,Partington,Manchester
+2024-05-31,155000,M31 4NH,S,N,L,21,,Patterdale Road,Partington,Manchester
+2024-05-29,215000,M31 4PS,S,N,L,103,,Thirlmere Road,Partington,Manchester
+2024-05-29,180000,M31 4PP,S,N,F,64,,Lock Lane,Partington,Manchester
+2024-05-29,224000,M31 4DZ,S,N,L,28,,Russell Road,Partington,Manchester
+2024-05-24,399995,M31 4SU,D,Y,F,94,,Mersey Avenue,Partington,Manchester
+2024-05-24,295000,M31 4RG,S,N,L,5,,Ingle Nook Close,Carrington,Manchester
+2024-05-20,275000,M31 4BF,S,N,F,27,,Ackers Lane,Carrington,Manchester
+2024-05-19,165000,M31 4PU,S,N,L,26,,Elizabeth Road,Partington,Manchester
+2024-05-17,274000,M31 4WJ,S,N,F,42,,Warburton Lane,Partington,Manchester
+2024-05-16,175000,M31 4PY,S,N,F,16,,Hall Lane,Partington,Manchester
+2024-05-07,176000,M31 4HX,T,N,F,244,,Wood Lane,Partington,Manchester
+2024-05-03,257000,M31 4WE,S,N,L,24,,Buttermere Road,Partington,Manchester
+2024-04-26,175000,M31 4WT,T,N,F,7,,Westmorland Road,Partington,Manchester
+2024-04-24,195000,M31 4PF,T,N,L,41,,Grasmere Road,Partington,Manchester
+2024-04-24,170000,M31 4HR,T,N,F,3,,Lime Walk,Partington,Manchester
+2024-04-12,241500,M31 4PZ,S,N,F,28,,Inglewood Close,Partington,Manchester
+2024-04-11,210000,M31 4NF,S,N,F,19,,Buttermere Road,Partington,Manchester
+2024-04-05,330000,M31 4AY,D,N,F,Rose Cottage,,Manchester Road,Carrington,Manchester
+2024-03-28,399995,M31 4SU,D,Y,F,90,,Mersey Avenue,Partington,Manchester
+2024-03-27,220000,M31 4BQ,T,N,L,2,,Dean Close,Partington,Manchester
+2024-03-22,290000,M31 4WJ,S,N,F,36,,Warburton Lane,Partington,Manchester
+2024-03-22,175000,M31 4PE,T,N,F,5,,Garden Walk,Partington,Manchester
+2024-03-20,180000,M31 4NA,T,N,F,3,,Elderberry Walk,Partington,Manchester
+2024-02-29,324995,M31 4SU,D,Y,F,98,,Mersey Avenue,Partington,Manchester
+2024-02-29,334995,M31 4SU,D,Y,F,96,,Mersey Avenue,Partington,Manchester
+2024-02-29,399995,M31 4SU,D,Y,F,92,,Mersey Avenue,Partington,Manchester
+2024-02-29,374995,M31 4SU,D,Y,F,88,,Mersey Avenue,Partington,Manchester
+2024-02-22,225100,M31 4PP,S,N,L,82,,Lock Lane,Partington,Manchester
+2024-02-16,320000,M31 4RS,D,N,F,53,,Lapwing Close,Partington,Manchester
+2024-02-16,209000,M31 4JF,S,N,F,11,,Magnolia Close,Partington,Manchester
+2024-02-16,190000,M31 4FL,T,N,F,103,,Central Road,Partington,Manchester
+2024-02-16,294000,M31 4DH,S,N,F,7,,Broadway,Partington,Manchester
+2024-02-09,180000,M31 4HH,T,N,F,5,,Birch Road,Partington,Manchester
+2024-02-02,260000,M31 4WD,S,N,L,3,,Ennerdale Road,Partington,Manchester
+2024-02-02,270000,M31 4WD,S,N,L,11,,Ennerdale Road,Partington,Manchester
+2024-02-02,228000,M31 4DN,T,N,F,21,,Bucklow Avenue,Partington,Manchester
+2024-01-31,168000,M31 4EB,T,N,F,4,,Moss Lane,Partington,Manchester
+2024-01-18,110000,M31 4NZ,F,N,L,4,Apartment 24,New William Close,Partington,Manchester
+2024-01-12,180000,M31 4FP,T,N,F,5,,Charlock Walk,Partington,Manchester
+2023-12-19,284995,M31 4SH,S,Y,F,75,,Avon Lane,Partington,Manchester
+2023-12-19,272500,M31 4RH,S,N,L,3,,Maypole Close,Carrington,Manchester
+2023-12-08,324995,M31 4SH,D,Y,F,85,,Avon Lane,Partington,Manchester
+2023-12-08,332995,M31 4SH,D,Y,F,83,,Avon Lane,Partington,Manchester
+2023-12-08,319995,M31 4SH,D,Y,F,81,,Avon Lane,Partington,Manchester
+2023-12-08,274995,M31 4SH,S,Y,F,79,,Avon Lane,Partington,Manchester
+2023-12-08,260000,M31 4RJ,S,N,F,6,,Birchwood Drive,Partington,Manchester
+2023-12-08,145000,M31 4PF,S,N,L,2,,Grasmere Road,Partington,Manchester
+2023-12-07,225000,M31 4PW,S,N,L,156,,Lock Lane,Partington,Manchester
+2023-11-30,359995,M31 4SH,D,Y,F,89,,Avon Lane,Partington,Manchester
+2023-11-30,384995,M31 4SH,D,Y,F,87,,Avon Lane,Partington,Manchester
+2023-11-30,269995,M31 4SH,S,Y,F,77,,Avon Lane,Partington,Manchester
+2023-11-30,229995,M31 4SH,S,Y,F,71,,Avon Lane,Partington,Manchester
+2023-11-30,254995,M31 4SH,S,Y,F,67,,Avon Lane,Partington,Manchester
+2023-11-30,389995,M31 4SH,D,Y,F,60,,Avon Lane,Partington,Manchester
+2023-11-30,314995,M31 4SH,D,Y,F,58,,Avon Lane,Partington,Manchester
+2023-11-30,180000,M31 4DB,T,N,L,12,,River Lane,Partington,Manchester
+2023-11-29,229995,M31 4SH,S,Y,F,69,,Avon Lane,Partington,Manchester
+2023-11-24,270000,M31 4SE,S,N,F,18,,Isherwood Road,Carrington,Manchester
+2023-11-21,236000,M31 4PT,S,N,F,50,,Thirlmere Road,Partington,Manchester
+2023-11-21,247000,M31 4PA,S,N,L,11,,Lock Lane,Partington,Manchester
+2023-11-06,247000,M31 4NS,S,N,L,11,,Sheldon Close,Partington,Manchester
+2023-11-06,250000,M31 4BA,S,N,F,18A,,Stamford Road,Carrington,Manchester
+2023-11-03,330000,M31 4DP,D,N,F,1B,,Moss Lane,Partington,Manchester
+2023-10-30,249995,M31 4SH,S,Y,F,65,,Avon Lane,Partington,Manchester
+2023-10-27,284995,M31 4SR,S,Y,F,8,,Aire Road,Partington,Manchester
+2023-10-27,279995,M31 4SR,S,Y,F,4,,Aire Road,Partington,Manchester
+2023-10-13,132000,M31 4FX,T,N,F,16,,Erskine Road,Partington,Manchester
+2023-10-13,185000,M31 4AR,S,N,L,7,,Nursery Grove,Partington,Manchester
+2023-09-29,277995,M31 4SR,S,Y,F,5,,Aire Road,Partington,Manchester
+2023-09-29,319995,M31 4SR,D,Y,F,2,,Aire Road,Partington,Manchester
+2023-09-29,309995,M31 4SR,D,Y,F,1,,Aire Road,Partington,Manchester
+2023-09-25,289890,M31 4PP,D,N,F,90,,Lock Lane,Partington,Manchester
+2023-09-25,215000,M31 4EY,S,N,F,10,,Chapel Lane,Partington,Manchester
+2023-09-22,175000,M31 4HZ,S,N,F,362,,Wood Lane,Partington,Manchester
+2023-09-15,205000,M31 4PR,S,N,L,2,,Thirlmere Road,Partington,Manchester
+2023-08-31,279995,M31 4SS,S,Y,F,7,,Irwell Road,Partington,Manchester
+2023-08-31,379995,M31 4SH,D,Y,F,51,,Avon Lane,Partington,Manchester
+2023-08-31,219995,M31 4PP,S,N,F,94,,Lock Lane,Partington,Manchester
+2023-08-30,225000,M31 4JG,S,N,F,1,,Willow Road,Partington,Manchester
+2023-08-30,280000,M31 4DH,S,N,F,22,,Broadway,Partington,Manchester
+2023-08-25,185000,M31 4NB,T,N,F,6,,Snowberry Walk,Partington,Manchester
+2023-08-25,190000,M31 4DP,T,N,F,55,,Moss Lane,Partington,Manchester
+2023-08-11,217000,M31 4NL,S,N,L,37,,Warburton Lane,Partington,Manchester
+2023-08-10,210000,M31 4QX,T,N,L,9,,Aspen Place,Partington,Manchester
+2023-07-31,125000,M31 4TD,S,N,L,6,,Daffodil Close,Partington,Manchester
+2023-07-31,279995,M31 4SS,S,Y,F,6,,Irwell Road,Partington,Manchester
+2023-07-31,319995,M31 4SS,D,Y,F,3,,Irwell Road,Partington,Manchester
+2023-07-31,319995,M31 4SS,D,Y,F,2,,Irwell Road,Partington,Manchester
+2023-07-28,319995,M31 4SS,D,Y,F,5,,Irwell Road,Partington,Manchester
+2023-07-28,319995,M31 4SS,D,Y,F,4,,Irwell Road,Partington,Manchester
+2023-07-21,280000,M31 4BD,T,N,F,56,,Manchester Road,Carrington,Manchester
+2023-06-30,399995,M31 4SS,D,Y,F,8,,Irwell Road,Partington,Manchester
+2023-06-30,399995,M31 4SS,D,Y,F,1,,Irwell Road,Partington,Manchester
+2023-06-30,309995,M31 4SH,D,Y,F,57,,Avon Lane,Partington,Manchester
+2023-06-30,284995,M31 4SH,S,Y,F,55,,Avon Lane,Partington,Manchester
+2023-06-30,284995,M31 4SH,S,Y,F,53,,Avon Lane,Partington,Manchester
+2023-06-26,195000,M31 4BU,T,N,F,3,,Lyle Terrace,Partington,Manchester
+2023-06-14,162500,M31 4FG,T,N,F,8,,Columbine Walk,Partington,Manchester
+2023-06-07,185000,M31 4FG,T,N,F,11,,Columbine Walk,Partington,Manchester
+2023-05-26,249995,M31 4ST,D,N,F,127,,Mersey Avenue,Partington,Manchester
+2023-05-25,290000,M31 4PU,S,N,L,24,,Elizabeth Road,Partington,Manchester
+2023-05-19,160000,M31 4PJ,T,N,L,65,,Lock Lane,Partington,Manchester
+2023-05-19,100000,M31 4NZ,F,N,L,1,Apartment 9,New William Close,Partington,Manchester
+2023-05-09,410000,M31 4EY,D,N,F,2,,Chapel Lane,Partington,Manchester
+2023-05-02,164250,M31 4PE,T,N,L,11,,Garden Walk,Partington,Manchester
+2023-05-02,212000,M31 4EP,T,N,F,5,,Avens Road,Partington,Manchester
+2023-04-28,269995,M31 4SH,D,Y,F,63,,Avon Lane,Partington,Manchester
+2023-04-28,234995,M31 4SH,S,Y,F,61,,Avon Lane,Partington,Manchester
+2023-04-28,229995,M31 4SH,S,N,F,59,,Avon Lane,Partington,Manchester
+2023-04-12,180000,M31 4QE,T,N,F,207,,Lock Lane,Partington,Manchester
+2023-04-01,140000,M31 4DN,T,N,F,21,,Bucklow Avenue,Partington,Manchester
+2023-03-31,218500,M31 4GJ,S,N,L,12,,Constance Road,Partington,Manchester
+2023-03-31,180000,M31 4EJ,S,N,L,5,,The Willows,Partington,Manchester
+2023-03-31,155000,M31 4DE,T,N,L,11,,Queensway,Partington,Manchester
+2023-03-31,278500,M31 4AR,D,N,L,1,,Nursery Grove,Partington,Manchester
+2023-03-24,299995,M31 4SQ,D,Y,F,22,,Nene Road,Partington,Manchester
+2023-03-24,252995,M31 4SQ,S,Y,F,20,,Nene Road,Partington,Manchester
+2023-03-24,249995,M31 4SQ,S,Y,F,18,,Nene Road,Partington,Manchester
+2023-03-22,176250,M31 4RW,S,N,L,9,,Peregrine Close,Partington,Manchester
+2023-03-13,221500,M31 4DP,T,N,F,33,,Moss Lane,Partington,Manchester
+2023-03-03,190000,M31 4PR,S,N,L,16,,Thirlmere Road,Partington,Manchester
+2023-03-03,213995,M31 4PL,S,N,L,27,,Forest Gardens,Partington,Manchester
+2023-03-03,205000,M31 4BB,S,N,F,30,,St Georges Road,Carrington,Manchester
+2023-02-28,309995,M31 4SQ,D,Y,F,16,,Nene Road,Partington,Manchester
+2023-02-28,294995,M31 4SQ,D,Y,F,14,,Nene Road,Partington,Manchester
+2023-02-27,210000,M31 4ED,T,N,F,8,,Hallcroft,Partington,Manchester
+2023-02-20,150000,M31 4PY,S,N,F,4,,Hall Lane,Partington,Manchester
+2023-02-10,206550,M31 4PS,S,N,L,103,,Thirlmere Road,Partington,Manchester
+2023-02-03,450000,M31 4PU,S,N,L,31,,Elizabeth Road,Partington,Manchester
+2023-01-31,319995,M31 4SQ,D,Y,F,8,,Nene Road,Partington,Manchester
+2023-01-31,369995,M31 4SQ,D,Y,F,12,,Nene Road,Partington,Manchester
+2023-01-31,309995,M31 4SQ,D,Y,F,10,,Nene Road,Partington,Manchester
+2023-01-30,146300,M31 4PY,S,N,F,16,,Hall Lane,Partington,Manchester
+2023-01-27,359995,M31 4SQ,D,Y,F,6,,Nene Road,Partington,Manchester
+2023-01-24,175000,M31 4LT,T,N,F,29,,Wood Lane,Partington,Manchester
+2023-01-24,175000,M31 4GP,T,N,F,5,,Jasmine Walk,Partington,Manchester
+2023-01-20,185000,M31 4AR,S,N,L,6,,Nursery Grove,Partington,Manchester
+2023-01-17,240000,M31 4DB,S,N,L,8,,River Lane,Partington,Manchester
+2023-01-12,227000,M31 4PS,S,N,L,109,,Thirlmere Road,Partington,Manchester
+2023-01-11,137500,M31 4RZ,S,N,L,11,,Linnet Close,Partington,Manchester
+2022-12-21,293995,M31 4RW,D,Y,F,16,,Peregrine Close,Partington,Manchester
+2022-12-21,293995,M31 4RW,D,Y,F,15,,Peregrine Close,Partington,Manchester
+2022-12-21,255995,M31 4RW,D,Y,F,14,,Peregrine Close,Partington,Manchester
+2022-12-21,290000,M31 4RH,S,N,L,4,,Maypole Close,Carrington,Manchester
+2022-12-20,292000,M31 4DZ,S,N,L,24,,Russell Road,Partington,Manchester
+2022-12-19,289995,M31 4SQ,D,Y,F,2,,Nene Road,Partington,Manchester
+2022-12-16,178000,M31 4NP,T,N,F,9,,Rutland Road,Partington,Manchester
+2022-12-15,279995,M31 4SQ,D,Y,F,4,,Nene Road,Partington,Manchester
+2022-12-13,184995,M31 4RW,T,Y,F,19,,Peregrine Close,Partington,Manchester
+2022-12-12,191250,M31 4ER,T,N,F,2,,Cross Lane East,Partington,Manchester
+2022-12-09,275000,M31 4PU,S,N,L,1,,Elizabeth Road,Partington,Manchester
+2022-12-09,192000,M31 4JS,T,N,F,6,,Planetree Road,Partington,Manchester
+2022-12-06,186995,M31 4RW,T,Y,F,20,,Peregrine Close,Partington,Manchester
+2022-12-02,255995,M31 4RW,D,Y,F,17,,Peregrine Close,Partington,Manchester
+2022-12-02,220000,M31 4PT,S,N,L,84,,Thirlmere Road,Partington,Manchester
+2022-12-02,263000,M31 4PS,S,N,F,113,,Thirlmere Road,Partington,Manchester
+2022-11-30,186995,M31 4RW,T,Y,F,18,,Peregrine Close,Partington,Manchester
+2022-11-28,319995,M31 4RX,D,Y,F,9,,Skylark Drive,Partington,Manchester
+2022-11-24,170000,M31 4FZ,T,N,F,3,,Foxglove Walk,Partington,Manchester
+2022-11-15,161000,M31 4EB,T,N,F,32,,Moss Lane,Partington,Manchester
+2022-11-11,293995,M31 4RX,D,Y,F,11,,Skylark Drive,Partington,Manchester
+2022-11-07,255000,M31 4PL,S,N,L,25,,Forest Gardens,Partington,Manchester
+2022-10-31,290995,M31 4RX,D,Y,F,10,,Skylark Drive,Partington,Manchester
+2022-10-31,181995,M31 4RS,S,Y,F,16,,Lapwing Close,Partington,Manchester
+2022-10-31,304995,M31 4RS,D,Y,F,13,,Lapwing Close,Partington,Manchester
+2022-10-28,267500,M31 4WE,S,N,L,32,,Buttermere Road,Partington,Manchester
+2022-10-28,284995,M31 4RZ,D,Y,F,8,,Linnet Close,Partington,Manchester
+2022-10-28,287995,M31 4RZ,D,Y,F,6,,Linnet Close,Partington,Manchester
+2022-10-28,181995,M31 4RS,S,Y,F,17,,Lapwing Close,Partington,Manchester
+2022-10-28,181995,M31 4RS,S,Y,F,15,,Lapwing Close,Partington,Manchester
+2022-10-28,181995,M31 4RS,S,Y,F,14,,Lapwing Close,Partington,Manchester
+2022-10-28,145000,M31 4PE,T,N,L,4,,Garden Walk,Partington,Manchester
+2022-10-14,235000,M31 4BU,T,N,F,56,,Warburton Lane,Partington,Manchester
+2022-10-07,239000,M31 4QA,S,N,L,6,,Derwent Close,Partington,Manchester
+2022-10-07,130000,M31 4EQ,S,N,F,123,,Central Road,Partington,Manchester
+2022-10-03,150000,M31 4EB,S,N,F,38,,Moss Lane,Partington,Manchester
+2022-09-30,234995,M31 4SH,D,Y,F,2,,Avon Lane,Partington,Manchester
+2022-09-30,222950,M31 4SE,T,Y,F,48,,Isherwood Road,Carrington,Manchester
+2022-09-30,219950,M31 4SE,T,Y,F,46,,Isherwood Road,Carrington,Manchester
+2022-09-30,222950,M31 4SE,T,Y,F,44,,Isherwood Road,Carrington,Manchester
+2022-09-30,220995,M31 4RZ,S,Y,F,4,,Linnet Close,Partington,Manchester
+2022-09-30,224395,M31 4PP,T,Y,F,104,,Lock Lane,Partington,Manchester
+2022-09-30,209995,M31 4PP,T,N,F,102,,Lock Lane,Partington,Manchester
+2022-09-30,220000,M31 4PN,S,N,F,15,,Daniel Adamson Avenue,Partington,Manchester
+2022-09-30,215000,M31 4EQ,S,N,F,140,,Central Road,Partington,Manchester
+2022-09-29,187995,M31 4PP,S,N,F,98,,Lock Lane,Partington,Manchester
+2022-09-29,219995,M31 4PP,T,N,F,100,,Lock Lane,Partington,Manchester
+2022-09-27,184995,M31 4PP,S,N,F,96,,Lock Lane,Partington,Manchester
+2022-09-26,242000,M31 4PZ,S,N,F,11,,Inglewood Close,Partington,Manchester
+2022-09-23,201000,M31 4DT,T,N,F,4,,Hardwick Road,Partington,Manchester
+2022-09-16,220995,M31 4RZ,S,Y,F,2,,Linnet Close,Partington,Manchester
+2022-09-16,155000,M31 4LY,T,N,F,7,,Cedar Road,Partington,Manchester
+2022-09-16,195000,M31 4DT,T,N,F,42,,Hardwick Road,Partington,Manchester
+2022-09-15,254950,M31 4TE,D,Y,F,505,,Porta Road,Carrington,Manchester
+2022-09-15,130000,M31 4EP,T,N,F,8,,Avens Road,Partington,Manchester
+2022-09-13,195000,M31 4PP,S,N,L,78,,Lock Lane,Partington,Manchester
+2022-09-09,144950,M31 4TE,D,Y,F,503,,Porta Road,Carrington,Manchester
+2022-09-09,254950,M31 4TE,D,Y,F,501,,Porta Road,Carrington,Manchester
+2022-09-09,139950,M31 4SE,T,Y,F,70,,Isherwood Road,Carrington,Manchester
+2022-09-09,190000,M31 4FU,T,N,F,31,,Erskine Road,Partington,Manchester
+2022-08-31,130000,M31 4GL,T,N,F,3,,Saffron Walk,Partington,Manchester
+2022-08-26,175000,M31 4PZ,S,N,F,26,,Inglewood Close,Partington,Manchester
+2022-08-23,215500,M31 4NE,S,N,F,24,,Langdale Road,Partington,Manchester
+2022-08-19,153000,M31 4RG,S,N,L,20,,Ingle Nook Close,Carrington,Manchester
+2022-08-19,190000,M31 4HY,T,N,F,197,,Wood Lane,Partington,Manchester
+2022-08-12,130000,M31 4FQ,T,N,F,24,,Cranberry Road,Partington,Manchester
+2022-07-29,249950,M31 4SE,D,Y,F,66,,Isherwood Road,Carrington,Manchester
+2022-07-29,282995,M31 4RS,D,Y,F,12,,Lapwing Close,Partington,Manchester
+2022-07-21,258000,M31 4PR,S,N,F,39,,Thirlmere Road,Partington,Manchester
+2022-07-21,165000,M31 4JW,T,N,F,287,,Wood Lane,Partington,Manchester
+2022-07-15,110000,M31 4HX,T,N,F,250,,Wood Lane,Partington,Manchester
+2022-07-13,170000,M31 4EF,T,N,F,15,,Albinson Walk,Partington,Manchester
+2022-07-11,261000,M31 4DH,S,N,F,26,,Broadway,Partington,Manchester
+2022-07-08,255000,M31 4PL,S,N,L,39,,Forest Gardens,Partington,Manchester
+2022-07-07,216950,M31 4SE,S,Y,F,60,,Isherwood Road,Carrington,Manchester
+2022-07-05,160000,M31 4DT,T,N,F,2,,Hardwick Road,Partington,Manchester
+2022-07-01,209950,M31 4SE,S,Y,F,58,,Isherwood Road,Carrington,Manchester
+2022-07-01,209950,M31 4SE,S,Y,F,56,,Isherwood Road,Carrington,Manchester
+2022-07-01,256000,M31 4DL,S,N,L,6,,Orchard Avenue,Partington,Manchester
+2022-06-30,223995,M31 4RY,S,Y,F,18,,Sparrow Street,Partington,Manchester
+2022-06-30,223995,M31 4RS,S,Y,F,9,,Lapwing Close,Partington,Manchester
+2022-06-30,232995,M31 4RS,S,Y,F,8,,Lapwing Close,Partington,Manchester
+2022-06-30,282995,M31 4RS,D,Y,F,11,,Lapwing Close,Partington,Manchester
+2022-06-30,247995,M31 4RS,D,Y,F,10,,Lapwing Close,Partington,Manchester
+2022-06-30,240000,M31 4NL,S,N,L,49,,Warburton Lane,Partington,Manchester
+2022-06-29,220995,M31 4RY,S,Y,F,16,,Sparrow Street,Partington,Manchester
+2022-06-29,275995,M31 4RY,D,Y,F,14,,Sparrow Street,Partington,Manchester
+2022-06-29,275995,M31 4RY,D,Y,F,12,,Sparrow Street,Partington,Manchester
+2022-06-29,223995,M31 4RY,S,Y,F,10,,Sparrow Street,Partington,Manchester
+2022-06-29,224400,M31 4RX,S,Y,F,6,,Skylark Drive,Partington,Manchester
+2022-06-24,120500,M31 4NZ,F,N,L,1,Apartment 11,New William Close,Partington,Manchester
+2022-06-23,229950,M31 4SF,S,Y,F,1,,Cypress Gardens,Carrington,Manchester
+2022-06-23,304950,M31 4SE,D,Y,F,54,,Isherwood Road,Carrington,Manchester
+2022-06-17,204950,M31 4SE,S,Y,F,18,,Isherwood Road,Carrington,Manchester
+2022-06-10,219995,M31 4RX,S,Y,F,7,,Skylark Drive,Partington,Manchester
+2022-06-10,210000,M31 4PZ,T,N,F,35,,Inglewood Close,Partington,Manchester
+2022-06-10,105000,M31 4LJ,T,N,F,9,,Hazel Walk,Partington,Manchester
+2022-06-09,217995,M31 4RX,S,Y,F,8,,Skylark Drive,Partington,Manchester
+2022-06-06,156000,M31 4WG,T,N,F,2,,Woodland Terrace,Partington,Manchester
+2022-05-27,210000,M31 4QX,T,N,L,11,,Aspen Place,Partington,Manchester
+2022-05-20,270000,M31 4PS,S,N,L,93,,Thirlmere Road,Partington,Manchester
+2022-05-20,125000,M31 4PE,T,N,F,3,,Garden Walk,Partington,Manchester
+2022-05-09,237500,M31 4PR,S,N,L,21,,Thirlmere Road,Partington,Manchester
+2022-04-29,272995,M31 4RY,D,N,F,4,,Sparrow Street,Partington,Manchester
+2022-04-27,230000,M31 4WD,S,N,L,12,,Ennerdale Road,Partington,Manchester
+2022-04-27,207995,M31 4RY,S,N,F,2,,Sparrow Street,Partington,Manchester
+2022-04-27,216000,M31 4DN,S,N,F,43,,Bucklow Avenue,Partington,Manchester
+2022-04-26,175000,M31 4HH,T,N,F,8,,Birch Road,Partington,Manchester
+2022-04-25,267500,M31 4WF,S,N,F,7,,Langdale Road,Partington,Manchester
+2022-04-14,279995,M31 4RY,D,N,F,6,,Sparrow Street,Partington,Manchester
+2022-04-14,230000,M31 4PU,S,N,L,9,,Elizabeth Road,Partington,Manchester
+2022-04-14,270000,M31 4AW,S,N,F,55,,Ackers Lane,Carrington,Manchester
+2022-04-08,182225,M31 4ET,T,N,F,16,,Cross Lane West,Partington,Manchester
+2022-04-06,130000,M31 4PE,T,N,L,10,,Garden Walk,Partington,Manchester
+2022-04-05,180000,M31 4LF,S,N,F,77,,Oak Road,Partington,Manchester
+2022-03-31,193950,M31 4SF,S,Y,F,7,,Cypress Gardens,Carrington,Manchester
+2022-03-31,196950,M31 4SF,S,Y,F,6,,Cypress Gardens,Carrington,Manchester
+2022-03-31,169950,M31 4SF,S,Y,F,5,,Cypress Gardens,Carrington,Manchester
+2022-03-31,165950,M31 4SF,S,Y,F,4,,Cypress Gardens,Carrington,Manchester
+2022-03-31,165950,M31 4SF,S,Y,F,3,,Cypress Gardens,Carrington,Manchester
+2022-03-31,171950,M31 4SF,S,Y,F,2,,Cypress Gardens,Carrington,Manchester
+2022-03-31,245995,M31 4RY,D,Y,F,8,,Sparrow Street,Partington,Manchester
+2022-03-31,214995,M31 4RX,S,Y,F,5,,Skylark Drive,Partington,Manchester
+2022-03-31,214995,M31 4RX,S,Y,F,4,,Skylark Drive,Partington,Manchester
+2022-03-31,235000,M31 4EA,S,N,F,103,,Moss Lane,Partington,Manchester
+2022-03-25,272995,M31 4RX,D,Y,F,3,,Skylark Drive,Partington,Manchester
+2022-03-18,210000,M31 4DL,S,N,L,31,,Orchard Avenue,Partington,Manchester
+2022-03-17,265000,M31 4QA,S,N,L,4,,Derwent Close,Partington,Manchester
+2022-03-17,169950,M31 4DE,T,N,L,17,,Queensway,Partington,Manchester
+2022-03-11,243500,M31 4DY,S,N,L,7,,Russell Road,Partington,Manchester
+2022-02-28,272995,M31 4RX,D,Y,F,2,,Skylark Drive,Partington,Manchester
+2022-02-25,209950,M31 4SF,S,Y,F,9,,Cypress Gardens,Carrington,Manchester
+2022-02-25,187950,M31 4SE,S,Y,F,16,,Isherwood Road,Carrington,Manchester
+2022-02-25,189950,M31 4SE,S,Y,F,14,,Isherwood Road,Carrington,Manchester
+2022-02-25,226995,M31 4RS,S,Y,F,7,,Lapwing Close,Partington,Manchester
+2022-02-25,220000,M31 4BD,T,N,F,Hall Cottages,3,Manchester Road,Carrington,Manchester
+2022-02-23,150000,M31 4DX,T,N,F,19,,Moss View Road,Partington,Manchester
+2022-02-17,189950,M31 4SE,S,Y,F,12,,Isherwood Road,Carrington,Manchester
+2022-01-31,164000,M31 4DT,T,N,F,22,,Hardwick Road,Partington,Manchester
+2022-01-18,201000,M31 4PY,S,N,L,15,,Hall Lane,Partington,Manchester
+2022-01-12,170000,M31 4ED,D,N,F,6,,Hallcroft,Partington,Manchester
+2021-12-22,229995,M31 4RS,S,Y,F,50,,Lapwing Close,Partington,Manchester
+2021-12-20,225995,M31 4RS,D,Y,F,53,,Lapwing Close,Partington,Manchester
+2021-12-20,257995,M31 4RS,D,Y,F,52,,Lapwing Close,Partington,Manchester
+2021-12-20,199995,M31 4RS,S,Y,F,51,,Lapwing Close,Partington,Manchester
+2021-12-17,207995,M31 4RU,S,N,F,1,,Dunnock Road,Partington,Manchester
+2021-12-17,222995,M31 4RS,S,Y,F,6,,Lapwing Close,Partington,Manchester
+2021-12-17,200000,M31 4PX,T,N,F,12,,Lock Lane,Partington,Manchester
+2021-12-17,160000,M31 4EX,T,N,F,2,,Verbena Close,Partington,Manchester
+2021-12-17,327500,M31 4DB,S,N,F,27,,River Lane,Partington,Manchester
+2021-12-10,169995,M31 4RS,S,Y,F,3,,Lapwing Close,Partington,Manchester
+2021-12-10,172995,M31 4RS,S,Y,F,2,,Lapwing Close,Partington,Manchester
+2021-12-10,190000,M31 4PZ,S,N,F,5,,Inglewood Close,Partington,Manchester
+2021-12-03,205995,M31 4RS,S,Y,F,5,,Lapwing Close,Partington,Manchester
+2021-12-03,205995,M31 4RS,S,Y,F,4,,Lapwing Close,Partington,Manchester
+2021-11-30,140000,M31 4PB,T,N,L,7,,Meadow Walk,Partington,Manchester
+2021-11-29,298995,M31 4DH,D,Y,F,80,,Broadway,Partington,Manchester
+2021-11-26,250000,M31 4PU,S,N,L,8,,Elizabeth Road,Partington,Manchester
+2021-11-26,150000,M31 4LB,S,N,F,33,,Cumberland Road,Partington,Manchester
+2021-11-26,170000,M31 4AR,S,N,L,4,,Nursery Grove,Partington,Manchester
+2021-11-22,265995,M31 4DH,D,Y,F,78,,Broadway,Partington,Manchester
+2021-11-17,234950,M31 4QX,S,N,L,2,,Aspen Place,Partington,Manchester
+2021-10-29,220995,M31 4RS,S,Y,F,1,,Lapwing Close,Partington,Manchester
+2021-10-29,264999,M31 4PG,S,N,L,8,,Penrith Close,Partington,Manchester
+2021-10-29,199995,M31 4DH,S,Y,F,76,,Broadway,Partington,Manchester
+2021-10-29,199995,M31 4DH,S,Y,F,74,,Broadway,Partington,Manchester
+2021-10-27,199950,M31 4DH,S,Y,F,72,,Broadway,Partington,Manchester
+2021-10-22,215995,M31 4RS,S,Y,F,54,,Lapwing Close,Partington,Manchester
+2021-10-22,227500,M31 4PT,S,N,F,68,,Thirlmere Road,Partington,Manchester
+2021-10-22,199995,M31 4DH,S,Y,F,70,,Broadway,Partington,Manchester
+2021-10-15,80500,M31 4NZ,F,N,L,3,Apartment 23,New William Close,Partington,Manchester
+2021-10-15,199995,M31 4DH,S,Y,F,68,,Broadway,Partington,Manchester
+2021-10-01,220000,M31 4WN,S,N,L,14,,Carmichael Close,Partington,Manchester
+2021-10-01,220000,M31 4WN,S,N,F,14,,Carmichael Close,Partington,Manchester
+2021-10-01,152000,M31 4JF,T,N,F,6,,Magnolia Close,Partington,Manchester
+2021-09-30,181000,M31 4JB,S,N,F,2C,,Redbrook Road,Partington,Manchester
+2021-09-30,214000,M31 4GJ,S,N,F,2,,Constance Road,Partington,Manchester
+2021-09-30,199995,M31 4DH,S,Y,F,66,,Broadway,Partington,Manchester
+2021-09-29,153000,M31 4ED,T,N,F,4,,Hallcroft,Partington,Manchester
+2021-09-28,197000,M31 4GJ,S,N,L,4,,Constance Road,Partington,Manchester
+2021-09-27,186000,M31 4EY,S,N,F,10,,Chapel Lane,Partington,Manchester
+2021-09-24,118000,M31 4JW,T,N,F,287,,Wood Lane,Partington,Manchester
+2021-09-24,195000,M31 4DW,T,N,F,4,,Worthington Avenue,Partington,Manchester
+2021-09-24,355050,M31 4BN,D,N,L,2,,Brook Farm Close,Partington,Manchester
+2021-09-20,188000,M31 4PZ,T,N,F,35,,Inglewood Close,Partington,Manchester
+2021-09-17,140000,M31 4JG,T,N,F,9,,Willow Road,Partington,Manchester
+2021-09-10,167000,M31 4LN,T,N,F,138,,Wood Lane,Partington,Manchester
+2021-09-10,265000,M31 4DH,S,N,F,32,,Broadway,Partington,Manchester
+2021-09-09,285000,M31 4NH,S,N,F,17,,Patterdale Road,Partington,Manchester
+2021-09-09,285000,M31 4NH,S,N,L,17,,Patterdale Road,Partington,Manchester
+2021-09-09,150000,M31 4ER,T,N,F,12,,Cross Lane East,Partington,Manchester
+2021-09-03,130000,M31 4EB,T,N,F,46,,Moss Lane,Partington,Manchester
+2021-08-27,124000,M31 4FZ,T,N,F,3,,Foxglove Walk,Partington,Manchester
+2021-08-20,189999,M31 4BA,S,N,F,18,,Stamford Road,Carrington,Manchester
+2021-08-12,215000,M31 4WD,S,N,L,5,,Ennerdale Road,Partington,Manchester
+2021-08-06,209995,M31 4RU,S,Y,F,2,,Dunnock Road,Partington,Manchester
+2021-08-06,145000,M31 4FF,T,N,F,11,,Cloudberry Walk,Partington,Manchester
+2021-08-05,145000,M31 4FD,T,N,F,7,,Furze Walk,Partington,Manchester
+2021-07-29,170000,M31 4FP,T,N,F,7,,Charlock Walk,Partington,Manchester
+2021-07-28,85000,M31 4EQ,T,N,F,125,,Central Road,Partington,Manchester
+2021-07-22,243000,M31 4AW,S,N,F,77,,Ackers Lane,Carrington,Manchester
+2021-07-16,78500,M31 4NZ,F,N,L,2,Apartment 16,New William Close,Partington,Manchester
+2021-07-16,227500,M31 4BF,S,N,F,27,,Ackers Lane,Carrington,Manchester
+2021-07-02,170000,M31 4DL,S,N,L,26,,Orchard Avenue,Partington,Manchester
+2021-06-30,289995,M31 4SA,D,Y,F,30,,Moss View Road,Partington,Manchester
+2021-06-30,254995,M31 4RU,D,Y,F,7,,Dunnock Road,Partington,Manchester
+2021-06-30,159995,M31 4RU,S,Y,F,5,,Dunnock Road,Partington,Manchester
+2021-06-30,132000,M31 4EB,S,N,L,28,,Moss Lane,Partington,Manchester
+2021-06-30,259000,M31 4DL,S,N,L,43,,Orchard Avenue,Partington,Manchester
+2021-06-28,279995,M31 4RU,D,Y,F,8,,Dunnock Road,Partington,Manchester
+2021-06-28,375000,M31 4AA,T,N,F,6,,Ackers Barn Courtyard,Carrington,Manchester
+2021-06-25,279995,M31 4RX,D,Y,F,1,,Skylark Drive,Partington,Manchester
+2021-06-25,299995,M31 4RU,D,Y,F,4,,Dunnock Road,Partington,Manchester
+2021-06-25,159995,M31 4RU,S,Y,F,3,,Dunnock Road,Partington,Manchester
+2021-06-25,206000,M31 4BU,T,N,F,52,,Warburton Lane,Partington,Manchester
+2021-06-24,299995,M31 4RU,D,Y,F,6,,Dunnock Road,Partington,Manchester
+2021-06-21,135000,M31 4DT,T,N,L,24,,Hardwick Road,Partington,Manchester
+2021-06-17,101750,M31 4QX,S,N,F,7,,Aspen Place,Partington,Manchester
+2021-06-17,165010,M31 4BQ,S,N,L,4,,Dean Close,Partington,Manchester
+2021-06-11,160000,M31 4EY,S,N,L,12,,Chapel Lane,Partington,Manchester
+2021-06-10,200000,M31 4RG,T,N,L,11,,Ingle Nook Close,Carrington,Manchester
+2021-06-10,205000,M31 4DL,S,N,L,47,,Orchard Avenue,Partington,Manchester
+2021-06-09,160000,M31 4HT,T,N,F,11,,Cheshire Road,Partington,Manchester
+2021-06-09,142000,M31 4HL,T,N,F,2,,Poplar Walk,Partington,Manchester
+2021-06-08,255000,M31 4QA,S,N,L,5,,Derwent Close,Partington,Manchester
+2021-06-01,156000,M31 4DE,T,N,L,19,,Queensway,Partington,Manchester
+2021-05-28,190000,M31 4PZ,D,N,F,21,,Inglewood Close,Partington,Manchester
+2021-05-28,225000,M31 4BA,S,N,F,18A,,Stamford Road,Carrington,Manchester
+2021-05-21,135000,M31 4FU,T,N,F,31,,Erskine Road,Partington,Manchester
+2021-05-14,225000,M31 4WZ,T,N,L,13,,Kinders Close,Carrington,Manchester
+2021-05-07,168000,M31 4DJ,T,N,F,42,,Manchester Road,Partington,Manchester
+2021-05-05,179000,M31 4PL,S,N,L,28,,Forest Gardens,Partington,Manchester
+2021-04-27,230000,M31 4EA,S,N,L,111,,Moss Lane,Partington,Manchester
+2021-04-26,163000,M31 4EA,S,N,L,87,,Moss Lane,Partington,Manchester
+2021-04-14,332000,M31 4AA,T,N,F,7,,Ackers Barn Courtyard,Carrington,Manchester
+2021-04-12,226500,M31 4DH,S,N,F,1,,Broadway,Partington,Manchester
+2021-04-08,165000,M31 4DR,S,N,F,6,,Davies Road,Partington,Manchester
+2021-04-06,133500,M31 4NF,T,N,L,47,,Buttermere Road,Partington,Manchester
+2021-03-31,75000,M31 4NZ,F,N,L,1,Apartment 2,New William Close,Partington,Manchester
+2021-03-31,124000,M31 4GW,T,N,F,3,,Yorkshire Road,Partington,Manchester
+2021-03-30,205000,M31 4PN,S,N,F,8,,Daniel Adamson Avenue,Partington,Manchester
+2021-03-12,200000,M31 4WD,S,N,L,13,,Ennerdale Road,Partington,Manchester
+2021-03-12,165000,M31 4FU,T,N,F,7,,Erskine Road,Partington,Manchester
+2021-03-09,125000,M31 4LW,T,N,F,69,,Wood Lane,Partington,Manchester
+2021-03-05,187000,M31 4PS,S,N,L,93,,Thirlmere Road,Partington,Manchester
+2021-03-03,203000,M31 4BQ,S,N,F,1,,Dean Close,Partington,Manchester
+2021-02-12,207000,M31 4RG,S,N,L,21,,Ingle Nook Close,Carrington,Manchester
+2021-02-12,133000,M31 4FB,T,N,L,30,,Manchester Road,Partington,Manchester
+2021-02-08,250000,M31 4NH,S,N,L,10,,Patterdale Road,Partington,Manchester
+2021-01-22,200000,M31 4NT,S,N,L,5,,Hankinson Close,Partington,Manchester

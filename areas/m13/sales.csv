@@ -1,0 +1,506 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-10,210000,M13 9DZ,F,N,L,100,Apartment 7,Stockport Road,,Manchester
+2026-07-31,175000,M13 9JP,F,N,L,98,Apartment 2,Devonshire Street South,,Manchester
+2026-07-31,335000,M13 9ER,T,N,L,14,,Aspull Walk,,Manchester
+2026-07-24,135000,M13 0SJ,S,N,F,59,,Slade Grove,,Manchester
+2026-07-23,184000,M13 9HY,F,N,L,79,,Devonshire Street South,,Manchester
+2026-07-15,129000,M13 0HY,F,N,L,"Victoria Terrace, 135 - 149",Flat 7,Hathersage Road,,Manchester
+2026-07-13,375000,M13 9JS,T,N,F,117,,Upper Brook Street,,Manchester
+2026-07-13,250000,M13 9HA,T,N,L,36,,Devonshire Street South,,Manchester
+2026-07-09,325000,M13 0PL,T,N,F,139,,Hamilton Road,,Manchester
+2026-07-03,88000,M13 0NN,F,N,L,"Surrey Lodge, 2 - 4",Flat 5,Birch Lane,,Manchester
+2026-06-30,191000,M13 0ZF,T,N,F,22,,Allingham Street,,Manchester
+2026-06-26,400000,M13 9HG,T,N,F,31,,Mawson Road,,Manchester
+2026-06-18,160000,M13 9ER,F,N,L,16,Apartment 5,Aspull Walk,,Manchester
+2026-06-05,235000,M13 9AD,T,N,L,51,,Winterford Avenue,,Manchester
+2026-05-29,290000,M13 9LS,T,N,F,10,,Abel Road,,Manchester
+2026-05-29,135000,M13 0TF,S,N,F,128,,Beresford Road,,Manchester
+2026-05-27,390000,M13 9NJ,T,N,F,12,,Sylvia Pankhurst Way,,Manchester
+2026-05-20,353000,M13 0GR,S,N,F,67,,Meldon Road,,Manchester
+2026-05-18,275000,M13 9DA,T,N,L,35,,Devonshire Street South,,Manchester
+2026-04-23,185000,M13 0QQ,T,N,F,5,,Norburn Road,,Manchester
+2026-04-08,180000,M13 9JP,F,N,L,68,,Devonshire Street South,,Manchester
+2026-04-07,118000,M13 0HY,F,N,L,"Victoria Terrace, 135 - 149",Flat 5,Hathersage Road,,Manchester
+2026-03-19,210000,M13 0SQ,T,N,F,2,,Albert Place,,Manchester
+2026-03-04,315000,M13 0XL,T,N,L,40,,Birch Hall Lane,,Manchester
+2026-02-25,250000,M13 0GU,S,N,F,63,,Duncan Road,,Manchester
+2026-02-24,275000,M13 0QN,T,N,F,34,,Hector Road,,Manchester
+2026-01-30,125000,M13 9BS,T,N,L,1,,Tarleton Street,,Manchester
+2026-01-23,260000,M13 0PT,T,N,F,32,,Reynell Road,,Manchester
+2026-01-15,141500,M13 0HY,F,N,L,"Victoria Terrace, 135 - 149",Flat 26,Hathersage Road,,Manchester
+2025-12-19,278000,M13 9AX,T,N,L,75,,Markfield Avenue,,Manchester
+2025-12-16,383000,M13 9UW,S,N,F,9,,Arley Moss Road,,Manchester
+2025-12-12,242500,M13 0PU,T,N,F,45,,Reynell Road,,Manchester
+2025-12-12,113000,M13 0NW,F,N,L,1 - 3,Apartment 9,Birch Lane,,Manchester
+2025-12-12,233000,M13 0GP,T,N,F,14,,Meller Road,,Manchester
+2025-12-11,285000,M13 0YD,S,N,F,4,,Alwyn Drive,,Manchester
+2025-11-21,269000,M13 0PY,T,N,F,6,,Turnbull Road,Longsight,Manchester
+2025-11-21,292000,M13 0JY,T,N,L,292,,Stockport Road,,Manchester
+2025-11-13,125000,M13 0PW,S,N,F,8,,Montgomery Road,,Manchester
+2025-11-07,295000,M13 0PW,S,N,F,33,,Montgomery Road,,Manchester
+2025-10-29,399000,M13 9NJ,T,N,F,10,,Sylvia Pankhurst Way,,Manchester
+2025-10-23,245000,M13 0TD,S,N,F,20,,Raincliff Avenue,,Manchester
+2025-10-14,170000,M13 0NQ,T,N,F,24,,Swayfield Avenue,,Manchester
+2025-10-10,80000,M13 0HX,F,N,L,"Melrose Apartments, 159",310,Hathersage Road,,Manchester
+2025-10-03,310000,M13 9GU,T,N,L,33,,Flixton Road,,Manchester
+2025-09-30,310000,M13 0TH,S,N,L,59,,Old Hall Lane,,Manchester
+2025-09-26,265000,M13 9HX,T,N,F,115,,Plymouth Grove,,Manchester
+2025-09-23,301000,M13 0TG,S,N,F,8,,Elsdon Road,,Manchester
+2025-09-19,225000,M13 0YG,T,N,F,56,,Greville Street,,Manchester
+2025-09-12,177500,M13 9DZ,F,N,L,100,Apartment 3,Stockport Road,,Manchester
+2025-09-12,80000,M13 0NN,F,N,L,"Surrey Lodge, 2 - 4",Flat 19,Birch Lane,,Manchester
+2025-09-09,160000,M13 0NS,T,N,F,1,,Holmfirth Street,,Manchester
+2025-09-05,270000,M13 9GQ,T,N,F,28,,Nevada Street,,Manchester
+2025-09-05,106500,M13 0NN,F,N,L,"Surrey Lodge, 2 - 4",Flat 11,Birch Lane,,Manchester
+2025-09-01,122600,M13 0QF,T,N,F,45,,Slade Grove,,Manchester
+2025-08-26,297000,M13 0SE,T,N,F,37,,Stamford Road,,Manchester
+2025-08-11,185000,M13 0SN,F,N,L,Stamford Court,Flat 11,Stamford Road,,Manchester
+2025-08-06,121000,M13 0HX,F,N,L,"Melrose Apartments, 159",217,Hathersage Road,,Manchester
+2025-07-25,385000,M13 9SF,T,N,F,13,,Oregon Close,,Manchester
+2025-07-25,200000,M13 0NG,T,N,F,312,,Dickenson Road,,Manchester
+2025-07-22,200000,M13 0ED,T,N,F,1,,Wheat Close,,Manchester
+2025-07-09,210000,M13 9SD,S,N,F,26,,Eastpark Close,,Manchester
+2025-07-08,212000,M13 0QG,T,N,F,8,,St Agnes Road,,Manchester
+2025-06-26,147450,M13 9HX,F,N,L,95,Flat 5,Plymouth Grove,,Manchester
+2025-06-20,350000,M13 9HP,T,N,L,13,,Guide Post Road,,Manchester
+2025-06-20,230000,M13 0WR,T,N,F,2,,Whiley Street,,Manchester
+2025-06-13,82000,M13 0SW,S,N,F,63,,Stamford Road,,Manchester
+2025-06-12,241000,M13 9AW,T,N,F,14,,Drybrook Close,,Manchester
+2025-06-06,225000,M13 0YR,S,N,F,3,,Greton Close,,Manchester
+2025-05-30,156972,M13 9HX,F,N,L,95,Flat 4,Plymouth Grove,,Manchester
+2025-05-30,156000,M13 9AE,F,N,L,52,,Markfield Avenue,,Manchester
+2025-05-30,270000,M13 0UT,S,N,F,27,,Craston Road,,Manchester
+2025-05-09,355000,M13 9ER,S,N,L,28,,Aspull Walk,,Manchester
+2025-05-06,215000,M13 9LU,S,N,L,85,,Plymouth Grove,,Manchester
+2025-04-25,130000,M13 0YR,F,N,L,18B,,Greton Close,,Manchester
+2025-04-07,300000,M13 9SY,T,N,F,74,,Kincardine Road,,Manchester
+2025-03-31,176000,M13 0NW,F,N,L,1 - 3,Apartment 27,Birch Lane,,Manchester
+2025-03-25,243000,M13 0WP,T,N,F,7,,Beresford Road,,Manchester
+2025-03-18,300000,M13 0PX,S,N,F,198,,Hamilton Road,,Manchester
+2025-03-14,365000,M13 9US,T,N,F,6,,Deanwater Close,,Manchester
+2025-03-14,350000,M13 9GE,T,N,L,32,,Denewell Avenue,,Manchester
+2025-03-14,205000,M13 0QF,T,N,F,32,,Slade Grove,,Manchester
+2025-03-14,140000,M13 0BY,F,N,L,20,,Hathersage Road,,Manchester
+2025-02-28,222500,M13 0BA,T,N,F,20,,East Grove,,Manchester
+2025-02-27,290000,M13 0JY,T,N,L,286,,Stockport Road,,Manchester
+2025-02-21,240000,M13 0TD,S,N,F,14,,Raincliff Avenue,,Manchester
+2025-02-20,230000,M13 0TD,S,N,F,9,,Raincliff Avenue,,Manchester
+2025-02-14,64000,M13 0SW,S,N,F,59,,Stamford Road,,Manchester
+2025-02-11,260000,M13 0TA,T,N,F,157,,Beresford Road,,Manchester
+2025-02-03,173000,M13 9AB,F,N,L,176,Apartment 8,Stockport Road,,Manchester
+2025-01-31,130000,M13 0HY,F,N,L,"Victoria Terrace, 135 - 149",Flat 2,Hathersage Road,,Manchester
+2025-01-31,210000,M13 0EL,T,N,F,19,,Welby Street,,Manchester
+2025-01-30,170000,M13 0QN,T,N,F,8,,Hector Road,,Manchester
+2025-01-29,177000,M13 9AB,F,N,L,190,Apartment 5,Stockport Road,,Manchester
+2025-01-24,250000,M13 0NL,T,N,F,2,,Penruddock Walk,,Manchester
+2025-01-21,250000,M13 9EL,T,N,L,35,,Beckhampton Close,,Manchester
+2025-01-10,280000,M13 0XS,S,N,F,8,,Telfer Road,,Manchester
+2024-12-20,127000,M13 0HY,F,N,L,"Victoria Terrace, 135 - 149",Flat 23,Hathersage Road,,Manchester
+2024-12-20,225000,M13 0AZ,T,N,F,11,,North Grove,,Manchester
+2024-12-10,205000,M13 0YG,T,N,F,56,,Greville Street,,Manchester
+2024-12-06,221500,M13 0AY,T,N,F,14,,West Grove,,Manchester
+2024-12-05,208000,M13 0EL,T,N,F,23,,Welby Street,,Manchester
+2024-12-02,285000,M13 0TL,T,N,F,46,,Old Hall Lane,,Manchester
+2024-11-29,203000,M13 9AN,T,N,F,7,,Royds Close,,Manchester
+2024-11-27,320000,M13 0EA,S,N,F,31,,Carmoor Road,,Manchester
+2024-11-22,180000,M13 9DA,F,N,L,23,,Devonshire Street South,,Manchester
+2024-11-19,480000,M13 0TX,S,N,L,15,,Hardon Grove,,Manchester
+2024-11-15,110000,M13 0UH,S,N,L,7,,Handforth Grove,,Manchester
+2024-11-08,175000,M13 0UH,S,N,L,11,,Handforth Grove,,Manchester
+2024-11-08,165000,M13 0HY,F,N,L,"Victoria Terrace, 135 - 149",Flat 9,Hathersage Road,,Manchester
+2024-11-05,225000,M13 0ZP,T,N,F,10,,Bankfield Avenue,,Manchester
+2024-10-25,275000,M13 9AX,T,N,L,51,,Markfield Avenue,,Manchester
+2024-10-23,180000,M13 9SY,T,N,F,107,,Kincardine Road,,Manchester
+2024-10-22,249000,M13 9AX,T,N,L,77,,Markfield Avenue,,Manchester
+2024-10-21,410000,M13 9NJ,T,N,F,32,,Sylvia Pankhurst Way,,Manchester
+2024-10-16,265000,M13 9UX,S,N,F,4,,Wadesmill Walk,,Manchester
+2024-10-14,235000,M13 0QF,T,N,F,11,,Slade Grove,,Manchester
+2024-10-01,225000,M13 0AY,T,N,F,20,,West Grove,,Manchester
+2024-09-30,165000,M13 9JQ,F,N,L,66,Apartment 4,Devonshire Street South,,Manchester
+2024-09-26,285000,M13 0QZ,S,N,F,60,,Copthorne Crescent,,Manchester
+2024-09-25,186500,M13 9HP,F,N,L,43,,Guide Post Road,,Manchester
+2024-09-23,109000,M13 9HD,T,N,F,4,,Harmony Square,,Manchester
+2024-09-13,167500,M13 9GD,F,N,L,39,Apartment 1,Greengage,,Manchester
+2024-09-10,354500,M13 9YX,T,N,L,11,,Hartfield Close,,Manchester
+2024-09-06,372500,M13 9UP,T,N,F,50,,Wadeson Road,,Manchester
+2024-09-06,265000,M13 0QU,S,N,L,97,,Clitheroe Road,,Manchester
+2024-08-07,200000,M13 0YQ,T,N,F,45,,Bankfield Avenue,,Manchester
+2024-08-02,173000,M13 9DA,F,N,L,73,,Devonshire Street South,,Manchester
+2024-07-22,200000,M13 0BB,T,N,F,15,,Upper West Grove,,Manchester
+2024-07-19,370000,M13 9UD,T,N,F,2,,Skerry Close,,Manchester
+2024-07-19,210000,M13 0ZF,T,N,F,26,,Allingham Street,,Manchester
+2024-06-28,305000,M13 9TF,S,N,F,3,,Haymans Walk,,Manchester
+2024-06-28,275000,M13 9JE,T,N,L,22,,Shakespeare Walk,,Manchester
+2024-06-28,235000,M13 0YE,S,N,L,32,,Clarence Road,,Manchester
+2024-06-28,285000,M13 0PZ,S,N,F,1,,Turnbull Road,Longsight,Manchester
+2024-06-28,270000,M13 0DR,T,N,F,6,,Thurlby Street,,Manchester
+2024-06-21,230000,M13 0PG,T,N,L,140,,Hamilton Road,,Manchester
+2024-06-19,227500,M13 0QU,S,N,F,57,,Clitheroe Road,,Manchester
+2024-06-14,120000,M13 0NW,F,N,L,1 - 3,Apartment 33,Birch Lane,,Manchester
+2024-06-07,370000,M13 9RP,S,N,F,1D,,Beamish Close,,Manchester
+2024-06-05,150000,M13 0UL,S,N,L,4,,Skelton Grove,,Manchester
+2024-05-17,345000,M13 9ER,T,N,L,12,,Aspull Walk,,Manchester
+2024-05-03,95000,M13 0WS,T,N,F,13,,Lincoln Street,,Manchester
+2024-04-30,370000,M13 9HG,T,N,F,39,,Mawson Road,,Manchester
+2024-04-18,220000,M13 0YG,T,N,F,58,,Greville Street,,Manchester
+2024-04-12,276200,M13 9AH,T,N,L,234,,Stockport Road,,Manchester
+2024-04-11,60000,M13 0NW,F,N,L,1 - 3,Apartment 37,Birch Lane,,Manchester
+2024-04-11,50000,M13 0NW,F,N,L,1 - 3,Apartment 2,Birch Lane,,Manchester
+2024-04-05,115000,M13 0QW,T,N,F,12,,Mentor Street,,Manchester
+2024-04-04,142500,M13 9GZ,F,N,L,212,Flat 5,Stockport Road,,Manchester
+2024-03-27,225000,M13 0QX,S,N,F,7,,Farrer Road,,Manchester
+2024-03-22,250000,M13 0PY,T,N,F,50,,Turnbull Road,Longsight,Manchester
+2024-03-19,300000,M13 0SG,T,N,L,24,,Meade Grove,,Manchester
+2024-02-29,238000,M13 9JE,T,N,L,16,,Shakespeare Walk,,Manchester
+2024-02-26,368000,M13 0XJ,S,N,F,23,,Birch Hall Lane,,Manchester
+2024-02-26,282500,M13 0GU,S,N,F,75,,Duncan Road,,Manchester
+2024-02-23,175000,M13 9JP,F,N,L,96,,Devonshire Street South,,Manchester
+2024-02-23,238000,M13 0DN,T,N,F,31,,Holker Close,,Manchester
+2024-02-21,290000,M13 0GY,S,N,F,20,,Brynton Road,,Manchester
+2024-02-16,125000,M13 0GY,S,N,F,21,,Brynton Road,,Manchester
+2024-02-14,125000,M13 0NW,F,N,L,1 - 3,Apartment 24,Birch Lane,,Manchester
+2024-02-09,112000,M13 0HX,F,N,L,"Melrose Apartments, 159",6,Hathersage Road,,Manchester
+2024-02-02,185000,M13 9HY,F,N,L,79,,Devonshire Street South,,Manchester
+2024-01-15,190000,M13 0QW,T,N,L,5,,Mentor Street,,Manchester
+2023-12-19,235000,M13 0TA,T,N,F,159,,Beresford Road,,Manchester
+2023-12-14,365000,M13 9UD,T,N,F,16,,Skerry Close,,Manchester
+2023-12-07,280000,M13 9DZ,T,N,L,118,,Stockport Road,,Manchester
+2023-12-06,200000,M13 0FN,T,N,F,60B,,Hathersage Road,,Manchester
+2023-12-04,315000,M13 0PZ,S,N,F,29,,Turnbull Road,Longsight,Manchester
+2023-11-24,120000,M13 0QN,T,N,F,27,,Hector Road,,Manchester
+2023-11-21,165000,M13 0NW,F,N,L,1 - 3,Apartment 22,Birch Lane,,Manchester
+2023-11-17,245000,M13 0SE,T,N,F,21,,Stamford Road,,Manchester
+2023-11-14,285000,M13 0TN,S,N,F,55,,Elsdon Road,,Manchester
+2023-11-13,180000,M13 9AE,F,N,L,72,,Markfield Avenue,,Manchester
+2023-11-08,63000,M13 0PP,S,N,F,21,,Buller Road,,Manchester
+2023-11-07,217000,M13 0QQ,T,N,F,22,,Norburn Road,,Manchester
+2023-11-02,275000,M13 9DP,S,N,L,23X,,Lauderdale Crescent,,Manchester
+2023-10-30,85000,M13 0GH,T,N,F,8,,Palm Street,,Manchester
+2023-10-26,220000,M13 0TP,S,N,F,18,,Roker Avenue,,Manchester
+2023-10-17,201600,M13 0QU,T,N,F,78,,Clitheroe Road,,Manchester
+2023-09-25,382000,M13 9PA,T,N,F,2,,Peace Road,,Manchester
+2023-09-18,170000,M13 0HY,F,N,L,"Victoria Terrace, 135 - 149",Flat 1,Hathersage Road,,Manchester
+2023-08-31,216000,M13 0WR,T,N,L,26,,Whiley Street,,Manchester
+2023-08-21,165000,M13 9HX,F,N,L,95,Flat 2,Plymouth Grove,,Manchester
+2023-08-18,355000,M13 9JS,T,N,L,145A,,Upper Brook Street,,Manchester
+2023-07-26,300000,M13 0PZ,S,N,F,13,,Turnbull Road,Longsight,Manchester
+2023-07-25,310000,M13 0PW,T,N,F,25,,Montgomery Road,,Manchester
+2023-07-18,143000,M13 9ER,F,N,L,16,Apartment 5,Aspull Walk,,Manchester
+2023-07-07,345000,M13 9HP,T,N,L,37,,Guide Post Road,,Manchester
+2023-07-07,320000,M13 9ER,S,N,L,28,,Aspull Walk,,Manchester
+2023-07-07,325000,M13 0EJ,T,N,F,35,,Hathersage Road,,Manchester
+2023-06-30,309995,M13 9XP,T,Y,F,20,,Cumbrian Close,,Manchester
+2023-06-30,307995,M13 9XP,T,Y,F,18,,Cumbrian Close,,Manchester
+2023-06-30,307995,M13 9XP,T,Y,F,16,,Cumbrian Close,,Manchester
+2023-06-30,359995,M13 9RQ,T,Y,F,21,,Glenbarry Close,,Manchester
+2023-06-29,307995,M13 9XP,T,Y,F,14,,Cumbrian Close,,Manchester
+2023-06-29,307995,M13 9XP,T,Y,F,12,,Cumbrian Close,,Manchester
+2023-06-29,349995,M13 9XP,T,Y,F,10,,Cumbrian Close,,Manchester
+2023-06-27,475000,M13 0GL,T,N,F,48,,Slade Lane,,Manchester
+2023-06-26,309995,M13 9PJ,T,Y,F,33,,Plymouth View,,Manchester
+2023-06-23,365995,M13 9PJ,T,Y,F,23,,Plymouth View,,Manchester
+2023-06-22,305000,M13 0JY,T,N,L,276,,Stockport Road,,Manchester
+2023-06-20,215000,M13 0BA,T,N,F,34,,East Grove,,Manchester
+2023-06-15,380000,M13 9JS,T,N,F,147,,Upper Brook Street,,Manchester
+2023-06-12,165000,M13 0GP,T,N,F,2,,Meller Road,,Manchester
+2023-06-02,140000,M13 0NW,F,N,L,1 - 3,Apartment 4,Birch Lane,,Manchester
+2023-05-31,277995,M13 9RQ,S,Y,F,19,,Glenbarry Close,,Manchester
+2023-05-31,277995,M13 9RQ,T,Y,F,17,,Glenbarry Close,,Manchester
+2023-05-26,29000,M13 0QQ,T,N,F,18,,Norburn Road,,Manchester
+2023-05-24,273000,M13 9XP,T,N,F,6,,Cumbrian Close,,Manchester
+2023-05-17,230000,M13 0SA,T,N,F,11A,,Portland Road,,Manchester
+2023-05-17,300000,M13 0RD,S,N,F,54,,Bexhill Drive,,Manchester
+2023-05-09,165000,M13 0XG,S,N,F,3,,Birchfields Avenue,,Manchester
+2023-05-05,108000,M13 0HY,F,N,L,"Victoria Terrace, 135 - 149",Flat 24,Hathersage Road,,Manchester
+2023-04-21,375000,M13 9NJ,T,N,F,21,,Sylvia Pankhurst Way,,Manchester
+2023-04-05,295000,M13 0TA,T,N,F,155,,Beresford Road,,Manchester
+2023-03-30,270000,M13 9GU,T,N,L,38,,Flixton Road,,Manchester
+2023-03-21,180000,M13 0NS,T,N,F,9,,Holmfirth Street,,Manchester
+2023-03-21,230000,M13 0AE,T,N,F,83,,Hamilton Road,,Manchester
+2023-03-20,367995,M13 9PJ,T,Y,F,21,,Plymouth View,,Manchester
+2023-03-17,368995,M13 9PJ,T,Y,F,45,,Plymouth View,,Manchester
+2023-03-17,346500,M13 9GE,T,N,L,19,,Denewell Avenue,,Manchester
+2023-03-16,160000,M13 9HA,F,N,L,22,,Devonshire Street South,,Manchester
+2023-03-14,150000,M13 0PS,T,N,F,11,,Campbell Road,,Manchester
+2023-03-13,85000,M13 0YQ,F,N,L,67A,,Bankfield Avenue,,Manchester
+2023-03-03,188000,M13 0NG,T,N,F,330,,Dickenson Road,,Manchester
+2023-02-27,309995,M13 9PJ,T,Y,F,35,,Plymouth View,,Manchester
+2023-02-24,275000,M13 9GZ,T,N,L,204,,Stockport Road,,Manchester
+2023-02-24,310000,M13 9DP,T,N,L,58A,,Lauderdale Crescent,,Manchester
+2023-02-20,290000,M13 9SA,T,N,L,18,,Oregon Close,,Manchester
+2023-02-20,270000,M13 0TN,T,N,F,63,,Elsdon Road,,Manchester
+2023-02-17,309995,M13 9PJ,T,Y,F,25,,Plymouth View,,Manchester
+2023-02-17,240000,M13 9EF,T,N,F,3,,Dulford Walk,,Manchester
+2023-02-17,180000,M13 0XA,T,N,F,15,,Beckfoot Drive,,Manchester
+2023-02-17,180000,M13 0XA,T,N,L,15,,Beckfoot Drive,,Manchester
+2023-02-15,275000,M13 9HQ,T,N,L,1,,Tupelo Street,,Manchester
+2023-02-10,367995,M13 9PJ,T,Y,F,47,,Plymouth View,,Manchester
+2023-02-10,309995,M13 9PJ,T,Y,F,37,,Plymouth View,,Manchester
+2023-02-06,110000,M13 0PU,T,N,F,47,,Reynell Road,,Manchester
+2023-01-31,238000,M13 9GT,S,N,F,12,,Holstein Street,,Manchester
+2023-01-27,309995,M13 9PJ,T,Y,F,41,,Plymouth View,,Manchester
+2023-01-27,195000,M13 0QF,T,N,F,17,,Slade Grove,,Manchester
+2023-01-23,309995,M13 9PJ,T,Y,F,39,,Plymouth View,,Manchester
+2023-01-20,309995,M13 9PJ,T,Y,F,43,,Plymouth View,,Manchester
+2023-01-20,205000,M13 0QQ,T,N,F,8,,Norburn Road,,Manchester
+2023-01-17,307995,M13 9PJ,T,Y,F,31,,Plymouth View,,Manchester
+2023-01-17,309995,M13 9PJ,T,Y,F,29,,Plymouth View,,Manchester
+2022-12-22,309995,M13 9PJ,T,Y,F,27,,Plymouth View,,Manchester
+2022-12-22,299995,M13 9JS,T,Y,F,117,,Upper Brook Street,,Manchester
+2022-12-21,349995,M13 9JS,T,Y,F,105,,Upper Brook Street,,Manchester
+2022-12-21,330000,M13 9JD,F,N,L,28,,Haymarket Street,,Manchester
+2022-12-21,137000,M13 0HY,F,N,L,"Victoria Terrace, 135 - 149",Flat 6,Hathersage Road,,Manchester
+2022-12-20,374995,M13 9JS,T,Y,F,99,,Upper Brook Street,,Manchester
+2022-12-20,299995,M13 9JS,T,Y,F,119,,Upper Brook Street,,Manchester
+2022-12-20,299995,M13 9JS,T,Y,F,115,,Upper Brook Street,,Manchester
+2022-12-20,299995,M13 9JS,T,Y,F,113,,Upper Brook Street,,Manchester
+2022-12-20,299995,M13 9JS,T,Y,F,109,,Upper Brook Street,,Manchester
+2022-12-20,349995,M13 9JS,T,Y,F,101,,Upper Brook Street,,Manchester
+2022-12-19,349995,M13 9JS,T,Y,F,107,,Upper Brook Street,,Manchester
+2022-12-16,299995,M13 9JS,T,Y,F,111,,Upper Brook Street,,Manchester
+2022-12-16,349995,M13 9JS,T,Y,F,103,,Upper Brook Street,,Manchester
+2022-12-16,172500,M13 9DA,F,N,L,75,Flat 3,Devonshire Street South,,Manchester
+2022-12-15,299995,M13 9JS,T,Y,F,121,,Upper Brook Street,,Manchester
+2022-12-14,374995,M13 9JS,T,Y,F,125B,,Upper Brook Street,,Manchester
+2022-12-14,349995,M13 9JS,T,Y,F,125A,,Upper Brook Street,,Manchester
+2022-12-14,349995,M13 9JS,T,Y,F,125,,Upper Brook Street,,Manchester
+2022-12-14,349995,M13 9JS,T,Y,F,123,,Upper Brook Street,,Manchester
+2022-12-09,364995,M13 9RQ,T,Y,F,4,,Glenbarry Close,,Manchester
+2022-12-06,297500,M13 9EZ,T,N,L,9,,Hitchen Street,,Manchester
+2022-11-30,320000,M13 9JD,T,N,F,21,,Haymarket Street,,Manchester
+2022-11-25,215000,M13 9DJ,T,N,L,18,,Torquay Close,,Manchester
+2022-11-23,250000,M13 0QX,S,N,F,26,,Farrer Road,,Manchester
+2022-11-18,215000,M13 9GG,T,N,L,27,,Sparrow Street,,Manchester
+2022-11-18,220000,M13 0PT,T,N,F,16,,Reynell Road,,Manchester
+2022-11-16,190000,M13 0ZF,T,N,F,19,,Allingham Street,,Manchester
+2022-11-14,271000,M13 9GG,T,N,L,10,,Sparrow Street,,Manchester
+2022-11-11,150000,M13 0SA,T,N,F,47,,Portland Road,,Manchester
+2022-11-09,250000,M13 9AX,T,N,L,83,,Markfield Avenue,,Manchester
+2022-11-04,367995,M13 9RQ,T,Y,F,2,,Glenbarry Close,,Manchester
+2022-11-03,360000,M13 9HG,T,N,F,31,,Mawson Road,,Manchester
+2022-11-02,366995,M13 9RQ,T,Y,F,10,,Glenbarry Close,,Manchester
+2022-10-31,361995,M13 9RQ,T,Y,F,6,,Glenbarry Close,,Manchester
+2022-10-31,369995,M13 9RQ,T,Y,F,14,,Glenbarry Close,,Manchester
+2022-10-28,364995,M13 9RQ,T,Y,F,8,,Glenbarry Close,,Manchester
+2022-10-28,369995,M13 9RQ,T,Y,F,16,,Glenbarry Close,,Manchester
+2022-10-28,364995,M13 9RQ,T,Y,F,12,,Glenbarry Close,,Manchester
+2022-10-27,264000,M13 0UR,T,N,F,23,,Whitburn Avenue,,Manchester
+2022-10-26,195000,M13 9FX,T,N,F,6,,Polygon Avenue,,Manchester
+2022-10-25,54000,M13 9ER,T,N,L,12,,Aspull Walk,,Manchester
+2022-10-24,175000,M13 0WW,T,N,F,71,,Birch Lane,,Manchester
+2022-10-07,225000,M13 0YP,T,N,F,49,,Ashfield Road,,Manchester
+2022-10-07,160000,M13 0WY,T,N,F,10,,Honor Street,,Manchester
+2022-10-07,170000,M13 0QN,T,N,F,38,,Hector Road,,Manchester
+2022-09-26,80000,M13 9TH,F,Y,L,52,,Helmshore Walk,,Manchester
+2022-09-22,104000,M13 0EL,T,N,F,9,,Welby Street,,Manchester
+2022-09-21,140500,M13 0TT,S,N,F,18,,Meldon Road,,Manchester
+2022-09-09,310000,M13 9DJ,T,N,L,2,,Torquay Close,,Manchester
+2022-09-09,215000,M13 0WX,T,N,F,10,,Southernby Close,,Manchester
+2022-09-06,100000,M13 0HX,F,N,L,"Melrose Apartments, 159",5,Hathersage Road,,Manchester
+2022-09-05,122500,M13 0HX,F,N,L,"Melrose Apartments, 159",413,Hathersage Road,,Manchester
+2022-08-31,100000,M13 9LQ,F,N,L,Q3 Apartments,Apartment D14,Hyde Grove,,Manchester
+2022-08-31,144990,M13 9GD,F,N,L,39,Apartment 5,Greengage,,Manchester
+2022-08-17,255000,M13 9UG,T,N,F,28,,Wadeson Road,,Manchester
+2022-08-16,235000,M13 0RP,T,N,F,25,,Rainforth Street,,Manchester
+2022-08-05,310000,M13 9DP,T,N,L,34,,Lauderdale Crescent,,Manchester
+2022-07-22,190000,M13 0YR,S,N,F,19,,Greton Close,,Manchester
+2022-07-18,226000,M13 9HY,T,N,F,117,,Devonshire Street South,,Manchester
+2022-07-18,170000,M13 0SJ,S,N,F,80,,Slade Grove,,Manchester
+2022-07-15,280000,M13 0XS,S,N,F,10,,Telfer Road,,Manchester
+2022-07-07,351359,M13 9LD,S,N,F,3,,Hanworth Close,,Manchester
+2022-07-07,210000,M13 9FL,T,N,L,2,,Jevington Walk,,Manchester
+2022-07-06,292000,M13 9RQ,T,N,F,15,,Glenbarry Close,,Manchester
+2022-07-05,100000,M13 0SW,T,N,F,81,,Stamford Road,,Manchester
+2022-06-30,334995,M13 9RP,D,Y,F,1G,,Beamish Close,,Manchester
+2022-06-30,254995,M13 9LS,T,Y,F,8,,Abel Road,,Manchester
+2022-06-30,249995,M13 9LS,T,Y,F,12,,Abel Road,,Manchester
+2022-06-30,249995,M13 9LS,T,Y,F,10,,Abel Road,,Manchester
+2022-06-30,262995,M13 9JY,T,Y,F,4,,Falcon Street,,Manchester
+2022-06-30,160500,M13 0ZW,T,N,F,40,,Ashfield Road,,Manchester
+2022-06-29,251995,M13 9LS,T,Y,F,18,,Abel Road,,Manchester
+2022-06-29,249995,M13 9LS,T,Y,F,16,,Abel Road,,Manchester
+2022-06-29,249995,M13 9LS,T,Y,F,14,,Abel Road,,Manchester
+2022-06-28,359995,M13 9YE,T,Y,F,20,,Bramwell Drive,,Manchester
+2022-06-28,359995,M13 9YE,T,Y,F,18,,Bramwell Drive,,Manchester
+2022-06-28,364995,M13 9YE,T,Y,F,16,,Bramwell Drive,,Manchester
+2022-06-22,220000,M13 9EL,T,N,L,33,,Beckhampton Close,,Manchester
+2022-06-17,364995,M13 9YE,T,N,F,22,,Bramwell Drive,,Manchester
+2022-06-17,350000,M13 0PL,T,N,F,151,,Hamilton Road,,Manchester
+2022-06-10,95000,M13 0PU,T,N,F,9,,Reynell Road,,Manchester
+2022-06-08,359995,M13 9YE,S,Y,F,24,,Bramwell Drive,,Manchester
+2022-06-01,115000,M13 0TT,T,N,F,24,,Meldon Road,,Manchester
+2022-05-31,354995,M13 9YE,S,Y,F,26,,Bramwell Drive,,Manchester
+2022-05-31,269995,M13 9JY,T,Y,F,16,,Falcon Street,,Manchester
+2022-05-27,290000,M13 0XR,T,N,F,26,,Birchfields Road,,Manchester
+2022-05-23,170000,M13 0SA,T,N,F,44,,Portland Road,,Manchester
+2022-05-20,120000,M13 0HY,F,N,L,"Victoria Terrace, 135 - 149",Flat 7,Hathersage Road,,Manchester
+2022-05-18,187000,M13 9SD,T,N,F,16,,Eastpark Close,,Manchester
+2022-05-18,120000,M13 0EU,S,N,F,28,,Swinton Grove,,Manchester
+2022-05-16,135000,M13 0QF,T,N,F,38,,Slade Grove,,Manchester
+2022-05-10,170000,M13 9AB,F,N,L,176,Apartment 10,Stockport Road,,Manchester
+2022-05-10,268000,M13 0YL,T,N,F,264,,Dickenson Road,,Manchester
+2022-05-04,264995,M13 9JY,T,Y,F,8,,Falcon Street,,Manchester
+2022-04-29,315995,M13 9SF,T,Y,F,19,,Oregon Close,,Manchester
+2022-04-29,315995,M13 9SF,T,Y,F,17,,Oregon Close,,Manchester
+2022-04-29,324995,M13 9NJ,T,Y,F,28,,Sylvia Pankhurst Way,,Manchester
+2022-04-29,134000,M13 0HX,F,N,L,"Melrose Apartments, 159",112,Hathersage Road,,Manchester
+2022-04-28,200000,M13 9UQ,T,N,F,6,,Brownslow Walk,,Manchester
+2022-04-28,267000,M13 0PR,T,N,F,12,,Campbell Road,,Manchester
+2022-04-26,319995,M13 9SF,T,N,F,11,,Oregon Close,,Manchester
+2022-04-26,125000,M13 0WY,T,N,F,20,,Honor Street,,Manchester
+2022-04-25,315995,M13 9SF,T,N,F,15,,Oregon Close,,Manchester
+2022-04-25,315995,M13 9SF,T,Y,F,13,,Oregon Close,,Manchester
+2022-04-22,264995,M13 9JY,T,Y,F,12,,Falcon Street,,Manchester
+2022-04-12,264995,M13 9JY,T,Y,F,14,,Falcon Street,,Manchester
+2022-04-08,300000,M13 9JB,T,N,F,18,,Marshfield Street,,Manchester
+2022-04-08,200000,M13 9DJ,T,N,L,10,,Torquay Close,,Manchester
+2022-04-07,80000,M13 9AP,T,N,F,8,,Walcott Close,,Manchester
+2022-04-06,270000,M13 0QU,S,N,F,60,,Clitheroe Road,,Manchester
+2022-04-04,240000,M13 0YD,S,N,F,5,,Alwyn Drive,,Manchester
+2022-03-31,129500,M13 9UY,F,N,L,Silkin Court,Flat 28,Silkin Close,,Manchester
+2022-03-31,272995,M13 9SY,S,N,F,74A,,Kincardine Road,,Manchester
+2022-03-31,272995,M13 9SY,S,N,F,72A,,Kincardine Road,,Manchester
+2022-03-30,205000,M13 0QG,T,N,F,4,,St Agnes Road,,Manchester
+2022-03-29,115000,M13 0HY,F,N,L,"Victoria Terrace, 135 - 149",Flat 2,Hathersage Road,,Manchester
+2022-03-22,130000,M13 9GG,T,N,L,4,,Sparrow Street,,Manchester
+2022-03-22,130000,M13 9GG,T,N,L,2,,Sparrow Street,,Manchester
+2022-03-18,175000,M13 9UG,T,N,F,28,,Wadeson Road,,Manchester
+2022-03-09,262995,M13 9JY,T,Y,F,10,,Falcon Street,,Manchester
+2022-03-04,339995,M13 9RP,S,Y,F,1E,,Beamish Close,,Manchester
+2022-02-28,130000,M13 0YQ,T,N,F,1,,Bankfield Avenue,,Manchester
+2022-02-28,149100,M13 0SJ,T,N,F,62,,Slade Grove,,Manchester
+2022-02-25,90000,M13 0QW,T,N,F,21,,Mentor Street,,Manchester
+2022-02-23,149000,M13 9JP,F,N,L,98,Apartment 5,Devonshire Street South,,Manchester
+2022-02-23,170000,M13 0GN,T,N,F,74,,Slade Lane,,Manchester
+2022-02-16,230000,M13 9DY,T,N,F,53,,Pembroke Close,,Manchester
+2022-02-11,264995,M13 9JY,T,Y,F,18,,Falcon Street,,Manchester
+2022-02-11,243000,M13 0GU,S,N,F,77,,Duncan Road,,Manchester
+2022-02-02,170000,M13 0GQ,T,N,F,1,,Dobcross Close,,Manchester
+2022-01-24,186562,M13 0TE,S,N,F,181,,Beresford Road,,Manchester
+2022-01-12,245000,M13 0GU,T,N,F,54,,Duncan Road,,Manchester
+2022-01-06,258000,M13 9GU,T,N,L,11,,Flixton Road,,Manchester
+2021-12-23,289995,M13 9RY,T,Y,F,4,,Ardeen Walk,,Manchester
+2021-12-22,294995,M13 9YD,S,Y,F,27,,Cunard Close,,Manchester
+2021-12-22,339995,M13 9RP,S,Y,F,1C,,Beamish Close,,Manchester
+2021-12-21,267500,M13 0TD,S,N,F,14,,Raincliff Avenue,,Manchester
+2021-12-17,294995,M13 9YD,S,Y,F,25,,Cunard Close,,Manchester
+2021-12-17,294995,M13 9YD,T,Y,F,21,,Cunard Close,,Manchester
+2021-12-17,264995,M13 9JY,T,Y,F,6,,Falcon Street,,Manchester
+2021-12-17,267995,M13 9JY,T,Y,F,2,,Falcon Street,,Manchester
+2021-12-17,280000,M13 0UU,T,N,F,11,,Hadley Avenue,,Manchester
+2021-12-16,294995,M13 9YD,T,Y,F,15,,Cunard Close,,Manchester
+2021-12-15,294995,M13 9YD,T,Y,F,17,,Cunard Close,,Manchester
+2021-12-15,82500,M13 0HX,F,N,L,"Melrose Apartments, 159",110,Hathersage Road,,Manchester
+2021-12-14,155000,M13 0GQ,S,N,F,4,,Dobcross Close,,Manchester
+2021-12-13,339995,M13 9RP,S,Y,F,1B,,Beamish Close,,Manchester
+2021-12-10,294995,M13 9YD,T,Y,F,23,,Cunard Close,,Manchester
+2021-12-09,235000,M13 0QF,T,N,F,27,,Slade Grove,,Manchester
+2021-12-03,115000,M13 0TR,T,N,F,52,,Meldon Road,,Manchester
+2021-12-03,180000,M13 0PW,S,N,F,29,,Montgomery Road,,Manchester
+2021-11-30,294995,M13 9YD,T,Y,F,19,,Cunard Close,,Manchester
+2021-11-30,294995,M13 9YD,T,Y,F,13,,Cunard Close,,Manchester
+2021-11-29,267000,M13 0UL,S,N,L,15,,Skelton Grove,,Manchester
+2021-11-26,299995,M13 9YD,T,Y,F,11,,Cunard Close,,Manchester
+2021-11-26,230000,M13 9HX,T,N,F,147,,Plymouth Grove,,Manchester
+2021-11-26,121101,M13 0UG,S,N,F,62,,Brynton Road,,Manchester
+2021-11-24,235000,M13 0TD,S,N,F,18,,Raincliff Avenue,,Manchester
+2021-11-15,213000,M13 0QW,T,N,F,27,,Mentor Street,,Manchester
+2021-11-12,344995,M13 9SX,T,Y,F,41B,,Brunswick Street,,Manchester
+2021-11-12,339995,M13 9RP,S,Y,F,1A,,Beamish Close,,Manchester
+2021-11-12,135000,M13 9HY,F,N,L,77,Flat 5,Devonshire Street South,,Manchester
+2021-11-05,349995,M13 9SX,T,Y,F,41C,,Brunswick Street,,Manchester
+2021-11-05,132000,M13 0ZF,T,N,F,6,,Allingham Street,,Manchester
+2021-10-18,230000,M13 0PG,T,N,L,136,,Hamilton Road,,Manchester
+2021-10-08,344995,M13 9SX,T,Y,F,41A,,Brunswick Street,,Manchester
+2021-10-06,200000,M13 0PS,T,N,F,39,,Campbell Road,,Manchester
+2021-09-30,289995,M13 9RY,T,Y,F,6,,Ardeen Walk,,Manchester
+2021-09-29,225000,M13 9EL,T,N,L,9,,Beckhampton Close,,Manchester
+2021-09-29,200000,M13 0SF,T,N,F,16,,Stamford Road,,Manchester
+2021-09-28,344995,M13 9SX,T,Y,F,39B,,Brunswick Street,,Manchester
+2021-09-24,339995,M13 9RP,S,Y,F,1F,,Beamish Close,,Manchester
+2021-09-24,327995,M13 9NJ,T,Y,F,8,,Sylvia Pankhurst Way,,Manchester
+2021-09-24,300000,M13 9JS,T,N,L,129,,Upper Brook Street,,Manchester
+2021-09-24,246000,M13 9HP,T,N,L,3,,Guide Post Road,,Manchester
+2021-09-24,215000,M13 0TF,T,N,F,144,,Beresford Road,,Manchester
+2021-09-23,145500,M13 9JP,F,N,L,98,Apartment 3,Devonshire Street South,,Manchester
+2021-09-23,230000,M13 9BS,T,N,L,9,,Tarleton Street,,Manchester
+2021-09-22,225000,M13 0PU,T,N,F,53,,Reynell Road,,Manchester
+2021-09-20,253000,M13 0UE,T,N,F,117,,Birchfields Road,,Manchester
+2021-09-16,257500,M13 0UT,S,N,F,35,,Craston Road,,Manchester
+2021-09-15,148000,M13 9SA,T,N,L,29,,Oregon Close,,Manchester
+2021-09-10,165000,M13 9AB,F,N,L,176,Apartment 14,Stockport Road,,Manchester
+2021-09-07,120000,M13 0NS,T,N,F,17,,Holmfirth Street,,Manchester
+2021-09-03,339995,M13 9RP,S,Y,F,1D,,Beamish Close,,Manchester
+2021-09-03,290000,M13 9GE,T,N,L,9,,Denewell Avenue,,Manchester
+2021-09-03,95000,M13 0NN,F,N,L,"Surrey Lodge, 2 - 4",Flat 11,Birch Lane,,Manchester
+2021-08-27,349995,M13 9SX,T,Y,F,39A,,Brunswick Street,,Manchester
+2021-08-27,291995,M13 9PA,T,Y,F,4,,Peace Road,,Manchester
+2021-08-25,168000,M13 0EN,T,N,F,11,,Olney Street,,Manchester
+2021-08-23,100000,M13 0NW,F,N,L,1 - 3,Apartment 23,Birch Lane,,Manchester
+2021-08-20,245000,M13 0SJ,S,N,F,66,,Slade Grove,,Manchester
+2021-08-19,289995,M13 9RY,T,Y,F,8,,Ardeen Walk,,Manchester
+2021-08-18,165000,M13 0PT,T,N,F,26,,Reynell Road,,Manchester
+2021-08-13,324995,M13 9NJ,T,Y,F,26,,Sylvia Pankhurst Way,,Manchester
+2021-08-13,223000,M13 9BS,T,N,L,5,,Tarleton Street,,Manchester
+2021-08-13,100000,M13 0NW,F,N,L,1 - 3,Apartment 36,Birch Lane,,Manchester
+2021-08-11,103000,M13 9AB,F,N,L,170,Apartment 18,Stockport Road,,Manchester
+2021-07-23,225000,M13 9SY,T,N,F,76,,Kincardine Road,,Manchester
+2021-07-22,255000,M13 0WN,T,N,F,68,,Birch Lane,,Manchester
+2021-07-22,216000,M13 0GU,S,N,F,71,,Duncan Road,,Manchester
+2021-07-20,217000,M13 9GX,T,N,L,4,,Hatchley Street,,Manchester
+2021-07-15,121250,M13 0HX,F,N,L,"Melrose Apartments, 159",117,Hathersage Road,,Manchester
+2021-07-09,260000,M13 9GD,T,N,L,57,,Greengage,,Manchester
+2021-07-09,150000,M13 0PB,T,N,L,14,,Hamilton Road,,Manchester
+2021-07-08,220000,M13 0UH,S,N,L,14,,Handforth Grove,,Manchester
+2021-07-02,217000,M13 0QU,S,N,F,69,,Clitheroe Road,,Manchester
+2021-06-30,294995,M13 9RY,T,Y,F,2,,Ardeen Walk,,Manchester
+2021-06-30,294995,M13 9PA,T,Y,F,6,,Peace Road,,Manchester
+2021-06-30,327995,M13 9NJ,T,Y,F,4,,Sylvia Pankhurst Way,,Manchester
+2021-06-30,327995,M13 9NJ,T,Y,F,12,,Sylvia Pankhurst Way,,Manchester
+2021-06-29,344995,M13 9SX,T,Y,F,41,,Brunswick Street,,Manchester
+2021-06-29,294995,M13 9RY,T,Y,F,10,,Ardeen Walk,,Manchester
+2021-06-29,185000,M13 0DS,T,N,F,33,,Richmond Grove,,Manchester
+2021-06-28,294415,M13 0PG,T,N,F,170,,Hamilton Road,,Manchester
+2021-06-25,304995,M13 9PA,T,Y,F,10,,Peace Road,,Manchester
+2021-06-25,250000,M13 0QU,S,N,F,65,,Clitheroe Road,,Manchester
+2021-06-25,245000,M13 0JY,T,N,L,294,,Stockport Road,,Manchester
+2021-06-23,327995,M13 9NJ,T,Y,F,10,,Sylvia Pankhurst Way,,Manchester
+2021-06-21,327995,M13 9NJ,T,Y,F,14,,Sylvia Pankhurst Way,,Manchester
+2021-06-18,233000,M13 9DP,S,N,L,23H,,Lauderdale Crescent,,Manchester
+2021-06-18,93000,M13 0GL,T,N,L,52,,Slade Lane,,Manchester
+2021-06-15,327995,M13 9NJ,T,Y,F,6,,Sylvia Pankhurst Way,,Manchester
+2021-05-28,299995,M13 9PA,T,Y,F,2,,Peace Road,,Manchester
+2021-05-28,113000,M13 0HX,F,N,L,"Melrose Apartments, 159",13,Hathersage Road,,Manchester
+2021-05-19,294995,M13 9PA,T,Y,F,8,,Peace Road,,Manchester
+2021-05-17,100000,M13 0NW,F,N,L,1 - 3,Apartment 5,Birch Lane,,Manchester
+2021-05-04,70000,M13 0NN,F,N,L,"Surrey Lodge, 2 - 4",Flat 16,Birch Lane,,Manchester
+2021-04-30,309995,M13 9PA,T,Y,F,12,,Peace Road,,Manchester
+2021-04-30,63000,M13 0NN,F,N,L,"Surrey Lodge, 2 - 4",Flat 14,Birch Lane,,Manchester
+2021-04-26,150000,M13 9LU,S,N,L,85,,Plymouth Grove,,Manchester
+2021-04-16,200000,M13 0YQ,T,N,F,17,,Bankfield Avenue,,Manchester
+2021-04-12,85000,M13 0YQ,F,N,L,67A,,Bankfield Avenue,,Manchester
+2021-04-08,135000,M13 0YQ,T,N,F,45,,Bankfield Avenue,,Manchester
+2021-03-31,332995,M13 9NJ,T,Y,F,2,,Sylvia Pankhurst Way,,Manchester
+2021-03-30,80000,M13 0HY,F,N,L,"Victoria Terrace, 135 - 149",Flat 21,Hathersage Road,,Manchester
+2021-03-19,329995,M13 9NJ,T,Y,F,32,,Sylvia Pankhurst Way,,Manchester
+2021-03-19,331995,M13 9NJ,T,Y,F,16,,Sylvia Pankhurst Way,,Manchester
+2021-03-19,110000,M13 0NW,F,N,L,1 - 3,Apartment 34,Birch Lane,,Manchester
+2021-03-18,219000,M13 0UD,S,N,F,68,,Old Hall Lane,,Manchester
+2021-03-16,262000,M13 9ER,T,N,L,24,,Aspull Walk,,Manchester
+2021-03-16,328500,M13 0PX,S,N,F,202,,Hamilton Road,,Manchester
+2021-03-12,250000,M13 9FD,S,N,F,10,,Lauderdale Crescent,,Manchester
+2021-03-12,146750,M13 9AH,F,N,L,214,Flat 4,Stockport Road,,Manchester
+2021-03-05,170000,M13 9UT,T,N,L,10,,Hursthead Walk,,Manchester
+2021-02-24,176500,M13 0NQ,S,N,F,36,,Swayfield Avenue,,Manchester
+2021-02-19,68000,M13 0NN,F,N,L,"Surrey Lodge, 2 - 4",Flat 19,Birch Lane,,Manchester
+2021-02-19,255000,M13 0EJ,T,N,F,47,,Hathersage Road,,Manchester
+2021-02-15,250000,M13 0JY,T,N,L,290,,Stockport Road,,Manchester
+2021-02-08,244950,M13 0AG,T,N,L,20,,Plymouth Grove West,,Manchester
+2021-02-05,327995,M13 9NJ,T,Y,F,22,,Sylvia Pankhurst Way,,Manchester
+2021-02-04,180700,M13 9GG,T,N,L,5,,Sparrow Street,,Manchester
+2021-01-29,225000,M13 9JE,T,N,L,26,,Shakespeare Walk,,Manchester
+2021-01-26,162000,M13 9SY,S,N,F,113,,Kincardine Road,,Manchester
+2021-01-22,155000,M13 9GU,F,N,L,23,,Flixton Road,,Manchester
+2021-01-15,200000,M13 0AU,T,N,F,37,,South Grove,,Manchester
+2021-01-13,295995,M13 9NJ,T,Y,F,37,,Sylvia Pankhurst Way,,Manchester
+2021-01-08,135000,M13 0TD,S,N,F,7,,Raincliff Avenue,,Manchester

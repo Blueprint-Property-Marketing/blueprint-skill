@@ -1,0 +1,928 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-19,225000,M8 8YU,T,N,L,14,,Olanyian Drive,,Manchester
+2026-08-17,210000,M8 0GQ,T,N,L,117,,Hazelbottom Road,,Manchester
+2026-08-14,345000,M8 0PA,S,N,F,50,,Cardinal Street,,Manchester
+2026-07-31,110000,M8 5UP,T,N,F,7,,Duchess Road,Crumpsall,Manchester
+2026-07-24,230000,M8 9LQ,T,N,F,74,,Greenhill Road,,Manchester
+2026-07-24,315000,M8 4HY,S,N,L,57,,Edilom Road,,Manchester
+2026-07-23,465000,M8 0NG,S,N,L,143,,Woodlands Road,,Manchester
+2026-07-15,150000,M8 4RA,T,N,F,6,,Parkhill Avenue,,Manchester
+2026-07-10,45000,M8 4NP,F,N,L,"Carmel Court, 14",Flat 57,Holland Road,,Manchester
+2026-07-10,150000,M8 0GQ,T,N,L,97,,Hazelbottom Road,,Manchester
+2026-07-07,120000,M8 9LU,T,N,F,24,,Birkdale Street,,Manchester
+2026-07-01,290000,M8 5EG,S,N,F,40,,Saddlecote Close,,Manchester
+2026-07-01,200000,M8 4QN,S,N,F,52,,Brynorme Road,,Manchester
+2026-07-01,360000,M8 4JJ,S,N,F,6,,Brooklands Road,Crumpsall,Manchester
+2026-06-29,257000,M8 9LQ,T,N,F,52,,Greenhill Road,,Manchester
+2026-06-26,195000,M8 4FT,S,N,F,9,,Dinorwic Close,,Manchester
+2026-06-19,195000,M8 5SE,T,N,F,17,,Brookfield Road,,Manchester
+2026-06-19,295000,M8 4WT,S,N,L,6,,Moorland Avenue,,Manchester
+2026-06-16,300000,M8 5SW,S,N,F,11,,Hermitage Road,,Manchester
+2026-06-12,250000,M8 0NJ,S,N,F,7,,Chalfont Drive,,Manchester
+2026-06-11,228000,M8 4LL,S,N,L,3,,Bowker Bank Avenue,Crumpsall,Manchester
+2026-06-05,140000,M8 0AS,F,N,L,15,,Keane Court,,Manchester
+2026-06-01,380000,M8 4JF,S,N,L,13,,Huntley Road,,Manchester
+2026-05-29,220000,M8 5EA,S,N,L,24,,Rectory Road,,Manchester
+2026-05-29,68000,M8 4NP,F,N,L,"Carmel Court, 14",Flat 48,Holland Road,,Manchester
+2026-05-15,260000,M8 5TA,S,N,F,27,,Ash Tree Road,,Manchester
+2026-05-13,80000,M8 8ND,F,N,L,St. Davids Court,Flat 37,Sherborne Street,,Manchester
+2026-05-13,180000,M8 4GL,T,N,F,6,,Birwood Road,,Manchester
+2026-05-13,76125,M8 0ST,T,N,F,62,,Galsworthy Avenue,,Manchester
+2026-05-11,254000,M8 5UB,S,N,L,28,,Celia Street,,Manchester
+2026-05-05,35000,M8 4NP,F,N,L,"Carmel Court, 14",Flat 44,Holland Road,,Manchester
+2026-05-01,225000,M8 4LJ,S,N,L,4,,Monica Avenue,,Manchester
+2026-05-01,125000,M8 0RE,T,N,F,1,,Bunyard Street,,Manchester
+2026-05-01,240000,M8 0AZ,D,N,F,76,,Bellott Street,,Manchester
+2026-04-30,200000,M8 4JD,S,N,L,36,,Cedric Road,,Manchester
+2026-04-30,150000,M8 0QE,S,N,F,40,,Alms Hill Road,,Manchester
+2026-04-28,245000,M8 4PJ,S,N,L,84,,Wilton Road,Crumpsall,Manchester
+2026-04-21,180000,M8 8YD,T,N,L,68,,Fairy Lane,,Manchester
+2026-04-16,120750,M8 0BY,F,N,L,2,Apartment 4,Stoneyholme Avenue,,Manchester
+2026-04-09,110000,M8 8NT,F,N,L,St. Davids Court,Flat 73,Sherborne Street,,Manchester
+2026-04-08,200000,M8 8BA,T,N,F,4,,Holbeton Close,,Manchester
+2026-04-01,180000,M8 5QE,S,N,F,61,,Saddlecote Close,,Manchester
+2026-03-30,130000,M8 8BY,F,N,L,43,,Waterloo Road,,Manchester
+2026-03-27,217000,M8 5QD,D,N,F,23,,Springfield Avenue,,Manchester
+2026-03-27,320000,M8 4NU,S,N,L,2,,Dales Avenue,,Manchester
+2026-03-25,300000,M8 5UE,S,N,F,153,,Crescent Road,,Manchester
+2026-03-23,265000,M8 4LQ,S,N,L,7,,Mosslee Avenue,,Manchester
+2026-03-20,94500,M8 0QA,S,N,F,29,,Alms Hill Road,,Manchester
+2026-03-20,156000,M8 0GP,D,N,F,16,,Jehlum Close,,Manchester
+2026-03-13,98450,M8 4FR,S,N,L,30,,Chudleigh Road,,Manchester
+2026-03-12,85000,M8 0DB,F,N,L,21,Apartment 2,Humber Street,,Manchester
+2026-03-11,111000,M8 8UP,F,N,L,2,,Temple Square,,Manchester
+2026-03-11,310000,M8 5EG,S,N,L,38,,Saddlecote Close,,Manchester
+2026-03-06,100000,M8 8BJ,F,N,L,4,Flat 11,Larch Gardens,,Manchester
+2026-02-27,280000,M8 0GQ,T,N,L,131,,Hazelbottom Road,,Manchester
+2026-02-24,100000,M8 0GH,T,N,L,225,,Woodlands Road,,Manchester
+2026-02-23,183000,M8 8BZ,F,N,L,15,,St Albans Terrace,,Manchester
+2026-02-20,285000,M8 4LW,S,N,L,55,,Meade Hill Road,,Manchester
+2026-02-20,220000,M8 0QH,T,N,L,198,,Woodlands Road,,Manchester
+2026-02-17,130000,M8 0GQ,F,N,L,107,Apartment 10,Hazelbottom Road,,Manchester
+2026-02-13,130000,M8 5EA,F,N,L,23 - 25,Flat 3,Rectory Road,,Manchester
+2026-02-12,155000,M8 4RE,T,N,F,107,,Delaunays Road,,Manchester
+2026-02-12,150000,M8 0QL,S,N,F,82,,Chime Bank,,Manchester
+2026-02-09,100000,M8 9EQ,F,N,L,41,,Absalom Drive,,Manchester
+2026-01-30,241000,M8 0RX,T,N,F,15,,Wythburn Avenue,,Manchester
+2026-01-26,265000,M8 9ER,T,N,F,18,,Halliwell Lane,,Manchester
+2026-01-23,255000,M8 8UH,T,N,F,11,,Signet Walk,,Manchester
+2026-01-21,175000,M8 4GY,T,N,F,92,,Parkhill Avenue,,Manchester
+2026-01-06,134000,M8 4PB,T,N,F,6,,Coppleridge Drive,,Manchester
+2025-12-23,135000,M8 8BX,T,N,F,4,,Sandsend Close,,Manchester
+2025-12-22,182000,M8 5XJ,T,N,L,8,,Brightside Road,,Manchester
+2025-12-19,125000,M8 8BZ,F,N,L,9,,St Albans Terrace,,Manchester
+2025-12-19,160000,M8 8BY,F,N,L,105,,Waterloo Road,,Manchester
+2025-12-19,133000,M8 4QS,F,N,L,14,Apartment 8,Delaunays Road,,Manchester
+2025-12-17,290000,M8 0WP,S,N,F,82,,Cardinal Street,,Manchester
+2025-12-15,260000,M8 0PZ,S,N,F,30,,Manswood Drive,,Manchester
+2025-12-12,164000,M8 5UN,T,N,F,23,,Enver Road,,Manchester
+2025-12-12,520000,M8 4LP,S,N,L,78,,Meade Hill Road,,Manchester
+2025-12-12,340000,M8 4HZ,S,N,L,20,,Edilom Road,,Manchester
+2025-12-12,160000,M8 0WE,T,N,F,3,,Birkdale Street,,Manchester
+2025-12-05,260000,M8 9DB,T,N,F,2,,Linstead Drive,,Manchester
+2025-12-05,165000,M8 8BJ,S,N,L,40,,Larch Gardens,,Manchester
+2025-12-05,180000,M8 4GJ,T,N,L,98,,Kearsley Road,,Manchester
+2025-11-28,265000,M8 4PX,S,N,F,108,,Wilton Road,Crumpsall,Manchester
+2025-11-28,205000,M8 4PG,T,N,F,48,,Chudleigh Road,,Manchester
+2025-11-28,105000,M8 0QL,T,N,F,24,,Chime Bank,,Manchester
+2025-11-28,275000,M8 0PZ,S,N,F,18,,Manswood Drive,,Manchester
+2025-11-26,120000,M8 0AU,F,N,L,18,,Deanery Court,,Manchester
+2025-11-21,120000,M8 9LD,T,N,F,41,,Greenhill Road,,Manchester
+2025-11-21,170000,M8 4PZ,S,N,F,38,,Givendale Drive,Crumpsall,Manchester
+2025-11-18,109000,M8 0PW,F,N,L,409,Flat 2,Cheetham Hill Road,,Manchester
+2025-11-13,310000,M8 5XL,T,N,L,3,,Longshaw Close,,Manchester
+2025-11-07,155000,M8 0QH,T,N,F,154,,Woodlands Road,,Manchester
+2025-11-07,130000,M8 0AU,F,N,L,19,,Deanery Court,,Manchester
+2025-11-05,120000,M8 4QS,F,N,L,14,Apartment 10,Delaunays Road,,Manchester
+2025-10-30,286000,M8 9WT,S,N,F,103,,Crescent Road,,Manchester
+2025-10-30,210000,M8 0WG,S,N,F,102,,Greenhill Road,,Manchester
+2025-10-20,315000,M8 5AG,D,N,F,24A,,Sedgley Road,,Manchester
+2025-10-17,305000,M8 4FF,S,N,L,1,,Kenslow Avenue,,Manchester
+2025-10-17,140000,M8 0QZ,T,N,F,35,,Hawkeshead Road,,Manchester
+2025-10-15,225000,M8 0NE,T,N,F,90,,Shirley Road,,Manchester
+2025-10-10,184000,M8 4PL,T,N,F,51,,Herristone Road,,Manchester
+2025-10-06,300000,M8 4GF,S,N,F,34,,Kearsley Road,,Manchester
+2025-09-30,80000,M8 5UW,T,N,F,1,,Hallworth Road,,Manchester
+2025-09-26,147000,M8 4QY,T,N,F,110,,Cleveland Road,Crumpsall,Manchester
+2025-09-19,185000,M8 8SY,T,N,L,66,,Venture Scout Way,,Manchester
+2025-09-19,285000,M8 4JA,S,N,L,4,,Rothesay Road,,Manchester
+2025-09-18,285000,M8 5EQ,S,N,L,14,,Magna Drive,,Manchester
+2025-09-16,263000,M8 5RX,T,N,F,27,,Westbury Road,,Manchester
+2025-09-16,195000,M8 4QL,T,N,F,22,,Kathkin Avenue,,Manchester
+2025-09-12,186000,M8 8SY,T,N,L,68,,Venture Scout Way,,Manchester
+2025-09-12,190000,M8 4PG,T,N,L,106,,Chudleigh Road,,Manchester
+2025-09-12,122500,M8 0BS,F,N,L,21,Apartment 2,Appleton Street,,Manchester
+2025-09-11,140000,M8 0AR,F,N,L,48,,Martingale Court,,Manchester
+2025-09-10,440000,M8 5QE,D,N,L,85,,Saddlecote Close,,Manchester
+2025-09-05,415000,M8 4LZ,D,N,F,Heaton Park Lodge,,Middleton Road,,Manchester
+2025-09-04,182000,M8 0SR,T,N,F,32,,Faraday Avenue,,Manchester
+2025-09-03,154000,M8 5UE,S,N,F,165,,Crescent Road,,Manchester
+2025-08-29,125000,M8 0AJ,F,N,L,2,Apartment 11,Brandforth Road,,Manchester
+2025-08-28,160000,M8 5RY,T,N,F,22,,Newland Street,,Manchester
+2025-08-28,170000,M8 4PL,T,N,F,43,,Herristone Road,,Manchester
+2025-08-28,390000,M8 4JB,S,N,L,12,,Haversham Road,,Manchester
+2025-08-28,175000,M8 0QL,T,N,F,64,,Chime Bank,,Manchester
+2025-08-27,235000,M8 4PD,S,N,L,143,,Wilton Road,Crumpsall,Manchester
+2025-08-26,130000,M8 0AR,F,N,L,18,,Martingale Court,,Manchester
+2025-08-22,195000,M8 9LZ,T,N,F,54,,Esmond Road,,Manchester
+2025-08-22,247500,M8 4FH,S,N,L,26,,Boardman Road,,Manchester
+2025-08-15,260000,M8 0UB,S,N,L,10,,Bunyard Street,,Manchester
+2025-08-14,115000,M8 8BJ,F,N,L,16,Flat 4,Larch Gardens,,Manchester
+2025-08-12,247000,M8 4PS,S,N,F,9,,Mariman Drive,,Manchester
+2025-08-08,190000,M8 8BZ,T,N,L,10,,St Albans Terrace,,Manchester
+2025-08-06,280000,M8 5SW,T,N,F,47,,Hermitage Road,,Manchester
+2025-08-06,170000,M8 4PQ,T,N,F,27,,Stanhorne Avenue,,Manchester
+2025-08-04,282000,M8 5EQ,S,N,F,13,,Magna Drive,,Manchester
+2025-08-01,155090,M8 5AU,T,N,F,30,,Whiston Road,,Manchester
+2025-07-31,305000,M8 4WF,S,N,L,12,,Edson Road,,Manchester
+2025-07-23,220000,M8 0RB,T,N,F,177,,Queens Road,,Manchester
+2025-07-17,210000,M8 4PL,T,N,F,77,,Herristone Road,,Manchester
+2025-07-11,66000,M8 4NP,F,N,L,"Carmel Court, 14",Flat 6,Holland Road,,Manchester
+2025-07-11,280000,M8 0WP,S,N,F,75,,Cardinal Street,,Manchester
+2025-07-10,250000,M8 8JD,F,N,L,12,,Glenville Road,,Manchester
+2025-07-01,180000,M8 4GJ,T,N,F,114,,Kearsley Road,,Manchester
+2025-06-30,120000,M8 8BJ,F,N,L,16,Flat 14,Larch Gardens,,Manchester
+2025-06-30,134000,M8 4RE,T,N,F,133,,Delaunays Road,,Manchester
+2025-06-27,120000,M8 8ND,F,N,L,St. Davids Court,Flat 40,Sherborne Street,,Manchester
+2025-06-26,254000,M8 4NQ,S,N,L,38,,Holland Road,,Manchester
+2025-06-25,200000,M8 5RT,T,N,F,41,,Birch Road,,Manchester
+2025-06-25,175500,M8 4PW,T,N,F,35,,Chudleigh Road,,Manchester
+2025-06-24,185000,M8 9NB,T,N,F,28,,Daresbury Street,,Manchester
+2025-06-24,260000,M8 4QF,S,N,L,34,,Cliffdale Drive,,Manchester
+2025-06-20,145000,M8 8BY,S,N,L,107,,Waterloo Road,,Manchester
+2025-06-20,287000,M8 5XL,S,N,L,24,,Longshaw Close,,Manchester
+2025-06-20,90000,M8 5RU,T,N,F,22,,Birch Road,,Manchester
+2025-06-20,155000,M8 4GW,T,N,F,71,,Brynorme Road,,Manchester
+2025-06-16,137500,M8 4JU,F,N,L,"Brookland Court, 110",Flat 16,Middleton Road,,Manchester
+2025-06-13,172000,M8 5XL,T,N,L,20,,Longshaw Close,,Manchester
+2025-06-13,169000,M8 4GN,T,N,L,37,,Brynorme Road,,Manchester
+2025-06-12,250000,M8 0ND,T,N,F,30,,Shirley Road,,Manchester
+2025-06-09,152000,M8 4JX,F,N,L,Lynwood Court,Flat 10,Middleton Road,,Manchester
+2025-06-05,270000,M8 0GQ,T,N,L,129,,Hazelbottom Road,,Manchester
+2025-05-23,395000,M8 4JZ,D,N,F,155,,Middleton Road,,Manchester
+2025-05-19,55000,M8 4NP,F,N,L,"Carmel Court, 14",Flat 55,Holland Road,,Manchester
+2025-05-16,120000,M8 5QE,S,N,F,45,,Saddlecote Close,,Manchester
+2025-05-14,200000,M8 9LL,T,N,F,22,,Woodlands Street,,Manchester
+2025-05-14,55000,M8 4NP,F,N,L,"Carmel Court, 14",Flat 2,Holland Road,,Manchester
+2025-05-13,150000,M8 5AG,S,N,F,24,,Sedgley Road,,Manchester
+2025-05-09,139500,M8 0QZ,T,N,F,51,,Hawkeshead Road,,Manchester
+2025-05-06,227000,M8 0AR,T,N,L,3,,Martingale Court,,Manchester
+2025-05-01,175000,M8 8ES,S,N,L,4,,Everside Drive,,Manchester
+2025-04-24,290000,M8 5QE,T,N,F,33,,Saddlecote Close,,Manchester
+2025-04-22,230000,M8 8DB,S,N,L,22,,Barrow Hill Road,,Manchester
+2025-04-17,200000,M8 0SZ,T,N,F,7,,Elmfield Street,,Manchester
+2025-04-16,130000,M8 0WA,T,N,F,19,,Ansdell Street,,Manchester
+2025-04-11,145000,M8 9EE,T,N,F,5,,Broomfield Drive,,Manchester
+2025-04-11,280000,M8 5QA,T,N,F,20,,Charminster Drive,,Manchester
+2025-04-09,57000,M8 4NP,F,N,L,"Carmel Court, 14",Flat 43,Holland Road,,Manchester
+2025-03-27,120000,M8 0BT,T,N,L,8,,Appleton Street,,Manchester
+2025-03-25,450000,M8 5DZ,S,N,L,24,,St Marys Hall Road,,Manchester
+2025-03-21,200000,M8 4PG,T,N,F,72,,Chudleigh Road,,Manchester
+2025-03-21,55000,M8 4NP,F,N,L,"Carmel Court, 14",Flat 9,Holland Road,,Manchester
+2025-03-21,220000,M8 0NL,T,N,F,64,,Shaftesbury Road,,Manchester
+2025-03-18,269000,M8 5XJ,T,N,L,4,,Brightside Road,,Manchester
+2025-03-14,240000,M8 5XJ,T,N,L,5,,Brightside Road,,Manchester
+2025-03-14,220000,M8 5AP,S,N,F,80,,Moss Bank,,Manchester
+2025-03-14,210000,M8 0PU,S,N,F,9,,Durley Avenue,,Manchester
+2025-03-13,150000,M8 4GW,T,N,F,103,,Brynorme Road,,Manchester
+2025-03-10,285000,M8 8BJ,T,N,L,18,,Larch Gardens,,Manchester
+2025-03-07,243000,M8 4QY,T,N,F,76,,Cleveland Road,Crumpsall,Manchester
+2025-03-07,270000,M8 0WP,S,N,F,86,,Cardinal Street,,Manchester
+2025-03-03,181000,M8 4QN,T,N,L,40,,Brynorme Road,,Manchester
+2025-02-28,127000,M8 4PZ,S,N,L,59,,Givendale Drive,Crumpsall,Manchester
+2025-02-28,148000,M8 0RE,T,N,F,33,,Bunyard Street,,Manchester
+2025-02-27,265000,M8 9NA,T,N,F,22,,Esmond Road,,Manchester
+2025-02-27,199000,M8 4QP,S,N,L,163,,Wilton Road,Crumpsall,Manchester
+2025-02-27,370000,M8 0AY,S,N,F,61,,Brideoak Street,,Manchester
+2025-02-25,313000,M8 5EG,S,N,F,72,,Saddlecote Close,,Manchester
+2025-02-21,220000,M8 8JD,S,N,L,14,,Glenville Road,,Manchester
+2025-02-21,150000,M8 0SS,T,N,F,29,,Faraday Avenue,,Manchester
+2025-02-17,155000,M8 0QH,T,N,L,188,,Woodlands Road,,Manchester
+2025-02-14,200000,M8 4LN,S,N,L,2,,Mountford Avenue,,Manchester
+2025-02-07,150000,M8 5SJ,T,N,F,5,,Lidiard Street,,Manchester
+2025-02-07,235000,M8 4PD,S,N,L,141,,Wilton Road,Crumpsall,Manchester
+2025-01-31,340000,M8 4WN,S,N,F,1D,,Ardern Road,,Manchester
+2025-01-31,330000,M8 4GH,S,N,L,59,,Kearsley Road,,Manchester
+2025-01-30,95000,M8 0AJ,F,N,L,2,Apartment 4,Brandforth Road,,Manchester
+2025-01-24,137000,M8 0QH,T,N,L,170,,Woodlands Road,,Manchester
+2025-01-22,250000,M8 5AP,T,N,F,90,,Moss Bank,,Manchester
+2025-01-21,56000,M8 0WP,T,N,L,100,,Cardinal Street,,Manchester
+2025-01-17,51916,M8 9LY,T,N,F,20,,Egmont Street,,Manchester
+2025-01-17,65000,M8 4GS,S,N,F,19,,Cleveland Road,Crumpsall,Manchester
+2025-01-16,120000,M8 4PG,T,N,F,50,,Chudleigh Road,,Manchester
+2025-01-06,150000,M8 5AP,T,N,F,69,,Moss Bank,,Manchester
+2024-12-20,110000,M8 4PQ,T,N,F,16,,Stanhorne Avenue,,Manchester
+2024-12-18,230000,M8 4QJ,T,N,F,97,,Kearsley Road,,Manchester
+2024-12-17,230000,M8 5XJ,S,N,L,43,,Brightside Road,,Manchester
+2024-12-11,240000,M8 5XJ,T,N,L,15,,Brightside Road,,Manchester
+2024-12-11,147500,M8 4JY,F,N,L,Lomond Lodge,Flat 5,Middleton Road,,Manchester
+2024-12-11,390000,M8 4ED,S,N,L,7,,Crumpsall Lane,,Manchester
+2024-12-11,105000,M8 0SU,T,N,F,11,,Galsworthy Avenue,,Manchester
+2024-12-09,184000,M8 4QA,T,N,L,16,,Solent Avenue,,Manchester
+2024-12-09,150000,M8 0NW,S,N,F,28,,Greenford Road,,Manchester
+2024-12-06,170000,M8 9AL,T,N,L,87,,Abercarn Close,,Manchester
+2024-12-06,225000,M8 4QX,S,N,F,11,,Pelham Place,,Manchester
+2024-12-06,400000,M8 4HG,T,N,L,6,,Melton Road,,Manchester
+2024-12-03,176995,M8 5SG,S,N,F,58,,Crumpsall Lane,,Manchester
+2024-12-03,120000,M8 5DZ,F,N,L,Nada Lodge,Flat 16,St Marys Hall Road,,Manchester
+2024-11-29,262827,M8 8ES,F,N,L,3,,Everside Drive,,Manchester
+2024-11-29,280000,M8 0PB,S,N,F,227,,Heywood Street,,Manchester
+2024-11-28,195000,M8 8YE,F,N,L,21,,Fairy Lane,,Manchester
+2024-11-28,250000,M8 5SN,T,N,F,5,,Linn Street,,Manchester
+2024-11-22,285000,M8 0WN,S,N,L,39E,,Cardinal Street,,Manchester
+2024-11-21,170000,M8 4PL,T,N,L,35,,Herristone Road,,Manchester
+2024-11-20,110000,M8 4PZ,T,N,F,54,,Givendale Drive,Crumpsall,Manchester
+2024-11-15,230000,M8 4PG,S,N,F,118,,Chudleigh Road,,Manchester
+2024-11-15,245000,M8 0WS,S,N,F,9,,Balliol Street,,Manchester
+2024-11-14,250000,M8 4PD,S,N,F,139,,Wilton Road,Crumpsall,Manchester
+2024-11-12,140000,M8 5UW,T,N,F,33,,Hallworth Road,,Manchester
+2024-11-08,85000,M8 8XG,S,N,F,53,,Smedley Lane,,Manchester
+2024-11-06,150000,M8 4PR,T,N,F,67,,Chudleigh Road,,Manchester
+2024-11-05,250000,M8 4NF,S,N,L,40,,Kendall Road,,Manchester
+2024-11-01,270000,M8 0WG,S,N,F,104,,Greenhill Road,,Manchester
+2024-10-31,300000,M8 8EQ,S,N,F,35,,Bury New Road,,Manchester
+2024-10-30,200000,M8 5RU,T,N,F,10,,Birch Road,,Manchester
+2024-10-29,300000,M8 5DY,S,N,F,9,,Eaton Road,,Manchester
+2024-10-28,290000,M8 5UE,S,N,F,161,,Crescent Road,,Manchester
+2024-10-25,265000,M8 5QE,T,N,F,15,,Saddlecote Close,,Manchester
+2024-10-25,235000,M8 5AA,S,N,F,7,,Limestead Avenue,,Manchester
+2024-10-21,200000,M8 8BQ,T,N,L,44,,Elizabeth Street,,Manchester
+2024-10-18,160000,M8 5BS,T,N,L,7,,Station Road,,Manchester
+2024-10-11,170000,M8 9BD,T,N,F,2,,Larden Walk,,Manchester
+2024-10-09,202000,M8 4WL,T,N,L,9,,Grosvenor House Mews,Crumpsall,Manchester
+2024-10-04,300000,M8 4LT,S,N,L,19,,Newington Avenue,,Manchester
+2024-10-03,50000,M8 4HR,F,N,L,82,,Melton Road,,Manchester
+2024-10-02,80000,M8 4GW,T,N,F,101,,Brynorme Road,,Manchester
+2024-10-01,175000,M8 5XJ,T,N,L,6,,Brightside Road,,Manchester
+2024-09-30,275000,M8 8DB,T,N,L,2C,,Barrow Hill Road,,Manchester
+2024-09-27,168000,M8 0NN,S,N,F,12,,Rainham Drive,,Manchester
+2024-09-25,350000,M8 0NG,S,N,L,145,,Woodlands Road,,Manchester
+2024-09-23,139000,M8 4JX,F,N,L,Lynwood Court,Flat 5,Middleton Road,,Manchester
+2024-09-23,127000,M8 4JH,F,N,L,Hilltop Court,Flat 4,Brooklands Road,Crumpsall,Manchester
+2024-09-20,82000,M8 8BS,F,N,L,39,,Wellmead Close,,Manchester
+2024-09-20,240000,M8 4QX,S,N,F,7,,Pelham Place,,Manchester
+2024-09-20,695000,M8 4HT,S,N,F,15,,Park Road,,Manchester
+2024-09-17,140000,M8 4RA,T,N,F,12,,Parkhill Avenue,,Manchester
+2024-09-16,135000,M8 0QL,S,N,F,32,,Chime Bank,,Manchester
+2024-09-12,140716,M8 0RA,S,N,L,28,,Lecester Road,,Manchester
+2024-09-11,140000,M8 0RD,T,N,F,3,,Clibran Street,,Manchester
+2024-09-06,270000,M8 5QA,T,N,F,18,,Charminster Drive,,Manchester
+2024-08-30,170000,M8 4GW,T,N,F,95,,Brynorme Road,,Manchester
+2024-08-30,270000,M8 0NW,S,N,F,14,,Greenford Road,,Manchester
+2024-08-22,110000,M8 8XD,T,N,F,38,,Smedley Lane,,Manchester
+2024-08-20,335000,M8 4ED,S,N,F,43,,Crumpsall Lane,,Manchester
+2024-08-15,308000,M8 4LA,S,N,L,23,,Whitehouse Avenue,,Manchester
+2024-08-14,85000,M8 8BS,F,N,L,35,,Wellmead Close,,Manchester
+2024-08-09,310000,M8 4JA,S,N,L,10,,Rothesay Road,,Manchester
+2024-08-07,150000,M8 8JD,F,N,L,12,,Glenville Road,,Manchester
+2024-08-07,140000,M8 0AU,F,N,L,30,,Deanery Court,,Manchester
+2024-08-05,260000,M8 5AA,T,N,F,2,,Limestead Avenue,,Manchester
+2024-08-05,130000,M8 0AR,F,N,L,72,,Martingale Court,,Manchester
+2024-08-02,87500,M8 8BS,F,N,L,31,,Wellmead Close,,Manchester
+2024-08-02,150000,M8 4PL,T,N,F,79,,Herristone Road,,Manchester
+2024-07-31,175000,M8 8YJ,T,N,L,23,,Jameson Close,,Manchester
+2024-07-31,217000,M8 5XL,S,N,L,26,,Longshaw Close,,Manchester
+2024-07-31,188000,M8 5XJ,T,N,F,39,,Brightside Road,,Manchester
+2024-07-25,190000,M8 8ES,T,N,L,19,,Everside Drive,,Manchester
+2024-07-15,45000,M8 0NB,T,N,F,14,,Avondale Street,,Manchester
+2024-07-11,250000,M8 5BR,S,N,F,46,,Seymour Road,,Manchester
+2024-07-11,235000,M8 4WW,F,N,L,1A,,Holland Road,,Manchester
+2024-07-11,53000,M8 4NP,F,N,L,"Carmel Court, 14",Flat 41,Holland Road,,Manchester
+2024-07-11,53000,M8 4NP,F,N,L,"Carmel Court, 14",Flat 54,Holland Road,,Manchester
+2024-07-11,64000,M8 4NP,F,N,L,"Carmel Court, 14",Flat 53,Holland Road,,Manchester
+2024-07-10,100000,M8 0AW,F,N,L,12,,Abbotsfield Court,,Manchester
+2024-07-05,200000,M8 8YU,D,N,L,16,,Olanyian Drive,,Manchester
+2024-07-05,238000,M8 5QE,S,N,F,49,,Saddlecote Close,,Manchester
+2024-07-05,63000,M8 4HR,F,N,L,75,,Melton Road,,Manchester
+2024-07-05,199000,M8 4GL,S,N,F,19,,Birwood Road,,Manchester
+2024-07-03,195000,M8 5XN,T,N,L,2,,Barsham Close,,Manchester
+2024-06-28,187500,M8 8XD,S,N,F,36,,Smedley Lane,,Manchester
+2024-06-28,165000,M8 4JY,F,N,L,Haversham Court,Flat 9,Middleton Road,,Manchester
+2024-06-28,125000,M8 0QF,T,N,L,12,,Lichfield Drive,,Manchester
+2024-06-27,87000,M8 8BS,S,N,L,93,,Wellmead Close,,Manchester
+2024-06-27,162500,M8 4FR,T,N,L,26,,Chudleigh Road,,Manchester
+2024-06-21,165000,M8 4PY,S,N,F,3,,Givendale Drive,Crumpsall,Manchester
+2024-06-21,99950,M8 0SE,F,N,L,42 - 44,Flat 5,Bignor Street,,Manchester
+2024-06-14,235000,M8 4NF,S,N,L,58,,Kendall Road,,Manchester
+2024-06-05,362000,M8 5SP,T,N,L,52,,Hermitage Road,,Manchester
+2024-06-05,310000,M8 4JE,S,N,L,33,,Cedric Road,,Manchester
+2024-06-05,206000,M8 4EF,S,N,F,3,,Belmore Avenue,,Manchester
+2024-05-30,130000,M8 0WW,S,N,F,26,,Tolworth Drive,,Manchester
+2024-05-29,95000,M8 8DB,S,N,L,8,,Barrow Hill Road,,Manchester
+2024-05-29,93500,M8 0PW,F,N,L,409,Flat 1,Cheetham Hill Road,,Manchester
+2024-05-28,170000,M8 0SX,T,N,F,9,,Kelvin Grove,,Manchester
+2024-05-24,185000,M8 8YF,S,N,L,18,,Rhine Drive,,Manchester
+2024-05-22,220000,M8 4QZ,S,N,F,81,,Parkhill Avenue,,Manchester
+2024-05-17,170000,M8 8SY,S,N,L,39,,Venture Scout Way,,Manchester
+2024-05-17,375000,M8 4NG,S,N,F,15,,Wilton Road,Crumpsall,Manchester
+2024-05-17,525000,M8 4HT,S,N,F,19,,Park Road,,Manchester
+2024-05-16,130000,M8 4PG,T,N,F,64,,Chudleigh Road,,Manchester
+2024-05-13,260000,M8 4LQ,S,N,L,3,,Mosslee Avenue,,Manchester
+2024-05-13,290000,M8 0BT,T,N,L,16,,Appleton Street,,Manchester
+2024-05-09,128500,M8 5UP,T,N,F,15,,Duchess Road,Crumpsall,Manchester
+2024-05-07,325000,M8 4NZ,S,N,L,10,,Welford Road,,Manchester
+2024-05-03,135500,M8 9AD,T,N,F,4,,Beckenham Road,,Manchester
+2024-04-29,217000,M8 8AZ,T,N,L,11,,Stephen Oake Close,,Manchester
+2024-04-29,250000,M8 4WD,T,N,L,7,,Kendall Road,,Manchester
+2024-04-26,263000,M8 5QE,S,N,F,57,,Saddlecote Close,,Manchester
+2024-04-19,170000,M8 0AW,T,N,L,7,,Abbotsfield Court,,Manchester
+2024-04-18,56000,M8 4PY,F,N,L,19,,Givendale Drive,Crumpsall,Manchester
+2024-04-15,100000,M8 4LF,F,N,L,48,,Bowker Bank Avenue,Crumpsall,Manchester
+2024-04-12,70000,M8 5UW,T,N,F,33,,Hallworth Road,,Manchester
+2024-04-08,275000,M8 5QE,T,N,F,39,,Saddlecote Close,,Manchester
+2024-04-08,245000,M8 0AW,F,N,L,15,,Abbotsfield Court,,Manchester
+2024-04-04,125000,M8 0QY,T,N,F,147,,Queens Road,,Manchester
+2024-03-28,143000,M8 4JY,F,N,L,Haversham Court,Flat 4,Middleton Road,,Manchester
+2024-03-28,180000,M8 0PU,S,N,F,6,,Durley Avenue,,Manchester
+2024-03-27,447000,M8 4HU,S,N,L,30,,Park Road,,Manchester
+2024-03-22,100000,M8 9NN,T,N,F,37,,Birkdale Street,,Manchester
+2024-03-22,245000,M8 4FL,S,N,F,7,,Sinclair Avenue,,Manchester
+2024-03-20,262500,M8 9LJ,S,N,F,28,,Woodlands Road,,Manchester
+2024-03-20,225000,M8 5AA,S,N,F,5,,Limestead Avenue,,Manchester
+2024-03-19,50000,M8 4PY,F,N,L,19,,Givendale Drive,Crumpsall,Manchester
+2024-03-15,379999,M8 4HJ,T,N,L,5,,Moxley Road,,Manchester
+2024-03-14,247000,M8 9JR,S,N,F,36,,Humphrey Street,,Manchester
+2024-03-06,185000,M8 5XL,T,N,L,18,,Longshaw Close,,Manchester
+2024-03-06,255000,M8 4QH,S,N,L,3,,Saxon Avenue,,Manchester
+2024-02-29,234000,M8 4FT,S,N,F,4,,Dinorwic Close,,Manchester
+2024-02-20,190000,M8 0PS,T,N,F,37,,Cardinal Street,,Manchester
+2024-02-16,190000,M8 8YH,T,N,L,27,,Stonefield Drive,,Manchester
+2024-02-16,348000,M8 0GP,D,N,F,8,,Jehlum Close,,Manchester
+2024-02-14,340000,M8 5SQ,T,N,L,3,,Houghton Road,,Manchester
+2024-02-14,367500,M8 4WQ,S,N,L,6,,Wilton Road,Crumpsall,Manchester
+2024-02-12,72800,M8 4QZ,S,N,F,79,,Parkhill Avenue,,Manchester
+2024-02-09,272000,M8 4WL,T,N,L,5,,Grosvenor House Mews,Crumpsall,Manchester
+2024-02-09,93500,M8 4JW,F,N,L,17,,Sharnbrook Walk,,Manchester
+2024-02-09,115000,M8 4JQ,F,N,L,2,,Claythorpe Walk,,Manchester
+2024-02-07,300000,M8 5EQ,S,N,L,4,,Magna Drive,,Manchester
+2024-02-06,178000,M8 0NH,S,N,F,10,,Thetford Drive,,Manchester
+2024-02-05,140000,M8 8DB,S,N,L,50,,Barrow Hill Road,,Manchester
+2024-01-31,122500,M8 4LB,F,N,L,Lovell Court,Flat 1,Middleton Road,,Manchester
+2024-01-31,170000,M8 0SQ,T,N,F,21,,Lytton Avenue,,Manchester
+2024-01-31,200000,M8 0AZ,T,N,F,82,,Bellott Street,,Manchester
+2024-01-26,145000,M8 0QL,T,N,F,66,,Chime Bank,,Manchester
+2024-01-24,200000,M8 0RR,S,N,F,6,,Caradoc Avenue,,Manchester
+2024-01-22,220000,M8 5XL,T,N,L,16,,Longshaw Close,,Manchester
+2024-01-22,100000,M8 4RE,S,N,F,135,,Delaunays Road,,Manchester
+2024-01-17,400000,M8 4FB,S,N,L,8,,Ardern Road,,Manchester
+2024-01-10,45000,M8 4GW,T,N,F,101,,Brynorme Road,,Manchester
+2024-01-05,125000,M8 8BJ,F,N,L,4,Flat 14,Larch Gardens,,Manchester
+2024-01-03,157500,M8 0GH,T,N,F,241,,Woodlands Road,,Manchester
+2024-01-02,325000,M8 4WJ,S,N,L,18,,Boardman Road,,Manchester
+2023-12-29,130000,M8 0WR,F,N,F,1,,Greenstead Avenue,,Manchester
+2023-12-22,300000,M8 5EA,S,N,L,28,,Rectory Road,,Manchester
+2023-12-22,60000,M8 4NN,F,N,L,St Mary's Court,Flat 9,St Marys Hall Road,,Manchester
+2023-12-21,210000,M8 8YU,S,N,L,3,,Olanyian Drive,,Manchester
+2023-12-21,132000,M8 4GN,T,N,F,57,,Brynorme Road,,Manchester
+2023-12-21,140000,M8 0SG,T,N,F,23,,Beechfield Street,,Manchester
+2023-12-19,110000,M8 5SP,T,N,L,28,,Hermitage Road,,Manchester
+2023-12-18,82000,M8 8BS,F,N,L,15,,Wellmead Close,,Manchester
+2023-12-18,140000,M8 4PD,S,N,L,143,,Wilton Road,Crumpsall,Manchester
+2023-12-18,35000,M8 4HR,F,N,L,79,,Melton Road,,Manchester
+2023-12-15,163000,M8 4QA,T,N,L,9,,Solent Avenue,,Manchester
+2023-12-14,220000,M8 8US,T,N,L,10,,Holborn Drive,,Manchester
+2023-12-12,165000,M8 4PG,S,N,F,80,,Chudleigh Road,,Manchester
+2023-12-08,75000,M8 8BS,F,N,L,11,,Wellmead Close,,Manchester
+2023-12-08,260000,M8 4EL,S,N,F,48,,Wilton Road,Crumpsall,Manchester
+2023-11-30,215000,M8 8AZ,S,N,L,13,,Stephen Oake Close,,Manchester
+2023-11-27,230000,M8 8ER,S,N,L,8,,Bloomfield Drive,,Manchester
+2023-11-20,332000,M8 4FH,S,N,L,34,,Boardman Road,,Manchester
+2023-11-17,230000,M8 4LQ,S,N,L,2,,Mosslee Avenue,,Manchester
+2023-11-13,110000,M8 8UR,T,N,L,3,,Redwood Drive,,Manchester
+2023-11-10,325000,M8 4WG,S,N,L,27,,Belhaven Road,,Manchester
+2023-11-10,220000,M8 0RU,S,N,F,157,,Smedley Road,,Manchester
+2023-11-01,178000,M8 5UQ,T,N,F,76,,Duchess Road,Crumpsall,Manchester
+2023-10-27,241000,M8 8AZ,T,N,L,1,,Stephen Oake Close,,Manchester
+2023-10-26,320000,M8 4WN,S,N,F,1C,,Ardern Road,,Manchester
+2023-10-25,150000,M8 4PW,T,N,L,37,,Chudleigh Road,,Manchester
+2023-10-20,93500,M8 0PW,F,N,L,409,Flat 17,Cheetham Hill Road,,Manchester
+2023-10-19,209000,M8 5UB,T,N,L,34,,Celia Street,,Manchester
+2023-10-19,250000,M8 4WN,S,N,L,3,,Ardern Road,,Manchester
+2023-10-16,361000,M8 0GP,D,N,F,9,,Jehlum Close,,Manchester
+2023-10-13,258000,M8 4QF,T,N,L,3,,Cliffdale Drive,,Manchester
+2023-10-13,150000,M8 4JY,F,N,L,Haversham Court,Flat 8,Middleton Road,,Manchester
+2023-10-09,260000,M8 4JB,S,N,L,22,,Haversham Road,,Manchester
+2023-09-29,255000,M8 4WR,S,N,L,11,,Belhaven Road,,Manchester
+2023-09-29,350000,M8 4JF,S,N,L,15,,Huntley Road,,Manchester
+2023-09-29,255000,M8 0AH,T,N,F,29,,Brandforth Road,,Manchester
+2023-09-28,141000,M8 4LB,F,N,L,Lovell Court,Flat 15,Middleton Road,,Manchester
+2023-09-22,130500,M8 8BT,F,N,L,143,Apartment 3,Waterloo Road,,Manchester
+2023-09-22,315000,M8 4NF,S,N,L,54,,Kendall Road,,Manchester
+2023-09-21,267100,M8 4LU,S,N,F,2,,Hillwood Avenue,,Manchester
+2023-09-20,140000,M8 0AR,F,N,L,64,,Martingale Court,,Manchester
+2023-09-19,270000,M8 5AX,T,N,F,39,,Ash Tree Road,,Manchester
+2023-09-19,200000,M8 0JT,T,N,L,6,,Whitebarn Avenue,,Manchester
+2023-09-18,310000,M8 4JE,S,N,L,27,,Cedric Road,,Manchester
+2023-09-15,105000,M8 4JQ,F,N,L,10,,Claythorpe Walk,,Manchester
+2023-09-15,140000,M8 0SS,T,N,F,57,,Faraday Avenue,,Manchester
+2023-09-15,390000,M8 0AB,S,N,F,40,,Brideoak Street,,Manchester
+2023-09-12,226000,M8 0WD,T,N,F,81,,Shirley Road,,Manchester
+2023-09-04,134722,M8 0WE,T,N,F,11,,Birkdale Street,,Manchester
+2023-08-31,328500,M8 4ED,S,N,F,47,,Crumpsall Lane,,Manchester
+2023-08-30,100000,M8 4QN,T,N,L,4,,Brynorme Road,,Manchester
+2023-08-24,205000,M8 8YU,S,N,L,1,,Olanyian Drive,,Manchester
+2023-08-21,130000,M8 8YJ,F,N,L,11,,Jameson Close,,Manchester
+2023-08-18,170000,M8 4PG,T,N,F,114,,Chudleigh Road,,Manchester
+2023-08-16,139000,M8 0AB,S,N,F,80,,Brideoak Street,,Manchester
+2023-08-12,183000,M8 0WA,T,N,F,8,,Ansdell Street,,Manchester
+2023-08-11,144793,M8 8BJ,S,N,L,3,,Larch Gardens,,Manchester
+2023-08-11,375000,M8 4FB,T,N,F,The Danes,6D,Ardern Road,,Manchester
+2023-07-31,250000,M8 4LU,S,N,F,11,,Hillwood Avenue,,Manchester
+2023-07-28,167500,M8 8SY,S,N,L,23,,Venture Scout Way,,Manchester
+2023-07-28,225000,M8 5AP,S,N,F,70,,Moss Bank,,Manchester
+2023-07-28,97000,M8 0WT,F,N,L,"Westwoods, 288",Flat 6,Cheetham Hill Road,,Manchester
+2023-07-27,163000,M8 4JY,F,N,L,Haversham Court,Flat 2,Middleton Road,,Manchester
+2023-07-24,260000,M8 5UU,T,N,L,35,,Chataway Road,,Manchester
+2023-07-21,120000,M8 0AU,F,N,L,15,,Deanery Court,,Manchester
+2023-07-19,120000,M8 0AR,T,N,L,11,,Martingale Court,,Manchester
+2023-07-17,212000,M8 5AE,T,N,F,51,,Cravenwood Road,,Manchester
+2023-07-14,330000,M8 4LB,S,N,L,140,,Middleton Road,,Manchester
+2023-07-13,190000,M8 9DH,S,N,F,1,,Maurice Pariser Walk,,Manchester
+2023-07-07,135000,M8 8BT,F,N,L,141,Apartment 13,Waterloo Road,,Manchester
+2023-07-05,125500,M8 8NT,F,N,L,St. Davids Court,Flat 82,Sherborne Street,,Manchester
+2023-06-26,88000,M8 0WT,F,N,L,"Westwoods, 288",Flat 301,Cheetham Hill Road,,Manchester
+2023-06-23,225000,M8 0GH,T,N,F,211,,Woodlands Road,,Manchester
+2023-06-22,289000,M8 5QE,S,Y,F,69,,Saddlecote Close,,Manchester
+2023-06-22,170000,M8 0WN,S,N,L,41C,,Cardinal Street,,Manchester
+2023-06-16,196000,M8 5EB,S,N,F,55,,Station Road,,Manchester
+2023-05-31,141000,M8 4PN,T,N,F,52,,Herristone Road,,Manchester
+2023-05-31,527250,M8 4JR,D,N,L,1,,Plymtree Close,,Manchester
+2023-05-31,122500,M8 0BY,F,N,L,2,Apartment 11,Stoneyholme Avenue,,Manchester
+2023-05-26,215000,M8 4LE,S,N,L,4,,Gwendor Avenue,,Manchester
+2023-05-25,215000,M8 5SJ,T,N,F,7,,Lidiard Street,,Manchester
+2023-05-24,190000,M8 9LZ,T,N,F,64,,Esmond Road,,Manchester
+2023-05-19,75000,M8 5UU,T,N,F,20,,Chataway Road,,Manchester
+2023-05-16,160000,M8 5QE,S,N,F,57,,Saddlecote Close,,Manchester
+2023-05-12,215000,M8 8XG,S,N,F,57,,Smedley Lane,,Manchester
+2023-05-05,100000,M8 4JW,T,N,L,19,,Sharnbrook Walk,,Manchester
+2023-05-04,122500,M8 9AL,T,N,L,60,,Abercarn Close,,Manchester
+2023-04-28,215000,M8 8SY,S,N,L,31,,Venture Scout Way,,Manchester
+2023-04-28,190000,M8 5XJ,T,N,L,3,,Brightside Road,,Manchester
+2023-04-28,138000,M8 5AD,T,N,F,39,,Dobroyd Street,,Manchester
+2023-04-18,166000,M8 0WE,T,N,F,13,,Birkdale Street,,Manchester
+2023-04-18,166000,M8 0WE,T,N,F,13,,Birkdale Street,,Manchester
+2023-04-14,175000,M8 8UR,T,N,L,7,,Redwood Drive,,Manchester
+2023-04-11,210000,M8 4JJ,D,N,F,4,,Brooklands Road,Crumpsall,Manchester
+2023-04-06,256000,M8 5AT,T,N,F,34,,Ash Tree Road,,Manchester
+2023-04-05,245000,M8 5AR,S,N,F,9,,Maureen Avenue,,Manchester
+2023-04-05,70000,M8 0WP,T,N,L,98,,Cardinal Street,,Manchester
+2023-04-03,60000,M8 4WW,F,N,L,Towngreen Court,Flat 9,Holland Road,,Manchester
+2023-04-03,95000,M8 4LF,F,N,L,40,,Bowker Bank Avenue,Crumpsall,Manchester
+2023-03-31,190000,M8 5BG,S,N,F,24,,Seymour Road,,Manchester
+2023-03-31,300000,M8 4LS,S,N,F,6,,Northurst Drive,,Manchester
+2023-03-31,140000,M8 4GJ,T,N,L,98,,Kearsley Road,,Manchester
+2023-03-31,120000,M8 0ST,T,N,F,18,,Galsworthy Avenue,,Manchester
+2023-03-22,180000,M8 5QA,D,N,F,22,,Charminster Drive,,Manchester
+2023-03-20,67600,M8 0SZ,T,N,F,5,,Elmfield Street,,Manchester
+2023-03-16,424000,M8 4WQ,D,N,L,14,,Wilton Road,Crumpsall,Manchester
+2023-03-14,69000,M8 5DZ,F,N,L,"Tara Apartments, 12",3,St Marys Hall Road,,Manchester
+2023-03-10,56000,M8 4PY,F,N,L,27,,Givendale Drive,Crumpsall,Manchester
+2023-03-06,195000,M8 9LX,T,N,F,57,,Esmond Road,,Manchester
+2023-03-03,121000,M8 9EP,T,N,L,22,,Copthall Lane,,Manchester
+2023-03-03,80000,M8 0AX,T,N,L,332,,Waterloo Road,,Manchester
+2023-02-28,175000,M8 8YJ,D,N,L,19,,Jameson Close,,Manchester
+2023-02-28,156000,M8 8BY,F,N,L,59,,Waterloo Road,,Manchester
+2023-02-28,250000,M8 8AZ,S,N,L,5,,Stephen Oake Close,,Manchester
+2023-02-28,160000,M8 5AB,S,N,F,3,,Moss Bank,,Manchester
+2023-02-28,302000,M8 0SN,T,N,F,303,,Cheetham Hill Road,,Manchester
+2023-02-28,160000,M8 0BT,T,N,L,4,,Appleton Street,,Manchester
+2023-02-24,197000,M8 8SY,S,N,L,11,,Venture Scout Way,,Manchester
+2023-02-17,190000,M8 5YB,T,N,F,8,,Bilton Walk,,Manchester
+2023-02-17,132000,M8 4JU,F,N,L,"Brookland Court, 110",Flat 9,Middleton Road,,Manchester
+2023-02-17,80000,M8 0GQ,F,N,L,107,Apartment 9,Hazelbottom Road,,Manchester
+2023-02-15,125500,M8 8NT,F,N,L,St. Davids Court,Flat 100,Sherborne Street,,Manchester
+2023-02-15,210000,M8 8AZ,S,N,L,4,,Stephen Oake Close,,Manchester
+2023-02-13,255000,M8 8DB,T,N,L,2E,,Barrow Hill Road,,Manchester
+2023-02-13,205000,M8 5UJ,T,N,F,171,,Crescent Road,,Manchester
+2023-02-10,278000,M8 4QF,T,N,L,9,,Cliffdale Drive,,Manchester
+2023-02-10,302000,M8 4LT,S,N,L,21,,Newington Avenue,,Manchester
+2023-02-09,185000,M8 5DZ,T,N,L,40,,St Marys Hall Road,,Manchester
+2023-02-06,190000,M8 0NW,S,N,F,36,,Greenford Road,,Manchester
+2023-01-27,212000,M8 5UU,T,N,F,6,,Chataway Road,,Manchester
+2023-01-26,330000,M8 4JB,S,N,L,11,,Haversham Road,,Manchester
+2023-01-25,200000,M8 8BY,F,N,L,73,,Waterloo Road,,Manchester
+2023-01-25,50000,M8 0LW,S,N,F,30,,Huxley Avenue,,Manchester
+2023-01-24,143000,M8 0QL,S,N,F,60,,Chime Bank,,Manchester
+2023-01-20,158000,M8 5UL,T,N,L,34,,Wellington Road,Crumpsall,Manchester
+2023-01-20,170000,M8 0AQ,T,N,L,12,,Knightswood Road,,Manchester
+2023-01-19,115000,M8 4GW,T,N,F,83,,Brynorme Road,,Manchester
+2023-01-17,225000,M8 5AB,S,N,F,10,,Moss Bank,,Manchester
+2023-01-17,155000,M8 0QA,T,N,F,35,,Alms Hill Road,,Manchester
+2023-01-13,210000,M8 5RX,S,N,F,7,,Westbury Road,,Manchester
+2023-01-12,60000,M8 5DZ,F,N,L,14,Flat 3,St Marys Hall Road,,Manchester
+2022-12-20,110000,M8 0AU,F,N,L,7,,Deanery Court,,Manchester
+2022-12-16,195000,M8 8YG,S,N,L,14,,Addenbrook Road,,Manchester
+2022-12-16,95000,M8 5SB,T,N,F,2,,Moorside Road,,Manchester
+2022-12-16,175000,M8 5QD,T,N,F,21,,Springfield Avenue,,Manchester
+2022-12-15,224500,M8 4PE,S,N,L,17,,Atherstone Avenue,,Manchester
+2022-12-09,130000,M8 4RA,S,N,F,42,,Parkhill Avenue,,Manchester
+2022-12-07,245000,M8 9LJ,T,N,F,44,,Woodlands Road,,Manchester
+2022-12-06,118000,M8 8BT,F,N,L,141,Apartment 14,Waterloo Road,,Manchester
+2022-12-05,350000,M8 9EN,T,N,F,16,,Rachel Rosing Walk,,Manchester
+2022-12-02,250000,M8 4FT,S,N,F,18,,Dinorwic Close,,Manchester
+2022-12-01,200000,M8 9BS,T,N,F,2,,Alderwood Walk,,Manchester
+2022-11-30,267000,M8 5RX,S,N,F,21,,Westbury Road,,Manchester
+2022-11-29,260000,M8 5QE,T,N,F,37,,Saddlecote Close,,Manchester
+2022-11-28,95000,M8 5DZ,T,N,L,42,,St Marys Hall Road,,Manchester
+2022-11-25,140000,M8 8YH,S,N,L,3,,Stonefield Drive,,Manchester
+2022-11-25,140000,M8 8YH,T,N,L,21,,Stonefield Drive,,Manchester
+2022-11-25,240000,M8 0WR,S,N,F,25,,Greenstead Avenue,,Manchester
+2022-11-25,118500,M8 0BS,F,N,L,21,Apartment 6,Appleton Street,,Manchester
+2022-11-23,135000,M8 0AU,F,N,L,30,,Deanery Court,,Manchester
+2022-11-18,251000,M8 5XJ,S,N,L,29,,Brightside Road,,Manchester
+2022-11-11,117000,M8 4HG,F,N,L,22,Flat 5,Melton Road,,Manchester
+2022-11-04,110000,M8 0BP,F,N,L,1,Apartment 4,Appleton Street,,Manchester
+2022-10-31,168000,M8 9LP,T,N,F,39,,Chiselhurst Street,,Manchester
+2022-10-31,270000,M8 4WT,S,N,L,13,,Moorland Avenue,,Manchester
+2022-10-28,63000,M8 5DZ,F,N,L,14,Flat 5,St Marys Hall Road,,Manchester
+2022-10-28,280000,M8 4WN,S,N,L,23,,Ardern Road,,Manchester
+2022-10-28,160000,M8 0GZ,T,N,F,31,,Lecester Road,,Manchester
+2022-10-27,130000,M8 5AU,T,N,F,29,,Whiston Road,,Manchester
+2022-10-25,450000,M8 5DZ,T,N,L,20,,St Marys Hall Road,,Manchester
+2022-10-24,231000,M8 4PE,S,N,L,4,,Atherstone Avenue,,Manchester
+2022-10-24,151000,M8 4GY,T,N,F,106,,Parkhill Avenue,,Manchester
+2022-10-24,253000,M8 0UA,S,N,L,15,,Eckford Street,,Manchester
+2022-10-24,270000,M8 0PN,T,N,F,7,,Brideoak Street,,Manchester
+2022-10-21,149950,M8 4RE,T,N,F,147,,Delaunays Road,,Manchester
+2022-10-21,39000,M8 0QL,T,N,L,26,,Chime Bank,,Manchester
+2022-10-17,80000,M8 0GQ,S,N,L,95,,Hazelbottom Road,,Manchester
+2022-10-14,148974,M8 9NT,S,N,F,64,,Crescent Road,,Manchester
+2022-10-14,240000,M8 4EP,S,N,L,64,,Wilton Road,Crumpsall,Manchester
+2022-10-13,195000,M8 8YT,S,N,L,2,,Sandering Drive,,Manchester
+2022-10-13,100000,M8 5RY,T,N,F,13,,Newland Street,,Manchester
+2022-10-07,182000,M8 8SY,S,N,L,24,,Venture Scout Way,,Manchester
+2022-10-07,135000,M8 8BY,T,N,L,53,,Waterloo Road,,Manchester
+2022-10-06,241000,M8 0NR,S,N,F,32,,Greenstead Avenue,,Manchester
+2022-10-04,122000,M8 8ND,F,N,L,St. Davids Court,Flat 4,Sherborne Street,,Manchester
+2022-10-04,135000,M8 4LB,F,N,L,Lovell Court,Flat 15,Middleton Road,,Manchester
+2022-09-30,194000,M8 0SS,T,N,F,47,,Faraday Avenue,,Manchester
+2022-09-30,116000,M8 0AJ,F,N,L,2,Apartment 8,Brandforth Road,,Manchester
+2022-09-27,230000,M8 9DH,T,N,F,2,,Maurice Pariser Walk,,Manchester
+2022-09-27,125000,M8 0AR,F,N,L,4,,Martingale Court,,Manchester
+2022-09-23,110000,M8 5EA,F,N,L,23 - 25,Flat 5,Rectory Road,,Manchester
+2022-09-23,315000,M8 0WS,S,N,F,18,,Balliol Street,,Manchester
+2022-09-21,170000,M8 9LD,T,N,F,67,,Greenhill Road,,Manchester
+2022-09-20,135000,M8 4JY,F,N,L,Haversham Court,Flat 2,Middleton Road,,Manchester
+2022-09-16,261000,M8 4QH,S,N,L,29,,Saxon Avenue,,Manchester
+2022-09-16,250000,M8 4PT,S,N,F,22,,Mariman Drive,,Manchester
+2022-09-16,200000,M8 0LX,T,N,F,53,,Huxley Avenue,,Manchester
+2022-09-14,261000,M8 0JT,T,N,L,15,,Whitebarn Avenue,,Manchester
+2022-09-13,185000,M8 5GD,T,N,F,13,,Wellfield Road,Crumpsall,Manchester
+2022-09-09,265000,M8 5SW,S,N,L,13,,Hermitage Road,,Manchester
+2022-09-09,185000,M8 5BD,T,N,L,17,,Lowther Road,,Manchester
+2022-09-06,165000,M8 4PZ,S,N,F,22,,Givendale Drive,Crumpsall,Manchester
+2022-09-03,405000,M8 5FB,T,N,F,38,,Crumpsall Lane,,Manchester
+2022-09-02,160000,M8 8BZ,F,N,L,6,,St Albans Terrace,,Manchester
+2022-09-02,120000,M8 5QE,S,N,F,45,,Saddlecote Close,,Manchester
+2022-09-02,320000,M8 4JF,S,N,L,38,,Huntley Road,,Manchester
+2022-08-30,130000,M8 8BJ,F,N,L,16,Flat 12,Larch Gardens,,Manchester
+2022-08-26,110000,M8 0BR,F,N,L,18,Apartment 4,Appleton Street,,Manchester
+2022-08-26,205000,M8 0AW,T,N,L,27,,Abbotsfield Court,,Manchester
+2022-08-23,205000,M8 0QA,S,N,F,51,,Alms Hill Road,,Manchester
+2022-08-22,105000,M8 0GD,T,N,F,4,,Wilby Street,,Manchester
+2022-08-19,312000,M8 4HZ,S,N,L,26,,Edilom Road,,Manchester
+2022-08-17,205000,M8 8ES,D,N,L,28,,Everside Drive,,Manchester
+2022-08-16,250000,M8 0UB,S,N,L,2,,Bunyard Street,,Manchester
+2022-08-12,155750,M8 5RT,T,N,F,27,,Birch Road,,Manchester
+2022-08-12,200000,M8 5AP,S,N,F,73,,Moss Bank,,Manchester
+2022-08-12,212000,M8 4PF,S,N,L,21,,Maldwyn Avenue,,Manchester
+2022-08-10,232500,M8 5AU,S,N,F,5,,Whiston Road,,Manchester
+2022-08-09,275000,M8 4JA,S,N,L,11,,Rothesay Road,,Manchester
+2022-08-08,470000,M8 4JF,S,N,L,28,,Huntley Road,,Manchester
+2022-08-08,326000,M8 4HY,S,N,L,63,,Edilom Road,,Manchester
+2022-08-03,150000,M8 0QH,T,N,L,206,,Woodlands Road,,Manchester
+2022-08-02,62000,M8 4NP,F,N,L,"Carmel Court, 14",Flat 41,Holland Road,,Manchester
+2022-08-02,62000,M8 4NP,F,N,L,"Carmel Court, 14",Flat 53,Holland Road,,Manchester
+2022-07-29,278000,M8 5QE,S,Y,F,71,,Saddlecote Close,,Manchester
+2022-07-29,170000,M8 0SG,T,N,F,14,,Beechfield Street,,Manchester
+2022-07-29,180000,M8 0NS,S,N,F,87,,Greenhill Road,,Manchester
+2022-07-28,340000,M8 4WT,S,N,L,1,,Moorland Avenue,,Manchester
+2022-07-28,500000,M8 4HZ,S,N,F,62,,Edilom Road,,Manchester
+2022-07-25,215000,M8 0RR,D,N,F,4,,Caradoc Avenue,,Manchester
+2022-07-22,120000,M8 8BT,F,N,L,143,Apartment 5,Waterloo Road,,Manchester
+2022-07-22,211500,M8 0AL,T,N,L,7B,,Alderglen Road,,Manchester
+2022-07-15,183800,M8 8DB,S,N,L,16,,Barrow Hill Road,,Manchester
+2022-07-14,207000,M8 5UU,T,N,F,5,,Chataway Road,,Manchester
+2022-07-14,300000,M8 4LT,S,N,L,22,,Newington Avenue,,Manchester
+2022-07-08,176000,M8 8YH,S,N,L,17,,Stonefield Drive,,Manchester
+2022-07-08,207500,M8 5QE,S,N,F,47,,Saddlecote Close,,Manchester
+2022-07-08,115000,M8 0ST,T,N,F,54,,Galsworthy Avenue,,Manchester
+2022-07-06,125000,M8 8BZ,F,N,L,5,,St Albans Terrace,,Manchester
+2022-06-30,187000,M8 5ED,T,N,L,37,,Bennett Road,,Manchester
+2022-06-29,188000,M8 8YG,D,N,L,2,,Addenbrook Road,,Manchester
+2022-06-27,137000,M8 9LW,T,N,F,37,,Daresbury Street,,Manchester
+2022-06-27,200000,M8 8SY,T,N,L,46,,Venture Scout Way,,Manchester
+2022-06-23,265000,M8 5EG,S,Y,L,84,,Saddlecote Close,,Manchester
+2022-06-21,258000,M8 5EG,S,Y,F,86,,Saddlecote Close,,Manchester
+2022-06-20,70000,M8 8BS,T,N,L,21,,Wellmead Close,,Manchester
+2022-06-17,288000,M8 5QE,S,N,F,99,,Saddlecote Close,,Manchester
+2022-06-17,268000,M8 5EG,S,Y,F,82,,Saddlecote Close,,Manchester
+2022-06-16,278000,M8 5QE,S,N,F,101,,Saddlecote Close,,Manchester
+2022-06-10,278000,M8 5EG,S,Y,F,72,,Saddlecote Close,,Manchester
+2022-06-10,120000,M8 5AF,T,N,F,2,,Rebecca Street,,Manchester
+2022-06-10,89000,M8 4LL,F,N,L,21,,Bowker Bank Avenue,Crumpsall,Manchester
+2022-06-10,150000,M8 0NW,S,N,F,26,,Greenford Road,,Manchester
+2022-06-09,245000,M8 4HX,S,N,L,9,,Edilom Road,,Manchester
+2022-06-07,750000,M8 4HT,D,N,F,25,,Park Road,,Manchester
+2022-06-01,249000,M8 9GH,T,N,L,17,,St Marks Lane,,Manchester
+2022-05-30,320000,M8 0BX,D,N,F,6,,Stoneyholme Avenue,,Manchester
+2022-05-27,162500,M8 8SY,S,N,L,37,,Venture Scout Way,,Manchester
+2022-05-26,80000,M8 8BZ,F,N,L,2,,St Albans Terrace,,Manchester
+2022-05-24,157500,M8 8YR,S,N,L,1,,Otter Drive,,Manchester
+2022-05-24,40000,M8 4NP,F,N,L,"Carmel Court, 14",Flat 27,Holland Road,,Manchester
+2022-05-20,175000,M8 8SY,T,N,L,30,,Venture Scout Way,,Manchester
+2022-05-20,225000,M8 4FL,S,N,F,12,,Sinclair Avenue,,Manchester
+2022-05-18,160000,M8 8UR,T,N,L,7,,Redwood Drive,,Manchester
+2022-05-18,75000,M8 4JA,S,N,L,13,,Rothesay Road,,Manchester
+2022-05-16,272500,M8 4JD,S,N,L,44,,Cedric Road,,Manchester
+2022-05-16,500000,M8 4HU,S,N,L,40,,Park Road,,Manchester
+2022-05-16,250000,M8 4FF,S,N,L,5,,Kenslow Avenue,,Manchester
+2022-05-13,60000,M8 5DZ,F,N,L,"Tara Apartments, 12",1,St Marys Hall Road,,Manchester
+2022-05-13,100000,M8 0AU,F,N,L,12,,Deanery Court,,Manchester
+2022-05-11,185000,M8 8JD,S,N,L,4,,Glenville Road,,Manchester
+2022-05-09,330000,M8 4GS,D,N,F,7,,Cleveland Road,Crumpsall,Manchester
+2022-05-06,325000,M8 5SQ,F,N,L,10,,Houghton Road,,Manchester
+2022-05-03,162000,M8 8SY,S,N,L,38,,Venture Scout Way,,Manchester
+2022-05-02,102000,M8 0SX,T,N,F,3,,Kelvin Grove,,Manchester
+2022-04-29,181000,M8 8ES,S,N,L,32,,Everside Drive,,Manchester
+2022-04-29,285000,M8 4JD,S,N,L,12,,Cedric Road,,Manchester
+2022-04-29,115000,M8 0BR,F,N,L,18,Apartment 5,Appleton Street,,Manchester
+2022-04-27,283000,M8 5EG,S,Y,F,80,,Saddlecote Close,,Manchester
+2022-04-27,268000,M8 5EG,S,Y,F,76,,Saddlecote Close,,Manchester
+2022-04-27,185000,M8 0ND,T,N,F,30,,Shirley Road,,Manchester
+2022-04-25,255000,M8 5EG,S,Y,L,74,,Saddlecote Close,,Manchester
+2022-04-25,155000,M8 0RA,T,N,F,66,,Lecester Road,,Manchester
+2022-04-21,235000,M8 5SH,T,N,F,72,,Lansdowne Road,,Manchester
+2022-04-14,125000,M8 4PW,T,N,F,9,,Chudleigh Road,,Manchester
+2022-04-14,170168,M8 0TT,S,N,F,2,,Dinnington Drive,,Manchester
+2022-04-11,65000,M8 8YU,D,N,L,2,,Olanyian Drive,,Manchester
+2022-04-08,118000,M8 8XD,T,N,F,46,,Smedley Lane,,Manchester
+2022-04-07,80000,M8 0PW,F,N,L,409,Flat 19,Cheetham Hill Road,,Manchester
+2022-04-06,190000,M8 0PU,S,N,F,8,,Durley Avenue,,Manchester
+2022-04-04,110000,M8 5SN,S,N,L,27,,Linn Street,,Manchester
+2022-04-01,120000,M8 9AL,F,N,L,40,,Abercarn Close,,Manchester
+2022-04-01,145000,M8 0WL,S,N,F,11,,Shaftesbury Road,,Manchester
+2022-03-31,240000,M8 4LF,S,N,L,26,,Bowker Bank Avenue,Crumpsall,Manchester
+2022-03-31,210000,M8 4HF,F,N,L,Holly Court,Flat 6,Catherine Road,,Manchester
+2022-03-30,230000,M8 0AL,T,N,L,11,,Alderglen Road,,Manchester
+2022-03-25,155000,M8 4QZ,T,N,F,89,,Parkhill Avenue,,Manchester
+2022-03-25,254000,M8 4PJ,S,N,L,78,,Wilton Road,Crumpsall,Manchester
+2022-03-25,250000,M8 4PD,S,N,L,87,,Wilton Road,Crumpsall,Manchester
+2022-03-25,265000,M8 4JA,S,N,L,35,,Rothesay Road,,Manchester
+2022-03-25,158000,M8 0GY,T,N,F,22,,Hawkeshead Road,,Manchester
+2022-03-24,126500,M8 0RF,S,N,F,20,,Rowood Avenue,,Manchester
+2022-03-24,100000,M8 0AU,F,N,L,31,,Deanery Court,,Manchester
+2022-03-22,50000,M8 4RA,T,N,F,32,,Parkhill Avenue,,Manchester
+2022-03-21,178000,M8 8UR,T,N,L,10,,Redwood Drive,,Manchester
+2022-03-17,276500,M8 4QF,S,N,L,37,,Cliffdale Drive,,Manchester
+2022-03-15,72911,M8 0SX,T,N,F,13,,Kelvin Grove,,Manchester
+2022-03-14,240000,M8 5XJ,T,N,F,5,,Brightside Road,,Manchester
+2022-03-11,178000,M8 4NZ,S,N,L,4,,Welford Road,,Manchester
+2022-03-10,140000,M8 0ST,T,N,F,48,,Galsworthy Avenue,,Manchester
+2022-03-08,145000,M8 8UD,T,N,L,11,,Falfield Drive,,Manchester
+2022-03-07,125000,M8 8BZ,T,N,L,14,,St Albans Terrace,,Manchester
+2022-03-02,253000,M8 5QE,S,Y,F,97,,Saddlecote Close,,Manchester
+2022-02-28,180000,M8 8SY,S,N,L,41,,Venture Scout Way,,Manchester
+2022-02-25,185000,M8 0AR,T,N,L,5,,Martingale Court,,Manchester
+2022-02-23,380000,M8 5EA,T,N,F,9,,Rectory Road,,Manchester
+2022-02-23,109000,M8 0AS,F,N,L,1,,Keane Court,,Manchester
+2022-02-22,168000,M8 5SD,T,N,F,9,,Woodfield Road,,Manchester
+2022-02-22,87500,M8 4QS,F,N,L,14,Apartment 5,Delaunays Road,,Manchester
+2022-02-18,210000,M8 8DB,S,N,L,48,,Barrow Hill Road,,Manchester
+2022-02-18,255000,M8 0DF,D,N,F,142,,Heywood Street,,Manchester
+2022-02-17,290000,M8 5TA,S,N,F,3,,Ash Tree Road,,Manchester
+2022-02-16,285000,M8 4LJ,S,N,L,9,,Monica Avenue,,Manchester
+2022-02-16,180000,M8 0GQ,T,N,L,109,,Hazelbottom Road,,Manchester
+2022-02-15,150000,M8 9EJ,T,N,F,9,,Grangeforth Road,,Manchester
+2022-02-11,190000,M8 9AL,S,N,L,88,,Abercarn Close,,Manchester
+2022-02-11,180000,M8 0UA,S,N,L,1,,Eckford Street,,Manchester
+2022-02-11,108000,M8 0AJ,F,N,L,2,Apartment 1,Brandforth Road,,Manchester
+2022-02-10,197000,M8 5SL,T,N,F,14,,Eadington Street,,Manchester
+2022-02-10,310000,M8 4JA,T,N,L,21,,Rothesay Road,,Manchester
+2022-02-09,82500,M8 0SE,F,N,L,42 - 44,Flat 6,Bignor Street,,Manchester
+2022-02-08,110000,M8 8BJ,F,N,L,4,Flat 7,Larch Gardens,,Manchester
+2022-02-07,75000,M8 9LW,T,N,F,52,,Daresbury Street,,Manchester
+2022-02-04,220000,M8 4WL,F,N,L,8,,Grosvenor House Mews,Crumpsall,Manchester
+2022-02-01,325000,M8 4NG,S,N,F,7,,Wilton Road,Crumpsall,Manchester
+2022-02-01,335000,M8 4NG,S,N,F,5,,Wilton Road,Crumpsall,Manchester
+2022-02-01,150000,M8 0WN,S,N,L,39D,,Cardinal Street,,Manchester
+2022-01-27,116000,M8 8ND,F,N,L,St. Davids Court,Flat 15,Sherborne Street,,Manchester
+2022-01-26,580000,M8 4JJ,D,N,F,12,,Brooklands Road,Crumpsall,Manchester
+2022-01-21,305000,M8 4PH,S,N,F,10,,Mayberth Avenue,,Manchester
+2022-01-21,120000,M8 4NY,S,N,L,1,,Windle Avenue,,Manchester
+2022-01-20,155000,M8 0WL,S,N,F,45,,Shaftesbury Road,,Manchester
+2022-01-20,180000,M8 0GQ,T,N,L,129,,Hazelbottom Road,,Manchester
+2022-01-18,116500,M8 8BJ,F,N,L,2,Flat 9,Larch Gardens,,Manchester
+2022-01-18,230000,M8 0GQ,T,N,L,131,,Hazelbottom Road,,Manchester
+2022-01-17,330000,M8 4HY,S,N,L,59,,Edilom Road,,Manchester
+2022-01-17,500000,M8 4HU,S,N,L,22,,Park Road,,Manchester
+2022-01-13,165000,M8 9PB,S,N,F,25,,Winterford Road,,Manchester
+2022-01-11,260000,M8 4LT,S,N,L,6,,Newington Avenue,,Manchester
+2022-01-10,65000,M8 8BS,F,N,L,65,,Wellmead Close,,Manchester
+2022-01-07,282000,M8 5UJ,T,N,F,169,,Crescent Road,,Manchester
+2021-12-22,125000,M8 4PZ,T,N,L,103,,Givendale Drive,Crumpsall,Manchester
+2021-12-22,130000,M8 0SR,T,N,F,56,,Faraday Avenue,,Manchester
+2021-12-21,257000,M8 5QE,S,Y,F,95,,Saddlecote Close,,Manchester
+2021-12-17,80000,M8 8BJ,F,N,L,16,Flat 17,Larch Gardens,,Manchester
+2021-12-17,82500,M8 8BJ,F,N,L,16,Flat 2,Larch Gardens,,Manchester
+2021-12-17,165000,M8 5XJ,T,N,L,21,,Brightside Road,,Manchester
+2021-12-17,130000,M8 4QW,T,N,F,110,,Brynorme Road,,Manchester
+2021-12-17,78000,M8 4GT,S,N,F,85B,,Cleveland Road,Crumpsall,Manchester
+2021-12-16,125000,M8 0NJ,S,N,F,8,,Chalfont Drive,,Manchester
+2021-12-14,99900,M8 0AU,F,N,L,2,,Deanery Court,,Manchester
+2021-12-10,215000,M8 5UB,T,N,L,8,,Celia Street,,Manchester
+2021-12-08,80000,M8 0WT,F,N,L,"Westwoods, 288",Flat 205,Cheetham Hill Road,,Manchester
+2021-12-08,171000,M8 0DB,T,N,L,17,,Humber Street,,Manchester
+2021-12-06,118000,M8 0BY,F,N,L,2,Apartment 9,Stoneyholme Avenue,,Manchester
+2021-12-01,130000,M8 4GJ,T,N,L,110,,Kearsley Road,,Manchester
+2021-11-30,130000,M8 0SX,T,N,F,8,,Kelvin Grove,,Manchester
+2021-11-29,136000,M8 4JX,F,N,L,Lynwood Court,Flat 16,Middleton Road,,Manchester
+2021-11-29,482500,M8 4JT,D,N,F,9,,Bettwood Drive,,Manchester
+2021-11-29,109000,M8 0AR,F,N,L,64,,Martingale Court,,Manchester
+2021-11-26,80000,M8 4LL,F,N,L,25,,Bowker Bank Avenue,Crumpsall,Manchester
+2021-11-25,252000,M8 4GF,S,N,F,36,,Kearsley Road,,Manchester
+2021-11-23,105000,M8 5UP,F,N,F,3,,Duchess Road,Crumpsall,Manchester
+2021-11-18,129950,M8 4JY,F,N,L,Haversham Court,Flat 4,Middleton Road,,Manchester
+2021-11-15,103000,M8 0AR,F,N,L,74,,Martingale Court,,Manchester
+2021-11-12,180000,M8 4FJ,S,N,L,43,,Highclere Road,,Manchester
+2021-11-10,260000,M8 4JD,S,N,L,32,,Cedric Road,,Manchester
+2021-11-10,113000,M8 0AS,F,N,L,12,,Keane Court,,Manchester
+2021-11-05,140000,M8 8BY,F,N,L,83,,Waterloo Road,,Manchester
+2021-11-03,152000,M8 4QL,T,N,F,1,,Kathkin Avenue,,Manchester
+2021-10-29,112500,M8 8BJ,F,N,L,4,Flat 14,Larch Gardens,,Manchester
+2021-10-29,243000,M8 5QE,T,N,F,35,,Saddlecote Close,,Manchester
+2021-10-29,211500,M8 4PE,S,N,L,23,,Atherstone Avenue,,Manchester
+2021-10-25,80000,M8 4PL,T,N,F,79,,Herristone Road,,Manchester
+2021-10-22,112000,M8 0GQ,F,N,L,107,Apartment 13,Hazelbottom Road,,Manchester
+2021-10-21,295000,M8 5QE,D,Y,F,93,,Saddlecote Close,,Manchester
+2021-10-15,117500,M8 4PB,T,N,F,50,,Coppleridge Drive,,Manchester
+2021-10-15,135252,M8 0RA,S,N,L,26,,Lecester Road,,Manchester
+2021-10-11,50000,M8 4PZ,F,N,L,47,,Givendale Drive,Crumpsall,Manchester
+2021-10-08,220000,M8 0RS,T,N,F,115,,Smedley Road,,Manchester
+2021-10-08,178100,M8 0AY,T,N,F,81,,Brideoak Street,,Manchester
+2021-10-06,140250,M8 8AZ,S,N,L,2,,Stephen Oake Close,,Manchester
+2021-10-01,124995,M8 5UQ,T,N,F,72,,Duchess Road,Crumpsall,Manchester
+2021-09-30,220000,M8 5EQ,S,N,L,8,,Magna Drive,,Manchester
+2021-09-30,137500,M8 4WP,F,N,L,Holland Court,Flat 8,Holland Road,,Manchester
+2021-09-30,295000,M8 4WN,S,N,L,11,,Ardern Road,,Manchester
+2021-09-30,380000,M8 4RB,D,N,F,6,,Alan Womack Close,Crumpsall,Manchester
+2021-09-30,270000,M8 4JZ,T,N,L,203,,Middleton Road,,Manchester
+2021-09-30,225000,M8 0RS,T,N,F,113,,Smedley Road,,Manchester
+2021-09-28,177000,M8 4LA,S,N,L,17,,Whitehouse Avenue,,Manchester
+2021-09-20,155000,M8 8DB,S,N,L,54,,Barrow Hill Road,,Manchester
+2021-09-20,100000,M8 5SE,T,N,F,8,,Brookfield Road,,Manchester
+2021-09-20,110000,M8 4PN,S,N,F,82,,Herristone Road,,Manchester
+2021-09-17,205000,M8 5SW,T,N,F,47,,Hermitage Road,,Manchester
+2021-09-17,325000,M8 4JU,S,N,L,126,,Middleton Road,,Manchester
+2021-09-17,135000,M8 4HG,F,N,L,"Kensington Place, 26",Flat 3,Melton Road,,Manchester
+2021-09-17,220000,M8 0WN,S,N,F,66,,Cardinal Street,,Manchester
+2021-09-17,175000,M8 0WH,S,N,F,6,,Parslow Avenue,,Manchester
+2021-09-17,205000,M8 0NF,T,N,F,52,,Woodlands Road,,Manchester
+2021-09-16,119000,M8 4QJ,T,N,L,113,,Kearsley Road,,Manchester
+2021-09-14,230000,M8 5SF,T,N,F,37,,Lansdowne Road,,Manchester
+2021-09-14,81000,M8 4LF,F,N,L,50,,Bowker Bank Avenue,Crumpsall,Manchester
+2021-09-14,182000,M8 0GH,T,N,L,231,,Woodlands Road,,Manchester
+2021-09-09,200000,M8 0BN,T,N,L,38A,,Alms Hill Road,,Manchester
+2021-09-07,77500,M8 8BS,F,N,L,63,,Wellmead Close,,Manchester
+2021-08-27,140000,M8 4PL,T,N,L,25,,Herristone Road,,Manchester
+2021-08-20,135000,M8 5RT,T,N,F,27,,Birch Road,,Manchester
+2021-08-18,255000,M8 0AX,D,N,F,330,,Waterloo Road,,Manchester
+2021-08-17,135000,M8 4PE,S,N,L,22,,Atherstone Avenue,,Manchester
+2021-08-06,183000,M8 5XL,T,N,L,12,,Longshaw Close,,Manchester
+2021-08-06,130000,M8 5UW,T,N,F,14,,Hallworth Road,,Manchester
+2021-08-06,280000,M8 4LW,S,N,L,43,,Meade Hill Road,,Manchester
+2021-08-06,130000,M8 0WW,T,N,F,28,,Tolworth Drive,,Manchester
+2021-08-05,166000,M8 5RT,T,N,F,39,,Birch Road,,Manchester
+2021-08-02,62000,M8 4NP,F,N,L,"Carmel Court, 14",Flat 54,Holland Road,,Manchester
+2021-08-02,195000,M8 4HH,T,N,L,19,,Fraser Road,Crumpsall,Manchester
+2021-07-30,81500,M8 4QS,F,N,L,14,Apartment 8,Delaunays Road,,Manchester
+2021-07-30,125000,M8 4JX,F,N,L,Lynwood Court,Flat 7,Middleton Road,,Manchester
+2021-07-28,105000,M8 8BJ,F,N,L,16,Flat 6,Larch Gardens,,Manchester
+2021-07-26,175000,M8 8YH,S,N,L,11,,Stonefield Drive,,Manchester
+2021-07-23,140000,M8 5RU,T,N,F,2,,Birch Road,,Manchester
+2021-07-22,150000,M8 4FE,S,N,L,23,,Highclere Road,,Manchester
+2021-07-20,225000,M8 4JD,S,N,L,40,,Cedric Road,,Manchester
+2021-07-20,241000,M8 4GY,T,N,F,54,,Parkhill Avenue,,Manchester
+2021-07-19,98000,M8 0AH,D,N,L,1,,Brandforth Road,,Manchester
+2021-07-16,200000,M8 5AB,S,N,F,3,,Moss Bank,,Manchester
+2021-07-14,157000,M8 5AW,T,N,F,2,,Claude Street,,Manchester
+2021-07-12,140000,M8 0QH,T,N,F,152,,Woodlands Road,,Manchester
+2021-07-09,125000,M8 4WP,F,N,L,Holland Court,Flat 10,Holland Road,,Manchester
+2021-07-09,100000,M8 4LF,F,N,L,48,,Bowker Bank Avenue,Crumpsall,Manchester
+2021-07-08,264500,M8 4QY,S,N,F,72,,Cleveland Road,Crumpsall,Manchester
+2021-07-08,243000,M8 4GH,S,N,F,19,,Kearsley Road,,Manchester
+2021-07-07,212000,M8 5QE,S,Y,F,87,,Saddlecote Close,,Manchester
+2021-07-02,180000,M8 0GQ,T,N,L,123,,Hazelbottom Road,,Manchester
+2021-06-30,105000,M8 8ND,F,N,L,St. Davids Court,Flat 41,Sherborne Street,,Manchester
+2021-06-30,285000,M8 5QE,D,Y,F,91,,Saddlecote Close,,Manchester
+2021-06-30,212000,M8 5QE,S,Y,F,89,,Saddlecote Close,,Manchester
+2021-06-30,251950,M8 5EG,S,Y,F,68,,Saddlecote Close,,Manchester
+2021-06-30,375000,M8 4HJ,S,N,L,36,,Moxley Road,,Manchester
+2021-06-29,125000,M8 5RY,T,N,F,26,,Newland Street,,Manchester
+2021-06-25,210000,M8 0WG,S,N,F,90,,Greenhill Road,,Manchester
+2021-06-23,110000,M8 8BJ,F,N,L,16,Flat 10,Larch Gardens,,Manchester
+2021-06-23,251950,M8 5EG,S,Y,F,70,,Saddlecote Close,,Manchester
+2021-06-18,95000,M8 8BZ,F,N,L,6,,St Albans Terrace,,Manchester
+2021-06-18,230000,M8 5QE,T,N,F,41,,Saddlecote Close,,Manchester
+2021-06-16,308000,M8 4JU,D,N,F,128,,Middleton Road,,Manchester
+2021-06-16,94000,M8 0PW,F,N,L,409,Flat 10,Cheetham Hill Road,,Manchester
+2021-06-15,205000,M8 4HS,T,N,L,55,,Melton Road,,Manchester
+2021-06-15,80000,M8 0SG,T,N,F,19,,Beechfield Street,,Manchester
+2021-06-08,275000,M8 4ED,S,N,L,The Danes,1A,Crumpsall Lane,,Manchester
+2021-06-04,92000,M8 8BZ,F,N,L,18,,St Albans Terrace,,Manchester
+2021-05-28,290000,M8 4NR,S,N,L,22,,Belhaven Road,,Manchester
+2021-05-27,155000,M8 5XN,T,N,L,2,,Barsham Close,,Manchester
+2021-05-27,220000,M8 4JB,S,N,L,34,,Haversham Road,,Manchester
+2021-05-25,96000,M8 0AU,F,N,L,35,,Deanery Court,,Manchester
+2021-05-20,110000,M8 4JH,F,N,L,Hilltop Court,Flat 18,Brooklands Road,Crumpsall,Manchester
+2021-05-19,246950,M8 5EG,S,Y,L,60,,Saddlecote Close,,Manchester
+2021-05-19,175000,M8 0GQ,T,N,L,117,,Hazelbottom Road,,Manchester
+2021-05-18,200000,M8 0PZ,D,N,L,39,,Manswood Drive,,Manchester
+2021-05-17,195000,M8 5SW,S,N,F,1,,Hermitage Road,,Manchester
+2021-05-14,70000,M8 5RA,T,N,F,14,,Wareham Street,,Manchester
+2021-05-14,150000,M8 5AW,T,N,F,6,,Claude Street,,Manchester
+2021-05-11,85000,M8 5RA,T,N,F,9,,Wareham Street,,Manchester
+2021-05-10,145000,M8 5AX,T,N,F,39,,Ash Tree Road,,Manchester
+2021-05-10,39500,M8 4NP,F,N,L,"Carmel Court, 14",Flat 17,Holland Road,,Manchester
+2021-05-07,127000,M8 0RB,T,N,F,153,,Queens Road,,Manchester
+2021-04-30,499950,M8 4RB,D,N,F,4,,Alan Womack Close,Crumpsall,Manchester
+2021-04-29,130000,M8 4QL,S,N,F,23,,Kathkin Avenue,,Manchester
+2021-04-29,60000,M8 4JQ,F,N,L,3,,Claythorpe Walk,,Manchester
+2021-04-26,45000,M8 8BS,F,N,L,19,,Wellmead Close,,Manchester
+2021-04-23,105000,M8 0SQ,T,N,F,22,,Lytton Avenue,,Manchester
+2021-04-22,442500,M8 4RB,D,N,F,2,,Alan Womack Close,Crumpsall,Manchester
+2021-04-21,190000,M8 5UB,T,N,L,23,,Celia Street,,Manchester
+2021-04-16,480000,M8 9LF,S,N,F,21,,Woodlands Road,,Manchester
+2021-04-16,80000,M8 8BS,T,N,L,91,,Wellmead Close,,Manchester
+2021-04-14,200000,M8 4QF,S,N,L,8,,Cliffdale Drive,,Manchester
+2021-04-14,103000,M8 0NL,T,N,F,4,,Shaftesbury Road,,Manchester
+2021-04-09,115000,M8 4WP,F,N,L,Holland Court,Flat 13,Holland Road,,Manchester
+2021-04-08,218000,M8 4LT,S,N,L,21,,Newington Avenue,,Manchester
+2021-04-01,75000,M8 5UW,T,N,F,11,,Hallworth Road,,Manchester
+2021-04-01,228500,M8 5EG,S,Y,F,62,,Saddlecote Close,,Manchester
+2021-03-31,97500,M8 8BJ,F,N,L,4,Flat 6,Larch Gardens,,Manchester
+2021-03-31,75000,M8 5SQ,F,N,L,10,,Houghton Road,,Manchester
+2021-03-31,259950,M8 5EG,S,Y,L,34,,Saddlecote Close,,Manchester
+2021-03-30,205000,M8 5EG,S,Y,L,38,,Saddlecote Close,,Manchester
+2021-03-29,166000,M8 8YH,T,N,L,31,,Stonefield Drive,,Manchester
+2021-03-26,175000,M8 8UR,T,N,L,5,,Redwood Drive,,Manchester
+2021-03-26,45000,M8 8BS,T,N,L,55,,Wellmead Close,,Manchester
+2021-03-26,79800,M8 5UP,F,N,F,3,,Duchess Road,Crumpsall,Manchester
+2021-03-24,147000,M8 0NL,T,N,F,68,,Shaftesbury Road,,Manchester
+2021-03-22,270000,M8 5SQ,T,N,L,3,,Houghton Road,,Manchester
+2021-03-22,235000,M8 4LT,S,N,L,18,,Newington Avenue,,Manchester
+2021-03-19,172000,M8 5SE,S,N,F,24,,Brookfield Road,,Manchester
+2021-03-19,97000,M8 0SQ,T,N,F,8,,Lytton Avenue,,Manchester
+2021-03-18,147000,M8 0QH,T,N,F,150,,Woodlands Road,,Manchester
+2021-03-18,95000,M8 0AU,F,N,L,7,,Deanery Court,,Manchester
+2021-03-17,75000,M8 0PX,T,N,F,6,,Humber Street,,Manchester
+2021-03-12,173000,M8 5AG,S,N,F,7,,Sedgley Road,,Manchester
+2021-03-12,261000,M8 4PD,S,N,F,129,,Wilton Road,Crumpsall,Manchester
+2021-03-12,95000,M8 0QL,S,N,F,11,,Chime Bank,,Manchester
+2021-03-10,200000,M8 8BQ,T,N,L,52,,Elizabeth Street,,Manchester
+2021-03-09,180000,M8 5SW,S,N,F,41,,Hermitage Road,,Manchester
+2021-03-09,189000,M8 5QE,S,Y,L,75,,Saddlecote Close,,Manchester
+2021-03-08,181000,M8 0PZ,D,N,L,37,,Manswood Drive,,Manchester
+2021-03-05,187500,M8 5EG,S,Y,L,42,,Saddlecote Close,,Manchester
+2021-03-02,107500,M8 8BW,F,N,L,151,Flat 1,Elizabeth Street,,Manchester
+2021-02-26,395000,M8 4LY,D,N,F,305,,Middleton Road,,Manchester
+2021-02-23,270000,M8 4GT,D,N,F,63,,Cleveland Road,Crumpsall,Manchester
+2021-02-22,156000,M8 0RR,S,N,F,6,,Caradoc Avenue,,Manchester
+2021-02-19,191000,M8 5QE,S,Y,F,73,,Saddlecote Close,,Manchester
+2021-02-19,101000,M8 0SQ,T,N,F,24,,Lytton Avenue,,Manchester
+2021-02-18,204000,M8 4QH,S,N,L,27,,Saxon Avenue,,Manchester
+2021-02-16,225000,M8 5EG,S,Y,L,52,,Saddlecote Close,,Manchester
+2021-02-15,135000,M8 4PL,T,N,L,25,,Herristone Road,,Manchester
+2021-02-12,207000,M8 5EG,S,Y,F,50,,Saddlecote Close,,Manchester
+2021-02-12,300000,M8 4WR,T,N,L,15,,Belhaven Road,,Manchester
+2021-02-12,400000,M8 4LY,D,N,L,301,,Middleton Road,,Manchester
+2021-02-10,130000,M8 4NF,S,N,L,44,,Kendall Road,,Manchester
+2021-02-05,212000,M8 5UB,T,N,L,19,,Celia Street,,Manchester
+2021-02-05,204000,M8 5EG,S,Y,F,40,,Saddlecote Close,,Manchester
+2021-02-05,440000,M8 4RB,D,N,F,1,,Alan Womack Close,Crumpsall,Manchester
+2021-02-05,40000,M8 0WP,T,N,L,100,,Cardinal Street,,Manchester
+2021-02-05,100000,M8 0NN,T,N,F,3,,Rainham Drive,,Manchester
+2021-02-05,250000,M8 0ND,S,N,F,2,,Shirley Road,,Manchester
+2021-02-05,95000,M8 0BP,F,N,L,1,Apartment 1,Appleton Street,,Manchester
+2021-02-05,160000,M8 0AW,F,N,L,2,,Abbotsfield Court,,Manchester
+2021-02-02,125500,M8 4GG,T,N,F,7,,Answell Avenue,,Manchester
+2021-02-01,124000,M8 0SG,T,N,F,9,,Beechfield Street,,Manchester
+2021-02-01,155000,M8 0AQ,T,N,L,4,,Knightswood Road,,Manchester
+2021-01-28,230000,M8 4PD,S,N,L,103,,Wilton Road,Crumpsall,Manchester
+2021-01-27,140000,M8 4PL,T,N,L,17,,Herristone Road,,Manchester
+2021-01-26,217500,M8 5EQ,S,N,L,16,,Magna Drive,,Manchester
+2021-01-22,155000,M8 5SD,T,N,F,18,,Woodfield Road,,Manchester
+2021-01-21,153000,M8 0NB,T,N,F,24,,Avondale Street,,Manchester
+2021-01-20,130000,M8 5SE,T,N,F,17,,Brookfield Road,,Manchester
+2021-01-18,247000,M8 5AT,S,N,F,40,,Ash Tree Road,,Manchester
+2021-01-18,290000,M8 0GW,D,N,F,3,,Raja Close,,Manchester
+2021-01-15,163000,M8 5UB,S,N,L,12,,Celia Street,,Manchester
+2021-01-15,235000,M8 4GF,S,N,L,58,,Kearsley Road,,Manchester
+2021-01-14,225000,M8 5EG,S,Y,L,54,,Saddlecote Close,,Manchester
+2021-01-14,149000,M8 4QW,T,N,F,90,,Brynorme Road,,Manchester
+2021-01-14,282500,M8 4JB,S,N,L,25,,Haversham Road,,Manchester
+2021-01-08,100500,M8 8XD,T,N,F,48,,Smedley Lane,,Manchester
+2021-01-08,100000,M8 8BW,T,N,L,159,,Elizabeth Street,,Manchester
+2021-01-08,154000,M8 0WB,T,N,F,33,,Shirley Road,,Manchester
+2021-01-08,196000,M8 0AH,T,N,F,29,,Brandforth Road,,Manchester
+2021-01-05,140000,M8 4WA,S,N,L,260,,Middleton Road,,Manchester

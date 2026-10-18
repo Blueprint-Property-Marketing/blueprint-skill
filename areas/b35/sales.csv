@@ -1,0 +1,394 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-20,283000,B35 6PP,T,N,F,10,,Lydd Croft,,Birmingham
+2026-08-13,200000,B35 6DE,T,N,F,73,,Sumburgh Croft,,Birmingham
+2026-08-07,175000,B35 7PX,T,N,F,317,,Tangmere Drive,Castle Vale,Birmingham
+2026-07-31,99000,B35 6QN,F,N,L,37,,Merlin Way,Castle Vale,Birmingham
+2026-06-30,228000,B35 6NL,S,N,L,75,,Stornoway Road,,Birmingham
+2026-06-26,55000,B35 6QJ,F,N,L,10,,Church Street,Castle Vale,Birmingham
+2026-06-19,257000,B35 7PG,T,N,F,42,,Morar Close,,Birmingham
+2026-06-11,220000,B35 6DU,T,N,F,274,,Yatesbury Avenue,,Birmingham
+2026-06-05,56000,B35 6QL,F,N,L,21,,Merlin Walk,Castle Vale,Birmingham
+2026-06-01,200000,B35 6DT,T,N,F,50,,Brabazon Grove,,Birmingham
+2026-05-18,230000,B35 7DN,T,N,F,31,,Kenrick Croft,Castle Vale,Birmingham
+2026-05-12,115000,B35 6NF,F,N,L,23,,Barra Croft,,Birmingham
+2026-05-08,58500,B35 6QN,F,N,L,30,,Merlin Way,Castle Vale,Birmingham
+2026-04-15,180000,B35 6DD,T,N,F,1,,Sumburgh Croft,,Birmingham
+2026-03-18,115500,B35 6QN,F,N,L,16,,Merlin Way,,Birmingham
+2026-03-12,210000,B35 7JB,T,N,F,25,,Rough Coppice Walk,,Birmingham
+2026-02-24,190000,B35 6PT,T,N,F,9,,Turnhouse Road,,Birmingham
+2026-02-06,174250,B35 6DP,T,N,F,190,,Yatesbury Avenue,,Birmingham
+2025-12-19,257500,B35 6JJ,T,N,F,1,,Wattisham Square,,Birmingham
+2025-12-17,230000,B35 7JB,T,N,F,3,,Rough Coppice Walk,,Birmingham
+2025-12-12,210000,B35 6DG,T,N,F,388,,Yatesbury Avenue,,Birmingham
+2025-12-09,186000,B35 7EP,T,N,F,67,,Cadbury Drive,,Birmingham
+2025-11-28,85000,B35 6PU,F,N,L,505G,,Yatesbury Avenue,,Birmingham
+2025-11-21,180000,B35 7LN,T,N,F,4,,Rye Grass Walk,Castle Vale,Birmingham
+2025-11-21,238000,B35 7JF,S,N,F,83,,Blenheim Way,Castle Vale,Birmingham
+2025-11-21,220000,B35 6HZ,T,N,F,49,,Heyford Way,Castle Vale,Birmingham
+2025-11-14,215000,B35 6PG,T,N,L,49,,Prestwick Road,,Birmingham
+2025-11-13,137000,B35 6NY,F,N,L,15,,Croy Drive,,Birmingham
+2025-10-31,220000,B35 7NR,S,N,F,272,,Farnborough Road,,Birmingham
+2025-10-31,225000,B35 7JE,T,N,F,62,,Farnborough Road,,Birmingham
+2025-10-24,203000,B35 7PH,T,N,F,33,,Valencia Croft,,Birmingham
+2025-10-15,245000,B35 7NL,T,N,F,234,,Farnborough Road,,Birmingham
+2025-10-14,220000,B35 6NT,S,N,L,10,,Stornoway Road,,Birmingham
+2025-10-09,250000,B35 7JX,S,N,F,18,,Lancaster Drive,,Birmingham
+2025-10-03,258000,B35 7JJ,T,N,F,10,,Neville Walk,Castle Vale,Birmingham
+2025-10-03,191000,B35 6DJ,T,N,F,5,,Lyneham Way,,Birmingham
+2025-09-30,160000,B35 6DH,T,N,F,26,,Montrose Drive,,Birmingham
+2025-09-26,275000,B35 7EQ,T,N,F,21,,Spitfire Way,Castle Vale,Birmingham
+2025-09-26,145000,B35 6DE,T,N,F,73,,Sumburgh Croft,,Birmingham
+2025-09-25,125000,B35 6JX,T,N,F,23,,Dyce Close,,Birmingham
+2025-09-22,185000,B35 6HH,T,N,F,39,,Manby Road,,Birmingham
+2025-09-18,200000,B35 7JD,T,N,F,37,,Rough Coppice Walk,,Birmingham
+2025-08-21,185000,B35 6JH,T,N,L,12,,Heyford Way,Castle Vale,Birmingham
+2025-08-21,185000,B35 6JH,T,N,F,12,,Heyford Way,Castle Vale,Birmingham
+2025-08-06,175000,B35 6PW,T,N,L,41,,Lydd Croft,,Birmingham
+2025-08-04,280500,B35 6PF,S,N,F,3,,Prestwick Road,,Birmingham
+2025-07-30,185000,B35 7LX,T,N,F,20,,Padgate Close,,Birmingham
+2025-07-18,200000,B35 7LU,T,N,F,44,,Orchard Meadow Walk,,Birmingham
+2025-07-18,185000,B35 7EL,S,N,F,23,,Howes Croft,,Birmingham
+2025-07-18,71000,B35 6QN,F,N,L,58,,Merlin Way,,Birmingham
+2025-07-16,282500,B35 7EQ,T,N,F,15,,Spitfire Way,Castle Vale,Birmingham
+2025-07-04,125000,B35 6NF,F,N,L,22,,Barra Croft,,Birmingham
+2025-06-06,178000,B35 6JH,T,N,F,4,,Heyford Way,Castle Vale,Birmingham
+2025-06-05,78000,B35 6QN,T,N,L,54,,Merlin Way,Castle Vale,Birmingham
+2025-05-30,210000,B35 6NU,T,N,L,26,,Geeson Close,,Birmingham
+2025-05-30,210000,B35 6NJ,T,N,F,107,,Stornoway Road,,Birmingham
+2025-05-30,200000,B35 6JR,T,N,F,21,,Filton Croft,,Birmingham
+2025-05-23,212500,B35 6DG,T,N,F,378,,Yatesbury Avenue,,Birmingham
+2025-05-16,129950,B35 7NJ,F,N,L,4,Flat 3,Pixhall Walk,,Birmingham
+2025-05-16,113000,B35 6QQ,F,N,L,25,,Austin Street,,Birmingham
+2025-05-12,207000,B35 7JH,T,N,F,1,,Neville Walk,Castle Vale,Birmingham
+2025-05-09,240000,B35 7LW,S,N,F,102,,Javelin Avenue,Castle Vale,Birmingham
+2025-05-08,70500,B35 6PR,F,N,L,71,,Turnhouse Road,,Birmingham
+2025-05-02,190000,B35 7QG,T,N,F,33,,Sopwith Croft,,Birmingham
+2025-04-17,255000,B35 6NY,T,N,F,9,,Croy Drive,,Birmingham
+2025-04-17,190000,B35 6JX,T,N,F,3A,,Dyce Close,,Birmingham
+2025-04-15,210000,B35 6NR,T,N,L,11,,St Mawgan Close,,Birmingham
+2025-03-31,205000,B35 6LR,T,N,L,245,,Park Lane,Castle Vale,Birmingham
+2025-03-28,183000,B35 7NE,T,N,F,158,,Farnborough Road,,Birmingham
+2025-03-28,177000,B35 7LU,T,N,F,30,,Orchard Meadow Walk,,Birmingham
+2025-03-28,195000,B35 6DH,T,N,F,10,,Montrose Drive,,Birmingham
+2025-03-19,162500,B35 6DT,T,N,F,35,,Brabazon Grove,,Birmingham
+2025-03-18,225000,B35 7JN,T,N,F,21,,Squires Gate Walk,Castle Vale,Birmingham
+2025-03-10,77500,B35 6PU,F,N,L,503G,,Yatesbury Avenue,,Birmingham
+2025-03-05,195000,B35 7NL,T,N,F,232,,Farnborough Road,,Birmingham
+2025-02-28,125000,B35 6PU,F,N,L,507A,,Yatesbury Avenue,,Birmingham
+2025-02-28,260000,B35 6PA,S,N,F,23,,Stornoway Road,,Birmingham
+2025-02-21,260000,B35 7EQ,D,N,F,24,,Spitfire Way,Castle Vale,Birmingham
+2025-02-21,220000,B35 6QS,T,N,F,22,,Kemble Drive,,Birmingham
+2025-02-21,267000,B35 6PA,S,N,F,29,,Stornoway Road,,Birmingham
+2025-02-18,212000,B35 7QD,T,N,F,97,,Tangmere Drive,Castle Vale,Birmingham
+2025-02-12,225000,B35 7JD,F,N,F,33,,Rough Coppice Walk,,Birmingham
+2025-01-30,112000,B35 6QN,F,N,L,19,,Merlin Way,,Birmingham
+2025-01-24,210000,B35 7EZ,S,N,F,2,,Berwood Park,Castle Vale,Birmingham
+2025-01-24,210000,B35 7EZ,S,N,L,2,,Berwood Park,Castle Vale,Birmingham
+2025-01-23,215000,B35 6DN,T,N,F,11,,Whittle Croft,,Birmingham
+2025-01-10,143500,B35 6JR,T,N,F,33,,Filton Croft,,Birmingham
+2025-01-03,197500,B35 6PS,T,N,L,22,,Turnhouse Road,,Birmingham
+2024-12-13,142500,B35 6PJ,F,N,L,9,,Luce Close,,Birmingham
+2024-12-13,275000,B35 6PH,S,N,L,18,,Prestwick Road,,Birmingham
+2024-12-11,193000,B35 7NR,T,N,L,262,,Farnborough Road,,Birmingham
+2024-12-05,181000,B35 7PT,T,N,F,379,,Tangmere Drive,Castle Vale,Birmingham
+2024-11-22,237000,B35 7HF,T,N,F,46,,Sheridan Walk,,Birmingham
+2024-11-22,115000,B35 6PU,F,N,L,501A,,Yatesbury Avenue,,Birmingham
+2024-11-22,187000,B35 6BB,T,N,F,44,,Innsworth Drive,,Birmingham
+2024-11-21,217000,B35 6DJ,T,N,F,17,,Lyneham Way,,Birmingham
+2024-11-11,177000,B35 7PE,T,N,L,9,,Morar Close,,Birmingham
+2024-11-11,225000,B35 6HP,T,N,F,103,,Manby Road,,Birmingham
+2024-11-08,165000,B35 7PT,T,N,F,375,,Tangmere Drive,Castle Vale,Birmingham
+2024-10-21,212000,B35 7PD,T,N,F,344,,Farnborough Road,,Birmingham
+2024-10-18,216500,B35 7LB,T,N,F,60,,Locking Croft,Castle Vale,Birmingham
+2024-10-18,172000,B35 6NR,T,N,F,19,,St Mawgan Close,,Birmingham
+2024-10-08,130000,B35 7DH,F,N,L,10,,Avery Croft,,Birmingham
+2024-10-04,155000,B35 6PB,F,N,L,24,,Hedley Croft,Castle Vale,Birmingham
+2024-09-25,192000,B35 7EL,S,N,F,9,,Howes Croft,,Birmingham
+2024-09-20,168000,B35 7LJ,T,N,F,28,,Brook Piece Walk,Castle Vale,Birmingham
+2024-09-16,62500,B35 6QL,F,N,L,8,,Merlin Walk,Castle Vale,Birmingham
+2024-09-11,170000,B35 7NN,T,N,F,21,,Rawlins Croft,,Birmingham
+2024-09-06,226000,B35 7DZ,T,N,F,7,,Corbett Boulevard,,Birmingham
+2024-08-30,175000,B35 7JN,T,N,F,15,,Squires Gate Walk,Castle Vale,Birmingham
+2024-08-28,197500,B35 6DT,T,N,F,48,,Brabazon Grove,,Birmingham
+2024-08-21,51000,B35 6QQ,F,N,L,21,,Austin Street,,Birmingham
+2024-08-16,195000,B35 6HT,T,N,F,123,,Manby Road,,Birmingham
+2024-08-12,240000,B35 6NY,S,N,L,10,,Croy Drive,,Birmingham
+2024-07-02,228000,B35 6LN,T,N,L,321,,Park Lane,Castle Vale,Birmingham
+2024-06-28,168000,B35 7PE,T,N,F,25,,Morar Close,,Birmingham
+2024-06-27,190000,B35 7HL,T,N,F,1,,Round Moor Walk,Castle Vale,Birmingham
+2024-06-25,183000,B35 6DN,T,N,F,17,,Whittle Croft,,Birmingham
+2024-06-21,140000,B35 6PJ,F,N,L,24,,Luce Close,,Birmingham
+2024-06-21,110000,B35 6NF,T,N,L,14,,Barra Croft,,Birmingham
+2024-06-14,190000,B35 6PT,T,N,F,7,,Turnhouse Road,,Birmingham
+2024-06-07,165000,B35 6AX,T,N,F,51,,Innsworth Drive,,Birmingham
+2024-05-30,195000,B35 6DJ,T,N,F,4,,Lyneham Way,,Birmingham
+2024-05-21,57000,B35 6QN,F,N,L,36,,Merlin Way,Castle Vale,Birmingham
+2024-05-10,65000,B35 6QN,F,N,L,31,,Merlin Way,Castle Vale,Birmingham
+2024-05-10,62500,B35 6QJ,F,N,L,16,,Church Street,Castle Vale,Birmingham
+2024-04-29,125000,B35 6PG,F,N,L,47,Flat 1,Prestwick Road,,Birmingham
+2024-04-26,76750,B35 6QJ,F,N,L,18,,Church Street,Castle Vale,Birmingham
+2024-04-04,175000,B35 7QA,T,N,F,241,,Tangmere Drive,Castle Vale,Birmingham
+2024-03-27,230000,B35 6NL,S,N,F,59,,Stornoway Road,,Birmingham
+2024-03-22,280000,B35 6PF,S,N,F,5,,Prestwick Road,,Birmingham
+2024-03-06,275000,B35 6NE,S,N,L,9,,Gatwick Road,,Birmingham
+2024-01-31,242500,B35 7LF,S,N,F,10,,Kestrel Close,Castle Vale,Birmingham
+2024-01-31,177000,B35 7JR,T,N,F,84,,Watton Green,Castle Vale,Birmingham
+2024-01-29,95000,B35 6PU,F,N,L,501B,,Yatesbury Avenue,,Birmingham
+2024-01-08,65000,B35 6PZ,F,N,L,439,,Tangmere Drive,,Birmingham
+2024-01-08,255000,B35 6PH,S,N,F,22,,Prestwick Road,,Birmingham
+2024-01-04,177500,B35 6JJ,T,N,F,1,,Wattisham Square,,Birmingham
+2023-12-20,195000,B35 7DA,T,N,F,43,,Beale Close,,Birmingham
+2023-12-11,60000,B35 6PU,F,N,L,505E,,Yatesbury Avenue,,Birmingham
+2023-12-06,143500,B35 6LR,T,N,L,241,,Park Lane,Castle Vale,Birmingham
+2023-11-27,220000,B35 7BU,T,Y,F,34,,Ellis Crescent,,Birmingham
+2023-11-24,125000,B35 6QN,F,N,L,9,,Merlin Way,,Birmingham
+2023-11-03,280000,B35 6PA,S,N,L,23,,Stornoway Road,,Birmingham
+2023-11-03,230000,B35 6HU,T,N,F,52,,Heyford Way,Castle Vale,Birmingham
+2023-11-01,210500,B35 7PB,T,N,F,456,,Farnborough Road,,Birmingham
+2023-10-27,182000,B35 7DG,T,N,F,35,,Avery Croft,,Birmingham
+2023-10-23,200000,B35 7PG,T,N,F,28,,Morar Close,,Birmingham
+2023-10-16,220000,B35 6NU,S,N,L,18,,Geeson Close,,Birmingham
+2023-09-29,165000,B35 7JE,T,N,F,62,,Farnborough Road,,Birmingham
+2023-09-29,137000,B35 7JB,T,N,F,17,,Rough Coppice Walk,,Birmingham
+2023-09-26,66000,B35 6QN,F,N,L,15,,Merlin Way,,Birmingham
+2023-09-11,260000,B35 6DN,T,N,F,25,,Whittle Croft,,Birmingham
+2023-08-25,185000,B35 6NR,T,N,L,12,,St Mawgan Close,,Birmingham
+2023-08-25,197500,B35 6NJ,T,N,F,103,,Stornoway Road,,Birmingham
+2023-08-25,197500,B35 6NJ,T,N,L,103,,Stornoway Road,,Birmingham
+2023-08-18,100000,B35 6PU,F,N,L,507B,,Yatesbury Avenue,,Birmingham
+2023-08-14,226000,B35 7BU,T,Y,F,32,,Ellis Crescent,,Birmingham
+2023-08-11,276950,B35 7BF,S,Y,F,11,,School Close,,Birmingham
+2023-08-11,190000,B35 6BJ,T,N,F,28,,Upavon Close,,Birmingham
+2023-08-10,180000,B35 7PH,T,N,F,21,,Valencia Croft,,Birmingham
+2023-08-04,195000,B35 7EW,D,N,F,36,,Cadbury Drive,,Birmingham
+2023-07-31,85000,B35 6QN,F,N,L,24,,Merlin Way,,Birmingham
+2023-07-28,75000,B35 6QN,F,N,L,52,,Merlin Way,Castle Vale,Birmingham
+2023-07-28,240000,B35 6PP,T,N,F,8,,Lydd Croft,,Birmingham
+2023-07-28,200000,B35 6DP,T,N,F,216,,Yatesbury Avenue,,Birmingham
+2023-07-07,185000,B35 7NE,T,N,F,168,,Farnborough Road,,Birmingham
+2023-07-07,118000,B35 6NY,F,N,L,21,,Croy Drive,,Birmingham
+2023-07-07,230000,B35 6JT,T,N,F,3,,Renfrew Square,,Birmingham
+2023-06-30,293950,B35 7DS,D,Y,F,9,,Lofthouse Vale,,Birmingham
+2023-06-30,296950,B35 7DS,D,Y,F,7,,Lofthouse Vale,,Birmingham
+2023-06-30,274950,B35 7BU,S,Y,F,28,,Ellis Crescent,,Birmingham
+2023-06-30,226000,B35 7BF,S,Y,F,17,,School Close,,Birmingham
+2023-06-30,232000,B35 7BF,S,Y,F,15,,School Close,,Birmingham
+2023-06-26,281000,B35 7BF,S,Y,F,13,,School Close,,Birmingham
+2023-06-23,226000,B35 7BU,T,Y,F,36,,Ellis Crescent,,Birmingham
+2023-06-23,275950,B35 7BU,S,Y,F,24,,Ellis Crescent,,Birmingham
+2023-06-23,227000,B35 7BF,S,Y,F,19,,School Close,,Birmingham
+2023-06-22,274950,B35 7BU,S,Y,F,26,,Ellis Crescent,,Birmingham
+2023-06-16,274950,B35 7DS,S,Y,F,5,,Lofthouse Vale,,Birmingham
+2023-06-16,276500,B35 7BU,S,Y,F,30,,Ellis Crescent,,Birmingham
+2023-06-09,145000,B35 6PB,F,N,L,38,,Hedley Croft,Castle Vale,Birmingham
+2023-05-26,274500,B35 7BU,S,Y,F,38,,Ellis Crescent,,Birmingham
+2023-05-23,136000,B35 6PP,T,N,F,2,,Lydd Croft,,Birmingham
+2023-05-19,138000,B35 7PG,F,N,F,24,,Morar Close,,Birmingham
+2023-05-18,274950,B35 7DS,S,Y,F,3,,Lofthouse Vale,,Birmingham
+2023-05-16,200000,B35 7NN,T,N,F,4,,Rawlins Croft,,Birmingham
+2023-05-04,274500,B35 7DZ,S,Y,F,17,,Corbett Boulevard,,Birmingham
+2023-04-28,208000,B35 7QA,T,N,F,247,,Tangmere Drive,Castle Vale,Birmingham
+2023-04-28,180000,B35 7JE,T,N,F,74,,Farnborough Road,,Birmingham
+2023-04-28,194000,B35 6NT,S,N,F,26,,Stornoway Road,,Birmingham
+2023-04-27,274000,B35 7DZ,S,Y,F,27,,Corbett Boulevard,,Birmingham
+2023-04-27,274500,B35 7DS,S,Y,F,1,,Lofthouse Vale,,Birmingham
+2023-04-18,82500,B35 6QQ,F,N,L,45,,Austin Street,,Birmingham
+2023-04-17,170000,B35 6PG,T,N,L,45,,Prestwick Road,,Birmingham
+2023-04-11,200000,B35 7DA,T,N,F,25,,Beale Close,,Birmingham
+2023-04-11,127000,B35 6PW,F,N,L,1,Flat 2,Lydd Croft,,Birmingham
+2023-03-31,224950,B35 7DZ,S,Y,F,25,,Corbett Boulevard,,Birmingham
+2023-03-31,224950,B35 7DZ,S,Y,F,23,,Corbett Boulevard,,Birmingham
+2023-03-31,274950,B35 7DZ,S,Y,F,21,,Corbett Boulevard,,Birmingham
+2023-03-31,274000,B35 7DZ,S,Y,F,19,,Corbett Boulevard,,Birmingham
+2023-03-24,155754,B35 7PX,T,N,F,341,,Tangmere Drive,Castle Vale,Birmingham
+2023-03-14,243000,B35 6NP,T,N,F,98,,Stornoway Road,,Birmingham
+2023-03-10,222500,B35 7DZ,S,Y,F,16,,Corbett Boulevard,,Birmingham
+2023-03-10,224950,B35 7DZ,S,Y,F,14,,Corbett Boulevard,,Birmingham
+2023-03-03,57500,B35 6PZ,F,N,L,447,,Tangmere Drive,,Birmingham
+2023-03-03,110000,B35 6DJ,T,N,F,4,,Lyneham Way,,Birmingham
+2023-03-01,80000,B35 6PR,F,N,L,59,,Turnhouse Road,,Birmingham
+2023-02-24,274500,B35 7DZ,S,Y,F,26,,Corbett Boulevard,,Birmingham
+2023-02-24,224950,B35 7DZ,S,Y,F,24,,Corbett Boulevard,,Birmingham
+2023-02-24,275500,B35 7DR,S,Y,F,2,,Wadsworth Knoll,,Birmingham
+2023-02-17,70500,B35 6AG,T,N,F,1250,,Kingsbury Road,Castle Vale,Birmingham
+2023-02-13,60000,B35 6PU,F,N,L,505,,Yatesbury Avenue,,Birmingham
+2023-02-10,110000,B35 6QN,F,N,L,32,,Merlin Way,,Birmingham
+2023-02-10,210000,B35 6PW,T,N,L,43,,Lydd Croft,,Birmingham
+2023-02-09,60000,B35 7PH,T,N,F,12,,Valencia Croft,,Birmingham
+2023-02-03,80000,B35 6QL,F,N,L,14,,Merlin Walk,Castle Vale,Birmingham
+2023-01-27,222500,B35 7DZ,S,Y,F,22,,Corbett Boulevard,,Birmingham
+2023-01-27,222500,B35 7DZ,S,Y,F,20,,Corbett Boulevard,,Birmingham
+2023-01-27,225500,B35 7DZ,S,Y,F,18,,Corbett Boulevard,,Birmingham
+2023-01-27,217500,B35 7DR,S,Y,F,4,,Wadsworth Knoll,,Birmingham
+2023-01-27,76000,B35 6QJ,F,N,L,2,,Church Street,Castle Vale,Birmingham
+2023-01-27,210000,B35 6DJ,T,N,F,12,,Lyneham Way,,Birmingham
+2023-01-11,255000,B35 6NT,S,N,F,20,,Stornoway Road,,Birmingham
+2023-01-03,220000,B35 6HE,T,N,F,5,,Manby Road,,Birmingham
+2022-12-21,275500,B35 7DZ,S,Y,F,15,,Corbett Boulevard,,Birmingham
+2022-12-21,269950,B35 7BU,S,Y,F,23,,Ellis Crescent,,Birmingham
+2022-12-21,269500,B35 7BU,S,Y,F,21,,Ellis Crescent,,Birmingham
+2022-12-21,222500,B35 7BF,S,Y,F,21,,School Close,,Birmingham
+2022-12-20,273500,B35 7BU,S,Y,F,25,,Ellis Crescent,,Birmingham
+2022-12-19,171000,B35 6NT,T,N,L,44,,Stornoway Road,,Birmingham
+2022-12-16,185000,B35 6DB,T,N,F,34,,Sumburgh Croft,,Birmingham
+2022-12-09,273950,B35 7DZ,S,Y,F,13,,Corbett Boulevard,,Birmingham
+2022-12-09,269500,B35 7DZ,S,Y,F,11,,Corbett Boulevard,,Birmingham
+2022-12-09,125000,B35 6QN,F,N,L,8,,Merlin Way,,Birmingham
+2022-12-05,127000,B35 6PR,F,N,L,69,,Turnhouse Road,,Birmingham
+2022-12-02,210000,B35 7ET,T,N,F,40,,Jackson Walk,,Birmingham
+2022-12-02,219500,B35 7DZ,S,Y,F,9,,Corbett Boulevard,,Birmingham
+2022-12-02,219500,B35 7DZ,T,Y,F,7,,Corbett Boulevard,,Birmingham
+2022-11-30,265000,B35 6NE,S,N,F,1,,Gatwick Road,,Birmingham
+2022-11-25,218500,B35 7DZ,S,Y,F,5,,Corbett Boulevard,,Birmingham
+2022-11-25,222500,B35 7DZ,S,Y,F,3,,Corbett Boulevard,,Birmingham
+2022-11-25,272500,B35 7DZ,S,Y,F,12,,Corbett Boulevard,,Birmingham
+2022-11-25,315000,B35 7DZ,D,Y,F,1,,Corbett Boulevard,,Birmingham
+2022-11-25,273500,B35 7DU,S,Y,F,1,,Mitchell Avenue,,Birmingham
+2022-11-24,77500,B35 6QL,F,N,L,5,,Merlin Walk,Castle Vale,Birmingham
+2022-11-21,120000,B35 6NF,F,N,L,24,,Barra Croft,,Birmingham
+2022-11-17,105000,B35 6NY,T,N,L,29,,Croy Drive,,Birmingham
+2022-11-15,120000,B35 7EG,T,N,F,66,,Hawker Drive,,Birmingham
+2022-11-11,210000,B35 6JE,S,N,F,34,,Baginton Road,,Birmingham
+2022-11-11,175000,B35 6HP,T,N,F,111,,Manby Road,,Birmingham
+2022-11-08,195000,B35 7JB,T,N,F,21,,Rough Coppice Walk,,Birmingham
+2022-11-08,100500,B35 6PU,F,N,L,501C,,Yatesbury Avenue,,Birmingham
+2022-11-03,73000,B35 6PU,F,N,L,503,,Yatesbury Avenue,,Birmingham
+2022-10-28,215500,B35 7NA,T,N,F,1,,Worthy Down Walk,,Birmingham
+2022-10-27,180000,B35 7EU,T,N,F,111,,Cadbury Drive,,Birmingham
+2022-10-24,165000,B35 7LL,T,N,F,7,,Rye Grass Walk,Castle Vale,Birmingham
+2022-10-21,268500,B35 7DZ,S,Y,F,10,,Corbett Boulevard,,Birmingham
+2022-10-21,272500,B35 7DU,S,Y,F,2,,Mitchell Avenue,,Birmingham
+2022-09-30,218500,B35 7DZ,T,Y,F,8,,Corbett Boulevard,,Birmingham
+2022-09-30,214500,B35 7DZ,T,Y,F,6,,Corbett Boulevard,,Birmingham
+2022-09-30,217500,B35 7DZ,T,Y,F,4,,Corbett Boulevard,,Birmingham
+2022-09-30,190000,B35 6NR,T,N,F,9,,St Mawgan Close,,Birmingham
+2022-09-23,217500,B35 7BF,S,Y,F,29,,School Close,,Birmingham
+2022-09-23,217500,B35 7BF,S,Y,F,27,,School Close,,Birmingham
+2022-09-23,268000,B35 7BF,S,Y,F,25,,School Close,,Birmingham
+2022-09-23,268000,B35 7BF,S,Y,F,23,,School Close,,Birmingham
+2022-09-22,272000,B35 7DZ,S,Y,F,2,,Corbett Boulevard,,Birmingham
+2022-09-22,268000,B35 7BF,S,Y,F,31,,School Close,,Birmingham
+2022-09-20,75000,B35 6PZ,F,N,L,437,,Tangmere Drive,,Birmingham
+2022-09-13,86000,B35 6QN,F,N,L,20,,Merlin Way,,Birmingham
+2022-09-09,217000,B35 7QE,T,N,F,77,,Tangmere Drive,Castle Vale,Birmingham
+2022-09-09,260000,B35 6PS,T,N,L,24,,Turnhouse Road,,Birmingham
+2022-09-02,180000,B35 6DE,T,N,F,45,,Sumburgh Croft,,Birmingham
+2022-09-01,203000,B35 7LH,S,N,F,111,,Javelin Avenue,Castle Vale,Birmingham
+2022-08-31,160000,B35 7LJ,T,N,F,32,,Brook Piece Walk,Castle Vale,Birmingham
+2022-08-09,187000,B35 6JU,T,N,F,39,,Renfrew Square,,Birmingham
+2022-08-09,165000,B35 6HN,T,N,F,6,,Baginton Road,,Birmingham
+2022-08-02,175000,B35 7LU,T,N,F,38,,Orchard Meadow Walk,,Birmingham
+2022-07-29,227000,B35 6NY,S,N,F,2,,Croy Drive,,Birmingham
+2022-07-18,180000,B35 7LS,T,N,F,6,,St Athan Croft,Castle Vale,Birmingham
+2022-07-18,120000,B35 6PZ,F,N,L,433,,Tangmere Drive,,Birmingham
+2022-07-08,172500,B35 6PS,T,N,F,20,,Turnhouse Road,,Birmingham
+2022-06-28,80000,B35 6QQ,T,N,L,43,,Austin Street,,Birmingham
+2022-06-24,165000,B35 7JE,T,N,F,80,,Farnborough Road,,Birmingham
+2022-06-22,135000,B35 7LL,T,N,F,53,,Rye Grass Walk,Castle Vale,Birmingham
+2022-06-13,230000,B35 7LW,S,N,F,114,,Javelin Avenue,Castle Vale,Birmingham
+2022-06-10,122000,B35 6PR,F,N,L,73,,Turnhouse Road,,Birmingham
+2022-05-30,210000,B35 6BU,T,N,F,15,,Biggin Close,,Birmingham
+2022-05-27,190000,B35 7DA,T,N,F,18,,Beale Close,,Birmingham
+2022-05-27,106000,B35 6QL,F,N,L,7,,Merlin Walk,Castle Vale,Birmingham
+2022-05-20,175950,B35 6NJ,T,N,L,105,,Stornoway Road,,Birmingham
+2022-05-13,238000,B35 6NT,S,N,F,14,,Stornoway Road,,Birmingham
+2022-05-06,265000,B35 6PG,S,N,F,27,,Prestwick Road,,Birmingham
+2022-04-27,105000,B35 6QL,F,N,L,17,,Merlin Walk,,Birmingham
+2022-04-22,232000,B35 6PH,S,N,L,20,,Prestwick Road,,Birmingham
+2022-04-07,175000,B35 7JE,T,N,F,54,,Farnborough Road,,Birmingham
+2022-04-01,70000,B35 6QN,F,N,L,2,,Merlin Way,,Birmingham
+2022-03-29,167000,B35 6JT,T,N,F,15,,Renfrew Square,,Birmingham
+2022-03-25,180000,B35 6NJ,T,N,F,97,,Stornoway Road,,Birmingham
+2022-03-18,170000,B35 6JX,T,N,F,5A,,Dyce Close,,Birmingham
+2022-03-14,155000,B35 7NS,S,N,F,27,,Newcastle Croft,,Birmingham
+2022-03-14,170000,B35 7DQ,T,N,F,44,,Avery Croft,,Birmingham
+2022-03-10,208000,B35 7BX,T,N,F,24,,Brooks Croft,,Birmingham
+2022-03-09,172000,B35 6HE,T,N,F,3,,Manby Road,,Birmingham
+2022-03-08,150000,B35 7JB,T,N,F,11,,Rough Coppice Walk,,Birmingham
+2022-02-18,81000,B35 6PU,F,N,L,503F,,Yatesbury Avenue,,Birmingham
+2022-02-11,198000,B35 6PT,T,N,F,11,,Turnhouse Road,,Birmingham
+2022-02-04,142000,B35 7JH,T,N,F,15,,Neville Walk,Castle Vale,Birmingham
+2022-02-04,185000,B35 6DH,T,N,F,2,,Montrose Drive,,Birmingham
+2022-02-01,174000,B35 6NB,T,N,F,116,,Turnhouse Road,,Birmingham
+2022-01-28,100000,B35 7NH,F,N,L,214,Flat 2,Farnborough Road,,Birmingham
+2022-01-28,185000,B35 6NH,T,N,F,116,,Stornoway Road,,Birmingham
+2022-01-26,183000,B35 6NB,T,N,F,98,,Turnhouse Road,,Birmingham
+2022-01-21,106000,B35 6QN,F,N,L,8,,Merlin Way,,Birmingham
+2022-01-19,185000,B35 6NR,T,N,F,17,,St Mawgan Close,,Birmingham
+2022-01-12,120000,B35 7AA,S,N,F,13,,Air Ministry Houses,Castle Vale,Birmingham
+2022-01-11,71000,B35 6QN,F,N,L,15,,Merlin Way,,Birmingham
+2022-01-10,200000,B35 6DB,T,N,F,46,,Sumburgh Croft,,Birmingham
+2022-01-06,200000,B35 6NH,T,N,L,136,,Stornoway Road,,Birmingham
+2022-01-04,170000,B35 7QG,T,N,F,55,,Sopwith Croft,,Birmingham
+2021-12-15,195000,B35 6DP,S,N,F,228,,Yatesbury Avenue,,Birmingham
+2021-12-14,105000,B35 6PU,F,N,L,507C,,Yatesbury Avenue,,Birmingham
+2021-12-03,190000,B35 7NN,T,N,F,15,,Rawlins Croft,,Birmingham
+2021-12-03,163000,B35 7JL,T,N,F,14,,Squires Gate Walk,Castle Vale,Birmingham
+2021-12-03,178000,B35 6HT,T,N,F,133,,Manby Road,,Birmingham
+2021-11-30,75000,B35 6PU,F,N,L,505A,,Yatesbury Avenue,,Birmingham
+2021-11-29,147000,B35 7LU,T,N,F,22,,Orchard Meadow Walk,,Birmingham
+2021-11-26,70000,B35 6PU,F,N,L,507D,,Yatesbury Avenue,,Birmingham
+2021-11-22,170000,B35 6HT,T,N,F,131,,Manby Road,,Birmingham
+2021-11-19,165000,B35 7DG,T,N,F,17,,Avery Croft,,Birmingham
+2021-11-19,81000,B35 6QJ,F,N,L,22,,Church Street,Castle Vale,Birmingham
+2021-11-17,151000,B35 7LJ,T,N,F,30,,Brook Piece Walk,Castle Vale,Birmingham
+2021-11-17,165000,B35 7HJ,T,N,F,12,,Round Moor Walk,Castle Vale,Birmingham
+2021-11-17,135200,B35 6DG,T,N,F,384,,Yatesbury Avenue,,Birmingham
+2021-11-08,200000,B35 7NB,T,N,F,19,,Rhoose Croft,,Birmingham
+2021-11-05,73000,B35 6PU,F,N,L,503A,,Yatesbury Avenue,,Birmingham
+2021-11-03,155000,B35 6DJ,T,N,F,10,,Lyneham Way,,Birmingham
+2021-10-29,120000,B35 6PU,F,N,L,507A,,Yatesbury Avenue,,Birmingham
+2021-10-22,110000,B35 6QN,F,N,L,32,,Merlin Way,,Birmingham
+2021-10-12,100000,B35 6PU,F,N,L,501A,,Yatesbury Avenue,,Birmingham
+2021-09-24,165000,B35 7JD,T,N,F,35,,Rough Coppice Walk,,Birmingham
+2021-09-24,218000,B35 6PB,T,N,L,17,,Hedley Croft,Castle Vale,Birmingham
+2021-09-23,195000,B35 6PT,T,N,F,21,,Turnhouse Road,,Birmingham
+2021-09-10,176500,B35 7EP,T,N,F,75,,Cadbury Drive,,Birmingham
+2021-09-10,120000,B35 6QN,F,N,L,12,,Merlin Way,,Birmingham
+2021-09-06,185000,B35 7PX,T,N,F,343,,Tangmere Drive,Castle Vale,Birmingham
+2021-09-03,181000,B35 7DQ,T,N,F,58,,Avery Croft,,Birmingham
+2021-09-03,125000,B35 6DJ,T,N,F,12,,Lyneham Way,,Birmingham
+2021-08-31,155250,B35 7HF,T,N,F,24,,Sheridan Walk,,Birmingham
+2021-08-31,209000,B35 6PF,T,N,L,15,,Prestwick Road,,Birmingham
+2021-08-27,162000,B35 6ND,T,N,F,150,,Turnhouse Road,,Birmingham
+2021-08-12,77500,B35 6QQ,F,N,L,6,,Austin Street,,Birmingham
+2021-08-09,150000,B35 6NY,S,N,F,5,,Croy Drive,,Birmingham
+2021-08-06,186000,B35 7JF,S,N,F,101,,Blenheim Way,Castle Vale,Birmingham
+2021-08-06,156000,B35 7HE,T,N,F,17,,Sheridan Walk,,Birmingham
+2021-07-23,145000,B35 6BH,T,N,F,15,,Upavon Close,,Birmingham
+2021-07-21,122500,B35 6HZ,T,N,F,49,,Heyford Way,Castle Vale,Birmingham
+2021-06-29,155000,B35 7QE,T,N,F,79,,Tangmere Drive,Castle Vale,Birmingham
+2021-06-29,175000,B35 7DL,F,N,F,46,,Kenrick Croft,Castle Vale,Birmingham
+2021-06-25,137000,B35 7PE,T,N,F,23,,Morar Close,,Birmingham
+2021-06-25,140000,B35 7NG,T,N,F,202,,Farnborough Road,,Birmingham
+2021-06-24,212000,B35 6PP,T,N,F,10,,Lydd Croft,,Birmingham
+2021-06-18,160000,B35 7NL,S,N,F,240,,Farnborough Road,,Birmingham
+2021-06-16,220000,B35 6PJ,S,N,F,1,,Luce Close,,Birmingham
+2021-06-11,130000,B35 6NU,F,N,L,19,,Geeson Close,,Birmingham
+2021-05-24,153000,B35 7LB,T,N,F,60,,Locking Croft,Castle Vale,Birmingham
+2021-05-06,145500,B35 6DJ,T,N,F,22,,Lyneham Way,,Birmingham
+2021-05-05,108000,B35 6PG,F,N,L,47,Flat 3,Prestwick Road,,Birmingham
+2021-04-30,150000,B35 6LN,T,N,F,343,,Park Lane,Castle Vale,Birmingham
+2021-04-30,190000,B35 6DJ,S,N,F,26,,Lyneham Way,,Birmingham
+2021-04-29,175000,B35 6JY,T,N,F,32,,Dyce Close,,Birmingham
+2021-04-26,130000,B35 6HU,T,N,F,42,,Heyford Way,Castle Vale,Birmingham
+2021-04-15,188000,B35 6NY,S,N,F,16,,Croy Drive,,Birmingham
+2021-04-13,97000,B35 7LE,F,N,L,102,Flat 6,Locking Croft,Castle Vale,Birmingham
+2021-04-09,185000,B35 6NF,T,N,F,4,,Barra Croft,,Birmingham
+2021-04-09,71000,B35 6BJ,T,N,L,18,,Upavon Close,,Birmingham
+2021-04-08,160000,B35 7NN,T,N,F,23,,Rawlins Croft,,Birmingham
+2021-04-01,160000,B35 7LL,T,N,F,43,,Rye Grass Walk,Castle Vale,Birmingham
+2021-03-26,94000,B35 6QN,F,N,L,11,,Merlin Way,,Birmingham
+2021-03-22,182500,B35 6BY,T,N,F,9,,Melksham Square,,Birmingham
+2021-03-18,145000,B35 6BP,T,N,F,24,,Hawkinge Drive,,Birmingham
+2021-03-17,239950,B35 7LW,S,N,F,96,,Javelin Avenue,Castle Vale,Birmingham
+2021-03-12,160000,B35 6JT,T,N,F,3,,Renfrew Square,,Birmingham
+2021-03-12,184000,B35 6JB,T,N,F,87,,Heyford Way,Castle Vale,Birmingham
+2021-03-12,152000,B35 6HT,T,N,F,127,,Manby Road,,Birmingham
+2021-03-09,220000,B35 7LW,D,N,F,98,,Javelin Avenue,Castle Vale,Birmingham
+2021-03-05,124500,B35 7NN,T,N,F,15,,Rawlins Croft,,Birmingham
+2021-03-05,225000,B35 6LP,T,N,F,281,,Park Lane,Castle Vale,Birmingham
+2021-02-24,136000,B35 6NB,T,N,F,110,,Turnhouse Road,,Birmingham
+2021-02-05,100000,B35 6QJ,F,N,L,12,,Church Street,Castle Vale,Birmingham
+2021-01-26,170000,B35 6PT,T,N,F,23,,Turnhouse Road,,Birmingham
+2021-01-08,172000,B35 6HP,T,N,F,105,,Manby Road,,Birmingham

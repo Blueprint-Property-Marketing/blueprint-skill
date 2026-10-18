@@ -1,0 +1,324 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-07-10,130000,S14 1SX,T,N,F,24,,Morland Place,,Sheffield
+2026-07-02,136500,S14 1SS,T,N,F,90,,Leighton Road,,Sheffield
+2026-07-01,107000,S14 1DG,S,N,L,1,,Sandby Court,,Sheffield
+2026-06-12,166000,S14 1SS,T,N,F,130,,Leighton Road,,Sheffield
+2026-06-12,75000,S14 1FL,T,N,F,135,,Ironside Road,,Sheffield
+2026-06-12,160000,S14 1BN,T,N,F,19,,Orpen Way,,Sheffield
+2026-06-10,190000,S14 1BW,S,N,F,8,,Landseer Place,,Sheffield
+2026-05-18,130000,S14 1TB,T,N,F,2,,Morland Road,,Sheffield
+2026-05-15,115000,S14 1FT,T,N,F,139,,Blackstock Road,,Sheffield
+2026-04-24,60000,S14 1PA,F,N,L,14,,Abney Close,,Sheffield
+2026-04-14,120000,S14 1LT,T,N,F,50,,Bankwood Road,,Sheffield
+2026-04-01,240000,S14 1AB,S,N,L,9,,Blackstock Road,,Sheffield
+2026-03-31,145000,S14 1AG,T,N,F,52,,Blackstock Drive,Gleadless,Sheffield
+2026-03-20,115000,S14 1FY,T,N,F,228,,Blackstock Road,,Sheffield
+2026-03-16,70000,S14 1QY,T,N,F,102,,Fleury Road,,Sheffield
+2026-03-16,128000,S14 1LN,F,N,F,18,,Plowright Way,,Sheffield
+2026-03-12,129000,S14 1SR,T,N,F,83,,Leighton Road,,Sheffield
+2026-03-09,130000,S14 1SZ,T,N,F,5,,Morland Close,,Sheffield
+2026-03-06,120000,S14 1RD,D,N,F,20,,Spring Close Mount,,Sheffield
+2026-03-02,142500,S14 1BZ,T,N,L,27,,Oakes Park View,,Sheffield
+2026-02-20,136000,S14 1FB,T,N,F,4,,Ironside Close,,Sheffield
+2026-02-19,155500,S14 1LF,T,N,F,22,,Spotswood Close,,Sheffield
+2026-02-17,80000,S14 1TL,T,N,F,317,,Morland Road,,Sheffield
+2026-01-30,40000,S14 1JF,F,N,F,4,,Overend Way,,Sheffield
+2026-01-30,112000,S14 1DF,T,N,L,18,,Sandby Drive,,Sheffield
+2026-01-26,115000,S14 1FT,T,N,F,123,,Blackstock Road,,Sheffield
+2026-01-07,90000,S14 1JG,S,N,F,28,,Overend Close,,Sheffield
+2025-12-16,141000,S14 1FG,T,N,F,73,,Ironside Road,,Sheffield
+2025-12-15,100000,S14 1BG,T,N,F,137,,Constable Road,,Sheffield
+2025-12-11,130000,S14 1LT,S,N,F,26,,Bankwood Road,,Sheffield
+2025-12-10,185000,S14 1DH,D,N,L,7,,Sandby Croft,,Sheffield
+2025-12-01,114000,S14 1DF,T,N,L,12,,Sandby Drive,,Sheffield
+2025-11-28,125000,S14 1AX,T,N,F,40,,Constable Place,,Sheffield
+2025-11-24,106000,S14 1PF,T,N,F,7,,Grindlow Drive,,Sheffield
+2025-11-20,125000,S14 1ST,T,N,F,12,,Leighton Drive,,Sheffield
+2025-11-19,153500,S14 1AH,S,N,F,34,,Mawfa Avenue,,Sheffield
+2025-11-14,135000,S14 1PD,F,N,F,85,,Abney Road,,Sheffield
+2025-11-07,145670,S14 1FU,T,N,F,124,,Blackstock Road,,Sheffield
+2025-11-06,90000,S14 1BD,T,N,F,79,,Constable Road,,Sheffield
+2025-10-31,135000,S14 1LU,T,N,F,56,,Bankwood Road,,Sheffield
+2025-10-24,123500,S14 1SR,T,N,F,73,,Leighton Road,,Sheffield
+2025-10-17,105000,S14 1QG,T,N,F,33,,Middle Hay Place,,Sheffield
+2025-10-17,145000,S14 1BJ,T,N,F,108,,Constable Road,,Sheffield
+2025-10-09,116000,S14 1AQ,T,N,F,100,,Mawfa Avenue,,Sheffield
+2025-10-01,115000,S14 1TB,T,N,F,44,,Morland Road,,Sheffield
+2025-09-29,115000,S14 1SN,S,N,F,21,,Leighton Place,,Sheffield
+2025-09-22,94275,S14 1GD,T,N,F,48,,Gaunt Close,,Sheffield
+2025-09-12,165000,S14 1QG,T,N,F,20,,Middle Hay Place,,Sheffield
+2025-09-09,110000,S14 1QJ,T,N,F,23,,Middle Hay View,,Sheffield
+2025-09-05,90000,S14 1FG,T,N,F,11,,Ironside Road,,Sheffield
+2025-09-05,105000,S14 1FF,T,N,F,126,,Ironside Road,,Sheffield
+2025-08-15,70000,S14 1TG,T,N,F,150,,Morland Road,,Sheffield
+2025-08-08,118000,S14 1DG,T,N,L,14,,Sandby Court,,Sheffield
+2025-08-08,210000,S14 1AD,S,N,L,57,,Blackstock Road,,Sheffield
+2025-08-07,128000,S14 1GX,T,N,F,7,,Gaunt Way,,Sheffield
+2025-08-07,317500,S14 1AS,T,N,F,Lodge Farm,,Mawfa Crescent,,Sheffield
+2025-08-01,130000,S14 1BU,T,N,F,24,,Landseer Walk,,Sheffield
+2025-07-31,110000,S14 1GY,F,N,F,10,,Gaunt Way,,Sheffield
+2025-07-11,90000,S14 1GD,T,N,F,36,,Gaunt Close,,Sheffield
+2025-07-11,135000,S14 1BX,T,N,F,4,,Raeburn Way,,Sheffield
+2025-06-27,200000,S14 1RH,D,N,F,2,,Paxton Court,,Sheffield
+2025-06-26,150000,S14 1BQ,T,N,F,14,,Gibbons Drive,,Sheffield
+2025-06-19,125000,S14 1JG,T,N,F,16,,Overend Close,,Sheffield
+2025-06-13,132000,S14 1SY,T,N,F,1,,Morland Drive,,Sheffield
+2025-06-02,132500,S14 1AG,T,N,F,7,,Blackstock Drive,Gleadless,Sheffield
+2025-05-30,140000,S14 1PB,T,N,F,23,,Abney Drive,,Sheffield
+2025-05-06,125000,S14 1PB,T,N,F,35,,Abney Drive,,Sheffield
+2025-05-02,125000,S14 1LF,T,N,F,24,,Spotswood Close,,Sheffield
+2025-04-30,60000,S14 1BQ,T,N,F,13,,Gibbons Drive,,Sheffield
+2025-04-22,100000,S14 1JD,S,N,F,390,,Blackstock Road,,Sheffield
+2025-04-15,150000,S14 1LB,T,N,F,461,,Blackstock Road,,Sheffield
+2025-04-15,140000,S14 1AS,T,N,F,16,,Mawfa Crescent,,Sheffield
+2025-03-28,121000,S14 1FG,T,N,F,77,,Ironside Road,,Sheffield
+2025-03-26,275000,S14 1AE,D,N,F,25,,Blackstock Close,,Sheffield
+2025-03-18,110000,S14 1FF,T,N,F,114,,Ironside Road,,Sheffield
+2025-03-11,41500,S14 1LP,F,N,L,51,,Plowright Mount,,Sheffield
+2025-02-28,138000,S14 1GX,T,N,F,5,,Gaunt Way,,Sheffield
+2025-02-19,200000,S14 1AF,S,N,F,32,,Blackstock Crescent,,Sheffield
+2025-02-07,110000,S14 1QZ,T,N,F,130,,Fleury Road,,Sheffield
+2025-01-31,117000,S14 1LT,T,N,F,23,,Bankwood Road,,Sheffield
+2025-01-31,142000,S14 1JL,T,N,F,22,,Overend Road,,Sheffield
+2025-01-31,140000,S14 1BU,S,N,F,19,,Landseer Walk,,Sheffield
+2025-01-24,173000,S14 1DD,T,N,F,27,,Raeburn Road,,Sheffield
+2025-01-20,110000,S14 1QU,T,N,F,6,,Fleury Close,,Sheffield
+2025-01-17,95000,S14 1LN,T,N,F,10,,Plowright Way,,Sheffield
+2025-01-10,375000,S14 1AE,D,N,L,27,,Blackstock Close,,Sheffield
+2024-12-20,65000,S14 1DB,F,N,L,100,,Raeburn Road,,Sheffield
+2024-12-17,200000,S14 1AF,S,N,F,11,,Blackstock Crescent,,Sheffield
+2024-12-17,200000,S14 1AF,S,N,L,11,,Blackstock Crescent,,Sheffield
+2024-12-16,145000,S14 1BZ,T,N,L,14,,Oakes Park View,,Sheffield
+2024-12-09,125000,S14 1FE,T,N,F,5,,Ironside Road,,Sheffield
+2024-12-06,92250,S14 1QG,T,N,F,19,,Middle Hay Place,,Sheffield
+2024-12-04,170000,S14 1BN,T,N,F,22,,Orpen Way,,Sheffield
+2024-12-04,375000,S14 1AF,S,N,L,48,,Blackstock Crescent,,Sheffield
+2024-11-28,38500,S14 1FG,T,N,F,79,,Ironside Road,,Sheffield
+2024-11-22,132500,S14 1TB,T,N,F,46,,Morland Road,,Sheffield
+2024-11-04,126500,S14 1GH,T,N,F,122,,Gaunt Road,,Sheffield
+2024-10-31,138000,S14 1GJ,S,N,F,77,,Gaunt Road,,Sheffield
+2024-10-24,130000,S14 1AH,T,N,F,6,,Mawfa Avenue,,Sheffield
+2024-10-18,73952,S14 1FZ,T,N,F,303,,Blackstock Road,,Sheffield
+2024-10-02,57750,S14 1QG,T,N,F,15,,Middle Hay Place,,Sheffield
+2024-09-27,155000,S14 1SZ,T,N,F,8,,Morland Close,,Sheffield
+2024-09-27,105000,S14 1LN,S,N,F,16,,Plowright Way,,Sheffield
+2024-09-27,125000,S14 1GD,T,N,F,4,,Gaunt Close,,Sheffield
+2024-09-16,129525,S14 1AS,T,N,F,22,,Mawfa Crescent,,Sheffield
+2024-09-11,210000,S14 1AE,S,N,L,6,,Blackstock Close,,Sheffield
+2024-08-30,100000,S14 1RE,F,N,F,96,,Spring Close Mount,,Sheffield
+2024-08-20,125000,S14 1TE,T,N,F,60,,Morland Road,,Sheffield
+2024-08-09,127000,S14 1AJ,S,N,F,21,,Mawfa Avenue,,Sheffield
+2024-08-02,140000,S14 1BZ,T,N,L,9,,Oakes Park View,,Sheffield
+2024-07-26,116000,S14 1SX,T,N,F,16,,Morland Place,,Sheffield
+2024-07-19,242000,S14 1AB,S,N,L,9,,Blackstock Road,,Sheffield
+2024-07-12,145000,S14 1SS,T,N,F,54,,Leighton Road,,Sheffield
+2024-07-08,125000,S14 1BZ,T,N,L,18,,Oakes Park View,,Sheffield
+2024-06-28,118000,S14 1ST,T,N,F,14,,Leighton Drive,,Sheffield
+2024-06-25,125000,S14 1AQ,T,N,F,98,,Mawfa Avenue,,Sheffield
+2024-06-13,125000,S14 1QH,T,N,F,14,,Middle Hay Rise,,Sheffield
+2024-06-11,148000,S14 1AS,T,N,F,27,,Mawfa Crescent,,Sheffield
+2024-05-31,95000,S14 1FD,T,N,F,5,,Ironside Place,,Sheffield
+2024-05-30,150000,S14 1AH,T,N,F,14,,Mawfa Avenue,,Sheffield
+2024-05-28,115000,S14 1ST,T,N,F,18,,Leighton Drive,,Sheffield
+2024-05-12,97000,S14 1DG,T,N,L,11,,Sandby Court,,Sheffield
+2024-05-09,102000,S14 1SS,F,N,L,46,,Leighton Road,,Sheffield
+2024-05-03,140000,S14 1AP,T,N,F,155,,Mawfa Avenue,,Sheffield
+2024-04-29,98500,S14 1QG,T,N,F,27,,Middle Hay Place,,Sheffield
+2024-04-19,110000,S14 1BZ,T,N,L,16,,Oakes Park View,,Sheffield
+2024-04-05,130000,S14 1LW,F,N,F,6,,Bankwood Close,,Sheffield
+2024-03-22,117500,S14 1BS,T,N,F,6,,Landseer Drive,,Sheffield
+2024-02-23,120000,S14 1FT,T,N,F,137,,Blackstock Road,,Sheffield
+2024-02-12,135000,S14 1PE,T,N,F,7,,Grindlow Close,,Sheffield
+2024-02-07,135000,S14 1JD,T,N,F,404,,Blackstock Road,,Sheffield
+2024-01-31,156000,S14 1AJ,T,N,F,27,,Mawfa Avenue,,Sheffield
+2024-01-30,150000,S14 1BY,T,N,F,24,,Raeburn Close,,Sheffield
+2024-01-22,135000,S14 1GD,T,N,F,58,,Gaunt Close,,Sheffield
+2024-01-16,150000,S14 1LT,T,N,F,35,,Bankwood Road,,Sheffield
+2024-01-08,135000,S14 1SB,T,N,F,301,,Raeburn Road,,Sheffield
+2024-01-05,120000,S14 1JH,T,N,F,7,,Overend Drive,,Sheffield
+2023-12-20,90000,S14 1PB,T,N,F,17,,Abney Drive,,Sheffield
+2023-12-15,131000,S14 1LB,T,N,F,445,,Blackstock Road,,Sheffield
+2023-11-30,170000,S14 1LT,T,N,F,31,,Bankwood Road,,Sheffield
+2023-11-29,325000,S14 1AB,S,N,L,39,,Blackstock Road,,Sheffield
+2023-11-03,105000,S14 1DG,T,N,L,6,,Sandby Court,,Sheffield
+2023-10-18,110000,S14 1DG,S,N,L,15,,Sandby Court,,Sheffield
+2023-10-17,163800,S14 1DF,S,N,L,4A,,Sandby Drive,,Sheffield
+2023-10-16,143000,S14 1SB,T,N,F,309,,Raeburn Road,,Sheffield
+2023-10-13,125000,S14 1SD,T,N,F,202,,Raeburn Road,,Sheffield
+2023-10-02,130000,S14 1AW,T,N,F,24,,Constable Close,,Sheffield
+2023-09-22,106100,S14 1FB,T,N,F,25,,Ironside Close,,Sheffield
+2023-09-04,131500,S14 1LF,T,N,F,24,,Spotswood Close,,Sheffield
+2023-08-25,125000,S14 1QF,T,N,F,8,,Middle Hay Close,,Sheffield
+2023-08-23,130000,S14 1JG,T,N,F,13,,Overend Close,,Sheffield
+2023-08-15,130000,S14 1LN,F,N,F,18,,Plowright Way,,Sheffield
+2023-08-15,95000,S14 1FG,T,N,F,75,,Ironside Road,,Sheffield
+2023-08-11,115000,S14 1DF,T,N,F,34,,Sandby Drive,,Sheffield
+2023-08-10,120000,S14 1ST,T,N,F,16,,Leighton Drive,,Sheffield
+2023-08-07,122000,S14 1GB,T,N,F,8,,Gaunt Drive,,Sheffield
+2023-07-31,140000,S14 1AU,T,N,F,22,,Constable Drive,,Sheffield
+2023-07-13,520000,S14 1DL,D,N,F,The Farmhouse,,Hereward's Road,,Sheffield
+2023-06-23,130000,S14 1GJ,T,N,F,75,,Gaunt Road,,Sheffield
+2023-06-09,123000,S14 1FB,T,N,F,35,,Ironside Close,,Sheffield
+2023-06-06,160000,S14 1BL,T,N,F,3,,Orpen Drive,,Sheffield
+2023-06-05,70000,S14 1SB,T,N,F,307,,Raeburn Road,,Sheffield
+2023-06-02,105000,S14 1RB,S,N,F,9,,Spring Close Mount,,Sheffield
+2023-05-26,125000,S14 1BZ,T,N,L,5,,Oakes Park View,,Sheffield
+2023-05-24,251000,S14 1AE,S,N,L,29,,Blackstock Close,,Sheffield
+2023-05-22,60500,S14 1FX,F,N,L,229,,Blackstock Road,,Sheffield
+2023-05-22,128000,S14 1AX,T,N,F,22,,Constable Place,,Sheffield
+2023-05-16,133250,S14 1SA,T,N,F,275,,Raeburn Road,,Sheffield
+2023-05-12,115000,S14 1LF,T,N,F,36,,Spotswood Close,,Sheffield
+2023-05-05,150000,S14 1LT,T,N,F,33,,Bankwood Road,,Sheffield
+2023-04-28,163000,S14 1BN,T,N,F,20,,Orpen Way,,Sheffield
+2023-04-28,85000,S14 1AG,F,N,L,76,,Blackstock Drive,Gleadless,Sheffield
+2023-04-06,125000,S14 1AJ,T,N,F,13,,Mawfa Avenue,,Sheffield
+2023-04-04,103314,S14 1FG,T,N,F,35,,Ironside Road,,Sheffield
+2023-03-31,150000,S14 1PE,T,N,F,18,,Grindlow Close,,Sheffield
+2023-03-31,135000,S14 1DD,T,N,F,15,,Raeburn Road,,Sheffield
+2023-03-31,253000,S14 1AE,D,N,L,10,,Blackstock Close,,Sheffield
+2023-03-30,108000,S14 1QH,T,N,F,2,,Middle Hay Rise,,Sheffield
+2023-03-28,140000,S14 1BW,T,N,F,1,,Landseer Place,,Sheffield
+2023-03-17,130000,S14 1SE,T,N,F,258,,Raeburn Road,,Sheffield
+2023-02-28,127500,S14 1AG,T,N,F,53,,Blackstock Drive,Gleadless,Sheffield
+2023-02-27,90000,S14 1JL,T,N,F,46,,Overend Road,,Sheffield
+2023-02-24,65000,S14 1FJ,F,N,L,204,,Ironside Road,,Sheffield
+2023-02-22,145000,S14 1AU,T,N,F,28,,Constable Drive,,Sheffield
+2023-02-17,108000,S14 1QG,T,N,F,18,,Middle Hay Place,,Sheffield
+2023-02-10,145000,S14 1BL,T,N,F,6,,Orpen Drive,,Sheffield
+2023-02-06,137000,S14 1DD,T,N,F,43,,Raeburn Road,,Sheffield
+2023-02-03,145500,S14 1PE,T,N,F,45,,Grindlow Close,,Sheffield
+2023-02-03,138000,S14 1GW,F,N,F,384,,Gaunt Road,,Sheffield
+2023-02-03,115000,S14 1BH,T,N,F,94,,Constable Road,,Sheffield
+2023-01-24,168500,S14 1AG,T,N,F,38,,Blackstock Drive,Gleadless,Sheffield
+2023-01-20,106000,S14 1FG,T,N,F,25,,Ironside Road,,Sheffield
+2023-01-16,91500,S14 1AL,S,N,L,83,,Mawfa Avenue,,Sheffield
+2023-01-09,120000,S14 1SS,T,N,F,104,,Leighton Road,,Sheffield
+2023-01-09,110000,S14 1SR,T,N,F,83,,Leighton Road,,Sheffield
+2023-01-06,120000,S14 1BR,T,N,F,8,,Gibbons Walk,,Sheffield
+2023-01-06,160000,S14 1AP,T,N,F,147,,Mawfa Avenue,,Sheffield
+2023-01-04,50000,S14 1QN,F,N,L,114,,Middle Hay View,,Sheffield
+2022-12-20,107000,S14 1TB,T,N,F,36,,Morland Road,,Sheffield
+2022-12-14,140000,S14 1GE,T,N,F,29,,Gaunt Road,,Sheffield
+2022-12-06,104000,S14 1PE,T,N,F,15,,Grindlow Close,,Sheffield
+2022-12-05,100000,S14 1QZ,T,N,F,146,,Fleury Road,,Sheffield
+2022-11-30,134000,S14 1SZ,T,N,F,9,,Morland Close,,Sheffield
+2022-11-18,123000,S14 1PF,T,N,F,4,,Grindlow Drive,,Sheffield
+2022-11-16,85000,S14 1PF,T,N,F,3,,Grindlow Drive,,Sheffield
+2022-11-11,148500,S14 1AQ,T,N,F,76,,Mawfa Avenue,,Sheffield
+2022-10-30,177000,S14 1BX,S,N,F,49,,Raeburn Way,,Sheffield
+2022-10-28,130000,S14 1SE,T,N,F,218,,Raeburn Road,,Sheffield
+2022-10-20,45000,S14 1FF,F,N,L,38,,Ironside Road,,Sheffield
+2022-10-10,72000,S14 1DF,T,N,L,30,,Sandby Drive,,Sheffield
+2022-10-07,120000,S14 1QH,T,N,F,16,,Middle Hay Rise,,Sheffield
+2022-10-07,135000,S14 1DF,S,N,L,4,,Sandby Drive,,Sheffield
+2022-10-07,155175,S14 1BT,T,N,F,1,,Landseer Close,,Sheffield
+2022-10-03,120000,S14 1LJ,T,N,F,34,,Spotswood Road,,Sheffield
+2022-09-30,110000,S14 1RD,T,N,F,42,,Spring Close Mount,,Sheffield
+2022-09-30,125000,S14 1BU,T,N,F,35,,Landseer Walk,,Sheffield
+2022-09-23,95000,S14 1SE,T,N,F,238,,Raeburn Road,,Sheffield
+2022-09-23,95000,S14 1SE,S,N,F,236,,Raeburn Road,,Sheffield
+2022-09-23,120000,S14 1FY,T,N,F,240,,Blackstock Road,,Sheffield
+2022-09-23,95000,S14 1AW,T,N,F,48,,Constable Close,,Sheffield
+2022-09-14,152000,S14 1BN,T,N,F,17,,Orpen Way,,Sheffield
+2022-09-12,140000,S14 1BR,S,N,F,20,,Gibbons Walk,,Sheffield
+2022-09-05,130500,S14 1BZ,T,N,L,2,,Oakes Park View,,Sheffield
+2022-08-31,126000,S14 1SD,T,N,F,184,,Raeburn Road,,Sheffield
+2022-08-30,100000,S14 1QX,T,N,F,98,,Fleury Road,,Sheffield
+2022-08-26,90000,S14 1QH,T,N,F,3,,Middle Hay Rise,,Sheffield
+2022-08-25,95000,S14 1QH,T,N,F,23,,Middle Hay Rise,,Sheffield
+2022-08-23,87000,S14 1QS,T,N,F,5,,Fleury Place,,Sheffield
+2022-08-19,130500,S14 1FY,T,N,F,252,,Blackstock Road,,Sheffield
+2022-08-19,237100,S14 1DH,D,N,L,3,,Sandby Croft,,Sheffield
+2022-08-05,82555,S14 1FH,T,N,F,144,,Ironside Road,,Sheffield
+2022-08-05,115000,S14 1BH,T,N,F,92,,Constable Road,,Sheffield
+2022-08-04,195000,S14 1AF,D,N,L,36,,Blackstock Crescent,,Sheffield
+2022-08-02,130000,S14 1JJ,T,N,F,8,,Overend Road,,Sheffield
+2022-07-22,125000,S14 1BN,T,N,F,20,,Orpen Way,,Sheffield
+2022-07-15,118000,S14 1TA,T,N,F,15,,Morland Road,,Sheffield
+2022-07-15,100000,S14 1QT,T,N,F,1,,Fleury Rise,,Sheffield
+2022-07-15,149000,S14 1DD,T,N,F,33,,Raeburn Road,,Sheffield
+2022-07-14,50000,S14 1QW,F,N,L,21,,Fleury Road,,Sheffield
+2022-07-07,88000,S14 1QJ,T,N,F,23,,Middle Hay View,,Sheffield
+2022-06-30,130000,S14 1LT,T,N,F,1,,Bankwood Road,,Sheffield
+2022-06-30,133000,S14 1BW,S,N,F,8,,Landseer Place,,Sheffield
+2022-06-29,85000,S14 1FZ,T,N,F,303,,Blackstock Road,,Sheffield
+2022-06-28,70000,S14 1ST,T,N,F,8,,Leighton Drive,,Sheffield
+2022-06-17,125000,S14 1SS,T,N,F,50,,Leighton Road,,Sheffield
+2022-06-17,90000,S14 1RJ,S,N,F,9,,Spring Close View,,Sheffield
+2022-06-01,110000,S14 1SD,T,N,F,174,,Raeburn Road,,Sheffield
+2022-06-01,110100,S14 1BZ,T,N,L,4,,Oakes Park View,,Sheffield
+2022-05-31,115000,S14 1AQ,T,N,F,90,,Mawfa Avenue,,Sheffield
+2022-05-27,115000,S14 1FL,T,N,F,115,,Ironside Road,,Sheffield
+2022-05-27,144500,S14 1BL,T,N,F,4,,Orpen Drive,,Sheffield
+2022-05-25,160000,S14 1AB,S,N,L,7,,Blackstock Road,,Sheffield
+2022-05-20,128000,S14 1JG,T,N,F,30,,Overend Close,,Sheffield
+2022-05-04,120000,S14 1LG,T,N,F,33,,Spotswood Mount,,Sheffield
+2022-04-14,153000,S14 1AS,T,N,F,24,,Mawfa Crescent,,Sheffield
+2022-04-08,101000,S14 1RD,T,N,F,36,,Spring Close Mount,,Sheffield
+2022-04-08,208000,S14 1DF,D,N,L,25,,Sandby Drive,,Sheffield
+2022-04-08,208000,S14 1AE,D,N,L,27,,Blackstock Close,,Sheffield
+2022-03-24,120000,S14 1BZ,S,N,L,28,,Oakes Park View,,Sheffield
+2022-03-21,52360,S14 1JL,T,N,F,44,,Overend Road,,Sheffield
+2022-03-11,125000,S14 1SQ,T,N,F,18,,Leighton Road,,Sheffield
+2022-03-04,121880,S14 1SR,T,N,F,87,,Leighton Road,,Sheffield
+2022-03-04,206000,S14 1NA,T,N,F,2,,Berrystorth Close,,Sheffield
+2022-02-15,40000,S14 1RD,T,N,F,34,,Spring Close Mount,,Sheffield
+2022-02-14,115000,S14 1FB,T,N,F,27,,Ironside Close,,Sheffield
+2022-02-07,150000,S14 1AF,S,N,L,6,,Blackstock Crescent,,Sheffield
+2022-01-28,112500,S14 1SD,T,N,F,186,,Raeburn Road,,Sheffield
+2022-01-28,130000,S14 1LT,T,N,F,24,,Bankwood Road,,Sheffield
+2022-01-28,120000,S14 1JL,T,N,F,54,,Overend Road,,Sheffield
+2022-01-28,143000,S14 1FS,T,N,F,100,,Blackstock Road,,Sheffield
+2022-01-19,135000,S14 1AA,T,N,F,54,,Blackstock Road,,Sheffield
+2022-01-13,107000,S14 1DF,T,N,L,18,,Sandby Drive,,Sheffield
+2022-01-06,157000,S14 1AD,S,N,L,65,,Blackstock Road,,Sheffield
+2021-12-20,98000,S14 1TB,S,N,F,28,,Morland Road,,Sheffield
+2021-12-20,136000,S14 1BU,T,N,F,45,,Landseer Walk,,Sheffield
+2021-12-17,100000,S14 1PB,T,N,F,43,,Abney Drive,,Sheffield
+2021-12-02,75000,S14 1RB,T,N,F,29,,Spring Close Mount,,Sheffield
+2021-11-26,75000,S14 1LF,T,N,F,10,,Spotswood Close,,Sheffield
+2021-11-26,115000,S14 1FZ,T,N,F,293,,Blackstock Road,,Sheffield
+2021-11-23,121000,S14 1QQ,F,N,F,46,,Sands Close,,Sheffield
+2021-11-19,141000,S14 1AQ,T,N,F,62,,Mawfa Avenue,,Sheffield
+2021-11-16,38000,S14 1RF,F,N,L,84,,Spring Close View,,Sheffield
+2021-11-10,140000,S14 1AS,T,N,F,32,,Mawfa Crescent,,Sheffield
+2021-10-28,89000,S14 1QY,T,N,F,124,,Fleury Road,,Sheffield
+2021-10-27,85000,S14 1SE,T,N,F,214,,Raeburn Road,,Sheffield
+2021-10-22,114500,S14 1FU,T,N,F,116,,Blackstock Road,,Sheffield
+2021-10-18,108000,S14 1JD,T,N,F,404,,Blackstock Road,,Sheffield
+2021-09-28,119500,S14 1GB,T,N,F,4,,Gaunt Drive,,Sheffield
+2021-09-28,140000,S14 1AS,T,N,F,7,,Mawfa Crescent,,Sheffield
+2021-09-16,122000,S14 1SS,T,N,F,90,,Leighton Road,,Sheffield
+2021-09-14,128057,S14 1LT,S,N,F,26,,Bankwood Road,,Sheffield
+2021-09-02,235000,S14 1AE,D,N,L,12,,Blackstock Close,,Sheffield
+2021-08-27,160000,S14 1DF,D,N,L,15,,Sandby Drive,,Sheffield
+2021-08-25,40000,S14 1PD,T,N,F,68,,Abney Road,,Sheffield
+2021-08-17,97500,S14 1RB,T,N,F,21,,Spring Close Mount,,Sheffield
+2021-08-02,115000,S14 1DD,S,N,F,39,,Raeburn Road,,Sheffield
+2021-07-23,85000,S14 1QG,T,N,F,33,,Middle Hay Place,,Sheffield
+2021-07-23,98000,S14 1LT,S,N,F,18,,Bankwood Road,,Sheffield
+2021-07-21,97000,S14 1QG,T,N,F,24,,Middle Hay Place,,Sheffield
+2021-07-16,81000,S14 1DG,T,N,L,10,,Sandby Court,,Sheffield
+2021-07-09,95000,S14 1SB,T,N,F,327,,Raeburn Road,,Sheffield
+2021-06-21,114000,S14 1SQ,T,N,F,42,,Leighton Road,,Sheffield
+2021-05-28,85000,S14 1QX,T,N,F,62,,Fleury Road,,Sheffield
+2021-05-27,151000,S14 1AF,S,N,L,8,,Blackstock Crescent,,Sheffield
+2021-05-25,85000,S14 1JH,T,N,F,46,,Overend Drive,,Sheffield
+2021-05-24,110000,S14 1AX,T,N,F,6,,Constable Place,,Sheffield
+2021-05-20,105000,S14 1SE,T,N,F,232,,Raeburn Road,,Sheffield
+2021-04-23,72500,S14 1QJ,T,N,F,9,,Middle Hay View,,Sheffield
+2021-04-15,155000,S14 1DF,D,N,L,46,,Sandby Drive,,Sheffield
+2021-04-08,100000,S14 1SA,T,N,F,271,,Raeburn Road,,Sheffield
+2021-03-29,103000,S14 1FZ,T,N,F,313,,Blackstock Road,,Sheffield
+2021-03-26,100000,S14 1TE,T,N,F,68,,Morland Road,,Sheffield
+2021-03-15,176000,S14 1RH,S,N,L,1,,Paxton Court,,Sheffield
+2021-03-05,107500,S14 1FE,T,N,F,24,,Ironside Road,,Sheffield
+2021-03-03,90500,S14 1JH,T,N,F,22,,Overend Drive,,Sheffield
+2021-02-12,102000,S14 1JG,S,N,F,44,,Overend Close,,Sheffield
+2021-02-12,100000,S14 1GE,T,N,F,1,,Gaunt Road,,Sheffield
+2021-02-12,157000,S14 1AF,S,N,L,10,,Blackstock Crescent,,Sheffield
+2021-02-05,113000,S14 1AQ,T,N,F,96,,Mawfa Avenue,,Sheffield
+2021-01-22,112000,S14 1BU,T,N,F,15,,Landseer Walk,,Sheffield
+2021-01-14,80000,S14 1PF,T,N,F,23,,Grindlow Drive,,Sheffield
+2021-01-08,109500,S14 1GE,T,N,F,29,,Gaunt Road,,Sheffield
+2021-01-06,130000,S14 1FR,T,N,F,97,,Blackstock Road,,Sheffield

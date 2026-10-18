@@ -1,0 +1,920 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-18,173500,ST11 9TX,F,N,L,3,,Stallington Mews,Blythe Bridge,Stoke-On-Trent
+2026-08-04,225000,ST11 9PZ,S,N,F,21,,Mount Road,Blythe Bridge,Stoke-On-Trent
+2026-08-04,205000,ST11 9AD,S,N,F,12,,New Avenue,Draycott,Stoke-On-Trent
+2026-07-17,247500,ST11 9NZ,S,N,F,6,,Limewood Close,Blythe Bridge,Stoke-On-Trent
+2026-07-10,254000,ST11 9PS,S,N,F,11,,Mount Place,Forsbrook,Stoke-On-Trent
+2026-07-06,175000,ST11 9LY,S,N,F,342B,,Uttoxeter Road,Blythe Bridge,Stoke-On-Trent
+2026-06-22,205000,ST11 9QQ,T,N,F,2,,Highview Road,Fulford,Stoke-On-Trent
+2026-06-19,130000,ST11 9PY,T,N,F,2,,The Avenue,Blythe Bridge,Stoke-On-Trent
+2026-06-19,499950,ST11 9JL,D,N,F,5,,Calverhay Close,Blythe Bridge,Stoke-On-Trent
+2026-06-19,212500,ST11 9DG,S,N,F,3,,Parkway,Forsbrook,Stoke-On-Trent
+2026-06-18,160000,ST11 9LB,D,N,F,9,,The Grove,Blythe Bridge,Stoke-On-Trent
+2026-06-05,240000,ST11 9TX,T,N,L,1,,Stallington Mews,Blythe Bridge,Stoke-On-Trent
+2026-06-05,300000,ST11 9RB,D,N,F,53,,Sandon Road,Cresswell,Stoke-On-Trent
+2026-06-04,500000,ST11 9BG,D,N,F,29,,Caverswall Road,Blythe Bridge,Stoke-On-Trent
+2026-06-04,418000,ST11 9AH,D,N,F,301,,Draycott Old Road,Draycott,Stoke-On-Trent
+2026-05-29,210000,ST11 9AD,S,N,F,17,,New Avenue,Draycott,Stoke-On-Trent
+2026-05-26,420000,ST11 9AG,S,N,F,Church View,,Church Lane,Draycott,Stoke-On-Trent
+2026-05-21,245000,ST11 9QQ,D,N,F,46,,Highview Road,Fulford,Stoke-On-Trent
+2026-05-21,130000,ST11 9JQ,F,N,L,"Foxglove House, 14",Flat 1,Millbrook Gardens,Blythe Bridge,Stoke-On-Trent
+2026-05-15,300000,ST11 9RX,S,N,F,9,,Tudor Court,Fulford,Stoke-On-Trent
+2026-05-13,160000,ST11 9PU,S,N,F,8,,Bridgwood Road,Blythe Bridge,Stoke-On-Trent
+2026-05-06,157500,ST11 9PF,S,N,F,3,,Roseacre Lane,Blythe Bridge,Stoke-On-Trent
+2026-05-01,230000,ST11 9HU,S,N,F,27,,Greenacres Avenue,Blythe Bridge,Stoke-On-Trent
+2026-05-01,200000,ST11 9HP,F,N,F,42,,Highfield Close,Blythe Bridge,Stoke-On-Trent
+2026-05-01,257500,ST11 9AP,S,N,F,6,,Scarratt Close,Forsbrook,Stoke-On-Trent
+2026-04-24,170000,ST11 9AA,S,N,F,5,,Stuart Avenue,Draycott,Stoke-On-Trent
+2026-04-02,317500,ST11 9LD,D,N,F,7,,Field Close,Blythe Bridge,Stoke-On-Trent
+2026-04-01,350000,ST11 9PN,D,N,F,55,,Stallington Road,Blythe Bridge,Stoke-On-Trent
+2026-04-01,595500,ST11 9HL,D,N,F,22,,Adamthwaite Drive,Blythe Bridge,Stoke-On-Trent
+2026-03-31,145000,ST11 9NL,S,N,F,11,,Maple Crescent,Blythe Bridge,Stoke-On-Trent
+2026-03-27,570000,ST11 9HJ,D,N,F,The Pines,,Aynsleys Drive,Blythe Bridge,Stoke-On-Trent
+2026-03-26,120000,ST11 9JQ,F,N,L,26,,Millbrook Gardens,Blythe Bridge,Stoke-On-Trent
+2026-03-13,117500,ST11 9LY,T,N,F,338,,Uttoxeter Road,Blythe Bridge,Stoke-On-Trent
+2026-03-11,130000,ST11 9EQ,T,N,F,20,,The Green,Caverswall,Stoke-On-Trent
+2026-03-10,460000,ST11 9HN,D,N,F,Blythe Cottage,,Ridgway Drive,Blythe Bridge,Stoke-On-Trent
+2026-03-06,325000,ST11 9BH,S,N,F,26,,Hillside Avenue,Forsbrook,Stoke-On-Trent
+2026-02-27,142000,ST11 9QX,S,N,F,Firlee,,,Saverley Green,Stoke-On-Trent
+2026-02-27,180000,ST11 9PU,S,N,F,49,,Bridgwood Road,Blythe Bridge,Stoke-On-Trent
+2026-02-24,178375,ST11 9PF,S,N,F,8,,Roseacre Lane,Blythe Bridge,Stoke-On-Trent
+2026-02-13,225000,ST11 9NL,S,N,F,9,,Maple Crescent,Blythe Bridge,Stoke-On-Trent
+2026-02-06,192500,ST11 9HW,S,N,F,3,,Green Close,Blythe Bridge,Stoke-On-Trent
+2026-02-06,345000,ST11 9BG,D,N,F,104,,Caverswall Road,Blythe Bridge,Stoke-On-Trent
+2026-01-30,210000,ST11 9AN,S,N,F,15,,Scarratt Drive,Forsbrook,Stoke-On-Trent
+2026-01-26,450000,ST11 9QX,D,N,F,The Coppice,,,Saverley Green,Stoke-On-Trent
+2026-01-14,347500,ST11 9LP,D,N,F,4,,Lancaster Avenue,Fulford,Stoke-On-Trent
+2025-12-18,218000,ST11 9DF,S,N,F,17,,Springfield Drive,Forsbrook,Stoke-On-Trent
+2025-12-08,182500,ST11 9AD,T,N,F,22,,New Avenue,Draycott,Stoke-On-Trent
+2025-12-05,270000,ST11 9DQ,D,N,F,11,,Beverley Crescent,Forsbrook,Stoke-On-Trent
+2025-12-02,320000,ST11 9SD,D,N,F,4,,Blithe View,Blythe Bridge,Stoke-On-Trent
+2025-12-02,195000,ST11 9JR,T,N,F,239,,Uttoxeter Road,Blythe Bridge,Stoke-On-Trent
+2025-11-24,565000,ST11 9RQ,D,N,F,Little Grange,,Cheadle Road,Draycott,Stoke-On-Trent
+2025-11-21,195000,ST11 9DW,S,N,F,17,,Meadow Close,Forsbrook,Stoke-On-Trent
+2025-11-19,140000,ST11 9BY,T,N,F,20,,Chapel Street,Forsbrook,Stoke-On-Trent
+2025-11-12,177000,ST11 9RX,T,N,F,6,,Tudor Court,Fulford,Stoke-On-Trent
+2025-11-12,172500,ST11 9RJ,D,N,F,32,,Poplar Close,Blythe Bridge,Stoke-On-Trent
+2025-11-07,210000,ST11 9LZ,S,N,F,3,,Green Lane,Blythe Bridge,Stoke-On-Trent
+2025-11-07,325000,ST11 9LH,D,N,F,3,,Meadow Close,Blythe Bridge,Stoke-On-Trent
+2025-10-31,175000,ST11 9NZ,T,N,F,14,,Limewood Close,Blythe Bridge,Stoke-On-Trent
+2025-10-31,315000,ST11 9JT,D,N,F,53,,Sutherland Crescent,Blythe Bridge,Stoke-On-Trent
+2025-10-29,152000,ST11 9PN,S,N,F,9,,Stallington Road,Blythe Bridge,Stoke-On-Trent
+2025-10-27,337500,ST11 9PD,S,N,F,"Casa Mitchell, 98",,Stallington Road,Blythe Bridge,Stoke-On-Trent
+2025-10-24,180000,ST11 9DQ,S,N,F,14,,Beverley Crescent,Forsbrook,Stoke-On-Trent
+2025-10-17,133000,ST11 9TS,F,N,L,17,,Lister Grove,Blythe Bridge,Stoke-On-Trent
+2025-10-17,295000,ST11 9HY,S,N,F,8,,Uttoxeter Road,Blythe Bridge,Stoke-On-Trent
+2025-10-17,220000,ST11 9BS,T,N,F,11,,Dove Road,Forsbrook,Stoke-On-Trent
+2025-10-16,192000,ST11 9TU,T,N,F,12,,Beaumont Rise,Blythe Bridge,Stoke-On-Trent
+2025-10-15,300000,ST11 9ER,D,N,F,11,,Trevor Drive,Caverswall,Stoke-On-Trent
+2025-10-13,205000,ST11 9RJ,S,N,F,9,,Poplar Close,Blythe Bridge,Stoke-On-Trent
+2025-10-10,115000,ST11 9TS,F,N,L,41,,Lister Grove,Blythe Bridge,Stoke-On-Trent
+2025-10-03,217500,ST11 9TS,T,N,F,2,,Lister Grove,Blythe Bridge,Stoke-On-Trent
+2025-09-30,235000,ST11 9BN,S,N,F,28,,Manifold Road,Forsbrook,Stoke-On-Trent
+2025-09-29,284996,ST11 9FY,D,Y,F,12,,Salt Avenue,Blythe Bridge,Stoke-On-Trent
+2025-09-26,175000,ST11 9PF,S,N,F,5,,Roseacre Lane,Blythe Bridge,Stoke-On-Trent
+2025-09-26,220000,ST11 9JQ,T,N,F,19,,Millbrook Gardens,Blythe Bridge,Stoke-On-Trent
+2025-09-26,245000,ST11 9EW,S,N,F,32,,Vicarage Crescent,Caverswall,Stoke-On-Trent
+2025-09-26,218000,ST11 9AJ,S,N,F,178,,Draycott Old Road,Forsbrook,Stoke-On-Trent
+2025-09-24,183000,ST11 9AB,S,N,F,96,,Uttoxeter Road,Draycott,Stoke-On-Trent
+2025-09-22,232000,ST11 9NY,S,N,F,111,,Elmwood Drive,Blythe Bridge,Stoke-On-Trent
+2025-09-19,200000,ST11 9FE,T,N,F,30,,Levison Street,Blythe Bridge,Stoke-On-Trent
+2025-09-17,198000,ST11 9EW,S,N,F,23,,Vicarage Crescent,Caverswall,Stoke-On-Trent
+2025-09-15,165000,ST11 9AB,T,N,F,66,,Uttoxeter Road,Draycott,Stoke-On-Trent
+2025-09-10,167500,ST11 9QS,S,N,F,School House,,,Fulford,Stoke-On-Trent
+2025-09-05,250000,ST11 9NT,S,N,F,443,,Uttoxeter Road,Blythe Bridge,Stoke-On-Trent
+2025-09-05,220000,ST11 9NE,S,N,F,25,,Elmwood Drive,Blythe Bridge,Stoke-On-Trent
+2025-09-05,203000,ST11 9AN,S,N,F,23,,Scarratt Drive,Forsbrook,Stoke-On-Trent
+2025-09-05,222500,ST11 9AN,S,N,F,16,,Scarratt Drive,Forsbrook,Stoke-On-Trent
+2025-09-03,187500,ST11 9DN,S,N,F,2,,Newclose Avenue,Forsbrook,Stoke-On-Trent
+2025-08-29,172900,ST11 9FY,T,Y,F,20,,Salt Avenue,Blythe Bridge,Stoke-On-Trent
+2025-08-29,192500,ST11 9FY,T,Y,F,16,,Salt Avenue,Blythe Bridge,Stoke-On-Trent
+2025-08-29,274000,ST11 9FP,D,N,F,23,,Palmer Way,Blythe Bridge,Stoke-On-Trent
+2025-08-29,228000,ST11 9DQ,S,N,F,2,,Beverley Crescent,Forsbrook,Stoke-On-Trent
+2025-08-28,320000,ST11 9QF,S,N,F,8,,Stallington Close,Blythe Bridge,Stoke-On-Trent
+2025-08-28,174300,ST11 9FY,T,Y,F,14,,Salt Avenue,Blythe Bridge,Stoke-On-Trent
+2025-08-28,195000,ST11 9AU,S,N,F,41,,Portland Drive,Forsbrook,Stoke-On-Trent
+2025-08-27,480000,ST11 9SF,D,N,F,4,,Willow Way,Forsbrook,Stoke-On-Trent
+2025-08-22,212500,ST11 9RB,S,N,F,24,,Sandon Road,Cresswell,Stoke-On-Trent
+2025-08-22,290000,ST11 9EN,S,N,F,51,,School Lane,Caverswall,Stoke-On-Trent
+2025-08-22,405000,ST11 9EG,D,N,F,St Josephs,,Roughcote Lane,Caverswall,Stoke-On-Trent
+2025-08-20,260000,ST11 9DQ,S,N,F,6,,Beverley Crescent,Forsbrook,Stoke-On-Trent
+2025-08-19,850000,ST11 9QT,D,N,F,Hunters Moon,,Fulford Road,Fulford,Stoke-On-Trent
+2025-08-18,860000,ST11 9BG,D,N,F,88,,Caverswall Road,Blythe Bridge,Stoke-On-Trent
+2025-08-15,287846,ST11 9FY,D,Y,F,13,,Salt Avenue,Blythe Bridge,Stoke-On-Trent
+2025-08-15,288796,ST11 9FY,D,Y,F,11,,Salt Avenue,Blythe Bridge,Stoke-On-Trent
+2025-08-15,192500,ST11 9AU,S,N,F,98,,Portland Drive,Forsbrook,Stoke-On-Trent
+2025-08-13,145000,ST11 9QQ,T,N,F,4,,Highview Road,Fulford,Stoke-On-Trent
+2025-08-13,195000,ST11 9QF,T,N,F,13,,Stallington Close,Blythe Bridge,Stoke-On-Trent
+2025-08-11,106000,ST11 9PU,F,N,L,39,,Bridgwood Road,Blythe Bridge,Stoke-On-Trent
+2025-08-11,210000,ST11 9NJ,S,N,F,9,,Pinewood Grove,Blythe Bridge,Stoke-On-Trent
+2025-08-11,225000,ST11 9DA,S,N,F,37,,Chapel Street,Forsbrook,Stoke-On-Trent
+2025-08-08,180000,ST11 9LA,S,N,F,2,,Argyll Close,Blythe Bridge,Stoke-On-Trent
+2025-08-08,350000,ST11 9JU,S,N,F,70,,Sutherland Crescent,Blythe Bridge,Stoke-On-Trent
+2025-08-06,325000,ST11 9QS,S,N,F,Belgray,,,Fulford,Stoke-On-Trent
+2025-08-06,250000,ST11 9NZ,S,N,F,15,,Limewood Close,Blythe Bridge,Stoke-On-Trent
+2025-08-05,265000,ST11 9EG,S,N,F,Cookshill Hall,The Cottage,Roughcote Lane,Caverswall,Stoke-On-Trent
+2025-07-30,270000,ST11 9JT,D,N,F,39,,Sutherland Crescent,Blythe Bridge,Stoke-On-Trent
+2025-07-25,258500,ST11 9RH,S,N,F,1,,Beechwood Close,Blythe Bridge,Stoke-On-Trent
+2025-07-25,290000,ST11 9QE,D,N,F,53,,Kingfisher Crescent,Fulford,Stoke-On-Trent
+2025-07-25,265000,ST11 9PL,S,N,F,43,,Crossfield Avenue,Blythe Bridge,Stoke-On-Trent
+2025-07-25,192500,ST11 9FY,T,Y,F,19,,Salt Avenue,Blythe Bridge,Stoke-On-Trent
+2025-07-25,194600,ST11 9FY,S,Y,F,18,,Salt Avenue,Blythe Bridge,Stoke-On-Trent
+2025-07-25,194600,ST11 9FY,S,Y,F,17,,Salt Avenue,Blythe Bridge,Stoke-On-Trent
+2025-07-25,113100,ST11 9FN,T,N,L,4,,Ridge Lane,Blythe Bridge,Stoke-On-Trent
+2025-07-24,205000,ST11 9TU,D,N,F,16,,Beaumont Rise,Blythe Bridge,Stoke-On-Trent
+2025-07-24,365000,ST11 9PN,D,N,F,"Craven Cottage, 43",,Stallington Road,Blythe Bridge,Stoke-On-Trent
+2025-07-24,200000,ST11 9HQ,S,N,F,197,,Uttoxeter Road,Blythe Bridge,Stoke-On-Trent
+2025-07-18,221000,ST11 9NY,S,N,F,115,,Elmwood Drive,Blythe Bridge,Stoke-On-Trent
+2025-07-15,285000,ST11 9ER,D,N,F,2,,Trevor Drive,Caverswall,Stoke-On-Trent
+2025-07-10,533000,ST11 9TN,D,N,F,14,,Franklin Drive,Blythe Bridge,Stoke-On-Trent
+2025-07-09,220000,ST11 9DQ,S,N,F,17,,Beverley Crescent,Forsbrook,Stoke-On-Trent
+2025-07-07,433000,ST11 9EY,D,N,F,Hillside Cottage,,Sheepwash,Caverswall,Stoke-On-Trent
+2025-07-04,225000,ST11 9PU,S,N,F,38,,Bridgwood Road,Blythe Bridge,Stoke-On-Trent
+2025-07-04,220000,ST11 9PR,S,N,F,50,,Bridgwood Road,Forsbrook,Stoke-On-Trent
+2025-06-30,349995,ST11 9FY,D,Y,F,5,,Salt Avenue,Blythe Bridge,Stoke-On-Trent
+2025-06-30,294495,ST11 9FY,D,Y,F,23,,Salt Avenue,Blythe Bridge,Stoke-On-Trent
+2025-06-30,174300,ST11 9FY,T,Y,F,21,,Salt Avenue,Blythe Bridge,Stoke-On-Trent
+2025-06-30,370495,ST11 9FE,D,Y,F,13,,Levison Street,Blythe Bridge,Stoke-On-Trent
+2025-06-27,215000,ST11 9PG,S,N,F,11,,Springcroft,Blythe Bridge,Stoke-On-Trent
+2025-06-27,177100,ST11 9FY,S,Y,F,25,,Salt Avenue,Blythe Bridge,Stoke-On-Trent
+2025-06-27,195000,ST11 9FJ,S,N,F,6,,Gordon Road,Blythe Bridge,Stoke-On-Trent
+2025-06-26,175000,ST11 9AW,S,N,F,2,,William Close,Forsbrook,Stoke-On-Trent
+2025-06-24,267000,ST11 9RL,D,N,F,11,,Sandon Close,Cresswell,Stoke-On-Trent
+2025-06-23,166000,ST11 9PP,S,N,F,25,,Blythemount Park,Blythe Bridge,Stoke-On-Trent
+2025-06-23,235000,ST11 9NJ,S,N,F,16,,Pinewood Grove,Blythe Bridge,Stoke-On-Trent
+2025-06-20,439000,ST11 9NR,D,N,F,32,,Uttoxeter Road,Draycott,Stoke-On-Trent
+2025-06-20,175000,ST11 9AB,S,N,F,135,,Uttoxeter Road,Draycott,Stoke-On-Trent
+2025-06-20,281000,ST11 9AA,S,N,F,40,,Stuart Avenue,Draycott,Stoke-On-Trent
+2025-06-17,287000,ST11 9DP,D,N,F,4,,Brookgate,Forsbrook,Stoke-On-Trent
+2025-06-16,320000,ST11 9AU,D,N,F,36,,Portland Drive,Forsbrook,Stoke-On-Trent
+2025-06-13,420000,ST11 9DS,D,N,F,Hawthorn House,,East Bank Ride,Forsbrook,Stoke-On-Trent
+2025-06-13,175000,ST11 9AS,T,N,F,70,,Cheadle Road,Forsbrook,Stoke-On-Trent
+2025-06-12,840000,ST11 9QT,D,N,F,Highfield House,,Fulford Road,Fulford,Stoke-On-Trent
+2025-06-11,575000,ST11 9EG,D,N,F,J Holding,,Roughcote Lane,Caverswall,Stoke-On-Trent
+2025-06-06,195000,ST11 9HP,S,N,F,35,,Highfield Close,Blythe Bridge,Stoke-On-Trent
+2025-05-30,112500,ST11 9QB,T,N,F,11,,Wesley Street,Blythe Bridge,Stoke-On-Trent
+2025-05-30,127500,ST11 9NL,S,N,F,9,,Maple Crescent,Blythe Bridge,Stoke-On-Trent
+2025-05-30,198000,ST11 9HN,S,N,F,25,,Ridgway Drive,Blythe Bridge,Stoke-On-Trent
+2025-05-30,303995,ST11 9FY,D,Y,F,10,,Salt Avenue,Blythe Bridge,Stoke-On-Trent
+2025-05-30,282500,ST11 9FP,S,N,F,4,,Palmer Way,Blythe Bridge,Stoke-On-Trent
+2025-05-23,290000,ST11 9AU,S,N,F,75,,Portland Drive,Forsbrook,Stoke-On-Trent
+2025-05-22,150000,ST11 9AN,S,N,F,12,,Scarratt Drive,Forsbrook,Stoke-On-Trent
+2025-05-19,169000,ST11 9NJ,S,N,F,3,,Pinewood Grove,Blythe Bridge,Stoke-On-Trent
+2025-05-15,475000,ST11 9TP,D,N,F,2,,Jenner Grove,Blythe Bridge,Stoke-On-Trent
+2025-05-07,185000,ST11 9AD,S,N,F,9,,New Avenue,Draycott,Stoke-On-Trent
+2025-05-02,150000,ST11 9NX,S,N,F,77,,Elmwood Drive,Blythe Bridge,Stoke-On-Trent
+2025-05-02,215896,ST11 9FY,S,Y,F,9,,Salt Avenue,Blythe Bridge,Stoke-On-Trent
+2025-05-02,202857,ST11 9EW,S,N,F,4,,Vicarage Crescent,Caverswall,Stoke-On-Trent
+2025-05-02,193500,ST11 9AA,S,N,F,8,,Stuart Avenue,Draycott,Stoke-On-Trent
+2025-04-30,175000,ST11 9AA,S,N,F,22,,Stuart Avenue,Draycott,Stoke-On-Trent
+2025-04-24,290000,ST11 9JT,D,N,F,29,,Sutherland Crescent,Blythe Bridge,Stoke-On-Trent
+2025-04-23,226500,ST11 9PL,S,N,F,42,,Crossfield Avenue,Blythe Bridge,Stoke-On-Trent
+2025-04-23,395000,ST11 9JG,D,N,F,111,,Uttoxeter Road,Blythe Bridge,Stoke-On-Trent
+2025-04-10,335000,ST11 9RW,D,N,F,11,,Honeysuckle Avenue,Blythe Bridge,Stoke-On-Trent
+2025-04-04,229950,ST11 9PL,S,N,F,18,,Crossfield Avenue,Blythe Bridge,Stoke-On-Trent
+2025-04-04,215000,ST11 9BP,S,N,F,14,,Churnet Road,Forsbrook,Stoke-On-Trent
+2025-04-04,260000,ST11 9AH,S,N,F,216,,Draycott Old Road,Draycott,Stoke-On-Trent
+2025-04-02,130000,ST11 9QB,T,N,F,19,,Wesley Street,Blythe Bridge,Stoke-On-Trent
+2025-03-31,250000,ST11 9QQ,D,N,F,22,,Highview Road,Fulford,Stoke-On-Trent
+2025-03-31,282244,ST11 9GD,S,Y,F,3,,Wilkinson Lane,Blythe Bridge,Stoke-On-Trent
+2025-03-31,320000,ST11 9DS,D,N,F,Willow House,,East Bank Ride,Forsbrook,Stoke-On-Trent
+2025-03-31,340000,ST11 9DS,D,N,F,Birch House,,East Bank Ride,Forsbrook,Stoke-On-Trent
+2025-03-28,300250,ST11 9RY,D,N,F,8,,Cherry Close,Fulford,Stoke-On-Trent
+2025-03-28,216295,ST11 9FY,S,Y,F,7,,Salt Avenue,Blythe Bridge,Stoke-On-Trent
+2025-03-28,251745,ST11 9FY,S,Y,F,4,,Salt Avenue,Blythe Bridge,Stoke-On-Trent
+2025-03-28,354995,ST11 9FX,D,Y,F,34,,Rushton Lane,Blythe Bridge,Stoke-On-Trent
+2025-03-28,280245,ST11 9FX,D,Y,F,23,,Rushton Lane,Blythe Bridge,Stoke-On-Trent
+2025-03-28,190000,ST11 9BA,T,N,F,7,,Dale View Court,Fulford,Stoke-On-Trent
+2025-03-27,327500,ST11 9FL,D,N,F,15,,Moore Way,Blythe Bridge,Stoke-On-Trent
+2025-03-26,650000,ST11 9SD,D,N,F,Kingfishers,,Blithe View,Blythe Bridge,Stoke-On-Trent
+2025-03-26,155000,ST11 9RP,T,N,F,9,,Clematis Avenue,Blythe Bridge,Stoke-On-Trent
+2025-03-25,245000,ST11 9QF,T,N,F,3,,Stallington Close,Blythe Bridge,Stoke-On-Trent
+2025-03-24,235000,ST11 9BN,S,N,F,13,,Manifold Road,Forsbrook,Stoke-On-Trent
+2025-03-21,240000,ST11 9RQ,S,N,F,Clock Cottage,,Cheadle Road,Draycott,Stoke-On-Trent
+2025-03-21,240000,ST11 9PZ,S,N,F,34,,Mount Road,Blythe Bridge,Stoke-On-Trent
+2025-03-21,295186,ST11 9FY,D,Y,F,2,,Salt Avenue,Blythe Bridge,Stoke-On-Trent
+2025-03-14,218000,ST11 9RL,D,N,F,8,,Sandon Close,Cresswell,Stoke-On-Trent
+2025-03-05,330000,ST11 9SF,D,N,F,2,,Willow Way,Forsbrook,Stoke-On-Trent
+2025-03-03,218000,ST11 9DS,S,N,F,26,,East Bank Ride,Forsbrook,Stoke-On-Trent
+2025-02-28,110000,ST11 9JQ,F,N,L,8,,Millbrook Gardens,Blythe Bridge,Stoke-On-Trent
+2025-02-28,208995,ST11 9FY,S,Y,F,6,,Salt Avenue,Blythe Bridge,Stoke-On-Trent
+2025-02-28,251745,ST11 9FY,S,Y,F,3,,Salt Avenue,Blythe Bridge,Stoke-On-Trent
+2025-02-28,210000,ST11 9DN,D,N,F,2A,,Newclose Avenue,Forsbrook,Stoke-On-Trent
+2025-02-21,106000,ST11 9JZ,S,N,F,4,,Highland Close,Blythe Bridge,Stoke-On-Trent
+2025-02-19,110000,ST11 9QA,T,N,F,373,,Uttoxeter Road,Blythe Bridge,Stoke-On-Trent
+2025-02-14,284995,ST11 9GD,S,Y,F,5,,Wilkinson Lane,Blythe Bridge,Stoke-On-Trent
+2025-02-14,284995,ST11 9FE,D,Y,F,14,,Levison Street,Blythe Bridge,Stoke-On-Trent
+2025-02-14,225000,ST11 9AU,S,N,F,35,,Portland Drive,Forsbrook,Stoke-On-Trent
+2025-02-07,172900,ST11 9FX,T,Y,F,30,,Rushton Lane,Blythe Bridge,Stoke-On-Trent
+2025-02-07,150000,ST11 9AS,T,N,F,64,,Cheadle Road,Forsbrook,Stoke-On-Trent
+2025-02-06,750000,ST11 9QT,D,N,F,Graceland,,Fulford Road,Fulford,Stoke-On-Trent
+2025-02-06,499950,ST11 9NP,D,N,F,48,,Tudor Hollow,Fulford,Stoke-On-Trent
+2025-01-31,106000,ST11 9TS,S,N,L,43,,Lister Grove,Blythe Bridge,Stoke-On-Trent
+2025-01-31,480000,ST11 9QT,D,N,F,Belvedere,,Fulford Road,Fulford,Stoke-On-Trent
+2025-01-31,280000,ST11 9GD,D,Y,F,1,,Wilkinson Lane,Blythe Bridge,Stoke-On-Trent
+2025-01-31,267500,ST11 9EQ,T,N,F,16,,The Green,Caverswall,Stoke-On-Trent
+2025-01-24,575000,ST11 9QT,D,N,F,The Rowans,,Fulford Road,Fulford,Stoke-On-Trent
+2025-01-24,485000,ST11 9QE,D,N,F,61,,Kingfisher Crescent,Fulford,Stoke-On-Trent
+2025-01-24,170000,ST11 9PF,S,N,F,26,,Roseacre Lane,Blythe Bridge,Stoke-On-Trent
+2025-01-24,520000,ST11 9NP,D,N,F,42,,Tudor Hollow,Fulford,Stoke-On-Trent
+2025-01-24,770000,ST11 9HL,D,N,F,30,,Adamthwaite Drive,Blythe Bridge,Stoke-On-Trent
+2025-01-24,320000,ST11 9EP,D,N,F,3,,Nathan Close,,Stoke-On-Trent
+2025-01-17,225000,ST11 9BX,S,N,F,5,,Cheadle Road,Forsbrook,Stoke-On-Trent
+2025-01-09,225000,ST11 9QX,T,N,F,3,,Blythe View,Saverley Green,Stoke-On-Trent
+2025-01-09,180000,ST11 9QA,S,N,F,355,,Uttoxeter Road,Blythe Bridge,Stoke-On-Trent
+2025-01-09,312500,ST11 9FL,D,N,F,4,,Moore Way,Blythe Bridge,Stoke-On-Trent
+2024-12-20,170100,ST11 9FX,T,Y,F,18,,Rushton Lane,Blythe Bridge,Stoke-On-Trent
+2024-12-19,170000,ST11 9PL,S,N,F,27,,Crossfield Avenue,Blythe Bridge,Stoke-On-Trent
+2024-12-19,389995,ST11 9FY,D,Y,F,1,,Salt Avenue,Blythe Bridge,Stoke-On-Trent
+2024-12-19,170100,ST11 9FX,T,Y,F,28,,Rushton Lane,Blythe Bridge,Stoke-On-Trent
+2024-12-18,325000,ST11 9NN,D,N,F,18,,Oakdene Close,Blythe Bridge,Stoke-On-Trent
+2024-12-17,270000,ST11 9JG,S,N,F,85,,Uttoxeter Road,Blythe Bridge,Stoke-On-Trent
+2024-12-16,188000,ST11 9PY,S,N,F,51,,The Avenue,Blythe Bridge,Stoke-On-Trent
+2024-12-16,280000,ST11 9FX,D,Y,F,32,,Rushton Lane,Blythe Bridge,Stoke-On-Trent
+2024-12-13,152000,ST11 9QF,T,N,F,11,,Stallington Close,Blythe Bridge,Stoke-On-Trent
+2024-12-13,279995,ST11 9GD,S,Y,F,2,,Wilkinson Lane,Blythe Bridge,Stoke-On-Trent
+2024-12-13,302995,ST11 9FE,S,Y,F,16,,Levison Street,Blythe Bridge,Stoke-On-Trent
+2024-12-13,230000,ST11 9AU,S,N,F,55,,Portland Drive,Forsbrook,Stoke-On-Trent
+2024-12-13,230000,ST11 9AP,S,N,F,2,,Scarratt Close,Forsbrook,Stoke-On-Trent
+2024-12-12,100000,ST11 9PY,T,N,F,1,,The Avenue,Blythe Bridge,Stoke-On-Trent
+2024-12-06,304000,ST11 9NN,D,N,F,10,,Oakdene Close,Blythe Bridge,Stoke-On-Trent
+2024-12-06,269995,ST11 9FX,D,Y,F,17,,Rushton Lane,Blythe Bridge,Stoke-On-Trent
+2024-12-06,245000,ST11 9DJ,D,N,F,16,,Dilhorne Road,Forsbrook,Stoke-On-Trent
+2024-12-06,230000,ST11 9DG,S,N,F,5,,Parkway,Forsbrook,Stoke-On-Trent
+2024-12-04,715000,ST11 9BG,D,N,F,Fairfields,,Caverswall Road,Blythe Bridge,Stoke-On-Trent
+2024-11-29,235000,ST11 9RA,S,N,F,15,,Rookery Crescent,Cresswell,Stoke-On-Trent
+2024-11-29,162500,ST11 9QS,S,N,F,School House,,,Fulford,Stoke-On-Trent
+2024-11-29,330000,ST11 9PD,D,N,F,102,,Stallington Road,Blythe Bridge,Stoke-On-Trent
+2024-11-29,200000,ST11 9NY,S,N,F,143,,Elmwood Drive,Blythe Bridge,Stoke-On-Trent
+2024-11-29,279995,ST11 9GD,D,Y,F,6,,Wilkinson Lane,Blythe Bridge,Stoke-On-Trent
+2024-11-29,280246,ST11 9GD,S,Y,F,4,,Wilkinson Lane,Blythe Bridge,Stoke-On-Trent
+2024-11-29,345995,ST11 9FE,D,Y,F,17,,Levison Street,Blythe Bridge,Stoke-On-Trent
+2024-11-29,302995,ST11 9FE,S,Y,F,15,,Levison Street,Blythe Bridge,Stoke-On-Trent
+2024-11-28,331000,ST11 9FJ,D,N,F,7,,Gordon Road,Blythe Bridge,Stoke-On-Trent
+2024-11-19,210000,ST11 9PP,S,N,F,17,,Blythemount Park,Blythe Bridge,Stoke-On-Trent
+2024-11-18,285000,ST11 9LD,D,N,F,12,,Field Close,Blythe Bridge,Stoke-On-Trent
+2024-11-18,170000,ST11 9JQ,S,N,F,11,,Millbrook Gardens,Blythe Bridge,Stoke-On-Trent
+2024-11-15,300000,ST11 9SD,D,N,F,32,,Blithe View,Blythe Bridge,Stoke-On-Trent
+2024-11-15,105000,ST11 9PU,S,N,F,34,,Bridgwood Road,Blythe Bridge,Stoke-On-Trent
+2024-11-15,195000,ST11 9NY,S,N,F,109,,Elmwood Drive,Blythe Bridge,Stoke-On-Trent
+2024-11-15,300000,ST11 9EF,D,N,F,The Beeches,,High Street,Caverswall,Stoke-On-Trent
+2024-11-14,250000,ST11 9EN,S,N,F,45,,School Lane,Caverswall,Stoke-On-Trent
+2024-11-14,65000,ST11 9EF,T,N,F,Rose Cottage,,High Street,Caverswall,Stoke-On-Trent
+2024-11-14,255000,ST11 9BJ,S,N,F,9,,Rushton Way,Forsbrook,Stoke-On-Trent
+2024-11-13,124000,ST11 9HT,S,N,F,6,,Blyth Close,Blythe Bridge,Stoke-On-Trent
+2024-11-05,175000,ST11 9HL,S,N,F,23,,Adamthwaite Drive,Blythe Bridge,Stoke-On-Trent
+2024-10-28,182000,ST11 9AU,S,N,F,20,,Portland Drive,Forsbrook,Stoke-On-Trent
+2024-10-25,195000,ST11 9NG,S,N,F,7,,Cedar Avenue,Blythe Bridge,Stoke-On-Trent
+2024-10-25,120000,ST11 9NF,S,N,F,9,,Laburnum Close,Blythe Bridge,Stoke-On-Trent
+2024-10-25,379995,ST11 9GD,D,Y,F,7,,Wilkinson Lane,Blythe Bridge,Stoke-On-Trent
+2024-10-25,175000,ST11 9FX,S,Y,F,21,,Rushton Lane,Blythe Bridge,Stoke-On-Trent
+2024-10-25,175000,ST11 9FX,S,Y,F,19,,Rushton Lane,Blythe Bridge,Stoke-On-Trent
+2024-10-25,242500,ST11 9DQ,D,N,F,32,,Beverley Crescent,Forsbrook,Stoke-On-Trent
+2024-10-25,225000,ST11 9BN,S,N,F,11,,Manifold Road,Forsbrook,Stoke-On-Trent
+2024-10-23,275000,ST11 9RG,S,N,F,Rock Cottage,,Uttoxeter Road,Draycott,Stoke-On-Trent
+2024-10-22,242000,ST11 9HU,S,N,F,25,,Greenacres Avenue,Blythe Bridge,Stoke-On-Trent
+2024-10-18,177000,ST11 9RR,D,N,F,2,,Ivy Close,Blythe Bridge,Stoke-On-Trent
+2024-10-18,157500,ST11 9NR,S,N,F,91,,Uttoxeter Road,Draycott,Stoke-On-Trent
+2024-10-18,189000,ST11 9FX,S,Y,F,24,,Rushton Lane,Blythe Bridge,Stoke-On-Trent
+2024-10-17,325000,ST11 9PP,D,N,F,2,,Blythemount Park,Blythe Bridge,Stoke-On-Trent
+2024-10-17,419200,ST11 9PB,D,N,F,185,,Stallington Road,Blythe Bridge,Stoke-On-Trent
+2024-10-11,165000,ST11 9HP,S,N,F,38,,Highfield Close,Blythe Bridge,Stoke-On-Trent
+2024-10-11,180000,ST11 9HN,S,N,F,13,,Ridgway Drive,Blythe Bridge,Stoke-On-Trent
+2024-10-11,290000,ST11 9FJ,D,N,F,8,,Gordon Road,Blythe Bridge,Stoke-On-Trent
+2024-10-04,290000,ST11 9LT,D,N,F,3,,Elmwood Close,Blythe Bridge,Stoke-On-Trent
+2024-09-30,579000,ST11 9LW,D,N,F,242,,Grindley Lane,Blythe Bridge,Stoke-On-Trent
+2024-09-30,171500,ST11 9FX,T,Y,F,16,,Rushton Lane,Blythe Bridge,Stoke-On-Trent
+2024-09-27,425000,ST11 9NP,D,N,F,38,,Tudor Hollow,Fulford,Stoke-On-Trent
+2024-09-27,277500,ST11 9JT,D,N,F,101,,Sutherland Crescent,Blythe Bridge,Stoke-On-Trent
+2024-09-27,189000,ST11 9FX,T,Y,F,26,,Rushton Lane,Blythe Bridge,Stoke-On-Trent
+2024-09-27,287995,ST11 9FX,D,Y,F,15,,Rushton Lane,Blythe Bridge,Stoke-On-Trent
+2024-09-27,209974,ST11 9FX,T,Y,F,12,,Rushton Lane,Blythe Bridge,Stoke-On-Trent
+2024-09-27,208331,ST11 9FX,D,Y,F,10,,Rushton Lane,Blythe Bridge,Stoke-On-Trent
+2024-09-23,176000,ST11 9AW,S,N,F,6,,William Close,Forsbrook,Stoke-On-Trent
+2024-09-20,282000,ST11 9RW,D,N,F,9,,Honeysuckle Avenue,Blythe Bridge,Stoke-On-Trent
+2024-09-20,220000,ST11 9JR,T,N,F,275,,Uttoxeter Road,Blythe Bridge,Stoke-On-Trent
+2024-09-20,155000,ST11 9HW,T,N,F,10,,Green Close,Blythe Bridge,Stoke-On-Trent
+2024-09-20,189000,ST11 9FX,S,Y,F,22,,Rushton Lane,Blythe Bridge,Stoke-On-Trent
+2024-09-20,212500,ST11 9FE,T,Y,F,31,,Levison Street,Blythe Bridge,Stoke-On-Trent
+2024-09-19,267000,ST11 9SD,D,N,F,18,,Blithe View,Blythe Bridge,Stoke-On-Trent
+2024-09-19,250000,ST11 9LT,S,N,F,10,,Elmwood Close,Blythe Bridge,Stoke-On-Trent
+2024-09-19,530000,ST11 9BG,D,N,F,32,,Caverswall Road,Blythe Bridge,Stoke-On-Trent
+2024-09-13,575000,ST11 9HF,D,N,F,1,,Pinetree Drive,Blythe Bridge,Stoke-On-Trent
+2024-09-12,268500,ST11 9AE,S,N,F,237,,Uttoxeter Road,Draycott,Stoke-On-Trent
+2024-09-06,220000,ST11 9LA,S,N,F,6,,Argyll Close,Blythe Bridge,Stoke-On-Trent
+2024-09-06,450000,ST11 9AH,D,N,F,297,,Draycott Old Road,Draycott,Stoke-On-Trent
+2024-09-02,195000,ST11 9PF,S,N,F,13,,Roseacre Lane,Blythe Bridge,Stoke-On-Trent
+2024-08-29,247500,ST11 9NX,S,N,F,87,,Elmwood Drive,Blythe Bridge,Stoke-On-Trent
+2024-08-29,235500,ST11 9NG,T,N,F,8,,Cedar Avenue,Blythe Bridge,Stoke-On-Trent
+2024-08-27,220000,ST11 9DH,S,N,F,6,,Stratford Close,Forsbrook,Stoke-On-Trent
+2024-08-27,400000,ST11 9AL,D,N,F,26,,Draycott Old Road,Forsbrook,Stoke-On-Trent
+2024-08-23,107500,ST11 9QA,T,N,F,351,,Uttoxeter Road,Blythe Bridge,Stoke-On-Trent
+2024-08-23,189000,ST11 9FX,T,Y,F,20,,Rushton Lane,Blythe Bridge,Stoke-On-Trent
+2024-08-23,160000,ST11 9BW,S,N,F,5,,Trent Road,Forsbrook,Stoke-On-Trent
+2024-08-20,195500,ST11 9PP,T,N,F,18,,Blythemount Park,Blythe Bridge,Stoke-On-Trent
+2024-08-20,275000,ST11 9FD,S,N,F,7,,Travis Way,Blythe Bridge,Stoke-On-Trent
+2024-08-16,352500,ST11 9LB,D,N,F,8,,The Grove,Blythe Bridge,Stoke-On-Trent
+2024-08-09,208996,ST11 9FX,T,Y,F,8,,Rushton Lane,Blythe Bridge,Stoke-On-Trent
+2024-08-09,208951,ST11 9FE,T,Y,F,30,,Levison Street,Blythe Bridge,Stoke-On-Trent
+2024-08-09,237000,ST11 9DA,D,N,F,59,,Chapel Street,Forsbrook,Stoke-On-Trent
+2024-08-09,250000,ST11 9DA,S,N,F,51,,Chapel Street,Forsbrook,Stoke-On-Trent
+2024-08-08,160000,ST11 9AD,S,N,F,14,,New Avenue,Draycott,Stoke-On-Trent
+2024-08-07,230000,ST11 9JQ,T,N,F,12,,Millbrook Gardens,Blythe Bridge,Stoke-On-Trent
+2024-08-05,323500,ST11 9AU,S,N,F,84,,Portland Drive,Forsbrook,Stoke-On-Trent
+2024-08-05,232000,ST11 9AA,S,N,F,13,,Stuart Avenue,Draycott,Stoke-On-Trent
+2024-08-02,525000,ST11 9QS,D,N,F,Vicarage Farm House,,,Fulford,Stoke-On-Trent
+2024-08-02,232000,ST11 9NE,D,N,F,2,,Elmwood Drive,Blythe Bridge,Stoke-On-Trent
+2024-08-02,335000,ST11 9JG,S,N,F,74,,Uttoxeter Road,Blythe Bridge,Stoke-On-Trent
+2024-08-01,100000,ST11 9QA,T,N,F,347,,Uttoxeter Road,Blythe Bridge,Stoke-On-Trent
+2024-07-31,415000,ST11 9ED,S,N,F,Green Man Cottage,,The Square,Caverswall,Stoke-On-Trent
+2024-07-25,618000,ST11 9TW,D,N,F,1,,Nightingale Walk,Blythe Bridge,Stoke-On-Trent
+2024-07-25,285995,ST11 9FX,D,Y,F,14,,Rushton Lane,Blythe Bridge,Stoke-On-Trent
+2024-07-23,226000,ST11 9PZ,S,N,F,26,,Mount Road,Blythe Bridge,Stoke-On-Trent
+2024-07-18,305000,ST11 9SD,D,N,F,4,,Blithe View,Blythe Bridge,Stoke-On-Trent
+2024-07-17,200000,ST11 9PT,S,N,F,8,,Birch Grove,Forsbrook,Stoke-On-Trent
+2024-07-12,220000,ST11 9TU,D,N,F,7,,Beaumont Rise,Blythe Bridge,Stoke-On-Trent
+2024-07-11,300000,ST11 9HA,S,N,F,1,,Mill Close,Caverswall,Stoke-On-Trent
+2024-07-09,215000,ST11 9PJ,D,N,F,2,,Barlstone Avenue,Blythe Bridge,Stoke-On-Trent
+2024-07-01,240000,ST11 9HQ,S,N,F,183,,Uttoxeter Road,Blythe Bridge,Stoke-On-Trent
+2024-06-28,269755,ST11 9FX,D,Y,F,3,,Rushton Lane,Blythe Bridge,Stoke-On-Trent
+2024-06-21,198000,ST11 9LY,S,N,F,368,,Uttoxeter Road,Blythe Bridge,Stoke-On-Trent
+2024-06-21,335000,ST11 9JU,D,N,F,26,,Sutherland Crescent,Blythe Bridge,Stoke-On-Trent
+2024-06-14,178000,ST11 9RA,S,N,F,2,,Rookery Crescent,Cresswell,Stoke-On-Trent
+2024-06-03,254995,ST11 9FE,S,Y,F,29,,Levison Street,Blythe Bridge,Stoke-On-Trent
+2024-05-31,275000,ST11 9JU,D,N,F,36,,Sutherland Crescent,Blythe Bridge,Stoke-On-Trent
+2024-05-31,285995,ST11 9FX,D,Y,F,5,,Rushton Lane,Blythe Bridge,Stoke-On-Trent
+2024-05-30,219995,ST11 9FE,T,Y,F,32,,Levison Street,Blythe Bridge,Stoke-On-Trent
+2024-05-29,270000,ST11 9LZ,S,N,F,22,,Green Lane,Blythe Bridge,Stoke-On-Trent
+2024-05-29,335000,ST11 9DA,D,N,F,44,,Chapel Street,Forsbrook,Stoke-On-Trent
+2024-05-28,185000,ST11 9TU,T,N,F,4,,Beaumont Rise,Blythe Bridge,Stoke-On-Trent
+2024-05-24,221000,ST11 9RA,S,N,F,20,,Rookery Crescent,Cresswell,Stoke-On-Trent
+2024-05-10,615000,ST11 9RZ,D,N,F,Tudor View,,Meadow Lane,Fulford,Stoke-On-Trent
+2024-05-10,475000,ST11 9NP,D,N,F,42,,Tudor Hollow,Fulford,Stoke-On-Trent
+2024-05-03,635000,ST11 9TQ,D,N,F,2,,Galton Croft,Blythe Bridge,Stoke-On-Trent
+2024-05-03,300000,ST11 9PD,S,N,F,101,,Stallington Road,Blythe Bridge,Stoke-On-Trent
+2024-04-26,294995,ST11 9FX,S,Y,F,7,,Rushton Lane,Blythe Bridge,Stoke-On-Trent
+2024-04-26,290000,ST11 9FD,D,N,F,14,,Travis Way,Blythe Bridge,Stoke-On-Trent
+2024-04-25,284995,ST11 9FX,S,Y,F,9,,Rushton Lane,Blythe Bridge,Stoke-On-Trent
+2024-04-24,243000,ST11 9FE,S,Y,F,28,,Levison Street,Blythe Bridge,Stoke-On-Trent
+2024-04-22,130000,ST11 9TS,F,N,L,3,,Lister Grove,Blythe Bridge,Stoke-On-Trent
+2024-04-19,200050,ST11 9HL,S,N,F,5,,Adamthwaite Drive,Blythe Bridge,Stoke-On-Trent
+2024-04-19,265000,ST11 9BT,S,N,F,6,,Penk Road,Forsbrook,Stoke-On-Trent
+2024-04-15,160000,ST11 9DJ,D,N,F,35,,Dilhorne Road,Forsbrook,Stoke-On-Trent
+2024-03-28,406000,ST11 9LW,D,N,F,248,,Grindley Lane,Blythe Bridge,Stoke-On-Trent
+2024-03-28,170000,ST11 9JR,T,N,F,202,,Uttoxeter Road,Blythe Bridge,Stoke-On-Trent
+2024-03-26,308900,ST11 9JT,D,N,F,65,,Sutherland Crescent,Blythe Bridge,Stoke-On-Trent
+2024-03-25,120000,ST11 9QX,S,N,F,The Cottage,,Meadowside,Saverley Green,Stoke-On-Trent
+2024-03-22,181000,ST11 9NZ,S,N,F,2,,Limewood Close,Blythe Bridge,Stoke-On-Trent
+2024-03-22,230000,ST11 9NH,S,N,F,8,,Chestnut Crescent,Blythe Bridge,Stoke-On-Trent
+2024-03-20,237500,ST11 9PG,S,N,F,9,,Springcroft,Blythe Bridge,Stoke-On-Trent
+2024-03-20,415000,ST11 9BG,D,N,F,26,,Caverswall Road,Blythe Bridge,Stoke-On-Trent
+2024-03-15,220000,ST11 9LB,D,N,F,1,,The Grove,Blythe Bridge,Stoke-On-Trent
+2024-03-08,205000,ST11 9PZ,S,N,F,24,,Mount Road,Blythe Bridge,Stoke-On-Trent
+2024-03-08,163000,ST11 9PF,S,N,F,33,,Roseacre Lane,Blythe Bridge,Stoke-On-Trent
+2024-03-08,330000,ST11 9LB,D,N,F,5,,The Grove,Blythe Bridge,Stoke-On-Trent
+2024-03-08,260000,ST11 9DA,S,N,F,65,,Chapel Street,Forsbrook,Stoke-On-Trent
+2024-02-23,218000,ST11 9PJ,D,N,F,23,,Barlstone Avenue,Blythe Bridge,Stoke-On-Trent
+2024-02-23,365000,ST11 9JU,D,N,F,22,,Sutherland Crescent,Blythe Bridge,Stoke-On-Trent
+2024-02-23,246995,ST11 9FE,S,Y,F,25,,Levison Street,Blythe Bridge,Stoke-On-Trent
+2024-02-23,220000,ST11 9DF,S,N,F,19,,Springfield Drive,Forsbrook,Stoke-On-Trent
+2024-02-17,155000,ST11 9HQ,S,N,F,191,,Uttoxeter Road,Blythe Bridge,Stoke-On-Trent
+2024-02-16,320000,ST11 9JT,D,N,F,33,,Sutherland Crescent,Blythe Bridge,Stoke-On-Trent
+2024-02-16,185000,ST11 9JQ,T,N,F,29,,Millbrook Gardens,Blythe Bridge,Stoke-On-Trent
+2024-02-16,235000,ST11 9AU,S,N,F,59,,Portland Drive,Forsbrook,Stoke-On-Trent
+2024-02-16,198000,ST11 9AU,S,N,F,56,,Portland Drive,Forsbrook,Stoke-On-Trent
+2024-01-26,245000,ST11 9RJ,S,N,F,24,,Poplar Close,Blythe Bridge,Stoke-On-Trent
+2024-01-26,339995,ST11 9FX,D,Y,F,2,,Rushton Lane,Blythe Bridge,Stoke-On-Trent
+2024-01-26,313496,ST11 9FE,D,Y,F,27,,Levison Street,Blythe Bridge,Stoke-On-Trent
+2024-01-26,349995,ST11 9FE,D,Y,F,18,,Levison Street,Blythe Bridge,Stoke-On-Trent
+2024-01-24,220000,ST11 9NJ,S,N,F,13,,Pinewood Grove,Blythe Bridge,Stoke-On-Trent
+2024-01-24,170000,ST11 9NE,S,N,F,19,,Elmwood Drive,Blythe Bridge,Stoke-On-Trent
+2024-01-12,635000,ST11 9TQ,D,N,F,5,,Galton Croft,Blythe Bridge,Stoke-On-Trent
+2024-01-12,440000,ST11 9PA,S,N,F,138,,Stallington Road,Blythe Bridge,Stoke-On-Trent
+2024-01-12,438000,ST11 9EN,D,N,F,103,,School Lane,Caverswall,Stoke-On-Trent
+2024-01-09,211000,ST11 9JR,T,N,F,273,,Uttoxeter Road,Blythe Bridge,Stoke-On-Trent
+2023-12-15,349995,ST11 9FE,D,Y,F,26,,Levison Street,Blythe Bridge,Stoke-On-Trent
+2023-12-14,259995,ST11 9FE,S,Y,F,24,,Levison Street,Blythe Bridge,Stoke-On-Trent
+2023-12-13,208000,ST11 9DW,S,N,F,2,,Meadow Close,Forsbrook,Stoke-On-Trent
+2023-12-08,190000,ST11 9AZ,S,N,F,5,,Manor Close,Draycott,Stoke-On-Trent
+2023-12-05,170000,ST11 9BA,T,N,F,3,,Dale View Court,Fulford,Stoke-On-Trent
+2023-11-30,652500,ST11 9PW,D,N,F,The Paddock,,Cheadle Road,Blythe Bridge,Stoke-On-Trent
+2023-11-30,255000,ST11 9FJ,S,N,F,5,,Gordon Road,Blythe Bridge,Stoke-On-Trent
+2023-11-24,254950,ST11 9NY,S,N,F,106,,Elmwood Drive,Blythe Bridge,Stoke-On-Trent
+2023-11-24,339995,ST11 9FE,D,Y,F,23,,Levison Street,Blythe Bridge,Stoke-On-Trent
+2023-11-24,339995,ST11 9FE,D,Y,F,22,,Levison Street,Blythe Bridge,Stoke-On-Trent
+2023-11-24,309995,ST11 9FE,D,Y,F,21,,Levison Street,Blythe Bridge,Stoke-On-Trent
+2023-11-24,231995,ST11 9FE,S,Y,F,19,,Levison Street,Blythe Bridge,Stoke-On-Trent
+2023-11-24,208000,ST11 9DW,S,N,F,1,,Meadow Close,Forsbrook,Stoke-On-Trent
+2023-11-22,500000,ST11 9AQ,D,N,F,Swallow View,,Uttoxeter Road,Draycott,Stoke-On-Trent
+2023-11-21,260000,ST11 9EN,D,N,F,117,,School Lane,Caverswall,Stoke-On-Trent
+2023-11-17,100000,ST11 9JE,T,N,L,39,,Cedar Court,Blythe Bridge,Stoke-On-Trent
+2023-11-17,550000,ST11 9EG,D,N,F,Cookshill Hall,,Roughcote Lane,Caverswall,Stoke-On-Trent
+2023-11-10,160000,ST11 9BG,S,N,F,68,,Caverswall Road,Blythe Bridge,Stoke-On-Trent
+2023-11-03,195000,ST11 9NY,S,N,F,98,,Elmwood Drive,Blythe Bridge,Stoke-On-Trent
+2023-11-02,190000,ST11 9HR,S,N,F,7,,Adamthwaite Close,Blythe Bridge,Stoke-On-Trent
+2023-10-27,350000,ST11 9RU,D,N,F,4,,Hillside Close,Fulford,Stoke-On-Trent
+2023-10-27,245000,ST11 9NY,T,N,F,95,,Elmwood Drive,Blythe Bridge,Stoke-On-Trent
+2023-10-27,750000,ST11 9LW,D,N,F,266,,Grindley Lane,Blythe Bridge,Stoke-On-Trent
+2023-10-27,315000,ST11 9LD,D,N,F,9,,Field Close,Blythe Bridge,Stoke-On-Trent
+2023-10-27,386995,ST11 9FX,D,Y,F,4,,Rushton Lane,Blythe Bridge,Stoke-On-Trent
+2023-10-27,430000,ST11 9DB,D,N,F,6,,Greenwood Road,Forsbrook,Stoke-On-Trent
+2023-10-27,235000,ST11 9DA,D,N,F,57,,Chapel Street,Forsbrook,Stoke-On-Trent
+2023-10-20,185000,ST11 9TS,T,N,F,6,,Lister Grove,Blythe Bridge,Stoke-On-Trent
+2023-10-20,98000,ST11 9TS,F,N,L,47,,Lister Grove,Blythe Bridge,Stoke-On-Trent
+2023-10-20,275000,ST11 9RR,D,N,F,3,,Ivy Close,Blythe Bridge,Stoke-On-Trent
+2023-10-13,100000,ST11 9NT,S,N,F,403,,Uttoxeter Road,Blythe Bridge,Stoke-On-Trent
+2023-10-09,167500,ST11 9AS,T,N,F,70,,Cheadle Road,Forsbrook,Stoke-On-Trent
+2023-09-29,120000,ST11 9TS,T,N,L,33,,Lister Grove,Blythe Bridge,Stoke-On-Trent
+2023-09-29,145000,ST11 9PY,T,N,F,5,,The Avenue,Blythe Bridge,Stoke-On-Trent
+2023-09-29,690000,ST11 9PD,D,N,F,97A,,Stallington Road,Blythe Bridge,Stoke-On-Trent
+2023-09-29,195000,ST11 9LZ,T,N,F,6,,Green Lane,Blythe Bridge,Stoke-On-Trent
+2023-09-25,207000,ST11 9PR,S,N,F,62,,Bridgwood Road,Forsbrook,Stoke-On-Trent
+2023-09-25,266000,ST11 9ES,D,N,F,Lynton,,Roughcote Lane,Caverswall,Stoke-On-Trent
+2023-09-15,196000,ST11 9BH,S,N,F,6,,Hillside Avenue,Forsbrook,Stoke-On-Trent
+2023-09-11,195000,ST11 9NY,T,N,F,104,,Elmwood Drive,Blythe Bridge,Stoke-On-Trent
+2023-09-01,255000,ST11 9QQ,S,N,F,17,,Highview Road,Fulford,Stoke-On-Trent
+2023-08-21,233000,ST11 9PS,S,N,F,5,,Mount Place,Forsbrook,Stoke-On-Trent
+2023-08-21,173000,ST11 9BA,T,N,F,9,,Dale View Court,Fulford,Stoke-On-Trent
+2023-08-18,230000,ST11 9HU,S,N,F,43,,Greenacres Avenue,Blythe Bridge,Stoke-On-Trent
+2023-08-17,435000,ST11 9PB,S,N,F,143,,Stallington Road,Blythe Bridge,Stoke-On-Trent
+2023-08-17,330000,ST11 9JU,D,N,F,12,,Sutherland Crescent,Blythe Bridge,Stoke-On-Trent
+2023-08-11,115000,ST11 9EJ,T,N,F,3,,Long Row,Caverswall,Stoke-On-Trent
+2023-08-08,147307,ST11 9PZ,S,N,F,44,,Mount Road,Blythe Bridge,Stoke-On-Trent
+2023-08-08,370000,ST11 9NP,D,N,F,15,,Tudor Hollow,Fulford,Stoke-On-Trent
+2023-08-08,318000,ST11 9FH,D,N,F,1,,Marshall Lane,Blythe Bridge,Stoke-On-Trent
+2023-08-08,218000,ST11 9AU,S,N,F,71,,Portland Drive,Forsbrook,Stoke-On-Trent
+2023-08-04,230000,ST11 9RS,D,N,F,3,,Jasmine Close,Blythe Bridge,Stoke-On-Trent
+2023-08-04,310000,ST11 9RQ,S,N,F,The Ledge,,Cheadle Road,Draycott,Stoke-On-Trent
+2023-08-04,199950,ST11 9PF,S,N,F,35,,Roseacre Lane,Blythe Bridge,Stoke-On-Trent
+2023-07-28,320000,ST11 9PA,S,N,F,182,,Stallington Road,Blythe Bridge,Stoke-On-Trent
+2023-07-28,300000,ST11 9LD,D,N,F,2,,Field Close,Blythe Bridge,Stoke-On-Trent
+2023-07-24,280000,ST11 9PA,D,N,F,126,,Stallington Road,Blythe Bridge,Stoke-On-Trent
+2023-07-21,115000,ST11 9QX,S,N,F,Regalem,,,Saverley Green,Stoke-On-Trent
+2023-07-21,100000,ST11 9NT,T,N,F,379,,Uttoxeter Road,Blythe Bridge,Stoke-On-Trent
+2023-07-21,320000,ST11 9JT,S,N,F,7,,Sutherland Crescent,Blythe Bridge,Stoke-On-Trent
+2023-07-21,200000,ST11 9AU,S,N,F,13,,Portland Drive,Forsbrook,Stoke-On-Trent
+2023-07-20,188000,ST11 9BN,S,N,F,6,,Manifold Road,Forsbrook,Stoke-On-Trent
+2023-07-18,322500,ST11 9LD,D,N,F,6,,Field Close,Blythe Bridge,Stoke-On-Trent
+2023-07-18,210000,ST11 9EQ,T,N,F,16,,The Green,Caverswall,Stoke-On-Trent
+2023-07-14,675000,ST11 9TN,D,N,F,19,,Franklin Drive,Blythe Bridge,Stoke-On-Trent
+2023-07-14,268500,ST11 9JT,D,N,F,55,,Sutherland Crescent,Blythe Bridge,Stoke-On-Trent
+2023-07-14,250000,ST11 9JR,S,N,F,230,,Uttoxeter Road,Blythe Bridge,Stoke-On-Trent
+2023-07-14,218000,ST11 9AU,S,N,F,7,,Portland Drive,Forsbrook,Stoke-On-Trent
+2023-07-05,318000,ST11 9JX,D,N,F,14,,Orchard Rise,Blythe Bridge,Stoke-On-Trent
+2023-06-30,116000,ST11 9TS,F,N,L,39,,Lister Grove,Blythe Bridge,Stoke-On-Trent
+2023-06-30,272995,ST11 9FP,D,Y,F,6,,Palmer Way,Blythe Bridge,Stoke-On-Trent
+2023-06-30,210000,ST11 9DS,D,N,F,46,,East Bank Ride,Forsbrook,Stoke-On-Trent
+2023-06-27,255000,ST11 9QQ,D,N,F,24,,Highview Road,Fulford,Stoke-On-Trent
+2023-06-23,160000,ST11 9PJ,D,N,F,8,,Barlstone Avenue,Blythe Bridge,Stoke-On-Trent
+2023-06-23,344995,ST11 9FP,D,Y,F,1,,Palmer Way,Blythe Bridge,Stoke-On-Trent
+2023-06-14,410000,ST11 9QX,D,N,F,Saverley Cottage,,,Saverley Green,Stoke-On-Trent
+2023-06-12,117000,ST11 9QB,T,N,F,13,,Wesley Street,Blythe Bridge,Stoke-On-Trent
+2023-06-02,255000,ST11 9DA,S,N,F,63,,Chapel Street,Forsbrook,Stoke-On-Trent
+2023-05-30,130000,ST11 9JD,F,N,F,3,,Pine Court,Blythe Bridge,Stoke-On-Trent
+2023-05-26,93000,ST11 9LY,T,N,F,308,,Uttoxeter Road,Blythe Bridge,Stoke-On-Trent
+2023-05-22,235000,ST11 9FP,S,Y,F,11,,Palmer Way,Blythe Bridge,Stoke-On-Trent
+2023-05-19,139950,ST11 9RP,T,N,F,3,,Clematis Avenue,Blythe Bridge,Stoke-On-Trent
+2023-05-19,215000,ST11 9LZ,S,N,F,18,,Green Lane,Blythe Bridge,Stoke-On-Trent
+2023-05-19,250000,ST11 9FD,D,N,F,3,,Travis Way,Blythe Bridge,Stoke-On-Trent
+2023-05-19,205000,ST11 9EG,S,N,F,Pasturefields,,Roughcote Lane,Caverswall,Stoke-On-Trent
+2023-05-12,270000,ST11 9PJ,D,N,F,22,,Barlstone Avenue,Blythe Bridge,Stoke-On-Trent
+2023-05-12,310000,ST11 9LD,D,N,F,10,,Field Close,Blythe Bridge,Stoke-On-Trent
+2023-05-09,175000,ST11 9RP,S,N,F,12,,Clematis Avenue,Blythe Bridge,Stoke-On-Trent
+2023-04-28,207000,ST11 9TU,T,N,F,12,,Beaumont Rise,Blythe Bridge,Stoke-On-Trent
+2023-04-28,190000,ST11 9QA,T,N,F,333,,Uttoxeter Road,Blythe Bridge,Stoke-On-Trent
+2023-04-28,135000,ST11 9JQ,F,N,L,"Foxglove House, 14",Flat 2,Millbrook Gardens,Blythe Bridge,Stoke-On-Trent
+2023-04-28,259995,ST11 9FP,T,Y,F,12,,Palmer Way,Blythe Bridge,Stoke-On-Trent
+2023-04-28,275000,ST11 9FE,S,Y,F,11,,Levison Street,Blythe Bridge,Stoke-On-Trent
+2023-04-11,230000,ST11 9TS,T,N,F,20,,Lister Grove,Blythe Bridge,Stoke-On-Trent
+2023-03-31,280000,ST11 9QX,D,N,F,The Lodge,,,Saverley Green,Stoke-On-Trent
+2023-03-31,220000,ST11 9PZ,S,N,F,22,,Mount Road,Blythe Bridge,Stoke-On-Trent
+2023-03-31,275000,ST11 9JT,D,N,F,93,,Sutherland Crescent,Blythe Bridge,Stoke-On-Trent
+2023-03-31,289995,ST11 9FP,D,Y,F,3,,Palmer Way,Blythe Bridge,Stoke-On-Trent
+2023-03-31,270000,ST11 9FE,S,Y,F,12,,Levison Street,Blythe Bridge,Stoke-On-Trent
+2023-03-29,205000,ST11 9EW,T,N,F,9,,Vicarage Crescent,Caverswall,Stoke-On-Trent
+2023-03-24,206000,ST11 9AB,S,N,F,159,,Uttoxeter Road,Draycott,Stoke-On-Trent
+2023-03-23,240000,ST11 9PR,S,N,F,71,,Bridgwood Road,Forsbrook,Stoke-On-Trent
+2023-03-20,112500,ST11 9RB,F,N,F,28,,Sandon Road,Cresswell,Stoke-On-Trent
+2023-03-13,185000,ST11 9PF,S,N,F,23,,Roseacre Lane,Blythe Bridge,Stoke-On-Trent
+2023-03-10,180000,ST11 9DQ,S,N,F,2,,Beverley Crescent,Forsbrook,Stoke-On-Trent
+2023-03-07,120000,ST11 9QB,T,N,F,9,,Wesley Street,Blythe Bridge,Stoke-On-Trent
+2023-03-03,324995,ST11 9FE,D,Y,F,10,,Levison Street,Blythe Bridge,Stoke-On-Trent
+2023-02-28,259995,ST11 9FP,S,Y,F,8,,Palmer Way,Blythe Bridge,Stoke-On-Trent
+2023-02-20,114000,ST11 9QA,T,N,F,345,,Uttoxeter Road,Blythe Bridge,Stoke-On-Trent
+2023-02-20,220000,ST11 9HL,S,N,F,11,,Adamthwaite Drive,Blythe Bridge,Stoke-On-Trent
+2023-02-10,675000,ST11 9PD,D,N,F,70,,Stallington Road,Blythe Bridge,Stoke-On-Trent
+2023-02-02,77500,ST11 9BA,T,N,F,3,,Dale View Court,Fulford,Stoke-On-Trent
+2023-01-27,403000,ST11 9DD,D,N,F,2,,Dolespring Close,Forsbrook,Stoke-On-Trent
+2023-01-20,78000,ST11 9TS,F,N,L,29,,Lister Grove,Blythe Bridge,Stoke-On-Trent
+2023-01-20,200000,ST11 9HA,S,N,F,12,,Mill Close,Caverswall,Stoke-On-Trent
+2023-01-09,385000,ST11 9NS,D,N,F,2,,Egerton Close,Blythe Bridge,Stoke-On-Trent
+2022-12-16,275000,ST11 9PJ,D,N,F,28,,Barlstone Avenue,Blythe Bridge,Stoke-On-Trent
+2022-12-16,249995,ST11 9FP,S,Y,F,9,,Palmer Way,Blythe Bridge,Stoke-On-Trent
+2022-12-16,345995,ST11 9FP,D,Y,F,37,,Palmer Way,Blythe Bridge,Stoke-On-Trent
+2022-12-16,308995,ST11 9FP,D,Y,F,2,,Palmer Way,Blythe Bridge,Stoke-On-Trent
+2022-12-16,274995,ST11 9FP,D,Y,F,15,,Palmer Way,Blythe Bridge,Stoke-On-Trent
+2022-12-16,170000,ST11 9BA,T,N,F,11,,Dale View Court,Fulford,Stoke-On-Trent
+2022-12-15,230000,ST11 9EN,S,N,F,62,,School Lane,Caverswall,Stoke-On-Trent
+2022-12-12,160000,ST11 9QQ,T,N,F,10,,Highview Road,Fulford,Stoke-On-Trent
+2022-12-12,110000,ST11 9NR,T,N,F,52,,Uttoxeter Road,Draycott,Stoke-On-Trent
+2022-12-08,295000,ST11 9JT,D,N,F,69,,Sutherland Crescent,Blythe Bridge,Stoke-On-Trent
+2022-12-02,230000,ST11 9JX,D,N,F,9,,Orchard Rise,Blythe Bridge,Stoke-On-Trent
+2022-12-02,220000,ST11 9DF,S,N,F,8,,Springfield Drive,Forsbrook,Stoke-On-Trent
+2022-11-30,280000,ST11 9QD,S,N,F,6,,Cheadle Road,Forsbrook,Stoke-On-Trent
+2022-11-30,115000,ST11 9JQ,F,N,L,"Primrose House, 28",Flat 4,Millbrook Gardens,Blythe Bridge,Stoke-On-Trent
+2022-11-30,342495,ST11 9FP,D,Y,F,36,,Palmer Way,Blythe Bridge,Stoke-On-Trent
+2022-11-29,420000,ST11 9PB,S,N,F,153,,Stallington Road,Blythe Bridge,Stoke-On-Trent
+2022-11-28,150000,ST11 9HW,S,N,F,13,,Green Close,Blythe Bridge,Stoke-On-Trent
+2022-11-28,200000,ST11 9FP,T,Y,F,18,,Palmer Way,Blythe Bridge,Stoke-On-Trent
+2022-11-28,200000,ST11 9FP,T,Y,F,17,,Palmer Way,Blythe Bridge,Stoke-On-Trent
+2022-11-25,225000,ST11 9PZ,T,N,F,19,,Mount Road,Blythe Bridge,Stoke-On-Trent
+2022-11-25,289495,ST11 9FP,S,Y,F,5,,Palmer Way,Blythe Bridge,Stoke-On-Trent
+2022-11-25,289495,ST11 9FP,S,Y,F,4,,Palmer Way,Blythe Bridge,Stoke-On-Trent
+2022-11-25,334995,ST11 9FP,D,Y,F,20,,Palmer Way,Blythe Bridge,Stoke-On-Trent
+2022-11-22,355000,ST11 9JR,D,N,F,219A,,Uttoxeter Road,Blythe Bridge,Stoke-On-Trent
+2022-11-15,230000,ST11 9HL,S,N,F,25,,Adamthwaite Drive,Blythe Bridge,Stoke-On-Trent
+2022-11-14,540000,ST11 9TN,D,N,F,3,,Franklin Drive,Blythe Bridge,Stoke-On-Trent
+2022-11-14,230000,ST11 9EN,S,N,F,50,,School Lane,Caverswall,Stoke-On-Trent
+2022-11-14,325200,ST11 9DN,D,N,F,Netherlee,,Newclose Avenue,Forsbrook,Stoke-On-Trent
+2022-11-14,460000,ST11 9AL,D,N,F,The Old Barn,,Draycott Old Road,Forsbrook,Stoke-On-Trent
+2022-11-11,140000,ST11 9HP,S,N,F,15,,Highfield Close,Blythe Bridge,Stoke-On-Trent
+2022-11-04,525000,ST11 9EX,D,N,F,Little Intakes Farm,,Caverswall Common,Caverswall,Stoke-On-Trent
+2022-10-28,250000,ST11 9ND,S,N,F,402,,Uttoxeter Road,Blythe Bridge,Stoke-On-Trent
+2022-10-28,188000,ST11 9HN,T,N,F,33,,Ridgway Drive,Blythe Bridge,Stoke-On-Trent
+2022-10-28,308995,ST11 9FP,D,Y,F,7,,Palmer Way,Blythe Bridge,Stoke-On-Trent
+2022-10-28,299995,ST11 9FP,D,Y,F,22,,Palmer Way,Blythe Bridge,Stoke-On-Trent
+2022-10-28,205995,ST11 9FP,T,Y,F,19,,Palmer Way,Blythe Bridge,Stoke-On-Trent
+2022-10-28,208495,ST11 9FP,T,Y,F,16,,Palmer Way,Blythe Bridge,Stoke-On-Trent
+2022-10-27,260000,ST11 9LD,D,N,F,8,,Field Close,Blythe Bridge,Stoke-On-Trent
+2022-10-27,385000,ST11 9BG,S,N,F,108,,Caverswall Road,Blythe Bridge,Stoke-On-Trent
+2022-10-21,385000,ST11 9EZ,D,N,F,Fingerpost Farm,,Dilhorne Road,Caverswall,Stoke-On-Trent
+2022-10-21,265000,ST11 9BN,S,N,F,20,,Manifold Road,Forsbrook,Stoke-On-Trent
+2022-10-19,205000,ST11 9LE,D,N,F,6,,Churchill Close,Blythe Bridge,Stoke-On-Trent
+2022-10-14,300000,ST11 9RQ,S,N,F,Hillcrest,,Cheadle Road,Draycott,Stoke-On-Trent
+2022-10-14,162500,ST11 9QA,F,N,F,"The Englefield, 365B",,Uttoxeter Road,Blythe Bridge,Stoke-On-Trent
+2022-10-11,175000,ST11 9AU,S,N,F,71,,Portland Drive,Forsbrook,Stoke-On-Trent
+2022-10-07,292000,ST11 9NL,S,N,F,3,,Maple Crescent,Blythe Bridge,Stoke-On-Trent
+2022-10-05,225000,ST11 9TX,T,N,L,1,,Stallington Mews,Blythe Bridge,Stoke-On-Trent
+2022-10-05,300000,ST11 9RB,D,N,F,47,,Sandon Road,Cresswell,Stoke-On-Trent
+2022-09-30,212000,ST11 9NZ,S,N,F,6,,Limewood Close,Blythe Bridge,Stoke-On-Trent
+2022-09-30,277495,ST11 9FP,T,Y,F,26,,Palmer Way,Blythe Bridge,Stoke-On-Trent
+2022-09-30,205995,ST11 9FP,T,Y,F,25,,Palmer Way,Blythe Bridge,Stoke-On-Trent
+2022-09-30,208995,ST11 9FP,T,Y,F,24,,Palmer Way,Blythe Bridge,Stoke-On-Trent
+2022-09-30,211495,ST11 9FP,T,Y,F,14,,Palmer Way,Blythe Bridge,Stoke-On-Trent
+2022-09-30,208495,ST11 9FP,T,Y,F,13,,Palmer Way,Blythe Bridge,Stoke-On-Trent
+2022-09-29,550000,ST11 9TN,D,N,F,1,,Franklin Drive,Blythe Bridge,Stoke-On-Trent
+2022-09-29,219495,ST11 9FP,S,Y,F,10,,Palmer Way,Blythe Bridge,Stoke-On-Trent
+2022-09-27,235000,ST11 9PS,S,N,F,5,,Mount Place,Forsbrook,Stoke-On-Trent
+2022-09-22,235000,ST11 9TX,F,N,L,9,,Stallington Mews,Blythe Bridge,Stoke-On-Trent
+2022-09-22,340000,ST11 9PA,S,N,F,"Rosedene, 136",,Stallington Road,Blythe Bridge,Stoke-On-Trent
+2022-09-21,275500,ST11 9AU,D,N,F,39,,Portland Drive,Forsbrook,Stoke-On-Trent
+2022-09-16,120000,ST11 9RP,T,N,F,3,,Clematis Avenue,Blythe Bridge,Stoke-On-Trent
+2022-09-16,470000,ST11 9ND,D,N,F,406,,Uttoxeter Road,Blythe Bridge,Stoke-On-Trent
+2022-09-09,156000,ST11 9HT,S,N,F,9,,Blyth Close,Blythe Bridge,Stoke-On-Trent
+2022-09-08,285000,ST11 9PL,D,N,F,52,,Crossfield Avenue,Blythe Bridge,Stoke-On-Trent
+2022-09-06,335000,ST11 9PB,S,N,F,181,,Stallington Road,Blythe Bridge,Stoke-On-Trent
+2022-09-06,185000,ST11 9AS,T,N,F,70,,Cheadle Road,Forsbrook,Stoke-On-Trent
+2022-09-02,336000,ST11 9RS,D,N,F,8,,Jasmine Close,Blythe Bridge,Stoke-On-Trent
+2022-09-02,245000,ST11 9AH,S,N,F,206,,Draycott Old Road,Draycott,Stoke-On-Trent
+2022-09-02,170000,ST11 9AA,S,N,F,38,,Stuart Avenue,Draycott,Stoke-On-Trent
+2022-09-01,110000,ST11 9QB,T,N,F,7,,Wesley Street,Blythe Bridge,Stoke-On-Trent
+2022-09-01,95000,ST11 9PY,T,N,F,2,,The Avenue,Blythe Bridge,Stoke-On-Trent
+2022-09-01,210000,ST11 9NN,S,N,F,15,,Oakdene Close,Blythe Bridge,Stoke-On-Trent
+2022-09-01,290000,ST11 9JT,D,N,F,15,,Sutherland Crescent,Blythe Bridge,Stoke-On-Trent
+2022-08-30,163000,ST11 9DS,S,N,F,40,,East Bank Ride,Forsbrook,Stoke-On-Trent
+2022-08-30,82500,ST11 9BA,T,N,F,7,,Dale View Court,Fulford,Stoke-On-Trent
+2022-08-26,216995,ST11 9FP,T,Y,F,35,,Palmer Way,Blythe Bridge,Stoke-On-Trent
+2022-08-26,251995,ST11 9FP,S,Y,F,32,,Palmer Way,Blythe Bridge,Stoke-On-Trent
+2022-08-26,251995,ST11 9FP,S,Y,F,31,,Palmer Way,Blythe Bridge,Stoke-On-Trent
+2022-08-26,319495,ST11 9FP,D,Y,F,30,,Palmer Way,Blythe Bridge,Stoke-On-Trent
+2022-08-26,360000,ST11 9BU,D,N,F,10,,Blythe Road,Forsbrook,Stoke-On-Trent
+2022-08-25,243000,ST11 9PT,S,N,F,6,,Birch Grove,Forsbrook,Stoke-On-Trent
+2022-08-25,198500,ST11 9AU,S,N,F,59,,Portland Drive,Forsbrook,Stoke-On-Trent
+2022-08-24,160000,ST11 9RB,S,N,F,46,,Sandon Road,Cresswell,Stoke-On-Trent
+2022-08-23,320000,ST11 9JU,D,N,F,72,,Sutherland Crescent,Blythe Bridge,Stoke-On-Trent
+2022-08-23,210000,ST11 9EH,S,N,F,8,,Halldearn Avenue,Caverswall,Stoke-On-Trent
+2022-08-19,289950,ST11 9ND,S,N,F,392,,Uttoxeter Road,Blythe Bridge,Stoke-On-Trent
+2022-08-19,280000,ST11 9JY,D,N,F,7,,Midway Drive,Blythe Bridge,Stoke-On-Trent
+2022-08-19,182000,ST11 9HP,S,N,F,13,,Highfield Close,Blythe Bridge,Stoke-On-Trent
+2022-08-18,236000,ST11 9AU,S,N,F,69,,Portland Drive,Forsbrook,Stoke-On-Trent
+2022-08-16,325000,ST11 9NP,D,N,F,19,,Tudor Hollow,Fulford,Stoke-On-Trent
+2022-08-15,90000,ST11 9TS,F,N,L,19,,Lister Grove,Blythe Bridge,Stoke-On-Trent
+2022-08-11,105000,ST11 9JQ,F,N,L,"Jasmine House, 30",Flat 2,Millbrook Gardens,Blythe Bridge,Stoke-On-Trent
+2022-08-09,170000,ST11 9JZ,S,N,F,1,,Highland Close,Blythe Bridge,Stoke-On-Trent
+2022-08-05,130000,ST11 9RP,S,N,F,37,,Clematis Avenue,Blythe Bridge,Stoke-On-Trent
+2022-08-05,139000,ST11 9HP,S,N,F,28,,Highfield Close,Blythe Bridge,Stoke-On-Trent
+2022-08-01,250000,ST11 9BH,S,N,F,34,,Hillside Avenue,Forsbrook,Stoke-On-Trent
+2022-07-29,200000,ST11 9RB,S,N,F,40,,Sandon Road,Cresswell,Stoke-On-Trent
+2022-07-29,340000,ST11 9NW,D,N,F,2,,Woodlands Lane,Blythe Bridge,Stoke-On-Trent
+2022-07-29,212995,ST11 9FP,T,Y,F,34,,Palmer Way,Blythe Bridge,Stoke-On-Trent
+2022-07-29,216995,ST11 9FP,T,Y,F,33,,Palmer Way,Blythe Bridge,Stoke-On-Trent
+2022-07-29,450000,ST11 9EG,D,N,F,Dusk Wood,,Roughcote Lane,Caverswall,Stoke-On-Trent
+2022-07-29,160000,ST11 9AD,S,N,F,10,,New Avenue,Draycott,Stoke-On-Trent
+2022-07-15,250000,ST11 9AB,S,N,F,141,,Uttoxeter Road,Draycott,Stoke-On-Trent
+2022-07-11,285000,ST11 9PE,D,N,F,20,,Bancroft Lane,Blythe Bridge,Stoke-On-Trent
+2022-06-30,115000,ST11 9JQ,F,N,L,"Primrose House, 28",Flat 2,Millbrook Gardens,Blythe Bridge,Stoke-On-Trent
+2022-06-28,215000,ST11 9PZ,S,N,F,56,,Mount Road,Blythe Bridge,Stoke-On-Trent
+2022-06-27,81000,ST11 9TS,F,N,L,11,,Lister Grove,Blythe Bridge,Stoke-On-Trent
+2022-06-27,97500,ST11 9JQ,F,N,L,"Primrose House, 28",Flat 5,Millbrook Gardens,Blythe Bridge,Stoke-On-Trent
+2022-06-24,185000,ST11 9JR,T,N,F,204,,Uttoxeter Road,Blythe Bridge,Stoke-On-Trent
+2022-06-24,270495,ST11 9FP,D,Y,F,23,,Palmer Way,Blythe Bridge,Stoke-On-Trent
+2022-06-24,320995,ST11 9FP,D,Y,F,21,,Palmer Way,Blythe Bridge,Stoke-On-Trent
+2022-06-24,319495,ST11 9FE,D,Y,F,9,,Levison Street,Blythe Bridge,Stoke-On-Trent
+2022-06-20,110000,ST11 9RE,D,N,F,Tixall Barn,,Cresswell Lane,Cresswell,Stoke-On-Trent
+2022-06-20,377500,ST11 9PW,S,N,F,The Cedars,1,Cheadle Road,Blythe Bridge,Stoke-On-Trent
+2022-06-20,360000,ST11 9JT,D,N,F,9,,Sutherland Crescent,Blythe Bridge,Stoke-On-Trent
+2022-06-20,120000,ST11 9DS,S,N,F,27,,East Bank Ride,Forsbrook,Stoke-On-Trent
+2022-06-17,178500,ST11 9DS,S,N,F,36,,East Bank Ride,Forsbrook,Stoke-On-Trent
+2022-06-13,160000,ST11 9HW,S,N,F,3,,Green Close,Blythe Bridge,Stoke-On-Trent
+2022-05-27,314995,ST11 9FP,D,Y,F,27,,Palmer Way,Blythe Bridge,Stoke-On-Trent
+2022-05-26,210000,ST11 9PS,S,N,F,4,,Mount Place,Forsbrook,Stoke-On-Trent
+2022-05-20,209000,ST11 9DB,T,N,F,7,,Greenwood Road,Forsbrook,Stoke-On-Trent
+2022-05-13,250000,ST11 9NN,D,N,F,12,,Oakdene Close,Blythe Bridge,Stoke-On-Trent
+2022-05-13,250000,ST11 9LA,S,N,F,5,,Argyll Close,Blythe Bridge,Stoke-On-Trent
+2022-05-13,219950,ST11 9DW,S,N,F,10,,Meadow Close,Forsbrook,Stoke-On-Trent
+2022-04-29,405000,ST11 9RF,D,N,F,St Josephs House,,Cresswell Old Lane,Cresswell,Stoke-On-Trent
+2022-04-29,358495,ST11 9FP,D,Y,F,28,,Palmer Way,Blythe Bridge,Stoke-On-Trent
+2022-04-29,200000,ST11 9BP,S,N,F,14,,Churnet Road,Forsbrook,Stoke-On-Trent
+2022-04-29,205000,ST11 9BH,S,N,F,24,,Hillside Avenue,Forsbrook,Stoke-On-Trent
+2022-04-29,172500,ST11 9BA,S,N,F,10,,Dale View Court,Fulford,Stoke-On-Trent
+2022-04-28,390995,ST11 9FP,D,Y,F,29,,Palmer Way,Blythe Bridge,Stoke-On-Trent
+2022-04-28,280000,ST11 9DN,D,N,F,Remar,,Newclose Avenue,Forsbrook,Stoke-On-Trent
+2022-04-25,122500,ST11 9TS,F,N,L,17,,Lister Grove,Blythe Bridge,Stoke-On-Trent
+2022-04-22,252000,ST11 9PL,S,N,F,16,,Crossfield Avenue,Blythe Bridge,Stoke-On-Trent
+2022-04-20,180000,ST11 9NJ,D,N,F,15,,Pinewood Grove,Blythe Bridge,Stoke-On-Trent
+2022-04-14,372500,ST11 9PY,D,N,F,15,,The Avenue,Blythe Bridge,Stoke-On-Trent
+2022-04-14,202000,ST11 9PT,S,N,F,8,,Birch Grove,Forsbrook,Stoke-On-Trent
+2022-04-14,384995,ST11 9FL,D,Y,F,16,,Moore Way,Blythe Bridge,Stoke-On-Trent
+2022-04-14,396995,ST11 9FL,D,Y,F,12,,Moore Way,Blythe Bridge,Stoke-On-Trent
+2022-04-14,181500,ST11 9AA,S,N,F,8,,Stuart Avenue,Draycott,Stoke-On-Trent
+2022-04-11,235000,ST11 9QQ,D,N,F,3,,Highview Road,Fulford,Stoke-On-Trent
+2022-04-08,285000,ST11 9JG,S,N,F,85,,Uttoxeter Road,Blythe Bridge,Stoke-On-Trent
+2022-04-06,65000,ST11 9LY,F,N,L,276A,,Uttoxeter Road,Blythe Bridge,Stoke-On-Trent
+2022-04-06,65000,ST11 9LY,F,N,L,276,,Uttoxeter Road,Blythe Bridge,Stoke-On-Trent
+2022-03-31,295000,ST11 9ST,D,N,F,16,,Willowcroft Rise,Blythe Bridge,Stoke-On-Trent
+2022-03-31,315995,ST11 9FL,D,Y,F,17,,Moore Way,Blythe Bridge,Stoke-On-Trent
+2022-03-29,395000,ST11 9QX,D,N,F,Windrush,,,Saverley Green,Stoke-On-Trent
+2022-03-25,218000,ST11 9LT,S,N,F,10,,Elmwood Close,Blythe Bridge,Stoke-On-Trent
+2022-03-25,312995,ST11 9FL,D,Y,F,14,,Moore Way,Blythe Bridge,Stoke-On-Trent
+2022-03-25,349995,ST11 9FL,D,Y,F,13,,Moore Way,Blythe Bridge,Stoke-On-Trent
+2022-03-25,320000,ST11 9BY,S,N,F,26,,Chapel Street,Forsbrook,Stoke-On-Trent
+2022-03-25,1000000,ST11 9BG,D,N,F,88,,Caverswall Road,Blythe Bridge,Stoke-On-Trent
+2022-03-25,134000,ST11 9AB,S,N,F,106,,Uttoxeter Road,Draycott,Stoke-On-Trent
+2022-03-24,325000,ST11 9EA,S,N,F,Clifton,,Blythe Bridge Road,Caverswall,Stoke-On-Trent
+2022-03-18,275000,ST11 9JU,D,N,F,26,,Sutherland Crescent,Blythe Bridge,Stoke-On-Trent
+2022-03-18,310995,ST11 9FL,D,Y,F,15,,Moore Way,Blythe Bridge,Stoke-On-Trent
+2022-03-18,712500,ST11 9BG,D,N,F,57,,Caverswall Road,Blythe Bridge,Stoke-On-Trent
+2022-03-14,195000,ST11 9TT,T,N,F,1,,Weller Close,Blythe Bridge,Stoke-On-Trent
+2022-03-11,161000,ST11 9QQ,T,N,F,16,,Highview Road,Fulford,Stoke-On-Trent
+2022-03-11,305000,ST11 9DJ,D,N,F,41,,Dilhorne Road,Forsbrook,Stoke-On-Trent
+2022-03-11,325000,ST11 9BG,S,N,F,87,,Caverswall Road,Blythe Bridge,Stoke-On-Trent
+2022-03-10,325000,ST11 9PN,S,N,F,4,,Stallington Road,Blythe Bridge,Stoke-On-Trent
+2022-02-25,195000,ST11 9BG,S,N,F,2,,Caverswall Road,Blythe Bridge,Stoke-On-Trent
+2022-02-18,197500,ST11 9AU,S,N,F,42,,Portland Drive,Forsbrook,Stoke-On-Trent
+2022-02-10,355000,ST11 9RQ,D,N,F,Brookside,Weavers View,Cheadle Road,Draycott,Stoke-On-Trent
+2022-02-09,180000,ST11 9PR,S,N,F,52,,Bridgwood Road,Forsbrook,Stoke-On-Trent
+2022-02-07,250000,ST11 9TX,D,N,L,14,,Stallington Mews,Blythe Bridge,Stoke-On-Trent
+2022-02-07,525000,ST11 9QS,D,N,F,Dene Hollow,,,Fulford,Stoke-On-Trent
+2022-02-04,182500,ST11 9TU,D,N,F,16,,Beaumont Rise,Blythe Bridge,Stoke-On-Trent
+2022-02-04,309995,ST11 9FL,D,Y,F,4,,Moore Way,Blythe Bridge,Stoke-On-Trent
+2022-02-04,179995,ST11 9BX,D,N,F,11,,Cheadle Road,Forsbrook,Stoke-On-Trent
+2022-02-02,183000,ST11 9JR,T,N,F,273,,Uttoxeter Road,Blythe Bridge,Stoke-On-Trent
+2022-01-28,195000,ST11 9HL,S,N,F,31,,Adamthwaite Drive,Blythe Bridge,Stoke-On-Trent
+2022-01-28,265495,ST11 9FL,S,Y,F,7,,Moore Way,Blythe Bridge,Stoke-On-Trent
+2022-01-28,308995,ST11 9FL,D,Y,F,10,,Moore Way,Blythe Bridge,Stoke-On-Trent
+2022-01-28,415000,ST11 9BG,S,N,F,81,,Caverswall Road,Blythe Bridge,Stoke-On-Trent
+2022-01-21,580000,ST11 9PD,D,N,F,80,,Stallington Road,Blythe Bridge,Stoke-On-Trent
+2022-01-21,259995,ST11 9FL,S,Y,F,3,,Moore Way,Blythe Bridge,Stoke-On-Trent
+2022-01-21,171000,ST11 9DJ,S,N,F,15,,Dilhorne Road,Forsbrook,Stoke-On-Trent
+2022-01-14,173000,ST11 9PQ,S,N,F,3,,Ferndale Close,Blythe Bridge,Stoke-On-Trent
+2022-01-14,175000,ST11 9NY,S,N,F,121,,Elmwood Drive,Blythe Bridge,Stoke-On-Trent
+2022-01-14,200000,ST11 9JQ,T,N,F,17,,Millbrook Gardens,Blythe Bridge,Stoke-On-Trent
+2022-01-14,158250,ST11 9HN,S,N,F,25,,Ridgway Drive,Blythe Bridge,Stoke-On-Trent
+2022-01-14,227000,ST11 9HL,S,N,F,15,,Adamthwaite Drive,Blythe Bridge,Stoke-On-Trent
+2022-01-14,167000,ST11 9DW,S,N,F,5,,Meadow Close,Forsbrook,Stoke-On-Trent
+2022-01-14,145000,ST11 9BX,S,N,F,7,,Cheadle Road,Forsbrook,Stoke-On-Trent
+2022-01-07,600000,ST11 9PB,D,N,F,187,,Stallington Road,Blythe Bridge,Stoke-On-Trent
+2022-01-07,108000,ST11 9JQ,F,N,L,26,,Millbrook Gardens,Blythe Bridge,Stoke-On-Trent
+2021-12-21,235000,ST11 9JU,D,N,F,8,,Sutherland Crescent,Blythe Bridge,Stoke-On-Trent
+2021-12-20,600000,ST11 9HJ,D,N,F,Garden House,,Aynsleys Drive,Blythe Bridge,Stoke-On-Trent
+2021-12-17,326000,ST11 9TL,D,N,F,15,,Hoffman Drive,Blythe Bridge,Stoke-On-Trent
+2021-12-17,159000,ST11 9HL,S,N,F,47,,Adamthwaite Drive,Blythe Bridge,Stoke-On-Trent
+2021-12-17,230000,ST11 9DQ,D,N,F,29,,Beverley Crescent,Forsbrook,Stoke-On-Trent
+2021-12-17,197000,ST11 9AU,S,N,F,61,,Portland Drive,Forsbrook,Stoke-On-Trent
+2021-12-06,90000,ST11 9JG,S,N,F,103,,Uttoxeter Road,Blythe Bridge,Stoke-On-Trent
+2021-12-03,195000,ST11 9AU,S,N,F,65,,Portland Drive,Forsbrook,Stoke-On-Trent
+2021-12-03,185000,ST11 9AT,D,N,F,12,,York Close,Forsbrook,Stoke-On-Trent
+2021-12-02,640000,ST11 9BG,D,N,F,58,,Caverswall Road,Blythe Bridge,Stoke-On-Trent
+2021-11-30,200000,ST11 9PL,S,N,F,23,,Crossfield Avenue,Blythe Bridge,Stoke-On-Trent
+2021-11-30,309995,ST11 9FL,D,Y,F,9,,Moore Way,Blythe Bridge,Stoke-On-Trent
+2021-11-30,309995,ST11 9FL,D,Y,F,5,,Moore Way,Blythe Bridge,Stoke-On-Trent
+2021-11-26,309995,ST11 9FL,S,Y,F,8,,Moore Way,Blythe Bridge,Stoke-On-Trent
+2021-11-26,259995,ST11 9FL,S,Y,F,6,,Moore Way,Blythe Bridge,Stoke-On-Trent
+2021-11-26,274995,ST11 9FJ,S,Y,F,19,,Gordon Road,Blythe Bridge,Stoke-On-Trent
+2021-11-26,255600,ST11 9FJ,S,Y,F,18,,Gordon Road,Blythe Bridge,Stoke-On-Trent
+2021-11-26,312995,ST11 9FJ,D,Y,F,17,,Gordon Road,Blythe Bridge,Stoke-On-Trent
+2021-11-24,309995,ST11 9FH,D,Y,F,1,,Marshall Lane,Blythe Bridge,Stoke-On-Trent
+2021-11-22,179950,ST11 9NJ,S,N,F,6,,Pinewood Grove,Blythe Bridge,Stoke-On-Trent
+2021-11-22,290000,ST11 9EH,S,N,F,6,,Halldearn Avenue,Caverswall,Stoke-On-Trent
+2021-11-19,259995,ST11 9FL,S,Y,F,2,,Moore Way,Blythe Bridge,Stoke-On-Trent
+2021-11-16,192000,ST11 9BS,S,N,F,10,,Dove Road,Forsbrook,Stoke-On-Trent
+2021-11-12,244995,ST11 9FJ,S,Y,F,16,,Gordon Road,Blythe Bridge,Stoke-On-Trent
+2021-11-05,257000,ST11 9SD,D,N,F,36,,Blithe View,Blythe Bridge,Stoke-On-Trent
+2021-11-05,300000,ST11 9HQ,D,N,F,213,,Uttoxeter Road,Blythe Bridge,Stoke-On-Trent
+2021-11-05,510000,ST11 9DJ,D,N,F,51,,Dilhorne Road,Forsbrook,Stoke-On-Trent
+2021-11-01,153000,ST11 9PF,S,N,F,15,,Roseacre Lane,Blythe Bridge,Stoke-On-Trent
+2021-10-29,165000,ST11 9TT,S,N,F,3,,Weller Close,Blythe Bridge,Stoke-On-Trent
+2021-10-29,374995,ST11 9FL,D,Y,F,1,,Moore Way,Blythe Bridge,Stoke-On-Trent
+2021-10-29,221000,ST11 9AU,S,N,F,88,,Portland Drive,Forsbrook,Stoke-On-Trent
+2021-10-28,207995,ST11 9FH,T,Y,F,9,,Marshall Lane,Blythe Bridge,Stoke-On-Trent
+2021-10-26,185000,ST11 9BN,S,N,F,4,,Manifold Road,Forsbrook,Stoke-On-Trent
+2021-10-25,188000,ST11 9JQ,T,N,F,37,,Millbrook Gardens,Blythe Bridge,Stoke-On-Trent
+2021-10-25,215000,ST11 9HP,S,N,F,4,,Highfield Close,Blythe Bridge,Stoke-On-Trent
+2021-10-22,235000,ST11 9DA,S,N,F,65,,Chapel Street,Forsbrook,Stoke-On-Trent
+2021-10-21,180000,ST11 9RN,D,N,F,11,,Lavender Avenue,Blythe Bridge,Stoke-On-Trent
+2021-10-20,243000,ST11 9HL,S,N,F,21,,Adamthwaite Drive,Blythe Bridge,Stoke-On-Trent
+2021-10-15,151000,ST11 9EN,S,N,F,50,,School Lane,Caverswall,Stoke-On-Trent
+2021-10-08,112500,ST11 9JQ,F,N,L,25,,Millbrook Gardens,Blythe Bridge,Stoke-On-Trent
+2021-10-08,270000,ST11 9EN,D,N,F,74,,School Lane,Caverswall,Stoke-On-Trent
+2021-10-04,120000,ST11 9EQ,T,N,F,5,,The Green,Caverswall,Stoke-On-Trent
+2021-09-30,240000,ST11 9RY,D,N,F,2,,Cherry Close,Fulford,Stoke-On-Trent
+2021-09-30,235000,ST11 9NT,S,N,F,439,,Uttoxeter Road,Blythe Bridge,Stoke-On-Trent
+2021-09-30,235000,ST11 9ET,D,N,F,Kenwyn House,,Roughcote Lane,Caverswall,Stoke-On-Trent
+2021-09-29,182500,ST11 9RH,S,N,F,1,,Beechwood Close,Blythe Bridge,Stoke-On-Trent
+2021-09-29,156000,ST11 9NY,S,N,F,129,,Elmwood Drive,Blythe Bridge,Stoke-On-Trent
+2021-09-28,310000,ST11 9PB,S,N,F,149,,Stallington Road,Blythe Bridge,Stoke-On-Trent
+2021-09-24,360000,ST11 9QE,D,N,F,34,,Kingfisher Crescent,Fulford,Stoke-On-Trent
+2021-09-24,159950,ST11 9PW,T,N,F,22,,Cheadle Road,Blythe Bridge,Stoke-On-Trent
+2021-09-24,320000,ST11 9JS,D,N,F,213,,Grindley Lane,Blythe Bridge,Stoke-On-Trent
+2021-09-24,264500,ST11 9JR,D,N,F,277,,Uttoxeter Road,Blythe Bridge,Stoke-On-Trent
+2021-09-24,187000,ST11 9HT,S,N,F,12,,Blyth Close,Blythe Bridge,Stoke-On-Trent
+2021-09-24,372500,ST11 9HL,D,N,F,55,,Adamthwaite Drive,Blythe Bridge,Stoke-On-Trent
+2021-09-24,209995,ST11 9FH,T,Y,F,8,,Marshall Lane,Blythe Bridge,Stoke-On-Trent
+2021-09-24,244995,ST11 9FH,S,Y,F,7,,Marshall Lane,Blythe Bridge,Stoke-On-Trent
+2021-09-24,244995,ST11 9FH,S,Y,F,6,,Marshall Lane,Blythe Bridge,Stoke-On-Trent
+2021-09-24,310995,ST11 9FH,D,Y,F,5,,Marshall Lane,Blythe Bridge,Stoke-On-Trent
+2021-09-24,205995,ST11 9FH,S,Y,F,11,,Marshall Lane,Blythe Bridge,Stoke-On-Trent
+2021-09-24,210995,ST11 9FH,T,Y,F,10,,Marshall Lane,Blythe Bridge,Stoke-On-Trent
+2021-09-24,445000,ST11 9BG,S,N,F,"Trevi House, 52",,Caverswall Road,Blythe Bridge,Stoke-On-Trent
+2021-09-22,260000,ST11 9PN,D,N,F,57,,Stallington Road,Blythe Bridge,Stoke-On-Trent
+2021-09-22,85000,ST11 9JE,T,N,L,39,,Cedar Court,Blythe Bridge,Stoke-On-Trent
+2021-09-22,525000,ST11 9EU,D,N,F,Brentwood,,Caverswall Common,Caverswall,Stoke-On-Trent
+2021-09-22,499950,ST11 9EB,S,N,F,2,,Church Croft,Caverswall,Stoke-On-Trent
+2021-09-22,312000,ST11 9AF,S,N,F,10,,Cresswell Lane,Draycott,Stoke-On-Trent
+2021-09-20,155000,ST11 9TU,T,N,F,6,,Beaumont Rise,Blythe Bridge,Stoke-On-Trent
+2021-09-17,367000,ST11 9PA,S,N,F,184,,Stallington Road,Blythe Bridge,Stoke-On-Trent
+2021-09-17,235000,ST11 9HX,S,N,F,2,,Ash Grove,Blythe Bridge,Stoke-On-Trent
+2021-09-15,205995,ST11 9FH,S,Y,F,12,,Marshall Lane,Blythe Bridge,Stoke-On-Trent
+2021-09-13,425000,ST11 9LW,D,N,F,252,,Grindley Lane,Blythe Bridge,Stoke-On-Trent
+2021-09-13,210000,ST11 9AL,S,N,F,17,,Draycott Old Road,Forsbrook,Stoke-On-Trent
+2021-09-10,390000,ST11 9AB,D,N,F,118,,Uttoxeter Road,Draycott,Stoke-On-Trent
+2021-09-03,170000,ST11 9PD,T,N,F,117,,Stallington Road,Blythe Bridge,Stoke-On-Trent
+2021-09-03,565000,ST11 9HL,D,N,F,26,,Adamthwaite Drive,Blythe Bridge,Stoke-On-Trent
+2021-09-03,180000,ST11 9DF,S,N,F,27,,Springfield Drive,Forsbrook,Stoke-On-Trent
+2021-09-02,565000,ST11 9BG,D,N,F,42,,Caverswall Road,Blythe Bridge,Stoke-On-Trent
+2021-09-01,220000,ST11 9DA,S,N,F,51,,Chapel Street,Forsbrook,Stoke-On-Trent
+2021-08-27,207000,ST11 9PZ,S,N,F,17,,Mount Road,Blythe Bridge,Stoke-On-Trent
+2021-08-27,87000,ST11 9NT,T,N,F,409,,Uttoxeter Road,Blythe Bridge,Stoke-On-Trent
+2021-08-20,95000,ST11 9PU,S,N,F,16,,Bridgwood Road,Blythe Bridge,Stoke-On-Trent
+2021-08-20,218000,ST11 9HQ,S,N,F,211,,Uttoxeter Road,Blythe Bridge,Stoke-On-Trent
+2021-08-20,368995,ST11 9FH,D,Y,F,3,,Marshall Lane,Blythe Bridge,Stoke-On-Trent
+2021-08-18,227500,ST11 9ER,D,N,F,9,,Trevor Drive,Caverswall,Stoke-On-Trent
+2021-08-18,173000,ST11 9AU,S,N,F,43,,Portland Drive,Forsbrook,Stoke-On-Trent
+2021-08-10,183000,ST11 9AB,S,N,F,129,,Uttoxeter Road,Draycott,Stoke-On-Trent
+2021-08-06,190000,ST11 9RZ,D,N,F,The Lodge,,Meadow Lane,Fulford,Stoke-On-Trent
+2021-08-06,178000,ST11 9NY,S,N,F,117,,Elmwood Drive,Blythe Bridge,Stoke-On-Trent
+2021-07-30,155000,ST11 9RA,T,N,F,27,,Rookery Crescent,Cresswell,Stoke-On-Trent
+2021-07-30,207000,ST11 9NT,S,N,F,437,,Uttoxeter Road,Blythe Bridge,Stoke-On-Trent
+2021-07-30,247995,ST11 9FJ,S,Y,F,14,,Gordon Road,Blythe Bridge,Stoke-On-Trent
+2021-07-30,247995,ST11 9FJ,S,Y,F,13,,Gordon Road,Blythe Bridge,Stoke-On-Trent
+2021-07-30,321995,ST11 9FH,D,Y,F,4,,Marshall Lane,Blythe Bridge,Stoke-On-Trent
+2021-07-30,125000,ST11 9BX,F,N,L,40D,,Cheadle Road,Forsbrook,Stoke-On-Trent
+2021-07-30,125000,ST11 9BX,F,N,L,40C,,Cheadle Road,Forsbrook,Stoke-On-Trent
+2021-07-28,166555,ST11 9TU,T,N,F,12,,Beaumont Rise,Blythe Bridge,Stoke-On-Trent
+2021-07-23,150000,ST11 9PF,S,N,F,7,,Roseacre Lane,Blythe Bridge,Stoke-On-Trent
+2021-07-23,368995,ST11 9FH,D,Y,F,2,,Marshall Lane,Blythe Bridge,Stoke-On-Trent
+2021-07-16,292500,ST11 9PJ,D,N,F,15,,Barlstone Avenue,Blythe Bridge,Stoke-On-Trent
+2021-07-16,198000,ST11 9PF,S,N,F,10,,Roseacre Lane,Blythe Bridge,Stoke-On-Trent
+2021-07-16,215000,ST11 9DP,D,N,F,7,,Brookgate,Forsbrook,Stoke-On-Trent
+2021-07-09,175000,ST11 9EA,T,N,F,5,,Gable Cottages,Caverswall,Stoke-On-Trent
+2021-07-08,155000,ST11 9PZ,S,N,F,24,,Mount Road,Blythe Bridge,Stoke-On-Trent
+2021-07-06,180000,ST11 9TU,T,N,F,2,,Beaumont Rise,Blythe Bridge,Stoke-On-Trent
+2021-07-06,148000,ST11 9BH,S,N,F,4,,Hillside Avenue,Forsbrook,Stoke-On-Trent
+2021-07-02,149000,ST11 9NB,T,N,F,4,,Ashwood Grove,Blythe Bridge,Stoke-On-Trent
+2021-06-30,275000,ST11 9SD,D,N,F,6,,Blithe View,Blythe Bridge,Stoke-On-Trent
+2021-06-30,300000,ST11 9NW,D,N,F,3,,Woodlands Lane,Blythe Bridge,Stoke-On-Trent
+2021-06-30,146500,ST11 9NB,T,N,F,12,,Ashwood Grove,Blythe Bridge,Stoke-On-Trent
+2021-06-30,325000,ST11 9EB,D,N,F,1,,Church Croft,Caverswall,Stoke-On-Trent
+2021-06-30,340000,ST11 9BG,D,N,F,82,,Caverswall Road,Blythe Bridge,Stoke-On-Trent
+2021-06-30,220000,ST11 9AH,S,N,F,216,,Draycott Old Road,Draycott,Stoke-On-Trent
+2021-06-29,220000,ST11 9JS,S,N,F,245,,Grindley Lane,Blythe Bridge,Stoke-On-Trent
+2021-06-28,325000,ST11 9RE,D,N,F,Isaac Walton,,Cresswell Lane,Cresswell,Stoke-On-Trent
+2021-06-25,245500,ST11 9FJ,S,Y,F,15,,Gordon Road,Blythe Bridge,Stoke-On-Trent
+2021-06-25,189000,ST11 9BS,S,N,F,6,,Dove Road,Forsbrook,Stoke-On-Trent
+2021-06-25,174950,ST11 9BH,S,N,F,25,,Hillside Avenue,Forsbrook,Stoke-On-Trent
+2021-06-23,465000,ST11 9TP,D,N,F,2,,Jenner Grove,Blythe Bridge,Stoke-On-Trent
+2021-06-21,225000,ST11 9DS,S,N,F,15,,East Bank Ride,Forsbrook,Stoke-On-Trent
+2021-06-18,177000,ST11 9PP,T,N,F,18,,Blythemount Park,Blythe Bridge,Stoke-On-Trent
+2021-06-18,265000,ST11 9PF,S,N,F,16,,Roseacre Lane,Blythe Bridge,Stoke-On-Trent
+2021-06-18,180000,ST11 9LB,D,N,F,10,,The Grove,Blythe Bridge,Stoke-On-Trent
+2021-06-18,320000,ST11 9JT,D,N,F,9,,Sutherland Crescent,Blythe Bridge,Stoke-On-Trent
+2021-06-17,122997,ST11 9FJ,S,N,L,11,,Gordon Road,Blythe Bridge,Stoke-On-Trent
+2021-06-15,600000,ST11 9HJ,D,N,F,Orchard Grange,,Aynsleys Drive,Blythe Bridge,Stoke-On-Trent
+2021-06-11,636216,ST11 9QY,D,N,F,The Shippons,,Cresswell Road,Cresswell,Stoke-On-Trent
+2021-06-11,385000,ST11 9NP,D,N,F,31,,Tudor Hollow,Fulford,Stoke-On-Trent
+2021-06-11,232000,ST11 9JT,D,N,F,101,,Sutherland Crescent,Blythe Bridge,Stoke-On-Trent
+2021-06-09,145000,ST11 9QX,S,N,F,Firlee,,,Saverley Green,Stoke-On-Trent
+2021-06-09,155000,ST11 9QA,S,N,F,355,,Uttoxeter Road,Blythe Bridge,Stoke-On-Trent
+2021-06-07,460000,ST11 9JS,D,N,F,221,,Grindley Lane,Blythe Bridge,Stoke-On-Trent
+2021-06-04,455000,ST11 9JS,D,N,F,222,,Grindley Lane,Blythe Bridge,Stoke-On-Trent
+2021-06-03,195000,ST11 9PZ,S,N,F,15,,Mount Road,Blythe Bridge,Stoke-On-Trent
+2021-06-03,295000,ST11 9NP,D,N,F,21,,Tudor Hollow,Fulford,Stoke-On-Trent
+2021-06-03,174000,ST11 9HN,T,N,F,21,,Ridgway Drive,Blythe Bridge,Stoke-On-Trent
+2021-06-01,175000,ST11 9PZ,S,N,F,10,,Mount Road,Blythe Bridge,Stoke-On-Trent
+2021-05-28,340000,ST11 9ED,T,N,F,Chapel House,,The Square,Caverswall,Stoke-On-Trent
+2021-05-28,172000,ST11 9BH,S,N,F,18,,Hillside Avenue,Forsbrook,Stoke-On-Trent
+2021-05-28,145000,ST11 9AA,S,N,F,43,,Stuart Avenue,Draycott,Stoke-On-Trent
+2021-05-27,192000,ST11 9TL,T,N,F,12,,Hoffman Drive,Blythe Bridge,Stoke-On-Trent
+2021-05-27,167000,ST11 9PE,D,N,F,20,,Bancroft Lane,Blythe Bridge,Stoke-On-Trent
+2021-05-26,267500,ST11 9JT,S,N,F,47,,Sutherland Crescent,Blythe Bridge,Stoke-On-Trent
+2021-05-25,250000,ST11 9JU,D,N,F,26,,Sutherland Crescent,Blythe Bridge,Stoke-On-Trent
+2021-05-25,370000,ST11 9AS,D,N,F,56A,,Cheadle Road,Forsbrook,Stoke-On-Trent
+2021-05-24,165000,ST11 9DS,S,N,F,13,,East Bank Ride,Forsbrook,Stoke-On-Trent
+2021-05-21,169950,ST11 9NZ,S,N,F,9,,Limewood Close,Blythe Bridge,Stoke-On-Trent
+2021-05-21,258500,ST11 9FJ,D,Y,F,8,,Gordon Road,Blythe Bridge,Stoke-On-Trent
+2021-05-14,315995,ST11 9FD,D,Y,F,14,,Travis Way,Blythe Bridge,Stoke-On-Trent
+2021-05-14,314250,ST11 9FD,D,Y,F,11,,Travis Way,Blythe Bridge,Stoke-On-Trent
+2021-05-12,425000,ST11 9HJ,D,N,F,Thekli,,Aynsleys Drive,Blythe Bridge,Stoke-On-Trent
+2021-05-07,131000,ST11 9AH,S,N,F,206,,Draycott Old Road,Draycott,Stoke-On-Trent
+2021-04-30,245000,ST11 9NX,S,N,F,58,,Elmwood Drive,Blythe Bridge,Stoke-On-Trent
+2021-04-30,290000,ST11 9NX,S,N,F,41,,Elmwood Drive,Blythe Bridge,Stoke-On-Trent
+2021-04-30,317500,ST11 9FJ,D,Y,F,7,,Gordon Road,Blythe Bridge,Stoke-On-Trent
+2021-04-30,165000,ST11 9EW,S,N,F,13,,Vicarage Crescent,Caverswall,Stoke-On-Trent
+2021-04-30,185000,ST11 9DF,S,N,F,2,,Springfield Drive,Forsbrook,Stoke-On-Trent
+2021-04-30,300000,ST11 9AB,D,N,F,114,,Uttoxeter Road,Draycott,Stoke-On-Trent
+2021-04-29,90000,ST11 9QB,F,N,F,17,,Wesley Street,Blythe Bridge,Stoke-On-Trent
+2021-04-23,175000,ST11 9RJ,D,N,F,15,,Poplar Close,Blythe Bridge,Stoke-On-Trent
+2021-04-23,177500,ST11 9NN,S,N,F,16,,Oakdene Close,Blythe Bridge,Stoke-On-Trent
+2021-04-23,145000,ST11 9HP,S,N,F,38,,Highfield Close,Blythe Bridge,Stoke-On-Trent
+2021-04-21,260000,ST11 9JR,D,N,F,218,,Uttoxeter Road,Blythe Bridge,Stoke-On-Trent
+2021-04-19,450000,ST11 9HQ,D,N,F,Penmarric,,Uttoxeter Road,Blythe Bridge,Stoke-On-Trent
+2021-04-19,220000,ST11 9EQ,D,N,F,Woodstock,,The Green,Caverswall,Stoke-On-Trent
+2021-04-09,248000,ST11 9PG,S,N,F,1,,Springcroft,Blythe Bridge,Stoke-On-Trent
+2021-04-08,255000,ST11 9QE,D,N,F,39,,Kingfisher Crescent,Fulford,Stoke-On-Trent
+2021-04-08,159950,ST11 9PU,S,N,F,46,,Bridgwood Road,Blythe Bridge,Stoke-On-Trent
+2021-04-07,295000,ST11 9JQ,D,N,F,43,,Millbrook Gardens,Blythe Bridge,Stoke-On-Trent
+2021-04-01,250000,ST11 9FD,D,Y,F,12,,Travis Way,Blythe Bridge,Stoke-On-Trent
+2021-03-26,450000,ST11 9RQ,D,N,F,Brookfields,,Cheadle Road,Draycott,Stoke-On-Trent
+2021-03-26,184000,ST11 9PL,S,N,F,47,,Crossfield Avenue,Blythe Bridge,Stoke-On-Trent
+2021-03-26,359995,ST11 9FD,D,Y,F,15,,Travis Way,Blythe Bridge,Stoke-On-Trent
+2021-03-26,318995,ST11 9FD,D,Y,F,13,,Travis Way,Blythe Bridge,Stoke-On-Trent
+2021-03-25,255000,ST11 9QX,D,N,F,Tumbleweed,,,Saverley Green,Stoke-On-Trent
+2021-03-24,518000,ST11 9AG,D,N,F,School House,,Church Lane,Draycott,Stoke-On-Trent
+2021-03-22,175000,ST11 9DG,S,N,F,14,,Parkway,Forsbrook,Stoke-On-Trent
+2021-03-19,175000,ST11 9HN,T,N,F,19,,Ridgway Drive,Blythe Bridge,Stoke-On-Trent
+2021-03-19,363995,ST11 9FD,D,Y,F,16,,Travis Way,Blythe Bridge,Stoke-On-Trent
+2021-03-19,189000,ST11 9AZ,D,N,F,2,,Manor Close,Draycott,Stoke-On-Trent
+2021-03-17,275000,ST11 9QG,D,N,F,2,,Stallington Gardens,Blythe Bridge,Stoke-On-Trent
+2021-03-17,162000,ST11 9JQ,T,N,F,31,,Millbrook Gardens,Blythe Bridge,Stoke-On-Trent
+2021-03-16,150000,ST11 9JR,T,N,F,236C,,Uttoxeter Road,Blythe Bridge,Stoke-On-Trent
+2021-03-16,250000,ST11 9EN,D,N,F,72,,School Lane,Caverswall,Stoke-On-Trent
+2021-03-12,260000,ST11 9NT,S,N,F,385,,Uttoxeter Road,Blythe Bridge,Stoke-On-Trent
+2021-03-12,65000,ST11 9JE,F,N,L,Cedar Court,Flat 32,Mayfield Drive,Blythe Bridge,Stoke-On-Trent
+2021-03-10,500000,ST11 9HQ,D,N,F,156,,Uttoxeter Road,Blythe Bridge,Stoke-On-Trent
+2021-03-08,160000,ST11 9NY,S,N,F,90,,Elmwood Drive,Blythe Bridge,Stoke-On-Trent
+2021-03-05,390000,ST11 9QY,D,N,F,Cherry Tree Farm,,Cresswell Road,Cresswell,Stoke-On-Trent
+2021-03-05,179950,ST11 9DS,D,N,F,37,,East Bank Ride,Forsbrook,Stoke-On-Trent
+2021-03-05,142000,ST11 9AB,S,N,F,72,,Uttoxeter Road,Draycott,Stoke-On-Trent
+2021-03-04,185000,ST11 9DQ,D,N,F,34,,Beverley Crescent,Forsbrook,Stoke-On-Trent
+2021-03-01,357500,ST11 9SF,D,N,F,7,,Willow Way,Forsbrook,Stoke-On-Trent
+2021-03-01,248000,ST11 9QE,D,N,F,37,,Kingfisher Crescent,Fulford,Stoke-On-Trent
+2021-03-01,430000,ST11 9DA,D,N,F,94,,Chapel Street,Forsbrook,Stoke-On-Trent
+2021-02-19,105000,ST11 9TS,F,N,L,5,,Lister Grove,Blythe Bridge,Stoke-On-Trent
+2021-02-19,310000,ST11 9TL,D,N,F,6,,Hoffman Drive,Blythe Bridge,Stoke-On-Trent
+2021-02-19,175000,ST11 9RJ,S,N,F,16,,Poplar Close,Blythe Bridge,Stoke-On-Trent
+2021-02-19,189950,ST11 9PP,S,N,F,19,,Blythemount Park,Blythe Bridge,Stoke-On-Trent
+2021-02-19,180000,ST11 9NX,S,N,F,89,,Elmwood Drive,Blythe Bridge,Stoke-On-Trent
+2021-02-19,192500,ST11 9JZ,S,N,F,6,,Highland Close,Blythe Bridge,Stoke-On-Trent
+2021-02-19,300000,ST11 9JU,D,N,F,50,,Sutherland Crescent,Blythe Bridge,Stoke-On-Trent
+2021-02-19,237950,ST11 9JU,D,N,F,16,,Sutherland Crescent,Blythe Bridge,Stoke-On-Trent
+2021-02-19,216500,ST11 9FJ,S,Y,F,6,,Gordon Road,Blythe Bridge,Stoke-On-Trent
+2021-02-19,190000,ST11 9BS,S,N,F,10,,Dove Road,Forsbrook,Stoke-On-Trent
+2021-02-11,300000,ST11 9JS,D,N,F,228,,Grindley Lane,Blythe Bridge,Stoke-On-Trent
+2021-02-08,186000,ST11 9PL,S,N,F,35,,Crossfield Avenue,Blythe Bridge,Stoke-On-Trent
+2021-02-08,115000,ST11 9LY,S,N,F,324,,Uttoxeter Road,Blythe Bridge,Stoke-On-Trent
+2021-02-04,378000,ST11 9JS,D,N,F,227,,Grindley Lane,Blythe Bridge,Stoke-On-Trent
+2021-02-03,267000,ST11 9FJ,S,Y,F,3,,Gordon Road,Blythe Bridge,Stoke-On-Trent
+2021-01-29,255000,ST11 9RY,D,N,F,8,,Cherry Close,Fulford,Stoke-On-Trent
+2021-01-29,295000,ST11 9LH,D,N,F,17,,Meadow Close,Blythe Bridge,Stoke-On-Trent
+2021-01-29,185000,ST11 9JQ,T,N,F,19,,Millbrook Gardens,Blythe Bridge,Stoke-On-Trent
+2021-01-29,286995,ST11 9FJ,S,Y,F,5,,Gordon Road,Blythe Bridge,Stoke-On-Trent
+2021-01-29,420000,ST11 9EN,D,N,F,77,,School Lane,Caverswall,Stoke-On-Trent
+2021-01-29,205000,ST11 9BH,S,N,F,5,,Hillside Avenue,Forsbrook,Stoke-On-Trent
+2021-01-27,432000,ST11 9QT,D,N,F,Gorse Lodge,,Fulford Road,Fulford,Stoke-On-Trent
+2021-01-26,77000,ST11 9TS,F,N,L,23,,Lister Grove,Blythe Bridge,Stoke-On-Trent
+2021-01-22,240000,ST11 9QX,T,N,F,Meadowside,2,,Saverley Green,Stoke-On-Trent
+2021-01-20,122500,ST11 9HP,T,N,F,23,,Highfield Close,Blythe Bridge,Stoke-On-Trent
+2021-01-15,171700,ST11 9ST,D,N,F,2,,Willowcroft Rise,Blythe Bridge,Stoke-On-Trent
+2021-01-15,230000,ST11 9RY,D,N,F,1,,Cherry Close,Fulford,Stoke-On-Trent
+2021-01-15,270000,ST11 9JR,D,N,F,283,,Uttoxeter Road,Blythe Bridge,Stoke-On-Trent
+2021-01-08,530000,ST11 9TN,D,N,F,8,,Franklin Drive,Blythe Bridge,Stoke-On-Trent

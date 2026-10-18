@@ -1,0 +1,645 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-24,245000,TR9 6TD,S,N,F,7,,Praze An Cronor,,St Columb
+2026-08-24,215000,TR9 6SG,T,N,F,32,,Bospolvan Road,Higher Bospolvans,St Columb
+2026-08-21,192500,TR9 6SH,T,N,F,44,,Bosworgey Close,,St Columb
+2026-08-18,417500,TR9 6SE,D,N,F,33,,Wreford Close,,St Columb
+2026-08-14,190000,TR9 6ER,T,N,F,1,,Hanover Parc,Indian Queens,St Columb
+2026-07-31,210000,TR9 6SG,T,N,F,50,,Bospolvan Road,Higher Bospolvans,St Columb
+2026-07-31,285000,TR9 6NE,D,N,F,Roserean,,Moorland Road,Indian Queens,St Columb
+2026-07-24,192500,TR9 6RD,S,N,L,39,,Carloggas Grove,,St Columb
+2026-07-24,193000,TR9 6FE,T,N,F,4,,The Hurlings,,St Columb
+2026-07-14,210000,TR9 6BL,S,N,F,53,,Meadow Rise,,St Columb
+2026-07-10,368500,TR9 6TN,D,N,F,47,,Fairview Park,St Columb Road,St Columb
+2026-07-10,230000,TR9 6HT,S,N,F,Chy Lowarth,,,Ruthvoes,St Columb
+2026-07-07,235000,TR9 6TQ,T,N,F,8,,Clodan Mews,St Columb Road,St Columb
+2026-06-30,180000,TR9 6JZ,S,N,F,The Hollies,2,Chapel Road,Indian Queens,St Columb
+2026-06-30,415000,TR9 6DA,D,N,F,Kernyk,,,Gluvian,St Columb
+2026-06-29,164000,TR9 6RX,T,N,F,3,,West Street,,St Columb
+2026-06-25,299950,TR9 6FE,S,N,F,8,,The Hurlings,,St Columb
+2026-06-25,155000,TR9 6AX,T,N,F,6,,Rosewin Row,,St Columb
+2026-06-22,300000,TR9 6AD,F,N,L,22,,Retreat Court,,St Columb
+2026-06-18,195000,TR9 6PF,T,N,F,4A,,Moorland Place,St Columb Road,St Columb
+2026-06-16,142000,TR9 6SA,S,N,F,54,,Highfield Avenue,,St Columb
+2026-06-12,278000,TR9 6TD,S,N,F,43,,Praze An Cronor,,St Columb
+2026-06-08,219950,TR9 6ER,T,N,F,19,,Hanover Parc,Indian Queens,St Columb
+2026-06-06,275000,TR9 6LX,S,N,F,St. Enoder View,2,My Lords Road,Fraddon,St Columb
+2026-06-02,346000,TR9 6SS,D,N,F,55,,Hawkens Way,,St Columb
+2026-06-02,255000,TR9 6HJ,T,N,F,The Grove,,Moorland Road,Indian Queens,St Columb
+2026-05-29,227500,TR9 6PB,S,N,F,8,,Princess Parc,Indian Queens,St Columb
+2026-05-28,195000,TR9 6ER,T,N,F,20,,Hanover Parc,Indian Queens,St Columb
+2026-05-21,245000,TR9 6TD,D,N,F,21,,Praze An Cronor,,St Columb
+2026-05-14,260000,TR9 6RY,S,N,F,19,,Station Road,,St Columb
+2026-05-08,240000,TR9 6TD,D,N,F,23,,Praze An Cronor,,St Columb
+2026-05-08,235000,TR9 6NZ,T,N,F,24,,Penhale Gardens,Fraddon,St Columb
+2026-04-29,187000,TR9 6PD,T,N,F,73,,Kingsley Court,Fraddon,St Columb
+2026-04-29,405000,TR9 6GR,D,N,F,10,,Applewood,,St Columb
+2026-04-20,128000,TR9 6RL,T,N,F,26,,Fair Street,,St Columb
+2026-04-17,350000,TR9 6PA,D,N,F,8,,Harvenna Close,Fraddon,St Columb
+2026-04-17,138750,TR9 6FS,D,N,L,5,,Horseshoe Close,,St Columb
+2026-04-13,300000,TR9 6NL,D,N,F,Hebron,,,Higher Fraddon,St Columb
+2026-04-10,135000,TR9 6RL,T,N,F,55,,Fair Street,,St Columb
+2026-04-07,423000,TR9 6FN,D,N,F,3,,Penmellyn Gardens,,St Columb
+2026-04-02,235000,TR9 6NZ,S,N,F,36,,Penhale Gardens,Fraddon,St Columb
+2026-04-02,210500,TR9 6NH,S,N,F,4,,Trewartha,Higher Fraddon,St Columb
+2026-04-02,360000,TR9 6JT,S,N,F,2,,Cobble Lane,Fraddon,St Columb
+2026-03-31,325000,TR9 6TN,D,N,F,39,,Fairview Park,St Columb Road,St Columb
+2026-03-31,205000,TR9 6PD,S,N,F,23,,Kingsley Court,Fraddon,St Columb
+2026-03-13,187500,TR9 6QB,D,N,F,Rosslyn House,,St Francis Road,St Columb Road,St Columb
+2026-03-06,88000,TR9 6FX,T,N,L,25,,Harvenna Heights,Fraddon,St Columb
+2026-03-03,115000,TR9 6TR,F,N,L,Venetian Views,8,,Penhale,St Columb
+2026-02-25,180000,TR9 6BN,S,N,F,1,,Rosewin Mews,,St Columb
+2026-02-24,261000,TR9 6NR,S,N,F,2,,Wartha Villas,Fraddon,St Columb
+2026-02-23,100000,TR9 6RH,T,N,F,6,,Fore Street,,St Columb
+2026-02-23,375000,TR9 6BE,D,N,F,Leeside,,Bridge,,St Columb
+2026-02-20,187500,TR9 6TX,T,N,F,16,,Grovewood Court,Fraddon,St Columb
+2026-01-30,210000,TR9 6PD,S,N,F,74,,Kingsley Court,Fraddon,St Columb
+2026-01-29,252000,TR9 6FX,S,N,F,46,,Harvenna Heights,Fraddon,St Columb
+2026-01-23,400000,TR9 6HA,D,N,F,Rose View,,Highgate Hill,Indian Queens,St Columb
+2026-01-23,51000,TR9 6BY,S,N,F,Meadow View,,Old Rectory Drive,,St Columb
+2026-01-13,225000,TR9 6LZ,S,N,F,3,,Westbourne Terrace,Penhale,St Columb
+2026-01-12,425000,TR9 6SS,D,N,F,39,,Hawkens Way,,St Columb
+2026-01-05,395000,TR9 6BP,D,N,F,8,,Hill Crest Close,,St Columb
+2025-12-19,180000,TR9 6SN,T,N,F,126,,Trelawney Parc,,St Columb
+2025-12-19,280000,TR9 6EL,S,N,F,Baytree Cottage,,,Tregonetha,St Columb
+2025-12-17,465000,TR9 6FT,D,N,F,2,,Lowena Vale,,St Columb
+2025-12-15,235000,TR9 6SB,T,N,F,29,,High Cross,,St Columb
+2025-12-12,323000,TR9 6GY,D,N,F,Melbur,,Manor Drive,Fraddon,St Columb
+2025-12-10,378000,TR9 6TZ,D,N,F,8,,Polventon Close,,St Columb
+2025-12-10,380000,TR9 6SS,D,N,F,28,,Hawkens Way,,St Columb
+2025-12-10,270000,TR9 6EL,D,N,F,Rose Cottage,,,Tregonetha,St Columb
+2025-12-05,250000,TR9 6RD,S,N,F,4,,Carloggas Grove,,St Columb
+2025-12-05,346000,TR9 6BQ,D,N,F,38,,Penkernick Way,,St Columb
+2025-12-04,425000,TR9 6RY,D,N,F,8,,Station Road,,St Columb
+2025-12-01,185000,TR9 6PD,S,N,F,57,,Kingsley Court,Fraddon,St Columb
+2025-11-27,190000,TR9 6TX,T,N,F,6,,Grovewood Court,Fraddon,St Columb
+2025-11-27,445000,TR9 6NY,D,N,F,White Oaks Cottage,,,Higher Fraddon,St Columb
+2025-11-26,180000,TR9 6SN,S,N,F,22,,Trelawney Parc,,St Columb
+2025-11-24,255000,TR9 6PD,S,N,F,55,,Kingsley Court,Fraddon,St Columb
+2025-11-21,310000,TR9 6QR,D,N,F,Ivy Cottage,,,St Columb Road,St Columb
+2025-11-21,320000,TR9 6FE,T,N,F,20,,The Hurlings,,St Columb
+2025-11-20,262500,TR9 6PD,S,N,F,20,,Kingsley Court,Fraddon,St Columb
+2025-11-17,292000,TR9 6EP,S,N,F,8,,Rachels Way,,St Columb
+2025-11-12,140000,TR9 6SN,T,N,F,90,,Trelawney Parc,,St Columb
+2025-10-31,425000,TR9 6EB,D,N,F,Scheffan,,,Talskiddy,St Columb
+2025-10-30,230000,TR9 6RD,S,N,F,38,,Carloggas Grove,,St Columb
+2025-10-30,350000,TR9 6BQ,D,N,F,30,,Penkernick Way,,St Columb
+2025-10-27,105000,TR9 6RL,T,N,F,1A,,Fair Street,,St Columb
+2025-10-24,162000,TR9 6RL,T,N,F,17,,Fair Street,,St Columb
+2025-10-24,355000,TR9 6NR,D,N,F,Chy Lowen,,,Fraddon,St Columb
+2025-10-17,142500,TR9 6RH,T,N,F,31,,Fore Street,,St Columb
+2025-10-17,340000,TR9 6PQ,D,N,F,Ventonleague,,,Fraddon,St Columb
+2025-10-17,252000,TR9 6PD,D,N,F,77,,Kingsley Court,Fraddon,St Columb
+2025-10-17,207000,TR9 6NW,T,N,F,2,,St James View,Fraddon,St Columb
+2025-10-17,206000,TR9 6BL,S,N,F,30,,Meadow Rise,,St Columb
+2025-10-16,300000,TR9 6NS,S,N,F,Harmony Cottage,,,Fraddon,St Columb
+2025-10-10,518000,TR9 6EG,D,N,F,Chy An Fos,,,Talskiddy,St Columb
+2025-10-10,335000,TR9 6BQ,D,N,F,23,,Penkernick Way,,St Columb
+2025-10-03,117000,TR9 6JU,F,N,L,4,,Mandalay Villas,Fraddon,St Columb
+2025-10-03,277000,TR9 6GJ,T,N,F,5,,Silver Birch Gardens,St Columb Road,St Columb
+2025-10-03,183000,TR9 6DS,T,N,F,7,,Trethurffe Terrace,,St Columb
+2025-09-26,253500,TR9 6RY,T,N,F,12,,Station Road,,St Columb
+2025-09-26,225000,TR9 6NZ,T,N,F,41,,Penhale Gardens,Fraddon,St Columb
+2025-09-26,370000,TR9 6NG,D,N,F,Monabri,,Fraddon Hill,Fraddon,St Columb
+2025-09-26,860000,TR9 6ED,D,N,F,Meneage,,,Talskiddy,St Columb
+2025-09-25,104000,TR9 6RD,S,N,L,45,,Carloggas Grove,,St Columb
+2025-09-25,1100000,TR9 6JD,D,N,F,Oakwood House,,,,St Columb
+2025-09-19,225500,TR9 6TQ,T,N,F,9,,Clodan Mews,St Columb Road,St Columb
+2025-09-15,260000,TR9 6PB,T,N,F,20,,Princess Parc,Indian Queens,St Columb
+2025-09-12,220000,TR9 6NW,T,N,F,30,,St James View,Fraddon,St Columb
+2025-09-12,287000,TR9 6LB,S,N,F,Willesden,,Chapel Road,Indian Queens,St Columb
+2025-09-05,280000,TR9 6RP,S,N,F,18,,West Park,,St Columb
+2025-09-03,425000,TR9 6PH,D,N,F,Trevarren Cottage,,,Trevarren,St Columb
+2025-09-02,475000,TR9 6TU,D,N,F,3,,Browning Close,,St Columb
+2025-08-29,250000,TR9 6NB,T,N,F,8,,Trevine Meadows,Indian Queens,St Columb
+2025-08-29,495000,TR9 6GS,D,N,F,1,,Harvenna View,Higher Fraddon,St Columb
+2025-08-27,105000,TR9 6TB,F,N,L,7,,Ruskin Court,,St Columb
+2025-08-27,265000,TR9 6RB,D,N,F,2,,Tremear Green,St Columb Road,St Columb
+2025-08-26,240000,TR9 6RU,S,N,F,20,,South Park,,St Columb
+2025-08-26,365000,TR9 6ED,T,N,F,Courtneys Kelly,,,Talskiddy,St Columb
+2025-08-22,358000,TR9 6TN,D,N,F,51,,Fairview Park,St Columb Road,St Columb
+2025-08-22,205000,TR9 6FS,D,N,L,4,,Horseshoe Close,,St Columb
+2025-08-15,221500,TR9 6RD,S,N,F,2,,Carloggas Grove,,St Columb
+2025-08-15,450000,TR9 6FE,D,N,F,55,,The Hurlings,,St Columb
+2025-08-13,600000,TR9 6DD,D,N,F,Trenwith Barton,,,Higher Tolcarne,St Columb
+2025-08-12,400000,TR9 6PN,D,N,F,Providence House,,The Drang,Indian Queens,St Columb
+2025-08-07,380000,TR9 6PJ,D,N,F,Achievement,,,Trevarren,St Columb
+2025-08-01,252000,TR9 6QA,D,N,F,Carworgie Court,7,St Francis Road,St Columb Road,St Columb
+2025-07-31,390000,TR9 6PG,D,N,F,Molinuex,,Parka Road,St Columb Road,St Columb
+2025-07-23,350000,TR9 6GT,D,Y,F,Oakwood,5,,,St Columb
+2025-07-22,410000,TR9 6GS,D,N,F,4,,Harvenna View,Higher Fraddon,St Columb
+2025-07-22,368000,TR9 6FE,D,N,F,39,,The Hurlings,,St Columb
+2025-07-16,185000,TR9 6SG,T,N,F,22,,Bospolvan Road,Higher Bospolvans,St Columb
+2025-07-03,225000,TR9 6BL,T,N,F,29,,Meadow Rise,,St Columb
+2025-07-02,580000,TR9 6QN,D,N,F,Anneth Lowen,,St Francis Road,Indian Queens,St Columb
+2025-06-06,240000,TR9 6NW,S,N,F,12,,St James View,Fraddon,St Columb
+2025-06-06,230000,TR9 6DS,T,N,F,3,,Trethurffe Terrace,,St Columb
+2025-05-30,280000,TR9 6TD,S,N,F,16,,Praze An Cronor,,St Columb
+2025-05-30,350000,TR9 6GT,D,Y,F,Oakwood,4,,,St Columb
+2025-05-23,88000,TR9 6RD,S,N,L,41,,Carloggas Grove,,St Columb
+2025-05-23,395000,TR9 6PP,D,N,F,12,,Suncrest Estate,Indian Queens,St Columb
+2025-05-14,182500,TR9 6LE,S,N,F,The Cottage,,Chapel Road,Indian Queens,St Columb
+2025-05-13,460000,TR9 6BP,D,N,F,16,,Hill Crest Close,,St Columb
+2025-05-09,560000,TR9 6BB,D,N,F,19,,Bridge,,St Columb
+2025-05-02,340000,TR9 6HL,D,N,F,Bobtails,,Toldish,Indian Queens,St Columb
+2025-04-30,462000,TR9 6TY,D,N,F,5,,Tippett Meadow,,St Columb
+2025-04-30,232000,TR9 6HJ,S,N,F,Jasmine,,Moorland Road,Indian Queens,St Columb
+2025-04-25,340000,TR9 6QR,S,N,F,Rushford,,,St Columb Road,St Columb
+2025-04-25,437500,TR9 6GT,D,Y,F,Oakwood,6,,,St Columb
+2025-04-17,325000,TR9 6SZ,D,N,F,19,,Beech Drive,,St Columb
+2025-04-11,210000,TR9 6PD,S,N,F,8,,Kingsley Court,Fraddon,St Columb
+2025-04-11,106500,TR9 6AN,F,N,L,2 - 12,Flat 2,Market Place,,St Columb
+2025-04-04,210000,TR9 6LG,T,N,F,2,,Pit Lane,Higher Fraddon,St Columb
+2025-03-31,220000,TR9 6PT,S,N,F,4,,Carworgie Way,St Columb Road,St Columb
+2025-03-28,195000,TR9 6TX,T,N,F,32,,Grovewood Court,Fraddon,St Columb
+2025-03-28,582000,TR9 6SU,D,N,F,4,,Jenner Gardens,,St Columb
+2025-03-28,425000,TR9 6GT,D,Y,F,Oakwood,8,,,St Columb
+2025-03-28,435000,TR9 6GT,D,Y,F,Oakwood,7,,,St Columb
+2025-03-28,355000,TR9 6GT,D,Y,F,Oakwood,1,,,St Columb
+2025-03-28,345000,TR9 6GT,D,Y,F,Oakwood,3,,,St Columb
+2025-03-28,270000,TR9 6FX,S,N,F,44,,Harvenna Heights,Fraddon,St Columb
+2025-03-26,162000,TR9 6SN,T,N,F,18,,Trelawney Parc,,St Columb
+2025-03-25,292500,TR9 6TE,S,N,F,120,,Kingsley Court,Fraddon,St Columb
+2025-03-24,315000,TR9 6QG,S,N,F,The Laurels,,St Francis Road,St Columb Road,St Columb
+2025-03-24,270000,TR9 6GJ,T,N,F,9,,Silver Birch Gardens,St Columb Road,St Columb
+2025-03-21,465000,TR9 6EE,D,N,F,Pendula,,,Talskiddy,St Columb
+2025-03-20,305000,TR9 6RA,D,N,F,6,,Pocohontas Crescent,Indian Queens,St Columb
+2025-03-17,420000,TR9 6GS,D,N,F,6,,Harvenna View,Higher Fraddon,St Columb
+2025-03-14,195000,TR9 6TE,T,N,F,124,,Kingsley Court,Fraddon,St Columb
+2025-03-14,295000,TR9 6RH,T,N,F,25,,Fore Street,,St Columb
+2025-03-14,100000,TR9 6RH,S,N,F,20,,Fore Street,,St Columb
+2025-03-14,288000,TR9 6QE,D,N,F,Teylu,,St Francis Road,St Columb Road,St Columb
+2025-03-14,335000,TR9 6HT,T,N,F,3,,Elm Terrace,Ruthvoes,St Columb
+2025-03-14,79500,TR9 6GQ,S,N,L,5,,Halidon Terrace,,St Columb
+2025-03-13,200000,TR9 6TX,T,N,F,3,,Grovewood Court,Fraddon,St Columb
+2025-03-12,265000,TR9 6NZ,S,N,F,39,,Penhale Gardens,Fraddon,St Columb
+2025-02-28,370000,TR9 6SS,D,N,F,6,,Hawkens Way,,St Columb
+2025-02-28,225000,TR9 6AD,F,N,L,21,,Retreat Court,,St Columb
+2025-02-26,525000,TR9 6GS,D,N,F,3,,Harvenna View,Higher Fraddon,St Columb
+2025-02-25,251250,TR9 6SJ,S,N,F,14,,Dinas Road,,St Columb
+2025-02-24,200000,TR9 6PD,S,N,F,76,,Kingsley Court,Fraddon,St Columb
+2025-02-14,142000,TR9 6FS,D,N,L,2,,Horseshoe Close,,St Columb
+2025-02-07,250000,TR9 6LZ,S,N,F,10,,Westbourne Terrace,Penhale,St Columb
+2025-01-31,240000,TR9 6RY,S,N,F,9,,Station Road,,St Columb
+2025-01-31,129600,TR9 6FS,D,N,L,10,,Horseshoe Close,,St Columb
+2025-01-30,525000,TR9 6JB,D,N,F,Sunnyside Cottage,,,Castle An Dinas,St Columb
+2025-01-29,450000,TR9 6NQ,D,N,F,Mayflower,,,Higher Fraddon,St Columb
+2025-01-29,345000,TR9 6DW,D,N,F,Keswick,,,Lanhainsworth,St Columb
+2025-01-20,380000,TR9 6QU,D,N,F,Shangrla,,,Fraddon,St Columb
+2025-01-10,765000,TR9 6AU,D,N,F,36,,Bank Street,,St Columb
+2025-01-08,300000,TR9 6LX,S,N,F,St. Enoder View,3,My Lords Road,Fraddon,St Columb
+2024-12-20,157500,TR9 6SN,T,N,F,16,,Trelawney Parc,,St Columb
+2024-12-18,330000,TR9 6HW,S,N,F,Wyndhurst,,,Goss Moor,St Columb
+2024-12-13,186000,TR9 6SH,T,N,F,28,,Bosworgey Close,,St Columb
+2024-12-13,212000,TR9 6SG,T,N,F,56,,Bospolvan Road,Higher Bospolvans,St Columb
+2024-12-12,285000,TR9 6QW,D,N,F,Whare Koa,,St Francis Road,Indian Queens,St Columb
+2024-12-10,457500,TR9 6BY,D,N,F,The Laurels,,Old Rectory Drive,,St Columb
+2024-12-06,260000,TR9 6TE,T,N,F,116,,Kingsley Court,Fraddon,St Columb
+2024-12-05,180000,TR9 6LJ,S,N,F,5,,Barnfield Terrace,Indian Queens,St Columb
+2024-12-04,255000,TR9 6PD,T,N,F,70,,Kingsley Court,Fraddon,St Columb
+2024-12-03,585000,TR9 6EL,D,N,F,Meadow View,,,Tregonetha,St Columb
+2024-12-03,215000,TR9 6BL,S,N,F,19,,Meadow Rise,,St Columb
+2024-11-29,199000,TR9 6SG,T,N,F,60,,Bospolvan Road,Higher Bospolvans,St Columb
+2024-11-29,150000,TR9 6PF,T,N,F,3,,Moorland Place,St Columb Road,St Columb
+2024-11-29,326000,TR9 6NQ,D,N,F,Blue Savannah,,,Higher Fraddon,St Columb
+2024-11-29,250000,TR9 6BY,S,N,F,Hazeldene,,Old Rectory Drive,,St Columb
+2024-11-08,210000,TR9 6PD,S,N,F,43,,Kingsley Court,Fraddon,St Columb
+2024-11-05,235000,TR9 6HT,S,N,F,Chy Voes,,,Ruthvoes,St Columb
+2024-10-25,335000,TR9 6PP,D,N,F,"Crossfields, 13",,Suncrest Estate,Indian Queens,St Columb
+2024-10-25,327500,TR9 6BD,T,N,F,Pencru,,,Bridge,St Columb
+2024-10-23,320000,TR9 6PA,D,N,F,11,,Harvenna Close,Fraddon,St Columb
+2024-10-22,410000,TR9 6SZ,D,N,F,1,,Beech Drive,,St Columb
+2024-10-22,250000,TR9 6RD,S,N,F,17,,Carloggas Grove,,St Columb
+2024-10-16,113000,TR9 6TB,F,N,L,10,,Ruskin Court,,St Columb
+2024-10-07,295000,TR9 6GZ,S,N,F,14,,The Mowie,Indian Queens,St Columb
+2024-10-04,395000,TR9 6BQ,D,N,F,36,,Penkernick Way,,St Columb
+2024-10-01,170000,TR9 6TE,S,N,F,107,,Kingsley Court,Fraddon,St Columb
+2024-09-27,282000,TR9 6RB,S,N,F,23,,Tremear Green,St Columb Road,St Columb
+2024-09-27,335000,TR9 6GA,D,N,F,6,,Heather Meadow,Fraddon,St Columb
+2024-09-17,187000,TR9 6FF,T,N,F,6,,Wartha Mews,Fraddon,St Columb
+2024-09-16,160000,TR9 6QA,S,N,F,Chy Kensa,,St Francis Road,St Columb Road,St Columb
+2024-09-13,350000,TR9 6TN,D,N,F,51,,Fairview Park,St Columb Road,St Columb
+2024-09-04,212500,TR9 6NZ,S,N,F,44,,Penhale Gardens,Fraddon,St Columb
+2024-09-02,265000,TR9 6AU,S,N,F,12,,Bank Street,,St Columb
+2024-08-23,330000,TR9 6NR,S,N,F,1,,Wartha Villas,Fraddon,St Columb
+2024-08-16,232500,TR9 6PS,T,N,F,3,,Carworgie Way,St Columb Road,St Columb
+2024-08-16,275000,TR9 6PP,D,N,F,11,,Suncrest Estate,Indian Queens,St Columb
+2024-08-16,420000,TR9 6HL,D,N,F,Toldish Cottage,,Toldish,Indian Queens,St Columb
+2024-08-13,170000,TR9 6LB,S,N,F,Willesden,,Chapel Road,Indian Queens,St Columb
+2024-08-09,165000,TR9 6BL,S,N,F,57,,Meadow Rise,,St Columb
+2024-08-07,471500,TR9 6BD,D,N,F,"Chy Yn Crescent, 2",,Parsons Garth,Bridge,St Columb
+2024-08-05,395000,TR9 6BQ,D,N,F,54,,Penkernick Way,,St Columb
+2024-07-31,101000,TR9 6JU,F,N,L,3,,Mandalay Villas,Fraddon,St Columb
+2024-07-29,310000,TR9 6RU,S,N,F,8,,South Park,,St Columb
+2024-07-29,425000,TR9 6BQ,D,N,F,45A,,Penkernick Way,,St Columb
+2024-07-26,250000,TR9 6SJ,S,N,F,6,,Dinas Road,,St Columb
+2024-07-26,343500,TR9 6BQ,D,N,F,41,,Penkernick Way,,St Columb
+2024-07-24,237500,TR9 6SZ,S,N,F,15,,Beech Drive,,St Columb
+2024-07-05,575000,TR9 6DD,S,N,F,Olde Coach House,,,Higher Tolcarne,St Columb
+2024-07-03,395000,TR9 6PJ,S,N,F,Trevarren Hey,,,Trevarren,St Columb
+2024-06-27,235000,TR9 6ST,T,N,F,2,,Hawthorne Close,,St Columb
+2024-06-27,317500,TR9 6NW,S,N,F,22,,St James View,Fraddon,St Columb
+2024-06-26,357000,TR9 6FE,S,N,F,41,,The Hurlings,,St Columb
+2024-06-17,230000,TR9 6TQ,T,N,F,14,,Clodan Mews,St Columb Road,St Columb
+2024-06-14,245000,TR9 6TN,S,N,F,77,,Fairview Park,St Columb Road,St Columb
+2024-06-14,525000,TR9 6QP,D,N,F,Station Approach,Trevan,,St Columb Road,St Columb
+2024-06-12,190000,TR9 6SN,T,N,F,102,,Trelawney Parc,,St Columb
+2024-06-10,345000,TR9 6BQ,D,N,F,32,,Penkernick Way,,St Columb
+2024-06-04,160000,TR9 6LB,D,N,F,Trenance,,Chapel Road,Indian Queens,St Columb
+2024-05-31,245500,TR9 6SJ,S,N,F,1,,Dinas Road,,St Columb
+2024-05-21,500000,TR9 6LY,D,N,F,Chy An Blossom,,Highgate Hill,Indian Queens,St Columb
+2024-05-03,310000,TR9 6PA,D,N,F,4,,Harvenna Close,Fraddon,St Columb
+2024-04-26,365000,TR9 6QF,D,N,F,Canela,,St Francis Road,St Columb Road,St Columb
+2024-04-26,212000,TR9 6LU,T,N,F,3,,Ridgewell Terrace,Fraddon,St Columb
+2024-04-12,200000,TR9 6SH,T,N,F,20,,Bosworgey Close,,St Columb
+2024-04-11,295000,TR9 6BQ,D,N,F,20,,Penkernick Way,,St Columb
+2024-04-10,320000,TR9 6GA,D,N,F,19,,Heather Meadow,Fraddon,St Columb
+2024-04-03,300000,TR9 6PB,D,N,F,3,,Princess Parc,Indian Queens,St Columb
+2024-04-03,180000,TR9 6FF,T,N,F,9,,Wartha Mews,Fraddon,St Columb
+2024-03-28,104000,TR9 6GN,T,N,L,16,,Jubilee Close,,St Columb
+2024-03-15,177000,TR9 6HQ,S,N,F,3,,Denys View,Indian Queens,St Columb
+2024-03-06,450000,TR9 6BP,D,N,F,16,,Hill Crest Close,,St Columb
+2024-02-29,200000,TR9 6SG,T,N,F,36,,Bospolvan Road,Higher Bospolvans,St Columb
+2024-02-19,185000,TR9 6BL,T,N,F,69,,Meadow Rise,,St Columb
+2024-02-05,248500,TR9 6AR,S,N,F,1,,Union Hill,,St Columb
+2024-02-02,225000,TR9 6LA,S,N,F,2,,Chapel Road,Indian Queens,St Columb
+2024-02-02,260000,TR9 6BH,S,N,F,16,,Carloggas Way,,St Columb
+2024-01-29,195000,TR9 6TX,T,N,F,8,,Grovewood Court,Fraddon,St Columb
+2024-01-26,532500,TR9 6SR,D,N,F,4,,Jenner Parc,,St Columb
+2024-01-26,96500,TR9 6PG,F,N,F,Sharma,,Parka Road,St Columb Road,St Columb
+2024-01-17,273000,TR9 6NZ,S,N,F,20,,Penhale Gardens,Fraddon,St Columb
+2024-01-12,290000,TR9 6FY,D,N,F,3,,Mathew Close,Indian Queens,St Columb
+2024-01-08,162500,TR9 6NP,F,N,L,The Old Post Office,2,,Fraddon,St Columb
+2024-01-08,737000,TR9 6BY,D,N,F,6,,Old Rectory Drive,,St Columb
+2024-01-08,390000,TR9 6BX,D,N,F,1,,Oaklands Court,,St Columb
+2023-12-16,165000,TR9 6LG,D,N,F,Zonta,,Pit Lane,Higher Fraddon,St Columb
+2023-12-15,275000,TR9 6PD,D,N,F,18,,Kingsley Court,Fraddon,St Columb
+2023-12-14,143500,TR9 6AX,T,N,F,6,,Rosewin Row,,St Columb
+2023-12-13,200000,TR9 6PD,S,N,F,54,,Kingsley Court,Fraddon,St Columb
+2023-12-08,150000,TR9 6RH,T,N,F,49,,Fore Street,,St Columb
+2023-12-08,250000,TR9 6JZ,D,N,F,Oakridge,,Chapel Road,Indian Queens,St Columb
+2023-12-08,326000,TR9 6FW,D,N,F,8,,Mowhay Meadow,Fraddon,St Columb
+2023-12-08,160000,TR9 6AU,T,N,F,14,,Bank Street,,St Columb
+2023-12-01,230000,TR9 6PN,D,N,F,Parkside,,The Drang,Indian Queens,St Columb
+2023-11-27,365000,TR9 6SS,D,N,F,8,,Hawkens Way,,St Columb
+2023-11-24,245000,TR9 6EB,T,N,F,Cob Cottage,,,Talskiddy,St Columb
+2023-11-22,274000,TR9 6LW,T,N,F,6,,Oakdene Villas,Fraddon,St Columb
+2023-11-20,190000,TR9 6SH,T,N,F,44,,Bosworgey Close,,St Columb
+2023-11-20,375000,TR9 6SE,D,N,F,20,,Wreford Close,,St Columb
+2023-11-17,332000,TR9 6LX,D,N,F,Fin Chi,,My Lords Road,Fraddon,St Columb
+2023-11-17,207000,TR9 6BN,S,N,F,8,,Rosewin Mews,,St Columb
+2023-11-16,175000,TR9 6PF,T,N,F,2,,Moorland Place,St Columb Road,St Columb
+2023-11-16,265000,TR9 6FE,T,N,F,59,,The Hurlings,,St Columb
+2023-11-10,447500,TR9 6RR,D,N,F,17,,Trekenning Road,,St Columb
+2023-11-10,320000,TR9 6LQ,S,N,F,Moorview,,Highgate,Indian Queens,St Columb
+2023-11-03,379950,TR9 6SS,D,N,F,21,,Hawkens Way,,St Columb
+2023-11-03,245000,TR9 6NZ,S,N,F,6,,Penhale Gardens,Fraddon,St Columb
+2023-11-03,480000,TR9 6LY,D,N,F,The Paddock,,Highgate Hill,Indian Queens,St Columb
+2023-11-03,445000,TR9 6BB,T,N,F,29,,Bridge,,St Columb
+2023-11-01,252500,TR9 6RH,T,N,F,18,,Fore Street,,St Columb
+2023-11-01,240000,TR9 6RA,S,N,F,19A,,Pocohontas Crescent,Indian Queens,St Columb
+2023-10-30,190000,TR9 6PD,T,N,F,14,,Kingsley Court,Fraddon,St Columb
+2023-10-20,105000,TR9 6JU,F,N,L,4,,Mandalay Villas,Fraddon,St Columb
+2023-10-16,370000,TR9 6PR,S,N,F,6,,Ocean View,Indian Queens,St Columb
+2023-10-05,204000,TR9 6ER,T,N,F,7,,Hanover Parc,Indian Queens,St Columb
+2023-10-05,262000,TR9 6ER,T,N,F,5,,Hanover Parc,Indian Queens,St Columb
+2023-10-03,256250,TR9 6TD,S,N,F,8,,Praze An Cronor,,St Columb
+2023-10-03,730000,TR9 6DD,D,N,F,Tolcarne Cottage,,,Higher Tolcarne,St Columb
+2023-10-02,275000,TR9 6PG,D,N,F,Forsyth House,,Parka Road,St Columb Road,St Columb
+2023-09-29,375000,TR9 6PQ,D,N,F,Lealholme,,,Fraddon,St Columb
+2023-09-29,565000,TR9 6EL,D,N,F,Meadow View,,,Tregonetha,St Columb
+2023-09-22,165000,TR9 6BL,T,N,F,65,,Meadow Rise,,St Columb
+2023-09-19,320000,TR9 6JX,D,N,F,Kerridene,,Parka Road,Fraddon,St Columb
+2023-09-18,377500,TR9 6TD,D,N,F,39,,Praze An Cronor,,St Columb
+2023-09-18,232000,TR9 6RZ,S,N,F,4,,Springfield Place,,St Columb
+2023-09-15,215000,TR9 6RL,T,N,F,51,,Fair Street,,St Columb
+2023-09-15,283000,TR9 6BL,D,N,F,4,,Meadow Rise,,St Columb
+2023-09-08,255000,TR9 6DH,D,N,L,Meadowside Farm,Lodge 1,,Winnards Perch,St Columb
+2023-09-08,225000,TR9 6DE,S,N,F,Retallack Resort & Spa,70B,,Winnards Perch,St Columb
+2023-09-07,285000,TR9 6RB,S,N,F,37,,Tremear Green,St Columb Road,St Columb
+2023-09-06,235500,TR9 6TN,T,N,F,10,,Fairview Park,St Columb Road,St Columb
+2023-09-04,790000,TR9 6DD,D,N,F,Saffron Cottage,,,Higher Tolcarne,St Columb
+2023-09-01,310000,TR9 6PD,S,N,F,89,,Kingsley Court,Fraddon,St Columb
+2023-08-31,410000,TR9 6GR,D,Y,F,8,,Applewood,,St Columb
+2023-08-25,300000,TR9 6PD,S,N,F,80,,Kingsley Court,Fraddon,St Columb
+2023-08-17,395000,TR9 6DE,D,N,L,Retallack Resort & Spa,Unit 68,,Winnards Perch,St Columb
+2023-08-11,175000,TR9 6BL,S,N,F,61,,Meadow Rise,,St Columb
+2023-08-10,155000,TR9 6SN,T,N,F,102,,Trelawney Parc,,St Columb
+2023-08-08,180000,TR9 6NN,T,N,F,"Contrast, 4",,,Higher Fraddon,St Columb
+2023-08-07,210000,TR9 6HN,T,N,F,Shell Cottage,3,Moorland Road,Indian Queens,St Columb
+2023-08-04,210000,TR9 6PD,D,N,F,16,,Kingsley Court,Fraddon,St Columb
+2023-08-04,169000,TR9 6AD,F,N,L,11,,Retreat Court,,St Columb
+2023-08-01,362500,TR9 6LS,S,N,F,Blue Anchor House,,,Blue Anchor,St Columb
+2023-07-28,261100,TR9 6SZ,S,N,F,14,,Beech Drive,,St Columb
+2023-07-28,179500,TR9 6PD,T,N,F,17,,Kingsley Court,Fraddon,St Columb
+2023-07-27,105500,TR9 6RJ,D,N,F,1,,Higher East Street,,St Columb
+2023-07-25,220000,TR9 6RB,S,N,F,27,,Tremear Green,St Columb Road,St Columb
+2023-07-25,315000,TR9 6QN,S,N,F,Penmuir,,St Francis Road,Indian Queens,St Columb
+2023-07-18,505000,TR9 6FN,D,N,F,5,,Penmellyn Gardens,,St Columb
+2023-07-14,375000,TR9 6QF,D,N,F,Khandala,,St Francis Road,St Columb Road,St Columb
+2023-07-12,282500,TR9 6TN,D,N,F,45,,Fairview Park,St Columb Road,St Columb
+2023-07-07,248000,TR9 6TE,T,N,F,102,,Kingsley Court,Fraddon,St Columb
+2023-06-30,275000,TR9 6LT,S,N,F,Milestone Cottage,,,Blue Anchor,St Columb
+2023-06-28,375000,TR9 6JB,D,N,F,Campanula Cottage,,,Castle An Dinas,St Columb
+2023-06-09,225000,TR9 6SJ,S,N,F,20,,Dinas Road,,St Columb
+2023-06-07,179500,TR9 6SH,T,N,F,28,,Bosworgey Close,,St Columb
+2023-06-01,175000,TR9 6BL,T,N,F,42,,Meadow Rise,,St Columb
+2023-05-30,299950,TR9 6TN,D,N,F,79,,Fairview Park,St Columb Road,St Columb
+2023-05-16,326000,TR9 6FE,D,N,F,16,,The Hurlings,,St Columb
+2023-05-15,160000,TR9 6GE,T,N,F,3 Glenview Terrace,,Parka Road,St Columb Road,St Columb
+2023-05-10,138750,TR9 6TQ,T,N,F,15,,Clodan Mews,St Columb Road,St Columb
+2023-05-09,450000,TR9 6PH,D,N,F,October Cottage,,,Trevarren,St Columb
+2023-04-28,184000,TR9 6SH,T,N,F,30,,Bosworgey Close,,St Columb
+2023-04-28,275000,TR9 6QG,D,N,F,Hazeldene,,St Francis Road,St Columb Road,St Columb
+2023-04-28,175000,TR9 6ER,T,N,F,23,,Hanover Parc,Indian Queens,St Columb
+2023-04-21,129500,TR9 6TZ,T,N,F,3,,Polventon Close,,St Columb
+2023-04-14,203000,TR9 6PD,T,N,F,98,,Kingsley Court,Fraddon,St Columb
+2023-04-06,152000,TR9 6FE,T,N,F,22,,The Hurlings,,St Columb
+2023-04-06,385000,TR9 6BY,D,N,F,Nairn,,Old Rectory Drive,,St Columb
+2023-04-04,150000,TR9 6RL,T,N,F,1A,,Fair Street,,St Columb
+2023-04-03,415000,TR9 6GR,D,Y,F,7,,Applewood,,St Columb
+2023-03-22,240000,TR9 6TQ,T,N,F,4,,Clodan Mews,St Columb Road,St Columb
+2023-03-09,230000,TR9 6HT,T,N,F,2,,Elm Terrace,Ruthvoes,St Columb
+2023-03-03,450000,TR9 6GR,D,Y,F,9,,Applewood,,St Columb
+2023-02-27,192000,TR9 6GE,T,N,F,2 Glenview Terrace,,Parka Road,St Columb Road,St Columb
+2023-02-24,379500,TR9 6GR,D,Y,F,10,,Applewood,,St Columb
+2023-02-23,311000,TR9 6RY,S,N,F,4,,Station Road,,St Columb
+2023-02-10,275000,TR9 6GY,S,N,F,Brindle,,Manor Drive,Fraddon,St Columb
+2023-02-08,205000,TR9 6PD,S,N,F,81,,Kingsley Court,Fraddon,St Columb
+2023-02-01,192000,TR9 6JY,S,N,F,Ferndale,1,Parka Road,Fraddon,St Columb
+2023-01-30,370000,TR9 6RY,D,N,F,15A,,Station Road,,St Columb
+2023-01-27,211000,TR9 6SA,S,N,F,76,,Highfield Avenue,,St Columb
+2023-01-04,335000,TR9 6QE,D,N,F,Mentmore,,St Francis Road,St Columb Road,St Columb
+2022-12-20,290000,TR9 6PD,D,N,F,10,,Kingsley Court,Fraddon,St Columb
+2022-12-20,275000,TR9 6NG,D,N,F,Higher Harvenna,The Copse,Fraddon Hill,Fraddon,St Columb
+2022-12-19,265000,TR9 6QW,S,N,F,Gunvena,,St Francis Road,Indian Queens,St Columb
+2022-12-19,178000,TR9 6GE,F,N,L,The Old Butchers Shop,Flat 1,Parka Road,St Columb Road,St Columb
+2022-12-02,200000,TR9 6TX,T,N,F,36,,Grovewood Court,Fraddon,St Columb
+2022-11-14,121800,TR9 6FD,S,N,F,2,,Lindsay Fields,Fraddon,St Columb
+2022-11-11,285000,TR9 6FX,S,N,F,52,,Harvenna Heights,Fraddon,St Columb
+2022-11-04,210000,TR9 6PB,S,N,F,11,,Princess Parc,Indian Queens,St Columb
+2022-11-02,180000,TR9 6AX,T,N,F,10,,Rosewin Row,,St Columb
+2022-11-01,185500,TR9 6NH,S,N,F,1,,Trewartha,Higher Fraddon,St Columb
+2022-10-31,435000,TR9 6SS,D,N,F,49,,Hawkens Way,,St Columb
+2022-10-28,280000,TR9 6PD,S,N,F,20,,Kingsley Court,Fraddon,St Columb
+2022-10-28,195000,TR9 6LZ,S,N,F,8,,Westbourne Terrace,Penhale,St Columb
+2022-10-27,242600,TR9 6PD,T,N,F,90,,Kingsley Court,Fraddon,St Columb
+2022-10-27,330000,TR9 6FW,D,N,F,8,,Mowhay Meadow,Fraddon,St Columb
+2022-10-21,250000,TR9 6PD,T,N,F,46,,Kingsley Court,Fraddon,St Columb
+2022-10-20,200000,TR9 6PB,S,N,F,26,,Princess Parc,Indian Queens,St Columb
+2022-10-20,256500,TR9 6EL,S,N,F,Trenoel,,,Tregonetha,St Columb
+2022-10-14,350000,TR9 6ST,S,N,F,6,,Hawthorne Close,,St Columb
+2022-10-12,147000,TR9 6RR,D,N,F,Market Roundhouse,,Trekenning Road,,St Columb
+2022-10-10,320000,TR9 6RJ,D,N,F,4,,Higher East Street,,St Columb
+2022-10-03,550000,TR9 6SE,D,N,F,27,,Wreford Close,,St Columb
+2022-09-30,220000,TR9 6TQ,S,N,F,23,,Clodan Mews,St Columb Road,St Columb
+2022-09-30,253000,TR9 6TD,T,N,F,5,,Praze An Cronor,,St Columb
+2022-09-30,340000,TR9 6PJ,T,N,F,Tillydean,,,Trevarren,St Columb
+2022-09-30,489000,TR9 6GR,D,Y,F,4,,Applewood,,St Columb
+2022-09-30,400000,TR9 6AY,D,N,F,4,,Treventon Rise,,St Columb
+2022-09-27,130000,TR9 6AS,F,N,L,5,,Broad Street,,St Columb
+2022-09-27,225000,TR9 6AD,F,N,L,32,,Retreat Court,,St Columb
+2022-09-26,340000,TR9 6NQ,D,N,F,Anchorage,,,Higher Fraddon,St Columb
+2022-09-23,145000,TR9 6RL,T,N,F,21,,Fair Street,,St Columb
+2022-09-23,247500,TR9 6NN,T,N,F,Acorn Villa,,,Higher Fraddon,St Columb
+2022-09-22,465000,TR9 6GR,D,Y,F,3,,Applewood,,St Columb
+2022-09-20,375000,TR9 6LX,D,N,F,Gwel An Pell,,My Lords Road,Fraddon,St Columb
+2022-09-16,232100,TR9 6NS,S,N,F,Honeysuckle Cottage,,,Fraddon,St Columb
+2022-09-16,290000,TR9 6AD,S,N,L,6,,Retreat Court,,St Columb
+2022-09-15,415000,TR9 6GR,D,Y,F,6,,Applewood,,St Columb
+2022-09-15,405000,TR9 6GR,D,Y,F,5,,Applewood,,St Columb
+2022-09-15,465000,TR9 6GR,D,Y,F,2,,Applewood,,St Columb
+2022-09-06,304000,TR9 6NE,S,N,F,Chy An Pry,,Moorland Road,Indian Queens,St Columb
+2022-09-01,182500,TR9 6SA,T,N,F,72,,Highfield Avenue,,St Columb
+2022-08-29,350000,TR9 6EP,S,N,F,8,,Rachels Way,,St Columb
+2022-08-19,260500,TR9 6LT,T,N,F,1,,,Blue Anchor,St Columb
+2022-08-18,225000,TR9 6SB,T,N,F,34,,High Cross,,St Columb
+2022-08-12,539000,TR9 6SU,D,N,F,6,,Jenner Gardens,,St Columb
+2022-08-12,380000,TR9 6SL,D,N,F,4,,Maple Close,,St Columb
+2022-08-12,255000,TR9 6RY,S,N,F,Bishops Court,1,Station Road,,St Columb
+2022-08-12,188000,TR9 6RJ,F,N,L,Carters Court,3,Higher East Street,,St Columb
+2022-08-08,410000,TR9 6GA,D,N,F,6,,Heather Meadow,Fraddon,St Columb
+2022-08-05,252000,TR9 6HG,S,N,F,Toldish Cottages,1,Toldish,Indian Queens,St Columb
+2022-08-01,260000,TR9 6TN,T,N,F,6,,Fairview Park,St Columb Road,St Columb
+2022-07-29,240000,TR9 6TQ,S,N,F,22,,Clodan Mews,St Columb Road,St Columb
+2022-07-29,280000,TR9 6AR,D,N,F,26,,Union Hill,,St Columb
+2022-07-26,336000,TR9 6NQ,S,N,F,Marlboro,,,Higher Fraddon,St Columb
+2022-07-22,319250,TR9 6PA,D,N,F,9,,Harvenna Close,Fraddon,St Columb
+2022-07-22,325000,TR9 6NS,D,N,F,Kya-Lami,,,Fraddon,St Columb
+2022-07-19,150000,TR9 6RL,T,N,F,1A,,Fair Street,,St Columb
+2022-07-12,153000,TR9 6SH,S,N,F,10,,Bosworgey Close,,St Columb
+2022-07-11,185000,TR9 6RX,S,N,F,9,,West Street,,St Columb
+2022-07-08,216000,TR9 6AD,F,N,L,18,,Retreat Court,,St Columb
+2022-07-01,465000,TR9 6SS,D,N,F,31,,Hawkens Way,,St Columb
+2022-06-29,120000,TR9 6AP,F,N,L,The Liberal Club,Flat 1,Union Square,,St Columb
+2022-06-23,295000,TR9 6RH,T,N,F,43,,Fore Street,,St Columb
+2022-06-20,105300,TR9 6TU,F,N,L,5,,Browning Close,,St Columb
+2022-06-17,240000,TR9 6SH,T,N,F,2,,Bosworgey Close,,St Columb
+2022-06-17,335000,TR9 6SG,D,N,F,9,,Bospolvan Road,Higher Bospolvans,St Columb
+2022-06-08,196000,TR9 6NL,T,N,F,"Cherry Cottage, 1",,,Higher Fraddon,St Columb
+2022-05-31,86000,TR9 6RJ,D,N,F,1,,Higher East Street,,St Columb
+2022-05-27,98280,TR9 6TU,T,N,L,6,,Browning Close,,St Columb
+2022-05-26,200000,TR9 6LG,T,N,F,2,,Pit Lane,Higher Fraddon,St Columb
+2022-05-24,135000,TR9 6AN,F,N,L,2 - 12,Flat 5,Market Place,,St Columb
+2022-05-19,256200,TR9 6HJ,T,N,F,The Grove,,Moorland Road,Indian Queens,St Columb
+2022-05-13,210000,TR9 6TX,T,N,F,22,,Grovewood Court,Fraddon,St Columb
+2022-05-10,390000,TR9 6TJ,D,N,F,Harlyl,,Newquay Road,,St Columb
+2022-05-10,265000,TR9 6ST,D,N,F,15,,Hawthorne Close,,St Columb
+2022-05-09,250000,TR9 6DH,D,N,L,Meadowside Farm,Lodge 18 Golden Eagle Lodge,,Winnards Perch,St Columb
+2022-05-04,235000,TR9 6RZ,S,N,F,2,,Springfield Place,,St Columb
+2022-04-22,249000,TR9 6NZ,T,N,F,32,,Penhale Gardens,Fraddon,St Columb
+2022-04-22,235000,TR9 6LJ,S,N,F,7,,Barnfield Terrace,Indian Queens,St Columb
+2022-04-19,320000,TR9 6RL,S,N,F,"The Aviary, 22",,Fair Street,,St Columb
+2022-04-14,99000,TR9 6AT,F,N,L,1A,,Bank Street,,St Columb
+2022-04-12,125000,TR9 6AT,F,N,L,"Clarendon House, 9",Flat 1,Bank Street,,St Columb
+2022-04-08,117500,TR9 6NL,T,N,F,4,,,Higher Fraddon,St Columb
+2022-04-08,180000,TR9 6LN,T,N,F,7,,Melrose Terrace,Fraddon,St Columb
+2022-04-06,220000,TR9 6LU,T,N,F,8,,Ridgewell Terrace,Fraddon,St Columb
+2022-04-04,205000,TR9 6PW,S,N,F,2,,The Drang,Indian Queens,St Columb
+2022-04-01,295000,TR9 6TJ,D,N,F,Lower Greenacre,,Newquay Road,,St Columb
+2022-04-01,225000,TR9 6NT,S,N,F,1,,Belvedere,Fraddon,St Columb
+2022-04-01,125000,TR9 6HL,D,N,F,Toldish Bungalow,,Toldish,Indian Queens,St Columb
+2022-03-31,129000,TR9 6FX,T,N,L,23,,Harvenna Heights,Fraddon,St Columb
+2022-03-30,285000,TR9 6BL,D,N,F,22,,Meadow Rise,,St Columb
+2022-03-25,260000,TR9 6TD,S,N,F,21B,,Praze An Cronor,,St Columb
+2022-03-25,355000,TR9 6LX,D,N,F,Gans Kerensa,,My Lords Road,Fraddon,St Columb
+2022-03-23,225000,TR9 6QP,T,N,F,Station Approach,2 Desmond Mews,,St Columb Road,St Columb
+2022-03-18,200000,TR9 6SW,T,N,F,56,,Newquay Road,,St Columb
+2022-03-18,349950,TR9 6LX,D,N,F,Chy Lowen,,My Lords Road,Fraddon,St Columb
+2022-03-15,380000,TR9 6NS,D,N,F,Tremeaux,,,Fraddon,St Columb
+2022-03-14,192500,TR9 6PG,T,N,F,4,,Woodland Terrace,St Columb Road,St Columb
+2022-03-04,385000,TR9 6BQ,D,N,F,10,,Penkernick Way,,St Columb
+2022-02-22,180000,TR9 6NN,T,N,F,5,,,Higher Fraddon,St Columb
+2022-02-17,435000,TR9 6SS,D,N,F,17,,Hawkens Way,,St Columb
+2022-02-17,330000,TR9 6RY,D,N,F,Bishops Court,3,Station Road,,St Columb
+2022-02-15,285000,TR9 6DE,D,N,F,Retallack Resort & Spa,Lake View Lodge 57,,Winnards Perch,St Columb
+2022-02-11,408000,TR9 6SE,D,N,F,29,,Wreford Close,,St Columb
+2022-02-11,190000,TR9 6PD,S,N,F,60,,Kingsley Court,Fraddon,St Columb
+2022-02-10,357500,TR9 6LX,D,N,F,St. Enoder View,1,My Lords Road,Fraddon,St Columb
+2022-02-08,225000,TR9 6PN,D,N,F,Lancrest,,The Drang,Indian Queens,St Columb
+2022-02-01,255000,TR9 6PD,D,N,F,22,,Kingsley Court,Fraddon,St Columb
+2022-01-28,595000,TR9 6EB,D,N,F,Holly Lodge,,,Talskiddy,St Columb
+2022-01-28,517500,TR9 6BY,D,N,F,Lime Trees,,Old Rectory Drive,,St Columb
+2022-01-21,375000,TR9 6TN,D,N,F,4,,Fairview Park,St Columb Road,St Columb
+2022-01-21,270000,TR9 6RJ,D,N,F,5B,,Higher East Street,,St Columb
+2022-01-18,175000,TR9 6RL,F,N,L,The Blue Lantern,Flat,Fair Street,,St Columb
+2022-01-18,141500,TR9 6AX,T,N,F,4,,Rosewin Row,,St Columb
+2022-01-07,148750,TR9 6PD,T,N,F,56,,Kingsley Court,Fraddon,St Columb
+2021-12-22,205000,TR9 6BL,S,N,F,47,,Meadow Rise,,St Columb
+2021-12-22,110000,TR9 6AN,F,N,L,2 - 12,Flat 2,Market Place,,St Columb
+2021-12-20,392500,TR9 6FE,D,N,F,37,,The Hurlings,,St Columb
+2021-12-17,255000,TR9 6SE,D,N,F,2,,Wreford Close,,St Columb
+2021-12-16,358000,TR9 6BQ,D,N,F,47,,Penkernick Way,,St Columb
+2021-12-16,205000,TR9 6AU,F,N,L,Bonds House,Flat 4,Market Square,,St Columb
+2021-12-15,195000,TR9 6SB,S,N,F,12,,High Cross,,St Columb
+2021-12-14,206000,TR9 6PD,T,N,F,69,,Kingsley Court,Fraddon,St Columb
+2021-12-13,175000,TR9 6SN,T,N,F,126,,Trelawney Parc,,St Columb
+2021-12-10,250000,TR9 6RD,T,N,F,22,,Carloggas Grove,,St Columb
+2021-12-10,260000,TR9 6PB,S,N,F,19,,Princess Parc,Indian Queens,St Columb
+2021-12-10,240000,TR9 6NZ,S,N,F,10,,Penhale Gardens,Fraddon,St Columb
+2021-12-08,900000,TR9 6BY,D,N,F,Town Mills,,Bridge Hill,,St Columb
+2021-11-30,265000,TR9 6PJ,D,N,F,Shebee,,,Trevarren,St Columb
+2021-11-23,220000,TR9 6FE,T,N,F,29,,The Hurlings,,St Columb
+2021-11-23,247500,TR9 6AR,D,N,F,26,,Union Hill,,St Columb
+2021-11-19,470000,TR9 6NN,D,N,F,Avalon,,,Higher Fraddon,St Columb
+2021-11-15,227000,TR9 6TD,D,N,F,21,,Praze An Cronor,,St Columb
+2021-11-12,460000,TR9 6ET,T,N,F,3,,Clearwater,,St Columb
+2021-11-10,441000,TR9 6BY,D,N,F,Woodland Lodge,,Old Rectory Drive,,St Columb
+2021-11-05,110000,TR9 6JU,F,N,L,5,,Mandalay Villas,Fraddon,St Columb
+2021-11-03,258000,TR9 6BL,S,N,F,48,,Meadow Rise,,St Columb
+2021-10-29,200000,TR9 6SB,S,N,F,3,,High Cross,,St Columb
+2021-10-29,310000,TR9 6RD,S,N,F,24,,Carloggas Grove,,St Columb
+2021-10-29,95000,TR9 6AT,F,N,L,"Clarendon House, 9",Flat 2,Bank Street,,St Columb
+2021-10-22,200000,TR9 6PD,F,N,F,86,,Kingsley Court,Fraddon,St Columb
+2021-10-22,163500,TR9 6AD,F,N,L,10,,Retreat Court,,St Columb
+2021-10-21,120000,TR9 6AN,F,N,L,2 - 12,Flat 4,Market Place,,St Columb
+2021-10-18,185000,TR9 6PG,T,N,F,3,,Woodland Terrace,St Columb Road,St Columb
+2021-10-15,80000,TR9 6GN,S,Y,L,4,,Jubilee Close,,St Columb
+2021-10-08,360000,TR9 6EL,D,N,F,Jacwyn,,,Tregonetha,St Columb
+2021-10-06,195000,TR9 6NZ,T,N,F,25,,Penhale Gardens,Fraddon,St Columb
+2021-09-30,216000,TR9 6SJ,S,N,F,2,,Dinas Road,,St Columb
+2021-09-30,161500,TR9 6SH,T,N,F,46,,Bosworgey Close,,St Columb
+2021-09-30,225000,TR9 6QP,S,N,F,Station Approach,Charandinn,,St Columb Road,St Columb
+2021-09-30,200000,TR9 6BL,S,N,F,59,,Meadow Rise,,St Columb
+2021-09-29,120000,TR9 6RH,T,N,F,30,,Fore Street,,St Columb
+2021-09-24,550000,TR9 6SU,D,N,F,11,,Jenner Gardens,,St Columb
+2021-09-24,325050,TR9 6PR,D,N,F,3,,Ocean View,Indian Queens,St Columb
+2021-09-17,335000,TR9 6TN,D,N,F,27,,Fairview Park,St Columb Road,St Columb
+2021-09-17,400000,TR9 6QP,D,N,F,Station Approach,Trekegi,,St Columb Road,St Columb
+2021-09-14,260000,TR9 6TD,S,N,F,16,,Praze An Cronor,,St Columb
+2021-09-14,146000,TR9 6ES,F,N,F,4,,Briar Mews,,St Columb
+2021-09-09,238000,TR9 6ER,T,N,F,17,,Hanover Parc,Indian Queens,St Columb
+2021-09-08,550000,TR9 6AR,S,N,F,10,,Union Hill,,St Columb
+2021-09-07,122500,TR9 6TZ,T,N,F,6,,Polventon Close,,St Columb
+2021-09-07,385000,TR9 6LT,D,N,F,Caelum,,,Blue Anchor,St Columb
+2021-08-27,250000,TR9 6SJ,S,N,F,14,,Dinas Road,,St Columb
+2021-08-27,175000,TR9 6FF,T,N,F,5,,Wartha Mews,Fraddon,St Columb
+2021-08-26,275000,TR9 6PB,S,N,F,27,,Princess Parc,Indian Queens,St Columb
+2021-08-26,245000,TR9 6BQ,S,N,F,18,,Penkernick Way,,St Columb
+2021-08-25,195000,TR9 6QP,S,N,F,Station Approach,1 Desmond Mews,,St Columb Road,St Columb
+2021-08-24,410000,TR9 6SS,D,N,F,27,,Hawkens Way,,St Columb
+2021-08-13,240000,TR9 6GJ,T,Y,F,4,,Silver Birch Gardens,St Columb Road,St Columb
+2021-08-10,170000,TR9 6AP,F,N,L,The Liberal Club,Flat 5,Union Square,,St Columb
+2021-08-06,241000,TR9 6TN,S,N,F,75,,Fairview Park,St Columb Road,St Columb
+2021-07-30,336000,TR9 6PJ,D,N,F,Achievement,,,Trevarren,St Columb
+2021-07-23,368000,TR9 6ND,T,N,F,Belmar,,Lower Penhale,Fraddon,St Columb
+2021-07-23,205000,TR9 6AD,T,N,L,5,,Retreat Court,,St Columb
+2021-07-12,105000,TR9 6NP,F,N,L,The Old Post Office,2,,Fraddon,St Columb
+2021-07-09,209950,TR9 6SA,S,N,F,11,,Highfield Avenue,,St Columb
+2021-07-09,250000,TR9 6HG,S,N,F,Little Meadows,,Toldish,Indian Queens,St Columb
+2021-07-09,275000,TR9 6BD,T,N,F,Rosemont,,Bridge,,St Columb
+2021-07-08,135000,TR9 6AP,F,N,L,The Liberal Club,Flat 2,Union Square,,St Columb
+2021-07-02,220000,TR9 6DE,D,N,F,Retallack Resort & Spa,45,,Winnards Perch,St Columb
+2021-06-30,265000,TR9 6QR,D,N,F,Pasadena,,,St Columb Road,St Columb
+2021-06-30,370000,TR9 6PY,D,N,F,Green Ways,,Newquay Road,St Columb Road,St Columb
+2021-06-30,327000,TR9 6PR,S,N,F,5,,Ocean View,Indian Queens,St Columb
+2021-06-30,250000,TR9 6GJ,T,Y,F,5,,Silver Birch Gardens,St Columb Road,St Columb
+2021-06-30,256000,TR9 6FE,T,N,F,59,,The Hurlings,,St Columb
+2021-06-30,275000,TR9 6FE,T,N,F,1,,The Hurlings,,St Columb
+2021-06-30,750000,TR9 6EG,D,N,F,Ponderosa,,,Talskiddy,St Columb
+2021-06-29,300000,TR9 6AR,D,N,F,23,,Union Hill,,St Columb
+2021-06-28,380000,TR9 6BY,D,N,F,Bridge Barn,,Bridge Hill,,St Columb
+2021-06-28,310000,TR9 6AD,F,N,L,22,,Retreat Court,,St Columb
+2021-06-25,270000,TR9 6FE,T,N,F,20,,The Hurlings,,St Columb
+2021-06-25,475000,TR9 6DE,D,Y,L,Retallack Resort & Spa,Plot 81 The Meadows,,Winnards Perch,St Columb
+2021-06-25,255000,TR9 6AD,F,N,L,19,,Retreat Court,,St Columb
+2021-06-24,315500,TR9 6TD,D,N,F,27,,Praze An Cronor,,St Columb
+2021-06-24,368000,TR9 6SZ,D,N,F,1,,Beech Drive,,St Columb
+2021-06-23,187000,TR9 6PD,S,N,F,61,,Kingsley Court,Fraddon,St Columb
+2021-06-23,235000,TR9 6GJ,T,Y,F,2,,Silver Birch Gardens,St Columb Road,St Columb
+2021-06-22,725000,TR9 6BY,D,N,F,Beech Tree House,,Old Rectory Drive,,St Columb
+2021-06-18,370000,TR9 6ED,D,N,F,Tansy Cottage,,,Talskiddy,St Columb
+2021-06-11,251000,TR9 6RB,S,N,F,45,,Tremear Green,St Columb Road,St Columb
+2021-06-11,218500,TR9 6NG,S,N,F,The Cottage Higher Harvenna Cottage,,Fraddon Hill,Fraddon,St Columb
+2021-06-08,280000,TR9 6HY,D,N,F,Old School House,,,Quoit,St Columb
+2021-06-07,270000,TR9 6LH,D,N,F,11,,Keast Close,Indian Queens,St Columb
+2021-06-04,473000,TR9 6JA,D,N,F,The Old Farmhouse,,,,St Columb
+2021-05-24,300000,TR9 6PY,D,N,F,Pine Cottage,,Newquay Road,St Columb Road,St Columb
+2021-05-21,340000,TR9 6RY,D,N,F,8,,Station Road,,St Columb
+2021-05-21,190000,TR9 6QT,S,N,F,Marquette,,,Indian Queens,St Columb
+2021-05-19,219950,TR9 6RD,S,N,F,4,,Carloggas Grove,,St Columb
+2021-05-17,170000,TR9 6ER,T,N,F,2,,Hanover Parc,Indian Queens,St Columb
+2021-05-14,185000,TR9 6TD,S,N,F,1,,Praze An Cronor,,St Columb
+2021-05-14,185000,TR9 6SS,D,N,F,1,,Hawkens Way,,St Columb
+2021-05-07,250000,TR9 6LP,D,N,F,Skandia,,Barton Lane,Fraddon,St Columb
+2021-05-07,245000,TR9 6GJ,T,Y,F,1,,Silver Birch Gardens,St Columb Road,St Columb
+2021-05-07,125000,TR9 6AD,F,N,L,14,,Retreat Court,,St Columb
+2021-04-30,73600,TR9 6RD,S,N,L,51,,Carloggas Grove,,St Columb
+2021-04-30,335000,TR9 6PJ,D,N,F,Rose Cottage,,,Trevarren,St Columb
+2021-04-30,212500,TR9 6LW,S,N,F,1,,Oakdene Villas,Fraddon,St Columb
+2021-04-30,265000,TR9 6FD,D,N,F,5,,Lindsay Fields,Fraddon,St Columb
+2021-04-21,425000,TR9 6EL,D,N,F,Garth,,,Tregonetha,St Columb
+2021-04-08,192000,TR9 6PD,D,N,F,77,,Kingsley Court,Fraddon,St Columb
+2021-04-07,163000,TR9 6PW,D,N,F,Lidcove,,The Drang,Indian Queens,St Columb
+2021-03-31,150000,TR9 6QE,D,N,F,Mentmore,,St Francis Road,St Columb Road,St Columb
+2021-03-30,250000,TR9 6GJ,S,Y,F,7,,Silver Birch Gardens,St Columb Road,St Columb
+2021-03-26,285000,TR9 6NQ,D,N,F,Mar-Cott,,,Higher Fraddon,St Columb
+2021-03-26,350000,TR9 6EL,S,N,F,Retallick,,,Tregonetha,St Columb
+2021-03-25,200000,TR9 6TN,S,N,F,8,,Fairview Park,St Columb Road,St Columb
+2021-03-25,272000,TR9 6HU,T,N,F,Owlan,,,Ruthvoes,St Columb
+2021-03-24,147000,TR9 6AG,T,N,F,27,,West Street,,St Columb
+2021-03-23,310000,TR9 6NH,D,N,F,Trewartha Folly,,,Higher Fraddon,St Columb
+2021-03-17,225000,TR9 6GJ,T,Y,F,3,,Silver Birch Gardens,St Columb Road,St Columb
+2021-03-15,370000,TR9 6HW,D,N,F,Ivy Cottage,,,Goss Moor,St Columb
+2021-03-12,310000,TR9 6LX,D,N,F,The White House,,My Lords Road,Fraddon,St Columb
+2021-03-12,230000,TR9 6DH,D,N,L,Meadowside Farm,Lodge 19,,Winnards Perch,St Columb
+2021-03-10,250000,TR9 6LX,S,N,F,St. Enoder View,2,My Lords Road,Fraddon,St Columb
+2021-03-09,166000,TR9 6BL,T,N,F,63,,Meadow Rise,,St Columb
+2021-03-05,143500,TR9 6ES,S,N,F,8,,Briar Mews,,St Columb
+2021-03-04,400000,TR9 6HT,S,N,F,Eretiz Barn,,,Ruthvoes,St Columb
+2021-03-01,310000,TR9 6TN,D,N,F,27,,Fairview Park,St Columb Road,St Columb
+2021-03-01,395000,TR9 6GY,D,N,F,The Manor,,Manor Drive,Fraddon,St Columb
+2021-02-26,181000,TR9 6QD,S,N,F,Sams,,St Francis Road,St Columb Road,St Columb
+2021-02-26,185000,TR9 6FE,T,N,F,17,,The Hurlings,,St Columb
+2021-02-25,176000,TR9 6RU,T,N,F,14,,South Park,,St Columb
+2021-02-25,230000,TR9 6QS,D,N,F,Ouistreham,,,Indian Queens,St Columb
+2021-02-24,170000,TR9 6QA,D,N,F,Carworgie Court,7,St Francis Road,St Columb Road,St Columb
+2021-02-23,144000,TR9 6LW,T,N,F,4,,Oakdene Villas,Fraddon,St Columb
+2021-02-22,218000,TR9 6QA,S,N,F,Carworgie Court,5,St Francis Road,St Columb Road,St Columb
+2021-02-22,200000,TR9 6GY,S,N,F,11,,Manor Drive,Fraddon,St Columb
+2021-02-17,250000,TR9 6GJ,S,Y,F,6,,Silver Birch Gardens,St Columb Road,St Columb
+2021-02-15,405000,TR9 6BB,D,N,F,"Rose Cottage, 9",,Bridge,,St Columb
+2021-02-12,381000,TR9 6SS,D,N,F,35,,Hawkens Way,,St Columb
+2021-02-12,200000,TR9 6SB,S,N,F,9,,High Cross,,St Columb
+2021-02-12,270000,TR9 6QU,D,N,F,Shangrla,,,Fraddon,St Columb
+2021-02-12,155000,TR9 6PP,S,N,F,3,,Suncrest Estate,Indian Queens,St Columb
+2021-02-12,337500,TR9 6GA,D,N,F,17,,Heather Meadow,Fraddon,St Columb
+2021-02-11,190000,TR9 6RX,T,N,F,6,,West Street,,St Columb
+2021-02-09,165000,TR9 6PH,D,N,F,Riverside,,,Trevarren,St Columb
+2021-02-08,265000,TR9 6RA,D,N,F,14,,Pocohontas Crescent,Indian Queens,St Columb
+2021-02-08,155000,TR9 6LJ,S,N,F,7,,Barnfield Terrace,Indian Queens,St Columb
+2021-02-05,200000,TR9 6TD,S,N,F,3,,Praze An Cronor,,St Columb
+2021-02-05,225000,TR9 6SZ,S,N,F,14,,Beech Drive,,St Columb
+2021-02-05,260000,TR9 6FE,T,N,F,19,,The Hurlings,,St Columb
+2021-02-05,94000,TR9 6AS,F,N,L,5,,Broad Street,,St Columb
+2021-02-03,150000,TR9 6RL,T,N,F,12,,Fair Street,,St Columb
+2021-01-29,260000,TR9 6GJ,T,Y,F,8,,Silver Birch Gardens,St Columb Road,St Columb
+2021-01-29,260000,TR9 6GJ,T,Y,F,10,,Silver Birch Gardens,St Columb Road,St Columb
+2021-01-29,241500,TR9 6BY,D,N,F,Toll House,,Bridge Hill,,St Columb
+2021-01-25,250000,TR9 6TD,D,N,F,29,,Praze An Cronor,,St Columb
+2021-01-25,340000,TR9 6SZ,D,N,F,2,,Beech Drive,,St Columb
+2021-01-22,300000,TR9 6LH,D,N,F,17,,Keast Close,Indian Queens,St Columb
+2021-01-20,222500,TR9 6FX,S,N,F,50,,Harvenna Heights,Fraddon,St Columb
+2021-01-19,245000,TR9 6LL,D,N,F,The Sheiling,,Queens Close,Indian Queens,St Columb
+2021-01-15,465000,TR9 6SR,D,N,F,1,,Jenner Parc,,St Columb
+2021-01-15,490000,TR9 6EL,D,N,F,St Kilda,,,Tregonetha,St Columb
+2021-01-13,620000,TR9 6JQ,D,N,F,Tregantle House,,,Tregatillian,St Columb

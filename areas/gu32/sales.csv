@@ -1,0 +1,863 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-19,400000,GU32 2AH,T,N,F,15,,Village Street,Sheet,Petersfield
+2026-08-07,250000,GU32 3EP,F,N,L,7,,Cremorne Place,,Petersfield
+2026-08-07,450000,GU32 3BD,S,N,F,10,,Queens Road,,Petersfield
+2026-08-07,950000,GU32 2AL,D,N,F,2,,Parsonage Close,,Petersfield
+2026-07-31,367000,GU32 3EH,T,N,F,34,,Charles Street,,Petersfield
+2026-07-31,550000,GU32 3BX,D,N,F,12,,Stoneham Close,,Petersfield
+2026-07-30,200000,GU32 3HE,F,N,L,Ashcroft Court,17,Winton Road,,Petersfield
+2026-07-30,362000,GU32 3FP,T,N,F,8,,Marsh Close,,Petersfield
+2026-07-28,700000,GU32 1LT,D,N,F,River Cottage,,Lynch Lane,West Meon,Petersfield
+2026-07-17,1225000,GU32 3LF,D,N,F,62,,Borough Road,,Petersfield
+2026-07-17,120000,GU32 3EQ,F,N,L,Lavant Court,Flat 10,Charles Street,,Petersfield
+2026-07-17,475000,GU32 2JA,D,N,F,80,,Tilmore Gardens,,Petersfield
+2026-07-14,250000,GU32 3AG,F,N,L,Castle Garden,37,Swan Street,,Petersfield
+2026-07-14,645000,GU32 2JE,D,N,F,31,,Tilmore Gardens,,Petersfield
+2026-07-09,398000,GU32 2HQ,T,N,F,8,,Bannerman Road,,Petersfield
+2026-07-07,545000,GU32 3EX,T,N,F,10,,Barham Road,,Petersfield
+2026-07-03,685000,GU32 3LT,D,N,F,6,,Nightingale Road,,Petersfield
+2026-07-03,167000,GU32 3DW,F,N,L,43,,Meon Close,,Petersfield
+2026-07-03,586000,GU32 2BN,S,N,F,Rose Cottage,,,Steep Marsh,Petersfield
+2026-07-01,482500,GU32 3AJ,T,N,F,19,,Swan Street,,Petersfield
+2026-06-29,1037500,GU32 2JP,D,N,F,1,,Monks Wood,,Petersfield
+2026-06-29,600000,GU32 2JB,T,N,F,34,,Selborne Close,,Petersfield
+2026-06-29,650000,GU32 2DE,D,N,F,81,,Church Road,Steep,Petersfield
+2026-06-26,1000000,GU32 2HU,D,N,F,6,,The Purrocks,,Petersfield
+2026-06-25,479000,GU32 3BP,S,N,F,49,,Rushes Road,,Petersfield
+2026-06-19,345000,GU32 3HP,F,N,L,King Williams Gate,Flat 2,The Square,,Petersfield
+2026-06-19,291000,GU32 2HG,S,N,F,4,,Tilmore Road,,Petersfield
+2026-06-19,820000,GU32 2EH,S,N,F,33,,Bell Hill,,Petersfield
+2026-06-15,837100,GU32 1QT,D,N,F,11,,The Green,East Meon,Petersfield
+2026-06-12,790000,GU32 1DT,D,N,F,Blue Bell Cottage,,,Froxfield,Petersfield
+2026-06-09,641000,GU32 2EY,S,N,F,19,,Oaklands Road,,Petersfield
+2026-06-05,156000,GU32 3DW,F,N,L,6,,Meon Close,,Petersfield
+2026-06-04,175000,GU32 3BF,F,N,L,"Elmor Lodge, 5",Flat 7,Charles Street,,Petersfield
+2026-06-04,950000,GU32 1JE,D,N,F,Beech House,,,West Meon,Petersfield
+2026-05-18,360000,GU32 3ET,F,N,L,64,Flat 1,Station Road,,Petersfield
+2026-05-18,485000,GU32 2HJ,T,N,F,19,,Tilmore Road,,Petersfield
+2026-05-15,112000,GU32 3DW,F,N,L,39,,Meon Close,,Petersfield
+2026-05-15,330000,GU32 3BW,T,N,F,36,,Rushes Road,,Petersfield
+2026-05-07,240000,GU32 3EQ,F,N,L,Lavant Court,Flat 41,Charles Street,,Petersfield
+2026-05-05,450000,GU32 3BW,T,N,F,44,,Rushes Road,,Petersfield
+2026-04-24,485000,GU32 2AE,T,N,F,4,,Osborne Road,,Petersfield
+2026-04-13,290000,GU32 3LD,T,N,F,4,,Borough Road,,Petersfield
+2026-04-07,605000,GU32 2HJ,T,N,F,17,,Tilmore Road,,Petersfield
+2026-03-31,285000,GU32 3NB,F,N,L,74,,Cranford Road,,Petersfield
+2026-03-31,195000,GU32 2AA,T,N,F,16,,Sandringham Road,,Petersfield
+2026-03-27,275000,GU32 3JH,F,N,L,St Peters Court,Flat 25,Hylton Road,,Petersfield
+2026-03-27,425000,GU32 3BH,S,N,F,43,,Princes Road,,Petersfield
+2026-03-20,1200000,GU32 1RU,D,N,F,Butser House,,,Ramsdean,Petersfield
+2026-03-19,900000,GU32 2JD,D,N,F,26,,Monks Orchard,,Petersfield
+2026-03-10,585000,GU32 3BX,D,N,F,21,,Stoneham Close,,Petersfield
+2026-03-04,192000,GU32 2AX,F,N,L,"Britnell House, 1",Flat 15,North Road,,Petersfield
+2026-02-27,775000,GU32 2EG,D,N,F,22,,Buckmore Avenue,,Petersfield
+2026-02-26,695000,GU32 3BP,D,N,F,63,,Rushes Road,,Petersfield
+2026-02-26,497500,GU32 2AE,T,N,F,28,,Osborne Road,,Petersfield
+2026-02-26,659000,GU32 1QF,T,N,F,2,,Templars Cottages,East Meon,Petersfield
+2026-02-23,140000,GU32 3JH,F,N,L,St Peters Court,Flat 4,Hylton Road,,Petersfield
+2026-02-13,82500,GU32 3EQ,F,N,L,Lavant Court,Flat 26,Charles Street,,Petersfield
+2026-02-12,1070000,GU32 1NW,D,N,F,Cross House,,High Street,East Meon,Petersfield
+2026-02-11,370000,GU32 3BE,S,N,F,34,,Queens Road,,Petersfield
+2026-02-06,1100000,GU32 3PP,D,N,F,7,,North Stroud Lane,,Petersfield
+2026-02-06,440000,GU32 2EN,T,N,F,24,,Penns Road,,Petersfield
+2026-01-30,545000,GU32 3PF,D,N,F,Valerian,,Finchmead Lane,,Petersfield
+2026-01-30,156897,GU32 3JP,F,N,L,Dolphin Court,1,High Street,,Petersfield
+2026-01-30,180000,GU32 3HP,F,N,L,King Williams Gate,Flat 9,The Square,,Petersfield
+2026-01-30,175000,GU32 3BF,F,N,L,"Elmor Lodge, 5",Flat 1,Charles Street,,Petersfield
+2026-01-30,685000,GU32 2EE,S,N,F,22,,Woodbury Avenue,,Petersfield
+2026-01-30,189950,GU32 1EH,F,N,L,21,,Dellfield,Froxfield,Petersfield
+2026-01-29,265000,GU32 3JH,F,N,L,St Peters Court,Flat 21,Hylton Road,,Petersfield
+2026-01-26,720000,GU32 2ED,S,N,F,5,,Woodbury Avenue,,Petersfield
+2026-01-26,500000,GU32 2AE,T,N,F,30,,Osborne Road,,Petersfield
+2026-01-23,260000,GU32 2HE,T,N,F,23,,Balmoral Way,,Petersfield
+2026-01-19,750000,GU32 2BQ,S,N,F,11,,Tanners Reach,,Petersfield
+2026-01-19,215500,GU32 2AH,T,N,F,4,,Village Street,Sheet,Petersfield
+2026-01-15,2250000,GU32 1DN,D,N,F,Laundry Cottage,,,Froxfield,Petersfield
+2026-01-12,442500,GU32 2HQ,S,N,F,2,,Bannerman Road,,Petersfield
+2026-01-07,900000,GU32 2DZ,D,N,F,9,,Bell Hill Ridge,,Petersfield
+2025-12-19,170000,GU32 3DW,F,N,L,4,,Meon Close,,Petersfield
+2025-12-19,230000,GU32 2AX,F,N,L,"Britnell House, 1",Flat 14,North Road,,Petersfield
+2025-12-17,257500,GU32 2HE,T,N,F,1,,Balmoral Way,,Petersfield
+2025-12-15,425000,GU32 3BH,S,N,F,41,,Princes Road,,Petersfield
+2025-12-12,350000,GU32 3QY,T,N,F,10,,Kings Road,,Petersfield
+2025-12-12,399950,GU32 3BE,T,N,F,88,,Queens Road,,Petersfield
+2025-12-10,765000,GU32 3LA,D,N,F,30,,The Spain,,Petersfield
+2025-12-09,2750000,GU32 3LA,D,N,F,6,,The Spain,,Petersfield
+2025-12-08,437500,GU32 3EH,T,N,F,"Lynton House, 42",,Charles Street,,Petersfield
+2025-12-05,375000,GU32 3LD,T,N,F,22,,Borough Road,,Petersfield
+2025-12-05,1650000,GU32 2BZ,D,N,F,Little Shackles,,Harrow Lane,Steep,Petersfield
+2025-12-04,500000,GU32 3PJ,S,N,F,Hazel House,,Ramsdean Road,,Petersfield
+2025-12-04,307500,GU32 3AZ,T,N,F,30,,Buckingham Road,,Petersfield
+2025-12-02,240000,GU32 3HX,F,N,L,"Canberra House, 6",Flat 4,St Peters Road,,Petersfield
+2025-11-28,138500,GU32 3QY,F,N,L,44,,Kings Road,,Petersfield
+2025-11-28,479750,GU32 2AX,T,N,F,22,,North Road,,Petersfield
+2025-11-27,176750,GU32 3DW,F,N,L,26,,Meon Close,,Petersfield
+2025-11-21,140500,GU32 3QY,F,N,L,48,,Kings Road,,Petersfield
+2025-11-20,1120000,GU32 2AL,D,N,F,4,,Parsonage Close,,Petersfield
+2025-11-14,530000,GU32 3EX,T,N,F,24,,Barham Road,,Petersfield
+2025-11-14,550000,GU32 2EH,S,N,F,5,,Bell Hill,,Petersfield
+2025-11-14,720000,GU32 2DY,D,N,F,26,,Bell Hill,,Petersfield
+2025-11-07,460000,GU32 3AW,T,N,F,11,,Frenchmans Road,,Petersfield
+2025-11-03,645000,GU32 1LD,D,N,F,Wintergreen,,Church Lane,West Meon,Petersfield
+2025-11-03,524000,GU32 1JA,S,N,F,2,,Long Priors,West Meon,Petersfield
+2025-10-29,432500,GU32 3LS,D,N,F,42,,Larcombe Road,,Petersfield
+2025-10-29,1725000,GU32 1AG,D,N,F,Stoner Lodge,,Stoner Hill,Steep,Petersfield
+2025-10-27,760000,GU32 1QT,T,N,F,"Curlew House, 21",,The Green,East Meon,Petersfield
+2025-10-24,385000,GU32 1EB,S,N,F,The Slade,2 The Stables,,Froxfield,Petersfield
+2025-10-22,190000,GU32 3EH,F,N,L,4B,,Charles Street,,Petersfield
+2025-10-17,375000,GU32 1AF,S,N,F,19,,Hays Cottages,Steep,Petersfield
+2025-10-09,800000,GU32 2JL,D,N,F,11,,Kimbers,,Petersfield
+2025-10-08,287500,GU32 3EU,F,N,L,"Town Gate, 20",Flat 2,King George Avenue,,Petersfield
+2025-10-03,1100000,GU32 3PJ,D,N,F,16,,Ramsdean Road,,Petersfield
+2025-10-01,1125000,GU32 1JZ,D,N,F,Berwyn Cottage,,,West Meon,Petersfield
+2025-09-25,200000,GU32 3EP,F,N,L,27,,Cremorne Place,,Petersfield
+2025-09-23,785000,GU32 3ES,S,N,F,32,,Station Road,,Petersfield
+2025-09-22,380000,GU32 3ND,S,N,F,110,,Borough Road,,Petersfield
+2025-09-22,205000,GU32 3AG,F,N,L,Castle Garden,43,Swan Street,,Petersfield
+2025-09-22,513000,GU32 2JG,D,N,F,42,,Stafford Road,,Petersfield
+2025-09-19,220000,GU32 2EY,S,N,F,19,,Oaklands Road,,Petersfield
+2025-09-19,4150000,GU32 1DZ,D,N,F,Wyke Green Farm,,,Froxfield,Petersfield
+2025-09-18,442000,GU32 2EN,T,N,F,5,,Penns Road,,Petersfield
+2025-09-18,557500,GU32 1DX,D,N,F,Little Barn,,Stoner Hill Road,Froxfield,Petersfield
+2025-09-17,465000,GU32 2AX,T,N,F,4,,North Road,,Petersfield
+2025-09-15,362500,GU32 3FN,S,N,L,21,,Otter Walk,,Petersfield
+2025-09-08,280000,GU32 2HE,T,N,F,6,,Balmoral Way,,Petersfield
+2025-09-02,155000,GU32 3JH,F,N,L,St Peters Court,Flat 18,Hylton Road,,Petersfield
+2025-08-29,890000,GU32 3LF,D,N,F,70A,,Borough Road,,Petersfield
+2025-08-29,725000,GU32 1AY,S,N,F,Sandpit Cottage,,Ridge Common Lane,Stroud,Petersfield
+2025-08-26,500000,GU32 3BQ,S,N,F,28,,Princes Road,,Petersfield
+2025-08-26,625000,GU32 2EH,S,N,F,11,,Bell Hill,,Petersfield
+2025-08-26,877120,GU32 2EF,D,N,F,11,,Buckmore Avenue,,Petersfield
+2025-08-26,375000,GU32 2AH,T,N,F,5,,Village Street,Sheet,Petersfield
+2025-08-22,1200000,GU32 2BJ,D,N,F,Bowyers,,,Steep Marsh,Petersfield
+2025-08-22,1100000,GU32 1AE,T,N,F,Island East,,,Steep,Petersfield
+2025-08-21,385000,GU32 1AF,S,N,F,28,,Hays Cottages,Steep,Petersfield
+2025-08-19,630000,GU32 2JG,S,N,F,52,,Stafford Road,,Petersfield
+2025-08-18,911000,GU32 2DP,D,N,F,Crees Corner,,,Steep,Petersfield
+2025-08-18,880000,GU32 1BY,D,N,F,1,,Barnet Side Cottages,Froxfield,Petersfield
+2025-08-15,450000,GU32 3LX,S,N,F,8,,Cranford Road,,Petersfield
+2025-08-15,426600,GU32 3LP,D,N,F,129,,Borough Road,,Petersfield
+2025-08-15,400000,GU32 2EX,D,N,F,16,,Lynton Road,,Petersfield
+2025-08-15,670000,GU32 2AA,T,N,F,6,,Sandringham Road,,Petersfield
+2025-08-13,400000,GU32 2AN,T,N,F,9,,Inmans Lane,Sheet,Petersfield
+2025-08-07,1250000,GU32 1HD,D,N,F,3,,Hyden Wood,East Meon,Petersfield
+2025-08-05,1250000,GU32 1AT,D,N,F,Aldersnapp Dell,,Lythe Lane,Stroud,Petersfield
+2025-08-01,495000,GU32 3ND,S,N,F,120,,Borough Road,,Petersfield
+2025-07-31,205000,GU32 3FD,F,N,L,Swan Court,8,Swan Street,,Petersfield
+2025-07-31,300000,GU32 3DL,F,N,L,Park Court,6,Park Road,,Petersfield
+2025-07-30,1770000,GU32 1HF,D,N,F,7,,Leydene Park,East Meon,Petersfield
+2025-07-28,285000,GU32 3AJ,D,N,F,29,,Swan Street,,Petersfield
+2025-07-25,430000,GU32 2DN,S,N,F,"Blenheim House, 43",,Church Road,Steep,Petersfield
+2025-07-21,316500,GU32 2AB,T,N,F,59,,Sandringham Road,,Petersfield
+2025-07-17,530000,GU32 3EU,S,N,F,10,,King George Avenue,,Petersfield
+2025-07-16,750000,GU32 3NW,D,N,F,3,,Wylds Lane,Weston,Petersfield
+2025-07-14,160000,GU32 3DZ,F,N,L,"Laureldene, 28",Flat 1,Chapel Street,,Petersfield
+2025-07-11,217500,GU32 3EP,F,N,L,21,,Cremorne Place,,Petersfield
+2025-07-11,335000,GU32 1EH,S,N,F,27,,Dellfield,Froxfield,Petersfield
+2025-07-10,900000,GU32 2JQ,S,N,F,22,,Tilmore Gardens,,Petersfield
+2025-07-09,255000,GU32 3NE,F,N,L,87A,,Grange Road,,Petersfield
+2025-07-04,1078000,GU32 2DW,S,N,F,5,,Church Road,Steep,Petersfield
+2025-07-04,750000,GU32 2BN,D,N,F,The Birches,,,Steep Marsh,Petersfield
+2025-07-03,350000,GU32 3FN,S,N,F,19,,Otter Walk,,Petersfield
+2025-07-03,420000,GU32 2AX,T,N,F,34,,North Road,,Petersfield
+2025-06-30,930500,GU32 2AF,D,N,F,1B,,Town Lane,,Petersfield
+2025-06-30,460000,GU32 1ND,S,N,F,1,,Westbury Manor Cottages,West Meon,Petersfield
+2025-06-30,1130000,GU32 1LN,D,N,F,The Old Store House,,,West Meon,Petersfield
+2025-06-27,525000,GU32 3PG,D,N,F,42,,Winchester Road,,Petersfield
+2025-06-27,440000,GU32 3FE,T,N,F,5,,Woodcroft Mews,,Petersfield
+2025-06-23,220000,GU32 3AG,F,N,L,Castle Garden,42,Swan Street,,Petersfield
+2025-06-20,850000,GU32 2JD,D,N,F,21,,Monks Orchard,,Petersfield
+2025-06-19,495000,GU32 1RF,T,N,F,3,,Tollbar Cottages,Langrish,Petersfield
+2025-06-18,687500,GU32 3ND,T,N,F,122,,Borough Road,,Petersfield
+2025-06-17,310000,GU32 3FF,F,N,L,"Polo Court, 1",Flat 12,Swan Street,,Petersfield
+2025-06-12,705000,GU32 2EX,D,N,F,17,,Lynton Road,,Petersfield
+2025-06-06,300000,GU32 3FF,F,N,L,"Polo Court, 1",Flat 9,Swan Street,,Petersfield
+2025-06-06,750000,GU32 2JF,S,N,F,15,,Stafford Road,,Petersfield
+2025-06-06,520000,GU32 2AX,T,N,F,38,,North Road,,Petersfield
+2025-06-05,360000,GU32 3FN,T,N,F,24,,Otter Walk,,Petersfield
+2025-05-29,156000,GU32 3DX,F,N,L,3B,,Lavant Mews,,Petersfield
+2025-05-29,895000,GU32 2EG,D,N,F,14,,Buckmore Avenue,,Petersfield
+2025-05-22,400000,GU32 3BT,T,N,F,9,,Stoneham Park,,Petersfield
+2025-05-16,316500,GU32 3EA,F,N,L,"Hope Cottage, 59",Flat 1,Chapel Street,,Petersfield
+2025-05-16,500000,GU32 3BQ,S,N,F,12,,Princes Road,,Petersfield
+2025-05-16,212500,GU32 3AG,F,N,L,Castle Garden,40,Swan Street,,Petersfield
+2025-05-12,465000,GU32 2AX,T,N,F,18,,North Road,,Petersfield
+2025-05-09,325000,GU32 3EP,F,N,L,14,,Cremorne Place,,Petersfield
+2025-05-08,375000,GU32 2EZ,S,N,F,6,,Oaklands Road,,Petersfield
+2025-05-02,380000,GU32 3AX,D,N,F,8,,Gloucester Close,,Petersfield
+2025-04-30,320000,GU32 2HE,T,N,F,29,,Balmoral Way,,Petersfield
+2025-04-25,305000,GU32 3PP,T,N,F,17,,North Stroud Lane,,Petersfield
+2025-04-15,2050000,GU32 1QH,D,N,F,Compton Cottage,,,East Meon,Petersfield
+2025-04-14,450000,GU32 3LT,D,N,F,7,,Nightingale Road,,Petersfield
+2025-04-10,185000,GU32 3JP,F,N,L,Dolphin Court,5,High Street,,Petersfield
+2025-03-28,500000,GU32 3NA,S,N,F,48,,Cranford Road,,Petersfield
+2025-03-28,110000,GU32 3EQ,F,N,L,Lavant Court,Flat 29,Charles Street,,Petersfield
+2025-03-28,315000,GU32 3EN,S,N,F,1,,King George Mews,,Petersfield
+2025-03-27,315000,GU32 3BU,T,N,F,3,,Beckham Lane,,Petersfield
+2025-03-27,238000,GU32 3AG,F,N,L,Castle Garden,45,Swan Street,,Petersfield
+2025-03-26,370000,GU32 3ND,S,N,F,118,,Borough Road,,Petersfield
+2025-03-26,338000,GU32 3AD,T,N,F,42,,Swan Street,,Petersfield
+2025-03-21,176000,GU32 3HP,F,N,L,King Williams Gate,Flat 9,The Square,,Petersfield
+2025-03-21,431000,GU32 3BG,S,N,F,53,,Noreuil Road,,Petersfield
+2025-03-19,470000,GU32 3AX,S,N,F,20,,Gloucester Close,,Petersfield
+2025-03-17,137500,GU32 3JH,F,N,L,St Peters Court,Flat 1,Hylton Road,,Petersfield
+2025-03-14,380000,GU32 3LP,T,N,F,165,,Borough Road,,Petersfield
+2025-03-14,180000,GU32 3JL,F,N,L,24,Flat 1,High Street,,Petersfield
+2025-03-14,245000,GU32 3HB,F,N,L,Winton Court,9,Winton Road,,Petersfield
+2025-03-14,110000,GU32 3EQ,F,N,L,Lavant Court,Flat 43,Charles Street,,Petersfield
+2025-03-14,330000,GU32 3EN,T,N,F,2,,King George Mews,,Petersfield
+2025-03-14,470000,GU32 3BX,D,N,F,31,,Stoneham Close,,Petersfield
+2025-03-14,207500,GU32 2AB,T,N,F,51,,Sandringham Road,,Petersfield
+2025-03-14,215000,GU32 2AA,S,N,L,36,,Sandringham Road,,Petersfield
+2025-03-07,155000,GU32 3JH,F,N,L,St Peters Court,Flat 30,Hylton Road,,Petersfield
+2025-03-07,190000,GU32 3HP,F,N,L,King Williams Gate,Flat 13,The Square,,Petersfield
+2025-03-07,215000,GU32 3AG,F,N,L,Castle Garden,6,Swan Street,,Petersfield
+2025-02-28,485000,GU32 3BP,S,N,F,74,,Rushes Road,,Petersfield
+2025-02-28,1640000,GU32 1DX,D,N,F,Mayhills,,Stoner Hill Road,Froxfield,Petersfield
+2025-02-24,1140000,GU32 1LG,S,N,F,Sycamore Cottage,,,West Meon,Petersfield
+2025-02-21,377500,GU32 3BG,S,N,F,47,,Noreuil Road,,Petersfield
+2025-02-19,1750000,GU32 2HX,D,N,F,Windrift,,Reservoir Lane,,Petersfield
+2025-02-18,425000,GU32 2HD,T,N,F,2,,High View,,Petersfield
+2025-02-14,682500,GU32 3ES,S,N,F,26,,Station Road,,Petersfield
+2025-02-14,270000,GU32 2HH,T,N,F,22,,Tilmore Road,,Petersfield
+2025-02-12,830000,GU32 2EF,D,N,F,5,,Buckmore Avenue,,Petersfield
+2025-01-31,309000,GU32 3AJ,T,N,F,25,,Swan Street,,Petersfield
+2025-01-30,230000,GU32 2AH,T,N,F,3,,Village Street,Sheet,Petersfield
+2025-01-29,100000,GU32 3EQ,F,N,L,Lavant Court,Flat 36,Charles Street,,Petersfield
+2025-01-28,650000,GU32 1RP,S,N,F,2,,Barrow Hill Cottages,Ramsdean,Petersfield
+2025-01-24,1237500,GU32 2AH,D,N,F,11,,Village Street,Sheet,Petersfield
+2025-01-10,560000,GU32 1QT,S,N,F,1,,The Green,East Meon,Petersfield
+2025-01-06,380000,GU32 1BE,S,N,F,Woodfield Cottages,5,Honeycritch Lane,Froxfield,Petersfield
+2025-01-03,225000,GU32 3JH,F,N,L,St Peters Court,Flat 19,Hylton Road,,Petersfield
+2024-12-18,627000,GU32 3LA,S,N,F,10,,The Spain,,Petersfield
+2024-12-17,235000,GU32 3HB,F,N,L,Winton Court,25,Winton Road,,Petersfield
+2024-12-16,800000,GU32 1LQ,D,N,F,Pond House,,,West Meon,Petersfield
+2024-12-13,272000,GU32 3AQ,T,N,F,17,,Drum Mead,,Petersfield
+2024-12-13,1000000,GU32 2JJ,D,N,F,8,,Monks Orchard,,Petersfield
+2024-12-12,183000,GU32 3DW,F,N,L,3,,Meon Close,,Petersfield
+2024-12-06,400000,GU32 3EN,D,N,F,5,,King George Mews,,Petersfield
+2024-12-06,390000,GU32 3BQ,S,N,F,27,,Princes Road,,Petersfield
+2024-12-06,950000,GU32 1BB,D,N,F,Week Green Cottage,,Cockshott Lane,Froxfield,Petersfield
+2024-12-05,440000,GU32 3BW,S,N,F,29A,,Rushes Road,,Petersfield
+2024-12-04,660000,GU32 1RB,D,N,F,Yew Tree Cottage,,,Langrish,Petersfield
+2024-11-29,425000,GU32 3LX,S,N,F,20,,Cranford Road,,Petersfield
+2024-11-28,260000,GU32 3JH,F,N,L,St Peters Court,Flat 23,Hylton Road,,Petersfield
+2024-11-28,613000,GU32 2AR,T,N,F,18,,School Lane,,Petersfield
+2024-11-26,510000,GU32 3PG,T,N,F,52,,Winchester Road,,Petersfield
+2024-11-13,275000,GU32 3QZ,T,N,F,24,,Dukes Close,,Petersfield
+2024-11-12,340000,GU32 3QE,F,N,F,6 Jolliffe Court,,Hylton Road,,Petersfield
+2024-11-12,835000,GU32 2EG,D,N,F,13,,Buckmore Avenue,,Petersfield
+2024-11-11,850000,GU32 2JF,D,N,F,25,,Stafford Road,,Petersfield
+2024-11-07,565000,GU32 3PF,D,N,F,Southleigh,,Finchmead Lane,,Petersfield
+2024-11-05,855750,GU32 1DR,D,N,F,Langmere,,,Froxfield,Petersfield
+2024-11-01,765000,GU32 2AP,D,N,F,Trelawn,,Farnham Road,Sheet,Petersfield
+2024-10-28,320000,GU32 2AB,T,N,F,31,,Sandringham Road,,Petersfield
+2024-10-28,575000,GU32 1LT,D,N,F,Lynch Hill Cottage,,Lynch Lane,West Meon,Petersfield
+2024-10-25,321000,GU32 3FN,T,N,F,6,,Otter Walk,,Petersfield
+2024-10-25,565000,GU32 2EH,S,N,F,29,,Bell Hill,,Petersfield
+2024-10-24,560000,GU32 2AG,T,N,F,Broadlands Cottages,6,Town Lane,,Petersfield
+2024-10-21,650000,GU32 1RR,S,N,F,6,,Pond Cottages,Ramsdean,Petersfield
+2024-10-18,120000,GU32 3LH,F,N,L,25,,Alderfield,,Petersfield
+2024-10-11,235000,GU32 3JP,F,N,L,Dolphin Court,1,High Street,,Petersfield
+2024-10-04,1500000,GU32 2HP,D,N,F,Tilmore Cottage,,Tilmore Road,,Petersfield
+2024-10-04,229000,GU32 2AX,F,N,L,"Britnell House, 1",Flat 9,North Road,,Petersfield
+2024-09-30,340000,GU32 3EP,F,N,L,1,,Cremorne Place,,Petersfield
+2024-09-26,530000,GU32 2HY,S,N,F,3,,Reservoir Lane,,Petersfield
+2024-09-19,225000,GU32 3AQ,S,N,F,14,,Drum Mead,,Petersfield
+2024-09-17,1570000,GU32 1ES,D,N,F,The Old Forge,,,Bordean,Petersfield
+2024-09-17,1075000,GU32 1AE,D,N,F,Sheldon House,,,Steep,Petersfield
+2024-09-16,312500,GU32 3DP,S,N,F,Oakwell Cottages,2,Chapel Street,,Petersfield
+2024-09-12,482500,GU32 1QQ,S,N,F,2,,New Cottages,East Meon,Petersfield
+2024-09-06,1150000,GU32 1NA,D,N,F,Stables,,,West Meon,Petersfield
+2024-09-05,735000,GU32 1NQ,D,Y,F,3,,Salt Hill View,East Meon,Petersfield
+2024-09-02,198000,GU32 3EP,F,N,L,10,,Cremorne Place,,Petersfield
+2024-09-02,240000,GU32 3AG,F,N,L,Castle Garden,14,Swan Street,,Petersfield
+2024-08-30,490000,GU32 3PG,T,N,F,50,,Winchester Road,,Petersfield
+2024-08-30,332000,GU32 3FN,T,N,F,4,,Otter Walk,,Petersfield
+2024-08-30,320000,GU32 2AB,T,N,F,33,,Sandringham Road,,Petersfield
+2024-08-30,660000,GU32 1AZ,D,N,F,3,,Stroud End,Stroud,Petersfield
+2024-08-28,410000,GU32 3FH,T,N,F,14,,Willis Terrace,,Petersfield
+2024-08-27,550000,GU32 3LS,D,N,F,55,,Larcombe Road,,Petersfield
+2024-08-23,258000,GU32 3EP,F,N,L,17,,Cremorne Place,,Petersfield
+2024-08-23,430000,GU32 2HD,T,N,F,1,,High View,,Petersfield
+2024-08-21,603000,GU32 3PF,D,N,F,3A,,Finchmead Lane,,Petersfield
+2024-08-19,500000,GU32 3AY,T,N,F,27,,Buckingham Road,,Petersfield
+2024-08-16,337500,GU32 3HX,T,N,F,Kings Court,4,St Peters Road,,Petersfield
+2024-08-14,299950,GU32 3HB,F,N,L,Winton Court,15,Winton Road,,Petersfield
+2024-08-12,712500,GU32 3PF,D,N,F,3,,Finchmead Lane,,Petersfield
+2024-08-08,180000,GU32 3JT,F,N,L,"Albany Chambers, 21",Flat 3,High Street,,Petersfield
+2024-08-08,325000,GU32 3BT,T,N,F,42,,Stoneham Park,,Petersfield
+2024-08-01,425000,GU32 3EZ,S,N,F,7,,Lyndum Close,,Petersfield
+2024-08-01,1000000,GU32 2DX,D,N,F,79A,,Bell Hill,,Petersfield
+2024-08-01,657500,GU32 1LS,D,N,F,Halcyon,,,West Meon,Petersfield
+2024-07-30,610000,GU32 3FX,D,N,F,Buckmore Barn,,Buckmore Lane,,Petersfield
+2024-07-30,412500,GU32 3BQ,S,N,F,9,,Princes Road,,Petersfield
+2024-07-30,680000,GU32 2JQ,S,N,F,9,,Tilmore Gardens,,Petersfield
+2024-07-26,625000,GU32 3FX,S,N,F,Brandybuck Barn,,Buckmore Lane,,Petersfield
+2024-07-25,800000,GU32 1BD,D,N,F,Woodlands Bungalow,,,Froxfield,Petersfield
+2024-07-19,505000,GU32 3PJ,T,N,F,Ash House,,Ramsdean Road,,Petersfield
+2024-07-19,655000,GU32 3EH,T,N,F,6,,Charles Street,,Petersfield
+2024-07-18,480000,GU32 3BH,S,N,F,39,,Princes Road,,Petersfield
+2024-07-18,430000,GU32 3AX,S,N,F,25,,Gloucester Close,,Petersfield
+2024-07-17,298000,GU32 3FD,F,N,L,Swan Court,9,Swan Street,,Petersfield
+2024-07-12,277000,GU32 3PS,T,N,F,5,,Willowdale Close,,Petersfield
+2024-07-12,708000,GU32 2AN,S,N,F,33,,Inmans Lane,Sheet,Petersfield
+2024-07-10,683400,GU32 2JG,D,N,F,30,,Stafford Road,,Petersfield
+2024-07-10,475000,GU32 2EN,T,N,F,17,,Penns Road,,Petersfield
+2024-07-09,228000,GU32 3AD,F,N,L,"Swan House, 2",Apartment 2,Swan Street,,Petersfield
+2024-07-01,690000,GU32 2AS,S,N,F,12,,School Lane,,Petersfield
+2024-06-28,255000,GU32 3AG,F,N,L,Castle Garden,38,Swan Street,,Petersfield
+2024-06-28,535000,GU32 2EH,S,N,F,39,,Bell Hill,,Petersfield
+2024-06-27,455000,GU32 3BG,S,N,F,33,,Noreuil Road,,Petersfield
+2024-06-12,430000,GU32 2BL,S,N,F,Silverdale,,,Steep Marsh,Petersfield
+2024-06-07,400000,GU32 3EH,T,N,F,20,,Charles Street,,Petersfield
+2024-06-07,975000,GU32 2DZ,D,N,F,2,,Bell Hill Ridge,,Petersfield
+2024-06-05,450000,GU32 3BG,S,N,F,55,,Noreuil Road,,Petersfield
+2024-06-05,890000,GU32 2ED,S,N,F,13,,Woodbury Avenue,,Petersfield
+2024-05-30,225000,GU32 3NX,F,N,L,Brookfield,Flat 1,Borough Road,,Petersfield
+2024-05-29,381500,GU32 1NG,S,Y,F,5,,Windwhistle Rise,East Meon,Petersfield
+2024-05-24,200000,GU32 3EP,F,N,L,30,,Cremorne Place,,Petersfield
+2024-05-24,240000,GU32 3AG,F,N,L,Castle Garden,47,Swan Street,,Petersfield
+2024-05-17,675000,GU32 1PB,S,N,F,Garston Farm Cottages,2,Coombe Road,East Meon,Petersfield
+2024-05-10,500000,GU32 3AZ,D,N,F,16,,Buckingham Road,,Petersfield
+2024-05-08,660000,GU32 3BW,T,N,F,12,,Rushes Road,,Petersfield
+2024-05-03,720000,GU32 3PP,S,N,F,11,,North Stroud Lane,,Petersfield
+2024-05-03,200000,GU32 3DW,T,N,L,28,,Meon Close,,Petersfield
+2024-04-26,245000,GU32 3HB,F,N,L,Winton Court,8,Winton Road,,Petersfield
+2024-04-26,480000,GU32 3EX,T,N,F,8,,Barham Road,,Petersfield
+2024-04-26,235000,GU32 3EQ,F,N,L,Lavant Court,Flat 41,Charles Street,,Petersfield
+2024-04-26,322500,GU32 3AZ,S,N,F,40,,Buckingham Road,,Petersfield
+2024-04-25,464000,GU32 2AX,T,N,F,20,,North Road,,Petersfield
+2024-04-19,902230,GU32 2HX,D,N,F,St Davids,,Reservoir Lane,,Petersfield
+2024-04-16,977000,GU32 2ED,D,N,F,53,,Woodbury Avenue,,Petersfield
+2024-04-12,200000,GU32 3EP,F,N,L,23,,Cremorne Place,,Petersfield
+2024-04-12,476000,GU32 3BW,S,N,F,16,,Rushes Road,,Petersfield
+2024-04-12,3350000,GU32 1AB,D,N,F,The Waterhouse,,,Steep,Petersfield
+2024-04-05,265000,GU32 3HB,F,N,L,Winton Court,4,Winton Road,,Petersfield
+2024-04-05,530000,GU32 3FS,S,N,F,10,,Stroudfields,,Petersfield
+2024-04-05,120000,GU32 3EQ,F,N,L,Lavant Court,Flat 11,Charles Street,,Petersfield
+2024-04-05,572500,GU32 3EH,D,N,F,3,,Charles Street,,Petersfield
+2024-03-28,110000,GU32 3EQ,F,N,L,Lavant Court,Flat 10,Charles Street,,Petersfield
+2024-03-27,330000,GU32 3EP,F,N,L,4,,Cremorne Place,,Petersfield
+2024-03-27,430000,GU32 1NQ,S,Y,F,2,,Salt Hill View,East Meon,Petersfield
+2024-03-27,530000,GU32 1NG,S,Y,F,8,,Windwhistle Rise,East Meon,Petersfield
+2024-03-27,540000,GU32 1NG,S,Y,F,7,,Windwhistle Rise,East Meon,Petersfield
+2024-03-26,155000,GU32 3DW,F,N,L,24,,Meon Close,,Petersfield
+2024-03-26,350000,GU32 3BE,T,N,F,54,,Queens Road,,Petersfield
+2024-03-25,925000,GU32 1JY,D,N,F,Stoney Dean Farm,,,West Meon,Petersfield
+2024-03-25,457500,GU32 1AB,D,N,L,6,,Ashford Chace,Steep,Petersfield
+2024-03-20,623500,GU32 1LW,S,N,F,4,,Doctors Lane,West Meon,Petersfield
+2024-03-20,1000000,GU32 1LR,D,N,F,The Old Coach House,,Doctors Lane,West Meon,Petersfield
+2024-03-20,1534500,GU32 1HS,D,N,F,Bolt House,,Love Lane,West Meon,Petersfield
+2024-03-19,249500,GU32 3AG,F,N,L,Castle Garden,7,Swan Street,,Petersfield
+2024-03-18,180000,GU32 3EP,F,N,L,22,,Cremorne Place,,Petersfield
+2024-03-18,790000,GU32 2EH,S,N,F,25,,Bell Hill,,Petersfield
+2024-03-15,290000,GU32 3QJ,T,N,F,24,,Rowlands Square,,Petersfield
+2024-03-08,292000,GU32 2AA,T,N,F,22,,Sandringham Road,,Petersfield
+2024-03-07,485000,GU32 1QA,T,N,F,Bakehouse Cottage,,High Street,East Meon,Petersfield
+2024-03-07,535000,GU32 1PE,D,N,F,2,,Chidden Close,East Meon,Petersfield
+2024-03-04,850000,GU32 2EZ,D,N,F,32,,Oaklands Road,,Petersfield
+2024-03-01,790000,GU32 2JD,D,N,F,30,,Monks Orchard,,Petersfield
+2024-03-01,550000,GU32 2AG,T,N,F,Broadlands Cottages,5,Town Lane,,Petersfield
+2024-02-28,274500,GU32 3JX,T,N,F,10,,Sheep Street,,Petersfield
+2024-02-21,980000,GU32 2HU,D,N,F,6,,The Purrocks,,Petersfield
+2024-02-20,630000,GU32 1AG,D,N,F,Easter Cottage,,Stoner Hill,Steep,Petersfield
+2024-02-13,375000,GU32 3BX,S,N,F,7,,Stoneham Close,,Petersfield
+2024-02-13,550000,GU32 2JB,T,N,F,25,,Selborne Close,,Petersfield
+2024-02-09,450000,GU32 3BW,T,N,F,11,,Rushes Road,,Petersfield
+2024-02-08,493000,GU32 3BX,D,N,F,34,,Stoneham Close,,Petersfield
+2024-02-08,1100000,GU32 1HF,F,N,L,15,,Leydene Park,East Meon,Petersfield
+2024-01-29,350000,GU32 1ND,D,N,F,2,,Westbury Manor Cottages,West Meon,Petersfield
+2024-01-26,1225000,GU32 3NJ,D,N,F,Maple Durham House,,Mapledurham Lane,Weston,Petersfield
+2024-01-26,440000,GU32 3BP,T,N,F,59,,Rushes Road,,Petersfield
+2024-01-25,1300000,GU32 3PN,D,N,F,29,,Winchester Road,,Petersfield
+2024-01-24,249950,GU32 3NB,F,N,L,92,,Cranford Road,,Petersfield
+2024-01-24,422750,GU32 3JX,T,N,F,12,,Sheep Street,,Petersfield
+2024-01-24,460000,GU32 2EN,S,N,F,35,,Penns Road,,Petersfield
+2024-01-19,228000,GU32 2AB,F,N,L,81,,Sandringham Road,,Petersfield
+2024-01-18,517500,GU32 3AJ,T,N,F,19,,Swan Street,,Petersfield
+2024-01-12,942500,GU32 2EB,D,N,F,54,,Woodbury Avenue,,Petersfield
+2024-01-12,535000,GU32 1QT,S,N,F,5,,The Green,East Meon,Petersfield
+2024-01-12,381500,GU32 1NG,S,Y,F,6,,Windwhistle Rise,East Meon,Petersfield
+2024-01-10,416000,GU32 2AX,T,N,F,14,,North Road,,Petersfield
+2024-01-09,807500,GU32 1NR,D,N,F,Garnet,,Chapel Street,East Meon,Petersfield
+2024-01-09,747233,GU32 1NQ,S,Y,F,1,,Salt Hill View,East Meon,Petersfield
+2024-01-04,390000,GU32 3NE,S,N,F,52,,Grange Road,,Petersfield
+2023-12-26,430500,GU32 3ER,D,N,F,41,,Windsor Road,,Petersfield
+2023-12-20,95000,GU32 3DW,F,N,L,35,,Meon Close,,Petersfield
+2023-12-18,882000,GU32 3DZ,D,N,F,26,,Chapel Street,,Petersfield
+2023-12-15,367500,GU32 2BB,T,N,F,19,,Burntash Cottages,Steep Marsh,Petersfield
+2023-12-15,1025000,GU32 1HF,F,N,L,11,,Leydene Park,East Meon,Petersfield
+2023-12-08,430000,GU32 2AS,D,N,F,13A,,School Lane,,Petersfield
+2023-12-01,518000,GU32 2HY,S,N,F,15,,Reservoir Lane,,Petersfield
+2023-11-30,196000,GU32 3EP,T,N,L,11,,Cremorne Place,,Petersfield
+2023-11-30,685000,GU32 3EH,D,N,F,1,,Charles Street,,Petersfield
+2023-11-22,310750,GU32 3AS,S,N,F,96,,Rushes Road,,Petersfield
+2023-11-21,350000,GU32 3NA,S,N,F,38,,Cranford Road,,Petersfield
+2023-11-17,868700,GU32 2ED,S,N,F,1,,Woodbury Avenue,,Petersfield
+2023-11-16,875000,GU32 2ED,D,N,F,45,,Woodbury Avenue,,Petersfield
+2023-11-16,1200000,GU32 2BL,D,N,F,The Oaks,,,Steep Marsh,Petersfield
+2023-11-14,565000,GU32 1HL,D,N,F,4,,Anvil Close,East Meon,Petersfield
+2023-11-06,825000,GU32 2JF,D,N,F,7,,Stafford Road,,Petersfield
+2023-10-31,400000,GU32 2AX,T,N,F,38,,North Road,,Petersfield
+2023-10-27,1250000,GU32 1DS,D,N,F,Kings Cottage,,,Froxfield,Petersfield
+2023-10-24,925000,GU32 1AW,D,N,F,Forge Cottage,,Ridge Common Lane,Steep,Petersfield
+2023-10-19,360000,GU32 3AQ,T,N,F,26,,Drum Mead,,Petersfield
+2023-10-16,505000,GU32 3BQ,S,N,F,35,,Princes Road,,Petersfield
+2023-10-16,305450,GU32 3BH,S,N,F,59,,Princes Road,,Petersfield
+2023-10-05,332500,GU32 3LS,S,N,F,48,,Larcombe Road,,Petersfield
+2023-09-27,725000,GU32 2JL,D,N,F,5,,Kimbers,,Petersfield
+2023-09-27,585000,GU32 2AD,S,N,F,5,,Woolner Avenue,,Petersfield
+2023-09-26,285000,GU32 3EW,F,N,L,2,Flat,Lavant Street,,Petersfield
+2023-09-26,480000,GU32 2AS,S,N,F,6,,School Lane,,Petersfield
+2023-09-22,500000,GU32 1NR,D,N,F,Chewton,,Chapel Street,East Meon,Petersfield
+2023-09-18,1050000,GU32 2EA,D,N,F,75,,Bell Hill,,Petersfield
+2023-09-15,847500,GU32 3PJ,S,N,F,Avondale,,Ramsdean Road,,Petersfield
+2023-09-12,289000,GU32 3JH,F,N,L,St Peters Court,Flat 25,Hylton Road,,Petersfield
+2023-09-11,515000,GU32 3EX,T,N,F,16,,Barham Road,,Petersfield
+2023-09-08,205500,GU32 3DL,F,N,L,Park Court,4,Park Road,,Petersfield
+2023-09-07,1000000,GU32 1NN,D,N,F,Cross Cottages,,The Cross,East Meon,Petersfield
+2023-09-01,170000,GU32 3DX,F,N,L,3B,,Lavant Mews,,Petersfield
+2023-09-01,195000,GU32 3DX,F,N,L,3A,,Lavant Mews,,Petersfield
+2023-08-30,387000,GU32 3FN,D,N,F,37,,Otter Walk,,Petersfield
+2023-08-29,440000,GU32 3LF,S,N,F,92,,Borough Road,,Petersfield
+2023-08-25,285000,GU32 3QY,T,N,F,4,,Kings Road,,Petersfield
+2023-08-23,1650000,GU32 1DP,D,N,F,High Grove,,,Froxfield,Petersfield
+2023-08-23,670000,GU32 1BH,T,N,F,"Fennec Cottage, 1",,Trooper Bottom,Froxfield,Petersfield
+2023-08-18,268000,GU32 1QF,T,N,F,1,,Templars Cottages,East Meon,Petersfield
+2023-08-16,570000,GU32 2AX,T,N,F,42,,North Road,,Petersfield
+2023-08-15,655000,GU32 3PF,D,N,F,5,,Finchmead Lane,,Petersfield
+2023-08-11,650000,GU32 1AF,S,N,F,17,,Hays Cottages,Steep,Petersfield
+2023-08-04,617000,GU32 3PP,S,N,F,6,,North Stroud Lane,,Petersfield
+2023-08-04,430000,GU32 3BW,T,N,F,54,,Rushes Road,,Petersfield
+2023-08-03,160000,GU32 3QY,F,N,L,56,,Kings Road,,Petersfield
+2023-08-01,136492,GU32 3AQ,F,N,L,34,,Drum Mead,,Petersfield
+2023-07-31,350000,GU32 3DZ,T,N,F,18B,,Chapel Street,,Petersfield
+2023-07-25,232000,GU32 3AG,F,N,L,Castle Garden,46,Swan Street,,Petersfield
+2023-07-24,107500,GU32 3DW,F,N,L,51,,Meon Close,,Petersfield
+2023-07-24,1635000,GU32 2DL,D,N,F,Bushy Hill,The Lodge,,Steep,Petersfield
+2023-07-21,417500,GU32 3LG,T,N,F,32,,The Mead,,Petersfield
+2023-07-21,405000,GU32 3LG,T,N,F,26,,The Mead,,Petersfield
+2023-07-21,650000,GU32 2AU,D,N,F,Myowal,,Kingsfernsden Lane,,Petersfield
+2023-07-20,295000,GU32 3BT,T,N,F,12,,Stoneham Park,,Petersfield
+2023-07-20,1777000,GU32 1BB,D,N,F,Lupton Cottage,,Cockshott Lane,Froxfield,Petersfield
+2023-07-14,155000,GU32 3DW,F,N,L,15,,Meon Close,,Petersfield
+2023-07-14,249000,GU32 3AG,F,N,L,Castle Garden,25,Swan Street,,Petersfield
+2023-07-14,1297000,GU32 2HW,D,N,F,63,,Tilmore Road,,Petersfield
+2023-07-14,5000000,GU32 1HY,D,N,F,Westbury House Nursing Home,,,West Meon,Petersfield
+2023-07-13,270000,GU32 3NX,F,N,L,Brookfield,Flat 7,Borough Road,,Petersfield
+2023-07-13,355000,GU32 3LX,S,N,F,16,,Cranford Road,,Petersfield
+2023-07-13,2000000,GU32 1AG,D,N,F,Springfield Rise,,Stoner Hill,Steep,Petersfield
+2023-07-10,380000,GU32 2HY,S,N,F,13,,Reservoir Lane,,Petersfield
+2023-06-30,190000,GU32 2AB,T,N,F,57,,Sandringham Road,,Petersfield
+2023-06-28,167000,GU32 3DG,F,N,L,4,,Garden Mews,,Petersfield
+2023-06-26,170000,GU32 3EQ,F,N,L,Lavant Court,Flat 44,Charles Street,,Petersfield
+2023-06-26,1300000,GU32 2DA,D,N,F,Whytton,,,Steep,Petersfield
+2023-06-22,735000,GU32 2AN,S,N,F,31,,Inmans Lane,Sheet,Petersfield
+2023-06-22,610000,GU32 2AF,S,N,F,41,,Town Lane,,Petersfield
+2023-05-31,87000,GU32 3EQ,F,N,L,Lavant Court,Flat 30,Charles Street,,Petersfield
+2023-05-26,680000,GU32 3EU,S,N,F,18,,King George Avenue,,Petersfield
+2023-05-26,430000,GU32 1QG,T,N,F,Eames Cottages,4,,East Meon,Petersfield
+2023-05-25,410000,GU32 2EN,S,N,F,29,,Penns Road,,Petersfield
+2023-05-23,690000,GU32 3PJ,D,N,F,"Primrose Cottage, 7",,Ramsdean Road,,Petersfield
+2023-05-19,782500,GU32 2HA,D,N,F,12,,Stanton Road,,Petersfield
+2023-05-12,200000,GU32 3QZ,F,N,L,38,,Dukes Close,,Petersfield
+2023-05-12,363750,GU32 3JX,T,N,F,18,,Sheep Street,,Petersfield
+2023-05-11,440000,GU32 2AE,T,N,F,15,,Osborne Road,,Petersfield
+2023-04-27,1015000,GU32 2BJ,D,N,F,Gardners Farm House,,,Steep Marsh,Petersfield
+2023-04-25,780000,GU32 2EX,D,N,F,24,,Lynton Road,,Petersfield
+2023-04-25,1200000,GU32 1JB,D,N,F,Hillview,,Church Lane,West Meon,Petersfield
+2023-04-12,575000,GU32 2HJ,T,N,F,23,,Tilmore Road,,Petersfield
+2023-04-05,425000,GU32 3NF,S,N,F,1,,Borough Grove,,Petersfield
+2023-04-05,215000,GU32 3JH,F,N,L,St Peters Court,Flat 12,Hylton Road,,Petersfield
+2023-04-03,435000,GU32 1LN,T,N,F,3,,Park View,West Meon,Petersfield
+2023-03-31,308000,GU32 3AQ,T,N,F,15,,Drum Mead,,Petersfield
+2023-03-29,1480000,GU32 1HF,D,N,F,19,,Leydene Park,East Meon,Petersfield
+2023-03-27,335000,GU32 3AQ,T,N,F,63,,Drum Mead,,Petersfield
+2023-03-23,300000,GU32 3FD,F,N,L,Swan Court,5,Swan Street,,Petersfield
+2023-03-17,220000,GU32 3QY,T,N,F,33,,Kings Road,,Petersfield
+2023-03-15,379000,GU32 3LX,S,N,F,20,,Cranford Road,,Petersfield
+2023-03-10,85000,GU32 3EQ,F,N,L,Lavant Court,Flat 36,Charles Street,,Petersfield
+2023-03-10,172000,GU32 3DW,F,N,L,26,,Meon Close,,Petersfield
+2023-03-10,760000,GU32 1BZ,D,N,F,Hillview,,,Froxfield,Petersfield
+2023-03-09,450000,GU32 1QA,T,N,F,Parsons Cottage,,High Street,East Meon,Petersfield
+2023-03-06,440000,GU32 3FH,T,N,F,12,,Willis Terrace,,Petersfield
+2023-03-06,850000,GU32 2JD,D,N,F,35,,Monks Orchard,,Petersfield
+2023-03-06,600000,GU32 2JB,T,N,F,49,,Selborne Close,,Petersfield
+2023-03-03,200000,GU32 2AB,F,N,L,83,,Sandringham Road,,Petersfield
+2023-02-21,480000,GU32 1QA,S,N,F,11,,High Street,East Meon,Petersfield
+2023-02-17,1000000,GU32 2JJ,D,N,F,5,,Monks Orchard,,Petersfield
+2023-02-09,520000,GU32 3EU,S,N,F,6,,King George Avenue,,Petersfield
+2023-02-03,180000,GU32 3DW,F,N,L,13,,Meon Close,,Petersfield
+2023-01-31,690000,GU32 1FA,D,Y,F,5,,Northfields,West Meon,Petersfield
+2023-01-25,605000,GU32 2AS,S,N,F,5,,School Lane,,Petersfield
+2023-01-23,737000,GU32 3PL,D,N,F,"The Old Post Office, 58",,Winchester Road,,Petersfield
+2023-01-20,480000,GU32 2AN,T,N,F,13,,Inmans Lane,Sheet,Petersfield
+2023-01-06,680000,GU32 2EE,S,N,F,24,,Woodbury Avenue,,Petersfield
+2023-01-05,335000,GU32 3EP,F,N,L,26,,Cremorne Place,,Petersfield
+2022-12-21,290000,GU32 3EA,F,N,L,"Hope Cottage, 59",Flat 2,Chapel Street,,Petersfield
+2022-12-20,225000,GU32 3QY,F,N,L,11,,Kings Road,,Petersfield
+2022-12-20,112500,GU32 3DW,F,N,L,36,,Meon Close,,Petersfield
+2022-12-20,320000,GU32 3AQ,T,N,F,24,,Drum Mead,,Petersfield
+2022-12-16,350000,GU32 1NW,S,N,F,Riverbank,,High Street,East Meon,Petersfield
+2022-12-16,825000,GU32 1FA,D,Y,F,8,,Northfields,West Meon,Petersfield
+2022-12-16,825000,GU32 1FA,D,Y,F,7,,Northfields,West Meon,Petersfield
+2022-12-15,175000,GU32 3QZ,F,N,L,8,,Dukes Close,,Petersfield
+2022-12-15,484000,GU32 2AS,S,N,F,1,,School Lane,,Petersfield
+2022-12-14,1850000,GU32 1HF,D,N,F,7,,Leydene Park,East Meon,Petersfield
+2022-12-13,305000,GU32 2HE,T,N,F,28,,Balmoral Way,,Petersfield
+2022-12-12,720000,GU32 1FA,D,Y,F,6,,Northfields,West Meon,Petersfield
+2022-12-09,175000,GU32 3EJ,F,N,L,"Byron Court, 7",Flat 1,Charles Street,,Petersfield
+2022-12-09,1200000,GU32 1PF,D,N,F,Eadens Wedge,,Workhouse Lane,East Meon,Petersfield
+2022-12-07,475000,GU32 2AX,T,N,F,28,,North Road,,Petersfield
+2022-12-05,122000,GU32 3DW,F,N,L,34,,Meon Close,,Petersfield
+2022-12-02,153000,GU32 3LH,F,N,L,22,,Alderfield,,Petersfield
+2022-12-02,331000,GU32 2HE,S,N,F,3,,Balmoral Way,,Petersfield
+2022-12-02,567000,GU32 1FA,S,Y,F,9,,Northfields,West Meon,Petersfield
+2022-11-30,460000,GU32 3LQ,T,N,F,17,,Borough Hill,,Petersfield
+2022-11-30,1775800,GU32 1RQ,D,N,F,Church Farm,,,Langrish,Petersfield
+2022-11-30,567000,GU32 1FA,S,Y,F,10,,Northfields,West Meon,Petersfield
+2022-11-30,1561000,GU32 1AE,D,N,F,Rising Ridge,,,Steep,Petersfield
+2022-11-24,295000,GU32 3AG,F,N,L,Castle Garden,22,Swan Street,,Petersfield
+2022-11-24,590000,GU32 2EN,T,N,F,21,,Penns Road,,Petersfield
+2022-11-18,107000,GU32 3EQ,F,N,L,Lavant Court,Flat 38,Charles Street,,Petersfield
+2022-11-18,1701600,GU32 1QY,D,N,F,The Old Vicarage,,,Langrish,Petersfield
+2022-11-11,300000,GU32 3NB,F,N,L,90A,,Cranford Road,,Petersfield
+2022-11-11,856000,GU32 2AA,T,N,F,2,,Sandringham Road,,Petersfield
+2022-11-11,525000,GU32 1PY,S,N,F,14,,Glenthorne Meadow,East Meon,Petersfield
+2022-10-31,200000,GU32 3JP,F,N,L,Dolphin Court,14,High Street,,Petersfield
+2022-10-31,286000,GU32 3JH,F,N,L,St Peters Court,Flat 29,Hylton Road,,Petersfield
+2022-10-31,323376,GU32 2HH,T,N,F,14,,Tilmore Road,,Petersfield
+2022-10-31,440000,GU32 1QG,T,N,F,Eames Cottages,5,,East Meon,Petersfield
+2022-10-28,315000,GU32 3PP,T,N,F,3,,North Stroud Lane,,Petersfield
+2022-10-27,1000000,GU32 1EX,D,N,F,Pond House,,,East Meon,Petersfield
+2022-10-25,1211000,GU32 1QA,D,N,F,Hockley Cottage,,High Street,East Meon,Petersfield
+2022-10-21,625000,GU32 3AX,S,N,F,7,,Gloucester Close,,Petersfield
+2022-10-21,801000,GU32 2EH,S,N,F,45,,Bell Hill,,Petersfield
+2022-10-21,550000,GU32 1JF,D,N,F,New House,,,West Meon,Petersfield
+2022-10-20,475000,GU32 3LT,D,N,F,3,,Nightingale Road,,Petersfield
+2022-10-17,1275000,GU32 2DY,D,N,F,18,,Bell Hill,,Petersfield
+2022-10-14,837500,GU32 3EU,D,N,F,1A,,King George Avenue,,Petersfield
+2022-10-03,392000,GU32 1NS,D,N,F,Highcroft,,Hill View,East Meon,Petersfield
+2022-09-30,295000,GU32 3HB,F,N,L,Winton Court,27,Winton Road,,Petersfield
+2022-09-30,860000,GU32 2DY,D,N,F,14A,,Bell Hill,,Petersfield
+2022-09-30,290000,GU32 2AG,T,N,F,Broadlands Cottages,3,Town Lane,,Petersfield
+2022-09-23,125000,GU32 3EQ,F,N,L,Lavant Court,Flat 28,Charles Street,,Petersfield
+2022-09-21,210000,GU32 3AQ,F,N,L,55,,Drum Mead,,Petersfield
+2022-09-21,985000,GU32 2DY,D,N,F,Buckmore Cottage,,Bell Hill,,Petersfield
+2022-09-21,500000,GU32 2BW,S,N,F,1,,Nine Acres,Steep Marsh,Petersfield
+2022-09-20,325000,GU32 3LD,T,N,F,28,,Borough Road,,Petersfield
+2022-09-16,325000,GU32 3HP,F,N,L,King Williams Gate,Flat 10,The Square,,Petersfield
+2022-09-15,120000,GU32 3EQ,F,N,L,Lavant Court,Flat 21,Charles Street,,Petersfield
+2022-09-15,425000,GU32 1RH,S,N,F,12,,The Close,Langrish,Petersfield
+2022-09-14,330000,GU32 3YR,T,N,F,8,,York Close,,Petersfield
+2022-09-09,285000,GU32 3AD,F,N,L,"Swan House, 2",Apartment 1,Swan Street,,Petersfield
+2022-09-09,705000,GU32 2JL,D,N,F,32,,Kimbers,,Petersfield
+2022-09-09,425000,GU32 2EN,T,N,F,24,,Penns Road,,Petersfield
+2022-09-09,615000,GU32 2EH,S,N,F,1,,Bell Hill,,Petersfield
+2022-09-09,742500,GU32 2BN,D,N,F,Middle Oast,,,Steep Marsh,Petersfield
+2022-09-07,450000,GU32 3ER,D,N,F,41,,Windsor Road,,Petersfield
+2022-09-07,625000,GU32 2BZ,D,N,F,Hillside,,Harrow Lane,Steep,Petersfield
+2022-08-31,262500,GU32 3HB,F,N,L,Winton Court,13,Winton Road,,Petersfield
+2022-08-31,250000,GU32 3DW,F,N,L,18,,Meon Close,,Petersfield
+2022-08-30,610000,GU32 3BL,S,N,F,14,,Winchester Road,,Petersfield
+2022-08-26,1160000,GU32 2BN,T,N,F,The Hop Barn,,,Steep Marsh,Petersfield
+2022-08-24,320000,GU32 3BT,T,N,F,8,,Stoneham Park,,Petersfield
+2022-08-22,430000,GU32 3AW,T,N,F,11,,Frenchmans Road,,Petersfield
+2022-08-22,610000,GU32 2BE,D,N,F,Downgate Villa,,,Steep Marsh,Petersfield
+2022-08-19,325000,GU32 3QY,T,N,F,45,,Kings Road,,Petersfield
+2022-08-19,800000,GU32 2AN,T,N,F,19,,Inmans Lane,Sheet,Petersfield
+2022-08-18,240000,GU32 2AX,F,N,L,"Britnell House, 1",Flat 14,North Road,,Petersfield
+2022-08-18,370000,GU32 1BH,T,N,F,Trooper Bottom Cottages,4,,Froxfield,Petersfield
+2022-08-15,707000,GU32 2JL,D,N,F,22,,Kimbers,,Petersfield
+2022-08-15,480500,GU32 2AE,T,N,F,32,,Osborne Road,,Petersfield
+2022-08-12,1803000,GU32 2DU,D,N,F,3,,Coxes Meadow,,Petersfield
+2022-08-11,297500,GU32 2HF,T,N,F,12,,Belverdere Place Road,,Petersfield
+2022-08-09,1048000,GU32 2HX,D,N,F,Downside,,Reservoir Lane,,Petersfield
+2022-08-05,291000,GU32 3FD,F,N,L,Swan Court,12,Swan Street,,Petersfield
+2022-08-05,450000,GU32 3BX,D,N,F,32,,Stoneham Close,,Petersfield
+2022-08-05,565000,GU32 3BU,D,N,F,Buckmore Farm,,Beckham Lane,,Petersfield
+2022-08-05,395000,GU32 3BB,T,N,F,47,,Queens Road,,Petersfield
+2022-08-05,225000,GU32 3AQ,F,N,L,41,,Drum Mead,,Petersfield
+2022-08-05,735000,GU32 1LU,S,N,F,3,,White Cottages,West Meon,Petersfield
+2022-08-04,915000,GU32 1PD,D,N,F,Donnington,,Workhouse Lane,East Meon,Petersfield
+2022-08-03,1250000,GU32 2EL,D,N,F,3,,White House Gardens,Bell Hill,Petersfield
+2022-08-03,570000,GU32 1HL,D,N,F,4,,Anvil Close,East Meon,Petersfield
+2022-08-03,1440000,GU32 1EB,D,N,F,Slade Barn,,,Froxfield,Petersfield
+2022-08-02,275000,GU32 3JH,F,N,L,St Peters Court,Flat 21,Hylton Road,,Petersfield
+2022-07-29,162500,GU32 3EH,F,N,L,46,Flat 3,Charles Street,,Petersfield
+2022-07-28,145000,GU32 3EH,F,N,L,46,Flat 7,Charles Street,,Petersfield
+2022-07-28,300000,GU32 1LF,D,N,F,The Little House,,Church Lane,West Meon,Petersfield
+2022-07-27,450000,GU32 3NE,S,N,F,93,,Grange Road,,Petersfield
+2022-07-27,775000,GU32 2DN,D,N,F,"Myrtle Cottage, 35",,Church Road,Steep,Petersfield
+2022-07-22,350000,GU32 3EP,F,N,L,12,,Cremorne Place,,Petersfield
+2022-07-21,345000,GU32 3BT,T,N,F,36,,Stoneham Park,,Petersfield
+2022-07-15,210000,GU32 2AP,S,N,F,2 Fir Tree Cottages,,Farnham Road,Sheet,Petersfield
+2022-07-15,1400000,GU32 1AG,D,N,F,Springfield Rise,,Stoner Hill,Steep,Petersfield
+2022-07-14,799950,GU32 1DR,D,N,F,Langmere,,,Froxfield,Petersfield
+2022-07-11,425000,GU32 3LD,S,N,F,38,,Borough Road,,Petersfield
+2022-07-07,320000,GU32 3BT,T,N,F,26,,Stoneham Park,,Petersfield
+2022-07-07,434000,GU32 3BG,S,N,F,57,,Noreuil Road,,Petersfield
+2022-07-06,2285000,GU32 1JG,D,N,F,Court House,,,West Meon,Petersfield
+2022-06-23,440000,GU32 3LP,S,N,F,131,,Borough Road,,Petersfield
+2022-06-17,730000,GU32 3LF,D,N,F,64,,Borough Road,,Petersfield
+2022-06-17,575000,GU32 3AY,T,N,F,27,,Buckingham Road,,Petersfield
+2022-06-13,900000,GU32 1DT,D,N,F,Blue Bell Cottage,,,Froxfield,Petersfield
+2022-06-08,450000,GU32 3EH,T,N,F,14,,Charles Street,,Petersfield
+2022-06-08,450000,GU32 2AD,S,N,F,6,,Woolner Avenue,,Petersfield
+2022-05-27,160000,GU32 3QY,F,N,L,52,,Kings Road,,Petersfield
+2022-05-27,110000,GU32 3EQ,F,N,L,Lavant Court,Flat 15,Charles Street,,Petersfield
+2022-05-18,525000,GU32 2HJ,T,N,F,21,,Tilmore Road,,Petersfield
+2022-05-06,145000,GU32 3HE,F,N,L,Ashcroft Court,3,Winton Road,,Petersfield
+2022-05-04,445000,GU32 3PL,T,N,F,66,,Winchester Road,,Petersfield
+2022-04-29,435000,GU32 3BW,T,N,F,19,,Rushes Road,,Petersfield
+2022-04-28,400000,GU32 1BY,T,N,F,2,,Barnet Side Cottages,Froxfield,Petersfield
+2022-04-14,400000,GU32 3ES,S,N,F,48,,Station Road,,Petersfield
+2022-04-14,228000,GU32 3AG,F,N,L,Castle Garden,12,Swan Street,,Petersfield
+2022-04-14,194000,GU32 2AA,T,N,L,58,,Sandringham Road,,Petersfield
+2022-04-14,1525000,GU32 1DW,D,N,F,Broadhanger,North Lodge,,Froxfield,Petersfield
+2022-04-05,155000,GU32 3BP,F,N,L,Rushes Court,Flat 3,Rushes Road,,Petersfield
+2022-04-01,500000,GU32 2HZ,D,N,F,Cedars,,Reservoir Lane,,Petersfield
+2022-03-31,415000,GU32 2HD,T,N,F,4,,High View,,Petersfield
+2022-03-31,270000,GU32 2AB,T,N,F,29,,Sandringham Road,,Petersfield
+2022-03-31,340000,GU32 1AF,S,N,F,28,,Hays Cottages,Steep,Petersfield
+2022-03-29,820000,GU32 2ED,S,N,F,25,,Woodbury Avenue,,Petersfield
+2022-03-25,2500000,GU32 1EA,D,N,F,Gownfold Farm,,,Froxfield,Petersfield
+2022-03-24,790000,GU32 2JL,D,N,F,17,,Kimbers,,Petersfield
+2022-03-24,969000,GU32 1RQ,D,N,F,Old Pitts Farm,,,Langrish,Petersfield
+2022-03-22,421810,GU32 2AN,S,N,F,27,,Inmans Lane,Sheet,Petersfield
+2022-03-17,430000,GU32 3EH,T,N,F,38,,Charles Street,,Petersfield
+2022-03-17,578000,GU32 2JF,D,N,F,23,,Stafford Road,,Petersfield
+2022-03-11,195000,GU32 2HE,T,N,F,12,,Balmoral Way,,Petersfield
+2022-03-11,1700000,GU32 1AA,S,N,F,Cherry Tree Cottage,,,Steep,Petersfield
+2022-03-07,209500,GU32 3BH,F,N,L,36,,Princes Road,,Petersfield
+2022-03-04,1500000,GU32 2DJ,D,N,F,Mill Fall,,Mill Lane,Steep,Petersfield
+2022-02-25,305000,GU32 3QZ,T,N,F,43,,Dukes Close,,Petersfield
+2022-02-25,760000,GU32 3LS,D,N,F,10,,Larcombe Road,,Petersfield
+2022-02-25,175000,GU32 3JH,F,N,L,St Peters Court,Flat 6,Hylton Road,,Petersfield
+2022-02-22,425000,GU32 2EN,T,N,F,5,,Penns Road,,Petersfield
+2022-02-22,530000,GU32 2AG,T,N,F,Broadlands Cottages,6,Town Lane,,Petersfield
+2022-02-18,480000,GU32 3LS,D,N,F,56,,Larcombe Road,,Petersfield
+2022-02-17,342500,GU32 1BH,T,N,F,Trooper Bottom Cottages,3,,Froxfield,Petersfield
+2022-02-16,310000,GU32 1EH,S,N,F,27,,Dellfield,Froxfield,Petersfield
+2022-02-04,550000,GU32 3LF,F,N,F,"Borough House, 72",Flat 3,Borough Road,,Petersfield
+2022-02-04,200000,GU32 2AX,F,N,L,"Britnell House, 1",Flat 11,North Road,,Petersfield
+2022-02-02,730000,GU32 1HL,D,N,F,3,,Anvil Close,East Meon,Petersfield
+2022-01-27,610000,GU32 1JD,S,N,F,3,,Floud Cottages,West Meon,Petersfield
+2022-01-25,282500,GU32 2HE,T,N,F,29,,Balmoral Way,,Petersfield
+2022-01-24,400000,GU32 2EN,T,N,F,39,,Penns Road,,Petersfield
+2022-01-13,590000,GU32 1NR,D,N,F,Garnet,,Chapel Street,East Meon,Petersfield
+2022-01-07,242000,GU32 3EP,F,N,L,20,,Cremorne Place,,Petersfield
+2022-01-04,375000,GU32 3BQ,S,N,F,11,,Princes Road,,Petersfield
+2021-12-20,1323945,GU32 2BP,D,N,F,Home Cottage,,,Steep Marsh,Petersfield
+2021-12-20,305000,GU32 2AH,T,N,F,1,,Village Street,Sheet,Petersfield
+2021-12-20,550000,GU32 1QB,D,N,F,Forge Sound,,High Street,East Meon,Petersfield
+2021-12-20,1695000,GU32 1LU,D,N,F,Shafts House,,,West Meon,Petersfield
+2021-12-17,282000,GU32 3NB,F,N,L,51,,Cranford Road,,Petersfield
+2021-12-17,300000,GU32 3EH,T,N,F,16,,Charles Street,,Petersfield
+2021-12-16,360000,GU32 3LX,S,N,F,9,,Cranford Road,,Petersfield
+2021-12-16,640000,GU32 3JY,S,N,F,32,,Hylton Road,,Petersfield
+2021-12-16,187500,GU32 2AA,F,N,L,46,,Sandringham Road,,Petersfield
+2021-12-15,332500,GU32 3QZ,T,N,F,16,,Dukes Close,,Petersfield
+2021-12-10,470000,GU32 3PJ,T,N,F,6,,Ramsdean Road,,Petersfield
+2021-12-10,200000,GU32 3HE,F,N,L,Ashcroft Court,10,Winton Road,,Petersfield
+2021-12-07,275000,GU32 3BF,F,N,L,"Elmor Lodge, 5",Flat 2,Charles Street,,Petersfield
+2021-12-07,285000,GU32 3BF,F,N,L,"Elmor Lodge, 5",Flat 5,Charles Street,,Petersfield
+2021-12-07,766500,GU32 2EJ,D,N,F,Oakleaf House,,Bell Hill,,Petersfield
+2021-12-03,190000,GU32 3DG,F,N,L,3,,Garden Mews,,Petersfield
+2021-12-03,296435,GU32 3AQ,T,N,F,10,,Drum Mead,,Petersfield
+2021-12-03,360000,GU32 2HD,T,N,F,2,,High View,,Petersfield
+2021-12-01,1300000,GU32 1JE,D,N,F,Church Barn,,,West Meon,Petersfield
+2021-11-30,355000,GU32 2BB,T,N,F,19,,Burntash Cottages,Steep Marsh,Petersfield
+2021-11-29,650000,GU32 2ED,S,N,F,33,,Woodbury Avenue,,Petersfield
+2021-11-26,227500,GU32 3HB,F,N,L,Winton Court,2,Winton Road,,Petersfield
+2021-11-25,160000,GU32 3QY,F,N,L,44,,Kings Road,,Petersfield
+2021-11-25,487500,GU32 2AE,T,N,F,9,,Osborne Road,,Petersfield
+2021-11-23,205000,GU32 3JH,F,N,L,St Peters Court,Flat 5,Hylton Road,,Petersfield
+2021-11-19,245000,GU32 3DW,T,N,L,7,,Meon Close,,Petersfield
+2021-11-19,1450000,GU32 1BZ,D,N,F,Barnetside,Ashford House,,Froxfield,Petersfield
+2021-11-12,280000,GU32 3NB,F,N,L,59,,Cranford Road,,Petersfield
+2021-11-12,195000,GU32 2AA,S,N,F,18,,Sandringham Road,,Petersfield
+2021-11-09,375000,GU32 3AJ,T,N,F,13,,Swan Street,,Petersfield
+2021-11-05,367000,GU32 3NA,S,N,F,45,,Cranford Road,,Petersfield
+2021-11-05,550000,GU32 3ES,S,N,F,50,,Station Road,,Petersfield
+2021-11-01,1350000,GU32 1BZ,D,N,F,Barnetside,Roundhills House,,Froxfield,Petersfield
+2021-10-29,895000,GU32 3EX,T,N,F,2,,Barham Road,,Petersfield
+2021-10-28,1062300,GU32 2EB,D,N,F,71,,Woodbury Avenue,,Petersfield
+2021-10-28,395000,GU32 1QG,T,N,F,Eames Cottages,3,,East Meon,Petersfield
+2021-10-28,1700500,GU32 1EP,T,N,F,Bordean Manor House,,,Bordean,Petersfield
+2021-10-25,162000,GU32 3JP,F,N,L,Dolphin Court,7,High Street,,Petersfield
+2021-10-25,720150,GU32 2EH,S,N,F,51,,Bell Hill,,Petersfield
+2021-10-22,275000,GU32 3HB,F,N,L,Winton Court,20,Winton Road,,Petersfield
+2021-10-22,1280000,GU32 1QJ,D,N,F,Dunvegan Cottage,,Frogmore Lane,East Meon,Petersfield
+2021-10-19,387500,GU32 3FL,S,N,F,9,,Reed Way,,Petersfield
+2021-10-14,225000,GU32 3ET,F,N,L,70,Flat 3,Station Road,,Petersfield
+2021-10-14,500000,GU32 2JB,D,N,F,22,,Selborne Close,,Petersfield
+2021-10-08,93000,GU32 3EQ,F,N,L,Lavant Court,Flat 3,Charles Street,,Petersfield
+2021-09-30,1212500,GU32 3NN,D,N,F,Trinity Barns,4,,Weston,Petersfield
+2021-09-30,382000,GU32 3JX,T,N,F,9,,Sheep Street,,Petersfield
+2021-09-30,111000,GU32 3DW,F,N,L,47,,Meon Close,,Petersfield
+2021-09-30,385000,GU32 2BB,T,N,F,20,,Burntash Cottages,Steep Marsh,Petersfield
+2021-09-30,850000,GU32 1LN,S,N,F,Weedon Cottage,,High Street,West Meon,Petersfield
+2021-09-30,425000,GU32 1JJ,T,N,F,Victoria Lodge,,Station Road,West Meon,Petersfield
+2021-09-29,515000,GU32 3JY,T,N,F,18,,Hylton Road,,Petersfield
+2021-09-28,875757,GU32 3PN,D,N,F,23,,Winchester Road,,Petersfield
+2021-09-27,205000,GU32 3AQ,F,N,L,58,,Drum Mead,,Petersfield
+2021-09-24,336000,GU32 3FP,T,N,F,10,,Marsh Close,,Petersfield
+2021-09-24,380000,GU32 3BX,D,N,F,9,,Stoneham Close,,Petersfield
+2021-09-23,279995,GU32 3PS,T,N,F,5,,Willowdale Close,,Petersfield
+2021-09-23,180000,GU32 3HZ,F,N,L,70C,Flat 2,Station Road,,Petersfield
+2021-09-21,876000,GU32 2HX,D,N,F,Badgers,,Reservoir Lane,,Petersfield
+2021-09-14,190000,GU32 2AA,F,N,L,48,,Sandringham Road,,Petersfield
+2021-09-10,300000,GU32 3FN,T,N,F,22,,Otter Walk,,Petersfield
+2021-09-09,650000,GU32 2BQ,S,N,F,10,,Tanners Reach,,Petersfield
+2021-09-06,358000,GU32 2AX,T,N,F,5,,North Road,,Petersfield
+2021-09-02,260000,GU32 3FN,S,N,L,3,,Otter Walk,,Petersfield
+2021-09-02,812500,GU32 1PU,T,N,F,Barnards Corner,,High Street,East Meon,Petersfield
+2021-08-31,365000,GU32 3LX,S,N,F,12,,Cranford Road,,Petersfield
+2021-08-31,690000,GU32 3FJ,T,N,F,5,,Riverside Mews,,Petersfield
+2021-08-31,205000,GU32 3AQ,F,N,L,33,,Drum Mead,,Petersfield
+2021-08-31,650000,GU32 2EE,S,N,F,12,,Woodbury Avenue,,Petersfield
+2021-08-27,450000,GU32 1NZ,S,N,F,1,,Coombe Road Terrace,East Meon,Petersfield
+2021-08-27,995000,GU32 1EG,S,N,F,School House,,High Cross,Froxfield,Petersfield
+2021-08-26,450000,GU32 1QB,S,N,F,Brook Cottages,2,High Street,East Meon,Petersfield
+2021-08-26,1700000,GU32 1AY,D,N,F,Grasslands,,Ridge Common Lane,Stroud,Petersfield
+2021-08-24,155000,GU32 3DW,F,N,L,23,,Meon Close,,Petersfield
+2021-08-23,360000,GU32 3FD,F,N,L,Swan Court,17,Swan Street,,Petersfield
+2021-08-23,1860000,GU32 1AE,D,N,F,Pine Court House,,,Steep,Petersfield
+2021-08-20,159000,GU32 3DW,F,N,L,43,,Meon Close,,Petersfield
+2021-08-20,205000,GU32 3DP,F,N,L,8,,Old Drum Mews,,Petersfield
+2021-08-20,475000,GU32 1NR,D,N,F,Chewton,,Chapel Street,East Meon,Petersfield
+2021-08-19,810000,GU32 1HS,D,N,F,Garden Cottage,,Love Lane,West Meon,Petersfield
+2021-08-13,396000,GU32 3BQ,S,N,F,8,,Princes Road,,Petersfield
+2021-08-13,235000,GU32 3AG,F,N,L,Castle Garden,10,Swan Street,,Petersfield
+2021-08-13,360000,GU32 2HD,T,N,F,3,,High View,,Petersfield
+2021-08-06,235000,GU32 3NX,F,N,L,Brookfield,Flat 6,Borough Road,,Petersfield
+2021-08-04,265000,GU32 2HN,S,N,F,48,,Highfield Road,,Petersfield
+2021-07-30,265000,GU32 3ET,F,N,L,64,Flat 2,Station Road,,Petersfield
+2021-07-30,482000,GU32 2AS,T,N,F,7,,School Lane,,Petersfield
+2021-07-29,410000,GU32 3AS,T,N,F,108,,Rushes Road,,Petersfield
+2021-07-26,248500,GU32 3AD,F,N,L,"Swan House, 2",Apartment 1,Swan Street,,Petersfield
+2021-07-16,300000,GU32 3FN,T,N,F,4,,Otter Walk,,Petersfield
+2021-07-16,285000,GU32 3DP,S,N,F,Oakwell Cottages,2,Chapel Street,,Petersfield
+2021-06-30,205000,GU32 3QZ,T,N,L,7,,Dukes Close,,Petersfield
+2021-06-30,305000,GU32 2HL,T,N,F,31,,Highfield Road,,Petersfield
+2021-06-30,450000,GU32 2EX,D,N,F,13,,Lynton Road,,Petersfield
+2021-06-29,285000,GU32 3EP,F,N,L,9,,Cremorne Place,,Petersfield
+2021-06-29,320000,GU32 3DA,T,N,F,4,,Winchester Road,,Petersfield
+2021-06-29,445000,GU32 3BH,S,N,F,63,,Princes Road,,Petersfield
+2021-06-29,440500,GU32 2AE,T,N,F,6,,Osborne Road,,Petersfield
+2021-06-28,585000,GU32 3PG,D,N,F,54,,Winchester Road,,Petersfield
+2021-06-28,425000,GU32 2JB,D,N,F,10,,Selborne Close,,Petersfield
+2021-06-28,1780000,GU32 2DP,D,N,F,Banks,,,Steep,Petersfield
+2021-06-28,1300000,GU32 1DX,D,N,F,The Coach House,,Stoner Hill Road,Froxfield,Petersfield
+2021-06-25,455000,GU32 3PP,S,N,F,5A,,North Stroud Lane,,Petersfield
+2021-06-25,345000,GU32 3LQ,T,N,F,21,,Borough Hill,,Petersfield
+2021-06-25,1380000,GU32 2HY,D,N,F,Windward,,Reservoir Lane,,Petersfield
+2021-06-25,1400000,GU32 2BB,D,N,F,Burntash Farm House,,,Steep Marsh,Petersfield
+2021-06-25,1165000,GU32 1NW,D,N,F,Cross House,,High Street,East Meon,Petersfield
+2021-06-25,750000,GU32 1LU,T,N,F,4,,White Cottages,West Meon,Petersfield
+2021-06-24,385000,GU32 3BQ,S,N,F,14,,Princes Road,,Petersfield
+2021-06-22,460000,GU32 3PJ,D,N,F,Pippins,,Ramsdean Road,,Petersfield
+2021-06-22,550000,GU32 3LS,D,N,F,16,,Larcombe Road,,Petersfield
+2021-06-22,122000,GU32 3EQ,F,N,L,Lavant Court,Flat 7,Charles Street,,Petersfield
+2021-06-22,800000,GU32 1BZ,D,N,F,Barnetside,The Old Barn,,Froxfield,Petersfield
+2021-06-21,185000,GU32 3EQ,F,N,L,Lavant Court,Flat 33,Charles Street,,Petersfield
+2021-06-21,980000,GU32 1AG,T,N,F,South House,,Stoner Hill,Steep,Petersfield
+2021-06-18,250000,GU32 3HJ,F,N,L,7A,The Flat,The Square,,Petersfield
+2021-06-18,415000,GU32 3AZ,D,N,F,12,,Buckingham Road,,Petersfield
+2021-06-11,576500,GU32 3DE,D,N,F,Ridgefield,,Station Road,,Petersfield
+2021-06-10,600000,GU32 1RD,S,N,F,Ridge House,,,Langrish,Petersfield
+2021-06-10,475000,GU32 1PX,S,N,F,Old Bell Cottage,2,High Street,East Meon,Petersfield
+2021-06-04,357500,GU32 2AH,T,N,F,16,,Village Street,Sheet,Petersfield
+2021-06-04,805000,GU32 1PD,D,N,F,Applebury Cottage,,Workhouse Lane,East Meon,Petersfield
+2021-06-04,520000,GU32 1NR,D,N,F,Little Laurel,,Chapel Street,East Meon,Petersfield
+2021-06-03,225000,GU32 3JH,F,N,L,St Peters Court,Flat 19,Hylton Road,,Petersfield
+2021-06-02,536000,GU32 2JB,D,N,F,57,,Selborne Close,,Petersfield
+2021-05-28,425000,GU32 3HX,S,N,F,8,,St Peters Road,,Petersfield
+2021-05-28,417500,GU32 3AS,T,N,F,110,,Rushes Road,,Petersfield
+2021-05-28,210000,GU32 3AQ,T,N,F,18,,Drum Mead,,Petersfield
+2021-05-28,378500,GU32 2AX,T,N,F,24,,North Road,,Petersfield
+2021-05-28,530000,GU32 1NR,D,N,F,Laurel Cottage,,Chapel Street,East Meon,Petersfield
+2021-05-25,2800000,GU32 1HJ,D,N,F,Coombe House,,Coombe Road,East Meon,Petersfield
+2021-05-21,800000,GU32 2DQ,D,N,F,59,,Church Road,Steep,Petersfield
+2021-05-21,520000,GU32 1QQ,D,N,F,Steeple Stones,,,East Meon,Petersfield
+2021-05-20,325000,GU32 3EU,S,N,F,18,,King George Avenue,,Petersfield
+2021-05-17,921700,GU32 1AB,F,N,L,4,,Ashford Chace,Steep,Petersfield
+2021-05-12,393000,GU32 3LQ,T,N,F,25,,Borough Hill,,Petersfield
+2021-05-11,402800,GU32 2AS,T,N,F,7,,School Lane,,Petersfield
+2021-05-07,770000,GU32 3NW,D,N,F,3,,Wylds Lane,Weston,Petersfield
+2021-05-07,237500,GU32 3JP,F,N,L,Dolphin Court,1,High Street,,Petersfield
+2021-05-06,544500,GU32 3PP,T,N,F,25,,North Stroud Lane,,Petersfield
+2021-05-06,206500,GU32 3HP,F,N,L,King Williams Gate,Flat 3,The Square,,Petersfield
+2021-05-06,373000,GU32 2EN,T,N,F,31,,Penns Road,,Petersfield
+2021-05-04,500000,GU32 3FL,D,N,F,3,,Reed Way,,Petersfield
+2021-04-30,322500,GU32 3YR,T,N,F,3,,York Close,,Petersfield
+2021-04-30,345000,GU32 3FD,F,N,L,Swan Court,3,Swan Street,,Petersfield
+2021-04-30,379000,GU32 3ER,T,N,F,3,,Windsor Road,,Petersfield
+2021-04-30,100000,GU32 3EQ,F,N,L,Lavant Court,Flat 11,Charles Street,,Petersfield
+2021-04-23,620000,GU32 2EH,S,N,F,15,,Bell Hill,,Petersfield
+2021-04-21,540000,GU32 2JB,D,N,F,29,,Selborne Close,,Petersfield
+2021-04-15,312500,GU32 3BT,T,N,F,42,,Stoneham Park,,Petersfield
+2021-04-15,410000,GU32 2EN,T,N,F,15,,Penns Road,,Petersfield
+2021-04-12,545000,GU32 2JB,T,N,F,34,,Selborne Close,,Petersfield
+2021-04-09,505000,GU32 2BW,S,N,F,4,,Nine Acres,Steep Marsh,Petersfield
+2021-04-07,692500,GU32 1LJ,D,N,F,Little Thatch,,,West Meon,Petersfield
+2021-03-31,262500,GU32 2HE,T,N,F,2,,Balmoral Way,,Petersfield
+2021-03-31,1251000,GU32 1NB,D,N,F,Coombe Down,,,West Meon,Petersfield
+2021-03-31,1150000,GU32 1HF,D,N,F,1,,Leydene Park,East Meon,Petersfield
+2021-03-29,485000,GU32 1NT,D,N,F,Church View,,Temple Lane,East Meon,Petersfield
+2021-03-26,395000,GU32 3BW,T,N,F,26,,Rushes Road,,Petersfield
+2021-03-26,210000,GU32 2AA,T,N,F,15,,Sandringham Road,,Petersfield
+2021-03-25,340000,GU32 1LX,S,N,F,1,,East End Cottages,West Meon,Petersfield
+2021-03-22,415000,GU32 1NU,S,N,F,6,,Temple Lane,East Meon,Petersfield
+2021-03-19,590000,GU32 3EX,D,N,F,1C,,Barham Road,,Petersfield
+2021-03-19,852250,GU32 2JH,D,N,F,Comenius,,Tilmore Gardens,,Petersfield
+2021-03-19,802500,GU32 2JE,D,N,F,36,,Tilmore Gardens,,Petersfield
+2021-03-19,625000,GU32 2EE,S,N,F,18,,Woodbury Avenue,,Petersfield
+2021-03-18,1425000,GU32 3NN,T,N,F,Trinity Barns,3,,Weston,Petersfield
+2021-03-18,410000,GU32 3BW,S,N,F,22,,Rushes Road,,Petersfield
+2021-03-18,422500,GU32 1AB,D,N,L,6,,Ashford Chace,Steep,Petersfield
+2021-03-15,527500,GU32 3FL,D,N,L,4,,Reed Way,,Petersfield
+2021-03-15,415000,GU32 3BQ,S,N,F,7,,Princes Road,,Petersfield
+2021-03-15,395000,GU32 1QG,T,N,F,Eames Cottages,4,,East Meon,Petersfield
+2021-03-12,264000,GU32 2HF,T,N,F,10,,Belverdere Place Road,,Petersfield
+2021-03-11,455000,GU32 3FS,S,Y,F,5,,Stroudfields,,Petersfield
+2021-03-10,435000,GU32 2AN,T,N,F,15,,Inmans Lane,Sheet,Petersfield
+2021-03-09,150000,GU32 3JH,F,N,L,St Peters Court,Flat 9,Hylton Road,,Petersfield
+2021-03-09,540000,GU32 3BU,D,N,F,2,,Beckham Lane,,Petersfield
+2021-03-05,155180,GU32 3LG,T,N,F,6,,The Mead,,Petersfield
+2021-03-01,290000,GU32 2AB,T,N,F,33,,Sandringham Road,,Petersfield
+2021-02-26,405000,GU32 3FN,D,N,L,38,,Otter Walk,,Petersfield
+2021-02-26,401000,GU32 3BW,S,N,F,15,,Rushes Road,,Petersfield
+2021-02-26,1500000,GU32 2DJ,D,N,F,Fair Rising,,Mill Lane,Steep,Petersfield
+2021-02-25,635000,GU32 1NL,S,N,F,3,,Church Lane,East Meon,Petersfield
+2021-02-23,101000,GU32 3EQ,F,N,L,Lavant Court,Flat 31,Charles Street,,Petersfield
+2021-02-19,191000,GU32 3QZ,F,N,L,35,,Dukes Close,,Petersfield
+2021-02-19,700000,GU32 2EH,S,N,F,33,,Bell Hill,,Petersfield
+2021-02-19,1026000,GU32 2EB,D,N,F,63,,Woodbury Avenue,,Petersfield
+2021-02-19,1075000,GU32 2DN,D,N,F,49,,Church Road,Steep,Petersfield
+2021-02-18,850000,GU32 2JD,D,N,F,14,,Monks Orchard,,Petersfield
+2021-02-12,282500,GU32 3QZ,T,N,F,41,,Dukes Close,,Petersfield
+2021-02-12,280000,GU32 3BU,T,N,F,3,,Beckham Lane,,Petersfield
+2021-02-12,920380,GU32 1QA,D,N,F,Yew Tree House,,High Street,East Meon,Petersfield
+2021-02-08,268000,GU32 2JG,S,N,F,68,,Stafford Road,,Petersfield
+2021-02-08,516000,GU32 2AF,S,N,F,41,,Town Lane,,Petersfield
+2021-02-08,540000,GU32 1BZ,D,N,F,Barnet Side Farm,,,Froxfield,Petersfield
+2021-02-05,190000,GU32 3JP,F,N,L,Dolphin Court,15,High Street,,Petersfield
+2021-02-05,110000,GU32 3DW,F,N,L,37,,Meon Close,,Petersfield
+2021-02-03,1000000,GU32 1AG,S,N,F,Juniper House,,Stoner Hill,Steep,Petersfield
+2021-01-29,265000,GU32 3HB,F,N,L,Winton Court,21,Winton Road,,Petersfield
+2021-01-25,260000,GU32 2HE,T,N,F,34,,Balmoral Way,,Petersfield
+2021-01-25,460000,GU32 2AA,T,N,F,9,,Sandringham Road,,Petersfield
+2021-01-22,617900,GU32 2ED,S,N,F,5,,Woodbury Avenue,,Petersfield
+2021-01-22,825000,GU32 2AF,D,N,F,1A,,Town Lane,,Petersfield
+2021-01-21,535000,GU32 3BL,S,N,F,12,,Winchester Road,,Petersfield
+2021-01-20,500000,GU32 3ND,T,N,F,122,,Borough Road,,Petersfield
+2021-01-20,1200000,GU32 1HD,D,N,F,1,,Hyden Wood,East Meon,Petersfield
+2021-01-19,352500,GU32 3BG,S,N,F,53,,Noreuil Road,,Petersfield
+2021-01-15,900000,GU32 2DY,D,N,F,4,,Bell Hill,,Petersfield
+2021-01-14,480000,GU32 3FL,D,N,F,23,,Reed Way,,Petersfield
+2021-01-14,493000,GU32 2DW,D,N,F,21,,Church Road,Steep,Petersfield
+2021-01-08,440000,GU32 3BP,S,N,F,75,,Rushes Road,,Petersfield
+2021-01-08,455000,GU32 2HA,D,N,F,8,,Stanton Road,,Petersfield

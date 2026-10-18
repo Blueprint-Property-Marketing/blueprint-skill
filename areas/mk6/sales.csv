@@ -1,0 +1,857 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-21,330000,MK6 3JD,T,N,F,10,,Walbrook Avenue,Springfield,Milton Keynes
+2026-08-21,269995,MK6 3FD,F,N,L,5,,Walden Croft,Simpson,Milton Keynes
+2026-08-14,250000,MK6 4HH,T,N,F,20,,Farthing Grove,Netherfield,Milton Keynes
+2026-08-11,210000,MK6 4HG,T,N,F,58,,Farmborough,Netherfield,Milton Keynes
+2026-07-24,272000,MK6 2SJ,T,N,F,89,,Underwood Place,Oldbrook,Milton Keynes
+2026-07-07,122500,MK6 3DT,S,N,L,36,,The Mount,Simpson,Milton Keynes
+2026-07-06,242000,MK6 5DA,T,N,F,17,,Daniels Welch,Coffee Hall,Milton Keynes
+2026-07-03,66000,MK6 5NA,F,N,L,16,,Moorgate,Leadenhall,Milton Keynes
+2026-07-03,295000,MK6 5AN,S,N,F,2,,Ashby,Eaglestone,Milton Keynes
+2026-07-03,57000,MK6 4AP,F,N,L,7,,Flexerne Crescent,Ashland,Milton Keynes
+2026-07-01,310000,MK6 2SE,T,N,F,10,,Titchmarsh Court,Oldbrook,Milton Keynes
+2026-06-30,311500,MK6 2PH,T,N,F,48,,Sutcliffe Avenue,Oldbrook,Milton Keynes
+2026-06-26,507500,MK6 2TQ,D,N,F,4,,Laker Court,Oldbrook,Milton Keynes
+2026-06-22,79800,MK6 5LE,S,N,L,26,,Coles Avenue,Leadenhall,Milton Keynes
+2026-06-19,435000,MK6 3EL,S,N,F,13,,Adams Court,Woughton On The Green,Milton Keynes
+2026-06-19,335000,MK6 2HG,T,N,F,204,,Oldbrook Boulevard,Oldbrook,Milton Keynes
+2026-06-15,275000,MK6 2ED,S,N,F,43,,Polruan Place,Fishermead,Milton Keynes
+2026-06-12,265000,MK6 2TT,T,N,F,123,,Underwood Place,Oldbrook,Milton Keynes
+2026-06-08,135000,MK6 3JS,F,N,L,38C,,Springfield Boulevard,Springfield,Milton Keynes
+2026-06-01,165000,MK6 2ND,F,N,L,54,,Kirkstall Place,Oldbrook,Milton Keynes
+2026-05-29,300000,MK6 5DB,S,N,F,4,,Daniels Welch,Coffee Hall,Milton Keynes
+2026-05-29,120000,MK6 4AP,F,N,L,63,,Flexerne Crescent,Ashland,Milton Keynes
+2026-05-29,165000,MK6 2NL,F,N,L,13,,Milburn Avenue,Oldbrook,Milton Keynes
+2026-05-28,80000,MK6 2NP,F,N,L,1,,Illingworth Place,Oldbrook,Milton Keynes
+2026-05-22,460000,MK6 3BE,D,N,F,The Lodge,,The Green,Woughton On The Green,Milton Keynes
+2026-05-20,466000,MK6 2SH,D,N,F,17,,Brearley Avenue,Oldbrook,Milton Keynes
+2026-04-30,286000,MK6 2UF,T,N,F,56,,Brearley Avenue,Oldbrook,Milton Keynes
+2026-04-30,320000,MK6 2LW,T,N,F,35,,Rhodes Place,Oldbrook,Milton Keynes
+2026-04-24,90000,MK6 2RF,F,N,L,9,,Cartwright Place,Oldbrook,Milton Keynes
+2026-04-07,380000,MK6 2JD,S,N,F,88,,Oldbrook Boulevard,Oldbrook,Milton Keynes
+2026-03-31,295000,MK6 5DD,T,N,F,31,,Garraways,Coffee Hall,Milton Keynes
+2026-03-27,190000,MK6 2SX,T,N,F,3,,Blackham Court,Oldbrook,Milton Keynes
+2026-03-20,237500,MK6 3DP,T,N,F,6,,Buckby,Tinkers Bridge,Milton Keynes
+2026-03-19,280000,MK6 5AY,T,N,F,36,,Great Denson,Eaglestone,Milton Keynes
+2026-03-13,123000,MK6 2JX,S,N,L,8E,,Boycott Avenue,Oldbrook,Milton Keynes
+2026-03-10,217000,MK6 5EB,D,N,F,16,,Lloyds,Coffee Hall,Milton Keynes
+2026-03-10,290000,MK6 3JN,T,N,F,117,,Turnmill Avenue,Springfield,Milton Keynes
+2026-03-09,250000,MK6 5LB,S,N,F,24,,Fulwoods Drive,Leadenhall,Milton Keynes
+2026-03-09,275000,MK6 2HU,S,N,F,29,,Edrich Avenue,Oldbrook,Milton Keynes
+2026-02-27,142500,MK6 5NF,S,N,L,5,,Malbons Court,Leadenhall,Milton Keynes
+2026-02-27,220000,MK6 5BP,T,N,F,7,,Harlans Close,Eaglestone,Milton Keynes
+2026-02-27,295000,MK6 5AB,T,N,F,30,,Abbotsfield,Eaglestone,Milton Keynes
+2026-02-27,525000,MK6 4AL,D,N,F,2,,Southcott Way,Ashland,Milton Keynes
+2026-02-27,175000,MK6 2ND,F,N,L,56,,Kirkstall Place,Oldbrook,Milton Keynes
+2026-02-26,303000,MK6 5BN,S,N,F,156,,Golden Drive,Eaglestone,Milton Keynes
+2026-02-24,352500,MK6 4AF,T,N,F,14,,Wraxall Way,Ashland,Milton Keynes
+2026-02-20,87500,MK6 4JW,F,N,L,Heaton House,Flat 34,Akerlea Close,Netherfield,Milton Keynes
+2026-02-12,401000,MK6 2HW,S,N,F,80,,The Boundary,Oldbrook,Milton Keynes
+2026-02-05,297000,MK6 5AY,T,N,F,40,,Great Denson,Eaglestone,Milton Keynes
+2026-01-30,375000,MK6 4AU,S,N,F,41,,Langham Way,Ashland,Milton Keynes
+2026-01-30,460000,MK6 3DA,D,N,F,17,,Marshworth,Tinkers Bridge,Milton Keynes
+2026-01-30,143100,MK6 2NJ,T,N,L,27,,Underwood Place,Oldbrook,Milton Keynes
+2026-01-30,365000,MK6 2JD,S,N,F,104,,Oldbrook Boulevard,Oldbrook,Milton Keynes
+2026-01-23,170000,MK6 3DT,F,N,L,35,,The Mount,Simpson,Milton Keynes
+2026-01-22,590000,MK6 3EY,D,N,F,13,,St Brides Close,Springfield,Milton Keynes
+2026-01-16,270000,MK6 5DY,T,N,F,133,,Daniels Welch,Coffee Hall,Milton Keynes
+2026-01-16,510000,MK6 3BJ,D,N,F,3,,Elton,Woughton Park,Milton Keynes
+2026-01-14,280000,MK6 5BQ,T,N,F,9,,Osprey Close,Eaglestone,Milton Keynes
+2025-12-30,76500,MK6 2PY,T,N,L,31,,Shackleton Place,Oldbrook,Milton Keynes
+2025-12-22,300000,MK6 5BH,T,N,F,17,,Peregrine Close,Eaglestone,Milton Keynes
+2025-12-19,295000,MK6 5AE,T,N,F,28,,Ferndale,Eaglestone,Milton Keynes
+2025-12-19,340000,MK6 3NH,D,N,F,48,,Stamford Avenue,Springfield,Milton Keynes
+2025-12-19,120000,MK6 3DT,F,N,L,4,,The Mount,Simpson,Milton Keynes
+2025-12-19,355000,MK6 3AD,S,N,F,456,,Simpson,Simpson,Milton Keynes
+2025-12-19,115000,MK6 2QL,T,N,L,17,,Arlott Crescent,Oldbrook,Milton Keynes
+2025-12-17,275000,MK6 5AH,T,N,F,6,,Broad Dean,Eaglestone,Milton Keynes
+2025-12-12,235000,MK6 5LG,T,N,L,14,,Whites Croft,Leadenhall,Milton Keynes
+2025-12-12,300000,MK6 5DX,T,N,F,210,,Daniels Welch,Coffee Hall,Milton Keynes
+2025-12-12,282000,MK6 2BH,T,N,F,103,,Penryn Avenue,Fishermead,Milton Keynes
+2025-12-10,300000,MK6 3HR,T,N,F,87,,Springfield Boulevard,Springfield,Milton Keynes
+2025-12-10,95000,MK6 2LP,F,N,L,12,,Newlyn Place,Fishermead,Milton Keynes
+2025-12-08,175000,MK6 5LW,F,N,L,13,,Marine Court,Leadenhall,Milton Keynes
+2025-12-08,225000,MK6 2NA,T,N,F,6,,Bridgeford Court,Oldbrook,Milton Keynes
+2025-12-05,500000,MK6 4AU,D,N,F,36,,Langham Way,Ashland,Milton Keynes
+2025-12-05,191000,MK6 4AS,F,N,L,7,,Heywood Gate,Ashland,Milton Keynes
+2025-12-05,180000,MK6 2QT,T,N,F,211,,Arlott Crescent,Oldbrook,Milton Keynes
+2025-12-04,297500,MK6 5EP,S,N,F,27,,Merlin Walk,Eaglestone,Milton Keynes
+2025-11-25,680000,MK6 3AD,D,N,F,442,,Simpson,Simpson,Milton Keynes
+2025-11-24,142500,MK6 2PA,F,N,L,7,,Sutcliffe Avenue,Oldbrook,Milton Keynes
+2025-11-24,301500,MK6 2NE,S,N,F,16,,Ulyett Place,Oldbrook,Milton Keynes
+2025-11-21,225000,MK6 3BP,F,N,F,40,,Old Groveway,Simpson,Milton Keynes
+2025-11-20,395000,MK6 2HB,D,N,F,11,,Statham Place,Oldbrook,Milton Keynes
+2025-11-19,199995,MK6 3LW,F,N,L,66,,Belsize Avenue,Springfield,Milton Keynes
+2025-11-17,325000,MK6 4LE,S,N,F,46,,Beanfare,Beanhill,Milton Keynes
+2025-11-17,275000,MK6 2UG,D,N,F,110,,Brearley Avenue,Oldbrook,Milton Keynes
+2025-11-14,135000,MK6 2BL,F,N,L,86F,,Gurnards Avenue,Fishermead,Milton Keynes
+2025-11-11,195000,MK6 3PB,T,N,L,16,,Jeeves Close,Peartree Bridge,Milton Keynes
+2025-11-07,260000,MK6 4LT,S,N,F,5,,Melick Road,Beanhill,Milton Keynes
+2025-11-03,270000,MK6 5HB,S,N,F,10,,Serles Close,Coffee Hall,Milton Keynes
+2025-11-03,280000,MK6 5AR,T,N,F,6,,Downdean,Eaglestone,Milton Keynes
+2025-11-03,182500,MK6 3BP,T,N,F,13,,Old Groveway,Simpson,Milton Keynes
+2025-10-31,280000,MK6 5AU,T,N,F,17,,Great Denson,Eaglestone,Milton Keynes
+2025-10-31,225000,MK6 4HN,T,N,F,139,,Broadlands,Netherfield,Milton Keynes
+2025-10-31,325000,MK6 2SR,D,N,F,30,,Veryan Place,Fishermead,Milton Keynes
+2025-10-31,337000,MK6 2HA,S,N,F,14,,The Boundary,Oldbrook,Milton Keynes
+2025-10-30,368000,MK6 2QG,T,N,F,27,,Hutton Avenue,Oldbrook,Milton Keynes
+2025-10-30,130000,MK6 2DH,F,N,L,28C,,Veryan Place,Fishermead,Milton Keynes
+2025-10-24,390000,MK6 4AJ,D,N,F,10,,Penshurst Crescent,Ashland,Milton Keynes
+2025-10-24,170000,MK6 2NJ,T,N,F,15,,Underwood Place,Oldbrook,Milton Keynes
+2025-10-21,270000,MK6 5DB,T,N,F,100,,Daniels Welch,Coffee Hall,Milton Keynes
+2025-10-21,460000,MK6 2RA,D,N,F,91,,Arlott Crescent,Oldbrook,Milton Keynes
+2025-10-17,300000,MK6 5DL,T,N,F,196,,Rochfords,Coffee Hall,Milton Keynes
+2025-10-10,174869,MK6 4HJ,T,N,F,63,,Broadlands,Netherfield,Milton Keynes
+2025-10-10,320000,MK6 3DZ,D,N,F,16,,Passmore,Tinkers Bridge,Milton Keynes
+2025-10-01,315000,MK6 2LY,T,N,F,42,,Rhodes Place,Oldbrook,Milton Keynes
+2025-09-26,150000,MK6 3DJ,T,N,F,9,,Colne,Tinkers Bridge,Milton Keynes
+2025-09-26,335000,MK6 2EY,D,N,F,34,,Underwood Place,Oldbrook,Milton Keynes
+2025-09-24,315000,MK6 2NB,T,N,F,24,,Kirkstall Place,Oldbrook,Milton Keynes
+2025-09-23,121400,MK6 4JW,F,N,L,Hanbury House,2,Akerlea Close,Netherfield,Milton Keynes
+2025-09-23,245000,MK6 3DT,S,N,F,13,,The Mount,Simpson,Milton Keynes
+2025-09-22,493000,MK6 4AF,D,N,F,5,,Wraxall Way,Ashland,Milton Keynes
+2025-09-19,140000,MK6 4LH,T,N,F,53,,Tandra,Beanhill,Milton Keynes
+2025-09-19,287150,MK6 3LF,T,N,F,137,,Springfield Boulevard,Springfield,Milton Keynes
+2025-09-19,210000,MK6 3DL,T,N,F,38,,Brent,Tinkers Bridge,Milton Keynes
+2025-09-18,287000,MK6 5LA,S,N,F,31,,Fulwoods Drive,Leadenhall,Milton Keynes
+2025-09-18,220000,MK6 5AL,D,N,F,31,,Broad Dean,Eaglestone,Milton Keynes
+2025-09-18,310000,MK6 3JS,T,N,F,24,,Springfield Boulevard,Springfield,Milton Keynes
+2025-09-17,92000,MK6 2UA,F,N,L,33,,Brearley Avenue,Oldbrook,Milton Keynes
+2025-09-10,358000,MK6 2XN,S,N,F,16,,Grace Avenue,Oldbrook,Milton Keynes
+2025-09-03,305000,MK6 5AE,S,N,F,17,,Ferndale,Eaglestone,Milton Keynes
+2025-08-29,250000,MK6 4HN,T,N,F,97,,Broadlands,Netherfield,Milton Keynes
+2025-08-29,1190000,MK6 3EE,D,N,F,3,,Odell Close,Woughton On The Green,Milton Keynes
+2025-08-29,362500,MK6 3AD,S,N,F,458,,Simpson,Simpson,Milton Keynes
+2025-08-21,340000,MK6 2HG,S,N,F,180,,Oldbrook Boulevard,Oldbrook,Milton Keynes
+2025-08-15,231000,MK6 5LF,S,N,L,3,,Youngman Place,Leadenhall,Milton Keynes
+2025-08-14,292999,MK6 5AE,T,N,F,31,,Ferndale,Eaglestone,Milton Keynes
+2025-08-14,310000,MK6 3JL,T,N,F,74,,Walbrook Avenue,Springfield,Milton Keynes
+2025-08-08,390000,MK6 2HW,S,N,F,84,,The Boundary,Oldbrook,Milton Keynes
+2025-08-06,285000,MK6 2DY,T,N,F,66,,Mullion Place,Fishermead,Milton Keynes
+2025-08-05,318743,MK6 2LU,T,N,F,4,,Rhodes Place,Oldbrook,Milton Keynes
+2025-07-31,239000,MK6 4LF,T,N,F,31,,Capron,Beanhill,Milton Keynes
+2025-07-28,260000,MK6 5AE,T,N,F,9,,Ferndale,Eaglestone,Milton Keynes
+2025-07-28,420000,MK6 4AJ,T,N,F,24,,Penshurst Crescent,Ashland,Milton Keynes
+2025-07-25,185000,MK6 4AN,F,N,L,15,,Newington Gate,Ashland,Milton Keynes
+2025-07-24,132500,MK6 5EP,S,N,L,23,,Merlin Walk,Eaglestone,Milton Keynes
+2025-07-23,162500,MK6 3HJ,S,N,F,30,,Falcon Avenue,Springfield,Milton Keynes
+2025-07-23,150000,MK6 3AQ,F,N,L,2,,Warren Bank,Simpson,Milton Keynes
+2025-07-11,134000,MK6 4AN,T,N,L,59,,Newington Gate,Ashland,Milton Keynes
+2025-07-11,425000,MK6 3LS,D,N,F,10,,Belsize Avenue,Springfield,Milton Keynes
+2025-07-09,150000,MK6 3AQ,F,N,L,34,,Warren Bank,Simpson,Milton Keynes
+2025-07-07,225000,MK6 4HH,T,N,F,40,,Farthing Grove,Netherfield,Milton Keynes
+2025-07-07,540000,MK6 3ND,D,N,F,3,,The Fleet,Springfield,Milton Keynes
+2025-07-04,220000,MK6 5LA,S,N,F,41,,Fulwoods Drive,Leadenhall,Milton Keynes
+2025-07-04,170000,MK6 3JW,T,N,F,82,,Turnmill Avenue,Springfield,Milton Keynes
+2025-06-30,315000,MK6 3JB,T,N,F,27,,Walbrook Avenue,Springfield,Milton Keynes
+2025-06-27,280000,MK6 5DP,T,N,F,134,,Jonathans,Coffee Hall,Milton Keynes
+2025-06-27,170000,MK6 5DA,T,N,F,77,,Daniels Welch,Coffee Hall,Milton Keynes
+2025-06-27,370000,MK6 2XE,D,N,F,57,,Kirkstall Place,Oldbrook,Milton Keynes
+2025-06-25,150000,MK6 2PF,F,N,L,35,,Sutcliffe Avenue,Oldbrook,Milton Keynes
+2025-06-24,260000,MK6 5DY,S,N,F,233,,Daniels Welch,Coffee Hall,Milton Keynes
+2025-06-20,315000,MK6 4NA,S,N,F,32,,Medale Road,Beanhill,Milton Keynes
+2025-06-20,235000,MK6 4LA,T,N,F,28,,Lammas,Beanhill,Milton Keynes
+2025-06-20,330000,MK6 2QR,S,N,F,50,,Edrich Avenue,Oldbrook,Milton Keynes
+2025-06-12,182000,MK6 3BP,T,N,F,9,,Old Groveway,Simpson,Milton Keynes
+2025-06-11,261000,MK6 4HE,T,N,F,16,,Langland Road,Netherfield,Milton Keynes
+2025-06-06,195000,MK6 4HJ,T,N,F,25,,Broadlands,Netherfield,Milton Keynes
+2025-06-04,260000,MK6 5AB,S,N,F,26,,Abbotsfield,Eaglestone,Milton Keynes
+2025-06-03,225000,MK6 4HR,T,N,F,173,,The Hide,Netherfield,Milton Keynes
+2025-05-30,320000,MK6 4LR,S,N,F,33,,Darnel Close,Beanhill,Milton Keynes
+2025-05-30,255000,MK6 2SS,T,N,F,48,,Tolcarne Avenue,Fishermead,Milton Keynes
+2025-05-30,352500,MK6 2HF,T,N,F,21,,Dexter Avenue,Oldbrook,Milton Keynes
+2025-05-27,275000,MK6 2LD,T,N,F,48,,Kernow Crescent,Fishermead,Milton Keynes
+2025-05-27,325000,MK6 2DZ,T,N,F,81,,Polruan Place,Fishermead,Milton Keynes
+2025-05-23,250000,MK6 5DP,T,N,F,108,,Jonathans,Coffee Hall,Milton Keynes
+2025-05-16,290000,MK6 3JR,T,N,F,2,,Billingwell Place,Springfield,Milton Keynes
+2025-05-13,300000,MK6 3DE,T,N,F,43,,Waterside,Peartree Bridge,Milton Keynes
+2025-05-13,129000,MK6 2EQ,F,N,L,47A,,Bossiney Place,Fishermead,Milton Keynes
+2025-05-09,124995,MK6 3JN,F,N,L,115A,,Turnmill Avenue,Springfield,Milton Keynes
+2025-05-09,110000,MK6 2DQ,F,N,L,30D,,Helford Place,Fishermead,Milton Keynes
+2025-05-02,92000,MK6 4AP,F,N,L,65,,Flexerne Crescent,Ashland,Milton Keynes
+2025-05-01,120000,MK6 4AP,S,N,L,19,,Flexerne Crescent,Ashland,Milton Keynes
+2025-04-25,250000,MK6 5EP,S,N,F,12,,Merlin Walk,Eaglestone,Milton Keynes
+2025-04-23,310000,MK6 2HF,S,N,F,19,,Dexter Avenue,Oldbrook,Milton Keynes
+2025-04-23,130000,MK6 2DT,F,N,L,15C,,Towan Avenue,Fishermead,Milton Keynes
+2025-04-17,372500,MK6 2SB,S,N,F,76,,Ulyett Place,Oldbrook,Milton Keynes
+2025-04-11,240000,MK6 5AB,T,N,F,11,,Abbotsfield,Eaglestone,Milton Keynes
+2025-04-01,280000,MK6 5BG,F,N,F,3,,Griffon Close,Eaglestone,Milton Keynes
+2025-03-31,224000,MK6 4LE,T,N,F,19,,Beanfare,Beanhill,Milton Keynes
+2025-03-31,430000,MK6 2HA,D,N,F,16,,The Boundary,Oldbrook,Milton Keynes
+2025-03-28,155000,MK6 5BZ,F,N,L,27,,Harrier Court,Eaglestone,Milton Keynes
+2025-03-28,100000,MK6 3PA,F,N,L,13,,Woodley Headland,Peartree Bridge,Milton Keynes
+2025-03-28,430000,MK6 3DY,D,N,F,45,,Passmore,Tinkers Bridge,Milton Keynes
+2025-03-28,130000,MK6 3DT,F,N,L,22,,The Mount,Simpson,Milton Keynes
+2025-03-28,210000,MK6 3DN,T,N,F,49,,Hatton,Tinkers Bridge,Milton Keynes
+2025-03-28,180000,MK6 2SZ,S,N,F,24,,Wynyard Court,Oldbrook,Milton Keynes
+2025-03-28,220000,MK6 2SE,S,N,F,25,,Titchmarsh Court,Oldbrook,Milton Keynes
+2025-03-28,300000,MK6 2BZ,T,N,F,65,,Tolcarne Avenue,Fishermead,Milton Keynes
+2025-03-27,178000,MK6 4LH,T,N,F,22,,Tandra,Beanhill,Milton Keynes
+2025-03-27,183000,MK6 3DJ,T,N,F,48,,Colne,Tinkers Bridge,Milton Keynes
+2025-03-27,330000,MK6 3AX,T,N,F,2,,Lissel Road,Simpson,Milton Keynes
+2025-03-26,120000,MK6 3DT,F,N,L,25,,The Mount,Simpson,Milton Keynes
+2025-03-21,296500,MK6 5NF,T,N,F,1,,Malbons Court,Leadenhall,Milton Keynes
+2025-03-21,410000,MK6 2SN,D,N,F,23,,Vellan Avenue,Fishermead,Milton Keynes
+2025-03-20,500000,MK6 2TQ,D,N,F,2,,Laker Court,Oldbrook,Milton Keynes
+2025-03-19,218500,MK6 5EX,S,N,F,90,,Forest Rise,Eaglestone,Milton Keynes
+2025-03-10,112000,MK6 5EX,F,N,L,48,,Forest Rise,Eaglestone,Milton Keynes
+2025-03-07,500000,MK6 3BH,D,N,F,3,,Medland,Woughton Park,Milton Keynes
+2025-03-03,410000,MK6 3EY,D,N,F,10,,St Brides Close,Springfield,Milton Keynes
+2025-02-28,245000,MK6 5LA,D,N,F,17,,Fulwoods Drive,Leadenhall,Milton Keynes
+2025-02-28,265000,MK6 5HB,S,N,F,7,,Serles Close,Coffee Hall,Milton Keynes
+2025-02-28,300000,MK6 5BN,D,N,F,124,,Golden Drive,Eaglestone,Milton Keynes
+2025-02-28,270000,MK6 3JT,T,N,F,54,,Springfield Boulevard,Springfield,Milton Keynes
+2025-02-28,375000,MK6 2JL,T,N,F,6,,Polmartin Court,Fishermead,Milton Keynes
+2025-02-24,330000,MK6 2SZ,S,N,F,2,,Wynyard Court,Oldbrook,Milton Keynes
+2025-02-21,315000,MK6 5AP,S,N,F,25,,Ashby,Eaglestone,Milton Keynes
+2025-02-21,400000,MK6 3DZ,D,N,F,2,,Passmore,Tinkers Bridge,Milton Keynes
+2025-02-21,371000,MK6 3DY,D,N,F,27,,Passmore,Tinkers Bridge,Milton Keynes
+2025-02-21,430000,MK6 2HB,S,N,F,15,,Statham Place,Oldbrook,Milton Keynes
+2025-02-13,140000,MK6 3JW,F,N,L,110F,,Turnmill Avenue,Springfield,Milton Keynes
+2025-02-10,290000,MK6 2BP,T,N,F,5,,Penryn Avenue,Fishermead,Milton Keynes
+2025-02-07,280000,MK6 5AH,T,N,F,4,,Broad Dean,Eaglestone,Milton Keynes
+2025-01-31,216000,MK6 5BP,T,N,F,11,,Harlans Close,Eaglestone,Milton Keynes
+2025-01-31,58500,MK6 4AP,F,N,L,49,,Flexerne Crescent,Ashland,Milton Keynes
+2025-01-27,340000,MK6 2QR,S,N,F,20,,Edrich Avenue,Oldbrook,Milton Keynes
+2025-01-24,460000,MK6 3AL,S,N,F,378,,Simpson,Simpson,Milton Keynes
+2025-01-23,315000,MK6 5AE,S,N,F,24,,Ferndale,Eaglestone,Milton Keynes
+2025-01-23,175000,MK6 2JH,T,N,F,3,,Trispen Court,Fishermead,Milton Keynes
+2025-01-21,183000,MK6 4LG,F,N,F,40,,Chervil,Beanhill,Milton Keynes
+2025-01-20,150000,MK6 2TJ,F,N,L,10,,Boycott Avenue,Oldbrook,Milton Keynes
+2025-01-17,455000,MK6 3HY,D,N,F,100,,Springfield Boulevard,Springfield,Milton Keynes
+2025-01-10,315000,MK6 2TY,T,N,F,24,,The Oval,Oldbrook,Milton Keynes
+2025-01-09,225000,MK6 2PY,S,N,F,23,,Shackleton Place,Oldbrook,Milton Keynes
+2025-01-07,232500,MK6 5LA,S,N,F,35,,Fulwoods Drive,Leadenhall,Milton Keynes
+2025-01-06,243750,MK6 4HE,T,N,F,56,,Langland Road,Netherfield,Milton Keynes
+2024-12-20,85000,MK6 5NA,F,N,L,44,,Moorgate,Leadenhall,Milton Keynes
+2024-12-20,195000,MK6 2XJ,S,N,L,71,,Grace Avenue,Oldbrook,Milton Keynes
+2024-12-20,190000,MK6 2QR,S,N,L,38,,Edrich Avenue,Oldbrook,Milton Keynes
+2024-12-19,283000,MK6 5DA,T,N,F,11,,Daniels Welch,Coffee Hall,Milton Keynes
+2024-12-19,270000,MK6 4HE,T,N,F,20,,Langland Road,Netherfield,Milton Keynes
+2024-12-19,200000,MK6 2BG,T,N,F,64,,Penryn Avenue,Fishermead,Milton Keynes
+2024-12-18,130000,MK6 4AU,S,N,L,31,,Langham Way,Ashland,Milton Keynes
+2024-12-17,530000,MK6 3LS,D,N,F,14,,Belsize Avenue,Springfield,Milton Keynes
+2024-12-16,260000,MK6 3DJ,T,N,F,41,,Colne,Tinkers Bridge,Milton Keynes
+2024-12-13,285000,MK6 5LA,S,N,F,27,,Fulwoods Drive,Leadenhall,Milton Keynes
+2024-12-13,150000,MK6 3JB,T,N,F,53,,Walbrook Avenue,Springfield,Milton Keynes
+2024-12-12,100000,MK6 2QG,F,N,L,51,,Hutton Avenue,Oldbrook,Milton Keynes
+2024-12-10,110000,MK6 5LQ,F,N,L,17,,Devereux Place,Leadenhall,Milton Keynes
+2024-11-29,140000,MK6 2BW,F,N,L,87,,Gurnards Avenue,Fishermead,Milton Keynes
+2024-11-22,125000,MK6 3LD,F,N,L,45E,,Stamford Avenue,Springfield,Milton Keynes
+2024-11-22,340000,MK6 3DZ,D,N,F,40,,Passmore,Tinkers Bridge,Milton Keynes
+2024-11-22,545000,MK6 3BL,D,N,F,1,,Northwich,Woughton Park,Milton Keynes
+2024-11-22,325000,MK6 2PJ,T,N,F,107,,Shackleton Place,Oldbrook,Milton Keynes
+2024-11-22,149000,MK6 2NE,S,N,F,22,,Ulyett Place,Oldbrook,Milton Keynes
+2024-11-21,162000,MK6 4JW,F,N,L,Dashwood House,Flat 53,Akerlea Close,Netherfield,Milton Keynes
+2024-11-20,360000,MK6 2NJ,T,N,F,39,,Underwood Place,Oldbrook,Milton Keynes
+2024-11-15,642500,MK6 3BH,D,N,F,8,,Medland,Woughton Park,Milton Keynes
+2024-11-08,90000,MK6 2QL,F,N,L,3,,Arlott Crescent,Oldbrook,Milton Keynes
+2024-11-07,275000,MK6 5BL,T,N,F,5,,Kite Hill,Eaglestone,Milton Keynes
+2024-11-06,710000,MK6 3BF,D,N,F,7,,Millholm Rise,Simpson,Milton Keynes
+2024-10-31,250000,MK6 5BS,T,N,F,135,,Golden Drive,Eaglestone,Milton Keynes
+2024-10-31,247000,MK6 2SS,T,N,F,28,,Tolcarne Avenue,Fishermead,Milton Keynes
+2024-10-30,305000,MK6 3HB,S,N,F,41,,Clerkenwell Place,Springfield,Milton Keynes
+2024-10-25,138000,MK6 3JB,F,N,L,17F,,Walbrook Avenue,Springfield,Milton Keynes
+2024-10-24,287000,MK6 5AB,T,N,F,6,,Abbotsfield,Eaglestone,Milton Keynes
+2024-10-23,191000,MK6 3JU,S,N,F,18,,Graveney Place,Springfield,Milton Keynes
+2024-10-18,220000,MK6 5LA,S,N,F,55,,Fulwoods Drive,Leadenhall,Milton Keynes
+2024-10-11,235000,MK6 5BJ,S,N,F,50,,Golden Drive,Eaglestone,Milton Keynes
+2024-09-26,270000,MK6 5AQ,S,N,F,41,,High Trees,Eaglestone,Milton Keynes
+2024-09-26,380000,MK6 2HF,T,N,F,29,,Dexter Avenue,Oldbrook,Milton Keynes
+2024-09-24,255000,MK6 5AE,T,N,F,3,,Ferndale,Eaglestone,Milton Keynes
+2024-09-20,180000,MK6 2LP,F,N,L,11,,Newlyn Place,Fishermead,Milton Keynes
+2024-09-19,385000,MK6 3AE,D,N,F,1,,Abbey Road,Simpson,Milton Keynes
+2024-09-18,275000,MK6 5DP,T,N,F,122,,Jonathans,Coffee Hall,Milton Keynes
+2024-09-16,330000,MK6 4AX,T,N,F,14,,Genesis Green,Ashland,Milton Keynes
+2024-09-10,232000,MK6 3DH,T,N,F,5,,Blisworth,Tinkers Bridge,Milton Keynes
+2024-09-06,385000,MK6 2XF,D,N,F,93,,Kirkstall Place,Oldbrook,Milton Keynes
+2024-08-30,250000,MK6 5HE,T,N,F,15,,Squires Close,Coffee Hall,Milton Keynes
+2024-08-30,260000,MK6 4NB,T,N,F,45,,Medale Road,Beanhill,Milton Keynes
+2024-08-23,235000,MK6 5EU,T,N,F,14,,Forest Rise,Eaglestone,Milton Keynes
+2024-08-23,268500,MK6 5AE,T,N,F,21,,Ferndale,Eaglestone,Milton Keynes
+2024-08-08,185000,MK6 4HG,T,N,F,48,,Farmborough,Netherfield,Milton Keynes
+2024-08-08,345000,MK6 2HU,D,N,F,25,,Edrich Avenue,Oldbrook,Milton Keynes
+2024-08-05,1425000,MK6 3ET,D,N,F,4,,Pinkard Court,Woughton On The Green,Milton Keynes
+2024-08-01,290000,MK6 2ED,T,N,F,39,,Polruan Place,Fishermead,Milton Keynes
+2024-07-31,173000,MK6 5HA,D,N,F,36,,Trubys Garden,Coffee Hall,Milton Keynes
+2024-07-31,250000,MK6 4LU,S,N,F,28,,Woodrush Close,Beanhill,Milton Keynes
+2024-07-30,265000,MK6 5AU,T,N,F,19,,Great Denson,Eaglestone,Milton Keynes
+2024-07-29,180000,MK6 2JX,F,N,L,8A,,Boycott Avenue,Oldbrook,Milton Keynes
+2024-07-26,370000,MK6 3DZ,D,N,F,56,,Passmore,Tinkers Bridge,Milton Keynes
+2024-07-26,140000,MK6 2NH,F,N,L,8,,Illingworth Place,Oldbrook,Milton Keynes
+2024-07-23,355000,MK6 2LT,S,N,F,45,,Rhodes Place,Oldbrook,Milton Keynes
+2024-07-19,250000,MK6 5DA,T,N,F,65,,Daniels Welch,Coffee Hall,Milton Keynes
+2024-07-19,190000,MK6 3DT,F,N,L,14,,The Mount,Simpson,Milton Keynes
+2024-07-16,197500,MK6 2TT,S,N,F,119,,Underwood Place,Oldbrook,Milton Keynes
+2024-07-15,678500,MK6 3EY,D,N,F,14,,St Brides Close,Springfield,Milton Keynes
+2024-07-12,150000,MK6 2RL,S,N,L,14,,Douglas Place,Oldbrook,Milton Keynes
+2024-07-08,365000,MK6 3AX,T,N,F,3,,Lissel Road,Simpson,Milton Keynes
+2024-07-05,215000,MK6 4LL,T,N,F,118,,Tandra,Beanhill,Milton Keynes
+2024-06-28,325000,MK6 3HQ,T,N,F,37,,Falcon Avenue,Springfield,Milton Keynes
+2024-06-28,75000,MK6 2RZ,T,N,L,79,,Dexter Avenue,Oldbrook,Milton Keynes
+2024-06-28,130000,MK6 2BW,F,N,L,85F,,Gurnards Avenue,Fishermead,Milton Keynes
+2024-06-24,365000,MK6 5HA,D,N,F,46,,Trubys Garden,Coffee Hall,Milton Keynes
+2024-06-14,238500,MK6 5AL,T,N,F,43,,Broad Dean,Eaglestone,Milton Keynes
+2024-06-14,300000,MK6 3HT,T,N,F,29,,Turnmill Avenue,Springfield,Milton Keynes
+2024-06-13,250000,MK6 5ER,T,N,F,33,,Montagu Drive,Eaglestone,Milton Keynes
+2024-06-06,525000,MK6 3BL,D,N,F,2,,Northwich,Woughton Park,Milton Keynes
+2024-06-05,220000,MK6 4HS,T,N,F,90,,Farmborough,Netherfield,Milton Keynes
+2024-06-03,367000,MK6 2XA,D,N,F,90,,Kirkstall Place,Oldbrook,Milton Keynes
+2024-05-31,290000,MK6 2RQ,S,N,F,93,,Oldbrook Boulevard,Oldbrook,Milton Keynes
+2024-05-30,180000,MK6 3BN,T,N,F,8,,Chandlers Court,Simpson,Milton Keynes
+2024-05-28,182000,MK6 5LE,F,N,L,17,,Coles Avenue,Leadenhall,Milton Keynes
+2024-05-24,250000,MK6 5DU,T,N,F,93,,Garraways,Coffee Hall,Milton Keynes
+2024-05-24,275000,MK6 5AU,T,N,F,12,,Great Denson,Eaglestone,Milton Keynes
+2024-05-24,195000,MK6 4AU,F,N,L,18,,Langham Way,Ashland,Milton Keynes
+2024-05-24,300000,MK6 2UD,D,N,F,67,,Brearley Avenue,Oldbrook,Milton Keynes
+2024-05-21,451000,MK6 2QP,D,N,F,37,,Edrich Avenue,Oldbrook,Milton Keynes
+2024-05-20,146200,MK6 3HZ,T,N,F,2,,Tyburn Avenue,Springfield,Milton Keynes
+2024-05-15,340000,MK6 2RB,D,N,F,30,,Arlott Crescent,Oldbrook,Milton Keynes
+2024-05-14,290000,MK6 2DD,T,N,F,17,,Helford Place,Fishermead,Milton Keynes
+2024-05-10,305000,MK6 5AE,D,N,F,32,,Ferndale,Eaglestone,Milton Keynes
+2024-05-08,133000,MK6 2EG,F,N,L,30A,,Bossiney Place,Fishermead,Milton Keynes
+2024-05-03,720000,MK6 3ES,D,N,F,25,,Baskerfield Grove,Woughton On The Green,Milton Keynes
+2024-04-30,100000,MK6 2SW,S,N,L,134,,Vellan Avenue,Fishermead,Milton Keynes
+2024-04-29,280000,MK6 5DA,T,N,F,71,,Daniels Welch,Coffee Hall,Milton Keynes
+2024-04-26,270000,MK6 5EX,S,N,F,88,,Forest Rise,Eaglestone,Milton Keynes
+2024-04-25,275000,MK6 5DX,T,N,F,204,,Daniels Welch,Coffee Hall,Milton Keynes
+2024-04-25,58500,MK6 4AP,F,N,L,7,,Flexerne Crescent,Ashland,Milton Keynes
+2024-04-16,80000,MK6 2RZ,S,N,L,53,,Dexter Avenue,Oldbrook,Milton Keynes
+2024-04-08,370000,MK6 2XF,D,N,F,107,,Kirkstall Place,Oldbrook,Milton Keynes
+2024-04-08,470000,MK6 2RB,D,N,F,22,,Arlott Crescent,Oldbrook,Milton Keynes
+2024-04-05,270000,MK6 5AY,T,N,F,42,,Great Denson,Eaglestone,Milton Keynes
+2024-04-05,289000,MK6 4BE,D,N,L,7,,Kelsale Chase,Ashland,Milton Keynes
+2024-04-05,273000,MK6 2SE,F,N,F,16,,Titchmarsh Court,Oldbrook,Milton Keynes
+2024-04-04,145000,MK6 2XJ,F,N,L,65,,Grace Avenue,Oldbrook,Milton Keynes
+2024-04-04,340000,MK6 2XH,T,N,F,47,,Douglas Place,Oldbrook,Milton Keynes
+2024-03-28,244100,MK6 4LX,D,N,F,4,,Medale Road,Beanhill,Milton Keynes
+2024-03-28,218000,MK6 4HZ,T,N,F,261,,Beadlemead,Netherfield,Milton Keynes
+2024-03-27,234000,MK6 5BP,T,N,F,9,,Harlans Close,Eaglestone,Milton Keynes
+2024-03-25,238000,MK6 3PH,S,N,F,110,,Ambridge Grove,Peartree Bridge,Milton Keynes
+2024-03-25,470000,MK6 3BH,D,N,F,6,,Medland,Woughton Park,Milton Keynes
+2024-03-21,310000,MK6 3LW,T,N,F,70,,Belsize Avenue,Springfield,Milton Keynes
+2024-03-04,140000,MK6 4LN,T,N,F,32,,Simnel,Beanhill,Milton Keynes
+2024-03-01,209000,MK6 3HJ,T,N,F,22,,Falcon Avenue,Springfield,Milton Keynes
+2024-03-01,180000,MK6 2RF,S,N,L,1,,Cartwright Place,Oldbrook,Milton Keynes
+2024-03-01,325000,MK6 2HJ,D,N,F,56,,Trueman Place,Oldbrook,Milton Keynes
+2024-02-26,225000,MK6 4HS,T,N,F,170,,Farmborough,Netherfield,Milton Keynes
+2024-02-23,202000,MK6 5LB,S,N,F,6,,Fulwoods Drive,Leadenhall,Milton Keynes
+2024-02-23,253000,MK6 2SJ,T,N,F,77,,Underwood Place,Oldbrook,Milton Keynes
+2024-02-23,340000,MK6 2RA,D,N,F,125,,Arlott Crescent,Oldbrook,Milton Keynes
+2024-02-20,275000,MK6 3JF,T,N,F,15,,Wealdstone Place,Springfield,Milton Keynes
+2024-02-16,87500,MK6 5NA,F,N,L,54,,Moorgate,Leadenhall,Milton Keynes
+2024-02-06,215000,MK6 2RZ,T,N,F,41,,Dexter Avenue,Oldbrook,Milton Keynes
+2024-02-02,257000,MK6 5ET,T,N,F,5,,Forest Rise,Eaglestone,Milton Keynes
+2024-02-02,82500,MK6 2QL,F,N,L,3,,Arlott Crescent,Oldbrook,Milton Keynes
+2024-02-01,145000,MK6 2JX,F,N,L,6D,,Boycott Avenue,Oldbrook,Milton Keynes
+2024-01-24,248000,MK6 2XG,T,N,F,50,,Douglas Place,Oldbrook,Milton Keynes
+2024-01-18,503500,MK6 2QX,D,N,F,15,,Illingworth Place,Oldbrook,Milton Keynes
+2024-01-12,251000,MK6 5HB,S,N,F,9,,Serles Close,Coffee Hall,Milton Keynes
+2024-01-12,250000,MK6 4LD,T,N,F,14,,Neapland,Beanhill,Milton Keynes
+2024-01-05,74000,MK6 5LW,F,N,L,4,,Marine Court,Leadenhall,Milton Keynes
+2024-01-05,250000,MK6 4JD,T,N,F,265,,The Hide,Netherfield,Milton Keynes
+2024-01-05,290000,MK6 3HL,T,N,F,13,,Ravensbourne Place,Springfield,Milton Keynes
+2023-12-22,96500,MK6 4LB,T,N,F,63,,Lammas,Beanhill,Milton Keynes
+2023-12-20,330000,MK6 2HT,T,N,F,20,,The Boundary,Oldbrook,Milton Keynes
+2023-12-15,275000,MK6 4NA,S,N,F,34,,Medale Road,Beanhill,Milton Keynes
+2023-12-15,144500,MK6 3HU,T,N,L,18E,,Turnmill Avenue,Springfield,Milton Keynes
+2023-12-15,227000,MK6 3DJ,T,N,F,47,,Colne,Tinkers Bridge,Milton Keynes
+2023-12-15,180000,MK6 2XJ,F,N,L,29,,Grace Avenue,Oldbrook,Milton Keynes
+2023-12-14,595000,MK6 3BQ,D,N,F,15,,Castle Rose,Woughton Park,Milton Keynes
+2023-12-08,330000,MK6 4AF,T,N,F,8,,Wraxall Way,Ashland,Milton Keynes
+2023-12-08,350000,MK6 3LG,D,N,F,89,,Stamford Avenue,Springfield,Milton Keynes
+2023-12-06,290000,MK6 3HQ,T,N,F,43,,Falcon Avenue,Springfield,Milton Keynes
+2023-12-05,415000,MK6 3DY,D,N,F,15,,Passmore,Tinkers Bridge,Milton Keynes
+2023-12-04,225000,MK6 3DF,T,N,F,149,,Waterside,Peartree Bridge,Milton Keynes
+2023-11-30,377500,MK6 2SW,D,N,F,28,,Vellan Avenue,Fishermead,Milton Keynes
+2023-11-24,318000,MK6 3JW,T,N,F,74,,Turnmill Avenue,Springfield,Milton Keynes
+2023-11-22,290000,MK6 2BA,T,N,F,49,,Porthleven Place,Fishermead,Milton Keynes
+2023-11-18,257000,MK6 5BT,T,N,F,14,,Lanner Walk,Eaglestone,Milton Keynes
+2023-11-17,225000,MK6 3DJ,T,N,F,33,,Colne,Tinkers Bridge,Milton Keynes
+2023-11-16,275000,MK6 4NB,S,N,F,42,,Medale Road,Beanhill,Milton Keynes
+2023-11-13,368000,MK6 3EY,D,N,F,15,,St Brides Close,Springfield,Milton Keynes
+2023-11-10,72000,MK6 5LW,F,N,L,18,,Marine Court,Leadenhall,Milton Keynes
+2023-11-10,200000,MK6 2TT,T,N,F,115,,Underwood Place,Oldbrook,Milton Keynes
+2023-11-03,195000,MK6 2XJ,T,N,F,55,,Grace Avenue,Oldbrook,Milton Keynes
+2023-11-03,140000,MK6 2QR,S,N,L,48,,Edrich Avenue,Oldbrook,Milton Keynes
+2023-11-02,450000,MK6 3LG,D,N,F,117,,Stamford Avenue,Springfield,Milton Keynes
+2023-10-27,237000,MK6 5BU,T,N,F,17,,Hawkmoor Close,Eaglestone,Milton Keynes
+2023-10-27,370000,MK6 3LW,D,N,F,34,,Belsize Avenue,Springfield,Milton Keynes
+2023-10-27,280000,MK6 3LA,T,N,F,26,,Graveney Place,Springfield,Milton Keynes
+2023-10-26,174000,MK6 4HR,T,N,F,133,,The Hide,Netherfield,Milton Keynes
+2023-10-26,230000,MK6 3DW,T,N,F,5,,Bascote,Tinkers Bridge,Milton Keynes
+2023-10-20,72000,MK6 5LW,F,N,L,15,,Marine Court,Leadenhall,Milton Keynes
+2023-10-17,94500,MK6 2UF,T,N,L,74,,Brearley Avenue,Oldbrook,Milton Keynes
+2023-10-13,262000,MK6 3PQ,S,N,F,4,,Ambridge Grove,Peartree Bridge,Milton Keynes
+2023-10-13,302000,MK6 2ER,S,N,F,33,,Padstow Avenue,Fishermead,Milton Keynes
+2023-10-10,290000,MK6 2BG,T,N,F,59,,Penryn Avenue,Fishermead,Milton Keynes
+2023-10-06,138000,MK6 3DN,T,N,F,38,,Hatton,Tinkers Bridge,Milton Keynes
+2023-10-06,317000,MK6 2UB,S,N,F,51,,Brearley Avenue,Oldbrook,Milton Keynes
+2023-10-04,450000,MK6 3AX,T,N,F,1,,Lissel Road,Simpson,Milton Keynes
+2023-09-27,320000,MK6 2HR,T,N,F,23,,Trueman Place,Oldbrook,Milton Keynes
+2023-09-18,395000,MK6 3ND,D,N,F,10,,The Fleet,Springfield,Milton Keynes
+2023-09-15,310000,MK6 4AW,S,N,F,5,,Shelsley Avenue,Ashland,Milton Keynes
+2023-09-13,385000,MK6 2XF,D,N,F,65,,Kirkstall Place,Oldbrook,Milton Keynes
+2023-09-11,63500,MK6 4AP,F,N,L,11,,Flexerne Crescent,Ashland,Milton Keynes
+2023-09-05,318000,MK6 3JG,T,N,F,18,,Wealdstone Place,Springfield,Milton Keynes
+2023-08-31,828000,MK6 3EL,D,N,F,30,,Adams Court,Woughton On The Green,Milton Keynes
+2023-08-25,133000,MK6 4JW,F,N,L,Heaton House,Flat 30,Akerlea Close,Netherfield,Milton Keynes
+2023-08-25,170000,MK6 3BZ,F,N,L,43,,Lucas Place,Woughton On The Green,Milton Keynes
+2023-08-24,325000,MK6 2SE,T,N,F,11,,Titchmarsh Court,Oldbrook,Milton Keynes
+2023-08-23,420000,MK6 2HS,T,N,F,43,,Trueman Place,Oldbrook,Milton Keynes
+2023-08-21,1625000,MK6 3ET,D,N,F,3,,Pinkard Court,Woughton On The Green,Milton Keynes
+2023-08-16,320000,MK6 2SS,D,N,F,20,,Tolcarne Avenue,Fishermead,Milton Keynes
+2023-08-16,260000,MK6 2BE,S,N,F,110,,Penryn Avenue,Fishermead,Milton Keynes
+2023-08-14,300000,MK6 3HD,T,N,F,14,,Clerkenwell Place,Springfield,Milton Keynes
+2023-08-10,190000,MK6 4JF,T,N,F,246,,Farthing Grove,Netherfield,Milton Keynes
+2023-08-03,270000,MK6 3PA,F,N,L,32,,Woodley Headland,Peartree Bridge,Milton Keynes
+2023-08-01,215000,MK6 2QU,T,N,F,63,,Trueman Place,Oldbrook,Milton Keynes
+2023-07-31,285000,MK6 5BJ,T,N,F,16,,Golden Drive,Eaglestone,Milton Keynes
+2023-07-31,81000,MK6 2PG,T,N,L,61,,Boycott Avenue,Oldbrook,Milton Keynes
+2023-07-31,370000,MK6 2ES,D,N,F,54,,Padstow Avenue,Fishermead,Milton Keynes
+2023-07-28,295000,MK6 5EP,S,N,F,26,,Merlin Walk,Eaglestone,Milton Keynes
+2023-07-17,273000,MK6 2UD,S,N,F,65,,Brearley Avenue,Oldbrook,Milton Keynes
+2023-07-14,365000,MK6 5HA,D,N,F,28,,Trubys Garden,Coffee Hall,Milton Keynes
+2023-07-14,249999,MK6 5DJ,T,N,F,10,,Rochfords,Coffee Hall,Milton Keynes
+2023-07-14,375000,MK6 2ER,F,N,F,71,,Padstow Avenue,Fishermead,Milton Keynes
+2023-07-10,247000,MK6 5HE,S,N,F,19,,Squires Close,Coffee Hall,Milton Keynes
+2023-07-04,76000,MK6 2QR,S,N,L,48,,Edrich Avenue,Oldbrook,Milton Keynes
+2023-07-03,335000,MK6 4AF,S,N,F,11,,Wraxall Way,Ashland,Milton Keynes
+2023-06-30,68000,MK6 5LQ,F,N,L,4,,Devereux Place,Leadenhall,Milton Keynes
+2023-06-30,287500,MK6 2PZ,T,N,F,29,,Larwood Place,Oldbrook,Milton Keynes
+2023-06-26,330000,MK6 4BD,S,N,F,7,,Felstar Walk,Ashland,Milton Keynes
+2023-06-23,175000,MK6 5NA,F,N,L,30,,Moorgate,Leadenhall,Milton Keynes
+2023-06-23,320000,MK6 3DZ,D,N,F,20,,Passmore,Tinkers Bridge,Milton Keynes
+2023-06-22,190000,MK6 3DN,T,N,F,26,,Hatton,Tinkers Bridge,Milton Keynes
+2023-06-19,250000,MK6 3PH,S,N,F,120,,Ambridge Grove,Peartree Bridge,Milton Keynes
+2023-06-16,178000,MK6 5LW,F,N,L,8,,Marine Court,Leadenhall,Milton Keynes
+2023-06-16,268000,MK6 3JN,T,N,F,117,,Turnmill Avenue,Springfield,Milton Keynes
+2023-05-25,309000,MK6 2HD,T,N,F,2,,Statham Place,Oldbrook,Milton Keynes
+2023-05-19,250000,MK6 5BJ,T,N,F,40,,Golden Drive,Eaglestone,Milton Keynes
+2023-05-19,178000,MK6 3BP,T,N,F,20,,Old Groveway,Simpson,Milton Keynes
+2023-05-11,152000,MK6 5AE,T,N,F,9,,Ferndale,Eaglestone,Milton Keynes
+2023-05-10,345000,MK6 5LT,D,N,F,10,,Fryday Street,Leadenhall,Milton Keynes
+2023-05-05,263000,MK6 4NJ,T,N,F,24,,Wheatcroft Close,Beanhill,Milton Keynes
+2023-04-28,248220,MK6 5DU,T,N,F,99,,Garraways,Coffee Hall,Milton Keynes
+2023-04-28,180000,MK6 4HT,T,N,F,200,,Beadlemead,Netherfield,Milton Keynes
+2023-04-27,302500,MK6 3BD,T,N,F,4,,The Close,Woughton On The Green,Milton Keynes
+2023-04-13,292000,MK6 3DZ,D,N,F,58,,Passmore,Tinkers Bridge,Milton Keynes
+2023-04-04,200000,MK6 4LG,T,N,F,58,,Chervil,Beanhill,Milton Keynes
+2023-03-31,285000,MK6 3HR,T,N,F,89,,Springfield Boulevard,Springfield,Milton Keynes
+2023-03-30,485000,MK6 2TP,D,N,F,27,,The Oval,Oldbrook,Milton Keynes
+2023-03-24,175000,MK6 4HE,T,N,F,52,,Langland Road,Netherfield,Milton Keynes
+2023-03-24,345000,MK6 4AU,S,N,F,26,,Langham Way,Ashland,Milton Keynes
+2023-03-24,180000,MK6 3DW,T,N,F,16,,Bascote,Tinkers Bridge,Milton Keynes
+2023-03-20,220000,MK6 3PB,F,N,L,18,,Jeeves Close,Peartree Bridge,Milton Keynes
+2023-03-17,350000,MK6 4BD,T,N,F,10,,Felstar Walk,Ashland,Milton Keynes
+2023-03-10,220000,MK6 5BJ,T,N,F,48,,Golden Drive,Eaglestone,Milton Keynes
+2023-03-03,140000,MK6 2DJ,F,N,L,15D,,Vellan Avenue,Fishermead,Milton Keynes
+2023-03-01,55000,MK6 2RZ,F,N,L,85,,Dexter Avenue,Oldbrook,Milton Keynes
+2023-02-24,70000,MK6 4AU,F,N,L,13,,Langham Way,Ashland,Milton Keynes
+2023-02-17,235000,MK6 4AN,F,N,F,37,,Newington Gate,Ashland,Milton Keynes
+2023-02-16,300000,MK6 2RA,S,N,F,111,,Arlott Crescent,Oldbrook,Milton Keynes
+2023-02-14,580000,MK6 3BH,D,N,F,19,,Medland,Woughton Park,Milton Keynes
+2023-02-09,210000,MK6 4HS,T,N,F,190,,Farmborough,Netherfield,Milton Keynes
+2023-02-06,300000,MK6 2EJ,T,N,F,53,,Talland Avenue,Fishermead,Milton Keynes
+2023-02-03,165000,MK6 5LJ,F,N,L,18,,Lampitts Cross,Eaglestone,Milton Keynes
+2023-02-03,270000,MK6 5AA,T,N,F,38,,Buckingham Gate,Eaglestone,Milton Keynes
+2023-01-31,73000,MK6 5LW,F,N,L,13,,Marine Court,Leadenhall,Milton Keynes
+2023-01-31,350000,MK6 2JW,T,N,F,91,,Perran Avenue,Fishermead,Milton Keynes
+2023-01-27,265000,MK6 5AB,T,N,F,6,,Abbotsfield,Eaglestone,Milton Keynes
+2023-01-27,190000,MK6 4AN,F,N,L,5,,Newington Gate,Ashland,Milton Keynes
+2023-01-25,76000,MK6 4AQ,F,N,L,80,,Lexham Road,Ashland,Milton Keynes
+2023-01-23,310000,MK6 2DQ,T,N,F,54,,Helford Place,Fishermead,Milton Keynes
+2023-01-20,350000,MK6 2SW,D,N,F,20,,Vellan Avenue,Fishermead,Milton Keynes
+2023-01-20,260000,MK6 2JP,S,N,F,96,,Perran Avenue,Fishermead,Milton Keynes
+2023-01-20,365000,MK6 2HP,S,N,F,28,,Dexter Avenue,Oldbrook,Milton Keynes
+2023-01-06,400000,MK6 5HA,D,N,F,24,,Trubys Garden,Coffee Hall,Milton Keynes
+2022-12-22,255000,MK6 3PJ,T,N,F,2,,Hillyer Court,Peartree Bridge,Milton Keynes
+2022-12-21,220000,MK6 3PA,F,N,L,14,,Woodley Headland,Peartree Bridge,Milton Keynes
+2022-12-19,280000,MK6 2AR,S,N,F,2,,Ames Close,Oldbrook,Milton Keynes
+2022-12-16,355000,MK6 2PL,T,N,F,33,,Richardson Place,Oldbrook,Milton Keynes
+2022-12-14,300000,MK6 3PA,F,N,L,33,,Woodley Headland,Peartree Bridge,Milton Keynes
+2022-12-09,320000,MK6 5LT,S,N,F,7,,Fryday Street,Leadenhall,Milton Keynes
+2022-12-09,290000,MK6 5DB,T,N,F,58,,Daniels Welch,Coffee Hall,Milton Keynes
+2022-12-08,203000,MK6 4HE,T,N,F,16,,Langland Road,Netherfield,Milton Keynes
+2022-12-02,265000,MK6 2EY,T,N,F,52,,Underwood Place,Oldbrook,Milton Keynes
+2022-12-02,190000,MK6 2ES,D,N,F,62,,Padstow Avenue,Fishermead,Milton Keynes
+2022-11-30,290000,MK6 5DB,T,N,F,60,,Daniels Welch,Coffee Hall,Milton Keynes
+2022-11-30,255000,MK6 5BH,T,N,F,7,,Peregrine Close,Eaglestone,Milton Keynes
+2022-11-30,76000,MK6 4AR,F,N,L,13,,Fenlandia,Ashland,Milton Keynes
+2022-11-30,390000,MK6 3NL,D,N,F,29,,Graveney Place,Springfield,Milton Keynes
+2022-11-25,265000,MK6 5LB,S,N,F,70,,Fulwoods Drive,Leadenhall,Milton Keynes
+2022-11-25,200000,MK6 4LW,T,N,F,44,,Wastel,Beanhill,Milton Keynes
+2022-11-25,235000,MK6 4HQ,T,N,F,9,,The Hide,Netherfield,Milton Keynes
+2022-11-25,272000,MK6 2QD,T,N,F,62,,Boycott Avenue,Oldbrook,Milton Keynes
+2022-11-23,170000,MK6 3DT,F,N,L,32,,The Mount,Simpson,Milton Keynes
+2022-11-21,74000,MK6 5LW,F,N,L,19,,Marine Court,Leadenhall,Milton Keynes
+2022-11-18,310000,MK6 3JD,T,N,F,8,,Walbrook Avenue,Springfield,Milton Keynes
+2022-11-18,175000,MK6 3BP,T,N,F,16,,Old Groveway,Simpson,Milton Keynes
+2022-11-16,252000,MK6 3PB,F,N,L,14,,Jeeves Close,Peartree Bridge,Milton Keynes
+2022-11-16,400000,MK6 3HX,D,N,F,90,,Springfield Boulevard,Springfield,Milton Keynes
+2022-11-14,305000,MK6 4LY,S,N,F,10,,Medale Road,Beanhill,Milton Keynes
+2022-11-11,240000,MK6 4JA,T,N,F,250,,Beadlemead,Netherfield,Milton Keynes
+2022-11-11,370000,MK6 2JP,T,N,F,96A,,Perran Avenue,Fishermead,Milton Keynes
+2022-10-31,255000,MK6 5EP,T,N,F,31,,Merlin Walk,Eaglestone,Milton Keynes
+2022-10-31,165000,MK6 3LB,S,N,L,47A,,Belsize Avenue,Springfield,Milton Keynes
+2022-10-31,377500,MK6 2JD,D,N,F,106,,Oldbrook Boulevard,Oldbrook,Milton Keynes
+2022-10-28,307000,MK6 4LE,T,N,F,45,,Beanfare,Beanhill,Milton Keynes
+2022-10-28,395000,MK6 3DZ,D,N,F,24,,Passmore,Tinkers Bridge,Milton Keynes
+2022-10-28,167500,MK6 2TH,F,N,L,4,,Barrington Mews,Oldbrook,Milton Keynes
+2022-10-28,185000,MK6 2PX,F,N,L,44,,Shackleton Place,Oldbrook,Milton Keynes
+2022-10-27,96000,MK6 2RQ,S,N,L,91,,Oldbrook Boulevard,Oldbrook,Milton Keynes
+2022-10-26,230000,MK6 5DR,T,N,F,129,,Jonathans,Coffee Hall,Milton Keynes
+2022-10-24,400000,MK6 4AN,T,N,F,61,,Newington Gate,Ashland,Milton Keynes
+2022-10-21,250000,MK6 5DY,T,N,F,225,,Daniels Welch,Coffee Hall,Milton Keynes
+2022-10-19,750000,MK6 3EP,D,N,F,16,,Goodman Gardens,Woughton On The Green,Milton Keynes
+2022-10-18,315000,MK6 3HA,T,N,F,31,,Clerkenwell Place,Springfield,Milton Keynes
+2022-10-14,420000,MK6 3LP,S,N,F,4,,Holywell Place,Springfield,Milton Keynes
+2022-10-14,386000,MK6 2RA,D,N,F,79,,Arlott Crescent,Oldbrook,Milton Keynes
+2022-10-07,500000,MK6 2XD,S,N,F,31,,Kirkstall Place,Oldbrook,Milton Keynes
+2022-10-07,108000,MK6 2QP,D,N,L,43,,Edrich Avenue,Oldbrook,Milton Keynes
+2022-09-30,175000,MK6 5LE,S,N,L,30,,Coles Avenue,Leadenhall,Milton Keynes
+2022-09-30,245000,MK6 5BJ,T,N,F,52,,Golden Drive,Eaglestone,Milton Keynes
+2022-09-30,78000,MK6 2SX,T,N,L,7,,Blackham Court,Oldbrook,Milton Keynes
+2022-09-30,105000,MK6 2RJ,F,N,L,6,,Barnes Place,Oldbrook,Milton Keynes
+2022-09-30,62000,MK6 2RE,F,N,L,10,,Cartwright Place,Oldbrook,Milton Keynes
+2022-09-26,312000,MK6 3LB,S,N,F,9,,Belsize Avenue,Springfield,Milton Keynes
+2022-09-23,172424,MK6 5HA,D,N,F,5,,Trubys Garden,Coffee Hall,Milton Keynes
+2022-09-23,375000,MK6 2HT,D,N,F,34,,The Boundary,Oldbrook,Milton Keynes
+2022-09-16,182500,MK6 5NA,F,N,L,22,,Moorgate,Leadenhall,Milton Keynes
+2022-09-16,195000,MK6 4HR,T,N,F,119,,The Hide,Netherfield,Milton Keynes
+2022-09-14,575000,MK6 3BJ,D,N,F,5,,Elton,Woughton Park,Milton Keynes
+2022-09-08,430000,MK6 3LQ,D,N,F,92,,Stamford Avenue,Springfield,Milton Keynes
+2022-09-07,188000,MK6 2JX,F,N,L,6C,,Boycott Avenue,Oldbrook,Milton Keynes
+2022-09-06,136000,MK6 3ED,F,N,L,38,,Troutbeck,Peartree Bridge,Milton Keynes
+2022-09-02,145000,MK6 2XJ,F,N,L,25,,Grace Avenue,Oldbrook,Milton Keynes
+2022-08-31,58000,MK6 5LQ,F,N,L,8,,Devereux Place,Leadenhall,Milton Keynes
+2022-08-30,182000,MK6 5LE,T,N,L,55,,Coles Avenue,Leadenhall,Milton Keynes
+2022-08-30,415000,MK6 5HA,D,N,F,23,,Trubys Garden,Coffee Hall,Milton Keynes
+2022-08-26,285000,MK6 5DW,T,N,F,89,,St Dunstans,Coffee Hall,Milton Keynes
+2022-08-26,175000,MK6 3HG,F,N,L,15F,,Falcon Avenue,Springfield,Milton Keynes
+2022-08-19,195000,MK6 4HN,T,N,F,205,,Broadlands,Netherfield,Milton Keynes
+2022-08-19,335000,MK6 2PU,T,N,F,76,,Shackleton Place,Oldbrook,Milton Keynes
+2022-08-15,163000,MK6 5LE,F,N,L,10,,Coles Avenue,Leadenhall,Milton Keynes
+2022-08-12,72000,MK6 5LW,F,N,L,9,,Marine Court,Leadenhall,Milton Keynes
+2022-08-12,140000,MK6 2NB,F,N,L,28,,Kirkstall Place,Oldbrook,Milton Keynes
+2022-08-10,715000,MK6 3AL,D,N,F,394C,,Simpson,Simpson,Milton Keynes
+2022-08-08,260000,MK6 2QU,S,N,F,69,,Trueman Place,Oldbrook,Milton Keynes
+2022-08-05,313000,MK6 3JD,S,N,F,4,,Walbrook Avenue,Springfield,Milton Keynes
+2022-08-02,340000,MK6 2XF,D,N,F,115,,Kirkstall Place,Oldbrook,Milton Keynes
+2022-07-29,190000,MK6 4AN,F,N,L,17,,Newington Gate,Ashland,Milton Keynes
+2022-07-29,290000,MK6 3JP,T,N,F,77,,Walbrook Avenue,Springfield,Milton Keynes
+2022-07-29,138000,MK6 2EA,F,N,L,88C,,Polruan Place,Fishermead,Milton Keynes
+2022-07-28,417000,MK6 4AF,D,N,F,3,,Wraxall Way,Ashland,Milton Keynes
+2022-07-27,290000,MK6 5DB,T,N,F,66,,Daniels Welch,Coffee Hall,Milton Keynes
+2022-07-27,445000,MK6 3DA,S,N,F,13,,Marshworth,Tinkers Bridge,Milton Keynes
+2022-07-26,170000,MK6 5NA,F,N,L,58,,Moorgate,Leadenhall,Milton Keynes
+2022-07-25,170000,MK6 3ED,F,N,L,1,,Troutbeck,Peartree Bridge,Milton Keynes
+2022-07-22,72000,MK6 5LW,F,N,L,7,,Marine Court,Leadenhall,Milton Keynes
+2022-07-18,116000,MK6 2EG,F,N,L,56B,,Bossiney Place,Fishermead,Milton Keynes
+2022-07-15,268000,MK6 5DL,T,N,F,134,,Rochfords,Coffee Hall,Milton Keynes
+2022-07-15,179995,MK6 5DH,T,N,F,65,,Rochfords,Coffee Hall,Milton Keynes
+2022-07-15,216000,MK6 4LL,T,N,F,127,,Tandra,Beanhill,Milton Keynes
+2022-07-14,285000,MK6 3LF,T,N,F,109,,Springfield Boulevard,Springfield,Milton Keynes
+2022-07-13,315000,MK6 5BG,T,N,F,7,,Griffon Close,Eaglestone,Milton Keynes
+2022-07-08,249995,MK6 2ST,T,N,F,33,,Helford Place,Fishermead,Milton Keynes
+2022-07-07,135000,MK6 2LD,F,N,L,30,,Kernow Crescent,Fishermead,Milton Keynes
+2022-06-30,250000,MK6 5DY,T,N,F,125,,Daniels Welch,Coffee Hall,Milton Keynes
+2022-06-30,280000,MK6 5DX,T,N,F,206,,Daniels Welch,Coffee Hall,Milton Keynes
+2022-06-30,195000,MK6 4LP,T,N,F,4,,Dodkin,Beanhill,Milton Keynes
+2022-06-30,500000,MK6 4AX,D,N,F,7,,Genesis Green,Ashland,Milton Keynes
+2022-06-30,253000,MK6 2BB,T,N,F,14,,Pencarrow Place,Fishermead,Milton Keynes
+2022-06-24,234500,MK6 3BZ,F,N,L,32,,Lucas Place,Woughton On The Green,Milton Keynes
+2022-06-24,140000,MK6 2XJ,S,N,L,47,,Grace Avenue,Oldbrook,Milton Keynes
+2022-06-23,196000,MK6 2SZ,T,N,F,18,,Wynyard Court,Oldbrook,Milton Keynes
+2022-06-22,280000,MK6 5LB,T,N,F,50,,Fulwoods Drive,Leadenhall,Milton Keynes
+2022-06-22,250000,MK6 5HF,S,N,F,43,,Squires Close,Coffee Hall,Milton Keynes
+2022-06-22,234207,MK6 3FD,S,N,F,13,,Walden Croft,Simpson,Milton Keynes
+2022-06-21,430000,MK6 2HH,S,N,F,28,,Trueman Place,Oldbrook,Milton Keynes
+2022-06-20,215000,MK6 4HW,T,N,F,166,,Farthing Grove,Netherfield,Milton Keynes
+2022-06-16,500000,MK6 3AB,D,N,F,4,,Holmfield Close,Tinkers Bridge,Milton Keynes
+2022-06-13,171500,MK6 2NJ,S,N,L,5,,Underwood Place,Oldbrook,Milton Keynes
+2022-06-10,380000,MK6 2HE,D,N,F,7,,Trueman Place,Oldbrook,Milton Keynes
+2022-06-01,335000,MK6 4AN,S,N,F,20,,Newington Gate,Ashland,Milton Keynes
+2022-05-31,76000,MK6 4AQ,F,N,L,82,,Lexham Road,Ashland,Milton Keynes
+2022-05-31,235000,MK6 2JW,S,N,F,89,,Perran Avenue,Fishermead,Milton Keynes
+2022-05-30,245000,MK6 5AG,T,N,F,11,,North Ridge,Eaglestone,Milton Keynes
+2022-05-27,195000,MK6 4HJ,T,N,F,37,,Broadlands,Netherfield,Milton Keynes
+2022-05-27,380000,MK6 4AN,T,N,F,25,,Newington Gate,Ashland,Milton Keynes
+2022-05-27,231500,MK6 2QH,T,N,F,74,,Dexter Avenue,Oldbrook,Milton Keynes
+2022-05-25,330000,MK6 3PA,T,N,F,25,,Woodley Headland,Peartree Bridge,Milton Keynes
+2022-05-25,318000,MK6 2JH,S,N,F,5,,Trispen Court,Fishermead,Milton Keynes
+2022-05-24,175000,MK6 2LT,D,N,F,39,,Rhodes Place,Oldbrook,Milton Keynes
+2022-05-20,226475,MK6 5EU,S,N,F,34,,Forest Rise,Eaglestone,Milton Keynes
+2022-05-20,77000,MK6 2RZ,T,N,L,69,,Dexter Avenue,Oldbrook,Milton Keynes
+2022-05-19,300000,MK6 2RH,F,N,F,12,,Tyson Place,Oldbrook,Milton Keynes
+2022-05-12,200000,MK6 3DE,T,N,F,11,,Waterside,Peartree Bridge,Milton Keynes
+2022-05-10,630000,MK6 3BH,D,N,F,7,,Medland,Woughton Park,Milton Keynes
+2022-05-05,290000,MK6 3HN,T,N,F,28,,Ravensbourne Place,Springfield,Milton Keynes
+2022-05-05,126000,MK6 2DL,F,N,L,16E,,Towan Avenue,Fishermead,Milton Keynes
+2022-05-03,225000,MK6 3DQ,D,N,F,166,,Waterside,Peartree Bridge,Milton Keynes
+2022-04-29,265000,MK6 5DD,T,N,F,31,,Garraways,Coffee Hall,Milton Keynes
+2022-04-29,295000,MK6 3HX,D,N,F,84,,Springfield Boulevard,Springfield,Milton Keynes
+2022-04-29,165000,MK6 3ED,F,N,L,9,,Troutbeck,Peartree Bridge,Milton Keynes
+2022-04-28,184000,MK6 3DE,T,N,F,35,,Waterside,Peartree Bridge,Milton Keynes
+2022-04-26,100000,MK6 5LQ,T,N,L,23,,Devereux Place,Leadenhall,Milton Keynes
+2022-04-25,278000,MK6 3JY,T,N,F,12,,Stamford Avenue,Springfield,Milton Keynes
+2022-04-21,166000,MK6 2QD,F,N,L,48,,Boycott Avenue,Oldbrook,Milton Keynes
+2022-04-20,150000,MK6 2PA,F,N,L,8,,Sutcliffe Avenue,Oldbrook,Milton Keynes
+2022-04-14,355000,MK6 3LG,S,N,F,139,,Stamford Avenue,Springfield,Milton Keynes
+2022-04-12,715000,MK6 3DT,S,N,F,42,,The Mount,Simpson,Milton Keynes
+2022-04-08,190000,MK6 4AR,F,N,L,7,,Fenlandia,Ashland,Milton Keynes
+2022-03-31,205000,MK6 4LA,T,N,F,44,,Lammas,Beanhill,Milton Keynes
+2022-03-31,350000,MK6 3LN,D,N,F,49,,Belsize Avenue,Springfield,Milton Keynes
+2022-03-30,475000,MK6 3AY,S,N,F,29,,Hanmer Road,Simpson,Milton Keynes
+2022-03-29,330000,MK6 2SW,D,N,F,24,,Vellan Avenue,Fishermead,Milton Keynes
+2022-03-28,280000,MK6 3LD,T,N,F,75,,Stamford Avenue,Springfield,Milton Keynes
+2022-03-28,145000,MK6 3HG,F,N,L,15E,,Falcon Avenue,Springfield,Milton Keynes
+2022-03-28,290000,MK6 2HY,T,N,F,131,,Oldbrook Boulevard,Oldbrook,Milton Keynes
+2022-03-25,180000,MK6 4HR,T,N,F,121,,The Hide,Netherfield,Milton Keynes
+2022-03-25,185000,MK6 3DT,F,N,L,18,,The Mount,Simpson,Milton Keynes
+2022-03-25,160000,MK6 2LP,F,N,L,2,,Newlyn Place,Fishermead,Milton Keynes
+2022-03-25,270000,MK6 2AQ,T,N,F,43,,Fishermead Boulevard,Fishermead,Milton Keynes
+2022-03-24,965000,MK6 3ER,D,N,F,13,,Verley Close,Woughton On The Green,Milton Keynes
+2022-03-21,289995,MK6 2LJ,D,N,F,60,,Perran Avenue,Fishermead,Milton Keynes
+2022-03-14,105000,MK6 2BH,F,N,L,91F,,Penryn Avenue,Fishermead,Milton Keynes
+2022-03-07,270000,MK6 5HA,D,N,F,11,,Trubys Garden,Coffee Hall,Milton Keynes
+2022-03-04,120000,MK6 3ED,F,N,L,18,,Troutbeck,Peartree Bridge,Milton Keynes
+2022-03-04,222000,MK6 2JR,S,N,F,7,,Helston Place,Fishermead,Milton Keynes
+2022-03-03,39000,MK6 4NJ,F,N,L,7,,Wheatcroft Close,Beanhill,Milton Keynes
+2022-02-28,280000,MK6 5EP,T,N,F,18,,Merlin Walk,Eaglestone,Milton Keynes
+2022-02-28,150000,MK6 3DH,T,N,F,39,,Blisworth,Tinkers Bridge,Milton Keynes
+2022-02-28,163500,MK6 2NL,F,N,L,19,,Milburn Avenue,Oldbrook,Milton Keynes
+2022-02-25,205000,MK6 4LW,T,N,F,23,,Wastel,Beanhill,Milton Keynes
+2022-02-25,550000,MK6 3FF,D,N,F,4,,Bowlers Close,Simpson,Milton Keynes
+2022-02-25,155000,MK6 2NQ,F,N,L,56,,Century Avenue,Oldbrook,Milton Keynes
+2022-02-23,309000,MK6 2XN,D,N,F,8,,Grace Avenue,Oldbrook,Milton Keynes
+2022-02-19,74995,MK6 5LW,F,N,L,10,,Marine Court,Leadenhall,Milton Keynes
+2022-02-17,148000,MK6 4JW,F,N,L,Hanbury House,Flat 10,Akerlea Close,Netherfield,Milton Keynes
+2022-02-17,101000,MK6 4HD,F,N,L,303,,Broadlands,Netherfield,Milton Keynes
+2022-02-16,285000,MK6 2BD,T,N,F,71,,Porthleven Place,Fishermead,Milton Keynes
+2022-02-07,280000,MK6 5DP,T,N,F,136,,Jonathans,Coffee Hall,Milton Keynes
+2022-02-05,375000,MK6 2RA,D,N,F,53,,Arlott Crescent,Oldbrook,Milton Keynes
+2022-02-04,330000,MK6 2XF,S,N,F,63,,Kirkstall Place,Oldbrook,Milton Keynes
+2022-02-04,325000,MK6 2PD,T,N,F,31,,Sutcliffe Avenue,Oldbrook,Milton Keynes
+2022-02-01,230000,MK6 5AA,T,N,F,21,,Buckingham Gate,Eaglestone,Milton Keynes
+2022-02-01,237500,MK6 2EY,T,N,F,30,,Underwood Place,Oldbrook,Milton Keynes
+2022-02-01,265000,MK6 2BY,T,N,F,29,,Tolcarne Avenue,Fishermead,Milton Keynes
+2022-01-31,270000,MK6 5EP,S,N,F,16,,Merlin Walk,Eaglestone,Milton Keynes
+2022-01-31,171000,MK6 4LP,T,N,F,6,,Dodkin,Beanhill,Milton Keynes
+2022-01-31,240000,MK6 3DL,T,N,F,32,,Brent,Tinkers Bridge,Milton Keynes
+2022-01-28,183000,MK6 4LP,T,N,F,40,,Dodkin,Beanhill,Milton Keynes
+2022-01-27,165000,MK6 4HU,T,N,F,183,,Beadlemead,Netherfield,Milton Keynes
+2022-01-27,173000,MK6 4HJ,T,N,F,53,,Broadlands,Netherfield,Milton Keynes
+2022-01-24,200000,MK6 4LP,T,N,F,46,,Dodkin,Beanhill,Milton Keynes
+2022-01-19,153000,MK6 4LW,T,N,F,61,,Wastel,Beanhill,Milton Keynes
+2022-01-14,192000,MK6 2NJ,F,N,L,11,,Underwood Place,Oldbrook,Milton Keynes
+2022-01-07,145000,MK6 2EF,F,N,L,27D,,Bossiney Place,Fishermead,Milton Keynes
+2021-12-23,325000,MK6 4BD,S,N,F,5,,Felstar Walk,Ashland,Milton Keynes
+2021-12-22,135000,MK6 3LB,F,N,L,47D,,Belsize Avenue,Springfield,Milton Keynes
+2021-12-21,172000,MK6 5DY,T,N,F,187,,Daniels Welch,Coffee Hall,Milton Keynes
+2021-12-21,352500,MK6 3EY,D,N,F,10,,St Brides Close,Springfield,Milton Keynes
+2021-12-20,272500,MK6 3LN,S,N,F,73,,Belsize Avenue,Springfield,Milton Keynes
+2021-12-17,260000,MK6 5HA,D,N,F,15,,Trubys Garden,Coffee Hall,Milton Keynes
+2021-12-17,265000,MK6 4LR,S,N,F,26,,Darnel Close,Beanhill,Milton Keynes
+2021-12-17,270000,MK6 2QD,T,N,F,70,,Boycott Avenue,Oldbrook,Milton Keynes
+2021-12-15,250000,MK6 5AN,T,N,F,7,,Ashby,Eaglestone,Milton Keynes
+2021-12-14,185000,MK6 3DL,T,N,F,25,,Brent,Tinkers Bridge,Milton Keynes
+2021-12-13,365000,MK6 5HA,S,N,F,29,,Trubys Garden,Coffee Hall,Milton Keynes
+2021-12-10,185500,MK6 5LE,T,N,L,57,,Coles Avenue,Leadenhall,Milton Keynes
+2021-12-10,180000,MK6 3LD,F,N,L,45A,,Stamford Avenue,Springfield,Milton Keynes
+2021-12-10,185000,MK6 3DT,F,N,L,14,,The Mount,Simpson,Milton Keynes
+2021-12-09,702000,MK6 3AS,D,N,F,2,,Foxton,Woughton Park,Milton Keynes
+2021-12-08,241000,MK6 2JW,S,N,F,79,,Perran Avenue,Fishermead,Milton Keynes
+2021-12-07,250000,MK6 2EB,T,N,F,56C,,Polruan Place,Fishermead,Milton Keynes
+2021-11-30,217500,MK6 5LB,S,N,F,8,,Fulwoods Drive,Leadenhall,Milton Keynes
+2021-11-30,262000,MK6 5EU,D,N,F,36,,Forest Rise,Eaglestone,Milton Keynes
+2021-11-26,145000,MK6 4LJ,T,N,F,81,,Tandra,Beanhill,Milton Keynes
+2021-11-26,206000,MK6 4LH,T,N,F,36,,Tandra,Beanhill,Milton Keynes
+2021-11-26,85000,MK6 2QG,F,N,L,41,,Hutton Avenue,Oldbrook,Milton Keynes
+2021-11-26,202500,MK6 2PY,T,N,L,39,,Shackleton Place,Oldbrook,Milton Keynes
+2021-11-16,305000,MK6 2TY,T,N,F,18,,The Oval,Oldbrook,Milton Keynes
+2021-11-12,225000,MK6 5LB,S,N,F,24,,Fulwoods Drive,Leadenhall,Milton Keynes
+2021-11-04,342000,MK6 3AX,T,N,F,15,,Lissel Road,Simpson,Milton Keynes
+2021-11-03,195000,MK6 4LE,T,N,F,39,,Beanfare,Beanhill,Milton Keynes
+2021-11-02,470000,MK6 4AP,D,N,F,66,,Flexerne Crescent,Ashland,Milton Keynes
+2021-11-02,295000,MK6 4AP,S,N,F,25,,Flexerne Crescent,Ashland,Milton Keynes
+2021-10-29,80000,MK6 4JW,F,N,L,Heaton House,Flat 36,Akerlea Close,Netherfield,Milton Keynes
+2021-10-29,90000,MK6 4AN,S,N,L,21,,Newington Gate,Ashland,Milton Keynes
+2021-10-29,90000,MK6 2LP,F,N,L,12,,Newlyn Place,Fishermead,Milton Keynes
+2021-10-29,205000,MK6 2JT,T,N,F,58B,,Polruan Place,Fishermead,Milton Keynes
+2021-10-28,165000,MK6 2TT,T,N,F,115,,Underwood Place,Oldbrook,Milton Keynes
+2021-10-27,270000,MK6 2BE,T,N,F,120,,Penryn Avenue,Fishermead,Milton Keynes
+2021-10-25,155000,MK6 3BZ,F,N,L,45,,Lucas Place,Woughton On The Green,Milton Keynes
+2021-10-22,240000,MK6 3PH,T,N,F,100,,Ambridge Grove,Peartree Bridge,Milton Keynes
+2021-10-21,85000,MK6 5NA,F,N,L,36,,Moorgate,Leadenhall,Milton Keynes
+2021-10-15,318000,MK6 5LZ,D,N,F,3,,Ludgate,Leadenhall,Milton Keynes
+2021-10-15,150000,MK6 2DL,F,N,L,16A,,Towan Avenue,Fishermead,Milton Keynes
+2021-10-14,540000,MK6 3FF,D,N,F,2,,Bowlers Close,Simpson,Milton Keynes
+2021-10-12,281000,MK6 3JE,T,N,F,30,,Walbrook Avenue,Springfield,Milton Keynes
+2021-10-11,257500,MK6 3DE,T,N,F,15,,Waterside,Peartree Bridge,Milton Keynes
+2021-10-08,280000,MK6 4LU,S,N,F,16,,Woodrush Close,Beanhill,Milton Keynes
+2021-10-08,426000,MK6 3AA,D,N,F,43,,Old Groveway,Simpson,Milton Keynes
+2021-10-04,170000,MK6 3DT,F,N,L,27,,The Mount,Simpson,Milton Keynes
+2021-10-01,100000,MK6 4JW,F,N,L,Heaton House,Flat 50,Akerlea Close,Netherfield,Milton Keynes
+2021-09-30,260000,MK6 5DA,T,N,F,117,,Daniels Welch,Coffee Hall,Milton Keynes
+2021-09-30,220000,MK6 5AB,S,N,F,26,,Abbotsfield,Eaglestone,Milton Keynes
+2021-09-30,400000,MK6 3LS,D,N,F,26,,Belsize Avenue,Springfield,Milton Keynes
+2021-09-30,520000,MK6 3FF,D,N,F,3,,Bowlers Close,Simpson,Milton Keynes
+2021-09-30,630000,MK6 3FF,D,N,F,1,,Bowlers Close,Simpson,Milton Keynes
+2021-09-30,400000,MK6 3DY,D,N,F,15,,Passmore,Tinkers Bridge,Milton Keynes
+2021-09-30,1300000,MK6 3BE,D,N,F,17A,,The Green,Woughton On The Green,Milton Keynes
+2021-09-30,172500,MK6 2XJ,F,N,L,63,,Grace Avenue,Oldbrook,Milton Keynes
+2021-09-30,420000,MK6 2SD,D,N,F,57,,Ulyett Place,Oldbrook,Milton Keynes
+2021-09-29,182000,MK6 5DN,S,N,F,121,,Rochfords,Coffee Hall,Milton Keynes
+2021-09-29,193500,MK6 5AG,S,N,F,18,,North Ridge,Eaglestone,Milton Keynes
+2021-09-29,195000,MK6 4HH,T,N,F,36,,Farthing Grove,Netherfield,Milton Keynes
+2021-09-29,153000,MK6 3ED,F,N,L,19,,Troutbeck,Peartree Bridge,Milton Keynes
+2021-09-28,175000,MK6 4HU,T,N,F,163,,Beadlemead,Netherfield,Milton Keynes
+2021-09-24,148000,MK6 4JW,F,N,L,Longueville Lodge,Flat 72,Akerlea Close,Netherfield,Milton Keynes
+2021-09-24,90000,MK6 3PJ,S,N,L,1,,Hillyer Court,Peartree Bridge,Milton Keynes
+2021-09-24,290000,MK6 3PA,S,N,F,9,,Woodley Headland,Peartree Bridge,Milton Keynes
+2021-09-24,290000,MK6 3PA,S,N,F,24,,Woodley Headland,Peartree Bridge,Milton Keynes
+2021-09-24,330000,MK6 2SX,T,N,F,13,,Blackham Court,Oldbrook,Milton Keynes
+2021-09-24,295000,MK6 2SR,D,N,F,44,,Veryan Place,Fishermead,Milton Keynes
+2021-09-17,200000,MK6 5EP,T,N,F,48,,Merlin Walk,Eaglestone,Milton Keynes
+2021-09-17,310000,MK6 2TX,T,N,F,39,,The Oval,Oldbrook,Milton Keynes
+2021-09-13,245000,MK6 5HF,T,N,F,46,,Squires Close,Coffee Hall,Milton Keynes
+2021-09-10,225000,MK6 5HD,T,N,F,51,,Robins Hill,Coffee Hall,Milton Keynes
+2021-09-10,315000,MK6 3AF,D,N,F,426,,Simpson Road,Simpson,Milton Keynes
+2021-09-09,250000,MK6 2AE,T,N,F,127,,Fishermead Boulevard,Fishermead,Milton Keynes
+2021-09-07,275000,MK6 2QR,S,N,F,62,,Edrich Avenue,Oldbrook,Milton Keynes
+2021-09-03,195000,MK6 4LG,T,N,F,10,,Chervil,Beanhill,Milton Keynes
+2021-09-03,105000,MK6 3DT,F,N,L,25,,The Mount,Simpson,Milton Keynes
+2021-09-01,210000,MK6 5HD,S,N,F,39,,Robins Hill,Coffee Hall,Milton Keynes
+2021-08-31,350000,MK6 2RA,D,N,F,129,,Arlott Crescent,Oldbrook,Milton Keynes
+2021-08-27,246000,MK6 5BG,T,N,F,4,,Griffon Close,Eaglestone,Milton Keynes
+2021-08-27,285000,MK6 4AP,T,N,F,37,,Flexerne Crescent,Ashland,Milton Keynes
+2021-08-27,237500,MK6 3DT,S,N,F,38,,The Mount,Simpson,Milton Keynes
+2021-08-27,290000,MK6 2SP,D,N,F,27,,Veryan Place,Fishermead,Milton Keynes
+2021-08-27,220200,MK6 2QH,T,N,F,68,,Dexter Avenue,Oldbrook,Milton Keynes
+2021-08-27,230000,MK6 2BP,T,N,F,1,,Penryn Avenue,Fishermead,Milton Keynes
+2021-08-26,236000,MK6 2BB,T,N,F,2,,Pencarrow Place,Fishermead,Milton Keynes
+2021-08-26,245000,MK6 2AH,D,N,F,32,,Fishermead Boulevard,Fishermead,Milton Keynes
+2021-08-25,195000,MK6 5LB,S,N,F,34,,Fulwoods Drive,Leadenhall,Milton Keynes
+2021-08-25,315000,MK6 4AF,T,N,F,14,,Wraxall Way,Ashland,Milton Keynes
+2021-08-23,67200,MK6 5LE,S,N,L,24,,Coles Avenue,Leadenhall,Milton Keynes
+2021-08-20,250000,MK6 5BE,T,N,F,4,,Condor Close,Eaglestone,Milton Keynes
+2021-08-17,210000,MK6 5DA,T,N,F,77,,Daniels Welch,Coffee Hall,Milton Keynes
+2021-08-16,1400000,MK6 3ER,D,N,F,10,,Verley Close,Woughton On The Green,Milton Keynes
+2021-08-13,108000,MK6 5LW,F,N,L,24,,Marine Court,Leadenhall,Milton Keynes
+2021-08-11,452650,MK6 3AL,D,N,F,394,,Simpson,Simpson,Milton Keynes
+2021-08-10,743600,MK6 3EN,D,N,F,10,,Baskerfield Grove,Woughton On The Green,Milton Keynes
+2021-08-09,360000,MK6 2HT,D,N,F,36,,The Boundary,Oldbrook,Milton Keynes
+2021-08-04,165000,MK6 3DT,F,N,L,31,,The Mount,Simpson,Milton Keynes
+2021-08-04,285000,MK6 2QB,T,N,F,199,,Oldbrook Boulevard,Oldbrook,Milton Keynes
+2021-07-30,237000,MK6 5LE,S,N,L,73,,Coles Avenue,Leadenhall,Milton Keynes
+2021-07-30,235000,MK6 5BT,T,N,F,13,,Lanner Walk,Eaglestone,Milton Keynes
+2021-07-30,537500,MK6 4AW,D,N,F,11,,Shelsley Avenue,Ashland,Milton Keynes
+2021-07-30,330000,MK6 2ES,S,N,F,36,,Padstow Avenue,Fishermead,Milton Keynes
+2021-07-29,278000,MK6 3JP,T,N,F,65,,Walbrook Avenue,Springfield,Milton Keynes
+2021-07-26,215000,MK6 4LW,T,N,F,22,,Wastel,Beanhill,Milton Keynes
+2021-07-23,65800,MK6 5LF,F,N,L,7,,Youngman Place,Leadenhall,Milton Keynes
+2021-07-23,228000,MK6 5DZ,T,N,F,104,,St Dunstans,Coffee Hall,Milton Keynes
+2021-07-21,120000,MK6 3DJ,T,N,F,49,,Colne,Tinkers Bridge,Milton Keynes
+2021-07-16,182500,MK6 2RD,F,N,L,1,,Kirkstall Place,Oldbrook,Milton Keynes
+2021-07-14,250000,MK6 3HT,T,N,F,21,,Turnmill Avenue,Springfield,Milton Keynes
+2021-07-13,425000,MK6 5LJ,F,N,L,14,,Lampitts Cross,Eaglestone,Milton Keynes
+2021-07-13,270000,MK6 5HA,D,N,F,6,,Trubys Garden,Coffee Hall,Milton Keynes
+2021-07-09,245000,MK6 2BG,T,N,F,72,,Penryn Avenue,Fishermead,Milton Keynes
+2021-07-05,304000,MK6 2UH,D,N,F,100,,Century Avenue,Oldbrook,Milton Keynes
+2021-06-30,75000,MK6 2QR,S,N,L,28,,Edrich Avenue,Oldbrook,Milton Keynes
+2021-06-30,307000,MK6 2HW,S,N,F,82,,The Boundary,Oldbrook,Milton Keynes
+2021-06-29,60000,MK6 4AP,F,N,L,45,,Flexerne Crescent,Ashland,Milton Keynes
+2021-06-29,538000,MK6 3AN,D,N,F,103,,Simpson,Simpson,Milton Keynes
+2021-06-28,450000,MK6 2XW,S,N,F,54,,Grace Avenue,Oldbrook,Milton Keynes
+2021-06-25,240000,MK6 5DL,T,N,F,126,,Rochfords,Coffee Hall,Milton Keynes
+2021-06-25,100000,MK6 4JW,F,N,L,Heaton House,Flat 32,Akerlea Close,Netherfield,Milton Keynes
+2021-06-25,330000,MK6 3DY,D,N,F,57,,Passmore,Tinkers Bridge,Milton Keynes
+2021-06-25,140000,MK6 3BZ,F,N,L,43,,Lucas Place,Woughton On The Green,Milton Keynes
+2021-06-25,625000,MK6 3BF,D,N,F,1,,Millholm Rise,Simpson,Milton Keynes
+2021-06-25,585000,MK6 3AS,D,N,F,4,,Foxton,Woughton Park,Milton Keynes
+2021-06-25,285000,MK6 2ES,T,N,F,26,,Padstow Avenue,Fishermead,Milton Keynes
+2021-06-25,127500,MK6 2EJ,T,N,L,29C,,Talland Avenue,Fishermead,Milton Keynes
+2021-06-23,83000,MK6 5NA,F,N,L,24,,Moorgate,Leadenhall,Milton Keynes
+2021-06-18,335000,MK6 4AU,D,N,F,20,,Langham Way,Ashland,Milton Keynes
+2021-06-18,215000,MK6 2SP,S,N,L,69,,Veryan Place,Fishermead,Milton Keynes
+2021-06-18,240000,MK6 2PE,T,N,F,26,,Sutcliffe Avenue,Oldbrook,Milton Keynes
+2021-06-17,290000,MK6 4LU,S,N,F,14,,Woodrush Close,Beanhill,Milton Keynes
+2021-06-16,238000,MK6 2NA,T,N,F,15,,Bridgeford Court,Oldbrook,Milton Keynes
+2021-06-11,210000,MK6 5DX,T,N,F,212,,Daniels Welch,Coffee Hall,Milton Keynes
+2021-06-11,90000,MK6 2QG,F,N,L,53,,Hutton Avenue,Oldbrook,Milton Keynes
+2021-06-09,249500,MK6 3JT,T,N,F,70,,Springfield Boulevard,Springfield,Milton Keynes
+2021-06-04,280000,MK6 2PB,T,N,F,13,,Sutcliffe Avenue,Oldbrook,Milton Keynes
+2021-06-02,69000,MK6 5ND,S,N,L,25,,Phoenix Drive,Leadenhall,Milton Keynes
+2021-06-01,265000,MK6 2PP,T,N,F,94,,Shackleton Place,Oldbrook,Milton Keynes
+2021-05-28,200000,MK6 5DY,T,N,F,139,,Daniels Welch,Coffee Hall,Milton Keynes
+2021-05-28,250000,MK6 5BP,S,N,F,5,,Harlans Close,Eaglestone,Milton Keynes
+2021-05-28,245000,MK6 4LT,S,N,F,37,,Melick Road,Beanhill,Milton Keynes
+2021-05-28,168000,MK6 4AN,F,N,L,5,,Newington Gate,Ashland,Milton Keynes
+2021-05-27,365000,MK6 3DZ,S,N,F,10,,Passmore,Tinkers Bridge,Milton Keynes
+2021-05-26,68000,MK6 5LW,F,N,L,11,,Marine Court,Leadenhall,Milton Keynes
+2021-05-25,120000,MK6 3DT,F,N,L,26,,The Mount,Simpson,Milton Keynes
+2021-05-25,410000,MK6 2TT,D,N,F,131,,Underwood Place,Oldbrook,Milton Keynes
+2021-05-24,238000,MK6 5AU,T,N,F,26,,Great Denson,Eaglestone,Milton Keynes
+2021-05-24,57000,MK6 4AP,F,N,L,5,,Flexerne Crescent,Ashland,Milton Keynes
+2021-05-21,120000,MK6 4AU,T,N,L,30,,Langham Way,Ashland,Milton Keynes
+2021-05-21,382000,MK6 4AJ,D,N,F,14,,Penshurst Crescent,Ashland,Milton Keynes
+2021-05-21,380000,MK6 3DZ,D,N,F,50,,Passmore,Tinkers Bridge,Milton Keynes
+2021-05-21,250000,MK6 3DE,S,N,F,71,,Waterside,Peartree Bridge,Milton Keynes
+2021-05-17,280000,MK6 2TY,T,N,F,46,,The Oval,Oldbrook,Milton Keynes
+2021-05-14,205000,MK6 5DA,T,N,F,113,,Daniels Welch,Coffee Hall,Milton Keynes
+2021-05-14,425000,MK6 3AL,D,N,F,"The Old Police House, 392",,Simpson,Simpson,Milton Keynes
+2021-05-12,360000,MK6 3DZ,D,N,F,4,,Passmore,Tinkers Bridge,Milton Keynes
+2021-05-10,225000,MK6 4LB,T,N,F,77,,Lammas,Beanhill,Milton Keynes
+2021-05-07,450000,MK6 2TW,D,N,F,21,,The Oval,Oldbrook,Milton Keynes
+2021-04-30,155000,MK6 3DL,T,N,F,3,,Brent,Tinkers Bridge,Milton Keynes
+2021-04-29,275000,MK6 5DP,T,N,F,130,,Jonathans,Coffee Hall,Milton Keynes
+2021-04-27,275000,MK6 5LX,T,N,L,2,,Combes Crescent,Leadenhall,Milton Keynes
+2021-04-23,296000,MK6 5LB,S,N,F,66,,Fulwoods Drive,Leadenhall,Milton Keynes
+2021-04-23,370000,MK6 2SD,S,N,F,79,,Ulyett Place,Oldbrook,Milton Keynes
+2021-04-21,297500,MK6 5BN,D,N,F,136,,Golden Drive,Eaglestone,Milton Keynes
+2021-04-21,560000,MK6 3BH,D,N,F,7,,Medland,Woughton Park,Milton Keynes
+2021-04-20,275000,MK6 2LT,S,N,F,37,,Rhodes Place,Oldbrook,Milton Keynes
+2021-04-19,370000,MK6 3DZ,D,N,F,82,,Passmore,Tinkers Bridge,Milton Keynes
+2021-04-16,273000,MK6 3JX,T,N,F,1,,Stamford Avenue,Springfield,Milton Keynes
+2021-04-16,290000,MK6 2HB,S,N,F,19,,Statham Place,Oldbrook,Milton Keynes
+2021-04-08,370000,MK6 2RA,D,N,F,113,,Arlott Crescent,Oldbrook,Milton Keynes
+2021-04-06,171500,MK6 5LG,S,N,L,2,,Whites Croft,Leadenhall,Milton Keynes
+2021-04-06,155000,MK6 2PE,F,N,L,24,,Sutcliffe Avenue,Oldbrook,Milton Keynes
+2021-04-01,270000,MK6 5HQ,S,N,F,27,,Robins Hill,Coffee Hall,Milton Keynes
+2021-04-01,55500,MK6 4AW,F,N,L,53,,Shelsley Avenue,Ashland,Milton Keynes
+2021-03-31,250000,MK6 5LE,T,N,L,27,,Coles Avenue,Leadenhall,Milton Keynes
+2021-03-30,231000,MK6 5BU,S,N,F,16,,Hawkmoor Close,Eaglestone,Milton Keynes
+2021-03-26,170000,MK6 4LH,T,N,F,48,,Tandra,Beanhill,Milton Keynes
+2021-03-26,328000,MK6 3LG,S,N,F,133,,Stamford Avenue,Springfield,Milton Keynes
+2021-03-26,255000,MK6 3LB,T,N,F,37,,Belsize Avenue,Springfield,Milton Keynes
+2021-03-26,350000,MK6 2HT,D,N,F,58,,The Boundary,Oldbrook,Milton Keynes
+2021-03-23,380000,MK6 3LS,D,N,F,12,,Belsize Avenue,Springfield,Milton Keynes
+2021-03-19,215000,MK6 5DW,T,N,F,89,,St Dunstans,Coffee Hall,Milton Keynes
+2021-03-19,58500,MK6 4AP,F,N,L,15,,Flexerne Crescent,Ashland,Milton Keynes
+2021-03-19,340000,MK6 3AD,D,N,F,213,,Simpson,Simpson,Milton Keynes
+2021-03-15,320000,MK6 3AD,S,N,F,458,,Simpson,Simpson,Milton Keynes
+2021-03-12,300000,MK6 3AX,T,N,F,17,,Lissel Road,Simpson,Milton Keynes
+2021-03-10,500000,MK6 3LL,D,N,F,29,,Beverley Place,Springfield,Milton Keynes
+2021-03-05,705000,MK6 3ER,D,N,F,"The Orchard, 9A",,Verley Close,Woughton On The Green,Milton Keynes
+2021-03-04,255000,MK6 3JN,T,N,F,109,,Turnmill Avenue,Springfield,Milton Keynes
+2021-03-04,822500,MK6 3EN,D,N,F,2,,Baskerfield Grove,Woughton On The Green,Milton Keynes
+2021-02-26,230000,MK6 5HB,S,N,F,17,,Serles Close,Coffee Hall,Milton Keynes
+2021-02-26,313000,MK6 3ND,D,N,F,6,,The Fleet,Springfield,Milton Keynes
+2021-02-26,312000,MK6 2RH,D,N,F,13,,Tyson Place,Oldbrook,Milton Keynes
+2021-02-25,282000,MK6 4BD,S,N,F,3,,Felstar Walk,Ashland,Milton Keynes
+2021-02-22,210000,MK6 4LW,T,N,F,19,,Wastel,Beanhill,Milton Keynes
+2021-02-18,231000,MK6 5BE,T,N,F,5,,Condor Close,Eaglestone,Milton Keynes
+2021-02-12,175000,MK6 4HY,T,N,F,284,,Langland Road,Netherfield,Milton Keynes
+2021-02-11,195000,MK6 4HX,T,N,F,214,,Langland Road,Netherfield,Milton Keynes
+2021-02-09,215000,MK6 5DY,T,N,F,215,,Daniels Welch,Coffee Hall,Milton Keynes
+2021-02-05,360000,MK6 2XB,D,N,F,118,,Kirkstall Place,Oldbrook,Milton Keynes
+2021-02-05,220000,MK6 2QG,T,N,F,35,,Hutton Avenue,Oldbrook,Milton Keynes
+2021-01-29,86000,MK6 5LB,S,N,L,18,,Fulwoods Drive,Leadenhall,Milton Keynes
+2021-01-29,210000,MK6 5AQ,T,N,F,27,,High Trees,Eaglestone,Milton Keynes
+2021-01-29,255000,MK6 2DG,T,N,F,6,,Helford Place,Fishermead,Milton Keynes
+2021-01-22,285000,MK6 2SH,S,N,F,19,,Brearley Avenue,Oldbrook,Milton Keynes
+2021-01-22,222000,MK6 2SE,T,N,F,18,,Titchmarsh Court,Oldbrook,Milton Keynes
+2021-01-15,438000,MK6 4AJ,S,N,F,32,,Penshurst Crescent,Ashland,Milton Keynes
+2021-01-15,510008,MK6 3BQ,D,N,F,15,,Castle Rose,Woughton Park,Milton Keynes
+2021-01-07,460000,MK6 3BL,D,N,F,5,,Northwich,Woughton Park,Milton Keynes

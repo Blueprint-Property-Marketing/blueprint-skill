@@ -1,0 +1,563 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-11,220000,SA48 7NG,S,N,F,Cilmeri,,,Cribyn,Lampeter
+2026-08-05,231000,SA48 8BS,D,N,F,61,,Bryn Steffan,,Lampeter
+2026-08-04,172500,SA48 8BD,T,N,F,New Inn House,,,Felinfach,Lampeter
+2026-07-22,160000,SA48 8QA,S,N,F,18,,Maesaeron,Talsarn,Lampeter
+2026-07-17,190000,SA48 8BS,S,N,F,59,,Bryn Steffan,,Lampeter
+2026-07-17,249950,SA48 7AD,S,N,F,4,,Cwrt Maesmynach,Cribyn,Lampeter
+2026-07-13,215000,SA48 8BS,D,N,F,49,,Bryn Steffan,,Lampeter
+2026-07-08,105000,SA48 8QB,T,N,F,Aeronfa,,,Talsarn,Lampeter
+2026-06-29,295000,SA48 7NG,D,N,F,Hafan Clyd,,,Cribyn,Lampeter
+2026-06-22,178000,SA48 8BS,S,N,F,3,,Bryn Steffan,,Lampeter
+2026-06-18,125000,SA48 8ET,S,N,F,Hafod Cottage,,,Cwmann,Lampeter
+2026-06-15,290000,SA48 8RF,D,N,F,Tir Hebog,,,Cilcennin,Lampeter
+2026-06-09,100000,SA48 7DW,S,N,F,2,,Old Post Office Mews,,Lampeter
+2026-06-04,164000,SA48 7DF,T,N,F,1,,Victoria Terrace,,Lampeter
+2026-05-29,365000,SA48 8NP,D,N,F,Holly Bush,,,Derry Ormond,Lampeter
+2026-05-29,185000,SA48 8EJ,S,N,F,34B,,Cwrt Deri,Cwmann,Lampeter
+2026-05-27,375000,SA48 7LZ,D,N,F,Frondeg,,,Cribyn,Lampeter
+2026-05-22,73000,SA48 7DW,T,N,F,3,,Old Post Office Mews,,Lampeter
+2026-05-19,270000,SA48 8RF,D,N,F,Rosecroft,,,Cilcennin,Lampeter
+2026-05-18,205000,SA48 8QD,D,N,F,Gwynfa,,,Talsarn,Lampeter
+2026-05-18,315000,SA48 8LD,D,N,F,O'R Diwedd,,Bro Clywedog,Llanfair Clydogau,Lampeter
+2026-05-18,310000,SA48 7NG,D,N,F,Brynteg,,,Cribyn,Lampeter
+2026-05-18,177777,SA48 7LB,S,N,F,5,,Bro Llan,Llanwnnen,Lampeter
+2026-05-01,270000,SA48 8DA,D,N,F,Glynaeron,,,Ciliau Aeron,Lampeter
+2026-04-24,81000,SA48 7EU,F,N,L,4A,,Penbryn,,Lampeter
+2026-04-20,185000,SA48 8EJ,S,N,F,34,,Cwrt Deri,Cwmann,Lampeter
+2026-04-10,290000,SA48 7LT,D,N,F,Llysaeron,,,Llanwnnen,Lampeter
+2026-04-09,225000,SA48 8RA,D,N,F,Tychrug Aeron,,,Talsarn,Lampeter
+2026-04-09,290000,SA48 7EE,T,N,F,Gellingwenin,,Bryn Road,,Lampeter
+2026-03-26,290000,SA48 8NX,D,N,F,New Hall,,,Bettws,Lampeter
+2026-03-26,365000,SA48 8AX,D,N,F,Arfryn,,,Silian,Lampeter
+2026-03-26,227500,SA48 7RE,D,N,F,Lonlwyd,,,Ciliau Aeron,Lampeter
+2026-03-26,425000,SA48 7NQ,D,N,F,Rhydfudr,,,Cribyn,Lampeter
+2026-03-20,175000,SA48 7EU,S,N,F,45,,Penbryn,,Lampeter
+2026-03-06,220000,SA48 7BX,T,N,F,4,,Peterwell Terrace,,Lampeter
+2026-03-05,205000,SA48 8BY,D,N,F,Aeron Dale,,,Ciliau Aeron,Lampeter
+2026-03-04,258500,SA48 8NX,D,N,F,Brooklands,,,Bettws,Lampeter
+2026-03-04,153000,SA48 8AT,S,N,F,9,,Bro Tawela,Silian,Lampeter
+2026-03-02,230000,SA48 7AL,T,N,F,Trefin,,New Street,,Lampeter
+2026-02-26,168000,SA48 7PN,S,N,F,Arosfa,,,Dihewyd,Lampeter
+2026-02-25,260000,SA48 8DZ,D,N,F,Dobehafan,,,Cwmann,Lampeter
+2026-02-20,227500,SA48 8JT,S,N,F,3,,Nant Y Glyn,Cwmann,Lampeter
+2026-02-20,285000,SA48 8DP,D,N,F,"Awel Dirion, 5",,Heol Dolanog,Ciliau Aeron,Lampeter
+2026-02-20,175000,SA48 7SF,S,N,F,2,,Parcyrhydd,Ciliau Aeron,Lampeter
+2026-02-19,210000,SA48 7ER,S,N,F,20,,Bryn Yr Eglwys,,Lampeter
+2026-02-06,325000,SA48 8HY,D,N,F,Llwyn Ifan Cottage,,,Cellan,Lampeter
+2026-02-06,305000,SA48 8HU,D,N,F,Rhandir,,,Cellan,Lampeter
+2026-01-29,90000,SA48 7LQ,S,N,F,Bush Cottage,,,Llanwnnen,Lampeter
+2026-01-15,145000,SA48 8HZ,T,N,F,3,,Bro Meillion,Cellan,Lampeter
+2026-01-13,218009,SA48 7RF,T,N,F,Siop Fach,,,Ciliau Aeron,Lampeter
+2026-01-07,140000,SA48 8BS,D,N,F,35,,Bryn Steffan,,Lampeter
+2025-12-18,195000,SA48 8QB,S,N,F,Gwalia,,,Talsarn,Lampeter
+2025-12-15,115000,SA48 8NR,T,N,F,2,,Nant Fach,Llangybi,Lampeter
+2025-12-15,305000,SA48 8LG,D,N,F,The Forge,,,Llanfair Clydogau,Lampeter
+2025-12-15,310000,SA48 8EL,D,N,F,Caergrawnt,,,Cwmann,Lampeter
+2025-12-12,152000,SA48 8JR,S,N,F,12,,Heol Hathren,Cwmann,Lampeter
+2025-12-12,133000,SA48 7HY,F,N,L,Glanyrafon,Flat 2,Cwrt Dulas,,Lampeter
+2025-12-11,159995,SA48 7PG,D,N,F,Aerondale,,,Felinfach,Lampeter
+2025-12-11,365000,SA48 7AJ,D,N,F,Gelli'R Glyn,,New Street,,Lampeter
+2025-12-08,260000,SA48 7AD,D,N,F,10,,Cwrt Maesmynach,Cribyn,Lampeter
+2025-12-05,155000,SA48 7AN,T,N,F,3,,Teifi Terrace,,Lampeter
+2025-12-04,330000,SA48 7PS,D,N,F,Coedmor,,,Ciliau Aeron,Lampeter
+2025-11-28,240000,SA48 7HH,T,N,F,19,,Station Terrace,,Lampeter
+2025-11-26,635000,SA48 7NL,D,N,F,Frongoy,,,Cribyn,Lampeter
+2025-11-25,350000,SA48 8PR,D,N,F,Gartheli House,,,Abermeurig,Lampeter
+2025-11-25,147000,SA48 8DZ,D,N,F,Brynmeusydd,,,Cwmann,Lampeter
+2025-11-12,425000,SA48 8RT,D,N,F,Rhiwlas Uchaf,,,Cilcennin,Lampeter
+2025-11-10,110000,SA48 7EP,T,N,F,29,,Maesyderi,,Lampeter
+2025-11-05,353000,SA48 8NU,D,N,F,Llaindelyn,,,Silian,Lampeter
+2025-10-31,200000,SA48 7ND,D,N,F,Hillside,,,Cribyn,Lampeter
+2025-10-13,190000,SA48 8BS,D,N,F,39,,Bryn Steffan,,Lampeter
+2025-10-10,165000,SA48 7BB,T,N,F,28,,High Street,,Lampeter
+2025-10-08,88000,SA48 7ND,D,N,F,Yr Hen Chwarel,,,Cribyn,Lampeter
+2025-10-07,165000,SA48 8JR,S,N,F,4,,Heol Hathren,Cwmann,Lampeter
+2025-09-30,180000,SA48 7SE,S,N,F,2,,Parcygaer,Ciliau Aeron,Lampeter
+2025-09-29,305000,SA48 8LG,T,N,F,Ty Gof,,,Llanfair Clydogau,Lampeter
+2025-09-26,185000,SA48 7SF,S,N,F,13,,Parcyrhydd,Ciliau Aeron,Lampeter
+2025-09-25,120000,SA48 8DD,S,N,F,4,,Tyglyn Vale Meadow Cottages,Ciliau Aeron,Lampeter
+2025-09-19,149950,SA48 8NR,T,N,F,3,,Nant Fach,Llangybi,Lampeter
+2025-09-19,142000,SA48 7HY,F,N,L,Glanyrafon,Flat 4,Cwrt Dulas,,Lampeter
+2025-09-12,695000,SA48 7LJ,D,N,F,Aneddwen,,,Llanwnnen,Lampeter
+2025-09-12,230000,SA48 7EU,S,N,F,33,,Penbryn,,Lampeter
+2025-09-10,180000,SA48 7LB,S,N,F,7,,Bro Llan,Llanwnnen,Lampeter
+2025-09-08,170000,SA48 8BS,T,N,F,58A,,Bryn Steffan,,Lampeter
+2025-09-01,445000,SA48 8RH,D,N,F,Llyswen,,,Cilcennin,Lampeter
+2025-08-29,158000,SA48 8HZ,T,N,F,2,,Bro Meillion,Cellan,Lampeter
+2025-08-28,310000,SA48 8PY,D,N,F,Tresi Aur,,,Creuddyn Bridge,Lampeter
+2025-08-28,585000,SA48 8HH,D,N,F,Waun Hathren Hall,,,Cwmann,Lampeter
+2025-08-28,390000,SA48 7SB,D,N,F,Fila Coed,,Falcondale Drive,,Lampeter
+2025-08-26,230000,SA48 8DT,D,N,F,Maes Teifi,,,Cwmann,Lampeter
+2025-08-26,380000,SA48 7JP,D,N,F,Angorfa,,Llanwnnen Road,,Lampeter
+2025-08-22,470000,SA48 7PG,D,N,F,Bro-Ystrad,,,Felinfach,Lampeter
+2025-08-20,222500,SA48 8DF,D,N,F,Crossway,,,Ciliau Aeron,Lampeter
+2025-08-18,140000,SA48 8HU,D,N,F,3,,Tre Cynon,Cellan,Lampeter
+2025-08-01,327000,SA48 8BL,D,N,F,Gwernant,,,Creuddyn Bridge,Lampeter
+2025-08-01,155000,SA48 7ER,S,N,F,13,,Bryn Yr Eglwys,,Lampeter
+2025-07-25,421000,SA48 8QB,D,N,F,Ty Mawr Farmhouse,,,Talsarn,Lampeter
+2025-07-25,120000,SA48 8NG,S,N,F,3,,Water Street,Llangybi,Lampeter
+2025-07-25,192000,SA48 7AT,T,N,F,10,,Drovers Road,,Lampeter
+2025-07-24,322500,SA48 8DU,D,N,F,Woodlands,,,Cwmann,Lampeter
+2025-07-21,360000,SA48 7NB,D,N,F,Haulfryn,,,Cribyn,Lampeter
+2025-07-18,75000,SA48 7EP,D,N,F,38,,Maesyderi,,Lampeter
+2025-07-17,160000,SA48 7EU,S,N,F,54,,Penbryn,,Lampeter
+2025-07-11,300000,SA48 7RA,D,N,F,Ffoes Iwan,,,Mydroilyn,Lampeter
+2025-07-09,400000,SA48 8BE,D,N,F,Ardir,,,Felinfach,Lampeter
+2025-07-04,475000,SA48 8BQ,D,N,F,Nantdderwen,,,Felinfach,Lampeter
+2025-07-04,70000,SA48 7EU,F,N,L,4,,Penbryn,,Lampeter
+2025-07-04,222000,SA48 7DP,D,N,F,Penlon,,Cambrian Road,,Lampeter
+2025-07-04,275000,SA48 7AB,T,N,F,69,,Bridge Street,,Lampeter
+2025-06-24,172000,SA48 7DF,T,N,F,3,,Victoria Terrace,,Lampeter
+2025-06-23,194000,SA48 8DZ,D,N,F,Y Bryn,,,Cwmann,Lampeter
+2025-06-20,239950,SA48 8AH,D,N,F,5,,Maes Y Tren,Felinfach,Lampeter
+2025-06-19,263956,SA48 8ES,S,N,F,Tandderwen,,,Cwmann,Lampeter
+2025-06-19,285000,SA48 8AN,D,N,F,Ystlys Y Coed,,Forest Road,,Lampeter
+2025-06-19,175000,SA48 7DG,T,N,F,9,,Harford Row,,Lampeter
+2025-06-11,200000,SA48 8BS,D,N,F,22,,Bryn Steffan,,Lampeter
+2025-06-05,170000,SA48 7AL,T,N,F,Brynafon,,New Street,,Lampeter
+2025-05-30,120000,SA48 8DD,S,N,F,1,,Tyglyn Vale Meadow Cottages,Ciliau Aeron,Lampeter
+2025-05-09,210000,SA48 8JZ,D,N,F,Plasbach Cottages,1,Llanfair Road,,Lampeter
+2025-05-01,345000,SA48 8LU,D,N,F,Maesdenys,,,Silian,Lampeter
+2025-05-01,160000,SA48 7HX,T,N,F,6,,Mill Street,,Lampeter
+2025-04-30,275000,SA48 7NA,D,N,F,Ty Twt,,,Cribyn,Lampeter
+2025-04-28,70000,SA48 7AS,T,N,F,8A,,Drovers Road,,Lampeter
+2025-04-24,345000,SA48 7LU,D,N,F,5,,Cysgod Y Gaer,Cribyn,Lampeter
+2025-04-24,500000,SA48 7LR,D,N,F,Pantyffynnon,,,Blaencwrt,Lampeter
+2025-04-14,405000,SA48 8BG,D,N,F,Aldergate,,,Felinfach,Lampeter
+2025-04-14,117000,SA48 7PN,S,N,F,Arosfa,,,Dihewyd,Lampeter
+2025-04-11,290000,SA48 8BD,D,N,F,Cwmscawen,,,Felinfach,Lampeter
+2025-04-09,270000,SA48 8JZ,D,N,F,Islwyn,,Llanfair Road,,Lampeter
+2025-04-09,170000,SA48 7HX,T,N,F,1,,Mill Street,,Lampeter
+2025-04-09,178000,SA48 7HS,T,N,F,19,,Maesyfelin,,Lampeter
+2025-04-07,205000,SA48 7AA,T,N,F,49,,Bridge Street,,Lampeter
+2025-04-01,185000,SA48 7PA,D,N,F,Ael Y Bryn,,Maestir Road,,Lampeter
+2025-03-31,182000,SA48 8LD,S,N,F,5,,Bro Clywedog,Llanfair Clydogau,Lampeter
+2025-03-31,262000,SA48 8AZ,D,N,F,Cambrian House,,,Creuddyn Bridge,Lampeter
+2025-03-28,265000,SA48 8LL,D,N,F,Glancrwys,,,Llanfair Clydogau,Lampeter
+2025-03-28,227500,SA48 7QY,S,N,F,Brodawel,,,Mydroilyn,Lampeter
+2025-03-28,182000,SA48 7NG,D,N,F,Caecoch,,,Cribyn,Lampeter
+2025-03-27,425000,SA48 8RJ,D,N,F,Yr Hen Felin,,,Cilcennin,Lampeter
+2025-03-26,350000,SA48 7AJ,D,N,F,Darren Las,,New Street,,Lampeter
+2025-03-18,225000,SA48 8JZ,S,N,F,Llwynpiod,,Llanfair Road,,Lampeter
+2025-03-14,165000,SA48 7SA,S,N,F,Springfield,,,Felinfach,Lampeter
+2025-03-14,210000,SA48 7QJ,D,N,F,Caeronnen,,,Troedyrhiw,Lampeter
+2025-03-11,407500,SA48 8HU,D,N,F,Erw Gilfach,,,Cellan,Lampeter
+2025-03-07,230000,SA48 8RJ,D,N,F,Esgair Llyn,,,Cilcennin,Lampeter
+2025-02-28,303000,SA48 8HU,D,N,F,Pen Y Ddraig,,,Cellan,Lampeter
+2025-02-25,190000,SA48 8NN,D,N,F,Cilgwyn,,,Llangybi,Lampeter
+2025-02-24,370000,SA48 8BH,D,N,F,Cartref,,,Felinfach,Lampeter
+2025-02-21,225000,SA48 8ES,D,N,F,Balfour House,,,Cwmann,Lampeter
+2025-02-21,130000,SA48 7ER,D,N,F,18,,Bryn Yr Eglwys,,Lampeter
+2025-02-19,415000,SA48 7PN,D,N,F,Awel Y Mor,,,Dihewyd,Lampeter
+2025-02-19,315000,SA48 7NG,D,N,F,Murmur Y Coed,,,Cribyn,Lampeter
+2025-02-17,247000,SA48 7AH,S,N,F,2,,Cae Gwen,Mydroilyn,Lampeter
+2025-02-14,193000,SA48 7ND,S,N,F,Awel Deg,,,Cribyn,Lampeter
+2025-02-03,405000,SA48 7LJ,D,N,F,Yr Hen Ysgol,,,Llanwnnen,Lampeter
+2025-01-22,235500,SA48 7RG,D,N,F,Penrhiw Fach,,,Ciliau Aeron,Lampeter
+2025-01-21,163000,SA48 8EW,T,N,F,Arfryn,,,Cwmann,Lampeter
+2025-01-14,284000,SA48 7PQ,D,N,F,Tynyfron House,,,Felinfach,Lampeter
+2025-01-03,60000,SA48 8NJ,S,N,F,Godre Coed,1,,Llangybi,Lampeter
+2024-12-19,180000,SA48 7NW,D,N,F,Blaentir,,,Dihewyd,Lampeter
+2024-12-18,160000,SA48 8NX,S,N,F,1,,Broderi,Bettws,Lampeter
+2024-12-17,92000,SA48 7BJ,T,N,F,5,,Temple Terrace,,Lampeter
+2024-12-16,490000,SA48 8NB,D,N,F,Hafon Gras,,,Llangybi,Lampeter
+2024-12-13,665000,SA48 8LG,D,N,F,Gelli-Ddyfod,,,Llanfair Clydogau,Lampeter
+2024-12-12,370000,SA48 8HF,D,N,F,Northwood Cottage,,,Cwmann,Lampeter
+2024-12-11,360000,SA48 8BP,D,N,F,3,,Maes Aeron,Ciliau Aeron,Lampeter
+2024-12-06,174000,SA48 7EU,S,N,F,36,,Penbryn,,Lampeter
+2024-12-03,179000,SA48 8BS,S,N,F,57,,Bryn Steffan,,Lampeter
+2024-12-03,185000,SA48 7JL,S,N,F,Dolaumerau,,Pontfaen Road,,Lampeter
+2024-11-29,400000,SA48 7JE,D,N,F,Maesycoed House,,Maesycoed Road,,Lampeter
+2024-11-28,350000,SA48 8AE,D,N,F,Valmor,,,Felinfach,Lampeter
+2024-11-25,183000,SA48 7QY,S,N,F,Ardwyn,,,Mydroilyn,Lampeter
+2024-11-22,100000,SA48 7ER,T,N,F,12,,Bryn Yr Eglwys,,Lampeter
+2024-11-21,165000,SA48 8AD,T,N,F,6,,Bro Henllys,Felinfach,Lampeter
+2024-11-20,295000,SA48 8DP,D,N,F,9,,Heol Dolanog,Ciliau Aeron,Lampeter
+2024-11-15,260000,SA48 8HU,D,N,F,Chandos,,,Cellan,Lampeter
+2024-11-15,106000,SA48 7QP,D,N,F,Tryfel,,,Dihewyd,Lampeter
+2024-11-15,266000,SA48 7ND,D,N,F,Derlwyn,,,Cribyn,Lampeter
+2024-11-01,190000,SA48 8EJ,S,N,F,26,,Cwrt Deri,Cwmann,Lampeter
+2024-10-31,360000,SA48 7LJ,D,N,F,Highbury,,,Llanwnnen,Lampeter
+2024-10-31,198000,SA48 7HY,S,N,F,14,,Cwrt Dulas,,Lampeter
+2024-10-28,190000,SA48 7PP,T,N,F,Arnant House,,,Dihewyd,Lampeter
+2024-10-25,220000,SA48 8HP,S,N,F,3,,Heol Y Fedw,Cwmann,Lampeter
+2024-10-25,291000,SA48 8ES,D,N,F,Glynbedw,,,Cwmann,Lampeter
+2024-10-25,180000,SA48 7NA,S,N,F,Aeronfa,,,Cribyn,Lampeter
+2024-10-24,426000,SA48 8DF,D,N,F,Ty Lon,,,Ciliau Aeron,Lampeter
+2024-10-22,350000,SA48 7AL,T,N,F,Bryndolau,,New Street,,Lampeter
+2024-10-21,140000,SA48 7ER,S,N,F,15,,Bryn Yr Eglwys,,Lampeter
+2024-10-17,370000,SA48 8DT,D,N,F,Pontfechan,,,Cwmann,Lampeter
+2024-10-17,175000,SA48 8AE,T,N,F,Plasnewydd,,,Felinfach,Lampeter
+2024-10-04,600000,SA48 8LD,D,N,F,Tynant Brook House,,Bro Clywedog,Llanfair Clydogau,Lampeter
+2024-10-04,230000,SA48 7QY,S,N,F,Ty Ffynnon,,,Mydroilyn,Lampeter
+2024-10-03,163000,SA48 7JP,D,N,F,Dolanog,,Llanwnnen Road,,Lampeter
+2024-09-30,275000,SA48 7SD,S,N,F,4,,Heol Y Fedwen,Ciliau Aeron,Lampeter
+2024-09-26,227000,SA48 7NG,S,N,F,Rhandir,,,Cribyn,Lampeter
+2024-09-23,255000,SA48 7LA,D,N,F,Gwelfor,,,Llanwnnen,Lampeter
+2024-09-18,215000,SA48 8DU,D,N,F,Bronallt,,,Cwmann,Lampeter
+2024-09-12,370000,SA48 7NG,D,N,F,Dolgerdd,,,Cribyn,Lampeter
+2024-09-10,200000,SA48 8DF,D,N,F,Brynhyfryd,,,Ciliau Aeron,Lampeter
+2024-09-05,185000,SA48 7JX,S,N,F,1,,Bro Grannell,Llanwnnen,Lampeter
+2024-09-03,269000,SA48 7NB,D,N,F,Delfan,,,Cribyn,Lampeter
+2024-08-30,168000,SA48 8JP,T,N,F,Aeronfa,,,Cwmann,Lampeter
+2024-08-30,195000,SA48 8HP,S,N,F,"Glynderi, 1",,Heol Y Fedw,Cwmann,Lampeter
+2024-08-22,310000,SA48 7SG,D,N,F,Ger Y Llan,,,Ciliau Aeron,Lampeter
+2024-08-19,130000,SA48 7SG,D,N,F,Llwydarth,,,Ciliau Aeron,Lampeter
+2024-08-16,119000,SA48 7LU,T,N,F,2,,Cysgod Y Gaer,Cribyn,Lampeter
+2024-08-02,188000,SA48 7DY,S,N,F,11,,College Street,,Lampeter
+2024-07-31,185000,SA48 7SF,S,N,F,21,,Parcyrhydd,Ciliau Aeron,Lampeter
+2024-07-30,735000,SA48 8QY,D,N,F,Mill Ponds,,,Talsarn,Lampeter
+2024-07-17,165000,SA48 7LB,S,N,F,11,,Bro Llan,Llanwnnen,Lampeter
+2024-07-11,386000,SA48 8DP,D,N,F,Y Lonydd,,Heol Dolanog,Ciliau Aeron,Lampeter
+2024-07-04,428750,SA48 7JR,D,N,F,Dwynant,,,Pentrebach,Lampeter
+2024-07-04,182000,SA48 7FB,S,N,F,2,,Clos Megan,Felinfach,Lampeter
+2024-06-20,380000,SA48 8JY,D,N,F,Nantyffin,,Llanfair Road,,Lampeter
+2024-06-17,190000,SA48 8DF,D,N,F,Gernant,,,Ciliau Aeron,Lampeter
+2024-06-11,190000,SA48 8EH,D,N,F,8,,Cae Coedmore,Cwmann,Lampeter
+2024-06-05,390000,SA48 8RR,D,N,F,Coed Ceirios,,,Cilcennin,Lampeter
+2024-05-24,305000,SA48 8PD,D,N,F,Coedgleision,,,Derry Ormond,Lampeter
+2024-05-15,571000,SA48 8NU,D,N,F,Parcycoed,,,Silian,Lampeter
+2024-05-09,480000,SA48 7LY,D,N,F,Gorwel,,,Llanwnnen,Lampeter
+2024-05-03,145000,SA48 8AT,S,N,F,4,,Bro Tawela,Silian,Lampeter
+2024-05-03,315000,SA48 8AE,D,N,F,Rhandir,,,Felinfach,Lampeter
+2024-04-26,128000,SA48 7QE,S,N,F,1,,Cylch Bethlehem,Dihewyd,Lampeter
+2024-04-23,323000,SA48 8RS,D,N,F,Brynhyfryd,,,Cilcennin,Lampeter
+2024-04-19,320000,SA48 7SG,D,N,F,Tynant,,,Ciliau Aeron,Lampeter
+2024-04-19,360000,SA48 7PG,D,N,F,Annedd Fflur,,,Felinfach,Lampeter
+2024-04-16,153000,SA48 8QG,D,N,F,Gerlan,,,Bwlchllan,Lampeter
+2024-04-16,385000,SA48 7EN,D,N,F,Gellideg,,Maesllan,,Lampeter
+2024-04-12,372500,SA48 7SD,D,N,F,12,,Heol Y Fedwen,Ciliau Aeron,Lampeter
+2024-04-05,160000,SA48 8BS,S,N,F,60,,Bryn Steffan,,Lampeter
+2024-04-03,247000,SA48 8RT,D,N,F,Gwastod,,,Cilcennin,Lampeter
+2024-04-03,247000,SA48 8RT,D,N,F,Gwastod,,,Cilcennin,Lampeter
+2024-03-27,240000,SA48 8RF,D,N,F,Glydair,,,Cilcennin,Lampeter
+2024-03-27,235000,SA48 7FB,S,N,F,7,,Clos Megan,Felinfach,Lampeter
+2024-03-22,160000,SA48 8JR,S,N,F,10,,Heol Hathren,Cwmann,Lampeter
+2024-03-15,250000,SA48 8RR,D,N,F,Ywen Villa,,,Cilcennin,Lampeter
+2024-03-08,480000,SA48 7LF,D,N,F,1 - 3,,Llwyn Y Groes Cottages,Llanwnnen,Lampeter
+2024-02-29,192500,SA48 8NX,S,N,F,Greenfield,,,Bettws,Lampeter
+2024-02-23,320000,SA48 8NG,D,N,F,Brynteg,,,Llangybi,Lampeter
+2024-02-16,215000,SA48 8RS,D,N,F,Valhalla,,,Cilcennin,Lampeter
+2024-02-14,235000,SA48 7FB,S,N,F,8,,Clos Megan,Felinfach,Lampeter
+2024-02-13,370000,SA48 8HU,D,N,F,Rochelle,,,Cellan,Lampeter
+2024-02-09,220000,SA48 8DF,S,N,F,Dolcoed,2,,Ciliau Aeron,Lampeter
+2024-02-02,147000,SA48 7SF,S,N,F,23,,Parcyrhydd,Ciliau Aeron,Lampeter
+2024-01-31,325000,SA48 8BD,D,N,F,Temple Pan,,,Felinfach,Lampeter
+2024-01-31,189950,SA48 7EU,S,N,F,64,,Penbryn,,Lampeter
+2024-01-29,220000,SA48 7AL,T,N,F,Llwyndewi,,New Street,,Lampeter
+2024-01-23,277500,SA48 8EH,D,N,F,19,,Cae Coedmore,Cwmann,Lampeter
+2024-01-23,198000,SA48 7AL,T,N,F,Glandwr,,New Street,,Lampeter
+2024-01-18,400000,SA48 8RT,D,N,F,Rhiwlas Farm,,,Cilcennin,Lampeter
+2024-01-15,166000,SA48 8ET,S,N,F,Emlyn Cottage,,,Cwmann,Lampeter
+2024-01-15,190000,SA48 7ND,S,N,F,Rhoslwyn,,,Cribyn,Lampeter
+2024-01-11,250000,SA48 8ES,D,N,F,Ram Cottage,,,Cwmann,Lampeter
+2024-01-10,76500,SA48 7DF,T,N,F,1,,Victoria Terrace,,Lampeter
+2024-01-05,285000,SA48 8NH,D,N,F,Arosfa,,,Llangybi,Lampeter
+2024-01-04,285000,SA48 8HX,D,N,F,Hafan,,,Cellan,Lampeter
+2023-12-20,94000,SA48 7DW,T,N,F,6,,Old Post Office Mews,,Lampeter
+2023-12-19,100000,SA48 7AT,T,N,F,10,,Drovers Road,,Lampeter
+2023-12-14,143500,SA48 8DD,S,N,F,19,,Tyglyn Vale Meadow Cottages,Ciliau Aeron,Lampeter
+2023-12-08,77500,SA48 7ES,S,N,L,28,,Bryn Yr Eglwys,,Lampeter
+2023-11-10,190000,SA48 7JX,S,N,F,16,,Bro Grannell,Llanwnnen,Lampeter
+2023-11-06,460000,SA48 8JB,D,N,F,Trawsnant,,,Cellan,Lampeter
+2023-11-06,100000,SA48 8AD,T,N,F,6,,Bro Henllys,Felinfach,Lampeter
+2023-11-06,185500,SA48 8AD,S,N,F,19,,Bro Henllys,Felinfach,Lampeter
+2023-10-31,151000,SA48 8BS,S,N,F,3,,Bryn Steffan,,Lampeter
+2023-10-27,235000,SA48 7FB,S,N,F,4,,Clos Megan,Felinfach,Lampeter
+2023-10-05,675000,SA48 7ND,D,N,F,Lle Tawel,,,Cribyn,Lampeter
+2023-10-04,207500,SA48 8EH,D,N,F,1,,Cae Coedmore,Cwmann,Lampeter
+2023-09-18,180000,SA48 7AA,S,N,F,"Hathren, 48",,Bridge Street,,Lampeter
+2023-09-15,97000,SA48 8DD,S,N,F,4,,Tyglyn Vale Meadow Cottages,Ciliau Aeron,Lampeter
+2023-09-14,230000,SA48 8QQ,D,N,F,Rhoslwyn,,,Bwlchllan,Lampeter
+2023-09-13,140000,SA48 7LB,T,N,F,8,,Bro Llan,Llanwnnen,Lampeter
+2023-08-31,600000,SA48 7PN,D,N,F,Kejamist,,,Dihewyd,Lampeter
+2023-08-31,126000,SA48 7AU,S,N,F,2,,Golwg Y Dyffryn,Llanwnnen,Lampeter
+2023-08-24,760000,SA48 8QE,D,N,F,Parc House,,,Talsarn,Lampeter
+2023-08-11,325000,SA48 8DE,D,N,F,Nantgwyn,,,Ciliau Aeron,Lampeter
+2023-08-11,215000,SA48 8AD,S,N,F,13,,Bro Henllys,Felinfach,Lampeter
+2023-08-02,435000,SA48 7NH,D,N,F,Rhydyfran Cottage,,,Cribyn,Lampeter
+2023-07-31,290000,SA48 8EH,D,N,F,12,,Cae Coedmore,Cwmann,Lampeter
+2023-07-21,126000,SA48 7AU,S,N,F,3,,Golwg Y Dyffryn,Llanwnnen,Lampeter
+2023-07-18,320000,SA48 7AJ,D,N,F,Glanteifi,,New Street,,Lampeter
+2023-07-17,180000,SA48 7QY,S,N,F,Ardwyn,,,Mydroilyn,Lampeter
+2023-07-14,270000,SA48 8RJ,D,N,F,Maesyfelin,,,Cilcennin,Lampeter
+2023-06-30,135000,SA48 8DD,S,N,F,10,,Tyglyn Vale Meadow Cottages,Ciliau Aeron,Lampeter
+2023-06-29,125000,SA48 8EP,T,N,F,8,,Treherbert Street,Cwmann,Lampeter
+2023-06-28,410000,SA48 8EU,D,N,F,Crud-Yr-Awel,,,Cwmann,Lampeter
+2023-06-27,255000,SA48 7JA,D,N,F,Brantome,,North Road,,Lampeter
+2023-05-19,210000,SA48 8JT,S,N,F,1,,Nant Y Glyn,Cwmann,Lampeter
+2023-05-18,235000,SA48 8NH,D,N,F,Browerdd,,,Llangybi,Lampeter
+2023-05-16,240000,SA48 8BS,D,N,F,48,,Bryn Steffan,,Lampeter
+2023-05-05,330000,SA48 8QJ,D,N,F,Coach House,,,Bwlchllan,Lampeter
+2023-05-03,217000,SA48 8AJ,D,N,F,10,,Clos Tawela,Silian,Lampeter
+2023-04-27,210000,SA48 8DN,T,N,F,3,,Cysgod Y Coed,Cwmann,Lampeter
+2023-04-27,295000,SA48 8AN,D,N,F,Tivoli,,Forest Road,,Lampeter
+2023-04-24,140000,SA48 7QY,T,N,F,Glyn,,,Mydroilyn,Lampeter
+2023-04-21,190000,SA48 8RF,D,N,F,Rosecroft,,,Cilcennin,Lampeter
+2023-04-19,120600,SA48 7LQ,D,N,F,Gwarffynnon,,,Llanwnnen,Lampeter
+2023-04-17,175000,SA48 8RR,D,N,F,Llys Y Deryn,,,Cilcennin,Lampeter
+2023-04-05,450000,SA48 7QB,D,N,F,Can Yr Afon,,,Felinfach,Lampeter
+2023-03-31,294500,SA48 7AU,D,N,F,11,,Golwg Y Dyffryn,Llanwnnen,Lampeter
+2023-03-30,195000,SA48 7NG,S,N,F,Cilmeri,,,Cribyn,Lampeter
+2023-03-27,282000,SA48 7QJ,D,N,F,Caebach,,,Troedyrhiw,Lampeter
+2023-03-23,315000,SA48 8EL,D,N,F,Llys Teifi,,,Cwmann,Lampeter
+2023-03-20,217500,SA48 8AD,T,N,F,"Erw'R Delyn, 28",,Bro Henllys,Felinfach,Lampeter
+2023-03-10,158500,SA48 7NF,S,N,F,9,,Bro Silin,Cribyn,Lampeter
+2023-03-01,272500,SA48 7PN,D,N,F,Winllan,,,Dihewyd,Lampeter
+2023-02-24,257000,SA48 8EJ,D,N,F,36,,Cwrt Deri,Cwmann,Lampeter
+2023-02-15,150000,SA48 8AJ,D,N,F,1,,Clos Tawela,Silian,Lampeter
+2023-02-13,300000,SA48 7QW,D,N,F,Tyddyndu,,,Cribyn,Lampeter
+2023-02-07,395000,SA48 8DL,D,N,F,Twin Pines,,,Ciliau Aeron,Lampeter
+2023-02-03,215000,SA48 7QY,S,N,F,Ty Ffynnon,,,Mydroilyn,Lampeter
+2023-01-23,210000,SA48 7QJ,D,N,F,Caeglas,,,Troedyrhiw,Lampeter
+2023-01-20,199950,SA48 7AD,S,N,F,3,,Cwrt Maesmynach,Cribyn,Lampeter
+2023-01-18,385000,SA48 8RU,D,N,F,Hendraws,,,Cilcennin,Lampeter
+2023-01-16,290000,SA48 7PA,D,N,F,Fronowen,,Maestir Road,,Lampeter
+2023-01-12,285000,SA48 8LU,D,N,F,Maesdenys,,,Silian,Lampeter
+2023-01-09,140000,SA48 7FB,S,N,F,3,,Clos Megan,Felinfach,Lampeter
+2023-01-06,199000,SA48 8JU,D,N,F,Wern View,,,Cwmann,Lampeter
+2022-12-22,280000,SA48 8EL,D,N,F,Caergrawnt,,,Cwmann,Lampeter
+2022-12-22,135000,SA48 8DD,S,N,F,16,,Tyglyn Vale Meadow Cottages,Ciliau Aeron,Lampeter
+2022-12-20,410000,SA48 8RJ,D,N,F,Ty Bwbach,,,Cilcennin,Lampeter
+2022-12-19,715000,SA48 7LF,D,N,F,Llwynygroes Mansion,,,Llanwnnen,Lampeter
+2022-12-19,210000,SA48 7EF,T,N,F,Llysfaen,,Bryn Road,,Lampeter
+2022-12-16,150000,SA48 7PP,T,N,F,Rhyd Y Bont,,,Dihewyd,Lampeter
+2022-12-09,510000,SA48 8RL,D,N,F,Pwll Glas,,,Cilcennin,Lampeter
+2022-12-09,235000,SA48 8DN,D,N,F,13,,Cysgod Y Coed,Cwmann,Lampeter
+2022-12-02,245000,SA48 8JP,S,N,F,Glynsawel,,,Cwmann,Lampeter
+2022-11-29,130000,SA48 8NA,T,N,F,Rhydlanfair,4,,Llangybi,Lampeter
+2022-11-28,185000,SA48 7HX,T,N,F,3,,Mill Street,,Lampeter
+2022-11-21,600000,SA48 8PP,D,N,F,Parc Meurig,,,Abermeurig,Lampeter
+2022-11-16,151000,SA48 8NX,D,N,F,Church Cottage,,,Bettws,Lampeter
+2022-11-14,125000,SA48 8AT,S,N,F,9,,Bro Tawela,Silian,Lampeter
+2022-11-09,139550,SA48 8AD,S,N,F,48,,Bro Henllys,Felinfach,Lampeter
+2022-10-28,330000,SA48 8BP,D,N,F,5,,Maes Aeron,Ciliau Aeron,Lampeter
+2022-10-26,153750,SA48 7EH,T,N,F,8,,Ffynnonbedr,,Lampeter
+2022-10-21,310000,SA48 7QY,D,N,F,Caergof Estate,Ty Cornel,,Mydroilyn,Lampeter
+2022-10-20,360000,SA48 7NH,D,N,F,Llwyncelyn,,,Cribyn,Lampeter
+2022-10-18,148500,SA48 7AN,T,N,F,5,,Teifi Terrace,,Lampeter
+2022-10-14,200000,SA48 7AL,T,N,F,Moorings,,New Street,,Lampeter
+2022-10-06,152000,SA48 7EU,S,N,F,64,,Penbryn,,Lampeter
+2022-10-05,140000,SA48 8BS,T,N,F,32,,Bryn Steffan,,Lampeter
+2022-10-04,410000,SA48 8RH,D,N,F,Gwelfryn,,,Cilcennin,Lampeter
+2022-09-30,207500,SA48 7AR,T,N,F,Llwynon,,New Street,,Lampeter
+2022-09-29,85000,SA48 8JR,F,N,L,34,,Heol Hathren,Cwmann,Lampeter
+2022-09-26,250000,SA48 8NX,D,N,F,The Cottage,,,Bettws,Lampeter
+2022-09-23,248200,SA48 8ES,D,N,F,Ram Cottage,,,Cwmann,Lampeter
+2022-09-23,151000,SA48 8BS,T,N,F,28,,Bryn Steffan,,Lampeter
+2022-09-22,340000,SA48 8RF,S,N,F,4,,Bro Trichrug,Cilcennin,Lampeter
+2022-09-20,210000,SA48 7LJ,D,N,F,Golygfa,,,Llanwnnen,Lampeter
+2022-08-30,540000,SA48 7QT,D,N,F,Arlen,,,Dihewyd,Lampeter
+2022-08-22,324950,SA48 7QY,D,N,F,Pant Y Crau,,,Mydroilyn,Lampeter
+2022-08-18,218000,SA48 8NX,S,N,F,Greenfield,,,Bettws,Lampeter
+2022-08-12,495000,SA48 7QS,D,N,F,Bronparc,,,Dihewyd,Lampeter
+2022-08-12,159950,SA48 7JX,S,N,F,5,,Bro Grannell,Llanwnnen,Lampeter
+2022-08-10,245000,SA48 8QQ,D,N,F,Rhoslwyn,,,Bwlchllan,Lampeter
+2022-07-29,187500,SA48 7SE,S,N,F,Parcygaer,4,,Ciliau Aeron,Lampeter
+2022-07-29,130000,SA48 7FB,S,N,F,2,,Clos Megan,Felinfach,Lampeter
+2022-07-28,70000,SA48 7ES,F,N,L,36,,Bryn Yr Eglwys,,Lampeter
+2022-07-26,405000,SA48 8RU,D,N,F,Trawsnewydd,,,Cilcennin,Lampeter
+2022-07-26,350000,SA48 8LJ,D,N,F,Brynmine,,,Llanfair Clydogau,Lampeter
+2022-07-25,200000,SA48 8AJ,D,N,F,13,,Clos Tawela,Silian,Lampeter
+2022-07-25,164000,SA48 7SF,S,N,F,20,,Parcyrhydd,Ciliau Aeron,Lampeter
+2022-07-08,210000,SA48 7QY,S,N,F,Brodawel,,,Mydroilyn,Lampeter
+2022-07-07,127000,SA48 8AD,S,N,F,46,,Bro Henllys,Felinfach,Lampeter
+2022-07-06,297500,SA48 7AB,T,N,F,"Landre, 73",,Bridge Street,,Lampeter
+2022-07-05,279950,SA48 8PP,D,N,F,Tan Ffordd,,,Abermeurig,Lampeter
+2022-06-27,195000,SA48 8AD,S,N,F,14,,Bro Henllys,Felinfach,Lampeter
+2022-06-16,186000,SA48 7EF,T,N,F,Frondewi,,Bryn Road,,Lampeter
+2022-06-10,175000,SA48 8AS,T,N,F,Geryllan,,,Silian,Lampeter
+2022-06-01,535000,SA48 7LJ,D,N,F,Awelfryn,,,Llanwnnen,Lampeter
+2022-05-31,147000,SA48 8JR,S,N,F,Rosemead,,Heol Hathren,Cwmann,Lampeter
+2022-05-31,95000,SA48 7LQ,S,N,F,Bush Cottage,,,Llanwnnen,Lampeter
+2022-05-31,388000,SA48 7HH,D,N,F,Green Acres,,Station Terrace,,Lampeter
+2022-05-24,427000,SA48 8PR,D,N,F,Glynderi,,,Abermeurig,Lampeter
+2022-05-20,120000,SA48 7NE,D,N,F,Bank Villa,,,Cribyn,Lampeter
+2022-05-20,232000,SA48 7EF,T,N,F,Caronia,,Bryn Road,,Lampeter
+2022-05-13,520000,SA48 8JB,D,N,F,Brynhyfryd,,,Cellan,Lampeter
+2022-05-13,185000,SA48 8EJ,S,N,F,28,,Cwrt Deri,Cwmann,Lampeter
+2022-05-06,315000,SA48 7NH,D,N,F,Bryngwyn,,,Cribyn,Lampeter
+2022-05-05,193000,SA48 7HH,T,N,F,3,,Station Terrace,,Lampeter
+2022-05-04,157000,SA48 7EE,T,N,F,Glynteg,,Bryn Road,,Lampeter
+2022-04-29,244950,SA48 8EU,D,N,F,Bramble Cottage,,,Cwmann,Lampeter
+2022-04-27,170000,SA48 7EU,S,N,F,"Bryngwenog, 29",,Penbryn,,Lampeter
+2022-04-26,573000,SA48 7RL,D,N,F,Castle Green,,,Mydroilyn,Lampeter
+2022-04-22,590000,SA48 7AL,D,N,F,Llysteify,,New Street,,Lampeter
+2022-04-20,235000,SA48 8BS,D,N,F,23,,Bryn Steffan,,Lampeter
+2022-04-11,215000,SA48 7EE,T,N,F,Bryn Dewi,,Bryn Road,,Lampeter
+2022-04-08,120000,SA48 7HY,F,N,L,Glanyrafon,Flat 4,Cwrt Dulas,,Lampeter
+2022-04-04,165000,SA48 7SF,S,N,F,10,,Parcyrhydd,Ciliau Aeron,Lampeter
+2022-03-29,370000,SA48 7PN,D,N,F,Golygfa,,,Dihewyd,Lampeter
+2022-03-28,145000,SA48 7HS,T,N,F,23,,Maesyfelin,,Lampeter
+2022-03-25,635000,SA48 8LH,D,N,F,Waunwen,Riverbank Cottage,,Llanfair Clydogau,Lampeter
+2022-03-18,172500,SA48 8AL,D,N,F,Werngoed,,North Road,,Lampeter
+2022-03-14,285000,SA48 8DL,D,N,F,Glascoed,,,Ciliau Aeron,Lampeter
+2022-03-09,640000,SA48 8NB,D,N,F,Ty Hir,,,Llangybi,Lampeter
+2022-03-09,145000,SA48 7EL,T,N,F,30,,Ffynnonbedr,,Lampeter
+2022-03-08,425000,SA48 7SA,D,N,F,Coed Y Glyn,,,Felinfach,Lampeter
+2022-03-08,380000,SA48 7NG,D,N,F,Dolgerdd,,,Cribyn,Lampeter
+2022-03-04,100000,SA48 8DD,S,N,F,13,,Tyglyn Vale Meadow Cottages,Ciliau Aeron,Lampeter
+2022-03-02,219000,SA48 7LA,D,N,F,Gwelfor,,,Llanwnnen,Lampeter
+2022-03-02,82500,SA48 7EU,F,N,L,6A,,Penbryn,,Lampeter
+2022-02-18,187000,SA48 8BS,D,N,F,46,,Bryn Steffan,,Lampeter
+2022-02-17,425000,SA48 7LU,D,N,F,7,,Cysgod Y Gaer,Cribyn,Lampeter
+2022-02-10,279950,SA48 7QU,D,N,F,Bryndelyn,,,Mydroilyn,Lampeter
+2022-02-04,140000,SA48 7DG,T,N,F,3,,Harford Row,,Lampeter
+2022-02-02,299950,SA48 7EN,D,N,F,The Glebe,,Maesllan,,Lampeter
+2022-01-25,160000,SA48 7DL,T,N,F,1,,Royal Oak Mews,,Lampeter
+2022-01-21,121000,SA48 8EW,T,N,F,Oakdale,,,Cwmann,Lampeter
+2022-01-14,215000,SA48 7SD,T,N,F,10,,Heol Y Fedwen,Ciliau Aeron,Lampeter
+2022-01-14,160000,SA48 7FB,S,N,F,1,,Clos Megan,Felinfach,Lampeter
+2022-01-11,375000,SA48 7QY,D,N,F,Frondeg,,,Mydroilyn,Lampeter
+2022-01-10,190000,SA48 8QQ,D,N,F,Penylan,,,Bwlchllan,Lampeter
+2022-01-10,188000,SA48 7DA,T,N,F,4,,Greenfield Terrace,,Lampeter
+2022-01-06,126000,SA48 7BH,T,N,F,24,,High Street,,Lampeter
+2022-01-05,130000,SA48 8DD,S,N,F,20,,Tyglyn Vale Meadow Cottages,Ciliau Aeron,Lampeter
+2021-12-20,415000,SA48 8QW,D,N,F,Blaenbran,,,Talsarn,Lampeter
+2021-12-17,620000,SA48 8NB,D,N,F,Gwynfryn,,,Llangybi,Lampeter
+2021-12-17,560000,SA48 8AS,D,N,F,The Old Vicarage,,,Silian,Lampeter
+2021-12-17,159950,SA48 7QY,T,N,F,Tegfan,,,Mydroilyn,Lampeter
+2021-12-10,415000,SA48 7QY,D,N,F,Felin,,,Mydroilyn,Lampeter
+2021-12-06,135000,SA48 8JP,D,N,F,Islwyn,,,Cwmann,Lampeter
+2021-12-02,153000,SA48 8BS,S,N,F,60,,Bryn Steffan,,Lampeter
+2021-11-30,137000,SA48 8LZ,T,N,F,7,,Forest Lane Terrace,Llangybi,Lampeter
+2021-11-24,127500,SA48 8BS,T,N,F,63,,Bryn Steffan,,Lampeter
+2021-11-24,497525,SA48 7LW,D,N,F,Bodawel,,,Llanwnnen,Lampeter
+2021-11-19,390000,SA48 7QW,D,N,F,Blaenwaun,,,Cribyn,Lampeter
+2021-11-15,135000,SA48 8DD,S,N,F,11,,Tyglyn Vale Meadow Cottages,Ciliau Aeron,Lampeter
+2021-11-05,245000,SA48 8RF,D,N,F,Meadow View,,,Cilcennin,Lampeter
+2021-11-02,128528,SA48 7EU,S,N,F,40,,Penbryn,,Lampeter
+2021-10-29,76000,SA48 7EU,F,N,L,4A,,Penbryn,,Lampeter
+2021-10-27,235000,SA48 7AJ,S,N,F,Onllwyn,,New Street,,Lampeter
+2021-10-26,425000,SA48 8LY,D,N,F,Maesyfelin House,,,Llangybi,Lampeter
+2021-10-22,299950,SA48 8HU,D,N,F,Swn Y Nant,,,Cellan,Lampeter
+2021-10-22,258000,SA48 7QY,S,N,F,The Smithy,,,Mydroilyn,Lampeter
+2021-10-21,383000,SA48 7LW,D,N,F,Delfryn,,,Llanwnnen,Lampeter
+2021-10-07,330000,SA48 7JW,D,N,F,Dan Yr Wenallt,,,,Lampeter
+2021-10-06,361000,SA48 8NE,D,N,F,Vaelog Villa,,,Llanfair Clydogau,Lampeter
+2021-10-06,210000,SA48 7AL,T,N,F,Hafan,,New Street,,Lampeter
+2021-10-05,145000,SA48 7EU,S,N,F,39,,Penbryn,,Lampeter
+2021-10-05,128000,SA48 7ET,S,N,F,23,,Bryn Yr Eglwys,,Lampeter
+2021-10-04,125000,SA48 8DD,S,N,F,2,,Tyglyn Vale Meadow Cottages,Ciliau Aeron,Lampeter
+2021-09-30,210000,SA48 8JW,S,N,F,Greigiau,2,,Cwmann,Lampeter
+2021-09-30,210000,SA48 8HU,S,N,F,Coedmor Fach,Beech Cottage,,Cellan,Lampeter
+2021-09-30,147500,SA48 8EJ,S,N,F,10,,Cwrt Deri,Cwmann,Lampeter
+2021-09-30,136000,SA48 7EF,T,N,F,Llysfaen,,Bryn Road,,Lampeter
+2021-09-22,205000,SA48 7JY,D,N,F,Blaencrwser,,,Llanwnnen,Lampeter
+2021-09-21,315000,SA48 8DN,D,N,F,7,,Cysgod Y Coed,Cwmann,Lampeter
+2021-09-21,275000,SA48 7JL,D,N,F,Plasnewydd,,Pontfaen Road,,Lampeter
+2021-09-20,260000,SA48 8AB,D,N,F,Pwllcware,,,Silian,Lampeter
+2021-09-17,140000,SA48 8RT,D,N,F,Pentwyn,,,Cilcennin,Lampeter
+2021-09-17,197000,SA48 7AH,S,N,F,2,,Cae Gwen,Mydroilyn,Lampeter
+2021-09-13,241000,SA48 7NZ,D,N,F,Ceinfan,,,Cribyn,Lampeter
+2021-09-10,359950,SA48 8DE,D,N,F,Nantfaen Cottage,,,Ciliau Aeron,Lampeter
+2021-09-07,245000,SA48 7HH,T,N,F,6,,Station Terrace,,Lampeter
+2021-09-07,145000,SA48 7AP,S,N,F,14,,Kingsmead,,Lampeter
+2021-09-03,195000,SA48 7AT,T,N,F,12,,Drovers Road,,Lampeter
+2021-08-27,450000,SA48 8DP,D,N,F,Llysfaen,,Heol Dolanog,Ciliau Aeron,Lampeter
+2021-08-25,180000,SA48 7EF,D,N,F,Dolwerdd,,Bryn Road,,Lampeter
+2021-08-24,140000,SA48 8AW,D,N,F,Bryndelyn,,,,Lampeter
+2021-08-20,161000,SA48 8BS,T,N,F,58A,,Bryn Steffan,,Lampeter
+2021-08-20,320000,SA48 7SB,D,N,F,Glasnant,,Falcondale Drive,,Lampeter
+2021-08-13,185000,SA48 8AY,D,N,F,Brynheulwen,,,Creuddyn Bridge,Lampeter
+2021-08-13,240000,SA48 7HH,T,N,F,17,,Station Terrace,,Lampeter
+2021-08-13,149950,SA48 7EH,T,N,F,8,,Ffynnonbedr,,Lampeter
+2021-08-04,165000,SA48 7NG,D,N,F,Caecoch,,,Cribyn,Lampeter
+2021-07-30,169500,SA48 8PP,T,N,F,Tira Tau,,,Abermeurig,Lampeter
+2021-07-30,300000,SA48 7RW,D,N,F,Erw Las,,,Mydroilyn,Lampeter
+2021-07-30,130000,SA48 7AN,D,N,F,4,,Teifi Terrace,,Lampeter
+2021-07-28,430000,SA48 8RA,D,N,F,Penlan House,,,Talsarn,Lampeter
+2021-07-23,167500,SA48 8PP,D,N,F,Caemelyn,,,Abermeurig,Lampeter
+2021-07-22,122500,SA48 8RF,S,N,F,Maes Yr Awel,,,Cilcennin,Lampeter
+2021-07-20,325000,SA48 8ES,D,N,F,The Gables,,,Cwmann,Lampeter
+2021-07-16,330000,SA48 8BH,D,N,F,Gwynfa,,,Felinfach,Lampeter
+2021-07-09,492500,SA48 8QN,D,N,F,Rhydygroes,,,Bwlchllan,Lampeter
+2021-07-09,129950,SA48 7EL,T,N,F,19,,Ffynnonbedr,,Lampeter
+2021-07-07,120000,SA48 8JT,S,N,F,2,,Nant Y Glyn,Cwmann,Lampeter
+2021-06-30,215000,SA48 8JX,D,N,F,Pleasant View,,Llanfair Road,,Lampeter
+2021-06-30,255000,SA48 7LZ,D,N,F,Llysafon,,,Cribyn,Lampeter
+2021-06-28,169950,SA48 8RF,D,N,F,Golygfa,,,Cilcennin,Lampeter
+2021-06-25,510000,SA48 8LG,D,N,F,Gelli-Ddyfod,,,Llanfair Clydogau,Lampeter
+2021-06-25,370000,SA48 7HZ,D,N,F,The Cedars,,North Road,,Lampeter
+2021-06-25,223000,SA48 7DP,D,N,F,Penlon,,Cambrian Road,,Lampeter
+2021-06-25,131999,SA48 7BY,S,N,F,2,,Barley Mow,,Lampeter
+2021-06-24,143500,SA48 7EU,S,N,F,45,,Penbryn,,Lampeter
+2021-06-18,259000,SA48 8NB,S,N,F,4,Annedd Wen,Clos Dulais,Llangybi,Lampeter
+2021-06-11,315000,SA48 7PT,D,N,F,Felinwill,,,Ciliau Aeron,Lampeter
+2021-06-04,104950,SA48 7EP,T,N,F,10,,Maesyderi,,Lampeter
+2021-06-02,101500,SA48 7HY,T,N,F,18,,Cwrt Dulas,,Lampeter
+2021-05-27,100000,SA48 7NF,S,N,F,1,,Bro Silin,Cribyn,Lampeter
+2021-05-25,275000,SA48 7JR,D,N,F,Llwynfallen,,,Pentrebach,Lampeter
+2021-05-17,245000,SA48 7BT,S,N,F,1,,Church Street,,Lampeter
+2021-05-12,168000,SA48 8BX,D,N,F,Pantyfedwen,,,Ciliau Aeron,Lampeter
+2021-05-11,222000,SA48 8JN,D,N,F,Teifi Castle,,,Cwmann,Lampeter
+2021-05-10,610000,SA48 8RS,D,N,F,Rhiwlas Isaf,,,Cilcennin,Lampeter
+2021-05-07,140500,SA48 8AE,D,N,F,Brookside,,,Felinfach,Lampeter
+2021-05-05,400000,SA48 7LZ,D,N,F,Y Gaer,,,Cribyn,Lampeter
+2021-04-30,220000,SA48 8EH,D,N,F,12,,Cae Coedmore,Cwmann,Lampeter
+2021-04-30,273000,SA48 7SD,D,N,F,11,,Heol Y Fedwen,Ciliau Aeron,Lampeter
+2021-04-30,127000,SA48 7JX,S,N,F,6,,Bro Grannell,Llanwnnen,Lampeter
+2021-04-28,274750,SA48 8QB,D,N,F,5,,Aeron View,Talsarn,Lampeter
+2021-04-28,265000,SA48 7AA,T,N,F,20,,Bridge Street,,Lampeter
+2021-04-22,250000,SA48 8RL,D,N,F,Bryn Yr Eos,,,Cilcennin,Lampeter
+2021-04-22,530000,SA48 8QZ,D,N,F,Plas Trefilan,,,Talsarn,Lampeter
+2021-04-22,230000,SA48 8LG,T,N,F,Ty Gof,,,Llanfair Clydogau,Lampeter
+2021-04-16,205000,SA48 8BS,D,N,F,27,,Bryn Steffan,,Lampeter
+2021-04-14,103600,SA48 7HY,T,N,F,21,,Cwrt Dulas,,Lampeter
+2021-04-12,313000,SA48 8QH,D,N,F,Y Bwthyn,,,Bwlchllan,Lampeter
+2021-03-31,215000,SA48 8QG,D,N,F,Maes Y Deri,,,Bwlchllan,Lampeter
+2021-03-31,179000,SA48 7DP,T,N,F,1,,Cambrian Road,,Lampeter
+2021-03-30,168000,SA48 8BS,D,N,F,48,,Bryn Steffan,,Lampeter
+2021-03-30,595000,SA48 7ND,D,N,F,Lle Tawel,,,Cribyn,Lampeter
+2021-03-30,185000,SA48 7AH,S,N,F,6,,Cae Gwen,Mydroilyn,Lampeter
+2021-03-29,263000,SA48 7NA,S,N,F,Three Horseshoes,,,Cribyn,Lampeter
+2021-03-29,65000,SA48 7AT,T,N,F,13,,Drovers Road,,Lampeter
+2021-03-29,163000,SA48 7AP,S,N,F,4,,Kingsmead,,Lampeter
+2021-03-26,310000,SA48 8RP,D,N,F,Blaenlluest,,,Cilcennin,Lampeter
+2021-03-26,360000,SA48 8EY,D,N,F,Bryngoleu,,,Cwmann,Lampeter
+2021-03-26,369000,SA48 7QP,D,N,F,Tryal Manor,,,Dihewyd,Lampeter
+2021-03-26,235000,SA48 7ND,D,N,F,Fronfallen,,,Cribyn,Lampeter
+2021-03-19,240000,SA48 8JY,D,N,F,Nantyffin,,Llanfair Road,,Lampeter
+2021-03-17,365000,SA48 8JE,D,N,F,Aelybryn,,,Cellan,Lampeter
+2021-03-17,677500,SA48 8AS,D,N,F,Fronfelin,,,Silian,Lampeter
+2021-03-17,140000,SA48 7QY,S,N,F,Brodawel,,,Mydroilyn,Lampeter
+2021-03-09,349950,SA48 8HG,D,N,F,Bryn-Melyn,,,Cwmann,Lampeter
+2021-03-05,158000,SA48 8BS,D,N,F,38,,Bryn Steffan,,Lampeter
+2021-03-05,370000,SA48 7QH,D,N,F,Fronfelen Bungalow,,,Cribyn,Lampeter
+2021-03-05,95000,SA48 7HX,T,N,F,Millfield Cottage,,Mill Street,,Lampeter
+2021-03-05,195000,SA48 7EE,T,N,F,26,,Bryn Road,,Lampeter
+2021-02-25,270000,SA48 8DZ,D,N,F,Brynifor,,,Cwmann,Lampeter
+2021-02-25,435000,SA48 7SA,D,N,F,Bwlchgwyn,,,Felinfach,Lampeter
+2021-02-24,255000,SA48 8EH,D,N,F,9,,Cae Coedmore,Cwmann,Lampeter
+2021-02-24,167500,SA48 8AE,S,N,F,Ystrad House,,,Felinfach,Lampeter
+2021-02-19,159950,SA48 8HZ,S,N,F,4,,Bro Meillion,Cellan,Lampeter
+2021-02-19,128000,SA48 7ND,S,N,F,Awel Deg,,,Cribyn,Lampeter
+2021-02-16,180000,SA48 8QB,S,N,F,Garreglwyd,,,Talsarn,Lampeter
+2021-02-16,240000,SA48 7HH,T,N,F,16,,Station Terrace,,Lampeter
+2021-02-12,290000,SA48 7PN,D,N,F,Preswylfa,,,Dihewyd,Lampeter
+2021-02-12,95000,SA48 7HX,T,N,F,4,,Mill Street,,Lampeter
+2021-02-12,105000,SA48 7ET,S,N,F,25,,Bryn Yr Eglwys,,Lampeter
+2021-02-11,430000,SA48 8LY,D,N,F,Blaenant,,,Llangybi,Lampeter
+2021-02-10,70000,SA48 8HU,S,N,F,Brodawel,,,Cellan,Lampeter
+2021-02-05,152500,SA48 8DU,D,N,F,Bronallt,,,Cwmann,Lampeter
+2021-02-05,329950,SA48 8DP,D,N,F,Xander,,Heol Dolanog,Ciliau Aeron,Lampeter
+2021-02-04,420000,SA48 8PA,D,N,F,Derry Ormond House,,,Derry Ormond,Lampeter
+2021-02-04,200000,SA48 7AJ,T,N,F,Glascoed,,New Street,,Lampeter
+2021-01-29,184000,SA48 7SE,S,N,F,Gelligaer,,,Ciliau Aeron,Lampeter
+2021-01-29,85000,SA48 7EP,T,N,F,35,,Maesyderi,,Lampeter
+2021-01-27,112000,SA48 8BY,S,N,F,Hafan Dawel,2,,Ciliau Aeron,Lampeter
+2021-01-25,88000,SA48 8EU,D,N,F,Glaneiddig,,,Cwmann,Lampeter
+2021-01-21,235000,SA48 8DU,D,N,F,Woodlands,,,Cwmann,Lampeter
+2021-01-21,262000,SA48 8DL,D,N,F,Garthlwyd,,,Ciliau Aeron,Lampeter
+2021-01-21,415000,SA48 7LJ,D,N,F,Corner House,,,Llanwnnen,Lampeter
+2021-01-21,335000,SA48 7JP,D,N,F,Rythena,,,,Lampeter
+2021-01-20,254000,SA48 8BS,D,N,F,Creuddyn,,Bryn Steffan,,Lampeter
+2021-01-18,480000,SA48 8ED,D,N,F,Castell Elwyn,,,Cwmann,Lampeter
+2021-01-15,140000,SA48 8PP,D,N,F,Tanyfron,,,Abermeurig,Lampeter
+2021-01-14,350000,SA48 7JU,D,N,F,Brynderw,,,Llanwnnen,Lampeter
+2021-01-14,180000,SA48 7AP,S,N,F,2,,Kingsmead,,Lampeter
+2021-01-12,139950,SA48 7RN,D,N,F,Cenarth Cottage,,,Mydroilyn,Lampeter
+2021-01-11,245000,SA48 7AD,D,N,F,10,,Cwrt Maesmynach,Cribyn,Lampeter
+2021-01-08,156820,SA48 7EU,D,N,F,13,,Penbryn,,Lampeter
+2021-01-04,250000,SA48 7AB,T,N,F,71,,Bridge Street,,Lampeter

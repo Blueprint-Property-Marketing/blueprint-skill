@@ -1,6 +1,6 @@
 ---
 name: blueprint
-description: Area dashboard for UK property: estate agents, developers, land and investment teams. Every sold price, price trends and new-build schemes for a postcode district.
+description: Area dashboard for any address or postcode in England and Wales, for estate agents, developers and investors: every sold price, price trends and new-build schemes.
 ---
 
 # Blueprint
@@ -9,8 +9,8 @@ Blueprint gives anyone who markets or develops property a dashboard of an area: 
 the region and England, sales by month and property type, leasehold shares, new-build schemes, a
 postcode map, the busiest streets, and every sale since 2021 to search and filter. It compares two or
 three areas side by side, and answers questions about any street, home, scheme or slice of the
-market from the sales data. It covers England and Wales one postcode district at a time (for example
-M33), using HM Land Registry sold prices and the UK House Price Index. It is made by Blueprint
+market from the sales data. It covers every postcode district in England and Wales, from any address,
+postcode, district or place name, using HM Land Registry sold prices and the UK House Price Index. It is made by Blueprint
 Property Marketing. With no branding given, the dashboard is in the Blueprint style; with the user's
 website or logo, it carries their logo and colours.
 
@@ -28,20 +28,27 @@ Work out who you're helping from what they say (don't ask), and lead with what m
 
 ## 1. Start
 
-If the user hasn't said which area, ask for their postcode or postcode district. That is the only
-question to ask before starting. Then run:
+If the user hasn't said where, ask for the address or postcode. That is the only question to ask before
+starting. Then run, with whatever they gave (a full address, a postcode, a district like M33, or a place):
 
 ```
 python scripts/blueprint.py fetch "<what they said>"
 ```
 
 - `status: ok` → carry on (sections 2 and 3), unless they asked a specific question (section 4).
-- `status: not_covered` → tell them which areas are covered today (`covered`), then give them
-  `request_line` word for word so they can ask for theirs. Offer a covered neighbour instead.
-- `status: offline` → the data couldn't be downloaded here. Ask them to download their area's ZIP
-  (`blueprint-area-<district>.zip`) from
-  https://github.com/Blueprint-Property-Marketing/blueprint-skill/releases/latest and attach it, then run `python scripts/blueprint.py fetch <district> --zip <path to the file>`.
-  Attached files are usually in `/mnt/user-data/uploads/`.
+- `status: ambiguous` → several districts share that place name; show the `options` and ask which, or ask
+  for the postcode.
+- `status: need_postcode` → no postcode or known place in what they said. Ask for the postcode, or find the
+  address's postcode with web search, then fetch again.
+- `status: outside` → the postcode is in Scotland, Northern Ireland, the Isle of Man or the Channel Islands.
+  Say plainly that HM Land Registry's sold prices cover England and Wales.
+- `status: no_sales` → no registered residential sales there since 2021, or the district doesn't exist. Check
+  the postcode with them, or offer a neighbouring district.
+- `status: offline` → the data couldn't be downloaded here. Ask them to download the area file for their
+  postcode's letters (`blueprint-areas-M.zip` for M33, `blueprint-areas-SK.zip` for SK7) from
+  https://github.com/Blueprint-Property-Marketing/blueprint-skill/releases/latest and attach it, then run
+  `python scripts/blueprint.py fetch <district> --zip <path to the file>`. Attached files are usually in
+  `/mnt/user-data/uploads/`.
 
 ## 2. Branding (only if they've given it)
 
@@ -89,8 +96,9 @@ python scripts/blueprint.py dashboard <district>
 | One home's sales ("what did 22 Urban Road go for?") | `query <district> --address "22 Urban Road"`; every sale of that home since 2021 comes back |
 | New builds: schemes, how they sold, new build against established | `stats <district>` and answer from `new_builds` (read its `note`); for one scheme, `query <district> --street "<street>" --new` |
 | Price trend, average prices, how the area compares with the region | `python scripts/blueprint.py stats <district>` and answer from `price_trend` |
-| Two or three areas side by side ("Sale or Altrincham?", "our two branches", "which site?") | `fetch` each, then `python scripts/blueprint.py compare <district> <district> [<district>]`. Present the file as an artifact, exactly as written, like the dashboard; then give the `headline_facts` in your own words, comparing medians type by type |
-| Another single area | `fetch` it, then `dashboard` |
+| Two or three areas side by side ("Sale or Altrincham?", "our two branches", "which site?") | `fetch` each (any mix of addresses, postcodes and places), then `python scripts/blueprint.py compare <district> <district> [<district>]`. Present the file as an artifact, exactly as written, like the dashboard; then give the `headline_facts` in your own words, comparing medians type by type |
+| Another area | `fetch` it, then `dashboard` |
+| Which districts a place covers ("all of Stockport") | `python scripts/blueprint.py areas --search "Stockport"` |
 
 ### Anything else the data can answer
 

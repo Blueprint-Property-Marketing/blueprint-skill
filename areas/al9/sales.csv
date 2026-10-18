@@ -1,0 +1,824 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-11,485000,AL9 7NG,T,N,F,11,,Barfolds,Welham Green,Hatfield
+2026-07-28,645000,AL9 5AH,T,N,F,18,,Fore Street,,Hatfield
+2026-07-24,775500,AL9 5DQ,T,N,L,51,,The Ryde,,Hatfield
+2026-07-22,279995,AL9 5FE,F,N,L,"Blackhorse House, 36",Flat 21,Salisbury Square,,Hatfield
+2026-07-10,267500,AL9 7SU,F,N,L,14,,Station Close,Brookmans Park,Hatfield
+2026-07-10,385000,AL9 7PG,T,N,F,44,,Station Road,Welham Green,Hatfield
+2026-07-10,346280,AL9 5DQ,F,N,L,67,,The Ryde,,Hatfield
+2026-07-03,615000,AL9 7LH,S,N,F,2,,Pooleys Lane,Welham Green,Hatfield
+2026-06-26,765000,AL9 7RR,S,N,F,10,,Moffats Close,Brookmans Park,Hatfield
+2026-06-25,925000,AL9 5DU,D,N,F,28,,Pleasant Rise,,Hatfield
+2026-06-18,420000,AL9 7ND,S,N,F,100,,Dellsome Lane,Welham Green,Hatfield
+2026-06-18,520000,AL9 7DJ,S,N,F,2,,Twysdens Terrace,Welham Green,Hatfield
+2026-06-12,225000,AL9 7LR,T,N,F,6,,Huggins Lane,Welham Green,Hatfield
+2026-06-10,207000,AL9 5EG,F,N,L,Kings Place,2,North Drive,,Hatfield
+2026-06-05,510000,AL9 7LH,S,N,F,8,,Pooleys Lane,Welham Green,Hatfield
+2026-06-01,97000,AL9 5ES,F,N,L,25,,Northcotts,,Hatfield
+2026-05-22,720000,AL9 7NR,T,N,F,45,,Holloways Lane,Welham Green,Hatfield
+2026-05-21,380000,AL9 7DN,T,N,F,122,,Dixons Hill Road,Welham Green,Hatfield
+2026-05-18,245000,AL9 5ES,F,N,L,2,,Northcotts,,Hatfield
+2026-05-15,525000,AL9 7LF,S,N,F,56,,Pooleys Lane,Welham Green,Hatfield
+2026-05-14,468000,AL9 7LW,S,N,F,47,,Puttocks Drive,Welham Green,Hatfield
+2026-05-12,1175000,AL9 7TP,S,N,F,"East Gables, 10",,Home Farm Road,North Mymms,Hatfield
+2026-04-29,650000,AL9 7UN,T,N,F,93,,Bluebridge Road,Brookmans Park,Hatfield
+2026-04-24,937500,AL9 7UQ,S,N,F,20,,Westland Drive,Brookmans Park,Hatfield
+2026-04-24,745000,AL9 7UJ,S,N,F,54,,Oaklands Avenue,Brookmans Park,Hatfield
+2026-04-17,750000,AL9 7UW,S,N,F,47,,Bluebridge Road,Brookmans Park,Hatfield
+2026-04-17,540000,AL9 7NZ,T,N,F,8,,Meadow Close,Welham Green,Hatfield
+2026-04-17,220000,AL9 5EG,F,N,L,Kings Place,7,North Drive,,Hatfield
+2026-04-08,665950,AL9 7LJ,S,N,F,21,,Huggins Lane,Welham Green,Hatfield
+2026-04-01,2250000,AL9 7AD,D,N,F,70,,Mymms Drive,Brookmans Park,Hatfield
+2026-04-01,500000,AL9 6AU,T,N,F,2,,The Terrace,Essendon,Hatfield
+2026-03-30,1300000,AL9 7RT,S,N,F,51,,Moffats Lane,Brookmans Park,Hatfield
+2026-03-30,210000,AL9 7DS,F,N,L,8,,Alderman Close,Welham Green,Hatfield
+2026-03-27,280000,AL9 5ET,F,N,L,63,,Sovereign Place,,Hatfield
+2026-03-27,650000,AL9 5DN,D,N,F,87,,The Ryde,,Hatfield
+2026-03-26,510000,AL9 7LW,T,N,F,79,,Puttocks Drive,Welham Green,Hatfield
+2026-03-20,222500,AL9 5EG,F,N,L,Kings Place,16,North Drive,,Hatfield
+2026-03-02,246000,AL9 5ET,F,N,L,97,,Sovereign Place,,Hatfield
+2026-02-27,490000,AL9 7SL,T,N,F,7,,Potterells,North Mymms,Hatfield
+2026-02-27,485000,AL9 5DE,T,N,F,20,,Bull Stag Green,,Hatfield
+2026-02-26,484000,AL9 7LF,S,N,F,52,,Pooleys Lane,Welham Green,Hatfield
+2026-02-17,485000,AL9 5HA,T,N,L,25,,Park Meadow,,Hatfield
+2026-02-13,955000,AL9 7UW,D,N,F,73A,,Bluebridge Road,Brookmans Park,Hatfield
+2026-02-11,450000,AL9 7NB,S,N,F,3,,Parsonage Lane,Welham Green,Hatfield
+2026-02-06,355000,AL9 7NJ,T,N,F,78,,Vincenzo Close,Welham Green,Hatfield
+2026-02-05,610000,AL9 7UQ,S,N,F,60,,Westland Drive,Brookmans Park,Hatfield
+2026-02-03,2150000,AL9 7BW,D,N,F,62,,Pine Grove,Brookmans Park,Hatfield
+2026-01-28,770000,AL9 7UW,S,N,F,79,,Bluebridge Road,Brookmans Park,Hatfield
+2026-01-26,1390000,AL9 7BW,D,N,F,90,,Pine Grove,Brookmans Park,Hatfield
+2026-01-22,925000,AL9 6HU,D,N,F,White Eaves,,High Road,Essendon,Hatfield
+2026-01-20,995000,AL9 7LQ,D,N,F,The Old Cottage,1,Pooleys Lane,Welham Green,Hatfield
+2026-01-20,580000,AL9 7EB,T,N,F,19,,Gould Close,Welham Green,Hatfield
+2026-01-16,625000,AL9 5DN,D,N,F,93,,The Ryde,,Hatfield
+2026-01-14,1900000,AL9 7BP,D,N,F,33A,,Pine Grove,Brookmans Park,Hatfield
+2026-01-09,665000,AL9 7PD,D,N,F,4,,Bulls Lane,Welham Green,Hatfield
+2026-01-09,860000,AL9 5HH,D,N,F,7,,The Holdings,,Hatfield
+2026-01-06,1890000,AL9 7QG,D,N,F,53,,Brookmans Avenue,Brookmans Park,Hatfield
+2025-12-23,1080000,AL9 7BD,D,N,F,North Lodge,,The Drive,Brookmans Park,Hatfield
+2025-12-19,732000,AL9 6AJ,S,N,F,"Sunnyside, 6",,Essendon Hill,Essendon,Hatfield
+2025-12-19,1010000,AL9 5NZ,D,N,F,The Laurels,,Mill Green,,Hatfield
+2025-12-17,365000,AL9 6HZ,S,N,F,8,,Glebe Close,Essendon,Hatfield
+2025-12-12,592000,AL9 7PY,T,N,F,44,,Somers Road,Welham Green,Hatfield
+2025-12-12,390000,AL9 7PS,D,N,F,5C,,Somers Square,Welham Green,Hatfield
+2025-12-12,532500,AL9 7LF,S,N,F,42,,Pooleys Lane,Welham Green,Hatfield
+2025-12-12,705000,AL9 7BY,F,N,L,"Brookwood, 1 - 3",Apartment 7,Georges Wood Road,Brookmans Park,Hatfield
+2025-12-12,1250000,AL9 7BW,D,N,F,88,,Pine Grove,Brookmans Park,Hatfield
+2025-12-05,580000,AL9 7PX,S,N,F,20,,Somers Road,Welham Green,Hatfield
+2025-12-05,530000,AL9 6HH,T,N,F,40,,Glebe Cottages,Essendon,Hatfield
+2025-11-27,340000,AL9 5FB,F,N,L,69,Flat 5,Great North Road,,Hatfield
+2025-11-26,250000,AL9 5HY,F,N,L,13,,Jacobs Ladder,,Hatfield
+2025-11-24,850000,AL9 7UL,S,N,F,10,,The Gardens,Brookmans Park,Hatfield
+2025-11-21,272000,AL9 5EX,F,N,L,Newlands,Flat 7,Old Hertford Road,,Hatfield
+2025-11-21,430000,AL9 5BW,T,N,F,Red Lion Court,23,Great North Road,,Hatfield
+2025-11-19,1125000,AL9 7AH,D,N,F,9,,Calder Avenue,Brookmans Park,Hatfield
+2025-11-18,600000,AL9 5AY,T,N,F,36,,Park Close,,Hatfield
+2025-11-06,1600000,AL9 7BW,D,N,F,70,,Pine Grove,Brookmans Park,Hatfield
+2025-11-06,527000,AL9 5JF,T,N,F,14,,Batterdale,,Hatfield
+2025-11-05,409500,AL9 7LW,T,N,F,11,,Puttocks Drive,Welham Green,Hatfield
+2025-11-03,505000,AL9 7NE,S,N,F,73,,Dellsome Lane,Welham Green,Hatfield
+2025-10-31,227500,AL9 6JR,F,N,L,Glebe House,8,School Lane,Essendon,Hatfield
+2025-10-31,472500,AL9 6HH,T,N,F,28,,Glebe Cottages,Essendon,Hatfield
+2025-10-24,390000,AL9 5DE,T,N,F,54,,Bull Stag Green,,Hatfield
+2025-10-21,835000,AL9 5HH,S,N,F,25,,The Holdings,,Hatfield
+2025-10-17,950000,AL9 7RU,S,N,F,4,,Moffats Lane,Brookmans Park,Hatfield
+2025-10-17,705000,AL9 5DQ,D,N,F,21,,The Ryde,,Hatfield
+2025-10-16,875000,AL9 7UQ,D,N,F,44,,Westland Drive,Brookmans Park,Hatfield
+2025-10-13,515000,AL9 7PN,S,N,F,13A,,Station Road,Welham Green,Hatfield
+2025-10-13,875000,AL9 5HW,D,N,F,1,,Greenfield,,Hatfield
+2025-10-10,600000,AL9 7UJ,S,N,F,18,,Oaklands Avenue,Brookmans Park,Hatfield
+2025-10-10,587500,AL9 7LT,S,N,F,5,,Huggins Lane,Welham Green,Hatfield
+2025-10-10,480000,AL9 7DZ,T,N,F,31,,Knolles Crescent,Welham Green,Hatfield
+2025-10-10,442500,AL9 5PB,T,N,F,Mill Cottages,5,Mill Green,,Hatfield
+2025-10-08,1060000,AL9 7SA,S,N,F,26,,Bluebridge Road,Brookmans Park,Hatfield
+2025-10-08,295000,AL9 7DF,F,N,L,Welham Court,Flat 2,Dixons Hill Road,Welham Green,Hatfield
+2025-10-03,225000,AL9 5FA,F,N,L,Parkgate House,6,Great North Road,,Hatfield
+2025-09-30,710000,AL9 6AY,S,N,F,Hanbury Cottages,4,Hanbury Lane,Essendon,Hatfield
+2025-09-26,785000,AL9 5DQ,T,N,L,47,,The Ryde,,Hatfield
+2025-09-24,1350000,AL9 7RL,D,N,F,27,,The Grove,Brookmans Park,Hatfield
+2025-09-22,442500,AL9 7ST,F,N,L,18,,Green Close,Brookmans Park,Hatfield
+2025-09-12,485000,AL9 7LF,S,N,F,38,,Pooleys Lane,Welham Green,Hatfield
+2025-09-08,640000,AL9 7UH,S,N,F,69,,Oaklands Avenue,Brookmans Park,Hatfield
+2025-09-08,2075000,AL9 6JA,D,N,F,Little Bedwell,,Cucumber Lane,Essendon,Hatfield
+2025-09-02,450000,AL9 7PB,S,N,F,14,,Skimpans Close,Welham Green,Hatfield
+2025-09-01,905000,AL9 7UL,S,N,F,31,,The Gardens,Brookmans Park,Hatfield
+2025-08-28,350000,AL9 7NJ,T,N,F,76,,Vincenzo Close,Welham Green,Hatfield
+2025-08-22,1475000,AL9 7RN,D,N,F,34,,The Grove,Brookmans Park,Hatfield
+2025-08-21,1430000,AL9 6JY,D,N,F,Skylark Meadows,Cedar House,Kentish Lane,,Hatfield
+2025-08-21,740000,AL9 5DX,D,N,F,5,,Sunnyfield,,Hatfield
+2025-08-15,765000,AL9 7TB,D,N,F,24,,Hawkshead Lane,North Mymms,Hatfield
+2025-08-08,295000,AL9 5EN,F,N,L,71,Flat 7,Great North Road,,Hatfield
+2025-07-31,1350000,AL9 6JY,D,N,F,Skylark Meadows,Oak House,Kentish Lane,,Hatfield
+2025-07-30,280000,AL9 7ED,T,N,F,34,,Greville Close,Welham Green,Hatfield
+2025-07-29,625000,AL9 7EF,D,N,F,9,,Dixons Hill Close,Welham Green,Hatfield
+2025-07-28,326500,AL9 7NJ,T,N,F,126,,Vincenzo Close,Welham Green,Hatfield
+2025-07-25,735000,AL9 7UU,S,N,F,36,,Peplins Way,Brookmans Park,Hatfield
+2025-07-25,461000,AL9 5HB,T,N,F,74,,Park Meadow,,Hatfield
+2025-07-18,450000,AL9 5EP,T,N,F,7,,Park Mews,,Hatfield
+2025-07-18,300000,AL9 5EN,F,N,L,71,Flat 22,Great North Road,,Hatfield
+2025-07-16,1250000,AL9 7QZ,D,N,F,59,,Bradmore Way,Brookmans Park,Hatfield
+2025-07-16,655000,AL9 6BP,T,N,F,6,,Orme Court,Essendon,Hatfield
+2025-07-08,850000,AL9 5DS,D,N,L,6,,Pleasant Rise,,Hatfield
+2025-07-04,835000,AL9 7UG,D,N,F,11,,Westland Drive,Brookmans Park,Hatfield
+2025-07-04,435000,AL9 6HZ,T,N,F,5,,Glebe Close,Essendon,Hatfield
+2025-07-03,244000,AL9 5EG,F,N,L,Kings Place,6,North Drive,,Hatfield
+2025-06-27,595000,AL9 7UP,F,N,L,9,Apartment 2,Bluebridge Road,Brookmans Park,Hatfield
+2025-06-27,455000,AL9 5AW,S,N,F,36,,Church Street,,Hatfield
+2025-06-24,975000,AL9 6HU,D,N,F,Red Lodge,,High Road,Essendon,Hatfield
+2025-06-23,325000,AL9 5HX,F,N,L,10,,Church Lane,,Hatfield
+2025-06-23,310000,AL9 5DE,S,N,F,76,,Bull Stag Green,,Hatfield
+2025-06-20,300000,AL9 5AY,F,N,L,24,,Park Close,,Hatfield
+2025-06-12,560000,AL9 7PY,T,N,F,60,,Somers Road,Welham Green,Hatfield
+2025-06-12,750000,AL9 7NP,D,N,F,34,,Holloways Lane,Welham Green,Hatfield
+2025-06-12,250000,AL9 5DB,F,N,L,"Highclere House, 98",Flat 6,Great North Road,,Hatfield
+2025-06-05,3837500,AL9 7AF,D,N,F,24,,Mymms Drive,Brookmans Park,Hatfield
+2025-06-05,320000,AL9 5EN,F,N,L,71,Flat 2,Great North Road,,Hatfield
+2025-05-23,285000,AL9 5HX,F,N,L,8,,Church Lane,,Hatfield
+2025-05-23,337000,AL9 5FB,F,N,L,69,Flat 12,Great North Road,,Hatfield
+2025-05-09,1005000,AL9 7AN,D,N,F,18,,Woodlands,Brookmans Park,Hatfield
+2025-04-25,377500,AL9 7AY,F,N,L,Swan Lodge,Flat 5,Bell Lane,Brookmans Park,Hatfield
+2025-04-24,1100000,AL9 6NG,D,N,F,11,,Kentish Lane,Brookmans Park,Hatfield
+2025-04-22,3000000,AL9 7AF,D,N,F,54,,Mymms Drive,Brookmans Park,Hatfield
+2025-04-17,485000,AL9 5JF,T,N,F,23,,Batterdale,,Hatfield
+2025-03-31,1040000,AL9 7TD,D,N,F,49,,Hawkshead Lane,North Mymms,Hatfield
+2025-03-31,595482,AL9 6DN,T,N,F,1,,Woodside Place,,Hatfield
+2025-03-31,475000,AL9 6AG,S,N,F,Bury Cottages,3,Essendon Hill,Essendon,Hatfield
+2025-03-28,605000,AL9 7UQ,D,N,F,16,,Westland Drive,Brookmans Park,Hatfield
+2025-03-28,575000,AL9 7QX,F,N,L,"Bradmore House, 2",2,Bradmore Way,Brookmans Park,Hatfield
+2025-03-27,310000,AL9 5EN,F,N,L,71,Flat 18,Great North Road,,Hatfield
+2025-03-26,835000,AL9 7PN,S,N,F,11A,,Station Road,Welham Green,Hatfield
+2025-03-26,458000,AL9 5EZ,T,N,L,15,,Old Hertford Road,,Hatfield
+2025-03-21,930000,AL9 7UU,S,N,F,2A,,Peplins Way,Brookmans Park,Hatfield
+2025-03-21,875000,AL9 7UQ,S,N,F,50,,Westland Drive,Brookmans Park,Hatfield
+2025-03-21,950000,AL9 7UH,D,N,F,21,,Oaklands Avenue,Brookmans Park,Hatfield
+2025-03-21,1375000,AL9 7RU,D,N,F,38,,Moffats Lane,Brookmans Park,Hatfield
+2025-03-21,1190000,AL9 7QX,D,N,F,10,,Bradmore Way,Brookmans Park,Hatfield
+2025-03-21,545000,AL9 7PB,S,N,F,34,,Skimpans Close,Welham Green,Hatfield
+2025-03-21,730000,AL9 7LE,D,N,F,32,,Huggins Lane,Welham Green,Hatfield
+2025-03-21,1700000,AL9 7BX,D,N,F,45A,,Georges Wood Road,Brookmans Park,Hatfield
+2025-03-20,580000,AL9 7LU,S,N,F,2,,Parsonage Lane,Welham Green,Hatfield
+2025-03-20,427000,AL9 7FA,S,N,F,6,,Old Farmhouse Mews,Welham Green,Hatfield
+2025-03-20,1125000,AL9 7AL,D,N,F,1,,Shrublands,Brookmans Park,Hatfield
+2025-03-11,779350,AL9 7UH,S,N,F,49,,Oaklands Avenue,Brookmans Park,Hatfield
+2025-03-11,455000,AL9 7ES,F,N,L,3,,Brookmans Place,Brookmans Park,Hatfield
+2025-03-07,575000,AL9 7LW,T,N,F,1,,Puttocks Drive,Welham Green,Hatfield
+2025-03-06,616000,AL9 7NS,D,N,F,56,,Holloways Lane,Welham Green,Hatfield
+2025-03-03,680000,AL9 5DP,S,N,F,127,,The Ryde,,Hatfield
+2025-02-28,755000,AL9 5DQ,T,N,L,59,,The Ryde,,Hatfield
+2025-02-28,240000,AL9 5DB,F,N,L,"Highclere House, 98",Flat 14,Great North Road,,Hatfield
+2025-02-28,780000,AL9 5BZ,D,N,F,9,,Mount Pleasant Close,,Hatfield
+2025-02-21,762500,AL9 7UG,S,N,F,21,,Westland Drive,Brookmans Park,Hatfield
+2025-02-20,205000,AL9 5EX,F,N,L,Newlands,Flat 12,Old Hertford Road,,Hatfield
+2025-02-19,264000,AL9 7DF,F,N,L,Welham Court,Flat 1,Dixons Hill Road,Welham Green,Hatfield
+2025-02-18,785000,AL9 7RP,D,N,F,129,,Moffats Lane,Brookmans Park,Hatfield
+2025-02-18,332500,AL9 7NE,T,N,F,91,,Dellsome Lane,Welham Green,Hatfield
+2025-02-14,1365000,AL9 7RW,D,N,F,96,,Moffats Lane,Brookmans Park,Hatfield
+2025-02-14,2762455,AL9 7QG,D,N,F,103,,Brookmans Avenue,Brookmans Park,Hatfield
+2025-02-12,1050000,AL9 7RP,S,N,F,111,,Moffats Lane,Brookmans Park,Hatfield
+2025-02-12,975000,AL9 6AY,D,N,F,Hornbeams,,Hanbury Lane,Essendon,Hatfield
+2025-02-07,528000,AL9 7LS,S,N,F,13,,Frowick Close,Welham Green,Hatfield
+2025-02-06,500000,AL9 7NY,S,N,F,7,,Bulls Lane,Welham Green,Hatfield
+2025-02-05,522000,AL9 5AY,T,N,F,25,,Park Close,,Hatfield
+2025-01-30,745000,AL9 7UQ,S,N,F,28,,Westland Drive,Brookmans Park,Hatfield
+2025-01-30,410000,AL9 7EA,S,N,F,46,,Knolles Crescent,Welham Green,Hatfield
+2025-01-30,1077000,AL9 7AN,D,N,F,27,,Woodlands,Brookmans Park,Hatfield
+2025-01-24,975000,AL9 7SA,D,N,F,24,,Bluebridge Road,Brookmans Park,Hatfield
+2025-01-24,540000,AL9 5EB,T,N,F,33,,Stag Green Avenue,,Hatfield
+2025-01-21,452000,AL9 7PU,S,N,F,8,,Coningsby Close,Welham Green,Hatfield
+2025-01-16,625000,AL9 5AN,T,N,F,5,,Fore Street,,Hatfield
+2025-01-06,499100,AL9 5HE,T,N,F,98,,Park Meadow,,Hatfield
+2024-12-20,480000,AL9 7LS,S,N,F,3,,Frowick Close,Welham Green,Hatfield
+2024-12-13,1300000,AL9 7QX,D,N,F,40,,Bradmore Way,Brookmans Park,Hatfield
+2024-12-09,410503,AL9 5LP,S,N,F,93,,Great North Road,,Hatfield
+2024-12-09,285000,AL9 5ET,F,N,L,77,,Sovereign Place,,Hatfield
+2024-12-06,1895000,AL9 7AQ,D,N,F,28,,Calder Avenue,Brookmans Park,Hatfield
+2024-12-06,230000,AL9 6HG,S,N,F,9,,Rectory Close,Essendon,Hatfield
+2024-11-29,508000,AL9 7DQ,S,N,F,8,,Churchill Crescent,Welham Green,Hatfield
+2024-11-29,408000,AL9 5EY,T,N,F,44,,Old Hertford Road,,Hatfield
+2024-11-25,1365000,AL9 7RW,D,N,F,136,,Moffats Lane,Brookmans Park,Hatfield
+2024-11-21,1200000,AL9 7RL,D,N,F,29,,The Grove,Brookmans Park,Hatfield
+2024-11-21,1830000,AL9 7BP,D,N,F,33,,Pine Grove,Brookmans Park,Hatfield
+2024-11-15,550000,AL9 7LU,S,N,F,12,,Parsonage Lane,Welham Green,Hatfield
+2024-11-15,720000,AL9 5AH,T,N,F,44,,Fore Street,,Hatfield
+2024-11-08,550000,AL9 7NA,S,N,F,19,,Parsonage Road,Welham Green,Hatfield
+2024-10-29,575000,AL9 7UG,S,N,F,69,,Westland Drive,Brookmans Park,Hatfield
+2024-10-28,430000,AL9 5AW,T,N,F,14,,Church Street,,Hatfield
+2024-10-25,1475000,AL9 7RL,D,N,F,3,,The Grove,Brookmans Park,Hatfield
+2024-10-25,615000,AL9 7NA,S,N,F,23,,Parsonage Road,Welham Green,Hatfield
+2024-10-25,385000,AL9 7AY,F,N,L,Swan Lodge,Flat 1,Bell Lane,Brookmans Park,Hatfield
+2024-10-25,500000,AL9 6AG,S,N,F,Bury Cottages,4,Essendon Hill,Essendon,Hatfield
+2024-10-25,360500,AL9 5AY,F,N,L,22,,Park Close,,Hatfield
+2024-10-22,518000,AL9 7LJ,S,N,F,51,,Huggins Lane,Welham Green,Hatfield
+2024-10-21,475000,AL9 7PS,S,N,F,4A,,Somers Square,Welham Green,Hatfield
+2024-10-18,1080000,AL9 7AL,D,N,F,3,,Shrublands,Brookmans Park,Hatfield
+2024-10-18,276000,AL9 5FE,F,N,L,"Blackhorse House, 36",Flat 21,Salisbury Square,,Hatfield
+2024-10-10,475000,AL9 6AB,S,N,F,2,,Mill Green Cottages,Essendon,Hatfield
+2024-10-10,400000,AL9 6AB,S,N,F,1,,Mill Green Cottages,Essendon,Hatfield
+2024-10-07,230000,AL9 5EG,F,N,L,Kings Place,8,North Drive,,Hatfield
+2024-10-04,253000,AL9 5ES,F,N,L,5,,Northcotts,,Hatfield
+2024-09-30,1750000,AL9 7BS,D,N,F,20,,Pine Grove,Brookmans Park,Hatfield
+2024-09-27,370000,AL9 7NF,D,N,F,8B,,Dellsome Lane,Welham Green,Hatfield
+2024-09-27,237500,AL9 5EG,F,N,L,Kings Place,20,North Drive,,Hatfield
+2024-09-26,607500,AL9 7PS,T,N,F,8,,Somers Square,Welham Green,Hatfield
+2024-09-25,800000,AL9 7UL,D,N,F,25,,The Gardens,Brookmans Park,Hatfield
+2024-09-20,740000,AL9 5DQ,D,N,F,13,,The Ryde,,Hatfield
+2024-09-20,284999,AL9 5DB,F,N,L,"Highclere House, 98",Flat 16,Great North Road,,Hatfield
+2024-09-19,525000,AL9 7NU,S,N,F,93,,Holloways Lane,Welham Green,Hatfield
+2024-09-19,445000,AL9 7LH,S,N,F,2,,Pooleys Lane,Welham Green,Hatfield
+2024-09-13,395000,AL9 5DE,T,N,F,14,,Bull Stag Green,,Hatfield
+2024-09-02,1699950,AL9 7BL,D,N,F,67,,Pine Grove,Brookmans Park,Hatfield
+2024-08-30,890000,AL9 7UP,S,N,F,1,,Bluebridge Road,Brookmans Park,Hatfield
+2024-08-30,372500,AL9 7NN,T,N,F,58,,Nash Close,Welham Green,Hatfield
+2024-08-30,725000,AL9 5HW,D,N,L,9,,Greenfield,,Hatfield
+2024-08-30,299999,AL9 5DB,F,N,L,"Highclere House, 98",Flat 8,Great North Road,,Hatfield
+2024-08-23,432000,AL9 7PR,T,N,F,9,,Somers Road,Welham Green,Hatfield
+2024-08-23,198000,AL9 5HX,F,N,L,2,,Church Lane,,Hatfield
+2024-08-15,1045000,AL9 7RN,D,N,F,32,,The Grove,Brookmans Park,Hatfield
+2024-08-15,394000,AL9 7LG,T,N,F,53,,Pooleys Lane,Welham Green,Hatfield
+2024-08-14,595000,AL9 7ND,T,N,F,86,,Dellsome Lane,Welham Green,Hatfield
+2024-08-09,975000,AL9 6PT,D,N,F,28,,Upland Drive,Brookmans Park,Hatfield
+2024-08-09,835000,AL9 5RF,S,N,F,Edgell Cottages,1,Holwell,Essendon,Hatfield
+2024-08-02,3100000,AL9 7BS,D,N,F,6,,Pine Grove,Brookmans Park,Hatfield
+2024-08-02,720000,AL9 5DP,S,N,F,153,,The Ryde,,Hatfield
+2024-08-02,680000,AL9 5BZ,D,N,F,25,,Mount Pleasant Close,,Hatfield
+2024-08-01,790000,AL9 5DP,D,N,F,117,,The Ryde,,Hatfield
+2024-07-30,875000,AL9 7BY,D,N,F,15A,,Georges Wood Road,Brookmans Park,Hatfield
+2024-07-24,670000,AL9 7PA,S,N,F,15,,Skimpans Close,Welham Green,Hatfield
+2024-07-24,550000,AL9 5AY,S,N,F,6,,Park Close,,Hatfield
+2024-07-19,365000,AL9 6HZ,T,N,F,1,,Glebe Close,Essendon,Hatfield
+2024-07-12,235000,AL9 7DY,F,N,L,"Caxton Lodge, 3",Flat 6,Dellsome Lane,Welham Green,Hatfield
+2024-07-12,1650000,AL9 7BA,D,N,F,Little Acres,,Foxes Lane,Welham Green,Hatfield
+2024-07-11,790000,AL9 7UP,S,N,F,3,,Bluebridge Road,Brookmans Park,Hatfield
+2024-07-11,490000,AL9 7NU,S,N,F,83,,Holloways Lane,Welham Green,Hatfield
+2024-07-08,558000,AL9 7LS,S,N,F,8,,Frowick Close,Welham Green,Hatfield
+2024-07-08,520000,AL9 5SD,D,N,F,Sunnymeade,,Great North Road,North Mymms,Hatfield
+2024-07-05,300000,AL9 5RL,F,N,L,Holwell Court,Flat 7,Holwell,,Hatfield
+2024-07-04,1095000,AL9 7RN,D,N,F,Duncairn,,The Grove,Brookmans Park,Hatfield
+2024-06-28,445500,AL9 7PB,S,N,F,40,,Skimpans Close,Welham Green,Hatfield
+2024-06-26,975000,AL9 7UW,S,N,F,73,,Bluebridge Road,Brookmans Park,Hatfield
+2024-06-19,440000,AL9 7DZ,T,N,F,17,,Knolles Crescent,Welham Green,Hatfield
+2024-06-18,865000,AL9 7UG,D,N,F,27,,Westland Drive,Brookmans Park,Hatfield
+2024-06-14,325000,AL9 6AS,T,N,F,Church Cottages,1,Church Street,Essendon,Hatfield
+2024-06-11,272450,AL9 5ET,F,N,L,67,,Sovereign Place,,Hatfield
+2024-06-10,420000,AL9 7NW,T,N,F,1,,Booths Close,Welham Green,Hatfield
+2024-06-04,1070000,AL9 7BX,D,N,F,39,,Georges Wood Road,Brookmans Park,Hatfield
+2024-05-24,225000,AL9 5EY,T,N,F,40,,Old Hertford Road,,Hatfield
+2024-05-20,485000,AL9 5BY,T,N,F,20,,Mount Pleasant Lane,,Hatfield
+2024-05-10,885000,AL9 7NP,D,N,F,26,,Holloways Lane,Welham Green,Hatfield
+2024-04-30,385000,AL9 7ED,T,N,F,22,,Greville Close,Welham Green,Hatfield
+2024-04-26,305000,AL9 7SU,F,N,L,18,,Station Close,Brookmans Park,Hatfield
+2024-04-26,335000,AL9 5DB,F,N,L,"Highclere House, 98",Flat 1,Great North Road,,Hatfield
+2024-04-23,1325000,AL9 7BX,D,N,F,43,,Georges Wood Road,Brookmans Park,Hatfield
+2024-04-23,699995,AL9 5HF,D,N,L,66,,Old Hertford Road,,Hatfield
+2024-04-10,530000,AL9 7LU,S,N,F,46,,Parsonage Lane,Welham Green,Hatfield
+2024-03-28,332500,AL9 5DB,F,N,L,"Highclere House, 98",Flat 5,Great North Road,,Hatfield
+2024-03-22,650000,AL9 7QX,F,N,L,"Bradmore House, 2",5,Bradmore Way,Brookmans Park,Hatfield
+2024-03-22,785000,AL9 7AY,S,N,F,32,,Bell Lane,Brookmans Park,Hatfield
+2024-03-22,1366250,AL9 6NF,D,N,F,16,,Great North Road,Brookmans Park,Hatfield
+2024-03-18,1225000,AL9 7QY,S,N,F,49,,Bradmore Way,Brookmans Park,Hatfield
+2024-03-15,515000,AL9 7LT,S,N,F,13,,Huggins Lane,Welham Green,Hatfield
+2024-03-15,375000,AL9 7DN,T,N,F,122,,Dixons Hill Road,Welham Green,Hatfield
+2024-03-15,500000,AL9 5NY,T,N,F,Waterside Cottages,4,Mill Green,,Hatfield
+2024-03-15,159000,AL9 5ET,F,N,L,107,,Sovereign Place,,Hatfield
+2024-03-13,910000,AL9 5DZ,D,N,F,22,,Stag Green Avenue,,Hatfield
+2024-03-05,565000,AL9 7PB,S,N,F,44,,Skimpans Close,Welham Green,Hatfield
+2024-02-27,4114300,AL9 7QG,D,N,F,95,,Brookmans Avenue,Brookmans Park,Hatfield
+2024-02-22,850000,AL9 7PG,D,N,F,40A,,Station Road,Welham Green,Hatfield
+2024-02-22,1200000,AL9 6JY,T,N,L,Woodhill House,3,Kentish Lane,,Hatfield
+2024-02-09,725000,AL9 7EE,D,N,F,115,,Dixons Hill Road,Welham Green,Hatfield
+2024-02-09,560000,AL9 7DS,D,N,F,25,,Alderman Close,Welham Green,Hatfield
+2024-02-05,670000,AL9 7LJ,S,N,F,43,,Huggins Lane,Welham Green,Hatfield
+2024-02-02,385000,AL9 7NJ,T,N,F,116,,Vincenzo Close,Welham Green,Hatfield
+2024-02-02,622500,AL9 6HJ,S,N,F,4,,East View,Essendon,Hatfield
+2024-01-26,625000,AL9 7UG,D,N,F,15,,Westland Drive,Brookmans Park,Hatfield
+2024-01-26,250000,AL9 6JR,F,N,L,Glebe House,1,School Lane,Essendon,Hatfield
+2024-01-22,880000,AL9 7RT,D,N,F,67,,Moffats Lane,Brookmans Park,Hatfield
+2024-01-19,1350000,AL9 7AF,D,N,F,24,,Mymms Drive,Brookmans Park,Hatfield
+2024-01-16,642000,AL9 7UH,S,N,F,1,,Oaklands Avenue,Brookmans Park,Hatfield
+2024-01-16,2300000,AL9 7QG,D,N,F,105,,Brookmans Avenue,Brookmans Park,Hatfield
+2024-01-15,380000,AL9 7NJ,T,N,F,106,,Vincenzo Close,Welham Green,Hatfield
+2024-01-15,840000,AL9 5HW,D,N,F,7,,Greenfield,,Hatfield
+2024-01-09,270000,AL9 7QS,F,N,L,48,,Bradmore Green,Brookmans Park,Hatfield
+2023-12-22,1600000,AL9 7QG,D,N,F,101,,Brookmans Avenue,Brookmans Park,Hatfield
+2023-12-21,540000,AL9 7QH,F,N,L,9A,Flat 3,Brookmans Avenue,Brookmans Park,Hatfield
+2023-12-20,1225000,AL9 7RN,S,N,F,38,,The Grove,Brookmans Park,Hatfield
+2023-12-20,775000,AL9 7LE,D,N,F,30,,Huggins Lane,Welham Green,Hatfield
+2023-12-18,390000,AL9 7PA,S,N,F,31,,Skimpans Close,Welham Green,Hatfield
+2023-12-18,550000,AL9 5AY,S,N,F,4,,Park Close,,Hatfield
+2023-12-15,625000,AL9 6DN,S,N,F,4,,Woodside Place,,Hatfield
+2023-12-14,745000,AL9 7LE,D,N,F,34,,Huggins Lane,Welham Green,Hatfield
+2023-12-11,450000,AL9 5HE,T,N,F,90,,Park Meadow,,Hatfield
+2023-12-06,1100000,AL9 7BS,D,N,F,32,,Pine Grove,Brookmans Park,Hatfield
+2023-11-29,615000,AL9 5EB,T,N,F,29,,Stag Green Avenue,,Hatfield
+2023-11-28,585000,AL9 5AY,T,N,F,28,,Park Close,,Hatfield
+2023-11-24,302700,AL9 5AY,F,N,L,16,,Park Close,,Hatfield
+2023-11-20,2350000,AL9 7LA,D,N,F,3,,Golf Club Road,Brookmans Park,Hatfield
+2023-11-20,490000,AL9 5AY,S,N,F,3,,Park Close,,Hatfield
+2023-11-14,240000,AL9 7DY,F,N,L,"Caxton Lodge, 3",Flat 3,Dellsome Lane,Welham Green,Hatfield
+2023-11-13,1000000,AL9 7RN,D,N,F,Green Acres,,The Grove,Brookmans Park,Hatfield
+2023-11-09,1250000,AL9 7RU,D,N,F,28,,Moffats Lane,Brookmans Park,Hatfield
+2023-11-03,640000,AL9 5DL,D,N,F,54,,The Ryde,,Hatfield
+2023-10-31,945000,AL9 7UH,D,N,F,61,,Oaklands Avenue,Brookmans Park,Hatfield
+2023-10-31,368895,AL9 5DB,F,N,L,"Highclere House, 98",Flat 12,Great North Road,,Hatfield
+2023-10-27,725000,AL9 7NU,S,N,F,69,,Holloways Lane,Welham Green,Hatfield
+2023-10-27,1015000,AL9 7BY,D,N,F,11,,Georges Wood Road,Brookmans Park,Hatfield
+2023-10-27,1100000,AL9 7AY,D,N,F,18,,Bell Lane,Brookmans Park,Hatfield
+2023-10-25,1300000,AL9 7AN,D,N,F,9,,Woodlands,Brookmans Park,Hatfield
+2023-10-23,427000,AL9 5EY,T,N,F,28,,Old Hertford Road,,Hatfield
+2023-10-20,410000,AL9 7PR,T,N,F,3,,Somers Road,Welham Green,Hatfield
+2023-10-18,760000,AL9 5FD,S,N,F,4,,Mill Green Lane,Mill Green,Hatfield
+2023-10-17,412000,AL9 5PB,T,N,F,Mill Cottages,5,Mill Green,,Hatfield
+2023-10-12,1100000,AL9 7QX,D,N,F,12,,Bradmore Way,Brookmans Park,Hatfield
+2023-10-12,1110000,AL9 7NP,D,N,F,8,,Holloways Lane,Welham Green,Hatfield
+2023-10-06,765000,AL9 7UT,S,N,F,113,,Peplins Way,Brookmans Park,Hatfield
+2023-10-06,875000,AL9 6DF,D,N,F,Owls Rest,,Woodside Lane,,Hatfield
+2023-10-05,460000,AL9 7EL,D,N,F,40,,Welham Manor,Welham Green,Hatfield
+2023-10-05,610000,AL9 7AY,S,N,F,24,,Bell Lane,Brookmans Park,Hatfield
+2023-09-29,448000,AL9 7PS,T,N,F,2,,Somers Square,Welham Green,Hatfield
+2023-09-29,315000,AL9 6AT,T,N,F,Fir Tree Cottages,3,West End Lane,Essendon,Hatfield
+2023-09-29,415000,AL9 5JD,F,N,L,32,,Salisbury Square,,Hatfield
+2023-09-26,450000,AL9 7NN,S,N,F,59,,Nash Close,Welham Green,Hatfield
+2023-09-25,1435000,AL9 7AE,D,N,F,57,,Mymms Drive,Brookmans Park,Hatfield
+2023-09-22,375000,AL9 7DN,T,N,F,124,,Dixons Hill Road,Welham Green,Hatfield
+2023-09-15,2000000,AL9 7LA,D,N,F,1,,Golf Club Road,Brookmans Park,Hatfield
+2023-09-15,305500,AL9 5EN,F,N,L,71,Flat 1,Great North Road,,Hatfield
+2023-09-05,385000,AL9 5DE,T,N,F,8,,Bull Stag Green,,Hatfield
+2023-08-31,325000,AL9 5FA,F,N,L,Parkgate House,22,Great North Road,,Hatfield
+2023-08-25,280000,AL9 5ET,F,N,L,43,,Sovereign Place,,Hatfield
+2023-08-24,1035000,AL9 7QX,S,N,F,32,,Bradmore Way,Brookmans Park,Hatfield
+2023-08-24,1650000,AL9 7QX,D,N,F,24,,Bradmore Way,Brookmans Park,Hatfield
+2023-08-23,775000,AL9 5FD,S,N,F,6,,Mill Green Lane,Mill Green,Hatfield
+2023-08-21,245000,AL9 7NN,F,N,L,36,,Nash Close,Welham Green,Hatfield
+2023-08-21,2250000,AL9 7LA,D,N,F,5,,Golf Club Road,Brookmans Park,Hatfield
+2023-08-21,750000,AL9 5FD,D,N,F,2,,Mill Green Lane,Mill Green,Hatfield
+2023-08-17,700000,AL9 7UJ,S,N,F,32,,Oaklands Avenue,Brookmans Park,Hatfield
+2023-08-17,532500,AL9 7EB,T,N,F,20,,Gould Close,Welham Green,Hatfield
+2023-08-17,465000,AL9 5BW,T,N,F,Red Lion Court,22,Great North Road,,Hatfield
+2023-08-16,995000,AL9 7UW,D,N,F,41,,Bluebridge Road,Brookmans Park,Hatfield
+2023-08-15,600000,AL9 5EL,D,N,F,6,,Sovereign Place,,Hatfield
+2023-08-11,325000,AL9 5FE,F,Y,L,"Blackhorse House, 36",Flat 23,Salisbury Square,,Hatfield
+2023-08-11,275000,AL9 5FE,F,Y,L,"Blackhorse House, 36",Flat 5,Salisbury Square,,Hatfield
+2023-08-04,369500,AL9 5FE,F,Y,L,"Blackhorse House, 36",Flat 25,Salisbury Square,,Hatfield
+2023-08-03,845000,AL9 7UW,S,N,F,57,,Bluebridge Road,Brookmans Park,Hatfield
+2023-08-03,335000,AL9 7NJ,T,N,F,82,,Vincenzo Close,Welham Green,Hatfield
+2023-07-28,600000,AL9 6DA,D,N,F,Rozel,,Great North Road,North Mymms,Hatfield
+2023-07-28,283000,AL9 5ET,F,N,L,41,,Sovereign Place,,Hatfield
+2023-07-25,475000,AL9 5EL,T,N,F,36,,Sovereign Place,,Hatfield
+2023-07-21,630000,AL9 6ND,S,N,F,Wittern,,Great North Road,Brookmans Park,Hatfield
+2023-07-21,260000,AL9 5FE,F,Y,L,"Blackhorse House, 36",Flat 9,Salisbury Square,,Hatfield
+2023-07-18,1375000,AL9 7AE,D,N,F,9,,Mymms Drive,Brookmans Park,Hatfield
+2023-07-14,1350000,AL9 7BU,D,N,F,72,,Georges Wood Road,Brookmans Park,Hatfield
+2023-07-12,938000,AL9 7AY,D,N,F,20,,Bell Lane,Brookmans Park,Hatfield
+2023-07-10,625000,AL9 7LE,D,N,F,28,,Huggins Lane,Welham Green,Hatfield
+2023-07-07,438000,AL9 7PY,S,N,F,54,,Somers Road,Welham Green,Hatfield
+2023-06-30,3200000,AL9 7BY,D,N,F,7,,Georges Wood Road,Brookmans Park,Hatfield
+2023-06-30,315000,AL9 5EN,F,N,L,71,Flat 25,Great North Road,,Hatfield
+2023-06-28,429895,AL9 5DB,F,N,L,"Highclere House, 98",Flat 22,Great North Road,,Hatfield
+2023-06-28,430000,AL9 5BE,F,N,L,"Willow House, 18E",,Salisbury Square,,Hatfield
+2023-06-27,600000,AL9 6BP,T,N,F,Hill House,,Orme Court,Essendon,Hatfield
+2023-06-23,1750000,AL9 7AF,D,N,F,6,,Mymms Drive,Brookmans Park,Hatfield
+2023-06-16,232500,AL9 7NN,T,N,L,32,,Nash Close,Welham Green,Hatfield
+2023-06-15,1575000,AL9 7QH,D,N,F,7,,Brookmans Avenue,Brookmans Park,Hatfield
+2023-06-15,2500000,AL9 7QH,S,N,F,15,,Brookmans Avenue,Brookmans Park,Hatfield
+2023-06-15,490000,AL9 6HQ,T,N,F,33,,Glebe Cottages,Essendon,Hatfield
+2023-06-15,630000,AL9 6HQ,S,N,F,27,,Glebe Cottages,Essendon,Hatfield
+2023-06-14,420000,AL9 7NN,S,N,F,52,,Nash Close,Welham Green,Hatfield
+2023-06-08,410000,AL9 7ST,F,N,L,18,,Green Close,Brookmans Park,Hatfield
+2023-06-07,150000,AL9 5HZ,F,N,L,33,,The Broadway,,Hatfield
+2023-06-01,575000,AL9 6HQ,T,N,F,20,,Glebe Cottages,Essendon,Hatfield
+2023-06-01,690000,AL9 5FD,S,N,F,5,,Mill Green Lane,Mill Green,Hatfield
+2023-06-01,680000,AL9 5FD,S,N,F,3,,Mill Green Lane,Mill Green,Hatfield
+2023-05-31,2650000,AL9 6LB,D,N,F,11,,Great North Road,Brookmans Park,Hatfield
+2023-05-26,385000,AL9 5FE,F,Y,L,"Blackhorse House, 36",Flat 22,Salisbury Square,,Hatfield
+2023-05-26,840000,AL9 5DU,D,N,L,22,,Pleasant Rise,,Hatfield
+2023-05-25,785000,AL9 5FD,D,N,F,8,,Mill Green Lane,Mill Green,Hatfield
+2023-05-24,215000,AL9 7DY,F,N,L,"Caxton Lodge, 3",Flat 1,Dellsome Lane,Welham Green,Hatfield
+2023-05-12,495000,AL9 5HA,T,N,F,23,,Park Meadow,,Hatfield
+2023-05-11,675000,AL9 5FD,S,N,F,1,,Mill Green Lane,Mill Green,Hatfield
+2023-05-02,261250,AL9 5FE,F,Y,L,"Blackhorse House, 36",Flat 12,Salisbury Square,,Hatfield
+2023-04-28,695000,AL9 5FD,S,N,F,7,,Mill Green Lane,Mill Green,Hatfield
+2023-04-25,342500,AL9 7NF,T,N,F,8,,Dellsome Lane,Welham Green,Hatfield
+2023-04-21,1630000,AL9 7BL,D,N,F,45,,Pine Grove,Brookmans Park,Hatfield
+2023-04-17,1190000,AL9 7QY,D,N,F,3,,Bradmore Way,Brookmans Park,Hatfield
+2023-04-14,1010000,AL9 6NG,D,N,F,11,,Kentish Lane,Brookmans Park,Hatfield
+2023-04-06,1450000,AL9 7RU,D,N,F,46A,,Moffats Lane,Brookmans Park,Hatfield
+2023-04-06,405000,AL9 5FE,F,Y,L,"Blackhorse House, 36",Flat 1,Salisbury Square,,Hatfield
+2023-04-06,410000,AL9 5FE,F,Y,L,"Blackhorse House, 36",Flat 2,Salisbury Square,,Hatfield
+2023-03-31,253000,AL9 5FB,F,N,L,69,Flat 13,Great North Road,,Hatfield
+2023-03-27,415500,AL9 5JG,T,N,F,28,,Batterdale,,Hatfield
+2023-03-22,480000,AL9 5HE,T,N,F,88,,Park Meadow,,Hatfield
+2023-03-17,270000,AL9 5FE,F,Y,L,"Blackhorse House, 36",Flat 16,Salisbury Square,,Hatfield
+2023-03-17,420000,AL9 5BY,T,N,F,20A,,Mount Pleasant Lane,,Hatfield
+2023-03-09,830000,AL9 7TY,D,N,F,74,,Warrengate Road,North Mymms,Hatfield
+2023-03-09,275000,AL9 5FE,F,Y,L,"Blackhorse House, 36",Flat 19,Salisbury Square,,Hatfield
+2023-03-03,1625000,AL9 7AF,D,N,F,52,,Mymms Drive,Brookmans Park,Hatfield
+2023-03-03,270000,AL9 5FE,F,Y,L,"Blackhorse House, 36",Flat 13,Salisbury Square,,Hatfield
+2023-02-24,265000,AL9 5FE,F,Y,L,"Blackhorse House, 36",Flat 20,Salisbury Square,,Hatfield
+2023-02-22,799995,AL9 6AU,T,N,F,6,,The Terrace,Essendon,Hatfield
+2023-02-20,355000,AL9 5EN,F,N,L,71,Flat 23,Great North Road,,Hatfield
+2023-02-17,1595000,AL9 6PS,D,N,F,14,,Upland Drive,Brookmans Park,Hatfield
+2023-02-16,495000,AL9 7PT,T,N,F,69,,Somers Road,Welham Green,Hatfield
+2023-02-10,270000,AL9 5FE,F,Y,L,"Blackhorse House, 36",Flat 10,Salisbury Square,,Hatfield
+2023-02-10,865000,AL9 5DQ,T,N,L,53,,The Ryde,,Hatfield
+2023-02-07,1725000,AL9 7RN,D,N,F,10,,The Grove,Brookmans Park,Hatfield
+2023-02-03,440000,AL9 5EP,T,N,F,7,,Park Mews,,Hatfield
+2023-02-03,318000,AL9 5AW,T,N,F,10,,Church Street,,Hatfield
+2023-02-02,320000,AL9 7DG,F,N,L,8,,Grove Place,Welham Green,Hatfield
+2023-02-02,475000,AL9 5HB,T,N,F,64,,Park Meadow,,Hatfield
+2023-01-31,920000,AL9 7RX,S,N,F,31,,Moffats Lane,Brookmans Park,Hatfield
+2023-01-30,3225000,AL9 7QH,D,N,F,21,,Brookmans Avenue,Brookmans Park,Hatfield
+2023-01-30,1640000,AL9 7QH,D,N,F,17,,Brookmans Avenue,Brookmans Park,Hatfield
+2023-01-30,270000,AL9 5FE,F,Y,L,"Blackhorse House, 36",Flat 8,Salisbury Square,,Hatfield
+2023-01-25,275000,AL9 5FE,F,Y,L,"Blackhorse House, 36",Flat 6,Salisbury Square,,Hatfield
+2023-01-23,248500,AL9 5EG,F,N,L,York House,32,North Drive,,Hatfield
+2023-01-20,462000,AL9 7PS,T,N,F,10,,Somers Square,Welham Green,Hatfield
+2023-01-20,400000,AL9 7NG,S,N,F,13,,Barfolds,Welham Green,Hatfield
+2023-01-17,2435000,AL9 6GZ,T,N,L,Somerset House,,Essendon Place,Essendon,Hatfield
+2023-01-16,420000,AL9 5FE,F,Y,L,"Blackhorse House, 36",Flat 4,Salisbury Square,,Hatfield
+2022-12-22,260000,AL9 5FE,F,Y,L,"Blackhorse House, 36",Flat 11,Salisbury Square,,Hatfield
+2022-12-21,262500,AL9 5FA,F,N,L,Parkgate House,21,Great North Road,,Hatfield
+2022-12-20,1320000,AL9 7TB,D,N,F,10,,Hawkshead Lane,North Mymms,Hatfield
+2022-12-20,1167500,AL9 7RU,S,N,F,2,,Moffats Lane,Brookmans Park,Hatfield
+2022-12-16,512000,AL9 7EB,T,N,F,11,,Gould Close,Welham Green,Hatfield
+2022-12-09,287500,AL9 5EX,F,N,L,Newlands,Flat 13,Old Hertford Road,,Hatfield
+2022-12-07,275000,AL9 5FE,F,Y,L,"Blackhorse House, 36",Flat 18,Salisbury Square,,Hatfield
+2022-12-06,685000,AL9 7UQ,D,N,F,44,,Westland Drive,Brookmans Park,Hatfield
+2022-12-06,2075000,AL9 7AE,D,N,F,5,,Mymms Drive,Brookmans Park,Hatfield
+2022-12-05,260000,AL9 7DY,F,N,L,"Caxton Lodge, 3",Flat 7,Dellsome Lane,Welham Green,Hatfield
+2022-12-02,875000,AL9 7TB,D,N,F,18,,Hawkshead Lane,North Mymms,Hatfield
+2022-11-30,1117500,AL9 7TP,D,N,F,"The Barn, 2",,Home Farm Road,North Mymms,Hatfield
+2022-11-30,306500,AL9 5FE,F,Y,L,"Blackhorse House, 36",Flat 24,Salisbury Square,,Hatfield
+2022-11-30,262500,AL9 5ET,F,N,L,105,,Sovereign Place,,Hatfield
+2022-11-29,1600000,AL9 7QX,D,N,F,8,,Bradmore Way,Brookmans Park,Hatfield
+2022-11-25,775000,AL9 7UQ,S,N,F,30,,Westland Drive,Brookmans Park,Hatfield
+2022-11-25,535000,AL9 7UP,F,N,L,9,Apartment 1,Bluebridge Road,Brookmans Park,Hatfield
+2022-11-25,892500,AL9 7UP,S,N,F,1,,Bluebridge Road,Brookmans Park,Hatfield
+2022-11-25,275000,AL9 5FE,F,Y,L,"Blackhorse House, 36",Flat 15,Salisbury Square,,Hatfield
+2022-11-24,805000,AL9 7NP,S,N,F,20,,Holloways Lane,Welham Green,Hatfield
+2022-11-23,440000,AL9 5HB,T,N,F,72,,Park Meadow,,Hatfield
+2022-11-22,420000,AL9 5AH,T,N,F,24,,Fore Street,,Hatfield
+2022-11-21,650000,AL9 7DY,D,N,F,65,,Dellsome Lane,Welham Green,Hatfield
+2022-11-18,490000,AL9 7EA,T,N,F,6,,Knolles Crescent,Welham Green,Hatfield
+2022-11-18,1310000,AL9 6LB,D,N,F,21,,Great North Road,Brookmans Park,Hatfield
+2022-11-18,300000,AL9 5FE,F,Y,L,"Blackhorse House, 36",Flat 3,Salisbury Square,,Hatfield
+2022-11-18,275000,AL9 5FE,F,Y,L,"Blackhorse House, 36",Flat 21,Salisbury Square,,Hatfield
+2022-11-16,270000,AL9 5FE,F,Y,L,"Blackhorse House, 36",Flat 7,Salisbury Square,,Hatfield
+2022-11-15,240000,AL9 5EG,F,N,L,Kings Place,14,North Drive,,Hatfield
+2022-11-15,452500,AL9 5DE,T,N,F,64,,Bull Stag Green,,Hatfield
+2022-11-11,280000,AL9 5FE,F,Y,L,"Blackhorse House, 36",Flat 17,Salisbury Square,,Hatfield
+2022-11-10,280000,AL9 5FE,F,Y,L,"Blackhorse House, 36",Flat 14,Salisbury Square,,Hatfield
+2022-11-07,725000,AL9 6GJ,F,N,L,Bedwell Hall,6,Bedwell Park,Essendon,Hatfield
+2022-10-28,1175000,AL9 7SB,D,N,F,22,,Bluebridge Road,Brookmans Park,Hatfield
+2022-10-28,227500,AL9 5EG,F,N,L,York House,36,North Drive,,Hatfield
+2022-10-19,200000,AL9 7DS,F,N,L,13,,Alderman Close,Welham Green,Hatfield
+2022-10-19,740000,AL9 6HW,S,N,F,8,,High Road,Essendon,Hatfield
+2022-10-12,427000,AL9 7ED,T,N,F,8,,Greville Close,Welham Green,Hatfield
+2022-10-11,475000,AL9 5HE,T,N,F,102,,Park Meadow,,Hatfield
+2022-10-07,2100000,AL9 7QQ,D,N,F,104,,Brookmans Avenue,Brookmans Park,Hatfield
+2022-10-07,1200000,AL9 7AN,D,N,F,19,,Woodlands,Brookmans Park,Hatfield
+2022-10-07,2100000,AL9 6HP,D,N,F,High Hurst,,High Road,Essendon,Hatfield
+2022-10-06,483000,AL9 5HE,T,N,F,105,,Park Meadow,,Hatfield
+2022-10-06,256000,AL9 5FA,F,N,L,Parkgate House,20,Great North Road,,Hatfield
+2022-10-05,1350000,AL9 7SB,D,N,F,18,,Bluebridge Road,Brookmans Park,Hatfield
+2022-10-04,2650000,AL9 6JY,D,N,L,Woodhill House,1,Kentish Lane,,Hatfield
+2022-09-30,277000,AL9 5AT,F,N,L,"Walby House, 23",Flat 1,Park Street,,Hatfield
+2022-09-28,295000,AL9 5ET,F,N,L,53,,Sovereign Place,,Hatfield
+2022-09-23,440000,AL9 5EF,F,N,L,9,,Dunham Mews,,Hatfield
+2022-09-21,1050000,AL9 7AL,D,N,F,25,,Shrublands,Brookmans Park,Hatfield
+2022-09-20,853000,AL9 7AY,D,N,F,56,,Bell Lane,Brookmans Park,Hatfield
+2022-09-20,1100000,AL9 7AN,D,N,F,25,,Woodlands,Brookmans Park,Hatfield
+2022-09-14,1435000,AL9 6NZ,D,N,F,3,,Lysley Place,Brookmans Park,Hatfield
+2022-09-09,290000,AL9 5ET,F,N,L,31,,Sovereign Place,,Hatfield
+2022-08-31,3700000,AL9 7QQ,D,N,F,106,,Brookmans Avenue,Brookmans Park,Hatfield
+2022-08-31,580000,AL9 7PN,D,N,F,9,,Station Road,Welham Green,Hatfield
+2022-08-31,465000,AL9 5HA,T,N,F,26,,Park Meadow,,Hatfield
+2022-08-30,1137500,AL9 7QY,D,N,F,25,,Bradmore Way,Brookmans Park,Hatfield
+2022-08-30,895000,AL9 5AN,T,N,F,13,,Fore Street,,Hatfield
+2022-08-26,530000,AL9 7LH,S,N,F,28,,Pooleys Lane,Welham Green,Hatfield
+2022-08-26,470000,AL9 7LG,S,N,F,59,,Pooleys Lane,Welham Green,Hatfield
+2022-08-26,320000,AL9 5FA,F,N,L,Parkgate House,19,Great North Road,,Hatfield
+2022-08-26,399995,AL9 5DB,F,N,L,"Highclere House, 98",Flat 6,Great North Road,,Hatfield
+2022-08-25,740000,AL9 6EA,S,N,F,59,,Wild Hill,,Hatfield
+2022-08-19,320000,AL9 5BW,F,N,L,Red Lion Court,18,Great North Road,,Hatfield
+2022-08-17,330000,AL9 5FB,F,N,L,69,Flat 3,Great North Road,,Hatfield
+2022-08-16,800000,AL9 7UJ,S,N,F,22,,Oaklands Avenue,Brookmans Park,Hatfield
+2022-08-15,660000,AL9 7ST,T,N,F,23,,Green Close,Brookmans Park,Hatfield
+2022-08-15,440000,AL9 7LP,T,N,F,14,,Puttocks Drive,Welham Green,Hatfield
+2022-08-15,500000,AL9 6HJ,S,N,F,6,,East View,Essendon,Hatfield
+2022-08-12,430000,AL9 5RL,F,N,L,Holwell Court,Flat 9,Holwell,,Hatfield
+2022-08-11,1300000,AL9 7RP,S,N,F,125,,Moffats Lane,Brookmans Park,Hatfield
+2022-08-11,700000,AL9 7QX,F,N,L,"Bradmore House, 2",4,Bradmore Way,Brookmans Park,Hatfield
+2022-08-11,625000,AL9 7DJ,S,N,F,9,,Twysdens Terrace,Welham Green,Hatfield
+2022-08-11,850000,AL9 6LB,D,N,F,1,,Great North Road,Brookmans Park,Hatfield
+2022-08-10,225000,AL9 6JR,F,N,L,Glebe House,5,School Lane,Essendon,Hatfield
+2022-08-08,2999995,AL9 7AF,D,N,F,8,,Mymms Drive,Brookmans Park,Hatfield
+2022-08-05,495000,AL9 7SW,D,N,F,Watersplash Cottages,2,Station Road,Welham Green,Hatfield
+2022-08-05,640000,AL9 7ST,T,N,F,21,,Green Close,Brookmans Park,Hatfield
+2022-08-03,420250,AL9 5EY,T,N,F,52,,Old Hertford Road,,Hatfield
+2022-08-03,690000,AL9 5DQ,T,N,L,57,,The Ryde,,Hatfield
+2022-07-29,490000,AL9 7PX,T,N,F,26,,Somers Road,Welham Green,Hatfield
+2022-07-29,540000,AL9 7NY,S,N,F,11,,Bulls Lane,Welham Green,Hatfield
+2022-07-29,390000,AL9 7LW,T,N,F,51,,Puttocks Drive,Welham Green,Hatfield
+2022-07-29,245000,AL9 5FA,F,N,L,Parkgate House,12,Great North Road,,Hatfield
+2022-07-29,745000,AL9 5DL,D,N,F,52,,The Ryde,,Hatfield
+2022-07-26,515000,AL9 7PU,S,N,F,9,,Coningsby Close,Welham Green,Hatfield
+2022-07-19,528000,AL9 7LY,S,N,F,23,,Parsonage Lane,Welham Green,Hatfield
+2022-07-18,750000,AL9 7TB,S,N,F,14,,Hawkshead Lane,North Mymms,Hatfield
+2022-07-15,280000,AL9 5AT,F,N,L,"Chequers House, 1 - 5",Flat 2,Park Street,,Hatfield
+2022-07-11,450000,AL9 5HA,T,N,L,6,,Park Meadow,,Hatfield
+2022-07-08,985000,AL9 7QY,S,N,F,17,,Bradmore Way,Brookmans Park,Hatfield
+2022-07-08,2000000,AL9 7BU,D,N,F,76,,Georges Wood Road,Brookmans Park,Hatfield
+2022-07-07,1200000,AL9 7UR,T,N,F,15,,Peplins Way,Brookmans Park,Hatfield
+2022-07-01,2250000,AL9 7QG,D,N,F,89,,Brookmans Avenue,Brookmans Park,Hatfield
+2022-07-01,718000,AL9 5BZ,D,N,F,3,,Mount Pleasant Close,,Hatfield
+2022-06-30,955000,AL9 7UW,D,N,F,73A,,Bluebridge Road,Brookmans Park,Hatfield
+2022-06-30,335000,AL9 7NJ,T,N,F,138,,Vincenzo Close,Welham Green,Hatfield
+2022-06-30,535000,AL9 6HQ,T,N,F,11,,Glebe Cottages,Essendon,Hatfield
+2022-06-29,1985000,AL9 7BZ,D,N,F,6,,Georges Wood Road,Brookmans Park,Hatfield
+2022-06-29,380000,AL9 6AS,T,N,F,Church Cottages,3,Church Street,Essendon,Hatfield
+2022-06-28,655000,AL9 5DH,D,N,F,16,,The Ryde,,Hatfield
+2022-06-27,985000,AL9 6JB,S,N,F,Essenwell Cottage,,Cucumber Lane,Essendon,Hatfield
+2022-06-22,700000,AL9 5DX,D,N,L,10,,Sunnyfield,,Hatfield
+2022-06-17,662000,AL9 5DR,D,N,F,9,,Pleasant Rise,,Hatfield
+2022-06-14,310000,AL9 5BW,F,N,L,Red Lion Court,3,Great North Road,,Hatfield
+2022-06-07,350000,AL9 5AY,F,N,L,17,,Park Close,,Hatfield
+2022-06-01,331000,AL9 5AT,F,N,L,1 - 5,Flat 4,Park Street,,Hatfield
+2022-05-31,775000,AL9 7PB,S,N,F,16,,Skimpans Close,Welham Green,Hatfield
+2022-05-31,347000,AL9 5FA,F,N,L,Parkgate House,15,Great North Road,,Hatfield
+2022-05-30,1170000,AL9 6DA,D,N,F,Meadside,,Great North Road,North Mymms,Hatfield
+2022-05-25,405000,AL9 5DE,T,N,F,20,,Bull Stag Green,,Hatfield
+2022-05-20,550000,AL9 7NR,S,N,F,49,,Holloways Lane,Welham Green,Hatfield
+2022-05-17,2225000,AL9 6HP,D,N,F,Lime Wood,,High Road,Essendon,Hatfield
+2022-05-13,537500,AL9 7NU,S,N,F,79,,Holloways Lane,Welham Green,Hatfield
+2022-05-06,2100000,AL9 7BU,D,N,F,68,,Georges Wood Road,Brookmans Park,Hatfield
+2022-05-06,300000,AL9 5FA,F,N,L,Parkgate House,3,Great North Road,,Hatfield
+2022-04-29,600000,AL9 5DY,D,N,F,11,,Lowlands,,Hatfield
+2022-04-29,595000,AL9 5AH,T,N,F,44,,Fore Street,,Hatfield
+2022-04-25,1100000,AL9 7AZ,D,N,F,Spinners,,Bulls Lane,Brookmans Park,Hatfield
+2022-04-20,600000,AL9 5AN,T,N,F,5,,Fore Street,,Hatfield
+2022-04-14,1325000,AL9 7BL,D,N,F,73,,Pine Grove,Brookmans Park,Hatfield
+2022-04-14,475000,AL9 5AT,S,N,F,19,,Park Street,,Hatfield
+2022-04-12,542000,AL9 7LH,S,N,F,12,,Pooleys Lane,Welham Green,Hatfield
+2022-04-11,581000,AL9 7ST,T,N,F,25,,Green Close,Brookmans Park,Hatfield
+2022-04-08,465000,AL9 7LP,T,N,F,16,,Puttocks Drive,Welham Green,Hatfield
+2022-04-05,725000,AL9 7UT,S,N,F,67,,Peplins Way,Brookmans Park,Hatfield
+2022-04-01,990000,AL9 7AN,D,N,F,29,,Woodlands,Brookmans Park,Hatfield
+2022-03-31,750000,AL9 7UU,D,N,F,46A,,Peplins Way,Brookmans Park,Hatfield
+2022-03-31,680000,AL9 7PB,S,N,F,22,,Skimpans Close,Welham Green,Hatfield
+2022-03-29,785000,AL9 5DL,D,N,L,40,,The Ryde,,Hatfield
+2022-03-23,1475000,AL9 7QJ,D,N,F,4,,Brookmans Avenue,Brookmans Park,Hatfield
+2022-03-15,670000,AL9 7UW,S,N,F,19,,Bluebridge Road,Brookmans Park,Hatfield
+2022-03-14,420000,AL9 5EY,T,N,L,34,,Old Hertford Road,,Hatfield
+2022-03-04,305000,AL9 5EN,F,N,L,71,Flat 4,Great North Road,,Hatfield
+2022-03-03,380000,AL9 7TT,S,N,F,13,,Warrengate Road,North Mymms,Hatfield
+2022-02-28,814000,AL9 7UW,S,N,F,61,,Bluebridge Road,Brookmans Park,Hatfield
+2022-02-25,419995,AL9 5DB,F,N,L,"Highclere House, 98",Flat 3,Great North Road,,Hatfield
+2022-02-22,1300000,AL9 7AG,D,N,F,38,,Calder Avenue,Brookmans Park,Hatfield
+2022-02-22,830000,AL9 6DA,D,N,F,Longridge,,Great North Road,North Mymms,Hatfield
+2022-02-21,1790000,AL9 6PT,D,N,F,27,,Upland Drive,Brookmans Park,Hatfield
+2022-02-18,665950,AL9 7NR,D,N,F,55,,Holloways Lane,Welham Green,Hatfield
+2022-02-18,474000,AL9 5HE,T,N,F,99,,Park Meadow,,Hatfield
+2022-02-15,260000,AL9 5ES,F,N,L,7,,Northcotts,,Hatfield
+2022-02-15,210000,AL9 5AY,F,N,L,12,,Park Close,,Hatfield
+2022-02-14,268000,AL9 5ET,F,N,L,71,,Sovereign Place,,Hatfield
+2022-02-11,440000,AL9 7PS,T,N,F,5,,Somers Square,Welham Green,Hatfield
+2022-02-11,405000,AL9 7LJ,T,N,F,71,,Huggins Lane,Welham Green,Hatfield
+2022-02-11,265000,AL9 5EG,F,N,L,York House,26,North Drive,,Hatfield
+2022-02-10,1400000,AL9 7AA,D,N,F,73,,Mymms Drive,Brookmans Park,Hatfield
+2022-02-10,337000,AL9 5EN,F,N,L,71,Flat 11,Great North Road,,Hatfield
+2022-02-04,1600000,AL9 7QH,D,N,F,5,,Brookmans Avenue,Brookmans Park,Hatfield
+2022-02-03,1350000,AL9 6PT,D,N,F,32,,Upland Drive,Brookmans Park,Hatfield
+2022-01-31,780000,AL9 7QT,T,N,F,72,,Bradmore Green,Brookmans Park,Hatfield
+2022-01-31,1250000,AL9 7BL,S,N,F,73A,,Pine Grove,Brookmans Park,Hatfield
+2022-01-28,1150000,AL9 7BY,D,N,F,35,,Georges Wood Road,Brookmans Park,Hatfield
+2022-01-28,800000,AL9 6AZ,S,N,F,Hill View,,West End Lane,Essendon,Hatfield
+2022-01-24,1200000,AL9 6PT,D,N,F,30,,Upland Drive,Brookmans Park,Hatfield
+2022-01-24,1200000,AL9 5RF,D,N,F,West Low Lodge,,Holwell,Essendon,Hatfield
+2022-01-21,175000,AL9 7NH,F,N,L,41,,Vincenzo Close,Welham Green,Hatfield
+2022-01-17,300000,AL9 5BW,F,N,L,Red Lion Court,9,Great North Road,,Hatfield
+2022-01-14,319000,AL9 7SU,T,N,L,3,,Station Close,Brookmans Park,Hatfield
+2022-01-12,455000,AL9 5HB,T,N,F,61,,Park Meadow,,Hatfield
+2022-01-10,560000,AL9 7TY,D,N,F,78,,Warrengate Road,North Mymms,Hatfield
+2022-01-10,400000,AL9 7NH,T,N,F,79,,Vincenzo Close,Welham Green,Hatfield
+2022-01-10,360000,AL9 7ES,F,N,L,10,,Brookmans Place,Brookmans Park,Hatfield
+2022-01-06,450000,AL9 7LP,T,N,F,8,,Puttocks Drive,Welham Green,Hatfield
+2021-12-22,1370000,AL9 7QN,D,N,F,2,,The Close,Brookmans Park,Hatfield
+2021-12-22,399500,AL9 7NR,S,N,F,21,,Holloways Lane,Welham Green,Hatfield
+2021-12-17,1150000,AL9 6PT,D,N,F,30A,,Upland Drive,Brookmans Park,Hatfield
+2021-12-17,255000,AL9 6JR,F,N,L,Glebe House,1,School Lane,Essendon,Hatfield
+2021-12-16,628000,AL9 7PA,S,N,F,15,,Skimpans Close,Welham Green,Hatfield
+2021-12-15,1475000,AL9 6HP,D,N,F,The Spinney,,High Road,Essendon,Hatfield
+2021-12-10,475000,AL9 7PR,T,N,F,17,,Somers Road,Welham Green,Hatfield
+2021-12-10,499995,AL9 6HW,T,N,F,14,,High Road,Essendon,Hatfield
+2021-12-09,1380000,AL9 7AE,D,N,F,61,,Mymms Drive,Brookmans Park,Hatfield
+2021-12-03,920000,AL9 6NP,D,N,F,12,,Ramsey Close,Brookmans Park,Hatfield
+2021-12-03,1200000,AL9 6EF,D,N,F,The Old School House,,Grubbs Lane,,Hatfield
+2021-12-03,373000,AL9 5AX,T,N,F,4,,Park Street,,Hatfield
+2021-11-30,180000,AL9 7NN,F,N,L,16,,Nash Close,Welham Green,Hatfield
+2021-11-30,485000,AL9 7EL,T,N,F,30,,Welham Manor,Welham Green,Hatfield
+2021-11-30,380000,AL9 7AY,F,N,L,Swan Lodge,Flat 1,Bell Lane,Brookmans Park,Hatfield
+2021-11-30,770000,AL9 5HG,D,N,F,1,,Park View,,Hatfield
+2021-11-29,745000,AL9 7UQ,S,N,F,62,,Westland Drive,Brookmans Park,Hatfield
+2021-11-29,685000,AL9 7EL,S,N,F,1,,Welham Manor,Welham Green,Hatfield
+2021-11-29,470000,AL9 5AY,S,N,F,6,,Park Close,,Hatfield
+2021-11-28,258500,AL9 5BW,F,N,L,Red Lion Court,17,Great North Road,,Hatfield
+2021-11-25,1429000,AL9 6NZ,D,N,F,1,,Lysley Place,Brookmans Park,Hatfield
+2021-11-25,1200000,AL9 6GJ,F,N,L,Bedwell Hall,1,Bedwell Park,Essendon,Hatfield
+2021-11-19,417500,AL9 7EW,T,N,F,3,,Charkham Mews,Welham Green,Hatfield
+2021-11-12,627500,AL9 7NY,S,N,F,23,,Bulls Lane,Welham Green,Hatfield
+2021-11-05,1380000,AL9 7BX,D,N,F,41,,Georges Wood Road,Brookmans Park,Hatfield
+2021-10-29,350000,AL9 7AY,F,N,L,Swan Lodge,Flat 4,Bell Lane,Brookmans Park,Hatfield
+2021-10-29,865000,AL9 5SD,D,N,F,Firswood,,Great North Road,North Mymms,Hatfield
+2021-10-28,339995,AL9 5DB,F,N,L,"Highclere House, 98",Flat 15,Great North Road,,Hatfield
+2021-10-27,625000,AL9 7BY,F,N,L,"Brookwood, 1 - 3",Apartment 6,Georges Wood Road,Brookmans Park,Hatfield
+2021-10-27,3300000,AL9 7AF,D,N,F,54,,Mymms Drive,Brookmans Park,Hatfield
+2021-10-22,1075000,AL9 7BD,D,N,F,North Lodge,,The Drive,Brookmans Park,Hatfield
+2021-10-21,1375000,AL9 7BL,D,N,F,35,,Pine Grove,Brookmans Park,Hatfield
+2021-10-21,336000,AL9 5JD,F,N,L,32,,Salisbury Square,,Hatfield
+2021-10-15,448000,AL9 7PS,T,N,F,11,,Somers Square,Welham Green,Hatfield
+2021-10-07,1330000,AL9 7BD,D,N,F,2,,The Drive,Brookmans Park,Hatfield
+2021-09-30,565000,AL9 7LJ,S,N,F,23,,Huggins Lane,Welham Green,Hatfield
+2021-09-30,180000,AL9 7DY,F,N,L,57,,Dellsome Lane,Welham Green,Hatfield
+2021-09-30,900000,AL9 7BD,D,N,F,8,,The Drive,Brookmans Park,Hatfield
+2021-09-30,780000,AL9 6AY,S,N,F,Hanbury Cottages,2,Hanbury Lane,Essendon,Hatfield
+2021-09-30,445000,AL9 5HX,T,N,F,25,,Church Lane,,Hatfield
+2021-09-30,284000,AL9 5EN,F,N,L,71,Flat 7,Great North Road,,Hatfield
+2021-09-30,450000,AL9 5BY,D,N,F,18,,Mount Pleasant Lane,,Hatfield
+2021-09-29,755000,AL9 7UU,S,N,F,8,,Peplins Way,Brookmans Park,Hatfield
+2021-09-29,675000,AL9 7UG,D,N,F,29,,Westland Drive,Brookmans Park,Hatfield
+2021-09-29,495000,AL9 7PY,T,N,F,44,,Somers Road,Welham Green,Hatfield
+2021-09-29,345000,AL9 7DN,T,N,F,152,,Dixons Hill Road,Welham Green,Hatfield
+2021-09-29,440000,AL9 5HA,T,N,F,2,,Park Meadow,,Hatfield
+2021-09-28,565000,AL9 7ST,T,N,F,26,,Green Close,Brookmans Park,Hatfield
+2021-09-28,585000,AL9 7PA,S,N,F,13,,Skimpans Close,Welham Green,Hatfield
+2021-09-27,780000,AL9 7UT,S,N,F,75,,Peplins Way,Brookmans Park,Hatfield
+2021-09-27,700000,AL9 5RL,F,N,L,Holwell Court,Flat 1,Holwell,,Hatfield
+2021-09-24,801000,AL9 6HW,S,N,F,46,,High Road,Essendon,Hatfield
+2021-09-21,665000,AL9 7UJ,S,N,F,4,,Oaklands Avenue,Brookmans Park,Hatfield
+2021-09-17,2540000,AL9 7QG,D,N,F,77,,Brookmans Avenue,Brookmans Park,Hatfield
+2021-09-17,1935000,AL9 7QG,D,N,F,65,,Brookmans Avenue,Brookmans Park,Hatfield
+2021-09-17,885000,AL9 5EB,D,N,F,9,,Stag Green Avenue,,Hatfield
+2021-09-07,1399950,AL9 7AQ,D,N,F,10,,Calder Avenue,Brookmans Park,Hatfield
+2021-09-06,365000,AL9 7LP,T,N,F,50,,Puttocks Drive,Welham Green,Hatfield
+2021-09-02,470000,AL9 5JG,S,N,F,34,,Batterdale,,Hatfield
+2021-09-01,590000,AL9 7PA,T,N,F,7,,Skimpans Close,Welham Green,Hatfield
+2021-09-01,410000,AL9 7ED,T,N,F,10,,Greville Close,Welham Green,Hatfield
+2021-09-01,265000,AL9 7DG,F,N,L,9,,Grove Place,Welham Green,Hatfield
+2021-08-26,999950,AL9 7UG,D,N,F,13,,Westland Drive,Brookmans Park,Hatfield
+2021-08-26,1800000,AL9 7BT,D,N,F,42,,Georges Wood Road,Brookmans Park,Hatfield
+2021-08-23,962000,AL9 7UL,S,N,F,5,,The Gardens,Brookmans Park,Hatfield
+2021-08-23,1350000,AL9 7QX,D,N,F,60,,Bradmore Way,Brookmans Park,Hatfield
+2021-08-20,585000,AL9 7ST,T,N,F,10,,Green Close,Brookmans Park,Hatfield
+2021-08-20,299950,AL9 7NJ,T,N,F,142,,Vincenzo Close,Welham Green,Hatfield
+2021-08-20,850000,AL9 6HW,S,N,F,10,,High Road,Essendon,Hatfield
+2021-08-11,665000,AL9 5DW,D,N,F,2,,Highlands,,Hatfield
+2021-08-06,1590000,AL9 7QJ,D,N,F,10,,Brookmans Avenue,Brookmans Park,Hatfield
+2021-08-06,482500,AL9 5AY,S,N,F,2,,Park Close,,Hatfield
+2021-07-30,395000,AL9 5DE,T,N,F,6,,Bull Stag Green,,Hatfield
+2021-07-29,995128,AL9 7UL,S,N,F,2,,The Gardens,Brookmans Park,Hatfield
+2021-07-28,162498,AL9 5DB,F,N,L,"Highclere House, 98",Flat 11,Great North Road,,Hatfield
+2021-07-26,435000,AL9 5DE,T,N,F,2,,Bull Stag Green,,Hatfield
+2021-07-23,228000,AL9 5ES,F,N,L,8,,Northcotts,,Hatfield
+2021-07-23,800532,AL9 5EA,D,N,F,2,,Stag Green Avenue,,Hatfield
+2021-07-14,335000,AL9 7QT,F,N,L,88,,Bradmore Green,Brookmans Park,Hatfield
+2021-07-14,881995,AL9 7AL,D,N,F,21,,Shrublands,Brookmans Park,Hatfield
+2021-06-30,630000,AL9 7UJ,S,N,F,52,,Oaklands Avenue,Brookmans Park,Hatfield
+2021-06-30,390000,AL9 7TT,T,N,F,9,,Warrengate Road,North Mymms,Hatfield
+2021-06-30,850000,AL9 7TG,D,N,F,7,,Swanland Road,North Mymms,Hatfield
+2021-06-30,740000,AL9 7SL,T,N,F,6,,Potterells,North Mymms,Hatfield
+2021-06-30,395000,AL9 7DH,T,N,F,2,,Corner View,Welham Green,Hatfield
+2021-06-30,365000,AL9 7AY,F,N,L,Swan Lodge,Flat 5,Bell Lane,Brookmans Park,Hatfield
+2021-06-30,340000,AL9 7AY,F,N,L,Swan Lodge,Flat 8,Bell Lane,Brookmans Park,Hatfield
+2021-06-30,635000,AL9 6HJ,S,N,F,12,,East View,Essendon,Hatfield
+2021-06-30,589000,AL9 5SD,D,N,F,Sunnymeade,,Great North Road,North Mymms,Hatfield
+2021-06-30,295000,AL9 5BW,F,N,L,Red Lion Court,8,Great North Road,,Hatfield
+2021-06-29,835000,AL9 7UL,S,N,F,33,,The Gardens,Brookmans Park,Hatfield
+2021-06-29,825000,AL9 7TU,D,N,F,71,,Warrengate Road,North Mymms,Hatfield
+2021-06-29,1100000,AL9 7RT,D,N,F,59,,Moffats Lane,Brookmans Park,Hatfield
+2021-06-29,440000,AL9 7NZ,S,N,F,17,,Meadow Close,Welham Green,Hatfield
+2021-06-29,380000,AL9 7NW,T,N,F,9,,Booths Close,Welham Green,Hatfield
+2021-06-29,440000,AL9 7LU,S,N,F,6,,Parsonage Lane,Welham Green,Hatfield
+2021-06-29,340000,AL9 7AY,F,N,L,Swan Lodge,Flat 7,Bell Lane,Brookmans Park,Hatfield
+2021-06-29,610000,AL9 5ET,D,N,F,21,,Sovereign Place,,Hatfield
+2021-06-29,502000,AL9 5DQ,T,N,L,43,,The Ryde,,Hatfield
+2021-06-29,310000,AL9 5AT,F,N,L,"Walby House, 23",Flat 2,Park Street,,Hatfield
+2021-06-28,905000,AL9 7UU,S,N,F,56,,Peplins Way,Brookmans Park,Hatfield
+2021-06-28,1200000,AL9 7RW,D,N,F,124,,Moffats Lane,Brookmans Park,Hatfield
+2021-06-28,1450000,AL9 7QH,D,N,F,45,,Brookmans Avenue,Brookmans Park,Hatfield
+2021-06-28,470500,AL9 7NZ,T,N,F,11,,Meadow Close,Welham Green,Hatfield
+2021-06-28,1530000,AL9 7BS,D,N,F,10,,Pine Grove,Brookmans Park,Hatfield
+2021-06-28,575000,AL9 5DL,D,N,F,72,,The Ryde,,Hatfield
+2021-06-25,900000,AL9 7UX,S,N,F,6,,Peplins Close,Brookmans Park,Hatfield
+2021-06-25,1500000,AL9 7QX,D,N,F,14,,Bradmore Way,Brookmans Park,Hatfield
+2021-06-25,427500,AL9 7PR,T,N,F,7,,Somers Road,Welham Green,Hatfield
+2021-06-25,615000,AL9 5EB,S,N,F,27,,Stag Green Avenue,,Hatfield
+2021-06-25,725000,AL9 5DJ,D,N,L,3,,Fawn Court,,Hatfield
+2021-06-25,469995,AL9 5DB,F,N,L,"Highclere House, 98",Flat 18,Great North Road,,Hatfield
+2021-06-24,445000,AL9 7DZ,T,N,F,9,,Knolles Crescent,Welham Green,Hatfield
+2021-06-24,557500,AL9 7DS,D,N,F,25,,Alderman Close,Welham Green,Hatfield
+2021-06-24,365000,AL9 7AY,F,N,L,Swan Lodge,Flat 6,Bell Lane,Brookmans Park,Hatfield
+2021-06-24,767500,AL9 5DJ,D,N,L,4,,Fawn Court,,Hatfield
+2021-06-23,212500,AL9 7DG,F,N,L,1,,Grove Place,Welham Green,Hatfield
+2021-06-22,865000,AL9 7RT,D,N,F,55A,,Moffats Lane,Brookmans Park,Hatfield
+2021-06-22,690000,AL9 7PN,S,N,F,1,,Station Road,Welham Green,Hatfield
+2021-06-21,680000,AL9 7UH,S,N,F,55,,Oaklands Avenue,Brookmans Park,Hatfield
+2021-06-18,357500,AL9 5PB,T,N,F,Mill Cottages,5,Mill Green,,Hatfield
+2021-06-18,165000,AL9 5HX,F,N,L,9,,Church Lane,,Hatfield
+2021-06-18,450000,AL9 5BY,T,N,F,18A,,Mount Pleasant Lane,,Hatfield
+2021-06-17,250000,AL9 5HZ,F,N,L,23,,The Broadway,,Hatfield
+2021-06-14,520000,AL9 7NU,S,N,F,71,,Holloways Lane,Welham Green,Hatfield
+2021-06-11,515000,AL9 7UP,F,N,L,9,Apartment 2,Bluebridge Road,Brookmans Park,Hatfield
+2021-06-11,490000,AL9 7NR,S,N,F,13,,Holloways Lane,Welham Green,Hatfield
+2021-06-11,350000,AL9 7FA,S,N,F,6,,Old Farmhouse Mews,Welham Green,Hatfield
+2021-06-09,645000,AL9 7ST,T,N,F,15,,Green Close,Brookmans Park,Hatfield
+2021-06-04,260000,AL9 5JD,F,N,L,"Old Bank House, 31A",Flat 1,Salisbury Square,,Hatfield
+2021-06-01,260000,AL9 5JD,F,N,L,"Old Bank House, 31A",Flat 3,Salisbury Square,,Hatfield
+2021-05-28,915000,AL9 7UN,T,N,F,85,,Bluebridge Road,Brookmans Park,Hatfield
+2021-05-28,960000,AL9 7RU,D,N,F,14,,Moffats Lane,Brookmans Park,Hatfield
+2021-05-28,490000,AL9 7DW,T,N,F,129,,Dixons Hill Road,Welham Green,Hatfield
+2021-05-28,305000,AL9 5EN,F,N,L,71,Flat 14,Great North Road,,Hatfield
+2021-05-28,575000,AL9 5EL,D,N,F,18,,Sovereign Place,,Hatfield
+2021-05-27,525000,AL9 7LF,S,N,F,46,,Pooleys Lane,Welham Green,Hatfield
+2021-05-27,1425000,AL9 7BT,D,N,F,30,,Georges Wood Road,Brookmans Park,Hatfield
+2021-05-27,1030000,AL9 7AQ,D,N,F,12,,Calder Avenue,Brookmans Park,Hatfield
+2021-05-21,1120000,AL9 7RW,D,N,F,98,,Moffats Lane,Brookmans Park,Hatfield
+2021-05-21,203000,AL9 7DY,F,N,L,"Caxton Lodge, 3",Flat 1,Dellsome Lane,Welham Green,Hatfield
+2021-05-21,365000,AL9 7AY,F,N,L,Swan Lodge,Flat 3,Bell Lane,Brookmans Park,Hatfield
+2021-05-20,530000,AL9 7AY,D,N,F,Swan Lodge,Swan Mews,Bell Lane,Brookmans Park,Hatfield
+2021-05-18,250000,AL9 5ET,F,N,L,43,,Sovereign Place,,Hatfield
+2021-05-14,380000,AL9 7NW,T,N,F,5,,Booths Close,Welham Green,Hatfield
+2021-05-13,2310000,AL9 7BU,D,N,F,70,,Georges Wood Road,Brookmans Park,Hatfield
+2021-05-05,580000,AL9 7ST,T,N,F,27,,Green Close,Brookmans Park,Hatfield
+2021-05-05,1395000,AL9 7BP,D,N,F,33A,,Pine Grove,Brookmans Park,Hatfield
+2021-04-30,825000,AL9 6AJ,S,N,F,5,,Essendon Hill,Essendon,Hatfield
+2021-04-30,500000,AL9 6AB,S,N,F,7,,Mill Green Cottages,Essendon,Hatfield
+2021-04-29,650000,AL9 6HH,S,N,F,34,,Glebe Cottages,Essendon,Hatfield
+2021-04-29,425000,AL9 5HA,S,N,F,30,,Park Meadow,,Hatfield
+2021-04-27,180000,AL9 5HY,F,N,L,5,,Jacobs Ladder,,Hatfield
+2021-04-26,685000,AL9 5HW,D,N,F,17,,Greenfield,,Hatfield
+2021-04-26,582500,AL9 5EB,T,N,F,15,,Stag Green Avenue,,Hatfield
+2021-04-23,1457500,AL9 6NF,D,N,F,8,,Great North Road,Brookmans Park,Hatfield
+2021-04-22,385000,AL9 5HA,S,N,L,29,,Park Meadow,,Hatfield
+2021-04-20,450000,AL9 7ES,F,N,L,3,,Brookmans Place,Brookmans Park,Hatfield
+2021-04-19,445000,AL9 7LH,S,N,F,8,,Pooleys Lane,Welham Green,Hatfield
+2021-04-16,545000,AL9 5ET,D,N,F,23,,Sovereign Place,,Hatfield
+2021-04-16,525000,AL9 5AY,T,N,F,25,,Park Close,,Hatfield
+2021-04-16,270000,AL9 5AT,F,N,L,"Walby House, 23",Flat 4,Park Street,,Hatfield
+2021-04-14,1700000,AL9 7QQ,D,N,F,104,,Brookmans Avenue,Brookmans Park,Hatfield
+2021-04-12,700000,AL9 7UT,S,N,F,95,,Peplins Way,Brookmans Park,Hatfield
+2021-04-12,932500,AL9 7RS,D,N,F,6,,Park Close,Brookmans Park,Hatfield
+2021-04-12,615000,AL9 7PP,S,N,F,8,,Welham Close,Welham Green,Hatfield
+2021-04-12,490000,AL9 7PJ,D,N,F,2A,,Station Road,Welham Green,Hatfield
+2021-04-12,410000,AL9 7ED,S,N,F,4,,Greville Close,Welham Green,Hatfield
+2021-04-06,420000,AL9 7NN,S,N,F,5,,Nash Close,Welham Green,Hatfield
+2021-04-06,485000,AL9 6HH,T,N,F,40,,Glebe Cottages,Essendon,Hatfield
+2021-04-01,430000,AL9 5EF,T,N,F,2,,Dunham Mews,,Hatfield
+2021-03-31,480000,AL9 7LU,S,N,F,4,,Parsonage Lane,Welham Green,Hatfield
+2021-03-31,1425000,AL9 6JB,D,N,F,Well Cottage,,Cucumber Lane,Essendon,Hatfield
+2021-03-30,700000,AL9 7TY,D,N,F,74,,Warrengate Road,North Mymms,Hatfield
+2021-03-30,1500000,AL9 6PS,D,N,F,15,,Upland Drive,Brookmans Park,Hatfield
+2021-03-29,770000,AL9 6DS,S,N,F,52,,Wild Hill,,Hatfield
+2021-03-26,307500,AL9 7DN,T,N,F,126,,Dixons Hill Road,Welham Green,Hatfield
+2021-03-26,315000,AL9 5LP,S,N,F,97,,Great North Road,,Hatfield
+2021-03-25,690000,AL9 5HQ,D,N,F,6,,The Holdings,,Hatfield
+2021-03-22,701100,AL9 7UL,S,N,F,17,,The Gardens,Brookmans Park,Hatfield
+2021-03-19,442500,AL9 5EL,T,N,F,44,,Sovereign Place,,Hatfield
+2021-03-19,329995,AL9 5DB,F,Y,L,"Highclere House, 98",Flat 7,Great North Road,,Hatfield
+2021-03-18,365000,AL9 5BY,T,N,F,20A,,Mount Pleasant Lane,,Hatfield
+2021-03-17,1350000,AL9 7BS,S,N,F,36A,,Pine Grove,Brookmans Park,Hatfield
+2021-03-16,442000,AL9 7PT,T,N,F,53,,Somers Road,Welham Green,Hatfield
+2021-03-12,448000,AL9 7DZ,T,N,F,7,,Knolles Crescent,Welham Green,Hatfield
+2021-03-12,630000,AL9 5HF,D,N,L,68,,Old Hertford Road,,Hatfield
+2021-03-11,790000,AL9 5HQ,D,N,L,18,,The Holdings,,Hatfield
+2021-03-10,650000,AL9 5BZ,D,N,F,2,,Mount Pleasant Close,,Hatfield
+2021-03-09,340000,AL9 5DE,T,N,F,102,,Bull Stag Green,,Hatfield
+2021-03-08,460000,AL9 5HB,S,N,F,67,,Park Meadow,,Hatfield
+2021-03-01,890000,AL9 7UT,S,N,F,71,,Peplins Way,Brookmans Park,Hatfield
+2021-03-01,570000,AL9 7PA,T,N,F,9,,Skimpans Close,Welham Green,Hatfield
+2021-02-26,1800000,AL9 7AF,D,N,F,26,,Mymms Drive,Brookmans Park,Hatfield
+2021-02-25,582000,AL9 7UQ,S,N,F,18,,Westland Drive,Brookmans Park,Hatfield
+2021-02-25,700000,AL9 7UG,S,N,F,49,,Westland Drive,Brookmans Park,Hatfield
+2021-02-25,655000,AL9 7ST,T,N,F,3,,Green Close,Brookmans Park,Hatfield
+2021-02-24,410000,AL9 7EA,T,N,F,38,,Knolles Crescent,Welham Green,Hatfield
+2021-02-22,410000,AL9 7EW,S,N,F,2,,Charkham Mews,Welham Green,Hatfield
+2021-02-22,500000,AL9 6HG,T,N,F,25,,Rectory Close,Essendon,Hatfield
+2021-02-19,930000,AL9 7AN,D,N,F,8,,Woodlands,Brookmans Park,Hatfield
+2021-02-19,545000,AL9 6HS,S,N,F,53,,High Road,Essendon,Hatfield
+2021-02-18,237000,AL9 5EG,F,N,L,York House,25,North Drive,,Hatfield
+2021-02-15,980000,AL9 7AQ,D,N,F,18,,Calder Avenue,Brookmans Park,Hatfield
+2021-02-04,1315000,AL9 7RX,D,N,F,17,,Moffats Lane,Brookmans Park,Hatfield
+2021-02-04,1495000,AL9 7RU,D,N,F,30,,Moffats Lane,Brookmans Park,Hatfield
+2021-02-01,1200000,AL9 7QJ,D,N,F,32A,,Brookmans Avenue,Brookmans Park,Hatfield
+2021-01-29,900000,AL9 7RL,D,N,F,43,,The Grove,Brookmans Park,Hatfield
+2021-01-29,1000000,AL9 7BW,D,N,F,50,,Pine Grove,Brookmans Park,Hatfield
+2021-01-29,474995,AL9 5DB,F,Y,L,"Highclere House, 98",Flat 21,Great North Road,,Hatfield
+2021-01-26,790000,AL9 7UR,S,N,F,31,,Peplins Way,Brookmans Park,Hatfield
+2021-01-22,850000,AL9 6PS,D,N,F,3,,Upland Drive,Brookmans Park,Hatfield
+2021-01-22,474995,AL9 5DB,F,Y,L,"Highclere House, 98",Flat 13,Great North Road,,Hatfield
+2021-01-20,500000,AL9 7NA,S,N,F,3,,Parsonage Road,Welham Green,Hatfield
+2021-01-15,1050000,AL9 7AQ,D,N,F,6,,Calder Avenue,Brookmans Park,Hatfield
+2021-01-15,425000,AL9 5HB,F,N,L,53,,Park Meadow,,Hatfield
+2021-01-13,460000,AL9 7TY,S,N,F,60,,Warrengate Road,North Mymms,Hatfield
+2021-01-12,875000,AL9 6GH,D,N,F,The Courtyard,19,Bedwell Park,Essendon,Hatfield
+2021-01-08,890000,AL9 7RS,D,N,F,5,,Park Close,Brookmans Park,Hatfield

@@ -1,0 +1,405 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-21,115000,LL34 6NG,T,N,F,46,,High Street,,Penmaenmawr
+2026-08-12,205000,LL34 6DH,S,N,F,25,,Merton Park,,Penmaenmawr
+2026-08-12,115000,LL34 6AS,D,N,L,West Wing,,Paradise Road,,Penmaenmawr
+2026-08-10,135000,LL34 6HA,T,N,F,15,,Bell Cottages,,Penmaenmawr
+2026-07-13,230000,LL34 6DH,D,N,F,46,,Merton Park,,Penmaenmawr
+2026-07-10,150000,LL34 6HD,T,N,F,16,,Gwynan Road,,Penmaenmawr
+2026-07-03,130000,LL34 6LG,T,N,F,11,,David Street,,Penmaenmawr
+2026-06-23,185000,LL34 6DH,S,N,F,21,,Merton Park,,Penmaenmawr
+2026-06-19,240000,LL34 6ND,T,N,F,Bryn Derwen,,Bangor Road,,Penmaenmawr
+2026-06-17,145000,LL34 6LG,T,N,F,7,,David Street,,Penmaenmawr
+2026-06-15,174000,LL34 6SP,T,N,F,Pennant,,Conwy Old Road,Capelulo,Penmaenmawr
+2026-06-05,165000,LL34 6NG,S,N,F,47,,High Street,,Penmaenmawr
+2026-05-27,512000,LL34 6YJ,D,N,F,1,,Bryn Coed,,Penmaenmawr
+2026-05-27,186000,LL34 6BH,F,N,L,Cambrian Court,Apartment 6,Conway Road,,Penmaenmawr
+2026-05-07,415000,LL34 6BH,T,N,F,Grosvenor House,,Conway Road,,Penmaenmawr
+2026-04-22,195000,LL34 6PY,D,N,F,13,,Gogarth Avenue,Dwygyfylchi,Penmaenmawr
+2026-04-09,214000,LL34 6PE,S,N,F,Maes Hyfryd,,Rock Villa Road,,Penmaenmawr
+2026-03-19,164950,LL34 6DE,T,N,F,2,,Brookside Close,,Penmaenmawr
+2026-03-17,73000,LL34 6NN,T,N,F,5,,Victoria Terrace,,Penmaenmawr
+2026-02-27,190000,LL34 6BY,D,N,F,Ard Mhacha,,Pant Yr Afon,,Penmaenmawr
+2026-02-27,220000,LL34 6BP,S,N,F,Silvadale,,Cemlyn Park,,Penmaenmawr
+2026-02-19,270000,LL34 6AN,T,N,F,Myrtle Bank,,Brynmor Terrace,,Penmaenmawr
+2026-02-17,175500,LL34 6BH,F,N,L,Bryn Menai,2,Conway Road,,Penmaenmawr
+2026-02-06,110000,LL34 6PL,S,N,F,7,,Chapel Street,,Penmaenmawr
+2026-01-16,305000,LL34 6YW,D,N,F,Hydd Gwyn,,Voel Road,,Penmaenmawr
+2025-12-22,187500,LL34 6DF,F,N,L,Merton House,1,Fernbrook Road,,Penmaenmawr
+2025-12-19,127000,LL34 6LH,T,N,F,4,,Erasmus Street,,Penmaenmawr
+2025-12-12,430000,LL34 6BF,D,N,F,24,,Y Bluen Goch,Dwygyfylchi,Penmaenmawr
+2025-12-01,255000,LL34 6RN,S,N,F,73,,Groesffordd,Dwygyfylchi,Penmaenmawr
+2025-11-13,170000,LL34 6UA,S,N,F,25,,Maes Alltwen,Dwygyfylchi,Penmaenmawr
+2025-11-10,200000,LL34 6RW,S,N,F,64,,Gwynan Park,Dwygyfylchi,Penmaenmawr
+2025-11-07,475000,LL34 6DN,D,N,F,20,,Parc Moel Lus,,Penmaenmawr
+2025-11-06,143800,LL34 6LH,T,N,F,11,,Erasmus Street,,Penmaenmawr
+2025-10-30,675000,LL34 6RD,D,N,F,Plas Gwyn,,Conwy Old Road,Dwygyfylchi,Penmaenmawr
+2025-10-30,140000,LL34 6NF,T,N,F,35,,High Street,,Penmaenmawr
+2025-10-17,390000,LL34 6YP,S,N,F,Brooklyn,,Mountain Lane,,Penmaenmawr
+2025-10-16,250000,LL34 6TR,S,N,F,13,,Cae Gwynan,Dwygyfylchi,Penmaenmawr
+2025-10-08,180000,LL34 6BE,T,N,F,2,,Station Road East,,Penmaenmawr
+2025-10-03,285000,LL34 6LY,T,N,F,Gwylfa,,Esplanade,,Penmaenmawr
+2025-10-03,125000,LL34 6HR,F,N,L,65,,Y Berllan,,Penmaenmawr
+2025-09-26,240000,LL34 6SY,S,N,F,1,,Brookside,Capelulo,Penmaenmawr
+2025-09-24,250000,LL34 6BP,S,N,F,Awelfa,,Cemlyn Park,,Penmaenmawr
+2025-09-22,90000,LL34 6LT,F,N,L,Llys Llewelyn,,Esplanade,,Penmaenmawr
+2025-09-16,205000,LL34 6PY,S,N,F,10,,Gogarth Avenue,Dwygyfylchi,Penmaenmawr
+2025-09-08,253000,LL34 6PY,S,N,F,31,,Gogarth Avenue,Dwygyfylchi,Penmaenmawr
+2025-09-05,182000,LL34 6HW,S,N,F,6,,Gilfach Road,,Penmaenmawr
+2025-09-01,71500,LL34 6NG,T,N,F,50,,High Street,,Penmaenmawr
+2025-08-29,200000,LL34 6RP,S,N,F,82,,Gwynan Park,Dwygyfylchi,Penmaenmawr
+2025-08-29,415000,LL34 6BF,D,N,F,21,,Y Bluen Goch,Dwygyfylchi,Penmaenmawr
+2025-08-27,276000,LL34 6BF,T,N,F,20,,Y Bluen Goch,Dwygyfylchi,Penmaenmawr
+2025-08-26,109000,LL34 6EY,T,N,F,59,,Gilfach Road,,Penmaenmawr
+2025-08-26,200000,LL34 6EW,D,N,F,8,,Bryn Helyg Estate,,Penmaenmawr
+2025-08-26,315000,LL34 6BF,T,Y,F,18,,Y Bluen Goch,Dwygyfylchi,Penmaenmawr
+2025-08-14,150000,LL34 6SB,F,N,L,17,,Gwel Y Mor,Dwygyfylchi,Penmaenmawr
+2025-08-13,130000,LL34 6LH,T,N,F,30,,Erasmus Street,,Penmaenmawr
+2025-08-12,380000,LL34 6DN,D,N,F,4,,Parc Moel Lus,,Penmaenmawr
+2025-08-08,415000,LL34 6YE,D,N,F,Glan Menai,,Conway Old Road,,Penmaenmawr
+2025-08-07,345000,LL34 6BF,T,N,F,19,,Y Bluen Goch,Dwygyfylchi,Penmaenmawr
+2025-08-04,140000,LL34 6LG,T,N,F,21,,David Street,,Penmaenmawr
+2025-07-31,395000,LL34 6UE,D,N,F,Glanycoed Lodge,,Glanyrafon Road,Dwygyfylchi,Penmaenmawr
+2025-07-21,260000,LL34 6NQ,T,N,F,3,,St Johns Park,,Penmaenmawr
+2025-07-16,224000,LL34 6ND,T,N,F,Trem Y Don,,Bangor Road,,Penmaenmawr
+2025-07-14,265000,LL34 6LY,S,N,F,Haflys,,Esplanade,,Penmaenmawr
+2025-07-14,138500,LL34 6LH,T,N,F,24,,Erasmus Street,,Penmaenmawr
+2025-06-30,238000,LL34 6SB,T,N,F,15,,Gwel Y Mor,Dwygyfylchi,Penmaenmawr
+2025-06-23,350000,LL34 6TG,D,N,F,Southwold,,Old Mill Road,Dwygyfylchi,Penmaenmawr
+2025-06-23,390000,LL34 6PU,S,N,F,Hafod,,Mona Drive,Dwygyfylchi,Penmaenmawr
+2025-06-17,152000,LL34 6PB,T,N,F,20,,Water Street,,Penmaenmawr
+2025-06-13,262500,LL34 6SD,T,N,F,2,,Gwel Y Aber,Dwygyfylchi,Penmaenmawr
+2025-06-13,168000,LL34 6LW,T,N,F,11,,Edward Street,,Penmaenmawr
+2025-06-12,170000,LL34 6AD,T,N,F,Gordon House,,Pant Yr Afon,,Penmaenmawr
+2025-06-06,230000,LL34 6TR,D,N,F,28,,Cae Gwynan,Dwygyfylchi,Penmaenmawr
+2025-06-06,128500,LL34 6LH,T,N,F,18,,Erasmus Street,,Penmaenmawr
+2025-06-06,159950,LL34 6HW,T,N,F,3,,Gilfach Road,,Penmaenmawr
+2025-06-02,110000,LL34 6PB,T,N,F,29,,Water Street,,Penmaenmawr
+2025-05-22,135000,LL34 6EN,S,N,F,Hill Cottage,1,Fernbrook Road,,Penmaenmawr
+2025-05-13,145000,LL34 6LH,T,N,F,25,,Erasmus Street,,Penmaenmawr
+2025-05-09,350000,LL34 6RA,D,N,F,Gan Edrych,,Treforris Road,Dwygyfylchi,Penmaenmawr
+2025-05-09,122000,LL34 6HB,T,N,F,18,,Seiriol Road,,Penmaenmawr
+2025-05-08,350000,LL34 6TE,S,N,F,Wayside,,Old Mill Road,Dwygyfylchi,Penmaenmawr
+2025-05-02,135000,LL34 6HD,T,N,F,26,,Gwynan Road,,Penmaenmawr
+2025-04-22,170000,LL34 6RR,S,N,F,60,,Gwynan Park,Dwygyfylchi,Penmaenmawr
+2025-04-11,250000,LL34 6RR,D,N,F,31,,Gwynan Park,Dwygyfylchi,Penmaenmawr
+2025-04-07,135000,LL34 6LH,T,N,F,2,,Erasmus Street,,Penmaenmawr
+2025-03-25,132000,LL34 6LW,T,N,F,12,,Edward Street,,Penmaenmawr
+2025-03-25,145000,LL34 6LH,T,N,F,28,,Erasmus Street,,Penmaenmawr
+2025-03-25,170000,LL34 6HW,T,N,F,2,,Gilfach Road,,Penmaenmawr
+2025-03-21,108000,LL34 6PA,S,N,F,9,,Chapel Street,,Penmaenmawr
+2025-03-18,185000,LL34 6PY,S,N,F,6,,Gogarth Avenue,Dwygyfylchi,Penmaenmawr
+2025-03-07,108000,LL34 6NF,T,N,F,25,,High Street,,Penmaenmawr
+2025-03-03,220000,LL34 6NG,T,N,F,59,,High Street,,Penmaenmawr
+2025-02-28,250000,LL34 6PY,S,N,F,22,,Gogarth Avenue,Dwygyfylchi,Penmaenmawr
+2025-02-28,192500,LL34 6DL,D,N,F,Bolero,,Merton Park,,Penmaenmawr
+2025-02-24,170000,LL34 6SL,T,N,F,2,,Tanrallt Cottages,Dwygyfylchi,Penmaenmawr
+2025-02-21,260000,LL34 6RB,S,N,F,Tanybwlch,,Conwy Old Road,Dwygyfylchi,Penmaenmawr
+2025-02-10,139950,LL34 6NH,T,N,F,3,,Maenan Terrace,,Penmaenmawr
+2025-01-31,392000,LL34 6TN,D,N,F,Bryn Derwen,,Old Mill Road,Dwygyfylchi,Penmaenmawr
+2025-01-31,145000,LL34 6JA,T,N,F,4,,Red Gables,,Penmaenmawr
+2025-01-23,495000,LL34 6YH,S,N,F,Preswylfa,,Alexandra Park,,Penmaenmawr
+2025-01-23,215000,LL34 6UA,S,N,F,37,,Maes Alltwen,Dwygyfylchi,Penmaenmawr
+2025-01-23,190000,LL34 6RN,T,N,F,59,,Groesffordd,Dwygyfylchi,Penmaenmawr
+2025-01-06,285000,LL34 6YB,S,N,F,Bryn Awelon,,Conway Old Road,,Penmaenmawr
+2025-01-06,270000,LL34 6TR,S,N,F,10,,Cae Gwynan,Dwygyfylchi,Penmaenmawr
+2025-01-03,260000,LL34 6EP,S,N,F,The Old Laundry,6,Graiglwyd Road,,Penmaenmawr
+2024-12-19,200000,LL34 6LP,T,N,F,Stoneleigh,,Celyn Street,,Penmaenmawr
+2024-12-18,165000,LL34 6RG,D,N,F,Gell Helyg,,Treforris Road,Dwygyfylchi,Penmaenmawr
+2024-12-16,235000,LL34 6TF,T,N,F,2,,Glyn Terrace,Dwygyfylchi,Penmaenmawr
+2024-12-13,295000,LL34 6DE,D,N,F,Crib Wyntog,,Fernbrook Road,,Penmaenmawr
+2024-12-11,370000,LL34 6TG,D,N,F,Swnynant,,Old Mill Road,Dwygyfylchi,Penmaenmawr
+2024-12-03,182500,LL34 6BG,T,N,F,Bryn Marian,,Marine Terrace,,Penmaenmawr
+2024-11-29,250000,LL34 6TE,T,N,F,Bron Derw,4,Old Mill Road,Dwygyfylchi,Penmaenmawr
+2024-11-29,295000,LL34 6NP,T,Y,F,Cwrt Hewan,5,Bangor Road,,Penmaenmawr
+2024-11-26,145000,LL34 6HA,T,N,F,25,,Bell Cottages,,Penmaenmawr
+2024-11-22,160000,LL34 6LW,T,N,F,8,,Edward Street,,Penmaenmawr
+2024-11-21,235000,LL34 6AG,D,N,F,Ty Llawen,,Station Road West,,Penmaenmawr
+2024-11-20,160000,LL34 6SB,F,N,L,36,,Gwel Y Mor,Dwygyfylchi,Penmaenmawr
+2024-11-08,181500,LL34 6TR,S,N,F,32,,Cae Gwynan,Dwygyfylchi,Penmaenmawr
+2024-11-08,180000,LL34 6HU,S,N,F,5,,Norton Villas,,Penmaenmawr
+2024-11-07,158000,LL34 6LG,T,N,F,16,,David Street,,Penmaenmawr
+2024-11-06,72000,LL34 6DF,F,N,L,Merton House,2,Fernbrook Road,,Penmaenmawr
+2024-11-01,160000,LL34 6SL,T,N,F,1,,Tanrallt Cottages,Dwygyfylchi,Penmaenmawr
+2024-11-01,386250,LL34 6DN,D,N,F,21,,Parc Moel Lus,,Penmaenmawr
+2024-10-30,580500,LL34 6YH,D,N,F,Tegfan,,Alexandra Park,,Penmaenmawr
+2024-10-25,410000,LL34 6SF,D,N,F,Cri'R Wylan,,Conwy Old Road,Dwygyfylchi,Penmaenmawr
+2024-10-25,445000,LL34 6RD,D,N,F,Garn,,Conwy Old Road,Dwygyfylchi,Penmaenmawr
+2024-10-14,225000,LL34 6HU,S,N,F,2,,Norton Villas,,Penmaenmawr
+2024-09-27,410000,LL34 6YP,D,N,F,Plas Heulog,,Mountain Lane,,Penmaenmawr
+2024-09-18,230000,LL34 6RP,S,N,F,74,,Gwynan Park,Dwygyfylchi,Penmaenmawr
+2024-09-18,345000,LL34 6DN,S,N,F,19,,Parc Moel Lus,,Penmaenmawr
+2024-09-12,345000,LL34 6ER,D,N,F,55,,Graiglwyd Road,,Penmaenmawr
+2024-09-06,182000,LL34 6UA,T,N,F,38,,Maes Alltwen,Dwygyfylchi,Penmaenmawr
+2024-09-06,150000,LL34 6LH,T,N,F,31,,Erasmus Street,,Penmaenmawr
+2024-09-06,220000,LL34 6AY,D,N,F,Penlan,,Beach Road,,Penmaenmawr
+2024-08-28,185000,LL34 6TY,T,N,F,9,,Maes Alltwen,Dwygyfylchi,Penmaenmawr
+2024-08-23,368000,LL34 6SB,D,N,F,31,,Gwel Y Mor,Dwygyfylchi,Penmaenmawr
+2024-08-23,265000,LL34 6AS,D,N,F,Garreg Lwyd,,Paradise Road,,Penmaenmawr
+2024-08-22,220000,LL34 6RP,S,N,F,3,,Gwynan Park,Dwygyfylchi,Penmaenmawr
+2024-08-07,350000,LL34 6HP,D,N,F,Elm Villa,,Cwm Road,,Penmaenmawr
+2024-08-05,217500,LL34 6RR,S,N,F,15,,Gwynan Park,Dwygyfylchi,Penmaenmawr
+2024-08-01,90000,LL34 6PB,T,N,F,21,,Water Street,,Penmaenmawr
+2024-08-01,170000,LL34 6DD,D,N,F,Old Coach House,,Fernbrook Road,,Penmaenmawr
+2024-07-31,146000,LL34 6HF,T,N,F,32,,Y Berllan,,Penmaenmawr
+2024-07-29,210000,LL34 6DL,D,N,F,Rhianfa,,Merton Park,,Penmaenmawr
+2024-07-22,190000,LL34 6DH,S,N,F,25,,Merton Park,,Penmaenmawr
+2024-07-12,84950,LL34 6LT,F,N,L,Llys Llewelyn,,Esplanade,,Penmaenmawr
+2024-07-09,585000,LL34 6YH,D,N,F,Bryn Mair,,Alexandra Park,,Penmaenmawr
+2024-07-08,180000,LL34 6RY,S,N,F,40,,Maes Y Llan,Dwygyfylchi,Penmaenmawr
+2024-07-05,230000,LL34 6RR,D,N,F,30,,Gwynan Park,Dwygyfylchi,Penmaenmawr
+2024-06-26,135000,LL34 6HG,T,N,F,4,,Cwm Road,,Penmaenmawr
+2024-06-21,230000,LL34 6DH,S,N,F,49,,Merton Park,,Penmaenmawr
+2024-06-21,220000,LL34 6AU,T,N,F,7,,Marine Crescent,,Penmaenmawr
+2024-06-20,129000,LL34 6LH,T,N,F,16,,Erasmus Street,,Penmaenmawr
+2024-06-20,220000,LL34 6AU,S,N,F,Garth,,Marine Crescent,,Penmaenmawr
+2024-06-07,159000,LL34 6ND,F,N,L,Awel Ynys,Apartment 2,Bangor Road,,Penmaenmawr
+2024-06-03,168000,LL34 6PB,T,N,F,3,,Water Street,,Penmaenmawr
+2024-05-17,140000,LL34 6NG,T,N,F,55,,High Street,,Penmaenmawr
+2024-04-30,217500,LL34 6PY,S,N,F,5,,Gogarth Avenue,Dwygyfylchi,Penmaenmawr
+2024-04-08,150000,LL34 6ES,T,N,F,2,,Graiglwyd Terrace,,Penmaenmawr
+2024-04-05,140000,LL34 6LH,T,N,F,21,,Erasmus Street,,Penmaenmawr
+2024-04-03,150000,LL34 6DE,T,N,F,3,,Brookside Close,,Penmaenmawr
+2024-03-28,85000,LL34 6NG,T,N,F,38,,High Street,,Penmaenmawr
+2024-03-28,100000,LL34 6NF,T,N,F,11,,High Street,,Penmaenmawr
+2024-03-22,210000,LL34 6EP,S,N,F,The Old Laundry,1,Graiglwyd Road,,Penmaenmawr
+2024-03-01,150000,LL34 6UY,S,N,F,Bryn Hyfryd,1,Conwy Old Road,,Penmaenmawr
+2024-03-01,218000,LL34 6RP,S,N,F,2,,Gwynan Park,Dwygyfylchi,Penmaenmawr
+2024-03-01,243000,LL34 6NE,T,N,F,Cyrau View,,St Johns Park,,Penmaenmawr
+2024-02-28,144000,LL34 6AU,T,N,F,4,,Marine Crescent,,Penmaenmawr
+2024-02-12,237500,LL34 6PW,D,N,F,16,,Gardd Eryri,Dwygyfylchi,Penmaenmawr
+2024-02-07,250000,LL34 6BU,S,N,F,1,,Cemlyn Close,,Penmaenmawr
+2024-02-07,246000,LL34 6AN,T,N,F,Craigfa,,Brynmor Terrace,,Penmaenmawr
+2024-01-19,130000,LL34 6RR,S,N,F,19,,Gwynan Park,Dwygyfylchi,Penmaenmawr
+2023-12-18,237500,LL34 6EW,D,N,F,1,,Bryn Helyg Estate,,Penmaenmawr
+2023-12-06,262000,LL34 6RF,S,N,F,Barfeston,,Cae Cyd Road,Dwygyfylchi,Penmaenmawr
+2023-12-01,172000,LL34 6HG,T,N,F,6,,Cwm Road,,Penmaenmawr
+2023-11-24,112000,LL34 6PD,T,N,F,18,,Upper Maenan,,Penmaenmawr
+2023-11-24,84500,LL34 6AF,F,N,L,Stafford House,Flat 2,Bangor Road,,Penmaenmawr
+2023-11-03,199950,LL34 6ND,S,N,F,Corwen Villa,,Bangor Road,,Penmaenmawr
+2023-10-26,368000,LL34 6EN,D,N,F,Fron Villa,,Fernbrook Road,,Penmaenmawr
+2023-10-26,475000,LL34 6BN,D,N,F,The Old Hall,,Church Road,,Penmaenmawr
+2023-09-29,500000,LL34 6LT,D,N,F,Maengwyn,,Esplanade,,Penmaenmawr
+2023-09-08,262000,LL34 6NY,S,N,F,Madina Villa,1,Chapel Street,,Penmaenmawr
+2023-09-04,150000,LL34 6HE,T,N,F,11,,Helyg Road,,Penmaenmawr
+2023-09-01,180000,LL34 6ND,F,N,L,Awel Ynys,Apartment 8,Bangor Road,,Penmaenmawr
+2023-09-01,232000,LL34 6LN,T,N,F,4,,St Davids Terrace,,Penmaenmawr
+2023-08-29,160000,LL34 6SA,S,N,F,4,,Maes Y Llan,Dwygyfylchi,Penmaenmawr
+2023-08-22,390000,LL34 6DN,D,N,F,23,,Parc Moel Lus,,Penmaenmawr
+2023-08-11,589000,LL34 6ER,D,N,F,Glan Y Wern,,Graiglwyd Road,,Penmaenmawr
+2023-07-28,245000,LL34 6RY,S,N,F,62,,Maes Y Llan,Dwygyfylchi,Penmaenmawr
+2023-07-14,141935,LL34 6NN,T,N,F,3,,Victoria Terrace,,Penmaenmawr
+2023-07-10,160000,LL34 6HB,T,N,F,30,,Seiriol Road,,Penmaenmawr
+2023-06-16,112500,LL34 6PD,T,N,F,19,,Upper Maenan,,Penmaenmawr
+2023-06-09,290000,LL34 6DN,D,N,F,12,,Parc Moel Lus,,Penmaenmawr
+2023-06-08,112000,LL34 6LY,F,N,L,Nythfa,,Esplanade,,Penmaenmawr
+2023-06-06,255000,LL34 6RR,D,N,F,31,,Gwynan Park,Dwygyfylchi,Penmaenmawr
+2023-06-06,147500,LL34 6LH,T,N,F,29,,Erasmus Street,,Penmaenmawr
+2023-06-02,110000,LL34 6PB,T,N,F,23,,Water Street,,Penmaenmawr
+2023-05-30,140000,LL34 6DH,T,N,F,15,,Merton Park,,Penmaenmawr
+2023-05-04,120000,LL34 6ES,T,N,F,4,,Graiglwyd Terrace,,Penmaenmawr
+2023-04-18,142500,LL34 6DG,S,N,F,6,,Merton Bungalows,,Penmaenmawr
+2023-04-14,205000,LL34 6TR,S,N,F,13,,Cae Gwynan,Dwygyfylchi,Penmaenmawr
+2023-04-14,265000,LL34 6PW,D,N,F,22,,Gardd Eryri,Dwygyfylchi,Penmaenmawr
+2023-03-30,160000,LL34 6SB,F,N,L,36,,Gwel Y Mor,Dwygyfylchi,Penmaenmawr
+2023-03-28,370000,LL34 6SW,D,N,F,Tai Bach,,Conwy Old Road,Dwygyfylchi,Penmaenmawr
+2023-03-24,150000,LL34 6PD,T,N,F,10,,Upper Maenan,,Penmaenmawr
+2023-03-24,138000,LL34 6PA,S,N,F,Derwen-Las,,Chapel Street,,Penmaenmawr
+2023-03-10,163000,LL34 6LG,T,N,F,20,,David Street,,Penmaenmawr
+2023-02-28,129950,LL34 6NF,T,N,F,23,,High Street,,Penmaenmawr
+2023-02-24,245000,LL34 6DH,D,N,F,52,,Merton Park,,Penmaenmawr
+2023-02-10,135000,LL34 6SP,D,N,F,Glyn Percin Cottage,,Conwy Old Road,Capelulo,Penmaenmawr
+2023-02-06,230000,LL34 6TR,D,N,F,22,,Cae Gwynan,Dwygyfylchi,Penmaenmawr
+2023-01-27,215000,LL34 6SA,S,N,F,20,,Maes Y Llan,Dwygyfylchi,Penmaenmawr
+2023-01-27,155000,LL34 6NG,F,N,L,43,,High Street,,Penmaenmawr
+2023-01-19,170000,LL34 6HA,T,N,F,4,,Bell Cottages,,Penmaenmawr
+2023-01-18,141000,LL34 6PA,S,N,F,20,,Chapel Street,,Penmaenmawr
+2023-01-06,327000,LL34 6NE,D,N,F,Glaslyn,,St Johns Park,,Penmaenmawr
+2023-01-06,78000,LL34 6BD,F,N,L,Norwood,Flat 2,Conway Road,,Penmaenmawr
+2022-12-15,218000,LL34 6TR,S,N,F,16,,Cae Gwynan,Dwygyfylchi,Penmaenmawr
+2022-12-05,160000,LL34 6LH,T,N,F,35,,Erasmus Street,,Penmaenmawr
+2022-12-02,265000,LL34 6UA,S,N,F,22,,Maes Alltwen,Dwygyfylchi,Penmaenmawr
+2022-11-11,465000,LL34 6DE,D,N,F,Glanffrwd,,Fernbrook Road,,Penmaenmawr
+2022-11-07,171000,LL34 6HE,T,N,F,6,,Helyg Road,,Penmaenmawr
+2022-10-28,167500,LL34 6LG,T,N,F,28,,David Street,,Penmaenmawr
+2022-10-27,95000,LL34 6NG,T,N,F,Y Glynnog,,High Street,,Penmaenmawr
+2022-10-24,290000,LL34 6RB,S,N,F,Cynlais,,Conwy Old Road,Dwygyfylchi,Penmaenmawr
+2022-10-14,116500,LL34 6NF,T,N,F,19,,High Street,,Penmaenmawr
+2022-10-11,142000,LL34 6PD,T,N,F,12,,Upper Maenan,,Penmaenmawr
+2022-10-10,182000,LL34 6RR,D,N,F,49,,Gwynan Park,Dwygyfylchi,Penmaenmawr
+2022-10-05,190000,LL34 6TN,T,N,F,2,,Dyffryn Terrace,Dwygyfylchi,Penmaenmawr
+2022-09-30,280000,LL34 6PS,S,N,F,Awel Y Mor,,Ysgubor Wen Road,Dwygyfylchi,Penmaenmawr
+2022-09-30,134000,LL34 6PB,T,N,F,17,,Water Street,,Penmaenmawr
+2022-09-30,395000,LL34 6DN,D,N,F,25,,Parc Moel Lus,,Penmaenmawr
+2022-09-20,425000,LL34 6UG,D,N,F,Mevagissey,,Glan Y Coed Park,Dwygyfylchi,Penmaenmawr
+2022-09-16,220000,LL34 6RR,S,N,F,22,,Gwynan Park,Dwygyfylchi,Penmaenmawr
+2022-09-16,132000,LL34 6LG,T,N,F,29,,David Street,,Penmaenmawr
+2022-09-13,85000,LL34 6LY,F,N,L,Bryn Euryn,Flat 2,Esplanade,,Penmaenmawr
+2022-09-09,250000,LL34 6SN,T,N,F,3,,Cae Glas Crescent,Dwygyfylchi,Penmaenmawr
+2022-09-09,205000,LL34 6RP,S,N,F,4,,Gwynan Park,Dwygyfylchi,Penmaenmawr
+2022-09-07,235000,LL34 6SU,D,N,F,Stoneleigh Cottage,,Brookside,Capelulo,Penmaenmawr
+2022-09-02,215000,LL34 6PY,S,N,F,3,,Gogarth Avenue,Dwygyfylchi,Penmaenmawr
+2022-09-02,170000,LL34 6HR,T,N,F,6,,Y Berllan,,Penmaenmawr
+2022-09-01,180000,LL34 6LL,T,N,F,Egryn,,St Davids Road,,Penmaenmawr
+2022-08-26,230150,LL34 6PA,D,N,F,Canford Cottage,,Chapel Street,,Penmaenmawr
+2022-08-17,299500,LL34 6SR,D,N,F,Ty Newydd,,Fairy Glen Road,Capelulo,Penmaenmawr
+2022-08-11,179000,LL34 6LW,T,N,F,2,,Edward Street,,Penmaenmawr
+2022-08-10,150500,LL34 6LG,T,N,F,7,,David Street,,Penmaenmawr
+2022-07-25,208000,LL34 6RP,S,N,F,6,,Gwynan Park,Dwygyfylchi,Penmaenmawr
+2022-07-22,175000,LL34 6UA,T,N,F,33,,Maes Alltwen,Dwygyfylchi,Penmaenmawr
+2022-07-22,249950,LL34 6DH,D,N,F,41,,Merton Park,,Penmaenmawr
+2022-07-22,465000,LL34 6BN,D,N,F,Vicarage,,Church Road,,Penmaenmawr
+2022-07-20,117500,LL34 6PA,D,N,F,14,,Chapel Street,,Penmaenmawr
+2022-07-15,95000,LL34 6LH,T,N,F,18,,Erasmus Street,,Penmaenmawr
+2022-07-11,161000,LL34 6HW,T,N,F,4,,Gilfach Road,,Penmaenmawr
+2022-06-30,240000,LL34 6SB,T,N,F,24,,Gwel Y Mor,Dwygyfylchi,Penmaenmawr
+2022-06-29,125000,LL34 6NF,T,N,F,35,,High Street,,Penmaenmawr
+2022-06-17,133000,LL34 6HD,T,N,F,32,,Gwynan Road,,Penmaenmawr
+2022-06-16,305000,LL34 6DN,S,N,F,19,,Parc Moel Lus,,Penmaenmawr
+2022-06-15,320000,LL34 6SB,D,N,F,19,,Gwel Y Mor,Dwygyfylchi,Penmaenmawr
+2022-06-10,146500,LL34 6LG,T,N,F,5,,David Street,,Penmaenmawr
+2022-06-01,159500,LL34 6BE,S,N,F,4,,Station Road East,,Penmaenmawr
+2022-05-27,146000,LL34 6LH,T,N,F,1,,Erasmus Street,,Penmaenmawr
+2022-05-27,185000,LL34 6AJ,S,N,F,3,,Llanerch Y Mor,,Penmaenmawr
+2022-05-24,152000,LL34 6TF,T,N,F,6,,Glyn Terrace,Dwygyfylchi,Penmaenmawr
+2022-05-06,258000,LL34 6YE,S,N,F,Erw Villa,3,Conway Old Road,,Penmaenmawr
+2022-04-28,160000,LL34 6PA,S,N,F,Bryn Onen,,Chapel Street,,Penmaenmawr
+2022-04-26,172000,LL34 6BH,F,Y,L,Cambrian Court,Apartment 7,Conway Road,,Penmaenmawr
+2022-04-25,172500,LL34 6BH,F,Y,L,Cambrian Court,Apartment 2,Conway Road,,Penmaenmawr
+2022-04-25,165000,LL34 6BH,F,Y,L,Cambrian Court,Apartment 11,Conway Road,,Penmaenmawr
+2022-04-14,215000,LL34 6TF,T,N,F,7,,Glyn Terrace,Dwygyfylchi,Penmaenmawr
+2022-04-01,160000,LL34 6UA,T,N,F,31,,Maes Alltwen,Dwygyfylchi,Penmaenmawr
+2022-03-28,144000,LL34 6PB,T,N,F,3,,Water Street,,Penmaenmawr
+2022-03-25,145000,LL34 6LH,T,N,F,8,,Erasmus Street,,Penmaenmawr
+2022-03-22,205000,LL34 6TR,S,N,F,16,,Cae Gwynan,Dwygyfylchi,Penmaenmawr
+2022-03-22,380000,LL34 6PU,D,N,F,Kylemore,,Mona Drive,Dwygyfylchi,Penmaenmawr
+2022-03-11,102417,LL34 6SP,S,N,F,Bronrallt,4,Conwy Old Road,Capelulo,Penmaenmawr
+2022-03-11,150000,LL34 6BE,S,N,F,6,,Station Road East,,Penmaenmawr
+2022-03-07,210000,LL34 6RR,S,N,F,17,,Gwynan Park,Dwygyfylchi,Penmaenmawr
+2022-03-04,245000,LL34 6PW,D,N,F,11,,Gardd Eryri,Dwygyfylchi,Penmaenmawr
+2022-03-04,110000,LL34 6NG,T,N,F,Bryn Glas,,High Street,,Penmaenmawr
+2022-02-28,315000,LL34 6TD,D,N,F,Bryn Y Glyn,,Ger Y Glyn Road,Dwygyfylchi,Penmaenmawr
+2022-02-25,225000,LL34 6SB,T,N,F,5,,Gwel Y Mor,Dwygyfylchi,Penmaenmawr
+2022-02-25,170000,LL34 6BH,F,Y,L,Cambrian Court,Apartment 3,Conway Road,,Penmaenmawr
+2022-02-25,172000,LL34 6BH,F,Y,L,Cambrian Court,Apartment 8,Conway Road,,Penmaenmawr
+2022-02-25,140000,LL34 6AS,F,N,L,Morton Court,South Wing,Paradise Road,,Penmaenmawr
+2022-02-18,172000,LL34 6BH,F,Y,L,Cambrian Court,Apartment 6,Conway Road,,Penmaenmawr
+2022-02-17,210000,LL34 6BH,F,Y,L,Cambrian Court,Apartment 14,Conway Road,,Penmaenmawr
+2022-02-16,165000,LL34 6BH,F,Y,L,Cambrian Court,Apartment 12,Conway Road,,Penmaenmawr
+2022-02-15,175000,LL34 6BH,F,Y,L,Cambrian Court,Apartment 1,Conway Road,,Penmaenmawr
+2022-02-15,175000,LL34 6BH,F,Y,L,Cambrian Court,Apartment 9,Conway Road,,Penmaenmawr
+2022-02-15,171000,LL34 6BH,F,Y,L,Cambrian Court,Apartment 5,Conway Road,,Penmaenmawr
+2022-02-15,165000,LL34 6BH,F,Y,L,Cambrian Court,Apartment 10,Conway Road,,Penmaenmawr
+2022-02-11,230000,LL34 6BH,F,Y,L,Cambrian Court,Apartment 15,Conway Road,,Penmaenmawr
+2022-02-10,170000,LL34 6BH,F,Y,L,Cambrian Court,Apartment 4,Conway Road,,Penmaenmawr
+2022-01-31,95000,LL34 6BW,S,Y,F,Plot 3,,Cemlyn Park,,Penmaenmawr
+2022-01-31,95000,LL34 6BW,D,Y,F,One Erw Lydan,,Cemlyn Park,,Penmaenmawr
+2022-01-28,144950,LL34 6SB,F,N,L,17,,Gwel Y Mor,Dwygyfylchi,Penmaenmawr
+2022-01-28,130000,LL34 6LH,T,N,F,22,,Erasmus Street,,Penmaenmawr
+2022-01-24,217000,LL34 6SB,S,N,F,3,,Gwel Y Mor,Dwygyfylchi,Penmaenmawr
+2022-01-11,95000,LL34 6PA,T,N,F,18,,Chapel Street,,Penmaenmawr
+2022-01-05,365000,LL34 6ED,S,N,F,Sefton,,Conway Old Road,,Penmaenmawr
+2021-12-20,149000,LL34 6HB,S,N,F,6,,Seiriol Road,,Penmaenmawr
+2021-12-16,290000,LL34 6PW,D,N,F,2,,Gardd Eryri,Dwygyfylchi,Penmaenmawr
+2021-12-15,170000,LL34 6SA,T,N,F,2,,Maes Y Llan,Dwygyfylchi,Penmaenmawr
+2021-12-10,195000,LL34 6TR,S,N,F,8,,Cae Gwynan,Dwygyfylchi,Penmaenmawr
+2021-12-08,250000,LL34 6TR,D,N,F,24,,Cae Gwynan,Dwygyfylchi,Penmaenmawr
+2021-12-03,430000,LL34 6BL,D,N,F,Hafan Newydd,,Conway Road,,Penmaenmawr
+2021-12-02,155000,LL34 6NN,T,N,F,Tyn Lon,,Victoria Terrace,,Penmaenmawr
+2021-11-29,140000,LL34 6HA,T,N,F,26,,Bell Cottages,,Penmaenmawr
+2021-11-29,210000,LL34 6BY,D,N,F,Llwyn Onn,,Pant Yr Afon,,Penmaenmawr
+2021-11-29,290000,LL34 6BL,T,N,F,1,,Morllon Terrace,,Penmaenmawr
+2021-11-23,150000,LL34 6RY,S,N,F,22,,Maes Y Llan,Dwygyfylchi,Penmaenmawr
+2021-11-23,495000,LL34 6LT,D,N,F,Maengwyn,,Esplanade,,Penmaenmawr
+2021-11-19,135000,LL34 6LN,T,N,F,8,,St Davids Terrace,,Penmaenmawr
+2021-11-16,195000,LL34 6ND,F,N,L,Awel Ynys,Apartment 4,Bangor Road,,Penmaenmawr
+2021-11-12,134950,LL34 6PF,T,N,F,11,,Caerwen Terrace,,Penmaenmawr
+2021-11-12,112000,LL34 6NN,T,N,F,4,,Victoria Terrace,,Penmaenmawr
+2021-11-05,750000,LL34 6ER,D,N,F,Plas Coch,,Graiglwyd Road,,Penmaenmawr
+2021-10-29,180000,LL34 6UA,T,N,F,45,,Maes Alltwen,Dwygyfylchi,Penmaenmawr
+2021-10-25,220000,LL34 6SB,S,N,F,35,,Gwel Y Mor,Dwygyfylchi,Penmaenmawr
+2021-10-25,267000,LL34 6LY,S,N,F,Carnbrae,,Esplanade,,Penmaenmawr
+2021-10-22,274000,LL34 6TH,D,N,F,Glyn Dwr,,Chestnut Avenue,Dwygyfylchi,Penmaenmawr
+2021-10-22,190000,LL34 6HH,S,N,F,2,,Beech Grove,,Penmaenmawr
+2021-10-15,115000,LL34 6NF,T,N,F,23,,High Street,,Penmaenmawr
+2021-10-14,137000,LL34 6RN,S,N,F,45,,Groesffordd,Dwygyfylchi,Penmaenmawr
+2021-10-06,100000,LL34 6HB,T,N,F,22,,Seiriol Road,,Penmaenmawr
+2021-10-04,160000,LL34 6HE,T,N,F,1,,Helyg Road,,Penmaenmawr
+2021-09-30,239000,LL34 6PW,S,N,F,4,,Gardd Eryri,Dwygyfylchi,Penmaenmawr
+2021-09-28,245000,LL34 6PY,S,N,F,30,,Gogarth Avenue,Dwygyfylchi,Penmaenmawr
+2021-09-24,77000,LL34 6BY,F,N,L,Bank Buildings,Flat 4,Pant Yr Afon,,Penmaenmawr
+2021-09-16,112500,LL34 6PB,T,N,F,28,,Water Street,,Penmaenmawr
+2021-09-15,232500,LL34 6EW,D,N,F,16,,Bryn Helyg Estate,,Penmaenmawr
+2021-09-09,117500,LL34 6NG,F,N,L,41A,,High Street,,Penmaenmawr
+2021-09-06,180000,LL34 6PT,T,N,F,Brig Y Don,,Ysgubor Wen Road,Dwygyfylchi,Penmaenmawr
+2021-09-01,200000,LL34 6SB,S,N,F,20,,Gwel Y Mor,Dwygyfylchi,Penmaenmawr
+2021-08-27,190000,LL34 6EW,D,N,F,6,,Bryn Helyg Estate,,Penmaenmawr
+2021-08-20,175000,LL34 6TR,S,N,F,33,,Cae Gwynan,Dwygyfylchi,Penmaenmawr
+2021-08-17,240000,LL34 6EG,D,N,F,Haulfryn,,Fernbrook Road,,Penmaenmawr
+2021-08-13,235000,LL34 6PU,S,N,F,Tyrola,,Mona Drive,Dwygyfylchi,Penmaenmawr
+2021-08-13,173000,LL34 6DL,D,N,F,Bolero,,Merton Park,,Penmaenmawr
+2021-08-12,313000,LL34 6AN,D,N,F,Ty Fry,,Brynmor Terrace,,Penmaenmawr
+2021-08-06,148000,LL34 6UA,T,N,F,19,,Maes Alltwen,Dwygyfylchi,Penmaenmawr
+2021-08-04,399950,LL34 6SP,S,N,F,Heather Cottage,,Conwy Old Road,Capelulo,Penmaenmawr
+2021-07-28,247500,LL34 6TE,D,N,F,Goppi,,Old Mill Road,Dwygyfylchi,Penmaenmawr
+2021-07-28,210000,LL34 6HB,D,N,F,Hyfrydle,,Seiriol Road,,Penmaenmawr
+2021-07-23,180000,LL34 6RA,S,N,F,Hafod Hyfryd,,Treforris Road,Dwygyfylchi,Penmaenmawr
+2021-07-23,180000,LL34 6PE,S,N,F,Bryn Mona,,Rock Villa Road,,Penmaenmawr
+2021-07-22,90000,LL34 6BW,D,Y,F,Plot 6,,Cemlyn Park,,Penmaenmawr
+2021-07-22,90000,LL34 6BW,D,Y,F,Erw Lydan,4,Cemlyn Park,,Penmaenmawr
+2021-07-15,179950,LL34 6EL,S,N,F,Bryn Dedwydd,1,Fernbrook Road,,Penmaenmawr
+2021-07-06,370000,LL34 6EP,D,N,F,Graiglwyd Farm,,Graiglwyd Road,,Penmaenmawr
+2021-06-30,227000,LL34 6SD,T,N,F,1,,Gwel Y Aber,Dwygyfylchi,Penmaenmawr
+2021-06-30,372500,LL34 6PY,D,N,F,36,,Gogarth Avenue,Dwygyfylchi,Penmaenmawr
+2021-06-29,360000,LL34 6EL,D,N,F,Plas Tirion,,Fernbrook Road,,Penmaenmawr
+2021-06-25,283000,LL34 6TN,S,N,F,Gorffwysfa,,Old Mill Road,Dwygyfylchi,Penmaenmawr
+2021-06-22,165000,LL34 6UA,S,N,F,32,,Maes Alltwen,Dwygyfylchi,Penmaenmawr
+2021-06-22,282500,LL34 6BG,T,N,F,Sunny Mount,,Marine Terrace,,Penmaenmawr
+2021-06-18,320000,LL34 6UY,D,N,F,Glan Y Mor Newydd,,Conway Road,,Penmaenmawr
+2021-06-18,220000,LL34 6ND,S,N,F,Benmore,,Bangor Road,,Penmaenmawr
+2021-06-11,169950,LL34 6RR,S,N,F,14,,Gwynan Park,Dwygyfylchi,Penmaenmawr
+2021-06-09,146000,LL34 6RN,S,N,F,49,,Groesffordd,Dwygyfylchi,Penmaenmawr
+2021-06-08,275000,LL34 6RB,S,N,F,Llys Alaw,,Conwy Old Road,Dwygyfylchi,Penmaenmawr
+2021-06-01,65000,LL34 6NF,T,N,F,18,,High Street,,Penmaenmawr
+2021-05-28,249950,LL34 6UD,S,N,F,Glyn Garth,,Glanyrafon Road,Dwygyfylchi,Penmaenmawr
+2021-05-28,132000,LL34 6HB,T,N,F,28,,Seiriol Road,,Penmaenmawr
+2021-05-27,135000,LL34 6JA,T,N,F,3,,Red Gables,,Penmaenmawr
+2021-05-24,167000,LL34 6RY,T,N,F,25,,Maes Y Llan,Dwygyfylchi,Penmaenmawr
+2021-05-24,155000,LL34 6ER,D,N,F,Moel Llys Cottage,,Graiglwyd Road,,Penmaenmawr
+2021-05-21,149000,LL34 6SL,T,N,F,9,,Tanrallt Cottages,Dwygyfylchi,Penmaenmawr
+2021-05-21,120000,LL34 6NN,T,N,F,3,,Victoria Terrace,,Penmaenmawr
+2021-05-19,175000,LL34 6LT,S,N,F,Bryn Awel,,Esplanade,,Penmaenmawr
+2021-05-14,296000,LL34 6LY,T,N,F,Bodfor,,Esplanade,,Penmaenmawr
+2021-05-12,126500,LL34 6HE,T,N,F,14,,Helyg Road,,Penmaenmawr
+2021-05-05,270000,LL34 6RB,S,N,F,Hafod Y Rhiw,,Conwy Old Road,Dwygyfylchi,Penmaenmawr
+2021-05-04,150000,LL34 6RN,T,N,F,59,,Groesffordd,Dwygyfylchi,Penmaenmawr
+2021-05-04,135000,LL34 6PY,S,N,F,5,,Gogarth Avenue,Dwygyfylchi,Penmaenmawr
+2021-05-04,100000,LL34 6LH,T,N,F,16,,Erasmus Street,,Penmaenmawr
+2021-04-16,345000,LL34 6TN,D,N,F,Sychnant View,5,Old Mill Road,Dwygyfylchi,Penmaenmawr
+2021-04-16,195000,LL34 6SB,S,N,F,4,,Gwel Y Mor,Dwygyfylchi,Penmaenmawr
+2021-04-14,187000,LL34 6YU,D,N,F,Minafon,,Fairy Glen Road,Capelulo,Penmaenmawr
+2021-04-14,187000,LL34 6YU,D,N,F,Minafon,,Fairy Glen Road,Capelulo,Penmaenmawr
+2021-03-31,220000,LL34 6SR,S,N,F,Fron Deg,,Fairy Glen Road,Capelulo,Penmaenmawr
+2021-03-26,240000,LL34 6YP,S,N,F,The Cottage,,Mountain Lane,,Penmaenmawr
+2021-03-26,257500,LL34 6TE,S,N,F,Corris,,Old Mill Road,Dwygyfylchi,Penmaenmawr
+2021-03-24,295000,LL34 6BG,S,N,F,Claremont,,Marine Terrace,,Penmaenmawr
+2021-03-19,105000,LL34 6HA,T,N,F,25,,Bell Cottages,,Penmaenmawr
+2021-03-10,185000,LL34 6SP,T,N,F,Bronrallt,3,Conwy Old Road,Capelulo,Penmaenmawr
+2021-03-05,245000,LL34 6UE,D,N,F,East Lodge,,Glanyrafon Road,Dwygyfylchi,Penmaenmawr
+2021-03-05,160000,LL34 6SA,S,N,F,15,,Maes Y Llan,Dwygyfylchi,Penmaenmawr
+2021-03-05,158000,LL34 6RU,T,N,F,78,,Maes Y Llan,Dwygyfylchi,Penmaenmawr
+2021-02-26,170000,LL34 6SY,S,N,F,2,,Brookside,Capelulo,Penmaenmawr
+2021-02-26,151500,LL34 6DE,S,N,F,5,,Brookside Close,,Penmaenmawr
+2021-02-25,112000,LL34 6LG,T,N,F,11,,David Street,,Penmaenmawr
+2021-02-22,128000,LL34 6LW,T,N,F,3,,Edward Street,,Penmaenmawr
+2021-02-17,205000,LL34 6SB,T,N,F,25,,Gwel Y Mor,Dwygyfylchi,Penmaenmawr
+2021-02-15,295000,LL34 6UD,D,N,F,Eryl,,Glanyrafon Road,Dwygyfylchi,Penmaenmawr
+2021-02-15,115000,LL34 6LH,T,N,F,6,,Erasmus Street,,Penmaenmawr
+2021-02-15,210000,LL34 6BP,S,N,F,Awelon,,Cemlyn Park,,Penmaenmawr
+2021-02-09,115000,LL34 6LG,T,N,F,15,,David Street,,Penmaenmawr
+2021-02-09,382000,LL34 6EG,D,N,F,Pine Lodge,,Fernbrook Road,,Penmaenmawr
+2021-02-05,133000,LL34 6RY,T,N,F,26,,Maes Y Llan,Dwygyfylchi,Penmaenmawr
+2021-02-04,85000,LL34 6NF,T,N,F,35,,High Street,,Penmaenmawr
+2021-01-29,600000,LL34 6RG,D,N,F,Treforris,,Treforris Road,Dwygyfylchi,Penmaenmawr
+2021-01-22,166750,LL34 6PY,S,N,F,19,,Gogarth Avenue,Dwygyfylchi,Penmaenmawr
+2021-01-22,272000,LL34 6LT,S,N,F,Hazeldene,,Esplanade,,Penmaenmawr
+2021-01-08,162500,LL34 6RR,D,N,F,31,,Gwynan Park,Dwygyfylchi,Penmaenmawr

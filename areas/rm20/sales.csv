@@ -1,0 +1,740 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-07,248000,RM20 4AP,T,N,F,13,,Angle Road,,Grays
+2026-07-31,188000,RM20 3BJ,F,N,L,"Bay House, 584",24,London Road,,Grays
+2026-07-27,467000,RM20 4YH,T,N,F,33,,Palmerston Road,,Grays
+2026-07-24,280000,RM20 4XJ,T,N,F,16,,East Street,South Stifford,Grays
+2026-07-24,338500,RM20 4BP,T,N,F,8,,Chase Way,,Grays
+2026-07-24,337000,RM20 3JE,T,N,F,8,,Credo Way,,Grays
+2026-07-23,465000,RM20 3JL,S,N,F,42,,Second Avenue,,Grays
+2026-07-17,367000,RM20 4YP,T,N,F,128,,Palmerston Road,,Grays
+2026-07-07,336500,RM20 4XW,T,N,F,98,,Moore Avenue,,Grays
+2026-07-06,345000,RM20 4XU,T,N,F,24,,Charlton Street,,Grays
+2026-07-03,298500,RM20 3JA,T,N,F,24,,Essex Road,,Grays
+2026-06-29,334000,RM20 4AE,T,N,F,31,,Florence Close,,Grays
+2026-06-29,425000,RM20 3BU,S,N,F,10,,St Clements Avenue,,Grays
+2026-06-18,345000,RM20 4YE,T,N,F,43,,Mill Lane,,Grays
+2026-06-18,130000,RM20 3JG,F,N,L,5,,Chapel Close,,Grays
+2026-06-05,302500,RM20 4AA,T,N,F,385,,London Road,,Grays
+2026-05-29,245000,RM20 3AF,F,N,L,Witham House,Flat 7,Schoolfield Way,,Grays
+2026-05-28,260000,RM20 3HA,T,N,F,13,,Flint Street,,Grays
+2026-05-26,308000,RM20 3HT,T,N,F,Tunnel Cottages,5,The Rookery,,Grays
+2026-05-15,285000,RM20 4BU,F,N,L,40,,Devonshire Close,,Grays
+2026-05-14,402000,RM20 4YL,S,N,F,137,,Palmerston Road,,Grays
+2026-05-08,395000,RM20 4YL,T,N,F,161,,Palmerston Road,,Grays
+2026-05-08,270000,RM20 4XU,T,N,F,3,,Charlton Street,,Grays
+2026-04-24,385000,RM20 3DA,S,N,F,6,,Hillcrest Avenue,,Grays
+2026-04-10,230000,RM20 3DF,F,N,L,137,,Dovestone Close,West Thurrock,Grays
+2026-04-02,237500,RM20 3HX,F,N,L,"Brinson House, 751",Flat 5,London Road,,Grays
+2026-03-30,140000,RM20 4AG,F,N,L,6,,Parsonage Road,,Grays
+2026-03-27,300000,RM20 3BQ,F,N,L,82,,Colliford Road,West Thurrock,Grays
+2026-03-12,342500,RM20 3JT,T,N,F,640,,London Road,,Grays
+2026-03-06,385000,RM20 4YL,T,N,F,121,,Palmerston Road,,Grays
+2026-03-04,92000,RM20 3BQ,F,N,L,28,,Colliford Road,West Thurrock,Grays
+2026-02-27,385000,RM20 4YR,T,N,F,94,,Palmerston Road,,Grays
+2026-02-27,430000,RM20 3AF,T,N,F,40,,Schoolfield Way,,Grays
+2026-02-26,295000,RM20 3DF,F,N,L,143,,Dovestone Close,West Thurrock,Grays
+2026-02-23,240000,RM20 3DF,F,N,L,41,,Dovestone Close,West Thurrock,Grays
+2026-02-16,290000,RM20 3BB,F,N,L,Flat 9,,Abberton Way,,Grays
+2026-02-04,450000,RM20 3BU,S,N,F,19,,St Clements Avenue,,Grays
+2026-01-30,365000,RM20 3HL,S,N,F,612,,London Road,,Grays
+2026-01-23,310000,RM20 4AT,T,N,F,41,,South View Road,,Grays
+2026-01-16,225000,RM20 3DF,F,N,L,79,,Dovestone Close,West Thurrock,Grays
+2026-01-14,96500,RM20 4BU,F,N,L,46,,Devonshire Close,,Grays
+2026-01-05,116000,RM20 3BQ,F,N,L,52,,Colliford Road,West Thurrock,Grays
+2025-12-22,380000,RM20 3DG,T,N,F,38,,Dovestone Close,West Thurrock,Grays
+2025-12-18,400000,RM20 4XW,S,N,F,48,,Moore Avenue,,Grays
+2025-12-17,365000,RM20 4AE,T,N,F,19,,Florence Close,,Grays
+2025-12-17,233000,RM20 3BW,F,N,L,50,,Carrowmore Close,West Thurrock,Grays
+2025-12-12,206000,RM20 4BF,F,N,L,14,,The Chase,West Thurrock,Grays
+2025-12-12,236000,RM20 3DD,F,N,L,146,,Buttermere Way,West Thurrock,Grays
+2025-12-09,247000,RM20 4BF,F,N,L,42,,The Chase,West Thurrock,Grays
+2025-12-05,575000,RM20 3HB,T,N,F,33,,The Rookery,,Grays
+2025-12-03,88000,RM20 3JG,F,N,L,12,,Chapel Close,,Grays
+2025-11-28,340000,RM20 4BQ,T,N,F,3,,Gumley Close,,Grays
+2025-11-28,425000,RM20 3HB,S,N,F,3,,The Rookery,,Grays
+2025-11-14,400000,RM20 4AB,T,N,F,348,,London Road,,Grays
+2025-11-12,307000,RM20 3HD,T,N,F,649,,London Road,,Grays
+2025-11-07,335000,RM20 4AT,T,N,F,18,,South View Road,,Grays
+2025-11-04,245000,RM20 3HA,T,N,F,27,,Flint Street,,Grays
+2025-11-03,290000,RM20 3DG,F,N,L,98,,Dovestone Close,West Thurrock,Grays
+2025-10-24,120000,RM20 4AX,F,N,L,28,,Hayes Close,,Grays
+2025-10-07,137000,RM20 4XJ,T,N,F,8,,East Street,South Stifford,Grays
+2025-10-06,108000,RM20 4AW,F,N,L,196,,Parsonage Road,,Grays
+2025-10-01,160000,RM20 4AN,F,N,L,48,,Oakley Close,,Grays
+2025-09-30,347000,RM20 4AT,T,N,F,20,,South View Road,,Grays
+2025-09-30,295000,RM20 3JF,T,N,F,38,,Charlotte Place,,Grays
+2025-09-29,287500,RM20 3BQ,F,N,L,50,,Colliford Road,West Thurrock,Grays
+2025-09-26,345000,RM20 3DA,S,N,F,26,,Hillcrest Avenue,,Grays
+2025-09-16,303000,RM20 3DF,F,N,L,43,,Dovestone Close,West Thurrock,Grays
+2025-09-12,199995,RM20 4AG,F,N,L,4,,Parsonage Road,,Grays
+2025-09-12,275000,RM20 3JF,T,N,F,18,,Charlotte Place,,Grays
+2025-09-12,230000,RM20 3BW,F,N,L,68,,Carrowmore Close,West Thurrock,Grays
+2025-09-05,158000,RM20 4AJ,F,N,L,45,,Parsonage Road,,Grays
+2025-09-05,327000,RM20 3DA,S,N,F,30,,Hillcrest Avenue,,Grays
+2025-08-29,342000,RM20 4XN,T,N,F,103,,Moore Avenue,,Grays
+2025-08-29,245000,RM20 4BL,F,N,L,21,,Draper Close,West Thurrock,Grays
+2025-08-22,116000,RM20 4BU,F,N,L,94,,Devonshire Close,,Grays
+2025-08-21,280000,RM20 4BU,F,N,L,60,,Devonshire Close,,Grays
+2025-08-20,240000,RM20 4BF,F,N,L,3,,The Chase,West Thurrock,Grays
+2025-08-18,375000,RM20 3BB,T,N,F,32,,Abberton Way,West Thurrock,Grays
+2025-08-15,275000,RM20 4AD,T,N,F,497,,London Road,,Grays
+2025-08-08,448000,RM20 4BT,S,N,F,23,,Devonshire Close,,Grays
+2025-08-08,105638,RM20 4AW,F,N,L,168,,Parsonage Road,,Grays
+2025-08-08,300500,RM20 3DF,F,N,L,89,,Dovestone Close,West Thurrock,Grays
+2025-08-08,370000,RM20 3BF,T,N,F,6,,Draycote Road,West Thurrock,Grays
+2025-07-25,140000,RM20 4BU,F,N,L,96,,Devonshire Close,,Grays
+2025-07-25,380000,RM20 3BD,T,N,F,13,,Killarney Crescent,West Thurrock,Grays
+2025-07-21,372000,RM20 4AA,T,N,F,405,,London Road,,Grays
+2025-07-17,290000,RM20 3DF,F,N,L,105,,Dovestone Close,West Thurrock,Grays
+2025-07-16,101250,RM20 3AP,F,N,L,Swinnerton House,72,Schoolfield Road,West Thurrock,Grays
+2025-07-14,475000,RM20 3JR,S,N,F,44,,First Avenue,,Grays
+2025-07-11,292000,RM20 3DF,F,N,L,127,,Dovestone Close,West Thurrock,Grays
+2025-07-11,230000,RM20 3AF,F,N,L,Witham House,Flat 15,Schoolfield Way,,Grays
+2025-07-09,160000,RM20 4AN,F,N,L,21,,Oakley Close,,Grays
+2025-07-09,260000,RM20 3JF,S,N,F,22,,Charlotte Place,,Grays
+2025-06-30,300000,RM20 4AA,T,N,F,377,,London Road,,Grays
+2025-06-30,520000,RM20 3BF,D,N,F,7,,Draycote Road,West Thurrock,Grays
+2025-06-30,385000,RM20 3BD,T,N,F,4,,Killarney Crescent,West Thurrock,Grays
+2025-06-27,310000,RM20 4AB,T,N,F,Old Forge Cottages,417A,London Road,,Grays
+2025-06-20,360000,RM20 4AJ,T,N,F,75,,Parsonage Road,,Grays
+2025-06-17,245000,RM20 3AN,F,N,L,Oak Tree House,Flat 39,Schoolfield Road,West Thurrock,Grays
+2025-06-13,460000,RM20 3HB,T,N,F,12,,The Rookery,,Grays
+2025-06-13,540000,RM20 3BW,D,N,F,2,,Carrowmore Close,West Thurrock,Grays
+2025-06-12,230000,RM20 3DF,F,N,L,77,,Dovestone Close,West Thurrock,Grays
+2025-06-06,230000,RM20 4BJ,F,N,L,106,,Draper Close,West Thurrock,Grays
+2025-06-02,360000,RM20 3JR,S,N,F,45,,First Avenue,,Grays
+2025-05-29,235000,RM20 4BJ,F,N,L,112,,Draper Close,West Thurrock,Grays
+2025-05-29,289995,RM20 3BQ,F,N,L,92,,Colliford Road,West Thurrock,Grays
+2025-05-28,270000,RM20 4BU,F,N,L,34,,Devonshire Close,,Grays
+2025-04-30,249000,RM20 4BJ,F,N,L,10,,Draper Close,West Thurrock,Grays
+2025-03-31,350000,RM20 4XX,T,N,F,10,,Foxton Road,,Grays
+2025-03-31,445000,RM20 4BY,S,N,F,1,,Somerset Close,,Grays
+2025-03-31,345000,RM20 4AB,T,N,F,459,,London Road,,Grays
+2025-03-31,382000,RM20 3HB,T,N,F,42,,The Rookery,,Grays
+2025-03-31,400000,RM20 3BU,S,N,F,7,,St Clements Avenue,,Grays
+2025-03-28,120000,RM20 3DG,F,N,L,90,,Dovestone Close,West Thurrock,Grays
+2025-03-27,285000,RM20 3HL,T,N,F,681,,London Road,,Grays
+2025-03-21,360000,RM20 4YL,T,N,F,117,,Palmerston Road,,Grays
+2025-03-21,134000,RM20 4AW,F,N,L,154,,Parsonage Road,,Grays
+2025-03-14,440000,RM20 4YH,T,N,F,51,,Palmerston Road,,Grays
+2025-03-14,432000,RM20 3AN,S,N,F,17,,Schoolfield Road,West Thurrock,Grays
+2025-03-07,370000,RM20 4YE,S,N,F,47,,Mill Lane,,Grays
+2025-03-07,585000,RM20 4BT,D,N,F,11,,Devonshire Close,,Grays
+2025-03-04,290000,RM20 3HA,T,N,F,24,,Flint Street,,Grays
+2025-02-28,377000,RM20 4YL,T,N,F,125,,Palmerston Road,,Grays
+2025-02-24,112000,RM20 3BQ,F,N,L,38,,Colliford Road,West Thurrock,Grays
+2025-02-20,210000,RM20 4BL,F,N,L,19,,Draper Close,West Thurrock,Grays
+2025-02-18,297000,RM20 3DF,F,N,L,27,,Dovestone Close,West Thurrock,Grays
+2025-02-14,390000,RM20 4XX,T,N,F,27,,Foxton Road,,Grays
+2025-02-14,450000,RM20 3BD,T,N,F,17,,Killarney Crescent,West Thurrock,Grays
+2025-02-06,342000,RM20 4YP,S,N,F,106,,Palmerston Road,,Grays
+2025-02-05,390000,RM20 4AY,D,N,F,117,,Parsonage Road,,Grays
+2025-01-31,247000,RM20 4XP,F,N,L,15,,Gumley Road,,Grays
+2025-01-31,215000,RM20 3HX,F,N,L,"Langton House, 753",Flat 9,London Road,,Grays
+2025-01-24,280000,RM20 3DF,F,N,L,145,,Dovestone Close,West Thurrock,Grays
+2025-01-21,315000,RM20 4AY,T,N,F,149,,Parsonage Road,,Grays
+2025-01-16,420000,RM20 3JR,S,N,F,20,,First Avenue,,Grays
+2025-01-14,332000,RM20 4XJ,T,N,F,4,,East Street,South Stifford,Grays
+2025-01-03,120000,RM20 4AW,F,N,L,256,,Parsonage Road,,Grays
+2024-12-19,175000,RM20 4XU,F,N,L,17F,,Charlton Street,,Grays
+2024-12-19,275000,RM20 4BU,F,N,L,70,,Devonshire Close,,Grays
+2024-12-17,230000,RM20 3BW,F,N,L,58,,Carrowmore Close,West Thurrock,Grays
+2024-12-10,350000,RM20 4YH,T,N,F,61,,Palmerston Road,,Grays
+2024-12-06,225000,RM20 4BU,F,N,L,78,,Devonshire Close,,Grays
+2024-12-05,290000,RM20 3BQ,F,N,L,78,,Colliford Road,West Thurrock,Grays
+2024-11-29,420000,RM20 4BT,S,N,F,35,,Devonshire Close,,Grays
+2024-11-29,215000,RM20 3HX,F,N,L,"Langton House, 753",Flat 4,London Road,,Grays
+2024-11-22,450000,RM20 4BT,S,N,F,29,,Devonshire Close,,Grays
+2024-11-15,219000,RM20 3HX,F,N,L,"Brinson House, 751",Flat 9,London Road,,Grays
+2024-11-15,240000,RM20 3AF,F,N,L,Witham House,Flat 29,Schoolfield Way,,Grays
+2024-10-31,450000,RM20 3DA,S,N,F,44,,Hillcrest Avenue,,Grays
+2024-10-28,255000,RM20 4BF,F,N,L,40,,The Chase,West Thurrock,Grays
+2024-10-24,230000,RM20 4AD,T,N,F,420,,London Road,,Grays
+2024-10-16,113500,RM20 4BU,F,N,L,92,,Devonshire Close,,Grays
+2024-10-11,322000,RM20 4XP,T,N,F,19,,Gumley Road,,Grays
+2024-10-02,350000,RM20 4BQ,T,N,F,2,,Gumley Close,,Grays
+2024-09-30,285000,RM20 3BW,F,N,L,64,,Carrowmore Close,West Thurrock,Grays
+2024-09-17,410000,RM20 4XP,T,N,F,30,,Gumley Road,,Grays
+2024-09-16,325000,RM20 3HX,T,N,F,624,,London Road,,Grays
+2024-09-09,350000,RM20 4XW,T,N,F,70,,Moore Avenue,,Grays
+2024-09-05,265000,RM20 4XU,T,N,F,44,,Charlton Street,,Grays
+2024-08-22,375000,RM20 4XJ,T,N,F,2,,East Street,South Stifford,Grays
+2024-08-16,163800,RM20 4YE,T,N,F,12,,Mill Lane,,Grays
+2024-08-16,270000,RM20 3DF,F,N,L,103,,Dovestone Close,West Thurrock,Grays
+2024-08-12,360000,RM20 3HX,T,N,F,755,,London Road,,Grays
+2024-08-08,320500,RM20 3JG,T,N,F,40,,Chapel Close,,Grays
+2024-07-29,335000,RM20 3JJ,T,N,F,17,,Fourth Avenue,,Grays
+2024-07-26,325000,RM20 4BQ,T,N,F,4,,Gumley Close,,Grays
+2024-07-26,227500,RM20 3BW,F,N,L,52,,Carrowmore Close,West Thurrock,Grays
+2024-07-26,367500,RM20 3BW,T,N,F,38,,Carrowmore Close,West Thurrock,Grays
+2024-07-19,276000,RM20 3DF,F,N,L,129,,Dovestone Close,West Thurrock,Grays
+2024-07-19,355000,RM20 3BU,S,N,F,20,,St Clements Avenue,,Grays
+2024-07-03,355000,RM20 3DA,S,N,F,24,,Hillcrest Avenue,,Grays
+2024-06-28,280000,RM20 3HT,T,N,F,Tunnel Cottages,4,The Rookery,,Grays
+2024-06-28,280000,RM20 3DF,F,N,L,121,,Dovestone Close,West Thurrock,Grays
+2024-06-28,283000,RM20 3BB,F,N,L,19,,Abberton Way,West Thurrock,Grays
+2024-06-21,380000,RM20 4YL,T,N,F,157,,Palmerston Road,,Grays
+2024-06-21,460000,RM20 3BN,T,N,F,1,,Colliford Road,West Thurrock,Grays
+2024-06-11,240000,RM20 3AF,F,N,L,Witham House,Flat 41,Schoolfield Way,,Grays
+2024-05-21,345000,RM20 3JR,S,N,F,25,,First Avenue,,Grays
+2024-05-20,390000,RM20 4BJ,T,N,F,28,,Draper Close,West Thurrock,Grays
+2024-05-14,230000,RM20 3HX,F,N,L,"Brinson House, 751",Flat 7,London Road,,Grays
+2024-05-03,438000,RM20 3AF,T,N,F,42,,Schoolfield Way,,Grays
+2024-05-02,247800,RM20 4AP,T,N,F,11,,Angle Road,,Grays
+2024-04-30,320000,RM20 4AB,T,N,F,344,,London Road,,Grays
+2024-04-29,170000,RM20 4AW,F,N,L,262,,Parsonage Road,,Grays
+2024-04-22,130000,RM20 4AW,F,N,L,156,,Parsonage Road,,Grays
+2024-03-28,305000,RM20 4AE,T,N,F,18,,Florence Close,,Grays
+2024-03-25,395000,RM20 3JR,S,N,F,51,,First Avenue,,Grays
+2024-03-22,365000,RM20 4YL,T,N,F,89,,Palmerston Road,,Grays
+2024-03-22,370000,RM20 4XW,S,N,F,62,,Moore Avenue,,Grays
+2024-03-22,415000,RM20 4BW,S,N,F,5,,Cornwall Close,,Grays
+2024-03-04,118000,RM20 3BQ,F,N,L,56,,Colliford Road,West Thurrock,Grays
+2024-03-01,360000,RM20 4BY,T,N,F,11,,Somerset Close,,Grays
+2024-02-29,370000,RM20 4BW,T,N,F,15,,Cornwall Close,,Grays
+2024-01-30,360000,RM20 4YH,T,N,F,13,,Palmerston Road,,Grays
+2024-01-26,290000,RM20 4XU,T,N,F,10,,Charlton Street,,Grays
+2024-01-25,262500,RM20 4XU,T,N,F,6,,Charlton Street,,Grays
+2024-01-19,310000,RM20 4YH,T,N,F,23,,Palmerston Road,,Grays
+2024-01-12,122000,RM20 4AS,F,N,L,49,,Porter Close,,Grays
+2024-01-12,74000,RM20 3BJ,F,N,L,"Bay House, 584",21,London Road,,Grays
+2024-01-04,330000,RM20 4YE,T,N,F,2,,Mill Lane,,Grays
+2023-12-11,115000,RM20 4AW,F,N,L,254,,Parsonage Road,,Grays
+2023-11-30,233500,RM20 3AP,F,N,L,Swinnerton House,68,Schoolfield Road,West Thurrock,Grays
+2023-11-17,272500,RM20 4BU,F,N,L,54,,Devonshire Close,,Grays
+2023-11-16,342000,RM20 4AN,T,N,F,46,,Oakley Close,,Grays
+2023-11-16,273000,RM20 3DF,F,N,L,107,,Dovestone Close,West Thurrock,Grays
+2023-11-15,105000,RM20 4AQ,F,N,L,124,,Parsonage Road,,Grays
+2023-11-10,228000,RM20 3BW,F,N,L,44,,Carrowmore Close,West Thurrock,Grays
+2023-11-09,283000,RM20 3BW,F,N,L,46,,Carrowmore Close,West Thurrock,Grays
+2023-11-08,357500,RM20 4AN,T,N,F,45,,Oakley Close,,Grays
+2023-11-02,275000,RM20 3JF,T,N,F,5,,Charlotte Place,,Grays
+2023-10-27,431500,RM20 3BN,T,Y,F,27,,Colliford Road,West Thurrock,Grays
+2023-10-27,419995,RM20 3BN,T,Y,F,25,,Colliford Road,West Thurrock,Grays
+2023-10-27,419995,RM20 3BN,T,Y,F,23,,Colliford Road,West Thurrock,Grays
+2023-10-16,341000,RM20 4XN,T,N,F,79,,Moore Avenue,,Grays
+2023-10-13,250000,RM20 4AJ,T,N,F,79,,Parsonage Road,,Grays
+2023-10-13,320000,RM20 3HA,T,N,F,6,,Flint Street,,Grays
+2023-10-13,218000,RM20 3BQ,F,N,L,90,,Colliford Road,West Thurrock,Grays
+2023-10-10,400000,RM20 3DG,D,N,F,8,,Dovestone Close,West Thurrock,Grays
+2023-10-05,226000,RM20 3DF,F,N,L,117,,Dovestone Close,West Thurrock,Grays
+2023-10-04,84000,RM20 4BU,F,N,L,80,,Devonshire Close,,Grays
+2023-09-29,410000,RM20 3HB,T,N,F,6,,The Rookery,,Grays
+2023-09-27,315000,RM20 4YE,T,N,F,24,,Mill Lane,,Grays
+2023-09-22,123000,RM20 4AS,F,N,L,83,,Porter Close,,Grays
+2023-09-05,325500,RM20 3BX,S,N,F,26,,Park Avenue,,Grays
+2023-09-01,288000,RM20 3BQ,F,N,L,20,,Colliford Road,West Thurrock,Grays
+2023-08-25,367000,RM20 4YP,T,N,F,140,,Palmerston Road,,Grays
+2023-08-25,410000,RM20 4BP,T,N,F,12,,Chase Way,,Grays
+2023-08-24,285000,RM20 3JG,T,N,F,17,,Chapel Close,,Grays
+2023-08-21,195000,RM20 4AG,F,N,L,26,,Parsonage Road,,Grays
+2023-08-18,252000,RM20 4BJ,F,N,L,20,,Draper Close,West Thurrock,Grays
+2023-08-18,245500,RM20 4BF,F,N,L,30,,The Chase,West Thurrock,Grays
+2023-08-18,354000,RM20 4AY,S,N,F,129,,Parsonage Road,,Grays
+2023-08-16,112000,RM20 3DG,F,N,L,92,,Dovestone Close,West Thurrock,Grays
+2023-08-11,232000,RM20 3AF,F,N,L,Witham House,Flat 27,Schoolfield Way,,Grays
+2023-08-04,435000,RM20 4BL,T,N,F,61,,Draper Close,West Thurrock,Grays
+2023-08-03,125000,RM20 4AW,F,N,L,278,,Parsonage Road,,Grays
+2023-08-02,250000,RM20 4BJ,F,N,L,86,,Draper Close,West Thurrock,Grays
+2023-08-01,425000,RM20 4BL,T,N,F,59,,Draper Close,West Thurrock,Grays
+2023-07-31,270000,RM20 4BU,F,N,L,62,,Devonshire Close,,Grays
+2023-07-28,342000,RM20 4YR,T,N,F,66,,Palmerston Road,,Grays
+2023-07-28,230000,RM20 3AF,F,N,L,Witham House,Flat 37,Schoolfield Way,,Grays
+2023-07-26,307500,RM20 3JE,T,N,F,27,,Credo Way,,Grays
+2023-07-07,246000,RM20 4BJ,F,N,L,8,,Draper Close,West Thurrock,Grays
+2023-06-21,335000,RM20 4AB,T,N,F,461,,London Road,,Grays
+2023-06-13,310000,RM20 4XU,T,N,F,38,,Charlton Street,,Grays
+2023-06-13,300000,RM20 4AE,T,N,F,25,,Florence Close,,Grays
+2023-06-13,270000,RM20 3JA,T,N,F,17,,Essex Road,,Grays
+2023-06-02,285000,RM20 3JR,S,N,F,19,,First Avenue,,Grays
+2023-05-23,425000,RM20 4XW,T,N,F,118,,Moore Avenue,,Grays
+2023-05-19,335000,RM20 3JH,S,N,F,6,,Third Avenue,,Grays
+2023-05-04,183558,RM20 3AF,T,N,F,8,,Schoolfield Way,,Grays
+2023-05-03,342500,RM20 4BQ,T,N,F,16,,Gumley Close,,Grays
+2023-04-28,227995,RM20 3BY,F,Y,L,18,,Buttermere Way,West Thurrock,Grays
+2023-04-28,274995,RM20 3BY,F,Y,L,12,,Buttermere Way,West Thurrock,Grays
+2023-04-27,221480,RM20 3BY,F,Y,L,8,,Buttermere Way,West Thurrock,Grays
+2023-04-27,231995,RM20 3BY,F,Y,L,58,,Buttermere Way,West Thurrock,Grays
+2023-04-27,280995,RM20 3BY,F,Y,L,52,,Buttermere Way,West Thurrock,Grays
+2023-04-27,231995,RM20 3BY,F,Y,L,48,,Buttermere Way,West Thurrock,Grays
+2023-04-27,229995,RM20 3BY,F,Y,L,42,,Buttermere Way,West Thurrock,Grays
+2023-04-27,229995,RM20 3BY,F,Y,L,32,,Buttermere Way,West Thurrock,Grays
+2023-04-27,227995,RM20 3BY,F,Y,L,26,,Buttermere Way,West Thurrock,Grays
+2023-04-24,274995,RM20 3BY,F,Y,L,6,,Buttermere Way,West Thurrock,Grays
+2023-04-24,231995,RM20 3BY,F,Y,L,56,,Buttermere Way,West Thurrock,Grays
+2023-04-24,278995,RM20 3BY,F,Y,L,38,,Buttermere Way,West Thurrock,Grays
+2023-04-24,278995,RM20 3BY,F,Y,L,36,,Buttermere Way,West Thurrock,Grays
+2023-04-24,229995,RM20 3BY,F,Y,L,34,,Buttermere Way,West Thurrock,Grays
+2023-04-24,277995,RM20 3BY,F,Y,L,28,,Buttermere Way,West Thurrock,Grays
+2023-04-24,227995,RM20 3BY,F,Y,L,24,,Buttermere Way,West Thurrock,Grays
+2023-04-22,225995,RM20 3BY,F,Y,L,10,,Buttermere Way,West Thurrock,Grays
+2023-04-21,401000,RM20 4XW,S,N,F,10,,Moore Avenue,,Grays
+2023-04-21,355000,RM20 3BH,T,N,F,4,,Loweswater Way,West Thurrock,Grays
+2023-04-14,135000,RM20 4AQ,F,N,L,142,,Parsonage Road,,Grays
+2023-04-14,281000,RM20 3JT,T,N,F,648,,London Road,,Grays
+2023-04-06,370000,RM20 3AN,S,N,F,25,,Schoolfield Road,West Thurrock,Grays
+2023-04-04,280000,RM20 4BU,F,N,L,58,,Devonshire Close,,Grays
+2023-03-31,320000,RM20 4XU,T,N,F,16,,Charlton Street,,Grays
+2023-03-31,145000,RM20 4AX,F,N,L,17,,Hayes Close,,Grays
+2023-03-31,229995,RM20 3DB,F,Y,L,112,,Buttermere Way,West Thurrock,Grays
+2023-03-31,281995,RM20 3BY,F,Y,L,60,,Buttermere Way,West Thurrock,Grays
+2023-03-31,279995,RM20 3BY,F,Y,L,44,,Buttermere Way,West Thurrock,Grays
+2023-03-31,279995,RM20 3BY,F,Y,L,30,,Buttermere Way,West Thurrock,Grays
+2023-03-31,277995,RM20 3BY,F,Y,L,14,,Buttermere Way,West Thurrock,Grays
+2023-03-30,280995,RM20 3BY,F,Y,L,46,,Buttermere Way,West Thurrock,Grays
+2023-03-27,276995,RM20 3BY,F,Y,L,22,,Buttermere Way,West Thurrock,Grays
+2023-03-27,236500,RM20 3AN,F,N,L,Oak Tree House,Flat 33,Schoolfield Road,West Thurrock,Grays
+2023-03-24,353500,RM20 4XW,D,N,F,86,,Moore Avenue,,Grays
+2023-03-24,280995,RM20 3BY,F,Y,L,54,,Buttermere Way,West Thurrock,Grays
+2023-03-24,275995,RM20 3BY,F,Y,L,2,,Buttermere Way,West Thurrock,Grays
+2023-03-17,357500,RM20 3BU,S,N,F,10,,St Clements Avenue,,Grays
+2023-03-15,260000,RM20 4BL,F,N,L,93,,Draper Close,West Thurrock,Grays
+2023-03-10,373000,RM20 4BY,T,N,F,9,,Somerset Close,,Grays
+2023-03-02,114000,RM20 3DG,F,N,L,60,,Dovestone Close,West Thurrock,Grays
+2023-02-22,425000,RM20 4YR,S,N,F,62,,Palmerston Road,,Grays
+2023-02-22,302000,RM20 4AT,T,N,F,11,,South View Road,,Grays
+2023-02-17,185000,RM20 4BJ,F,N,L,102,,Draper Close,West Thurrock,Grays
+2023-02-16,200000,RM20 4AG,F,N,L,40,,Parsonage Road,,Grays
+2023-02-10,175000,RM20 4AJ,F,N,L,51,,Parsonage Road,,Grays
+2023-02-09,330000,RM20 3JE,T,N,F,13,,Credo Way,,Grays
+2023-02-04,165000,RM20 4AJ,F,N,L,13,,Parsonage Road,,Grays
+2023-01-27,327000,RM20 3JG,T,N,F,21,,Chapel Close,,Grays
+2023-01-27,442995,RM20 3DH,S,Y,F,7,,Broadstone Way,West Thurrock,Grays
+2023-01-27,445995,RM20 3DH,S,Y,F,5,,Broadstone Way,West Thurrock,Grays
+2023-01-27,445995,RM20 3DH,S,Y,F,3,,Broadstone Way,West Thurrock,Grays
+2023-01-27,442995,RM20 3DH,S,Y,F,1,,Broadstone Way,West Thurrock,Grays
+2023-01-23,317000,RM20 3JG,T,N,F,44,,Chapel Close,,Grays
+2023-01-20,276000,RM20 4BF,F,N,L,35,,The Chase,West Thurrock,Grays
+2023-01-20,180000,RM20 4AG,F,N,L,76,,Parsonage Road,,Grays
+2023-01-13,175500,RM20 4AQ,F,N,L,150,,Parsonage Road,,Grays
+2023-01-10,360000,RM20 4AR,S,N,F,450,,London Road,,Grays
+2023-01-06,240000,RM20 4YE,T,N,F,8,,Mill Lane,,Grays
+2023-01-06,285000,RM20 3BW,F,N,L,56,,Carrowmore Close,West Thurrock,Grays
+2022-12-21,370000,RM20 4YR,T,N,F,16,,Palmerston Road,,Grays
+2022-12-19,130000,RM20 4AS,F,N,L,6,,Porter Close,,Grays
+2022-12-16,410000,RM20 4XX,T,N,F,31,,Foxton Road,,Grays
+2022-12-16,356000,RM20 4XX,T,N,F,10,,Foxton Road,,Grays
+2022-12-16,170000,RM20 4AQ,F,N,L,148,,Parsonage Road,,Grays
+2022-12-16,295000,RM20 4AD,T,N,F,483,,London Road,,Grays
+2022-12-16,281995,RM20 3DB,F,Y,L,136,,Buttermere Way,West Thurrock,Grays
+2022-12-16,231995,RM20 3DB,F,Y,L,134,,Buttermere Way,West Thurrock,Grays
+2022-12-16,231995,RM20 3DB,F,Y,L,132,,Buttermere Way,West Thurrock,Grays
+2022-12-16,231995,RM20 3DB,F,Y,L,130,,Buttermere Way,West Thurrock,Grays
+2022-12-16,280995,RM20 3DB,F,Y,L,128,,Buttermere Way,West Thurrock,Grays
+2022-12-16,231995,RM20 3DB,F,Y,L,126,,Buttermere Way,West Thurrock,Grays
+2022-12-16,231995,RM20 3DB,F,Y,L,122,,Buttermere Way,West Thurrock,Grays
+2022-12-16,231995,RM20 3DB,F,Y,L,120,,Buttermere Way,West Thurrock,Grays
+2022-12-15,231995,RM20 3DB,F,Y,L,124,,Buttermere Way,West Thurrock,Grays
+2022-12-15,279995,RM20 3DB,F,Y,L,116,,Buttermere Way,West Thurrock,Grays
+2022-12-15,229995,RM20 3DB,F,Y,L,114,,Buttermere Way,West Thurrock,Grays
+2022-12-15,299995,RM20 3DB,F,Y,L,110,,Buttermere Way,West Thurrock,Grays
+2022-12-15,278995,RM20 3DB,F,Y,L,108,,Buttermere Way,West Thurrock,Grays
+2022-12-15,229995,RM20 3DB,F,Y,L,106,,Buttermere Way,West Thurrock,Grays
+2022-12-15,229995,RM20 3DB,F,Y,L,104,,Buttermere Way,West Thurrock,Grays
+2022-12-14,281995,RM20 3DD,F,Y,L,156,,Buttermere Way,West Thurrock,Grays
+2022-12-14,234995,RM20 3DB,F,Y,L,98,,Buttermere Way,West Thurrock,Grays
+2022-12-14,277995,RM20 3DB,F,Y,L,96,,Buttermere Way,West Thurrock,Grays
+2022-12-14,227995,RM20 3DB,F,Y,L,94,,Buttermere Way,West Thurrock,Grays
+2022-12-14,227995,RM20 3DB,F,Y,L,92,,Buttermere Way,West Thurrock,Grays
+2022-12-14,229995,RM20 3DB,F,Y,L,102,,Buttermere Way,West Thurrock,Grays
+2022-12-14,229995,RM20 3DB,F,Y,L,100,,Buttermere Way,West Thurrock,Grays
+2022-12-13,240000,RM20 3JT,F,N,L,763,,London Road,,Grays
+2022-12-13,227995,RM20 3DB,F,Y,L,90,,Buttermere Way,West Thurrock,Grays
+2022-12-13,276995,RM20 3DB,F,Y,L,88,,Buttermere Way,West Thurrock,Grays
+2022-12-13,227995,RM20 3DB,F,Y,L,86,,Buttermere Way,West Thurrock,Grays
+2022-12-13,227995,RM20 3DB,F,Y,L,84,,Buttermere Way,West Thurrock,Grays
+2022-12-13,227995,RM20 3DB,F,Y,L,82,,Buttermere Way,West Thurrock,Grays
+2022-12-13,227995,RM20 3DB,F,Y,L,80,,Buttermere Way,West Thurrock,Grays
+2022-12-12,232995,RM20 3DB,F,Y,L,78,,Buttermere Way,West Thurrock,Grays
+2022-12-12,275995,RM20 3DB,F,Y,L,76,,Buttermere Way,West Thurrock,Grays
+2022-12-12,225995,RM20 3DB,F,Y,L,74,,Buttermere Way,West Thurrock,Grays
+2022-12-12,225995,RM20 3DB,F,Y,L,72,,Buttermere Way,West Thurrock,Grays
+2022-12-12,225995,RM20 3DB,F,Y,L,70,,Buttermere Way,West Thurrock,Grays
+2022-12-12,274995,RM20 3DB,F,Y,L,68,,Buttermere Way,West Thurrock,Grays
+2022-12-12,225995,RM20 3DB,F,Y,L,66,,Buttermere Way,West Thurrock,Grays
+2022-12-12,225995,RM20 3DB,F,Y,L,64,,Buttermere Way,West Thurrock,Grays
+2022-12-09,235995,RM20 3DB,F,Y,L,118,,Buttermere Way,West Thurrock,Grays
+2022-12-09,235000,RM20 3AF,F,N,L,Witham House,Flat 11,Schoolfield Way,,Grays
+2022-12-07,280000,RM20 4XU,T,N,F,52,,Charlton Street,,Grays
+2022-11-30,274995,RM20 3DD,F,Y,L,142,,Buttermere Way,West Thurrock,Grays
+2022-11-28,331000,RM20 4AE,T,N,F,45,,Florence Close,,Grays
+2022-11-28,276995,RM20 3DD,F,Y,L,162,,Buttermere Way,West Thurrock,Grays
+2022-11-28,224995,RM20 3DD,F,Y,L,152,,Buttermere Way,West Thurrock,Grays
+2022-11-28,106000,RM20 3BQ,F,N,L,4,,Colliford Road,West Thurrock,Grays
+2022-11-25,275000,RM20 3JR,S,N,F,21,,First Avenue,,Grays
+2022-11-25,281995,RM20 3DD,F,Y,L,220,,Buttermere Way,West Thurrock,Grays
+2022-11-25,230995,RM20 3DD,F,Y,L,218,,Buttermere Way,West Thurrock,Grays
+2022-11-25,230995,RM20 3DD,F,Y,L,214,,Buttermere Way,West Thurrock,Grays
+2022-11-25,228995,RM20 3DD,F,Y,L,212,,Buttermere Way,West Thurrock,Grays
+2022-11-25,280995,RM20 3DD,F,Y,L,210,,Buttermere Way,West Thurrock,Grays
+2022-11-25,280995,RM20 3DD,F,Y,L,208,,Buttermere Way,West Thurrock,Grays
+2022-11-25,280995,RM20 3DD,F,Y,L,206,,Buttermere Way,West Thurrock,Grays
+2022-11-25,230995,RM20 3DD,F,Y,L,204,,Buttermere Way,West Thurrock,Grays
+2022-11-25,280995,RM20 3DD,F,Y,L,202,,Buttermere Way,West Thurrock,Grays
+2022-11-25,285995,RM20 3DD,F,Y,L,200,,Buttermere Way,West Thurrock,Grays
+2022-11-25,276995,RM20 3DD,F,Y,L,164,,Buttermere Way,West Thurrock,Grays
+2022-11-24,279995,RM20 3DD,F,Y,L,198,,Buttermere Way,West Thurrock,Grays
+2022-11-24,228995,RM20 3DD,F,Y,L,196,,Buttermere Way,West Thurrock,Grays
+2022-11-24,228995,RM20 3DD,F,Y,L,194,,Buttermere Way,West Thurrock,Grays
+2022-11-24,228995,RM20 3DD,F,Y,L,192,,Buttermere Way,West Thurrock,Grays
+2022-11-24,228995,RM20 3DD,F,Y,L,190,,Buttermere Way,West Thurrock,Grays
+2022-11-24,278995,RM20 3DD,F,Y,L,186,,Buttermere Way,West Thurrock,Grays
+2022-11-24,278995,RM20 3DD,F,Y,L,184,,Buttermere Way,West Thurrock,Grays
+2022-11-24,228995,RM20 3DD,F,Y,L,182,,Buttermere Way,West Thurrock,Grays
+2022-11-24,278995,RM20 3DD,F,Y,L,180,,Buttermere Way,West Thurrock,Grays
+2022-11-23,283995,RM20 3DD,F,Y,L,178,,Buttermere Way,West Thurrock,Grays
+2022-11-23,277995,RM20 3DD,F,Y,L,176,,Buttermere Way,West Thurrock,Grays
+2022-11-23,226995,RM20 3DD,F,Y,L,174,,Buttermere Way,West Thurrock,Grays
+2022-11-23,226995,RM20 3DD,F,Y,L,172,,Buttermere Way,West Thurrock,Grays
+2022-11-23,226995,RM20 3DD,F,Y,L,170,,Buttermere Way,West Thurrock,Grays
+2022-11-23,226995,RM20 3DD,F,Y,L,168,,Buttermere Way,West Thurrock,Grays
+2022-11-22,276995,RM20 3DD,F,Y,L,166,,Buttermere Way,West Thurrock,Grays
+2022-11-22,226995,RM20 3DD,F,Y,L,160,,Buttermere Way,West Thurrock,Grays
+2022-11-22,276995,RM20 3DD,F,Y,L,158,,Buttermere Way,West Thurrock,Grays
+2022-11-22,225000,RM20 3AN,F,N,L,Oak Tree House,Flat 53,Schoolfield Road,West Thurrock,Grays
+2022-11-21,275995,RM20 3DD,F,Y,L,154,,Buttermere Way,West Thurrock,Grays
+2022-11-21,224995,RM20 3DD,F,Y,L,150,,Buttermere Way,West Thurrock,Grays
+2022-11-21,224995,RM20 3DD,F,Y,L,148,,Buttermere Way,West Thurrock,Grays
+2022-11-21,224995,RM20 3DD,F,Y,L,146,,Buttermere Way,West Thurrock,Grays
+2022-11-21,274995,RM20 3DD,F,Y,L,144,,Buttermere Way,West Thurrock,Grays
+2022-11-21,274995,RM20 3DD,F,Y,L,140,,Buttermere Way,West Thurrock,Grays
+2022-11-21,279995,RM20 3DD,F,Y,L,138,,Buttermere Way,West Thurrock,Grays
+2022-11-16,230995,RM20 3DD,F,Y,L,216,,Buttermere Way,West Thurrock,Grays
+2022-11-15,310000,RM20 3JF,T,N,F,36,,Charlotte Place,,Grays
+2022-11-10,395000,RM20 4YR,T,N,F,54,,Palmerston Road,,Grays
+2022-11-10,170000,RM20 4AJ,F,N,L,23,,Parsonage Road,,Grays
+2022-11-10,285000,RM20 3BQ,F,N,L,102,,Colliford Road,West Thurrock,Grays
+2022-11-08,335000,RM20 4XU,T,N,F,33,,Charlton Street,,Grays
+2022-11-08,450000,RM20 3AN,T,N,F,9,,Schoolfield Road,West Thurrock,Grays
+2022-10-31,371000,RM20 4AA,T,N,F,359,,London Road,,Grays
+2022-10-28,600000,RM20 4YH,S,N,F,5,,Palmerston Road,,Grays
+2022-10-28,86000,RM20 3BQ,F,N,L,44,,Colliford Road,West Thurrock,Grays
+2022-10-27,220000,RM20 3AF,F,N,L,Witham House,Flat 13,Schoolfield Way,,Grays
+2022-10-24,330000,RM20 4YE,T,N,F,4,,Mill Lane,,Grays
+2022-10-20,277500,RM20 3BQ,F,N,L,80,,Colliford Road,West Thurrock,Grays
+2022-10-14,152500,RM20 4AB,F,N,L,447,,London Road,,Grays
+2022-10-10,392000,RM20 4YJ,T,N,F,12,,Palmerston Gardens,,Grays
+2022-10-05,307250,RM20 4AT,T,N,F,27,,South View Road,,Grays
+2022-10-04,252000,RM20 4XP,F,N,L,9,,Gumley Road,,Grays
+2022-09-29,330000,RM20 3JR,S,N,F,43,,First Avenue,,Grays
+2022-09-29,280000,RM20 3DF,F,N,L,119,,Dovestone Close,West Thurrock,Grays
+2022-09-28,269300,RM20 4BF,F,N,L,37,,The Chase,West Thurrock,Grays
+2022-09-28,152000,RM20 4AG,F,N,L,66,,Parsonage Road,,Grays
+2022-09-26,227000,RM20 4BL,F,N,L,3,,Draper Close,West Thurrock,Grays
+2022-09-26,370000,RM20 3BB,T,N,F,29,,Abberton Way,West Thurrock,Grays
+2022-09-26,445000,RM20 3AP,T,N,F,100,,Schoolfield Road,West Thurrock,Grays
+2022-09-23,295000,RM20 4XU,T,N,F,9,,Charlton Street,,Grays
+2022-09-23,400000,RM20 4AP,D,N,F,3,,Angle Road,,Grays
+2022-09-21,340000,RM20 4YR,T,N,F,8,,Palmerston Road,,Grays
+2022-09-14,300000,RM20 4AP,T,N,F,17,,Angle Road,,Grays
+2022-09-13,159000,RM20 3DG,F,N,L,64,,Dovestone Close,West Thurrock,Grays
+2022-08-31,272000,RM20 3HA,T,N,F,37,,Flint Street,,Grays
+2022-08-26,185000,RM20 4XU,F,N,L,17B,,Charlton Street,,Grays
+2022-08-26,233000,RM20 3HX,F,N,L,"Langton House, 753",Flat 3,London Road,,Grays
+2022-08-26,150500,RM20 3DG,F,N,L,86,,Dovestone Close,West Thurrock,Grays
+2022-08-19,195000,RM20 3AN,F,N,L,Oak Tree House,Flat 59,Schoolfield Road,West Thurrock,Grays
+2022-08-08,325000,RM20 4XJ,T,N,F,21,,East Street,South Stifford,Grays
+2022-08-08,325000,RM20 3JG,T,N,F,25,,Chapel Close,,Grays
+2022-08-01,320000,RM20 4AT,T,N,F,5A,,South View Road,,Grays
+2022-08-01,206250,RM20 3BQ,F,N,L,18,,Colliford Road,West Thurrock,Grays
+2022-07-29,243000,RM20 3HX,F,N,L,"Langton House, 753",Flat 11,London Road,,Grays
+2022-07-29,449995,RM20 3AQ,T,N,F,9,,Fox Field Close,West Thurrock,Grays
+2022-07-28,474995,RM20 3DE,S,Y,F,11,,Buttermere Way,West Thurrock,Grays
+2022-07-27,479995,RM20 3DE,S,Y,F,7,,Buttermere Way,West Thurrock,Grays
+2022-07-25,479995,RM20 3DE,S,Y,F,3,,Buttermere Way,West Thurrock,Grays
+2022-07-25,474995,RM20 3DE,S,Y,F,1,,Buttermere Way,West Thurrock,Grays
+2022-07-22,479995,RM20 3DE,S,Y,F,9,,Buttermere Way,West Thurrock,Grays
+2022-07-22,479995,RM20 3DE,S,Y,F,5,,Buttermere Way,West Thurrock,Grays
+2022-07-19,121000,RM20 3BJ,F,N,L,"Bay House, 584",16,London Road,,Grays
+2022-07-15,125000,RM20 4AX,F,N,L,11,,Hayes Close,,Grays
+2022-07-07,162500,RM20 4AG,F,N,L,46,,Parsonage Road,,Grays
+2022-07-06,210000,RM20 4AS,F,N,L,41,,Porter Close,,Grays
+2022-07-05,147000,RM20 4AJ,F,N,L,25,,Parsonage Road,,Grays
+2022-07-05,215000,RM20 3BQ,F,N,L,74,,Colliford Road,West Thurrock,Grays
+2022-06-14,380000,RM20 4YR,T,N,F,72,,Palmerston Road,,Grays
+2022-05-31,340000,RM20 4AA,T,N,F,391,,London Road,,Grays
+2022-05-30,346995,RM20 3DG,T,Y,F,10,,Dovestone Close,West Thurrock,Grays
+2022-05-27,335000,RM20 3JH,T,N,F,9,,Third Avenue,,Grays
+2022-05-20,221000,RM20 3HX,F,N,L,"Langton House, 753",Flat 5,London Road,,Grays
+2022-05-16,425000,RM20 3AQ,T,N,F,16,,Fox Field Close,West Thurrock,Grays
+2022-05-16,185000,RM20 3AF,F,N,L,Witham House,Flat 23,Schoolfield Way,,Grays
+2022-05-13,300000,RM20 4XJ,T,N,F,30,,East Street,South Stifford,Grays
+2022-05-13,479995,RM20 3BN,T,Y,F,19,,Colliford Road,West Thurrock,Grays
+2022-05-12,268000,RM20 4BU,F,N,L,74,,Devonshire Close,,Grays
+2022-05-03,190000,RM20 4BF,F,N,L,25,,The Chase,West Thurrock,Grays
+2022-04-29,238000,RM20 4BJ,F,N,L,124,,Draper Close,West Thurrock,Grays
+2022-04-29,350000,RM20 4AJ,S,N,F,93,,Parsonage Road,,Grays
+2022-04-29,344995,RM20 3DG,D,Y,F,8,,Dovestone Close,West Thurrock,Grays
+2022-04-29,344995,RM20 3DG,D,Y,F,6,,Dovestone Close,West Thurrock,Grays
+2022-04-29,344995,RM20 3DG,D,Y,F,4,,Dovestone Close,West Thurrock,Grays
+2022-04-29,349995,RM20 3DG,D,Y,F,2,,Dovestone Close,West Thurrock,Grays
+2022-04-27,394995,RM20 3DG,T,Y,F,26,,Dovestone Close,West Thurrock,Grays
+2022-04-27,334995,RM20 3DG,T,Y,F,24,,Dovestone Close,West Thurrock,Grays
+2022-04-25,338995,RM20 3DG,T,Y,F,20,,Dovestone Close,West Thurrock,Grays
+2022-04-22,347000,RM20 4AY,T,N,F,135,,Parsonage Road,,Grays
+2022-04-22,334995,RM20 3DG,T,Y,F,22,,Dovestone Close,West Thurrock,Grays
+2022-04-22,277000,RM20 3BQ,F,N,L,94,,Colliford Road,West Thurrock,Grays
+2022-04-21,272000,RM20 4BU,F,N,L,72,,Devonshire Close,,Grays
+2022-04-14,337500,RM20 3JR,S,N,F,42,,First Avenue,,Grays
+2022-04-14,265000,RM20 3HA,T,N,F,33,,Flint Street,,Grays
+2022-04-01,266995,RM20 3DF,F,Y,L,15,,Dovestone Close,West Thurrock,Grays
+2022-03-31,285000,RM20 4AB,T,N,F,419,,London Road,,Grays
+2022-03-29,267000,RM20 4XU,T,N,F,35,,Charlton Street,,Grays
+2022-03-25,295000,RM20 4AB,T,N,F,362,,London Road,,Grays
+2022-03-25,338995,RM20 3DG,T,Y,F,18,,Dovestone Close,West Thurrock,Grays
+2022-03-25,334995,RM20 3DG,T,Y,F,16,,Dovestone Close,West Thurrock,Grays
+2022-03-17,178000,RM20 4BF,F,N,L,6,,The Chase,West Thurrock,Grays
+2022-03-16,300000,RM20 3BT,S,N,F,8,,Jubilee Road,,Grays
+2022-03-11,272500,RM20 3BP,T,N,F,3,,Elm Terrace,,Grays
+2022-03-04,235000,RM20 4BJ,F,N,L,112,,Draper Close,West Thurrock,Grays
+2022-02-28,173000,RM20 4AJ,F,N,L,15,,Parsonage Road,,Grays
+2022-02-25,334995,RM20 3DG,T,Y,F,14,,Dovestone Close,West Thurrock,Grays
+2022-02-25,392995,RM20 3DG,T,Y,F,12,,Dovestone Close,West Thurrock,Grays
+2022-02-25,261995,RM20 3DF,F,Y,L,5,,Dovestone Close,West Thurrock,Grays
+2022-02-25,268995,RM20 3DF,F,Y,L,43,,Dovestone Close,West Thurrock,Grays
+2022-02-25,217995,RM20 3DF,F,Y,L,41,,Dovestone Close,West Thurrock,Grays
+2022-02-25,217995,RM20 3DF,F,Y,L,39,,Dovestone Close,West Thurrock,Grays
+2022-02-25,268995,RM20 3DF,F,Y,L,37,,Dovestone Close,West Thurrock,Grays
+2022-02-25,268995,RM20 3DF,F,Y,L,35,,Dovestone Close,West Thurrock,Grays
+2022-02-25,265995,RM20 3DF,F,Y,L,33,,Dovestone Close,West Thurrock,Grays
+2022-02-25,268995,RM20 3DF,F,Y,L,31,,Dovestone Close,West Thurrock,Grays
+2022-02-25,267995,RM20 3DF,F,Y,L,29,,Dovestone Close,West Thurrock,Grays
+2022-02-25,266995,RM20 3DF,F,Y,L,19,,Dovestone Close,West Thurrock,Grays
+2022-02-25,264995,RM20 3DF,F,Y,L,11,,Dovestone Close,West Thurrock,Grays
+2022-02-24,264995,RM20 3DF,F,Y,L,9,,Dovestone Close,West Thurrock,Grays
+2022-02-24,264995,RM20 3DF,F,Y,L,7,,Dovestone Close,West Thurrock,Grays
+2022-02-24,213995,RM20 3DF,F,Y,L,3,,Dovestone Close,West Thurrock,Grays
+2022-02-24,266995,RM20 3DF,F,Y,L,27,,Dovestone Close,West Thurrock,Grays
+2022-02-24,215995,RM20 3DF,F,Y,L,25,,Dovestone Close,West Thurrock,Grays
+2022-02-24,215995,RM20 3DF,F,Y,L,23,,Dovestone Close,West Thurrock,Grays
+2022-02-24,266995,RM20 3DF,F,Y,L,21,,Dovestone Close,West Thurrock,Grays
+2022-02-24,263995,RM20 3DF,F,Y,L,17,,Dovestone Close,West Thurrock,Grays
+2022-02-24,265995,RM20 3DF,F,Y,L,13,,Dovestone Close,West Thurrock,Grays
+2022-02-24,263995,RM20 3DF,F,Y,L,1,,Dovestone Close,West Thurrock,Grays
+2022-02-21,286000,RM20 4AP,T,N,F,8,,Angle Road,,Grays
+2022-02-17,92500,RM20 3BJ,F,N,L,"Bay House, 584",24,London Road,,Grays
+2022-02-11,331000,RM20 3BH,T,N,F,6,,Loweswater Way,West Thurrock,Grays
+2022-02-04,267995,RM20 3DF,F,Y,L,141,,Dovestone Close,West Thurrock,Grays
+2022-01-31,375000,RM20 3HX,S,N,F,622,,London Road,,Grays
+2022-01-31,235000,RM20 3AN,F,N,L,Oak Tree House,Flat 31,Schoolfield Road,West Thurrock,Grays
+2022-01-28,293000,RM20 4AE,T,N,F,31,,Florence Close,,Grays
+2022-01-28,394995,RM20 3DG,T,Y,F,42,,Dovestone Close,West Thurrock,Grays
+2022-01-28,336995,RM20 3DG,T,Y,F,34,,Dovestone Close,West Thurrock,Grays
+2022-01-28,332995,RM20 3DG,T,Y,F,32,,Dovestone Close,West Thurrock,Grays
+2022-01-28,332995,RM20 3DG,T,Y,F,30,,Dovestone Close,West Thurrock,Grays
+2022-01-28,394995,RM20 3DG,T,Y,F,28,,Dovestone Close,West Thurrock,Grays
+2022-01-28,446495,RM20 3DF,S,Y,F,71,,Dovestone Close,West Thurrock,Grays
+2022-01-27,312000,RM20 4AE,T,N,F,35,,Florence Close,,Grays
+2022-01-27,394995,RM20 3DF,T,N,F,61,,Dovestone Close,West Thurrock,Grays
+2022-01-27,396995,RM20 3DF,S,N,F,45,,Dovestone Close,West Thurrock,Grays
+2022-01-25,398995,RM20 3DF,S,Y,F,47,,Dovestone Close,West Thurrock,Grays
+2022-01-25,263500,RM20 3BQ,F,N,L,82,,Colliford Road,West Thurrock,Grays
+2021-12-23,406000,RM20 3AF,T,N,F,46,,Schoolfield Way,,Grays
+2021-12-17,335000,RM20 4YP,T,N,F,142,,Palmerston Road,,Grays
+2021-12-17,332995,RM20 3DG,T,Y,F,40,,Dovestone Close,West Thurrock,Grays
+2021-12-17,332995,RM20 3DG,T,Y,F,38,,Dovestone Close,West Thurrock,Grays
+2021-12-17,336995,RM20 3DG,T,Y,F,36,,Dovestone Close,West Thurrock,Grays
+2021-12-10,290000,RM20 4XU,T,N,F,19,,Charlton Street,,Grays
+2021-12-10,275000,RM20 4AD,T,N,F,489,,London Road,,Grays
+2021-12-10,255000,RM20 3JF,T,N,F,7,,Charlotte Place,,Grays
+2021-12-09,117500,RM20 4AX,F,N,L,29,,Hayes Close,,Grays
+2021-11-30,336995,RM20 3DF,T,N,F,53,,Dovestone Close,West Thurrock,Grays
+2021-11-29,332995,RM20 3DF,T,N,F,59,,Dovestone Close,West Thurrock,Grays
+2021-11-29,336995,RM20 3DF,T,N,F,55,,Dovestone Close,West Thurrock,Grays
+2021-11-29,332995,RM20 3DF,T,Y,F,51,,Dovestone Close,West Thurrock,Grays
+2021-11-29,336995,RM20 3DF,T,Y,F,49,,Dovestone Close,West Thurrock,Grays
+2021-11-26,260000,RM20 3JF,T,N,F,19,,Charlotte Place,,Grays
+2021-11-19,200000,RM20 4BJ,F,N,L,18,,Draper Close,West Thurrock,Grays
+2021-11-17,310000,RM20 4XU,T,N,F,21,,Charlton Street,,Grays
+2021-11-12,123000,RM20 4AW,F,N,L,216,,Parsonage Road,,Grays
+2021-11-12,290000,RM20 4AE,T,N,F,15,,Florence Close,,Grays
+2021-11-05,275000,RM20 4YL,T,N,F,89,,Palmerston Road,,Grays
+2021-10-29,469995,RM20 3DG,S,N,F,48,,Dovestone Close,West Thurrock,Grays
+2021-10-29,469995,RM20 3DG,S,N,F,46,,Dovestone Close,West Thurrock,Grays
+2021-10-28,469995,RM20 3DG,S,N,F,50,,Dovestone Close,West Thurrock,Grays
+2021-10-28,332995,RM20 3DF,T,N,F,57,,Dovestone Close,West Thurrock,Grays
+2021-10-27,469995,RM20 3DG,S,N,F,54,,Dovestone Close,West Thurrock,Grays
+2021-10-27,469995,RM20 3DG,S,N,F,52,,Dovestone Close,West Thurrock,Grays
+2021-10-22,242000,RM20 4XU,T,N,F,41,,Charlton Street,,Grays
+2021-10-19,205000,RM20 4BJ,F,N,L,4,,Draper Close,West Thurrock,Grays
+2021-10-15,305000,RM20 4AJ,T,N,F,53,,Parsonage Road,,Grays
+2021-10-15,446496,RM20 3DF,T,Y,F,63,,Dovestone Close,West Thurrock,Grays
+2021-10-11,250000,RM20 3HL,T,N,F,687,,London Road,,Grays
+2021-09-30,240000,RM20 4BP,F,N,L,4,,Chase Way,,Grays
+2021-09-30,221000,RM20 4AT,T,N,F,9,,South View Road,,Grays
+2021-09-30,261995,RM20 3DF,F,N,L,83,,Dovestone Close,West Thurrock,Grays
+2021-09-30,446495,RM20 3DF,S,Y,F,67,,Dovestone Close,West Thurrock,Grays
+2021-09-29,280000,RM20 3HT,T,N,F,Tunnel Cottages,5,The Rookery,,Grays
+2021-09-29,446496,RM20 3DF,S,Y,F,69,,Dovestone Close,West Thurrock,Grays
+2021-09-28,260000,RM20 4YL,T,N,F,91,,Palmerston Road,,Grays
+2021-09-27,127000,RM20 4AS,F,N,L,80,,Porter Close,,Grays
+2021-09-27,469995,RM20 3DF,T,N,F,73,,Dovestone Close,West Thurrock,Grays
+2021-09-24,230000,RM20 4BJ,F,N,L,94,,Draper Close,West Thurrock,Grays
+2021-09-22,473000,RM20 4YH,D,N,F,3,,Palmerston Road,,Grays
+2021-09-13,330000,RM20 4YH,T,N,F,43,,Palmerston Road,,Grays
+2021-09-10,320000,RM20 4AT,T,N,F,38,,South View Road,,Grays
+2021-09-03,308000,RM20 4AB,T,N,F,431,,London Road,,Grays
+2021-09-03,225000,RM20 3HX,F,N,L,"Langton House, 753",Flat 7,London Road,,Grays
+2021-09-03,200000,RM20 3BW,F,N,L,58,,Carrowmore Close,West Thurrock,Grays
+2021-09-03,190000,RM20 3AN,F,N,L,Oak Tree House,Flat 67,Schoolfield Road,West Thurrock,Grays
+2021-09-01,219000,RM20 4BF,F,N,L,39,,The Chase,West Thurrock,Grays
+2021-08-27,250000,RM20 3JA,T,N,F,6,,Essex Road,,Grays
+2021-08-27,323995,RM20 3BB,T,Y,F,28,,Abberton Way,West Thurrock,Grays
+2021-08-26,210000,RM20 4BF,F,N,L,23,,The Chase,West Thurrock,Grays
+2021-08-26,323995,RM20 3BB,T,N,F,22,,Abberton Way,West Thurrock,Grays
+2021-08-25,296000,RM20 3JA,T,N,F,22,,Essex Road,,Grays
+2021-08-25,319995,RM20 3BB,T,N,F,26,,Abberton Way,West Thurrock,Grays
+2021-08-25,319995,RM20 3BB,T,N,F,24,,Abberton Way,West Thurrock,Grays
+2021-08-20,320000,RM20 4AY,S,N,F,119,,Parsonage Road,,Grays
+2021-08-20,265000,RM20 3JG,T,N,F,9,,Chapel Close,,Grays
+2021-08-13,100000,RM20 4BU,F,Y,L,82,,Devonshire Close,,Grays
+2021-08-13,225000,RM20 3AF,F,N,L,Witham House,Flat 39,Schoolfield Way,,Grays
+2021-08-06,263995,RM20 3DF,T,Y,L,91,,Dovestone Close,West Thurrock,Grays
+2021-07-30,205000,RM20 4BJ,F,N,L,136,,Draper Close,West Thurrock,Grays
+2021-07-23,140000,RM20 4AJ,F,N,L,29,,Parsonage Road,,Grays
+2021-07-23,390000,RM20 3AF,T,N,F,50,,Schoolfield Way,,Grays
+2021-07-20,80000,RM20 3BQ,F,N,L,30,,Colliford Road,West Thurrock,Grays
+2021-07-16,217500,RM20 3AJ,F,N,L,Morley House,Flat 16,Schoolfield Road,,Grays
+2021-07-15,210000,RM20 3AF,F,N,L,Witham House,Flat 19,Schoolfield Way,,Grays
+2021-07-09,212000,RM20 4BP,F,N,L,6,,Chase Way,,Grays
+2021-06-30,146250,RM20 4BU,F,Y,L,78,,Devonshire Close,,Grays
+2021-06-30,375000,RM20 4AD,T,N,F,523,,London Road,,Grays
+2021-06-29,325000,RM20 4XW,D,N,F,34,,Moore Avenue,,Grays
+2021-06-28,393000,RM20 3HB,T,N,F,35,,The Rookery,,Grays
+2021-06-21,264000,RM20 4YR,T,N,F,14,,Palmerston Road,,Grays
+2021-06-21,318500,RM20 3JR,S,N,F,6,,First Avenue,,Grays
+2021-06-18,134750,RM20 4BU,F,Y,L,90,,Devonshire Close,,Grays
+2021-06-18,270000,RM20 4BQ,T,N,F,7,,Gumley Close,,Grays
+2021-06-17,215000,RM20 4BF,F,N,L,11,,The Chase,West Thurrock,Grays
+2021-06-17,355000,RM20 4AP,D,N,F,4,,Angle Road,,Grays
+2021-06-11,283000,RM20 4AA,T,N,F,355,,London Road,,Grays
+2021-06-10,335000,RM20 4AN,T,N,F,23,,Oakley Close,,Grays
+2021-06-07,267000,RM20 4XU,T,N,F,29,,Charlton Street,,Grays
+2021-06-02,325000,RM20 4AX,S,N,F,2,,Hayes Close,,Grays
+2021-06-01,413000,RM20 4AY,T,N,F,141,,Parsonage Road,,Grays
+2021-05-28,212500,RM20 4BL,F,N,L,45,,Draper Close,West Thurrock,Grays
+2021-05-14,108000,RM20 4BU,F,Y,L,88,,Devonshire Close,,Grays
+2021-05-07,333000,RM20 4YJ,T,N,F,15,,Palmerston Gardens,,Grays
+2021-04-30,315000,RM20 4YE,T,N,F,41,,Mill Lane,,Grays
+2021-04-30,98000,RM20 4BU,F,Y,L,92,,Devonshire Close,,Grays
+2021-04-30,499995,RM20 4BU,D,Y,F,8,,Devonshire Close,,Grays
+2021-04-30,127500,RM20 4BU,F,Y,L,102,,Devonshire Close,,Grays
+2021-04-30,499995,RM20 4BU,D,Y,F,10,,Devonshire Close,,Grays
+2021-04-30,151500,RM20 4AS,F,N,L,5,,Porter Close,,Grays
+2021-04-28,80000,RM20 4BU,F,Y,L,76,,Devonshire Close,,Grays
+2021-04-23,280000,RM20 4YR,T,N,F,56,,Palmerston Road,,Grays
+2021-04-23,254995,RM20 4BU,F,Y,L,38,,Devonshire Close,,Grays
+2021-04-16,264995,RM20 4BU,F,Y,L,36,,Devonshire Close,,Grays
+2021-04-09,459995,RM20 3BD,D,Y,F,8,,Killarney Crescent,West Thurrock,Grays
+2021-04-01,352000,RM20 4XN,T,N,F,99,,Moore Avenue,,Grays
+2021-03-31,499995,RM20 4BU,D,Y,F,4,,Devonshire Close,,Grays
+2021-03-31,247000,RM20 3HL,T,N,F,679,,London Road,,Grays
+2021-03-30,125000,RM20 4BU,F,Y,L,98,,Devonshire Close,,Grays
+2021-03-29,350000,RM20 3AF,T,N,F,10,,Schoolfield Way,,Grays
+2021-03-26,98000,RM20 4BU,F,Y,L,86,,Devonshire Close,,Grays
+2021-03-26,499995,RM20 4BU,D,Y,F,6,,Devonshire Close,,Grays
+2021-03-26,499995,RM20 4BU,D,Y,F,2,,Devonshire Close,,Grays
+2021-03-26,245000,RM20 3JF,T,N,F,18,,Charlotte Place,,Grays
+2021-03-25,240000,RM20 4AR,T,N,F,504,,London Road,,Grays
+2021-03-25,469995,RM20 3BD,D,Y,F,25,,Killarney Crescent,West Thurrock,Grays
+2021-03-24,100000,RM20 4BU,F,Y,L,94,,Devonshire Close,,Grays
+2021-03-22,108000,RM20 4BU,F,Y,L,84,,Devonshire Close,,Grays
+2021-03-19,295000,RM20 4XN,S,N,F,9,,Moore Avenue,,Grays
+2021-03-19,239995,RM20 4BU,F,Y,L,22,,Devonshire Close,,Grays
+2021-03-19,318995,RM20 3BD,T,Y,F,5,,Killarney Crescent,West Thurrock,Grays
+2021-03-19,313995,RM20 3BD,T,Y,F,3,,Killarney Crescent,West Thurrock,Grays
+2021-03-18,249995,RM20 4BU,F,Y,L,42,,Devonshire Close,,Grays
+2021-03-18,244995,RM20 4BU,F,Y,L,30,,Devonshire Close,,Grays
+2021-03-17,254995,RM20 4BU,F,Y,L,40,,Devonshire Close,,Grays
+2021-03-17,249995,RM20 4BU,F,Y,L,28,,Devonshire Close,,Grays
+2021-03-17,313995,RM20 3BD,T,Y,F,6,,Killarney Crescent,West Thurrock,Grays
+2021-03-16,244995,RM20 4BU,F,Y,L,34,,Devonshire Close,,Grays
+2021-03-16,249995,RM20 4BU,F,Y,L,32,,Devonshire Close,,Grays
+2021-03-16,249995,RM20 4BU,F,Y,L,20,,Devonshire Close,,Grays
+2021-03-16,318995,RM20 3BD,T,Y,F,4,,Killarney Crescent,West Thurrock,Grays
+2021-03-16,318995,RM20 3BD,T,Y,F,1,,Killarney Crescent,West Thurrock,Grays
+2021-03-15,244995,RM20 4BU,F,Y,L,26,,Devonshire Close,,Grays
+2021-03-15,244995,RM20 4BU,F,Y,L,24,,Devonshire Close,,Grays
+2021-03-15,234995,RM20 4BU,F,Y,L,18,,Devonshire Close,,Grays
+2021-03-15,250000,RM20 4BP,F,N,F,1,,Chase Way,,Grays
+2021-03-15,318995,RM20 3BD,T,Y,F,7,,Killarney Crescent,West Thurrock,Grays
+2021-03-15,313995,RM20 3BD,T,Y,F,2,,Killarney Crescent,West Thurrock,Grays
+2021-03-12,255000,RM20 3BJ,T,N,F,580,,London Road,,Grays
+2021-03-11,255000,RM20 3DF,F,Y,L,129,,Dovestone Close,West Thurrock,Grays
+2021-03-08,130000,RM20 4AX,F,N,L,48,,Hayes Close,,Grays
+2021-03-08,389995,RM20 3BD,T,Y,F,9,,Killarney Crescent,West Thurrock,Grays
+2021-03-05,340000,RM20 3HB,D,N,F,18,,The Rookery,,Grays
+2021-03-05,265995,RM20 3DF,F,Y,L,111,,Dovestone Close,West Thurrock,Grays
+2021-03-05,215000,RM20 3BJ,F,N,L,"Bay House, 584",22,London Road,,Grays
+2021-02-26,320000,RM20 4XW,S,N,F,2,,Moore Avenue,,Grays
+2021-02-26,215000,RM20 4XL,F,N,L,The Flats,6,Moore Avenue,,Grays
+2021-02-26,331995,RM20 3BD,T,Y,F,15,,Killarney Crescent,West Thurrock,Grays
+2021-02-26,331995,RM20 3BD,T,Y,F,14,,Killarney Crescent,West Thurrock,Grays
+2021-02-26,332995,RM20 3BD,T,Y,F,13,,Killarney Crescent,West Thurrock,Grays
+2021-02-26,332995,RM20 3BD,T,Y,F,12,,Killarney Crescent,West Thurrock,Grays
+2021-02-26,327495,RM20 3BD,T,Y,F,11,,Killarney Crescent,West Thurrock,Grays
+2021-02-26,331995,RM20 3BD,T,Y,F,10,,Killarney Crescent,West Thurrock,Grays
+2021-02-26,325000,RM20 3AQ,S,N,F,20,,Fox Field Close,West Thurrock,Grays
+2021-02-24,389995,RM20 3BD,T,Y,F,16,,Killarney Crescent,West Thurrock,Grays
+2021-02-22,285000,RM20 4AJ,S,N,F,83,,Parsonage Road,,Grays
+2021-02-19,354200,RM20 4BL,T,N,F,69,,Draper Close,West Thurrock,Grays
+2021-02-19,375000,RM20 3AF,T,N,F,44,,Schoolfield Way,,Grays
+2021-02-18,262000,RM20 4XU,T,N,F,64,,Charlton Street,,Grays
+2021-02-15,322500,RM20 4YR,T,N,F,70,,Palmerston Road,,Grays
+2021-02-15,210000,RM20 4BL,F,N,L,9,,Draper Close,West Thurrock,Grays
+2021-02-12,255000,RM20 3DF,F,Y,L,75,,Dovestone Close,West Thurrock,Grays
+2021-02-05,296000,RM20 4AT,T,N,F,26,,South View Road,,Grays
+2021-02-04,275000,RM20 3JB,S,N,F,12,,Second Avenue,,Grays
+2021-02-04,267995,RM20 3DF,F,N,L,143,,Dovestone Close,West Thurrock,Grays
+2021-02-01,290000,RM20 4BQ,T,N,F,3,,Gumley Close,,Grays
+2021-02-01,267995,RM20 3DF,F,Y,L,149,,Dovestone Close,West Thurrock,Grays
+2021-01-29,254995,RM20 4BU,F,Y,L,74,,Devonshire Close,,Grays
+2021-01-29,249995,RM20 4BU,F,Y,L,70,,Devonshire Close,,Grays
+2021-01-29,249995,RM20 4BU,F,Y,L,66,,Devonshire Close,,Grays
+2021-01-29,244995,RM20 4BU,F,Y,L,62,,Devonshire Close,,Grays
+2021-01-29,254995,RM20 4BU,F,Y,L,60,,Devonshire Close,,Grays
+2021-01-29,216995,RM20 3DF,F,N,L,137,,Dovestone Close,West Thurrock,Grays
+2021-01-29,217995,RM20 3DF,F,Y,L,135,,Dovestone Close,West Thurrock,Grays
+2021-01-29,265995,RM20 3DF,F,Y,L,121,,Dovestone Close,West Thurrock,Grays
+2021-01-29,389995,RM20 3BD,T,Y,F,24,,Killarney Crescent,West Thurrock,Grays
+2021-01-28,254995,RM20 4BU,F,Y,L,72,,Devonshire Close,,Grays
+2021-01-28,259995,RM20 4BU,F,Y,L,68,,Devonshire Close,,Grays
+2021-01-28,254995,RM20 4BU,F,Y,L,64,,Devonshire Close,,Grays
+2021-01-28,240995,RM20 4BU,F,Y,L,58,,Devonshire Close,,Grays
+2021-01-28,244995,RM20 4BU,F,Y,L,54,,Devonshire Close,,Grays
+2021-01-28,244995,RM20 4BU,F,Y,L,52,,Devonshire Close,,Grays
+2021-01-28,211995,RM20 3DF,F,Y,L,79,,Dovestone Close,West Thurrock,Grays
+2021-01-28,267995,RM20 3DF,F,Y,L,147,,Dovestone Close,West Thurrock,Grays
+2021-01-28,267995,RM20 3DF,F,Y,L,145,,Dovestone Close,West Thurrock,Grays
+2021-01-28,217995,RM20 3DF,F,Y,L,133,,Dovestone Close,West Thurrock,Grays
+2021-01-28,267995,RM20 3DF,F,Y,L,131,,Dovestone Close,West Thurrock,Grays
+2021-01-28,265995,RM20 3DF,F,Y,L,127,,Dovestone Close,West Thurrock,Grays
+2021-01-28,265995,RM20 3DF,F,Y,L,125,,Dovestone Close,West Thurrock,Grays
+2021-01-28,265995,RM20 3DF,F,N,L,123,,Dovestone Close,West Thurrock,Grays
+2021-01-28,263995,RM20 3DF,F,Y,L,119,,Dovestone Close,West Thurrock,Grays
+2021-01-28,214995,RM20 3DF,F,N,L,117,,Dovestone Close,West Thurrock,Grays
+2021-01-28,215995,RM20 3DF,F,Y,L,113,,Dovestone Close,West Thurrock,Grays
+2021-01-28,389995,RM20 3BD,T,Y,F,17,,Killarney Crescent,West Thurrock,Grays
+2021-01-27,261995,RM20 3DF,F,Y,L,99,,Dovestone Close,West Thurrock,Grays
+2021-01-27,212995,RM20 3DF,F,N,L,97,,Dovestone Close,West Thurrock,Grays
+2021-01-27,213995,RM20 3DF,F,Y,L,95,,Dovestone Close,West Thurrock,Grays
+2021-01-27,213995,RM20 3DF,F,Y,L,93,,Dovestone Close,West Thurrock,Grays
+2021-01-27,265995,RM20 3DF,F,Y,L,139,,Dovestone Close,West Thurrock,Grays
+2021-01-27,263995,RM20 3DF,F,Y,L,109,,Dovestone Close,West Thurrock,Grays
+2021-01-27,263995,RM20 3DF,F,Y,L,107,,Dovestone Close,West Thurrock,Grays
+2021-01-27,263995,RM20 3DF,F,Y,L,105,,Dovestone Close,West Thurrock,Grays
+2021-01-27,263995,RM20 3DF,F,N,L,103,,Dovestone Close,West Thurrock,Grays
+2021-01-27,263995,RM20 3DF,F,Y,L,101,,Dovestone Close,West Thurrock,Grays
+2021-01-26,261995,RM20 3DF,F,Y,L,89,,Dovestone Close,West Thurrock,Grays
+2021-01-26,261995,RM20 3DF,F,Y,L,87,,Dovestone Close,West Thurrock,Grays
+2021-01-26,261995,RM20 3DF,F,Y,L,85,,Dovestone Close,West Thurrock,Grays
+2021-01-26,261995,RM20 3DF,F,Y,L,81,,Dovestone Close,West Thurrock,Grays
+2021-01-26,211995,RM20 3DF,F,Y,L,77,,Dovestone Close,West Thurrock,Grays
+2021-01-26,331995,RM20 3BD,T,Y,F,21,,Killarney Crescent,West Thurrock,Grays
+2021-01-22,235000,RM20 4XP,F,N,L,9,,Gumley Road,,Grays
+2021-01-21,329995,RM20 3BD,T,Y,F,22,,Killarney Crescent,West Thurrock,Grays
+2021-01-18,329995,RM20 3BD,T,Y,F,23,,Killarney Crescent,West Thurrock,Grays
+2021-01-14,329995,RM20 3BD,T,Y,F,20,,Killarney Crescent,West Thurrock,Grays
+2021-01-12,280000,RM20 4AT,T,N,F,20,,South View Road,,Grays
+2021-01-12,270000,RM20 4AD,T,N,F,511,,London Road,,Grays
+2021-01-11,400000,RM20 4BP,D,N,F,2,,Chase Way,,Grays

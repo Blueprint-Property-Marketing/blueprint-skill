@@ -1,0 +1,416 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-04,700000,LA22 0DF,D,N,F,41,,Lake Road,,Ambleside
+2026-08-03,345000,LA22 0QP,D,N,F,11,,Kings Yard,Hawkshead,Ambleside
+2026-07-14,830000,LA22 0DH,D,N,F,Cobblestones,,Old Lake Road,,Ambleside
+2026-07-06,432000,LA22 9EN,S,N,F,Fellside,,Edinboro,,Ambleside
+2026-07-06,425000,LA22 0LZ,F,N,L,The Ferry House,1,,Far Sawrey,Ambleside
+2026-06-29,238000,LA22 9HG,D,N,F,Dock Tarn,,Neaum Crag,Skelwith Bridge,Ambleside
+2026-06-18,267000,LA22 9BE,T,N,F,22,,High Greenbank,,Ambleside
+2026-06-17,325000,LA22 9AG,F,N,L,Oakland,Flat 5,Millans Park,,Ambleside
+2026-05-29,375000,LA22 0DY,T,N,F,5,,Loughrigg Park,,Ambleside
+2026-05-15,243000,LA22 9DX,T,N,F,12,,Kirkfield Rise,,Ambleside
+2026-04-30,320000,LA22 9DP,F,N,L,Smallwood House,Apartment 2,Compston Street,,Ambleside
+2026-04-30,295000,LA22 0BD,F,N,L,The Lakelands,Flat 16,Lower Gale,,Ambleside
+2026-04-24,375000,LA22 9RD,S,N,F,17,,Benfield,Grasmere,Ambleside
+2026-04-22,712000,LA22 0QG,S,N,F,Longcroft End,,,Roger Ground,Ambleside
+2026-03-31,850000,LA22 0PU,D,N,F,Low Fold,,,Outgate,Ambleside
+2026-03-27,440000,LA22 9DJ,T,N,F,Oak Lea,,Compston Road,,Ambleside
+2026-03-06,600000,LA22 0BN,D,N,F,4,,Gale Park,,Ambleside
+2026-02-27,430000,LA22 9AJ,S,N,F,Mountain View,,Rydal View,,Ambleside
+2026-02-17,950000,LA22 0QZ,D,N,F,9,,Stockghyll Brow,,Ambleside
+2026-02-02,700000,LA22 0DT,D,N,F,Low Brow Barn,,,Waterhead,Ambleside
+2026-01-07,750000,LA22 9QF,T,N,F,Hollins Farm,The Beeches,,Grasmere,Ambleside
+2025-12-19,320000,LA22 0AP,F,N,L,10,,Blue Hill Park,,Ambleside
+2025-12-10,250000,LA22 9HA,T,N,F,7,,Kirkfield,,Ambleside
+2025-11-28,694000,LA22 9JJ,D,N,F,Thrang View,,,Chapel Stile,Ambleside
+2025-11-21,325000,LA22 9BE,F,N,L,Beckside,3,High Greenbank,,Ambleside
+2025-11-05,700000,LA22 0DQ,D,N,F,The Brandrith,8,Lake Road,,Ambleside
+2025-11-03,735000,LA22 9NJ,T,N,F,1,,Riverside Cottages,Skelwith Bridge,Ambleside
+2025-10-28,250000,LA22 9DJ,S,N,L,Hilmar,,Compston Road,,Ambleside
+2025-10-21,515000,LA22 0DY,D,N,F,1,,Loughrigg Park,,Ambleside
+2025-09-26,335000,LA22 0AL,F,N,L,4,,Badgers Rake,,Ambleside
+2025-09-18,247000,LA22 9EH,F,N,L,Kirkstone Foot,Easedale,Kirkstone Road,,Ambleside
+2025-09-10,555000,LA22 0BD,T,N,F,1,,Lower Gale,,Ambleside
+2025-09-05,265000,LA22 9BQ,T,N,F,47,,Castlefield,,Ambleside
+2025-09-02,840000,LA22 0QZ,D,N,F,6,,Stockghyll Brow,,Ambleside
+2025-09-02,465000,LA22 0QX,T,N,F,2,,Stockghyll Court,,Ambleside
+2025-08-29,581119,LA22 0EG,D,N,F,Reed How,,Wansfell Road,,Ambleside
+2025-08-22,622000,LA22 0NS,T,N,F,Wansfell View,,Main Street,Hawkshead,Ambleside
+2025-08-22,442000,LA22 0FB,T,N,F,2,,Black Beck Road,Hawkshead,Ambleside
+2025-08-21,1450000,LA22 9RH,D,N,F,Stonecroft,,,Grasmere,Ambleside
+2025-08-21,610000,LA22 9RH,D,N,F,Rowlands,,,Grasmere,Ambleside
+2025-08-08,390000,LA22 9JJ,T,N,F,2,,Church View,Chapel Stile,Ambleside
+2025-08-07,957500,LA22 9QR,D,N,F,The Delph,,,Grasmere,Ambleside
+2025-08-05,320000,LA22 9DT,T,N,F,Fellcroft,,North Road,,Ambleside
+2025-08-01,323750,LA22 9AG,F,N,L,Oakland,Flat 4,Millans Park,,Ambleside
+2025-08-01,450000,LA22 0LL,S,N,F,Bryers Brow,1,,Far Sawrey,Ambleside
+2025-07-29,355000,LA22 0QX,T,N,F,5,,Stockghyll Court,,Ambleside
+2025-07-18,215000,LA22 9BE,S,N,L,10,,High Greenbank,,Ambleside
+2025-07-18,555000,LA22 0JT,S,N,F,Crookthwaite Cottage,,,Colthouse,Ambleside
+2025-07-11,991000,LA22 9QN,S,N,F,Helm End,,,Grasmere,Ambleside
+2025-07-10,665000,LA22 9QY,D,N,F,Redmayne,,,Grasmere,Ambleside
+2025-07-10,305000,LA22 0BA,F,N,L,Gale Rigg House,Flat 5,Gale Rigg,,Ambleside
+2025-06-26,1000000,LA22 9SQ,D,N,F,Howe Foot Lodge,,,Grasmere,Ambleside
+2025-06-26,485000,LA22 0LG,D,N,L,Sawrey Knotts,Windermere House,,Far Sawrey,Ambleside
+2025-06-20,290090,LA22 0HZ,T,N,F,Garden Cottage,,,Pull Woods,Ambleside
+2025-06-18,445000,LA22 0EN,D,N,F,Birch Knoll,,Borrans Road,,Ambleside
+2025-06-10,282000,LA22 9BD,T,N,F,9,,Greenbank Road,,Ambleside
+2025-06-10,910000,LA22 9AG,S,N,F,Fieldside,,Millans Park,,Ambleside
+2025-05-30,375000,LA22 0PH,T,N,F,2,,Brown Cow Cottages,Hawkshead,Ambleside
+2025-05-28,210000,LA22 9BE,F,N,L,9,,High Greenbank,,Ambleside
+2025-05-02,635000,LA22 0NR,D,N,F,The Galleon,,,Hawkshead,Ambleside
+2025-05-01,950000,LA22 9AU,D,N,F,The Haven,,The Green,,Ambleside
+2025-04-04,620000,LA22 9SA,F,N,L,Loughrigg Brow,Apartment 1,,Under Loughrigg,Ambleside
+2025-03-31,506000,LA22 9PT,S,N,F,Pavement End House,,,Grasmere,Ambleside
+2025-03-31,1160000,LA22 9EZ,D,N,F,Brae Holme,,Belle Vue Lane,,Ambleside
+2025-03-31,400000,LA22 0BG,D,N,F,Lilac Cottage,,High Gale,,Ambleside
+2025-03-31,290000,LA22 0AQ,T,N,F,Busk Cottages,5,Blue Hill Road,,Ambleside
+2025-03-28,600000,LA22 9DT,D,N,F,Ghyllbank,,North Road,,Ambleside
+2025-03-24,497500,LA22 9SY,T,N,F,3,,Beck Steps,Grasmere,Ambleside
+2025-03-24,472500,LA22 9LJ,F,N,L,Miller Bridge House,Flat 1,,,Ambleside
+2025-03-20,330000,LA22 0BD,F,N,L,The Lakelands,Flat 20,Lower Gale,,Ambleside
+2025-03-18,130000,LA22 9SZ,F,N,L,Beck Allans,Apartment 6,College Street,Grasmere,Ambleside
+2025-03-17,217500,LA22 9HG,D,N,F,Bright Tarn,,Neaum Crag,Skelwith Bridge,Ambleside
+2025-03-17,437500,LA22 0NS,F,N,L,The Old Police Station,Apartment 5,Main Street,Hawkshead,Ambleside
+2025-03-14,790000,LA22 9ER,D,N,F,4,,Broadmire Head,,Ambleside
+2025-02-28,340000,LA22 9DP,F,N,L,Smallwood House,Apartment 3,Compston Street,,Ambleside
+2025-02-28,705000,LA22 0PS,S,N,F,South View Cottage,,,Hawkshead Hill,Ambleside
+2025-02-27,475000,LA22 0LZ,F,N,L,The Ferry House,3,,Far Sawrey,Ambleside
+2025-02-12,750000,LA22 9EU,S,N,F,Ellerbank,,Ellerigg Road,,Ambleside
+2025-01-30,201746,LA22 9DL,T,N,L,2,,Cambridge Villas,,Ambleside
+2025-01-17,2450000,LA22 0HY,D,N,F,Wykefield,,,Pull Woods,Ambleside
+2025-01-16,282000,LA22 0QP,T,N,F,15,,Kings Yard,Hawkshead,Ambleside
+2025-01-08,795000,LA22 9SF,D,N,F,Duckponds,,,White Moss,Ambleside
+2025-01-02,540000,LA22 9NH,D,N,F,The Coach House,,,Skelwith Bridge,Ambleside
+2024-12-16,410000,LA22 0QG,D,N,F,Wild Goose Cottage,,,Roger Ground,Ambleside
+2024-12-06,1200000,LA22 9AG,S,N,F,Bracken Howe,,Millans Park,,Ambleside
+2024-12-05,637000,LA22 0DZ,D,N,F,8,,Loughrigg Meadow,,Ambleside
+2024-11-29,320000,LA22 9QQ,T,N,F,13,,High Fieldside,Grasmere,Ambleside
+2024-11-29,257000,LA22 9BQ,T,N,F,32,,Castlefield,,Ambleside
+2024-11-27,265000,LA22 9DX,T,N,F,19,,Kirkfield Rise,,Ambleside
+2024-11-27,425000,LA22 9AG,T,N,F,East Lynne,,Millans Park,,Ambleside
+2024-11-20,850000,LA22 9PA,D,N,F,Wetherlam View,,,Little Langdale,Ambleside
+2024-11-20,630000,LA22 0NR,D,N,F,Tifflebank,,,Hawkshead,Ambleside
+2024-11-05,1500000,LA22 9ES,D,N,F,High Barn,,Seathwaite Lane,,Ambleside
+2024-11-01,740000,LA22 9AG,F,N,L,Oakland,Flat 2,Millans Park,,Ambleside
+2024-11-01,1400000,LA22 0JQ,D,N,F,High Wray House,,,High Wray,Ambleside
+2024-11-01,645000,LA22 0DA,D,N,F,2,,Lakes Gardens,,Ambleside
+2024-10-24,650000,LA22 9EJ,S,N,F,Hollybrook,,Oaks Field,,Ambleside
+2024-10-16,4000000,LA22 9JS,D,N,F,Skyfall,,,Great Langdale,Ambleside
+2024-10-09,625000,LA22 0BG,D,N,F,Sevens,,High Gale,,Ambleside
+2024-10-04,465000,LA22 0HU,S,N,F,The Brow,3,,Skelwith Fold,Ambleside
+2024-10-03,675000,LA22 9SF,D,N,F,Brockstones,,,White Moss,Ambleside
+2024-09-30,380000,LA22 9LE,F,N,L,5,,The Croft,Clappersgate,Ambleside
+2024-09-30,200000,LA22 9HA,T,N,F,5,,Kirkfield,,Ambleside
+2024-09-25,820000,LA22 0EQ,D,N,F,The Cottage,,Birch Road,,Ambleside
+2024-09-24,332500,LA22 0AP,F,N,L,9,,Blue Hill Park,,Ambleside
+2024-09-23,410000,LA22 9EU,T,N,F,St. Annes Cottages,2,Ellerigg Road,,Ambleside
+2024-09-19,385000,LA22 9EU,T,N,F,St. Annes Cottages,1,Ellerigg Road,,Ambleside
+2024-09-10,935000,LA22 0LR,D,N,F,Harrowslack Cottage,,,Far Sawrey,Ambleside
+2024-08-27,425000,LA22 9DP,T,N,F,"Graystones Cottage, 12A",,Compston Street,,Ambleside
+2024-08-23,160000,LA22 9QY,D,N,F,Low Riddings,3,,Grasmere,Ambleside
+2024-08-23,275000,LA22 0EG,T,N,F,Tweenways,2,Wansfell Road,,Ambleside
+2024-08-22,475000,LA22 0EG,T,N,F,Bank End,,Wansfell Road,,Ambleside
+2024-08-22,375000,LA22 0DQ,T,N,F,The Brandrith,3,Lake Road,,Ambleside
+2024-08-21,207500,LA22 9BW,F,N,L,204,,Millans Court,,Ambleside
+2024-08-19,335000,LA22 9EU,F,N,L,Loughrigg,,Ellerigg Road,,Ambleside
+2024-08-14,330000,LA22 0JZ,S,N,F,Orchard Cottages,Tethera,,Near Sawrey,Ambleside
+2024-08-14,850000,LA22 0AE,D,N,F,Swallowdale,,Old Lake Road,,Ambleside
+2024-08-09,550000,LA22 9ND,S,N,F,1,,Kilngarth Cottages,Clappersgate,Ambleside
+2024-08-09,151675,LA22 0AU,T,N,F,"Hardy View, 4A",,Stonecroft,,Ambleside
+2024-07-29,650000,LA22 0DH,D,N,F,Dunelm,,Old Lake Road,,Ambleside
+2024-07-25,260000,LA22 0DF,D,N,F,41,,Lake Road,,Ambleside
+2024-07-24,460000,LA22 0BN,D,N,F,5,,Gale Park,,Ambleside
+2024-07-05,600000,LA22 9RW,S,N,F,Beck Cottage,,,Grasmere,Ambleside
+2024-07-05,730000,LA22 9EU,T,N,F,Eller View,,Ellerigg Road,,Ambleside
+2024-07-01,445000,LA22 0QT,F,N,L,25,,The Falls,,Ambleside
+2024-07-01,740000,LA22 0QG,D,N,F,Fellthwaite House,,,Roger Ground,Ambleside
+2024-06-28,440000,LA22 0NS,F,N,L,The Old Police Station,Apartment 3,Main Street,Hawkshead,Ambleside
+2024-06-21,1155000,LA22 9PX,D,N,F,Silver Beck,,,Grasmere,Ambleside
+2024-06-21,475000,LA22 9HB,D,N,F,8,,St Annes Close,,Ambleside
+2024-06-21,177000,LA22 9BW,F,N,L,209,,Millans Court,,Ambleside
+2024-06-21,750000,LA22 0QZ,D,N,F,4,,Stockghyll Brow,,Ambleside
+2024-06-13,395000,LA22 9EU,T,N,F,Little Robin Cottage,,Ellerigg Road,,Ambleside
+2024-06-06,880000,LA22 9PX,T,N,F,Kelbarrow,West House,,Grasmere,Ambleside
+2024-05-24,483000,LA22 9EN,S,N,F,Byways,,Edinboro,,Ambleside
+2024-05-01,630000,LA22 9EY,D,N,F,8,,Sweden Park,,Ambleside
+2024-04-12,1275000,LA22 9SF,D,N,F,Howe Top,,,White Moss,Ambleside
+2024-04-05,510000,LA22 9AD,T,N,F,Ralston,,Millans Park,,Ambleside
+2024-04-04,290000,LA22 9JJ,T,N,F,1,,Church View,Chapel Stile,Ambleside
+2024-04-02,245000,LA22 0BP,F,N,L,3,,Kelsick Court,,Ambleside
+2024-03-28,742179,LA22 9LR,D,N,F,Glen Rothay Lodge,,,Rydal,Ambleside
+2024-03-27,575000,LA22 9HE,T,N,F,Brunt How,3,,Loughrigg,Ambleside
+2024-03-25,525000,LA22 0EG,D,N,F,Wansfell House,,Wansfell Road,,Ambleside
+2024-03-19,470000,LA22 0HS,T,N,F,Jiffy Knotts,1,,Clappersgate,Ambleside
+2024-03-15,370000,LA22 0DQ,T,N,F,The Brandrith,2,Lake Road,,Ambleside
+2024-03-13,260000,LA22 9QQ,T,N,F,25,,High Fieldside,Grasmere,Ambleside
+2024-03-08,510000,LA22 9DH,T,N,F,Park View,,Vicarage Road,,Ambleside
+2024-02-23,975000,LA22 9NW,D,N,F,Bridge Howe,,,Skelwith Bridge,Ambleside
+2024-02-15,180000,LA22 9BW,F,N,L,112,,Millans Court,,Ambleside
+2024-01-26,375000,LA22 9DJ,T,N,F,Oxford House,,Compston Road,,Ambleside
+2024-01-25,810000,LA22 9QF,T,N,F,2,,Hollens Cottages,Grasmere,Ambleside
+2024-01-12,1362000,LA22 0JT,D,N,F,Croftlands,,,Colthouse,Ambleside
+2023-12-20,250000,LA22 9HA,T,N,F,49,,Kirkfield,,Ambleside
+2023-12-20,275000,LA22 9BE,T,N,F,3,,High Greenbank,,Ambleside
+2023-12-20,643000,LA22 0QG,D,N,F,Roger Ground Old Barn,,,Roger Ground,Ambleside
+2023-12-15,455000,LA22 0JX,F,N,L,Broom Riggs,Flat 10,,Near Sawrey,Ambleside
+2023-12-14,175000,LA22 9BW,F,N,L,111,,Millans Court,,Ambleside
+2023-12-13,195000,LA22 9BW,F,N,L,203,,Millans Court,,Ambleside
+2023-12-11,110000,LA22 9BW,F,N,L,5,,Millans Court,,Ambleside
+2023-12-06,293000,LA22 9EU,F,N,L,Red Screes,,Ellerigg Road,,Ambleside
+2023-11-29,410000,LA22 9AT,T,N,F,"Cosy Cottage, 1",,Tom Fold,,Ambleside
+2023-11-24,640000,LA22 0DG,D,N,F,Birkfield,,Loughrigg Avenue,,Ambleside
+2023-11-21,243000,LA22 9BG,S,N,F,36,,Greenbank Road,,Ambleside
+2023-11-16,132750,LA22 9HG,D,N,F,Buttermere Lodge,,Neaum Crag,Skelwith Bridge,Ambleside
+2023-11-10,775000,LA22 0HZ,F,N,L,Helvellyn,,,Pull Woods,Ambleside
+2023-11-06,388000,LA22 0BA,F,N,L,Gale Rigg House,Flat 9,Gale Rigg,,Ambleside
+2023-11-03,474000,LA22 0AJ,D,N,F,56,,Fisherbeck Park,,Ambleside
+2023-11-02,700000,LA22 9EX,D,N,F,Finchfield,,Sweden Bridge Lane,,Ambleside
+2023-10-30,835000,LA22 9RR,D,N,F,Mouray,,,Grasmere,Ambleside
+2023-10-30,125000,LA22 9HG,D,N,F,Blea Tarn,,Neaum Crag,Skelwith Bridge,Ambleside
+2023-10-20,422500,LA22 0BU,T,N,F,Roseberry Cottage,,Church Street,,Ambleside
+2023-10-18,495000,LA22 0JS,S,N,F,Ducklin Cottage,,,Colthouse,Ambleside
+2023-10-06,585000,LA22 9RS,D,N,F,Toll Bar Cottage,,,Grasmere,Ambleside
+2023-10-06,330000,LA22 0AJ,S,N,F,68,,Fisherbeck Park,,Ambleside
+2023-09-20,500000,LA22 0DZ,D,N,F,2,,Loughrigg Meadow,,Ambleside
+2023-09-06,385000,LA22 9EL,S,N,F,Chatsworth,,Kirkstone Road,,Ambleside
+2023-08-31,362000,LA22 9ST,S,N,F,3,,Red Lion Cottages,Grasmere,Ambleside
+2023-08-31,365000,LA22 9JH,T,N,F,Banks View,,,Chapel Stile,Ambleside
+2023-08-31,325000,LA22 0JZ,S,N,F,Orchard Cottages,Yan,,Near Sawrey,Ambleside
+2023-08-25,2000000,LA22 0PY,D,N,F,Field Head House,,,Outgate,Ambleside
+2023-08-22,280000,LA22 0PA,F,N,L,Spinner's Loft,,Wordsworth Street,Hawkshead,Ambleside
+2023-08-17,630000,LA22 0NR,D,N,F,Tifflebank,,,Hawkshead,Ambleside
+2023-08-16,746500,LA22 0AT,D,N,F,8,,Waterhead Close,,Ambleside
+2023-08-09,530000,LA22 9SA,F,N,L,Loughrigg Brow,Apartment 5,,Under Loughrigg,Ambleside
+2023-07-31,378700,LA22 0AD,F,N,L,Studio House,4,Lake Road,,Ambleside
+2023-07-28,1160000,LA22 0PD,D,N,F,The Old Vicarage,,Vicarage Lane,Hawkshead,Ambleside
+2023-07-21,510000,LA22 0NR,D,N,F,Curlew Cottage,,,Hawkshead,Ambleside
+2023-07-19,552348,LA22 9QR,T,N,F,3,,Round Hill Cottages,Grasmere,Ambleside
+2023-07-18,531750,LA22 9EJ,D,N,F,Simonstone,,Oaks Field,,Ambleside
+2023-07-17,1750000,LA22 9EZ,D,N,F,Laurel Bank,,Belle Vue Lane,,Ambleside
+2023-07-14,327000,LA22 9LE,F,N,L,10,,The Croft,Clappersgate,Ambleside
+2023-07-12,625000,LA22 9EB,T,N,F,Kirkstone Court,1,Chapel Hill,,Ambleside
+2023-06-23,291000,LA22 0AU,S,N,F,15,,Stonecroft,,Ambleside
+2023-06-22,350000,LA22 0PZ,T,N,F,Vale View,2,Hannakin,Hawkshead,Ambleside
+2023-06-12,330000,LA22 0AG,T,N,F,7,,Blue Hill,,Ambleside
+2023-06-09,1000000,LA22 9LT,S,N,F,2,,Hart Head Barn,Rydal,Ambleside
+2023-05-26,790000,LA22 0JQ,D,N,L,Balla Wray Cottage,,,High Wray,Ambleside
+2023-05-03,485000,LA22 0DY,D,N,F,19,,Loughrigg Park,,Ambleside
+2023-04-20,1200000,LA22 9QJ,D,N,F,Highfield,,,Grasmere,Ambleside
+2023-04-12,308500,LA22 9BU,F,N,L,Archway Flat,,Market Place,,Ambleside
+2023-03-31,950000,LA22 9QE,D,N,F,Silver Lea,,,Grasmere,Ambleside
+2023-03-31,445000,LA22 0JX,F,N,L,Broom Riggs,Flat 4,,Near Sawrey,Ambleside
+2023-03-17,525000,LA22 9HB,S,N,F,1,,St Annes Close,,Ambleside
+2023-03-17,250000,LA22 9BD,T,N,F,17,,Greenbank Road,,Ambleside
+2023-03-16,395000,LA22 0LZ,F,N,L,The Ferry House,12,,Far Sawrey,Ambleside
+2023-03-15,575000,LA22 0LZ,F,N,L,The Ferry House,8,,Far Sawrey,Ambleside
+2023-02-28,1266000,LA22 9HE,S,N,F,Brunt How,2,,Loughrigg,Ambleside
+2023-02-24,679700,LA22 0DH,S,N,F,Rosehill,,Old Lake Road,,Ambleside
+2023-02-24,265000,LA22 0AD,F,N,L,Studio House,1,Lake Road,,Ambleside
+2023-02-20,125000,LA22 0QA,D,N,L,Esthwaite View Caravan Park,7,,Hawkshead,Ambleside
+2023-02-20,400000,LA22 0FB,T,N,F,6,,Black Beck Road,Hawkshead,Ambleside
+2023-02-10,595000,LA22 0NW,D,N,F,Penrose Cottage,,,Hawkshead,Ambleside
+2023-02-02,921500,LA22 9PA,D,N,F,Woodland,,,Little Langdale,Ambleside
+2023-01-31,500000,LA22 9PT,D,N,F,"Overmere, 1",,Pavement End,Grasmere,Ambleside
+2023-01-31,459000,LA22 9JN,T,N,F,9,,Thrang Brow,Chapel Stile,Ambleside
+2023-01-20,200000,LA22 9QT,T,N,F,5,,The Croft,Grasmere,Ambleside
+2023-01-20,225000,LA22 0QW,T,N,F,Bragg Field Cottages,2,,Hawkshead,Ambleside
+2023-01-03,525000,LA22 0QT,F,N,L,11,,The Falls,,Ambleside
+2022-12-28,168000,LA22 9BW,F,N,L,12,,Millans Court,,Ambleside
+2022-12-21,424000,LA22 9LE,F,N,L,6,,The Croft,Clappersgate,Ambleside
+2022-12-21,270000,LA22 9DJ,F,N,L,Smallwood House Hotel,,Compston Road,,Ambleside
+2022-12-20,310000,LA22 9HG,F,N,L,12,,Neaum Crag Court,Loughrigg,Ambleside
+2022-12-19,501150,LA22 9EQ,T,N,F,7,,Hill Top Road,,Ambleside
+2022-12-19,670000,LA22 0JX,S,N,F,Riggs Wood Cottage,,,Near Sawrey,Ambleside
+2022-12-16,450000,LA22 0AT,D,N,F,5,,Waterhead Close,,Ambleside
+2022-12-08,1130000,LA22 9JR,D,N,F,Thrang Close,,,Chapel Stile,Ambleside
+2022-12-08,430000,LA22 9AD,T,N,F,Morland,,Millans Park,,Ambleside
+2022-12-08,950000,LA22 0LE,T,N,F,2,,Woodrose Mews,Near Sawrey,Ambleside
+2022-12-07,775000,LA22 9ET,S,N,F,Lakefield House,,Kirkstone Road,,Ambleside
+2022-12-06,525000,LA22 0QT,F,N,L,21,,The Falls,,Ambleside
+2022-11-30,825000,LA22 0AZ,D,N,F,Rock Garth,,Gale Rigg,,Ambleside
+2022-11-22,412500,LA22 0LZ,D,N,L,The Ferry House,14,,Far Sawrey,Ambleside
+2022-11-22,401500,LA22 0DD,F,N,L,Wansfell Tower Court,7,Lake Road,,Ambleside
+2022-11-17,406000,LA22 0NH,T,N,F,Honeypot Cottage,,,Outgate,Ambleside
+2022-11-15,307000,LA22 9HG,D,N,F,Boltons Tarn,,Neaum Crag,Skelwith Bridge,Ambleside
+2022-11-14,405000,LA22 0AQ,T,N,F,Busk Cottages,4,Blue Hill Road,,Ambleside
+2022-11-11,485000,LA22 0QP,S,N,F,6,,Kings Yard,Hawkshead,Ambleside
+2022-10-21,1500000,LA22 9HW,D,N,F,Stonethwaite,,,Elterwater,Ambleside
+2022-10-21,400000,LA22 0PY,D,N,F,Fellfield,,,Outgate,Ambleside
+2022-10-12,590000,LA22 0AZ,D,N,F,Amaryllis,,Gale Rigg,,Ambleside
+2022-10-07,690000,LA22 0HU,T,N,F,Barn End,,,Skelwith Fold,Ambleside
+2022-09-30,610000,LA22 9JL,S,N,F,Plumblands,2,,Chapel Stile,Ambleside
+2022-09-30,810000,LA22 0BN,D,N,F,17,,Gale Park,,Ambleside
+2022-09-29,3250000,LA22 9NX,D,N,F,Iving Howe,,,Little Langdale,Ambleside
+2022-09-29,1250000,LA22 0LE,T,N,F,1,,Woodrose Mews,Near Sawrey,Ambleside
+2022-09-23,599000,LA22 0DZ,D,N,F,8,,Loughrigg Meadow,,Ambleside
+2022-09-22,1049160,LA22 9RL,D,N,F,Bethellen,,,Grasmere,Ambleside
+2022-09-22,560000,LA22 0DG,S,N,F,6,,Loughrigg Avenue,,Ambleside
+2022-09-15,310000,LA22 0QH,S,N,F,3,,The Kennels,Grizedale,Ambleside
+2022-09-09,240000,LA22 9HG,D,N,F,Hayes Water,,,Loughrigg,Ambleside
+2022-09-07,925000,LA22 0LE,D,N,F,"Sunshine Cottage, 3",,Woodrose Mews,Near Sawrey,Ambleside
+2022-09-07,580000,LA22 0HT,S,N,F,Old Farm Cottage,,,Skelwith Fold,Ambleside
+2022-09-06,1000000,LA22 9JU,D,N,F,New Stickle Cottage,,,Great Langdale,Ambleside
+2022-08-08,305000,LA22 9EJ,S,N,F,11,,Oaks Field,,Ambleside
+2022-08-08,899437,LA22 0BB,S,N,F,Gale House,,Low Gale,,Ambleside
+2022-08-01,520000,LA22 0DB,D,N,F,101,Unit C,Lake Road,,Ambleside
+2022-07-29,975000,LA22 0HZ,F,N,L,Wansfell,,,Pull Woods,Ambleside
+2022-07-28,526000,LA22 0HG,F,N,L,Braeside,Flat 3,Skelghyll Lane,,Ambleside
+2022-07-27,250000,LA22 9BW,S,N,L,13,,Millans Court,,Ambleside
+2022-07-26,394000,LA22 0AX,T,N,F,1,,Wansfell Bank,,Ambleside
+2022-07-22,800000,LA22 9AZ,D,N,F,8,,Stoney Lane,,Ambleside
+2022-07-15,450000,LA22 0QX,T,N,F,3,,Stockghyll Court,,Ambleside
+2022-07-15,1030000,LA22 0JE,D,N,F,Brow Foot,,,High Wray,Ambleside
+2022-07-14,690000,LA22 9LJ,S,N,F,The Hollies,,,,Ambleside
+2022-07-11,445000,LA22 9DJ,T,N,F,Brantwood,,Compston Road,,Ambleside
+2022-07-08,575000,LA22 9QU,S,N,F,1,,Helm Close,Grasmere,Ambleside
+2022-07-08,175000,LA22 0EG,F,N,L,West Tweenways,Flat 3,Wansfell Road,,Ambleside
+2022-06-30,335000,LA22 9DR,F,N,L,Rohan House,Flat 4,Compston Road,,Ambleside
+2022-06-30,538500,LA22 0JE,T,N,F,1,,High Wray Cottages,High Wray,Ambleside
+2022-06-28,765000,LA22 0BN,D,N,F,14,,Gale Park,,Ambleside
+2022-06-24,551000,LA22 9AG,T,N,F,Malvern,,Millans Park,,Ambleside
+2022-06-17,1300000,LA22 9HW,D,N,F,Meadow Bank,,,Elterwater,Ambleside
+2022-06-17,355000,LA22 9HG,F,N,L,Neaum Crag Court,13,,Skelwith Bridge,Ambleside
+2022-06-10,710000,LA22 0BN,D,N,F,18,,Gale Park,,Ambleside
+2022-05-27,231800,LA22 9HG,D,N,F,Neaum Crag,Loughrigg Tarn,,Loughrigg,Ambleside
+2022-05-18,475000,LA22 9JP,T,N,F,10,,Lingmoor View,Chapel Stile,Ambleside
+2022-05-18,452000,LA22 0QP,T,N,F,13,,Kings Yard,Hawkshead,Ambleside
+2022-05-17,750000,LA22 0QG,D,N,F,Bowman Meadow,,,Roger Ground,Ambleside
+2022-05-16,620000,LA22 9EE,T,N,F,Up Yonder,,Fair View Road,,Ambleside
+2022-05-13,175000,LA22 9BW,F,N,L,215,,Millans Court,,Ambleside
+2022-05-13,870000,LA22 0HZ,F,N,L,Skiddaw,,,Pull Woods,Ambleside
+2022-05-09,270000,LA22 9SZ,F,N,L,Beck Allans,Apartment 3,College Street,Grasmere,Ambleside
+2022-04-29,475000,LA22 9EQ,T,N,F,6,,Hill Top Road,,Ambleside
+2022-04-29,138230,LA22 9BQ,T,N,F,63,,Castlefield,,Ambleside
+2022-04-29,477000,LA22 0AE,T,N,F,Honey Cottage,,Old Lake Road,,Ambleside
+2022-04-27,555000,LA22 0DZ,T,N,F,12,,Loughrigg Meadow,,Ambleside
+2022-04-22,1075000,LA22 0LT,D,N,F,Waterbarrow Cottage,,,Cunsey,Ambleside
+2022-04-11,725000,LA22 9RL,T,N,F,1,,Ben Place,Grasmere,Ambleside
+2022-04-04,1192000,LA22 0HZ,S,N,F,Woodside,,,Pull Woods,Ambleside
+2022-04-04,1790000,LA22 0HT,D,N,F,Hillcrest,,,Skelwith Fold,Ambleside
+2022-03-30,393400,LA22 9NE,F,N,L,Brathay Fell,Flat 1,,Clappersgate,Ambleside
+2022-03-28,565000,LA22 0LH,T,N,F,2,,Far Sawrey Cottages,Far Sawrey,Ambleside
+2022-03-15,3450000,LA22 0DT,D,N,F,The Moorings,,,Waterhead,Ambleside
+2022-03-11,370000,LA22 9SZ,F,N,L,Beck Steps Apartments,Abigails View,College Street,Grasmere,Ambleside
+2022-03-11,386000,LA22 0AE,D,N,F,Gale Lodge Stables,,Old Lake Road,,Ambleside
+2022-03-04,500000,LA22 0EG,S,N,F,Melverley,,Wansfell Road,,Ambleside
+2022-03-04,495000,LA22 0BJ,T,N,F,2,,High Gale,,Ambleside
+2022-02-18,162000,LA22 9BW,S,N,L,210,,Millans Court,,Ambleside
+2022-02-17,502000,LA22 9ND,T,N,F,2,,Kilngarth Cottages,Clappersgate,Ambleside
+2022-02-17,350000,LA22 0DY,T,N,F,14,,Loughrigg Park,,Ambleside
+2022-02-17,300500,LA22 0AD,S,N,F,Clover Cottage,,Lake Road,,Ambleside
+2022-02-15,1500000,LA22 9SB,D,N,F,Brow Head,,,,Ambleside
+2022-02-15,1275000,LA22 9PY,S,N,F,Hunting Stile North,,,Grasmere,Ambleside
+2022-02-15,190000,LA22 9BW,F,N,L,214,,Millans Court,,Ambleside
+2022-02-11,285000,LA22 9RD,S,N,F,12,,Benfield,Grasmere,Ambleside
+2022-02-11,505000,LA22 9LE,T,N,F,Rose Cottage,,,Clappersgate,Ambleside
+2022-02-11,425000,LA22 0AG,T,N,F,2,,Blue Hill,,Ambleside
+2022-02-10,600000,LA22 0HD,F,N,L,Romney Grange,10,,Waterhead,Ambleside
+2022-02-03,301500,LA22 9LE,F,N,L,Croft Courtyard,3,,Clappersgate,Ambleside
+2022-01-28,355000,LA22 0PA,S,N,F,6,,Wordsworth Street,Hawkshead,Ambleside
+2022-01-25,255000,LA22 9BQ,T,N,F,36,,Castlefield,,Ambleside
+2022-01-19,730000,LA22 9LJ,D,N,F,Gilbert Scar Foot,,,,Ambleside
+2022-01-14,390000,LA22 9EU,T,N,F,Little Robin Cottage,,Ellerigg Road,,Ambleside
+2022-01-07,165000,LA22 9BW,F,N,L,11,,Millans Court,,Ambleside
+2022-01-05,325000,LA22 0DF,S,N,F,Coach House,2,Lake Road,,Ambleside
+2022-01-05,300000,LA22 0AS,T,N,F,9,,Wansfell Terrace,,Ambleside
+2021-12-21,376600,LA22 9HB,S,N,F,"Oaks Lodge, 10A",,St Annes Close,,Ambleside
+2021-12-17,950000,LA22 9HU,T,N,F,St. Martins,,,Elterwater,Ambleside
+2021-12-17,525000,LA22 0DS,D,N,F,Waterhead Range Cottage,,Lake Road,,Ambleside
+2021-12-17,900000,LA22 0BD,D,N,F,Old Gale Farm,,Lower Gale,,Ambleside
+2021-12-10,580000,LA22 9HN,T,N,F,1,,Lane Ends,Elterwater,Ambleside
+2021-12-06,490000,LA22 9JG,T,N,F,Churchgate,,,Chapel Stile,Ambleside
+2021-11-12,445000,LA22 9LE,D,N,F,Ivy Cottage,,,Clappersgate,Ambleside
+2021-11-04,165000,LA22 9BW,F,N,L,211,,Millans Court,,Ambleside
+2021-11-02,190000,LA22 9BW,F,N,L,201,,Millans Court,,Ambleside
+2021-11-02,225000,LA22 9BD,T,N,F,5,,Greenbank Road,,Ambleside
+2021-10-22,1287500,LA22 0LW,D,N,F,Low Garden,,,Far Sawrey,Ambleside
+2021-10-22,365000,LA22 0BB,F,N,L,Loughrigg View,4,Low Gale,,Ambleside
+2021-10-21,430000,LA22 9AE,T,N,F,1,,Swiss Villas,,Ambleside
+2021-10-18,321000,LA22 9QQ,T,N,F,16,,High Fieldside,Grasmere,Ambleside
+2021-10-06,221000,LA22 9BQ,T,N,F,32,,Castlefield,,Ambleside
+2021-09-30,980000,LA22 9RL,D,N,F,Lowcroft,,,Grasmere,Ambleside
+2021-09-30,755000,LA22 9RB,D,N,F,Heronsyde,,,Grasmere,Ambleside
+2021-09-30,445000,LA22 0JX,F,N,L,Broom Riggs,Flat 10,,Near Sawrey,Ambleside
+2021-09-30,380000,LA22 0BA,F,N,L,Gale Rigg House,Flat 9,Gale Rigg,,Ambleside
+2021-09-27,1257500,LA22 9RL,D,N,F,Ghyll Cottage,,,Grasmere,Ambleside
+2021-09-27,490000,LA22 0BJ,T,N,F,4,,High Gale,,Ambleside
+2021-08-27,350300,LA22 0BU,F,N,L,Old Stamp House,Flat 2,Church Street,,Ambleside
+2021-08-26,2181000,LA22 9JS,D,N,F,Ellergarth,,,Great Langdale,Ambleside
+2021-08-24,280000,LA22 0AU,S,N,F,8,,Stonecroft,,Ambleside
+2021-08-16,400000,LA22 9PY,D,N,F,Poets Corner,,Town End,Grasmere,Ambleside
+2021-08-13,350000,LA22 9DG,T,N,L,Wansfell,,St Marys Lane,,Ambleside
+2021-07-30,2340000,LA22 9BA,D,N,F,Springfield,,Rydal Road,,Ambleside
+2021-07-23,214000,LA22 9HG,F,N,L,Neaum Crag Court,2,,Skelwith Bridge,Ambleside
+2021-07-09,837500,LA22 9RW,D,N,F,Wrens Nest,,,Grasmere,Ambleside
+2021-06-30,210000,LA22 9HG,F,N,L,Neaum Crag Court,1,,Skelwith Bridge,Ambleside
+2021-06-30,675000,LA22 0QG,D,N,F,Tolverne,,,Roger Ground,Ambleside
+2021-06-30,430000,LA22 0DH,F,N,L,Lowfield,5,Old Lake Road,,Ambleside
+2021-06-29,740000,LA22 9LE,S,N,F,Gate House,,,Clappersgate,Ambleside
+2021-06-29,925000,LA22 9HW,D,N,F,Anniversary Cottage,,,Elterwater,Ambleside
+2021-06-29,875000,LA22 0DH,D,N,F,Cobblestones,,Old Lake Road,,Ambleside
+2021-06-28,425000,LA22 9DJ,T,N,F,Graythorne Cottage,,Compston Road,,Ambleside
+2021-06-25,505000,LA22 9DJ,T,N,F,Quarters,,Compston Road,,Ambleside
+2021-06-25,435000,LA22 9DJ,T,N,F,Glenholme,,Compston Road,,Ambleside
+2021-06-22,1750000,LA22 9HL,D,N,F,1,,Mere Syke,Elterwater,Ambleside
+2021-06-22,386500,LA22 0HA,T,N,F,5,,Waterhead Terrace,,Ambleside
+2021-06-22,291240,LA22 0AG,T,N,F,5,,Blue Hill,,Ambleside
+2021-06-21,431500,LA22 0NZ,S,N,F,Ross Cottage,,The Square,Hawkshead,Ambleside
+2021-06-18,375000,LA22 9SF,F,N,F,2,,Tarn Cottages,White Moss,Ambleside
+2021-06-18,593214,LA22 9RL,F,N,F,3,,Ben Place,Grasmere,Ambleside
+2021-06-18,475000,LA22 9HG,F,N,L,Neaum Crag,Colwith,,Loughrigg,Ambleside
+2021-06-04,447500,LA22 9JG,S,N,F,Low Underfell,,,Chapel Stile,Ambleside
+2021-06-04,351000,LA22 0EN,F,N,L,Borrans Court,5,Borrans Road,,Ambleside
+2021-06-02,950000,LA22 9ES,D,N,F,Seathwaite Cottage,,Seathwaite Lane,,Ambleside
+2021-06-01,450000,LA22 9AD,T,N,F,Aubrey,,Millans Park,,Ambleside
+2021-05-28,425000,LA22 9BJ,D,N,F,Brae Cottage,,Nook Lane,,Ambleside
+2021-05-24,715000,LA22 9PX,T,N,F,Kelbarrow,West House,,Grasmere,Ambleside
+2021-05-18,645000,LA22 0DP,D,N,F,Low Fold Barn,,Old Lake Road,,Ambleside
+2021-05-12,695000,LA22 0PU,D,N,F,Borwick Cottage,,,Outgate,Ambleside
+2021-05-12,420000,LA22 0AP,S,Y,F,15,,Blue Hill Park,,Ambleside
+2021-05-07,450000,LA22 0DG,S,N,F,7,,Loughrigg Avenue,,Ambleside
+2021-04-30,365000,LA22 0QX,T,N,F,14,,Stockghyll Court,,Ambleside
+2021-04-30,760000,LA22 0QG,D,N,F,Escote,,,Roger Ground,Ambleside
+2021-04-28,660000,LA22 9AG,F,N,L,Oakland,Flat 1,Millans Park,,Ambleside
+2021-04-23,340000,LA22 0DH,F,N,L,Lowfield,4,Old Lake Road,,Ambleside
+2021-04-09,775000,LA22 0PY,T,N,F,Old Farm,The Farmhouse,,Outgate,Ambleside
+2021-04-08,485000,LA22 9RS,D,N,F,Toll Bar,,,Grasmere,Ambleside
+2021-04-06,550000,LA22 0DG,D,N,F,8,,Loughrigg Avenue,,Ambleside
+2021-04-01,297529,LA22 9RW,D,N,L,Eller Close House,Wysteria Cottage,,Grasmere,Ambleside
+2021-04-01,445000,LA22 9EP,D,N,F,Briarfern,,Lower Edinboro,,Ambleside
+2021-04-01,315000,LA22 0NX,T,N,F,3,,Victoria Street,Hawkshead,Ambleside
+2021-03-31,482000,LA22 9HT,T,N,F,5,,Main Street,Elterwater,Ambleside
+2021-03-31,650000,LA22 0PU,D,N,F,Lonningarth,,,Outgate,Ambleside
+2021-03-31,240000,LA22 0DN,F,N,L,Loughrigg Hide,,Lake Road,,Ambleside
+2021-03-26,550000,LA22 9EY,D,N,F,5,,Sweden Park,,Ambleside
+2021-03-26,410000,LA22 9DG,D,N,F,Otters Holt,,St Marys Lane,,Ambleside
+2021-03-26,330000,LA22 0BU,F,N,L,Old Stamp House,Flat 1,Church Street,,Ambleside
+2021-03-24,400000,LA22 9TB,T,N,F,"Dippers Bank, 2",,Field Foot,Grasmere,Ambleside
+2021-03-22,325000,LA22 0AS,T,N,F,8,,Wansfell Terrace,,Ambleside
+2021-03-19,515000,LA22 9RQ,S,N,F,Dunmail Cottage,,,Grasmere,Ambleside
+2021-03-19,370000,LA22 0FA,T,N,F,3,,Oak Bank,Hawkshead,Ambleside
+2021-03-19,260000,LA22 0AL,F,N,L,3,,Badgers Rake,,Ambleside
+2021-03-18,800000,LA22 9QR,D,N,F,Rockwood,,,Grasmere,Ambleside
+2021-03-15,1045000,LA22 9JG,S,N,F,Walthwaite How,,,Chapel Stile,Ambleside
+2021-03-12,175000,LA22 9BW,F,N,L,103,,Millans Court,,Ambleside
+2021-03-11,275000,LA22 9JW,T,N,L,10,,Fir Garth,Chapel Stile,Ambleside
+2021-03-10,335000,LA22 0LQ,T,N,F,Dell Cottage,,,Far Sawrey,Ambleside
+2021-03-05,200000,LA22 0PE,T,N,F,Corner House,,Flag Street,Hawkshead,Ambleside
+2021-02-25,900000,LA22 0QG,S,N,F,Roger Ground House,,,Roger Ground,Ambleside
+2021-02-24,300000,LA22 0DS,S,N,F,Waterhead Range,2,Lake Road,,Ambleside
+2021-02-19,422500,LA22 9PX,D,N,F,Kelbarrow,Loft House,,Grasmere,Ambleside
+2021-02-19,280000,LA22 0BD,F,N,L,The Lakelands,Flat 21,Lower Gale,,Ambleside
+2021-02-15,1450000,LA22 9ES,D,N,F,Willowbank,,Seathwaite Lane,,Ambleside
+2021-02-12,1200000,LA22 9EX,D,N,F,Sweden Close,,Sweden Bridge Lane,,Ambleside
+2021-02-10,140000,LA22 9HG,T,N,F,Tarn Hows,,Neaum Crag,Skelwith Bridge,Ambleside
+2021-02-10,555000,LA22 0DQ,D,N,F,The Brandrith,7,Lake Road,,Ambleside
+2021-02-05,495000,LA22 0LZ,F,N,L,The Ferry House,9,,Far Sawrey,Ambleside
+2021-02-05,1352000,LA22 0LW,D,N,F,Satter Knotts,,,Far Sawrey,Ambleside
+2021-01-28,755000,LA22 9RW,D,N,F,Scale Ivy,,,Grasmere,Ambleside
+2021-01-28,545000,LA22 0BU,T,N,F,4,,Church Street,,Ambleside
+2021-01-25,195000,LA22 9BD,T,N,F,39,,Greenbank Road,,Ambleside
+2021-01-18,355000,LA22 0AD,F,N,L,4,Flat,Lake Road,,Ambleside
+2021-01-15,550000,LA22 0DB,T,N,F,Thistle Villa,,Lake Road,,Ambleside
+2021-01-14,427500,LA22 0BX,D,N,F,2,,King Street,,Ambleside
+2021-01-08,475000,LA22 9RW,S,N,L,The Garden Cottage,,,Grasmere,Ambleside
+2021-01-08,475000,LA22 9RW,T,N,F,The Garden Cottage,,,Grasmere,Ambleside

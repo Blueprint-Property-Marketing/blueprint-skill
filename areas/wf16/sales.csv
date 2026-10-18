@@ -1,0 +1,785 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-07,160000,WF16 0BH,S,N,F,8,,Cambridge Street,,Heckmondwike
+2026-08-05,155000,WF16 9NP,S,N,F,9,,Fairfield Road,,Heckmondwike
+2026-07-31,115000,WF16 0PA,T,N,F,17,,Walkley Terrace,,Heckmondwike
+2026-07-27,165000,WF16 0DA,S,N,F,49,,Cawley Lane,,Heckmondwike
+2026-07-24,142100,WF16 9DH,S,N,F,68,,New North Road,,Heckmondwike
+2026-07-24,210000,WF16 0LE,T,N,L,47,,Brunswick Place,,Heckmondwike
+2026-07-23,65500,WF16 9JN,T,N,F,6,,Commercial Street,,Heckmondwike
+2026-07-22,159950,WF16 0BX,S,N,F,37,,Castle Hill View,,Heckmondwike
+2026-07-16,210000,WF16 0BS,T,N,F,10,,Badgers Walk,,Heckmondwike
+2026-07-13,172500,WF16 9HD,S,N,F,96,,Greenfields,,Heckmondwike
+2026-06-29,151000,WF16 0DA,S,N,F,64,,Cawley Lane,,Heckmondwike
+2026-06-26,168000,WF16 9RJ,T,N,F,34,,Stonedene Court,,Heckmondwike
+2026-06-26,161000,WF16 9RJ,S,N,F,24,,Stonedene Court,,Heckmondwike
+2026-06-23,49000,WF16 9NB,F,N,L,"Craven Court, 1",Flat 4,Batley Road,,Heckmondwike
+2026-06-23,89000,WF16 9JE,T,N,F,8,,Peel Street,,Heckmondwike
+2026-06-12,135000,WF16 0BH,S,N,F,11,,Cambridge Street,,Heckmondwike
+2026-06-05,140000,WF16 0BP,S,N,F,14,,Linton Grove,,Heckmondwike
+2026-05-15,193000,WF16 0BN,D,N,F,27,,Cawley Lane,,Heckmondwike
+2026-05-07,239950,WF16 9NR,S,N,F,10,,Fairfield Drive,,Heckmondwike
+2026-05-01,200000,WF16 0NN,T,N,F,31,,Carriage Way,,Heckmondwike
+2026-04-27,115000,WF16 9LN,T,N,F,29,,King Street,,Heckmondwike
+2026-04-24,222500,WF16 9HF,S,N,F,37,,Little Green Lane,,Heckmondwike
+2026-04-17,242500,WF16 0LL,D,N,F,41,,Horton Street,,Heckmondwike
+2026-04-02,227000,WF16 9NW,D,N,F,65,,Hollinbank Lane,,Heckmondwike
+2026-04-02,192000,WF16 9LZ,S,N,F,3,,Lyndale Crescent,,Heckmondwike
+2026-04-02,184000,WF16 0PT,D,N,F,33,,Lowcliff Walk,,Heckmondwike
+2026-03-31,120000,WF16 9EJ,S,N,F,33,,Longfield Road,,Heckmondwike
+2026-03-31,128000,WF16 0AJ,T,N,F,78,,High Street,,Heckmondwike
+2026-03-30,238000,WF16 9AF,S,N,F,59,,Berwick Avenue,,Heckmondwike
+2026-03-06,230000,WF16 9BE,D,N,F,243,,White Lee Road,,Heckmondwike
+2026-03-04,205000,WF16 0BN,D,N,F,23,,Cawley Lane,,Heckmondwike
+2026-03-02,455000,WF16 9NU,S,N,F,76,,Dale Lane,,Heckmondwike
+2026-02-27,267000,WF16 9DU,D,N,F,38,,Fieldhead Way,,Heckmondwike
+2026-02-27,182000,WF16 0PF,S,N,F,21,,Keats Drive,,Heckmondwike
+2026-02-20,318000,WF16 0PD,D,N,F,85,,Walkley Lane,,Heckmondwike
+2026-02-19,230000,WF16 9AZ,S,N,F,37,,Lawrence Crescent,,Heckmondwike
+2026-02-17,193000,WF16 9BB,D,N,F,157,,Leeds Old Road,,Heckmondwike
+2026-02-13,215000,WF16 9HG,S,N,F,3,,Greenfields,,Heckmondwike
+2026-02-06,50000,WF16 0NU,S,N,F,43,,Walkley Lane,,Heckmondwike
+2026-02-06,245000,WF16 0LL,D,N,F,38,,Horton Street,,Heckmondwike
+2026-02-02,237000,WF16 9AD,S,N,F,4,,Field Close,,Heckmondwike
+2026-01-30,210000,WF16 9FB,S,N,F,10,,Westfield Street,,Heckmondwike
+2026-01-27,160000,WF16 9LZ,S,N,F,16,,Lyndale Crescent,,Heckmondwike
+2026-01-23,222000,WF16 9FD,S,N,L,64,,Redberry Avenue,,Heckmondwike
+2026-01-21,305000,WF16 0LL,D,N,F,21,,Horton Street,,Heckmondwike
+2026-01-19,191800,WF16 0DH,S,N,F,92,,Lobley Street,,Heckmondwike
+2026-01-19,250000,WF16 0BL,D,N,F,5,,Forster Drive,,Heckmondwike
+2026-01-09,150000,WF16 9HX,D,N,F,9,,Eldon Street,,Heckmondwike
+2026-01-07,165000,WF16 9LU,S,N,F,17,,Vernon Road,,Heckmondwike
+2025-12-19,165000,WF16 9HJ,T,N,F,19,,Westfield Road,,Heckmondwike
+2025-12-19,185000,WF16 9AS,S,N,F,7,,Curwen Crescent,,Heckmondwike
+2025-12-19,100000,WF16 0DB,S,N,F,27,,Harewood Avenue,,Heckmondwike
+2025-12-19,175000,WF16 0BB,T,N,F,8,,Grove Road,,Heckmondwike
+2025-12-12,165000,WF16 9RJ,S,N,F,11,,Stonedene Court,,Heckmondwike
+2025-12-12,95000,WF16 9LN,T,N,F,7,,King Street,,Heckmondwike
+2025-12-12,230000,WF16 9EJ,D,N,F,10,,Longfield Road,,Heckmondwike
+2025-12-05,181000,WF16 9AA,S,N,F,29,,Leeds Old Road,,Heckmondwike
+2025-12-05,96000,WF16 0ER,T,N,F,4,,Boundary Street,,Heckmondwike
+2025-12-01,145000,WF16 0NX,T,N,F,2,,Walkley Grove,,Heckmondwike
+2025-11-28,160000,WF16 9BB,S,N,F,149,,Leeds Old Road,,Heckmondwike
+2025-11-28,215000,WF16 9AX,S,N,F,8,,Priestley Avenue,,Heckmondwike
+2025-11-25,125000,WF16 0EB,T,N,F,6,,Tidswell Street,,Heckmondwike
+2025-11-21,330000,WF16 9BU,D,N,F,13,,Gomersal Road,,Heckmondwike
+2025-11-21,163000,WF16 0ET,T,N,F,3,,Willow Tree Court,,Heckmondwike
+2025-11-21,157500,WF16 0BA,T,N,F,14,,Powell Street,,Heckmondwike
+2025-11-19,140000,WF16 0ER,T,N,F,32,,Boundary Street,,Heckmondwike
+2025-11-14,250000,WF16 9DJ,T,N,F,7,,New North Road,,Heckmondwike
+2025-11-12,195500,WF16 9AY,S,N,F,5,,Priestley Avenue,,Heckmondwike
+2025-11-07,200000,WF16 9AZ,S,N,F,21,,Lawrence Crescent,,Heckmondwike
+2025-11-06,128500,WF16 9ED,T,N,F,30,,Cemetery Road,,Heckmondwike
+2025-11-02,136000,WF16 9FD,T,N,L,16,,Redberry Avenue,,Heckmondwike
+2025-10-30,149950,WF16 9AW,S,N,F,8,,Rayner Avenue,,Heckmondwike
+2025-10-27,145000,WF16 0EG,T,N,F,44,,Russell Close,,Heckmondwike
+2025-10-25,187000,WF16 0DU,T,N,F,208,,Halifax Road,,Heckmondwike
+2025-10-24,133000,WF16 9QP,T,N,F,21,,George Street,,Heckmondwike
+2025-10-24,77500,WF16 9LB,S,N,F,2,,Chapel Avenue,,Heckmondwike
+2025-10-21,168000,WF16 9BB,S,N,F,183,,Leeds Old Road,,Heckmondwike
+2025-10-20,225000,WF16 9QA,S,N,F,2,,Oliver Road,,Heckmondwike
+2025-10-17,177000,WF16 9HG,S,N,F,68,,Greenfields,,Heckmondwike
+2025-10-10,210750,WF16 9PL,S,N,F,18,,Lincoln Avenue,,Heckmondwike
+2025-10-10,65000,WF16 9LB,T,N,F,31,,Chapel Avenue,,Heckmondwike
+2025-10-10,365000,WF16 9FB,D,N,F,65,,Westfield Street,,Heckmondwike
+2025-10-09,52500,WF16 0AL,F,N,L,The Lawns,Flat 9,High Street,,Heckmondwike
+2025-10-08,205000,WF16 9AE,T,N,F,4,,Berwick Avenue,,Heckmondwike
+2025-10-07,208500,WF16 9FB,T,N,F,23,,Westfield Street,,Heckmondwike
+2025-09-30,173000,WF16 9LU,D,N,F,3A,,Vernon Road,,Heckmondwike
+2025-09-30,228000,WF16 0LN,T,N,F,11,,Sunnyside,,Heckmondwike
+2025-09-30,150000,WF16 0LL,T,N,F,31,,Horton Street,,Heckmondwike
+2025-09-26,113000,WF16 9JY,S,N,F,37,,Trueman Avenue,,Heckmondwike
+2025-09-26,284500,WF16 9BB,D,N,F,76,,Leeds Old Road,,Heckmondwike
+2025-09-26,270000,WF16 0BS,S,N,F,18,,Badgers Walk,,Heckmondwike
+2025-09-19,205000,WF16 9FD,S,N,L,11,,Redberry Avenue,,Heckmondwike
+2025-09-12,165000,WF16 9DH,S,N,F,58,,New North Road,,Heckmondwike
+2025-08-29,297000,WF16 9NZ,D,N,F,82,,Fairfield Road,,Heckmondwike
+2025-08-29,215000,WF16 9LG,S,N,F,2,,Briar Court,,Heckmondwike
+2025-08-29,80000,WF16 0EL,T,N,F,16,,Omar Street,,Heckmondwike
+2025-08-29,225000,WF16 0EF,D,N,F,1,,Fernlea Close,,Heckmondwike
+2025-08-28,318000,WF16 9EP,D,N,F,23,,Longfield Court,,Heckmondwike
+2025-08-22,135000,WF16 9JF,T,N,F,9,,Outfield Close,,Heckmondwike
+2025-08-21,135000,WF16 9HP,T,N,F,44,,Jeremy Lane,,Heckmondwike
+2025-08-15,70000,WF16 9LB,S,N,F,41,,Chapel Avenue,,Heckmondwike
+2025-08-15,285000,WF16 0PF,S,N,F,16,,Keats Drive,,Heckmondwike
+2025-08-15,185000,WF16 0DA,S,N,F,74,,Cawley Lane,,Heckmondwike
+2025-08-14,175000,WF16 9BS,S,N,F,136,,Leeds Road,,Heckmondwike
+2025-08-11,122500,WF16 9LH,T,N,F,19A,,Victoria Street,,Heckmondwike
+2025-08-08,179000,WF16 0ET,S,N,F,1,,Willow Tree Court,,Heckmondwike
+2025-08-05,140000,WF16 0EG,S,N,F,22,,Russell Close,,Heckmondwike
+2025-08-01,200000,WF16 9BP,D,N,F,3,,Almondroyd,,Heckmondwike
+2025-07-30,180000,WF16 9JD,S,N,F,21,,Centre Street,,Heckmondwike
+2025-07-25,165000,WF16 0PD,S,N,F,147,,Walkley Lane,,Heckmondwike
+2025-07-21,180000,WF16 9NX,D,N,F,147,,Dale Lane,,Heckmondwike
+2025-07-18,170000,WF16 9EG,T,N,F,55,,Cemetery Road,,Heckmondwike
+2025-07-17,320000,WF16 0AY,D,N,F,18,,North Street,,Heckmondwike
+2025-07-15,50000,WF16 9EX,F,N,L,2,Flat 11,Back Lane,,Heckmondwike
+2025-07-11,195000,WF16 9NN,S,N,F,20,,Thackray Avenue,,Heckmondwike
+2025-07-11,230000,WF16 9HF,T,N,F,21,,Little Green Lane,,Heckmondwike
+2025-07-11,185000,WF16 9FB,T,N,F,48,,Westfield Street,,Heckmondwike
+2025-07-10,79000,WF16 0PW,F,N,L,"Independent House, 125",Apartment 23,High Street,,Heckmondwike
+2025-07-10,77500,WF16 0PW,F,N,L,"Independent House, 125",Apartment 9,High Street,,Heckmondwike
+2025-07-04,200000,WF16 9NZ,S,N,F,40,,Fairfield Road,,Heckmondwike
+2025-07-04,175000,WF16 9LY,S,N,F,14,,Clarkson Close,,Heckmondwike
+2025-07-03,170000,WF16 9NR,S,N,F,11,,Fairfield Drive,,Heckmondwike
+2025-07-03,99000,WF16 9EY,T,N,F,121,,Brighton Street,,Heckmondwike
+2025-06-27,121000,WF16 9LY,T,N,F,2,,Clarkson Close,,Heckmondwike
+2025-06-27,95000,WF16 0LH,T,N,F,12,,Sharpe Street,,Heckmondwike
+2025-06-27,213000,WF16 0BU,S,N,F,7,,Fisher Way,,Heckmondwike
+2025-06-20,227995,WF16 9FD,S,N,L,35,,Redberry Avenue,,Heckmondwike
+2025-06-20,165000,WF16 0ET,T,N,F,7,,Willow Tree Court,,Heckmondwike
+2025-06-13,190000,WF16 9EJ,T,N,F,79,,Longfield Road,,Heckmondwike
+2025-06-13,210000,WF16 0LE,T,N,L,63,,Brunswick Place,,Heckmondwike
+2025-06-06,90500,WF16 0EG,S,N,F,40,,Russell Close,,Heckmondwike
+2025-06-06,68000,WF16 0EG,S,N,F,35,,Russell Close,,Heckmondwike
+2025-06-05,155000,WF16 9HG,T,N,F,27,,Greenfields,,Heckmondwike
+2025-06-05,213000,WF16 9AE,S,N,F,13,,Berwick Avenue,,Heckmondwike
+2025-06-03,193000,WF16 0DU,T,N,F,206,,Halifax Road,,Heckmondwike
+2025-05-23,170000,WF16 9NR,S,N,F,16,,Fairfield Drive,,Heckmondwike
+2025-05-23,225000,WF16 9AZ,S,N,F,41,,Lawrence Crescent,,Heckmondwike
+2025-05-19,200000,WF16 9PH,S,N,F,22,,Crabtree Avenue,,Heckmondwike
+2025-05-16,308000,WF16 9DT,D,N,F,6,,Owler Meadows,,Heckmondwike
+2025-05-06,195000,WF16 9FD,S,N,L,37,,Redberry Avenue,,Heckmondwike
+2025-05-02,50000,WF16 9LB,S,N,F,40,,Chapel Avenue,,Heckmondwike
+2025-04-30,130000,WF16 9AA,S,N,F,45,,Leeds Old Road,,Heckmondwike
+2025-04-29,170000,WF16 9LZ,S,N,F,1,,Lyndale Crescent,,Heckmondwike
+2025-04-28,152000,WF16 9DE,S,N,F,68,,Carlton Road,,Heckmondwike
+2025-04-23,145000,WF16 9HZ,T,N,F,14,,Ings Road,,Heckmondwike
+2025-04-23,155000,WF16 0NA,T,N,F,23,,Walkley Lane,,Heckmondwike
+2025-04-15,70000,WF16 9EX,F,N,L,2,Flat 16,Back Lane,,Heckmondwike
+2025-04-15,147000,WF16 0DY,T,N,F,151,,High Street,,Heckmondwike
+2025-04-14,99995,WF16 9NW,T,N,F,85,,Hollinbank Lane,,Heckmondwike
+2025-04-11,155000,WF16 0BA,T,N,F,15,,Powell Street,,Heckmondwike
+2025-04-04,185000,WF16 9BJ,S,N,F,162,,Leeds Road,,Heckmondwike
+2025-03-31,210000,WF16 9FD,T,N,L,43,,Redberry Avenue,,Heckmondwike
+2025-03-28,255000,WF16 9NR,S,N,F,12,,Fairfield Drive,,Heckmondwike
+2025-03-28,190000,WF16 9NQ,D,N,F,55,,Hollinbank Lane,,Heckmondwike
+2025-03-28,290000,WF16 9DW,S,N,F,8,,New North Road,,Heckmondwike
+2025-03-28,145000,WF16 9BZ,S,N,F,20,,Stubley Road,,Heckmondwike
+2025-03-28,130000,WF16 0PD,S,N,F,149,,Walkley Lane,,Heckmondwike
+2025-03-28,160000,WF16 0DP,T,N,F,4,,Halifax Road,,Heckmondwike
+2025-03-26,130000,WF16 9HP,T,N,F,46,,Jeremy Lane,,Heckmondwike
+2025-03-26,300000,WF16 0DR,D,N,F,131,,Halifax Road,,Heckmondwike
+2025-03-20,155000,WF16 9AF,S,N,F,43,,Berwick Avenue,,Heckmondwike
+2025-03-17,95000,WF16 9NB,S,N,F,45,,Batley Road,,Heckmondwike
+2025-03-14,267000,WF16 9DU,D,N,F,28,,Fieldhead Way,,Heckmondwike
+2025-03-14,236000,WF16 9DD,S,N,F,1,,Stubley Farm Road,,Heckmondwike
+2025-03-11,180000,WF16 9ED,S,N,F,Quarry Close,,Cemetery Road,,Heckmondwike
+2025-03-07,150000,WF16 9NF,S,N,F,13A,,Hollinbank Lane,,Heckmondwike
+2025-03-07,180000,WF16 9AB,D,N,F,12,,Alma Lane,,Heckmondwike
+2025-03-05,185000,WF16 9AE,S,N,F,23,,Berwick Avenue,,Heckmondwike
+2025-02-28,130000,WF16 9LT,T,N,F,9,,Jeremy Lane,,Heckmondwike
+2025-02-25,240000,WF16 9NR,S,N,F,13,,Fairfield Drive,,Heckmondwike
+2025-02-21,125000,WF16 0BA,T,N,F,21,,Powell Street,,Heckmondwike
+2025-02-17,215000,WF16 9BD,T,N,F,13,,Houldsworth Avenue,,Heckmondwike
+2025-02-14,195000,WF16 0EF,D,N,F,4,,Fernlea Close,,Heckmondwike
+2025-02-13,225000,WF16 9AW,S,N,F,21,,Rayner Avenue,,Heckmondwike
+2025-02-10,80000,WF16 9LB,S,N,F,22,,Chapel Avenue,,Heckmondwike
+2025-02-10,180000,WF16 0BE,T,N,F,13,,Birkhead Street,,Heckmondwike
+2025-02-07,295000,WF16 0BE,T,N,F,3,,Birkhead Street,,Heckmondwike
+2025-01-31,135000,WF16 9BZ,S,N,F,85,,Stubley Road,,Heckmondwike
+2025-01-27,139000,WF16 9HU,T,N,F,2,,Eldon Street,,Heckmondwike
+2025-01-24,137500,WF16 9JF,T,N,F,11,,Outfield Close,,Heckmondwike
+2025-01-17,157950,WF16 0DW,S,N,F,34,,Capas Heights Way,,Heckmondwike
+2025-01-15,90000,WF16 9HT,T,N,F,3,,Fountain Street,,Heckmondwike
+2025-01-14,185000,WF16 0PT,S,N,F,48,,Lowcliff Walk,,Heckmondwike
+2025-01-03,165000,WF16 9AA,D,N,F,47,,Leeds Old Road,,Heckmondwike
+2024-12-20,200000,WF16 9EP,S,N,F,20,,Longfield Court,,Heckmondwike
+2024-12-20,310000,WF16 9AQ,D,N,F,127 - 129,,Leeds Old Road,,Heckmondwike
+2024-12-20,166000,WF16 0PD,S,N,F,151,,Walkley Lane,,Heckmondwike
+2024-12-19,66500,WF16 9LB,S,N,F,4,,Chapel Avenue,,Heckmondwike
+2024-12-19,163000,WF16 9JX,S,N,F,52,,Trueman Avenue,,Heckmondwike
+2024-12-19,144500,WF16 0BA,T,N,F,12,,Powell Street,,Heckmondwike
+2024-12-18,145000,WF16 0EB,T,N,F,4,,Tidswell Street,,Heckmondwike
+2024-12-11,107000,WF16 0BY,F,N,L,Kilpin Court,Flat 17,Lobley Street,,Heckmondwike
+2024-12-09,95000,WF16 9EJ,T,N,F,29,,Longfield Road,,Heckmondwike
+2024-12-09,160000,WF16 0LN,T,N,F,15,,Sunnyside,,Heckmondwike
+2024-12-06,200000,WF16 9NP,D,N,F,73,,Fairfield Road,,Heckmondwike
+2024-12-06,180000,WF16 9HF,S,N,F,37,,Little Green Lane,,Heckmondwike
+2024-12-06,155000,WF16 9HD,T,N,F,108,,Greenfields,,Heckmondwike
+2024-12-06,84000,WF16 9GD,F,N,L,Hilldale View,Apartment 4,Brighton Street,,Heckmondwike
+2024-12-06,200000,WF16 9AY,S,N,F,18,,Priestley Avenue,,Heckmondwike
+2024-12-06,117000,WF16 0AZ,T,N,F,52,,Church Street,,Heckmondwike
+2024-12-03,460000,WF16 0BJ,D,N,F,12,,Cawley Lane,,Heckmondwike
+2024-11-27,192000,WF16 9FB,T,N,F,56,,Westfield Street,,Heckmondwike
+2024-11-22,185000,WF16 9PD,S,N,F,16,,White Lee Side,,Heckmondwike
+2024-11-20,125000,WF16 9BZ,S,N,F,79,,Stubley Road,,Heckmondwike
+2024-11-19,66500,WF16 0PW,F,N,L,"Independent House, 125",Apartment 17,High Street,,Heckmondwike
+2024-11-18,220000,WF16 9FB,S,N,F,39,,Westfield Street,,Heckmondwike
+2024-11-12,252000,WF16 9AR,S,N,F,20,,Bevor Crescent,,Heckmondwike
+2024-11-08,200000,WF16 9LA,D,N,F,6,,Crowther Road,,Heckmondwike
+2024-11-06,147500,WF16 0ET,F,N,F,17,,Willow Tree Court,,Heckmondwike
+2024-11-04,120000,WF16 0BD,T,N,F,33,,Francis Street,,Heckmondwike
+2024-11-01,175000,WF16 9PR,S,N,F,6,,Rhodes Avenue,,Heckmondwike
+2024-11-01,185000,WF16 9FD,T,N,L,24,,Redberry Avenue,,Heckmondwike
+2024-10-29,355000,WF16 9BU,D,N,F,17,,Gomersal Road,,Heckmondwike
+2024-10-29,145000,WF16 0NG,T,N,F,5,,Sheila Terrace,,Heckmondwike
+2024-10-25,175000,WF16 9NZ,S,N,F,78,,Fairfield Road,,Heckmondwike
+2024-10-24,130000,WF16 0BD,T,N,F,21,,Francis Street,,Heckmondwike
+2024-10-23,140000,WF16 0PA,S,N,F,45,,Walkley Terrace,,Heckmondwike
+2024-10-18,215000,WF16 0PF,S,N,F,13,,Keats Drive,,Heckmondwike
+2024-10-17,167000,WF16 9FD,T,N,L,10,,Redberry Avenue,,Heckmondwike
+2024-10-11,200000,WF16 9LU,T,N,F,1B,,Vernon Road,,Heckmondwike
+2024-10-11,130000,WF16 9DA,S,N,F,58,,Popeley Road,,Heckmondwike
+2024-10-07,67500,WF16 0LG,F,N,L,Chapel Mews,Flat 1,Brooke Street,,Heckmondwike
+2024-10-04,150000,WF16 9JX,S,N,F,58,,Trueman Avenue,,Heckmondwike
+2024-10-03,200000,WF16 0PE,S,N,F,4,,Shelley Avenue,,Heckmondwike
+2024-09-30,180000,WF16 0EG,S,N,F,43,,Russell Close,,Heckmondwike
+2024-09-27,225000,WF16 9NF,S,N,F,9A,,Hollinbank Lane,,Heckmondwike
+2024-09-27,85000,WF16 9LB,S,N,F,19,,Chapel Avenue,,Heckmondwike
+2024-09-27,200000,WF16 0PQ,S,N,F,2,,Moor View,,Heckmondwike
+2024-09-24,136500,WF16 9JJ,T,N,F,8,,Deacons Walk,,Heckmondwike
+2024-09-20,170000,WF16 9NN,S,N,F,2,,Thackray Avenue,,Heckmondwike
+2024-09-20,186000,WF16 0DA,S,N,F,39,,Cawley Lane,,Heckmondwike
+2024-09-18,73000,WF16 0DU,T,N,F,208,,Halifax Road,,Heckmondwike
+2024-09-13,57000,WF16 9LN,T,N,F,16,,King Street,,Heckmondwike
+2024-09-10,179500,WF16 9LA,S,N,F,15,,Crowther Road,,Heckmondwike
+2024-09-10,108000,WF16 9EH,T,N,F,82,,Cemetery Road,,Heckmondwike
+2024-09-03,168000,WF16 0BN,S,N,F,42,,Cawley Lane,,Heckmondwike
+2024-08-30,65000,WF16 9LB,S,N,F,25,,Chapel Avenue,,Heckmondwike
+2024-08-28,278476,WF16 9DH,D,N,F,90,,New North Road,,Heckmondwike
+2024-08-28,227000,WF16 0DA,S,N,F,60,,Cawley Lane,,Heckmondwike
+2024-08-23,242500,WF16 9JN,S,N,F,14,,Commercial Street,,Heckmondwike
+2024-08-23,200000,WF16 9HG,T,N,F,24,,Greenfields,,Heckmondwike
+2024-08-22,190000,WF16 9PR,S,N,F,12,,Rhodes Avenue,,Heckmondwike
+2024-08-22,140000,WF16 0AZ,T,N,F,54,,Church Street,,Heckmondwike
+2024-08-19,245000,WF16 0DQ,D,N,F,17,,Heights Lane,,Heckmondwike
+2024-08-16,200000,WF16 9FD,T,N,L,31,,Redberry Avenue,,Heckmondwike
+2024-08-16,160000,WF16 0BE,T,N,F,19,,Birkhead Street,,Heckmondwike
+2024-08-06,170000,WF16 9LX,S,N,F,31,,Clarkson Avenue,,Heckmondwike
+2024-08-06,370000,WF16 0DT,D,N,F,182,,Halifax Road,,Heckmondwike
+2024-08-02,190000,WF16 9PG,S,N,F,18,,Richmond Road,,Heckmondwike
+2024-08-02,79500,WF16 9EY,T,N,F,111,,Brighton Street,,Heckmondwike
+2024-08-01,185000,WF16 9AF,S,N,F,60,,Berwick Avenue,,Heckmondwike
+2024-07-31,100000,WF16 9HU,S,N,F,1B,,Eldon Street,,Heckmondwike
+2024-07-29,164500,WF16 9BS,S,N,F,130,,Leeds Road,,Heckmondwike
+2024-07-28,158000,WF16 9EJ,T,N,F,28,,Longfield Road,,Heckmondwike
+2024-07-26,123250,WF16 9DU,T,N,F,16,,Fieldhead Way,,Heckmondwike
+2024-07-26,110000,WF16 0NE,F,N,L,56,,Mallard Close,,Heckmondwike
+2024-07-12,250000,WF16 9QT,D,N,F,186,,Hollinbank Lane,,Heckmondwike
+2024-07-12,121500,WF16 9PU,S,N,F,3,,Wood Avenue,,Heckmondwike
+2024-07-12,95000,WF16 9EY,T,N,F,105,,Brighton Street,,Heckmondwike
+2024-07-01,75000,WF16 9GD,F,N,L,Hilldale View,Apartment 18,Brighton Street,,Heckmondwike
+2024-06-28,172000,WF16 0NE,S,N,F,40,,Mallard Close,,Heckmondwike
+2024-06-27,160000,WF16 9LA,S,N,F,3,,Crowther Road,,Heckmondwike
+2024-06-21,255000,WF16 9NF,S,N,F,13,,Hollinbank Lane,,Heckmondwike
+2024-06-20,90000,WF16 9LT,T,N,F,21,,Jeremy Lane,,Heckmondwike
+2024-06-19,170000,WF16 9ED,S,N,F,54,,Cemetery Road,,Heckmondwike
+2024-06-12,70000,WF16 0LG,F,N,L,Chapel Mews,Flat 3,Brooke Street,,Heckmondwike
+2024-06-12,148000,WF16 0BX,T,N,F,29,,Castle Hill View,,Heckmondwike
+2024-06-07,175000,WF16 0ET,T,N,F,59,,Willow Tree Court,,Heckmondwike
+2024-05-31,250000,WF16 9RJ,S,N,F,26,,Stonedene Court,,Heckmondwike
+2024-05-31,165000,WF16 9NZ,S,N,F,74,,Fairfield Road,,Heckmondwike
+2024-05-31,185000,WF16 9JY,S,N,F,31,,Trueman Avenue,,Heckmondwike
+2024-05-30,205000,WF16 9AZ,S,N,F,49,,Lawrence Crescent,,Heckmondwike
+2024-05-29,86341,WF16 9RJ,T,N,F,38,,Stonedene Court,,Heckmondwike
+2024-05-29,171000,WF16 0NE,S,N,F,26,,Mallard Close,,Heckmondwike
+2024-05-29,123000,WF16 0BA,T,N,F,4,,Powell Street,,Heckmondwike
+2024-05-24,170000,WF16 9LX,S,N,F,29,,Clarkson Avenue,,Heckmondwike
+2024-05-24,73000,WF16 9EY,T,N,F,109,,Brighton Street,,Heckmondwike
+2024-05-24,175000,WF16 0ET,T,N,F,33,,Willow Tree Court,,Heckmondwike
+2024-05-22,180000,WF16 9LD,S,N,F,16,,Green Avenue,,Heckmondwike
+2024-05-20,247500,WF16 9BP,D,N,F,4,,Almondroyd,,Heckmondwike
+2024-05-17,220000,WF16 9NR,S,N,F,4,,Fairfield Drive,,Heckmondwike
+2024-05-17,310000,WF16 9BT,D,N,F,133,,Leeds Road,,Heckmondwike
+2024-05-17,135000,WF16 9AH,S,N,F,7,,Scott Avenue,,Heckmondwike
+2024-05-17,125000,WF16 0BA,T,N,F,22,,Powell Street,,Heckmondwike
+2024-05-14,177500,WF16 9DH,S,N,F,84,,New North Road,,Heckmondwike
+2024-05-08,105000,WF16 9LB,S,N,F,37,,Chapel Avenue,,Heckmondwike
+2024-05-08,185000,WF16 9AZ,S,N,F,45,,Lawrence Crescent,,Heckmondwike
+2024-05-03,278000,WF16 9HG,D,N,F,1,,Greenfields,,Heckmondwike
+2024-05-03,300000,WF16 0NF,D,N,F,7,,Station Lane,,Heckmondwike
+2024-05-03,70000,WF16 0LG,F,N,L,Chapel Mews,Flat 4,Brooke Street,,Heckmondwike
+2024-04-30,137000,WF16 9PG,S,N,F,22,,Richmond Road,,Heckmondwike
+2024-04-30,449000,WF16 9HP,S,N,F,38,,Jeremy Lane,,Heckmondwike
+2024-04-26,149000,WF16 9LU,S,N,F,17,,Vernon Road,,Heckmondwike
+2024-04-26,85000,WF16 9JD,T,N,F,4,,Centre Street,,Heckmondwike
+2024-04-19,73000,WF16 9EY,T,N,F,107,,Brighton Street,,Heckmondwike
+2024-04-12,190400,WF16 9PD,D,N,F,2 - 3,,White Lee Side,,Heckmondwike
+2024-04-12,86000,WF16 9JE,T,N,F,5,,Peel Street,,Heckmondwike
+2024-04-12,175000,WF16 0BS,T,N,F,10,,Badgers Walk,,Heckmondwike
+2024-04-05,155000,WF16 0AJ,T,N,F,88,,High Street,,Heckmondwike
+2024-03-28,168000,WF16 0BS,S,N,F,5,,Badgers Walk,,Heckmondwike
+2024-03-22,105000,WF16 9HY,T,N,F,27,,Grosvenor Terrace,,Heckmondwike
+2024-03-22,117000,WF16 0NU,S,N,F,59,,Walkley Lane,,Heckmondwike
+2024-03-22,102000,WF16 0NA,T,N,F,23,,Walkley Lane,,Heckmondwike
+2024-03-22,270750,WF16 0BU,D,N,F,30,,Fisher Way,,Heckmondwike
+2024-03-15,188000,WF16 0BS,S,N,F,6,,Badgers Walk,,Heckmondwike
+2024-03-15,158000,WF16 0BS,T,N,F,15,,Badgers Walk,,Heckmondwike
+2024-03-08,120000,WF16 0ER,T,N,F,26,,Boundary Street,,Heckmondwike
+2024-03-07,210000,WF16 9HG,D,N,F,44,,Greenfields,,Heckmondwike
+2024-03-01,148000,WF16 0DW,S,N,F,42,,Capas Heights Way,,Heckmondwike
+2024-02-27,140000,WF16 9PL,T,N,F,11,,Lincoln Avenue,,Heckmondwike
+2024-02-26,146000,WF16 9PY,S,N,F,4,,Redfearn Avenue,,Heckmondwike
+2024-02-23,178000,WF16 9NZ,S,N,F,52,,Fairfield Road,,Heckmondwike
+2024-02-23,142500,WF16 0AZ,T,N,F,58,,Church Street,,Heckmondwike
+2024-02-06,158500,WF16 0BS,T,N,F,9,,Badgers Walk,,Heckmondwike
+2024-02-02,60000,WF16 9PP,S,N,F,13,,Lonsbrough Avenue,,Heckmondwike
+2024-01-26,180000,WF16 9DJ,T,N,F,13,,New North Road,,Heckmondwike
+2024-01-26,140000,WF16 0EG,S,N,F,3,,Russell Close,,Heckmondwike
+2024-01-22,160000,WF16 0NE,T,N,F,12,,Mallard Close,,Heckmondwike
+2024-01-19,225000,WF16 9BB,S,N,F,187,,Leeds Old Road,,Heckmondwike
+2024-01-19,232000,WF16 9AE,S,N,F,26,,Berwick Avenue,,Heckmondwike
+2024-01-18,290000,WF16 9HF,D,N,F,45,,Little Green Lane,,Heckmondwike
+2024-01-12,142500,WF16 9LT,T,N,F,25,,Jeremy Lane,,Heckmondwike
+2024-01-12,115000,WF16 9LT,T,N,F,13,,Jeremy Lane,,Heckmondwike
+2024-01-08,79275,WF16 9EJ,S,N,F,63B,,Longfield Road,,Heckmondwike
+2024-01-08,59000,WF16 0PW,F,N,L,"Independent House, 125",Apartment 15,High Street,,Heckmondwike
+2024-01-05,195000,WF16 9BB,S,N,F,189,,Leeds Old Road,,Heckmondwike
+2023-12-19,162000,WF16 0BU,S,N,F,16,,Fisher Way,,Heckmondwike
+2023-12-19,162000,WF16 0BH,S,N,F,20,,Cambridge Street,,Heckmondwike
+2023-12-15,50422,WF16 9JR,S,N,F,75,,Chapel Lane,,Heckmondwike
+2023-12-15,140000,WF16 9HB,S,N,F,15,,Nunroyd,,Heckmondwike
+2023-12-08,83000,WF16 9EJ,T,N,F,25,,Longfield Road,,Heckmondwike
+2023-12-08,195000,WF16 0JP,T,N,F,9,,Old Station Court,,Heckmondwike
+2023-12-04,148000,WF16 9PG,S,N,F,13,,Richmond Road,,Heckmondwike
+2023-12-04,232000,WF16 9AE,S,N,F,21,,Berwick Avenue,,Heckmondwike
+2023-12-04,145000,WF16 0DR,T,N,F,149,,Halifax Road,,Heckmondwike
+2023-12-01,127250,WF16 0NY,T,N,F,5,,Walkley Avenue,,Heckmondwike
+2023-12-01,220000,WF16 0NE,T,N,F,36,,Mallard Close,,Heckmondwike
+2023-11-27,99995,WF16 0AD,T,N,F,49,,High Street,,Heckmondwike
+2023-11-21,62376,WF16 0DJ,T,N,F,59,,Lobley Street,,Heckmondwike
+2023-11-01,226000,WF16 9AE,S,N,F,20,,Berwick Avenue,,Heckmondwike
+2023-11-01,135000,WF16 0BD,T,N,F,22,,Francis Street,,Heckmondwike
+2023-10-26,275000,WF16 0NN,D,N,F,5,,Carriage Way,,Heckmondwike
+2023-10-20,141000,WF16 0LE,F,N,L,25,,Brunswick Place,,Heckmondwike
+2023-10-20,185000,WF16 0DZ,S,N,F,90,,High Street,,Heckmondwike
+2023-10-16,145000,WF16 0NH,T,N,F,2,,Spen Vale Street,,Heckmondwike
+2023-10-13,205000,WF16 9QF,S,N,F,18,,Piperwell Close,,Heckmondwike
+2023-10-13,175000,WF16 0LX,T,N,F,15,,Brooke Street,,Heckmondwike
+2023-10-13,215000,WF16 0LE,T,N,L,29,,Brunswick Place,,Heckmondwike
+2023-10-12,72500,WF16 9EX,F,N,L,2,Flat 15,Back Lane,,Heckmondwike
+2023-10-12,190000,WF16 9AD,S,N,F,22,,Field Close,,Heckmondwike
+2023-10-10,93000,WF16 9NE,T,N,F,24,,Batley Road,,Heckmondwike
+2023-10-03,125000,WF16 9LP,T,N,F,18,,Darley Street,,Heckmondwike
+2023-09-27,286000,WF16 9LU,S,N,F,21,,Vernon Road,,Heckmondwike
+2023-09-22,180000,WF16 9EP,S,N,F,3,,Longfield Court,,Heckmondwike
+2023-09-18,170000,WF16 0DA,S,N,F,43,,Cawley Lane,,Heckmondwike
+2023-09-15,212500,WF16 9FD,T,N,L,33,,Redberry Avenue,,Heckmondwike
+2023-09-14,135000,WF16 0BH,S,N,F,2,,Cambridge Street,,Heckmondwike
+2023-09-07,215000,WF16 9NZ,D,N,F,104,,Fairfield Road,,Heckmondwike
+2023-09-04,185000,WF16 0NN,S,N,F,1,,Carriage Way,,Heckmondwike
+2023-08-31,175000,WF16 9AZ,S,N,F,22,,Lawrence Crescent,,Heckmondwike
+2023-08-30,163000,WF16 9DH,S,N,F,64,,New North Road,,Heckmondwike
+2023-08-25,412500,WF16 9LU,D,N,F,1,,Vernon Road,,Heckmondwike
+2023-08-25,150000,WF16 0BL,S,N,F,7,,Forster Drive,,Heckmondwike
+2023-08-25,65000,WF16 0AL,F,N,L,The Lawns,Flat 14,High Street,,Heckmondwike
+2023-08-24,190000,WF16 0BW,S,N,F,3,,Churchill Grove,,Heckmondwike
+2023-08-18,222500,WF16 9AD,S,N,F,4,,Field Close,,Heckmondwike
+2023-08-18,190000,WF16 0PB,S,N,F,5,,Walkley Villas,,Heckmondwike
+2023-08-18,250000,WF16 0NE,T,N,F,38,,Mallard Close,,Heckmondwike
+2023-08-17,70000,WF16 9HX,T,N,F,7,,Eldon Street,,Heckmondwike
+2023-08-16,135000,WF16 9HY,T,N,F,30,,Grosvenor Terrace,,Heckmondwike
+2023-08-14,235000,WF16 0DZ,T,N,F,90A,,High Street,,Heckmondwike
+2023-08-09,212000,WF16 9NZ,D,N,F,50,,Fairfield Road,,Heckmondwike
+2023-08-04,178000,WF16 9NU,S,N,F,163,,Dale Lane,,Heckmondwike
+2023-08-04,225000,WF16 0NE,T,N,F,10,,Mallard Close,,Heckmondwike
+2023-07-31,140000,WF16 9PD,S,N,F,15,,White Lee Side,,Heckmondwike
+2023-07-28,128000,WF16 0ET,F,N,F,19,,Willow Tree Court,,Heckmondwike
+2023-07-21,168000,WF16 9EP,S,N,F,12,,Longfield Court,,Heckmondwike
+2023-07-17,170000,WF16 9EP,S,N,F,7,,Longfield Court,,Heckmondwike
+2023-07-07,74000,WF16 0LG,F,N,L,Chapel Mews,Flat 5,Brooke Street,,Heckmondwike
+2023-07-04,152500,WF16 9RJ,T,N,F,50,,Stonedene Court,,Heckmondwike
+2023-07-02,121000,WF16 9NZ,T,N,F,36,,Fairfield Road,,Heckmondwike
+2023-06-30,91000,WF16 9JE,T,N,F,7,,Peel Street,,Heckmondwike
+2023-06-29,145000,WF16 9EE,S,N,F,22,,Goose Hill,,Heckmondwike
+2023-06-28,145000,WF16 0NG,T,N,F,6,,Sheila Terrace,,Heckmondwike
+2023-06-27,70000,WF16 0LG,F,N,L,Chapel Mews,Flat 2,Brooke Street,,Heckmondwike
+2023-06-26,137500,WF16 9RJ,S,N,F,24,,Stonedene Court,,Heckmondwike
+2023-06-23,206000,WF16 9FB,T,N,F,59,,Westfield Street,,Heckmondwike
+2023-06-23,157500,WF16 0PG,S,N,F,102A,,Walkley Lane,,Heckmondwike
+2023-06-22,143500,WF16 9NP,S,N,F,3,,Fairfield Road,,Heckmondwike
+2023-06-14,215000,WF16 9AE,S,N,F,6,,Berwick Avenue,,Heckmondwike
+2023-06-09,162500,WF16 9LU,S,N,F,3,,Vernon Road,,Heckmondwike
+2023-06-09,152000,WF16 9BD,T,N,F,5,,Houldsworth Avenue,,Heckmondwike
+2023-06-07,120000,WF16 0BX,S,N,F,27,,Castle Hill View,,Heckmondwike
+2023-06-06,225000,WF16 0NE,T,N,F,2,,Mallard Close,,Heckmondwike
+2023-06-02,68000,WF16 9EG,T,N,F,107,,Cemetery Road,,Heckmondwike
+2023-06-02,123250,WF16 9DU,T,N,F,8,,Fieldhead Way,,Heckmondwike
+2023-06-02,295000,WF16 9BU,D,N,F,13,,Gomersal Road,,Heckmondwike
+2023-06-01,245000,WF16 0DQ,D,N,F,12,,Heights Lane,,Heckmondwike
+2023-05-31,55000,WF16 9JD,T,N,F,12,,Centre Street,,Heckmondwike
+2023-05-31,216000,WF16 9FD,T,N,L,50,,Redberry Avenue,,Heckmondwike
+2023-05-22,106500,WF16 9HY,T,N,F,23,,Grosvenor Terrace,,Heckmondwike
+2023-05-19,180000,WF16 9FD,T,N,L,46,,Redberry Avenue,,Heckmondwike
+2023-05-12,205000,WF16 9AE,S,N,F,19,,Berwick Avenue,,Heckmondwike
+2023-05-11,185000,WF16 9AD,S,N,F,7,,Field Close,,Heckmondwike
+2023-05-05,125500,WF16 9HZ,T,N,F,24,,Ings Road,,Heckmondwike
+2023-05-05,178000,WF16 9HJ,S,N,F,1,,Westfield Road,,Heckmondwike
+2023-05-05,175500,WF16 9FD,T,N,L,48,,Redberry Avenue,,Heckmondwike
+2023-05-05,165000,WF16 9BS,S,N,F,128,,Leeds Road,,Heckmondwike
+2023-05-05,175000,WF16 0ET,T,N,F,47,,Willow Tree Court,,Heckmondwike
+2023-04-28,137500,WF16 9AA,T,N,F,27,,Leeds Old Road,,Heckmondwike
+2023-04-28,187000,WF16 0PT,D,N,F,56,,Lowcliff Walk,,Heckmondwike
+2023-04-28,182000,WF16 0PT,S,N,F,46,,Lowcliff Walk,,Heckmondwike
+2023-04-26,220000,WF16 9AZ,S,N,F,15,,Lawrence Crescent,,Heckmondwike
+2023-04-24,115000,WF16 0BD,T,N,F,8,,Francis Street,,Heckmondwike
+2023-04-20,91000,WF16 9BZ,S,N,F,85,,Stubley Road,,Heckmondwike
+2023-04-18,230000,WF16 9DH,S,N,F,82,,New North Road,,Heckmondwike
+2023-04-17,92000,WF16 9EQ,T,N,F,2,,Parker Street,,Heckmondwike
+2023-04-17,135000,WF16 9ED,T,N,F,44,,Cemetery Road,,Heckmondwike
+2023-04-17,210000,WF16 0BW,S,N,F,6,,Churchill Grove,,Heckmondwike
+2023-04-13,120000,WF16 0NU,T,N,F,77,,Walkley Lane,,Heckmondwike
+2023-04-05,140000,WF16 9EY,T,N,F,111,,Brighton Street,,Heckmondwike
+2023-04-03,106000,WF16 9HP,T,N,F,44,,Jeremy Lane,,Heckmondwike
+2023-03-31,159995,WF16 0PT,S,N,F,18,,Lowcliff Walk,,Heckmondwike
+2023-03-28,64500,WF16 0AL,F,N,L,The Lawns,Flat 11,High Street,,Heckmondwike
+2023-03-24,130000,WF16 0LT,T,N,F,2,,Brunswick Street,,Heckmondwike
+2023-03-23,100000,WF16 9LD,S,N,F,7,,Green Avenue,,Heckmondwike
+2023-03-23,156000,WF16 0NU,S,N,F,61,,Walkley Lane,,Heckmondwike
+2023-03-15,180000,WF16 0BB,D,N,F,17A,,Grove Road,,Heckmondwike
+2023-03-10,145000,WF16 0EG,S,N,F,29,,Russell Close,,Heckmondwike
+2023-03-10,158000,WF16 0BN,S,N,F,48,,Cawley Lane,,Heckmondwike
+2023-03-09,111500,WF16 9LT,T,N,F,9,,Jeremy Lane,,Heckmondwike
+2023-03-08,110000,WF16 9LT,T,N,F,13,,Jeremy Lane,,Heckmondwike
+2023-02-27,238000,WF16 0BL,D,N,F,5,,Forster Drive,,Heckmondwike
+2023-02-24,152000,WF16 9FD,T,N,L,58,,Redberry Avenue,,Heckmondwike
+2023-02-21,45000,WF16 0HL,F,N,L,1A,,Union Street,,Heckmondwike
+2023-02-17,170000,WF16 9LD,S,N,F,1,,Green Avenue,,Heckmondwike
+2023-02-10,185000,WF16 9NS,S,N,F,21,,Fairfield Avenue,,Heckmondwike
+2023-02-10,487500,WF16 9DH,D,N,F,36A,,New North Road,,Heckmondwike
+2023-02-08,210000,WF16 9AZ,S,N,F,37,,Lawrence Crescent,,Heckmondwike
+2023-02-03,119000,WF16 0PD,T,N,F,139,,Walkley Lane,,Heckmondwike
+2023-01-27,211000,WF16 9AD,S,N,F,2,,Field Close,,Heckmondwike
+2023-01-26,79995,WF16 9LT,T,N,F,17,,Jeremy Lane,,Heckmondwike
+2023-01-24,66500,WF16 9GD,F,N,L,Hilldale View,Apartment 17,Brighton Street,,Heckmondwike
+2023-01-20,226500,WF16 9DJ,T,N,F,7,,New North Road,,Heckmondwike
+2023-01-20,120000,WF16 9DA,S,N,F,107,,Popeley Road,,Heckmondwike
+2023-01-20,155500,WF16 9AZ,S,N,F,14,,Lawrence Crescent,,Heckmondwike
+2023-01-20,165000,WF16 0PD,S,N,F,159,,Walkley Lane,,Heckmondwike
+2023-01-20,85000,WF16 0AD,T,N,F,51,,High Street,,Heckmondwike
+2023-01-18,167500,WF16 9AQ,S,N,F,139,,Leeds Old Road,,Heckmondwike
+2023-01-13,185000,WF16 0PT,S,N,F,52,,Lowcliff Walk,,Heckmondwike
+2023-01-10,145000,WF16 9HG,T,N,F,47,,Greenfields,,Heckmondwike
+2023-01-09,240000,WF16 0DF,T,N,F,20,,Lascelles Road,,Heckmondwike
+2022-12-20,140000,WF16 9JJ,T,N,F,1,,Deacons Walk,,Heckmondwike
+2022-12-19,60000,WF16 9LH,S,N,F,30,,Victoria Street,,Heckmondwike
+2022-12-16,160000,WF16 0DE,S,N,F,35,,Harewood Avenue,,Heckmondwike
+2022-12-16,139950,WF16 0BX,T,N,F,33,,Castle Hill View,,Heckmondwike
+2022-12-16,138500,WF16 0BX,T,N,F,29,,Castle Hill View,,Heckmondwike
+2022-12-15,370000,WF16 9DS,D,N,F,14,,Priestley Gardens,,Heckmondwike
+2022-12-14,140000,WF16 9EJ,S,N,F,31,,Longfield Road,,Heckmondwike
+2022-12-09,180000,WF16 9FD,T,N,L,44,,Redberry Avenue,,Heckmondwike
+2022-12-08,130000,WF16 9EQ,T,N,F,18,,Parker Street,,Heckmondwike
+2022-12-05,155000,WF16 9NW,T,N,F,81,,Hollinbank Lane,,Heckmondwike
+2022-12-02,180000,WF16 9EP,S,N,F,24,,Longfield Court,,Heckmondwike
+2022-12-01,83000,WF16 9JP,T,N,F,19,,Chapel Lane,,Heckmondwike
+2022-12-01,160000,WF16 9EE,S,N,F,15,,Goose Hill,,Heckmondwike
+2022-11-30,99000,WF16 9BZ,T,N,F,34,,Stubley Road,,Heckmondwike
+2022-11-25,204500,WF16 0PB,S,N,F,12,,Walkley Villas,,Heckmondwike
+2022-11-23,125000,WF16 9PD,S,N,F,17,,White Lee Side,,Heckmondwike
+2022-11-18,215000,WF16 9PL,S,N,F,6,,Lincoln Avenue,,Heckmondwike
+2022-11-18,155000,WF16 9DH,S,N,F,74,,New North Road,,Heckmondwike
+2022-11-18,215000,WF16 0LE,T,N,L,63,,Brunswick Place,,Heckmondwike
+2022-11-18,146000,WF16 0BX,T,N,F,8,,Castle Hill View,,Heckmondwike
+2022-11-18,168000,WF16 0BH,S,N,F,16,,Cambridge Street,,Heckmondwike
+2022-11-11,87500,WF16 9PR,S,N,F,10,,Rhodes Avenue,,Heckmondwike
+2022-11-11,162500,WF16 0AT,S,N,F,33,,Church Lane,,Heckmondwike
+2022-11-10,280000,WF16 9DU,D,N,F,36,,Fieldhead Way,,Heckmondwike
+2022-11-09,215000,WF16 0PF,S,N,F,4,,Keats Drive,,Heckmondwike
+2022-11-04,149275,WF16 9NR,S,N,F,14,,Fairfield Drive,,Heckmondwike
+2022-11-01,145000,WF16 9LN,T,N,F,39,,King Street,,Heckmondwike
+2022-10-28,143000,WF16 9EE,S,N,F,38,,Goose Hill,,Heckmondwike
+2022-10-28,145000,WF16 0NE,T,N,F,14,,Mallard Close,,Heckmondwike
+2022-10-26,178000,WF16 9AG,S,N,F,97,,Leeds Old Road,,Heckmondwike
+2022-10-21,185000,WF16 9QF,S,N,F,2,,Piperwell Close,,Heckmondwike
+2022-10-21,350000,WF16 9HP,S,N,F,38,,Jeremy Lane,,Heckmondwike
+2022-10-20,71000,WF16 9LB,S,N,F,33,,Chapel Avenue,,Heckmondwike
+2022-10-20,165000,WF16 9DH,S,N,F,60,,New North Road,,Heckmondwike
+2022-10-19,190000,WF16 0LE,T,N,L,21,,Brunswick Place,,Heckmondwike
+2022-10-18,365000,WF16 9NU,D,N,F,72D,,Dale Lane,,Heckmondwike
+2022-10-12,120000,WF16 9EG,T,N,F,51,,Cemetery Road,,Heckmondwike
+2022-10-12,88500,WF16 0ER,T,N,F,16,,Boundary Street,,Heckmondwike
+2022-10-04,180500,WF16 0PT,S,N,F,24,,Lowcliff Walk,,Heckmondwike
+2022-10-03,185000,WF16 9QB,S,N,F,4,,Chalcroft Close,,Heckmondwike
+2022-09-30,420000,WF16 9NU,D,N,F,72C,,Dale Lane,,Heckmondwike
+2022-09-30,81000,WF16 0PW,F,N,L,"Independent House, 125",Apartment 9,High Street,,Heckmondwike
+2022-09-30,230000,WF16 0PF,S,N,F,17,,Keats Drive,,Heckmondwike
+2022-09-30,150000,WF16 0BS,S,N,F,5,,Badgers Walk,,Heckmondwike
+2022-09-26,140000,WF16 9PB,S,N,F,36,,Dale Lane,,Heckmondwike
+2022-09-26,272500,WF16 0DQ,D,N,F,8,,Heights Lane,,Heckmondwike
+2022-09-23,185000,WF16 9LU,S,N,F,31,,Vernon Road,,Heckmondwike
+2022-09-16,215000,WF16 9NQ,S,N,F,57,,Hollinbank Lane,,Heckmondwike
+2022-09-09,99950,WF16 0PW,F,N,L,"Independent House, 125",Apartment 1,High Street,,Heckmondwike
+2022-09-08,185000,WF16 9NP,S,N,F,59,,Fairfield Road,,Heckmondwike
+2022-09-06,195000,WF16 9AD,S,N,F,28,,Field Close,,Heckmondwike
+2022-08-31,349000,WF16 9NU,D,N,F,72E,,Dale Lane,,Heckmondwike
+2022-08-30,135000,WF16 9DG,T,N,F,116,,Carlton Road,,Heckmondwike
+2022-08-26,105000,WF16 9LY,T,N,F,6,,Clarkson Close,,Heckmondwike
+2022-08-25,149000,WF16 9BS,S,N,F,134,,Leeds Road,,Heckmondwike
+2022-08-19,238000,WF16 9JP,D,N,F,29,,Chapel Lane,,Heckmondwike
+2022-08-16,190000,WF16 9AY,D,N,F,20,,Priestley Avenue,,Heckmondwike
+2022-08-15,160000,WF16 9AG,S,N,F,93,,Leeds Old Road,,Heckmondwike
+2022-08-12,160000,WF16 0BA,T,N,F,9,,Powell Street,,Heckmondwike
+2022-08-04,100000,WF16 9PX,S,N,F,35,,Wood Avenue,,Heckmondwike
+2022-08-02,121000,WF16 9LU,T,N,F,42,,Vernon Road,,Heckmondwike
+2022-08-01,191500,WF16 9HG,S,N,F,10,,Greenfields,,Heckmondwike
+2022-07-29,145000,WF16 9NF,T,N,F,23,,Hollinbank Lane,,Heckmondwike
+2022-07-29,205000,WF16 9JA,D,N,F,12,,Bridge Street,,Heckmondwike
+2022-07-29,85000,WF16 9GD,F,N,L,Hilldale View,Apartment 14,Brighton Street,,Heckmondwike
+2022-07-29,270000,WF16 0DW,D,N,F,3,,Capas Heights Way,,Heckmondwike
+2022-07-27,270000,WF16 0BX,S,N,F,16,,Castle Hill View,,Heckmondwike
+2022-07-27,140000,WF16 0BH,S,N,F,14,,Cambridge Street,,Heckmondwike
+2022-07-22,150000,WF16 9PD,S,N,F,14,,White Lee Side,,Heckmondwike
+2022-07-22,138000,WF16 0DW,S,N,F,38,,Capas Heights Way,,Heckmondwike
+2022-07-22,197500,WF16 0BW,S,N,F,25,,Churchill Grove,,Heckmondwike
+2022-07-21,186000,WF16 9AF,S,N,F,56,,Berwick Avenue,,Heckmondwike
+2022-07-11,85000,WF16 9LT,T,N,F,29,,Jeremy Lane,,Heckmondwike
+2022-07-08,187500,WF16 0BB,T,N,F,2,,Grove Road,,Heckmondwike
+2022-07-05,153000,WF16 0DA,S,N,F,64,,Cawley Lane,,Heckmondwike
+2022-06-28,194000,WF16 9NH,D,N,F,210,,Hollinbank Lane,,Heckmondwike
+2022-06-28,176000,WF16 9DH,T,N,F,80,,New North Road,,Heckmondwike
+2022-06-24,199000,WF16 0PF,S,N,F,19,,Keats Drive,,Heckmondwike
+2022-06-22,160000,WF16 9PL,T,N,F,10,,Lincoln Avenue,,Heckmondwike
+2022-06-22,95000,WF16 0NL,T,N,F,82A,,Walkley Lane,,Heckmondwike
+2022-06-22,100000,WF16 0BD,T,N,F,5,,Francis Street,,Heckmondwike
+2022-06-17,415000,WF16 9NU,D,N,F,72B,,Dale Lane,,Heckmondwike
+2022-06-17,170000,WF16 9FD,T,N,L,70,,Redberry Avenue,,Heckmondwike
+2022-06-17,145000,WF16 0BH,T,N,F,9,,Cambridge Street,,Heckmondwike
+2022-06-10,130000,WF16 9RJ,S,N,F,17,,Stonedene Court,,Heckmondwike
+2022-06-10,180000,WF16 0NN,S,N,F,9,,Carriage Way,,Heckmondwike
+2022-06-10,138000,WF16 0AT,S,N,F,29,,Church Lane,,Heckmondwike
+2022-06-07,215000,WF16 9AE,S,N,F,24,,Berwick Avenue,,Heckmondwike
+2022-06-07,192000,WF16 9AB,S,N,F,4,,Alma Lane,,Heckmondwike
+2022-05-27,183000,WF16 9QE,D,N,F,1,,Marled Close,,Heckmondwike
+2022-05-26,205000,WF16 9ED,D,N,F,46A,,Cemetery Road,,Heckmondwike
+2022-05-25,240000,WF16 9FB,D,N,F,29,,Westfield Street,,Heckmondwike
+2022-05-23,350000,WF16 9BQ,S,N,F,Woodside Farm,,Muffitt Lane,,Heckmondwike
+2022-05-23,70000,WF16 0NU,T,N,F,39,,Walkley Lane,,Heckmondwike
+2022-05-13,195000,WF16 9NF,D,N,F,15,,Hollinbank Lane,,Heckmondwike
+2022-05-12,115000,WF16 0LD,F,N,L,2,,Brunswick Place,,Heckmondwike
+2022-05-12,177500,WF16 0DF,S,N,F,7,,Lascelles Road,,Heckmondwike
+2022-05-11,200000,WF16 0PF,D,N,F,2,,Keats Drive,,Heckmondwike
+2022-05-09,150000,WF16 0EG,S,N,F,28,,Russell Close,,Heckmondwike
+2022-05-06,146500,WF16 9FD,T,N,L,10,,Redberry Avenue,,Heckmondwike
+2022-05-04,100000,WF16 9JP,T,N,F,17,,Chapel Lane,,Heckmondwike
+2022-04-22,185000,WF16 9QA,D,N,F,6,,Oliver Road,,Heckmondwike
+2022-04-22,80000,WF16 0NE,F,N,L,62,,Mallard Close,,Heckmondwike
+2022-04-22,178000,WF16 0BB,D,N,F,7,,Grove Road,,Heckmondwike
+2022-04-08,82000,WF16 9NE,T,N,F,10,,Batley Road,,Heckmondwike
+2022-04-06,171000,WF16 9EE,S,N,F,21,,Goose Hill,,Heckmondwike
+2022-04-05,105000,WF16 9DG,T,N,F,106,,Carlton Road,,Heckmondwike
+2022-04-04,75000,WF16 9HN,T,N,F,43,,Jeremy Lane,,Heckmondwike
+2022-04-01,50000,WF16 9NB,T,N,F,17,,Batley Road,,Heckmondwike
+2022-04-01,169000,WF16 9FB,T,N,F,27,,Westfield Street,,Heckmondwike
+2022-03-31,192500,WF16 9AE,S,N,F,1,,Berwick Avenue,,Heckmondwike
+2022-03-25,225000,WF16 9NZ,D,N,F,120,,Fairfield Road,,Heckmondwike
+2022-03-25,70000,WF16 9HP,T,N,F,52,,Jeremy Lane,,Heckmondwike
+2022-03-25,177500,WF16 9FD,S,N,L,37,,Redberry Avenue,,Heckmondwike
+2022-03-25,160000,WF16 0BS,T,N,F,11,,Badgers Walk,,Heckmondwike
+2022-03-21,115000,WF16 9NN,S,N,F,16,,Thackray Avenue,,Heckmondwike
+2022-03-17,90000,WF16 9JP,T,N,F,11,,Chapel Lane,,Heckmondwike
+2022-03-17,145000,WF16 9AL,S,N,F,3,,Royd Avenue,,Heckmondwike
+2022-03-16,125000,WF16 9PG,S,N,F,4,,Richmond Road,,Heckmondwike
+2022-03-14,127500,WF16 0DW,S,N,F,42,,Capas Heights Way,,Heckmondwike
+2022-03-11,256000,WF16 9DH,D,N,F,40,,New North Road,,Heckmondwike
+2022-03-11,140000,WF16 9AR,S,N,F,17,,Bevor Crescent,,Heckmondwike
+2022-02-28,62650,WF16 0PA,T,N,F,5,,Walkley Terrace,,Heckmondwike
+2022-02-25,330000,WF16 9NU,D,N,F,72,,Dale Lane,,Heckmondwike
+2022-02-25,152500,WF16 0NG,T,N,F,5,,Sheila Terrace,,Heckmondwike
+2022-02-18,130000,WF16 9NF,S,N,F,7,,Hollinbank Lane,,Heckmondwike
+2022-02-18,85000,WF16 9EQ,T,N,F,14,,Parker Street,,Heckmondwike
+2022-02-16,75000,WF16 9GD,F,N,L,Hilldale View,Apartment 6,Brighton Street,,Heckmondwike
+2022-02-15,184500,WF16 0NE,T,N,F,11,,Mallard Close,,Heckmondwike
+2022-02-15,128000,WF16 0ET,T,N,F,15,,Willow Tree Court,,Heckmondwike
+2022-02-14,155000,WF16 9FB,T,N,F,25,,Westfield Street,,Heckmondwike
+2022-02-14,285000,WF16 9BU,D,N,F,2,,Gomersal Road,,Heckmondwike
+2022-02-08,155000,WF16 9HZ,T,N,F,19,,Ings Road,,Heckmondwike
+2022-02-08,115000,WF16 9HD,T,N,F,90,,Greenfields,,Heckmondwike
+2022-02-04,141000,WF16 9PX,T,N,F,33,,Wood Avenue,,Heckmondwike
+2022-02-03,146000,WF16 0AT,S,N,F,31,,Church Lane,,Heckmondwike
+2022-01-25,92000,WF16 0NA,T,N,F,15,,Walkley Lane,,Heckmondwike
+2022-01-21,84000,WF16 9LE,T,N,F,1,,Claremont,,Heckmondwike
+2022-01-21,325000,WF16 0BW,D,N,F,26,,Churchill Grove,,Heckmondwike
+2022-01-17,186000,WF16 9AF,S,N,F,33,,Berwick Avenue,,Heckmondwike
+2022-01-14,155000,WF16 9LG,T,N,F,1,,Briar Court,,Heckmondwike
+2022-01-12,141000,WF16 9RJ,S,N,F,20,,Stonedene Court,,Heckmondwike
+2022-01-11,165000,WF16 0PG,T,N,F,82,,Walkley Lane,,Heckmondwike
+2022-01-10,100000,WF16 0JN,S,N,F,5,,Kaye Street,,Heckmondwike
+2022-01-07,132000,WF16 9AH,S,N,F,13,,Scott Avenue,,Heckmondwike
+2022-01-07,83000,WF16 0ED,S,N,F,59,,Hill Top Estate,,Heckmondwike
+2021-12-22,125000,WF16 9BZ,S,N,F,45,,Stubley Road,,Heckmondwike
+2021-12-22,130000,WF16 0LX,T,N,F,10,,Brooke Street,,Heckmondwike
+2021-12-17,59000,WF16 9EX,F,N,L,2,Flat 7,Back Lane,,Heckmondwike
+2021-12-17,287500,WF16 9DT,D,N,F,4,,Owler Meadows,,Heckmondwike
+2021-12-17,115000,WF16 0EB,T,N,F,7,,Tidswell Street,,Heckmondwike
+2021-12-16,140000,WF16 9NH,S,N,F,101,,Hollinbank Lane,,Heckmondwike
+2021-12-15,81000,WF16 9LB,S,N,F,32,,Chapel Avenue,,Heckmondwike
+2021-12-13,225000,WF16 9NP,S,N,F,31,,Fairfield Road,,Heckmondwike
+2021-12-10,225000,WF16 9HD,D,N,F,116,,Greenfields,,Heckmondwike
+2021-12-10,152000,WF16 0ET,S,N,F,1,,Willow Tree Court,,Heckmondwike
+2021-12-10,110000,WF16 0ER,T,N,F,42,,Boundary Street,,Heckmondwike
+2021-12-08,285000,WF16 0QA,D,N,F,10,,Cawley Garth,,Heckmondwike
+2021-12-08,79000,WF16 0PW,F,N,L,"Independent House, 125",Apartment 16,High Street,,Heckmondwike
+2021-12-06,160000,WF16 9EP,S,N,F,22,,Longfield Court,,Heckmondwike
+2021-12-03,179995,WF16 0PF,S,N,F,22,,Keats Drive,,Heckmondwike
+2021-12-02,186000,WF16 0PF,S,N,F,12,,Keats Drive,,Heckmondwike
+2021-12-01,80000,WF16 9HZ,T,N,F,22,,Ings Road,,Heckmondwike
+2021-12-01,175000,WF16 9FB,T,N,F,54,,Westfield Street,,Heckmondwike
+2021-11-30,88000,WF16 0PW,F,N,L,"Independent House, 125",Apartment 10,High Street,,Heckmondwike
+2021-11-26,177500,WF16 0NN,S,N,F,41,,Carriage Way,,Heckmondwike
+2021-11-22,167000,WF16 9AY,S,N,F,13,,Priestley Avenue,,Heckmondwike
+2021-11-19,140000,WF16 9PH,S,N,F,19,,Crabtree Avenue,,Heckmondwike
+2021-11-19,142500,WF16 9LX,S,N,F,44,,Clarkson Avenue,,Heckmondwike
+2021-11-19,60000,WF16 0EW,T,N,F,137,,Westgate,,Heckmondwike
+2021-11-17,90000,WF16 0LH,T,N,F,10,,Sharpe Street,,Heckmondwike
+2021-11-12,130000,WF16 9NZ,S,N,F,44,,Fairfield Road,,Heckmondwike
+2021-11-12,275000,WF16 9NP,D,N,F,61,,Fairfield Road,,Heckmondwike
+2021-11-12,139950,WF16 9LU,S,N,F,3,,Vernon Road,,Heckmondwike
+2021-11-08,194950,WF16 9FD,T,N,L,27,,Redberry Avenue,,Heckmondwike
+2021-11-05,193000,WF16 9AF,S,N,F,59,,Berwick Avenue,,Heckmondwike
+2021-11-05,99950,WF16 0BD,T,N,F,34,,Francis Street,,Heckmondwike
+2021-10-31,80000,WF16 0BA,T,N,F,10,,Powell Street,,Heckmondwike
+2021-10-29,205000,WF16 9FB,T,N,F,3,,Westfield Street,,Heckmondwike
+2021-10-29,89000,WF16 0PA,T,N,F,4,,Walkley Terrace,,Heckmondwike
+2021-10-28,136000,WF16 9AR,S,N,F,7,,Bevor Crescent,,Heckmondwike
+2021-10-26,140000,WF16 9AA,S,N,F,57,,Leeds Old Road,,Heckmondwike
+2021-10-22,249000,WF16 9HG,D,N,F,30,,Greenfields,,Heckmondwike
+2021-10-15,126500,WF16 0AZ,T,N,F,54,,Church Street,,Heckmondwike
+2021-09-30,249995,WF16 0EF,D,N,F,10,,Fernlea Close,,Heckmondwike
+2021-09-30,134000,WF16 0DY,T,N,F,151,,High Street,,Heckmondwike
+2021-09-30,90000,WF16 0BA,T,N,F,14,,Powell Street,,Heckmondwike
+2021-09-29,210000,WF16 0NE,T,N,F,32,,Mallard Close,,Heckmondwike
+2021-09-29,150000,WF16 0NE,S,N,F,26,,Mallard Close,,Heckmondwike
+2021-09-27,167000,WF16 9NF,S,N,F,9,,Hollinbank Lane,,Heckmondwike
+2021-09-23,195000,WF16 9AF,S,N,F,47,,Berwick Avenue,,Heckmondwike
+2021-09-22,170000,WF16 0BW,S,N,F,4,,Churchill Grove,,Heckmondwike
+2021-09-22,241000,WF16 0BU,D,N,F,22,,Fisher Way,,Heckmondwike
+2021-09-14,72000,WF16 0AD,T,N,F,53,,High Street,,Heckmondwike
+2021-09-13,161000,WF16 9AZ,S,N,F,21,,Lawrence Crescent,,Heckmondwike
+2021-09-10,170000,WF16 9FB,T,N,F,46,,Westfield Street,,Heckmondwike
+2021-09-10,180000,WF16 9AE,S,N,F,32,,Berwick Avenue,,Heckmondwike
+2021-09-10,226000,WF16 0LL,D,N,F,21,,Horton Street,,Heckmondwike
+2021-09-03,195000,WF16 9AF,S,N,F,45,,Berwick Avenue,,Heckmondwike
+2021-09-01,130000,WF16 0NA,T,N,F,21,,Walkley Lane,,Heckmondwike
+2021-08-27,135000,WF16 9LA,S,N,F,7,,Crowther Road,,Heckmondwike
+2021-08-27,79000,WF16 9EQ,T,N,F,6,,Parker Street,,Heckmondwike
+2021-08-26,220000,WF16 0LL,D,N,F,35,,Horton Street,,Heckmondwike
+2021-08-25,115500,WF16 9NF,T,N,F,17,,Hollinbank Lane,,Heckmondwike
+2021-08-24,124000,WF16 9EG,T,N,F,113,,Cemetery Road,,Heckmondwike
+2021-08-23,100000,WF16 9HT,T,N,F,7,,Fountain Street,,Heckmondwike
+2021-08-20,120000,WF16 9JX,S,N,F,56,,Trueman Avenue,,Heckmondwike
+2021-08-20,124000,WF16 0DW,S,N,F,44,,Capas Heights Way,,Heckmondwike
+2021-08-16,160000,WF16 9NR,S,N,F,10,,Fairfield Drive,,Heckmondwike
+2021-08-16,140000,WF16 9JF,T,N,F,7,,Outfield Close,,Heckmondwike
+2021-08-13,179000,WF16 9FB,S,N,F,22,,Westfield Street,,Heckmondwike
+2021-08-13,182500,WF16 9AE,S,N,F,27,,Berwick Avenue,,Heckmondwike
+2021-08-13,155000,WF16 0AZ,D,N,F,74,,Church Street,,Heckmondwike
+2021-08-12,97000,WF16 0PB,S,N,F,2,,Walkley Villas,,Heckmondwike
+2021-08-10,146000,WF16 0EG,S,N,F,19,,Russell Close,,Heckmondwike
+2021-08-06,86000,WF16 0LH,T,N,F,22,,Sharpe Street,,Heckmondwike
+2021-08-06,90000,WF16 0DR,T,N,F,139,,Halifax Road,,Heckmondwike
+2021-08-03,136000,WF16 9EE,S,N,F,19,,Goose Hill,,Heckmondwike
+2021-08-02,188000,WF16 9HG,T,N,F,66,,Greenfields,,Heckmondwike
+2021-07-28,130000,WF16 9AR,S,N,F,28,,Bevor Crescent,,Heckmondwike
+2021-07-28,120000,WF16 0AT,S,N,F,31,,Church Lane,,Heckmondwike
+2021-07-27,265000,WF16 0BU,D,N,F,25,,Fisher Way,,Heckmondwike
+2021-07-26,165000,WF16 9JZ,T,N,F,15,,Clarkson Avenue,,Heckmondwike
+2021-07-23,165000,WF16 9FB,T,N,F,56,,Westfield Street,,Heckmondwike
+2021-07-23,147500,WF16 9AR,S,N,F,17,,Bevor Crescent,,Heckmondwike
+2021-07-22,74000,WF16 9LP,T,N,F,24,,Darley Street,,Heckmondwike
+2021-07-22,76000,WF16 0ER,T,N,F,52,,Boundary Street,,Heckmondwike
+2021-07-22,110000,WF16 0BX,T,N,F,42,,Castle Hill View,,Heckmondwike
+2021-07-20,98000,WF16 0DY,T,N,F,157,,High Street,,Heckmondwike
+2021-07-19,220000,WF16 9EE,S,N,F,30,,Goose Hill,,Heckmondwike
+2021-07-16,93000,WF16 9NW,T,N,F,85A,,Hollinbank Lane,,Heckmondwike
+2021-07-14,115000,WF16 0EB,S,N,F,25,,Tidswell Street,,Heckmondwike
+2021-07-13,150000,WF16 0PT,D,N,F,25,,Lowcliff Walk,,Heckmondwike
+2021-07-12,81500,WF16 9HT,T,N,F,5,,Fountain Street,,Heckmondwike
+2021-07-12,310000,WF16 9BU,D,N,F,17,,Gomersal Road,,Heckmondwike
+2021-07-12,131250,WF16 9AG,S,N,F,87,,Leeds Old Road,,Heckmondwike
+2021-07-09,127500,WF16 0EG,S,N,F,5,,Russell Close,,Heckmondwike
+2021-07-02,155000,WF16 0NG,T,N,F,10,,Sheila Terrace,,Heckmondwike
+2021-06-30,115000,WF16 9PS,S,N,F,15,,Hirst Avenue,,Heckmondwike
+2021-06-30,300000,WF16 9FB,D,N,F,63,,Westfield Street,,Heckmondwike
+2021-06-30,170000,WF16 9FB,T,N,F,55,,Westfield Street,,Heckmondwike
+2021-06-30,172500,WF16 9AZ,S,N,F,51,,Lawrence Crescent,,Heckmondwike
+2021-06-30,135000,WF16 9AF,S,N,F,46,,Berwick Avenue,,Heckmondwike
+2021-06-29,127500,WF16 9PH,S,N,F,8,,Crabtree Avenue,,Heckmondwike
+2021-06-29,130000,WF16 9HG,T,N,F,72,,Greenfields,,Heckmondwike
+2021-06-29,290000,WF16 9FB,D,N,F,18,,Westfield Street,,Heckmondwike
+2021-06-28,195000,WF16 0LE,T,N,F,9,,Brunswick Place,,Heckmondwike
+2021-06-25,118000,WF16 9HG,S,N,F,6,,Greenfields,,Heckmondwike
+2021-06-18,153000,WF16 9FD,S,N,L,51,,Redberry Avenue,,Heckmondwike
+2021-06-18,149500,WF16 9AD,S,N,F,16,,Field Close,,Heckmondwike
+2021-06-18,240000,WF16 0NN,D,N,F,5,,Carriage Way,,Heckmondwike
+2021-06-14,145000,WF16 9AJ,S,N,F,27,,Royd Avenue,,Heckmondwike
+2021-06-11,138000,WF16 9AD,S,N,F,1,,Field Close,,Heckmondwike
+2021-06-11,85500,WF16 0NA,T,N,F,17,,Walkley Lane,,Heckmondwike
+2021-06-10,55000,WF16 9LP,T,N,F,3,,Darley Street,,Heckmondwike
+2021-06-10,114000,WF16 0ER,T,N,F,32,,Boundary Street,,Heckmondwike
+2021-06-04,185000,WF16 9HB,S,N,F,19,,Nunroyd,,Heckmondwike
+2021-06-03,44300,WF16 0BD,T,N,F,19,,Francis Street,,Heckmondwike
+2021-05-28,245000,WF16 9LY,S,N,F,15,,Clarkson Close,,Heckmondwike
+2021-05-19,99500,WF16 9PN,S,N,F,11,,Hadfield Road,,Heckmondwike
+2021-05-10,150000,WF16 0PT,D,N,F,3,,Lowcliff Walk,,Heckmondwike
+2021-05-07,126500,WF16 9RJ,S,N,F,19,,Stonedene Court,,Heckmondwike
+2021-05-07,94950,WF16 9EE,S,N,F,38,,Goose Hill,,Heckmondwike
+2021-05-07,169000,WF16 9AB,S,N,F,17,,Alma Lane,,Heckmondwike
+2021-05-07,102000,WF16 0BA,T,N,F,17,,Powell Street,,Heckmondwike
+2021-05-04,115000,WF16 9QB,S,N,F,4,,Chalcroft Close,,Heckmondwike
+2021-04-30,165000,WF16 9AG,S,N,F,85,,Leeds Old Road,,Heckmondwike
+2021-04-29,125000,WF16 9FD,T,N,L,18,,Redberry Avenue,,Heckmondwike
+2021-04-29,158000,WF16 0PT,D,N,F,17,,Lowcliff Walk,,Heckmondwike
+2021-04-23,127500,WF16 9NH,S,N,F,97,,Hollinbank Lane,,Heckmondwike
+2021-04-23,225000,WF16 0DQ,D,N,F,12,,Heights Lane,,Heckmondwike
+2021-04-14,139350,WF16 9EE,D,N,F,26,,Goose Hill,,Heckmondwike
+2021-04-09,47000,WF16 9LR,T,N,F,6,,Park Road,,Heckmondwike
+2021-04-09,71995,WF16 9JW,T,N,F,1,,Grove Street,,Heckmondwike
+2021-04-09,365000,WF16 0QA,S,N,F,6,,Cawley Garth,,Heckmondwike
+2021-04-07,167000,WF16 9DW,S,N,F,18,,New North Road,,Heckmondwike
+2021-04-06,105000,WF16 9EY,T,N,F,113,,Brighton Street,,Heckmondwike
+2021-03-31,200000,WF16 9DS,D,N,F,6,,Priestley Gardens,,Heckmondwike
+2021-03-31,249950,WF16 0LL,D,N,F,30,,Horton Street,,Heckmondwike
+2021-03-30,68500,WF16 9GD,F,N,L,Hilldale View,Apartment 19,Brighton Street,,Heckmondwike
+2021-03-30,105000,WF16 0BD,T,N,F,9,,Francis Street,,Heckmondwike
+2021-03-26,105500,WF16 9QP,T,N,F,21,,George Street,,Heckmondwike
+2021-03-26,197000,WF16 9EP,D,N,F,28,,Longfield Court,,Heckmondwike
+2021-03-26,155000,WF16 0PG,T,N,F,86,,Walkley Lane,,Heckmondwike
+2021-03-26,100000,WF16 0BD,T,N,F,33,,Francis Street,,Heckmondwike
+2021-03-26,110000,WF16 0AL,T,N,F,89,,High Street,,Heckmondwike
+2021-03-23,126786,WF16 9AA,S,N,F,25,,Leeds Old Road,,Heckmondwike
+2021-03-15,175000,WF16 0BU,S,N,F,19,,Fisher Way,,Heckmondwike
+2021-03-12,135000,WF16 0DA,D,N,F,47,,Cawley Lane,,Heckmondwike
+2021-03-11,287500,WF16 9LU,S,N,F,25,,Vernon Road,,Heckmondwike
+2021-03-10,103000,WF16 0PT,S,N,F,12,,Lowcliff Walk,,Heckmondwike
+2021-03-09,48000,WF16 9JP,T,N,F,65,,Chapel Lane,,Heckmondwike
+2021-03-08,115000,WF16 9HD,T,N,F,90,,Greenfields,,Heckmondwike
+2021-03-05,150000,WF16 9FD,S,N,L,34,,Redberry Avenue,,Heckmondwike
+2021-03-03,170000,WF16 9AF,S,N,F,41,,Berwick Avenue,,Heckmondwike
+2021-03-03,200000,WF16 0BT,D,N,F,3,,Lund Drive,,Heckmondwike
+2021-02-26,125500,WF16 9RJ,T,N,F,42,,Stonedene Court,,Heckmondwike
+2021-02-26,127000,WF16 9PT,S,N,F,3,,Hirst Avenue,,Heckmondwike
+2021-02-26,119000,WF16 9PG,S,N,F,14,,Richmond Road,,Heckmondwike
+2021-02-25,115000,WF16 9QF,T,N,F,5,,Piperwell Close,,Heckmondwike
+2021-02-22,221000,WF16 0LL,S,N,F,5,,Horton Street,,Heckmondwike
+2021-02-22,133000,WF16 0LE,D,N,L,37,,Brunswick Place,,Heckmondwike
+2021-02-22,137000,WF16 0EG,S,N,F,4,,Russell Close,,Heckmondwike
+2021-02-19,90000,WF16 0NE,F,N,L,68,,Mallard Close,,Heckmondwike
+2021-02-19,132500,WF16 0LE,T,N,F,55,,Brunswick Place,,Heckmondwike
+2021-02-18,130000,WF16 9HG,S,N,F,68,,Greenfields,,Heckmondwike
+2021-02-18,175000,WF16 0PF,S,N,F,12,,Keats Drive,,Heckmondwike
+2021-02-17,175000,WF16 9FD,S,N,L,64,,Redberry Avenue,,Heckmondwike
+2021-02-12,119000,WF16 9NP,S,N,F,43,,Fairfield Road,,Heckmondwike
+2021-02-12,260000,WF16 9DU,D,N,F,9,,Fieldhead Way,,Heckmondwike
+2021-02-12,135000,WF16 9AE,S,N,F,7,,Berwick Avenue,,Heckmondwike
+2021-02-12,100000,WF16 0LU,S,N,F,3,,Walkley Lane,,Heckmondwike
+2021-02-12,162500,WF16 0JP,T,N,F,9,,Old Station Court,,Heckmondwike
+2021-02-12,137000,WF16 0EG,S,N,F,20,,Russell Close,,Heckmondwike
+2021-02-12,140000,WF16 0AE,T,N,F,50,,Milton Square,,Heckmondwike
+2021-02-10,110000,WF16 0BD,T,N,F,32,,Francis Street,,Heckmondwike
+2021-02-09,135000,WF16 0PF,S,N,F,15,,Keats Drive,,Heckmondwike
+2021-02-08,72500,WF16 0AJ,T,N,F,88,,High Street,,Heckmondwike
+2021-02-05,156500,WF16 9FD,T,N,L,71,,Redberry Avenue,,Heckmondwike
+2021-02-01,39950,WF16 9LN,T,N,F,7,,King Street,,Heckmondwike
+2021-01-29,175000,WF16 9HF,T,N,F,23,,Little Green Lane,,Heckmondwike
+2021-01-29,130000,WF16 9AL,S,N,F,1,,Royd Avenue,,Heckmondwike
+2021-01-27,125000,WF16 0PG,S,N,F,94,,Walkley Lane,,Heckmondwike
+2021-01-22,232500,WF16 9NS,S,N,F,29,,Fairfield Avenue,,Heckmondwike
+2021-01-22,130000,WF16 9AL,S,N,F,7,,Royd Avenue,,Heckmondwike
+2021-01-22,151000,WF16 0PQ,S,N,F,2,,Moor View,,Heckmondwike
+2021-01-22,173000,WF16 0NN,S,N,F,39,,Carriage Way,,Heckmondwike
+2021-01-22,150000,WF16 0ET,T,Y,F,53,,Willow Tree Court,,Heckmondwike
+2021-01-19,160000,WF16 9BD,S,N,F,4,,Houldsworth Avenue,,Heckmondwike
+2021-01-18,185000,WF16 0LE,T,N,F,15,,Brunswick Place,,Heckmondwike
+2021-01-15,195000,WF16 9HD,D,N,F,120,,Greenfields,,Heckmondwike
+2021-01-08,95500,WF16 9LF,S,N,F,23,,Upper George Street,,Heckmondwike

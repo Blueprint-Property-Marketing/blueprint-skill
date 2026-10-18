@@ -1,0 +1,946 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-13,302500,GU29 9QN,T,N,F,10,,Claremont Way,,Midhurst
+2026-08-05,1085000,GU29 9PW,D,N,F,6,,Southlands Park,,Midhurst
+2026-07-27,195000,GU29 9FH,F,N,L,8,,Forest Road,,Midhurst
+2026-07-22,640000,GU29 9HH,S,N,F,2,,Chapel Mount,,Midhurst
+2026-07-22,300000,GU29 9AT,T,N,F,33,,Lutener Road,Easebourne,Midhurst
+2026-07-17,360000,GU29 9HZ,S,N,F,11,,Bourne Way,,Midhurst
+2026-07-17,625000,GU29 9FY,T,N,F,2,,Gilbert Hannam Close,,Midhurst
+2026-07-06,545000,GU29 0NS,T,N,F,27,,Lavender Row,Stedham,Midhurst
+2026-06-30,330000,GU29 9TQ,T,N,F,10,,Barlavington Way,,Midhurst
+2026-06-30,192500,GU29 9HW,F,N,L,12,,Spring Meadow,,Midhurst
+2026-06-26,455000,GU29 9JX,T,N,F,1,,Ashfield Road,,Midhurst
+2026-06-19,260000,GU29 0EX,F,N,L,King Edward Vii Apartments,47,Kings Drive,,Midhurst
+2026-06-16,622000,GU29 9FY,T,N,F,1,,Gilbert Hannam Close,,Midhurst
+2026-06-11,373900,GU29 9EG,T,N,F,7,,Hurstwood Court,,Midhurst
+2026-06-05,200000,GU29 9QA,F,N,L,43,,Heathfield Green,,Midhurst
+2026-06-04,550000,GU29 9UA,T,N,L,23,,Cowdray Court,,Midhurst
+2026-05-28,224000,GU29 9HY,F,N,L,Brackens,,New Road,,Midhurst
+2026-05-28,320000,GU29 9BT,T,N,F,24,,Mead Way,,Midhurst
+2026-05-08,222500,GU29 9QA,F,N,L,55,,Heathfield Green,,Midhurst
+2026-04-27,102000,GU29 9NE,F,N,L,7 Russell Court,,Petersfield Road,,Midhurst
+2026-04-17,365000,GU29 9TA,T,N,F,38,,Poplar Way,,Midhurst
+2026-04-17,735000,GU29 9QR,D,N,F,7,,Bepton Close,,Midhurst
+2026-04-17,168000,GU29 9LU,F,N,L,Hatton House,Flat 3,Bepton Road,,Midhurst
+2026-04-16,300000,GU29 0AD,F,N,L,Budgenor Lodge,9,Dodsley Lane,Easebourne,Midhurst
+2026-04-14,290000,GU29 9QS,T,N,F,19,,Oakwood Close,,Midhurst
+2026-04-09,342000,GU29 9FG,F,N,L,Clevedon,Flat 5,Ashfield Road,,Midhurst
+2026-03-31,635000,GU29 9PP,D,N,F,34,,Pretoria Avenue,,Midhurst
+2026-03-27,240000,GU29 9HB,F,N,L,5,,Elmleigh Court,,Midhurst
+2026-03-19,340000,GU29 9DQ,T,N,F,York House,,Knockhundred Row,,Midhurst
+2026-03-19,725000,GU29 0NT,D,N,F,Grado,,School Lane,Stedham,Midhurst
+2026-03-13,195000,GU29 9JE,F,N,L,Adelaide House,Flat 13,The Fairway,,Midhurst
+2026-03-06,665000,GU29 9LD,D,N,F,The Oaks,,Carron Lane,,Midhurst
+2026-03-06,700000,GU29 9AD,D,N,F,Birchtrees Nursing Home,,Hollist Lane,Easebourne,Midhurst
+2026-02-27,1200000,GU29 0ET,D,N,F,11,,Closewalks Wood,,Midhurst
+2026-02-24,160000,GU29 9EL,F,N,L,June Cottage,2,June Lane,,Midhurst
+2026-02-23,340000,GU29 9EL,T,N,L,The Coach House,3,June Lane,,Midhurst
+2026-02-13,400000,GU29 9FY,S,N,F,6,,Gilbert Hannam Close,,Midhurst
+2026-02-12,320000,GU29 9TG,T,N,F,45,,Barlavington Way,,Midhurst
+2026-02-09,590000,GU29 0PS,F,N,L,Stedham Hall,2,Mill Lane,Stedham,Midhurst
+2026-01-30,97500,GU29 9FH,F,N,L,12,,Forest Road,,Midhurst
+2026-01-28,290000,GU29 9EA,T,N,F,Rosemary Cottage,,Lamberts Lane,,Midhurst
+2026-01-27,417500,GU29 9DX,F,N,L,Borough House,1,North Street,,Midhurst
+2026-01-26,565000,GU29 9QW,D,N,F,2,,Cavalier Close,,Midhurst
+2026-01-23,199999,GU29 9QP,F,N,L,60,,Oakwood Close,,Midhurst
+2026-01-16,660000,GU29 0EY,F,N,L,King Edward Vii Apartments,123,Kings Drive,,Midhurst
+2026-01-16,1127000,GU29 0BP,D,N,F,25,,Hurst Park,,Midhurst
+2026-01-14,550000,GU29 0FG,D,N,F,4,,Pine Close,West Lavington,Midhurst
+2026-01-09,415000,GU29 9EL,S,N,F,Country View,,June Lane,,Midhurst
+2025-12-23,560000,GU29 9SS,D,N,F,3,,Little Court Close,,Midhurst
+2025-12-19,1100000,GU29 9BE,D,N,F,Beech House,,Dodsley Grove,Easebourne,Midhurst
+2025-12-18,455000,GU29 9JX,T,N,F,3,,Ashfield Road,,Midhurst
+2025-12-18,930000,GU29 9JR,D,N,F,76,,Petersfield Road,,Midhurst
+2025-12-18,615000,GU29 9JF,D,N,F,109,,The Fairway,,Midhurst
+2025-12-18,450000,GU29 9BG,S,N,F,12,,Egmont Road,Easebourne,Midhurst
+2025-12-16,220000,GU29 9PQ,F,N,L,24,,New Road,,Midhurst
+2025-12-15,322500,GU29 9TB,T,N,F,55,,Poplar Way,,Midhurst
+2025-12-12,550000,GU29 9ST,T,N,F,3,,Chartwell Mews,,Midhurst
+2025-12-12,212500,GU29 9QA,F,N,L,50,,Heathfield Green,,Midhurst
+2025-12-12,680000,GU29 9EZ,D,N,F,47,,Elmleigh,,Midhurst
+2025-12-11,565000,GU29 9GH,S,Y,F,11,,Mitford Drive,,Midhurst
+2025-12-11,230000,GU29 0EX,F,N,L,King Edward Vii Apartments,61,Kings Drive,,Midhurst
+2025-12-09,635000,GU29 9BB,D,N,F,Lexham,,Dodsley Lane,Easebourne,Midhurst
+2025-12-08,885000,GU29 0HU,D,N,F,Garth House,,Bell Lane,Cocking,Midhurst
+2025-12-08,540000,GU29 0FF,F,N,L,The Nurses House,7,Adams Walk,,Midhurst
+2025-12-05,486250,GU29 9EZ,S,N,F,36,,Elmleigh,,Midhurst
+2025-12-05,750000,GU29 0HD,D,N,F,South Downs Cottage,,,Cocking,Midhurst
+2025-11-28,315000,GU29 9JW,T,N,F,6,,Cobden Road,,Midhurst
+2025-11-28,315000,GU29 9JD,T,N,F,7A,,The Fairway,,Midhurst
+2025-11-27,343000,GU29 9TH,S,N,F,22,,Southdown Close,,Midhurst
+2025-11-26,458500,GU29 9FN,T,N,F,2,,Angel Yard,,Midhurst
+2025-11-24,345000,GU29 9TD,T,N,F,118,,Poplar Way,,Midhurst
+2025-11-21,380000,GU29 9TD,S,N,F,100,,Poplar Way,,Midhurst
+2025-11-21,150000,GU29 9BX,F,N,L,The Courtyard Studio,,Wool Lane,,Midhurst
+2025-11-21,775000,GU29 0NG,D,N,F,Nile Grove,,The Street,Stedham,Midhurst
+2025-11-19,385000,GU29 9EZ,S,N,F,24,,Elmleigh,,Midhurst
+2025-11-17,1550000,GU29 9RB,D,N,F,Bepton Common,,,Bepton,Midhurst
+2025-11-14,150000,GU29 9EX,T,N,F,Sandrock,21,June Lane,,Midhurst
+2025-11-14,400000,GU29 9BQ,T,N,F,28,,Cowdray Road,Easebourne,Midhurst
+2025-11-12,615000,GU29 9FY,T,N,F,3,,Gilbert Hannam Close,,Midhurst
+2025-11-12,265000,GU29 9BU,T,N,F,7,,Tufts Field,,Midhurst
+2025-11-07,543500,GU29 9HN,D,N,F,26,,Heathfield Park,,Midhurst
+2025-11-06,425000,GU29 9HN,T,N,F,21,,Heathfield Park,,Midhurst
+2025-11-04,745000,GU29 9LH,D,N,F,15,,Heatherwood,,Midhurst
+2025-10-31,750000,GU29 0LA,D,N,F,White Cottage,,,Elsted,Midhurst
+2025-10-30,270000,GU29 9EH,T,N,F,69,,Mead Way,,Midhurst
+2025-10-24,525000,GU29 9PP,D,N,F,35,,Pretoria Avenue,,Midhurst
+2025-10-22,300000,GU29 9JQ,D,N,F,6,,Poplar Way,,Midhurst
+2025-10-22,370000,GU29 9GA,F,N,L,4,,Wyndham Court,,Midhurst
+2025-10-17,590000,GU29 9JF,D,N,F,116,,The Fairway,,Midhurst
+2025-10-17,550000,GU29 9EA,T,N,F,1,,Wyndham Terrace,,Midhurst
+2025-10-17,625000,GU29 0LB,S,N,F,Newhouse Farm Cottages,6,Grevatts Lane,Treyford,Midhurst
+2025-10-13,200000,GU29 0DW,F,N,L,2,,Austens,Heyshott,Midhurst
+2025-10-10,374040,GU29 9TA,T,N,F,68,,Poplar Way,,Midhurst
+2025-10-10,830000,GU29 9BD,S,N,F,8,,High Path,Easebourne,Midhurst
+2025-10-10,635000,GU29 0FF,F,N,L,The Nurses House,14,Adams Walk,,Midhurst
+2025-10-09,1325000,GU29 0PE,D,N,F,The Blotting House,,,Iping,Midhurst
+2025-10-06,390000,GU29 0NF,T,N,F,3,,Hamilton Close,Stedham,Midhurst
+2025-10-03,345000,GU29 9TD,T,N,F,110,,Poplar Way,,Midhurst
+2025-10-03,900000,GU29 9LF,D,N,F,Woodside,,Carron Lane,,Midhurst
+2025-10-03,450000,GU29 0NU,S,N,F,82,,Common View,Stedham,Midhurst
+2025-10-01,785000,GU29 0EX,F,N,L,King Edward Vii Apartments,42,Kings Drive,,Midhurst
+2025-09-29,225000,GU29 9PF,F,N,L,Pippbrook,Flat 2,Chichester Road,,Midhurst
+2025-09-24,675000,GU29 9JG,D,N,F,12,,Goodwood Close,,Midhurst
+2025-09-23,1937000,GU29 0LA,D,N,F,Glebe House,,,Elsted,Midhurst
+2025-09-19,560000,GU29 9LG,D,N,F,Oakhurst,2,Carron Lane,,Midhurst
+2025-09-12,965000,GU29 9EL,D,N,F,Trilliums,,June Lane,,Midhurst
+2025-09-12,245000,GU29 9AU,S,N,F,3,,Victoria Avenue,Easebourne,Midhurst
+2025-09-08,435000,GU29 0FF,F,N,L,The Nurses House,20,Adams Walk,,Midhurst
+2025-09-05,405000,GU29 9JD,S,N,F,27,,The Fairway,,Midhurst
+2025-09-05,480000,GU29 9HZ,S,N,F,7,,Bourne Way,,Midhurst
+2025-09-05,84000,GU29 9FH,F,N,L,35,,Forest Road,,Midhurst
+2025-09-05,632500,GU29 9ED,D,N,F,Goldneys,,Park Crescent,,Midhurst
+2025-08-22,750000,GU29 9PD,D,N,F,Three Gables,,South Street,,Midhurst
+2025-08-19,460000,GU29 9PJ,S,N,F,76,,Taylors Field,,Midhurst
+2025-08-15,442500,GU29 0LB,T,N,F,Newhouse Farm Cottages,9,Grevatts Lane,Treyford,Midhurst
+2025-08-14,779800,GU29 9RP,D,N,F,11,,Ashfield Close,,Midhurst
+2025-08-14,1200000,GU29 0HY,D,N,F,New Barn Cottage,,,Bepton,Midhurst
+2025-08-11,1280000,GU29 0DQ,D,N,F,Bex Mill House,,Bex Lane,Heyshott,Midhurst
+2025-08-08,270000,GU29 9LT,F,N,L,The Old Court House,Flat 4,Grange Road,,Midhurst
+2025-08-08,366000,GU29 9JH,T,N,L,39,,Petersfield Road,,Midhurst
+2025-08-08,300000,GU29 9HG,S,N,F,7,,Heathfield Gardens,,Midhurst
+2025-08-08,550000,GU29 9HD,S,N,F,The Mint,,Bepton Road,,Midhurst
+2025-08-08,430000,GU29 9ED,S,N,F,9,,Park Crescent,,Midhurst
+2025-08-08,2150000,GU29 0DL,D,N,F,Thicketts,,,Heyshott,Midhurst
+2025-08-06,247500,GU29 0HQ,S,N,F,47,,The Croft,Cocking,Midhurst
+2025-08-05,570000,GU29 9QG,D,N,F,Comrie,,,Cocking Causeway,Midhurst
+2025-08-05,500000,GU29 9HL,D,N,F,64,,Heathfield Park,,Midhurst
+2025-07-31,585000,GU29 9GH,S,Y,F,12,,Mitford Drive,,Midhurst
+2025-07-31,1160000,GU29 0ET,D,N,F,9,,Closewalks Wood,,Midhurst
+2025-07-29,825000,GU29 9GH,D,Y,F,14,,Mitford Drive,,Midhurst
+2025-07-25,300000,GU29 0PT,T,N,F,1 Bridgefoot Cottage,,,Stedham,Midhurst
+2025-07-23,925000,GU29 9LB,D,N,F,Crosswinds,,Carron Lane,,Midhurst
+2025-07-22,950000,GU29 9BA,D,N,F,Ashover,,Vanzell Road,Easebourne,Midhurst
+2025-07-18,400000,GU29 9AP,S,N,F,Montier Cottage,1,Dodsley Lane,Easebourne,Midhurst
+2025-07-14,230000,GU29 9PX,T,N,F,21,,The Wharf,,Midhurst
+2025-07-14,535000,GU29 9EZ,D,N,F,23A,,Elmleigh,,Midhurst
+2025-07-11,380000,GU29 9QZ,S,N,F,37,,Pitsham Wood,,Midhurst
+2025-07-10,600000,GU29 0HH,D,N,F,The Old School House,3,Mill Lane,Cocking,Midhurst
+2025-06-30,515000,GU29 9UA,T,N,L,16,,Cowdray Court,,Midhurst
+2025-06-30,950000,GU29 0BD,D,N,F,Highridge,,Easebourne Street,Upper Easebourne,Midhurst
+2025-06-27,335000,GU29 9TQ,T,N,F,40,,Barlavington Way,,Midhurst
+2025-06-26,275000,GU29 9NL,S,N,L,Gate House,5,Edinburgh Square,,Midhurst
+2025-06-25,189500,GU29 9TD,F,N,L,115,,Poplar Way,,Midhurst
+2025-06-20,325000,GU29 9JH,T,N,F,21,,Petersfield Road,,Midhurst
+2025-06-18,285000,GU29 9EJ,T,N,F,30,,Bridgefield Close,,Midhurst
+2025-06-17,480000,GU29 9FN,T,N,F,4,,Angel Yard,,Midhurst
+2025-06-13,340000,GU29 9LW,T,N,F,28,,Downsview Drive,,Midhurst
+2025-06-13,285000,GU29 9HW,T,N,L,20,,Spring Meadow,,Midhurst
+2025-06-13,235000,GU29 9HF,F,N,L,"Roma, 2",Flat 1,Bepton Road,,Midhurst
+2025-06-10,172500,GU29 9HW,F,N,L,3,,Spring Meadow,,Midhurst
+2025-06-09,295000,GU29 9FU,F,N,L,Turner House,Flat 29,St Margarets Way,,Midhurst
+2025-06-06,290000,GU29 9DX,F,N,L,Borough House,4,North Street,,Midhurst
+2025-06-06,595000,GU29 0NQ,D,N,F,Woodlands,,The Street,Stedham,Midhurst
+2025-06-05,550000,GU29 9QZ,D,N,F,16,,Pitsham Wood,,Midhurst
+2025-05-29,590000,GU29 9GS,D,Y,F,5,,Warren Way,,Midhurst
+2025-05-23,195000,GU29 9HW,F,N,L,11,,Spring Meadow,,Midhurst
+2025-05-23,625000,GU29 9GH,D,Y,F,5,,Mitford Drive,,Midhurst
+2025-05-23,295000,GU29 9BU,T,N,F,31,,Tufts Field,,Midhurst
+2025-05-06,790000,GU29 0BE,D,N,F,Nutsey,,Easebourne Street,Upper Easebourne,Midhurst
+2025-05-01,217000,GU29 9FN,F,N,L,7,,Angel Yard,,Midhurst
+2025-05-01,275000,GU29 9AU,T,N,F,4,,Victoria Avenue,Easebourne,Midhurst
+2025-04-30,1300000,GU29 0FB,D,N,F,16,,Brackenwood,,Midhurst
+2025-04-28,225000,GU29 9QA,F,N,L,24,,Heathfield Green,,Midhurst
+2025-04-28,1387500,GU29 9AE,D,N,F,Upperfield Cottage,,Upperfield,Easebourne,Midhurst
+2025-04-28,650000,GU29 0EX,F,N,L,King Edward Vii Apartments,7,Kings Drive,,Midhurst
+2025-04-25,1337500,GU29 0FB,D,N,F,10,,Brackenwood,,Midhurst
+2025-04-17,265000,GU29 9FZ,F,N,L,16,,Wyndham Place,,Midhurst
+2025-03-31,500000,GU29 9QW,S,N,F,15,,Cavalier Close,,Midhurst
+2025-03-31,450000,GU29 9BQ,S,N,F,1,,Cowdray Road,Easebourne,Midhurst
+2025-03-31,780000,GU29 0HU,D,N,F,Swallowfield,,Bell Lane,Cocking,Midhurst
+2025-03-31,400000,GU29 0EX,F,N,L,King Edward Vii Apartments,34A,Kings Drive,,Midhurst
+2025-03-28,185000,GU29 9TH,F,N,L,12,,Southdown Close,,Midhurst
+2025-03-28,361500,GU29 9TD,T,N,F,108,,Poplar Way,,Midhurst
+2025-03-28,465000,GU29 9FQ,T,N,F,7,,St Margarets Way,,Midhurst
+2025-03-28,850000,GU29 9BA,D,N,F,Alresford,,Vanzell Road,Easebourne,Midhurst
+2025-03-28,665000,GU29 0FD,T,N,F,16,,Sir Geoffrey Todd Walk,,Midhurst
+2025-03-27,450000,GU29 9HL,D,N,F,63,,Heathfield Park,,Midhurst
+2025-03-27,800000,GU29 0QE,D,N,F,Older Hill Kennels,,,Redford,Midhurst
+2025-03-26,230000,GU29 9HW,F,N,L,6,,Spring Meadow,,Midhurst
+2025-03-26,270000,GU29 9AT,T,N,F,20,,Lutener Road,Easebourne,Midhurst
+2025-03-25,218000,GU29 9QA,F,N,L,26,,Heathfield Green,,Midhurst
+2025-03-24,222500,GU29 9HW,F,N,L,14,,Spring Meadow,,Midhurst
+2025-03-24,192500,GU29 0NX,F,N,L,4,,Common View,Stedham,Midhurst
+2025-03-24,210800,GU29 0HP,S,N,F,Malthouse Cottages,8,Crypt Lane,Cocking,Midhurst
+2025-03-21,525000,GU29 9QW,D,N,F,16,,Cavalier Close,,Midhurst
+2025-03-21,282500,GU29 9NL,F,N,L,Gate House,1A,Edinburgh Square,,Midhurst
+2025-03-14,1200000,GU29 9QH,D,N,F,Carters Cottage,,,Cocking Causeway,Midhurst
+2025-03-12,815000,GU29 0LA,D,N,F,Osborne Cottage,,,Elsted,Midhurst
+2025-03-07,500000,GU29 9UA,T,N,L,17,,Cowdray Court,,Midhurst
+2025-02-28,312500,GU29 9HZ,S,N,F,36,,Bourne Way,,Midhurst
+2025-02-27,405000,GU29 9TD,T,N,F,98,,Poplar Way,,Midhurst
+2025-02-27,350000,GU29 9QS,T,N,F,11,,Oakwood Close,,Midhurst
+2025-02-26,680000,GU29 9JZ,D,N,F,24,,Guillards Oak,,Midhurst
+2025-02-25,812500,GU29 0PE,S,N,F,Stable Cottage,,,Iping,Midhurst
+2025-02-17,650000,GU29 9LE,D,N,F,Waysmeet,,Carron Lane,,Midhurst
+2025-02-17,555000,GU29 9LB,S,N,F,Hollybank,,Carron Lane,,Midhurst
+2025-02-17,240000,GU29 9FS,F,N,L,Duke House,Flat 6,St Margarets Way,,Midhurst
+2025-02-12,950000,GU29 0BQ,D,N,F,Nobles Cottage,,Easebourne Street,Upper Easebourne,Midhurst
+2025-02-06,566000,GU29 9NX,T,N,F,4,,Church Hill,,Midhurst
+2025-02-06,340000,GU29 9HZ,S,N,F,17,,Bourne Way,,Midhurst
+2025-02-06,972000,GU29 0EG,D,N,F,Lavington Cottage,,Selham Road,West Lavington,Midhurst
+2025-02-05,280000,GU29 9TF,T,N,F,38,,Hawthorn Close,,Midhurst
+2025-02-04,540000,GU29 9UA,T,N,L,9,,Cowdray Court,,Midhurst
+2025-02-03,275000,GU29 9PH,T,N,F,20,,Taylors Field,,Midhurst
+2025-02-03,100000,GU29 9NE,F,N,L,1 Russell Court,,Petersfield Road,,Midhurst
+2025-01-31,550000,GU29 9QW,S,N,F,20,,Cavalier Close,,Midhurst
+2025-01-30,546000,GU29 9EZ,D,N,F,48,,Elmleigh,,Midhurst
+2025-01-30,775000,GU29 0NQ,S,N,F,19,,The Street,Stedham,Midhurst
+2025-01-29,1025000,GU29 9NT,D,N,F,Russet House,,Sheep Lane,,Midhurst
+2025-01-29,1260000,GU29 0FB,D,N,F,3,,Brackenwood,,Midhurst
+2025-01-28,386000,GU29 9TB,T,N,F,73,,Poplar Way,,Midhurst
+2025-01-24,510000,GU29 9PF,D,N,F,Pear Trees,,Chichester Road,,Midhurst
+2025-01-24,172000,GU29 9ND,F,N,L,The Stock Exchange,Flat 2,Rumbolds Hill,,Midhurst
+2025-01-23,260000,GU29 9EL,F,N,L,Roselawn,Flat 1,June Lane,,Midhurst
+2025-01-22,290000,GU29 9HG,S,N,F,5,,Heathfield Gardens,,Midhurst
+2025-01-22,1300000,GU29 0LQ,D,N,F,Homemead,,,Didling,Midhurst
+2025-01-20,460000,GU29 9AD,F,N,L,Penrhos,Flat 3,Hollist Lane,Easebourne,Midhurst
+2025-01-20,500000,GU29 0HN,D,N,F,Old Village Hall,,,Cocking,Midhurst
+2025-01-17,347500,GU29 9PG,S,N,F,16,,Taylors Rise,,Midhurst
+2025-01-17,457000,GU29 9HN,T,N,F,28,,Heathfield Park,,Midhurst
+2025-01-17,325000,GU29 9HG,S,N,F,4,,Heathfield Gardens,,Midhurst
+2025-01-13,447000,GU29 9QA,T,N,F,2,,Heathfield Green,,Midhurst
+2025-01-10,375000,GU29 9TH,D,N,F,22A,,Southdown Close,,Midhurst
+2025-01-10,635000,GU29 9HY,D,N,F,Burnside,,New Road,,Midhurst
+2025-01-10,1465000,GU29 9AE,D,N,F,5,,Upperfield,Easebourne,Midhurst
+2024-12-19,490000,GU29 9FN,F,N,L,14,,Angel Yard,,Midhurst
+2024-12-18,734000,GU29 9JP,D,N,F,Melita,,Little Ashfield,,Midhurst
+2024-12-13,550000,GU29 9UA,T,N,L,22,,Cowdray Court,,Midhurst
+2024-12-12,590000,GU29 0HD,D,N,F,"Manor Lodge, 210",,,Cocking,Midhurst
+2024-12-10,465000,GU29 9JJ,T,N,F,11,,The Rockeries,,Midhurst
+2024-12-10,925000,GU29 0PS,D,N,F,Mayfield,,Mill Lane,Stedham,Midhurst
+2024-12-10,1850000,GU29 0LJ,D,N,F,Christmas Cottage,,,Ingrams Green,Midhurst
+2024-12-02,348500,GU29 9TB,T,N,F,29,,Poplar Way,,Midhurst
+2024-11-28,355000,GU29 9EJ,T,N,F,35,,Bridgefield Close,,Midhurst
+2024-11-27,367500,GU29 9TQ,T,N,F,14,,Barlavington Way,,Midhurst
+2024-11-27,240000,GU29 9EL,F,N,L,June Cottage,1,June Lane,,Midhurst
+2024-11-22,300000,GU29 9NT,T,N,F,Old Vault,,Sheep Lane,,Midhurst
+2024-11-22,711000,GU29 0FH,T,Y,F,10,,Kings Drive,,Midhurst
+2024-11-15,680000,GU29 0HW,S,N,F,Tudor Cottage,,Church Lane,Cocking,Midhurst
+2024-11-07,1550000,GU29 9PZ,D,N,F,Hill Top House,,Chichester Road,,Midhurst
+2024-11-07,700000,GU29 0FF,F,N,L,The Nurses House,15,Adams Walk,,Midhurst
+2024-11-06,425000,GU29 9RP,D,N,F,"Cedar Lodge, 17",,Ashfield Close,,Midhurst
+2024-11-05,408500,GU29 9EL,S,N,F,Summerfield,,June Lane,,Midhurst
+2024-11-01,420000,GU29 9TB,S,N,F,65,,Poplar Way,,Midhurst
+2024-11-01,192500,GU29 9PJ,F,N,L,93,,Taylors Field,,Midhurst
+2024-10-30,490000,GU29 9AF,D,N,F,13,,Canada Grove,Easebourne,Midhurst
+2024-10-29,185000,GU29 9FU,F,N,L,Turner House,Flat 30,St Margarets Way,,Midhurst
+2024-10-28,400000,GU29 9TD,T,N,F,111,,Poplar Way,,Midhurst
+2024-10-28,318000,GU29 0NX,T,N,F,36,,Common View,Stedham,Midhurst
+2024-10-23,275000,GU29 9AT,T,N,F,13,,Lutener Road,Easebourne,Midhurst
+2024-10-23,385000,GU29 0NU,S,N,F,72,,Common View,Stedham,Midhurst
+2024-10-21,268000,GU29 0NN,T,N,F,Southview,21,The Alley,Stedham,Midhurst
+2024-10-18,92500,GU29 9NE,F,N,L,18 Russell Court,,Petersfield Road,,Midhurst
+2024-10-18,165000,GU29 9LW,F,N,L,39,,Downsview Drive,,Midhurst
+2024-10-18,416000,GU29 9EZ,S,N,F,35,,Elmleigh,,Midhurst
+2024-10-18,1092500,GU29 9AD,D,N,F,Suffield House,,Hollist Lane,Easebourne,Midhurst
+2024-10-16,355000,GU29 9HZ,S,N,F,Kismet,,Bourne Way,,Midhurst
+2024-10-11,307500,GU29 9BT,T,N,F,24,,Mead Way,,Midhurst
+2024-10-11,580124,GU29 0PY,S,N,F,48,,Tote Lane,Stedham,Midhurst
+2024-10-01,265000,GU29 9DE,T,N,F,"Spring Cottage, 6",,Duck Lane,,Midhurst
+2024-09-27,515000,GU29 9NX,T,N,F,3A,,Church Hill,,Midhurst
+2024-09-25,390000,GU29 9QA,T,N,F,17,,Heathfield Green,,Midhurst
+2024-09-20,445000,GU29 9JF,D,N,F,127,,The Fairway,,Midhurst
+2024-09-20,1400000,GU29 0PS,D,N,F,Beechend,,Mill Lane,Stedham,Midhurst
+2024-09-18,240000,GU29 9UA,F,N,L,2,,Cowdray Court,,Midhurst
+2024-09-18,442500,GU29 9FW,F,N,L,Regency House,Flat 2,St Margarets Way,,Midhurst
+2024-09-18,882000,GU29 9BE,D,N,F,Byfield,,Dodsley Grove,Easebourne,Midhurst
+2024-09-10,355000,GU29 9GA,F,N,L,9,,Wyndham Court,,Midhurst
+2024-09-06,600000,GU29 9JF,D,N,F,107,,The Fairway,,Midhurst
+2024-09-06,290000,GU29 9FU,F,N,L,Turner House,Flat 17,St Margarets Way,,Midhurst
+2024-09-06,337000,GU29 9EQ,T,N,F,10,,Holmbush Way,,Midhurst
+2024-09-03,630000,GU29 9AZ,D,N,F,Crescent Lodge,,Easebourne Lane,Easebourne,Midhurst
+2024-09-02,390000,GU29 0LB,T,N,F,Newhouse Farm Cottages,8,Grevatts Lane,Treyford,Midhurst
+2024-08-29,290500,GU29 9FY,S,N,F,17,,Gilbert Hannam Close,,Midhurst
+2024-08-29,262000,GU29 9BU,S,N,F,27,,Tufts Field,,Midhurst
+2024-08-28,290000,GU29 9TE,T,N,F,3,,Perche Court,,Midhurst
+2024-08-28,945000,GU29 9BE,D,N,F,Maples,,Dodsley Grove,Easebourne,Midhurst
+2024-08-28,199950,GU29 0NX,F,N,L,32,,Common View,Stedham,Midhurst
+2024-08-27,350000,GU29 9NF,F,N,L,West Street Loft,,West Street,,Midhurst
+2024-08-23,1500000,GU29 0DJ,D,N,F,5,,Leggs Lane,Heyshott,Midhurst
+2024-08-22,1100000,GU29 9BD,D,N,F,High Path Cottage,,High Path,Easebourne,Midhurst
+2024-08-21,375000,GU29 9HN,T,N,F,8,,Heathfield Park,,Midhurst
+2024-08-19,542000,GU29 9JG,S,N,F,4,,Goodwood Close,,Midhurst
+2024-08-19,405000,GU29 9AU,T,N,F,1,,Victoria Avenue,Easebourne,Midhurst
+2024-08-16,615000,GU29 9JG,D,N,F,21,,Goodwood Close,,Midhurst
+2024-08-16,930000,GU29 9AZ,D,N,F,Hunsdon,,Easebourne Lane,Easebourne,Midhurst
+2024-08-16,1250000,GU29 0EH,D,N,F,The Coach House,,Church Road,West Lavington,Midhurst
+2024-08-16,500000,GU29 0AW,S,N,F,3,,Parkway,Easebourne,Midhurst
+2024-08-15,787500,GU29 0PR,T,N,F,Mill Lane Cottages,3,Mill Lane,Stedham,Midhurst
+2024-08-09,1325000,GU29 0FB,D,N,F,12,,Brackenwood,,Midhurst
+2024-08-09,975000,GU29 0EY,F,N,L,King Edward Vii Apartments,125,Kings Drive,,Midhurst
+2024-08-07,250000,GU29 9FG,F,N,L,Clevedon,Flat 3,Ashfield Road,,Midhurst
+2024-08-05,365000,GU29 9AT,T,N,F,15,,Lutener Road,Easebourne,Midhurst
+2024-08-02,865000,GU29 9EL,D,N,F,Trenethic,,June Lane,,Midhurst
+2024-07-29,339500,GU29 9TQ,T,N,F,50,,Barlavington Way,,Midhurst
+2024-07-29,1000000,GU29 0JH,D,N,F,Quags Corner,Mount Cross,,Minsted,Midhurst
+2024-07-26,475000,GU29 9GB,T,N,F,3,,Belloc Close,,Midhurst
+2024-07-18,715000,GU29 9QR,D,N,F,7,,Bepton Close,,Midhurst
+2024-07-18,485000,GU29 0LR,T,N,F,7,,Severals Road,Bepton,Midhurst
+2024-07-12,317500,GU29 9LW,T,N,F,24,,Downsview Drive,,Midhurst
+2024-07-12,900000,GU29 0DJ,D,N,F,Poats Cottage,,Leggs Lane,Heyshott,Midhurst
+2024-07-10,385000,GU29 9QZ,D,N,F,20,,Pitsham Wood,,Midhurst
+2024-07-05,320000,GU29 9LW,T,N,F,26,,Downsview Drive,,Midhurst
+2024-06-28,370000,GU29 9TB,T,N,F,41,,Poplar Way,,Midhurst
+2024-06-28,285000,GU29 0EY,F,N,L,King Edward Vii Apartments,77,Kings Drive,,Midhurst
+2024-06-25,1200000,GU29 0FB,D,N,F,11,,Brackenwood,,Midhurst
+2024-06-24,2050000,GU29 9NT,D,N,F,Lane End,,Sheep Lane,,Midhurst
+2024-06-21,325000,GU29 9QS,T,N,F,33,,Oakwood Close,,Midhurst
+2024-06-21,610000,GU29 9QR,D,N,F,20,,Bepton Close,,Midhurst
+2024-06-21,515000,GU29 9QB,D,N,F,9,,St Johns Close,,Midhurst
+2024-06-19,274000,GU29 0EX,F,N,L,King Edward Vii Apartments,15,Kings Drive,,Midhurst
+2024-06-18,445000,GU29 0AD,T,N,F,Budgenor Lodge,41,Dodsley Lane,Easebourne,Midhurst
+2024-06-07,730000,GU29 0NQ,S,N,F,The Reading Rooms,,The Street,Stedham,Midhurst
+2024-05-31,380000,GU29 9AT,T,N,F,21,,Lutener Road,Easebourne,Midhurst
+2024-05-30,516000,GU29 9EZ,S,N,F,37,,Elmleigh,,Midhurst
+2024-05-30,233995,GU29 0AD,F,N,L,Budgenor Lodge,28,Dodsley Lane,Easebourne,Midhurst
+2024-05-28,420000,GU29 0EX,F,N,L,King Edward Vii Apartments,19,Kings Drive,,Midhurst
+2024-05-23,525000,GU29 9FR,T,N,F,15,,Netherwood Close,,Midhurst
+2024-05-15,535000,GU29 9PP,D,N,F,34,,Pretoria Avenue,,Midhurst
+2024-05-14,550000,GU29 9UA,T,N,L,11,,Cowdray Court,,Midhurst
+2024-05-09,265000,GU29 9LL,T,N,F,1,,Half Moon Cottages,,Midhurst
+2024-05-09,1100000,GU29 0BP,D,N,F,2,,Hurst Park,,Midhurst
+2024-05-08,740000,GU29 9JR,D,N,F,68,,Petersfield Road,,Midhurst
+2024-05-03,350000,GU29 9TE,T,N,F,9,,Perche Court,,Midhurst
+2024-05-02,700000,GU29 0EY,F,N,L,King Edward Vii Apartments,65,Kings Drive,,Midhurst
+2024-05-02,1145000,GU29 0AB,D,N,F,Beaufort Cottage,,,Easebourne,Midhurst
+2024-05-01,590000,GU29 9PS,D,N,F,1,,Heathfield Close,,Midhurst
+2024-05-01,790000,GU29 0DL,D,N,F,Pebble Cottage,,,Heyshott,Midhurst
+2024-05-01,500000,GU29 0AD,S,N,F,Budgenor Lodge,40,Dodsley Lane,Easebourne,Midhurst
+2024-04-29,497000,GU29 9JF,D,N,F,99,,The Fairway,,Midhurst
+2024-04-26,305000,GU29 9TD,T,N,F,96,,Poplar Way,,Midhurst
+2024-04-26,435000,GU29 9LB,D,N,F,Little Hesworth,,Carron Lane,,Midhurst
+2024-04-26,720000,GU29 9FD,D,N,F,3,,Egremont Mews,,Midhurst
+2024-04-23,400000,GU29 0DQ,D,N,F,Bex Mill Bungalow,,Bex Lane,Heyshott,Midhurst
+2024-04-19,775000,GU29 9LG,D,N,F,Oakhurst,6,Carron Lane,,Midhurst
+2024-04-19,1125000,GU29 0EH,D,N,F,Bayswood,,Church Road,West Lavington,Midhurst
+2024-04-16,310000,GU29 9TQ,T,N,F,28,,Barlavington Way,,Midhurst
+2024-04-15,155500,GU29 9EX,F,N,L,Sandrock,2,June Lane,,Midhurst
+2024-04-05,565000,GU29 0EY,F,N,L,King Edward Vii Apartments,111,Kings Drive,,Midhurst
+2024-03-28,385000,GU29 9PG,S,N,F,7,,Taylors Rise,,Midhurst
+2024-03-28,515000,GU29 0FF,F,N,L,The Nurses House,12,Adams Walk,,Midhurst
+2024-03-22,595000,GU29 0FH,T,N,F,5,,Kings Drive,,Midhurst
+2024-03-13,410000,GU29 9QA,T,N,F,18,,Heathfield Green,,Midhurst
+2024-03-13,490000,GU29 9BB,D,N,F,Lowerdown,,Dodsley Lane,Easebourne,Midhurst
+2024-03-13,260000,GU29 9AY,T,N,F,The Old Store,2,Easebourne Lane,Easebourne,Midhurst
+2024-03-08,220000,GU29 9BU,T,N,F,8,,Tufts Field,,Midhurst
+2024-02-29,265000,GU29 0EX,F,N,L,King Edward Vii Apartments,24,Kings Drive,,Midhurst
+2024-02-16,700000,GU29 9NQ,T,N,F,West Gate House,,West Street,,Midhurst
+2024-02-16,700000,GU29 9LH,T,N,F,24,,Heatherwood,,Midhurst
+2024-02-16,190000,GU29 0NX,F,N,L,49,,Common View,Stedham,Midhurst
+2024-02-08,340000,GU29 9NA,D,N,F,Police House,,White City,,Midhurst
+2024-02-08,77000,GU29 9DQ,F,N,F,Burgage House,Flat,Knockhundred Row,,Midhurst
+2024-02-07,290000,GU29 0NU,T,N,F,74,,Common View,Stedham,Midhurst
+2024-01-31,480000,GU29 9NL,T,N,L,Sixpenny Yard,1,Edinburgh Square,,Midhurst
+2024-01-31,315000,GU29 9LZ,F,N,L,Dundee House,Flat 4,Bepton Road,,Midhurst
+2024-01-25,1650000,GU29 0JN,S,N,F,Dairy Barn,,,Minsted,Midhurst
+2024-01-15,210000,GU29 9PX,T,N,F,18,,The Wharf,,Midhurst
+2024-01-11,380000,GU29 9LT,F,N,L,The Old Court House,Flat 7,Grange Road,,Midhurst
+2024-01-11,462500,GU29 9JS,T,N,F,26,,Ashfield Road,,Midhurst
+2024-01-05,575000,GU29 0PS,F,N,L,Stedham Hall,4,Mill Lane,Stedham,Midhurst
+2024-01-05,925000,GU29 0DF,D,N,F,Cranmore Cottage,,Peace Road,Heyshott,Midhurst
+2023-12-19,190000,GU29 9TB,F,N,L,25,,Poplar Way,,Midhurst
+2023-12-18,284000,GU29 9QP,S,N,F,68,,Oakwood Close,,Midhurst
+2023-12-15,235000,GU29 9EL,F,N,L,Roselawn,Flat 1,June Lane,,Midhurst
+2023-12-15,130000,GU29 0AD,T,N,L,Budgenor Lodge,48,Dodsley Lane,Easebourne,Midhurst
+2023-12-14,170000,GU29 9FU,F,N,L,Turner House,Flat 30,St Margarets Way,,Midhurst
+2023-12-13,1425000,GU29 0BP,D,N,F,17,,Hurst Park,,Midhurst
+2023-12-04,312000,GU29 0NU,T,N,F,65,,Common View,Stedham,Midhurst
+2023-12-01,630000,GU29 9LE,D,N,F,Waysmeet,,Carron Lane,,Midhurst
+2023-12-01,530000,GU29 0NS,T,N,F,27,,Lavender Row,Stedham,Midhurst
+2023-12-01,350000,GU29 0EL,T,N,F,4,,Tanyard Cottages,West Lavington,Midhurst
+2023-11-30,119000,GU29 9PQ,F,N,L,7,,New Road,,Midhurst
+2023-11-30,680000,GU29 9JZ,D,N,F,42,,Guillards Oak,,Midhurst
+2023-11-28,310000,GU29 9SF,T,N,F,27,,Tufts Meadow,,Midhurst
+2023-11-27,477500,GU29 9JX,T,N,F,Rosedale,,Ashfield Road,,Midhurst
+2023-11-24,160000,GU29 9BQ,F,N,L,13,Flat 1,Cowdray Road,Easebourne,Midhurst
+2023-11-17,340000,GU29 9TD,T,N,F,107,,Poplar Way,,Midhurst
+2023-11-17,101250,GU29 9FJ,F,N,L,2,,Apple Tree Road,,Midhurst
+2023-11-16,1175000,GU29 9AE,D,N,F,Savaric Cottage,,Upperfield,Easebourne,Midhurst
+2023-11-10,226800,GU29 9JS,F,N,L,30,Flat 1,Ashfield Road,,Midhurst
+2023-11-10,125000,GU29 0NX,F,N,L,4,,Common View,Stedham,Midhurst
+2023-11-03,507500,GU29 0HG,D,N,F,The Barn,,,Cocking,Midhurst
+2023-10-30,410000,GU29 9AQ,S,N,F,15,,Highfield Close,Easebourne,Midhurst
+2023-10-30,515000,GU29 0FD,T,N,F,11,,Sir Geoffrey Todd Walk,,Midhurst
+2023-10-27,730000,GU29 9HA,D,N,F,61,,Elmleigh,,Midhurst
+2023-10-27,425000,GU29 9FZ,T,N,F,3,,Wyndham Place,,Midhurst
+2023-10-27,380000,GU29 0NU,S,N,F,71,,Common View,Stedham,Midhurst
+2023-10-25,440000,GU29 9JF,D,N,F,128,,The Fairway,,Midhurst
+2023-10-25,419000,GU29 9FZ,T,N,F,4,,Wyndham Place,,Midhurst
+2023-10-20,865000,GU29 0PA,D,N,F,Rotherhill Lodge East,,,Stedham,Midhurst
+2023-10-13,875000,GU29 0FH,T,Y,F,2,,Kings Drive,,Midhurst
+2023-10-12,575000,GU29 0EU,T,N,F,3,,Lamberts Yard,Cocking,Midhurst
+2023-10-09,295000,GU29 9NL,F,N,L,Gate House,1A,Edinburgh Square,,Midhurst
+2023-10-05,380000,GU29 9TB,T,N,F,37,,Poplar Way,,Midhurst
+2023-10-02,230000,GU29 9LU,F,N,L,Peachey House,7,Bepton Road,,Midhurst
+2023-09-29,469000,GU29 9AQ,D,N,F,14,,Highfield Close,Easebourne,Midhurst
+2023-09-27,1935000,GU29 0HJ,D,N,F,Mill House,,Mill Lane,Cocking,Midhurst
+2023-09-19,293000,GU29 9HW,T,N,L,23,,Spring Meadow,,Midhurst
+2023-09-19,655000,GU29 9EZ,D,N,F,45,,Elmleigh,,Midhurst
+2023-09-19,540000,GU29 0EY,F,N,L,King Edward Vii Apartments,91,Kings Drive,,Midhurst
+2023-09-18,2050000,GU29 0BQ,D,N,F,Nobles,,Easebourne Street,Upper Easebourne,Midhurst
+2023-09-13,410000,GU29 0NF,S,N,F,9,,Hamilton Close,Stedham,Midhurst
+2023-09-08,345000,GU29 9TB,T,N,F,43,,Poplar Way,,Midhurst
+2023-09-04,525000,GU29 9QW,D,N,F,1,,Cavalier Close,,Midhurst
+2023-08-25,150000,GU29 9PJ,F,N,L,93,,Taylors Field,,Midhurst
+2023-08-22,575000,GU29 9JZ,D,N,F,15,,Guillards Oak,,Midhurst
+2023-08-22,385000,GU29 9HL,T,N,F,46,,Heathfield Park,,Midhurst
+2023-08-21,420000,GU29 9JD,T,N,F,21,,The Fairway,,Midhurst
+2023-08-21,565000,GU29 9HA,D,N,F,59,,Elmleigh,,Midhurst
+2023-08-18,122000,GU29 0AP,T,N,L,3,,Cherry Close,Cocking,Midhurst
+2023-08-17,1250000,GU29 9PW,D,N,F,7,,Southlands Park,,Midhurst
+2023-08-08,508000,GU29 9QW,D,N,F,6,,Cavalier Close,,Midhurst
+2023-08-08,425000,GU29 9HN,T,N,F,9,,Heathfield Park,,Midhurst
+2023-08-07,242000,GU29 9QP,T,N,F,42,,Oakwood Close,,Midhurst
+2023-08-04,162000,GU29 9PJ,F,N,L,102,,Taylors Field,,Midhurst
+2023-08-04,325000,GU29 9JW,T,N,F,4,,Cobden Road,,Midhurst
+2023-08-04,1500000,GU29 0QG,D,N,F,Redford House,,,Redford,Midhurst
+2023-08-04,565000,GU29 0FF,F,N,L,The Nurses House,5,Adams Walk,,Midhurst
+2023-07-28,915000,GU29 9RB,D,N,F,Horringer,,,Bepton,Midhurst
+2023-07-25,530000,GU29 9TD,S,N,F,103,,Poplar Way,,Midhurst
+2023-07-24,332500,GU29 9QS,T,N,F,38,,Oakwood Close,,Midhurst
+2023-07-24,345000,GU29 9JD,S,N,F,3,,The Fairway,,Midhurst
+2023-07-20,445000,GU29 9GA,F,N,L,1,,Wyndham Court,,Midhurst
+2023-07-20,395000,GU29 9FR,T,N,F,9,,Netherwood Close,,Midhurst
+2023-07-17,445000,GU29 9HL,T,N,F,67,,Heathfield Park,,Midhurst
+2023-07-14,525000,GU29 9UA,S,N,L,6,,Cowdray Court,,Midhurst
+2023-07-14,555000,GU29 0HG,S,N,F,High House,2,,Cocking,Midhurst
+2023-07-14,485000,GU29 0EX,F,N,L,King Edward Vii Apartments,49,Kings Drive,,Midhurst
+2023-07-13,360000,GU29 9JD,S,N,F,17,,The Fairway,,Midhurst
+2023-06-29,280000,GU29 9EH,T,N,F,69,,Mead Way,,Midhurst
+2023-06-19,125000,GU29 9FT,F,N,L,Tudor House,Flat 2,St Margarets Way,,Midhurst
+2023-06-16,930000,GU29 0FH,T,Y,F,3,,Kings Drive,,Midhurst
+2023-06-09,292000,GU29 9QN,T,N,F,10,,Claremont Way,,Midhurst
+2023-06-09,425000,GU29 9EE,S,N,F,1,,Orchard Way,,Midhurst
+2023-06-06,286000,GU29 9QS,T,N,F,27,,Oakwood Close,,Midhurst
+2023-06-06,1075000,GU29 0LR,D,N,F,Marwood,,Severals Road,Bepton,Midhurst
+2023-06-06,400000,GU29 0EH,T,N,F,Pinewood Court,3,Church Road,West Lavington,Midhurst
+2023-06-06,1250000,GU29 0AL,S,N,F,Farm Place,,Easebourne Street,Easebourne,Midhurst
+2023-06-05,175000,GU29 9PJ,F,N,L,88,,Taylors Field,,Midhurst
+2023-06-02,375000,GU29 9TG,S,N,F,51,,Barlavington Way,,Midhurst
+2023-06-02,525000,GU29 9PP,D,N,F,36,,Pretoria Avenue,,Midhurst
+2023-05-31,385000,GU29 9TD,S,N,F,120,,Poplar Way,,Midhurst
+2023-05-31,172500,GU29 9QS,F,N,L,5,,Oakwood Close,,Midhurst
+2023-05-31,215000,GU29 9HW,F,N,L,19,,Spring Meadow,,Midhurst
+2023-05-31,1200000,GU29 9AE,D,N,F,Fig Tree House,,Upperfield,Easebourne,Midhurst
+2023-05-30,195000,GU29 9DF,F,N,L,3,,Castle Gardens,,Midhurst
+2023-05-26,1000000,GU29 0HW,D,N,F,Foxes Brewings,,Church Lane,Cocking,Midhurst
+2023-05-26,258500,GU29 0EY,F,N,L,King Edward Vii Apartments,66,Kings Drive,,Midhurst
+2023-05-24,295000,GU29 9JA,S,N,F,7,,Beech Grove,,Midhurst
+2023-05-22,400000,GU29 0NF,S,N,F,10,,Hamilton Close,Stedham,Midhurst
+2023-05-19,392500,GU29 9LN,D,N,F,2,,Pinewood Way,,Midhurst
+2023-05-19,988000,GU29 0NG,S,N,F,The Willows,,The Street,Stedham,Midhurst
+2023-05-19,840000,GU29 0EH,D,N,F,Hollyhyrst,,Church Road,West Lavington,Midhurst
+2023-05-16,370000,GU29 0EH,T,N,F,Pinewood Court,2,Church Road,West Lavington,Midhurst
+2023-05-12,320000,GU29 0EX,F,N,L,King Edward Vii Apartments,6,Kings Drive,,Midhurst
+2023-05-05,125000,GU29 9NE,F,N,L,5 Russell Court,,Petersfield Road,,Midhurst
+2023-04-26,820000,GU29 9RP,D,N,F,12,,Ashfield Close,,Midhurst
+2023-04-21,360000,GU29 9TB,T,N,F,51,,Poplar Way,,Midhurst
+2023-04-21,495000,GU29 9LZ,F,N,L,Dundee House,Flat 12,Bepton Road,,Midhurst
+2023-04-19,2200000,GU29 0PW,D,N,F,Bowley Farm,Bowley Barn,,Iping,Midhurst
+2023-04-19,1550000,GU29 0PE,D,N,F,The Pheasantry,,,Iping,Midhurst
+2023-04-18,645000,GU29 9JX,S,N,F,Honeyside,,Ashfield Road,,Midhurst
+2023-04-17,329500,GU29 9PX,T,N,F,4,,The Wharf,,Midhurst
+2023-04-12,1450000,GU29 9RB,D,N,F,Tanglewood,,,Bepton,Midhurst
+2023-04-04,160000,GU29 9TA,F,N,L,74,,Poplar Way,,Midhurst
+2023-03-31,136000,GU29 9JX,F,N,L,Ashfield Court,Flat 3,Ashfield Road,,Midhurst
+2023-03-31,905000,GU29 0FH,T,Y,F,1,,Kings Drive,,Midhurst
+2023-03-29,178000,GU29 9PT,F,N,L,St Annes Court,2,The Wharf,,Midhurst
+2023-03-29,900000,GU29 0LA,D,N,F,Badgers Rise,,,Elsted,Midhurst
+2023-03-17,442500,GU29 9JX,S,N,F,St Helier,,Ashfield Road,,Midhurst
+2023-03-17,550000,GU29 9JQ,D,N,F,9,,Poplar Way,,Midhurst
+2023-03-15,420000,GU29 9QA,T,N,F,12,,Heathfield Green,,Midhurst
+2023-03-15,460000,GU29 9PP,D,N,F,35,,Pretoria Avenue,,Midhurst
+2023-03-15,920000,GU29 0FA,T,Y,F,Engine House,4,Kings Drive,,Midhurst
+2023-03-08,585000,GU29 9JG,D,N,F,9,,Goodwood Close,,Midhurst
+2023-03-08,400000,GU29 0EX,F,N,L,King Edward Vii Apartments,12,Kings Drive,,Midhurst
+2023-03-07,290000,GU29 9QP,T,N,F,41,,Oakwood Close,,Midhurst
+2023-03-07,650500,GU29 9JR,D,N,F,84A,,Petersfield Road,,Midhurst
+2023-03-06,1265000,GU29 9LD,D,N,F,Sherwood,,Carron Lane,,Midhurst
+2023-03-06,90000,GU29 9HW,F,N,L,16,,Spring Meadow,,Midhurst
+2023-03-06,235000,GU29 9FT,F,N,L,Tudor House,Flat 6,St Margarets Way,,Midhurst
+2023-03-03,337500,GU29 9HZ,T,N,F,30,,Bourne Way,,Midhurst
+2023-03-03,550000,GU29 9HN,T,N,F,30,,Heathfield Park,,Midhurst
+2023-03-01,230000,GU29 9BZ,F,N,L,The Clock House,5,North Street,,Midhurst
+2023-03-01,1637500,GU29 0HJ,D,N,F,Stone Cottage,,Mill Lane,Cocking,Midhurst
+2023-02-28,550000,GU29 9LB,S,N,F,Merry Mead,,Carron Lane,,Midhurst
+2023-02-28,620000,GU29 9JG,D,N,F,22,,Goodwood Close,,Midhurst
+2023-02-28,395000,GU29 9FR,T,N,F,8,,Netherwood Close,,Midhurst
+2023-02-28,210000,GU29 9FL,F,N,L,The Old Dairy,4,Bepton Road,,Midhurst
+2023-02-27,375000,GU29 9DE,T,N,F,Appleyard Cottage,,Duck Lane,,Midhurst
+2023-02-27,280000,GU29 9BU,T,N,F,10,,Tufts Field,,Midhurst
+2023-02-24,655000,GU29 0NQ,T,N,F,Collins Cottage,,The Street,Stedham,Midhurst
+2023-02-22,365000,GU29 0HQ,S,N,F,28,,The Croft,Cocking,Midhurst
+2023-02-21,680000,GU29 0QF,S,N,F,Sunnyside,,,Redford,Midhurst
+2023-02-20,1100000,GU29 0EY,F,N,L,King Edward Vii Apartments,108,Kings Drive,,Midhurst
+2023-02-20,347000,GU29 0DB,T,N,F,8,,Foundry Cottages,Heyshott,Midhurst
+2023-02-17,340000,GU29 9EG,T,N,F,8,,Hurstwood Court,,Midhurst
+2023-02-17,1250000,GU29 0FA,T,Y,F,Engine House,3,Kings Drive,,Midhurst
+2023-02-10,1153303,GU29 9LF,D,N,F,Oakhurst Court,,Carron Lane,,Midhurst
+2023-02-10,230000,GU29 9JE,F,N,L,Perth House,Flat 2,The Fairway,,Midhurst
+2023-02-08,510000,GU29 9ET,S,N,F,Barnplat Cottages,9,June Lane,,Midhurst
+2023-02-08,295000,GU29 9DE,F,N,L,Green Court,Flat 2,Duck Lane,,Midhurst
+2023-02-01,300000,GU29 9HG,S,N,F,8,,Heathfield Gardens,,Midhurst
+2023-02-01,221500,GU29 9FZ,S,N,F,14,,Wyndham Place,,Midhurst
+2023-01-31,2200000,GU29 0LU,D,N,F,Tyelands Cottage,,,Bepton,Midhurst
+2023-01-30,932500,GU29 0FA,T,Y,F,Engine House,2,Kings Drive,,Midhurst
+2023-01-25,535000,GU29 9LZ,F,Y,L,Dundee House,Flat 14,Bepton Road,,Midhurst
+2023-01-13,1320000,GU29 0FA,D,Y,F,Engine House,1,Kings Drive,,Midhurst
+2023-01-11,625000,GU29 9LZ,F,Y,L,Dundee House,Flat 17,Bepton Road,,Midhurst
+2023-01-06,941250,GU29 9AE,D,N,F,Beam Ends,,Upperfield,Easebourne,Midhurst
+2023-01-04,195000,GU29 9BY,F,N,L,Old Surgery,Flat 4,Rumbolds Hill,,Midhurst
+2023-01-04,920000,GU29 9AT,D,N,F,Rother House,,Lutener Road,Easebourne,Midhurst
+2022-12-20,407500,GU29 9PL,S,N,F,Taylors Farm Cottages,1,Taylors Field,,Midhurst
+2022-12-19,320000,GU29 9FU,F,N,L,Turner House,Flat 23,St Margarets Way,,Midhurst
+2022-12-16,395000,GU29 9FR,T,N,F,7,,Netherwood Close,,Midhurst
+2022-12-15,477270,GU29 9NL,F,N,L,Sixpenny Yard,2,Edinburgh Square,,Midhurst
+2022-12-15,320000,GU29 9AT,T,N,F,28,,Lutener Road,Easebourne,Midhurst
+2022-12-13,394000,GU29 9QZ,D,N,F,40,,Pitsham Wood,,Midhurst
+2022-12-09,480000,GU29 9AZ,D,N,F,Mint Cottage,,Easebourne Lane,Easebourne,Midhurst
+2022-12-08,445000,GU29 9TD,T,N,F,93,,Poplar Way,,Midhurst
+2022-12-08,335000,GU29 9TD,T,N,F,92,,Poplar Way,,Midhurst
+2022-12-02,1510000,GU29 0HU,D,N,F,Bell House,,Bell Lane,Cocking,Midhurst
+2022-11-30,523000,GU29 9PP,S,N,F,26,,Pretoria Avenue,,Midhurst
+2022-11-30,1000000,GU29 9BB,D,N,F,Rhinegold,,Dodsley Lane,Easebourne,Midhurst
+2022-11-30,995000,GU29 0HD,D,N,F,Flint House,,,Cocking,Midhurst
+2022-11-25,1113500,GU29 0BX,D,N,F,Old Hall,,,Ambersham,Midhurst
+2022-11-24,625000,GU29 9SA,D,N,F,Rosemarys Courtyard,4,Lamberts Lane,,Midhurst
+2022-11-24,495000,GU29 9JJ,T,N,F,16,,The Rockeries,,Midhurst
+2022-11-24,370000,GU29 9EL,S,N,F,Trenance,,June Lane,,Midhurst
+2022-11-24,365000,GU29 0NX,S,N,F,56,,Common View,Stedham,Midhurst
+2022-11-23,375000,GU29 9EH,T,N,F,81,,Mead Way,,Midhurst
+2022-11-18,180500,GU29 9PJ,F,N,L,87,,Taylors Field,,Midhurst
+2022-11-18,492500,GU29 9LZ,F,Y,L,Dundee House,Flat 6,Bepton Road,,Midhurst
+2022-11-18,320000,GU29 9HD,T,N,F,Winters Cottages,3,Bepton Road,,Midhurst
+2022-11-17,805000,GU29 9FR,D,N,F,23,,Netherwood Close,,Midhurst
+2022-11-11,981000,GU29 0NR,D,N,F,Field House,,The Alley,Stedham,Midhurst
+2022-11-08,335000,GU29 9FU,F,N,L,Turner House,Flat 28,St Margarets Way,,Midhurst
+2022-11-04,512500,GU29 9HY,D,N,F,Kingsdown,,New Road,,Midhurst
+2022-11-04,2630000,GU29 0BQ,D,N,F,Orchard House,,Easebourne Street,Upper Easebourne,Midhurst
+2022-10-27,550000,GU29 9ST,D,N,F,2,,Chartwell Mews,,Midhurst
+2022-10-26,1225000,GU29 0FD,D,N,F,1,,Sir Geoffrey Todd Walk,,Midhurst
+2022-10-25,240000,GU29 9FU,F,N,L,Turner House,Flat 10,St Margarets Way,,Midhurst
+2022-10-25,600000,GU29 9AD,F,N,L,Penrhos,Flat 1,Hollist Lane,Easebourne,Midhurst
+2022-10-24,330000,GU29 9EX,T,N,F,Sandrock,4,June Lane,,Midhurst
+2022-10-24,1266000,GU29 0HZ,S,N,F,2,,Bepton Grange,Bepton,Midhurst
+2022-10-21,315000,GU29 9JT,S,N,F,Shelley Cottages,1,Ashfield Road,,Midhurst
+2022-10-21,315000,GU29 9JH,D,N,F,"Thornville Cottage, 51",,Petersfield Road,,Midhurst
+2022-10-21,305000,GU29 9HG,S,N,F,10,,Heathfield Gardens,,Midhurst
+2022-10-21,325000,GU29 9HD,T,N,F,Winters Cottages,2,Bepton Road,,Midhurst
+2022-10-14,850000,GU29 9LH,D,N,F,7,,Heatherwood,,Midhurst
+2022-10-14,450000,GU29 9EA,S,N,F,140,,Lamberts Lane,,Midhurst
+2022-10-14,1162500,GU29 9BE,D,N,F,Spring Cottage,,Dodsley Grove,Easebourne,Midhurst
+2022-10-14,1950000,GU29 0JN,D,N,L,Minsted Old House,,,Minsted,Midhurst
+2022-10-12,185000,GU29 9NB,F,N,L,Russell House,Flat 1,Bepton Road,,Midhurst
+2022-10-12,300000,GU29 9JE,F,N,L,Adelaide House,Flat 20,The Fairway,,Midhurst
+2022-10-12,610000,GU29 0LE,T,N,F,Manor Farm Cottages,22,,Treyford,Midhurst
+2022-10-10,395000,GU29 9JX,T,N,F,2,,Ashfield Road,,Midhurst
+2022-10-07,805000,GU29 0NQ,D,N,F,11A,,The Street,Stedham,Midhurst
+2022-09-30,386500,GU29 9AT,T,N,F,26,,Lutener Road,Easebourne,Midhurst
+2022-09-29,1350000,GU29 0AB,D,N,F,Beaufort Cottage,,,Easebourne,Midhurst
+2022-09-26,595000,GU29 9SG,D,N,F,6,,Lakeside,,Midhurst
+2022-09-26,467000,GU29 9EP,S,N,F,14,,Nine Acres,,Midhurst
+2022-09-23,187000,GU29 9SE,F,N,L,6,,Oak Tree Court,,Midhurst
+2022-09-23,220000,GU29 9BP,F,N,L,Eversleigh Court,7,High Path,Easebourne,Midhurst
+2022-09-20,375000,GU29 9TQ,T,N,F,38,,Barlavington Way,,Midhurst
+2022-09-16,350000,GU29 9FU,F,N,L,Turner House,Flat 9,St Margarets Way,,Midhurst
+2022-09-13,1150000,GU29 9AE,D,N,F,2,,Upperfield,Easebourne,Midhurst
+2022-09-12,259950,GU29 9HB,F,N,L,7,,Elmleigh Court,,Midhurst
+2022-09-09,781000,GU29 0FH,T,Y,F,4,,Kings Drive,,Midhurst
+2022-09-08,760000,GU29 9RD,D,N,F,Owls End,,Pitsham Lane,Bepton,Midhurst
+2022-09-07,180000,GU29 9JH,F,N,L,2,Flat 1,Petersfield Road,,Midhurst
+2022-09-06,1200540,GU29 9AE,D,N,F,Chessors,,Upperfield,Easebourne,Midhurst
+2022-09-06,397000,GU29 0NY,D,N,F,Eldon,,School Lane,Stedham,Midhurst
+2022-09-06,750000,GU29 0NQ,D,N,F,Martins,,The Street,Stedham,Midhurst
+2022-09-02,1740000,GU29 0BP,D,N,F,15,,Hurst Park,,Midhurst
+2022-09-01,449160,GU29 9HL,D,N,F,57,,Heathfield Park,,Midhurst
+2022-08-31,350000,GU29 9LU,T,N,F,Peachey House,3,Bepton Road,,Midhurst
+2022-08-30,525000,GU29 0FH,T,Y,F,5,,Kings Drive,,Midhurst
+2022-08-25,725000,GU29 9JZ,D,N,F,1,,Guillards Oak,,Midhurst
+2022-08-25,485000,GU29 9JR,T,N,F,42,,Petersfield Road,,Midhurst
+2022-08-24,1225000,GU29 0DL,S,N,F,Cobdens,,,Heyshott,Midhurst
+2022-08-24,2175000,GU29 0DH,D,N,F,The Old Rectory,,,Heyshott,Midhurst
+2022-08-18,1050000,GU29 9NT,S,N,F,Mulberry House,,Sheep Lane,,Midhurst
+2022-08-17,595000,GU29 0FE,T,N,F,6,,Adams Walk,,Midhurst
+2022-08-12,395000,GU29 9RH,T,N,F,Sandy Lane Cottage,,Sandy Lane,,Midhurst
+2022-08-09,225000,GU29 9JE,F,N,L,Perth House,Flat 4,The Fairway,,Midhurst
+2022-08-08,1350000,GU29 0FE,D,N,F,1,,Adams Walk,,Midhurst
+2022-08-05,410000,GU29 9HL,S,N,F,49,,Heathfield Park,,Midhurst
+2022-08-05,445000,GU29 9FW,F,N,L,Regency House,Flat 1,St Margarets Way,,Midhurst
+2022-08-05,425000,GU29 9BX,T,N,F,Weavers Cottage,,Wool Lane,,Midhurst
+2022-08-05,765100,GU29 9AA,D,N,F,"Hunters Moon, 5",,Crossways,Easebourne,Midhurst
+2022-08-05,1175000,GU29 0FB,D,N,F,23,,Brackenwood,,Midhurst
+2022-08-03,520000,GU29 0FH,T,Y,F,6,,Kings Drive,,Midhurst
+2022-07-29,287000,GU29 9HD,T,N,F,Winters Cottages,5,Bepton Road,,Midhurst
+2022-07-28,510000,GU29 0FH,T,Y,F,9,,Kings Drive,,Midhurst
+2022-07-28,520000,GU29 0FH,T,Y,F,8,,Kings Drive,,Midhurst
+2022-07-28,520000,GU29 0FH,T,Y,F,7,,Kings Drive,,Midhurst
+2022-07-28,1250000,GU29 0EY,F,N,L,King Edward Vii Apartments,102,Kings Drive,,Midhurst
+2022-07-25,425000,GU29 9HN,T,N,F,35,,Heathfield Park,,Midhurst
+2022-07-25,375000,GU29 9EZ,S,N,F,16,,Elmleigh,,Midhurst
+2022-07-21,187500,GU29 9JE,F,N,L,Adelaide House,Flat 19,The Fairway,,Midhurst
+2022-07-21,195000,GU29 0EY,F,N,L,King Edward Vii Apartments,99C,Kings Drive,,Midhurst
+2022-07-21,2100000,GU29 0BQ,D,N,F,Soutars Farm,,Easebourne Street,Upper Easebourne,Midhurst
+2022-07-20,550000,GU29 9QW,D,N,F,2,,Cavalier Close,,Midhurst
+2022-07-20,540000,GU29 0PS,F,N,L,Stedham Hall,3,Mill Lane,Stedham,Midhurst
+2022-07-15,382000,GU29 9QA,S,N,F,60,,Heathfield Green,,Midhurst
+2022-07-15,235000,GU29 9HB,F,N,L,6,,Elmleigh Court,,Midhurst
+2022-07-15,245000,GU29 9DX,F,N,L,Borough House,2,North Street,,Midhurst
+2022-07-15,300000,GU29 0AD,F,N,L,Budgenor Lodge,3,Dodsley Lane,Easebourne,Midhurst
+2022-07-14,635000,GU29 9HH,S,N,F,2,,Chapel Mount,,Midhurst
+2022-07-13,300000,GU29 9QP,T,N,F,42,,Oakwood Close,,Midhurst
+2022-07-11,427500,GU29 9LB,S,N,F,8,,Carron Lane,,Midhurst
+2022-07-08,407560,GU29 9BQ,S,N,F,17,,Cowdray Road,Easebourne,Midhurst
+2022-07-08,355000,GU29 9AX,T,N,F,1,,St Margarets Terrace,Easebourne,Midhurst
+2022-07-01,640000,GU29 9QE,D,N,F,Peacocks,,Chichester Road,,Midhurst
+2022-07-01,453000,GU29 9HN,T,N,F,28,,Heathfield Park,,Midhurst
+2022-06-30,382500,GU29 9EZ,S,N,F,39,,Elmleigh,,Midhurst
+2022-06-29,325000,GU29 9NL,F,N,L,Eagle House Cottage,,Edinburgh Square,,Midhurst
+2022-06-24,296000,GU29 9QP,S,N,F,65,,Oakwood Close,,Midhurst
+2022-06-20,960000,GU29 0QF,D,N,F,Manston Ii,,,Redford,Midhurst
+2022-06-14,287000,GU29 0HQ,S,N,F,46,,The Croft,Cocking,Midhurst
+2022-06-13,375000,GU29 9QZ,D,N,F,41,,Pitsham Wood,,Midhurst
+2022-06-13,375000,GU29 9LW,T,N,F,11,,Downsview Drive,,Midhurst
+2022-06-10,745000,GU29 9LD,D,N,F,Stable Cottage,,Carron Lane,,Midhurst
+2022-06-10,180000,GU29 9DH,F,N,L,The Garden House,Flat 1,North Street,,Midhurst
+2022-06-08,550000,GU29 0EY,F,N,L,King Edward Vii Apartments,130,Kings Drive,,Midhurst
+2022-06-01,285000,GU29 9DE,F,N,L,Green Court,Flat 2,Duck Lane,,Midhurst
+2022-06-01,305000,GU29 9DE,S,N,F,7,,Duck Lane,,Midhurst
+2022-05-31,750000,GU29 0PS,D,N,F,Stedham Hall,The Cottage 6,Mill Lane,Stedham,Midhurst
+2022-05-27,350000,GU29 9TG,T,N,F,49,,Barlavington Way,,Midhurst
+2022-05-27,205000,GU29 9QA,F,N,L,37,,Heathfield Green,,Midhurst
+2022-05-27,211200,GU29 9AT,T,N,L,4,,Lutener Road,Easebourne,Midhurst
+2022-05-20,250000,GU29 9HB,F,N,L,5,,Elmleigh Court,,Midhurst
+2022-05-20,310000,GU29 9FU,F,N,L,Turner House,Flat 2,St Margarets Way,,Midhurst
+2022-05-20,985000,GU29 9BD,D,N,F,12,,High Path,Easebourne,Midhurst
+2022-05-20,610000,GU29 0NQ,D,N,F,15A,,The Street,Stedham,Midhurst
+2022-05-13,790000,GU29 9QH,D,N,F,Black Lion Cottage,,,Cocking Causeway,Midhurst
+2022-05-13,1375000,GU29 0FE,D,N,F,2,,Adams Walk,,Midhurst
+2022-04-29,340000,GU29 9LW,S,N,F,14,,Downsview Drive,,Midhurst
+2022-04-29,222500,GU29 9JE,F,N,L,Perth House,Flat 6,The Fairway,,Midhurst
+2022-04-29,525000,GU29 9EZ,D,N,F,52,,Elmleigh,,Midhurst
+2022-04-29,790000,GU29 0DL,D,N,F,Stable Cottage,,,Heyshott,Midhurst
+2022-04-28,360000,GU29 9TD,T,N,F,89,,Poplar Way,,Midhurst
+2022-04-27,215000,GU29 9QA,F,N,L,33,,Heathfield Green,,Midhurst
+2022-04-22,185000,GU29 9QS,F,N,L,3,,Oakwood Close,,Midhurst
+2022-04-22,325000,GU29 9FU,F,N,L,Turner House,Flat 20,St Margarets Way,,Midhurst
+2022-04-20,170000,GU29 9HW,F,N,L,19,,Spring Meadow,,Midhurst
+2022-04-14,280000,GU29 9BT,T,N,F,24,,Mead Way,,Midhurst
+2022-04-14,450000,GU29 0EX,F,Y,L,King Edward Vii Apartments,23,Kings Drive,,Midhurst
+2022-04-13,876000,GU29 9LH,D,N,F,13,,Heatherwood,,Midhurst
+2022-04-12,750000,GU29 9BE,D,N,F,Orchard Cottage,,Dodsley Grove,Easebourne,Midhurst
+2022-04-05,175000,GU29 9HW,F,N,L,4,,Spring Meadow,,Midhurst
+2022-04-01,325000,GU29 9HG,S,N,F,9,,Heathfield Gardens,,Midhurst
+2022-03-31,485000,GU29 9UA,T,N,L,14,,Cowdray Court,,Midhurst
+2022-03-31,160000,GU29 9PX,F,N,L,Brookside,Flat 1,The Wharf,,Midhurst
+2022-03-31,340000,GU29 0NU,T,N,F,75,,Common View,Stedham,Midhurst
+2022-03-31,2025000,GU29 0EE,D,N,F,March House,,Oaklands Lane,West Lavington,Midhurst
+2022-03-30,580000,GU29 9JZ,D,N,F,47,,Guillards Oak,,Midhurst
+2022-03-28,77500,GU29 9NE,F,N,L,20 Russell Court,,Petersfield Road,,Midhurst
+2022-03-28,825000,GU29 0JH,D,N,F,Silverthorn,,,Minsted,Midhurst
+2022-03-24,461500,GU29 0EX,F,Y,L,King Edward Vii Apartments,16,Kings Drive,,Midhurst
+2022-03-22,235000,GU29 9PD,F,N,L,Hillcrest,Flat 1,South Street,,Midhurst
+2022-03-18,319000,GU29 9TD,T,N,F,116,,Poplar Way,,Midhurst
+2022-03-18,345000,GU29 9TA,T,N,F,64,,Poplar Way,,Midhurst
+2022-03-18,400000,GU29 9QA,T,N,F,6,,Heathfield Green,,Midhurst
+2022-03-18,317000,GU29 9LZ,F,N,L,Dundee House,Flat 16,Bepton Road,,Midhurst
+2022-03-18,725000,GU29 0EY,F,N,L,King Edward Vii Apartments,112,Kings Drive,,Midhurst
+2022-03-09,732500,GU29 0EH,D,N,F,Cones,,Church Road,West Lavington,Midhurst
+2022-03-08,310000,GU29 0EX,F,N,L,King Edward Vii Apartments,4,Kings Drive,,Midhurst
+2022-03-07,475000,GU29 9QY,T,N,F,"The Pink House, 5",,Railway Terrace,,Midhurst
+2022-03-07,400000,GU29 9JP,S,N,F,7,,Little Ashfield,,Midhurst
+2022-03-04,495000,GU29 9UA,F,N,L,10,,Cowdray Court,,Midhurst
+2022-03-03,867500,GU29 9RU,D,N,F,4,,Weavers Close,Easebourne,Midhurst
+2022-02-28,494790,GU29 0EX,F,Y,L,King Edward Vii Apartments,28,Kings Drive,,Midhurst
+2022-02-23,225000,GU29 9BZ,F,N,L,The Clock House,5,North Street,,Midhurst
+2022-02-18,450000,GU29 0NU,S,N,F,87,,Common View,Stedham,Midhurst
+2022-02-18,715000,GU29 0DW,S,N,F,10,,Austens,Heyshott,Midhurst
+2022-02-09,420000,GU29 9JZ,D,N,F,39,,Guillards Oak,,Midhurst
+2022-02-09,700000,GU29 9JG,D,N,F,16,,Goodwood Close,,Midhurst
+2022-02-09,695000,GU29 0EX,F,N,L,King Edward Vii Apartments,42,Kings Drive,,Midhurst
+2022-02-03,450000,GU29 0EY,F,N,L,King Edward Vii Apartments,89,Kings Drive,,Midhurst
+2022-01-31,1700000,GU29 0NA,D,N,F,Bradshaws Barn,,,Bepton,Midhurst
+2022-01-28,1406000,GU29 0LA,D,N,F,Redlands Farm Cottage,,,Elsted,Midhurst
+2022-01-27,1400000,GU29 0LR,D,N,F,Burgrove,,Severals Road,Bepton,Midhurst
+2022-01-26,520000,GU29 9QN,D,N,F,1,,Claremont Way,,Midhurst
+2022-01-25,360000,GU29 9TG,T,N,F,31,,Barlavington Way,,Midhurst
+2022-01-21,330000,GU29 9TB,T,N,F,33,,Poplar Way,,Midhurst
+2022-01-19,4500000,GU29 0PT,D,N,F,Bridgefoot,,,Stedham,Midhurst
+2022-01-14,440000,GU29 9FY,T,N,F,8,,Gilbert Hannam Close,,Midhurst
+2022-01-12,490000,GU29 9LZ,F,Y,L,Dundee House,Flat 10,Bepton Road,,Midhurst
+2022-01-07,850000,GU29 9RP,D,N,F,8,,Ashfield Close,,Midhurst
+2022-01-07,495000,GU29 0EX,F,Y,L,King Edward Vii Apartments,38,Kings Drive,,Midhurst
+2022-01-06,950000,GU29 0BP,D,N,F,21,,Hurst Park,,Midhurst
+2022-01-05,118000,GU29 9FJ,F,N,L,10,,Apple Tree Road,,Midhurst
+2021-12-23,655000,GU29 0FE,T,N,F,14,,Adams Walk,,Midhurst
+2021-12-21,330000,GU29 9TA,T,N,F,36,,Poplar Way,,Midhurst
+2021-12-17,340000,GU29 9TB,T,N,F,45,,Poplar Way,,Midhurst
+2021-12-17,427000,GU29 9SA,D,N,F,Rosemarys Courtyard,1,Lamberts Lane,,Midhurst
+2021-12-17,497525,GU29 9LB,S,N,F,Hollybank,,Carron Lane,,Midhurst
+2021-12-17,1125000,GU29 0FB,D,N,F,2,,Brackenwood,,Midhurst
+2021-12-16,205000,GU29 9QA,F,N,L,45,,Heathfield Green,,Midhurst
+2021-12-14,1250000,GU29 9AE,D,N,F,Cornerways,,Upperfield,Easebourne,Midhurst
+2021-12-10,338000,GU29 9TA,T,N,F,44,,Poplar Way,,Midhurst
+2021-12-10,337500,GU29 9QA,T,N,F,9,,Heathfield Green,,Midhurst
+2021-12-07,1179000,GU29 0AS,D,N,F,Parkmead,,Pine Walk,,Midhurst
+2021-12-03,685000,GU29 9PF,T,N,F,Lavinghurst,,Chichester Road,,Midhurst
+2021-12-03,275000,GU29 9NL,F,N,L,Gate House,2,Edinburgh Square,,Midhurst
+2021-12-03,765000,GU29 9LD,D,N,F,Rowan Lodge,,Carron Lane,,Midhurst
+2021-11-30,465000,GU29 9UA,S,N,L,20,,Cowdray Court,,Midhurst
+2021-11-30,310000,GU29 9LZ,F,N,L,Dundee House,Flat 8,Bepton Road,,Midhurst
+2021-11-30,74000,GU29 9FJ,F,N,L,6,,Apple Tree Road,,Midhurst
+2021-11-29,380000,GU29 9QZ,D,N,F,25,,Pitsham Wood,,Midhurst
+2021-11-29,527500,GU29 0NQ,S,N,F,5,,The Street,Stedham,Midhurst
+2021-11-29,345000,GU29 0AD,F,N,L,Budgenor Lodge,34,Dodsley Lane,Easebourne,Midhurst
+2021-11-26,210000,GU29 9HW,F,N,L,6,,Spring Meadow,,Midhurst
+2021-11-26,141000,GU29 9FT,F,N,L,Tudor House,Flat 3,St Margarets Way,,Midhurst
+2021-11-26,301000,GU29 9BU,T,N,F,2,,Tufts Field,,Midhurst
+2021-11-26,421000,GU29 9AF,D,N,F,9,,Canada Grove,Easebourne,Midhurst
+2021-11-26,905000,GU29 0EG,D,N,F,Lavington Cottage,,Selham Road,West Lavington,Midhurst
+2021-11-24,180000,GU29 9QA,F,N,L,23,,Heathfield Green,,Midhurst
+2021-11-24,709000,GU29 0NZ,D,N,F,Green Acre,,School Lane,Stedham,Midhurst
+2021-11-22,390000,GU29 9JJ,F,N,L,2,,The Rockeries,,Midhurst
+2021-11-19,208000,GU29 9NL,F,N,L,Gate House,1A,Edinburgh Square,,Midhurst
+2021-11-18,1497030,GU29 0LB,D,N,F,Newhouse Farm,,Grevatts Lane,Treyford,Midhurst
+2021-11-16,302500,GU29 9LZ,F,N,L,Dundee House,Flat 9,Bepton Road,,Midhurst
+2021-11-16,340000,GU29 9DX,F,N,L,Borough House,5,North Street,,Midhurst
+2021-11-10,330000,GU29 9HL,T,N,F,45,,Heathfield Park,,Midhurst
+2021-11-08,225000,GU29 9FT,F,N,L,Tudor House,Flat 5,St Margarets Way,,Midhurst
+2021-11-04,450000,GU29 0EX,F,N,L,King Edward Vii Apartments,62,Kings Drive,,Midhurst
+2021-10-29,352000,GU29 9TG,T,N,F,47,,Barlavington Way,,Midhurst
+2021-10-29,285000,GU29 9BT,T,N,F,27,,Mead Way,,Midhurst
+2021-10-28,220000,GU29 0AD,F,N,L,Budgenor Lodge,14,Dodsley Lane,Easebourne,Midhurst
+2021-10-27,295000,GU29 9EA,T,N,F,Rosemary Cottage,,Lamberts Lane,,Midhurst
+2021-10-11,450000,GU29 9ET,S,N,F,Barnplat Cottages,10,June Lane,,Midhurst
+2021-10-08,375000,GU29 9LW,D,N,F,27,,Downsview Drive,,Midhurst
+2021-10-08,553500,GU29 0FD,T,N,F,15,,Sir Geoffrey Todd Walk,,Midhurst
+2021-10-01,630000,GU29 0NW,S,N,F,Rose Cottage,,Queens Street,Stedham,Midhurst
+2021-09-30,465000,GU29 9LZ,F,N,L,Dundee House,Flat 5,Bepton Road,,Midhurst
+2021-09-30,214593,GU29 9HY,F,N,L,Brackens,,New Road,,Midhurst
+2021-09-30,990000,GU29 0FE,D,N,F,3,,Adams Walk,,Midhurst
+2021-09-30,730000,GU29 0EY,F,N,L,King Edward Vii Apartments,119,Kings Drive,,Midhurst
+2021-09-30,465000,GU29 0EY,F,N,L,King Edward Vii Apartments,91,Kings Drive,,Midhurst
+2021-09-29,192000,GU29 9PQ,F,N,L,24,,New Road,,Midhurst
+2021-09-29,777500,GU29 9BX,S,N,F,Grafton House,,Wool Lane,,Midhurst
+2021-09-29,545000,GU29 0EY,F,N,L,King Edward Vii Apartments,120,Kings Drive,,Midhurst
+2021-09-28,305000,GU29 9UA,S,N,L,3,,Cowdray Court,,Midhurst
+2021-09-28,405000,GU29 9PF,T,N,F,Rose Cottages,2,Chichester Road,,Midhurst
+2021-09-28,475000,GU29 9HJ,T,N,F,3,,Sussex Terrace,,Midhurst
+2021-09-27,400000,GU29 9JU,S,N,F,Heathfield Cottages,1,Ashfield Road,,Midhurst
+2021-09-27,430000,GU29 9HL,D,N,F,60,,Heathfield Park,,Midhurst
+2021-09-27,210000,GU29 9AY,F,N,L,Paddock View,2,Easebourne Lane,Easebourne,Midhurst
+2021-09-24,290750,GU29 9TQ,S,N,F,46,,Barlavington Way,,Midhurst
+2021-09-24,390000,GU29 9HN,T,N,F,23,,Heathfield Park,,Midhurst
+2021-09-24,375000,GU29 9EB,S,N,F,Millbrook Court,5,Lamberts Lane,,Midhurst
+2021-09-24,310000,GU29 9AX,T,N,F,2,,St Margarets Terrace,Easebourne,Midhurst
+2021-09-22,350000,GU29 9LT,F,N,L,The Old Court House,Flat 7,Grange Road,,Midhurst
+2021-09-22,410000,GU29 9GA,F,N,L,4,,Wyndham Court,,Midhurst
+2021-09-20,290000,GU29 9JW,T,N,F,2,,Cobden Road,,Midhurst
+2021-09-17,582500,GU29 0LR,S,N,F,1,,Pinehurst Cottages,Bepton,Midhurst
+2021-09-17,375000,GU29 0HE,S,N,F,East View,2,,Cocking,Midhurst
+2021-09-17,695000,GU29 0EY,F,N,L,King Edward Vii Apartments,97,Kings Drive,,Midhurst
+2021-09-16,180000,GU29 9HW,F,N,L,7,,Spring Meadow,,Midhurst
+2021-09-15,185000,GU29 9QA,F,N,L,27,,Heathfield Green,,Midhurst
+2021-09-15,675000,GU29 9BD,S,N,F,4,,High Path,Easebourne,Midhurst
+2021-09-14,570000,GU29 9NL,T,N,F,Coppet Hold,,Edinburgh Square,,Midhurst
+2021-09-13,600000,GU29 0NZ,D,N,F,The Old Post House,,School Lane,Stedham,Midhurst
+2021-09-10,270000,GU29 9QN,T,N,F,16,,Claremont Way,,Midhurst
+2021-09-09,381000,GU29 9JT,S,N,F,Shelley Cottages,2,Ashfield Road,,Midhurst
+2021-09-07,280000,GU29 9FQ,F,N,F,14,,St Margarets Way,,Midhurst
+2021-09-03,520000,GU29 9JH,T,N,F,55,,Petersfield Road,,Midhurst
+2021-08-31,350000,GU29 9QA,S,N,F,58,,Heathfield Green,,Midhurst
+2021-08-31,420000,GU29 9PJ,S,N,F,75,,Taylors Field,,Midhurst
+2021-08-31,295000,GU29 9JH,F,N,L,59,Flat 2,Petersfield Road,,Midhurst
+2021-08-24,578750,GU29 9BE,S,N,F,6,,Dodsley Grove,Easebourne,Midhurst
+2021-08-23,1004250,GU29 0JW,D,N,F,Crowshole Farmhouse,,,Iping,Midhurst
+2021-08-18,1075000,GU29 0EQ,D,N,F,Edgefield,,,West Lavington,Midhurst
+2021-08-17,865000,GU29 9JZ,T,N,F,"Garden House, 49",,Guillards Oak,,Midhurst
+2021-08-17,245000,GU29 9AT,T,N,F,21,,Lutener Road,Easebourne,Midhurst
+2021-08-16,1217500,GU29 9RB,D,N,F,Half Acre,,,Bepton,Midhurst
+2021-08-16,557500,GU29 9QR,D,N,F,4,,Bepton Close,,Midhurst
+2021-08-13,285000,GU29 9TQ,T,N,F,52,,Barlavington Way,,Midhurst
+2021-08-09,615000,GU29 0NQ,D,N,F,14,,The Street,Stedham,Midhurst
+2021-08-04,300000,GU29 9QN,S,N,F,14,,Claremont Way,,Midhurst
+2021-08-04,610000,GU29 0NZ,D,N,F,Bancourt,,School Lane,Stedham,Midhurst
+2021-08-03,315000,GU29 9JQ,D,N,F,2,,Poplar Way,,Midhurst
+2021-08-03,770000,GU29 9AD,D,N,F,Fernhill,,Hollist Lane,Easebourne,Midhurst
+2021-08-03,385000,GU29 0EX,F,N,L,King Edward Vii Apartments,54,Kings Drive,,Midhurst
+2021-07-30,193000,GU29 9QA,F,N,L,55,,Heathfield Green,,Midhurst
+2021-07-30,170000,GU29 9NB,F,N,L,Russell House,Flat 3,Bepton Road,,Midhurst
+2021-07-21,247500,GU29 9FZ,F,N,L,16,,Wyndham Place,,Midhurst
+2021-07-19,240000,GU29 9PF,F,N,L,The Beacon,,Chichester Road,,Midhurst
+2021-07-19,225000,GU29 0EY,F,N,L,King Edward Vii Apartments,66,Kings Drive,,Midhurst
+2021-07-15,915000,GU29 0BX,D,N,F,Old Hall,,,Ambersham,Midhurst
+2021-07-07,240000,GU29 9TF,T,N,F,23,,Hawthorn Close,,Midhurst
+2021-07-07,337000,GU29 9QA,T,N,F,11,,Heathfield Green,,Midhurst
+2021-06-30,1040000,GU29 9PW,D,N,F,3,,Southlands Park,,Midhurst
+2021-06-30,307000,GU29 9LZ,F,N,L,Dundee House,Flat 15,Bepton Road,,Midhurst
+2021-06-30,462500,GU29 9LZ,F,N,L,Dundee House,Flat 1,Bepton Road,,Midhurst
+2021-06-30,395000,GU29 9GA,F,N,L,2,,Wyndham Court,,Midhurst
+2021-06-30,435000,GU29 9AF,D,N,F,20,,Canada Grove,Easebourne,Midhurst
+2021-06-30,1150000,GU29 0EY,F,N,L,King Edward Vii Apartments,106,Kings Drive,,Midhurst
+2021-06-30,308000,GU29 0EY,F,N,L,King Edward Vii Apartments,117,Kings Drive,,Midhurst
+2021-06-30,370000,GU29 0EX,F,N,L,King Edward Vii Apartments,18,Kings Drive,,Midhurst
+2021-06-29,375000,GU29 9PH,T,N,F,27,,Taylors Field,,Midhurst
+2021-06-29,440000,GU29 9FN,F,N,L,14,,Angel Yard,,Midhurst
+2021-06-29,190000,GU29 0EY,F,N,L,King Edward Vii Apartments,99A,Kings Drive,,Midhurst
+2021-06-29,1025000,GU29 0AL,S,N,F,Farm Place,,Easebourne Street,Easebourne,Midhurst
+2021-06-28,425000,GU29 9HL,D,N,F,62,,Heathfield Park,,Midhurst
+2021-06-28,295000,GU29 9FQ,F,N,F,15,,St Margarets Way,,Midhurst
+2021-06-28,1000000,GU29 0BP,D,N,F,25,,Hurst Park,,Midhurst
+2021-06-25,700000,GU29 0NQ,D,N,F,Harlow House,,The Street,Stedham,Midhurst
+2021-06-25,350000,GU29 0HD,D,N,F,"Manor Lodge, 210",,,Cocking,Midhurst
+2021-06-24,435000,GU29 0EX,F,Y,L,King Edward Vii Apartments,39,Kings Drive,,Midhurst
+2021-06-23,1800000,GU29 0BN,D,N,F,Scotland Farm,,Telegraph Hill,,Midhurst
+2021-06-22,465000,GU29 9LJ,F,N,F,Sandrock House,2,Petersfield Road,,Midhurst
+2021-06-22,680000,GU29 9JZ,D,N,F,12,,Guillards Oak,,Midhurst
+2021-06-22,455000,GU29 9GA,S,N,F,7,,Wyndham Court,,Midhurst
+2021-06-22,725000,GU29 0HU,D,N,F,Springwells,,Bell Lane,Cocking,Midhurst
+2021-06-18,295000,GU29 9LZ,F,N,L,Dundee House,Flat 3,Bepton Road,,Midhurst
+2021-06-17,392500,GU29 9AT,T,N,F,22,,Lutener Road,Easebourne,Midhurst
+2021-06-17,565000,GU29 0NQ,S,N,F,15,,The Street,Stedham,Midhurst
+2021-06-17,572500,GU29 0NQ,S,N,F,10,,The Street,Stedham,Midhurst
+2021-06-17,620000,GU29 0HU,D,N,F,Blue Bell Cottage,,Bell Lane,Cocking,Midhurst
+2021-06-16,166000,GU29 9NB,F,N,L,Russell House,Flat 2,Bepton Road,,Midhurst
+2021-06-15,399950,GU29 9GA,F,N,L,3,,Wyndham Court,,Midhurst
+2021-06-15,1400000,GU29 0BH,D,N,F,West Heath House,,Kings Drive,,Midhurst
+2021-06-14,335000,GU29 9BN,T,N,F,378,,Easebourne Lane,Easebourne,Midhurst
+2021-06-14,252250,GU29 0AD,F,N,L,Budgenor Lodge,20,Dodsley Lane,Easebourne,Midhurst
+2021-06-11,287500,GU29 9LT,F,N,L,The Old Court House,Flat 5,Grange Road,,Midhurst
+2021-06-11,425000,GU29 0EX,F,Y,L,King Edward Vii Apartments,36,Kings Drive,,Midhurst
+2021-06-10,456000,GU29 0EX,F,Y,L,King Edward Vii Apartments,29,Kings Drive,,Midhurst
+2021-06-09,145000,GU29 9TQ,F,N,L,56,,Barlavington Way,,Midhurst
+2021-06-09,290000,GU29 9QS,T,N,F,28,,Oakwood Close,,Midhurst
+2021-06-09,415000,GU29 9GB,D,N,F,4,,Belloc Close,,Midhurst
+2021-06-07,329500,GU29 9QA,S,N,F,60,,Heathfield Green,,Midhurst
+2021-06-07,600000,GU29 9JZ,D,N,F,22,,Guillards Oak,,Midhurst
+2021-06-04,720000,GU29 0QG,D,N,F,Honeysuckle Cottage,,,Redford,Midhurst
+2021-06-04,195000,GU29 0AD,F,N,L,Budgenor Lodge,29,Dodsley Lane,Easebourne,Midhurst
+2021-06-03,480000,GU29 9JZ,D,N,F,45,,Guillards Oak,,Midhurst
+2021-06-02,250000,GU29 9TH,T,N,F,26,,Southdown Close,,Midhurst
+2021-06-02,325000,GU29 9JD,S,N,F,7,,The Fairway,,Midhurst
+2021-06-02,546000,GU29 9GA,S,N,F,8,,Wyndham Court,,Midhurst
+2021-06-02,420000,GU29 9BQ,S,N,F,12,,Cowdray Road,Easebourne,Midhurst
+2021-06-01,450000,GU29 9QB,D,N,F,9,,St Johns Close,,Midhurst
+2021-05-28,415000,GU29 9PF,T,N,F,Rose Cottages,1,Chichester Road,,Midhurst
+2021-05-28,1350000,GU29 0EH,D,N,F,Robinswood,,Church Road,West Lavington,Midhurst
+2021-05-27,485000,GU29 0EX,F,Y,L,King Edward Vii Apartments,5,Kings Drive,,Midhurst
+2021-05-25,455000,GU29 9JX,D,N,F,Cranberry Cottage,,Ashfield Road,,Midhurst
+2021-05-25,380000,GU29 9GA,F,N,L,1,,Wyndham Court,,Midhurst
+2021-05-24,435000,GU29 0FD,T,N,F,11,,Sir Geoffrey Todd Walk,,Midhurst
+2021-05-21,197500,GU29 9QA,F,N,L,26,,Heathfield Green,,Midhurst
+2021-05-20,355000,GU29 9GA,F,N,L,9,,Wyndham Court,,Midhurst
+2021-05-20,300000,GU29 9ER,S,N,F,10,,June Meadows,,Midhurst
+2021-05-13,635000,GU29 0EY,F,N,L,King Edward Vii Apartments,124,Kings Drive,,Midhurst
+2021-05-07,440000,GU29 9GB,D,N,F,1,,Belloc Close,,Midhurst
+2021-05-06,156000,GU29 9FS,F,N,L,Duke House,Flat 6,St Margarets Way,,Midhurst
+2021-05-05,465000,GU29 9GB,T,N,F,2,,Belloc Close,,Midhurst
+2021-04-30,410000,GU29 9HL,D,N,F,64,,Heathfield Park,,Midhurst
+2021-04-30,400000,GU29 9GB,T,N,F,3,,Belloc Close,,Midhurst
+2021-04-30,302500,GU29 9BQ,S,N,F,27,,Cowdray Road,Easebourne,Midhurst
+2021-04-30,290000,GU29 9AT,T,N,F,11,,Lutener Road,Easebourne,Midhurst
+2021-04-29,400000,GU29 0EX,F,N,L,King Edward Vii Apartments,2,Kings Drive,,Midhurst
+2021-04-26,810100,GU29 9RP,D,N,F,6,,Ashfield Close,,Midhurst
+2021-04-23,440000,GU29 9ST,D,N,F,1,,Chartwell Mews,,Midhurst
+2021-04-23,405000,GU29 9QN,D,N,F,13,,Claremont Way,,Midhurst
+2021-04-19,255000,GU29 9QS,S,N,F,34,,Oakwood Close,,Midhurst
+2021-04-16,487500,GU29 9LZ,F,N,L,Dundee House,Flat 11,Bepton Road,,Midhurst
+2021-04-15,340000,GU29 9EZ,S,N,F,16,,Elmleigh,,Midhurst
+2021-04-12,5490400,GU29 0QD,D,N,F,Linch Old Rectory,,,Redford,Midhurst
+2021-04-01,490000,GU29 9LZ,F,Y,L,Dundee House,Flat 2,Bepton Road,,Midhurst
+2021-04-01,530000,GU29 0FE,T,N,F,6,,Adams Walk,,Midhurst
+2021-03-30,265000,GU29 9QN,T,N,F,29,,Claremont Way,,Midhurst
+2021-03-29,465000,GU29 9DR,T,N,F,3,,North Gate Mews,,Midhurst
+2021-03-29,525000,GU29 0EY,F,N,L,King Edward Vii Apartments,73,Kings Drive,,Midhurst
+2021-03-29,448000,GU29 0EX,F,N,L,King Edward Vii Apartments,8,Kings Drive,,Midhurst
+2021-03-26,530000,GU29 9QF,S,N,F,1,,West Lavington Hill,,Midhurst
+2021-03-26,250000,GU29 9FU,F,N,L,Turner House,Flat 26,St Margarets Way,,Midhurst
+2021-03-26,380000,GU29 9EZ,S,N,F,44,,Elmleigh,,Midhurst
+2021-03-25,206250,GU29 9FZ,T,N,F,11,,Wyndham Place,,Midhurst
+2021-03-25,495000,GU29 0FF,F,Y,L,The Nurses House,9,Adams Walk,,Midhurst
+2021-03-24,800000,GU29 9PW,D,N,F,7,,Southlands Park,,Midhurst
+2021-03-22,590000,GU29 9PX,D,N,F,South Cottage,,The Wharf,,Midhurst
+2021-03-19,135000,GU29 9HW,F,N,L,12,,Spring Meadow,,Midhurst
+2021-03-19,520000,GU29 9HA,D,N,F,14,,Elmleigh,,Midhurst
+2021-03-19,200750,GU29 9FZ,S,N,F,14,,Wyndham Place,,Midhurst
+2021-03-19,475000,GU29 9EZ,D,N,F,47,,Elmleigh,,Midhurst
+2021-03-17,590000,GU29 0FG,D,N,F,2,,Pine Close,West Lavington,Midhurst
+2021-03-16,210000,GU29 9DR,F,N,L,47A,,North Street,,Midhurst
+2021-03-15,485000,GU29 9LZ,F,N,L,Dundee House,Flat 7,Bepton Road,,Midhurst
+2021-03-15,1295000,GU29 0LD,D,N,F,Underhill Cottage,,,Treyford,Midhurst
+2021-03-12,372500,GU29 0EH,T,N,F,Pinewood Court,3,Church Road,West Lavington,Midhurst
+2021-03-10,400000,GU29 0PS,F,N,L,Stedham Hall,5,Mill Lane,Stedham,Midhurst
+2021-03-09,442000,GU29 9JZ,D,N,F,43,,Guillards Oak,,Midhurst
+2021-03-09,465000,GU29 9FZ,S,Y,F,8,,Wyndham Place,,Midhurst
+2021-03-05,550000,GU29 0EH,D,N,F,The Coach House,,Church Road,West Lavington,Midhurst
+2021-03-02,550000,GU29 9JZ,D,N,F,3,,Guillards Oak,,Midhurst
+2021-03-02,385000,GU29 9JH,T,N,F,23,,Petersfield Road,,Midhurst
+2021-03-02,385000,GU29 9FQ,T,N,F,6,,St Margarets Way,,Midhurst
+2021-03-02,435000,GU29 0EX,F,Y,L,King Edward Vii Apartments,40,Kings Drive,,Midhurst
+2021-03-01,345000,GU29 0EY,F,N,L,King Edward Vii Apartments,127,Kings Drive,,Midhurst
+2021-02-26,240000,GU29 9LT,F,N,L,The Old Court House,Flat 3,Grange Road,,Midhurst
+2021-02-26,372000,GU29 0NS,T,N,F,27,,Lavender Row,Stedham,Midhurst
+2021-02-25,375000,GU29 9PS,T,N,F,4,,Heathfield Close,,Midhurst
+2021-02-25,280000,GU29 9LW,T,N,F,18,,Downsview Drive,,Midhurst
+2021-02-25,622000,GU29 9JZ,D,N,F,44,,Guillards Oak,,Midhurst
+2021-02-25,277500,GU29 9JJ,F,N,L,6,,The Rockeries,,Midhurst
+2021-02-25,837500,GU29 0FD,D,N,F,3,,Sir Geoffrey Todd Walk,,Midhurst
+2021-02-24,720000,GU29 0PR,S,N,F,Mill Lane Cottages,2,Mill Lane,Stedham,Midhurst
+2021-02-22,369000,GU29 0EX,F,Y,L,King Edward Vii Apartments,26,Kings Drive,,Midhurst
+2021-02-19,240000,GU29 9JH,T,N,F,19,,Petersfield Road,,Midhurst
+2021-02-19,510000,GU29 9HA,D,N,F,12,,Elmleigh,,Midhurst
+2021-02-17,497500,GU29 0FF,F,Y,L,The Nurses House,12,Adams Walk,,Midhurst
+2021-02-15,975000,GU29 0PE,D,N,F,Iping Barn,,,Iping,Midhurst
+2021-02-15,400000,GU29 0AD,F,N,L,Budgenor Lodge,4,Dodsley Lane,Easebourne,Midhurst
+2021-02-12,550000,GU29 9JG,D,N,F,6,,Goodwood Close,,Midhurst
+2021-02-12,298500,GU29 0FF,F,Y,L,The Nurses House,6,Adams Walk,,Midhurst
+2021-02-12,478000,GU29 0FF,F,Y,L,The Nurses House,5,Adams Walk,,Midhurst
+2021-02-09,274000,GU29 9PX,T,N,F,2,,The Wharf,,Midhurst
+2021-02-08,450000,GU29 0AD,F,N,L,Budgenor Lodge,6,Dodsley Lane,Easebourne,Midhurst
+2021-02-05,297000,GU29 9QS,T,N,F,12,,Oakwood Close,,Midhurst
+2021-02-05,230000,GU29 9LU,F,N,L,The Gables,1,Bepton Road,,Midhurst
+2021-02-05,480250,GU29 0HQ,S,N,F,15,,The Croft,Cocking,Midhurst
+2021-02-05,618750,GU29 0FE,T,Y,F,12,,Adams Walk,,Midhurst
+2021-02-03,485000,GU29 9FQ,T,N,F,9,,St Margarets Way,,Midhurst
+2021-02-02,305500,GU29 0FF,F,Y,L,The Nurses House,8,Adams Walk,,Midhurst
+2021-01-29,390000,GU29 0FF,F,Y,L,The Nurses House,11,Adams Walk,,Midhurst
+2021-01-29,326000,GU29 0FF,F,Y,L,The Nurses House,10,Adams Walk,,Midhurst
+2021-01-29,478000,GU29 0FF,F,Y,L,The Nurses House,7,Adams Walk,,Midhurst
+2021-01-29,241250,GU29 0EX,F,N,L,King Edward Vii Apartments,55,Kings Drive,,Midhurst
+2021-01-29,315000,GU29 0EX,F,N,L,King Edward Vii Apartments,64,Kings Drive,,Midhurst
+2021-01-26,255000,GU29 9UA,T,N,L,4,,Cowdray Court,,Midhurst
+2021-01-26,466500,GU29 0EX,F,Y,L,King Edward Vii Apartments,34A,Kings Drive,,Midhurst
+2021-01-25,445000,GU29 9ND,S,N,F,8,,Egmont Mews,,Midhurst
+2021-01-22,415000,GU29 0EY,F,N,L,King Edward Vii Apartments,93,Kings Drive,,Midhurst
+2021-01-21,460000,GU29 0HN,S,N,F,Alpenrose,,,Cocking,Midhurst
+2021-01-20,420000,GU29 9AF,D,N,F,1,,Canada Grove,Easebourne,Midhurst
+2021-01-19,360000,GU29 9JA,S,N,F,5,,Beech Grove,,Midhurst
+2021-01-13,772500,GU29 9AY,D,N,F,Woodlands,,Easebourne Lane,Easebourne,Midhurst
+2021-01-11,620000,GU29 0FE,T,Y,F,15,,Adams Walk,,Midhurst
+2021-01-08,650000,GU29 9AZ,S,N,F,2,,Maida Villas,Easebourne,Midhurst
+2021-01-08,392000,GU29 9AF,D,N,F,10,,Canada Grove,Easebourne,Midhurst
+2021-01-08,590000,GU29 0FF,F,Y,L,The Nurses House,14,Adams Walk,,Midhurst
+2021-01-06,340000,GU29 9HN,T,N,F,12,,Heathfield Park,,Midhurst
+2021-01-04,202500,GU29 9HB,F,N,L,6,,Elmleigh Court,,Midhurst
+2021-01-04,455000,GU29 0EX,F,Y,L,King Edward Vii Apartments,10,Kings Drive,,Midhurst

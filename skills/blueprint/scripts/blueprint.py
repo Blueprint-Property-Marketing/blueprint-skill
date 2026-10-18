@@ -1,7 +1,7 @@
 """Blueprint: local property data for UK estate agents and developers, inside Claude.
 
-    python blueprint.py fetch  <area>          get an area's data (postcode, district like M33, or town name)
-    python blueprint.py areas                  list covered areas
+    python blueprint.py fetch  "<any address, postcode, district or place>"   get that area's data
+    python blueprint.py areas [--search S]     coverage summary, or districts matching a place name
     python blueprint.py stats  <district>      headline figures for a market update (JSON)
     python blueprint.py query  <district> [--street S] [--postcode P] [--address A] [--type D|S|T|F] [--since YYYY-MM]
                                   [--new] [--min N] [--max N] [--limit N]
@@ -103,16 +103,38 @@ def load_index() -> dict:
     return json.loads(p.read_text(encoding="utf-8")) if p.exists() else {"areas": []}
 
 
-def resolve(area: str, index: dict) -> str | None:
-    """Postcode, district or town name -> district code (upper case), or None."""
-    m = POSTCODE_DISTRICT.match(area)
+FULL_POSTCODE = re.compile(r"\b([A-Z]{1,2}[0-9][0-9A-Z]?)\s*([0-9][A-Z]{2})\b", re.I)
+DISTRICT_TOKEN = re.compile(r"\b([A-Z]{1,2}[0-9][0-9A-Z]?)\b", re.I)
+OUTSIDE = re.compile(r"^(AB|DD|DG|EH|FK|G|HS|IV|KA|KW|KY|ML|PA|PH|ZE|BT|GY|JE|IM)[0-9]", re.I)  # not in Land Registry data
+SCOTTISH_TD = {f"TD{n}" for n in range(1, 15)}  # TD15 (Berwick) is in England
+
+
+def outside_england_and_wales(district: str) -> bool:
+    return bool(OUTSIDE.match(district)) or district.upper() in SCOTTISH_TD
+
+
+def resolve(area: str, index: dict) -> tuple[str | None, list[dict]]:
+    """Any address, postcode, district or place name -> (district, other candidates).
+    A full postcode anywhere in the text wins; then a district code; then a place name (several districts can
+    share one, so all matches come back)."""
+    known = {a["district"].upper(): a for a in index.get("areas", [])}
+    m = FULL_POSTCODE.search(area)
     if m:
-        return m.group(1).upper()
-    name = area.strip().lower()
-    for a in index.get("areas", []):
-        if a["name"].lower() == name:
-            return a["district"].upper()
-    return None
+        return m.group(1).upper(), []
+    tokens = [tok.upper() for tok in DISTRICT_TOKEN.findall(area) if tok.upper() in known or outside_england_and_wales(tok)]
+    if tokens and len(area.split()) <= 3:  # "M33", "my patch M33": a code on its own
+        return tokens[0], []
+    text = f" {re.sub(r'[^a-z0-9]+', ' ', area.lower())} "
+    matches = [a for a in index.get("areas", []) if f" {re.sub(r'[^a-z0-9]+', ' ', a['name'].lower()).strip()} " in text]
+    if not matches:
+        matches = [a for a in index.get("areas", []) if f" {a['local_authority'].lower()} " in text]
+    if len(matches) == 1:
+        return matches[0]["district"].upper(), []
+    if matches:
+        return None, matches
+    if tokens:  # a longer text with a code in it and no place name ("Flat B1" stays ambiguous only if nothing else)
+        return tokens[0], []
+    return None, []
 
 
 def area_dir(district: str) -> Path:
@@ -127,32 +149,50 @@ def fetch_from_zip(district: str, zip_path: str) -> Path:
     dest = CACHE / "zip" / district.lower()
     shutil.rmtree(dest, ignore_errors=True)
     dest.mkdir(parents=True)
+    want = district.lower()
     with zipfile.ZipFile(zip_path) as z:
         for member in z.namelist():
-            name = Path(member).name
-            if name in ("sales.csv", "hpi.json", "meta.json", "postcodes.csv", "offers.json"):
+            parts = Path(member).parts
+            name = parts[-1]
+            if name == "offers.json" and len(parts) <= 2:
+                (dest / name).write_bytes(z.read(member))
+            elif len(parts) >= 2 and parts[-2].lower() == want and name in ("sales.csv", "hpi.json", "meta.json", "postcodes.csv"):
                 (dest / name).write_bytes(z.read(member))
     if not (dest / "meta.json").exists():
-        fail("error", "That ZIP doesn't look like a Blueprint area file (no meta.json inside).")
+        fail("error", f"That file doesn't hold {district}. Use the postcode-area file that starts with the same "
+                      f"letters (for M33, blueprint-areas-M.zip).")
     return dest
 
 
 def cmd_fetch(a) -> None:
     if a.zip:
-        m = POSTCODE_DISTRICT.match(a.area)
-        district = (m.group(1) if m else a.area).upper()
+        district, _ = resolve(a.area, {"areas": []})
+        district = (district or a.area).upper()
         d = fetch_from_zip(district, a.zip)
         out({"status": "ok", "district": district, "source": "zip", "meta": read_json(d / "meta.json")})
         return
     ensure_clone()
     index = load_index()
-    district = resolve(a.area, index)
+    district, candidates = resolve(a.area, index)
+    if not district and candidates:
+        out({"status": "ambiguous", "asked": a.area,
+             "options": [f'{c["district"]} ({c["name"]}, {c["local_authority"]})' for c in candidates[:12]],
+             "message": "Several postcode districts match. Ask which one, or for the postcode."})
+        sys.exit(1)
+    if not district:
+        out({"status": "need_postcode", "asked": a.area,
+             "message": "No postcode or known place found. Ask for the postcode (or find it with web search), then fetch again."})
+        sys.exit(1)
     covered = {x["district"].upper() for x in index.get("areas", [])}
-    if not district or district not in covered:
-        offers = load_offers()
-        out({"status": "not_covered", "asked": a.area, "district": district,
-             "covered": [f'{x["district"]} ({x["name"]})' for x in index.get("areas", [])],
-             "request_line": offers.get("request_area", "").replace("{area}", district or a.area)})
+    # Border districts (DG16, TD) have homes on both sides: the data decides first, then the postcode letters.
+    if district not in covered and outside_england_and_wales(district):
+        out({"status": "outside", "district": district,
+             "message": "HM Land Registry's sold prices cover England and Wales, so this postcode isn't in the data."})
+        sys.exit(1)
+    if district not in covered:
+        out({"status": "no_sales", "district": district,
+             "message": f"No standard residential sales are registered in {district} since 2021 (or the district doesn't "
+                        "exist). Check the postcode, or try a neighbouring district."})
         sys.exit(1)
     r = git("sparse-checkout", "add", f"areas/{district.lower()}", cwd=REPO_DIR)
     if r.returncode != 0:
@@ -163,7 +203,16 @@ def cmd_fetch(a) -> None:
 
 def cmd_areas(a) -> None:
     ensure_clone()
-    out(load_index())
+    index = load_index()
+    areas = index.get("areas", [])
+    if a.search:
+        q = a.search.lower()
+        found = [x for x in areas if q in x["name"].lower() or q in x["local_authority"].lower() or x["district"].lower() == q]
+        out({"status": "ok", "matches": [f'{x["district"]} ({x["name"]}, {x["local_authority"]})' for x in found[:40]]})
+        return
+    out({"status": "ok", "coverage": "Every postcode district in England and Wales with registered sales",
+         "districts": len(areas), "updated": index.get("updated"),
+         "data_to": max((x["latest_registered_sale"] for x in areas), default=None)})
 
 
 def read_json(p: Path) -> dict:
@@ -311,6 +360,9 @@ def stats(district: str) -> dict:
     la = (hpi.get("local_authority") or {}).get("latest") or {}
     reg = (hpi.get("region") or {}).get("latest") or {}
     eng = (hpi.get("country") or {}).get("latest") or {}
+    same_geo = (hpi.get("region") or {}).get("slug") and         (hpi.get("region") or {}).get("slug") == (hpi.get("country") or {}).get("slug")
+    if same_geo:  # Wales: the region is the country, so it is shown once
+        eng = {}
     hpi_out = None
     if la:
         hpi_out = {
@@ -327,7 +379,7 @@ def stats(district: str) -> dict:
             ],
             "first_time_buyer_average": la.get("averagePriceFirstTimeBuyer"),
             "region": {"name": meta.get("region"), "annual_change_pct": reg.get("percentageAnnualChange"), "average_price": reg.get("averagePrice")},
-            "country": {"name": meta.get("country"), "annual_change_pct": eng.get("percentageAnnualChange"), "average_price": eng.get("averagePrice")},
+            "country": {"name": meta.get("country") if eng else None, "annual_change_pct": eng.get("percentageAnnualChange"), "average_price": eng.get("averagePrice")},
             "series": [{"month": s["month"], "average_price": s["averagePrice"]} for s in hpi["local_authority"]["series"]],
         }
 
@@ -635,7 +687,11 @@ def dashboard(a) -> None:
     monthly = monthly_counts(rows)
 
     hpi_series = {}
+    same = (hpi.get("region") or {}).get("slug") == (hpi.get("country") or {}).get("slug")
     for key, geo in (("la", "local_authority"), ("region", "region"), ("country", "country")):
+        if key == "country" and same:
+            hpi_series[key] = []
+            continue
         hpi_series[key] = [[p["month"], p["averagePrice"]] for p in (hpi.get(geo) or {}).get("series", [])
                            if p.get("averagePrice")]
 
@@ -671,9 +727,10 @@ def dashboard(a) -> None:
     facts = []
     if s["price_trend"]:
         p = s["price_trend"]
+        others = ", ".join(f"{g['name']} {g['annual_change_pct']:+.1f}%" for g in (p["region"], p["country"])
+                           if g.get("name") and g.get("annual_change_pct") is not None)
         facts.append(f"Average price in {p['geography']}: £{p['average_price']:,}, {p['annual_change_pct']:+.1f}% in the "
-                     f"year to {p['month']} (UK HPI; {p['region']['name']} {p['region']['annual_change_pct']:+.1f}%, "
-                     f"{p['country']['name']} {p['country']['annual_change_pct']:+.1f}%).")
+                     f"year to {p['month']} (UK HPI" + (f"; {others}" if others else "") + ").")
     facts.append(f"{l12['registered_sales']:,} registered sales in {district}, {l12['window']}; "
                  f"median £{l12['median_price']:,}.")
     if l12["busiest_streets"]:
@@ -751,7 +808,7 @@ def main() -> None:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     sub = ap.add_subparsers(dest="cmd", required=True)
     p = sub.add_parser("fetch"); p.add_argument("area"); p.add_argument("--zip"); p.set_defaults(fn=cmd_fetch)
-    p = sub.add_parser("areas"); p.set_defaults(fn=cmd_areas)
+    p = sub.add_parser("areas"); p.add_argument("--search"); p.set_defaults(fn=cmd_areas)
     p = sub.add_parser("stats"); p.add_argument("district"); p.set_defaults(fn=cmd_stats)
     p = sub.add_parser("query"); p.add_argument("district"); p.add_argument("--street"); p.add_argument("--postcode")
     p.add_argument("--type"); p.add_argument("--since"); p.add_argument("--limit", type=int, default=25)

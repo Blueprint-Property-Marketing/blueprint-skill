@@ -1,0 +1,894 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-19,190000,BD8 0JR,S,N,F,54,,Shuttleworth Lane,,Bradford
+2026-08-19,90000,BD8 0HP,T,N,F,15,,Munby Street,,Bradford
+2026-08-12,100000,BD8 0JJ,T,N,F,6,,Green Top Street,,Bradford
+2026-07-31,176500,BD8 0PD,T,N,F,25,,Rhodesway,,Bradford
+2026-07-28,135500,BD8 9LS,T,N,F,49,,Kensington Street,,Bradford
+2026-07-24,171000,BD8 9QA,S,N,F,15,,Como Grove,,Bradford
+2026-07-21,85000,BD8 9DX,T,N,F,31,,Naples Street,,Bradford
+2026-07-17,105000,BD8 0AS,S,N,F,26,,Bullroyd Drive,,Bradford
+2026-07-17,210000,BD8 0AS,S,N,F,14,,Bullroyd Drive,,Bradford
+2026-07-16,110000,BD8 8AQ,T,N,F,14A,,Back Northfield Place,,Bradford
+2026-07-15,265000,BD8 0NB,D,N,F,30,,Chippendale Rise,,Bradford
+2026-06-29,125000,BD8 9JJ,T,N,F,122,,Whitby Road,,Bradford
+2026-06-29,165000,BD8 9HP,T,N,F,34,,Durham Road,,Bradford
+2026-06-25,41300,BD8 9QF,T,N,F,32,,St Leonards Road,,Bradford
+2026-06-16,150000,BD8 0HY,T,N,F,1,,Gilynda Close,,Bradford
+2026-06-12,382500,BD8 7QB,D,N,F,1,,Rosebery Road,,Bradford
+2026-06-12,100000,BD8 0AT,S,N,F,44,,Bull Royd Crescent,,Bradford
+2026-06-05,170000,BD8 0EF,T,N,F,52,,Leaventhorpe Lane,,Bradford
+2026-05-29,95000,BD8 0JD,T,N,F,959,,Thornton Road,,Bradford
+2026-05-29,171000,BD8 0DT,T,N,F,4,,Bedivere Road,,Bradford
+2026-05-29,62000,BD8 0BH,T,N,F,14,,Springroyd Terrace,,Bradford
+2026-05-22,57500,BD8 9ET,T,N,L,114,,Regency Court,,Bradford
+2026-05-22,225000,BD8 8DP,S,N,F,118,,White Abbey Road,,Bradford
+2026-05-22,440000,BD8 0JN,S,N,F,848,,Thornton Road,,Bradford
+2026-05-22,170000,BD8 0HT,S,N,F,139,,Thornton Old Road,,Bradford
+2026-05-15,110000,BD8 9QN,T,N,F,83,,Washington Street,,Bradford
+2026-05-15,90000,BD8 8QT,T,N,F,12,,Springcliffe Street,,Bradford
+2026-05-14,135100,BD8 7SB,T,N,F,17,,Grosvenor Road,,Bradford
+2026-05-06,75000,BD8 0JW,T,N,F,4,,Rose Bank Place,,Bradford
+2026-04-24,260000,BD8 8NN,T,N,L,20,,Whites View,,Bradford
+2026-04-21,125000,BD8 0AY,S,N,F,51,,Allerton Road,,Bradford
+2026-04-10,170000,BD8 9JE,T,N,F,128,,Upper Woodlands Road,,Bradford
+2026-04-01,40000,BD8 9EY,F,N,L,25,,Regency Court,,Bradford
+2026-03-31,100000,BD8 0BJ,T,N,F,60,,Allerton Road,,Bradford
+2026-03-27,180000,BD8 0EB,T,N,F,12,,Leaventhorpe Lane,,Bradford
+2026-03-23,135500,BD8 0HT,T,N,F,174,,Thornton Old Road,,Bradford
+2026-03-13,71000,BD8 0JQ,T,N,F,50,,Jesse Street,,Bradford
+2026-03-13,110000,BD8 0BJ,T,N,F,36,,Allerton Road,,Bradford
+2026-03-12,165000,BD8 9PJ,T,N,F,170,,St Leonards Road,,Bradford
+2026-03-06,125000,BD8 8HE,T,N,F,9,,St Michaels Road,,Bradford
+2026-03-06,210000,BD8 0PA,T,N,F,1015A,,Thornton Road,,Bradford
+2026-02-27,145000,BD8 8HY,S,N,F,10,,Wood Street,,Bradford
+2026-02-27,331000,BD8 0BN,D,N,F,5,,Colston Close,,Bradford
+2026-02-25,125000,BD8 0LX,S,N,F,40,,Sunningdale,,Bradford
+2026-02-20,70000,BD8 8HQ,T,N,F,23,,Springfield Street,,Bradford
+2026-02-20,127000,BD8 8DJ,S,N,F,37,,Lister View,,Bradford
+2026-02-20,170000,BD8 0BL,S,N,F,635,,Thornton Road,,Bradford
+2026-02-18,202500,BD8 0EN,S,N,F,24,,Middlebrook Crescent,,Bradford
+2026-02-13,90000,BD8 9NH,T,N,F,89,,Hoxton Street,,Bradford
+2026-02-13,161000,BD8 9NG,T,N,F,23,,Hoxton Street,,Bradford
+2026-02-05,160000,BD8 8PF,T,N,F,16,,Hollings Terrace,,Bradford
+2026-01-23,59000,BD8 9ET,F,N,L,100,,Regency Court,,Bradford
+2026-01-23,258000,BD8 0EG,T,N,F,125,,Leaventhorpe Lane,,Bradford
+2026-01-21,140000,BD8 7JN,S,N,F,12,,Cornwall Road,,Bradford
+2026-01-19,138000,BD8 9EP,S,N,F,14,,Weetwood Road,,Bradford
+2026-01-16,95000,BD8 0QS,S,N,F,30,,Herschel Road,,Bradford
+2026-01-15,120000,BD8 8PE,T,N,F,5,,Dalton Terrace,,Bradford
+2026-01-06,40000,BD8 9DR,T,N,F,10,,Glenholme Road,,Bradford
+2025-12-23,75000,BD8 8AT,T,N,F,13,,Carlisle Terrace,,Bradford
+2025-12-22,160000,BD8 0LT,S,N,F,44,,Langdale Avenue,,Bradford
+2025-12-19,127500,BD8 8QR,T,N,F,6,,Morningside,,Bradford
+2025-12-19,215000,BD8 0ER,S,N,F,9,,Middlebrook Walk,,Bradford
+2025-12-19,232000,BD8 0AT,S,N,F,8,,Bull Royd Crescent,,Bradford
+2025-12-18,145000,BD8 9LJ,T,N,F,284,,Kensington Street,,Bradford
+2025-12-18,122000,BD8 9JJ,T,N,F,133,,Whitby Road,,Bradford
+2025-12-17,182100,BD8 9LJ,T,N,F,298,,Kensington Street,,Bradford
+2025-12-12,79000,BD8 9SG,T,N,F,19,,West Park Road,,Bradford
+2025-12-12,226000,BD8 8QN,T,N,F,12,,Cross Road,,Bradford
+2025-12-09,137000,BD8 0HY,T,N,F,3,,Gilynda Close,,Bradford
+2025-12-05,51500,BD8 9EY,T,N,L,12,,Regency Court,,Bradford
+2025-12-05,115000,BD8 0RJ,T,N,F,3,,Whimbrel Close,,Bradford
+2025-12-05,530000,BD8 0AN,D,N,F,90,,Crow Tree Lane,,Bradford
+2025-11-28,152000,BD8 0RG,S,N,F,12,,Sandpiper Mews,,Bradford
+2025-11-26,305000,BD8 0BN,S,N,F,13,,Colston Close,,Bradford
+2025-11-21,305000,BD8 9PU,S,N,F,1,,Como Drive,,Bradford
+2025-11-21,240000,BD8 8QA,T,N,F,18,,Farcliffe Road,,Bradford
+2025-11-13,65000,BD8 9QN,T,N,F,31,,Washington Street,,Bradford
+2025-11-07,155000,BD8 0JR,S,N,F,66,,Shuttleworth Lane,,Bradford
+2025-10-24,135500,BD8 0NW,S,N,F,35,,Kingfisher Grove,,Bradford
+2025-10-17,149995,BD8 0PD,S,N,F,22,,Rhodesway,,Bradford
+2025-10-17,122500,BD8 0NL,T,N,F,7,,Lapwing Close,,Bradford
+2025-10-17,159000,BD8 0EA,T,N,F,946C,,Thornton Road,,Bradford
+2025-10-10,159000,BD8 9JU,T,N,F,75,,Fairbank Road,,Bradford
+2025-10-10,99232,BD8 0AN,T,N,F,9,,Crow Tree Lane,,Bradford
+2025-10-09,120000,BD8 8HQ,T,N,F,24,,Springfield Street,,Bradford
+2025-10-09,213000,BD8 0AU,S,N,F,4,,The Oval,,Bradford
+2025-10-03,130000,BD8 9QL,T,N,F,13,,Agar Street,,Bradford
+2025-10-03,145000,BD8 0QN,S,N,F,17,,Barnby Avenue,,Bradford
+2025-09-29,140000,BD8 9PT,S,N,F,16,,Squire Green,,Bradford
+2025-09-26,188000,BD8 0JR,S,N,F,40,,Shuttleworth Lane,,Bradford
+2025-09-26,153000,BD8 0HY,S,N,F,8,,Gilynda Close,,Bradford
+2025-09-26,162500,BD8 0DN,S,N,F,60,,Rhodesway,,Bradford
+2025-09-24,225000,BD8 0ED,D,N,F,24,,Leaventhorpe Avenue,,Bradford
+2025-09-23,65000,BD8 0PB,S,N,F,980,,Thornton Road,,Bradford
+2025-09-19,45000,BD8 8RA,T,N,F,42,,Heaton Road,,Bradford
+2025-09-19,215000,BD8 0EU,S,N,F,8,,Middlebrook Drive,,Bradford
+2025-09-19,186000,BD8 0AX,S,N,F,16,,Bullroyd Avenue,,Bradford
+2025-09-15,220000,BD8 7LP,T,N,F,47,,St Pauls Road,Manningham,Bradford
+2025-09-12,160000,BD8 9JH,T,N,F,5,,Durham Terrace,,Bradford
+2025-09-11,194495,BD8 9SA,S,N,F,10,,Rosetta Drive,,Bradford
+2025-09-11,220000,BD8 8PE,D,N,F,38,,Dalton Terrace,,Bradford
+2025-09-08,80000,BD8 0RE,S,N,F,1,,Osprey Court,,Bradford
+2025-09-05,125000,BD8 0PD,S,N,F,38,,Rhodesway,,Bradford
+2025-09-05,230000,BD8 0NQ,D,N,F,45,,Sunningdale,,Bradford
+2025-09-05,170000,BD8 0LZ,S,N,F,58,,Sunningdale,,Bradford
+2025-09-03,79000,BD8 9SJ,S,N,F,131,,West Park Road,,Bradford
+2025-09-03,159000,BD8 0EX,S,N,F,2,,Middlebrook Hill,,Bradford
+2025-09-02,102000,BD8 0RG,S,N,F,21,,Sandpiper Mews,,Bradford
+2025-09-01,70000,BD8 8BG,F,N,L,130,,Salt Street,,Bradford
+2025-08-28,89000,BD8 9SR,T,N,F,61,,Lytton Road,,Bradford
+2025-08-26,100000,BD8 9LP,T,N,F,208,,Kensington Street,,Bradford
+2025-08-22,118000,BD8 0JB,D,N,F,2A,,Godfrey Street,,Bradford
+2025-08-22,163000,BD8 0AJ,S,N,F,19,,Hedge Way,,Bradford
+2025-08-19,152000,BD8 0EJ,S,N,F,17,,Middlebrook Way,,Bradford
+2025-08-15,130000,BD8 9ST,T,N,F,1,,Lytton Road,,Bradford
+2025-08-15,181000,BD8 9QA,S,N,F,18,,Como Grove,,Bradford
+2025-08-15,70000,BD8 0DZ,F,N,L,12,,Sandhill Close,,Bradford
+2025-08-12,97000,BD8 0HT,T,N,L,217,,Thornton Old Road,,Bradford
+2025-08-08,100000,BD8 8PF,T,N,F,14,,Hollings Terrace,,Bradford
+2025-08-08,107000,BD8 0BJ,T,N,F,72,,Allerton Road,,Bradford
+2025-08-06,115000,BD8 9QL,T,N,F,5,,Agar Street,,Bradford
+2025-08-06,310000,BD8 9PN,S,N,F,46,,St Leonards Grove,,Bradford
+2025-08-06,34000,BD8 7BE,F,N,L,7,Flat 3,Oak Mount,,Bradford
+2025-08-06,175000,BD8 0LG,S,N,F,4,,Olive Grove,,Bradford
+2025-07-31,83000,BD8 9SJ,T,N,F,97,,West Park Road,,Bradford
+2025-07-30,168000,BD8 0PZ,S,N,F,55,,Charteris Road,,Bradford
+2025-07-30,245000,BD8 0AH,S,N,F,40,,Hedge Way,,Bradford
+2025-07-28,154000,BD8 0PA,T,N,F,1045,,Thornton Road,,Bradford
+2025-07-25,220000,BD8 0BE,S,N,F,16,,Lingwood Road,,Bradford
+2025-07-17,111000,BD8 0PH,S,N,F,17,,Vivien Road,,Bradford
+2025-07-15,185000,BD8 9PL,S,N,F,14,,St Leonards Grove,,Bradford
+2025-07-14,225000,BD8 0ED,S,N,F,21,,Leaventhorpe Avenue,,Bradford
+2025-07-11,150000,BD8 9QB,S,N,F,131,,St Leonards Road,,Bradford
+2025-07-11,165000,BD8 0PY,S,N,F,33,,Arthur Avenue,,Bradford
+2025-07-11,125000,BD8 0JE,T,N,F,941,,Thornton Road,,Bradford
+2025-07-04,60000,BD8 9NR,T,N,F,204,,Girlington Road,,Bradford
+2025-07-04,100000,BD8 9NG,T,N,F,19,,Hoxton Street,,Bradford
+2025-07-01,60000,BD8 9DR,T,N,F,15,,Glenholme Road,,Bradford
+2025-06-30,49000,BD8 9EX,F,N,L,85,,Regency Court,,Bradford
+2025-06-18,90000,BD8 8PN,T,N,F,47,,Fearnsides Street,,Bradford
+2025-06-13,80000,BD8 9QL,T,N,F,4A,,Agar Street,,Bradford
+2025-06-13,107000,BD8 0BE,S,N,F,12,,Lingwood Road,,Bradford
+2025-06-09,140000,BD8 9ST,T,N,F,32,,Lytton Road,,Bradford
+2025-06-09,50000,BD8 0LX,S,N,F,16,,Sunningdale,,Bradford
+2025-06-06,99000,BD8 0QN,S,N,F,18,,Barnby Avenue,,Bradford
+2025-06-06,130000,BD8 0BS,D,N,L,22,,Abbeydale Drive,,Bradford
+2025-06-02,150000,BD8 9PL,S,N,F,20,,St Leonards Grove,,Bradford
+2025-05-30,135000,BD8 0BD,T,N,F,3,,Lingwood Terrace,,Bradford
+2025-05-30,165000,BD8 0AZ,T,N,F,35,,Allerton Road,,Bradford
+2025-05-28,88000,BD8 9JG,S,N,F,227,,Upper Woodlands Road,,Bradford
+2025-05-23,102000,BD8 9DR,T,N,F,13,,Glenholme Road,,Bradford
+2025-05-23,90000,BD8 7LH,T,N,F,47,,Blenheim Road,,Bradford
+2025-05-13,65000,BD8 7AG,F,N,L,5,,Lister Gardens,,Bradford
+2025-05-09,95000,BD8 0PF,S,N,F,1,,Arthur Avenue,,Bradford
+2025-05-09,160000,BD8 0EU,S,N,F,3,,Middlebrook Drive,,Bradford
+2025-04-25,100000,BD8 9NR,T,N,F,214,,Girlington Road,,Bradford
+2025-04-17,98000,BD8 9QL,T,N,F,2A,,Agar Street,,Bradford
+2025-04-17,39995,BD8 9EY,F,N,L,8,,Regency Court,,Bradford
+2025-04-14,117500,BD8 0JW,T,N,F,2,,Rose Bank Place,,Bradford
+2025-04-10,130000,BD8 9PR,T,N,F,10,,Lingwood Avenue,,Bradford
+2025-04-08,85000,BD8 9PA,T,N,F,260,,Girlington Road,,Bradford
+2025-04-08,43000,BD8 9NQ,T,N,F,36A,,Hoxton Street,,Bradford
+2025-04-08,110000,BD8 9DR,T,N,F,1,,Glenholme Road,,Bradford
+2025-04-03,70000,BD8 9NX,T,N,F,245,,Girlington Road,,Bradford
+2025-04-03,158000,BD8 0AJ,S,N,F,17,,Hedge Way,,Bradford
+2025-03-31,125000,BD8 0NT,S,N,F,6,,Linnet Close,,Bradford
+2025-03-28,58500,BD8 9ET,F,N,L,109,,Regency Court,,Bradford
+2025-03-28,160000,BD8 7PY,T,N,F,23,,Chatsworth Place,,Bradford
+2025-03-28,145000,BD8 0LG,T,N,F,5,,Olive Grove,,Bradford
+2025-03-28,155000,BD8 0EJ,S,N,F,23,,Middlebrook Way,,Bradford
+2025-03-26,132000,BD8 0RJ,S,N,F,8,,Whimbrel Close,,Bradford
+2025-03-25,185000,BD8 0AH,S,N,F,34,,Hedge Way,,Bradford
+2025-03-24,46000,BD8 7DN,F,N,L,Lister Court,Flat 14,Cunliffe Road,,Bradford
+2025-03-21,72000,BD8 9NX,T,N,F,233,,Girlington Road,,Bradford
+2025-03-21,205000,BD8 0AX,S,N,F,8,,Bullroyd Avenue,,Bradford
+2025-03-20,71000,BD8 9SG,T,N,F,41,,West Park Road,,Bradford
+2025-03-18,255000,BD8 0DB,S,N,F,164,,Rhodesway,,Bradford
+2025-03-14,185000,BD8 7QT,T,N,F,40,,Peel Square,,Bradford
+2025-03-14,200000,BD8 0EJ,S,N,F,10,,Middlebrook Way,,Bradford
+2025-03-14,250000,BD8 0EF,S,N,F,19,,Leaventhorpe Lane,,Bradford
+2025-03-12,60000,BD8 8NU,T,N,F,289,,Hollings Road,,Bradford
+2025-03-11,245000,BD8 8QB,D,N,F,22,,Oakwood Grove,,Bradford
+2025-03-10,110000,BD8 9PA,T,N,F,308,,Girlington Road,,Bradford
+2025-03-10,170000,BD8 0LE,S,N,F,776,,Thornton Road,,Bradford
+2025-03-07,115000,BD8 0PZ,T,N,F,66,,Charteris Road,,Bradford
+2025-03-03,302500,BD8 0LR,D,N,F,60,,Templars Way,,Bradford
+2025-02-28,85000,BD8 9SR,T,N,F,71,,Lytton Road,,Bradford
+2025-02-28,155000,BD8 0RB,S,N,F,6,,Avocet Close,,Bradford
+2025-02-24,150000,BD8 0LT,S,N,F,22,,Langdale Avenue,,Bradford
+2025-02-21,85000,BD8 9NH,T,N,F,85,,Hoxton Street,,Bradford
+2025-02-21,210000,BD8 8QP,T,N,F,17,,Springcliffe,,Bradford
+2025-02-20,261500,BD8 0ED,D,N,F,14,,Leaventhorpe Avenue,,Bradford
+2025-02-13,375000,BD8 7AB,S,N,F,9,,Parkfield Road,,Bradford
+2025-02-03,90000,BD8 0HT,T,N,F,180,,Thornton Old Road,,Bradford
+2025-01-30,150000,BD8 0LN,S,N,F,12,,Templars Way,,Bradford
+2025-01-29,200000,BD8 7BY,T,N,F,55,,Clifton Villas,,Bradford
+2025-01-24,46000,BD8 7DN,F,N,L,Lister Court,Flat 8,Cunliffe Road,,Bradford
+2025-01-23,85000,BD8 9PS,S,N,F,12,,Squire Lane,,Bradford
+2025-01-20,115000,BD8 9SL,T,N,F,9,,Lingwood Road,,Bradford
+2025-01-17,75000,BD8 9QN,T,N,F,35,,Washington Street,,Bradford
+2025-01-13,259000,BD8 7LP,T,N,F,39,,St Pauls Road,Manningham,Bradford
+2025-01-10,83000,BD8 0DZ,F,N,L,33,,Sandhill Close,,Bradford
+2024-12-23,150000,BD8 9QA,S,N,F,9,,Como Grove,,Bradford
+2024-12-19,80000,BD8 7BY,T,N,F,20,,Clifton Villas,,Bradford
+2024-12-18,85000,BD8 8QR,T,N,F,18,,Morningside,,Bradford
+2024-12-18,155000,BD8 0EN,S,N,F,13,,Middlebrook Crescent,,Bradford
+2024-12-13,209000,BD8 0ED,S,N,F,19,,Leaventhorpe Avenue,,Bradford
+2024-12-11,105000,BD8 9SH,T,N,F,4,,Clement Street,,Bradford
+2024-12-11,163000,BD8 9JQ,T,N,F,249,,Upper Woodlands Road,,Bradford
+2024-12-10,70000,BD8 0QS,S,N,F,29,,Herschel Road,,Bradford
+2024-12-06,250000,BD8 0DD,S,N,F,7,,Dean Close,,Bradford
+2024-12-03,146000,BD8 8DP,T,N,F,108,,White Abbey Road,,Bradford
+2024-11-20,190000,BD8 0AS,S,N,F,2,,Bullroyd Drive,,Bradford
+2024-11-18,225000,BD8 0EN,S,N,F,50,,Middlebrook Crescent,,Bradford
+2024-11-11,200000,BD8 9PU,S,N,F,9,,Como Drive,,Bradford
+2024-11-11,45000,BD8 7DN,F,N,L,Lister Court,Flat 31,Cunliffe Road,,Bradford
+2024-11-07,90250,BD8 8QT,T,N,F,35,,Springcliffe Street,,Bradford
+2024-11-05,87000,BD8 9DT,S,N,F,50,,Beaumont Road,,Bradford
+2024-11-01,73000,BD8 0DT,S,N,F,30,,Bedivere Road,,Bradford
+2024-10-31,210000,BD8 0LY,D,N,F,16,,Manor Park,,Bradford
+2024-10-31,350000,BD8 0BN,S,N,F,3,,Colston Close,,Bradford
+2024-10-25,160000,BD8 7LH,T,N,F,27,,Blenheim Road,,Bradford
+2024-10-25,210000,BD8 0EN,S,N,F,16,,Middlebrook Crescent,,Bradford
+2024-10-25,180000,BD8 0DE,S,N,F,34,,Park Hill Drive,,Bradford
+2024-10-24,112000,BD8 7JA,F,N,L,145 - 147,,Manningham Lane,,Bradford
+2024-10-22,141000,BD8 0LP,S,N,F,6,,St Johns Crescent,,Bradford
+2024-10-21,160000,BD8 0LS,S,N,F,3,,Marley Close,,Bradford
+2024-10-15,275000,BD8 0BS,D,N,L,20,,Abbeydale Drive,,Bradford
+2024-10-14,195000,BD8 0AB,S,N,F,3,,Hedge Close,,Bradford
+2024-10-11,100000,BD8 9ED,T,N,F,1,,Whetley Grove,,Bradford
+2024-10-08,110000,BD8 0PD,S,N,F,27,,Rhodesway,,Bradford
+2024-10-03,125000,BD8 0HT,T,N,F,205,,Thornton Old Road,,Bradford
+2024-09-30,200000,BD8 0EU,S,N,F,1,,Middlebrook Drive,,Bradford
+2024-09-27,120000,BD8 9SR,T,N,F,86,,Lytton Road,,Bradford
+2024-09-27,160000,BD8 7SL,T,N,F,45,,Southfield Square,,Bradford
+2024-09-25,110000,BD8 9PR,T,N,F,8,,Lingwood Avenue,,Bradford
+2024-09-25,51000,BD8 8NU,T,N,F,277,,Hollings Road,,Bradford
+2024-09-23,70000,BD8 8QU,T,N,F,27,,Home View Terrace,,Bradford
+2024-09-20,100000,BD8 9QR,T,N,F,166,,Washington Street,,Bradford
+2024-09-20,110000,BD8 8DJ,T,N,F,25,,Lister View,,Bradford
+2024-09-20,190000,BD8 0EN,S,N,F,23,,Middlebrook Crescent,,Bradford
+2024-09-18,197000,BD8 0AS,S,N,F,17,,Bullroyd Drive,,Bradford
+2024-09-16,100000,BD8 9SH,T,N,F,32,,Clement Street,,Bradford
+2024-09-13,132500,BD8 9ES,S,N,F,17,,Walker Drive,,Bradford
+2024-09-04,293000,BD8 0HY,D,N,F,2,,Gilynda Close,,Bradford
+2024-09-03,80000,BD8 8PP,T,N,F,2,,Hollings Street,,Bradford
+2024-08-30,160000,BD8 0RD,S,N,F,8,,Sanderling Court,,Bradford
+2024-08-23,180000,BD8 9JX,T,N,F,24,,Fairbank Road,,Bradford
+2024-08-23,226000,BD8 7ET,S,N,F,9,,Walmer Villas,,Bradford
+2024-08-23,65000,BD8 0DG,S,N,F,4,,Park Hill Close,,Bradford
+2024-08-22,105000,BD8 0AA,T,N,F,158,,Allerton Road,,Bradford
+2024-08-20,115000,BD8 0EU,S,N,F,24,,Middlebrook Drive,,Bradford
+2024-08-16,50000,BD8 7AG,T,N,L,35,,Lister Gardens,,Bradford
+2024-08-16,126000,BD8 0RB,S,N,F,7,,Avocet Close,,Bradford
+2024-08-14,100000,BD8 9ST,T,N,F,30,,Lytton Road,,Bradford
+2024-08-14,80000,BD8 9SG,T,N,F,43,,West Park Road,,Bradford
+2024-08-14,210000,BD8 9PN,S,N,F,52,,St Leonards Grove,,Bradford
+2024-08-14,73000,BD8 0DZ,F,N,L,37,,Sandhill Close,,Bradford
+2024-08-09,150000,BD8 0AT,S,N,F,32,,Bull Royd Crescent,,Bradford
+2024-08-08,245000,BD8 0EZ,D,N,F,18,,Millbeck Close,,Bradford
+2024-08-07,140000,BD8 8PW,T,N,F,13,,Fearnsides Terrace,,Bradford
+2024-08-05,43000,BD8 9EY,F,N,L,3,,Regency Court,,Bradford
+2024-08-01,77000,BD8 7AG,F,N,L,19,,Lister Gardens,,Bradford
+2024-07-31,145000,BD8 0LE,S,N,F,796,,Thornton Road,,Bradford
+2024-07-30,100000,BD8 7PU,T,N,F,71,,Garfield Avenue,,Bradford
+2024-07-30,225000,BD8 0LJ,S,N,F,50,,Bull Royd Lane,,Bradford
+2024-07-26,40000,BD8 9SN,T,N,F,26,,Springroyd Terrace,,Bradford
+2024-07-19,55000,BD8 7DN,F,N,L,Lister Court,Flat 6,Cunliffe Road,,Bradford
+2024-07-04,96000,BD8 9QP,T,N,F,185,,Washington Street,,Bradford
+2024-06-28,57000,BD8 9DY,T,N,F,6,,Naples Street,,Bradford
+2024-06-26,135000,BD8 0QS,S,N,F,39,,Herschel Road,,Bradford
+2024-06-25,153000,BD8 0EX,S,N,F,7,,Middlebrook Hill,,Bradford
+2024-06-21,202000,BD8 0BS,D,N,L,17,,Abbeydale Drive,,Bradford
+2024-06-21,130000,BD8 0BH,T,N,F,7,,Springroyd Terrace,,Bradford
+2024-06-10,165000,BD8 0EB,T,N,F,18,,Leaventhorpe Lane,,Bradford
+2024-05-31,87500,BD8 0JE,T,N,F,949,,Thornton Road,,Bradford
+2024-05-24,120000,BD8 9PR,T,N,F,2,,Lingwood Avenue,,Bradford
+2024-05-24,149000,BD8 0PD,S,N,F,37,,Rhodesway,,Bradford
+2024-05-24,230000,BD8 0LY,S,N,F,4,,Manor Park,,Bradford
+2024-05-23,34000,BD8 9NQ,T,N,F,36A,,Hoxton Street,,Bradford
+2024-05-21,80000,BD8 9QG,T,N,F,13,,Birch Street,,Bradford
+2024-05-20,70000,BD8 0DZ,F,N,L,44,,Sandhill Close,,Bradford
+2024-05-17,73000,BD8 0JL,T,N,F,2,,Bellshaw Street,,Bradford
+2024-05-16,52500,BD8 9ET,F,N,L,92,,Regency Court,,Bradford
+2024-05-16,135000,BD8 9DW,T,N,F,7,,Saplin Street,,Bradford
+2024-05-07,165000,BD8 0AZ,T,N,F,33,,Allerton Road,,Bradford
+2024-05-07,445000,BD8 0AG,D,N,F,8,,Yew Tree Crescent,,Bradford
+2024-05-03,83000,BD8 9SE,T,N,F,638,,Thornton Road,,Bradford
+2024-05-03,100000,BD8 0BJ,T,N,F,66,,Allerton Road,,Bradford
+2024-04-30,100000,BD8 8PE,T,N,F,35,,Dalton Terrace,,Bradford
+2024-04-26,50000,BD8 9ET,F,N,L,121,,Regency Court,,Bradford
+2024-04-25,125000,BD8 9NG,T,N,F,12,,Hoxton Street,,Bradford
+2024-04-23,93000,BD8 9PA,T,N,F,302,,Girlington Road,,Bradford
+2024-04-22,119000,BD8 9NT,T,N,F,13,,Thorn Street,,Bradford
+2024-04-22,160000,BD8 0ES,S,N,F,1,,Middlebrook View,,Bradford
+2024-04-16,160000,BD8 0DA,S,N,F,185,,Rhodesway,,Bradford
+2024-04-02,245000,BD8 9SG,T,N,F,77,,West Park Road,,Bradford
+2024-04-02,103500,BD8 0JB,T,N,F,6,,Godfrey Street,,Bradford
+2024-03-28,185000,BD8 9SA,S,N,F,9,,Rosetta Drive,,Bradford
+2024-03-28,79000,BD8 9NH,T,N,F,77,,Hoxton Street,,Bradford
+2024-03-27,45000,BD8 7QA,T,N,F,12,,Dartmouth Terrace,,Bradford
+2024-03-21,167000,BD8 9NY,S,N,F,5,,Lingwood Gardens,,Bradford
+2024-03-21,39999,BD8 9EX,F,N,L,64,,Regency Court,,Bradford
+2024-03-20,75000,BD8 0JL,T,N,F,6,,Bellshaw Street,,Bradford
+2024-03-15,39950,BD8 0JB,T,N,F,5,,Godfrey Street,,Bradford
+2024-03-08,62000,BD8 9PA,T,N,F,292,,Girlington Road,,Bradford
+2024-03-08,80000,BD8 9LH,S,N,F,341,,Kensington Street,,Bradford
+2024-03-08,83340,BD8 8EH,T,N,F,27,,Denby Street,,Bradford
+2024-03-06,135000,BD8 0LS,D,N,F,5,,Marley Close,,Bradford
+2024-03-05,92000,BD8 8DS,T,N,F,40,,Lincoln Road,,Bradford
+2024-02-29,135500,BD8 9ST,T,N,F,33,,Lytton Road,,Bradford
+2024-02-29,70000,BD8 8NG,T,N,L,20,,Leyburne Street,,Bradford
+2024-02-27,125000,BD8 0LF,T,N,F,12,,Vine Terrace East,,Bradford
+2024-02-23,105000,BD8 8NW,T,N,F,34,,Grandage Terrace,,Bradford
+2024-02-21,65900,BD8 9DX,T,N,F,81,,Naples Street,,Bradford
+2024-02-21,120000,BD8 0BE,S,N,F,12,,Lingwood Road,,Bradford
+2024-02-16,60000,BD8 9DX,T,N,F,59,,Naples Street,,Bradford
+2024-02-15,160000,BD8 9JG,S,N,F,202,,Upper Woodlands Road,,Bradford
+2024-02-15,158000,BD8 0ES,S,N,F,3,,Middlebrook View,,Bradford
+2024-02-09,65000,BD8 8NG,T,N,L,6,,Leyburne Street,,Bradford
+2024-02-09,54000,BD8 0PX,S,N,F,27,,Raven Terrace,,Bradford
+2024-02-08,69000,BD8 0DZ,F,N,L,61,,Sandhill Close,,Bradford
+2024-02-05,44000,BD8 9EY,F,N,L,6,,Regency Court,,Bradford
+2024-02-05,59000,BD8 0JJ,T,N,F,12,,Green Top Street,,Bradford
+2024-01-31,152000,BD8 0LA,T,N,F,13,,Bull Royd Lane,,Bradford
+2024-01-26,118000,BD8 9QJ,T,N,F,58,,Willow Street,,Bradford
+2024-01-26,95000,BD8 9PN,S,N,F,48,,St Leonards Grove,,Bradford
+2024-01-26,43500,BD8 0LB,T,N,F,14,,Vine Terrace West,,Bradford
+2024-01-24,100000,BD8 9DR,T,N,F,3,,Glenholme Road,,Bradford
+2024-01-22,120000,BD8 0DF,S,N,F,3,,Park Hill Drive,,Bradford
+2024-01-19,147500,BD8 0LN,S,N,F,18,,Templars Way,,Bradford
+2024-01-12,113000,BD8 8HQ,T,N,F,23,,Springfield Street,,Bradford
+2024-01-12,216500,BD8 0AH,S,N,F,8,,Hedge Way,,Bradford
+2024-01-11,144000,BD8 9PX,S,N,F,4,,Como Gardens,,Bradford
+2024-01-09,95000,BD8 9JH,T,N,F,23,,Durham Terrace,,Bradford
+2024-01-04,190000,BD8 7PQ,T,N,F,41,,Lily Street,,Bradford
+2023-12-20,79000,BD8 9QL,T,N,F,10,,Agar Street,,Bradford
+2023-12-18,95000,BD8 9ST,T,N,F,44,,Lytton Road,,Bradford
+2023-12-18,118500,BD8 0QS,S,N,F,22,,Herschel Road,,Bradford
+2023-12-15,117000,BD8 0PE,S,N,F,24,,Charteris Road,,Bradford
+2023-12-15,88000,BD8 0BJ,T,N,F,84,,Allerton Road,,Bradford
+2023-12-14,138000,BD8 8HY,S,N,F,10,,Wood Street,,Bradford
+2023-12-14,160000,BD8 0DF,S,N,F,13,,Park Hill Drive,,Bradford
+2023-12-08,61000,BD8 8RE,T,N,F,102,,Church Street,Manningham,Bradford
+2023-12-07,115000,BD8 0LF,T,N,F,17,,Vine Terrace East,,Bradford
+2023-12-06,70000,BD8 9DY,T,N,F,52,,Naples Street,,Bradford
+2023-11-23,110000,BD8 0JB,T,N,F,4,,Godfrey Street,,Bradford
+2023-11-23,145000,BD8 0EP,S,N,F,74,,Middlebrook Way,,Bradford
+2023-11-21,210000,BD8 9SA,S,N,F,2,,Rosetta Drive,,Bradford
+2023-11-17,110000,BD8 0RE,S,N,F,9,,Osprey Court,,Bradford
+2023-11-15,113000,BD8 9JE,T,N,F,130,,Upper Woodlands Road,,Bradford
+2023-11-15,140000,BD8 9HT,S,N,F,61,,Durham Road,,Bradford
+2023-11-15,57500,BD8 0NW,T,N,F,11,,Kingfisher Grove,,Bradford
+2023-11-03,121000,BD8 9HE,S,N,F,10,,Aberford Road,,Bradford
+2023-11-01,92000,BD8 9ST,T,N,F,7,,Lytton Road,,Bradford
+2023-10-31,385000,BD8 0BQ,D,N,F,7,,The Boundary,,Bradford
+2023-10-27,112900,BD8 8HE,T,N,F,32,,St Michaels Road,,Bradford
+2023-10-27,140000,BD8 7NA,T,N,F,301,,Manningham Lane,,Bradford
+2023-10-25,125000,BD8 9ER,S,N,F,45,,Weetwood Road,,Bradford
+2023-10-24,85000,BD8 8NU,T,N,F,184,,Hollings Road,,Bradford
+2023-10-24,115000,BD8 0HT,F,N,F,203,,Thornton Old Road,,Bradford
+2023-10-20,164000,BD8 0HT,S,N,F,137,,Thornton Old Road,,Bradford
+2023-10-20,218500,BD8 0EW,S,N,F,27,,Middlebrook Way,,Bradford
+2023-10-20,176000,BD8 0AS,S,N,F,6,,Bullroyd Drive,,Bradford
+2023-10-09,78000,BD8 9SF,T,N,F,590,,Thornton Road,,Bradford
+2023-10-09,110000,BD8 0JL,T,N,F,13,,Bellshaw Street,,Bradford
+2023-10-06,42500,BD8 9DU,F,N,L,28,,Ashwell Road,Manningham,Bradford
+2023-10-06,110000,BD8 0DU,S,N,F,11,,Charteris Road,,Bradford
+2023-10-02,80425,BD8 8PE,T,N,F,37,,Dalton Terrace,,Bradford
+2023-09-29,53000,BD8 9ET,S,N,L,96,,Regency Court,,Bradford
+2023-09-27,45000,BD8 9DR,T,N,F,32,,Glenholme Road,,Bradford
+2023-09-22,160000,BD8 0LZ,D,N,F,102,,Sunningdale,,Bradford
+2023-09-22,155000,BD8 0EU,S,N,F,16,,Middlebrook Drive,,Bradford
+2023-09-21,300000,BD8 0AN,D,N,F,81,,Crow Tree Lane,,Bradford
+2023-09-20,60000,BD8 8QJ,T,N,F,27,,Abingdon Street,,Bradford
+2023-09-19,117000,BD8 9EE,T,N,F,57,,Whetley Lane,,Bradford
+2023-09-15,49000,BD8 9EA,T,N,F,26,,Jarratt Street,,Bradford
+2023-09-12,70000,BD8 0JQ,T,N,F,52,,Jesse Street,,Bradford
+2023-09-11,45000,BD8 7PP,T,N,F,5,,Westbourne Road,,Bradford
+2023-09-11,45000,BD8 7PP,T,N,F,5,,Westbourne Road,,Bradford
+2023-09-08,213000,BD8 8QA,T,N,F,18,,Farcliffe Road,,Bradford
+2023-09-08,80500,BD8 7SB,T,N,F,25,,Grosvenor Road,,Bradford
+2023-09-01,97500,BD8 0NP,S,N,F,38,,Kingfisher Grove,,Bradford
+2023-08-24,180000,BD8 9SJ,T,N,F,116,,West Park Road,,Bradford
+2023-08-18,240000,BD8 0AA,S,N,F,142,,Allerton Road,,Bradford
+2023-08-14,115000,BD8 9RY,T,N,F,10,,Cemetery Road,,Bradford
+2023-08-14,53500,BD8 7AG,S,N,L,25,,Lister Gardens,,Bradford
+2023-08-11,250000,BD8 0EN,S,N,F,8,,Middlebrook Crescent,,Bradford
+2023-08-11,230000,BD8 0EG,T,N,F,127,,Leaventhorpe Lane,,Bradford
+2023-08-09,85000,BD8 7SL,T,N,F,32,,Southfield Square,,Bradford
+2023-08-04,38000,BD8 9SG,T,N,F,19,,West Park Road,,Bradford
+2023-08-04,65000,BD8 8PW,T,N,F,4,,Fearnsides Terrace,,Bradford
+2023-08-04,56000,BD8 0PZ,S,N,F,58,,Charteris Road,,Bradford
+2023-08-03,80000,BD8 9DT,T,N,F,38,,Beaumont Road,,Bradford
+2023-07-28,166700,BD8 8RE,D,N,F,115,,Church Street,Manningham,Bradford
+2023-07-27,100000,BD8 0LB,T,N,F,12,,Vine Terrace West,,Bradford
+2023-07-26,50000,BD8 9LP,T,N,F,188,,Kensington Street,,Bradford
+2023-07-25,146000,BD8 0LT,S,N,F,44,,Langdale Avenue,,Bradford
+2023-07-21,130000,BD8 9BS,T,N,F,444,,Thornton Road,,Bradford
+2023-07-19,108000,BD8 0HT,T,N,F,189,,Thornton Old Road,,Bradford
+2023-07-07,128000,BD8 0PD,S,N,F,39,,Rhodesway,,Bradford
+2023-07-05,88000,BD8 8NQ,T,N,F,70,,Whetley Hill,,Bradford
+2023-07-05,110000,BD8 0PD,T,N,F,30,,Rhodesway,,Bradford
+2023-06-23,38500,BD8 8QR,T,N,F,25,,Morningside,,Bradford
+2023-06-23,75000,BD8 7AG,F,N,L,2,,Lister Gardens,,Bradford
+2023-06-23,135000,BD8 0NR,T,N,F,8,,Swallow Fold,,Bradford
+2023-06-19,110000,BD8 9PJ,T,N,F,196,,St Leonards Road,,Bradford
+2023-06-19,110000,BD8 0JT,S,N,F,5,,Fairweather Mews,,Bradford
+2023-06-16,70000,BD8 9DR,T,N,F,18,,Glenholme Road,,Bradford
+2023-06-16,82500,BD8 0DT,S,N,F,32,,Bedivere Road,,Bradford
+2023-06-12,100000,BD8 0PN,S,N,F,24,,Arden Road,,Bradford
+2023-06-12,140000,BD8 0LN,S,N,F,36,,Templars Way,,Bradford
+2023-06-09,257500,BD8 0EN,S,N,F,40,,Middlebrook Crescent,,Bradford
+2023-06-09,185000,BD8 0AJ,S,N,F,45,,Hedge Way,,Bradford
+2023-06-07,205000,BD8 7QP,T,N,F,18,,Lumb Lane,,Bradford
+2023-06-01,110000,BD8 7LY,T,N,F,8,,Mansfield Road,,Bradford
+2023-06-01,185000,BD8 0DH,S,N,F,66,,Rhodesway,,Bradford
+2023-05-31,120000,BD8 0RL,S,N,F,11,,Dunlin Way,,Bradford
+2023-05-30,144000,BD8 0EQ,S,N,F,8,,Leaventhorpe Way,,Bradford
+2023-05-30,100000,BD8 0BS,F,N,L,15,,Abbeydale Drive,,Bradford
+2023-05-26,96000,BD8 9EZ,S,N,F,83,,Walker Drive,,Bradford
+2023-05-25,189750,BD8 0AX,S,N,F,11,,Bullroyd Avenue,,Bradford
+2023-05-19,80000,BD8 9NX,T,N,F,211,,Girlington Road,,Bradford
+2023-05-12,85000,BD8 9JJ,T,N,F,125,,Whitby Road,,Bradford
+2023-05-12,39000,BD8 9ET,T,N,L,108,,Regency Court,,Bradford
+2023-05-05,50000,BD8 9ET,F,N,L,93,,Regency Court,,Bradford
+2023-05-04,94000,BD8 0RJ,T,N,F,18,,Whimbrel Close,,Bradford
+2023-04-28,91000,BD8 8EJ,T,N,F,59,,White Abbey Road,,Bradford
+2023-04-28,74000,BD8 8BQ,T,N,F,139,,Salt Street,,Bradford
+2023-04-20,150000,BD8 0EP,S,N,F,78,,Middlebrook Way,,Bradford
+2023-04-17,165000,BD8 0EN,S,N,L,25,,Middlebrook Crescent,,Bradford
+2023-04-14,66000,BD8 9JU,T,N,F,76,,Fairbank Road,,Bradford
+2023-04-14,90000,BD8 8PW,T,N,F,24,,Fearnsides Terrace,,Bradford
+2023-04-06,149500,BD8 0LY,S,N,F,7,,Manor Park,,Bradford
+2023-04-05,170000,BD8 0EZ,D,N,F,8,,Millbeck Close,,Bradford
+2023-03-31,75000,BD8 9SR,T,N,F,65,,Lytton Road,,Bradford
+2023-03-24,92000,BD8 9LJ,T,N,F,342,,Kensington Street,,Bradford
+2023-03-24,78000,BD8 0PA,D,N,F,1023B,,Thornton Road,,Bradford
+2023-03-23,160000,BD8 9QA,S,N,F,21,,Como Grove,,Bradford
+2023-03-22,220000,BD8 9PZ,S,N,F,2,,Como Avenue,,Bradford
+2023-03-22,45000,BD8 7DN,F,N,L,Lister Court,Flat 11,Cunliffe Road,,Bradford
+2023-03-17,60000,BD8 9NH,T,N,F,93,,Hoxton Street,,Bradford
+2023-03-17,120000,BD8 9DT,T,N,F,17,,Beaumont Road,,Bradford
+2023-03-16,93500,BD8 0PH,S,N,F,6,,Vivien Road,,Bradford
+2023-03-15,49900,BD8 9NX,T,N,F,315,,Girlington Road,,Bradford
+2023-03-10,165000,BD8 0LA,T,N,F,17,,Bull Royd Lane,,Bradford
+2023-03-10,70000,BD8 0DZ,F,N,L,27,,Sandhill Close,,Bradford
+2023-03-09,95000,BD8 9ST,T,N,F,23,,Lytton Road,,Bradford
+2023-03-09,120000,BD8 0JT,S,N,F,3,,Fairweather Mews,,Bradford
+2023-03-07,118000,BD8 0EU,S,N,F,24,,Middlebrook Drive,,Bradford
+2023-03-06,146500,BD8 0EX,S,N,F,8,,Middlebrook Hill,,Bradford
+2023-03-03,82000,BD8 9HE,T,N,F,30,,Aberford Road,,Bradford
+2023-03-03,100000,BD8 8HE,T,N,F,23,,St Michaels Road,,Bradford
+2023-03-03,145000,BD8 0EX,S,N,F,1,,Middlebrook Hill,,Bradford
+2023-03-02,52000,BD8 7BE,F,N,L,7,Flat 3,Oak Mount,,Bradford
+2023-03-02,90000,BD8 0JN,T,N,F,862,,Thornton Road,,Bradford
+2023-02-28,145000,BD8 9PZ,S,N,F,7,,Como Avenue,,Bradford
+2023-02-28,119000,BD8 8NH,S,N,F,6,,Arnold Place,,Bradford
+2023-02-28,150000,BD8 8BN,T,N,F,26,,Priestman Street,Manningham,Bradford
+2023-02-27,107000,BD8 0HT,T,N,F,172,,Thornton Old Road,,Bradford
+2023-02-24,50000,BD8 7AG,T,N,L,42,,Lister Gardens,,Bradford
+2023-02-24,150000,BD8 0LX,S,N,F,46,,Sunningdale,,Bradford
+2023-02-24,130000,BD8 0LG,T,N,F,17,,Olive Grove,,Bradford
+2023-02-21,60000,BD8 7PH,T,N,F,9,,Skinner Lane,,Bradford
+2023-02-17,220000,BD8 9NG,T,N,F,3,,Hoxton Street,,Bradford
+2023-02-17,60000,BD8 8PP,T,N,F,24,,Hollings Street,,Bradford
+2023-02-17,390000,BD8 7AA,S,N,F,15,,Parkfield Road,,Bradford
+2023-02-17,127000,BD8 0RA,S,N,F,16,,Sheldrake Avenue,,Bradford
+2023-02-17,142500,BD8 0LU,S,N,F,51,,Ings Way,,Bradford
+2023-02-15,65000,BD8 9RY,T,N,F,4,,Cemetery Road,,Bradford
+2023-02-13,79000,BD8 9NR,T,N,F,204,,Girlington Road,,Bradford
+2023-02-10,45000,BD8 9EU,F,N,L,140,,Regency Court,,Bradford
+2023-02-09,85000,BD8 7PT,T,N,F,9,,Garfield Avenue,,Bradford
+2023-01-31,155000,BD8 9QE,S,N,F,93,,St Leonards Road,,Bradford
+2023-01-30,46000,BD8 9EY,F,N,L,28,,Regency Court,,Bradford
+2023-01-27,80000,BD8 9SJ,T,N,F,113,,West Park Road,,Bradford
+2023-01-27,60000,BD8 8NX,T,N,F,59,,Tile Street,,Bradford
+2023-01-27,65000,BD8 7BY,T,N,F,16,,Clifton Villas,,Bradford
+2023-01-27,355000,BD8 0NG,D,N,F,2,,Alvanley Court,,Bradford
+2023-01-27,188500,BD8 0DG,S,N,F,25,,Park Hill Close,,Bradford
+2023-01-20,127000,BD8 0LF,T,N,F,30,,Vine Terrace East,,Bradford
+2023-01-19,122000,BD8 0DT,S,N,F,3,,Bedivere Road,,Bradford
+2023-01-17,250000,BD8 0EG,D,N,F,122,,Leaventhorpe Lane,,Bradford
+2023-01-06,155000,BD8 0DL,S,N,F,6,,Rodin Avenue,,Bradford
+2022-12-21,70000,BD8 9DX,T,N,F,33,,Naples Street,,Bradford
+2022-12-21,49000,BD8 0NU,F,N,L,27,,Mallard Court,,Bradford
+2022-12-20,80500,BD8 9QN,S,N,F,13,,Washington Street,,Bradford
+2022-12-20,167000,BD8 0AZ,T,N,F,39,,Allerton Road,,Bradford
+2022-12-19,152000,BD8 0JS,D,N,F,4,,Thornton Old Road,,Bradford
+2022-12-19,150000,BD8 0EQ,S,N,F,3,,Leaventhorpe Way,,Bradford
+2022-12-16,160000,BD8 8QD,T,N,F,7,,Farcliffe Place,,Bradford
+2022-12-16,465000,BD8 0AN,D,N,F,90,,Crow Tree Lane,,Bradford
+2022-12-15,100000,BD8 0NW,S,N,F,29,,Kingfisher Grove,,Bradford
+2022-12-13,140000,BD8 9HU,T,N,F,156,,Durham Road,,Bradford
+2022-12-12,89950,BD8 9QN,T,N,F,7,,Washington Street,,Bradford
+2022-12-12,175000,BD8 9PU,S,N,F,3,,Como Drive,,Bradford
+2022-12-09,53000,BD8 9DX,T,N,F,89,,Naples Street,,Bradford
+2022-12-09,120000,BD8 8BN,T,N,F,12,,Priestman Street,Manningham,Bradford
+2022-12-09,160000,BD8 0LT,S,N,F,14,,Langdale Avenue,,Bradford
+2022-12-09,157000,BD8 0AT,S,N,F,16,,Bull Royd Crescent,,Bradford
+2022-12-02,172000,BD8 9PL,S,N,F,5,,St Leonards Grove,,Bradford
+2022-12-02,166000,BD8 0LZ,S,N,F,70,,Sunningdale,,Bradford
+2022-12-02,171500,BD8 0EB,T,N,F,10,,Leaventhorpe Lane,,Bradford
+2022-12-01,130000,BD8 0LT,S,N,F,30,,Langdale Avenue,,Bradford
+2022-12-01,110000,BD8 0DJ,S,N,F,19,,Oaks Lane,,Bradford
+2022-11-30,65000,BD8 7AG,F,N,L,29,,Lister Gardens,,Bradford
+2022-11-29,125000,BD8 8HY,S,N,F,14,,Wood Street,,Bradford
+2022-11-28,50000,BD8 9EU,F,N,L,151,,Regency Court,,Bradford
+2022-11-23,45000,BD8 9EX,F,N,L,62,,Regency Court,,Bradford
+2022-11-22,100000,BD8 0LX,S,N,F,6,,Sunningdale,,Bradford
+2022-11-17,90000,BD8 7JR,T,N,F,45,,Lupton Street,,Bradford
+2022-11-17,103000,BD8 0HS,T,N,F,34,,Lund Street,,Bradford
+2022-11-17,173000,BD8 0AH,S,N,F,22,,Hedge Way,,Bradford
+2022-11-11,125000,BD8 0LG,T,N,F,3,,Olive Grove,,Bradford
+2022-11-11,130000,BD8 0EJ,S,N,F,11A,,Middlebrook Way,,Bradford
+2022-11-07,175000,BD8 0HT,T,N,F,179,,Thornton Old Road,,Bradford
+2022-11-04,170000,BD8 8NA,T,N,L,114,,Whetley Hill,,Bradford
+2022-11-04,180000,BD8 7SL,T,N,F,26,,Southfield Square,,Bradford
+2022-11-04,280000,BD8 7AA,S,N,F,17,,Parkfield Road,,Bradford
+2022-10-31,85000,BD8 8PN,T,N,F,41,,Fearnsides Street,,Bradford
+2022-10-31,39999,BD8 7DN,F,N,L,Lister Court,Flat 5,Cunliffe Road,,Bradford
+2022-10-27,92000,BD8 9SR,T,N,F,59,,Lytton Road,,Bradford
+2022-10-27,100000,BD8 0QS,S,N,F,20,,Herschel Road,,Bradford
+2022-10-21,85000,BD8 9SE,T,N,F,642,,Thornton Road,,Bradford
+2022-10-21,51000,BD8 9QL,T,N,F,4,,Agar Street,,Bradford
+2022-10-21,85000,BD8 9LN,T,N,L,197,,Kensington Street,,Bradford
+2022-10-21,39500,BD8 8HL,F,N,L,22,,Whetley Close,,Bradford
+2022-10-21,180000,BD8 0NB,D,N,F,32,,Chippendale Rise,,Bradford
+2022-10-21,170000,BD8 0LX,S,N,F,50,,Sunningdale,,Bradford
+2022-10-20,50000,BD8 7AG,F,N,L,9,,Lister Gardens,,Bradford
+2022-10-19,80000,BD8 9DY,T,N,F,40,,Naples Street,,Bradford
+2022-10-19,79000,BD8 9DY,S,N,F,32,,Naples Street,,Bradford
+2022-10-14,100000,BD8 0PX,S,N,F,14,,Raven Terrace,,Bradford
+2022-10-14,160000,BD8 0NR,S,N,F,4,,Swallowfold,,Bradford
+2022-10-14,210000,BD8 0DA,S,N,F,187,,Rhodesway,,Bradford
+2022-10-10,88500,BD8 9QE,T,N,F,25,,St Leonards Road,,Bradford
+2022-10-10,85000,BD8 9NX,T,N,F,273,,Girlington Road,,Bradford
+2022-10-07,170000,BD8 9PL,S,N,F,9,,St Leonards Grove,,Bradford
+2022-10-07,60000,BD8 9PA,T,N,F,322,,Girlington Road,,Bradford
+2022-10-03,86000,BD8 9SG,T,N,F,13,,West Park Road,,Bradford
+2022-09-30,45000,BD8 9EY,F,N,L,32,,Regency Court,,Bradford
+2022-09-30,105000,BD8 8HJ,T,N,F,6,,Fraser Street,,Bradford
+2022-09-29,60000,BD8 0DZ,F,N,L,64,,Sandhill Close,,Bradford
+2022-09-29,82000,BD8 0DT,S,N,F,23,,Bedivere Road,,Bradford
+2022-09-27,125000,BD8 9PX,S,N,F,7,,Como Gardens,,Bradford
+2022-09-27,72500,BD8 7BY,S,N,F,16,,Clifton Villas,,Bradford
+2022-09-26,155000,BD8 0NR,T,N,F,6,,Swallowfold,,Bradford
+2022-09-26,51000,BD8 0JQ,T,N,F,56,,Jesse Street,,Bradford
+2022-09-23,115000,BD8 9QR,T,N,F,176,,Washington Street,,Bradford
+2022-09-23,149000,BD8 9HP,T,N,F,52,,Durham Road,,Bradford
+2022-09-23,156000,BD8 7DL,T,N,F,277,,Rock Terrace,,Bradford
+2022-09-23,46000,BD8 7AG,F,N,L,32,,Lister Gardens,,Bradford
+2022-09-22,80000,BD8 9SG,T,N,F,23,,West Park Road,,Bradford
+2022-09-22,39500,BD8 9NX,T,N,F,325,,Girlington Road,,Bradford
+2022-09-22,115000,BD8 9JT,T,N,F,91,,Fairbank Road,,Bradford
+2022-09-16,52000,BD8 9NX,T,N,F,317,,Girlington Road,,Bradford
+2022-09-16,39500,BD8 9NX,T,N,F,307,,Girlington Road,,Bradford
+2022-09-16,95000,BD8 9LN,T,N,L,225,,Kensington Street,,Bradford
+2022-09-16,55000,BD8 8PN,T,N,F,53,,Fearnsides Street,,Bradford
+2022-09-16,57000,BD8 7DN,F,N,L,Lister Court,Flat 26,Cunliffe Road,,Bradford
+2022-09-15,65000,BD8 8RE,T,N,F,100,,Church Street,Manningham,Bradford
+2022-09-15,84000,BD8 7PT,T,N,F,23,,Garfield Avenue,,Bradford
+2022-09-15,360000,BD8 0AG,D,N,F,10,,Yew Tree Crescent,,Bradford
+2022-09-09,110000,BD8 7AS,T,N,F,15,,Cunliffe Terrace,,Bradford
+2022-09-02,68000,BD8 9SF,T,N,F,600,,Thornton Road,,Bradford
+2022-09-02,60000,BD8 8PW,T,N,F,13,,Fearnsides Terrace,,Bradford
+2022-09-02,130000,BD8 0LT,S,N,F,32,,Langdale Avenue,,Bradford
+2022-09-02,75000,BD8 0DR,S,N,F,3,,Oaks Lane,,Bradford
+2022-08-31,135000,BD8 9PS,S,N,F,24,,Squire Lane,,Bradford
+2022-08-30,137000,BD8 0PJ,S,N,F,10,,Merlin Grove,,Bradford
+2022-08-26,97000,BD8 9NR,T,N,L,188,,Girlington Road,,Bradford
+2022-08-26,50000,BD8 9EU,F,N,L,134,,Regency Court,,Bradford
+2022-08-26,100000,BD8 8QJ,T,N,F,46,,Abingdon Street,,Bradford
+2022-08-26,150000,BD8 8NF,T,N,L,84,,Whetley Hill,,Bradford
+2022-08-26,60000,BD8 7BY,T,N,F,18,,Clifton Villas,,Bradford
+2022-08-26,120000,BD8 0RL,S,N,F,3,,Dunlin Way,,Bradford
+2022-08-26,165000,BD8 0BS,D,N,L,22,,Abbeydale Drive,,Bradford
+2022-08-25,94000,BD8 0NS,T,N,F,4,,Falcon Mews,,Bradford
+2022-08-25,122000,BD8 0EY,S,N,F,12,,Blackburn Close,,Bradford
+2022-08-19,133000,BD8 0AX,S,N,F,33,,Bullroyd Avenue,,Bradford
+2022-08-19,231000,BD8 0AA,S,N,F,144,,Allerton Road,,Bradford
+2022-08-18,89585,BD8 0BN,F,N,L,17,,Colston Close,,Bradford
+2022-08-17,70000,BD8 8AP,T,N,F,Saxon Industrial Park,Unit D,Saxon Street,,Bradford
+2022-08-16,122500,BD8 0AA,T,N,F,133,,Allerton Road,,Bradford
+2022-08-11,77500,BD8 9ST,S,N,F,35,,Lytton Road,,Bradford
+2022-08-05,43000,BD8 9QP,T,N,F,193,,Washington Street,,Bradford
+2022-08-05,105000,BD8 7PU,T,N,F,77,,Garfield Avenue,,Bradford
+2022-08-02,135000,BD8 0LP,S,N,F,4,,St Johns Crescent,,Bradford
+2022-07-26,80100,BD8 9SE,T,N,F,654,,Thornton Road,,Bradford
+2022-07-22,193000,BD8 9SA,S,N,F,4,,Rosetta Drive,,Bradford
+2022-07-15,89500,BD8 0NT,T,N,F,7,,Linnet Close,,Bradford
+2022-07-15,134500,BD8 0LP,S,N,F,32,,St Johns Crescent,,Bradford
+2022-07-13,48000,BD8 9EU,F,N,L,143,,Regency Court,,Bradford
+2022-07-08,120000,BD8 7LH,T,N,F,30,,Blenheim Road,,Bradford
+2022-07-08,81000,BD8 0HS,T,N,F,26,,Lund Street,,Bradford
+2022-07-08,165000,BD8 0AN,T,N,F,1,,Crow Tree Lane,,Bradford
+2022-07-07,85000,BD8 0JD,T,N,F,961,,Thornton Road,,Bradford
+2022-07-04,80000,BD8 9HU,T,N,F,148,,Durham Road,,Bradford
+2022-07-04,54000,BD8 7AG,F,N,L,17,,Lister Gardens,,Bradford
+2022-07-01,68000,BD8 9PT,F,N,L,24,,Squire Green,,Bradford
+2022-07-01,60000,BD8 7AG,F,N,L,1,,Lister Gardens,,Bradford
+2022-06-30,75000,BD8 9ST,T,N,F,19,,Lytton Road,,Bradford
+2022-06-30,58000,BD8 9SQ,T,N,F,23,,West Park Terrace,,Bradford
+2022-06-30,65000,BD8 9QB,T,N,F,152,,St Leonards Road,,Bradford
+2022-06-30,125000,BD8 0QS,S,N,F,2,,Herschel Road,,Bradford
+2022-06-30,114000,BD8 0PH,S,N,F,5,,Vivien Road,,Bradford
+2022-06-29,155000,BD8 0AT,S,N,F,14,,Bull Royd Crescent,,Bradford
+2022-06-28,125000,BD8 9PL,S,N,F,26,,St Leonards Grove,,Bradford
+2022-06-22,47000,BD8 7AG,F,N,L,30,,Lister Gardens,,Bradford
+2022-06-17,35500,BD8 0NU,F,N,L,17,,Mallard Court,,Bradford
+2022-06-17,180000,BD8 0DB,S,N,F,176,,Rhodesway,,Bradford
+2022-06-14,85000,BD8 8NQ,T,N,F,58,,Whetley Hill,,Bradford
+2022-06-10,79500,BD8 9DY,T,N,F,56,,Naples Street,,Bradford
+2022-06-08,90000,BD8 8QT,T,N,F,5,,Springcliffe Street,,Bradford
+2022-06-06,119000,BD8 9PA,T,N,F,336,,Girlington Road,,Bradford
+2022-05-31,78000,BD8 0BS,F,N,L,14,,Abbeydale Drive,,Bradford
+2022-05-30,115000,BD8 9HU,T,N,F,164,,Durham Road,,Bradford
+2022-05-30,55000,BD8 9EH,T,N,F,29,,Whetley Lane,,Bradford
+2022-05-20,125000,BD8 9JG,S,N,F,198,,Upper Woodlands Road,,Bradford
+2022-05-20,89000,BD8 0RD,S,N,F,1,,Sanderling Court,,Bradford
+2022-05-19,345000,BD8 0NQ,D,N,F,63,,Sunningdale,,Bradford
+2022-05-18,108000,BD8 9PS,S,N,F,34,,Squire Lane,,Bradford
+2022-05-16,92500,BD8 9QE,T,N,F,33,,St Leonards Road,,Bradford
+2022-05-11,65000,BD8 9DR,T,N,F,5,,Glenholme Road,,Bradford
+2022-05-04,100000,BD8 9QP,T,N,F,105,,Washington Street,,Bradford
+2022-04-29,135000,BD8 9PY,S,N,F,68,,Lingwood Avenue,,Bradford
+2022-04-29,73000,BD8 0DZ,F,N,L,31,,Sandhill Close,,Bradford
+2022-04-28,135000,BD8 9PL,S,N,F,1,,St Leonards Grove,,Bradford
+2022-04-26,167000,BD8 0LX,S,N,F,19,,Sunningdale,,Bradford
+2022-04-22,74000,BD8 8PP,S,N,F,14,,Hollings Street,,Bradford
+2022-04-22,42000,BD8 7AG,F,N,L,10,,Lister Gardens,,Bradford
+2022-04-19,135000,BD8 0DG,S,N,F,17,,Park Hill Close,,Bradford
+2022-04-14,130000,BD8 9JU,T,N,F,52,,Fairbank Road,,Bradford
+2022-04-14,85000,BD8 8QU,T,N,F,23,,Home View Terrace,,Bradford
+2022-04-14,160000,BD8 7PQ,T,N,F,65,,Lily Street,,Bradford
+2022-04-13,39000,BD8 9ET,F,N,L,117,,Regency Court,,Bradford
+2022-04-13,83000,BD8 0HT,T,N,F,184,,Thornton Old Road,,Bradford
+2022-04-11,173000,BD8 7LU,T,N,F,27,,St Pauls Road,Manningham,Bradford
+2022-04-11,119000,BD8 0QD,S,N,F,114,,Charteris Road,,Bradford
+2022-04-08,112000,BD8 9ST,T,N,F,56,,Lytton Road,,Bradford
+2022-04-08,140000,BD8 9JW,T,N,F,36,,Whitby Road,,Bradford
+2022-04-08,200000,BD8 7DL,T,N,F,281,,Rock Terrace,,Bradford
+2022-04-08,190000,BD8 0AF,S,N,F,1,,The Dean,,Bradford
+2022-04-07,120000,BD8 7NW,T,N,F,2,,Rose Bank,,Bradford
+2022-04-06,140000,BD8 0ES,S,N,F,3,,Middlebrook View,,Bradford
+2022-04-06,165000,BD8 0AJ,S,N,F,7,,Hedge Way,,Bradford
+2022-04-04,39995,BD8 7DN,F,N,L,Lister Court,Flat 28,Cunliffe Road,,Bradford
+2022-04-04,39995,BD8 7DN,F,N,L,Lister Court,Flat 10,Cunliffe Road,,Bradford
+2022-04-01,135000,BD8 9JW,T,N,F,17,,Whitby Road,,Bradford
+2022-03-31,90000,BD8 9JX,T,N,F,6,,Fairbank Road,,Bradford
+2022-03-31,120000,BD8 7BT,T,N,F,36,,Queens Road,,Bradford
+2022-03-31,142000,BD8 0LT,S,N,F,8,,Langdale Avenue,,Bradford
+2022-03-31,255000,BD8 0LL,D,N,F,12,,Ings Way,,Bradford
+2022-03-31,65000,BD8 0HT,F,N,L,215A,,Thornton Old Road,,Bradford
+2022-03-31,155500,BD8 0BR,D,N,L,1,,Eton Fold,,Bradford
+2022-03-29,62000,BD8 0DZ,F,N,L,70,,Sandhill Close,,Bradford
+2022-03-28,84000,BD8 8PL,T,N,F,1,,Harriet Street,,Bradford
+2022-03-25,130000,BD8 0LU,T,N,F,28,,Ings Way,,Bradford
+2022-03-24,60000,BD8 0DZ,F,N,L,60,,Sandhill Close,,Bradford
+2022-03-22,140000,BD8 0DB,D,N,F,158,,Rhodesway,,Bradford
+2022-03-21,71000,BD8 0JQ,T,N,F,46,,Jesse Street,,Bradford
+2022-03-15,82000,BD8 0RJ,S,N,F,6,,Whimbrel Close,,Bradford
+2022-03-04,95000,BD8 9JJ,T,N,F,100,,Whitby Road,,Bradford
+2022-03-04,82950,BD8 0JE,T,N,F,953,,Thornton Road,,Bradford
+2022-03-03,220000,BD8 8QQ,T,N,F,8,,Fairfield Road,,Bradford
+2022-03-02,88000,BD8 0PY,S,N,F,20,,Arthur Avenue,,Bradford
+2022-03-01,65000,BD8 9NN,T,N,F,67,,Girlington Road,,Bradford
+2022-02-28,150000,BD8 8BH,S,N,F,117,,Salt Street,,Bradford
+2022-02-28,175000,BD8 0EF,S,N,F,17,,Leaventhorpe Lane,,Bradford
+2022-02-25,75000,BD8 8QR,T,N,F,27,,Morningside,,Bradford
+2022-02-24,90000,BD8 7QD,T,N,F,2,,Fern Terrace,,Bradford
+2022-02-21,110000,BD8 0QS,S,N,F,23,,Herschel Road,,Bradford
+2022-02-18,76000,BD8 8QT,T,N,F,60,,Springcliffe Street,,Bradford
+2022-02-18,136000,BD8 8NW,T,N,L,5,,Grandage Terrace,,Bradford
+2022-02-11,63500,BD8 9PA,T,N,F,300,,Girlington Road,,Bradford
+2022-02-11,125000,BD8 9NX,T,N,F,263,,Girlington Road,,Bradford
+2022-02-11,143500,BD8 9JN,S,N,F,46,,Whitby Road,,Bradford
+2022-02-10,90000,BD8 0LT,S,N,F,3,,Langdale Avenue,,Bradford
+2022-02-09,120000,BD8 8QJ,T,N,F,24,,Abingdon Street,,Bradford
+2022-01-28,90000,BD8 0RJ,S,N,F,10,,Whimbrel Close,,Bradford
+2022-01-21,95000,BD8 9LS,T,N,F,59,,Kensington Street,,Bradford
+2022-01-21,80000,BD8 8QR,T,N,F,28,,Morningside,,Bradford
+2022-01-21,185000,BD8 8NN,T,N,L,20,,Whites View,,Bradford
+2022-01-21,105000,BD8 0LG,T,N,F,13,,Olive Grove,,Bradford
+2022-01-20,60000,BD8 8HH,S,N,F,7,,Springfield Terrace,,Bradford
+2022-01-20,185000,BD8 0AU,S,N,F,12,,The Oval,,Bradford
+2022-01-14,74500,BD8 9SR,T,N,F,71,,Lytton Road,,Bradford
+2022-01-14,91000,BD8 9LH,T,N,F,281,,Kensington Street,,Bradford
+2022-01-14,65000,BD8 0JL,T,N,F,12,,Bellshaw Street,,Bradford
+2022-01-07,100000,BD8 8PP,T,N,F,22,,Hollings Street,,Bradford
+2022-01-06,200000,BD8 0AA,S,N,F,95,,Allerton Road,,Bradford
+2021-12-22,50000,BD8 9SJ,T,N,F,103,,West Park Road,,Bradford
+2021-12-22,55000,BD8 8BQ,T,N,F,145,,Salt Street,,Bradford
+2021-12-22,90000,BD8 7JS,T,N,F,28,,Cornwall Terrace,,Bradford
+2021-12-22,120000,BD8 0RD,S,N,F,10,,Sanderling Court,,Bradford
+2021-12-22,350000,BD8 0DZ,D,N,L,1,,Sandhill Close,,Bradford
+2021-12-22,350000,BD8 0DZ,D,N,F,1,,Sandhill Close,,Bradford
+2021-12-17,58000,BD8 7PT,T,N,F,11,,Garfield Avenue,,Bradford
+2021-12-17,98000,BD8 0AA,T,N,F,154,,Allerton Road,,Bradford
+2021-12-16,77500,BD8 9PX,S,N,F,17,,Como Gardens,,Bradford
+2021-12-16,70000,BD8 8PP,T,N,F,8,,Hollings Street,,Bradford
+2021-12-16,59000,BD8 0BJ,T,N,F,42,,Allerton Road,,Bradford
+2021-12-15,175000,BD8 0EZ,S,N,F,5,,Millbeck Close,,Bradford
+2021-12-10,55000,BD8 9SH,T,N,F,23,,Clement Street,,Bradford
+2021-12-10,130000,BD8 8NW,T,N,F,31,,Grandage Terrace,,Bradford
+2021-12-09,205500,BD8 0ED,D,N,F,45,,Leaventhorpe Avenue,,Bradford
+2021-12-06,230000,BD8 7EY,T,N,F,5,,Apsley Crescent,,Bradford
+2021-12-06,105000,BD8 0QS,S,N,F,12,,Herschel Road,,Bradford
+2021-12-06,225000,BD8 0EZ,D,N,F,12,,Millbeck Close,,Bradford
+2021-12-03,105000,BD8 0LE,T,N,F,780,,Thornton Road,,Bradford
+2021-12-02,64000,BD8 9EH,T,N,F,17,,Whetley Lane,,Bradford
+2021-11-30,205000,BD8 8AT,T,N,F,37,,Carlisle Terrace,,Bradford
+2021-11-26,69500,BD8 9ST,T,N,F,31,,Lytton Road,,Bradford
+2021-11-25,162000,BD8 0LA,T,N,F,15,,Bull Royd Lane,,Bradford
+2021-11-25,169950,BD8 0EN,S,N,F,32,,Middlebrook Crescent,,Bradford
+2021-11-23,135000,BD8 9PS,S,N,F,18,,Squire Lane,,Bradford
+2021-11-22,96000,BD8 0JB,T,N,F,8,,Godfrey Street,,Bradford
+2021-11-19,73000,BD8 0PX,S,N,F,27,,Raven Terrace,,Bradford
+2021-11-19,160000,BD8 0DA,S,N,F,175,,Rhodesway,,Bradford
+2021-11-15,60000,BD8 9DT,S,N,F,22,,Beaumont Road,,Bradford
+2021-11-12,34000,BD8 9EY,F,N,L,10,,Regency Court,,Bradford
+2021-11-10,137000,BD8 0JR,S,N,F,52,,Shuttleworth Lane,,Bradford
+2021-11-08,65000,BD8 9NX,T,N,F,239A,,Girlington Road,,Bradford
+2021-11-08,102000,BD8 0RJ,S,N,F,7,,Whimbrel Close,,Bradford
+2021-11-05,75000,BD8 0PR,T,Y,F,10,,Springs Meadow,,Bradford
+2021-11-05,69000,BD8 0BJ,T,N,F,80,,Allerton Road,,Bradford
+2021-11-03,65000,BD8 7RH,F,N,L,15,,Gracechurch Street,,Bradford
+2021-11-02,110500,BD8 0LG,T,N,F,27,,Olive Grove,,Bradford
+2021-10-29,257000,BD8 8QB,S,N,F,1,,Oakwood Grove,,Bradford
+2021-10-29,140000,BD8 0EJ,S,N,F,10,,Middlebrook Way,,Bradford
+2021-10-29,135000,BD8 0DG,S,N,F,1,,Park Hill Close,,Bradford
+2021-10-28,105000,BD8 0DH,S,N,F,66,,Rhodesway,,Bradford
+2021-10-26,60000,BD8 9QF,T,N,F,18,,St Leonards Road,,Bradford
+2021-10-22,121000,BD8 9PR,S,N,F,55,,Lingwood Avenue,,Bradford
+2021-10-22,140000,BD8 0JR,S,N,F,46,,Shuttleworth Lane,,Bradford
+2021-10-20,92000,BD8 0JE,F,N,F,943,,Thornton Road,,Bradford
+2021-10-15,165000,BD8 0AB,S,N,F,7,,Hedge Close,,Bradford
+2021-10-14,50000,BD8 7LP,F,N,L,46,Flat 2,St Pauls Road,Manningham,Bradford
+2021-10-13,100000,BD8 9HE,S,N,F,33,,Aberford Road,,Bradford
+2021-10-13,50500,BD8 0HS,T,N,F,34,,Lund Street,,Bradford
+2021-10-12,85000,BD8 0DN,S,N,F,60,,Rhodesway,,Bradford
+2021-10-11,95000,BD8 9EN,S,N,F,2,,Walker Drive,,Bradford
+2021-10-11,150000,BD8 0LG,S,N,F,22,,Olive Grove,,Bradford
+2021-10-11,65000,BD8 0HS,T,N,F,32,,Lund Street,,Bradford
+2021-10-08,72500,BD8 9SE,T,N,F,646,,Thornton Road,,Bradford
+2021-10-01,116500,BD8 0EW,S,N,F,53,,Middlebrook Way,,Bradford
+2021-09-29,86000,BD8 0BN,S,N,L,33,,Colston Close,,Bradford
+2021-09-24,50000,BD8 8QU,T,N,F,24,,Home View Terrace,,Bradford
+2021-09-24,105000,BD8 0EP,S,N,F,88,,Middlebrook Way,,Bradford
+2021-09-22,83000,BD8 0HT,T,N,F,177,,Thornton Old Road,,Bradford
+2021-09-21,75000,BD8 9LJ,T,N,F,338,,Kensington Street,,Bradford
+2021-09-21,124000,BD8 0PA,T,N,F,1025,,Thornton Road,,Bradford
+2021-09-20,154000,BD8 0LJ,S,N,F,54,,Bull Royd Lane,,Bradford
+2021-09-17,140000,BD8 9QQ,T,N,F,46,,Agar Street,,Bradford
+2021-09-17,125000,BD8 0BE,S,N,F,8,,Lingwood Road,,Bradford
+2021-09-14,51000,BD8 9LP,T,N,F,182,,Kensington Street,,Bradford
+2021-09-13,63000,BD8 9LJ,T,N,F,342,,Kensington Street,,Bradford
+2021-09-13,250000,BD8 7EY,T,N,F,10,,Apsley Crescent,,Bradford
+2021-09-13,110000,BD8 7AH,T,N,F,30,,Woodview Terrace,,Bradford
+2021-09-10,53500,BD8 9QF,T,N,F,32,,St Leonards Road,,Bradford
+2021-09-10,140000,BD8 9PR,S,N,F,53,,Lingwood Avenue,,Bradford
+2021-09-10,50000,BD8 8NX,T,N,F,43,,Tile Street,,Bradford
+2021-09-10,146000,BD8 0ED,S,N,F,33,,Leaventhorpe Avenue,,Bradford
+2021-09-03,43000,BD8 8HQ,T,N,F,11,,Springfield Street,,Bradford
+2021-09-03,260000,BD8 0NG,D,N,F,3,,Alvanley Court,,Bradford
+2021-09-03,140000,BD8 0AT,S,N,F,20,,Bull Royd Crescent,,Bradford
+2021-08-31,39000,BD8 7NP,F,N,L,69,,Church Street,Manningham,Bradford
+2021-08-31,90000,BD8 0LJ,T,N,F,60,,Bull Royd Lane,,Bradford
+2021-08-27,70000,BD8 8HX,T,N,F,7,,Rievaulx Avenue,,Bradford
+2021-08-27,87500,BD8 0NT,S,N,F,6,,Linnet Close,,Bradford
+2021-08-27,220000,BD8 0ED,S,N,F,49,,Leaventhorpe Avenue,,Bradford
+2021-08-27,195000,BD8 0DF,S,N,F,5,,Park Hill Drive,,Bradford
+2021-08-26,80000,BD8 0LF,T,N,F,32,,Vine Terrace East,,Bradford
+2021-08-26,185000,BD8 0DF,S,N,F,26,,Park Hill Drive,,Bradford
+2021-08-25,73567,BD8 0HT,T,N,F,183,,Thornton Old Road,,Bradford
+2021-08-23,220000,BD8 0BS,D,N,L,5,,Abbeydale Drive,,Bradford
+2021-08-20,43000,BD8 9QB,T,N,F,138,,St Leonards Road,,Bradford
+2021-08-20,38000,BD8 9DX,T,N,F,91,,Naples Street,,Bradford
+2021-08-20,108250,BD8 8DJ,T,N,F,25,,Lister View,,Bradford
+2021-08-20,175000,BD8 0EZ,D,N,F,9,,Millbeck Close,,Bradford
+2021-08-18,195000,BD8 0DA,S,N,F,207,,Rhodesway,,Bradford
+2021-08-17,40000,BD8 9DR,T,N,F,38,,Glenholme Road,,Bradford
+2021-08-13,65000,BD8 9QL,T,N,F,4A,,Agar Street,,Bradford
+2021-08-13,39995,BD8 9EY,F,N,L,20,,Regency Court,,Bradford
+2021-08-13,355000,BD8 7BE,D,N,F,14,,Oak Mount,,Bradford
+2021-08-13,132000,BD8 0DG,S,N,F,23,,Park Hill Close,,Bradford
+2021-08-12,67000,BD8 9QJ,T,N,F,21,,Willow Street,,Bradford
+2021-08-06,170000,BD8 9QB,S,N,F,107,,St Leonards Road,,Bradford
+2021-08-06,48000,BD8 9EU,F,N,L,150,,Regency Court,,Bradford
+2021-08-06,65000,BD8 8PW,T,N,F,16,,Fearnsides Terrace,,Bradford
+2021-08-06,200000,BD8 0BS,D,N,L,25,,Abbeydale Drive,,Bradford
+2021-08-06,190000,BD8 0AH,S,N,F,30,,Hedge Way,,Bradford
+2021-07-30,39950,BD8 9ET,F,N,L,113,,Regency Court,,Bradford
+2021-07-30,40700,BD8 8NX,T,N,F,31,,Tile Street,,Bradford
+2021-07-30,119999,BD8 0LR,S,N,F,46,,Templars Way,,Bradford
+2021-07-30,143000,BD8 0EQ,S,N,F,9,,Leaventhorpe Way,,Bradford
+2021-07-29,73000,BD8 9HU,T,N,F,144,,Durham Road,,Bradford
+2021-07-28,119950,BD8 0EW,S,N,F,51,,Middlebrook Way,,Bradford
+2021-07-23,134500,BD8 9SF,T,N,F,618,,Thornton Road,,Bradford
+2021-07-23,265000,BD8 0ER,S,N,F,12,,Middlebrook Walk,,Bradford
+2021-07-16,115000,BD8 9PR,S,N,F,51,,Lingwood Avenue,,Bradford
+2021-07-16,45000,BD8 9LH,T,N,F,259,,Kensington Street,,Bradford
+2021-07-16,126000,BD8 0EP,S,N,F,84,,Middlebrook Way,,Bradford
+2021-07-15,115000,BD8 9LH,T,N,F,325,,Kensington Street,,Bradford
+2021-07-15,60000,BD8 0DZ,F,N,L,52,,Sandhill Close,,Bradford
+2021-07-14,168000,BD8 0AG,S,N,F,11,,Yew Tree Crescent,,Bradford
+2021-07-12,90000,BD8 9PU,S,N,F,6,,Como Drive,,Bradford
+2021-07-09,80000,BD8 9JJ,T,N,F,122,,Whitby Road,,Bradford
+2021-07-09,84000,BD8 8HX,T,N,F,4,,Rievaulx Avenue,,Bradford
+2021-07-09,100000,BD8 0AH,S,N,F,2,,Hedge Way,,Bradford
+2021-07-06,45000,BD8 9SH,T,N,F,15,,Clement Street,,Bradford
+2021-07-06,87500,BD8 0BJ,T,N,F,78,,Allerton Road,,Bradford
+2021-07-05,102000,BD8 9QH,T,N,F,15,,Agar Terrace,,Bradford
+2021-06-30,165000,BD8 0NB,D,N,F,62,,Chippendale Rise,,Bradford
+2021-06-28,86000,BD8 0EF,T,N,F,48,,Leaventhorpe Lane,,Bradford
+2021-06-25,475000,BD8 0AW,D,N,F,6,,Box Tree Close,,Bradford
+2021-06-22,145000,BD8 9NX,T,N,F,265,,Girlington Road,,Bradford
+2021-06-21,67500,BD8 8NU,T,N,F,204,,Hollings Road,,Bradford
+2021-06-18,120000,BD8 9LL,T,N,F,250,,Kensington Street,,Bradford
+2021-06-18,122000,BD8 0LZ,S,N,F,72,,Sunningdale,,Bradford
+2021-06-17,107500,BD8 0BL,S,N,F,617,,Thornton Road,,Bradford
+2021-06-11,75000,BD8 9NA,T,N,F,514,,Thornton Road,,Bradford
+2021-06-10,130500,BD8 0NQ,D,N,F,59,,Sunningdale,,Bradford
+2021-05-27,137000,BD8 9NX,T,N,F,229,,Girlington Road,,Bradford
+2021-05-27,39995,BD8 9EY,F,N,L,18,,Regency Court,,Bradford
+2021-05-24,50000,BD8 8PN,T,N,F,73,,Fearnsides Street,,Bradford
+2021-05-24,50000,BD8 8PN,T,N,F,71,,Fearnsides Street,,Bradford
+2021-05-24,50000,BD8 8PN,T,N,F,65,,Fearnsides Street,,Bradford
+2021-05-21,51000,BD8 9SQ,T,N,F,18,,West Park Terrace,,Bradford
+2021-05-21,73000,BD8 0JB,S,N,F,3,,Godfrey Street,,Bradford
+2021-05-20,60000,BD8 0HS,T,N,F,24,,Lund Street,,Bradford
+2021-05-19,44000,BD8 9EX,T,N,L,52,,Regency Court,,Bradford
+2021-05-18,58000,BD8 9NH,T,N,F,81,,Hoxton Street,,Bradford
+2021-05-12,70000,BD8 9LZ,T,N,F,16,,Kensington Street,,Bradford
+2021-05-10,123000,BD8 9QA,S,N,F,12,,Como Grove,,Bradford
+2021-05-10,340000,BD8 0BQ,D,N,F,18,,The Boundary,,Bradford
+2021-05-10,452000,BD8 0AD,D,N,F,16,,Yew Tree Avenue,,Bradford
+2021-04-30,41050,BD8 9QN,T,N,F,89,,Washington Street,,Bradford
+2021-04-30,35000,BD8 9EA,T,N,F,26,,Jarratt Street,,Bradford
+2021-04-30,106000,BD8 0EX,S,N,F,2,,Middlebrook Hill,,Bradford
+2021-04-30,69500,BD8 0AZ,T,N,F,102,,Allerton Road,,Bradford
+2021-04-29,70000,BD8 0QS,S,N,F,6,,Herschel Road,,Bradford
+2021-04-28,60000,BD8 7AH,T,N,F,46,,Woodview Terrace,,Bradford
+2021-04-26,110000,BD8 8QP,T,N,F,24,,Springcliffe,,Bradford
+2021-04-26,52000,BD8 7BY,T,N,F,18,,Clifton Villas,,Bradford
+2021-04-23,59500,BD8 9DY,T,N,F,36,,Naples Street,,Bradford
+2021-04-23,174000,BD8 0AQ,S,N,F,114,,Allerton Road,,Bradford
+2021-04-22,90000,BD8 0DT,S,N,F,5,,Bedivere Road,,Bradford
+2021-04-20,80000,BD8 9NQ,T,N,F,66,,Hoxton Street,,Bradford
+2021-04-16,133000,BD8 9PP,S,N,F,16,,Rayner Avenue,,Bradford
+2021-04-08,132000,BD8 0AJ,S,N,F,29,,Hedge Way,,Bradford
+2021-03-31,90000,BD8 0QB,T,N,F,8,,The Square,,Bradford
+2021-03-31,65000,BD8 0DZ,F,N,L,48,,Sandhill Close,,Bradford
+2021-03-30,40000,BD8 9ET,F,N,L,110,,Regency Court,,Bradford
+2021-03-29,88500,BD8 9LS,T,N,F,61,,Kensington Street,,Bradford
+2021-03-29,142000,BD8 0ES,S,N,F,1,,Middlebrook View,,Bradford
+2021-03-26,105000,BD8 0PZ,S,N,F,55,,Charteris Road,,Bradford
+2021-03-26,170000,BD8 0DA,S,N,F,193,,Rhodesway,,Bradford
+2021-03-26,225000,BD8 0AA,S,N,F,138,,Allerton Road,,Bradford
+2021-03-25,95000,BD8 0EY,T,N,F,18,,Blackburn Close,,Bradford
+2021-03-24,50000,BD8 8JT,T,N,F,112,,City Road,,Bradford
+2021-03-18,87000,BD8 0QS,S,N,F,9,,Herschel Road,,Bradford
+2021-03-17,71000,BD8 9NH,T,N,F,83,,Hoxton Street,,Bradford
+2021-03-12,100000,BD8 9JN,S,N,F,49,,Whitby Road,,Bradford
+2021-03-05,115000,BD8 0BX,D,N,F,1,,Lane Ends Close,,Bradford
+2021-03-04,101000,BD8 0BB,T,N,F,10,,Squire Lane,,Bradford
+2021-03-01,135000,BD8 9PR,S,N,F,43,,Lingwood Avenue,,Bradford
+2021-02-26,39950,BD8 9JT,T,N,F,95,,Fairbank Road,,Bradford
+2021-02-26,85000,BD8 9EW,T,N,F,20,,Blythe Avenue,,Bradford
+2021-02-25,53000,BD8 8NX,T,N,F,11,,Tile Street,,Bradford
+2021-02-25,152950,BD8 0EW,D,N,F,59,,Middlebrook Way,,Bradford
+2021-02-25,330000,BD8 0BQ,D,N,F,17,,The Boundary,,Bradford
+2021-02-19,42000,BD8 8RE,T,N,F,98,,Church Street,Manningham,Bradford
+2021-02-15,100000,BD8 8HH,T,N,F,9,,Springfield Terrace,,Bradford
+2021-02-12,90000,BD8 9JR,T,N,F,167,,Fairbank Road,,Bradford
+2021-02-12,45000,BD8 8NG,S,N,F,3,,Leyburne Street,,Bradford
+2021-02-11,52000,BD8 0AZ,T,N,F,108,,Allerton Road,,Bradford
+2021-02-08,90000,BD8 9DT,T,N,F,39,,Beaumont Road,,Bradford
+2021-02-08,90000,BD8 8BS,T,N,F,79,,Priestman Street,Manningham,Bradford
+2021-02-05,76000,BD8 9PG,T,N,F,42,,Northrop Close,,Bradford
+2021-02-04,105000,BD8 9SH,T,N,F,1,,Clement Street,,Bradford
+2021-02-03,120000,BD8 0LW,S,N,F,5,,Templars Way,,Bradford
+2021-01-29,165000,BD8 0EN,S,N,F,48,,Middlebrook Crescent,,Bradford
+2021-01-28,145000,BD8 0AX,S,N,F,37,,Bullroyd Avenue,,Bradford
+2021-01-26,57000,BD8 9PA,T,N,F,332,,Girlington Road,,Bradford
+2021-01-22,125000,BD8 8NQ,T,N,F,68,,Whetley Hill,,Bradford
+2021-01-22,83500,BD8 0RG,S,N,F,16,,Sandpiper Mews,,Bradford
+2021-01-19,114000,BD8 0LE,T,N,F,778,,Thornton Road,,Bradford
+2021-01-18,42500,BD8 7BE,F,N,L,7,Flat 3,Oak Mount,,Bradford
+2021-01-15,89000,BD8 8QP,T,N,F,35,,Springcliffe,,Bradford
+2021-01-14,66000,BD8 9SH,T,N,F,30,,Clement Street,,Bradford
+2021-01-12,90000,BD8 0DB,S,N,F,186,,Rhodesway,,Bradford
+2021-01-04,148000,BD8 0EJ,T,N,F,12,,Middlebrook Way,,Bradford

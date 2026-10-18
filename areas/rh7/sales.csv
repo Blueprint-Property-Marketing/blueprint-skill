@@ -1,0 +1,615 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-21,535000,RH7 6TA,S,N,F,32,,Lincolns Mead,,Lingfield
+2026-08-21,607000,RH7 6PY,D,N,F,26,,High Street,Dormansland,Lingfield
+2026-08-12,525000,RH7 6NT,S,N,F,135,,Hollow Lane,Dormansland,Lingfield
+2026-08-07,620000,RH7 6NQ,D,N,F,Broad Oak,,Blackberry Road,,Lingfield
+2026-08-03,600000,RH7 6DX,D,N,F,4,,Station Road,,Lingfield
+2026-07-24,450000,RH7 6EB,D,N,F,Railway Cottages,4,Station Road,,Lingfield
+2026-07-16,560000,RH7 6BW,S,N,F,52,,Godstone Road,,Lingfield
+2026-07-10,560500,RH7 6EZ,S,N,F,4,,Vicarage Road,,Lingfield
+2026-06-08,995000,RH7 6HR,D,N,F,Little Brook Cottage,,Bones Lane,Newchapel,Lingfield
+2026-06-04,590000,RH7 6EG,D,N,F,33,,Rushfords,,Lingfield
+2026-05-26,575000,RH7 6LR,S,N,F,St. Georges Cottages,3,Crowhurst Lane,Crowhurst,Lingfield
+2026-05-22,550000,RH7 6HQ,D,N,F,8,,Ash Close,,Lingfield
+2026-05-22,390000,RH7 6EJ,T,N,F,10,,Knights Mead,,Lingfield
+2026-05-22,410000,RH7 6DZ,T,N,F,53,,Station Road,,Lingfield
+2026-05-15,345000,RH7 6DT,T,N,F,6,,Grove Road,,Lingfield
+2026-05-13,400000,RH7 6QX,S,N,F,Heatherbell,,The Platt,Dormansland,Lingfield
+2026-05-12,317500,RH7 6BJ,T,N,F,Southview Cottages,4,Newchapel Road,,Lingfield
+2026-05-05,1638000,RH7 6GR,D,N,F,15,,Highfield Close,,Lingfield
+2026-05-01,400000,RH7 6PF,T,N,F,Glenside Courtyard,1,Racecourse Road,Dormansland,Lingfield
+2026-04-29,750000,RH7 6TA,D,N,F,18,,Lincolns Mead,,Lingfield
+2026-04-09,600000,RH7 6PS,D,N,F,12,,Plough Road,Dormansland,Lingfield
+2026-04-09,680000,RH7 6HF,D,N,F,2,,Bakers Close,,Lingfield
+2026-04-09,515000,RH7 6AW,D,N,F,21,,Locks Meadow,Dormansland,Lingfield
+2026-04-09,740000,RH7 6AG,S,N,F,8,,Town Hill,,Lingfield
+2026-04-02,575000,RH7 6BP,S,N,F,28,,Headland Way,,Lingfield
+2026-03-23,785000,RH7 6JD,D,N,F,7,,New Place Gardens,,Lingfield
+2026-03-23,180000,RH7 6GP,D,N,F,4 Fareviews,,West Park Road,Newchapel,Lingfield
+2026-03-11,437000,RH7 6RF,T,N,F,65,,New Farthingdale,Dormansland,Lingfield
+2026-03-09,350000,RH7 6EX,S,N,F,56,,Drivers Mead,,Lingfield
+2026-03-09,615000,RH7 6BH,S,N,F,9,,Mount Pleasant Road,,Lingfield
+2026-03-09,710000,RH7 6AH,D,N,F,The Barn,,Church Road,,Lingfield
+2026-03-09,915000,RH7 6AE,D,N,F,Rosebank,,Town Hill,,Lingfield
+2026-03-06,240000,RH7 6JY,T,N,F,17,,Featherstone,Blindley Heath,Lingfield
+2026-03-06,400000,RH7 6AS,T,N,F,22,,Old School Place,,Lingfield
+2026-02-25,355000,RH7 6DX,S,N,F,36,,Station Road,,Lingfield
+2026-02-20,880000,RH7 6EF,F,N,F,New Place Farm,Oast House,Station Road,,Lingfield
+2026-02-17,570000,RH7 6RQ,D,N,F,33,,Beacon Hill,Dormansland,Lingfield
+2026-02-17,510000,RH7 6PZ,S,N,F,2,,The Meades,Dormansland,Lingfield
+2026-02-16,650000,RH7 6PP,D,N,F,Glenside,,Racecourse Road,Dormansland,Lingfield
+2026-02-13,1085000,RH7 6ND,D,N,F,4,,Lane End,Dormansland,Lingfield
+2026-02-13,700000,RH7 6LU,D,N,F,Chellows Gate,,Chellows Lane,Crowhurst,Lingfield
+2026-02-12,875000,RH7 6TA,D,N,F,48,,Lincolns Mead,,Lingfield
+2026-02-12,805000,RH7 6LL,D,N,F,Heath Lodge,,Tandridge Lane,,Lingfield
+2026-01-30,380000,RH7 6NG,D,N,F,Weir Courtney,The Bungalow,Blackberry Lane,,Lingfield
+2026-01-30,545000,RH7 6DU,S,N,F,5,,Selbys,,Lingfield
+2026-01-29,345000,RH7 6QN,T,N,F,4,,Jeddere Cottages,Dormansland,Lingfield
+2026-01-22,600000,RH7 6RQ,D,N,F,31,,Beacon Hill,Dormansland,Lingfield
+2026-01-20,751000,RH7 6GQ,D,N,F,2,,Maplewood Drive,,Lingfield
+2026-01-06,515000,RH7 6JD,S,N,F,4,,New Place Gardens,,Lingfield
+2026-01-06,202500,RH7 6AU,F,N,L,The Old Cage,Flat 2,Plaistow Street,,Lingfield
+2025-12-18,663500,RH7 6HQ,D,N,F,25,,Ash Close,,Lingfield
+2025-12-12,780000,RH7 6RN,D,N,F,4,,Green Lane,,Lingfield
+2025-12-12,427500,RH7 6DZ,T,N,F,111A,,Station Road,,Lingfield
+2025-12-11,500000,RH7 6JT,D,N,F,26,,Langsmead,Blindley Heath,Lingfield
+2025-12-05,365000,RH7 6DZ,T,N,F,39,,Station Road,,Lingfield
+2025-12-04,475000,RH7 6QU,D,N,F,Cherry Cottage,,The Platt,Dormansland,Lingfield
+2025-12-04,400000,RH7 6JY,T,N,F,26,,Featherstone,Blindley Heath,Lingfield
+2025-12-02,345000,RH7 6TA,T,N,F,89,,Lincolns Mead,,Lingfield
+2025-11-28,135000,RH7 6GB,F,N,L,1,,Willow Drive,Crowhurst,Lingfield
+2025-11-27,335000,RH7 6PF,T,N,F,Glenside Courtyard,3,Racecourse Road,Dormansland,Lingfield
+2025-11-26,620000,RH7 6JT,D,N,F,2,,Langsmead,Blindley Heath,Lingfield
+2025-11-21,800000,RH7 6BH,D,N,F,30,,Mount Pleasant Road,,Lingfield
+2025-11-17,860000,RH7 6HH,D,N,F,14,,Wembury Park,Newchapel,Lingfield
+2025-11-10,575200,RH7 6GT,S,N,F,2,,Hayward Mews,,Lingfield
+2025-11-06,525000,RH7 6JX,D,N,F,Marle Cottage,,Eastbourne Road,Blindley Heath,Lingfield
+2025-11-06,748750,RH7 6GQ,D,N,F,3,,Maplewood Drive,,Lingfield
+2025-11-06,407500,RH7 6EX,S,N,F,69,,Drivers Mead,,Lingfield
+2025-10-31,355000,RH7 6BX,T,N,F,22,,Lingfield Common Road,,Lingfield
+2025-10-30,450000,RH7 6DU,S,N,F,15,,Selbys,,Lingfield
+2025-10-28,415000,RH7 6DW,S,N,F,9,,Haywardens,,Lingfield
+2025-10-24,400000,RH7 6QL,S,N,F,1,,Swallowfield,Dormansland,Lingfield
+2025-10-24,360000,RH7 6DX,S,N,F,46,,Station Road,,Lingfield
+2025-10-23,390000,RH7 6AD,T,N,F,3,,Talbot Road,,Lingfield
+2025-10-22,505000,RH7 6JU,S,N,F,15,,St Johns Meadow,Blindley Heath,Lingfield
+2025-10-07,350000,RH7 6EL,S,N,F,4,,High Street,,Lingfield
+2025-09-25,1100000,RH7 6LL,D,N,F,Oldencraig,,Tandridge Lane,,Lingfield
+2025-09-23,700000,RH7 6QU,D,N,F,Weald Croft,,The Platt,Dormansland,Lingfield
+2025-09-12,770000,RH7 6LB,D,N,F,3,,Paddock Close,,Lingfield
+2025-09-10,420000,RH7 6HD,S,N,F,24,,Bakers Lane,,Lingfield
+2025-09-03,547000,RH7 6AW,D,N,F,45,,Locks Meadow,Dormansland,Lingfield
+2025-09-01,445000,RH7 6PU,T,N,F,67,,High Street,Dormansland,Lingfield
+2025-08-29,1330000,RH7 6NN,D,N,F,Charlocks,,High Street,Dormansland,Lingfield
+2025-08-28,475000,RH7 6QS,D,N,F,72,,West Street,Dormansland,Lingfield
+2025-08-28,725000,RH7 6QP,D,N,F,31,,West Street,Dormansland,Lingfield
+2025-08-28,510000,RH7 6GL,S,N,F,26,,Little Stanford Close,,Lingfield
+2025-08-28,650000,RH7 6EG,D,N,F,19,,Rushfords,,Lingfield
+2025-08-28,542500,RH7 6BL,D,N,F,Silverdale,,Newchapel Road,,Lingfield
+2025-08-26,740000,RH7 6PR,D,N,F,1,,Clayford,Dormansland,Lingfield
+2025-08-22,787500,RH7 6LU,S,N,F,Chellows Farm Cottages,1,Chellows Lane,Crowhurst,Lingfield
+2025-08-22,592000,RH7 6HY,S,N,F,Oaks Cottage,,Brickhouse Lane,Newchapel,Lingfield
+2025-08-22,372500,RH7 6BX,T,N,F,4,,Lingfield Common Road,,Lingfield
+2025-08-21,700000,RH7 6PR,D,N,F,7,,Clayford,Dormansland,Lingfield
+2025-08-21,740000,RH7 6PR,D,N,F,6,,Clayford,Dormansland,Lingfield
+2025-08-20,440000,RH7 6PY,T,N,F,"Mulberry Mews, 68",3,High Street,Dormansland,Lingfield
+2025-08-15,1172165,RH7 6BT,D,N,F,"Rome Farm Barn, 104",,Godstone Road,,Lingfield
+2025-08-12,595000,RH7 6QH,S,N,F,1,,Dormans Road,Dormansland,Lingfield
+2025-08-06,1100000,RH7 6TA,D,N,F,74,,Lincolns Mead,,Lingfield
+2025-08-06,650000,RH7 6BJ,S,N,F,2,,Oak Cottages,,Lingfield
+2025-07-31,410000,RH7 6DS,T,N,F,15,,Little Lullenden,,Lingfield
+2025-07-28,1275000,RH7 6RA,D,N,F,Colburn House,,The Platt,Dormansland,Lingfield
+2025-07-28,475000,RH7 6NZ,T,N,F,3,,Ralph Cottages,Dormansland,Lingfield
+2025-07-18,350000,RH7 6DX,S,N,F,18,,Station Road,,Lingfield
+2025-07-11,400000,RH7 6RF,S,N,F,103,,New Farthingdale,Dormansland,Lingfield
+2025-07-10,210000,RH7 6AA,F,N,L,39,,High Street,,Lingfield
+2025-07-09,473000,RH7 6TA,D,N,F,6,,Lincolns Mead,,Lingfield
+2025-07-02,420000,RH7 6DR,T,N,F,70,,Saxbys Lane,,Lingfield
+2025-06-30,570000,RH7 6DX,D,N,F,10,,Station Road,,Lingfield
+2025-06-25,707500,RH7 6HG,D,N,F,Chatfield,,College Close,,Lingfield
+2025-06-20,470000,RH7 6RL,D,N,F,1,,Dormans Close,Dormansland,Lingfield
+2025-06-12,468000,RH7 6JE,D,N,F,2,,Beech Close,Blindley Heath,Lingfield
+2025-06-12,645000,RH7 6EW,D,N,F,9,,Vicarage Close,,Lingfield
+2025-05-27,425000,RH7 6HD,S,N,F,14,,Bakers Lane,,Lingfield
+2025-05-22,340000,RH7 6BF,T,N,F,10,,Jenny Lane,,Lingfield
+2025-04-28,459400,RH7 6TA,S,N,F,75,,Lincolns Mead,,Lingfield
+2025-04-28,321000,RH7 6AT,F,N,L,1,,Edenbrook Place,Blindley Heath,Lingfield
+2025-04-17,450000,RH7 6JY,T,N,F,45,,Featherstone,Blindley Heath,Lingfield
+2025-04-17,440000,RH7 6DS,T,N,F,8,,Little Lullenden,,Lingfield
+2025-04-11,244500,RH7 6DZ,F,N,L,65,,Station Road,,Lingfield
+2025-03-31,220000,RH7 6JZ,F,N,L,"Heath Court, 53",Flat 2,Featherstone,Blindley Heath,Lingfield
+2025-03-26,377500,RH7 6EX,T,N,F,67,,Drivers Mead,,Lingfield
+2025-03-26,1080000,RH7 6AF,D,N,F,Southover House,,Camden Road,,Lingfield
+2025-03-21,400000,RH7 6RF,S,N,F,59,,New Farthingdale,Dormansland,Lingfield
+2025-03-21,410000,RH7 6AA,T,N,F,5,,Majors Mews,,Lingfield
+2025-03-18,430000,RH7 6EU,T,N,F,36,,Drivers Mead,,Lingfield
+2025-03-17,575000,RH7 6RH,D,N,F,44,,Beacon Hill,Dormansland,Lingfield
+2025-03-11,900000,RH7 6AN,D,N,F,Little Meadow,,Perry Wood Park,Newchapel,Lingfield
+2025-03-03,355000,RH7 6TA,S,N,F,49,,Lincolns Mead,,Lingfield
+2025-03-03,730000,RH7 6LY,S,N,F,Garden Cottages,2,Crowhurst Road,Crowhurst,Lingfield
+2025-03-03,515000,RH7 6DG,D,N,F,Brinkhoff,,Crowhurst Road,Crowhurst,Lingfield
+2025-02-28,515000,RH7 6JL,S,N,F,The Granary,1,Eastbourne Road,Blindley Heath,Lingfield
+2025-02-20,750000,RH7 6EF,D,N,F,New Place Farm,West Side,Station Road,,Lingfield
+2025-02-20,508000,RH7 6AA,T,N,F,1,,Majors Mews,,Lingfield
+2025-02-17,595000,RH7 6QU,D,N,F,April Cottage,,The Platt,Dormansland,Lingfield
+2025-02-10,455000,RH7 6NT,S,N,F,121,,Hollow Lane,Dormansland,Lingfield
+2025-02-03,370000,RH7 6DX,S,N,F,60,,Station Road,,Lingfield
+2025-01-31,600000,RH7 6QP,D,N,F,41,,West Street,Dormansland,Lingfield
+2025-01-31,495000,RH7 6EZ,S,N,F,23,,Vicarage Road,,Lingfield
+2025-01-29,460000,RH7 6LW,T,N,F,Gays Cottages,7,Tandridge Lane,,Lingfield
+2025-01-17,748000,RH7 6BG,D,N,F,Arch Trees,,Newchapel Road,,Lingfield
+2025-01-13,680000,RH7 6JB,D,N,F,Meadow View,,Hare Lane,,Lingfield
+2025-01-10,465000,RH7 6AW,D,N,F,14,,Locks Meadow,Dormansland,Lingfield
+2025-01-10,130000,RH7 6AQ,F,N,L,17,,St Christophers,,Lingfield
+2025-01-07,571000,RH7 6EG,D,N,F,41,,Rushfords,,Lingfield
+2025-01-06,470000,RH7 6BH,S,N,F,2,,Mount Pleasant Road,,Lingfield
+2024-12-19,421000,RH7 6PZ,S,N,F,3,,The Meades,Dormansland,Lingfield
+2024-12-18,370000,RH7 6HE,S,N,F,9,,Bakers Lane,,Lingfield
+2024-12-13,387500,RH7 6TA,T,N,F,83,,Lincolns Mead,,Lingfield
+2024-12-13,477500,RH7 6QS,S,N,F,86,,West Street,Dormansland,Lingfield
+2024-12-12,650000,RH7 6HQ,D,N,F,27,,Ash Close,,Lingfield
+2024-12-11,588200,RH7 6DE,T,N,F,Barrow Green Farm Cottages,1,Haxted Road,,Lingfield
+2024-12-09,466000,RH7 6JE,D,N,F,3,,Beech Close,Blindley Heath,Lingfield
+2024-12-09,835000,RH7 6HL,D,N,F,Golards,,Eastbourne Road,Newchapel,Lingfield
+2024-12-06,170000,RH7 6GB,F,N,L,2,,Willow Drive,Crowhurst,Lingfield
+2024-12-03,200000,RH7 6DY,F,N,L,Signal Court,6,Station Road,,Lingfield
+2024-11-25,600000,RH7 6HD,D,N,F,8,,Bakers Lane,,Lingfield
+2024-11-21,395000,RH7 6RL,D,N,F,6,,Dormans Close,Dormansland,Lingfield
+2024-11-21,154000,RH7 6EP,F,N,L,2G,,East Grinstead Road,,Lingfield
+2024-11-20,431500,RH7 6PU,S,N,F,49,,High Street,Dormansland,Lingfield
+2024-11-15,450000,RH7 6RL,D,N,F,19,,Dormans Close,Dormansland,Lingfield
+2024-11-15,600000,RH7 6JT,D,N,F,19,,Langsmead,Blindley Heath,Lingfield
+2024-11-15,955000,RH7 6HA,D,N,F,Southcroft,,Vicarage Road,,Lingfield
+2024-11-15,290000,RH7 6BH,F,N,L,"Garth Court, 20",Flat 4,Mount Pleasant Road,,Lingfield
+2024-11-13,745000,RH7 6BP,D,N,F,2,,Headland Way,,Lingfield
+2024-11-11,530000,RH7 6BT,D,N,F,"Rome Farm Cottage, 106",,Godstone Road,,Lingfield
+2024-11-01,567500,RH7 6HE,D,N,F,1A,,Bakers Lane,,Lingfield
+2024-10-30,130000,RH7 6AQ,F,N,L,14,,St Christophers,,Lingfield
+2024-10-28,416000,RH7 6QN,S,N,F,8,,Jeddere Cottages,Dormansland,Lingfield
+2024-10-28,450000,RH7 6BH,S,N,F,6,,Mount Pleasant Road,,Lingfield
+2024-10-23,263500,RH7 6AA,F,N,L,57,,High Street,,Lingfield
+2024-10-18,475000,RH7 6QS,S,N,F,60,,West Street,Dormansland,Lingfield
+2024-10-18,400000,RH7 6QS,F,N,F,44,,West Street,Dormansland,Lingfield
+2024-10-14,472000,RH7 6RJ,S,N,F,30,,New Farthingdale,Dormansland,Lingfield
+2024-10-09,267000,RH7 6DZ,F,N,L,91,,Station Road,,Lingfield
+2024-10-02,750000,RH7 6AH,D,N,F,Hedgerows,,Church Road,,Lingfield
+2024-09-30,610000,RH7 6EG,D,N,F,31,,Rushfords,,Lingfield
+2024-09-27,385000,RH7 6GL,S,N,F,11,,Little Stanford Close,,Lingfield
+2024-09-25,540000,RH7 6AT,T,N,F,7,,Edenbrook Place,Blindley Heath,Lingfield
+2024-09-18,650000,RH7 6LE,D,N,F,The Meadows,,Newchapel Road,,Lingfield
+2024-09-11,526000,RH7 6HD,S,N,F,38,,Bakers Lane,,Lingfield
+2024-09-09,520000,RH7 6JT,D,N,F,14,,Langsmead,Blindley Heath,Lingfield
+2024-09-09,1090000,RH7 6BT,D,N,F,Southcot,,Godstone Road,,Lingfield
+2024-09-06,1090000,RH7 6GQ,D,N,F,5,,Maplewood Drive,,Lingfield
+2024-09-04,330000,RH7 6BD,T,N,F,3,,Ormuz Cottages,,Lingfield
+2024-09-03,522500,RH7 6EZ,S,N,F,5,,Vicarage Road,,Lingfield
+2024-09-03,757500,RH7 6AF,S,N,F,Allandale,,Camden Road,,Lingfield
+2024-09-02,590000,RH7 6AL,D,N,F,Spindrift,,Plaistow Street,,Lingfield
+2024-08-30,1050000,RH7 6NP,D,N,F,Beacon Beech House,,Mutton Hill,Dormansland,Lingfield
+2024-08-30,988500,RH7 6GU,D,Y,F,13,,Oldencraig Mews,,Lingfield
+2024-08-23,1175000,RH7 6GU,D,Y,F,15,,Oldencraig Mews,,Lingfield
+2024-08-21,360000,RH7 6EU,S,N,F,34,,Drivers Mead,,Lingfield
+2024-08-20,430000,RH7 6BW,S,N,F,12,,Godstone Road,,Lingfield
+2024-08-16,485000,RH7 6QP,S,N,F,15,,West Street,Dormansland,Lingfield
+2024-08-16,455000,RH7 6PP,S,N,F,Claridges Mead,3,Racecourse Road,Dormansland,Lingfield
+2024-08-12,480000,RH7 6PP,D,N,F,Claridges Mead,2,Racecourse Road,Dormansland,Lingfield
+2024-08-09,350500,RH7 6DX,S,N,F,56,,Station Road,,Lingfield
+2024-08-05,532000,RH7 6BH,D,N,F,25,,Mount Pleasant Road,,Lingfield
+2024-07-31,565000,RH7 6DX,D,N,F,78,,Station Road,,Lingfield
+2024-07-29,525000,RH7 6RN,D,N,F,"Huntingdon, 2",,Green Lane,,Lingfield
+2024-07-26,980125,RH7 6JX,D,N,F,Hillside,,Eastbourne Road,Blindley Heath,Lingfield
+2024-07-18,935000,RH7 6AN,D,N,F,Pembroke House,,Perry Wood Park,Newchapel,Lingfield
+2024-07-12,585000,RH7 6EG,D,N,F,20,,Rushfords,,Lingfield
+2024-07-10,982000,RH7 6NZ,D,N,F,Morven Court,,Ford Manor Road,Dormansland,Lingfield
+2024-06-10,1025000,RH7 6GU,D,Y,F,10,,Oldencraig Mews,,Lingfield
+2024-06-07,485000,RH7 6GT,T,N,F,9,,Hayward Mews,,Lingfield
+2024-06-07,775000,RH7 6DF,S,N,F,Hollies,,Bowerland Lane,,Lingfield
+2024-05-31,570000,RH7 6RQ,S,N,F,5,,Beacon Hill,Dormansland,Lingfield
+2024-05-31,304500,RH7 6GU,F,N,L,22,,Oldencraig Mews,,Lingfield
+2024-05-31,285000,RH7 6BS,F,N,L,"Hetherington Court, 35",Apartment 6,Mount Pleasant Road,,Lingfield
+2024-05-30,415000,RH7 6RL,D,N,F,17,,Dormans Close,Dormansland,Lingfield
+2024-05-29,375000,RH7 6DJ,T,N,F,7,,Gray Close,,Lingfield
+2024-05-24,425000,RH7 6QS,T,N,F,78,,West Street,Dormansland,Lingfield
+2024-05-24,925000,RH7 6BZ,D,N,F,Willow Tree House,,Lingfield Common Road,,Lingfield
+2024-05-24,400000,RH7 6BF,T,N,F,8,,Jenny Lane,,Lingfield
+2024-05-17,850000,RH7 6BJ,D,N,F,Elysium,,Newchapel Road,,Lingfield
+2024-05-10,327000,RH7 6RF,S,N,F,93,,New Farthingdale,Dormansland,Lingfield
+2024-05-03,346240,RH7 6TA,T,N,F,87,,Lincolns Mead,,Lingfield
+2024-04-25,370000,RH7 6TA,T,N,F,47,,Lincolns Mead,,Lingfield
+2024-04-25,470000,RH7 6PZ,S,N,F,28,,The Meades,Dormansland,Lingfield
+2024-04-23,255000,RH7 6DZ,F,N,L,93,,Station Road,,Lingfield
+2024-04-19,405000,RH7 6RL,D,N,F,18,,Dormans Close,Dormansland,Lingfield
+2024-04-18,665000,RH7 6PS,D,N,F,38,,Plough Road,Dormansland,Lingfield
+2024-04-15,1300000,RH7 6GU,D,Y,F,4,,Oldencraig Mews,,Lingfield
+2024-04-12,550000,RH7 6NG,D,N,F,Coombe Dingle,,Blackberry Lane,,Lingfield
+2024-04-11,660000,RH7 6GW,T,N,F,3,,Stable Mews,Crowhurst,Lingfield
+2024-04-10,375000,RH7 6QX,T,N,F,11,,View Terrace,Dormansland,Lingfield
+2024-04-04,635000,RH7 6LQ,S,N,F,Elmshade Cottages,2,Eastbourne Road,Blindley Heath,Lingfield
+2024-04-03,950000,RH7 6GU,D,Y,F,23,,Oldencraig Mews,,Lingfield
+2024-03-28,435000,RH7 6JU,S,N,F,6,,St Johns Meadow,Blindley Heath,Lingfield
+2024-03-28,300000,RH7 6JS,T,N,F,2,,Blindley Court,Blindley Heath,Lingfield
+2024-03-28,430000,RH7 6DX,S,N,F,54,,Station Road,,Lingfield
+2024-03-26,630000,RH7 6PR,D,N,F,8,,Clayford,Dormansland,Lingfield
+2024-03-22,500000,RH7 6AW,D,N,F,8,,Locks Meadow,Dormansland,Lingfield
+2024-03-21,655000,RH7 6PZ,D,N,F,13,,The Meades,Dormansland,Lingfield
+2024-03-15,675000,RH7 6DG,D,N,F,The Mount,,Crowhurst Road,Crowhurst,Lingfield
+2024-03-14,704500,RH7 6HQ,D,N,F,17,,Ash Close,,Lingfield
+2024-03-13,1375000,RH7 6LX,D,N,F,Poets Corner,,Pikes Lane,Crowhurst,Lingfield
+2024-03-07,393500,RH7 6DZ,T,N,F,25,,Station Road,,Lingfield
+2024-03-01,325000,RH7 6BX,T,N,F,2,,Lingfield Common Road,,Lingfield
+2024-02-27,675000,RH7 6GW,D,N,F,1,,Stable Mews,Crowhurst,Lingfield
+2024-02-16,625000,RH7 6AT,T,N,F,11,,Edenbrook Place,Blindley Heath,Lingfield
+2024-02-15,390000,RH7 6QS,D,N,F,56,,West Street,Dormansland,Lingfield
+2024-02-15,325000,RH7 6LH,S,N,F,3,,Gibbs Mews,Blindley Heath,Lingfield
+2024-02-08,625000,RH7 6HF,D,N,F,2,,Bakers Close,,Lingfield
+2024-01-30,1400000,RH7 6GH,D,N,F,10,,Nursery Gardens,,Lingfield
+2024-01-30,450000,RH7 6EX,S,N,F,52,,Drivers Mead,,Lingfield
+2024-01-25,540000,RH7 6BW,S,N,F,48,,Godstone Road,,Lingfield
+2024-01-19,425000,RH7 6RL,S,N,F,20,,Dormans Close,Dormansland,Lingfield
+2024-01-19,490000,RH7 6EG,D,N,F,35,,Rushfords,,Lingfield
+2024-01-19,960000,RH7 6AE,D,N,F,Meredith House,,Town Hill,,Lingfield
+2024-01-15,830000,RH7 6DG,D,N,F,Red Roofs,,Crowhurst Road,Crowhurst,Lingfield
+2024-01-10,200000,RH7 6DD,S,N,F,The Chestnuts,The Granary,Haxted Road,,Lingfield
+2024-01-03,1450000,RH7 6GU,D,Y,F,5,,Oldencraig Mews,,Lingfield
+2024-01-02,1825000,RH7 6GU,D,Y,F,8,,Oldencraig Mews,,Lingfield
+2023-12-14,805000,RH7 6JD,D,N,F,14,,New Place Gardens,,Lingfield
+2023-12-12,500000,RH7 6QW,S,N,F,26,,West Street,Dormansland,Lingfield
+2023-12-07,700000,RH7 6DL,D,N,F,5,,Saxbys Lane,,Lingfield
+2023-12-01,800000,RH7 6GU,S,Y,F,18,,Oldencraig Mews,,Lingfield
+2023-12-01,180000,RH7 6DZ,F,N,L,65A,,Station Road,,Lingfield
+2023-12-01,360000,RH7 6BG,S,N,F,Argyle Cottages,2,Newchapel Road,,Lingfield
+2023-11-30,695000,RH7 6RQ,D,N,F,37,,Beacon Hill,Dormansland,Lingfield
+2023-11-30,870000,RH7 6GU,D,Y,F,11,,Oldencraig Mews,,Lingfield
+2023-11-30,310000,RH7 6AT,F,N,L,"The Mews, 3",,Edenbrook Place,Blindley Heath,Lingfield
+2023-11-28,650000,RH7 6QP,D,N,F,27,,West Street,Dormansland,Lingfield
+2023-11-17,870000,RH7 6GU,D,Y,F,12,,Oldencraig Mews,,Lingfield
+2023-11-17,265000,RH7 6DY,F,N,L,Signal Court,9,Station Road,,Lingfield
+2023-11-14,680000,RH7 6TA,D,N,F,2,,Lincolns Mead,,Lingfield
+2023-11-13,228000,RH7 6JW,F,N,L,53,,Cottenhams,Blindley Heath,Lingfield
+2023-11-10,875000,RH7 6JU,D,N,F,"The Old Vicarage, 29",,St Johns Meadow,Blindley Heath,Lingfield
+2023-11-10,1100000,RH7 6GU,D,Y,F,14,,Oldencraig Mews,,Lingfield
+2023-11-09,935000,RH7 6DA,D,N,F,Little Rushford,,Crowhurst Road,,Lingfield
+2023-11-08,219750,RH7 6QX,T,N,F,7,,View Terrace,Dormansland,Lingfield
+2023-11-06,393750,RH7 6GU,T,Y,F,21,,Oldencraig Mews,,Lingfield
+2023-11-06,356250,RH7 6GU,T,Y,F,20,,Oldencraig Mews,,Lingfield
+2023-11-06,405000,RH7 6GU,T,Y,F,19,,Oldencraig Mews,,Lingfield
+2023-11-03,1300000,RH7 6GU,D,Y,F,2,,Oldencraig Mews,,Lingfield
+2023-11-02,544269,RH7 6JT,D,N,F,5,,Langsmead,Blindley Heath,Lingfield
+2023-11-02,1325000,RH7 6GU,D,Y,F,1,,Oldencraig Mews,,Lingfield
+2023-11-01,450000,RH7 6QP,D,N,F,61,,West Street,Dormansland,Lingfield
+2023-10-31,240000,RH7 6HD,F,N,L,68,,Bakers Lane,,Lingfield
+2023-10-30,735000,RH7 6GU,S,Y,F,17,,Oldencraig Mews,,Lingfield
+2023-10-30,1050000,RH7 6GU,D,Y,F,16,,Oldencraig Mews,,Lingfield
+2023-10-26,430000,RH7 6PY,S,N,F,42,,High Street,Dormansland,Lingfield
+2023-10-26,517500,RH7 6AA,T,N,F,3,,Majors Mews,,Lingfield
+2023-10-23,372000,RH7 6DR,T,N,F,100,,Saxbys Lane,,Lingfield
+2023-10-18,412000,RH7 6DU,S,N,F,15,,Selbys,,Lingfield
+2023-10-05,270000,RH7 6DL,F,N,L,29A,,Saxbys Lane,,Lingfield
+2023-09-29,300000,RH7 6QY,S,N,F,South View,4,The Platt,Dormansland,Lingfield
+2023-09-27,680000,RH7 6BZ,D,N,F,37,,Lingfield Common Road,,Lingfield
+2023-09-27,526500,RH7 6BH,D,N,F,27,,Mount Pleasant Road,,Lingfield
+2023-09-21,625000,RH7 6QB,D,N,F,"Kesaloca, 3",,Ladbroke Hurst,Dormansland,Lingfield
+2023-09-19,590000,RH7 6BJ,T,N,F,Southview Cottages,6,Newchapel Road,,Lingfield
+2023-09-08,380000,RH7 6RJ,T,N,F,10,,New Farthingdale,Dormansland,Lingfield
+2023-08-31,1575000,RH7 6GD,D,N,F,3,,Eliot Place,Crowhurst,Lingfield
+2023-08-30,560000,RH7 6RH,S,N,F,24,,Beacon Hill,Dormansland,Lingfield
+2023-08-22,480000,RH7 6JL,S,N,F,The Granary,1,Eastbourne Road,Blindley Heath,Lingfield
+2023-08-21,460000,RH7 6HD,S,N,F,16,,Bakers Lane,,Lingfield
+2023-08-18,500000,RH7 6AD,T,N,F,4,,Talbot Road,,Lingfield
+2023-08-11,390000,RH7 6BW,T,N,F,29,,Godstone Road,,Lingfield
+2023-08-09,725000,RH7 6DG,D,N,F,Ardenrun Cottage,,Crowhurst Road,Crowhurst,Lingfield
+2023-07-28,330000,RH7 6RF,S,N,F,95,,New Farthingdale,Dormansland,Lingfield
+2023-07-20,640000,RH7 6EB,S,N,F,Railway Cottages,2,Station Road,,Lingfield
+2023-07-14,400000,RH7 6EU,S,N,F,27,,Drivers Mead,,Lingfield
+2023-07-05,490000,RH7 6JT,S,N,F,9,,Langsmead,Blindley Heath,Lingfield
+2023-06-30,500000,RH7 6LE,S,N,F,Springfields,,Newchapel Road,,Lingfield
+2023-06-28,582500,RH7 6GL,T,N,F,20,,Little Stanford Close,,Lingfield
+2023-06-27,650000,RH7 6DZ,D,N,F,107,,Station Road,,Lingfield
+2023-06-23,550000,RH7 6DN,S,N,F,8,,Saxbys Lane,,Lingfield
+2023-06-23,425000,RH7 6AJ,S,N,F,1,,The Twitten,,Lingfield
+2023-06-22,231000,RH7 6JW,F,N,L,14,,Cottenhams,Blindley Heath,Lingfield
+2023-06-08,965000,RH7 6JB,D,N,F,Harecroft,,Hare Lane,,Lingfield
+2023-06-08,995000,RH7 6GD,D,N,F,2,,Eliot Place,Crowhurst,Lingfield
+2023-05-31,850000,RH7 6RQ,D,N,F,1A,,Beacon Hill,Dormansland,Lingfield
+2023-05-30,580000,RH7 6HJ,D,N,F,Pool Cottage,,Wire Mill Lane,Newchapel,Lingfield
+2023-05-30,340000,RH7 6EU,S,N,F,37,,Drivers Mead,,Lingfield
+2023-05-26,185000,RH7 6SA,F,N,L,3,,Deacon Court,,Lingfield
+2023-05-24,476500,RH7 6LR,S,N,F,St. Georges Cottages,1,Crowhurst Lane,Crowhurst,Lingfield
+2023-05-24,520000,RH7 6DA,S,N,F,Frinchester,,Crowhurst Road,,Lingfield
+2023-05-23,485000,RH7 6RQ,S,N,F,19,,Beacon Hill,Dormansland,Lingfield
+2023-05-23,395000,RH7 6QU,S,N,F,Rose Cottages,1,The Platt,Dormansland,Lingfield
+2023-05-12,425000,RH7 6JQ,T,N,F,5,,Stanfords Place,,Lingfield
+2023-05-10,750000,RH7 6AH,D,N,F,Greatham,,Church Road,,Lingfield
+2023-04-21,345000,RH7 6QD,S,N,F,3,,Clinton Hill,Dormansland,Lingfield
+2023-04-12,490000,RH7 6QX,D,N,F,Hareshaw,,The Platt,Dormansland,Lingfield
+2023-04-05,490000,RH7 6PY,S,N,F,"Mulberry Mews, 68",8,High Street,Dormansland,Lingfield
+2023-04-04,1250000,RH7 6NG,D,N,F,Aspen House,,Blackberry Lane,,Lingfield
+2023-03-31,387000,RH7 6RF,S,N,F,63,,New Farthingdale,Dormansland,Lingfield
+2023-03-31,562500,RH7 6DZ,S,N,F,119,,Station Road,,Lingfield
+2023-03-24,391000,RH7 6DU,S,N,F,33,,Selbys,,Lingfield
+2023-03-24,370000,RH7 6DD,F,N,L,Hazelcroft,,Haxted Road,,Lingfield
+2023-03-23,440000,RH7 6HF,D,N,F,10,,Bakers Close,,Lingfield
+2023-03-16,417500,RH7 6DR,T,N,F,98,,Saxbys Lane,,Lingfield
+2023-03-16,720000,RH7 6AG,S,N,F,4,,Town Hill,,Lingfield
+2023-03-09,225000,RH7 6EP,F,N,L,2E,,East Grinstead Road,,Lingfield
+2023-03-03,462500,RH7 6GL,S,N,F,26,,Little Stanford Close,,Lingfield
+2023-03-03,505000,RH7 6BH,D,N,F,28,,Mount Pleasant Road,,Lingfield
+2023-02-20,120000,RH7 6AQ,F,N,L,12,,St Christophers,,Lingfield
+2023-02-14,465000,RH7 6QS,S,N,F,74,,West Street,Dormansland,Lingfield
+2023-02-14,675000,RH7 6QP,S,N,F,45,,West Street,Dormansland,Lingfield
+2023-02-10,200000,RH7 6TA,F,N,L,27,,Lincolns Mead,,Lingfield
+2023-02-10,499950,RH7 6PQ,T,N,F,Stanhope Cottages,9,Racecourse Road,,Lingfield
+2023-02-10,340000,RH7 6AT,F,N,L,5,,Edenbrook Place,Blindley Heath,Lingfield
+2023-02-03,460000,RH7 6DX,S,N,F,32,,Station Road,,Lingfield
+2023-02-02,930000,RH7 6LF,D,N,F,Lowlands Farm,,Eastbourne Road,Newchapel,Lingfield
+2023-01-25,700000,RH7 6NQ,D,N,F,Silver Birches,,Blackberry Road,,Lingfield
+2023-01-24,867500,RH7 6GD,D,N,F,9,,Eliot Place,Crowhurst,Lingfield
+2023-01-16,610000,RH7 6QP,D,N,F,73,,West Street,Dormansland,Lingfield
+2023-01-12,600000,RH7 6HQ,D,N,F,11,,Ash Close,,Lingfield
+2023-01-12,536000,RH7 6ED,S,N,F,108,,Station Road,,Lingfield
+2023-01-12,825000,RH7 6AH,D,N,F,Conifers,,Church Road,,Lingfield
+2023-01-09,300000,RH7 6DL,F,N,L,29,,Saxbys Lane,,Lingfield
+2023-01-05,190000,RH7 6JW,F,N,L,41,,Cottenhams,Blindley Heath,Lingfield
+2022-12-22,265000,RH7 6DL,F,N,L,27,,Saxbys Lane,,Lingfield
+2022-12-21,510000,RH7 6TA,S,N,F,14,,Lincolns Mead,,Lingfield
+2022-12-21,750000,RH7 6AG,D,N,F,Hirundine,,Town Hill,,Lingfield
+2022-12-20,725000,RH7 6PY,D,N,F,24,,High Street,Dormansland,Lingfield
+2022-12-19,375000,RH7 6BX,T,N,F,40,,Lingfield Common Road,,Lingfield
+2022-12-16,508500,RH7 6RQ,D,N,F,39,,Beacon Hill,Dormansland,Lingfield
+2022-12-16,1100000,RH7 6NG,D,N,F,Hornbeam House,,Blackberry Lane,,Lingfield
+2022-12-16,540000,RH7 6BL,S,N,F,1,,Yew Tree Cottages,,Lingfield
+2022-12-08,900000,RH7 6NP,D,N,F,Orchard Cottage,,Mutton Hill,Dormansland,Lingfield
+2022-12-02,539000,RH7 6EZ,S,N,F,13,,Vicarage Road,,Lingfield
+2022-12-01,750000,RH7 6DG,D,N,F,Thurso,,Crowhurst Road,Crowhurst,Lingfield
+2022-11-28,495500,RH7 6TA,T,N,F,85,,Lincolns Mead,,Lingfield
+2022-11-25,345000,RH7 6RJ,S,N,F,24,,New Farthingdale,Dormansland,Lingfield
+2022-11-25,335000,RH7 6RG,S,N,F,72,,New Farthingdale,Dormansland,Lingfield
+2022-11-25,475000,RH7 6DJ,S,N,F,10,,Gray Close,,Lingfield
+2022-11-24,1250000,RH7 6NG,D,N,F,Blackthorne House,,Blackberry Lane,,Lingfield
+2022-11-23,650000,RH7 6PR,D,N,F,7,,Clayford,Dormansland,Lingfield
+2022-11-18,870000,RH7 6JT,D,N,F,6,,Langsmead,Blindley Heath,Lingfield
+2022-11-11,805000,RH7 6GF,S,N,F,11,,Tannery Gardens,,Lingfield
+2022-11-10,630000,RH7 6AT,S,N,F,12,,Edenbrook Place,Blindley Heath,Lingfield
+2022-11-09,195000,RH7 6JZ,F,N,L,"Heath Court, 53",Flat 4,Featherstone,Blindley Heath,Lingfield
+2022-11-04,414000,RH7 6QP,S,N,F,7,,West Street,Dormansland,Lingfield
+2022-11-04,360000,RH7 6BF,T,N,F,11,,Jenny Lane,,Lingfield
+2022-11-04,385000,RH7 6AH,T,N,F,Star Cottages,1,Church Road,,Lingfield
+2022-11-03,1375000,RH7 6NP,D,N,F,Wayside Cottage,,Mutton Hill,Dormansland,Lingfield
+2022-10-28,500000,RH7 6QS,T,N,F,88,,West Street,Dormansland,Lingfield
+2022-10-19,525000,RH7 6JN,S,N,F,Maythorne,1,Eastbourne Road,Blindley Heath,Lingfield
+2022-10-12,335000,RH7 6RL,D,N,F,8,,Dormans Close,Dormansland,Lingfield
+2022-10-12,585000,RH7 6EG,D,N,F,8,,Rushfords,,Lingfield
+2022-10-12,300000,RH7 6AG,F,N,L,Fair Oaks,Ground Floor Flat,Town Hill,,Lingfield
+2022-10-07,930000,RH7 6GX,S,N,F,Green Acres,,West Park Road,Newchapel,Lingfield
+2022-10-07,285000,RH7 6DZ,F,N,L,83,,Station Road,,Lingfield
+2022-09-30,850000,RH7 6LB,D,N,F,2,,Paddock Close,,Lingfield
+2022-09-29,725000,RH7 6LL,S,N,F,Poplar Villa,,Tandridge Lane,,Lingfield
+2022-09-28,722000,RH7 6LG,D,N,F,Martyns Plat,,Eastbourne Road,Blindley Heath,Lingfield
+2022-09-27,985000,RH7 6PU,S,N,F,33,,High Street,Dormansland,Lingfield
+2022-09-23,385000,RH7 6PU,S,N,F,47,,High Street,Dormansland,Lingfield
+2022-09-23,135000,RH7 6AQ,F,N,L,16,,St Christophers,,Lingfield
+2022-09-22,1032500,RH7 6DL,D,N,F,3,,Saxbys Lane,,Lingfield
+2022-09-20,782500,RH7 6TA,D,N,F,26,,Lincolns Mead,,Lingfield
+2022-09-15,400000,RH7 6LW,S,N,F,Gays Cottages,6,Tandridge Lane,,Lingfield
+2022-09-02,765000,RH7 6TA,D,N,F,60,,Lincolns Mead,,Lingfield
+2022-09-02,1250000,RH7 6QY,D,N,F,Holly House,,The Platt,Dormansland,Lingfield
+2022-09-02,670000,RH7 6PT,S,N,F,6,,Dormans Avenue,Dormansland,Lingfield
+2022-09-02,1000000,RH7 6NR,D,N,F,Wayside,,Hollow Lane,Dormansland,Lingfield
+2022-08-30,450000,RH7 6PU,T,N,F,77,,High Street,Dormansland,Lingfield
+2022-08-15,437500,RH7 6AZ,T,N,F,4,,Cobham Close,,Lingfield
+2022-08-10,178000,RH7 6TA,F,N,L,13,,Lincolns Mead,,Lingfield
+2022-08-10,560000,RH7 6DP,S,N,F,83,,Saxbys Lane,,Lingfield
+2022-08-02,270000,RH7 6DZ,F,N,L,103,,Station Road,,Lingfield
+2022-07-28,750000,RH7 6NW,D,N,F,Oak Cottage,,Woodland Lane,Newchapel,Lingfield
+2022-07-22,130000,RH7 6AQ,F,N,L,10,,St Christophers,,Lingfield
+2022-07-15,275000,RH7 6DZ,F,N,L,77,,Station Road,,Lingfield
+2022-07-11,160000,RH7 6SA,F,N,L,8,,Deacon Court,,Lingfield
+2022-07-08,565000,RH7 6JF,F,N,L,Lepordstown House,Flat 1,Eastbourne Road,Blindley Heath,Lingfield
+2022-06-29,640000,RH7 6QJ,S,N,F,5,,Bassetts Hill,Dormansland,Lingfield
+2022-06-28,257500,RH7 6DZ,F,N,L,73,,Station Road,,Lingfield
+2022-06-24,750000,RH7 6JT,D,N,F,16,,Langsmead,Blindley Heath,Lingfield
+2022-06-21,757220,RH7 6BJ,S,N,F,Holly Cottages,1,Newchapel Road,,Lingfield
+2022-06-16,450000,RH7 6TA,T,N,F,99,,Lincolns Mead,,Lingfield
+2022-06-16,285000,RH7 6DL,F,N,L,29A,,Saxbys Lane,,Lingfield
+2022-05-20,510000,RH7 6DX,S,N,F,72,,Station Road,,Lingfield
+2022-05-12,1100000,RH7 6BT,D,N,F,74,,Godstone Road,,Lingfield
+2022-05-10,490000,RH7 6RH,S,N,F,30,,Beacon Hill,Dormansland,Lingfield
+2022-04-28,460000,RH7 6PQ,T,N,F,Stanhope Cottages,10,Racecourse Road,,Lingfield
+2022-04-22,875000,RH7 6LL,D,N,F,Tippywychett,,Tandridge Lane,,Lingfield
+2022-04-21,290000,RH7 6PU,T,N,F,23,,High Street,Dormansland,Lingfield
+2022-04-14,480000,RH7 6ED,S,N,F,96,,Station Road,,Lingfield
+2022-04-13,440000,RH7 6AJ,S,N,F,2,,The Twitten,,Lingfield
+2022-04-08,550000,RH7 6PZ,D,N,F,"June Cottage, 9",,The Meades,Dormansland,Lingfield
+2022-04-06,425000,RH7 6RL,D,N,F,1,,Dormans Close,Dormansland,Lingfield
+2022-03-31,1000000,RH7 6AH,D,N,F,Copper Beech House,,Church Road,,Lingfield
+2022-03-18,365000,RH7 6TA,T,N,F,37,,Lincolns Mead,,Lingfield
+2022-03-18,580000,RH7 6BP,S,N,F,2A,,Headland Way,,Lingfield
+2022-03-17,590000,RH7 6QS,D,N,F,66,,West Street,Dormansland,Lingfield
+2022-03-17,471000,RH7 6PU,S,N,F,51,,High Street,Dormansland,Lingfield
+2022-03-16,300000,RH7 6PF,T,N,F,Glenside Courtyard,3,Racecourse Road,Dormansland,Lingfield
+2022-03-09,425000,RH7 6LR,S,N,F,5,,St Georges Cottages,Crowhurst,Lingfield
+2022-02-11,400000,RH7 6RL,D,N,F,6,,Dormans Close,Dormansland,Lingfield
+2022-02-11,615000,RH7 6EW,D,N,F,5,,Vicarage Close,,Lingfield
+2022-02-10,1150000,RH7 6TA,D,N,F,74,,Lincolns Mead,,Lingfield
+2022-02-10,800000,RH7 6JD,D,N,F,20,,New Place Gardens,,Lingfield
+2022-02-02,465000,RH7 6PY,S,N,F,12,,High Street,Dormansland,Lingfield
+2022-01-28,1550000,RH7 6GR,D,N,F,18,,Highfield Close,,Lingfield
+2022-01-28,450000,RH7 6AD,T,N,F,4,,Talbot Road,,Lingfield
+2022-01-24,495000,RH7 6JX,D,N,F,Whispers,,Eastbourne Road,Blindley Heath,Lingfield
+2022-01-21,535000,RH7 6AY,T,N,F,The Orchards,5,Talbot Road,,Lingfield
+2022-01-19,850000,RH7 6JX,S,N,F,High Lawns,,Eastbourne Road,Blindley Heath,Lingfield
+2022-01-17,550000,RH7 6BW,S,N,F,46,,Godstone Road,,Lingfield
+2022-01-14,245000,RH7 6HD,F,N,L,72,,Bakers Lane,,Lingfield
+2022-01-14,225000,RH7 6DT,F,N,L,25,,Grove Road,,Lingfield
+2022-01-14,530000,RH7 6AW,D,N,F,5,,Locks Meadow,Dormansland,Lingfield
+2021-12-17,316850,RH7 6RF,S,N,F,59,,New Farthingdale,Dormansland,Lingfield
+2021-12-17,1025000,RH7 6LQ,D,N,F,Two Hoots,,Eastbourne Road,Blindley Heath,Lingfield
+2021-12-17,216750,RH7 6JW,F,N,L,11,,Cottenhams,Blindley Heath,Lingfield
+2021-12-17,785000,RH7 6GR,S,N,F,6,,Highfield Close,,Lingfield
+2021-12-17,1400000,RH7 6GR,D,N,F,15,,Highfield Close,,Lingfield
+2021-12-15,930000,RH7 6DN,D,N,F,46,,Saxbys Lane,,Lingfield
+2021-12-14,205000,RH7 6JZ,F,N,L,"Heath Court, 53",Flat 1,Featherstone,Blindley Heath,Lingfield
+2021-12-14,535000,RH7 6BD,S,N,F,Bricklands Farm Cottage,,Newchapel Road,,Lingfield
+2021-12-10,820000,RH7 6NS,D,N,F,Silver Birches,,Hollow Lane,Dormansland,Lingfield
+2021-12-02,835000,RH7 6NQ,D,N,F,Briarlea,,Blackberry Road,,Lingfield
+2021-11-26,545000,RH7 6RH,S,N,F,10,,Beacon Hill,Dormansland,Lingfield
+2021-11-25,760000,RH7 6NE,T,N,F,Manor House,3,East Grinstead Road,,Lingfield
+2021-11-19,180000,RH7 6SA,F,N,L,1,,Deacon Court,,Lingfield
+2021-11-09,590000,RH7 6NZ,T,N,F,Coachmans Cottage,,Ford Manor Road,Dormansland,Lingfield
+2021-11-05,210000,RH7 6JW,F,N,L,1,,Cottenhams,Blindley Heath,Lingfield
+2021-11-02,1270000,RH7 6NG,S,N,F,Weir Courtney,,Blackberry Lane,,Lingfield
+2021-11-02,615000,RH7 6HQ,D,N,F,19,,Ash Close,,Lingfield
+2021-10-28,750000,RH7 6BU,D,N,F,5,,Lingfield Common Road,,Lingfield
+2021-10-28,445000,RH7 6AZ,S,N,F,2,,Cobham Close,,Lingfield
+2021-10-25,320000,RH7 6EX,T,N,F,55,,Drivers Mead,,Lingfield
+2021-10-22,240000,RH7 6DZ,F,N,L,65,,Station Road,,Lingfield
+2021-10-18,792000,RH7 6TA,D,N,F,10,,Lincolns Mead,,Lingfield
+2021-10-15,1000000,RH7 6GH,D,N,F,4,,Nursery Gardens,,Lingfield
+2021-10-15,800000,RH7 6BL,D,N,F,The Shaws,,Newchapel Road,,Lingfield
+2021-10-15,480000,RH7 6AZ,S,N,F,3,,Cobham Close,,Lingfield
+2021-10-08,975000,RH7 6ND,D,N,F,1,,Lane End,Dormansland,Lingfield
+2021-09-30,782559,RH7 6TA,D,N,F,42,,Lincolns Mead,,Lingfield
+2021-09-30,510000,RH7 6QS,D,N,F,40,,West Street,Dormansland,Lingfield
+2021-09-30,611500,RH7 6QP,D,N,F,69A,,West Street,Dormansland,Lingfield
+2021-09-29,490000,RH7 6JY,T,N,F,48,,Featherstone,Blindley Heath,Lingfield
+2021-09-29,495000,RH7 6DH,S,N,F,29,,Headland Way,,Lingfield
+2021-09-29,365000,RH7 6BF,T,N,F,8,,Jenny Lane,,Lingfield
+2021-09-23,405000,RH7 6EJ,T,N,F,22,,Knights Mead,,Lingfield
+2021-09-23,650000,RH7 6EG,D,N,F,Hawthorne Cross,,Rushfords,,Lingfield
+2021-09-21,265000,RH7 6DZ,F,N,L,101,,Station Road,,Lingfield
+2021-09-21,355000,RH7 6BW,S,N,F,12,,Godstone Road,,Lingfield
+2021-09-10,300000,RH7 6EY,T,N,F,1,,Billhurst Cottages,,Lingfield
+2021-09-10,130000,RH7 6AQ,F,N,L,3,,St Christophers,,Lingfield
+2021-09-03,1250000,RH7 6HY,D,N,F,Branford Wells,,Brickhouse Lane,Newchapel,Lingfield
+2021-08-27,187000,RH7 6TA,F,N,L,3,,Lincolns Mead,,Lingfield
+2021-08-27,345000,RH7 6EU,S,N,F,25,,Drivers Mead,,Lingfield
+2021-08-26,950000,RH7 6GD,D,N,F,2,,Eliot Place,Crowhurst,Lingfield
+2021-08-19,645000,RH7 6GD,D,N,F,1,,Eliot Place,Crowhurst,Lingfield
+2021-08-19,472500,RH7 6DZ,S,N,F,"Rose Cottage, 33",,Station Road,,Lingfield
+2021-08-17,190000,RH7 6AU,F,N,L,The Old Cage,Flat 2,Plaistow Street,,Lingfield
+2021-08-13,256000,RH7 6BS,F,N,L,"Hetherington Court, 35",Apartment 6,Mount Pleasant Road,,Lingfield
+2021-08-10,900000,RH7 6HY,D,N,F,Woodside,,Brickhouse Lane,Newchapel,Lingfield
+2021-08-10,356000,RH7 6DZ,T,N,F,55,,Station Road,,Lingfield
+2021-08-09,925000,RH7 6NS,D,N,F,Green Hedges,,Hollow Lane,Dormansland,Lingfield
+2021-08-04,378000,RH7 6JN,S,N,F,8,,The Villas,Blindley Heath,Lingfield
+2021-07-30,270000,RH7 6DL,F,N,L,29,,Saxbys Lane,,Lingfield
+2021-07-30,480000,RH7 6BH,D,N,F,27,,Mount Pleasant Road,,Lingfield
+2021-07-30,650000,RH7 6BG,D,N,F,Fieldings,,Newchapel Road,,Lingfield
+2021-07-29,310000,RH7 6JT,S,N,F,23,,Langsmead,Blindley Heath,Lingfield
+2021-07-29,520000,RH7 6AW,D,N,F,17,,Locks Meadow,Dormansland,Lingfield
+2021-07-14,698000,RH7 6NP,D,N,F,Capers,,Mutton Hill,Dormansland,Lingfield
+2021-06-30,307000,RH7 6DU,T,N,F,16,,Selbys,,Lingfield
+2021-06-30,450000,RH7 6DN,S,N,F,40,,Saxbys Lane,,Lingfield
+2021-06-30,377500,RH7 6DJ,T,N,F,5,,Gray Close,,Lingfield
+2021-06-30,915000,RH7 6BZ,D,N,F,Birchwood House,,Lingfield Common Road,,Lingfield
+2021-06-30,262000,RH7 6BH,F,N,L,"Garth Court, 20",Flat 3,Mount Pleasant Road,,Lingfield
+2021-06-30,207500,RH7 6AU,F,N,L,The Old Cage,Flat 1,Plaistow Street,,Lingfield
+2021-06-30,465000,RH7 6AH,T,N,F,Star Cottages,3,Church Road,,Lingfield
+2021-06-29,340000,RH7 6JY,S,N,F,25,,Featherstone,Blindley Heath,Lingfield
+2021-06-29,950000,RH7 6JX,D,N,F,The Stables,,Eastbourne Road,Blindley Heath,Lingfield
+2021-06-29,660000,RH7 6EH,D,N,F,Wychwood Cottage,,Eden Brook,,Lingfield
+2021-06-29,245000,RH7 6DZ,F,N,L,71,,Station Road,,Lingfield
+2021-06-29,360000,RH7 6AZ,T,N,F,7,,Cobham Close,,Lingfield
+2021-06-28,380000,RH7 6RF,T,N,F,79,,New Farthingdale,Dormansland,Lingfield
+2021-06-25,427000,RH7 6JU,S,N,F,23,,St Johns Meadow,Blindley Heath,Lingfield
+2021-06-25,990000,RH7 6GH,D,N,F,3,,Nursery Gardens,,Lingfield
+2021-06-25,260000,RH7 6BS,F,N,L,"Hetherington Court, 35",Apartment 5,Mount Pleasant Road,,Lingfield
+2021-06-23,685000,RH7 6GS,D,N,F,3,,Bannisters Croft,Blindley Heath,Lingfield
+2021-06-23,405000,RH7 6EJ,T,N,F,25,,Knights Mead,,Lingfield
+2021-06-22,385000,RH7 6JN,S,N,F,7,,The Villas,Blindley Heath,Lingfield
+2021-06-18,425000,RH7 6NZ,T,N,F,3,,Ralph Cottages,Dormansland,Lingfield
+2021-06-18,368500,RH7 6JN,S,N,F,2,,The Villas,Blindley Heath,Lingfield
+2021-06-18,567500,RH7 6HF,D,N,F,4,,Bakers Close,,Lingfield
+2021-06-18,372500,RH7 6EU,T,N,F,36,,Drivers Mead,,Lingfield
+2021-06-17,712500,RH7 6GS,D,N,F,5,,Bannisters Croft,Blindley Heath,Lingfield
+2021-06-17,1330000,RH7 6DD,S,N,F,Waterside House,,Haxted Road,,Lingfield
+2021-06-15,848000,RH7 6DA,D,N,F,Greenways,,Crowhurst Road,,Lingfield
+2021-06-11,300000,RH7 6QY,S,N,F,South View,3,The Platt,Dormansland,Lingfield
+2021-06-11,450000,RH7 6DW,S,N,F,10,,Haywardens,,Lingfield
+2021-06-11,374995,RH7 6DS,T,N,F,15,,Little Lullenden,,Lingfield
+2021-06-11,666000,RH7 6DG,D,N,F,Old Barn Cottage,,Crowhurst Road,Crowhurst,Lingfield
+2021-06-04,359950,RH7 6RG,S,N,F,96,,New Farthingdale,Dormansland,Lingfield
+2021-06-03,567000,RH7 6BP,S,N,F,32,,Headland Way,,Lingfield
+2021-06-03,575000,RH7 6BL,D,N,F,Rest Harrow,,Newchapel Road,,Lingfield
+2021-06-01,685000,RH7 6GQ,D,N,F,6,,Maplewood Drive,,Lingfield
+2021-05-25,590000,RH7 6BJ,T,N,F,Green Lane Cottages,1,Newchapel Road,,Lingfield
+2021-05-24,994400,RH7 6BZ,D,N,F,Willow Tree House,,Lingfield Common Road,,Lingfield
+2021-05-21,1070000,RH7 6ND,D,N,F,4,,Lane End,Dormansland,Lingfield
+2021-05-13,575366,RH7 6RH,D,N,F,50,,Beacon Hill,Dormansland,Lingfield
+2021-05-13,290000,RH7 6LH,S,N,F,3,,Gibbs Mews,Blindley Heath,Lingfield
+2021-05-07,470000,RH7 6JR,S,N,F,Cedars,,Eastbourne Road,Blindley Heath,Lingfield
+2021-05-07,470000,RH7 6EJ,D,N,F,8,,Knights Mead,,Lingfield
+2021-05-05,1070000,RH7 6BJ,D,N,F,Willow Cottage,,Newchapel Road,,Lingfield
+2021-04-29,930000,RH7 6JB,D,N,F,Tiltyard,,Hare Lane,,Lingfield
+2021-04-28,400000,RH7 6RQ,S,N,F,13,,Beacon Hill,Dormansland,Lingfield
+2021-04-26,560000,RH7 6QD,D,N,F,14,,Clinton Hill,Dormansland,Lingfield
+2021-04-23,510000,RH7 6DX,D,N,F,10,,Station Road,,Lingfield
+2021-04-22,656000,RH7 6NS,D,N,F,Hollowdene,,Hollow Lane,Dormansland,Lingfield
+2021-04-22,520000,RH7 6BW,S,N,F,52,,Godstone Road,,Lingfield
+2021-04-20,575000,RH7 6RH,D,N,F,34,,Beacon Hill,Dormansland,Lingfield
+2021-04-15,600000,RH7 6NQ,D,N,F,Homeland,,Blackberry Road,,Lingfield
+2021-04-14,460000,RH7 6AT,T,N,F,11,,Edenbrook Place,Blindley Heath,Lingfield
+2021-04-13,910000,RH7 6BZ,D,N,F,Birchwood House,,Lingfield Common Road,,Lingfield
+2021-04-12,255000,RH7 6AA,F,N,L,59,,High Street,,Lingfield
+2021-04-07,480000,RH7 6NT,S,N,F,135,,Hollow Lane,Dormansland,Lingfield
+2021-04-01,445000,RH7 6QD,S,N,F,11,,Clinton Hill,Dormansland,Lingfield
+2021-04-01,425000,RH7 6PZ,S,N,F,18,,The Meades,Dormansland,Lingfield
+2021-03-31,515000,RH7 6PU,D,N,F,41,,High Street,Dormansland,Lingfield
+2021-03-30,510000,RH7 6DX,S,N,F,24,,Station Road,,Lingfield
+2021-03-29,410000,RH7 6QS,S,N,F,86,,West Street,Dormansland,Lingfield
+2021-03-29,650000,RH7 6GS,D,N,F,4,,Bannisters Croft,Blindley Heath,Lingfield
+2021-03-29,431000,RH7 6BH,D,N,F,33,,Mount Pleasant Road,,Lingfield
+2021-03-26,305000,RH7 6QU,T,N,F,Box Cottage,1,The Platt,Dormansland,Lingfield
+2021-03-26,955000,RH7 6NH,D,N,F,Doggetts,,Blackberry Lane,,Lingfield
+2021-03-26,350000,RH7 6DR,S,N,F,82,,Saxbys Lane,,Lingfield
+2021-03-26,625000,RH7 6DN,D,N,F,48,,Saxbys Lane,,Lingfield
+2021-03-19,482500,RH7 6QW,S,N,F,16,,West Street,Dormansland,Lingfield
+2021-03-19,475000,RH7 6QP,D,N,F,29,,West Street,Dormansland,Lingfield
+2021-03-16,440000,RH7 6QP,D,N,F,75,,West Street,Dormansland,Lingfield
+2021-03-16,960000,RH7 6BT,D,N,F,"The Old House, 78",,Godstone Road,,Lingfield
+2021-03-15,422500,RH7 6DZ,S,N,F,113A,,Station Road,,Lingfield
+2021-03-12,825000,RH7 6QW,S,N,F,6,,West Street,Dormansland,Lingfield
+2021-03-12,365000,RH7 6JN,S,N,F,1,,The Villas,Blindley Heath,Lingfield
+2021-03-11,362000,RH7 6HE,S,N,F,15,,Bakers Lane,,Lingfield
+2021-03-11,630000,RH7 6AH,D,N,F,Lynton Cottage,,Church Road,,Lingfield
+2021-03-09,440000,RH7 6QD,S,N,F,6,,Clinton Hill,Dormansland,Lingfield
+2021-03-09,345000,RH7 6DZ,T,N,F,41,,Station Road,,Lingfield
+2021-03-08,1300000,RH7 6LR,D,N,F,Brooke House,,Crowhurst Lane,Crowhurst,Lingfield
+2021-03-08,565000,RH7 6JL,S,N,F,The Granary,4,Eastbourne Road,Blindley Heath,Lingfield
+2021-03-08,375000,RH7 6BD,T,N,F,5,,Ormuz Cottages,,Lingfield
+2021-03-05,515000,RH7 6RH,S,N,F,8,,Beacon Hill,Dormansland,Lingfield
+2021-03-05,375000,RH7 6QS,T,N,F,84,,West Street,Dormansland,Lingfield
+2021-03-04,458000,RH7 6PY,S,N,F,"Mulberry Mews, 68",7,High Street,Dormansland,Lingfield
+2021-03-02,600000,RH7 6JT,D,N,F,20,,Langsmead,Blindley Heath,Lingfield
+2021-02-26,541000,RH7 6TA,S,N,F,64,,Lincolns Mead,,Lingfield
+2021-02-26,400000,RH7 6QS,T,N,F,80,,West Street,Dormansland,Lingfield
+2021-02-22,840000,RH7 6TA,D,N,F,40,,Lincolns Mead,,Lingfield
+2021-02-17,405000,RH7 6NS,S,N,F,113,,Hollow Lane,Dormansland,Lingfield
+2021-02-15,500000,RH7 6GT,S,N,F,3,,Hayward Mews,,Lingfield
+2021-02-12,320000,RH7 6RF,T,N,F,105,,New Farthingdale,Dormansland,Lingfield
+2021-02-12,700000,RH7 6HA,D,N,F,Barn Cottage,,Vicarage Road,,Lingfield
+2021-02-12,695000,RH7 6EG,D,N,F,Rushford Cottage,,Rushfords,,Lingfield
+2021-02-12,330000,RH7 6DJ,T,N,F,2,,Gray Close,,Lingfield
+2021-02-11,487500,RH7 6DA,S,N,F,Knights Cottages,1,Crowhurst Road,,Lingfield
+2021-02-11,330000,RH7 6AS,T,N,F,5,,Old School Place,,Lingfield
+2021-02-10,570000,RH7 6HQ,D,N,F,29,,Ash Close,,Lingfield
+2021-02-09,800000,RH7 6HT,D,N,F,Keepers,,West Park Road,Newchapel,Lingfield
+2021-02-04,758500,RH7 6BT,D,N,F,Saxons,,Godstone Road,,Lingfield
+2021-02-01,435000,RH7 6EZ,S,N,F,15,,Vicarage Road,,Lingfield
+2021-02-01,550000,RH7 6AS,D,N,F,14,,Old School Place,,Lingfield
+2021-01-29,340000,RH7 6TA,T,N,F,83,,Lincolns Mead,,Lingfield
+2021-01-29,896000,RH7 6PP,D,N,F,Dormans Corner Cottage,,Racecourse Road,Dormansland,Lingfield
+2021-01-29,1000000,RH7 6GH,D,N,F,2,,Nursery Gardens,,Lingfield
+2021-01-29,500000,RH7 6DU,S,N,F,5,,Selbys,,Lingfield
+2021-01-25,395000,RH7 6GT,S,N,F,5,,Hayward Mews,,Lingfield
+2021-01-22,670000,RH7 6PS,D,N,F,29,,Plough Road,Dormansland,Lingfield
+2021-01-22,290000,RH7 6BS,F,N,L,"Hetherington Court, 35",Apartment 1,Mount Pleasant Road,,Lingfield
+2021-01-20,345000,RH7 6DS,T,N,F,35,,Little Lullenden,,Lingfield
+2021-01-20,543000,RH7 6DP,S,N,F,101,,Saxbys Lane,,Lingfield
+2021-01-19,630000,RH7 6HQ,D,N,F,15,,Ash Close,,Lingfield
+2021-01-15,490000,RH7 6EZ,S,N,F,5,,Vicarage Road,,Lingfield
+2021-01-15,220000,RH7 6BJ,S,N,F,2 Rowlands,,Newchapel Road,,Lingfield
+2021-01-14,850000,RH7 6LY,D,N,F,Woodcot,,Crowhurst Road,Crowhurst,Lingfield
+2021-01-07,488500,RH7 6RH,S,N,F,24,,Beacon Hill,Dormansland,Lingfield
+2021-01-07,330000,RH7 6GL,T,N,F,14,,Little Stanford Close,,Lingfield
+2021-01-06,350000,RH7 6PU,S,N,F,17,,High Street,Dormansland,Lingfield

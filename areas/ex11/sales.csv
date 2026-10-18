@@ -1,0 +1,888 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-11,325000,EX11 1ST,S,N,F,5,,Metcombe Rise,Metcombe,Ottery St Mary
+2026-08-10,387500,EX11 1FQ,D,N,F,5,,Pavey Run,,Ottery St Mary
+2026-08-06,350000,EX11 1UD,D,N,F,Heatherbrae,,Lower Broad Oak Road,West Hill,Ottery St Mary
+2026-07-31,495000,EX11 1GU,D,N,F,93,,Thorne Farm Way,,Ottery St Mary
+2026-07-31,190000,EX11 1DR,T,N,F,43,,North Street,,Ottery St Mary
+2026-07-20,800000,EX11 1XX,D,N,F,7,,High Bank,West Hill,Ottery St Mary
+2026-07-17,375000,EX11 1YE,D,N,F,9,,Potters Close,West Hill,Ottery St Mary
+2026-07-03,265000,EX11 1DU,S,N,F,9,,Ridgeway Gardens,,Ottery St Mary
+2026-06-26,265000,EX11 1HS,D,N,F,27,,Homefield Close,,Ottery St Mary
+2026-06-26,295000,EX11 1FX,S,N,F,11,,Harold Close,,Ottery St Mary
+2026-06-25,305000,EX11 1GX,S,N,F,19,,Thorne Farm Way,,Ottery St Mary
+2026-06-24,335000,EX11 1FQ,D,N,F,33,,Pavey Run,,Ottery St Mary
+2026-06-24,205000,EX11 1AD,T,N,F,38,,Mill Street,,Ottery St Mary
+2026-06-22,385000,EX11 1TF,S,N,F,9,,Kennaway Road,,Ottery St Mary
+2026-06-19,161000,EX11 1YA,T,N,F,23,,Riverside View,,Ottery St Mary
+2026-06-19,730000,EX11 1RJ,D,N,F,Apple Tree Cottage,,,Fluxton,Ottery St Mary
+2026-06-19,232500,EX11 1HH,T,N,F,113,,Yonder Street,,Ottery St Mary
+2026-06-18,330000,EX11 1TY,T,N,F,Lyndale,,West Hill Road,West Hill,Ottery St Mary
+2026-06-11,400000,EX11 1DY,D,N,F,Marloes,,Ridgeway,,Ottery St Mary
+2026-06-08,600000,EX11 1GL,D,N,F,23,,Gerway Close,,Ottery St Mary
+2026-06-01,500000,EX11 1XD,D,N,F,Emberlea,,Higher Broad Oak Road,West Hill,Ottery St Mary
+2026-05-29,197500,EX11 1HH,T,N,F,97,,Yonder Street,,Ottery St Mary
+2026-05-29,193000,EX11 1BE,T,N,F,7,,Tip Hill,,Ottery St Mary
+2026-05-26,250000,EX11 1TG,S,N,F,53,,Raleigh Road,,Ottery St Mary
+2026-05-22,662500,EX11 1LR,D,N,F,Tamaleen Cottage,,,Fairmile,Ottery St Mary
+2026-05-22,370000,EX11 1DR,D,N,F,19,,North Street,,Ottery St Mary
+2026-05-20,770000,EX11 1RZ,D,N,F,Venn Ottery Barton,,,Venn Ottery,Ottery St Mary
+2026-05-15,435000,EX11 1JH,D,N,F,55,,Chineway Gardens,,Ottery St Mary
+2026-05-08,285000,EX11 1EN,S,N,F,6,,St Anthonys Close,,Ottery St Mary
+2026-05-05,275000,EX11 1HS,S,N,F,10,,Homefield Close,,Ottery St Mary
+2026-05-01,460000,EX11 1EL,D,N,F,24,,Butts Road,,Ottery St Mary
+2026-05-01,435000,EX11 1BB,D,N,F,41,,Oak Close,,Ottery St Mary
+2026-04-30,362500,EX11 1TD,D,N,F,1A,,Coleridge Road,,Ottery St Mary
+2026-04-30,375000,EX11 1GB,D,N,F,1,,Henry Gardens,,Ottery St Mary
+2026-04-30,283000,EX11 1EW,S,N,F,9,,Meadow Close,,Ottery St Mary
+2026-04-30,307500,EX11 1EW,S,N,F,11,,Meadow Close,,Ottery St Mary
+2026-04-28,767000,EX11 1XQ,D,N,F,Timbercroft,,Lower Broad Oak Road,West Hill,Ottery St Mary
+2026-04-28,217200,EX11 1DW,T,N,F,8,,Cornhill,,Ottery St Mary
+2026-04-17,295000,EX11 1DU,S,N,F,3,,Ridgeway Gardens,,Ottery St Mary
+2026-04-16,227500,EX11 1YB,T,N,F,21,,Windrush Rise,,Ottery St Mary
+2026-04-08,670000,EX11 1XR,D,N,F,2,,Needlewood Close,West Hill,Ottery St Mary
+2026-03-31,325000,EX11 1HR,S,N,F,45,,St Budeaux Close,,Ottery St Mary
+2026-03-30,320000,EX11 1EE,S,N,F,17,,Shutes Mead,,Ottery St Mary
+2026-03-30,465000,EX11 1BB,D,N,F,43,,Oak Close,,Ottery St Mary
+2026-03-27,463000,EX11 1HZ,D,N,F,5,,St Marys Park,,Ottery St Mary
+2026-03-26,139000,EX11 1BW,F,N,L,2,,Fawn Place,,Ottery St Mary
+2026-03-11,200000,EX11 1XA,D,N,F,13,,Perrys Gardens,West Hill,Ottery St Mary
+2026-03-05,735000,EX11 1UN,S,N,F,5,,Eymore Drive,West Hill,Ottery St Mary
+2026-03-02,445000,EX11 1TD,T,N,F,11,,Coleridge Road,,Ottery St Mary
+2026-02-23,465000,EX11 1NP,D,N,F,50,,Claremont Field,,Ottery St Mary
+2026-02-20,310000,EX11 1SZ,S,N,F,35,,Slade Close,,Ottery St Mary
+2026-02-20,705000,EX11 1GD,D,N,F,19,,Barrel Close,,Ottery St Mary
+2026-02-20,375000,EX11 1FX,D,N,F,18,,Harold Close,,Ottery St Mary
+2026-02-18,765000,EX11 1UZ,D,N,F,Brick House Farm,,West Hill Road,West Hill,Ottery St Mary
+2026-02-18,385000,EX11 1TG,S,N,F,35,,Raleigh Road,,Ottery St Mary
+2026-02-13,880000,EX11 1UZ,D,N,F,Greenacre,,West Hill Road,West Hill,Ottery St Mary
+2026-02-06,765000,EX11 1UL,D,N,F,10,,Moorlands,West Hill,Ottery St Mary
+2026-02-06,805000,EX11 1SS,D,N,F,Woodside,,,Metcombe,Ottery St Mary
+2026-02-06,400000,EX11 1RU,D,N,F,Vine Cottage,,,Metcombe,Ottery St Mary
+2026-02-06,305000,EX11 1EL,T,N,F,98,,Butts Road,,Ottery St Mary
+2026-02-06,482000,EX11 1EL,D,N,F,29,,Butts Road,,Ottery St Mary
+2026-01-30,350000,EX11 1GR,T,N,F,6,,Albert Close,,Ottery St Mary
+2026-01-23,800,EX11 1HR,S,N,F,42,,St Budeaux Close,,Ottery St Mary
+2026-01-14,225000,EX11 1FF,T,N,F,2,,Samuel Terrace,,Ottery St Mary
+2025-12-18,250000,EX11 1YY,T,N,F,The Old Fire Station,3,Batts Lane,,Ottery St Mary
+2025-12-18,355000,EX11 1GL,S,N,F,8,,Gerway Close,,Ottery St Mary
+2025-12-18,215000,EX11 1EZ,T,N,F,Cheriton,,Brook Street,,Ottery St Mary
+2025-12-16,265000,EX11 1YY,T,N,F,The Old Fire Station,4,Batts Lane,,Ottery St Mary
+2025-12-15,403000,EX11 1FH,D,N,F,9,,Abbott Close,,Ottery St Mary
+2025-12-15,169000,EX11 1EG,T,N,F,53,,Sandhill Street,,Ottery St Mary
+2025-12-12,190000,EX11 1HF,T,N,F,45,,Yonder Street,,Ottery St Mary
+2025-12-12,225000,EX11 1DU,T,N,F,22,,Ridgeway Gardens,,Ottery St Mary
+2025-12-11,490000,EX11 1GQ,T,N,F,13,,Tumbling Weir Way,,Ottery St Mary
+2025-12-10,630000,EX11 1JA,D,N,F,16,,St Marys Park,,Ottery St Mary
+2025-12-05,1150000,EX11 1GG,D,N,F,"Mulberry House, 19",,Hayes End,West Hill,Ottery St Mary
+2025-12-05,450000,EX11 1FP,D,N,F,139,,Butts Road,,Ottery St Mary
+2025-12-05,225000,EX11 1AR,S,N,F,1,,Winters Lane,,Ottery St Mary
+2025-12-03,515000,EX11 1PE,D,N,F,Trembraze,,Church Lane,Alfington,Ottery St Mary
+2025-11-27,294500,EX11 1EW,S,N,F,18,,Meadow Close,,Ottery St Mary
+2025-11-26,700000,EX11 1RY,D,N,F,Hardor,,,Venn Ottery,Ottery St Mary
+2025-11-24,225000,EX11 1HX,T,N,F,6,,Longdogs Lane,,Ottery St Mary
+2025-11-18,160000,EX11 1BW,T,N,F,6,,Hind Street,,Ottery St Mary
+2025-11-17,910000,EX11 1TY,D,N,F,Copperhayes,,West Hill Road,West Hill,Ottery St Mary
+2025-11-14,945000,EX11 1XE,D,N,F,Creag Mhor,,Ford Lane,West Hill,Ottery St Mary
+2025-11-14,166000,EX11 1EU,T,N,F,2,,Jesu Street,,Ottery St Mary
+2025-11-07,868750,EX11 1UZ,D,N,F,Chorley Mill,,West Hill Road,West Hill,Ottery St Mary
+2025-10-31,690000,EX11 1UF,D,N,F,Rustlings,,Lower Broad Oak Road,West Hill,Ottery St Mary
+2025-10-29,250000,EX11 1WH,T,N,F,1,,Cadhay Close,,Ottery St Mary
+2025-10-27,465000,EX11 1GX,D,N,F,49,,Thorne Farm Way,,Ottery St Mary
+2025-10-24,320000,EX11 1RR,T,N,F,5,,Metcombe Vale,Metcombe,Ottery St Mary
+2025-10-24,390000,EX11 1GR,S,N,F,2,,Albert Close,,Ottery St Mary
+2025-10-22,101000,EX11 1DT,T,N,F,14,,Ridgeway,,Ottery St Mary
+2025-10-22,187500,EX11 1DR,T,N,F,3,,North Street,,Ottery St Mary
+2025-10-21,510000,EX11 1PN,D,N,F,Cardarroch,,,,Ottery St Mary
+2025-10-17,174000,EX11 1FQ,S,N,F,26,,Pavey Run,,Ottery St Mary
+2025-10-16,495000,EX11 1LD,T,N,F,25,,Salston Manor,,Ottery St Mary
+2025-10-16,320000,EX11 1AX,S,N,F,31,,Winters Lane,,Ottery St Mary
+2025-10-15,695000,EX11 1UL,D,N,F,19,,Moorlands,West Hill,Ottery St Mary
+2025-10-15,255000,EX11 1TG,S,N,F,31,,Raleigh Road,,Ottery St Mary
+2025-10-10,650000,EX11 1XL,D,N,F,3,,Pinefields Close,West Hill,Ottery St Mary
+2025-10-08,265000,EX11 1TG,S,N,F,33,,Raleigh Road,,Ottery St Mary
+2025-10-08,250000,EX11 1EL,T,N,F,94,,Butts Road,,Ottery St Mary
+2025-10-07,900000,EX11 1NZ,D,N,F,Rock Farm,,,Alfington,Ottery St Mary
+2025-10-07,650000,EX11 1GL,D,N,F,31,,Gerway Close,,Ottery St Mary
+2025-10-06,835000,EX11 1UY,D,N,F,Fir Lodge,,,West Hill,Ottery St Mary
+2025-10-06,500000,EX11 1DY,D,N,F,Dormans,,Ridgeway,,Ottery St Mary
+2025-10-03,350000,EX11 1EL,S,N,F,88,,Butts Road,,Ottery St Mary
+2025-10-03,202000,EX11 1AF,T,N,F,108,,Mill Street,,Ottery St Mary
+2025-09-29,357000,EX11 1JJ,D,N,F,103,,Chineway Gardens,,Ottery St Mary
+2025-09-29,180000,EX11 1HH,T,N,F,107,,Yonder Street,,Ottery St Mary
+2025-09-29,284000,EX11 1EP,S,N,F,22,,Washbrook View,,Ottery St Mary
+2025-09-29,285000,EX11 1EN,S,N,F,18,,St Anthonys Close,,Ottery St Mary
+2025-09-19,170000,EX11 1HD,T,N,F,34,,Yonder Street,,Ottery St Mary
+2025-09-18,630000,EX11 1GL,D,N,F,21,,Gerway Close,,Ottery St Mary
+2025-09-18,822000,EX11 1DX,D,N,F,33,,Ridgeway,,Ottery St Mary
+2025-09-18,180000,EX11 1DS,T,N,F,2,,Alexander Place,,Ottery St Mary
+2025-09-16,785000,EX11 1RQ,D,N,F,Salston Gate,,,,Ottery St Mary
+2025-09-12,282500,EX11 1GZ,S,N,F,8,,Elliot Close,,Ottery St Mary
+2025-09-12,330000,EX11 1GL,S,N,F,20,,Gerway Close,,Ottery St Mary
+2025-09-12,375000,EX11 1AR,S,N,F,16,,Winters Lane,,Ottery St Mary
+2025-09-11,275000,EX11 1AS,S,N,F,Highlands,2,Winters Lane,,Ottery St Mary
+2025-09-05,347000,EX11 1RP,D,N,F,85,,Claremont Field,,Ottery St Mary
+2025-08-29,382500,EX11 1TG,S,N,F,3,,Raleigh Road,,Ottery St Mary
+2025-08-29,230000,EX11 1DZ,T,N,F,9,,Sunnyhill,,Ottery St Mary
+2025-08-28,690000,EX11 1TW,D,N,F,5,,Ashley Brake,West Hill,Ottery St Mary
+2025-08-28,295000,EX11 1JD,S,N,F,11,,Grandisson Drive,,Ottery St Mary
+2025-08-28,170000,EX11 1GX,D,N,F,43,,Thorne Farm Way,,Ottery St Mary
+2025-08-22,300000,EX11 1RP,D,N,F,29,,Claremont Field,,Ottery St Mary
+2025-08-21,390000,EX11 1LD,F,Y,L,15,,Salston Manor,,Ottery St Mary
+2025-08-20,270000,EX11 1TG,S,N,F,19,,Raleigh Road,,Ottery St Mary
+2025-08-20,479950,EX11 1FP,D,N,F,131,,Butts Road,,Ottery St Mary
+2025-08-20,286000,EX11 1EW,S,N,F,10,,Meadow Close,,Ottery St Mary
+2025-08-18,760000,EX11 1UL,D,N,F,8,,Moorlands,West Hill,Ottery St Mary
+2025-08-13,255000,EX11 1HR,S,N,F,43,,St Budeaux Close,,Ottery St Mary
+2025-08-12,320000,EX11 1BB,D,N,F,18,,Oak Close,,Ottery St Mary
+2025-08-11,725000,EX11 1TN,D,N,F,14,,Warren Park,West Hill,Ottery St Mary
+2025-08-08,285000,EX11 1EE,D,N,F,14,,Shutes Mead,,Ottery St Mary
+2025-08-06,370000,EX11 1UZ,D,N,F,Broadoak Barn,,West Hill Road,West Hill,Ottery St Mary
+2025-08-05,720000,EX11 1TU,D,N,F,Briarscombe,,West Hill Road,West Hill,Ottery St Mary
+2025-08-01,167000,EX11 1YB,T,N,F,20,,Windrush Rise,,Ottery St Mary
+2025-08-01,292000,EX11 1SY,S,N,F,5,,Slade Close,,Ottery St Mary
+2025-08-01,227000,EX11 1AD,T,N,F,34,,Mill Street,,Ottery St Mary
+2025-07-31,747500,EX11 1GD,D,N,F,18,,Barrel Close,,Ottery St Mary
+2025-07-30,575000,EX11 1XN,D,N,F,12,,Eastfield,West Hill,Ottery St Mary
+2025-07-30,682500,EX11 1UD,D,N,F,Meadowbrook,,Lower Broad Oak Road,West Hill,Ottery St Mary
+2025-07-30,550000,EX11 1GL,D,N,F,32,,Gerway Close,,Ottery St Mary
+2025-07-25,165000,EX11 1AB,T,N,F,25,,Mill Street,,Ottery St Mary
+2025-07-24,740000,EX11 1SL,D,N,F,Higher Fluxton Cottage,,,Higher Metcombe,Ottery St Mary
+2025-07-23,365000,EX11 1TG,S,N,F,51,,Raleigh Road,,Ottery St Mary
+2025-07-22,903500,EX11 1DX,D,N,F,Ridge Cottage,,Ridgeway,,Ottery St Mary
+2025-07-17,749000,EX11 1UL,D,N,F,20,,Moorlands,West Hill,Ottery St Mary
+2025-07-17,550000,EX11 1UF,D,N,F,Squirrels,,Lower Broad Oak Road,West Hill,Ottery St Mary
+2025-07-11,330000,EX11 1JG,D,N,F,2,,Chineway Gardens,,Ottery St Mary
+2025-07-10,450000,EX11 1GY,D,N,F,6,,Godfrey Close,,Ottery St Mary
+2025-07-10,460000,EX11 1GQ,F,N,F,1,,Tumbling Weir Way,,Ottery St Mary
+2025-06-27,975000,EX11 1XW,D,N,F,Broad Oak House,,Broadoak Close,West Hill,Ottery St Mary
+2025-06-27,1315000,EX11 1UW,D,N,F,Maybury,,Bendarroch Road,West Hill,Ottery St Mary
+2025-06-27,592000,EX11 1UL,D,N,F,12,,Moorlands,West Hill,Ottery St Mary
+2025-06-27,340000,EX11 1GL,S,N,F,6,,Gerway Close,,Ottery St Mary
+2025-06-27,408000,EX11 1EL,D,N,F,134,,Butts Road,,Ottery St Mary
+2025-06-26,1000000,EX11 1XZ,D,N,F,14,,Heather Grange,West Hill,Ottery St Mary
+2025-06-26,450000,EX11 1FH,D,N,F,14,,Abbott Close,,Ottery St Mary
+2025-06-25,367500,EX11 1TF,S,N,F,20,,Kennaway Road,,Ottery St Mary
+2025-06-23,399950,EX11 1FP,D,N,F,107,,Butts Road,,Ottery St Mary
+2025-06-18,685000,EX11 1GL,D,N,F,1,,Gerway Close,,Ottery St Mary
+2025-06-13,315000,EX11 1JG,D,N,F,21,,Chineway Gardens,,Ottery St Mary
+2025-06-10,245000,EX11 1TG,S,N,F,44,,Raleigh Road,,Ottery St Mary
+2025-06-10,212500,EX11 1GP,F,N,L,Tumbling Weir Court,1,Tumbling Weir Way,,Ottery St Mary
+2025-06-06,500000,EX11 1LS,D,N,F,The Old Mill,,,Fairmile,Ottery St Mary
+2025-06-05,350000,EX11 1LD,F,Y,L,18,,Salston Manor,,Ottery St Mary
+2025-06-02,335000,EX11 1TB,S,N,F,14,,Patteson Drive,,Ottery St Mary
+2025-06-02,330000,EX11 1HR,S,N,F,35,,St Budeaux Close,,Ottery St Mary
+2025-05-29,800000,EX11 1XJ,D,N,F,Coppins,,Higher Broad Oak Road,West Hill,Ottery St Mary
+2025-05-29,249950,EX11 1TG,S,N,F,42,,Raleigh Road,,Ottery St Mary
+2025-05-29,485000,EX11 1PF,S,N,F,4,,Mill Lane,Alfington,Ottery St Mary
+2025-05-22,492000,EX11 1BB,D,N,F,17,,Oak Close,,Ottery St Mary
+2025-05-16,350000,EX11 1GX,D,N,F,Otter Hatch,,Thorne Farm Way,,Ottery St Mary
+2025-05-09,275000,EX11 1DT,T,N,F,21,,Ridgeway,,Ottery St Mary
+2025-05-09,234500,EX11 1AT,T,N,F,2,,Hill View,,Ottery St Mary
+2025-04-30,750000,EX11 1SQ,D,N,F,Cherry Lodge,,,Higher Metcombe,Ottery St Mary
+2025-04-15,790000,EX11 1TP,D,N,F,Foxenhole Lodge,,West Hill Road,West Hill,Ottery St Mary
+2025-04-15,495000,EX11 1LD,T,N,F,26,,Salston Manor,,Ottery St Mary
+2025-04-11,285000,EX11 1HR,S,N,F,38,,St Budeaux Close,,Ottery St Mary
+2025-04-03,370000,EX11 1US,T,N,F,5,,The Crescent,,Ottery St Mary
+2025-03-31,455000,EX11 1TG,D,N,F,24,,Raleigh Road,,Ottery St Mary
+2025-03-31,526500,EX11 1SQ,D,N,F,Ottery Close,,,Higher Metcombe,Ottery St Mary
+2025-03-31,495000,EX11 1RP,D,N,F,87,,Claremont Field,,Ottery St Mary
+2025-03-31,347500,EX11 1HU,T,N,F,36,,Longdogs Lane,,Ottery St Mary
+2025-03-31,300000,EX11 1EW,S,N,F,18,,Meadow Close,,Ottery St Mary
+2025-03-31,320000,EX11 1EP,S,N,F,15,,Washbrook View,,Ottery St Mary
+2025-03-29,368000,EX11 1LD,F,Y,L,14,,Salston Manor,,Ottery St Mary
+2025-03-28,975000,EX11 1XE,D,N,F,Woodbines,,Ford Lane,West Hill,Ottery St Mary
+2025-03-28,950000,EX11 1TR,D,N,F,Greendene,,Toadpit Lane,West Hill,Ottery St Mary
+2025-03-28,310000,EX11 1JB,T,N,F,24,,Grandisson Drive,,Ottery St Mary
+2025-03-28,187000,EX11 1HD,T,N,F,8,,Yonder Street,,Ottery St Mary
+2025-03-28,415000,EX11 1FP,D,N,F,73,,Butts Road,,Ottery St Mary
+2025-03-28,610000,EX11 1DP,D,N,F,Amen Court,,Paternoster Row,,Ottery St Mary
+2025-03-27,1050000,EX11 1SL,D,N,F,Langtree,,,Higher Metcombe,Ottery St Mary
+2025-03-27,440000,EX11 1LD,F,Y,L,11,,Salston Manor,,Ottery St Mary
+2025-03-27,217500,EX11 1DT,T,N,F,4,,Ridgeway,,Ottery St Mary
+2025-03-26,1625000,EX11 1TX,D,N,F,Mulberry House,,School Lane,West Hill,Ottery St Mary
+2025-03-25,250000,EX11 1NX,D,N,F,Otters Halt,,,Alfington,Ottery St Mary
+2025-03-25,490000,EX11 1LD,F,Y,L,16,,Salston Manor,,Ottery St Mary
+2025-03-24,475000,EX11 1LD,T,N,F,5,,Salston Manor,,Ottery St Mary
+2025-03-21,320000,EX11 1XA,D,N,F,15,,Perrys Gardens,West Hill,Ottery St Mary
+2025-03-21,177000,EX11 1EF,T,N,F,3,,Sandhill Street,,Ottery St Mary
+2025-03-21,284000,EX11 1EE,D,N,F,12,,Shutes Mead,,Ottery St Mary
+2025-03-21,325000,EX11 1AF,T,N,F,140,,Mill Street,,Ottery St Mary
+2025-03-21,190000,EX11 1AB,T,N,F,27,,Mill Street,,Ottery St Mary
+2025-03-18,475000,EX11 1LD,T,N,F,3,,Salston Manor,,Ottery St Mary
+2025-03-14,700000,EX11 1XG,D,N,F,Four Pines,,Hawkins Lane,West Hill,Ottery St Mary
+2025-03-13,485000,EX11 1HX,D,N,F,Aysgarth,,Longdogs Lane,,Ottery St Mary
+2025-03-13,355000,EX11 1EW,S,N,F,13,,Meadow Close,,Ottery St Mary
+2025-03-12,250000,EX11 1FF,T,N,F,6,,Samuel Terrace,,Ottery St Mary
+2025-03-12,347500,EX11 1DU,S,N,F,30,,Ridgeway Gardens,,Ottery St Mary
+2025-03-10,745000,EX11 1XH,D,N,F,Southlea,,Lower Broad Oak Road,West Hill,Ottery St Mary
+2025-03-10,452000,EX11 1GU,D,N,F,38,,Thorne Farm Way,,Ottery St Mary
+2025-03-07,750000,EX11 1LE,D,N,F,Stables Cottage,,Exeter Road,,Ottery St Mary
+2025-03-07,250000,EX11 1EF,T,N,F,11,,Sandhill Street,,Ottery St Mary
+2025-03-04,299159,EX11 1NT,D,N,F,"Pipers Gate, 3",,Brackendown,West Hill,Ottery St Mary
+2025-02-28,258000,EX11 1LP,T,N,F,"The Coaching Cottage, 4",,The Fairmile,Fairmile,Ottery St Mary
+2025-02-28,235000,EX11 1HX,T,N,F,5,,Longdogs Lane,,Ottery St Mary
+2025-02-28,565000,EX11 1HH,D,N,F,Yonder Rise,,Yonder Street,,Ottery St Mary
+2025-02-20,397500,EX11 1FP,D,N,F,129,,Butts Road,,Ottery St Mary
+2025-02-17,320000,EX11 1SZ,S,N,F,39,,Slade Close,,Ottery St Mary
+2025-02-17,280000,EX11 1HR,S,N,F,56,,St Budeaux Close,,Ottery St Mary
+2025-02-14,1250000,EX11 1XN,D,N,F,18,,Eastfield,West Hill,Ottery St Mary
+2025-02-12,172500,EX11 1EY,T,N,F,4,,Batts Lane,,Ottery St Mary
+2025-02-10,400000,EX11 1EN,D,N,F,2,,St Anthonys Close,,Ottery St Mary
+2025-02-07,270099,EX11 1XY,T,N,F,3,,Hillcrest,,Ottery St Mary
+2025-02-07,270000,EX11 1FF,T,N,F,5,,Samuel Terrace,,Ottery St Mary
+2025-02-06,755000,EX11 1XH,D,N,F,South Riding,,Lower Broad Oak Road,West Hill,Ottery St Mary
+2025-02-03,345000,EX11 1TT,S,N,F,1,,Hillside,West Hill,Ottery St Mary
+2025-01-31,220000,EX11 1EZ,T,N,F,Abigail,,Brook Street,,Ottery St Mary
+2025-01-31,300000,EX11 1AT,T,N,F,4,,Hill View,,Ottery St Mary
+2025-01-29,472500,EX11 1LD,S,N,F,22,,Salston Manor,,Ottery St Mary
+2025-01-27,280000,EX11 1DU,S,N,F,17,,Ridgeway Gardens,,Ottery St Mary
+2025-01-10,500000,EX11 1LD,F,Y,L,12,,Salston Manor,,Ottery St Mary
+2025-01-10,101500,EX11 1FQ,T,N,L,51,,Pavey Run,,Ottery St Mary
+2025-01-06,755000,EX11 1TY,D,N,F,Fern House,,West Hill Road,West Hill,Ottery St Mary
+2025-01-06,274000,EX11 1GX,S,N,F,41A,,Thorne Farm Way,,Ottery St Mary
+2024-12-20,1710000,EX11 1TY,D,N,F,Woodstock,,West Hill Road,West Hill,Ottery St Mary
+2024-12-19,385000,EX11 1LD,T,N,F,6,,Salston Manor,,Ottery St Mary
+2024-12-13,235000,EX11 1XA,F,N,L,Perrys Manor,Flat 2,Perrys Gardens,West Hill,Ottery St Mary
+2024-12-13,348000,EX11 1SX,S,N,F,21,,Slade Close,,Ottery St Mary
+2024-12-13,280000,EX11 1SX,S,N,F,17,,Slade Close,,Ottery St Mary
+2024-12-13,265000,EX11 1HS,S,N,F,7,,Homefield Close,,Ottery St Mary
+2024-12-13,178000,EX11 1HH,T,N,F,97,,Yonder Street,,Ottery St Mary
+2024-12-13,525000,EX11 1BB,D,N,F,14,,Oak Close,,Ottery St Mary
+2024-12-10,620000,EX11 1PE,D,N,F,Belle View,,Church Lane,Alfington,Ottery St Mary
+2024-12-09,212500,EX11 1GP,F,N,L,Tumbling Weir Court,3,Tumbling Weir Way,,Ottery St Mary
+2024-12-05,413860,EX11 1BG,D,N,F,Raymeadow,,Winters Lane,,Ottery St Mary
+2024-12-02,800000,EX11 1SN,D,N,F,Metcombe Cottage,,,Higher Metcombe,Ottery St Mary
+2024-11-29,560000,EX11 1XB,D,N,F,1,,Warren Close,West Hill,Ottery St Mary
+2024-11-29,840000,EX11 1UY,D,N,F,Fir Lodge,,,West Hill,Ottery St Mary
+2024-11-29,330000,EX11 1GX,S,N,F,17,,Thorne Farm Way,,Ottery St Mary
+2024-11-29,380000,EX11 1FX,S,N,F,16,,Harold Close,,Ottery St Mary
+2024-11-27,495000,EX11 1LD,S,N,F,20,,Salston Manor,,Ottery St Mary
+2024-11-26,975000,EX11 1XZ,D,N,F,5,,Heather Grange,West Hill,Ottery St Mary
+2024-11-26,222500,EX11 1HH,T,N,F,105,,Yonder Street,,Ottery St Mary
+2024-11-22,325000,EX11 1TB,S,N,F,2,,Patteson Drive,,Ottery St Mary
+2024-11-19,322000,EX11 1DY,D,N,F,Winsford,,Ridgeway,,Ottery St Mary
+2024-11-15,360000,EX11 1SZ,S,N,F,31,,Slade Close,,Ottery St Mary
+2024-11-15,495000,EX11 1LD,S,N,F,19,,Salston Manor,,Ottery St Mary
+2024-11-01,785000,EX11 1XL,D,N,F,2,,Pinefields Close,West Hill,Ottery St Mary
+2024-10-31,350000,EX11 1HX,D,N,F,Rough Hey,,Longdogs Lane,,Ottery St Mary
+2024-10-29,218000,EX11 1HD,T,N,F,33,,Yonder Street,,Ottery St Mary
+2024-10-25,711500,EX11 1RX,D,N,F,Sunnyside,,,Venn Ottery,Ottery St Mary
+2024-10-24,300000,EX11 1SX,T,N,F,7A,,Slade Close,,Ottery St Mary
+2024-10-23,145000,EX11 1AB,T,N,F,73,,Mill Street,,Ottery St Mary
+2024-10-18,620000,EX11 1UD,D,N,F,Brookside,,Lower Broad Oak Road,West Hill,Ottery St Mary
+2024-10-18,296500,EX11 1TD,S,N,F,2,,Coleridge Road,,Ottery St Mary
+2024-10-17,390000,EX11 1GU,D,N,F,34,,Thorne Farm Way,,Ottery St Mary
+2024-10-17,680000,EX11 1GH,D,N,F,5,,Alfred Court,,Ottery St Mary
+2024-10-14,355000,EX11 1FQ,S,N,F,8,,Pavey Run,,Ottery St Mary
+2024-10-11,465000,EX11 1XA,D,N,F,"Sunny Corner, 1",,Otter Close,West Hill,Ottery St Mary
+2024-10-09,450000,EX11 1HZ,D,N,F,1,,St Marys Park,,Ottery St Mary
+2024-10-07,1150000,EX11 1XW,D,N,F,Tudor Wood Meadow,,Broadoak Close,West Hill,Ottery St Mary
+2024-09-27,300000,EX11 1GZ,S,N,F,18,,Elliot Close,,Ottery St Mary
+2024-09-27,177500,EX11 1DT,T,N,F,6,,Ridgeway,,Ottery St Mary
+2024-09-18,175000,EX11 1DT,T,N,F,8,,Ridgeway,,Ottery St Mary
+2024-09-10,490000,EX11 1LD,S,N,F,1,,Salston Manor,,Ottery St Mary
+2024-09-09,815000,EX11 1UW,D,N,F,Brook House,,Bendarroch Road,West Hill,Ottery St Mary
+2024-09-02,475000,EX11 1LD,T,N,F,24,,Salston Manor,,Ottery St Mary
+2024-09-02,450000,EX11 1JE,D,N,F,Leaway,,Slade Road,,Ottery St Mary
+2024-09-02,220000,EX11 1EN,S,N,F,19,,St Anthonys Close,,Ottery St Mary
+2024-08-30,835000,EX11 1JY,D,N,F,Burnsall House,,Bendarroch Road,West Hill,Ottery St Mary
+2024-08-30,300000,EX11 1GX,T,N,F,25,,Thorne Farm Way,,Ottery St Mary
+2024-08-30,212500,EX11 1EA,S,N,F,11,,New Street,,Ottery St Mary
+2024-08-30,430000,EX11 1BG,D,N,F,Pleasant Progress,,Winters Lane,,Ottery St Mary
+2024-08-29,625000,EX11 1TN,D,N,F,6,,Warren Park,West Hill,Ottery St Mary
+2024-08-29,400000,EX11 1GP,F,N,L,Tumbling Weir Court,24,Tumbling Weir Way,,Ottery St Mary
+2024-08-28,455000,EX11 1RP,D,N,F,31,,Claremont Field,,Ottery St Mary
+2024-08-28,335000,EX11 1HR,S,N,F,48,,St Budeaux Close,,Ottery St Mary
+2024-08-28,625000,EX11 1GL,D,N,F,3,,Gerway Close,,Ottery St Mary
+2024-08-27,767500,EX11 1HX,D,N,F,Bayford,,Longdogs Lane,,Ottery St Mary
+2024-08-23,385000,EX11 1TF,S,N,F,22,,Kennaway Road,,Ottery St Mary
+2024-08-23,240000,EX11 1GQ,F,N,F,2,,Tumbling Weir Way,,Ottery St Mary
+2024-08-21,239000,EX11 1TF,S,N,F,23,,Kennaway Road,,Ottery St Mary
+2024-08-21,625000,EX11 1FN,D,N,F,6,,Fairfax Way,,Ottery St Mary
+2024-08-21,202000,EX11 1AF,T,N,F,102,,Mill Street,,Ottery St Mary
+2024-08-20,455000,EX11 1NP,D,N,F,4,,Claremont Field,,Ottery St Mary
+2024-08-16,725000,EX11 1DX,S,N,F,Betterete,,Ridgeway,,Ottery St Mary
+2024-08-15,755000,EX11 1XJ,D,N,F,Treeferns,,Higher Broad Oak Road,West Hill,Ottery St Mary
+2024-08-12,255000,EX11 1DZ,T,N,F,8,,Sunnyhill,,Ottery St Mary
+2024-08-08,470000,EX11 1LD,T,N,F,2,,Salston Manor,,Ottery St Mary
+2024-08-02,280000,EX11 1LD,F,Y,L,10,,Salston Manor,,Ottery St Mary
+2024-07-31,397000,EX11 1LD,T,N,F,4,,Salston Manor,,Ottery St Mary
+2024-07-26,290000,EX11 1TD,S,N,F,32,,Coleridge Road,,Ottery St Mary
+2024-07-25,300000,EX11 1QP,S,N,F,11,,Taylor Close,,Ottery St Mary
+2024-07-25,535000,EX11 1EL,D,N,F,Conifers,,Butts Road,,Ottery St Mary
+2024-07-24,465000,EX11 1TA,D,N,F,12A,,Kings Avenue,,Ottery St Mary
+2024-07-23,227000,EX11 1BE,T,N,F,8,,Tip Hill,,Ottery St Mary
+2024-07-22,232500,EX11 1XT,T,N,F,5,,Mill Stream Court,,Ottery St Mary
+2024-07-22,220000,EX11 1AX,T,N,F,45,,Winters Lane,,Ottery St Mary
+2024-07-22,241500,EX11 1AB,T,N,F,59,,Mill Street,,Ottery St Mary
+2024-07-16,770000,EX11 1UL,D,N,F,22,,Moorlands,West Hill,Ottery St Mary
+2024-07-16,180000,EX11 1BZ,F,N,L,"The Coach House, 4",,The Square,,Ottery St Mary
+2024-07-15,920000,EX11 1XZ,D,N,F,1,,Heather Grange,West Hill,Ottery St Mary
+2024-07-09,285000,EX11 1EX,T,N,F,Wrights Court,1,Saddlers Lane,,Ottery St Mary
+2024-07-05,365000,EX11 1EP,D,N,F,13,,Washbrook View,,Ottery St Mary
+2024-07-04,480000,EX11 1GU,D,N,F,75,,Thorne Farm Way,,Ottery St Mary
+2024-06-24,820000,EX11 1UY,D,N,F,Beechcroft,,,West Hill,Ottery St Mary
+2024-06-21,282000,EX11 1AD,T,N,F,52,,Mill Street,,Ottery St Mary
+2024-06-14,245000,EX11 1HD,T,N,F,31,,Yonder Street,,Ottery St Mary
+2024-06-13,325000,EX11 1LD,F,Y,L,7,,Salston Manor,,Ottery St Mary
+2024-06-13,132600,EX11 1FQ,S,N,L,18,,Pavey Run,,Ottery St Mary
+2024-06-12,325000,EX11 1BX,T,N,F,8,,Paxford House Square,,Ottery St Mary
+2024-06-07,583000,EX11 1PH,D,N,F,Holcombe Linhay,,Holcombe Lane,,Ottery St Mary
+2024-06-03,385000,EX11 1JQ,S,N,F,75,,Chineway Gardens,,Ottery St Mary
+2024-06-03,190000,EX11 1EG,T,N,F,59,,Sandhill Street,,Ottery St Mary
+2024-05-30,750000,EX11 1XG,D,N,F,Beech Lodge,,Hawkins Lane,West Hill,Ottery St Mary
+2024-05-28,640000,EX11 1XJ,D,N,F,Trees,,Higher Broad Oak Road,West Hill,Ottery St Mary
+2024-05-28,267500,EX11 1TG,S,N,F,23A,,Raleigh Road,,Ottery St Mary
+2024-05-28,480000,EX11 1LD,T,N,F,27,,Salston Manor,,Ottery St Mary
+2024-05-24,650000,EX11 1GD,D,N,F,12,,Barrel Close,,Ottery St Mary
+2024-05-23,485000,EX11 1FH,D,N,F,11,,Abbott Close,,Ottery St Mary
+2024-05-16,397600,EX11 1SX,S,N,F,49A,,Slade Close,,Ottery St Mary
+2024-05-15,570000,EX11 1UZ,D,N,F,Woodland View,,West Hill Road,West Hill,Ottery St Mary
+2024-05-10,332000,EX11 1QP,D,N,F,7,,Taylor Close,,Ottery St Mary
+2024-05-10,295000,EX11 1EG,S,N,F,2,,Kidney Bean Square,,Ottery St Mary
+2024-05-03,295000,EX11 1RR,T,N,F,6,,Metcombe Vale,Metcombe,Ottery St Mary
+2024-05-03,350000,EX11 1FY,S,N,F,16,,Richard Close,,Ottery St Mary
+2024-05-03,190000,EX11 1BW,T,N,F,2,,Hind Street,,Ottery St Mary
+2024-05-01,275000,EX11 1SY,S,N,F,87,,Slade Close,,Ottery St Mary
+2024-04-26,375000,EX11 1RX,S,N,F,Heatherdown,,,Venn Ottery,Ottery St Mary
+2024-04-22,365000,EX11 1GD,D,N,F,1,,Barrel Close,,Ottery St Mary
+2024-04-22,645000,EX11 1FU,D,N,F,5,,Pixie Walk,,Ottery St Mary
+2024-04-15,380000,EX11 1DY,D,N,F,Marloes,,Ridgeway,,Ottery St Mary
+2024-04-05,800000,EX11 1XF,D,N,F,Valleys Meet,,Higher Broad Oak Road,West Hill,Ottery St Mary
+2024-04-05,770000,EX11 1XF,D,N,F,The Deck House,,Higher Broad Oak Road,West Hill,Ottery St Mary
+2024-04-04,240000,EX11 1XT,S,N,F,1,,Mill Stream Court,,Ottery St Mary
+2024-03-27,785000,EX11 1QZ,D,N,F,Montigo,,Cadhay Lane,,Ottery St Mary
+2024-03-21,370000,EX11 1LD,F,Y,L,8,,Salston Manor,,Ottery St Mary
+2024-03-14,295000,EX11 1EY,T,N,F,15,,Batts Lane,,Ottery St Mary
+2024-03-08,390000,EX11 1RG,D,N,F,Salston Barton,6,Strawberry Lane,Salston,Ottery St Mary
+2024-03-01,380000,EX11 1TB,S,N,F,17,,Patteson Drive,,Ottery St Mary
+2024-02-29,370000,EX11 1HZ,D,N,F,2,,St Marys Park,,Ottery St Mary
+2024-02-28,735000,EX11 1TZ,D,N,F,Cherry Garth,,,West Hill,Ottery St Mary
+2024-02-28,675000,EX11 1SD,D,N,F,Thatches,,,Southerton,Ottery St Mary
+2024-02-23,375000,EX11 1WH,T,N,F,2,,Cadhay Close,,Ottery St Mary
+2024-02-23,485000,EX11 1RP,D,N,F,53,,Claremont Field,,Ottery St Mary
+2024-02-23,365000,EX11 1GX,T,N,F,25A,,Thorne Farm Way,,Ottery St Mary
+2024-02-20,787750,EX11 1XL,D,N,F,5,,Pinefields Close,West Hill,Ottery St Mary
+2024-02-19,418000,EX11 1LS,D,N,F,Mill Farm,,,Fairmile,Ottery St Mary
+2024-02-12,390000,EX11 1GU,D,N,F,36,,Thorne Farm Way,,Ottery St Mary
+2024-02-12,490000,EX11 1EL,D,N,F,29,,Butts Road,,Ottery St Mary
+2024-02-09,208000,EX11 1HH,T,N,F,113,,Yonder Street,,Ottery St Mary
+2024-02-07,270000,EX11 1HS,D,N,F,25,,Homefield Close,,Ottery St Mary
+2024-01-29,267500,EX11 1DR,T,N,F,34,,North Street,,Ottery St Mary
+2024-01-26,765000,EX11 1XH,D,N,F,Hillcrest,,Lower Broad Oak Road,West Hill,Ottery St Mary
+2024-01-26,195000,EX11 1DB,F,N,L,"Flat 2, 11",,Silver Street,,Ottery St Mary
+2024-01-22,385000,EX11 1FH,D,N,F,5,,Abbott Close,,Ottery St Mary
+2024-01-18,557500,EX11 1HT,D,N,F,4A,,Orchard Close,,Ottery St Mary
+2024-01-18,412000,EX11 1GX,D,N,F,18,,Thorne Farm Way,,Ottery St Mary
+2024-01-18,563000,EX11 1BB,D,N,F,20,,Oak Close,,Ottery St Mary
+2024-01-05,530000,EX11 1PF,D,N,F,Tolcarne,,Mill Lane,Alfington,Ottery St Mary
+2023-12-19,475000,EX11 1HY,D,N,F,Silverlea,,Longdogs Lane,,Ottery St Mary
+2023-12-19,190000,EX11 1HD,T,N,F,5,,Yonder Street,,Ottery St Mary
+2023-12-18,935000,EX11 1XX,D,N,F,14,,High Bank,West Hill,Ottery St Mary
+2023-12-18,318000,EX11 1RG,S,N,F,Salston Barton,7,Strawberry Lane,Salston,Ottery St Mary
+2023-12-18,330000,EX11 1JJ,S,N,F,16,,Chineway Gardens,,Ottery St Mary
+2023-12-18,350000,EX11 1GU,D,N,F,69,,Thorne Farm Way,,Ottery St Mary
+2023-12-18,435000,EX11 1BB,D,N,F,45,,Oak Close,,Ottery St Mary
+2023-12-15,384000,EX11 1JQ,S,N,F,77,,Chineway Gardens,,Ottery St Mary
+2023-12-14,480000,EX11 1PN,D,N,F,Robinsmede,,,,Ottery St Mary
+2023-12-07,540000,EX11 1FP,D,N,F,71,,Butts Road,,Ottery St Mary
+2023-12-05,400000,EX11 1XA,D,N,F,14,,Perrys Gardens,West Hill,Ottery St Mary
+2023-12-01,320000,EX11 1SW,D,N,F,Rose Cottage,,,Higher Metcombe,Ottery St Mary
+2023-12-01,365000,EX11 1DX,S,N,F,41,,Ridgeway,,Ottery St Mary
+2023-11-30,392000,EX11 1SX,D,N,F,60,,Slade Close,,Ottery St Mary
+2023-11-29,830000,EX11 1UL,D,N,F,9,,Moorlands,West Hill,Ottery St Mary
+2023-11-22,230000,EX11 1AD,T,N,F,32,,Mill Street,,Ottery St Mary
+2023-11-17,345000,EX11 1EW,S,N,F,8,,Meadow Close,,Ottery St Mary
+2023-11-14,450000,EX11 1GU,D,N,F,93,,Thorne Farm Way,,Ottery St Mary
+2023-11-09,282500,EX11 1EN,S,N,F,20,,St Anthonys Close,,Ottery St Mary
+2023-11-01,739400,EX11 1PW,D,N,F,Gerway Cottage,,Gerway Lane,,Ottery St Mary
+2023-11-01,808750,EX11 1GG,D,N,F,2,,Hayes End,West Hill,Ottery St Mary
+2023-11-01,422500,EX11 1EN,S,N,F,5,,St Anthonys Close,,Ottery St Mary
+2023-10-26,365000,EX11 1TG,S,N,F,22,,Raleigh Road,,Ottery St Mary
+2023-10-20,1175000,EX11 1XG,D,N,F,Oakhayes,,Hawkins Lane,West Hill,Ottery St Mary
+2023-10-20,525000,EX11 1UY,D,N,F,Green Hayes,,,West Hill,Ottery St Mary
+2023-10-20,635000,EX11 1JP,S,N,F,The Old Stable,,Windmill Lane,West Hill,Ottery St Mary
+2023-10-06,335000,EX11 1JD,S,N,F,5,,Grandisson Drive,,Ottery St Mary
+2023-10-05,304500,EX11 1GX,T,N,F,9,,Thorne Farm Way,,Ottery St Mary
+2023-10-05,230000,EX11 1DR,T,N,F,47,,North Street,,Ottery St Mary
+2023-09-28,1175000,EX11 1UZ,D,N,F,Orchard House,,West Hill Road,West Hill,Ottery St Mary
+2023-09-28,385000,EX11 1RP,T,N,F,51,,Claremont Field,,Ottery St Mary
+2023-09-28,760000,EX11 1PU,D,N,F,Orchard Lea,,,Wiggaton,Ottery St Mary
+2023-09-14,477000,EX11 1DY,D,N,F,Dormans,,Ridgeway,,Ottery St Mary
+2023-09-04,242000,EX11 1HS,D,N,F,21,,Homefield Close,,Ottery St Mary
+2023-09-04,462000,EX11 1DB,T,N,F,25,,Silver Street,,Ottery St Mary
+2023-08-28,292000,EX11 1AX,T,N,F,40,,Winters Lane,,Ottery St Mary
+2023-08-25,350000,EX11 1XA,D,N,F,10,,Perrys Gardens,West Hill,Ottery St Mary
+2023-08-25,435000,EX11 1JG,D,N,F,23,,Chineway Gardens,,Ottery St Mary
+2023-08-25,440000,EX11 1JG,D,N,F,15,,Chineway Gardens,,Ottery St Mary
+2023-08-25,377500,EX11 1GY,D,N,F,4,,Godfrey Close,,Ottery St Mary
+2023-08-25,350000,EX11 1BQ,S,N,F,30,,Franklea Close,,Ottery St Mary
+2023-08-23,300000,EX11 1QZ,D,N,F,Rowan Tree Cottage,,Cadhay Lane,,Ottery St Mary
+2023-08-21,1100000,EX11 1TR,D,N,F,Lower Church Mead,,Toadpit Lane,West Hill,Ottery St Mary
+2023-08-21,400000,EX11 1EB,D,N,F,4,,Brookdale,,Ottery St Mary
+2023-08-17,250000,EX11 1AW,D,N,F,Clifton Place,,Winters Lane,,Ottery St Mary
+2023-08-11,425000,EX11 1HT,D,N,F,5,,Orchard Close,,Ottery St Mary
+2023-08-08,750000,EX11 1UF,D,N,F,Squirrels Wood,,Lower Broad Oak Road,West Hill,Ottery St Mary
+2023-08-08,312000,EX11 1GX,T,N,F,33,,Thorne Farm Way,,Ottery St Mary
+2023-08-04,540000,EX11 1UJ,D,N,F,25,,Beech Park,West Hill,Ottery St Mary
+2023-08-04,330000,EX11 1TB,S,N,F,28,,Patteson Drive,,Ottery St Mary
+2023-08-04,495000,EX11 1NP,D,N,F,58,,Claremont Field,,Ottery St Mary
+2023-08-01,305000,EX11 1EP,S,N,F,18,,Washbrook View,,Ottery St Mary
+2023-07-31,565000,EX11 1BB,D,N,F,14,,Oak Close,,Ottery St Mary
+2023-07-28,285000,EX11 1GT,F,N,L,Otter Mill,Apartment 10,Tumbling Weir Way,,Ottery St Mary
+2023-07-27,380000,EX11 1XA,D,N,F,17,,Perrys Gardens,West Hill,Ottery St Mary
+2023-07-25,760000,EX11 1UN,S,N,F,5,,Eymore Drive,West Hill,Ottery St Mary
+2023-07-24,779000,EX11 1LX,D,N,F,Farthings,,,Gosford,Ottery St Mary
+2023-07-24,759000,EX11 1JP,D,N,F,Oakleigh House,,Windmill Lane,West Hill,Ottery St Mary
+2023-07-17,335000,EX11 1BQ,T,N,F,20,,Franklea Close,,Ottery St Mary
+2023-07-17,530000,EX11 1BB,D,N,F,6,,Oak Close,,Ottery St Mary
+2023-07-14,350000,EX11 1TF,D,N,F,6,,Kennaway Road,,Ottery St Mary
+2023-07-14,410000,EX11 1TA,S,N,F,4,,Kings Avenue,,Ottery St Mary
+2023-07-14,582500,EX11 1RQ,D,N,F,Salston Lodge,,,,Ottery St Mary
+2023-07-06,765000,EX11 1TZ,D,N,F,Rose Dale,,,West Hill,Ottery St Mary
+2023-07-03,250000,EX11 1EU,T,N,F,12,,Jesu Street,,Ottery St Mary
+2023-07-03,350000,EX11 1DX,S,N,F,Creg-Ny-Baa,,Ridgeway,,Ottery St Mary
+2023-07-03,134950,EX11 1AF,T,N,F,114,,Mill Street,,Ottery St Mary
+2023-06-30,317000,EX11 1TB,S,N,F,4,,Patteson Drive,,Ottery St Mary
+2023-06-30,385000,EX11 1NY,T,N,F,1 Redhill Cottages,,Alfington Road,,Ottery St Mary
+2023-06-30,430000,EX11 1FP,D,N,F,81,,Butts Road,,Ottery St Mary
+2023-06-29,535000,EX11 1GL,D,N,F,50,,Gerway Close,,Ottery St Mary
+2023-06-23,715000,EX11 1RU,D,N,F,Turners Plat,,,Metcombe,Ottery St Mary
+2023-06-15,450000,EX11 1UW,D,N,F,The Croft,,Bendarroch Road,West Hill,Ottery St Mary
+2023-06-09,1400000,EX11 1QD,D,N,F,Waxway House,,,,Ottery St Mary
+2023-06-08,400000,EX11 1LP,T,N,F,Cromwell House,,,Fairmile,Ottery St Mary
+2023-06-06,332500,EX11 1SY,S,N,F,99,,Slade Close,,Ottery St Mary
+2023-05-25,315000,EX11 1TF,S,N,F,1,,Kennaway Road,,Ottery St Mary
+2023-05-22,500000,EX11 1DX,D,N,F,45,,Ridgeway,,Ottery St Mary
+2023-05-19,710000,EX11 1XH,D,N,F,Willow Dene,,Lower Broad Oak Road,West Hill,Ottery St Mary
+2023-04-28,440000,EX11 1HY,D,N,F,Sunnymead,,Longdogs Lane,,Ottery St Mary
+2023-04-14,205000,EX11 1DR,T,N,F,9,,North Street,,Ottery St Mary
+2023-04-12,195000,EX11 1AB,T,N,F,43,,Mill Street,,Ottery St Mary
+2023-04-06,125000,EX11 1BY,F,N,L,15A,,Broad Street,,Ottery St Mary
+2023-03-31,470000,EX11 1NP,D,N,F,54,,Claremont Field,,Ottery St Mary
+2023-03-31,590000,EX11 1HT,D,N,F,3,,Orchard Close,,Ottery St Mary
+2023-03-31,142500,EX11 1FP,T,N,L,55,,Butts Road,,Ottery St Mary
+2023-03-27,610000,EX11 1XW,D,N,F,3,,Broadoak Close,West Hill,Ottery St Mary
+2023-03-27,300000,EX11 1GZ,S,N,F,16,,Elliot Close,,Ottery St Mary
+2023-03-23,315000,EX11 1RB,D,N,F,5,,Thorne Cottages,,Ottery St Mary
+2023-03-23,462000,EX11 1GL,D,N,F,34,,Gerway Close,,Ottery St Mary
+2023-03-21,350000,EX11 1JJ,S,N,F,91,,Chineway Gardens,,Ottery St Mary
+2023-03-21,300000,EX11 1EB,S,N,F,10,,Brookdale,,Ottery St Mary
+2023-03-17,145000,EX11 1BW,F,N,L,2,,Fawn Place,,Ottery St Mary
+2023-03-14,195000,EX11 1DR,T,N,F,43,,North Street,,Ottery St Mary
+2023-03-10,191000,EX11 1DR,T,N,F,10,,North Street,,Ottery St Mary
+2023-03-02,845000,EX11 1QZ,D,N,F,Thornebrook,,Cadhay Lane,,Ottery St Mary
+2023-03-01,960000,EX11 1PJ,D,N,F,Ware Farm,The Grange,,,Ottery St Mary
+2023-02-28,834500,EX11 1UW,D,N,F,Little Brook,,Bendarroch Road,West Hill,Ottery St Mary
+2023-02-28,245000,EX11 1DT,T,N,F,4,,Ridgeway,,Ottery St Mary
+2023-02-24,427500,EX11 1GU,D,N,F,38,,Thorne Farm Way,,Ottery St Mary
+2023-02-24,235000,EX11 1DU,T,N,F,"Phils Vills, 18",,Ridgeway Gardens,,Ottery St Mary
+2023-02-23,355000,EX11 1JQ,D,N,F,33,,Chineway Gardens,,Ottery St Mary
+2023-02-15,1050000,EX11 1XZ,D,N,F,2,,Heather Grange,West Hill,Ottery St Mary
+2023-02-13,296500,EX11 1HS,S,N,F,4,,Homefield Close,,Ottery St Mary
+2023-02-10,280000,EX11 1TP,T,N,F,The Old Village Hall,4,West Hill Road,West Hill,Ottery St Mary
+2023-02-10,386500,EX11 1TA,S,N,F,9,,Kings Avenue,,Ottery St Mary
+2023-02-10,352500,EX11 1GU,D,N,F,53,,Thorne Farm Way,,Ottery St Mary
+2023-02-10,320000,EX11 1EW,S,N,F,18,,Meadow Close,,Ottery St Mary
+2023-02-10,240000,EX11 1DT,T,N,F,17A,,Ridgeway,,Ottery St Mary
+2023-02-08,1300000,EX11 1XG,D,N,F,Gorse Lands,,Hawkins Lane,West Hill,Ottery St Mary
+2023-02-08,1400000,EX11 1QH,D,N,F,The White Lodge,,,East Hill,Ottery St Mary
+2023-02-07,1150000,EX11 1UX,D,N,F,Amberley Grange,,,West Hill,Ottery St Mary
+2023-02-06,1087500,EX11 1UX,D,N,F,Little Stockleigh,,,West Hill,Ottery St Mary
+2023-02-03,360000,EX11 1DW,F,N,F,11,,Cornhill,,Ottery St Mary
+2023-02-01,715000,EX11 1XH,D,N,F,Southernhay,,Lower Broad Oak Road,West Hill,Ottery St Mary
+2023-01-31,390000,EX11 1AF,T,N,F,126,,Mill Street,,Ottery St Mary
+2023-01-27,425000,EX11 1JQ,S,N,F,29,,Chineway Gardens,,Ottery St Mary
+2023-01-27,352500,EX11 1HU,T,N,F,36,,Longdogs Lane,,Ottery St Mary
+2023-01-23,725000,EX11 1TN,D,N,F,4,,Warren Park,West Hill,Ottery St Mary
+2023-01-19,470000,EX11 1RZ,D,N,F,Garden Cottage,,,Venn Ottery,Ottery St Mary
+2023-01-13,740000,EX11 1HY,D,N,F,Rollestone,,Longdogs Lane,,Ottery St Mary
+2023-01-13,409000,EX11 1FH,D,N,F,6,,Abbott Close,,Ottery St Mary
+2023-01-13,305000,EX11 1AF,T,N,F,130,,Mill Street,,Ottery St Mary
+2023-01-12,450000,EX11 1SY,S,N,F,61,,Slade Close,,Ottery St Mary
+2023-01-12,285000,EX11 1EN,S,N,F,18,,St Anthonys Close,,Ottery St Mary
+2023-01-09,475000,EX11 1LU,D,N,F,Irongate Lodge,,,Escot Park,Ottery St Mary
+2023-01-06,340000,EX11 1HR,S,N,F,45,,St Budeaux Close,,Ottery St Mary
+2022-12-21,388000,EX11 1RW,S,N,F,8,,Tipton Vale,Metcombe,Ottery St Mary
+2022-12-20,350000,EX11 1SX,S,N,F,21,,Slade Close,,Ottery St Mary
+2022-12-20,230000,EX11 1AD,T,N,F,4A,,Mill Street,,Ottery St Mary
+2022-12-14,267000,EX11 1DT,S,N,F,29,,Ridgeway,,Ottery St Mary
+2022-12-14,265000,EX11 1AB,T,N,F,59,,Mill Street,,Ottery St Mary
+2022-12-13,1300000,EX11 1XH,D,N,F,Brackenmead,,Lower Broad Oak Road,West Hill,Ottery St Mary
+2022-12-08,2640000,EX11 1UZ,D,N,F,West Hayes,,West Hill Road,West Hill,Ottery St Mary
+2022-11-30,270000,EX11 1BQ,T,N,F,13,,Franklea Close,,Ottery St Mary
+2022-11-29,325000,EX11 1HR,S,N,F,33,,St Budeaux Close,,Ottery St Mary
+2022-11-25,205000,EX11 1EU,T,N,F,4,,Jesu Street,,Ottery St Mary
+2022-11-25,520000,EX11 1EL,D,N,F,46,,Butts Road,,Ottery St Mary
+2022-11-24,725000,EX11 1AJ,S,N,F,101,,Mill Street,,Ottery St Mary
+2022-11-21,209950,EX11 1BE,T,N,F,4,,Tip Hill,,Ottery St Mary
+2022-11-15,2150000,EX11 1PP,D,N,F,Heavens Gate,,Knightstone,,Ottery St Mary
+2022-11-15,630000,EX11 1JA,D,N,F,23,,St Marys Park,,Ottery St Mary
+2022-11-11,475000,EX11 1UT,S,N,F,11,,Courtfield Close,West Hill,Ottery St Mary
+2022-11-09,805000,EX11 1PZ,D,N,F,Wildings,,,Wiggaton,Ottery St Mary
+2022-10-31,405000,EX11 1TG,S,N,F,45,,Raleigh Road,,Ottery St Mary
+2022-10-31,725000,EX11 1SL,D,N,F,Meadow Mead,,,Higher Metcombe,Ottery St Mary
+2022-10-28,1310000,EX11 1XE,D,N,F,The Pavilion,,Ford Lane,West Hill,Ottery St Mary
+2022-10-28,825000,EX11 1TU,D,N,F,Little Glade,,West Hill Road,West Hill,Ottery St Mary
+2022-10-20,320000,EX11 1HW,D,N,F,12A,,Higher Spring Gardens,,Ottery St Mary
+2022-10-19,1850000,EX11 1UZ,D,N,F,Springfield House,,West Hill Road,West Hill,Ottery St Mary
+2022-10-18,315000,EX11 1TB,S,N,F,26,,Patteson Drive,,Ottery St Mary
+2022-10-14,349950,EX11 1EN,S,N,F,7,,St Anthonys Close,,Ottery St Mary
+2022-10-04,365000,EX11 1RP,T,N,F,55,,Claremont Field,,Ottery St Mary
+2022-10-03,430000,EX11 1YB,D,N,F,2,,Windrush Rise,,Ottery St Mary
+2022-09-30,400000,EX11 1GB,D,N,F,6,,Henry Gardens,,Ottery St Mary
+2022-09-28,1300000,EX11 1UZ,D,N,F,White House,,West Hill Road,West Hill,Ottery St Mary
+2022-09-28,700000,EX11 1SL,D,N,F,Acorns,,,Higher Metcombe,Ottery St Mary
+2022-09-27,150000,EX11 1YD,S,N,F,2,,Millcroft,,Ottery St Mary
+2022-09-26,955000,EX11 1RY,D,N,F,Minors,,,Venn Ottery,Ottery St Mary
+2022-09-23,380000,EX11 1XA,S,N,F,3,,Perrys Gardens,West Hill,Ottery St Mary
+2022-09-23,315000,EX11 1ST,S,N,F,5,,Metcombe Rise,Metcombe,Ottery St Mary
+2022-09-20,450000,EX11 1JH,D,N,F,55,,Chineway Gardens,,Ottery St Mary
+2022-09-16,740000,EX11 1XJ,D,N,F,4,,Hylands Close,West Hill,Ottery St Mary
+2022-09-15,420000,EX11 1JJ,D,N,F,97,,Chineway Gardens,,Ottery St Mary
+2022-09-15,395000,EX11 1EB,D,N,F,8,,Brookdale,,Ottery St Mary
+2022-09-09,295000,EX11 1YA,S,N,F,17,,Riverside View,,Ottery St Mary
+2022-09-09,325000,EX11 1SY,S,N,F,93,,Slade Close,,Ottery St Mary
+2022-09-08,1700000,EX11 1TY,D,N,F,Sylvan House,,West Hill Road,West Hill,Ottery St Mary
+2022-09-08,275000,EX11 1HE,S,N,F,Chineway,,Yonder Close,,Ottery St Mary
+2022-09-06,810000,EX11 1XH,D,N,F,Green Hollow,,Lower Broad Oak Road,West Hill,Ottery St Mary
+2022-08-30,491000,EX11 1HG,D,N,F,Ourouse,,Yonder Street,,Ottery St Mary
+2022-08-30,230000,EX11 1AG,T,N,F,3 Colbert Hall Mews,,Tar Lane,,Ottery St Mary
+2022-08-30,171450,EX11 1AF,T,N,F,62A,,Mill Street,,Ottery St Mary
+2022-08-25,642000,EX11 1TY,D,N,F,Lower Mead,,West Hill Road,West Hill,Ottery St Mary
+2022-08-24,310000,EX11 1NZ,T,N,F,6,,Summerlands Cottages,Alfington,Ottery St Mary
+2022-08-24,740000,EX11 1GD,D,N,F,19,,Barrel Close,,Ottery St Mary
+2022-08-22,232500,EX11 1EZ,T,N,F,Orchard House,,Brook Street,,Ottery St Mary
+2022-08-19,950000,EX11 1TR,D,N,F,Mere House,,Toadpit Lane,West Hill,Ottery St Mary
+2022-08-19,575000,EX11 1JA,D,N,F,32,,St Marys Park,,Ottery St Mary
+2022-08-17,861000,EX11 1FB,D,N,F,2,,Katherines Lane,,Ottery St Mary
+2022-08-16,432000,EX11 1JJ,S,N,F,22,,Chineway Gardens,,Ottery St Mary
+2022-08-16,530000,EX11 1FR,D,N,F,1,,Oak Tree Gardens,West Hill,Ottery St Mary
+2022-08-12,335000,EX11 1HR,S,N,F,37,,St Budeaux Close,,Ottery St Mary
+2022-08-12,209950,EX11 1HH,T,N,F,93,,Yonder Street,,Ottery St Mary
+2022-08-12,245000,EX11 1AX,S,N,F,31,,Winters Lane,,Ottery St Mary
+2022-08-08,715000,EX11 1UB,D,N,F,Lindridge,,,West Hill,Ottery St Mary
+2022-08-05,231000,EX11 1AT,T,N,F,4,,Hill View,,Ottery St Mary
+2022-08-05,295000,EX11 1AR,S,N,F,29,,Winters Lane,,Ottery St Mary
+2022-08-01,315000,EX11 1GQ,T,N,F,7,,Tumbling Weir Way,,Ottery St Mary
+2022-07-29,245000,EX11 1EF,S,N,F,26,,Sandhill Street,,Ottery St Mary
+2022-07-15,228000,EX11 1AF,T,N,F,112,,Mill Street,,Ottery St Mary
+2022-07-11,650000,EX11 1UL,D,N,F,16,,Moorlands,West Hill,Ottery St Mary
+2022-07-11,380000,EX11 1BG,D,N,F,Broadmeadow,,Winters Lane,,Ottery St Mary
+2022-07-07,300000,EX11 1BX,T,N,F,3,,Paxford House Square,,Ottery St Mary
+2022-07-04,1040450,EX11 1TR,D,N,F,East Grange,,Toadpit Lane,West Hill,Ottery St Mary
+2022-06-27,312000,EX11 1NB,T,N,F,8,,Taleford Villas,Taleford,Ottery St Mary
+2022-06-20,420000,EX11 1TB,S,N,F,1,,Patteson Drive,,Ottery St Mary
+2022-06-20,362000,EX11 1FL,S,N,F,7,,Thackeray Close,,Ottery St Mary
+2022-06-15,638000,EX11 1TY,D,N,F,Ashley View,,West Hill Road,West Hill,Ottery St Mary
+2022-06-08,290000,EX11 1ST,S,N,F,13,,Metcombe Rise,Metcombe,Ottery St Mary
+2022-06-07,765000,EX11 1RH,D,N,F,Parkside,,Salston Ride,Salston,Ottery St Mary
+2022-05-30,377000,EX11 1XA,D,N,F,9,,Perrys Gardens,West Hill,Ottery St Mary
+2022-05-27,365000,EX11 1RP,T,N,F,47,,Claremont Field,,Ottery St Mary
+2022-05-27,144775,EX11 1FP,S,N,L,83,,Butts Road,,Ottery St Mary
+2022-05-27,300000,EX11 1EG,S,N,F,1,,Kidney Bean Square,,Ottery St Mary
+2022-05-26,1100000,EX11 1XG,D,N,F,Longridge,,Hawkins Lane,West Hill,Ottery St Mary
+2022-05-26,248000,EX11 1DT,S,N,F,29,,Ridgeway,,Ottery St Mary
+2022-05-24,350000,EX11 1GU,D,N,F,34,,Thorne Farm Way,,Ottery St Mary
+2022-05-24,125000,EX11 1BH,F,N,L,14,,Spencer Court,,Ottery St Mary
+2022-05-24,308750,EX11 1AX,S,N,F,33,,Winters Lane,,Ottery St Mary
+2022-05-19,260000,EX11 1BQ,T,N,F,8,,Franklea Close,,Ottery St Mary
+2022-05-05,810000,EX11 1TR,D,N,F,Tifundle,,Toadpit Lane,West Hill,Ottery St Mary
+2022-04-29,380000,EX11 1BQ,S,N,F,10,,Franklea Close,,Ottery St Mary
+2022-04-20,275000,EX11 1GT,F,Y,L,Otter Mill,Apartment 14,Tumbling Weir Way,,Ottery St Mary
+2022-04-19,300000,EX11 1ZL,F,Y,L,"Priory House, 10",Apartment 7,Paternoster Row,,Ottery St Mary
+2022-04-14,340000,EX11 1EB,S,N,F,14,,Brookdale,,Ottery St Mary
+2022-04-14,160000,EX11 1EA,T,N,F,5,,New Street,,Ottery St Mary
+2022-04-08,290000,EX11 1GT,F,Y,L,Otter Mill,Apartment 21,Tumbling Weir Way,,Ottery St Mary
+2022-04-08,320000,EX11 1EN,S,N,F,3,,St Anthonys Close,,Ottery St Mary
+2022-04-08,291500,EX11 1AF,F,Y,L,Corn Mill,3,Mill Street,,Ottery St Mary
+2022-04-05,350000,EX11 1FP,S,N,F,79,,Butts Road,,Ottery St Mary
+2022-04-01,316000,EX11 1RP,D,N,F,21,,Claremont Field,,Ottery St Mary
+2022-03-31,385000,EX11 1RP,S,N,F,3,,Claremont Field,,Ottery St Mary
+2022-03-29,330000,EX11 1US,S,N,F,1,,The Crescent,,Ottery St Mary
+2022-03-28,946000,EX11 1UZ,D,N,F,Widcombe,,West Hill Road,West Hill,Ottery St Mary
+2022-03-25,195000,EX11 1YB,T,N,F,22,,Windrush Rise,,Ottery St Mary
+2022-03-25,1250000,EX11 1UW,D,N,F,White Chimneys,,Bendarroch Road,West Hill,Ottery St Mary
+2022-03-25,650000,EX11 1FR,D,N,F,4,,Oak Tree Gardens,West Hill,Ottery St Mary
+2022-03-24,438000,EX11 1YA,D,N,F,5,,Riverside View,,Ottery St Mary
+2022-03-18,273500,EX11 1HU,S,N,F,14,,Longdogs Lane,,Ottery St Mary
+2022-03-18,125000,EX11 1HD,T,N,F,14,,Yonder Street,,Ottery St Mary
+2022-03-18,268000,EX11 1GT,F,Y,L,Otter Mill,Apartment 10,Tumbling Weir Way,,Ottery St Mary
+2022-03-18,364000,EX11 1GH,D,N,F,1,,Alfred Court,,Ottery St Mary
+2022-03-11,382500,EX11 1GB,D,N,F,1,,Henry Gardens,,Ottery St Mary
+2022-03-11,435000,EX11 1EL,D,N,F,14,,Butts Road,,Ottery St Mary
+2022-03-04,200000,EX11 1HD,T,N,F,32,,Yonder Street,,Ottery St Mary
+2022-03-04,300000,EX11 1EL,D,N,F,11,,Butts Road,,Ottery St Mary
+2022-03-04,250000,EX11 1AR,S,N,F,19,,Winters Lane,,Ottery St Mary
+2022-03-01,280000,EX11 1XT,T,N,F,8,,Mill Stream Court,,Ottery St Mary
+2022-02-28,625000,EX11 1TW,D,N,F,28,,Ashley Brake,West Hill,Ottery St Mary
+2022-02-24,830000,EX11 1EA,D,N,F,Green Pastures,,New Street,,Ottery St Mary
+2022-02-24,610000,EX11 1AF,D,N,F,96,,Mill Street,,Ottery St Mary
+2022-02-23,275000,EX11 1GT,F,Y,L,Otter Mill,Apartment 9,Tumbling Weir Way,,Ottery St Mary
+2022-02-21,275000,EX11 1FL,T,N,F,11,,Thackeray Close,,Ottery St Mary
+2022-02-21,260000,EX11 1EL,T,N,F,130,,Butts Road,,Ottery St Mary
+2022-02-17,150000,EX11 1EA,T,N,F,7,,New Street,,Ottery St Mary
+2022-02-16,950000,EX11 1UX,D,N,F,Langstone,,,West Hill,Ottery St Mary
+2022-02-16,950000,EX11 1SA,D,N,F,Dartwood,,,Venn Ottery,Ottery St Mary
+2022-02-16,610000,EX11 1GB,D,N,F,5,,Henry Gardens,,Ottery St Mary
+2022-02-16,245000,EX11 1AB,T,N,F,29,,Mill Street,,Ottery St Mary
+2022-02-15,605000,EX11 1XJ,D,N,F,Birchanger,,Higher Broad Oak Road,West Hill,Ottery St Mary
+2022-02-11,310000,EX11 1GQ,S,Y,F,22,,Tumbling Weir Way,,Ottery St Mary
+2022-02-11,465000,EX11 1FQ,D,N,F,3,,Pavey Run,,Ottery St Mary
+2022-02-04,275000,EX11 1GX,T,N,F,27,,Thorne Farm Way,,Ottery St Mary
+2022-02-04,495000,EX11 1GB,D,N,F,17,,Henry Gardens,,Ottery St Mary
+2022-02-01,287000,EX11 1GT,F,Y,L,Otter Mill,Apartment 5,Tumbling Weir Way,,Ottery St Mary
+2022-01-28,150000,EX11 1GU,D,N,F,73,,Thorne Farm Way,,Ottery St Mary
+2022-01-28,445000,EX11 1BB,D,N,F,21,,Oak Close,,Ottery St Mary
+2022-01-25,500000,EX11 1TD,D,N,F,12,,Coleridge Road,,Ottery St Mary
+2022-01-25,420000,EX11 1JQ,D,N,F,37,,Chineway Gardens,,Ottery St Mary
+2022-01-25,405000,EX11 1EG,D,N,F,19,,Sandhill Street,,Ottery St Mary
+2022-01-25,245000,EX11 1EA,T,N,F,8,,New Street,,Ottery St Mary
+2022-01-19,280000,EX11 1AF,F,Y,L,Corn Mill,5,Mill Street,,Ottery St Mary
+2022-01-14,295000,EX11 1GT,F,Y,L,Otter Mill,Apartment 4,Tumbling Weir Way,,Ottery St Mary
+2022-01-12,385000,EX11 1JA,D,N,F,26,,St Marys Park,,Ottery St Mary
+2021-12-22,177000,EX11 1DR,T,N,F,9,,North Street,,Ottery St Mary
+2021-12-21,750000,EX11 1UZ,D,N,F,Greenwood Lodge,,West Hill Road,West Hill,Ottery St Mary
+2021-12-21,676000,EX11 1LN,D,N,F,Tumbledale,,Birdcage Lane,,Ottery St Mary
+2021-12-21,120000,EX11 1BE,T,N,F,Pen-Hen-Ver,,Tip Hill,,Ottery St Mary
+2021-12-17,290000,EX11 1XY,S,N,F,9,,Hillcrest,,Ottery St Mary
+2021-12-17,790000,EX11 1XJ,D,N,F,Coppins,,Higher Broad Oak Road,West Hill,Ottery St Mary
+2021-12-17,375000,EX11 1TD,T,N,F,11,,Coleridge Road,,Ottery St Mary
+2021-12-17,375000,EX11 1TA,S,N,F,7,,Kings Avenue,,Ottery St Mary
+2021-12-17,425000,EX11 1RG,S,N,F,Salston Barton,5,Strawberry Lane,Salston,Ottery St Mary
+2021-12-17,756000,EX11 1HX,D,N,F,Laneside,,Longdogs Lane,,Ottery St Mary
+2021-12-17,350000,EX11 1GL,S,N,F,8,,Gerway Close,,Ottery St Mary
+2021-12-17,333000,EX11 1EL,D,N,F,122,,Butts Road,,Ottery St Mary
+2021-12-15,310000,EX11 1GT,F,Y,L,Otter Mill,Apartment 3,Tumbling Weir Way,,Ottery St Mary
+2021-12-15,340000,EX11 1DU,S,N,F,30,,Ridgeway Gardens,,Ottery St Mary
+2021-12-10,287500,EX11 1NB,S,N,F,4,,Taleford Villas,Taleford,Ottery St Mary
+2021-12-10,270000,EX11 1GT,F,Y,L,Otter Mill,Apartment 12,Tumbling Weir Way,,Ottery St Mary
+2021-12-09,500000,EX11 1HX,D,N,F,Thurso,,Longdogs Lane,,Ottery St Mary
+2021-12-07,289610,EX11 1GT,F,Y,L,Otter Mill,Apartment 18,Tumbling Weir Way,,Ottery St Mary
+2021-12-06,300000,EX11 1DB,T,N,F,23,,Silver Street,,Ottery St Mary
+2021-12-06,325000,EX11 1BZ,T,N,F,3,,The Square,,Ottery St Mary
+2021-12-03,325000,EX11 1NY,T,N,F,Redhill Cottages,2,Alfington Road,,Ottery St Mary
+2021-12-03,605000,EX11 1JE,D,N,F,Spindlewood,,Slade Road,,Ottery St Mary
+2021-12-03,518600,EX11 1DR,D,N,F,40,,North Street,,Ottery St Mary
+2021-12-02,120000,EX11 1FP,T,N,L,53,,Butts Road,,Ottery St Mary
+2021-11-22,275000,EX11 1GT,F,Y,L,Otter Mill,Apartment 19,Tumbling Weir Way,,Ottery St Mary
+2021-11-19,231250,EX11 1JR,S,N,F,8,,Plume Of Feathers Close,,Ottery St Mary
+2021-11-17,1125000,EX11 1XJ,D,N,F,The Reddings,,Higher Broad Oak Road,West Hill,Ottery St Mary
+2021-11-16,272105,EX11 1GT,F,Y,L,Otter Mill,Apartment 13,Tumbling Weir Way,,Ottery St Mary
+2021-11-15,449995,EX11 1RP,D,N,F,9,,Claremont Field,,Ottery St Mary
+2021-11-15,257500,EX11 1GT,F,Y,L,Otter Mill,Apartment 15,Tumbling Weir Way,,Ottery St Mary
+2021-11-15,550000,EX11 1BA,D,N,F,Penor,,Winters Lane,,Ottery St Mary
+2021-11-12,570000,EX11 1UY,D,N,F,Deep Meadows,,,West Hill,Ottery St Mary
+2021-11-12,188000,EX11 1DW,D,N,F,14,,Cornhill,,Ottery St Mary
+2021-11-11,265000,EX11 1ZL,F,Y,L,"Priory House, 10",Apartment 6,Paternoster Row,,Ottery St Mary
+2021-11-09,196000,EX11 1BL,T,N,F,5,,Little Close,,Ottery St Mary
+2021-11-05,280000,EX11 1GT,F,Y,L,Otter Mill,Apartment 7,Tumbling Weir Way,,Ottery St Mary
+2021-11-04,575000,EX11 1XH,D,N,F,Dene,,Lower Broad Oak Road,West Hill,Ottery St Mary
+2021-11-04,580000,EX11 1SX,D,N,F,51,,Slade Close,,Ottery St Mary
+2021-11-04,435000,EX11 1NP,D,N,F,40,,Claremont Field,,Ottery St Mary
+2021-11-04,269950,EX11 1HR,T,N,F,53,,St Budeaux Close,,Ottery St Mary
+2021-11-03,375000,EX11 1GX,D,N,F,22,,Thorne Farm Way,,Ottery St Mary
+2021-11-02,160000,EX11 1GG,T,N,L,11,,Hayes End,West Hill,Ottery St Mary
+2021-11-01,153000,EX11 1EY,T,N,F,4,,Batts Lane,,Ottery St Mary
+2021-10-29,235000,EX11 1HD,T,N,F,29,,Yonder Street,,Ottery St Mary
+2021-10-29,325000,EX11 1DR,T,N,F,16,,North Street,,Ottery St Mary
+2021-10-29,320000,EX11 1AW,S,N,F,Lynton,,Winters Lane,,Ottery St Mary
+2021-10-27,1300000,EX11 1PJ,D,N,F,High Barn,,,,Ottery St Mary
+2021-10-22,872500,EX11 1PY,D,N,F,Ambleside House,,,Wiggaton,Ottery St Mary
+2021-10-20,220000,EX11 1AD,T,N,F,40,,Mill Street,,Ottery St Mary
+2021-10-15,285000,EX11 1XY,T,N,F,14,,Hillcrest,,Ottery St Mary
+2021-10-12,350000,EX11 1TR,S,N,F,Toad Hall Cottage,,Toadpit Lane,West Hill,Ottery St Mary
+2021-10-08,195000,EX11 1BE,T,N,F,15,,Tip Hill,,Ottery St Mary
+2021-10-08,352500,EX11 1AF,T,N,F,124,,Mill Street,,Ottery St Mary
+2021-10-06,730000,EX11 1XL,D,N,F,8,,Pinefields Close,West Hill,Ottery St Mary
+2021-09-30,300000,EX11 1ZL,F,Y,L,"Priory House, 10",Apartment 3,Paternoster Row,,Ottery St Mary
+2021-09-30,1001000,EX11 1XZ,D,N,F,7,,Heather Grange,West Hill,Ottery St Mary
+2021-09-30,625000,EX11 1XX,S,N,F,1,,High Bank,West Hill,Ottery St Mary
+2021-09-30,730000,EX11 1LE,D,N,F,The Firs,,Exeter Road,,Ottery St Mary
+2021-09-30,262500,EX11 1HD,T,N,F,7,,Yonder Street,,Ottery St Mary
+2021-09-30,252000,EX11 1EL,T,N,F,132,,Butts Road,,Ottery St Mary
+2021-09-30,590000,EX11 1DT,S,N,F,Summercourt,,Ridgeway,,Ottery St Mary
+2021-09-30,155000,EX11 1DG,F,N,L,Pendennis House,Flat 1,Gold Street,,Ottery St Mary
+2021-09-29,292500,EX11 1GT,F,Y,L,Otter Mill,Apartment 2,Tumbling Weir Way,,Ottery St Mary
+2021-09-29,330000,EX11 1GT,F,Y,L,Otter Mill,Apartment 1,Tumbling Weir Way,,Ottery St Mary
+2021-09-29,280000,EX11 1BQ,S,N,F,30,,Franklea Close,,Ottery St Mary
+2021-09-28,280000,EX11 1GT,F,Y,L,Otter Mill,Apartment 8,Tumbling Weir Way,,Ottery St Mary
+2021-09-27,610000,EX11 1UX,D,N,F,Westleas,,,West Hill,Ottery St Mary
+2021-09-27,340000,EX11 1FQ,S,N,F,1,,Pavey Run,,Ottery St Mary
+2021-09-27,260000,EX11 1EY,T,N,F,15,,Batts Lane,,Ottery St Mary
+2021-09-24,885000,EX11 1XG,D,N,F,Ash Hurst,,Hawkins Lane,West Hill,Ottery St Mary
+2021-09-24,190000,EX11 1BZ,F,N,L,8B,,Broad Street,,Ottery St Mary
+2021-09-24,375000,EX11 1BA,S,N,F,Tryfan,,Winters Lane,,Ottery St Mary
+2021-09-22,295000,EX11 1SY,S,N,F,70,,Slade Close,,Ottery St Mary
+2021-09-21,430000,EX11 1TH,D,N,F,8,,Higher Ridgeway,,Ottery St Mary
+2021-09-17,350000,EX11 1ZL,F,Y,L,"Priory House, 10",Apartment 1,Paternoster Row,,Ottery St Mary
+2021-09-17,185000,EX11 1GT,F,Y,L,Otter Mill,Apartment 16,Tumbling Weir Way,,Ottery St Mary
+2021-09-17,233000,EX11 1GQ,F,N,F,4,,Tumbling Weir Way,,Ottery St Mary
+2021-09-16,335000,EX11 1US,S,N,F,2,,The Crescent,,Ottery St Mary
+2021-09-15,219950,EX11 1GZ,T,N,F,1,,Elliot Close,,Ottery St Mary
+2021-09-15,510000,EX11 1FP,D,N,F,71,,Butts Road,,Ottery St Mary
+2021-09-06,538000,EX11 1SX,D,N,F,53,,Slade Close,,Ottery St Mary
+2021-09-06,430000,EX11 1NP,D,N,F,16,,Claremont Field,,Ottery St Mary
+2021-09-03,395000,EX11 1SY,S,N,F,6,,Slade Close,,Ottery St Mary
+2021-09-03,883000,EX11 1PY,D,N,F,Wych Elm,,,Wiggaton,Ottery St Mary
+2021-09-03,305000,EX11 1PD,D,N,F,1,,Patteson Close,Alfington,Ottery St Mary
+2021-09-03,205000,EX11 1HU,T,N,F,22,,Longdogs Lane,,Ottery St Mary
+2021-09-03,185000,EX11 1AP,S,N,F,21,,Mossop Close,,Ottery St Mary
+2021-08-31,530000,EX11 1HT,D,N,F,4A,,Orchard Close,,Ottery St Mary
+2021-08-25,300000,EX11 1GT,F,Y,L,Otter Mill,Apartment 20,Tumbling Weir Way,,Ottery St Mary
+2021-08-23,365000,EX11 1TG,D,N,F,9,,Raleigh Road,,Ottery St Mary
+2021-08-20,850000,EX11 1XX,D,N,F,"Campions, 17",,High Bank,West Hill,Ottery St Mary
+2021-08-20,452000,EX11 1UQ,D,N,F,1,,Beech Park,West Hill,Ottery St Mary
+2021-08-16,487500,EX11 1RZ,D,N,F,7,,Barton Mews,Venn Ottery,Ottery St Mary
+2021-08-13,660000,EX11 1PU,D,N,F,Orchard Lea,,,Wiggaton,Ottery St Mary
+2021-08-09,317000,EX11 1GP,F,N,L,Tumbling Weir Court,27,Tumbling Weir Way,,Ottery St Mary
+2021-08-06,331600,EX11 1GP,F,N,L,Tumbling Weir Court,28,Tumbling Weir Way,,Ottery St Mary
+2021-08-05,195000,EX11 1GT,F,Y,L,Otter Mill,Apartment 22,Tumbling Weir Way,,Ottery St Mary
+2021-08-04,155000,EX11 1HH,T,N,F,115,,Yonder Street,,Ottery St Mary
+2021-08-04,280000,EX11 1BW,T,N,F,Tar Cottage,,Hind Street,,Ottery St Mary
+2021-08-02,260000,EX11 1HS,S,N,F,10,,Homefield Close,,Ottery St Mary
+2021-08-02,165000,EX11 1AB,T,N,F,87,,Mill Street,,Ottery St Mary
+2021-07-30,460000,EX11 1HG,D,N,F,Apple Cottage,,Yonder Street,,Ottery St Mary
+2021-07-29,275000,EX11 1GX,T,N,F,15,,Thorne Farm Way,,Ottery St Mary
+2021-07-28,260000,EX11 1SX,T,N,F,7A,,Slade Close,,Ottery St Mary
+2021-07-28,214000,EX11 1DR,T,N,F,15,,North Street,,Ottery St Mary
+2021-07-27,185000,EX11 1GT,F,Y,L,Otter Mill,Apartment 6,Tumbling Weir Way,,Ottery St Mary
+2021-07-16,222500,EX11 1DX,T,N,F,20,,Ridgeway,,Ottery St Mary
+2021-07-16,375000,EX11 1BZ,F,N,F,"Old School House, 8C",,Broad Street,,Ottery St Mary
+2021-07-14,325000,EX11 1SZ,S,N,F,31,,Slade Close,,Ottery St Mary
+2021-07-12,250000,EX11 1HS,D,N,F,29,,Homefield Close,,Ottery St Mary
+2021-07-02,295000,EX11 1AF,F,Y,L,Corn Mill,4,Mill Street,,Ottery St Mary
+2021-06-30,866505,EX11 1XG,D,N,F,Birchwood,,Hawkins Lane,West Hill,Ottery St Mary
+2021-06-30,475000,EX11 1UQ,D,N,F,Calluna,,Beech Park,West Hill,Ottery St Mary
+2021-06-30,257500,EX11 1SY,S,N,F,100,,Slade Close,,Ottery St Mary
+2021-06-30,1000000,EX11 1NN,D,N,F,Higher Pitt,,,Coombelake,Ottery St Mary
+2021-06-30,550000,EX11 1GL,D,N,F,54,,Gerway Close,,Ottery St Mary
+2021-06-29,450000,EX11 1XE,D,N,F,Brooklands,,Ford Lane,West Hill,Ottery St Mary
+2021-06-29,725000,EX11 1UF,D,N,F,Longreach,,Lower Broad Oak Road,West Hill,Ottery St Mary
+2021-06-29,487500,EX11 1GB,D,N,F,16,,Henry Gardens,,Ottery St Mary
+2021-06-29,437000,EX11 1AF,T,Y,F,Corn Mill,2,Mill Street,,Ottery St Mary
+2021-06-28,886000,EX11 1UF,D,N,F,Watersmeet,,Lower Broad Oak Road,West Hill,Ottery St Mary
+2021-06-28,261000,EX11 1TG,S,N,F,46,,Raleigh Road,,Ottery St Mary
+2021-06-28,300000,EX11 1HS,D,N,F,28,,Homefield Close,,Ottery St Mary
+2021-06-25,385000,EX11 1UQ,D,N,F,3,,Beech Park,West Hill,Ottery St Mary
+2021-06-25,615000,EX11 1JU,D,N,F,Moorlands Orchard,,Lowena Lane,West Hill,Ottery St Mary
+2021-06-25,270000,EX11 1HW,S,N,F,25,,Higher Spring Gardens,,Ottery St Mary
+2021-06-25,650000,EX11 1HT,D,N,F,"Evergreen, 4",,Orchard Close,,Ottery St Mary
+2021-06-25,245000,EX11 1HE,S,N,F,Chineway,,Yonder Close,,Ottery St Mary
+2021-06-25,315000,EX11 1GR,T,N,F,6,,Albert Close,,Ottery St Mary
+2021-06-25,540059,EX11 1GL,D,N,F,5,,Gerway Close,,Ottery St Mary
+2021-06-25,303000,EX11 1AF,F,Y,L,Corn Mill,6,Mill Street,,Ottery St Mary
+2021-06-24,260000,EX11 1TF,S,N,F,7,,Kennaway Road,,Ottery St Mary
+2021-06-24,575000,EX11 1RX,D,N,F,Sunnyside,,,Venn Ottery,Ottery St Mary
+2021-06-24,600000,EX11 1FR,D,N,F,4,,Oak Tree Gardens,West Hill,Ottery St Mary
+2021-06-23,910000,EX11 1XZ,D,N,F,15,,Heather Grange,West Hill,Ottery St Mary
+2021-06-23,780000,EX11 1TW,D,N,F,9,,Ashley Brake,West Hill,Ottery St Mary
+2021-06-22,386500,EX11 1TA,S,N,F,1,,Kings Avenue,,Ottery St Mary
+2021-06-18,485000,EX11 1UH,D,N,F,9,,Beech Park,West Hill,Ottery St Mary
+2021-06-18,455000,EX11 1GL,D,N,F,30,,Gerway Close,,Ottery St Mary
+2021-06-18,295000,EX11 1BQ,T,N,F,28,,Franklea Close,,Ottery St Mary
+2021-06-16,820000,EX11 1UY,D,N,F,Ridge House,,,West Hill,Ottery St Mary
+2021-06-16,565000,EX11 1JP,S,N,F,The Old Stable,,Windmill Lane,West Hill,Ottery St Mary
+2021-06-15,200000,EX11 1EG,S,N,F,78,,Sandhill Street,,Ottery St Mary
+2021-06-15,212500,EX11 1AB,T,N,F,65,,Mill Street,,Ottery St Mary
+2021-06-14,860000,EX11 1XH,D,N,F,Birchbank Cottage,,Lower Broad Oak Road,West Hill,Ottery St Mary
+2021-06-14,825000,EX11 1SE,D,N,F,Old Southerton House,,,Southerton,Ottery St Mary
+2021-06-11,222000,EX11 1DU,T,N,F,26,,Ridgeway Gardens,,Ottery St Mary
+2021-06-10,250000,EX11 1ZL,F,Y,L,"Priory House, 10",Apartment 2,Paternoster Row,,Ottery St Mary
+2021-06-09,256000,EX11 1GZ,S,N,F,8,,Elliot Close,,Ottery St Mary
+2021-06-08,235000,EX11 1DB,T,N,F,11B,,Silver Street,,Ottery St Mary
+2021-06-07,425000,EX11 1RP,S,N,F,5,,Claremont Field,,Ottery St Mary
+2021-06-04,340000,EX11 1TY,T,N,F,Lyndale,,West Hill Road,West Hill,Ottery St Mary
+2021-06-04,227000,EX11 1HR,S,N,F,47,,St Budeaux Close,,Ottery St Mary
+2021-06-04,185000,EX11 1EG,T,N,F,70,,Sandhill Street,,Ottery St Mary
+2021-05-28,235000,EX11 1XT,T,N,F,5,,Mill Stream Court,,Ottery St Mary
+2021-05-28,681000,EX11 1TY,D,N,F,Chaffcombe Lodge,,West Hill Road,West Hill,Ottery St Mary
+2021-05-28,154000,EX11 1HD,T,N,F,28,,Yonder Street,,Ottery St Mary
+2021-05-28,140000,EX11 1EY,T,N,F,2,,Batts Lane,,Ottery St Mary
+2021-05-27,623750,EX11 1TN,D,N,F,14,,Warren Park,West Hill,Ottery St Mary
+2021-05-25,1200000,EX11 1UX,D,N,F,Oak Croft,,,West Hill,Ottery St Mary
+2021-05-21,418000,EX11 1GQ,T,N,F,20,,Tumbling Weir Way,,Ottery St Mary
+2021-05-20,735000,EX11 1QD,D,N,F,Little Waxway,,,,Ottery St Mary
+2021-05-19,875000,EX11 1XH,D,N,F,Newlands,,Lower Broad Oak Road,West Hill,Ottery St Mary
+2021-05-18,180000,EX11 1DR,T,N,F,34,,North Street,,Ottery St Mary
+2021-05-14,1315000,EX11 1XP,D,N,F,4,,Birch Grove,West Hill,Ottery St Mary
+2021-05-14,700000,EX11 1XH,D,N,F,Knapp Cottage,,Lower Broad Oak Road,West Hill,Ottery St Mary
+2021-05-14,290000,EX11 1HR,S,N,F,31,,St Budeaux Close,,Ottery St Mary
+2021-05-14,255000,EX11 1FY,S,N,F,14,,Richard Close,,Ottery St Mary
+2021-05-13,570000,EX11 1UF,D,N,F,Timbers,,Lower Broad Oak Road,West Hill,Ottery St Mary
+2021-05-07,197000,EX11 1YB,T,N,F,21,,Windrush Rise,,Ottery St Mary
+2021-05-07,285000,EX11 1FQ,S,N,F,20,,Pavey Run,,Ottery St Mary
+2021-05-07,147000,EX11 1DR,T,N,F,37,,North Street,,Ottery St Mary
+2021-05-07,230000,EX11 1AP,T,N,F,13,,Mossop Close,,Ottery St Mary
+2021-05-07,257000,EX11 1AD,T,N,F,52,,Mill Street,,Ottery St Mary
+2021-05-04,167000,EX11 1EG,T,N,F,59,,Sandhill Street,,Ottery St Mary
+2021-04-30,250000,EX11 1HQ,S,N,F,1,,Chapel Lane,,Ottery St Mary
+2021-04-30,207750,EX11 1GQ,T,N,F,5,,Tumbling Weir Way,,Ottery St Mary
+2021-04-30,390000,EX11 1GQ,F,N,F,1,,Tumbling Weir Way,,Ottery St Mary
+2021-04-30,349000,EX11 1GP,F,N,L,Tumbling Weir Court,23,Tumbling Weir Way,,Ottery St Mary
+2021-04-26,650000,EX11 1XX,D,N,F,18,,High Bank,West Hill,Ottery St Mary
+2021-04-23,154500,EX11 1HH,T,N,F,111,,Yonder Street,,Ottery St Mary
+2021-04-23,333000,EX11 1GX,D,N,F,16,,Thorne Farm Way,,Ottery St Mary
+2021-04-23,165000,EX11 1EF,S,N,F,"The Old Manor Cottage, 1",,Sandhill Street,,Ottery St Mary
+2021-04-23,230000,EX11 1DZ,T,N,F,2,,Sunnyhill,,Ottery St Mary
+2021-04-21,194500,EX11 1AF,T,N,F,110,,Mill Street,,Ottery St Mary
+2021-04-16,255000,EX11 1ZL,F,Y,L,"Priory House, 10",Apartment 5,Paternoster Row,,Ottery St Mary
+2021-04-16,327000,EX11 1BQ,S,N,F,18,,Franklea Close,,Ottery St Mary
+2021-04-16,430000,EX11 1BB,D,N,F,29,,Oak Close,,Ottery St Mary
+2021-04-12,155000,EX11 1AB,T,N,F,25,,Mill Street,,Ottery St Mary
+2021-04-09,175000,EX11 1DT,T,N,F,17A,,Ridgeway,,Ottery St Mary
+2021-04-08,715000,EX11 1FB,D,N,F,1,,Katherines Lane,,Ottery St Mary
+2021-04-01,250000,EX11 1DU,S,N,F,16,,Ridgeway Gardens,,Ottery St Mary
+2021-03-29,340000,EX11 1TF,D,N,F,11,,Kennaway Road,,Ottery St Mary
+2021-03-26,250000,EX11 1TG,S,N,F,52,,Raleigh Road,,Ottery St Mary
+2021-03-25,520000,EX11 1SR,D,N,F,Higher Metcombe Cottage,,,Higher Metcombe,Ottery St Mary
+2021-03-24,1022500,EX11 1QN,D,N,F,Slade Farm,,Slade Road,,Ottery St Mary
+2021-03-22,820000,EX11 1XX,D,N,F,5,,High Bank,West Hill,Ottery St Mary
+2021-03-18,335000,EX11 1FQ,S,Y,F,36,,Pavey Run,,Ottery St Mary
+2021-03-17,210000,EX11 1YA,D,N,F,11,,Riverside View,,Ottery St Mary
+2021-03-16,400000,EX11 1NS,D,N,F,Woodcote Farm,,,,Ottery St Mary
+2021-03-15,865000,EX11 1SF,D,N,F,Fairlea,,,Southerton,Ottery St Mary
+2021-03-15,345000,EX11 1JA,D,N,F,10,,St Marys Park,,Ottery St Mary
+2021-03-15,480000,EX11 1GH,D,N,F,6,,Alfred Court,,Ottery St Mary
+2021-03-12,690000,EX11 1XE,D,N,F,Owls Roost,,Ford Lane,West Hill,Ottery St Mary
+2021-03-12,180000,EX11 1XA,F,N,L,Perrys Manor,Flat 1,Perrys Gardens,West Hill,Ottery St Mary
+2021-03-12,725000,EX11 1SE,T,N,F,Badgers Hill,,,Southerton,Ottery St Mary
+2021-03-12,390000,EX11 1PJ,T,N,F,Ware Farm Cottage,,,,Ottery St Mary
+2021-03-11,283000,EX11 1ZL,F,N,L,"Priory House, 10",Apartment 4,Paternoster Row,,Ottery St Mary
+2021-03-11,412000,EX11 1GA,D,N,F,2,,Hollis Close,,Ottery St Mary
+2021-03-10,665000,EX11 1UF,D,N,F,Hawkswood,,Lower Broad Oak Road,West Hill,Ottery St Mary
+2021-03-08,910000,EX11 1XF,D,N,F,Wyndham,,Higher Broad Oak Road,West Hill,Ottery St Mary
+2021-03-08,893000,EX11 1UZ,D,N,F,Amberley House,,West Hill Road,West Hill,Ottery St Mary
+2021-03-08,241000,EX11 1GB,S,N,F,13,,Henry Gardens,,Ottery St Mary
+2021-03-05,625000,EX11 1UW,D,N,F,Shepherds Cottage,,Bendarroch Road,West Hill,Ottery St Mary
+2021-03-05,585000,EX11 1TR,D,N,F,Orchard Corner,,Toadpit Lane,West Hill,Ottery St Mary
+2021-03-05,454000,EX11 1FN,D,N,F,6,,Fairfax Way,,Ottery St Mary
+2021-03-04,480000,EX11 1UJ,D,N,F,17,,Beech Park,West Hill,Ottery St Mary
+2021-03-03,695000,EX11 1XB,D,N,F,8,,Warren Close,West Hill,Ottery St Mary
+2021-03-02,285000,EX11 1SX,S,N,F,47,,Slade Close,,Ottery St Mary
+2021-02-26,625000,EX11 1XP,D,N,F,7,,Birch Grove,West Hill,Ottery St Mary
+2021-02-26,190000,EX11 1HD,T,N,F,33,,Yonder Street,,Ottery St Mary
+2021-02-25,520000,EX11 1QB,D,N,F,White Cross,Tobago Lodge,,East Hill,Ottery St Mary
+2021-02-25,230000,EX11 1HH,T,N,F,94 - 96,,Yonder Street,,Ottery St Mary
+2021-02-25,162500,EX11 1DB,F,N,L,11,Flat 1,Silver Street,,Ottery St Mary
+2021-02-24,540000,EX11 1PH,D,N,F,Lyndale,,Holcombe Lane,,Ottery St Mary
+2021-02-23,215000,EX11 1BQ,S,N,F,11,,Franklea Close,,Ottery St Mary
+2021-02-19,433000,EX11 1TN,D,N,F,7,,Warren Park,West Hill,Ottery St Mary
+2021-02-19,305000,EX11 1GR,T,N,F,4,,Albert Close,,Ottery St Mary
+2021-02-19,165000,EX11 1BE,T,N,F,8,,Tip Hill,,Ottery St Mary
+2021-02-17,415000,EX11 1NP,D,N,F,70,,Claremont Field,,Ottery St Mary
+2021-02-15,228000,EX11 1YA,S,N,F,18,,Riverside View,,Ottery St Mary
+2021-02-11,300000,EX11 1RW,S,N,F,8,,Tipton Vale,Metcombe,Ottery St Mary
+2021-02-03,840000,EX11 1PH,D,N,F,Wild Oak Barn,,Holcombe Lane,,Ottery St Mary
+2021-01-29,240000,EX11 1GX,S,N,F,5,,Thorne Farm Way,,Ottery St Mary
+2021-01-29,220000,EX11 1GJ,D,Y,F,8,,William Close,,Ottery St Mary
+2021-01-29,220000,EX11 1BQ,T,N,F,5,,Franklea Close,,Ottery St Mary
+2021-01-28,367500,EX11 1AF,T,N,F,"Colby House, 100",,Mill Street,,Ottery St Mary
+2021-01-25,850000,EX11 1XN,D,N,F,25,,Eastfield,West Hill,Ottery St Mary
+2021-01-25,317500,EX11 1FQ,D,N,F,24,,Pavey Run,,Ottery St Mary
+2021-01-25,333500,EX11 1EP,D,N,F,4,,Washbrook View,,Ottery St Mary
+2021-01-20,142000,EX11 1NG,T,N,F,Coombelake Cottages,4,,Coombelake,Ottery St Mary
+2021-01-15,1120000,EX11 1UW,D,N,F,Maybury,,Bendarroch Road,West Hill,Ottery St Mary
+2021-01-15,557000,EX11 1TP,D,N,F,Colthouse,,West Hill Road,West Hill,Ottery St Mary
+2021-01-14,765000,EX11 1XP,D,N,F,6,,Birch Grove,West Hill,Ottery St Mary
+2021-01-14,510000,EX11 1FQ,D,Y,F,43,,Pavey Run,,Ottery St Mary

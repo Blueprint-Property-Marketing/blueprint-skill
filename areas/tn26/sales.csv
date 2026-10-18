@@ -1,0 +1,862 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-28,615000,TN26 3SL,D,N,F,139,,Front Road,Woodchurch,Ashford
+2026-08-14,480050,TN26 2JG,D,N,F,15,,Lancaster Close,Hamstreet,Ashford
+2026-08-11,444000,TN26 3QQ,T,N,F,8,,Hylands Cottages,Woodchurch,Ashford
+2026-08-07,465000,TN26 2JG,D,N,F,104,,Lancaster Close,Hamstreet,Ashford
+2026-07-31,260000,TN26 3SW,S,N,F,37,,Brattle,Woodchurch,Ashford
+2026-07-31,350000,TN26 2HZ,S,N,F,30,,Willow Drive,Hamstreet,Ashford
+2026-07-29,225000,TN26 1NL,D,N,F,Milford,,Hamstreet Road,Shadoxhurst,Ashford
+2026-07-17,530000,TN26 1ND,D,N,F,9,,The Willows,Shadoxhurst,Ashford
+2026-07-10,249300,TN26 3NA,S,N,F,1,,The Laurels,High Halden,Ashford
+2026-07-09,850000,TN26 1LS,D,N,F,Green Farm Cottage,,Church Lane,Shadoxhurst,Ashford
+2026-07-02,580000,TN26 3AY,D,N,F,12,,Lovelace Court,Bethersden,Ashford
+2026-06-26,560000,TN26 1LZ,D,N,F,The Retreat,,Nickley Wood,Shadoxhurst,Ashford
+2026-06-25,630000,TN26 2JG,D,N,F,42,,Lancaster Close,Hamstreet,Ashford
+2026-06-19,675000,TN26 2JE,D,N,F,Six Jaiz,,Marsh Road,Hamstreet,Ashford
+2026-06-19,327500,TN26 2HJ,S,N,F,19,,Bournewood,Hamstreet,Ashford
+2026-06-19,555000,TN26 2EA,S,N,F,The School House,,,Hamstreet,Ashford
+2026-06-12,350000,TN26 3QX,D,N,F,16,,Cherry Orchard,Woodchurch,Ashford
+2026-06-03,380000,TN26 1AL,S,N,F,Tutt Hill Cottages,8,Westwell Lane,Hothfield,Ashford
+2026-05-29,1225000,TN26 2BJ,D,N,F,Sunset Lodge,,,Appledore,Ashford
+2026-05-29,850000,TN26 2BJ,D,N,F,Lavender Farm,,,Appledore,Ashford
+2026-05-29,295000,TN26 2AT,S,N,F,26,,Heathside,Appledore,Ashford
+2026-05-29,330000,TN26 1EH,T,N,F,4,,Thanet Terrace,Hothfield,Ashford
+2026-05-27,555000,TN26 1NH,S,N,F,Sticketts Cottage,1,Steeds Lane,Kingsnorth,Ashford
+2026-05-27,675000,TN26 1LE,D,N,F,Sheenam,,Woodchurch Road,Shadoxhurst,Ashford
+2026-05-22,860000,TN26 3QR,D,N,F,Oak Tree Cottage,,Redbrook Street,Woodchurch,Ashford
+2026-05-21,500000,TN26 3AH,S,N,F,Brushwood Villa,,School Road,Bethersden,Ashford
+2026-05-12,563508,TN26 2DE,D,N,F,Rheewall Cottage,,Station Road,Appledore,Ashford
+2026-04-27,333000,TN26 1LS,D,N,F,Quince Cottage,,Church Lane,Shadoxhurst,Ashford
+2026-04-24,640000,TN26 1HW,D,N,F,89,,Tally Ho Road,Shadoxhurst,Ashford
+2026-04-17,272500,TN26 3AQ,S,N,F,Willow House,2,Church Hill,Bethersden,Ashford
+2026-04-15,512500,TN26 3SL,S,N,F,Stonebridge Cottages,2,Front Road,Woodchurch,Ashford
+2026-03-20,680000,TN26 2NE,S,N,F,2,,Woodlands,Kenardington,Ashford
+2026-03-19,515000,TN26 3SA,S,N,F,67,,Front Road,Woodchurch,Ashford
+2026-03-06,420000,TN26 3SE,D,N,F,14,,Kirkwood Avenue,Woodchurch,Ashford
+2026-03-06,354000,TN26 2HJ,D,N,F,13,,Bournewood,Hamstreet,Ashford
+2026-03-06,275000,TN26 1LS,T,N,F,13,,Church Lane,Shadoxhurst,Ashford
+2026-03-05,120000,TN26 3AG,T,N,L,Dragon House,,The Street,Bethersden,Ashford
+2026-02-27,388000,TN26 3LX,D,N,F,2,,Millfield,High Halden,Ashford
+2026-02-23,565000,TN26 2FE,D,N,F,4,,Waylett Crescent,Warehorne,Ashford
+2026-02-20,890000,TN26 3NA,D,N,F,Verrall Cottage,,,High Halden,Ashford
+2026-02-18,260000,TN26 2AF,S,N,F,61,,The Street,Appledore,Ashford
+2026-01-30,400000,TN26 2DX,D,N,F,3,,St Marys Close,Hamstreet,Ashford
+2026-01-30,600000,TN26 1LD,D,N,F,11,,Park Farm Close,Shadoxhurst,Ashford
+2026-01-29,375000,TN26 2LB,T,N,F,15,,Orlestone View,Hamstreet,Ashford
+2026-01-26,677250,TN26 1NQ,D,N,F,Elm Bungalow,,Steeds Lane,Kingsnorth,Ashford
+2026-01-23,335000,TN26 2NB,S,N,F,1,,The Wish,Kenardington,Ashford
+2026-01-21,400000,TN26 1LW,D,N,F,Little Rustic,,Woodchurch Road,Shadoxhurst,Ashford
+2026-01-16,500000,TN26 2HP,D,N,F,Oak Cottage,,Ruckinge Road,Hamstreet,Ashford
+2026-01-09,405000,TN26 2NZ,D,N,F,Lowveld,,Marsh Road,Ruckinge,Ashford
+2026-01-07,995000,TN26 3QS,D,N,F,Shamwari,,Redbrook Street,Woodchurch,Ashford
+2026-01-07,382499,TN26 3BH,S,N,F,13,,Bishop Close,High Halden,Ashford
+2026-01-06,400000,TN26 2NW,D,N,F,Bankside,,Ruckinge Road,Hamstreet,Ashford
+2026-01-06,450000,TN26 2JG,T,N,F,53,,Lancaster Close,Hamstreet,Ashford
+2026-01-06,565000,TN26 1HT,D,N,F,Bramley Cottage,,Hornash Lane,Shadoxhurst,Ashford
+2025-12-18,405000,TN26 2NX,S,N,F,10,,Ransley Green,Ruckinge,Ashford
+2025-12-18,335000,TN26 2EZ,S,N,F,29,,Bank Side,Hamstreet,Ashford
+2025-12-17,320000,TN26 2QW,T,N,F,2,,Olivia Cottage,Hamstreet,Ashford
+2025-12-17,615000,TN26 2DX,D,N,F,10,,St Marys Close,Hamstreet,Ashford
+2025-12-16,510000,TN26 2LB,D,N,F,20,,Orlestone View,Hamstreet,Ashford
+2025-12-15,420000,TN26 1LG,S,N,F,7,,Moreton Terrace,Shadoxhurst,Ashford
+2025-12-12,400000,TN26 1NF,D,N,F,3,,Steeds Close,Kingsnorth,Ashford
+2025-12-05,545000,TN26 2NW,D,N,F,Anglesden,,Ruckinge Road,Hamstreet,Ashford
+2025-12-05,530000,TN26 1NN,D,N,F,Grey Cottage,,Hamstreet Road,Shadoxhurst,Ashford
+2025-11-28,775000,TN26 1NN,D,N,F,Barn Vue,,Hamstreet Road,Shadoxhurst,Ashford
+2025-11-28,675000,TN26 1HW,D,N,F,79,,Tally Ho Road,Shadoxhurst,Ashford
+2025-11-25,365000,TN26 2QW,T,N,F,1,,Olivia Cottage,Hamstreet,Ashford
+2025-11-20,345000,TN26 3BL,S,N,F,12,,Forgefield,Bethersden,Ashford
+2025-11-19,420000,TN26 1HW,D,N,F,93,,Tally Ho Road,Shadoxhurst,Ashford
+2025-11-18,1100000,TN26 3PW,D,N,F,Keepers End,,Shadoxhurst Road,Woodchurch,Ashford
+2025-11-14,335000,TN26 3LY,D,N,F,White Beams,,Ashford Road,High Halden,Ashford
+2025-11-07,545000,TN26 2BB,D,N,F,Wycham,,,Appledore,Ashford
+2025-11-05,700000,TN26 2BD,D,N,F,The Willows,,Woodchurch Road,Appledore,Ashford
+2025-11-03,475000,TN26 3ER,S,N,F,22,,Halden Close,High Halden,Ashford
+2025-10-31,1075000,TN26 2NS,D,N,F,The Grange,,,Ruckinge,Ashford
+2025-10-31,690000,TN26 1NF,D,N,F,2,,Steeds Close,Kingsnorth,Ashford
+2025-10-31,525000,TN26 1HL,D,N,F,71,,Tally Ho Road,Stubbs Cross,Ashford
+2025-10-30,770000,TN26 3LU,D,N,F,Churchfield House,,,High Halden,Ashford
+2025-10-27,430000,TN26 3LL,S,N,F,3,,Hillfield Villas,High Halden,Ashford
+2025-10-24,499000,TN26 2NT,D,N,F,Canal Farm Bungalow,,,Ruckinge,Ashford
+2025-10-23,650000,TN26 3SS,D,N,F,Glover Farm,,Moor Lane,Woodchurch,Ashford
+2025-10-21,272500,TN26 1LQ,T,N,F,2,,Mace Terrace,Shadoxhurst,Ashford
+2025-10-16,775000,TN26 3SX,D,N,F,Orange Farm Barn,,Brook Street,Woodchurch,Ashford
+2025-10-13,710000,TN26 1AH,S,N,F,Tutt Hill Farm House,,Westwell Lane,Hothfield,Ashford
+2025-10-10,635000,TN26 3QS,D,N,F,Redbrook Cottage,,Redbrook Street,Woodchurch,Ashford
+2025-10-09,493500,TN26 2BB,S,N,F,1,,Heath Villas,Appledore,Ashford
+2025-10-08,840000,TN26 3EB,D,N,F,4,,St Margarets Place,Bethersden,Ashford
+2025-10-07,215000,TN26 1NA,T,N,F,14,,Nairne Close,Shadoxhurst,Ashford
+2025-10-06,365000,TN26 3LR,S,N,F,30,,Tilden Close,High Halden,Ashford
+2025-10-03,330000,TN26 2HJ,S,N,F,14,,Bournewood,Hamstreet,Ashford
+2025-10-03,675000,TN26 1JA,D,N,F,Oaklands,,Westwell Lane,,Ashford
+2025-10-02,550000,TN26 2JG,D,N,F,86,,Lancaster Close,Hamstreet,Ashford
+2025-09-29,500000,TN26 3BG,S,N,F,The Granary,,Ashford Road,Bethersden,Ashford
+2025-09-26,425000,TN26 3TG,D,N,F,7,,Appledore Road,Woodchurch,Ashford
+2025-09-26,644000,TN26 3FE,D,Y,F,9,,Wildflower Grove,High Halden,Ashford
+2025-09-26,500000,TN26 1HG,D,N,F,Westleigh,,Magpie Hall Road,Stubbs Cross,Ashford
+2025-09-25,985000,TN26 3QG,D,N,F,The Chapel,,,Woodchurch,Ashford
+2025-09-24,590000,TN26 2LH,D,N,F,Barnfield,,,Warehorne,Ashford
+2025-09-22,565000,TN26 2NA,D,N,F,The Old Post House,,Appledore Road,Kenardington,Ashford
+2025-09-19,545000,TN26 3NF,S,N,F,23,,Hookstead,High Halden,Ashford
+2025-09-18,300000,TN26 2JB,S,N,F,8,,Romney Road,Hamstreet,Ashford
+2025-09-15,305000,TN26 2AU,T,N,F,4,,Victoria Terrace,Appledore,Ashford
+2025-09-12,290000,TN26 3SH,T,N,F,103,,Front Road,Woodchurch,Ashford
+2025-09-12,645000,TN26 3HE,D,N,F,Blackberry House,,Bethersden Road,Bethersden,Ashford
+2025-09-05,780000,TN26 3FE,D,Y,F,1,,Wildflower Grove,High Halden,Ashford
+2025-09-05,269000,TN26 2HE,T,N,F,West View,3,The Street,Hamstreet,Ashford
+2025-08-28,857000,TN26 2BH,D,N,F,Moor Lane Barn,,Moor Lane,Appledore,Ashford
+2025-08-27,765000,TN26 2NF,D,N,F,Little Heronden,,,Kenardington,Ashford
+2025-08-22,270000,TN26 3AU,S,N,F,Cypress,,Ashford Road,Bethersden,Ashford
+2025-08-22,622500,TN26 2EG,D,N,F,Woodstock,,Bromley Green Road,Ruckinge,Ashford
+2025-08-20,550000,TN26 1AH,S,N,F,Gothic Cottages,Elm Cottage 5,Westwell Lane,Hothfield,Ashford
+2025-08-15,315000,TN26 3SA,T,N,F,43,,Front Road,Woodchurch,Ashford
+2025-08-15,685000,TN26 3NG,D,N,F,1,,Little Robhurst,High Halden,Ashford
+2025-08-13,500000,TN26 1NH,D,N,F,Sticketts Cottage,2,Steeds Lane,Kingsnorth,Ashford
+2025-08-04,825000,TN26 2LL,D,N,F,The Old Post Office,,,Warehorne,Ashford
+2025-08-01,415000,TN26 2FA,D,N,F,6,,Brimstone Road,Hamstreet,Ashford
+2025-07-25,315000,TN26 2EZ,T,N,F,22,,Bank Side,Hamstreet,Ashford
+2025-07-22,1050000,TN26 1HU,D,N,F,Haywain House,,Hornash Lane,Shadoxhurst,Ashford
+2025-07-21,372000,TN26 3QD,S,N,F,2,,Rectory Close,Woodchurch,Ashford
+2025-07-18,416500,TN26 2LB,D,N,F,23,,Orlestone View,Hamstreet,Ashford
+2025-07-17,290000,TN26 3ND,T,N,F,29,,Hopes Grove,High Halden,Ashford
+2025-07-16,589995,TN26 2FA,D,N,F,4,,Brimstone Road,Hamstreet,Ashford
+2025-07-15,540000,TN26 1EJ,S,N,F,10,,The Street,Hothfield,Ashford
+2025-07-14,410000,TN26 2BU,S,N,F,3,,The Street,Appledore,Ashford
+2025-07-14,615000,TN26 2AF,D,N,F,Seymour House,,The Street,Appledore,Ashford
+2025-07-11,255000,TN26 3QN,S,N,F,12,,Mill View,Woodchurch,Ashford
+2025-07-10,780000,TN26 3FE,D,Y,F,12,,Wildflower Grove,High Halden,Ashford
+2025-07-10,240000,TN26 3DT,D,N,F,Paris House,,,Bethersden,Ashford
+2025-07-07,500000,TN26 3SG,D,N,F,57,,Lower Road,Woodchurch,Ashford
+2025-07-04,738000,TN26 3JQ,D,N,F,Hales Place Granary,,,High Halden,Ashford
+2025-07-04,595000,TN26 2BD,T,N,F,4,,Donkey Lane,Appledore,Ashford
+2025-07-04,525000,TN26 1AS,S,N,F,8,,Oak View,Shadoxhurst,Ashford
+2025-07-01,670000,TN26 3AE,S,N,F,Jasmine House,,The Street,Bethersden,Ashford
+2025-07-01,830000,TN26 3AD,D,N,F,Romney House,,The Street,Bethersden,Ashford
+2025-06-27,343000,TN26 2JG,T,N,F,51,,Lancaster Close,Hamstreet,Ashford
+2025-06-27,315000,TN26 2HX,S,N,F,13,,Village Way,Hamstreet,Ashford
+2025-06-27,330000,TN26 1HT,S,N,F,32,,Hornash Lane,Shadoxhurst,Ashford
+2025-06-25,665000,TN26 3FE,D,Y,F,2,,Wildflower Grove,High Halden,Ashford
+2025-06-24,760500,TN26 3FE,D,Y,F,14,,Wildflower Grove,High Halden,Ashford
+2025-06-23,480000,TN26 3NF,D,N,F,29,,Hookstead,High Halden,Ashford
+2025-06-20,500000,TN26 3QR,D,N,F,High Hopes,,Redbrook Street,Woodchurch,Ashford
+2025-06-20,450000,TN26 3NB,T,N,F,20,,The Chennells,High Halden,Ashford
+2025-06-19,690000,TN26 3SF,D,N,F,130A,,Front Road,Woodchurch,Ashford
+2025-06-18,300000,TN26 2EA,T,N,F,3,,Stumble Trees Cottages,Hamstreet,Ashford
+2025-06-12,760000,TN26 3FE,D,Y,F,3,,Wildflower Grove,High Halden,Ashford
+2025-06-05,850000,TN26 3QD,D,N,F,15,,Rectory Close,Woodchurch,Ashford
+2025-06-05,925000,TN26 2EG,D,N,F,Oakdene,,Bromley Green Road,Ruckinge,Ashford
+2025-06-04,560000,TN26 2FB,D,Y,F,47,,White Admiral Way,Hamstreet,Ashford
+2025-06-03,800000,TN26 2AE,D,N,F,78,,The Street,Appledore,Ashford
+2025-06-02,235000,TN26 2HJ,S,N,F,19,,Bournewood,Hamstreet,Ashford
+2025-05-30,661000,TN26 1HY,D,N,F,Oak Tree House,,Hornash Lane,Shadoxhurst,Ashford
+2025-05-27,915000,TN26 3QW,D,N,F,The Mill House,,,Woodchurch,Ashford
+2025-05-20,285000,TN26 2HY,S,N,F,1,,Willow Drive,Hamstreet,Ashford
+2025-05-16,295000,TN26 1ET,T,N,F,8,,West Street,Hothfield,Ashford
+2025-05-14,835000,TN26 2EQ,D,N,F,Littlehaven,,Bromley Green Road,Ruckinge,Ashford
+2025-05-02,375000,TN26 3SA,S,N,F,73,,Front Road,Woodchurch,Ashford
+2025-05-01,1370000,TN26 3BS,D,N,F,Pyrus House,,,High Halden,Ashford
+2025-04-30,1250000,TN26 3HN,D,N,F,The Paddock,,Harris Lane,High Halden,Ashford
+2025-04-30,207500,TN26 1LS,S,N,F,1,,St Peters Way,Shadoxhurst,Ashford
+2025-04-25,590000,TN26 2PD,S,N,F,Rose Cottage,,Bilsington Road,Ruckinge,Ashford
+2025-04-25,293500,TN26 2NB,T,N,F,18,,The Wish,Kenardington,Ashford
+2025-04-23,467500,TN26 3NF,D,N,F,28,,Hookstead,High Halden,Ashford
+2025-04-23,975000,TN26 1HN,D,N,F,Blindgrooms Farm,,Blindgrooms Lane,Shadoxhurst,Ashford
+2025-04-03,672995,TN26 2FB,D,Y,F,4,,White Admiral Way,Hamstreet,Ashford
+2025-03-31,314500,TN26 3HN,D,N,F,Beulah Cottages,1,Harris Lane,High Halden,Ashford
+2025-03-31,145000,TN26 2AL,T,N,F,3,,West End Cottages,Appledore,Ashford
+2025-03-31,315000,TN26 2AF,T,N,F,59,,The Street,Appledore,Ashford
+2025-03-31,600000,TN26 1NQ,D,N,F,Hengistbury,,Steeds Lane,Kingsnorth,Ashford
+2025-03-28,260000,TN26 3BE,T,N,F,Brissenden Court,Stable Cottage,,Bethersden,Ashford
+2025-03-28,300000,TN26 2JB,S,N,F,12,,Romney Road,Hamstreet,Ashford
+2025-03-28,380000,TN26 2AX,S,N,F,Griffen Cottages,4,The Heath,Appledore,Ashford
+2025-03-28,340000,TN26 1HP,D,N,F,11,,Lone Field,Shadoxhurst,Ashford
+2025-03-26,1050000,TN26 3HT,D,N,F,Ottoman House,,,High Halden,Ashford
+2025-03-26,720000,TN26 3BQ,D,N,F,Burnt Oak Farmhouse,,Ashford Road,Bethersden,Ashford
+2025-03-24,625000,TN26 3BG,D,N,F,The Old Dairy,,Ashford Road,Bethersden,Ashford
+2025-03-24,585000,TN26 3BD,D,N,F,Holmlea,,Ashford Road,Bethersden,Ashford
+2025-03-24,445000,TN26 1HT,S,N,F,Rosalie,,Hornash Lane,Shadoxhurst,Ashford
+2025-03-21,540000,TN26 2JG,D,N,F,54,,Lancaster Close,Hamstreet,Ashford
+2025-03-19,328800,TN26 2HJ,S,N,F,27,,Bournewood,Hamstreet,Ashford
+2025-03-14,300000,TN26 3NQ,S,N,F,Robyn Cottages,6,Ashford Road,High Halden,Ashford
+2025-03-13,437500,TN26 2JW,T,N,F,1,,Sunnyside,Hamstreet,Ashford
+2025-03-12,385000,TN26 1HP,S,N,F,5,,Lone Field,Shadoxhurst,Ashford
+2025-03-11,630000,TN26 3NF,D,N,F,27,,Hookstead,High Halden,Ashford
+2025-03-06,560000,TN26 3BP,D,N,F,Warm Oak,,,High Halden,Ashford
+2025-02-28,475500,TN26 3FE,S,Y,F,7,,Wildflower Grove,High Halden,Ashford
+2025-02-27,275000,TN26 2HE,S,N,F,Quince Cottage,,The Street,Hamstreet,Ashford
+2025-02-20,550000,TN26 2JG,D,N,F,18,,Lancaster Close,Hamstreet,Ashford
+2025-02-20,480000,TN26 2FA,D,N,F,2,,Brimstone Road,Hamstreet,Ashford
+2025-02-17,670000,TN26 1EN,S,N,F,Alder Cottage,4,,Hothfield,Ashford
+2025-02-14,612000,TN26 2PQ,D,N,F,Gorse Lodge,,Poundhurst Road,Ruckinge,Ashford
+2025-02-10,372000,TN26 3LT,S,N,F,4,,Greenside,High Halden,Ashford
+2025-02-03,340000,TN26 2LB,T,N,F,2,,Orlestone View,Hamstreet,Ashford
+2025-02-03,592000,TN26 2JG,D,N,F,38,,Lancaster Close,Hamstreet,Ashford
+2025-02-03,475000,TN26 2AE,S,N,F,94,,The Street,Appledore,Ashford
+2025-01-31,750000,TN26 3SR,D,N,F,Cruttenden Farmhouse,,Brook Street,Woodchurch,Ashford
+2025-01-31,650000,TN26 3SG,D,N,F,59,,Lower Road,Woodchurch,Ashford
+2025-01-31,230000,TN26 3AD,T,N,F,The Old Post Office,,The Street,Bethersden,Ashford
+2025-01-31,530000,TN26 1LY,D,N,F,Bracklea,,Church Lane,Shadoxhurst,Ashford
+2025-01-31,670000,TN26 1LD,D,N,F,9,,Park Farm Close,Shadoxhurst,Ashford
+2025-01-29,481778,TN26 3QX,T,N,F,4,,Cherry Orchard,Woodchurch,Ashford
+2025-01-24,300000,TN26 2DU,S,N,F,1,,Orlestone Villas,Hamstreet,Ashford
+2025-01-23,192000,TN26 3AD,F,N,L,London House,Village View,The Street,Bethersden,Ashford
+2025-01-10,415000,TN26 3LT,D,N,F,Rectory Lodge,,Greenside,High Halden,Ashford
+2025-01-09,700000,TN26 2JG,D,N,F,28,,Lancaster Close,Hamstreet,Ashford
+2025-01-07,590000,TN26 3BG,D,N,F,Little Surrenden Barn,,Ashford Road,Bethersden,Ashford
+2025-01-06,141900,TN26 2HY,S,N,L,7,,Willow Drive,Hamstreet,Ashford
+2025-01-06,280000,TN26 1EF,F,N,F,2A,,Common Way,Hothfield,Ashford
+2025-01-03,420000,TN26 3EQ,D,N,F,Cart Lodge,,,Bethersden,Ashford
+2025-01-03,260000,TN26 1HA,T,N,F,32,,School Road,Hothfield,Ashford
+2024-12-20,544995,TN26 2FB,D,Y,F,5,,White Admiral Way,Hamstreet,Ashford
+2024-12-20,550000,TN26 2FB,D,Y,F,3,,White Admiral Way,Hamstreet,Ashford
+2024-12-18,290000,TN26 3AU,T,N,F,Maple Cottages,3,Ashford Road,Bethersden,Ashford
+2024-12-17,308000,TN26 2AT,S,N,F,21,,Heathside,Appledore,Ashford
+2024-12-09,559995,TN26 2FB,D,Y,F,43,,White Admiral Way,Hamstreet,Ashford
+2024-12-05,446000,TN26 3BD,T,N,F,Bishops Fir,,Ashford Road,Bethersden,Ashford
+2024-12-04,705000,TN26 3AS,D,N,F,Chandus,,Ashford Road,Bethersden,Ashford
+2024-11-29,260000,TN26 3NB,T,N,F,22,,The Chennells,High Halden,Ashford
+2024-11-29,490000,TN26 3BD,D,N,F,Harleydene,,Ashford Road,Bethersden,Ashford
+2024-11-26,500000,TN26 3AF,D,N,F,Chapel Cottage,,Forge Hill,Bethersden,Ashford
+2024-11-26,674995,TN26 2FB,D,Y,F,35,,White Admiral Way,Hamstreet,Ashford
+2024-11-25,225000,TN26 3TW,S,N,L,2,,Bridge Close,Woodchurch,Ashford
+2024-11-22,564995,TN26 2FB,D,Y,F,45,,White Admiral Way,Hamstreet,Ashford
+2024-11-22,580000,TN26 1NP,D,N,F,The Bullrushes,1,Bethersden Road,Shadoxhurst,Ashford
+2024-11-20,315000,TN26 1EG,S,N,F,37,,Park Drive,Hothfield,Ashford
+2024-11-18,785000,TN26 3LY,D,N,F,Oakwood,,Ashford Road,High Halden,Ashford
+2024-11-15,505000,TN26 2JG,D,N,F,20,,Lancaster Close,Hamstreet,Ashford
+2024-11-15,295000,TN26 2HY,S,N,F,2,,Willow Drive,Hamstreet,Ashford
+2024-11-15,550000,TN26 2FB,D,Y,F,37,,White Admiral Way,Hamstreet,Ashford
+2024-11-13,375000,TN26 1ES,S,N,F,2,,Heathland Mews,Hothfield,Ashford
+2024-11-12,825000,TN26 3SQ,D,N,F,"Spring Field House, 16",,Lower Road,Woodchurch,Ashford
+2024-11-12,265000,TN26 2HL,S,N,F,38,,Bournewood,Hamstreet,Ashford
+2024-11-12,570000,TN26 1NN,D,N,F,Kenwood,,Hamstreet Road,Shadoxhurst,Ashford
+2024-11-08,485760,TN26 3NH,D,N,F,Little Hookstead Farm,The Farmhouse,,High Halden,Ashford
+2024-11-01,495000,TN26 3FE,S,Y,F,8,,Wildflower Grove,High Halden,Ashford
+2024-11-01,360000,TN26 3BP,S,N,F,1,,Summerhill Cottages,High Halden,Ashford
+2024-10-31,1400000,TN26 3PW,D,N,F,Forkeeps,,Shadoxhurst Road,Woodchurch,Ashford
+2024-10-30,450000,TN26 2JH,S,N,F,Tomcot,,The Street,Hamstreet,Ashford
+2024-10-30,590000,TN26 2EL,S,N,F,Forest House,,Malthouse Lane,Warehorne,Ashford
+2024-10-30,445000,TN26 1LE,D,N,F,Kimberley,,Woodchurch Road,Shadoxhurst,Ashford
+2024-10-29,840000,TN26 1AY,D,N,F,"Lambourne House, 12",,Chequers Green,Shadoxhurst,Ashford
+2024-10-28,1120500,TN26 2PE,D,N,F,Ash Hill House,,,Ruckinge,Ashford
+2024-10-25,282000,TN26 2NZ,D,N,F,Ruckinge Methodist Church,,Marsh Road,Ruckinge,Ashford
+2024-10-25,297500,TN26 1EQ,T,N,F,25,,Park Drive,Hothfield,Ashford
+2024-10-17,1050000,TN26 3EG,D,N,F,Barnhurst Farm,,Pluckley Road,Bethersden,Ashford
+2024-10-14,645000,TN26 3BG,D,N,F,The Bothy,,Ashford Road,Bethersden,Ashford
+2024-10-14,530000,TN26 1HR,D,N,F,45,,Molloy Road,Shadoxhurst,Ashford
+2024-10-11,975000,TN26 2BJ,D,N,F,Beech Tree Farm,,,Appledore,Ashford
+2024-10-11,440000,TN26 1HS,D,N,F,50,,Molloy Road,Shadoxhurst,Ashford
+2024-10-10,320000,TN26 2EZ,S,N,F,24,,Bank Side,Hamstreet,Ashford
+2024-10-08,195000,TN26 3AG,F,N,L,Pond Cottages,9,The Street,Bethersden,Ashford
+2024-10-07,280000,TN26 2HZ,S,N,F,40,,Willow Drive,Hamstreet,Ashford
+2024-10-04,419995,TN26 2FB,D,Y,F,41,,White Admiral Way,Hamstreet,Ashford
+2024-10-04,465000,TN26 1HT,D,N,F,Bryher,,Hornash Lane,Shadoxhurst,Ashford
+2024-10-04,335000,TN26 1EH,S,N,F,6,,Thanet Terrace,Hothfield,Ashford
+2024-09-30,174000,TN26 3BE,S,N,F,Brissenden Court,Court Lodge,,Bethersden,Ashford
+2024-09-27,559995,TN26 2FA,D,Y,F,42,,Brimstone Road,Hamstreet,Ashford
+2024-09-20,925000,TN26 3LS,D,N,F,Lion House,,Church Hill,High Halden,Ashford
+2024-09-20,340000,TN26 2HY,S,N,F,13,,Willow Drive,Hamstreet,Ashford
+2024-09-20,355000,TN26 2HJ,D,N,F,5,,Bournewood,Hamstreet,Ashford
+2024-09-19,495500,TN26 3FE,S,Y,F,15,,Wildflower Grove,High Halden,Ashford
+2024-09-13,350000,TN26 2LR,S,N,F,5,,Monks Hill Cottages,Warehorne,Ashford
+2024-09-11,250000,TN26 2HY,S,N,F,12,,Willow Drive,Hamstreet,Ashford
+2024-09-05,775000,TN26 3BT,D,N,F,"Wood Lodge, 1",,George Grove,Bethersden,Ashford
+2024-08-30,660000,TN26 3FE,D,Y,F,28,,Wildflower Grove,High Halden,Ashford
+2024-08-23,280000,TN26 3ND,T,N,F,22,,Hopes Grove,High Halden,Ashford
+2024-08-22,800000,TN26 3FE,D,Y,F,4,,Wildflower Grove,High Halden,Ashford
+2024-08-20,345000,TN26 2HT,S,N,F,39,,Fairfield Terrace,Hamstreet,Ashford
+2024-08-15,810000,TN26 3SQ,D,N,F,11,,Lower Road,Woodchurch,Ashford
+2024-08-15,280000,TN26 2NN,T,N,F,3,,Carters Wood,Hamstreet,Ashford
+2024-08-14,221000,TN26 3QD,T,N,F,4,,Rectory Close,Woodchurch,Ashford
+2024-08-12,250000,TN26 2LL,T,N,F,3,,Churchfield Cottages,Warehorne,Ashford
+2024-08-09,318000,TN26 3LR,T,N,F,25,,Tilden Close,High Halden,Ashford
+2024-08-09,355000,TN26 3BH,D,N,F,3,,Bishop Close,High Halden,Ashford
+2024-08-09,275000,TN26 3AQ,S,N,F,Willow House,1,Church Hill,Bethersden,Ashford
+2024-08-09,665000,TN26 1LY,D,N,F,Moat Farm Cottage,2,Church Lane,Shadoxhurst,Ashford
+2024-08-07,409000,TN26 3BL,S,N,F,34,,Forgefield,Bethersden,Ashford
+2024-08-07,1350000,TN26 3AS,D,N,F,Forge Dene,,Ashford Road,Bethersden,Ashford
+2024-07-31,422500,TN26 3BL,S,N,F,18,,Forgefield,Bethersden,Ashford
+2024-07-31,545000,TN26 2FB,D,Y,F,1,,White Admiral Way,Hamstreet,Ashford
+2024-07-30,275000,TN26 2AX,S,N,F,8,,The Heath,Appledore,Ashford
+2024-07-26,1065000,TN26 3EL,D,N,F,Wissenden Grange,,Wissenden Lane,Bethersden,Ashford
+2024-07-23,489250,TN26 3FE,S,Y,F,16,,Wildflower Grove,High Halden,Ashford
+2024-07-16,315000,TN26 1ED,S,N,F,18,,Plantation Close,Hothfield,Ashford
+2024-07-12,310000,TN26 2JH,T,N,F,The Quinces,2,The Street,Hamstreet,Ashford
+2024-07-12,480000,TN26 2AE,S,N,F,86,,The Street,Appledore,Ashford
+2024-07-11,1300000,TN26 2EB,D,N,F,Orlestone Grange,,Hamstreet Road,Hamstreet,Ashford
+2024-07-11,520000,TN26 1HR,D,N,F,47,,Molloy Road,Shadoxhurst,Ashford
+2024-07-11,355000,TN26 1HR,S,N,F,3,,Molloy Road,Shadoxhurst,Ashford
+2024-07-05,382000,TN26 2HB,T,N,F,7,,Quince Orchard,Hamstreet,Ashford
+2024-07-03,257500,TN26 2LP,T,N,F,The Green,3,,Warehorne,Ashford
+2024-07-03,300000,TN26 1LF,D,N,F,Brinklow,,Woodchurch Road,Shadoxhurst,Ashford
+2024-07-01,270000,TN26 1EJ,T,N,F,4,,The Street,Hothfield,Ashford
+2024-06-28,269950,TN26 3ND,T,N,F,49,,Hopes Grove,High Halden,Ashford
+2024-06-28,650000,TN26 2FE,D,Y,F,18,,Waylett Crescent,Warehorne,Ashford
+2024-06-28,354995,TN26 2FD,S,Y,F,5,,Huntborne Road,Hamstreet,Ashford
+2024-06-28,429995,TN26 2FB,D,Y,F,7,,White Admiral Way,Hamstreet,Ashford
+2024-06-28,414995,TN26 2FB,D,Y,F,2,,White Admiral Way,Hamstreet,Ashford
+2024-06-28,539995,TN26 2FA,D,Y,F,36,,Brimstone Road,Hamstreet,Ashford
+2024-06-28,410000,TN26 2FA,S,Y,F,12,,Brimstone Road,Hamstreet,Ashford
+2024-06-27,485000,TN26 2BU,T,N,F,35,,The Street,Appledore,Ashford
+2024-06-21,401000,TN26 2HL,T,N,F,43,,Bournewood,Hamstreet,Ashford
+2024-06-21,675000,TN26 2FE,D,Y,F,41,,Waylett Crescent,Warehorne,Ashford
+2024-06-21,349995,TN26 2FD,S,Y,F,3,,Huntborne Road,Hamstreet,Ashford
+2024-06-20,620000,TN26 3SQ,D,N,F,7,,Lower Road,Woodchurch,Ashford
+2024-06-14,599995,TN26 2FA,D,Y,F,20,,Brimstone Road,Hamstreet,Ashford
+2024-06-14,760000,TN26 1HT,D,N,F,Malvern House,,Hornash Lane,Shadoxhurst,Ashford
+2024-06-10,980000,TN26 3JZ,D,N,F,Rainford House,,,Bethersden,Ashford
+2024-06-07,285000,TN26 3NQ,T,N,F,Robyn Cottages,3,Ashford Road,High Halden,Ashford
+2024-06-06,340000,TN26 1EX,S,N,F,Hall Farm Cottage,2,West Street,Hothfield,Ashford
+2024-05-31,415000,TN26 3SG,S,N,F,53,,Lower Road,Woodchurch,Ashford
+2024-05-31,415000,TN26 2LL,S,N,F,The Cottage On The Green,,,Warehorne,Ashford
+2024-05-31,589995,TN26 2FD,D,Y,F,1,,Huntborne Road,Hamstreet,Ashford
+2024-05-31,550000,TN26 1HF,D,N,F,Geraldene,,Magpie Hall Road,Stubbs Cross,Ashford
+2024-05-30,399995,TN26 2FB,D,Y,F,23,,White Admiral Way,Hamstreet,Ashford
+2024-05-24,1250000,TN26 3DE,D,N,F,Juniper House,,Stone Green,Bethersden,Ashford
+2024-05-24,575000,TN26 2FE,D,Y,F,37,,Waylett Crescent,Warehorne,Ashford
+2024-05-24,575000,TN26 2FE,D,Y,F,35,,Waylett Crescent,Warehorne,Ashford
+2024-05-20,475000,TN26 1LH,D,N,F,Maryville,,,Shadoxhurst,Ashford
+2024-05-10,365000,TN26 1EH,T,N,F,7,,Thanet Terrace,Hothfield,Ashford
+2024-05-02,1185000,TN26 3DE,D,N,F,Tectona House,,Stone Green,Bethersden,Ashford
+2024-05-02,290000,TN26 2HX,S,N,F,5,,Village Way,Hamstreet,Ashford
+2024-04-30,300000,TN26 2HL,S,N,F,46,,Bournewood,Hamstreet,Ashford
+2024-04-30,340000,TN26 2DY,S,N,F,6,,Mathews Court,Warehorne,Ashford
+2024-04-26,472500,TN26 2FE,D,Y,F,33,,Waylett Crescent,Warehorne,Ashford
+2024-04-26,415000,TN26 2FE,D,Y,F,16,,Waylett Crescent,Warehorne,Ashford
+2024-04-25,390000,TN26 3JF,T,N,F,Little Hidings,,Harbourne Lane,High Halden,Ashford
+2024-04-22,374995,TN26 2FD,S,Y,F,9,,Huntborne Road,Hamstreet,Ashford
+2024-04-19,407500,TN26 3NF,S,N,F,6,,Hookstead,High Halden,Ashford
+2024-04-15,665000,TN26 3SL,D,N,F,139,,Front Road,Woodchurch,Ashford
+2024-04-12,540000,TN26 3QE,D,N,F,10,,Front Road,Woodchurch,Ashford
+2024-04-10,271000,TN26 1EB,S,N,F,23,,Sackville Close,Hothfield,Ashford
+2024-04-05,660000,TN26 3HE,D,N,F,Odiam Farmhouse,,Bethersden Road,Bethersden,Ashford
+2024-04-04,805000,TN26 2BQ,D,N,F,Canal View,3,The Street,Appledore,Ashford
+2024-04-03,230000,TN26 2HX,S,N,F,14,,Village Way,Hamstreet,Ashford
+2024-03-28,399995,TN26 2FB,D,Y,F,21,,White Admiral Way,Hamstreet,Ashford
+2024-03-27,800000,TN26 3AP,D,N,F,Redcedar,,Ashford Road,Bethersden,Ashford
+2024-03-26,525000,TN26 2JG,D,N,F,16,,Lancaster Close,Hamstreet,Ashford
+2024-03-26,554995,TN26 2FA,D,Y,F,16,,Brimstone Road,Hamstreet,Ashford
+2024-03-22,245000,TN26 2HE,F,N,F,West View,5,The Street,Hamstreet,Ashford
+2024-03-18,393000,TN26 3AN,S,N,F,14,,Orchard Field,Bethersden,Ashford
+2024-03-15,1075000,TN26 2EF,D,N,F,Rosemary,,Bromley Green Road,Ruckinge,Ashford
+2024-03-14,282000,TN26 2HX,S,N,F,13,,Village Way,Hamstreet,Ashford
+2024-03-06,560000,TN26 2JG,D,N,F,92,,Lancaster Close,Hamstreet,Ashford
+2024-03-06,654000,TN26 2FE,D,Y,F,39,,Waylett Crescent,Warehorne,Ashford
+2024-03-06,260000,TN26 2EZ,T,N,F,3,,Bank Side,Hamstreet,Ashford
+2024-03-05,141525,TN26 2FA,T,N,L,26,,Brimstone Road,Hamstreet,Ashford
+2024-03-04,348500,TN26 2LB,T,N,F,46,,Orlestone View,Hamstreet,Ashford
+2024-02-29,1420000,TN26 3ET,D,N,F,Runsell Hall,,,Bethersden,Ashford
+2024-02-19,490000,TN26 3SG,D,N,F,80,,Lower Road,Woodchurch,Ashford
+2024-02-19,575000,TN26 3SG,D,N,F,64,,Lower Road,Woodchurch,Ashford
+2024-02-19,380000,TN26 3HN,D,N,F,Beulah Cottages,2,Harris Lane,High Halden,Ashford
+2024-02-16,200000,TN26 3HA,T,N,F,Meadow Lea,,Bull Lane,Bethersden,Ashford
+2024-02-15,445000,TN26 1HS,D,N,F,40,,Molloy Road,Shadoxhurst,Ashford
+2024-02-15,425000,TN26 1HS,S,N,F,30,,Molloy Road,Shadoxhurst,Ashford
+2024-02-13,400000,TN26 2EW,D,N,F,Lochrin,,Ashford Road,Hamstreet,Ashford
+2024-02-09,320000,TN26 1EB,S,N,F,14,,Sackville Close,Hothfield,Ashford
+2024-02-02,763000,TN26 3RE,D,N,F,Gower Farm,,Susans Hill,Woodchurch,Ashford
+2024-02-02,510000,TN26 2FH,D,Y,F,7,,Ingoldsby Lane,Warehorne,Ashford
+2024-01-31,345000,TN26 2FJ,S,Y,F,7,,Farmers Grove,Warehorne,Ashford
+2024-01-31,825000,TN26 2DF,D,N,F,Blackmore Farm,Fairwinds,Station Road,Appledore,Ashford
+2024-01-30,1450000,TN26 3DE,D,N,F,Aspen House,,Stone Green,Bethersden,Ashford
+2024-01-30,325000,TN26 2HQ,S,N,F,2,,Bunkley Meadow,Hamstreet,Ashford
+2024-01-30,610000,TN26 2BS,D,N,F,White Wings,,,Appledore,Ashford
+2024-01-26,365000,TN26 2FJ,S,Y,F,3,,Farmers Grove,Warehorne,Ashford
+2024-01-26,595000,TN26 2FH,D,Y,F,9,,Ingoldsby Lane,Warehorne,Ashford
+2024-01-26,412000,TN26 2FE,D,Y,F,45,,Waylett Crescent,Warehorne,Ashford
+2024-01-26,620000,TN26 2FE,D,Y,F,2,,Waylett Crescent,Warehorne,Ashford
+2024-01-26,282000,TN26 1EJ,T,N,F,3,,The Street,Hothfield,Ashford
+2024-01-24,1200000,TN26 1LL,D,N,F,Little Criol Farm,,,Shadoxhurst,Ashford
+2024-01-16,500000,TN26 1ET,D,N,F,Taktec,,West Street,Hothfield,Ashford
+2024-01-12,577500,TN26 3QX,S,N,F,7,,Cherry Orchard,Woodchurch,Ashford
+2024-01-11,580000,TN26 3JA,D,N,F,Beale Lands Farm House,,,High Halden,Ashford
+2024-01-04,657500,TN26 1EL,D,N,F,The Old Stables,,Church Lane,Hothfield,Ashford
+2023-12-22,610000,TN26 2FA,D,Y,F,14,,Brimstone Road,Hamstreet,Ashford
+2023-12-20,360000,TN26 1LG,S,N,F,6,,Moreton Terrace,Shadoxhurst,Ashford
+2023-12-15,423000,TN26 3SF,D,N,F,The Paddock,4,Front Road,Woodchurch,Ashford
+2023-12-15,460000,TN26 1JA,D,N,F,Bramble Cottage,,Westwell Lane,,Ashford
+2023-12-14,1075000,TN26 3RE,D,N,F,Oak Lodge,,Susans Hill,Woodchurch,Ashford
+2023-12-12,1000000,TN26 3LY,D,N,F,Mark Haven,,Ashford Road,High Halden,Ashford
+2023-12-11,565000,TN26 2JG,D,N,F,34,,Lancaster Close,Hamstreet,Ashford
+2023-12-08,507500,TN26 2FH,D,Y,F,6,,Ingoldsby Lane,Warehorne,Ashford
+2023-11-30,539995,TN26 2FA,D,Y,F,18,,Brimstone Road,Hamstreet,Ashford
+2023-11-30,230000,TN26 1EB,S,N,F,18,,Sackville Close,Hothfield,Ashford
+2023-11-28,540000,TN26 3DH,S,N,F,1,,Batemans Corner,Bethersden,Ashford
+2023-11-28,500000,TN26 2AR,S,N,F,Old Hall,,Tenterden Road,Appledore,Ashford
+2023-11-24,695000,TN26 2FH,D,Y,F,4,,Ingoldsby Lane,Warehorne,Ashford
+2023-11-24,695000,TN26 2FH,D,Y,F,2,,Ingoldsby Lane,Warehorne,Ashford
+2023-11-10,335000,TN26 2EA,S,N,F,2,,Stumble Trees Cottages,Hamstreet,Ashford
+2023-11-03,555000,TN26 3NL,D,N,F,4,,Woodgates Close,High Halden,Ashford
+2023-11-03,318000,TN26 3LT,T,N,F,20,,Greenside,High Halden,Ashford
+2023-11-01,825000,TN26 1AY,D,N,F,11,,Chequers Green,Shadoxhurst,Ashford
+2023-10-30,545000,TN26 1HF,D,N,F,Whitewater Brook,,Magpie Hall Road,Stubbs Cross,Ashford
+2023-10-27,280000,TN26 3QN,S,N,F,2,,Mill View,Woodchurch,Ashford
+2023-10-27,440000,TN26 2FE,D,Y,F,10,,Waylett Crescent,Warehorne,Ashford
+2023-10-26,360000,TN26 2JP,T,N,F,2,,Spring Cottages,Hamstreet,Ashford
+2023-10-26,435000,TN26 2FE,D,Y,F,43,,Waylett Crescent,Warehorne,Ashford
+2023-10-25,745000,TN26 3FE,D,Y,F,5,,Wildflower Grove,High Halden,Ashford
+2023-10-17,415000,TN26 3SE,D,N,F,22,,Kirkwood Avenue,Woodchurch,Ashford
+2023-10-13,201500,TN26 3EB,S,N,F,19,,St Margarets Place,Bethersden,Ashford
+2023-10-06,1085000,TN26 1JD,D,N,F,Wide View,,Lenacre Street,Eastwell,Ashford
+2023-10-02,650000,TN26 2NZ,D,N,F,Forge House,,Marsh Road,Ruckinge,Ashford
+2023-09-29,510000,TN26 2FE,D,Y,F,28,,Waylett Crescent,Warehorne,Ashford
+2023-09-29,424995,TN26 2FA,S,Y,F,8,,Brimstone Road,Hamstreet,Ashford
+2023-09-27,690000,TN26 3SF,D,N,F,122,,Front Road,Woodchurch,Ashford
+2023-09-22,460000,TN26 2LP,T,N,F,The Green,1,,Warehorne,Ashford
+2023-09-22,424995,TN26 2FA,S,Y,F,10,,Brimstone Road,Hamstreet,Ashford
+2023-09-22,400000,TN26 2EG,D,N,F,Little Acorns,,Bromley Green Road,Ruckinge,Ashford
+2023-09-21,875000,TN26 3HN,D,N,F,Beulah,,Harris Lane,High Halden,Ashford
+2023-09-19,304000,TN26 3RG,T,N,F,6,,Brickwall Terrace,Woodchurch,Ashford
+2023-09-15,637750,TN26 2NF,D,N,F,Little Heronden,,,Kenardington,Ashford
+2023-09-15,460000,TN26 2FH,D,Y,F,1,,Ingoldsby Lane,Warehorne,Ashford
+2023-09-15,375000,TN26 2DY,S,N,F,3,,Mathews Court,Warehorne,Ashford
+2023-09-08,370000,TN26 3BU,S,N,F,3,,Durrant Green,High Halden,Ashford
+2023-09-07,375000,TN26 2DY,S,N,F,5,,Mathews Court,Warehorne,Ashford
+2023-09-01,850000,TN26 3HX,D,N,F,Oakleigh Farm,,,High Halden,Ashford
+2023-09-01,660000,TN26 2EG,D,N,F,The Elms,,Bromley Green Road,Ruckinge,Ashford
+2023-08-31,1025000,TN26 2EF,D,N,F,Dei Gratia,,Bromley Green Road,Ruckinge,Ashford
+2023-08-29,365000,TN26 2HP,S,N,F,2,,Ruckinge Road,Hamstreet,Ashford
+2023-08-25,539000,TN26 2FH,D,Y,F,3,,Ingoldsby Lane,Warehorne,Ashford
+2023-08-25,475000,TN26 1JH,D,N,F,Firtree Cottage,,Lenacre Street,Boughton Aluph,Ashford
+2023-08-24,660000,TN26 1LD,D,N,F,9,,Park Farm Close,Shadoxhurst,Ashford
+2023-08-24,300000,TN26 1HW,D,N,F,89,,Tally Ho Road,Shadoxhurst,Ashford
+2023-08-22,425000,TN26 3SA,S,N,F,67,,Front Road,Woodchurch,Ashford
+2023-08-21,1300000,TN26 3DE,D,N,F,Larix,,Stone Green,Bethersden,Ashford
+2023-08-21,340000,TN26 2DY,S,N,F,4,,Mathews Court,Warehorne,Ashford
+2023-08-17,460000,TN26 3LX,D,N,F,5,,Millfield,High Halden,Ashford
+2023-08-15,895000,TN26 3QR,D,N,F,Oak Tree Cottage,,Redbrook Street,Woodchurch,Ashford
+2023-08-15,280000,TN26 2JA,T,N,F,5,,Farm Road,Hamstreet,Ashford
+2023-08-14,300000,TN26 1HZ,S,N,F,Trena,,Hornash Lane,Shadoxhurst,Ashford
+2023-08-04,790000,TN26 3QS,S,N,F,Garth End,Valley View,Redbrook Street,Woodchurch,Ashford
+2023-08-04,585000,TN26 2FE,D,Y,F,12,,Waylett Crescent,Warehorne,Ashford
+2023-08-02,1100000,TN26 3LL,D,N,F,Ransley Oast,,Ashford Road,High Halden,Ashford
+2023-07-28,435000,TN26 3BD,S,N,F,Oakhurst Cottages,2,Ashford Road,Bethersden,Ashford
+2023-07-27,437500,TN26 2FE,D,Y,F,11,,Waylett Crescent,Warehorne,Ashford
+2023-07-26,460000,TN26 2HJ,D,N,F,21,,Bournewood,Hamstreet,Ashford
+2023-07-25,345000,TN26 3QU,D,N,F,Woodend,Tylers,Redbrook Street,Woodchurch,Ashford
+2023-07-21,705000,TN26 2LE,D,N,F,Nursery End,2,Warehorne Road,Kenardington,Ashford
+2023-07-21,510000,TN26 2FH,D,Y,F,5,,Ingoldsby Lane,Warehorne,Ashford
+2023-07-14,542500,TN26 3SA,S,N,F,75,,Front Road,Woodchurch,Ashford
+2023-07-14,410000,TN26 2JB,T,N,F,5,,Romney Road,Hamstreet,Ashford
+2023-07-13,535000,TN26 2JG,D,N,F,63,,Lancaster Close,Hamstreet,Ashford
+2023-07-13,680000,TN26 2FE,D,Y,F,6,,Waylett Crescent,Warehorne,Ashford
+2023-07-12,430000,TN26 3BL,D,N,F,15,,Forgefield,Bethersden,Ashford
+2023-07-12,330000,TN26 1EH,T,N,F,1,,Thanet Terrace,Hothfield,Ashford
+2023-07-11,248000,TN26 2AX,S,N,F,Arundel,,The Heath,Appledore,Ashford
+2023-07-07,350000,TN26 3AN,S,N,F,8,,Orchard Field,Bethersden,Ashford
+2023-07-07,575000,TN26 1HX,D,N,F,Fursten,,Hornash Lane,Shadoxhurst,Ashford
+2023-07-07,815000,TN26 1HT,D,N,F,Sunlit,,Hornash Lane,Shadoxhurst,Ashford
+2023-07-04,372500,TN26 1HR,S,N,F,19,,Molloy Road,Shadoxhurst,Ashford
+2023-06-30,435000,TN26 3SE,D,N,F,11,,Kirkwood Avenue,Woodchurch,Ashford
+2023-06-30,435000,TN26 2FE,D,Y,F,14,,Waylett Crescent,Warehorne,Ashford
+2023-06-30,392000,TN26 2BD,T,N,F,3,,Donkey Lane,Appledore,Ashford
+2023-06-29,390000,TN26 2FJ,S,Y,F,1,,Farmers Grove,Warehorne,Ashford
+2023-06-21,750000,TN26 1NN,D,N,F,White Holme,,Hamstreet Road,Shadoxhurst,Ashford
+2023-06-20,317000,TN26 3SW,T,N,F,7,,Brattle,Woodchurch,Ashford
+2023-06-20,410000,TN26 2BU,D,N,F,7,,The Street,Appledore,Ashford
+2023-06-09,590000,TN26 2FE,D,Y,F,8,,Waylett Crescent,Warehorne,Ashford
+2023-06-02,775000,TN26 3QZ,D,N,F,Maywood Lodge,,,Woodchurch,Ashford
+2023-06-01,665000,TN26 3SL,D,N,F,Streamside,,Front Road,Woodchurch,Ashford
+2023-05-31,1450000,TN26 3DE,D,N,F,Quercus House,,Stone Green,Bethersden,Ashford
+2023-05-30,830000,TN26 1LQ,D,N,F,Wedgewood Cottage,,Woodchurch Road,Shadoxhurst,Ashford
+2023-05-26,246000,TN26 2NY,T,N,F,The Row,3,,Ruckinge,Ashford
+2023-05-26,375000,TN26 2FJ,S,Y,F,5,,Farmers Grove,Warehorne,Ashford
+2023-05-24,380000,TN26 2EW,D,N,F,Oak Tree Cottage,,Ashford Road,Hamstreet,Ashford
+2023-05-23,975000,TN26 1JS,D,N,F,Little Singleton Farmhouse,,Goldwell Lane,Great Chart,Ashford
+2023-05-19,845000,TN26 2LD,D,N,F,Lilyfields,,,Warehorne,Ashford
+2023-05-04,828706,TN26 3FH,D,N,F,The Wilmott,,Oaks Green,Bethersden,Ashford
+2023-05-02,390000,TN26 1DW,T,N,F,3,,Meadow View,Hothfield,Ashford
+2023-04-28,205000,TN26 3FB,D,Y,L,32,,Ransley Field,High Halden,Ashford
+2023-04-28,216000,TN26 2NB,S,N,F,6,,The Wish,Kenardington,Ashford
+2023-04-26,635000,TN26 3FH,D,N,F,Jarvis House,,Oaks Green,Bethersden,Ashford
+2023-04-24,481000,TN26 3QW,D,N,F,Shirkoak Lodge,,Bethersden Road,Woodchurch,Ashford
+2023-04-24,485000,TN26 2JS,D,N,F,15,,Viaduct Terrace,Hamstreet,Ashford
+2023-04-13,295000,TN26 3BH,F,N,L,5,,Bishop Close,High Halden,Ashford
+2023-04-06,640000,TN26 2PD,S,N,F,Rose Cottage,,Bilsington Road,Ruckinge,Ashford
+2023-03-31,454000,TN26 3BD,D,N,F,Stonystack,,Ashford Road,Bethersden,Ashford
+2023-03-31,550000,TN26 2FE,D,Y,F,4,,Waylett Crescent,Warehorne,Ashford
+2023-03-27,485000,TN26 1JD,D,N,F,Braeside,,Lenacre Street,Eastwell,Ashford
+2023-03-17,270000,TN26 3BH,F,N,L,6,,Bishop Close,High Halden,Ashford
+2023-03-17,740000,TN26 1HU,D,N,F,Highfield,,Hornash Lane,Shadoxhurst,Ashford
+2023-03-10,446000,TN26 3JG,D,N,F,Old Place Cottage,,,High Halden,Ashford
+2023-03-09,590000,TN26 3LJ,D,N,F,Roseview,,Ashford Road,High Halden,Ashford
+2023-03-08,159500,TN26 2LB,F,N,F,45,,Orlestone View,Hamstreet,Ashford
+2023-03-03,825000,TN26 3JA,D,N,F,Orchard Cottage,,,High Halden,Ashford
+2023-02-13,320000,TN26 3ND,T,N,F,21,,Hopes Grove,High Halden,Ashford
+2023-02-13,475000,TN26 3BL,D,N,F,9,,Forgefield,Bethersden,Ashford
+2023-02-06,270000,TN26 1EQ,T,N,F,25,,Park Drive,Hothfield,Ashford
+2023-01-31,1000000,TN26 1EL,D,N,F,Polla House,Park Cottage,Church Lane,Hothfield,Ashford
+2023-01-27,387500,TN26 3BH,T,N,F,12,,Bishop Close,High Halden,Ashford
+2023-01-27,500000,TN26 2LB,D,N,F,25,,Orlestone View,Hamstreet,Ashford
+2023-01-25,360000,TN26 2HH,S,N,F,Harts Cottages,5,Bourne Lane,Hamstreet,Ashford
+2023-01-23,350000,TN26 2EZ,T,N,F,6,,Bank Side,Hamstreet,Ashford
+2023-01-20,799000,TN26 3FH,D,N,F,The Larkin,,Oaks Green,Bethersden,Ashford
+2023-01-19,460000,TN26 1NQ,D,N,F,Sealeighs,,Steeds Lane,Kingsnorth,Ashford
+2023-01-16,635000,TN26 3FH,D,N,F,Stephenson House,,Oaks Green,Bethersden,Ashford
+2023-01-12,844250,TN26 3AA,D,N,F,14,,Millfields Place,Bethersden,Ashford
+2022-12-22,510000,TN26 2JS,D,N,F,14,,Viaduct Terrace,Hamstreet,Ashford
+2022-12-21,360000,TN26 2PA,S,N,F,3,,Oakridge,Ruckinge,Ashford
+2022-12-21,425000,TN26 1HP,D,N,F,15,,Lone Field,Shadoxhurst,Ashford
+2022-12-20,565000,TN26 3NE,D,N,F,Garden Cottage,,,High Halden,Ashford
+2022-12-20,355000,TN26 2JW,S,N,F,Horning,,Warehorne Road,Hamstreet,Ashford
+2022-12-20,675000,TN26 2EQ,D,N,F,Grisbi,,Bromley Green Road,Ruckinge,Ashford
+2022-12-20,477500,TN26 1NE,D,N,F,Collingwood,,Steeds Lane,Kingsnorth,Ashford
+2022-12-20,350000,TN26 1LY,D,N,F,Mill House,,Church Lane,Shadoxhurst,Ashford
+2022-12-19,450000,TN26 3SF,S,N,F,93,,Front Road,Woodchurch,Ashford
+2022-12-14,650000,TN26 2JG,D,N,F,40,,Lancaster Close,Hamstreet,Ashford
+2022-12-12,1312500,TN26 2QH,D,N,F,Gribble House,,Wey Street,Snave,Ashford
+2022-12-08,685000,TN26 2HH,D,N,F,Woodlands,,Bourne Lane,Hamstreet,Ashford
+2022-11-30,363500,TN26 2AT,S,N,F,29,,Heathside,Appledore,Ashford
+2022-11-30,409995,TN26 1HS,S,N,F,24,,Molloy Road,Shadoxhurst,Ashford
+2022-11-29,275000,TN26 3LP,T,N,F,2,,Maynard Villas,High Halden,Ashford
+2022-11-29,515000,TN26 1NL,D,N,F,Ashdown Lodge,,Hamstreet Road,Shadoxhurst,Ashford
+2022-11-22,730000,TN26 3AH,D,N,F,Thornlea,,School Road,Bethersden,Ashford
+2022-11-22,480000,TN26 1HW,D,N,F,123,,Tally Ho Road,Shadoxhurst,Ashford
+2022-11-14,305000,TN26 3ND,T,N,F,18,,Hopes Grove,High Halden,Ashford
+2022-11-11,277000,TN26 3ND,T,N,F,65,,Hopes Grove,High Halden,Ashford
+2022-11-11,682000,TN26 3LL,D,N,F,Woodcote,2,Ashford Road,High Halden,Ashford
+2022-11-11,1055000,TN26 3BJ,D,N,F,Rookwood,,Brissenden Green Lane,Bethersden,Ashford
+2022-11-11,244000,TN26 1NA,T,N,F,7,,Nairne Close,Shadoxhurst,Ashford
+2022-11-09,535000,TN26 1HT,S,N,F,7,,Hornash Lane,Shadoxhurst,Ashford
+2022-11-08,292500,TN26 1EF,S,N,F,2,,Common Way,Hothfield,Ashford
+2022-11-04,610000,TN26 1HW,D,N,F,137,,Tally Ho Road,Shadoxhurst,Ashford
+2022-11-04,300000,TN26 1EW,T,N,F,3,,Rippers Cross Cottage,Hothfield,Ashford
+2022-10-27,265000,TN26 1NA,T,N,F,12,,Nairne Close,Shadoxhurst,Ashford
+2022-10-25,750000,TN26 1NN,D,N,F,Wayside Farm,,Hamstreet Road,Shadoxhurst,Ashford
+2022-10-21,525000,TN26 3SL,D,N,F,137,,Front Road,Woodchurch,Ashford
+2022-10-21,135000,TN26 3BW,F,N,L,43,,Chester Avenue,Bethersden,Ashford
+2022-10-21,835000,TN26 2BQ,D,N,F,Canal View,1,The Street,Appledore,Ashford
+2022-10-14,625000,TN26 3BP,D,N,F,Phoenix Barn,,,High Halden,Ashford
+2022-10-14,710000,TN26 1JD,S,N,F,Ca-Ira,,Lenacre Street,Eastwell,Ashford
+2022-10-12,420000,TN26 1JL,S,N,F,Bevenden Lodge,,,Great Chart,Ashford
+2022-10-10,830000,TN26 1LU,D,N,F,Forge House,,The Street,Shadoxhurst,Ashford
+2022-10-10,515000,TN26 1HR,D,N,F,65,,Molloy Road,Shadoxhurst,Ashford
+2022-10-07,2500000,TN26 2LP,D,N,F,Mount Field Farm,,,Warehorne,Ashford
+2022-10-05,950000,TN26 3QD,D,N,F,"Mistley, 13",,Rectory Close,Woodchurch,Ashford
+2022-09-30,600000,TN26 3LY,D,N,F,Mizar,,Ashford Road,High Halden,Ashford
+2022-09-30,470000,TN26 2DL,S,N,F,3,,Elmtree,Appledore,Ashford
+2022-09-26,380000,TN26 2LB,T,N,F,13,,Orlestone View,Hamstreet,Ashford
+2022-09-23,790000,TN26 3NX,D,N,F,2,,Garden Close,Woodchurch,Ashford
+2022-09-23,450000,TN26 1HF,D,N,F,Glenwood,,Magpie Hall Road,Stubbs Cross,Ashford
+2022-09-20,560000,TN26 2JG,D,N,F,54,,Lancaster Close,Hamstreet,Ashford
+2022-09-16,805000,TN26 3LA,D,N,F,"Giftland, 9",,Whiston Avenue,Bethersden,Ashford
+2022-09-16,535000,TN26 2PQ,D,N,F,Appledene Cottage,,Poundhurst Road,Ruckinge,Ashford
+2022-09-16,828000,TN26 2BQ,D,N,F,Canal View,2,The Street,Appledore,Ashford
+2022-09-14,865000,TN26 3SQ,D,N,F,"Woodside House, 18",,Lower Road,Woodchurch,Ashford
+2022-09-08,655000,TN26 1HW,D,N,F,135,,Tally Ho Road,Shadoxhurst,Ashford
+2022-09-01,1007000,TN26 3SQ,D,N,F,24,,Lower Road,Woodchurch,Ashford
+2022-09-01,387050,TN26 3NF,S,N,F,3,,Hookstead,High Halden,Ashford
+2022-08-31,340000,TN26 3ND,S,N,F,10,,Hopes Grove,High Halden,Ashford
+2022-08-26,500000,TN26 3SF,D,N,F,126,,Front Road,Woodchurch,Ashford
+2022-08-23,900000,TN26 3EH,D,N,F,Tuesnoad,2,,Bethersden,Ashford
+2022-08-22,350000,TN26 3AS,S,N,F,Bailey Field,2,Ashford Road,Bethersden,Ashford
+2022-08-19,435000,TN26 2DY,S,N,F,8,,Mathews Court,Warehorne,Ashford
+2022-08-19,367000,TN26 1HS,S,N,F,16,,Molloy Road,Shadoxhurst,Ashford
+2022-08-12,365000,TN26 2DY,S,N,F,2,,Mathews Court,Warehorne,Ashford
+2022-08-12,285000,TN26 1EW,T,N,F,2,,Rippers Cross Cottage,Hothfield,Ashford
+2022-08-11,795000,TN26 3BB,D,N,F,Stanley House,,Ashford Road,Bethersden,Ashford
+2022-08-09,385000,TN26 1AL,S,N,F,Tutt Hill Cottages,8,Westwell Lane,Hothfield,Ashford
+2022-08-08,460000,TN26 1HY,D,N,F,Stelyn,,Hornash Lane,Shadoxhurst,Ashford
+2022-08-05,425000,TN26 1NF,D,N,F,2,,Steeds Close,Kingsnorth,Ashford
+2022-08-05,395000,TN26 1HF,D,N,F,Larkrise,,Magpie Hall Road,Stubbs Cross,Ashford
+2022-08-04,450000,TN26 2DY,S,N,F,1,,Mathews Court,Warehorne,Ashford
+2022-08-02,680000,TN26 3ER,D,N,F,24,,Halden Close,High Halden,Ashford
+2022-08-02,225000,TN26 3BE,S,N,F,Brissenden Court,Court Lodge,,Bethersden,Ashford
+2022-07-29,450000,TN26 3SE,D,N,F,25,,Kirkwood Avenue,Woodchurch,Ashford
+2022-07-28,485000,TN26 3QE,D,N,F,2,,Front Road,Woodchurch,Ashford
+2022-07-28,1350000,TN26 2LP,D,N,F,Sycamore House,,,Warehorne,Ashford
+2022-07-28,797500,TN26 2JD,D,N,F,Hillside Cottage,,Marsh Road,Hamstreet,Ashford
+2022-07-27,477500,TN26 1AS,D,N,F,2,,Oak View,Shadoxhurst,Ashford
+2022-07-21,425000,TN26 3RG,T,N,F,8,,Brickwall Terrace,Woodchurch,Ashford
+2022-07-20,1300000,TN26 3EE,D,N,F,Pimphurst Barn,,,Bethersden,Ashford
+2022-07-13,1076000,TN26 3SN,D,N,F,Stonebridge Farmhouse,,Brook Street,Woodchurch,Ashford
+2022-07-13,895000,TN26 3JB,S,N,F,Church View,,,High Halden,Ashford
+2022-07-07,445000,TN26 3SL,S,N,F,Stonebridge Cottages,1,Front Road,Woodchurch,Ashford
+2022-07-07,670000,TN26 1LY,D,N,F,Frog Hollow,,Church Lane,Shadoxhurst,Ashford
+2022-07-07,775000,TN26 1HX,D,N,F,Bransgore,,Hornash Lane,Shadoxhurst,Ashford
+2022-06-30,590000,TN26 2JG,D,N,F,83,,Lancaster Close,Hamstreet,Ashford
+2022-06-30,480000,TN26 2HL,D,N,F,66,,Bournewood,Hamstreet,Ashford
+2022-06-28,245000,TN26 2AX,S,N,F,8,,The Heath,Appledore,Ashford
+2022-06-27,300000,TN26 1LQ,T,N,F,4,,Mace Terrace,Shadoxhurst,Ashford
+2022-06-24,950000,TN26 3SZ,D,N,F,Bourne House,,Brook Street,Woodchurch,Ashford
+2022-06-24,375000,TN26 2DY,S,N,F,7,,Mathews Court,Warehorne,Ashford
+2022-06-24,557500,TN26 1HL,D,N,F,77,,Tally Ho Road,Stubbs Cross,Ashford
+2022-06-23,650000,TN26 3SR,D,N,F,Brook Farm Barn,,Brook Street,Woodchurch,Ashford
+2022-06-17,315000,TN26 2JB,S,N,F,3,,Romney Road,Hamstreet,Ashford
+2022-06-13,320000,TN26 2HX,S,N,F,20,,Village Way,Hamstreet,Ashford
+2022-06-09,615000,TN26 1HW,D,N,F,115A,,Tally Ho Road,Shadoxhurst,Ashford
+2022-06-06,313000,TN26 1HS,S,N,F,8,,Molloy Road,Shadoxhurst,Ashford
+2022-06-01,280000,TN26 3LT,T,N,F,20,,Greenside,High Halden,Ashford
+2022-06-01,650000,TN26 1LF,D,N,F,Loweald,,Woodchurch Road,Shadoxhurst,Ashford
+2022-05-30,295000,TN26 2DU,S,N,F,4,,Orlestone Villas,Hamstreet,Ashford
+2022-05-27,380000,TN26 3AP,D,N,F,Newtown,,Ashford Road,Bethersden,Ashford
+2022-05-27,835000,TN26 2BQ,D,N,F,Canal View,3,The Street,Appledore,Ashford
+2022-05-13,825000,TN26 3LB,D,N,F,Chaldon,,Ashford Road,Bethersden,Ashford
+2022-05-13,675000,TN26 1HU,D,N,F,Gateway Farm,,Hornash Lane,Shadoxhurst,Ashford
+2022-05-12,925000,TN26 2BZ,D,N,F,2,,Maple Place,Appledore,Ashford
+2022-05-11,715000,TN26 3LF,D,N,F,Potten Barn,,Ashford Road,Bethersden,Ashford
+2022-05-05,725000,TN26 3AD,D,N,F,Box Cottage,,The Street,Bethersden,Ashford
+2022-04-29,305000,TN26 3SH,S,N,F,129,,Front Road,Woodchurch,Ashford
+2022-04-29,1425000,TN26 3DD,D,N,F,Fridland,,Pluckley Road,Bethersden,Ashford
+2022-04-29,795000,TN26 3BE,D,N,F,Brissenden Court,The Lodge,,Bethersden,Ashford
+2022-04-29,580000,TN26 1LQ,D,N,F,Woodlin House,,Woodchurch Road,Shadoxhurst,Ashford
+2022-04-29,250500,TN26 1EB,S,N,F,9,,Sackville Close,Hothfield,Ashford
+2022-04-28,615000,TN26 2BX,S,N,F,40,,The Street,Appledore,Ashford
+2022-04-21,306500,TN26 1AU,S,N,F,8,,Kings Close,Shadoxhurst,Ashford
+2022-04-20,485000,TN26 1HJ,D,N,F,7A,,Tally Ho Road,Stubbs Cross,Ashford
+2022-04-14,795000,TN26 2BZ,D,N,F,1,,Maple Place,Appledore,Ashford
+2022-04-08,925000,TN26 2PQ,D,N,F,Fairfield House,,Poundhurst Road,Ruckinge,Ashford
+2022-04-08,875000,TN26 2BZ,D,N,F,3,,Maple Place,Appledore,Ashford
+2022-04-08,625000,TN26 1HW,D,N,F,139,,Tally Ho Road,Shadoxhurst,Ashford
+2022-04-06,665000,TN26 3QD,D,N,F,"Oakwood House, 22",,Rectory Close,Woodchurch,Ashford
+2022-04-04,910000,TN26 3JX,D,N,F,Broomy Lodge,,,Bethersden,Ashford
+2022-04-01,1528700,TN26 3PF,D,N,F,15,,The Green,Woodchurch,Ashford
+2022-03-31,305000,TN26 3LT,T,N,F,31,,Greenside,High Halden,Ashford
+2022-03-31,736000,TN26 2BZ,D,N,F,5,,Maple Place,Appledore,Ashford
+2022-03-31,685000,TN26 2BZ,D,N,F,4,,Maple Place,Appledore,Ashford
+2022-03-31,415000,TN26 1LG,S,N,F,5,,Moreton Terrace,Shadoxhurst,Ashford
+2022-03-30,1135000,TN26 3JE,D,N,F,Tiffenden House,,Harbourne Lane,High Halden,Ashford
+2022-03-24,385000,TN26 1NF,D,N,F,5,,Steeds Close,Kingsnorth,Ashford
+2022-03-21,665000,TN26 2AJ,D,N,F,Willow Green Cottage,,,Appledore,Ashford
+2022-03-18,153900,TN26 3TW,S,N,L,24,,Bridge Close,Woodchurch,Ashford
+2022-03-18,862500,TN26 2AS,D,N,F,Mill House,,,Appledore,Ashford
+2022-03-15,150000,TN26 1AS,S,N,L,13,,Oak View,Shadoxhurst,Ashford
+2022-03-11,460000,TN26 3SJ,D,N,F,4A,,Plum Tree Gardens,Woodchurch,Ashford
+2022-03-07,350000,TN26 1EJ,S,N,F,St Thomas,,The Street,Hothfield,Ashford
+2022-03-03,225000,TN26 1HF,D,N,F,Exton,,Magpie Hall Road,Stubbs Cross,Ashford
+2022-03-02,350000,TN26 2HL,D,N,F,30,,Bournewood,Hamstreet,Ashford
+2022-03-02,535000,TN26 1NL,D,N,F,Oak View,,Hamstreet Road,Shadoxhurst,Ashford
+2022-02-24,840000,TN26 3LG,D,N,F,Foxglove Barn,,Green Lane,Bethersden,Ashford
+2022-02-24,420000,TN26 3ER,S,N,F,19,,Halden Close,High Halden,Ashford
+2022-02-23,175000,TN26 2HF,T,N,F,3,,Bunkley Terrace,Hamstreet,Ashford
+2022-02-22,740000,TN26 3NH,D,N,F,Little Hookstead Farm,The Crooked Barn,,High Halden,Ashford
+2022-02-22,415000,TN26 1LE,D,N,F,Torteval,,Woodchurch Road,Shadoxhurst,Ashford
+2022-02-22,685000,TN26 1LD,D,N,F,8,,Park Farm Close,Shadoxhurst,Ashford
+2022-02-15,652000,TN26 1HW,D,N,F,135,,Tally Ho Road,Shadoxhurst,Ashford
+2022-02-11,485000,TN26 2NQ,S,N,F,Fern Bank,,Church Lane,Kenardington,Ashford
+2022-02-11,550000,TN26 2JQ,D,N,F,8,,Parker Close,Hamstreet,Ashford
+2022-02-11,700000,TN26 2JG,D,N,F,73,,Lancaster Close,Hamstreet,Ashford
+2022-02-11,670000,TN26 2DB,D,N,F,Rawnie House,,,Appledore,Ashford
+2022-02-11,574500,TN26 1LU,D,N,F,Nichols House,,The Street,Shadoxhurst,Ashford
+2022-02-04,370000,TN26 2JG,T,N,F,6,,Lancaster Close,Hamstreet,Ashford
+2022-02-04,550000,TN26 2JG,D,N,F,11,,Lancaster Close,Hamstreet,Ashford
+2022-02-04,310000,TN26 2HX,S,N,F,8,,Village Way,Hamstreet,Ashford
+2022-02-02,710600,TN26 3BP,D,N,F,Elm Tree Oast,,,High Halden,Ashford
+2022-02-01,170000,TN26 2NZ,D,N,F,Ruckinge Methodist Church,,Marsh Road,Ruckinge,Ashford
+2022-01-31,325000,TN26 3LR,S,N,F,31,,Tilden Close,High Halden,Ashford
+2022-01-28,300000,TN26 1EG,S,N,F,37,,Park Drive,Hothfield,Ashford
+2022-01-27,545000,TN26 1HG,D,N,F,Glencoe,,Magpie Hall Road,Stubbs Cross,Ashford
+2022-01-27,255000,TN26 1AL,S,N,F,Tutt Hill Cottages,11,Westwell Lane,Hothfield,Ashford
+2022-01-14,525000,TN26 3HA,D,N,F,Rose Cottage,,Bull Lane,Bethersden,Ashford
+2022-01-12,895000,TN26 3LD,D,N,F,5,,The Martins,High Halden,Ashford
+2022-01-12,620000,TN26 3ER,D,N,F,16,,Halden Close,High Halden,Ashford
+2022-01-05,410000,TN26 3DD,D,N,F,Old Mill Cottage,,Pluckley Road,Bethersden,Ashford
+2021-12-21,800000,TN26 3NH,T,N,F,Little Hookstead Farm,Ryeland Barn,,High Halden,Ashford
+2021-12-21,317000,TN26 3LT,S,N,F,33,,Greenside,High Halden,Ashford
+2021-12-21,370750,TN26 1LG,S,N,F,7,,Moreton Terrace,Shadoxhurst,Ashford
+2021-12-17,595000,TN26 3NH,T,N,F,Little Hookstead Farm,Texel Cottage,,High Halden,Ashford
+2021-12-17,430000,TN26 2HR,D,N,F,Silver Dawn,,The Alley,Hamstreet,Ashford
+2021-12-16,875000,TN26 1AN,D,N,F,Nirvana,,Maidstone Road,Hothfield,Ashford
+2021-12-15,765000,TN26 3SQ,D,N,F,16,,Lower Road,Woodchurch,Ashford
+2021-12-15,463500,TN26 3NL,D,N,F,10,,Woodgates Close,High Halden,Ashford
+2021-12-14,320000,TN26 2NZ,D,N,F,The Nook,,Marsh Road,Ruckinge,Ashford
+2021-12-10,480000,TN26 3RF,S,N,F,West End,7,Susans Hill,Woodchurch,Ashford
+2021-12-10,445000,TN26 3AE,F,N,F,2,,Prospect Cottages,Bethersden,Ashford
+2021-12-10,445000,TN26 3AE,T,N,F,1,,Prospect Cottages,Bethersden,Ashford
+2021-12-10,850000,TN26 2BU,D,N,F,The Coach House,,The Street,Appledore,Ashford
+2021-12-08,295000,TN26 2HD,T,N,F,20,,Dukes Meadow,Hamstreet,Ashford
+2021-12-03,580000,TN26 3NH,T,N,F,Little Hookstead Farm,Romney Cottage,,High Halden,Ashford
+2021-12-01,475000,TN26 3AA,D,N,F,22,,Millfields Place,Bethersden,Ashford
+2021-11-26,325000,TN26 1HS,S,N,F,20,,Molloy Road,Shadoxhurst,Ashford
+2021-11-23,375000,TN26 3HN,D,N,F,Beulah Cottages,2,Harris Lane,High Halden,Ashford
+2021-11-19,565000,TN26 2DE,D,N,F,Half Timbers,,Station Road,Appledore,Ashford
+2021-11-18,775000,TN26 3LY,D,N,F,Oakwood,,Ashford Road,High Halden,Ashford
+2021-11-18,153000,TN26 2AA,S,N,L,Chapel Field,2,Marsh Road,Ruckinge,Ashford
+2021-11-15,240000,TN26 1EF,T,N,F,7,,Common Way,Hothfield,Ashford
+2021-11-10,625000,TN26 1HL,D,N,F,63A,,Tally Ho Road,Stubbs Cross,Ashford
+2021-11-08,470000,TN26 3LJ,D,N,F,Quince Tree Cottage,,Ashford Road,High Halden,Ashford
+2021-11-08,520000,TN26 1AS,D,N,F,9,,Oak View,Shadoxhurst,Ashford
+2021-11-05,730000,TN26 2LS,D,N,F,Brackenlea,,Church Road,Warehorne,Ashford
+2021-11-05,335000,TN26 2JW,D,N,F,Beam Ends,,Warehorne Road,Hamstreet,Ashford
+2021-10-29,535000,TN26 3LY,D,N,F,Mill Place,,Ashford Road,High Halden,Ashford
+2021-10-29,620000,TN26 3LY,D,N,F,Carmily,,Ashford Road,High Halden,Ashford
+2021-10-29,195000,TN26 3DA,D,N,F,The Poplars,1,Mill Road,Bethersden,Ashford
+2021-10-27,480000,TN26 3LX,D,N,F,9,,Millfield,High Halden,Ashford
+2021-10-22,365000,TN26 1HF,D,N,F,Nimrod,,Magpie Hall Road,Stubbs Cross,Ashford
+2021-10-21,810000,TN26 3LD,D,N,F,3,,The Martins,High Halden,Ashford
+2021-10-18,250000,TN26 3HN,D,N,F,Beulah Cottages,1,Harris Lane,High Halden,Ashford
+2021-10-18,135000,TN26 1NB,T,N,L,2,,Farley Close,Shadoxhurst,Ashford
+2021-10-14,213000,TN26 3AU,T,N,F,Maple Cottages,3,Ashford Road,Bethersden,Ashford
+2021-09-30,250000,TN26 3LT,T,N,F,11,,Greenside,High Halden,Ashford
+2021-09-30,312500,TN26 2HX,S,N,F,12,,Village Way,Hamstreet,Ashford
+2021-09-30,804300,TN26 2BQ,D,N,F,Canal View,4,The Street,Appledore,Ashford
+2021-09-30,365000,TN26 1HR,D,N,F,63,,Molloy Road,Shadoxhurst,Ashford
+2021-09-30,400000,TN26 1ET,T,N,F,10,,West Street,Hothfield,Ashford
+2021-09-30,200000,TN26 1EF,S,N,F,2,,Common Way,Hothfield,Ashford
+2021-09-29,925000,TN26 3JB,S,N,F,Church House,,,High Halden,Ashford
+2021-09-29,591201,TN26 3AA,D,N,F,16,,Millfields Place,Bethersden,Ashford
+2021-09-29,1200000,TN26 2LH,D,N,F,Little Tinton,,,Warehorne,Ashford
+2021-09-28,523500,TN26 3LY,D,N,F,Forge House,,Ashford Road,High Halden,Ashford
+2021-09-27,622000,TN26 3QW,S,N,F,Fair View,,,Woodchurch,Ashford
+2021-09-27,295000,TN26 3NE,D,N,F,Hookstead,Coach House,,High Halden,Ashford
+2021-09-27,790000,TN26 1JS,D,N,F,Twisden,,,Great Chart,Ashford
+2021-09-24,240000,TN26 2JP,T,N,F,3,,Spring Cottages,Hamstreet,Ashford
+2021-09-22,250000,TN26 2NB,T,N,F,18,,The Wish,Kenardington,Ashford
+2021-09-21,440000,TN26 1HJ,D,N,F,17,,Tally Ho Road,Stubbs Cross,Ashford
+2021-09-20,360000,TN26 3LR,S,N,F,34,,Tilden Close,High Halden,Ashford
+2021-09-20,725000,TN26 3AD,D,N,F,Rose Court,,The Street,Bethersden,Ashford
+2021-09-17,910000,TN26 3RD,D,N,F,Ben-Edor,,,Woodchurch,Ashford
+2021-09-16,910000,TN26 3DP,D,N,F,Beult House,,,Bethersden,Ashford
+2021-09-15,700000,TN26 1LE,D,N,F,The Fairways,2,Woodchurch Road,Shadoxhurst,Ashford
+2021-09-10,560000,TN26 3JW,S,N,F,8,,Plurenden Lane,High Halden,Ashford
+2021-09-07,263000,TN26 3LT,T,N,F,25,,Greenside,High Halden,Ashford
+2021-09-03,385000,TN26 2QL,D,N,F,Stockleigh,,,Snave,Ashford
+2021-09-03,930000,TN26 2BS,D,N,F,Badgers Brook,,,Appledore,Ashford
+2021-09-02,450000,TN26 1HS,D,N,F,44,,Molloy Road,Shadoxhurst,Ashford
+2021-08-26,275000,TN26 3SE,D,N,F,13,,Kirkwood Avenue,Woodchurch,Ashford
+2021-08-25,550000,TN26 3JW,S,N,F,Plurenden Manor Farm Cottages,7,Plurenden Road,Woodchurch,Ashford
+2021-08-20,890000,TN26 2PE,D,N,F,Harrison House,,,Ruckinge,Ashford
+2021-08-20,224000,TN26 2HX,S,N,F,9,,Village Way,Hamstreet,Ashford
+2021-08-17,810000,TN26 3SN,D,N,F,Stonebridge Oast,,Brook Street,Woodchurch,Ashford
+2021-08-13,292000,TN26 3AW,S,N,F,41,,Orchard Field,Bethersden,Ashford
+2021-08-13,390000,TN26 2EQ,D,N,F,Hurstbourne,,Bromley Green Road,Ruckinge,Ashford
+2021-08-12,350000,TN26 3NF,S,N,F,4,,Hookstead,High Halden,Ashford
+2021-08-12,290000,TN26 3AG,T,N,F,Pond Cottages,3,The Street,Bethersden,Ashford
+2021-08-12,570000,TN26 2JG,D,N,F,81,,Lancaster Close,Hamstreet,Ashford
+2021-08-12,535000,TN26 1LA,D,N,F,4,,Eastwell Close,Shadoxhurst,Ashford
+2021-08-02,279950,TN26 2AF,T,N,F,59,,The Street,Appledore,Ashford
+2021-07-29,372000,TN26 2LB,T,N,F,18,,Orlestone View,Hamstreet,Ashford
+2021-07-26,499999,TN26 1NN,D,N,F,Haymakers,,Hamstreet Road,Shadoxhurst,Ashford
+2021-07-22,395000,TN26 2NW,D,N,F,Bankside,,Ruckinge Road,Hamstreet,Ashford
+2021-07-16,525000,TN26 3DQ,D,N,F,The Coach House,,Old Surrenden Manor Road,Bethersden,Ashford
+2021-06-30,950000,TN26 3SR,D,N,F,Brook Farm,,Brook Street,Woodchurch,Ashford
+2021-06-30,720000,TN26 3SQ,D,N,F,14,,Lower Road,Woodchurch,Ashford
+2021-06-30,565000,TN26 3SF,D,N,F,"Naish House, 95A",,Front Road,Woodchurch,Ashford
+2021-06-30,775000,TN26 3NH,D,N,F,Little Hookstead Farm,Little Hookstead Oast,,High Halden,Ashford
+2021-06-30,300000,TN26 3NF,S,N,F,10,,Hookstead,High Halden,Ashford
+2021-06-30,550000,TN26 3LY,D,N,F,Street Farmhouse,,Ashford Road,High Halden,Ashford
+2021-06-30,650000,TN26 3HN,D,N,F,Beulah Cottages,3,Harris Lane,High Halden,Ashford
+2021-06-30,275000,TN26 2DX,T,N,F,12,,St Marys Close,Hamstreet,Ashford
+2021-06-29,650000,TN26 3NG,D,N,F,14,,Little Robhurst,High Halden,Ashford
+2021-06-29,275000,TN26 3NB,S,N,F,30,,The Chennells,High Halden,Ashford
+2021-06-29,405000,TN26 3LX,D,N,F,14,,Millfield,High Halden,Ashford
+2021-06-29,610000,TN26 3BX,D,N,F,Lavender Lodge,,Oak Grove Lane,High Halden,Ashford
+2021-06-28,417000,TN26 3SE,D,N,F,11,,Kirkwood Avenue,Woodchurch,Ashford
+2021-06-28,273000,TN26 1HR,S,N,F,3,,Molloy Road,Shadoxhurst,Ashford
+2021-06-28,580000,TN26 1AR,D,N,F,Lake House,,Maidstone Road,Hothfield,Ashford
+2021-06-28,272000,TN26 1AN,T,N,F,Heath Cottages,2,Maidstone Road,Hothfield,Ashford
+2021-06-25,270000,TN26 3BW,S,N,F,3,,Chester Avenue,Bethersden,Ashford
+2021-06-25,331000,TN26 2JH,T,N,F,The Quinces,1,The Street,Hamstreet,Ashford
+2021-06-24,330000,TN26 3BL,S,N,F,28,,Forgefield,Bethersden,Ashford
+2021-06-24,745000,TN26 1ES,D,N,F,"Post Farm, 27",,The Street,Hothfield,Ashford
+2021-06-23,600000,TN26 3AP,S,N,F,West Low Wood Cottage,,Ashford Road,Bethersden,Ashford
+2021-06-21,540000,TN26 3LY,D,N,F,Stowbury,,Ashford Road,High Halden,Ashford
+2021-06-18,430000,TN26 1JA,S,N,F,Briar Glen,,Westwell Lane,,Ashford
+2021-06-17,292500,TN26 2QW,T,N,F,4,,Olivia Cottage,Hamstreet,Ashford
+2021-06-16,300000,TN26 3SQ,T,N,F,37,,Lower Road,Woodchurch,Ashford
+2021-06-11,1130000,TN26 3DD,D,N,F,Fridland,,Pluckley Road,Bethersden,Ashford
+2021-06-08,370000,TN26 2BD,T,N,F,3,,Donkey Lane,Appledore,Ashford
+2021-06-03,450000,TN26 1HW,D,N,F,131,,Tally Ho Road,Shadoxhurst,Ashford
+2021-06-02,445000,TN26 2JS,S,N,F,12,,Viaduct Terrace,Hamstreet,Ashford
+2021-05-28,260000,TN26 3ND,S,N,F,63,,Hopes Grove,High Halden,Ashford
+2021-05-28,801000,TN26 3JX,D,N,F,Ashbrook,,,Bethersden,Ashford
+2021-05-24,198250,TN26 3DA,D,N,F,The Poplars,2,Mill Road,Bethersden,Ashford
+2021-05-21,345000,TN26 3SG,D,N,F,58,,Lower Road,Woodchurch,Ashford
+2021-05-21,345000,TN26 3ND,T,N,F,25,,Hopes Grove,High Halden,Ashford
+2021-05-21,330000,TN26 3LB,S,N,F,Arrochar,,Ashford Road,Bethersden,Ashford
+2021-05-21,585000,TN26 3BP,D,N,F,Halden Cottage,,,High Halden,Ashford
+2021-05-14,270000,TN26 2HX,S,N,F,13,,Village Way,Hamstreet,Ashford
+2021-05-14,600000,TN26 1LE,D,N,F,Little Garth,,Woodchurch Road,Shadoxhurst,Ashford
+2021-05-07,610000,TN26 1ND,D,N,F,"Trosley House, 6",,The Willows,Shadoxhurst,Ashford
+2021-05-07,220000,TN26 1LQ,D,N,F,Manorwood House,,Woodchurch Road,Shadoxhurst,Ashford
+2021-05-06,210000,TN26 2JS,T,N,F,3,,Viaduct Terrace,Hamstreet,Ashford
+2021-04-30,335000,TN26 3LX,D,N,F,15,,Millfield,High Halden,Ashford
+2021-04-23,330000,TN26 3BL,S,N,F,35,,Forgefield,Bethersden,Ashford
+2021-04-16,507500,TN26 3QD,D,N,F,8,,Rectory Close,Woodchurch,Ashford
+2021-04-16,275000,TN26 2HL,S,N,F,50,,Bournewood,Hamstreet,Ashford
+2021-04-15,295000,TN26 3AY,T,N,F,4,,Lovelace Court,Bethersden,Ashford
+2021-04-15,190000,TN26 2HZ,T,N,F,42,,Willow Drive,Hamstreet,Ashford
+2021-04-14,320000,TN26 2HD,T,N,F,15,,Dukes Meadow,Hamstreet,Ashford
+2021-04-14,590000,TN26 2EQ,D,N,F,Ivanhoe,,Bromley Green Road,Ruckinge,Ashford
+2021-04-14,410000,TN26 1HT,D,N,F,Sheryl,,Hornash Lane,Shadoxhurst,Ashford
+2021-04-13,478000,TN26 1NN,D,N,F,Welaway,,Hamstreet Road,Shadoxhurst,Ashford
+2021-04-09,497000,TN26 3RE,D,N,F,Gower Farm Barn,,Susans Hill,Woodchurch,Ashford
+2021-04-09,900000,TN26 3JB,D,N,F,Duxbury,,,High Halden,Ashford
+2021-04-09,277000,TN26 2JH,S,N,F,2,,Sunnydale Cottages,Hamstreet,Ashford
+2021-04-09,435000,TN26 1AD,D,N,F,2,,Maytree Place,Shadoxhurst,Ashford
+2021-04-08,220000,TN26 2JS,T,N,F,4,,Viaduct Terrace,Hamstreet,Ashford
+2021-04-07,370000,TN26 1AL,S,N,F,Tutt Hill Cottages,6,Westwell Lane,Hothfield,Ashford
+2021-03-31,250000,TN26 3ND,T,N,F,32,,Hopes Grove,High Halden,Ashford
+2021-03-31,740000,TN26 3HE,D,N,F,Little Hodgeham,,Bethersden Road,Bethersden,Ashford
+2021-03-31,265000,TN26 3BB,D,N,F,Green Gables,,Ashford Road,Bethersden,Ashford
+2021-03-31,315000,TN26 1LA,S,N,F,1,,Eastwell Close,Shadoxhurst,Ashford
+2021-03-30,400000,TN26 1LQ,D,N,F,Wedgewood Cottage,,Woodchurch Road,Shadoxhurst,Ashford
+2021-03-29,1465570,TN26 2BH,D,N,F,Oaklands,,Moor Lane,Appledore,Ashford
+2021-03-29,345000,TN26 1HR,D,N,F,"Lorien, 55",,Molloy Road,Shadoxhurst,Ashford
+2021-03-29,291000,TN26 1EH,T,N,F,4,,Thanet Terrace,Hothfield,Ashford
+2021-03-26,290000,TN26 3SE,D,N,F,14,,Kirkwood Avenue,Woodchurch,Ashford
+2021-03-26,680000,TN26 3QS,D,N,F,Grove Farm,Middle Grove,Redbrook Street,Woodchurch,Ashford
+2021-03-26,450000,TN26 1LQ,D,N,F,Woodlin House,,Woodchurch Road,Shadoxhurst,Ashford
+2021-03-26,376500,TN26 1JA,S,N,F,Rylstone,,Westwell Lane,,Ashford
+2021-03-26,320000,TN26 1AL,S,N,F,Tutt Hill Cottages,7,Westwell Lane,Hothfield,Ashford
+2021-03-25,415000,TN26 3NL,S,N,F,6,,Woodgates Close,High Halden,Ashford
+2021-03-22,810000,TN26 3EQ,D,N,F,Darling Buds Farm,Darling Buds Barn,,Bethersden,Ashford
+2021-03-19,760000,TN26 3JA,D,N,F,Oast View,,Shawlands Lane,High Halden,Ashford
+2021-03-19,685000,TN26 3AS,D,N,F,Forge Grange,,Ashford Road,Bethersden,Ashford
+2021-03-19,330000,TN26 2HD,S,N,F,3,,Dukes Meadow,Hamstreet,Ashford
+2021-03-19,405000,TN26 2BU,T,N,F,35,,The Street,Appledore,Ashford
+2021-03-17,325000,TN26 3ER,T,N,F,4,,Halden Close,High Halden,Ashford
+2021-03-17,200000,TN26 2HJ,T,N,F,24,,Bournewood,Hamstreet,Ashford
+2021-03-15,495000,TN26 3AS,D,N,F,Silverwood,,Ashford Road,Bethersden,Ashford
+2021-03-08,364000,TN26 3DT,D,N,F,Toll Cottage,,,Bethersden,Ashford
+2021-03-08,280000,TN26 3BL,S,N,F,24,,Forgefield,Bethersden,Ashford
+2021-03-05,465000,TN26 3QU,D,N,F,Rose Cottage,,Redbrook Street,Woodchurch,Ashford
+2021-03-05,190000,TN26 2AL,T,N,F,1,,West End Cottages,Appledore,Ashford
+2021-03-05,375000,TN26 1NR,D,N,F,4,,Silver Birch Court,Shadoxhurst,Ashford
+2021-03-04,295000,TN26 3SJ,D,N,F,23,,Plum Tree Gardens,Woodchurch,Ashford
+2021-03-04,645000,TN26 3QD,D,N,F,15,,Rectory Close,Woodchurch,Ashford
+2021-03-02,350000,TN26 3ER,T,N,F,5,,Halden Close,High Halden,Ashford
+2021-03-01,229995,TN26 2HB,T,N,F,9,,Quince Orchard,Hamstreet,Ashford
+2021-02-26,750000,TN26 3BS,D,N,F,Durrants Court,,,High Halden,Ashford
+2021-02-26,437000,TN26 2JX,D,N,F,Providence Chapel,,,Warehorne,Ashford
+2021-02-26,525000,TN26 1JL,S,N,F,Oaktree Cottage,,,Great Chart,Ashford
+2021-02-26,590000,TN26 1HT,D,N,F,Ruby Cottage,,Hornash Lane,Shadoxhurst,Ashford
+2021-02-26,425000,TN26 1HR,D,N,F,49,,Molloy Road,Shadoxhurst,Ashford
+2021-02-23,345000,TN26 3ER,T,N,F,3,,Halden Close,High Halden,Ashford
+2021-02-22,625000,TN26 3HE,D,N,F,Mounts Farmhouse,,Bethersden Road,Bethersden,Ashford
+2021-02-22,282000,TN26 2HJ,S,N,F,15,,Bournewood,Hamstreet,Ashford
+2021-02-19,710000,TN26 3QS,D,N,F,Grove Farm,Grove House,Redbrook Street,Woodchurch,Ashford
+2021-02-19,290000,TN26 2HY,S,N,F,10,,Willow Drive,Hamstreet,Ashford
+2021-02-18,335000,TN26 3AS,S,N,F,Bailey Field,4,Ashford Road,Bethersden,Ashford
+2021-02-17,335000,TN26 3LX,D,N,F,3,,Millfield,High Halden,Ashford
+2021-02-16,360000,TN26 3LL,S,N,F,3,,Hillfield Villas,High Halden,Ashford
+2021-02-12,369000,TN26 3QN,S,N,F,11,,Mill View,Woodchurch,Ashford
+2021-02-12,670000,TN26 3JH,D,N,F,Coombe Lands,,Redbrook Street,High Halden,Ashford
+2021-02-12,365000,TN26 3ER,S,N,F,7,,Halden Close,High Halden,Ashford
+2021-02-11,660000,TN26 1HL,D,N,F,37,,Tally Ho Road,Stubbs Cross,Ashford
+2021-02-10,470000,TN26 1NE,D,N,F,Mayclair,,Steeds Lane,Kingsnorth,Ashford
+2021-02-05,575000,TN26 2JL,D,N,F,Willow House,,Warehorne Road,Hamstreet,Ashford
+2021-02-05,390000,TN26 1LF,S,N,F,5,,Brinklow Terrace,Shadoxhurst,Ashford
+2021-02-03,725000,TN26 3JB,D,N,F,Church Farm,,,High Halden,Ashford
+2021-02-03,420000,TN26 1JA,S,N,F,St Helens,,Westwell Lane,,Ashford
+2021-01-29,485000,TN26 3SA,D,N,F,66,,Front Road,Woodchurch,Ashford
+2021-01-29,416000,TN26 1HR,D,N,F,59,,Molloy Road,Shadoxhurst,Ashford
+2021-01-27,1300000,TN26 3EL,D,N,F,Havenden,,Wissenden Lane,Bethersden,Ashford
+2021-01-26,338000,TN26 2HQ,S,N,F,13,,Bunkley Meadow,Hamstreet,Ashford
+2021-01-26,375000,TN26 2HL,D,N,F,33,,Bournewood,Hamstreet,Ashford
+2021-01-26,217500,TN26 2ED,D,N,F,Woodlands,,Birchett Lane,Hamstreet,Ashford
+2021-01-26,350000,TN26 2ED,S,N,F,St Thomas Cottage,,Birchett Lane,Hamstreet,Ashford
+2021-01-21,890000,TN26 3TH,D,N,F,Acorn Grange,,,Woodchurch,Ashford
+2021-01-21,480000,TN26 1AJ,T,N,F,"Old Church Farmhouse, 1",,Westwell Lane,Hothfield,Ashford
+2021-01-15,1400000,TN26 3AE,D,N,F,Beacon House,,The Street,Bethersden,Ashford
+2021-01-15,295000,TN26 2HJ,S,N,F,20,,Bournewood,Hamstreet,Ashford
+2021-01-14,625000,TN26 1LY,D,N,F,Frog Hollow,,Church Lane,Shadoxhurst,Ashford
+2021-01-12,790000,TN26 3LF,D,N,F,Llangibby,,Ashford Road,Bethersden,Ashford
+2021-01-12,890000,TN26 1EL,D,N,F,Edenview,,Church Lane,Hothfield,Ashford
+2021-01-11,799950,TN26 2BX,D,N,F,"The Deeze, 32",,The Street,Appledore,Ashford
+2021-01-08,550000,TN26 2QW,D,N,F,Ham Leas Bungalow,,,Hamstreet,Ashford
+2021-01-08,375000,TN26 1HY,D,N,F,Stelyn,,Hornash Lane,Shadoxhurst,Ashford
+2021-01-07,1200000,TN26 3HY,D,N,F,Shawlands,,,High Halden,Ashford
+2021-01-06,485000,TN26 1NN,D,N,F,Scotscraig,,Hamstreet Road,Shadoxhurst,Ashford
+2021-01-05,975000,TN26 2NQ,D,N,F,Glebe House,,Church Lane,Kenardington,Ashford
+2021-01-05,240000,TN26 1HS,S,N,F,4,,Molloy Road,Shadoxhurst,Ashford

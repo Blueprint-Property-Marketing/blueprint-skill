@@ -1,0 +1,837 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-27,242000,YO22 4SS,S,N,L,Lantern Cottage,,Brig Garth,Robin Hoods Bay,Whitby
+2026-08-19,165000,YO22 5AD,S,N,F,75,,Lowdale Lane,Sleights,Whitby
+2026-08-14,500000,YO22 4AE,T,N,F,24A,,Church Street,,Whitby
+2026-07-31,255000,YO22 5EG,T,N,L,Esk Hall,5 Valley View,,Sleights,Whitby
+2026-07-31,365000,YO22 5DE,D,N,F,29,,Birch Grove,Sleights,Whitby
+2026-07-31,200000,YO22 4AN,F,N,L,2,,Boulby Bank,,Whitby
+2026-07-29,350000,YO22 4LS,D,N,F,6,,Hall Farm Road,Low Hawsker,Whitby
+2026-07-16,270000,YO22 4NT,S,N,F,Horton,,,Stainsacre,Whitby
+2026-07-16,175000,YO22 4HP,S,N,F,28,,Bracken Close,,Whitby
+2026-07-15,460000,YO22 5LY,D,N,F,Samara Lodge,,,Goathland,Whitby
+2026-07-14,244000,YO22 4HP,S,N,F,9,,Bracken Close,,Whitby
+2026-07-06,285000,YO22 5HG,D,N,F,8,,Hermitage Way,Sleights,Whitby
+2026-07-06,175000,YO22 4JA,T,N,F,51,,Helredale Road,,Whitby
+2026-06-30,150000,YO22 4HP,S,N,F,30,,Bracken Close,,Whitby
+2026-06-26,185000,YO22 4JD,T,N,F,16,,Larpool Crescent,,Whitby
+2026-06-24,497000,YO22 5AN,S,N,F,Mulgrave Cottage,,,Goathland,Whitby
+2026-06-03,260000,YO22 4UN,S,N,F,5,,Kingston Garth,Fylingthorpe,Whitby
+2026-06-02,173000,YO22 4DN,F,N,L,7,,Sandside,,Whitby
+2026-05-29,258000,YO22 5EH,T,N,F,119,,Coach Road,Sleights,Whitby
+2026-05-29,485000,YO22 5AN,S,N,F,Wheatkits,,The Common,Goathland,Whitby
+2026-05-29,275000,YO22 4DY,D,N,F,58,,Kingfisher Drive,,Whitby
+2026-05-28,255000,YO22 5EN,S,N,F,181,,Coach Road,Sleights,Whitby
+2026-05-26,250000,YO22 4DY,S,N,F,59,,Kingfisher Drive,,Whitby
+2026-05-22,240000,YO22 4DZ,S,N,F,31,,Heather Drive,,Whitby
+2026-05-18,365000,YO22 4DY,D,N,F,90,,Kingfisher Drive,,Whitby
+2026-05-14,445000,YO22 5HX,D,N,F,St. Ninians,,,Ugglebarnby,Whitby
+2026-05-08,248000,YO22 4QP,S,N,F,40,,Nightingale Drive,,Whitby
+2026-05-07,290000,YO22 5BZ,S,N,F,9,,Birch Avenue,Sleights,Whitby
+2026-05-06,142000,YO22 4AA,S,N,F,3,,Horse Road,,Whitby
+2026-04-29,470000,YO22 4RS,T,N,F,1,,The Esplanade,Robin Hoods Bay,Whitby
+2026-04-22,395000,YO22 4QT,D,N,F,2,,Sandpiper Place,,Whitby
+2026-04-20,275000,YO22 4GF,D,N,F,1,,Harrisons Court,,Whitby
+2026-04-17,545000,YO22 5HU,D,N,F,Foss Way,,Ugglebarnby Lane,Ugglebarnby,Whitby
+2026-04-17,170000,YO22 5DP,S,N,F,58,,Iburndale Lane,Sleights,Whitby
+2026-04-17,325000,YO22 4LG,D,N,F,8,,Prospect Field,High Hawsker,Whitby
+2026-03-31,183800,YO22 4EL,S,N,F,8,,Studley Terrace,,Whitby
+2026-03-30,470000,YO22 5EQ,D,N,F,166,,Coach Road,Sleights,Whitby
+2026-03-30,412500,YO22 5BZ,D,N,F,11A,,Birch Avenue,Sleights,Whitby
+2026-03-27,265000,YO22 4NX,D,N,F,29,,Mulgrave View,Stainsacre,Whitby
+2026-03-26,190000,YO22 4HU,S,N,F,2,,Stainsacre Lane,,Whitby
+2026-03-24,232500,YO22 5DN,D,N,F,24,,Ingham Close,Sleights,Whitby
+2026-03-24,270000,YO22 4FH,F,N,L,Holt Court,Flat D8,Whitehall Landing,,Whitby
+2026-03-23,185000,YO22 4HN,T,N,F,49,,Queens Drive,,Whitby
+2026-03-19,430000,YO22 4RQ,D,N,F,The Nook,,Mount Pleasant South,Robin Hoods Bay,Whitby
+2026-03-19,265000,YO22 4DE,S,N,F,102,,Church Street,,Whitby
+2026-03-17,155000,YO22 5EY,D,N,F,Nestling Heights,,,Littlebeck,Whitby
+2026-03-16,175000,YO22 4DY,T,N,F,30,,Kingfisher Drive,,Whitby
+2026-03-10,299950,YO22 4EW,S,N,F,14,,Abrahams Quay,,Whitby
+2026-03-03,365000,YO22 4NU,D,N,F,30,,Summerfield Lane,Stainsacre,Whitby
+2026-02-19,295000,YO22 4NX,S,N,F,14,,Mulgrave View,Stainsacre,Whitby
+2026-02-13,245000,YO22 4HL,S,N,F,18,,Captain Cooks Crescent,,Whitby
+2026-01-30,276000,YO22 5JZ,T,N,F,4,,Water Ark Cottages,Goathland,Whitby
+2026-01-30,585000,YO22 5DS,D,N,F,6,,The Cliff,Iburndale,Whitby
+2026-01-26,157000,YO22 4HY,S,N,F,123,,St Peters Road,,Whitby
+2026-01-20,270000,YO22 4FH,F,N,L,Richardson Court,5,Whitehall Landing,,Whitby
+2026-01-19,150000,YO22 4ED,S,N,F,9,,Abbots Walk,,Whitby
+2026-01-15,395000,YO22 4FW,D,N,F,1,,Corncrake Drive,,Whitby
+2026-01-09,385000,YO22 4LG,S,N,F,6,,Prospect Field,High Hawsker,Whitby
+2025-12-19,295000,YO22 4TR,D,N,F,Melrose Cottage,,Old Church Lane,Fylingthorpe,Whitby
+2025-12-18,600000,YO22 4QN,D,N,F,Oakwood,,,Fylingdales,Whitby
+2025-12-17,255000,YO22 5AN,T,N,F,2,,Memorial Cottages,Goathland,Whitby
+2025-12-15,240000,YO22 4QU,D,N,F,10,,Wagtail Crescent,,Whitby
+2025-12-15,255000,YO22 4JQ,T,N,F,19,,St Peters Court,,Whitby
+2025-12-15,210000,YO22 4HN,T,N,F,11,,Queens Drive,,Whitby
+2025-12-15,213000,YO22 4EG,S,N,F,7,,Spital Bridge,,Whitby
+2025-12-12,168000,YO22 4LH,T,N,F,Ivydene,,,High Hawsker,Whitby
+2025-12-03,310500,YO22 5DU,D,N,F,11,,Mill Lane,Iburndale,Whitby
+2025-12-03,785000,YO22 5AN,D,N,F,Whinstone Lodge,,,Goathland,Whitby
+2025-12-01,279950,YO22 5NA,S,N,F,Montrose,,,Goathland,Whitby
+2025-11-28,365000,YO22 5ND,D,N,F,Hood House,,Beck Hole Road,Goathland,Whitby
+2025-11-26,315000,YO22 5ES,S,N,F,Meadow Cote,,Eskdaleside,Sleights,Whitby
+2025-11-25,230000,YO22 4NX,S,N,F,9,,Mulgrave View,Stainsacre,Whitby
+2025-11-20,399500,YO22 5BS,D,N,F,The Orchards,,The Avenue,Sleights,Whitby
+2025-11-20,170000,YO22 4HY,S,N,F,109,,St Peters Road,,Whitby
+2025-11-18,255000,YO22 5DJ,D,N,F,3A,,Selstone Crescent,Sleights,Whitby
+2025-11-14,420000,YO22 4GG,D,Y,F,7,,Joseph Banks Drive,,Whitby
+2025-11-13,225000,YO22 5PD,S,N,F,1,,Office Row,Grosmont,Whitby
+2025-11-10,295000,YO22 4GG,S,Y,F,9,,Joseph Banks Drive,,Whitby
+2025-10-31,580000,YO22 4GG,D,Y,F,18,,Joseph Banks Drive,,Whitby
+2025-10-27,465000,YO22 5EP,D,N,F,"Windsor Cottage, 9",,Eskdaleside,Sleights,Whitby
+2025-10-27,187500,YO22 5DW,S,N,F,44,,Ingham Close,Sleights,Whitby
+2025-10-24,165000,YO22 4SQ,T,N,L,Staith Cottage,,Chapel Street,Robin Hoods Bay,Whitby
+2025-10-24,261900,YO22 4GB,S,Y,F,18,,Lapwing Lane,,Whitby
+2025-10-23,550000,YO22 4JY,D,N,F,Hornblower Lodge,,,Hawsker,Whitby
+2025-10-23,431000,YO22 4FR,D,Y,F,18,,Abbey View Road,,Whitby
+2025-10-22,380000,YO22 5DP,D,N,F,74,,Iburndale Lane,Sleights,Whitby
+2025-10-20,100000,YO22 5LZ,S,N,F,Little Hillcrest,,The Mill Green Way,Goathland,Whitby
+2025-10-20,370000,YO22 4RN,S,N,F,Lauriedale,,Thorpe Lane,Robin Hoods Bay,Whitby
+2025-10-20,220000,YO22 4DZ,S,N,F,3,,Heather Drive,,Whitby
+2025-10-17,343000,YO22 5EF,D,N,F,7,,Yew Tree Close,Sleights,Whitby
+2025-10-17,147000,YO22 4NE,T,N,L,47,,Resolution Close,,Whitby
+2025-10-17,211500,YO22 4ES,S,N,F,2,,The Rise,,Whitby
+2025-10-15,165000,YO22 4JF,S,N,F,111,,Helredale Road,,Whitby
+2025-09-30,350000,YO22 4GG,D,Y,F,2,,Joseph Banks Drive,,Whitby
+2025-09-24,595000,YO22 4LR,D,N,F,Rigg Mill,,,Stainsacre,Whitby
+2025-09-12,582000,YO22 5AB,D,N,F,12,,Whin Green,Sleights,Whitby
+2025-09-11,222000,YO22 4QP,S,N,F,18,,Nightingale Drive,,Whitby
+2025-09-09,435000,YO22 4QA,D,N,F,1,,Cormorant Road,,Whitby
+2025-09-02,300000,YO22 5EL,D,N,F,11,,Iburndale Lane,Sleights,Whitby
+2025-08-29,590000,YO22 4JY,D,N,F,Smithy Barn,,,Hawsker,Whitby
+2025-08-29,350000,YO22 4GG,D,Y,F,6,,Joseph Banks Drive,,Whitby
+2025-08-28,1030000,YO22 5AW,D,N,F,Cherry Tree Cottage,,,Goathland,Whitby
+2025-08-27,335000,YO22 5EQ,S,N,F,152,,Coach Road,Sleights,Whitby
+2025-08-27,320000,YO22 5DJ,D,N,F,21,,Selstone Crescent,Sleights,Whitby
+2025-08-27,343000,YO22 4GB,D,Y,F,17,,Lapwing Lane,,Whitby
+2025-08-27,225000,YO22 4AX,S,N,F,1,,Primitive Methodist Chapel Yard,,Whitby
+2025-08-26,370000,YO22 5DJ,D,N,F,12,,Selstone Crescent,Sleights,Whitby
+2025-08-26,342500,YO22 5AD,D,N,F,44,,Lowdale Lane,Sleights,Whitby
+2025-08-22,405000,YO22 4SX,D,N,F,Greenfield House,,Plane Tree Street,Robin Hoods Bay,Whitby
+2025-08-22,320000,YO22 4NX,D,N,F,22,,Mulgrave View,Stainsacre,Whitby
+2025-08-22,195000,YO22 4LZ,T,N,F,Second Horse Cottage,,Lodge Hill Close,,Whitby
+2025-08-22,167500,YO22 4HX,S,N,F,60,,St Peters Road,,Whitby
+2025-08-22,195000,YO22 4FS,T,Y,F,75,,Sanderling Grove,,Whitby
+2025-08-22,256000,YO22 4FS,T,Y,F,17,,Sanderling Grove,,Whitby
+2025-08-21,400000,YO22 5AA,D,N,F,15,,Coach Road,Sleights,Whitby
+2025-08-21,143000,YO22 4EB,S,N,F,60,,Abbots Road,,Whitby
+2025-08-15,360000,YO22 4GH,S,Y,F,1,,Sparrman Gardens,,Whitby
+2025-08-13,445000,YO22 5BU,S,N,F,10,,Lowdale Lane,Sleights,Whitby
+2025-08-13,175000,YO22 4BQ,T,N,F,Welsby Cottage,,Lees Yard,,Whitby
+2025-08-04,590000,YO22 5EU,D,N,F,Ravenstone,,Blue Bank,Sleights,Whitby
+2025-08-04,300000,YO22 4HU,S,N,F,Mount Farm,,Stainsacre Lane,,Whitby
+2025-08-04,220000,YO22 4AB,D,N,F,10,,Salt Pan Well Steps,,Whitby
+2025-07-31,316000,YO22 4FR,S,Y,F,10,,Abbey View Road,,Whitby
+2025-07-29,465000,YO22 4RE,T,N,F,Winston House,,Mount Pleasant North,Robin Hoods Bay,Whitby
+2025-07-29,225000,YO22 4AX,T,N,F,3,,Primitive Methodist Chapel Yard,,Whitby
+2025-07-25,261250,YO22 4GB,S,Y,F,21,,Lapwing Lane,,Whitby
+2025-07-23,242200,YO22 4FX,S,Y,F,9,,Turnstone Road,,Whitby
+2025-07-23,239950,YO22 4ER,S,N,F,46,,St Marys Crescent,,Whitby
+2025-07-21,470000,YO22 4UN,D,N,F,8,,Kingston Garth,Fylingthorpe,Whitby
+2025-07-16,405000,YO22 4DE,T,N,F,120,,Church Street,,Whitby
+2025-07-03,565000,YO22 5ND,D,N,F,Oakley View,,Beck Hole Road,Goathland,Whitby
+2025-06-27,362500,YO22 5DP,S,N,F,48,,Iburndale Lane,Sleights,Whitby
+2025-06-27,205000,YO22 4JQ,F,N,F,26,,St Peters Court,,Whitby
+2025-06-27,155000,YO22 4HX,T,N,F,34,,St Peters Road,,Whitby
+2025-06-27,247000,YO22 4FZ,S,Y,F,18,,Dunnock Road,,Whitby
+2025-06-27,274000,YO22 4FX,D,Y,F,1,,Turnstone Road,,Whitby
+2025-06-24,165000,YO22 5QE,F,N,L,Eskside House,Upper Maisonette,Front Street,Grosmont,Whitby
+2025-06-20,243000,YO22 4JH,D,N,F,27,,Eskdale Road,,Whitby
+2025-06-20,235000,YO22 4HT,S,N,F,11,,Mount Pleasant,,Whitby
+2025-06-20,270750,YO22 4FT,D,Y,F,1,,Skylark Close,,Whitby
+2025-06-20,215000,YO22 4FS,T,Y,F,77,,Sanderling Grove,,Whitby
+2025-06-20,210500,YO22 4FS,T,Y,F,73,,Sanderling Grove,,Whitby
+2025-06-17,255000,YO22 5DE,D,N,F,33,,Birch Grove,Sleights,Whitby
+2025-06-17,335000,YO22 4FZ,D,Y,F,6,,Dunnock Road,,Whitby
+2025-06-16,260000,YO22 4JH,D,N,F,41,,Eskdale Road,,Whitby
+2025-06-16,250800,YO22 4FZ,S,Y,F,16,,Dunnock Road,,Whitby
+2025-06-16,218000,YO22 4EY,S,N,F,39,,The Ropery,,Whitby
+2025-06-13,237000,YO22 4FX,S,Y,F,5,,Turnstone Road,,Whitby
+2025-06-09,405000,YO22 4FZ,D,Y,F,4,,Dunnock Road,,Whitby
+2025-06-06,190000,YO22 4DH,T,N,F,7,,New Way Ghaut,,Whitby
+2025-06-06,225000,YO22 4DE,T,N,L,109,,Church Street,,Whitby
+2025-05-28,640000,YO22 5EG,D,N,F,Esk Hall Farm,,,Sleights,Whitby
+2025-05-16,318000,YO22 4FX,D,Y,F,7,,Turnstone Road,,Whitby
+2025-05-12,214160,YO22 4FZ,S,Y,F,20,,Dunnock Road,,Whitby
+2025-05-12,215000,YO22 4FX,S,Y,F,6,,Turnstone Road,,Whitby
+2025-04-23,195000,YO22 4JA,S,N,F,65,,Helredale Road,,Whitby
+2025-04-22,237500,YO22 4JW,D,N,F,23,,Muncaster Way,,Whitby
+2025-04-09,225000,YO22 4NT,T,N,F,Rambler Cottage,,,Stainsacre,Whitby
+2025-03-31,390000,YO22 5LA,S,N,F,Highmoor,,,Goathland,Whitby
+2025-03-31,420000,YO22 4QP,D,N,F,7,,Nightingale Drive,,Whitby
+2025-03-31,340000,YO22 4GG,D,Y,F,3,,Joseph Banks Drive,,Whitby
+2025-03-31,380000,YO22 4GG,D,Y,F,10,,Joseph Banks Drive,,Whitby
+2025-03-31,295850,YO22 4FZ,S,Y,F,22,,Dunnock Road,,Whitby
+2025-03-31,293000,YO22 4FB,T,N,L,7,,Whitehall Landing,,Whitby
+2025-03-28,240000,YO22 4NX,D,N,F,11,,Mulgrave View,Stainsacre,Whitby
+2025-03-28,210000,YO22 4FX,S,Y,F,4,,Turnstone Road,,Whitby
+2025-03-27,570000,YO22 5HD,D,N,F,4,,Netherby Close,Sleights,Whitby
+2025-03-27,223250,YO22 4FZ,T,Y,F,12,,Dunnock Road,,Whitby
+2025-03-27,274510,YO22 4FX,D,Y,F,2,,Turnstone Road,,Whitby
+2025-03-27,252000,YO22 4FU,T,Y,F,18,,Merlin Lane,,Whitby
+2025-03-26,270000,YO22 4NR,S,N,F,20,,Rigg View,Stainsacre,Whitby
+2025-03-26,260000,YO22 4LS,D,N,F,4,,Hall Farm Road,Low Hawsker,Whitby
+2025-03-26,365000,YO22 4GG,D,Y,F,11,,Joseph Banks Drive,,Whitby
+2025-03-21,355000,YO22 5DA,S,N,F,28,,Birch Avenue,Sleights,Whitby
+2025-03-21,215000,YO22 4GH,T,Y,F,26,,Sparrman Gardens,,Whitby
+2025-03-21,338000,YO22 4GG,D,Y,F,1,,Joseph Banks Drive,,Whitby
+2025-03-21,265000,YO22 4GE,S,Y,F,3,,Whalebone Lane,,Whitby
+2025-03-21,351500,YO22 4FU,D,Y,F,8,,Merlin Lane,,Whitby
+2025-03-20,618000,YO22 4PN,D,N,F,Tripolar,,Church Lane,Fylingthorpe,Whitby
+2025-03-19,350000,YO22 5HE,D,N,F,8,,Fouracre Drive,Sleights,Whitby
+2025-03-19,167500,YO22 4HN,T,N,F,41,,Queens Drive,,Whitby
+2025-03-19,240000,YO22 4DY,S,N,F,63,,Kingfisher Drive,,Whitby
+2025-03-18,200000,YO22 4QH,T,N,F,Flask Inn Bungalows,3,,Fylingdales,Whitby
+2025-03-17,232750,YO22 4FZ,T,Y,F,8,,Dunnock Road,,Whitby
+2025-03-13,310000,YO22 5EP,S,N,F,1,,Eskdaleside,Sleights,Whitby
+2025-03-07,146000,YO22 5ET,D,N,F,Hard Struggle Cottages,1,Eskdaleside,Sleights,Whitby
+2025-03-06,350000,YO22 5AA,S,N,F,7,,Coach Road,Sleights,Whitby
+2025-02-28,282000,YO22 5HG,D,N,F,31,,Hermitage Way,Sleights,Whitby
+2025-02-28,350000,YO22 5EQ,D,N,L,146,,Coach Road,Sleights,Whitby
+2025-02-28,327000,YO22 5EF,S,N,F,5,,Yew Tree Close,Sleights,Whitby
+2025-02-27,270000,YO22 5QQ,S,N,F,1,,Priory Park,Grosmont,Whitby
+2025-02-24,287500,YO22 4TU,D,N,L,Nether Bank,,Thorpe Green Bank,Fylingthorpe,Whitby
+2025-02-21,259960,YO22 4FU,T,Y,F,20,,Merlin Lane,,Whitby
+2025-02-21,340400,YO22 4FU,D,Y,F,10,,Merlin Lane,,Whitby
+2025-02-18,370000,YO22 4GG,D,Y,F,12,,Joseph Banks Drive,,Whitby
+2025-02-14,185500,YO22 4JG,D,N,F,17A,,Helredale Road,,Whitby
+2025-02-14,250000,YO22 4HP,S,N,F,29,,Bracken Close,,Whitby
+2025-02-10,250000,YO22 5PP,T,N,F,4,,New Houses,Grosmont,Whitby
+2025-02-07,360000,YO22 5JD,D,N,F,Newton Cragg,,,Sneaton,Whitby
+2025-02-07,300000,YO22 5EP,D,N,F,24,,Eskdaleside,Sleights,Whitby
+2025-02-07,300000,YO22 5EP,D,N,F,24,,Eskdaleside,Sleights,Whitby
+2025-02-07,205000,YO22 5DE,D,N,F,12A,,Birch Grove,Sleights,Whitby
+2025-02-07,254600,YO22 4FU,S,Y,F,35,,Merlin Lane,,Whitby
+2025-02-06,485000,YO22 4RB,T,N,F,6,,Elm Grove,Robin Hoods Bay,Whitby
+2025-01-31,600000,YO22 5EP,D,N,F,34,,Eskdaleside,Sleights,Whitby
+2025-01-31,308750,YO22 4FU,D,Y,F,28,,Merlin Lane,,Whitby
+2025-01-30,364800,YO22 4FR,D,Y,F,55,,Abbey View Road,,Whitby
+2025-01-29,375000,YO22 5HG,D,N,F,9,,Hermitage Way,Sleights,Whitby
+2025-01-15,320000,YO22 5BG,D,N,F,The Old Chapel,The Vestry,Esk Valley,Grosmont,Whitby
+2025-01-15,150000,YO22 4AN,F,N,L,3,,Boulby Bank,,Whitby
+2025-01-06,265000,YO22 5EL,S,N,F,3,,Iburndale Lane,Sleights,Whitby
+2024-12-20,240000,YO22 5HH,D,N,F,Treetops,,Golden Grove,,Whitby
+2024-12-19,370000,YO22 4QP,D,N,F,30,,Nightingale Drive,,Whitby
+2024-12-19,232800,YO22 4FZ,S,Y,F,14,,Dunnock Road,,Whitby
+2024-12-18,400000,YO22 5EX,D,N,F,Moorgate,,Hobbin Head Lane,Sleights,Whitby
+2024-12-18,342500,YO22 4SG,T,N,F,Bramblwick,,The Bolts,Robin Hoods Bay,Whitby
+2024-12-18,199950,YO22 4NR,S,N,F,2,,Rigg View,Stainsacre,Whitby
+2024-12-18,120000,YO22 4NE,T,N,L,35,,Resolution Close,,Whitby
+2024-12-16,210000,YO22 5BY,S,N,F,19,,Orchard Road,Sleights,Whitby
+2024-12-16,930000,YO22 5AN,D,N,F,The Beacon,,,Goathland,Whitby
+2024-12-16,162000,YO22 4EA,S,N,F,15,,Abbots Road,,Whitby
+2024-12-13,270000,YO22 4GE,S,Y,F,11,,Whalebone Lane,,Whitby
+2024-12-13,349600,YO22 4FZ,D,Y,F,2,,Dunnock Road,,Whitby
+2024-12-13,348650,YO22 4FR,D,Y,F,53,,Abbey View Road,,Whitby
+2024-12-12,365000,YO22 5BX,S,N,F,8,,Lowdale Court,Sleights,Whitby
+2024-12-12,385000,YO22 4FR,D,Y,F,2,,Abbey View Road,,Whitby
+2024-12-10,365000,YO22 5DS,T,N,F,2,,The Cliff,Iburndale,Whitby
+2024-12-03,240000,YO22 5HE,D,N,F,22,,Fouracre Drive,Sleights,Whitby
+2024-12-03,540000,YO22 5BB,S,N,F,Delves Farm Cottage,,,Egton Grange,Whitby
+2024-12-03,226000,YO22 4GH,T,Y,F,28,,Sparrman Gardens,,Whitby
+2024-12-02,173000,YO22 5DQ,T,N,F,17,,Hall Pasture,Sleights,Whitby
+2024-11-29,389950,YO22 4GH,D,Y,F,3,,Sparrman Gardens,,Whitby
+2024-11-27,250000,YO22 5BY,S,N,F,17,,Orchard Road,Sleights,Whitby
+2024-11-27,394950,YO22 4GF,D,Y,F,4,,Harrisons Court,,Whitby
+2024-11-22,345800,YO22 4QA,D,N,F,9,,Cormorant Road,,Whitby
+2024-11-19,265000,YO22 4LD,S,N,F,4,,Mill View,Low Hawsker,Whitby
+2024-11-15,130000,YO22 4QU,S,N,L,1,,Wagtail Crescent,,Whitby
+2024-11-14,160000,YO22 4HW,T,N,F,60,,Queens Drive,,Whitby
+2024-11-13,300000,YO22 4SQ,T,N,L,12,,Chapel Street,Robin Hoods Bay,Whitby
+2024-11-11,265000,YO22 4FE,F,N,L,Scott Court,4,Whitehall Landing,,Whitby
+2024-11-08,265000,YO22 5HS,S,N,F,Sea View Cottages,1,Beacon Way,Sneaton,Whitby
+2024-11-05,412500,YO22 4LT,D,N,F,3,,Mill Lane,Low Hawsker,Whitby
+2024-11-01,669000,YO22 5HT,D,N,F,Highfields,,Ugglebarnby Lane,Sneaton,Whitby
+2024-10-31,180000,YO22 4HY,T,N,F,99,,St Peters Road,,Whitby
+2024-10-30,330000,YO22 4PA,D,N,F,Summerfield House,,,Stainsacre,Whitby
+2024-10-25,272500,YO22 5PP,T,N,F,3,,New Houses,Grosmont,Whitby
+2024-10-25,369700,YO22 4GH,D,Y,F,5,,Sparrman Gardens,,Whitby
+2024-10-25,275000,YO22 4GE,S,Y,F,5,,Whalebone Lane,,Whitby
+2024-10-22,176500,YO22 4JD,T,N,F,29,,Larpool Crescent,,Whitby
+2024-10-18,395000,YO22 4DB,T,N,F,12B,,Sandgate,,Whitby
+2024-10-16,315000,YO22 4EY,T,N,F,33,,The Ropery,,Whitby
+2024-10-10,280000,YO22 4RT,T,N,F,2,,Bloomswell,Robin Hoods Bay,Whitby
+2024-10-10,170000,YO22 4JD,S,N,F,46,,Larpool Crescent,,Whitby
+2024-10-09,187000,YO22 5DG,T,N,F,25,,Birch Crescent,Sleights,Whitby
+2024-09-30,315000,YO22 4LS,D,N,F,1,,Hall Farm Road,Low Hawsker,Whitby
+2024-09-27,350000,YO22 5AA,D,N,F,Ramblers Court,1,Coach Road,Sleights,Whitby
+2024-09-26,320000,YO22 5NA,S,N,F,Mansfield,,,Goathland,Whitby
+2024-09-26,250000,YO22 5BH,S,N,F,5,,Old School Gardens,Sleights,Whitby
+2024-09-25,375000,YO22 4RS,T,N,F,7,,The Esplanade,Robin Hoods Bay,Whitby
+2024-09-25,195000,YO22 4HP,S,N,F,8,,Bracken Close,,Whitby
+2024-09-23,339000,YO22 5EZ,D,N,F,Bleach Garth Farm,,Moor Lane,Littlebeck,Whitby
+2024-09-20,315000,YO22 5EP,S,N,F,20,,Eskdaleside,Sleights,Whitby
+2024-09-20,575000,YO22 4PL,D,N,F,The Cabin,,,Raw,Whitby
+2024-09-19,200000,YO22 4AE,T,N,F,4,,Church Street,,Whitby
+2024-09-16,300000,YO22 4QP,D,N,F,34,,Nightingale Drive,,Whitby
+2024-09-12,195000,YO22 4EA,S,N,F,59,,Abbots Road,,Whitby
+2024-09-02,327000,YO22 5BY,S,N,F,3,,Orchard Road,Sleights,Whitby
+2024-09-02,223000,YO22 4NZ,T,N,L,10,,Riverside View,,Whitby
+2024-08-23,297000,YO22 4FU,S,Y,F,24,,Merlin Lane,,Whitby
+2024-08-22,165000,YO22 5DJ,S,N,F,18,,Selstone Crescent,Sleights,Whitby
+2024-08-22,234650,YO22 4FU,S,Y,F,17,,Merlin Lane,,Whitby
+2024-08-16,330000,YO22 4QP,D,N,F,8,,Nightingale Drive,,Whitby
+2024-08-16,385000,YO22 4GH,D,Y,F,30,,Sparrman Gardens,,Whitby
+2024-08-09,270000,YO22 4FU,S,Y,F,22,,Merlin Lane,,Whitby
+2024-08-08,308750,YO22 4GD,D,Y,F,9,,Osprey Grove,,Whitby
+2024-08-06,265000,YO22 5EG,T,N,F,Esk Hall,2 Valley View,,Sleights,Whitby
+2024-08-06,810000,YO22 4LE,D,N,F,West End Farm,,,Low Hawsker,Whitby
+2024-08-05,165000,YO22 4AN,F,N,L,2,,Boulby Bank,,Whitby
+2024-08-02,375000,YO22 4FW,D,Y,F,3,,Corncrake Drive,,Whitby
+2024-07-30,362500,YO22 5LA,S,N,F,Springfield House,,,Goathland,Whitby
+2024-07-30,270000,YO22 4HP,D,N,F,12,,Bracken Close,,Whitby
+2024-07-26,235000,YO22 4HL,T,N,F,10,,Captain Cooks Crescent,,Whitby
+2024-07-26,399950,YO22 4GF,D,Y,F,9,,Harrisons Court,,Whitby
+2024-07-26,85000,YO22 4DY,F,N,L,2A,,Kingfisher Drive,,Whitby
+2024-07-25,422500,YO22 5BU,D,N,L,2A,,Lowdale Lane,Sleights,Whitby
+2024-07-22,270000,YO22 4LQ,D,N,F,15,,Beechfield,High Hawsker,Whitby
+2024-07-19,225000,YO22 4DA,T,N,F,4,,Ellerby Lane,,Whitby
+2024-07-19,123000,YO22 4AE,F,N,L,12,,Church Street,,Whitby
+2024-07-19,93000,YO22 4AB,F,N,F,3,,Salt Pan Well Steps,,Whitby
+2024-07-17,265000,YO22 5HF,D,N,F,7,,Spring Close,Sleights,Whitby
+2024-07-15,190000,YO22 4JG,S,N,F,31A,,Helredale Road,,Whitby
+2024-07-12,377000,YO22 4GD,D,Y,F,7,,Osprey Grove,,Whitby
+2024-07-05,415000,YO22 4GE,D,Y,F,1,,Whalebone Lane,,Whitby
+2024-07-05,215000,YO22 4DY,S,N,F,71,,Kingfisher Drive,,Whitby
+2024-07-03,350000,YO22 5NB,S,N,F,2,,Oakfield Avenue,Goathland,Whitby
+2024-06-28,202500,YO22 4JJ,S,N,F,12,,Eskdale Road,,Whitby
+2024-06-28,192500,YO22 4HZ,T,N,F,76,,Helredale Road,,Whitby
+2024-06-28,300000,YO22 4GF,S,Y,F,5,,Harrisons Court,,Whitby
+2024-06-28,270000,YO22 4FU,D,Y,F,5,,Merlin Lane,,Whitby
+2024-06-28,270000,YO22 4FU,D,Y,F,15,,Merlin Lane,,Whitby
+2024-06-26,398200,YO22 4RS,T,N,F,6,,The Esplanade,Robin Hoods Bay,Whitby
+2024-06-25,260000,YO22 4LG,S,N,F,28,,Prospect Field,High Hawsker,Whitby
+2024-06-21,315000,YO22 4UN,S,N,F,4,,Kingston Garth,Fylingthorpe,Whitby
+2024-06-21,225000,YO22 4TZ,T,N,F,Hillside Cottage,,Sled Gates,Fylingthorpe,Whitby
+2024-06-21,280000,YO22 4FU,D,Y,F,26,,Merlin Lane,,Whitby
+2024-06-20,295000,YO22 5LX,T,N,F,Post Office Cottage,,,Goathland,Whitby
+2024-06-19,344400,YO22 5DY,D,N,F,9,,Smiddy Fields,Sleights,Whitby
+2024-06-17,246000,YO22 4FU,S,Y,F,19,,Merlin Lane,,Whitby
+2024-06-14,240000,YO22 4GH,T,Y,F,24,,Sparrman Gardens,,Whitby
+2024-06-14,264000,YO22 4FU,T,Y,F,16,,Merlin Lane,,Whitby
+2024-06-13,142000,YO22 4AS,T,N,L,53,,Church Street,,Whitby
+2024-06-07,270000,YO22 4GD,S,Y,F,3,,Osprey Grove,,Whitby
+2024-06-07,320000,YO22 4FU,D,Y,F,14,,Merlin Lane,,Whitby
+2024-06-06,240000,YO22 4JQ,T,N,F,11,,St Peters Court,,Whitby
+2024-05-30,239000,YO22 5BG,S,N,F,Whinstone Cottage,2,Esk Valley,Grosmont,Whitby
+2024-05-28,325000,YO22 4TT,S,N,L,Oak Dene,,Middlewood Lane,Fylingthorpe,Whitby
+2024-05-24,425000,YO22 5HG,D,N,F,19,,Hermitage Way,Sleights,Whitby
+2024-05-21,400000,YO22 5JU,S,N,F,6,,The Orchards,Goathland,Whitby
+2024-05-21,569250,YO22 5AN,S,N,F,Halmer Grange,,,Goathland,Whitby
+2024-05-17,682000,YO22 5AN,D,N,F,The Old Vicarage,,,Goathland,Whitby
+2024-05-17,293000,YO22 4FF,F,N,L,Hunton Court,23,Whitehall Landing,,Whitby
+2024-05-16,180000,YO22 5DG,T,N,F,12,,Birch Crescent,Sleights,Whitby
+2024-05-13,395000,YO22 4RS,T,N,F,2,,The Esplanade,Robin Hoods Bay,Whitby
+2024-05-09,455000,YO22 5EF,D,N,F,14,,Yew Tree Close,Sleights,Whitby
+2024-05-07,290000,YO22 4DW,T,N,F,14,,Henrietta Street,,Whitby
+2024-05-03,304000,YO22 4FU,D,Y,F,12,,Merlin Lane,,Whitby
+2024-04-29,307000,YO22 4QP,D,N,F,51,,Nightingale Drive,,Whitby
+2024-04-26,280000,YO22 4AS,T,N,F,60,,Church Street,,Whitby
+2024-04-25,261250,YO22 4FW,S,Y,F,10,,Corncrake Drive,,Whitby
+2024-04-22,320000,YO22 5HD,D,N,F,1,,Netherby Close,Sleights,Whitby
+2024-04-22,212500,YO22 5DJ,S,N,F,9,,Selstone Crescent,Sleights,Whitby
+2024-04-22,228000,YO22 4JW,S,N,F,16,,Muncaster Way,,Whitby
+2024-04-18,165000,YO22 4HP,S,N,F,22,,Bracken Close,,Whitby
+2024-04-12,375000,YO22 5AS,D,N,F,Stuntry Carr,,,Goathland,Whitby
+2024-04-12,143000,YO22 4ED,D,N,F,32,,Abbots Walk,,Whitby
+2024-04-12,135000,YO22 4AR,T,N,L,4,,Taylersons Terrace,,Whitby
+2024-04-03,82000,YO22 4AA,S,N,F,2A,,Horse Road,,Whitby
+2024-03-28,276500,YO22 5EQ,D,N,F,116,,Coach Road,Sleights,Whitby
+2024-03-27,260000,YO22 5PW,T,N,F,6,,Hollins Cottages,Grosmont,Whitby
+2024-03-26,445000,YO22 5EF,D,N,F,"Lavender House, 11",,Yew Tree Close,Sleights,Whitby
+2024-03-22,275500,YO22 4GD,S,Y,F,1,,Osprey Grove,,Whitby
+2024-03-21,185000,YO22 4QU,T,N,F,39,,Wagtail Crescent,,Whitby
+2024-03-19,175000,YO22 5EH,T,N,F,93,,Coach Road,Sleights,Whitby
+2024-03-15,300000,YO22 5HH,S,N,F,Craggill House,,Golden Grove,,Whitby
+2024-03-15,370000,YO22 4GE,S,Y,F,2,,Whalebone Lane,,Whitby
+2024-03-15,310400,YO22 4GD,D,Y,F,5,,Osprey Grove,,Whitby
+2024-03-13,205000,YO22 4EY,S,N,F,42,,The Ropery,,Whitby
+2024-03-07,350000,YO22 4QP,D,N,F,34,,Nightingale Drive,,Whitby
+2024-03-01,275000,YO22 4AD,T,N,F,"Gideons Secret, 3",,Prospect Place,,Whitby
+2024-02-23,315000,YO22 4GF,S,Y,F,7,,Harrisons Court,,Whitby
+2024-02-23,316500,YO22 4FU,D,Y,F,6,,Merlin Lane,,Whitby
+2024-02-20,170000,YO22 4JG,S,N,F,31B,,Helredale Road,,Whitby
+2024-02-19,501550,YO22 5LE,S,N,F,Lord Nelson,,,Beckhole,Whitby
+2024-02-16,237500,YO22 4FU,S,Y,F,3,,Merlin Lane,,Whitby
+2024-02-15,55000,YO22 4JW,F,N,L,53,,Muncaster Way,,Whitby
+2024-02-07,360000,YO22 5JT,S,N,F,Mallyan Lodge,,Orchard Lane,Goathland,Whitby
+2024-02-05,388500,YO22 5JU,S,N,F,1,,The Orchards,Goathland,Whitby
+2024-02-05,365750,YO22 4FW,D,Y,F,1,,Corncrake Drive,,Whitby
+2024-02-02,295000,YO22 4GF,D,Y,F,1,,Harrisons Court,,Whitby
+2024-02-02,252000,YO22 4FU,S,Y,F,1,,Merlin Lane,,Whitby
+2024-01-31,350000,YO22 5HG,D,N,F,16,,Hermitage Way,Sleights,Whitby
+2024-01-22,170000,YO22 4HJ,T,N,F,7,,Mount Farm Close,,Whitby
+2024-01-17,220000,YO22 4TN,T,N,F,Newton Cottage,,Thorpe Lane,Fylingthorpe,Whitby
+2024-01-16,421500,YO22 4RH,S,N,F,Glenmont,,Prospect Field,Robin Hoods Bay,Whitby
+2024-01-12,420000,YO22 5PF,D,N,F,Esk House,,,Grosmont,Whitby
+2023-12-21,322500,YO22 4TR,T,N,F,Inglenook,,Old Church Lane,Fylingthorpe,Whitby
+2023-12-20,249950,YO22 4HL,S,N,F,7,,Captain Cooks Crescent,,Whitby
+2023-12-20,315000,YO22 4GF,S,Y,F,8,,Harrisons Court,,Whitby
+2023-12-20,175500,YO22 4DH,F,N,F,12,,New Way Ghaut,,Whitby
+2023-12-15,275000,YO22 4FU,S,Y,F,4,,Merlin Lane,,Whitby
+2023-12-11,200000,YO22 5EN,S,N,F,167,,Coach Road,Sleights,Whitby
+2023-12-08,225000,YO22 5NB,S,N,F,10,,Oakfield Avenue,Goathland,Whitby
+2023-12-08,340000,YO22 5LA,S,N,F,Ash Leam,,,Goathland,Whitby
+2023-12-08,245000,YO22 4FU,S,Y,F,2,,Merlin Lane,,Whitby
+2023-12-07,585000,YO22 4TR,T,N,F,Melrose Villa,,Old Church Lane,Fylingthorpe,Whitby
+2023-12-04,170000,YO22 4EU,T,N,F,1,,The Ropery,,Whitby
+2023-12-01,246000,YO22 4NU,D,N,F,8,,Summerfield Lane,Stainsacre,Whitby
+2023-12-01,200000,YO22 4JW,S,N,F,46,,Muncaster Way,,Whitby
+2023-12-01,293000,YO22 4GE,S,Y,F,15,,Whalebone Lane,,Whitby
+2023-11-27,190000,YO22 4HX,S,N,F,48,,St Peters Road,,Whitby
+2023-11-27,227000,YO22 4EY,T,N,F,18,,The Ropery,,Whitby
+2023-11-23,425000,YO22 4RN,S,N,F,Oakmount,,Thorpe Lane,Robin Hoods Bay,Whitby
+2023-11-20,189950,YO22 4FN,F,N,L,March Court,12,Whitehall Landing,,Whitby
+2023-11-16,575000,YO22 4UB,D,N,F,Thorpe Lodge,,Middlewood Lane,Fylingthorpe,Whitby
+2023-11-10,615000,YO22 5AA,D,N,F,29,,Coach Road,Sleights,Whitby
+2023-11-10,280000,YO22 4RN,D,N,F,Linden Lea,,Thorpe Lane,Robin Hoods Bay,Whitby
+2023-11-10,210000,YO22 4JE,S,N,F,24,,Larpool Lane,,Whitby
+2023-11-10,185000,YO22 4HT,S,N,F,21,,Mount Pleasant,,Whitby
+2023-11-09,235000,YO22 4AD,T,N,F,4,,Prospect Place,,Whitby
+2023-11-08,185000,YO22 5DW,S,N,F,70,,Ingham Close,Sleights,Whitby
+2023-11-06,224000,YO22 4BW,T,N,F,13,,White Horse Yard,,Whitby
+2023-11-03,185000,YO22 4EJ,T,N,F,3,,Horners Terrace,,Whitby
+2023-10-27,235000,YO22 5PP,T,N,F,4,,New Houses,Grosmont,Whitby
+2023-10-27,570000,YO22 5LG,D,N,F,Allantoft Cottage,,Green End,Goathland,Whitby
+2023-10-27,300000,YO22 5EU,S,N,F,Moorside,,Blue Bank,Sleights,Whitby
+2023-10-27,325000,YO22 4TW,T,N,L,1,,Moorland Terrace,Fylingthorpe,Whitby
+2023-10-27,280000,YO22 4LQ,D,N,F,10,,Beechfield,High Hawsker,Whitby
+2023-10-27,220000,YO22 4JA,T,N,F,50,,Helredale Road,,Whitby
+2023-10-27,275000,YO22 4HP,D,N,F,1,,Bracken Close,,Whitby
+2023-10-20,295000,YO22 5HP,T,N,F,Manor House Farm Cottage,,,Sneaton,Whitby
+2023-10-17,375000,YO22 4QP,D,N,F,17,,Nightingale Drive,,Whitby
+2023-10-17,160000,YO22 4JJ,T,N,F,24,,Eskdale Road,,Whitby
+2023-10-16,330000,YO22 4FW,D,Y,F,5,,Corncrake Drive,,Whitby
+2023-10-11,325000,YO22 5DS,S,N,F,5,,The Cliff,Iburndale,Whitby
+2023-10-06,318000,YO22 4GH,D,Y,F,2,,Sparrman Gardens,,Whitby
+2023-10-06,264000,YO22 4FW,S,Y,F,8,,Corncrake Drive,,Whitby
+2023-10-04,420000,YO22 4QS,D,N,F,6,,Harrier Place,,Whitby
+2023-10-02,460000,YO22 4PN,D,N,F,Stoneleigh,,Church Lane,Fylingthorpe,Whitby
+2023-09-29,192850,YO22 4FW,S,Y,F,38,,Corncrake Drive,,Whitby
+2023-09-29,200000,YO22 4FW,S,Y,F,32,,Corncrake Drive,,Whitby
+2023-09-29,192000,YO22 4FW,T,Y,F,16,,Corncrake Drive,,Whitby
+2023-09-28,190000,YO22 4FW,T,Y,F,14,,Corncrake Drive,,Whitby
+2023-09-28,201000,YO22 4FW,T,Y,F,12,,Corncrake Drive,,Whitby
+2023-09-26,245000,YO22 4DY,S,N,F,49,,Kingfisher Drive,,Whitby
+2023-09-22,185000,YO22 5DQ,S,N,F,13,,Hall Pasture,Sleights,Whitby
+2023-09-22,234000,YO22 4JD,S,N,F,40,,Larpool Crescent,,Whitby
+2023-09-22,159000,YO22 4HA,S,N,L,15,,Boulby Bank,,Whitby
+2023-09-22,198000,YO22 4FW,S,Y,F,36,,Corncrake Drive,,Whitby
+2023-09-22,244000,YO22 4FW,S,Y,F,34,,Corncrake Drive,,Whitby
+2023-09-22,142500,YO22 4FW,T,Y,F,30,,Corncrake Drive,,Whitby
+2023-09-21,175000,YO22 5HS,D,N,F,The Laurels,,Beacon Way,Sneaton,Whitby
+2023-09-21,435000,YO22 4UN,D,N,F,13,,Kingston Garth,Fylingthorpe,Whitby
+2023-09-20,195000,YO22 5EP,D,N,F,45,,Eskdaleside,Sleights,Whitby
+2023-09-14,180000,YO22 5HS,D,N,F,Beaconsfield House,,Beacon Way,Sneaton,Whitby
+2023-09-08,425000,YO22 5DP,T,N,F,52,,Iburndale Lane,Sleights,Whitby
+2023-09-07,417035,YO22 4EF,S,N,F,Glen Holme,,Spital Bridge,,Whitby
+2023-09-06,195000,YO22 4EJ,T,N,F,7,,Horners Terrace,,Whitby
+2023-09-04,188000,YO22 4EB,S,N,F,58,,Abbots Road,,Whitby
+2023-09-01,205000,YO22 5DT,T,N,F,4,,The Row,Iburndale,Whitby
+2023-09-01,377500,YO22 5DP,D,N,F,31,,Iburndale Lane,Sleights,Whitby
+2023-09-01,240000,YO22 4EH,T,N,F,11,,Green Lane,,Whitby
+2023-09-01,85000,YO22 4DY,F,N,L,2A,,Kingfisher Drive,,Whitby
+2023-08-30,419000,YO22 5JU,D,N,F,5,,The Orchards,Goathland,Whitby
+2023-08-30,425000,YO22 5BY,D,N,F,27,,Orchard Road,Sleights,Whitby
+2023-08-30,265000,YO22 5AN,T,N,F,3,,Memorial Cottages,Goathland,Whitby
+2023-08-29,210000,YO22 4LJ,T,N,F,High Farm Cottages,6,,High Hawsker,Whitby
+2023-08-25,245000,YO22 4FF,F,N,L,Hunton Court,9,Whitehall Landing,,Whitby
+2023-08-21,279000,YO22 4JJ,D,N,F,2B,,Eskdale Road,,Whitby
+2023-08-10,225000,YO22 4HP,D,N,F,23,,Bracken Close,,Whitby
+2023-08-07,280000,YO22 4UA,D,N,F,Catam,,Thorpe Bank,Fylingthorpe,Whitby
+2023-08-01,320000,YO22 4ST,T,N,L,Chiltern Cottage,,Fisherhead,Robin Hoods Bay,Whitby
+2023-07-28,175000,YO22 4AB,T,N,F,"Neptune Cottage, 7",,Salt Pan Well Steps,,Whitby
+2023-07-19,305000,YO22 5AB,S,N,F,8,,Whin Green,Sleights,Whitby
+2023-07-19,448500,YO22 4TU,T,N,F,Rosslyn House,,Thorpe Green Bank,Fylingthorpe,Whitby
+2023-07-18,388500,YO22 4SY,T,N,F,4,,Coastguard Cottages,Robin Hoods Bay,Whitby
+2023-07-18,190000,YO22 4HU,S,N,F,5,,Stainsacre Lane,,Whitby
+2023-07-13,212500,YO22 5PB,T,N,F,4,,Station Cottages,Grosmont,Whitby
+2023-07-10,260000,YO22 5BU,S,N,F,25,,Lowdale Lane,Sleights,Whitby
+2023-07-06,525000,YO22 5AA,D,N,F,41,,Coach Road,Sleights,Whitby
+2023-07-03,59375,YO22 4QR,T,N,F,6,,Swallow Crescent,,Whitby
+2023-07-03,180000,YO22 4JA,T,N,F,51,,Helredale Road,,Whitby
+2023-07-03,147750,YO22 4HY,S,N,F,107,,St Peters Road,,Whitby
+2023-06-30,325000,YO22 5HN,D,N,F,Chain Bridge Cottage,,Sneaton Lane,Ruswarp,Whitby
+2023-06-30,249500,YO22 4JD,S,N,F,28,,Larpool Crescent,,Whitby
+2023-06-29,252700,YO22 4FW,D,Y,F,9,,Corncrake Drive,,Whitby
+2023-06-23,360000,YO22 4FW,D,Y,F,7,,Corncrake Drive,,Whitby
+2023-06-23,318500,YO22 4FW,D,Y,F,4,,Corncrake Drive,,Whitby
+2023-06-22,201440,YO22 4FY,S,Y,F,3,,Bittern Road,,Whitby
+2023-06-22,356000,YO22 4FW,D,Y,F,6,,Corncrake Drive,,Whitby
+2023-06-16,274550,YO22 4FY,D,Y,F,7,,Bittern Road,,Whitby
+2023-06-16,353000,YO22 4FR,D,Y,F,7,,Abbey View Road,,Whitby
+2023-06-15,220000,YO22 4NA,D,N,F,1A,,Police Houses,,Whitby
+2023-06-15,310000,YO22 4FR,D,Y,F,9,,Abbey View Road,,Whitby
+2023-06-15,340000,YO22 4FR,D,Y,F,1,,Abbey View Road,,Whitby
+2023-06-13,420000,YO22 5HS,T,N,F,Beacon House,,Beacon Way,Sneaton,Whitby
+2023-06-12,210000,YO22 4FY,S,Y,F,5,,Bittern Road,,Whitby
+2023-06-12,310000,YO22 4FR,D,Y,F,11,,Abbey View Road,,Whitby
+2023-06-09,300000,YO22 5EP,S,N,F,1A,,Eskdaleside,Sleights,Whitby
+2023-06-09,545000,YO22 4TR,D,N,F,Alpha House,,Old Church Lane,Fylingthorpe,Whitby
+2023-06-09,247000,YO22 4DY,S,N,F,46,,Kingfisher Drive,,Whitby
+2023-06-06,425000,YO22 5QF,D,N,F,11,,Waterloo Cottages,Grosmont,Whitby
+2023-06-06,245000,YO22 4QR,S,N,F,22,,Swallow Crescent,,Whitby
+2023-06-06,420000,YO22 4QP,D,N,F,7,,Nightingale Drive,,Whitby
+2023-06-06,275000,YO22 4LQ,D,N,F,1,,Beechfield,High Hawsker,Whitby
+2023-06-02,750000,YO22 5BD,D,N,F,Peat House,,,Egton Grange,Whitby
+2023-06-02,285000,YO22 4NX,S,N,F,6,,Mulgrave View,Stainsacre,Whitby
+2023-06-02,210000,YO22 4JB,D,N,F,19,,Helredale Gardens,,Whitby
+2023-05-31,225000,YO22 4BW,D,N,F,3,,White Horse Yard,,Whitby
+2023-05-30,245000,YO22 4JJ,S,N,F,6,,Eskdale Road,,Whitby
+2023-05-30,190000,YO22 4AB,T,N,F,9,,Salt Pan Well Steps,,Whitby
+2023-05-26,395000,YO22 5AN,S,N,F,Moorholm,,,Goathland,Whitby
+2023-05-26,265000,YO22 4TU,T,N,F,Rosemary Cottage,,Thorpe Green Bank,Fylingthorpe,Whitby
+2023-05-22,330000,YO22 5HL,D,N,F,The Haven,,Sneaton Lane,Ruswarp,Whitby
+2023-05-19,245000,YO22 5LQ,T,N,F,Stone Cottages,2,Green End,Goathland,Whitby
+2023-05-19,200000,YO22 4JQ,S,N,F,36,,St Peters Court,,Whitby
+2023-05-15,122250,YO22 4QR,S,N,L,8,,Swallow Crescent,,Whitby
+2023-05-15,144000,YO22 4EJ,T,N,F,8,,Horners Terrace,,Whitby
+2023-05-05,195000,YO22 4NE,T,N,L,39,,Resolution Close,,Whitby
+2023-05-05,198000,YO22 4DN,F,N,L,6,,Sandside,,Whitby
+2023-05-04,172450,YO22 4EJ,T,N,F,5,,Horners Terrace,,Whitby
+2023-04-28,164000,YO22 5PD,S,N,F,1,,Office Row,Grosmont,Whitby
+2023-04-28,788000,YO22 5LA,D,N,F,Long Meadow,,,Goathland,Whitby
+2023-04-28,650000,YO22 5AN,D,N,F,Wheathill Cottage,,,Goathland,Whitby
+2023-04-25,139950,YO22 4EL,T,N,F,1,,Studley Terrace,,Whitby
+2023-04-24,285000,YO22 5DS,S,N,F,4,,The Cliff,Iburndale,Whitby
+2023-04-21,255000,YO22 4JW,D,N,F,20,,Muncaster Way,,Whitby
+2023-04-21,271500,YO22 4AY,T,N,F,10,,Greens Yard,,Whitby
+2023-04-17,155000,YO22 4SR,T,N,L,Daisy Bank,,Sunnyside,Robin Hoods Bay,Whitby
+2023-04-14,225000,YO22 5DJ,S,N,F,10,,Selstone Crescent,Sleights,Whitby
+2023-04-14,625000,YO22 5AE,D,N,F,6,,Echo Hill,Sleights,Whitby
+2023-04-14,475000,YO22 4RB,T,N,F,1,,Elm Grove,Robin Hoods Bay,Whitby
+2023-04-11,375000,YO22 4PF,D,N,F,Braemore,,Butt Lane,Robin Hoods Bay,Whitby
+2023-04-06,155000,YO22 4JG,T,N,F,12,,Helredale Road,,Whitby
+2023-04-03,290000,YO22 4SR,T,N,F,Sunnyside Cottage,,Sunnyside,Robin Hoods Bay,Whitby
+2023-03-31,105000,YO22 4UP,F,N,L,7,,Middlewood Meadow,Fylingthorpe,Whitby
+2023-03-21,94954,YO22 4RH,S,N,F,Reggit Head,,Prospect Field,Robin Hoods Bay,Whitby
+2023-03-13,185000,YO22 4NY,T,N,L,17,,Riverside Walk,,Whitby
+2023-03-10,240000,YO22 5AA,S,N,F,37,,Coach Road,Sleights,Whitby
+2023-03-03,185000,YO22 4ES,T,N,F,6,,The Rise,,Whitby
+2023-02-27,310000,YO22 4NX,S,N,F,28,,Mulgrave View,Stainsacre,Whitby
+2023-02-13,415000,YO22 5BY,D,N,F,27,,Orchard Road,Sleights,Whitby
+2023-02-09,270000,YO22 4AS,T,N,F,61,,Church Street,,Whitby
+2023-02-03,300000,YO22 4FD,F,N,L,The Old Sail Loft,1,Whitehall Landing,,Whitby
+2023-02-03,155000,YO22 4EA,S,N,F,7,,Abbots Road,,Whitby
+2023-02-01,375000,YO22 4FJ,F,N,L,Turnbull Court,Flat 8,Whitehall Landing,,Whitby
+2023-02-01,280000,YO22 4EF,F,N,L,Whitehall,Flat 4,Spital Bridge,,Whitby
+2023-01-31,290000,YO22 4SU,D,N,L,Fieldside,,Littlewood Terrace,Robin Hoods Bay,Whitby
+2023-01-31,474500,YO22 4ST,T,N,F,Greenbank House,,Fisherhead,Robin Hoods Bay,Whitby
+2023-01-31,325000,YO22 4SQ,T,N,F,Bay Cottage,,Chapel Street,Robin Hoods Bay,Whitby
+2023-01-30,275000,YO22 5DS,T,N,F,4A,,The Cliff,Iburndale,Whitby
+2023-01-20,118000,YO22 4HJ,F,N,L,9,Flat 1A,Mount Farm Close,,Whitby
+2023-01-16,433000,YO22 4RS,T,N,F,4,,The Esplanade,Robin Hoods Bay,Whitby
+2023-01-13,287000,YO22 4HP,D,N,F,6,,Bracken Close,,Whitby
+2023-01-11,385000,YO22 5BT,D,N,F,63,,Coach Road,Sleights,Whitby
+2023-01-06,172500,YO22 4HX,S,N,F,44,,St Peters Road,,Whitby
+2022-12-21,595000,YO22 5HA,D,N,F,Bracken Hill,,,Littlebeck,Whitby
+2022-12-21,390000,YO22 4RN,S,N,F,Crossgates,,Thorpe Lane,Robin Hoods Bay,Whitby
+2022-12-21,345000,YO22 4FA,F,N,L,Campion Dock,1,Whitehall Landing,,Whitby
+2022-12-20,280000,YO22 5HG,D,N,F,38,,Hermitage Way,Sleights,Whitby
+2022-12-20,184000,YO22 4AN,F,N,L,12,,Boulby Bank,,Whitby
+2022-12-19,238950,YO22 5PX,T,N,F,3,,North Road,Grosmont,Whitby
+2022-12-19,236000,YO22 4NY,S,N,L,6,,Riverside Walk,,Whitby
+2022-12-19,490000,YO22 4EF,D,N,L,3,,Whitehall Gardens,,Whitby
+2022-12-16,251000,YO22 5DU,T,N,F,9,,Mill Lane,Iburndale,Whitby
+2022-12-09,246999,YO22 5PD,T,N,F,9,,Office Row,Grosmont,Whitby
+2022-12-01,370000,YO22 4LH,D,N,F,Atlanta,,,High Hawsker,Whitby
+2022-12-01,378000,YO22 4DY,D,N,F,82,,Kingfisher Drive,,Whitby
+2022-11-29,360000,YO22 5EW,T,N,F,3,,Eskdale Close,Sleights,Whitby
+2022-11-25,285000,YO22 5HG,D,N,F,29,,Hermitage Way,Sleights,Whitby
+2022-11-18,742500,YO22 4RE,D,N,F,Overdale,,Mount Pleasant North,Robin Hoods Bay,Whitby
+2022-11-18,210000,YO22 4JQ,S,N,F,17,,St Peters Court,,Whitby
+2022-11-16,322500,YO22 4NX,D,N,F,32,,Mulgrave View,Stainsacre,Whitby
+2022-11-11,205000,YO22 4EL,T,N,F,6,,Studley Terrace,,Whitby
+2022-11-04,260150,YO22 4QR,S,N,F,14,,Swallow Crescent,,Whitby
+2022-11-04,295000,YO22 4JH,S,N,F,49,,Eskdale Road,,Whitby
+2022-10-28,180000,YO22 4HZ,T,N,F,90,,Helredale Road,,Whitby
+2022-10-25,450000,YO22 4SH,T,N,F,Georgian House,,King Street,Robin Hoods Bay,Whitby
+2022-10-17,275000,YO22 5EH,F,N,L,"Sleights Hall, 145",Apartment 6,Coach Road,Sleights,Whitby
+2022-10-14,645000,YO22 5LX,D,N,F,Englefield,,,Goathland,Whitby
+2022-10-12,410000,YO22 5EQ,D,N,L,146,,Coach Road,Sleights,Whitby
+2022-10-07,190000,YO22 4NE,T,N,L,32,,Resolution Close,,Whitby
+2022-10-04,215000,YO22 5QQ,T,N,F,4,,Priory Park,Grosmont,Whitby
+2022-10-04,192000,YO22 4EL,T,N,F,5,,Studley Terrace,,Whitby
+2022-09-30,1100000,YO22 5JS,D,N,F,The Grange,,,Goathland,Whitby
+2022-09-30,240000,YO22 5BZ,S,N,F,11,,Birch Avenue,Sleights,Whitby
+2022-09-30,385050,YO22 5AA,S,N,F,5,,Coach Road,Sleights,Whitby
+2022-09-30,230000,YO22 4QP,D,N,F,54,,Nightingale Drive,,Whitby
+2022-09-26,275000,YO22 5EH,T,N,F,99,,Coach Road,Sleights,Whitby
+2022-09-26,170000,YO22 4ED,S,N,F,9,,Abbots Walk,,Whitby
+2022-09-08,295000,YO22 4TZ,T,N,F,Highfield Cottage,,Sled Gates,Fylingthorpe,Whitby
+2022-09-05,263000,YO22 4NX,D,N,F,30,,Mulgrave View,Stainsacre,Whitby
+2022-09-05,595000,YO22 4EF,D,N,F,Chequers,,Spital Bridge,,Whitby
+2022-08-31,100000,YO22 4HN,T,N,F,31,,Queens Drive,,Whitby
+2022-08-25,315000,YO22 4LB,D,N,F,1,,Station Road,Hawsker,Whitby
+2022-08-23,455000,YO22 5NA,S,N,F,The Lodge,,,Goathland,Whitby
+2022-08-19,245000,YO22 4JW,S,N,F,22,,Muncaster Way,,Whitby
+2022-08-19,295000,YO22 4JH,D,N,F,41,,Eskdale Road,,Whitby
+2022-08-19,331776,YO22 4EF,S,N,F,Glen House,,Spital Bridge,,Whitby
+2022-08-18,430000,YO22 4QP,D,N,F,55,,Nightingale Drive,,Whitby
+2022-08-11,625000,YO22 5EQ,D,N,F,"Tinley Barn, 132A",,Coach Road,Sleights,Whitby
+2022-08-09,240000,YO22 4AS,T,N,L,58A,,Church Street,,Whitby
+2022-08-08,350000,YO22 4LB,D,N,F,West Garth,,Station Road,Hawsker,Whitby
+2022-08-05,405000,YO22 5HG,D,N,F,44,,Hermitage Way,Sleights,Whitby
+2022-08-03,500000,YO22 5EP,S,N,F,42,,Eskdaleside,Sleights,Whitby
+2022-08-03,425000,YO22 5EP,S,N,F,40,,Eskdaleside,Sleights,Whitby
+2022-07-29,699995,YO22 5PF,D,N,F,The White House,,,Grosmont,Whitby
+2022-07-29,300000,YO22 5DP,S,N,F,60,,Iburndale Lane,Sleights,Whitby
+2022-07-28,245000,YO22 5BH,S,N,F,7,,Old School Gardens,Sleights,Whitby
+2022-07-27,563500,YO22 4QN,D,N,F,Shambala,,,Fylingdales,Whitby
+2022-07-27,250000,YO22 4BW,T,N,F,Agars,,White Horse Yard,,Whitby
+2022-07-22,295000,YO22 4TR,S,N,F,Home Garth,,Old Church Lane,Fylingthorpe,Whitby
+2022-07-22,627500,YO22 4PS,D,N,F,The Ridings,,,Normanby,Whitby
+2022-07-22,252000,YO22 4AA,T,N,F,2,,Horse Road,,Whitby
+2022-07-21,235000,YO22 4HZ,T,N,F,87,,Helredale Road,,Whitby
+2022-07-15,135000,YO22 4EJ,T,N,F,2,,Horners Terrace,,Whitby
+2022-07-15,287000,YO22 4DS,T,N,F,2,,Blackburns Yard,,Whitby
+2022-07-12,230000,YO22 4TX,T,N,F,4,,Maypole Green,Fylingthorpe,Whitby
+2022-07-11,850000,YO22 5PU,D,N,F,Hollins Hall,,,Grosmont,Whitby
+2022-07-08,375000,YO22 4QH,D,N,F,Brackenrigg,,,Fylingdales,Whitby
+2022-07-01,245000,YO22 4EF,F,N,L,Whitehall,Flat 6,Spital Bridge,,Whitby
+2022-06-30,373500,YO22 5BX,D,N,F,7,,Lowdale Court,Sleights,Whitby
+2022-06-29,477500,YO22 4DS,T,N,F,15,,Blackburns Yard,,Whitby
+2022-06-17,395000,YO22 5DP,D,N,F,55,,Iburndale Lane,Sleights,Whitby
+2022-06-17,325000,YO22 5DJ,D,N,F,4,,Selstone Crescent,Sleights,Whitby
+2022-06-13,180500,YO22 4HN,T,N,F,49,,Queens Drive,,Whitby
+2022-06-06,595000,YO22 4TS,D,N,F,2,,Lowcroft,Fylingthorpe,Whitby
+2022-06-01,172000,YO22 5BZ,S,N,F,5,,Birch Avenue,Sleights,Whitby
+2022-06-01,121000,YO22 4LN,D,N,F,Bramlea,,,High Hawsker,Whitby
+2022-05-31,205000,YO22 5BU,F,N,L,2D,,Lowdale Lane,Sleights,Whitby
+2022-05-31,160000,YO22 4ER,S,N,F,30,,St Marys Crescent,,Whitby
+2022-05-27,265000,YO22 5EG,T,N,F,Esk Hall,2 Valley View,,Sleights,Whitby
+2022-05-27,205000,YO22 5BZ,T,N,F,43,,Birch Avenue,Sleights,Whitby
+2022-05-27,189500,YO22 4HA,F,N,L,22,,Boulby Bank,,Whitby
+2022-05-27,230000,YO22 4AE,D,N,F,30C,,Church Street,,Whitby
+2022-05-13,305000,YO22 5LA,S,N,F,4,,Darnholme Road,Goathland,Whitby
+2022-05-12,185000,YO22 4JQ,S,N,F,36,,St Peters Court,,Whitby
+2022-05-12,175000,YO22 4HX,T,N,F,122,,St Peters Road,,Whitby
+2022-05-12,217500,YO22 4HP,S,N,F,9,,Bracken Close,,Whitby
+2022-05-11,584999,YO22 4PE,D,N,F,West Quarter,,Whitby Road,Robin Hoods Bay,Whitby
+2022-05-11,260000,YO22 4LB,S,N,F,Morfa Cottage,,Station Road,Hawsker,Whitby
+2022-05-11,281000,YO22 4EF,F,N,L,Whitehall,Flat 5,Spital Bridge,,Whitby
+2022-05-08,188500,YO22 5EQ,T,N,L,106,,Coach Road,Sleights,Whitby
+2022-05-06,230000,YO22 4HP,S,N,F,10,,Bracken Close,,Whitby
+2022-04-28,335255,YO22 4RX,T,N,L,Darnholm,,The Square,Robin Hoods Bay,Whitby
+2022-04-28,265000,YO22 4DB,T,N,F,12D,,Sandgate,,Whitby
+2022-04-26,275000,YO22 4RQ,F,N,L,Mayville,Flat 1,Mount Pleasant South,Robin Hoods Bay,Whitby
+2022-04-22,340000,YO22 5EF,D,N,F,The Coach House,,Yew Tree Close,Sleights,Whitby
+2022-04-22,277000,YO22 4LQ,D,N,F,10,,Beechfield,High Hawsker,Whitby
+2022-04-22,215000,YO22 4JG,S,N,F,23,,Helredale Road,,Whitby
+2022-04-21,200000,YO22 4JL,S,N,F,6,,Fairmead Way,,Whitby
+2022-04-19,170000,YO22 5PD,T,N,F,5,,Office Row,Grosmont,Whitby
+2022-04-14,250000,YO22 4LQ,D,N,F,3,,Beechfield,High Hawsker,Whitby
+2022-04-11,250000,YO22 5LA,S,N,F,Bracken Gill,,,Goathland,Whitby
+2022-04-11,268500,YO22 4JW,S,N,F,41,,Muncaster Way,,Whitby
+2022-04-08,200000,YO22 5PD,T,N,F,8,,Office Row,Grosmont,Whitby
+2022-04-05,222500,YO22 4NZ,F,N,L,7,,Riverside View,,Whitby
+2022-04-01,250000,YO22 4AE,T,N,F,8,,Church Street,,Whitby
+2022-03-31,489000,YO22 5LQ,D,N,F,Green End House,,Green End,Goathland,Whitby
+2022-03-31,354000,YO22 4FH,F,N,L,Richardson Court,8,Whitehall Landing,,Whitby
+2022-03-28,302500,YO22 4QP,D,N,F,6,,Nightingale Drive,,Whitby
+2022-03-17,150000,YO22 5LX,F,N,L,Aidensfield Stores,The Apartment,The Green,Goathland,Whitby
+2022-03-17,297500,YO22 5DJ,D,N,F,26,,Selstone Crescent,Sleights,Whitby
+2022-03-16,246000,YO22 5PW,T,N,F,6,,Hollins Cottages,Grosmont,Whitby
+2022-03-16,171000,YO22 5HP,F,N,L,Sneaton Hall,Apartment 3,,Sneaton,Whitby
+2022-03-16,290000,YO22 4UA,S,N,F,Braeside,,Thorpe Bank,Fylingthorpe,Whitby
+2022-03-16,385000,YO22 4RN,D,N,F,Cedar Garth,,Thorpe Lane,Robin Hoods Bay,Whitby
+2022-03-11,370000,YO22 5JU,S,N,F,1,,The Orchards,Goathland,Whitby
+2022-03-07,225000,YO22 5EU,S,N,F,Dene View,,Blue Bank,Sleights,Whitby
+2022-03-02,645000,YO22 5EH,D,N,F,115,,Coach Road,Sleights,Whitby
+2022-02-25,168000,YO22 4NT,T,N,F,Laurel Cottage,,,Stainsacre,Whitby
+2022-02-25,210500,YO22 4DY,S,N,F,71,,Kingfisher Drive,,Whitby
+2022-02-25,168000,YO22 4AS,F,N,L,51,Basement Flat,Church Street,,Whitby
+2022-02-24,175000,YO22 4DG,F,N,L,1A,,Woodwarks Yard,,Whitby
+2022-02-21,315000,YO22 5EW,D,N,F,11,,Eskdale Close,Sleights,Whitby
+2022-02-21,575000,YO22 5DD,D,N,F,5,,Low Garth,Sleights,Whitby
+2022-02-17,420000,YO22 4RR,D,N,F,7,,Laburnum Avenue,Robin Hoods Bay,Whitby
+2022-02-17,187000,YO22 4ES,S,N,F,2,,The Rise,,Whitby
+2022-02-11,300000,YO22 4HR,D,N,F,7,,Crowdy Close,,Whitby
+2022-02-11,185100,YO22 4FH,F,N,L,Richardson Court,7,Whitehall Landing,,Whitby
+2022-02-07,350000,YO22 5EL,D,N,F,9,,Iburndale Lane,Sleights,Whitby
+2022-02-04,130000,YO22 4HY,T,N,F,75,,St Peters Road,,Whitby
+2022-01-28,285000,YO22 4UN,D,N,F,8,,Kingston Garth,Fylingthorpe,Whitby
+2022-01-27,280000,YO22 4LG,S,N,F,5,,Prospect Field,High Hawsker,Whitby
+2022-01-12,455000,YO22 5BZ,D,N,F,25,,Birch Avenue,Sleights,Whitby
+2022-01-12,229500,YO22 4DY,S,N,F,1,,Kingfisher Drive,,Whitby
+2022-01-05,375000,YO22 5BX,D,N,F,6,,Lowdale Court,Sleights,Whitby
+2022-01-05,260000,YO22 4NR,S,N,F,20,,Rigg View,Stainsacre,Whitby
+2021-12-21,85000,YO22 5PN,T,N,F,Fairhead Cottages,2,Fairhead,Grosmont,Whitby
+2021-12-21,640000,YO22 5AT,D,N,F,Honeybee Nest,,,Egton Grange,Whitby
+2021-12-21,540000,YO22 4NF,D,N,F,1,,Larpool Mews,,Whitby
+2021-12-20,298750,YO22 5AD,S,N,F,81,,Lowdale Lane,Sleights,Whitby
+2021-12-20,265000,YO22 4SF,T,N,F,Beadle Cottage,,New Road,Robin Hoods Bay,Whitby
+2021-12-17,170000,YO22 5EH,F,N,L,"Sleights Hall, 145",Apartment 2,Coach Road,Sleights,Whitby
+2021-12-17,282500,YO22 4RH,S,N,F,Craigielee,,Prospect Field,Robin Hoods Bay,Whitby
+2021-12-16,225000,YO22 4EX,T,N,F,White Cottages,2,The Ropery,,Whitby
+2021-12-15,210000,YO22 4NZ,T,N,L,10,,Riverside View,,Whitby
+2021-12-10,160000,YO22 5DW,S,N,F,42,,Ingham Close,Sleights,Whitby
+2021-12-08,451000,YO22 5NA,D,N,F,The Lady Hilda,,,Goathland,Whitby
+2021-12-02,303000,YO22 4QP,D,N,F,4,,Nightingale Drive,,Whitby
+2021-12-01,681000,YO22 5AN,D,N,F,Heathwold,,,Goathland,Whitby
+2021-12-01,419125,YO22 4SH,T,N,L,2,,King Street,Robin Hoods Bay,Whitby
+2021-11-30,260000,YO22 5EG,T,N,L,Esk Hall,4 Valley View,,Sleights,Whitby
+2021-11-25,287500,YO22 4JW,D,N,F,25,,Muncaster Way,,Whitby
+2021-11-19,400000,YO22 4DF,T,N,L,"Lantern Cottage, 13",,Kiln Yard,,Whitby
+2021-11-18,525000,YO22 5LY,D,N,F,Greenfields,,,Goathland,Whitby
+2021-11-18,595000,YO22 5HX,D,N,F,Pennyhedge,,,Ugglebarnby,Whitby
+2021-11-12,200000,YO22 5BZ,S,N,F,29,,Birch Avenue,Sleights,Whitby
+2021-11-10,225000,YO22 5LZ,T,N,F,Hillcrest,,The Mill Green Way,Goathland,Whitby
+2021-11-10,295000,YO22 5HF,D,N,F,1,,Spring Close,Sleights,Whitby
+2021-11-04,435000,YO22 4TZ,D,N,F,Copsford,,Sled Gates,Fylingthorpe,Whitby
+2021-10-27,422000,YO22 5DA,D,N,F,"Brooklands, 24",,Birch Avenue,Sleights,Whitby
+2021-10-05,505000,YO22 4TH,S,N,F,Fern Dene,,Thorpe Lane,Fylingthorpe,Whitby
+2021-10-01,150000,YO22 4RH,T,N,F,The Post House,,Prospect Field,Robin Hoods Bay,Whitby
+2021-09-30,236000,YO22 5LX,T,N,F,Post Office Cottage,,,Goathland,Whitby
+2021-09-30,282500,YO22 5EQ,S,N,F,160,,Coach Road,Sleights,Whitby
+2021-09-30,325000,YO22 4SL,T,N,F,Osbourne Cottage,,Shell Hill,Robin Hoods Bay,Whitby
+2021-09-30,330000,YO22 4JY,D,N,F,High House,,,Hawsker,Whitby
+2021-09-30,250000,YO22 4FE,F,N,L,Scott Court,12,Whitehall Landing,,Whitby
+2021-09-29,381000,YO22 5HS,D,N,F,Ivy Cottage,,Beacon Way,Sneaton,Whitby
+2021-09-29,190000,YO22 5BU,S,N,F,5,,Lowdale Lane,Sleights,Whitby
+2021-09-29,675000,YO22 4TQ,D,N,F,Heathfield,,Thorpe Lane,Robin Hoods Bay,Whitby
+2021-09-29,395000,YO22 4QA,D,N,F,7,,Cormorant Road,,Whitby
+2021-09-29,258000,YO22 4LQ,D,N,F,8,,Beechfield,High Hawsker,Whitby
+2021-09-24,190000,YO22 4JL,S,N,F,9,,Fairmead Way,,Whitby
+2021-09-24,100000,YO22 4HG,F,N,L,1,,Franks Terrace,,Whitby
+2021-09-24,180000,YO22 4EZ,F,N,L,4,,Boulby Bank Top,,Whitby
+2021-09-23,170000,YO22 4EL,T,N,F,7,,Studley Terrace,,Whitby
+2021-09-22,685000,YO22 4PE,D,N,F,Eboracum,,Whitby Road,Robin Hoods Bay,Whitby
+2021-09-21,370000,YO22 4TZ,S,N,F,Briar Lea,,Sled Gates,Fylingthorpe,Whitby
+2021-09-20,356000,YO22 4SD,T,N,F,Laurel Cottage,,Martins Row,Robin Hoods Bay,Whitby
+2021-09-20,350000,YO22 4JH,D,N,F,43,,Eskdale Road,,Whitby
+2021-09-16,1100000,YO22 4TH,D,N,F,The Grange,,Thorpe Lane,Fylingthorpe,Whitby
+2021-09-10,570000,YO22 5LL,D,N,F,Long Barn,,,Goathland,Whitby
+2021-09-09,265000,YO22 4DZ,S,N,F,4,,Heather Drive,,Whitby
+2021-09-09,230000,YO22 4DZ,S,N,F,1,,Heather Drive,,Whitby
+2021-09-07,172000,YO22 4HY,S,N,F,53,,St Peters Road,,Whitby
+2021-09-03,202500,YO22 4NE,T,N,L,16 Endeavour Court,,Larpool Lane,,Whitby
+2021-09-01,270000,YO22 5DP,D,N,F,74,,Iburndale Lane,Sleights,Whitby
+2021-08-31,177500,YO22 4HN,T,N,F,11,,Queens Drive,,Whitby
+2021-08-27,118625,YO22 4QU,T,N,L,57,,Wagtail Crescent,,Whitby
+2021-08-27,215000,YO22 4NX,S,N,F,6,,Mulgrave View,Stainsacre,Whitby
+2021-08-27,220000,YO22 4NU,D,N,F,28,,Summerfield Lane,Stainsacre,Whitby
+2021-08-27,165000,YO22 4JJ,S,N,F,12,,Eskdale Road,,Whitby
+2021-08-24,171000,YO22 4FJ,F,N,L,Turnbull Court,Flat 7,Whitehall Landing,,Whitby
+2021-08-24,285000,YO22 4BA,T,N,F,Jacksons Cottage,,Grape Lane,,Whitby
+2021-08-18,235000,YO22 4FJ,F,N,L,Turnbull Court,6,Whitehall Landing,,Whitby
+2021-08-13,210000,YO22 5EH,F,N,L,"Sleights Hall, 145",Apartment 9,Coach Road,Sleights,Whitby
+2021-08-12,320000,YO22 4AS,T,N,F,59,,Church Street,,Whitby
+2021-08-10,262500,YO22 4BW,S,N,F,17,,White Horse Yard,,Whitby
+2021-08-09,295000,YO22 4AS,T,N,F,"Sunnyside Cottage, 49",,Church Street,,Whitby
+2021-08-06,288000,YO22 5EW,S,N,F,5,,Eskdale Close,Sleights,Whitby
+2021-08-06,269950,YO22 4QP,D,N,F,26,,Nightingale Drive,,Whitby
+2021-07-30,220000,YO22 4NY,T,N,L,16,,Riverside Walk,,Whitby
+2021-07-23,185000,YO22 4RE,F,N,L,Lyndhurst,Flat 2,Mount Pleasant North,Robin Hoods Bay,Whitby
+2021-07-22,135500,YO22 4DD,F,N,L,16,,Market Place,,Whitby
+2021-07-20,335000,YO22 5ND,D,N,F,Orchard Bungalow,,Beck Hole Road,Goathland,Whitby
+2021-07-15,205000,YO22 5JA,T,N,F,1,,River View,Ruswarp,Whitby
+2021-07-15,310000,YO22 4JW,D,N,F,27,,Muncaster Way,,Whitby
+2021-07-14,425000,YO22 5DP,D,N,F,33,,Iburndale Lane,Sleights,Whitby
+2021-07-09,170000,YO22 5PA,T,N,F,Riverside House,,Front Street,Grosmont,Whitby
+2021-07-09,270000,YO22 5HP,D,N,F,3,,Sneaton Hall Cottages,Sneaton,Whitby
+2021-07-09,290000,YO22 4LS,D,N,F,5,,Hall Farm Road,Low Hawsker,Whitby
+2021-07-09,300000,YO22 4HU,D,N,F,Mount View,,Stainsacre Lane,,Whitby
+2021-07-08,182000,YO22 4FN,F,N,L,March Court,20,Whitehall Landing,,Whitby
+2021-06-30,450000,YO22 5LY,D,N,F,Waites House,,,Goathland,Whitby
+2021-06-30,262000,YO22 4NT,S,N,F,Horton,,,Stainsacre,Whitby
+2021-06-30,275000,YO22 4AD,T,N,F,2,,Prospect Place,,Whitby
+2021-06-29,325000,YO22 5HD,D,N,F,8,,Netherby Close,Sleights,Whitby
+2021-06-29,362000,YO22 5EF,D,N,F,9,,Yew Tree Close,Sleights,Whitby
+2021-06-29,199000,YO22 4DY,S,N,F,44,,Kingfisher Drive,,Whitby
+2021-06-28,380000,YO22 5LD,D,N,F,Honey Suckle Cottage,,,Beckhole,Whitby
+2021-06-28,282500,YO22 5JA,T,N,F,3,,River View,Ruswarp,Whitby
+2021-06-28,525000,YO22 4QN,D,N,F,Oakwood,,,Fylingdales,Whitby
+2021-06-28,260000,YO22 4AS,T,N,F,48,,Church Street,,Whitby
+2021-06-25,535000,YO22 5PT,D,N,F,Eskdale,,,Grosmont,Whitby
+2021-06-25,400000,YO22 5BU,D,N,L,2B,,Lowdale Lane,Sleights,Whitby
+2021-06-25,265000,YO22 4TJ,S,N,L,2,,Chapel Cottages,Fylingthorpe,Whitby
+2021-06-23,262000,YO22 4DY,D,N,F,100,,Kingfisher Drive,,Whitby
+2021-06-22,250000,YO22 4LA,D,N,F,Summerfield Bungalow,,,Hawsker,Whitby
+2021-06-18,325000,YO22 5QG,S,N,F,Glencliffe,,Egton Bank,Grosmont,Whitby
+2021-06-18,512000,YO22 5AN,D,N,F,White Cottage,,,Goathland,Whitby
+2021-06-18,250000,YO22 4LD,S,N,F,1,,Mill View,Low Hawsker,Whitby
+2021-06-11,241000,YO22 4FG,F,N,L,Holt Court,2,Whitehall Landing,,Whitby
+2021-06-08,154000,YO22 4AT,F,N,L,Well Court,1,Church Street,,Whitby
+2021-06-07,230000,YO22 4QR,T,N,F,2,,Swallow Crescent,,Whitby
+2021-06-03,425000,YO22 4RL,S,N,F,Birtley House,,Station Road,Robin Hoods Bay,Whitby
+2021-06-02,305000,YO22 5ND,D,N,F,Ash Tree Cottage,,Beck Hole Road,Goathland,Whitby
+2021-06-01,320000,YO22 5HD,D,N,F,2,,Netherby Close,Sleights,Whitby
+2021-05-28,285000,YO22 4LS,D,N,F,6,,Hall Farm Road,Low Hawsker,Whitby
+2021-05-28,185000,YO22 4DZ,S,N,F,7,,Heather Drive,,Whitby
+2021-05-24,330000,YO22 4RL,T,N,F,Devon House,,Station Road,Robin Hoods Bay,Whitby
+2021-05-20,360000,YO22 5DP,D,N,F,63,,Iburndale Lane,Sleights,Whitby
+2021-05-20,420000,YO22 4TZ,D,N,F,Park Gate Cottage,,Sled Gates,Fylingthorpe,Whitby
+2021-05-19,290000,YO22 5DE,D,N,F,29,,Birch Grove,Sleights,Whitby
+2021-05-19,235000,YO22 4QU,D,N,F,18,,Wagtail Crescent,,Whitby
+2021-05-19,370000,YO22 4QP,D,N,F,46,,Nightingale Drive,,Whitby
+2021-05-14,210000,YO22 5QF,T,N,F,12,,Waterloo Cottages,Grosmont,Whitby
+2021-05-14,197000,YO22 5BZ,S,N,F,67,,Birch Avenue,Sleights,Whitby
+2021-05-14,300000,YO22 5AA,D,N,F,39,,Coach Road,Sleights,Whitby
+2021-05-14,233500,YO22 4DY,S,N,F,57,,Kingfisher Drive,,Whitby
+2021-05-13,312500,YO22 5LA,S,N,F,"Ashling, 7",,Darnholme Road,Goathland,Whitby
+2021-05-12,135000,YO22 4JG,T,N,F,14,,Helredale Road,,Whitby
+2021-05-07,165000,YO22 5PD,T,N,F,4,,Office Row,Grosmont,Whitby
+2021-05-07,142000,YO22 4JA,T,N,F,51,,Helredale Road,,Whitby
+2021-05-04,297332,YO22 5LL,D,N,F,Hawthorn Hill Cottage,,,Beckhole,Whitby
+2021-05-04,385000,YO22 5AN,S,N,F,Wheatkits,,The Common,Goathland,Whitby
+2021-04-30,275000,YO22 4SS,T,N,F,Sailmaker Cottage,,Brig Garth,Robin Hoods Bay,Whitby
+2021-04-30,270000,YO22 4NU,S,N,F,16,,Summerfield Lane,Stainsacre,Whitby
+2021-04-30,195000,YO22 4FN,F,N,L,March Court,17,Whitehall Landing,,Whitby
+2021-04-30,209000,YO22 4DY,S,N,F,46,,Kingfisher Drive,,Whitby
+2021-04-30,455000,YO22 4BA,T,N,F,3,,Grape Lane,,Whitby
+2021-04-29,740000,YO22 5PU,D,N,F,Hollins Hall,,,Grosmont,Whitby
+2021-04-29,230000,YO22 4FH,F,N,L,Richardson Court,19,Whitehall Landing,,Whitby
+2021-04-26,235195,YO22 5PQ,T,N,F,7,,Institute Row,Grosmont,Whitby
+2021-04-23,315000,YO22 5DA,D,N,L,2,,Birch Avenue,Sleights,Whitby
+2021-04-23,115000,YO22 4LA,D,N,F,Red Barn,,,Hawsker,Whitby
+2021-04-23,110000,YO22 4HJ,T,N,F,9A,,Mount Farm Close,,Whitby
+2021-04-22,330000,YO22 4QS,D,N,F,1,,Harrier Place,,Whitby
+2021-04-22,285000,YO22 4FD,F,N,L,The Old Sail Loft,3,Whitehall Landing,,Whitby
+2021-04-16,206000,YO22 4QP,S,N,F,44,,Nightingale Drive,,Whitby
+2021-04-16,155000,YO22 4NR,S,N,F,2,,Rigg View,Stainsacre,Whitby
+2021-04-16,143000,YO22 4AE,F,N,L,34,,Church Street,,Whitby
+2021-04-06,400000,YO22 4RZ,T,N,F,High Cliff,,Tommy Baxter Street,Robin Hoods Bay,Whitby
+2021-04-01,242500,YO22 5LX,T,N,F,Summerholme Cottage,,,Goathland,Whitby
+2021-04-01,400000,YO22 4TZ,D,N,F,"Glendower, 5",,Sled Gates,Fylingthorpe,Whitby
+2021-04-01,77000,YO22 4NS,S,N,F,5,,Dale View,Stainsacre,Whitby
+2021-04-01,250000,YO22 4DG,T,N,F,1A,,Woodwarks Yard,,Whitby
+2021-03-31,235000,YO22 4FJ,F,N,L,Turnbull Court,3,Whitehall Landing,,Whitby
+2021-03-29,185000,YO22 5PP,T,N,F,4,,New Houses,Grosmont,Whitby
+2021-03-29,272500,YO22 5BY,D,N,F,21,,Orchard Road,Sleights,Whitby
+2021-03-29,295000,YO22 4SQ,T,N,F,Brudnell,,Chapel Street,Robin Hoods Bay,Whitby
+2021-03-29,253000,YO22 4QU,D,N,F,29,,Wagtail Crescent,,Whitby
+2021-03-29,97500,YO22 4QU,S,N,L,1,,Wagtail Crescent,,Whitby
+2021-03-26,285000,YO22 4QP,D,N,F,59,,Nightingale Drive,,Whitby
+2021-03-26,285000,YO22 4QP,D,N,F,12,,Nightingale Drive,,Whitby
+2021-03-26,249950,YO22 4LG,S,N,F,6,,Prospect Field,High Hawsker,Whitby
+2021-03-22,230000,YO22 5HG,D,N,F,38,,Hermitage Way,Sleights,Whitby
+2021-03-19,430000,YO22 5NG,S,N,F,Barnet House,,,Goathland,Whitby
+2021-03-19,270000,YO22 5BU,D,N,F,25A,,Lowdale Lane,Sleights,Whitby
+2021-03-19,200000,YO22 5BH,S,N,F,7,,Old School Gardens,Sleights,Whitby
+2021-03-19,200000,YO22 4SF,T,N,L,White Rose Cottage,,New Road,Robin Hoods Bay,Whitby
+2021-03-19,140000,YO22 4AN,F,N,L,7,,Boulby Bank,,Whitby
+2021-03-12,140000,YO22 4ED,S,N,F,8,,Abbots Walk,,Whitby
+2021-03-10,515000,YO22 5PS,D,N,F,Eskdaleside Barn,,Eskdaleside,Grosmont,Whitby
+2021-03-04,265000,YO22 4HL,S,N,F,16,,Captain Cooks Crescent,,Whitby
+2021-03-03,290000,YO22 5HX,D,N,F,Cullies,,,Ugglebarnby,Whitby
+2021-02-26,230000,YO22 5NA,S,N,F,The Lodge,,,Goathland,Whitby
+2021-02-26,133000,YO22 4AS,F,N,L,51,Flat 1,Church Street,,Whitby
+2021-02-19,250000,YO22 4NX,S,N,F,14,,Mulgrave View,Stainsacre,Whitby
+2021-02-17,234000,YO22 5HP,T,N,F,Sneaton Hall,The Cottage,,Sneaton,Whitby
+2021-02-12,174000,YO22 4EJ,T,N,F,7,,Horners Terrace,,Whitby
+2021-02-05,175000,YO22 4NT,T,N,F,The Lodge,,,Stainsacre,Whitby
+2021-02-01,260000,YO22 4ST,F,N,L,Viewley Cottage,,Fisherhead,Robin Hoods Bay,Whitby
+2021-01-29,150000,YO22 4RH,D,N,F,Cliff Cote,,Prospect Field,Robin Hoods Bay,Whitby
+2021-01-29,190000,YO22 4EP,T,N,F,23,,Green Lane,,Whitby
+2021-01-28,299950,YO22 4FB,S,N,L,6,,Whitehall Landing,,Whitby
+2021-01-22,320000,YO22 5BX,D,N,F,7,,Lowdale Court,Sleights,Whitby
+2021-01-22,295000,YO22 4PB,D,N,F,Nookside,,Whitby Road,Robin Hoods Bay,Whitby
+2021-01-22,168500,YO22 4HW,T,N,F,32,,Queens Drive,,Whitby
+2021-01-22,71250,YO22 4DY,F,N,L,6,,Kingfisher Drive,,Whitby
+2021-01-22,150000,YO22 4DY,T,N,F,30,,Kingfisher Drive,,Whitby
+2021-01-21,279000,YO22 4JB,S,N,F,31,,Helredale Gardens,,Whitby
+2021-01-15,175000,YO22 5PX,T,N,F,4,,North Road,Grosmont,Whitby
+2021-01-08,585000,YO22 5AB,D,N,F,12,,Whin Green,Sleights,Whitby
+2021-01-08,341000,YO22 5AA,D,N,F,15,,Coach Road,Sleights,Whitby
+2021-01-07,340000,YO22 5BZ,D,N,F,17,,Birch Avenue,Sleights,Whitby

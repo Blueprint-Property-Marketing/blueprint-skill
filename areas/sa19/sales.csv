@@ -1,0 +1,629 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-11,575000,SA19 8EA,D,N,F,Pantysgyfarnog,,,Harford,Llanwrda
+2026-08-10,240000,SA19 6LB,S,N,F,"Arfryn, 9",,Thomas Street,,Llandeilo
+2026-08-03,315000,SA19 6HU,T,N,F,22,,Alan Road,,Llandeilo
+2026-07-31,450000,SA19 6PA,D,N,F,1,,Llys Yr Onnen,Ffairfach,Llandeilo
+2026-07-31,655000,SA19 6BN,D,N,F,21,,Bridge Street,,Llandeilo
+2026-07-27,370000,SA19 7PT,D,N,F,Troedyrhiw,,,Rhydcymerau,Llandeilo
+2026-07-27,135000,SA19 6UL,S,N,F,43,,Heol Cennen,Ffairfach,Llandeilo
+2026-07-17,290000,SA19 7YR,D,N,F,"Nantlais, 5",,Maescelyn,Talley,Llandeilo
+2026-07-15,170000,SA19 6PD,T,N,F,21,,Heol Myrddin,Ffairfach,Llandeilo
+2026-07-07,500000,SA19 7HS,D,N,F,Kimberley,,Talley Road,,Llandeilo
+2026-07-02,355000,SA19 7HF,D,N,F,Pantybedw,,,Capel Isaac,Llandeilo
+2026-06-30,205000,SA19 9EN,S,N,F,Llwyncelyn Cottage,,,,Llangadog
+2026-06-24,199950,SA19 6HS,T,N,F,3,,Latimer Road,,Llandeilo
+2026-06-22,125000,SA19 9EG,T,N,F,Lime Tree Cottages,1,High Street,,Llangadog
+2026-06-17,530000,SA19 7HS,D,N,F,Lasael,,Talley Road,,Llandeilo
+2026-06-12,275000,SA19 7PA,D,N,F,5,,Golyg Y Gar,Salem,Llandeilo
+2026-06-11,172500,SA19 6DD,T,N,F,21F,,New Road,,Llandeilo
+2026-06-04,800000,SA19 9EW,D,N,F,Tynlone,,,,Llangadog
+2026-05-22,245000,SA19 6RP,D,N,F,2,,Carmarthen Road,,Llandeilo
+2026-05-21,422500,SA19 6HN,D,N,F,20,,Crescent Road,,Llandeilo
+2026-05-15,250000,SA19 7LY,D,N,F,Tynewydd,,,Salem,Llandeilo
+2026-05-05,410000,SA19 7UL,D,N,F,Troedyrhiw,(Townsley-Hughes),,Capel Isaac,Llandeilo
+2026-05-05,256500,SA19 6RW,D,N,F,41,,Lon Rhys,,Llandeilo
+2026-04-24,230000,SA19 6NE,T,N,F,6,,Blende Road,,Llandeilo
+2026-04-21,200000,SA19 8QA,D,N,F,Ffosgotta,,,Ffarmers,Llanwrda
+2026-04-13,130000,SA19 7LE,S,N,F,Firknowe,,,,Llandeilo
+2026-03-31,462333,SA19 7RH,D,N,F,Brynbach,,,Rhydcymerau,Llandeilo
+2026-03-27,325000,SA19 7YH,D,N,F,Brynheulog,,,Talley,Llandeilo
+2026-03-27,134000,SA19 7JS,D,N,F,Erwlas,,,Llansawel,Llandeilo
+2026-03-20,107500,SA19 6DB,F,N,L,4,,The Mews,,Llandeilo
+2026-03-19,515000,SA19 8PJ,D,N,F,Wernfeudwy,,,Llansadwrn,Llanwrda
+2026-03-18,220000,SA19 6HS,T,N,F,11,,Latimer Road,,Llandeilo
+2026-03-18,525000,SA19 6HL,D,N,F,11,,Crescent Road,,Llandeilo
+2026-03-11,465000,SA19 7TG,D,N,F,Brodirion,,,Capel Isaac,Llandeilo
+2026-02-27,190000,SA19 9NB,D,N,F,Golwg Y Afon,,Ashfield Row,,Llangadog
+2026-02-24,290000,SA19 7JB,D,N,F,Brynderi,,,Llansawel,Llandeilo
+2026-02-16,490000,SA19 6PA,D,N,F,3,,Llys Yr Onnen,Ffairfach,Llandeilo
+2026-02-16,205000,SA19 6HU,T,N,F,21,,Alan Road,,Llandeilo
+2026-02-13,182500,SA19 6UH,S,N,F,8,,Heol Cennen,Ffairfach,Llandeilo
+2026-02-10,500000,SA19 7HS,D,N,F,Bryn Deryn,,Talley Road,,Llandeilo
+2026-02-05,365000,SA19 6DB,F,N,L,"Prospect House, 1",,New Road,,Llandeilo
+2026-02-04,685000,SA19 6HS,D,N,F,23,,Latimer Road,,Llandeilo
+2026-01-28,398000,SA19 7LU,D,N,F,Y Ddregiau,,,Salem,Llandeilo
+2026-01-16,350000,SA19 8HL,S,N,F,Ger Y Llan,,,Llansadwrn,Llanwrda
+2026-01-16,300000,SA19 6LU,D,N,F,"Mandalay, 9",,Rhosmaen Street,,Llandeilo
+2026-01-14,214500,SA19 8JZ,D,N,F,Penybanc Barn,,,Ffarmers,Llanwrda
+2026-01-06,206000,SA19 7YP,S,N,F,Dyffryn Ig,7,,Talley,Llandeilo
+2025-12-19,342000,SA19 9YF,D,N,F,Bryn,,,Llanddeusant,Llangadog
+2025-12-19,335000,SA19 6RW,D,N,F,27,,Lon Rhys,,Llandeilo
+2025-12-17,293000,SA19 6TY,D,N,F,Ty Isaf Cottage,,,Trap,Llandeilo
+2025-12-16,187500,SA19 8HD,S,N,F,Delfan,,,,Llanwrda
+2025-12-12,270000,SA19 8SH,D,N,F,Abercrymlyn,,,Crugybar,Llanwrda
+2025-12-12,315000,SA19 7PU,D,N,F,Erwain,,,Rhydcymerau,Llandeilo
+2025-12-11,85000,SA19 6SY,S,N,F,1,,Bethlehem Road,Ffairfach,Llandeilo
+2025-12-09,550000,SA19 9RU,D,N,F,Mount Pleasant,,,Gwynfe,Llangadog
+2025-12-05,480000,SA19 7ER,D,N,F,Olivers Barn,,,Capel Isaac,Llandeilo
+2025-12-03,250000,SA19 6ST,T,N,F,22,,Towy Terrace,Ffairfach,Llandeilo
+2025-12-02,465000,SA19 9NS,D,N,F,New Inn House,,,Gwynfe,Llangadog
+2025-11-28,345000,SA19 7LY,D,N,F,Derwendeg,,,Salem,Llandeilo
+2025-11-28,230000,SA19 7LY,D,N,F,Clawdd Cadno,,,Salem,Llandeilo
+2025-11-28,190000,SA19 6DU,S,N,F,4,,Dynevor Avenue,,Llandeilo
+2025-11-26,166000,SA19 6ST,T,N,F,31,,Towy Terrace,Ffairfach,Llandeilo
+2025-11-21,348000,SA19 6AJ,D,N,F,1 Nantrhibo,Nantvilla,,,Llandeilo
+2025-11-19,185000,SA19 8LE,S,N,F,3,,Beili Glas,Llansadwrn,Llanwrda
+2025-11-10,365000,SA19 7BB,D,N,F,Llwyn Y Brain,,,Manordeilo,Llandeilo
+2025-10-31,290000,SA19 7LY,D,N,F,Tynewydd,,,Salem,Llandeilo
+2025-10-31,180000,SA19 6RP,S,N,F,23,,Carmarthen Road,,Llandeilo
+2025-10-28,187000,SA19 6EB,S,N,F,15,,Heol Y Garreg Las,,Llandeilo
+2025-10-27,215000,SA19 9EH,D,N,F,Pendref,,,,Llangadog
+2025-10-27,212500,SA19 9AA,T,N,F,3,,Church Street,,Llangadog
+2025-10-27,380000,SA19 7HN,D,N,F,15,,Pant Glas Parc,,Llandeilo
+2025-10-24,480000,SA19 8DP,D,N,F,Gwar-Rhos,,,Harford,Llanwrda
+2025-10-24,459000,SA19 7LU,D,N,F,Gorlan Fach,,,Salem,Llandeilo
+2025-10-22,710000,SA19 8ER,D,N,F,Pen Y Banc Farmhouse,,,,Llanwrda
+2025-10-17,200000,SA19 7TY,D,N,F,Penybanc,,,Capel Isaac,Llandeilo
+2025-10-14,500000,SA19 9UP,D,N,F,Maespant,,,Llanddeusant,Llangadog
+2025-10-02,475000,SA19 8NX,D,N,F,Nantllwyd,,,Ffarmers,Llanwrda
+2025-09-26,130000,SA19 9BR,S,N,F,Cloth Hall,,,,Llangadog
+2025-09-22,190000,SA19 6DT,T,N,F,8,,Greenfield Place,,Llandeilo
+2025-09-17,400000,SA19 8EX,D,N,F,Maescwmpedol,,,Ffarmers,Llanwrda
+2025-09-15,130000,SA19 6NS,T,N,F,Gwynfa,,,Rhosmaen,Llandeilo
+2025-09-12,370000,SA19 9HR,S,N,F,The Mews,,,,Llangadog
+2025-09-12,200000,SA19 7EN,D,N,F,Cwmyrhyn,,,Cwmdu,Llandeilo
+2025-09-11,320000,SA19 8AU,D,N,F,7,,Maes Yr Haf,,Llanwrda
+2025-09-11,290000,SA19 6US,D,N,F,Goilan Goch,"Bumble Lodge, 2",Bethlehem Road,Ffairfach,Llandeilo
+2025-09-10,458500,SA19 9RE,S,N,F,Bryn Capel,,,Gwynfe,Llangadog
+2025-09-10,350000,SA19 7AW,D,N,F,Trefissi,,,Cwmifor,Llandeilo
+2025-09-08,157000,SA19 7HT,T,N,F,1,,Cefntiresgob Cottages,,Llandeilo
+2025-09-03,512325,SA19 6UW,D,N,F,Llwyncelyn,,Heol Cennen,Ffairfach,Llandeilo
+2025-08-29,140000,SA19 6UH,T,N,F,50,,Heol Cennen,Ffairfach,Llandeilo
+2025-08-22,320000,SA19 6YL,D,N,F,Roath,,,Bethlehem,Llandeilo
+2025-08-21,235000,SA19 6LA,S,N,F,4,,Stepney Road,,Llandeilo
+2025-08-19,115000,SA19 9BU,D,N,F,Y Bwythyn,,,,Llangadog
+2025-08-18,163500,SA19 8QN,D,N,F,Gwndwn-Gwyn,,,Ffarmers,Llanwrda
+2025-08-18,440000,SA19 7LG,D,N,F,Maple Crest,,,,Llandeilo
+2025-08-18,290000,SA19 7BJ,D,N,F,Moelfre Lodge,,,Talley,Llandeilo
+2025-08-15,177000,SA19 8AF,D,N,F,3,,Brodulais,,Llanwrda
+2025-08-15,750000,SA19 7TU,D,N,F,Bryn Ifor,,,Capel Isaac,Llandeilo
+2025-08-11,377500,SA19 6BN,D,N,F,4,,Bridge Street,,Llandeilo
+2025-07-31,444000,SA19 8JG,D,N,F,Ty Cedrwydd,,,Ffarmers,Llanwrda
+2025-07-31,176500,SA19 6BH,T,N,F,8,,Church Street,,Llandeilo
+2025-07-25,305000,SA19 9HP,D,N,F,Llys Haul,,,,Llangadog
+2025-07-25,350000,SA19 7YP,D,N,F,Llyscelyn,,,Talley,Llandeilo
+2025-07-25,460000,SA19 6UW,D,N,F,101,,Heol Cennen,Ffairfach,Llandeilo
+2025-07-17,393000,SA19 7BP,D,N,F,Llys Talar,,,Manordeilo,Llandeilo
+2025-07-17,373000,SA19 7AW,D,N,F,Brianne,,,Cwmifor,Llandeilo
+2025-07-14,260000,SA19 8AF,D,N,F,6,,Brodulais,,Llanwrda
+2025-07-10,315000,SA19 7BU,D,N,F,6,,Ger Y Llan,Cwmifor,Llandeilo
+2025-07-07,525000,SA19 7HD,D,N,F,Bryn Y Cadno Uchaf,,,Salem,Llandeilo
+2025-07-07,380000,SA19 6RX,D,N,F,19,,Llys Pencrug,,Llandeilo
+2025-07-04,200000,SA19 7PA,S,N,F,8,,Golyg Y Gar,Salem,Llandeilo
+2025-07-03,80000,SA19 6LW,T,N,F,61,,Rhosmaen Street,,Llandeilo
+2025-07-02,160000,SA19 6DT,T,N,F,12,,Greenfield Place,,Llandeilo
+2025-07-01,340000,SA19 7HN,D,N,F,18,,Pant Glas Parc,,Llandeilo
+2025-06-20,240000,SA19 7BG,T,N,F,Bwthyn Ni,,,Manordeilo,Llandeilo
+2025-06-20,124000,SA19 6AP,T,N,F,4,,North Bank,,Llandeilo
+2025-06-20,80000,SA19 6AP,T,N,F,3,,North Bank,,Llandeilo
+2025-06-17,250000,SA19 6RW,D,N,F,21,,Lon Rhys,,Llandeilo
+2025-06-16,155000,SA19 6SY,S,N,F,2,,Bethlehem Road,Ffairfach,Llandeilo
+2025-06-16,205000,SA19 6NE,T,N,F,12,,Blende Road,,Llandeilo
+2025-06-13,280000,SA19 7DY,D,N,F,Ordawe,,,Cwmdu,Llandeilo
+2025-05-30,485000,SA19 7TU,D,N,F,Banc,,,Capel Isaac,Llandeilo
+2025-05-30,214000,SA19 6RZ,S,N,F,53,,Parc Pencrug,,Llandeilo
+2025-05-23,463500,SA19 6US,D,N,F,Tygwyn Fawr,,Bethlehem Road,Ffairfach,Llandeilo
+2025-05-22,440000,SA19 8SR,D,N,F,Pandy,,,Crugybar,Llanwrda
+2025-05-15,258000,SA19 8EH,S,N,F,Isycoed,,,,Llanwrda
+2025-05-15,390000,SA19 7LU,D,N,F,Gilfach,,,Salem,Llandeilo
+2025-05-13,123407,SA19 7SG,D,N,F,Llundain,,,Esgardawe,Llandeilo
+2025-05-06,157000,SA19 6UH,T,N,F,42,,Heol Cennen,Ffairfach,Llandeilo
+2025-05-02,180000,SA19 8AB,S,N,F,10,,Brodawel,,Llanwrda
+2025-04-28,179500,SA19 6DD,T,N,F,48,,New Road,,Llandeilo
+2025-04-17,195000,SA19 7YH,D,N,F,Homelea,,,Talley,Llandeilo
+2025-04-17,355000,SA19 6RZ,D,N,F,17,,Parc Pencrug,,Llandeilo
+2025-04-10,755000,SA19 7TD,D,N,F,Bryn Cadno,,,Capel Isaac,Llandeilo
+2025-04-07,180000,SA19 7JJ,T,N,F,Neuadd Wen,,,Llansawel,Llandeilo
+2025-04-04,130000,SA19 6NN,T,N,F,10,,Thomas Terrace,,Llandeilo
+2025-03-28,480000,SA19 6RW,D,N,F,40,,Lon Rhys,,Llandeilo
+2025-03-27,142500,SA19 8PZ,S,N,F,Erw Twrch,2,,Ffarmers,Llanwrda
+2025-03-27,302126,SA19 6HS,D,N,F,1A,,Latimer Road,,Llandeilo
+2025-03-19,570000,SA19 6PP,D,N,F,Brynsannan,,,Ffairfach,Llandeilo
+2025-03-14,345000,SA19 6RW,D,N,F,1,,Lon Rhys,,Llandeilo
+2025-03-06,475000,SA19 8HL,D,N,F,Capel Seion,,,Llansadwrn,Llanwrda
+2025-02-28,137500,SA19 6ED,S,N,F,28,,Heol Y Garreg Las,,Llandeilo
+2025-02-26,80000,SA19 6EB,S,N,F,15,,Heol Y Garreg Las,,Llandeilo
+2025-02-21,192000,SA19 9BU,D,N,F,Augustus Cottage,,,,Llangadog
+2025-02-14,550000,SA19 7UD,D,N,F,Peacehaven Cottage,,,Capel Isaac,Llandeilo
+2025-02-14,210000,SA19 7TA,D,N,F,Brodawel,,,Penybanc,Llandeilo
+2025-02-13,150000,SA19 9HW,S,N,F,33,,Rhydyfro,,Llangadog
+2025-02-10,105000,SA19 7JH,T,N,F,3,,Marlais View,Llansawel,Llandeilo
+2025-02-04,215000,SA19 7HJ,S,N,F,4,,Clos Albion,,Llandeilo
+2025-02-04,350000,SA19 6RJ,D,N,F,4,,Clos Garth Madryn,,Llandeilo
+2025-01-31,230000,SA19 8AG,D,N,F,12,,Bryndulais,,Llanwrda
+2025-01-27,145000,SA19 7BT,T,N,F,5,,Caledfwlch,Cwmifor,Llandeilo
+2025-01-24,80100,SA19 6DD,F,N,L,19A,,New Road,,Llandeilo
+2025-01-16,293000,SA19 7AX,S,N,F,Porthselu,,,Talley,Llandeilo
+2025-01-08,487500,SA19 6YB,D,N,F,Llwynmendy Isaf,,,Bethlehem,Llandeilo
+2025-01-03,365000,SA19 6YH,D,N,F,Brownsover,,,Bethlehem,Llandeilo
+2024-12-20,186865,SA19 6YS,S,N,F,Bryngwyn,3,Gwynfe Road,Ffairfach,Llandeilo
+2024-12-17,157500,SA19 6ND,T,N,F,23,,Maes Y Farchnad,,Llandeilo
+2024-12-16,150000,SA19 8AB,T,N,F,33,,Brodawel,,Llanwrda
+2024-12-11,400000,SA19 7PU,D,N,F,Ger Y Nant,,,Rhydcymerau,Llandeilo
+2024-12-10,160000,SA19 7BT,T,N,F,1,,Caledfwlch,Cwmifor,Llandeilo
+2024-12-06,347500,SA19 6AJ,D,N,F,Nantrhibo,Bodfasarn,,,Llandeilo
+2024-11-29,377500,SA19 6AJ,D,N,F,Nantrhibo,Chy Gwennol,,,Llandeilo
+2024-11-25,95000,SA19 7JH,T,N,F,4,,Marlais View,Llansawel,Llandeilo
+2024-11-22,179950,SA19 9LU,S,N,F,Dolwerdd,,Station Road,,Llangadog
+2024-11-22,282000,SA19 6HU,T,N,F,33,,Alan Road,,Llandeilo
+2024-11-22,320000,SA19 6BL,D,N,F,1,,Quay Street,,Llandeilo
+2024-11-20,138500,SA19 6PD,S,N,F,45,,Heol Myrddin,Ffairfach,Llandeilo
+2024-11-18,685000,SA19 6TP,D,N,F,Caerau,,,Trap,Llandeilo
+2024-11-18,225000,SA19 6DA,T,N,F,1,,Brynawel Terrace,,Llandeilo
+2024-11-11,150000,SA19 6EF,S,N,F,14,,Heol Y Garreg Las,,Llandeilo
+2024-11-06,269950,SA19 6LU,S,N,F,12,,Rhosmaen Street,,Llandeilo
+2024-11-01,320000,SA19 6RR,S,N,F,2,,Diana Road,,Llandeilo
+2024-11-01,193500,SA19 6LE,T,N,F,3,,Lewis Terrace,,Llandeilo
+2024-10-31,172500,SA19 8RE,T,N,F,6,,Rock Street,Caio,Llanwrda
+2024-10-29,345000,SA19 7JD,D,N,F,Crudawel,,,Llansawel,Llandeilo
+2024-10-23,287500,SA19 6BN,D,N,F,"South Lodge, 22",,Bridge Street,,Llandeilo
+2024-10-18,85000,SA19 6ST,T,N,F,15,,Towy Terrace,Ffairfach,Llandeilo
+2024-10-18,195000,SA19 6LB,S,N,F,2,,Thomas Street,,Llandeilo
+2024-10-17,207500,SA19 7HJ,S,N,F,1,,Clos Albion,,Llandeilo
+2024-10-17,785000,SA19 6RG,D,N,F,Treiorwg,,Gwynfe Road,Ffairfach,Llandeilo
+2024-10-15,220000,SA19 8QE,S,N,F,Hendy,2,Ffaldybrenin,Ffarmers,Llanwrda
+2024-10-11,425000,SA19 8NX,D,N,F,Tan-Yr-Allt-Lwyd,,,Ffarmers,Llanwrda
+2024-10-07,305000,SA19 7YR,D,N,F,3,,Maescelyn,Talley,Llandeilo
+2024-10-01,145000,SA19 9EF,T,N,F,Gwalia House,,High Street,,Llangadog
+2024-10-01,625000,SA19 8HQ,D,N,F,Garth,,,Ffarmers,Llanwrda
+2024-09-30,350000,SA19 9BU,D,N,F,Maes Y Rhedyn,,,,Llangadog
+2024-09-30,300000,SA19 7NT,D,N,F,Pantsoar Cottage,,,Salem,Llandeilo
+2024-09-30,435000,SA19 7ND,D,N,F,Reform Cottage,,,Salem,Llandeilo
+2024-09-25,110000,SA19 6PD,S,N,F,19,,Heol Myrddin,Ffairfach,Llandeilo
+2024-09-23,569320,SA19 8NW,D,N,F,Fron Uchaf,,,Llansadwrn,Llanwrda
+2024-09-23,530000,SA19 7EZ,D,N,F,Cwmsidan,,,Talley,Llandeilo
+2024-09-20,355000,SA19 6UW,D,N,F,97,,Heol Cennen,Ffairfach,Llandeilo
+2024-09-18,140000,SA19 7PU,S,N,F,Brodolau,2,,Rhydcymerau,Llandeilo
+2024-09-12,225000,SA19 7AW,D,N,F,Bwthyn Bach,,,Cwmifor,Llandeilo
+2024-09-09,440000,SA19 9PT,D,N,F,Troedyrhiw,,,Gwynfe,Llangadog
+2024-08-30,1200000,SA19 9SL,D,N,F,Pencrug,,,Llanddeusant,Llangadog
+2024-08-30,285000,SA19 7TL,D,N,F,Troedyrhiw,,,Capel Isaac,Llandeilo
+2024-08-23,135000,SA19 6LW,T,N,F,51,,Rhosmaen Street,,Llandeilo
+2024-08-02,180000,SA19 8RY,D,N,F,Glynawel,,,Crugybar,Llanwrda
+2024-08-01,677000,SA19 7DD,D,N,F,Llwyn Yr Yn,,,Taliaris,Llandeilo
+2024-07-31,125000,SA19 6NN,T,N,F,6,,Thomas Terrace,,Llandeilo
+2024-07-26,175000,SA19 7BT,D,N,F,4,,Caledfwlch,Cwmifor,Llandeilo
+2024-07-19,160000,SA19 8QF,T,N,F,Rhosybedw House,,Ffaldybrenin,Ffarmers,Llanwrda
+2024-07-18,1000000,SA19 9PU,D,N,F,Beili Home Farm,,,Gwynfe,Llangadog
+2024-07-18,265000,SA19 6RZ,D,N,F,47,,Parc Pencrug,,Llandeilo
+2024-07-10,300000,SA19 9AE,D,N,F,Panteg,,Walters Road,,Llangadog
+2024-07-05,540000,SA19 7HS,D,N,F,Bronygaer,,Talley Road,,Llandeilo
+2024-06-28,350000,SA19 7BU,D,N,F,3,,Ger Y Llan,Cwmifor,Llandeilo
+2024-06-27,405000,SA19 6HN,D,N,F,20,,Crescent Road,,Llandeilo
+2024-06-26,725000,SA19 8PZ,S,N,F,Ddol Y Brenin,,,Ffarmers,Llanwrda
+2024-06-26,440000,SA19 7PU,D,N,F,Bedwen,,Mountain Road,Rhydcymerau,Llandeilo
+2024-06-14,450000,SA19 8TD,D,N,F,Gwargorof,,,Crugybar,Llanwrda
+2024-06-12,350000,SA19 8HL,S,N,F,Ger Y Llan,,,Llansadwrn,Llanwrda
+2024-06-04,450000,SA19 6BD,T,N,F,3,,Abbey Terrace,,Llandeilo
+2024-06-03,280000,SA19 7YR,D,N,F,"Coedcelyn, 2",,Maescelyn,Talley,Llandeilo
+2024-06-03,370000,SA19 6UW,D,N,F,111,,Heol Cennen,Ffairfach,Llandeilo
+2024-05-31,90000,SA19 7BL,F,N,L,3,,Dolau Towy,Manordeilo,Llandeilo
+2024-05-24,145000,SA19 6BN,F,N,F,2B,,Bridge Street,,Llandeilo
+2024-05-24,125000,SA19 6AS,F,N,L,"Llys Morfa, 3 - 4",4,George Street,,Llandeilo
+2024-05-20,40000,SA19 9HW,F,N,L,37,,Rhydyfro,,Llangadog
+2024-05-17,480000,SA19 7EL,D,N,F,Pont Garreg,,,Cwmdu,Llandeilo
+2024-05-15,315000,SA19 7YP,D,N,F,Nantlais,,,Talley,Llandeilo
+2024-05-14,110000,SA19 6DT,T,N,F,9,,Greenfield Place,,Llandeilo
+2024-05-03,280000,SA19 6UW,D,N,F,99,,Heol Cennen,Ffairfach,Llandeilo
+2024-05-01,378000,SA19 7HE,D,N,F,Castell Crymlyn,,,Salem,Llandeilo
+2024-04-29,400000,SA19 9HF,D,N,F,The Lodge,,,,Llangadog
+2024-04-29,320000,SA19 7HN,D,N,F,17,,Pant Glas Parc,,Llandeilo
+2024-04-22,146500,SA19 8UB,D,N,F,Brynawel,,,Crugybar,Llanwrda
+2024-03-28,265000,SA19 6US,D,N,F,Goilan Goch,"Bumble Lodge, 2",Bethlehem Road,Ffairfach,Llandeilo
+2024-03-26,258000,SA19 6PD,D,N,F,6,,Heol Myrddin,Ffairfach,Llandeilo
+2024-03-22,165000,SA19 7YH,D,N,F,Hillcrest,,,Talley,Llandeilo
+2024-03-22,390000,SA19 6UH,T,N,F,The Old Creamery,1,Heol Cennen,Ffairfach,Llandeilo
+2024-03-22,240000,SA19 6EA,D,N,F,Highbury,,Dynevor Avenue,,Llandeilo
+2024-03-14,220000,SA19 7EN,D,N,F,Maes Y Castell,,,Cwmdu,Llandeilo
+2024-03-12,425000,SA19 6EF,D,N,F,1A,,Heol Y Garreg Las,,Llandeilo
+2024-03-07,220000,SA19 6NP,S,N,F,Haulfan,,,Rhosmaen,Llandeilo
+2024-03-04,185000,SA19 6PD,S,N,F,11,,Heol Myrddin,Ffairfach,Llandeilo
+2024-03-01,270000,SA19 7PU,D,N,F,Erwain,,,Rhydcymerau,Llandeilo
+2024-03-01,300000,SA19 7PA,S,N,F,12,,Golyg Y Gar,Salem,Llandeilo
+2024-02-29,325000,SA19 6RR,S,N,F,35,,Diana Road,,Llandeilo
+2024-02-15,150000,SA19 6LU,T,N,F,2,,Rhosmaen Street,,Llandeilo
+2024-02-13,280000,SA19 8HQ,D,N,F,Morfa,,,Ffarmers,Llanwrda
+2024-02-09,128000,SA19 6ST,T,N,F,19,,Towy Terrace,Ffairfach,Llandeilo
+2024-01-31,540000,SA19 7SN,D,N,F,Tan Y Coed,,,Esgardawe,Llandeilo
+2024-01-24,180000,SA19 6UL,T,N,F,37,,Heol Cennen,Ffairfach,Llandeilo
+2024-01-23,310000,SA19 9AF,S,N,F,Brynteg,,Walters Road,,Llangadog
+2024-01-19,325000,SA19 7HN,D,N,F,21,,Pant Glas Parc,,Llandeilo
+2024-01-12,360000,SA19 7PL,D,N,F,Cwmdu Bach,,,Llansawel,Llandeilo
+2024-01-12,290000,SA19 6PN,D,N,F,Penrhiw,,Heol Y Maerdy,Ffairfach,Llandeilo
+2023-12-18,185950,SA19 7LY,D,N,F,Rhoslan,,,Salem,Llandeilo
+2023-12-15,315000,SA19 8AU,D,N,F,5,,Maes Yr Haf,,Llanwrda
+2023-12-15,405000,SA19 8AE,D,N,F,Clydfan,,,,Llanwrda
+2023-12-14,295000,SA19 6AT,T,N,F,5,,George Hill,,Llandeilo
+2023-12-13,180000,SA19 6YS,S,N,F,Bryngwyn,4,Gwynfe Road,Ffairfach,Llandeilo
+2023-12-12,425000,SA19 7HN,D,N,F,11,,Pant Glas Parc,,Llandeilo
+2023-12-07,172000,SA19 7LF,S,N,F,Yr Hen Du,,,New Inn,Llandeilo
+2023-12-06,166000,SA19 6AE,T,N,F,13,,Carmarthen Street,,Llandeilo
+2023-12-05,480000,SA19 7XZ,D,N,F,Y Gelynnen,,Golwg Yr Allt,Talley,Llandeilo
+2023-12-01,225000,SA19 6PU,D,N,F,Bryn Seion,,Heol Y Maerdy,Ffairfach,Llandeilo
+2023-12-01,250000,SA19 6AE,T,N,F,3A,,Carmarthen Street,,Llandeilo
+2023-11-30,165000,SA19 6DF,T,N,F,70,,New Road,,Llandeilo
+2023-11-24,130000,SA19 6RZ,D,N,L,30,,Parc Pencrug,,Llandeilo
+2023-11-21,205000,SA19 7AW,S,N,F,Brynteg,,,Cwmifor,Llandeilo
+2023-11-20,140000,SA19 6ST,T,N,F,4,,Towy Terrace,Ffairfach,Llandeilo
+2023-11-17,215000,SA19 7YR,S,N,F,13,,Maescelyn,Talley,Llandeilo
+2023-11-15,100000,SA19 8YF,D,N,F,Cwmcothi C P School,,,Pumpsaint,Llanwrda
+2023-11-06,135000,SA19 8RD,T,N,F,6,,Church Street,Caio,Llanwrda
+2023-11-02,490000,SA19 9RR,D,N,F,Cwmllwyd,,,Gwynfe,Llangadog
+2023-11-02,360000,SA19 7UL,D,N,F,Gwaen Fartin,,,Capel Isaac,Llandeilo
+2023-11-01,205000,SA19 7PE,D,N,F,Bron Yr Haul,,,Llansawel,Llandeilo
+2023-10-30,288000,SA19 6LB,T,N,F,21,,Thomas Street,,Llandeilo
+2023-10-23,465000,SA19 7XZ,D,N,F,Y Deri,,Golwg Yr Allt,Talley,Llandeilo
+2023-10-20,83000,SA19 9HD,D,N,F,Y Ffatri Fadarch,,,,Llangadog
+2023-10-20,115000,SA19 6BH,T,N,F,5,,Church Street,,Llandeilo
+2023-10-16,287000,SA19 7DA,T,N,F,Valley View,,,Taliaris,Llandeilo
+2023-10-13,50000,SA19 8HW,D,N,F,The Cottage,,,Llansadwrn,Llanwrda
+2023-10-13,210000,SA19 6HU,T,N,F,"Arosfa, 9",,Alan Road,,Llandeilo
+2023-10-12,265000,SA19 7JS,D,N,F,Bungalow,1,,Llansawel,Llandeilo
+2023-10-06,215000,SA19 6DB,T,N,F,16,,New Road,,Llandeilo
+2023-09-29,157000,SA19 9HW,T,N,F,34,,Rhydyfro,,Llangadog
+2023-09-28,150000,SA19 9LL,T,N,F,23,,Bryn Iago,,Llangadog
+2023-09-27,135000,SA19 8JF,S,N,F,Plascanol,2,,Ffarmers,Llanwrda
+2023-09-25,475000,SA19 6PB,D,N,F,Towy Cottage,,,Ffairfach,Llandeilo
+2023-09-19,155000,SA19 7YY,S,N,F,Red Kite Lodge,,,Talley,Llandeilo
+2023-09-19,650000,SA19 7YY,D,N,F,Plas,,,Talley,Llandeilo
+2023-09-19,170000,SA19 7YY,T,N,F,Otters Holt,,,Talley,Llandeilo
+2023-09-19,180000,SA19 7YY,T,N,F,Heron House,,,Talley,Llandeilo
+2023-09-19,170000,SA19 7YY,T,N,F,Buzzard's Watch Cottage,,,Talley,Llandeilo
+2023-09-12,538000,SA19 8PP,D,N,F,Wern,,,Caio,Llanwrda
+2023-09-04,176000,SA19 9EH,S,N,F,2,,Penygraig Villas,,Llangadog
+2023-09-01,275000,SA19 9BR,D,N,F,The Plough,,,,Llangadog
+2023-09-01,165000,SA19 6DD,T,N,F,21F,,New Road,,Llandeilo
+2023-08-25,297000,SA19 6RR,S,N,F,33,,Diana Road,,Llandeilo
+2023-08-25,175000,SA19 6DD,T,N,F,44,,New Road,,Llandeilo
+2023-08-24,249950,SA19 7BL,D,N,F,Heddfan,,Dolau Towy,Manordeilo,Llandeilo
+2023-08-21,335000,SA19 7HN,D,N,F,20,,Pant Glas Parc,,Llandeilo
+2023-08-17,160000,SA19 6DD,D,N,F,21G,,New Road,,Llandeilo
+2023-08-15,205000,SA19 9ND,D,N,F,Golwg Yr Haul,6,Tregarth,,Llangadog
+2023-08-14,250000,SA19 6NE,S,N,F,26,,Blende Road,,Llandeilo
+2023-07-25,625000,SA19 9PH,D,N,F,Ffordd Y Ddeunant,,,Gwynfe,Llangadog
+2023-07-25,499500,SA19 8LG,D,N,F,Bryntowy Lodge,,,Llansadwrn,Llanwrda
+2023-07-19,142000,SA19 7AU,T,N,F,Tremywawr,,,Cwmifor,Llandeilo
+2023-07-18,120000,SA19 9BU,T,N,F,Rhydyrafon,,,,Llangadog
+2023-07-14,135000,SA19 9BR,S,N,F,Cloth Hall,,,,Llangadog
+2023-07-14,250000,SA19 6HD,D,N,F,Dan Y Parc,,Rhosmaen Street,,Llandeilo
+2023-07-07,330000,SA19 9YF,D,N,F,Bryn,,,Llanddeusant,Llangadog
+2023-07-03,129000,SA19 6SZ,T,N,F,19,,Parc Cawdor,Ffairfach,Llandeilo
+2023-06-19,385000,SA19 6PF,D,N,F,Llettyglyd Lodge,,,Ffairfach,Llandeilo
+2023-06-08,420000,SA19 8PN,D,N,F,Ysgubor Carreg,,,Caio,Llanwrda
+2023-06-08,170000,SA19 8LE,S,N,F,2,,Beili Glas,Llansadwrn,Llanwrda
+2023-06-02,123000,SA19 7JL,T,N,F,7,,Castle Terrace,Llansawel,Llandeilo
+2023-06-01,160000,SA19 6DB,T,N,F,24,,New Road,,Llandeilo
+2023-05-26,402500,SA19 8DX,D,N,F,Keepers Lodge,,,Pumpsaint,Llanwrda
+2023-05-26,275000,SA19 7LY,D,N,F,Erwau Glas,,,Salem,Llandeilo
+2023-05-26,335000,SA19 6YH,D,N,F,Brownsover,,,Bethlehem,Llandeilo
+2023-05-19,675000,SA19 7BW,D,N,F,Maesrhiw,,,Manordeilo,Llandeilo
+2023-05-17,210000,SA19 8RD,T,N,F,4,,Church Street,Caio,Llanwrda
+2023-05-16,97000,SA19 6SZ,T,N,F,21,,Parc Cawdor,Ffairfach,Llandeilo
+2023-05-12,210000,SA19 6UH,S,N,F,16,,Heol Cennen,Ffairfach,Llandeilo
+2023-05-11,183500,SA19 6RZ,S,N,F,3,,Parc Pencrug,,Llandeilo
+2023-05-10,495000,SA19 8NS,D,N,F,Sarnfach,,,Llansadwrn,Llanwrda
+2023-05-03,170000,SA19 6BN,T,N,F,16,,Bridge Street,,Llandeilo
+2023-04-28,43000,SA19 7BG,F,N,L,Ty Brynteilo,Flat 1,,Manordeilo,Llandeilo
+2023-04-28,88000,SA19 6DY,F,N,L,13,,Maes Y Glyn,,Llandeilo
+2023-04-24,150000,SA19 6BN,T,N,F,13,,Bridge Street,,Llandeilo
+2023-04-14,330000,SA19 6RS,D,N,F,20,,Carmarthen Road,,Llandeilo
+2023-04-06,197000,SA19 8JP,D,N,F,Maesuchaf,,,Ffarmers,Llanwrda
+2023-04-06,340000,SA19 6BN,T,N,F,7,,Bridge Street,,Llandeilo
+2023-04-04,550000,SA19 9TE,D,N,F,Swyn Y Dwr,,,Gwynfe,Llangadog
+2023-03-31,390000,SA19 9LS,T,N,F,Trehelig,,Station Road,,Llangadog
+2023-03-31,700000,SA19 8LW,D,N,F,Dolfeinog,,,Llansadwrn,Llanwrda
+2023-03-31,320000,SA19 6RZ,D,N,F,17,,Parc Pencrug,,Llandeilo
+2023-03-31,257500,SA19 6LE,T,N,F,4,,Lewis Terrace,,Llandeilo
+2023-03-31,237000,SA19 6HY,T,N,F,1,,Clarence Road,,Llandeilo
+2023-03-31,148000,SA19 6EB,S,N,F,47,,Heol Y Garreg Las,,Llandeilo
+2023-03-30,340000,SA19 6TW,D,N,F,The Cottage,,Bank Trapp,Trap,Llandeilo
+2023-03-17,70000,SA19 7YH,D,N,F,Hillcrest,,,Talley,Llandeilo
+2023-03-10,335000,SA19 9UY,D,N,F,Llandre,,,Llanddeusant,Llangadog
+2023-03-10,625000,SA19 6TD,D,N,F,Cwmisaf,,,Ffairfach,Llandeilo
+2023-03-08,375000,SA19 6TP,D,N,F,Delfryn Cottage,,,Trap,Llandeilo
+2023-03-07,192500,SA19 6ST,T,N,F,20,,Towy Terrace,Ffairfach,Llandeilo
+2023-03-03,140000,SA19 8LE,S,N,F,1,,Beili Glas,Llansadwrn,Llanwrda
+2023-03-03,145000,SA19 6RZ,D,N,F,41,,Parc Pencrug,,Llandeilo
+2023-02-28,240000,SA19 9ND,D,N,F,Golwg Yr Haul,8,Tregarth,,Llangadog
+2023-02-24,700000,SA19 8PX,D,N,F,Nant Y Llyn,,,Ffarmers,Llanwrda
+2023-02-22,175000,SA19 7PA,S,N,F,11,,Golyg Y Gar,Salem,Llandeilo
+2023-02-16,235000,SA19 8LG,D,N,F,Brynglas,,,Llansadwrn,Llanwrda
+2023-02-16,440000,SA19 6AQ,D,N,F,4,,Llys Garn,Bethlehem,Llandeilo
+2023-02-06,162500,SA19 6DX,T,N,F,4,,Lon Cae Ffynnon,,Llandeilo
+2023-02-06,195000,SA19 6BN,T,N,F,19,,Bridge Street,,Llandeilo
+2023-02-06,225000,SA19 6AP,S,N,F,1,,North Bank,,Llandeilo
+2023-02-01,210000,SA19 7SU,D,N,F,Llain Fach,,,Penybanc,Llandeilo
+2023-01-27,557510,SA19 8BP,D,N,F,Cwmresgaer Isaf,,,,Llanwrda
+2023-01-13,300000,SA19 7JP,D,N,F,Maesteg,,,Llansawel,Llandeilo
+2023-01-11,448492,SA19 9SY,D,N,F,Crudyrawel,,,Gwynfe,Llangadog
+2022-12-16,262000,SA19 8AD,D,N,F,Tyffald,,,,Llanwrda
+2022-12-16,395000,SA19 7SU,D,N,F,Cae Bach,5,,Penybanc,Llandeilo
+2022-12-15,485000,SA19 8SD,D,N,F,Coedparc,,,Crugybar,Llanwrda
+2022-12-15,270000,SA19 8JL,D,N,F,Berthglyd,,,Ffarmers,Llanwrda
+2022-12-15,325000,SA19 7NJ,D,N,F,Treglog Farm,The Barn,,Llansawel,Llandeilo
+2022-12-15,300000,SA19 6RZ,D,N,F,12,,Parc Pencrug,,Llandeilo
+2022-12-13,415000,SA19 7LU,D,N,F,Gorlan Fach,,,Salem,Llandeilo
+2022-12-13,230000,SA19 6DD,T,N,F,32,,New Road,,Llandeilo
+2022-12-09,340250,SA19 7NQ,D,N,F,Glenview,,,Llansawel,Llandeilo
+2022-12-02,425000,SA19 9TY,D,N,F,Albion House,,,Llanddeusant,Llangadog
+2022-11-30,560000,SA19 8EN,D,N,F,Alltycloriau,,,,Llanwrda
+2022-11-25,410000,SA19 7BX,D,N,F,Mill Lodge,,,Talley,Llandeilo
+2022-11-25,230000,SA19 6RZ,D,N,F,8,,Parc Pencrug,,Llandeilo
+2022-11-21,590000,SA19 7YT,D,N,F,Esgair Llyn,,,Talley,Llandeilo
+2022-11-21,385000,SA19 6PL,D,N,F,Maerdy Barn,,Heol Y Maerdy,Ffairfach,Llandeilo
+2022-11-18,650000,SA19 7BW,D,N,F,Maes Y Fedwen,,,Manordeilo,Llandeilo
+2022-11-17,150000,SA19 7BG,T,N,F,Delfryn,,,Manordeilo,Llandeilo
+2022-11-03,245000,SA19 6NE,S,N,F,"Redcroft, 22",,Blende Road,,Llandeilo
+2022-10-31,382500,SA19 8HH,D,N,F,Waterloo Gardens,,,Llansadwrn,Llanwrda
+2022-10-31,210000,SA19 6NE,S,N,F,20,,Blende Road,,Llandeilo
+2022-10-28,180000,SA19 9LL,T,N,F,24,,Bryn Iago,,Llangadog
+2022-10-28,445000,SA19 8PZ,D,N,F,48 Cae Felin,,,Ffarmers,Llanwrda
+2022-10-27,435000,SA19 6AQ,D,N,F,1,,Llys Garn,Bethlehem,Llandeilo
+2022-10-21,318250,SA19 6BH,T,N,F,22,,Church Street,,Llandeilo
+2022-10-17,368000,SA19 6UN,D,N,F,6,,Caeglas Close,Ffairfach,Llandeilo
+2022-10-14,133000,SA19 9NB,S,N,F,4,,Ashfield Row,,Llangadog
+2022-10-14,570000,SA19 7NB,D,N,F,Crosswell Cottage,,,Salem,Llandeilo
+2022-10-14,164000,SA19 6DU,S,N,F,12,,Dynevor Avenue,,Llandeilo
+2022-10-10,600000,SA19 7TG,D,N,F,Brynhyfryd,,,Capel Isaac,Llandeilo
+2022-10-07,500000,SA19 8EA,D,N,F,Pantysgyfarnog,,,Harford,Llanwrda
+2022-09-30,225000,SA19 6RZ,D,N,F,1,,Parc Pencrug,,Llandeilo
+2022-09-30,177500,SA19 6DB,T,N,F,16,,New Road,,Llandeilo
+2022-09-29,290000,SA19 7DA,T,N,F,Maerdy Cottage,The Barn,,Taliaris,Llandeilo
+2022-09-23,180000,SA19 9BR,S,N,F,Yr Hendy,,,,Llangadog
+2022-09-23,98000,SA19 6NS,T,N,F,Gwynfa,,,Rhosmaen,Llandeilo
+2022-09-23,175000,SA19 6NN,T,N,F,7,,Thomas Terrace,,Llandeilo
+2022-09-13,110000,SA19 7JH,T,N,F,5,,Marlais View,Llansawel,Llandeilo
+2022-09-12,350000,SA19 6RZ,D,N,F,35,,Parc Pencrug,,Llandeilo
+2022-09-08,622500,SA19 6TW,D,N,F,Henllys,,Bank Trapp,Trap,Llandeilo
+2022-09-05,220000,SA19 6UH,S,N,F,22,,Heol Cennen,Ffairfach,Llandeilo
+2022-09-02,537500,SA19 7YY,D,N,F,Dark Gate Lodge,,,Talley,Llandeilo
+2022-09-02,340000,SA19 6RR,S,N,F,11,,Diana Road,,Llandeilo
+2022-09-02,120000,SA19 6DN,T,N,F,5,,Greenfield Place,,Llandeilo
+2022-08-25,375000,SA19 7HN,D,N,F,16,,Pant Glas Parc,,Llandeilo
+2022-08-24,183599,SA19 6PD,S,N,F,49,,Heol Myrddin,Ffairfach,Llandeilo
+2022-08-22,352500,SA19 7HN,D,N,F,15,,Pant Glas Parc,,Llandeilo
+2022-08-19,340000,SA19 7AW,D,N,F,Mountain View Lodge,,,Cwmifor,Llandeilo
+2022-08-12,216000,SA19 6BS,T,N,F,4,,Bank Buildings,,Llandeilo
+2022-08-10,192500,SA19 6BN,T,N,F,17,,Bridge Street,,Llandeilo
+2022-08-05,360000,SA19 6RS,D,N,F,Troed Y Rhiw,,Carmarthen Road,,Llandeilo
+2022-08-05,450000,SA19 6NP,D,N,F,Green Acres,,,Rhosmaen,Llandeilo
+2022-08-03,540000,SA19 8LH,D,N,F,Yn Yr Haul,,,Llansadwrn,Llanwrda
+2022-08-03,415000,SA19 7LY,D,N,F,Highfield,,,Salem,Llandeilo
+2022-08-03,725000,SA19 6HN,S,N,F,21,,Crescent Road,,Llandeilo
+2022-08-01,750000,SA19 6PF,D,N,F,Glanyrafon,,,Ffairfach,Llandeilo
+2022-07-26,110000,SA19 7JH,T,N,F,6,,Marlais View,Llansawel,Llandeilo
+2022-07-15,215000,SA19 6UH,S,N,F,58,,Heol Cennen,Ffairfach,Llandeilo
+2022-07-15,585000,SA19 6SD,S,N,F,Glanmyddyfi,,,,Llandeilo
+2022-07-04,261000,SA19 7YF,D,N,F,Glynawelon,,,Talley,Llandeilo
+2022-07-01,210000,SA19 6UN,D,N,F,4,,Caeglas Close,Ffairfach,Llandeilo
+2022-06-29,280000,SA19 8AA,S,N,F,Dulais House,,,,Llanwrda
+2022-06-20,157500,SA19 7PA,S,N,F,8,,Golyg Y Gar,Salem,Llandeilo
+2022-06-10,262500,SA19 7PS,D,N,F,Ty Gwarcwm,,,Rhydcymerau,Llandeilo
+2022-06-08,390000,SA19 8PF,D,N,F,Glyn Rhosyn,,,Caio,Llanwrda
+2022-06-08,435000,SA19 7YP,D,N,F,Dyffryn Glas,,,Talley,Llandeilo
+2022-06-06,320000,SA19 9ED,D,N,F,5,,Golwg Y Mynydd,,Llangadog
+2022-06-06,283000,SA19 8QE,S,N,F,Maesyderi,,Ffaldybrenin,Ffarmers,Llanwrda
+2022-06-06,235000,SA19 6PD,S,N,F,20,,Heol Myrddin,Ffairfach,Llandeilo
+2022-05-31,475000,SA19 7UU,D,N,F,Tycoch Farm,The Barn,,Taliaris,Llandeilo
+2022-05-31,268750,SA19 6RW,D,N,F,9,,Lon Rhys,,Llandeilo
+2022-05-28,256000,SA19 6RR,D,N,F,21,,Diana Road,,Llandeilo
+2022-05-27,268000,SA19 8AG,D,N,F,11,,Bryndulais,,Llanwrda
+2022-05-27,375000,SA19 6NP,D,N,F,Brynmorfa,,,Rhosmaen,Llandeilo
+2022-05-26,385000,SA19 7AW,D,N,F,Beechgrove,,,Cwmifor,Llandeilo
+2022-05-20,150000,SA19 6BH,D,N,F,16,,Church Street,,Llandeilo
+2022-05-18,117000,SA19 9EG,T,N,F,Lime Tree Cottages,2,High Street,,Llangadog
+2022-05-13,395000,SA19 9BU,D,N,F,Y Wawr,,,,Llangadog
+2022-05-13,320000,SA19 8UE,D,N,F,Maes Yr Afon,,,Crugybar,Llanwrda
+2022-05-13,385000,SA19 8JG,D,N,F,Parc Mawr,,,Ffarmers,Llanwrda
+2022-05-12,340000,SA19 7BX,D,N,F,Irongate Lodge,,,Talley,Llandeilo
+2022-05-11,180000,SA19 7YR,D,N,F,Cross Inn Cottage,,,Talley,Llandeilo
+2022-05-11,140000,SA19 7HS,D,N,F,Maestywi,,Talley Road,,Llandeilo
+2022-05-09,440000,SA19 9DG,D,N,F,Ardwyn,,,,Llangadog
+2022-05-03,250000,SA19 9NB,T,N,F,3,,Ashfield Row,,Llangadog
+2022-04-29,174000,SA19 7YP,S,N,F,Dyffryn Ig,9,,Talley,Llandeilo
+2022-04-25,115000,SA19 6PP,S,N,F,2,,Talhardd Villas,Ffairfach,Llandeilo
+2022-04-21,449950,SA19 9PR,D,N,F,Felin-Y-Cwm,,,,Llangadog
+2022-04-14,320000,SA19 8PU,D,N,F,Gilfachwen,,,Caio,Llanwrda
+2022-04-14,340000,SA19 8AA,D,N,F,Trewydden,,,,Llanwrda
+2022-04-11,235000,SA19 6NP,S,N,F,Haulfan,,,Rhosmaen,Llandeilo
+2022-04-08,170000,SA19 6DB,T,N,F,22,,New Road,,Llandeilo
+2022-04-05,395000,SA19 8DT,D,N,F,Llwynffynnon,,,Harford,Llanwrda
+2022-04-04,1200000,SA19 8EL,D,N,F,Tirallen,,,,Llanwrda
+2022-03-31,204000,SA19 7SU,D,N,F,Dolwar,,,Penybanc,Llandeilo
+2022-03-29,535000,SA19 6AY,T,N,F,3,,Bank Terrace,,Llandeilo
+2022-03-28,380000,SA19 7DE,D,N,F,Bwshtun,,,Taliaris,Llandeilo
+2022-03-04,265000,SA19 8PY,D,N,F,Maes Castell,,,Caio,Llanwrda
+2022-03-04,545000,SA19 7BX,D,N,F,Dol Araul,,,Talley,Llandeilo
+2022-03-02,390000,SA19 6BD,T,N,F,4,,Abbey Terrace,,Llandeilo
+2022-02-25,140000,SA19 9NB,D,N,F,11,,Ashfield Row,,Llangadog
+2022-02-25,740000,SA19 8YU,D,N,F,Llystroiddyn,,,Pumpsaint,Llanwrda
+2022-02-24,465000,SA19 9RE,D,N,F,Bryntirion,,,Gwynfe,Llangadog
+2022-02-18,190000,SA19 7YR,S,N,F,"Llygad Yr Haul, 12",,Maescelyn,Talley,Llandeilo
+2022-02-18,425000,SA19 6RP,D,N,F,"Erwlon, 25",,Carmarthen Road,,Llandeilo
+2022-02-18,280000,SA19 6PL,D,N,F,Glannant,,Heol Y Maerdy,Ffairfach,Llandeilo
+2022-02-18,127500,SA19 6HD,T,N,F,30,,Rhosmaen Street,,Llandeilo
+2022-02-14,105000,SA19 6SY,T,N,F,2,,Pontargoedlwyn,Ffairfach,Llandeilo
+2022-02-11,262500,SA19 8JN,D,N,F,Cysgod Y Dderwen,,,Ffarmers,Llanwrda
+2022-02-08,253760,SA19 6BN,D,N,F,20,,Bridge Street,,Llandeilo
+2022-02-04,380000,SA19 6RP,D,N,F,15,,Carmarthen Road,,Llandeilo
+2022-02-01,80000,SA19 6UH,S,N,F,48,,Heol Cennen,Ffairfach,Llandeilo
+2022-01-27,117000,SA19 7AU,T,N,F,Minyffordd,,,Cwmifor,Llandeilo
+2022-01-27,130000,SA19 6UL,S,N,F,43,,Heol Cennen,Ffairfach,Llandeilo
+2022-01-24,307000,SA19 7EA,D,N,F,Cefn Hendre,,,Cwmdu,Llandeilo
+2022-01-21,166500,SA19 6NE,T,N,F,6,,Blende Road,,Llandeilo
+2022-01-17,120000,SA19 6BU,T,N,F,12A,,Bank Buildings,,Llandeilo
+2022-01-14,342500,SA19 6UW,D,N,F,Gorwel Deg,,Heol Cennen,Ffairfach,Llandeilo
+2022-01-14,439950,SA19 6PB,D,N,F,Towy Cottage,,,Ffairfach,Llandeilo
+2022-01-12,176000,SA19 9ND,T,N,F,3,,Tregarth,,Llangadog
+2022-01-07,225000,SA19 7JF,S,N,F,Rhydygarn,2,,Llansawel,Llandeilo
+2021-12-23,650000,SA19 6HL,D,N,F,16,,Crescent Road,,Llandeilo
+2021-12-20,185000,SA19 6LB,T,N,F,17,,Thomas Street,,Llandeilo
+2021-12-17,225000,SA19 8AF,D,N,F,6,,Brodulais,,Llanwrda
+2021-12-17,75000,SA19 6RT,S,N,F,Dinefwr Gardens,2 Cottage,,,Llandeilo
+2021-12-16,175000,SA19 8HD,D,N,F,Croes Y Ceiliog,,,,Llanwrda
+2021-12-14,99500,SA19 7HT,T,N,F,2,,Cefntiresgob Cottages,,Llandeilo
+2021-12-14,250000,SA19 7BX,D,N,F,Barndale,,,Talley,Llandeilo
+2021-12-13,195000,SA19 6DD,T,N,F,21C,,New Road,,Llandeilo
+2021-12-10,136500,SA19 8LE,S,N,F,4,,Beili Glas,Llansadwrn,Llanwrda
+2021-12-07,199950,SA19 7YR,T,N,F,"Holleywell, 14",,Maescelyn,Talley,Llandeilo
+2021-12-03,425000,SA19 8QH,D,N,F,Blaenaufforest,,,Ffarmers,Llanwrda
+2021-12-01,422000,SA19 8LW,D,N,F,Glanrhyd,,,Llansadwrn,Llanwrda
+2021-11-29,189950,SA19 8AG,D,N,F,6,,Bryndulais,,Llanwrda
+2021-11-24,259000,SA19 6RW,D,N,F,33,,Lon Rhys,,Llandeilo
+2021-11-16,300000,SA19 6RR,S,N,F,31,,Diana Road,,Llandeilo
+2021-11-12,185000,SA19 9AH,S,N,F,7,,Castle Close,,Llangadog
+2021-11-12,350000,SA19 6UH,S,N,F,14,,Heol Cennen,Ffairfach,Llandeilo
+2021-11-10,78500,SA19 6UH,T,N,F,60,,Heol Cennen,Ffairfach,Llandeilo
+2021-11-05,188000,SA19 9HS,D,N,F,Cerist,,,,Llangadog
+2021-11-05,200000,SA19 7HD,D,N,F,Corner Patch,,,Salem,Llandeilo
+2021-11-03,166000,SA19 6LB,D,N,F,5,,Thomas Street,,Llandeilo
+2021-10-29,201500,SA19 8BQ,S,N,F,Gwynant,,,Pumpsaint,Llanwrda
+2021-10-29,121000,SA19 6YS,S,N,F,Bryngwyn,4,Gwynfe Road,Ffairfach,Llandeilo
+2021-10-28,339995,SA19 8TJ,D,N,F,2,,Parc Annell,Crugybar,Llanwrda
+2021-10-28,110000,SA19 6AN,T,N,F,South Bank,Cambrian Cottage,Carmarthen Street,,Llandeilo
+2021-10-27,170000,SA19 6BN,T,N,F,16,,Bridge Street,,Llandeilo
+2021-10-22,790000,SA19 9RA,D,N,F,Gwarallt,,,Gwynfe,Llangadog
+2021-10-22,124000,SA19 7BL,S,N,F,8,,Dolau Towy,Manordeilo,Llandeilo
+2021-10-20,320000,SA19 8LS,D,N,F,Aweldeg,,,Llansadwrn,Llanwrda
+2021-10-18,145800,SA19 6NR,S,N,F,10,,Rhosdeg,Rhosmaen,Llandeilo
+2021-10-08,317500,SA19 7PU,D,N,F,Bwlch Y Dwr,,,Rhydcymerau,Llandeilo
+2021-10-08,285000,SA19 7LY,D,N,F,Rowan Howe,,,Salem,Llandeilo
+2021-10-08,475000,SA19 7EJ,D,N,F,Trewern Fawr,,,Talley,Llandeilo
+2021-10-08,135000,SA19 6EF,S,N,F,5,,Heol Y Garreg Las,,Llandeilo
+2021-10-06,172000,SA19 8UN,D,N,F,Pantyrhedyn,,,Crugybar,Llanwrda
+2021-10-01,200000,SA19 9BR,T,N,F,Cartref,,,,Llangadog
+2021-10-01,515000,SA19 8TS,D,N,F,Tynypyllau,,,Crugybar,Llanwrda
+2021-09-29,325000,SA19 8AU,D,N,F,4,,Maes Yr Haf,,Llanwrda
+2021-09-28,365000,SA19 9EF,D,N,F,Yr Hendre,,High Street,,Llangadog
+2021-09-24,349950,SA19 8HE,D,N,F,Bancynos,,,,Llanwrda
+2021-09-24,190000,SA19 6LB,D,N,F,5A,,Thomas Street,,Llandeilo
+2021-09-17,365000,SA19 7LY,D,N,F,The Orchard,,,Salem,Llandeilo
+2021-09-13,250000,SA19 8AA,D,N,F,Plasnewydd,,,,Llanwrda
+2021-09-10,249950,SA19 7YP,D,N,F,Fresh Fields,,,Talley,Llandeilo
+2021-09-06,265000,SA19 7AX,T,N,F,Rhoslyn,,,Talley,Llandeilo
+2021-08-27,192500,SA19 7JF,S,N,F,Rhydygarn,3,,Llansawel,Llandeilo
+2021-08-20,430000,SA19 6RP,D,N,F,11,,Carmarthen Road,,Llandeilo
+2021-08-17,128500,SA19 6AP,T,N,F,2,,North Bank,,Llandeilo
+2021-08-11,325000,SA19 7YP,D,N,F,Ty Gwyn,,,Talley,Llandeilo
+2021-08-11,425000,SA19 6NP,D,N,F,Pennant,,,Rhosmaen,Llandeilo
+2021-08-09,225000,SA19 6UH,S,N,F,8,,Heol Cennen,Ffairfach,Llandeilo
+2021-08-09,242000,SA19 6NP,D,N,F,Pantycelyn,,,Rhosmaen,Llandeilo
+2021-08-06,119950,SA19 6ST,T,N,F,39,,Towy Terrace,Ffairfach,Llandeilo
+2021-08-06,152000,SA19 6PD,S,N,F,43,,Heol Myrddin,Ffairfach,Llandeilo
+2021-08-06,145000,SA19 6DH,T,N,F,4,,Wellfield Terrace,,Llandeilo
+2021-08-04,250000,SA19 8DT,D,N,F,Checkpoint Bungalow,,,Harford,Llanwrda
+2021-08-03,320000,SA19 7BW,D,N,F,Llwyn Y Fedwen,,,Manordeilo,Llandeilo
+2021-07-30,165000,SA19 9AH,S,N,F,6,,Castle Close,,Llangadog
+2021-07-23,260000,SA19 7YP,D,N,F,Maes Y Felin,,,Talley,Llandeilo
+2021-07-22,100000,SA19 6DH,T,N,F,5,,Wellfield Terrace,,Llandeilo
+2021-07-19,169950,SA19 6UL,D,N,F,33,,Heol Cennen,Ffairfach,Llandeilo
+2021-07-16,270000,SA19 8HW,D,N,F,Brynawel,,,Llansadwrn,Llanwrda
+2021-07-16,645000,SA19 6PN,D,N,F,Brynamlwg,,Heol Y Maerdy,Ffairfach,Llandeilo
+2021-07-12,67500,SA19 7JL,T,N,F,4,,Castle Terrace,Llansawel,Llandeilo
+2021-07-12,315000,SA19 6RR,D,N,F,24,,Diana Road,,Llandeilo
+2021-07-09,490000,SA19 6PR,D,N,F,Gwynfryn,,,Ffairfach,Llandeilo
+2021-07-07,30000,SA19 8AB,F,N,L,16,,Brodawel,,Llanwrda
+2021-07-05,630000,SA19 8PU,D,N,F,Aweldeg,,,Caio,Llanwrda
+2021-06-30,350000,SA19 9SL,D,N,F,Crudygwynt,,,Llanddeusant,Llangadog
+2021-06-30,385000,SA19 7BB,D,N,F,Glyn Derw,,,Manordeilo,Llandeilo
+2021-06-29,430000,SA19 8DS,D,N,F,Llwyn,,,Harford,Llanwrda
+2021-06-29,293000,SA19 7YH,D,N,F,Chapel House,,,Talley,Llandeilo
+2021-06-29,372500,SA19 6LB,D,N,F,"Cilamlwg, 20",,Thomas Street,,Llandeilo
+2021-06-28,267000,SA19 6NP,D,N,F,Landeg,,,Rhosmaen,Llandeilo
+2021-06-25,290000,SA19 6LA,D,N,F,10,,Stepney Road,,Llandeilo
+2021-06-23,565000,SA19 8UN,D,N,F,Bwlchcefnsarth,,,Crugybar,Llanwrda
+2021-06-21,410000,SA19 9HD,D,N,F,Pontcrynfe Mill,,,,Llangadog
+2021-06-21,219950,SA19 6RZ,T,N,F,27,,Parc Pencrug,,Llandeilo
+2021-06-18,427500,SA19 9NS,D,N,F,New Inn House,,,Gwynfe,Llangadog
+2021-06-15,116000,SA19 6ST,T,N,F,40,,Towy Terrace,Ffairfach,Llandeilo
+2021-06-11,248000,SA19 6HS,D,N,F,1,,Latimer Road,,Llandeilo
+2021-06-10,300000,SA19 7PU,D,N,F,Maesawel,,,Rhydcymerau,Llandeilo
+2021-06-10,179950,SA19 7JB,S,N,F,Llwyncelyn,1,,Llansawel,Llandeilo
+2021-06-09,202500,SA19 8EH,S,N,F,Landeg,,,,Llanwrda
+2021-06-04,130000,SA19 7HP,S,N,F,2,,Cilcennen Terrace,,Llandeilo
+2021-05-28,230000,SA19 7AQ,S,N,F,Glandwr,,,Talley,Llandeilo
+2021-05-28,122000,SA19 6BQ,F,N,L,Stable Cottages,5,Bridge Street,,Llandeilo
+2021-05-27,300000,SA19 9PE,D,N,F,Neuadd Fach,,,Gwynfe,Llangadog
+2021-05-24,139500,SA19 6UH,T,N,F,44,,Heol Cennen,Ffairfach,Llandeilo
+2021-05-24,120000,SA19 6RZ,F,N,L,6,,Parc Pencrug,,Llandeilo
+2021-05-21,425000,SA19 7RA,D,N,F,Trawscoed Isaf,,,Rhydcymerau,Llandeilo
+2021-05-21,135000,SA19 6ST,T,N,F,31,,Towy Terrace,Ffairfach,Llandeilo
+2021-05-19,495000,SA19 6AY,T,N,F,2,,Bank Terrace,,Llandeilo
+2021-05-14,175000,SA19 7AW,S,N,F,Brynteg,,,Cwmifor,Llandeilo
+2021-05-14,168000,SA19 6UH,D,N,F,52,,Heol Cennen,Ffairfach,Llandeilo
+2021-05-10,335000,SA19 7AH,D,N,F,Ashmere,,,Cwmifor,Llandeilo
+2021-05-10,132000,SA19 6DU,S,N,F,6,,Dynevor Avenue,,Llandeilo
+2021-05-07,365000,SA19 6YT,D,N,F,Waunhir,,Gwynfe Road,Ffairfach,Llandeilo
+2021-04-30,155000,SA19 9HW,S,N,F,50,,Rhydyfro,,Llangadog
+2021-04-30,455000,SA19 7TG,D,N,F,Maesteilo,The Lodge,,Capel Isaac,Llandeilo
+2021-04-30,416000,SA19 6PY,D,N,F,Bryncethin,,,Ffairfach,Llandeilo
+2021-04-30,280000,SA19 6PD,D,N,F,16,,Heol Myrddin,Ffairfach,Llandeilo
+2021-04-30,170000,SA19 6LU,D,N,F,"Mandalay, 9",,Rhosmaen Street,,Llandeilo
+2021-04-28,415000,SA19 8NB,D,N,F,Treetops Penycae,,,Llansadwrn,Llanwrda
+2021-04-23,105000,SA19 7JL,T,N,F,"Heddfan, 1",,Castle Terrace,Llansawel,Llandeilo
+2021-04-23,89000,SA19 6AS,F,N,L,"Llys Morfa, 3 - 4",6,George Street,,Llandeilo
+2021-04-20,457299,SA19 9PT,D,N,F,Three Horse Shoes,,,Gwynfe,Llangadog
+2021-04-20,183000,SA19 6HU,T,N,F,14,,Alan Road,,Llandeilo
+2021-04-09,292000,SA19 8HH,D,N,F,Waterloo Gardens,,,Llansadwrn,Llanwrda
+2021-04-09,280000,SA19 6HL,S,N,F,14,,Crescent Road,,Llandeilo
+2021-04-09,138000,SA19 6ED,S,N,F,64,,Heol Y Garreg Las,,Llandeilo
+2021-04-09,120000,SA19 6BN,F,N,F,2B,,Bridge Street,,Llandeilo
+2021-03-31,178000,SA19 6HS,F,N,F,St Pauls Court,3,Latimer Road,,Llandeilo
+2021-03-26,140000,SA19 8AB,S,N,F,10,,Brodawel,,Llanwrda
+2021-03-26,275000,SA19 7AW,D,N,F,Derw,,,Cwmifor,Llandeilo
+2021-03-26,330000,SA19 6YE,D,N,F,Mount Pleasant,,,Bethlehem,Llandeilo
+2021-03-26,630000,SA19 6PN,D,N,F,Brynamlwg,,Heol Y Maerdy,Ffairfach,Llandeilo
+2021-03-25,380000,SA19 7LS,D,N,F,Llwydcoed Isaf,,,Penybanc,Llandeilo
+2021-03-25,175000,SA19 7BU,S,N,F,15,,Ger Y Llan,Cwmifor,Llandeilo
+2021-03-25,206000,SA19 6UH,D,N,F,"Sunnybank, 54",,Heol Cennen,Ffairfach,Llandeilo
+2021-03-12,305000,SA19 8EL,D,N,F,Glynhyfryd,,,,Llanwrda
+2021-03-12,359950,SA19 7LY,D,N,F,Derwendeg,,,Salem,Llandeilo
+2021-03-10,240000,SA19 6NP,S,N,F,Preswlfa,3,,Rhosmaen,Llandeilo
+2021-03-05,200000,SA19 9NB,D,N,F,Golwg Y Afon,,Ashfield Row,,Llangadog
+2021-03-01,191000,SA19 9NA,S,N,F,Tycroes,,,,Llangadog
+2021-03-01,225000,SA19 7AX,D,N,F,Noddfa,,,Talley,Llandeilo
+2021-03-01,425000,SA19 7AP,D,N,F,Brodawel,,,Cwmifor,Llandeilo
+2021-02-24,205000,SA19 6NP,S,N,F,Bryn Y Berllan,,,Rhosmaen,Llandeilo
+2021-02-19,565000,SA19 9NB,T,N,F,Dan Yr Allt,,Ashfield Row,,Llangadog
+2021-02-19,230000,SA19 8BB,D,N,F,Graig Barn,,,,Llanwrda
+2021-02-09,300000,SA19 6YH,D,N,F,Plasygrain,,,Bethlehem,Llandeilo
+2021-02-08,235000,SA19 6RR,S,N,F,8,,Diana Road,,Llandeilo
+2021-02-08,45000,SA19 6ND,T,N,F,23,,Maes Y Farchnad,,Llandeilo
+2021-02-05,159950,SA19 6AE,T,N,F,13,,Carmarthen Street,,Llandeilo
+2021-02-03,420000,SA19 7HS,D,N,F,Bryn Deryn,,Talley Road,,Llandeilo
+2021-02-02,84000,SA19 6DF,T,N,F,62,,New Road,,Llandeilo
+2021-02-01,215000,SA19 8JN,T,N,F,Cysgod Y Dderwen,,,Ffarmers,Llanwrda
+2021-02-01,200000,SA19 6BA,F,N,L,7,Flat,King Street,,Llandeilo
+2021-01-29,85500,SA19 9BW,S,N,F,Queens Square House,,Queens Square,,Llangadog
+2021-01-29,220500,SA19 6HL,D,N,F,6,,Crescent Road,,Llandeilo
+2021-01-29,240000,SA19 6AE,T,N,F,"Bells House, 16",,Carmarthen Street,,Llandeilo
+2021-01-29,140000,SA19 6AE,T,N,F,7,,Carmarthen Street,,Llandeilo
+2021-01-28,295000,SA19 9ED,D,N,F,10,,Golwg Y Mynydd,,Llangadog
+2021-01-22,97000,SA19 9NB,T,N,F,3,,Ashfield Row,,Llangadog
+2021-01-22,420000,SA19 6LB,D,N,F,"Fronlas, 7",,Thomas Street,,Llandeilo
+2021-01-19,220000,SA19 8JL,D,N,F,Dwylan,,,Ffarmers,Llanwrda
+2021-01-19,135000,SA19 7JB,S,N,F,Llwyncelyn,1,,Llansawel,Llandeilo
+2021-01-18,400000,SA19 9HT,D,N,F,Millbrook Cottage,,,,Llangadog
+2021-01-13,315000,SA19 6UH,T,N,F,The Old Creamery,4,Heol Cennen,Ffairfach,Llandeilo
+2021-01-08,325000,SA19 6RX,D,N,F,20,,Llys Pencrug,,Llandeilo
+2021-01-08,270000,SA19 6HS,S,N,F,8,,Latimer Road,,Llandeilo

@@ -1,0 +1,566 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-07,87000,NG1 1JZ,F,N,L,1,,Belward Street,,Nottingham
+2026-08-03,168240,NG1 6GR,F,N,L,Charles House,Apartment 40,Park Row,,Nottingham
+2026-07-31,138000,NG1 7AA,F,N,L,"Seren Court, 15A",Apartment 2,Hounds Gate,,Nottingham
+2026-07-31,225000,NG1 5DW,F,N,L,28,Flat B,The Ropewalk,,Nottingham
+2026-07-31,210000,NG1 4HR,T,N,F,15,,Tudor Grove,,Nottingham
+2026-07-31,95000,NG1 3AP,F,N,L,"Castle Exchange, 41",B606,Broad Street,,Nottingham
+2026-07-24,389250,NG1 4HA,T,N,F,52,,Addison Street,,Nottingham
+2026-07-23,65000,NG1 3AB,F,N,L,"Castle Exchange, 11",E301,Old Lenton Street,,Nottingham
+2026-07-09,100000,NG1 3NT,F,N,L,"The Litmus Building, 195",Apartment 120,Huntingdon Street,,Nottingham
+2026-07-07,160000,NG1 7DG,F,N,L,"Enfield House, 18",Apartment 7,Low Pavement,,Nottingham
+2026-07-07,160000,NG1 5AP,F,N,L,Parkgate,Apartment 208,Upper College Street,,Nottingham
+2026-07-06,67000,NG1 7HG,F,N,L,"Nottingham One Tower, 156",Apartment T201,Canal Street,,Nottingham
+2026-06-29,250000,NG1 1QF,F,N,L,Weekday Cross Building,Apartment 610,Pilcher Gate,,Nottingham
+2026-06-25,130000,NG1 4DP,T,N,F,9,,Bluecoat Close,,Nottingham
+2026-06-11,70000,NG1 5FF,F,N,L,Regent Court,Flat 25,Derby Street,,Nottingham
+2026-06-09,117000,NG1 1GH,F,N,L,The Habitat,Flat 10,Woolpack Lane,,Nottingham
+2026-05-15,270000,NG1 5AP,F,N,L,Parkgate,Apartment 116,Upper College Street,,Nottingham
+2026-05-06,94000,NG1 1GH,F,N,L,The Habitat,Flat 71,Woolpack Lane,,Nottingham
+2026-05-01,204000,NG1 5GD,F,N,L,Hanley House,Apartment 505,Hanley Street,,Nottingham
+2026-04-30,202500,NG1 5HR,F,N,L,"Clarendon House, 17 - 19",Apartment 6,Clarendon Street,,Nottingham
+2026-04-30,131000,NG1 5BJ,F,N,L,Ropewalk Court,68,Upper College Street,,Nottingham
+2026-04-23,85000,NG1 1AT,F,N,L,Marco Island,Apartment 905,Huntingdon Street,,Nottingham
+2026-04-10,144000,NG1 1PR,F,N,L,"The Establishment, 3",Apartment 25,Broadway,,Nottingham
+2026-03-31,258000,NG1 1FB,F,N,L,The Zone,3,Brightmoor Street,,Nottingham
+2026-03-27,240000,NG1 5DZ,F,N,L,"Oxford Heights, 22",Flat 1,The Ropewalk,,Nottingham
+2026-03-27,200000,NG1 1JU,F,N,L,21,Flat 23,Barker Gate,,Nottingham
+2026-03-26,160000,NG1 7HW,F,N,L,Nottingham One Entrance B,Apartment 512,Canal Street,,Nottingham
+2026-03-12,125000,NG1 1PF,F,N,L,"The Living Quarter, 2",Apartment 31,St Marys Gate,,Nottingham
+2026-03-09,155000,NG1 5FW,F,N,L,The Axis 43,Apartment 6,Wollaton Street,,Nottingham
+2026-03-02,95000,NG1 5FF,F,N,L,Regent Court,Flat 18,Derby Street,,Nottingham
+2026-02-27,53000,NG1 7AD,F,N,L,"Halley House, 35 - 37",Flat 27,Hounds Gate,,Nottingham
+2026-02-27,156000,NG1 5AS,F,N,L,The Pinnacle,Flat 7,Cottage Terrace,,Nottingham
+2026-02-20,165000,NG1 1AN,F,N,L,"Lexington Place, 7",Apartment 9,Plumptre Street,,Nottingham
+2026-02-13,201000,NG1 1JN,F,N,L,"The Point, 6",Flat 16,Bellar Gate,,Nottingham
+2026-02-05,172000,NG1 1AN,F,N,L,"Lexington Place, 9",Apartment 38,Plumptre Street,,Nottingham
+2026-01-30,127500,NG1 1LL,F,N,L,"Broadway House, 32",Apartment 5,Stoney Street,,Nottingham
+2026-01-27,233000,NG1 4DP,T,N,F,30,,Bluecoat Close,,Nottingham
+2026-01-23,150000,NG1 1JL,F,N,L,"Stone Yard, 12",Apartment 21,Plumptre Street,,Nottingham
+2026-01-20,100000,NG1 1JU,F,N,L,21,Flat 13,Barker Gate,,Nottingham
+2026-01-19,80000,NG1 3BU,F,N,L,George Street Trading House,Apartment 27,George Street,,Nottingham
+2026-01-09,190000,NG1 1AN,F,N,L,"Lexington Place, 9",Apartment 54,Plumptre Street,,Nottingham
+2026-01-05,205000,NG1 4DT,T,N,F,9,,Matlock Court,,Nottingham
+2025-12-19,170000,NG1 7HW,F,N,L,Nottingham One Entrance B,Apartment 216,Canal Street,,Nottingham
+2025-12-19,160000,NG1 4DT,T,N,F,14,,Matlock Court,,Nottingham
+2025-12-18,152500,NG1 5AP,F,N,L,Parkgate,Apartment 204,Upper College Street,,Nottingham
+2025-12-05,89100,NG1 5FF,F,N,L,Regent Court,Flat 40,Derby Street,,Nottingham
+2025-12-05,160000,NG1 1PR,F,N,L,"The Establishment, 3",Apartment 18,Broadway,,Nottingham
+2025-12-04,210000,NG1 1JH,F,N,L,1A,Apartment 18,Hollowstone,,Nottingham
+2025-11-28,56000,NG1 4FQ,F,N,L,"Cymbeline House, 26",Apartment 46,Shakespeare Street,,Nottingham
+2025-11-27,240000,NG1 6GX,F,N,L,"Truman House, 22 - 28",Apartment 5,Park Row,,Nottingham
+2025-11-20,105000,NG1 5FF,F,N,L,Regent Court,Flat 2,Derby Street,,Nottingham
+2025-11-19,34000,NG1 6BH,F,N,L,"Maid Marian House, 56",Flat 406,Hounds Gate,,Nottingham
+2025-11-18,90000,NG1 1DD,T,N,L,37,,Park View Court,,Nottingham
+2025-11-17,95000,NG1 3AN,S,N,F,30,,Broad Street,,Nottingham
+2025-11-13,190000,NG1 5AP,F,N,L,Parkgate,Apartment 117,Upper College Street,,Nottingham
+2025-11-07,172500,NG1 5DJ,F,N,L,111,Apartment 27,The Ropewalk,,Nottingham
+2025-10-30,175000,NG1 1LL,F,N,L,"Broadway House, 32",Apartment 24,Stoney Street,,Nottingham
+2025-10-28,350000,NG1 6FX,F,N,L,Royal Standard House,Flat 21,Standard Hill,,Nottingham
+2025-10-24,88000,NG1 1AY,F,N,L,"St. Marys Court, 21",Flat 28,St Marys Gate,,Nottingham
+2025-10-23,225000,NG1 6HY,S,N,F,17A,,Market Street,,Nottingham
+2025-10-21,130000,NG1 3AJ,F,N,L,7,Studio Tre,Broad Street,,Nottingham
+2025-10-20,197000,NG1 1JH,F,N,L,1A,Apartment 30,Hollowstone,,Nottingham
+2025-10-17,68750,NG1 1AP,F,N,L,Marco Island,Apartment 338,Huntingdon Street,,Nottingham
+2025-10-14,135000,NG1 1QF,F,N,L,Weekday Cross Building,Apartment 207,Pilcher Gate,,Nottingham
+2025-10-06,152500,NG1 1DG,F,N,L,Bloomsbury Court,Apartment 14,Beck Street,,Nottingham
+2025-09-30,38000,NG1 6EP,F,N,L,Minerva House,Flat 212,Spaniel Row,,Nottingham
+2025-09-24,310000,NG1 5GD,F,N,L,Hanley House,Apartment 603,Hanley Street,,Nottingham
+2025-09-09,128500,NG1 6FE,F,N,L,Loxley Court,Apartment 11,St James's Street,,Nottingham
+2025-09-05,135000,NG1 5BJ,F,N,L,Ropewalk Court,50,Upper College Street,,Nottingham
+2025-09-05,750000,NG1 1QN,F,N,L,Halifax House,Penthouse Apartment,Halifax Place,,Nottingham
+2025-09-01,177000,NG1 4DR,T,N,F,9,,Bluecoat Street,,Nottingham
+2025-08-29,42500,NG1 6BF,F,N,L,Minerva House,Flat 429,Spaniel Row,,Nottingham
+2025-08-29,94000,NG1 3NT,F,N,L,"The Litmus Building, 195",Apartment 219,Huntingdon Street,,Nottingham
+2025-08-29,134000,NG1 1JW,F,N,L,The Ice House,6,Belward Street,,Nottingham
+2025-08-28,700000,NG1 5BT,D,N,F,30,,Regent Street,,Nottingham
+2025-08-12,173000,NG1 5HR,F,N,L,"Clarendon House, 17 - 19",Apartment 8,Clarendon Street,,Nottingham
+2025-08-11,415000,NG1 6GJ,F,N,L,St. Marys Vicarage,Apartment 3,Standard Hill,,Nottingham
+2025-08-08,277350,NG1 4GN,F,N,L,Charleston House,Flat 5,Peel Street,,Nottingham
+2025-07-31,38500,NG1 6EP,F,N,L,Minerva House,Flat 112,Spaniel Row,,Nottingham
+2025-07-31,1100000,NG1 5DN,F,N,F,17A,,Park Terrace,,Nottingham
+2025-07-30,138000,NG1 5AU,F,N,L,"The Convent, 4",Apartment 14,College Street,,Nottingham
+2025-07-25,131400,NG1 6GL,F,N,L,The Arena,Apartment 24,Standard Hill,,Nottingham
+2025-07-18,235100,NG1 5AY,F,N,L,Cavendish House,Apartment 3,Park Terrace,,Nottingham
+2025-07-10,212000,NG1 1JH,F,N,L,1A,Apartment 29,Hollowstone,,Nottingham
+2025-07-04,195000,NG1 5AP,F,N,L,Parkgate,Apartment 119,Upper College Street,,Nottingham
+2025-07-04,115000,NG1 1AT,F,N,L,Marco Island,Apartment 927A,Huntingdon Street,,Nottingham
+2025-06-30,130000,NG1 6FE,F,N,L,Loxley Court,Apartment 19,St James's Street,,Nottingham
+2025-06-30,155000,NG1 1GJ,F,N,L,The Habitat,Flat 112,Woolpack Lane,,Nottingham
+2025-06-27,173375,NG1 3NX,F,N,L,"The Litmus Building, 195",Apartment 401,Huntingdon Street,,Nottingham
+2025-06-27,150000,NG1 3BT,F,N,L,Crusader House,49,Thurland Street,,Nottingham
+2025-06-25,140000,NG1 1HS,F,N,L,Kings Court,Apartment 13,Commerce Square,,Nottingham
+2025-06-20,297500,NG1 6FX,F,N,L,City Point,Apartment 22,Standard Hill,,Nottingham
+2025-06-18,145000,NG1 5AQ,F,N,L,"Byron House, 1",Apartment 2,College Street,,Nottingham
+2025-06-16,93500,NG1 1PR,F,N,L,"The Establishment, 3",Apartment 40,Broadway,,Nottingham
+2025-06-13,220000,NG1 1FD,T,N,F,14,,Brightmoor Street,,Nottingham
+2025-06-11,275000,NG1 6GR,F,N,L,Charles House,Apartment 38,Park Row,,Nottingham
+2025-06-10,85750,NG1 1AP,F,N,L,Marco Island,Apartment 212,Huntingdon Street,,Nottingham
+2025-06-10,87000,NG1 1AP,F,N,L,Marco Island,Apartment 317,Huntingdon Street,,Nottingham
+2025-05-30,130000,NG1 5BJ,F,N,L,Ropewalk Court,30,Upper College Street,,Nottingham
+2025-05-28,70000,NG1 7HP,F,N,L,Nottingham One Entrance C,Apartment 529,Canal Street,,Nottingham
+2025-05-23,265000,NG1 3FT,T,N,F,235,,Mansfield Road,,Nottingham
+2025-05-19,275000,NG1 6FX,F,N,L,Royal Standard House,Flat 20,Standard Hill,,Nottingham
+2025-05-16,212500,NG1 6GL,F,N,L,The Arena,Apartment 39,Standard Hill,,Nottingham
+2025-05-16,185000,NG1 5AP,F,N,L,Parkgate,Apartment 112,Upper College Street,,Nottingham
+2025-04-11,150000,NG1 1GH,F,N,L,The Habitat,Flat 19,Woolpack Lane,,Nottingham
+2025-04-07,120000,NG1 4DP,T,N,F,21,,Bluecoat Close,,Nottingham
+2025-04-05,50000,NG1 3PQ,F,N,L,1005,,Victoria Centre,,Nottingham
+2025-04-04,50000,NG1 6EP,F,N,L,Minerva House,Flat 224,Spaniel Row,,Nottingham
+2025-03-31,180000,NG1 6GL,F,N,L,The Arena,Apartment 65,Standard Hill,,Nottingham
+2025-03-31,175000,NG1 3BU,F,N,L,George Street Trading House,Apartment 43,George Street,,Nottingham
+2025-03-31,170000,NG1 3BT,F,N,L,Crusader House,33,Thurland Street,,Nottingham
+2025-03-21,252500,NG1 5AP,F,N,L,Parkgate,Apartment 222,Upper College Street,,Nottingham
+2025-03-21,110000,NG1 3BT,F,N,L,Crusader House,43,Thurland Street,,Nottingham
+2025-03-20,39000,NG1 6BF,F,N,L,Minerva House,Flat 417,Spaniel Row,,Nottingham
+2025-03-04,110000,NG1 5BJ,F,N,L,Ropewalk Court,41,Upper College Street,,Nottingham
+2025-02-28,39950,NG1 6EP,F,N,L,Minerva House,Flat 230,Spaniel Row,,Nottingham
+2025-02-21,140000,NG1 1PF,F,N,L,"The Living Quarter, 2",Apartment 20,St Marys Gate,,Nottingham
+2025-02-19,155000,NG1 1PR,F,N,L,"The Establishment, 3",Apartment 32,Broadway,,Nottingham
+2025-02-06,110000,NG1 1LL,F,N,L,"Broadway House, 32",Apartment 21,Stoney Street,,Nottingham
+2025-02-03,172500,NG1 1PR,F,N,L,"The Establishment, 3",Apartment 33,Broadway,,Nottingham
+2025-01-29,190000,NG1 1JU,F,N,L,21,Flat 2,Barker Gate,,Nottingham
+2025-01-20,102500,NG1 1EJ,F,N,L,The Zone,Apartment 19,Cranbrook Street,,Nottingham
+2025-01-20,115000,NG1 1EJ,F,N,L,The Zone,Apartment 22,Cranbrook Street,,Nottingham
+2025-01-06,245098,NG1 6EB,F,N,F,94,,Friar Lane,,Nottingham
+2024-12-18,39999,NG1 6BH,F,N,L,"Maid Marian House, 56",Flat 319,Hounds Gate,,Nottingham
+2024-12-16,300000,NG1 2DR,F,Y,L,33A,Apartment 2,Long Row,,Nottingham
+2024-12-13,155000,NG1 1JL,F,N,L,"The Warehouse, 4",Apartment 19,Plumptre Street,,Nottingham
+2024-12-12,175000,NG1 2DR,F,Y,L,33,Apartment 9,Long Row,,Nottingham
+2024-12-11,278000,NG1 6FX,F,N,L,Royal Standard House,Flat 26,Standard Hill,,Nottingham
+2024-12-09,284500,NG1 1PJ,F,N,L,"St Marys House, 27",Apartment 1,St Marys Gate,,Nottingham
+2024-12-06,155750,NG1 1GH,F,N,L,The Habitat,Flat 32,Woolpack Lane,,Nottingham
+2024-11-29,140000,NG1 4GN,F,N,L,Charleston House,Flat 24,Peel Street,,Nottingham
+2024-11-22,115000,NG1 1AT,F,N,L,Marco Island,Apartment 821,Huntingdon Street,,Nottingham
+2024-11-21,313151,NG1 7AD,F,N,F,"Halley House, 35 - 37",,Hounds Gate,,Nottingham
+2024-11-21,43000,NG1 6BF,F,N,L,Minerva House,Flat 429,Spaniel Row,,Nottingham
+2024-11-15,160000,NG1 4GN,F,N,L,Charleston House,Flat 25,Peel Street,,Nottingham
+2024-11-14,125000,NG1 1DG,F,N,L,Bloomsbury Court,Apartment 4,Beck Street,,Nottingham
+2024-10-31,75000,NG1 1LD,F,N,L,Swanns Building,Apartment 6,Plumptre Place,,Nottingham
+2024-10-30,161000,NG1 6GL,F,N,L,The Arena,Apartment 46,Standard Hill,,Nottingham
+2024-10-30,115000,NG1 1JW,F,N,L,The Ice House,39,Belward Street,,Nottingham
+2024-10-29,325000,NG1 7HP,F,N,L,Nottingham One Entrance C,Apartment 516,Canal Street,,Nottingham
+2024-10-25,180000,NG1 2NA,F,N,L,"Wheeler Gate House, 25 - 29",Apartment 8,Wheeler Gate,,Nottingham
+2024-10-24,450000,NG1 1BL,T,Y,F,26,,Bedford Row,,Nottingham
+2024-10-23,113500,NG1 7HW,F,N,L,Nottingham One Entrance B,Apartment 539,Canal Street,,Nottingham
+2024-10-23,155000,NG1 1JL,F,N,L,"The Warehouse Too, 6 - 10",Apartment 4,Plumptre Street,,Nottingham
+2024-10-11,125000,NG1 1LL,F,N,L,"Broadway House, 32",Apartment 16,Stoney Street,,Nottingham
+2024-10-09,122500,NG1 1LL,F,N,L,"Broadway House, 32",Apartment 14,Stoney Street,,Nottingham
+2024-10-09,77000,NG1 1JL,F,N,L,"Stone Yard, 12",Apartment 10,Plumptre Street,,Nottingham
+2024-10-04,216000,NG1 7HL,F,N,L,Nottingham One Entrance A,Apartment 201,Canal Street,,Nottingham
+2024-09-30,195000,NG1 7HT,F,N,L,Nottingham One Entrance D,Apartment 433,Canal Street,,Nottingham
+2024-09-27,100000,NG1 3AP,F,N,L,"Castle Exchange, 41",A705,Broad Street,,Nottingham
+2024-09-23,320000,NG1 3HL,T,N,F,118,,Mansfield Road,,Nottingham
+2024-09-20,160000,NG1 1AN,F,N,L,"Lexington Place, 9",Apartment 61,Plumptre Street,,Nottingham
+2024-09-16,365000,NG1 1BL,T,Y,F,30,,Bedford Row,,Nottingham
+2024-09-13,120100,NG1 7HW,F,N,L,Nottingham One Entrance B,Apartment 116,Canal Street,,Nottingham
+2024-09-06,135000,NG1 1QF,F,N,L,Weekday Cross Building,Apartment 309,Pilcher Gate,,Nottingham
+2024-09-02,450000,NG1 5DW,F,N,L,32,,The Ropewalk,,Nottingham
+2024-08-30,35000,NG1 6BH,F,N,L,"Maid Marian House, 56",Flat 103,Hounds Gate,,Nottingham
+2024-08-29,165000,NG1 5AY,F,N,L,Cavendish House,Apartment 10,Park Terrace,,Nottingham
+2024-08-28,50000,NG1 1DD,F,N,L,17,,Park View Court,,Nottingham
+2024-08-23,140000,NG1 7HG,F,N,L,"Nottingham One Tower, 156",Apartment T302,Canal Street,,Nottingham
+2024-08-23,191000,NG1 6GL,F,N,L,The Arena,Apartment 15,Standard Hill,,Nottingham
+2024-08-16,235000,NG1 6GL,F,N,L,The Arena,Apartment 87,Standard Hill,,Nottingham
+2024-08-16,285000,NG1 1BL,F,N,L,20,,Bedford Row,,Nottingham
+2024-08-15,125000,NG1 5FF,F,N,L,Regent Court,Flat 9,Derby Street,,Nottingham
+2024-08-06,108000,NG1 6GR,F,N,L,Charles House,Apartment 36,Park Row,,Nottingham
+2024-08-02,165000,NG1 1JL,F,N,L,"The Warehouse, 4",Apartment 10,Plumptre Street,,Nottingham
+2024-07-26,39999,NG1 6BH,F,N,L,"Maid Marian House, 56",Flat 107,Hounds Gate,,Nottingham
+2024-07-24,56000,NG1 1DD,F,N,L,15,,Park View Court,,Nottingham
+2024-07-22,130000,NG1 1LD,F,N,L,Swanns Building,Apartment 13,Plumptre Place,,Nottingham
+2024-07-22,390000,NG1 1BL,T,Y,F,34,,Bedford Row,,Nottingham
+2024-07-12,156000,NG1 1GH,F,N,L,The Habitat,Flat 47,Woolpack Lane,,Nottingham
+2024-07-05,39000,NG1 6BH,F,N,L,"Maid Marian House, 56",Flat 413,Hounds Gate,,Nottingham
+2024-07-05,445000,NG1 1EA,T,Y,F,61,,Brook Street,,Nottingham
+2024-06-28,185000,NG1 1JL,F,N,L,"The Warehouse, 4",Apartment 14,Plumptre Street,,Nottingham
+2024-06-28,280000,NG1 1BL,F,N,L,28,,Bedford Row,,Nottingham
+2024-06-26,115000,NG1 1AS,F,N,L,Marco Island,Apartment 743,Huntingdon Street,,Nottingham
+2024-06-25,114000,NG1 3BG,F,N,L,"Castle Exchange, 18",D405,George Street,,Nottingham
+2024-06-10,137000,NG1 1GJ,F,N,L,The Habitat,Flat 104,Woolpack Lane,,Nottingham
+2024-06-07,125250,NG1 1GL,F,N,L,30,,Carter Gate,,Nottingham
+2024-06-05,385064,NG1 1BL,T,Y,F,36,,Bedford Row,,Nottingham
+2024-05-31,110000,NG1 6GR,F,N,L,Charles House,Apartment 13,Park Row,,Nottingham
+2024-05-31,130000,NG1 1GL,F,N,L,11,,Carter Gate,,Nottingham
+2024-05-23,200000,NG1 5AU,F,N,L,"The Convent, 4",Apartment 22,College Street,,Nottingham
+2024-05-20,168000,NG1 1GH,F,N,L,The Habitat,Flat 43,Woolpack Lane,,Nottingham
+2024-05-17,125000,NG1 6GR,F,N,L,Charles House,Apartment 42,Park Row,,Nottingham
+2024-04-30,290000,NG1 7HP,F,N,L,Nottingham One Entrance C,Apartment 515,Canal Street,,Nottingham
+2024-04-26,100000,NG1 1AR,F,N,L,Marco Island,Apartment 510,Huntingdon Street,,Nottingham
+2024-04-24,265000,NG1 6FW,F,N,L,"The Hollows, 5",Apartment 6,St James's Terrace,,Nottingham
+2024-04-08,97500,NG1 6GR,F,N,L,Charles House,Apartment 8A,Park Row,,Nottingham
+2024-03-28,170000,NG1 1EH,F,N,L,"The Edge, 122 - 124",Flat 1,Lower Parliament Street,,Nottingham
+2024-03-28,88000,NG1 1AR,F,N,L,Marco Island,Apartment 407,Huntingdon Street,,Nottingham
+2024-03-22,157000,NG1 1QF,F,N,L,Weekday Cross Building,Apartment 204,Pilcher Gate,,Nottingham
+2024-03-22,157000,NG1 1QF,F,N,L,Weekday Cross Building,Apartment 304,Pilcher Gate,,Nottingham
+2024-03-15,157000,NG1 1GH,F,N,L,The Habitat,Flat 59,Woolpack Lane,,Nottingham
+2024-03-08,163500,NG1 5AP,F,N,L,Parkgate,Apartment 313,Upper College Street,,Nottingham
+2024-03-08,270000,NG1 1QX,F,N,L,53,Flat 9,Stoney Street,,Nottingham
+2024-03-07,195000,NG1 6GL,F,N,L,The Arena,Apartment 30,Standard Hill,,Nottingham
+2024-03-04,210000,NG1 7AB,F,N,L,"Hounds Gate Court, 14",Apartment 33,Hounds Gate,,Nottingham
+2024-02-28,147500,NG1 1QF,F,N,L,Weekday Cross Building,Apartment 405,Pilcher Gate,,Nottingham
+2024-02-27,133500,NG1 1JL,F,N,L,"The Warehouse, 4",Apartment 17,Plumptre Street,,Nottingham
+2024-02-26,52000,NG1 6BF,F,N,L,Minerva House,Flat 506,Spaniel Row,,Nottingham
+2024-02-26,89000,NG1 1JT,F,N,L,"New Court, 14",Apartment 8,Ristes Place,,Nottingham
+2024-02-23,135000,NG1 3BG,F,N,L,"Castle Exchange, 18",D509,George Street,,Nottingham
+2024-02-16,195000,NG1 5AS,F,N,L,The Pinnacle,Flat 8,Cottage Terrace,,Nottingham
+2024-02-15,51000,NG1 1DE,F,N,L,74,,Park View Court,,Nottingham
+2024-01-31,54000,NG1 6BF,F,N,L,Minerva House,Flat 502,Spaniel Row,,Nottingham
+2024-01-29,1010000,NG1 5DN,D,N,F,Richmond House,,Park Terrace,,Nottingham
+2024-01-25,132000,NG1 2JR,F,N,L,4,Apartment 7,St Peters Church Walk,,Nottingham
+2024-01-25,140000,NG1 1AN,F,N,L,"Lexington Place, 7",Apartment 27,Plumptre Street,,Nottingham
+2024-01-24,109000,NG1 3BT,F,N,L,Crusader House,38,Thurland Street,,Nottingham
+2024-01-19,47500,NG1 4AH,F,N,L,"Bard House, 14 - 22",Flat 302,Shakespeare Street,,Nottingham
+2024-01-18,107000,NG1 1AR,F,N,L,Marco Island,Apartment 531,Huntingdon Street,,Nottingham
+2024-01-12,495000,NG1 5DN,F,N,L,"Oakhill House, 32",Apartment 4,Park Terrace,,Nottingham
+2024-01-12,185000,NG1 1GY,T,N,F,54,,Cliff Road,,Nottingham
+2024-01-05,185000,NG1 4GN,F,N,L,Charleston House,Flat 6,Peel Street,,Nottingham
+2024-01-04,50000,NG1 1DE,F,N,L,56,,Park View Court,,Nottingham
+2024-01-03,51000,NG1 1DE,F,N,L,44,,Park View Court,,Nottingham
+2023-12-20,485000,NG1 6EB,T,N,F,96,,Friar Lane,,Nottingham
+2023-12-18,182500,NG1 5BS,F,N,L,1,Flat 2,Regent Street,,Nottingham
+2023-12-14,90000,NG1 7HG,F,N,L,"Nottingham One Tower, 156",Apartment T702,Canal Street,,Nottingham
+2023-12-14,90000,NG1 7HG,F,N,L,"Nottingham One Tower, 156",Apartment T802,Canal Street,,Nottingham
+2023-12-07,195000,NG1 1QR,F,N,L,Number One Fletcher Gate,Apartment 72,Adams Walk,,Nottingham
+2023-12-01,215000,NG1 4DP,T,N,F,12,,Bluecoat Close,,Nottingham
+2023-11-30,230000,NG1 1EA,T,N,F,35,,Brook Street,,Nottingham
+2023-11-24,115000,NG1 3BT,F,N,L,Crusader House,89,Thurland Street,,Nottingham
+2023-11-22,240500,NG1 1QF,F,N,L,Weekday Cross Building,Apartment 608,Pilcher Gate,,Nottingham
+2023-11-17,133000,NG1 1PF,F,N,L,"The Living Quarter, 2",Apartment 10,St Marys Gate,,Nottingham
+2023-11-17,97000,NG1 1AR,F,N,L,Marco Island,Apartment 541,Huntingdon Street,,Nottingham
+2023-11-09,175000,NG1 1QP,F,N,L,Number One Fletcher Gate,Apartment 31,Adams Walk,,Nottingham
+2023-11-06,235000,NG1 4DS,T,N,F,20,,Clinton Court,,Nottingham
+2023-11-03,98000,NG1 1AT,F,N,L,Marco Island,Apartment 805,Huntingdon Street,,Nottingham
+2023-10-31,170000,NG1 1EH,F,N,L,"The Edge, 122 - 124",Flat 10,Lower Parliament Street,,Nottingham
+2023-10-30,147000,NG1 6GL,F,N,L,The Arena,Apartment 40,Standard Hill,,Nottingham
+2023-10-26,126500,NG1 1QP,F,N,L,Number One Fletcher Gate,Apartment 33,Adams Walk,,Nottingham
+2023-10-20,104000,NG1 3NZ,F,N,L,"The Litmus Building, 195",Apartment 1112,Huntingdon Street,,Nottingham
+2023-10-18,50000,NG1 4AH,F,N,L,"Bard House, 14 - 22",Flat 214,Shakespeare Street,,Nottingham
+2023-10-18,150000,NG1 1JN,F,N,L,"The Point, 6",Flat 7,Bellar Gate,,Nottingham
+2023-10-12,235000,NG1 6GL,F,N,L,The Arena,Apartment 16,Standard Hill,,Nottingham
+2023-10-05,122000,NG1 3BU,F,N,L,George Street Trading House,Apartment 13,George Street,,Nottingham
+2023-09-27,81500,NG1 1FF,F,N,L,12,Flat 1,Goose Gate,,Nottingham
+2023-09-25,93000,NG1 1AS,F,N,L,Marco Island,Apartment 629,Huntingdon Street,,Nottingham
+2023-09-20,216000,NG1 1JP,F,N,L,"The Point, 14",Flat 35,Plumptre Street,,Nottingham
+2023-09-15,1650000,NG1 5DN,D,N,F,14A,,Park Terrace,,Nottingham
+2023-09-06,110000,NG1 1AR,F,N,L,Marco Island,Apartment 525,Huntingdon Street,,Nottingham
+2023-08-24,90000,NG1 1AP,F,N,L,Marco Island,Apartment 206,Huntingdon Street,,Nottingham
+2023-08-23,193000,NG1 1AN,F,N,L,"Lexington Place, 7",Apartment 1,Plumptre Street,,Nottingham
+2023-08-18,395000,NG1 6GL,F,N,L,The Arena,Apartment 62,Standard Hill,,Nottingham
+2023-08-14,300000,NG1 1QR,F,N,L,Number One Fletcher Gate,Apartment 97,Adams Walk,,Nottingham
+2023-08-11,227000,NG1 4HR,T,N,F,15,,Tudor Grove,,Nottingham
+2023-08-02,158000,NG1 1QF,F,N,L,Weekday Cross Building,Apartment 45,Pilcher Gate,,Nottingham
+2023-07-31,197500,NG1 6GL,F,N,L,The Arena,Apartment 38,Standard Hill,,Nottingham
+2023-07-31,160000,NG1 1LD,F,N,L,Swanns Building,Apartment 17,Plumptre Place,,Nottingham
+2023-07-07,173000,NG1 1PR,F,N,L,"The Establishment, 3",Apartment 35,Broadway,,Nottingham
+2023-06-30,220000,NG1 1QF,F,N,L,Weekday Cross Building,Apartment 101,Pilcher Gate,,Nottingham
+2023-06-30,230000,NG1 1HS,F,N,L,Kings Court,Apartment 5,Commerce Square,,Nottingham
+2023-06-29,125000,NG1 1GA,F,N,L,"Hockley House, 23",Apartment 6,Woolpack Lane,,Nottingham
+2023-06-13,265000,NG1 1JP,F,N,L,"The Point, 14",Flat 36,Plumptre Street,,Nottingham
+2023-06-01,59250,NG1 1DD,F,N,L,15,,Park View Court,,Nottingham
+2023-05-31,160000,NG1 1GA,F,N,L,"Hockley House, 23",Apartment 22,Woolpack Lane,,Nottingham
+2023-05-30,360000,NG1 1JL,F,N,L,"Stone Yard, 12",Apartment 31,Plumptre Street,,Nottingham
+2023-05-18,187000,NG1 3AA,F,N,L,"Hockleys Yard, 24",Flat 5,Heathcoat Street,,Nottingham
+2023-05-18,269000,NG1 1JS,F,N,L,1A,Flat 4,Barker Gate,,Nottingham
+2023-05-04,67500,NG1 6BF,F,N,L,Minerva House,Flat 525,Spaniel Row,,Nottingham
+2023-05-04,88000,NG1 1AR,F,N,L,Marco Island,Apartment 504,Huntingdon Street,,Nottingham
+2023-04-28,525000,NG1 1HN,T,N,F,34,,High Pavement,,Nottingham
+2023-04-26,43250,NG1 6BH,F,N,L,"Maid Marian House, 56",Flat 116,Hounds Gate,,Nottingham
+2023-04-19,500000,NG1 1AW,F,Y,L,Marco Island,Apartment 1202,Huntingdon Street,,Nottingham
+2023-04-13,103000,NG1 1GA,F,N,L,"The Mill, 27",Flat 4,Woolpack Lane,,Nottingham
+2023-04-12,110000,NG1 3BT,F,N,L,Crusader House,12,Thurland Street,,Nottingham
+2023-04-05,410000,NG1 6FX,F,N,L,Royal Standard House,Flat 28,Standard Hill,,Nottingham
+2023-04-03,237500,NG1 1QX,F,N,L,53,Flat 12,Stoney Street,,Nottingham
+2023-03-28,43000,NG1 6BH,F,N,L,"Maid Marian House, 56",Flat 102,Hounds Gate,,Nottingham
+2023-03-24,52000,NG1 1DE,F,N,L,75,,Park View Court,,Nottingham
+2023-03-17,195000,NG1 5FW,F,N,L,The Axis 43,Apartment 5,Wollaton Street,,Nottingham
+2023-03-10,192000,NG1 3BT,F,N,L,Crusader House,25,Thurland Street,,Nottingham
+2023-03-03,52500,NG1 6BB,F,N,L,"Maid Marian House, 56",Flat M9,Hounds Gate,,Nottingham
+2023-03-03,165000,NG1 4DT,F,N,L,6,,Matlock Court,,Nottingham
+2023-02-20,161500,NG1 6GL,F,N,L,The Arena,Apartment 14,Standard Hill,,Nottingham
+2023-02-17,130000,NG1 5FF,F,N,L,Regent Court,Flat 32,Derby Street,,Nottingham
+2023-02-16,295000,NG1 2DP,T,N,F,19,,Greyhound Street,,Nottingham
+2023-02-10,320000,NG1 2GJ,F,N,L,10A,Flat 2,Byard Lane,,Nottingham
+2023-02-10,180000,NG1 1QL,F,N,L,Weekday Cross Building,Apartment 317,Halifax Place,,Nottingham
+2023-01-31,38000,NG1 4FQ,F,N,L,"Bard House, 8 - 10",Unit Lg09,Peachey Street,,Nottingham
+2023-01-27,235000,NG1 1QF,F,N,L,Weekday Cross Building,Apartment 610,Pilcher Gate,,Nottingham
+2023-01-26,58000,NG1 1DD,F,N,L,21,,Park View Court,,Nottingham
+2023-01-16,98000,NG1 5FF,F,N,L,Regent Court,Flat 8,Derby Street,,Nottingham
+2023-01-12,100000,NG1 5GY,F,N,L,"North West, 41",Apartment 210,Talbot Street,,Nottingham
+2023-01-09,213500,NG1 1JP,F,N,L,"The Point, 14",Flat 33,Plumptre Street,,Nottingham
+2023-01-06,128000,NG1 5FF,F,N,L,Regent Court,Flat 6,Derby Street,,Nottingham
+2023-01-06,200000,NG1 5DT,F,N,L,"Park Heights, 4 - 6",Apartment 6D,The Ropewalk,,Nottingham
+2022-12-22,90000,NG1 1AP,F,N,L,Marco Island,Apartment 307,Huntingdon Street,,Nottingham
+2022-12-20,200000,NG1 6GL,F,N,L,The Arena,Apartment 4,Standard Hill,,Nottingham
+2022-12-20,160000,NG1 3AP,F,N,L,"Castle Exchange, 41",B707,Broad Street,,Nottingham
+2022-12-19,133000,NG1 7HW,F,N,L,Nottingham One Entrance B,Apartment M1,Canal Street,,Nottingham
+2022-12-12,120000,NG1 1GA,F,N,L,"Hockley House, 23",Apartment 8,Woolpack Lane,,Nottingham
+2022-12-09,475000,NG1 6FX,F,N,L,Royal Standard House,Flat 9,Standard Hill,,Nottingham
+2022-12-09,57000,NG1 6BF,F,N,L,Minerva House,Flat 526,Spaniel Row,,Nottingham
+2022-12-09,200000,NG1 5HR,F,N,L,"Clarendon House, 17 - 19",Apartment 6,Clarendon Street,,Nottingham
+2022-12-09,250000,NG1 4GN,F,N,L,Charleston House,Flat 31,Peel Street,,Nottingham
+2022-12-09,74500,NG1 1EA,T,Y,F,65,,Brook Street,,Nottingham
+2022-12-09,74500,NG1 1EA,T,Y,F,63,,Brook Street,,Nottingham
+2022-12-09,74500,NG1 1BL,T,Y,F,22,,Bedford Row,,Nottingham
+2022-12-09,82000,NG1 1AP,F,N,L,Marco Island,Apartment 204,Huntingdon Street,,Nottingham
+2022-12-02,39950,NG1 6BH,F,N,L,"Maid Marian House, 56",Flat 318,Hounds Gate,,Nottingham
+2022-11-30,240000,NG1 6GL,F,N,L,The Arena,Apartment 80,Standard Hill,,Nottingham
+2022-11-30,200000,NG1 1QF,F,N,L,Weekday Cross Building,Apartment 408,Pilcher Gate,,Nottingham
+2022-11-25,232000,NG1 5AU,F,N,L,"The Convent, 4",Apartment 7,College Street,,Nottingham
+2022-11-23,185000,NG1 1JU,F,N,L,21,Flat 12,Barker Gate,,Nottingham
+2022-11-22,495000,NG1 3AA,F,N,L,26 - 30,The Penthouse,Heathcoat Street,,Nottingham
+2022-11-18,55700,NG1 6EP,F,N,L,Minerva House,Flat 215,Spaniel Row,,Nottingham
+2022-11-11,910000,NG1 5DN,F,N,L,"Oakhill House, 32",Apartment 3,Park Terrace,,Nottingham
+2022-11-09,270000,NG1 4HH,T,N,F,18,,Forest Road East,,Nottingham
+2022-11-08,294000,NG1 5DT,F,N,L,"Park Heights, 4 - 6",Apartment 4F,The Ropewalk,,Nottingham
+2022-11-08,177000,NG1 5AP,F,N,L,Parkgate,Apartment 208,Upper College Street,,Nottingham
+2022-11-07,215000,NG1 5AS,F,N,L,The Pinnacle,Flat 6,Cottage Terrace,,Nottingham
+2022-11-07,80000,NG1 1EJ,F,N,L,The Zone,Apartment 17,Cranbrook Street,,Nottingham
+2022-11-07,120000,NG1 1EH,F,N,L,"The Edge, 122 - 124",Flat 6,Lower Parliament Street,,Nottingham
+2022-11-04,88000,NG1 6GR,F,N,L,Charles House,Apartment 3,Park Row,,Nottingham
+2022-11-02,360000,NG1 6GX,F,N,L,"Truman House, 22 - 28",Apartment 2,Park Row,,Nottingham
+2022-10-31,97000,NG1 3NX,F,N,L,"The Litmus Building, 195",Apartment 603,Huntingdon Street,,Nottingham
+2022-10-28,145000,NG1 3NX,F,N,L,"The Litmus Building, 195",Apartment 521,Huntingdon Street,,Nottingham
+2022-10-28,178500,NG1 1PF,F,N,L,"The Living Quarter, 2",Apartment 36,St Marys Gate,,Nottingham
+2022-10-28,100000,NG1 1AT,F,N,L,Marco Island,Apartment 802,Huntingdon Street,,Nottingham
+2022-10-24,210000,NG1 7HG,F,N,L,"Nottingham One Tower, 156",Apartment T701,Canal Street,,Nottingham
+2022-10-21,297500,NG1 5DZ,F,N,L,"Oxford Heights, 22",Flat 3,The Ropewalk,,Nottingham
+2022-10-21,300000,NG1 1QP,F,N,L,Number One Fletcher Gate,Apartment 10,Adams Walk,,Nottingham
+2022-10-17,64200,NG1 6BF,F,N,L,Minerva House,Flat 330,Spaniel Row,,Nottingham
+2022-10-14,255000,NG1 2GJ,F,N,L,12A,Flat 4,Byard Lane,,Nottingham
+2022-10-12,198500,NG1 1QF,F,N,L,Weekday Cross Building,Apartment 303,Pilcher Gate,,Nottingham
+2022-10-05,184000,NG1 1QP,F,N,L,Number One Fletcher Gate,Apartment 42,Adams Walk,,Nottingham
+2022-09-30,102500,NG1 1GH,F,N,L,The Habitat,Flat 49,Woolpack Lane,,Nottingham
+2022-09-27,45000,NG1 6BH,F,N,L,"Maid Marian House, 56",Flat 411,Hounds Gate,,Nottingham
+2022-09-22,175000,NG1 1EJ,F,N,L,The Zone,Apartment 21,Cranbrook Street,,Nottingham
+2022-09-22,51000,NG1 1DE,F,N,L,53,,Park View Court,,Nottingham
+2022-09-21,110000,NG1 1LL,F,N,L,"Broadway House, 32",Apartment 13,Stoney Street,,Nottingham
+2022-09-15,500000,NG1 1HY,F,N,L,2,Apartment 3,Short Hill,,Nottingham
+2022-09-14,260000,NG1 5DJ,F,N,L,111,Apartment 45,The Ropewalk,,Nottingham
+2022-09-12,150000,NG1 1QX,F,N,L,53,Flat 11,Stoney Street,,Nottingham
+2022-09-12,267500,NG1 1AW,F,N,L,Marco Island,Apartment 1010,Huntingdon Street,,Nottingham
+2022-09-07,195000,NG1 6GL,F,N,L,The Arena,Apartment 77,Standard Hill,,Nottingham
+2022-09-05,45000,NG1 1DE,F,N,L,69,,Park View Court,,Nottingham
+2022-09-02,265000,NG1 5DW,F,N,L,30,Apartment 8,The Ropewalk,,Nottingham
+2022-08-31,125000,NG1 7HW,F,N,L,Nottingham One Entrance B,Apartment 538,Canal Street,,Nottingham
+2022-08-31,290000,NG1 4GN,F,N,L,Charleston House,Flat 12A,Peel Street,,Nottingham
+2022-08-31,240000,NG1 4DS,T,N,F,4,,Clinton Court,,Nottingham
+2022-08-26,195000,NG1 7AB,F,N,L,"Hounds Gate Court, 14",Apartment 15,Hounds Gate,,Nottingham
+2022-08-26,104000,NG1 3NX,F,N,L,"The Litmus Building, 195",Apartment 417,Huntingdon Street,,Nottingham
+2022-08-24,168500,NG1 1AY,F,N,L,"St. Marys Court, 21",Flat 33,St Marys Gate,,Nottingham
+2022-08-19,206000,NG1 1JH,F,N,L,1A,Apartment 38,Hollowstone,,Nottingham
+2022-08-18,120000,NG1 1AS,F,N,L,Marco Island,Apartment 601,Huntingdon Street,,Nottingham
+2022-08-15,160050,NG1 7HT,F,N,L,Nottingham One Entrance D,Apartment 335,Canal Street,,Nottingham
+2022-08-12,95000,NG1 7JF,S,N,L,20,,Shortwood Close,,Nottingham
+2022-08-12,155000,NG1 1JL,F,N,L,"Stone Yard, 12",Apartment 20,Plumptre Street,,Nottingham
+2022-08-12,95000,NG1 1EH,F,N,L,"The Edge, 122 - 124",Flat 9,Lower Parliament Street,,Nottingham
+2022-08-11,252500,NG1 6GL,F,N,L,The Arena,Apartment 33,Standard Hill,,Nottingham
+2022-08-08,142500,NG1 1JL,F,N,L,"Stone Yard, 12",Apartment 7,Plumptre Street,,Nottingham
+2022-08-03,77000,NG1 1AP,F,N,L,Marco Island,Apartment 211,Huntingdon Street,,Nottingham
+2022-07-29,185000,NG1 1QL,F,N,L,Weekday Cross Building,Apartment 417,Halifax Place,,Nottingham
+2022-07-28,130000,NG1 1JL,F,N,L,"Stone Yard, 12",Apartment 40,Plumptre Street,,Nottingham
+2022-07-27,150000,NG1 1GJ,F,N,L,The Habitat,Flat 102,Woolpack Lane,,Nottingham
+2022-07-26,275000,NG1 2GJ,F,N,L,12A,Flat 3,Byard Lane,,Nottingham
+2022-07-22,137000,NG1 1QF,F,N,L,Weekday Cross Building,Apartment 105,Pilcher Gate,,Nottingham
+2022-07-22,102500,NG1 1GH,F,N,L,The Habitat,Flat 64,Woolpack Lane,,Nottingham
+2022-07-22,102500,NG1 1GH,F,N,L,The Habitat,Flat 57,Woolpack Lane,,Nottingham
+2022-07-22,102500,NG1 1GH,F,N,L,The Habitat,Flat 35,Woolpack Lane,,Nottingham
+2022-07-22,63000,NG1 1DE,F,N,L,54,,Park View Court,,Nottingham
+2022-07-20,145000,NG1 1PF,F,N,L,"The Living Quarter, 2",Apartment 21,St Marys Gate,,Nottingham
+2022-07-11,137000,NG1 7HG,F,N,L,"Nottingham One Tower, 156",Apartment T303,Canal Street,,Nottingham
+2022-07-08,330000,NG1 1QR,F,N,L,Number One Fletcher Gate,Apartment 92,Adams Walk,,Nottingham
+2022-07-08,135000,NG1 1QP,F,N,L,Number One Fletcher Gate,Apartment 6,Adams Walk,,Nottingham
+2022-07-08,50000,NG1 1DE,F,N,L,80,,Park View Court,,Nottingham
+2022-07-08,50000,NG1 1DE,F,N,L,76,,Park View Court,,Nottingham
+2022-07-01,121000,NG1 1QF,F,N,L,Weekday Cross Building,Apartment 509,Pilcher Gate,,Nottingham
+2022-06-30,425000,NG1 1AW,F,Y,L,Marco Island,Apartment 1201,Huntingdon Street,,Nottingham
+2022-06-25,220000,NG1 5DJ,F,N,L,111,Apartment 27,The Ropewalk,,Nottingham
+2022-06-24,72000,NG1 2AP,F,N,L,"Express Buildings, 17 - 25",Unit 25,Upper Parliament Street,,Nottingham
+2022-06-24,66000,NG1 2AP,F,N,L,"Express Buildings, 17 - 25",Unit 6,Upper Parliament Street,,Nottingham
+2022-06-24,205000,NG1 1GT,F,N,L,81,,Cliff Road,,Nottingham
+2022-06-23,120000,NG1 1LL,F,N,L,"Broadway House, 32",Apartment 19,Stoney Street,,Nottingham
+2022-06-22,160000,NG1 7HT,F,N,L,Nottingham One Entrance D,Apartment 235,Canal Street,,Nottingham
+2022-06-17,95000,NG1 6GR,F,N,L,Charles House,Apartment 23,Park Row,,Nottingham
+2022-06-17,130000,NG1 6GR,F,N,L,Charles House,Apartment 18,Park Row,,Nottingham
+2022-06-17,220000,NG1 1GT,F,N,L,87,,Cliff Road,,Nottingham
+2022-06-17,100000,NG1 1GA,F,N,L,"Hockley House, 23",Apartment 18,Woolpack Lane,,Nottingham
+2022-06-13,217500,NG1 4HS,D,N,F,19,,Forest Grove,,Nottingham
+2022-06-10,252500,NG1 2GJ,F,N,L,12A,Flat 2,Byard Lane,,Nottingham
+2022-06-10,48000,NG1 1DE,F,N,L,67,,Park View Court,,Nottingham
+2022-06-06,170000,NG1 1LD,F,N,L,Swanns Building,Apartment 19,Plumptre Place,,Nottingham
+2022-05-31,80000,NG1 3PQ,F,N,L,1005,,Victoria Centre,,Nottingham
+2022-05-27,225000,NG1 1QR,F,N,L,Number One Fletcher Gate,Apartment 94,Adams Walk,,Nottingham
+2022-05-26,39000,NG1 6BH,F,N,L,"Maid Marian House, 56",Flat 412,Hounds Gate,,Nottingham
+2022-05-17,160000,NG1 6GL,F,N,L,The Arena,Apartment 97,Standard Hill,,Nottingham
+2022-05-13,270000,NG1 2GJ,F,N,L,12A,Flat 1,Byard Lane,,Nottingham
+2022-05-12,145000,NG1 5FF,F,N,L,Regent Court,Flat 15,Derby Street,,Nottingham
+2022-05-10,137500,NG1 2GB,F,N,L,"Weekday Cross Building, 7",Apartment 32,Weekday Cross,,Nottingham
+2022-05-09,250000,NG1 5DZ,F,N,L,"Oxford Heights, 22",Flat 2,The Ropewalk,,Nottingham
+2022-05-05,157500,NG1 1JL,F,N,L,Mills Building,Flat 10,Plumptre Street,,Nottingham
+2022-05-04,305000,NG1 6GX,F,N,L,"Truman House, 22 - 28",Apartment 3,Park Row,,Nottingham
+2022-04-29,65000,NG1 7AD,F,N,L,"Halley House, 35 - 37",Flat 58,Hounds Gate,,Nottingham
+2022-04-29,855000,NG1 6AF,T,N,F,47,,Castle Gate,,Nottingham
+2022-04-29,47000,NG1 1DD,F,N,L,33,,Park View Court,,Nottingham
+2022-04-28,162000,NG1 1QF,F,N,L,Weekday Cross Building,Apartment 512,Pilcher Gate,,Nottingham
+2022-04-25,225000,NG1 1JL,F,N,L,"Stone Yard, 12",Apartment 31,Plumptre Street,,Nottingham
+2022-04-22,160000,NG1 3BU,F,N,L,George Street Trading House,Apartment 15,George Street,,Nottingham
+2022-04-19,250000,NG1 1JU,F,N,L,21,Flat 33,Barker Gate,,Nottingham
+2022-04-08,130000,NG1 7HW,F,N,L,Nottingham One Entrance B,Apartment 411,Canal Street,,Nottingham
+2022-04-05,195000,NG1 5DW,F,N,L,30,Apartment 6,The Ropewalk,,Nottingham
+2022-03-23,42500,NG1 6BH,F,N,L,"Maid Marian House, 56",Flat 109,Hounds Gate,,Nottingham
+2022-03-18,215000,NG1 6GL,F,N,L,The Arena,Apartment 9,Standard Hill,,Nottingham
+2022-03-18,36750,NG1 3BW,F,N,L,Avalon Court,Flat 128,Kent Street,,Nottingham
+2022-03-11,35000,NG1 6BH,F,N,L,"Maid Marian House, 56",Flat 512,Hounds Gate,,Nottingham
+2022-03-10,185000,NG1 1JP,F,N,L,"The Point, 14",Flat 31,Plumptre Street,,Nottingham
+2022-03-08,120000,NG1 5FF,F,N,L,Regent Court,Flat 30,Derby Street,,Nottingham
+2022-03-02,110000,NG1 3BT,F,N,L,Crusader House,19,Thurland Street,,Nottingham
+2022-02-28,120000,NG1 1QF,F,N,L,Weekday Cross Building,Apartment 26,Pilcher Gate,,Nottingham
+2022-02-28,85000,NG1 1AT,F,N,L,Marco Island,Apartment 834,Huntingdon Street,,Nottingham
+2022-02-28,88000,NG1 1AP,F,N,L,Marco Island,Apartment 309,Huntingdon Street,,Nottingham
+2022-02-25,50000,NG1 6BH,F,N,L,"Maid Marian House, 56",Flat 118,Hounds Gate,,Nottingham
+2022-02-24,173000,NG1 6GL,F,N,L,The Arena,Apartment 74,Standard Hill,,Nottingham
+2022-02-08,143000,NG1 1AN,F,N,L,"Lexington Place, 7",Apartment 1,Plumptre Street,,Nottingham
+2022-02-07,50000,NG1 1ES,F,N,L,Cranbrook House,Flat 32,Cranbrook Street,,Nottingham
+2022-02-07,48000,NG1 1ES,F,N,L,Cranbrook House,Flat 33,Cranbrook Street,,Nottingham
+2022-02-03,139000,NG1 7AE,F,N,L,"Drapers Bridge, 17 - 21",Apartment 12,Hounds Gate,,Nottingham
+2022-01-31,88000,NG1 1AS,F,N,L,Marco Island,Apartment 612,Huntingdon Street,,Nottingham
+2022-01-28,55000,NG1 1DE,T,N,L,58,,Park View Court,,Nottingham
+2022-01-21,265000,NG1 7AE,F,N,L,"Drapers Bridge, 17 - 21",Apartment 22,Hounds Gate,,Nottingham
+2022-01-21,238000,NG1 4GN,F,N,L,Charleston House,Flat 3,Peel Street,,Nottingham
+2022-01-21,123500,NG1 1QP,F,N,L,Number One Fletcher Gate,Apartment 9,Adams Walk,,Nottingham
+2022-01-19,245000,NG1 6GR,F,N,L,Charles House,Apartment 38,Park Row,,Nottingham
+2022-01-17,116000,NG1 1LL,F,N,L,"Broadway House, 32",Apartment 4,Stoney Street,,Nottingham
+2022-01-14,175000,NG1 2AB,F,N,L,49,Flat 4,Upper Parliament Street,,Nottingham
+2022-01-13,180000,NG1 4DP,F,N,F,18,,Bluecoat Close,,Nottingham
+2022-01-10,160000,NG1 4DT,T,N,F,3,,Matlock Court,,Nottingham
+2022-01-07,144500,NG1 6GL,F,N,L,The Arena,Apartment 18,Standard Hill,,Nottingham
+2021-12-23,123000,NG1 6GR,F,N,L,Charles House,Apartment 31,Park Row,,Nottingham
+2021-12-20,165000,NG1 4GN,F,N,L,Charleston House,Flat 18,Peel Street,,Nottingham
+2021-12-17,280000,NG1 6FX,F,N,L,Royal Standard House,Flat 11,Standard Hill,,Nottingham
+2021-12-16,45000,NG1 1DE,F,N,L,68,,Park View Court,,Nottingham
+2021-12-14,130000,NG1 3BT,F,N,L,Crusader House,6,Thurland Street,,Nottingham
+2021-12-07,165000,NG1 7DG,F,N,L,"Enfield House, 18",Apartment 5,Low Pavement,,Nottingham
+2021-12-06,179000,NG1 1JP,F,N,L,"The Point, 14",Flat 24,Plumptre Street,,Nottingham
+2021-12-03,205000,NG1 1JP,F,N,L,"The Point, 14",Flat 28,Plumptre Street,,Nottingham
+2021-11-30,225000,NG1 5BS,F,N,L,5,Flat 1,Regent Street,,Nottingham
+2021-11-30,152000,NG1 1HS,F,N,L,Kings Court,Apartment 12,Commerce Square,,Nottingham
+2021-11-26,227000,NG1 1QR,F,N,L,Number One Fletcher Gate,Apartment 86,Adams Walk,,Nottingham
+2021-11-24,72000,NG1 1JW,F,N,L,The Ice House,29,Belward Street,,Nottingham
+2021-11-17,182000,NG1 1AN,F,N,L,"Lexington Place, 7",Apartment 18,Plumptre Street,,Nottingham
+2021-11-12,200000,NG1 7AE,F,N,L,"Drapers Bridge, 17 - 21",Apartment 16,Hounds Gate,,Nottingham
+2021-11-12,265000,NG1 5AF,F,N,L,11,Flat 1,East Circus Street,,Nottingham
+2021-11-08,132000,NG1 5BG,F,N,L,14,Flat 7,Oxford Street,,Nottingham
+2021-11-08,127000,NG1 3PD,F,N,L,632,,Victoria Centre,,Nottingham
+2021-11-05,128000,NG1 1QP,F,N,L,Number One Fletcher Gate,Apartment 41,Adams Walk,,Nottingham
+2021-11-05,165000,NG1 1QP,F,N,L,Number One Fletcher Gate,Apartment 30,Adams Walk,,Nottingham
+2021-11-05,117000,NG1 1AR,F,N,L,Marco Island,Apartment 501,Huntingdon Street,,Nottingham
+2021-10-28,45000,NG1 1DD,F,N,L,4,,Park View Court,,Nottingham
+2021-10-21,250000,NG1 7AS,F,N,L,"The Courtyard, 10",Flat 2A,Castle Gate,,Nottingham
+2021-10-18,112500,NG1 7HG,F,N,L,"Nottingham One Tower, 156",Apartment T401,Canal Street,,Nottingham
+2021-10-18,150000,NG1 1JL,F,N,L,"Stone Yard, 12",Apartment 15,Plumptre Street,,Nottingham
+2021-10-06,124320,NG1 1PR,F,N,L,"The Establishment, 3",Apartment 23,Broadway,,Nottingham
+2021-10-05,295000,NG1 7AA,F,N,L,"Seren Court, 15A",Apartment 1,Hounds Gate,,Nottingham
+2021-09-30,41000,NG1 4AH,F,N,L,"Bard House, 14 - 22",Flat 111,Shakespeare Street,,Nottingham
+2021-09-28,157500,NG1 1QF,F,N,L,Weekday Cross Building,Apartment 211,Pilcher Gate,,Nottingham
+2021-09-27,475000,NG1 5DN,F,N,L,"Oakhill House, 32",Apartment 4,Park Terrace,,Nottingham
+2021-09-24,100000,NG1 1JT,F,N,L,"New Court, 14",Apartment 12,Ristes Place,,Nottingham
+2021-09-24,153000,NG1 1JL,F,N,L,Mills Building,Flat 1,Plumptre Street,,Nottingham
+2021-09-24,93500,NG1 1GL,F,N,L,37,,Carter Gate,,Nottingham
+2021-09-17,600000,NG1 5DW,T,N,F,"Carrick House, 64",,The Ropewalk,,Nottingham
+2021-09-10,275000,NG1 6FX,F,N,L,Royal Standard House,Flat 25,Standard Hill,,Nottingham
+2021-09-10,125000,NG1 5HR,F,N,L,"Clarendon House, 17 - 19",Apartment 2,Clarendon Street,,Nottingham
+2021-09-09,137000,NG1 3BT,F,N,L,Crusader House,22,Thurland Street,,Nottingham
+2021-09-06,125000,NG1 1JL,F,N,L,1,Apartment A,Plumptre Street,,Nottingham
+2021-09-03,307500,NG1 4HA,T,N,F,52,,Addison Street,,Nottingham
+2021-09-02,127000,NG1 3BU,F,N,L,George Street Trading House,Apartment 48,George Street,,Nottingham
+2021-09-02,169000,NG1 1PF,F,N,L,"The Living Quarter, 2",Apartment 2,St Marys Gate,,Nottingham
+2021-08-31,90000,NG1 1JT,F,N,L,"New Court, 14",Apartment 17,Ristes Place,,Nottingham
+2021-08-27,118000,NG1 7HL,F,N,L,Nottingham One Entrance A,Apartment 404,Canal Street,,Nottingham
+2021-08-27,160000,NG1 7DG,F,N,L,"Enfield House, 18",Apartment 13,Low Pavement,,Nottingham
+2021-08-27,330000,NG1 1PF,F,N,L,"The Living Quarter, 2",Apartment 47,St Marys Gate,,Nottingham
+2021-08-27,105000,NG1 1JW,F,N,L,The Ice House,32,Belward Street,,Nottingham
+2021-08-20,180000,NG1 5DT,F,N,L,"Park Heights, 4 - 6",Apartment 6F,The Ropewalk,,Nottingham
+2021-08-20,220000,NG1 5AX,F,N,L,3,,Wellington Court,,Nottingham
+2021-08-16,190000,NG1 1HD,F,N,L,Mills Building,Flat 25,Plumptre Place,,Nottingham
+2021-08-13,46500,NG1 6BF,F,N,L,Minerva House,Flat 427,Spaniel Row,,Nottingham
+2021-08-13,110000,NG1 1QF,F,N,L,Weekday Cross Building,Apartment 502,Pilcher Gate,,Nottingham
+2021-08-13,176000,NG1 1AN,F,N,L,"Lexington Place, 7",Apartment 22,Plumptre Street,,Nottingham
+2021-08-12,115000,NG1 6GR,F,N,L,Charles House,Apartment 9,Park Row,,Nottingham
+2021-08-11,230000,NG1 7AB,F,N,L,"Hounds Gate Court, 14",Apartment 32,Hounds Gate,,Nottingham
+2021-08-06,575000,NG1 6AF,T,N,F,55,,Castle Gate,,Nottingham
+2021-07-30,230000,NG1 1QL,F,N,L,Weekday Cross Building,Apartment 614,Halifax Place,,Nottingham
+2021-07-28,303000,NG1 6FX,F,N,L,City Point,Apartment 21,Standard Hill,,Nottingham
+2021-07-21,126000,NG1 6GR,F,N,L,Charles House,Apartment 6,Park Row,,Nottingham
+2021-07-02,173500,NG1 1QF,F,N,L,Weekday Cross Building,Apartment 203,Pilcher Gate,,Nottingham
+2021-07-02,170000,NG1 1HS,F,N,L,Kings Court,Apartment 17,Commerce Square,,Nottingham
+2021-06-30,565000,NG1 5DN,F,N,L,18,,Park Terrace,,Nottingham
+2021-06-30,417000,NG1 4HA,T,N,F,62,,Addison Street,,Nottingham
+2021-06-30,315000,NG1 3HL,T,N,L,114,,Mansfield Road,,Nottingham
+2021-06-30,84500,NG1 1AP,F,N,L,Marco Island,Apartment 333,Huntingdon Street,,Nottingham
+2021-06-29,810000,NG1 6AF,T,N,F,45,,Castle Gate,,Nottingham
+2021-06-29,640000,NG1 4HH,D,N,F,16,,Forest Road East,,Nottingham
+2021-06-23,84000,NG1 5FF,F,N,L,Regent Court,Flat 41,Derby Street,,Nottingham
+2021-06-22,195000,NG1 7HL,F,N,L,Nottingham One Entrance A,Apartment 301,Canal Street,,Nottingham
+2021-06-18,140000,NG1 3AP,F,N,L,"Castle Exchange, 41",A102,Broad Street,,Nottingham
+2021-06-18,195000,NG1 1QR,F,N,L,Number One Fletcher Gate,Apartment 82,Adams Walk,,Nottingham
+2021-06-16,41000,NG1 6BH,F,N,L,"Maid Marian House, 56",Flat 316,Hounds Gate,,Nottingham
+2021-06-08,230000,NG1 5AY,F,N,L,Cavendish House,Apartment 12,Park Terrace,,Nottingham
+2021-06-01,38000,NG1 3BW,F,N,L,Avalon Court,Flat 313,Kent Street,,Nottingham
+2021-05-31,110000,NG1 1GA,F,N,L,"Hockley House, 23",Apartment 16,Woolpack Lane,,Nottingham
+2021-05-28,239000,NG1 5AY,F,N,L,Cavendish House,Apartment 4,Park Terrace,,Nottingham
+2021-05-26,115250,NG1 6GR,F,N,L,Charles House,Apartment 10,Park Row,,Nottingham
+2021-05-26,1061555,NG1 5DN,T,N,F,16,,Park Terrace,,Nottingham
+2021-05-22,325000,NG1 6FX,F,N,L,City Point,Apartment 3,Standard Hill,,Nottingham
+2021-05-21,390660,NG1 3HD,T,N,F,106,,Mansfield Road,,Nottingham
+2021-05-20,165000,NG1 4DS,T,N,F,8,,Clinton Court,,Nottingham
+2021-05-14,88000,NG1 1AT,F,N,L,Marco Island,Apartment 803,Huntingdon Street,,Nottingham
+2021-05-12,140000,NG1 5FF,F,N,L,Regent Court,Flat 1,Derby Street,,Nottingham
+2021-05-11,50500,NG1 1DE,F,N,L,77,,Park View Court,,Nottingham
+2021-05-07,860000,NG1 5DT,S,N,F,2,Regency House West,The Ropewalk,,Nottingham
+2021-05-05,230000,NG1 1QL,F,N,L,Weekday Cross Building,Apartment 701,Halifax Place,,Nottingham
+2021-04-30,240000,NG1 1QX,F,N,L,53,Flat 3,Stoney Street,,Nottingham
+2021-04-09,240000,NG1 1HS,F,N,L,Kings Court,Apartment 1,Commerce Square,,Nottingham
+2021-04-09,173500,NG1 1GY,S,N,F,50,,Cliff Road,,Nottingham
+2021-04-09,87000,NG1 1FF,F,N,L,12,Flat 1,Goose Gate,,Nottingham
+2021-04-08,175000,NG1 1JL,F,N,L,"Stone Yard, 12",Apartment 17,Plumptre Street,,Nottingham
+2021-04-06,190000,NG1 1EA,T,N,F,35,,Brook Street,,Nottingham
+2021-03-31,91500,NG1 6FE,F,N,L,Loxley Court,Apartment 19,St James's Street,,Nottingham
+2021-03-31,84100,NG1 4HS,T,N,F,3,,Forest Grove,,Nottingham
+2021-03-31,130000,NG1 1QR,F,N,L,Number One Fletcher Gate,Apartment 58,Adams Walk,,Nottingham
+2021-03-31,148000,NG1 1PR,F,N,L,"The Establishment, 3",Apartment 38,Broadway,,Nottingham
+2021-03-26,190000,NG1 5BJ,F,N,L,Ropewalk Court,71,Upper College Street,,Nottingham
+2021-03-24,550000,NG1 6AF,T,N,F,53,,Castle Gate,,Nottingham
+2021-03-19,130000,NG1 5FF,F,N,L,Regent Court,Flat 5,Derby Street,,Nottingham
+2021-03-18,193000,NG1 7AE,F,N,L,"Drapers Bridge, 17 - 21",Apartment 8,Hounds Gate,,Nottingham
+2021-03-12,139400,NG1 5BS,F,N,L,1,Flat 2,Regent Street,,Nottingham
+2021-03-08,130000,NG1 1GH,F,N,L,The Habitat,Flat 6,Woolpack Lane,,Nottingham
+2021-03-05,151900,NG1 7DG,F,N,L,"Enfield House, 18",Apartment 19,Low Pavement,,Nottingham
+2021-03-05,47000,NG1 6BF,F,N,L,Minerva House,Flat 514,Spaniel Row,,Nottingham
+2021-03-05,178000,NG1 2NA,F,N,L,"Wheeler Gate House, 25 - 29",Apartment 11,Wheeler Gate,,Nottingham
+2021-03-05,325000,NG1 1QF,F,N,L,Weekday Cross Building,Apartment 601,Pilcher Gate,,Nottingham
+2021-03-05,87000,NG1 1AR,F,N,L,Marco Island,Apartment 436,Huntingdon Street,,Nottingham
+2021-03-04,340000,NG1 6GL,F,N,L,The Arena,Apartment 57,Standard Hill,,Nottingham
+2021-03-04,270000,NG1 6GL,F,N,L,The Arena,Apartment 76,Standard Hill,,Nottingham
+2021-03-02,165000,NG1 3NY,F,N,L,"The Litmus Building, 195",Apartment 919,Huntingdon Street,,Nottingham
+2021-02-26,191000,NG1 7HW,F,N,L,Nottingham One Entrance B,Apartment 115,Canal Street,,Nottingham
+2021-02-26,52250,NG1 6EP,F,N,L,Minerva House,Flat 125,Spaniel Row,,Nottingham
+2021-02-23,46000,NG1 3BW,F,N,L,Avalon Court,Flat 307,Kent Street,,Nottingham
+2021-02-19,220000,NG1 1HS,F,N,L,2A,,Commerce Square,,Nottingham
+2021-02-18,124000,NG1 1HD,F,N,L,Mills Building,Flat 11,Plumptre Place,,Nottingham
+2021-02-12,215000,NG1 6GR,F,N,L,Charles House,Apartment 38,Park Row,,Nottingham
+2021-02-12,110000,NG1 6GR,F,N,L,Charles House,Apartment 42,Park Row,,Nottingham
+2021-02-12,220000,NG1 5HR,F,N,L,"Clarendon House, 17 - 19",Apartment 8,Clarendon Street,,Nottingham
+2021-02-05,200000,NG1 5HR,F,N,L,"Clarendon House, 17 - 19",Apartment 12,Clarendon Street,,Nottingham
+2021-02-04,442500,NG1 4HS,T,N,F,1,,Forest Grove,,Nottingham
+2021-01-29,165000,NG1 6GL,F,N,L,The Arena,Apartment 11,Standard Hill,,Nottingham
+2021-01-29,685000,NG1 5BT,D,N,F,30,,Regent Street,,Nottingham
+2021-01-29,99000,NG1 1GA,F,N,L,"Hockley House, 23",Apartment 5,Woolpack Lane,,Nottingham
+2021-01-29,86000,NG1 1AS,F,N,L,Marco Island,Apartment 703,Huntingdon Street,,Nottingham
+2021-01-28,190000,NG1 1QP,F,N,L,Number One Fletcher Gate,Apartment 36,Adams Walk,,Nottingham
+2021-01-22,211000,NG1 7AB,F,N,L,"Hounds Gate Court, 14",Apartment 6,Hounds Gate,,Nottingham
+2021-01-20,87000,NG1 1JW,F,N,L,The Ice House,24,Belward Street,,Nottingham
+2021-01-15,118000,NG1 5GY,F,N,L,"North West, 41",Apartment 209,Talbot Street,,Nottingham
+2021-01-15,198500,NG1 4HL,T,N,F,9,,Colville Terrace,,Nottingham
+2021-01-14,42500,NG1 6BH,F,N,L,"Maid Marian House, 56",Flat 216,Hounds Gate,,Nottingham
+2021-01-14,42000,NG1 1DE,F,N,L,48,,Park View Court,,Nottingham
+2021-01-07,50000,NG1 6BF,F,N,L,Minerva House,Flat 332,Spaniel Row,,Nottingham

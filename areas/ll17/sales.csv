@@ -1,0 +1,578 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-14,270000,LL17 0ED,D,N,F,Llys Yr Afon,,Lower Denbigh Road,,St Asaph
+2026-07-31,215000,LL17 0SQ,S,N,F,4A,,Llwyn Onn,,St Asaph
+2026-07-31,325000,LL17 0FB,D,N,F,1,,Rhodfa'R Gydlifiad,,St Asaph
+2026-07-24,450000,LL17 0FJ,D,N,F,2,,Rhodfa Cae Ucha,,St Asaph
+2026-07-21,640000,LL17 0DH,D,N,F,Bryn Berllan,,Mount Road,,St Asaph
+2026-07-17,250000,LL17 0SQ,D,N,F,10,,Llwyn Onn,,St Asaph
+2026-07-17,480000,LL17 0DH,D,N,F,Arfryn,,Mount Road,,St Asaph
+2026-07-15,190000,LL17 0DS,S,N,F,3,,Holywell Road,,St Asaph
+2026-07-10,188750,LL17 0SJ,S,N,F,6,,Llys Alun,,St Asaph
+2026-07-09,368000,LL17 0UB,D,N,F,17,,Heol Y Brenin,Tremeirchion,St Asaph
+2026-07-03,275000,LL17 0RW,D,N,F,Garth Cottage,,Upper Denbigh Road,,St Asaph
+2026-06-11,205000,LL17 0LD,S,N,F,61,,Roe Parc,,St Asaph
+2026-06-08,125000,LL17 0ND,T,N,F,1,,Merllyn Terrace,,St Asaph
+2026-06-05,210000,LL17 0SQ,S,N,F,2,,Llwyn Onn,,St Asaph
+2026-06-05,275000,LL17 0LD,S,N,F,"Glan Yr Afon, 4",,Roe Parc,,St Asaph
+2026-06-01,360000,LL17 0UB,D,N,F,25,,Heol Y Brenin,Tremeirchion,St Asaph
+2026-05-28,262500,LL17 0EQ,T,N,F,20,,Rhodfa Tegid,,St Asaph
+2026-05-28,354000,LL17 0BD,D,N,F,Llanerch Hall,The Old Shippon,Llannerch Park,,St Asaph
+2026-05-13,240000,LL17 0PL,D,N,F,59,,Ashly Court,,St Asaph
+2026-05-08,292500,LL17 0LD,D,N,F,5,,Roe Parc,,St Asaph
+2026-05-06,175000,LL17 0TA,S,N,F,3,,Dyffryn Teg,Rhuallt,St Asaph
+2026-04-24,317500,LL17 0TT,D,N,F,3,,Bodlonfa Hall Mews,Rhuallt,St Asaph
+2026-04-24,270000,LL17 0SU,D,N,F,19,,Bishops Walk,,St Asaph
+2026-04-24,158000,LL17 0RH,T,N,F,6,,Cae Bryn,,St Asaph
+2026-04-20,306000,LL17 0PT,D,N,F,18,,Ffordd Siarl,,St Asaph
+2026-04-17,220000,LL17 0FN,S,N,F,9,,Llwyn Dinas Fechan,,St Asaph
+2026-04-10,212000,LL17 0LD,D,N,F,52,,Roe Parc,,St Asaph
+2026-03-31,452500,LL17 0UN,D,N,F,Argraig,,,Tremeirchion,St Asaph
+2026-03-23,170000,LL17 0PB,S,N,F,5,,Heol Clwyd,,St Asaph
+2026-03-16,146000,LL17 0DS,S,N,F,4,,Holywell Road,,St Asaph
+2026-03-13,153000,LL17 0NT,S,N,F,73,,Bro Havard,,St Asaph
+2026-03-10,255000,LL17 0NE,S,N,F,8,,Deans Walk,,St Asaph
+2026-02-27,265000,LL17 0BJ,D,N,F,6,,Clwydian Park Crescent,,St Asaph
+2026-02-24,157000,LL17 0BU,T,N,F,7,,Bronwylfa Square,,St Asaph
+2026-02-23,252500,LL17 0PH,S,N,F,79,,Ashly Court,,St Asaph
+2026-02-20,425000,LL17 0HX,D,N,F,"Linden House, 8",,Hen Waliau,,St Asaph
+2026-02-20,299000,LL17 0BW,D,N,F,Tegfan,,Allt Goch,,St Asaph
+2026-02-13,165000,LL17 0BN,S,N,F,25,,Nant Y Patrick,,St Asaph
+2026-02-10,193000,LL17 0PU,S,N,F,38,,Tan  Y   Bryn,,St Asaph
+2026-02-09,299950,LL17 0BQ,S,N,F,4,,Clwydian Park Avenue,,St Asaph
+2026-01-30,217500,LL17 0BN,D,N,F,14,,Nant Y Patrick,,St Asaph
+2026-01-29,285000,LL17 0FN,D,N,F,15,,Llwyn Dinas Fechan,,St Asaph
+2025-12-19,216000,LL17 0ET,S,N,F,Bryn Ffynnon,2,Wigfair,,St Asaph
+2025-12-15,420000,LL17 0SX,D,N,F,35,,Llys Dyffryn,,St Asaph
+2025-12-15,250000,LL17 0PT,D,N,F,Cae Glas,,Ffordd Siarl,,St Asaph
+2025-12-11,125000,LL17 0BD,F,N,L,Llannerch Hall,Flat 8,Llannerch Park,,St Asaph
+2025-12-05,249000,LL17 0BN,S,N,F,29,,Nant Y Patrick,,St Asaph
+2025-12-04,511000,LL17 0TP,D,N,F,Bwthyn,,,Rhuallt,St Asaph
+2025-12-04,161250,LL17 0SG,S,N,F,Hulmehurst,,Lower Street,,St Asaph
+2025-12-02,222000,LL17 0UE,S,N,F,Elwood,,,Tremeirchion,St Asaph
+2025-11-28,300000,LL17 0BE,S,N,F,1,,Llannerch Crossing,,St Asaph
+2025-11-25,315000,LL17 0SU,D,N,F,18,,Bishops Walk,,St Asaph
+2025-11-14,380000,LL17 0TT,T,N,F,1,,Bodlonfa Hall Mews,Rhuallt,St Asaph
+2025-11-14,176000,LL17 0PG,D,N,F,40,,Ashly Court,,St Asaph
+2025-11-14,238500,LL17 0BQ,D,N,F,11,,Clwydian Park Avenue,,St Asaph
+2025-11-11,355000,LL17 0AX,D,N,F,7,,Kentigern Court,,St Asaph
+2025-11-07,290000,LL17 0UA,D,N,F,8,,Llys Clwyd,,St Asaph
+2025-11-07,335000,LL17 0UA,D,N,F,13,,Llys Clwyd,,St Asaph
+2025-11-07,225000,LL17 0DP,D,N,F,5,,Bryn Arthur,,St Asaph
+2025-10-31,195000,LL17 0PU,S,N,F,40,,Tan  Y   Bryn,,St Asaph
+2025-10-24,300000,LL17 0BG,D,N,F,Maes Y Coed,,Upper Denbigh Road,,St Asaph
+2025-10-20,365000,LL17 0BT,D,N,F,Cil-Y-Cwm,,Henllan Road,,St Asaph
+2025-10-20,249500,LL17 0BQ,D,N,F,2,,Clwydian Park Avenue,,St Asaph
+2025-10-17,175000,LL17 0PG,D,N,F,23,,Ashly Court,,St Asaph
+2025-10-17,185000,LL17 0BY,T,N,F,5,,Lothian Park,,St Asaph
+2025-10-09,262500,LL17 0BN,D,N,F,23,,Nant Y Patrick,,St Asaph
+2025-10-01,378000,LL17 0UL,D,N,F,5,,Llys Y Tywysog,Tremeirchion,St Asaph
+2025-09-19,570000,LL17 0TH,D,N,F,Waen Heilyn,,,Rhuallt,St Asaph
+2025-09-19,175000,LL17 0PN,S,N,F,Rhondda,,Heol Esgob,,St Asaph
+2025-09-19,126000,LL17 0NF,T,N,F,2,,Caradoc Terrace,,St Asaph
+2025-09-18,267500,LL17 0EZ,T,N,F,29,,Ffordd Brenig,,St Asaph
+2025-09-15,730000,LL17 0TE,D,N,F,Dol Hyfryd,,,Rhuallt,St Asaph
+2025-09-12,620000,LL17 0DY,D,N,F,Glan Clwyd,The Mill House,,Waen,St Asaph
+2025-09-12,750000,LL17 0AW,D,N,F,Pant Ifan Goch,,Holywell Road,Rhuallt,St Asaph
+2025-09-11,168000,LL17 0RH,T,N,F,7,,Cae Bryn,,St Asaph
+2025-08-26,360000,LL17 0LH,D,N,F,Dyffryn Aur,,Glascoed Road,,St Asaph
+2025-08-08,525000,LL17 0TT,D,N,F,Bodlonfa Lodge,,,Rhuallt,St Asaph
+2025-08-04,215000,LL17 0SJ,S,N,F,4,,Llys Alun,,St Asaph
+2025-08-04,255000,LL17 0DD,S,N,F,Iffley,,Mount Road,,St Asaph
+2025-07-18,145000,LL17 0RY,T,N,F,The Chapel,2,Gemig Street,,St Asaph
+2025-07-10,465000,LL17 0DL,D,N,F,Greystones,,Cathedral Walk,,St Asaph
+2025-07-04,267000,LL17 0FE,D,N,F,1,,Rhodfa Ty Tyn,,St Asaph
+2025-06-26,320000,LL17 0LD,D,N,F,28,,Roe Parc,,St Asaph
+2025-06-18,292000,LL17 0PY,D,N,F,2A,,Pant Glas,,St Asaph
+2025-06-16,325000,LL17 0SZ,D,N,F,81,,Bishops Walk,,St Asaph
+2025-06-16,400000,LL17 0AQ,D,N,F,7,,The Paddock,,St Asaph
+2025-05-23,205000,LL17 0DN,S,N,F,Bryn Yr Haf,,Bryn Gobaith,,St Asaph
+2025-05-09,186000,LL17 0UP,T,N,F,Hen Afon,4,,Tremeirchion,St Asaph
+2025-05-07,150000,LL17 0RU,S,N,F,3,,Bryn Elwy,,St Asaph
+2025-05-06,170000,LL17 0EQ,F,N,L,33,,Rhodfa Tegid,,St Asaph
+2025-04-14,495950,LL17 0EA,D,Y,F,3,,Llys Wylfa,,St Asaph
+2025-04-11,232000,LL17 0PX,T,N,F,2,,Cae Winefride,,St Asaph
+2025-04-11,455000,LL17 0HB,D,N,F,Tyn Y Pwll,,,Cefn,St Asaph
+2025-04-04,257500,LL17 0DW,D,N,F,15,,Rhodfa Glenys,,St Asaph
+2025-03-31,183000,LL17 0SE,D,N,F,The Gables,,Luke Street,,St Asaph
+2025-03-31,700000,LL17 0RW,D,N,F,Tros Elwy,,Upper Denbigh Road,,St Asaph
+2025-03-31,385000,LL17 0HH,D,N,F,Ty Pella,,Bont Newydd,,St Asaph
+2025-03-31,349995,LL17 0FN,D,Y,F,37,,Llwyn Dinas Fechan,,St Asaph
+2025-03-28,335000,LL17 0TE,D,N,F,Burwen,,,Rhuallt,St Asaph
+2025-03-28,325000,LL17 0DW,D,N,F,32,,Rhodfa Glenys,,St Asaph
+2025-03-27,155000,LL17 0SW,S,N,F,1,,Mill Street,,St Asaph
+2025-03-26,283000,LL17 0DF,D,N,F,Bryn Mair,,Mount Road,,St Asaph
+2025-03-21,136250,LL17 0SR,T,N,F,4,,Silverdale Terrace,,St Asaph
+2025-03-19,260000,LL17 0SZ,S,N,F,103,,Bishops Walk,,St Asaph
+2025-03-13,205000,LL17 0PU,S,N,F,15,,Tan  Y   Bryn,,St Asaph
+2025-03-07,255000,LL17 0EQ,S,N,F,12,,Rhodfa Tegid,,St Asaph
+2025-03-05,200000,LL17 0UD,T,N,F,2,,Bro Dawel,Tremeirchion,St Asaph
+2025-02-21,155000,LL17 0PF,T,N,F,4,,Ffordd Newydd,,St Asaph
+2025-02-19,225000,LL17 0PG,D,N,F,27,,Ashly Court,,St Asaph
+2025-02-18,155000,LL17 0HL,T,N,F,River Cottage,,Cefn Meiriadog,,St Asaph
+2025-02-14,67500,LL17 0NP,T,N,F,44,,Llwyn Elwy,,St Asaph
+2025-02-14,349995,LL17 0FF,D,Y,F,19,,Rhodfa Cae Llwybr,,St Asaph
+2025-02-13,377995,LL17 0FN,D,Y,F,2,,Llwyn Dinas Fechan,,St Asaph
+2025-02-06,230000,LL17 0PG,D,N,F,20,,Ashly Court,,St Asaph
+2025-02-06,105000,LL17 0NF,T,N,F,3,,Caradoc Terrace,,St Asaph
+2025-01-31,500000,LL17 0HX,D,N,F,"Ash Lodge, 5",,Hen Waliau,,St Asaph
+2025-01-31,346995,LL17 0FN,D,N,F,4,,Llwyn Dinas Fechan,,St Asaph
+2025-01-24,428000,LL17 0HX,D,N,F,"The Rowans, 4",,Hen Waliau,,St Asaph
+2025-01-09,599000,LL17 0UB,D,N,F,"Ty Hedd, 7",,Heol Y Brenin,Tremeirchion,St Asaph
+2024-12-20,217995,LL17 0FN,S,N,F,14,,Llwyn Dinas Fechan,,St Asaph
+2024-12-18,251500,LL17 0SP,D,N,F,Millstream Cottage,,Mill Street,,St Asaph
+2024-12-18,195995,LL17 0FN,S,Y,F,33,,Llwyn Dinas Fechan,,St Asaph
+2024-12-10,447995,LL17 0FF,D,Y,F,30,,Rhodfa Cae Llwybr,,St Asaph
+2024-12-05,324995,LL17 0FN,D,Y,F,6,,Llwyn Dinas Fechan,,St Asaph
+2024-12-02,217995,LL17 0FN,S,Y,F,35,,Llwyn Dinas Fechan,,St Asaph
+2024-11-29,195995,LL17 0FN,S,Y,F,31,,Llwyn Dinas Fechan,,St Asaph
+2024-11-29,454995,LL17 0FE,D,Y,F,18,,Rhodfa Ty Tyn,,St Asaph
+2024-11-28,194000,LL17 0RU,T,N,F,19,,Bryn Elwy,,St Asaph
+2024-11-28,790950,LL17 0EA,D,Y,F,6,,Llys Wylfa,,St Asaph
+2024-11-26,425000,LL17 0UN,D,N,F,Clwydfryn,,,Tremeirchion,St Asaph
+2024-11-22,193000,LL17 0RU,S,N,F,2,,Bryn Elwy,,St Asaph
+2024-11-08,373995,LL17 0FP,D,Y,F,39,,Rhodfa Cae Isa,,St Asaph
+2024-11-07,210000,LL17 0BN,D,N,F,18,,Nant Y Patrick,,St Asaph
+2024-11-01,346995,LL17 0FN,D,Y,F,1,,Llwyn Dinas Fechan,,St Asaph
+2024-11-01,220500,LL17 0DJ,D,N,F,5,,Llys Trewithan,,St Asaph
+2024-10-31,346995,LL17 0FP,D,Y,F,37,,Rhodfa Cae Isa,,St Asaph
+2024-10-31,244995,LL17 0FP,S,Y,F,25,,Rhodfa Cae Isa,,St Asaph
+2024-10-31,285995,LL17 0FP,D,Y,F,23,,Rhodfa Cae Isa,,St Asaph
+2024-10-31,377995,LL17 0FF,D,Y,F,27,,Rhodfa Cae Llwybr,,St Asaph
+2024-10-30,790950,LL17 0EA,D,Y,F,11,,Llys Wylfa,,St Asaph
+2024-10-24,370000,LL17 0YR,S,N,F,4,,Rhodfa Clwyd,,St Asaph
+2024-10-23,250000,LL17 0LY,D,N,F,Gaerwen,,The Roe,,St Asaph
+2024-10-23,249995,LL17 0FP,S,Y,F,27,,Rhodfa Cae Isa,,St Asaph
+2024-10-14,217995,LL17 0FP,S,N,F,3,,Rhodfa Cae Isa,,St Asaph
+2024-09-30,191995,LL17 0FP,S,Y,F,35,,Rhodfa Cae Isa,,St Asaph
+2024-09-30,193995,LL17 0FP,S,Y,F,33,,Rhodfa Cae Isa,,St Asaph
+2024-09-30,191995,LL17 0FP,S,Y,F,31,,Rhodfa Cae Isa,,St Asaph
+2024-09-30,191995,LL17 0FP,S,Y,F,29,,Rhodfa Cae Isa,,St Asaph
+2024-09-30,324995,LL17 0FN,D,Y,F,19,,Llwyn Dinas Fechan,,St Asaph
+2024-09-27,216995,LL17 0FP,S,N,F,5,,Rhodfa Cae Isa,,St Asaph
+2024-09-27,216995,LL17 0FN,S,Y,F,8,,Llwyn Dinas Fechan,,St Asaph
+2024-09-27,215995,LL17 0FN,S,Y,F,41,,Llwyn Dinas Fechan,,St Asaph
+2024-09-27,193995,LL17 0FN,S,Y,F,12,,Llwyn Dinas Fechan,,St Asaph
+2024-09-26,215995,LL17 0FN,S,Y,F,39,,Llwyn Dinas Fechan,,St Asaph
+2024-09-26,230000,LL17 0FG,S,N,F,6,,Llys Hen Reilffordd,,St Asaph
+2024-09-25,373995,LL17 0FF,D,Y,F,17,,Rhodfa Cae Llwybr,,St Asaph
+2024-09-20,145000,LL17 0NU,T,N,F,22,,Bro Havard,,St Asaph
+2024-09-18,339995,LL17 0FF,D,Y,F,23,,Rhodfa Cae Llwybr,,St Asaph
+2024-09-17,187000,LL17 0EZ,F,N,L,5,,Ffordd Brenig,,St Asaph
+2024-09-16,309995,LL17 0FF,D,Y,F,21,,Rhodfa Cae Llwybr,,St Asaph
+2024-09-13,215995,LL17 0FN,S,Y,F,29,,Llwyn Dinas Fechan,,St Asaph
+2024-09-13,588000,LL17 0AN,D,N,F,Edge Heed,,,Waen,St Asaph
+2024-09-06,335000,LL17 0UN,S,N,F,1,,Tan Y Bryn Cottages,Tremeirchion,St Asaph
+2024-08-24,276995,LL17 0FF,D,Y,F,25,,Rhodfa Cae Llwybr,,St Asaph
+2024-08-23,552500,LL17 0LB,D,N,F,3,,Yew Tree Close,,St Asaph
+2024-08-23,214995,LL17 0FP,S,N,F,1,,Rhodfa Cae Isa,,St Asaph
+2024-08-21,749950,LL17 0EA,D,Y,F,12,,Llys Wylfa,,St Asaph
+2024-08-15,285995,LL17 0FN,D,N,F,15,,Llwyn Dinas Fechan,,St Asaph
+2024-08-15,560000,LL17 0DX,D,N,F,5,,Oak Close,,St Asaph
+2024-08-09,290000,LL17 0PG,D,N,F,37,,Ashly Court,,St Asaph
+2024-08-09,300000,LL17 0HL,D,N,F,Hen Dafarn,,,Cefn Meiriadog,St Asaph
+2024-08-09,285995,LL17 0FN,D,Y,F,21,,Llwyn Dinas Fechan,,St Asaph
+2024-08-07,370000,LL17 0UE,S,N,F,2,,Summerhill Court,Tremeirchion,St Asaph
+2024-08-07,415000,LL17 0DJ,D,N,F,7,,Llys Trewithan,,St Asaph
+2024-08-07,290000,LL17 0DD,S,N,F,Nythfa,,Mount Road,,St Asaph
+2024-08-02,260000,LL17 0SZ,D,N,F,46,,Bishops Walk,,St Asaph
+2024-08-02,495000,LL17 0RF,D,N,F,The Old Rectory,,High Street,,St Asaph
+2024-07-31,315995,LL17 0FN,D,Y,F,13,,Llwyn Dinas Fechan,,St Asaph
+2024-07-31,387995,LL17 0FE,D,Y,F,20,,Rhodfa Ty Tyn,,St Asaph
+2024-07-30,289995,LL17 0FE,D,Y,F,22,,Rhodfa Ty Tyn,,St Asaph
+2024-07-26,355000,LL17 0SE,D,N,F,Redhill Cottage,,Luke Street,,St Asaph
+2024-07-26,217000,LL17 0RY,T,N,F,The Old Bakehouse,,Gemig Street,,St Asaph
+2024-07-26,285995,LL17 0FN,D,Y,F,17,,Llwyn Dinas Fechan,,St Asaph
+2024-07-26,339669,LL17 0FF,D,Y,F,28,,Rhodfa Cae Llwybr,,St Asaph
+2024-07-26,260000,LL17 0DP,D,N,F,8,,Bryn Arthur,,St Asaph
+2024-07-22,345500,LL17 0BN,D,N,F,9,,Nant Y Patrick,,St Asaph
+2024-07-18,212995,LL17 0FP,S,N,F,7,,Rhodfa Cae Isa,,St Asaph
+2024-07-17,137000,LL17 0SL,T,N,F,6,,Elwy Terrace,,St Asaph
+2024-07-12,212995,LL17 0FN,S,N,F,11,,Llwyn Dinas Fechan,,St Asaph
+2024-07-11,212995,LL17 0FN,S,N,F,9,,Llwyn Dinas Fechan,,St Asaph
+2024-07-04,339995,LL17 0FF,D,Y,F,11,,Rhodfa Cae Llwybr,,St Asaph
+2024-06-28,189995,LL17 0FP,S,Y,F,8,,Rhodfa Cae Isa,,St Asaph
+2024-06-28,191995,LL17 0FP,S,Y,F,6,,Rhodfa Cae Isa,,St Asaph
+2024-06-28,212995,LL17 0FP,S,Y,F,4,,Rhodfa Cae Isa,,St Asaph
+2024-06-28,212995,LL17 0FP,S,Y,F,10,,Rhodfa Cae Isa,,St Asaph
+2024-06-28,309995,LL17 0FN,D,Y,F,3,,Llwyn Dinas Fechan,,St Asaph
+2024-06-28,252000,LL17 0FA,S,N,F,2,,Lon Y Gadeirlan,,St Asaph
+2024-06-27,108000,LL17 0NF,T,N,F,1,,Caradoc Terrace,,St Asaph
+2024-06-27,442995,LL17 0FG,D,Y,F,2,,Llys Hen Reilffordd,,St Asaph
+2024-06-21,122000,LL17 0SF,T,N,F,4,,Glanrafon Terrace,,St Asaph
+2024-06-21,279995,LL17 0FP,D,Y,F,2,,Rhodfa Cae Isa,,St Asaph
+2024-06-21,281995,LL17 0FN,D,Y,F,7,,Llwyn Dinas Fechan,,St Asaph
+2024-06-21,309995,LL17 0FN,D,Y,F,5,,Llwyn Dinas Fechan,,St Asaph
+2024-06-18,137000,LL17 0ES,T,N,F,3,,Ruby Terrace,,St Asaph
+2024-06-14,510000,LL17 0LH,S,N,F,The Cottage,,Glascoed Road,,St Asaph
+2024-06-14,250000,LL17 0DW,D,N,F,40,,Rhodfa Glenys,,St Asaph
+2024-06-13,210000,LL17 0AF,T,N,F,3,,Luke Street Mews,,St Asaph
+2024-06-04,230000,LL17 0LT,S,N,F,Plas Elwy Orchard,,The Roe,,St Asaph
+2024-06-04,312995,LL17 0FF,D,Y,F,9,,Rhodfa Cae Llwybr,,St Asaph
+2024-05-31,281995,LL17 0FF,D,Y,F,13,,Rhodfa Cae Llwybr,,St Asaph
+2024-05-21,279995,LL17 0FF,D,Y,F,18,,Rhodfa Cae Llwybr,,St Asaph
+2024-05-17,135000,LL17 0ND,T,N,F,3,,Merllyn Terrace,,St Asaph
+2024-05-03,206000,LL17 0RU,S,N,F,25,,Bryn Elwy,,St Asaph
+2024-05-03,200000,LL17 0PG,S,N,F,19,,Ashly Court,,St Asaph
+2024-04-30,350000,LL17 0SX,D,N,F,41,,Llys Dyffryn,,St Asaph
+2024-04-29,369995,LL17 0FJ,D,Y,F,5,,Rhodfa Cae Ucha,,St Asaph
+2024-04-26,442995,LL17 0FJ,D,Y,F,4,,Rhodfa Cae Ucha,,St Asaph
+2024-04-24,185000,LL17 0PG,D,N,F,29,,Ashly Court,,St Asaph
+2024-04-23,217500,LL17 0TA,S,N,F,11,,Dyffryn Teg,Rhuallt,St Asaph
+2024-04-12,279995,LL17 0FF,D,Y,F,32,,Rhodfa Cae Llwybr,,St Asaph
+2024-04-09,339995,LL17 0FF,D,Y,F,16,,Rhodfa Cae Llwybr,,St Asaph
+2024-04-05,78000,LL17 0BD,F,N,L,Llannerch Hall,Flat 4,Llannerch Park,,St Asaph
+2024-03-28,279995,LL17 0FF,D,Y,F,20,,Rhodfa Cae Llwybr,,St Asaph
+2024-03-28,279995,LL17 0FF,D,Y,F,15,,Rhodfa Cae Llwybr,,St Asaph
+2024-03-28,432995,LL17 0FF,D,Y,F,14,,Rhodfa Cae Llwybr,,St Asaph
+2024-03-28,190000,LL17 0DB,T,N,F,Mount Pleasant,,Mount Road,,St Asaph
+2024-03-27,150000,LL17 0AG,T,N,F,Bryn Gwyn,,Tai Cochion,Waen,St Asaph
+2024-03-22,155000,LL17 0SG,D,N,F,The Coach House,,Lower Street,,St Asaph
+2024-03-15,575000,LL17 0UB,D,N,F,"Ty Hedd, 7",,Heol Y Brenin,Tremeirchion,St Asaph
+2024-03-15,189995,LL17 0FF,S,Y,F,5,,Rhodfa Cae Llwybr,,St Asaph
+2024-03-15,189995,LL17 0FF,S,Y,F,3,,Rhodfa Cae Llwybr,,St Asaph
+2024-03-13,212995,LL17 0FF,S,Y,F,7,,Rhodfa Cae Llwybr,,St Asaph
+2024-03-13,209995,LL17 0FF,S,Y,F,1,,Rhodfa Cae Llwybr,,St Asaph
+2024-03-12,175000,LL17 0PU,S,N,F,44,,Tan  Y   Bryn,,St Asaph
+2024-03-12,307995,LL17 0FF,D,Y,F,22,,Rhodfa Cae Llwybr,,St Asaph
+2024-03-08,244995,LL17 0FF,S,Y,F,26,,Rhodfa Cae Llwybr,,St Asaph
+2024-03-08,244995,LL17 0FF,S,Y,F,24,,Rhodfa Cae Llwybr,,St Asaph
+2024-03-06,145000,LL17 0RH,T,N,F,12,,Cae Bryn,,St Asaph
+2024-03-01,200000,LL17 0SZ,D,N,F,77,,Bishops Walk,,St Asaph
+2024-02-29,432995,LL17 0FJ,D,Y,F,3,,Rhodfa Cae Ucha,,St Asaph
+2024-02-29,319995,LL17 0FE,D,Y,F,16,,Rhodfa Ty Tyn,,St Asaph
+2024-02-27,205000,LL17 0YR,D,N,F,3,,Rhodfa Clwyd,,St Asaph
+2024-02-23,385000,LL17 0DE,D,N,F,Woodridge,,Mount Road,,St Asaph
+2024-02-13,432995,LL17 0FJ,D,Y,F,2,,Rhodfa Cae Ucha,,St Asaph
+2024-02-13,336995,LL17 0FJ,D,Y,F,1,,Rhodfa Cae Ucha,,St Asaph
+2024-02-08,152500,LL17 0SE,S,N,F,Glan Aber,,Luke Street,,St Asaph
+2024-02-05,227500,LL17 0PX,T,N,F,5,,Cae Winefride,,St Asaph
+2024-02-05,330000,LL17 0EZ,S,N,F,39,,Ffordd Brenig,,St Asaph
+2024-02-02,255000,LL17 0NE,D,N,F,6,,Deans Walk,,St Asaph
+2024-01-12,274995,LL17 0FF,D,Y,F,10,,Rhodfa Cae Llwybr,,St Asaph
+2024-01-12,160000,LL17 0BU,T,N,F,"Hafan, 1",,Bronwylfa Square,,St Asaph
+2023-12-20,307995,LL17 0FF,D,Y,F,8,,Rhodfa Cae Llwybr,,St Asaph
+2023-12-20,274995,LL17 0FF,D,Y,F,12,,Rhodfa Cae Llwybr,,St Asaph
+2023-12-18,85000,LL17 0EP,D,N,F,Laundry Cottage,,Lower Denbigh Road,,St Asaph
+2023-12-15,244995,LL17 0FF,S,Y,F,4,,Rhodfa Cae Llwybr,,St Asaph
+2023-12-13,242995,LL17 0FF,S,Y,F,6,,Rhodfa Cae Llwybr,,St Asaph
+2023-12-11,225000,LL17 0BJ,D,N,F,3,,Clwydian Park Crescent,,St Asaph
+2023-11-24,210000,LL17 0PH,S,N,F,69,,Ashly Court,,St Asaph
+2023-11-21,185000,LL17 0RY,F,N,L,Y Capel,Flat 4,Gemig Street,,St Asaph
+2023-11-17,224000,LL17 0PX,S,N,F,7,,Cae Winefride,,St Asaph
+2023-11-14,429995,LL17 0FG,D,Y,F,15,,Llys Hen Reilffordd,,St Asaph
+2023-11-14,495950,LL17 0EA,D,Y,F,4,,Llys Wylfa,,St Asaph
+2023-11-10,424995,LL17 0FG,D,Y,F,17,,Llys Hen Reilffordd,,St Asaph
+2023-10-25,420000,LL17 0LZ,D,N,F,5,,Erw Lan,,St Asaph
+2023-10-20,285000,LL17 0PG,D,N,F,12,,Ashly Court,,St Asaph
+2023-10-20,167500,LL17 0NS,T,N,F,29,,Bro Havard,,St Asaph
+2023-10-20,260000,LL17 0LD,D,N,F,58,,Roe Parc,,St Asaph
+2023-10-16,145000,LL17 0RH,T,N,F,8,,Cae Bryn,,St Asaph
+2023-10-16,155000,LL17 0ES,T,N,F,5,,Ruby Terrace,,St Asaph
+2023-10-13,424995,LL17 0FG,D,Y,F,14,,Llys Hen Reilffordd,,St Asaph
+2023-10-09,216000,LL17 0PG,D,N,F,24,,Ashly Court,,St Asaph
+2023-10-04,201995,LL17 0FH,S,Y,F,5,,Lon Trem Y Bryniau,,St Asaph
+2023-10-02,190000,LL17 0PU,S,N,F,38,,Tan  Y   Bryn,,St Asaph
+2023-10-02,335000,LL17 0LY,D,N,F,Pine Lodge,,The Roe,,St Asaph
+2023-10-02,361995,LL17 0FG,D,Y,F,9,,Llys Hen Reilffordd,,St Asaph
+2023-09-29,201995,LL17 0FH,S,Y,F,4,,Lon Trem Y Bryniau,,St Asaph
+2023-09-29,201995,LL17 0FH,S,Y,F,3,,Lon Trem Y Bryniau,,St Asaph
+2023-09-29,201995,LL17 0FH,S,Y,F,2,,Lon Trem Y Bryniau,,St Asaph
+2023-09-29,249995,LL17 0FG,D,Y,F,13,,Llys Hen Reilffordd,,St Asaph
+2023-09-29,266995,LL17 0FG,D,Y,F,11,,Llys Hen Reilffordd,,St Asaph
+2023-09-28,183995,LL17 0FG,S,Y,F,7,,Llys Hen Reilffordd,,St Asaph
+2023-09-28,183995,LL17 0FG,S,Y,F,5,,Llys Hen Reilffordd,,St Asaph
+2023-09-28,183995,LL17 0FG,S,Y,F,3,,Llys Hen Reilffordd,,St Asaph
+2023-09-26,183995,LL17 0FG,D,Y,F,1,,Llys Hen Reilffordd,,St Asaph
+2023-09-22,243500,LL17 0PG,D,N,F,50,,Ashly Court,,St Asaph
+2023-09-01,185000,LL17 0SJ,S,N,F,4,,Llys Alun,,St Asaph
+2023-09-01,320000,LL17 0DN,S,N,F,Dolwen,,Bryn Gobaith,,St Asaph
+2023-08-18,181995,LL17 0FG,S,Y,F,8,,Llys Hen Reilffordd,,St Asaph
+2023-08-18,201995,LL17 0FG,S,Y,F,6,,Llys Hen Reilffordd,,St Asaph
+2023-08-16,374995,LL17 0FD,D,Y,F,2,,Maes Y Rhufeiniaid,,St Asaph
+2023-08-15,201995,LL17 0FG,S,Y,F,12,,Llys Hen Reilffordd,,St Asaph
+2023-08-15,180000,LL17 0ED,D,N,F,Spring Cottage,,Lower Denbigh Road,,St Asaph
+2023-08-11,424995,LL17 0FG,D,Y,F,16,,Llys Hen Reilffordd,,St Asaph
+2023-08-11,181995,LL17 0FG,S,Y,F,10,,Llys Hen Reilffordd,,St Asaph
+2023-08-11,374995,LL17 0FE,D,Y,F,4,,Rhodfa Ty Tyn,,St Asaph
+2023-08-11,296000,LL17 0BE,S,N,F,2,,Llannerch Crossing,,St Asaph
+2023-08-11,375000,LL17 0AJ,D,N,F,10,,Llys Idris,,St Asaph
+2023-08-04,295000,LL17 0UN,D,N,F,Sylwfan,,,Tremeirchion,St Asaph
+2023-08-04,412500,LL17 0SX,D,N,F,30,,Llys Dyffryn,,St Asaph
+2023-08-03,449950,LL17 0EA,D,Y,F,14,,Llys Wylfa,,St Asaph
+2023-07-31,264995,LL17 0FG,D,Y,F,4,,Llys Hen Reilffordd,,St Asaph
+2023-07-31,234995,LL17 0FD,S,Y,F,3,,Maes Y Rhufeiniaid,,St Asaph
+2023-07-28,135000,LL17 0RW,D,N,F,Garth Cottage,,Upper Denbigh Road,,St Asaph
+2023-07-28,249995,LL17 0FG,D,Y,F,18,,Llys Hen Reilffordd,,St Asaph
+2023-07-28,193500,LL17 0AF,T,N,F,2,,Luke Street Mews,,St Asaph
+2023-07-26,361995,LL17 0FE,D,Y,F,8,,Rhodfa Ty Tyn,,St Asaph
+2023-07-25,375000,LL17 0SX,D,N,F,34,,Llys Dyffryn,,St Asaph
+2023-07-24,220000,LL17 0PH,D,N,F,93,,Ashly Court,,St Asaph
+2023-07-21,249995,LL17 0FE,D,Y,F,3,,Rhodfa Ty Tyn,,St Asaph
+2023-07-21,299995,LL17 0FB,D,Y,F,1,,Rhodfa'R Gydlifiad,,St Asaph
+2023-07-21,455000,LL17 0AJ,D,N,F,14,,Llys Idris,,St Asaph
+2023-07-20,185000,LL17 0PU,S,N,F,46,,Tan  Y   Bryn,,St Asaph
+2023-07-14,165000,LL17 0BU,T,N,F,5,,Bronwylfa Square,,St Asaph
+2023-07-13,329995,LL17 0FE,D,Y,F,14,,Rhodfa Ty Tyn,,St Asaph
+2023-07-12,550000,LL17 0UN,D,N,F,The Old Smithy,,,Tremeirchion,St Asaph
+2023-07-03,264000,LL17 0PJ,D,N,F,6,,Lon Y Parc,,St Asaph
+2023-06-29,126000,LL17 0BD,S,N,F,Kilner Cottage,,Llannerch Park,,St Asaph
+2023-06-22,295000,LL17 0AG,D,N,F,Felin Wynt,,Tai Cochion,Waen,St Asaph
+2023-06-12,950000,LL17 0DF,D,N,F,Arsyllfa,,Mount Road,,St Asaph
+2023-06-09,300000,LL17 0UE,D,N,F,Beeches,,,Tremeirchion,St Asaph
+2023-06-02,130000,LL17 0PN,S,N,F,Elwy Cottages,1,Heol Esgob,,St Asaph
+2023-06-02,140000,LL17 0BP,S,N,F,Bryn Elwy,,Allt Goch,,St Asaph
+2023-05-31,180000,LL17 0UE,D,N,F,Ty Capel,,,Tremeirchion,St Asaph
+2023-05-31,234995,LL17 0FA,S,Y,F,3,,Lon Y Gadeirlan,,St Asaph
+2023-05-25,298000,LL17 0AJ,D,N,F,5,,Llys Idris,,St Asaph
+2023-05-16,424995,LL17 0FD,D,Y,F,5,,Maes Y Rhufeiniaid,,St Asaph
+2023-05-15,264995,LL17 0FE,D,Y,F,2,,Rhodfa Ty Tyn,,St Asaph
+2023-05-04,249995,LL17 0FE,D,Y,F,12,,Rhodfa Ty Tyn,,St Asaph
+2023-04-28,152500,LL17 0BU,T,N,F,7,,Bronwylfa Square,,St Asaph
+2023-04-26,137000,LL17 0SA,T,N,F,6,,May Terrace,,St Asaph
+2023-04-03,360000,LL17 0EZ,S,N,F,41,,Ffordd Brenig,,St Asaph
+2023-04-03,260000,LL17 0BG,D,N,F,Weycote,,Upper Denbigh Road,,St Asaph
+2023-03-31,140000,LL17 0PG,D,N,F,6,,Ashly Court,,St Asaph
+2023-03-31,182000,LL17 0PG,D,N,F,53,,Ashly Court,,St Asaph
+2023-03-31,109000,LL17 0NA,T,N,F,Woodlands House,,The Roe,,St Asaph
+2023-03-31,264995,LL17 0FE,D,Y,F,6,,Rhodfa Ty Tyn,,St Asaph
+2023-03-31,179995,LL17 0FA,S,Y,F,4,,Lon Y Gadeirlan,,St Asaph
+2023-03-31,234995,LL17 0FA,S,Y,F,2,,Lon Y Gadeirlan,,St Asaph
+2023-03-31,275000,LL17 0BJ,D,N,F,23,,Clwydian Park Crescent,,St Asaph
+2023-03-31,260000,LL17 0BJ,S,N,F,19,,Clwydian Park Crescent,,St Asaph
+2023-03-30,329995,LL17 0FD,D,Y,F,6,,Maes Y Rhufeiniaid,,St Asaph
+2023-03-30,234995,LL17 0FD,S,Y,F,4,,Maes Y Rhufeiniaid,,St Asaph
+2023-03-30,329995,LL17 0FD,D,Y,F,1,,Maes Y Rhufeiniaid,,St Asaph
+2023-03-30,299995,LL17 0FA,D,Y,F,1,,Lon Y Gadeirlan,,St Asaph
+2023-03-30,370000,LL17 0AJ,D,N,F,12,,Llys Idris,,St Asaph
+2023-03-29,299995,LL17 0FE,D,Y,F,10,,Rhodfa Ty Tyn,,St Asaph
+2023-03-29,249995,LL17 0FE,D,Y,F,1,,Rhodfa Ty Tyn,,St Asaph
+2023-03-17,250000,LL17 0YP,D,N,F,4,,Rhodfa Gwilym,,St Asaph
+2023-03-01,198500,LL17 0PG,D,N,F,17,,Ashly Court,,St Asaph
+2023-02-24,280000,LL17 0YR,D,N,F,8,,Rhodfa Clwyd,,St Asaph
+2023-02-24,218000,LL17 0UR,S,N,F,Hafan Glyd,,,Tremeirchion,St Asaph
+2023-02-20,230000,LL17 0SZ,D,N,F,58,,Bishops Walk,,St Asaph
+2023-02-17,341000,LL17 0RX,S,Y,F,Trem Morgan,,Upper Denbigh Road,,St Asaph
+2023-02-14,250000,LL17 0AW,S,N,F,Oakhill,,Holywell Road,Rhuallt,St Asaph
+2023-02-13,280000,LL17 0UU,D,N,F,16,,Cae Shon,,St Asaph
+2023-02-10,475000,LL17 0DH,D,N,F,Arfryn,,Mount Road,,St Asaph
+2023-02-08,610000,LL17 0DH,D,N,F,Mount Hey,,Mount Road,,St Asaph
+2023-02-03,230000,LL17 0PX,T,N,F,10,,Cae Winefride,,St Asaph
+2023-01-31,225000,LL17 0PG,D,N,F,32,,Ashly Court,,St Asaph
+2023-01-31,700000,LL17 0EU,D,N,F,Greystones,,,Cefn,St Asaph
+2023-01-27,390000,LL17 0BG,D,N,F,Delfryn,,Upper Denbigh Road,,St Asaph
+2023-01-12,834000,LL17 0RW,D,N,F,Pendinas,,Upper Denbigh Road,,St Asaph
+2023-01-12,315000,LL17 0BJ,D,N,F,11,,Clwydian Park Crescent,,St Asaph
+2023-01-09,195000,LL17 0EQ,F,N,L,32,,Rhodfa Tegid,,St Asaph
+2023-01-06,162000,LL17 0RH,T,N,F,10,,Cae Bryn,,St Asaph
+2023-01-06,260000,LL17 0PX,T,N,F,6,,Cae Winefride,,St Asaph
+2022-12-16,200000,LL17 0DF,D,N,F,Mount Lodge,,Mount Road,,St Asaph
+2022-12-14,250000,LL17 0PT,S,N,F,3,,Ffordd Siarl,,St Asaph
+2022-12-09,330000,LL17 0UL,D,N,F,17B,,Llys Y Tywysog,Tremeirchion,St Asaph
+2022-12-09,355000,LL17 0DE,D,N,F,Abbeydale,,Mount Road,,St Asaph
+2022-12-09,355000,LL17 0AJ,D,N,F,19,,Llys Idris,,St Asaph
+2022-12-07,550000,LL17 0DE,S,N,F,Ynys,,Mount Road,,St Asaph
+2022-12-02,120000,LL17 0SL,T,N,F,4,,Elwy Terrace,,St Asaph
+2022-11-25,124000,LL17 0SF,T,N,F,8,,Glanrafon Terrace,,St Asaph
+2022-11-25,430000,LL17 0EP,D,N,F,Sguboriau,,Lower Denbigh Road,,St Asaph
+2022-11-25,198000,LL17 0AJ,D,N,F,3,,Llys Idris,,St Asaph
+2022-11-18,255000,LL17 0BJ,S,N,F,33,,Clwydian Park Crescent,,St Asaph
+2022-11-15,213000,LL17 0PP,D,N,F,149,,Heol Esgob,,St Asaph
+2022-11-03,260000,LL17 0PU,S,N,F,28,,Tan  Y   Bryn,,St Asaph
+2022-10-24,339950,LL17 0RX,S,Y,F,Fairview,,Upper Denbigh Road,,St Asaph
+2022-10-21,300000,LL17 0RU,S,N,F,1,,Bryn Elwy,,St Asaph
+2022-10-18,130000,LL17 0ND,T,N,F,3,,Merllyn Terrace,,St Asaph
+2022-10-14,215000,LL17 0SE,D,N,F,The Gables,,Luke Street,,St Asaph
+2022-10-14,540000,LL17 0DG,D,N,F,Oakcroft,,Mount Road,,St Asaph
+2022-10-11,179000,LL17 0PU,S,N,F,38,,Tan  Y   Bryn,,St Asaph
+2022-09-29,310000,LL17 0PS,D,N,F,1,,Keens Row,,St Asaph
+2022-09-21,155000,LL17 0DS,S,N,F,3,,Holywell Road,,St Asaph
+2022-09-16,265000,LL17 0UU,D,N,F,14,,Cae Shon,,St Asaph
+2022-09-15,280000,LL17 0LD,D,N,F,39,,Roe Parc,,St Asaph
+2022-09-09,215000,LL17 0SJ,S,N,F,5,,Llys Alun,,St Asaph
+2022-09-09,1300000,LL17 0DU,D,N,F,Tan-Yr-Onnen,,,Waen,St Asaph
+2022-09-08,240000,LL17 0PY,D,N,F,12,,Pant Glas,,St Asaph
+2022-09-02,422500,LL17 0DQ,D,N,F,17,,Bryn Coed,,St Asaph
+2022-09-02,370000,LL17 0BJ,D,N,F,21,,Clwydian Park Crescent,,St Asaph
+2022-08-26,140000,LL17 0PD,S,N,F,6,,Heol Clwyd,,St Asaph
+2022-08-26,270000,LL17 0LU,S,N,F,Eirianfa,,The Roe,,St Asaph
+2022-08-19,380000,LL17 0UL,D,N,F,19,,Llys Y Tywysog,Tremeirchion,St Asaph
+2022-08-15,385000,LL17 0BW,D,N,F,Llys Mererid,,Allt Goch,,St Asaph
+2022-08-05,600000,LL17 0DX,D,N,F,1,,Oak Close,,St Asaph
+2022-07-27,335995,LL17 0RX,S,Y,F,Nantclwyd,,Upper Denbigh Road,,St Asaph
+2022-07-27,235000,LL17 0PH,S,N,F,88,,Ashly Court,,St Asaph
+2022-07-26,357000,LL17 0SU,D,N,F,27,,Bishops Walk,,St Asaph
+2022-07-26,282500,LL17 0DD,S,N,F,Cerrig Rhos,,Mount Road,,St Asaph
+2022-07-25,370000,LL17 0DQ,D,N,F,23,,Bryn Coed,,St Asaph
+2022-07-08,195000,LL17 0SZ,D,N,F,101,,Bishops Walk,,St Asaph
+2022-07-08,380000,LL17 0SX,D,N,F,11,,Llys Dyffryn,,St Asaph
+2022-07-08,215000,LL17 0PL,D,N,F,59,,Ashly Court,,St Asaph
+2022-07-05,329995,LL17 0RX,S,Y,F,Crosswinds,,Upper Denbigh Road,,St Asaph
+2022-07-01,246000,LL17 0EZ,T,N,F,20,,Ffordd Brenig,,St Asaph
+2022-06-30,415000,LL17 0HX,D,N,F,"The Beeches, 2",,Hen Waliau,,St Asaph
+2022-06-21,180000,LL17 0SG,S,N,F,Hulmehurst,,Lower Street,,St Asaph
+2022-06-17,290000,LL17 0RR,S,N,F,Trewern,,Upper Denbigh Road,,St Asaph
+2022-06-07,146000,LL17 0RH,T,N,F,3,,Cae Bryn,,St Asaph
+2022-06-06,450000,LL17 0TR,D,N,F,The Smithy,,Holywell Road,Rhuallt,St Asaph
+2022-05-30,213000,LL17 0AF,T,N,F,3,,Luke Street Mews,,St Asaph
+2022-05-24,140000,LL17 0NU,T,N,F,8,,Bro Havard,,St Asaph
+2022-05-23,337000,LL17 0BN,D,N,F,16,,Nant Y Patrick,,St Asaph
+2022-05-20,160000,LL17 0PL,D,N,F,63,,Ashly Court,,St Asaph
+2022-05-13,110000,LL17 0SF,T,N,F,4,,Glanrafon Terrace,,St Asaph
+2022-05-13,169000,LL17 0NB,S,N,F,9,,Elwy Crescent,,St Asaph
+2022-05-06,465000,LL17 0LH,S,N,F,The Cottage,,Glascoed Road,,St Asaph
+2022-05-04,210000,LL17 0BL,D,N,F,2,,Clwydian Avenue,,St Asaph
+2022-04-22,118000,LL17 0AG,T,N,F,Glan-Y-Wern,,Tai Cochion,Waen,St Asaph
+2022-04-11,168000,LL17 0SJ,S,N,F,2,,Llys Alun,,St Asaph
+2022-04-08,197500,LL17 0SZ,D,N,F,91,,Bishops Walk,,St Asaph
+2022-04-08,340000,LL17 0DQ,D,N,F,8,,Bryn Coed,,St Asaph
+2022-04-08,300000,LL17 0AJ,D,N,F,15,,Llys Idris,,St Asaph
+2022-04-01,395000,LL17 0TD,D,N,F,Tan Y Bryn,,Holywell Road,Rhuallt,St Asaph
+2022-03-31,253250,LL17 0PX,T,N,F,6,,Cae Winefride,,St Asaph
+2022-03-28,487500,LL17 0RW,D,N,F,Swn-Y-Gwynt,,Upper Denbigh Road,,St Asaph
+2022-03-18,401500,LL17 0SX,D,N,F,19,,Llys Dyffryn,,St Asaph
+2022-03-18,166500,LL17 0ES,T,N,F,2,,Ruby Terrace,,St Asaph
+2022-03-16,297500,LL17 0PY,D,N,F,2A,,Pant Glas,,St Asaph
+2022-03-11,165000,LL17 0EZ,F,N,L,3,,Ffordd Brenig,,St Asaph
+2022-03-07,195000,LL17 0PG,D,N,F,24,,Ashly Court,,St Asaph
+2022-03-04,169500,LL17 0PL,D,N,F,56,,Ashly Court,,St Asaph
+2022-03-04,200000,LL17 0PG,D,N,F,27,,Ashly Court,,St Asaph
+2022-02-25,282000,LL17 0SE,D,N,F,Ael Y Bryn,,Luke Street,,St Asaph
+2022-02-18,260000,LL17 0LG,D,N,F,Carreg Wen,,Glascoed Road,,St Asaph
+2022-02-18,247000,LL17 0AJ,D,N,F,7,,Llys Idris,,St Asaph
+2022-02-11,274000,LL17 0PJ,D,N,F,10,,Lon Y Parc,,St Asaph
+2022-02-01,250000,LL17 0BX,D,N,F,7,,Clwydian Park View,,St Asaph
+2022-01-28,248000,LL17 0PX,T,N,F,11,,Cae Winefride,,St Asaph
+2022-01-28,205000,LL17 0PL,S,N,F,61,,Ashly Court,,St Asaph
+2022-01-28,480000,LL17 0LZ,D,N,F,1,,Erw Lan,,St Asaph
+2022-01-28,269950,LL17 0EQ,T,Y,F,15,,Rhodfa Tegid,,St Asaph
+2022-01-28,385000,LL17 0BG,D,N,F,The Views,,Upper Denbigh Road,,St Asaph
+2022-01-24,240000,LL17 0LD,D,N,F,53,,Roe Parc,,St Asaph
+2022-01-24,295000,LL17 0DW,D,N,F,24,,Rhodfa Glenys,,St Asaph
+2022-01-20,120000,LL17 0NF,T,N,F,2,,Caradoc Terrace,,St Asaph
+2022-01-14,270000,LL17 0EQ,T,Y,F,19,,Rhodfa Tegid,,St Asaph
+2022-01-12,100000,LL17 0BD,F,N,L,Llannerch Hall,Flat 12,Llannerch Park,,St Asaph
+2021-12-14,379000,LL17 0SX,D,N,F,10,,Llys Dyffryn,,St Asaph
+2021-12-14,330000,LL17 0RR,D,N,F,Dyffryn Awel,,Upper Denbigh Road,,St Asaph
+2021-12-09,360000,LL17 0BX,D,N,F,5,,Clwydian Park View,,St Asaph
+2021-12-09,280000,LL17 0BG,D,N,F,Windrush,,Upper Denbigh Road,,St Asaph
+2021-11-26,180000,LL17 0PG,D,N,F,32A,,Ashly Court,,St Asaph
+2021-11-19,442500,LL17 0DH,D,N,F,Bryn Clwyd,,Mount Road,,St Asaph
+2021-11-18,119950,LL17 0SR,T,N,F,1,,Silverdale Terrace,,St Asaph
+2021-11-18,239000,LL17 0PW,D,N,F,97,,Heol Esgob,,St Asaph
+2021-11-09,775000,LL17 0ET,D,N,F,Gardeners Cottage,,Wigfair,,St Asaph
+2021-11-05,510000,LL17 0EX,D,Y,F,3,,Heol Celyn,,St Asaph
+2021-11-04,232500,LL17 0PX,T,N,F,9,,Cae Winefride,,St Asaph
+2021-10-25,245000,LL17 0SB,D,N,F,Bryn Cottage,,Hillside,,St Asaph
+2021-10-25,155000,LL17 0PB,S,N,F,5,,Heol Clwyd,,St Asaph
+2021-10-22,640000,LL17 0AW,D,N,F,Hillside,,Holywell Road,Rhuallt,St Asaph
+2021-10-21,295950,LL17 0EN,D,N,F,Cwrt Wigfair,1,Lower Denbigh Road,,St Asaph
+2021-10-17,250000,LL17 0LD,D,N,F,16,,Roe Parc,,St Asaph
+2021-10-14,450000,LL17 0RR,D,N,F,Old Meadows,,Upper Denbigh Road,,St Asaph
+2021-10-13,153000,LL17 0PH,D,N,F,76,,Ashly Court,,St Asaph
+2021-10-08,385000,LL17 0UL,D,N,F,17,,Llys Y Tywysog,Tremeirchion,St Asaph
+2021-10-08,172000,LL17 0TA,S,N,F,29,,Dyffryn Teg,Rhuallt,St Asaph
+2021-10-08,220000,LL17 0PX,S,N,F,8,,Cae Winefride,,St Asaph
+2021-10-01,274950,LL17 0EQ,T,Y,F,18,,Rhodfa Tegid,,St Asaph
+2021-10-01,185000,LL17 0DL,S,N,F,6,,Cathedral Walk,,St Asaph
+2021-09-30,335000,LL17 0DP,D,N,F,6,,Bryn Arthur,,St Asaph
+2021-09-28,620000,LL17 0TP,D,N,F,The Coach House,,,Rhuallt,St Asaph
+2021-09-27,230000,LL17 0PJ,D,N,F,6,,Lon Y Parc,,St Asaph
+2021-09-24,267000,LL17 0PT,D,N,F,14,,Ffordd Siarl,,St Asaph
+2021-09-24,410000,LL17 0HX,D,N,F,1,,Hen Waliau,,St Asaph
+2021-09-23,1195000,LL17 0AL,D,N,F,Plas-Yn-Cwm,,,Rhuallt,St Asaph
+2021-09-21,565000,LL17 0AW,D,N,F,The Orchard,,Holywell Road,Rhuallt,St Asaph
+2021-09-20,298000,LL17 0BW,D,N,F,Manora,,Allt Goch,,St Asaph
+2021-09-15,260000,LL17 0BJ,S,N,F,17,,Clwydian Park Crescent,,St Asaph
+2021-09-14,220000,LL17 0PT,D,N,F,7,,Ffordd Siarl,,St Asaph
+2021-09-10,140000,LL17 0NP,S,N,F,26,,Llwyn Elwy,,St Asaph
+2021-09-10,320000,LL17 0LF,D,N,F,Cwttir,,Cwttir Lane,,St Asaph
+2021-09-10,269950,LL17 0EZ,T,Y,F,29,,Ffordd Brenig,,St Asaph
+2021-09-06,237500,LL17 0BT,D,N,F,Bryn Awelon,,Henllan Road,,St Asaph
+2021-09-03,220000,LL17 0LD,D,N,F,3,,Roe Parc,,St Asaph
+2021-08-26,554950,LL17 0EX,D,Y,F,8,,Heol Celyn,,St Asaph
+2021-08-24,115000,LL17 0SL,T,N,F,6,,Elwy Terrace,,St Asaph
+2021-08-20,232500,LL17 0RW,D,N,F,Bryn Clwyd,,Upper Denbigh Road,,St Asaph
+2021-08-20,170000,LL17 0PG,D,N,F,26,,Ashly Court,,St Asaph
+2021-08-20,153000,LL17 0LU,S,N,F,Walnut Tree Cottage,,The Roe,,St Asaph
+2021-08-20,260000,LL17 0BQ,S,N,F,10,,Clwydian Park Avenue,,St Asaph
+2021-08-18,424000,LL17 0UB,D,N,F,13A,,Heol Y Brenin,Tremeirchion,St Asaph
+2021-08-12,500000,LL17 0TG,D,N,F,Pen Y Mynydd,,,Rhuallt,St Asaph
+2021-08-12,195000,LL17 0EQ,F,N,L,28,,Rhodfa Tegid,,St Asaph
+2021-08-12,370000,LL17 0DF,S,N,F,Brynhyfryd,,Mount Road,,St Asaph
+2021-08-10,500000,LL17 0TE,D,N,F,Dol Hyfryd,,,Rhuallt,St Asaph
+2021-08-06,326500,LL17 0LF,D,N,F,Coed Seler,,Cwttir Lane,,St Asaph
+2021-07-28,165000,LL17 0PY,S,N,F,1,,Pant Glas,,St Asaph
+2021-07-27,128000,LL17 0PB,F,N,F,11,,Heol Clwyd,,St Asaph
+2021-07-23,326000,LL17 0UL,D,N,F,18,,Llys Y Tywysog,Tremeirchion,St Asaph
+2021-07-23,170000,LL17 0BP,D,N,F,Cil Gwyn,,Allt Goch,,St Asaph
+2021-07-14,193000,LL17 0EN,T,N,F,Cwrt Wigfair,4,Lower Denbigh Road,,St Asaph
+2021-07-09,240000,LL17 0UD,T,N,F,1,,Bro Dawel,Tremeirchion,St Asaph
+2021-07-08,554950,LL17 0EX,D,N,F,2,,Heol Celyn,,St Asaph
+2021-06-29,275000,LL17 0SU,D,N,F,29,,Bishops Walk,,St Asaph
+2021-06-29,137000,LL17 0NW,S,N,F,35,,Llwyn Elwy,,St Asaph
+2021-06-29,440000,LL17 0EP,D,N,F,Pen Ucha Roe Bach,,Lower Denbigh Road,,St Asaph
+2021-06-25,394000,LL17 0EZ,D,N,F,45,,Ffordd Brenig,,St Asaph
+2021-06-25,222500,LL17 0EZ,T,N,F,22,,Ffordd Brenig,,St Asaph
+2021-06-25,525950,LL17 0EX,D,Y,F,5,,Heol Celyn,,St Asaph
+2021-06-25,269950,LL17 0EQ,T,Y,F,16,,Rhodfa Tegid,,St Asaph
+2021-06-25,270000,LL17 0BU,D,N,F,The Old Exchange,,Bronwylfa Square,,St Asaph
+2021-06-24,285000,LL17 0AU,S,N,F,Dedwyddfa,,,Tremeirchion,St Asaph
+2021-06-22,310000,LL17 0TE,D,N,F,Burwen,,,Rhuallt,St Asaph
+2021-06-21,155000,LL17 0PU,S,N,F,40,,Tan  Y   Bryn,,St Asaph
+2021-06-04,175000,LL17 0BJ,D,N,F,43,,Clwydian Park Crescent,,St Asaph
+2021-06-01,410000,LL17 0DF,D,N,F,Red Hill,Pen Y Garth,Mount Road,,St Asaph
+2021-05-28,162000,LL17 0SQ,S,N,F,4A,,Llwyn Onn,,St Asaph
+2021-05-28,141000,LL17 0NN,S,N,F,8,,Llwyn Elwy,,St Asaph
+2021-05-28,218000,LL17 0EZ,T,N,F,2,,Ffordd Brenig,,St Asaph
+2021-05-26,575950,LL17 0EX,D,Y,F,1,,Heol Celyn,,St Asaph
+2021-05-21,265000,LL17 0BJ,D,N,F,14,,Clwydian Park Crescent,,St Asaph
+2021-05-18,148000,LL17 0PU,S,N,F,38,,Tan  Y   Bryn,,St Asaph
+2021-05-18,330000,LL17 0BP,D,N,F,The Brambles,,Allt Goch,,St Asaph
+2021-05-17,180000,LL17 0EZ,F,N,L,5,,Ffordd Brenig,,St Asaph
+2021-05-14,152000,LL17 0SQ,S,N,F,2,,Llwyn Onn,,St Asaph
+2021-05-12,280950,LL17 0EQ,T,Y,F,13,,Rhodfa Tegid,,St Asaph
+2021-05-10,117000,LL17 0BD,F,N,L,Llannerch Hall,Flat 3,Llannerch Park,,St Asaph
+2021-05-07,185000,LL17 0PY,D,N,F,2C,,Pant Glas,,St Asaph
+2021-05-07,158000,LL17 0DA,D,N,F,Berllan Bach,,Maes Derwen,,St Asaph
+2021-04-30,285000,LL17 0EZ,F,Y,L,27,,Ffordd Brenig,,St Asaph
+2021-04-30,169950,LL17 0ED,T,N,F,Bro Elwy,,Lower Denbigh Road,,St Asaph
+2021-04-28,135000,LL17 0PA,D,N,F,13,,Heol Afon,,St Asaph
+2021-04-23,250000,LL17 0BG,D,N,F,Davance,,Upper Denbigh Road,,St Asaph
+2021-04-22,95000,LL17 0NW,S,N,F,35,,Llwyn Elwy,,St Asaph
+2021-04-16,185000,LL17 0BN,D,N,F,3,,Nant Y Patrick,,St Asaph
+2021-04-09,315000,LL17 0DN,T,N,F,Mor Awel,,Bryn Gobaith,,St Asaph
+2021-04-01,133000,LL17 0RY,S,N,F,Clinton Villas,2,Gemig Street,,St Asaph
+2021-03-31,119950,LL17 0SR,T,N,F,3,,Silverdale Terrace,,St Asaph
+2021-03-30,450000,LL17 0AN,D,N,F,Primrose Cottage,,,Waen,St Asaph
+2021-03-26,530000,LL17 0HG,D,N,F,Cae Pwll,,,Cefn,St Asaph
+2021-03-26,106875,LL17 0ES,T,N,F,4,,Ruby Terrace,,St Asaph
+2021-03-25,250000,LL17 0PY,D,N,F,"Linderic, 2B",,Pant Glas,,St Asaph
+2021-03-25,400000,LL17 0AW,D,N,F,Pant Ifan Newydd,,Holywell Road,Rhuallt,St Asaph
+2021-03-18,575950,LL17 0EX,D,Y,F,6,,Heol Celyn,,St Asaph
+2021-03-18,260000,LL17 0BJ,D,N,F,20,,Clwydian Park Crescent,,St Asaph
+2021-03-15,570000,LL17 0EU,D,N,F,Rhos Aber,,,Cefn,St Asaph
+2021-03-05,260000,LL17 0TR,D,N,F,Coppins,,Holywell Road,Rhuallt,St Asaph
+2021-03-05,194000,LL17 0PW,S,N,F,Wenlo Cottage,,Heol Esgob,,St Asaph
+2021-03-05,489950,LL17 0EX,D,N,F,4,,Heol Celyn,,St Asaph
+2021-03-05,141000,LL17 0DS,S,N,F,3,,Holywell Road,,St Asaph
+2021-03-03,230000,LL17 0PG,D,N,F,1A,,Ashly Court,,St Asaph
+2021-02-26,250000,LL17 0PY,D,N,F,2A,,Pant Glas,,St Asaph
+2021-02-26,559950,LL17 0EX,D,Y,F,7,,Heol Celyn,,St Asaph
+2021-02-25,183500,LL17 0BN,D,N,F,Wenlock,,Nant Y Patrick,,St Asaph
+2021-02-19,242500,LL17 0SZ,D,N,F,75,,Bishops Walk,,St Asaph
+2021-02-19,135000,LL17 0RH,S,N,F,16,,Cae Bryn,,St Asaph
+2021-02-19,216000,LL17 0PJ,D,N,F,17,,Lon Y Parc,,St Asaph
+2021-02-19,152000,LL17 0BN,D,N,F,16,,Nant Y Patrick,,St Asaph
+2021-02-12,182000,LL17 0SU,D,N,F,19,,Bishops Walk,,St Asaph
+2021-02-12,126000,LL17 0BU,T,N,F,2,,Bronwylfa Square,,St Asaph
+2021-02-02,229000,LL17 0SZ,D,N,F,85,,Bishops Walk,,St Asaph
+2021-02-02,242500,LL17 0AJ,D,N,F,17,,Llys Idris,,St Asaph
+2021-02-01,260000,LL17 0BT,D,N,F,Coed Bedw,,Henllan Road,,St Asaph
+2021-01-29,410000,LL17 0AZ,D,N,F,5,,Llys Llannerch,,St Asaph
+2021-01-27,235000,LL17 0EQ,F,Y,L,21,,Rhodfa Tegid,,St Asaph
+2021-01-18,197000,LL17 0LD,D,N,F,56,,Roe Parc,,St Asaph
+2021-01-15,180000,LL17 0BN,D,N,F,21,,Nant Y Patrick,,St Asaph
+2021-01-14,140000,LL17 0SA,T,N,F,1,,May Terrace,,St Asaph
+2021-01-14,122000,LL17 0RT,S,N,F,6,,Fron Haul,,St Asaph
+2021-01-11,187500,LL17 0ET,T,N,F,Mill Cottage,3,Wigfair,,St Asaph
+2021-01-08,326000,LL17 0LD,D,N,F,29,,Roe Parc,,St Asaph

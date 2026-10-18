@@ -1,0 +1,858 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-14,270000,LN3 4DH,S,N,F,4,,The Green,Reepham,Lincoln
+2026-08-07,240000,LN3 4DB,D,N,F,1,,Westholm,Cherry Willingham,Lincoln
+2026-08-04,244950,LN3 5SR,D,N,F,30,,Hancock Drive,Bardney,Lincoln
+2026-07-31,180000,LN3 5SS,S,N,F,40,,Silver Street,Bardney,Lincoln
+2026-07-31,237500,LN3 4GW,T,N,F,65,,Cherry Paddocks,Cherry Willingham,Lincoln
+2026-07-22,138000,LN3 5XD,D,N,F,70,,Abbey Road,Bardney,Lincoln
+2026-07-17,355000,LN3 4JW,D,N,F,54,,Croft Lane,Cherry Willingham,Lincoln
+2026-07-17,240000,LN3 4AR,D,N,F,51,,Laburnum Drive,Cherry Willingham,Lincoln
+2026-07-08,163000,LN3 5XH,S,N,F,37,,Harvey Kent Gardens,Bardney,Lincoln
+2026-07-03,220000,LN3 5BH,D,N,F,10,,Scothern Lane,Langworth,Lincoln
+2026-07-02,340000,LN3 4GE,D,N,F,10,,Water Hill,Fiskerton,Lincoln
+2026-06-30,165000,LN3 5SR,S,N,F,46,,Hancock Drive,Bardney,Lincoln
+2026-06-25,190000,LN3 5AZ,S,N,F,3,,Saxon Way,Bardney,Lincoln
+2026-06-10,215000,LN3 5SR,D,N,F,6,,Hancock Drive,Bardney,Lincoln
+2026-06-05,92500,LN3 4GS,T,N,L,25,,Flinders Way,Cherry Willingham,Lincoln
+2026-05-28,330000,LN3 5AB,D,N,F,Tobermoray,,,Wickenby,Lincoln
+2026-05-22,320000,LN3 4GF,D,N,F,10,,Ash Holt Close,Fiskerton,Lincoln
+2026-05-18,170000,LN3 5XG,S,N,F,70,,Silver Street,Bardney,Lincoln
+2026-05-06,173000,LN3 4GW,S,N,F,20,,Cherry Paddocks,Cherry Willingham,Lincoln
+2026-05-01,153000,LN3 5SH,S,N,F,10,,Knowles Way,Bardney,Lincoln
+2026-04-29,250000,LN3 4FX,T,N,F,1,,Manor Yard Court,Fiskerton,Lincoln
+2026-04-24,176000,LN3 5XW,D,N,F,98,,Wragby Road,Bardney,Lincoln
+2026-04-17,188750,LN3 4FP,S,N,F,33,,Kingfisher Close,Cherry Willingham,Lincoln
+2026-04-16,575000,LN3 5XD,D,N,F,"Wynmallen, 88B",,Abbey Road,Bardney,Lincoln
+2026-04-16,210000,LN3 5SS,D,N,F,26,,Silver Street,Bardney,Lincoln
+2026-04-16,375000,LN3 4JD,D,N,F,5,,Bellwood Grange,Cherry Willingham,Lincoln
+2026-03-31,42000,LN3 5SL,T,N,L,10,,Crowder Close,Bardney,Lincoln
+2026-03-27,120000,LN3 5AE,D,N,F,Snowdon,,,Lissington,Lincoln
+2026-03-24,305000,LN3 4EB,D,N,F,6,,Fiskerton Road,Reepham,Lincoln
+2026-03-23,207000,LN3 5UA,T,N,F,"Jasmine Cottage, 12",,Station Road,Bardney,Lincoln
+2026-03-20,171000,LN3 4GW,T,N,F,7,,Cherry Paddocks,Cherry Willingham,Lincoln
+2026-03-17,488000,LN3 4DU,D,N,F,100,,Hawthorn Road,Reepham,Lincoln
+2026-03-12,373000,LN3 4AB,D,N,F,33,,Church Lane,Cherry Willingham,Lincoln
+2026-03-05,410000,LN3 5TA,D,N,F,The Chestnuts,,Ferry Road,Southrey,Lincoln
+2026-03-05,270000,LN3 4RB,D,N,F,12,,Heathcroft,Cherry Willingham,Lincoln
+2026-03-05,370000,LN3 4RB,D,N,F,11,,Heathcroft,Cherry Willingham,Lincoln
+2026-02-25,215000,LN3 5XE,D,N,F,3,,Wragby Road,Bardney,Lincoln
+2026-02-25,630000,LN3 5AB,D,N,F,Rosehaven,,,Wickenby,Lincoln
+2026-02-23,262500,LN3 5BB,D,N,F,Strathearn,,Station Road,Langworth,Lincoln
+2026-02-13,215000,LN3 4JS,D,N,F,17,,Hawthorn Avenue,Cherry Willingham,Lincoln
+2026-02-06,218000,LN3 5BZ,T,N,F,18,,The Meadows,Langworth,Lincoln
+2026-01-30,300000,LN3 5TH,D,N,F,Lowfields Bungalow,,Lowfields,Tupholme,Lincoln
+2026-01-30,86600,LN3 5SS,T,N,F,25,,Silver Street,Bardney,Lincoln
+2026-01-30,180000,LN3 4AS,S,N,F,42,,Laburnum Drive,Cherry Willingham,Lincoln
+2026-01-27,350000,LN3 4DY,D,N,F,14,,Kennel Lane,Reepham,Lincoln
+2026-01-23,173500,LN3 5XG,T,N,F,60,,Silver Street,Bardney,Lincoln
+2026-01-23,145000,LN3 5SB,S,N,F,5,,Thomas Kitching Way,Bardney,Lincoln
+2026-01-16,175000,LN3 4AT,S,N,F,35,,Laburnum Drive,Cherry Willingham,Lincoln
+2026-01-09,135000,LN3 5SS,S,N,F,43,,Silver Street,Bardney,Lincoln
+2026-01-09,163500,LN3 5BZ,T,N,F,8,,The Meadows,Langworth,Lincoln
+2026-01-09,185000,LN3 4HG,S,N,F,5,,The Close,Fiskerton,Lincoln
+2026-01-05,237000,LN3 4BH,D,N,F,5,,Holly Close,Cherry Willingham,Lincoln
+2025-12-19,200000,LN3 5XN,S,N,F,12,,Lea Grove,Bardney,Lincoln
+2025-12-12,245000,LN3 4BB,D,N,F,14,,Elm Avenue,Cherry Willingham,Lincoln
+2025-12-12,225000,LN3 4AU,D,N,F,1,,Elm Avenue,Cherry Willingham,Lincoln
+2025-12-11,240000,LN3 4LS,D,N,F,15,,St Matthews Close,Cherry Willingham,Lincoln
+2025-12-11,225000,LN3 4HW,D,N,F,52,,Ferry Road,Fiskerton,Lincoln
+2025-12-11,173000,LN3 4GW,T,N,F,64,,Cherry Paddocks,Cherry Willingham,Lincoln
+2025-12-10,170000,LN3 5SU,T,N,F,10,,Horncastle Road,Bardney,Lincoln
+2025-12-08,168000,LN3 4GT,S,N,F,19,,Wesley Road,Cherry Willingham,Lincoln
+2025-12-04,549998,LN3 4HT,D,N,F,Hall Farmhouse,,Hall Lane,Fiskerton,Lincoln
+2025-11-26,283000,LN3 4LD,D,N,F,82,,Jubilee Close,Cherry Willingham,Lincoln
+2025-11-26,225000,LN3 4AH,S,N,F,33,,High Street,Cherry Willingham,Lincoln
+2025-11-24,482500,LN3 4DP,D,N,F,19,,High Street,Reepham,Lincoln
+2025-11-24,385000,LN3 4AQ,D,N,F,14A,,High Street,Cherry Willingham,Lincoln
+2025-11-21,280000,LN3 5XF,D,N,F,25,,Queen Street,Bardney,Lincoln
+2025-11-21,260000,LN3 4AZ,D,N,F,11,,Larkin Avenue,Cherry Willingham,Lincoln
+2025-11-20,315000,LN3 4AQ,D,N,F,26,,High Street,Cherry Willingham,Lincoln
+2025-11-19,220000,LN3 4LH,D,N,F,104,,Minster Drive,Cherry Willingham,Lincoln
+2025-11-18,110000,LN3 4RH,F,N,L,60,,Allenby Close,,Lincoln
+2025-11-14,60000,LN3 5SS,T,N,F,10,,Silver Street,Bardney,Lincoln
+2025-11-14,297000,LN3 4AD,D,N,F,40,,Church Lane,Cherry Willingham,Lincoln
+2025-11-12,315000,LN3 4BG,D,N,F,23,,Fern Grove,Cherry Willingham,Lincoln
+2025-11-11,330000,LN3 4BW,D,N,F,84,,Lady Meers Road,Cherry Willingham,Lincoln
+2025-11-07,287500,LN3 5DN,D,N,F,22,,David Todd Way,Bardney,Lincoln
+2025-11-07,195000,LN3 4LX,D,N,F,25,,St Marks Avenue,Cherry Willingham,Lincoln
+2025-11-07,215000,LN3 4LW,D,N,F,3,,St Johns Avenue,Cherry Willingham,Lincoln
+2025-10-31,465000,LN3 5EH,D,N,F,1,,St Francis Green,Bardney,Lincoln
+2025-10-31,160000,LN3 5BZ,T,N,F,4,,The Meadows,Langworth,Lincoln
+2025-10-31,200000,LN3 5BD,S,N,F,3,,Providence Row,Langworth,Lincoln
+2025-10-31,510000,LN3 4BG,D,N,F,Back Acre,,Fern Grove,Cherry Willingham,Lincoln
+2025-10-21,335000,LN3 4RB,D,N,F,4,,Heathcroft,Cherry Willingham,Lincoln
+2025-10-20,655000,LN3 5AE,D,N,F,Mid Farm House,,,Lissington,Lincoln
+2025-10-17,225000,LN3 4AS,D,N,F,24,,Laburnum Drive,Cherry Willingham,Lincoln
+2025-10-03,205500,LN3 4GW,T,N,F,40,,Cherry Paddocks,Cherry Willingham,Lincoln
+2025-09-30,168500,LN3 5UD,D,N,F,84,,Station Road,Bardney,Lincoln
+2025-09-30,460000,LN3 4GA,D,N,F,18,,Manor Rise,Reepham,Lincoln
+2025-09-30,695000,LN3 4FU,D,N,F,6,,Walnut Tree Close,Reepham,Lincoln
+2025-09-30,250000,LN3 4FG,S,N,F,119,,Jubilee Close,Cherry Willingham,Lincoln
+2025-09-30,238950,LN3 4BZ,D,N,F,5,,East Mill Gate,Cherry Willingham,Lincoln
+2025-09-29,140000,LN3 5BT,S,N,F,1,,Norman Way,Bardney,Lincoln
+2025-09-29,250000,LN3 5AB,S,N,F,Willow House,,,Wickenby,Lincoln
+2025-09-29,240000,LN3 4LW,D,N,F,13,,St Johns Avenue,Cherry Willingham,Lincoln
+2025-09-29,202000,LN3 4JA,S,N,F,9,,Greenaway Court,Cherry Willingham,Lincoln
+2025-09-29,187000,LN3 4FP,S,N,F,19,,Kingfisher Close,Cherry Willingham,Lincoln
+2025-09-29,252000,LN3 4DN,D,N,F,25,,Station Road,Reepham,Lincoln
+2025-09-26,190000,LN3 5ST,S,N,F,8,,Manor Close,Bardney,Lincoln
+2025-09-26,340000,LN3 5SD,D,N,F,2,,St Lawrence Drive,Bardney,Lincoln
+2025-09-17,235000,LN3 4HS,D,N,F,13,,Ferryside Gardens,Fiskerton,Lincoln
+2025-09-10,445000,LN3 5AZ,D,Y,F,12,,Saxon Way,Bardney,Lincoln
+2025-09-10,200000,LN3 4AN,D,N,F,23,,Waterford Lane,Cherry Willingham,Lincoln
+2025-09-02,140000,LN3 5SR,T,N,F,50,,Hancock Drive,Bardney,Lincoln
+2025-08-29,293500,LN3 4GF,D,N,F,7,,Ash Holt Close,Fiskerton,Lincoln
+2025-08-29,230000,LN3 4FG,S,N,F,141,,Jubilee Close,Cherry Willingham,Lincoln
+2025-08-29,245000,LN3 4DH,D,N,F,9,,The Green,Reepham,Lincoln
+2025-08-22,250000,LN3 5XN,S,N,F,31,,Lea Grove,Bardney,Lincoln
+2025-08-22,403750,LN3 5UD,D,N,F,50,,Station Road,Bardney,Lincoln
+2025-08-22,499999,LN3 5TD,D,N,F,The Conifers,,Lowthorpe,Southrey,Lincoln
+2025-08-22,425000,LN3 5DN,D,N,F,43,,David Todd Way,Bardney,Lincoln
+2025-08-22,269000,LN3 4RE,D,N,F,10,,Rosedale Close,Cherry Willingham,Lincoln
+2025-08-22,237500,LN3 4FP,S,N,F,25,,Kingfisher Close,Cherry Willingham,Lincoln
+2025-08-21,306000,LN3 4AU,D,N,F,9,,Elm Avenue,Cherry Willingham,Lincoln
+2025-08-18,265000,LN3 5TE,D,N,F,Orchard View,,Westfield Road,Southrey,Lincoln
+2025-08-18,375000,LN3 5TA,D,N,F,Lizbeth House,,Ferry Road,Southrey,Lincoln
+2025-08-14,389000,LN3 4JS,D,N,F,10,,Hawthorn Avenue,Cherry Willingham,Lincoln
+2025-08-13,180000,LN3 4GW,T,N,F,61,,Cherry Paddocks,Cherry Willingham,Lincoln
+2025-08-13,275000,LN3 4EF,D,N,F,48,,Fiskerton Road,Reepham,Lincoln
+2025-08-08,327000,LN3 4DH,S,N,F,2,,The Green,Reepham,Lincoln
+2025-08-06,375000,LN3 4AB,D,N,F,11B,,Church Lane,Cherry Willingham,Lincoln
+2025-08-05,594000,LN3 5XD,D,N,F,75,,Abbey Road,Bardney,Lincoln
+2025-07-31,450000,LN3 5DF,D,N,F,The Lodge,,Barlings Lane,Langworth,Lincoln
+2025-07-30,175000,LN3 5SD,D,N,F,23,,St Lawrence Drive,Bardney,Lincoln
+2025-07-25,480000,LN3 5EH,D,N,F,2,,St Francis Green,Bardney,Lincoln
+2025-07-25,208000,LN3 4LA,D,N,F,15,,Fiskerton Road,Cherry Willingham,Lincoln
+2025-07-25,180000,LN3 4FP,S,N,F,42,,Kingfisher Close,Cherry Willingham,Lincoln
+2025-07-22,217500,LN3 5BX,D,N,F,1,,Lancaster Close,Bardney,Lincoln
+2025-07-22,180000,LN3 4NB,S,N,F,1,,St Hughs Close,Cherry Willingham,Lincoln
+2025-07-22,290000,LN3 4LY,D,N,F,12,,St Lukes Close,Cherry Willingham,Lincoln
+2025-07-22,488000,LN3 4AB,D,N,F,19A,,Church Lane,Cherry Willingham,Lincoln
+2025-07-17,247500,LN3 5AE,S,N,F,1,,Lissington Rise,Lissington,Lincoln
+2025-07-15,200000,LN3 4RJ,T,N,F,5,,Allenby Close,,Lincoln
+2025-07-11,195000,LN3 5XR,D,N,F,15,,Wragby Road,Bardney,Lincoln
+2025-07-11,116000,LN3 4RH,F,N,L,36,,Allenby Close,,Lincoln
+2025-07-11,395000,LN3 4JD,D,N,F,3,,Bellwood Grange,Cherry Willingham,Lincoln
+2025-07-08,200000,LN3 4HS,D,N,F,18,,Ferryside Gardens,Fiskerton,Lincoln
+2025-06-30,185000,LN3 5SR,S,N,F,25,,Hancock Drive,Bardney,Lincoln
+2025-06-27,250000,LN3 4JG,S,N,F,42,,Rudgard Avenue,Cherry Willingham,Lincoln
+2025-06-25,235000,LN3 4BJ,D,N,F,9,,Sycamore Close,Cherry Willingham,Lincoln
+2025-06-20,230000,LN3 4ER,D,N,F,Shetlands,,Nelson Road,Fiskerton,Lincoln
+2025-06-16,185000,LN3 5SS,S,N,F,42,,Silver Street,Bardney,Lincoln
+2025-06-13,325000,LN3 4LS,D,N,F,8,,St Matthews Close,Cherry Willingham,Lincoln
+2025-06-13,425000,LN3 4AF,D,N,F,8,,Becke Close,Cherry Willingham,Lincoln
+2025-06-11,225000,LN3 5AZ,D,Y,F,15,,Saxon Way,Bardney,Lincoln
+2025-06-11,163000,LN3 4HB,T,N,F,14,,High Meadows,Fiskerton,Lincoln
+2025-06-04,180000,LN3 4DT,D,N,F,6,,Mellows Close,Reepham,Lincoln
+2025-05-30,180000,LN3 4GW,S,N,F,36,,Cherry Paddocks,Cherry Willingham,Lincoln
+2025-05-27,180000,LN3 4GW,S,N,F,35,,Cherry Paddocks,Cherry Willingham,Lincoln
+2025-05-23,275000,LN3 4FW,D,N,F,6,,Bramble Court,Cherry Willingham,Lincoln
+2025-05-20,155000,LN3 4HD,D,N,F,Birch Grove,,Chapel Road,Fiskerton,Lincoln
+2025-05-15,178000,LN3 5UD,D,N,F,38,,Station Road,Bardney,Lincoln
+2025-05-15,175000,LN3 4BG,S,N,F,66A,,Fern Grove,Cherry Willingham,Lincoln
+2025-05-15,270000,LN3 4AS,D,N,F,38,,Laburnum Drive,Cherry Willingham,Lincoln
+2025-05-02,400000,LN3 5AE,D,N,F,Old Court,,,Lissington,Lincoln
+2025-05-01,147500,LN3 5SR,T,N,F,7,,Hancock Drive,Bardney,Lincoln
+2025-04-30,242500,LN3 5AZ,D,Y,F,11,,Saxon Way,Bardney,Lincoln
+2025-04-28,247500,LN3 4GW,T,N,F,55,,Cherry Paddocks,Cherry Willingham,Lincoln
+2025-04-25,270000,LN3 5DN,D,N,F,33,,David Todd Way,Bardney,Lincoln
+2025-04-24,200000,LN3 5BH,D,N,F,Chiltern,,Scothern Lane,Langworth,Lincoln
+2025-04-24,245000,LN3 4JZ,D,N,F,7,,Fiskerton Road,Cherry Willingham,Lincoln
+2025-04-23,202500,LN3 4GW,S,N,F,17,,Cherry Paddocks,Cherry Willingham,Lincoln
+2025-04-16,165000,LN3 4GT,T,N,F,34,,Wesley Road,Cherry Willingham,Lincoln
+2025-03-31,245000,LN3 5AZ,D,Y,F,9,,Saxon Way,Bardney,Lincoln
+2025-03-31,300000,LN3 5AZ,D,Y,F,38,,Saxon Way,Bardney,Lincoln
+2025-03-31,247000,LN3 5AE,S,N,F,2,,Lissington Rise,Lissington,Lincoln
+2025-03-31,610000,LN3 5AB,D,N,F,The Lodge,,,Wickenby,Lincoln
+2025-03-31,212500,LN3 4RA,S,N,F,9,,Milton Close,Cherry Willingham,Lincoln
+2025-03-31,280000,LN3 4DN,D,N,F,24,,Station Road,Reepham,Lincoln
+2025-03-31,280000,LN3 4AB,D,N,F,36,,Church Lane,Cherry Willingham,Lincoln
+2025-03-28,385000,LN3 4JS,D,N,F,52,,Hawthorn Avenue,Cherry Willingham,Lincoln
+2025-03-28,687000,LN3 4EF,D,N,F,58,,Fiskerton Road,Reepham,Lincoln
+2025-03-27,225000,LN3 4GT,S,N,F,26,,Wesley Road,Cherry Willingham,Lincoln
+2025-03-25,395000,LN3 5TA,D,N,F,Charon Gate,,Ferry Road,Southrey,Lincoln
+2025-03-25,90000,LN3 4GS,T,N,L,15,,Flinders Way,Cherry Willingham,Lincoln
+2025-03-24,250000,LN3 4DT,D,N,F,17,,Mellows Close,Reepham,Lincoln
+2025-03-21,252500,LN3 4LY,D,N,F,28,,St Lukes Close,Cherry Willingham,Lincoln
+2025-03-21,270000,LN3 4LR,D,N,F,21,,Minster Drive,Cherry Willingham,Lincoln
+2025-03-21,200000,LN3 4EF,D,N,F,38,,Fiskerton Road,Reepham,Lincoln
+2025-03-21,314000,LN3 4EF,D,N,F,31,,Fiskerton Road,Reepham,Lincoln
+2025-03-19,166000,LN3 5SD,T,N,F,11,,St Lawrence Drive,Bardney,Lincoln
+2025-03-14,189000,LN3 5XR,S,N,F,97,,Wragby Road,Bardney,Lincoln
+2025-03-14,294000,LN3 5TD,D,N,F,Rose Cottage,,Lowthorpe,Southrey,Lincoln
+2025-03-14,171000,LN3 4GW,T,N,F,70,,Cherry Paddocks,Cherry Willingham,Lincoln
+2025-03-13,167500,LN3 4AJ,D,N,F,14,,New Crescent,Cherry Willingham,Lincoln
+2025-03-07,400000,LN3 4NG,D,N,F,Greetwell Hall,,,Greetwell,Lincoln
+2025-03-07,168000,LN3 4FP,S,N,F,40,,Kingfisher Close,Cherry Willingham,Lincoln
+2025-03-06,480000,LN3 5EH,D,N,F,4,,St Francis Green,Bardney,Lincoln
+2025-03-06,185000,LN3 4FG,S,N,F,61,,Jubilee Close,Cherry Willingham,Lincoln
+2025-03-06,218000,LN3 4BG,D,N,F,78,,Fern Grove,Cherry Willingham,Lincoln
+2025-03-04,280000,LN3 5SR,D,N,F,40,,Hancock Drive,Bardney,Lincoln
+2025-03-03,220000,LN3 4HW,D,N,F,35,,Ferry Road,Fiskerton,Lincoln
+2025-02-28,140000,LN3 5BP,T,N,F,3,,Bakehouse Court,Langworth,Lincoln
+2025-02-28,295000,LN3 5AQ,S,N,F,Roadside Cottage,,,Buslingthorpe,Lincoln
+2025-02-28,279000,LN3 4GD,D,N,F,11,,Holmfield,Fiskerton,Lincoln
+2025-02-28,235000,LN3 4AT,D,N,F,23,,Laburnum Drive,Cherry Willingham,Lincoln
+2025-02-26,223000,LN3 4JG,S,N,F,74,,Rudgard Avenue,Cherry Willingham,Lincoln
+2025-02-21,185000,LN3 4HY,D,N,F,22,,Priory Drive,Fiskerton,Lincoln
+2025-02-14,255000,LN3 4BT,D,N,F,26,,Thornton Way,Cherry Willingham,Lincoln
+2025-02-07,300000,LN3 5TN,D,N,F,Scotgrove Farm,,Wragby Road,Bardney,Lincoln
+2025-02-07,263500,LN3 4AR,D,N,F,49,,Laburnum Drive,Cherry Willingham,Lincoln
+2025-02-06,200000,LN3 5XR,S,N,F,83,,Wragby Road,Bardney,Lincoln
+2025-01-31,182000,LN3 4HY,D,N,F,9,,Priory Drive,Fiskerton,Lincoln
+2025-01-24,257000,LN3 4PP,D,N,F,10,,Jessop Close,Cherry Willingham,Lincoln
+2025-01-24,197500,LN3 4GS,S,N,F,14,,Flinders Way,Cherry Willingham,Lincoln
+2025-01-22,172000,LN3 5TA,S,N,F,3,,Ferry Road,Southrey,Lincoln
+2025-01-10,260000,LN3 5BJ,D,N,F,5,,Main Road,Langworth,Lincoln
+2025-01-09,270000,LN3 4LR,D,N,F,41,,Minster Drive,Cherry Willingham,Lincoln
+2025-01-09,370000,LN3 4FW,D,N,F,3,,Bramble Court,Cherry Willingham,Lincoln
+2025-01-03,400000,LN3 5BB,D,N,F,Carr Vale,,Station Road,Langworth,Lincoln
+2025-01-03,245000,LN3 4LR,D,N,F,25,,Minster Drive,Cherry Willingham,Lincoln
+2025-01-03,268000,LN3 4AT,D,N,F,17,,Laburnum Drive,Cherry Willingham,Lincoln
+2025-01-02,421000,LN3 4HE,D,N,F,The Forge,,Blacksmith Road,Fiskerton,Lincoln
+2024-12-20,252500,LN3 5XS,D,N,F,14,,Laing Close,Bardney,Lincoln
+2024-12-20,199950,LN3 4HN,S,N,F,20,,St Clements Drive,Fiskerton,Lincoln
+2024-12-19,200000,LN3 4FX,T,Y,F,1,,Manor Yard Court,Fiskerton,Lincoln
+2024-12-18,230000,LN3 4EX,D,N,F,1,,The Green,Fiskerton,Lincoln
+2024-12-17,275000,LN3 4BT,D,N,F,5,,Thornton Way,Cherry Willingham,Lincoln
+2024-12-16,300000,LN3 5AZ,D,Y,F,40,,Saxon Way,Bardney,Lincoln
+2024-12-06,240000,LN3 4AR,S,N,F,60,,Laburnum Drive,Cherry Willingham,Lincoln
+2024-12-05,235000,LN3 4LY,D,N,F,1,,St Lukes Close,Cherry Willingham,Lincoln
+2024-12-05,193000,LN3 4FG,S,N,F,109,,Jubilee Close,Cherry Willingham,Lincoln
+2024-12-04,217000,LN3 4LY,D,N,F,24,,St Lukes Close,Cherry Willingham,Lincoln
+2024-12-02,367500,LN3 4JS,D,N,F,14,,Hawthorn Avenue,Cherry Willingham,Lincoln
+2024-11-29,222000,LN3 4NB,S,N,F,7,,St Hughs Close,Cherry Willingham,Lincoln
+2024-11-29,120000,LN3 4JS,D,N,F,56,,Hawthorn Avenue,Cherry Willingham,Lincoln
+2024-11-29,190000,LN3 4FP,S,N,F,9,,Kingfisher Close,Cherry Willingham,Lincoln
+2024-11-29,238000,LN3 4DT,D,N,F,10,,Mellows Close,Reepham,Lincoln
+2024-11-28,140000,LN3 5SR,S,N,F,1,,Hancock Drive,Bardney,Lincoln
+2024-11-22,250000,LN3 4JG,D,N,F,4,,Rudgard Avenue,Cherry Willingham,Lincoln
+2024-11-21,290000,LN3 4GA,D,N,F,27,,Manor Rise,Reepham,Lincoln
+2024-11-21,285000,LN3 4DT,D,N,F,21,,Mellows Close,Reepham,Lincoln
+2024-11-12,247000,LN3 5XG,T,N,F,51,,Silver Street,Bardney,Lincoln
+2024-11-12,175000,LN3 4AT,D,N,F,7,,Laburnum Drive,Cherry Willingham,Lincoln
+2024-11-08,280000,LN3 5DN,D,N,F,10,,David Todd Way,Bardney,Lincoln
+2024-11-08,625000,LN3 4FT,D,N,F,3,,The Walks,Cherry Willingham,Lincoln
+2024-11-01,335000,LN3 4PS,D,N,F,6,,The Paddock,Cherry Willingham,Lincoln
+2024-11-01,165500,LN3 4JF,D,N,F,18,,Ancaster Close,Cherry Willingham,Lincoln
+2024-11-01,255000,LN3 4GD,D,N,F,30,,Holmfield,Fiskerton,Lincoln
+2024-11-01,410000,LN3 4GD,D,N,F,1,,Holmfield,Fiskerton,Lincoln
+2024-10-31,400000,LN3 5TB,D,N,F,The Haven,,High Thorpe,Southrey,Lincoln
+2024-10-31,480000,LN3 5EH,D,N,F,3,,St Francis Green,Bardney,Lincoln
+2024-10-29,205000,LN3 4NA,S,N,F,78,,Minster Drive,Cherry Willingham,Lincoln
+2024-10-28,230000,LN3 4BW,D,N,F,92,,Lady Meers Road,Cherry Willingham,Lincoln
+2024-10-25,85000,LN3 5AW,T,N,F,2,,Station Road,Wickenby,Lincoln
+2024-10-25,267500,LN3 4EB,D,N,F,8,,Fiskerton Road,Reepham,Lincoln
+2024-10-17,492500,LN3 4HD,D,Y,F,The Farmhouse,,Chapel Road,Fiskerton,Lincoln
+2024-10-14,480000,LN3 4AL,D,N,F,7A,,Waterford Lane,Cherry Willingham,Lincoln
+2024-10-11,170000,LN3 5SB,T,N,F,22,,Thomas Kitching Way,Bardney,Lincoln
+2024-10-10,292500,LN3 5XA,D,N,F,59,,Abbey Road,Bardney,Lincoln
+2024-10-09,415000,LN3 5AE,D,N,F,The Beeches,,,Lissington,Lincoln
+2024-10-01,141500,LN3 5SR,S,N,F,41,,Hancock Drive,Bardney,Lincoln
+2024-10-01,245000,LN3 4BG,D,N,F,38,,Fern Grove,Cherry Willingham,Lincoln
+2024-09-27,268000,LN3 4PQ,D,N,F,6,,Park Hill,Cherry Willingham,Lincoln
+2024-09-20,215000,LN3 4BW,T,N,F,55,,Lady Meers Road,Cherry Willingham,Lincoln
+2024-09-18,223000,LN3 4RD,S,N,F,9,,Middleway,Cherry Willingham,Lincoln
+2024-09-16,445000,LN3 4AN,D,N,F,"Crows Nest, 91",,Waterford Lane,Cherry Willingham,Lincoln
+2024-09-13,275000,LN3 4JG,S,N,F,14,,Rudgard Avenue,Cherry Willingham,Lincoln
+2024-09-13,495000,LN3 4GA,D,N,F,2,,Manor Rise,Reepham,Lincoln
+2024-09-13,245000,LN3 4DH,S,N,F,7,,The Green,Reepham,Lincoln
+2024-09-12,224000,LN3 4GT,S,N,F,44,,Wesley Road,Cherry Willingham,Lincoln
+2024-09-11,140000,LN3 5SL,T,N,F,4,,Crowder Close,Bardney,Lincoln
+2024-09-11,215000,LN3 5BT,D,N,F,6,,Norman Way,Bardney,Lincoln
+2024-09-11,242500,LN3 4BW,D,N,F,7,,Lady Meers Road,Cherry Willingham,Lincoln
+2024-09-02,725000,LN3 4FU,D,N,F,4,,Walnut Tree Close,Reepham,Lincoln
+2024-08-28,387000,LN3 5XR,D,N,F,41,,Wragby Road,Bardney,Lincoln
+2024-08-28,280000,LN3 4FW,D,N,F,5,,Bramble Court,Cherry Willingham,Lincoln
+2024-08-27,190000,LN3 4BG,D,N,F,76,,Fern Grove,Cherry Willingham,Lincoln
+2024-08-23,290000,LN3 4BW,D,N,F,21,,Lady Meers Road,Cherry Willingham,Lincoln
+2024-08-20,265000,LN3 4EE,D,N,F,Farmlands,,Moor Lane,Fiskerton,Lincoln
+2024-08-16,239000,LN3 4HW,S,N,F,71,,Ferry Road,Fiskerton,Lincoln
+2024-08-15,181600,LN3 5SS,D,N,F,7,,Silver Street,Bardney,Lincoln
+2024-08-14,174000,LN3 5BJ,T,N,F,17,,Main Road,Langworth,Lincoln
+2024-08-14,390000,LN3 5AB,D,N,F,The Pippins,,,Wickenby,Lincoln
+2024-08-13,810000,LN3 5AL,D,N,F,Friesthorpe Hall,,,Friesthorpe,Lincoln
+2024-08-12,182500,LN3 5SH,S,N,F,7,,Knowles Way,Bardney,Lincoln
+2024-08-12,280000,LN3 5DN,D,N,F,39,,David Todd Way,Bardney,Lincoln
+2024-08-12,357500,LN3 4FW,D,N,F,2,,Bramble Court,Cherry Willingham,Lincoln
+2024-08-08,290000,LN3 5SR,D,N,F,28,,Hancock Drive,Bardney,Lincoln
+2024-08-02,145000,LN3 5SS,S,N,F,43,,Silver Street,Bardney,Lincoln
+2024-08-02,350000,LN3 4FW,D,N,F,1,,Bramble Court,Cherry Willingham,Lincoln
+2024-08-02,295000,LN3 4AU,D,N,F,15,,Elm Avenue,Cherry Willingham,Lincoln
+2024-07-31,235000,LN3 4GW,T,N,F,69,,Cherry Paddocks,Cherry Willingham,Lincoln
+2024-07-26,250000,LN3 4FX,T,Y,F,3,,Manor Yard Court,Fiskerton,Lincoln
+2024-07-24,500000,LN3 4DL,D,N,F,5,,Smooting Lane,Reepham,Lincoln
+2024-07-19,70000,LN3 5XE,D,N,F,The Old Exchange,,Wragby Road,Bardney,Lincoln
+2024-07-19,309000,LN3 5TA,D,N,F,School House,,Ferry Road,Southrey,Lincoln
+2024-07-19,227000,LN3 4AT,D,N,F,9,,Laburnum Drive,Cherry Willingham,Lincoln
+2024-07-12,150000,LN3 5SL,T,N,F,2A,,Crowder Close,Bardney,Lincoln
+2024-07-12,75000,LN3 5AW,T,N,F,2,,Station Road,Wickenby,Lincoln
+2024-07-12,240000,LN3 4GQ,S,N,F,20,,Tennyson Walk,Cherry Willingham,Lincoln
+2024-07-11,400000,LN3 5DF,D,N,F,The Spinney,,Barlings Lane,Langworth,Lincoln
+2024-07-11,200000,LN3 4GT,T,N,F,59,,Wesley Road,Cherry Willingham,Lincoln
+2024-07-05,175000,LN3 5DF,D,N,F,Willow Cottage,,Barlings Lane,Langworth,Lincoln
+2024-07-02,180500,LN3 5XG,D,N,F,63,,Silver Street,Bardney,Lincoln
+2024-07-01,405000,LN3 4FW,D,N,F,4,,Bramble Court,Cherry Willingham,Lincoln
+2024-06-28,160000,LN3 5AZ,S,N,F,1,,Saxon Way,Bardney,Lincoln
+2024-06-27,198000,LN3 4JA,D,N,F,2,,Greenaway Court,Cherry Willingham,Lincoln
+2024-06-20,281000,LN3 4RA,D,N,F,16,,Milton Close,Cherry Willingham,Lincoln
+2024-06-19,495000,LN3 5XD,D,N,F,"Seagulls, 77",,Abbey Road,Bardney,Lincoln
+2024-06-12,295000,LN3 4PP,D,N,F,2,,Jessop Close,Cherry Willingham,Lincoln
+2024-05-31,188000,LN3 4RJ,T,N,F,3,,Allenby Close,,Lincoln
+2024-05-31,205000,LN3 4GT,T,N,F,10,,Wesley Road,Cherry Willingham,Lincoln
+2024-05-16,190000,LN3 4RJ,T,N,F,83,,Allenby Close,,Lincoln
+2024-05-15,180000,LN3 4HP,T,N,F,14,,Ferryside,Fiskerton,Lincoln
+2024-05-14,180000,LN3 4JZ,D,N,F,4,,Fiskerton Road,Cherry Willingham,Lincoln
+2024-05-10,155000,LN3 5AA,S,N,F,Wayside,2,,Snelland,Lincoln
+2024-05-10,302500,LN3 4AB,D,N,F,11,,Church Lane,Cherry Willingham,Lincoln
+2024-05-07,142500,LN3 4BA,S,N,F,11,,Orchard Close,Cherry Willingham,Lincoln
+2024-05-03,222500,LN3 4BG,D,N,F,17,,Fern Grove,Cherry Willingham,Lincoln
+2024-04-26,185000,LN3 4LT,D,N,F,23,,St Davids Close,Cherry Willingham,Lincoln
+2024-04-26,185000,LN3 4LP,D,N,F,12,,Minster Drive,Cherry Willingham,Lincoln
+2024-04-25,203000,LN3 4FG,S,N,F,139,,Jubilee Close,Cherry Willingham,Lincoln
+2024-04-05,390000,LN3 5XA,D,N,F,9,,Abbey Road,Bardney,Lincoln
+2024-04-05,285000,LN3 4DA,D,N,F,3,,Midholm,Cherry Willingham,Lincoln
+2024-03-25,350000,LN3 4BW,D,N,F,85,,Lady Meers Road,Cherry Willingham,Lincoln
+2024-03-25,435000,LN3 4AB,D,N,F,11A,,Church Lane,Cherry Willingham,Lincoln
+2024-03-22,173000,LN3 4LT,D,N,F,19,,St Davids Close,Cherry Willingham,Lincoln
+2024-03-20,250000,LN3 4DT,D,N,F,11,,Mellows Close,Reepham,Lincoln
+2024-03-08,180000,LN3 4AN,D,N,F,21,,Waterford Lane,Cherry Willingham,Lincoln
+2024-03-05,37500,LN3 5SL,T,N,L,10,,Crowder Close,Bardney,Lincoln
+2024-03-01,255000,LN3 4HE,S,N,F,Manor Farm Cottages,1,Blacksmith Road,Fiskerton,Lincoln
+2024-03-01,325000,LN3 4ET,D,N,F,Witham View Cottage,,Lincoln Road,Fiskerton,Lincoln
+2024-02-29,180000,LN3 5XR,S,N,F,75,,Wragby Road,Bardney,Lincoln
+2024-02-20,245000,LN3 5AZ,D,Y,F,17,,Saxon Way,Bardney,Lincoln
+2024-02-16,135000,LN3 5BP,T,N,F,4,,Bakehouse Court,Langworth,Lincoln
+2024-02-16,207500,LN3 4DT,D,N,F,25,,Mellows Close,Reepham,Lincoln
+2024-02-15,130000,LN3 4BL,D,N,F,5,,Ash Grove,Cherry Willingham,Lincoln
+2024-02-14,550000,LN3 5UD,D,N,F,47,,Station Road,Bardney,Lincoln
+2024-02-09,190000,LN3 4LD,S,N,F,64,,Jubilee Close,Cherry Willingham,Lincoln
+2024-02-09,330000,LN3 4GL,D,N,F,22,,Franklin Way,Cherry Willingham,Lincoln
+2024-02-02,250000,LN3 5XR,D,N,F,21,,Wragby Road,Bardney,Lincoln
+2024-02-01,320000,LN3 4GA,D,N,F,29,,Manor Rise,Reepham,Lincoln
+2024-01-23,245000,LN3 5XT,S,N,F,3,,Bartholomew Close,Bardney,Lincoln
+2024-01-19,150000,LN3 5SB,T,N,F,18,,Thomas Kitching Way,Bardney,Lincoln
+2024-01-05,230000,LN3 4FD,D,N,F,2,,Blackthorn Lane,Cherry Willingham,Lincoln
+2024-01-03,265000,LN3 4JQ,D,N,F,3,,Rudgard Avenue,Cherry Willingham,Lincoln
+2023-12-20,129500,LN3 5SS,T,N,F,31,,Silver Street,Bardney,Lincoln
+2023-12-20,180000,LN3 4HS,D,N,F,30,,Ferryside Gardens,Fiskerton,Lincoln
+2023-12-20,175000,LN3 4GT,T,N,F,55,,Wesley Road,Cherry Willingham,Lincoln
+2023-12-20,190000,LN3 4AN,D,N,F,15,,Waterford Lane,Cherry Willingham,Lincoln
+2023-12-19,58750,LN3 4RH,F,N,L,68,,Allenby Close,,Lincoln
+2023-12-14,270000,LN3 4JU,S,N,F,43,,Hawthorn Road,Cherry Willingham,Lincoln
+2023-12-12,177000,LN3 4JA,S,N,F,9,,Greenaway Court,Cherry Willingham,Lincoln
+2023-12-12,158000,LN3 4BB,S,N,F,39,,Elm Avenue,Cherry Willingham,Lincoln
+2023-12-07,155000,LN3 4BG,D,N,F,23,,Fern Grove,Cherry Willingham,Lincoln
+2023-12-05,236000,LN3 5UE,D,N,F,Samara,,Wood Lane,Bardney,Lincoln
+2023-11-21,245000,LN3 4PP,D,N,F,9,,Jessop Close,Cherry Willingham,Lincoln
+2023-11-17,210000,LN3 4LX,D,N,F,34,,St Marks Avenue,Cherry Willingham,Lincoln
+2023-11-07,435000,LN3 5SU,D,N,F,The Pheasants,,Horncastle Road,Bardney,Lincoln
+2023-11-03,190000,LN3 4DX,S,N,F,13,,Spring Hill,Reepham,Lincoln
+2023-11-02,295000,LN3 4EF,D,N,F,27,,Fiskerton Road,Reepham,Lincoln
+2023-10-27,230000,LN3 4JN,S,N,F,31,,Croft Lane,Cherry Willingham,Lincoln
+2023-10-20,365000,LN3 5SR,D,N,F,16,,Hancock Drive,Bardney,Lincoln
+2023-10-20,217000,LN3 5BZ,T,N,F,18,,The Meadows,Langworth,Lincoln
+2023-10-20,230000,LN3 4GW,T,N,F,76,,Cherry Paddocks,Cherry Willingham,Lincoln
+2023-10-20,280000,LN3 4FX,S,Y,F,4,,Manor Yard Court,Fiskerton,Lincoln
+2023-10-13,179500,LN3 4GW,S,N,F,17,,Cherry Paddocks,Cherry Willingham,Lincoln
+2023-10-13,240000,LN3 4FX,T,Y,F,2,,Manor Yard Court,Fiskerton,Lincoln
+2023-10-09,197000,LN3 4HS,D,N,F,19,,Ferryside Gardens,Fiskerton,Lincoln
+2023-10-09,287500,LN3 4FX,S,Y,F,5,,Manor Yard Court,Fiskerton,Lincoln
+2023-10-04,177000,LN3 5BB,S,N,F,Pepperworth House,,Station Road,Langworth,Lincoln
+2023-09-29,155000,LN3 5XJ,T,N,F,78,,Harvey Kent Gardens,Bardney,Lincoln
+2023-09-29,550000,LN3 5TZ,D,N,F,5,,Church Lane,Bardney,Lincoln
+2023-09-28,330000,LN3 4GS,D,N,F,6,,Flinders Way,Cherry Willingham,Lincoln
+2023-09-19,385000,LN3 5XD,D,N,F,92,,Abbey Road,Bardney,Lincoln
+2023-09-13,215000,LN3 4BG,D,N,F,72,,Fern Grove,Cherry Willingham,Lincoln
+2023-09-07,240000,LN3 4PP,D,N,F,11,,Jessop Close,Cherry Willingham,Lincoln
+2023-08-31,475000,LN3 5YE,D,N,F,The Squirrels,,Back Lane,Bardney,Lincoln
+2023-08-23,195000,LN3 5DB,D,N,F,5,,St Hughs Drive,Langworth,Lincoln
+2023-08-18,165000,LN3 5XN,T,N,F,4,,Lea Grove,Bardney,Lincoln
+2023-08-18,235000,LN3 4JG,D,N,F,66,,Rudgard Avenue,Cherry Willingham,Lincoln
+2023-08-02,407000,LN3 5BB,D,N,F,The Vicarage,,Station Road,Langworth,Lincoln
+2023-07-28,230000,LN3 4RE,D,N,F,10,,Rosedale Close,Cherry Willingham,Lincoln
+2023-07-24,183000,LN3 5SR,T,N,F,27,,Hancock Drive,Bardney,Lincoln
+2023-07-14,192500,LN3 4RJ,T,N,F,65,,Allenby Close,,Lincoln
+2023-06-29,222000,LN3 4GT,S,N,F,22,,Wesley Road,Cherry Willingham,Lincoln
+2023-06-28,310000,LN3 4AL,D,N,F,12,,Waterford Lane,Cherry Willingham,Lincoln
+2023-06-23,166500,LN3 5BJ,T,N,F,21,,Main Road,Langworth,Lincoln
+2023-06-23,175000,LN3 4NB,S,N,F,3,,St Hughs Close,Cherry Willingham,Lincoln
+2023-06-23,215000,LN3 4LL,D,N,F,25,,St Simons Drive,Cherry Willingham,Lincoln
+2023-06-19,285000,LN3 4GD,D,N,F,28,,Holmfield,Fiskerton,Lincoln
+2023-06-16,115000,LN3 5TB,D,N,F,Janock,,High Thorpe,Southrey,Lincoln
+2023-06-16,157500,LN3 5BD,S,N,F,1,,Providence Row,Langworth,Lincoln
+2023-06-13,310000,LN3 5SR,D,N,F,34,,Hancock Drive,Bardney,Lincoln
+2023-06-13,210000,LN3 5SB,T,N,F,4,,Thomas Kitching Way,Bardney,Lincoln
+2023-06-12,380000,LN3 4DT,D,N,F,27,,Mellows Close,Reepham,Lincoln
+2023-06-07,225000,LN3 5DF,D,N,F,Woodfield,,Barlings Lane,Langworth,Lincoln
+2023-06-06,280000,LN3 5SR,D,N,F,36,,Hancock Drive,Bardney,Lincoln
+2023-06-02,280000,LN3 5XS,D,N,F,8,,Laing Close,Bardney,Lincoln
+2023-06-02,96250,LN3 4GS,S,N,L,23,,Flinders Way,Cherry Willingham,Lincoln
+2023-06-02,225000,LN3 4AT,T,N,F,21,,Laburnum Drive,Cherry Willingham,Lincoln
+2023-05-26,174000,LN3 4HS,D,N,F,11,,Ferryside Gardens,Fiskerton,Lincoln
+2023-05-19,270000,LN3 4BW,D,N,F,75,,Lady Meers Road,Cherry Willingham,Lincoln
+2023-05-18,525000,LN3 4HE,D,Y,F,The Old Dairy,,Blacksmith Road,Fiskerton,Lincoln
+2023-05-12,480000,LN3 5TD,D,N,F,Hillside,,Lowthorpe,Southrey,Lincoln
+2023-05-12,650000,LN3 4HE,D,Y,F,The Byre,,Blacksmith Road,Fiskerton,Lincoln
+2023-05-12,230000,LN3 4BG,D,N,F,74,,Fern Grove,Cherry Willingham,Lincoln
+2023-05-05,181000,LN3 4GW,S,N,F,36,,Cherry Paddocks,Cherry Willingham,Lincoln
+2023-05-05,394000,LN3 4EX,D,N,F,Kosylea,,Orchard Road,Fiskerton,Lincoln
+2023-05-05,640000,LN3 4AW,D,N,F,Long Meadows,,Green Lane,Cherry Willingham,Lincoln
+2023-04-28,195000,LN3 4GR,T,N,F,12,,Wordsworth Road,Cherry Willingham,Lincoln
+2023-04-28,230000,LN3 4FG,S,N,F,137,,Jubilee Close,Cherry Willingham,Lincoln
+2023-04-25,252500,LN3 4LD,D,N,F,53,,Jubilee Close,Cherry Willingham,Lincoln
+2023-04-21,166500,LN3 4LP,S,N,F,6,,Minster Drive,Cherry Willingham,Lincoln
+2023-04-18,375000,LN3 5DG,D,N,F,Stone Delf,,,Barlings,Lincoln
+2023-04-17,290000,LN3 4AL,D,N,F,7,,Waterford Lane,Cherry Willingham,Lincoln
+2023-04-06,172000,LN3 4AJ,D,N,F,6,,New Crescent,Cherry Willingham,Lincoln
+2023-04-05,212500,LN3 4JF,D,N,F,4,,Ancaster Close,Cherry Willingham,Lincoln
+2023-03-31,140450,LN3 5SD,S,N,F,1,,St Lawrence Drive,Bardney,Lincoln
+2023-03-31,220000,LN3 4JF,D,N,F,5,,Ancaster Close,Cherry Willingham,Lincoln
+2023-03-31,220000,LN3 4FG,D,N,F,143,,Jubilee Close,Cherry Willingham,Lincoln
+2023-03-31,290000,LN3 4AG,D,N,F,5,,Newstead Avenue,Cherry Willingham,Lincoln
+2023-03-17,285000,LN3 4LX,D,N,F,29,,St Marks Avenue,Cherry Willingham,Lincoln
+2023-03-17,675000,LN3 4FU,D,Y,F,4,,Walnut Tree Close,Reepham,Lincoln
+2023-03-16,205000,LN3 5XR,S,N,F,101,,Wragby Road,Bardney,Lincoln
+2023-03-16,288000,LN3 4DB,D,N,F,5,,Westholm,Cherry Willingham,Lincoln
+2023-03-14,263000,LN3 4BW,D,N,F,38,,Lady Meers Road,Cherry Willingham,Lincoln
+2023-03-06,470000,LN3 5TD,D,N,F,Emmerdale,,Lowthorpe,Southrey,Lincoln
+2023-03-03,135000,LN3 5XJ,T,N,F,16,,Harvey Kent Gardens,Bardney,Lincoln
+2023-03-03,169000,LN3 4GT,S,N,F,15,,Wesley Road,Cherry Willingham,Lincoln
+2023-02-24,150000,LN3 5SR,S,N,F,3,,Hancock Drive,Bardney,Lincoln
+2023-02-23,200000,LN3 5DN,S,N,F,Ash Cottage,,David Todd Way,Bardney,Lincoln
+2023-02-17,220000,LN3 5SS,S,N,F,48,,Silver Street,Bardney,Lincoln
+2023-02-17,208000,LN3 5SS,D,N,F,39,,Silver Street,Bardney,Lincoln
+2023-02-17,335000,LN3 4GS,D,N,F,5,,Flinders Way,Cherry Willingham,Lincoln
+2023-02-16,315000,LN3 4BW,D,N,F,87,,Lady Meers Road,Cherry Willingham,Lincoln
+2023-02-07,182000,LN3 4GW,T,N,F,50,,Cherry Paddocks,Cherry Willingham,Lincoln
+2023-02-06,42500,LN3 5SL,T,N,L,25,,Crowder Close,Bardney,Lincoln
+2023-02-06,400000,LN3 4GB,T,N,F,2,,Barrons Close,Cherry Willingham,Lincoln
+2023-02-04,197000,LN3 4NA,S,N,F,78,,Minster Drive,Cherry Willingham,Lincoln
+2023-02-03,268000,LN3 4LS,D,N,F,26,,St Matthews Close,Cherry Willingham,Lincoln
+2023-02-02,252000,LN3 4DT,D,N,F,8,,Mellows Close,Reepham,Lincoln
+2023-02-01,180000,LN3 4LH,D,N,F,93,,Minster Drive,Cherry Willingham,Lincoln
+2023-01-27,490000,LN3 5AE,D,N,F,The Croft,,,Lissington,Lincoln
+2023-01-25,185000,LN3 4FG,T,N,F,59,,Jubilee Close,Cherry Willingham,Lincoln
+2023-01-25,239950,LN3 4DU,D,N,F,74,,Hawthorn Road,Reepham,Lincoln
+2023-01-25,280000,LN3 4DP,S,N,F,38,,High Street,Reepham,Lincoln
+2023-01-25,250000,LN3 4AR,D,N,F,54,,Laburnum Drive,Cherry Willingham,Lincoln
+2023-01-06,140000,LN3 4ED,D,N,F,1,,Meadow Close,Reepham,Lincoln
+2023-01-06,230000,LN3 4BH,D,N,F,19,,Holly Close,Cherry Willingham,Lincoln
+2023-01-03,215000,LN3 5SE,T,N,F,3,,Abbot Court,Bardney,Lincoln
+2022-12-21,172500,LN3 4GT,T,N,F,45,,Wesley Road,Cherry Willingham,Lincoln
+2022-12-21,192500,LN3 4BW,S,N,F,61,,Lady Meers Road,Cherry Willingham,Lincoln
+2022-12-19,182000,LN3 5SL,S,N,F,8,,Crowder Close,Bardney,Lincoln
+2022-12-16,128000,LN3 5XF,T,N,F,19,,Queen Street,Bardney,Lincoln
+2022-12-16,305000,LN3 4RE,D,N,F,38,,Rosedale Close,Cherry Willingham,Lincoln
+2022-12-16,295000,LN3 4BW,D,N,F,19,,Lady Meers Road,Cherry Willingham,Lincoln
+2022-12-16,205000,LN3 4BG,D,N,F,12,,Fern Grove,Cherry Willingham,Lincoln
+2022-12-09,185000,LN3 4UT,D,N,F,2,,Corn Close,Fiskerton,Lincoln
+2022-12-01,147000,LN3 5SR,T,N,F,9,,Hancock Drive,Bardney,Lincoln
+2022-11-29,285000,LN3 4HU,S,N,F,Witham View,,Ferry Road,Fiskerton,Lincoln
+2022-11-28,178000,LN3 4HB,T,N,F,22,,High Meadows,Fiskerton,Lincoln
+2022-11-25,190000,LN3 5AZ,S,N,F,2,,Saxon Way,Bardney,Lincoln
+2022-11-21,225000,LN3 5TB,S,N,F,5,,High Thorpe,Southrey,Lincoln
+2022-11-18,185000,LN3 5BZ,T,N,F,2,,The Meadows,Langworth,Lincoln
+2022-11-17,227500,LN3 4GT,T,N,F,67,,Wesley Road,Cherry Willingham,Lincoln
+2022-11-17,750000,LN3 4DQ,D,N,F,"Walnut Lodge, 28",,Church Lane,Reepham,Lincoln
+2022-11-17,160000,LN3 4AN,D,N,F,55,,Waterford Lane,Cherry Willingham,Lincoln
+2022-11-14,240000,LN3 4DN,D,N,F,11,,Station Road,Reepham,Lincoln
+2022-11-14,305000,LN3 4AF,D,N,F,3,,Becke Close,Cherry Willingham,Lincoln
+2022-11-08,200000,LN3 5BJ,D,N,F,"Lindum House, 11A",,Main Road,Langworth,Lincoln
+2022-11-08,192000,LN3 4NA,S,N,F,74,,Minster Drive,Cherry Willingham,Lincoln
+2022-11-07,290000,LN3 5BJ,D,N,F,9,,Main Road,Langworth,Lincoln
+2022-11-04,235000,LN3 4BW,D,N,F,3,,Lady Meers Road,Cherry Willingham,Lincoln
+2022-11-03,322000,LN3 4GD,D,N,F,42,,Holmfield,Fiskerton,Lincoln
+2022-11-01,270000,LN3 4UT,D,N,F,5,,Corn Close,Fiskerton,Lincoln
+2022-11-01,211000,LN3 4BQ,D,N,F,1,,Cedar Avenue,Cherry Willingham,Lincoln
+2022-11-01,255000,LN3 4AN,D,N,F,47,,Waterford Lane,Cherry Willingham,Lincoln
+2022-10-31,170000,LN3 4GW,T,N,F,42,,Cherry Paddocks,Cherry Willingham,Lincoln
+2022-10-31,350000,LN3 4FS,D,N,F,1,,The Old Moorings,Fiskerton,Lincoln
+2022-10-28,207000,LN3 5TH,D,N,F,Lowfields Bungalow,,Lowfields,Tupholme,Lincoln
+2022-10-28,220000,LN3 5DF,D,N,F,Homelands,,Barlings Lane,Langworth,Lincoln
+2022-10-28,125000,LN3 4JA,F,N,L,Greenaway House,4,Greenaway Court,Cherry Willingham,Lincoln
+2022-10-27,264000,LN3 4BP,D,N,F,108,,Lady Meers Road,Cherry Willingham,Lincoln
+2022-10-21,540000,LN3 5XD,D,N,F,Silverbirch House,,Abbey Road,Bardney,Lincoln
+2022-10-21,182000,LN3 4NA,S,N,F,68,,Minster Drive,Cherry Willingham,Lincoln
+2022-10-21,170000,LN3 4GW,S,N,F,32,,Cherry Paddocks,Cherry Willingham,Lincoln
+2022-10-21,339950,LN3 4AL,D,N,F,10,,Waterford Lane,Cherry Willingham,Lincoln
+2022-10-20,650000,LN3 5DP,D,N,F,Walmsgate,1,Barlings Lane,Langworth,Lincoln
+2022-10-20,250000,LN3 4HF,D,N,F,The Cottage,,High Street,Fiskerton,Lincoln
+2022-10-14,235000,LN3 4LZ,D,N,F,53,,Minster Drive,Cherry Willingham,Lincoln
+2022-10-13,445000,LN3 4ER,D,N,F,Hope Cottage,,Nelson Road,Fiskerton,Lincoln
+2022-10-07,235000,LN3 4RD,T,N,F,6,,Middleway,Cherry Willingham,Lincoln
+2022-10-07,200000,LN3 4HS,D,N,F,23,,Ferryside Gardens,Fiskerton,Lincoln
+2022-10-07,335000,LN3 4GL,D,N,F,5,,Franklin Way,Cherry Willingham,Lincoln
+2022-10-04,285000,LN3 5AB,S,N,F,Haven House,,Station Road,Wickenby,Lincoln
+2022-09-30,211000,LN3 5ST,S,N,F,8,,Manor Close,Bardney,Lincoln
+2022-09-30,195000,LN3 4LP,D,N,F,14,,Minster Drive,Cherry Willingham,Lincoln
+2022-09-30,227500,LN3 4GS,S,N,F,8,,Flinders Way,Cherry Willingham,Lincoln
+2022-09-23,495000,LN3 4GA,D,N,F,12,,Manor Rise,Reepham,Lincoln
+2022-09-16,150000,LN3 4DL,S,N,F,1,,Smooting Lane,Reepham,Lincoln
+2022-09-14,196444,LN3 5AB,S,N,F,Primrose Cottage,,,Wickenby,Lincoln
+2022-09-06,265000,LN3 5XA,D,N,F,59,,Abbey Road,Bardney,Lincoln
+2022-09-01,310000,LN3 4FE,D,N,F,1,,Ridings Close,Fiskerton,Lincoln
+2022-09-01,256000,LN3 4EB,D,N,F,6,,Fiskerton Road,Reepham,Lincoln
+2022-08-31,140000,LN3 5SL,S,N,F,2,,Crowder Close,Bardney,Lincoln
+2022-08-30,260000,LN3 5AT,S,N,F,4,,Faldingworth Road,Buslingthorpe,Lincoln
+2022-08-26,160000,LN3 4LY,D,N,F,18,,St Lukes Close,Cherry Willingham,Lincoln
+2022-08-26,311000,LN3 4JG,D,N,F,58,,Rudgard Avenue,Cherry Willingham,Lincoln
+2022-08-25,290000,LN3 5AB,S,Y,F,Willow House,,,Wickenby,Lincoln
+2022-08-23,212500,LN3 4FP,S,N,F,23,,Kingfisher Close,Cherry Willingham,Lincoln
+2022-08-23,269000,LN3 4AT,D,N,F,3,,Laburnum Drive,Cherry Willingham,Lincoln
+2022-08-15,350000,LN3 5TA,D,N,F,Newhaven,,Ferry Road,Southrey,Lincoln
+2022-08-11,435204,LN3 5XE,D,N,F,5,,Wragby Road,Bardney,Lincoln
+2022-08-11,435000,LN3 4AD,D,N,F,46,,Church Lane,Cherry Willingham,Lincoln
+2022-08-10,825000,LN3 4FU,D,Y,F,2,,Walnut Tree Close,Reepham,Lincoln
+2022-08-10,625000,LN3 4DN,D,N,F,28,,Station Road,Reepham,Lincoln
+2022-08-08,160000,LN3 5TA,S,N,F,3,,Ferry Road,Southrey,Lincoln
+2022-08-08,297500,LN3 4GD,D,N,F,15,,Holmfield,Fiskerton,Lincoln
+2022-08-08,227500,LN3 4DT,D,N,F,20,,Mellows Close,Reepham,Lincoln
+2022-07-29,190000,LN3 4LH,D,N,F,104,,Minster Drive,Cherry Willingham,Lincoln
+2022-07-29,181000,LN3 4GW,T,N,F,40,,Cherry Paddocks,Cherry Willingham,Lincoln
+2022-07-27,260000,LN3 4EF,D,N,F,48,,Fiskerton Road,Reepham,Lincoln
+2022-07-26,290000,LN3 5TA,D,N,F,Newholme,,Ferry Road,Southrey,Lincoln
+2022-07-26,77500,LN3 4GS,T,N,L,15,,Flinders Way,Cherry Willingham,Lincoln
+2022-07-22,725000,LN3 4FU,D,Y,F,10,,Walnut Tree Close,Reepham,Lincoln
+2022-07-18,190000,LN3 5BX,S,N,F,5,,Lancaster Close,Bardney,Lincoln
+2022-07-15,322100,LN3 5DA,S,N,F,Lilac Cottage,,Barlings Lane,Langworth,Lincoln
+2022-07-15,200000,LN3 4JG,S,N,F,76,,Rudgard Avenue,Cherry Willingham,Lincoln
+2022-07-15,270000,LN3 4GE,D,N,F,4,,Water Hill,Fiskerton,Lincoln
+2022-07-15,225000,LN3 4DJ,T,N,F,5,,Althea Terrace,Reepham,Lincoln
+2022-07-11,200000,LN3 4LD,S,N,F,52,,Jubilee Close,Cherry Willingham,Lincoln
+2022-07-08,200000,LN3 5XP,D,N,F,Aston House,,Field Lane,Bardney,Lincoln
+2022-07-08,157000,LN3 5SS,S,N,F,43,,Silver Street,Bardney,Lincoln
+2022-07-04,305000,LN3 4BU,D,N,F,4,,Waterford Court,Cherry Willingham,Lincoln
+2022-06-30,245000,LN3 4LA,D,N,F,19,,Fiskerton Road,Cherry Willingham,Lincoln
+2022-06-30,415000,LN3 4AD,D,N,F,51,,Church Lane,Cherry Willingham,Lincoln
+2022-06-29,175000,LN3 4JA,S,N,F,10,,Greenaway Court,Cherry Willingham,Lincoln
+2022-06-27,385000,LN3 5DQ,D,N,F,Homelea,,,Newball,Lincoln
+2022-06-24,210000,LN3 4LS,D,N,F,1,,St Matthews Close,Cherry Willingham,Lincoln
+2022-06-21,195000,LN3 4DP,D,N,F,24,,High Street,Reepham,Lincoln
+2022-06-20,96000,LN3 4RP,T,N,L,163,,Allenby Close,,Lincoln
+2022-06-17,375000,LN3 5XR,D,N,F,41,,Wragby Road,Bardney,Lincoln
+2022-06-17,179950,LN3 4LF,S,N,F,3,,Hawthorn Chase,Cherry Willingham,Lincoln
+2022-06-15,235000,LN3 5XB,D,N,F,9,,Carron Close,Bardney,Lincoln
+2022-06-15,225000,LN3 4LR,D,N,F,31,,Minster Drive,Cherry Willingham,Lincoln
+2022-06-13,185000,LN3 5XS,D,N,F,11,,Laing Close,Bardney,Lincoln
+2022-06-13,390000,LN3 4GA,D,N,F,9,,Manor Rise,Reepham,Lincoln
+2022-06-10,335000,LN3 5XT,T,N,F,18,,Bartholomew Close,Bardney,Lincoln
+2022-06-10,240000,LN3 4LY,D,N,F,3,,St Lukes Close,Cherry Willingham,Lincoln
+2022-06-10,185000,LN3 4LT,D,N,F,9,,St Davids Close,Cherry Willingham,Lincoln
+2022-06-10,180000,LN3 4DX,S,N,F,18,,Spring Hill,Reepham,Lincoln
+2022-06-09,465000,LN3 5AB,D,N,F,Birch House,,Station Road,Wickenby,Lincoln
+2022-06-08,400000,LN3 4GA,D,N,F,4,,Manor Rise,Reepham,Lincoln
+2022-06-07,206000,LN3 4JQ,D,N,F,17,,Rudgard Avenue,Cherry Willingham,Lincoln
+2022-06-07,307500,LN3 4BZ,D,N,F,2,,East Mill Gate,Cherry Willingham,Lincoln
+2022-06-07,367500,LN3 4BW,D,N,F,60,,Lady Meers Road,Cherry Willingham,Lincoln
+2022-06-06,686200,LN3 4FU,D,Y,F,6,,Walnut Tree Close,Reepham,Lincoln
+2022-06-01,251000,LN3 4RA,D,N,F,16,,Milton Close,Cherry Willingham,Lincoln
+2022-06-01,265000,LN3 4EF,D,N,F,"Lodore, 37",,Fiskerton Road,Reepham,Lincoln
+2022-06-01,326000,LN3 4BW,D,N,F,15,,Lady Meers Road,Cherry Willingham,Lincoln
+2022-05-31,425000,LN3 4AN,D,N,F,"Crows Nest, 91",,Waterford Lane,Cherry Willingham,Lincoln
+2022-05-30,183000,LN3 5XT,D,N,F,16,,Bartholomew Close,Bardney,Lincoln
+2022-05-27,330000,LN3 4JU,S,N,F,41,,Hawthorn Road,Cherry Willingham,Lincoln
+2022-05-27,825000,LN3 4FU,D,Y,F,14,,Walnut Tree Close,Reepham,Lincoln
+2022-05-26,345000,LN3 5XD,D,N,F,54,,Abbey Road,Bardney,Lincoln
+2022-05-26,332500,LN3 4AB,D,N,F,35,,Church Lane,Cherry Willingham,Lincoln
+2022-05-24,141500,LN3 5XR,S,N,F,25,,Wragby Road,Bardney,Lincoln
+2022-05-24,363000,LN3 5UF,D,N,F,"Hootie House, 85A",,Station Road,Bardney,Lincoln
+2022-05-20,285000,LN3 4LX,D,N,F,22,,St Marks Avenue,Cherry Willingham,Lincoln
+2022-05-20,225000,LN3 4JQ,S,N,F,39,,Rudgard Avenue,Cherry Willingham,Lincoln
+2022-05-18,170000,LN3 4JS,S,N,F,80,,Hawthorn Avenue,Cherry Willingham,Lincoln
+2022-05-16,220000,LN3 4HW,S,N,F,53,,Ferry Road,Fiskerton,Lincoln
+2022-05-13,137000,LN3 5SR,T,N,F,17,,Hancock Drive,Bardney,Lincoln
+2022-05-13,715000,LN3 5AB,D,N,F,Holly Cottage,,Lissington Road,Wickenby,Lincoln
+2022-05-06,100000,LN3 5SS,T,N,F,12,,Silver Street,Bardney,Lincoln
+2022-05-05,220000,LN3 5TZ,S,N,F,11,,Church Lane,Bardney,Lincoln
+2022-05-05,167000,LN3 4LY,S,N,F,21,,St Lukes Close,Cherry Willingham,Lincoln
+2022-05-03,340000,LN3 4LP,D,N,F,13,,Minster Drive,Cherry Willingham,Lincoln
+2022-04-28,242500,LN3 4EF,D,N,F,21,,Fiskerton Road,Reepham,Lincoln
+2022-04-27,630000,LN3 4EF,D,N,F,47,,Fiskerton Road,Reepham,Lincoln
+2022-04-27,240000,LN3 4DT,D,N,F,26,,Mellows Close,Reepham,Lincoln
+2022-04-26,215000,LN3 4LH,D,N,F,87,,Minster Drive,Cherry Willingham,Lincoln
+2022-04-22,160000,LN3 4LT,D,N,F,16,,St Davids Close,Cherry Willingham,Lincoln
+2022-04-22,235500,LN3 4GW,S,N,F,8,,Cherry Paddocks,Cherry Willingham,Lincoln
+2022-04-21,285000,LN3 5BZ,S,Y,F,33,,The Meadows,Langworth,Lincoln
+2022-04-14,120000,LN3 4RJ,F,N,L,121,,Allenby Close,,Lincoln
+2022-04-14,275000,LN3 4GW,D,N,F,5,,Cherry Paddocks,Cherry Willingham,Lincoln
+2022-04-08,225000,LN3 4GD,S,N,F,38,,Holmfield,Fiskerton,Lincoln
+2022-04-06,328500,LN3 5BB,D,N,F,Belmont,,Station Road,Langworth,Lincoln
+2022-04-06,689500,LN3 4FU,D,Y,F,8,,Walnut Tree Close,Reepham,Lincoln
+2022-04-05,316000,LN3 5SD,D,N,F,2,,St Lawrence Drive,Bardney,Lincoln
+2022-04-05,175000,LN3 4BW,S,N,F,100,,Lady Meers Road,Cherry Willingham,Lincoln
+2022-04-01,695000,LN3 4FU,D,Y,F,12,,Walnut Tree Close,Reepham,Lincoln
+2022-03-31,140000,LN3 5UD,S,N,F,80,,Station Road,Bardney,Lincoln
+2022-03-31,399000,LN3 4JZ,D,N,F,10,,Fiskerton Road,Cherry Willingham,Lincoln
+2022-03-28,260000,LN3 4JU,D,N,F,3,,Hawthorn Road,Cherry Willingham,Lincoln
+2022-03-18,125000,LN3 5SB,T,N,F,18,,Thomas Kitching Way,Bardney,Lincoln
+2022-03-17,242500,LN3 4JG,S,N,F,24,,Rudgard Avenue,Cherry Willingham,Lincoln
+2022-03-17,218000,LN3 4FG,S,N,F,111,,Jubilee Close,Cherry Willingham,Lincoln
+2022-03-11,193000,LN3 4JQ,D,N,F,19,,Rudgard Avenue,Cherry Willingham,Lincoln
+2022-03-09,220000,LN3 4BG,D,N,F,64,,Fern Grove,Cherry Willingham,Lincoln
+2022-03-07,339000,LN3 4AL,D,N,F,8,,Waterford Lane,Cherry Willingham,Lincoln
+2022-03-04,215000,LN3 5XP,D,N,F,Basil Dene,,Field Lane,Bardney,Lincoln
+2022-03-04,309000,LN3 4BP,D,N,F,109,,Lady Meers Road,Cherry Willingham,Lincoln
+2022-03-04,250000,LN3 4AR,D,N,F,49,,Laburnum Drive,Cherry Willingham,Lincoln
+2022-03-01,220000,LN3 4BW,D,N,F,45,,Lady Meers Road,Cherry Willingham,Lincoln
+2022-02-28,250000,LN3 4ET,D,N,F,Fen View,,Lincoln Road,Fiskerton,Lincoln
+2022-02-25,270000,LN3 4DP,D,N,F,22,,High Street,Reepham,Lincoln
+2022-02-25,312500,LN3 4BW,D,N,F,95,,Lady Meers Road,Cherry Willingham,Lincoln
+2022-02-23,290000,LN3 5DN,D,N,F,22,,David Todd Way,Bardney,Lincoln
+2022-02-21,127500,LN3 5SR,T,N,F,15,,Hancock Drive,Bardney,Lincoln
+2022-02-21,215000,LN3 5BZ,T,Y,F,24,,The Meadows,Langworth,Lincoln
+2022-02-21,225000,LN3 4LP,D,N,F,34,,Minster Drive,Cherry Willingham,Lincoln
+2022-02-21,334500,LN3 4LP,S,N,F,20,,Minster Drive,Cherry Willingham,Lincoln
+2022-02-21,250000,LN3 4JF,D,N,F,27,,Ancaster Close,Cherry Willingham,Lincoln
+2022-02-21,333000,LN3 4GS,D,N,F,4,,Flinders Way,Cherry Willingham,Lincoln
+2022-02-18,168000,LN3 4JA,D,N,F,3,,Greenaway Court,Cherry Willingham,Lincoln
+2022-02-18,295000,LN3 4DN,D,N,F,8,,Station Road,Reepham,Lincoln
+2022-02-11,283000,LN3 4PR,D,N,F,1,,Cherry Holt,Cherry Willingham,Lincoln
+2022-02-11,179950,LN3 4LD,T,N,F,74,,Jubilee Close,Cherry Willingham,Lincoln
+2022-02-11,160500,LN3 4AU,D,N,F,15,,Elm Avenue,Cherry Willingham,Lincoln
+2022-02-10,122500,LN3 4JA,F,N,L,Greenaway House,2,Greenaway Court,Cherry Willingham,Lincoln
+2022-01-31,222500,LN3 4JQ,S,N,F,35,,Rudgard Avenue,Cherry Willingham,Lincoln
+2022-01-31,125000,LN3 4JA,F,N,L,Greenaway House,3,Greenaway Court,Cherry Willingham,Lincoln
+2022-01-31,345000,LN3 4AS,D,N,F,12,,Laburnum Drive,Cherry Willingham,Lincoln
+2022-01-31,350000,LN3 4AN,D,N,F,35,,Waterford Lane,Cherry Willingham,Lincoln
+2022-01-21,255000,LN3 4DT,D,N,F,18,,Mellows Close,Reepham,Lincoln
+2022-01-21,290000,LN3 4BZ,D,N,F,1,,East Mill Gate,Cherry Willingham,Lincoln
+2022-01-18,725000,LN3 5AL,D,N,F,Friesthorpe Hall,,,Friesthorpe,Lincoln
+2022-01-17,270000,LN3 4LD,D,N,F,90,,Jubilee Close,Cherry Willingham,Lincoln
+2022-01-14,210000,LN3 5XA,S,N,F,46,,Abbey Road,Bardney,Lincoln
+2022-01-14,168000,LN3 5UD,S,N,F,82,,Station Road,Bardney,Lincoln
+2022-01-14,235000,LN3 4ET,D,N,F,Tall Trees,,Lincoln Road,Fiskerton,Lincoln
+2022-01-14,415000,LN3 4AN,D,N,F,51,,Waterford Lane,Cherry Willingham,Lincoln
+2022-01-13,210000,LN3 4AZ,D,N,F,37,,Larkin Avenue,Cherry Willingham,Lincoln
+2022-01-10,210000,LN3 4JN,D,N,F,32,,Croft Lane,Cherry Willingham,Lincoln
+2021-12-22,180000,LN3 5DN,S,N,F,20,,David Todd Way,Bardney,Lincoln
+2021-12-21,173500,LN3 4FP,S,N,F,27,,Kingfisher Close,Cherry Willingham,Lincoln
+2021-12-20,125000,LN3 5XA,D,N,F,53,,Abbey Road,Bardney,Lincoln
+2021-12-17,235000,LN3 5AE,T,N,F,5,,The Terrace,Lissington,Lincoln
+2021-12-17,160000,LN3 4HB,T,N,F,32,,High Meadows,Fiskerton,Lincoln
+2021-12-17,168000,LN3 4GT,T,N,F,43,,Wesley Road,Cherry Willingham,Lincoln
+2021-12-17,215000,LN3 4GT,S,N,F,40,,Wesley Road,Cherry Willingham,Lincoln
+2021-12-16,150000,LN3 5SS,S,N,F,30,,Silver Street,Bardney,Lincoln
+2021-12-16,169000,LN3 5SH,S,N,F,11,,Knowles Way,Bardney,Lincoln
+2021-12-16,280000,LN3 4DU,D,N,F,88,,Hawthorn Road,Reepham,Lincoln
+2021-12-16,272000,LN3 4BW,D,N,F,15,,Lady Meers Road,Cherry Willingham,Lincoln
+2021-12-15,600000,LN3 5DG,D,N,F,Barlings Farm,,,Barlings,Lincoln
+2021-12-15,207000,LN3 4JS,D,N,F,74,,Hawthorn Avenue,Cherry Willingham,Lincoln
+2021-12-15,320000,LN3 4HU,D,N,F,Barlings View,,Ferry Road,Fiskerton,Lincoln
+2021-12-15,210000,LN3 4GW,S,N,F,19,,Cherry Paddocks,Cherry Willingham,Lincoln
+2021-12-10,160000,LN3 5AH,S,N,F,1,,Snelland Road,Wickenby,Lincoln
+2021-12-10,221000,LN3 4LR,D,N,F,37,,Minster Drive,Cherry Willingham,Lincoln
+2021-12-10,205000,LN3 4GT,T,N,F,12,,Wesley Road,Cherry Willingham,Lincoln
+2021-12-10,300000,LN3 4BW,D,N,F,89,,Lady Meers Road,Cherry Willingham,Lincoln
+2021-12-10,290000,LN3 4BW,D,N,F,71,,Lady Meers Road,Cherry Willingham,Lincoln
+2021-12-06,600000,LN3 4EZ,D,N,F,Cavendish House,,Reepham Road,Fiskerton,Lincoln
+2021-12-01,450000,LN3 5XG,D,N,F,59,,Silver Street,Bardney,Lincoln
+2021-11-30,210000,LN3 4GT,S,N,F,24,,Wesley Road,Cherry Willingham,Lincoln
+2021-11-30,217000,LN3 4DA,D,N,F,5,,Midholm,Cherry Willingham,Lincoln
+2021-11-26,78000,LN3 5SB,S,N,L,14,,Thomas Kitching Way,Bardney,Lincoln
+2021-11-26,170000,LN3 4GW,F,N,F,37,,Cherry Paddocks,Cherry Willingham,Lincoln
+2021-11-25,125000,LN3 5SS,S,N,F,15,,Silver Street,Bardney,Lincoln
+2021-11-22,437000,LN3 4DU,D,N,F,52,,Hawthorn Road,Reepham,Lincoln
+2021-11-19,280000,LN3 5DN,D,N,F,12,,David Todd Way,Bardney,Lincoln
+2021-11-19,175000,LN3 4NA,S,N,F,60,,Minster Drive,Cherry Willingham,Lincoln
+2021-11-19,193500,LN3 4LU,D,N,F,4,,St Pauls Avenue,Cherry Willingham,Lincoln
+2021-11-12,1250000,LN3 5TZ,D,N,F,The Manor,,Church Lane,Bardney,Lincoln
+2021-11-11,255000,LN3 4GA,D,N,F,33,,Manor Rise,Reepham,Lincoln
+2021-11-01,650000,LN3 5DP,D,N,F,Walmsgate,3,Barlings Lane,Langworth,Lincoln
+2021-10-29,636000,LN3 5BB,D,N,F,Cornfields,,Station Road,Langworth,Lincoln
+2021-10-29,286000,LN3 4DP,D,N,F,"Arkle House, 52",,High Street,Reepham,Lincoln
+2021-10-26,165000,LN3 5BJ,T,N,F,21,,Main Road,Langworth,Lincoln
+2021-10-25,472500,LN3 5AH,D,N,F,8,,Snelland Road,Wickenby,Lincoln
+2021-10-22,180000,LN3 5XR,S,N,F,109,,Wragby Road,Bardney,Lincoln
+2021-10-22,175000,LN3 4HW,S,N,F,69,,Ferry Road,Fiskerton,Lincoln
+2021-10-22,237000,LN3 4HW,D,N,F,64,,Ferry Road,Fiskerton,Lincoln
+2021-10-22,223000,LN3 4AS,D,N,F,18,,Laburnum Drive,Cherry Willingham,Lincoln
+2021-10-20,235500,LN3 4JS,S,N,F,28,,Hawthorn Avenue,Cherry Willingham,Lincoln
+2021-10-20,295000,LN3 4JG,D,N,F,2,,Rudgard Avenue,Cherry Willingham,Lincoln
+2021-10-19,156500,LN3 5DN,T,N,F,4,,David Todd Way,Bardney,Lincoln
+2021-10-19,220000,LN3 5AB,S,N,F,Cherry Blossom Cottage,,,Wickenby,Lincoln
+2021-10-18,290000,LN3 4DU,D,N,F,84,,Hawthorn Road,Reepham,Lincoln
+2021-10-15,325000,LN3 5EH,D,N,F,1,,St Francis Green,Bardney,Lincoln
+2021-10-15,285000,LN3 4DD,S,N,F,1,,Carpenters Close,Reepham,Lincoln
+2021-10-13,240000,LN3 4HL,D,N,F,12,,Church View Crescent,Fiskerton,Lincoln
+2021-10-13,497500,LN3 4DP,D,N,F,7,,High Street,Reepham,Lincoln
+2021-10-07,320000,LN3 4GD,D,N,F,16,,Holmfield,Fiskerton,Lincoln
+2021-10-06,300000,LN3 4GF,D,N,F,9,,Ash Holt Close,Fiskerton,Lincoln
+2021-09-30,120500,LN3 5SR,T,N,F,17,,Hancock Drive,Bardney,Lincoln
+2021-09-30,217000,LN3 4JX,D,N,F,28,,Hawthorn Road,Cherry Willingham,Lincoln
+2021-09-30,245000,LN3 4GF,D,N,F,17,,Ash Holt Close,Fiskerton,Lincoln
+2021-09-30,375000,LN3 4DQ,D,N,F,Vicarage Cottage,,Church Lane,Reepham,Lincoln
+2021-09-29,150000,LN3 4JA,S,N,F,6,,Greenaway Court,Cherry Willingham,Lincoln
+2021-09-29,360000,LN3 4DP,D,N,F,"Mellows House, 3",,High Street,Reepham,Lincoln
+2021-09-28,107995,LN3 5SS,S,N,F,8,,Silver Street,Bardney,Lincoln
+2021-09-28,200000,LN3 4GT,S,N,F,29,,Wesley Road,Cherry Willingham,Lincoln
+2021-09-28,370000,LN3 4EB,D,N,F,10,,Fiskerton Road,Reepham,Lincoln
+2021-09-27,521000,LN3 5AQ,D,N,F,Barff Cottage,,,Buslingthorpe,Lincoln
+2021-09-24,205000,LN3 5SR,D,N,F,12,,Hancock Drive,Bardney,Lincoln
+2021-09-24,244995,LN3 5BZ,S,Y,F,23,,The Meadows,Langworth,Lincoln
+2021-09-24,149950,LN3 4LY,D,N,F,20,,St Lukes Close,Cherry Willingham,Lincoln
+2021-09-24,140000,LN3 4AB,D,N,F,30,,Church Lane,Cherry Willingham,Lincoln
+2021-09-23,195000,LN3 4JS,D,N,F,46,,Hawthorn Avenue,Cherry Willingham,Lincoln
+2021-09-20,155000,LN3 4NA,S,N,F,80,,Minster Drive,Cherry Willingham,Lincoln
+2021-09-17,219950,LN3 4DA,D,N,F,10,,Midholm,Cherry Willingham,Lincoln
+2021-09-14,172000,LN3 4LD,T,N,F,1,,Jubilee Close,Cherry Willingham,Lincoln
+2021-09-13,173500,LN3 4GT,S,N,F,9,,Wesley Road,Cherry Willingham,Lincoln
+2021-09-13,165000,LN3 4BW,S,N,F,67,,Lady Meers Road,Cherry Willingham,Lincoln
+2021-09-10,225000,LN3 5XB,D,N,F,4,,Carron Close,Bardney,Lincoln
+2021-09-09,175000,LN3 4HY,D,N,F,7,,Priory Drive,Fiskerton,Lincoln
+2021-09-03,220000,LN3 4BW,D,N,F,14,,Lady Meers Road,Cherry Willingham,Lincoln
+2021-09-02,130000,LN3 5UF,D,N,F,100,,Station Road,Bardney,Lincoln
+2021-09-01,183000,LN3 4HW,D,N,F,62,,Ferry Road,Fiskerton,Lincoln
+2021-08-31,645000,LN3 5DP,D,Y,F,Walmsgate,2,Barlings Lane,Langworth,Lincoln
+2021-08-27,138500,LN3 5SL,T,N,F,2A,,Crowder Close,Bardney,Lincoln
+2021-08-27,195000,LN3 5BZ,T,Y,F,18,,The Meadows,Langworth,Lincoln
+2021-08-26,117000,LN3 5XF,T,N,F,24,,Queen Street,Bardney,Lincoln
+2021-08-26,188217,LN3 5BZ,T,Y,F,10,,The Meadows,Langworth,Lincoln
+2021-08-26,212000,LN3 4LJ,D,N,F,7,,St Peters Avenue,Cherry Willingham,Lincoln
+2021-08-26,257000,LN3 4GL,D,N,F,11,,Franklin Way,Cherry Willingham,Lincoln
+2021-08-26,391500,LN3 4GB,D,N,F,4,,Barrons Close,Cherry Willingham,Lincoln
+2021-08-20,272000,LN3 5XL,D,N,F,24,,Wragby Road,Bardney,Lincoln
+2021-08-20,230000,LN3 4BW,D,N,F,28,,Lady Meers Road,Cherry Willingham,Lincoln
+2021-08-19,330000,LN3 4GE,D,N,F,8,,Water Hill,Fiskerton,Lincoln
+2021-08-18,235000,LN3 5XR,D,N,F,61,,Wragby Road,Bardney,Lincoln
+2021-08-18,80000,LN3 5SU,S,N,L,18,,Horncastle Road,Bardney,Lincoln
+2021-08-18,148000,LN3 4HQ,S,N,F,1,,The Crescent,Fiskerton,Lincoln
+2021-08-12,197500,LN3 4PP,D,N,F,2,,Jessop Close,Cherry Willingham,Lincoln
+2021-08-10,127500,LN3 5SR,S,N,F,39,,Hancock Drive,Bardney,Lincoln
+2021-08-06,155000,LN3 5SR,S,N,F,35,,Hancock Drive,Bardney,Lincoln
+2021-08-04,75000,LN3 5UB,T,N,F,2,,West View,Bardney,Lincoln
+2021-08-03,210000,LN3 5BD,D,N,F,Roma,,Station Road,Langworth,Lincoln
+2021-08-03,250000,LN3 4LD,D,N,F,76,,Jubilee Close,Cherry Willingham,Lincoln
+2021-08-03,169950,LN3 4GW,S,N,F,17,,Cherry Paddocks,Cherry Willingham,Lincoln
+2021-08-02,159500,LN3 4RH,T,N,F,8,,Allenby Close,,Lincoln
+2021-08-02,185000,LN3 4HN,D,N,F,2,,St Clements Drive,Fiskerton,Lincoln
+2021-07-30,182000,LN3 5XR,D,N,F,51A,,Wragby Road,Bardney,Lincoln
+2021-07-30,97500,LN3 5SU,S,N,L,20,,Horncastle Road,Bardney,Lincoln
+2021-07-30,217000,LN3 4HN,S,N,F,20,,St Clements Drive,Fiskerton,Lincoln
+2021-07-30,200000,LN3 4FG,S,N,F,101,,Jubilee Close,Cherry Willingham,Lincoln
+2021-07-28,150000,LN3 4GQ,S,N,F,4,,Tennyson Walk,Cherry Willingham,Lincoln
+2021-07-20,151500,LN3 5SL,S,N,F,6,,Crowder Close,Bardney,Lincoln
+2021-07-16,220500,LN3 4BH,D,N,F,7,,Holly Close,Cherry Willingham,Lincoln
+2021-07-09,192000,LN3 4RA,S,N,F,5,,Milton Close,Cherry Willingham,Lincoln
+2021-07-09,192500,LN3 4FP,S,N,F,25,,Kingfisher Close,Cherry Willingham,Lincoln
+2021-07-06,565000,LN3 5DF,D,N,F,The Old Barn,,Barlings Lane,Langworth,Lincoln
+2021-07-02,120000,LN3 5SR,T,N,F,11,,Hancock Drive,Bardney,Lincoln
+2021-07-02,255000,LN3 4AD,D,N,F,48,,Church Lane,Cherry Willingham,Lincoln
+2021-07-01,175000,LN3 4ET,D,N,F,Ringwood,,Lincoln Road,Fiskerton,Lincoln
+2021-06-30,162000,LN3 5AZ,S,N,F,3,,Saxon Way,Bardney,Lincoln
+2021-06-30,231000,LN3 4RA,D,N,F,12,,Milton Close,Cherry Willingham,Lincoln
+2021-06-30,323000,LN3 4AL,D,N,F,6,,Waterford Lane,Cherry Willingham,Lincoln
+2021-06-29,320000,LN3 4DD,D,N,F,3,,Carpenters Close,Reepham,Lincoln
+2021-06-28,171000,LN3 4AR,D,N,F,43,,Laburnum Drive,Cherry Willingham,Lincoln
+2021-06-25,157500,LN3 5SR,S,N,F,19,,Hancock Drive,Bardney,Lincoln
+2021-06-25,265000,LN3 4PP,D,N,F,7,,Jessop Close,Cherry Willingham,Lincoln
+2021-06-25,146000,LN3 4LX,D,N,F,34,,St Marks Avenue,Cherry Willingham,Lincoln
+2021-06-25,288000,LN3 4ED,D,N,F,5,,Meadow Close,Reepham,Lincoln
+2021-06-25,252500,LN3 4DN,S,N,F,13,,Station Road,Reepham,Lincoln
+2021-06-25,168500,LN3 4DJ,D,N,F,1,,Althea Terrace,Reepham,Lincoln
+2021-06-24,215000,LN3 4JX,S,N,F,26A,,Hawthorn Road,Cherry Willingham,Lincoln
+2021-06-24,447000,LN3 4JP,D,N,F,62,,Croft Lane,Cherry Willingham,Lincoln
+2021-06-24,210000,LN3 4GT,S,N,F,42,,Wesley Road,Cherry Willingham,Lincoln
+2021-06-18,310000,LN3 4JD,D,N,F,7,,Bellwood Grange,Cherry Willingham,Lincoln
+2021-06-17,105000,LN3 5XL,D,N,F,26 - 28,,Wragby Road,Bardney,Lincoln
+2021-06-17,372950,LN3 5UD,D,N,F,"Thistle Cottage, 77",,Station Road,Bardney,Lincoln
+2021-06-17,157500,LN3 5TB,S,N,F,Nantom,,High Thorpe,Southrey,Lincoln
+2021-06-16,595000,LN3 4FS,D,N,F,3,,The Old Moorings,Fiskerton,Lincoln
+2021-06-11,257500,LN3 4AP,D,N,F,28,,Fiskerton Road,Cherry Willingham,Lincoln
+2021-06-10,350000,LN3 4DP,S,N,F,32,,High Street,Reepham,Lincoln
+2021-06-07,260000,LN3 4EB,S,N,F,4,,Fiskerton Road,Reepham,Lincoln
+2021-05-28,191000,LN3 4FG,S,N,F,141,,Jubilee Close,Cherry Willingham,Lincoln
+2021-05-28,350000,LN3 4AN,D,N,F,53,,Waterford Lane,Cherry Willingham,Lincoln
+2021-05-27,209000,LN3 4BW,D,N,F,20,,Lady Meers Road,Cherry Willingham,Lincoln
+2021-05-24,328000,LN3 4EH,D,N,F,12,,Plough Lane,Reepham,Lincoln
+2021-05-21,400000,LN3 5XD,D,N,F,79,,Abbey Road,Bardney,Lincoln
+2021-05-21,156000,LN3 5SL,S,N,F,8,,Crowder Close,Bardney,Lincoln
+2021-05-18,335000,LN3 5TB,D,N,F,Sudtrie Cottage,,High Thorpe,Southrey,Lincoln
+2021-05-14,198000,LN3 4JS,D,N,F,11,,Hawthorn Avenue,Cherry Willingham,Lincoln
+2021-05-13,150000,LN3 4BL,D,N,F,2,,Ash Grove,Cherry Willingham,Lincoln
+2021-05-05,194430,LN3 5BZ,T,Y,F,16,,The Meadows,Langworth,Lincoln
+2021-05-05,161000,LN3 4GW,T,N,F,10,,Cherry Paddocks,Cherry Willingham,Lincoln
+2021-04-30,95000,LN3 5BP,S,N,F,2,,Bakehouse Court,Langworth,Lincoln
+2021-04-28,298000,LN3 5BU,D,N,F,The Old Nurseries,,Nursery Close,Langworth,Lincoln
+2021-04-28,210000,LN3 4GW,T,N,F,31,,Cherry Paddocks,Cherry Willingham,Lincoln
+2021-04-28,143000,LN3 4BA,S,N,F,2,,Orchard Close,Cherry Willingham,Lincoln
+2021-04-23,116000,LN3 4HW,D,N,F,30,,Ferry Road,Fiskerton,Lincoln
+2021-04-23,198000,LN3 4HF,S,N,F,The Chimes,,High Street,Fiskerton,Lincoln
+2021-04-23,165000,LN3 4GT,T,N,F,35,,Wesley Road,Cherry Willingham,Lincoln
+2021-04-16,370000,LN3 4GA,D,N,F,24,,Manor Rise,Reepham,Lincoln
+2021-04-15,190000,LN3 4PP,D,N,F,8,,Jessop Close,Cherry Willingham,Lincoln
+2021-04-08,495000,LN3 4EF,D,N,F,51,,Fiskerton Road,Reepham,Lincoln
+2021-04-07,260000,LN3 4AJ,D,N,F,1,,New Crescent,Cherry Willingham,Lincoln
+2021-04-01,475000,LN3 4FS,D,N,F,4,,The Old Moorings,Fiskerton,Lincoln
+2021-03-31,142000,LN3 5XA,S,N,F,14,,Abbey Road,Bardney,Lincoln
+2021-03-31,190000,LN3 5UD,D,N,F,59,,Station Road,Bardney,Lincoln
+2021-03-31,279995,LN3 5BZ,S,Y,F,31,,The Meadows,Langworth,Lincoln
+2021-03-31,180000,LN3 4LD,S,N,F,39,,Jubilee Close,Cherry Willingham,Lincoln
+2021-03-31,262500,LN3 4FS,D,N,F,5,,The Old Moorings,Fiskerton,Lincoln
+2021-03-31,262500,LN3 4FS,D,N,F,5,,The Old Moorings,Fiskerton,Lincoln
+2021-03-31,224000,LN3 4FB,D,N,F,1A,,The Brambles,Cherry Willingham,Lincoln
+2021-03-31,199000,LN3 4BG,D,N,F,31,,Fern Grove,Cherry Willingham,Lincoln
+2021-03-30,183000,LN3 4FP,S,N,F,29,,Kingfisher Close,Cherry Willingham,Lincoln
+2021-03-26,315000,LN3 5DN,D,Y,F,28,,David Todd Way,Bardney,Lincoln
+2021-03-26,205000,LN3 4DN,D,N,F,11,,Station Road,Reepham,Lincoln
+2021-03-25,64000,LN3 5SU,S,N,L,24,,Horncastle Road,Bardney,Lincoln
+2021-03-25,146000,LN3 5BJ,D,N,F,18,,Main Road,Langworth,Lincoln
+2021-03-25,200000,LN3 4JG,D,N,F,46,,Rudgard Avenue,Cherry Willingham,Lincoln
+2021-03-24,195000,LN3 4GW,S,N,F,8,,Cherry Paddocks,Cherry Willingham,Lincoln
+2021-03-19,395000,LN3 4EN,D,N,F,4,,Beck Hill,Reepham,Lincoln
+2021-03-19,235000,LN3 4BH,D,N,F,15,,Holly Close,Cherry Willingham,Lincoln
+2021-03-18,522000,LN3 5XD,D,N,F,75,,Abbey Road,Bardney,Lincoln
+2021-03-18,210000,LN3 4FG,S,N,F,127,,Jubilee Close,Cherry Willingham,Lincoln
+2021-03-16,198000,LN3 4RE,S,N,F,20,,Rosedale Close,Cherry Willingham,Lincoln
+2021-03-16,390000,LN3 4HH,D,N,F,4B,,Ferry Road,Fiskerton,Lincoln
+2021-03-16,220000,LN3 4BW,D,N,F,94,,Lady Meers Road,Cherry Willingham,Lincoln
+2021-03-16,150000,LN3 4AJ,D,N,F,13,,New Crescent,Cherry Willingham,Lincoln
+2021-03-15,182500,LN3 4LR,D,N,F,31,,Minster Drive,Cherry Willingham,Lincoln
+2021-03-15,227000,LN3 4JS,D,N,F,64,,Hawthorn Avenue,Cherry Willingham,Lincoln
+2021-03-12,190000,LN3 5AA,S,N,F,End Cottage,,Station Road,Snelland,Lincoln
+2021-03-11,450000,LN3 5DF,D,N,F,Abbotsley House,,Barlings Lane,Langworth,Lincoln
+2021-03-11,171000,LN3 4JS,D,N,F,72,,Hawthorn Avenue,Cherry Willingham,Lincoln
+2021-03-09,235000,LN3 4ED,D,N,F,12,,Meadow Close,Reepham,Lincoln
+2021-03-09,175000,LN3 4BG,D,N,F,46,,Fern Grove,Cherry Willingham,Lincoln
+2021-03-05,160000,LN3 5BD,S,N,F,4,,Providence Row,Langworth,Lincoln
+2021-03-05,160000,LN3 4HS,D,N,F,26,,Ferryside Gardens,Fiskerton,Lincoln
+2021-03-05,173000,LN3 4DH,T,N,F,12,,The Green,Reepham,Lincoln
+2021-03-03,178000,LN3 4BH,D,N,F,18,,Holly Close,Cherry Willingham,Lincoln
+2021-02-25,191995,LN3 5BZ,T,Y,F,20,,The Meadows,Langworth,Lincoln
+2021-02-25,328000,LN3 5BL,D,N,F,Springfield,,,Stainton By Langworth,Lincoln
+2021-02-25,254000,LN3 4DN,T,N,F,"Merlyn, 1",,Station Road,Reepham,Lincoln
+2021-02-24,266500,LN3 5UD,D,N,F,75,,Station Road,Bardney,Lincoln
+2021-02-24,171500,LN3 5ST,S,N,F,7,,Manor Close,Bardney,Lincoln
+2021-02-23,122000,LN3 5SS,S,N,F,43,,Silver Street,Bardney,Lincoln
+2021-02-19,324950,LN3 5DN,D,Y,F,24,,David Todd Way,Bardney,Lincoln
+2021-02-19,179950,LN3 5BT,D,N,F,6,,Norman Way,Bardney,Lincoln
+2021-02-18,310000,LN3 4GD,D,N,F,29,,Holmfield,Fiskerton,Lincoln
+2021-02-17,140000,LN3 5SR,S,N,F,44,,Hancock Drive,Bardney,Lincoln
+2021-02-15,221500,LN3 4LY,S,N,F,13A,,St Lukes Close,Cherry Willingham,Lincoln
+2021-02-12,170000,LN3 4RJ,T,N,F,9,,Allenby Close,,Lincoln
+2021-02-12,140250,LN3 4JQ,S,N,F,29,,Rudgard Avenue,Cherry Willingham,Lincoln
+2021-02-12,435000,LN3 4FS,D,N,F,2,,The Old Moorings,Fiskerton,Lincoln
+2021-02-08,150000,LN3 4GT,S,N,F,23,,Wesley Road,Cherry Willingham,Lincoln
+2021-02-05,150000,LN3 4BL,D,N,F,2,,Ash Grove,Cherry Willingham,Lincoln
+2021-02-04,310000,LN3 4PT,D,N,F,5,,Oakwood Close,Cherry Willingham,Lincoln
+2021-02-04,415000,LN3 4EF,D,N,F,42,,Fiskerton Road,Reepham,Lincoln
+2021-02-03,152500,LN3 4GW,T,N,F,11,,Cherry Paddocks,Cherry Willingham,Lincoln
+2021-02-02,510000,LN3 4FT,D,N,F,3,,The Walks,Cherry Willingham,Lincoln
+2021-02-01,120000,LN3 5SR,S,N,F,5,,Hancock Drive,Bardney,Lincoln
+2021-02-01,245000,LN3 5BH,D,N,F,10,,Scothern Lane,Langworth,Lincoln
+2021-01-29,229995,LN3 5BZ,S,Y,F,25,,The Meadows,Langworth,Lincoln
+2021-01-29,102000,LN3 4BA,S,N,F,3,,Orchard Close,Cherry Willingham,Lincoln
+2021-01-22,104000,LN3 5XJ,T,N,F,16,,Harvey Kent Gardens,Bardney,Lincoln
+2021-01-22,158000,LN3 4GW,S,N,F,27,,Cherry Paddocks,Cherry Willingham,Lincoln
+2021-01-19,232500,LN3 4ED,D,N,F,9,,Meadow Close,Reepham,Lincoln
+2021-01-15,322000,LN3 5UF,D,N,F,"Hootie House, 85A",,Station Road,Bardney,Lincoln
+2021-01-15,260000,LN3 5SR,D,N,F,16,,Hancock Drive,Bardney,Lincoln
+2021-01-15,327500,LN3 5AA,S,N,F,The Hollies,,,Snelland,Lincoln
+2021-01-08,220250,LN3 4LH,D,N,F,81,,Minster Drive,Cherry Willingham,Lincoln
+2021-01-08,262500,LN3 4DD,S,N,F,1,,Carpenters Close,Reepham,Lincoln
+2021-01-08,210000,LN3 4BZ,D,N,F,5,,East Mill Gate,Cherry Willingham,Lincoln
+2021-01-08,300000,LN3 4BW,D,N,F,68,,Lady Meers Road,Cherry Willingham,Lincoln
+2021-01-08,235000,LN3 4AP,D,N,F,32,,Fiskerton Road,Cherry Willingham,Lincoln
+2021-01-07,74500,LN3 5SB,S,N,L,16,,Thomas Kitching Way,Bardney,Lincoln
+2021-01-07,257500,LN3 4LP,D,N,F,1A,,Minster Drive,Cherry Willingham,Lincoln
+2021-01-05,282000,LN3 4GL,D,N,F,10,,Franklin Way,Cherry Willingham,Lincoln

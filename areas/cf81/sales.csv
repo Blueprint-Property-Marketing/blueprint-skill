@@ -1,0 +1,982 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-25,165000,CF81 8JN,T,N,F,18,,Margaret Street,Gilfach,Bargoed
+2026-08-14,130000,CF81 9GG,T,N,F,6,,Factory Road,,Bargoed
+2026-08-07,102000,CF81 9RR,T,N,F,22,,Edmund Street,Pontlottyn,Bargoed
+2026-07-31,170000,CF81 8NN,T,N,F,9,,Cardiff Road,,Bargoed
+2026-07-24,108000,CF81 9BY,T,N,F,1,,Mount Pleasant Street,Aberbargoed,Bargoed
+2026-07-24,215000,CF81 9BN,S,N,F,5,,Cwm Road,Aberbargoed,Bargoed
+2026-07-24,162000,CF81 8LS,T,N,F,42,,Gilfach Street,,Bargoed
+2026-07-10,103000,CF81 8UB,T,N,F,43,,Henry Street,,Bargoed
+2026-07-10,162500,CF81 8JN,T,N,F,11,,Margaret Street,Gilfach,Bargoed
+2026-07-07,142500,CF81 9BT,T,N,F,35,,Commercial Street,Aberbargoed,Bargoed
+2026-07-07,180000,CF81 9BJ,S,N,F,22,,Sannan Street,Aberbargoed,Bargoed
+2026-06-30,140000,CF81 8RJ,T,N,F,22,,Usk Road,,Bargoed
+2026-06-29,255250,CF81 9EH,S,N,F,6,,Birch Way,Aberbargoed,Bargoed
+2026-06-26,200000,CF81 9EF,S,N,F,17,,Beech Avenue,Aberbargoed,Bargoed
+2026-06-26,70000,CF81 8QZ,T,N,F,9,,High Street,,Bargoed
+2026-06-26,250000,CF81 8NZ,T,N,F,42,,Cardiff Road,,Bargoed
+2026-06-26,150000,CF81 8NA,T,N,F,70,,Park Place,,Bargoed
+2026-06-26,154000,CF81 8LR,T,N,F,34,,Gilfach Street,,Bargoed
+2026-06-25,310000,CF81 9HW,S,N,F,70,,Bailey Street,Deri,Bargoed
+2026-06-19,145000,CF81 8NZ,T,N,F,34,,Cardiff Road,,Bargoed
+2026-06-15,238000,CF81 8NP,D,N,F,11,,Denleigh Close,,Bargoed
+2026-06-12,120000,CF81 9GQ,T,N,F,4,,Chapel Street,Deri,Bargoed
+2026-06-12,180000,CF81 9BJ,S,N,F,14,,Sannan Street,Aberbargoed,Bargoed
+2026-06-02,119000,CF81 9FA,T,N,F,62,,Cwrt Coch Street,Aberbargoed,Bargoed
+2026-05-29,200000,CF81 9BJ,S,N,F,62,,Sannan Street,Aberbargoed,Bargoed
+2026-05-28,125000,CF81 9GS,S,N,F,15,,Glyn Derw,Deri,Bargoed
+2026-05-22,140000,CF81 9BS,T,N,F,5,,Ty Llwyd Walk,Aberbargoed,Bargoed
+2026-05-21,146000,CF81 9BQ,D,N,F,18,,Rockleigh Avenue,Aberbargoed,Bargoed
+2026-05-20,168000,CF81 8LZ,T,N,F,40,,Park Place,,Bargoed
+2026-05-18,140000,CF81 8UA,T,N,F,11,,Henry Street,,Bargoed
+2026-05-15,110000,CF81 9FE,T,N,F,46,,Church Street,Aberbargoed,Bargoed
+2026-05-11,153000,CF81 8UE,T,N,F,24,,Mcdonnell Road,,Bargoed
+2026-05-08,156500,CF81 8RN,T,N,F,33,,Church Street,,Bargoed
+2026-05-06,95000,CF81 9HX,S,N,F,99,,Bailey Street,Deri,Bargoed
+2026-04-30,230000,CF81 9PA,D,N,F,9,,North Rising,Pontlottyn,Bargoed
+2026-04-30,115000,CF81 8TS,T,N,F,10,,Llancayo Park,,Bargoed
+2026-04-17,182000,CF81 8LZ,T,N,F,24,,Park Place,,Bargoed
+2026-04-08,200000,CF81 9FH,T,N,F,174,,Commercial Street,Aberbargoed,Bargoed
+2026-04-08,342000,CF81 9EE,D,N,F,16,,Y Ffordd Wen,Aberbargoed,Bargoed
+2026-04-07,403000,CF81 9FX,S,N,F,2,,Gwaelod Y Waun Villas,Aberbargoed,Bargoed
+2026-04-01,342500,CF81 8PQ,D,N,F,East Leigh,,Heol Fargoed,,Bargoed
+2026-04-01,327500,CF81 8NP,D,N,F,17,,Denleigh Close,,Bargoed
+2026-03-30,113000,CF81 8SA,T,N,F,57,,West Street,,Bargoed
+2026-03-27,435000,CF81 8LA,D,N,F,Westwinds,,Vere Place,,Bargoed
+2026-03-26,325000,CF81 9EE,D,N,F,5,,Y Ffordd Wen,Aberbargoed,Bargoed
+2026-03-26,238000,CF81 8PL,T,N,F,17,,Park Crescent,,Bargoed
+2026-03-25,70000,CF81 8NF,T,N,L,25,,St Ann Street,,Bargoed
+2026-03-23,106000,CF81 8NH,T,N,F,7,,St Annes Crescent,,Bargoed
+2026-03-19,192000,CF81 9DP,S,N,F,9,,Thomas Street,Aberbargoed,Bargoed
+2026-03-18,110000,CF81 9HZ,T,N,F,27,,Glynmarch Street,Deri,Bargoed
+2026-03-18,120000,CF81 8SW,T,N,F,29,,Heolddu Road,,Bargoed
+2026-03-18,75000,CF81 8LX,T,N,F,41,,Park Place,,Bargoed
+2026-03-11,245000,CF81 8UQ,S,N,F,18,,Heolddu Crescent,,Bargoed
+2026-02-27,125000,CF81 9GJ,T,N,F,19,,New Road,Deri,Bargoed
+2026-02-27,161000,CF81 8LX,T,N,F,61,,Park Place,,Bargoed
+2026-02-20,105000,CF81 9RD,T,N,F,4,,Garth Street,Pontlottyn,Bargoed
+2026-02-16,285000,CF81 9BF,D,N,F,41,,Marsh Court,Aberbargoed,Bargoed
+2026-02-12,140000,CF81 8UB,T,N,F,30,,Henry Street,,Bargoed
+2026-02-12,170000,CF81 8PE,T,N,F,40,,Ruth Street,,Bargoed
+2026-02-06,206000,CF81 9DS,S,N,F,40,,Coed Y Moeth Road,Aberbargoed,Bargoed
+2026-01-30,285000,CF81 9BF,D,N,F,23,,Marsh Court,Aberbargoed,Bargoed
+2026-01-30,135000,CF81 8RY,T,N,F,23,,Capel Street,,Bargoed
+2026-01-30,165000,CF81 8LZ,T,N,F,12,,Park Place,,Bargoed
+2026-01-28,150000,CF81 9GJ,T,N,F,10,,New Road,Deri,Bargoed
+2026-01-27,340000,CF81 9EE,D,N,F,46,,Y Ffordd Wen,Aberbargoed,Bargoed
+2026-01-23,147500,CF81 9LF,S,N,F,4,,Coronation Crescent,Fochriw,Bargoed
+2026-01-23,167000,CF81 9GS,S,N,F,16,,Glyn Derw,Deri,Bargoed
+2026-01-23,233000,CF81 9DL,S,N,F,2,,Cwrt Neuadd Wen,Aberbargoed,Bargoed
+2026-01-19,105000,CF81 9HX,T,N,F,122,,Bailey Street,Deri,Bargoed
+2026-01-16,135000,CF81 8UY,S,N,F,67,,Heolddu Grove,,Bargoed
+2026-01-16,130000,CF81 8RJ,T,N,F,3,,Usk Road,,Bargoed
+2026-01-09,159950,CF81 8SA,T,N,F,36,,West Street,,Bargoed
+2026-01-09,162000,CF81 8RL,S,N,F,31,,Usk Road,,Bargoed
+2025-12-22,145000,CF81 9HW,T,N,F,84,,Bailey Street,Deri,Bargoed
+2025-12-22,125000,CF81 9FD,T,N,F,24,,Elm Street,Aberbargoed,Bargoed
+2025-12-19,195000,CF81 8SU,T,N,F,35,,South Street,,Bargoed
+2025-12-16,140000,CF81 9RT,S,N,F,38,,Danygraig,Pontlottyn,Bargoed
+2025-12-15,160000,CF81 8RJ,T,N,F,11,,Usk Road,,Bargoed
+2025-12-15,176000,CF81 8LX,T,N,F,77,,Park Place,,Bargoed
+2025-12-12,164000,CF81 9FB,T,N,F,19,,Elm Street,Aberbargoed,Bargoed
+2025-12-12,192000,CF81 9EA,S,N,F,116,,Lewis Street,Aberbargoed,Bargoed
+2025-12-12,154000,CF81 8LS,T,N,F,64,,Gilfach Street,,Bargoed
+2025-12-11,120000,CF81 8QB,T,N,F,2,,Heol Cae Derwen,,Bargoed
+2025-12-09,125000,CF81 8RR,T,N,F,10,,Francis Street,,Bargoed
+2025-12-08,90000,CF81 9RU,S,N,F,23,,Heol Y Waun,Pontlottyn,Bargoed
+2025-12-08,145000,CF81 8SW,T,N,F,46,,Heolddu Road,,Bargoed
+2025-12-05,165000,CF81 9QU,T,N,F,19,,Pidwelt Rise,Pontlottyn,Bargoed
+2025-12-05,150000,CF81 8UA,S,N,F,19,,Henry Street,,Bargoed
+2025-12-04,115000,CF81 8TN,T,N,F,20,,North Road,,Bargoed
+2025-12-03,110000,CF81 8LY,T,N,F,117,,Park Place,,Bargoed
+2025-11-26,191500,CF81 9AY,S,N,F,113,,Bedwellty Road,Aberbargoed,Bargoed
+2025-11-21,131000,CF81 9RU,S,N,F,15,,Heol Y Waun,Pontlottyn,Bargoed
+2025-11-21,90000,CF81 9LN,S,N,F,13,,Heol Y Bryn,Fochriw,Bargoed
+2025-11-19,191000,CF81 8TF,T,N,F,119,,Llancayo Street,,Bargoed
+2025-11-17,132000,CF81 8UT,S,N,F,9,,Heolddu Avenue,,Bargoed
+2025-11-14,195995,CF81 9AQ,S,N,F,11,,Clos Sant Sannan,Aberbargoed,Bargoed
+2025-11-11,315000,CF81 8NL,S,N,F,38,,Hillside Park,,Bargoed
+2025-11-10,108000,CF81 8SA,T,N,F,56,,West Street,,Bargoed
+2025-11-10,188000,CF81 8NW,T,N,F,1,,Wood Street,,Bargoed
+2025-11-07,264995,CF81 9AQ,D,N,F,9,,Clos Sant Sannan,Aberbargoed,Bargoed
+2025-10-31,89000,CF81 9QY,T,N,F,15,,Station Street,Pontlottyn,Bargoed
+2025-10-31,95000,CF81 9GL,S,N,F,66,,New Road,Deri,Bargoed
+2025-10-31,297500,CF81 8PQ,D,N,F,Bellfield,,Heol Fargoed,,Bargoed
+2025-10-29,105000,CF81 8UX,S,N,F,33,,Heolddu Grove,,Bargoed
+2025-10-27,415000,CF81 8NL,S,N,F,70,,Hillside Park,,Bargoed
+2025-10-24,110000,CF81 8TE,T,N,F,53,,Llancayo Street,,Bargoed
+2025-10-23,364000,CF81 8NL,D,N,F,20,,Hillside Park,,Bargoed
+2025-10-23,230000,CF81 8JX,S,N,F,18,,The Drive,,Bargoed
+2025-10-20,135000,CF81 8NE,T,N,F,3,,Alfred Street,Gilfach,Bargoed
+2025-10-14,215000,CF81 9EF,S,N,F,7,,Beech Avenue,Aberbargoed,Bargoed
+2025-10-10,300000,CF81 8NL,S,N,F,12,,Hillside Park,,Bargoed
+2025-10-09,138000,CF81 9JD,T,N,F,4,,Hillside Terrace,Deri,Bargoed
+2025-10-03,75000,CF81 9LL,S,N,F,9,,Pontlottyn Road,Fochriw,Bargoed
+2025-10-01,90000,CF81 9JQ,T,N,F,21,,Brynteg Terrace,Fochriw,Bargoed
+2025-10-01,125000,CF81 8LX,T,N,F,47,,Park Place,,Bargoed
+2025-09-26,255250,CF81 9EH,S,N,F,3,,Birch Way,Aberbargoed,Bargoed
+2025-09-26,327500,CF81 9EE,D,N,F,23,,Y Ffordd Wen,Aberbargoed,Bargoed
+2025-09-26,130000,CF81 8RW,T,N,F,81,,Greenfield Street,,Bargoed
+2025-09-26,114995,CF81 8JL,T,N,L,13,,Llewellyn Street,Gilfach,Bargoed
+2025-09-10,139000,CF81 9QQ,T,N,F,100,,Brynhyfryd,Pontlottyn,Bargoed
+2025-09-08,129995,CF81 8PD,T,N,F,1,,Ruth Street,,Bargoed
+2025-09-05,190000,CF81 9DQ,S,N,F,6,,Thomas Street,Aberbargoed,Bargoed
+2025-09-05,146995,CF81 8RY,T,N,F,3,,Capel Street,,Bargoed
+2025-08-27,205000,CF81 8JX,S,N,F,39,,The Drive,,Bargoed
+2025-08-22,170000,CF81 9QH,T,N,F,7,,Fochriw Road,Pontlottyn,Bargoed
+2025-08-20,135000,CF81 9FB,T,N,F,85,,Elm Street,Aberbargoed,Bargoed
+2025-08-18,92500,CF81 9RN,S,N,F,38,,Southend Terrace,Pontlottyn,Bargoed
+2025-08-15,130000,CF81 8RW,T,N,F,58,,Greenfield Street,,Bargoed
+2025-08-15,130000,CF81 8JJ,T,N,F,7,,Railway Terrace,Gilfach,Bargoed
+2025-08-14,262995,CF81 9AN,D,N,F,9,,Lon Ty Gwyn,Aberbargoed,Bargoed
+2025-08-04,100000,CF81 9HX,T,N,F,113,,Bailey Street,Deri,Bargoed
+2025-08-01,135000,CF81 9LA,S,N,F,66,,Glan Y Nant,Fochriw,Bargoed
+2025-07-30,150000,CF81 9RN,S,N,F,34,,Southend Terrace,Pontlottyn,Bargoed
+2025-07-30,173000,CF81 8UR,S,N,F,48,,Heolddu Crescent,,Bargoed
+2025-07-25,102500,CF81 8RT,T,N,F,21,,Greenfield Street,,Bargoed
+2025-07-23,145000,CF81 8PF,T,N,F,20,,Upper Wood Street,,Bargoed
+2025-07-18,167500,CF81 8UJ,T,N,F,64,,Moorland Road,,Bargoed
+2025-07-18,125000,CF81 8RL,T,N,F,26,,Usk Road,,Bargoed
+2025-07-18,162500,CF81 8NZ,T,N,F,19,,Cardiff Road,,Bargoed
+2025-07-14,155000,CF81 8PH,T,N,F,59,,John Street,,Bargoed
+2025-07-08,100000,CF81 9LB,S,N,F,5,,Rhodfa Ganol,Fochriw,Bargoed
+2025-07-01,100000,CF81 9AX,T,N,F,61,,Bedwellty Road,Aberbargoed,Bargoed
+2025-06-27,135000,CF81 9RJ,T,N,F,3,,Ty Newydd Street,Pontlottyn,Bargoed
+2025-06-27,325000,CF81 9HS,D,N,F,Craig Y Felin,4,Bailey Street,Deri,Bargoed
+2025-06-27,185000,CF81 9AY,S,N,F,117,,Bedwellty Road,Aberbargoed,Bargoed
+2025-06-27,130000,CF81 8NH,S,N,F,15,,St Annes Crescent,,Bargoed
+2025-06-25,127000,CF81 8UA,T,N,F,23,,Henry Street,,Bargoed
+2025-06-24,227500,CF81 9EG,S,N,F,2,,Oak Grove,Aberbargoed,Bargoed
+2025-06-20,165000,CF81 8UF,T,N,F,7,,Baldwin Street,,Bargoed
+2025-06-20,123000,CF81 8RX,T,N,F,7,,Cross Street,,Bargoed
+2025-06-20,192500,CF81 8PD,T,N,F,4,,Ruth Street,,Bargoed
+2025-06-09,160000,CF81 8RL,T,N,F,36,,Usk Road,,Bargoed
+2025-06-09,252000,CF81 8JS,S,N,F,26,,Gwerthonor Road,Gilfach,Bargoed
+2025-06-06,100000,CF81 9RQ,T,N,F,37,,Duffryn Street,Pontlottyn,Bargoed
+2025-06-06,66000,CF81 9AL,S,N,F,3,,Station Road,,Bargoed
+2025-06-06,165000,CF81 8UU,S,N,F,25,,Mount Pleasant,,Bargoed
+2025-05-30,115000,CF81 9HW,T,N,F,91,,Bailey Street,Deri,Bargoed
+2025-05-30,149950,CF81 9AX,T,N,F,85,,Bedwellty Road,Aberbargoed,Bargoed
+2025-05-30,95000,CF81 8UA,T,N,F,18,,Henry Street,,Bargoed
+2025-05-30,150000,CF81 8LQ,T,N,F,17,,Gilfach Street,,Bargoed
+2025-05-28,85000,CF81 9RQ,T,N,F,10,,Duffryn Street,Pontlottyn,Bargoed
+2025-05-28,96000,CF81 9HT,T,N,F,11,,Bailey Street,Deri,Bargoed
+2025-05-23,146500,CF81 9QN,T,N,F,91,,Brynhyfryd,Pontlottyn,Bargoed
+2025-05-23,217000,CF81 9JD,S,N,F,17,,Hillside Terrace,Deri,Bargoed
+2025-05-23,138000,CF81 8UD,T,N,F,56,,Mcdonnell Road,,Bargoed
+2025-05-23,85000,CF81 8PG,T,N,F,8,,John Street,,Bargoed
+2025-05-23,140000,CF81 8JH,T,N,F,18,,Thomas Street,Gilfach,Bargoed
+2025-05-22,167000,CF81 8UR,S,N,F,46,,Heolddu Crescent,,Bargoed
+2025-05-16,118000,CF81 8RW,T,N,F,67,,Greenfield Street,,Bargoed
+2025-05-15,160000,CF81 9FE,T,N,F,1,,Church Street,Aberbargoed,Bargoed
+2025-05-15,239000,CF81 8JE,S,N,F,52,,Maes Y Graig Street,,Bargoed
+2025-05-12,170000,CF81 9GS,S,N,F,6,,Glyn Derw,Deri,Bargoed
+2025-05-12,115000,CF81 8UT,S,N,F,10,,Heolddu Avenue,,Bargoed
+2025-05-09,95000,CF81 8TJ,T,N,F,19,,Upper North Road,,Bargoed
+2025-05-09,145000,CF81 8RT,T,N,F,5,,Greenfield Street,,Bargoed
+2025-05-09,123000,CF81 8PF,T,N,F,30,,Upper Wood Street,,Bargoed
+2025-05-07,120000,CF81 9JS,T,N,F,16,,Brook Row,Fochriw,Bargoed
+2025-05-06,265000,CF81 9LL,S,N,F,7,,Pontlottyn Road,Fochriw,Bargoed
+2025-05-01,215000,CF81 9EG,S,N,F,4,,Oak Grove,Aberbargoed,Bargoed
+2025-04-28,170000,CF81 8JA,T,N,F,22,,Aeron Place,,Bargoed
+2025-04-25,375000,CF81 8QF,D,N,F,8,,Oakland Gardens,,Bargoed
+2025-04-25,237500,CF81 8PL,T,N,F,12,,Park Crescent,,Bargoed
+2025-04-24,137000,CF81 9BS,S,N,F,6,,Ty Llwyd Walk,Aberbargoed,Bargoed
+2025-04-24,158000,CF81 9AW,S,N,F,23,,Bedwellty Road,Aberbargoed,Bargoed
+2025-04-22,125000,CF81 9BN,T,N,F,2,,Cwm Road,Aberbargoed,Bargoed
+2025-04-17,105000,CF81 8RT,T,N,F,25,,Greenfield Street,,Bargoed
+2025-04-11,170000,CF81 8UJ,T,N,F,42,,Moorland Road,,Bargoed
+2025-04-09,95000,CF81 9JP,T,N,F,7,,Glyn Terrace,Fochriw,Bargoed
+2025-04-08,137000,CF81 8JH,T,N,L,3,,Thomas Street,Gilfach,Bargoed
+2025-04-04,92500,CF81 8JH,T,N,L,2,,Thomas Street,Gilfach,Bargoed
+2025-04-02,135000,CF81 8TE,T,N,F,79,,Llancayo Street,,Bargoed
+2025-03-28,246779,CF81 9BF,D,N,F,25,,Marsh Court,Aberbargoed,Bargoed
+2025-03-28,120000,CF81 8TL,T,N,F,23,,Hill Street,,Bargoed
+2025-03-21,130000,CF81 9HW,T,N,F,89,,Bailey Street,Deri,Bargoed
+2025-03-21,125000,CF81 9GJ,T,N,F,19,,New Road,Deri,Bargoed
+2025-03-21,135000,CF81 8SR,T,N,F,54,,Park Road,,Bargoed
+2025-03-21,162500,CF81 8PG,T,N,F,79,,John Street,,Bargoed
+2025-03-20,140000,CF81 9GS,S,N,F,5,,Glyn Derw,Deri,Bargoed
+2025-03-17,178000,CF81 9HW,S,N,F,68,,Bailey Street,Deri,Bargoed
+2025-03-17,153000,CF81 9HU,T,N,F,67,,Bailey Street,Deri,Bargoed
+2025-03-17,120000,CF81 8JL,T,N,L,29,,Llewellyn Street,Gilfach,Bargoed
+2025-03-07,112500,CF81 8NA,T,N,F,68,,Park Place,,Bargoed
+2025-03-06,134000,CF81 9RR,T,N,F,32,,Edmund Street,Pontlottyn,Bargoed
+2025-03-05,276000,CF81 9GJ,D,N,F,Canton House,,New Road,Deri,Bargoed
+2025-03-05,185000,CF81 8PZ,S,N,F,11,,Marwyn Gardens,,Bargoed
+2025-03-04,106000,CF81 9RQ,T,N,F,25,,Duffryn Street,Pontlottyn,Bargoed
+2025-03-03,138000,CF81 9RQ,T,N,F,5,,Duffryn Street,Pontlottyn,Bargoed
+2025-03-03,140000,CF81 8TF,T,N,F,123,,Llancayo Street,,Bargoed
+2025-02-28,120000,CF81 9GG,T,N,F,3A,,Factory Road,,Bargoed
+2025-02-28,149000,CF81 8TJ,T,N,F,9,,Upper North Road,,Bargoed
+2025-02-28,177000,CF81 8RY,T,N,F,22,,Capel Street,,Bargoed
+2025-02-28,225000,CF81 8NJ,S,N,F,83,,Hillside Park,,Bargoed
+2025-02-28,132000,CF81 8ND,T,N,F,7,,William Street,Gilfach,Bargoed
+2025-02-27,120000,CF81 8PG,S,N,F,4,,John Street,,Bargoed
+2025-02-25,240000,CF81 8PL,T,N,F,10,,Park Crescent,,Bargoed
+2025-02-25,280000,CF81 8JT,D,N,F,3,,Gwerthonor Lane,Gilfach,Bargoed
+2025-02-25,118000,CF81 8JL,T,N,F,24,,Llewellyn Street,Gilfach,Bargoed
+2025-02-21,140000,CF81 9RJ,T,N,F,7,,Ty Newydd Street,Pontlottyn,Bargoed
+2025-02-21,68000,CF81 8LR,T,N,F,85,,Gilfach Street,,Bargoed
+2025-02-14,224500,CF81 8JR,S,N,F,5,,Gwerthonor Road,Gilfach,Bargoed
+2025-02-13,160000,CF81 8TB,S,N,F,60,,St Gwladys Avenue,,Bargoed
+2025-02-12,210000,CF81 9DP,S,N,F,33,,Thomas Street,Aberbargoed,Bargoed
+2025-02-07,112000,CF81 8TN,T,N,F,31,,North Road,,Bargoed
+2025-02-03,212000,CF81 8JW,S,N,F,61,,Lewis Crescent,,Bargoed
+2025-01-31,120000,CF81 9PR,S,N,F,Hillside House,,Hill Road,Pontlottyn,Bargoed
+2025-01-31,133000,CF81 9EZ,T,N,F,57,,Cwrt Coch Street,Aberbargoed,Bargoed
+2025-01-31,180000,CF81 8NY,S,N,F,16,,Cardiff Road,,Bargoed
+2025-01-31,240000,CF81 8NP,D,N,F,7,,Denleigh Close,,Bargoed
+2025-01-27,165000,CF81 9EE,T,N,F,41,,Y Ffordd Wen,Aberbargoed,Bargoed
+2025-01-24,95000,CF81 9QR,T,N,F,1,,Brynglas,Pontlottyn,Bargoed
+2025-01-24,102000,CF81 9LF,S,N,F,26,,Coronation Crescent,Fochriw,Bargoed
+2025-01-24,260000,CF81 8LD,D,N,F,Carte Blanche,,Woodland Place,,Bargoed
+2025-01-21,205000,CF81 8PZ,S,N,F,9,,Marwyn Gardens,,Bargoed
+2025-01-15,122000,CF81 9EZ,T,N,F,35,,Cwrt Coch Street,Aberbargoed,Bargoed
+2025-01-13,140000,CF81 9JB,S,N,F,10,,Ogilvie Terrace,Deri,Bargoed
+2025-01-06,138000,CF81 9QJ,S,N,F,6,,Sunnyview,Pontlottyn,Bargoed
+2025-01-06,120000,CF81 9LQ,S,N,F,26,,Hillside,Fochriw,Bargoed
+2024-12-19,145000,CF81 8PH,T,N,F,56,,John Street,,Bargoed
+2024-12-17,157000,CF81 9BZ,T,N,F,12,,Chapel Street,Aberbargoed,Bargoed
+2024-12-17,110000,CF81 9AW,S,N,F,31,,Bedwellty Road,Aberbargoed,Bargoed
+2024-12-16,118000,CF81 8TA,T,N,F,22,,St Gwladys Avenue,,Bargoed
+2024-12-16,115000,CF81 8RL,T,N,F,42,,Usk Road,,Bargoed
+2024-12-13,136000,CF81 9FB,T,N,F,41,,Elm Street,Aberbargoed,Bargoed
+2024-12-13,310000,CF81 8NP,D,N,F,18,,Denleigh Close,,Bargoed
+2024-12-12,255000,CF81 9JB,D,N,F,Ty Erw,,Ogilvie Terrace,Deri,Bargoed
+2024-12-12,147000,CF81 9FT,T,N,F,41,,Pengam Road,Aberbargoed,Bargoed
+2024-12-10,280000,CF81 9NT,D,N,F,Gwernllwyna Farm,,,Deri,Bargoed
+2024-12-05,130000,CF81 8LZ,T,N,F,28,,Park Place,,Bargoed
+2024-12-02,155000,CF81 8PG,T,N,F,15,,John Street,,Bargoed
+2024-11-29,145000,CF81 9FB,T,N,F,11,,Elm Street,Aberbargoed,Bargoed
+2024-11-27,135000,CF81 9BQ,T,N,F,29,,Rockleigh Avenue,Aberbargoed,Bargoed
+2024-11-22,320000,CF81 9EF,D,N,F,4,,Beech Avenue,Aberbargoed,Bargoed
+2024-11-22,189950,CF81 8TQ,T,N,F,71,,Fairways,,Bargoed
+2024-11-18,140000,CF81 9RU,S,N,F,26,,Heol Y Waun,Pontlottyn,Bargoed
+2024-11-12,183000,CF81 8LQ,T,N,F,93,,Gilfach Street,,Bargoed
+2024-11-08,175000,CF81 9QU,D,N,F,40,,Pidwelt Rise,Pontlottyn,Bargoed
+2024-11-08,135000,CF81 9BG,T,N,F,5,,Rhiwamoth Street,Aberbargoed,Bargoed
+2024-11-08,119000,CF81 9BB,T,N,F,3,,Pant Street,Aberbargoed,Bargoed
+2024-11-01,119720,CF81 8SB,T,N,F,91,,West Street,,Bargoed
+2024-11-01,116250,CF81 8RL,T,N,F,43,,Usk Road,,Bargoed
+2024-10-31,125000,CF81 9BD,T,N,F,25,,Neuaddwen Street,Aberbargoed,Bargoed
+2024-10-31,290000,CF81 8UL,D,N,F,Iverlea Bungalow,,Moorland Road,,Bargoed
+2024-10-31,125000,CF81 8NH,S,N,L,10,,St Annes Crescent,,Bargoed
+2024-10-30,103750,CF81 9GG,T,N,F,5,,Factory Road,,Bargoed
+2024-10-29,135000,CF81 9FH,T,N,F,124,,Commercial Street,Aberbargoed,Bargoed
+2024-10-25,105000,CF81 9RH,T,N,F,19,,Greenfield Street,Pontlottyn,Bargoed
+2024-10-25,295000,CF81 9PA,D,N,F,10,,North Rising,Pontlottyn,Bargoed
+2024-10-24,160000,CF81 8NJ,T,N,F,11,,Hillside Park,,Bargoed
+2024-10-24,135000,CF81 8NB,T,N,F,80,,Park Place,,Bargoed
+2024-10-18,150000,CF81 8PD,T,N,F,25,,Ruth Street,,Bargoed
+2024-10-18,125000,CF81 8LT,T,N,F,15,,Eastview Terrace,,Bargoed
+2024-10-17,176000,CF81 8UU,S,N,F,23,,Mount Pleasant,,Bargoed
+2024-10-11,165000,CF81 8TA,S,N,F,56,,St Gwladys Avenue,,Bargoed
+2024-09-27,142000,CF81 9JP,T,N,F,6,,Glyn Terrace,Fochriw,Bargoed
+2024-09-27,155000,CF81 8NE,T,N,F,4,,Alfred Street,Gilfach,Bargoed
+2024-09-23,145000,CF81 9FT,T,N,F,69,,Pengam Road,Aberbargoed,Bargoed
+2024-09-23,334995,CF81 9EG,D,N,F,14,,Oak Grove,Aberbargoed,Bargoed
+2024-09-23,82500,CF81 8QP,T,N,F,259,,Park View,,Bargoed
+2024-09-23,155000,CF81 8NG,T,N,F,7,,St Mary Street,,Bargoed
+2024-09-20,155000,CF81 8PX,S,N,F,10,,Western Drive,,Bargoed
+2024-09-19,130000,CF81 9JS,T,N,F,20,,Brook Row,Fochriw,Bargoed
+2024-09-19,225000,CF81 9EF,S,N,F,8,,Beech Avenue,Aberbargoed,Bargoed
+2024-09-17,181000,CF81 8JQ,T,N,F,Clifton Villa,,Gwerthonor Place,Gilfach,Bargoed
+2024-09-12,195000,CF81 9FU,T,N,F,50,,Pengam Road,Aberbargoed,Bargoed
+2024-09-12,280000,CF81 9FN,D,N,F,Hope House,,Ty Fry Road,Aberbargoed,Bargoed
+2024-09-11,120000,CF81 8SU,T,N,F,35,,South Street,,Bargoed
+2024-09-09,110000,CF81 8QH,T,N,F,5,,Heol Caradoc,,Bargoed
+2024-09-06,145500,CF81 8RZ,T,N,F,27,,West Street,,Bargoed
+2024-09-02,153000,CF81 8JH,T,N,L,9,,Thomas Street,Gilfach,Bargoed
+2024-08-30,212000,CF81 8TQ,S,N,F,54,,Fairways,,Bargoed
+2024-08-30,140000,CF81 8TA,S,N,F,50,,St Gwladys Avenue,,Bargoed
+2024-08-30,173000,CF81 8ST,T,N,F,6,,South Street,,Bargoed
+2024-08-30,154000,CF81 8LW,T,N,F,25,,Park Place,,Bargoed
+2024-08-23,115000,CF81 9RR,T,N,F,13,,Edmund Street,Pontlottyn,Bargoed
+2024-08-23,94000,CF81 9LQ,S,N,F,22,,Hillside,Fochriw,Bargoed
+2024-08-23,166000,CF81 9DP,S,N,F,31,,Thomas Street,Aberbargoed,Bargoed
+2024-08-23,140000,CF81 8PG,T,N,F,71,,John Street,,Bargoed
+2024-08-22,120000,CF81 9RA,T,N,F,6,,Church Street,Pontlottyn,Bargoed
+2024-08-21,280000,CF81 9EE,D,N,F,27,,Y Ffordd Wen,Aberbargoed,Bargoed
+2024-08-16,118000,CF81 9FA,T,N,F,8,,Cwrt Coch Street,Aberbargoed,Bargoed
+2024-08-16,170000,CF81 8TB,S,N,F,64,,St Gwladys Avenue,,Bargoed
+2024-08-14,195000,CF81 8RY,T,N,L,9,,Capel Street,,Bargoed
+2024-08-09,196000,CF81 8TQ,S,N,F,33,,Fairways,,Bargoed
+2024-08-07,130000,CF81 9RF,T,N,F,2,,Fairview Terrace,Pontlottyn,Bargoed
+2024-08-05,119000,CF81 9HY,T,N,F,4,,Jenkins Row,Deri,Bargoed
+2024-08-02,120000,CF81 9NL,T,N,F,13,,Glenview Terrace,Pentwyn,Bargoed
+2024-07-26,110000,CF81 8NB,T,N,F,132,,Park Place,,Bargoed
+2024-07-25,99500,CF81 8QJ,T,N,F,37,,Heol Coedcae,,Bargoed
+2024-07-23,158000,CF81 8LD,T,N,F,16,,Woodland Place,,Bargoed
+2024-07-19,130000,CF81 9FB,T,N,F,81,,Elm Street,Aberbargoed,Bargoed
+2024-07-18,136950,CF81 9GH,T,N,F,11,,Groesfaen Terrace,Deri,Bargoed
+2024-07-18,250000,CF81 8NJ,S,N,F,75,,Hillside Park,,Bargoed
+2024-07-17,173500,CF81 9JF,D,N,F,3,,Woodland Rise,Deri,Bargoed
+2024-07-16,125000,CF81 9BT,T,N,F,19,,Commercial Street,Aberbargoed,Bargoed
+2024-07-15,150000,CF81 9GJ,T,N,F,29,,New Road,Deri,Bargoed
+2024-07-15,180000,CF81 8NJ,D,N,F,15,,Hillside Park,,Bargoed
+2024-07-12,98000,CF81 9FB,T,N,F,1,,Elm Street,Aberbargoed,Bargoed
+2024-07-12,118500,CF81 8SD,F,Y,L,Cae'R Bedw,5,William Street,Gilfach,Bargoed
+2024-07-05,137500,CF81 9FA,T,N,F,66,,Cwrt Coch Street,Aberbargoed,Bargoed
+2024-07-03,225000,CF81 8JE,S,N,L,44,,Maes Y Graig Street,,Bargoed
+2024-06-28,65000,CF81 9BW,T,N,F,24,,Commercial Street,Aberbargoed,Bargoed
+2024-06-28,100000,CF81 8UJ,T,N,F,42,,Moorland Road,,Bargoed
+2024-06-21,115000,CF81 9LQ,S,N,F,13,,Hillside,Fochriw,Bargoed
+2024-06-21,334000,CF81 9AE,D,N,F,11,,Bedwellty Road,Aberbargoed,Bargoed
+2024-06-21,232000,CF81 8PZ,S,N,F,20,,Marwyn Gardens,,Bargoed
+2024-06-14,177500,CF81 8US,S,N,F,69,,Heolddu Crescent,,Bargoed
+2024-06-07,160000,CF81 9RD,T,N,F,20,,Garth Street,Pontlottyn,Bargoed
+2024-06-07,100000,CF81 9JY,S,N,F,107,,Glan Y Nant,Fochriw,Bargoed
+2024-06-07,165000,CF81 9GQ,D,N,F,13,,Chapel Street,Deri,Bargoed
+2024-06-07,157000,CF81 8UA,T,N,F,7,,Henry Street,,Bargoed
+2024-05-31,77000,CF81 9RJ,T,N,F,7,,Ty Newydd Street,Pontlottyn,Bargoed
+2024-05-31,315000,CF81 9EE,D,N,F,11,,Y Ffordd Wen,Aberbargoed,Bargoed
+2024-05-31,137000,CF81 8PH,T,N,F,26,,John Street,,Bargoed
+2024-05-24,168000,CF81 8UJ,T,N,F,38,,Moorland Road,,Bargoed
+2024-05-23,207000,CF81 9EF,S,N,F,21,,Beech Avenue,Aberbargoed,Bargoed
+2024-05-21,290000,CF81 9EE,D,N,F,38,,Y Ffordd Wen,Aberbargoed,Bargoed
+2024-05-17,77500,CF81 9RT,S,N,F,38,,Danygraig,Pontlottyn,Bargoed
+2024-05-17,85000,CF81 9LL,S,N,F,3,,Pontlottyn Road,Fochriw,Bargoed
+2024-05-17,290000,CF81 9EE,D,N,F,24,,Y Ffordd Wen,Aberbargoed,Bargoed
+2024-05-17,133000,CF81 8RT,T,N,F,28,,Greenfield Street,,Bargoed
+2024-05-16,85500,CF81 9QN,T,N,F,91,,Brynhyfryd,Pontlottyn,Bargoed
+2024-05-14,90000,CF81 8LX,T,N,F,61,,Park Place,,Bargoed
+2024-05-13,120000,CF81 9FD,T,N,F,64,,Elm Street,Aberbargoed,Bargoed
+2024-05-13,115000,CF81 8NG,T,N,L,10,,St Mary Street,,Bargoed
+2024-05-10,195000,CF81 9PA,S,N,F,13,,North Rising,Pontlottyn,Bargoed
+2024-05-10,112000,CF81 9FT,S,N,F,37,,Pengam Road,Aberbargoed,Bargoed
+2024-05-03,135000,CF81 9QS,T,N,F,62,,Brynglas,Pontlottyn,Bargoed
+2024-05-03,119000,CF81 9FF,T,N,F,49,,Church Street,Aberbargoed,Bargoed
+2024-05-03,260000,CF81 8JS,S,N,F,Brynderi,,Gwerthonor Road,Gilfach,Bargoed
+2024-04-26,134000,CF81 8PG,T,N,F,10,,John Street,,Bargoed
+2024-04-22,175000,CF81 8NB,T,N,F,126,,Park Place,,Bargoed
+2024-04-19,91000,CF81 8SW,T,N,F,19,,Heolddu Road,,Bargoed
+2024-04-19,175000,CF81 8LD,T,N,F,10,,Woodland Place,,Bargoed
+2024-04-18,95000,CF81 9LL,S,N,F,10,,Pontlottyn Road,Fochriw,Bargoed
+2024-04-15,250000,CF81 9GW,D,N,F,31,,Cefn Road Upper,Deri,Bargoed
+2024-04-12,184995,CF81 9EF,S,Y,F,16,,Beech Avenue,Aberbargoed,Bargoed
+2024-04-10,265000,CF81 8PQ,D,N,F,Bellfield,,Heol Fargoed,,Bargoed
+2024-04-08,267500,CF81 9BF,D,N,F,39,,Marsh Court,Aberbargoed,Bargoed
+2024-03-22,170000,CF81 8PJ,D,N,F,5,,Park Drive,,Bargoed
+2024-03-14,111300,CF81 9ET,T,N,F,13,,Duffryn Street,Aberbargoed,Bargoed
+2024-03-08,82000,CF81 9FA,T,N,F,64,,Cwrt Coch Street,Aberbargoed,Bargoed
+2024-03-08,205000,CF81 8TR,S,N,F,Glen Ina,,Vicarage Lane,,Bargoed
+2024-03-06,85000,CF81 8RJ,T,N,F,17,,Usk Road,,Bargoed
+2024-03-04,180000,CF81 9QA,D,N,F,Hillcrest,,Mount Street,Pontlottyn,Bargoed
+2024-03-04,133000,CF81 8SW,S,N,F,13,,Heolddu Road,,Bargoed
+2024-03-01,139000,CF81 8SB,T,N,F,92,,West Street,,Bargoed
+2024-02-29,150000,CF81 8TE,T,N,F,49,,Llancayo Street,,Bargoed
+2024-02-26,195000,CF81 9DW,S,N,F,5,,Highfield Crescent,Aberbargoed,Bargoed
+2024-02-23,165000,CF81 8SQ,T,N,F,18,,Park Road,,Bargoed
+2024-02-23,149000,CF81 8PE,T,N,F,42,,Ruth Street,,Bargoed
+2024-02-23,160000,CF81 8LT,T,N,F,21,,Eastview Terrace,,Bargoed
+2024-02-16,125000,CF81 9BS,T,N,F,5,,Ty Llwyd Walk,Aberbargoed,Bargoed
+2024-02-16,174000,CF81 8UR,S,N,F,39,,Heolddu Crescent,,Bargoed
+2024-02-16,82000,CF81 8RQ,T,N,F,8,,Heolddu Road,,Bargoed
+2024-02-16,145000,CF81 8JH,T,N,F,7,,Thomas Street,Gilfach,Bargoed
+2024-02-05,108000,CF81 8RJ,T,N,F,16,,Usk Road,,Bargoed
+2024-02-02,203000,CF81 8TA,S,N,F,32,,St Gwladys Avenue,,Bargoed
+2024-01-26,280000,CF81 9EE,D,N,F,8,,Y Ffordd Wen,Aberbargoed,Bargoed
+2024-01-26,124000,CF81 8PG,T,N,F,13,,John Street,,Bargoed
+2024-01-25,125000,CF81 9BQ,S,N,F,21,,Rockleigh Avenue,Aberbargoed,Bargoed
+2023-12-20,75000,CF81 9JW,T,N,F,37,,Ael Y Bryn Street,Fochriw,Bargoed
+2023-12-20,305000,CF81 8NW,S,N,F,Gwenllwyn,,Wood Street,,Bargoed
+2023-12-19,62000,CF81 8LQ,T,N,L,111,,Gilfach Street,,Bargoed
+2023-12-15,102000,CF81 8QP,T,N,F,267,,Park View,,Bargoed
+2023-12-08,145000,CF81 8UT,S,N,F,1,,Heolddu Avenue,,Bargoed
+2023-12-08,98000,CF81 8TA,T,N,F,14,,St Gwladys Avenue,,Bargoed
+2023-12-08,105000,CF81 8RW,T,N,F,68,,Greenfield Street,,Bargoed
+2023-12-08,150000,CF81 8JW,S,N,F,55,,Lewis Crescent,,Bargoed
+2023-12-06,78000,CF81 8JG,T,N,L,2,,Commercial Street,Gilfach,Bargoed
+2023-12-01,93000,CF81 9RH,T,N,F,11,,Greenfield Street,Pontlottyn,Bargoed
+2023-12-01,95000,CF81 9QR,T,N,F,7,,Brynglas,Pontlottyn,Bargoed
+2023-11-30,206000,CF81 9RN,D,N,F,Avonlea,,Southend Terrace,Pontlottyn,Bargoed
+2023-11-29,282995,CF81 9EG,D,N,F,16,,Oak Grove,Aberbargoed,Bargoed
+2023-11-29,155000,CF81 8RJ,T,N,F,56,,Usk Road,,Bargoed
+2023-11-28,100000,CF81 9FB,T,N,F,45,,Elm Street,Aberbargoed,Bargoed
+2023-11-28,85000,CF81 8SB,T,N,F,92,,West Street,,Bargoed
+2023-11-27,87000,CF81 9BB,T,N,F,2,,Pant Street,Aberbargoed,Bargoed
+2023-11-24,115000,CF81 9RD,T,N,F,10,,Garth Street,Pontlottyn,Bargoed
+2023-11-24,105000,CF81 9BY,T,N,F,10,,Mount Pleasant Street,Aberbargoed,Bargoed
+2023-11-24,105000,CF81 9BD,T,N,F,5,,Neuaddwen Street,Aberbargoed,Bargoed
+2023-11-20,148000,CF81 9QU,T,N,F,16C,,Pidwelt Rise,Pontlottyn,Bargoed
+2023-11-17,139500,CF81 9HU,T,N,F,39,,Bailey Street,Deri,Bargoed
+2023-11-16,125000,CF81 8TL,T,N,F,11,,Hill Street,,Bargoed
+2023-11-10,120000,CF81 9HE,T,N,F,2,,Watsons Row,Deri,Bargoed
+2023-11-10,160000,CF81 8PF,T,N,F,4,,Upper Wood Street,,Bargoed
+2023-11-08,135000,CF81 8JP,S,N,F,21,,Gwerthonor Place,Gilfach,Bargoed
+2023-11-03,75000,CF81 9BD,T,N,F,13,,Neuaddwen Street,Aberbargoed,Bargoed
+2023-11-03,120000,CF81 8NF,T,N,F,17,,St Ann Street,,Bargoed
+2023-10-31,185000,CF81 8LS,T,N,F,63,,Gilfach Street,,Bargoed
+2023-10-27,147000,CF81 9GJ,T,N,F,8,,New Road,Deri,Bargoed
+2023-10-27,160000,CF81 9ES,T,N,F,9,,Tredegar Terrace,Aberbargoed,Bargoed
+2023-10-27,179950,CF81 8TS,S,N,L,2,,Llancayo Park,,Bargoed
+2023-10-27,118000,CF81 8LT,T,N,F,20,,Eastview Terrace,,Bargoed
+2023-10-26,105000,CF81 8RL,T,N,F,42,,Usk Road,,Bargoed
+2023-10-20,130000,CF81 9QS,T,N,F,12,,Brynglas,Pontlottyn,Bargoed
+2023-10-19,116000,CF81 9HX,T,N,F,109,,Bailey Street,Deri,Bargoed
+2023-10-19,117000,CF81 8PR,F,N,L,24,,Hillside View,,Bargoed
+2023-10-06,150000,CF81 9RT,S,N,F,30,,Danygraig,Pontlottyn,Bargoed
+2023-10-06,135000,CF81 9EU,T,N,F,109,,Commercial Street,Aberbargoed,Bargoed
+2023-10-06,157000,CF81 9BA,T,N,F,54,,Bedwellty Road,Aberbargoed,Bargoed
+2023-10-06,133000,CF81 8LX,T,N,F,73,,Park Place,,Bargoed
+2023-09-29,125000,CF81 8TF,T,N,F,131,,Llancayo Street,,Bargoed
+2023-09-29,175000,CF81 8PH,T,N,F,32,,John Street,,Bargoed
+2023-09-27,90000,CF81 8LD,T,N,F,10,,Woodland Place,,Bargoed
+2023-09-22,119000,CF81 8JQ,T,N,F,12,,Gwerthonor Place,Gilfach,Bargoed
+2023-09-21,158000,CF81 8NF,T,N,F,7,,St Ann Street,,Bargoed
+2023-09-20,90000,CF81 8UB,S,N,F,37,,Henry Street,,Bargoed
+2023-09-15,147000,CF81 8PD,T,N,F,21,,Ruth Street,,Bargoed
+2023-09-15,405000,CF81 8JR,S,N,F,1,,Gwerthonor Road,Gilfach,Bargoed
+2023-09-14,88000,CF81 8RW,T,N,F,64,,Greenfield Street,,Bargoed
+2023-09-07,319000,CF81 9EF,D,N,F,23,,Beech Avenue,Aberbargoed,Bargoed
+2023-09-05,87000,CF81 9BT,T,N,F,9,,Commercial Street,Aberbargoed,Bargoed
+2023-09-01,135000,CF81 9RQ,T,N,F,30,,Duffryn Street,Pontlottyn,Bargoed
+2023-09-01,98000,CF81 9LL,S,N,F,28,,Pontlottyn Road,Fochriw,Bargoed
+2023-09-01,184995,CF81 9EF,S,Y,F,18,,Beech Avenue,Aberbargoed,Bargoed
+2023-08-31,125000,CF81 8PG,T,N,F,69,,John Street,,Bargoed
+2023-08-31,190000,CF81 8JW,T,N,F,34,,Lewis Crescent,,Bargoed
+2023-08-30,60000,CF81 9LL,S,N,F,30,,Pontlottyn Road,Fochriw,Bargoed
+2023-08-30,165000,CF81 8PD,T,N,F,2,,Ruth Street,,Bargoed
+2023-08-25,169000,CF81 8JE,T,N,L,29,,Maes Y Graig Street,,Bargoed
+2023-08-21,127000,CF81 9AX,T,N,F,83,,Bedwellty Road,Aberbargoed,Bargoed
+2023-08-18,70000,CF81 9QS,T,N,F,42,,Brynglas,Pontlottyn,Bargoed
+2023-08-18,122000,CF81 8TS,T,N,F,33,,Llancayo Park,,Bargoed
+2023-08-18,118000,CF81 8TE,T,N,F,43,,Llancayo Street,,Bargoed
+2023-08-17,95000,CF81 8SA,T,N,F,65,,West Street,,Bargoed
+2023-08-17,177500,CF81 8NW,T,N,F,7,,Wood Street,,Bargoed
+2023-08-11,132000,CF81 9FD,T,N,F,12,,Elm Street,Aberbargoed,Bargoed
+2023-08-11,180000,CF81 8LR,T,N,F,29,,Gilfach Street,,Bargoed
+2023-08-10,155000,CF81 8RJ,T,N,F,59,,Usk Road,,Bargoed
+2023-08-02,115000,CF81 8US,S,N,F,67,,Heolddu Crescent,,Bargoed
+2023-07-31,132000,CF81 8RZ,T,N,F,27,,West Street,,Bargoed
+2023-07-28,120000,CF81 9QG,D,N,F,Bryn-Onnen,,Farm Road,Pontlottyn,Bargoed
+2023-07-28,268000,CF81 9EE,D,N,F,15,,Y Ffordd Wen,Aberbargoed,Bargoed
+2023-07-28,155000,CF81 9BE,T,N,F,7,,Yew Street,Aberbargoed,Bargoed
+2023-07-28,152000,CF81 8SQ,T,N,F,32,,Park Road,,Bargoed
+2023-07-28,167000,CF81 8RY,T,N,F,26,,Capel Street,,Bargoed
+2023-07-28,115000,CF81 8RT,T,N,F,30,,Greenfield Street,,Bargoed
+2023-07-25,77500,CF81 9GY,T,N,F,17,,School Street,Deri,Bargoed
+2023-07-21,163500,CF81 8RF,T,N,F,4,,Bristol Terrace,,Bargoed
+2023-07-21,140000,CF81 8JE,S,N,F,6,,Maes Y Graig Street,,Bargoed
+2023-07-20,142000,CF81 8NE,T,N,F,13,,Alfred Street,Gilfach,Bargoed
+2023-07-20,185000,CF81 8JW,S,N,F,42,,Lewis Crescent,,Bargoed
+2023-07-17,125000,CF81 8SD,F,Y,L,Cae'R Bedw,4,William Street,Gilfach,Bargoed
+2023-07-14,85000,CF81 9EZ,T,N,F,57,,Cwrt Coch Street,Aberbargoed,Bargoed
+2023-07-14,160000,CF81 8TN,T,N,F,1,,North Road,,Bargoed
+2023-07-10,198000,CF81 8SU,T,N,F,50,,South Street,,Bargoed
+2023-07-10,210000,CF81 8NP,S,N,F,1,,Denleigh Close,,Bargoed
+2023-07-10,225000,CF81 8NJ,D,N,F,45,,Hillside Park,,Bargoed
+2023-07-07,120000,CF81 8SD,F,Y,L,Cae'R Bedw,10,William Street,Gilfach,Bargoed
+2023-06-30,200000,CF81 9BH,S,N,F,45,,Sannan Street,Aberbargoed,Bargoed
+2023-06-30,105000,CF81 8QB,T,N,F,38,,Heol Cae Derwen,,Bargoed
+2023-06-30,112500,CF81 8LY,T,N,F,105,,Park Place,,Bargoed
+2023-06-28,95000,CF81 9GQ,T,N,F,4,,Chapel Street,Deri,Bargoed
+2023-06-27,105000,CF81 9BD,T,N,F,22,,Neuaddwen Street,Aberbargoed,Bargoed
+2023-06-26,220000,CF81 8JS,S,N,F,27,,Gwerthonor Road,Gilfach,Bargoed
+2023-06-23,70000,CF81 9FD,T,N,F,84,,Elm Street,Aberbargoed,Bargoed
+2023-06-23,284995,CF81 9EJ,D,Y,F,12,,Poplar Road,Aberbargoed,Bargoed
+2023-06-21,130000,CF81 9BY,T,N,F,8,,Mount Pleasant Street,Aberbargoed,Bargoed
+2023-06-21,80000,CF81 8LU,T,N,F,32,,Eastview Terrace,,Bargoed
+2023-06-16,312995,CF81 9EJ,D,Y,F,14,,Poplar Road,Aberbargoed,Bargoed
+2023-06-15,225000,CF81 9RL,S,N,F,Osborne Villa,,Southend Terrace,Pontlottyn,Bargoed
+2023-06-12,175000,CF81 9DS,S,N,F,48,,Coed Y Moeth Road,Aberbargoed,Bargoed
+2023-06-09,200000,CF81 8PJ,S,N,F,9,,Park Drive,,Bargoed
+2023-06-01,104000,CF81 8PD,T,N,F,4,,Ruth Street,,Bargoed
+2023-05-31,135000,CF81 8SA,T,N,F,47,,West Street,,Bargoed
+2023-05-26,120000,CF81 8SD,F,Y,L,Cae'R Bedw,11,William Street,Gilfach,Bargoed
+2023-05-24,120000,CF81 8SD,F,Y,L,Cae'R Bedw,9,William Street,Gilfach,Bargoed
+2023-05-22,120000,CF81 8NG,T,N,F,8,,St Mary Street,,Bargoed
+2023-05-19,219000,CF81 9EG,S,N,F,6,,Oak Grove,Aberbargoed,Bargoed
+2023-05-19,170000,CF81 8JW,S,N,F,48,,Lewis Crescent,,Bargoed
+2023-05-12,139000,CF81 9QU,T,N,F,37,,Pidwelt Rise,Pontlottyn,Bargoed
+2023-05-12,165000,CF81 8RY,T,N,F,22,,Capel Street,,Bargoed
+2023-05-05,160000,CF81 9BQ,S,N,F,20,,Rockleigh Avenue,Aberbargoed,Bargoed
+2023-05-05,285000,CF81 8JT,D,N,F,5,,Gwerthonor Lane,Gilfach,Bargoed
+2023-05-05,285000,CF81 8JT,D,N,F,13,,Gwerthonor Lane,Gilfach,Bargoed
+2023-05-05,150000,CF81 8JS,D,N,F,Oak Cottage,,Gwerthonor Road,Gilfach,Bargoed
+2023-05-04,150000,CF81 9FH,T,N,F,152,,Commercial Street,Aberbargoed,Bargoed
+2023-05-04,109995,CF81 8PU,S,N,F,8,,Brynteg,Gilfach,Bargoed
+2023-04-28,148000,CF81 9RD,T,N,F,20,,Garth Street,Pontlottyn,Bargoed
+2023-04-28,110000,CF81 9LQ,S,N,F,13,,Hillside,Fochriw,Bargoed
+2023-04-28,182995,CF81 9EJ,S,Y,F,18,,Poplar Road,Aberbargoed,Bargoed
+2023-04-28,182995,CF81 9EJ,S,Y,F,16,,Poplar Road,Aberbargoed,Bargoed
+2023-04-28,83500,CF81 8TJ,T,N,F,15,,Upper North Road,,Bargoed
+2023-04-21,95000,CF81 8SD,F,Y,L,Cae'R Bedw,7,William Street,Gilfach,Bargoed
+2023-04-20,93500,CF81 8TS,T,N,F,31,,Llancayo Park,,Bargoed
+2023-04-18,152000,CF81 8PG,T,N,F,19,,John Street,,Bargoed
+2023-04-17,145000,CF81 9BH,S,N,F,41,,Sannan Street,Aberbargoed,Bargoed
+2023-04-14,166000,CF81 8NY,F,N,L,Gilfach Fargoed Fawr Farm,Flat 4,Cardiff Road,,Bargoed
+2023-04-12,105000,CF81 9JU,T,N,F,3,,Pleasant View,Fochriw,Bargoed
+2023-03-31,100000,CF81 9QY,T,N,F,14,,Station Street,Pontlottyn,Bargoed
+2023-03-31,110000,CF81 8RZ,S,N,F,28,,West Street,,Bargoed
+2023-03-31,155000,CF81 8PD,T,N,F,17,,Ruth Street,,Bargoed
+2023-03-31,148000,CF81 8JN,T,N,F,18,,Margaret Street,Gilfach,Bargoed
+2023-03-30,143000,CF81 8PG,T,N,F,15,,John Street,,Bargoed
+2023-03-24,145000,CF81 9QH,T,N,F,"Oaklands, 13",,Fochriw Road,Pontlottyn,Bargoed
+2023-03-24,124000,CF81 9GG,T,N,F,10,,Factory Road,,Bargoed
+2023-03-24,122500,CF81 8SD,F,Y,L,Cae'R Bedw,8,William Street,Gilfach,Bargoed
+2023-03-24,191000,CF81 8NY,F,N,L,Gilfach Fargoed Fawr Farm,Flat 2,Cardiff Road,,Bargoed
+2023-03-23,400000,CF81 8NL,S,N,F,64,,Hillside Park,,Bargoed
+2023-03-20,152500,CF81 8PG,T,N,F,79,,John Street,,Bargoed
+2023-03-17,150000,CF81 9BH,S,N,F,1,,Sannan Street,Aberbargoed,Bargoed
+2023-03-17,150000,CF81 8SR,T,N,F,56,,Park Road,,Bargoed
+2023-03-16,188000,CF81 9BJ,S,N,F,2,,Sannan Street,Aberbargoed,Bargoed
+2023-03-15,170000,CF81 8JL,D,N,F,17,,Llewellyn Street,Gilfach,Bargoed
+2023-03-14,103000,CF81 9HT,T,N,F,3,,Bailey Street,Deri,Bargoed
+2023-03-09,328995,CF81 9EH,D,Y,F,11,,Birch Way,Aberbargoed,Bargoed
+2023-03-08,155000,CF81 9JU,T,N,F,8,,Pleasant View,Fochriw,Bargoed
+2023-03-08,110000,CF81 9GU,T,N,F,6,,Deri Newydd,Deri,Bargoed
+2023-03-08,180000,CF81 9GQ,D,N,F,12,,Chapel Street,Deri,Bargoed
+2023-03-06,129000,CF81 9RJ,T,N,F,5,,Ty Newydd Street,Pontlottyn,Bargoed
+2023-03-03,185000,CF81 8UE,S,N,F,30,,Mcdonnell Road,,Bargoed
+2023-03-03,120000,CF81 8TS,T,N,F,18,,Llancayo Park,,Bargoed
+2023-03-01,155000,CF81 8JS,S,N,F,19,,Gwerthonor Road,Gilfach,Bargoed
+2023-02-28,357995,CF81 9EH,D,Y,F,9,,Birch Way,Aberbargoed,Bargoed
+2023-02-28,156000,CF81 8PH,T,N,F,41,,John Street,,Bargoed
+2023-02-21,148000,CF81 8TN,T,N,F,14,,North Road,,Bargoed
+2023-02-21,140000,CF81 8TD,T,N,F,13,,Llancayo Street,,Bargoed
+2023-02-16,128000,CF81 8SR,T,N,F,57,,Park Road,,Bargoed
+2023-02-15,165000,CF81 8TN,T,N,F,11,,North Road,,Bargoed
+2023-02-10,167500,CF81 9BJ,S,N,F,62,,Sannan Street,Aberbargoed,Bargoed
+2023-02-10,135000,CF81 9BG,T,N,F,5,,Rhiwamoth Street,Aberbargoed,Bargoed
+2023-02-03,120000,CF81 9DP,S,N,F,29,,Thomas Street,Aberbargoed,Bargoed
+2023-02-03,85000,CF81 8RQ,T,N,F,67,,Heolddu Road,,Bargoed
+2023-02-03,87000,CF81 8NH,T,N,L,11,,St Annes Crescent,,Bargoed
+2023-01-31,335995,CF81 9EH,D,Y,F,7,,Birch Way,Aberbargoed,Bargoed
+2023-01-30,270000,CF81 9BF,D,N,F,2,,Marsh Court,Aberbargoed,Bargoed
+2023-01-27,90000,CF81 9RT,T,N,F,32,,Danygraig,Pontlottyn,Bargoed
+2023-01-27,110000,CF81 8RQ,S,N,F,72,,Heolddu Road,,Bargoed
+2023-01-27,105000,CF81 8QD,T,N,F,9,,Heol Pencarreg,,Bargoed
+2023-01-17,50100,CF81 9QS,T,N,F,12,,Brynglas,Pontlottyn,Bargoed
+2023-01-16,78000,CF81 8JJ,T,N,L,5,,Railway Terrace,Gilfach,Bargoed
+2023-01-12,125000,CF81 9RL,T,N,F,Tan-Y-Mynydd,,Southend Terrace,Pontlottyn,Bargoed
+2023-01-11,90000,CF81 8JA,T,N,F,9,,Aeron Place,,Bargoed
+2023-01-04,125000,CF81 9GJ,T,N,F,10,,New Road,Deri,Bargoed
+2023-01-03,170000,CF81 9FT,T,N,F,23,,Pengam Road,Aberbargoed,Bargoed
+2022-12-21,98000,CF81 9LD,S,N,F,19,,Heol Iago,Fochriw,Bargoed
+2022-12-21,325000,CF81 8QF,D,N,F,1,,Oakland Gardens,,Bargoed
+2022-12-21,151000,CF81 8NJ,T,N,F,7,,Hillside Park,,Bargoed
+2022-12-19,200000,CF81 9DU,S,N,F,40,,Pant Y Fid Road,Aberbargoed,Bargoed
+2022-12-19,125000,CF81 8LT,T,N,F,5A,,Eastview Terrace,,Bargoed
+2022-12-16,315000,CF81 9EE,D,N,F,18,,Y Ffordd Wen,Aberbargoed,Bargoed
+2022-12-16,167000,CF81 8UN,S,N,F,4,,Heolddu Green,,Bargoed
+2022-12-16,164000,CF81 8PF,T,N,F,9,,Upper Wood Street,,Bargoed
+2022-12-16,75000,CF81 8JE,T,N,L,29,,Maes Y Graig Street,,Bargoed
+2022-12-15,138000,CF81 9GP,T,N,F,12,,Cefn Road,Deri,Bargoed
+2022-12-15,119995,CF81 8PU,S,N,F,2,,Brynteg,Gilfach,Bargoed
+2022-12-14,326995,CF81 9EH,D,Y,F,5,,Birch Way,Aberbargoed,Bargoed
+2022-12-14,130000,CF81 8UE,T,N,F,38,,Mcdonnell Road,,Bargoed
+2022-12-12,326995,CF81 9EJ,D,Y,F,8,,Poplar Road,Aberbargoed,Bargoed
+2022-12-12,190000,CF81 8PH,T,N,F,35,,John Street,,Bargoed
+2022-12-09,145000,CF81 9JD,S,N,F,17,,Hillside Terrace,Deri,Bargoed
+2022-12-09,137500,CF81 9GT,T,N,F,2,,Morgan Terrace,Deri,Bargoed
+2022-12-09,225995,CF81 9EH,S,Y,F,3,,Birch Way,Aberbargoed,Bargoed
+2022-12-09,226995,CF81 9EH,S,Y,F,1,,Birch Way,Aberbargoed,Bargoed
+2022-12-08,123000,CF81 9DT,S,N,F,31,,Pant Y Fid Road,Aberbargoed,Bargoed
+2022-12-08,88000,CF81 8NR,T,N,F,46,,Ash Place,,Bargoed
+2022-12-08,125000,CF81 8NF,T,N,F,5,,St Ann Street,,Bargoed
+2022-12-02,124000,CF81 8RS,T,N,F,48,,Francis Street,,Bargoed
+2022-12-01,144000,CF81 8RW,T,N,F,61,,Greenfield Street,,Bargoed
+2022-11-25,231000,CF81 8PL,T,N,F,9,,Park Crescent,,Bargoed
+2022-11-25,234000,CF81 8PL,T,N,F,14,,Park Crescent,,Bargoed
+2022-11-25,130000,CF81 8JA,T,N,F,16,,Aeron Place,,Bargoed
+2022-11-21,127000,CF81 9EZ,T,N,F,38,,Cwrt Coch Street,Aberbargoed,Bargoed
+2022-11-17,93000,CF81 9HX,T,N,F,125,,Bailey Street,Deri,Bargoed
+2022-11-16,325000,CF81 9JG,D,N,F,Ogilvie Court,2,Ogilvie Terrace,Deri,Bargoed
+2022-11-15,117500,CF81 9RR,T,N,F,6,,Edmund Street,Pontlottyn,Bargoed
+2022-11-15,115000,CF81 8PP,F,N,L,20,,Heol Fargoed,,Bargoed
+2022-11-11,340000,CF81 9EE,D,N,F,44,,Y Ffordd Wen,Aberbargoed,Bargoed
+2022-11-11,205000,CF81 8UR,S,N,F,41,,Heolddu Crescent,,Bargoed
+2022-11-11,147500,CF81 8ST,T,N,F,16,,South Street,,Bargoed
+2022-11-11,132500,CF81 8RN,T,N,F,7,,Church Street,,Bargoed
+2022-11-10,180000,CF81 9JD,T,N,F,5,,Hillside Terrace,Deri,Bargoed
+2022-11-07,275000,CF81 9BF,D,N,F,37,,Marsh Court,Aberbargoed,Bargoed
+2022-11-04,124000,CF81 8JH,T,N,F,8,,Thomas Street,Gilfach,Bargoed
+2022-11-03,355995,CF81 9EH,D,Y,F,8,,Birch Way,Aberbargoed,Bargoed
+2022-11-03,223995,CF81 9EH,S,Y,F,4,,Birch Way,Aberbargoed,Bargoed
+2022-10-31,115000,CF81 9RR,T,N,F,17,,Edmund Street,Pontlottyn,Bargoed
+2022-10-31,153000,CF81 9JP,T,N,F,6,,Glyn Terrace,Fochriw,Bargoed
+2022-10-28,156000,CF81 9ES,T,N,F,3,,Tredegar Terrace,Aberbargoed,Bargoed
+2022-10-28,120000,CF81 9AX,T,N,F,81,,Bedwellty Road,Aberbargoed,Bargoed
+2022-10-28,125000,CF81 8JB,T,N,F,5,,Victoria Place,,Bargoed
+2022-10-27,120000,CF81 8RW,T,N,F,70,,Greenfield Street,,Bargoed
+2022-10-27,130000,CF81 8LY,T,N,F,123,,Park Place,,Bargoed
+2022-10-26,224995,CF81 9EH,S,Y,F,6,,Birch Way,Aberbargoed,Bargoed
+2022-10-21,110000,CF81 9QY,T,N,F,9,,Station Street,Pontlottyn,Bargoed
+2022-10-21,120000,CF81 9FD,T,N,F,46,,Elm Street,Aberbargoed,Bargoed
+2022-10-21,110000,CF81 8UE,T,N,F,22,,Mcdonnell Road,,Bargoed
+2022-10-14,202995,CF81 9EH,S,Y,F,10,,Birch Way,Aberbargoed,Bargoed
+2022-10-14,130000,CF81 8LR,T,N,F,30,,Gilfach Street,,Bargoed
+2022-10-12,85000,CF81 8ND,T,N,F,5,,William Street,Gilfach,Bargoed
+2022-10-12,129950,CF81 8LQ,T,N,F,17,,Gilfach Street,,Bargoed
+2022-10-10,130000,CF81 8TP,T,N,F,108,,Llancayo Street,,Bargoed
+2022-10-04,88000,CF81 8RY,T,N,L,9,,Capel Street,,Bargoed
+2022-10-03,204995,CF81 9EH,S,Y,F,12,,Birch Way,Aberbargoed,Bargoed
+2022-09-30,187000,CF81 9DA,T,N,F,8,,School Street,Aberbargoed,Bargoed
+2022-09-28,42000,CF81 9PD,T,N,F,28,,Merchant Street,Pontlottyn,Bargoed
+2022-09-28,297995,CF81 9EH,D,Y,F,14,,Birch Way,Aberbargoed,Bargoed
+2022-09-23,90000,CF81 8JY,S,N,F,6,,The Avenue,,Bargoed
+2022-09-21,210000,CF81 8PL,T,N,F,5,,Park Crescent,,Bargoed
+2022-09-21,200000,CF81 8NP,D,N,F,12A,,Denleigh Close,,Bargoed
+2022-09-20,219995,CF81 9EG,S,Y,F,21,,Oak Grove,Aberbargoed,Bargoed
+2022-09-20,129500,CF81 8PF,T,N,F,7,,Upper Wood Street,,Bargoed
+2022-09-16,195995,CF81 9EG,S,Y,F,19,,Oak Grove,Aberbargoed,Bargoed
+2022-09-14,112500,CF81 8RF,T,N,F,2,,Bristol Terrace,,Bargoed
+2022-09-09,118000,CF81 9HD,T,N,F,12,,Cambrian Street,Deri,Bargoed
+2022-09-09,287995,CF81 9EH,D,Y,F,18,,Birch Way,Aberbargoed,Bargoed
+2022-09-09,256995,CF81 9EH,D,Y,F,16,,Birch Way,Aberbargoed,Bargoed
+2022-09-08,210000,CF81 8NG,S,N,F,22,,St Mary Street,,Bargoed
+2022-09-06,130000,CF81 9FT,T,N,F,41,,Pengam Road,Aberbargoed,Bargoed
+2022-09-02,80000,CF81 9QY,T,N,F,8,,Station Street,Pontlottyn,Bargoed
+2022-09-02,100000,CF81 9GJ,T,N,F,15,,New Road,Deri,Bargoed
+2022-09-02,188000,CF81 9EA,S,N,F,94,,Lewis Street,Aberbargoed,Bargoed
+2022-09-02,80000,CF81 8PR,F,N,L,16,,Hillside View,,Bargoed
+2022-09-02,105000,CF81 8JL,T,N,F,10,,Llewellyn Street,Gilfach,Bargoed
+2022-09-01,107000,CF81 9BB,T,N,F,6,,Pant Street,Aberbargoed,Bargoed
+2022-08-31,198000,CF81 8US,S,N,F,88,,Heolddu Crescent,,Bargoed
+2022-08-26,81000,CF81 9HX,T,N,F,121,,Bailey Street,Deri,Bargoed
+2022-08-26,238995,CF81 9EG,D,Y,F,22,,Oak Grove,Aberbargoed,Bargoed
+2022-08-26,103000,CF81 8NB,T,N,F,80,,Park Place,,Bargoed
+2022-08-25,325000,CF81 9DL,D,N,F,15,,Cwrt Neuadd Wen,Aberbargoed,Bargoed
+2022-08-19,155000,CF81 8TF,T,N,F,129,,Llancayo Street,,Bargoed
+2022-08-19,82500,CF81 8LY,T,N,F,137,,Park Place,,Bargoed
+2022-08-19,155000,CF81 8JE,T,N,L,31,,Maes Y Graig Street,,Bargoed
+2022-08-18,150000,CF81 9DR,S,N,F,59,,Coed Y Moeth Road,Aberbargoed,Bargoed
+2022-08-17,220000,CF81 8TR,D,N,F,2,,Vicarage Close,,Bargoed
+2022-08-17,135000,CF81 8SQ,T,N,F,47,,Park Road,,Bargoed
+2022-08-05,135200,CF81 8RZ,T,N,F,26,,West Street,,Bargoed
+2022-07-29,73000,CF81 9JR,S,N,F,8,,Plantation Terrace,Fochriw,Bargoed
+2022-07-29,120000,CF81 9HU,T,N,F,45,,Bailey Street,Deri,Bargoed
+2022-07-29,35000,CF81 8JJ,T,N,F,19,,Railway Terrace,Gilfach,Bargoed
+2022-07-26,140000,CF81 8SD,T,Y,F,Cae'R Bedw,1,William Street,Gilfach,Bargoed
+2022-07-25,90000,CF81 8RZ,T,N,F,4,,West Street,,Bargoed
+2022-07-25,95000,CF81 8RW,T,N,F,68,,Greenfield Street,,Bargoed
+2022-07-22,160000,CF81 8SR,T,N,F,61,,Park Road,,Bargoed
+2022-07-22,105000,CF81 8RJ,S,N,F,1,,Usk Road,,Bargoed
+2022-07-22,240000,CF81 8NJ,D,N,F,55,,Hillside Park,,Bargoed
+2022-07-20,149950,CF81 8UE,T,N,F,45,,Mcdonnell Road,,Bargoed
+2022-07-15,115000,CF81 8RN,T,N,F,15,,Church Street,,Bargoed
+2022-07-13,115000,CF81 8SU,T,N,F,47,,South Street,,Bargoed
+2022-07-11,145000,CF81 8LS,T,N,F,51,,Gilfach Street,,Bargoed
+2022-07-11,170000,CF81 8JQ,T,N,F,52,,Gwerthonor Place,Gilfach,Bargoed
+2022-07-08,135000,CF81 9GJ,S,N,F,11,,New Road,Deri,Bargoed
+2022-07-08,236000,CF81 9DN,S,N,F,167,,Bedwellty Road,Aberbargoed,Bargoed
+2022-07-05,304995,CF81 9EG,D,Y,F,24,,Oak Grove,Aberbargoed,Bargoed
+2022-07-05,234995,CF81 9EG,D,Y,F,20,,Oak Grove,Aberbargoed,Bargoed
+2022-07-04,90000,CF81 8SW,T,N,F,40,,Heolddu Road,,Bargoed
+2022-07-04,155000,CF81 8JT,D,N,F,Oakden House,,Gwerthonor Lane,Gilfach,Bargoed
+2022-07-01,85000,CF81 9QS,T,N,F,54,,Brynglas,Pontlottyn,Bargoed
+2022-07-01,135000,CF81 9JQ,T,N,F,19,,Brynteg Terrace,Fochriw,Bargoed
+2022-07-01,122000,CF81 8SR,T,N,F,80,,Park Road,,Bargoed
+2022-07-01,170000,CF81 8JQ,T,N,F,46,,Gwerthonor Place,Gilfach,Bargoed
+2022-06-30,140000,CF81 9RQ,T,N,F,6,,Duffryn Street,Pontlottyn,Bargoed
+2022-06-29,236995,CF81 9EG,D,Y,F,18,,Oak Grove,Aberbargoed,Bargoed
+2022-06-29,157050,CF81 8PW,S,N,F,6,,Heol Fach,,Bargoed
+2022-06-24,101000,CF81 9LF,S,N,F,48,,Coronation Crescent,Fochriw,Bargoed
+2022-06-20,87000,CF81 8SA,T,N,F,33,,West Street,,Bargoed
+2022-06-20,155000,CF81 8NW,T,N,F,2,,Wood Street,,Bargoed
+2022-06-17,83500,CF81 8RX,T,N,F,2,,Cross Street,,Bargoed
+2022-06-16,74000,CF81 9RT,S,N,F,30,,Danygraig,Pontlottyn,Bargoed
+2022-06-13,180000,CF81 9BL,S,N,F,20,,Commin Road,Aberbargoed,Bargoed
+2022-06-10,277500,CF81 9BF,D,N,F,4,,Marsh Court,Aberbargoed,Bargoed
+2022-06-10,145000,CF81 8UB,T,N,F,29,,Henry Street,,Bargoed
+2022-06-10,110000,CF81 8TJ,T,N,F,5,,Upper North Road,,Bargoed
+2022-06-08,80000,CF81 8UU,S,N,F,8,,Mount Pleasant,,Bargoed
+2022-06-07,135000,CF81 9RN,S,N,F,42,,Southend Terrace,Pontlottyn,Bargoed
+2022-06-02,110000,CF81 9LD,S,N,F,29,,Heol Iago,Fochriw,Bargoed
+2022-06-01,87500,CF81 9BU,T,N,F,66,,Commercial Street,Aberbargoed,Bargoed
+2022-05-29,155000,CF81 8ST,T,N,F,28A,,South Street,,Bargoed
+2022-05-27,95000,CF81 9RJ,T,N,F,5,,Ty Newydd Street,Pontlottyn,Bargoed
+2022-05-27,80000,CF81 8ND,T,N,F,1,,William Street,Gilfach,Bargoed
+2022-05-26,110000,CF81 9RR,T,N,F,38,,Edmund Street,Pontlottyn,Bargoed
+2022-05-26,140000,CF81 8JB,T,N,F,15,,Victoria Place,,Bargoed
+2022-05-25,118000,CF81 9JW,T,N,F,13,,Ael Y Bryn Street,Fochriw,Bargoed
+2022-05-25,211500,CF81 8PL,T,N,F,7,,Park Crescent,,Bargoed
+2022-05-25,80000,CF81 8LU,T,N,F,29,,Eastview Terrace,,Bargoed
+2022-05-23,92000,CF81 9QT,S,N,F,6,,Union Street,Pontlottyn,Bargoed
+2022-05-20,229995,CF81 9EH,D,Y,F,2,,Birch Way,Aberbargoed,Bargoed
+2022-05-20,170000,CF81 8UX,S,N,F,52,,Heolddu Grove,,Bargoed
+2022-05-20,35000,CF81 8UF,T,N,F,5,,Baldwin Street,,Bargoed
+2022-05-20,135000,CF81 8JP,S,N,F,15,,Gwerthonor Place,Gilfach,Bargoed
+2022-05-19,105000,CF81 9LD,S,N,F,23,,Heol Iago,Fochriw,Bargoed
+2022-05-17,103000,CF81 8PF,T,N,F,27,,Upper Wood Street,,Bargoed
+2022-05-16,91500,CF81 9HW,T,N,F,69,,Bailey Street,Deri,Bargoed
+2022-05-16,119000,CF81 8TF,T,N,F,101,,Llancayo Street,,Bargoed
+2022-05-16,155000,CF81 8TA,S,N,F,32,,St Gwladys Avenue,,Bargoed
+2022-05-13,95000,CF81 9HU,T,N,F,39,,Bailey Street,Deri,Bargoed
+2022-05-13,170000,CF81 8PF,T,N,F,3,,Upper Wood Street,,Bargoed
+2022-05-13,160000,CF81 8LD,T,N,F,11,,Woodland Place,,Bargoed
+2022-05-10,215000,CF81 9PQ,D,N,F,24,,Heol Evan Wynne,Pontlottyn,Bargoed
+2022-05-06,278995,CF81 9EJ,D,Y,F,6,,Poplar Road,Aberbargoed,Bargoed
+2022-05-06,147500,CF81 8PG,S,N,F,1,,John Street,,Bargoed
+2022-05-06,127500,CF81 8PF,T,N,F,18,,Upper Wood Street,,Bargoed
+2022-04-29,265995,CF81 9EJ,D,Y,F,4,,Poplar Road,Aberbargoed,Bargoed
+2022-04-29,146000,CF81 8UJ,T,N,F,52,,Moorland Road,,Bargoed
+2022-04-29,89950,CF81 8PR,F,N,L,24,,Hillside View,,Bargoed
+2022-04-28,100000,CF81 8TG,T,N,F,20,,Llancayo Street,,Bargoed
+2022-04-27,287995,CF81 9EJ,D,Y,F,2,,Poplar Road,Aberbargoed,Bargoed
+2022-04-22,105000,CF81 9RR,T,N,F,25,,Edmund Street,Pontlottyn,Bargoed
+2022-04-22,144000,CF81 9HT,S,N,F,6,,Bailey Street,Deri,Bargoed
+2022-04-20,65000,CF81 8SS,T,N,F,8,,Upper Capel Street,,Bargoed
+2022-04-20,115500,CF81 8NB,T,N,F,112,,Park Place,,Bargoed
+2022-04-14,91000,CF81 9QU,F,N,L,"Bryn Tirion, 15",Flat B,Pidwelt Rise,Pontlottyn,Bargoed
+2022-04-14,113000,CF81 8SX,T,N,F,5,,St Gwladys Avenue,,Bargoed
+2022-04-14,62030,CF81 8NL,S,N,F,44,,Hillside Park,,Bargoed
+2022-04-13,70000,CF81 9QS,T,N,F,32,,Brynglas,Pontlottyn,Bargoed
+2022-04-13,65000,CF81 9JS,T,N,F,20,,Brook Row,Fochriw,Bargoed
+2022-04-12,122000,CF81 9QJ,S,N,F,17,,Sunnyview,Pontlottyn,Bargoed
+2022-04-11,90000,CF81 9RR,T,N,F,6,,Edmund Street,Pontlottyn,Bargoed
+2022-04-08,160000,CF81 9QU,D,N,F,40,,Pidwelt Rise,Pontlottyn,Bargoed
+2022-04-08,95000,CF81 9FF,T,N,F,74,,Church Street,Aberbargoed,Bargoed
+2022-04-05,125000,CF81 9FD,T,N,F,60,,Elm Street,Aberbargoed,Bargoed
+2022-04-04,293995,CF81 9EG,D,Y,F,17,,Oak Grove,Aberbargoed,Bargoed
+2022-03-31,225995,CF81 9EG,D,N,F,15,,Oak Grove,Aberbargoed,Bargoed
+2022-03-31,122500,CF81 8SP,T,N,F,3,,Park Road,,Bargoed
+2022-03-29,82000,CF81 9QY,T,N,F,15,,Station Street,Pontlottyn,Bargoed
+2022-03-25,137000,CF81 8RL,T,N,F,44,,Usk Road,,Bargoed
+2022-03-20,125000,CF81 8SB,T,N,F,85,,West Street,,Bargoed
+2022-03-16,153995,CF81 9EJ,S,N,F,11,,Poplar Road,Aberbargoed,Bargoed
+2022-03-15,112000,CF81 9RH,T,N,F,8,,Greenfield Street,Pontlottyn,Bargoed
+2022-03-15,230000,CF81 9RF,D,N,F,The Laurels,,Fairview Terrace,Pontlottyn,Bargoed
+2022-03-14,153995,CF81 9EJ,S,N,F,9,,Poplar Road,Aberbargoed,Bargoed
+2022-03-14,175000,CF81 8TB,S,N,F,62,,St Gwladys Avenue,,Bargoed
+2022-03-11,110000,CF81 9HZ,T,N,F,13,,Glynmarch Street,Deri,Bargoed
+2022-03-04,85000,CF81 9GJ,T,N,F,13,,New Road,Deri,Bargoed
+2022-03-04,172995,CF81 9EJ,S,N,F,7,,Poplar Road,Aberbargoed,Bargoed
+2022-03-04,172995,CF81 9EJ,S,N,F,5,,Poplar Road,Aberbargoed,Bargoed
+2022-03-04,120000,CF81 8LR,T,N,F,87,,Gilfach Street,,Bargoed
+2022-02-25,80000,CF81 8SA,T,N,F,73,,West Street,,Bargoed
+2022-02-24,145000,CF81 9ET,T,N,F,19,,Duffryn Street,Aberbargoed,Bargoed
+2022-02-18,145000,CF81 9DQ,T,N,F,36,,Thomas Street,Aberbargoed,Bargoed
+2022-02-16,110000,CF81 9FF,T,N,F,68,,Church Street,Aberbargoed,Bargoed
+2022-02-11,290000,CF81 9EE,D,N,F,27,,Y Ffordd Wen,Aberbargoed,Bargoed
+2022-02-11,130500,CF81 8RQ,T,N,F,2,,Heolddu Road,,Bargoed
+2022-02-04,120000,CF81 9JW,T,N,F,15,,Ael Y Bryn Street,Fochriw,Bargoed
+2022-02-04,150000,CF81 8JS,D,N,F,Oak Cottage,,Gwerthonor Road,Gilfach,Bargoed
+2022-02-03,178000,CF81 8TT,S,N,F,10,,Clos Y Graig,,Bargoed
+2022-01-28,115000,CF81 9RE,S,N,F,7,,Brewer Street,Pontlottyn,Bargoed
+2022-01-28,110000,CF81 8UD,T,N,F,60,,Mcdonnell Road,,Bargoed
+2022-01-27,218995,CF81 9EJ,D,N,F,1,,Poplar Road,Aberbargoed,Bargoed
+2022-01-25,259995,CF81 9EJ,D,N,F,3,,Poplar Road,Aberbargoed,Bargoed
+2022-01-21,130000,CF81 9RN,S,N,F,39,,Southend Terrace,Pontlottyn,Bargoed
+2022-01-20,140000,CF81 8TF,T,N,F,117,,Llancayo Street,,Bargoed
+2022-01-20,282000,CF81 8NJ,S,N,F,67,,Hillside Park,,Bargoed
+2022-01-14,113000,CF81 9QG,D,N,F,Preswylfa,,Farm Road,Pontlottyn,Bargoed
+2022-01-14,88000,CF81 8LF,T,N,F,181,,Sycamore Court,,Bargoed
+2022-01-13,90000,CF81 8NF,T,N,L,18,,St Ann Street,,Bargoed
+2022-01-07,165000,CF81 8SD,T,Y,F,Cae'R Bedw,3,William Street,Gilfach,Bargoed
+2022-01-04,108000,CF81 9AX,T,N,F,97,,Bedwellty Road,Aberbargoed,Bargoed
+2022-01-04,70000,CF81 8UB,T,N,F,42,,Henry Street,,Bargoed
+2021-12-22,172000,CF81 9BA,T,N,F,72,,Bedwellty Road,Aberbargoed,Bargoed
+2021-12-22,105000,CF81 8RT,T,N,F,29,,Greenfield Street,,Bargoed
+2021-12-22,132000,CF81 8JQ,T,N,F,36,,Gwerthonor Place,Gilfach,Bargoed
+2021-12-20,125000,CF81 8SR,T,N,F,69,,Park Road,,Bargoed
+2021-12-17,92500,CF81 9FD,T,N,F,12,,Elm Street,Aberbargoed,Bargoed
+2021-12-17,296500,CF81 8NJ,S,N,F,63,,Hillside Park,,Bargoed
+2021-12-09,255995,CF81 9EF,D,Y,F,20,,Beech Avenue,Aberbargoed,Bargoed
+2021-12-08,105000,CF81 8RS,T,N,F,46,,Francis Street,,Bargoed
+2021-12-07,54000,CF81 9FG,F,N,L,Tudor Court,Flat 3,Commercial Street,Aberbargoed,Bargoed
+2021-12-07,100000,CF81 8TN,T,N,F,11,,North Road,,Bargoed
+2021-12-03,135000,CF81 9FL,S,N,F,13,,Ty Fry Road,Aberbargoed,Bargoed
+2021-12-03,249995,CF81 9EF,D,Y,F,22,,Beech Avenue,Aberbargoed,Bargoed
+2021-12-03,150000,CF81 9BQ,S,N,F,15,,Rockleigh Avenue,Aberbargoed,Bargoed
+2021-12-03,114000,CF81 8RW,T,N,F,65,,Greenfield Street,,Bargoed
+2021-12-02,100000,CF81 9BD,T,N,F,30,,Neuaddwen Street,Aberbargoed,Bargoed
+2021-12-02,95000,CF81 8RW,T,N,F,73,,Greenfield Street,,Bargoed
+2021-12-02,149000,CF81 8JL,T,N,L,5,,Llewellyn Street,Gilfach,Bargoed
+2021-12-01,110000,CF81 9EU,T,N,F,99,,Commercial Street,Aberbargoed,Bargoed
+2021-11-30,121000,CF81 9FB,T,N,F,5,,Elm Street,Aberbargoed,Bargoed
+2021-11-26,249995,CF81 9EF,D,Y,F,24,,Beech Avenue,Aberbargoed,Bargoed
+2021-11-26,130000,CF81 8UQ,T,N,F,26,,Heolddu Crescent,,Bargoed
+2021-11-24,126000,CF81 8LS,T,N,F,64,,Gilfach Street,,Bargoed
+2021-11-22,130000,CF81 9FT,T,N,F,47,,Pengam Road,Aberbargoed,Bargoed
+2021-11-19,133800,CF81 9DR,S,N,F,19,,Coed Y Moeth Road,Aberbargoed,Bargoed
+2021-11-19,110000,CF81 8JP,T,N,F,7,,Gwerthonor Place,Gilfach,Bargoed
+2021-11-18,91361,CF81 8LQ,T,N,F,17,,Gilfach Street,,Bargoed
+2021-11-17,120000,CF81 8PE,T,N,F,64,,Ruth Street,,Bargoed
+2021-11-15,150000,CF81 8TP,T,N,F,118,,Llancayo Street,,Bargoed
+2021-11-12,120000,CF81 9RJ,T,N,F,8,,Ty Newydd Street,Pontlottyn,Bargoed
+2021-11-12,310000,CF81 9EE,D,N,F,11,,Y Ffordd Wen,Aberbargoed,Bargoed
+2021-11-12,82000,CF81 8LU,T,N,F,45,,Eastview Terrace,,Bargoed
+2021-11-12,115000,CF81 8JB,T,N,F,12,,Victoria Place,,Bargoed
+2021-11-11,65000,CF81 9BD,T,N,F,22,,Neuaddwen Street,Aberbargoed,Bargoed
+2021-11-10,110000,CF81 8UE,T,N,F,21,,Mcdonnell Road,,Bargoed
+2021-11-05,68000,CF81 9QN,T,N,F,75,,Brynhyfryd,Pontlottyn,Bargoed
+2021-11-05,76000,CF81 9LA,S,N,F,56,,Glan Y Nant,Fochriw,Bargoed
+2021-11-05,165000,CF81 8TQ,S,N,F,1,,Fairways,,Bargoed
+2021-11-05,255000,CF81 8QF,D,N,F,19,,Oakland Gardens,,Bargoed
+2021-10-29,71000,CF81 8JQ,T,N,F,46,,Gwerthonor Place,Gilfach,Bargoed
+2021-10-28,120000,CF81 9AZ,T,N,F,28,,Bedwellty Road,Aberbargoed,Bargoed
+2021-10-28,98000,CF81 8NA,T,N,F,70,,Park Place,,Bargoed
+2021-10-28,125000,CF81 8JH,T,N,L,1,,Thomas Street,Gilfach,Bargoed
+2021-10-26,142500,CF81 9DT,S,N,F,45,,Pant Y Fid Road,Aberbargoed,Bargoed
+2021-10-25,125000,CF81 8NG,T,N,F,3,,St Mary Street,,Bargoed
+2021-10-22,125000,CF81 9FB,T,N,F,53,,Elm Street,Aberbargoed,Bargoed
+2021-10-22,225000,CF81 9DL,D,N,F,16,,Cwrt Neuadd Wen,Aberbargoed,Bargoed
+2021-10-22,105500,CF81 8JL,T,N,F,12,,Llewellyn Street,Gilfach,Bargoed
+2021-10-22,104000,CF81 8JD,T,N,F,3,,Cross Street,Gilfach,Bargoed
+2021-10-21,280995,CF81 9EF,D,Y,F,26,,Beech Avenue,Aberbargoed,Bargoed
+2021-10-20,117000,CF81 9BD,T,N,F,45,,Neuaddwen Street,Aberbargoed,Bargoed
+2021-10-18,125000,CF81 8UH,T,N,F,5,,Moorland Road,,Bargoed
+2021-10-18,150000,CF81 8TF,T,N,F,121,,Llancayo Street,,Bargoed
+2021-10-15,130000,CF81 9BE,T,N,F,7,,Yew Street,Aberbargoed,Bargoed
+2021-10-15,116000,CF81 8JD,T,N,F,10,,Cross Street,Gilfach,Bargoed
+2021-10-12,120000,CF81 9RH,T,N,F,28,,Greenfield Street,Pontlottyn,Bargoed
+2021-10-12,105000,CF81 9QH,D,N,F,1,,Fochriw Road,Pontlottyn,Bargoed
+2021-10-11,147500,CF81 8UP,S,N,F,6,,Heolddu Drive,,Bargoed
+2021-10-07,213995,CF81 9EF,D,Y,F,28,,Beech Avenue,Aberbargoed,Bargoed
+2021-10-01,135000,CF81 9BE,T,N,F,17,,Yew Street,Aberbargoed,Bargoed
+2021-10-01,91000,CF81 8RF,T,N,F,13,,Bristol Terrace,,Bargoed
+2021-10-01,225000,CF81 8PQ,D,N,F,Oakdene,,Heol Fargoed,,Bargoed
+2021-10-01,170000,CF81 8NZ,T,N,F,30,,Cardiff Road,,Bargoed
+2021-09-29,74000,CF81 9QU,F,N,L,28,Flat B,Pidwelt Rise,Pontlottyn,Bargoed
+2021-09-24,80000,CF81 9LF,S,N,F,4,,Coronation Crescent,Fochriw,Bargoed
+2021-09-24,95000,CF81 9HY,T,N,F,4,,Jenkins Row,Deri,Bargoed
+2021-09-24,70000,CF81 8UX,S,N,F,23,,Heolddu Grove,,Bargoed
+2021-09-24,85000,CF81 8TD,S,N,F,1,,Llancayo Street,,Bargoed
+2021-09-24,95000,CF81 8LR,T,N,F,89,,Gilfach Street,,Bargoed
+2021-09-23,102000,CF81 8TF,T,N,F,131,,Llancayo Street,,Bargoed
+2021-09-17,115000,CF81 9FF,T,N,F,65,,Church Street,Aberbargoed,Bargoed
+2021-09-17,70000,CF81 8RN,T,N,F,40,,Church Street,,Bargoed
+2021-09-13,105000,CF81 8UR,S,N,F,41,,Heolddu Crescent,,Bargoed
+2021-09-10,137500,CF81 9DS,S,N,F,74,,Coed Y Moeth Road,Aberbargoed,Bargoed
+2021-08-27,110000,CF81 8TB,S,N,F,94,,St Gwladys Avenue,,Bargoed
+2021-08-27,158000,CF81 8SD,T,Y,F,Cae'R Bedw,2,William Street,Gilfach,Bargoed
+2021-08-26,95000,CF81 9GG,T,N,F,5,,Factory Road,,Bargoed
+2021-08-26,126000,CF81 8SR,T,N,F,55,,Park Road,,Bargoed
+2021-08-23,240995,CF81 9EF,D,Y,F,40,,Beech Avenue,Aberbargoed,Bargoed
+2021-08-23,130000,CF81 8TE,T,N,F,51,,Llancayo Street,,Bargoed
+2021-08-20,125000,CF81 9RL,S,N,F,Osborne Villa,,Southend Terrace,Pontlottyn,Bargoed
+2021-08-19,125000,CF81 9EU,T,N,F,93A,,Commercial Street,Aberbargoed,Bargoed
+2021-08-19,163950,CF81 8JU,S,N,F,1,,Lewis Crescent,,Bargoed
+2021-08-17,123000,CF81 9HD,T,N,F,19,,Cambrian Street,Deri,Bargoed
+2021-08-16,94995,CF81 9GH,T,N,F,10,,Groesfaen Terrace,Deri,Bargoed
+2021-08-13,115000,CF81 8RS,T,N,F,31,,Francis Street,,Bargoed
+2021-08-06,122000,CF81 9FD,T,N,F,26,,Elm Street,Aberbargoed,Bargoed
+2021-08-06,226500,CF81 9AY,T,N,F,133,,Bedwellty Road,Aberbargoed,Bargoed
+2021-08-06,105000,CF81 8SW,T,N,F,22,,Heolddu Road,,Bargoed
+2021-07-30,116000,CF81 9FU,S,N,F,8,,Pengam Road,Aberbargoed,Bargoed
+2021-07-30,132000,CF81 8SQ,T,N,F,14,,Park Road,,Bargoed
+2021-07-30,70000,CF81 8RX,T,N,F,8,,Cross Street,,Bargoed
+2021-07-30,110000,CF81 8RU,T,N,F,45,,Greenfield Street,,Bargoed
+2021-07-30,87000,CF81 8LR,T,N,F,34,,Gilfach Street,,Bargoed
+2021-07-23,89950,CF81 9HT,S,N,F,9,,Bailey Street,Deri,Bargoed
+2021-07-23,62000,CF81 9GQ,T,N,F,2,,Chapel Street,Deri,Bargoed
+2021-07-23,110000,CF81 9FE,T,N,F,38,,Church Street,Aberbargoed,Bargoed
+2021-07-16,135000,CF81 9DW,S,N,F,21,,Highfield Crescent,Aberbargoed,Bargoed
+2021-07-16,123400,CF81 8JA,S,N,F,27,,Aeron Place,,Bargoed
+2021-07-15,190000,CF81 9PA,S,N,F,8,,North Rising,Pontlottyn,Bargoed
+2021-07-15,110000,CF81 9AY,S,N,F,117,,Bedwellty Road,Aberbargoed,Bargoed
+2021-07-09,80000,CF81 9QU,F,N,L,14,Flat D,Pidwelt Rise,Pontlottyn,Bargoed
+2021-07-09,132500,CF81 9FF,T,N,F,51,,Church Street,Aberbargoed,Bargoed
+2021-07-09,150000,CF81 8UR,S,N,F,49,,Heolddu Crescent,,Bargoed
+2021-07-09,123600,CF81 8LB,T,N,F,13,,Vere Street,,Bargoed
+2021-07-05,140500,CF81 8LB,T,N,F,14,,Vere Street,,Bargoed
+2021-07-02,114000,CF81 8RT,T,N,F,3,,Greenfield Street,,Bargoed
+2021-07-02,175000,CF81 8JR,S,N,F,14,,Gwerthonor Road,Gilfach,Bargoed
+2021-07-01,99000,CF81 8UB,T,N,F,34,,Henry Street,,Bargoed
+2021-06-30,237995,CF81 9EF,D,Y,F,38,,Beech Avenue,Aberbargoed,Bargoed
+2021-06-29,250000,CF81 9BF,D,N,F,10,,Marsh Court,Aberbargoed,Bargoed
+2021-06-25,150000,CF81 9PA,D,N,F,11,,North Rising,Pontlottyn,Bargoed
+2021-06-25,80000,CF81 8NF,T,N,L,22,,St Ann Street,,Bargoed
+2021-06-25,130000,CF81 8JL,S,N,F,18,,Llewellyn Street,Gilfach,Bargoed
+2021-06-22,215000,CF81 8NL,T,N,F,28,,Hillside Park,,Bargoed
+2021-06-21,110000,CF81 8PF,T,N,F,29,,Upper Wood Street,,Bargoed
+2021-06-18,130000,CF81 8TF,T,N,F,129,,Llancayo Street,,Bargoed
+2021-06-18,108000,CF81 8SB,T,N,F,87,,West Street,,Bargoed
+2021-06-16,125000,CF81 8SU,T,N,F,54,,South Street,,Bargoed
+2021-06-14,182000,CF81 9BN,S,N,F,5,,Cwm Road,Aberbargoed,Bargoed
+2021-06-11,143000,CF81 9QU,T,N,F,23,,Pidwelt Rise,Pontlottyn,Bargoed
+2021-06-11,68000,CF81 8RQ,T,N,F,70,,Heolddu Road,,Bargoed
+2021-06-11,100000,CF81 8PP,S,N,F,13,,Heol Fargoed,,Bargoed
+2021-06-10,88375,CF81 8JL,T,N,L,23,,Llewellyn Street,Gilfach,Bargoed
+2021-06-07,175000,CF81 9BA,T,N,F,62,,Bedwellty Road,Aberbargoed,Bargoed
+2021-06-07,200000,CF81 8NL,S,N,F,16,,Hillside Park,,Bargoed
+2021-06-04,73000,CF81 9LE,S,N,F,3,,Coronation Crescent,Fochriw,Bargoed
+2021-06-04,200000,CF81 9DQ,T,N,F,22,,Thomas Street,Aberbargoed,Bargoed
+2021-06-02,100000,CF81 9RQ,T,N,F,28,,Duffryn Street,Pontlottyn,Bargoed
+2021-05-28,147500,CF81 9QU,T,N,F,16A,,Pidwelt Rise,Pontlottyn,Bargoed
+2021-05-28,162995,CF81 9EF,S,Y,F,35,,Beech Avenue,Aberbargoed,Bargoed
+2021-05-28,100000,CF81 8TA,T,N,F,30,,St Gwladys Avenue,,Bargoed
+2021-05-28,197000,CF81 8JR,S,N,F,9,,Gwerthonor Road,Gilfach,Bargoed
+2021-05-26,97500,CF81 9AA,T,N,F,6,,Bridge Street,,Bargoed
+2021-05-26,65000,CF81 8RJ,T,N,F,5,,Usk Road,,Bargoed
+2021-05-25,149950,CF81 8JX,S,N,F,22,,The Drive,,Bargoed
+2021-05-24,161995,CF81 9EF,S,Y,F,33,,Beech Avenue,Aberbargoed,Bargoed
+2021-05-21,88000,CF81 9JS,T,N,F,18,,Brook Row,Fochriw,Bargoed
+2021-05-21,110000,CF81 8RP,S,N,F,4,,Church Place,,Bargoed
+2021-05-19,96000,CF81 8PG,T,N,F,75,,John Street,,Bargoed
+2021-05-18,110000,CF81 8PF,T,N,F,28,,Upper Wood Street,,Bargoed
+2021-05-14,205000,CF81 9RF,D,N,F,The Laurels,,Fairview Terrace,Pontlottyn,Bargoed
+2021-05-14,120000,CF81 8RY,T,N,F,15,,Capel Street,,Bargoed
+2021-05-10,236995,CF81 9EF,D,Y,F,36,,Beech Avenue,Aberbargoed,Bargoed
+2021-05-07,80000,CF81 9GJ,T,N,F,8,,New Road,Deri,Bargoed
+2021-05-07,274995,CF81 9EF,D,Y,F,34,,Beech Avenue,Aberbargoed,Bargoed
+2021-04-30,129000,CF81 8UA,T,N,F,22,,Henry Street,,Bargoed
+2021-04-30,89950,CF81 8ST,T,N,F,25,,South Street,,Bargoed
+2021-04-30,87000,CF81 8RQ,T,N,F,68,,Heolddu Road,,Bargoed
+2021-04-30,133000,CF81 8NW,T,N,F,16,,Wood Street,,Bargoed
+2021-04-28,75000,CF81 9JB,S,N,F,6,,Ogilvie Terrace,Deri,Bargoed
+2021-04-23,130000,CF81 9FE,T,N,F,1,,Church Street,Aberbargoed,Bargoed
+2021-04-23,279300,CF81 8PQ,D,N,F,Bron-Y-Bryn,,Heol Fargoed,,Bargoed
+2021-04-19,80000,CF81 9QU,F,N,L,"Ardwyn, 15",Flat A,Pidwelt Rise,Pontlottyn,Bargoed
+2021-04-16,236995,CF81 9EF,D,Y,F,29,,Beech Avenue,Aberbargoed,Bargoed
+2021-04-16,149950,CF81 8PJ,S,N,F,4,,Park Drive,,Bargoed
+2021-04-15,215000,CF81 8PL,T,N,F,1,,Park Crescent,,Bargoed
+2021-04-14,113500,CF81 8PG,T,N,F,16,,John Street,,Bargoed
+2021-04-09,110000,CF81 8PG,T,N,F,15,,John Street,,Bargoed
+2021-04-09,108000,CF81 8LT,T,N,F,1A,,Eastview Terrace,,Bargoed
+2021-04-08,257995,CF81 9EF,D,Y,F,31,,Beech Avenue,Aberbargoed,Bargoed
+2021-04-01,130000,CF81 9ES,T,N,F,4,,Tredegar Terrace,Aberbargoed,Bargoed
+2021-03-31,104000,CF81 8RF,T,N,F,24,,Bristol Terrace,,Bargoed
+2021-03-29,65000,CF81 8QZ,T,N,F,7A,,High Street,,Bargoed
+2021-03-26,94000,CF81 8RU,S,N,F,34,,Greenfield Street,,Bargoed
+2021-03-24,83000,CF81 9QY,T,N,F,14,,Station Street,Pontlottyn,Bargoed
+2021-03-22,77000,CF81 8QA,T,N,F,17,,Heol Brychan,,Bargoed
+2021-03-19,140000,CF81 9EZ,S,N,F,33A,,Cwrt Coch Street,Aberbargoed,Bargoed
+2021-03-19,139950,CF81 8UQ,S,N,F,13,,Heolddu Crescent,,Bargoed
+2021-03-19,105000,CF81 8SW,T,N,F,10,,Heolddu Road,,Bargoed
+2021-03-19,106500,CF81 8LD,T,N,F,6,,Woodland Place,,Bargoed
+2021-03-12,130000,CF81 9EX,T,N,F,110,,Commercial Street,Aberbargoed,Bargoed
+2021-03-12,97000,CF81 8RQ,T,N,F,54,,Heolddu Road,,Bargoed
+2021-03-11,103000,CF81 9GS,S,N,F,3,,Glyn Derw,Deri,Bargoed
+2021-03-11,120000,CF81 9DU,S,N,F,58,,Pant Y Fid Road,Aberbargoed,Bargoed
+2021-03-09,152000,CF81 8JQ,T,N,F,Clifton Villa,,Gwerthonor Place,Gilfach,Bargoed
+2021-03-05,272995,CF81 9EF,D,Y,F,25,,Beech Avenue,Aberbargoed,Bargoed
+2021-03-05,205000,CF81 8NL,S,N,F,8,,Hillside Park,,Bargoed
+2021-03-04,65000,CF81 9QP,T,N,F,52,,Brynhyfryd,Pontlottyn,Bargoed
+2021-03-04,65000,CF81 9GY,T,N,F,9,,School Street,Deri,Bargoed
+2021-03-01,94000,CF81 8SU,S,N,F,33,,South Street,,Bargoed
+2021-02-26,113000,CF81 9RL,S,N,F,Maes-Yr-Haf,,Southend Terrace,Pontlottyn,Bargoed
+2021-02-26,110000,CF81 8UJ,T,N,F,38,,Moorland Road,,Bargoed
+2021-02-26,90000,CF81 8NN,S,N,F,4A,,Cardiff Road,,Bargoed
+2021-02-26,115000,CF81 8JW,T,N,F,40,,Lewis Crescent,,Bargoed
+2021-02-19,125000,CF81 9QG,S,N,F,Rose Villa,,Farm Road,Pontlottyn,Bargoed
+2021-02-19,165000,CF81 8UH,D,N,F,6,,Moorland Road,,Bargoed
+2021-02-19,106500,CF81 8SX,T,N,F,9,,St Gwladys Avenue,,Bargoed
+2021-02-16,78000,CF81 9JU,T,N,F,2,,Pleasant View,Fochriw,Bargoed
+2021-02-15,105000,CF81 9RR,T,N,F,35,,Edmund Street,Pontlottyn,Bargoed
+2021-02-12,100000,CF81 9RR,S,N,F,37,,Edmund Street,Pontlottyn,Bargoed
+2021-02-12,162470,CF81 8TQ,T,N,F,20,,Fairways,,Bargoed
+2021-02-12,105000,CF81 8RQ,T,N,F,53,,Heolddu Road,,Bargoed
+2021-02-12,111000,CF81 8JL,T,N,L,9,,Llewellyn Street,Gilfach,Bargoed
+2021-02-11,88000,CF81 8JE,T,N,F,33,,Maes Y Graig Street,,Bargoed
+2021-02-09,111000,CF81 8LB,T,N,F,7,,Vere Street,,Bargoed
+2021-02-05,80000,CF81 9NH,T,N,F,12,,Cae Glas Newydd,Fochriw,Bargoed
+2021-02-05,272995,CF81 9EF,D,Y,F,27,,Beech Avenue,Aberbargoed,Bargoed
+2021-02-05,74000,CF81 8TL,T,N,F,17,,Hill Street,,Bargoed
+2021-02-05,87000,CF81 8RJ,T,N,F,8,,Usk Road,,Bargoed
+2021-02-05,122500,CF81 8JQ,T,N,F,58,,Gwerthonor Place,Gilfach,Bargoed
+2021-02-01,50000,CF81 9JU,T,N,F,8,,Pleasant View,Fochriw,Bargoed
+2021-01-29,144995,CF81 9EG,S,Y,F,7,,Oak Grove,Aberbargoed,Bargoed
+2021-01-29,144995,CF81 9EG,S,Y,F,5,,Oak Grove,Aberbargoed,Bargoed
+2021-01-29,85000,CF81 8RZ,T,N,F,29,,West Street,,Bargoed
+2021-01-28,255995,CF81 9EF,D,Y,F,23,,Beech Avenue,Aberbargoed,Bargoed
+2021-01-28,122500,CF81 8LB,T,N,F,11,,Vere Street,,Bargoed
+2021-01-28,126000,CF81 8JQ,T,N,F,48,,Gwerthonor Place,Gilfach,Bargoed
+2021-01-25,65000,CF81 8SZ,S,N,F,120,,St Gwladys Avenue,,Bargoed
+2021-01-15,115000,CF81 8JE,S,N,F,12,,Maes Y Graig Street,,Bargoed
+2021-01-12,122500,CF81 8RL,S,N,F,31,,Usk Road,,Bargoed
+2021-01-12,117000,CF81 8PD,T,N,F,25,,Ruth Street,,Bargoed
+2021-01-06,95000,CF81 8UJ,T,N,F,64,,Moorland Road,,Bargoed

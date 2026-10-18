@@ -1,0 +1,696 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-07,160000,L5 4PN,S,N,L,14,,Landseer Road,,Liverpool
+2026-07-31,78000,L5 6PF,T,N,F,16,,Handfield Street,,Liverpool
+2026-07-10,143000,L5 9XB,F,N,L,"Tobacco Wharf, 51",Apartment 108,Commercial Road,,Liverpool
+2026-06-19,24750,L5 2RW,T,N,F,372,,Vauxhall Road,,Liverpool
+2026-06-19,24750,L5 2QY,S,N,F,90,,Athol Street,,Liverpool
+2026-06-12,230000,L5 7SU,T,N,F,36,,Great Mersey Street,,Liverpool
+2026-06-10,66000,L5 3BA,F,N,L,107,,Conway Street,,Liverpool
+2026-06-06,100000,L5 3BB,F,N,L,259,,Conway Street,,Liverpool
+2026-05-01,175000,L5 4SX,S,N,L,8,,Eastlake Avenue,,Liverpool
+2026-04-30,220000,L5 1AJ,T,N,F,7,,Oswestry Street,,Liverpool
+2026-04-28,228000,L5 2SJ,S,N,F,1,,Vesuvius Street,,Liverpool
+2026-04-13,60000,L5 7TB,F,N,L,4,Flat 19,Lemon Street,,Liverpool
+2026-04-10,180000,L5 8XH,T,N,F,24,,Hornby Walk,,Liverpool
+2026-03-30,15000,L5 3BB,F,N,L,205,,Conway Street,,Liverpool
+2026-03-27,125000,L5 6RY,T,N,F,35,,Dacy Road,,Liverpool
+2026-03-27,126000,L5 3PT,F,N,L,15,,Courtier Close,,Liverpool
+2026-03-17,82500,L5 3BA,F,N,L,79,,Conway Street,,Liverpool
+2026-03-06,165000,L5 9RQ,T,N,L,6,,Houlgrave Road,,Liverpool
+2026-03-02,145000,L5 9RP,T,N,L,42,,Barmouth Way,,Liverpool
+2026-02-27,125000,L5 6PR,T,N,F,84,,Thirlmere Road,Everton,Liverpool
+2026-02-17,202000,L5 2AR,T,N,F,11,,Marnell Close,,Liverpool
+2026-02-12,14500,L5 3AA,F,N,L,5,Room B71,Prince Edwin Street,,Liverpool
+2026-02-10,112000,L5 3BB,F,N,L,251,,Conway Street,,Liverpool
+2026-01-30,215000,L5 1AF,S,N,F,68,,Kemp Avenue,,Liverpool
+2026-01-20,65000,L5 4TD,F,N,L,9,,Northcote Close,,Liverpool
+2025-12-23,76500,L5 3BA,F,N,L,83,,Conway Street,,Liverpool
+2025-12-19,220000,L5 2QY,S,N,F,100A,,Athol Street,,Liverpool
+2025-12-19,87500,L5 2BJ,F,N,L,322,Apartment 4,Vauxhall Road,,Liverpool
+2025-12-18,39706,L5 5EN,F,N,L,Candia Tower,Apartment 94,Jason Street,,Liverpool
+2025-12-12,105000,L5 7RL,T,N,F,51,,Harebell Street,,Liverpool
+2025-12-04,54000,L5 0RF,F,N,L,49A,,Mark Street,,Liverpool
+2025-11-21,95000,L5 6PA,T,N,F,13,,Stockbridge Street,,Liverpool
+2025-11-20,122500,L5 6SE,T,N,F,37,,Heyes Street,,Liverpool
+2025-11-05,80000,L5 7RW,T,N,L,14,,Daisy Street,,Liverpool
+2025-10-29,80000,L5 4TD,F,N,L,14,,Northcote Close,,Liverpool
+2025-10-27,140000,L5 4SY,S,N,L,24,,Wentworth Drive,,Liverpool
+2025-10-24,197500,L5 9RA,S,N,F,74,,Snowdon Lane,,Liverpool
+2025-10-24,154000,L5 9RA,T,N,F,34,,Snowdon Lane,,Liverpool
+2025-10-24,185000,L5 3QE,T,N,F,35,,Northumberland Terrace,,Liverpool
+2025-10-24,62500,L5 3BB,F,N,L,225,,Conway Street,,Liverpool
+2025-10-24,15000,L5 3AA,F,N,L,"Flat A25, 5",Room 182,Prince Edwin Street,,Liverpool
+2025-10-20,142000,L5 0PS,T,N,F,59,,Penrose Street,,Liverpool
+2025-10-17,170000,L5 9RB,T,N,F,65,,Snowdon Lane,,Liverpool
+2025-10-17,50000,L5 5EN,F,N,L,Candia Tower,Apartment 14,Jason Street,,Liverpool
+2025-10-16,240000,L5 0SY,S,N,F,8,,Ermine Crescent,,Liverpool
+2025-10-08,127950,L5 7AA,F,N,L,52,Apartment 15,Heriot Street,,Liverpool
+2025-10-02,160000,L5 1AH,S,N,F,19,,Waterperry Drive,,Liverpool
+2025-09-26,160000,L5 0TU,T,N,F,65,,Robson Street,,Liverpool
+2025-09-05,100000,L5 6PF,T,N,F,6,,Handfield Street,,Liverpool
+2025-09-05,70000,L5 4TB,T,N,L,12,,Elmore Close,,Liverpool
+2025-08-29,140000,L5 1AA,T,N,F,6,,Martinette Close,Anfield,Liverpool
+2025-08-26,105500,L5 5BE,F,N,L,28,,Chapel Gardens,,Liverpool
+2025-08-22,201000,L5 8SZ,T,N,F,76,,Hopwood Street,,Liverpool
+2025-08-20,115000,L5 0PS,T,N,L,57,,Penrose Street,,Liverpool
+2025-08-07,191000,L5 4SU,S,N,L,19,,Danby Close,,Liverpool
+2025-08-06,183000,L5 1AF,S,N,F,56,,Kemp Avenue,,Liverpool
+2025-08-04,270000,L5 9RQ,S,N,F,23,,Houlgrave Road,,Liverpool
+2025-07-31,146000,L5 1AG,T,N,F,55,,St Domingo Vale,,Liverpool
+2025-07-25,201000,L5 4TE,T,N,L,38,,Harrogate Drive,,Liverpool
+2025-07-24,272500,L5 1TW,S,N,F,90,,Burleigh Road South,,Liverpool
+2025-07-18,250000,L5 1AL,D,N,F,37,,Venmore Street,,Liverpool
+2025-07-17,125000,L5 0BD,T,N,F,11,,Maryport Close,,Liverpool
+2025-07-09,65000,L5 6QT,T,N,F,39,,Ullswater Street,,Liverpool
+2025-07-09,72000,L5 4TG,F,N,L,33,,Lance Close,,Liverpool
+2025-07-09,145000,L5 4PN,S,N,L,46,,Landseer Road,,Liverpool
+2025-07-08,112000,L5 8SG,S,N,F,40B,,Silvester Street,,Liverpool
+2025-07-04,181000,L5 1AJ,S,N,F,1,,Oswestry Street,,Liverpool
+2025-06-30,72000,L5 7RS,T,N,L,9,,Pansy Street,,Liverpool
+2025-06-30,155000,L5 1TG,S,N,F,52,,Robson Street,Everton,Liverpool
+2025-06-26,64000,L5 3BB,F,N,L,275,,Conway Street,,Liverpool
+2025-06-25,25000,L5 7RA,F,N,L,17,Flat 10,Reading Street,,Liverpool
+2025-06-16,120000,L5 6RY,T,N,F,31,,Dacy Road,,Liverpool
+2025-06-16,70000,L5 6PF,T,N,F,56,,Handfield Street,,Liverpool
+2025-06-11,125000,L5 8XJ,T,N,L,8,,Mile End,,Liverpool
+2025-06-06,250000,L5 3PJ,T,N,F,2,,Portland Place,,Liverpool
+2025-06-02,110000,L5 3PT,F,N,L,20,,Courtier Close,,Liverpool
+2025-05-28,170000,L5 9XB,F,N,L,"Tobacco Wharf, 51",Apartment 112,Commercial Road,,Liverpool
+2025-05-27,115000,L5 6QP,T,N,F,13,,Rydal Street,,Liverpool
+2025-05-23,150000,L5 1XP,T,N,F,17,,Davy Street,,Liverpool
+2025-05-16,159000,L5 6QT,T,N,F,63,,Ullswater Street,,Liverpool
+2025-05-09,206101,L5 1AB,S,N,F,26,,Glaisher Street,,Liverpool
+2025-05-08,167000,L5 8XX,T,N,F,21,,Green Street,,Liverpool
+2025-05-07,200000,L5 2PT,T,Y,F,15,,Sterling Way,,Liverpool
+2025-05-06,80000,L5 3BB,F,N,L,305,,Conway Street,,Liverpool
+2025-04-30,80000,L5 6QX,T,N,F,20,,Ullswater Street,,Liverpool
+2025-04-28,16000,L5 3AA,F,N,L,"Flat A25, 5",Room 182,Prince Edwin Street,,Liverpool
+2025-04-18,180000,L5 4TN,S,N,F,7,,Rendal Close,,Liverpool
+2025-04-16,164645,L5 9RB,S,N,F,51,,Snowdon Lane,,Liverpool
+2025-04-11,160000,L5 2PA,T,N,F,19,,Smith Street,,Liverpool
+2025-04-09,194000,L5 3PT,T,N,F,34,,Courtier Close,,Liverpool
+2025-03-28,95000,L5 7RW,T,N,L,32,,Daisy Street,,Liverpool
+2025-03-28,140000,L5 3PD,F,N,L,109,,Rose Vale,,Liverpool
+2025-03-26,70000,L5 6PB,T,N,F,10,,Stockbridge Street,,Liverpool
+2025-03-25,105000,L5 6SG,S,N,F,36,,Heyes Street,,Liverpool
+2025-03-24,86972,L5 7RR,T,N,L,29,,Woodbine Street,,Liverpool
+2025-03-21,200000,L5 2PT,T,Y,F,1,,Sterling Way,,Liverpool
+2025-03-19,200000,L5 2PT,T,Y,F,7,,Sterling Way,,Liverpool
+2025-03-14,109000,L5 6PR,T,N,L,100,,Thirlmere Road,Everton,Liverpool
+2025-03-14,164000,L5 4TP,S,N,F,3,,Rishton Close,,Liverpool
+2025-03-14,200000,L5 2PT,T,Y,F,3,,Sterling Way,,Liverpool
+2025-02-28,50000,L5 5EB,F,N,L,Crete Tower,Apartment 42,Jason Street,,Liverpool
+2025-02-28,225000,L5 1AH,S,N,F,5,,Waterperry Drive,,Liverpool
+2025-02-24,200000,L5 2PT,T,Y,F,9,,Sterling Way,,Liverpool
+2025-02-19,78000,L5 3BA,F,N,L,151,,Conway Street,,Liverpool
+2025-02-14,92500,L5 7RN,T,N,L,27,,Daisy Street,,Liverpool
+2025-02-14,57000,L5 3BA,F,N,L,37,,Conway Street,,Liverpool
+2025-02-10,165000,L5 1AG,S,N,F,63,,St Domingo Vale,,Liverpool
+2025-02-07,185000,L5 9RA,S,N,F,56,,Snowdon Lane,,Liverpool
+2025-02-07,75000,L5 0RU,S,N,L,37,,Notre Dame Close,,Liverpool
+2025-01-31,155000,L5 7TB,S,N,L,3,,Lemon Street,,Liverpool
+2025-01-31,114950,L5 3AD,F,N,L,6,Flat 418,Great Homer Street,,Liverpool
+2025-01-28,80750,L5 6SE,T,N,F,55,,Heyes Street,,Liverpool
+2025-01-27,225000,L5 1AF,T,N,F,81,,Kemp Avenue,,Liverpool
+2025-01-24,137500,L5 0SY,T,N,F,52,,Ermine Crescent,,Liverpool
+2025-01-17,105000,L5 8SA,F,N,L,68,,James Dunne Avenue,,Liverpool
+2025-01-10,180000,L5 9RQ,T,N,F,12,,Houlgrave Road,,Liverpool
+2025-01-10,90000,L5 3BB,F,N,L,209,,Conway Street,,Liverpool
+2025-01-03,136000,L5 0SX,T,N,F,9,,Wye Street,,Liverpool
+2024-12-19,39000,L5 7RP,T,N,L,8,,Harebell Street,,Liverpool
+2024-12-19,168000,L5 7RB,F,N,L,9,,Swindon Street,,Liverpool
+2024-12-19,152000,L5 1AH,S,N,F,19,,Waterperry Drive,,Liverpool
+2024-12-19,218000,L5 0BB,T,N,F,76,,Whitehaven Road,,Liverpool
+2024-12-18,150000,L5 3ST,S,N,F,20,,Dentdale Drive,,Liverpool
+2024-12-13,135000,L5 0PS,T,N,F,48,,Penrose Street,,Liverpool
+2024-12-10,180500,L5 2AR,F,N,L,18,,Marnell Close,,Liverpool
+2024-12-09,275000,L5 9RP,T,N,F,48,,Barmouth Way,,Liverpool
+2024-12-06,295000,L5 1AH,D,N,F,6,,Waterperry Drive,,Liverpool
+2024-11-27,11000,L5 3AA,F,N,L,"Flat A5, 5",Room 37,Prince Edwin Street,,Liverpool
+2024-11-27,65000,L5 0BB,T,N,F,66,,Whitehaven Road,,Liverpool
+2024-11-25,125000,L5 4SX,S,N,L,18,,Eastlake Avenue,,Liverpool
+2024-11-25,130000,L5 0RD,T,N,F,20,,Calder Road,,Liverpool
+2024-11-20,199950,L5 2PT,T,Y,F,19A,,Sterling Way,,Liverpool
+2024-11-18,120000,L5 9RG,T,N,F,10,,Telary Close,,Liverpool
+2024-11-15,100000,L5 4PJ,T,N,L,9,,Landseer Road,,Liverpool
+2024-11-11,71000,L5 3BB,F,N,L,163,,Conway Street,,Liverpool
+2024-11-04,92384,L5 8XY,T,N,F,6,,St Brigids Crescent,,Liverpool
+2024-10-30,92000,L5 7RR,T,N,F,4,,Woodbine Street,,Liverpool
+2024-10-15,100000,L5 7RL,T,N,L,3,,Harebell Street,,Liverpool
+2024-10-02,200000,L5 6QG,S,N,F,24,,Kemp Avenue,,Liverpool
+2024-10-01,25500,L5 7RB,F,N,L,11,Flat 1,Swindon Street,,Liverpool
+2024-09-30,135000,L5 0PR,T,N,F,3,,Penrose Street,,Liverpool
+2024-09-27,133000,L5 0BD,T,N,F,7,,Maryport Close,,Liverpool
+2024-09-26,109000,L5 6SQ,T,N,F,128,,Little Heyes Street,,Liverpool
+2024-09-23,42500,L5 3LE,F,N,L,City Point,Unit 118,Great Homer Street,,Liverpool
+2024-09-20,65000,L5 3BA,F,N,L,137,,Conway Street,,Liverpool
+2024-09-13,216000,L5 7TZ,S,N,F,3,,Benton Close,,Liverpool
+2024-09-10,91000,L5 7RT,T,N,L,38,,Snowdrop Street,,Liverpool
+2024-09-06,92500,L5 3AB,F,N,L,6,Flat 317,Great Homer Street,,Liverpool
+2024-09-05,199950,L5 2PT,T,Y,F,21A,,Sterling Way,,Liverpool
+2024-09-04,80000,L5 6RH,T,N,F,65,,Grasmere Street,,Liverpool
+2024-08-27,85000,L5 6QX,T,N,F,34,,Ullswater Street,,Liverpool
+2024-08-21,50000,L5 5EB,F,N,L,Crete Tower,Apartment 43,Jason Street,,Liverpool
+2024-08-20,100000,L5 6PT,T,N,F,265,,Breck Road,Everton,Liverpool
+2024-08-15,50000,L5 5EB,F,N,L,Crete Tower,Apartment 51,Jason Street,,Liverpool
+2024-08-09,95000,L5 6QS,T,N,F,40,,Rydal Street,,Liverpool
+2024-08-08,185121,L5 1AB,S,N,F,24,,Glaisher Street,,Liverpool
+2024-08-06,37000,L5 7RB,F,N,L,11,Flat 9,Swindon Street,,Liverpool
+2024-08-02,238000,L5 3PJ,T,N,F,10,,Portland Place,,Liverpool
+2024-07-30,65000,L5 3BB,F,N,L,277,,Conway Street,,Liverpool
+2024-07-26,165500,L5 5EY,T,N,F,25,,Jason Walk,,Liverpool
+2024-07-23,155000,L5 7RW,T,N,F,38,,Daisy Street,,Liverpool
+2024-07-17,115000,L5 6QS,T,N,F,42,,Rydal Street,,Liverpool
+2024-07-17,56250,L5 6PA,T,N,F,65,,Stockbridge Street,,Liverpool
+2024-07-10,199950,L5 2PT,T,Y,F,5,,Sterling Way,,Liverpool
+2024-07-05,160000,L5 1AJ,S,N,F,45,,Oswestry Street,,Liverpool
+2024-07-04,120000,L5 9XB,F,N,L,"Tobacco Wharf, 51",Apartment 108,Commercial Road,,Liverpool
+2024-07-02,55000,L5 6PB,T,N,F,18,,Stockbridge Street,,Liverpool
+2024-07-01,202050,L5 1AA,S,N,F,9,,Martinette Close,,Liverpool
+2024-06-27,190000,L5 1AH,S,N,F,23,,Waterperry Drive,,Liverpool
+2024-06-26,180000,L5 0TU,T,N,F,19,,Robson Street,,Liverpool
+2024-06-21,67000,L5 7RS,T,N,L,25,,Pansy Street,,Liverpool
+2024-06-21,199950,L5 2PT,T,Y,F,23,,Sterling Way,,Liverpool
+2024-06-21,120000,L5 0PR,T,N,F,18,,Penrose Street,,Liverpool
+2024-06-10,42500,L5 7RB,F,N,L,11,Flat 11,Swindon Street,,Liverpool
+2024-06-07,85000,L5 7RW,T,N,L,8,,Daisy Street,,Liverpool
+2024-06-07,149950,L5 4TE,S,N,L,62,,Harrogate Drive,,Liverpool
+2024-05-30,101500,L5 3PT,F,N,L,28,,Courtier Close,,Liverpool
+2024-05-28,135000,L5 7TB,F,Y,L,11,Apartment 4,Lemon Street,,Liverpool
+2024-05-03,90000,L5 6PD,T,N,F,10,,Stockbridge Place,,Liverpool
+2024-04-30,155000,L5 4TW,S,N,F,3,,Tynemouth Close,,Liverpool
+2024-04-29,163000,L5 1XP,T,N,F,28,,Davy Street,,Liverpool
+2024-04-26,142000,L5 7SQ,T,N,F,16,,Lapworth Street,,Liverpool
+2024-04-26,77000,L5 6RU,T,N,F,8,,Boycott Street,,Liverpool
+2024-04-25,40500,L5 7RB,F,N,L,11,Flat 6,Swindon Street,,Liverpool
+2024-04-25,190000,L5 3ST,S,N,F,11,,Dentdale Drive,,Liverpool
+2024-04-24,90000,L5 3BA,F,N,L,143,,Conway Street,,Liverpool
+2024-04-18,195000,L5 2PT,T,Y,F,19,,Sterling Way,,Liverpool
+2024-04-12,15000,L5 3AA,F,N,L,"Flat A25, 5",Room 186,Prince Edwin Street,,Liverpool
+2024-04-05,60000,L5 4TF,T,N,L,11,,Spurgeon Close,,Liverpool
+2024-04-05,43000,L5 3PU,T,N,L,11,,Dorrington Walk,,Liverpool
+2024-03-28,199995,L5 2PT,T,Y,F,25,,Sterling Way,,Liverpool
+2024-03-21,173000,L5 2AR,T,N,L,27,,Marnell Close,,Liverpool
+2024-03-15,96500,L5 6SQ,T,N,F,142,,Little Heyes Street,,Liverpool
+2024-03-15,250000,L5 2PA,D,Y,F,29,,Smith Street,,Liverpool
+2024-03-10,164950,L5 6RD,T,N,F,14,,Isla Square,,Liverpool
+2024-02-26,161200,L5 2RU,T,N,F,59,,Hopwood Street,,Liverpool
+2024-02-23,90000,L5 6SQ,T,N,F,144,,Little Heyes Street,,Liverpool
+2024-02-23,86000,L5 3BA,F,N,L,103,,Conway Street,,Liverpool
+2024-02-13,185000,L5 1AF,S,N,F,66,,Kemp Avenue,,Liverpool
+2024-02-09,15000,L5 3AA,F,N,L,"Flat A12, 5",Room 85,Prince Edwin Street,,Liverpool
+2024-02-05,168000,L5 1XP,S,N,F,24,,Davy Street,,Liverpool
+2024-02-01,62000,L5 3BB,F,N,L,287,,Conway Street,,Liverpool
+2024-01-26,230000,L5 6QG,T,N,F,45,,Kemp Avenue,,Liverpool
+2024-01-26,135000,L5 4SY,T,N,L,5,,Wentworth Drive,,Liverpool
+2024-01-26,199950,L5 2PT,T,Y,F,21,,Sterling Way,,Liverpool
+2024-01-25,199950,L5 2PT,T,Y,F,23A,,Sterling Way,,Liverpool
+2024-01-24,180000,L5 4SU,S,N,L,3,,Danby Close,,Liverpool
+2024-01-24,80000,L5 1AL,S,N,F,23,,Venmore Street,,Liverpool
+2024-01-19,45000,L5 7TB,F,N,L,4,Flat 17,Lemon Street,,Liverpool
+2024-01-19,39999,L5 7TA,F,N,L,125,Flat 6,Stanley Road,,Liverpool
+2024-01-16,65000,L5 2SY,T,N,F,330,,Vauxhall Road,,Liverpool
+2024-01-09,172500,L5 7AA,F,Y,L,52,Apartment 18,Heriot Street,,Liverpool
+2023-12-27,120000,L5 2BP,F,N,L,290,Apartment 9,Vauxhall Road,,Liverpool
+2023-12-15,150000,L5 3SS,S,N,F,7,,Rothsay Close,,Liverpool
+2023-12-12,220000,L5 4TE,T,N,L,11,,Harrogate Drive,,Liverpool
+2023-12-08,119950,L5 7AB,F,Y,L,54,Apartment 10,Heriot Street,,Liverpool
+2023-12-06,70000,L5 7RR,T,N,L,10,,Woodbine Street,,Liverpool
+2023-11-30,110000,L5 3BB,F,N,L,269,,Conway Street,,Liverpool
+2023-11-30,192000,L5 2PT,T,Y,F,17A,,Sterling Way,,Liverpool
+2023-11-29,45000,L5 5EN,F,N,L,Candia Tower,Apartment 1,Jason Street,,Liverpool
+2023-11-28,60000,L5 7RR,T,N,L,25,,Woodbine Street,,Liverpool
+2023-11-27,132000,L5 1UR,T,N,F,132,,Hartnup Street,,Liverpool
+2023-11-24,80000,L5 7RU,T,N,L,26,,Crocus Street,,Liverpool
+2023-11-24,128250,L5 7AB,F,Y,L,54,Apartment 8,Heriot Street,,Liverpool
+2023-11-24,117500,L5 7AB,F,Y,L,54,Apartment 15,Heriot Street,,Liverpool
+2023-11-24,220000,L5 2AA,S,Y,F,14,,Blackfield Street,,Liverpool
+2023-11-17,50000,L5 5EB,F,N,L,Crete Tower,Apartment 131,Jason Street,,Liverpool
+2023-11-16,160000,L5 7SS,F,Y,L,49,Apartment 6,Great Mersey Street,,Liverpool
+2023-11-16,120000,L5 7AA,F,Y,L,52,Apartment 11,Heriot Street,,Liverpool
+2023-11-16,113950,L5 3AB,F,Y,L,6,Flat 215,Great Homer Street,,Liverpool
+2023-11-15,47000,L5 7RT,T,N,L,20,,Snowdrop Street,,Liverpool
+2023-11-14,72000,L5 6PA,T,N,F,87,,Stockbridge Street,,Liverpool
+2023-11-13,134950,L5 7AA,F,Y,L,52,Apartment 4,Heriot Street,,Liverpool
+2023-11-10,121250,L5 1TA,F,N,F,2,,Goschen Street,Everton,Liverpool
+2023-11-09,45000,L5 7RT,T,N,L,19,,Snowdrop Street,,Liverpool
+2023-10-31,85000,L5 2BJ,F,N,L,322,Apartment 5,Vauxhall Road,,Liverpool
+2023-10-30,196000,L5 6RN,T,N,F,35,,St Domingo Vale,,Liverpool
+2023-10-26,12250,L5 3AA,F,N,L,"Flat A20, 5",Room 147,Prince Edwin Street,,Liverpool
+2023-10-24,65000,L5 6QX,T,N,L,62,,Ullswater Street,,Liverpool
+2023-10-24,65000,L5 6QX,T,N,F,62,,Ullswater Street,,Liverpool
+2023-10-20,144995,L5 7TB,F,Y,L,11,Apartment 3,Lemon Street,,Liverpool
+2023-10-20,128000,L5 6SB,T,N,F,106,,Dacy Road,,Liverpool
+2023-10-20,97000,L5 3PT,F,N,L,24,,Courtier Close,,Liverpool
+2023-10-20,182000,L5 1AF,T,N,F,74,,Kemp Avenue,,Liverpool
+2023-10-18,70000,L5 6PL,T,N,F,39,,Faraday Street,,Liverpool
+2023-10-16,122000,L5 0RD,T,N,F,14,,Calder Road,,Liverpool
+2023-10-13,140000,L5 4TE,T,N,L,35,,Harrogate Drive,,Liverpool
+2023-10-12,120000,L5 7AA,F,Y,L,52,Apartment 24,Heriot Street,,Liverpool
+2023-10-12,57000,L5 3QN,F,N,L,27B,,Albion Street,,Liverpool
+2023-10-10,147000,L5 9RQ,T,N,L,6,,Houlgrave Road,,Liverpool
+2023-10-04,180000,L5 3QE,T,N,F,49,,Northumberland Terrace,,Liverpool
+2023-10-02,80000,L5 7RR,T,N,L,17,,Woodbine Street,,Liverpool
+2023-10-02,194000,L5 6RN,T,N,F,27,,St Domingo Vale,,Liverpool
+2023-09-27,170000,L5 2AR,T,N,L,33,,Marnell Close,,Liverpool
+2023-09-26,82000,L5 7RS,T,N,F,6,,Pansy Street,,Liverpool
+2023-09-08,199995,L5 2PT,T,Y,F,17,,Sterling Way,,Liverpool
+2023-09-08,220000,L5 2AA,S,Y,F,2,,Blackfield Street,,Liverpool
+2023-09-05,180000,L5 4TP,S,N,F,31,,Rishton Close,,Liverpool
+2023-09-01,210000,L5 6QG,T,N,F,41,,Kemp Avenue,,Liverpool
+2023-08-25,160000,L5 4SU,S,N,L,9,,Danby Close,,Liverpool
+2023-08-25,132995,L5 1UR,T,N,F,130,,Hartnup Street,,Liverpool
+2023-08-21,200000,L5 2AA,T,Y,F,22,,Blackfield Street,,Liverpool
+2023-08-18,220000,L5 2PT,T,Y,F,25A,,Sterling Way,,Liverpool
+2023-08-14,100000,L5 4PN,S,N,L,14,,Landseer Road,,Liverpool
+2023-08-07,172500,L5 4SU,S,N,L,11,,Danby Close,,Liverpool
+2023-07-28,155000,L5 9RG,T,N,F,11,,Telary Close,,Liverpool
+2023-07-28,203500,L5 3PJ,T,N,F,10,,Portland Place,,Liverpool
+2023-07-24,165000,L5 4SY,S,N,L,14,,Wentworth Drive,,Liverpool
+2023-07-21,82500,L5 4TB,T,N,L,15,,Elmore Close,,Liverpool
+2023-07-20,140424,L5 8AE,F,Y,L,7,Apartment 202,Bevington Bush,,Liverpool
+2023-07-20,128000,L5 6SB,T,N,F,108,,Dacy Road,,Liverpool
+2023-07-20,165000,L5 4SU,S,N,L,7,,Danby Close,,Liverpool
+2023-07-19,162000,L5 9RP,T,N,L,30,,Barmouth Way,,Liverpool
+2023-07-18,190000,L5 1AJ,S,N,F,11,,Oswestry Street,,Liverpool
+2023-07-17,74950,L5 3BB,F,N,L,285,,Conway Street,,Liverpool
+2023-07-12,61250,L5 5EN,F,N,L,Candia Tower,Apartment 114,Jason Street,,Liverpool
+2023-07-05,70000,L5 4TG,F,N,L,31,,Lance Close,,Liverpool
+2023-06-30,145000,L5 8SZ,T,N,F,70,,Hopwood Street,,Liverpool
+2023-06-30,75000,L5 4TB,T,N,L,12,,Elmore Close,,Liverpool
+2023-06-30,95000,L5 3BA,F,N,L,99,,Conway Street,,Liverpool
+2023-06-30,76000,L5 3BA,F,N,L,39,,Conway Street,,Liverpool
+2023-06-28,130000,L5 0PR,T,N,F,4,,Penrose Street,,Liverpool
+2023-06-27,149995,L5 7AA,F,Y,L,52,Apartment 2,Heriot Street,,Liverpool
+2023-06-23,121950,L5 7AA,F,Y,L,52,Apartment 17,Heriot Street,,Liverpool
+2023-06-22,146000,L5 7AB,F,Y,L,54,Apartment 23,Heriot Street,,Liverpool
+2023-06-22,137000,L5 5ES,T,N,F,19,,Skirving Street,,Liverpool
+2023-06-15,80000,L5 7RW,T,N,L,36,,Daisy Street,,Liverpool
+2023-06-15,107995,L5 7AA,F,Y,L,52,Apartment 7,Heriot Street,,Liverpool
+2023-06-12,100000,L5 4PN,T,N,L,20,,Landseer Road,,Liverpool
+2023-06-08,102995,L5 7AB,F,Y,L,54,Apartment 2,Heriot Street,,Liverpool
+2023-06-05,104995,L5 7AA,F,Y,L,52,Apartment 8,Heriot Street,,Liverpool
+2023-06-05,130000,L5 0RS,T,N,F,137,,St Domingo Road,,Liverpool
+2023-06-02,101995,L5 7AA,F,Y,L,52,Apartment 29,Heriot Street,,Liverpool
+2023-06-02,110995,L5 7AA,F,Y,L,52,Apartment 25,Heriot Street,,Liverpool
+2023-06-01,146995,L5 7AB,F,Y,L,54,Apartment 28,Heriot Street,,Liverpool
+2023-06-01,101995,L5 7AA,F,Y,L,52,Apartment 26,Heriot Street,,Liverpool
+2023-05-31,55000,L5 5EB,F,N,L,Crete Tower,Apartment 61,Jason Street,,Liverpool
+2023-05-31,150000,L5 4RT,S,N,L,12,,Hamilton Road,,Liverpool
+2023-05-30,99995,L5 7AB,F,Y,L,54,Apartment 14,Heriot Street,,Liverpool
+2023-05-30,98995,L5 7AB,F,Y,L,54,Apartment 11,Heriot Street,,Liverpool
+2023-05-30,101995,L5 7AB,F,Y,L,54,Apartment 36,Heriot Street,,Liverpool
+2023-05-26,106995,L5 7AB,F,Y,L,54,Apartment 32,Heriot Street,,Liverpool
+2023-05-26,144995,L5 7AB,F,Y,L,54,Apartment 18,Heriot Street,,Liverpool
+2023-05-26,135000,L5 6RT,T,N,F,11,,Reedmace Road,,Liverpool
+2023-05-26,175000,L5 1AA,S,N,F,1,,Martinette Close,,Liverpool
+2023-05-25,108995,L5 7AB,F,Y,L,54,Apartment 35,Heriot Street,,Liverpool
+2023-05-25,112590,L5 7AB,F,Y,L,54,Apartment 31,Heriot Street,,Liverpool
+2023-05-25,141995,L5 7AA,F,Y,L,52,Apartment 22,Heriot Street,,Liverpool
+2023-05-24,145000,L5 7TB,F,Y,L,11,Apartment 1,Lemon Street,,Liverpool
+2023-05-24,134995,L5 7TB,F,Y,L,11,Apartment 5,Lemon Street,,Liverpool
+2023-05-24,102995,L5 7AB,F,Y,L,54,Apartment 1,Heriot Street,,Liverpool
+2023-05-24,99995,L5 7AB,F,Y,L,54,Apartment 19,Heriot Street,,Liverpool
+2023-05-24,105995,L5 7AB,F,Y,L,54,Apartment 26,Heriot Street,,Liverpool
+2023-05-24,106950,L5 7AB,F,Y,L,54,Apartment 37,Heriot Street,,Liverpool
+2023-05-24,122995,L5 7AB,F,Y,L,54,Apartment 30,Heriot Street,,Liverpool
+2023-05-23,144995,L5 7SS,F,Y,L,49,Apartment 4,Great Mersey Street,,Liverpool
+2023-05-23,150995,L5 7AB,F,Y,L,54,Apartment 3,Heriot Street,,Liverpool
+2023-05-23,99950,L5 7AA,F,Y,L,52,Apartment 15,Heriot Street,,Liverpool
+2023-05-23,153995,L5 7AA,F,Y,L,52,Apartment 28,Heriot Street,,Liverpool
+2023-05-23,98500,L5 7AA,F,Y,L,52,Apartment 19,Heriot Street,,Liverpool
+2023-05-23,119995,L5 7AA,F,Y,L,52,Apartment 30,Heriot Street,,Liverpool
+2023-05-22,160000,L5 1UY,S,N,F,5,,Donaldson Street,,Liverpool
+2023-05-18,85000,L5 2BJ,F,N,L,322,Apartment 7,Vauxhall Road,,Liverpool
+2023-05-12,95000,L5 9XB,F,N,L,"Tobacco Wharf, 51",Apartment 51,Commercial Road,,Liverpool
+2023-05-05,185000,L5 1AF,T,N,F,81,,Kemp Avenue,,Liverpool
+2023-05-02,140000,L5 7QP,T,N,F,240,,Stanley Road,Kirkdale,Liverpool
+2023-04-28,192500,L5 2AA,S,Y,F,26,,Blackfield Street,,Liverpool
+2023-04-28,168000,L5 1AF,S,N,F,93,,Kemp Avenue,,Liverpool
+2023-04-26,165000,L5 7SU,D,N,F,2C,,Great Mersey Street,,Liverpool
+2023-04-25,155000,L5 4TE,S,N,L,34,,Harrogate Drive,,Liverpool
+2023-04-21,16000,L5 8SB,F,N,L,"Young Village, 19",Unit 3-01,Wright Street,,Liverpool
+2023-04-11,65000,L5 6QR,T,N,F,86,,Rydal Street,,Liverpool
+2023-04-05,115000,L5 7RP,T,N,L,50,,Harebell Street,,Liverpool
+2023-03-31,88000,L5 8SG,S,N,F,40A,,Silvester Street,,Liverpool
+2023-03-31,102500,L5 7RW,T,N,L,22,,Daisy Street,,Liverpool
+2023-03-30,77000,L5 6QU,T,N,L,97,,Ullswater Street,,Liverpool
+2023-03-29,58000,L5 7RS,T,N,L,44,,Pansy Street,,Liverpool
+2023-03-29,154950,L5 2PY,T,N,L,119,,Stanley Road,Kirkdale,Liverpool
+2023-03-29,225000,L5 2PG,S,Y,F,25,,Latham Street,,Liverpool
+2023-03-28,150000,L5 8XJ,T,N,F,18,,Mile End,,Liverpool
+2023-03-28,72000,L5 7RL,T,N,L,49,,Harebell Street,,Liverpool
+2023-03-23,52000,L5 3BB,F,N,L,227,,Conway Street,,Liverpool
+2023-03-22,210000,L5 2PG,S,Y,F,33,,Latham Street,,Liverpool
+2023-03-20,170000,L5 3NW,S,N,F,105,,Netherfield Road North,,Liverpool
+2023-03-17,87000,L5 6QZ,T,N,F,62,,Coniston Street,,Liverpool
+2023-03-14,160000,L5 2PG,S,N,F,5,,Latham Street,,Liverpool
+2023-03-10,156000,L5 5DZ,T,N,F,29,,Border Way,,Liverpool
+2023-03-10,185000,L5 4SX,S,N,L,34,,Eastlake Avenue,,Liverpool
+2023-03-10,148500,L5 4SX,S,N,L,28,,Eastlake Avenue,,Liverpool
+2023-03-10,195000,L5 2AA,S,Y,F,18,,Blackfield Street,,Liverpool
+2023-02-24,50000,L5 5EN,F,N,L,Candia Tower,Apartment 134,Jason Street,,Liverpool
+2023-02-23,45000,L5 6RZ,T,N,L,137,,Dacy Road,,Liverpool
+2023-02-09,135000,L5 6PW,T,N,F,105,,Thirlmere Road,Everton,Liverpool
+2023-02-08,150000,L5 5BP,T,N,F,31,,Penrhyn Street,,Liverpool
+2023-02-03,125000,L5 5ES,T,N,L,15,,Skirving Street,,Liverpool
+2023-02-03,30000,L5 4TB,F,N,L,14,,Elmore Close,,Liverpool
+2023-01-27,84000,L5 6RY,T,N,F,71,,Dacy Road,,Liverpool
+2023-01-27,140000,L5 2AR,T,N,L,28,,Marnell Close,,Liverpool
+2023-01-23,140000,L5 4TJ,S,N,F,45,,Halkyn Drive,,Liverpool
+2023-01-19,72000,L5 7RW,T,N,F,26,,Daisy Street,,Liverpool
+2023-01-18,140000,L5 4SY,S,N,L,2,,Wentworth Drive,,Liverpool
+2023-01-13,185000,L5 2AA,S,Y,F,30,,Blackfield Street,,Liverpool
+2023-01-12,185000,L5 2AA,S,Y,F,28,,Blackfield Street,,Liverpool
+2023-01-11,195000,L5 9RB,S,N,F,35,,Snowdon Lane,,Liverpool
+2023-01-11,150000,L5 2AR,T,N,L,16,,Marnell Close,,Liverpool
+2023-01-06,71000,L5 7SS,T,N,L,53,,Great Mersey Street,,Liverpool
+2023-01-06,224400,L5 2PG,S,Y,F,30,,Latham Street,,Liverpool
+2023-01-06,185000,L5 2AA,S,Y,F,24,,Blackfield Street,,Liverpool
+2023-01-03,17500,L5 3AA,F,N,L,"Flat A7, 5",Room 50,Prince Edwin Street,,Liverpool
+2022-12-21,55000,L5 6PD,T,N,F,4,,Stockbridge Place,,Liverpool
+2022-12-21,80000,L5 3BB,F,N,L,191,,Conway Street,,Liverpool
+2022-12-21,220000,L5 2SJ,S,Y,F,19,,Vesuvius Street,,Liverpool
+2022-12-16,73000,L5 9XS,F,N,L,"Tobacco Wharf, 51",Apartment 21,Commercial Road,,Liverpool
+2022-12-16,70000,L5 9XB,F,N,L,"Tobacco Wharf, 51",Apartment 116,Commercial Road,,Liverpool
+2022-12-16,195000,L5 2AA,S,Y,F,16,,Blackfield Street,,Liverpool
+2022-12-15,135000,L5 8SZ,T,N,L,104,,Hopwood Street,,Liverpool
+2022-12-15,62500,L5 6QX,T,N,F,36,,Ullswater Street,,Liverpool
+2022-12-14,82000,L5 6SG,T,N,F,14,,Heyes Street,,Liverpool
+2022-12-12,199995,L5 2SL,S,Y,F,32,,Latham Street,,Liverpool
+2022-12-05,185000,L5 2PG,T,Y,F,31,,Latham Street,,Liverpool
+2022-12-02,15000,L5 6PW,F,N,L,121,Flat 1,Thirlmere Road,Everton,Liverpool
+2022-11-25,165000,L5 4SY,S,N,L,34,,Wentworth Drive,,Liverpool
+2022-11-25,148000,L5 1AG,T,N,F,61,,St Domingo Vale,,Liverpool
+2022-11-22,138000,L5 6RZ,T,N,F,113,,Dacy Road,,Liverpool
+2022-11-17,51250,L5 5EB,F,N,L,Crete Tower,Apartment 82,Jason Street,,Liverpool
+2022-11-17,65000,L5 4TG,F,N,L,33,,Lance Close,,Liverpool
+2022-11-15,44000,L5 7RU,T,N,L,6,,Crocus Street,,Liverpool
+2022-11-15,210000,L5 3PT,T,N,F,32,,Courtier Close,,Liverpool
+2022-11-15,134950,L5 3AD,F,N,L,6,Flat 505,Great Homer Street,,Liverpool
+2022-11-15,19000,L5 3AA,F,N,L,"Flat B15, 5",Room 134,Prince Edwin Street,,Liverpool
+2022-11-14,178900,L5 3PE,S,N,F,59,,Langrove Street,,Liverpool
+2022-11-14,115000,L5 3AD,F,N,L,6,Flat 611,Great Homer Street,,Liverpool
+2022-11-04,140000,L5 6QT,T,N,F,65,,Ullswater Street,,Liverpool
+2022-11-04,105000,L5 2BP,F,N,L,290,Apartment 11,Vauxhall Road,,Liverpool
+2022-10-26,195000,L5 1UR,S,N,F,124,,Hartnup Street,,Liverpool
+2022-10-20,92500,L5 3BB,F,N,L,243,,Conway Street,,Liverpool
+2022-10-17,125000,L5 6SB,T,N,F,118,,Dacy Road,,Liverpool
+2022-10-14,146250,L5 9RP,T,N,L,44,,Barmouth Way,,Liverpool
+2022-10-14,28000,L5 3LE,F,N,L,City Point,Unit 207,Great Homer Street,,Liverpool
+2022-10-14,175000,L5 2SL,T,Y,F,14F,,Smith Place,,Liverpool
+2022-10-14,185000,L5 2SL,T,Y,F,14E,,Smith Place,,Liverpool
+2022-10-14,185000,L5 2SL,T,Y,F,14D,,Smith Place,,Liverpool
+2022-10-12,175000,L5 2SL,T,Y,F,14C,,Smith Place,,Liverpool
+2022-10-10,175000,L5 2SL,T,Y,F,14B,,Smith Place,,Liverpool
+2022-10-07,133500,L5 7TD,S,N,L,4,,St Alphonsus Street,,Liverpool
+2022-10-07,155000,L5 4SY,S,N,L,43,,Wentworth Drive,,Liverpool
+2022-10-06,67500,L5 6PE,T,N,F,37,,Handfield Street,,Liverpool
+2022-10-03,99950,L5 2BP,F,N,L,290,Apartment 19,Vauxhall Road,,Liverpool
+2022-09-30,56000,L5 0RU,S,N,L,5,,Notre Dame Close,,Liverpool
+2022-09-29,60000,L5 6QP,T,N,F,57,,Rydal Street,,Liverpool
+2022-09-27,80000,L5 8SX,S,N,F,61,,Benledi Street,,Liverpool
+2022-09-27,155000,L5 1UY,D,N,F,9,,Donaldson Street,,Liverpool
+2022-09-27,68000,L5 0RF,F,N,L,51,,Mark Street,,Liverpool
+2022-09-26,125000,L5 8SA,F,N,L,63,,James Dunne Avenue,,Liverpool
+2022-09-23,90000,L5 7RT,T,N,F,16,,Snowdrop Street,,Liverpool
+2022-09-15,100500,L5 0BB,T,N,F,55,,Whitehaven Road,,Liverpool
+2022-09-14,120950,L5 3AB,F,Y,L,6,Flat 219,Great Homer Street,,Liverpool
+2022-09-12,88000,L5 7RR,T,N,F,4,,Woodbine Street,,Liverpool
+2022-09-12,109000,L5 6SG,T,N,F,24,,Heyes Street,,Liverpool
+2022-09-09,66000,L5 7RN,T,N,L,43,,Daisy Street,,Liverpool
+2022-09-09,175000,L5 2PG,S,Y,F,35,,Latham Street,,Liverpool
+2022-09-07,225000,L5 2SJ,S,Y,F,1,,Vesuvius Street,,Liverpool
+2022-09-07,175000,L5 2PG,S,Y,F,37,,Latham Street,,Liverpool
+2022-09-05,67000,L5 3BB,F,N,L,165,,Conway Street,,Liverpool
+2022-09-03,92500,L5 3BA,F,N,L,19,,Conway Street,,Liverpool
+2022-09-02,100000,L5 3BB,F,N,L,297,,Conway Street,,Liverpool
+2022-09-02,175000,L5 2PG,S,Y,F,36,,Latham Street,,Liverpool
+2022-08-16,110000,L5 0PR,T,N,F,4,,Penrose Street,,Liverpool
+2022-08-05,70000,L5 3BA,F,N,L,135,,Conway Street,,Liverpool
+2022-08-04,140000,L5 3PT,F,N,L,7,,Courtier Close,,Liverpool
+2022-08-01,148000,L5 4PN,S,N,L,44,,Landseer Road,,Liverpool
+2022-08-01,185000,L5 1AJ,S,N,F,33,,Oswestry Street,,Liverpool
+2022-07-29,70000,L5 6PA,T,N,F,43,,Stockbridge Street,,Liverpool
+2022-07-25,166000,L5 4TD,T,N,L,19,,Northcote Close,,Liverpool
+2022-07-22,61000,L5 6RH,T,N,F,67,,Grasmere Street,,Liverpool
+2022-07-22,80000,L5 6PL,T,N,F,6,,Faraday Street,,Liverpool
+2022-07-22,175000,L5 2PG,S,Y,F,34,,Latham Street,,Liverpool
+2022-07-20,155000,L5 2AR,T,N,L,12,,Marnell Close,,Liverpool
+2022-07-18,150000,L5 4TE,S,N,L,25,,Harrogate Drive,,Liverpool
+2022-07-13,116100,L5 5BE,F,N,L,62,,Chapel Gardens,,Liverpool
+2022-07-08,171000,L5 8SU,S,N,F,33,,Latimer Street,,Liverpool
+2022-07-08,190000,L5 3PJ,T,N,F,8,,Portland Place,,Liverpool
+2022-07-07,71000,L5 6SF,T,N,F,95,,Little Heyes Street,,Liverpool
+2022-06-30,50000,L5 7RU,T,N,L,18,,Crocus Street,,Liverpool
+2022-06-24,73000,L5 6QS,T,N,F,62,,Rydal Street,,Liverpool
+2022-06-24,93000,L5 3BB,F,N,L,181,,Conway Street,,Liverpool
+2022-06-24,93000,L5 3BB,F,N,L,181,,Conway Street,,Liverpool
+2022-06-17,72000,L5 7RS,T,N,L,48,,Pansy Street,,Liverpool
+2022-06-15,99950,L5 3BB,F,N,L,301,,Conway Street,,Liverpool
+2022-06-08,168000,L5 3SS,S,N,F,8,,Rothsay Close,,Liverpool
+2022-06-07,106500,L5 5BP,T,N,F,29,,Penrhyn Street,,Liverpool
+2022-05-27,37000,L5 8SA,F,N,L,75,,James Dunne Avenue,,Liverpool
+2022-05-20,130000,L5 7QF,T,N,L,309,,Stanley Road,Kirkdale,Liverpool
+2022-05-20,185000,L5 2PG,S,Y,F,38,,Latham Street,,Liverpool
+2022-05-17,134950,L5 3AD,F,Y,L,6,Flat 507,Great Homer Street,,Liverpool
+2022-05-13,67000,L5 6PE,T,N,F,49,,Handfield Street,,Liverpool
+2022-05-12,155000,L5 4SX,S,N,L,54,,Eastlake Avenue,,Liverpool
+2022-05-04,103000,L5 9XB,F,N,L,"Tobacco Wharf, 51",Apartment 30,Commercial Road,,Liverpool
+2022-04-29,152000,L5 7SQ,T,N,F,4,,Lapworth Street,,Liverpool
+2022-04-20,145000,L5 9RA,T,N,F,82,,Snowdon Lane,,Liverpool
+2022-04-20,70000,L5 7RW,T,N,L,28,,Daisy Street,,Liverpool
+2022-04-19,140000,L5 6SG,S,N,F,36,,Heyes Street,,Liverpool
+2022-04-13,55000,L5 3BB,F,N,L,193,,Conway Street,,Liverpool
+2022-04-11,185000,L5 2PG,S,Y,F,39,,Latham Street,,Liverpool
+2022-04-08,175000,L5 6RN,S,N,F,25,,St Domingo Vale,,Liverpool
+2022-03-31,59950,L5 5EB,F,N,L,Crete Tower,Apartment 114,Jason Street,,Liverpool
+2022-03-29,110000,L5 6SG,T,N,L,8,,Heyes Street,,Liverpool
+2022-03-28,150000,L5 2SR,S,N,F,2,,Lyle Street,,Liverpool
+2022-03-22,30000,L5 5AQ,F,N,L,319,,Scotland Road,,Liverpool
+2022-03-21,150000,L5 1AJ,S,N,F,43,,Oswestry Street,,Liverpool
+2022-03-18,72500,L5 6PP,T,N,F,56,,Thirlmere Road,Everton,Liverpool
+2022-03-16,55000,L5 3BA,F,N,L,87,,Conway Street,,Liverpool
+2022-03-16,212500,L5 2PG,S,Y,F,40,,Latham Street,,Liverpool
+2022-03-11,146000,L5 1XP,T,N,F,3,,Davy Street,,Liverpool
+2022-03-04,125000,L5 6SB,T,N,F,108,,Dacy Road,,Liverpool
+2022-03-04,162000,L5 2AT,T,N,L,18,,Gem Street,,Liverpool
+2022-02-25,150000,L5 3ST,S,N,F,6,,Dentdale Drive,,Liverpool
+2022-02-21,65000,L5 5EB,F,N,L,Crete Tower,Apartment 104,Jason Street,,Liverpool
+2022-02-21,275000,L5 1AJ,D,N,F,32,,Oswestry Street,,Liverpool
+2022-02-18,108000,L5 9XB,F,N,L,"Tobacco Wharf, 51",Apartment 31,Commercial Road,,Liverpool
+2022-02-14,139000,L5 9XB,F,N,L,"Tobacco Wharf, 51",Apartment 74,Commercial Road,,Liverpool
+2022-02-04,135000,L5 0BD,T,N,F,20,,Maryport Close,,Liverpool
+2022-02-03,136000,L5 4TE,S,N,L,47,,Harrogate Drive,,Liverpool
+2022-01-31,71000,L5 6QZ,T,N,F,6,,Coniston Street,,Liverpool
+2022-01-27,55000,L5 7RT,T,N,L,23,,Snowdrop Street,,Liverpool
+2022-01-27,68950,L5 3AB,F,Y,L,6,Flat 114,Great Homer Street,,Liverpool
+2022-01-21,76500,L5 8XY,T,N,F,5,,St Brigids Crescent,,Liverpool
+2022-01-21,75000,L5 6QS,T,N,L,56,,Rydal Street,,Liverpool
+2022-01-21,132000,L5 4TW,S,N,F,5,,Tynemouth Close,,Liverpool
+2022-01-14,97000,L5 6QB,T,N,F,300A,,Breck Road,Everton,Liverpool
+2022-01-14,151500,L5 1AF,S,N,F,58,,Kemp Avenue,,Liverpool
+2022-01-10,120000,L5 5EY,T,N,F,40,,Jason Walk,,Liverpool
+2022-01-07,140000,L5 9RB,T,N,F,63,,Snowdon Lane,,Liverpool
+2022-01-07,125000,L5 4TA,T,N,L,25,,Stanfield Avenue,,Liverpool
+2021-12-23,76950,L5 3AB,F,Y,L,6,Flat 314,Great Homer Street,,Liverpool
+2021-12-22,78950,L5 3AD,F,Y,L,6,Flat 421,Great Homer Street,,Liverpool
+2021-12-21,103000,L5 9XB,F,N,L,"Tobacco Wharf, 51",Apartment 101,Commercial Road,,Liverpool
+2021-12-21,75000,L5 6SF,T,N,F,105,,Little Heyes Street,,Liverpool
+2021-12-21,84950,L5 3AB,F,Y,L,6,Flat 3,Great Homer Street,,Liverpool
+2021-12-20,106000,L5 9XB,F,N,L,"Tobacco Wharf, 51",Apartment 34,Commercial Road,,Liverpool
+2021-12-17,72000,L5 6SQ,T,N,F,112,,Little Heyes Street,,Liverpool
+2021-12-17,88000,L5 3BA,F,N,L,111,,Conway Street,,Liverpool
+2021-12-17,171950,L5 3AD,F,Y,L,6,Flat 408,Great Homer Street,,Liverpool
+2021-12-17,167000,L5 2AT,T,N,L,30,,Gem Street,,Liverpool
+2021-12-16,92950,L5 3AD,F,Y,L,6,Flat 423,Great Homer Street,,Liverpool
+2021-12-16,83950,L5 3AD,F,Y,L,6,Flat 603,Great Homer Street,,Liverpool
+2021-12-16,124450,L5 3AB,F,Y,L,6,Flat 216,Great Homer Street,,Liverpool
+2021-12-16,109000,L5 3AB,F,Y,L,6,Flat 222,Great Homer Street,,Liverpool
+2021-12-16,124950,L5 3AB,F,Y,L,6,Flat 120,Great Homer Street,,Liverpool
+2021-12-16,162950,L5 3AB,F,Y,L,6,Flat 308,Great Homer Street,,Liverpool
+2021-12-15,48000,L5 6SF,T,N,F,79,,Little Heyes Street,,Liverpool
+2021-12-15,71000,L5 6PF,T,N,F,6,,Handfield Street,,Liverpool
+2021-12-13,132000,L5 4TW,S,N,F,3,,Tynemouth Close,,Liverpool
+2021-12-09,165000,L5 4TE,S,N,L,45,,Harrogate Drive,,Liverpool
+2021-12-09,116450,L5 3AB,F,Y,L,6,Flat 323,Great Homer Street,,Liverpool
+2021-12-08,83950,L5 3AD,F,Y,L,6,Flat 607,Great Homer Street,,Liverpool
+2021-12-08,86950,L5 3AD,F,Y,L,6,Flat 604,Great Homer Street,,Liverpool
+2021-12-08,83950,L5 3AD,F,Y,L,6,Flat 606,Great Homer Street,,Liverpool
+2021-12-08,84950,L5 3AB,F,Y,L,6,Flat 4,Great Homer Street,,Liverpool
+2021-12-08,76950,L5 3AB,F,Y,L,6,Flat 310,Great Homer Street,,Liverpool
+2021-12-08,84950,L5 3AB,F,Y,L,6,Flat 5,Great Homer Street,,Liverpool
+2021-12-07,106000,L5 9XB,F,N,L,"Tobacco Wharf, 51",Apartment 33,Commercial Road,,Liverpool
+2021-12-06,137300,L5 7TR,T,N,F,60,,Great Mersey Street,,Liverpool
+2021-12-06,110450,L5 3AB,F,Y,L,6,Flat 209,Great Homer Street,,Liverpool
+2021-12-03,120000,L5 0PS,T,N,F,59,,Penrose Street,,Liverpool
+2021-12-02,61500,L5 3BA,F,N,L,27,,Conway Street,,Liverpool
+2021-12-02,83950,L5 3AD,F,Y,L,6,Flat 608,Great Homer Street,,Liverpool
+2021-12-02,114450,L5 3AD,F,Y,L,6,Flat 505,Great Homer Street,,Liverpool
+2021-12-02,88950,L5 3AD,F,Y,L,6,Flat 601,Great Homer Street,,Liverpool
+2021-12-02,75950,L5 3AD,F,Y,L,6,Flat 420,Great Homer Street,,Liverpool
+2021-12-02,96450,L5 3AB,F,Y,L,6,Flat 6,Great Homer Street,,Liverpool
+2021-12-02,113450,L5 3AB,F,Y,L,6,Flat 317,Great Homer Street,,Liverpool
+2021-12-02,105450,L5 3AB,F,Y,L,6,Flat 202,Great Homer Street,,Liverpool
+2021-12-02,70950,L5 3AB,F,Y,L,6,Flat 210,Great Homer Street,,Liverpool
+2021-11-30,68950,L5 3AB,F,Y,L,6,Flat 110,Great Homer Street,,Liverpool
+2021-11-29,115000,L5 3AD,F,Y,L,6,Flat 609,Great Homer Street,,Liverpool
+2021-11-29,117450,L5 3AD,F,Y,L,6,Flat 511,Great Homer Street,,Liverpool
+2021-11-29,76950,L5 3AD,F,Y,L,6,Flat 513,Great Homer Street,,Liverpool
+2021-11-29,82950,L5 3AD,F,Y,L,6,Flat 417,Great Homer Street,,Liverpool
+2021-11-29,75950,L5 3AD,F,Y,L,6,Flat 410,Great Homer Street,,Liverpool
+2021-11-29,92450,L5 3AD,F,Y,L,6,Flat 419,Great Homer Street,,Liverpool
+2021-11-29,79950,L5 3AD,F,Y,L,6,Flat 508,Great Homer Street,,Liverpool
+2021-11-29,112450,L5 3AD,F,Y,L,6,Flat 510,Great Homer Street,,Liverpool
+2021-11-29,70950,L5 3AB,F,Y,L,6,Flat 105,Great Homer Street,,Liverpool
+2021-11-29,75950,L5 3AB,F,Y,L,6,Flat 106,Great Homer Street,,Liverpool
+2021-11-29,69450,L5 3AB,F,Y,L,6,Flat 205,Great Homer Street,,Liverpool
+2021-11-29,69450,L5 3AB,F,Y,L,6,Flat 206,Great Homer Street,,Liverpool
+2021-11-29,69450,L5 3AB,F,Y,L,6,Flat 214,Great Homer Street,,Liverpool
+2021-11-29,116450,L5 3AB,F,Y,L,6,Flat 313,Great Homer Street,,Liverpool
+2021-11-29,170000,L5 1AB,T,N,F,19,,Glaisher Street,,Liverpool
+2021-11-26,64995,L5 8SA,F,N,L,89,,James Dunne Avenue,,Liverpool
+2021-11-26,74500,L5 3BA,F,N,L,93,,Conway Street,,Liverpool
+2021-11-26,113000,L5 3AD,F,Y,L,6,Flat 512,Great Homer Street,,Liverpool
+2021-11-26,166950,L5 3AD,F,Y,L,6,Flat 407,Great Homer Street,,Liverpool
+2021-11-26,86950,L5 3AD,F,Y,L,6,Flat 605,Great Homer Street,,Liverpool
+2021-11-26,113450,L5 3AB,F,Y,L,6,Flat 322,Great Homer Street,,Liverpool
+2021-11-26,75000,L5 3AB,F,Y,L,6,Flat 301,Great Homer Street,,Liverpool
+2021-11-25,86500,L5 6QR,T,N,F,83,,Rydal Street,,Liverpool
+2021-11-24,165000,L5 4TA,S,N,L,5,,Stanfield Avenue,,Liverpool
+2021-11-24,115450,L5 3AD,F,Y,L,6,Flat 404,Great Homer Street,,Liverpool
+2021-11-22,76450,L5 3AD,F,Y,L,6,Flat 401,Great Homer Street,,Liverpool
+2021-11-22,162950,L5 3AB,F,Y,L,6,Flat 307,Great Homer Street,,Liverpool
+2021-11-22,97500,L5 2SL,T,N,F,16,,Smith Place,,Liverpool
+2021-11-22,127500,L5 1UY,T,N,F,7,,Donaldson Street,,Liverpool
+2021-11-19,82000,L5 6SB,T,N,F,116,,Dacy Road,,Liverpool
+2021-11-19,77450,L5 3AD,F,Y,L,6,Flat 501,Great Homer Street,,Liverpool
+2021-11-19,113950,L5 3AD,F,Y,L,6,Flat 411,Great Homer Street,,Liverpool
+2021-11-19,113950,L5 3AD,F,Y,L,6,Flat 412,Great Homer Street,,Liverpool
+2021-11-19,113950,L5 3AD,F,Y,L,6,Flat 413,Great Homer Street,,Liverpool
+2021-11-19,112450,L5 3AD,F,Y,L,6,Flat 515,Great Homer Street,,Liverpool
+2021-11-19,144450,L5 3AD,F,Y,L,6,Flat 702,Great Homer Street,,Liverpool
+2021-11-19,78950,L5 3AD,F,Y,L,6,Flat 405,Great Homer Street,,Liverpool
+2021-11-19,115950,L5 3AB,F,Y,L,6,Flat 321,Great Homer Street,,Liverpool
+2021-11-19,108450,L5 3AB,F,Y,L,6,Flat 111,Great Homer Street,,Liverpool
+2021-11-19,121450,L5 3AB,F,Y,L,6,Flat 312,Great Homer Street,,Liverpool
+2021-11-19,76950,L5 3AB,F,Y,L,6,Flat 306,Great Homer Street,,Liverpool
+2021-11-19,75450,L5 3AB,F,Y,L,6,Flat 201,Great Homer Street,,Liverpool
+2021-11-19,110450,L5 3AB,F,Y,L,6,Flat 218,Great Homer Street,,Liverpool
+2021-11-19,76950,L5 3AB,F,Y,L,6,Flat 305,Great Homer Street,,Liverpool
+2021-11-19,120450,L5 3AB,F,Y,L,6,Flat 223,Great Homer Street,,Liverpool
+2021-11-19,73950,L5 3AB,F,Y,L,6,Flat 101,Great Homer Street,,Liverpool
+2021-11-18,115450,L5 3AB,F,Y,L,6,Flat 320,Great Homer Street,,Liverpool
+2021-11-18,113450,L5 3AB,F,Y,L,6,Flat 319,Great Homer Street,,Liverpool
+2021-11-18,116950,L5 3AB,F,Y,L,6,Flat 303,Great Homer Street,,Liverpool
+2021-11-18,108950,L5 3AB,F,Y,L,6,Flat 117,Great Homer Street,,Liverpool
+2021-11-18,156950,L5 3AB,F,Y,L,6,Flat 107,Great Homer Street,,Liverpool
+2021-11-16,115450,L5 3AD,F,Y,L,6,Flat 415,Great Homer Street,,Liverpool
+2021-11-16,126450,L5 3AD,F,Y,L,6,Flat 503,Great Homer Street,,Liverpool
+2021-11-16,78450,L5 3AD,F,Y,L,6,Flat 406,Great Homer Street,,Liverpool
+2021-11-16,118450,L5 3AD,F,Y,L,6,Flat 402,Great Homer Street,,Liverpool
+2021-11-16,92950,L5 3AD,F,Y,L,6,Flat 422,Great Homer Street,,Liverpool
+2021-11-16,126450,L5 3AD,F,Y,L,6,Flat 502,Great Homer Street,,Liverpool
+2021-11-16,108450,L5 3AB,F,Y,L,6,Flat 103,Great Homer Street,,Liverpool
+2021-11-16,111650,L5 3AB,F,Y,L,6,Flat 212,Great Homer Street,,Liverpool
+2021-11-16,113450,L5 3AB,F,Y,L,6,Flat 221,Great Homer Street,,Liverpool
+2021-11-16,108450,L5 3AB,F,Y,L,6,Flat 115,Great Homer Street,,Liverpool
+2021-11-15,85000,L5 6RX,T,N,F,4,,Crouch Street,,Liverpool
+2021-11-12,108000,L5 9XB,F,N,L,"Tobacco Wharf, 51",Apartment 40,Commercial Road,,Liverpool
+2021-11-12,108000,L5 9XB,F,N,L,"Tobacco Wharf, 51",Apartment 37,Commercial Road,,Liverpool
+2021-11-11,108000,L5 9XB,F,N,L,"Tobacco Wharf, 51",Apartment 39,Commercial Road,,Liverpool
+2021-11-10,87000,L5 3BA,F,N,L,149,,Conway Street,,Liverpool
+2021-11-09,130000,L5 2AR,T,N,L,5,,Marnell Close,,Liverpool
+2021-11-05,167000,L5 7TR,T,N,F,38,,Great Mersey Street,,Liverpool
+2021-11-03,48000,L5 6PL,T,N,F,48,,Faraday Street,,Liverpool
+2021-11-03,43000,L5 5EB,F,N,L,Crete Tower,Apartment 83,Jason Street,,Liverpool
+2021-11-02,109000,L5 9XB,F,N,L,"Tobacco Wharf, 51",Apartment 29,Commercial Road,,Liverpool
+2021-11-02,106000,L5 9XB,F,N,L,"Tobacco Wharf, 51",Apartment 32,Commercial Road,,Liverpool
+2021-11-02,97000,L5 9XB,F,N,L,"Tobacco Wharf, 51",Apartment 49,Commercial Road,,Liverpool
+2021-10-29,175000,L5 9RP,T,N,F,46,,Barmouth Way,,Liverpool
+2021-10-29,160000,L5 4PJ,S,N,L,15,,Landseer Road,,Liverpool
+2021-10-28,125000,L5 7SB,T,N,F,35,,Heriot Street,,Liverpool
+2021-10-20,145000,L5 3ST,S,N,F,5,,Dentdale Drive,,Liverpool
+2021-10-15,70000,L5 6QS,T,N,F,16,,Rydal Street,,Liverpool
+2021-10-15,70000,L5 6QS,T,N,L,16,,Rydal Street,,Liverpool
+2021-10-15,40500,L5 5EN,F,N,L,Candia Tower,Apartment 84,Jason Street,,Liverpool
+2021-10-14,160000,L5 6RW,T,N,F,90,,St Domingo Vale,,Liverpool
+2021-10-11,41250,L5 3BB,F,N,L,197,,Conway Street,,Liverpool
+2021-10-08,59000,L5 3BA,F,N,L,45,,Conway Street,,Liverpool
+2021-10-08,173000,L5 1AB,S,N,F,2,,Glaisher Street,,Liverpool
+2021-09-30,145000,L5 6RD,S,N,F,10,,Isla Square,,Liverpool
+2021-09-30,70000,L5 0TU,S,N,L,9,,Robson Street,,Liverpool
+2021-09-24,145000,L5 2PY,T,N,L,113A,,Stanley Road,Kirkdale,Liverpool
+2021-09-20,60000,L5 6QB,T,N,F,292,,Breck Road,Everton,Liverpool
+2021-09-17,47000,L5 6QG,T,N,F,41,,Kemp Avenue,,Liverpool
+2021-09-14,80000,L5 0BA,T,N,F,11,,Lambrigg Row,,Liverpool
+2021-09-06,115000,L5 9XS,F,N,L,"Tobacco Wharf, 51",Apartment 24,Commercial Road,,Liverpool
+2021-09-03,64950,L5 6PL,T,N,F,39,,Faraday Street,,Liverpool
+2021-08-27,160000,L5 9RA,T,N,F,66,,Snowdon Lane,,Liverpool
+2021-08-24,147000,L5 4SX,S,N,L,4,,Eastlake Avenue,,Liverpool
+2021-08-13,160000,L5 2PA,S,Y,F,21,,Smith Street,,Liverpool
+2021-08-13,160000,L5 2PA,T,Y,F,19,,Smith Street,,Liverpool
+2021-08-12,220000,L5 2PA,S,Y,F,15,,Smith Street,,Liverpool
+2021-08-10,53500,L5 3BA,F,N,L,65,,Conway Street,,Liverpool
+2021-08-06,130000,L5 0TU,T,N,F,15,,Robson Street,,Liverpool
+2021-08-05,160000,L5 2PG,S,Y,F,49,,Latham Street,,Liverpool
+2021-08-04,160000,L5 2PA,S,Y,F,23,,Smith Street,,Liverpool
+2021-07-30,120000,L5 6SE,T,N,F,49,,Heyes Street,,Liverpool
+2021-07-23,82000,L5 7RS,T,N,L,13,,Pansy Street,,Liverpool
+2021-07-23,125000,L5 4TE,S,N,L,14,,Harrogate Drive,,Liverpool
+2021-07-22,92000,L5 2AT,F,N,L,6,,Gem Street,,Liverpool
+2021-07-13,239998,L5 2PA,D,Y,F,27,,Smith Street,,Liverpool
+2021-07-07,68000,L5 6PE,T,N,F,41,,Handfield Street,,Liverpool
+2021-07-01,110000,L5 6SG,T,N,F,96,,Heyes Street,,Liverpool
+2021-06-30,160000,L5 2PA,S,Y,F,17,,Smith Street,,Liverpool
+2021-06-25,62000,L5 7RS,T,N,F,42,,Pansy Street,,Liverpool
+2021-06-25,85000,L5 4TF,T,N,L,12,,Spurgeon Close,,Liverpool
+2021-06-25,62000,L5 2BP,F,N,L,290,Apartment 4,Vauxhall Road,,Liverpool
+2021-06-11,80000,L5 4SZ,S,N,L,19,,Jasmine Close,,Liverpool
+2021-06-04,175000,L5 2PG,S,Y,F,45,,Latham Street,,Liverpool
+2021-06-02,110000,L5 1XP,T,N,F,5,,Davy Street,,Liverpool
+2021-05-24,118000,L5 1XP,T,N,F,17,,Davy Street,,Liverpool
+2021-05-21,138000,L5 7QP,T,N,F,240,,Stanley Road,Kirkdale,Liverpool
+2021-05-20,110250,L5 6RY,T,N,F,79,,Dacy Road,,Liverpool
+2021-05-19,110000,L5 8YF,T,N,F,20,,Green Street,,Liverpool
+2021-05-14,45000,L5 6SG,T,N,F,20,,Heyes Street,,Liverpool
+2021-05-06,105000,L5 5ES,T,N,F,11,,Skirving Street,,Liverpool
+2021-05-04,132500,L5 2AR,T,N,L,7,,Marnell Close,,Liverpool
+2021-04-30,160000,L5 2PG,S,Y,F,46,,Latham Street,,Liverpool
+2021-04-28,59950,L5 3BB,F,N,L,257,,Conway Street,,Liverpool
+2021-04-26,42000,L5 5EN,F,N,L,Candia Tower,Apartment 44,Jason Street,,Liverpool
+2021-04-23,80000,L5 1TX,T,N,F,4,,Burleigh Road North,,Liverpool
+2021-04-14,85000,L5 7RS,T,N,F,47,,Pansy Street,,Liverpool
+2021-04-09,50000,L5 7RR,T,N,L,24,,Woodbine Street,,Liverpool
+2021-03-31,160000,L5 2PG,S,Y,F,47,,Latham Street,,Liverpool
+2021-03-29,137000,L5 4TG,S,N,L,15,,Lance Close,,Liverpool
+2021-03-26,84000,L5 6QS,T,N,F,28,,Rydal Street,,Liverpool
+2021-03-26,78000,L5 3BA,F,N,L,41,,Conway Street,,Liverpool
+2021-03-25,55000,L5 6RZ,T,N,F,81,,Dacy Road,,Liverpool
+2021-03-24,140000,L5 1AA,S,N,F,3,,Martinette Close,,Liverpool
+2021-03-19,160000,L5 5BH,T,N,L,34,,Stanza Court,,Liverpool
+2021-03-19,126000,L5 2RU,T,N,F,53,,Hopwood Street,,Liverpool
+2021-03-16,79000,L5 3BA,F,N,L,113,,Conway Street,,Liverpool
+2021-03-12,150000,L5 4PN,S,N,L,18,,Landseer Road,,Liverpool
+2021-03-10,130000,L5 4SX,S,N,L,36,,Eastlake Avenue,,Liverpool
+2021-03-08,58000,L5 7RT,T,N,L,17,,Snowdrop Street,,Liverpool
+2021-03-08,145000,L5 4SY,S,N,L,36,,Wentworth Drive,,Liverpool
+2021-03-05,103000,L5 6SB,T,N,F,120,,Dacy Road,,Liverpool
+2021-02-25,80000,L5 3PT,F,N,L,18,,Courtier Close,,Liverpool
+2021-02-23,110000,L5 3PT,F,N,L,10,,Courtier Close,,Liverpool
+2021-02-19,100000,L5 6RT,T,N,F,8,,Reedmace Road,,Liverpool
+2021-02-17,160000,L5 2PG,S,Y,F,48,,Latham Street,,Liverpool
+2021-02-12,170500,L5 6AB,S,N,F,20,,Chilmark Road,,Liverpool
+2021-02-12,87000,L5 5BP,T,N,F,47,,Penrhyn Street,,Liverpool
+2021-02-05,85000,L5 4SX,S,N,L,26,,Eastlake Avenue,,Liverpool
+2021-02-04,85000,L5 7QF,T,N,L,307,,Stanley Road,Kirkdale,Liverpool
+2021-01-29,105000,L5 6RT,T,N,F,10,,Reedmace Road,,Liverpool
+2021-01-28,130000,L5 3ST,S,N,F,4,,Dentdale Drive,,Liverpool
+2021-01-27,69995,L5 3LE,F,N,L,City Point,Unit 424,Great Homer Street,,Liverpool
+2021-01-25,45000,L5 6SQ,T,N,F,146,,Little Heyes Street,,Liverpool
+2021-01-21,81000,L5 6QY,T,N,F,59,,Coniston Street,,Liverpool
+2021-01-15,165000,L5 9RG,S,N,F,15,,Telary Close,,Liverpool
+2021-01-15,67000,L5 7RS,T,N,L,26,,Pansy Street,,Liverpool
+2021-01-15,155000,L5 6RN,T,N,F,19,,St Domingo Vale,,Liverpool
+2021-01-14,80000,L5 7QB,T,N,F,221,,Stanley Road,Kirkdale,Liverpool
+2021-01-12,51000,L5 7RP,T,N,L,48,,Harebell Street,,Liverpool

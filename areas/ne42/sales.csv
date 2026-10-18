@@ -1,0 +1,938 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-17,102000,NE42 6NF,S,N,F,34,,Castle Close,,Prudhoe
+2026-08-17,120000,NE42 5HP,T,N,F,15,,Neale Street,,Prudhoe
+2026-08-07,158000,NE42 6PS,S,N,F,36,,Holly Grove,,Prudhoe
+2026-08-06,330000,NE42 6RJ,D,N,L,11,,Tennyson Court,,Prudhoe
+2026-08-05,240000,NE42 6QE,S,N,L,8,,Leaway,,Prudhoe
+2026-08-05,230000,NE42 5FE,T,N,F,24,,School Row,,Prudhoe
+2026-07-31,325000,NE42 6AT,T,N,F,23,,Castle View,Ovingham,Prudhoe
+2026-07-24,130000,NE42 5ER,T,N,F,47,,Biverfield Road,,Prudhoe
+2026-07-23,635000,NE42 6BS,T,N,F,5,,Burnside Close,Ovingham,Prudhoe
+2026-07-20,221000,NE42 5LR,S,N,F,95,,Moorlands,,Prudhoe
+2026-07-17,180000,NE42 6BD,T,N,F,17,,Welburn Close,Ovingham,Prudhoe
+2026-07-13,217000,NE42 6QJ,T,N,F,10,,Old Eltringham Court,,Prudhoe
+2026-07-06,155000,NE42 6NU,S,N,F,12,,Western Avenue,,Prudhoe
+2026-06-26,365000,NE42 5PT,D,N,F,7,,Hazel Close,,Prudhoe
+2026-06-23,133500,NE42 5LE,S,N,F,19,,Hillcrest,,Prudhoe
+2026-06-12,142500,NE42 5EJ,T,N,F,26,,Broomhouse Road,,Prudhoe
+2026-06-01,140000,NE42 6AZ,T,N,F,54,,Piper Road,Ovingham,Prudhoe
+2026-06-01,130000,NE42 5HS,D,N,F,51,,Adderlane Road,,Prudhoe
+2026-05-29,110000,NE42 6JP,S,N,F,3,,Edgewell Road West,,Prudhoe
+2026-05-29,137000,NE42 5DY,S,N,F,13,,Coldwell Road,,Prudhoe
+2026-05-15,177000,NE42 6PA,D,N,F,68,,Western Avenue,,Prudhoe
+2026-05-08,120000,NE42 5AU,S,N,F,87,,Cheviot View,,Prudhoe
+2026-05-01,130000,NE42 6ND,S,N,F,4,,Castle Road,,Prudhoe
+2026-05-01,185000,NE42 6BB,T,N,L,33,,Wheatfield Close,Ovingham,Prudhoe
+2026-04-29,92000,NE42 5DF,T,N,F,4,,Oakwell Terrace,,Prudhoe
+2026-04-29,285000,NE42 5BJ,D,N,F,22,,Paddock Wood,,Prudhoe
+2026-04-23,305000,NE42 6JB,D,N,F,Dene View,,West Road,,Prudhoe
+2026-04-23,292000,NE42 5QP,D,N,F,12,,Greenwell Drive,,Prudhoe
+2026-04-23,415000,NE42 5EY,D,N,F,12,,Woodland View,Cottier Grange,Prudhoe
+2026-04-17,186000,NE42 6EZ,S,N,F,29,,Highfield,,Prudhoe
+2026-04-17,370000,NE42 6EQ,D,N,F,29,,Springfield,Ovington,Prudhoe
+2026-04-15,322500,NE42 5FJ,D,N,F,21,,Tilley Crescent,,Prudhoe
+2026-04-15,195000,NE42 5BJ,D,N,F,37,,Paddock Wood,,Prudhoe
+2026-04-14,300000,NE42 6DN,D,N,F,Jasmine House,,,Ovington,Prudhoe
+2026-04-10,365000,NE42 5FG,D,N,F,6,,Victoria Grove,,Prudhoe
+2026-03-31,315000,NE42 5QW,D,N,F,20,,Grey Lady Walk,,Prudhoe
+2026-03-31,179500,NE42 5FE,D,N,F,6,,School Row,,Prudhoe
+2026-03-20,137500,NE42 6DS,T,N,F,12,,Little Buildings,Ovington,Prudhoe
+2026-03-17,280000,NE42 5FN,D,N,F,17,,Northumberland Court,,Prudhoe
+2026-03-13,85000,NE42 5NY,S,N,L,7,,Redwell Court,,Prudhoe
+2026-03-13,85000,NE42 5NY,S,N,F,7,,Redwell Court,,Prudhoe
+2026-03-09,70000,NE42 6HY,T,N,F,3,,Highfield Terrace,,Prudhoe
+2026-02-27,159950,NE42 6QD,S,N,L,105,,Western Avenue,,Prudhoe
+2026-02-27,167500,NE42 6NT,S,N,F,35,,Masters Crescent,,Prudhoe
+2026-02-27,150000,NE42 6NE,S,N,F,94,,Castle Road,,Prudhoe
+2026-02-26,72000,NE42 6HU,T,N,F,13,,Beech Grove,,Prudhoe
+2026-02-25,220000,NE42 6AL,S,N,F,5,,Horsley Road,Ovingham,Prudhoe
+2026-02-16,60000,NE42 5HZ,F,N,L,12,Flat 4,Low Close,,Prudhoe
+2026-02-13,112500,NE42 6DH,S,N,F,Elrig House,,,Ovington,Prudhoe
+2026-02-13,272000,NE42 6AW,S,N,F,15,,Dene Garth,Ovingham,Prudhoe
+2026-02-10,110000,NE42 6HY,T,N,F,6,,Highfield Terrace,,Prudhoe
+2026-02-09,155000,NE42 6JX,T,N,F,11,,Woodburn Terrace,,Prudhoe
+2026-02-06,175000,NE42 6BD,T,N,L,12,,Welburn Close,Ovingham,Prudhoe
+2026-02-04,140000,NE42 5LS,S,N,F,12,,Moorlands,,Prudhoe
+2026-02-02,110000,NE42 5AX,S,N,F,110,,Cheviot View,,Prudhoe
+2026-01-30,605000,NE42 6HL,D,N,F,Wildwood Mount,,,Ovingham,Prudhoe
+2026-01-30,175000,NE42 6DS,S,N,F,15,,Little Buildings,Ovington,Prudhoe
+2026-01-30,270000,NE42 5FR,D,N,L,31,,Bells Lonnen,,Prudhoe
+2026-01-30,217000,NE42 5FQ,S,N,L,9,,St Oswalds Court,,Prudhoe
+2026-01-30,98000,NE42 5AD,T,N,F,15,,Wesley Street,,Prudhoe
+2026-01-28,210000,NE42 6PT,S,N,L,4,,Cherry Grove,,Prudhoe
+2026-01-26,155000,NE42 6NB,S,N,F,17,,Dene Grove,,Prudhoe
+2026-01-26,205000,NE42 5FF,S,N,F,9,,Towneley Court,,Prudhoe
+2026-01-23,155000,NE42 6PY,T,N,F,166,,Castle Road,,Prudhoe
+2026-01-21,162000,NE42 5AL,T,N,F,12,,Tarset Drive,,Prudhoe
+2026-01-21,70000,NE42 5AD,T,N,F,7,,Wesley Street,,Prudhoe
+2026-01-15,105000,NE42 6HS,T,N,F,24,,River View,,Prudhoe
+2026-01-09,90000,NE42 5ET,F,N,L,The Manors,15,Adderlane Road,,Prudhoe
+2025-12-22,280000,NE42 5BJ,D,N,F,26,,Paddock Wood,,Prudhoe
+2025-12-19,175000,NE42 6PY,S,N,F,168,,Castle Road,,Prudhoe
+2025-12-19,135000,NE42 6PS,S,N,L,38,,Holly Grove,,Prudhoe
+2025-12-19,130000,NE42 6NT,S,N,F,37,,Masters Crescent,,Prudhoe
+2025-12-19,135000,NE42 6NT,S,N,F,22,,Masters Crescent,,Prudhoe
+2025-12-19,300000,NE42 5BJ,D,N,F,14,,Paddock Wood,,Prudhoe
+2025-12-18,112000,NE42 5HF,T,N,F,3,,Oakfield Terrace,,Prudhoe
+2025-12-18,375000,NE42 5FA,D,N,F,21,,Pavilion Rise,Cottier Grange,Prudhoe
+2025-12-12,174000,NE42 6NX,S,N,F,41,,Western Avenue,,Prudhoe
+2025-12-12,200000,NE42 6AT,T,N,F,1,,Castle View,Ovingham,Prudhoe
+2025-12-12,500000,NE42 6AJ,T,N,F,2,,The Terrace,Ovingham,Prudhoe
+2025-12-11,174000,NE42 6RH,S,N,F,28,,Edgewell Grange,,Prudhoe
+2025-12-10,325000,NE42 5QJ,D,N,F,8,,Appletree Drive,,Prudhoe
+2025-12-08,285000,NE42 6QH,S,N,F,17,,North Meadow,Ovingham,Prudhoe
+2025-12-08,165000,NE42 6PT,S,N,L,27,,Cherry Grove,,Prudhoe
+2025-12-05,83000,NE42 6NG,S,N,F,20,,Castle View,,Prudhoe
+2025-12-03,230000,NE42 6QA,S,N,L,29,,Sycamore Grove,,Prudhoe
+2025-11-28,107500,NE42 6QJ,F,N,L,25,,Old Eltringham Court,,Prudhoe
+2025-11-28,179000,NE42 6PB,S,N,F,15,,Kepwell Road,,Prudhoe
+2025-11-28,128000,NE42 6NF,T,N,F,36,,Castle Close,,Prudhoe
+2025-11-28,195000,NE42 5LR,S,N,F,19,,Moorlands,,Prudhoe
+2025-11-28,305000,NE42 5LN,D,N,F,14,,Park Lane,,Prudhoe
+2025-11-28,119000,NE42 5EF,S,N,F,3,,Parkwood Avenue,,Prudhoe
+2025-11-28,325000,NE42 5DA,F,N,F,16,,The Copse,,Prudhoe
+2025-11-27,260000,NE42 6RD,D,N,F,18,,Otterburn Way,,Prudhoe
+2025-11-27,167200,NE42 6PS,T,N,L,23,,Holly Grove,,Prudhoe
+2025-11-27,242000,NE42 5LW,S,N,F,91,,Park Lane,,Prudhoe
+2025-11-21,133500,NE42 5QB,S,N,F,11,,John Wesley Court,,Prudhoe
+2025-11-18,200000,NE42 5QG,D,N,L,7,,Cockshott Dean,,Prudhoe
+2025-11-14,110000,NE42 5DS,S,N,F,15,,Bell View,,Prudhoe
+2025-11-13,672500,NE42 6AG,D,N,F,Forge House,,Main Road,Ovingham,Prudhoe
+2025-11-13,250000,NE42 5PN,D,N,F,9,,Beechwood Drive,,Prudhoe
+2025-11-13,225000,NE42 5FH,D,N,F,35,,Rolley Way,,Prudhoe
+2025-11-13,231000,NE42 5EZ,S,N,F,13,,Field Close,Cottier Grange,Prudhoe
+2025-11-10,136666,NE42 5PL,S,N,F,12,,Fern Close,,Prudhoe
+2025-11-10,100000,NE42 5HE,F,N,L,9A,,Oakfield Park,,Prudhoe
+2025-11-03,290000,NE42 5LH,S,N,F,16,,Moor Road,,Prudhoe
+2025-10-31,200000,NE42 6NX,S,N,L,47,,Western Avenue,,Prudhoe
+2025-10-31,130000,NE42 6LE,T,N,F,16,,High Shaw,,Prudhoe
+2025-10-31,107500,NE42 5JY,F,N,L,3,,Locomotive Court,,Prudhoe
+2025-10-30,315000,NE42 6RG,D,N,F,18,,Ovington View,,Prudhoe
+2025-10-30,167000,NE42 6PF,S,N,F,14,,Cheyne Road,,Prudhoe
+2025-10-28,350000,NE42 5QT,D,N,F,11,,Lassells Rigg,,Prudhoe
+2025-10-24,110000,NE42 5EW,S,N,F,49,,Stanley Crescent,,Prudhoe
+2025-10-24,131600,NE42 5EB,T,N,F,115,,Adderlane Road,,Prudhoe
+2025-10-24,165000,NE42 5AX,T,N,F,101,,Cheviot View,,Prudhoe
+2025-10-17,330000,NE42 6RG,D,N,L,50,,Ovington View,,Prudhoe
+2025-10-17,125550,NE42 6NT,S,N,F,49,,Masters Crescent,,Prudhoe
+2025-10-17,194000,NE42 6JZ,T,N,F,22,,Beaumont Terrace,,Prudhoe
+2025-10-17,274000,NE42 6EL,D,N,F,2,,Springfield Close,Ovington,Prudhoe
+2025-10-16,150000,NE42 5EE,S,N,F,6,,Horsley View,,Prudhoe
+2025-10-13,690000,NE42 5FS,T,N,F,7,,Broomhouse Farm Court,,Prudhoe
+2025-10-10,260000,NE42 6DL,T,N,F,1,,Dene Terrace,Ovington,Prudhoe
+2025-10-10,125000,NE42 5PL,T,N,F,9,,Fern Close,,Prudhoe
+2025-10-10,350000,NE42 5LW,S,N,F,75,,Park Lane,,Prudhoe
+2025-10-10,230000,NE42 5LR,T,N,F,101,,Moorlands,,Prudhoe
+2025-10-03,235000,NE42 6BB,T,N,F,35,,Wheatfield Close,Ovingham,Prudhoe
+2025-09-26,90000,NE42 5HD,F,N,L,6,,Acorn Square,,Prudhoe
+2025-09-25,165000,NE42 6HR,D,N,F,48,,West Road,,Prudhoe
+2025-09-22,85000,NE42 6JX,F,N,L,7,,Woodburn Terrace,,Prudhoe
+2025-09-19,350000,NE42 5PH,D,N,F,"The Hollies, 16",,Woodside,,Prudhoe
+2025-09-17,265000,NE42 6AB,S,N,F,2,,The Hill,Ovingham,Prudhoe
+2025-09-12,172000,NE42 6AL,S,N,F,1,,Horsley Road,Ovingham,Prudhoe
+2025-09-12,182000,NE42 5LE,S,N,F,7,,Hillcrest,,Prudhoe
+2025-09-12,235000,NE42 5FR,T,N,F,26,,Bells Lonnen,,Prudhoe
+2025-09-05,91000,NE42 6QF,F,N,L,31,,Cranbrook Drive,,Prudhoe
+2025-09-05,65000,NE42 5DR,F,N,L,65,,Woodhead Road,,Prudhoe
+2025-08-28,152000,NE42 6NB,S,N,F,2,,Dene Grove,,Prudhoe
+2025-08-26,120000,NE42 5HX,T,N,F,63,,Broomhill Road,,Prudhoe
+2025-08-22,58000,NE42 6QF,S,N,L,21,,Cranbrook Drive,,Prudhoe
+2025-08-19,360000,NE42 5QT,D,N,F,7,,Lassells Rigg,,Prudhoe
+2025-08-19,180000,NE42 5QD,S,N,F,11,,Spetchells,,Prudhoe
+2025-08-19,197000,NE42 5FB,S,N,F,18,,Farm Well Place,,Prudhoe
+2025-08-18,157000,NE42 5AY,T,N,F,4,,Homedale,,Prudhoe
+2025-08-15,225000,NE42 6QE,D,N,L,19,,Leaway,,Prudhoe
+2025-08-15,130000,NE42 6HU,T,N,F,18,,Beech Grove,,Prudhoe
+2025-08-12,150000,NE42 6LS,T,N,F,44,,Errington Place,,Prudhoe
+2025-08-12,90000,NE42 5EQ,S,N,F,60,,Bradley Road,,Prudhoe
+2025-08-08,357000,NE42 5JT,T,N,F,"Penray House, 9A",,South Road,,Prudhoe
+2025-07-31,535000,NE42 6EE,D,N,F,Glendale,,,Ovington,Prudhoe
+2025-07-28,271000,NE42 5EZ,D,N,F,1,,Field Close,Cottier Grange,Prudhoe
+2025-07-23,107000,NE42 6LF,T,N,F,1,,Linnheads,,Prudhoe
+2025-07-18,105000,NE42 6JA,T,N,F,16,,Leaburn Terrace,,Prudhoe
+2025-07-18,399000,NE42 5QX,D,N,F,12,,Mill View Rise,,Prudhoe
+2025-07-18,175000,NE42 5DS,T,N,F,22,,Bell View,,Prudhoe
+2025-07-17,122000,NE42 5HW,T,N,F,11,,Holyoake Street,,Prudhoe
+2025-07-11,185000,NE42 6QJ,T,N,F,6,,Old Eltringham Court,,Prudhoe
+2025-07-11,205000,NE42 6EZ,T,N,F,1,,Highfield,,Prudhoe
+2025-07-11,195000,NE42 6AS,T,N,F,48,,Windsor Crescent,Ovingham,Prudhoe
+2025-07-11,332000,NE42 5FL,D,N,F,6,,Cross Street,,Prudhoe
+2025-07-11,170000,NE42 5BE,T,N,F,5,,Drawback,,Prudhoe
+2025-07-11,273000,NE42 5BD,S,N,F,8,,Drawback Close,,Prudhoe
+2025-07-09,110000,NE42 5HR,S,N,F,9,,Adderlane Road,,Prudhoe
+2025-07-07,116000,NE42 5EA,S,N,F,5,,Sandyford Avenue,,Prudhoe
+2025-07-04,110000,NE42 6LL,T,N,F,20,,Simonside,,Prudhoe
+2025-07-03,132000,NE42 5LF,S,N,F,47,,Hillcrest,,Prudhoe
+2025-07-01,105000,NE42 5AJ,S,N,F,26,,Cameron Road,,Prudhoe
+2025-06-30,135000,NE42 5JB,S,N,F,5,,Dene Street,,Prudhoe
+2025-06-30,110000,NE42 5DR,S,N,F,54,,Woodhead Road,,Prudhoe
+2025-06-27,260000,NE42 5PH,D,N,F,14,,Woodside,,Prudhoe
+2025-06-27,280000,NE42 5FB,D,N,F,3,,Farm Well Place,,Prudhoe
+2025-06-27,86250,NE42 5ET,F,N,L,The Manors,16,Adderlane Road,,Prudhoe
+2025-06-24,105000,NE42 6QJ,F,N,L,16,,Old Eltringham Court,,Prudhoe
+2025-06-17,189950,NE42 6JZ,T,N,F,29,,Beaumont Terrace,,Prudhoe
+2025-06-13,192000,NE42 6PE,S,N,L,7,,Cheyne Road,,Prudhoe
+2025-06-13,125000,NE42 6LL,T,N,F,35,,Simonside,,Prudhoe
+2025-06-06,97000,NE42 6NF,S,N,F,22,,Castle Close,,Prudhoe
+2025-06-05,168000,NE42 6AH,T,N,F,2,,River View,Ovingham,Prudhoe
+2025-05-30,272000,NE42 5FR,D,N,L,12,,Bells Lonnen,,Prudhoe
+2025-05-30,140000,NE42 5AT,S,N,F,70,,Cheviot View,,Prudhoe
+2025-05-29,110000,NE42 5HX,S,N,F,67,,Broomhill Road,,Prudhoe
+2025-05-21,160000,NE42 6PB,S,N,F,7,,Kepwell Road,,Prudhoe
+2025-05-16,171500,NE42 5PL,S,N,F,15,,Fern Close,,Prudhoe
+2025-05-12,124500,NE42 5PL,T,N,F,10,,Fern Close,,Prudhoe
+2025-05-12,205000,NE42 5AY,S,N,F,32,,Homedale,,Prudhoe
+2025-05-09,125000,NE42 6LS,T,N,F,8,,Errington Place,,Prudhoe
+2025-05-06,310000,NE42 5QJ,D,N,F,8,,Appletree Drive,,Prudhoe
+2025-05-01,160000,NE42 6PD,S,N,F,39,,Kepwell Road,,Prudhoe
+2025-04-17,225000,NE42 6RH,D,N,L,19,,Edgewell Grange,,Prudhoe
+2025-04-17,185000,NE42 5LW,S,N,F,83,,Park Lane,,Prudhoe
+2025-04-17,148000,NE42 5AX,S,N,F,49,,Cheviot View,,Prudhoe
+2025-04-11,102500,NE42 5HE,F,N,L,14,,Oakfield Park,,Prudhoe
+2025-04-11,150000,NE42 5BB,S,N,F,56,,Park Avenue,,Prudhoe
+2025-04-03,100000,NE42 6JA,T,N,F,20,,Leaburn Terrace,,Prudhoe
+2025-04-03,110000,NE42 6HX,T,N,F,15,,Beech Grove South,,Prudhoe
+2025-03-31,445000,NE42 6EL,D,N,F,6,,Springfield Close,Ovington,Prudhoe
+2025-03-31,157500,NE42 5LS,S,N,F,44,,Moorlands,,Prudhoe
+2025-03-31,190000,NE42 5EZ,S,N,F,11,,Field Close,Cottier Grange,Prudhoe
+2025-03-31,70000,NE42 5DR,T,N,L,27,,Woodhead Road,,Prudhoe
+2025-03-28,128000,NE42 6JA,T,N,F,3,,Leaburn Terrace,,Prudhoe
+2025-03-28,217000,NE42 5FH,D,N,F,31,,Rolley Way,,Prudhoe
+2025-03-28,270000,NE42 5FB,D,N,F,7,,Farm Well Place,,Prudhoe
+2025-03-27,175500,NE42 6PU,S,N,L,6,,Maple Grove,,Prudhoe
+2025-03-27,200000,NE42 5LR,S,N,F,51,,Moorlands,,Prudhoe
+2025-03-20,620000,NE42 5EY,D,N,F,14,,Woodland View,Cottier Grange,Prudhoe
+2025-03-19,347000,NE42 5FP,D,N,L,10,,Castlefields Drive,,Prudhoe
+2025-03-11,300000,NE42 6RG,D,N,F,27,,Ovington View,,Prudhoe
+2025-03-10,125000,NE42 6NF,S,N,F,17,,Castle Close,,Prudhoe
+2025-03-07,192000,NE42 6QE,D,N,F,21,,Leaway,,Prudhoe
+2025-03-07,290000,NE42 5QP,D,N,F,8,,Greenwell Drive,,Prudhoe
+2025-03-07,165000,NE42 5LE,S,N,F,30,,Hillcrest,,Prudhoe
+2025-03-04,155000,NE42 5PX,T,N,F,11,,Tyne View Terrace,,Prudhoe
+2025-02-28,118000,NE42 6LE,T,N,F,23,,High Shaw,,Prudhoe
+2025-02-28,80000,NE42 6JF,T,N,F,12,,Tulip Street,,Prudhoe
+2025-02-21,108000,NE42 5HW,T,N,F,9,,Holyoake Street,,Prudhoe
+2025-02-20,275000,NE42 5BJ,D,N,F,16,,Paddock Wood,,Prudhoe
+2025-02-19,145000,NE42 5QD,S,N,L,14,,Spetchells,,Prudhoe
+2025-02-17,162000,NE42 6QF,S,N,F,2,,Cranbrook Drive,,Prudhoe
+2025-02-13,105000,NE42 6QJ,F,N,L,24,,Old Eltringham Court,,Prudhoe
+2025-02-13,165000,NE42 6NU,S,N,F,19,,Western Avenue,,Prudhoe
+2025-02-07,115000,NE42 5DS,T,N,F,8,,Bell View,,Prudhoe
+2025-02-05,165000,NE42 6AH,T,N,F,1,,River View,Ovingham,Prudhoe
+2025-02-05,85000,NE42 5BH,T,N,F,9,,Oaktree Terrace,,Prudhoe
+2025-02-04,155000,NE42 6LG,T,N,F,16,,Linnheads,,Prudhoe
+2025-01-30,335000,NE42 5FR,D,N,L,30,,Bells Lonnen,,Prudhoe
+2025-01-29,99000,NE42 6JF,T,N,F,2,,Tulip Street,,Prudhoe
+2025-01-24,180000,NE42 6AS,S,N,F,3,,Windsor Crescent,Ovingham,Prudhoe
+2025-01-24,285000,NE42 5QR,D,N,F,6,,Heather Lea Lane,,Prudhoe
+2025-01-24,150000,NE42 5LE,S,N,F,36,,Hillcrest,,Prudhoe
+2025-01-22,175000,NE42 6BE,T,N,F,10,,Dene Close,Ovingham,Prudhoe
+2025-01-16,130000,NE42 6NG,S,N,F,17,,Castle View,,Prudhoe
+2025-01-10,112500,NE42 6NE,S,N,F,68,,Castle Road,,Prudhoe
+2025-01-08,400000,NE42 5FX,D,N,F,21,,Mccoull Drive,Cottier Grange,Prudhoe
+2025-01-08,124000,NE42 5ED,S,N,F,139,,Adderlane Road,,Prudhoe
+2025-01-02,137500,NE42 5AX,T,N,F,93,,Cheviot View,,Prudhoe
+2024-12-19,355000,NE42 5GA,D,Y,F,6,,Brinkburn Gardens,Cottier Grange,Prudhoe
+2024-12-17,345000,NE42 6EY,D,N,F,Bradley House,,Highfield Lane,,Prudhoe
+2024-12-16,110000,NE42 6HU,T,N,F,4,,Beech Grove,,Prudhoe
+2024-12-16,177000,NE42 5NY,S,N,F,16,,Redwell Court,,Prudhoe
+2024-12-13,335000,NE42 5BJ,D,N,F,9,,Paddock Wood,,Prudhoe
+2024-12-12,150000,NE42 6PA,S,N,F,61,,Western Avenue,,Prudhoe
+2024-12-12,605200,NE42 6HG,D,N,F,Broom House Farm House,,Broomhouse Lane,,Prudhoe
+2024-12-12,227000,NE42 5QL,D,N,L,17,,Duckets Dean,,Prudhoe
+2024-12-10,225000,NE42 5FE,S,N,F,22,,School Row,,Prudhoe
+2024-12-06,294000,NE42 6EL,D,N,F,3,,Springfield Close,Ovington,Prudhoe
+2024-12-06,227500,NE42 5JU,D,N,F,Villa Rosa,,The Lane,,Prudhoe
+2024-12-06,220000,NE42 5AY,S,N,F,25,,Homedale,,Prudhoe
+2024-12-05,62000,NE42 5DR,F,N,L,65,,Woodhead Road,,Prudhoe
+2024-11-28,222000,NE42 5QU,D,N,F,3,,Percy Lonnen,,Prudhoe
+2024-11-27,300000,NE42 6AU,S,N,F,25,,Castle View,Ovingham,Prudhoe
+2024-11-22,135000,NE42 6JQ,T,N,F,6,,West View,,Prudhoe
+2024-11-22,205995,NE42 5FZ,S,Y,F,12,,Cavell Close,Cottier Grange,Prudhoe
+2024-11-15,349000,NE42 6RN,D,N,F,1,,Greener Court,,Prudhoe
+2024-11-14,295000,NE42 5QS,D,N,F,1,,Odinel Court,,Prudhoe
+2024-11-05,215000,NE42 6PP,D,N,L,36,,Rowan Grove,,Prudhoe
+2024-11-05,180000,NE42 5LR,S,N,F,1,,Moorlands,,Prudhoe
+2024-11-01,90000,NE42 5AJ,S,N,F,8,,Cameron Road,,Prudhoe
+2024-10-25,205995,NE42 5FZ,S,Y,F,5,,Cavell Close,Cottier Grange,Prudhoe
+2024-10-22,160000,NE42 5LR,S,N,F,71,,Moorlands,,Prudhoe
+2024-10-21,85000,NE42 6NF,S,N,F,12,,Castle Close,,Prudhoe
+2024-10-18,147000,NE42 5ER,S,N,F,28,,Biverfield Road,,Prudhoe
+2024-10-17,135000,NE42 6ND,S,N,F,9,,Castle Road,,Prudhoe
+2024-10-11,103000,NE42 5DT,S,N,F,22,,Eastwoods Road,,Prudhoe
+2024-10-07,160000,NE42 5QA,D,N,F,11,,Cranleigh Grove,,Prudhoe
+2024-10-03,220000,NE42 6AX,T,N,F,2,,Piper Road,Ovingham,Prudhoe
+2024-10-03,109000,NE42 5EF,S,N,F,35,,Parkwood Avenue,,Prudhoe
+2024-10-01,39025,NE42 5EJ,T,N,F,16,,Broomhouse Road,,Prudhoe
+2024-09-27,190000,NE42 6JZ,T,N,F,24,,Beaumont Terrace,,Prudhoe
+2024-09-25,136000,NE42 6DX,S,N,F,27,,Green Rising,Ovington,Prudhoe
+2024-09-24,262550,NE42 6RH,D,N,F,29,,Edgewell Grange,,Prudhoe
+2024-09-20,280000,NE42 5BW,D,N,L,27,,Moor Grange,,Prudhoe
+2024-09-16,102500,NE42 6JL,S,N,F,38,,Milton Grove,,Prudhoe
+2024-09-13,320000,NE42 5AY,D,N,F,43,,Homedale,,Prudhoe
+2024-09-06,500000,NE42 6AJ,T,N,F,1,,The Terrace,Ovingham,Prudhoe
+2024-09-05,162000,NE42 6JD,T,N,F,21,,Prospect Terrace,,Prudhoe
+2024-09-05,135000,NE42 5EN,S,N,F,35,,Stanley Crescent,,Prudhoe
+2024-08-30,166250,NE42 6HX,S,N,F,19,,Beech Grove South,,Prudhoe
+2024-08-30,154995,NE42 5FZ,S,Y,F,8,,Cavell Close,Cottier Grange,Prudhoe
+2024-08-30,154995,NE42 5FZ,S,Y,F,7,,Cavell Close,Cottier Grange,Prudhoe
+2024-08-30,377000,NE42 5FR,D,N,L,24,,Bells Lonnen,,Prudhoe
+2024-08-27,375000,NE42 5LH,S,N,F,11,,Moor Road,,Prudhoe
+2024-08-23,255050,NE42 5LW,S,N,F,51,,Park Lane,,Prudhoe
+2024-08-23,300000,NE42 5LL,S,N,F,27,,Moor Road,,Prudhoe
+2024-08-23,275000,NE42 5FB,D,N,F,17,,Farmwell Place,,Prudhoe
+2024-08-23,850000,NE42 5BS,D,N,F,11,,Linnet Gardens,Cottier Grange,Prudhoe
+2024-08-21,160000,NE42 6PG,S,N,L,32,,Cheyne Road,,Prudhoe
+2024-08-21,277000,NE42 5QW,D,N,F,3,,Grey Lady Walk,,Prudhoe
+2024-08-20,140000,NE42 6LD,T,N,F,4,,High Shaw,,Prudhoe
+2024-08-19,165000,NE42 6NX,S,N,F,45,,Western Avenue,,Prudhoe
+2024-08-19,120000,NE42 6LJ,T,N,F,10,,Simonside,,Prudhoe
+2024-08-16,290000,NE42 5QL,D,N,F,2,,Duckets Dean,,Prudhoe
+2024-08-15,302500,NE42 6RG,S,N,L,12,,Ovington View,,Prudhoe
+2024-08-15,239000,NE42 5QU,D,N,L,17,,Percy Lonnen,,Prudhoe
+2024-08-15,265000,NE42 5FF,D,N,F,2,,Towneley Court,,Prudhoe
+2024-08-14,535087,NE42 5GB,D,Y,F,1,,Midway,Cottier Grange,Prudhoe
+2024-08-13,220000,NE42 6PR,S,N,L,1,,Lime Grove,,Prudhoe
+2024-08-09,118000,NE42 6EU,T,N,F,18,,Fair View,,Prudhoe
+2024-08-05,242500,NE42 6AT,T,N,F,8 - 9,,Castle View,Ovingham,Prudhoe
+2024-08-02,815000,NE42 6DH,D,N,F,Holly House,,,Ovington,Prudhoe
+2024-08-02,185000,NE42 5QH,S,N,F,2,,The Ford,,Prudhoe
+2024-08-02,205995,NE42 5FZ,S,Y,F,6,,Cavell Close,Cottier Grange,Prudhoe
+2024-08-02,120000,NE42 5EF,T,N,F,25,,Parkwood Avenue,,Prudhoe
+2024-08-01,227500,NE42 5FD,D,N,F,11,,North Wylam View,,Prudhoe
+2024-07-29,222500,NE42 6PR,S,N,L,20,,Lime Grove,,Prudhoe
+2024-07-29,222500,NE42 6PR,S,N,F,20,,Lime Grove,,Prudhoe
+2024-07-29,235000,NE42 5FR,T,N,L,26,,Bells Lonnen,,Prudhoe
+2024-07-29,115000,NE42 5AG,T,N,F,14,,Stancley Road,,Prudhoe
+2024-07-26,195000,NE42 5FQ,D,N,L,6,,St Oswalds Court,,Prudhoe
+2024-07-25,128000,NE42 5JS,T,N,F,16A,,South Road,,Prudhoe
+2024-07-24,105000,NE42 5DY,T,N,F,11,,Coldwell Road,,Prudhoe
+2024-07-23,92500,NE42 6QF,F,N,L,9,,Cranbrook Drive,,Prudhoe
+2024-07-23,130000,NE42 6NB,S,N,F,27,,Dene Grove,,Prudhoe
+2024-07-19,190000,NE42 6PN,S,N,F,93,,Castle Road,,Prudhoe
+2024-07-19,190000,NE42 6EZ,S,N,F,44,,Highfield,,Prudhoe
+2024-07-19,160000,NE42 5QA,S,N,F,20,,Cranleigh Grove,,Prudhoe
+2024-07-19,150000,NE42 5LF,T,N,F,50,,Hillcrest,,Prudhoe
+2024-07-19,205995,NE42 5FZ,S,Y,F,11,,Cavell Close,Cottier Grange,Prudhoe
+2024-07-19,50000,NE42 5DW,F,N,L,15,,Scales Crescent,,Prudhoe
+2024-07-15,325000,NE42 6RD,D,N,F,15,,Otterburn Way,,Prudhoe
+2024-07-12,312500,NE42 6RA,D,N,F,12,,Beaumont Way,,Prudhoe
+2024-07-12,150000,NE42 6DX,T,N,F,10,,Green Rising,Ovington,Prudhoe
+2024-07-12,237000,NE42 5FL,D,N,F,19,,Cross Street,,Prudhoe
+2024-07-12,115000,NE42 5DR,S,N,F,24,,Woodhead Road,,Prudhoe
+2024-07-11,128000,NE42 5JZ,T,N,F,1,,Highfield Cottages,,Prudhoe
+2024-07-10,365000,NE42 6RD,D,N,F,34,,Otterburn Way,,Prudhoe
+2024-07-09,190250,NE42 6AZ,T,N,L,51,,Piper Road,Ovingham,Prudhoe
+2024-07-08,269000,NE42 5DA,D,N,F,11,,The Copse,,Prudhoe
+2024-07-05,185000,NE42 6PA,S,N,F,81,,Western Avenue,,Prudhoe
+2024-07-05,148000,NE42 6DH,S,N,F,White House,,,Ovington,Prudhoe
+2024-07-04,200000,NE42 6PP,S,N,F,13,,Rowan Grove,,Prudhoe
+2024-07-04,119000,NE42 6JA,T,N,F,17,,Leaburn Terrace,,Prudhoe
+2024-06-28,228000,NE42 6RB,D,N,L,5,,Broom Wood Court,,Prudhoe
+2024-06-28,165000,NE42 5LF,S,N,F,60,,Hillcrest,,Prudhoe
+2024-06-28,396995,NE42 5GB,D,Y,F,3,,Midway,Cottier Grange,Prudhoe
+2024-06-28,290000,NE42 5FB,D,N,F,11,,Farmwell Place,,Prudhoe
+2024-06-27,75000,NE42 5HD,F,N,L,10,,Acorn Square,,Prudhoe
+2024-06-26,321000,NE42 5QD,D,N,F,8,,Spetchells,,Prudhoe
+2024-06-24,244000,NE42 5FG,D,N,F,8,,Victoria Grove,,Prudhoe
+2024-06-24,213000,NE42 5FF,S,N,F,24,,Towneley Court,,Prudhoe
+2024-06-21,200000,NE42 6NU,S,N,F,11,,Western Avenue,,Prudhoe
+2024-06-14,440000,NE42 5PG,D,N,F,3,,Mulberry Close,,Prudhoe
+2024-06-13,320000,NE42 5FX,D,N,F,6,,Mccoull Drive,Cottier Grange,Prudhoe
+2024-06-10,58500,NE42 5DY,S,N,F,22,,Coldwell Road,,Prudhoe
+2024-06-06,256700,NE42 6AN,S,N,F,2,,Croft View,Ovingham,Prudhoe
+2024-06-03,125000,NE42 6EU,T,N,F,24,,Fair View,,Prudhoe
+2024-06-03,175000,NE42 5PQ,T,N,F,7,,Hillcrest Court,,Prudhoe
+2024-05-31,125000,NE42 6PS,S,N,L,30,,Holly Grove,,Prudhoe
+2024-05-31,110000,NE42 6NT,S,N,F,21,,Masters Crescent,,Prudhoe
+2024-05-30,389995,NE42 5GA,D,Y,F,1,,Brinkburn Gardens,Cottier Grange,Prudhoe
+2024-05-30,299995,NE42 5BS,D,N,F,3,,Linnet Gardens,Cottier Grange,Prudhoe
+2024-05-30,572000,NE42 5BS,D,N,F,1,,Linnet Gardens,Cottier Grange,Prudhoe
+2024-05-24,119000,NE42 5PL,T,N,F,8,,Fern Close,,Prudhoe
+2024-05-24,155000,NE42 5LE,S,N,F,11,,Hillcrest,,Prudhoe
+2024-05-24,325000,NE42 5FS,S,N,F,1,,Broomhouse Farm Court,,Prudhoe
+2024-05-16,70000,NE42 6JX,T,N,L,6A,,Woodburn Terrace,,Prudhoe
+2024-05-16,157500,NE42 5PX,T,N,F,1,,Tyne View Terrace,,Prudhoe
+2024-05-16,369995,NE42 5GA,D,Y,F,2,,Brinkburn Gardens,Cottier Grange,Prudhoe
+2024-05-10,62500,NE42 6HS,T,N,F,29,,River View,,Prudhoe
+2024-05-10,340000,NE42 5PH,D,N,F,2,,Woodside,,Prudhoe
+2024-05-02,100000,NE42 5HY,T,N,F,3,,The Close,,Prudhoe
+2024-04-29,100000,NE42 5BQ,T,N,F,1,,Homedale Terrace,,Prudhoe
+2024-04-18,86250,NE42 5ET,F,N,L,The Manors,20,Adderlane Road,,Prudhoe
+2024-04-05,110000,NE42 6JY,T,N,F,4,,Dene Terrace,,Prudhoe
+2024-04-03,283000,NE42 5PN,D,N,F,24,,Beechwood Drive,,Prudhoe
+2024-03-28,118500,NE42 6HS,T,N,F,22,,River View,,Prudhoe
+2024-03-28,347500,NE42 5QX,D,N,F,6,,Mill View Rise,,Prudhoe
+2024-03-28,294995,NE42 5GA,D,Y,F,4,,Brinkburn Gardens,Cottier Grange,Prudhoe
+2024-03-28,110000,NE42 5DS,S,N,F,9,,Bell View,,Prudhoe
+2024-03-27,177500,NE42 5JZ,S,N,F,Grange Cottage,,,,Prudhoe
+2024-03-22,545295,NE42 5GA,D,Y,F,8,,Brinkburn Gardens,Cottier Grange,Prudhoe
+2024-03-22,86250,NE42 5ET,F,N,L,The Manors,14,Adderlane Road,,Prudhoe
+2024-03-22,122000,NE42 5BH,T,N,F,2,,Oaktree Terrace,,Prudhoe
+2024-03-21,115000,NE42 6LL,T,N,F,21,,Simonside,,Prudhoe
+2024-03-18,177000,NE42 5LW,S,N,F,83,,Park Lane,,Prudhoe
+2024-03-15,125000,NE42 5QB,S,N,F,10,,John Wesley Court,,Prudhoe
+2024-03-12,170000,NE42 6PA,S,N,L,63,,Western Avenue,,Prudhoe
+2024-03-11,175000,NE42 6QJ,T,N,F,11,,Old Eltringham Court,,Prudhoe
+2024-03-11,295000,NE42 5QR,D,N,F,10,,Heather Lea Lane,,Prudhoe
+2024-03-01,180000,NE42 6QJ,T,N,F,1,,Old Eltringham Court,,Prudhoe
+2024-02-29,101000,NE42 6NB,S,N,F,21,,Dene Grove,,Prudhoe
+2024-02-23,880000,NE42 6DH,D,N,F,Ovington House,,,Ovington,Prudhoe
+2024-02-23,212995,NE42 5FX,S,Y,F,29,,Mccoull Drive,Cottier Grange,Prudhoe
+2024-02-19,568995,NE42 5GA,D,Y,F,3,,Brinkburn Gardens,Cottier Grange,Prudhoe
+2024-02-16,250000,NE42 5BB,S,N,F,32,,Park Avenue,,Prudhoe
+2024-02-15,470995,NE42 5GA,D,Y,F,5,,Brinkburn Gardens,Cottier Grange,Prudhoe
+2024-02-09,162250,NE42 6QA,S,N,L,27,,Sycamore Grove,,Prudhoe
+2024-02-09,85000,NE42 6JS,T,N,F,8,,North View Terrace,,Prudhoe
+2024-02-08,180000,NE42 5HS,S,N,F,72,,Adderlane Road,,Prudhoe
+2024-01-27,270010,NE42 5DA,D,N,F,12,,The Copse,,Prudhoe
+2024-01-26,170000,NE42 6JZ,T,N,F,25,,Beaumont Terrace,,Prudhoe
+2024-01-26,105000,NE42 6HS,T,N,F,31,,River View,,Prudhoe
+2024-01-26,150000,NE42 5LE,S,N,F,28,,Hillcrest,,Prudhoe
+2024-01-26,398495,NE42 5GA,D,Y,F,7,,Brinkburn Gardens,Cottier Grange,Prudhoe
+2024-01-22,132500,NE42 6ND,S,N,F,19,,Castle Road,,Prudhoe
+2024-01-12,195000,NE42 6AS,T,N,F,14,,Windsor Crescent,Ovingham,Prudhoe
+2024-01-12,150000,NE42 5LW,S,N,F,91,,Park Lane,,Prudhoe
+2024-01-12,180000,NE42 5LE,S,N,F,4,,Hillcrest,,Prudhoe
+2024-01-05,70000,NE42 5EP,T,N,L,6,,West Wylam Drive,,Prudhoe
+2023-12-20,125000,NE42 6JL,S,N,F,29,,Milton Grove,,Prudhoe
+2023-12-20,85000,NE42 5ET,F,N,L,The Manors,15,Adderlane Road,,Prudhoe
+2023-12-18,134000,NE42 5AT,S,N,F,73,,Cheviot View,,Prudhoe
+2023-12-15,130000,NE42 6AP,S,N,F,28,,Dene Garth,Ovingham,Prudhoe
+2023-12-15,148000,NE42 5QA,S,N,F,6,,Cranleigh Grove,,Prudhoe
+2023-12-15,379950,NE42 5EY,D,N,F,6,,Woodland View,Cottier Grange,Prudhoe
+2023-12-14,230000,NE42 6AH,T,N,F,4,,River View,Ovingham,Prudhoe
+2023-12-13,176000,NE42 5FF,S,N,F,25,,Towneley Court,,Prudhoe
+2023-12-12,140000,NE42 6PD,S,N,F,25,,Kepwell Road,,Prudhoe
+2023-12-08,165000,NE42 6BB,T,N,F,34,,Wheatfield Close,Ovingham,Prudhoe
+2023-12-08,225000,NE42 5BA,S,N,F,12,,Park Avenue,,Prudhoe
+2023-11-30,396995,NE42 5FY,D,Y,F,20,,Liddell Heights,Cottier Grange,Prudhoe
+2023-11-30,118000,NE42 5DS,S,N,F,25,,Bell View,,Prudhoe
+2023-11-30,118125,NE42 5AN,S,N,L,Prince George Court,6,Adderlane Road,,Prudhoe
+2023-11-24,134000,NE42 5AL,S,N,F,3,,Tarset Drive,,Prudhoe
+2023-11-23,324000,NE42 5PR,D,N,F,Penticton,,Station Road,,Prudhoe
+2023-11-23,300000,NE42 5LH,D,N,F,36,,Moor Road,,Prudhoe
+2023-11-23,563995,NE42 5FY,D,Y,F,19,,Liddell Heights,Cottier Grange,Prudhoe
+2023-11-10,351495,NE42 5FY,D,Y,F,18,,Liddell Heights,Cottier Grange,Prudhoe
+2023-11-10,299995,NE42 5FX,D,Y,F,8,,Mccoull Drive,Cottier Grange,Prudhoe
+2023-11-03,217000,NE42 6QA,S,N,F,6,,Sycamore Grove,,Prudhoe
+2023-11-03,217000,NE42 6QA,S,N,L,6,,Sycamore Grove,,Prudhoe
+2023-10-31,210000,NE42 6HW,S,N,F,4,,Edgewell Court,,Prudhoe
+2023-10-30,395995,NE42 5FY,D,Y,F,16,,Liddell Heights,Cottier Grange,Prudhoe
+2023-10-27,220000,NE42 6HR,D,N,F,46,,West Road,,Prudhoe
+2023-10-27,195000,NE42 6AQ,T,N,F,West End Cottages,2,West Road,Ovingham,Prudhoe
+2023-10-27,365000,NE42 5FD,D,N,L,18,,North Wylam View,,Prudhoe
+2023-10-27,180000,NE42 5BY,S,N,F,12,,Pheasant Close,Cottier Grange,Prudhoe
+2023-10-24,168000,NE42 5QN,S,N,F,14,,The Waggonway,,Prudhoe
+2023-10-20,220000,NE42 5LR,S,N,F,59,,Moorlands,,Prudhoe
+2023-10-20,120000,NE42 5DS,S,N,F,19,,Bell View,,Prudhoe
+2023-10-17,214550,NE42 6AZ,T,N,L,61,,Piper Road,Ovingham,Prudhoe
+2023-10-17,315000,NE42 5FN,D,N,F,5,,Northumberland Court,,Prudhoe
+2023-10-16,325000,NE42 6RG,D,N,F,14,,Ovington View,,Prudhoe
+2023-10-13,280000,NE42 5BJ,D,N,F,21,,Paddock Wood,,Prudhoe
+2023-10-06,80000,NE42 6JF,T,N,F,7,,Tulip Street,,Prudhoe
+2023-10-04,83000,NE42 6NG,S,N,F,17,,Castle View,,Prudhoe
+2023-10-02,220000,NE42 6AU,T,N,F,24,,Castle View,Ovingham,Prudhoe
+2023-10-02,107500,NE42 5AF,S,N,F,71,,Redwell Road,,Prudhoe
+2023-09-29,155000,NE42 6PY,S,N,F,160,,Castle Road,,Prudhoe
+2023-09-29,167000,NE42 6PU,S,N,F,24,,Maple Grove,,Prudhoe
+2023-09-29,179000,NE42 6EX,S,N,L,12,,Swalwell Close,,Prudhoe
+2023-09-29,125000,NE42 5PX,T,N,F,11,,Tyne View Terrace,,Prudhoe
+2023-09-28,99500,NE42 5HE,F,N,F,11,,Oakfield Park,,Prudhoe
+2023-09-28,99500,NE42 5HE,F,N,L,10,,Oakfield Park,,Prudhoe
+2023-09-27,90000,NE42 5JY,F,N,L,10,,Locomotive Court,,Prudhoe
+2023-09-25,160000,NE42 6AS,T,N,F,73,,Windsor Crescent,Ovingham,Prudhoe
+2023-09-22,93000,NE42 6BR,S,N,L,9,,Hawthorn Gardens,Ovingham,Prudhoe
+2023-09-22,125000,NE42 6AP,T,N,F,26,,Dene Garth,Ovingham,Prudhoe
+2023-09-22,123000,NE42 5PX,T,N,F,14,,Tyne View Terrace,,Prudhoe
+2023-09-21,212995,NE42 5FX,S,Y,F,31,,Mccoull Drive,Cottier Grange,Prudhoe
+2023-09-18,138000,NE42 6NE,S,N,F,100,,Castle Road,,Prudhoe
+2023-09-14,157000,NE42 5LR,S,N,F,13,,Moorlands,,Prudhoe
+2023-09-08,260000,NE42 5PN,D,N,F,26,,Beechwood Drive,,Prudhoe
+2023-09-08,372500,NE42 5BJ,D,N,F,1,,Paddock Wood,,Prudhoe
+2023-09-07,245000,NE42 5QQ,D,N,F,7,,Well Dean,,Prudhoe
+2023-09-07,375244,NE42 5FY,D,Y,F,17,,Liddell Heights,Cottier Grange,Prudhoe
+2023-09-01,125000,NE42 6JZ,T,N,F,29,,Beaumont Terrace,,Prudhoe
+2023-09-01,127500,NE42 6JY,T,N,F,2,,Dene Terrace,,Prudhoe
+2023-08-31,180000,NE42 6PA,S,N,F,65,,Western Avenue,,Prudhoe
+2023-08-31,250000,NE42 5LN,S,N,F,27,,Park Lane,,Prudhoe
+2023-08-22,83000,NE42 6JA,T,N,F,14,,Leaburn Terrace,,Prudhoe
+2023-08-22,100000,NE42 5AE,T,N,F,12,,Victoria Terrace,,Prudhoe
+2023-08-16,247500,NE42 5BD,S,N,F,1,,Drawback Close,,Prudhoe
+2023-08-10,95000,NE42 5HX,S,N,F,58,,Broomhill Road,,Prudhoe
+2023-08-09,92000,NE42 5JY,F,N,L,2,,Locomotive Court,,Prudhoe
+2023-07-28,249950,NE42 5QW,T,N,F,1,,Grey Lady Walk,,Prudhoe
+2023-07-28,295000,NE42 5PT,D,N,F,4,,Hazel Close,,Prudhoe
+2023-07-28,147500,NE42 5AT,S,N,F,68,,Cheviot View,,Prudhoe
+2023-07-27,155000,NE42 5LF,T,N,F,42,,Hillcrest,,Prudhoe
+2023-07-21,200000,NE42 5LW,S,N,F,85,,Park Lane,,Prudhoe
+2023-07-18,107000,NE42 6ND,S,N,F,31,,Castle Road,,Prudhoe
+2023-07-14,93000,NE42 6NT,S,N,F,35,,Masters Crescent,,Prudhoe
+2023-07-14,135000,NE42 6JD,T,N,F,19,,Prospect Terrace,,Prudhoe
+2023-07-14,210000,NE42 5QW,D,N,F,10,,Grey Lady Walk,,Prudhoe
+2023-07-10,424000,NE42 6BS,S,N,F,6,,Burnside Close,Ovingham,Prudhoe
+2023-07-10,140000,NE42 6AY,S,N,F,21,,Piper Road,Ovingham,Prudhoe
+2023-07-07,185000,NE42 6RH,S,N,F,5,,Edgewell Grange,,Prudhoe
+2023-07-07,214000,NE42 6PR,S,N,F,11,,Lime Grove,,Prudhoe
+2023-07-07,201000,NE42 6DX,T,N,F,1,,Green Rising,Ovington,Prudhoe
+2023-07-07,186000,NE42 6BD,T,N,L,6,,Welburn Close,Ovingham,Prudhoe
+2023-07-07,186000,NE42 6BD,T,N,F,6,,Welburn Close,Ovingham,Prudhoe
+2023-07-04,149950,NE42 5AL,T,N,F,12,,Tarset Drive,,Prudhoe
+2023-07-03,215000,NE42 5QH,S,N,F,3,,The Ford,,Prudhoe
+2023-06-30,150000,NE42 5AX,S,N,F,31,,Cheviot View,,Prudhoe
+2023-06-28,420000,NE42 5LL,D,N,F,The Gables,,Moor Road,,Prudhoe
+2023-06-27,173100,NE42 6PW,S,N,F,113,,Castle Road,,Prudhoe
+2023-06-23,92500,NE42 6NH,S,N,F,1,,Castle Lea,,Prudhoe
+2023-06-23,194000,NE42 6BB,T,N,L,25,,Wheatfield Close,Ovingham,Prudhoe
+2023-06-23,225000,NE42 5QP,D,N,F,8,,Greenwell Drive,,Prudhoe
+2023-06-23,90000,NE42 5LD,T,N,F,2,,Grange Terrace,,Prudhoe
+2023-06-15,240000,NE42 6QH,D,N,F,16,,North Meadow,Ovingham,Prudhoe
+2023-06-02,95000,NE42 5HW,T,N,F,10,,Holyoake Street,,Prudhoe
+2023-06-02,90000,NE42 5ET,F,N,L,The Manors,13,Adderlane Road,,Prudhoe
+2023-06-02,335000,NE42 5AY,D,N,F,44,,Homedale,,Prudhoe
+2023-05-26,86000,NE42 5JY,F,N,L,12,,Locomotive Court,,Prudhoe
+2023-05-26,286995,NE42 5FX,D,Y,F,6,,Mccoull Drive,Cottier Grange,Prudhoe
+2023-05-25,172500,NE42 6PN,S,N,F,85,,Castle Road,,Prudhoe
+2023-05-19,158000,NE42 6AS,T,N,F,48,,Windsor Crescent,Ovingham,Prudhoe
+2023-05-19,97000,NE42 5DT,S,N,F,19,,Eastwoods Road,,Prudhoe
+2023-05-19,300000,NE42 5BZ,D,N,F,5,,Spinney Gardens,Cottier Grange,Prudhoe
+2023-05-12,220000,NE42 5FJ,D,N,F,15,,Tilley Crescent,,Prudhoe
+2023-05-05,160000,NE42 6PY,S,N,F,168,,Castle Road,,Prudhoe
+2023-05-05,342995,NE42 5FX,D,Y,F,10,,Mccoull Drive,Cottier Grange,Prudhoe
+2023-05-04,105000,NE42 5HS,S,N,F,71,,Adderlane Road,,Prudhoe
+2023-04-28,295000,NE42 5PH,D,N,F,2,,Woodside,,Prudhoe
+2023-04-28,275000,NE42 5FA,D,N,F,17,,Pavilion Rise,Cottier Grange,Prudhoe
+2023-04-27,215000,NE42 6QE,S,N,L,9,,Leaway,,Prudhoe
+2023-04-27,180000,NE42 6PA,S,N,L,73,,Western Avenue,,Prudhoe
+2023-04-25,240000,NE42 6DL,T,N,F,1,,Dene Terrace,Ovington,Prudhoe
+2023-04-21,282995,NE42 5FY,D,N,F,4,,Liddell Heights,Cottier Grange,Prudhoe
+2023-04-20,330000,NE42 6AL,S,N,F,Ellan Vannin,,Horsley Road,Ovingham,Prudhoe
+2023-04-17,65000,NE42 6HS,T,N,F,14,,River View,,Prudhoe
+2023-04-14,90000,NE42 6ND,S,N,F,4,,Castle Road,,Prudhoe
+2023-04-14,220000,NE42 5PZ,T,N,F,1,,Library Court,,Prudhoe
+2023-04-14,295000,NE42 5PN,D,N,F,7,,Beechwood Drive,,Prudhoe
+2023-04-14,94000,NE42 5HP,T,N,F,18,,Neale Street,,Prudhoe
+2023-04-05,80000,NE42 5HS,S,N,L,54,,Adderlane Road,,Prudhoe
+2023-03-31,85000,NE42 6QF,F,N,L,28,,Cranbrook Drive,,Prudhoe
+2023-03-31,100000,NE42 6NF,S,N,F,8,,Castle Close,,Prudhoe
+2023-03-31,200000,NE42 6JJ,S,N,F,20,,Edgewell Road,,Prudhoe
+2023-03-31,344995,NE42 5FX,D,Y,F,4,,Mccoull Drive,Cottier Grange,Prudhoe
+2023-03-30,350000,NE42 5QR,D,N,F,7,,Heather Lea Lane,,Prudhoe
+2023-03-24,244995,NE42 5FY,S,Y,F,10,,Liddell Heights,Cottier Grange,Prudhoe
+2023-03-22,190000,NE42 5BB,S,N,F,31,,Park Avenue,,Prudhoe
+2023-03-21,60000,NE42 6NU,S,N,F,13,,Western Avenue,,Prudhoe
+2023-03-21,180000,NE42 6EZ,S,N,F,48,,Highfield,,Prudhoe
+2023-03-17,117500,NE42 6HS,T,N,F,22,,River View,,Prudhoe
+2023-03-17,377995,NE42 5FY,D,Y,F,9,,Liddell Heights,Cottier Grange,Prudhoe
+2023-03-15,124000,NE42 5DU,S,N,F,26,,Eastwoods Road,,Prudhoe
+2023-03-15,297500,NE42 5BX,D,N,F,1,,Nightingale Close,Cottier Grange,Prudhoe
+2023-03-13,305000,NE42 6RN,D,N,L,4,,Greener Court,,Prudhoe
+2023-03-13,260000,NE42 5PE,D,N,F,1,,Kepwell Court,,Prudhoe
+2023-03-08,325000,NE42 5QP,D,N,F,11,,Greenwell Drive,,Prudhoe
+2023-03-03,370000,NE42 6RJ,D,N,L,12,,Tennyson Court,,Prudhoe
+2023-03-03,234995,NE42 5FY,S,Y,F,11,,Liddell Heights,Cottier Grange,Prudhoe
+2023-03-02,170000,NE42 5LR,S,N,F,5,,Moorlands,,Prudhoe
+2023-02-28,315000,NE42 6AT,T,N,F,11,,Castle View,Ovingham,Prudhoe
+2023-02-24,100000,NE42 5HN,F,N,L,18A,,Front Street,,Prudhoe
+2023-02-24,324995,NE42 5FY,D,Y,F,12,,Liddell Heights,Cottier Grange,Prudhoe
+2023-02-20,150000,NE42 5LS,S,N,F,2,,Moorlands,,Prudhoe
+2023-02-17,202000,NE42 6PR,S,N,L,2,,Lime Grove,,Prudhoe
+2023-02-17,249995,NE42 5FY,D,Y,F,13,,Liddell Heights,Cottier Grange,Prudhoe
+2023-02-10,125000,NE42 6LL,T,N,F,14,,Simonside,,Prudhoe
+2023-02-10,120000,NE42 6AP,T,N,F,23,,Dene Garth,Ovingham,Prudhoe
+2023-02-06,118000,NE42 6HU,T,N,F,1,,Beech Grove,,Prudhoe
+2023-02-06,505000,NE42 5HH,D,N,F,1,,Front Street,,Prudhoe
+2023-02-02,200000,NE42 6NU,D,N,F,3,,Western Avenue,,Prudhoe
+2023-01-31,77950,NE42 6LR,F,N,L,2,,Whiteburn,,Prudhoe
+2023-01-30,185995,NE42 5FY,S,Y,F,15,,Liddell Heights,Cottier Grange,Prudhoe
+2023-01-30,179995,NE42 5FY,S,Y,F,14,,Liddell Heights,Cottier Grange,Prudhoe
+2023-01-26,120000,NE42 5DY,S,N,F,23,,Coldwell Road,,Prudhoe
+2022-12-22,232995,NE42 5FY,S,Y,F,7,,Liddell Heights,Cottier Grange,Prudhoe
+2022-12-22,269995,NE42 5FY,D,Y,F,6,,Liddell Heights,Cottier Grange,Prudhoe
+2022-12-20,170000,NE42 5LW,S,N,F,54,,Park Lane,,Prudhoe
+2022-12-19,128000,NE42 6DX,T,N,F,9,,Green Rising,Ovington,Prudhoe
+2022-12-19,240000,NE42 5QH,D,N,F,10,,The Ford,,Prudhoe
+2022-12-16,202000,NE42 6PW,S,N,F,107,,Castle Road,,Prudhoe
+2022-12-16,175000,NE42 6PA,S,N,L,81,,Western Avenue,,Prudhoe
+2022-12-16,175000,NE42 6PA,S,N,F,81,,Western Avenue,,Prudhoe
+2022-12-16,131010,NE42 6NB,S,N,F,17,,Dene Grove,,Prudhoe
+2022-12-16,285000,NE42 5QG,D,N,F,10,,Cockshott Dean,,Prudhoe
+2022-12-16,229995,NE42 5FY,S,N,F,8,,Liddell Heights,Cottier Grange,Prudhoe
+2022-12-14,265000,NE42 5FA,D,N,F,5,,Pavilion Rise,Cottier Grange,Prudhoe
+2022-12-13,165000,NE42 6BA,T,N,L,18,,Wheatfield Close,Ovingham,Prudhoe
+2022-12-09,118000,NE42 6NG,S,N,F,6,,Castle View,,Prudhoe
+2022-12-09,120000,NE42 5AD,T,N,F,19,,Wesley Street,,Prudhoe
+2022-12-08,190000,NE42 5LS,S,N,F,46,,Moorlands,,Prudhoe
+2022-12-06,135000,NE42 6LF,T,N,F,9,,Linnheads,,Prudhoe
+2022-12-06,205000,NE42 6AZ,T,N,F,42,,Piper Road,Ovingham,Prudhoe
+2022-12-06,175000,NE42 5LQ,T,N,F,3,,British Legion Houses,,Prudhoe
+2022-12-02,253500,NE42 6AP,S,N,F,32,,Dene Garth,Ovingham,Prudhoe
+2022-12-02,340000,NE42 5FJ,D,N,F,7,,Tilley Crescent,,Prudhoe
+2022-11-30,130000,NE42 6NG,S,N,F,19,,Castle View,,Prudhoe
+2022-11-30,78000,NE42 6NF,T,N,F,40,,Castle Close,,Prudhoe
+2022-11-25,365000,NE42 6NR,D,N,F,Station House,,,Low Prudhoe,Prudhoe
+2022-11-25,250000,NE42 5QQ,D,N,F,8,,Well Dean,,Prudhoe
+2022-11-25,169950,NE42 5LY,T,N,F,4,,St Thomas Mews,,Prudhoe
+2022-11-25,420000,NE42 5BN,D,N,F,3,,Fairway Crescent,Cottier Grange,Prudhoe
+2022-11-22,130000,NE42 5EF,S,N,F,14,,Parkwood Avenue,,Prudhoe
+2022-11-18,130000,NE42 6JZ,T,N,F,22,,Beaumont Terrace,,Prudhoe
+2022-11-17,160000,NE42 5DU,S,N,F,30,,Eastwoods Road,,Prudhoe
+2022-11-14,155000,NE42 6PP,S,N,L,9,,Rowan Grove,,Prudhoe
+2022-11-11,250000,NE42 6RJ,D,N,L,11,,Tennyson Court,,Prudhoe
+2022-11-11,370000,NE42 5QX,D,N,F,5,,Mill View Rise,,Prudhoe
+2022-11-07,120000,NE42 6JG,T,N,F,6,,South View,,Prudhoe
+2022-11-04,70000,NE42 6QF,F,N,L,27,,Cranbrook Drive,,Prudhoe
+2022-11-04,221500,NE42 6QA,S,N,L,16,,Sycamore Grove,,Prudhoe
+2022-11-04,559995,NE42 5FX,D,Y,F,7,,Mccoull Drive,Cottier Grange,Prudhoe
+2022-11-02,320000,NE42 6AU,S,N,F,31,,Castle View,Ovingham,Prudhoe
+2022-10-31,190000,NE42 5FQ,S,N,L,4,,St Oswalds Court,,Prudhoe
+2022-10-28,100000,NE42 6HR,T,N,F,36,,West Road,,Prudhoe
+2022-10-28,780000,NE42 6AG,D,N,F,Ovingham House,,Main Road,Ovingham,Prudhoe
+2022-10-28,40000,NE42 5QJ,S,N,F,15,,Appletree Drive,,Prudhoe
+2022-10-28,320000,NE42 5FR,D,N,L,32,,Bells Lonnen,,Prudhoe
+2022-10-28,315000,NE42 5FH,D,N,F,48,,Rolley Way,,Prudhoe
+2022-10-27,642500,NE42 6EB,T,N,F,Brewery House,,,Ovington,Prudhoe
+2022-10-26,130000,NE42 6LW,T,N,F,5,,Sandysykes,,Prudhoe
+2022-10-25,140000,NE42 6LE,T,N,F,21,,High Shaw,,Prudhoe
+2022-10-25,345000,NE42 5FN,D,N,L,8,,Northumberland Court,,Prudhoe
+2022-10-21,223000,NE42 5QU,D,N,F,23,,Percy Lonnen,,Prudhoe
+2022-10-21,165000,NE42 5QN,S,N,L,5,,The Waggonway,,Prudhoe
+2022-10-17,569200,NE42 5PB,D,N,F,Moor View,,Moor Road,,Prudhoe
+2022-10-14,80000,NE42 6QF,F,N,L,17,,Cranbrook Drive,,Prudhoe
+2022-10-14,192000,NE42 5BP,S,N,F,11,,Prudhoe Hall Drive,Cottier Grange,Prudhoe
+2022-10-13,445000,NE42 6BS,D,N,F,2,,Burnside Close,Ovingham,Prudhoe
+2022-10-07,193250,NE42 6DR,T,N,F,1,,South View,Ovington,Prudhoe
+2022-10-07,321501,NE42 6DH,T,N,F,Peartree House,,,Ovington,Prudhoe
+2022-10-06,279995,NE42 5FY,D,Y,F,5,,Liddell Heights,Cottier Grange,Prudhoe
+2022-10-05,275000,NE42 5LN,S,N,F,19,,Park Lane,,Prudhoe
+2022-10-03,125000,NE42 6JX,T,N,F,17,,Woodburn Terrace,,Prudhoe
+2022-09-30,124250,NE42 5PL,T,N,F,8,,Fern Close,,Prudhoe
+2022-09-30,559995,NE42 5FX,D,Y,F,9,,Mccoull Drive,Cottier Grange,Prudhoe
+2022-09-29,287500,NE42 5PL,D,N,F,3,,Fern Close,,Prudhoe
+2022-09-26,355000,NE42 6AH,T,N,F,"Lion Cottage, 7",,River View,Ovingham,Prudhoe
+2022-09-26,274995,NE42 5FY,D,Y,F,3,,Liddell Heights,Cottier Grange,Prudhoe
+2022-09-21,106500,NE42 6NG,S,N,F,9,,Castle View,,Prudhoe
+2022-09-21,110000,NE42 6HP,T,N,F,26,,West Road,,Prudhoe
+2022-09-21,97000,NE42 5AD,T,N,F,8,,Wesley Street,,Prudhoe
+2022-09-20,95000,NE42 6NF,S,N,F,47,,Castle Close,,Prudhoe
+2022-09-20,260000,NE42 6AT,T,N,F,4,,Castle View,Ovingham,Prudhoe
+2022-09-20,123500,NE42 5AE,T,N,F,8,,Victoria Terrace,,Prudhoe
+2022-09-16,135000,NE42 6NE,S,N,F,94,,Castle Road,,Prudhoe
+2022-09-15,345000,NE42 5FN,D,N,F,8,,Northumberland Court,,Prudhoe
+2022-09-13,165000,NE42 6PB,T,N,F,2,,Kepwell Road,,Prudhoe
+2022-09-13,260000,NE42 5QR,D,N,F,1,,Heather Lea Lane,,Prudhoe
+2022-09-13,485000,NE42 5PN,D,N,F,16,,Beechwood Drive,,Prudhoe
+2022-09-13,180000,NE42 5LS,T,N,F,22,,Moorlands,,Prudhoe
+2022-09-13,241000,NE42 5BD,S,N,F,4,,Drawback Close,,Prudhoe
+2022-09-05,136000,NE42 6ND,S,N,F,7,,Castle Road,,Prudhoe
+2022-09-02,130000,NE42 5AJ,S,N,F,28,,Cameron Road,,Prudhoe
+2022-09-01,150000,NE42 5HS,S,N,F,64,,Adderlane Road,,Prudhoe
+2022-08-30,92000,NE42 6HZ,D,N,F,Leyburn House,,West Road,,Prudhoe
+2022-08-26,170000,NE42 6NX,S,N,F,49,,Western Avenue,,Prudhoe
+2022-08-25,259995,NE42 5FY,D,Y,F,2,,Liddell Heights,Cottier Grange,Prudhoe
+2022-08-22,370000,NE42 5LH,S,N,F,6,,Moor Road,,Prudhoe
+2022-08-19,300000,NE42 6JB,D,N,F,Highridge View,1,West Road,,Prudhoe
+2022-08-19,200000,NE42 5LN,S,N,F,27,,Park Lane,,Prudhoe
+2022-08-19,140000,NE42 5LD,T,N,F,4,,Grange Terrace,,Prudhoe
+2022-08-12,325000,NE42 6AT,T,N,F,20,,Castle View,Ovingham,Prudhoe
+2022-08-12,325000,NE42 5FR,D,N,F,14,,Bells Lonnen,,Prudhoe
+2022-08-08,267500,NE42 5QD,D,N,F,8,,Spetchells,,Prudhoe
+2022-08-05,500000,NE42 6AJ,T,N,F,7,,The Terrace,Ovingham,Prudhoe
+2022-08-05,88000,NE42 5HD,F,N,L,6,,Acorn Square,,Prudhoe
+2022-08-04,109950,NE42 6HR,T,N,F,39,,West Road,,Prudhoe
+2022-08-01,132000,NE42 6LW,T,N,F,2,,Sandysykes,,Prudhoe
+2022-07-29,437995,NE42 5FY,D,Y,F,1,,Liddell Heights,Cottier Grange,Prudhoe
+2022-07-29,429995,NE42 5FX,D,Y,F,11,,Mccoull Drive,Cottier Grange,Prudhoe
+2022-07-22,100000,NE42 6QJ,F,N,L,21,,Old Eltringham Court,,Prudhoe
+2022-07-20,287500,NE42 6EH,D,N,F,16,,Springfield,Ovington,Prudhoe
+2022-07-18,315000,NE42 6AR,S,N,F,Peartree Cottage,,Tyne Gardens,Ovingham,Prudhoe
+2022-07-14,559995,NE42 5FX,D,Y,F,2,,Mccoull Drive,Cottier Grange,Prudhoe
+2022-07-11,115000,NE42 6JX,T,N,F,4,,Woodburn Terrace,,Prudhoe
+2022-07-04,115000,NE42 6HS,T,N,F,19,,River View,,Prudhoe
+2022-07-01,340000,NE42 6AU,T,N,F,27,,Castle View,Ovingham,Prudhoe
+2022-07-01,320000,NE42 5FR,D,N,L,15,,Bells Lonnen,,Prudhoe
+2022-06-30,165000,NE42 6NU,S,N,F,21,,Western Avenue,,Prudhoe
+2022-06-30,115000,NE42 5EP,S,N,F,3,,West Wylam Drive,,Prudhoe
+2022-06-29,180000,NE42 6JL,S,N,F,56,,Milton Grove,,Prudhoe
+2022-06-24,82500,NE42 6JX,F,N,L,7,,Woodburn Terrace,,Prudhoe
+2022-06-24,75000,NE42 5JY,F,N,L,4,,Locomotive Court,,Prudhoe
+2022-06-22,212500,NE42 6AP,S,N,F,43,,Dene Garth,Ovingham,Prudhoe
+2022-06-17,125000,NE42 5HR,S,N,F,22,,Adderlane Road,,Prudhoe
+2022-06-17,332995,NE42 5FX,D,Y,F,23,,Mccoull Drive,Cottier Grange,Prudhoe
+2022-06-16,167055,NE42 6JZ,T,N,F,21,,Beaumont Terrace,,Prudhoe
+2022-06-16,85000,NE42 6HX,T,N,F,8,,Beech Grove South,,Prudhoe
+2022-06-16,325000,NE42 5QL,D,N,F,21,,Duckets Dean,,Prudhoe
+2022-06-16,140000,NE42 5LF,T,N,F,50,,Hillcrest,,Prudhoe
+2022-06-16,270000,NE42 5FJ,D,N,F,12,,Tilley Crescent,,Prudhoe
+2022-06-15,365000,NE42 5NX,D,N,F,Keepers Cottage,,Durham Riding,,Prudhoe
+2022-06-10,240000,NE42 5QD,D,N,F,9,,Spetchells,,Prudhoe
+2022-06-09,135000,NE42 6LG,T,N,F,14,,Linnheads,,Prudhoe
+2022-06-07,185000,NE42 6QF,S,N,F,46,,Cranbrook Drive,,Prudhoe
+2022-06-06,91000,NE42 6ND,S,N,F,1,,Castle Road,,Prudhoe
+2022-06-06,120000,NE42 6HR,T,N,F,35,,West Road,,Prudhoe
+2022-06-01,100000,NE42 6EU,T,N,F,5,,Fair View,,Prudhoe
+2022-05-30,165000,NE42 6PD,S,N,F,30,,Kepwell Road,,Prudhoe
+2022-05-26,353995,NE42 5FX,D,Y,F,19,,Mccoull Drive,Cottier Grange,Prudhoe
+2022-05-26,355995,NE42 5FX,D,Y,F,17,,Mccoull Drive,Cottier Grange,Prudhoe
+2022-05-20,155000,NE42 6LS,T,N,F,57,,Errington Place,,Prudhoe
+2022-05-20,50000,NE42 5DW,F,N,L,11,,Scales Crescent,,Prudhoe
+2022-05-11,225000,NE42 6PF,D,N,F,18,,Cheyne Road,,Prudhoe
+2022-05-06,108000,NE42 5LE,S,N,F,21,,Hillcrest,,Prudhoe
+2022-05-04,435000,NE42 5PJ,D,N,F,2,,Redburn Close,,Prudhoe
+2022-05-04,230000,NE42 5FG,D,N,F,9,,Victoria Grove,,Prudhoe
+2022-05-03,349995,NE42 5FX,D,Y,F,15,,Mccoull Drive,Cottier Grange,Prudhoe
+2022-04-25,247500,NE42 6RD,D,N,F,24,,Otterburn Way,,Prudhoe
+2022-04-22,110000,NE42 6QJ,F,N,L,25,,Old Eltringham Court,,Prudhoe
+2022-04-22,105000,NE42 6JF,T,N,F,4,,Tulip Street,,Prudhoe
+2022-04-14,225000,NE42 6QE,S,N,F,16,,Leaway,,Prudhoe
+2022-04-14,135000,NE42 5HY,T,N,F,5,,The Close,,Prudhoe
+2022-04-12,143000,NE42 5LE,S,N,F,22,,Hillcrest,,Prudhoe
+2022-04-11,192000,NE42 5BP,D,N,F,13,,Prudhoe Hall Drive,Cottier Grange,Prudhoe
+2022-04-08,405000,NE42 6EH,D,N,F,6,,Springfield,Ovington,Prudhoe
+2022-04-08,400000,NE42 6AU,D,N,F,39,,Castle View,Ovingham,Prudhoe
+2022-04-08,225000,NE42 5QD,D,N,L,10,,Spetchells,,Prudhoe
+2022-04-08,250000,NE42 5LP,D,N,F,15,,Orchard Close,,Prudhoe
+2022-04-07,122000,NE42 6AH,T,N,F,4,,River View,Ovingham,Prudhoe
+2022-04-06,161711,NE42 5AP,S,N,F,11,,Redwell Road,,Prudhoe
+2022-04-01,145000,NE42 6LN,T,N,F,1,,Ridsdale,,Prudhoe
+2022-04-01,275000,NE42 5PL,D,N,F,2,,Fern Close,,Prudhoe
+2022-03-31,235000,NE42 6QA,S,N,F,19,,Sycamore Grove,,Prudhoe
+2022-03-31,369995,NE42 5FX,D,Y,F,5,,Mccoull Drive,Cottier Grange,Prudhoe
+2022-03-31,362995,NE42 5FX,D,Y,F,21,,Mccoull Drive,Cottier Grange,Prudhoe
+2022-03-31,368995,NE42 5FX,D,Y,F,13,,Mccoull Drive,Cottier Grange,Prudhoe
+2022-03-30,77500,NE42 5HD,F,N,L,7,,Acorn Square,,Prudhoe
+2022-03-28,549995,NE42 5FU,D,Y,F,9,,Barony Drive,Cottier Grange,Prudhoe
+2022-03-22,130500,NE42 6LJ,T,N,F,12,,Simonside,,Prudhoe
+2022-03-19,135000,NE42 5LE,S,N,F,12,,Hillcrest,,Prudhoe
+2022-03-18,125000,NE42 5DW,S,N,F,24,,Scales Crescent,,Prudhoe
+2022-03-14,102000,NE42 6LL,T,N,F,20,,Simonside,,Prudhoe
+2022-03-11,155000,NE42 5PL,S,N,F,4,,Fern Close,,Prudhoe
+2022-03-11,82500,NE42 5ET,F,N,L,The Manors,14,Adderlane Road,,Prudhoe
+2022-03-04,230000,NE42 5QJ,D,N,F,23,,Appletree Drive,,Prudhoe
+2022-03-03,65000,NE42 6HP,F,N,L,4A,,West Road,,Prudhoe
+2022-02-25,125000,NE42 6PG,S,N,F,42,,Cheyne Road,,Prudhoe
+2022-02-25,85000,NE42 6JL,S,N,F,38,,Milton Grove,,Prudhoe
+2022-02-25,100000,NE42 6HX,T,N,F,14,,Beech Grove South,,Prudhoe
+2022-02-25,519995,NE42 5FU,D,Y,F,1,,Barony Drive,Cottier Grange,Prudhoe
+2022-02-25,129950,NE42 5BH,T,N,F,4,,Oaktree Terrace,,Prudhoe
+2022-02-24,359995,NE42 5FX,D,Y,F,3,,Mccoull Drive,Cottier Grange,Prudhoe
+2022-02-24,347995,NE42 5FU,D,Y,F,5,,Barony Drive,Cottier Grange,Prudhoe
+2022-02-21,524995,NE42 5FU,D,Y,F,3,,Barony Drive,Cottier Grange,Prudhoe
+2022-02-18,155500,NE42 5DZ,S,N,F,6,,High Close,,Prudhoe
+2022-02-15,168750,NE42 6PG,S,N,F,34,,Cheyne Road,,Prudhoe
+2022-02-14,148000,NE42 5AX,S,N,F,46,,Cheviot View,,Prudhoe
+2022-02-11,83000,NE42 5HP,T,N,F,5,,Neale Street,,Prudhoe
+2022-02-11,329995,NE42 5FX,D,Y,F,1,,Mccoull Drive,Cottier Grange,Prudhoe
+2022-02-11,120000,NE42 5DS,S,N,F,18,,Bell View,,Prudhoe
+2022-02-07,149950,NE42 6NU,S,N,L,23,,Western Avenue,,Prudhoe
+2022-02-07,110000,NE42 6HY,T,N,F,12,,Highfield Terrace,,Prudhoe
+2022-02-07,225000,NE42 5FE,D,N,F,2,,School Row,,Prudhoe
+2022-02-03,310000,NE42 5FN,D,N,F,2,,Northumberland Court,,Prudhoe
+2022-02-02,95000,NE42 5HW,S,N,F,12,,Holyoake Street,,Prudhoe
+2022-02-01,143616,NE42 6JA,T,N,F,8,,Leaburn Terrace,,Prudhoe
+2022-01-31,220000,NE42 5FE,D,N,F,27,,School Row,,Prudhoe
+2022-01-28,93000,NE42 5HF,T,N,F,20,,Oakfield Terrace,,Prudhoe
+2022-01-28,344995,NE42 5FU,D,Y,F,7,,Barony Drive,Cottier Grange,Prudhoe
+2022-01-28,419995,NE42 5BZ,D,Y,F,13,,Spinney Gardens,Cottier Grange,Prudhoe
+2022-01-27,105000,NE42 6QJ,F,N,L,16,,Old Eltringham Court,,Prudhoe
+2022-01-26,200000,NE42 6AR,S,N,F,3,,Tyne Gardens,Ovingham,Prudhoe
+2022-01-20,235000,NE42 5QH,D,N,F,9,,The Ford,,Prudhoe
+2022-01-18,163500,NE42 6JZ,T,N,F,1,,Beaumont Terrace,,Prudhoe
+2022-01-14,127500,NE42 6LL,T,N,F,24,,Simonside,,Prudhoe
+2022-01-14,165000,NE42 6BD,T,N,L,10,,Welburn Close,Ovingham,Prudhoe
+2022-01-14,237654,NE42 5PL,D,N,F,20,,Fern Close,,Prudhoe
+2022-01-12,300000,NE42 5FD,D,N,F,15,,North Wylam View,,Prudhoe
+2022-01-07,150000,NE42 5QA,D,N,F,11,,Cranleigh Grove,,Prudhoe
+2022-01-05,289000,NE42 5QJ,D,N,L,7,,Appletree Drive,,Prudhoe
+2021-12-21,99000,NE42 6JS,T,N,F,3,,North View Terrace,,Prudhoe
+2021-12-21,125000,NE42 6HP,T,N,F,West Court,3,West Road,,Prudhoe
+2021-12-20,514995,NE42 5BZ,D,Y,F,11,,Spinney Gardens,Cottier Grange,Prudhoe
+2021-12-17,80000,NE42 6NB,S,N,F,17,,Dene Grove,,Prudhoe
+2021-12-16,150000,NE42 5EA,T,N,F,7,,Sandyford Avenue,,Prudhoe
+2021-12-15,330000,NE42 6QA,D,N,L,8,,Sycamore Grove,,Prudhoe
+2021-12-13,201000,NE42 6HA,T,N,L,7,,St Cuthberts Close,,Prudhoe
+2021-12-13,170000,NE42 5BG,T,N,F,1,,East View Terrace,,Prudhoe
+2021-12-10,210000,NE42 6BB,T,N,F,35,,Wheatfield Close,Ovingham,Prudhoe
+2021-12-10,205000,NE42 5FH,D,N,F,46,,Rolley Way,,Prudhoe
+2021-12-09,175000,NE42 5FE,T,N,F,26,,School Row,,Prudhoe
+2021-12-07,210000,NE42 6HW,D,N,F,2,,Edgewell Court,,Prudhoe
+2021-12-06,192000,NE42 5HE,D,N,F,18,,Oakfield Park,,Prudhoe
+2021-11-30,292500,NE42 6EY,D,N,F,Pendlecrag,,Highfield Lane,,Prudhoe
+2021-11-26,235000,NE42 5FJ,D,N,F,8,,Tilley Crescent,,Prudhoe
+2021-11-26,352995,NE42 5BZ,D,Y,F,9,,Spinney Gardens,Cottier Grange,Prudhoe
+2021-11-22,200000,NE42 6BE,T,N,F,6,,Dene Close,Ovingham,Prudhoe
+2021-11-22,150000,NE42 5ER,S,N,F,32,,Biverfield Road,,Prudhoe
+2021-11-19,110000,NE42 5LE,S,N,F,26,,Hillcrest,,Prudhoe
+2021-11-17,534995,NE42 5BZ,D,Y,F,7,,Spinney Gardens,Cottier Grange,Prudhoe
+2021-11-12,227000,NE42 6PT,S,N,L,5,,Cherry Grove,,Prudhoe
+2021-11-08,103000,NE42 6JL,S,N,F,9,,Milton Grove,,Prudhoe
+2021-11-05,185000,NE42 5LW,T,N,F,45,,Park Lane,,Prudhoe
+2021-11-05,500000,NE42 5FS,S,N,F,6,,Broomhouse Farm Court,,Prudhoe
+2021-10-27,295000,NE42 6DH,S,N,F,East End Cottage,,,Ovington,Prudhoe
+2021-10-22,210000,NE42 6PT,S,N,L,43,,Cherry Grove,,Prudhoe
+2021-10-13,114000,NE42 6NT,S,N,F,41,,Masters Crescent,,Prudhoe
+2021-10-08,235000,NE42 6RG,D,N,F,26,,Ovington View,,Prudhoe
+2021-10-01,147000,NE42 6PA,S,N,F,65,,Western Avenue,,Prudhoe
+2021-10-01,120000,NE42 5LF,T,N,F,49,,Hillcrest,,Prudhoe
+2021-10-01,275000,NE42 5FL,D,N,F,7,,Cross Street,,Prudhoe
+2021-09-30,136000,NE42 5LE,T,N,F,34,,Hillcrest,,Prudhoe
+2021-09-30,140000,NE42 5HE,S,N,F,2,,Oakfield Park,,Prudhoe
+2021-09-28,310000,NE42 5FP,D,N,L,25,,Castlefields Drive,,Prudhoe
+2021-09-27,225000,NE42 5FD,D,N,F,10,,North Wylam View,,Prudhoe
+2021-09-24,205000,NE42 6PR,S,N,F,9,,Lime Grove,,Prudhoe
+2021-09-24,170000,NE42 6PP,S,N,F,17,,Rowan Grove,,Prudhoe
+2021-09-24,142000,NE42 6EX,S,N,L,15,,Swalwell Close,,Prudhoe
+2021-09-24,190000,NE42 5FF,D,N,F,11,,Towneley Court,,Prudhoe
+2021-09-24,120000,NE42 5EJ,T,N,F,23,,Broomhouse Road,,Prudhoe
+2021-09-24,255000,NE42 5DA,D,N,F,7,,The Copse,,Prudhoe
+2021-09-24,342995,NE42 5BZ,D,Y,F,5,,Spinney Gardens,Cottier Grange,Prudhoe
+2021-09-24,304995,NE42 5BZ,D,Y,F,3,,Spinney Gardens,Cottier Grange,Prudhoe
+2021-09-24,339995,NE42 5BZ,D,Y,F,15,,Spinney Gardens,Cottier Grange,Prudhoe
+2021-09-24,252950,NE42 5BZ,D,Y,F,1,,Spinney Gardens,Cottier Grange,Prudhoe
+2021-09-22,305000,NE42 6DH,T,N,F,Ivy Cottage,,,Ovington,Prudhoe
+2021-09-22,192000,NE42 5LW,S,N,F,49,,Park Lane,,Prudhoe
+2021-09-22,210000,NE42 5FF,S,N,F,9,,Towneley Court,,Prudhoe
+2021-09-21,92500,NE42 5ET,F,N,L,The Manors,11,Adderlane Road,,Prudhoe
+2021-09-17,190000,NE42 6QF,D,N,F,56,,Cranbrook Drive,,Prudhoe
+2021-09-17,270000,NE42 6AT,T,N,F,22,,Castle View,Ovingham,Prudhoe
+2021-09-16,97000,NE42 6HS,T,N,F,20,,River View,,Prudhoe
+2021-09-09,82500,NE42 5ET,F,N,L,The Manors,13,Adderlane Road,,Prudhoe
+2021-09-07,217501,NE42 5FE,T,N,F,11,,School Row,,Prudhoe
+2021-09-06,55000,NE42 6QF,F,N,L,22,,Cranbrook Drive,,Prudhoe
+2021-09-03,115000,NE42 6NT,S,N,F,3,,Masters Crescent,,Prudhoe
+2021-09-03,265000,NE42 5PN,D,N,F,20,,Beechwood Drive,,Prudhoe
+2021-09-03,71000,NE42 5JY,F,N,L,8,,Locomotive Court,,Prudhoe
+2021-09-03,240000,NE42 5FD,D,N,F,14,,North Wylam View,,Prudhoe
+2021-09-02,290000,NE42 6RG,D,N,L,16,,Ovington View,,Prudhoe
+2021-09-02,196500,NE42 5LN,S,N,F,2,,Park Lane,,Prudhoe
+2021-08-31,180000,NE42 6PW,S,N,L,146,,Castle Road,,Prudhoe
+2021-08-31,125000,NE42 6PS,T,N,L,15,,Holly Grove,,Prudhoe
+2021-08-27,118000,NE42 6NG,S,N,F,19,,Castle View,,Prudhoe
+2021-08-27,122500,NE42 6HU,T,N,F,26,,Beech Grove,,Prudhoe
+2021-08-27,222000,NE42 5FL,D,N,F,3,,Cross Street,,Prudhoe
+2021-08-27,117000,NE42 5EJ,T,N,F,26,,Broomhouse Road,,Prudhoe
+2021-08-27,347995,NE42 5BZ,D,Y,F,17,,Spinney Gardens,Cottier Grange,Prudhoe
+2021-08-26,143000,NE42 6NE,S,N,F,70,,Castle Road,,Prudhoe
+2021-08-25,189950,NE42 5LU,S,N,F,6,,St Thomas Close,,Prudhoe
+2021-08-20,170000,NE42 6EZ,T,N,F,32,,Highfield,,Prudhoe
+2021-08-20,163000,NE42 5FQ,S,N,L,9,,St Oswalds Court,,Prudhoe
+2021-08-17,227576,NE42 6RD,D,N,F,16,,Otterburn Way,,Prudhoe
+2021-08-17,190000,NE42 6PA,S,N,L,82,,Western Avenue,,Prudhoe
+2021-08-17,120000,NE42 5LE,S,N,F,39,,Hillcrest,,Prudhoe
+2021-08-13,100000,NE42 5ED,S,N,F,137,,Adderlane Road,,Prudhoe
+2021-08-09,105000,NE42 5EW,S,N,F,53,,Stanley Crescent,,Prudhoe
+2021-08-06,193500,NE42 5QS,D,N,F,2,,Odinel Court,,Prudhoe
+2021-08-06,119995,NE42 5PX,T,N,F,12,,Tyne View Terrace,,Prudhoe
+2021-07-30,239950,NE42 6RJ,D,N,L,1,,Tennyson Court,,Prudhoe
+2021-07-30,190000,NE42 6AQ,T,N,F,West End Cottages,3,West Road,Ovingham,Prudhoe
+2021-07-30,157000,NE42 5HZ,S,N,F,3,,Low Close,,Prudhoe
+2021-07-27,115000,NE42 5DW,S,N,F,24,,Scales Crescent,,Prudhoe
+2021-07-23,120000,NE42 6LQ,T,N,F,5,,Ottercops,,Prudhoe
+2021-07-23,250000,NE42 5QU,D,N,F,18,,Percy Lonnen,,Prudhoe
+2021-07-22,100000,NE42 5DR,T,N,F,61,,Woodhead Road,,Prudhoe
+2021-07-16,95000,NE42 6NE,S,N,F,84,,Castle Road,,Prudhoe
+2021-07-16,180000,NE42 6AY,T,N,L,25,,Piper Road,Ovingham,Prudhoe
+2021-07-16,135000,NE42 5QA,S,N,F,2,,Cranleigh Grove,,Prudhoe
+2021-07-02,170000,NE42 6QJ,T,N,F,10,,Old Eltringham Court,,Prudhoe
+2021-07-02,170000,NE42 6PA,D,N,F,69,,Western Avenue,,Prudhoe
+2021-07-02,78000,NE42 6NF,S,N,F,41,,Castle Close,,Prudhoe
+2021-06-30,660000,NE42 6BJ,D,N,F,Dene House,,,Ovingham,Prudhoe
+2021-06-29,310000,NE42 5QX,D,N,L,9,,Mill View Rise,,Prudhoe
+2021-06-29,440000,NE42 5LL,S,N,F,29,,Moor Road,,Prudhoe
+2021-06-29,325000,NE42 5BL,D,N,F,7,,Valley View,,Prudhoe
+2021-06-28,76000,NE42 6NE,S,N,F,108,,Castle Road,,Prudhoe
+2021-06-28,55000,NE42 5PX,T,N,F,11,,Tyne View Terrace,,Prudhoe
+2021-06-28,200000,NE42 5FP,S,N,F,19,,Castlefields Drive,,Prudhoe
+2021-06-28,305000,NE42 5FL,D,N,F,9,,Cross Street,,Prudhoe
+2021-06-28,230000,NE42 5BD,S,N,F,6,,Drawback Close,,Prudhoe
+2021-06-25,262500,NE42 6QH,D,N,F,28,,North Meadow,Ovingham,Prudhoe
+2021-06-25,104000,NE42 6HS,T,N,F,19,,River View,,Prudhoe
+2021-06-25,349000,NE42 5BX,D,N,F,9,,Nightingale Close,Cottier Grange,Prudhoe
+2021-06-23,305000,NE42 6AT,T,N,F,14,,Castle View,Ovingham,Prudhoe
+2021-06-17,535000,NE42 6HJ,D,N,F,Tynewood North Lodge,,,Ovingham,Prudhoe
+2021-06-17,101000,NE42 5ET,F,N,L,The Manors,27,Adderlane Road,,Prudhoe
+2021-06-16,250000,NE42 5AY,D,N,F,44,,Homedale,,Prudhoe
+2021-06-15,95000,NE42 6LF,T,N,F,10,,Linnheads,,Prudhoe
+2021-06-09,245000,NE42 5QW,D,N,F,32,,Grey Lady Walk,,Prudhoe
+2021-06-09,95000,NE42 5BH,T,N,F,2,,Oaktree Terrace,,Prudhoe
+2021-06-04,87000,NE42 6EU,T,N,F,4,,Fair View,,Prudhoe
+2021-06-04,115000,NE42 5LE,S,N,F,29,,Hillcrest,,Prudhoe
+2021-05-28,144000,NE42 6PR,S,N,L,2,,Lime Grove,,Prudhoe
+2021-05-28,145000,NE42 5NY,S,N,F,16,,Redwell Court,,Prudhoe
+2021-05-25,107500,NE42 5HX,S,N,F,62,,Broomhill Road,,Prudhoe
+2021-05-21,279950,NE42 5PN,D,N,F,2,,Beechwood Drive,,Prudhoe
+2021-05-21,107500,NE42 5ER,S,N,F,40,,Biverfield Road,,Prudhoe
+2021-05-20,139950,NE42 6LD,T,N,F,1,,High Shaw,,Prudhoe
+2021-05-18,158000,NE42 6AP,S,N,F,43,,Dene Garth,Ovingham,Prudhoe
+2021-05-14,135000,NE42 6NU,S,N,F,9,,Western Avenue,,Prudhoe
+2021-05-14,108000,NE42 6HS,T,N,F,22,,River View,,Prudhoe
+2021-05-07,165000,NE42 6QJ,T,N,F,11,,Old Eltringham Court,,Prudhoe
+2021-05-07,245000,NE42 5FA,D,Y,F,29,,Pavilion Rise,Cottier Grange,Prudhoe
+2021-05-07,196000,NE42 5FA,D,Y,F,16,,Pavilion Rise,Cottier Grange,Prudhoe
+2021-05-04,120000,NE42 6LE,T,N,F,12,,High Shaw,,Prudhoe
+2021-05-04,220000,NE42 6EZ,T,N,F,4,,Highfield,,Prudhoe
+2021-05-04,138500,NE42 5AX,T,N,F,94,,Cheviot View,,Prudhoe
+2021-04-30,199000,NE42 6QE,S,N,L,18,,Leaway,,Prudhoe
+2021-04-30,235000,NE42 6AG,T,N,F,The Stables,,Main Road,Ovingham,Prudhoe
+2021-04-30,350000,NE42 5QX,D,N,F,12,,Mill View Rise,,Prudhoe
+2021-04-30,314950,NE42 5FA,D,Y,F,25,,Pavilion Rise,Cottier Grange,Prudhoe
+2021-04-16,89000,NE42 6NH,S,N,F,3,,Castle Lea,,Prudhoe
+2021-04-16,210000,NE42 5QJ,D,N,F,5,,Appletree Drive,,Prudhoe
+2021-04-16,290000,NE42 5FR,D,N,L,1,,Bells Lonnen,,Prudhoe
+2021-04-16,200000,NE42 5FD,D,N,F,11,,North Wylam View,,Prudhoe
+2021-04-15,170000,NE42 6BD,T,N,F,16,,Welburn Close,Ovingham,Prudhoe
+2021-04-14,175000,NE42 6BB,T,N,F,24,,Wheatfield Close,Ovingham,Prudhoe
+2021-04-06,245000,NE42 6DL,T,N,F,2,,Dene Terrace,Ovington,Prudhoe
+2021-03-31,85000,NE42 6HR,T,N,F,38,,West Road,,Prudhoe
+2021-03-30,395000,NE42 5PQ,D,N,F,8,,Hillcrest Court,,Prudhoe
+2021-03-29,255000,NE42 6RD,D,N,F,39,,Otterburn Way,,Prudhoe
+2021-03-29,172000,NE42 6QJ,T,N,F,12,,Old Eltringham Court,,Prudhoe
+2021-03-29,95000,NE42 6LG,T,N,F,18,,Linnheads,,Prudhoe
+2021-03-26,99950,NE42 6LE,T,N,F,15,,High Shaw,,Prudhoe
+2021-03-26,220000,NE42 5QW,D,N,F,30,,Grey Lady Walk,,Prudhoe
+2021-03-26,215000,NE42 5QU,D,N,L,17,,Percy Lonnen,,Prudhoe
+2021-03-26,116000,NE42 5FA,S,Y,F,6,,Pavilion Rise,Cottier Grange,Prudhoe
+2021-03-26,252950,NE42 5FA,D,Y,F,33,,Pavilion Rise,Cottier Grange,Prudhoe
+2021-03-25,83000,NE42 6HP,T,N,F,19,,West Road,,Prudhoe
+2021-03-25,316000,NE42 5FA,D,Y,F,14,,Pavilion Rise,Cottier Grange,Prudhoe
+2021-03-19,80000,NE42 6QJ,F,N,L,18,,Old Eltringham Court,,Prudhoe
+2021-03-19,210000,NE42 6EB,S,N,F,Brewery Cottage,,,Ovington,Prudhoe
+2021-03-19,135000,NE42 5LR,S,N,F,71,,Moorlands,,Prudhoe
+2021-03-10,265000,NE42 5PH,D,N,F,5,,Woodside,,Prudhoe
+2021-03-05,191000,NE42 6QH,D,N,F,16,,North Meadow,Ovingham,Prudhoe
+2021-03-05,130000,NE42 6LL,T,N,F,26,,Simonside,,Prudhoe
+2021-03-05,174000,NE42 5QD,S,N,L,15,,Spetchells,,Prudhoe
+2021-03-05,55000,NE42 5LF,T,N,F,48,,Hillcrest,,Prudhoe
+2021-03-05,116000,NE42 5FA,S,Y,F,8,,Pavilion Rise,Cottier Grange,Prudhoe
+2021-03-03,89000,NE42 6ND,S,N,F,31,,Castle Road,,Prudhoe
+2021-03-03,270000,NE42 6AR,S,N,F,Peartree Cottage,,Tyne Gardens,Ovingham,Prudhoe
+2021-03-03,69000,NE42 5EA,F,N,L,12A,,Sandyford Avenue,,Prudhoe
+2021-02-26,137500,NE42 5PN,S,N,F,6,,Beechwood Drive,,Prudhoe
+2021-02-26,245000,NE42 5FA,D,Y,F,31,,Pavilion Rise,Cottier Grange,Prudhoe
+2021-02-26,345000,NE42 5FA,D,Y,F,27,,Pavilion Rise,Cottier Grange,Prudhoe
+2021-02-26,116000,NE42 5FA,S,Y,F,20,,Pavilion Rise,Cottier Grange,Prudhoe
+2021-02-25,345000,NE42 5FA,D,Y,F,35,,Pavilion Rise,Cottier Grange,Prudhoe
+2021-02-25,190000,NE42 5FA,S,Y,F,18,,Pavilion Rise,Cottier Grange,Prudhoe
+2021-02-24,99950,NE42 6JA,T,N,F,6,,Leaburn Terrace,,Prudhoe
+2021-02-24,70000,NE42 5BQ,T,N,F,4,,Homedale Terrace,,Prudhoe
+2021-02-23,140000,NE42 6PY,S,N,L,168,,Castle Road,,Prudhoe
+2021-02-23,85000,NE42 6NH,S,N,F,36,,Castle Lea,,Prudhoe
+2021-02-19,156250,NE42 6DL,T,N,F,7,,Dene Terrace,Ovington,Prudhoe
+2021-02-18,135000,NE42 6AZ,T,N,F,53,,Piper Road,Ovingham,Prudhoe
+2021-02-12,279950,NE42 6RG,D,N,F,29,,Ovington View,,Prudhoe
+2021-02-12,152500,NE42 6PA,S,N,L,63,,Western Avenue,,Prudhoe
+2021-02-12,82500,NE42 6HR,T,N,F,39,,West Road,,Prudhoe
+2021-02-12,130000,NE42 5LS,S,N,F,34,,Moorlands,,Prudhoe
+2021-02-09,300000,NE42 5LH,S,N,F,17,,Moor Road,,Prudhoe
+2021-02-02,150000,NE42 5LR,S,N,F,9,,Moorlands,,Prudhoe
+2021-01-29,110000,NE42 5EP,S,N,F,7,,West Wylam Drive,,Prudhoe
+2021-01-29,90000,NE42 5EA,T,N,F,7,,Sandyford Avenue,,Prudhoe
+2021-01-28,342500,NE42 5FA,D,Y,F,23,,Pavilion Rise,Cottier Grange,Prudhoe
+2021-01-22,185000,NE42 6PD,D,N,F,31,,Kepwell Road,,Prudhoe
+2021-01-22,112000,NE42 6NE,S,N,F,118,,Castle Road,,Prudhoe
+2021-01-15,289500,NE42 6AU,T,N,F,33,,Castle View,Ovingham,Prudhoe
+2021-01-15,189500,NE42 6AH,T,N,F,3,,River View,Ovingham,Prudhoe
+2021-01-12,273000,NE42 6RB,D,N,L,31,,Broom Wood Court,,Prudhoe
+2021-01-08,210000,NE42 6EL,D,N,F,3,,Springfield Close,Ovington,Prudhoe
+2021-01-08,202500,NE42 6AQ,T,N,F,West End Cottages,1,West Road,Ovingham,Prudhoe
+2021-01-07,307500,NE42 5FR,D,N,F,14,,Bells Lonnen,,Prudhoe

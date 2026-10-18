@@ -1,0 +1,935 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-14,132000,L10 4YP,T,N,F,18,,Beryl Walk,,Liverpool
+2026-08-10,189000,L10 6LX,S,N,F,42,,Sandhurst Drive,,Liverpool
+2026-08-07,155500,L10 7LX,T,N,F,73,,Montrovia Crescent,,Liverpool
+2026-07-31,102000,L10 3JF,F,N,L,125,,Altway,,Liverpool
+2026-07-30,212500,L10 4US,S,N,F,103,,Longdown Road,,Liverpool
+2026-07-24,286000,L10 6LY,S,N,F,29,,Bull Bridge Lane,,Liverpool
+2026-07-24,320000,L10 6LS,S,N,F,12,,Lowther Avenue,Aintree,Liverpool
+2026-07-24,307500,L10 6LA,S,N,F,169,,Altway,,Liverpool
+2026-07-24,228000,L10 3JR,S,N,F,70,,Oriel Drive,,Liverpool
+2026-07-21,132000,L10 7NJ,T,N,L,15,,Drake Close,,Liverpool
+2026-07-20,150000,L10 7NP,T,N,F,20,,Eagle Dene,,Liverpool
+2026-07-16,243500,L10 1NF,F,N,F,23,,Lytham Close,,Liverpool
+2026-07-08,210000,L10 2JU,S,N,F,4,,Dartmouth Avenue,,Liverpool
+2026-07-06,151000,L10 7LA,T,N,L,5,,Dereham Crescent,,Liverpool
+2026-07-03,165000,L10 4UT,S,N,L,2,,Longdown Road,,Liverpool
+2026-06-26,226000,L10 2JL,S,N,F,34,,Aintree Lane,,Liverpool
+2026-06-22,147000,L10 4XP,S,N,F,102,,Elizabeth Road,Fazakerley,Liverpool
+2026-06-17,225000,L10 6LY,S,N,F,37,,Bull Bridge Lane,,Liverpool
+2026-06-15,267000,L10 8LN,S,N,F,31,,Lancing Drive,,Liverpool
+2026-06-12,128000,L10 4XL,T,N,L,71,,Elizabeth Road,Fazakerley,Liverpool
+2026-06-12,140000,L10 4UR,S,N,L,4,,Fistral Close,,Liverpool
+2026-06-12,260000,L10 3JE,S,N,F,57,,Altway,,Liverpool
+2026-06-08,315000,L10 1AA,D,N,F,2,,Redbank Close,,Liverpool
+2026-06-03,145000,L10 4YW,T,N,F,15,,Fiona Walk,,Liverpool
+2026-06-01,169950,L10 0AR,S,N,F,109,,Copplehouse Lane,,Liverpool
+2026-05-29,140000,L10 7NH,T,N,L,41,,Grieve Road,,Liverpool
+2026-05-22,153000,L10 7LA,T,N,F,15,,Dereham Crescent,,Liverpool
+2026-05-22,255000,L10 2LD,S,N,F,11,,Shrewsbury Avenue,Old Roan,Liverpool
+2026-05-22,245000,L10 1NF,S,N,F,26,,Lytham Close,,Liverpool
+2026-05-15,301000,L10 8JY,T,N,F,39,,Charterhouse Drive,,Liverpool
+2026-05-15,130000,L10 4UE,T,N,F,38,,Greenbank Drive,Fazakerley,Liverpool
+2026-05-15,86500,L10 0AS,F,N,L,16,,Moor Court,,Liverpool
+2026-05-15,176000,L10 0AH,S,N,F,7,,Barbara Avenue,,Liverpool
+2026-05-01,230000,L10 1NB,S,N,F,129,,Sherwoods Lane,,Liverpool
+2026-04-30,265000,L10 2JN,S,N,F,42,,Aintree Lane,,Liverpool
+2026-04-27,287000,L10 9NG,D,N,F,46,,Blueberry Fields,,Liverpool
+2026-04-21,295000,L10 6LP,S,N,F,8,,Haileybury Avenue,,Liverpool
+2026-04-21,152000,L10 4UT,S,N,L,98,,Longdown Road,,Liverpool
+2026-04-15,305000,L10 8JT,S,N,F,23,,Uppingham Avenue,,Liverpool
+2026-04-13,155000,L10 7LB,T,N,F,49,,Formosa Drive,,Liverpool
+2026-03-30,140000,L10 1LT,T,N,F,16,,Haven Road,,Liverpool
+2026-03-27,350000,L10 8JW,S,N,F,48,,Taunton Drive,,Liverpool
+2026-03-24,210000,L10 6NE,S,N,F,26,,Wrekin Drive,,Liverpool
+2026-03-24,180000,L10 1NH,S,N,L,50,,Leagate,,Liverpool
+2026-03-20,133500,L10 9LQ,T,N,F,48,,Moss Pits Lane,Fazakerley,Liverpool
+2026-03-20,265000,L10 3LG,S,N,F,57,,Radley Drive,Aintree,Liverpool
+2026-03-12,255000,L10 8LW,S,N,F,26,,Lancing Drive,,Liverpool
+2026-03-06,160000,L10 9NA,T,N,L,92,,Manica Crescent,,Liverpool
+2026-03-06,350000,L10 3JD,S,N,F,21,,Altway,,Liverpool
+2026-02-27,240000,L10 6LL,S,N,L,283,,Oriel Drive,,Liverpool
+2026-02-27,215000,L10 3LL,S,N,F,6,,Lincoln Drive,Aintree,Liverpool
+2026-02-27,245000,L10 3LA,S,N,F,3,,Keble Drive,Aintree,Liverpool
+2026-02-26,137000,L10 9LU,T,N,L,27,,Ladysmith Road,,Liverpool
+2026-02-26,134000,L10 7LW,T,N,F,794,,Longmoor Lane,,Liverpool
+2026-02-24,130000,L10 4YG,T,N,F,36,,Clare Walk,,Liverpool
+2026-02-13,160000,L10 9LU,S,N,F,59,,Ladysmith Road,,Liverpool
+2026-02-13,195000,L10 6NH,S,N,L,22,,Kempton Park Road,Aintree,Liverpool
+2026-02-02,250000,L10 8LU,S,N,F,14,,Exeter Close,,Liverpool
+2026-01-30,230000,L10 6LG,S,N,F,156,,Altway,,Liverpool
+2026-01-29,145000,L10 7NH,T,N,F,9,,Grieve Road,,Liverpool
+2026-01-26,130000,L10 4XT,T,N,L,11,,Sheila Walk,,Liverpool
+2026-01-26,252000,L10 4UJ,S,N,F,1,,Alt Side Court,,Liverpool
+2026-01-26,177500,L10 1NH,T,N,L,41,,Leagate,,Liverpool
+2026-01-20,140000,L10 7NF,T,N,F,40,,Gribble Road,,Liverpool
+2026-01-16,186000,L10 8LS,S,N,F,39,,Beaumont Drive,,Liverpool
+2026-01-16,250000,L10 1NH,S,N,L,32,,Leagate,,Liverpool
+2026-01-12,85000,L10 1AA,D,N,L,17,,Redbank Close,,Liverpool
+2026-01-09,277500,L10 2JF,S,N,F,59,,Mostyn Avenue,Old Roan,Liverpool
+2025-12-19,145000,L10 6LZ,S,N,F,46,,Bull Bridge Lane,,Liverpool
+2025-12-19,176960,L10 2JN,S,N,F,54,,Aintree Lane,,Liverpool
+2025-12-17,140000,L10 9LZ,T,N,F,47,,Manica Crescent,,Liverpool
+2025-12-15,305000,L10 8LR,S,N,F,31,,Oakham Drive,,Liverpool
+2025-12-15,219999,L10 2JU,S,N,F,25,,Dartmouth Avenue,,Liverpool
+2025-12-12,95000,L10 4XQ,S,N,F,145,,Field Lane,Fazakerley,Liverpool
+2025-12-12,283000,L10 3JG,S,N,F,152,,Ormskirk Road,,Liverpool
+2025-12-12,187500,L10 1NH,S,N,L,53,,Leagate,,Liverpool
+2025-12-10,210000,L10 3JH,S,N,F,45,,Bradfield Avenue,Aintree,Liverpool
+2025-12-05,201000,L10 6NE,S,N,F,28,,Wrekin Drive,,Liverpool
+2025-12-02,195000,L10 3JX,T,N,F,11,,Rossall Avenue,Aintree,Liverpool
+2025-12-01,127500,L10 4XN,S,N,L,133,,Elizabeth Road,Fazakerley,Liverpool
+2025-11-28,223000,L10 6LZ,S,N,F,26,,Bull Bridge Lane,,Liverpool
+2025-11-28,128000,L10 4YB,T,N,F,31,,Jean Walk,,Liverpool
+2025-11-28,280000,L10 4UF,D,N,F,41,,Horseshoe Drive,,Liverpool
+2025-11-27,240000,L10 8LH,S,N,F,28,,School Lane,Aintree,Liverpool
+2025-11-27,120000,L10 4XY,T,N,L,28,,Pauline Walk,,Liverpool
+2025-11-27,239950,L10 3JN,S,N,F,101,,Oriel Drive,,Liverpool
+2025-11-27,265000,L10 2JP,S,N,F,23,,Ellesmere Drive,,Liverpool
+2025-11-27,147500,L10 0AY,S,N,F,31,,Alscot Avenue,,Liverpool
+2025-11-25,260000,L10 1LN,T,N,F,45,,Sherwoods Lane,,Liverpool
+2025-11-24,210000,L10 3JZ,S,N,F,12,,Winchester Avenue,Aintree,Liverpool
+2025-11-21,55000,L10 1LD,F,N,L,10,5,New Hall,,Liverpool
+2025-11-18,195000,L10 3JX,S,N,F,10,,Rossall Avenue,Aintree,Liverpool
+2025-11-14,240000,L10 2LG,T,N,F,22,,Altway,,Liverpool
+2025-11-11,240000,L10 2JJ,S,N,F,75,,Aintree Lane,,Liverpool
+2025-11-07,260000,L10 2LQ,S,N,F,90,,Altway,,Liverpool
+2025-10-31,127000,L10 9NE,S,N,F,11,,Swainson Road,,Liverpool
+2025-10-31,350000,L10 1AA,S,N,L,58,,Redbank Close,,Liverpool
+2025-10-31,185000,L10 0AG,S,N,F,56,,Field Lane,Fazakerley,Liverpool
+2025-10-29,134000,L10 7LS,T,N,F,6,,Drake Crescent,,Liverpool
+2025-10-28,205000,L10 6NH,S,N,L,36,,Kempton Park Road,Aintree,Liverpool
+2025-10-24,240000,L10 8LL,S,N,F,18,,Monmouth Drive,,Liverpool
+2025-10-24,105000,L10 4YG,T,N,F,29,,Clare Walk,,Liverpool
+2025-10-22,370000,L10 6LU,S,N,F,49,,Sandhurst Drive,,Liverpool
+2025-10-22,225000,L10 3JJ,S,N,F,34,,Bradfield Avenue,Aintree,Liverpool
+2025-10-17,85000,L10 7LH,S,N,L,3,,Elmham Crescent,,Liverpool
+2025-10-17,227500,L10 0AN,S,N,F,5,,Edna Avenue,,Liverpool
+2025-10-16,265000,L10 9NG,D,N,F,47,,Blueberry Fields,,Liverpool
+2025-10-15,142500,L10 9LP,S,N,F,67,,Harrismith Road,,Liverpool
+2025-10-14,181000,L10 4UF,S,N,F,10,,Horseshoe Drive,,Liverpool
+2025-10-14,181000,L10 3JR,T,N,F,54,,Oriel Drive,,Liverpool
+2025-10-03,165000,L10 1LR,T,N,F,65,,Haven Road,,Liverpool
+2025-09-30,210000,L10 0AW,S,N,F,24,,Grace Avenue,,Liverpool
+2025-09-29,155000,L10 4UZ,S,N,L,34,,Wadebridge Road,,Liverpool
+2025-09-26,163000,L10 4YH,T,N,L,37,,Denise Road,,Liverpool
+2025-09-26,132000,L10 4XY,T,N,L,54,,Pauline Walk,,Liverpool
+2025-09-26,142000,L10 4UH,S,N,F,5,,Brookbank Court,,Liverpool
+2025-09-25,295000,L10 8JY,T,N,F,41,,Charterhouse Drive,,Liverpool
+2025-09-25,240000,L10 8JP,S,N,F,74,,Taunton Drive,,Liverpool
+2025-09-22,228000,L10 8JL,S,N,F,33,,Taunton Drive,,Liverpool
+2025-09-19,182000,L10 4UX,S,N,L,2,,Rame Close,,Liverpool
+2025-09-19,237000,L10 3LG,S,N,F,53,,Radley Drive,Aintree,Liverpool
+2025-09-12,80000,L10 9LU,T,N,F,31,,Ladysmith Road,,Liverpool
+2025-08-29,280000,L10 8JQ,S,N,F,53,,Wango Lane,,Liverpool
+2025-08-29,235000,L10 8JN,S,N,F,133,,Taunton Drive,,Liverpool
+2025-08-29,130000,L10 3JF,F,N,L,143,,Altway,,Liverpool
+2025-08-27,135000,L10 7NS,T,N,F,14,,Falcon Hey,,Liverpool
+2025-08-26,250000,L10 3JT,S,N,F,45,,Sedbergh Avenue,,Liverpool
+2025-08-22,220000,L10 4XW,D,N,L,4,,Elizabeth Road,Fazakerley,Liverpool
+2025-08-22,287500,L10 3JD,S,N,F,37,,Altway,,Liverpool
+2025-08-15,115000,L10 7NR,T,N,L,9,,Kestrel Dene,,Liverpool
+2025-08-15,212000,L10 2JG,S,N,F,32,,Mostyn Avenue,Old Roan,Liverpool
+2025-08-15,330000,L10 1AA,D,N,L,47,,Redbank Close,,Liverpool
+2025-08-15,330000,L10 1AA,D,N,F,47,,Redbank Close,,Liverpool
+2025-08-14,225000,L10 2JZ,S,N,F,24,,Eton Drive,,Liverpool
+2025-08-12,177000,L10 7LR,T,N,F,97,,Drake Crescent,,Liverpool
+2025-08-08,120000,L10 4YS,T,N,L,19,,Alma Close,,Liverpool
+2025-08-08,145000,L10 0AR,S,N,F,43B,,Copplehouse Lane,,Liverpool
+2025-08-07,273000,L10 8JA,T,N,F,1,,School Lane,Aintree,Liverpool
+2025-08-01,250000,L10 8JL,S,N,F,55,,Taunton Drive,,Liverpool
+2025-07-30,160000,L10 6NE,S,N,F,22,,Wrekin Drive,,Liverpool
+2025-07-30,219000,L10 6LE,T,N,F,223,,Altway,,Liverpool
+2025-07-30,128000,L10 1LT,T,N,F,16,,Haven Road,,Liverpool
+2025-07-28,191000,L10 9ND,S,N,L,26,,Montrovia Crescent,,Liverpool
+2025-07-28,180000,L10 6LL,D,N,F,247,,Oriel Drive,,Liverpool
+2025-07-28,235000,L10 2LG,S,N,F,26,,Altway,,Liverpool
+2025-07-25,143000,L10 7NH,T,N,F,42,,Grieve Road,,Liverpool
+2025-07-25,190000,L10 1NH,S,N,L,11,,Leagate,,Liverpool
+2025-07-25,240000,L10 1NE,D,N,F,11,,Rufford Close,,Liverpool
+2025-07-23,200000,L10 8LB,S,N,F,2,,Atholl Crescent,,Liverpool
+2025-07-23,200000,L10 1NH,S,N,L,5,,Leagate,,Liverpool
+2025-07-18,277500,L10 6LA,S,N,F,171,,Altway,,Liverpool
+2025-07-18,154500,L10 4UR,S,N,L,12,,Fistral Close,,Liverpool
+2025-07-17,168000,L10 6LP,T,N,F,15,,Haileybury Avenue,,Liverpool
+2025-07-17,250000,L10 2JR,S,N,F,20,,Ellesmere Drive,,Liverpool
+2025-07-17,180000,L10 1LP,T,N,F,61,,Edgemoor Drive,Fazakerley,Liverpool
+2025-07-15,214000,L10 1LP,T,N,F,55,,Edgemoor Drive,Fazakerley,Liverpool
+2025-07-14,150000,L10 4YE,S,N,L,25,,Amanda Road,,Liverpool
+2025-07-11,205000,L10 3JR,S,N,F,92,,Oriel Drive,,Liverpool
+2025-07-11,231000,L10 2JZ,S,N,F,4,,Eton Drive,,Liverpool
+2025-07-11,190000,L10 1NH,S,N,L,4,,Leagate,,Liverpool
+2025-07-09,242500,L10 3LE,S,N,F,52,,Keble Drive,Aintree,Liverpool
+2025-07-08,226000,L10 6LU,T,N,F,13,,Sandhurst Drive,,Liverpool
+2025-07-07,276000,L10 8JQ,T,N,F,67,,Wango Lane,,Liverpool
+2025-07-07,230000,L10 3JN,S,N,F,65,,Oriel Drive,,Liverpool
+2025-07-04,130000,L10 4YS,T,N,L,11,,Alma Close,,Liverpool
+2025-07-04,247500,L10 2JR,S,N,F,6,,Ellesmere Drive,,Liverpool
+2025-07-02,265000,L10 9NG,D,N,F,3,,Blueberry Fields,,Liverpool
+2025-07-01,150000,L10 0AF,S,N,F,54,,Copplehouse Lane,,Liverpool
+2025-06-30,198000,L10 8JT,S,N,F,6,,Uppingham Avenue,,Liverpool
+2025-06-27,240000,L10 6LZ,S,N,F,58,,Bull Bridge Lane,,Liverpool
+2025-06-26,130000,L10 4YE,S,N,L,1,,Amanda Road,,Liverpool
+2025-06-25,320000,L10 1AA,D,N,F,30,,Redbank Close,,Liverpool
+2025-06-23,135000,L10 9LR,T,N,L,20,,Harrismith Road,,Liverpool
+2025-06-23,127000,L10 4YP,T,N,F,1,,Beryl Walk,,Liverpool
+2025-06-20,120000,L10 9LE,S,N,F,14,,Greystone Road,Fazakerley,Liverpool
+2025-06-20,125000,L10 4YB,T,N,F,17,,Jean Walk,,Liverpool
+2025-06-20,225000,L10 2LG,T,N,F,46,,Altway,,Liverpool
+2025-06-18,256000,L10 3JJ,S,N,F,36,,Bradfield Avenue,Aintree,Liverpool
+2025-06-17,184000,L10 9LT,T,N,F,52,,Delagoa Road,,Liverpool
+2025-06-13,151000,L10 7LN,T,N,L,712,,Longmoor Lane,,Liverpool
+2025-06-13,117000,L10 4YS,T,N,L,20,,Alma Close,,Liverpool
+2025-06-13,339995,L10 1AA,D,N,L,14,,Redbank Close,,Liverpool
+2025-06-12,118000,L10 4YT,T,N,L,2,,Avis Walk,,Liverpool
+2025-06-05,145000,L10 4XT,T,N,L,14,,Sheila Walk,,Liverpool
+2025-05-30,223000,L10 6LE,S,N,F,213,,Altway,,Liverpool
+2025-05-29,280000,L10 8LA,S,N,F,11,,Canterbury Close,Aintree,Liverpool
+2025-05-29,240000,L10 2LB,S,N,F,10,,Cranwell Close,,Liverpool
+2025-05-28,217500,L10 0AN,S,N,F,15,,Edna Avenue,,Liverpool
+2025-05-16,240000,L10 3JN,S,N,F,61,,Oriel Drive,,Liverpool
+2025-05-09,123000,L10 4UZ,S,N,L,42,,Wadebridge Road,,Liverpool
+2025-05-09,190000,L10 0AG,S,N,F,6,,Field Lane,Fazakerley,Liverpool
+2025-05-07,207000,L10 8LB,S,N,F,26,,Atholl Crescent,,Liverpool
+2025-04-28,280000,L10 9NG,D,N,F,65,,Blueberry Fields,,Liverpool
+2025-04-23,125000,L10 7ND,T,N,F,10,,Hawksmoor Close,,Liverpool
+2025-04-23,267000,L10 0AJ,T,N,F,20,,Ronaldsway,Fazakerley,Liverpool
+2025-04-22,135000,L10 4XP,S,N,F,94,,Elizabeth Road,Fazakerley,Liverpool
+2025-04-17,125000,L10 4UE,T,N,F,36,,Greenbank Drive,Fazakerley,Liverpool
+2025-04-17,170000,L10 3JS,T,N,F,98,,Oriel Drive,,Liverpool
+2025-04-14,155000,L10 3JH,S,N,F,13,,Bradfield Avenue,Aintree,Liverpool
+2025-04-07,100000,L10 4XN,T,N,F,145,,Elizabeth Road,Fazakerley,Liverpool
+2025-04-04,160000,L10 4YT,T,N,L,23,,Avis Walk,,Liverpool
+2025-04-04,97500,L10 1LD,F,N,L,10,4,New Hall,,Liverpool
+2025-03-28,115000,L10 4YJ,S,N,F,75,,Denise Road,,Liverpool
+2025-03-28,124000,L10 3LL,F,N,L,34,,Lincoln Drive,Aintree,Liverpool
+2025-03-27,95000,L10 4XY,T,N,L,52,,Pauline Walk,,Liverpool
+2025-03-27,249000,L10 2JR,S,N,F,30,,Ellesmere Drive,,Liverpool
+2025-03-24,235000,L10 8JB,T,N,F,10,,Sefton Drive,Aintree,Liverpool
+2025-03-21,155000,L10 9LT,T,N,F,26,,Delagoa Road,,Liverpool
+2025-03-21,265000,L10 2LD,T,N,F,39,,Shrewsbury Avenue,Old Roan,Liverpool
+2025-03-21,115000,L10 1LD,F,N,L,4,Apartment 4,New Hall,,Liverpool
+2025-03-20,120000,L10 9NE,T,N,F,51,,Swainson Road,,Liverpool
+2025-03-20,235000,L10 6LS,T,N,F,4,,Lowther Avenue,Aintree,Liverpool
+2025-03-17,115000,L10 7LQ,T,N,F,180,,Formosa Drive,,Liverpool
+2025-03-10,212000,L10 8JH,S,N,F,3,,Valentine Grove,,Liverpool
+2025-03-07,79000,L10 4XZ,T,N,F,25,,Maureen Walk,,Liverpool
+2025-03-07,161000,L10 4XJ,T,N,F,5,,Elizabeth Road,Fazakerley,Liverpool
+2025-03-03,210000,L10 2JL,S,N,F,12,,Aintree Lane,,Liverpool
+2025-02-28,290000,L10 8LG,S,N,F,178,,Aintree Lane,,Liverpool
+2025-02-28,150500,L10 7NN,S,N,F,3,,Drake Road,,Liverpool
+2025-02-28,232500,L10 6LS,S,N,F,15,,Lowther Avenue,Aintree,Liverpool
+2025-02-28,220000,L10 6LE,S,N,F,207,,Altway,,Liverpool
+2025-02-28,145000,L10 4XW,T,N,L,26,,Elizabeth Road,Fazakerley,Liverpool
+2025-02-28,205000,L10 2JQ,S,N,F,62,,Mostyn Avenue,Old Roan,Liverpool
+2025-02-24,165000,L10 4UN,S,N,L,2,,Carland Close,,Liverpool
+2025-02-24,229000,L10 3LE,S,N,F,76,,Keble Drive,Aintree,Liverpool
+2025-02-21,162500,L10 4UW,S,N,L,9,,Bradstone Close,,Liverpool
+2025-02-21,183000,L10 3JY,S,N,F,37,,Winchester Avenue,Aintree,Liverpool
+2025-02-19,192500,L10 6LN,T,N,F,144,,Oriel Drive,,Liverpool
+2025-02-17,158500,L10 4XH,T,N,F,17,,Winifred Road,,Liverpool
+2025-02-17,247000,L10 3LD,S,N,F,20,,Keble Drive,Aintree,Liverpool
+2025-02-14,320000,L10 2JN,S,N,F,66,,Aintree Lane,,Liverpool
+2025-02-07,225000,L10 3JX,S,N,F,1,,Rossall Avenue,Aintree,Liverpool
+2025-02-03,230000,L10 8JN,S,N,F,83,,Taunton Drive,,Liverpool
+2025-01-31,245000,L10 8JT,T,N,F,25,,Uppingham Avenue,,Liverpool
+2025-01-31,130000,L10 7NP,T,N,F,29,,Eagle Dene,,Liverpool
+2025-01-31,220000,L10 4UJ,T,N,F,12,,Alt Side Court,,Liverpool
+2025-01-31,160000,L10 4UE,D,N,F,41,,Greenbank Drive,Fazakerley,Liverpool
+2025-01-24,362000,L10 8JU,S,N,F,17,,Rugby Drive,,Liverpool
+2025-01-22,162000,L10 4YS,S,N,L,29,,Alma Close,,Liverpool
+2025-01-20,150000,L10 4YF,S,N,L,155,,Amanda Road,,Liverpool
+2025-01-20,234950,L10 2LQ,S,N,F,58,,Altway,,Liverpool
+2025-01-17,225000,L10 8JZ,T,N,F,54,,Charterhouse Drive,,Liverpool
+2025-01-10,87500,L10 4YX,T,N,L,21,,Alicia Walk,,Liverpool
+2025-01-10,215500,L10 1NH,D,N,L,17,,Leagate,,Liverpool
+2025-01-03,255000,L10 6NE,S,N,F,8,,Wrekin Drive,,Liverpool
+2024-12-19,177500,L10 8LN,S,N,F,25,,Lancing Drive,,Liverpool
+2024-12-19,150000,L10 6LT,F,N,F,32,,Martland Avenue,Aintree,Liverpool
+2024-12-18,255000,L10 8LL,S,N,F,10,,Monmouth Drive,,Liverpool
+2024-12-17,116000,L10 4XJ,S,N,L,61,,Elizabeth Road,Fazakerley,Liverpool
+2024-12-17,255000,L10 2JT,T,N,F,22,,Stoneyhurst Avenue,,Liverpool
+2024-12-13,124995,L10 7NN,T,N,L,35,,Drake Road,,Liverpool
+2024-12-13,137000,L10 7LR,T,N,L,69,,Drake Crescent,,Liverpool
+2024-12-13,224500,L10 6LX,S,N,F,32,,Sandhurst Drive,,Liverpool
+2024-12-13,152000,L10 4XL,S,N,F,99,,Elizabeth Road,Fazakerley,Liverpool
+2024-12-13,262000,L10 4UE,D,N,F,8,,Greenbank Drive,Fazakerley,Liverpool
+2024-12-12,90000,L10 1NH,T,N,L,38,,Leagate,,Liverpool
+2024-12-10,249950,L10 6LP,S,N,F,4,,Haileybury Avenue,,Liverpool
+2024-12-06,180000,L10 6LL,S,N,F,261,,Oriel Drive,,Liverpool
+2024-12-06,225000,L10 2JG,S,N,F,14,,Mostyn Avenue,Old Roan,Liverpool
+2024-12-06,180000,L10 2JF,S,N,F,69,,Mostyn Avenue,Old Roan,Liverpool
+2024-12-06,100000,L10 1LD,F,N,L,6,2,New Hall,,Liverpool
+2024-12-05,222000,L10 2LG,T,N,F,14,,Altway,,Liverpool
+2024-12-04,240000,L10 1NH,T,N,L,36,,Leagate,,Liverpool
+2024-12-02,215000,L10 6LX,S,N,F,36,,Sandhurst Drive,,Liverpool
+2024-11-29,110000,L10 7NL,S,N,F,2,,Formosa Way,,Liverpool
+2024-11-29,220000,L10 6NE,S,N,F,13,,Wrekin Drive,,Liverpool
+2024-11-29,225000,L10 6LU,S,N,F,53,,Sandhurst Drive,,Liverpool
+2024-11-29,69000,L10 4XT,T,N,F,36,,Sheila Walk,,Liverpool
+2024-11-29,280000,L10 2JS,S,N,F,33,,Stoneyhurst Avenue,,Liverpool
+2024-11-29,245000,L10 0AG,S,N,F,78,,Field Lane,Fazakerley,Liverpool
+2024-11-28,249950,L10 3LE,S,N,F,66,,Keble Drive,Aintree,Liverpool
+2024-11-22,289950,L10 8JN,S,N,F,151,,Taunton Drive,,Liverpool
+2024-11-22,225000,L10 2JT,S,N,F,2,,Stoneyhurst Avenue,,Liverpool
+2024-11-21,115000,L10 7ND,T,N,F,7,,Hawksmoor Close,,Liverpool
+2024-11-15,137000,L10 4XR,T,N,L,192,,Elizabeth Road,Fazakerley,Liverpool
+2024-11-15,95000,L10 4XH,S,N,L,9,,Winifred Road,,Liverpool
+2024-11-08,230000,L10 3JZ,S,N,F,28,,Winchester Avenue,Aintree,Liverpool
+2024-11-01,150000,L10 9NE,T,N,F,21,,Swainson Road,,Liverpool
+2024-11-01,163500,L10 9NA,T,N,F,46,,Manica Crescent,,Liverpool
+2024-11-01,120000,L10 7NE,T,N,L,27,,Gribble Road,,Liverpool
+2024-11-01,165000,L10 4UQ,S,N,F,7,,Meadow Brook Close,,Liverpool
+2024-11-01,250000,L10 1NB,S,N,F,159,,Sherwoods Lane,,Liverpool
+2024-10-31,141000,L10 7NH,T,N,F,18,,Grieve Road,,Liverpool
+2024-10-30,160000,L10 1LS,T,N,F,113,,Haven Road,,Liverpool
+2024-10-28,212000,L10 2JQ,S,N,F,84,,Mostyn Avenue,Old Roan,Liverpool
+2024-10-25,120000,L10 9ND,T,N,F,18,,Montrovia Crescent,,Liverpool
+2024-10-25,228000,L10 8LL,S,N,F,23,,Monmouth Drive,,Liverpool
+2024-10-25,227000,L10 6LG,S,N,F,146,,Altway,,Liverpool
+2024-10-25,123000,L10 4XT,T,N,L,17,,Sheila Walk,,Liverpool
+2024-10-25,200000,L10 2JL,S,N,F,34,,Aintree Lane,,Liverpool
+2024-10-25,182000,L10 1LP,T,N,F,47,,Edgemoor Drive,Fazakerley,Liverpool
+2024-10-24,105000,L10 1LD,F,N,L,14,4,New Hall,,Liverpool
+2024-10-23,134999,L10 4XW,T,N,F,44,,Elizabeth Road,Fazakerley,Liverpool
+2024-10-18,80000,L10 1LD,F,N,L,12,3,New Hall,,Liverpool
+2024-10-14,130000,L10 4XP,S,N,F,58,,Elizabeth Road,Fazakerley,Liverpool
+2024-10-11,160000,L10 3LL,S,N,F,4,,Lincoln Drive,Aintree,Liverpool
+2024-10-11,200000,L10 0AN,S,N,F,11,,Edna Avenue,,Liverpool
+2024-10-07,240000,L10 2JZ,S,N,F,10,,Eton Drive,,Liverpool
+2024-10-04,200000,L10 0AG,S,N,F,18,,Field Lane,Fazakerley,Liverpool
+2024-09-30,300000,L10 8LS,S,N,F,1,,Beaumont Drive,,Liverpool
+2024-09-30,95000,L10 4YT,T,N,L,22,,Avis Walk,,Liverpool
+2024-09-27,157000,L10 9NA,T,N,F,62,,Manica Crescent,,Liverpool
+2024-09-27,147000,L10 4UU,S,N,L,5,,Pentire Close,,Liverpool
+2024-09-26,205000,L10 8LJ,S,N,F,3,,Downside Drive,,Liverpool
+2024-09-26,139995,L10 4XT,T,N,F,14,,Sheila Walk,,Liverpool
+2024-09-26,139995,L10 4XT,T,N,L,14,,Sheila Walk,,Liverpool
+2024-09-20,332000,L10 8JG,T,N,F,27,,Wango Lane,,Liverpool
+2024-09-20,242000,L10 6NE,S,N,F,16,,Wrekin Drive,,Liverpool
+2024-09-20,220000,L10 6LU,S,N,F,23,,Sandhurst Drive,,Liverpool
+2024-09-20,222500,L10 2JU,S,N,F,25,,Dartmouth Avenue,,Liverpool
+2024-09-18,110000,L10 4UT,T,N,L,30,,Longdown Road,,Liverpool
+2024-09-17,160000,L10 0AL,S,N,F,58,,Alscot Avenue,,Liverpool
+2024-09-16,100000,L10 4YF,T,N,F,24,,Amanda Road,,Liverpool
+2024-09-16,135000,L10 4YE,S,N,L,45,,Amanda Road,,Liverpool
+2024-09-06,212000,L10 6ND,S,N,F,20,,North Avenue,Aintree,Liverpool
+2024-09-06,173000,L10 4UG,S,N,F,15,,Beck Close,,Liverpool
+2024-09-04,204000,L10 2JN,S,N,F,74,,Aintree Lane,,Liverpool
+2024-09-02,237000,L10 8LR,S,N,F,25,,Oakham Drive,,Liverpool
+2024-08-30,335000,L10 8LX,D,N,F,2,,Cheltenham Close,,Liverpool
+2024-08-30,219000,L10 8LB,S,N,F,6,,Atholl Crescent,,Liverpool
+2024-08-29,115000,L10 4XR,T,N,L,146,,Elizabeth Road,Fazakerley,Liverpool
+2024-08-28,150000,L10 9LB,S,N,F,5,,Longmoor Close,,Liverpool
+2024-08-23,232000,L10 2JJ,S,N,F,77,,Aintree Lane,,Liverpool
+2024-08-22,140000,L10 4XP,S,N,F,98,,Elizabeth Road,Fazakerley,Liverpool
+2024-08-19,225000,L10 8LX,S,N,F,12,,Cheltenham Close,,Liverpool
+2024-08-19,225000,L10 0AL,T,N,F,42,,Alscot Avenue,,Liverpool
+2024-08-16,205000,L10 8LR,S,N,F,6,,Oakham Drive,,Liverpool
+2024-08-16,200000,L10 6LT,T,N,F,30,,Martland Avenue,Aintree,Liverpool
+2024-08-15,307500,L10 1NB,S,N,F,135,,Sherwoods Lane,,Liverpool
+2024-08-09,155000,L10 9LP,T,N,F,57,,Harrismith Road,,Liverpool
+2024-08-09,239995,L10 8JZ,S,N,F,26,,Charterhouse Drive,,Liverpool
+2024-08-09,122000,L10 7LY,T,N,F,11,,Hawksmoor Road,,Liverpool
+2024-08-08,182000,L10 4UE,S,N,F,4,,Greenbank Drive,Fazakerley,Liverpool
+2024-08-07,132500,L10 7NE,T,N,F,45,,Gribble Road,,Liverpool
+2024-08-07,75000,L10 4UT,T,N,L,68,,Longdown Road,,Liverpool
+2024-08-05,81000,L10 4YR,T,N,F,9,,Amy Walk,,Liverpool
+2024-08-02,138000,L10 9LE,T,N,F,20,,Greystone Road,Fazakerley,Liverpool
+2024-08-02,145000,L10 4YE,T,N,F,95,,Amanda Road,,Liverpool
+2024-07-31,240000,L10 8LB,S,N,F,22,,Atholl Crescent,,Liverpool
+2024-07-31,230000,L10 8LA,T,N,F,29,,Canterbury Close,Aintree,Liverpool
+2024-07-30,147000,L10 7LG,T,N,F,158,,Formosa Drive,,Liverpool
+2024-07-29,230000,L10 8JL,T,N,F,39,,Taunton Drive,,Liverpool
+2024-07-29,140000,L10 7LY,T,N,F,17,,Hawksmoor Road,,Liverpool
+2024-07-26,238500,L10 8LL,S,N,F,27,,Monmouth Drive,,Liverpool
+2024-07-26,270000,L10 2JZ,S,N,F,28,,Eton Drive,,Liverpool
+2024-07-26,70000,L10 0AS,F,N,L,38,,Moor Court,,Liverpool
+2024-07-25,39814,L10 9LD,T,N,F,45,,Greystone Road,Fazakerley,Liverpool
+2024-07-24,175000,L10 0AG,S,N,F,72,,Field Lane,Fazakerley,Liverpool
+2024-07-23,250000,L10 8JG,S,N,F,32,,Wango Lane,,Liverpool
+2024-07-23,190000,L10 3JR,S,N,F,66,,Oriel Drive,,Liverpool
+2024-07-22,180000,L10 3JR,S,N,F,64,,Oriel Drive,,Liverpool
+2024-07-22,205000,L10 3JR,S,N,F,52,,Oriel Drive,,Liverpool
+2024-07-19,123000,L10 3LG,S,N,F,71,,Radley Drive,Aintree,Liverpool
+2024-07-18,210000,L10 0AR,S,N,F,117,,Copplehouse Lane,,Liverpool
+2024-07-15,240000,L10 6NH,S,N,L,7,,Kempton Park Road,Aintree,Liverpool
+2024-07-08,140000,L10 7LB,T,N,F,65,,Formosa Drive,,Liverpool
+2024-07-05,155000,L10 9NF,T,N,F,54,,Swainson Road,,Liverpool
+2024-07-05,240000,L10 6LR,S,N,F,10,,Tonbridge Drive,Aintree,Liverpool
+2024-07-04,72500,L10 4YG,T,N,F,35,,Clare Walk,,Liverpool
+2024-07-01,229500,L10 3JZ,S,N,F,8,,Winchester Avenue,Aintree,Liverpool
+2024-06-28,267000,L10 9NG,D,N,F,23,,Blueberry Fields,,Liverpool
+2024-06-28,115500,L10 9NF,T,N,F,32,,Swainson Road,,Liverpool
+2024-06-21,95000,L10 4YP,T,N,F,24,,Beryl Walk,,Liverpool
+2024-06-21,240000,L10 3JD,S,N,F,11,,Altway,,Liverpool
+2024-06-17,110000,L10 1LG,S,N,L,47,,Adlam Road,,Liverpool
+2024-06-14,150000,L10 7LG,T,N,F,150,,Formosa Drive,,Liverpool
+2024-06-14,106000,L10 3LL,F,N,L,32,,Lincoln Drive,Aintree,Liverpool
+2024-06-14,262000,L10 1AB,S,N,F,158,,Sherwoods Lane,,Liverpool
+2024-06-13,245000,L10 3JQ,S,N,F,168,,Ormskirk Road,,Liverpool
+2024-06-07,220000,L10 6NA,S,N,F,3,,Stowe Avenue,,Liverpool
+2024-06-07,269000,L10 0AP,D,N,F,Brydor,,Moor Lane,Fazakerley,Liverpool
+2024-05-31,82000,L10 1LD,F,N,L,6,3,New Hall,,Liverpool
+2024-05-29,185000,L10 6NQ,S,N,L,17,,Sandown Park Road,Aintree,Liverpool
+2024-05-23,217000,L10 6LE,S,N,F,217,,Altway,,Liverpool
+2024-05-22,255000,L10 6LE,T,N,F,219,,Altway,,Liverpool
+2024-05-17,165000,L10 1NB,S,N,F,127,,Sherwoods Lane,,Liverpool
+2024-05-14,185000,L10 3LD,T,N,F,34,,Keble Drive,Aintree,Liverpool
+2024-05-10,215000,L10 2JS,T,N,F,3,,Stoneyhurst Avenue,,Liverpool
+2024-05-10,230000,L10 1NF,S,N,F,15,,Lytham Close,,Liverpool
+2024-05-03,155000,L10 6LW,T,N,F,160,,Oriel Drive,,Liverpool
+2024-05-02,262000,L10 2LQ,S,N,F,60,,Altway,,Liverpool
+2024-04-26,110000,L10 4YD,T,N,F,26,,Dawn Walk,,Liverpool
+2024-04-24,218500,L10 8LD,S,N,F,19,,Harrow Drive,,Liverpool
+2024-04-19,164950,L10 1NH,T,N,L,45,,Leagate,,Liverpool
+2024-04-15,200000,L10 6LR,S,N,F,7,,Tonbridge Drive,Aintree,Liverpool
+2024-04-12,125000,L10 9LD,T,N,F,53,,Greystone Road,Fazakerley,Liverpool
+2024-04-12,134000,L10 7LQ,S,N,F,198,,Formosa Drive,,Liverpool
+2024-04-12,110000,L10 4XT,T,N,L,1,,Sheila Walk,,Liverpool
+2024-04-11,170000,L10 4YE,S,N,L,61,,Amanda Road,,Liverpool
+2024-04-10,185000,L10 4UF,S,N,F,47,,Horseshoe Drive,,Liverpool
+2024-04-03,145000,L10 4YH,S,N,F,43,,Denise Road,,Liverpool
+2024-03-28,125500,L10 4UZ,S,N,L,11,,Wadebridge Road,,Liverpool
+2024-03-26,243000,L10 8JU,S,N,F,27,,Rugby Drive,,Liverpool
+2024-03-26,215000,L10 1NG,S,N,L,27,,Twigden Close,,Liverpool
+2024-03-19,140000,L10 7NL,T,N,F,22,,Formosa Way,,Liverpool
+2024-03-19,167500,L10 1NH,T,N,L,46,,Leagate,,Liverpool
+2024-03-15,208000,L10 2JG,S,N,F,22,,Mostyn Avenue,Old Roan,Liverpool
+2024-03-08,187950,L10 8LW,S,N,F,18,,Lancing Drive,,Liverpool
+2024-03-04,96500,L10 4XL,T,N,L,91,,Elizabeth Road,Fazakerley,Liverpool
+2024-02-29,100000,L10 9NE,S,N,F,69,,Swainson Road,,Liverpool
+2024-02-23,323000,L10 8LA,S,N,F,26,,Canterbury Close,Aintree,Liverpool
+2024-02-20,260000,L10 8LW,S,N,F,28,,Lancing Drive,,Liverpool
+2024-02-20,227000,L10 2LB,S,N,F,16,,Cranwell Close,,Liverpool
+2024-02-19,210000,L10 2LA,S,N,F,1,,Malvern Grove,,Liverpool
+2024-02-09,180000,L10 6NF,S,N,L,18,,Windsor Park Road,Aintree,Liverpool
+2024-02-09,210000,L10 6LY,S,N,F,5,,Bull Bridge Lane,,Liverpool
+2024-01-31,140000,L10 9NA,S,N,F,108,,Manica Crescent,,Liverpool
+2024-01-30,195000,L10 0AJ,T,N,F,39,,Ronaldsway,Fazakerley,Liverpool
+2024-01-29,150000,L10 9ND,S,N,F,56,,Montrovia Crescent,,Liverpool
+2024-01-26,233000,L10 3LA,S,N,F,31,,Keble Drive,Aintree,Liverpool
+2024-01-26,203000,L10 0AE,S,N,F,68,,Copplehouse Lane,,Liverpool
+2024-01-25,180000,L10 9LN,T,N,F,17,,Karonga Road,,Liverpool
+2024-01-12,122500,L10 7NR,T,N,F,17,,Kestrel Dene,,Liverpool
+2024-01-08,240000,L10 8JL,T,N,F,11,,Taunton Drive,,Liverpool
+2024-01-08,120000,L10 4UE,S,N,F,17,,Greenbank Drive,Fazakerley,Liverpool
+2023-12-22,108000,L10 1LD,F,N,L,12,4,New Hall,,Liverpool
+2023-12-20,278000,L10 2LA,S,N,F,11,,Malvern Grove,,Liverpool
+2023-12-19,247500,L10 8JR,S,N,F,7,,Felsted Drive,,Liverpool
+2023-12-19,220000,L10 8JH,S,N,F,18,,Valentine Grove,,Liverpool
+2023-12-15,177500,L10 8LB,S,N,F,32,,Atholl Crescent,,Liverpool
+2023-12-15,257000,L10 6LS,S,N,F,2,,Lowther Avenue,Aintree,Liverpool
+2023-12-15,235000,L10 2JL,S,N,F,32,,Aintree Lane,,Liverpool
+2023-12-15,177000,L10 1LQ,S,N,F,46,,Adlam Road,,Liverpool
+2023-12-08,125000,L10 9LL,T,N,F,32,,Karonga Way,,Liverpool
+2023-12-01,200000,L10 6NG,S,N,F,13,,Haydock Park Road,Aintree,Liverpool
+2023-12-01,115000,L10 6LL,S,N,F,305,,Oriel Drive,,Liverpool
+2023-11-30,385000,L10 8JR,D,N,F,20,,Felsted Drive,,Liverpool
+2023-11-30,270000,L10 8JN,S,N,F,111,,Taunton Drive,,Liverpool
+2023-11-30,215000,L10 3JL,S,N,F,40,,Oriel Drive,,Liverpool
+2023-11-24,320000,L10 3JD,S,N,F,31,,Altway,,Liverpool
+2023-11-24,255000,L10 2JU,S,N,F,12,,Dartmouth Avenue,,Liverpool
+2023-11-17,300000,L10 9NG,D,N,F,36,,Blueberry Fields,,Liverpool
+2023-11-17,140000,L10 4YE,S,N,L,55,,Amanda Road,,Liverpool
+2023-11-17,122000,L10 4XP,S,N,L,70,,Elizabeth Road,Fazakerley,Liverpool
+2023-11-17,279500,L10 2LD,S,N,F,55,,Shrewsbury Avenue,Old Roan,Liverpool
+2023-11-10,88000,L10 6LH,S,N,F,21,,Denstone Avenue,,Liverpool
+2023-11-09,225000,L10 8JF,S,N,F,18,,Greenside Avenue,Aintree,Liverpool
+2023-11-03,223950,L10 8JP,T,N,F,82,,Taunton Drive,,Liverpool
+2023-11-03,115000,L10 4XR,T,N,L,190,,Elizabeth Road,Fazakerley,Liverpool
+2023-10-31,245000,L10 3LH,S,N,F,74,,Radley Drive,Aintree,Liverpool
+2023-10-27,130000,L10 7LU,T,N,F,8,,Drake Place,,Liverpool
+2023-10-27,292000,L10 3LG,S,N,F,79,,Radley Drive,Aintree,Liverpool
+2023-10-27,172000,L10 1LS,T,N,F,75,,Haven Road,,Liverpool
+2023-10-27,120000,L10 1LD,F,N,L,14,1,New Hall,,Liverpool
+2023-10-20,230000,L10 8LR,S,N,F,22,,Oakham Drive,,Liverpool
+2023-10-20,330000,L10 8JL,T,N,F,3,,Taunton Drive,,Liverpool
+2023-10-20,170000,L10 4UZ,S,N,L,17,,Wadebridge Road,,Liverpool
+2023-10-20,185500,L10 4UH,T,N,F,3,,Brookbank Court,,Liverpool
+2023-10-11,229950,L10 8JQ,S,N,F,81,,Wango Lane,,Liverpool
+2023-10-06,105000,L10 7LF,F,N,F,62,,Formosa Drive,,Liverpool
+2023-10-06,195000,L10 3LL,S,N,F,20,,Lincoln Drive,Aintree,Liverpool
+2023-10-04,190000,L10 8JL,S,N,F,33,,Taunton Drive,,Liverpool
+2023-10-04,170000,L10 2JY,S,N,F,15,,Eton Drive,,Liverpool
+2023-09-29,155000,L10 9LP,T,N,F,3,,Harrismith Road,,Liverpool
+2023-09-29,280000,L10 6LF,S,N,F,120,,Altway,,Liverpool
+2023-09-29,198000,L10 1NH,D,N,L,14,,Leagate,,Liverpool
+2023-09-28,130000,L10 9LW,S,N,F,36,,Karonga Road,,Liverpool
+2023-09-27,245000,L10 8LU,S,N,F,14,,Exeter Close,,Liverpool
+2023-09-26,125000,L10 7NJ,T,N,F,5,,Drake Close,,Liverpool
+2023-09-22,125000,L10 7NG,S,N,F,29,,Ferrey Road,,Liverpool
+2023-09-08,220000,L10 8JT,S,N,F,14,,Uppingham Avenue,,Liverpool
+2023-09-08,290000,L10 6LE,S,N,F,215,,Altway,,Liverpool
+2023-09-08,145000,L10 4XP,S,N,L,52,,Elizabeth Road,Fazakerley,Liverpool
+2023-09-08,217000,L10 3JL,S,N,F,25,,Oriel Drive,,Liverpool
+2023-09-08,80000,L10 1LD,F,N,L,"New Hall, 10",3,Longmoor Lane,,Liverpool
+2023-09-01,210000,L10 8LN,S,N,F,17,,Lancing Drive,,Liverpool
+2023-08-29,249950,L10 8JZ,T,N,F,56,,Charterhouse Drive,,Liverpool
+2023-08-29,232500,L10 4UJ,F,N,F,8,,Alt Side Court,,Liverpool
+2023-08-25,200000,L10 1LN,S,N,F,17,,Sherwoods Lane,,Liverpool
+2023-08-25,75000,L10 0AS,F,N,L,30,,Moor Court,,Liverpool
+2023-08-25,229950,L10 0AN,S,N,F,17,,Edna Avenue,,Liverpool
+2023-08-23,158000,L10 4YS,T,N,L,13,,Alma Close,,Liverpool
+2023-08-18,295000,L10 1AA,D,N,L,4,,Redbank Close,,Liverpool
+2023-08-17,99000,L10 4YR,T,N,F,3,,Amy Walk,,Liverpool
+2023-08-17,185000,L10 3JS,T,N,F,120,,Oriel Drive,,Liverpool
+2023-08-11,240000,L10 2JR,S,N,F,8,,Ellesmere Drive,,Liverpool
+2023-08-04,265000,L10 9NG,D,N,F,66,,Blueberry Fields,,Liverpool
+2023-08-04,142000,L10 7NN,T,N,F,15,,Drake Road,,Liverpool
+2023-08-04,140000,L10 4UT,T,N,L,116,,Longdown Road,,Liverpool
+2023-08-04,196500,L10 4US,F,N,L,41,,Longdown Road,,Liverpool
+2023-08-04,100000,L10 1LS,T,N,F,113,,Haven Road,,Liverpool
+2023-08-02,90000,L10 9LJ,T,N,F,11,,Greystone Place,,Liverpool
+2023-07-28,175000,L10 4US,S,N,L,67,,Longdown Road,,Liverpool
+2023-07-14,99000,L10 4XY,T,N,L,41,,Pauline Walk,,Liverpool
+2023-07-14,135000,L10 4UT,S,N,L,58,,Longdown Road,,Liverpool
+2023-07-14,150000,L10 1LS,S,N,F,107,,Haven Road,,Liverpool
+2023-07-07,130000,L10 4XS,S,N,L,2,,Valerie Close,,Liverpool
+2023-06-30,265000,L10 8LS,S,N,F,26,,Beaumont Drive,,Liverpool
+2023-06-30,204000,L10 0AW,S,N,F,5,,Grace Avenue,,Liverpool
+2023-06-30,87550,L10 0AR,T,N,F,23B,,Copplehouse Lane,,Liverpool
+2023-06-29,183000,L10 6LY,S,N,F,29,,Bull Bridge Lane,,Liverpool
+2023-06-29,217000,L10 6LH,S,N,F,16,,Denstone Avenue,,Liverpool
+2023-06-28,200000,L10 3JL,S,N,F,14,,Oriel Drive,,Liverpool
+2023-06-23,279950,L10 8LA,S,N,F,1,,Canterbury Close,Aintree,Liverpool
+2023-06-23,255000,L10 8JR,S,N,F,14,,Felsted Drive,,Liverpool
+2023-06-23,205000,L10 6LG,S,N,F,172,,Altway,,Liverpool
+2023-06-23,98000,L10 4YG,T,N,F,19,,Clare Walk,,Liverpool
+2023-06-23,160000,L10 4XX,S,N,F,1,,Pamela Close,,Liverpool
+2023-06-23,130000,L10 4UT,S,N,L,18,,Longdown Road,,Liverpool
+2023-06-23,157500,L10 1LS,T,N,F,87,,Haven Road,,Liverpool
+2023-06-23,290000,L10 0AP,D,N,F,Abrigo,,Moor Lane,Fazakerley,Liverpool
+2023-06-16,235000,L10 8JW,S,N,F,24,,Taunton Drive,,Liverpool
+2023-06-16,232500,L10 8JN,S,N,F,89,,Taunton Drive,,Liverpool
+2023-06-09,94950,L10 4YB,T,N,F,3,,Jean Walk,,Liverpool
+2023-06-02,93000,L10 4YP,T,N,F,10,,Beryl Walk,,Liverpool
+2023-06-01,225000,L10 8JT,S,N,F,19,,Uppingham Avenue,,Liverpool
+2023-05-30,227000,L10 8JP,S,N,F,58,,Taunton Drive,,Liverpool
+2023-05-26,117500,L10 6LJ,F,N,L,189,,Oriel Close,Old Roan,Liverpool
+2023-05-26,195000,L10 3JX,S,N,F,6,,Rossall Avenue,Aintree,Liverpool
+2023-05-26,213350,L10 1NF,S,N,F,16,,Lytham Close,,Liverpool
+2023-05-24,120000,L10 7NH,T,N,F,25,,Grieve Road,,Liverpool
+2023-05-23,263000,L10 6LS,S,N,F,6,,Lowther Avenue,Aintree,Liverpool
+2023-05-17,240000,L10 8JS,S,N,F,4,,Brooms Grove,,Liverpool
+2023-05-17,127500,L10 7LQ,T,N,F,214,,Formosa Drive,,Liverpool
+2023-05-16,125000,L10 7LR,T,N,L,51,,Drake Crescent,,Liverpool
+2023-05-16,90000,L10 4YW,T,N,L,10,,Fiona Walk,,Liverpool
+2023-05-12,190000,L10 1LF,S,N,F,802,,Longmoor Lane,,Liverpool
+2023-05-09,115000,L10 7LG,S,N,F,152,,Formosa Drive,,Liverpool
+2023-05-09,110000,L10 4YW,S,N,L,9,,Fiona Walk,,Liverpool
+2023-05-05,102000,L10 4YT,T,N,L,31,,Avis Walk,,Liverpool
+2023-05-05,115000,L10 4YS,T,N,L,16,,Alma Close,,Liverpool
+2023-05-02,255000,L10 1NH,D,N,L,10,,Leagate,,Liverpool
+2023-04-28,243000,L10 8LU,S,N,F,9,,Exeter Close,,Liverpool
+2023-04-28,160000,L10 7NE,T,N,F,31,,Gribble Road,,Liverpool
+2023-04-28,179995,L10 6NQ,S,N,F,8,,Sandown Park Road,Aintree,Liverpool
+2023-04-28,195000,L10 6NQ,S,N,L,24,,Sandown Park Road,Aintree,Liverpool
+2023-04-28,90000,L10 3JF,F,N,L,139,,Altway,,Liverpool
+2023-04-27,152000,L10 4YE,S,N,L,43,,Amanda Road,,Liverpool
+2023-04-25,115000,L10 7LB,T,N,F,61,,Formosa Drive,,Liverpool
+2023-04-21,175000,L10 6NQ,S,N,F,1,,Sandown Park Road,Aintree,Liverpool
+2023-04-21,195000,L10 6NF,S,N,F,14,,Windsor Park Road,Aintree,Liverpool
+2023-04-21,230000,L10 6LL,S,N,L,281,,Oriel Drive,,Liverpool
+2023-04-11,136000,L10 7LA,T,N,L,20,,Dereham Crescent,,Liverpool
+2023-04-06,94000,L10 1LD,F,N,L,New Hall,"Apartment 5, 4",Longmoor Lane,,Liverpool
+2023-04-03,251000,L10 3JL,S,N,F,28,,Oriel Drive,,Liverpool
+2023-03-31,238500,L10 8LX,S,N,F,16,,Cheltenham Close,,Liverpool
+2023-03-31,130000,L10 7NH,F,N,L,38,,Grieve Road,,Liverpool
+2023-03-31,225000,L10 3LA,S,N,F,23,,Keble Drive,Aintree,Liverpool
+2023-03-30,100000,L10 9LN,T,N,F,17,,Karonga Road,,Liverpool
+2023-03-29,95000,L10 9LE,T,N,F,28,,Greystone Road,Fazakerley,Liverpool
+2023-03-28,110000,L10 4XT,T,N,L,11,,Sheila Walk,,Liverpool
+2023-03-17,189000,L10 3JL,S,N,F,20,,Oriel Drive,,Liverpool
+2023-03-16,150000,L10 4UH,S,N,F,4,,Brookbank Court,,Liverpool
+2023-03-10,200000,L10 6LF,S,N,F,114,,Altway,,Liverpool
+2023-03-10,225500,L10 2JG,S,N,F,48,,Mostyn Avenue,Old Roan,Liverpool
+2023-03-07,247500,L10 2LF,S,N,F,68,,Shrewsbury Avenue,Old Roan,Liverpool
+2023-03-07,120000,L10 1LG,S,N,F,67,,Adlam Road,,Liverpool
+2023-03-06,225000,L10 2JP,S,N,F,5,,Ellesmere Drive,,Liverpool
+2023-02-28,212000,L10 8JP,S,N,F,114,,Taunton Drive,,Liverpool
+2023-02-28,200000,L10 3LB,S,N,F,83,,Keble Drive,Aintree,Liverpool
+2023-02-24,230000,L10 6LE,T,N,F,221,,Altway,,Liverpool
+2023-02-24,135000,L10 4YE,S,N,L,9,,Amanda Road,,Liverpool
+2023-02-23,257000,L10 2JT,T,N,F,20,,Stoneyhurst Avenue,,Liverpool
+2023-02-17,86000,L10 1LD,F,N,L,"New Hall, 4","Apartment 6, 4",Longmoor Lane,,Liverpool
+2023-02-16,140000,L10 2LB,S,N,F,15,,Cranwell Close,,Liverpool
+2023-02-15,155000,L10 3JU,S,N,F,48,,Sedbergh Avenue,,Liverpool
+2023-01-31,120000,L10 7NL,T,N,F,16,,Formosa Way,,Liverpool
+2023-01-27,117000,L10 7NH,T,N,F,42,,Grieve Road,,Liverpool
+2023-01-27,210000,L10 6NB,F,N,F,5,,Mill Square,,Liverpool
+2023-01-27,245000,L10 2LQ,S,N,F,86,,Altway,,Liverpool
+2023-01-23,215000,L10 2JE,S,N,F,15,,Mostyn Avenue,Old Roan,Liverpool
+2023-01-20,237000,L10 8JQ,S,N,F,97,,Wango Lane,,Liverpool
+2023-01-20,225000,L10 8JP,S,N,F,86,,Taunton Drive,,Liverpool
+2023-01-20,240000,L10 6LX,T,N,F,6,,Sandhurst Drive,,Liverpool
+2023-01-20,228000,L10 2JW,S,N,F,96,,Aintree Lane,,Liverpool
+2023-01-17,218000,L10 3JN,S,N,F,59,,Oriel Drive,,Liverpool
+2023-01-13,130000,L10 4UP,S,N,L,6,,Carbis Close,,Liverpool
+2023-01-04,255000,L10 3JL,S,N,F,35,,Oriel Drive,,Liverpool
+2022-12-23,225000,L10 3JQ,S,N,F,174,,Ormskirk Road,,Liverpool
+2022-12-21,75000,L10 7NF,T,N,F,40,,Gribble Road,,Liverpool
+2022-12-21,156000,L10 3JS,T,N,F,102,,Oriel Drive,,Liverpool
+2022-12-19,278000,L10 8JB,T,N,F,20,,Sefton Drive,Aintree,Liverpool
+2022-12-19,145000,L10 7LS,T,N,F,30,,Drake Crescent,,Liverpool
+2022-12-16,132000,L10 9NF,S,N,F,26,,Swainson Road,,Liverpool
+2022-12-16,220000,L10 8LR,S,N,F,10,,Oakham Drive,,Liverpool
+2022-12-16,155000,L10 6NF,S,N,L,26,,Windsor Park Road,Aintree,Liverpool
+2022-12-16,142500,L10 4UQ,S,N,F,8,,Meadow Brook Close,,Liverpool
+2022-12-15,99000,L10 7NQ,T,N,L,4,,Ferrey Road,,Liverpool
+2022-12-15,265000,L10 2JS,S,N,F,23,,Stoneyhurst Avenue,,Liverpool
+2022-12-15,120000,L10 1LR,T,N,F,43,,Haven Road,,Liverpool
+2022-12-14,140000,L10 4UG,S,N,F,18,,Beck Close,,Liverpool
+2022-12-14,175000,L10 3JJ,S,N,F,24,,Bradfield Avenue,Aintree,Liverpool
+2022-12-09,112000,L10 9LN,T,N,F,63,,Karonga Road,,Liverpool
+2022-12-09,110000,L10 7NH,T,N,F,12,,Grieve Road,,Liverpool
+2022-12-09,200000,L10 4UF,S,N,F,49,,Horseshoe Drive,,Liverpool
+2022-12-01,235000,L10 9NG,D,N,F,52,,Blueberry Fields,,Liverpool
+2022-11-30,233000,L10 8LW,S,N,F,10,,Lancing Drive,,Liverpool
+2022-11-30,80000,L10 7LZ,T,N,F,56,,Hawksmoor Road,,Liverpool
+2022-11-30,255000,L10 2JL,S,N,F,10,,Aintree Lane,,Liverpool
+2022-11-30,208000,L10 2JJ,S,N,F,33,,Aintree Lane,,Liverpool
+2022-11-25,170000,L10 3JP,S,N,F,153,,Oriel Drive,,Liverpool
+2022-11-22,185000,L10 6NE,S,N,F,17,,Wrekin Drive,,Liverpool
+2022-11-22,100000,L10 4YF,T,N,L,28,,Amanda Road,,Liverpool
+2022-11-14,290000,L10 8LS,S,N,F,1,,Beaumont Drive,,Liverpool
+2022-11-11,155000,L10 4XW,D,N,L,4,,Elizabeth Road,Fazakerley,Liverpool
+2022-11-11,235000,L10 2JF,S,N,F,55,,Mostyn Avenue,Old Roan,Liverpool
+2022-11-04,105500,L10 7NE,T,N,F,11,,Gribble Road,,Liverpool
+2022-11-01,121000,L10 7LW,S,N,F,780,,Longmoor Lane,,Liverpool
+2022-11-01,125000,L10 4XL,T,N,L,85,,Elizabeth Road,Fazakerley,Liverpool
+2022-10-28,100000,L10 7LZ,S,N,L,48,,Hawksmoor Road,,Liverpool
+2022-10-28,240000,L10 6NF,S,N,F,10,,Windsor Park Road,Aintree,Liverpool
+2022-10-28,92000,L10 4XZ,T,N,F,9,,Maureen Walk,,Liverpool
+2022-10-27,247500,L10 8LF,S,N,F,113,,Aintree Lane,,Liverpool
+2022-10-24,105000,L10 7LR,T,N,L,69,,Drake Crescent,,Liverpool
+2022-10-21,151500,L10 6LH,S,N,F,19,,Denstone Avenue,,Liverpool
+2022-10-14,160000,L10 9LD,T,N,F,39,,Greystone Road,Fazakerley,Liverpool
+2022-10-14,246000,L10 6LR,T,N,F,18,,Tonbridge Drive,Aintree,Liverpool
+2022-10-11,140000,L10 7LT,S,N,L,94,,Drake Crescent,,Liverpool
+2022-10-10,287500,L10 8JR,S,N,F,10,,Felsted Drive,,Liverpool
+2022-10-10,136000,L10 4US,S,N,L,53,,Longdown Road,,Liverpool
+2022-10-07,220000,L10 0AT,T,N,F,9,,Whinmoor Road,Walton,Liverpool
+2022-10-07,250000,L10 0AN,S,N,F,2,,Edna Avenue,,Liverpool
+2022-09-30,115000,L10 7NU,T,N,L,76,,Falcon Hey,,Liverpool
+2022-09-28,130000,L10 4US,T,N,L,109,,Longdown Road,,Liverpool
+2022-09-23,125000,L10 4YE,T,N,F,101,,Amanda Road,,Liverpool
+2022-09-23,248000,L10 2JL,S,N,F,4,,Aintree Lane,,Liverpool
+2022-09-21,90000,L10 4XY,T,N,L,52,,Pauline Walk,,Liverpool
+2022-09-20,95000,L10 4XY,T,N,L,18,,Pauline Walk,,Liverpool
+2022-09-16,175000,L10 8JJ,S,N,F,11,,Valley Close,Aintree,Liverpool
+2022-09-16,95000,L10 4YN,T,N,L,18,,Katherine Walk,,Liverpool
+2022-09-14,212500,L10 3JD,S,N,F,19,,Altway,,Liverpool
+2022-09-14,120000,L10 0AT,S,N,F,10,,Whinmoor Road,Walton,Liverpool
+2022-09-14,80000,L10 0AS,F,N,L,4,,Moor Court,,Liverpool
+2022-09-12,132000,L10 4YS,T,N,L,2,,Alma Close,,Liverpool
+2022-09-09,200000,L10 3JS,S,N,F,116,,Oriel Drive,,Liverpool
+2022-09-09,200000,L10 1LN,S,N,F,53,,Sherwoods Lane,,Liverpool
+2022-09-05,118500,L10 4YW,T,N,L,16,,Fiona Walk,,Liverpool
+2022-09-02,243000,L10 6NH,T,N,F,48,,Kempton Park Road,Aintree,Liverpool
+2022-08-26,155200,L10 4UT,F,N,L,114,,Longdown Road,,Liverpool
+2022-08-26,215500,L10 3JT,S,N,F,15,,Sedbergh Avenue,,Liverpool
+2022-08-24,100000,L10 4YN,T,N,L,3,,Katherine Walk,,Liverpool
+2022-08-19,190000,L10 6NH,S,N,F,5,,Kempton Park Road,Aintree,Liverpool
+2022-08-12,190000,L10 8JH,S,N,F,4,,Valentine Grove,,Liverpool
+2022-08-11,101000,L10 1LQ,S,N,F,70,,Adlam Road,,Liverpool
+2022-08-11,111500,L10 1LJ,S,N,F,3,,Rycroft Road,,Liverpool
+2022-07-29,100000,L10 9LQ,S,N,F,4,,Moss Pits Lane,Fazakerley,Liverpool
+2022-07-27,69500,L10 7NF,F,N,F,44,,Gribble Road,,Liverpool
+2022-07-27,117000,L10 4XP,S,N,L,54,,Elizabeth Road,Fazakerley,Liverpool
+2022-07-22,120000,L10 9NE,T,N,F,29,,Swainson Road,,Liverpool
+2022-07-22,275000,L10 8JQ,S,N,F,89,,Wango Lane,,Liverpool
+2022-07-22,250000,L10 2JY,S,N,F,25,,Eton Drive,,Liverpool
+2022-07-22,132000,L10 1LR,T,N,L,23,,Haven Road,,Liverpool
+2022-07-18,124000,L10 4US,S,N,L,105,,Longdown Road,,Liverpool
+2022-07-14,245000,L10 8JL,S,N,F,15,,Taunton Drive,,Liverpool
+2022-07-08,160000,L10 3JP,T,N,F,131,,Oriel Drive,,Liverpool
+2022-07-07,155500,L10 9LU,S,N,F,59,,Ladysmith Road,,Liverpool
+2022-07-06,198000,L10 2LF,S,N,F,42,,Shrewsbury Avenue,Old Roan,Liverpool
+2022-06-30,305000,L10 8JY,S,N,F,19,,Charterhouse Drive,,Liverpool
+2022-06-30,122000,L10 4UU,S,N,L,1,,Pentire Close,,Liverpool
+2022-06-24,238500,L10 8LA,S,N,F,19,,Canterbury Close,Aintree,Liverpool
+2022-06-23,232500,L10 0AL,D,N,F,40,,Alscot Avenue,,Liverpool
+2022-06-17,130000,L10 0AL,S,N,F,82,,Alscot Avenue,,Liverpool
+2022-06-16,115000,L10 1LR,T,N,F,21,,Haven Road,,Liverpool
+2022-06-14,189950,L10 6NH,S,N,F,16,,Kempton Park Road,Aintree,Liverpool
+2022-06-13,118000,L10 9LP,F,N,F,17,,Harrismith Road,,Liverpool
+2022-06-13,181000,L10 1NG,S,N,L,2,,Twigden Close,,Liverpool
+2022-06-10,85000,L10 9NB,T,N,L,55,,Montrovia Crescent,,Liverpool
+2022-06-10,120500,L10 7NW,S,N,F,50,,Drake Road,,Liverpool
+2022-06-09,75000,L10 8JB,S,N,F,27,,Sefton Drive,Aintree,Liverpool
+2022-06-09,175000,L10 6LL,S,N,L,283,,Oriel Drive,,Liverpool
+2022-06-08,260000,L10 1AA,S,N,L,8,,Redbank Close,,Liverpool
+2022-06-08,325000,L10 1AA,D,N,F,33,,Redbank Close,,Liverpool
+2022-06-01,92000,L10 7NH,S,N,F,44,,Grieve Road,,Liverpool
+2022-06-01,222000,L10 6LR,S,N,F,12,,Tonbridge Drive,Aintree,Liverpool
+2022-06-01,150000,L10 4YH,S,N,L,26,,Denise Road,,Liverpool
+2022-06-01,120000,L10 1LN,S,N,F,3,,Sherwoods Lane,,Liverpool
+2022-05-27,220000,L10 8LJ,S,N,F,20,,Downside Drive,,Liverpool
+2022-05-27,140000,L10 7LH,T,N,F,25,,Elmham Crescent,,Liverpool
+2022-05-27,340000,L10 6LH,S,N,F,11,,Denstone Avenue,,Liverpool
+2022-05-27,80000,L10 4YG,S,N,F,10,,Clare Walk,,Liverpool
+2022-05-26,200000,L10 2LD,S,N,F,11,,Shrewsbury Avenue,Old Roan,Liverpool
+2022-05-25,218500,L10 8LJ,S,N,F,11,,Downside Drive,,Liverpool
+2022-05-20,118000,L10 3LL,F,N,L,38,,Lincoln Drive,Aintree,Liverpool
+2022-05-18,199950,L10 8LB,S,N,F,42,,Atholl Crescent,,Liverpool
+2022-05-12,89950,L10 1LD,F,N,L,"New Hall, 8",Apartment 5,Longmoor Lane,,Liverpool
+2022-05-10,255000,L10 8LL,S,N,F,14,,Monmouth Drive,,Liverpool
+2022-05-05,111250,L10 7NG,T,N,F,59,,Ferrey Road,,Liverpool
+2022-05-05,183000,L10 6LL,S,N,L,271,,Oriel Drive,,Liverpool
+2022-05-04,81000,L10 4YG,T,N,F,3,,Clare Walk,,Liverpool
+2022-05-04,176000,L10 3JU,S,N,F,18,,Sedbergh Avenue,,Liverpool
+2022-05-04,95000,L10 1LX,T,N,F,128,,Haven Road,,Liverpool
+2022-05-03,168000,L10 3LF,S,N,F,25,,Radley Drive,Aintree,Liverpool
+2022-05-03,165000,L10 2JG,S,N,F,38,,Mostyn Avenue,Old Roan,Liverpool
+2022-05-03,185000,L10 1LP,T,N,F,5,,Edgemoor Drive,Fazakerley,Liverpool
+2022-04-29,175000,L10 1NH,S,N,L,57,,Leagate,,Liverpool
+2022-04-25,115000,L10 9LQ,T,N,F,30,,Moss Pits Lane,Fazakerley,Liverpool
+2022-04-20,225000,L10 6LU,S,N,F,41,,Sandhurst Drive,,Liverpool
+2022-04-20,225000,L10 3LJ,S,N,F,45,,Lincoln Drive,Aintree,Liverpool
+2022-04-20,148000,L10 1NH,S,N,L,20,,Leagate,,Liverpool
+2022-04-19,175000,L10 3JH,S,N,F,9,,Bradfield Avenue,Aintree,Liverpool
+2022-04-08,180000,L10 2JZ,S,N,F,32,,Eton Drive,,Liverpool
+2022-04-05,175000,L10 3LG,S,N,F,65,,Radley Drive,Aintree,Liverpool
+2022-04-04,262000,L10 6LG,S,N,F,140,,Altway,,Liverpool
+2022-04-04,206000,L10 2JZ,S,N,F,34,,Eton Drive,,Liverpool
+2022-04-01,91000,L10 7LL,T,N,L,27,,Drake Way,,Liverpool
+2022-03-31,200500,L10 6LU,T,N,F,21,,Sandhurst Drive,,Liverpool
+2022-03-30,110000,L10 7LY,T,N,F,47,,Hawksmoor Road,,Liverpool
+2022-03-30,130000,L10 7LR,T,N,F,83,,Drake Crescent,,Liverpool
+2022-03-25,200000,L10 8JB,S,N,F,26,,Sefton Drive,Aintree,Liverpool
+2022-03-22,155500,L10 3LL,S,N,F,18,,Lincoln Drive,Aintree,Liverpool
+2022-03-21,271000,L10 9NG,S,N,F,69,,Blueberry Fields,,Liverpool
+2022-03-21,220000,L10 2LG,S,N,F,50,,Altway,,Liverpool
+2022-03-18,245000,L10 8LA,S,N,F,30,,Canterbury Close,Aintree,Liverpool
+2022-03-18,80000,L10 4YE,T,N,F,119,,Amanda Road,,Liverpool
+2022-03-18,115000,L10 4XJ,S,N,F,15,,Elizabeth Road,Fazakerley,Liverpool
+2022-03-14,102000,L10 4YG,T,N,F,16,,Clare Walk,,Liverpool
+2022-03-04,201000,L10 8LS,S,N,F,16,,Beaumont Drive,,Liverpool
+2022-03-04,210000,L10 3JH,S,N,F,35,,Bradfield Avenue,Aintree,Liverpool
+2022-03-02,103000,L10 9LY,T,N,F,36,,Manica Crescent,,Liverpool
+2022-03-02,98000,L10 4XZ,T,N,L,5,,Maureen Walk,,Liverpool
+2022-03-02,182500,L10 1NG,S,N,L,20,,Twigden Close,,Liverpool
+2022-02-25,100000,L10 9LQ,T,N,L,22,,Moss Pits Lane,Fazakerley,Liverpool
+2022-02-25,215000,L10 8LD,S,N,F,23,,Harrow Drive,,Liverpool
+2022-02-25,100000,L10 7NH,T,N,F,40,,Grieve Road,,Liverpool
+2022-02-23,133150,L10 6LZ,S,N,F,42,,Bull Bridge Lane,,Liverpool
+2022-02-23,200000,L10 2JY,S,N,F,29,,Eton Drive,,Liverpool
+2022-02-21,180000,L10 3LB,S,N,F,61,,Keble Drive,Aintree,Liverpool
+2022-02-21,250000,L10 3JZ,S,N,F,2,,Winchester Avenue,Aintree,Liverpool
+2022-02-17,139500,L10 7LQ,T,N,F,192,,Formosa Drive,,Liverpool
+2022-02-16,80000,L10 7LW,T,N,F,770,,Longmoor Lane,,Liverpool
+2022-02-16,150000,L10 1LP,T,N,F,47,,Edgemoor Drive,Fazakerley,Liverpool
+2022-02-11,215000,L10 8JU,S,N,F,36,,Rugby Drive,,Liverpool
+2022-02-11,115000,L10 7NA,S,N,F,112,,Hawksmoor Road,,Liverpool
+2022-02-11,72000,L10 0AR,T,N,F,75,,Copplehouse Lane,,Liverpool
+2022-02-08,95000,L10 7LP,T,N,L,11,,Drake Crescent,,Liverpool
+2022-02-08,92000,L10 4XY,T,N,F,20,,Pauline Walk,,Liverpool
+2022-02-07,112000,L10 6LJ,F,N,L,199,,Oriel Close,Old Roan,Liverpool
+2022-02-07,190000,L10 6LJ,T,N,F,161,,Oriel Close,Old Roan,Liverpool
+2022-02-04,133000,L10 6LA,F,N,L,175B,,Altway,,Liverpool
+2022-02-03,220000,L10 8JP,S,N,F,94,,Taunton Drive,,Liverpool
+2022-02-03,265000,L10 2JS,S,N,F,19,,Stoneyhurst Avenue,,Liverpool
+2022-01-28,90000,L10 7LJ,F,N,F,10,,Mond Road,,Liverpool
+2022-01-28,102500,L10 0AT,T,N,F,9,,Whinmoor Road,Walton,Liverpool
+2022-01-27,210000,L10 6LZ,S,N,F,38,,Bull Bridge Lane,,Liverpool
+2022-01-21,180000,L10 1NF,S,N,F,24,,Lytham Close,,Liverpool
+2022-01-17,168000,L10 3JN,S,N,F,105,,Oriel Drive,,Liverpool
+2022-01-14,233000,L10 6LF,S,N,F,122,,Altway,,Liverpool
+2022-01-07,320000,L10 8JR,S,N,F,1,,Felsted Drive,,Liverpool
+2022-01-05,122000,L10 4XH,S,N,F,4,,Winifred Road,,Liverpool
+2021-12-17,150000,L10 6NH,S,N,F,12,,Kempton Park Road,Aintree,Liverpool
+2021-12-17,150000,L10 4UR,S,N,L,7,,Fistral Close,,Liverpool
+2021-12-17,222000,L10 2LB,S,N,F,10,,Cranwell Close,,Liverpool
+2021-12-17,122500,L10 1NB,S,N,F,95,,Sherwoods Lane,,Liverpool
+2021-12-16,249999,L10 6LG,D,N,F,136,,Altway,,Liverpool
+2021-12-16,92500,L10 3JF,T,N,L,121,,Altway,,Liverpool
+2021-12-15,150000,L10 4UN,S,N,L,1,,Carland Close,,Liverpool
+2021-12-15,188450,L10 3JL,S,N,F,21,,Oriel Drive,,Liverpool
+2021-12-13,185000,L10 1LF,T,N,F,822,,Longmoor Lane,,Liverpool
+2021-12-10,127000,L10 9LS,S,N,F,15,,Delagoa Road,,Liverpool
+2021-12-10,110000,L10 6LJ,F,N,L,195,,Oriel Close,Old Roan,Liverpool
+2021-12-10,112000,L10 6LJ,F,N,L,177,,Oriel Close,Old Roan,Liverpool
+2021-12-10,100000,L10 4XJ,S,N,L,45,,Elizabeth Road,Fazakerley,Liverpool
+2021-12-09,135000,L10 4XJ,S,N,L,5,,Elizabeth Road,Fazakerley,Liverpool
+2021-12-07,80000,L10 7NH,T,N,L,45,,Grieve Road,,Liverpool
+2021-12-03,115000,L10 4YE,S,N,L,25,,Amanda Road,,Liverpool
+2021-11-26,90000,L10 7LT,T,N,F,62,,Drake Crescent,,Liverpool
+2021-11-24,200000,L10 8LS,S,N,F,2,,Beaumont Drive,,Liverpool
+2021-11-23,95000,L10 9LR,T,N,F,22,,Harrismith Road,,Liverpool
+2021-11-22,202500,L10 2LG,S,N,F,4,,Altway,,Liverpool
+2021-11-19,302500,L10 8LR,S,N,F,24,,Oakham Drive,,Liverpool
+2021-11-19,224000,L10 3JJ,S,N,F,36,,Bradfield Avenue,Aintree,Liverpool
+2021-11-19,150000,L10 1LF,S,N,F,816,,Longmoor Lane,,Liverpool
+2021-11-15,208000,L10 3LE,S,N,F,68,,Keble Drive,Aintree,Liverpool
+2021-11-12,161000,L10 6LT,T,N,F,8,,Martland Avenue,Aintree,Liverpool
+2021-11-12,190000,L10 3LD,S,N,F,8,,Keble Drive,Aintree,Liverpool
+2021-11-05,315000,L10 8LH,S,N,F,18,,School Lane,Aintree,Liverpool
+2021-11-05,185000,L10 6LT,S,N,F,3,,Martland Avenue,Aintree,Liverpool
+2021-11-05,240000,L10 3LH,S,N,F,66,,Radley Drive,Aintree,Liverpool
+2021-11-03,260000,L10 8LA,T,N,F,22,,Canterbury Close,Aintree,Liverpool
+2021-11-01,42075,L10 9ND,T,N,F,6,,Montrovia Crescent,,Liverpool
+2021-11-01,139000,L10 9LP,S,N,F,45,,Harrismith Road,,Liverpool
+2021-10-29,95000,L10 4YH,S,N,L,3,,Denise Road,,Liverpool
+2021-10-26,105000,L10 9NB,T,N,L,27,,Montrovia Crescent,,Liverpool
+2021-10-22,230000,L10 8LR,S,N,F,21,,Oakham Drive,,Liverpool
+2021-10-22,97000,L10 4YF,T,N,F,12,,Amanda Road,,Liverpool
+2021-10-22,200000,L10 0AH,S,N,F,8,,Barbara Avenue,,Liverpool
+2021-10-21,156000,L10 9ND,S,N,L,26,,Montrovia Crescent,,Liverpool
+2021-10-21,210000,L10 8JA,S,N,F,19,,School Lane,Aintree,Liverpool
+2021-10-18,80000,L10 9ND,S,N,L,40,,Montrovia Crescent,,Liverpool
+2021-10-15,190000,L10 0AN,S,N,F,22,,Edna Avenue,,Liverpool
+2021-10-04,264000,L10 6LG,D,N,F,130,,Altway,,Liverpool
+2021-09-30,225000,L10 8LR,S,N,F,3,,Oakham Drive,,Liverpool
+2021-09-30,195000,L10 8JF,S,N,F,18,,Greenside Avenue,Aintree,Liverpool
+2021-09-30,175000,L10 6NH,S,N,L,14,,Kempton Park Road,Aintree,Liverpool
+2021-09-30,245000,L10 6NG,D,N,F,29,,Haydock Park Road,Aintree,Liverpool
+2021-09-30,191000,L10 6LL,S,N,L,281,,Oriel Drive,,Liverpool
+2021-09-30,181155,L10 4UZ,S,N,L,6,,Wadebridge Road,,Liverpool
+2021-09-30,175000,L10 1NF,S,N,F,32,,Lytham Close,,Liverpool
+2021-09-29,110000,L10 9NF,T,N,F,4,,Swainson Road,,Liverpool
+2021-09-29,85000,L10 4YG,T,N,F,40,,Clare Walk,,Liverpool
+2021-09-27,108000,L10 9LX,S,N,F,8,,Ladysmith Road,,Liverpool
+2021-09-27,177500,L10 2JF,S,N,F,71,,Mostyn Avenue,Old Roan,Liverpool
+2021-09-24,177000,L10 2JQ,S,N,F,78,,Mostyn Avenue,Old Roan,Liverpool
+2021-09-24,95000,L10 0AF,T,N,F,34,,Copplehouse Lane,,Liverpool
+2021-09-23,214000,L10 3JH,S,N,F,39,,Bradfield Avenue,Aintree,Liverpool
+2021-09-17,88000,L10 9LY,T,N,L,24,,Manica Crescent,,Liverpool
+2021-09-17,207000,L10 6NF,S,N,F,10,,Windsor Park Road,Aintree,Liverpool
+2021-09-16,106000,L10 9LE,T,N,F,20,,Greystone Road,Fazakerley,Liverpool
+2021-09-16,168000,L10 6NH,S,N,F,6,,Kempton Park Road,Aintree,Liverpool
+2021-09-15,140000,L10 4UF,S,N,F,60,,Horseshoe Drive,,Liverpool
+2021-09-13,119000,L10 0AW,T,N,F,23,,Grace Avenue,,Liverpool
+2021-09-10,77000,L10 9LR,T,N,F,48,,Harrismith Road,,Liverpool
+2021-09-07,82500,L10 4YJ,T,N,L,55,,Denise Road,,Liverpool
+2021-09-06,255500,L10 8JT,S,N,F,23,,Uppingham Avenue,,Liverpool
+2021-09-01,180000,L10 3JR,S,N,F,70,,Oriel Drive,,Liverpool
+2021-08-31,375000,L10 8LF,S,N,F,99,,Aintree Lane,,Liverpool
+2021-08-31,230000,L10 8LF,S,N,F,111,,Aintree Lane,,Liverpool
+2021-08-31,230000,L10 8JZ,S,N,F,62,,Charterhouse Drive,,Liverpool
+2021-08-27,500000,L10 8LY,D,N,F,11,,Davenhill Park,,Liverpool
+2021-08-27,249995,L10 8JU,S,N,F,2,,Rugby Drive,,Liverpool
+2021-08-27,205000,L10 8JE,S,N,F,3,,Greenside Avenue,Aintree,Liverpool
+2021-08-27,157000,L10 4XQ,D,N,L,91,,Field Lane,Fazakerley,Liverpool
+2021-08-27,145000,L10 4UZ,S,N,L,25,,Wadebridge Road,,Liverpool
+2021-08-27,130000,L10 0AR,T,N,F,9,,Copplehouse Lane,,Liverpool
+2021-08-25,180000,L10 6LP,T,N,F,20,,Haileybury Avenue,,Liverpool
+2021-08-25,56000,L10 4YN,T,N,L,8,,Katherine Walk,,Liverpool
+2021-08-24,190000,L10 1NG,S,N,L,10,,Twigden Close,,Liverpool
+2021-08-23,125000,L10 4XJ,T,N,L,9,,Elizabeth Road,Fazakerley,Liverpool
+2021-08-13,220500,L10 8JA,S,N,F,7,,School Lane,Aintree,Liverpool
+2021-08-13,190500,L10 2JG,S,N,F,30,,Mostyn Avenue,Old Roan,Liverpool
+2021-08-13,130000,L10 1NH,T,N,L,45,,Leagate,,Liverpool
+2021-08-06,142000,L10 4US,T,N,L,93,,Longdown Road,,Liverpool
+2021-07-30,90000,L10 4YG,T,N,F,28,,Clare Walk,,Liverpool
+2021-07-30,145000,L10 4UZ,S,N,L,17,,Wadebridge Road,,Liverpool
+2021-07-30,220000,L10 2JP,T,N,F,11,,Ellesmere Drive,,Liverpool
+2021-07-30,219000,L10 2JJ,S,N,F,43,,Aintree Lane,,Liverpool
+2021-07-26,115000,L10 1LU,T,N,F,94,,Haven Road,,Liverpool
+2021-07-23,97000,L10 9LS,S,N,F,31,,Delagoa Road,,Liverpool
+2021-07-23,180000,L10 3JY,S,N,F,1,,Winchester Avenue,Aintree,Liverpool
+2021-07-19,80000,L10 4XY,T,N,L,21,,Pauline Walk,,Liverpool
+2021-07-19,240000,L10 1NF,D,N,F,12,,Lytham Close,,Liverpool
+2021-07-16,87000,L10 4YE,T,N,F,115,,Amanda Road,,Liverpool
+2021-07-16,210000,L10 4XQ,D,N,F,161,,Field Lane,Fazakerley,Liverpool
+2021-07-13,88000,L10 9NF,T,N,F,34,,Swainson Road,,Liverpool
+2021-07-13,76000,L10 7NA,T,N,F,88,,Hawksmoor Road,,Liverpool
+2021-07-01,91000,L10 4YR,T,N,F,7,,Amy Walk,,Liverpool
+2021-06-30,180000,L10 6LJ,S,N,F,203,,Oriel Close,Old Roan,Liverpool
+2021-06-30,129950,L10 4UX,S,N,L,4,,Rame Close,,Liverpool
+2021-06-30,325000,L10 0AP,D,N,F,Burnside,,Moor Lane,Fazakerley,Liverpool
+2021-06-21,25000,L10 7LF,T,N,F,112,,Formosa Drive,,Liverpool
+2021-06-21,245000,L10 2LG,T,N,F,44,,Altway,,Liverpool
+2021-06-18,400000,L10 8LF,D,N,F,93,,Aintree Lane,,Liverpool
+2021-06-18,263500,L10 8JU,T,N,F,25,,Rugby Drive,,Liverpool
+2021-06-18,270000,L10 8JN,S,N,F,77,,Taunton Drive,,Liverpool
+2021-06-18,189000,L10 1LP,T,N,F,11,,Edgemoor Drive,Fazakerley,Liverpool
+2021-06-11,100000,L10 7NE,T,N,F,25,,Gribble Road,,Liverpool
+2021-06-02,212500,L10 2LB,S,N,F,4,,Cranwell Close,,Liverpool
+2021-06-01,190000,L10 2JF,S,N,F,43,,Mostyn Avenue,Old Roan,Liverpool
+2021-05-28,298000,L10 8JP,S,N,F,64,,Taunton Drive,,Liverpool
+2021-05-28,77000,L10 7NE,S,N,L,21,,Gribble Road,,Liverpool
+2021-05-28,185500,L10 6LJ,S,N,F,191,,Oriel Close,Old Roan,Liverpool
+2021-05-28,115000,L10 4YS,S,N,L,29,,Alma Close,,Liverpool
+2021-05-28,203000,L10 3LG,S,N,F,57,,Radley Drive,Aintree,Liverpool
+2021-05-28,194000,L10 2JP,S,N,F,25,,Ellesmere Drive,,Liverpool
+2021-05-26,114000,L10 4YS,S,N,L,31,,Alma Close,,Liverpool
+2021-05-24,148000,L10 6LN,T,N,F,134,,Oriel Drive,,Liverpool
+2021-05-24,116000,L10 4XS,S,N,F,4,,Valerie Close,,Liverpool
+2021-05-19,300000,L10 8JU,S,N,F,35,,Rugby Drive,,Liverpool
+2021-05-19,255000,L10 8JP,S,N,F,62,,Taunton Drive,,Liverpool
+2021-05-14,173750,L10 6NE,S,N,F,19,,Wrekin Drive,,Liverpool
+2021-05-14,77500,L10 4XY,T,N,L,12,,Pauline Walk,,Liverpool
+2021-05-13,188000,L10 8LS,S,N,F,53,,Beaumont Drive,,Liverpool
+2021-05-12,600000,L10 8LE,D,N,F,130,,Aintree Lane,,Liverpool
+2021-05-07,136000,L10 4US,T,N,L,47,,Longdown Road,,Liverpool
+2021-04-30,258000,L10 8JL,T,N,F,65,,Taunton Drive,,Liverpool
+2021-04-30,112000,L10 4US,S,N,L,25,,Longdown Road,,Liverpool
+2021-04-30,120000,L10 4UE,S,N,F,25,,Greenbank Drive,Fazakerley,Liverpool
+2021-04-26,166000,L10 6NQ,S,N,L,13,,Sandown Park Road,Aintree,Liverpool
+2021-04-23,165000,L10 6LL,S,N,L,255,,Oriel Drive,,Liverpool
+2021-04-23,196000,L10 6LH,S,N,F,20,,Denstone Avenue,,Liverpool
+2021-04-23,92500,L10 4YR,T,N,F,31,,Amy Walk,,Liverpool
+2021-04-23,100000,L10 4UE,T,N,F,28,,Greenbank Drive,Fazakerley,Liverpool
+2021-04-23,166000,L10 3LJ,S,N,F,43,,Lincoln Drive,Aintree,Liverpool
+2021-04-22,165000,L10 8JR,S,N,F,17,,Felsted Drive,,Liverpool
+2021-04-14,241000,L10 8JR,S,N,F,12,,Felsted Drive,,Liverpool
+2021-04-13,87000,L10 4YR,T,N,F,27,,Amy Walk,,Liverpool
+2021-04-07,189555,L10 8JQ,D,N,F,57,,Wango Lane,,Liverpool
+2021-04-06,129000,L10 4UT,S,N,L,6,,Longdown Road,,Liverpool
+2021-04-01,95000,L10 9LD,T,N,F,23,,Greystone Road,Fazakerley,Liverpool
+2021-03-31,220000,L10 6NE,S,N,F,27,,Wrekin Drive,,Liverpool
+2021-03-31,163000,L10 6LT,T,N,F,20,,Martland Avenue,Aintree,Liverpool
+2021-03-31,109995,L10 4US,S,N,L,31,,Longdown Road,,Liverpool
+2021-03-30,205000,L10 3JL,S,N,F,34,,Oriel Drive,,Liverpool
+2021-03-29,215000,L10 3LB,S,N,F,75,,Keble Drive,Aintree,Liverpool
+2021-03-29,172000,L10 2JG,S,N,F,14,,Mostyn Avenue,Old Roan,Liverpool
+2021-03-26,275000,L10 2LA,S,N,F,11,,Malvern Grove,,Liverpool
+2021-03-19,235000,L10 9NG,D,N,F,56,,Blueberry Fields,,Liverpool
+2021-03-19,223000,L10 8LL,S,N,F,32,,Monmouth Drive,,Liverpool
+2021-03-19,259950,L10 8JQ,S,N,F,85,,Wango Lane,,Liverpool
+2021-03-19,92500,L10 4XG,T,N,F,25,,Field Lane,Fazakerley,Liverpool
+2021-03-19,195000,L10 2LQ,S,N,F,90,,Altway,,Liverpool
+2021-03-18,230000,L10 6ND,S,N,F,8,,North Avenue,Aintree,Liverpool
+2021-03-17,82000,L10 4YL,T,N,L,11,,Joyce Walk,,Liverpool
+2021-03-15,89999,L10 7NP,T,N,F,3,,Eagle Dene,,Liverpool
+2021-03-12,44500,L10 9NE,T,N,F,33,,Swainson Road,,Liverpool
+2021-03-12,172500,L10 2JE,S,N,F,23,,Mostyn Avenue,Old Roan,Liverpool
+2021-03-08,95000,L10 4XN,T,N,L,155,,Elizabeth Road,Fazakerley,Liverpool
+2021-03-05,86000,L10 9NE,T,N,F,79,,Swainson Road,,Liverpool
+2021-03-05,92500,L10 7LP,T,N,L,23,,Drake Crescent,,Liverpool
+2021-03-05,154950,L10 3JY,S,N,F,31,,Winchester Avenue,Aintree,Liverpool
+2021-03-05,115000,L10 1LP,T,N,F,37,,Edgemoor Drive,Fazakerley,Liverpool
+2021-03-04,98000,L10 7LH,F,N,F,10,,Elmham Crescent,,Liverpool
+2021-03-04,110000,L10 1LQ,T,N,L,26,,Adlam Road,,Liverpool
+2021-03-03,264950,L10 8JE,S,N,F,27,,Greenside Avenue,Aintree,Liverpool
+2021-03-03,220000,L10 4XA,D,N,F,5,,Cheshire Avenue,,Liverpool
+2021-03-01,135000,L10 7LW,S,N,F,764,,Longmoor Lane,,Liverpool
+2021-03-01,228000,L10 1AA,D,N,L,64,,Redbank Close,,Liverpool
+2021-02-23,190000,L10 2LE,S,N,F,2,,Shrewsbury Avenue,Old Roan,Liverpool
+2021-02-19,180000,L10 8LF,S,N,F,133,,Aintree Lane,,Liverpool
+2021-02-15,150000,L10 8LF,S,N,F,141,,Aintree Lane,,Liverpool
+2021-02-09,140000,L10 1LA,S,N,L,379,,Longmoor Lane,,Liverpool
+2021-02-08,65000,L10 1LR,T,N,F,57,,Haven Road,,Liverpool
+2021-02-05,213500,L10 8JS,S,N,F,6,,Brooms Grove,,Liverpool
+2021-02-05,200000,L10 8JF,S,N,F,32,,Greenside Avenue,Aintree,Liverpool
+2021-02-02,164950,L10 2JF,S,N,F,47,,Mostyn Avenue,Old Roan,Liverpool
+2021-01-29,177000,L10 8JY,S,N,F,15,,Charterhouse Drive,,Liverpool
+2021-01-29,152000,L10 6LW,T,N,F,158,,Oriel Drive,,Liverpool
+2021-01-29,164000,L10 3JH,S,N,F,43,,Bradfield Avenue,Aintree,Liverpool
+2021-01-28,195000,L10 6LZ,S,N,F,44,,Bull Bridge Lane,,Liverpool
+2021-01-27,165000,L10 0AL,S,N,F,34,,Alscot Avenue,,Liverpool
+2021-01-25,130000,L10 4UY,S,N,L,10,,Travanson Close,,Liverpool
+2021-01-25,128500,L10 1LN,T,N,F,65,,Sherwoods Lane,,Liverpool
+2021-01-22,180550,L10 6LP,S,N,F,12,,Haileybury Avenue,,Liverpool
+2021-01-22,94000,L10 4XS,S,N,L,8,,Valerie Close,,Liverpool
+2021-01-22,178000,L10 3LQ,S,N,F,26,,Radley Drive,Aintree,Liverpool
+2021-01-21,189995,L10 8JU,S,N,F,23,,Rugby Drive,,Liverpool
+2021-01-21,135000,L10 4UT,S,N,L,42,,Longdown Road,,Liverpool
+2021-01-15,86000,L10 7NH,T,N,L,32,,Grieve Road,,Liverpool
+2021-01-15,182000,L10 3JZ,S,N,F,14,,Winchester Avenue,Aintree,Liverpool
+2021-01-15,270000,L10 1AA,D,N,L,9,,Redbank Close,,Liverpool
+2021-01-08,240000,L10 8LS,S,N,F,9,,Beaumont Drive,,Liverpool
+2021-01-08,145000,L10 4UT,S,N,L,56,,Longdown Road,,Liverpool
+2021-01-08,169000,L10 3LB,S,N,F,83,,Keble Drive,Aintree,Liverpool
+2021-01-06,259000,L10 8LL,S,N,F,34,,Monmouth Drive,,Liverpool

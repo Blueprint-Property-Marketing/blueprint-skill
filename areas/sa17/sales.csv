@@ -1,0 +1,926 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-05,160000,SA17 4JA,T,N,F,24,,Dan Y Cwarre,Carway,Kidwelly
+2026-08-04,160000,SA17 4TR,T,N,F,13,,Priory Street,,Kidwelly
+2026-07-10,435000,SA17 5AX,D,N,F,5,,Castle Street,,Kidwelly
+2026-07-09,265000,SA17 5YP,D,N,F,"Ty Canol, 27",,Heol Llansaint,,Ferryside
+2026-06-30,228000,SA17 4JG,D,N,F,19,,Heol Y Plas,Carway,Kidwelly
+2026-06-30,165000,SA17 4AB,S,N,F,9,,Garden Suburbs,Trimsaran,Kidwelly
+2026-06-26,175000,SA17 4JJ,S,N,F,33,,Ffordd Y Glowyr,Carway,Kidwelly
+2026-06-22,174995,SA17 4JA,T,N,F,12,,Dan Y Cwarre,Carway,Kidwelly
+2026-06-16,123600,SA17 5BZ,T,N,F,114,,Water Street,,Kidwelly
+2026-06-15,232000,SA17 5EQ,S,N,F,68,,Ferry Road,,Kidwelly
+2026-06-12,199950,SA17 5TG,S,N,F,2,,Glan Tywi,,Ferryside
+2026-06-12,290000,SA17 5SS,S,N,F,Ivy Cottage,,,,Ferryside
+2026-06-10,320000,SA17 4TW,D,N,L,33,,Monksford Street,,Kidwelly
+2026-06-05,375000,SA17 5TH,D,N,F,Nythfa,,,,Ferryside
+2026-05-29,165000,SA17 4HZ,S,N,F,4,,Ty Canol,Carway,Kidwelly
+2026-05-27,265000,SA17 5TQ,S,N,F,57,,Parc Y Ffynnon,,Ferryside
+2026-05-21,340000,SA17 5BY,D,N,F,Bryn Meusydd,,,Crwbin,Kidwelly
+2026-05-20,118000,SA17 5BL,S,N,F,7,,Maes Y Berllan,Llangyndeyrn,Kidwelly
+2026-05-14,175000,SA17 4UN,S,N,F,94,,Hillfield Villas,,Kidwelly
+2026-05-13,395000,SA17 4SA,S,N,F,Glyncoed,2,,Four Roads,Kidwelly
+2026-05-01,155000,SA17 5BT,D,N,F,Coity,,,Llangyndeyrn,Kidwelly
+2026-04-30,300000,SA17 4TY,S,N,F,43,,Priory Street,,Kidwelly
+2026-04-28,103000,SA17 4PF,S,N,F,8,,Newtown,Mynyddygarreg,Kidwelly
+2026-04-23,89000,SA17 5JT,T,N,F,40,,Llys Gwenllian,,Kidwelly
+2026-04-21,172000,SA17 5TH,D,N,F,The Glen,,,,Ferryside
+2026-04-13,240000,SA17 5BJ,T,N,F,22,,Ferry Road,,Kidwelly
+2026-04-02,105000,SA17 4HR,T,N,F,24,,Bryn Seilo,Carway,Kidwelly
+2026-04-02,163000,SA17 4DF,T,N,F,19,,Heol Morlais,Trimsaran,Kidwelly
+2026-04-01,435000,SA17 4RA,D,N,F,Ty Gwyn,,Meinciau Road,Mynyddygarreg,Kidwelly
+2026-04-01,399995,SA17 4RA,D,N,F,Llys Y Don,,Meinciau Road,Mynyddygarreg,Kidwelly
+2026-03-30,145000,SA17 4AP,S,N,F,91,,Trilwm,Trimsaran,Kidwelly
+2026-03-27,134000,SA17 4TD,T,N,F,28,,Parc Pendre,,Kidwelly
+2026-03-27,250000,SA17 4HE,D,N,F,Ton Teg,,,Carway,Kidwelly
+2026-03-27,275000,SA17 4GB,D,N,F,21,,Rhodfar Ceffyl,Carway,Kidwelly
+2026-03-23,154000,SA17 4UD,T,N,F,10,,Lady Street,,Kidwelly
+2026-03-20,100000,SA17 4DG,T,N,F,10,,Heol Morlais,Trimsaran,Kidwelly
+2026-03-19,155000,SA17 4JG,S,N,F,38,,Heol Y Plas,Carway,Kidwelly
+2026-03-19,205000,SA17 4HY,D,N,F,5,,Heol Waungron,Carway,Kidwelly
+2026-03-12,225000,SA17 4JJ,D,N,F,12,,Ffordd Y Glowyr,Carway,Kidwelly
+2026-03-10,170000,SA17 4HY,S,N,F,4,,Heol Waungron,Carway,Kidwelly
+2026-03-04,220000,SA17 4BB,S,N,F,28,,Ffordd Y Felen,Carway,Kidwelly
+2026-02-25,128500,SA17 4AP,S,N,F,45,,Trilwm,Trimsaran,Kidwelly
+2026-02-23,165000,SA17 5BX,T,N,F,21,,Water Street,,Kidwelly
+2026-02-23,217500,SA17 4AX,D,N,F,18,,Ffordd Maes Gwilym,Carway,Kidwelly
+2026-02-20,163000,SA17 4UX,T,N,F,17,,Llys Y Foryd,,Kidwelly
+2026-02-12,240000,SA17 5TE,D,N,F,Grastan,,Carmarthen Road,,Ferryside
+2026-02-12,200000,SA17 4UX,S,N,F,27,,Llys Y Foryd,,Kidwelly
+2026-02-10,167000,SA17 5TF,S,N,F,7,,Glan Morfa,,Ferryside
+2026-01-30,175000,SA17 5LT,S,N,F,26,,The Ashes,Meinciau,Kidwelly
+2026-01-27,455000,SA17 5RR,T,Y,F,16,,Caradog Court,,Ferryside
+2026-01-26,102500,SA17 5SD,S,N,F,2,,Wellfield Terrace,,Ferryside
+2026-01-23,300000,SA17 4SF,D,N,F,Llwyngwyn,,,Four Roads,Kidwelly
+2026-01-22,288500,SA17 4BA,S,N,F,14,,Gerddi Gwenllian,Mynyddygarreg,Kidwelly
+2026-01-21,180000,SA17 5JE,T,N,F,16,,Maes Yr Eglwys,Llansaint,Kidwelly
+2026-01-21,200000,SA17 5JA,S,N,F,16A,,Heol Gwermont,Llansaint,Kidwelly
+2026-01-20,190000,SA17 5LW,D,N,F,Llwyn Wermwnt,,,Pontantwn,Kidwelly
+2026-01-20,100000,SA17 4UL,T,N,F,10,,Hillfield Villas,,Kidwelly
+2026-01-20,255000,SA17 4GL,D,N,F,7,,Heol Waunhir,Carway,Kidwelly
+2026-01-19,177500,SA17 4HT,T,N,F,12,,Bron Gwendraeth,Carway,Kidwelly
+2026-01-16,119995,SA17 4AN,S,N,F,105,,Trilwm,Trimsaran,Kidwelly
+2026-01-09,170000,SA17 4TN,T,N,F,26,,Alstred Street,,Kidwelly
+2026-01-09,180000,SA17 4SF,D,N,F,Ffynon Felen,,,Four Roads,Kidwelly
+2026-01-09,140000,SA17 4RJ,T,N,F,13,,Golwg Y Twr,Mynyddygarreg,Kidwelly
+2026-01-07,315000,SA17 4PU,S,N,F,19,,Parc Y Garreg,,Kidwelly
+2026-01-07,157500,SA17 4AD,S,N,F,57,,Garden Suburbs,Trimsaran,Kidwelly
+2026-01-06,165000,SA17 4AG,D,N,F,41,,Heol Llanelli,Trimsaran,Kidwelly
+2025-12-19,185000,SA17 4PY,D,N,F,Hazelbrook,,,Mynyddygarreg,Kidwelly
+2025-12-19,400000,SA17 4EN,D,N,F,Ty Llwyd,,,Trimsaran,Kidwelly
+2025-12-17,135000,SA17 4UL,T,N,F,2,,Hillfield Villas,,Kidwelly
+2025-12-17,400000,SA17 4SF,D,N,F,Oakland,,,Four Roads,Kidwelly
+2025-12-16,276000,SA17 5TG,D,N,F,The Old Police House,,Glan Tywi,,Ferryside
+2025-12-16,520000,SA17 4SF,D,N,F,Willow House,,,Four Roads,Kidwelly
+2025-12-12,240000,SA17 5NA,T,N,F,Erw Las,,,Pontantwn,Kidwelly
+2025-12-12,191297,SA17 5LT,S,N,F,20,,The Ashes,Meinciau,Kidwelly
+2025-12-12,295000,SA17 4PU,D,N,F,49,,Parc Y Garreg,,Kidwelly
+2025-12-12,170000,SA17 4GH,T,N,F,40,,Heol Waunhir,Carway,Kidwelly
+2025-12-11,118000,SA17 4AD,S,N,F,45,,Garden Suburbs,Trimsaran,Kidwelly
+2025-12-10,205000,SA17 4TD,S,N,F,3,,Parc Pendre,,Kidwelly
+2025-12-05,185000,SA17 4JA,D,N,F,4,,Dan Y Cwarre,Carway,Kidwelly
+2025-12-04,505000,SA17 5EF,D,N,F,4,,Castle Court,,Kidwelly
+2025-11-28,285000,SA17 5LU,D,N,F,1,,Maes Hywel,Meinciau,Kidwelly
+2025-11-28,320000,SA17 5HY,D,N,F,Halfway House,,,Pontantwn,Kidwelly
+2025-11-28,215000,SA17 4JH,D,N,F,2,,Clos Y Nant,Carway,Kidwelly
+2025-11-28,237500,SA17 4HJ,D,N,F,13,,Heol Dyffryn Aur,,Kidwelly
+2025-11-28,343000,SA17 4AZ,D,N,F,3,,Stockwell Forge,,Kidwelly
+2025-11-27,225000,SA17 4DF,D,N,F,1,,Heol Morlais,Trimsaran,Kidwelly
+2025-11-26,90000,SA17 4AF,S,N,F,154,,Garden Suburbs,Trimsaran,Kidwelly
+2025-11-21,103000,SA17 4UD,T,N,F,32,,Lady Street,,Kidwelly
+2025-11-21,172000,SA17 4TY,T,N,F,58,,Priory Street,,Kidwelly
+2025-11-19,315000,SA17 5SL,D,N,F,Roselawn,,,,Ferryside
+2025-11-14,270000,SA17 4BD,D,Y,F,28,,Ffordd Brynderi,Carway,Kidwelly
+2025-11-13,160000,SA17 4HE,D,N,F,Brynawel,,,Carway,Kidwelly
+2025-11-12,132000,SA17 4BL,D,N,F,39,,Heol Waunyclun,Trimsaran,Kidwelly
+2025-11-10,165000,SA17 5TF,S,N,F,11,,Glan Morfa,,Ferryside
+2025-11-03,182500,SA17 4UD,T,N,F,35,,Lady Street,,Kidwelly
+2025-10-31,223500,SA17 4PU,S,N,F,61,,Parc Y Garreg,,Kidwelly
+2025-10-30,145000,SA17 4DW,S,N,F,22,,Bryncaerau,Trimsaran,Kidwelly
+2025-10-29,97000,SA17 5DQ,T,N,F,15,,New Street,,Kidwelly
+2025-10-29,135000,SA17 4DB,S,N,F,1,,Jenkins Crescent,Trimsaran,Kidwelly
+2025-10-24,220000,SA17 5TF,D,N,F,17,,Glan Morfa,,Ferryside
+2025-10-23,335000,SA17 5RS,D,N,F,Towy Hill,,,,Ferryside
+2025-10-23,268500,SA17 4UF,D,N,F,49,,Morfa Maen,,Kidwelly
+2025-10-23,119000,SA17 4DP,S,N,F,33,,Maes Tomos,Trimsaran,Kidwelly
+2025-10-10,100000,SA17 5BJ,T,N,F,14,,Ferry Road,,Kidwelly
+2025-10-10,157000,SA17 4JJ,S,N,F,7,,Ffordd Y Glowyr,Carway,Kidwelly
+2025-10-07,220000,SA17 5DR,D,N,F,Tyr Castell,,,Crwbin,Kidwelly
+2025-09-26,187500,SA17 5TG,S,N,F,11,,Glan Tywi,,Ferryside
+2025-09-22,350000,SA17 5RX,F,N,L,Plas Caradog,Apartment 5,Caradog Court,,Ferryside
+2025-09-19,155000,SA17 4HY,T,N,F,37,,Heol Waungron,Carway,Kidwelly
+2025-09-19,274995,SA17 4BD,D,Y,F,10,,Ffordd Brynderi,Carway,Kidwelly
+2025-09-15,165000,SA17 4HY,S,N,F,2,,Heol Waungron,Carway,Kidwelly
+2025-09-12,161000,SA17 4BR,D,N,F,38,,Heol Waunyclun,Trimsaran,Kidwelly
+2025-09-12,365000,SA17 4AG,D,N,F,11A,,Heol Llanelli,Trimsaran,Kidwelly
+2025-09-11,140000,SA17 4UT,T,N,F,53,,Station Road,,Kidwelly
+2025-09-10,172500,SA17 4HS,S,N,F,Rhodd Terfynol,,,Carway,Kidwelly
+2025-09-05,168500,SA17 4DG,T,N,F,60,,Heol Morlais,Trimsaran,Kidwelly
+2025-09-02,225000,SA17 4RJ,D,N,F,6,,Golwg Y Twr,Mynyddygarreg,Kidwelly
+2025-09-01,620000,SA17 5SP,D,N,F,Y Graig,Roylan,,,Ferryside
+2025-09-01,205000,SA17 5JA,S,N,F,8,,Heol Gwermont,Llansaint,Kidwelly
+2025-09-01,190000,SA17 5JA,T,N,F,2,,Heol Gwermont,Llansaint,Kidwelly
+2025-09-01,185000,SA17 4BD,S,Y,F,14,,Ffordd Brynderi,Carway,Kidwelly
+2025-08-29,175000,SA17 5SN,T,N,F,6,,Hall Terrace,,Ferryside
+2025-08-29,100000,SA17 4UB,T,N,F,4,,Gwendraeth Town,,Kidwelly
+2025-08-28,67500,SA17 4AA,S,N,F,20,,Heol Llanelli,Trimsaran,Kidwelly
+2025-08-27,439000,SA17 5YJ,D,N,F,4,,Parc Y Gwenyn,,Ferryside
+2025-08-22,90000,SA17 4UD,T,N,F,31,,Lady Street,,Kidwelly
+2025-08-22,197000,SA17 4SE,S,N,F,Nantymynydd,8,,Four Roads,Kidwelly
+2025-08-22,180000,SA17 4PF,S,N,F,5,,Newtown,Mynyddygarreg,Kidwelly
+2025-08-22,78000,SA17 4HL,T,N,F,4,,Green Cottages,Carway,Kidwelly
+2025-08-22,200000,SA17 4BD,D,Y,F,34,,Ffordd Brynderi,Carway,Kidwelly
+2025-08-15,340000,SA17 5UB,S,N,F,Plas Panty,,Broadlay,,Ferryside
+2025-08-15,550000,SA17 5RR,D,N,F,7,,Caradog Court,,Ferryside
+2025-08-14,119000,SA17 4GB,T,N,F,27,,Rhodfar Ceffyl,Carway,Kidwelly
+2025-08-13,152500,SA17 4JJ,S,N,F,26,,Ffordd Y Glowyr,Carway,Kidwelly
+2025-08-13,165000,SA17 4JG,T,N,F,98,,Heol Y Plas,Carway,Kidwelly
+2025-08-13,62000,SA17 4HS,T,N,F,Brynarlais,,,Carway,Kidwelly
+2025-08-11,190000,SA17 4JB,D,N,F,6,,Erwau'R Garn,Carway,Kidwelly
+2025-08-11,355000,SA17 4BB,D,Y,F,50,,Ffordd Y Felen,Carway,Kidwelly
+2025-08-08,165000,SA17 5JA,T,N,F,18A,,Heol Gwermont,Llansaint,Kidwelly
+2025-08-01,187000,SA17 4JG,S,N,F,20,,Heol Y Plas,Carway,Kidwelly
+2025-08-01,91000,SA17 4GA,T,N,F,14,,Rhodfar Ceffyl,Carway,Kidwelly
+2025-07-31,530000,SA17 4SY,D,N,F,4,,Vicarage Lane,,Kidwelly
+2025-07-31,450000,SA17 4LX,D,N,F,3,,Parc Felindre,,Kidwelly
+2025-07-31,255000,SA17 4AX,D,N,F,3,,Ffordd Maes Gwilym,Carway,Kidwelly
+2025-07-30,246200,SA17 4JB,D,N,F,37,,Erwau'R Garn,Carway,Kidwelly
+2025-07-29,210000,SA17 4GH,S,N,F,8,,Heol Waunhir,Carway,Kidwelly
+2025-07-29,299995,SA17 4BD,D,Y,F,15,,Ffordd Brynderi,Carway,Kidwelly
+2025-07-24,190000,SA17 5RY,F,N,F,1,,Horton View,,Ferryside
+2025-07-23,325000,SA17 5ST,D,N,F,Nyth Fran,,,,Ferryside
+2025-07-23,325000,SA17 5ST,D,N,F,Nyth Fran,,,,Ferryside
+2025-07-23,90000,SA17 4PG,T,N,F,4,,The Sidings,Mynyddygarreg,Kidwelly
+2025-07-15,310000,SA17 5DE,D,N,F,Brodawel,,,Crwbin,Kidwelly
+2025-07-11,220000,SA17 4GL,S,N,F,15,,Heol Waunhir,Carway,Kidwelly
+2025-07-09,200000,SA17 5DR,S,N,F,Maes Yr Haf,,,Crwbin,Kidwelly
+2025-07-09,125000,SA17 5BR,D,N,F,Ynys Faes,,,Llangyndeyrn,Kidwelly
+2025-07-04,130000,SA17 4TY,T,N,F,54,,Priory Street,,Kidwelly
+2025-07-04,200000,SA17 4PU,T,N,F,77,,Parc Y Garreg,,Kidwelly
+2025-07-04,154000,SA17 4JH,T,N,F,4,,Clos Y Nant,Carway,Kidwelly
+2025-06-27,145000,SA17 4JH,T,N,F,8,,Clos Y Nant,Carway,Kidwelly
+2025-06-27,274995,SA17 4BD,D,Y,F,24,,Ffordd Brynderi,Carway,Kidwelly
+2025-06-27,299995,SA17 4BB,D,Y,F,8,,Ffordd Y Felen,Carway,Kidwelly
+2025-06-27,393995,SA17 4BB,D,Y,F,5,,Ffordd Y Felen,Carway,Kidwelly
+2025-06-26,249999,SA17 4BB,D,Y,F,19,,Ffordd Y Felen,Carway,Kidwelly
+2025-06-23,165000,SA17 4UL,S,N,F,30,,Hillfield Villas,,Kidwelly
+2025-06-20,157600,SA17 4BD,T,Y,F,30,,Ffordd Brynderi,Carway,Kidwelly
+2025-06-20,274995,SA17 4BD,D,Y,F,16,,Ffordd Brynderi,Carway,Kidwelly
+2025-06-19,94000,SA17 4AF,S,N,F,194,,Garden Suburbs,Trimsaran,Kidwelly
+2025-06-18,236500,SA17 4BA,S,N,F,24,,Gerddi Gwenllian,Mynyddygarreg,Kidwelly
+2025-06-16,153000,SA17 5BJ,D,N,F,32,,Ferry Road,,Kidwelly
+2025-06-13,325000,SA17 4BD,D,Y,F,3,,Ffordd Brynderi,Carway,Kidwelly
+2025-06-13,274995,SA17 4BD,D,Y,F,22,,Ffordd Brynderi,Carway,Kidwelly
+2025-06-13,299995,SA17 4BD,D,Y,F,2,,Ffordd Brynderi,Carway,Kidwelly
+2025-06-09,205000,SA17 4GH,S,N,F,10,,Heol Waunhir,Carway,Kidwelly
+2025-06-09,265000,SA17 4GB,D,N,F,1,,Rhodfar Ceffyl,Carway,Kidwelly
+2025-06-09,297995,SA17 4BB,D,Y,F,14,,Ffordd Y Felen,Carway,Kidwelly
+2025-06-06,170000,SA17 5LT,S,N,F,16,,The Ashes,Meinciau,Kidwelly
+2025-06-06,355000,SA17 5JA,D,N,F,40,,Heol Gwermont,Llansaint,Kidwelly
+2025-06-06,110000,SA17 4TU,T,N,F,70,,Ger Y Gwendraeth,,Kidwelly
+2025-06-06,149000,SA17 4BS,D,N,F,77A,,Heol Waunyclun,Trimsaran,Kidwelly
+2025-06-05,130000,SA17 4TR,T,N,F,10,,Priory Street,,Kidwelly
+2025-06-05,194995,SA17 4BD,T,Y,F,32,,Ffordd Brynderi,Carway,Kidwelly
+2025-06-02,120000,SA17 5BX,T,N,F,13,,Water Street,,Kidwelly
+2025-05-30,205000,SA17 5EG,D,N,F,2,,Cae Ffynnon,,Kidwelly
+2025-05-30,105000,SA17 4SU,S,N,F,9,,Causeway Street,,Kidwelly
+2025-05-30,322000,SA17 4AJ,D,N,F,3,,Monksford Close,,Kidwelly
+2025-05-23,299995,SA17 4BB,D,Y,F,9,,Ffordd Y Felen,Carway,Kidwelly
+2025-05-23,149995,SA17 4BB,T,Y,F,42,,Ffordd Y Felen,Carway,Kidwelly
+2025-05-19,185000,SA17 4BD,S,Y,F,12,,Ffordd Brynderi,Carway,Kidwelly
+2025-05-16,205000,SA17 5TT,D,N,F,4,,Glan Yr Ystrad,,Ferryside
+2025-05-16,257000,SA17 5PR,D,N,F,Ysgubor Fawr,,,Llandyfaelog,Kidwelly
+2025-05-16,202500,SA17 4PU,T,N,F,34,,Parc Y Garreg,,Kidwelly
+2025-05-07,102000,SA17 4TU,T,N,F,32,,Ger Y Gwendraeth,,Kidwelly
+2025-05-02,120000,SA17 4HR,T,N,F,23,,Bryn Seilo,Carway,Kidwelly
+2025-04-30,419797,SA17 5RR,T,Y,F,15,,Caradog Court,,Ferryside
+2025-04-29,143000,SA17 5BL,S,N,F,1,,Maes Y Berllan,Llangyndeyrn,Kidwelly
+2025-04-28,220500,SA17 5TF,S,N,F,3,,Glan Morfa,,Ferryside
+2025-04-28,193000,SA17 4PU,T,N,F,75,,Parc Y Garreg,,Kidwelly
+2025-04-25,265000,SA17 4BD,D,Y,F,25,,Ffordd Brynderi,Carway,Kidwelly
+2025-04-25,325000,SA17 4BB,D,Y,F,23,,Ffordd Y Felen,Carway,Kidwelly
+2025-04-17,220000,SA17 4UR,D,N,F,74,,Station Road,,Kidwelly
+2025-04-17,177000,SA17 4PU,T,N,F,7,,Parc Y Garreg,,Kidwelly
+2025-04-17,175000,SA17 4BB,T,Y,F,32,,Ffordd Y Felen,Carway,Kidwelly
+2025-04-17,100000,SA17 4AN,D,N,F,137,,Trilwm,Trimsaran,Kidwelly
+2025-04-15,165000,SA17 4JA,T,N,F,13,,Dan Y Cwarre,Carway,Kidwelly
+2025-04-15,157500,SA17 4DF,T,N,F,25,,Heol Morlais,Trimsaran,Kidwelly
+2025-04-14,180000,SA17 5LT,S,N,F,22,,The Ashes,Meinciau,Kidwelly
+2025-04-11,362500,SA17 4BB,D,Y,F,4,,Ffordd Y Felen,Carway,Kidwelly
+2025-04-11,149995,SA17 4BB,T,Y,F,38,,Ffordd Y Felen,Carway,Kidwelly
+2025-04-04,270000,SA17 5SH,S,N,F,15,,Brigstocke Terrace,,Ferryside
+2025-04-04,110000,SA17 5AL,D,N,F,Penhill,,,,Kidwelly
+2025-04-03,149995,SA17 4BB,T,Y,F,44,,Ffordd Y Felen,Carway,Kidwelly
+2025-03-28,175000,SA17 5TG,T,N,F,27,,Glan Tywi,,Ferryside
+2025-03-28,149995,SA17 4BB,T,Y,F,40,,Ffordd Y Felen,Carway,Kidwelly
+2025-03-26,261000,SA17 4TN,D,N,F,"Green Gables, 50",,Alstred Street,,Kidwelly
+2025-03-25,207500,SA17 4JA,D,N,F,65,,Dan Y Cwarre,Carway,Kidwelly
+2025-03-14,350000,SA17 4UP,D,N,F,28,,Park View Drive,,Kidwelly
+2025-03-14,165000,SA17 4BS,S,N,F,79,,Heol Waunyclun,Trimsaran,Kidwelly
+2025-03-13,255000,SA17 5JN,D,N,F,Aweldeg,,Heol Llansaint,Llansaint,Kidwelly
+2025-03-13,135000,SA17 4AE,S,N,F,133,,Garden Suburbs,Trimsaran,Kidwelly
+2025-03-10,320000,SA17 5DN,D,N,F,Aelybryn,,,Crwbin,Kidwelly
+2025-03-10,100000,SA17 4UD,S,N,F,61,,Lady Street,,Kidwelly
+2025-03-07,100000,SA17 5BX,T,N,F,15,,Water Street,,Kidwelly
+2025-02-28,235000,SA17 4AX,D,N,F,20,,Ffordd Maes Gwilym,Carway,Kidwelly
+2025-02-28,265000,SA17 4AQ,D,N,F,10,,Cae Linda,Trimsaran,Kidwelly
+2025-02-27,260000,SA17 4JG,D,N,F,80,,Heol Y Plas,Carway,Kidwelly
+2025-02-26,200000,SA17 4DF,T,N,F,35,,Heol Morlais,Trimsaran,Kidwelly
+2025-02-24,240000,SA17 5BN,D,N,F,Angorfa,,,Llangyndeyrn,Kidwelly
+2025-02-24,318000,SA17 4RA,D,N,F,Ty Newydd,,Meinciau Road,Mynyddygarreg,Kidwelly
+2025-02-21,250050,SA17 5BJ,D,N,F,38,,Ferry Road,,Kidwelly
+2025-02-19,200000,SA17 4GB,T,N,F,17,,Rhodfar Ceffyl,Carway,Kidwelly
+2025-02-19,92000,SA17 4BL,S,N,F,15,,Heol Waunyclun,Trimsaran,Kidwelly
+2025-02-14,220000,SA17 4TY,T,N,F,60,,Priory Street,,Kidwelly
+2025-02-12,74000,SA17 4UD,T,N,F,52 - 54,,Lady Street,,Kidwelly
+2025-02-12,94000,SA17 4SU,T,N,F,30,,Causeway Street,,Kidwelly
+2025-02-07,244500,SA17 4JG,D,N,F,2,,Heol Y Plas,Carway,Kidwelly
+2025-02-07,165000,SA17 4JA,S,N,F,63,,Dan Y Cwarre,Carway,Kidwelly
+2025-02-06,105000,SA17 4AE,S,N,F,113,,Garden Suburbs,Trimsaran,Kidwelly
+2025-02-03,317000,SA17 4AZ,D,N,F,4,,Stockwell Forge,,Kidwelly
+2025-01-31,183000,SA17 5LT,S,N,F,26,,The Ashes,Meinciau,Kidwelly
+2025-01-31,305000,SA17 4SY,D,N,F,6,,Vicarage Lane,,Kidwelly
+2025-01-31,160000,SA17 4HJ,S,N,F,9,,Heol Dyffryn Aur,,Kidwelly
+2025-01-31,358000,SA17 4BD,D,Y,F,1,,Ffordd Brynderi,Carway,Kidwelly
+2025-01-30,185000,SA17 4EB,D,N,F,The Nook,,Trimsaran Road,,Kidwelly
+2025-01-28,172000,SA17 4JA,T,N,F,42,,Dan Y Cwarre,Carway,Kidwelly
+2025-01-20,109000,SA17 5BX,T,N,F,23,,Water Street,,Kidwelly
+2025-01-17,132000,SA17 5DR,D,N,F,Three Compasses,,,Crwbin,Kidwelly
+2025-01-17,175000,SA17 4GH,T,N,F,48,,Heol Waunhir,Carway,Kidwelly
+2025-01-10,175000,SA17 4JJ,S,N,F,37,,Ffordd Y Glowyr,Carway,Kidwelly
+2024-12-19,215000,SA17 4BB,T,Y,F,34,,Ffordd Y Felen,Carway,Kidwelly
+2024-12-16,75000,SA17 5JF,T,N,F,1,,Heol Tregwyr,Llansaint,Kidwelly
+2024-12-13,295000,SA17 4BD,D,Y,F,7,,Ffordd Brynderi,Carway,Kidwelly
+2024-12-12,110000,SA17 4UG,F,N,L,30,,Morfa Maen,,Kidwelly
+2024-12-11,290000,SA17 4SX,D,N,F,2,,Clos Y Celyn,,Kidwelly
+2024-12-06,370000,SA17 4BB,D,Y,F,25,,Ffordd Y Felen,Carway,Kidwelly
+2024-12-04,210000,SA17 4BB,T,Y,F,30,,Ffordd Y Felen,Carway,Kidwelly
+2024-12-02,382000,SA17 4TY,D,N,F,Fairacre,,Priory Street,,Kidwelly
+2024-11-29,142000,SA17 4UT,S,N,F,79,,Station Road,,Kidwelly
+2024-11-29,170000,SA17 4TT,S,N,F,18,,Ger Y Castell,,Kidwelly
+2024-11-29,157000,SA17 4TP,S,N,F,11,,Abbey Street,,Kidwelly
+2024-11-29,195000,SA17 4JA,D,N,F,33,,Dan Y Cwarre,Carway,Kidwelly
+2024-11-29,340000,SA17 4BB,D,Y,F,7,,Ffordd Y Felen,Carway,Kidwelly
+2024-11-27,370000,SA17 4BD,D,Y,F,5,,Ffordd Brynderi,Carway,Kidwelly
+2024-11-26,250000,SA17 4UE,D,N,F,7,,Maes Y Parc,,Kidwelly
+2024-11-25,365000,SA17 4SU,T,N,F,62,,Causeway Street,,Kidwelly
+2024-11-22,143000,SA17 4TY,T,N,F,56,,Priory Street,,Kidwelly
+2024-11-22,270755,SA17 4BD,D,Y,F,23,,Ffordd Brynderi,Carway,Kidwelly
+2024-11-22,100000,SA17 4AB,S,N,F,17,,Garden Suburbs,Trimsaran,Kidwelly
+2024-11-18,165000,SA17 4JB,S,N,F,14,,Erwau'R Garn,Carway,Kidwelly
+2024-11-14,380000,SA17 4SF,D,N,F,Sea Breeze,,,Four Roads,Kidwelly
+2024-11-08,220000,SA17 4JG,D,N,F,42,,Heol Y Plas,Carway,Kidwelly
+2024-11-04,119995,SA17 4HF,S,N,F,32,,Maes Y Wern,Carway,Kidwelly
+2024-11-01,110000,SA17 4DP,S,N,F,4,,Maes Tomos,Trimsaran,Kidwelly
+2024-10-29,105000,SA17 4AD,S,N,F,48,,Garden Suburbs,Trimsaran,Kidwelly
+2024-10-28,299955,SA17 4BB,S,Y,F,26,,Ffordd Y Felen,Carway,Kidwelly
+2024-10-28,229995,SA17 4BB,S,Y,F,24,,Ffordd Y Felen,Carway,Kidwelly
+2024-10-25,100000,SA17 4TN,T,N,F,46,,Alstred Street,,Kidwelly
+2024-10-24,230000,SA17 5SP,S,N,F,Marine Cliff,,,,Ferryside
+2024-10-22,180000,SA17 4RP,D,N,F,Brynteg,,Meinciau Road,Mynyddygarreg,Kidwelly
+2024-10-18,50000,SA17 5HQ,S,N,L,Chalet 258,,Carmarthen Bay Holiday Park,,Kidwelly
+2024-10-18,210000,SA17 4JA,T,N,F,46,,Dan Y Cwarre,Carway,Kidwelly
+2024-10-18,290000,SA17 4AQ,D,N,F,2,,Cae Linda,Trimsaran,Kidwelly
+2024-10-17,185000,SA17 4PR,T,N,F,4,,Llangadog Road,,Kidwelly
+2024-10-11,130000,SA17 5JA,T,N,F,6,,Heol Gwermont,Llansaint,Kidwelly
+2024-10-11,165000,SA17 4JB,S,N,F,13,,Erwau'R Garn,Carway,Kidwelly
+2024-10-11,236000,SA17 4HD,D,N,F,Nythfa,,,Carway,Kidwelly
+2024-10-10,176000,SA17 4TY,S,N,F,70,,Priory Street,,Kidwelly
+2024-10-10,124000,SA17 4HZ,T,N,F,2,,Ty Canol,Carway,Kidwelly
+2024-10-01,150000,SA17 5SN,S,N,F,8,,Hall Terrace,,Ferryside
+2024-10-01,119000,SA17 4UB,T,N,F,5,,Gwendraeth Town,,Kidwelly
+2024-10-01,253000,SA17 4SR,D,N,F,33,,Rhodfa'R Gwendraeth,,Kidwelly
+2024-09-27,140000,SA17 4BW,T,N,F,23,,Maesyffynnon,Trimsaran,Kidwelly
+2024-09-27,290000,SA17 4BB,D,Y,F,21,,Ffordd Y Felen,Carway,Kidwelly
+2024-09-25,325000,SA17 4UZ,D,N,F,2,,Glanafon,,Kidwelly
+2024-09-23,115000,SA17 5DQ,T,N,F,11,,New Street,,Kidwelly
+2024-09-20,193500,SA17 5JE,D,N,F,11,,Maes Yr Eglwys,Llansaint,Kidwelly
+2024-09-18,354995,SA17 4BB,D,Y,F,52,,Ffordd Y Felen,Carway,Kidwelly
+2024-09-17,129000,SA17 4HZ,T,N,F,7,,Ty Canol,Carway,Kidwelly
+2024-09-17,112500,SA17 4BH,S,N,F,1,,Coedyclun,Trimsaran,Kidwelly
+2024-09-10,259950,SA17 5YP,D,N,F,"Ty Canol, 27",,Heol Llansaint,,Ferryside
+2024-09-10,155000,SA17 4TY,T,N,F,74,,Priory Street,,Kidwelly
+2024-09-10,152500,SA17 4SF,S,N,F,The Old Post Office,,,Four Roads,Kidwelly
+2024-09-04,260000,SA17 4RT,S,N,F,Derlwyn,,Glyn Road,Mynyddygarreg,Kidwelly
+2024-09-03,440000,SA17 4RA,D,N,F,Maesteg,,Meinciau Road,Mynyddygarreg,Kidwelly
+2024-08-30,260000,SA17 4BB,S,Y,F,12,,Ffordd Y Felen,Carway,Kidwelly
+2024-08-29,148000,SA17 4US,S,N,F,6,,Westhill Crescent,,Kidwelly
+2024-08-28,257000,SA17 4HY,D,N,F,7,,Heol Waungron,Carway,Kidwelly
+2024-08-27,190000,SA17 4LP,T,N,F,Shintor Fach,4,,Mynyddygarreg,Kidwelly
+2024-08-23,222500,SA17 5TT,D,N,F,2,,Glan Yr Ystrad,,Ferryside
+2024-08-23,170000,SA17 5JG,T,N,F,5,,Heol Singleton,Llansaint,Kidwelly
+2024-08-23,190000,SA17 5JA,S,N,F,16,,Heol Gwermont,Llansaint,Kidwelly
+2024-08-23,89410,SA17 4RJ,T,N,F,14,,Golwg Y Twr,Mynyddygarreg,Kidwelly
+2024-08-23,260000,SA17 4JG,D,N,F,90,,Heol Y Plas,Carway,Kidwelly
+2024-08-21,158000,SA17 4TR,T,N,F,17,,Priory Street,,Kidwelly
+2024-08-21,125000,SA17 4BH,S,N,F,5,,Coedyclun,Trimsaran,Kidwelly
+2024-08-20,220000,SA17 5DQ,D,N,F,5,,New Street,,Kidwelly
+2024-08-20,145000,SA17 4TR,T,N,F,19,,Priory Street,,Kidwelly
+2024-08-16,300000,SA17 4SQ,D,N,F,7,,Bro Hedydd,Four Roads,Kidwelly
+2024-08-09,56000,SA17 4HT,S,N,L,34,,Bron Gwendraeth,Carway,Kidwelly
+2024-08-07,105000,SA17 4HS,S,N,F,Angorfa,,,Carway,Kidwelly
+2024-08-07,220000,SA17 4AG,D,N,F,74,,Heol Llanelli,Trimsaran,Kidwelly
+2024-08-06,325000,SA17 4RA,D,N,F,Cumbria,,Meinciau Road,Mynyddygarreg,Kidwelly
+2024-08-02,73500,SA17 5JE,S,N,F,12,,Maes Yr Eglwys,Llansaint,Kidwelly
+2024-07-31,525000,SA17 5BD,D,N,F,2,,Rhodfa Mount Pleasant,,Kidwelly
+2024-07-31,190000,SA17 4HW,S,N,F,4,,Tawelfan,Carway,Kidwelly
+2024-07-26,257995,SA17 4BB,S,Y,F,10,,Ffordd Y Felen,Carway,Kidwelly
+2024-07-19,124000,SA17 4HF,S,N,F,10,,Maes Y Wern,Carway,Kidwelly
+2024-07-18,73000,SA17 5BT,D,N,F,Coity,,,Llangyndeyrn,Kidwelly
+2024-07-17,265000,SA17 5AX,S,N,F,17,,Castle Street,,Kidwelly
+2024-07-17,219250,SA17 4UX,S,N,F,16,,Llys Y Foryd,,Kidwelly
+2024-07-12,285000,SA17 5JD,T,N,F,"Dalton Cottage, 1",,Heol Llansaint,Llansaint,Kidwelly
+2024-07-12,147000,SA17 5BX,T,N,F,54,,Water Street,,Kidwelly
+2024-07-12,285000,SA17 5BJ,T,N,F,22,,Ferry Road,,Kidwelly
+2024-07-08,195000,SA17 4UX,S,N,F,8,,Llys Y Foryd,,Kidwelly
+2024-07-03,112500,SA17 4JB,T,N,F,27,,Erwau'R Garn,Carway,Kidwelly
+2024-06-28,81000,SA17 4TD,T,N,F,45,,Parc Pendre,,Kidwelly
+2024-06-27,125000,SA17 4HZ,T,N,F,6,,Ty Canol,Carway,Kidwelly
+2024-06-21,205000,SA17 5UU,D,N,F,Millbrook,,,,Ferryside
+2024-06-21,230000,SA17 4BB,S,Y,F,28,,Ffordd Y Felen,Carway,Kidwelly
+2024-06-19,300000,SA17 5SP,S,N,F,Penderi,,,,Ferryside
+2024-06-19,163000,SA17 5JA,T,N,F,23,,Heol Gwermont,Llansaint,Kidwelly
+2024-06-19,470000,SA17 5EQ,D,N,F,59,,Ferry Road,,Kidwelly
+2024-06-12,160000,SA17 4JJ,S,N,F,8,,Ffordd Y Glowyr,Carway,Kidwelly
+2024-06-12,218500,SA17 4JG,D,N,F,64,,Heol Y Plas,Carway,Kidwelly
+2024-06-11,635000,SA17 5HE,D,N,F,Closteg,,,Llangyndeyrn,Kidwelly
+2024-06-07,170000,SA17 5LT,S,N,F,20,,The Ashes,Meinciau,Kidwelly
+2024-06-07,280000,SA17 5EQ,D,N,F,55,,Ferry Road,,Kidwelly
+2024-06-07,300000,SA17 4EU,D,N,F,Bryncoch,,,Trimsaran,Kidwelly
+2024-06-05,249995,SA17 4PU,D,N,F,3,,Parc Y Garreg,,Kidwelly
+2024-05-31,81000,SA17 5BX,T,N,F,26,,Water Street,,Kidwelly
+2024-05-28,125000,SA17 4AF,S,N,F,183,,Garden Suburbs,Trimsaran,Kidwelly
+2024-05-23,100000,SA17 5BX,T,N,F,24,,Water Street,,Kidwelly
+2024-05-23,170000,SA17 4HE,D,N,F,Cartref,,,Carway,Kidwelly
+2024-05-22,245000,SA17 4UL,D,N,F,35,,Hillfield Villas,,Kidwelly
+2024-05-22,245000,SA17 4UH,S,N,F,24,,Station Road,,Kidwelly
+2024-05-21,156000,SA17 5DD,D,N,F,Ardwyn,,,Crwbin,Kidwelly
+2024-05-20,249000,SA17 5EB,D,N,F,Ffynnonlwyfen,,,Crwbin,Kidwelly
+2024-05-16,152550,SA17 4JG,T,N,F,98,,Heol Y Plas,Carway,Kidwelly
+2024-05-15,395000,SA17 4SL,D,N,F,Tan Y Graig,,,Four Roads,Kidwelly
+2024-05-01,140000,SA17 5UB,D,N,F,Rose Villa,,Broadlay,,Ferryside
+2024-04-29,167000,SA17 4AG,S,N,F,27,,Heol Llanelli,Trimsaran,Kidwelly
+2024-04-26,109500,SA17 4HF,S,N,F,12,,Maes Y Wern,Carway,Kidwelly
+2024-04-18,364995,SA17 4BB,D,Y,F,54,,Ffordd Y Felen,Carway,Kidwelly
+2024-04-09,425000,SA17 5AP,D,N,F,Rhyd Y Ceirts,,,,Kidwelly
+2024-03-27,115000,SA17 4HF,S,N,F,15,,Maes Y Wern,Carway,Kidwelly
+2024-03-27,110000,SA17 4BH,S,N,F,17,,Coedyclun,Trimsaran,Kidwelly
+2024-03-26,224995,SA17 4BB,S,Y,F,22,,Ffordd Y Felen,Carway,Kidwelly
+2024-03-22,166000,SA17 4JA,S,N,F,43,,Dan Y Cwarre,Carway,Kidwelly
+2024-03-08,215000,SA17 4JH,D,N,F,11,,Clos Y Nant,Carway,Kidwelly
+2024-03-04,140000,SA17 4TN,T,N,F,24,,Alstred Street,,Kidwelly
+2024-02-28,250000,SA17 4PH,S,N,F,Ivy Cottage,,Meinciau Road,Mynyddygarreg,Kidwelly
+2024-02-27,192000,SA17 4JG,D,N,F,4,,Heol Y Plas,Carway,Kidwelly
+2024-02-27,220000,SA17 4JB,T,N,F,61,,Erwau'R Garn,Carway,Kidwelly
+2024-02-23,320000,SA17 4SR,D,N,F,23,,Rhodfa'R Gwendraeth,,Kidwelly
+2024-02-23,109000,SA17 4JA,T,N,F,51,,Dan Y Cwarre,Carway,Kidwelly
+2024-02-13,270000,SA17 4AG,D,N,F,9,,Heol Llanelli,Trimsaran,Kidwelly
+2024-02-12,173000,SA17 5JJ,S,N,F,7,,Parc Y Saint,Llansaint,Kidwelly
+2024-01-19,145000,SA17 4JA,S,N,F,14,,Dan Y Cwarre,Carway,Kidwelly
+2024-01-05,92500,SA17 4AN,S,N,F,111,,Trilwm,Trimsaran,Kidwelly
+2023-12-18,139000,SA17 5AZ,S,N,F,9,,Bailey Street,,Kidwelly
+2023-12-18,110000,SA17 4UD,T,N,F,30,,Lady Street,,Kidwelly
+2023-12-18,131500,SA17 4HY,S,N,F,19,,Heol Waungron,Carway,Kidwelly
+2023-12-15,124000,SA17 5JQ,T,N,F,6,,Y Croft,Llansaint,Kidwelly
+2023-12-15,249950,SA17 5DR,D,N,F,Tyrstafell,,,Crwbin,Kidwelly
+2023-12-15,103000,SA17 4SU,T,N,F,10,,Causeway Street,,Kidwelly
+2023-12-15,135000,SA17 4DB,S,N,F,2,,Jenkins Crescent,Trimsaran,Kidwelly
+2023-12-15,200000,SA17 4BB,T,Y,F,16,,Ffordd Y Felen,Carway,Kidwelly
+2023-12-13,212500,SA17 4JJ,D,N,F,10,,Ffordd Y Glowyr,Carway,Kidwelly
+2023-12-11,58000,SA17 5HQ,D,N,L,Chalet 16,,Carmarthen Bay Holiday Park,,Kidwelly
+2023-12-08,81000,SA17 4AE,T,N,F,119,,Garden Suburbs,Trimsaran,Kidwelly
+2023-12-07,143000,SA17 5TF,D,N,F,2,,Glan Morfa,,Ferryside
+2023-12-04,34000,SA17 4AW,S,N,F,38,,Trilwm,Trimsaran,Kidwelly
+2023-12-01,100000,SA17 4PG,T,N,F,4,,The Sidings,Mynyddygarreg,Kidwelly
+2023-11-27,130000,SA17 4BW,S,N,F,12,,Maesyffynnon,Trimsaran,Kidwelly
+2023-11-24,305000,SA17 5JN,D,N,F,7,,Heol Llansaint,Llansaint,Kidwelly
+2023-11-24,247500,SA17 4GA,D,N,F,4,,Rhodfar Ceffyl,Carway,Kidwelly
+2023-11-21,61000,SA17 4YB,D,N,F,Chapel House,,Morfa Lane,,Kidwelly
+2023-11-17,181000,SA17 5AX,T,N,F,8,,Castle Street,,Kidwelly
+2023-11-13,118000,SA17 5SG,T,N,F,Penrose,,,,Ferryside
+2023-11-10,305000,SA17 4GA,D,N,F,28,,Rhodfar Ceffyl,Carway,Kidwelly
+2023-11-10,129995,SA17 4DS,S,N,F,5,,Argoed Crescent,Trimsaran,Kidwelly
+2023-11-09,150000,SA17 4JJ,T,N,F,48,,Ffordd Y Glowyr,Carway,Kidwelly
+2023-11-03,315000,SA17 4SR,D,N,F,14,,Rhodfa'R Gwendraeth,,Kidwelly
+2023-11-03,127500,SA17 4AP,S,N,F,91,,Trilwm,Trimsaran,Kidwelly
+2023-10-30,135000,SA17 4HZ,T,N,F,3,,Ty Canol,Carway,Kidwelly
+2023-10-27,296995,SA17 4BB,D,Y,F,6,,Ffordd Y Felen,Carway,Kidwelly
+2023-10-27,372000,SA17 4BB,D,Y,F,2,,Ffordd Y Felen,Carway,Kidwelly
+2023-10-20,525000,SA17 4SF,D,N,F,Pantymaen,,,Four Roads,Kidwelly
+2023-10-18,460000,SA17 5NA,D,N,F,Gwendraeth View,,,Pontantwn,Kidwelly
+2023-10-17,450000,SA17 5EQ,D,N,F,43,,Ferry Road,,Kidwelly
+2023-10-17,185000,SA17 4PU,T,N,F,23,,Parc Y Garreg,,Kidwelly
+2023-10-13,174995,SA17 5BX,S,N,F,48,,Water Street,,Kidwelly
+2023-10-13,140000,SA17 4DP,S,N,F,31,,Maes Tomos,Trimsaran,Kidwelly
+2023-10-12,142000,SA17 5RN,T,N,F,Grongar,,,,Ferryside
+2023-10-09,190000,SA17 4JA,D,N,F,4,,Dan Y Cwarre,Carway,Kidwelly
+2023-10-06,105000,SA17 5JG,T,N,F,2,,Heol Singleton,Llansaint,Kidwelly
+2023-10-06,150000,SA17 4HY,T,N,F,41,,Heol Waungron,Carway,Kidwelly
+2023-10-02,200000,SA17 5ST,S,N,F,Lincoln Villa,,,,Ferryside
+2023-09-29,205000,SA17 5JA,S,N,F,9,,Heol Gwermont,Llansaint,Kidwelly
+2023-09-27,195000,SA17 4JA,D,N,F,75,,Dan Y Cwarre,Carway,Kidwelly
+2023-09-26,79950,SA17 4HR,S,N,F,25,,Bryn Seilo,Carway,Kidwelly
+2023-09-22,210000,SA17 5AX,S,N,F,1,,Castle Street,,Kidwelly
+2023-09-15,200000,SA17 4UF,D,N,F,56,,Morfa Maen,,Kidwelly
+2023-09-11,149500,SA17 5DW,T,N,F,Crwbin Cottage,,,Crwbin,Kidwelly
+2023-09-11,401000,SA17 4NG,D,N,F,Highgate Farm,,,,Kidwelly
+2023-09-08,129995,SA17 4UB,T,N,F,20,,Gwendraeth Town,,Kidwelly
+2023-09-07,185000,SA17 4GB,S,N,F,41,,Rhodfar Ceffyl,Carway,Kidwelly
+2023-08-30,144000,SA17 4TY,T,N,F,78,,Priory Street,,Kidwelly
+2023-08-29,249995,SA17 4UF,D,N,F,45,,Morfa Maen,,Kidwelly
+2023-08-29,170000,SA17 4TT,S,N,F,17,,Ger Y Castell,,Kidwelly
+2023-08-25,163750,SA17 4JA,S,N,F,37,,Dan Y Cwarre,Carway,Kidwelly
+2023-08-24,110000,SA17 5DQ,T,N,F,25,,New Street,,Kidwelly
+2023-08-23,147500,SA17 4SU,T,N,F,42,,Causeway Street,,Kidwelly
+2023-08-23,290000,SA17 4SR,D,N,F,27,,Rhodfa'R Gwendraeth,,Kidwelly
+2023-08-23,223750,SA17 4JH,D,N,F,3,,Clos Y Nant,Carway,Kidwelly
+2023-08-23,200000,SA17 4HE,D,N,F,Wernyorath,,,Carway,Kidwelly
+2023-08-18,118000,SA17 4SU,T,N,F,66,,Causeway Street,,Kidwelly
+2023-08-12,308500,SA17 4BA,S,Y,F,13,,Gerddi Gwenllian,Mynyddygarreg,Kidwelly
+2023-08-07,135000,SA17 4AW,S,N,F,64,,Trilwm,Trimsaran,Kidwelly
+2023-07-25,160000,SA17 4TE,T,N,F,91,,Parc Pendre,,Kidwelly
+2023-07-24,125250,SA17 4AF,S,N,F,185,,Garden Suburbs,Trimsaran,Kidwelly
+2023-07-21,575000,SA17 5BX,D,N,F,61,,Water Street,,Kidwelly
+2023-07-21,101500,SA17 4GB,T,N,F,25,,Rhodfar Ceffyl,Carway,Kidwelly
+2023-07-20,61000,SA17 4AE,S,N,F,118,,Garden Suburbs,Trimsaran,Kidwelly
+2023-07-18,340000,SA17 4PU,D,N,F,12,,Parc Y Garreg,,Kidwelly
+2023-07-18,130000,SA17 4EN,D,N,F,Penrheol Fach,,,Trimsaran,Kidwelly
+2023-07-14,375000,SA17 4BA,D,Y,F,17,,Gerddi Gwenllian,Mynyddygarreg,Kidwelly
+2023-07-13,380000,SA17 5EQ,D,N,F,51A,,Ferry Road,,Kidwelly
+2023-07-10,190000,SA17 4JA,D,N,F,6,,Dan Y Cwarre,Carway,Kidwelly
+2023-07-07,115000,SA17 4TE,T,N,F,72,,Parc Pendre,,Kidwelly
+2023-07-07,360500,SA17 4BL,D,N,F,23,,Heol Waunyclun,Trimsaran,Kidwelly
+2023-07-07,315000,SA17 4BA,S,Y,F,16,,Gerddi Gwenllian,Mynyddygarreg,Kidwelly
+2023-07-07,105000,SA17 4AE,S,N,F,109,,Garden Suburbs,Trimsaran,Kidwelly
+2023-07-05,155000,SA17 4TR,T,N,F,"Twig's Cottage, 11",,Priory Street,,Kidwelly
+2023-07-04,120000,SA17 4DF,T,N,F,53,,Heol Morlais,Trimsaran,Kidwelly
+2023-07-03,105000,SA17 4AF,S,N,F,188,,Garden Suburbs,Trimsaran,Kidwelly
+2023-06-30,226000,SA17 4TW,S,N,F,27,,Monksford Street,,Kidwelly
+2023-06-30,315000,SA17 4BA,S,Y,F,14,,Gerddi Gwenllian,Mynyddygarreg,Kidwelly
+2023-06-29,170000,SA17 5ST,S,N,F,Neptune Villa,,,,Ferryside
+2023-06-29,120000,SA17 4AE,S,N,F,124,,Garden Suburbs,Trimsaran,Kidwelly
+2023-06-26,198500,SA17 5YP,T,N,F,31,,Heol Llansaint,,Ferryside
+2023-06-26,245000,SA17 5EN,D,N,F,Ty Newydd,,,Llangyndeyrn,Kidwelly
+2023-06-26,328000,SA17 5EF,D,N,F,3,,Castle Court,,Kidwelly
+2023-06-26,217500,SA17 4JJ,D,N,F,12,,Ffordd Y Glowyr,Carway,Kidwelly
+2023-06-23,205000,SA17 4PF,S,N,F,6,,Newtown,Mynyddygarreg,Kidwelly
+2023-06-23,250000,SA17 4JB,D,N,F,8,,Erwau'R Garn,Carway,Kidwelly
+2023-06-23,240000,SA17 4JA,D,N,F,2,,Dan Y Cwarre,Carway,Kidwelly
+2023-06-22,180000,SA17 5NH,D,N,F,Gwynfryn,,,Pontantwn,Kidwelly
+2023-06-21,153000,SA17 5DQ,T,N,F,"Gwynfa, 19",,New Street,,Kidwelly
+2023-06-20,155000,SA17 5AX,T,N,F,10,,Castle Street,,Kidwelly
+2023-06-15,299995,SA17 4BA,S,Y,F,4,,Gerddi Gwenllian,Mynyddygarreg,Kidwelly
+2023-06-14,80000,SA17 4AF,S,N,F,174,,Garden Suburbs,Trimsaran,Kidwelly
+2023-06-13,148000,SA17 4DF,T,N,F,45,,Heol Morlais,Trimsaran,Kidwelly
+2023-06-09,180000,SA17 5ST,S,N,F,Ashdale,,,,Ferryside
+2023-06-09,227500,SA17 4JG,D,N,F,30,,Heol Y Plas,Carway,Kidwelly
+2023-06-09,150000,SA17 4HT,S,N,F,4,,Bron Gwendraeth,Carway,Kidwelly
+2023-06-09,100000,SA17 4AB,S,N,F,21,,Garden Suburbs,Trimsaran,Kidwelly
+2023-06-07,315000,SA17 4BA,S,Y,F,11,,Gerddi Gwenllian,Mynyddygarreg,Kidwelly
+2023-06-06,399995,SA17 4BA,D,Y,F,6,,Gerddi Gwenllian,Mynyddygarreg,Kidwelly
+2023-06-05,315000,SA17 4BA,S,Y,F,15,,Gerddi Gwenllian,Mynyddygarreg,Kidwelly
+2023-06-02,315000,SA17 4BA,S,Y,F,9,,Gerddi Gwenllian,Mynyddygarreg,Kidwelly
+2023-05-31,200000,SA17 5LF,D,N,F,Brodeg,,,Meinciau,Kidwelly
+2023-05-31,315000,SA17 4BA,S,Y,F,10,,Gerddi Gwenllian,Mynyddygarreg,Kidwelly
+2023-05-30,160000,SA17 4UD,T,N,F,33,,Lady Street,,Kidwelly
+2023-05-26,122000,SA17 5DQ,T,N,F,6,,New Street,,Kidwelly
+2023-05-19,310000,SA17 4BA,S,Y,F,8,,Gerddi Gwenllian,Mynyddygarreg,Kidwelly
+2023-05-18,100000,SA17 5BP,D,N,F,Brodawel,,,Llangyndeyrn,Kidwelly
+2023-05-16,75000,SA17 5JE,T,N,F,16,,Maes Yr Eglwys,Llansaint,Kidwelly
+2023-05-11,375000,SA17 4BA,D,Y,F,7,,Gerddi Gwenllian,Mynyddygarreg,Kidwelly
+2023-05-10,117000,SA17 4HZ,T,N,F,2,,Ty Canol,Carway,Kidwelly
+2023-05-10,83000,SA17 4AF,S,N,F,159,,Garden Suburbs,Trimsaran,Kidwelly
+2023-05-05,280000,SA17 4HW,D,N,F,Tyddyn,,,Carway,Kidwelly
+2023-05-02,130000,SA17 5BX,T,N,F,43,,Water Street,,Kidwelly
+2023-05-02,375000,SA17 4BA,D,Y,F,12,,Gerddi Gwenllian,Mynyddygarreg,Kidwelly
+2023-04-28,125000,SA17 4JA,T,N,F,32,,Dan Y Cwarre,Carway,Kidwelly
+2023-04-21,170000,SA17 4TN,D,N,F,7,,Alstred Street,,Kidwelly
+2023-04-21,187500,SA17 4JG,S,N,F,76,,Heol Y Plas,Carway,Kidwelly
+2023-04-20,340000,SA17 4SF,D,N,F,Oakland,,,Four Roads,Kidwelly
+2023-04-20,299995,SA17 4BA,S,Y,F,5,,Gerddi Gwenllian,Mynyddygarreg,Kidwelly
+2023-04-17,210000,SA17 5AX,S,N,F,1,,Castle Street,,Kidwelly
+2023-04-14,115000,SA17 4AW,S,N,F,54,,Trilwm,Trimsaran,Kidwelly
+2023-04-14,95000,SA17 4AF,S,N,F,162,,Garden Suburbs,Trimsaran,Kidwelly
+2023-04-12,180000,SA17 4SU,T,N,F,"The Grange, 15",,Causeway Street,,Kidwelly
+2023-04-11,392000,SA17 5LB,D,N,F,Gorwel,,,Meinciau,Kidwelly
+2023-04-06,295000,SA17 4PU,D,N,F,4,,Parc Y Garreg,,Kidwelly
+2023-04-06,300000,SA17 4NY,D,N,F,Court House,,Horeb Road,Mynyddygarreg,Kidwelly
+2023-04-06,299995,SA17 4BA,S,Y,F,3,,Gerddi Gwenllian,Mynyddygarreg,Kidwelly
+2023-04-06,218000,SA17 4AX,D,N,F,1,,Ffordd Maes Gwilym,Carway,Kidwelly
+2023-04-04,800000,SA17 5RS,D,N,F,Maelog,,,,Ferryside
+2023-03-31,550000,SA17 5TY,D,N,F,Holcwm West,,,,Ferryside
+2023-03-29,150000,SA17 4AB,S,N,F,36,,Garden Suburbs,Trimsaran,Kidwelly
+2023-03-24,182500,SA17 5SH,T,N,F,16,,Brigstocke Terrace,,Ferryside
+2023-03-24,295000,SA17 4TA,D,N,F,19,,Banc Pendre,,Kidwelly
+2023-03-23,480000,SA17 4SW,D,N,F,Mountain Lodge,,,Four Roads,Kidwelly
+2023-03-17,155000,SA17 4TY,T,N,F,20,,Priory Street,,Kidwelly
+2023-03-17,120000,SA17 4HY,T,N,F,23,,Heol Waungron,Carway,Kidwelly
+2023-03-17,120000,SA17 4DF,T,N,F,57,,Heol Morlais,Trimsaran,Kidwelly
+2023-03-16,299995,SA17 4BA,S,Y,F,2,,Gerddi Gwenllian,Mynyddygarreg,Kidwelly
+2023-03-13,151000,SA17 4JG,T,N,F,72,,Heol Y Plas,Carway,Kidwelly
+2023-03-03,92125,SA17 4PU,T,N,F,25,,Parc Y Garreg,,Kidwelly
+2023-03-01,232000,SA17 5PA,S,N,F,4,,Bro Pedr,Llandyfaelog,Kidwelly
+2023-02-27,90000,SA17 5BX,T,N,F,11,,Water Street,,Kidwelly
+2023-02-24,199995,SA17 4BA,S,Y,F,21,,Gerddi Gwenllian,Mynyddygarreg,Kidwelly
+2023-02-22,123000,SA17 5SD,S,N,F,2,,Wellfield Terrace,,Ferryside
+2023-02-22,295000,SA17 4PU,D,N,F,3,,Parc Y Garreg,,Kidwelly
+2023-02-17,225000,SA17 4BA,S,Y,F,25,,Gerddi Gwenllian,Mynyddygarreg,Kidwelly
+2023-02-10,260500,SA17 4JG,D,N,F,84,,Heol Y Plas,Carway,Kidwelly
+2023-02-03,225000,SA17 4BA,S,Y,F,19,,Gerddi Gwenllian,Mynyddygarreg,Kidwelly
+2023-01-31,95000,SA17 5AJ,F,N,L,7,,Porth Yr Castell,,Kidwelly
+2023-01-31,209950,SA17 4SF,T,N,F,Bryn Elfed,,,Four Roads,Kidwelly
+2023-01-31,185000,SA17 4AA,S,N,F,4,,Heol Llanelli,Trimsaran,Kidwelly
+2023-01-20,175000,SA17 4HJ,S,N,F,12,,Heol Dyffryn Aur,,Kidwelly
+2023-01-18,225000,SA17 4BA,S,Y,F,18,,Gerddi Gwenllian,Mynyddygarreg,Kidwelly
+2023-01-17,152500,SA17 5BJ,S,N,F,12,,Ferry Road,,Kidwelly
+2023-01-16,214995,SA17 4SU,T,N,F,38,,Causeway Street,,Kidwelly
+2023-01-12,150000,SA17 5TD,T,N,F,2,,Eva Terrace,,Ferryside
+2023-01-12,411500,SA17 5RR,D,N,F,Caradog Court,Can Y Mor,,,Ferryside
+2023-01-09,225000,SA17 5AX,T,N,F,12,,Castle Street,,Kidwelly
+2023-01-06,199995,SA17 4BA,S,Y,F,22,,Gerddi Gwenllian,Mynyddygarreg,Kidwelly
+2022-12-22,129950,SA17 4GB,T,N,F,47,,Rhodfar Ceffyl,Carway,Kidwelly
+2022-12-22,435000,SA17 4DY,D,N,F,"Y Forlais, 6",,Swn Y Nant,Trimsaran,Kidwelly
+2022-12-21,230000,SA17 5BS,D,N,F,Tyr Bocs,,,Crwbin,Kidwelly
+2022-12-21,138000,SA17 4DS,S,N,F,14,,Argoed Crescent,Trimsaran,Kidwelly
+2022-12-20,88000,SA17 4TU,T,N,F,26,,Ger Y Gwendraeth,,Kidwelly
+2022-12-20,199995,SA17 4BA,S,Y,F,23,,Gerddi Gwenllian,Mynyddygarreg,Kidwelly
+2022-12-19,120000,SA17 4AA,S,N,F,20,,Heol Llanelli,Trimsaran,Kidwelly
+2022-12-16,272500,SA17 4PA,D,N,F,Llygad Yr Odyn,,Heol Ray Gravell,Mynyddygarreg,Kidwelly
+2022-12-15,180000,SA17 5RX,F,N,L,Plas Caradog,Apartment 2,Caradog Court,,Ferryside
+2022-12-15,107700,SA17 4UH,T,N,F,20,,Station Road,,Kidwelly
+2022-12-15,165000,SA17 4DG,T,N,F,60,,Heol Morlais,Trimsaran,Kidwelly
+2022-12-15,375000,SA17 4BA,D,Y,F,1,,Gerddi Gwenllian,Mynyddygarreg,Kidwelly
+2022-12-14,85000,SA17 4HL,D,N,F,Danwen,,,Carway,Kidwelly
+2022-12-14,85000,SA17 4BW,T,N,F,6,,Maesyffynnon,Trimsaran,Kidwelly
+2022-12-13,195000,SA17 4PU,S,N,F,45,,Parc Y Garreg,,Kidwelly
+2022-12-12,199995,SA17 4BA,S,Y,F,20,,Gerddi Gwenllian,Mynyddygarreg,Kidwelly
+2022-12-09,74000,SA17 5HQ,F,N,L,"Chalet, 28",,Carmarthen Bay Holiday Park,,Kidwelly
+2022-12-06,225000,SA17 4BA,S,Y,F,24,,Gerddi Gwenllian,Mynyddygarreg,Kidwelly
+2022-11-30,190000,SA17 4PU,T,N,F,34,,Parc Y Garreg,,Kidwelly
+2022-11-30,195000,SA17 4GB,T,N,F,19,,Rhodfar Ceffyl,Carway,Kidwelly
+2022-11-30,399500,SA17 4EU,D,N,F,Windy Ridge,,,Trimsaran,Kidwelly
+2022-11-25,145000,SA17 4AF,T,N,F,170,,Garden Suburbs,Trimsaran,Kidwelly
+2022-11-18,255000,SA17 4AG,D,N,F,46,,Heol Llanelli,Trimsaran,Kidwelly
+2022-11-17,275000,SA17 5TE,D,N,F,Haulwen,,Carmarthen Road,,Ferryside
+2022-11-14,300000,SA17 5TE,D,N,F,Llysteg,,Carmarthen Road,,Ferryside
+2022-11-14,175000,SA17 4PU,T,N,F,75,,Parc Y Garreg,,Kidwelly
+2022-11-08,345000,SA17 5JA,D,N,F,40,,Heol Gwermont,Llansaint,Kidwelly
+2022-11-08,416000,SA17 5DQ,D,N,F,10,,New Street,,Kidwelly
+2022-11-08,320000,SA17 4AG,D,N,F,76,,Heol Llanelli,Trimsaran,Kidwelly
+2022-11-07,225000,SA17 5EQ,S,N,F,60,,Ferry Road,,Kidwelly
+2022-11-04,87000,SA17 4AF,S,N,F,186,,Garden Suburbs,Trimsaran,Kidwelly
+2022-10-28,300000,SA17 5LE,D,N,F,Black Horse,,,Meinciau,Kidwelly
+2022-10-28,235000,SA17 4SA,S,N,F,Glyncoed,1,,Four Roads,Kidwelly
+2022-10-26,154000,SA17 4JJ,S,N,F,13,,Ffordd Y Glowyr,Carway,Kidwelly
+2022-10-26,140000,SA17 4HY,T,N,F,21,,Heol Waungron,Carway,Kidwelly
+2022-10-25,340000,SA17 4UQ,D,N,F,1,,Llys Y Felin,,Kidwelly
+2022-10-14,100000,SA17 4TN,T,N,F,38,,Alstred Street,,Kidwelly
+2022-10-12,248000,SA17 5BX,S,N,F,49,,Water Street,,Kidwelly
+2022-10-12,80000,SA17 4TP,T,N,F,12,,Abbey Street,,Kidwelly
+2022-10-10,185000,SA17 4US,S,N,F,5,,Westhill Crescent,,Kidwelly
+2022-10-04,490000,SA17 4HS,D,N,F,Glen View,,,Carway,Kidwelly
+2022-09-30,120000,SA17 5RY,F,N,F,1,,Horton View,,Ferryside
+2022-09-30,180000,SA17 5RU,T,N,F,3,,Mount Pleasant,,Ferryside
+2022-09-30,116000,SA17 4UD,T,N,F,27,,Lady Street,,Kidwelly
+2022-09-23,210000,SA17 5JE,T,N,F,1,,Maes Yr Eglwys,Llansaint,Kidwelly
+2022-09-23,199995,SA17 4HY,D,N,F,9,,Heol Waungron,Carway,Kidwelly
+2022-09-21,178000,SA17 5SL,S,N,F,5,,Pale Cottages,,Ferryside
+2022-09-16,170000,SA17 4HY,S,N,F,30,,Heol Waungron,Carway,Kidwelly
+2022-09-09,100000,SA17 5AL,D,N,F,Ashgrove,,,,Kidwelly
+2022-09-08,145000,SA17 5BX,T,N,F,23,,Water Street,,Kidwelly
+2022-09-06,220000,SA17 4RL,D,N,F,Penygroes,,,Mynyddygarreg,Kidwelly
+2022-09-06,220000,SA17 4NY,D,N,F,Vistas Bungalow,,Horeb Road,Mynyddygarreg,Kidwelly
+2022-09-05,320000,SA17 5DE,D,N,F,Brodawel,,,Crwbin,Kidwelly
+2022-09-02,255000,SA17 4UQ,D,N,F,7,,Llys Y Felin,,Kidwelly
+2022-08-31,255000,SA17 4UQ,D,N,F,8,,Llys Y Felin,,Kidwelly
+2022-08-31,265000,SA17 4UQ,D,N,F,5,,Llys Y Felin,,Kidwelly
+2022-08-31,125000,SA17 4JG,S,N,F,38,,Heol Y Plas,Carway,Kidwelly
+2022-08-30,265000,SA17 4UQ,D,N,F,6,,Llys Y Felin,,Kidwelly
+2022-08-30,370000,SA17 4UQ,D,N,F,2,,Llys Y Felin,,Kidwelly
+2022-08-30,178750,SA17 4PU,T,N,F,32,,Parc Y Garreg,,Kidwelly
+2022-08-26,187500,SA17 5JN,D,N,F,Westdown,,Heol Llansaint,Llansaint,Kidwelly
+2022-08-26,225000,SA17 5DE,D,N,F,Brynbach,,,Crwbin,Kidwelly
+2022-08-26,225000,SA17 4UT,S,N,F,"The Hilary, 44",,Station Road,,Kidwelly
+2022-08-26,175000,SA17 4JA,T,N,F,59,,Dan Y Cwarre,Carway,Kidwelly
+2022-08-25,244000,SA17 5EQ,D,N,F,48,,Ferry Road,,Kidwelly
+2022-08-25,295000,SA17 4UQ,D,N,F,9,,Llys Y Felin,,Kidwelly
+2022-08-19,90000,SA17 4DF,T,N,F,37,,Heol Morlais,Trimsaran,Kidwelly
+2022-08-19,112000,SA17 4BH,S,N,F,29,,Coedyclun,Trimsaran,Kidwelly
+2022-08-18,87500,SA17 5RR,D,Y,F,19,,Caradog Court,,Ferryside
+2022-08-12,259950,SA17 4JG,D,N,F,56,,Heol Y Plas,Carway,Kidwelly
+2022-08-12,88000,SA17 4AE,D,N,F,145,,Garden Suburbs,Trimsaran,Kidwelly
+2022-08-11,165000,SA17 4JB,T,N,F,51,,Erwau'R Garn,Carway,Kidwelly
+2022-08-04,230000,SA17 4GA,D,N,F,4,,Rhodfar Ceffyl,Carway,Kidwelly
+2022-08-03,313000,SA17 5AU,D,N,F,Plas Y Gwiddel,,,,Kidwelly
+2022-08-02,185000,SA17 4TA,S,N,F,10,,Banc Pendre,,Kidwelly
+2022-07-29,212500,SA17 5SH,S,N,F,12,,Brigstocke Terrace,,Ferryside
+2022-07-29,296000,SA17 4PU,D,N,F,4,,Parc Y Garreg,,Kidwelly
+2022-07-25,295000,SA17 4UQ,D,N,F,4,,Llys Y Felin,,Kidwelly
+2022-07-22,265000,SA17 4UQ,D,N,F,3,,Llys Y Felin,,Kidwelly
+2022-07-20,475000,SA17 5BD,D,N,F,1,,Rhodfa Mount Pleasant,,Kidwelly
+2022-07-20,375000,SA17 4AZ,D,N,F,6,,Stockwell Forge,,Kidwelly
+2022-07-14,365000,SA17 4RA,D,N,F,Bayview,,Meinciau Road,Mynyddygarreg,Kidwelly
+2022-07-13,165000,SA17 5SH,T,N,F,1,,Brigstocke Terrace,,Ferryside
+2022-07-08,204999,SA17 5JG,T,N,F,5,,Heol Singleton,Llansaint,Kidwelly
+2022-07-06,85000,SA17 4LP,T,N,F,1,,Shintor Fach,Mynyddygarreg,Kidwelly
+2022-07-04,140000,SA17 4TP,S,N,F,11,,Abbey Street,,Kidwelly
+2022-07-01,205000,SA17 5LT,D,N,F,15,,The Ashes,Meinciau,Kidwelly
+2022-06-30,439995,SA17 5YJ,D,N,F,4,,Parc Y Gwenyn,,Ferryside
+2022-06-30,210000,SA17 5TF,D,N,F,"Gwynedd, 29",,Glanmorfa,,Ferryside
+2022-06-24,199950,SA17 5SW,S,N,F,1,,Coburg Villas,,Ferryside
+2022-06-24,200000,SA17 4GL,S,N,F,15,,Heol Waunhir,Carway,Kidwelly
+2022-06-21,143000,SA17 4PU,S,N,F,22,,Parc Y Garreg,,Kidwelly
+2022-06-13,170000,SA17 5DQ,D,N,F,2,,New Street,,Kidwelly
+2022-06-06,230000,SA17 4JA,D,N,F,38,,Dan Y Cwarre,Carway,Kidwelly
+2022-06-01,159950,SA17 5RR,F,N,L,Portway,Llety,,,Ferryside
+2022-06-01,250000,SA17 5EQ,D,N,F,52,,Ferry Road,,Kidwelly
+2022-05-30,131700,SA17 4JA,T,N,F,28,,Dan Y Cwarre,Carway,Kidwelly
+2022-05-27,165000,SA17 4JA,S,N,F,69,,Dan Y Cwarre,Carway,Kidwelly
+2022-05-25,124500,SA17 4HZ,T,N,F,7,,Ty Canol,Carway,Kidwelly
+2022-05-23,258000,SA17 4GA,D,N,F,2,,Rhodfar Ceffyl,Carway,Kidwelly
+2022-05-20,73000,SA17 4SU,S,N,F,8,,Causeway Street,,Kidwelly
+2022-05-13,193000,SA17 5TF,S,N,F,20,Ilchester,Glanmorfa,,Ferryside
+2022-05-11,175000,SA17 5SG,S,N,F,Tyllwyd,,,,Ferryside
+2022-05-11,150000,SA17 4HS,S,N,F,Rhodd Terfynol,,,Carway,Kidwelly
+2022-05-10,365000,SA17 5TQ,D,N,F,43,,Parc Y Ffynnon,,Ferryside
+2022-05-04,425000,SA17 5BD,D,N,F,3,,Rhodfa Mount Pleasant,,Kidwelly
+2022-04-29,300000,SA17 5SF,D,N,F,Y Traeth,,,,Ferryside
+2022-04-29,450000,SA17 4EU,D,N,F,Gwynfryn,,,Trimsaran,Kidwelly
+2022-04-27,230000,SA17 4HY,D,N,F,1,,Heol Waungron,Carway,Kidwelly
+2022-04-26,320000,SA17 5TT,D,N,F,15,,Glan Yr Ystrad,,Ferryside
+2022-04-25,79950,SA17 4UT,S,N,F,28,,Station Road,,Kidwelly
+2022-04-25,195000,SA17 4JB,T,N,F,57,,Erwau'R Garn,Carway,Kidwelly
+2022-04-19,187000,SA17 4ST,D,N,F,21,,Clos Yr Onnen,,Kidwelly
+2022-04-14,218995,SA17 4HJ,D,Y,F,10,,Heol Dyffryn Aur,,Kidwelly
+2022-04-12,170000,SA17 4TT,S,N,F,24,,Ger Y Castell,,Kidwelly
+2022-04-11,120000,SA17 4UT,T,N,F,13,,Station Road,,Kidwelly
+2022-04-08,485000,SA17 5SU,D,N,F,4,,Vicarage Close,,Ferryside
+2022-04-08,350000,SA17 5EX,D,N,F,Swn Y Mor,,,,Kidwelly
+2022-04-08,144000,SA17 4HE,D,N,F,Cartref,,,Carway,Kidwelly
+2022-04-01,300000,SA17 5TF,D,N,F,31,,Glanmorfa,,Ferryside
+2022-04-01,95000,SA17 4TU,T,N,F,41,,Ger Y Gwendraeth,,Kidwelly
+2022-04-01,130000,SA17 4HT,S,N,F,27,,Bron Gwendraeth,Carway,Kidwelly
+2022-03-31,115000,SA17 4YB,S,N,F,2,,Morfa Lane,,Kidwelly
+2022-03-31,190000,SA17 4TW,D,N,F,12,,Monksford Street,,Kidwelly
+2022-03-30,149500,SA17 5SD,T,N,F,4,,Wellfield Terrace,,Ferryside
+2022-03-29,245000,SA17 4SR,D,N,F,17,,Rhodfa'R Gwendraeth,,Kidwelly
+2022-03-25,98000,SA17 5JG,T,N,F,6,,Heol Singleton,Llansaint,Kidwelly
+2022-03-25,149995,SA17 4JJ,S,Y,F,36,,Ffordd Y Glowyr,Carway,Kidwelly
+2022-03-25,149995,SA17 4JJ,S,Y,F,34,,Ffordd Y Glowyr,Carway,Kidwelly
+2022-03-25,239995,SA17 4JJ,D,Y,F,32,,Ffordd Y Glowyr,Carway,Kidwelly
+2022-03-25,145000,SA17 4HZ,S,N,F,4,,Ty Canol,Carway,Kidwelly
+2022-03-25,150000,SA17 4HY,S,N,F,2,,Heol Waungron,Carway,Kidwelly
+2022-03-25,107000,SA17 4AB,S,N,F,29,,Garden Suburbs,Trimsaran,Kidwelly
+2022-03-22,408000,SA17 4EU,D,N,F,Bryn-Yr-Haul,,,Trimsaran,Kidwelly
+2022-03-18,249995,SA17 4SR,D,N,F,2,,Rhodfa'R Gwendraeth,,Kidwelly
+2022-03-18,375000,SA17 4SF,D,N,F,Penllyn,,,Four Roads,Kidwelly
+2022-03-16,102000,SA17 4DF,T,N,F,15,,Heol Morlais,Trimsaran,Kidwelly
+2022-03-14,135000,SA17 5RR,T,N,F,Portway,Bwthyn Bach,,,Ferryside
+2022-03-11,240000,SA17 5ST,S,N,F,Dene Cliff,,,,Ferryside
+2022-03-11,67000,SA17 4TE,F,N,L,78,,Parc Pendre,,Kidwelly
+2022-03-11,360000,SA17 4SF,D,N,F,Bron Dre,,,Four Roads,Kidwelly
+2022-03-09,250000,SA17 4AL,D,N,F,7,,Pleasant View,Trimsaran,Kidwelly
+2022-03-04,285000,SA17 4HW,D,N,F,Ty Ni,,,Carway,Kidwelly
+2022-03-03,150000,SA17 5RU,S,N,F,5,,Mount Pleasant,,Ferryside
+2022-02-28,182000,SA17 4AG,S,N,F,46B,,Heol Llanelli,Trimsaran,Kidwelly
+2022-02-24,129995,SA17 4JG,S,N,F,12,,Heol Y Plas,Carway,Kidwelly
+2022-02-22,540000,SA17 4DY,D,N,F,1,,Swn Y Nant,Trimsaran,Kidwelly
+2022-02-18,143000,SA17 4JG,S,N,F,14,,Heol Y Plas,Carway,Kidwelly
+2022-02-17,92637,SA17 4GH,T,N,F,20,,Heol Waunhir,Carway,Kidwelly
+2022-02-14,72500,SA17 4UU,T,N,F,27,,Bridge Street,,Kidwelly
+2022-02-11,140000,SA17 4HY,T,N,F,29,,Heol Waungron,Carway,Kidwelly
+2022-02-04,169995,SA17 4PU,T,N,F,5,,Parc Y Garreg,,Kidwelly
+2022-02-04,130000,SA17 4AA,S,N,F,16,,Heol Llanelli,Trimsaran,Kidwelly
+2022-01-31,237500,SA17 4AX,D,N,F,9,,Ffordd Maes Gwilym,Carway,Kidwelly
+2022-01-28,715000,SA17 5PF,D,N,F,Gwendre Fechan,,,Llandyfaelog,Kidwelly
+2022-01-28,269950,SA17 5JD,D,N,F,2,,Heol Llansaint,Llansaint,Kidwelly
+2022-01-28,190000,SA17 4JA,D,N,F,75,,Dan Y Cwarre,Carway,Kidwelly
+2022-01-28,245000,SA17 4AG,D,N,F,45,,Heol Llanelli,Trimsaran,Kidwelly
+2022-01-27,195000,SA17 5TJ,S,N,F,1,,Glan Tywi Uchaf,,Ferryside
+2022-01-20,334000,SA17 5DP,D,N,F,Delfryn,,,,Kidwelly
+2022-01-20,172500,SA17 5DG,S,N,F,4,,Heol Dyddgen,Crwbin,Kidwelly
+2022-01-11,170000,SA17 4UR,S,N,F,86,,Station Road,,Kidwelly
+2021-12-22,156750,SA17 4GL,D,N,F,9,,Heol Waunhir,Carway,Kidwelly
+2021-12-21,185000,SA17 4AG,T,N,F,46A,,Heol Llanelli,Trimsaran,Kidwelly
+2021-12-20,70000,SA17 4AD,S,N,F,57,,Garden Suburbs,Trimsaran,Kidwelly
+2021-12-17,252500,SA17 5RN,D,N,F,Red House,,,,Ferryside
+2021-12-17,275000,SA17 5EG,D,N,F,3,,Cae Ffynnon,,Kidwelly
+2021-12-17,128500,SA17 4JJ,S,Y,F,40,,Ffordd Y Glowyr,Carway,Kidwelly
+2021-12-17,128500,SA17 4JJ,S,Y,F,38,,Ffordd Y Glowyr,Carway,Kidwelly
+2021-12-17,129995,SA17 4JA,T,N,F,5,,Dan Y Cwarre,Carway,Kidwelly
+2021-12-17,149995,SA17 4HJ,S,Y,F,11,,Heol Dyffryn Aur,,Kidwelly
+2021-12-15,123000,SA17 4HW,S,N,F,Tawelfan,2,,Carway,Kidwelly
+2021-12-10,118000,SA17 5JE,D,N,F,11,,Maes Yr Eglwys,Llansaint,Kidwelly
+2021-12-10,179995,SA17 4JJ,D,Y,F,30,,Ffordd Y Glowyr,Carway,Kidwelly
+2021-12-10,114795,SA17 4HY,T,N,F,22,,Heol Waungron,Carway,Kidwelly
+2021-12-07,135000,SA17 5AL,D,N,F,Sunny Mead,,,,Kidwelly
+2021-12-06,152000,SA17 4HY,S,N,F,11,,Heol Waungron,Carway,Kidwelly
+2021-12-06,123500,SA17 4AA,S,N,F,10,,Heol Llanelli,Trimsaran,Kidwelly
+2021-12-03,381295,SA17 5HH,D,N,F,Golwg Y Bryn,,,Llangyndeyrn,Kidwelly
+2021-12-03,400000,SA17 4UP,D,N,F,20,,Park View Drive,,Kidwelly
+2021-12-01,370000,SA17 5TQ,D,N,F,31,,Parc Y Ffynnon,,Ferryside
+2021-12-01,406000,SA17 4UP,D,N,F,16,,Park View Drive,,Kidwelly
+2021-12-01,159995,SA17 4TN,T,N,F,The Coach House,1A,Alstred Street,,Kidwelly
+2021-11-26,205000,SA17 5SH,S,N,F,10,,Brigstocke Terrace,,Ferryside
+2021-11-26,194995,SA17 4JJ,D,Y,F,42,,Ffordd Y Glowyr,Carway,Kidwelly
+2021-11-26,124995,SA17 4JJ,S,Y,F,28,,Ffordd Y Glowyr,Carway,Kidwelly
+2021-11-19,115000,SA17 4UB,T,N,F,16,,Gwendraeth Town,,Kidwelly
+2021-11-19,119995,SA17 4JJ,T,Y,F,44,,Ffordd Y Glowyr,Carway,Kidwelly
+2021-11-19,124995,SA17 4JJ,S,Y,F,26,,Ffordd Y Glowyr,Carway,Kidwelly
+2021-11-18,261000,SA17 5HY,D,N,F,Halfway House,,,Pontantwn,Kidwelly
+2021-11-18,165000,SA17 4AQ,D,N,F,4,,Cae Linda,Trimsaran,Kidwelly
+2021-11-15,45000,SA17 5HQ,S,N,L,211,,Carmarthen Bay Holiday Park,,Kidwelly
+2021-11-12,530000,SA17 5AP,D,N,F,Y Wern,,,,Kidwelly
+2021-11-12,395000,SA17 4UP,D,N,F,19,,Park View Drive,,Kidwelly
+2021-11-12,125000,SA17 4HD,S,N,F,Bronwydd,,,Carway,Kidwelly
+2021-11-10,245000,SA17 4GH,D,N,F,2,,Heol Waunhir,Carway,Kidwelly
+2021-11-02,146000,SA17 4UL,T,N,F,8,,Hillfield Villas,,Kidwelly
+2021-11-01,105000,SA17 5JA,T,N,F,30,,Heol Gwermont,Llansaint,Kidwelly
+2021-10-29,335000,SA17 5EQ,D,N,F,47,,Ferry Road,,Kidwelly
+2021-10-29,170000,SA17 4UX,S,N,F,10,,Llys Y Foryd,,Kidwelly
+2021-10-29,174995,SA17 4JJ,D,Y,F,24,,Ffordd Y Glowyr,Carway,Kidwelly
+2021-10-29,199995,SA17 4JJ,D,Y,F,22,,Ffordd Y Glowyr,Carway,Kidwelly
+2021-10-29,184995,SA17 4JJ,D,Y,F,20,,Ffordd Y Glowyr,Carway,Kidwelly
+2021-10-28,128000,SA17 4PU,T,N,F,28,,Parc Y Garreg,,Kidwelly
+2021-10-22,118000,SA17 5BX,D,N,F,39,,Water Street,,Kidwelly
+2021-10-19,310000,SA17 5BZ,D,N,F,122,,Water Street,,Kidwelly
+2021-10-15,160000,SA17 4JA,D,N,F,39,,Dan Y Cwarre,Carway,Kidwelly
+2021-10-14,160000,SA17 4GH,S,N,F,8,,Heol Waunhir,Carway,Kidwelly
+2021-10-12,278000,SA17 4SR,D,N,F,35,,Rhodfa'R Gwendraeth,,Kidwelly
+2021-10-12,120000,SA17 4DF,T,N,F,21,,Heol Morlais,Trimsaran,Kidwelly
+2021-10-11,150000,SA17 4UH,S,N,F,24,,Station Road,,Kidwelly
+2021-10-08,130000,SA17 4JG,T,N,F,94,,Heol Y Plas,Carway,Kidwelly
+2021-10-06,230000,SA17 5SF,D,N,F,Beachside,,,,Ferryside
+2021-09-30,499500,SA17 5EQ,D,N,F,82,,Ferry Road,,Kidwelly
+2021-09-30,80000,SA17 4TY,T,N,F,56,,Priory Street,,Kidwelly
+2021-09-30,114995,SA17 4JJ,T,Y,F,48,,Ffordd Y Glowyr,Carway,Kidwelly
+2021-09-30,109995,SA17 4JJ,T,Y,F,46,,Ffordd Y Glowyr,Carway,Kidwelly
+2021-09-29,110000,SA17 5JA,T,N,F,24,,Heol Gwermont,Llansaint,Kidwelly
+2021-09-29,385000,SA17 5HR,D,N,F,Manoravon,,,Pontantwn,Kidwelly
+2021-09-28,250000,SA17 4SS,D,N,F,4,,Clos Y Dderwen,,Kidwelly
+2021-09-24,160000,SA17 4UD,T,N,F,35,,Lady Street,,Kidwelly
+2021-09-24,295000,SA17 4SF,D,N,F,Cefngoleu,,,Four Roads,Kidwelly
+2021-09-24,172995,SA17 4JJ,D,Y,F,18,,Ffordd Y Glowyr,Carway,Kidwelly
+2021-09-23,213000,SA17 4UD,T,N,F,45,,Lady Street,,Kidwelly
+2021-09-21,277500,SA17 4PU,D,N,F,99,,Parc Y Garreg,,Kidwelly
+2021-09-17,78000,SA17 4UT,T,N,F,30,,Station Road,,Kidwelly
+2021-09-17,155000,SA17 4JB,T,N,F,55,,Erwau'R Garn,Carway,Kidwelly
+2021-09-13,182000,SA17 4DP,S,N,F,7,,Maes Tomos,Trimsaran,Kidwelly
+2021-09-10,130000,SA17 4UU,T,N,F,4,,Bridge Street,,Kidwelly
+2021-09-10,398000,SA17 4UF,D,N,F,64,,Morfa Maen,,Kidwelly
+2021-09-08,139995,SA17 4JA,T,N,F,24,,Dan Y Cwarre,Carway,Kidwelly
+2021-09-07,350000,SA17 5TQ,D,N,F,37,,Parc Y Ffynnon,,Ferryside
+2021-09-03,107000,SA17 4HY,S,N,F,13,,Heol Waungron,Carway,Kidwelly
+2021-09-02,260000,SA17 4TY,D,N,F,90,,Priory Street,,Kidwelly
+2021-09-01,140000,SA17 5SN,T,N,F,6,,Hall Terrace,,Ferryside
+2021-09-01,125000,SA17 4JG,T,N,F,96,,Heol Y Plas,Carway,Kidwelly
+2021-08-31,160000,SA17 4JA,D,N,F,26,,Dan Y Cwarre,Carway,Kidwelly
+2021-08-27,415000,SA17 4SF,D,N,F,The Oaks,,,Four Roads,Kidwelly
+2021-08-27,189995,SA17 4JJ,D,Y,F,50,,Ffordd Y Glowyr,Carway,Kidwelly
+2021-08-27,128500,SA17 4JJ,S,Y,F,16,,Ffordd Y Glowyr,Carway,Kidwelly
+2021-08-27,103995,SA17 4GB,T,Y,F,47,,Rhodfar Ceffyl,Carway,Kidwelly
+2021-08-27,107995,SA17 4GB,T,Y,F,45,,Rhodfar Ceffyl,Carway,Kidwelly
+2021-08-26,128500,SA17 4SE,S,N,F,Nantymynydd,4,,Four Roads,Kidwelly
+2021-08-25,110000,SA17 4HY,T,N,F,24,,Heol Waungron,Carway,Kidwelly
+2021-08-24,135995,SA17 4GB,S,Y,F,43,,Rhodfar Ceffyl,Carway,Kidwelly
+2021-08-24,124950,SA17 4AG,S,N,F,49,,Heol Llanelli,Trimsaran,Kidwelly
+2021-08-23,109995,SA17 4GB,T,Y,F,49,,Rhodfar Ceffyl,Carway,Kidwelly
+2021-08-20,217500,SA17 4JB,D,N,F,8,,Erwau'R Garn,Carway,Kidwelly
+2021-08-20,217000,SA17 4HY,D,N,F,7,,Heol Waungron,Carway,Kidwelly
+2021-08-20,214995,SA17 4GB,D,Y,F,39,,Rhodfar Ceffyl,Carway,Kidwelly
+2021-08-20,215000,SA17 4DL,D,N,F,Miners Arms,,,Trimsaran,Kidwelly
+2021-08-19,146500,SA17 4BW,T,N,F,4,,Maesyffynnon,Trimsaran,Kidwelly
+2021-08-18,179995,SA17 4GB,D,Y,F,35,,Rhodfar Ceffyl,Carway,Kidwelly
+2021-08-17,50000,SA17 5HQ,D,N,F,"Chalet, 25",,Carmarthen Bay Holiday Park,,Kidwelly
+2021-08-16,174995,SA17 4JJ,D,Y,F,12,,Ffordd Y Glowyr,Carway,Kidwelly
+2021-08-13,135995,SA17 4GB,S,Y,F,41,,Rhodfar Ceffyl,Carway,Kidwelly
+2021-08-13,179995,SA17 4GB,D,Y,F,37,,Rhodfar Ceffyl,Carway,Kidwelly
+2021-08-12,192000,SA17 5TD,S,Y,F,Hafod,,Eva Terrace,,Ferryside
+2021-08-10,205000,SA17 4JA,D,N,F,38,,Dan Y Cwarre,Carway,Kidwelly
+2021-08-06,125000,SA17 4AG,D,N,F,25A,,Heol Llanelli,Trimsaran,Kidwelly
+2021-08-04,400000,SA17 5BD,D,N,F,2,,Rhodfa Mount Pleasant,,Kidwelly
+2021-08-04,115000,SA17 4TR,T,N,F,13,,Priory Street,,Kidwelly
+2021-08-04,133500,SA17 4HY,T,N,F,37,,Heol Waungron,Carway,Kidwelly
+2021-07-30,310000,SA17 5DR,D,N,F,Golwg Y Garn,,,Crwbin,Kidwelly
+2021-07-30,120000,SA17 4TR,S,N,F,3,,Priory Street,,Kidwelly
+2021-07-30,76000,SA17 4TR,T,N,F,19,,Priory Street,,Kidwelly
+2021-07-30,134995,SA17 4JJ,S,Y,F,37,,Ffordd Y Glowyr,Carway,Kidwelly
+2021-07-30,133995,SA17 4JJ,S,Y,F,33,,Ffordd Y Glowyr,Carway,Kidwelly
+2021-07-30,127995,SA17 4JJ,S,Y,F,31,,Ffordd Y Glowyr,Carway,Kidwelly
+2021-07-30,135000,SA17 4JB,S,N,F,14,,Erwau'R Garn,Carway,Kidwelly
+2021-07-30,93000,SA17 4AF,S,N,F,176,,Garden Suburbs,Trimsaran,Kidwelly
+2021-07-26,185000,SA17 4PU,S,N,F,45,,Parc Y Garreg,,Kidwelly
+2021-07-26,100000,SA17 4PB,S,N,F,13,,Horeb Road,Mynyddygarreg,Kidwelly
+2021-07-23,90000,SA17 4UB,T,N,F,24,,Gwendraeth Town,,Kidwelly
+2021-07-23,132995,SA17 4JJ,S,Y,F,35,,Ffordd Y Glowyr,Carway,Kidwelly
+2021-07-20,130000,SA17 4JG,T,N,F,98,,Heol Y Plas,Carway,Kidwelly
+2021-07-16,215000,SA17 4RJ,D,N,F,10,,Golwg Y Twr,Mynyddygarreg,Kidwelly
+2021-07-13,168000,SA17 5LF,D,N,F,Asgard,,,Meinciau,Kidwelly
+2021-07-09,85000,SA17 4HG,S,N,F,42,,Maes Y Wern,Carway,Kidwelly
+2021-07-08,248000,SA17 4SF,D,N,F,Tegfan,,,Four Roads,Kidwelly
+2021-07-01,220000,SA17 5LU,D,N,F,5,,Maes Hywel,Meinciau,Kidwelly
+2021-06-30,178000,SA17 4JB,D,N,F,20,,Erwau'R Garn,Carway,Kidwelly
+2021-06-29,174000,SA17 5TF,S,N,F,19,,Glanmorfa,,Ferryside
+2021-06-29,115000,SA17 4UN,S,N,F,86,,Hillfield Villas,,Kidwelly
+2021-06-28,82000,SA17 4DP,S,N,F,4,,Maes Tomos,Trimsaran,Kidwelly
+2021-06-25,400000,SA17 5EJ,D,N,F,"Llys Cernyw, 2",,Avalon Court,,Kidwelly
+2021-06-25,217500,SA17 4UP,D,N,F,15,,Park View Drive,,Kidwelly
+2021-06-25,158995,SA17 4JJ,D,Y,F,29,,Ffordd Y Glowyr,Carway,Kidwelly
+2021-06-25,184995,SA17 4JJ,D,Y,F,27,,Ffordd Y Glowyr,Carway,Kidwelly
+2021-06-25,189995,SA17 4JJ,D,Y,F,25,,Ffordd Y Glowyr,Carway,Kidwelly
+2021-06-25,129000,SA17 4BH,T,N,F,10,,Coedyclun,Trimsaran,Kidwelly
+2021-06-25,165000,SA17 4BE,S,N,F,5,,Heol Waunyclun,Trimsaran,Kidwelly
+2021-06-23,85500,SA17 4DG,T,N,F,40,,Heol Morlais,Trimsaran,Kidwelly
+2021-06-22,247000,SA17 4GL,D,N,F,1,,Heol Waunhir,Carway,Kidwelly
+2021-06-18,110000,SA17 4TR,T,N,F,23,,Priory Street,,Kidwelly
+2021-06-11,179950,SA17 4PU,S,N,F,47,,Parc Y Garreg,,Kidwelly
+2021-06-11,145995,SA17 4JJ,S,Y,F,23,,Ffordd Y Glowyr,Carway,Kidwelly
+2021-06-11,145995,SA17 4JJ,S,Y,F,21,,Ffordd Y Glowyr,Carway,Kidwelly
+2021-06-08,192500,SA17 4HX,D,N,F,4,,Allt Y Sgrech,,Kidwelly
+2021-06-08,151000,SA17 4BR,S,N,F,42,,Heol Waunyclun,Trimsaran,Kidwelly
+2021-06-04,160000,SA17 5RU,D,N,F,1,,Mount Pleasant,,Ferryside
+2021-06-04,185000,SA17 4PU,D,N,F,79,,Parc Y Garreg,,Kidwelly
+2021-06-04,169950,SA17 4JB,D,N,F,4,,Erwau'R Garn,Carway,Kidwelly
+2021-05-28,171000,SA17 5SY,S,N,F,4,,Llys Holcwm,,Ferryside
+2021-05-28,170000,SA17 5PR,S,N,F,Green Castle,,,Llandyfaelog,Kidwelly
+2021-05-28,250000,SA17 4RA,D,N,F,Swn Y Gwynt,,Meinciau Road,Mynyddygarreg,Kidwelly
+2021-05-28,149995,SA17 4GH,D,N,F,36,,Heol Waunhir,Carway,Kidwelly
+2021-05-27,110000,SA17 4DF,T,N,F,45,,Heol Morlais,Trimsaran,Kidwelly
+2021-05-27,232000,SA17 4DA,D,N,F,Y Berllan,,Culla Road,Trimsaran,Kidwelly
+2021-05-26,126000,SA17 5SD,T,N,F,"Cuttlefish Cottage, 6",,Wellfield Terrace,,Ferryside
+2021-05-25,375000,SA17 5EF,D,N,F,4,,Castle Court,,Kidwelly
+2021-05-24,163000,SA17 4JJ,D,Y,F,19,,Ffordd Y Glowyr,Carway,Kidwelly
+2021-05-24,225000,SA17 4JB,D,N,F,9,,Erwau'R Garn,Carway,Kidwelly
+2021-05-21,132995,SA17 4JJ,S,Y,F,6,,Ffordd Y Glowyr,Carway,Kidwelly
+2021-05-21,169995,SA17 4JJ,D,Y,F,10,,Ffordd Y Glowyr,Carway,Kidwelly
+2021-05-19,225000,SA17 5SP,S,N,F,Marine Cliff,,,,Ferryside
+2021-05-18,132995,SA17 4JJ,S,Y,F,8,,Ffordd Y Glowyr,Carway,Kidwelly
+2021-05-14,186995,SA17 4JJ,D,Y,F,15,,Ffordd Y Glowyr,Carway,Kidwelly
+2021-05-13,200000,SA17 5TF,D,N,F,9,,Glanmorfa,,Ferryside
+2021-05-13,150000,SA17 4PB,S,N,F,27,,Horeb Road,Mynyddygarreg,Kidwelly
+2021-05-10,200000,SA17 4HY,D,N,F,3,,Heol Waungron,Carway,Kidwelly
+2021-05-07,157995,SA17 4JJ,D,Y,F,17,,Ffordd Y Glowyr,Carway,Kidwelly
+2021-05-07,102500,SA17 4JJ,S,Y,F,1,,Ffordd Y Glowyr,Carway,Kidwelly
+2021-05-05,160000,SA17 5TJ,S,N,F,2,,Glan Tywi Uchaf,,Ferryside
+2021-05-05,124500,SA17 5RR,T,N,F,Portway,Bwthyn Bach,,,Ferryside
+2021-05-05,149995,SA17 4BE,S,N,F,14,,Heol Waunyclun,Trimsaran,Kidwelly
+2021-05-05,217000,SA17 4AX,D,N,F,13,,Ffordd Maes Gwilym,Carway,Kidwelly
+2021-05-04,170000,SA17 4BE,D,N,F,1A,,Heol Waunyclun,Trimsaran,Kidwelly
+2021-04-30,260000,SA17 4TY,D,N,F,Fairacre,,Priory Street,,Kidwelly
+2021-04-30,105000,SA17 4BL,D,N,F,39,,Heol Waunyclun,Trimsaran,Kidwelly
+2021-04-29,59950,SA17 4TE,F,N,L,63,,Parc Pendre,,Kidwelly
+2021-04-29,165000,SA17 4AQ,D,N,F,12,,Cae Linda,Trimsaran,Kidwelly
+2021-04-28,119950,SA17 4HY,S,N,F,2,,Heol Waungron,Carway,Kidwelly
+2021-04-27,112000,SA17 4BS,T,N,F,"Dan Y Bryn, 75",,Heol Waunyclun,Trimsaran,Kidwelly
+2021-04-26,102000,SA17 4JG,T,Y,F,98,,Heol Y Plas,Carway,Kidwelly
+2021-04-26,102000,SA17 4JG,T,Y,F,94,,Heol Y Plas,Carway,Kidwelly
+2021-04-23,245000,SA17 4TY,D,N,F,98,,Priory Street,,Kidwelly
+2021-04-23,525000,SA17 4LA,D,N,F,Tyr Eithin Farm,,,Trimsaran,Kidwelly
+2021-04-23,162000,SA17 4JG,D,Y,F,92,,Heol Y Plas,Carway,Kidwelly
+2021-04-23,250000,SA17 4AQ,D,N,F,2,,Cae Linda,Trimsaran,Kidwelly
+2021-04-22,95000,SA17 4JG,T,Y,F,96,,Heol Y Plas,Carway,Kidwelly
+2021-04-21,105000,SA17 5JA,S,N,F,9,,Heol Gwermont,Llansaint,Kidwelly
+2021-04-16,72200,SA17 4GB,F,N,L,11A,,Rhodfar Ceffyl,Carway,Kidwelly
+2021-04-14,172500,SA17 4DW,D,N,F,20,,Bryncaerau,Trimsaran,Kidwelly
+2021-04-13,155000,SA17 4AG,S,N,F,48,,Heol Llanelli,Trimsaran,Kidwelly
+2021-04-09,380000,SA17 5ST,D,N,F,Gothic Villa,,,,Ferryside
+2021-04-09,151000,SA17 4JA,T,N,F,48,,Dan Y Cwarre,Carway,Kidwelly
+2021-04-07,104000,SA17 4HZ,T,N,F,8,,Ty Canol,Carway,Kidwelly
+2021-03-31,150000,SA17 5TF,S,N,F,14,,Glanmorfa,,Ferryside
+2021-03-31,206995,SA17 4JG,D,Y,F,84,,Heol Y Plas,Carway,Kidwelly
+2021-03-30,95000,SA17 4UH,T,N,F,12,,Station Road,,Kidwelly
+2021-03-26,207995,SA17 4JG,D,Y,F,90,,Heol Y Plas,Carway,Kidwelly
+2021-03-26,171995,SA17 4JG,D,Y,F,88,,Heol Y Plas,Carway,Kidwelly
+2021-03-26,165000,SA17 4JG,D,Y,F,86,,Heol Y Plas,Carway,Kidwelly
+2021-03-26,129950,SA17 4GL,S,N,F,3,,Heol Waunhir,Carway,Kidwelly
+2021-03-26,80000,SA17 4DG,T,N,F,8,,Heol Morlais,Trimsaran,Kidwelly
+2021-03-26,163000,SA17 4AL,S,N,F,5,,Pleasant View,Trimsaran,Kidwelly
+2021-03-24,359950,SA17 5SL,D,N,F,Beach House,,,,Ferryside
+2021-03-19,205000,SA17 5PT,D,N,F,Blackbush,,,Llandyfaelog,Kidwelly
+2021-03-19,138000,SA17 4RJ,T,N,F,22,,Golwg Y Twr,Mynyddygarreg,Kidwelly
+2021-03-15,132000,SA17 5BJ,S,N,F,44,,Ferry Road,,Kidwelly
+2021-03-15,98000,SA17 4JA,T,N,F,21,,Dan Y Cwarre,Carway,Kidwelly
+2021-03-12,192000,SA17 4NY,D,N,F,Court House,,Horeb Road,Mynyddygarreg,Kidwelly
+2021-03-09,360000,SA17 4SF,D,N,F,Pantymaen,,,Four Roads,Kidwelly
+2021-03-05,265000,SA17 5UD,D,N,F,Bryneryl,3,,,Ferryside
+2021-03-05,215000,SA17 5LF,D,N,F,Meinciau Mawr,1 Cwmbach,,Meinciau,Kidwelly
+2021-03-04,180000,SA17 4PU,D,N,F,53,,Parc Y Garreg,,Kidwelly
+2021-02-26,204995,SA17 4JG,D,Y,F,82,,Heol Y Plas,Carway,Kidwelly
+2021-02-26,183495,SA17 4JG,D,Y,F,78,,Heol Y Plas,Carway,Kidwelly
+2021-02-23,200000,SA17 4PU,D,N,F,39,,Parc Y Garreg,,Kidwelly
+2021-02-22,204995,SA17 4JG,D,Y,F,80,,Heol Y Plas,Carway,Kidwelly
+2021-02-22,127000,SA17 4JA,T,N,F,79,,Dan Y Cwarre,Carway,Kidwelly
+2021-02-22,78000,SA17 4GB,F,N,L,11C,,Rhodfar Ceffyl,Carway,Kidwelly
+2021-02-16,310000,SA17 4RF,D,N,F,Sanctuaire De Paix,,Horeb Road,Mynyddygarreg,Kidwelly
+2021-02-12,85000,SA17 4DG,S,N,F,16,,Heol Morlais,Trimsaran,Kidwelly
+2021-02-11,100000,SA17 4SF,D,N,F,Oakland,,,Four Roads,Kidwelly
+2021-02-05,175000,SA17 5DP,D,N,F,Emlyn Villa,,,,Kidwelly
+2021-02-05,126000,SA17 5BJ,T,N,F,24,,Ferry Road,,Kidwelly
+2021-02-05,90000,SA17 4SU,T,N,F,64,,Causeway Street,,Kidwelly
+2021-02-01,130000,SA17 5JQ,D,N,F,Cartrefle,,Y Croft,Llansaint,Kidwelly
+2021-01-29,355000,SA17 4NR,D,N,F,Ty Rhydodyn,,Rhydodyn,Mynyddygarreg,Kidwelly
+2021-01-29,78000,SA17 4DG,T,N,F,58,,Heol Morlais,Trimsaran,Kidwelly
+2021-01-22,88500,SA17 4HF,T,N,F,20,,Maes Y Wern,Carway,Kidwelly
+2021-01-20,183495,SA17 4JG,D,Y,F,54,,Heol Y Plas,Carway,Kidwelly
+2021-01-14,139995,SA17 4JG,S,Y,F,15,,Heol Y Plas,Carway,Kidwelly
+2021-01-13,250000,SA17 5EQ,D,N,F,54,,Ferry Road,,Kidwelly
+2021-01-08,289000,SA17 5PW,S,N,F,Preswylfa,,,Llandyfaelog,Kidwelly

@@ -1,0 +1,775 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-25,580000,LA23 2ND,D,N,F,87,,Windermere Park,,Windermere
+2026-08-21,255000,LA23 1QB,F,N,L,Merewood Lodge,4,Ecclerigg,,Windermere
+2026-08-14,330000,LA23 2AZ,S,N,F,25,,Oldfield Road,,Windermere
+2026-08-11,355000,LA23 2DN,S,N,F,41,,Thornthwaite Road,,Windermere
+2026-07-27,545000,LA23 3AL,T,N,F,8,,Fairfield,Bowness On Windermere,Windermere
+2026-07-21,310000,LA23 2DG,F,N,L,Lynstead,2,Thornbarrow Road,,Windermere
+2026-07-17,455000,LA23 2BU,S,N,F,Ballure,,Brook Road,,Windermere
+2026-07-10,217500,LA23 2LZ,T,N,F,32,,Mill Brow,Droomer,Windermere
+2026-07-10,750000,LA23 1NH,D,N,F,Fernrigg,,Patterdale Road,,Windermere
+2026-07-10,202000,LA23 1DR,F,N,L,18,,Cumbria Court,,Windermere
+2026-07-01,525000,LA23 3BF,F,N,L,28,,Windward Way,,Windermere
+2026-06-30,335000,LA23 2DS,S,N,F,38,,Victoria Road North,,Windermere
+2026-06-30,162621,LA23 1EH,T,N,F,28,,Havelock Road,,Windermere
+2026-06-26,220000,LA23 3AX,F,N,L,125,,Craig Walk,Bowness On Windermere,Windermere
+2026-06-26,315000,LA23 2LP,T,N,F,61,,Droomer Drive,,Windermere
+2026-06-26,132000,LA23 1JE,F,N,L,207,,Elleray Gardens,,Windermere
+2026-06-23,856000,LA23 3PP,D,N,F,1,,Tower View,,Windermere
+2026-06-09,370000,LA23 2JQ,D,N,F,4,,South Craig,,Windermere
+2026-05-26,400000,LA23 2DH,D,N,F,Yewtrees,,Park Road,,Windermere
+2026-05-13,420000,LA23 2BB,T,N,F,Green Moss,7,Oakthwaite Road,,Windermere
+2026-04-29,230000,LA23 3QP,F,N,L,2,,Bellman Close,,Windermere
+2026-04-27,599950,LA23 2ND,D,N,F,72,,Windermere Park,,Windermere
+2026-04-24,690000,LA23 1AY,D,N,F,21,,St Marys Park,,Windermere
+2026-04-21,750000,LA23 3LS,D,N,F,Tullabrig,,Black Beck Wood,,Windermere
+2026-04-15,209000,LA23 1EP,F,N,L,2,,Bannerigg,,Windermere
+2026-04-10,747428,LA23 3ES,D,N,F,Crofton,,Ferney Green,Bowness On Windermere,Windermere
+2026-04-10,645000,LA23 2NB,D,N,F,1,,Windermere Park,,Windermere
+2026-04-10,480000,LA23 2DQ,D,N,F,Arandale,,Thornbarrow Road,,Windermere
+2026-04-09,700000,LA23 3ES,D,N,F,Baddeley Cottage,,Ferney Green,Bowness On Windermere,Windermere
+2026-04-08,475000,LA23 2DQ,D,N,F,Swarthdale,,Thornbarrow Road,,Windermere
+2026-04-08,890000,LA23 1PJ,D,N,F,2,,Orchard Mount,Troutbeck,Windermere
+2026-04-01,260000,LA23 3DT,F,N,L,12A,,Quarry Rigg,Bowness On Windermere,Windermere
+2026-03-31,295000,LA23 2BJ,S,N,F,24,,Park Road,,Windermere
+2026-03-30,289500,LA23 1EL,T,N,F,Knotts View,8,Hazel Street,,Windermere
+2026-03-27,300000,LA23 1AU,F,N,L,Mountain Ash Court,Apartment 2,Spooner Vale,,Windermere
+2026-03-20,240000,LA23 3DT,F,N,L,7,,Quarry Rigg,Bowness On Windermere,Windermere
+2026-03-20,169000,LA23 3AE,F,N,L,Spinnery Cottage,Tarn Hows Flat 3,Brantfell Road,Bowness On Windermere,Windermere
+2026-03-19,260000,LA23 2LD,T,N,F,31,,Orrest Drive,,Windermere
+2026-03-10,125000,LA23 3JB,F,N,L,Winander,Flat 7,Ferry View,Bowness On Windermere,Windermere
+2026-03-06,69000,LA23 2PR,F,N,L,Alexandra Court,Flat 19,Ellerthwaite Road,,Windermere
+2026-03-05,600000,LA23 1SA,D,N,F,Oakland,The Croft,Carriage Drive,,Windermere
+2026-02-27,165000,LA23 1JE,F,N,L,17,,Elleray Gardens,,Windermere
+2026-02-17,875000,LA23 3PN,D,N,F,Fawns Keep,,Tower Wood,,Windermere
+2026-02-13,280000,LA23 3AW,S,N,F,4,,Belle Isle View,Bowness On Windermere,Windermere
+2026-02-13,230000,LA23 2LS,S,N,F,26,,Droomer Drive,,Windermere
+2026-02-13,375000,LA23 2HA,T,N,F,13,,Brow Close,,Windermere
+2026-02-05,144000,LA23 2LS,T,N,F,32,,Droomer Drive,,Windermere
+2026-02-05,430000,LA23 2JH,D,N,F,22,,South Craig,,Windermere
+2026-02-02,202500,LA23 1BU,F,N,L,7B,,College Road,,Windermere
+2026-01-30,365000,LA23 3EG,T,N,F,Wordsworth Court,7,Brantfell Road,Bowness On Windermere,Windermere
+2026-01-30,305000,LA23 3BH,T,N,F,12,,South Terrace,Bowness On Windermere,Windermere
+2026-01-23,525000,LA23 3PD,D,N,F,High Ludderburn Cottage,,,Cartmel Fell,Windermere
+2026-01-21,420000,LA23 3EZ,S,N,F,The Cottage,,Birkett Hill,Bowness On Windermere,Windermere
+2026-01-16,690000,LA23 3DR,D,N,F,"Beckside, 7",,Rayrigg Rise,Bowness On Windermere,Windermere
+2026-01-07,395000,LA23 2AW,T,N,F,11,,Park Road,,Windermere
+2025-12-19,222500,LA23 3EG,F,Y,L,Brantfell House,4,Brantfell Road,Bowness On Windermere,Windermere
+2025-12-19,3250000,LA23 2HD,D,N,F,6,,Annisgarth Drive,,Windermere
+2025-12-12,295000,LA23 3JB,T,N,F,2,,Ferry View,Bowness On Windermere,Windermere
+2025-12-12,233000,LA23 2JE,F,N,L,Mylnbeck Court,6,Lake Road,,Windermere
+2025-12-11,337000,LA23 2LL,T,N,F,5,,Claife Close,,Windermere
+2025-12-11,330000,LA23 2LL,S,N,F,10,,Claife Close,,Windermere
+2025-11-28,101250,LA23 3DX,F,N,L,15,,Fallbarrow Court,Bowness On Windermere,Windermere
+2025-11-28,232500,LA23 2LY,T,N,F,15,,Mill Rise,Droomer,Windermere
+2025-11-28,330000,LA23 2DN,S,N,F,47,,Thornthwaite Road,,Windermere
+2025-11-28,330000,LA23 2DN,T,N,F,19,,Thornthwaite Road,,Windermere
+2025-11-28,140000,LA23 1JE,F,N,L,104,,Elleray Gardens,,Windermere
+2025-11-27,325000,LA23 3JE,S,N,L,Meadowcroft Cottages,32,Meadowcroft Lane,Bowness On Windermere,Windermere
+2025-11-25,1300000,LA23 1LF,D,N,F,Calgarth South Lodge,,Ambleside Road,Troutbeck Bridge,Windermere
+2025-11-25,160000,LA23 1JE,F,N,L,11,,Elleray Gardens,,Windermere
+2025-11-21,55000,LA23 2PR,F,N,L,Alexandra Court,Flat 28,Ellerthwaite Road,,Windermere
+2025-11-14,401740,LA23 1HJ,T,N,F,School Cottages,3,Sun Hill Lane,Troutbeck Bridge,Windermere
+2025-11-10,175000,LA23 3AB,T,N,F,32A,,Beechwood Close,Bowness On Windermere,Windermere
+2025-11-04,780000,LA23 2ND,D,N,F,65,,Windermere Park,,Windermere
+2025-11-03,250000,LA23 1DX,F,N,L,College Court,5,Main Road,,Windermere
+2025-10-31,350000,LA23 2BQ,T,N,F,19,,Limethwaite Road,,Windermere
+2025-10-31,850000,LA23 1NF,T,N,F,The Hoo,3,Ambleside Road,,Windermere
+2025-10-27,1075000,LA23 3JJ,D,N,F,The Brambles,,Meadowcroft Lane,Ferry Nab,Windermere
+2025-10-24,487000,LA23 2JH,D,N,F,15,,South Craig,,Windermere
+2025-10-22,1250000,LA23 3LA,D,N,F,Myrtlefield,,Storrs Park,Bowness On Windermere,Windermere
+2025-10-22,430000,LA23 2BD,S,N,F,66,,Oakthwaite Road,,Windermere
+2025-10-15,190000,LA23 3AP,F,N,L,Enigma House Apartments,1,Lake Road,Bowness On Windermere,Windermere
+2025-10-15,420000,LA23 2EN,T,N,F,Park View,2,Sunny Bank Road,,Windermere
+2025-10-15,550000,LA23 2EL,T,N,F,Fernleigh,,Queens Drive,,Windermere
+2025-10-13,925000,LA23 1AX,S,N,F,Tower House,,Ambleside Road,,Windermere
+2025-10-09,170000,LA23 2DN,T,N,F,21,,Thornthwaite Road,,Windermere
+2025-10-07,1072000,LA23 3NE,D,N,F,Pine Ridge,,Crook Road,,Windermere
+2025-10-01,465000,LA23 2EN,S,N,F,Ash Cottage,,Sunny Bank Road,,Windermere
+2025-09-30,505000,LA23 1LB,D,N,F,Town End Lodge,,,Troutbeck,Windermere
+2025-09-22,330000,LA23 1HX,S,N,F,17,,Broadfield,Troutbeck Bridge,Windermere
+2025-09-16,640000,LA23 2HR,D,N,F,3,,Annisgarth Avenue,,Windermere
+2025-09-16,525000,LA23 2HB,T,N,F,47,,Craig Walk,,Windermere
+2025-09-11,285000,LA23 2LH,T,N,F,41,,Claife Avenue,,Windermere
+2025-09-10,580000,LA23 3BF,T,N,L,7,,Windward Way,Bowness On Windermere,Windermere
+2025-09-08,322500,LA23 1EX,T,N,L,Priory Cottages,9,Rayrigg Road,,Windermere
+2025-09-05,398500,LA23 1BY,F,N,L,Lipwood,Flat 1,Old College Lane,,Windermere
+2025-09-03,391000,LA23 3EU,D,N,F,6,,Glebe Gardens,Bowness On Windermere,Windermere
+2025-09-01,490000,LA23 3JE,T,N,F,Meadowcroft Cottages,3,Meadowcroft Lane,Bowness On Windermere,Windermere
+2025-09-01,300000,LA23 2JH,D,N,F,25,,South Craig,,Windermere
+2025-08-29,188700,LA23 2JE,F,N,L,Mylnbeck Court,4,Lake Road,,Windermere
+2025-08-29,690000,LA23 2DL,D,N,F,Stone Close,,Victoria Road,,Windermere
+2025-08-29,202000,LA23 1DX,F,N,L,College Court,2,Main Road,,Windermere
+2025-08-21,400000,LA23 2AW,T,N,F,13,,Park Road,,Windermere
+2025-08-19,365000,LA23 2HA,T,N,F,7,,Brow Close,,Windermere
+2025-08-18,450000,LA23 3AQ,D,N,F,Langrigge Cottage,1,Langrigge Drive,Bowness On Windermere,Windermere
+2025-08-15,335000,LA23 2NF,S,N,F,The Old Dairy,,Lickbarrow Close,,Windermere
+2025-08-08,492475,LA23 1QB,S,N,L,Merewood Lodge,9,Ecclerigg,,Windermere
+2025-07-25,260000,LA23 2DT,F,N,F,51,,Limethwaite Road,,Windermere
+2025-07-11,229000,LA23 3JD,S,N,F,The Croft,,Longtail Hill,Bowness On Windermere,Windermere
+2025-06-26,280000,LA23 2JU,F,N,L,4,,Craig Court,,Windermere
+2025-06-20,1875000,LA23 3LT,D,N,F,Holme Mead,,Storrs Park,Bowness On Windermere,Windermere
+2025-06-20,589500,LA23 3HA,S,N,F,4,,Firtree Crescent,Bowness On Windermere,Windermere
+2025-06-20,240000,LA23 2HH,T,N,F,2,,Oldfield Court,,Windermere
+2025-06-12,170000,LA23 3DT,F,N,L,29A,,Quarry Rigg,Bowness On Windermere,Windermere
+2025-06-03,249500,LA23 2LB,D,N,F,Raybarrow,Annexe,Upper Oak Street,,Windermere
+2025-06-02,360950,LA23 1AE,T,N,F,"Betsy Cottage, 12",,Cross Street,,Windermere
+2025-05-28,482500,LA23 2EW,S,N,F,6,,Thornbarrow Road,,Windermere
+2025-05-23,145000,LA23 2LE,F,N,L,30,,Orrest Drive Flats,,Windermere
+2025-05-16,180000,LA23 1DX,F,N,L,17,First Floor Flat,Main Road,,Windermere
+2025-05-16,357300,LA23 1AU,F,N,L,Mountain Ash Court,Apartment 20,Spooner Vale,,Windermere
+2025-05-15,110000,LA23 2PR,F,N,L,Alexandra Court,Flat 3,Ellerthwaite Road,,Windermere
+2025-05-12,55000,LA23 2PR,F,N,L,Alexandra Court,Flat 17,Ellerthwaite Road,,Windermere
+2025-04-25,2750000,LA23 1HZ,D,N,F,Field Head,,,Troutbeck Bridge,Windermere
+2025-04-24,537500,LA23 2JG,T,N,F,The Cote,,Beresford Road,,Windermere
+2025-04-24,360000,LA23 2HB,S,N,F,49,,Craig Walk,,Windermere
+2025-04-17,565000,LA23 2DP,D,N,F,Lane Head,,Victoria Road,,Windermere
+2025-04-11,775000,LA23 3EN,F,N,L,Crown Rigg,1,Kendal Road,Bowness On Windermere,Windermere
+2025-04-11,80000,LA23 2PR,F,N,L,Alexandra Court,Flat 22,Ellerthwaite Road,,Windermere
+2025-04-09,230000,LA23 2DY,S,N,F,4,,School Knott Drive,,Windermere
+2025-04-03,160000,LA23 1JE,F,N,L,111,,Elleray Gardens,,Windermere
+2025-03-31,175000,LA23 3DT,F,N,L,27A,,Quarry Rigg,Bowness On Windermere,Windermere
+2025-03-31,632500,LA23 3DR,D,N,F,2,,Rayrigg Rise,Bowness On Windermere,Windermere
+2025-03-31,345000,LA23 3BF,F,N,L,19,,Windward Way,,Windermere
+2025-03-31,262000,LA23 2DR,S,N,F,7,,Fairfield Road,,Windermere
+2025-03-31,350000,LA23 2AX,S,N,F,33,,Park Avenue,,Windermere
+2025-03-31,1250000,LA23 1PN,D,N,F,Silver Birches,,,Troutbeck,Windermere
+2025-03-31,585000,LA23 1JR,S,N,F,Broadgate Hall,2,,,Windermere
+2025-03-28,215000,LA23 2JL,F,N,L,Beresford Court,Flat 7,Lake Road,,Windermere
+2025-03-28,272500,LA23 2DN,T,N,F,26,,Thornthwaite Road,,Windermere
+2025-03-28,461500,LA23 2BH,S,N,F,Springfield,,Park View,,Windermere
+2025-03-28,925000,LA23 1HG,D,N,F,6,,Keldwyth Park,Troutbeck Bridge,Windermere
+2025-03-28,400000,LA23 1EN,T,N,F,13,,Oak Street,,Windermere
+2025-03-28,230000,LA23 1AQ,F,N,L,14,Flat,Church Street,,Windermere
+2025-03-27,620000,LA23 3LS,D,N,F,Black Beck Cottage,,Black Beck Wood,,Windermere
+2025-03-27,190000,LA23 3DT,F,N,L,45A,,Quarry Rigg,Bowness On Windermere,Windermere
+2025-03-27,208500,LA23 1EP,T,N,L,14,,Bannerigg,,Windermere
+2025-03-27,1350000,LA23 1AW,D,N,F,Shireburn,,Elleray,,Windermere
+2025-03-26,215000,LA23 2LX,T,N,F,19,,Droomer Lane,,Windermere
+2025-03-26,650000,LA23 2EW,D,N,F,Blue Ridge,,Thornbarrow Road,,Windermere
+2025-03-24,375000,LA23 2AY,T,N,F,1,,Alexandra Road,,Windermere
+2025-03-20,290000,LA23 2DN,T,N,F,22,,Thornthwaite Road,,Windermere
+2025-03-18,403000,LA23 2HR,D,N,F,"Silver Howe, 4",,Annisgarth Avenue,,Windermere
+2025-03-13,400000,LA23 2AE,D,N,F,3,,Woodland Road,,Windermere
+2025-03-11,382000,LA23 3BF,F,N,L,31,,Windward Way,,Windermere
+2025-03-10,345000,LA23 2BJ,S,N,F,18,,Park Road,,Windermere
+2025-03-06,1800000,LA23 3LF,D,N,F,Garden Hill Cottage,,Storrs Park,Bowness On Windermere,Windermere
+2025-03-03,242000,LA23 2LZ,S,N,F,21,,Mill Brow,Droomer,Windermere
+2025-02-28,1237500,LA23 3HX,S,N,F,Belle Grange,,Windy Hall Road,Bowness On Windermere,Windermere
+2025-02-28,535000,LA23 3AE,S,N,F,Crown Rigg,26,Brantfell Road,Bowness On Windermere,Windermere
+2025-02-28,485000,LA23 2BD,S,N,F,Heathside,,Oakthwaite Road,,Windermere
+2025-02-21,410000,LA23 3HL,S,N,F,10,,Brackenfield,Bowness On Windermere,Windermere
+2025-02-14,139634,LA23 1EP,F,N,L,8,,Bannerigg,,Windermere
+2025-02-14,545000,LA23 1BY,F,N,L,Lipwood,Flat 4,Old College Lane,,Windermere
+2025-02-06,95000,LA23 2LF,F,N,L,18,,Orrest Drive Flats,,Windermere
+2025-01-31,260000,LA23 2HZ,F,N,L,9,Apartment,The Court,,Windermere
+2025-01-31,350000,LA23 2BQ,T,N,F,29,,Limethwaite Road,,Windermere
+2025-01-31,450000,LA23 1DX,T,N,F,48,,Main Road,,Windermere
+2025-01-29,223000,LA23 3DT,F,N,L,18,,Quarry Rigg,Bowness On Windermere,Windermere
+2025-01-27,1150000,LA23 3LW,D,N,F,High Ghyll,,Newby Bridge Road,,Windermere
+2025-01-27,327500,LA23 3BH,T,N,F,5,,South Terrace,Bowness On Windermere,Windermere
+2025-01-24,230000,LA23 1DR,F,N,L,9,,Cumbria Court,,Windermere
+2025-01-23,224000,LA23 1AG,F,N,L,College Gate,Flat 4,Elleray Road,,Windermere
+2025-01-21,370000,LA23 1AZ,T,N,F,18,,St Marys Park,,Windermere
+2025-01-15,860000,LA23 3NN,D,N,F,The Old Post Office,,,Winster,Windermere
+2025-01-10,60000,LA23 2PR,F,N,L,Alexandra Court,Flat 14,Ellerthwaite Road,,Windermere
+2025-01-10,584100,LA23 1PN,F,N,L,Haystacks,,,Troutbeck,Windermere
+2025-01-10,230000,LA23 1AG,F,N,L,College Gate,Flat 2,Elleray Road,,Windermere
+2025-01-08,895000,LA23 3AY,D,N,F,Biskey Rise,,Helm Road,Bowness On Windermere,Windermere
+2024-12-19,285000,LA23 1JD,T,N,F,7,,Broadfield Close,Troutbeck Bridge,Windermere
+2024-12-19,370000,LA23 1EN,T,N,F,23,,Oak Street,,Windermere
+2024-12-16,445000,LA23 3EY,T,N,F,4,,Belsfield Court,Bowness On Windermere,Windermere
+2024-12-16,510000,LA23 2DW,D,N,F,6,,Lane Head,,Windermere
+2024-12-16,314000,LA23 1AF,T,N,F,12,,High Street Terrace,,Windermere
+2024-12-12,975000,LA23 3LX,D,N,F,Beckside,,Bellman Ground,Bowness On Windermere,Windermere
+2024-12-12,790000,LA23 2EW,D,N,F,Claverley,,Thornbarrow Road,,Windermere
+2024-12-12,540000,LA23 1BF,D,N,F,14,,Priory Grange,,Windermere
+2024-12-11,420000,LA23 3BF,F,N,L,1,,Windward Way,Bowness On Windermere,Windermere
+2024-12-05,700000,LA23 2ND,D,N,F,105,,Windermere Park,,Windermere
+2024-12-02,210700,LA23 3DT,F,N,L,41,,Quarry Rigg,Bowness On Windermere,Windermere
+2024-11-29,1002500,LA23 3JY,D,N,F,Garth Cottage,,Middle Entrance Drive,Bowness On Windermere,Windermere
+2024-11-27,130000,LA23 2LY,F,N,L,36,,Mill Rise,Droomer,Windermere
+2024-11-25,745000,LA23 1EW,D,N,F,2,,Applerigg,,Windermere
+2024-11-25,835000,LA23 1ET,D,N,F,6,,Wynlass Park,,Windermere
+2024-11-22,290000,LA23 3EY,F,N,L,19,,Belsfield Court,Bowness On Windermere,Windermere
+2024-11-21,255500,LA23 2JU,F,N,L,3,,Craig Court,,Windermere
+2024-11-20,500000,LA23 3BF,F,N,L,25,,Windward Way,,Windermere
+2024-11-13,500000,LA23 2EW,D,N,F,Galemire,,Thornbarrow Road,,Windermere
+2024-11-11,840000,LA23 2ND,D,N,F,50,,Windermere Park,,Windermere
+2024-11-08,53500,LA23 2PR,F,N,L,Alexandra Court,Flat 16,Ellerthwaite Road,,Windermere
+2024-11-07,338000,LA23 2HE,F,N,L,2,,Langdale Crescent,,Windermere
+2024-11-06,390000,LA23 1BX,T,N,F,Gable Lodge,,College Road,,Windermere
+2024-11-05,332500,LA23 2DR,S,N,F,5,,Fairfield Road,,Windermere
+2024-11-04,650000,LA23 1NL,F,N,L,Chapel Ridding,Apartment 7,Patterdale Road,,Windermere
+2024-10-30,245000,LA23 3DT,F,N,L,32,,Quarry Rigg,Bowness On Windermere,Windermere
+2024-10-30,185000,LA23 2JJ,F,N,L,Windermere Bank,Flat 4A,Lake Road,,Windermere
+2024-10-30,185000,LA23 2DY,T,N,F,8,,School Knott Drive,,Windermere
+2024-10-29,610000,LA23 3PG,D,N,F,Moor View,,Birks Road,,Windermere
+2024-10-29,2400000,LA23 3LF,D,N,F,Storrs Haven,,Storrs Park,Bowness On Windermere,Windermere
+2024-10-29,472000,LA23 1AZ,T,N,F,16,,St Marys Park,,Windermere
+2024-10-28,215000,LA23 2LX,T,N,F,5,,Droomer Lane,,Windermere
+2024-10-28,330000,LA23 2DR,S,N,F,17,,Fairfield Road,,Windermere
+2024-10-18,800000,LA23 3BQ,F,N,L,24 Marina View,,The Marina,Bowness On Windermere,Windermere
+2024-10-18,810000,LA23 1JA,D,N,F,Pine Lodge,,Old Hall Road,Troutbeck Bridge,Windermere
+2024-10-16,337500,LA23 2BQ,T,N,F,27,,Limethwaite Road,,Windermere
+2024-10-14,900000,LA23 1PJ,D,N,F,2,,Orchard Mount,Troutbeck,Windermere
+2024-10-04,310000,LA23 3BF,F,N,L,32,,Windward Way,,Windermere
+2024-10-04,432500,LA23 2EB,S,N,F,12,,Lickbarrow Road,,Windermere
+2024-09-30,140000,LA23 2LH,F,N,L,13,,Claife Avenue,,Windermere
+2024-09-27,535000,LA23 3PA,D,N,F,High Hartbarrow,,,Cartmel Fell,Windermere
+2024-09-27,520000,LA23 1JQ,T,N,F,North Lodge,,,,Windermere
+2024-09-25,1175000,LA23 1PF,D,N,F,Thwaite,,,Troutbeck,Windermere
+2024-09-19,250000,LA23 1DY,F,N,L,20A,,Main Road,,Windermere
+2024-09-06,1475000,LA23 1ES,D,N,F,Inglegarth,,Ambleside Road,,Windermere
+2024-09-04,1395000,LA23 1DH,D,N,F,Rockery Wood,,South Crescent,,Windermere
+2024-09-02,355000,LA23 2BQ,T,N,F,23,,Limethwaite Road,,Windermere
+2024-08-30,247000,LA23 3BD,F,N,L,Helm Rigg,Flat 16,Helm Road,Bowness On Windermere,Windermere
+2024-08-30,741000,LA23 1HF,D,N,F,Corner Cottage,,,Troutbeck Bridge,Windermere
+2024-08-22,1800000,LA23 3LS,D,N,F,Green Dod,,Black Beck Wood,,Windermere
+2024-08-18,280000,LA23 1EX,T,N,L,Priory Cottages,12,Rayrigg Road,,Windermere
+2024-08-16,950000,LA23 1LT,S,N,F,Holbeck Lane Cottage,,Holbeck Lane,,Windermere
+2024-08-15,385000,LA23 2AY,T,N,F,7,,Alexandra Road,,Windermere
+2024-07-29,327250,LA23 2AX,S,N,F,36,,Park Avenue,,Windermere
+2024-07-25,810000,LA23 2HD,D,N,F,8,,Annisgarth Drive,,Windermere
+2024-07-25,512000,LA23 2EL,D,N,F,Newlands,,Queens Drive,,Windermere
+2024-07-22,510000,LA23 1LJ,D,N,F,Low Laithe,,Ecclerigg,,Windermere
+2024-07-19,265000,LA23 2LJ,S,N,F,8,,Claife Avenue,,Windermere
+2024-07-19,485000,LA23 2JS,T,N,F,"The Thistles, 105",,Craig Walk,,Windermere
+2024-07-12,335000,LA23 3DW,S,N,F,3,,Quarry Brow,Bowness On Windermere,Windermere
+2024-07-12,485000,LA23 1PZ,F,N,L,5,,Applethwaite Hall,,Windermere
+2024-07-09,1285000,LA23 3FB,D,N,F,Fellcroft,,Kendal Road,Bowness On Windermere,Windermere
+2024-07-03,850000,LA23 1NB,D,N,L,10,,Briery Close,,Windermere
+2024-07-02,625000,LA23 3AQ,D,N,F,Rockwood,,Langrigge Drive,Bowness On Windermere,Windermere
+2024-06-28,246500,LA23 3BD,F,N,L,Helm Rigg,Flat 14,Helm Road,Bowness On Windermere,Windermere
+2024-06-28,300000,LA23 1EN,T,N,F,26,,Oak Street,,Windermere
+2024-06-27,702000,LA23 2NB,D,N,F,4,,Windermere Park,,Windermere
+2024-06-21,1650000,LA23 2DG,T,N,F,Waterbeck,,Thornbarrow Road,,Windermere
+2024-06-10,875000,LA23 1HG,D,N,F,2,,Keldwyth Park,Troutbeck Bridge,Windermere
+2024-05-31,469000,LA23 2BU,S,N,F,Sunny Brae,1,Brook Road,,Windermere
+2024-05-24,165000,LA23 1EP,F,N,L,5,,Bannerigg,,Windermere
+2024-05-23,232500,LA23 1AQ,F,N,L,Caxton House,3,Church Street,,Windermere
+2024-05-20,460000,LA23 3AB,F,N,L,27,,Beechwood Close,Bowness On Windermere,Windermere
+2024-05-17,675000,LA23 3LN,S,N,F,The Homestead,,,Ghyll Head,Windermere
+2024-05-17,370000,LA23 3HL,S,N,F,16,,Brackenfield,Bowness On Windermere,Windermere
+2024-05-17,270000,LA23 2EU,T,N,F,37,,Meadow Road,,Windermere
+2024-05-09,371800,LA23 2JG,T,N,F,3,,Beresford Road,,Windermere
+2024-05-03,360000,LA23 2JG,T,N,F,1,,Beresford Road,,Windermere
+2024-05-03,440000,LA23 1BY,F,N,L,Lipwood,Flat 6,Old College Lane,,Windermere
+2024-04-18,215000,LA23 1EE,F,N,L,1,Flat 1,Derby Square,,Windermere
+2024-04-17,250000,LA23 2AS,S,N,F,9,,Whinfield Road,,Windermere
+2024-04-16,238000,LA23 1DZ,F,N,L,4,Flat,Lupton Court,,Windermere
+2024-04-12,450000,LA23 2BD,S,N,F,70,,Oakthwaite Road,,Windermere
+2024-04-12,375000,LA23 1AU,F,N,L,Mountain Ash Court,Apartment 18,Spooner Vale,,Windermere
+2024-04-08,485000,LA23 3JJ,D,N,F,The Brambles,,Meadowcroft Lane,Ferry Nab,Windermere
+2024-04-08,867500,LA23 1NB,F,N,L,7,,Briery Close,,Windermere
+2024-04-04,775000,LA23 3JF,D,N,F,Lindeth Bank,,Lindeth Drive,Bowness On Windermere,Windermere
+2024-03-28,480000,LA23 1PT,T,N,F,East Wood,,Ambleside Road,,Windermere
+2024-03-22,455000,LA23 2JH,D,N,F,17,,South Craig,,Windermere
+2024-03-19,950000,LA23 1JU,D,N,F,Crosses Farm,,,,Windermere
+2024-03-18,784513,LA23 3BQ,F,N,L,Marina View,9,The Marina,Bowness On Windermere,Windermere
+2024-03-15,359950,LA23 1EH,S,N,F,2,,Havelock Road,,Windermere
+2024-03-08,907500,LA23 1PP,D,N,F,Gara Garth,,Town Head,Troutbeck,Windermere
+2024-03-08,285000,LA23 1HX,S,N,F,18,,Broadfield,Troutbeck Bridge,Windermere
+2024-03-07,230000,LA23 1AE,T,N,F,3,,Cross Street,,Windermere
+2024-03-05,350000,LA23 1BF,S,N,F,3,,Priory Grange,,Windermere
+2024-03-01,1175000,LA23 3JZ,D,N,F,White Gates,,Middle Entrance Drive,Bowness On Windermere,Windermere
+2024-03-01,425000,LA23 2JN,T,N,F,2,,Elim Grove,,Windermere
+2024-02-29,210000,LA23 3DT,F,N,L,49A,,Quarry Rigg,Bowness On Windermere,Windermere
+2024-02-29,240000,LA23 2LJ,T,N,F,72,,Claife Avenue,,Windermere
+2024-02-27,320000,LA23 3BF,F,N,L,24,,Windward Way,,Windermere
+2024-02-16,270000,LA23 2BA,T,N,F,23,,Oakthwaite Road,,Windermere
+2024-02-15,385000,LA23 3DW,S,N,F,11,,Quarry Brow,Bowness On Windermere,Windermere
+2024-02-02,510000,LA23 2JH,D,N,F,20,,South Craig,,Windermere
+2024-01-31,400000,LA23 3BY,T,N,F,2,,Queens Square,Bowness On Windermere,Windermere
+2024-01-25,939999,LA23 2EE,D,N,F,Catbells,,New Road,,Windermere
+2024-01-19,365000,LA23 2BT,D,N,F,"Brook Cottage, 1",,Woodland Grove,,Windermere
+2024-01-18,285000,LA23 2BQ,T,N,F,14,,Limethwaite Road,,Windermere
+2024-01-16,500000,LA23 2DL,S,N,F,High Rigg,,Victoria Road,,Windermere
+2023-12-21,435000,LA23 2NF,D,N,F,Lickbarrow Cottage,,Lickbarrow Close,,Windermere
+2023-12-21,220000,LA23 1DX,F,N,L,31,Flat 2,Main Road,,Windermere
+2023-12-20,160000,LA23 3AW,S,N,L,1,,Belle Isle View,Bowness On Windermere,Windermere
+2023-12-20,350000,LA23 2AX,S,N,F,28,,Park Avenue,,Windermere
+2023-12-19,950000,LA23 1PQ,D,N,F,Myley Ghyll,,,Troutbeck,Windermere
+2023-12-18,100000,LA23 1JE,F,N,L,109,,Elleray Gardens,,Windermere
+2023-12-15,373500,LA23 3AE,F,N,L,Crown Rigg,18,Brantfell Road,Bowness On Windermere,Windermere
+2023-12-12,400000,LA23 3GN,F,N,L,The Royal,Apartment 8,Church Street,Bowness On Windermere,Windermere
+2023-12-12,415000,LA23 2DW,S,N,F,5,,Lane Head,,Windermere
+2023-12-11,270000,LA23 2LS,T,N,F,10,,Droomer Drive,,Windermere
+2023-12-11,300000,LA23 2LL,T,N,F,9,,Claife Close,,Windermere
+2023-12-08,725000,LA23 3EN,F,N,L,Crown Rigg,1,Kendal Road,Bowness On Windermere,Windermere
+2023-12-08,205000,LA23 3DT,T,N,L,38,,Quarry Rigg,Bowness On Windermere,Windermere
+2023-12-08,540000,LA23 2BU,S,N,F,Englemere,,Brook Road,,Windermere
+2023-12-06,270000,LA23 3AX,F,N,L,123A,,Craig Walk,Bowness On Windermere,Windermere
+2023-12-04,160000,LA23 1JE,F,N,L,102,,Elleray Gardens,,Windermere
+2023-11-30,700000,LA23 3LQ,S,N,F,Storrs Cottages,2,Storrs Park,Bowness On Windermere,Windermere
+2023-11-30,245000,LA23 2LP,T,N,F,67,,Droomer Drive,,Windermere
+2023-11-29,215000,LA23 2LN,T,N,F,7,,Ghyll Close,,Windermere
+2023-11-24,350000,LA23 2BQ,T,N,F,28,,Limethwaite Road,,Windermere
+2023-11-22,499136,LA23 1BF,D,N,F,9,,Priory Grange,,Windermere
+2023-11-17,267000,LA23 1EG,T,N,F,5,,Birch Street,,Windermere
+2023-11-16,320000,LA23 1EX,T,N,L,Priory Cottages,13,Rayrigg Road,,Windermere
+2023-11-13,1005000,LA23 1AS,D,N,F,6,,Oakland Drive,,Windermere
+2023-11-10,170000,LA23 1JE,F,N,L,13,,Elleray Gardens,,Windermere
+2023-11-07,355000,LA23 3BH,T,N,F,2,,South Terrace,Bowness On Windermere,Windermere
+2023-11-01,400000,LA23 2JH,D,N,F,21,,South Craig,,Windermere
+2023-10-31,650000,LA23 2EN,S,N,F,Mardlers,,Sunny Bank Road,,Windermere
+2023-10-30,455000,LA23 3HA,D,N,F,1,,Firtree Crescent,Bowness On Windermere,Windermere
+2023-10-30,725000,LA23 3AB,D,N,F,9,,Beechwood Close,Bowness On Windermere,Windermere
+2023-10-30,950000,LA23 2EL,D,N,F,Crossriggs,,Queens Drive,,Windermere
+2023-10-27,800000,LA23 1BE,D,N,F,Magnolia Cottage,,Rose Cottage Lane,,Windermere
+2023-10-25,490000,LA23 1NE,S,N,F,Beckermet Cottage,,Ambleside Road,,Windermere
+2023-10-20,379000,LA23 3BD,D,N,F,Cedar Lodge,,Helm Road,Bowness On Windermere,Windermere
+2023-10-18,2950000,LA23 3LL,D,N,F,Gates Garth,,Newby Bridge Road,,Windermere
+2023-09-22,925000,LA23 3NN,D,N,F,The Old Mill,,,Winster,Windermere
+2023-09-21,150000,LA23 1JE,F,N,L,204,,Elleray Gardens,,Windermere
+2023-09-12,450000,LA23 1BA,T,N,F,St Mary's Cottages,4,Ambleside Road,,Windermere
+2023-09-08,204000,LA23 2LW,T,N,F,11,,Ghyll Road,,Windermere
+2023-09-08,335000,LA23 2JU,F,N,L,8,,Craig Court,,Windermere
+2023-09-07,180000,LA23 2EP,F,N,L,Thornbarrow Hall,Flat 1,Thornbarrow Drive,,Windermere
+2023-09-05,275000,LA23 2LJ,T,N,F,54,,Claife Avenue,,Windermere
+2023-09-04,525000,LA23 3HA,S,N,F,2,,Firtree Crescent,Bowness On Windermere,Windermere
+2023-09-01,440000,LA23 3EX,S,N,F,"Wharncliffe, 1",,Lake Gardens,Bowness On Windermere,Windermere
+2023-08-25,112500,LA23 2PR,F,N,L,Alexandra Court,Flat 30,Ellerthwaite Road,,Windermere
+2023-08-24,681273,LA23 3HS,D,N,F,23,,Ferney Green Drive,Bowness On Windermere,Windermere
+2023-08-24,925000,LA23 2EN,D,N,F,Winster,,Sunny Bank Road,,Windermere
+2023-08-23,242000,LA23 1PE,F,N,F,Chapel Court,1,Sun Hill Lane,Troutbeck Bridge,Windermere
+2023-08-18,350000,LA23 3JE,T,N,L,Meadowcroft Cottages,23,Meadowcroft Lane,Bowness On Windermere,Windermere
+2023-08-10,313000,LA23 3JB,T,N,F,3,,Ferry View,Bowness On Windermere,Windermere
+2023-07-31,675000,LA23 1NQ,T,N,F,Carriage House,,Patterdale Road,,Windermere
+2023-07-28,425000,LA23 2JD,T,N,F,Mylnebeck Cottage,,Lake Road,,Windermere
+2023-07-26,380000,LA23 1AU,F,N,L,Mountain Ash Court,Apartment 17,Spooner Vale,,Windermere
+2023-07-21,700000,LA23 2ND,D,N,F,83,,Windermere Park,,Windermere
+2023-07-20,240000,LA23 2DT,T,N,F,57,,Limethwaite Road,,Windermere
+2023-07-13,205000,LA23 2EA,F,N,L,2,,Thornthwaite Flats,,Windermere
+2023-06-30,645000,LA23 3FB,D,N,F,Elmley Lovett,,Kendal Road,Bowness On Windermere,Windermere
+2023-06-29,100000,LA23 3BN,T,N,L,Boathouse,1,Windermere Marina Village,Bowness On Windermere,Windermere
+2023-06-22,400000,LA23 1AE,T,N,F,10,,Cross Street,,Windermere
+2023-06-19,292500,LA23 2LH,S,N,F,3,,Claife Avenue,,Windermere
+2023-06-19,460000,LA23 2BD,S,N,F,39,,Oakthwaite Road,,Windermere
+2023-06-16,1275000,LA23 3ES,D,N,F,Birch Howe,,Ferney Green,Bowness On Windermere,Windermere
+2023-06-16,526000,LA23 2ET,D,N,F,17,,North Craig,,Windermere
+2023-06-13,450000,LA23 2EB,S,N,F,14,,Lickbarrow Road,,Windermere
+2023-06-13,230000,LA23 2DH,T,N,F,High Heathwaite,2,Park Road,,Windermere
+2023-06-09,250000,LA23 2LL,T,N,F,15,,Claife Close,,Windermere
+2023-05-26,400000,LA23 3AX,T,N,F,131,,Craig Walk,Bowness On Windermere,Windermere
+2023-05-25,405000,LA23 2BS,T,N,F,42,,Ellerthwaite Road,,Windermere
+2023-05-15,320000,LA23 1EJ,T,N,F,20,,Holly Terrace,,Windermere
+2023-05-04,350000,LA23 2BQ,T,N,F,37,,Limethwaite Road,,Windermere
+2023-05-03,1590000,LA23 2HD,D,N,F,4,,Annisgarth Drive,,Windermere
+2023-05-02,165000,LA23 1EP,F,N,L,15,,Bannerigg,,Windermere
+2023-04-28,365000,LA23 2JS,T,N,F,78,,Craig Walk,,Windermere
+2023-04-28,2488150,LA23 1DJ,D,N,F,Belvedere,,Cornbirthwaite Road,,Windermere
+2023-04-21,250000,LA23 1EN,F,N,L,Mylnegarth,Flat 3,Oak Street,,Windermere
+2023-04-18,2350000,LA23 1LA,D,N,F,Acre Lodge,,Bridge Lane,Troutbeck,Windermere
+2023-04-17,479000,LA23 2DD,T,N,F,Lunehurst,,Princes Road,,Windermere
+2023-04-17,380000,LA23 1BY,S,N,F,Merlewood Cottage,,Old College Lane,,Windermere
+2023-04-14,265000,LA23 2LZ,T,N,F,18,,Mill Brow,Droomer,Windermere
+2023-04-13,750000,LA23 2HX,D,N,F,17,,Annisgarth Park,,Windermere
+2023-04-13,450000,LA23 2EL,S,N,F,36,,Queens Drive,,Windermere
+2023-04-06,161813,LA23 2JW,F,N,L,The Stables,2,Bank Road,,Windermere
+2023-04-03,1120000,LA23 3HY,D,N,F,Brackenrigg Cottage,,Windy Hall Road,Bowness On Windermere,Windermere
+2023-03-31,570000,LA23 2LB,T,N,F,13,,Upper Oak Street,,Windermere
+2023-03-31,337000,LA23 2ET,D,N,F,13,,North Craig,,Windermere
+2023-03-31,520000,LA23 1EX,F,N,L,Priory Manor,3,Rayrigg Road,,Windermere
+2023-03-30,685000,LA23 3AE,F,N,L,Crown Rigg,14,Brantfell Road,Bowness On Windermere,Windermere
+2023-03-17,375000,LA23 3BP,F,N,L,1A,,Lake View Villas,Bowness On Windermere,Windermere
+2023-03-17,140000,LA23 1JE,F,N,L,105,,Elleray Gardens,,Windermere
+2023-03-17,263000,LA23 1DY,F,N,L,22A,,Main Road,,Windermere
+2023-03-08,330000,LA23 2BQ,T,N,F,20,,Limethwaite Road,,Windermere
+2023-03-06,170000,LA23 2JL,F,N,L,Beresford Court,Flat 7,Lake Road,,Windermere
+2023-03-01,255000,LA23 1DR,F,N,L,21,,Cumbria Court,,Windermere
+2023-02-27,345000,LA23 2HB,S,N,F,45,,Craig Walk,,Windermere
+2023-02-27,445000,LA23 1EX,F,N,L,Priory Manor,6,Rayrigg Road,,Windermere
+2023-02-17,390000,LA23 2HA,T,N,F,8,,Brow Close,,Windermere
+2023-02-16,660000,LA23 2ND,D,N,F,57,,Windermere Park,,Windermere
+2023-02-16,250000,LA23 2EN,F,N,L,Sunnyside,,Sunny Bank Road,,Windermere
+2023-02-15,799500,LA23 2NB,D,N,F,16,,Windermere Park,,Windermere
+2023-02-13,100000,LA23 2JG,S,N,F,9,,Beresford Road,,Windermere
+2023-02-10,285000,LA23 2LW,T,N,F,26,,Ghyll Road,,Windermere
+2023-02-06,350000,LA23 2DH,S,N,F,High Heathwaite,1,Park Road,,Windermere
+2023-02-03,164000,LA23 3GQ,F,N,L,St Martins Court,Apartment 1,St Martins Parade,Bowness On Windermere,Windermere
+2023-02-03,286000,LA23 3DT,F,N,L,11,,Quarry Rigg,Bowness On Windermere,Windermere
+2023-02-03,275000,LA23 1ED,T,N,F,7,,Beech Street,,Windermere
+2023-01-20,285000,LA23 1QB,F,N,L,Merewood Lodge,3,Ecclerigg,,Windermere
+2023-01-19,285000,LA23 2JS,S,N,F,115,,Craig Walk,,Windermere
+2023-01-17,462500,LA23 3AE,F,N,L,Crown Rigg,16,Brantfell Road,Bowness On Windermere,Windermere
+2023-01-10,114000,LA23 3AU,F,N,F,Sunbeam Flats,3,North Terrace,Bowness On Windermere,Windermere
+2023-01-06,260000,LA23 2LB,T,N,F,31,,Upper Oak Street,,Windermere
+2022-12-22,144000,LA23 2DR,S,N,F,22,,Fairfield Road,,Windermere
+2022-12-21,555438,LA23 1BY,F,N,L,Lipwood,Flat 3,Old College Lane,,Windermere
+2022-12-20,587500,LA23 2DU,D,N,F,56,,Limethwaite Road,,Windermere
+2022-12-19,1900000,LA23 3JY,D,N,F,Woodcroft,,Middle Entrance Drive,Bowness On Windermere,Windermere
+2022-12-19,331000,LA23 2BA,T,N,F,22,,Oakthwaite Road,,Windermere
+2022-12-14,284000,LA23 2LH,T,N,F,71,,Claife Avenue,,Windermere
+2022-12-13,312000,LA23 1HX,S,N,F,17,,Broadfield,Troutbeck Bridge,Windermere
+2022-12-07,800000,LA23 1JR,D,N,F,High House Farm,,,,Windermere
+2022-12-01,445000,LA23 3AX,T,N,F,"Bay Tree Cottage, 96",,Craig Walk,Bowness On Windermere,Windermere
+2022-12-01,355000,LA23 3AB,F,N,F,8,,Beechwood Close,Bowness On Windermere,Windermere
+2022-12-01,355000,LA23 3AB,S,N,L,8,,Beechwood Close,Bowness On Windermere,Windermere
+2022-12-01,345000,LA23 3AB,F,N,L,10,,Beechwood Close,Bowness On Windermere,Windermere
+2022-11-30,147000,LA23 1JE,F,N,L,11,,Elleray Gardens,,Windermere
+2022-11-18,480000,LA23 2BD,T,N,F,Hillside,,Oakthwaite Road,,Windermere
+2022-11-15,450000,LA23 3AT,D,N,F,6,,Brantfell Walk,Bowness On Windermere,Windermere
+2022-11-10,652300,LA23 1EX,D,N,F,Priory Cottages,13B,Rayrigg Road,,Windermere
+2022-11-09,139950,LA23 3AU,F,N,L,Merewyke Court,The Basement Flat,North Terrace,Bowness On Windermere,Windermere
+2022-11-09,139950,LA23 3AU,F,N,L,Mere Wyke Court,1,North Terrace,Bowness On Windermere,Windermere
+2022-11-08,340000,LA23 2DG,F,N,L,Lynstead,3,Thornbarrow Road,,Windermere
+2022-11-03,210000,LA23 1EP,T,N,L,14,,Bannerigg,,Windermere
+2022-10-31,440000,LA23 2LB,T,N,F,15,,Upper Oak Street,,Windermere
+2022-10-28,645000,LA23 1AY,D,N,F,11,,St Marys Park,,Windermere
+2022-10-26,285000,LA23 2JY,F,N,L,4,,Elim Mews,,Windermere
+2022-10-21,240000,LA23 3DT,F,N,L,16,,Quarry Rigg,Bowness On Windermere,Windermere
+2022-10-21,363000,LA23 2JH,D,N,F,14,,South Craig,,Windermere
+2022-10-21,290000,LA23 2AZ,S,N,F,25,,Oldfield Road,,Windermere
+2022-10-21,280000,LA23 1HX,S,N,F,14,,Broadfield,Troutbeck Bridge,Windermere
+2022-10-20,672000,LA23 3HL,D,N,F,7,,Brackenfield,Bowness On Windermere,Windermere
+2022-10-18,307500,LA23 3QP,F,N,L,10,,Bellman Close,,Windermere
+2022-10-18,525000,LA23 3EY,T,N,F,5,,Belsfield Court,Bowness On Windermere,Windermere
+2022-10-18,205000,LA23 3DT,F,N,L,5A,,Quarry Rigg,Bowness On Windermere,Windermere
+2022-10-14,162000,LA23 2LE,F,N,L,38,,Orrest Drive Flats,,Windermere
+2022-10-12,574000,LA23 1LF,D,N,F,Calgarth North Lodge,,Ambleside Road,Troutbeck Bridge,Windermere
+2022-10-07,1000000,LA23 3FB,D,N,F,Tree Tops,,Kendal Road,Bowness On Windermere,Windermere
+2022-10-06,245000,LA23 1NF,F,N,L,Bracken Fold,Flat 1,Ambleside Road,,Windermere
+2022-10-04,270000,LA23 2LS,T,N,F,19,,Droomer Drive,,Windermere
+2022-10-04,326000,LA23 2DS,S,N,F,32,,Victoria Road North,,Windermere
+2022-10-03,1285000,LA23 1PN,S,N,F,Scot Beck Fold,,,Troutbeck,Windermere
+2022-10-03,1100000,LA23 1PF,D,N,F,Rose Cottage,,,Troutbeck,Windermere
+2022-09-30,245000,LA23 2LJ,T,N,F,70,,Claife Avenue,,Windermere
+2022-09-30,210000,LA23 2JP,F,N,L,Biskey Howe,Flat 6,Biskey Howe Road,,Windermere
+2022-09-29,238000,LA23 1EN,F,N,L,2,Flat 1,Oak Street,,Windermere
+2022-09-26,750000,LA23 2HE,D,N,F,Elford,,Langdale Crescent,,Windermere
+2022-09-21,507000,LA23 2HX,D,N,F,12,,Annisgarth Park,,Windermere
+2022-09-16,715000,LA23 2ND,D,N,F,95,,Windermere Park,,Windermere
+2022-09-16,360000,LA23 2BE,T,N,F,29,,Park Road,,Windermere
+2022-09-16,275000,LA23 1HL,T,N,F,6,,Calgarth View,Troutbeck Bridge,Windermere
+2022-09-15,490000,LA23 2JH,D,N,F,28,,South Craig,,Windermere
+2022-09-14,670000,LA23 1HG,D,N,F,11,,Keldwyth Park,Troutbeck Bridge,Windermere
+2022-09-13,410000,LA23 3AE,F,N,L,Crown Rigg,12,Brantfell Road,Bowness On Windermere,Windermere
+2022-09-13,1000000,LA23 1LB,D,N,F,The Toft,,,Troutbeck,Windermere
+2022-09-09,1175000,LA23 3ES,D,N,F,Birch Howe,,Ferney Green,Bowness On Windermere,Windermere
+2022-09-09,610000,LA23 3AB,D,N,F,Oakdene,,Beechwood Close,Bowness On Windermere,Windermere
+2022-09-02,240000,LA23 2LW,T,N,F,17,,Ghyll Road,,Windermere
+2022-09-02,675000,LA23 1SA,D,N,F,Oakland,The Croft,Carriage Drive,,Windermere
+2022-09-01,1800000,LA23 3LL,D,N,F,Ghyll Crag,,Newby Bridge Road,,Windermere
+2022-08-26,400000,LA23 2BB,T,N,F,Green Moss,5,Oakthwaite Road,,Windermere
+2022-08-25,152000,LA23 2LY,F,N,L,34,,Mill Rise,Droomer,Windermere
+2022-08-19,990000,LA23 3NE,D,N,F,Shepherds Rock,,Crook Road,,Windermere
+2022-08-17,475000,LA23 3BQ,F,N,L,Marina View,18,The Marina,Bowness On Windermere,Windermere
+2022-08-17,600000,LA23 3AB,D,N,F,3,,Beechwood Close,Bowness On Windermere,Windermere
+2022-08-08,830000,LA23 3JB,D,N,F,Squirrel Bank,,Ferry View,Bowness On Windermere,Windermere
+2022-08-05,222500,LA23 2DY,F,N,L,11,,School Knott Drive,,Windermere
+2022-08-05,240000,LA23 1EL,F,N,L,Hazelhurst,Flat 3,Hazel Street,,Windermere
+2022-08-05,200000,LA23 1AF,F,N,L,10A,,High Street,,Windermere
+2022-08-04,950000,LA23 1PQ,D,N,F,The Crag,,,Troutbeck,Windermere
+2022-08-03,183000,LA23 3JB,F,N,L,Winander,Flat 4,Ferry View,Bowness On Windermere,Windermere
+2022-08-02,625000,LA23 3PB,S,N,F,Woodside,,,Cartmel Fell,Windermere
+2022-07-29,520000,LA23 3BF,F,N,L,16,,Windward Way,,Windermere
+2022-07-28,1400000,LA23 3JF,D,N,F,Brackenlea,,Lindeth Drive,Bowness On Windermere,Windermere
+2022-07-28,320000,LA23 1ED,T,N,F,16,,Beech Street,,Windermere
+2022-07-28,193000,LA23 1DZ,F,N,L,2,,Lupton Court,,Windermere
+2022-07-25,370000,LA23 2DR,S,N,F,26,,Fairfield Road,,Windermere
+2022-07-22,260000,LA23 2HE,F,N,L,1,Flat,Langdale Crescent,,Windermere
+2022-07-19,385000,LA23 2NB,S,N,F,17,,Windermere Park,,Windermere
+2022-07-19,280000,LA23 2LL,T,N,F,3,,Claife Close,,Windermere
+2022-07-13,552505,LA23 3BQ,F,N,L,Marina View,4,The Marina,Bowness On Windermere,Windermere
+2022-07-08,591350,LA23 3BQ,F,N,L,Marina View,1,The Marina,Bowness On Windermere,Windermere
+2022-07-08,335000,LA23 3AX,T,N,F,106,,Craig Walk,Bowness On Windermere,Windermere
+2022-07-08,435000,LA23 1AU,F,N,L,Mountain Ash Court,Apartment 20,Spooner Vale,,Windermere
+2022-07-07,425000,LA23 2LB,D,N,F,Oak Howe,,Upper Oak Street,,Windermere
+2022-07-06,593384,LA23 3BQ,F,N,L,Marina View,7,The Marina,Bowness On Windermere,Windermere
+2022-07-05,753000,LA23 3BQ,F,N,L,Marina View,6,The Marina,Bowness On Windermere,Windermere
+2022-07-05,175000,LA23 1JE,F,N,L,15,,Elleray Gardens,,Windermere
+2022-07-04,442500,LA23 3JE,T,N,F,Meadowcroft Cottages,2,Meadowcroft Lane,Bowness On Windermere,Windermere
+2022-07-01,1350000,LA23 3HX,D,N,F,Brantbeck,,Windy Hall Road,Bowness On Windermere,Windermere
+2022-07-01,528100,LA23 3BQ,F,N,L,Marina View,2,The Marina,Bowness On Windermere,Windermere
+2022-07-01,484000,LA23 3BQ,F,N,L,Marina View,5,The Marina,Bowness On Windermere,Windermere
+2022-07-01,335000,LA23 1AU,F,N,L,Mountain Ash Court,Apartment 2,Spooner Vale,,Windermere
+2022-06-30,450000,LA23 2BU,S,N,F,Ghyll Bank,,Brook Road,,Windermere
+2022-06-24,262500,LA23 3FJ,S,N,F,7,,Brantfell Place,Bowness On Windermere,Windermere
+2022-06-24,380000,LA23 3AT,D,N,F,1,,Brantfell Walk,Bowness On Windermere,Windermere
+2022-06-22,480000,LA23 3BQ,F,N,L,Marina View,19,The Marina,Bowness On Windermere,Windermere
+2022-06-21,655000,LA23 2HX,D,N,F,16,,Annisgarth Park,,Windermere
+2022-06-20,600000,LA23 3BQ,F,N,L,Marina View,12,The Marina,Bowness On Windermere,Windermere
+2022-06-17,75000,LA23 2PR,F,N,L,Alexandra Court,Flat 18,Ellerthwaite Road,,Windermere
+2022-06-17,545000,LA23 2ES,D,N,F,"Waterside, 5",,Craig Walk,,Windermere
+2022-06-15,462207,LA23 3BQ,F,N,L,Marina View,11,The Marina,Bowness On Windermere,Windermere
+2022-06-14,475000,LA23 3BQ,F,N,L,Marina View,22,The Marina,Bowness On Windermere,Windermere
+2022-06-10,452000,LA23 3JE,T,N,F,Meadowcroft Cottages,6,Meadowcroft Lane,Bowness On Windermere,Windermere
+2022-06-01,755683,LA23 3BQ,F,N,L,Marina View,17,The Marina,Bowness On Windermere,Windermere
+2022-06-01,625000,LA23 3BQ,F,N,L,24 Marina View,,The Marina,Bowness On Windermere,Windermere
+2022-05-31,380000,LA23 3GN,F,N,L,The Royal,Apartment 6,Church Street,Bowness On Windermere,Windermere
+2022-05-30,478777,LA23 3BQ,F,N,L,Marina View,23,The Marina,Bowness On Windermere,Windermere
+2022-05-30,603115,LA23 3BQ,F,N,L,Marina View,10,The Marina,Bowness On Windermere,Windermere
+2022-05-30,817500,LA23 1EU,S,N,F,Grange House,,Ambleside Road,,Windermere
+2022-05-27,651225,LA23 3BQ,F,N,L,Marina View,15,The Marina,Bowness On Windermere,Windermere
+2022-05-27,318000,LA23 2HH,T,N,F,3,,Oldfield Court,,Windermere
+2022-05-27,460000,LA23 1HN,S,N,F,18,,Brook Street,Troutbeck Bridge,Windermere
+2022-05-24,532000,LA23 2AW,T,N,F,2,Burn House,Park Road,,Windermere
+2022-05-20,520000,LA23 2ND,D,N,F,109,,Windermere Park,,Windermere
+2022-05-20,280000,LA23 2EN,F,N,L,Sunnyside Up,,Sunny Bank Road,,Windermere
+2022-05-20,355000,LA23 2BE,T,N,F,25,,Park Road,,Windermere
+2022-05-20,190000,LA23 1JE,T,N,L,19,,Elleray Gardens,,Windermere
+2022-05-17,780000,LA23 3QR,D,N,F,1,,Old Mill Crescent,Bowness On Windermere,Windermere
+2022-05-17,250000,LA23 3AB,F,N,L,10,,Beechwood Close,Bowness On Windermere,Windermere
+2022-05-12,1714000,LA23 3NS,D,N,F,Crag House,,,Winster,Windermere
+2022-05-12,272200,LA23 2FJ,F,N,L,Pattinson House,Flat 3,Beresford Road,,Windermere
+2022-05-12,130000,LA23 1JE,F,N,L,104,,Elleray Gardens,,Windermere
+2022-05-11,825000,LA23 1BZ,D,N,F,14,,Old College Park,,Windermere
+2022-05-03,170000,LA23 2DN,T,N,F,28A,,Thornthwaite Road,,Windermere
+2022-04-28,282200,LA23 2FJ,F,N,L,Pattinson House,Flat 2,Beresford Road,,Windermere
+2022-04-28,272200,LA23 2FJ,F,N,L,Pattinson House,Flat 4,Beresford Road,,Windermere
+2022-04-21,1075000,LA23 3JZ,D,N,F,Ellaray,,Middle Entrance Drive,Bowness On Windermere,Windermere
+2022-04-21,100000,LA23 2PR,F,N,L,Alexandra Court,Flat 4,Ellerthwaite Road,,Windermere
+2022-04-20,550000,LA23 3BF,F,N,L,27,,Windward Way,,Windermere
+2022-04-14,365000,LA23 1HX,S,N,F,10,,Broadfield,Troutbeck Bridge,Windermere
+2022-04-12,272200,LA23 2FJ,F,N,L,Pattinson House,Flat 5,Beresford Road,,Windermere
+2022-04-08,2300000,LA23 3PR,D,N,F,Yew Tree,,Newby Bridge Road,,Windermere
+2022-04-08,287000,LA23 3JG,F,N,L,Meadowcroft,Flat 6,Storrs Park,Bowness On Windermere,Windermere
+2022-04-07,765000,LA23 3PW,D,N,F,Fellside,6,Tower Wood,,Windermere
+2022-04-07,225000,LA23 1PE,F,N,L,Chapel Court,2,Sun Hill Lane,Troutbeck Bridge,Windermere
+2022-04-06,530000,LA23 2BS,T,N,F,"Puddle Duck Cottage, 50",,Ellerthwaite Road,,Windermere
+2022-04-06,9858750,LA23 1JA,D,N,F,Meregarth,,Old Hall Road,Troutbeck Bridge,Windermere
+2022-04-06,945000,LA23 1EU,S,N,F,Wynlass Beck,,Ambleside Road,,Windermere
+2022-04-05,282200,LA23 2FJ,F,N,L,Pattinson House,Flat 1,Beresford Road,,Windermere
+2022-04-04,355000,LA23 3AB,F,N,L,29,,Beechwood Close,Bowness On Windermere,Windermere
+2022-03-31,171000,LA23 3EE,F,N,L,West End Flats,3,West End,Bowness On Windermere,Windermere
+2022-03-31,252000,LA23 2EU,T,N,F,29,,Meadow Road,,Windermere
+2022-03-28,261000,LA23 1AG,F,N,L,College Gate,Flat 1,Elleray Road,,Windermere
+2022-03-25,212000,LA23 2DY,T,N,F,2,,School Knott Drive,,Windermere
+2022-03-25,375000,LA23 2BQ,T,N,F,33,,Limethwaite Road,,Windermere
+2022-03-18,70000,LA23 2PR,F,N,L,Alexandra Court,Flat 27,Ellerthwaite Road,,Windermere
+2022-03-18,650000,LA23 1EW,D,N,F,6,,Applerigg,,Windermere
+2022-03-14,352000,LA23 2BQ,T,N,F,32,,Limethwaite Road,,Windermere
+2022-03-04,660000,LA23 3AX,D,N,F,112,,Craig Walk,Bowness On Windermere,Windermere
+2022-03-01,95000,LA23 2PR,F,N,L,Alexandra Court,Flat 2,Ellerthwaite Road,,Windermere
+2022-03-01,87500,LA23 2PR,F,N,L,Alexandra Court,Flat 32,Ellerthwaite Road,,Windermere
+2022-03-01,980000,LA23 1SA,T,N,F,Oakland,1,Carriage Drive,,Windermere
+2022-02-28,1448350,LA23 3LS,D,N,F,Green Dod,,Black Beck Wood,,Windermere
+2022-02-25,250000,LA23 2LB,T,N,F,18,,Upper Oak Street,,Windermere
+2022-02-23,610000,LA23 1JA,S,N,F,Hilltop,1,Old Hall Road,Troutbeck Bridge,Windermere
+2022-02-18,210000,LA23 3JB,F,N,L,Winander,Flat 5,Ferry View,Bowness On Windermere,Windermere
+2022-02-18,450000,LA23 3AL,S,N,F,11,,Fairfield,Bowness On Windermere,Windermere
+2022-02-18,356128,LA23 2EY,D,N,F,17,,Brow Crescent,,Windermere
+2022-02-18,705000,LA23 1HG,D,N,F,5,,Keldwyth Park,Troutbeck Bridge,Windermere
+2022-02-14,1250000,LA23 1HG,D,N,F,3,,Keldwyth Park,Troutbeck Bridge,Windermere
+2022-02-14,350000,LA23 1AZ,D,N,F,22,,St Marys Park,,Windermere
+2022-02-11,169050,LA23 2EA,F,N,L,6,,Thornthwaite Flats,,Windermere
+2022-02-04,412200,LA23 1EN,T,N,F,13,,Oak Street,,Windermere
+2022-01-21,243000,LA23 1EX,T,N,L,Priory Cottages,8,Rayrigg Road,,Windermere
+2022-01-19,535000,LA23 1HY,S,N,F,Infield House,,,Troutbeck Bridge,Windermere
+2022-01-19,275000,LA23 1HY,S,N,F,1,,Broadfield Bungalows,Troutbeck Bridge,Windermere
+2022-01-13,550000,LA23 3ES,S,N,F,Briars Lea,,Ferney Green,Bowness On Windermere,Windermere
+2021-12-23,700000,LA23 3AE,D,N,F,Bears Den,,Brantfell Road,Bowness On Windermere,Windermere
+2021-12-22,90000,LA23 1EP,F,N,L,24,,Bannerigg,,Windermere
+2021-12-17,150000,LA23 3JB,F,N,L,Winander,Flat 2,Ferry View,Bowness On Windermere,Windermere
+2021-12-15,650000,LA23 3AG,D,N,F,10,,Langrigge Park,Bowness On Windermere,Windermere
+2021-12-14,460750,LA23 3AT,D,N,F,2,,Brantfell Walk,Bowness On Windermere,Windermere
+2021-12-13,512000,LA23 2EW,S,N,F,1,,Thornbarrow Road,,Windermere
+2021-12-13,250000,LA23 1HL,T,N,F,7,,Calgarth View,Troutbeck Bridge,Windermere
+2021-12-09,375000,LA23 3AE,F,N,L,Crown Rigg,15,Brantfell Road,Bowness On Windermere,Windermere
+2021-12-07,269000,LA23 2LN,T,N,F,24,,Ghyll Close,,Windermere
+2021-12-07,332000,LA23 2DR,S,N,F,8,,Fairfield Road,,Windermere
+2021-12-05,265100,LA23 1AG,F,N,L,College Gate,Flat 15,Elleray Road,,Windermere
+2021-12-03,195000,LA23 2LL,S,N,F,4,,Claife Close,,Windermere
+2021-12-02,210000,LA23 2LS,T,N,F,34,,Droomer Drive,,Windermere
+2021-12-02,310000,LA23 2AZ,S,N,F,45,,Oldfield Road,,Windermere
+2021-11-30,220000,LA23 3JB,F,N,L,Winander,Flat 6,Ferry View,Bowness On Windermere,Windermere
+2021-11-30,550000,LA23 2EQ,S,N,F,Crompton House,,Lake Road,,Windermere
+2021-11-29,370000,LA23 3DW,T,N,F,22,,Quarry Brow,Bowness On Windermere,Windermere
+2021-11-25,250000,LA23 3JQ,T,N,F,Boathouse,35,The Marina,Bowness On Windermere,Windermere
+2021-11-22,400000,LA23 2AY,T,N,F,13,,Alexandra Road,,Windermere
+2021-11-19,320000,LA23 3QP,F,N,L,23,,Bellman Close,,Windermere
+2021-11-19,755000,LA23 1AU,D,N,F,Barbary Hill,,Spooner Vale,,Windermere
+2021-11-18,904000,LA23 3JJ,D,N,F,The Laurels,,Meadowcroft Lane,Ferry Nab,Windermere
+2021-11-11,95000,LA23 2PR,F,N,L,Alexandra Court,Flat 22,Ellerthwaite Road,,Windermere
+2021-11-05,320000,LA23 3AJ,F,N,L,2,,Langrigge Court,Bowness On Windermere,Windermere
+2021-10-26,322500,LA23 3BF,F,N,L,26,,Windward Way,,Windermere
+2021-10-21,195000,LA23 2LX,T,N,F,15,,Droomer Lane,,Windermere
+2021-10-19,480000,LA23 2DH,S,N,F,Heathmere,,Park Road,,Windermere
+2021-10-18,500000,LA23 2EW,D,N,F,Blue Ridge,,Thornbarrow Road,,Windermere
+2021-10-15,250000,LA23 2HH,T,N,F,12,,Oldfield Court,,Windermere
+2021-10-15,650000,LA23 1AY,D,N,F,9,,St Marys Park,,Windermere
+2021-10-14,80000,LA23 1JE,F,N,L,207,,Elleray Gardens,,Windermere
+2021-10-11,660000,LA23 1AU,D,N,F,Spooner How,,Spooner Vale,,Windermere
+2021-09-30,330000,LA23 3JB,T,N,L,Wynander Cottage,,Ferry View,Bowness On Windermere,Windermere
+2021-09-30,222000,LA23 3DT,F,N,L,36,,Quarry Rigg,Bowness On Windermere,Windermere
+2021-09-30,249500,LA23 2LN,T,N,F,20,,Ghyll Close,,Windermere
+2021-09-30,240000,LA23 2JE,F,N,L,Mylnbeck Court,10,Lake Road,,Windermere
+2021-09-30,190000,LA23 2EU,T,N,F,29,,Meadow Road,,Windermere
+2021-09-30,380000,LA23 2EU,S,N,F,11,,Meadow Road,,Windermere
+2021-09-30,250000,LA23 2DY,T,N,F,22,,School Knott Drive,,Windermere
+2021-09-30,335000,LA23 2BQ,T,N,F,29,,Limethwaite Road,,Windermere
+2021-09-30,170000,LA23 1AQ,F,N,L,14A,Basement Flat,Church Street,,Windermere
+2021-09-29,325000,LA23 3EY,F,N,L,27,,Belsfield Court,Bowness On Windermere,Windermere
+2021-09-29,276000,LA23 2LD,S,N,F,5,,Orrest Drive,,Windermere
+2021-09-29,547000,LA23 1EL,S,N,F,Knotts View,10,Hazel Street,,Windermere
+2021-09-24,275000,LA23 2DP,D,N,F,Mizzle Edge,,Victoria Road,,Windermere
+2021-09-23,170000,LA23 1EN,F,N,L,Oak Lodge,Flat 1,Oak Street,,Windermere
+2021-09-20,610000,LA23 2EL,S,N,F,Lake House,,Queens Drive,,Windermere
+2021-09-14,300000,LA23 3JE,T,N,L,Meadowcroft Cottages,30,Meadowcroft Lane,Bowness On Windermere,Windermere
+2021-09-14,170000,LA23 1EU,F,N,L,Firgarth,Flat 4,Ambleside Road,,Windermere
+2021-09-07,180000,LA23 2JL,F,N,L,Beresford Court,Flat 5,Lake Road,,Windermere
+2021-09-02,292000,LA23 2JS,F,N,L,84,Blubell,Craig Walk,,Windermere
+2021-09-02,260000,LA23 2EQ,S,N,F,Mylne Beck House,5,Lake Road,,Windermere
+2021-08-31,230000,LA23 1DR,F,N,L,5,,Cumbria Court,,Windermere
+2021-08-27,190000,LA23 2LH,T,N,F,71,,Claife Avenue,,Windermere
+2021-08-26,915000,LA23 2DB,D,N,F,Ashdown House,,Lake Road,,Windermere
+2021-08-20,310000,LA23 2LB,D,N,F,Raybarrow,,Upper Oak Street,,Windermere
+2021-08-20,490000,LA23 2DG,F,N,L,Lynstead,1,Thornbarrow Road,,Windermere
+2021-08-20,240000,LA23 2AZ,S,N,F,39,,Oldfield Road,,Windermere
+2021-08-20,485000,LA23 1QE,D,N,F,2,,Edlan Place,Troutbeck Bridge,Windermere
+2021-08-20,305000,LA23 1HX,T,N,F,7,,Broadfield,Troutbeck Bridge,Windermere
+2021-08-13,235000,LA23 2HE,F,N,L,2,,Langdale Crescent,,Windermere
+2021-08-09,180000,LA23 2LH,T,N,F,35,,Claife Avenue,,Windermere
+2021-08-06,725000,LA23 3DS,T,N,F,10,,Millbeck Stock,Bowness On Windermere,Windermere
+2021-08-05,4000000,LA23 3LJ,D,N,F,Ghyll Brae,,Newby Bridge Road,,Windermere
+2021-08-05,147500,LA23 1JE,F,N,L,4,,Elleray Gardens,,Windermere
+2021-07-30,129000,LA23 3AZ,F,N,L,50,,Helm Close,Bowness On Windermere,Windermere
+2021-07-30,248500,LA23 2EQ,T,N,F,Mylne Beck House,4,Lake Road,,Windermere
+2021-07-28,315000,LA23 2BQ,S,N,F,7,,Limethwaite Road,,Windermere
+2021-07-21,335000,LA23 2BQ,T,N,F,35,,Limethwaite Road,,Windermere
+2021-07-16,198500,LA23 2JG,F,N,L,Beresford Court,Flat 3,Beresford Road,,Windermere
+2021-07-08,150000,LA23 1DY,F,N,L,12A,,Main Road,,Windermere
+2021-07-02,230000,LA23 2NQ,F,N,L,Holly Apartment Pinethwaite Hall,,Lickbarrow Road,,Windermere
+2021-07-02,260000,LA23 1BY,F,N,L,Lipwood,Flat 5,Old College Lane,,Windermere
+2021-06-30,530000,LA23 3LQ,S,N,F,Bellman Cottage,,Storrs Park,Bowness On Windermere,Windermere
+2021-06-30,160000,LA23 3DT,F,N,L,23A,,Quarry Rigg,Bowness On Windermere,Windermere
+2021-06-30,730000,LA23 3BQ,S,N,L,Marina View,26,The Marina,Bowness On Windermere,Windermere
+2021-06-30,845000,LA23 3BQ,S,N,L,25,,The Marina,Bowness On Windermere,Windermere
+2021-06-30,1850000,LA23 3AS,D,N,F,Green Rigg,,Longlands Road,Bowness On Windermere,Windermere
+2021-06-30,225000,LA23 2HE,F,N,L,4,,Langdale Crescent,,Windermere
+2021-06-30,182000,LA23 2EA,F,N,L,2,,Thornthwaite Flats,,Windermere
+2021-06-30,1100000,LA23 1NA,D,N,F,"Brantwithern, 2",,Holbeck Close,,Windermere
+2021-06-30,1100000,LA23 1DJ,D,N,F,Farley,,Cornbirthwaite Road,,Windermere
+2021-06-29,1440000,LA23 3LD,D,N,F,Ellerwood,,Storrs Park,Bowness On Windermere,Windermere
+2021-06-29,382500,LA23 2BA,T,N,F,14,,Oakthwaite Road,,Windermere
+2021-06-28,540000,LA23 3HA,S,N,F,8,,Firtree Crescent,Bowness On Windermere,Windermere
+2021-06-28,360000,LA23 3EZ,S,N,F,The Cottage,,Birkett Hill,Bowness On Windermere,Windermere
+2021-06-28,452000,LA23 3EY,T,N,F,15,,Belsfield Court,Bowness On Windermere,Windermere
+2021-06-28,300000,LA23 2AU,S,N,F,3,,Springfield Road,,Windermere
+2021-06-28,720000,LA23 1NF,D,N,F,Hoo Lane,Oak Beck,Ambleside Road,,Windermere
+2021-06-25,513000,LA23 3BF,F,N,L,25,,Windward Way,,Windermere
+2021-06-25,566000,LA23 2NF,D,N,F,"Mardale, 12",,Lickbarrow Close,,Windermere
+2021-06-25,435000,LA23 1SA,F,N,L,Elleray Bank,Flat 2,Carriage Drive,,Windermere
+2021-06-25,1100000,LA23 1PN,T,N,F,Fell Cottage,,,Troutbeck,Windermere
+2021-06-25,402879,LA23 1EH,T,N,F,10,,Havelock Road,,Windermere
+2021-06-25,885000,LA23 1DH,D,N,F,5,,South Crescent,,Windermere
+2021-06-24,652000,LA23 3QR,D,N,F,2,,Old Mill Crescent,Bowness On Windermere,Windermere
+2021-06-24,810000,LA23 3AQ,D,N,F,Bowfell,,Langrigge Drive,Bowness On Windermere,Windermere
+2021-06-24,675000,LA23 2ND,D,N,F,75,,Windermere Park,,Windermere
+2021-06-24,350000,LA23 2DQ,T,N,F,79,,Thornbarrow Road,,Windermere
+2021-06-24,500000,LA23 1JS,S,N,F,Far Away,,High Borrans,,Windermere
+2021-06-22,147000,LA23 2EL,F,N,L,Denewood,Flat 6,Queens Drive,,Windermere
+2021-06-18,225000,LA23 2LG,S,N,F,7,,Thwaites Lane,,Windermere
+2021-06-17,300000,LA23 2AT,S,N,F,16,,Birkfield Road,,Windermere
+2021-06-15,680000,LA23 3LT,D,N,F,Willows,,Storrs Park,Bowness On Windermere,Windermere
+2021-06-15,250000,LA23 2LA,F,N,L,Engadine,Flat 2,New Road,,Windermere
+2021-06-04,1175000,LA23 3NN,D,N,F,Broom Hill,,,Winster,Windermere
+2021-06-03,425000,LA23 3PN,D,N,F,Burrow House,,Tower Wood,,Windermere
+2021-05-28,650000,LA23 1PJ,D,N,F,Larchways,,,Troutbeck,Windermere
+2021-05-27,225000,LA23 3BX,F,N,L,Rosslyn,,Crag Brow,Bowness On Windermere,Windermere
+2021-05-21,320000,LA23 3AX,T,N,F,Rustic Cottages,3,Craig Walk,Bowness On Windermere,Windermere
+2021-05-19,315000,LA23 2NB,S,N,F,27,,Windermere Park,,Windermere
+2021-05-18,265000,LA23 2DR,S,N,F,4,,Fairfield Road,,Windermere
+2021-05-14,277000,LA23 1HE,T,N,F,2,,Mountain View,Troutbeck Bridge,Windermere
+2021-05-12,310000,LA23 2ET,D,N,F,16,,North Craig,,Windermere
+2021-05-10,1125000,LA23 3JZ,D,N,F,White Gates,,Middle Entrance Drive,Bowness On Windermere,Windermere
+2021-05-10,562000,LA23 2HR,D,N,F,Underhelm,,Annisgarth Avenue,,Windermere
+2021-05-10,220000,LA23 2DY,T,N,F,29,,School Knott Drive,,Windermere
+2021-05-07,369000,LA23 3AT,D,N,F,5,,Brantfell Walk,Bowness On Windermere,Windermere
+2021-05-07,502000,LA23 1DH,D,N,F,1,,South Crescent,,Windermere
+2021-05-05,775750,LA23 3DR,D,N,F,10,,Rayrigg Rise,Bowness On Windermere,Windermere
+2021-04-30,510000,LA23 3BF,T,N,L,8,,Windward Way,Bowness On Windermere,Windermere
+2021-04-30,371850,LA23 3AD,T,N,F,Brantfell Cottages,5,Brantfell Road,Bowness On Windermere,Windermere
+2021-04-28,270000,LA23 2AX,S,N,F,33,,Park Avenue,,Windermere
+2021-04-26,250000,LA23 2EU,T,N,F,33,,Meadow Road,,Windermere
+2021-04-26,385000,LA23 2DJ,S,N,F,Silverthwaite,,Park Road,,Windermere
+2021-04-26,975000,LA23 1PG,D,N,F,Cherry Tree,,,Troutbeck,Windermere
+2021-04-23,995000,LA23 3NA,D,N,F,Low House,,Cleabarrow,,Windermere
+2021-04-23,152000,LA23 1JE,F,N,L,115,,Elleray Gardens,,Windermere
+2021-04-19,675000,LA23 3ES,D,N,F,Fir Trees,,Ferney Green,Bowness On Windermere,Windermere
+2021-04-16,267500,LA23 3BH,T,N,F,"Rydal Cottage, 23",,South Terrace,Bowness On Windermere,Windermere
+2021-04-14,400000,LA23 3EY,T,N,F,6,,Belsfield Court,Bowness On Windermere,Windermere
+2021-04-12,385000,LA23 3DA,T,N,L,Fellside Cottages,2,Rayrigg Road,Bowness On Windermere,Windermere
+2021-04-12,375000,LA23 2EN,S,N,F,Runnel Cottage,,Sunny Bank Road,,Windermere
+2021-04-09,200000,LA23 3DT,S,N,L,20,,Quarry Rigg,Bowness On Windermere,Windermere
+2021-04-09,650000,LA23 2NB,D,N,F,10,,Windermere Park,,Windermere
+2021-04-09,170000,LA23 2EQ,F,N,L,Oakhill,Flat 6,Lake Road,,Windermere
+2021-04-09,395000,LA23 2AY,T,N,F,2,,Alexandra Road,,Windermere
+2021-04-09,525000,LA23 1NQ,T,N,F,Carriage House,,Patterdale Road,,Windermere
+2021-04-09,265000,LA23 1EE,F,N,L,Lilac Cottage,,Derby Square,,Windermere
+2021-04-08,501000,LA23 1PH,D,N,F,Longmire Yeat,1,,Troutbeck,Windermere
+2021-04-07,315000,LA23 2JS,T,N,F,113,,Craig Walk,,Windermere
+2021-04-06,532000,LA23 3HU,D,N,F,Langbank Cottage,,Kendal Road,Bowness On Windermere,Windermere
+2021-03-31,165000,LA23 3DT,F,N,L,21A,,Quarry Rigg,Bowness On Windermere,Windermere
+2021-03-31,230000,LA23 3BD,F,N,L,Helm Rigg,Flat 13,Helm Road,Bowness On Windermere,Windermere
+2021-03-31,231500,LA23 2JT,F,N,L,"Glen Brook, 50",Flat 2,Craig Walk,,Windermere
+2021-03-31,247000,LA23 2DN,T,N,F,25,,Thornthwaite Road,,Windermere
+2021-03-31,295000,LA23 1HN,T,N,F,5,,Brook Street,Troutbeck Bridge,Windermere
+2021-03-31,142000,LA23 1DR,F,N,L,8,,Cumbria Court,,Windermere
+2021-03-30,240000,LA23 3AB,S,N,L,8,,Beechwood Close,Bowness On Windermere,Windermere
+2021-03-26,725000,LA23 3LS,D,N,F,Tullabrig,,Black Beck Wood,,Windermere
+2021-03-26,345000,LA23 3AX,T,N,F,94,,Craig Walk,Bowness On Windermere,Windermere
+2021-03-26,176000,LA23 2LL,T,N,F,3,,Claife Close,,Windermere
+2021-03-26,975000,LA23 1NF,D,N,F,Westways,,Ambleside Road,,Windermere
+2021-03-26,515000,LA23 1BF,D,N,F,7,,Priory Grange,,Windermere
+2021-03-19,975000,LA23 3LU,D,N,F,Greenlands,,Greenstiles Park,,Windermere
+2021-03-19,245000,LA23 2JE,F,N,L,Mylnbeck Court,11,Lake Road,,Windermere
+2021-03-19,180000,LA23 2EQ,F,N,L,Oakhill,Flat 5,Lake Road,,Windermere
+2021-03-19,551500,LA23 1SA,F,N,L,Cleeve Howe,The Lantern Tower,Carriage Drive,,Windermere
+2021-03-19,360000,LA23 1EW,D,N,F,5,,Applerigg,,Windermere
+2021-03-16,120000,LA23 2LF,T,N,L,19,,Orrest Drive Flats,,Windermere
+2021-03-12,145000,LA23 2LE,F,N,L,26,,Orrest Drive Flats,,Windermere
+2021-03-12,213000,LA23 1DR,F,N,L,18,,Cumbria Court,,Windermere
+2021-03-12,665000,LA23 1DG,D,N,F,The Birches,,Cornbirthwaite Road,,Windermere
+2021-03-11,322600,LA23 2BH,S,N,F,Springfield,,Park View,,Windermere
+2021-03-05,255000,LA23 3EY,F,N,L,16,,Belsfield Court,Bowness On Windermere,Windermere
+2021-03-05,372500,LA23 3BF,F,N,L,29,,Windward Way,,Windermere
+2021-03-05,372500,LA23 3BF,F,N,L,29,,Windward Way,,Windermere
+2021-03-05,377500,LA23 3BF,F,N,L,20,,Windward Way,,Windermere
+2021-03-05,450000,LA23 2EY,D,N,F,"Chinook, 11",,Brow Crescent,,Windermere
+2021-03-05,695000,LA23 2EW,D,N,F,Aysgarth,,Thornbarrow Road,,Windermere
+2021-03-05,367500,LA23 1BY,F,N,L,Lipwood,Flat 1,Old College Lane,,Windermere
+2021-03-05,480000,LA23 1BY,F,N,L,Cloverlands,Flat 1,Old College Lane,,Windermere
+2021-03-05,600000,LA23 1BS,D,N,F,Birthwaite Cottage,,Birthwaite Road,,Windermere
+2021-03-03,215000,LA23 2LL,T,N,F,9,,Claife Close,,Windermere
+2021-03-03,120000,LA23 1EP,F,N,L,15,,Bannerigg,,Windermere
+2021-03-02,488140,LA23 3HS,D,N,F,7,,Ferney Green Drive,Bowness On Windermere,Windermere
+2021-03-01,320000,LA23 2JW,T,N,F,Woodside West,2,Bank Road,,Windermere
+2021-02-26,320000,LA23 3JE,T,N,L,Meadowcroft Cottages,15,Meadowcroft Lane,Bowness On Windermere,Windermere
+2021-02-26,499000,LA23 3BF,T,N,L,3,,Windward Way,,Windermere
+2021-02-25,585000,LA23 2HP,S,N,F,1A,,Annisgarth Close,,Windermere
+2021-02-19,178000,LA23 2EA,F,N,L,1,,Thornthwaite Flats,,Windermere
+2021-02-19,308000,LA23 2DN,T,N,F,5,,Thornthwaite Road,,Windermere
+2021-02-19,650000,LA23 1BZ,T,N,F,Greenclose,,Phoenix Way,,Windermere
+2021-02-18,278000,LA23 3JE,T,N,L,Meadowcroft Cottages,26,Meadowcroft Lane,Bowness On Windermere,Windermere
+2021-02-18,425000,LA23 2BS,T,N,F,46,,Ellerthwaite Road,,Windermere
+2021-02-17,195000,LA23 2LZ,S,N,F,2,,Mill Brow,Droomer,Windermere
+2021-02-16,1263500,LA23 1NU,D,N,F,Holehird Cottage,,Lily Lane,,Windermere
+2021-02-12,500000,LA23 3FB,D,N,F,Beatrix House,,Kendal Road,Bowness On Windermere,Windermere
+2021-02-12,65000,LA23 2PR,F,N,L,Alexandra Court,Flat 29,Ellerthwaite Road,,Windermere
+2021-02-12,312500,LA23 2JH,D,N,F,19,,South Craig,,Windermere
+2021-02-12,295000,LA23 1BD,T,N,F,2 Maple Court,School Knott Cottage,Cross Street,,Windermere
+2021-02-11,124000,LA23 2DA,F,N,F,The Loft,,Alexandra Road,,Windermere
+2021-02-09,521500,LA23 1AU,D,N,F,St Andrews Lodge,,Spooner Vale,,Windermere
+2021-02-05,146500,LA23 3GQ,F,N,L,St Martins Court,Apartment 4,St Martins Parade,Bowness On Windermere,Windermere
+2021-02-05,162000,LA23 3GQ,F,N,L,St Martins Court,Apartment 1,St Martins Parade,Bowness On Windermere,Windermere
+2021-02-05,467500,LA23 1PZ,F,N,L,6,,Applethwaite Hall,,Windermere
+2021-02-05,747000,LA23 1AR,D,N,F,Oakland,Rose Garth,,,Windermere
+2021-02-04,605000,LA23 3LZ,F,N,L,2,,Cannon Close,Bowness On Windermere,Windermere
+2021-02-04,1140000,LA23 1JQ,D,N,F,Applethwaite Lodge,,,,Windermere
+2021-02-02,400000,LA23 3LS,D,N,F,Otters Pool,,Black Beck Wood,,Windermere
+2021-01-29,330000,LA23 3PN,D,N,F,Fawns Keep,,Tower Wood,,Windermere
+2021-01-29,86250,LA23 3DX,F,N,L,16,,Fallbarrow Court,Bowness On Windermere,Windermere
+2021-01-29,190000,LA23 2LY,T,N,F,15,,Mill Rise,Droomer,Windermere
+2021-01-29,190000,LA23 2DS,S,N,F,50,,Victoria Road North,,Windermere
+2021-01-29,228000,LA23 2DR,S,N,F,36,,Fairfield Road,,Windermere
+2021-01-25,125000,LA23 2DP,D,N,F,Hedgerows,,Victoria Road,,Windermere
+2021-01-20,225000,LA23 2HZ,F,N,L,1,,The Court,,Windermere
+2021-01-18,602270,LA23 2EL,D,N,F,Crossriggs,,Queens Drive,,Windermere
+2021-01-14,476000,LA23 3DR,D,N,F,14,,Rayrigg Rise,Bowness On Windermere,Windermere
+2021-01-14,410000,LA23 2DH,D,N,F,Yewtrees,,Park Road,,Windermere
+2021-01-08,350000,LA23 2HB,T,N,F,25,,Craig Walk,,Windermere
+2021-01-08,295000,LA23 2EB,S,N,F,6,,Lickbarrow Road,,Windermere
+2021-01-06,224000,LA23 2EP,F,N,L,Thornbarrow Hall,Flat 5,Thornbarrow Drive,,Windermere
+2021-01-06,425000,LA23 1HA,D,N,F,Cooks House,,Ambleside Road,,Windermere

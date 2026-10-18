@@ -1,0 +1,640 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-21,550000,GL19 4HW,D,N,F,15,,Mayalls Close,Tirley,Gloucester
+2026-08-20,280000,GL19 3SD,D,N,F,16,,Oak Way,Huntley,Gloucester
+2026-07-31,4800000,GL19 4JN,D,N,F,Foscombe House,,Foscombe,Ashleworth,Gloucester
+2026-07-30,375000,GL19 3FB,D,N,F,1,,Laburnum Villas,Hartpury,Gloucester
+2026-07-27,535000,GL19 4EB,D,N,F,The Poppies,,Apperley Park,Apperley,Gloucester
+2026-07-15,465000,GL19 4JJ,D,N,F,Ashstead Cottage,,Nupend,Ashleworth,Gloucester
+2026-07-01,615000,GL19 3JS,D,N,F,Pear Tree Cottage,,Causeway,Redmarley,Gloucester
+2026-06-26,292000,GL19 3SD,D,N,F,73,,Oak Way,Huntley,Gloucester
+2026-06-25,300000,GL19 3RP,D,N,F,12,,Compton Close,Corse,Gloucester
+2026-06-23,261000,GL19 3RF,D,N,F,Millbrook,,Prince Crescent,Staunton,Gloucester
+2026-06-11,580000,GL19 4EL,D,N,F,Little Dorrit,,Nup End Lane,Ashleworth,Gloucester
+2026-05-27,280000,GL19 3AT,S,N,F,50,,Orchard Rise,Tibberton,Gloucester
+2026-05-20,810000,GL19 4ER,D,N,F,22,,Villard Close,Coombe Hill,Gloucester
+2026-05-01,340000,GL19 4FA,S,N,F,16,,Meadow Brown Road,Coombe Hill,Gloucester
+2026-04-17,395000,GL19 4HZ,D,N,F,Quay Cottage,,The Quay,Ashleworth,Gloucester
+2026-04-17,250000,GL19 3RG,S,N,F,12,,Boundary Place,Corse,Gloucester
+2026-04-15,370000,GL19 3DG,T,N,F,Moorend Cottage,1,Moorend,Hartpury,Gloucester
+2026-04-09,305000,GL19 3SE,D,N,F,7,,Newent Lane,Huntley,Gloucester
+2026-03-20,275000,GL19 3RS,S,N,F,15,,Jubilee Place,Staunton,Gloucester
+2026-03-10,462500,GL19 3RF,D,N,F,Two Hoots,,Prince Crescent,Staunton,Gloucester
+2026-03-09,465000,GL19 3HS,D,N,F,Larksmere,,,Redmarley,Gloucester
+2026-03-05,530000,GL19 3PS,D,N,F,Cleeve House Farm,,,Pendock,Gloucester
+2026-02-26,340000,GL19 3RP,S,N,F,19,,Compton Close,Corse,Gloucester
+2026-02-25,500000,GL19 4QQ,D,N,F,Green Ginger Cottage,,Long Green,Forthampton,Gloucester
+2026-02-24,752000,GL19 4DY,D,N,F,24,,,Lower Apperley,Gloucester
+2026-02-16,745000,GL19 4JW,D,N,F,Scarifour Cottage,,Wickridge Street,Ashleworth,Gloucester
+2026-02-12,292500,GL19 3RY,T,N,F,8,,O'Connor Close,Staunton,Gloucester
+2026-01-30,318000,GL19 3BP,S,N,F,28,,Corsend Road,Hartpury,Gloucester
+2026-01-29,247000,GL19 3RY,T,N,F,5,,O'Connor Close,Staunton,Gloucester
+2026-01-29,360000,GL19 3RF,D,N,F,The Heathers,,Prince Crescent,Staunton,Gloucester
+2026-01-27,500000,GL19 4EQ,D,N,F,Ryecourt Farm,,,Chaceley,Gloucester
+2026-01-26,300000,GL19 4DA,S,N,F,3,,Severn Way,Apperley,Gloucester
+2026-01-12,345000,GL19 4BZ,D,N,F,Illana,,Deerhurst Road,Apperley,Gloucester
+2026-01-08,760000,GL19 3FP,D,N,F,3,,Orchard Villas,Hartpury,Gloucester
+2025-12-15,520000,GL19 4HW,D,N,F,12,,Mayalls Close,Tirley,Gloucester
+2025-12-12,480000,GL19 3AX,D,N,F,14,,Lower Orchard,Tibberton,Gloucester
+2025-12-08,868000,GL19 3HH,D,N,F,Northend Farmhouse,,Newent Lane,Huntley,Gloucester
+2025-12-08,132500,GL19 3FD,S,N,L,Pear Tree House,,School Close,Hartpury,Gloucester
+2025-11-28,305000,GL19 3EL,S,N,F,6,,Byfords Road,Huntley,Gloucester
+2025-11-28,255000,GL19 3DB,S,N,F,Prestberries Villa,1,Blackwells End,Hartpury,Gloucester
+2025-11-20,403000,GL19 4FG,D,Y,F,6,,Tithe Close,Ashleworth,Gloucester
+2025-11-11,650000,GL19 4QA,D,N,F,Ash Tree House,,,Forthampton,Gloucester
+2025-11-07,557000,GL19 4DY,D,N,F,Elf Stone Hollow,,,Lower Apperley,Gloucester
+2025-11-03,725000,GL19 4DD,D,N,F,Oakhouse,,Deerhurst Road,Apperley,Gloucester
+2025-10-31,395000,GL19 4FE,D,Y,F,6,,Fulljames Crescent,Ashleworth,Gloucester
+2025-10-31,300000,GL19 4EA,T,N,F,3,,Chester Close,Apperley,Gloucester
+2025-10-31,375000,GL19 3BW,D,N,F,Glebelands,,Gloucester Road,Hartpury,Gloucester
+2025-10-20,595000,GL19 4HW,D,N,F,16,,Mayalls Close,Tirley,Gloucester
+2025-10-20,530000,GL19 3JX,D,N,F,Drury Lane Cottage,,Drury Lane,Redmarley,Gloucester
+2025-10-10,595000,GL19 3RG,D,N,F,Strathfarrar,,Boundary Place,Corse,Gloucester
+2025-10-06,417500,GL19 3RF,D,N,F,Chez Nous,,Prince Crescent,Staunton,Gloucester
+2025-10-03,465000,GL19 4QJ,D,N,F,Malvern Chase,,Long Green,Forthampton,Gloucester
+2025-10-01,125000,GL19 3PZ,S,N,L,Millennium Cottages,8,Jubilee Place,Staunton,Gloucester
+2025-09-25,380000,GL19 4FE,D,Y,F,22,,Fulljames Crescent,Ashleworth,Gloucester
+2025-09-25,890000,GL19 3LH,D,N,F,3,,Covent Garden,Redmarley,Gloucester
+2025-09-19,365000,GL19 3JQ,S,N,F,Mellow Farm Lodge,,Hawcross,Redmarley,Gloucester
+2025-09-17,745000,GL19 4JL,D,N,F,Meadowcroft,,Lawn Road,Ashleworth,Gloucester
+2025-09-15,790000,GL19 3HA,D,N,F,The Elms,,Broom Hill,Huntley,Gloucester
+2025-09-12,1075000,GL19 4NN,D,N,F,Orchard Rise,,Link End Road,Corse Lawn,Gloucester
+2025-09-12,305000,GL19 3SD,S,N,F,81,,Oak Way,Huntley,Gloucester
+2025-09-08,340000,GL19 3EL,S,N,F,17,,Byfords Road,Huntley,Gloucester
+2025-09-02,465000,GL19 3RT,D,N,F,Winchester Lodge,,Chartist Way,Staunton,Gloucester
+2025-08-29,292000,GL19 3HW,S,N,F,23,,Lambourne Avenue,Huntley,Gloucester
+2025-08-28,390000,GL19 3AF,T,N,F,The Court Farm,10,Huntley Road,Tibberton,Gloucester
+2025-08-27,725000,GL19 4HX,D,N,F,Field Barn,,Longridge Lane,Ashleworth,Gloucester
+2025-08-27,345000,GL19 3ER,D,N,F,2,,Sunset Place,Huntley,Gloucester
+2025-08-26,395000,GL19 3RF,D,N,F,Chances,,Prince Crescent,Staunton,Gloucester
+2025-08-22,600000,GL19 4PH,D,N,F,Marsh Lands,,Eldersfield Marsh,Eldersfield,Gloucester
+2025-08-22,900000,GL19 4LQ,D,N,F,Primrose Cottage,,,Hasfield,Gloucester
+2025-08-21,405000,GL19 4JT,D,N,F,27,,Rectory Close,Ashleworth,Gloucester
+2025-08-21,430500,GL19 3QY,D,N,F,5,,Hadfield Close,Staunton,Gloucester
+2025-08-21,575000,GL19 3DW,D,N,F,17,,Foley Rise,Hartpury,Gloucester
+2025-08-15,325000,GL19 3RD,D,N,F,Corse Bungalow,,Gloucester Road,Corse,Gloucester
+2025-08-08,865000,GL19 4NS,D,N,F,Weirdale Lodge,,Moorend Road,Eldersfield,Gloucester
+2025-08-08,370000,GL19 3DR,D,N,F,Lephare,,Hamlen Close,Huntley,Gloucester
+2025-08-08,630000,GL19 3BP,D,N,F,82,,Corsend Road,Hartpury,Gloucester
+2025-08-08,365000,GL19 3BP,D,N,F,6,,Corsend Road,Hartpury,Gloucester
+2025-08-07,865000,GL19 3QP,D,N,F,Birchfield,,,Staunton,Gloucester
+2025-08-07,690000,GL19 3LG,D,N,F,Barn Cottage,,Pendock Road,Redmarley,Gloucester
+2025-08-07,565000,GL19 3EL,D,N,F,36,,Byfords Road,Huntley,Gloucester
+2025-08-07,385000,GL19 3ED,D,N,F,The Bakehouse,,Tithe Farm Lane,Birdwood,Gloucester
+2025-08-05,770000,GL19 3BN,D,N,F,Monument House,,Broad Street,Hartpury,Gloucester
+2025-07-31,400000,GL19 4BS,D,N,F,Little Orchard,,,Deerhurst Walton,Gloucester
+2025-07-31,610000,GL19 3EP,D,N,F,4,,Frogmore Road,Huntley,Gloucester
+2025-07-31,730000,GL19 3EB,D,N,F,Dizzy Heights,,Solomons Tump,Huntley,Gloucester
+2025-07-30,393500,GL19 4FE,D,Y,F,3,,Fulljames Crescent,Ashleworth,Gloucester
+2025-07-16,970000,GL19 4DJ,D,Y,F,Orchard Barns,3,School Road,Apperley,Gloucester
+2025-07-16,485000,GL19 3FJ,D,Y,F,5,,Poplars Grove,Huntley,Gloucester
+2025-07-10,535000,GL19 4FE,D,Y,F,7,,Fulljames Crescent,Ashleworth,Gloucester
+2025-07-08,425000,GL19 4EU,S,N,F,Mount Pleasant,2,Main Road,Tirley,Gloucester
+2025-07-07,716000,GL19 3DD,S,N,F,Pooh Corner,,,Hartpury,Gloucester
+2025-07-04,525000,GL19 3FJ,D,Y,F,4,,Poplars Grove,Huntley,Gloucester
+2025-06-30,290000,GL19 3SD,S,N,F,12,,Oak Way,Huntley,Gloucester
+2025-06-27,225000,GL19 3SD,S,N,F,32,,Oak Way,Huntley,Gloucester
+2025-06-26,230500,GL19 3RX,T,N,F,19,,Cullingham Close,Staunton,Gloucester
+2025-06-20,290000,GL19 4EA,S,N,F,7,,Chester Close,Apperley,Gloucester
+2025-06-20,450000,GL19 3BP,D,N,F,4,,Corsend Road,Hartpury,Gloucester
+2025-06-19,258000,GL19 3RP,T,N,F,28,,Compton Close,Corse,Gloucester
+2025-06-19,370000,GL19 3HS,D,N,F,Coniston Cottage,,,Redmarley,Gloucester
+2025-06-18,575000,GL19 3EX,D,N,F,Resthouse,The Annexe,Ross Road,Huntley,Gloucester
+2025-06-16,396000,GL19 3DY,D,N,F,Breken Croft,,Tibberton Lane,Huntley,Gloucester
+2025-06-09,300000,GL19 4FF,S,Y,F,4,,Roman Drive,Ashleworth,Gloucester
+2025-06-09,385000,GL19 4DA,S,N,F,5,,Severn Way,Apperley,Gloucester
+2025-06-04,1000000,GL19 4DJ,D,Y,F,Orchard Barns,1,School Road,Apperley,Gloucester
+2025-05-23,380000,GL19 4EU,D,N,F,Conifers,,Main Road,Tirley,Gloucester
+2025-05-23,305000,GL19 3RP,S,N,F,6,,Compton Close,Corse,Gloucester
+2025-05-23,460000,GL19 3NW,D,N,F,4,,Sovereign Chase,Staunton,Gloucester
+2025-05-20,530000,GL19 3BN,D,N,F,Betulas,,Broad Street,Hartpury,Gloucester
+2025-05-16,300000,GL19 4FF,S,Y,F,3,,Roman Drive,Ashleworth,Gloucester
+2025-05-16,300000,GL19 3SD,S,N,F,79,,Oak Way,Huntley,Gloucester
+2025-04-25,510000,GL19 4AY,D,N,F,The Rosary,,Tewkesbury Road,Coombe Hill,Gloucester
+2025-04-22,129500,GL19 4RF,T,N,F,1,,Upper Lode Lock Cottages,Forthampton,Gloucester
+2025-04-17,400000,GL19 3AT,D,N,F,28,,Orchard Rise,Tibberton,Gloucester
+2025-04-14,875000,GL19 3LH,D,N,F,6,,Covent Garden,Redmarley,Gloucester
+2025-04-14,375000,GL19 3FJ,S,Y,F,8,,Poplars Grove,Huntley,Gloucester
+2025-04-09,1600000,GL19 4NX,D,N,F,Hunters Way,,Lime Street,Eldersfield,Gloucester
+2025-03-28,606000,GL19 4HJ,D,N,F,Twigmoor Cottage,,Haw Bridge,Tirley,Gloucester
+2025-03-28,407000,GL19 4FF,D,Y,F,5,,Roman Drive,Ashleworth,Gloucester
+2025-03-28,436000,GL19 3SA,D,N,F,11,,Byfords Close,Huntley,Gloucester
+2025-03-28,418000,GL19 3QE,S,N,F,2,,Chestnut Drive,Staunton,Gloucester
+2025-03-28,815000,GL19 3HG,D,N,F,The Old Cold Store,,Newent Lane,Huntley,Gloucester
+2025-03-28,480000,GL19 3EA,D,N,F,Primrose Lodge,,Main Road,Huntley,Gloucester
+2025-03-26,785000,GL19 3JT,D,N,F,Martindale,,The Green,Redmarley,Gloucester
+2025-03-25,550000,GL19 3FJ,D,Y,F,7,,Poplars Grove,Huntley,Gloucester
+2025-03-24,265000,GL19 3BH,S,N,F,11,,Danford Villas,Hartpury,Gloucester
+2025-03-14,395000,GL19 3RT,D,N,F,12,,Chartist Way,Staunton,Gloucester
+2025-03-07,147000,GL19 4JT,S,N,L,8,,Rectory Close,Ashleworth,Gloucester
+2025-03-07,558250,GL19 4HW,D,N,F,17,,Mayalls Close,Tirley,Gloucester
+2025-03-07,378500,GL19 4FE,D,Y,F,24,,Fulljames Crescent,Ashleworth,Gloucester
+2025-03-05,390000,GL19 3DR,D,N,F,14,,Hamlen Close,Huntley,Gloucester
+2025-02-26,465000,GL19 4JT,D,N,F,5,,Rectory Close,Ashleworth,Gloucester
+2025-02-25,463000,GL19 3EL,D,N,F,22,,Byfords Road,Huntley,Gloucester
+2025-02-25,622500,GL19 3DT,D,N,F,Cobweb,,Grange Court Lane,Huntley,Gloucester
+2025-02-21,345000,GL19 3QG,S,N,F,3,,Moat Lane,Staunton,Gloucester
+2025-02-21,620000,GL19 3DA,D,N,F,Hillfield,,Oridge Street,Corse,Gloucester
+2025-02-20,368000,GL19 4JB,D,N,F,Ronelle,,Bloxhams Orchard,Ashleworth,Gloucester
+2025-02-17,755000,GL19 3LH,D,N,F,8,,Covent Garden,Redmarley,Gloucester
+2025-02-14,450000,GL19 4EN,D,N,F,1,,Severn Walk,Apperley,Gloucester
+2025-02-10,525000,GL19 3FJ,D,Y,F,2,,Poplars Grove,Huntley,Gloucester
+2025-02-06,365000,GL19 3FJ,S,Y,F,10,,Poplars Grove,Huntley,Gloucester
+2025-02-04,335000,GL19 4JT,S,N,F,22,,Rectory Close,Ashleworth,Gloucester
+2025-02-04,370000,GL19 3BP,S,N,F,42,,Corsend Road,Hartpury,Gloucester
+2025-01-31,315000,GL19 4BZ,D,N,F,Melrose,,Deerhurst Road,Apperley,Gloucester
+2025-01-30,415000,GL19 3RF,D,N,F,The Conifers,,Prince Crescent,Staunton,Gloucester
+2025-01-17,1290000,GL19 4BU,D,N,F,Grove Barn,,,Deerhurst,Gloucester
+2025-01-16,385000,GL19 4JT,D,N,F,23,,Rectory Close,Ashleworth,Gloucester
+2025-01-16,480000,GL19 3PG,D,N,F,New Cross House,,,Pendock,Gloucester
+2025-01-10,575000,GL19 3BJ,D,N,F,St Mawgan,,Over Old Road,Hartpury,Gloucester
+2025-01-08,650000,GL19 3FH,D,Y,F,15,,Chapel End,Hartpury,Gloucester
+2024-12-23,330000,GL19 4FB,T,Y,F,14,,Turnstone Close,Coombe Hill,Gloucester
+2024-12-20,259995,GL19 4FB,D,Y,F,17,,Turnstone Close,Coombe Hill,Gloucester
+2024-12-20,499995,GL19 4FB,D,Y,F,15,,Turnstone Close,Coombe Hill,Gloucester
+2024-12-20,340000,GL19 4FB,S,Y,F,13,,Turnstone Close,Coombe Hill,Gloucester
+2024-12-20,605000,GL19 4FA,D,Y,F,40,,Meadow Brown Road,Coombe Hill,Gloucester
+2024-12-17,750000,GL19 4AG,D,N,F,Cyderpress Farm,,,The Leigh,Gloucester
+2024-12-13,550000,GL19 4FA,D,Y,F,36,,Meadow Brown Road,Coombe Hill,Gloucester
+2024-12-13,282500,GL19 3SD,S,N,F,29,,Oak Way,Huntley,Gloucester
+2024-12-13,348000,GL19 3HW,S,N,F,13,,Lambourne Avenue,Huntley,Gloucester
+2024-12-12,1975000,GL19 4LJ,D,N,F,Covertside,,,Hasfield,Gloucester
+2024-12-10,595000,GL19 3PH,D,N,F,Clarks Cottage,,,Pendock,Gloucester
+2024-12-09,312500,GL19 3SB,D,N,F,3,,Elm Grove,Huntley,Gloucester
+2024-12-06,410000,GL19 4JE,D,N,F,14,,Millers Close,Ashleworth,Gloucester
+2024-12-06,515000,GL19 4FE,D,Y,F,1,,Fulljames Crescent,Ashleworth,Gloucester
+2024-12-06,453000,GL19 3FB,D,N,F,3,,Laburnum Villas,Hartpury,Gloucester
+2024-12-06,420000,GL19 3EH,S,N,F,Brecken House,,,Birdwood,Gloucester
+2024-12-06,390000,GL19 3AY,D,N,F,5,,The Fairways,Huntley,Gloucester
+2024-12-06,280000,GL19 3AT,S,N,F,50,,Orchard Rise,Tibberton,Gloucester
+2024-12-05,300000,GL19 4FE,S,Y,F,25,,Fulljames Crescent,Ashleworth,Gloucester
+2024-12-03,748000,GL19 3JU,D,N,F,Bloomfield,,Bromsberrow Road,Redmarley,Gloucester
+2024-11-29,520000,GL19 4FE,D,Y,F,4,,Fulljames Crescent,Ashleworth,Gloucester
+2024-11-29,590000,GL19 3FJ,D,Y,F,6,,Poplars Grove,Huntley,Gloucester
+2024-11-28,400000,GL19 4FE,D,Y,F,21,,Fulljames Crescent,Ashleworth,Gloucester
+2024-11-24,350000,GL19 4BS,D,N,F,Manor Barn,,,Deerhurst Walton,Gloucester
+2024-11-08,445000,GL19 4DQ,D,N,F,Yew Tree House,,,Apperley,Gloucester
+2024-10-31,384250,GL19 4FB,D,Y,F,5,,Turnstone Close,Coombe Hill,Gloucester
+2024-10-31,500000,GL19 3RB,D,N,F,Little Newlands,,Gloucester Road,Corse,Gloucester
+2024-10-25,395000,GL19 4FB,D,Y,F,6,,Turnstone Close,Coombe Hill,Gloucester
+2024-10-25,498000,GL19 3RA,D,N,F,Drogheda,,Gloucester Road,Corse,Gloucester
+2024-10-24,543000,GL19 4FE,D,Y,F,2,,Fulljames Crescent,Ashleworth,Gloucester
+2024-10-23,589000,GL19 4FA,D,Y,F,47,,Meadow Brown Road,Coombe Hill,Gloucester
+2024-10-15,910000,GL19 3JX,D,N,F,Sheffy Oak Farm,,Drury Lane,Redmarley,Gloucester
+2024-10-15,330000,GL19 3DP,S,N,F,7,,Quarry Close,Hartpury,Gloucester
+2024-10-03,365000,GL19 4ES,D,N,F,Harley Cottage,,The Street,Tirley,Gloucester
+2024-10-02,454000,GL19 3SL,D,N,F,Hillview Farm,,Forty Green,Redmarley,Gloucester
+2024-09-30,232500,GL19 3SA,S,N,F,10,,Byfords Close,Huntley,Gloucester
+2024-09-24,385000,GL19 3RY,S,N,F,20,,O'Connor Close,Staunton,Gloucester
+2024-09-06,452500,GL19 3BN,D,N,F,Grisedale,,Broad Street,Hartpury,Gloucester
+2024-09-05,400000,GL19 3BG,S,N,F,Tweenhills Cottage,1,Gloucester Road,Hartpury,Gloucester
+2024-09-04,1155000,GL19 4EG,D,N,F,Lark Rise,,,Chaceley,Gloucester
+2024-09-04,980000,GL19 3BX,D,N,F,Corse Court Farm,,Church Lane,Corse,Gloucester
+2024-09-03,599050,GL19 3EL,D,N,F,48,,Byfords Road,Huntley,Gloucester
+2024-08-30,475000,GL19 3FA,D,N,F,1D,,Rock Meadow,Redmarley,Gloucester
+2024-08-30,580000,GL19 3BN,D,N,F,Edgehill,,Broad Street,Hartpury,Gloucester
+2024-08-23,525000,GL19 4FE,D,Y,F,5,,Fulljames Crescent,Ashleworth,Gloucester
+2024-08-20,555000,GL19 4LE,D,N,F,Sixpenny Cottage,,,Hasfield,Gloucester
+2024-08-16,1150000,GL19 3JF,D,N,F,Harts Farm Barn,,Chapel Lane,Redmarley,Gloucester
+2024-08-09,575000,GL19 4HW,D,N,F,15,,Mayalls Close,Tirley,Gloucester
+2024-08-02,395000,GL19 3DW,D,N,F,5,,Foley Rise,Hartpury,Gloucester
+2024-08-02,815000,GL19 3DH,D,N,F,Hobday House,,Over Old Road,Hartpury,Gloucester
+2024-07-31,950000,GL19 4DJ,D,N,F,Orchard Barns,2,School Road,Apperley,Gloucester
+2024-07-23,445000,GL19 3AB,S,N,F,Lake End Cottage,2,Huntley Road,Tibberton,Gloucester
+2024-07-19,875000,GL19 3PY,D,N,F,4,,Pendock Gardens,Pendock,Gloucester
+2024-07-15,298000,GL19 4FE,T,Y,F,14,,Fulljames Crescent,Ashleworth,Gloucester
+2024-07-11,785000,GL19 3JD,D,N,F,Avonhurst,,Brand Green,Redmarley,Gloucester
+2024-07-09,270000,GL19 4EA,T,N,F,4,,Chester Close,Apperley,Gloucester
+2024-07-03,270000,GL19 4ES,D,N,F,Former Tirley Methodist Chapel,,The Street,Tirley,Gloucester
+2024-07-02,237000,GL19 3RP,S,N,F,19,,Compton Close,Corse,Gloucester
+2024-07-02,665000,GL19 3HZ,D,N,F,Leadon Lodge,,Pauntley,Redmarley,Gloucester
+2024-06-28,300000,GL19 4FE,S,Y,F,23,,Fulljames Crescent,Ashleworth,Gloucester
+2024-06-28,510000,GL19 4ES,D,N,F,Orchard Bank,,The Street,Tirley,Gloucester
+2024-06-19,500000,GL19 4DJ,S,N,F,21,,School Road,Apperley,Gloucester
+2024-06-14,595000,GL19 4BA,D,N,F,The Old Police Station,,Tewkesbury Road,Coombe Hill,Gloucester
+2024-06-12,275000,GL19 3FH,S,Y,F,9,,Chapel End,Hartpury,Gloucester
+2024-06-05,870000,GL19 4EU,D,N,F,Glen Yard,,Main Road,Tirley,Gloucester
+2024-05-31,350000,GL19 3NT,D,N,F,Wayside Cottage,,Malvern Road,Staunton,Gloucester
+2024-05-31,365000,GL19 3AY,D,N,F,25,,The Fairways,Huntley,Gloucester
+2024-05-17,192000,GL19 3AY,F,N,L,27,,The Fairways,Huntley,Gloucester
+2024-05-13,367500,GL19 3HW,D,N,F,1,,Lambourne Avenue,Huntley,Gloucester
+2024-05-13,265000,GL19 3AT,S,N,F,17,,Orchard Rise,Tibberton,Gloucester
+2024-05-09,650000,GL19 3NH,D,N,F,Wayside,,Park Gate,Redmarley,Gloucester
+2024-05-03,260000,GL19 3SD,S,N,F,47,,Oak Way,Huntley,Gloucester
+2024-05-01,475000,GL19 4JT,D,N,F,31,,Rectory Close,Ashleworth,Gloucester
+2024-05-01,475000,GL19 3RP,D,N,F,15,,Compton Close,Corse,Gloucester
+2024-04-24,495000,GL19 4FA,D,Y,F,27,,Meadow Brown Road,Coombe Hill,Gloucester
+2024-04-23,299950,GL19 3FH,S,Y,F,11,,Chapel End,Hartpury,Gloucester
+2024-04-19,390000,GL19 4ET,D,N,F,The Stumps,,The Old Pitch,Tirley,Gloucester
+2024-04-17,250000,GL19 3JF,D,N,F,Kings Orchard,,,,Gloucester
+2024-04-17,345937,GL19 3AS,D,N,F,5,,Old Court Drive,Tibberton,Gloucester
+2024-04-11,380000,GL19 3QA,D,N,F,Laburnum Cottage,,Ledbury Road,Staunton,Gloucester
+2024-04-09,96524,GL19 3AF,T,N,F,The Court Farm,9,Huntley Road,Tibberton,Gloucester
+2024-04-05,212000,GL19 3RS,T,N,F,40,,Jubilee Place,Staunton,Gloucester
+2024-04-05,310000,GL19 3RF,D,N,F,Rosedene,,Prince Crescent,Staunton,Gloucester
+2024-04-05,450000,GL19 3EF,D,N,F,Poplars Cottage,,,Birdwood,Gloucester
+2024-04-03,415000,GL19 3BT,S,N,F,Hartpury Cottage,,Gloucester Road,Hartpury,Gloucester
+2024-03-28,240000,GL19 3RS,T,N,F,22,,Jubilee Place,Staunton,Gloucester
+2024-03-28,650000,GL19 3RQ,D,N,F,South Lynn,,Gloucester Road,Corse,Gloucester
+2024-03-28,260000,GL19 3HN,S,N,F,7,,Newton Close,Huntley,Gloucester
+2024-03-22,350000,GL19 3HN,D,N,F,6,,Newton Close,Huntley,Gloucester
+2024-03-21,300000,GL19 3AJ,D,N,F,Long Furlong,,Kents Green,Tibberton,Gloucester
+2024-03-11,260000,GL19 3SQ,S,N,F,22,,Yew Tree Close,Corse,Gloucester
+2024-03-01,255000,GL19 3JR,T,N,F,2,,Hyde Park Corner,Redmarley,Gloucester
+2024-02-15,680000,GL19 4BL,S,N,F,Walton Grange,2,Tewkesbury Road,Coombe Hill,Gloucester
+2024-02-13,367500,GL19 3SD,D,N,F,63,,Oak Way,Huntley,Gloucester
+2024-02-12,430000,GL19 3AT,D,N,F,8,,Orchard Rise,Tibberton,Gloucester
+2024-02-09,475000,GL19 3NW,D,N,F,10,,Sovereign Chase,Staunton,Gloucester
+2024-02-08,325000,GL19 3EL,S,N,F,8,,Byfords Road,Huntley,Gloucester
+2024-01-24,785000,GL19 4NE,D,N,F,The Boundary,,Drinkers End,Corse Lawn,Gloucester
+2024-01-18,637000,GL19 4HT,D,N,F,Crudens Farm,3,The Village,Ashleworth,Gloucester
+2024-01-18,630000,GL19 3DP,D,N,F,3,,Quarry Close,Hartpury,Gloucester
+2024-01-16,515000,GL19 3RG,D,N,F,38,,Boundary Place,Corse,Gloucester
+2024-01-16,875000,GL19 3HA,D,N,F,The Meadows,,Broom Hill,Huntley,Gloucester
+2023-12-20,470000,GL19 3SQ,D,N,F,3,,Yew Tree Close,Corse,Gloucester
+2023-12-20,250000,GL19 3AU,T,N,F,4,,Phelps Way,Tibberton,Gloucester
+2023-12-18,830000,GL19 3JE,D,N,F,The Langdales,,Brand Green,Redmarley,Gloucester
+2023-12-12,317500,GL19 3EP,D,N,F,10,,Frogmore Road,Huntley,Gloucester
+2023-12-08,376500,GL19 3FG,S,N,F,2,,The Vines,Redmarley,Gloucester
+2023-12-08,240000,GL19 3AU,T,N,F,20,,Phelps Way,Tibberton,Gloucester
+2023-12-01,2820000,GL19 4PJ,D,N,F,Hooze Farm House,,,Eldersfield,Gloucester
+2023-12-01,600000,GL19 4JL,D,N,F,Lychgate Cottage,,Lawn Road,Ashleworth,Gloucester
+2023-11-30,390000,GL19 4FA,D,Y,F,19,,Meadow Brown Road,Coombe Hill,Gloucester
+2023-11-24,310000,GL19 4FA,T,Y,F,5,,Meadow Brown Road,Coombe Hill,Gloucester
+2023-11-24,305000,GL19 3SA,D,N,F,2,,Byfords Close,Huntley,Gloucester
+2023-11-17,470000,GL19 4DQ,D,N,F,Bensons,,,Apperley,Gloucester
+2023-11-13,227500,GL19 3RS,S,N,F,24,,Jubilee Place,Staunton,Gloucester
+2023-11-07,550000,GL19 3NW,D,N,F,1,,Sovereign Chase,Staunton,Gloucester
+2023-11-01,112500,GL19 3SQ,T,N,L,19,,Yew Tree Close,Corse,Gloucester
+2023-10-31,785000,GL19 3LP,D,N,F,Folly Fields,,Durbridge Road,Redmarley,Gloucester
+2023-10-31,335000,GL19 3EL,D,N,F,27,,Byfords Road,Huntley,Gloucester
+2023-10-31,1450000,GL19 3AJ,D,N,F,Swanpool Barn,,Kents Green,Tibberton,Gloucester
+2023-10-23,515000,GL19 4EB,D,N,F,51,,Apperley Park,Apperley,Gloucester
+2023-10-23,290000,GL19 4EA,T,N,F,3,,Chester Close,Apperley,Gloucester
+2023-10-20,310000,GL19 3QG,S,N,F,2,,Moat Lane,Staunton,Gloucester
+2023-10-20,269500,GL19 3AT,S,N,F,15,,Orchard Rise,Tibberton,Gloucester
+2023-10-17,740000,GL19 3NL,D,N,F,Lowbands Barn,,Chartist Lane,Redmarley,Gloucester
+2023-10-16,630000,GL19 3QF,D,N,F,Glebe House,,Ledbury Road,Staunton,Gloucester
+2023-10-09,565000,GL19 3PG,D,N,F,Beech House,,,Pendock,Gloucester
+2023-10-06,445000,GL19 3RF,D,N,F,Robins Nest,,Prince Crescent,Staunton,Gloucester
+2023-09-29,225000,GL19 3AU,T,N,F,22,,Phelps Way,Tibberton,Gloucester
+2023-09-25,550000,GL19 4EF,D,N,F,Church End Cottage,,Rock Street,Chaceley,Gloucester
+2023-09-22,195000,GL19 4JQ,T,N,L,6,,Bartholomew Close,Ashleworth,Gloucester
+2023-09-15,450000,GL19 3RT,D,N,F,14,,Chartist Way,Staunton,Gloucester
+2023-09-08,550000,GL19 4DD,S,N,F,Boxtree Farm,,Deerhurst Road,Apperley,Gloucester
+2023-09-08,272500,GL19 3SA,S,N,F,8,,Byfords Close,Huntley,Gloucester
+2023-09-07,1210000,GL19 3BX,D,N,F,Corse Court,,Church Lane,Corse,Gloucester
+2023-09-06,487500,GL19 3DT,D,N,F,Eastcote,,Grange Court Lane,Huntley,Gloucester
+2023-09-01,445000,GL19 3DW,D,N,F,10,,Foley Rise,Hartpury,Gloucester
+2023-08-25,1675000,GL19 3JX,D,N,F,Orchard House,,Drury Lane,Redmarley,Gloucester
+2023-08-24,415000,GL19 4JT,D,N,F,27,,Rectory Close,Ashleworth,Gloucester
+2023-08-17,479000,GL19 4HW,D,N,F,4,,Mayalls Close,Tirley,Gloucester
+2023-08-11,450000,GL19 4EU,D,N,F,Hillside,,Main Road,Tirley,Gloucester
+2023-08-09,510000,GL19 3DF,S,N,F,Gwynne Cottage,1,Murrells End,Hartpury,Gloucester
+2023-07-24,300000,GL19 4HJ,D,N,F,Severn Side Cottage,,Haw Bridge,Tirley,Gloucester
+2023-07-19,725000,GL19 3QW,D,N,F,Stuart Cottage,,Newent Road,Staunton,Gloucester
+2023-07-14,330000,GL19 3SL,D,N,F,Woodbine Cottage,,Forty Green,Redmarley,Gloucester
+2023-07-14,250000,GL19 3SF,S,N,F,6,,Pauls Walk,Huntley,Gloucester
+2023-07-14,280000,GL19 3HN,S,N,F,1,,Newton Close,Huntley,Gloucester
+2023-07-12,625000,GL19 4ET,D,N,F,The Bungalow,,The Old Pitch,Tirley,Gloucester
+2023-06-30,610000,GL19 4PF,D,N,F,Mehalah,,Swinley Lane,Corse Lawn,Gloucester
+2023-06-28,318000,GL19 4DF,S,N,F,15,,Ringers Close,Apperley,Gloucester
+2023-06-27,620000,GL19 4JT,D,N,F,1,,Rectory Close,Ashleworth,Gloucester
+2023-06-20,230000,GL19 3RS,T,N,F,23,,Jubilee Place,Staunton,Gloucester
+2023-06-16,365000,GL19 3EL,D,N,F,11,,Byfords Road,Huntley,Gloucester
+2023-06-16,380000,GL19 3BP,S,N,F,12,,Corsend Road,Hartpury,Gloucester
+2023-06-15,265000,GL19 4EA,T,N,F,4,,Chester Close,Apperley,Gloucester
+2023-06-02,465000,GL19 4DH,D,N,F,The Barn,,Court Drive,Apperley,Gloucester
+2023-06-02,400000,GL19 3DR,D,N,F,"Yew Tree House, 16",,Hamlen Close,Huntley,Gloucester
+2023-05-22,679000,GL19 4AP,D,N,F,2,,Orchard End,Apperley,Gloucester
+2023-05-22,290000,GL19 3EL,D,N,F,33,,Byfords Road,Huntley,Gloucester
+2023-05-22,595000,GL19 3AQ,D,N,F,Poplar Cottage,,,Tibberton,Gloucester
+2023-05-17,637500,GL19 3LQ,D,N,F,3,,Little Green,Redmarley,Gloucester
+2023-05-12,575000,GL19 3LG,S,N,F,May House,,Pendock Road,Redmarley,Gloucester
+2023-05-05,735000,GL19 4EZ,D,N,F,Orchard Cottage,,Hill Farm Lane,Tirley,Gloucester
+2023-05-05,272500,GL19 3HN,S,N,F,9,,Newton Close,Huntley,Gloucester
+2023-05-02,450000,GL19 3HA,D,N,F,Broomhill Cottage,2,Broom Hill,Huntley,Gloucester
+2023-04-28,560000,GL19 3DJ,S,N,F,Malvern View,1,Woolridge Hill,Hartpury,Gloucester
+2023-04-26,575000,GL19 3NX,D,N,F,Delmar,,Pillows Green Road,Corse,Gloucester
+2023-04-13,380000,GL19 4NR,S,N,F,3,,Bridgend,Eldersfield,Gloucester
+2023-04-05,975000,GL19 4BY,D,N,F,Malvern View,,,Apperley,Gloucester
+2023-03-30,785000,GL19 4LZ,S,N,F,The Plough Barn,,,Corse Lawn,Gloucester
+2023-03-30,900000,GL19 3NZ,D,N,F,Guythorpe,,Malvern Road,Staunton,Gloucester
+2023-03-29,440000,GL19 4NB,D,N,F,Elm Villa,,,Corse Lawn,Gloucester
+2023-03-24,335000,GL19 3BP,S,N,F,42,,Corsend Road,Hartpury,Gloucester
+2023-03-21,645000,GL19 4AP,D,N,F,5,,Orchard End,Apperley,Gloucester
+2023-03-16,530000,GL19 3RB,D,N,F,Newlands Barn,,Gloucester Road,Corse,Gloucester
+2023-03-16,480000,GL19 3JQ,D,N,F,Roundbush Cottage,1,Hawcross,Redmarley,Gloucester
+2023-03-01,650000,GL19 3JS,D,N,F,The Forge,,Causeway,Redmarley,Gloucester
+2023-02-21,440000,GL19 4BB,D,N,F,Wharf Cottage,,The Wharf,Coombe Hill,Gloucester
+2023-02-10,300000,GL19 3AT,S,N,F,44,,Orchard Rise,Tibberton,Gloucester
+2023-02-08,410000,GL19 3JR,S,N,F,9,,Hyde Park Corner,Redmarley,Gloucester
+2023-01-30,970000,GL19 4LZ,D,N,F,Sunnydale,,,Corse Lawn,Gloucester
+2023-01-13,760000,GL19 3BT,D,N,F,Woodbine Cottage,,Gloucester Road,Hartpury,Gloucester
+2023-01-10,635000,GL19 3BJ,D,N,F,Fairfields,,Over Old Road,Hartpury,Gloucester
+2022-12-21,450000,GL19 3QZ,D,N,F,2,,Collins Close,Staunton,Gloucester
+2022-12-20,274950,GL19 3RY,T,N,F,7,,O'Connor Close,Staunton,Gloucester
+2022-12-20,235000,GL19 3RY,T,N,F,5,,O'Connor Close,Staunton,Gloucester
+2022-12-16,117000,GL19 3PX,S,N,L,8,,Hetherington Close,Staunton,Gloucester
+2022-12-16,130000,GL19 3PX,S,N,L,6,,Hetherington Close,Staunton,Gloucester
+2022-12-09,588000,GL19 3DW,D,N,F,3,,Foley Rise,Hartpury,Gloucester
+2022-12-09,600000,GL19 3DP,D,N,F,1,,Quarry Close,Hartpury,Gloucester
+2022-12-08,465000,GL19 3QY,D,N,F,3,,Hadfield Close,Staunton,Gloucester
+2022-12-06,699950,GL19 3PY,D,N,F,2,,Pendock Gardens,Pendock,Gloucester
+2022-12-02,393000,GL19 3SD,D,N,F,23,,Oak Way,Huntley,Gloucester
+2022-11-21,409950,GL19 4JT,S,N,F,22,,Rectory Close,Ashleworth,Gloucester
+2022-11-18,267000,GL19 3QJ,D,N,F,Bee Keeper Cottage,,Old Pike,Staunton,Gloucester
+2022-11-18,582500,GL19 3PG,D,N,F,Larks Cottage,,,Pendock,Gloucester
+2022-11-17,345000,GL19 3JR,S,N,F,7,,Hyde Park Corner,Redmarley,Gloucester
+2022-11-07,495000,GL19 3PG,D,N,F,Wheelwright Cottage,,,Pendock,Gloucester
+2022-11-04,285000,GL19 3SE,D,N,F,15,,Newent Lane,Huntley,Gloucester
+2022-11-04,390000,GL19 3HS,D,N,F,Coniston,,,Redmarley,Gloucester
+2022-11-04,310000,GL19 3AY,D,N,F,23,,The Fairways,Huntley,Gloucester
+2022-11-02,490000,GL19 4NR,S,N,F,4,,Bridgend,Eldersfield,Gloucester
+2022-10-28,600000,GL19 3JH,S,N,F,Innerstone House,,Innerstone Lane,Redmarley,Gloucester
+2022-10-21,470000,GL19 4JG,S,N,F,Laynes Cottage,2,The Village,Ashleworth,Gloucester
+2022-10-21,490000,GL19 3BN,S,N,F,Ridgeway,,Broad Street,Hartpury,Gloucester
+2022-10-20,505000,GL19 4QQ,D,N,F,The Conifers,,Long Green,Forthampton,Gloucester
+2022-10-19,875000,GL19 3EZ,D,N,F,Deep Filling Farm,,Hinders Lane,Huntley,Gloucester
+2022-10-14,425000,GL19 4NY,D,N,F,9,,Poolhay Close,Corse Lawn,Gloucester
+2022-10-14,487500,GL19 4ES,D,N,F,Aprey House,,The Street,Tirley,Gloucester
+2022-10-14,505000,GL19 4EH,S,N,F,Olde Cobblers Cottage,,,Chaceley,Gloucester
+2022-10-14,280000,GL19 3SA,S,N,F,16,,Byfords Close,Huntley,Gloucester
+2022-10-12,675000,GL19 4QJ,D,N,F,Little Downend Farm,,Long Green,Forthampton,Gloucester
+2022-10-10,325000,GL19 3ER,D,N,F,"Ashlyns, 16",,Sunset Place,Huntley,Gloucester
+2022-10-07,395000,GL19 4EH,S,N,F,Yew Tree Cottage,,,Chaceley,Gloucester
+2022-10-07,350000,GL19 3RY,D,N,F,21,,O'Connor Close,Staunton,Gloucester
+2022-10-07,388000,GL19 3BP,D,N,F,Pears Cottage,,Corsend Road,Hartpury,Gloucester
+2022-10-07,400000,GL19 3AT,D,N,F,10,,Orchard Rise,Tibberton,Gloucester
+2022-10-05,620000,GL19 4NX,D,N,F,Greenfields,,Lime Street,Eldersfield,Gloucester
+2022-10-03,1100000,GL19 4AG,D,N,F,Todpool House,,,The Leigh,Gloucester
+2022-09-30,1000000,GL19 4NP,D,N,F,The Old Pound,,Church Lane,Eldersfield,Gloucester
+2022-09-30,995000,GL19 3LH,D,N,F,5,,Covent Garden,Redmarley,Gloucester
+2022-09-23,535000,GL19 4EH,D,N,F,Hazel View,,,Chaceley,Gloucester
+2022-09-23,265000,GL19 3PY,D,N,F,3,,Pendock Gardens,Pendock,Gloucester
+2022-09-23,795000,GL19 3NL,D,N,F,Lakeside,,Chartist Lane,Redmarley,Gloucester
+2022-09-23,250000,GL19 3DS,S,N,F,Post Office,,High Street,Huntley,Gloucester
+2022-09-16,570000,GL19 4ER,D,Y,F,23,,Villard Close,Coombe Hill,Gloucester
+2022-09-16,1279000,GL19 4BS,D,N,F,Duckpool Cottage,,,Deerhurst Walton,Gloucester
+2022-09-16,310000,GL19 3RF,D,N,F,En-Dah-Win,,Prince Crescent,Staunton,Gloucester
+2022-09-14,490000,GL19 3JQ,D,N,F,Heathview,,Hawcross,Redmarley,Gloucester
+2022-09-09,325000,GL19 3EA,T,N,F,The Stocks,,Main Road,Huntley,Gloucester
+2022-09-07,567500,GL19 3JX,D,N,F,Cotters End,,Drury Lane,Redmarley,Gloucester
+2022-08-30,350000,GL19 3QJ,D,N,F,The Old Pyke Cottage,,Old Pike,Staunton,Gloucester
+2022-08-26,590000,GL19 3EA,D,N,F,Campagna,,Main Road,Huntley,Gloucester
+2022-08-18,325000,GL19 4QJ,D,N,F,Downend Farm,Maple Tree Barn,Long Green,Forthampton,Gloucester
+2022-08-18,390000,GL19 3RT,D,N,F,2,,Chartist Way,Staunton,Gloucester
+2022-08-15,287000,GL19 3RP,S,N,F,7,,Compton Close,Corse,Gloucester
+2022-08-12,250000,GL19 4JB,T,N,F,9,,Bloxhams Orchard,Ashleworth,Gloucester
+2022-08-12,355000,GL19 3ND,S,N,F,Down Cottage,,The Heath,Redmarley,Gloucester
+2022-08-11,367000,GL19 4DY,S,N,F,Cooks Green Cottage,1,,Lower Apperley,Gloucester
+2022-08-08,367500,GL19 4JB,S,N,F,Fairhaven,,Bloxhams Orchard,Ashleworth,Gloucester
+2022-08-04,405000,GL19 3AY,D,N,F,21,,The Fairways,Huntley,Gloucester
+2022-07-26,385500,GL19 3EL,D,N,F,32,,Byfords Road,Huntley,Gloucester
+2022-07-26,399950,GL19 3EH,D,N,F,The Dene,,,Birdwood,Gloucester
+2022-07-20,310000,GL19 3AT,D,N,F,41,,Orchard Rise,Tibberton,Gloucester
+2022-07-14,2030000,GL19 4LZ,D,N,F,Greenwood House,,,Corse Lawn,Gloucester
+2022-07-11,485000,GL19 4EW,D,N,F,Clover Cottage,,Ledbury Road,Tirley,Gloucester
+2022-07-11,525000,GL19 4EF,D,N,F,The Croft,,,Chaceley,Gloucester
+2022-07-08,340000,GL19 3EP,D,N,F,7,,Frogmore Road,Huntley,Gloucester
+2022-06-30,613000,GL19 4ER,D,Y,F,20,,Villard Close,Coombe Hill,Gloucester
+2022-06-29,340000,GL19 3EL,D,N,F,31,,Byfords Road,Huntley,Gloucester
+2022-06-29,585000,GL19 3DU,D,N,F,The Beeches,,North Road,Huntley,Gloucester
+2022-06-27,659950,GL19 4ER,D,Y,F,21,,Villard Close,Coombe Hill,Gloucester
+2022-06-27,725000,GL19 3JD,D,N,F,Malvern View,,Brand Green,Redmarley,Gloucester
+2022-06-22,780000,GL19 3LG,D,N,F,Lowbands Old School,,Pendock Road,Redmarley,Gloucester
+2022-06-17,435000,GL19 4NB,D,N,F,Orchard Cottage,,,Corse Lawn,Gloucester
+2022-06-17,250000,GL19 3SQ,S,N,F,21,,Yew Tree Close,Corse,Gloucester
+2022-06-16,613000,GL19 4ER,D,Y,F,19,,Villard Close,Coombe Hill,Gloucester
+2022-06-06,950000,GL19 3LD,D,N,F,Cooks Cottage,,Cooks Lane,Redmarley,Gloucester
+2022-06-01,528500,GL19 3JB,T,N,F,Compton House,South Wing,Compton Green,Redmarley,Gloucester
+2022-06-01,112000,GL19 3FD,T,N,L,9,,School Close,Hartpury,Gloucester
+2022-06-01,275000,GL19 3EW,D,N,F,9,,Westwick Road,Huntley,Gloucester
+2022-06-01,275000,GL19 3DG,T,N,F,Moorend Cottage,1,Moorend,Hartpury,Gloucester
+2022-05-31,659950,GL19 4ER,D,Y,F,22,,Villard Close,Coombe Hill,Gloucester
+2022-05-27,465000,GL19 3LP,D,N,F,Brambleys,,Durbridge Road,Redmarley,Gloucester
+2022-05-26,480000,GL19 4ES,D,N,F,Orchard House,,The Street,Tirley,Gloucester
+2022-05-26,269950,GL19 4ER,S,Y,F,2,,Villard Close,Coombe Hill,Gloucester
+2022-05-26,540000,GL19 4DG,D,N,F,7,,Westview,Apperley,Gloucester
+2022-05-25,650000,GL19 3BP,D,N,F,1,,Corsend Road,Hartpury,Gloucester
+2022-05-23,1080000,GL19 4HB,D,N,F,The Folly,,Main Road,Tirley,Gloucester
+2022-05-23,655000,GL19 4DU,S,N,F,Staites Lane Cottage,,Staites Lane,Lower Apperley,Gloucester
+2022-05-18,329950,GL19 4ER,S,Y,F,18,,Villard Close,Coombe Hill,Gloucester
+2022-05-17,475000,GL19 3NW,D,N,F,17,,Sovereign Chase,Staunton,Gloucester
+2022-05-12,304218,GL19 4NB,D,N,F,Lucas Farmhouse,,,Corse Lawn,Gloucester
+2022-05-05,329950,GL19 4ER,S,Y,F,17,,Villard Close,Coombe Hill,Gloucester
+2022-04-29,313000,GL19 3SB,D,N,F,6,,Elm Grove,Huntley,Gloucester
+2022-04-29,245000,GL19 3EL,D,N,F,11,,Byfords Road,Huntley,Gloucester
+2022-04-24,606000,GL19 3BN,D,N,F,5,,Broad Street,Hartpury,Gloucester
+2022-04-20,650000,GL19 3PG,D,N,F,Orchard House,,,Pendock,Gloucester
+2022-04-14,569950,GL19 4ER,D,Y,F,4,,Villard Close,Coombe Hill,Gloucester
+2022-04-08,400000,GL19 4EU,D,N,F,Fircroft,,Main Road,Tirley,Gloucester
+2022-04-04,432000,GL19 3RT,D,N,F,11,,Chartist Way,Staunton,Gloucester
+2022-04-01,126000,GL19 4JT,S,N,L,8,,Rectory Close,Ashleworth,Gloucester
+2022-04-01,450000,GL19 4DW,D,N,F,Woodlands,,,Apperley,Gloucester
+2022-03-31,352500,GL19 4ER,D,Y,F,5,,Villard Close,Coombe Hill,Gloucester
+2022-03-25,359950,GL19 4ER,D,Y,F,6,,Villard Close,Coombe Hill,Gloucester
+2022-03-25,569950,GL19 4ER,D,Y,F,25,,Villard Close,Coombe Hill,Gloucester
+2022-03-22,450000,GL19 3JQ,S,N,F,West Lodge,,Hawcross,Redmarley,Gloucester
+2022-03-21,340000,GL19 4HJ,D,N,F,Severnview,,Haw Bridge,Tirley,Gloucester
+2022-03-18,375000,GL19 3FB,D,Y,F,1,,Laburnum Villas,Hartpury,Gloucester
+2022-03-15,290000,GL19 4DA,S,N,F,2,,Severn Way,Apperley,Gloucester
+2022-03-14,595000,GL19 4LE,D,N,F,Sixpenny Cottage,,,Hasfield,Gloucester
+2022-03-01,380000,GL19 3PG,D,N,F,Serauple Cottage,,,Pendock,Gloucester
+2022-02-28,535000,GL19 4DP,S,N,F,Malt House,,,Apperley,Gloucester
+2022-02-28,637500,GL19 3RQ,D,N,F,Rylonby,,Gloucester Road,Corse,Gloucester
+2022-02-25,280000,GL19 4EA,S,N,F,7,,Chester Close,Apperley,Gloucester
+2022-02-25,113000,GL19 3PZ,S,N,L,Millennium Cottages,3,Jubilee Place,Staunton,Gloucester
+2022-02-24,293000,GL19 3AT,S,N,F,9,,Orchard Rise,Tibberton,Gloucester
+2022-02-22,620000,GL19 3EA,D,N,F,Treyarnon,,Main Road,Huntley,Gloucester
+2022-02-18,410000,GL19 4EU,D,N,F,The Old Thatched Cottage,,Main Road,Tirley,Gloucester
+2022-02-18,269950,GL19 4ER,S,Y,F,1,,Villard Close,Coombe Hill,Gloucester
+2022-02-17,592500,GL19 4QH,D,N,F,The Arches,,Roberts End Lane,Forthampton,Gloucester
+2022-02-17,330000,GL19 4EH,T,N,F,Horseshoe Cottage,,,Chaceley,Gloucester
+2022-02-15,510000,GL19 4EB,D,N,F,29,,Apperley Park,Apperley,Gloucester
+2022-02-14,359950,GL19 4ER,D,Y,F,3,,Villard Close,Coombe Hill,Gloucester
+2022-02-14,415000,GL19 3SQ,D,Y,F,27,,Yew Tree Close,Corse,Gloucester
+2022-02-08,245000,GL19 3EL,D,N,F,29,,Byfords Road,Huntley,Gloucester
+2022-02-04,385000,GL19 3AN,S,N,F,Grove Villa,,,Taynton,Gloucester
+2022-01-31,500000,GL19 3FG,D,N,F,5,,The Vines,Redmarley,Gloucester
+2022-01-28,600000,GL19 3BT,D,N,F,Hillvine,,Gloucester Road,Hartpury,Gloucester
+2022-01-05,387500,GL19 4HH,D,N,F,Rose Cottage,,Church Road,Tirley,Gloucester
+2022-01-05,575000,GL19 3DG,D,N,F,Hurstwood,,Moorend,Hartpury,Gloucester
+2021-12-21,110000,GL19 3RS,F,N,L,32,,Jubilee Place,Staunton,Gloucester
+2021-12-16,600000,GL19 4ER,D,Y,F,24,,Villard Close,Coombe Hill,Gloucester
+2021-12-16,365000,GL19 3QE,S,N,F,1,,Chestnut Drive,Staunton,Gloucester
+2021-12-16,295000,GL19 3PA,D,N,F,Yew Tree Cottage,,Gadfield Elms,Staunton,Gloucester
+2021-12-14,750000,GL19 3QA,D,N,F,Linden House,,Ledbury Road,Staunton,Gloucester
+2021-12-10,590000,GL19 3BQ,D,N,F,Clara House,,Danford Lane,Hartpury,Gloucester
+2021-12-09,330000,GL19 3SD,D,N,F,2,,Oak Way,Huntley,Gloucester
+2021-12-09,280000,GL19 3SD,S,N,F,10,,Oak Way,Huntley,Gloucester
+2021-12-09,265000,GL19 3RA,D,N,F,Fourviews,,Gloucester Road,Corse,Gloucester
+2021-12-06,358000,GL19 3JS,S,N,F,Mahl Cottage,,Causeway,Redmarley,Gloucester
+2021-12-06,124500,GL19 3FD,S,N,L,Willow House,,School Close Over Old Road,Hartpury,Gloucester
+2021-11-30,525000,GL19 3PL,D,N,F,The Old Forge,,Pendock Road,Pendock,Gloucester
+2021-11-30,530000,GL19 3FE,S,N,F,1 Drury Lane House,,,Redmarley,Gloucester
+2021-11-19,264000,GL19 3EN,S,N,F,20,,Tibberton Lane,Huntley,Gloucester
+2021-11-18,345000,GL19 3EH,D,N,F,Brooklands,,,Birdwood,Gloucester
+2021-11-10,995000,GL19 4AG,D,N,F,Todpool House,,,The Leigh,Gloucester
+2021-11-08,129600,GL19 4ED,S,N,L,2,,Moores Ground,Apperley,Gloucester
+2021-11-04,385000,GL19 3ET,T,N,F,Snow Cottage,,High Street,Huntley,Gloucester
+2021-11-04,485000,GL19 3AQ,D,N,F,The Coach House,,,Tibberton,Gloucester
+2021-11-02,375000,GL19 3AG,S,N,F,New Cottages,2,Tibberton Lane,Tibberton,Gloucester
+2021-11-01,185000,GL19 3AY,F,N,L,27,,The Fairways,Huntley,Gloucester
+2021-10-22,397000,GL19 3BP,T,N,F,14,,Corsend Road,Hartpury,Gloucester
+2021-10-15,391000,GL19 4LZ,D,N,F,Link Lea,,,Corse Lawn,Gloucester
+2021-09-30,487500,GL19 4EB,D,N,F,22,,Apperley Park,Apperley,Gloucester
+2021-09-30,435000,GL19 3SQ,D,Y,F,26,,Yew Tree Close,Corse,Gloucester
+2021-09-30,235000,GL19 3SA,D,N,F,5,,Byfords Close,Huntley,Gloucester
+2021-09-30,475000,GL19 3RF,D,N,F,Stone Cottage,,Prince Crescent,Staunton,Gloucester
+2021-09-30,665000,GL19 3PY,D,N,F,1,,Pendock Gardens,Pendock,Gloucester
+2021-09-30,225000,GL19 3HP,S,N,F,12,,Orchard Way,Huntley,Gloucester
+2021-09-29,430000,GL19 4LX,D,N,F,Hunters Lodge,,Lawn Bar Road,Corse Lawn,Gloucester
+2021-09-29,395000,GL19 3BN,D,N,F,Tararua,,Broad Street,Hartpury,Gloucester
+2021-09-29,957500,GL19 3AE,D,N,F,Birdsend Farmhouse,,Huntley Road,Tibberton,Gloucester
+2021-09-28,229950,GL19 3DF,S,N,F,Laughtons Cottage,,Murrells End,Hartpury,Gloucester
+2021-09-27,851000,GL19 4LL,D,N,F,21,,Upper Hasfield,Hasfield,Gloucester
+2021-09-27,450000,GL19 3JT,D,N,F,Nare House,,The Green,Redmarley,Gloucester
+2021-09-27,442500,GL19 3JB,S,N,F,Lime Grove,,Compton Green,Redmarley,Gloucester
+2021-09-24,1000000,GL19 3NB,D,N,F,Playleys Place,,Playley Green,Redmarley,Gloucester
+2021-09-24,275000,GL19 3AT,S,N,F,42,,Orchard Rise,Tibberton,Gloucester
+2021-09-23,435000,GL19 3SQ,D,Y,F,4,,Yew Tree Close,Corse,Gloucester
+2021-09-22,180000,GL19 3AY,S,N,F,4,,The Fairways,Huntley,Gloucester
+2021-09-21,250000,GL19 3RY,T,N,F,8,,O'Connor Close,Staunton,Gloucester
+2021-09-15,300000,GL19 3HP,D,N,F,20,,Orchard Way,Huntley,Gloucester
+2021-09-14,650000,GL19 3DN,D,N,F,3,,Alberts Field,Hartpury,Gloucester
+2021-09-10,282000,GL19 3EL,D,N,F,13,,Byfords Road,Huntley,Gloucester
+2021-09-06,435500,GL19 3SQ,D,Y,F,16,,Yew Tree Close,Corse,Gloucester
+2021-09-03,587500,GL19 4HU,D,N,F,The Willows,,The Green,Ashleworth,Gloucester
+2021-09-01,2250000,GL19 4QW,D,N,F,The Dower House,,,Forthampton,Gloucester
+2021-09-01,795000,GL19 4NP,D,N,F,The Cruck Barn,,Church Lane,Eldersfield,Gloucester
+2021-08-31,150000,GL19 4JQ,F,N,L,2,,Bartholomew Close,Ashleworth,Gloucester
+2021-08-27,760000,GL19 3HT,D,N,F,Little Close,,Red Ditch Lane,Redmarley,Gloucester
+2021-08-25,320000,GL19 4DG,D,N,F,9,,Westview,Apperley,Gloucester
+2021-08-19,402500,GL19 3SQ,D,Y,F,15,,Yew Tree Close,Corse,Gloucester
+2021-08-17,422500,GL19 3RU,D,N,F,2,,Chartist Piece,Staunton,Gloucester
+2021-08-17,545000,GL19 3QB,D,N,F,Lavina,,Ledbury Road Crescent,Staunton,Gloucester
+2021-08-17,499995,GL19 3DA,D,N,F,Greenacres,,Oridge Street,Corse,Gloucester
+2021-08-13,270000,GL19 3RP,D,N,F,1,,Compton Close,Corse,Gloucester
+2021-08-06,300000,GL19 4HJ,D,N,F,Cider Mill Cottage,,Haw Bridge,Tirley,Gloucester
+2021-08-06,359950,GL19 3RT,D,N,F,12,,Chartist Way,Staunton,Gloucester
+2021-08-03,240000,GL19 3AT,S,N,F,15,,Orchard Rise,Tibberton,Gloucester
+2021-08-02,675123,GL19 4HU,D,N,F,Apple Tree Cottage,,The Green,Ashleworth,Gloucester
+2021-07-30,240000,GL19 3BH,S,N,F,4,,Danford Villas,Hartpury,Gloucester
+2021-07-29,235000,GL19 3SQ,S,Y,F,21,,Yew Tree Close,Corse,Gloucester
+2021-07-27,702000,GL19 3AQ,D,N,F,Lowlands,,,Tibberton,Gloucester
+2021-07-14,279000,GL19 3SQ,S,Y,F,24,,Yew Tree Close,Corse,Gloucester
+2021-07-09,237500,GL19 3SQ,S,Y,F,22,,Yew Tree Close,Corse,Gloucester
+2021-07-08,279000,GL19 3SQ,S,Y,F,23,,Yew Tree Close,Corse,Gloucester
+2021-06-30,727660,GL19 4LZ,D,N,F,Cathay,,,Corse Lawn,Gloucester
+2021-06-30,435000,GL19 4BB,D,N,F,Wharf Cottage,,The Wharf,Coombe Hill,Gloucester
+2021-06-30,435000,GL19 3SQ,D,Y,F,3,,Yew Tree Close,Corse,Gloucester
+2021-06-30,279000,GL19 3SQ,D,Y,F,25,,Yew Tree Close,Corse,Gloucester
+2021-06-30,339000,GL19 3SQ,D,Y,F,14,,Yew Tree Close,Corse,Gloucester
+2021-06-30,272000,GL19 3RS,S,N,F,13,,Jubilee Place,Staunton,Gloucester
+2021-06-30,545000,GL19 3NW,D,N,F,12,,Sovereign Chase,Staunton,Gloucester
+2021-06-30,625000,GL19 3JY,D,N,F,Pound House,,Ledbury Road,Redmarley,Gloucester
+2021-06-30,550000,GL19 3JN,D,N,F,3,,Leah Gardens,Redmarley,Gloucester
+2021-06-30,607500,GL19 3BN,D,N,F,Glenariff,,Broad Street,Hartpury,Gloucester
+2021-06-29,550000,GL19 4DP,S,N,F,Malt House,,,Apperley,Gloucester
+2021-06-29,279000,GL19 3SQ,D,Y,F,6,,Yew Tree Close,Corse,Gloucester
+2021-06-29,500000,GL19 3SL,D,N,F,The Cottage,,Forty Green,Redmarley,Gloucester
+2021-06-28,470000,GL19 4BX,D,N,F,The Forge,,,Deerhurst,Gloucester
+2021-06-28,225000,GL19 3SD,S,N,F,45,,Oak Way,Huntley,Gloucester
+2021-06-28,250000,GL19 3SD,D,N,F,24,,Oak Way,Huntley,Gloucester
+2021-06-28,220000,GL19 3RX,T,N,F,25,,Cullingham Close,Staunton,Gloucester
+2021-06-28,350000,GL19 3RG,D,N,F,"Higarth, 25",,Boundary Place,Corse,Gloucester
+2021-06-25,1910000,GL19 4EH,D,N,F,Grain House Farm,,,Chaceley,Gloucester
+2021-06-25,695000,GL19 4DQ,D,N,F,Newtons,,,Apperley,Gloucester
+2021-06-25,500000,GL19 3JN,D,N,F,2,,Leah Gardens,Redmarley,Gloucester
+2021-06-25,355000,GL19 3AT,D,N,F,1,,Orchard Rise,Tibberton,Gloucester
+2021-06-23,292500,GL19 4DF,S,N,F,12,,Ringers Close,Apperley,Gloucester
+2021-06-22,600000,GL19 4JT,D,Y,F,1,,Rectory Close,Ashleworth,Gloucester
+2021-06-22,280000,GL19 3AY,D,N,F,25,,The Fairways,Huntley,Gloucester
+2021-06-21,245000,GL19 3RX,T,N,F,11,,Cullingham Close,Staunton,Gloucester
+2021-06-18,360000,GL19 4EU,S,N,F,Mount Pleasant,1,Main Road,Tirley,Gloucester
+2021-06-18,277500,GL19 4AF,S,N,F,Old School Cottage,,Church Lane,The Leigh,Gloucester
+2021-06-18,900000,GL19 3QL,D,N,F,Birchlas Cottage,,Old Pike,Staunton,Gloucester
+2021-06-18,425000,GL19 3DY,D,N,F,Poplars Cottage,,Tibberton Lane,Huntley,Gloucester
+2021-06-17,585000,GL19 3RE,D,N,F,Sunnyside,,School Crescent,Corse,Gloucester
+2021-06-15,555000,GL19 3BN,D,N,F,Quarstones,,Broad Street,Hartpury,Gloucester
+2021-06-11,465000,GL19 3RG,D,N,F,"Farmfield, 39",,Boundary Place,Corse,Gloucester
+2021-06-11,332000,GL19 3BJ,D,N,F,Helston,,Over Old Road,Hartpury,Gloucester
+2021-06-10,665000,GL19 4HU,D,N,F,Bumblebee Cottage,,The Green,Ashleworth,Gloucester
+2021-06-08,475000,GL19 4JT,D,N,F,33,,Rectory Close,Ashleworth,Gloucester
+2021-06-08,520000,GL19 4DD,D,N,F,Oakhouse,,Deerhurst Road,Apperley,Gloucester
+2021-06-04,400000,GL19 3SQ,D,Y,F,2,,Yew Tree Close,Corse,Gloucester
+2021-06-04,790000,GL19 3JH,S,N,F,Innerstone House,,Innerstone Lane,Redmarley,Gloucester
+2021-06-03,445000,GL19 3EZ,D,N,F,Hill View,,Hinders Lane,Huntley,Gloucester
+2021-05-27,275000,GL19 3SD,S,N,F,95,,Oak Way,Huntley,Gloucester
+2021-05-26,207500,GL19 3DZ,T,N,F,Rosedene,,Main Road,Huntley,Gloucester
+2021-05-21,600000,GL19 4BU,D,N,F,Lower Meadow,,,Deerhurst,Gloucester
+2021-05-20,245000,GL19 3HN,S,N,F,9,,Newton Close,Huntley,Gloucester
+2021-05-17,570000,GL19 4JT,D,Y,F,29,,Rectory Close,Ashleworth,Gloucester
+2021-05-17,325000,GL19 3RF,S,N,F,Princes Lodge,,Prince Crescent,Staunton,Gloucester
+2021-05-17,381500,GL19 3QG,D,N,F,Nortonville,,Moat Lane,Staunton,Gloucester
+2021-05-14,429000,GL19 3AX,D,N,F,4,,Lower Orchard,Tibberton,Gloucester
+2021-05-12,200000,GL19 4QF,D,N,F,45A,,Bishops Walk,Forthampton,Gloucester
+2021-05-10,405000,GL19 3PL,D,N,F,Mulberry Cottage,,,Pendock,Gloucester
+2021-05-05,285000,GL19 3HA,D,N,F,Sequoia,,Broom Hill,Huntley,Gloucester
+2021-04-29,395000,GL19 3EZ,D,N,F,Dorothy Cottage,,Hinders Lane,Huntley,Gloucester
+2021-04-26,410000,GL19 3SQ,D,Y,F,1,,Yew Tree Close,Corse,Gloucester
+2021-04-23,279000,GL19 3SQ,D,Y,F,5,,Yew Tree Close,Corse,Gloucester
+2021-04-20,285000,GL19 3ER,D,N,F,6,,Sunset Place,Huntley,Gloucester
+2021-04-16,370000,GL19 3BT,S,N,F,Hartpury Cottage,,Gloucester Road,Hartpury,Gloucester
+2021-04-12,1175000,GL19 4AS,D,N,F,Evington House,,Tewkesbury Road,Coombe Hill,Gloucester
+2021-04-09,526000,GL19 4NP,D,N,F,Old School House,,Church Lane,Eldersfield,Gloucester
+2021-04-09,345000,GL19 4AT,D,N,F,Greystones,,Tewkesbury Road,Coombe Hill,Gloucester
+2021-04-09,355000,GL19 3PG,D,N,F,New Cross House,,,Pendock,Gloucester
+2021-04-06,235000,GL19 4EA,T,N,F,2,,Chester Close,Apperley,Gloucester
+2021-04-01,800000,GL19 4EU,D,N,F,Torsend House,,Main Road,Tirley,Gloucester
+2021-04-01,480000,GL19 3EZ,D,N,F,Plasters Cottage,,Hinders Lane,Huntley,Gloucester
+2021-03-31,430000,GL19 4HW,D,N,F,21,,Mayalls Close,Tirley,Gloucester
+2021-03-31,175000,GL19 3RS,S,N,F,11,,Jubilee Place,Staunton,Gloucester
+2021-03-29,408500,GL19 3RT,D,Y,F,14,,Chartist Way,Staunton,Gloucester
+2021-03-29,405000,GL19 3AX,D,N,F,6,,Lower Orchard,Tibberton,Gloucester
+2021-03-26,293500,GL19 3EP,D,N,F,5,,Frogmore Road,Huntley,Gloucester
+2021-03-26,250000,GL19 3AW,D,N,F,Lynes Place Farm,,,Taynton,Gloucester
+2021-03-25,1400000,GL19 3BJ,D,N,F,Hill Crest,,Over Old Road,Hartpury,Gloucester
+2021-03-22,375000,GL19 3DT,D,N,F,1,,Grange Court Lane,Huntley,Gloucester
+2021-03-19,275000,GL19 4DY,S,N,F,Cooks Green Cottage,2,,Lower Apperley,Gloucester
+2021-03-19,290000,GL19 3RF,D,N,F,Rosendale,,Prince Crescent,Staunton,Gloucester
+2021-03-19,425000,GL19 3NW,D,N,F,19,,Sovereign Chase,Staunton,Gloucester
+2021-03-19,874950,GL19 3LH,D,Y,F,4,,Covent Garden,Redmarley,Gloucester
+2021-03-19,190000,GL19 3EN,S,N,F,24,,Tibberton Lane,Huntley,Gloucester
+2021-03-18,495000,GL19 3JT,D,N,F,Orchard End Cottage,,The Green,Redmarley,Gloucester
+2021-03-17,413000,GL19 3QB,D,N,F,14,,Ledbury Road Crescent,Staunton,Gloucester
+2021-03-12,400000,GL19 3EX,D,N,F,The Resthouse,,Ross Road,Huntley,Gloucester
+2021-03-11,470000,GL19 4JE,D,N,F,1,,Millers Close,Ashleworth,Gloucester
+2021-03-09,435000,GL19 4QQ,D,N,F,Maldorjay,,Long Green,Forthampton,Gloucester
+2021-03-09,445000,GL19 3HS,D,N,F,Ambersley,,,Redmarley,Gloucester
+2021-03-08,460000,GL19 3PU,D,Y,F,5,,Chartist Meadow,Staunton,Gloucester
+2021-03-05,450000,GL19 4EF,D,N,F,1,,Sparrows Row,Chaceley,Gloucester
+2021-03-05,380000,GL19 3PU,D,Y,F,3,,Chartist Meadow,Staunton,Gloucester
+2021-03-05,297000,GL19 3BP,T,N,F,16,,Corsend Road,Hartpury,Gloucester
+2021-03-05,595000,GL19 3AJ,D,N,F,Vine Cottage,,Kents Green,Tibberton,Gloucester
+2021-03-03,617500,GL19 3DN,D,N,F,1,,Alberts Field,Hartpury,Gloucester
+2021-03-02,300000,GL19 3JE,D,N,F,Walnut Cottage,,Brand Green,Redmarley,Gloucester
+2021-02-26,480000,GL19 3QB,D,N,F,Glendale,,Ledbury Road Crescent,Staunton,Gloucester
+2021-02-26,385000,GL19 3HA,D,N,F,Pike Cottage,,Broom Hill,Huntley,Gloucester
+2021-02-24,460000,GL19 3RT,D,Y,F,8,,Chartist Way,Staunton,Gloucester
+2021-02-19,205000,GL19 3SA,S,N,F,10,,Byfords Close,Huntley,Gloucester
+2021-02-17,375000,GL19 4JG,S,N,F,Laynes Cottage,2,The Village,Ashleworth,Gloucester
+2021-02-16,455000,GL19 4DJ,D,N,F,Wood-Lea,,School Road,Apperley,Gloucester
+2021-02-12,380000,GL19 3RT,D,Y,F,21,,Chartist Way,Staunton,Gloucester
+2021-02-12,499995,GL19 3DP,D,N,F,1,,Quarry Close,Hartpury,Gloucester
+2021-02-12,650000,GL19 3DA,D,N,F,Hill Cottage,,Oridge Street,Corse,Gloucester
+2021-02-04,412500,GL19 3JB,T,N,F,Compton House,West Wing,Compton Green,Redmarley,Gloucester
+2021-02-03,697000,GL19 3LH,D,Y,F,3,,Covent Garden,Redmarley,Gloucester
+2021-02-03,487500,GL19 3BQ,D,N,F,Orchard End,,Danford Lane,Hartpury,Gloucester
+2021-02-01,690000,GL19 3QB,D,N,F,Magnolia Cottage,,Ledbury Road Crescent,Staunton,Gloucester
+2021-01-29,480000,GL19 3RA,D,N,F,Spring Field,,Gloucester Road,Corse,Gloucester
+2021-01-28,395000,GL19 3RT,D,Y,F,10,,Chartist Way,Staunton,Gloucester
+2021-01-28,425000,GL19 3DW,D,N,F,12,,Foley Rise,Hartpury,Gloucester
+2021-01-26,607500,GL19 3QX,D,N,F,The Paddocks,,Orchard End,Staunton,Gloucester
+2021-01-26,394995,GL19 3FG,D,Y,F,5,,The Vines,Redmarley,Gloucester
+2021-01-22,124200,GL19 4ED,S,N,L,4,,Moores Ground,Apperley,Gloucester
+2021-01-21,225000,GL19 4EA,T,N,F,4,,Chester Close,Apperley,Gloucester
+2021-01-20,297000,GL19 4NR,S,N,F,6,,Bridgend,Eldersfield,Gloucester
+2021-01-20,175000,GL19 4EU,S,N,F,Mount Pleasant,6,Main Road,Tirley,Gloucester
+2021-01-20,308000,GL19 3AY,D,N,F,22,,The Fairways,Huntley,Gloucester
+2021-01-13,445000,GL19 3PU,D,Y,F,7,,Chartist Meadow,Staunton,Gloucester

@@ -1,0 +1,1374 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-24,500000,SE17 3AR,F,N,L,124,,Amelia Street,,London
+2026-08-21,440000,SE17 3JG,F,N,L,11,,Pelier Street,,London
+2026-08-19,780000,SE17 3RD,T,N,F,41,,Braganza Street,,London
+2026-08-18,381000,SE17 3BA,F,N,L,9,Flat 111,Steedman Street,,London
+2026-08-03,750000,SE17 1RW,F,N,L,"Ferraro House, 149",Apartment 403,Walworth Road,,London
+2026-07-28,486000,SE17 3AR,T,N,L,108,,Amelia Street,,London
+2026-07-23,425000,SE17 3JE,F,N,L,Williamson Court,15,Borrett Close,,London
+2026-07-22,385000,SE17 2TP,F,N,L,"Victory House, 135",Flat 8,Trafalgar Street,,London
+2026-07-20,660000,SE17 3RT,F,N,L,"Keystone House, 106A",Flat 2,Alberta Street,,London
+2026-07-17,803000,SE17 3AD,T,N,F,55,,Canterbury Place,,London
+2026-07-17,575000,SE17 1FP,F,N,L,"Drake Apartments, 26",Flat 703,Heygate Street,,London
+2026-07-16,420000,SE17 1EF,F,N,L,Marnock House,Flat 3,Brandon Street,,London
+2026-07-15,428000,SE17 1FP,F,N,L,"Sir John Soane Apartments, 20",Flat 402,Heygate Street,,London
+2026-07-10,605000,SE17 2JX,F,N,L,28A,,Surrey Square,,London
+2026-07-10,325000,SE17 2FL,F,N,L,Roffo Court,Flat 34,Boyson Road,,London
+2026-07-09,553000,SE17 3BW,F,N,L,"Oyster Court, 85",Flat 5,Crampton Street,,London
+2026-07-09,720000,SE17 2QS,T,N,F,104,,Mina Road,,London
+2026-07-09,322500,SE17 2JN,F,N,L,Innis House,Flat 41,East Street,,London
+2026-07-03,425000,SE17 3HU,F,N,L,236,,Olney Road,,London
+2026-06-30,600000,SE17 3FQ,F,N,L,7,Flat 6,Danson Mews,,London
+2026-06-30,1026000,SE17 1FF,T,N,L,53,,Wansey Street,,London
+2026-06-26,890000,SE17 1PD,T,N,F,46,,Henshaw Street,,London
+2026-06-25,600000,SE17 1GG,F,N,L,5,Flat 12,Waleorde Road,,London
+2026-06-23,775000,SE17 3HD,T,N,F,32,,Fielding Street,,London
+2026-06-23,850000,SE17 1PD,T,N,F,50,,Henshaw Street,,London
+2026-06-16,340000,SE17 3LY,F,N,L,Eglington Court,Flat 20,Lorrimore Road,,London
+2026-06-15,195000,SE17 3PF,F,N,L,Bateman House,Flat 4,Otto Street,,London
+2026-06-15,685000,SE17 2PY,F,N,L,20,Flat 3,Liverpool Grove,,London
+2026-06-15,483000,SE17 1AE,F,N,L,10,Flat 5,Catesby Street,,London
+2026-06-10,476000,SE17 2QS,F,N,L,93A,,Mina Road,,London
+2026-06-08,670000,SE17 1BS,F,N,L,Jardin House,Flat 26,Stead Street,,London
+2026-06-05,388000,SE17 3EL,F,N,L,61A,,Sutherland Square,,London
+2026-06-05,320000,SE17 1GD,F,N,L,"Hurlock Heights, 4",Apartment 103,Deacon Street,,London
+2026-06-03,930000,SE17 1GF,F,N,L,"Hurlock Heights, 4",Apartment 2906,Deacon Street,,London
+2026-05-26,590600,SE17 3EN,F,N,L,43,,Carter Street,,London
+2026-05-26,395000,SE17 2HQ,F,N,L,50A,,Date Street,,London
+2026-05-20,425000,SE17 3BA,F,N,L,9,Flat 311,Steedman Street,,London
+2026-05-18,510000,SE17 2FS,F,N,L,Severin Court,Flat 13,East Street,,London
+2026-05-08,820000,SE17 3RD,T,N,F,33,,Braganza Street,,London
+2026-05-08,450000,SE17 2SX,F,N,L,320A,,East Street,,London
+2026-05-08,397500,SE17 1GG,F,N,L,6,Flat 14,Waleorde Road,,London
+2026-05-01,700000,SE17 1NJ,F,N,L,57,First And Second Floor Flat,Larcom Street,,London
+2026-04-29,287793,SE17 2PE,F,N,L,Aycliffe House,6,Portland Street,,London
+2026-04-17,485000,SE17 1FH,F,N,L,"Baldwin Point, 6",Flat 1101,Sayer Street,,London
+2026-04-16,300000,SE17 3TS,F,N,L,Irving House,Flat 268,Doddington Grove,,London
+2026-04-16,1246750,SE17 1NG,T,N,F,25,,Charleston Street,,London
+2026-04-15,679000,SE17 1BS,F,N,L,Jardin House,Flat 14,Stead Street,,London
+2026-04-10,390000,SE17 3HD,F,N,L,10,Lower Ground Floor Flat,Fielding Street,,London
+2026-04-10,228000,SE17 3FG,F,N,L,9,Flat 10,Angel Lane,,London
+2026-04-09,710000,SE17 3SA,T,N,F,112,,Ambergate Street,,London
+2026-04-09,380000,SE17 3EL,F,N,L,52B,,Sutherland Square,,London
+2026-04-08,152500,SE17 1GR,F,N,L,"Beck House, 3",Apartment 607,New Lion Way,,London
+2026-04-01,938500,SE17 1PU,T,N,F,6,,Baytree Mews,,London
+2026-03-26,370000,SE17 3HT,F,N,L,171,,Olney Road,,London
+2026-03-20,535000,SE17 1PA,F,N,L,"Kinnaird House, 115",Flat 7,Chatham Street,,London
+2026-03-20,525000,SE17 1GD,F,N,L,"Hurlock Heights, 4",Apartment 305,Deacon Street,,London
+2026-03-19,690000,SE17 1FZ,F,N,L,"Walton Heights, 143",Apartment 402,Walworth Road,,London
+2026-03-13,725000,SE17 1FQ,F,N,L,"Siddal Apartments, 6",Flat 302,Heygate Street,,London
+2026-03-12,452500,SE17 2EF,F,N,L,80,,Wooler Street,,London
+2026-03-12,920000,SE17 1PE,T,N,F,57,,Henshaw Street,,London
+2026-03-11,365000,SE17 3LY,F,N,F,Eglington Court,Flat 26,Lorrimore Road,,London
+2026-03-06,320000,SE17 2JL,F,N,L,Dunnico House,Flat 9,East Street,,London
+2026-03-06,360000,SE17 1ER,F,N,L,Jesson House,Flat 24,Orb Street,,London
+2026-03-04,540000,SE17 3BZ,F,N,L,22,Flat 703,Amelia Street,,London
+2026-02-27,405000,SE17 2JP,F,N,L,"Crispin Court, 17 - 19",Flat 2,Freemantle Street,,London
+2026-02-20,500000,SE17 1LN,F,N,L,"Herbert Morrison House, 1",Flat 4,Browning Street,,London
+2026-02-18,1350000,SE17 3TN,T,N,F,6,,Sharsted Street,,London
+2026-02-18,380000,SE17 2JL,F,N,L,Dunnico House,Flat 10,East Street,,London
+2026-02-16,208000,SE17 1GR,F,N,L,"Beck House, 3",Apartment 304,New Lion Way,,London
+2026-02-16,1345000,SE17 1GA,F,N,L,"Tarling House, 3",Apartment 505,Walworth Square,,London
+2026-02-13,400000,SE17 1LG,F,N,L,30,,Orb Street,,London
+2026-02-12,395000,SE17 1NY,F,N,L,16,,Chatham Street,,London
+2026-02-09,125000,SE17 1FJ,F,N,L,"Arum House, 46",Flat 401,Rodney Road,,London
+2026-02-09,435000,SE17 1BP,F,N,L,Winch House,Flat 4,Stead Street,,London
+2026-02-05,215000,SE17 3NQ,F,N,L,Napier House,Flat 4,Cooks Road,,London
+2026-01-30,700000,SE17 3AU,T,N,F,15,,Wesley Close,,London
+2026-01-30,225750,SE17 1GR,F,N,L,"Beck House, 3",Apartment 401,New Lion Way,,London
+2026-01-26,275000,SE17 2TR,F,N,L,Michael Faraday House,Flat 18,Beaconsfield Road,,London
+2026-01-23,310000,SE17 3HA,F,N,L,Abbey Court,Flat 4,Macleod Street,,London
+2026-01-23,600000,SE17 1FG,F,N,L,"Baldwin Point, 6",Flat 207,Sayer Street,,London
+2026-01-19,242500,SE17 2EQ,F,N,L,45,,Aylesbury Road,,London
+2026-01-16,861000,SE17 3LZ,T,N,F,54,,Lorrimore Road,,London
+2026-01-16,559000,SE17 3EW,F,N,L,104A,,Carter Street,,London
+2026-01-16,525000,SE17 2JX,F,N,L,36A,,Surrey Square,,London
+2026-01-16,895000,SE17 1PU,T,N,F,3,,Baytree Mews,,London
+2026-01-16,397500,SE17 1EW,F,N,L,12,,Orb Street,,London
+2026-01-12,445000,SE17 2RH,F,N,L,Deal House,Flat 1,Mina Road,,London
+2026-01-09,426000,SE17 2EF,F,N,L,76,,Wooler Street,,London
+2026-01-02,680000,SE17 1AL,T,N,F,100,,Brandon Street,,London
+2025-12-22,480000,SE17 1FU,F,N,L,"Levy Building, 37",Apartment 603,Heygate Street,,London
+2025-12-19,475000,SE17 3UR,F,N,L,74,Flat 2,De Laune Street,,London
+2025-12-19,582000,SE17 3QR,T,N,F,47,,Fleming Road,,London
+2025-12-19,313000,SE17 1TH,F,N,L,Ightham House,Flat 18,Beckway Street,,London
+2025-12-19,725000,SE17 1PG,F,N,L,Capell Apartments,501,Victory Place,,London
+2025-12-18,700000,SE17 3RY,F,N,L,29,,Ambergate Street,,London
+2025-12-17,475000,SE17 1GB,F,N,L,"Weymouth Building, 2",Apartment 306,Deacon Street,,London
+2025-12-16,470000,SE17 1AT,F,N,L,Stockham Court,Apartment 206,Rodney Road,,London
+2025-12-15,670000,SE17 1PF,T,N,F,20,,Hemp Walk,,London
+2025-12-15,688000,SE17 1GR,F,N,L,"Beck House, 3",Apartment 402,New Lion Way,,London
+2025-12-12,440000,SE17 3LL,F,N,L,83,,Iliffe Street,,London
+2025-12-12,355000,SE17 3DQ,F,N,L,65,,Winchester Close,,London
+2025-12-12,375000,SE17 3AP,F,N,L,64,,Marlborough Close,,London
+2025-12-11,442500,SE17 2FP,F,N,L,Roffo Court,Flat 118,Boundary Lane,,London
+2025-12-10,390000,SE17 3QH,F,N,L,4,,St Pauls Terrace,,London
+2025-12-10,375000,SE17 1PA,F,N,L,"Kinnaird House, 115",Flat 5,Chatham Street,,London
+2025-12-09,500000,SE17 1GB,F,N,L,"Weymouth Building, 2",Apartment 407,Deacon Street,,London
+2025-12-09,650000,SE17 1AQ,F,N,L,Blackwood Apartments,502,Victory Place,,London
+2025-12-08,371500,SE17 2PU,F,N,L,St. Peters House,Flat 44,Queens Row,,London
+2025-12-05,431000,SE17 3SH,F,N,L,Pullens Buildings,Flat 46,Penton Place,Walworth,London
+2025-12-05,450000,SE17 3QQ,F,N,L,Delverton House,Flat 30,Delverton Road,,London
+2025-12-05,315000,SE17 1TN,F,N,L,Ellery House,Flat 24,Beckway Street,,London
+2025-12-02,632500,SE17 3BA,F,N,L,9,Flat 805,Steedman Street,,London
+2025-12-01,740000,SE17 2LE,T,N,F,9,,Madron Street,,London
+2025-11-28,440000,SE17 3AE,F,N,L,100,,Crampton Street,,London
+2025-11-27,635000,SE17 3FQ,F,N,L,7,Flat 14,Danson Mews,,London
+2025-11-27,395000,SE17 3AY,F,N,L,Searson House,19,Wesley Close,,London
+2025-11-25,420000,SE17 3SY,F,N,L,Colet House,93,Doddington Grove,,London
+2025-11-25,480000,SE17 3AE,F,N,L,114,,Crampton Street,,London
+2025-11-21,580000,SE17 1FP,F,N,L,"Sir John Soane Apartments, 20",Flat 101,Heygate Street,,London
+2025-11-20,525000,SE17 3JG,F,N,L,1,,Pelier Street,,London
+2025-11-19,455000,SE17 3BZ,F,N,L,22,Flat 708,Amelia Street,,London
+2025-11-17,565000,SE17 1NG,F,N,L,45B,,Charleston Street,,London
+2025-11-14,495000,SE17 1GG,F,N,L,6,Flat 12,Waleorde Road,,London
+2025-11-12,645000,SE17 1FP,F,N,L,"Sir John Soane Apartments, 20",Flat 301,Heygate Street,,London
+2025-11-03,390000,SE17 3QY,F,N,L,13,,Westcott Road,,London
+2025-10-31,365000,SE17 3HU,F,N,L,240,,Olney Road,,London
+2025-10-31,600000,SE17 2TP,F,N,L,137,Flat 2,Trafalgar Street,,London
+2025-10-31,144000,SE17 1HG,F,N,L,Laurel Apartments,40,Townsend Street,,London
+2025-10-31,930000,SE17 1BS,F,N,L,Jardin House,Flat 1,Stead Street,,London
+2025-10-30,380000,SE17 3BT,F,N,L,83,Flat 213,Crampton Street,,London
+2025-10-24,1325000,SE17 3UT,T,N,F,87,,De Laune Street,,London
+2025-10-24,670000,SE17 3QT,F,N,L,2,,Lorrimore Square,,London
+2025-10-24,288750,SE17 1SY,F,N,L,Broomfield House,Flat 6,Massinger Street,,London
+2025-10-23,275000,SE17 3HW,F,N,L,36,,Slade Walk,,London
+2025-10-20,550000,SE17 3FQ,F,N,L,7,Flat 9,Danson Mews,,London
+2025-10-20,1055000,SE17 1FF,T,N,L,35,,Wansey Street,,London
+2025-10-17,795000,SE17 1PG,F,N,L,9,,Victory Place,,London
+2025-10-17,160000,SE17 1GX,F,N,L,"Octavia Apartments, 7",Apartment 603,Chatteris Way,,London
+2025-10-17,475000,SE17 1EA,F,N,L,Ellis House,Flat 1,Brandon Street,,London
+2025-10-17,240000,SE17 1BT,F,N,L,Block E,Flat 5,Peabody Estate,,London
+2025-10-16,495000,SE17 2FL,F,N,L,Roffo Court,Flat 12,Boyson Road,,London
+2025-10-14,465000,SE17 2EB,F,N,L,96A,,Dawes Street,,London
+2025-10-10,890000,SE17 1PD,T,N,F,8,,Henshaw Street,,London
+2025-10-09,380000,SE17 2EQ,F,N,L,39,,Aylesbury Road,,London
+2025-10-08,812000,SE17 1PD,T,N,F,10,,Henshaw Street,,London
+2025-10-07,440000,SE17 3AG,F,N,L,14,,Canterbury Place,,London
+2025-10-06,663500,SE17 3SA,T,N,F,98,,Ambergate Street,,London
+2025-10-03,425000,SE17 3JT,F,N,L,32E,,Penton Place,Walworth,London
+2025-10-03,495000,SE17 3AE,F,N,L,104,,Crampton Street,,London
+2025-10-01,670000,SE17 3UJ,T,N,F,8,,Harding Close,,London
+2025-10-01,625000,SE17 1GX,F,N,L,"Octavia Apartments, 7",Apartment 701,Chatteris Way,,London
+2025-09-30,739000,SE17 1BA,F,N,L,Mansfield Point,803,Rodney Road,,London
+2025-09-26,550000,SE17 3LZ,S,N,L,73,,Lorrimore Road,,London
+2025-09-24,380000,SE17 1NJ,F,N,L,75D,Apartment 4,Larcom Street,,London
+2025-09-19,605000,SE17 1JP,F,N,L,54A,,Wansey Street,,London
+2025-09-18,670000,SE17 3LZ,F,N,L,57,,Lorrimore Road,,London
+2025-09-12,435000,SE17 3PY,F,N,L,2,Flat 21,Amelia Street,,London
+2025-09-12,687500,SE17 3HT,T,N,F,111,,Olney Road,,London
+2025-09-12,500000,SE17 1FZ,F,N,L,"Walton Heights, 143",Apartment 901,Walworth Road,,London
+2025-09-11,385000,SE17 3TA,F,N,L,Edmund House,Flat 148,Doddington Grove,,London
+2025-09-11,365000,SE17 2HD,F,N,L,27,,Bronti Close,,London
+2025-09-11,445000,SE17 2EQ,T,N,L,37,,Aylesbury Road,,London
+2025-09-10,440000,SE17 3JQ,F,N,L,1,,Andrews Walk,,London
+2025-09-09,307500,SE17 3JN,F,N,L,11,,Gates Court,,London
+2025-09-09,410000,SE17 3EL,F,N,L,66,Flat 3,Sutherland Square,,London
+2025-09-05,350000,SE17 3TF,F,N,L,Jephson House,Flat 8,Doddington Grove,,London
+2025-09-05,950000,SE17 3HE,T,N,F,13,,Fielding Street,,London
+2025-09-05,830000,SE17 3AN,T,N,F,53,,Hampton Street,,London
+2025-09-04,382500,SE17 2PX,F,N,L,42,Flat B,Queens Row,,London
+2025-09-01,870750,SE17 3HD,T,N,F,36,,Fielding Street,,London
+2025-09-01,485000,SE17 2EF,F,N,L,60,,Wooler Street,,London
+2025-08-29,670500,SE17 3SA,F,N,F,96,,Ambergate Street,,London
+2025-08-28,470000,SE17 3BA,F,N,L,9,Flat 212,Steedman Street,,London
+2025-08-28,750000,SE17 1GD,F,N,L,"Hurlock Heights, 4",Apartment 1005,Deacon Street,,London
+2025-08-27,1150000,SE17 3BD,T,N,F,3,,Manor Place,,London
+2025-08-22,500000,SE17 3NP,F,N,L,16,,Rutley Close,,London
+2025-08-20,435000,SE17 1NG,F,N,L,7A,,Charleston Street,,London
+2025-08-15,295000,SE17 2LF,F,N,L,Swanley House,Flat 1,Kinglake Estate,,London
+2025-08-13,347500,SE17 1RD,F,N,L,Dawes House,Flat 61,Orb Street,,London
+2025-08-08,450000,SE17 2ED,F,N,L,"Ground Floor Flat, 37",,Wooler Street,,London
+2025-08-08,305000,SE17 1HF,F,N,L,24,Flat 4,Mason Street,,London
+2025-08-01,500000,SE17 2PP,F,N,L,St. Marks House,Flat 22,Phelp Street,,London
+2025-08-01,700000,SE17 2PL,T,N,F,37,,Phelp Street,,London
+2025-08-01,650000,SE17 1FZ,F,N,L,"Walton Heights, 143",Apartment 302,Walworth Road,,London
+2025-08-01,325000,SE17 1DT,F,N,L,Gray House,Flat 27,King & Queen Street,,London
+2025-07-31,465000,SE17 3QY,F,N,L,6,Flat F,Westcott Road,,London
+2025-07-25,410000,SE17 3QR,F,N,L,36,,Fleming Road,,London
+2025-07-25,399000,SE17 3AE,F,N,L,110,,Crampton Street,,London
+2025-07-25,425000,SE17 1RL,F,N,L,259 - 261,Flat A,Walworth Road,,London
+2025-07-23,860000,SE17 3QE,T,N,F,16,,Berryfield Road,,London
+2025-07-21,390000,SE17 3HT,F,N,L,171,,Olney Road,,London
+2025-07-18,586000,SE17 3DA,F,N,L,"Babbage Court, 109",Flat 12,Cooks Road,,London
+2025-07-16,475000,SE17 1FJ,F,N,L,"Henderson Apartments, 58",Flat 205,Rodney Road,,London
+2025-07-15,562000,SE17 2QP,T,N,F,67,,Smyrks Road,,London
+2025-07-15,475000,SE17 2EF,F,N,L,62A,,Wooler Street,,London
+2025-07-11,675000,SE17 3FP,F,N,L,5,Flat 20,Danson Mews,,London
+2025-07-11,360000,SE17 1DG,F,N,L,Coleridge House,Flat 14,Browning Street,,London
+2025-07-10,430000,SE17 3SG,F,N,L,Harold Maddison House,Flat 48,Alberta Street,,London
+2025-07-10,1040000,SE17 1FF,T,N,L,57,,Wansey Street,,London
+2025-07-07,420000,SE17 3FG,F,N,L,9,Flat 15,Angel Lane,,London
+2025-07-07,572500,SE17 1GG,F,N,L,6,Flat 7,Waleorde Road,,London
+2025-07-04,412000,SE17 1GD,F,N,L,"Hurlock Heights, 4",Apartment 606,Deacon Street,,London
+2025-07-03,457500,SE17 3NA,T,N,L,151,,Lorrimore Road,,London
+2025-07-03,960000,SE17 1FF,T,N,L,67,,Wansey Street,,London
+2025-07-03,364000,SE17 1BY,F,N,L,28,,Salisbury Close,,London
+2025-06-30,435000,SE17 3QQ,F,N,L,Delverton House,Flat 48,Delverton Road,,London
+2025-06-30,435000,SE17 2FP,F,N,L,Roffo Court,Flat 106,Boundary Lane,,London
+2025-06-27,1175000,SE17 3EL,T,N,F,63,,Sutherland Square,,London
+2025-06-27,390000,SE17 2FP,F,N,L,Roffo Court,Flat 89,Boundary Lane,,London
+2025-06-27,965000,SE17 1PD,T,N,F,78B,,Henshaw Street,,London
+2025-06-25,1600000,SE17 3UU,T,N,F,25,,De Laune Street,,London
+2025-06-24,400000,SE17 3SU,F,N,L,Arnold House,Flat 21,Doddington Grove,,London
+2025-06-24,1200000,SE17 3EE,T,N,F,33,,Sutherland Square,,London
+2025-06-20,308500,SE17 3QH,F,N,L,14C,,St Pauls Terrace,,London
+2025-06-20,370000,SE17 1DJ,F,N,L,145,,Pilton Place,,London
+2025-06-17,379000,SE17 3BZ,F,N,L,22,Flat 507,Amelia Street,,London
+2025-06-17,345000,SE17 2DT,F,N,L,Lulworth,Flat 19,Portland Street,,London
+2025-06-17,450000,SE17 1NY,F,N,L,26,,Chatham Street,,London
+2025-06-12,475000,SE17 3BT,F,N,L,83,Flat 414,Crampton Street,,London
+2025-06-11,540000,SE17 3BA,F,N,L,9,Flat 706,Steedman Street,,London
+2025-06-06,240000,SE17 1QU,F,N,L,Atkinson House,Flat 29,Barlow Street,,London
+2025-06-05,450000,SE17 3AS,F,N,L,190,,Amelia Street,,London
+2025-06-05,781750,SE17 2HQ,T,N,F,24,,Date Street,,London
+2025-06-05,725000,SE17 1GR,F,N,L,"Beck House, 3",Apartment 703,New Lion Way,,London
+2025-05-30,833000,SE17 1JX,F,Y,L,"Hawksbury Heights, 11",Apartment 203,Hewson Way,,London
+2025-05-29,395000,SE17 3QU,F,N,L,57,,Lorrimore Square,,London
+2025-05-23,755000,SE17 2JP,T,N,F,16,,Freemantle Street,,London
+2025-05-16,148750,SE17 3FG,F,N,L,9,Flat 9,Angel Lane,,London
+2025-05-16,395000,SE17 2HG,F,N,L,Walsham House,Flat 22,Blackwood Street,,London
+2025-05-06,585000,SE17 3FQ,F,N,L,7,Flat 2,Danson Mews,,London
+2025-05-02,306500,SE17 3LY,F,N,L,Eglington Court,Flat 17,Lorrimore Road,,London
+2025-05-02,359950,SE17 3HA,F,N,L,Abbey Court,Flat 18,Macleod Street,,London
+2025-04-30,540000,SE17 3JB,F,N,L,120,,Penton Place,Walworth,London
+2025-04-25,427500,SE17 3LL,F,N,L,65,,Iliffe Street,,London
+2025-04-24,120000,SE17 1HG,F,N,L,Laurel Apartments,45,Townsend Street,,London
+2025-04-17,315000,SE17 1QD,F,N,L,27,First Floor Flat,Flint Street,,London
+2025-03-31,475000,SE17 3QH,T,N,F,21,,St Pauls Terrace,,London
+2025-03-31,430000,SE17 3PY,F,N,L,2,Flat 17,Amelia Street,,London
+2025-03-31,450000,SE17 3NA,F,N,L,165,,Lorrimore Road,,London
+2025-03-31,750000,SE17 3LZ,F,N,L,63,,Lorrimore Road,,London
+2025-03-31,450000,SE17 3HX,T,N,F,19,,Draco Street,,London
+2025-03-31,411000,SE17 3FN,F,N,L,3,Flat 16,Danson Mews,,London
+2025-03-31,470000,SE17 3EA,F,N,L,Penrose House,Flat 92,Penrose Street,,London
+2025-03-31,335000,SE17 2HE,F,N,L,Ringsfield House,Flat 20,East Street,,London
+2025-03-31,390000,SE17 1NQ,F,N,L,8A,,Larcom Street,,London
+2025-03-28,525000,SE17 3QU,F,N,L,47,,Lorrimore Square,,London
+2025-03-28,725000,SE17 3FL,F,N,L,1,Flat 21,Danson Mews,,London
+2025-03-28,670000,SE17 2ED,T,N,F,67,,Wooler Street,,London
+2025-03-28,518000,SE17 1RW,F,N,L,"Ferraro House, 149",Apartment 103,Walworth Road,,London
+2025-03-28,507500,SE17 1GG,F,N,L,5,Flat 23,Waleorde Road,,London
+2025-03-28,550000,SE17 1FX,F,N,L,"Barnard House, 34",Apartment 802,Heygate Street,,London
+2025-03-28,725000,SE17 1BS,F,N,L,Jardin House,Flat 25,Stead Street,,London
+2025-03-27,720000,SE17 3DW,T,N,F,43,,Penrose Street,,London
+2025-03-27,450000,SE17 3BU,F,N,L,83,Flat 608,Crampton Street,,London
+2025-03-26,435000,SE17 3NA,F,N,L,173,,Lorrimore Road,,London
+2025-03-26,500000,SE17 2BH,F,N,L,6B,,Boundary Lane,,London
+2025-03-26,370000,SE17 1BX,F,N,L,Block K,Flat 13,Peabody Estate,,London
+2025-03-25,450000,SE17 3QU,F,N,L,19,,Lorrimore Square,,London
+2025-03-24,940000,SE17 1LF,F,Y,L,"Belfield Mansions, 35",Apartment 705,Heygate Street,,London
+2025-03-24,670000,SE17 1FQ,F,N,L,"Siddal Apartments, 6",Flat 606,Heygate Street,,London
+2025-03-21,685000,SE17 3JT,T,N,F,50,,Penton Place,Walworth,London
+2025-03-21,485000,SE17 3JQ,F,N,L,10,,Andrews Walk,,London
+2025-03-21,455000,SE17 3JD,F,N,L,214,,Hillingdon Street,,London
+2025-03-21,415000,SE17 3AR,F,N,L,138,,Amelia Street,,London
+2025-03-21,360000,SE17 2RB,F,N,L,Keston House,Flat 49,Kinglake Estate,,London
+2025-03-21,310000,SE17 1QS,F,N,L,Eugene Cotter House,Flat 21,Beckway Street,,London
+2025-03-21,362000,SE17 1DD,F,N,L,Cowper House,Flat 15,Browning Street,,London
+2025-03-20,450000,SE17 3DY,F,N,L,Penrose House,Flat 78,Penrose Street,,London
+2025-03-18,901600,SE17 1LF,F,Y,L,"Belfield Mansions, 35",Apartment 605,Heygate Street,,London
+2025-03-17,499000,SE17 3BA,F,N,L,9,Flat 801,Steedman Street,,London
+2025-03-14,1320000,SE17 3EF,T,N,F,32,,Sutherland Walk,,London
+2025-03-14,682000,SE17 3BN,F,N,L,204,Apartment 2,Manor Place,,London
+2025-03-14,350000,SE17 2RA,F,N,L,Amery House,Flat 50,Kinglake Street,,London
+2025-03-14,665000,SE17 2QP,T,N,F,103,,Smyrks Road,,London
+2025-03-14,675000,SE17 2NN,F,N,L,81B,,Lytham Street,,London
+2025-03-14,440000,SE17 2GP,F,N,L,Spectrum Place,Flat 10,Lytham Street,,London
+2025-03-13,346000,SE17 3EN,F,N,L,45,Upper Flat,Carter Street,,London
+2025-03-12,670000,SE17 2PN,T,N,F,9,,Lytham Street,,London
+2025-03-12,555000,SE17 2FT,F,N,L,Marsh Court,Flat 23,East Street,,London
+2025-03-11,480000,SE17 2PX,F,N,L,34,Apartment 1,Queens Row,,London
+2025-03-11,443300,SE17 1GD,F,N,L,"Hurlock Heights, 4",Apartment 1103,Deacon Street,,London
+2025-03-07,410000,SE17 3NF,F,N,L,20,,Cooks Road,,London
+2025-03-07,750500,SE17 1FU,F,N,L,"Levy Building, 37",Apartment 505,Heygate Street,,London
+2025-03-05,645000,SE17 1FU,F,N,L,"Levy Building, 37",Apartment 107,Heygate Street,,London
+2025-03-04,238590,SE17 3QJ,F,N,L,2B,,Frederick Road,,London
+2025-03-04,238590,SE17 3QJ,F,N,L,1D,,Frederick Road,,London
+2025-03-04,238590,SE17 3QJ,F,N,L,1C,,Frederick Road,,London
+2025-02-28,540000,SE17 3PY,F,N,L,2,Flat 35,Amelia Street,,London
+2025-02-28,312000,SE17 2BH,F,N,L,16A,,Boundary Lane,,London
+2025-02-28,587500,SE17 1FH,F,N,L,"Baldwin Point, 6",Flat 1406,Sayer Street,,London
+2025-02-25,550000,SE17 3BS,F,Y,L,"Manor Cross Apartments, 177",13,Manor Place,,London
+2025-02-21,375000,SE17 3SJ,F,N,L,Pullens Buildings,Flat 3,Penton Place,Walworth,London
+2025-02-21,465000,SE17 3QH,T,N,F,19,,St Pauls Terrace,,London
+2025-02-21,600000,SE17 3FN,F,N,L,3,Flat 18,Danson Mews,,London
+2025-02-20,420000,SE17 3AY,F,N,L,Searson House,6,Wesley Close,,London
+2025-02-17,432800,SE17 2QS,F,N,L,87,Flat A,Mina Road,,London
+2025-02-14,575000,SE17 2GS,F,N,L,40,Flat 6,Horsley Street,,London
+2025-02-14,320000,SE17 2BS,F,N,L,Gaitskell House,Flat 43,Villa Street,,London
+2025-02-14,421000,SE17 1DN,F,N,L,43,,Pilton Place,,London
+2025-02-11,510000,SE17 2FT,F,N,L,Marsh Court,Flat 7,East Street,,London
+2025-02-06,450000,SE17 3BA,F,N,L,9,Flat 403,Steedman Street,,London
+2025-02-04,299000,SE17 1DB,F,N,L,Tennyson House,Flat 17,Browning Street,,London
+2025-01-31,380000,SE17 2HF,F,N,L,Trafalgar House,Flat 54,Bronti Close,,London
+2025-01-31,320000,SE17 1HG,F,N,L,Laurel Apartments,38,Townsend Street,,London
+2025-01-24,455000,SE17 3QQ,F,N,L,Delverton House,Flat 56,Delverton Road,,London
+2025-01-24,630000,SE17 1FJ,F,N,L,"Henderson Apartments, 58",Flat 402,Rodney Road,,London
+2025-01-14,685000,SE17 1AQ,F,N,L,Blackwood Apartments,505,Victory Place,,London
+2025-01-13,612000,SE17 1FJ,F,N,L,"Henderson Apartments, 58",Flat 304,Rodney Road,,London
+2025-01-10,660000,SE17 3BD,F,N,L,21,,Manor Place,,London
+2025-01-10,555000,SE17 2TP,F,N,L,179,,Trafalgar Street,,London
+2025-01-10,990000,SE17 1FF,T,N,L,65,,Wansey Street,,London
+2024-12-20,320000,SE17 1DG,F,N,L,Coleridge House,Flat 6,Browning Street,,London
+2024-12-18,315000,SE17 2LL,F,N,L,Tenterden House,Flat 11,Kinglake Estate,,London
+2024-12-18,475000,SE17 2JX,F,N,L,48,Flat 4,Surrey Square,,London
+2024-12-18,365000,SE17 1LN,F,N,L,"Herbert Morrison House, 1",Flat 5,Browning Street,,London
+2024-12-16,860000,SE17 3QR,S,N,F,52,,Fleming Road,,London
+2024-12-16,440000,SE17 3BU,F,N,L,83,Flat 510,Crampton Street,,London
+2024-12-13,465000,SE17 2FP,F,N,L,Roffo Court,Flat 119,Boundary Lane,,London
+2024-12-13,393000,SE17 1GG,F,N,L,6,Flat 10,Waleorde Road,,London
+2024-12-12,375000,SE17 3HA,F,N,L,Abbey Court,Flat 16,Macleod Street,,London
+2024-12-12,857500,SE17 3EF,T,N,F,31,,Sutherland Walk,,London
+2024-12-10,1060000,SE17 1LD,F,Y,L,"Hawksbury Heights, 11",Apartment 1401,Hewson Way,,London
+2024-12-06,676500,SE17 3SA,T,N,F,110,,Ambergate Street,,London
+2024-12-06,412000,SE17 3HP,F,N,L,Pascall House,Flat 15,Draco Street,,London
+2024-12-06,604800,SE17 1LF,F,Y,L,"Belfield Mansions, 35",Apartment 707,Heygate Street,,London
+2024-12-06,490000,SE17 1FU,F,N,L,"Levy Building, 37",Apartment 703,Heygate Street,,London
+2024-12-04,400000,SE17 3TA,F,N,L,Edmund House,Flat 141,Doddington Grove,,London
+2024-12-02,875000,SE17 3BG,F,N,L,"Duke Of Clarence Court, 154",Flat 4,Manor Place,,London
+2024-11-29,587500,SE17 3RZ,T,N,F,79,,Ambergate Street,,London
+2024-11-29,471000,SE17 3LJ,F,N,L,34,,Iliffe Street,,London
+2024-11-29,387000,SE17 3DU,F,N,L,Penrose House,Flat 9,Penrose Street,,London
+2024-11-29,660000,SE17 3AX,T,N,F,22,,Wesley Close,,London
+2024-11-29,355000,SE17 1QS,F,N,L,Eugene Cotter House,Flat 55,Beckway Street,,London
+2024-11-29,650000,SE17 1LN,F,N,L,3,Flat 3,Browning Street,,London
+2024-11-29,380000,SE17 1JP,F,N,L,60B,,Wansey Street,,London
+2024-11-29,515000,SE17 1GA,F,N,L,"Tarling House, 3",Apartment 401,Walworth Square,,London
+2024-11-28,350000,SE17 1SU,F,N,L,8,,Stanford Place,,London
+2024-11-27,460000,SE17 2ST,F,N,L,Eynsford House,Flat 18,East Street,,London
+2024-11-26,756000,SE17 3TT,F,N,L,22,Flat B,Doddington Grove,,London
+2024-11-26,725000,SE17 1FQ,F,N,L,"Siddal Apartments, 6",Flat 301,Heygate Street,,London
+2024-11-22,605000,SE17 3EW,F,N,L,94,,Carter Street,,London
+2024-11-19,475000,SE17 3AS,F,N,L,174,,Amelia Street,,London
+2024-11-15,440000,SE17 3AS,F,N,L,224,,Amelia Street,,London
+2024-11-15,675000,SE17 2QS,T,N,F,83,,Mina Road,,London
+2024-11-15,318000,SE17 2JL,F,N,L,Dunnico House,Flat 21,East Street,,London
+2024-11-15,131250,SE17 1FX,F,N,L,"Barnard House, 34",Apartment 803,Heygate Street,,London
+2024-11-12,335000,SE17 1TD,F,N,L,Barker House,Flat 18,Congreve Street,,London
+2024-11-08,417500,SE17 3SZ,F,N,L,Dickens House,Flat 122,Doddington Grove,,London
+2024-11-08,625000,SE17 3RX,F,N,L,18,,Ambergate Street,,London
+2024-11-06,112500,SE17 2FT,F,N,L,Marsh Court,Flat 14,East Street,,London
+2024-11-04,480000,SE17 3BA,F,N,L,9,Flat 112,Steedman Street,,London
+2024-11-01,720000,SE17 3QS,T,N,F,1,,Greig Terrace,,London
+2024-11-01,975000,SE17 3LZ,T,N,F,62,,Lorrimore Road,,London
+2024-11-01,375000,SE17 3BZ,F,N,L,22,Flat 608,Amelia Street,,London
+2024-11-01,525000,SE17 1FG,F,N,L,"Baldwin Point, 6",Flat 205,Sayer Street,,London
+2024-10-31,699000,SE17 1FH,F,N,L,"Baldwin Point, 6",Flat 1007,Sayer Street,,London
+2024-10-30,665000,SE17 3SF,T,N,F,21,,Alberta Street,,London
+2024-10-30,862500,SE17 3FE,F,N,L,5,Flat 19,Angel Lane,,London
+2024-10-30,449000,SE17 1NJ,F,N,L,55,Flat A,Larcom Street,,London
+2024-10-29,470000,SE17 3AE,F,N,L,156,,Crampton Street,,London
+2024-10-29,450000,SE17 2PX,F,N,L,42,Flat F,Queens Row,,London
+2024-10-28,395000,SE17 3DY,F,N,L,Penrose House,Flat 41,Penrose Street,,London
+2024-10-28,350000,SE17 2SN,F,N,L,Naylor House,Flat 5,Flint Street,,London
+2024-10-28,230000,SE17 1TW,F,N,L,Offham House,Flat 19,Beckway Street,,London
+2024-10-28,878000,SE17 1PD,T,N,F,68,,Henshaw Street,,London
+2024-10-25,480000,SE17 3JH,F,N,L,145,,Hillingdon Street,,London
+2024-10-23,641000,SE17 2EF,F,N,L,60A,,Wooler Street,,London
+2024-10-22,610000,SE17 1LS,F,N,L,12B,,Walcorde Avenue,,London
+2024-10-22,487500,SE17 1FU,F,N,L,"Levy Building, 37",Apartment 702,Heygate Street,,London
+2024-10-18,510000,SE17 2SX,F,N,L,312A,,East Street,,London
+2024-10-18,157500,SE17 1GR,F,N,L,"Beck House, 3",Apartment 302,New Lion Way,,London
+2024-10-18,700000,SE17 1FH,F,N,L,"Baldwin Point, 6",Flat 1302,Sayer Street,,London
+2024-10-14,186000,SE17 3FD,F,N,L,3,Flat 3,Angel Lane,,London
+2024-10-11,800000,SE17 1GE,F,N,L,"Hurlock Heights, 4",Apartment 1605,Deacon Street,,London
+2024-10-11,590000,SE17 1BS,F,N,L,Jardin House,Flat 7,Stead Street,,London
+2024-10-09,895000,SE17 2PY,F,N,L,20,Flat 2,Liverpool Grove,,London
+2024-10-04,525000,SE17 1AX,F,N,L,Tyler Court,206,New Paragon Walk,,London
+2024-10-03,430000,SE17 1GG,F,N,L,5,Flat 15,Waleorde Road,,London
+2024-09-30,320000,SE17 3UL,F,N,L,55,,Hillingdon Street,,London
+2024-09-27,721000,SE17 3LZ,T,N,L,55,,Lorrimore Road,,London
+2024-09-27,430000,SE17 2FP,F,N,L,Roffo Court,Flat 116,Boundary Lane,,London
+2024-09-27,342500,SE17 1TH,F,N,L,Ightham House,Flat 19,Beckway Street,,London
+2024-09-26,418000,SE17 3AS,F,N,L,202,,Amelia Street,,London
+2024-09-24,387500,SE17 3HS,F,N,L,257,,Olney Road,,London
+2024-09-20,515000,SE17 1SZ,F,N,L,Detling House,Flat 5,Congreve Street,,London
+2024-09-18,888250,SE17 1JX,F,Y,L,"Hawksbury Heights, 11",Apartment 605,Hewson Way,,London
+2024-09-17,669500,SE17 3UX,T,N,F,101,,Hillingdon Street,,London
+2024-09-16,495000,SE17 1AX,F,N,L,Tyler Court,203,New Paragon Walk,,London
+2024-09-13,330000,SE17 2LH,F,N,L,Bethersden House,Flat 16,Kinglake Estate,,London
+2024-09-12,400000,SE17 3NW,F,N,L,Morton House,Flat 25,Brandon Estate,,London
+2024-09-12,920000,SE17 1LD,F,Y,L,"Hawksbury Heights, 11",Apartment 1405,Hewson Way,,London
+2024-09-09,640000,SE17 1FJ,F,N,L,"Arum House, 46",Flat 302,Rodney Road,,London
+2024-09-06,1220000,SE17 1FF,T,N,L,55,,Wansey Street,,London
+2024-09-02,475000,SE17 3ED,F,N,L,120,,Penrose Street,,London
+2024-09-02,440000,SE17 1HF,F,N,L,17B,,Mason Street,,London
+2024-08-30,625000,SE17 3PY,F,N,L,2,Flat 32,Amelia Street,,London
+2024-08-30,355000,SE17 2PW,F,N,L,St. Johns House,Flat 4,Lytham Street,,London
+2024-08-30,450000,SE17 2GP,F,N,L,Spectrum Place,Flat 9,Lytham Street,,London
+2024-08-30,700000,SE17 1JX,F,Y,L,"Hawksbury Heights, 11",Apartment 708,Hewson Way,,London
+2024-08-30,435000,SE17 1GE,F,N,L,"Hurlock Heights, 4",Apartment 1606,Deacon Street,,London
+2024-08-30,265000,SE17 1EB,F,N,L,Curtis House,Flat 8,Morecambe Street,,London
+2024-08-28,665000,SE17 3BS,F,Y,L,"Manor Cross Apartments, 177",8,Manor Place,,London
+2024-08-28,837500,SE17 2TP,T,N,F,186,,Trafalgar Street,,London
+2024-08-27,240000,SE17 2LG,F,N,L,Hadlow House,Flat 1,Kinglake Estate,,London
+2024-08-23,245000,SE17 3QJ,F,N,L,1G,,Frederick Road,,London
+2024-08-23,450000,SE17 3BA,F,N,L,9,Flat 305,Steedman Street,,London
+2024-08-23,500000,SE17 1NQ,F,N,L,8B,,Larcom Street,,London
+2024-08-23,700000,SE17 1FU,F,N,L,"Levy Building, 37",Apartment 406,Heygate Street,,London
+2024-08-22,255000,SE17 2RE,F,N,L,Faversham House,Flat 6,Kinglake Estate,,London
+2024-08-21,480000,SE17 2FS,F,N,L,Monolulu Court,Flat 13,East Street,,London
+2024-08-21,854350,SE17 1JX,F,Y,L,"Hawksbury Heights, 11",Apartment 1001,Hewson Way,,London
+2024-08-19,551500,SE17 3BZ,F,N,L,22,Flat 616,Amelia Street,,London
+2024-08-16,490000,SE17 2GP,F,N,L,Spectrum Place,Flat 12,Lytham Street,,London
+2024-08-16,171500,SE17 1HG,F,N,L,Laurel Apartments,39,Townsend Street,,London
+2024-08-16,840000,SE17 1GE,F,N,L,"Hurlock Heights, 4",Apartment 1301,Deacon Street,,London
+2024-08-16,560000,SE17 1GD,F,N,L,"Hurlock Heights, 4",Apartment 807,Deacon Street,,London
+2024-08-14,525000,SE17 3BS,F,Y,L,"Manor Cross Apartments, 177",6,Manor Place,,London
+2024-08-13,420000,SE17 1BY,F,N,L,19,,Salisbury Close,,London
+2024-08-12,430000,SE17 3DY,F,N,L,Penrose House,Flat 65,Penrose Street,,London
+2024-08-09,705000,SE17 3EW,F,N,L,108,,Carter Street,,London
+2024-08-09,815000,SE17 2QS,T,N,F,73,,Mina Road,,London
+2024-08-07,270000,SE17 2HF,F,N,L,Trafalgar House,Flat 16,Bronti Close,,London
+2024-08-07,609600,SE17 1JX,F,Y,L,"Hawksbury Heights, 11",Apartment 408,Hewson Way,,London
+2024-08-05,372500,SE17 1DS,F,N,L,Paxton House,Flat 23,Morecambe Street,,London
+2024-08-02,450000,SE17 3UF,F,N,L,30,,Langdale Close,,London
+2024-08-02,630000,SE17 3BN,F,N,L,204,Apartment 3,Manor Place,,London
+2024-08-02,412500,SE17 2AU,F,N,L,1F,,Horsley Street,,London
+2024-08-01,362500,SE17 1DP,F,N,L,93,,Pilton Place,,London
+2024-07-31,875000,SE17 2PX,F,N,L,34,Apartment 8,Queens Row,,London
+2024-07-31,297000,SE17 1BE,F,N,L,Block C,Flat 13,Peabody Estate,,London
+2024-07-30,130000,SE17 1GR,F,N,L,"Beck House, 3",Apartment 504,New Lion Way,,London
+2024-07-29,510000,SE17 1LN,F,N,L,4,Flat 5,Browning Street,,London
+2024-07-26,500000,SE17 3LL,F,N,L,85,,Iliffe Street,,London
+2024-07-26,512000,SE17 1PG,F,N,L,Capell Apartments,504,Victory Place,,London
+2024-07-25,938000,SE17 1PD,T,N,F,6,,Henshaw Street,,London
+2024-07-24,470000,SE17 3FF,F,N,L,7,Flat 18,Angel Lane,,London
+2024-07-24,376000,SE17 3DQ,F,N,L,17,,Winchester Close,,London
+2024-07-24,1200000,SE17 1FF,T,N,L,49,,Wansey Street,,London
+2024-07-19,1085500,SE17 1LD,F,Y,L,"Hawksbury Heights, 11",Apartment 2305,Hewson Way,,London
+2024-07-17,689000,SE17 3BS,F,Y,L,"Manor Cross Apartments, 177",14,Manor Place,,London
+2024-07-16,848500,SE17 1JX,F,Y,L,"Hawksbury Heights, 11",Apartment 1005,Hewson Way,,London
+2024-07-12,675000,SE17 3BS,F,Y,L,"Manor Cross Apartments, 177",15,Manor Place,,London
+2024-07-12,740000,SE17 1FQ,F,N,L,"Siddal Apartments, 6",Flat 607,Heygate Street,,London
+2024-07-11,672000,SE17 1LD,F,Y,L,"Hawksbury Heights, 11",Apartment 1608,Hewson Way,,London
+2024-07-11,841700,SE17 1JX,F,Y,L,"Hawksbury Heights, 11",Apartment 703,Hewson Way,,London
+2024-07-10,957000,SE17 3JS,T,N,F,62,,Penton Place,Walworth,London
+2024-07-10,515500,SE17 3JB,F,N,L,106,,Penton Place,Walworth,London
+2024-07-10,495000,SE17 3AS,F,N,L,156,,Amelia Street,,London
+2024-07-08,651446,SE17 1JX,F,Y,L,"Hawksbury Heights, 11",Apartment 1106,Hewson Way,,London
+2024-07-05,250000,SE17 2RR,F,N,L,15,,Kinglake Street,,London
+2024-07-05,1000005,SE17 1PU,T,N,F,7,,Baytree Mews,,London
+2024-07-05,718000,SE17 1LF,F,Y,L,"Belfield Mansions, 35",Apartment 501,Heygate Street,,London
+2024-07-01,510000,SE17 3QD,F,N,L,Cavour House,Flat 4,Alberta Estate,,London
+2024-06-28,415000,SE17 2LQ,F,N,L,Barham House,Flat 4,Kinglake Estate,,London
+2024-06-28,895842,SE17 1LD,F,Y,L,"Hawksbury Heights, 11",Apartment 1605,Hewson Way,,London
+2024-06-28,662226,SE17 1JX,F,Y,L,"Hawksbury Heights, 11",Apartment 602,Hewson Way,,London
+2024-06-28,780000,SE17 1JX,F,Y,L,"Hawksbury Heights, 11",Apartment 305,Hewson Way,,London
+2024-06-28,300000,SE17 1HY,F,N,L,Thornton House,Flat 14,Townsend Street,,London
+2024-06-27,710000,SE17 3BS,F,Y,L,"Manor Cross Apartments, 177",5,Manor Place,,London
+2024-06-26,710000,SE17 3FQ,F,N,L,7,Flat 22,Danson Mews,,London
+2024-06-26,515000,SE17 3BA,F,N,L,9,Flat 803,Steedman Street,,London
+2024-06-24,725000,SE17 3SD,T,N,F,28,,Alberta Street,,London
+2024-06-24,1041520,SE17 1LD,F,Y,L,"Hawksbury Heights, 11",Apartment 2105,Hewson Way,,London
+2024-06-24,812585,SE17 1JX,F,Y,L,"Hawksbury Heights, 11",Apartment 705,Hewson Way,,London
+2024-06-21,515000,SE17 3LF,F,N,L,Pullens Buildings,44,Peacock Street,,London
+2024-06-21,335000,SE17 2LQ,F,N,L,Barham House,Flat 13,Kinglake Estate,,London
+2024-06-21,693000,SE17 1LD,F,Y,L,"Hawksbury Heights, 11",Apartment 1306,Hewson Way,,London
+2024-06-21,540000,SE17 1FE,F,N,L,"Stock House, 29",Flat 601,Wansey Street,,London
+2024-06-20,659000,SE17 1LD,F,Y,L,"Hawksbury Heights, 11",Apartment 1308,Hewson Way,,London
+2024-06-19,970000,SE17 1LD,F,Y,L,"Hawksbury Heights, 11",Apartment 2205,Hewson Way,,London
+2024-06-19,580000,SE17 1JX,F,Y,L,"Hawksbury Heights, 11",Apartment 105,Hewson Way,,London
+2024-06-19,840000,SE17 1FG,F,N,L,"Baldwin Point, 6",Flat 503,Sayer Street,,London
+2024-06-18,987880,SE17 1LD,F,N,L,"Hawksbury Heights, 11",Apartment 2301,Hewson Way,,London
+2024-06-18,755692,SE17 1LD,F,Y,L,"Hawksbury Heights, 11",Apartment 2208,Hewson Way,,London
+2024-06-18,638880,SE17 1JX,F,Y,L,"Hawksbury Heights, 11",Apartment 202,Hewson Way,,London
+2024-06-17,575000,SE17 3DA,F,N,L,"Babbage Court, 109",Flat 7,Cooks Road,,London
+2024-06-17,557000,SE17 1FP,F,N,L,"Sir John Soane Apartments, 20",Flat 504,Heygate Street,,London
+2024-06-14,480000,SE17 3QD,F,N,L,Cavour House,Flat 9,Alberta Estate,,London
+2024-06-14,715000,SE17 3BS,F,Y,L,"Manor Cross Apartments, 177",24,Manor Place,,London
+2024-06-14,700000,SE17 1LF,F,Y,L,"Belfield Mansions, 35",Apartment 601,Heygate Street,,London
+2024-06-14,950000,SE17 1LD,F,Y,L,"Hawksbury Heights, 11",Apartment 1805,Hewson Way,,London
+2024-06-13,967100,SE17 1LD,F,Y,L,"Hawksbury Heights, 11",Apartment 2003,Hewson Way,,London
+2024-06-12,971490,SE17 1LD,F,Y,L,"Hawksbury Heights, 11",Apartment 1807,Hewson Way,,London
+2024-06-12,1220000,SE17 1FF,T,N,L,51,,Wansey Street,,London
+2024-06-11,450000,SE17 3NG,F,N,L,31,,Cooks Road,,London
+2024-06-11,480000,SE17 3LJ,F,N,L,37,,Iliffe Street,,London
+2024-06-11,178500,SE17 3JD,F,N,L,"Royal Standard Court, 226",Flat 16,Hillingdon Street,,London
+2024-06-11,955000,SE17 2PY,F,N,L,20,Flat 10,Liverpool Grove,,London
+2024-06-10,1090500,SE17 1LD,F,Y,L,"Hawksbury Heights, 11",Apartment 1703,Hewson Way,,London
+2024-06-10,1031370,SE17 1LD,F,Y,L,"Hawksbury Heights, 11",Apartment 1903,Hewson Way,,London
+2024-06-10,908980,SE17 1LD,F,Y,L,"Hawksbury Heights, 11",Apartment 1905,Hewson Way,,London
+2024-06-10,1047180,SE17 1LD,F,N,L,"Hawksbury Heights, 11",Apartment 2103,Hewson Way,,London
+2024-06-10,838000,SE17 1JX,F,Y,L,"Hawksbury Heights, 11",Apartment 707,Hewson Way,,London
+2024-06-10,841875,SE17 1JX,F,Y,L,"Hawksbury Heights, 11",Apartment 801,Hewson Way,,London
+2024-06-10,740000,SE17 1GD,F,N,L,"Hurlock Heights, 4",Apartment 301,Deacon Street,,London
+2024-06-10,380000,SE17 1GD,F,N,L,"Hurlock Heights, 4",Apartment 206,Deacon Street,,London
+2024-06-07,475000,SE17 3EE,F,N,L,38C,,Sutherland Square,,London
+2024-06-07,530000,SE17 2PH,D,N,F,24,,Phelp Street,,London
+2024-06-07,681600,SE17 1LD,F,Y,L,"Hawksbury Heights, 11",Apartment 1808,Hewson Way,,London
+2024-06-07,829000,SE17 1JX,F,Y,L,"Hawksbury Heights, 11",Apartment 905,Hewson Way,,London
+2024-06-07,808450,SE17 1JX,F,Y,L,"Hawksbury Heights, 11",Apartment 607,Hewson Way,,London
+2024-06-06,310000,SE17 2EH,F,N,L,42,,Aylesbury Road,,London
+2024-06-06,655000,SE17 1JX,F,Y,L,"Hawksbury Heights, 11",Apartment 1206,Hewson Way,,London
+2024-06-06,644160,SE17 1JX,F,Y,L,"Hawksbury Heights, 11",Apartment 302,Hewson Way,,London
+2024-06-05,825050,SE17 3RZ,T,N,F,65,,Ambergate Street,,London
+2024-06-05,969000,SE17 1LD,F,Y,L,"Hawksbury Heights, 11",Apartment 1407,Hewson Way,,London
+2024-06-05,899988,SE17 1LD,F,Y,L,"Hawksbury Heights, 11",Apartment 1307,Hewson Way,,London
+2024-06-05,624000,SE17 1JX,F,Y,L,"Hawksbury Heights, 11",Apartment 806,Hewson Way,,London
+2024-06-04,335000,SE17 1PA,F,N,L,127C,,Chatham Street,,London
+2024-06-04,940000,SE17 1LD,F,Y,L,"Hawksbury Heights, 11",Apartment 1803,Hewson Way,,London
+2024-06-03,693500,SE17 1LF,F,Y,L,"Belfield Mansions, 35",Apartment 503,Heygate Street,,London
+2024-06-03,916768,SE17 1LD,F,Y,L,"Hawksbury Heights, 11",Apartment 1305,Hewson Way,,London
+2024-06-03,713500,SE17 1LD,F,Y,L,"Hawksbury Heights, 11",Apartment 1408,Hewson Way,,London
+2024-06-03,741000,SE17 1LD,F,Y,L,"Hawksbury Heights, 11",Apartment 1602,Hewson Way,,London
+2024-06-03,122500,SE17 1FU,F,N,L,"Levy Building, 37",Apartment 201,Heygate Street,,London
+2024-05-31,345000,SE17 3NX,F,N,L,91,,Cooks Road,,London
+2024-05-31,457500,SE17 3FP,F,N,L,5,Flat 22,Danson Mews,,London
+2024-05-31,665900,SE17 3FE,F,N,L,5,Flat 2,Angel Lane,,London
+2024-05-31,566000,SE17 3BS,F,Y,L,"Manor Cross Apartments, 177",17,Manor Place,,London
+2024-05-31,505000,SE17 3BA,F,N,L,9,Flat 507,Steedman Street,,London
+2024-05-31,695000,SE17 1LF,F,Y,L,"Belfield Mansions, 35",Apartment 502,Heygate Street,,London
+2024-05-31,900050,SE17 1LD,F,Y,L,"Hawksbury Heights, 11",Apartment 1503,Hewson Way,,London
+2024-05-31,885010,SE17 1JX,F,Y,L,"Hawksbury Heights, 11",Apartment 701,Hewson Way,,London
+2024-05-31,877490,SE17 1JX,F,Y,L,"Hawksbury Heights, 11",Apartment 601,Hewson Way,,London
+2024-05-31,810280,SE17 1JX,F,Y,L,"Hawksbury Heights, 11",Apartment 403,Hewson Way,,London
+2024-05-31,613900,SE17 1JX,F,Y,L,"Hawksbury Heights, 11",Apartment 404,Hewson Way,,London
+2024-05-31,774560,SE17 1JX,F,Y,L,"Hawksbury Heights, 11",Apartment 301,Hewson Way,,London
+2024-05-31,599040,SE17 1JX,F,Y,L,"Hawksbury Heights, 11",Apartment 308,Hewson Way,,London
+2024-05-31,679680,SE17 1JX,F,Y,L,"Hawksbury Heights, 11",Apartment 702,Hewson Way,,London
+2024-05-31,810000,SE17 1JX,F,N,L,"Hawksbury Heights, 11",Apartment 303,Hewson Way,,London
+2024-05-30,986240,SE17 1LD,F,Y,L,"Hawksbury Heights, 11",Apartment 1601,Hewson Way,,London
+2024-05-30,698000,SE17 1JX,F,Y,L,"Hawksbury Heights, 11",Apartment 804,Hewson Way,,London
+2024-05-30,720960,SE17 1JX,F,Y,L,"Hawksbury Heights, 11",Apartment 1202,Hewson Way,,London
+2024-05-29,410000,SE17 3DY,F,N,L,Penrose House,Flat 76,Penrose Street,,London
+2024-05-29,805000,SE17 1JX,F,Y,L,"Hawksbury Heights, 11",Apartment 401,Hewson Way,,London
+2024-05-29,677546,SE17 1JX,F,Y,L,"Hawksbury Heights, 11",Apartment 604,Hewson Way,,London
+2024-05-28,453000,SE17 3LL,F,N,L,82,,Iliffe Street,,London
+2024-05-28,836325,SE17 1LF,F,Y,L,"Belfield Mansions, 35",Apartment 801,Heygate Street,,London
+2024-05-28,827820,SE17 1LF,F,Y,L,"Belfield Mansions, 35",Apartment 701,Heygate Street,,London
+2024-05-28,855000,SE17 1JX,F,Y,L,"Hawksbury Heights, 11",Apartment 1105,Hewson Way,,London
+2024-05-28,820300,SE17 1JX,F,Y,L,"Hawksbury Heights, 11",Apartment 805,Hewson Way,,London
+2024-05-24,1150000,SE17 3UU,T,N,F,5,,De Laune Street,,London
+2024-05-24,530000,SE17 3FX,F,Y,L,21,,New Frederick Mews,,London
+2024-05-24,665000,SE17 3BS,F,Y,L,"Manor Cross Apartments, 177",16,Manor Place,,London
+2024-05-24,738240,SE17 1LD,F,Y,L,"Hawksbury Heights, 11",Apartment 1402,Hewson Way,,London
+2024-05-24,890000,SE17 1LD,F,Y,L,"Hawksbury Heights, 11",Apartment 1607,Hewson Way,,London
+2024-05-24,620000,SE17 1JX,F,Y,L,"Hawksbury Heights, 11",Apartment 608,Hewson Way,,London
+2024-05-24,795000,SE17 1JX,F,Y,L,"Hawksbury Heights, 11",Apartment 505,Hewson Way,,London
+2024-05-24,603840,SE17 1JX,F,Y,L,"Hawksbury Heights, 11",Apartment 406,Hewson Way,,London
+2024-05-24,826500,SE17 1JX,F,Y,L,"Hawksbury Heights, 11",Apartment 503,Hewson Way,,London
+2024-05-24,692160,SE17 1JX,F,Y,L,"Hawksbury Heights, 11",Apartment 802,Hewson Way,,London
+2024-05-24,692550,SE17 1JX,F,Y,L,"Hawksbury Heights, 11",Apartment 1204,Hewson Way,,London
+2024-05-24,849300,SE17 1JX,F,Y,L,"Hawksbury Heights, 11",Apartment 803,Hewson Way,,London
+2024-05-24,880650,SE17 1JX,F,Y,L,"Hawksbury Heights, 11",Apartment 1101,Hewson Way,,London
+2024-05-24,260000,SE17 1DD,F,N,L,Cowper House,Flat 7,Browning Street,,London
+2024-05-23,856000,SE17 1LD,F,Y,L,"Hawksbury Heights, 11",Apartment 1904,Hewson Way,,London
+2024-05-23,699300,SE17 1JX,F,Y,L,"Hawksbury Heights, 11",Apartment 1002,Hewson Way,,London
+2024-05-23,637290,SE17 1JX,F,Y,L,"Hawksbury Heights, 11",Apartment 808,Hewson Way,,London
+2024-05-23,712888,SE17 1JX,F,Y,L,"Hawksbury Heights, 11",Apartment 1102,Hewson Way,,London
+2024-05-23,646080,SE17 1JX,F,Y,L,"Hawksbury Heights, 11",Apartment 1108,Hewson Way,,London
+2024-05-23,599950,SE17 1JX,F,Y,L,"Hawksbury Heights, 11",Apartment 306,Hewson Way,,London
+2024-05-22,545000,SE17 2GP,F,N,L,Spectrum Place,Flat 3,Lytham Street,,London
+2024-05-22,757500,SE17 1JX,F,Y,L,"Hawksbury Heights, 11",Apartment 201,Hewson Way,,London
+2024-05-22,885800,SE17 1JX,F,Y,L,"Hawksbury Heights, 11",Apartment 1107,Hewson Way,,London
+2024-05-22,634600,SE17 1JX,F,Y,L,"Hawksbury Heights, 11",Apartment 1008,Hewson Way,,London
+2024-05-22,856000,SE17 1JX,F,N,L,"Hawksbury Heights, 11",Apartment 903,Hewson Way,,London
+2024-05-21,793800,SE17 1JX,F,Y,L,"Hawksbury Heights, 11",Apartment 405,Hewson Way,,London
+2024-05-21,837200,SE17 1JX,F,Y,L,"Hawksbury Heights, 11",Apartment 807,Hewson Way,,London
+2024-05-21,863860,SE17 1JX,F,Y,L,"Hawksbury Heights, 11",Apartment 1003,Hewson Way,,London
+2024-05-21,626611,SE17 1JX,F,Y,L,"Hawksbury Heights, 11",Apartment 906,Hewson Way,,London
+2024-05-21,675000,SE17 1JX,F,Y,L,"Hawksbury Heights, 11",Apartment 606,Hewson Way,,London
+2024-05-21,629850,SE17 1JX,F,Y,L,"Hawksbury Heights, 11",Apartment 908,Hewson Way,,London
+2024-05-21,825320,SE17 1JX,F,Y,L,"Hawksbury Heights, 11",Apartment 603,Hewson Way,,London
+2024-05-20,720000,SE17 1FG,F,N,L,"Baldwin Point, 6",Flat 603,Sayer Street,,London
+2024-05-17,609600,SE17 1LF,F,Y,L,"Belfield Mansions, 35",Apartment 808,Heygate Street,,London
+2024-05-17,822970,SE17 1JX,F,Y,L,"Hawksbury Heights, 11",Apartment 407,Hewson Way,,London
+2024-05-16,592800,SE17 1LF,F,Y,L,"Belfield Mansions, 35",Apartment 708,Heygate Street,,London
+2024-05-14,430000,SE17 3NE,F,N,L,27,,Forsyth Gardens,,London
+2024-05-14,320000,SE17 3JN,F,N,L,Gates Court,20,Marsland Close,,London
+2024-05-14,492500,SE17 2FP,F,N,L,Roffo Court,Flat 123,Boundary Lane,,London
+2024-05-13,605000,SE17 3BS,F,Y,L,"Manor Cross Apartments, 177",19,Manor Place,,London
+2024-05-13,732450,SE17 1LF,F,Y,L,"Belfield Mansions, 35",Apartment 802,Heygate Street,,London
+2024-05-10,722950,SE17 1LF,F,Y,L,"Belfield Mansions, 35",Apartment 703,Heygate Street,,London
+2024-05-10,723900,SE17 1LF,F,Y,L,"Belfield Mansions, 35",Apartment 702,Heygate Street,,London
+2024-05-09,707820,SE17 1LF,F,Y,L,"Belfield Mansions, 35",Apartment 603,Heygate Street,,London
+2024-05-03,450000,SE17 2LR,F,N,L,Leysdown House,Flat 35,Madron Street,,London
+2024-05-02,731500,SE17 1LF,F,Y,L,"Belfield Mansions, 35",Apartment 803,Heygate Street,,London
+2024-05-01,710000,SE17 3BS,F,Y,L,"Manor Cross Apartments, 177",9,Manor Place,,London
+2024-05-01,260000,SE17 2PJ,F,N,L,St. Matthews House,17,Phelp Street,,London
+2024-04-30,600500,SE17 3HB,F,N,L,Latvia Court 11-15,Flat 10,Macleod Street,,London
+2024-04-29,465000,SE17 3FH,F,N,L,11,Flat 14,Angel Lane,,London
+2024-04-26,1340000,SE17 3TR,T,N,F,9,,Faunce Street,,London
+2024-04-26,665000,SE17 3BS,F,Y,L,"Manor Cross Apartments, 177",23,Manor Place,,London
+2024-04-26,500000,SE17 3BA,F,N,L,9,Flat 610,Steedman Street,,London
+2024-04-26,310000,SE17 2LF,F,N,L,Swanley House,Flat 12,Kinglake Estate,,London
+2024-04-26,381000,SE17 1TA,F,N,L,Dormstone House,Flat 15,Congreve Street,,London
+2024-04-22,1325000,SE17 3TT,T,N,F,28,,Doddington Grove,,London
+2024-04-19,425000,SE17 3BT,F,N,L,83,Flat 218,Crampton Street,,London
+2024-04-19,565000,SE17 3BG,F,N,L,"Duke Of Clarence Court, 154",Flat 10,Manor Place,,London
+2024-04-19,960000,SE17 1PU,T,N,F,8,,Baytree Mews,,London
+2024-04-19,885000,SE17 1PD,F,N,F,64,,Henshaw Street,,London
+2024-04-18,530000,SE17 2PN,T,N,F,5,,Lytham Street,,London
+2024-04-18,572500,SE17 1GF,F,N,L,"Hurlock Heights, 4",Apartment 2402,Deacon Street,,London
+2024-04-16,740000,SE17 1FQ,F,N,L,"Siddal Apartments, 6",Flat 402,Heygate Street,,London
+2024-04-12,400000,SE17 2HF,F,N,L,Trafalgar House,Flat 3,Bronti Close,,London
+2024-04-12,345000,SE17 1TH,F,N,L,Ightham House,Flat 11,Beckway Street,,London
+2024-04-08,225000,SE17 3QY,F,N,L,25A,,Westcott Road,,London
+2024-04-08,485000,SE17 3LF,F,N,L,Pullens Buildings,12,Peacock Street,,London
+2024-04-05,490000,SE17 1BJ,F,N,L,Block D,Flat 8,Peabody Estate,,London
+2024-04-03,675000,SE17 3BS,F,Y,L,"Manor Cross Apartments, 177",2,Manor Place,,London
+2024-03-28,742000,SE17 3TT,F,Y,L,2,,Doddington Grove,,London
+2024-03-28,1280000,SE17 3TP,T,N,F,21,,Sharsted Street,,London
+2024-03-28,625000,SE17 3QY,T,N,F,28,,Westcott Road,,London
+2024-03-28,222000,SE17 3NN,F,N,L,Molesworth House,Flat 8,Brandon Estate,,London
+2024-03-28,567500,SE17 3FH,F,N,L,11,Flat 18,Angel Lane,,London
+2024-03-28,875000,SE17 3BS,F,Y,L,"Manor Cross Apartments, 177",26,Manor Place,,London
+2024-03-28,555000,SE17 3BS,F,Y,L,"Manor Cross Apartments, 177",7,Manor Place,,London
+2024-03-28,420000,SE17 1GG,F,N,L,6,Flat 17,Waleorde Road,,London
+2024-03-28,625000,SE17 1BS,F,N,L,Jardin House,Flat 9,Stead Street,,London
+2024-03-26,106250,SE17 2FY,F,N,L,Harry Cole Court,Flat 8,Thurlow Street,,London
+2024-03-26,950000,SE17 1PU,T,N,F,1,,Baytree Mews,,London
+2024-03-25,299950,SE17 3QH,F,N,L,8,,St Pauls Terrace,,London
+2024-03-25,152500,SE17 2FY,F,N,L,Harry Cole Court,Flat 28,Thurlow Street,,London
+2024-03-22,546500,SE17 3EN,F,N,L,63C,,Carter Street,,London
+2024-03-22,565000,SE17 1FH,F,N,L,"Baldwin Point, 6",Flat 908,Sayer Street,,London
+2024-03-15,509000,SE17 2BH,F,N,L,4A,,Boundary Lane,,London
+2024-03-15,625000,SE17 1FX,F,N,L,"Barnard House, 34",Apartment 502,Heygate Street,,London
+2024-03-15,540000,SE17 1AS,F,N,L,Rutherford Heights,801,Rodney Road,,London
+2024-03-08,510000,SE17 3SH,F,N,L,Pullens Buildings,Flat 52,Penton Place,Walworth,London
+2024-03-08,412500,SE17 3QD,F,N,L,Cavour House,Flat 18,Alberta Estate,,London
+2024-03-08,525000,SE17 3JY,F,N,L,6,Flat,Pasley Close,,London
+2024-03-04,430000,SE17 3BU,F,N,L,83,Flat 709,Crampton Street,,London
+2024-03-01,460000,SE17 3QH,F,N,L,2,,St Pauls Terrace,,London
+2024-02-29,755000,SE17 3BS,F,Y,L,"Manor Cross Apartments, 177",3,Manor Place,,London
+2024-02-22,578000,SE17 3BS,F,N,L,"Manor Cross Apartments, 177",18,Manor Place,,London
+2024-02-19,625000,SE17 2LE,T,N,F,3,,Madron Street,,London
+2024-02-19,137500,SE17 2FY,F,N,L,Harry Cole Court,Flat 34,Thurlow Street,,London
+2024-02-16,419000,SE17 3BU,F,N,L,83,Flat 601,Crampton Street,,London
+2024-02-16,660000,SE17 3BS,F,Y,L,"Manor Cross Apartments, 177",22,Manor Place,,London
+2024-02-15,710000,SE17 3BS,F,Y,L,"Manor Cross Apartments, 177",4,Manor Place,,London
+2024-02-12,620000,SE17 3NP,F,N,L,31,,Rutley Close,,London
+2024-02-12,315000,SE17 1ED,F,N,L,Nicholson House,30,Brandon Street,,London
+2024-02-09,278250,SE17 1PA,F,N,L,139A,,Chatham Street,,London
+2024-02-08,265000,SE17 3JT,F,N,L,52C,,Penton Place,Walworth,London
+2024-02-07,725000,SE17 3PY,F,N,L,2,Flat 25,Amelia Street,,London
+2024-02-02,370000,SE17 2FL,F,N,L,Roffo Court,Flat 16,Boyson Road,,London
+2024-01-31,451050,SE17 3FX,F,Y,L,4,,New Frederick Mews,,London
+2024-01-31,855000,SE17 3FX,F,Y,L,14,,New Frederick Mews,,London
+2024-01-31,640000,SE17 1FE,F,N,L,"Stock House, 29",Flat 503,Wansey Street,,London
+2024-01-30,725000,SE17 3BS,F,Y,L,"Manor Cross Apartments, 177",11,Manor Place,,London
+2024-01-26,115000,SE17 3FF,F,N,L,7,Flat 15,Angel Lane,,London
+2024-01-26,717751,SE17 3BS,F,Y,L,"Manor Cross Apartments, 177",12,Manor Place,,London
+2024-01-26,510000,SE17 3BA,F,N,L,9,Flat 603,Steedman Street,,London
+2024-01-17,475000,SE17 1HB,F,N,L,2,Flat 4,Darwin Street,,London
+2024-01-16,1075000,SE17 1LR,T,N,F,1,,Colworth Grove,,London
+2024-01-12,430000,SE17 1PY,F,N,L,9,Flat 3,John Maurice Close,,London
+2024-01-11,745000,SE17 3FX,F,Y,L,15,,New Frederick Mews,,London
+2024-01-11,700000,SE17 1AQ,F,N,L,Blackwood Apartments,305,Victory Place,,London
+2024-01-09,380000,SE17 2FL,F,N,L,Roffo Court,Flat 42,Boyson Road,,London
+2023-12-20,250000,SE17 3PE,F,N,L,Cornish House,Flat 49,Brandon Estate,,London
+2023-12-20,131250,SE17 1FX,F,N,L,"Barnard House, 34",Apartment 606,Heygate Street,,London
+2023-12-19,1850000,SE17 1DX,D,N,F,13,,Morecambe Street,,London
+2023-12-18,1027500,SE17 3ET,T,N,F,8,,Chapter Road,,London
+2023-12-18,650000,SE17 3BS,F,Y,L,"Manor Cross Apartments, 177",1,Manor Place,,London
+2023-12-18,675000,SE17 1NG,F,N,L,1B,,Charleston Street,,London
+2023-12-15,148750,SE17 3FD,F,N,L,3,Flat 9,Angel Lane,,London
+2023-12-15,305000,SE17 1QS,F,N,L,Eugene Cotter House,Flat 62,Beckway Street,,London
+2023-12-15,640000,SE17 1BP,F,N,L,Winch House,Flat 14,Stead Street,,London
+2023-12-12,750000,SE17 3BS,F,Y,L,"Manor Cross Apartments, 177",25,Manor Place,,London
+2023-12-11,745000,SE17 3QT,F,N,L,Flat 9,,Lorrimore Square,,London
+2023-12-11,117500,SE17 3FD,F,N,L,3,Flat 4,Angel Lane,,London
+2023-12-07,774950,SE17 3BS,F,Y,L,"Manor Cross Apartments, 177",21,Manor Place,,London
+2023-12-06,400000,SE17 1DB,F,N,L,Tennyson House,Flat 18,Browning Street,,London
+2023-12-01,450000,SE17 3NG,F,N,L,41,,Cooks Road,,London
+2023-12-01,928000,SE17 3FX,F,Y,L,13,,New Frederick Mews,,London
+2023-11-30,875000,SE17 3UR,T,N,F,38A,,De Laune Street,,London
+2023-11-30,753900,SE17 3TT,F,Y,L,8,,Doddington Grove,,London
+2023-11-30,517000,SE17 3FX,F,Y,L,23,,New Frederick Mews,,London
+2023-11-30,525000,SE17 3FX,F,Y,L,20,,New Frederick Mews,,London
+2023-11-30,930000,SE17 3ES,T,N,F,25,,Chapter Road,,London
+2023-11-30,480000,SE17 3BU,F,N,L,83,Flat 606,Crampton Street,,London
+2023-11-30,790000,SE17 3BS,F,Y,L,"Manor Cross Apartments, 177",10,Manor Place,,London
+2023-11-30,800000,SE17 3BS,F,Y,L,"Manor Cross Apartments, 177",20,Manor Place,,London
+2023-11-29,770000,SE17 3FX,F,Y,L,16,,New Frederick Mews,,London
+2023-11-28,550000,SE17 2FT,F,N,L,Marsh Court,Flat 12,East Street,,London
+2023-11-27,465000,SE17 3EA,F,N,L,Penrose House,Flat 107,Penrose Street,,London
+2023-11-24,580000,SE17 3UF,S,N,F,1,,Langdale Close,,London
+2023-11-24,269300,SE17 3TS,F,N,L,Irving House,Flat 242,Doddington Grove,,London
+2023-11-24,770000,SE17 3FX,F,N,L,18,,New Frederick Mews,,London
+2023-11-24,320000,SE17 3DQ,F,N,L,79,,Winchester Close,,London
+2023-11-24,340000,SE17 1RQ,F,N,L,14,,Hillery Close,,London
+2023-11-22,705000,SE17 3FX,F,Y,L,17,,New Frederick Mews,,London
+2023-11-21,615000,SE17 3UX,T,N,F,81,,Hillingdon Street,,London
+2023-11-21,545000,SE17 3FX,F,Y,L,22,,New Frederick Mews,,London
+2023-11-21,550000,SE17 3FX,F,Y,L,19,,New Frederick Mews,,London
+2023-11-21,675000,SE17 1AS,F,N,L,Rutherford Heights,301,Rodney Road,,London
+2023-11-20,645000,SE17 3FP,F,N,L,5,Flat 1,Danson Mews,,London
+2023-11-17,331000,SE17 3DX,F,N,L,Penrose House,Flat 18,Penrose Street,,London
+2023-11-17,660525,SE17 3BD,S,Y,L,17,,Manor Place,,London
+2023-11-17,562000,SE17 2PH,T,N,F,26,,Phelp Street,,London
+2023-11-17,292000,SE17 1TW,F,N,L,Offham House,Flat 23,Beckway Street,,London
+2023-11-16,530000,SE17 3FX,F,Y,L,24,,New Frederick Mews,,London
+2023-11-03,210000,SE17 3QJ,F,N,L,1H,,Frederick Road,,London
+2023-11-03,285000,SE17 3PH,F,N,L,Prescott House,Flat 31,Hillingdon Street,,London
+2023-11-03,520000,SE17 2FL,F,N,L,Roffo Court,Flat 39,Boyson Road,,London
+2023-11-01,400000,SE17 1TS,F,N,L,Thomson House,Flat 21,Beckway Street,,London
+2023-10-31,527500,SE17 3FX,F,Y,L,8,,New Frederick Mews,,London
+2023-10-31,306500,SE17 1EF,F,N,L,Marnock House,Flat 11,Brandon Street,,London
+2023-10-31,720000,SE17 1BP,F,N,L,Winch House,Flat 21,Stead Street,,London
+2023-10-30,520000,SE17 3FX,F,Y,L,9,,New Frederick Mews,,London
+2023-10-30,480000,SE17 3FX,F,Y,L,7,,New Frederick Mews,,London
+2023-10-30,480000,SE17 3FX,F,Y,L,6,,New Frederick Mews,,London
+2023-10-30,810000,SE17 3FX,F,Y,L,5,,New Frederick Mews,,London
+2023-10-30,450000,SE17 3AS,F,N,L,226,,Amelia Street,,London
+2023-10-30,350000,SE17 2GS,F,N,L,40,Flat 3,Horsley Street,,London
+2023-10-27,515000,SE17 3BA,F,N,L,9,Flat 207,Steedman Street,,London
+2023-10-27,308000,SE17 2LF,F,N,L,Swanley House,Flat 20,Kinglake Estate,,London
+2023-10-25,1325000,SE17 3EF,T,N,F,3,,Sutherland Walk,,London
+2023-10-24,480000,SE17 2FY,F,N,L,Harry Cole Court,Flat 12,Thurlow Street,,London
+2023-10-20,450000,SE17 3LJ,F,N,L,41,,Iliffe Street,,London
+2023-10-20,1065000,SE17 3FX,T,Y,L,11,,New Frederick Mews,,London
+2023-10-13,750000,SE17 3TT,F,Y,L,6,,Doddington Grove,,London
+2023-10-13,310000,SE17 3PG,F,N,L,Walters House,Flat 35,Otto Street,,London
+2023-10-06,278000,SE17 2TH,F,N,L,Harry Hinkins House,Flat 7,Walworth Place,,London
+2023-10-05,430000,SE17 2EF,F,N,L,72,,Wooler Street,,London
+2023-10-04,1100000,SE17 3FX,T,Y,L,10,,New Frederick Mews,,London
+2023-10-04,389000,SE17 1PA,F,N,L,"Kinnaird House, 115",Flat 3,Chatham Street,,London
+2023-09-29,680000,SE17 3TT,F,Y,L,6B,,Doddington Grove,,London
+2023-09-29,680000,SE17 3TT,F,Y,L,6A,,Doddington Grove,,London
+2023-09-29,713500,SE17 3TT,F,Y,L,4,,Doddington Grove,,London
+2023-09-29,710000,SE17 3SD,T,N,F,62,,Alberta Street,,London
+2023-09-29,450000,SE17 2EQ,F,N,L,13,,Aylesbury Road,,London
+2023-09-29,157500,SE17 1FU,F,N,L,"Levy Building, 37",Apartment 206,Heygate Street,,London
+2023-09-29,1444950,SE17 1FF,T,N,L,61,,Wansey Street,,London
+2023-09-28,355000,SE17 2FP,F,N,L,Roffo Court,Flat 128,Boundary Lane,,London
+2023-09-27,625000,SE17 3QS,T,N,F,7,,Greig Terrace,,London
+2023-09-22,254000,SE17 2TN,F,N,L,Woodsford,Flat 12,Portland Street,,London
+2023-09-22,330000,SE17 2JX,F,N,L,38A,,Surrey Square,,London
+2023-09-22,505000,SE17 1FG,F,N,L,"Baldwin Point, 6",Flat 405,Sayer Street,,London
+2023-09-21,495000,SE17 3LJ,F,N,L,29,,Iliffe Street,,London
+2023-09-19,715000,SE17 1NJ,F,N,L,25,Flat B,Larcom Street,,London
+2023-09-18,537500,SE17 2FP,F,N,L,Roffo Court,Flat 77,Boundary Lane,,London
+2023-09-15,460000,SE17 3TF,F,N,L,Jephson House,Flat 9,Doddington Grove,,London
+2023-09-15,590000,SE17 3FF,F,N,L,7,Flat 14,Angel Lane,,London
+2023-09-15,373000,SE17 1RD,F,N,L,Dawes House,Flat 76,Orb Street,,London
+2023-09-15,172500,SE17 1FX,F,N,L,"Barnard House, 34",Apartment 604,Heygate Street,,London
+2023-09-14,557000,SE17 2FL,F,N,L,Roffo Court,Flat 19,Boyson Road,,London
+2023-09-13,995000,SE17 3RJ,T,Y,L,42C,,Braganza Street,,London
+2023-09-13,450000,SE17 3BZ,F,N,L,22,Flat 702,Amelia Street,,London
+2023-09-13,330000,SE17 1RF,F,N,L,81,,Rodney Road,,London
+2023-09-12,500000,SE17 1FG,F,N,L,"Baldwin Point, 6",Flat 306,Sayer Street,,London
+2023-09-11,510000,SE17 1LX,F,N,L,9C,,Cotham Street,,London
+2023-09-07,1175000,SE17 3EQ,T,N,F,2,,Sutherland Square,,London
+2023-09-05,480000,SE17 3LY,F,N,L,Eglington Court,Flat 38,Lorrimore Road,,London
+2023-09-01,1330000,SE17 1FF,T,N,L,37,,Wansey Street,,London
+2023-08-30,209000,SE17 2RA,F,N,L,Amery House,Flat 19,Kinglake Street,,London
+2023-08-29,440000,SE17 3HU,F,N,L,212,,Olney Road,,London
+2023-08-29,645500,SE17 3HR,T,N,F,140,,Olney Road,,London
+2023-08-29,150000,SE17 2FY,F,N,L,Harry Cole Court,Flat 32,Thurlow Street,,London
+2023-08-25,395000,SE17 2FN,F,N,L,Roffo Court,Flat 75,Bradenham Close,,London
+2023-08-24,1525000,SE17 3UU,T,N,F,32,,De Laune Street,,London
+2023-08-21,425000,SE17 3LY,F,N,L,Eglington Court,Flat 19,Lorrimore Road,,London
+2023-08-18,1270000,SE17 3RY,T,N,F,49,,Ambergate Street,,London
+2023-08-18,230000,SE17 3FE,F,N,L,5,Flat 7,Angel Lane,,London
+2023-08-18,600000,SE17 3BN,F,N,L,204,Apartment 7,Manor Place,,London
+2023-08-18,419500,SE17 1BY,F,N,L,22,,Salisbury Close,,London
+2023-08-17,425000,SE17 3HU,F,N,L,258,,Olney Road,,London
+2023-08-15,790000,SE17 3RJ,T,Y,L,42B,,Braganza Street,,London
+2023-08-11,542500,SE17 2FL,F,N,L,Roffo Court,Flat 36,Boyson Road,,London
+2023-08-11,862500,SE17 1PG,F,N,L,11,,Victory Place,,London
+2023-08-11,133750,SE17 1GX,F,N,L,"Octavia Apartments, 7",Apartment 205,Chatteris Way,,London
+2023-08-10,840000,SE17 3FH,F,N,L,11,Flat 23,Angel Lane,,London
+2023-08-07,733500,SE17 3RY,T,N,L,33,,Ambergate Street,,London
+2023-08-07,383500,SE17 2FL,F,N,L,Roffo Court,Flat 105,Boyson Road,,London
+2023-07-31,980000,SE17 3RJ,T,Y,L,42A,,Braganza Street,,London
+2023-07-31,465000,SE17 1NJ,F,N,L,35,Flat A,Larcom Street,,London
+2023-07-28,440000,SE17 3NE,F,N,L,64,,Forsyth Gardens,,London
+2023-07-28,230000,SE17 2TQ,F,N,L,James Stroud House,Flat 8,Walworth Place,,London
+2023-07-28,675000,SE17 2ED,T,N,F,59,,Wooler Street,,London
+2023-07-25,510000,SE17 1FG,F,N,L,"Baldwin Point, 6",Flat 504,Sayer Street,,London
+2023-07-24,805000,SE17 1LU,T,N,F,51,,Browning Street,,London
+2023-07-22,439950,SE17 3EQ,F,N,L,29,Semi-Basement Flat At,Sutherland Square,,London
+2023-07-20,440000,SE17 3AS,F,N,L,180,,Amelia Street,,London
+2023-07-17,355000,SE17 3DJ,F,N,L,Lucyashe House,Flat 6,Winchester Close,,London
+2023-07-14,125000,SE17 3FP,F,N,L,5,Flat 4,Danson Mews,,London
+2023-07-14,141000,SE17 3FF,F,N,L,7,Flat 11,Angel Lane,,London
+2023-07-14,525000,SE17 2FP,F,N,L,Roffo Court,Flat 81,Boundary Lane,,London
+2023-07-10,450000,SE17 3QE,F,N,L,28A,,Berryfield Road,,London
+2023-07-07,420000,SE17 3SH,F,N,L,Pullens Buildings,Flat 27,Penton Place,Walworth,London
+2023-07-07,650000,SE17 3SA,T,N,F,122,,Ambergate Street,,London
+2023-07-07,365000,SE17 3DU,F,N,L,Penrose House,Flat 5,Penrose Street,,London
+2023-07-06,670000,SE17 1PF,T,N,F,3,,Hemp Walk,,London
+2023-07-05,955000,SE17 2JJ,T,N,F,"Malvern House, 1A",4,Liverpool Grove,,London
+2023-07-05,702000,SE17 1PZ,T,N,F,29,,John Maurice Close,,London
+2023-07-04,382000,SE17 3DU,F,N,L,Penrose House,Flat 2,Penrose Street,,London
+2023-07-04,525000,SE17 1PG,F,N,L,Capell Apartments,502,Victory Place,,London
+2023-07-02,520000,SE17 1FQ,F,N,L,"Siddal Apartments, 6",Flat 304,Heygate Street,,London
+2023-06-30,420000,SE17 3TA,F,N,L,Edmund House,Flat 135,Doddington Grove,,London
+2023-06-30,1571400,SE17 1FF,T,N,L,59,,Wansey Street,,London
+2023-06-29,390000,SE17 3SY,F,N,L,Colet House,84,Doddington Grove,,London
+2023-06-26,530000,SE17 2PX,S,N,F,37,,Queens Row,,London
+2023-06-23,440000,SE17 3LL,F,N,L,73,,Iliffe Street,,London
+2023-06-23,490000,SE17 2GS,F,N,L,40,Flat 2,Horsley Street,,London
+2023-06-23,899950,SE17 1PD,S,N,F,78A,,Henshaw Street,,London
+2023-06-16,440000,SE17 3SH,F,N,L,Pullens Buildings,Flat 30,Penton Place,Walworth,London
+2023-06-16,424217,SE17 3QU,F,N,L,37,,Lorrimore Square,,London
+2023-06-16,610000,SE17 2EQ,F,N,L,"Old Queen Anne House, 63",Flat 4,Aylesbury Road,,London
+2023-06-15,525000,SE17 3JY,F,N,L,7,,Pasley Close,,London
+2023-06-14,950000,SE17 2PY,F,N,L,20,Flat 9,Liverpool Grove,,London
+2023-06-09,320000,SE17 2QW,F,N,L,37,Flat 4,Bagshot Street,,London
+2023-06-02,425500,SE17 2FP,F,N,L,Roffo Court,Flat 93,Boundary Lane,,London
+2023-06-02,395000,SE17 2ED,F,N,L,11,,Wooler Street,,London
+2023-05-31,440000,SE17 3EN,F,N,L,81B,,Carter Street,,London
+2023-05-31,405000,SE17 3EA,F,N,L,Penrose House,Flat 92,Penrose Street,,London
+2023-05-31,515000,SE17 1GG,F,N,L,5,Flat 34,Waleorde Road,,London
+2023-05-31,227500,SE17 1AT,F,N,L,Stockham Court,Apartment 304,Rodney Road,,London
+2023-05-26,475000,SE17 1ST,F,N,L,Culand House,Flat 5,Congreve Street,,London
+2023-05-26,310000,SE17 1RF,F,N,L,97,,Rodney Road,,London
+2023-05-25,900000,SE17 1PG,F,N,L,Capell Apartments,401,Victory Place,,London
+2023-05-23,173125,SE17 1HS,F,N,L,"Marson Apartments, 24",Apartment 801,Ash Avenue,,London
+2023-05-23,208000,SE17 1FJ,F,N,L,"Henderson Apartments, 58",Flat 503,Rodney Road,,London
+2023-05-22,875000,SE17 3JS,T,N,F,80,,Penton Place,Walworth,London
+2023-05-18,450100,SE17 3JJ,F,N,L,18,,Chalmers Walk,,London
+2023-05-15,800000,SE17 1GD,F,N,L,"Hurlock Heights, 4",Apartment 901,Deacon Street,,London
+2023-05-12,650000,SE17 1PA,T,N,F,59,,Chatham Street,,London
+2023-05-12,136875,SE17 1HS,F,N,L,"Marson Apartments, 24",Apartment 503,Ash Avenue,,London
+2023-05-10,500000,SE17 3AS,F,N,L,204,,Amelia Street,,London
+2023-05-04,1250000,SE17 1FF,T,N,L,45,,Wansey Street,,London
+2023-05-02,417000,SE17 3JJ,F,N,L,14,,Chalmers Walk,,London
+2023-04-27,174375,SE17 1HS,F,N,L,"Marson Apartments, 24",Apartment 1001,Ash Avenue,,London
+2023-04-21,625000,SE17 3FP,F,N,L,5,Flat 12,Danson Mews,,London
+2023-04-20,934349,SE17 1QQ,T,N,F,12,,Tisdall Place,,London
+2023-04-20,485000,SE17 1GB,F,N,L,"Weymouth Building, 2",Apartment 703,Deacon Street,,London
+2023-04-05,730000,SE17 3RJ,T,N,F,4,,Braganza Street,,London
+2023-04-05,445000,SE17 1DJ,F,N,L,147,,Pilton Place,,London
+2023-04-03,512000,SE17 3JF,F,N,L,11,,Borrett Close,,London
+2023-03-31,436000,SE17 2FT,F,N,L,Marsh Court,Flat 20,East Street,,London
+2023-03-31,425000,SE17 1GG,F,N,L,6,Flat 5,Waleorde Road,,London
+2023-03-29,641000,SE17 1PG,F,N,L,Capell Apartments,303,Victory Place,,London
+2023-03-28,400000,SE17 2EH,F,N,L,46,,Aylesbury Road,,London
+2023-03-27,1180000,SE17 3EF,T,N,F,5,,Sutherland Walk,,London
+2023-03-24,390000,SE17 1QR,F,N,L,72A,,Tatum Street,,London
+2023-03-24,520000,SE17 1NL,F,N,L,46B,Flat 13,Brandon Street,,London
+2023-03-20,975000,SE17 3LZ,T,N,F,68,,Lorrimore Road,,London
+2023-03-17,417000,SE17 3HU,F,N,L,216,,Olney Road,,London
+2023-03-17,390000,SE17 3BU,F,N,L,83,Flat 504,Crampton Street,,London
+2023-03-13,383760,SE17 1NG,F,N,L,13A,,Charleston Street,,London
+2023-03-10,507500,SE17 3BU,F,N,L,83,Flat 613,Crampton Street,,London
+2023-03-07,137500,SE17 1FX,F,N,L,"Barnard House, 34",Apartment 506,Heygate Street,,London
+2023-03-06,330000,SE17 2PW,F,N,L,St. Johns House,Flat 17,Lytham Street,,London
+2023-03-06,710000,SE17 1BS,F,N,L,Jardin House,Flat 12,Stead Street,,London
+2023-03-03,457000,SE17 3UG,T,N,F,89,,Langdale Close,,London
+2023-03-03,365000,SE17 1QN,F,N,L,Knight House,Flat 23,Huntsman Street,,London
+2023-02-28,356500,SE17 3DH,F,N,L,74,,Winchester Close,,London
+2023-02-27,440000,SE17 3QB,F,N,L,Suffield House,Flat 12,Alberta Estate,,London
+2023-02-27,450000,SE17 1LU,T,N,L,43A,,Browning Street,,London
+2023-02-24,435000,SE17 3AR,F,N,L,74,,Amelia Street,,London
+2023-02-24,355000,SE17 2LH,F,N,L,Bethersden House,Flat 10,Kinglake Estate,,London
+2023-02-24,161875,SE17 1HS,F,N,L,"Marson Apartments, 24",Apartment 702,Ash Avenue,,London
+2023-02-24,572500,SE17 1GG,F,N,L,5,Flat 16,Waleorde Road,,London
+2023-02-24,335000,SE17 1DN,F,N,L,26,,Pilton Place,,London
+2023-02-17,1199950,SE17 2JX,T,N,F,24,,Surrey Square,,London
+2023-02-17,1210750,SE17 1FF,T,N,L,43,,Wansey Street,,London
+2023-02-15,690000,SE17 3RX,F,N,L,62,,Ambergate Street,,London
+2023-02-14,150000,SE17 2FT,F,N,L,Marsh Court,Flat 30,East Street,,London
+2023-02-13,400000,SE17 2AU,F,N,L,1D,,Horsley Street,,London
+2023-02-13,407500,SE17 1JP,F,N,L,66,Flat 1,Wansey Street,,London
+2023-02-10,250000,SE17 3UG,F,N,L,47,,Langdale Close,,London
+2023-02-10,216000,SE17 3AF,F,N,L,11,Flat 601,Steedman Street,,London
+2023-02-03,418000,SE17 3NH,F,N,L,32,,Maddock Way,,London
+2023-02-03,110000,SE17 2FT,F,N,L,Marsh Court,Flat 29,East Street,,London
+2023-02-03,350000,SE17 1ED,F,N,L,Nicholson House,35,Brandon Street,,London
+2023-02-02,127500,SE17 1FE,F,N,L,"Stock House, 29",Flat 202,Wansey Street,,London
+2023-01-31,500000,SE17 3BT,F,N,L,83,Flat 419,Crampton Street,,London
+2023-01-30,515000,SE17 3JS,F,N,L,66A,,Penton Place,Walworth,London
+2023-01-27,470000,SE17 3JF,F,N,L,6,,Borrett Close,,London
+2023-01-27,425000,SE17 2TP,F,N,L,166A,,Trafalgar Street,,London
+2023-01-26,547500,SE17 1NL,F,N,L,46B,Flat 12,Brandon Street,,London
+2023-01-25,245000,SE17 3NQ,F,N,L,Napier House,Flat 27,Cooks Road,,London
+2023-01-25,687000,SE17 1NJ,F,N,L,63B,,Larcom Street,,London
+2023-01-24,150000,SE17 3AF,F,N,L,11,Flat 502,Steedman Street,,London
+2023-01-24,155000,SE17 2FY,F,N,L,Harry Cole Court,Flat 16,Thurlow Street,,London
+2023-01-23,267500,SE17 3QJ,F,N,L,2H,,Frederick Road,,London
+2023-01-20,550000,SE17 1NL,F,N,L,46B,Apartment 11,Brandon Street,,London
+2023-01-18,305000,SE17 3SU,F,N,L,Arnold House,Flat 38,Doddington Grove,,London
+2023-01-18,675000,SE17 1FP,F,N,L,"Sir John Soane Apartments, 20",Flat 203,Heygate Street,,London
+2023-01-17,296000,SE17 2JN,F,N,L,Innis House,Flat 28,East Street,,London
+2023-01-13,405000,SE17 1GG,F,N,L,5,Flat 22,Waleorde Road,,London
+2023-01-09,430000,SE17 3NH,F,N,L,24,,Maddock Way,,London
+2023-01-06,300000,SE17 3AY,F,N,L,Searson House,23,Wesley Close,,London
+2022-12-22,407500,SE17 1NQ,F,N,L,4,,Larcom Street,,London
+2022-12-21,638000,SE17 3QR,S,N,F,53,,Fleming Road,,London
+2022-12-21,885000,SE17 3ES,T,N,F,37,,Chapter Road,,London
+2022-12-20,390000,SE17 3JW,F,N,L,1,,Marsland Close,,London
+2022-12-19,730000,SE17 2JU,T,N,F,10,,Surrey Square,,London
+2022-12-19,605000,SE17 1NH,F,N,L,8A,,Ethel Street,,London
+2022-12-19,875000,SE17 1NH,T,N,F,5,,Ethel Street,,London
+2022-12-16,450000,SE17 3JD,F,N,L,170,,Hillingdon Street,,London
+2022-12-16,225000,SE17 3FE,F,N,L,5,Flat 8,Angel Lane,,London
+2022-12-16,828000,SE17 1PD,T,N,F,66,,Henshaw Street,,London
+2022-12-15,415000,SE17 2FT,F,N,L,Marsh Court,Flat 19,East Street,,London
+2022-12-15,974500,SE17 1PD,T,N,F,70,,Henshaw Street,,London
+2022-12-12,970000,SE17 3TR,T,N,F,31,,Faunce Street,,London
+2022-12-12,680000,SE17 2GS,F,N,L,40,Flat 4,Horsley Street,,London
+2022-12-06,570000,SE17 3JS,F,N,L,66,The First And Second Floor Flat At,Penton Place,Walworth,London
+2022-12-06,650000,SE17 1FH,F,N,L,"Baldwin Point, 6",Flat 806,Sayer Street,,London
+2022-12-02,520000,SE17 3TA,F,N,L,Edmund House,Flat 131A,Doddington Grove,,London
+2022-11-28,960089,SE17 3HE,T,N,F,23,,Fielding Street,,London
+2022-11-25,535000,SE17 3UG,T,N,F,85,,Langdale Close,,London
+2022-11-25,480000,SE17 3LL,T,N,L,74,,Iliffe Street,,London
+2022-11-25,1275000,SE17 3EQ,T,N,F,21,,Sutherland Square,,London
+2022-11-24,1130000,SE17 3EF,T,N,F,1,,Sutherland Walk,,London
+2022-11-22,615000,SE17 1GD,F,N,L,"Hurlock Heights, 4",Apartment 702,Deacon Street,,London
+2022-11-18,792000,SE17 1RW,F,N,L,"Ferraro House, 149",Apartment 401,Walworth Road,,London
+2022-11-18,500000,SE17 1GA,F,N,L,"Tarling House, 3",Apartment 405,Walworth Square,,London
+2022-11-17,295000,SE17 2QW,F,N,L,37,Flat 5,Bagshot Street,,London
+2022-11-16,480000,SE17 2PJ,F,N,L,St. Matthews House,5,Phelp Street,,London
+2022-11-15,425000,SE17 3LL,F,N,L,95,,Iliffe Street,,London
+2022-11-15,390000,SE17 3HT,F,N,L,217,,Olney Road,,London
+2022-11-11,480000,SE17 3TN,F,N,L,26B,,Sharsted Street,,London
+2022-11-11,495000,SE17 3FG,F,N,L,9,Flat 18,Angel Lane,,London
+2022-11-11,335000,SE17 3DH,F,N,L,42,,Winchester Close,,London
+2022-11-10,255000,SE17 1QS,F,N,L,Eugene Cotter House,Flat 22,Beckway Street,,London
+2022-11-07,815000,SE17 3FD,F,N,L,3,Flat 19,Angel Lane,,London
+2022-11-04,512500,SE17 3TD,F,N,L,Garbett House,184,Doddington Grove,,London
+2022-11-04,460000,SE17 3SH,F,N,L,Pullens Buildings,Flat 34,Penton Place,Walworth,London
+2022-11-03,409000,SE17 2TP,F,N,L,130B,,Trafalgar Street,,London
+2022-11-03,675000,SE17 1QQ,T,N,F,1,,Tisdall Place,,London
+2022-10-28,575000,SE17 3DW,S,N,F,35,,Penrose Street,,London
+2022-10-28,202500,SE17 1AT,F,N,L,Stockham Court,Apartment 303,Rodney Road,,London
+2022-10-26,657000,SE17 1AS,F,N,L,Rutherford Heights,601,Rodney Road,,London
+2022-10-25,390000,SE17 1TA,F,N,L,Dormstone House,Flat 12,Congreve Street,,London
+2022-10-21,290000,SE17 1RF,F,N,L,129,,Rodney Road,,London
+2022-10-18,405000,SE17 3HB,F,N,L,Latvia Court 11-15,Flat 6,Macleod Street,,London
+2022-10-18,440000,SE17 3DY,F,N,L,Penrose House,Flat 82,Penrose Street,,London
+2022-10-14,275000,SE17 3UG,F,N,L,69,,Langdale Close,,London
+2022-10-14,750000,SE17 3RZ,T,N,F,67,,Ambergate Street,,London
+2022-10-14,655000,SE17 3PY,F,N,L,2,Flat 23,Amelia Street,,London
+2022-10-14,807500,SE17 3FF,F,N,L,7,Flat 19,Angel Lane,,London
+2022-10-14,1700000,SE17 2JX,T,N,F,52,,Surrey Square,,London
+2022-10-14,500000,SE17 2GS,F,N,L,40,Flat 1,Horsley Street,,London
+2022-10-14,685000,SE17 1FX,F,N,L,"Barnard House, 34",Apartment 501,Heygate Street,,London
+2022-10-14,283500,SE17 1FJ,F,N,L,"Arum House, 46",Flat 602,Rodney Road,,London
+2022-10-12,480000,SE17 3LF,F,N,L,Pullens Buildings,37,Peacock Street,,London
+2022-10-12,535000,SE17 1AX,F,N,L,Tyler Court,304,New Paragon Walk,,London
+2022-10-10,560000,SE17 1LR,F,N,L,11A,Flat 1,Colworth Grove,,London
+2022-10-03,645000,SE17 3PY,F,N,L,2,Flat 24,Amelia Street,,London
+2022-10-03,580000,SE17 1GG,F,N,L,5,Flat 13,Waleorde Road,,London
+2022-09-30,615000,SE17 3PY,F,N,L,2,Flat 30,Amelia Street,,London
+2022-09-30,708000,SE17 3BG,F,N,L,"Duke Of Clarence Court, 154",Flat 2,Manor Place,,London
+2022-09-30,430000,SE17 3AG,F,N,L,10,,Canterbury Place,,London
+2022-09-30,475000,SE17 3AF,F,N,L,"Randall Court, 12",2,Steedman Street,,London
+2022-09-30,560000,SE17 1GA,F,N,L,"Tarling House, 3",Apartment 204,Walworth Square,,London
+2022-09-27,480000,SE17 2PJ,F,N,L,St. Matthews House,4,Phelp Street,,London
+2022-09-26,495000,SE17 3JW,F,N,L,30,,Marsland Close,,London
+2022-09-23,670000,SE17 2EQ,S,N,F,1,,Aylesbury Road,,London
+2022-09-23,530000,SE17 1AS,F,N,L,Rutherford Heights,104,Rodney Road,,London
+2022-09-16,525000,SE17 3NP,F,N,L,23,,Rutley Close,,London
+2022-09-16,440000,SE17 3NE,F,N,L,20,,Forsyth Gardens,,London
+2022-09-15,487000,SE17 3SJ,F,N,L,Pullens Buildings,Flat 15,Penton Place,Walworth,London
+2022-09-15,525000,SE17 3LZ,F,N,L,61B,,Lorrimore Road,,London
+2022-09-15,395000,SE17 3HA,F,N,L,Abbey Court,Flat 2,Macleod Street,,London
+2022-09-12,297000,SE17 3NF,F,N,L,42,,Cooks Road,,London
+2022-09-09,330000,SE17 3HH,F,N,L,21,,Empress Street,,London
+2022-09-09,845000,SE17 1FZ,F,N,L,"Walton Heights, 143",Apartment 603,Walworth Road,,London
+2022-09-09,724000,SE17 1BA,F,N,L,Mansfield Point,102,Rodney Road,,London
+2022-09-07,1560100,SE17 1GF,F,Y,L,"Hurlock Heights, 4",Apartment 2904,Deacon Street,,London
+2022-09-02,500000,SE17 1HF,F,N,L,7B,,Mason Street,,London
+2022-09-02,620000,SE17 1GD,F,N,L,"Hurlock Heights, 4",Apartment 802,Deacon Street,,London
+2022-09-01,405000,SE17 3NX,F,N,L,97,,Cooks Road,,London
+2022-08-31,775000,SE17 1GD,F,N,L,"Hurlock Heights, 4",Apartment 504,Deacon Street,,London
+2022-08-31,370000,SE17 1EA,F,N,L,Ellis House,Flat 13,Brandon Street,,London
+2022-08-26,601050,SE17 3HX,T,N,F,33,,Draco Street,,London
+2022-08-26,425000,SE17 3DY,F,N,L,Penrose House,Flat 84,Penrose Street,,London
+2022-08-26,540000,SE17 1GA,F,N,L,"Tarling House, 3",Apartment 101,Walworth Square,,London
+2022-08-25,650000,SE17 3RT,F,N,L,100,,Alberta Street,,London
+2022-08-25,280000,SE17 3QY,F,N,L,27F,,Westcott Road,,London
+2022-08-24,662500,SE17 3FN,F,N,L,3,Flat 14,Danson Mews,,London
+2022-08-24,463000,SE17 3AE,F,N,L,124,,Crampton Street,,London
+2022-08-23,451000,SE17 1RD,F,N,L,Dawes House,Flat 96,Orb Street,,London
+2022-08-18,342000,SE17 2QW,F,N,L,"Flat 7, 37",,Bagshot Street,,London
+2022-08-16,715000,SE17 3FP,F,N,L,5,Flat 13,Danson Mews,,London
+2022-08-15,835000,SE17 1PD,T,N,F,44,,Henshaw Street,,London
+2022-08-15,560000,SE17 1GG,F,N,L,5,Flat 31,Waleorde Road,,London
+2022-08-12,600000,SE17 3NF,T,N,F,54,,Cooks Road,,London
+2022-08-10,845000,SE17 1FZ,F,Y,L,"Walton Heights, 143",Apartment 1006,Walworth Road,,London
+2022-08-05,642500,SE17 3FP,F,N,L,5,Flat 2,Danson Mews,,London
+2022-08-03,447500,SE17 3NH,F,N,L,28,,Maddock Way,,London
+2022-08-01,280000,SE17 3QJ,F,N,L,1B,,Frederick Road,,London
+2022-07-29,325000,SE17 2HF,F,N,L,Trafalgar House,Flat 52,Bronti Close,,London
+2022-07-29,380000,SE17 1TP,F,N,L,Povey House,Flat 34,Beckway Street,,London
+2022-07-29,733000,SE17 1FQ,F,N,L,"Siddal Apartments, 6",Flat 501,Heygate Street,,London
+2022-07-29,529950,SE17 1AT,F,N,L,Stockham Court,Apartment 301,Rodney Road,,London
+2022-07-28,432000,SE17 3HT,F,N,L,213,,Olney Road,,London
+2022-07-27,840000,SE17 1GD,F,N,L,"Hurlock Heights, 4",Apartment 808,Deacon Street,,London
+2022-07-27,430000,SE17 1GD,F,N,L,"Hurlock Heights, 4",Apartment 506,Deacon Street,,London
+2022-07-22,365000,SE17 1HF,F,N,L,24,Flat 6,Mason Street,,London
+2022-07-19,930000,SE17 3HE,T,N,F,25,,Fielding Street,,London
+2022-07-15,627000,SE17 3UG,T,N,F,78,,Langdale Close,,London
+2022-07-15,455000,SE17 3LF,F,N,L,Pullens Buildings,30,Peacock Street,,London
+2022-07-14,268000,SE17 3NN,F,N,L,Molesworth House,Flat 5,Brandon Estate,,London
+2022-07-11,685000,SE17 1BS,F,N,L,Jardin House,Flat 3,Stead Street,,London
+2022-07-05,465000,SE17 2PN,T,N,F,24,,Lytham Street,,London
+2022-07-01,390000,SE17 1BL,F,N,L,Block F,Flat 9,Peabody Estate,,London
+2022-06-30,1270000,SE17 3TP,T,N,F,41,,Sharsted Street,,London
+2022-06-30,415000,SE17 3SF,F,N,L,41,,Alberta Street,,London
+2022-06-30,879520,SE17 1FZ,F,Y,L,"Walton Heights, 143",Apartment 1206,Walworth Road,,London
+2022-06-29,317500,SE17 3TB,F,N,L,Faunce House,Flat 162,Doddington Grove,,London
+2022-06-28,765000,SE17 3QR,T,N,F,8,,Fleming Road,,London
+2022-06-27,1180000,SE17 3EQ,T,N,F,3,,Sutherland Square,,London
+2022-06-24,350000,SE17 3TS,F,N,L,Irving House,Flat 255,Doddington Grove,,London
+2022-06-24,400000,SE17 3NA,F,N,L,153,,Lorrimore Road,,London
+2022-06-20,727000,SE17 2HQ,T,N,F,40,,Date Street,,London
+2022-06-20,160000,SE17 1FJ,F,N,L,"Henderson Apartments, 58",Flat 204,Rodney Road,,London
+2022-06-16,580000,SE17 2PN,T,N,F,49,,Lytham Street,,London
+2022-06-13,360000,SE17 3QS,T,N,F,10,,Greig Terrace,,London
+2022-06-13,460000,SE17 1HB,F,N,L,2,Flat 1,Darwin Street,,London
+2022-06-10,483400,SE17 3UR,F,N,L,74,Flat 1,De Laune Street,,London
+2022-06-10,127500,SE17 1FJ,F,N,L,"Henderson Apartments, 58",Flat 303,Rodney Road,,London
+2022-06-07,295000,SE17 2TW,F,N,L,Studland,Flat 50,Portland Street,,London
+2022-06-06,515000,SE17 1FJ,F,N,L,"Henderson Apartments, 58",Flat 501,Rodney Road,,London
+2022-05-31,450000,SE17 3AY,F,N,L,Searson House,5,Wesley Close,,London
+2022-05-31,335000,SE17 3AU,F,N,L,29,,Wesley Close,,London
+2022-05-31,192500,SE17 1FX,F,N,L,"Barnard House, 34",Apartment 1003,Heygate Street,,London
+2022-05-31,500000,SE17 1FJ,F,N,L,"Henderson Apartments, 58",Flat 301,Rodney Road,,London
+2022-05-31,632500,SE17 1BS,F,N,L,Jardin House,Flat 14,Stead Street,,London
+2022-05-27,467500,SE17 3LJ,F,N,L,34,,Iliffe Street,,London
+2022-05-27,500000,SE17 2SX,F,N,L,310,Flat A,East Street,,London
+2022-05-27,571500,SE17 2PQ,T,N,F,6,,Sondes Street,,London
+2022-05-25,630000,SE17 3FP,F,N,L,5,Flat 8,Danson Mews,,London
+2022-05-23,118750,SE17 3FE,F,N,L,5,Flat 15,Angel Lane,,London
+2022-05-23,640000,SE17 1FP,F,N,L,"Sir John Soane Apartments, 20",Flat 403,Heygate Street,,London
+2022-05-20,375000,SE17 3JD,F,N,L,158,,Hillingdon Street,,London
+2022-05-20,340000,SE17 1EF,F,N,L,Marnock House,Flat 3,Brandon Street,,London
+2022-05-20,307000,SE17 1ED,F,N,L,Nicholson House,40,Brandon Street,,London
+2022-05-13,437000,SE17 1GG,F,N,L,5,Flat 29,Waleorde Road,,London
+2022-05-13,525000,SE17 1AS,F,N,L,Rutherford Heights,404,Rodney Road,,London
+2022-05-12,640000,SE17 1NG,T,N,L,23,,Charleston Street,,London
+2022-05-06,957400,SE17 1FZ,F,Y,L,"Walton Heights, 143",Apartment 1306,Walworth Road,,London
+2022-05-04,650000,SE17 3EW,F,N,L,72,,Carter Street,,London
+2022-05-04,570000,SE17 1HB,F,N,L,2,Flat 3,Darwin Street,,London
+2022-04-29,395000,SE17 3JD,F,N,L,192,,Hillingdon Street,,London
+2022-04-29,675000,SE17 3BN,F,N,L,204,Apartment 5,Manor Place,,London
+2022-04-29,305000,SE17 1QL,F,N,L,8,,Kennedy Walk,,London
+2022-04-22,503000,SE17 3JQ,F,N,L,21,,Andrews Walk,,London
+2022-04-21,500000,SE17 1AQ,F,N,L,Blackwood Apartments,203,Victory Place,,London
+2022-04-20,550000,SE17 1LN,F,N,L,"Herbert Morrison House, 1",Flat 7,Browning Street,,London
+2022-04-14,761000,SE17 3FN,F,Y,L,3,Flat 26,Danson Mews,,London
+2022-04-14,615000,SE17 3AF,F,N,L,"Randall Court, 12",1,Steedman Street,,London
+2022-04-14,264000,SE17 2RW,F,N,L,Littlebourne House,Flat 1,Upnor Way,,London
+2022-04-14,485000,SE17 1BA,F,N,L,Mansfield Point,503,Rodney Road,,London
+2022-04-13,877920,SE17 1FZ,F,Y,L,"Walton Heights, 143",Apartment 1106,Walworth Road,,London
+2022-04-13,830000,SE17 1AS,F,N,L,Rutherford Heights,702,Rodney Road,,London
+2022-04-11,587000,SE17 3HN,T,N,F,116,,Olney Road,,London
+2022-04-08,307500,SE17 3UF,F,N,L,20,,Langdale Close,,London
+2022-04-08,400000,SE17 3AS,F,N,L,200,,Amelia Street,,London
+2022-04-08,1625000,SE17 1FH,F,N,L,"Baldwin Point, 6",Flat 1502,Sayer Street,,London
+2022-04-08,560000,SE17 1FG,F,N,L,"Baldwin Point, 6",Flat 701,Sayer Street,,London
+2022-04-07,1493000,SE17 1GF,F,Y,L,"Hurlock Heights, 4",Apartment 2903,Deacon Street,,London
+2022-04-05,420000,SE17 3LY,F,N,F,Eglington Court,Flat 26,Lorrimore Road,,London
+2022-04-01,540000,SE17 3BN,F,N,L,204,Apartment 8,Manor Place,,London
+2022-04-01,450000,SE17 2NY,F,N,L,155,,Merrow Street,,London
+2022-04-01,582500,SE17 1GG,F,N,L,5,Flat 20,Waleorde Road,,London
+2022-04-01,602500,SE17 1AL,F,N,L,115,Flat 1,Brandon Street,,London
+2022-03-31,340000,SE17 1NJ,F,N,L,75D,Apartment 1,Larcom Street,,London
+2022-03-30,168750,SE17 1FJ,F,N,L,"Arum House, 46",Flat 603,Rodney Road,,London
+2022-03-28,1000000,SE17 3EQ,T,N,F,8,,Sutherland Square,,London
+2022-03-28,385100,SE17 1NL,F,N,L,50,The Ground Floor Flat At,Brandon Street,,London
+2022-03-25,420000,SE17 3EA,F,N,L,Penrose House,Flat 97,Penrose Street,,London
+2022-03-25,425000,SE17 2PX,F,N,L,34,Apartment 7,Queens Row,,London
+2022-03-24,382500,SE17 2EQ,F,N,L,25,,Aylesbury Road,,London
+2022-03-23,450000,SE17 3SJ,F,N,L,Pullens Buildings,Flat 16,Penton Place,Walworth,London
+2022-03-23,250000,SE17 3SG,F,N,L,Harold Maddison House,Flat 35,Alberta Street,,London
+2022-03-22,521500,SE17 2LN,F,N,L,"Maple Court, 25",Flat 8,Alvey Street,,London
+2022-03-15,740000,SE17 3FL,F,Y,L,1,Flat 1,Danson Mews,,London
+2022-03-15,475000,SE17 1AX,F,N,L,Tyler Court,208,New Paragon Walk,,London
+2022-03-11,1110000,SE17 3UU,T,N,F,3,,De Laune Street,,London
+2022-03-11,1245000,SE17 3EQ,T,N,F,20,,Sutherland Square,,London
+2022-03-11,1165000,SE17 3EL,T,N,F,64,,Sutherland Square,,London
+2022-03-11,355000,SE17 1QS,F,N,L,Eugene Cotter House,Flat 2,Beckway Street,,London
+2022-03-08,518000,SE17 2PN,T,N,F,14,,Lytham Street,,London
+2022-03-08,127500,SE17 1FJ,F,N,L,"Henderson Apartments, 58",Flat 201,Rodney Road,,London
+2022-03-04,305000,SE17 3SZ,F,N,L,Dickens House,Flat 117,Doddington Grove,,London
+2022-02-28,417500,SE17 3JD,F,N,L,166,,Hillingdon Street,,London
+2022-02-28,935000,SE17 2JJ,T,N,F,"Malvern House, 1A",1,Liverpool Grove,,London
+2022-02-28,355000,SE17 1AA,F,N,L,Newbolt House,Flat 19,Brandon Street,,London
+2022-02-25,325000,SE17 3TB,F,N,L,Faunce House,Flat 167,Doddington Grove,,London
+2022-02-25,515000,SE17 1LN,F,N,L,4,Flat 3,Browning Street,,London
+2022-02-25,550000,SE17 1AL,F,N,L,115,Flat 3,Brandon Street,,London
+2022-02-22,465000,SE17 3LL,F,N,L,93,,Iliffe Street,,London
+2022-02-21,960000,SE17 3RD,T,N,F,29,,Braganza Street,,London
+2022-02-21,450000,SE17 2EF,F,N,L,86,,Wooler Street,,London
+2022-02-18,925000,SE17 1PD,T,N,F,16,,Henshaw Street,,London
+2022-02-16,746250,SE17 3SD,T,N,F,26,,Alberta Street,,London
+2022-02-16,600000,SE17 3FG,F,Y,L,9,Flat 1,Angel Lane,,London
+2022-02-15,462267,SE17 3JG,F,N,L,5,,Pelier Street,,London
+2022-02-11,620000,SE17 3FP,F,N,L,5,Flat 26,Danson Mews,,London
+2022-02-11,280000,SE17 3AY,F,N,L,Searson House,8,Wesley Close,,London
+2022-02-11,294000,SE17 2PJ,F,N,L,St. Matthews House,18,Phelp Street,,London
+2022-02-11,580000,SE17 1FH,F,N,L,"Baldwin Point, 6",Flat 1108,Sayer Street,,London
+2022-02-09,350002,SE17 2DU,F,N,L,Richmond House,Flat 20,East Street,,London
+2022-02-07,430000,SE17 3LF,F,N,L,Pullens Buildings,15,Peacock Street,,London
+2022-02-07,595000,SE17 2PN,T,N,F,25,,Lytham Street,,London
+2022-02-04,675000,SE17 3RU,F,N,L,87,,Alberta Street,,London
+2022-02-04,875000,SE17 3EF,T,N,F,34,,Sutherland Walk,,London
+2022-02-04,570000,SE17 2PH,T,N,F,13,,Phelp Street,,London
+2022-02-02,875000,SE17 1PE,T,N,F,19,,Henshaw Street,,London
+2022-02-01,273500,SE17 2HF,F,N,L,Trafalgar House,Flat 3,Bronti Close,,London
+2022-01-31,405000,SE17 2AW,T,N,L,395A,,Walworth Road,,London
+2022-01-31,300000,SE17 1TN,F,N,L,Ellery House,Flat 24,Beckway Street,,London
+2022-01-28,625000,SE17 3QR,T,N,F,49,,Fleming Road,,London
+2022-01-28,399950,SE17 3LJ,F,N,L,27,,Iliffe Street,,London
+2022-01-28,335000,SE17 1PY,F,N,L,11,Flat 3,John Maurice Close,,London
+2022-01-28,375000,SE17 1LG,F,N,L,30,,Nursery Row,,London
+2022-01-28,720000,SE17 1FQ,F,N,L,"Siddal Apartments, 6",Flat 401,Heygate Street,,London
+2022-01-27,930000,SE17 1FZ,F,Y,L,"Walton Heights, 143",Apartment 1406,Walworth Road,,London
+2022-01-26,410000,SE17 3BA,F,N,L,9,Flat 202,Steedman Street,,London
+2022-01-24,437500,SE17 3JR,F,N,L,91B,,Penton Place,Walworth,London
+2022-01-24,1080000,SE17 3EQ,T,N,F,4,,Sutherland Square,,London
+2022-01-21,382000,SE17 3NH,F,N,L,13,,Maddock Way,,London
+2022-01-21,480000,SE17 1NJ,F,N,L,63B,,Larcom Street,,London
+2022-01-11,460000,SE17 3AE,F,N,L,60,,Crampton Street,,London
+2022-01-11,188000,SE17 1AX,F,N,L,Tyler Court,104,New Paragon Walk,,London
+2022-01-07,420000,SE17 1DB,F,N,L,Tennyson House,Flat 9,Browning Street,,London
+2022-01-07,695000,SE17 1BA,F,N,L,Mansfield Point,502,Rodney Road,,London
+2021-12-23,450000,SE17 3SJ,F,N,L,Pullens Buildings,Flat 8,Penton Place,Walworth,London
+2021-12-21,1000000,SE17 3TP,T,N,F,27,,Sharsted Street,,London
+2021-12-21,345000,SE17 3SZ,F,N,L,Dickens House,Flat 103,Doddington Grove,,London
+2021-12-21,920000,SE17 1GE,F,Y,L,"Hurlock Heights, 4",Apartment 2108,Deacon Street,,London
+2021-12-20,855000,SE17 3HE,T,N,F,19,,Fielding Street,,London
+2021-12-20,1215000,SE17 3EQ,T,N,F,27,,Sutherland Square,,London
+2021-12-20,415000,SE17 2EH,F,N,L,62,,Aylesbury Road,,London
+2021-12-20,973700,SE17 1GF,F,Y,L,"Hurlock Heights, 4",Apartment 2408,Deacon Street,,London
+2021-12-17,600000,SE17 3FL,F,Y,L,1,Flat 12,Danson Mews,,London
+2021-12-17,600000,SE17 3FH,F,Y,L,11,Flat 1,Angel Lane,,London
+2021-12-17,905000,SE17 3EQ,T,N,F,32,,Sutherland Square,,London
+2021-12-17,550000,SE17 1FP,F,N,L,"Drake Apartments, 26",Flat 704,Heygate Street,,London
+2021-12-13,645000,SE17 3SA,T,N,F,90,,Ambergate Street,,London
+2021-12-13,615000,SE17 3EN,F,N,L,43,,Carter Street,,London
+2021-12-13,1016000,SE17 1GE,F,Y,L,"Hurlock Heights, 4",Apartment 1804,Deacon Street,,London
+2021-12-10,408000,SE17 2EQ,F,N,L,47,,Aylesbury Road,,London
+2021-12-09,345000,SE17 2QW,F,N,L,37,Flat 1,Bagshot Street,,London
+2021-12-07,595000,SE17 3TT,F,N,L,26B,,Doddington Grove,,London
+2021-11-30,485000,SE17 3HB,F,N,L,Latvia Court 11-15,Flat 11,Macleod Street,,London
+2021-11-29,1262450,SE17 3TJ,T,N,F,4,,Harmsworth Street,,London
+2021-11-29,380000,SE17 3EA,F,N,L,Penrose House,Flat 95,Penrose Street,,London
+2021-11-29,565000,SE17 1FH,F,N,L,"Baldwin Point, 6",Flat 1208,Sayer Street,,London
+2021-11-26,600000,SE17 3FQ,F,Y,L,7,Flat 21,Danson Mews,,London
+2021-11-26,600000,SE17 3FN,F,Y,L,3,Flat 15,Danson Mews,,London
+2021-11-24,940750,SE17 1PD,T,N,F,78B,,Henshaw Street,,London
+2021-11-24,194000,SE17 1FX,F,N,L,"Barnard House, 34",Apartment 406,Heygate Street,,London
+2021-11-23,1021020,SE17 1GF,F,Y,L,"Hurlock Heights, 4",Apartment 2404,Deacon Street,,London
+2021-11-23,932750,SE17 1GF,F,Y,L,"Hurlock Heights, 4",Apartment 2401,Deacon Street,,London
+2021-11-23,920010,SE17 1GF,F,Y,L,"Hurlock Heights, 4",Apartment 2301,Deacon Street,,London
+2021-11-23,999180,SE17 1GF,F,Y,L,"Hurlock Heights, 4",Apartment 2204,Deacon Street,,London
+2021-11-19,148750,SE17 1FJ,F,N,L,"Flat 203 Arum House, 46",,Rodney Road,,London
+2021-11-19,600000,SE17 1AL,F,N,L,115,Flat 5,Brandon Street,,London
+2021-11-12,600000,SE17 3FE,F,Y,L,5,Flat 1,Angel Lane,,London
+2021-11-02,150000,SE17 1FJ,F,N,L,"Arum House, 46",Flat 403,Rodney Road,,London
+2021-10-29,315000,SE17 3HW,F,N,L,37,,Slade Walk,,London
+2021-10-29,385000,SE17 1QS,F,N,L,Eugene Cotter House,Flat 1,Beckway Street,,London
+2021-10-29,528000,SE17 1FP,F,N,L,"Drake Apartments, 26",Flat 202,Heygate Street,,London
+2021-10-28,600000,SE17 3FF,F,Y,L,7,Flat 1,Angel Lane,,London
+2021-10-28,600000,SE17 3FD,F,Y,L,3,Flat 1,Angel Lane,,London
+2021-10-28,600000,SE17 3FA,F,Y,L,1,Flat 1,Angel Lane,,London
+2021-10-27,380000,SE17 3LF,F,N,L,Pullens Buildings,28,Peacock Street,,London
+2021-10-18,305000,SE17 2JL,F,N,L,Dunnico House,Flat 14,East Street,,London
+2021-10-15,426000,SE17 3UF,F,N,L,29,,Langdale Close,,London
+2021-10-15,423000,SE17 2SX,F,N,L,320A,,East Street,,London
+2021-10-14,392000,SE17 3EA,F,N,L,Penrose House,Flat 86,Penrose Street,,London
+2021-10-01,475000,SE17 2EF,F,N,L,66,,Wooler Street,,London
+2021-09-30,505000,SE17 3RJ,F,N,L,60 - 62,Flat C,Braganza Street,,London
+2021-09-30,285000,SE17 3PJ,F,N,L,Brawne House,Flat 14,Brandon Estate,,London
+2021-09-30,600000,SE17 3FN,F,Y,L,3,Flat 22,Danson Mews,,London
+2021-09-30,415000,SE17 2PU,F,N,L,St. Peters House,Flat 59,Queens Row,,London
+2021-09-30,800000,SE17 2NH,T,N,F,"Balmoral Court, 40",10,Merrow Street,,London
+2021-09-30,365000,SE17 1RQ,F,N,L,6,,Hillery Close,,London
+2021-09-30,912500,SE17 1PE,T,N,F,11,,Henshaw Street,,London
+2021-09-30,465000,SE17 1GX,F,N,L,"Octavia Apartments, 7",Apartment 501,Chatteris Way,,London
+2021-09-30,924420,SE17 1FZ,F,Y,L,"Walton Heights, 143",Apartment 1605,Walworth Road,,London
+2021-09-29,600000,SE17 3FN,F,Y,L,3,Flat 17,Danson Mews,,London
+2021-09-28,1385000,SE17 1GF,F,Y,L,"Hurlock Heights, 4",Apartment 2803,Deacon Street,,London
+2021-09-27,441500,SE17 3AR,F,N,L,136,,Amelia Street,,London
+2021-09-23,417000,SE17 3QE,F,N,L,28A,,Berryfield Road,,London
+2021-09-22,265000,SE17 3PE,F,N,L,Cornish House,Flat 40,Brandon Estate,,London
+2021-09-20,950000,SE17 2PY,F,N,L,20,Flat 12,Liverpool Grove,,London
+2021-09-20,385000,SE17 1QS,F,N,L,Eugene Cotter House,Flat 49,Beckway Street,,London
+2021-09-17,500000,SE17 3SF,F,N,L,29,,Alberta Street,,London
+2021-09-17,385000,SE17 3SD,F,N,L,16,,Alberta Street,,London
+2021-09-17,450000,SE17 3AE,F,N,L,104,,Crampton Street,,London
+2021-09-17,656000,SE17 2PA,T,N,F,270,,Merrow Street,,London
+2021-09-17,620000,SE17 1NJ,F,N,L,71,Flat B,Larcom Street,,London
+2021-09-15,390000,SE17 3TS,F,N,L,Irving House,Flat 269,Doddington Grove,,London
+2021-09-15,320000,SE17 1DS,F,N,L,Paxton House,Flat 23,Morecambe Street,,London
+2021-09-13,930000,SE17 1PE,T,N,F,33,,Henshaw Street,,London
+2021-09-07,400000,SE17 3BT,F,N,L,83,Flat 214,Crampton Street,,London
+2021-09-03,620000,SE17 3QY,T,N,F,35,,Westcott Road,,London
+2021-09-03,395000,SE17 1PF,F,N,L,12,,Hemp Walk,,London
+2021-08-27,380000,SE17 3NW,F,N,L,Morton House,Flat 25,Brandon Estate,,London
+2021-08-25,218250,SE17 3FE,F,N,L,5,Flat 11,Angel Lane,,London
+2021-08-20,1010000,SE17 1GF,F,Y,L,"Hurlock Heights, 4",Apartment 2606,Deacon Street,,London
+2021-08-19,535000,SE17 3FH,F,Y,L,11,Flat 7,Angel Lane,,London
+2021-08-11,850000,SE17 1PD,F,N,F,64,,Henshaw Street,,London
+2021-08-04,225000,SE17 3JR,F,N,L,91C,,Penton Place,Walworth,London
+2021-08-03,276000,SE17 2LF,F,N,L,Swanley House,Flat 23,Kinglake Estate,,London
+2021-07-30,387500,SE17 3HP,F,N,L,Pascall House,Flat 18,Draco Street,,London
+2021-07-08,334000,SE17 3AU,F,N,L,59,,Wesley Close,,London
+2021-07-02,302250,SE17 3HQ,F,N,L,8,,Gateway,,London
+2021-06-30,680000,SE17 3RX,F,N,L,54,,Ambergate Street,,London
+2021-06-30,750000,SE17 3RU,T,N,L,93,,Alberta Street,,London
+2021-06-30,305000,SE17 3QY,F,N,L,25D,,Westcott Road,,London
+2021-06-30,355000,SE17 1PZ,F,N,L,15,Flat 3,John Maurice Close,,London
+2021-06-30,815000,SE17 1PE,T,N,F,67,,Henshaw Street,,London
+2021-06-30,700000,SE17 1FP,F,N,L,"Drake Apartments, 26",Flat 701,Heygate Street,,London
+2021-06-30,620000,SE17 1FJ,F,N,L,"Arum House, 46",Flat 202,Rodney Road,,London
+2021-06-30,525000,SE17 1AS,F,N,L,Rutherford Heights,805,Rodney Road,,London
+2021-06-29,425000,SE17 3LJ,F,N,L,35,,Iliffe Street,,London
+2021-06-29,425000,SE17 3JT,F,N,L,14E,,Penton Place,Walworth,London
+2021-06-29,465000,SE17 3JH,F,N,L,149,,Hillingdon Street,,London
+2021-06-29,625000,SE17 3FP,F,N,L,5,Flat 7,Danson Mews,,London
+2021-06-29,660000,SE17 3FL,F,Y,L,1,Flat 16,Danson Mews,,London
+2021-06-29,475000,SE17 2PX,F,N,L,42,Flat C,Queens Row,,London
+2021-06-29,350000,SE17 2NS,F,N,L,168C,,Portland Street,,London
+2021-06-29,500000,SE17 2JX,F,N,L,36A,,Surrey Square,,London
+2021-06-29,510000,SE17 2GP,F,N,L,Spectrum Place,Flat 5,Lytham Street,,London
+2021-06-29,360000,SE17 2EH,F,N,L,54,,Aylesbury Road,,London
+2021-06-29,962780,SE17 1GF,F,Y,L,"Hurlock Heights, 4",Apartment 2308,Deacon Street,,London
+2021-06-28,437000,SE17 3LL,F,N,L,73,,Iliffe Street,,London
+2021-06-28,600000,SE17 3FN,F,Y,L,3,Flat 7,Danson Mews,,London
+2021-06-28,465000,SE17 3EA,F,N,L,Penrose House,Flat 108,Penrose Street,,London
+2021-06-28,360000,SE17 1RD,F,N,L,Dawes House,Flat 57,Orb Street,,London
+2021-06-28,325000,SE17 1RD,F,N,L,Dawes House,Flat 79,Orb Street,,London
+2021-06-28,686000,SE17 1FP,F,N,L,"Drake Apartments, 26",Flat 401,Heygate Street,,London
+2021-06-28,585000,SE17 1FH,F,N,L,"Baldwin Point, 6",Flat 1305,Sayer Street,,London
+2021-06-28,650000,SE17 1BP,F,N,L,Winch House,Flat 13,Stead Street,,London
+2021-06-28,900000,SE17 1BP,F,N,L,Winch House,Flat 23,Stead Street,,London
+2021-06-27,150000,SE17 1GR,F,N,L,"Beck House, 3",Apartment 501,New Lion Way,,London
+2021-06-25,1236770,SE17 3TN,T,N,F,42,,Sharsted Street,,London
+2021-06-25,390000,SE17 3NW,F,N,L,Morton House,Flat 12,Brandon Estate,,London
+2021-06-25,546000,SE17 3FQ,F,Y,L,7,Flat 10,Danson Mews,,London
+2021-06-25,876840,SE17 3FF,F,Y,L,7,Flat 17,Angel Lane,,London
+2021-06-25,550000,SE17 3EW,F,N,L,94A,,Carter Street,,London
+2021-06-25,620000,SE17 3EQ,T,N,F,17,,Sutherland Square,,London
+2021-06-25,450000,SE17 2EQ,T,N,L,37,,Aylesbury Road,,London
+2021-06-25,365000,SE17 1TP,F,N,L,Povey House,Flat 12,Beckway Street,,London
+2021-06-25,645000,SE17 1BS,F,N,L,Jardin House,Flat 11,Stead Street,,London
+2021-06-24,1019000,SE17 3NF,T,N,F,52,,Cooks Road,,London
+2021-06-24,845000,SE17 3FH,F,Y,L,11,Flat 21,Angel Lane,,London
+2021-06-24,505000,SE17 2PQ,S,N,F,19,,Sondes Street,,London
+2021-06-24,640000,SE17 2PF,T,N,F,9,,Portland Street,,London
+2021-06-24,325000,SE17 1LN,F,N,L,"Herbert Morrison House, 1",Flat 3,Browning Street,,London
+2021-06-24,683000,SE17 1LN,F,N,L,4,Flat 6,Browning Street,,London
+2021-06-24,685000,SE17 1AS,F,N,L,Rutherford Heights,602,Rodney Road,,London
+2021-06-21,435500,SE17 3HW,F,N,L,13,,Slade Walk,,London
+2021-06-18,497500,SE17 3UR,F,N,L,73,Flat 1,De Laune Street,,London
+2021-06-18,585000,SE17 3RX,F,N,L,4,,Ambergate Street,,London
+2021-06-18,415000,SE17 3HB,F,N,L,Latvia Court 11-15,Flat 7,Macleod Street,,London
+2021-06-18,600000,SE17 3BN,F,N,L,204,Apartment 4,Manor Place,,London
+2021-06-18,159375,SE17 1GX,F,N,L,"Octavia Apartments, 7",Apartment 603,Chatteris Way,,London
+2021-06-17,840000,SE17 3TN,S,N,F,62,,Sharsted Street,,London
+2021-06-16,820000,SE17 2QS,T,N,F,89,,Mina Road,,London
+2021-06-15,460000,SE17 3UR,F,N,L,73,Flat 2,De Laune Street,,London
+2021-06-15,580000,SE17 1NL,F,N,L,50B,,Brandon Street,,London
+2021-06-15,567000,SE17 1EZ,F,N,L,61,,Darwin Street,,London
+2021-06-11,485000,SE17 3AS,F,N,L,172,,Amelia Street,,London
+2021-06-11,550000,SE17 1FH,F,N,L,"Baldwin Point, 6",Flat 1004,Sayer Street,,London
+2021-06-10,1030000,SE17 3EQ,T,N,F,5,,Sutherland Square,,London
+2021-06-10,783000,SE17 1PE,T,N,F,15,,Henshaw Street,,London
+2021-06-10,675000,SE17 1AX,F,N,L,Tyler Court,205,New Paragon Walk,,London
+2021-06-08,715000,SE17 3JT,T,N,F,12,,Penton Place,Walworth,London
+2021-06-07,355000,SE17 3NS,F,N,L,143F,,Cooks Road,,London
+2021-06-04,510000,SE17 1SZ,F,N,L,Detling House,Flat 2,Congreve Street,,London
+2021-06-04,1350000,SE17 1GF,F,Y,L,"Hurlock Heights, 4",Apartment 3004,Deacon Street,,London
+2021-06-03,525000,SE17 3HB,F,N,L,Latvia Court 11-15,Flat 9,Macleod Street,,London
+2021-06-02,545000,SE17 2AY,F,N,L,2A,Upper Premises At,Westmoreland Road,,London
+2021-05-29,715000,SE17 1FG,F,N,L,"Baldwin Point, 6",Flat 503,Sayer Street,,London
+2021-05-28,672000,SE17 3AN,T,N,F,47,,Hampton Street,,London
+2021-05-28,685000,SE17 1FP,F,N,L,"Drake Apartments, 26",Flat 301,Heygate Street,,London
+2021-05-27,107500,SE17 1GG,F,N,L,4,Flat 8,Waleorde Road,,London
+2021-05-26,480000,SE17 1ST,F,N,L,Culand House,Flat 2,Congreve Street,,London
+2021-05-25,386000,SE17 2NY,F,N,L,175,,Merrow Street,,London
+2021-05-24,475000,SE17 3HB,F,N,L,Latvia Court 11-15,Flat 1,Macleod Street,,London
+2021-05-21,668000,SE17 3EW,T,N,L,92,,Carter Street,,London
+2021-05-20,660000,SE17 3FP,F,Y,L,5,Flat 23,Danson Mews,,London
+2021-05-20,330000,SE17 1DS,F,N,L,Paxton House,Flat 10,Morecambe Street,,London
+2021-05-19,345000,SE17 3AW,F,N,L,73,,Marlborough Close,,London
+2021-05-17,272500,SE17 2RP,F,N,L,Groombridge House,Flat 4,Upnor Way,,London
+2021-05-14,900000,SE17 1GF,F,Y,L,"Hurlock Heights, 4",Apartment 2701,Deacon Street,,London
+2021-05-12,180000,SE17 3PF,F,N,L,Bateman House,Flat 22,Otto Street,,London
+2021-05-11,395000,SE17 3AP,F,N,L,34,,Marlborough Close,,London
+2021-05-10,455000,SE17 2EF,F,N,L,80,,Wooler Street,,London
+2021-05-07,880000,SE17 3FG,F,Y,L,9,Flat 17,Angel Lane,,London
+2021-05-07,290000,SE17 1ED,F,N,L,Nicholson House,31,Brandon Street,,London
+2021-05-06,157500,SE17 1FX,F,N,L,"Barnard House, 34",Apartment 805,Heygate Street,,London
+2021-05-04,295000,SE17 1RF,F,N,L,87,,Rodney Road,,London
+2021-04-30,275000,SE17 3PG,F,N,L,Walters House,Flat 15,Otto Street,,London
+2021-04-30,325000,SE17 3JN,F,N,L,Gates Court,4,Marsland Close,,London
+2021-04-30,410000,SE17 2EF,F,N,L,60,,Wooler Street,,London
+2021-04-29,670000,SE17 3TT,F,N,L,22,Flat B,Doddington Grove,,London
+2021-04-23,456000,SE17 3NP,F,N,L,16,,Rutley Close,,London
+2021-04-23,330000,SE17 2DJ,F,Y,L,1,Flat 6,East Street,,London
+2021-04-20,835000,SE17 1PD,T,N,F,34,,Henshaw Street,,London
+2021-04-20,830000,SE17 1GE,F,N,L,"Hurlock Heights, 4",Apartment 1901,Deacon Street,,London
+2021-04-16,370000,SE17 3NA,F,N,L,137,,Lorrimore Road,,London
+2021-04-07,435000,SE17 1GG,F,N,L,6,Flat 18,Waleorde Road,,London
+2021-04-06,725000,SE17 3SA,T,N,F,112,,Ambergate Street,,London
+2021-04-05,490000,SE17 1AQ,F,N,L,Blackwood Apartments,503,Victory Place,,London
+2021-04-01,328000,SE17 3JW,F,N,L,11,,Marsland Close,,London
+2021-04-01,485000,SE17 3JQ,F,N,L,27,,Andrews Walk,,London
+2021-04-01,380000,SE17 3HR,F,N,L,196,,Olney Road,,London
+2021-04-01,325000,SE17 3DY,F,N,L,Penrose House,Flat 67,Penrose Street,,London
+2021-03-31,245000,SE17 3SG,F,N,L,Harold Maddison House,Flat 1,Alberta Street,,London
+2021-03-31,470250,SE17 3JF,F,N,L,8,,Borrett Close,,London
+2021-03-31,339500,SE17 3AU,F,N,L,53,,Wesley Close,,London
+2021-03-31,330000,SE17 2DJ,F,Y,L,1,Flat 2,East Street,,London
+2021-03-31,127500,SE17 1FJ,F,N,L,"Henderson Apartments, 58",Flat 203,Rodney Road,,London
+2021-03-30,487500,SE17 1GG,F,N,L,5,Flat 35,Waleorde Road,,London
+2021-03-29,930000,SE17 3TR,T,N,F,16,,Faunce Street,,London
+2021-03-29,995000,SE17 1NG,T,N,F,25,,Charleston Street,,London
+2021-03-25,1549995,SE17 1GF,F,Y,L,"Hurlock Heights, 4",Apartment 3003,Deacon Street,,London
+2021-03-24,1000000,SE17 3EQ,T,N,F,31,,Sutherland Square,,London
+2021-03-24,825000,SE17 1PE,T,N,F,13,,Henshaw Street,,London
+2021-03-19,345000,SE17 2QP,F,N,L,94B,,Smyrks Road,,London
+2021-03-19,800000,SE17 1PD,T,N,F,38,,Henshaw Street,,London
+2021-03-17,635000,SE17 3PY,F,N,L,2,Flat 20,Amelia Street,,London
+2021-03-17,400000,SE17 3HS,F,N,L,265,,Olney Road,,London
+2021-03-16,135625,SE17 1GX,F,N,L,"Octavia Apartments, 7",Apartment 405,Chatteris Way,,London
+2021-03-15,683000,SE17 3EW,F,N,L,84,,Carter Street,,London
+2021-03-12,650000,SE17 2TP,F,N,L,137,Flat 1,Trafalgar Street,,London
+2021-03-10,352000,SE17 2TH,F,N,L,Harry Hinkins House,Flat 13,Walworth Place,,London
+2021-03-08,730000,SE17 1GF,F,Y,L,"Hurlock Heights, 4",Apartment 2602,Deacon Street,,London
+2021-03-05,700000,SE17 3QY,T,N,F,37,,Westcott Road,,London
+2021-03-05,480000,SE17 3JW,F,N,L,32,,Marsland Close,,London
+2021-03-05,531500,SE17 2LN,F,N,L,"Maple Court, 25",Flat 5,Alvey Street,,London
+2021-03-05,470000,SE17 1SZ,F,N,L,Detling House,Flat 4,Congreve Street,,London
+2021-03-04,680000,SE17 3FP,F,Y,L,5,Flat 29,Danson Mews,,London
+2021-03-02,350000,SE17 3HT,F,N,L,203,,Olney Road,,London
+2021-03-01,390000,SE17 3LF,F,N,L,Pullens Buildings,2,Peacock Street,,London
+2021-03-01,908180,SE17 1GE,F,Y,L,"Hurlock Heights, 4",Apartment 1808,Deacon Street,,London
+2021-03-01,640000,SE17 1GD,F,N,L,"Hurlock Heights, 4",Apartment 1007,Deacon Street,,London
+2021-03-01,795000,SE17 1GD,F,N,L,"Hurlock Heights, 4",Apartment 805,Deacon Street,,London
+2021-02-26,330000,SE17 1PB,F,N,L,93 - 95,Flat 2,Balfour Street,,London
+2021-02-26,320000,SE17 1NJ,T,N,L,31A,,Larcom Street,,London
+2021-02-26,430000,SE17 1BY,F,N,L,1,,Salisbury Close,,London
+2021-02-19,350000,SE17 2TQ,F,N,L,James Stroud House,Flat 10,Walworth Place,,London
+2021-02-19,162500,SE17 1GR,F,N,L,"Beck House, 3",Apartment 704,New Lion Way,,London
+2021-02-18,490000,SE17 1AQ,F,N,L,Blackwood Apartments,604,Victory Place,,London
+2021-02-12,495000,SE17 3AF,F,N,L,"Randall Court, 12",4,Steedman Street,,London
+2021-02-12,650000,SE17 2ED,T,N,F,67,,Wooler Street,,London
+2021-02-12,740000,SE17 1GF,F,Y,L,"Hurlock Heights, 4",Apartment 2307,Deacon Street,,London
+2021-02-11,575000,SE17 2HQ,T,N,F,44,,Date Street,,London
+2021-02-10,370000,SE17 3UF,F,N,L,34,,Langdale Close,,London
+2021-02-10,710000,SE17 1FG,F,N,L,"Baldwin Point, 6",Flat 707,Sayer Street,,London
+2021-02-08,405000,SE17 2EQ,F,N,L,55,,Aylesbury Road,,London
+2021-02-05,640000,SE17 3FP,F,Y,L,5,Flat 9,Danson Mews,,London
+2021-02-05,414500,SE17 3DQ,F,N,L,47,,Winchester Close,,London
+2021-02-04,737900,SE17 1GF,F,Y,L,"Hurlock Heights, 4",Apartment 2407,Deacon Street,,London
+2021-02-03,630000,SE17 3TT,F,N,L,22A,,Doddington Grove,,London
+2021-02-03,799999,SE17 3FP,F,Y,L,5,Flat 3,Danson Mews,,London
+2021-02-01,281000,SE17 3PE,F,N,L,Cornish House,Flat 28,Brandon Estate,,London
+2021-01-29,634000,SE17 3AJ,T,N,F,46,,Crampton Street,,London
+2021-01-29,490000,SE17 2NJ,F,N,L,2,Flat 3,Merrow Street,,London
+2021-01-22,390000,SE17 3DQ,F,N,L,77,,Winchester Close,,London
+2021-01-14,380000,SE17 2EH,F,N,L,70,,Aylesbury Road,,London
+2021-01-13,153125,SE17 1GR,F,N,L,"Beck House, 3",Apartment 401,New Lion Way,,London
+2021-01-08,275000,SE17 2RW,F,N,L,Littlebourne House,Flat 6,Upnor Way,,London
+2021-01-08,214375,SE17 1GR,F,N,L,"Beck House, 3",Apartment 407,New Lion Way,,London
+2021-01-07,155000,SE17 1GR,F,N,L,"Beck House, 3",Apartment 706,New Lion Way,,London
+2021-01-05,500000,SE17 2GP,F,N,L,Spectrum Place,Flat 4,Lytham Street,,London
+2021-01-05,350000,SE17 1TA,F,N,L,Dormstone House,Flat 8,Congreve Street,,London
+2021-01-05,440000,SE17 1LN,F,N,L,"Herbert Morrison House, 1",Flat 6,Browning Street,,London
+2021-01-04,940000,SE17 3FA,F,Y,L,1,Flat 15,Angel Lane,,London
+2021-01-04,715000,SE17 1AS,F,N,L,Rutherford Heights,902,Rodney Road,,London

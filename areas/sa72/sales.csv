@@ -1,0 +1,824 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-06,152500,SA72 6PA,T,N,F,25,,High Street,,Pembroke Dock
+2026-08-03,165000,SA72 6EZ,S,N,F,10,,Connaught Place,,Pembroke Dock
+2026-07-24,150000,SA72 6QQ,S,N,F,8,,Finch Close,,Pembroke Dock
+2026-07-17,50000,SA72 6RW,T,N,F,10,,Hamilton Close,Pennar,Pembroke Dock
+2026-07-13,163500,SA72 6EE,S,N,F,13,,Devonshire Road,,Pembroke Dock
+2026-07-10,281000,SA72 6BL,T,N,F,85,,Park Street,,Pembroke Dock
+2026-07-08,149995,SA72 6DD,T,N,F,15,,Lewis Street,,Pembroke Dock
+2026-07-06,315000,SA72 6QW,D,N,F,7,,Sycamore Woods,,Pembroke Dock
+2026-07-03,165000,SA72 4UL,S,N,F,36,,Westhaven,Cosheston,Pembroke Dock
+2026-06-30,100000,SA72 6XH,F,N,L,34,Flat 5,Pembroke Street,,Pembroke Dock
+2026-06-29,325000,SA72 6EU,D,N,F,10,,The Parade Ground,,Pembroke Dock
+2026-06-26,142000,SA72 6DS,T,N,F,21,,London Road,,Pembroke Dock
+2026-06-26,78000,SA72 6DF,F,N,L,Kent Row,Flat 36,Llanion Park,,Pembroke Dock
+2026-06-25,167500,SA72 6HG,T,N,F,80,,Bush Street,,Pembroke Dock
+2026-06-22,152000,SA72 6EZ,S,N,F,2,,Connaught Place,,Pembroke Dock
+2026-06-19,157000,SA72 6SS,T,N,F,23,,School Gardens,Pennar,Pembroke Dock
+2026-06-19,133000,SA72 6EE,S,N,F,21,,Devonshire Road,,Pembroke Dock
+2026-06-19,152500,SA72 6DX,T,N,F,14,,Tremeyrick Street,,Pembroke Dock
+2026-06-19,205000,SA72 6BD,T,N,F,52,,Prospect Place,,Pembroke Dock
+2026-06-10,77000,SA72 6XD,T,N,F,25,,Bush Street,,Pembroke Dock
+2026-06-03,290000,SA72 6EE,D,N,F,50,,Devonshire Road,,Pembroke Dock
+2026-05-29,90000,SA72 6DF,F,N,L,Kent Row,Flat 35,Llanion Park,,Pembroke Dock
+2026-05-28,155000,SA72 6UD,T,N,F,36,,Pembroke Ferry,,Pembroke Dock
+2026-05-22,187500,SA72 6AR,T,N,F,22,,Church Street,,Pembroke Dock
+2026-05-21,110000,SA72 6ND,T,N,F,1,,Munro Court,,Pembroke Dock
+2026-05-01,212500,SA72 6BB,D,N,F,4,,Prospect Place,,Pembroke Dock
+2026-04-07,179950,SA72 6HB,T,N,F,10,,Gwyther Street,,Pembroke Dock
+2026-04-02,315000,SA72 4TT,S,N,F,Lane Head,2,,Cosheston,Pembroke Dock
+2026-03-27,155000,SA72 6SD,T,N,F,1B,,Stranraer Avenue,Pennar,Pembroke Dock
+2026-03-25,225000,SA72 6BJ,D,N,F,Ty Hyfryd,,Milton Terrace,,Pembroke Dock
+2026-03-19,195000,SA72 6PH,T,N,F,18,,Corporation Terrace,,Pembroke Dock
+2026-03-13,175000,SA72 6DG,T,N,F,84,,Laws Street,,Pembroke Dock
+2026-03-12,145000,SA72 6DB,T,N,F,4,,Harbour Way,,Pembroke Dock
+2026-03-12,240000,SA72 4UF,D,N,F,10,,The Pound,Cosheston,Pembroke Dock
+2026-03-04,175000,SA72 6BQ,D,N,F,19,,Picton Place,,Pembroke Dock
+2026-02-27,114500,SA72 6JR,T,N,F,39,,Wellington Street,,Pembroke Dock
+2026-02-26,135000,SA72 6PA,T,N,F,5,,High Street,,Pembroke Dock
+2026-02-25,270000,SA72 6EW,D,N,F,7,,Donovan Reed Gardens,,Pembroke Dock
+2026-02-24,140000,SA72 6QJ,T,N,F,13,,Albany Street,,Pembroke Dock
+2026-02-24,230000,SA72 4UD,S,N,F,Diamond Villa,2,,Cosheston,Pembroke Dock
+2026-02-23,155000,SA72 6TP,S,N,F,Hill House,,Beach Road,Llanreath,Pembroke Dock
+2026-02-16,145300,SA72 6AU,T,N,F,32,,Bush Street,,Pembroke Dock
+2026-02-13,130000,SA72 6QP,S,N,F,18,,Hill Street,,Pembroke Dock
+2026-02-13,100000,SA72 6DT,T,N,F,49,,London Road,,Pembroke Dock
+2026-02-09,275000,SA72 6ED,D,N,F,33,,Essex Road,,Pembroke Dock
+2026-02-06,157000,SA72 6XP,T,N,F,22,,Market Street,,Pembroke Dock
+2026-02-06,220000,SA72 6SH,T,N,F,5,,Military Road,Pennar,Pembroke Dock
+2026-02-06,170000,SA72 6QS,T,N,F,3,,North Street,,Pembroke Dock
+2026-02-06,202000,SA72 6HD,T,N,F,104,,Gwyther Street,,Pembroke Dock
+2026-02-04,150000,SA72 6PA,T,N,F,32,,High Street,,Pembroke Dock
+2026-01-26,305000,SA72 6TP,D,N,F,Tradewinds,,Beach Road,Llanreath,Pembroke Dock
+2026-01-23,67500,SA72 6XL,F,N,L,9,,Co Op Lane,,Pembroke Dock
+2026-01-23,195000,SA72 6SH,T,N,F,13,,Military Road,Pennar,Pembroke Dock
+2026-01-23,160000,SA72 6JG,T,N,F,17,,Park Street,,Pembroke Dock
+2026-01-19,45000,SA72 6XJ,F,N,L,Ashleigh House,Flat 4,Victoria Road,,Pembroke Dock
+2026-01-19,157000,SA72 6BJ,T,N,F,41,,Milton Terrace,,Pembroke Dock
+2026-01-15,65000,SA72 6DU,T,N,F,16,,London Road,,Pembroke Dock
+2025-12-19,115000,SA72 6QF,T,N,F,4,,Britannia Drive,,Pembroke Dock
+2025-12-19,150000,SA72 6NZ,F,N,L,20,,Treowen Road,,Pembroke Dock
+2025-12-19,105000,SA72 6DT,F,N,L,92,,London Road,,Pembroke Dock
+2025-12-18,113750,SA72 6RW,T,N,F,8,,Hamilton Close,Pennar,Pembroke Dock
+2025-12-18,140000,SA72 6QE,S,N,F,55,,Britannia Road,,Pembroke Dock
+2025-12-18,115000,SA72 6JT,T,N,F,34,,King Street,,Pembroke Dock
+2025-12-17,110000,SA72 6HR,T,N,F,12,,Trinity Road,,Pembroke Dock
+2025-12-12,183750,SA72 6BQ,T,N,F,14,,Picton Place,,Pembroke Dock
+2025-12-10,131500,SA72 6RU,S,N,F,3,,Nelson Street,Pennar,Pembroke Dock
+2025-12-05,225000,SA72 6QJ,S,N,F,15,,Albany Street,,Pembroke Dock
+2025-12-05,277500,SA72 6PJ,D,N,F,7,,Imble Close,,Pembroke Dock
+2025-11-27,195000,SA72 6YA,T,N,F,7,,Cumby Terrace,,Pembroke Dock
+2025-11-26,317500,SA72 6EQ,D,N,F,38,,Hampshire Drive,,Pembroke Dock
+2025-11-25,88000,SA72 6XD,T,N,F,25,,Bush Street,,Pembroke Dock
+2025-11-25,125000,SA72 6JR,D,N,F,6,,Wellington Street,,Pembroke Dock
+2025-11-25,132500,SA72 6DD,T,N,F,38,,Lewis Street,,Pembroke Dock
+2025-11-21,119000,SA72 6DD,T,N,F,32,,Lewis Street,,Pembroke Dock
+2025-11-21,320000,SA72 4UJ,D,N,F,West Croft,,,Cosheston,Pembroke Dock
+2025-11-19,50000,SA72 6JH,T,N,F,39,,Queen Street,,Pembroke Dock
+2025-11-18,340000,SA72 6RA,T,N,F,17,,Ocean Way,Pennar,Pembroke Dock
+2025-11-17,120000,SA72 6DQ,T,N,F,99,,Laws Street,,Pembroke Dock
+2025-11-10,192500,SA72 6XU,S,N,F,Viburnum,,Victoria Road,,Pembroke Dock
+2025-11-10,205500,SA72 6QH,D,N,F,5,,Furzy Bank,,Pembroke Dock
+2025-11-10,185000,SA72 6AY,T,N,F,14,,Charlton Place,,Pembroke Dock
+2025-11-07,107000,SA72 6QP,T,N,F,4,,Hill Street,,Pembroke Dock
+2025-11-03,125000,SA72 6DN,T,N,F,37,,Water Street,,Pembroke Dock
+2025-10-31,78000,SA72 6DF,F,N,L,Kent Row,Flat 48,Llanion Park,,Pembroke Dock
+2025-10-27,135000,SA72 6DT,T,N,F,30,,London Road,,Pembroke Dock
+2025-10-27,73000,SA72 6DN,T,N,F,17,,Water Street,,Pembroke Dock
+2025-10-24,325000,SA72 6XQ,D,N,F,Kayleigh,,St Patricks Hill,Llanreath,Pembroke Dock
+2025-10-24,230000,SA72 6SQ,T,N,F,36,,Military Road,Pennar,Pembroke Dock
+2025-10-24,175000,SA72 6SN,S,N,F,10,,Cross Park,Pennar,Pembroke Dock
+2025-10-24,175000,SA72 6RP,S,N,F,7,,Greenhill Road,Pennar,Pembroke Dock
+2025-10-17,280000,SA72 6EF,S,N,F,4,,Shropshire Road,,Pembroke Dock
+2025-10-10,188800,SA72 6DX,T,N,F,4,,Tremeyrick Street,,Pembroke Dock
+2025-10-10,155000,SA72 6DX,T,N,F,16,,Tremeyrick Street,,Pembroke Dock
+2025-10-10,338000,SA72 6BH,D,N,F,2,,Park View Crescent,,Pembroke Dock
+2025-10-03,125000,SA72 6DD,T,N,F,31,,Lewis Street,,Pembroke Dock
+2025-10-02,150000,SA72 6TL,D,N,F,Penyrhiw,,Chapel Road,Llanreath,Pembroke Dock
+2025-10-01,179000,SA72 6HP,S,N,F,11,,Cromwell Street,,Pembroke Dock
+2025-09-30,355000,SA72 6PG,D,N,F,15,,Pembroke Road,,Pembroke Dock
+2025-09-30,182500,SA72 6BQ,T,N,F,13,,Picton Place,,Pembroke Dock
+2025-09-29,135000,SA72 6SH,S,N,F,Pembroke House,,Military Road,Pennar,Pembroke Dock
+2025-09-29,90000,SA72 6DS,D,N,F,41,,London Road,,Pembroke Dock
+2025-09-29,80500,SA72 6BD,T,N,F,24,,Prospect Place,,Pembroke Dock
+2025-09-26,45000,SA72 6RA,D,N,F,25,,Ocean Way,Pennar,Pembroke Dock
+2025-09-25,339000,SA72 6QW,D,N,F,3,,Sycamore Woods,,Pembroke Dock
+2025-09-25,452500,SA72 6FB,D,N,F,4,,Connacht Way,,Pembroke Dock
+2025-09-19,110000,SA72 6YA,F,N,F,2,Flat B,Cumby Terrace,,Pembroke Dock
+2025-09-19,180000,SA72 6QN,T,N,F,13,,Sycamore Street,,Pembroke Dock
+2025-09-19,130000,SA72 6QF,T,N,F,10,,Britannia Drive,,Pembroke Dock
+2025-09-19,295000,SA72 6EQ,D,N,F,36,,Hampshire Drive,,Pembroke Dock
+2025-09-15,135000,SA72 6LJ,S,N,F,10,,St Teilos Road,,Pembroke Dock
+2025-09-12,198500,SA72 6XD,T,N,F,37,,Bush Street,,Pembroke Dock
+2025-09-12,142500,SA72 6PE,T,N,F,97,,High Street,,Pembroke Dock
+2025-09-12,250000,SA72 6NU,D,N,F,15,,Fairways,,Pembroke Dock
+2025-09-12,110000,SA72 6JS,T,N,F,30,,Brewery Street,,Pembroke Dock
+2025-09-12,182500,SA72 6DG,T,N,F,88,,Laws Street,,Pembroke Dock
+2025-09-12,90000,SA72 6AT,T,N,F,46,,Meyrick Street,,Pembroke Dock
+2025-09-05,325000,SA72 6EQ,D,N,F,34,,Hampshire Drive,,Pembroke Dock
+2025-09-05,160000,SA72 6DD,T,N,F,16,,Lewis Street,,Pembroke Dock
+2025-09-04,144000,SA72 6XS,S,N,F,5,,Melville Street,,Pembroke Dock
+2025-09-04,160000,SA72 6HG,T,N,F,88,,Bush Street,,Pembroke Dock
+2025-08-28,72500,SA72 6DX,T,N,F,6,,Tremeyrick Street,,Pembroke Dock
+2025-08-27,120000,SA72 6BB,F,N,L,5C,,Prospect Place,,Pembroke Dock
+2025-08-22,165000,SA72 6LH,S,N,F,49,,St Teilos Road,,Pembroke Dock
+2025-08-22,155000,SA72 4UJ,S,N,F,Point Lane Cottage,,,Cosheston,Pembroke Dock
+2025-08-21,590000,SA72 4TT,D,N,F,Wynsli,,,Cosheston,Pembroke Dock
+2025-08-15,180000,SA72 6YA,T,N,F,9,,Cumby Terrace,,Pembroke Dock
+2025-08-15,180000,SA72 6QT,D,N,F,The Stables,,North Street,,Pembroke Dock
+2025-08-15,220000,SA72 6PJ,D,N,F,3,,Imble Close,,Pembroke Dock
+2025-08-15,175000,SA72 6BL,T,N,F,61,,Park Street,,Pembroke Dock
+2025-08-11,215000,SA72 6AT,T,N,F,60,,Meyrick Street,,Pembroke Dock
+2025-08-08,105000,SA72 6YA,F,N,F,2A,,Cumby Terrace,,Pembroke Dock
+2025-08-06,185000,SA72 6RN,S,N,F,2,,Cheriton Road,Pennar,Pembroke Dock
+2025-08-05,170000,SA72 6NL,T,N,F,11,,Belle Vue Terrace,,Pembroke Dock
+2025-08-05,135000,SA72 6DT,S,N,F,34,,London Road,,Pembroke Dock
+2025-08-04,184000,SA72 6EJ,S,N,F,24,,Glenview Avenue,,Pembroke Dock
+2025-08-01,160000,SA72 6SN,S,N,F,12,,Cross Park,Pennar,Pembroke Dock
+2025-07-31,146500,SA72 6BD,T,N,F,26,,Prospect Place,,Pembroke Dock
+2025-07-31,102000,SA72 4SF,T,N,F,Paskeston Hall,Stable Cottage,,Cosheston,Pembroke Dock
+2025-07-25,240000,SA72 6HL,T,N,F,1,,Argyle Street,,Pembroke Dock
+2025-07-25,130000,SA72 6EN,T,N,F,34,,Arthur Street,,Pembroke Dock
+2025-07-25,337500,SA72 6BJ,D,N,F,Grassendale,,Milton Terrace,,Pembroke Dock
+2025-07-25,337500,SA72 6BJ,D,N,F,Grassendale,,Milton Terrace,,Pembroke Dock
+2025-07-24,160000,SA72 6SD,S,N,F,1A,,Stranraer Avenue,Pennar,Pembroke Dock
+2025-07-17,172500,SA72 6EJ,S,N,F,35,,Glenview Avenue,,Pembroke Dock
+2025-07-16,160000,SA72 6SD,S,N,F,1C,,Stranraer Avenue,Pennar,Pembroke Dock
+2025-07-04,130000,SA72 6JF,T,N,F,12,,Queen Street,,Pembroke Dock
+2025-06-23,210000,SA72 6QH,D,N,F,14,,Furzy Bank,,Pembroke Dock
+2025-06-23,195000,SA72 6QE,S,N,F,5,,Britannia Road,,Pembroke Dock
+2025-06-20,170000,SA72 6SQ,T,N,F,53,,Military Road,Pennar,Pembroke Dock
+2025-06-20,180000,SA72 6HL,T,N,F,32,,Argyle Street,,Pembroke Dock
+2025-06-20,135000,SA72 6AY,T,N,F,7,,Charlton Place,,Pembroke Dock
+2025-06-17,200000,SA72 6XT,T,N,F,"Llawhaden House, 7",,Princes Street,,Pembroke Dock
+2025-06-13,125000,SA72 6JS,T,N,F,40,,Brewery Street,,Pembroke Dock
+2025-06-13,130000,SA72 6JR,T,N,F,17,,Wellington Street,,Pembroke Dock
+2025-06-10,115000,SA72 6DG,T,N,F,54C,,Laws Street,,Pembroke Dock
+2025-06-06,275000,SA72 6QY,D,N,F,10,,Lavinia Drive,,Pembroke Dock
+2025-06-06,55000,SA72 6DN,F,N,L,26,,Water Street,,Pembroke Dock
+2025-06-04,145000,SA72 6AT,T,N,F,48,,Meyrick Street,,Pembroke Dock
+2025-06-03,113000,SA72 6DN,T,N,F,35,,Water Street,,Pembroke Dock
+2025-05-28,77000,SA72 6BT,F,N,L,24,Flat 2,Dimond Street,,Pembroke Dock
+2025-05-09,175000,SA72 6UG,T,N,F,3,,Llanion Cottages,,Pembroke Dock
+2025-05-09,218000,SA72 4UE,T,N,F,29,,Woodfield Grove,Cosheston,Pembroke Dock
+2025-05-08,127500,SA72 6NY,S,N,F,11,,Treowen Road,,Pembroke Dock
+2025-05-08,140000,SA72 6BB,D,N,F,8,,Prospect Place,,Pembroke Dock
+2025-04-28,139000,SA72 6LJ,T,N,F,36,,St Teilos Road,,Pembroke Dock
+2025-04-25,170000,SA72 6PE,T,N,F,95,,High Street,,Pembroke Dock
+2025-04-17,150000,SA72 6QJ,T,N,F,9,,Albany Street,,Pembroke Dock
+2025-04-17,530000,SA72 4UR,D,N,F,13,,Michael's Walk,Cosheston,Pembroke Dock
+2025-04-17,205000,SA72 4UD,T,N,F,Hall Farmhouse,,,Cosheston,Pembroke Dock
+2025-04-11,345000,SA72 6XQ,D,N,F,Beachcomber,,St Patricks Hill,Llanreath,Pembroke Dock
+2025-04-11,140000,SA72 6RL,T,N,F,18,,Bentlass Terrace,Pennar,Pembroke Dock
+2025-04-11,370000,SA72 6PZ,D,N,F,1,,Springfield Road,,Pembroke Dock
+2025-04-11,210000,SA72 6DQ,T,N,F,107,,Laws Street,,Pembroke Dock
+2025-04-11,172500,SA72 6DD,S,N,F,Dove Cottage,,Lewis Street,,Pembroke Dock
+2025-04-09,180000,SA72 6HB,T,N,F,28,,Gwyther Street,,Pembroke Dock
+2025-04-08,195000,SA72 6SJ,D,N,F,"New Beginnings, 3",,Gothic Cottages,Pennar,Pembroke Dock
+2025-04-08,335000,SA72 6EW,D,N,F,27,,Donovan Reed Gardens,,Pembroke Dock
+2025-04-08,260000,SA72 6EW,D,N,F,22,,Donovan Reed Gardens,,Pembroke Dock
+2025-04-07,190111,SA72 6SR,S,N,F,3,,Kings Gardens,Pennar,Pembroke Dock
+2025-04-04,188000,SA72 6GL,T,N,F,9,,The Crescent,Pennar,Pembroke Dock
+2025-04-04,150000,SA72 6EJ,S,N,F,10,,Glenview Avenue,,Pembroke Dock
+2025-03-28,142000,SA72 6LG,S,N,F,5,,St Peters Road,,Pembroke Dock
+2025-03-28,185000,SA72 6HN,T,N,F,27,,Hawkstone Road,,Pembroke Dock
+2025-03-28,140000,SA72 6BA,T,N,F,4,,Croft Terrace,,Pembroke Dock
+2025-03-18,171000,SA72 6AR,T,N,F,19,,Church Street,,Pembroke Dock
+2025-03-14,138000,SA72 6NL,S,N,F,1,,Belle Vue Terrace,,Pembroke Dock
+2025-03-13,150000,SA72 6BQ,T,N,F,12,,Picton Place,,Pembroke Dock
+2025-03-07,118500,SA72 6DP,T,N,F,2,,King William Court,,Pembroke Dock
+2025-03-03,190000,SA72 6PB,S,N,F,59,,High Street,,Pembroke Dock
+2025-03-03,111000,SA72 6DD,T,N,F,33,,Lewis Street,,Pembroke Dock
+2025-02-28,172000,SA72 6QU,T,N,F,46,,North Street,,Pembroke Dock
+2025-02-21,220000,SA72 6EQ,D,N,F,4,,Hampshire Drive,,Pembroke Dock
+2025-02-19,153000,SA72 6JR,T,N,F,29,,Wellington Street,,Pembroke Dock
+2025-02-14,170000,SA72 6RL,S,N,F,1,,Bentlass Terrace,Pennar,Pembroke Dock
+2025-02-14,58000,SA72 6DF,F,N,L,Dorset Row,Flat 26,Llanion Park,,Pembroke Dock
+2025-02-14,425000,SA72 6AR,D,N,F,Clarke House,,Church Street,,Pembroke Dock
+2025-02-13,133000,SA72 6JS,T,N,F,26,,Brewery Street,,Pembroke Dock
+2025-02-12,325000,SA72 6UR,D,N,F,37,,Charles Thomas Avenue,,Pembroke Dock
+2025-02-12,238000,SA72 6HL,T,N,F,2,,Argyle Street,,Pembroke Dock
+2025-02-11,95000,SA72 6UD,T,N,F,18,,Pembroke Ferry,,Pembroke Dock
+2025-02-10,48000,SA72 6DG,F,N,L,"Ettrick House, 52",Flat 1,Laws Street,,Pembroke Dock
+2025-02-07,315000,SA72 6XP,T,N,F,Old School Buildings,2,Market Street,,Pembroke Dock
+2025-02-07,215000,SA72 6DQ,T,N,F,85,,Laws Street,,Pembroke Dock
+2025-02-03,76000,SA72 6XS,F,N,L,8,Flat 3,Melville Street,,Pembroke Dock
+2025-01-30,144000,SA72 6QN,T,N,F,8,,Sycamore Street,,Pembroke Dock
+2025-01-24,175000,SA72 6XP,T,N,F,26,,Market Street,,Pembroke Dock
+2025-01-23,125000,SA72 6BB,T,N,F,14,,Prospect Place,,Pembroke Dock
+2025-01-20,120000,SA72 6RZ,T,N,F,81,,Stranraer Road,Pennar,Pembroke Dock
+2025-01-20,100000,SA72 6EZ,S,N,F,12,,Connaught Place,,Pembroke Dock
+2025-01-17,195000,SA72 6RE,S,N,F,32A,,Grove Street,Pennar,Pembroke Dock
+2025-01-17,170000,SA72 6JR,S,N,F,26,,Wellington Street,,Pembroke Dock
+2025-01-17,250000,SA72 4UL,S,N,F,39,,Westhaven,Cosheston,Pembroke Dock
+2025-01-16,180000,SA72 6EJ,S,N,F,41,,Glenview Avenue,,Pembroke Dock
+2024-12-19,242000,SA72 6BL,T,N,F,81,,Park Street,,Pembroke Dock
+2024-12-11,145000,SA72 6HG,T,N,F,76,,Bush Street,,Pembroke Dock
+2024-12-09,176500,SA72 6QL,S,N,F,2,,Imble Street,,Pembroke Dock
+2024-11-29,116000,SA72 6DT,F,N,L,60,,London Road,,Pembroke Dock
+2024-11-28,230000,SA72 4UE,S,N,F,31,,Woodfield Grove,Cosheston,Pembroke Dock
+2024-11-27,115000,SA72 6JS,T,N,F,38,,Brewery Street,,Pembroke Dock
+2024-11-22,191000,SA72 6TL,T,N,F,7,,Chapel Road,Llanreath,Pembroke Dock
+2024-11-22,90000,SA72 6JS,T,N,F,27,,Brewery Street,,Pembroke Dock
+2024-11-22,118500,SA72 6DP,T,N,F,6,,King William Court,,Pembroke Dock
+2024-11-12,225000,SA72 6TP,D,N,F,Ardanza,,Beach Road,Llanreath,Pembroke Dock
+2024-11-08,327500,SA72 6QY,D,N,F,5,,Lavinia Drive,,Pembroke Dock
+2024-11-08,148000,SA72 6JR,T,N,F,21,,Wellington Street,,Pembroke Dock
+2024-11-08,155000,SA72 6BJ,T,N,F,24,,Milton Terrace,,Pembroke Dock
+2024-11-04,160000,SA72 6SS,T,N,F,23,,School Gardens,Pennar,Pembroke Dock
+2024-10-31,109000,SA72 6BB,F,N,L,5B,,Prospect Place,,Pembroke Dock
+2024-10-31,233000,SA72 4UE,S,N,F,30,,Woodfield Grove,Cosheston,Pembroke Dock
+2024-10-30,160000,SA72 6XB,T,N,F,7,,Bush Street,,Pembroke Dock
+2024-10-28,162500,SA72 6QN,T,N,F,3,,Sycamore Street,,Pembroke Dock
+2024-10-24,152000,SA72 6RH,T,N,F,14,,Castle Street,Pennar,Pembroke Dock
+2024-10-22,145000,SA72 6UA,T,N,F,26,,Waterloo Road,,Pembroke Dock
+2024-10-18,85000,SA72 6XH,F,N,L,34,Flat 5,Pembroke Street,,Pembroke Dock
+2024-10-18,155000,SA72 6QS,S,N,F,13A,,North Street,,Pembroke Dock
+2024-10-11,245000,SA72 6DU,T,N,F,20,,London Road,,Pembroke Dock
+2024-10-02,172500,SA72 6RB,D,N,F,8,,Ridge View Close,Pennar,Pembroke Dock
+2024-09-27,145000,SA72 4UW,D,N,F,Cross Cottage,,,Cosheston,Pembroke Dock
+2024-09-25,188500,SA72 6EE,S,N,F,35,,Devonshire Road,,Pembroke Dock
+2024-09-20,152000,SA72 6XD,T,N,F,45,,Bush Street,,Pembroke Dock
+2024-09-20,300000,SA72 6QY,D,N,F,18,,Lavinia Drive,,Pembroke Dock
+2024-09-20,155000,SA72 6JE,T,N,F,83,,Queen Street,,Pembroke Dock
+2024-09-19,165000,SA72 6TP,T,N,F,Redcliffe House,,Beach Road,Llanreath,Pembroke Dock
+2024-09-13,153700,SA72 6QR,T,N,F,1,,Bufferland Terrace,,Pembroke Dock
+2024-09-05,62500,SA72 6DF,F,N,L,Kent Row,Flat 39,Llanion Park,,Pembroke Dock
+2024-08-30,43000,SA72 6DG,F,N,L,"Ettrick House, 52",Flat 4,Laws Street,,Pembroke Dock
+2024-08-29,140000,SA72 6XT,T,N,F,27,,Princes Street,,Pembroke Dock
+2024-08-29,118000,SA72 6EN,T,N,F,25,,Arthur Street,,Pembroke Dock
+2024-08-27,142000,SA72 6SS,T,N,F,12,,School Gardens,Pennar,Pembroke Dock
+2024-08-23,65000,SA72 6HS,S,N,F,14,,St Johns Road,,Pembroke Dock
+2024-08-23,152000,SA72 6EL,T,N,F,36,,Canterbury Road,,Pembroke Dock
+2024-08-21,240000,SA72 6PQ,D,N,F,2,,Pembroke Road,,Pembroke Dock
+2024-08-20,110000,SA72 6RX,S,N,F,16,,Stranraer Road,Pennar,Pembroke Dock
+2024-08-16,172600,SA72 6RD,S,N,F,1,,Ferry Road,Pennar,Pembroke Dock
+2024-08-16,250000,SA72 4UP,D,N,F,Woodside,,,Cosheston,Pembroke Dock
+2024-08-15,173000,SA72 6EE,S,N,F,37,,Devonshire Road,,Pembroke Dock
+2024-08-15,165000,SA72 6AS,T,N,F,57,,Meyrick Street,,Pembroke Dock
+2024-08-02,167500,SA72 6BL,T,N,F,67,,Park Street,,Pembroke Dock
+2024-07-26,308000,SA72 6XQ,D,N,F,Tide Cleddau,,St Patricks Hill,Llanreath,Pembroke Dock
+2024-07-25,195000,SA72 6GL,T,N,F,7,,The Crescent,Pennar,Pembroke Dock
+2024-07-22,160000,SA72 6QE,S,N,F,13,,Britannia Road,,Pembroke Dock
+2024-07-19,127000,SA72 6EN,T,N,F,29,,Arthur Street,,Pembroke Dock
+2024-07-17,240000,SA72 6QQ,D,N,F,7,,Finch Close,,Pembroke Dock
+2024-07-05,200000,SA72 6XX,S,N,F,22,,Victoria Road,,Pembroke Dock
+2024-07-05,101000,SA72 6DT,F,N,L,72,,London Road,,Pembroke Dock
+2024-07-04,110000,SA72 6JR,T,N,F,15,,Wellington Street,,Pembroke Dock
+2024-06-28,150000,SA72 6TL,T,N,F,6,,Chapel Road,Llanreath,Pembroke Dock
+2024-06-20,132000,SA72 6JG,T,N,F,33,,Park Street,,Pembroke Dock
+2024-06-17,187500,SA72 6JP,T,N,F,27,,Clarence Street,,Pembroke Dock
+2024-06-12,135000,SA72 6DD,T,N,F,21,,Lewis Street,,Pembroke Dock
+2024-06-03,147000,SA72 6YD,S,N,F,8,,Sunderland Avenue,,Pembroke Dock
+2024-05-31,178000,SA72 6XT,T,N,F,25,,Princes Street,,Pembroke Dock
+2024-05-31,161000,SA72 6RD,S,N,F,"Kingfisher, 3",,Ferry Road,Pennar,Pembroke Dock
+2024-05-31,197000,SA72 6JX,T,N,F,16,,Front Street,,Pembroke Dock
+2024-05-30,215000,SA72 6HG,T,N,F,82,,Bush Street,,Pembroke Dock
+2024-05-08,90000,SA72 6DT,F,N,L,92,,London Road,,Pembroke Dock
+2024-05-03,248500,SA72 6PA,T,N,F,47,,High Street,,Pembroke Dock
+2024-05-03,195000,SA72 6EN,T,N,F,54,,Arthur Street,,Pembroke Dock
+2024-04-30,110000,SA72 6DT,F,N,L,62,,London Road,,Pembroke Dock
+2024-04-26,140000,SA72 6YD,S,N,F,3,,Sunderland Avenue,,Pembroke Dock
+2024-04-24,178000,SA72 6EJ,S,N,F,33,,Glenview Avenue,,Pembroke Dock
+2024-04-22,180000,SA72 6BE,T,N,F,10,,Milton Terrace,,Pembroke Dock
+2024-04-19,149500,SA72 6YD,S,N,F,11,,Sunderland Avenue,,Pembroke Dock
+2024-04-18,175000,SA72 6AL,T,N,F,31,,Meyrick Street,,Pembroke Dock
+2024-04-08,180000,SA72 6SQ,T,N,F,39,,Military Road,Pennar,Pembroke Dock
+2024-04-02,245000,SA72 6UR,D,N,F,46,,Charles Thomas Avenue,,Pembroke Dock
+2024-04-02,215000,SA72 6SD,S,N,F,8,,Stranraer Avenue,Pennar,Pembroke Dock
+2024-03-28,78000,SA72 6XH,F,N,L,32,Flat 4,Pembroke Street,,Pembroke Dock
+2024-03-28,460000,SA72 4UD,S,N,F,East Farm House,The Farmhouse,,Cosheston,Pembroke Dock
+2024-03-27,365000,SA72 6RA,D,N,F,36,,Ocean Way,Pennar,Pembroke Dock
+2024-03-20,75000,SA72 6AL,F,N,L,15,Flat 4,Meyrick Street,,Pembroke Dock
+2024-03-12,132000,SA72 6RX,S,N,F,26,,Stranraer Road,Pennar,Pembroke Dock
+2024-03-08,95000,SA72 6ND,T,N,F,11,,Munro Court,,Pembroke Dock
+2024-03-08,120000,SA72 6DT,F,N,L,48,,London Road,,Pembroke Dock
+2024-02-29,198000,SA72 6DS,T,N,F,9,,London Road,,Pembroke Dock
+2024-02-26,100000,SA72 6LX,T,N,F,64,,Wavell Crescent,,Pembroke Dock
+2024-02-23,150000,SA72 6DS,T,N,F,31,,London Road,,Pembroke Dock
+2024-02-09,160000,SA72 6QS,T,N,F,3,,North Street,,Pembroke Dock
+2024-02-09,180000,SA72 6ED,D,N,F,14,,Essex Road,,Pembroke Dock
+2024-01-31,157000,SA72 6RU,T,N,F,Gilgal Chapel,1,Nelson Street,Pennar,Pembroke Dock
+2024-01-31,335000,SA72 4UL,D,N,F,25,,Westhaven,Cosheston,Pembroke Dock
+2024-01-29,68500,SA72 6DF,F,N,L,Kent Row,Flat 40,Llanion Park,,Pembroke Dock
+2024-01-19,58000,SA72 6SS,F,N,L,33,,School Gardens,Pennar,Pembroke Dock
+2024-01-12,261000,SA72 4UD,D,N,F,Tan Yr Unto,,,Cosheston,Pembroke Dock
+2024-01-11,93000,SA72 6DX,T,N,F,13,,Tremeyrick Street,,Pembroke Dock
+2023-12-20,85000,SA72 6LJ,F,N,L,56A,,St Teilos Road,,Pembroke Dock
+2023-12-20,50000,SA72 6HF,F,N,L,3,,Apley Gardens,,Pembroke Dock
+2023-12-19,155000,SA72 6DQ,T,N,F,73,,Laws Street,,Pembroke Dock
+2023-12-15,135000,SA72 6NL,T,N,F,4,,Belle Vue Terrace,,Pembroke Dock
+2023-12-15,180000,SA72 6DQ,T,N,F,79,,Laws Street,,Pembroke Dock
+2023-12-15,150000,SA72 6AX,T,N,F,16,,Bush Street,,Pembroke Dock
+2023-12-13,70000,SA72 6NX,S,N,F,12,,Treowen Road,,Pembroke Dock
+2023-12-07,123000,SA72 6DN,T,N,F,10,,Water Street,,Pembroke Dock
+2023-11-30,125000,SA72 6DG,T,N,F,102,,Laws Street,,Pembroke Dock
+2023-11-28,97500,SA72 6ND,T,N,F,1,,Munro Court,,Pembroke Dock
+2023-11-24,185000,SA72 6EN,T,N,F,24,,Arthur Street,,Pembroke Dock
+2023-11-17,105000,SA72 6RH,T,N,F,1,,Castle Street,Pennar,Pembroke Dock
+2023-11-16,172000,SA72 6ED,D,N,F,17,,Essex Road,,Pembroke Dock
+2023-11-06,375000,SA72 4UJ,D,N,F,Laurels,,,Cosheston,Pembroke Dock
+2023-10-31,119000,SA72 6JS,T,N,F,22,,Brewery Street,,Pembroke Dock
+2023-10-31,73000,SA72 6DE,F,N,L,58C,,Bush Street,,Pembroke Dock
+2023-10-27,130000,SA72 6HD,T,N,F,100,,Gwyther Street,,Pembroke Dock
+2023-10-26,123500,SA72 6JR,S,N,F,26,,Wellington Street,,Pembroke Dock
+2023-10-23,390000,SA72 6EQ,D,N,F,16,,Hampshire Drive,,Pembroke Dock
+2023-10-19,275000,SA72 6UR,D,N,F,74,,Charles Thomas Avenue,,Pembroke Dock
+2023-10-17,134000,SA72 6XT,T,N,F,4,,Princes Street,,Pembroke Dock
+2023-10-13,130000,SA72 6RX,S,N,F,68,,Stranraer Road,Pennar,Pembroke Dock
+2023-10-09,153000,SA72 6SS,T,N,F,15,,School Gardens,Pennar,Pembroke Dock
+2023-10-06,167500,SA72 6UA,T,N,F,11,,Waterloo Road,,Pembroke Dock
+2023-10-06,70000,SA72 6JH,T,N,F,41,,Queen Street,,Pembroke Dock
+2023-10-06,215000,SA72 6EU,D,N,F,4,,The Parade Ground,,Pembroke Dock
+2023-10-03,100000,SA72 6AX,D,N,F,"The Yard, 2",,Bush Street,,Pembroke Dock
+2023-09-29,295000,SA72 6TP,S,N,F,Cheriton,,Beach Road,Llanreath,Pembroke Dock
+2023-09-29,155000,SA72 6JG,T,N,F,24,,Park Street,,Pembroke Dock
+2023-09-29,190000,SA72 6AR,T,N,F,45,,Church Street,,Pembroke Dock
+2023-09-27,180000,SA72 6BB,D,N,F,4,,Prospect Place,,Pembroke Dock
+2023-09-25,260000,SA72 6RR,D,N,F,Rose Cottage,,Ferry Road,Pennar,Pembroke Dock
+2023-09-22,80000,SA72 6TP,T,N,F,1,,Beach Road,Llanreath,Pembroke Dock
+2023-09-18,215000,SA72 6NZ,S,N,F,28,,Treowen Road,,Pembroke Dock
+2023-09-18,142000,SA72 6JP,T,N,F,19,,Clarence Street,,Pembroke Dock
+2023-09-15,220000,SA72 6AR,T,N,F,28,,Church Street,,Pembroke Dock
+2023-09-08,161000,SA72 6QE,T,N,F,21,,Britannia Road,,Pembroke Dock
+2023-09-07,111000,SA72 6DP,F,N,F,1,,King William Court,,Pembroke Dock
+2023-09-06,198000,SA72 6GL,T,N,F,6,,The Crescent,Pennar,Pembroke Dock
+2023-09-01,170000,SA72 6XU,T,N,F,Hillview,,Victoria Road,,Pembroke Dock
+2023-09-01,160000,SA72 6HH,T,N,F,29,,Gwyther Street,,Pembroke Dock
+2023-08-31,367000,SA72 4RX,D,N,F,Kingswood Farm Cottage,,London Road,,Pembroke Dock
+2023-08-25,263000,SA72 6XQ,D,N,F,Sail Away,,St Patricks Hill,Llanreath,Pembroke Dock
+2023-08-25,400000,SA72 6PZ,D,N,F,6,,Springfield Road,,Pembroke Dock
+2023-08-24,127500,SA72 6JR,T,N,F,17,,Wellington Street,,Pembroke Dock
+2023-08-18,60000,SA72 6HA,T,N,F,53A,,Dimond Street East,,Pembroke Dock
+2023-08-17,225000,SA72 6EZ,S,N,F,Rose Cottage,,Connaught Place,,Pembroke Dock
+2023-08-11,190000,SA72 6EE,S,N,F,35,,Devonshire Road,,Pembroke Dock
+2023-08-11,79995,SA72 6AL,F,N,L,23A,,Meyrick Street,,Pembroke Dock
+2023-08-08,135000,SA72 6UG,T,N,F,13,,Llanion Cottages,,Pembroke Dock
+2023-08-08,162000,SA72 6RZ,S,N,F,73,,Stranraer Road,Pennar,Pembroke Dock
+2023-08-08,169000,SA72 6HE,T,N,F,99,,Gwyther Street,,Pembroke Dock
+2023-08-04,71000,SA72 6DF,F,N,L,Sussex Row,Flat 12,Llanion Park,,Pembroke Dock
+2023-07-31,250000,SA72 6RS,D,N,F,9,,Gilgal Terrace,Pennar,Pembroke Dock
+2023-07-28,148000,SA72 6NW,S,N,F,4,,Pennar Court,,Pembroke Dock
+2023-07-28,94000,SA72 6HJ,D,N,F,"The Cottage, 10",,Apley Terrace,,Pembroke Dock
+2023-07-28,127000,SA72 6AR,T,N,F,32,,Church Street,,Pembroke Dock
+2023-07-19,57000,SA72 6JF,F,N,F,18,Flat Rear Of Shop,Queen Street,,Pembroke Dock
+2023-07-19,165000,SA72 6DD,T,N,F,36,,Lewis Street,,Pembroke Dock
+2023-07-18,165000,SA72 6NW,S,N,F,5,,Pennar Court,,Pembroke Dock
+2023-07-12,147500,SA72 6LH,S,N,F,49,,St Teilos Road,,Pembroke Dock
+2023-07-11,147500,SA72 6QE,S,N,F,55,,Britannia Road,,Pembroke Dock
+2023-07-07,280000,SA72 6XP,T,N,F,Old School Buildings,2,Market Street,,Pembroke Dock
+2023-07-07,153000,SA72 6HB,T,N,F,32,,Gwyther Street,,Pembroke Dock
+2023-07-07,208000,SA72 6DQ,T,N,F,109,,Laws Street,,Pembroke Dock
+2023-06-30,164000,SA72 6HD,S,N,F,96,,Gwyther Street,,Pembroke Dock
+2023-06-30,263000,SA72 6ED,D,N,F,23,,Essex Road,,Pembroke Dock
+2023-06-30,85000,SA72 6DX,T,N,F,6,,Tremeyrick Street,,Pembroke Dock
+2023-06-27,240000,SA72 6EQ,D,N,F,11,,Hampshire Drive,,Pembroke Dock
+2023-06-27,105000,SA72 6BL,T,N,F,71,,Park Street,,Pembroke Dock
+2023-06-26,150000,SA72 6QL,S,N,F,7,,Imble Street,,Pembroke Dock
+2023-06-23,147000,SA72 6UT,T,N,F,8,,Meyrick Street,,Pembroke Dock
+2023-06-22,69000,SA72 6DF,F,N,L,Dorset Row,Flat 27,Llanion Park,,Pembroke Dock
+2023-06-20,117500,SA72 6DT,F,N,L,66,,London Road,,Pembroke Dock
+2023-06-19,120000,SA72 6QS,T,N,F,9,,North Street,,Pembroke Dock
+2023-06-19,185000,SA72 6AY,T,N,F,2,,Charlton Place,,Pembroke Dock
+2023-06-16,210000,SA72 6RZ,S,N,F,65,,Stranraer Road,Pennar,Pembroke Dock
+2023-06-05,145000,SA72 6HG,T,N,F,76,,Bush Street,,Pembroke Dock
+2023-05-31,410000,SA72 4SU,D,N,F,Nash Villa,,,,Pembroke Dock
+2023-05-30,150000,SA72 6RY,S,N,F,25,,Stranraer Road,Pennar,Pembroke Dock
+2023-05-26,495000,SA72 6TP,D,N,F,Ferry Bank,,Beach Road,Llanreath,Pembroke Dock
+2023-05-26,155000,SA72 6RB,S,N,F,4,,Ridge View Close,Pennar,Pembroke Dock
+2023-05-26,149000,SA72 6DX,T,N,F,14,,Tremeyrick Street,,Pembroke Dock
+2023-05-24,325000,SA72 6PQ,D,N,F,10,,Pembroke Road,,Pembroke Dock
+2023-05-19,92000,SA72 6JR,T,N,F,35,,Wellington Street,,Pembroke Dock
+2023-05-18,145000,SA72 6AR,T,N,F,43,,Church Street,,Pembroke Dock
+2023-05-12,130000,SA72 6XE,T,N,F,3,,Albion Square,,Pembroke Dock
+2023-05-09,172500,SA72 6LN,S,N,F,102,,Bush Street,,Pembroke Dock
+2023-05-04,340000,SA72 6PG,D,N,F,19,,Pembroke Road,,Pembroke Dock
+2023-05-04,545000,SA72 4UD,D,N,F,The Boundary,,,Cosheston,Pembroke Dock
+2023-05-02,100000,SA72 6SQ,T,N,F,55,,Military Road,Pennar,Pembroke Dock
+2023-05-02,285000,SA72 6QW,D,N,F,1,,Sycamore Woods,,Pembroke Dock
+2023-04-28,48500,SA72 6XJ,F,N,L,Ashleigh House,Flat 6,Victoria Road,,Pembroke Dock
+2023-04-28,86000,SA72 6XH,F,N,F,17B,,Pembroke Street,,Pembroke Dock
+2023-04-21,140000,SA72 6QN,T,N,F,3,,Sycamore Street,,Pembroke Dock
+2023-04-21,125000,SA72 6QE,F,N,F,53C,,Britannia Road,,Pembroke Dock
+2023-04-21,390000,SA72 4UJ,D,N,F,Corner Cottage,,,Cosheston,Pembroke Dock
+2023-04-20,525000,SA72 6TP,D,N,F,West Winds,,Beach Road,Llanreath,Pembroke Dock
+2023-04-12,104000,SA72 6QT,T,N,F,53A,,North Street,,Pembroke Dock
+2023-04-11,360000,SA72 6EJ,D,N,F,34,,Glenview Avenue,,Pembroke Dock
+2023-04-11,143000,SA72 6DB,T,N,F,1,,Harbour Way,,Pembroke Dock
+2023-04-11,227000,SA72 4UL,S,N,F,38,,Westhaven,Cosheston,Pembroke Dock
+2023-04-06,225000,SA72 6TP,S,N,F,Fairways,,Beach Road,Llanreath,Pembroke Dock
+2023-04-06,199950,SA72 6BB,S,N,F,1,,Prospect Place,,Pembroke Dock
+2023-04-03,350000,SA72 6FB,D,N,F,Sea Haze,,Connacht Way,,Pembroke Dock
+2023-03-31,215000,SA72 4UL,S,N,F,32,,Westhaven,Cosheston,Pembroke Dock
+2023-03-30,170000,SA72 6UG,T,N,F,6,,Llanion Cottages,,Pembroke Dock
+2023-03-24,140000,SA72 6RH,S,N,F,43,,Castle Street,Pennar,Pembroke Dock
+2023-03-24,190000,SA72 6QP,T,N,F,1,,Hill Street,,Pembroke Dock
+2023-03-24,90000,SA72 6QJ,T,N,F,14,,Albany Street,,Pembroke Dock
+2023-03-24,140000,SA72 6AY,T,N,F,9,,Charlton Place,,Pembroke Dock
+2023-03-23,58000,SA72 6DG,T,N,F,54B,,Laws Street,,Pembroke Dock
+2023-03-20,110000,SA72 6PA,T,N,F,5,,High Street,,Pembroke Dock
+2023-03-20,184000,SA72 6EN,T,N,F,36,,Arthur Street,,Pembroke Dock
+2023-03-13,130000,SA72 6JS,T,N,F,16,,Brewery Street,,Pembroke Dock
+2023-03-10,75000,SA72 6DN,F,N,L,26,Flat 2,Water Street,,Pembroke Dock
+2023-03-10,95500,SA72 6DA,T,N,F,6,,Gordon Street,,Pembroke Dock
+2023-03-08,31000,SA72 6JT,S,N,F,The Arch,,King Street,,Pembroke Dock
+2023-03-08,74000,SA72 6HH,T,N,F,49,,Gwyther Street,,Pembroke Dock
+2023-03-06,145000,SA72 6QT,T,N,F,25,,North Street,,Pembroke Dock
+2023-02-23,80000,SA72 6JT,T,N,F,33,,King Street,,Pembroke Dock
+2023-02-23,145000,SA72 6AS,T,N,F,75,,Meyrick Street,,Pembroke Dock
+2023-02-20,58000,SA72 6DF,F,N,L,Dorset Row,Flat 24,Llanion Park,,Pembroke Dock
+2023-02-13,208000,SA72 6GL,T,N,F,9,,The Crescent,Pennar,Pembroke Dock
+2023-02-10,165000,SA72 6EJ,S,N,F,23,,Glenview Avenue,,Pembroke Dock
+2023-02-10,75000,SA72 6DF,F,N,L,Kent Row,Flat 37,Llanion Park,,Pembroke Dock
+2023-02-10,133000,SA72 6BB,T,N,F,10,,Prospect Place,,Pembroke Dock
+2023-02-07,245000,SA72 6TP,D,N,F,Honeysuckle House,,Beach Road,Llanreath,Pembroke Dock
+2023-02-07,232000,SA72 6HN,T,N,F,3,,Hawkstone Road,,Pembroke Dock
+2023-02-06,104000,SA72 6JT,S,N,F,26,,King Street,,Pembroke Dock
+2023-02-01,125000,SA72 6AT,T,N,F,58,,Meyrick Street,,Pembroke Dock
+2023-01-20,158000,SA72 6DG,T,N,F,88,,Laws Street,,Pembroke Dock
+2023-01-17,360000,SA72 6YE,D,N,F,5,,Southampton Row,,Pembroke Dock
+2023-01-13,152500,SA72 6JP,T,N,F,26,,Clarence Street,,Pembroke Dock
+2023-01-11,325000,SA72 6UR,D,N,F,94,,Charles Thomas Avenue,,Pembroke Dock
+2023-01-11,195000,SA72 6NY,S,N,F,31,,Treowen Road,,Pembroke Dock
+2023-01-10,170000,SA72 6NW,S,N,F,6,,Pennar Court,,Pembroke Dock
+2023-01-06,66000,SA72 6JS,F,N,L,3,,Queen Square Mews,,Pembroke Dock
+2023-01-05,165000,SA72 6TP,T,N,F,6,,Beach Road,Llanreath,Pembroke Dock
+2022-12-20,200000,SA72 6JG,T,N,F,6,,Park Street,,Pembroke Dock
+2022-12-16,275000,SA72 4UH,D,N,F,Carpenters Arms,,,Cosheston,Pembroke Dock
+2022-12-15,280000,SA72 6PG,D,N,F,11,,Pembroke Road,,Pembroke Dock
+2022-12-15,150000,SA72 6PA,T,N,F,42,,High Street,,Pembroke Dock
+2022-12-13,129000,SA72 6XE,T,N,F,1,,Albion Square,,Pembroke Dock
+2022-12-09,170000,SA72 6SG,T,N,F,102,,Military Road,Pennar,Pembroke Dock
+2022-12-02,287000,SA72 6EW,D,N,F,14,,Donovan Reed Gardens,,Pembroke Dock
+2022-12-02,175000,SA72 6AT,T,N,F,74,,Meyrick Street,,Pembroke Dock
+2022-11-29,170000,SA72 6XH,T,N,F,21,,Pembroke Street,,Pembroke Dock
+2022-11-29,220000,SA72 6JX,T,N,F,24,,Front Street,,Pembroke Dock
+2022-11-29,475000,SA72 4UJ,D,N,F,Rectory Lodge,,,Cosheston,Pembroke Dock
+2022-11-25,165000,SA72 6RX,S,N,F,10,,Stranraer Road,Pennar,Pembroke Dock
+2022-11-25,210000,SA72 6EW,D,N,F,18,,Donovan Reed Gardens,,Pembroke Dock
+2022-11-18,135000,SA72 6AR,T,N,F,10,,Church Street,,Pembroke Dock
+2022-11-11,52000,SA72 6XB,F,N,L,15,Flat 1,Bush Street,,Pembroke Dock
+2022-11-11,250000,SA72 6TP,D,N,F,Tradewinds,,Beach Road,Llanreath,Pembroke Dock
+2022-11-11,120000,SA72 6QS,T,N,F,6,,North Street,,Pembroke Dock
+2022-11-10,182000,SA72 6AR,T,N,F,7,,Church Street,,Pembroke Dock
+2022-11-08,157500,SA72 6RY,S,N,F,63,,Stranraer Road,Pennar,Pembroke Dock
+2022-11-04,95000,SA72 6ND,T,N,F,31,,Munro Court,,Pembroke Dock
+2022-11-01,192500,SA72 6TY,D,N,F,Redwood,,Ferry Terrace,Waterloo,Pembroke Dock
+2022-10-31,825000,SA72 6TR,D,N,F,Old Pier House,,Pier Road,,Pembroke Dock
+2022-10-28,136000,SA72 6JR,D,N,F,6,,Wellington Street,,Pembroke Dock
+2022-10-28,150000,SA72 6JL,T,N,F,9,,Queen Street,,Pembroke Dock
+2022-10-28,150000,SA72 6HH,T,N,F,45,,Gwyther Street,,Pembroke Dock
+2022-10-28,152000,SA72 6BA,S,N,F,9,,Croft Terrace,,Pembroke Dock
+2022-10-27,45000,SA72 6XJ,F,N,L,Ashleigh House,Flat 1,Victoria Road,,Pembroke Dock
+2022-10-27,167000,SA72 6AU,T,N,F,24,,Bush Street,,Pembroke Dock
+2022-10-20,50000,SA72 6HF,F,N,L,4,,Apley Gardens,,Pembroke Dock
+2022-10-18,140000,SA72 6LN,S,N,F,124,,Bush Street,,Pembroke Dock
+2022-10-17,300000,SA72 4UL,D,N,F,29,,Westhaven,Cosheston,Pembroke Dock
+2022-10-14,135000,SA72 6JX,T,N,F,26,,Front Street,,Pembroke Dock
+2022-10-07,157000,SA72 6HS,S,N,F,2,,St Johns Road,,Pembroke Dock
+2022-10-07,220000,SA72 6HL,T,N,F,12,,Argyle Street,,Pembroke Dock
+2022-10-07,190000,SA72 4UF,S,N,F,9,,The Pound,Cosheston,Pembroke Dock
+2022-10-03,135000,SA72 6SP,T,N,F,4,,Oak Road,Pennar,Pembroke Dock
+2022-10-03,130000,SA72 6DB,T,N,F,6,,Harbour Way,,Pembroke Dock
+2022-09-30,146000,SA72 6JR,T,N,F,23,,Wellington Street,,Pembroke Dock
+2022-09-30,135000,SA72 6DH,T,N,F,77,,Bush Street,,Pembroke Dock
+2022-09-29,175000,SA72 6HN,T,N,F,19,,Hawkstone Road,,Pembroke Dock
+2022-09-28,155000,SA72 6SS,T,N,F,22,,School Gardens,Pennar,Pembroke Dock
+2022-09-23,95000,SA72 6SX,D,N,F,139,,Fort Road,,Pembroke Dock
+2022-09-20,152500,SA72 6SG,T,N,F,96,,Military Road,Pennar,Pembroke Dock
+2022-09-20,140000,SA72 6JP,T,N,F,23,,Clarence Street,,Pembroke Dock
+2022-09-20,145000,SA72 6AT,T,N,F,70,,Meyrick Street,,Pembroke Dock
+2022-09-16,175000,SA72 6RS,S,N,F,4,,Gilgal Terrace,Pennar,Pembroke Dock
+2022-09-16,165000,SA72 6PH,S,N,F,Britannia House,,Corporation Terrace,,Pembroke Dock
+2022-09-16,130000,SA72 6PE,T,N,F,93,,High Street,,Pembroke Dock
+2022-09-09,129000,SA72 6JP,T,N,F,28,,Clarence Street,,Pembroke Dock
+2022-09-08,168000,SA72 6HU,S,N,F,20,,St Marys Road,,Pembroke Dock
+2022-09-08,265000,SA72 4UL,D,N,F,5,,Westhaven,Cosheston,Pembroke Dock
+2022-09-02,130000,SA72 6RU,S,N,F,2,,Nelson Street,Pennar,Pembroke Dock
+2022-09-02,105000,SA72 6ND,T,N,F,4,,Munro Court,,Pembroke Dock
+2022-08-25,178000,SA72 6UG,T,N,F,11,,Llanion Cottages,,Pembroke Dock
+2022-08-22,125000,SA72 6EJ,S,N,F,12,,Glenview Avenue,,Pembroke Dock
+2022-08-18,289950,SA72 6RB,D,N,F,17,,Ridge View Close,Pennar,Pembroke Dock
+2022-08-16,440000,SA72 6XQ,D,N,F,10,,St Patricks Hill,Llanreath,Pembroke Dock
+2022-08-15,290000,SA72 6XQ,D,N,F,Hunters Rest,,St Patricks Hill,Llanreath,Pembroke Dock
+2022-08-15,587000,SA72 4TY,T,N,F,3,,The Alley,Cosheston,Pembroke Dock
+2022-08-12,150000,SA72 6QE,S,N,F,54,,Britannia Road,,Pembroke Dock
+2022-08-10,150000,SA72 6QN,S,N,F,"Bluebell Cottage, 31",,Sycamore Street,,Pembroke Dock
+2022-08-05,249950,SA72 6XJ,T,N,F,Old School Buildings,3,Victoria Road,,Pembroke Dock
+2022-07-29,435000,SA72 4UA,D,N,F,2,,Fosse Way,Cosheston,Pembroke Dock
+2022-07-26,210000,SA72 4UL,S,N,F,39,,Westhaven,Cosheston,Pembroke Dock
+2022-07-22,155000,SA72 6RZ,S,N,F,89,,Stranraer Road,Pennar,Pembroke Dock
+2022-07-22,167500,SA72 6RB,S,N,F,14,,Ridge View Close,Pennar,Pembroke Dock
+2022-07-22,195000,SA72 6BJ,T,N,F,48,,Milton Terrace,,Pembroke Dock
+2022-07-20,150000,SA72 6EN,T,N,F,20,,Arthur Street,,Pembroke Dock
+2022-07-15,425000,SA72 6QE,D,N,F,39,,Britannia Road,,Pembroke Dock
+2022-07-15,82000,SA72 6LT,T,N,F,27,,Hamilton Court,,Pembroke Dock
+2022-07-15,172000,SA72 6HG,T,N,F,97,,Bush Street,,Pembroke Dock
+2022-07-08,165000,SA72 6SZ,S,N,F,18,,Links Drive,Pennar,Pembroke Dock
+2022-07-08,150000,SA72 6RZ,S,N,F,91,,Stranraer Road,Pennar,Pembroke Dock
+2022-07-08,200000,SA72 6QN,S,N,F,33,,Sycamore Street,,Pembroke Dock
+2022-07-07,127500,SA72 6SS,T,N,F,25,,School Gardens,Pennar,Pembroke Dock
+2022-07-05,70000,SA72 6XL,F,N,L,13,,Co Op Lane,,Pembroke Dock
+2022-07-04,274000,SA72 6ED,D,N,F,26,,Essex Road,,Pembroke Dock
+2022-07-01,345000,SA72 6NU,S,N,F,6,,Fairways,,Pembroke Dock
+2022-07-01,280000,SA72 6EW,D,N,F,33,,Donovan Reed Gardens,,Pembroke Dock
+2022-07-01,191000,SA72 6EN,T,N,F,54,,Arthur Street,,Pembroke Dock
+2022-07-01,180000,SA72 6DN,D,N,F,3,,Water Street,,Pembroke Dock
+2022-06-29,120000,SA72 6HD,T,N,F,70,,Gwyther Street,,Pembroke Dock
+2022-06-29,110000,SA72 6DA,T,N,F,3,,Gordon Street,,Pembroke Dock
+2022-06-24,250000,SA72 6EW,D,N,F,12,,Donovan Reed Gardens,,Pembroke Dock
+2022-06-17,162500,SA72 6QU,T,N,F,48,,North Street,,Pembroke Dock
+2022-06-17,280000,SA72 6NR,D,N,F,2,,Kitchener Close,,Pembroke Dock
+2022-06-15,330000,SA72 6TP,D,N,F,Ashdale House,,Beach Road,Llanreath,Pembroke Dock
+2022-06-10,330000,SA72 4UJ,D,N,F,Chamomile House,,,Cosheston,Pembroke Dock
+2022-06-06,210000,SA72 6QJ,D,N,F,16,,Albany Street,,Pembroke Dock
+2022-06-01,115000,SA72 6UT,T,N,F,30,,Meyrick Street,,Pembroke Dock
+2022-06-01,144000,SA72 6AR,T,N,F,42,,Church Street,,Pembroke Dock
+2022-05-31,166000,SA72 6QR,T,N,F,2,,Bufferland Terrace,,Pembroke Dock
+2022-05-31,155000,SA72 6DD,T,N,F,21,,Lewis Street,,Pembroke Dock
+2022-05-27,275000,SA72 6SZ,S,N,F,4,,Links Drive,Pennar,Pembroke Dock
+2022-05-27,177000,SA72 6JP,T,N,F,27,,Clarence Street,,Pembroke Dock
+2022-05-25,110000,SA72 6XJ,T,N,F,6,,Victoria Road,,Pembroke Dock
+2022-05-23,218000,SA72 6TN,T,N,F,5,,Orielton Terrace,Llanreath,Pembroke Dock
+2022-05-23,315000,SA72 4UQ,S,N,F,Primrose Villa,,,Cosheston,Pembroke Dock
+2022-05-20,160000,SA72 6TN,T,N,F,10,,Orielton Terrace,Llanreath,Pembroke Dock
+2022-05-20,160000,SA72 6DD,T,N,F,35,,Lewis Street,,Pembroke Dock
+2022-05-19,355000,SA72 6EF,S,N,F,8,,Shropshire Road,,Pembroke Dock
+2022-05-19,75000,SA72 6DF,F,N,L,Kent Row,Flat 35,Llanion Park,,Pembroke Dock
+2022-05-19,157000,SA72 6DD,S,N,F,Dove Cottage,,Lewis Street,,Pembroke Dock
+2022-05-18,87600,SA72 6ND,T,N,F,8,,Munro Court,,Pembroke Dock
+2022-05-17,90000,SA72 6JF,T,N,F,65,,Queen Street,,Pembroke Dock
+2022-05-16,130000,SA72 6DJ,T,N,F,55,,Laws Street,,Pembroke Dock
+2022-05-14,95500,SA72 6JY,T,N,F,36,,Front Street,,Pembroke Dock
+2022-05-13,61000,SA72 6XL,F,N,L,9,,Co Op Lane,,Pembroke Dock
+2022-05-06,206500,SA72 6SB,S,N,F,82,,Stranraer Road,Pennar,Pembroke Dock
+2022-05-06,350000,SA72 6RS,D,N,F,Old Farm House,,Gilgal Terrace,Pennar,Pembroke Dock
+2022-05-05,155000,SA72 6EJ,S,N,F,25,,Glenview Avenue,,Pembroke Dock
+2022-05-03,285000,SA72 6XQ,D,N,F,26,,St Patricks Hill,Llanreath,Pembroke Dock
+2022-04-29,125000,SA72 6SS,T,N,F,10,,School Gardens,Pennar,Pembroke Dock
+2022-04-22,130000,SA72 6JS,T,N,F,2,,Brewery Street,,Pembroke Dock
+2022-04-20,200000,SA72 6JG,T,N,F,31,,Park Street,,Pembroke Dock
+2022-04-19,210000,SA72 6EU,D,N,F,11,,The Parade Ground,,Pembroke Dock
+2022-04-19,162500,SA72 6AR,T,N,F,13,,Church Street,,Pembroke Dock
+2022-04-14,136000,SA72 6BL,S,N,F,42,,Park Street,,Pembroke Dock
+2022-04-11,140000,SA72 6SG,S,N,F,101,,Military Road,Pennar,Pembroke Dock
+2022-04-08,115000,SA72 6SQ,T,N,F,53,,Military Road,Pennar,Pembroke Dock
+2022-04-06,158000,SA72 6AT,T,N,F,66,,Meyrick Street,,Pembroke Dock
+2022-04-04,83000,SA72 6XS,F,N,L,8,Flat 4,Melville Street,,Pembroke Dock
+2022-04-04,105000,SA72 6LR,T,N,F,21,,Amphion Court,,Pembroke Dock
+2022-04-01,156500,SA72 6LH,S,N,F,33,,St Teilos Road,,Pembroke Dock
+2022-03-31,93000,SA72 6RL,T,N,F,8,,Bentlass Terrace,Pennar,Pembroke Dock
+2022-03-31,112500,SA72 6JX,T,N,F,9,,Front Street,,Pembroke Dock
+2022-03-29,50000,SA72 6HA,F,N,F,53C,,Dimond Street East,,Pembroke Dock
+2022-03-29,165000,SA72 6AR,T,N,F,37,,Church Street,,Pembroke Dock
+2022-03-25,120500,SA72 6YB,S,N,F,8,,Catalina Avenue,,Pembroke Dock
+2022-03-24,185000,SA72 6JX,T,N,F,4,,Front Street,,Pembroke Dock
+2022-03-24,250000,SA72 6EW,D,N,F,22,,Donovan Reed Gardens,,Pembroke Dock
+2022-03-16,115000,SA72 6RW,T,N,F,4,,Hamilton Close,Pennar,Pembroke Dock
+2022-03-14,235000,SA72 6UR,D,N,F,68,,Charles Thomas Avenue,,Pembroke Dock
+2022-03-11,260000,SA72 6XP,T,N,F,Old School Buildings,2,Market Street,,Pembroke Dock
+2022-03-11,165000,SA72 6DG,T,N,F,78,,Laws Street,,Pembroke Dock
+2022-03-11,136000,SA72 6DB,T,N,F,7,,Harbour Way,,Pembroke Dock
+2022-03-09,166500,SA72 6EE,T,N,F,9,,Devonshire Road,,Pembroke Dock
+2022-03-08,116000,SA72 6JF,T,N,F,63,,Queen Street,,Pembroke Dock
+2022-03-07,342500,SA72 6EQ,S,N,F,7,,Hampshire Drive,,Pembroke Dock
+2022-03-07,380000,SA72 6BD,T,N,F,54,,Prospect Place,,Pembroke Dock
+2022-03-04,55000,SA72 6SQ,T,N,F,59,,Military Road,Pennar,Pembroke Dock
+2022-03-04,120000,SA72 6DD,T,N,F,19,,Lewis Street,,Pembroke Dock
+2022-02-25,230000,SA72 6XP,T,N,F,Old School Buildings,1,Market Street,,Pembroke Dock
+2022-02-25,79950,SA72 6JG,S,N,F,1 The Old Bakehouse,,Park Street,,Pembroke Dock
+2022-02-25,160000,SA72 6AY,T,N,F,9,,Charlton Place,,Pembroke Dock
+2022-02-23,200000,SA72 6DU,T,N,F,10,,London Road,,Pembroke Dock
+2022-02-23,160000,SA72 6AX,T,N,F,12,,Bush Street,,Pembroke Dock
+2022-02-21,170000,SA72 6BJ,T,N,F,35,,Milton Terrace,,Pembroke Dock
+2022-02-18,171000,SA72 6QL,S,N,F,1,,Imble Street,,Pembroke Dock
+2022-02-18,275000,SA72 6PQ,S,N,F,18,,Pembroke Road,,Pembroke Dock
+2022-02-18,325000,SA72 6NP,D,N,F,3,,Presely View,,Pembroke Dock
+2022-02-18,99000,SA72 6DT,F,N,L,50,,London Road,,Pembroke Dock
+2022-02-18,127000,SA72 6DB,T,N,F,4,,Harbour Way,,Pembroke Dock
+2022-02-15,160000,SA72 6BJ,T,N,F,25,,Milton Terrace,,Pembroke Dock
+2022-02-14,150000,SA72 6EE,S,N,F,17,,Devonshire Road,,Pembroke Dock
+2022-02-11,179950,SA72 6ED,D,N,F,29,,Essex Road,,Pembroke Dock
+2022-02-07,460000,SA72 6XQ,D,N,F,36,,St Patricks Hill,Llanreath,Pembroke Dock
+2022-02-04,155000,SA72 6DD,T,N,F,36,,Lewis Street,,Pembroke Dock
+2022-02-04,185000,SA72 6DD,T,N,F,20,,Lewis Street,,Pembroke Dock
+2022-02-04,295000,SA72 6BJ,D,N,F,Awelfa,,Milton Terrace,,Pembroke Dock
+2022-02-04,66000,SA72 6AR,T,N,F,15,,Church Street,,Pembroke Dock
+2022-02-03,174800,SA72 6HB,T,N,F,12,,Gwyther Street,,Pembroke Dock
+2022-01-28,147500,SA72 6HB,T,N,F,48,,Gwyther Street,,Pembroke Dock
+2022-01-28,115000,SA72 6DT,F,N,L,94,,London Road,,Pembroke Dock
+2022-01-27,145000,SA72 6SH,T,N,F,16A,,Military Road,Pennar,Pembroke Dock
+2022-01-24,186000,SA72 6HH,T,N,F,35,,Gwyther Street,,Pembroke Dock
+2022-01-21,150000,SA72 6QP,T,N,F,19,,Hill Street,,Pembroke Dock
+2022-01-20,86000,SA72 6DG,T,N,F,54C,,Laws Street,,Pembroke Dock
+2022-01-18,89999,SA72 6JE,T,N,F,20D,,Queen Street,,Pembroke Dock
+2022-01-14,176000,SA72 6GL,T,N,F,13,,The Crescent,Pennar,Pembroke Dock
+2022-01-12,350000,SA72 6BA,D,N,F,5,,Croft Terrace,,Pembroke Dock
+2022-01-11,135000,SA72 6EL,T,N,F,35,,Canterbury Road,,Pembroke Dock
+2022-01-10,130000,SA72 6UG,T,N,F,3,,Llanion Cottages,,Pembroke Dock
+2022-01-07,170000,SA72 6YA,T,N,F,6,,Cumby Terrace,,Pembroke Dock
+2022-01-06,195000,SA72 6TP,D,N,F,Sunnyhill,,Beach Road,Llanreath,Pembroke Dock
+2022-01-05,75000,SA72 6XH,T,N,F,17,,Pembroke Street,,Pembroke Dock
+2021-12-23,175000,SA72 6EJ,D,N,F,45,,Glenview Avenue,,Pembroke Dock
+2021-12-22,110000,SA72 6SS,T,N,F,16,,School Gardens,Pennar,Pembroke Dock
+2021-12-17,108000,SA72 6NY,T,N,F,19,,Treowen Road,,Pembroke Dock
+2021-12-17,172000,SA72 6HG,T,N,F,101,,Bush Street,,Pembroke Dock
+2021-12-17,130000,SA72 6EN,T,N,F,17,,Arthur Street,,Pembroke Dock
+2021-12-17,170000,SA72 6BL,T,N,F,83,,Park Street,,Pembroke Dock
+2021-12-16,160000,SA72 6BA,T,N,F,1,,Croft Terrace,,Pembroke Dock
+2021-12-13,148000,SA72 6DH,T,N,F,72,,Bush Street,,Pembroke Dock
+2021-12-13,120000,SA72 6DD,T,N,F,15,,Lewis Street,,Pembroke Dock
+2021-12-10,160000,SA72 6SH,T,N,F,16,,Military Road,Pennar,Pembroke Dock
+2021-12-10,160000,SA72 6HS,S,N,F,12,,St Johns Road,,Pembroke Dock
+2021-12-09,147500,SA72 6BB,D,N,F,4,,Prospect Place,,Pembroke Dock
+2021-12-07,260000,SA72 6RB,D,N,F,16,,Ridge View Close,Pennar,Pembroke Dock
+2021-12-06,140000,SA72 6RS,S,N,F,5,,Gilgal Terrace,Pennar,Pembroke Dock
+2021-12-03,110000,SA72 6RX,S,N,F,6,,Stranraer Road,Pennar,Pembroke Dock
+2021-12-03,115000,SA72 6RN,S,N,F,2,,Cheriton Road,Pennar,Pembroke Dock
+2021-12-03,280000,SA72 6QW,D,N,F,2,,Sycamore Woods,,Pembroke Dock
+2021-12-03,200000,SA72 6DQ,T,N,F,97,,Laws Street,,Pembroke Dock
+2021-12-03,48000,SA72 6BT,F,N,L,24,Flat 2,Dimond Street,,Pembroke Dock
+2021-11-29,262000,SA72 6EW,D,N,F,33,,Donovan Reed Gardens,,Pembroke Dock
+2021-11-26,465000,SA72 6RA,D,N,F,28,,Ocean Way,Pennar,Pembroke Dock
+2021-11-26,187000,SA72 6JX,T,N,F,15,,Front Street,,Pembroke Dock
+2021-11-24,125000,SA72 6DA,T,N,F,1,,Gordon Street,,Pembroke Dock
+2021-11-19,160000,SA72 6RX,S,N,F,48,,Stranraer Road,Pennar,Pembroke Dock
+2021-11-19,147500,SA72 6RU,T,N,F,19,,Nelson Street,Pennar,Pembroke Dock
+2021-11-19,135000,SA72 6BJ,T,N,F,47,,Milton Terrace,,Pembroke Dock
+2021-11-18,315000,SA72 6EQ,D,N,F,1,,Hampshire Drive,,Pembroke Dock
+2021-11-18,325000,SA72 6DS,D,N,F,5,,London Road,,Pembroke Dock
+2021-11-17,130000,SA72 6QU,T,N,F,54,,North Street,,Pembroke Dock
+2021-11-16,190000,SA72 6NL,T,N,F,11,,Belle Vue Terrace,,Pembroke Dock
+2021-11-15,150000,SA72 6PB,T,N,F,74,,High Street,,Pembroke Dock
+2021-11-05,140000,SA72 6BD,T,N,F,46,,Prospect Place,,Pembroke Dock
+2021-10-29,45000,SA72 6XJ,F,N,L,Ashleigh House,Flat 6,Victoria Road,,Pembroke Dock
+2021-10-29,260000,SA72 6RA,D,N,F,21,,Ocean Way,Pennar,Pembroke Dock
+2021-10-29,88000,SA72 6JS,T,N,F,24,,Brewery Street,,Pembroke Dock
+2021-10-29,152500,SA72 6DA,T,N,F,4,,Gordon Street,,Pembroke Dock
+2021-10-29,127500,SA72 6BE,T,N,F,3,,Milton Terrace,,Pembroke Dock
+2021-10-29,177777,SA72 6AX,T,N,F,4,,Bush Street,,Pembroke Dock
+2021-10-27,87000,SA72 6DX,T,N,F,13,,Tremeyrick Street,,Pembroke Dock
+2021-10-26,87500,SA72 6DT,F,N,L,70,,London Road,,Pembroke Dock
+2021-10-22,75000,SA72 6XP,T,N,F,19,,Market Street,,Pembroke Dock
+2021-10-22,83000,SA72 6JP,T,N,F,11,,Clarence Street,,Pembroke Dock
+2021-10-22,155000,SA72 6AR,T,N,F,35,,Church Street,,Pembroke Dock
+2021-10-22,350000,SA72 4UH,D,N,F,Smithy,,,Cosheston,Pembroke Dock
+2021-10-19,310000,SA72 6EW,D,N,F,2,,Donovan Reed Gardens,,Pembroke Dock
+2021-10-15,152500,SA72 6RX,S,N,F,10,,Stranraer Road,Pennar,Pembroke Dock
+2021-10-14,138000,SA72 6LF,S,N,F,92,,Bush Street,,Pembroke Dock
+2021-10-08,127000,SA72 6NY,S,N,F,23,,Treowen Road,,Pembroke Dock
+2021-10-06,285000,SA72 6ED,D,N,F,34,,Essex Road,,Pembroke Dock
+2021-09-30,193000,SA72 6HL,T,N,F,16,,Argyle Street,,Pembroke Dock
+2021-09-30,70000,SA72 6DL,T,N,F,10,,Laws Street,,Pembroke Dock
+2021-09-27,180000,SA72 4UL,S,N,F,38,,Westhaven,Cosheston,Pembroke Dock
+2021-09-27,286000,SA72 4UD,D,N,F,St Brannocks,,,Cosheston,Pembroke Dock
+2021-09-24,110000,SA72 6LZ,T,N,F,22,,Kavanagh Court,,Pembroke Dock
+2021-09-24,185000,SA72 6DQ,T,N,F,107,,Laws Street,,Pembroke Dock
+2021-09-24,51000,SA72 6AL,F,N,L,"Flat 2, 15",,Meyrick Street,,Pembroke Dock
+2021-09-23,152000,SA72 6SG,T,N,F,62,,Military Road,Pennar,Pembroke Dock
+2021-09-23,205000,SA72 6EU,D,N,F,2,,The Parade Ground,,Pembroke Dock
+2021-09-23,380000,SA72 4US,D,N,F,"Ocean Breeze, 1",,West Park,Cosheston,Pembroke Dock
+2021-09-20,130250,SA72 6DN,T,N,F,6,,Water Street,,Pembroke Dock
+2021-09-17,205000,SA72 6QN,D,N,F,27,,Sycamore Street,,Pembroke Dock
+2021-09-17,130000,SA72 6AR,T,N,F,19,,Church Street,,Pembroke Dock
+2021-09-09,186000,SA72 4UL,D,N,F,9,,Westhaven,Cosheston,Pembroke Dock
+2021-09-02,200000,SA72 6QU,T,N,F,22,,North Street,,Pembroke Dock
+2021-09-01,365000,SA72 6RA,D,N,F,9,,Ocean Way,Pennar,Pembroke Dock
+2021-09-01,180000,SA72 6PB,T,N,F,69,,High Street,,Pembroke Dock
+2021-09-01,195000,SA72 6EE,D,N,F,47,,Devonshire Road,,Pembroke Dock
+2021-09-01,145000,SA72 6DX,T,N,F,17,,Tremeyrick Street,,Pembroke Dock
+2021-09-01,130000,SA72 4UR,D,N,F,7,,Michael's Walk,Cosheston,Pembroke Dock
+2021-08-31,120000,SA72 6BB,D,N,F,2,,Prospect Place,,Pembroke Dock
+2021-08-27,116250,SA72 6QE,S,N,F,55,,Britannia Road,,Pembroke Dock
+2021-08-26,103000,SA72 6XH,T,N,F,11,,Pembroke Street,,Pembroke Dock
+2021-08-17,260000,SA72 6XQ,D,N,F,"The Pebbles, 27",,St Patricks Hill,Llanreath,Pembroke Dock
+2021-08-16,131000,SA72 6QR,D,N,F,Glebelands House,,Bufferland Terrace,,Pembroke Dock
+2021-08-13,105000,SA72 6XE,T,N,F,Brewery House,,Albion Square,,Pembroke Dock
+2021-08-13,122500,SA72 6QE,T,N,F,25,,Britannia Road,,Pembroke Dock
+2021-08-13,257000,SA72 6BL,T,N,F,85,,Park Street,,Pembroke Dock
+2021-08-12,270000,SA72 6RA,S,N,F,23,,Ocean Way,Pennar,Pembroke Dock
+2021-08-11,160000,SA72 6AR,T,N,F,22,,Church Street,,Pembroke Dock
+2021-08-06,240000,SA72 6UD,T,N,F,3,,Pembroke Ferry,,Pembroke Dock
+2021-08-06,92500,SA72 6DT,F,N,L,56,,London Road,,Pembroke Dock
+2021-08-02,375000,SA72 4UJ,D,N,F,Church View Cottage,,,Cosheston,Pembroke Dock
+2021-07-30,190000,SA72 6SZ,D,N,F,6,,Links Drive,Pennar,Pembroke Dock
+2021-07-29,140000,SA72 6QS,T,N,F,11,,North Street,,Pembroke Dock
+2021-07-27,120000,SA72 6QE,S,N,F,13,,Britannia Road,,Pembroke Dock
+2021-07-26,185000,SA72 6JX,T,N,F,7,,Front Street,,Pembroke Dock
+2021-07-26,175000,SA72 6HD,T,N,F,102,,Gwyther Street,,Pembroke Dock
+2021-07-23,150000,SA72 6XJ,T,N,F,5,,Victoria Road,,Pembroke Dock
+2021-07-23,112000,SA72 6SS,T,N,F,7,,School Gardens,Pennar,Pembroke Dock
+2021-07-23,155000,SA72 6HA,T,N,F,43,,Dimond Street East,,Pembroke Dock
+2021-07-22,70955,SA72 6AL,F,N,L,"Flat 1, 15",,Meyrick Street,,Pembroke Dock
+2021-07-20,105000,SA72 6BE,T,N,F,9,,Milton Terrace,,Pembroke Dock
+2021-07-19,116000,SA72 6RD,S,N,F,"Sandpiper, 2",,Ferry Road,Pennar,Pembroke Dock
+2021-07-15,255000,SA72 6QY,D,N,F,16A,,Lavinia Drive,,Pembroke Dock
+2021-07-12,252000,SA72 6XQ,D,N,F,29,,St Patricks Hill,Llanreath,Pembroke Dock
+2021-07-09,255000,SA72 6XQ,D,N,F,Yate Rocks,,St Patricks Hill,Llanreath,Pembroke Dock
+2021-07-09,86000,SA72 6XL,S,N,F,8,,Co Op Lane,,Pembroke Dock
+2021-07-09,85720,SA72 6XL,S,N,F,7,,Co Op Lane,,Pembroke Dock
+2021-07-09,264500,SA72 6TP,D,N,F,Edgefield Cottage,,Beach Road,Llanreath,Pembroke Dock
+2021-07-09,145000,SA72 6AR,T,N,F,23,,Church Street,,Pembroke Dock
+2021-07-07,112500,SA72 6DH,T,N,F,79,,Bush Street,,Pembroke Dock
+2021-07-07,305000,SA72 4TT,S,N,F,2A,,Lane Head,Cosheston,Pembroke Dock
+2021-06-30,64500,SA72 6XP,F,N,L,12,,Market Street,,Pembroke Dock
+2021-06-30,127000,SA72 6XH,S,N,F,35,,Pembroke Street,,Pembroke Dock
+2021-06-30,124000,SA72 6SL,T,N,F,36,,Owen Street,Pennar,Pembroke Dock
+2021-06-30,390000,SA72 4SB,D,N,F,Artemis,,,,Pembroke Dock
+2021-06-29,150000,SA72 6XT,T,N,F,25,,Princes Street,,Pembroke Dock
+2021-06-29,145000,SA72 6UG,T,N,F,8,,Llanion Cottages,,Pembroke Dock
+2021-06-29,135000,SA72 6SN,S,N,F,22,,Cross Park,Pennar,Pembroke Dock
+2021-06-29,129000,SA72 6SH,T,N,F,3,,Military Road,Pennar,Pembroke Dock
+2021-06-29,188000,SA72 6HL,T,N,F,24,,Argyle Street,,Pembroke Dock
+2021-06-28,245000,SA72 6UR,D,N,F,1,,Charles Thomas Avenue,,Pembroke Dock
+2021-06-28,390000,SA72 6UA,D,N,F,39,,Waterloo Road,,Pembroke Dock
+2021-06-28,90000,SA72 6EN,T,N,F,37,,Arthur Street,,Pembroke Dock
+2021-06-28,90000,SA72 6BQ,T,N,F,12,,Picton Place,,Pembroke Dock
+2021-06-25,150000,SA72 6PA,T,N,F,41,,High Street,,Pembroke Dock
+2021-06-25,135000,SA72 6AS,T,N,F,61,,Meyrick Street,,Pembroke Dock
+2021-06-18,205000,SA72 6YA,T,N,F,8,,Cumby Terrace,,Pembroke Dock
+2021-06-18,320000,SA72 6UA,D,N,F,41,,Waterloo Road,,Pembroke Dock
+2021-06-18,75000,SA72 6DB,T,N,F,8,,Harbour Way,,Pembroke Dock
+2021-06-18,189999,SA72 4UF,D,N,F,7,,The Pound,Cosheston,Pembroke Dock
+2021-06-15,93000,SA72 6DN,T,N,F,35,,Water Street,,Pembroke Dock
+2021-06-11,97000,SA72 6RL,T,N,F,16,,Bentlass Terrace,Pennar,Pembroke Dock
+2021-06-11,165000,SA72 6HH,T,N,F,23,,Gwyther Street,,Pembroke Dock
+2021-06-11,120000,SA72 6BB,T,N,F,11,,Prospect Place,,Pembroke Dock
+2021-06-04,710000,SA72 6TG,D,N,F,Richmond House,,Richmond Road,,Pembroke Dock
+2021-06-03,125000,SA72 6EZ,S,N,F,5,,Connaught Place,,Pembroke Dock
+2021-05-28,62000,SA72 6AL,F,N,L,15,Flat 4,Meyrick Street,,Pembroke Dock
+2021-05-21,57500,SA72 6JS,F,N,L,3,,Queen Square Mews,,Pembroke Dock
+2021-05-21,130000,SA72 6EN,T,N,F,38,,Arthur Street,,Pembroke Dock
+2021-05-21,235000,SA72 6EH,D,N,F,7,,Gloucester Way,,Pembroke Dock
+2021-05-18,69000,SA72 6DF,F,N,L,Sussex Row,Flat 3,Llanion Park,,Pembroke Dock
+2021-05-14,130000,SA72 6SR,T,N,F,2,,Kings Gardens,Pennar,Pembroke Dock
+2021-05-14,180000,SA72 6EJ,S,N,F,49,,Glenview Avenue,,Pembroke Dock
+2021-05-07,131000,SA72 6RX,S,N,F,8,,Stranraer Road,Pennar,Pembroke Dock
+2021-05-07,58000,SA72 6HJ,F,N,L,10,Flat 2,Apley Terrace,,Pembroke Dock
+2021-05-07,51500,SA72 6DF,F,N,L,Dorset Row,Flat 21,Llanion Park,,Pembroke Dock
+2021-05-07,325000,SA72 4SF,D,N,F,Greystones,,,Cosheston,Pembroke Dock
+2021-05-05,128000,SA72 6HJ,T,N,F,5,,Apley Terrace,,Pembroke Dock
+2021-05-04,189999,SA72 4UF,D,N,F,13,,The Pound,Cosheston,Pembroke Dock
+2021-04-30,149950,SA72 6TP,S,N,F,Hill House,,Beach Road,Llanreath,Pembroke Dock
+2021-04-30,400000,SA72 6TG,D,N,F,The Powder House,,Richmond Road,,Pembroke Dock
+2021-04-30,140000,SA72 6QJ,T,N,F,11,,Albany Street,,Pembroke Dock
+2021-04-28,66000,SA72 6DF,F,N,L,Kent Row,Flat 38,Llanion Park,,Pembroke Dock
+2021-04-23,110000,SA72 6LJ,S,N,F,10,,St Teilos Road,,Pembroke Dock
+2021-04-22,129000,SA72 6HH,T,N,F,9,,Gwyther Street,,Pembroke Dock
+2021-04-22,64000,SA72 6DG,T,N,F,104,,Laws Street,,Pembroke Dock
+2021-04-21,225000,SA72 6PZ,S,N,F,3,,Springfield Road,,Pembroke Dock
+2021-04-14,155000,SA72 6SH,T,N,F,23,,Military Road,Pennar,Pembroke Dock
+2021-04-14,56000,SA72 6DF,F,N,L,Dorset Row,Flat 22,Llanion Park,,Pembroke Dock
+2021-04-09,196000,SA72 6UR,D,N,F,40,,Charles Thomas Avenue,,Pembroke Dock
+2021-04-08,220000,SA72 6TL,D,N,F,Pater Haven,,Chapel Road,Llanreath,Pembroke Dock
+2021-04-08,185000,SA72 6TL,S,N,F,Brynhyfryd,,Chapel Road,Llanreath,Pembroke Dock
+2021-04-06,100000,SA72 6JG,T,N,F,"Avondale, 21",,Park Street,,Pembroke Dock
+2021-04-01,295000,SA72 6XW,D,N,F,4,,Martello Road,Llanreath,Pembroke Dock
+2021-03-31,175000,SA72 6TP,D,N,F,Upper Llanreath House,,Beach Road,Llanreath,Pembroke Dock
+2021-03-26,110000,SA72 6RY,S,N,F,51,,Stranraer Road,Pennar,Pembroke Dock
+2021-03-26,130000,SA72 6JR,T,N,F,21,,Wellington Street,,Pembroke Dock
+2021-03-26,150000,SA72 6HD,D,N,F,106,,Gwyther Street,,Pembroke Dock
+2021-03-26,205000,SA72 6EW,D,N,F,22,,Donovan Reed Gardens,,Pembroke Dock
+2021-03-25,120000,SA72 6QS,T,N,F,3,,North Street,,Pembroke Dock
+2021-03-24,210000,SA72 6PG,S,N,F,25,,Pembroke Road,,Pembroke Dock
+2021-03-19,135000,SA72 6PB,T,N,F,72,,High Street,,Pembroke Dock
+2021-03-19,160000,SA72 6JY,T,N,F,43,,Front Street,,Pembroke Dock
+2021-03-16,319750,SA72 6UD,D,N,F,West Winds,,Pembroke Ferry,,Pembroke Dock
+2021-03-12,77500,SA72 6SJ,S,N,F,2,,Gothic Cottages,Pennar,Pembroke Dock
+2021-03-12,400000,SA72 6RA,D,N,F,40,,Ocean Way,Pennar,Pembroke Dock
+2021-03-12,80000,SA72 6ND,T,N,F,4,,Munro Court,,Pembroke Dock
+2021-03-11,132000,SA72 6HT,S,N,F,11,,St Andrews Road,,Pembroke Dock
+2021-03-11,105000,SA72 6EE,S,N,F,13,,Devonshire Road,,Pembroke Dock
+2021-03-05,213000,SA72 6UR,D,N,F,35,,Charles Thomas Avenue,,Pembroke Dock
+2021-03-05,110000,SA72 6QN,T,N,F,25,,Sycamore Street,,Pembroke Dock
+2021-03-01,175000,SA72 6UD,D,N,F,9,,Pembroke Ferry,,Pembroke Dock
+2021-02-26,137500,SA72 6TP,T,N,F,3,,Beach Road,Llanreath,Pembroke Dock
+2021-02-26,200000,SA72 6SN,D,N,F,Waterwynch,,Cross Park,Pennar,Pembroke Dock
+2021-02-26,157000,SA72 6QT,D,N,F,The Stables,,North Street,,Pembroke Dock
+2021-02-26,105000,SA72 6HG,T,N,F,95,,Bush Street,,Pembroke Dock
+2021-02-25,165000,SA72 6QH,D,N,F,6,,Furzy Bank,,Pembroke Dock
+2021-02-25,185000,SA72 4UF,D,N,F,10,,The Pound,Cosheston,Pembroke Dock
+2021-02-25,340000,SA72 4UA,D,N,F,"Greenways, 3",,Fosse Way,Cosheston,Pembroke Dock
+2021-02-24,291700,SA72 6TP,D,N,F,Llanreath House,,Beach Road,Llanreath,Pembroke Dock
+2021-02-24,185000,SA72 6SD,S,N,F,8,,Stranraer Avenue,Pennar,Pembroke Dock
+2021-02-24,180000,SA72 6RR,D,N,F,Rose Cottage,,Ferry Road,Pennar,Pembroke Dock
+2021-02-19,110000,SA72 6SH,T,N,F,1A,,Military Road,Pennar,Pembroke Dock
+2021-02-19,145500,SA72 6QN,T,N,F,17,,Sycamore Street,,Pembroke Dock
+2021-02-15,58000,SA72 6DF,F,N,L,Sussex Row,Flat 11,Llanion Park,,Pembroke Dock
+2021-02-12,82000,SA72 6RY,S,N,F,9,,Stranraer Road,Pennar,Pembroke Dock
+2021-02-05,139500,SA72 6RX,S,N,F,72,,Stranraer Road,Pennar,Pembroke Dock
+2021-02-05,80000,SA72 6AS,T,N,F,43,,Meyrick Street,,Pembroke Dock
+2021-01-29,138500,SA72 6LG,S,N,F,25,,St Peters Road,,Pembroke Dock
+2021-01-29,108000,SA72 6EN,T,N,F,32,,Arthur Street,,Pembroke Dock
+2021-01-27,1300000,SA72 4TY,D,N,F,Ferryway,,,Cosheston,Pembroke Dock
+2021-01-26,101000,SA72 6DT,F,N,L,58,,London Road,,Pembroke Dock
+2021-01-22,94000,SA72 6XH,T,N,F,1,,Pembroke Street,,Pembroke Dock
+2021-01-22,125000,SA72 6SN,S,N,F,14,,Cross Park,Pennar,Pembroke Dock
+2021-01-18,200000,SA72 6UR,D,N,F,41,,Charles Thomas Avenue,,Pembroke Dock
+2021-01-18,100000,SA72 6BD,T,N,F,37,,Prospect Place,,Pembroke Dock
+2021-01-15,190000,SA72 6EU,D,N,F,1,,The Parade Ground,,Pembroke Dock
+2021-01-12,125000,SA72 6QF,T,N,F,22,,Britannia Drive,,Pembroke Dock
+2021-01-08,122500,SA72 6RE,T,N,F,4,,Grove Street,Pennar,Pembroke Dock
+2021-01-08,230000,SA72 6EB,D,N,F,3,,Cenarth Close,,Pembroke Dock
+2021-01-05,150000,SA72 6EU,D,N,F,8,,The Parade Ground,,Pembroke Dock
+2021-01-04,105000,SA72 6SL,T,N,F,6,,Owen Street,Pennar,Pembroke Dock

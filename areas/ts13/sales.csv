@@ -1,0 +1,790 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-10,122500,TS13 4DT,T,N,F,14,,Cliffe Avenue,Carlin How,Saltburn-By-The-Sea
+2026-08-03,190000,TS13 4NY,S,N,F,8,,Laurel Park,Loftus,Saltburn-By-The-Sea
+2026-07-31,63500,TS13 4EL,T,N,F,24,,Westray Street,Carlin How,Saltburn-By-The-Sea
+2026-07-30,242000,TS13 5BH,T,N,F,"Thornwick, 61",,High Street,Staithes,Saltburn-By-The-Sea
+2026-07-20,230000,TS13 5BS,T,N,F,Atcot House,,Chapel Yard,Staithes,Saltburn-By-The-Sea
+2026-07-17,60000,TS13 4DR,T,N,F,54,,Gladstone Street,Carlin How,Saltburn-By-The-Sea
+2026-07-08,295000,TS13 4YD,D,N,F,1,,Hirds Drive,Loftus,Saltburn-By-The-Sea
+2026-06-26,161000,TS13 4PU,T,N,F,11,,Westfield Terrace,Loftus,Saltburn-By-The-Sea
+2026-06-26,150000,TS13 4LU,T,N,F,"Hideaway Cottage, 6",,Jackson Street,Loftus,Saltburn-By-The-Sea
+2026-06-25,125000,TS13 4RL,S,N,F,8,,West Park Avenue,Loftus,Saltburn-By-The-Sea
+2026-06-17,78500,TS13 4DQ,T,N,F,48,,Queen Street,Carlin How,Saltburn-By-The-Sea
+2026-06-11,96000,TS13 4EN,T,N,F,4,,Rawlinson Street,Carlin How,Saltburn-By-The-Sea
+2026-06-05,59995,TS13 4DJ,T,N,F,3,,Irene Street,Carlin How,Saltburn-By-The-Sea
+2026-05-18,330500,TS13 5BQ,T,N,F,Poplar House,,High Street,Staithes,Saltburn-By-The-Sea
+2026-05-08,400000,TS13 4TB,S,N,F,4,,Liverton Village,Liverton,Saltburn-By-The-Sea
+2026-04-30,200000,TS13 5BH,T,N,F,Beckfoot Cottage,,High Street,Staithes,Saltburn-By-The-Sea
+2026-04-29,145000,TS13 4HA,T,N,F,34,,High Street,Loftus,Saltburn-By-The-Sea
+2026-04-22,118000,TS13 4SE,T,N,F,13,,St Hildas Terrace,Loftus,Saltburn-By-The-Sea
+2026-04-22,375000,TS13 4QA,D,N,F,3,,Gaskell Lane,Loftus,Saltburn-By-The-Sea
+2026-04-15,89000,TS13 4LR,T,N,F,5,,Tyne Street,Loftus,Saltburn-By-The-Sea
+2026-04-13,265000,TS13 4NW,D,N,F,Bursea,,Whitby Road,Easington,Saltburn-By-The-Sea
+2026-04-13,53000,TS13 4DN,T,N,F,20,,Coronation Street,Carlin How,Saltburn-By-The-Sea
+2026-04-10,173000,TS13 5HE,T,N,F,26,,Browns Terrace,Hinderwell,Saltburn-By-The-Sea
+2026-04-08,88000,TS13 4RA,T,N,F,3,,Railway Terrace,Loftus,Saltburn-By-The-Sea
+2026-04-08,188000,TS13 4NZ,D,N,F,3,,Sunnyfield Gardens,Easington,Saltburn-By-The-Sea
+2026-03-27,190000,TS13 5AU,S,N,F,11,,Seaton Close,Staithes,Saltburn-By-The-Sea
+2026-03-27,78000,TS13 4QG,T,N,F,19,,Liverton Terrace,Liverton,Saltburn-By-The-Sea
+2026-03-26,100000,TS13 4HP,S,N,F,St. Leonards Church Hall,1,North Road,Loftus,Saltburn-By-The-Sea
+2026-03-24,94995,TS13 4RU,T,N,F,27,,Lumley Street,Loftus,Saltburn-By-The-Sea
+2026-03-23,175000,TS13 4AJ,S,N,F,5,,Mill Lane,Skinningrove,Saltburn-By-The-Sea
+2026-03-20,73000,TS13 4DH,T,N,F,42,,Grosvenor Terrace,Carlin How,Saltburn-By-The-Sea
+2026-03-13,122000,TS13 4DT,S,N,F,48,,Cliffe Avenue,Carlin How,Saltburn-By-The-Sea
+2026-03-05,225000,TS13 4NN,D,N,F,11,,Glebe Gardens,Easington,Saltburn-By-The-Sea
+2026-02-27,585000,TS13 5LP,D,N,F,27,,Ryeland Lane,Ellerby,Saltburn-By-The-Sea
+2026-02-24,140000,TS13 4NN,S,N,F,61,,Glebe Gardens,Easington,Saltburn-By-The-Sea
+2026-02-20,165000,TS13 5HJ,T,N,F,12,,Pond Farm Close,Hinderwell,Saltburn-By-The-Sea
+2026-02-16,39999,TS13 4LR,T,N,F,2,,Tyne Street,Loftus,Saltburn-By-The-Sea
+2026-02-09,390000,TS13 5BH,T,N,L,Chapel Garth,,High Street,Staithes,Saltburn-By-The-Sea
+2026-02-06,185000,TS13 4JN,D,N,F,7,,Boulby Drive,Loftus,Saltburn-By-The-Sea
+2026-01-30,257800,TS13 5BW,T,N,F,Five Bells,,Garth Ends,Staithes,Saltburn-By-The-Sea
+2026-01-30,110000,TS13 4LB,T,N,F,25,,East Crescent,Loftus,Saltburn-By-The-Sea
+2026-01-26,245000,TS13 5DF,T,N,F,1,,Barras Square,Staithes,Saltburn-By-The-Sea
+2026-01-21,200000,TS13 5BN,T,N,F,The Nook,,Boathouse Yard,Staithes,Saltburn-By-The-Sea
+2026-01-15,135000,TS13 4NF,T,N,F,52,,Barnard Road,Easington,Saltburn-By-The-Sea
+2026-01-09,100000,TS13 4QP,S,N,F,22,,St Leonards Close,Liverton,Saltburn-By-The-Sea
+2025-12-22,250000,TS13 5HB,D,N,F,6,,Coronation Avenue,Hinderwell,Saltburn-By-The-Sea
+2025-12-19,95000,TS13 4RU,T,N,F,42,,Lumley Street,Loftus,Saltburn-By-The-Sea
+2025-12-18,210000,TS13 4NN,S,N,F,4,,Glebe Gardens,Easington,Saltburn-By-The-Sea
+2025-12-17,195000,TS13 4HJ,S,N,F,5,,Hall Grounds,Loftus,Saltburn-By-The-Sea
+2025-12-15,250000,TS13 5ES,S,N,F,68,,High Street,Hinderwell,Saltburn-By-The-Sea
+2025-12-15,70000,TS13 4EL,T,N,F,16,,Westray Street,Carlin How,Saltburn-By-The-Sea
+2025-12-12,135000,TS13 4NZ,S,N,F,14,,Sunnyfield Gardens,Easington,Saltburn-By-The-Sea
+2025-12-12,75000,TS13 4EP,S,N,F,4,,Kennedy Crescent,Carlin How,Saltburn-By-The-Sea
+2025-12-11,235000,TS13 5JE,D,N,F,11,,Nettledale Close,Runswick,Saltburn-By-The-Sea
+2025-12-09,52500,TS13 4AE,T,N,F,56,,Maynard Street,Carlin How,Saltburn-By-The-Sea
+2025-12-08,115000,TS13 4JF,T,N,F,11,,North Terrace,Loftus,Saltburn-By-The-Sea
+2025-11-25,89950,TS13 4DT,T,N,F,7,,Cliffe Avenue,Carlin How,Saltburn-By-The-Sea
+2025-11-14,84000,TS13 4SB,T,N,F,40,,Hartington Street,Loftus,Saltburn-By-The-Sea
+2025-11-14,135000,TS13 4NZ,S,N,F,4,,Sunnyfield Gardens,Easington,Saltburn-By-The-Sea
+2025-11-14,190000,TS13 4NN,S,N,F,26,,Glebe Gardens,Easington,Saltburn-By-The-Sea
+2025-11-14,253000,TS13 4JB,T,N,F,17,,Cleveland Street,Loftus,Saltburn-By-The-Sea
+2025-11-07,222500,TS13 5BU,T,N,F,The Cottage,,Beckside,Staithes,Saltburn-By-The-Sea
+2025-11-07,320000,TS13 4NT,D,N,F,Glebeholme,,Grinkle Lane,Easington,Saltburn-By-The-Sea
+2025-11-05,147000,TS13 4RH,T,N,F,70,,West Road,Loftus,Saltburn-By-The-Sea
+2025-11-03,79000,TS13 4SA,T,N,F,30,,High Row,Loftus,Saltburn-By-The-Sea
+2025-10-31,128000,TS13 4BX,T,N,F,3,,Middle Gill Close,Loftus,Saltburn-By-The-Sea
+2025-10-30,250000,TS13 5JE,D,N,F,10,,Nettledale Close,Runswick,Saltburn-By-The-Sea
+2025-10-24,310000,TS13 5DB,T,N,F,Hillsover,,Church Street,Staithes,Saltburn-By-The-Sea
+2025-10-24,81000,TS13 4LB,T,N,F,3,,East Crescent,Loftus,Saltburn-By-The-Sea
+2025-10-24,84000,TS13 4EN,T,N,F,23,,Rawlinson Street,Carlin How,Saltburn-By-The-Sea
+2025-10-22,275000,TS13 5DB,S,N,F,Anchor Cottage,,Church Street,Staithes,Saltburn-By-The-Sea
+2025-10-22,130000,TS13 4BJ,T,N,F,4,,Marine Terrace,Skinningrove,Saltburn-By-The-Sea
+2025-10-17,172000,TS13 5HR,F,N,L,40,Flat 1,Hinderwell Lane,Runswick,Saltburn-By-The-Sea
+2025-10-17,184000,TS13 5AG,T,N,F,61,,Staithes Lane,Staithes,Saltburn-By-The-Sea
+2025-10-13,175000,TS13 4PH,D,N,F,5,,Rosecroft Avenue,Loftus,Saltburn-By-The-Sea
+2025-10-13,114000,TS13 4JZ,T,N,F,5,,Springhead Terrace,Loftus,Saltburn-By-The-Sea
+2025-10-10,260000,TS13 5AE,D,N,F,15,,Cliff Road,Staithes,Saltburn-By-The-Sea
+2025-10-10,247500,TS13 4PR,D,N,F,Park View,,Duncan Place,Loftus,Saltburn-By-The-Sea
+2025-10-09,193000,TS13 5LF,T,N,F,37,,Long Row,Port Mulgrave,Saltburn-By-The-Sea
+2025-10-03,120000,TS13 4SG,S,N,F,42,,Queens Road,Loftus,Saltburn-By-The-Sea
+2025-10-03,65000,TS13 4HZ,T,N,F,19,,Gladstone Street,Loftus,Saltburn-By-The-Sea
+2025-09-30,102000,TS13 4LW,T,N,F,18,,Tees Street,Loftus,Saltburn-By-The-Sea
+2025-09-30,74000,TS13 4DA,T,N,F,12,,Dixon Street,Carlin How,Saltburn-By-The-Sea
+2025-09-29,83500,TS13 4EP,T,N,F,8,,Kennedy Crescent,Carlin How,Saltburn-By-The-Sea
+2025-09-26,295000,TS13 5BJ,S,N,F,Ardbank,,Elliotts Yard,Staithes,Saltburn-By-The-Sea
+2025-09-26,352000,TS13 5AD,T,N,L,42,,Staithes Lane,Staithes,Saltburn-By-The-Sea
+2025-09-26,145000,TS13 4NN,S,N,F,18,,Glebe Gardens,Easington,Saltburn-By-The-Sea
+2025-09-23,70000,TS13 4QR,T,N,F,33,,Graham Street,Liverton,Saltburn-By-The-Sea
+2025-09-22,85000,TS13 4QG,T,N,F,2,,Liverton Terrace,Liverton,Saltburn-By-The-Sea
+2025-09-16,145500,TS13 4NZ,S,N,F,22,,Sunnyfield Gardens,Easington,Saltburn-By-The-Sea
+2025-09-12,58000,TS13 4PW,T,N,F,21,,Zetland Road,Loftus,Saltburn-By-The-Sea
+2025-09-12,176500,TS13 4NU,S,N,F,9,,Park Lane,Easington,Saltburn-By-The-Sea
+2025-09-12,39950,TS13 4LB,T,N,F,18,,East Crescent,Loftus,Saltburn-By-The-Sea
+2025-09-12,130000,TS13 4HG,T,N,F,64,,High Street,Loftus,Saltburn-By-The-Sea
+2025-09-05,117000,TS13 4SL,S,N,F,26,,Coronation Road,Loftus,Saltburn-By-The-Sea
+2025-09-05,243000,TS13 4JN,D,N,F,24,,Boulby Drive,Loftus,Saltburn-By-The-Sea
+2025-09-01,185000,TS13 4PE,S,N,F,5,,Ryelands Park,Easington,Saltburn-By-The-Sea
+2025-08-29,170000,TS13 5BQ,T,N,F,Stonegarth,,High Street,Staithes,Saltburn-By-The-Sea
+2025-08-27,68000,TS13 4SA,T,N,F,43,,High Row,Loftus,Saltburn-By-The-Sea
+2025-08-27,55000,TS13 4LN,T,N,F,4,,Robinson Street,Loftus,Saltburn-By-The-Sea
+2025-08-26,102005,TS13 4NF,T,N,F,18,,Barnard Road,Easington,Saltburn-By-The-Sea
+2025-08-18,105500,TS13 4LP,T,N,F,4,,Railway Terrace,East Loftus,Saltburn-By-The-Sea
+2025-08-18,92500,TS13 4JB,T,N,F,14,,Cleveland Street,Loftus,Saltburn-By-The-Sea
+2025-08-15,140000,TS13 5DB,T,N,F,Foretop Cottage,,Church Street,Staithes,Saltburn-By-The-Sea
+2025-08-14,95000,TS13 4HX,T,N,F,5,,Seymour Hill Terrace,Loftus,Saltburn-By-The-Sea
+2025-08-04,165000,TS13 5AY,S,N,F,63,,Seaton Crescent,Staithes,Saltburn-By-The-Sea
+2025-08-01,89500,TS13 4QG,T,N,F,13,,Liverton Terrace,Liverton,Saltburn-By-The-Sea
+2025-08-01,360000,TS13 4NA,D,N,F,The Chapel,,Loy Lane,Loftus,Saltburn-By-The-Sea
+2025-07-31,65500,TS13 4DN,T,N,F,2,,Coronation Street,Carlin How,Saltburn-By-The-Sea
+2025-07-30,91500,TS13 4JF,T,N,F,12,,North Terrace,Loftus,Saltburn-By-The-Sea
+2025-07-25,270000,TS13 4AN,S,N,F,2,,White Cliffe Cottages,Skinningrove,Saltburn-By-The-Sea
+2025-07-24,85000,TS13 4RW,T,N,F,9,,West Road,Loftus,Saltburn-By-The-Sea
+2025-07-18,315000,TS13 5LX,D,N,F,24,,The Lane,Mickleby,Saltburn-By-The-Sea
+2025-07-17,200000,TS13 4PB,D,N,F,5,,Wheatlands Drive,Easington,Saltburn-By-The-Sea
+2025-07-11,200500,TS13 5BA,D,N,F,8,,Fairfield Road,Staithes,Saltburn-By-The-Sea
+2025-07-11,162500,TS13 4JW,S,N,F,78,,Cromwell Avenue,Loftus,Saltburn-By-The-Sea
+2025-07-11,152500,TS13 4DF,D,N,F,1,,Carlin Park,Carlin How,Saltburn-By-The-Sea
+2025-07-08,120000,TS13 4PR,S,N,F,1A,,Duncan Place,Loftus,Saltburn-By-The-Sea
+2025-06-27,103000,TS13 4XP,S,N,F,58,,Clover Hill Drive,Loftus,Saltburn-By-The-Sea
+2025-06-16,118000,TS13 4XA,T,N,F,2,,Ash Grove,Loftus,Saltburn-By-The-Sea
+2025-06-13,86000,TS13 4QR,T,N,F,17,,Graham Street,Liverton,Saltburn-By-The-Sea
+2025-06-13,129500,TS13 4PS,S,N,F,78,,Coronation Road,Loftus,Saltburn-By-The-Sea
+2025-06-09,80000,TS13 4DW,T,N,F,35,,Coronation Street,Carlin How,Saltburn-By-The-Sea
+2025-06-06,235000,TS13 4NN,D,N,F,57,,Glebe Gardens,Easington,Saltburn-By-The-Sea
+2025-06-06,129000,TS13 4GB,S,N,F,4,,Sanderson Grove,Loftus,Saltburn-By-The-Sea
+2025-05-29,56500,TS13 4DA,T,N,F,3,,Dixon Street,Carlin How,Saltburn-By-The-Sea
+2025-05-28,212500,TS13 5HB,S,N,F,12,,Coronation Avenue,Hinderwell,Saltburn-By-The-Sea
+2025-05-23,92000,TS13 4SG,S,N,F,47,,Queens Road,Loftus,Saltburn-By-The-Sea
+2025-05-23,25000,TS13 4QQ,T,N,F,4,,Downe Street,Liverton,Saltburn-By-The-Sea
+2025-05-22,51500,TS13 4AE,T,N,F,37,,Maynard Street,Carlin How,Saltburn-By-The-Sea
+2025-05-21,210000,TS13 5LD,S,N,F,79,,Rosedale Lane,Port Mulgrave,Saltburn-By-The-Sea
+2025-05-19,95000,TS13 4AU,T,N,F,15,,New Company Row,Skinningrove,Saltburn-By-The-Sea
+2025-05-16,95950,TS13 4RU,T,N,F,33,,Lumley Street,Loftus,Saltburn-By-The-Sea
+2025-05-16,95000,TS13 4PR,T,N,F,7,,Duncan Place,Loftus,Saltburn-By-The-Sea
+2025-05-16,139950,TS13 4PL,T,N,F,5,,Co Operative Terrace,Loftus,Saltburn-By-The-Sea
+2025-05-16,176000,TS13 4HP,T,N,F,8,,North Road,Loftus,Saltburn-By-The-Sea
+2025-05-16,125000,TS13 4DT,S,N,F,50,,Cliffe Avenue,Carlin How,Saltburn-By-The-Sea
+2025-05-15,235000,TS13 4PH,D,N,F,32,,Rosecroft Avenue,Loftus,Saltburn-By-The-Sea
+2025-05-14,130000,TS13 4NF,T,N,F,11,,Barnard Road,Easington,Saltburn-By-The-Sea
+2025-05-02,65500,TS13 4EN,T,N,F,15,,Rawlinson Street,Carlin How,Saltburn-By-The-Sea
+2025-04-30,96000,TS13 4SN,S,N,F,55,,Coronation Road,Loftus,Saltburn-By-The-Sea
+2025-04-25,78000,TS13 4JF,T,N,F,16,,North Terrace,Loftus,Saltburn-By-The-Sea
+2025-04-15,75000,TS13 4BS,T,N,F,3,,Primrose Hill,Skinningrove,Saltburn-By-The-Sea
+2025-04-11,76000,TS13 4SB,T,N,F,2,,Hartington Street,Loftus,Saltburn-By-The-Sea
+2025-04-10,65000,TS13 4DN,T,N,F,10,,Coronation Street,Carlin How,Saltburn-By-The-Sea
+2025-04-04,379950,TS13 5LP,S,N,F,Middle Farm,The Granary,Ryeland Lane,Ellerby,Saltburn-By-The-Sea
+2025-04-04,145000,TS13 5AJ,T,N,F,20,,Staithes Lane,Staithes,Saltburn-By-The-Sea
+2025-03-31,120000,TS13 4DT,T,N,F,30,,Cliffe Avenue,Carlin How,Saltburn-By-The-Sea
+2025-03-28,200000,TS13 4NE,T,N,F,Townend Farm,4,Whitby Road,Easington,Saltburn-By-The-Sea
+2025-03-28,60000,TS13 4EN,T,N,F,16,,Rawlinson Street,Carlin How,Saltburn-By-The-Sea
+2025-03-28,70000,TS13 4AE,T,N,F,45,,Maynard Street,Carlin How,Saltburn-By-The-Sea
+2025-03-26,400000,TS13 4TB,D,N,F,Police House,,Liverton Village,Liverton,Saltburn-By-The-Sea
+2025-03-26,65500,TS13 4AU,T,N,F,21,,New Company Row,Skinningrove,Saltburn-By-The-Sea
+2025-03-25,78000,TS13 4RU,T,N,F,11,,Lumley Street,Loftus,Saltburn-By-The-Sea
+2025-03-25,117000,TS13 4RR,S,N,F,3,,Co Operative Close,Loftus,Saltburn-By-The-Sea
+2025-03-21,224000,TS13 5LY,S,N,F,4,,Low Lane,Mickleby,Saltburn-By-The-Sea
+2025-03-17,110000,TS13 4JB,T,N,F,2,,Cleveland Street,Loftus,Saltburn-By-The-Sea
+2025-03-14,65000,TS13 4PX,T,N,F,9,,Station Road,Loftus,Saltburn-By-The-Sea
+2025-02-28,600000,TS13 5LU,D,N,F,23,,The Lane,Mickleby,Saltburn-By-The-Sea
+2025-02-24,40000,TS13 4RD,T,N,F,26,,Dundas Street,Loftus,Saltburn-By-The-Sea
+2025-02-21,160000,TS13 4PU,T,N,F,10,,Westfield Terrace,Loftus,Saltburn-By-The-Sea
+2025-02-21,110500,TS13 4JF,T,N,F,24,,North Terrace,Loftus,Saltburn-By-The-Sea
+2025-02-20,110000,TS13 5AD,S,N,F,83B,,Staithes Lane,Staithes,Saltburn-By-The-Sea
+2025-02-14,140000,TS13 5AY,S,N,F,5,,Seaton Crescent,Staithes,Saltburn-By-The-Sea
+2025-02-10,130000,TS13 5HH,S,N,F,20,,Moor View,Hinderwell,Saltburn-By-The-Sea
+2025-02-07,490000,TS13 4JH,T,N,F,Hummersea,The Barns,,Loftus,Saltburn-By-The-Sea
+2025-02-07,420000,TS13 4HH,D,N,F,Kirkwood,,High Street,Loftus,Saltburn-By-The-Sea
+2025-02-04,65000,TS13 4LS,T,N,F,11,,Tweed Street,Loftus,Saltburn-By-The-Sea
+2025-02-03,130000,TS13 4PU,T,N,F,7,,Westfield Terrace,Loftus,Saltburn-By-The-Sea
+2025-01-31,352000,TS13 5AD,T,N,F,44,,Staithes Lane,Staithes,Saltburn-By-The-Sea
+2025-01-30,89995,TS13 4QR,T,N,F,3,,Graham Street,Liverton,Saltburn-By-The-Sea
+2025-01-30,135000,TS13 4BD,T,N,F,4,,The Square,Skinningrove,Saltburn-By-The-Sea
+2025-01-29,245000,TS13 5BQ,T,N,F,Lingdale Cottage,,High Street,Staithes,Saltburn-By-The-Sea
+2025-01-24,157500,TS13 4XR,S,N,F,6,,Golden Way,Loftus,Saltburn-By-The-Sea
+2025-01-24,128000,TS13 4HG,T,N,F,70,,High Street,Loftus,Saltburn-By-The-Sea
+2025-01-23,380000,TS13 5HR,D,N,F,38,,Hinderwell Lane,Runswick,Saltburn-By-The-Sea
+2025-01-20,50000,TS13 4AE,T,N,F,46,,Maynard Street,Carlin How,Saltburn-By-The-Sea
+2025-01-13,300000,TS13 5AE,S,N,F,32,,Cliff Road,Staithes,Saltburn-By-The-Sea
+2025-01-10,50000,TS13 4SD,T,N,F,1,,Valley Avenue,Loftus,Saltburn-By-The-Sea
+2025-01-06,320000,TS13 4UX,T,N,F,The Dairy,,,Loftus,Saltburn-By-The-Sea
+2025-01-03,420000,TS13 5LD,D,N,F,82,,Rosedale Lane,Port Mulgrave,Saltburn-By-The-Sea
+2024-12-19,142500,TS13 4JP,S,N,F,5,,Grendale Court,Loftus,Saltburn-By-The-Sea
+2024-12-18,115000,TS13 4SL,S,N,F,52,,Coronation Road,Loftus,Saltburn-By-The-Sea
+2024-12-17,80000,TS13 4HZ,T,N,F,17,,Gladstone Street,Loftus,Saltburn-By-The-Sea
+2024-12-16,139000,TS13 4BX,T,N,F,42,,Middle Gill Close,Loftus,Saltburn-By-The-Sea
+2024-12-06,153000,TS13 4JW,S,N,F,36,,Cromwell Avenue,Loftus,Saltburn-By-The-Sea
+2024-12-06,147000,TS13 4BX,T,N,F,2,,Middle Gill Close,Loftus,Saltburn-By-The-Sea
+2024-12-04,190000,TS13 5HQ,S,N,F,123,,High Street,Hinderwell,Saltburn-By-The-Sea
+2024-12-04,77500,TS13 5HN,T,N,L,8,,Moor View Court,Hinderwell,Saltburn-By-The-Sea
+2024-12-04,27500,TS13 4DN,T,N,F,30,,Coronation Street,Carlin How,Saltburn-By-The-Sea
+2024-12-03,83000,TS13 4BP,T,N,F,169,,Grove Hill,Skinningrove,Saltburn-By-The-Sea
+2024-12-02,215000,TS13 4SP,D,N,F,12,,Fircroft Court,Loftus,Saltburn-By-The-Sea
+2024-11-29,97000,TS13 4QU,T,N,F,24,,Cleveland Street,Liverton,Saltburn-By-The-Sea
+2024-11-29,75000,TS13 4QU,T,N,F,16,,Cleveland Street,Liverton,Saltburn-By-The-Sea
+2024-11-29,230000,TS13 4NU,D,N,F,3,,Park Lane,Easington,Saltburn-By-The-Sea
+2024-11-25,67000,TS13 4SH,T,N,F,40,,Rosedale Crescent,Loftus,Saltburn-By-The-Sea
+2024-11-25,119000,TS13 4PT,T,N,F,175,,Coronation Road,Loftus,Saltburn-By-The-Sea
+2024-11-25,56000,TS13 4EL,T,N,F,19,,Westray Street,Carlin How,Saltburn-By-The-Sea
+2024-11-22,160000,TS13 4JP,D,N,F,22,,Grendale Court,Loftus,Saltburn-By-The-Sea
+2024-11-19,78000,TS13 4JZ,T,N,F,5,,Springhead Terrace,Loftus,Saltburn-By-The-Sea
+2024-11-15,364000,TS13 4SP,D,N,F,7,,Fircroft Court,Loftus,Saltburn-By-The-Sea
+2024-11-15,139950,TS13 4PH,S,N,F,7,,Rosecroft Avenue,Loftus,Saltburn-By-The-Sea
+2024-11-15,67000,TS13 4DR,T,N,F,22,,Gladstone Street,Carlin How,Saltburn-By-The-Sea
+2024-11-04,100000,TS13 4SN,S,N,F,17,,Coronation Road,Loftus,Saltburn-By-The-Sea
+2024-11-04,100000,TS13 4AF,T,N,F,2,,Pecten Court,Liverton,Saltburn-By-The-Sea
+2024-10-31,140000,TS13 5HB,D,N,F,6,,Coronation Avenue,Hinderwell,Saltburn-By-The-Sea
+2024-10-30,520000,TS13 5HS,D,N,F,46,,Ellerby Lane,Runswick,Saltburn-By-The-Sea
+2024-10-29,162000,TS13 4BX,D,N,F,48,,Middle Gill Close,Loftus,Saltburn-By-The-Sea
+2024-10-25,630000,TS13 4UX,S,N,F,Alum Cottage,,,Loftus,Saltburn-By-The-Sea
+2024-10-25,110000,TS13 4SJ,S,N,F,34,,Rosedale Crescent,Loftus,Saltburn-By-The-Sea
+2024-10-25,180000,TS13 4JB,T,N,F,1,,Cleveland Street,Loftus,Saltburn-By-The-Sea
+2024-10-25,62500,TS13 4HZ,T,N,F,29,,Gladstone Street,Loftus,Saltburn-By-The-Sea
+2024-10-21,150000,TS13 4JN,S,N,F,37,,Boulby Drive,Loftus,Saltburn-By-The-Sea
+2024-10-18,58500,TS13 4DR,T,N,F,40,,Gladstone Street,Carlin How,Saltburn-By-The-Sea
+2024-10-18,55000,TS13 4AE,T,N,F,51,,Maynard Street,Carlin How,Saltburn-By-The-Sea
+2024-10-17,110000,TS13 4DT,T,N,F,8,,Cliffe Avenue,Carlin How,Saltburn-By-The-Sea
+2024-10-16,75000,TS13 4HG,F,N,L,55,Apartment 1,High Street,Loftus,Saltburn-By-The-Sea
+2024-10-14,87000,TS13 4SA,T,N,F,12,,High Row,Loftus,Saltburn-By-The-Sea
+2024-10-11,237500,TS13 5BS,T,N,F,Dunroamin,,Chapel Yard,Staithes,Saltburn-By-The-Sea
+2024-10-11,78000,TS13 4DT,T,N,F,7,,Cliffe Avenue,Carlin How,Saltburn-By-The-Sea
+2024-10-04,370000,TS13 4SP,D,N,F,4,,Fircroft Court,Loftus,Saltburn-By-The-Sea
+2024-10-02,70000,TS13 4RU,T,N,F,16,,Lumley Street,Loftus,Saltburn-By-The-Sea
+2024-09-27,167500,TS13 4NZ,S,N,F,2,,Sunnyfield Gardens,Easington,Saltburn-By-The-Sea
+2024-09-09,183000,TS13 5HJ,S,N,F,19,,Pond Farm Close,Hinderwell,Saltburn-By-The-Sea
+2024-09-09,330000,TS13 4PB,D,N,F,6,,Wheatlands Drive,Easington,Saltburn-By-The-Sea
+2024-09-06,130000,TS13 4BX,S,N,F,66,,Middle Gill Close,Loftus,Saltburn-By-The-Sea
+2024-08-30,695000,TS13 5LX,D,N,F,"High Farm, 4",,The Lane,Mickleby,Saltburn-By-The-Sea
+2024-08-30,255000,TS13 5HR,T,N,F,20,,Hinderwell Lane,Runswick,Saltburn-By-The-Sea
+2024-08-30,73000,TS13 4EL,T,N,F,20,,Westray Street,Carlin How,Saltburn-By-The-Sea
+2024-08-27,138000,TS13 4PL,T,N,F,4,,Co Operative Terrace,Loftus,Saltburn-By-The-Sea
+2024-08-23,89000,TS13 4QR,T,N,F,9,,Graham Street,Liverton,Saltburn-By-The-Sea
+2024-08-23,57000,TS13 4HZ,T,N,F,28,,Gladstone Street,Loftus,Saltburn-By-The-Sea
+2024-08-23,180000,TS13 4BX,D,N,F,55,,Middle Gill Close,Loftus,Saltburn-By-The-Sea
+2024-08-22,260000,TS13 4YA,D,N,F,1,,Hillcrest Drive,Loftus,Saltburn-By-The-Sea
+2024-08-22,139000,TS13 4BX,S,N,F,37,,Middle Gill Close,Loftus,Saltburn-By-The-Sea
+2024-08-16,425000,TS13 5LU,S,N,L,15,,The Lane,Mickleby,Saltburn-By-The-Sea
+2024-08-16,365000,TS13 5LP,S,N,F,2A,,Ryeland Lane,Ellerby,Saltburn-By-The-Sea
+2024-08-14,355000,TS13 4NX,D,N,F,31,,Twizziegill View,Easington,Saltburn-By-The-Sea
+2024-08-09,125000,TS13 4GB,S,N,F,6,,Sanderson Grove,Loftus,Saltburn-By-The-Sea
+2024-08-09,50000,TS13 4DW,T,N,F,7,,Coronation Street,Carlin How,Saltburn-By-The-Sea
+2024-08-09,50000,TS13 4DW,T,N,F,7,,Coronation Street,Carlin How,Saltburn-By-The-Sea
+2024-08-07,117500,TS13 4NL,T,N,F,35,,Abingdon Road,Easington,Saltburn-By-The-Sea
+2024-08-07,112000,TS13 4HX,T,N,F,12,,Seymour Hill Terrace,Loftus,Saltburn-By-The-Sea
+2024-08-06,475000,TS13 5JS,D,N,F,30,,Porret Lane,Hinderwell,Saltburn-By-The-Sea
+2024-08-06,109500,TS13 4JB,T,N,F,13,,Cleveland Street,Loftus,Saltburn-By-The-Sea
+2024-07-29,252500,TS13 5JS,S,N,F,1,,Sunny Corner,Hinderwell,Saltburn-By-The-Sea
+2024-07-19,160000,TS13 5AD,S,N,F,28,,Staithes Lane,Staithes,Saltburn-By-The-Sea
+2024-07-19,182500,TS13 4HP,T,N,F,Forge House,,North Road,Loftus,Saltburn-By-The-Sea
+2024-07-16,265000,TS13 4NX,T,N,F,23,,Twizziegill View,Easington,Saltburn-By-The-Sea
+2024-07-15,170000,TS13 5AE,S,N,F,5,,Cliff Road,Staithes,Saltburn-By-The-Sea
+2024-07-12,285000,TS13 4UX,D,N,F,Street House Farm,The Stables,,Loftus,Saltburn-By-The-Sea
+2024-07-11,192000,TS13 5HR,F,N,L,40,Flat 1,Hinderwell Lane,Runswick,Saltburn-By-The-Sea
+2024-07-11,80000,TS13 4QL,T,N,F,8,,St Cuthberts Walk,Liverton,Saltburn-By-The-Sea
+2024-07-09,70000,TS13 4HZ,T,N,F,33,,Gladstone Street,Loftus,Saltburn-By-The-Sea
+2024-07-08,81000,TS13 4EP,S,N,F,4,,Kennedy Crescent,Carlin How,Saltburn-By-The-Sea
+2024-07-05,290000,TS13 5JZ,D,N,F,5,,Rosedale Lane,Port Mulgrave,Saltburn-By-The-Sea
+2024-07-05,105000,TS13 4HX,T,N,F,4,,Seymour Hill Terrace,Loftus,Saltburn-By-The-Sea
+2024-07-03,90000,TS13 4RU,T,N,F,14,,Lumley Street,Loftus,Saltburn-By-The-Sea
+2024-07-03,85000,TS13 4HG,F,N,L,55B,,High Street,Loftus,Saltburn-By-The-Sea
+2024-07-01,215000,TS13 5AG,S,N,F,71,,Staithes Lane,Staithes,Saltburn-By-The-Sea
+2024-07-01,190000,TS13 4NE,S,N,F,Townend Farm,7,Whitby Road,Easington,Saltburn-By-The-Sea
+2024-06-28,335000,TS13 5DB,T,N,F,Windsor House,,Church Street,Staithes,Saltburn-By-The-Sea
+2024-06-28,220000,TS13 5BH,T,N,F,Brunswick,,High Street,Staithes,Saltburn-By-The-Sea
+2024-06-28,63000,TS13 4RB,T,N,F,12,,Newcomen Terrace,Loftus,Saltburn-By-The-Sea
+2024-06-27,156000,TS13 5AP,S,N,F,30,,Captain Cooks Close,Staithes,Saltburn-By-The-Sea
+2024-06-25,220000,TS13 5BQ,S,N,F,Gugs Cottage,,High Street,Staithes,Saltburn-By-The-Sea
+2024-06-17,235000,TS13 4NN,D,N,F,1,,Glebe Gardens,Easington,Saltburn-By-The-Sea
+2024-06-10,225000,TS13 4NN,D,N,F,11,,Glebe Gardens,Easington,Saltburn-By-The-Sea
+2024-06-07,165000,TS13 5AH,T,N,F,23,,Staithes Lane,Staithes,Saltburn-By-The-Sea
+2024-06-03,700000,TS13 5LT,D,N,F,Mickleby Lodge,,The Lane,Mickleby,Saltburn-By-The-Sea
+2024-06-03,115000,TS13 4RR,S,N,F,2,,Co Operative Close,Loftus,Saltburn-By-The-Sea
+2024-05-31,66000,TS13 4RU,T,N,F,42,,Lumley Street,Loftus,Saltburn-By-The-Sea
+2024-05-28,188000,TS13 4JU,S,N,F,3,,South Loftus,,Saltburn-By-The-Sea
+2024-05-24,128000,TS13 4NN,S,N,F,54,,Glebe Gardens,Easington,Saltburn-By-The-Sea
+2024-05-24,88000,TS13 4HA,T,N,F,48,,High Street,Loftus,Saltburn-By-The-Sea
+2024-05-23,1150000,TS13 5HU,D,N,F,Seaview,,,Runswick,Saltburn-By-The-Sea
+2024-05-23,250000,TS13 5HP,S,N,F,35,,Runswick Lane,Hinderwell,Saltburn-By-The-Sea
+2024-05-21,150000,TS13 4NU,D,N,F,2,,Park Lane,Easington,Saltburn-By-The-Sea
+2024-05-10,105000,TS13 4SN,S,N,F,53,,Coronation Road,Loftus,Saltburn-By-The-Sea
+2024-05-03,92500,TS13 4QJ,S,N,F,2,,Liverton Terrace South,Liverton,Saltburn-By-The-Sea
+2024-04-30,106000,TS13 5ET,F,N,F,63,,High Street,Hinderwell,Saltburn-By-The-Sea
+2024-04-25,106300,TS13 4HX,T,N,F,9,,Seymour Hill Terrace,Loftus,Saltburn-By-The-Sea
+2024-04-24,151200,TS13 4PT,S,N,F,163,,Coronation Road,Loftus,Saltburn-By-The-Sea
+2024-04-19,110000,TS13 4RP,T,N,F,26,,West Road,Loftus,Saltburn-By-The-Sea
+2024-04-17,120000,TS13 5AZ,S,N,F,44,,Seaton Crescent,Staithes,Saltburn-By-The-Sea
+2024-04-17,169402,TS13 4SP,D,N,F,15,,Fircroft Court,Loftus,Saltburn-By-The-Sea
+2024-04-12,162500,TS13 4NN,S,N,F,62,,Glebe Gardens,Easington,Saltburn-By-The-Sea
+2024-04-09,90000,TS13 4BS,T,N,F,33,,Primrose Hill,Skinningrove,Saltburn-By-The-Sea
+2024-04-08,53000,TS13 4EP,T,N,F,7,,Kennedy Crescent,Carlin How,Saltburn-By-The-Sea
+2024-03-26,435000,TS13 5LX,D,N,F,28,,The Lane,Mickleby,Saltburn-By-The-Sea
+2024-03-20,50000,TS13 4BN,T,N,F,137,,Zetland Row,Skinningrove,Saltburn-By-The-Sea
+2024-03-18,70000,TS13 4JX,T,N,F,2,,Dam Street,Loftus,Saltburn-By-The-Sea
+2024-03-15,101500,TS13 4JF,T,N,F,11,,North Terrace,Loftus,Saltburn-By-The-Sea
+2024-03-08,50000,TS13 4LS,T,N,F,1,,Tweed Street,Loftus,Saltburn-By-The-Sea
+2024-03-08,52500,TS13 4EP,T,N,F,8,,Kennedy Crescent,Carlin How,Saltburn-By-The-Sea
+2024-03-01,63000,TS13 4JA,T,N,F,13,,East Street,Loftus,Saltburn-By-The-Sea
+2024-02-27,70000,TS13 4JA,T,N,F,7,,East Street,Loftus,Saltburn-By-The-Sea
+2024-02-23,199950,TS13 5HQ,S,N,F,121,,High Street,Hinderwell,Saltburn-By-The-Sea
+2024-02-23,304950,TS13 4PZ,D,N,F,Cotonou,,Rosecroft Lane,Loftus,Saltburn-By-The-Sea
+2024-02-19,80000,TS13 4DQ,T,N,F,16,,Queen Street,Carlin How,Saltburn-By-The-Sea
+2024-02-12,216250,TS13 5BA,D,N,F,18,,Fairfield Road,Staithes,Saltburn-By-The-Sea
+2024-02-09,290000,TS13 5AR,D,N,F,2,,Whitby Road,Staithes,Saltburn-By-The-Sea
+2024-02-06,120000,TS13 4SG,T,N,F,43,,Queens Road,Loftus,Saltburn-By-The-Sea
+2024-02-02,136600,TS13 4PL,T,N,F,9,,Co Operative Terrace,Loftus,Saltburn-By-The-Sea
+2024-01-26,388000,TS13 4UR,T,N,F,44,,Boulby Cottages,Easington,Saltburn-By-The-Sea
+2024-01-16,650000,TS13 5HT,T,N,F,The Loft,,,Runswick,Saltburn-By-The-Sea
+2024-01-11,217500,TS13 4NN,S,N,F,3,,Glebe Gardens,Easington,Saltburn-By-The-Sea
+2024-01-10,95000,TS13 4DY,T,N,F,26,,Brotton Road,Carlin How,Saltburn-By-The-Sea
+2023-12-19,155000,TS13 5AR,S,N,F,32,,Whitby Road,Staithes,Saltburn-By-The-Sea
+2023-12-19,250000,TS13 4PE,D,N,F,14,,Ryelands Park,Easington,Saltburn-By-The-Sea
+2023-12-14,90000,TS13 4LN,S,N,F,Robinson Court,10,Robinson Street,Loftus,Saltburn-By-The-Sea
+2023-12-07,325000,TS13 5BY,T,N,F,6,,North Side,Staithes,Saltburn-By-The-Sea
+2023-12-05,70000,TS13 4EL,T,N,F,6,,Westray Street,Carlin How,Saltburn-By-The-Sea
+2023-12-04,230000,TS13 5LQ,F,N,L,1,,Cliff Cottages,Port Mulgrave,Saltburn-By-The-Sea
+2023-11-28,90000,TS13 4RX,T,N,F,12,,Scarborough Street,Loftus,Saltburn-By-The-Sea
+2023-11-20,605000,TS13 5LP,D,N,F,"Ellerby House, 2",,Ryeland Lane,Ellerby,Saltburn-By-The-Sea
+2023-11-20,940000,TS13 5HU,D,N,F,Hillcrest,,,Runswick,Saltburn-By-The-Sea
+2023-11-10,54000,TS13 4DN,T,N,F,60,,Coronation Street,Carlin How,Saltburn-By-The-Sea
+2023-11-10,85000,TS13 4DA,T,N,F,7,,Dixon Street,Carlin How,Saltburn-By-The-Sea
+2023-11-01,77000,TS13 4EL,T,N,F,29,,Westray Street,Carlin How,Saltburn-By-The-Sea
+2023-10-31,149000,TS13 4JN,D,N,F,19,,Boulby Drive,Loftus,Saltburn-By-The-Sea
+2023-10-16,55000,TS13 4AE,T,N,F,55,,Maynard Street,Carlin How,Saltburn-By-The-Sea
+2023-10-11,137500,TS13 4RW,T,N,F,5,,West Road,Loftus,Saltburn-By-The-Sea
+2023-10-06,164000,TS13 5AY,S,N,F,33,,Seaton Crescent,Staithes,Saltburn-By-The-Sea
+2023-10-06,137500,TS13 4JW,S,N,F,6,,Cromwell Avenue,Loftus,Saltburn-By-The-Sea
+2023-10-06,76000,TS13 4DZ,T,N,F,44,,Brotton Road,Carlin How,Saltburn-By-The-Sea
+2023-10-04,236000,TS13 5HJ,S,N,F,15,,Pond Farm Close,Hinderwell,Saltburn-By-The-Sea
+2023-10-02,340000,TS13 4NW,D,N,F,10,,Whitby Road,Easington,Saltburn-By-The-Sea
+2023-09-29,200000,TS13 5JS,S,N,F,2,,Sunny Corner,Hinderwell,Saltburn-By-The-Sea
+2023-09-29,105000,TS13 4SL,S,N,F,50,,Coronation Road,Loftus,Saltburn-By-The-Sea
+2023-09-29,70000,TS13 4AE,T,N,F,52,,Maynard Street,Carlin How,Saltburn-By-The-Sea
+2023-09-28,250000,TS13 5DH,T,N,F,Spindrift,,Seaton Garth,Staithes,Saltburn-By-The-Sea
+2023-09-27,184000,TS13 4JP,S,N,F,12,,Grendale Court,Loftus,Saltburn-By-The-Sea
+2023-09-25,325000,TS13 5DB,T,N,F,Windsor House,,Church Street,Staithes,Saltburn-By-The-Sea
+2023-09-22,112000,TS13 4PR,T,N,F,3,,Duncan Place,Loftus,Saltburn-By-The-Sea
+2023-09-22,104000,TS13 4DT,S,N,F,5,,Cliffe Avenue,Carlin How,Saltburn-By-The-Sea
+2023-09-15,125000,TS13 4RQ,T,N,F,34,,West Road,Loftus,Saltburn-By-The-Sea
+2023-09-06,340000,TS13 4UE,T,N,F,1,,Springhouse Cottages,Easington,Saltburn-By-The-Sea
+2023-09-06,154000,TS13 4NN,D,N,F,17,,Glebe Gardens,Easington,Saltburn-By-The-Sea
+2023-09-05,35000,TS13 4RD,T,N,F,24,,Dundas Street,Loftus,Saltburn-By-The-Sea
+2023-09-04,59950,TS13 4SE,T,N,F,3,,St Hildas Terrace,Loftus,Saltburn-By-The-Sea
+2023-09-01,115000,TS13 5AZ,S,N,F,36,,Seaton Crescent,Staithes,Saltburn-By-The-Sea
+2023-08-31,180000,TS13 4BX,D,N,F,28,,Middle Gill Close,Loftus,Saltburn-By-The-Sea
+2023-08-25,85000,TS13 4QR,T,N,F,24,,Graham Street,Liverton,Saltburn-By-The-Sea
+2023-08-24,78999,TS13 4DR,T,N,F,26,,Gladstone Street,Carlin How,Saltburn-By-The-Sea
+2023-08-22,400000,TS13 5ES,T,N,F,80,,High Street,Hinderwell,Saltburn-By-The-Sea
+2023-08-18,112000,TS13 4SE,T,N,F,13,,St Hildas Terrace,Loftus,Saltburn-By-The-Sea
+2023-08-18,199995,TS13 4JP,D,N,F,20,,Grendale Court,Loftus,Saltburn-By-The-Sea
+2023-08-17,173000,TS13 5JS,D,N,F,33,,Porret Lane,Hinderwell,Saltburn-By-The-Sea
+2023-08-14,160000,TS13 4LS,D,N,F,Jandel,,Tweed Street,Loftus,Saltburn-By-The-Sea
+2023-08-11,60000,TS13 4LS,T,N,F,7A,,Tweed Street,Loftus,Saltburn-By-The-Sea
+2023-08-11,305000,TS13 4AJ,D,N,F,Kilton Mill House,,Mill Lane,Skinningrove,Saltburn-By-The-Sea
+2023-08-11,305000,TS13 4AJ,D,N,F,Kilton Mill House,,Mill Lane,Skinningrove,Saltburn-By-The-Sea
+2023-08-04,700000,TS13 5LP,D,N,F,21,,Ryeland Lane,Ellerby,Saltburn-By-The-Sea
+2023-08-03,62000,TS13 4LW,T,N,F,6,,Tees Street,Loftus,Saltburn-By-The-Sea
+2023-08-03,180000,TS13 4JW,S,N,F,55,,Cromwell Avenue,Loftus,Saltburn-By-The-Sea
+2023-08-01,290000,TS13 4QD,D,N,F,Hybarts Corner,,Liverton Road,Liverton,Saltburn-By-The-Sea
+2023-07-31,110000,TS13 4QN,S,N,F,25,,St Michaels Close,Liverton,Saltburn-By-The-Sea
+2023-07-31,70000,TS13 4QG,T,N,F,11,,Liverton Terrace,Liverton,Saltburn-By-The-Sea
+2023-07-31,145000,TS13 4NR,S,N,F,3,,Glebe Garth,Easington,Saltburn-By-The-Sea
+2023-07-26,315000,TS13 4NT,D,N,F,1,,Grinkle Lane,Easington,Saltburn-By-The-Sea
+2023-07-21,72500,TS13 4HP,T,N,F,12,,North Road,Loftus,Saltburn-By-The-Sea
+2023-07-20,75000,TS13 4DE,T,N,F,6,,Belle Vue Terrace,Carlin How,Saltburn-By-The-Sea
+2023-07-18,535000,TS13 5BU,T,N,L,Pilot Me Cottage,,Beckside,Staithes,Saltburn-By-The-Sea
+2023-07-17,107000,TS13 4NP,T,N,F,14,,Lambert Terrace,Easington,Saltburn-By-The-Sea
+2023-07-07,32375,TS13 4XP,T,N,L,55,,Clover Hill Drive,Loftus,Saltburn-By-The-Sea
+2023-07-07,110000,TS13 4QF,S,N,F,1,,St Georges Terrace,Liverton,Saltburn-By-The-Sea
+2023-07-07,21000,TS13 4DW,T,N,F,23,,Coronation Street,Carlin How,Saltburn-By-The-Sea
+2023-07-07,23000,TS13 4DN,T,N,F,8,,Coronation Street,Carlin How,Saltburn-By-The-Sea
+2023-07-04,64995,TS13 4DA,T,N,F,9,,Dixon Street,Carlin How,Saltburn-By-The-Sea
+2023-07-03,325000,TS13 5BQ,T,N,F,Slip Top,3,High Street,Staithes,Saltburn-By-The-Sea
+2023-06-30,80000,TS13 4LU,T,N,F,1,,Jackson Street,Loftus,Saltburn-By-The-Sea
+2023-06-30,60000,TS13 4DR,T,N,F,16,,Gladstone Street,Carlin How,Saltburn-By-The-Sea
+2023-06-29,80000,TS13 4LQ,T,N,F,9,,Whitby Road,Loftus,Saltburn-By-The-Sea
+2023-06-23,64000,TS13 4QG,T,N,F,2,,Liverton Terrace,Liverton,Saltburn-By-The-Sea
+2023-06-23,100000,TS13 4LQ,S,N,F,3,,Whitby Road,Loftus,Saltburn-By-The-Sea
+2023-06-20,129000,TS13 5AD,S,N,F,28,,Staithes Lane,Staithes,Saltburn-By-The-Sea
+2023-06-19,165000,TS13 4NN,S,N,F,30,,Glebe Gardens,Easington,Saltburn-By-The-Sea
+2023-06-13,249950,TS13 5LF,T,N,F,19,,Long Row,Port Mulgrave,Saltburn-By-The-Sea
+2023-06-13,190000,TS13 4JW,D,N,F,63,,Cromwell Avenue,Loftus,Saltburn-By-The-Sea
+2023-06-13,195000,TS13 4JW,S,N,F,61,,Cromwell Avenue,Loftus,Saltburn-By-The-Sea
+2023-06-09,165000,TS13 4PT,S,N,F,157,,Coronation Road,Loftus,Saltburn-By-The-Sea
+2023-06-09,149000,TS13 4JZ,T,N,F,7,,Springhead Terrace,Loftus,Saltburn-By-The-Sea
+2023-06-09,178000,TS13 4HJ,S,N,F,15,,Hall Grounds,Loftus,Saltburn-By-The-Sea
+2023-06-02,65000,TS13 4AE,T,N,F,41,,Maynard Street,Carlin How,Saltburn-By-The-Sea
+2023-05-26,395000,TS13 4NX,D,N,F,17,,Twizziegill View,Easington,Saltburn-By-The-Sea
+2023-05-25,325000,TS13 5BQ,T,N,F,Royal Cottage,,High Street,Staithes,Saltburn-By-The-Sea
+2023-05-25,240000,TS13 5AD,T,N,F,74,,Staithes Lane,Staithes,Saltburn-By-The-Sea
+2023-05-19,150000,TS13 5AJ,T,N,F,18,,Staithes Lane,Staithes,Saltburn-By-The-Sea
+2023-05-12,61000,TS13 4HZ,T,N,F,10,,Gladstone Street,Loftus,Saltburn-By-The-Sea
+2023-05-09,96000,TS13 4LR,T,N,F,4,,Tyne Street,Loftus,Saltburn-By-The-Sea
+2023-05-05,240000,TS13 5BU,F,N,L,Buttress Cottage,,Beckside,Staithes,Saltburn-By-The-Sea
+2023-05-05,195000,TS13 4NX,S,N,F,6,,Twizziegill View,Easington,Saltburn-By-The-Sea
+2023-04-28,275000,TS13 5AT,T,N,L,Seaton Cottage,,,Staithes,Saltburn-By-The-Sea
+2023-04-28,320000,TS13 5AD,D,N,F,87,,Staithes Lane,Staithes,Saltburn-By-The-Sea
+2023-04-28,58000,TS13 4SN,S,N,F,53,,Coronation Road,Loftus,Saltburn-By-The-Sea
+2023-04-21,169000,TS13 5LQ,F,N,F,3,,Cliff Cottages,Port Mulgrave,Saltburn-By-The-Sea
+2023-04-14,106000,TS13 4RS,T,N,F,7,,Deepdale Road,Loftus,Saltburn-By-The-Sea
+2023-04-14,120000,TS13 4NZ,S,N,F,5,,Sunnyfield Gardens,Easington,Saltburn-By-The-Sea
+2023-04-13,191000,TS13 5JU,S,N,F,1,,Palmers Square,Hinderwell,Saltburn-By-The-Sea
+2023-04-06,252500,TS13 5LB,D,N,F,30A,,Rosedale Lane,Port Mulgrave,Saltburn-By-The-Sea
+2023-04-06,420000,TS13 5HR,D,N,F,36,,Hinderwell Lane,Runswick,Saltburn-By-The-Sea
+2023-04-06,35000,TS13 4LB,T,N,F,18,,East Crescent,Loftus,Saltburn-By-The-Sea
+2023-04-06,65000,TS13 4EN,T,N,F,25,,Rawlinson Street,Carlin How,Saltburn-By-The-Sea
+2023-04-06,112000,TS13 4DT,T,N,F,32,,Cliffe Avenue,Carlin How,Saltburn-By-The-Sea
+2023-04-06,167000,TS13 4BE,T,N,F,4A,,Stone Row,Skinningrove,Saltburn-By-The-Sea
+2023-04-05,76000,TS13 4HZ,T,N,F,17,,Gladstone Street,Loftus,Saltburn-By-The-Sea
+2023-04-04,740000,TS13 5LP,D,N,F,Middle Farm,The Barn,Ryeland Lane,Ellerby,Saltburn-By-The-Sea
+2023-03-31,220000,TS13 5LF,S,N,F,25,,Long Row,Port Mulgrave,Saltburn-By-The-Sea
+2023-03-31,255000,TS13 5BH,T,N,F,Beckstones Yard,Lobster Cottage,High Street,Staithes,Saltburn-By-The-Sea
+2023-03-31,168000,TS13 4NP,T,N,F,15,,Lambert Terrace,Easington,Saltburn-By-The-Sea
+2023-03-31,55000,TS13 4LR,T,N,F,8,,Tyne Street,Loftus,Saltburn-By-The-Sea
+2023-03-31,125000,TS13 4JW,S,N,F,23,,Cromwell Avenue,Loftus,Saltburn-By-The-Sea
+2023-03-31,77000,TS13 4DH,T,N,F,12,,Grosvenor Terrace,Carlin How,Saltburn-By-The-Sea
+2023-03-27,79500,TS13 4RB,T,N,F,12,,Newcomen Terrace,Loftus,Saltburn-By-The-Sea
+2023-03-24,220000,TS13 5LE,T,N,F,50,,Rosedale Lane,Port Mulgrave,Saltburn-By-The-Sea
+2023-03-20,43000,TS13 4LR,T,N,F,2,,Tyne Street,Loftus,Saltburn-By-The-Sea
+2023-03-14,49500,TS13 4SE,T,N,F,14,,St Hildas Terrace,Loftus,Saltburn-By-The-Sea
+2023-03-01,175000,TS13 5AY,T,N,F,67,,Seaton Crescent,Staithes,Saltburn-By-The-Sea
+2023-02-23,110000,TS13 4PG,S,N,F,5,,Pinewood Close,Easington,Saltburn-By-The-Sea
+2023-02-22,200000,TS13 5JH,D,N,F,22,,High Street,Hinderwell,Saltburn-By-The-Sea
+2023-02-14,86950,TS13 4QN,S,N,F,6,,St Michaels Close,Liverton,Saltburn-By-The-Sea
+2023-02-08,550000,TS13 4JH,D,N,F,Hummersea,Seaview,,Loftus,Saltburn-By-The-Sea
+2023-02-06,1850000,TS13 5HT,D,N,F,The Old Cottage,,,Runswick,Saltburn-By-The-Sea
+2023-02-03,39999,TS13 4SB,T,N,F,39,,Hartington Street,Loftus,Saltburn-By-The-Sea
+2023-02-03,105000,TS13 4QN,S,N,F,19,,St Michaels Close,Liverton,Saltburn-By-The-Sea
+2023-02-03,65000,TS13 4DX,T,N,F,19,,Gladstone Street,Carlin How,Saltburn-By-The-Sea
+2023-01-27,65000,TS13 4PX,T,N,F,9,,Station Road,Loftus,Saltburn-By-The-Sea
+2023-01-25,170000,TS13 5AU,S,N,F,5,,Seaton Close,Staithes,Saltburn-By-The-Sea
+2023-01-24,58000,TS13 4LP,T,N,F,4,,Railway Terrace,East Loftus,Saltburn-By-The-Sea
+2023-01-24,55000,TS13 4DW,T,N,F,65,,Coronation Street,Carlin How,Saltburn-By-The-Sea
+2023-01-23,87500,TS13 4SE,T,N,F,8,,St Hildas Terrace,Loftus,Saltburn-By-The-Sea
+2023-01-20,92500,TS13 4RX,T,N,F,11,,Scarborough Street,Loftus,Saltburn-By-The-Sea
+2023-01-20,110000,TS13 4LQ,T,N,F,5,,Whitby Road,Loftus,Saltburn-By-The-Sea
+2023-01-20,165000,TS13 4JW,D,N,F,40,,Cromwell Avenue,Loftus,Saltburn-By-The-Sea
+2023-01-20,80000,TS13 4DX,T,N,F,31,,Gladstone Street,Carlin How,Saltburn-By-The-Sea
+2023-01-12,260000,TS13 5AR,S,N,F,40,,Whitby Road,Staithes,Saltburn-By-The-Sea
+2023-01-12,115000,TS13 5AH,T,N,F,47,,Staithes Lane,Staithes,Saltburn-By-The-Sea
+2023-01-06,190000,TS13 5BU,T,N,F,2,,Beckside,Staithes,Saltburn-By-The-Sea
+2023-01-06,133000,TS13 4JD,S,N,F,16,,John Street,Loftus,Saltburn-By-The-Sea
+2023-01-05,186900,TS13 5AH,T,N,F,41,,Staithes Lane,Staithes,Saltburn-By-The-Sea
+2022-12-21,110000,TS13 4HW,T,N,F,10,,High Street,Loftus,Saltburn-By-The-Sea
+2022-12-19,515000,TS13 5LP,D,N,F,31,,Ryeland Lane,Ellerby,Saltburn-By-The-Sea
+2022-12-19,545000,TS13 5HS,D,N,F,56,,Ellerby Lane,Runswick,Saltburn-By-The-Sea
+2022-12-19,370000,TS13 5DG,S,N,F,Prospect House,,Mount Pleasant,Staithes,Saltburn-By-The-Sea
+2022-12-16,137000,TS13 4JN,S,N,F,37,,Boulby Drive,Loftus,Saltburn-By-The-Sea
+2022-12-16,84500,TS13 4DX,T,N,F,7,,Gladstone Street,Carlin How,Saltburn-By-The-Sea
+2022-12-13,275000,TS13 4NU,S,N,F,24,,Park Lane,Easington,Saltburn-By-The-Sea
+2022-12-09,166000,TS13 4NZ,S,N,F,24,,Sunnyfield Gardens,Easington,Saltburn-By-The-Sea
+2022-12-08,79000,TS13 4QR,S,N,F,27,,Graham Street,Liverton,Saltburn-By-The-Sea
+2022-11-29,85000,TS13 4RW,T,N,F,13,,West Road,Loftus,Saltburn-By-The-Sea
+2022-11-29,67500,TS13 4DR,T,N,F,68,,Gladstone Street,Carlin How,Saltburn-By-The-Sea
+2022-11-28,56000,TS13 4DL,T,N,F,11,,Muriel Street,Carlin How,Saltburn-By-The-Sea
+2022-11-25,180000,TS13 5DL,T,N,F,2,,Broom Hill,Staithes,Saltburn-By-The-Sea
+2022-11-21,45000,TS13 4HP,T,N,F,The Forge,,North Road,Loftus,Saltburn-By-The-Sea
+2022-11-18,90000,TS13 4RU,T,N,F,24,,Lumley Street,Loftus,Saltburn-By-The-Sea
+2022-11-14,115000,TS13 4SN,S,N,F,35,,Coronation Road,Loftus,Saltburn-By-The-Sea
+2022-11-14,40000,TS13 4EP,T,N,F,11,,Kennedy Crescent,Carlin How,Saltburn-By-The-Sea
+2022-11-04,375500,TS13 5AR,D,N,F,8,,Whitby Road,Staithes,Saltburn-By-The-Sea
+2022-11-04,306000,TS13 5AE,D,N,F,15,,Cliff Road,Staithes,Saltburn-By-The-Sea
+2022-11-04,157000,TS13 4JN,S,N,F,22,,Boulby Drive,Loftus,Saltburn-By-The-Sea
+2022-11-02,95000,TS13 4SE,T,N,F,31,,St Hildas Terrace,Loftus,Saltburn-By-The-Sea
+2022-10-28,255000,TS13 4UX,D,N,F,Street House Farm,The Stables,,Loftus,Saltburn-By-The-Sea
+2022-10-21,110000,TS13 4JZ,T,N,F,5,,Springhead Terrace,Loftus,Saltburn-By-The-Sea
+2022-10-21,85000,TS13 4DQ,T,N,F,34,,Queen Street,Carlin How,Saltburn-By-The-Sea
+2022-10-19,141000,TS13 4RL,T,N,F,3,,West Park Avenue,Loftus,Saltburn-By-The-Sea
+2022-10-14,142000,TS13 4PS,S,N,F,82,,Coronation Road,Loftus,Saltburn-By-The-Sea
+2022-10-14,110500,TS13 4LN,S,N,F,Robinson Court,9,Robinson Street,Loftus,Saltburn-By-The-Sea
+2022-10-13,122500,TS13 4LY,T,N,F,2,,Glenfield Terrace,Loftus,Saltburn-By-The-Sea
+2022-10-07,90000,TS13 4QQ,T,N,F,14,,Downe Street,Liverton,Saltburn-By-The-Sea
+2022-10-07,80000,TS13 4HX,T,N,F,6,,Seymour Hill Terrace,Loftus,Saltburn-By-The-Sea
+2022-10-06,180000,TS13 4PB,D,N,F,1,,Wheatlands Drive,Easington,Saltburn-By-The-Sea
+2022-10-05,111000,TS13 4RH,T,N,F,61,,West Road,Loftus,Saltburn-By-The-Sea
+2022-09-30,330000,TS13 5HR,S,N,F,11,,Hinderwell Lane,Runswick,Saltburn-By-The-Sea
+2022-09-30,67000,TS13 4AE,T,N,F,44,,Maynard Street,Carlin How,Saltburn-By-The-Sea
+2022-09-26,297000,TS13 4PE,D,N,F,6,,Ryelands Park,Easington,Saltburn-By-The-Sea
+2022-09-26,75000,TS13 4LW,T,N,F,22,,Tees Street,Loftus,Saltburn-By-The-Sea
+2022-09-23,355000,TS13 5DQ,S,N,L,Rose Cottage,,Slippery Hill,Staithes,Saltburn-By-The-Sea
+2022-09-16,50000,TS13 4QQ,T,N,F,34,,Downe Street,Liverton,Saltburn-By-The-Sea
+2022-09-09,68000,TS13 4RE,T,N,F,46,,Whitecliffe Terrace,Loftus,Saltburn-By-The-Sea
+2022-09-07,59000,TS13 4EN,T,N,F,26,,Rawlinson Street,Carlin How,Saltburn-By-The-Sea
+2022-09-05,80000,TS13 5DH,F,N,L,Seadrift Cottage,,Seaton Garth,Staithes,Saltburn-By-The-Sea
+2022-09-01,85000,TS13 4QQ,T,N,F,28,,Downe Street,Liverton,Saltburn-By-The-Sea
+2022-09-01,192500,TS13 4PE,D,N,F,11,,Ryelands Park,Easington,Saltburn-By-The-Sea
+2022-08-31,590000,TS13 5JF,D,N,F,17,,Bank Top Lane,Runswick,Saltburn-By-The-Sea
+2022-08-31,521700,TS13 5EU,D,N,F,4,,Rosehill,Hinderwell,Saltburn-By-The-Sea
+2022-08-12,150000,TS13 5AG,T,N,F,59,,Staithes Lane,Staithes,Saltburn-By-The-Sea
+2022-08-12,150000,TS13 4BB,T,N,F,1,,New Grove Terrace,Skinningrove,Saltburn-By-The-Sea
+2022-08-11,30000,TS13 4BQ,T,N,F,21,,High Street,Skinningrove,Saltburn-By-The-Sea
+2022-08-10,51500,TS13 4HA,F,N,L,53,Flat 8,High Street,Loftus,Saltburn-By-The-Sea
+2022-08-05,65000,TS13 4DR,T,N,F,24,,Gladstone Street,Carlin How,Saltburn-By-The-Sea
+2022-08-04,254000,TS13 4NX,D,N,F,20,,Twizziegill View,Easington,Saltburn-By-The-Sea
+2022-08-04,215000,TS13 4NN,S,N,F,63,,Glebe Gardens,Easington,Saltburn-By-The-Sea
+2022-08-03,200000,TS13 5LE,T,N,F,70,,Rosedale Lane,Port Mulgrave,Saltburn-By-The-Sea
+2022-07-29,90000,TS13 4EP,T,N,F,15,,Kennedy Crescent,Carlin How,Saltburn-By-The-Sea
+2022-07-29,121000,TS13 4BN,T,N,F,123,,Zetland Row,Skinningrove,Saltburn-By-The-Sea
+2022-07-28,303055,TS13 5DA,T,N,F,10,,Cowbar Cottages,Staithes,Saltburn-By-The-Sea
+2022-07-28,220000,TS13 5AR,S,N,F,38,,Whitby Road,Staithes,Saltburn-By-The-Sea
+2022-07-28,207500,TS13 5AH,T,N,F,21,,Staithes Lane,Staithes,Saltburn-By-The-Sea
+2022-07-28,55000,TS13 4HG,T,N,F,72,,High Street,Loftus,Saltburn-By-The-Sea
+2022-07-27,100000,TS13 4JZ,T,N,F,9,,Springhead Terrace,Loftus,Saltburn-By-The-Sea
+2022-07-27,45000,TS13 4DN,T,N,F,54,,Coronation Street,Carlin How,Saltburn-By-The-Sea
+2022-07-24,325000,TS13 5BU,F,N,L,Love Divine,,Beckside,Staithes,Saltburn-By-The-Sea
+2022-07-19,625000,TS13 4JU,D,N,F,South Loftus Farm,,South Loftus,,Saltburn-By-The-Sea
+2022-07-19,39999,TS13 4EL,T,N,F,6,,Westray Street,Carlin How,Saltburn-By-The-Sea
+2022-07-18,422117,TS13 5DU,D,N,F,Beck Meetings Lodge,,,Staithes,Saltburn-By-The-Sea
+2022-07-14,56000,TS13 4SA,T,N,F,19,,High Row,Loftus,Saltburn-By-The-Sea
+2022-07-12,85000,TS13 4RU,T,N,F,33,,Lumley Street,Loftus,Saltburn-By-The-Sea
+2022-07-11,267000,TS13 5LP,T,N,F,Middle Farm,The Stables,Ryeland Lane,Ellerby,Saltburn-By-The-Sea
+2022-07-11,43000,TS13 4JF,T,N,F,24,,North Terrace,Loftus,Saltburn-By-The-Sea
+2022-07-08,125000,TS13 5AH,T,N,F,31,,Staithes Lane,Staithes,Saltburn-By-The-Sea
+2022-07-07,60000,TS13 4SB,T,N,F,18,,Hartington Street,Loftus,Saltburn-By-The-Sea
+2022-07-01,78500,TS13 4RD,T,N,F,31,,Dundas Street,Loftus,Saltburn-By-The-Sea
+2022-07-01,65000,TS13 4QN,S,N,F,38,,St Michaels Close,Liverton,Saltburn-By-The-Sea
+2022-07-01,98000,TS13 4HX,T,N,F,12,,Seymour Hill Terrace,Loftus,Saltburn-By-The-Sea
+2022-07-01,120000,TS13 4ER,T,N,F,4,,Rockcliffe Terrace,Carlin How,Saltburn-By-The-Sea
+2022-07-01,52500,TS13 4DW,T,N,F,41,,Coronation Street,Carlin How,Saltburn-By-The-Sea
+2022-06-30,325000,TS13 5AD,T,N,L,46,,Staithes Lane,Staithes,Saltburn-By-The-Sea
+2022-06-30,43000,TS13 4EN,T,N,F,1,,Rawlinson Street,Carlin How,Saltburn-By-The-Sea
+2022-06-30,207500,TS13 4BX,D,N,F,17,,Middle Gill Close,Loftus,Saltburn-By-The-Sea
+2022-06-29,180000,TS13 5LE,T,N,F,72,,Rosedale Lane,Port Mulgrave,Saltburn-By-The-Sea
+2022-06-29,475000,TS13 5HT,S,N,F,Stone Cottage,,,Runswick,Saltburn-By-The-Sea
+2022-06-27,95000,TS13 4LQ,T,N,F,7,,Whitby Road,Loftus,Saltburn-By-The-Sea
+2022-06-23,68450,TS13 4SB,T,N,F,23,,Hartington Street,Loftus,Saltburn-By-The-Sea
+2022-06-17,515000,TS13 5BH,T,N,L,Bethel,,High Street,Staithes,Saltburn-By-The-Sea
+2022-06-17,183000,TS13 4NN,D,N,F,45,,Glebe Gardens,Easington,Saltburn-By-The-Sea
+2022-06-16,51750,TS13 4LT,F,N,L,19,,Humber Close,Loftus,Saltburn-By-The-Sea
+2022-06-13,99000,TS13 4PR,T,N,F,5,,Duncan Place,Loftus,Saltburn-By-The-Sea
+2022-06-10,223000,TS13 5HJ,S,N,F,22,,Pond Farm Close,Hinderwell,Saltburn-By-The-Sea
+2022-06-01,65000,TS13 4RU,T,N,F,14,,Lumley Street,Loftus,Saltburn-By-The-Sea
+2022-05-30,179950,TS13 5ET,T,N,F,99,,High Street,Hinderwell,Saltburn-By-The-Sea
+2022-05-27,55000,TS13 4EN,T,N,F,6,,Rawlinson Street,Carlin How,Saltburn-By-The-Sea
+2022-05-26,112500,TS13 4BP,T,N,F,153,,Grove Hill,Skinningrove,Saltburn-By-The-Sea
+2022-05-23,89995,TS13 4RU,T,N,F,23,,Lumley Street,Loftus,Saltburn-By-The-Sea
+2022-05-20,60000,TS13 4HP,T,N,F,13,,North Road,Loftus,Saltburn-By-The-Sea
+2022-05-19,137500,TS13 4XR,S,N,F,3,,Golden Way,Loftus,Saltburn-By-The-Sea
+2022-05-16,75000,TS13 4EN,T,N,F,23,,Rawlinson Street,Carlin How,Saltburn-By-The-Sea
+2022-05-10,108000,TS13 4QU,T,N,F,29,,Cleveland Street,Liverton,Saltburn-By-The-Sea
+2022-05-05,118000,TS13 4NZ,S,N,F,21,,Sunnyfield Gardens,Easington,Saltburn-By-The-Sea
+2022-05-03,310000,TS13 4TB,T,N,F,Middle Cottage,,Liverton Village,Liverton,Saltburn-By-The-Sea
+2022-04-29,245000,TS13 5HG,T,N,F,6,,Browns Terrace,Hinderwell,Saltburn-By-The-Sea
+2022-04-28,104000,TS13 4SG,T,N,F,10,,Queens Road,Loftus,Saltburn-By-The-Sea
+2022-04-22,171000,TS13 5HP,S,N,F,19,,Runswick Lane,Hinderwell,Saltburn-By-The-Sea
+2022-04-14,78500,TS13 4DZ,T,N,F,36,,Brotton Road,Carlin How,Saltburn-By-The-Sea
+2022-04-13,400000,TS13 5ES,D,N,F,"The Old Dairy, 126B",,High Street,Hinderwell,Saltburn-By-The-Sea
+2022-04-08,79500,TS13 4QW,T,N,F,36,,St Helens Walk,Liverton,Saltburn-By-The-Sea
+2022-04-08,115500,TS13 4JW,S,N,F,12,,Cromwell Avenue,Loftus,Saltburn-By-The-Sea
+2022-04-08,20000,TS13 4HX,T,N,F,6,,Seymour Hill Terrace,Loftus,Saltburn-By-The-Sea
+2022-03-31,157500,TS13 5BG,F,N,L,Oakleaves,,Browns Terrace,Staithes,Saltburn-By-The-Sea
+2022-03-30,98950,TS13 4NL,T,N,F,35,,Abingdon Road,Easington,Saltburn-By-The-Sea
+2022-03-28,50000,TS13 4LR,T,N,F,5,,Tyne Street,Loftus,Saltburn-By-The-Sea
+2022-03-25,220000,TS13 5JT,S,N,F,19,,Porret Lane,Hinderwell,Saltburn-By-The-Sea
+2022-03-21,295000,TS13 4PE,D,N,F,1,,Ryelands Park,Easington,Saltburn-By-The-Sea
+2022-03-21,144500,TS13 4ND,T,N,F,4,,Far Foulsyke,Loftus,Saltburn-By-The-Sea
+2022-03-18,150000,TS13 5AG,T,N,F,69,,Staithes Lane,Staithes,Saltburn-By-The-Sea
+2022-03-18,180000,TS13 4NN,S,N,F,15,,Glebe Gardens,Easington,Saltburn-By-The-Sea
+2022-03-17,150000,TS13 5JS,T,N,F,22,,Porret Lane,Hinderwell,Saltburn-By-The-Sea
+2022-03-14,53000,TS13 4DR,T,N,F,16,,Gladstone Street,Carlin How,Saltburn-By-The-Sea
+2022-03-11,80000,TS13 4LS,T,N,F,8,,Tweed Street,Loftus,Saltburn-By-The-Sea
+2022-03-09,57759,TS13 4SB,T,N,F,13,,Hartington Street,Loftus,Saltburn-By-The-Sea
+2022-03-09,59279,TS13 4DJ,T,N,F,4,,Irene Street,Carlin How,Saltburn-By-The-Sea
+2022-03-01,260000,TS13 5LU,S,N,F,49,,The Lane,Mickleby,Saltburn-By-The-Sea
+2022-02-28,90000,TS13 4PX,T,N,F,5,,Station Road,Loftus,Saltburn-By-The-Sea
+2022-02-28,92750,TS13 4HG,T,N,F,67,,High Street,Loftus,Saltburn-By-The-Sea
+2022-02-21,150000,TS13 4RP,T,N,F,23,,West Road,Loftus,Saltburn-By-The-Sea
+2022-02-21,155000,TS13 4BE,T,N,F,19,,Stone Row,Skinningrove,Saltburn-By-The-Sea
+2022-02-18,62000,TS13 4DR,T,N,F,38,,Gladstone Street,Carlin How,Saltburn-By-The-Sea
+2022-02-14,68000,TS13 4SA,T,N,F,30,,High Row,Loftus,Saltburn-By-The-Sea
+2022-02-11,60000,TS13 4SB,T,N,F,26,,Hartington Street,Loftus,Saltburn-By-The-Sea
+2022-02-11,53500,TS13 4LW,T,N,F,22,,Tees Street,Loftus,Saltburn-By-The-Sea
+2022-02-09,90000,TS13 4JF,T,N,F,26,,North Terrace,Loftus,Saltburn-By-The-Sea
+2022-02-07,67000,TS13 4SN,S,N,F,75,,Coronation Road,Loftus,Saltburn-By-The-Sea
+2022-02-04,83000,TS13 4XP,T,N,F,40,,Clover Hill Drive,Loftus,Saltburn-By-The-Sea
+2022-02-01,290000,TS13 4NX,D,N,F,7,,Twizziegill View,Easington,Saltburn-By-The-Sea
+2022-01-27,105000,TS13 4RS,T,N,F,14,,Deepdale Road,Loftus,Saltburn-By-The-Sea
+2022-01-27,153995,TS13 4BX,D,Y,F,15,,Middle Gill Close,Loftus,Saltburn-By-The-Sea
+2022-01-24,240000,TS13 4HH,D,N,F,The Woodlands,,High Street,Loftus,Saltburn-By-The-Sea
+2022-01-24,105000,TS13 4AU,T,N,F,19,,New Company Row,Skinningrove,Saltburn-By-The-Sea
+2022-01-21,360000,TS13 5BQ,T,N,F,Lynn Cottage,,High Street,Staithes,Saltburn-By-The-Sea
+2022-01-21,165000,TS13 4NN,S,N,F,56,,Glebe Gardens,Easington,Saltburn-By-The-Sea
+2022-01-17,84995,TS13 4RU,T,N,F,26,,Lumley Street,Loftus,Saltburn-By-The-Sea
+2022-01-17,85000,TS13 4QL,T,N,F,39,,St Cuthberts Walk,Liverton,Saltburn-By-The-Sea
+2022-01-17,92500,TS13 4AF,T,N,F,1,,Pecten Court,Liverton,Saltburn-By-The-Sea
+2022-01-12,265000,TS13 4NT,D,N,F,4,,Grinkle Lane,Easington,Saltburn-By-The-Sea
+2022-01-10,269000,TS13 5LY,S,N,F,2,,Low Lane,Mickleby,Saltburn-By-The-Sea
+2022-01-10,250000,TS13 5AE,S,N,F,16,,Cliff Road,Staithes,Saltburn-By-The-Sea
+2022-01-10,63500,TS13 4RW,F,N,L,3,Flat 2,West Road,Loftus,Saltburn-By-The-Sea
+2021-12-23,37000,TS13 4DH,T,N,F,10,,Grosvenor Terrace,Carlin How,Saltburn-By-The-Sea
+2021-12-23,156995,TS13 4BX,D,Y,F,16,,Middle Gill Close,Loftus,Saltburn-By-The-Sea
+2021-12-23,150995,TS13 4BX,S,Y,F,11,,Middle Gill Close,Loftus,Saltburn-By-The-Sea
+2021-12-21,152995,TS13 4BX,D,Y,F,14,,Middle Gill Close,Loftus,Saltburn-By-The-Sea
+2021-12-21,144995,TS13 4BX,S,Y,F,10,,Middle Gill Close,Loftus,Saltburn-By-The-Sea
+2021-12-20,125000,TS13 5AY,S,N,F,33,,Seaton Crescent,Staithes,Saltburn-By-The-Sea
+2021-12-17,260000,TS13 5AE,D,N,F,20,,Cliff Road,Staithes,Saltburn-By-The-Sea
+2021-12-17,330000,TS13 4SP,D,N,F,9,,Fircroft Court,Loftus,Saltburn-By-The-Sea
+2021-12-17,110000,TS13 4JY,T,N,F,4,,St Hildas Place,Loftus,Saltburn-By-The-Sea
+2021-12-17,148995,TS13 4BX,D,Y,F,12,,Middle Gill Close,Loftus,Saltburn-By-The-Sea
+2021-12-15,68000,TS13 4RU,T,N,F,23,,Lumley Street,Loftus,Saltburn-By-The-Sea
+2021-12-15,90000,TS13 4PY,T,N,F,13A,,Liverton Road,Loftus,Saltburn-By-The-Sea
+2021-12-14,250000,TS13 5AE,S,N,F,11,,Cliff Road,Staithes,Saltburn-By-The-Sea
+2021-12-10,148000,TS13 5AY,S,N,F,63,,Seaton Crescent,Staithes,Saltburn-By-The-Sea
+2021-12-10,49000,TS13 4SB,T,N,F,42,,Hartington Street,Loftus,Saltburn-By-The-Sea
+2021-12-10,50000,TS13 4LW,T,N,F,4,,Tees Street,Loftus,Saltburn-By-The-Sea
+2021-12-10,94500,TS13 4JF,T,N,F,13,,North Terrace,Loftus,Saltburn-By-The-Sea
+2021-12-10,34000,TS13 4HG,F,N,L,55B,,High Street,Loftus,Saltburn-By-The-Sea
+2021-12-10,117500,TS13 4DT,T,N,F,26,,Cliffe Avenue,Carlin How,Saltburn-By-The-Sea
+2021-12-10,144995,TS13 4BX,D,Y,F,20,,Middle Gill Close,Loftus,Saltburn-By-The-Sea
+2021-12-03,105000,TS13 4AU,T,N,F,4,,New Company Row,Skinningrove,Saltburn-By-The-Sea
+2021-12-02,128000,TS13 4JX,S,N,F,Old Dairy,1,Dam Street,Loftus,Saltburn-By-The-Sea
+2021-11-30,100000,TS13 4RZ,T,N,F,Cliff Dene Bank Top,,,Loftus,Saltburn-By-The-Sea
+2021-11-30,181995,TS13 4BX,D,Y,F,9,,Middle Gill Close,Loftus,Saltburn-By-The-Sea
+2021-11-30,109995,TS13 4BX,S,Y,F,18,,Middle Gill Close,Loftus,Saltburn-By-The-Sea
+2021-11-30,184995,TS13 4BX,D,Y,F,17,,Middle Gill Close,Loftus,Saltburn-By-The-Sea
+2021-11-29,136000,TS13 4PU,T,N,F,13,,Westfield Terrace,Loftus,Saltburn-By-The-Sea
+2021-11-29,175000,TS13 4JW,S,N,F,86,,Cromwell Avenue,Loftus,Saltburn-By-The-Sea
+2021-11-26,141995,TS13 4BX,S,Y,F,19,,Middle Gill Close,Loftus,Saltburn-By-The-Sea
+2021-11-25,100000,TS13 4RR,S,N,F,3,,Co Operative Close,Loftus,Saltburn-By-The-Sea
+2021-11-22,160000,TS13 4NR,S,N,F,2,,Glebe Garth,Easington,Saltburn-By-The-Sea
+2021-11-19,90000,TS13 4SW,T,N,F,103,,Coronation Road,Loftus,Saltburn-By-The-Sea
+2021-11-19,76000,TS13 4RY,T,N,F,5,,Cliff Crescent,Loftus,Saltburn-By-The-Sea
+2021-11-17,85000,TS13 4RX,T,N,F,8,,Scarborough Street,Loftus,Saltburn-By-The-Sea
+2021-11-17,80000,TS13 4QL,S,N,F,17,,St Cuthberts Walk,Liverton,Saltburn-By-The-Sea
+2021-11-08,42000,TS13 4LW,T,N,F,31,,Tees Street,Loftus,Saltburn-By-The-Sea
+2021-11-05,395000,TS13 5LP,S,N,F,2B,,Ryeland Lane,Ellerby,Saltburn-By-The-Sea
+2021-11-05,46500,TS13 4AE,T,N,F,49,,Maynard Street,Carlin How,Saltburn-By-The-Sea
+2021-11-04,130000,TS13 5HA,T,N,F,46,,Coronation Avenue,Hinderwell,Saltburn-By-The-Sea
+2021-11-03,62500,TS13 4SA,T,N,F,1,,High Row,Loftus,Saltburn-By-The-Sea
+2021-11-02,210000,TS13 5LF,T,N,F,18,,Long Row,Port Mulgrave,Saltburn-By-The-Sea
+2021-11-02,200000,TS13 5AD,S,N,F,91,,Staithes Lane,Staithes,Saltburn-By-The-Sea
+2021-10-28,47000,TS13 4SB,T,N,F,39,,Hartington Street,Loftus,Saltburn-By-The-Sea
+2021-10-27,140000,TS13 4SW,S,N,F,54,,Coronation Road,Loftus,Saltburn-By-The-Sea
+2021-10-26,57000,TS13 4DZ,T,N,F,40,,Brotton Road,Carlin How,Saltburn-By-The-Sea
+2021-10-22,90000,TS13 4JX,T,N,F,1,,Dam Street,Loftus,Saltburn-By-The-Sea
+2021-10-22,49950,TS13 4DW,T,N,F,67,,Coronation Street,Carlin How,Saltburn-By-The-Sea
+2021-10-22,122995,TS13 4BX,S,Y,F,26,,Middle Gill Close,Loftus,Saltburn-By-The-Sea
+2021-10-20,72500,TS13 4DQ,T,N,F,48,,Queen Street,Carlin How,Saltburn-By-The-Sea
+2021-10-15,85000,TS13 4SG,T,N,F,30,,Queens Road,Loftus,Saltburn-By-The-Sea
+2021-10-13,78000,TS13 4LB,T,N,F,19,,East Crescent,Loftus,Saltburn-By-The-Sea
+2021-10-12,92000,TS13 4QG,T,N,F,5,,Liverton Terrace,Liverton,Saltburn-By-The-Sea
+2021-10-11,110000,TS13 4RW,T,N,F,1,,West Road,Loftus,Saltburn-By-The-Sea
+2021-10-08,63000,TS13 4DD,T,N,F,7,,Steavenson Street,Carlin How,Saltburn-By-The-Sea
+2021-10-04,60000,TS13 4DH,T,N,F,4,,Grosvenor Terrace,Carlin How,Saltburn-By-The-Sea
+2021-10-01,123000,TS13 4PT,S,N,F,147,,Coronation Road,Loftus,Saltburn-By-The-Sea
+2021-10-01,103000,TS13 4PL,T,N,F,1,,Co Operative Terrace,Loftus,Saltburn-By-The-Sea
+2021-09-30,365000,TS13 5JX,D,N,F,"Seaton Lodge, 11",,High Street,Hinderwell,Saltburn-By-The-Sea
+2021-09-30,220000,TS13 5AL,D,N,F,1,,Whitby Road,Staithes,Saltburn-By-The-Sea
+2021-09-30,440000,TS13 4TB,S,N,F,1,,Liverton Village,Liverton,Saltburn-By-The-Sea
+2021-09-30,114995,TS13 4BX,S,Y,F,27,,Middle Gill Close,Loftus,Saltburn-By-The-Sea
+2021-09-28,240000,TS13 4UX,D,N,F,Street House Farm,The Stables,,Loftus,Saltburn-By-The-Sea
+2021-09-28,250000,TS13 4JE,D,N,F,78,,Micklow Lane,Loftus,Saltburn-By-The-Sea
+2021-09-27,123000,TS13 4PT,S,N,F,155,,Coronation Road,Loftus,Saltburn-By-The-Sea
+2021-09-24,175000,TS13 5LQ,T,N,L,2,,Cliff Cottages,Port Mulgrave,Saltburn-By-The-Sea
+2021-09-24,187000,TS13 5BA,D,N,F,9,,Fairfield Road,Staithes,Saltburn-By-The-Sea
+2021-09-24,84000,TS13 4SL,S,N,F,26,,Coronation Road,Loftus,Saltburn-By-The-Sea
+2021-09-24,127995,TS13 4BX,S,Y,F,21,,Middle Gill Close,Loftus,Saltburn-By-The-Sea
+2021-09-20,57000,TS13 4DX,T,N,F,19,,Gladstone Street,Carlin How,Saltburn-By-The-Sea
+2021-09-20,51000,TS13 4DR,T,N,F,34,,Gladstone Street,Carlin How,Saltburn-By-The-Sea
+2021-09-17,185500,TS13 4NW,D,N,F,9,,Whitby Road,Easington,Saltburn-By-The-Sea
+2021-09-16,190000,TS13 5HR,F,N,L,40,Flat 3,Hinderwell Lane,Runswick,Saltburn-By-The-Sea
+2021-09-10,85000,TS13 4LQ,T,N,F,8,,Whitby Road,Loftus,Saltburn-By-The-Sea
+2021-09-03,85000,TS13 4XA,T,N,F,8,,Ash Grove,Loftus,Saltburn-By-The-Sea
+2021-09-03,146995,TS13 4BX,D,Y,F,23,,Middle Gill Close,Loftus,Saltburn-By-The-Sea
+2021-08-31,82000,TS13 4RY,T,N,F,21,,Cliff Crescent,Loftus,Saltburn-By-The-Sea
+2021-08-31,107995,TS13 4BX,S,Y,F,22,,Middle Gill Close,Loftus,Saltburn-By-The-Sea
+2021-08-27,146995,TS13 4BX,D,Y,F,25,,Middle Gill Close,Loftus,Saltburn-By-The-Sea
+2021-08-26,147000,TS13 4NU,S,N,F,9,,Park Lane,Easington,Saltburn-By-The-Sea
+2021-08-25,87500,TS13 4LR,T,N,F,4,,Tyne Street,Loftus,Saltburn-By-The-Sea
+2021-08-24,58500,TS13 4SN,S,N,F,75,,Coronation Road,Loftus,Saltburn-By-The-Sea
+2021-08-23,125000,TS13 4PL,T,N,F,9,,Co Operative Terrace,Loftus,Saltburn-By-The-Sea
+2021-08-23,67000,TS13 4DH,T,N,F,42,,Grosvenor Terrace,Carlin How,Saltburn-By-The-Sea
+2021-08-18,99950,TS13 4SW,S,N,F,97,,Coronation Road,Loftus,Saltburn-By-The-Sea
+2021-08-17,115000,TS13 4RH,T,N,F,61,,West Road,Loftus,Saltburn-By-The-Sea
+2021-08-04,70000,TS13 5HN,T,N,L,8,,Moor View Court,Hinderwell,Saltburn-By-The-Sea
+2021-08-04,140995,TS13 4BX,D,Y,F,24,,Middle Gill Close,Loftus,Saltburn-By-The-Sea
+2021-07-30,180225,TS13 5ET,T,N,F,101,,High Street,Hinderwell,Saltburn-By-The-Sea
+2021-07-29,200000,TS13 5BA,D,N,F,14,,Fairfield Road,Staithes,Saltburn-By-The-Sea
+2021-07-27,77000,TS13 4RU,T,N,F,41,,Lumley Street,Loftus,Saltburn-By-The-Sea
+2021-07-23,150000,TS13 4UX,T,N,F,1,,Upton Cottages,Loftus,Saltburn-By-The-Sea
+2021-07-23,107500,TS13 4NF,T,N,F,28,,Barnard Road,Easington,Saltburn-By-The-Sea
+2021-07-21,55000,TS13 4JA,T,N,F,7,,East Street,Loftus,Saltburn-By-The-Sea
+2021-07-16,60000,TS13 4DL,T,N,F,4,,Muriel Street,Carlin How,Saltburn-By-The-Sea
+2021-07-09,295000,TS13 4QA,D,N,F,3,,Gaskell Lane,Loftus,Saltburn-By-The-Sea
+2021-07-07,70000,TS13 4LB,T,N,F,31,,East Crescent,Loftus,Saltburn-By-The-Sea
+2021-07-02,200000,TS13 5HR,T,N,F,Coach House,,Hinderwell Lane,Runswick,Saltburn-By-The-Sea
+2021-07-02,95000,TS13 4QW,T,N,F,42,,St Helens Walk,Liverton,Saltburn-By-The-Sea
+2021-07-02,55000,TS13 4LW,T,N,F,33,,Tees Street,Loftus,Saltburn-By-The-Sea
+2021-06-30,160000,TS13 5BY,T,N,F,3,,North Side,Staithes,Saltburn-By-The-Sea
+2021-06-30,380000,TS13 5AN,D,N,F,"Stonelea, 1",,Dalehouse Bank,Staithes,Saltburn-By-The-Sea
+2021-06-30,41000,TS13 4DN,T,N,F,46,,Coronation Street,Carlin How,Saltburn-By-The-Sea
+2021-06-30,144995,TS13 4BX,D,Y,F,30,,Middle Gill Close,Loftus,Saltburn-By-The-Sea
+2021-06-30,138995,TS13 4BX,D,Y,F,29,,Middle Gill Close,Loftus,Saltburn-By-The-Sea
+2021-06-30,147995,TS13 4BX,D,Y,F,28,,Middle Gill Close,Loftus,Saltburn-By-The-Sea
+2021-06-28,330000,TS13 5LD,D,N,F,80A,,Rosedale Lane,Port Mulgrave,Saltburn-By-The-Sea
+2021-06-28,360000,TS13 5BQ,T,N,F,East Lea,,High Street,Staithes,Saltburn-By-The-Sea
+2021-06-28,127995,TS13 4BX,S,Y,F,66,,Middle Gill Close,Loftus,Saltburn-By-The-Sea
+2021-06-25,348000,TS13 4TB,T,N,F,Tickhill Farm House,,Liverton Village,Liverton,Saltburn-By-The-Sea
+2021-06-25,147995,TS13 4BX,S,Y,F,65,,Middle Gill Close,Loftus,Saltburn-By-The-Sea
+2021-06-24,140000,TS13 4ER,T,N,F,5,,Rockcliffe Terrace,Carlin How,Saltburn-By-The-Sea
+2021-06-23,875000,TS13 4UD,D,N,F,Grinkle Lodge Country Guest House,,,Easington,Saltburn-By-The-Sea
+2021-06-22,600000,TS13 4UE,T,N,F,3,,Springhouse Cottages,Easington,Saltburn-By-The-Sea
+2021-06-21,59000,TS13 4HZ,T,N,F,28,,Gladstone Street,Loftus,Saltburn-By-The-Sea
+2021-06-18,85000,TS13 4XP,S,N,F,58,,Clover Hill Drive,Loftus,Saltburn-By-The-Sea
+2021-06-17,160000,TS13 4NN,S,N,F,42,,Glebe Gardens,Easington,Saltburn-By-The-Sea
+2021-06-17,99995,TS13 4BX,S,Y,F,37,,Middle Gill Close,Loftus,Saltburn-By-The-Sea
+2021-06-15,190000,TS13 5BH,F,N,L,Beckstones Yard,Coble Cottage,High Street,Staithes,Saltburn-By-The-Sea
+2021-06-11,120000,TS13 4BS,T,N,F,30,,Primrose Hill,Skinningrove,Saltburn-By-The-Sea
+2021-06-10,73000,TS13 4DA,T,N,F,13,,Dixon Street,Carlin How,Saltburn-By-The-Sea
+2021-06-04,55000,TS13 4RB,T,N,F,11,,Newcomen Terrace,Loftus,Saltburn-By-The-Sea
+2021-05-28,210000,TS13 5DD,T,N,F,Corner House,,Gunn Gutter,Staithes,Saltburn-By-The-Sea
+2021-05-28,112000,TS13 5AU,S,N,F,7,,Seaton Close,Staithes,Saltburn-By-The-Sea
+2021-05-28,158995,TS13 4BX,D,Y,F,64,,Middle Gill Close,Loftus,Saltburn-By-The-Sea
+2021-05-28,117995,TS13 4BX,S,Y,F,36,,Middle Gill Close,Loftus,Saltburn-By-The-Sea
+2021-05-28,174995,TS13 4BX,D,Y,F,31,,Middle Gill Close,Loftus,Saltburn-By-The-Sea
+2021-05-26,63000,TS13 4SB,T,N,F,28,,Hartington Street,Loftus,Saltburn-By-The-Sea
+2021-05-21,81250,TS13 4QR,T,N,F,17,,Graham Street,Liverton,Saltburn-By-The-Sea
+2021-05-21,84000,TS13 4BP,T,N,F,168,,Grove Hill,Skinningrove,Saltburn-By-The-Sea
+2021-05-20,240000,TS13 5HS,T,N,L,18,,Ellerby Lane,Runswick,Saltburn-By-The-Sea
+2021-05-17,85500,TS13 4SL,T,N,F,30,,Coronation Road,Loftus,Saltburn-By-The-Sea
+2021-05-14,57000,TS13 4PX,T,N,F,15,,Station Road,Loftus,Saltburn-By-The-Sea
+2021-05-14,327000,TS13 4NT,D,N,F,1,,Grinkle Lane,Easington,Saltburn-By-The-Sea
+2021-05-14,180000,TS13 4NN,S,N,F,3,,Glebe Gardens,Easington,Saltburn-By-The-Sea
+2021-05-14,77000,TS13 4DF,S,N,F,5,,Carlin Park,Carlin How,Saltburn-By-The-Sea
+2021-05-07,145400,TS13 4PH,D,N,F,20,,Rosecroft Avenue,Loftus,Saltburn-By-The-Sea
+2021-04-30,169995,TS13 4BX,D,Y,F,35,,Middle Gill Close,Loftus,Saltburn-By-The-Sea
+2021-04-30,138995,TS13 4BX,D,Y,F,32,,Middle Gill Close,Loftus,Saltburn-By-The-Sea
+2021-04-29,102995,TS13 4BX,S,Y,F,34,,Middle Gill Close,Loftus,Saltburn-By-The-Sea
+2021-04-29,119995,TS13 4BX,S,Y,F,33,,Middle Gill Close,Loftus,Saltburn-By-The-Sea
+2021-04-26,145000,TS13 5AJ,T,N,F,12,,Staithes Lane,Staithes,Saltburn-By-The-Sea
+2021-04-23,239000,TS13 5JW,T,N,F,"Coniston, 7",,Porret Lane,Hinderwell,Saltburn-By-The-Sea
+2021-04-23,87000,TS13 4DT,T,N,F,12,,Cliffe Avenue,Carlin How,Saltburn-By-The-Sea
+2021-04-23,49500,TS13 4DR,T,N,F,38,,Gladstone Street,Carlin How,Saltburn-By-The-Sea
+2021-04-19,130000,TS13 5AY,S,N,F,37,,Seaton Crescent,Staithes,Saltburn-By-The-Sea
+2021-04-19,80000,TS13 4NF,T,N,F,57,,Barnard Road,Easington,Saltburn-By-The-Sea
+2021-04-15,67000,TS13 4LB,T,N,F,16,,East Crescent,Loftus,Saltburn-By-The-Sea
+2021-04-07,118000,TS13 4HG,T,N,F,64,,High Street,Loftus,Saltburn-By-The-Sea
+2021-04-01,79000,TS13 4SG,T,N,F,52,,Queens Road,Loftus,Saltburn-By-The-Sea
+2021-04-01,130000,TS13 4RL,S,N,F,5,,West Park Avenue,Loftus,Saltburn-By-The-Sea
+2021-04-01,81000,TS13 4LB,T,N,F,17,,East Crescent,Loftus,Saltburn-By-The-Sea
+2021-04-01,100000,TS13 4JD,S,N,F,19,,John Street,Loftus,Saltburn-By-The-Sea
+2021-03-31,340000,TS13 5BS,T,N,F,Ships Bell,,Chapel Yard,Staithes,Saltburn-By-The-Sea
+2021-03-30,190000,TS13 5BH,F,N,L,77B,,High Street,Staithes,Saltburn-By-The-Sea
+2021-03-29,178500,TS13 4TE,S,N,F,3,,The Close,Liverton,Saltburn-By-The-Sea
+2021-03-26,281330,TS13 5DD,T,N,F,Church View,,Gunn Gutter,Staithes,Saltburn-By-The-Sea
+2021-03-26,59950,TS13 4SA,T,N,F,20,,High Row,Loftus,Saltburn-By-The-Sea
+2021-03-26,88000,TS13 4DT,T,N,F,14,,Cliffe Avenue,Carlin How,Saltburn-By-The-Sea
+2021-03-25,165000,TS13 5AD,T,N,F,92,,Staithes Lane,Staithes,Saltburn-By-The-Sea
+2021-03-25,320000,TS13 5AD,D,N,F,58,,Staithes Lane,Staithes,Saltburn-By-The-Sea
+2021-03-23,125000,TS13 4JW,S,N,F,60,,Cromwell Avenue,Loftus,Saltburn-By-The-Sea
+2021-03-22,200000,TS13 4PF,S,N,F,4,,Meadowlands Close,Easington,Saltburn-By-The-Sea
+2021-03-19,213000,TS13 5HP,S,N,F,18,,Runswick Lane,Hinderwell,Saltburn-By-The-Sea
+2021-03-19,129950,TS13 5AP,S,N,F,30,,Captain Cooks Close,Staithes,Saltburn-By-The-Sea
+2021-03-19,92500,TS13 4QU,T,N,F,2,,Cleveland Street,Liverton,Saltburn-By-The-Sea
+2021-03-19,57399,TS13 4HZ,T,N,F,18,,Gladstone Street,Loftus,Saltburn-By-The-Sea
+2021-03-17,146000,TS13 4HT,S,N,F,2,,Beckside Close,Loftus,Saltburn-By-The-Sea
+2021-03-15,140000,TS13 4NE,T,N,F,Townend Farm,3,Whitby Road,Easington,Saltburn-By-The-Sea
+2021-03-12,345000,TS13 5BH,T,N,F,West Gate,,High Street,Staithes,Saltburn-By-The-Sea
+2021-03-12,126000,TS13 5AZ,T,N,F,24,,Seaton Crescent,Staithes,Saltburn-By-The-Sea
+2021-03-12,71000,TS13 4HG,T,N,F,66,,High Street,Loftus,Saltburn-By-The-Sea
+2021-03-10,525000,TS13 5HU,D,N,F,Summer House,,,Runswick,Saltburn-By-The-Sea
+2021-03-10,30000,TS13 4RD,T,N,F,14,,Dundas Street,Loftus,Saltburn-By-The-Sea
+2021-03-08,67000,TS13 4RX,T,N,F,4,,Scarborough Street,Loftus,Saltburn-By-The-Sea
+2021-03-05,365000,TS13 4NT,D,N,F,Grinklewood Grange,,Grinkle Lane,Easington,Saltburn-By-The-Sea
+2021-03-04,167000,TS13 4NZ,D,N,F,6,,Sunnyfield Gardens,Easington,Saltburn-By-The-Sea
+2021-03-04,152000,TS13 4JW,S,N,F,43,,Cromwell Avenue,Loftus,Saltburn-By-The-Sea
+2021-03-02,83500,TS13 4SN,S,N,F,27,,Coronation Road,Loftus,Saltburn-By-The-Sea
+2021-03-02,305000,TS13 4PR,D,N,F,Grace Peaks,,Duncan Place,Loftus,Saltburn-By-The-Sea
+2021-02-26,190000,TS13 5JW,D,N,F,11,,Porret Lane,Hinderwell,Saltburn-By-The-Sea
+2021-02-22,167500,TS13 5BS,T,N,F,Holmeside,,Chapel Yard,Staithes,Saltburn-By-The-Sea
+2021-02-19,77500,TS13 4PL,T,N,F,3,,Co Operative Terrace,Loftus,Saltburn-By-The-Sea
+2021-02-19,52500,TS13 4DQ,T,N,F,46,,Queen Street,Carlin How,Saltburn-By-The-Sea
+2021-02-15,195000,TS13 5BA,D,N,F,8,,Fairfield Road,Staithes,Saltburn-By-The-Sea
+2021-02-12,128000,TS13 5HA,S,N,F,21,,Coronation Avenue,Hinderwell,Saltburn-By-The-Sea
+2021-02-12,64000,TS13 4EP,T,N,F,1,,Kennedy Crescent,Carlin How,Saltburn-By-The-Sea
+2021-02-05,62000,TS13 4RU,T,N,F,38,,Lumley Street,Loftus,Saltburn-By-The-Sea
+2021-02-03,180000,TS13 4NN,S,N,F,63,,Glebe Gardens,Easington,Saltburn-By-The-Sea
+2021-02-01,135000,TS13 4DF,D,N,F,16,,Carlin Park,Carlin How,Saltburn-By-The-Sea
+2021-01-29,151000,TS13 4AJ,D,N,L,Valley View,,Mill Lane,Skinningrove,Saltburn-By-The-Sea
+2021-01-28,105000,TS13 5AU,T,N,F,37,,Seaton Close,Staithes,Saltburn-By-The-Sea
+2021-01-25,100000,TS13 4LB,T,N,F,10,,East Crescent,Loftus,Saltburn-By-The-Sea
+2021-01-25,40000,TS13 4HZ,T,N,F,8,,Gladstone Street,Loftus,Saltburn-By-The-Sea
+2021-01-22,121995,TS13 4BX,T,Y,F,43,,Middle Gill Close,Loftus,Saltburn-By-The-Sea
+2021-01-20,145000,TS13 4NN,S,N,F,34,,Glebe Gardens,Easington,Saltburn-By-The-Sea
+2021-01-19,400000,TS13 4JH,T,N,F,Hummersea,The Barns,,Loftus,Saltburn-By-The-Sea
+2021-01-18,70000,TS13 4RW,T,N,F,6,,West Road,Loftus,Saltburn-By-The-Sea
+2021-01-15,62000,TS13 4JA,T,N,F,1,,East Street,Loftus,Saltburn-By-The-Sea
+2021-01-14,130000,TS13 4NZ,S,N,F,28,,Sunnyfield Gardens,Easington,Saltburn-By-The-Sea
+2021-01-14,43000,TS13 4HA,F,N,L,53,Flat 3,High Street,Loftus,Saltburn-By-The-Sea
+2021-01-08,53000,TS13 4SA,T,N,F,47,,High Row,Loftus,Saltburn-By-The-Sea
+2021-01-06,153000,TS13 5HA,T,N,F,Lilac Court,2,Coronation Avenue,Hinderwell,Saltburn-By-The-Sea

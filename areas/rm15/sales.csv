@@ -1,0 +1,2032 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-24,480000,RM15 6TA,D,N,F,37,,Laburnum Grove,,South Ockendon
+2026-08-14,370000,RM15 5DR,T,N,F,3,,Dale Close,,South Ockendon
+2026-08-10,370000,RM15 6AS,T,N,F,66,,Cherwell Grove,,South Ockendon
+2026-08-10,335000,RM15 5QQ,T,N,F,7,,Groves Close,,South Ockendon
+2026-07-31,330000,RM15 5JY,T,N,F,32,,Fulbrook Lane,,South Ockendon
+2026-07-31,365000,RM15 4RJ,T,N,F,27,,Nethan Drive,Aveley,South Ockendon
+2026-07-30,330000,RM15 6TE,T,N,F,12,,Magnolia Close,,South Ockendon
+2026-07-28,350000,RM15 5JY,T,N,F,23,,Fulbrook Lane,,South Ockendon
+2026-07-27,350000,RM15 5AG,T,N,F,245,,Daiglen Drive,,South Ockendon
+2026-07-27,245000,RM15 4AX,T,N,F,63,,High Street,Aveley,South Ockendon
+2026-07-24,598000,RM15 6TT,D,N,F,9,,Hornbeam Chase,,South Ockendon
+2026-07-24,335000,RM15 6JG,T,N,F,60,,Larkspur Close,,South Ockendon
+2026-07-24,355000,RM15 4ET,T,N,F,12,,Mill Field Way,Aveley,South Ockendon
+2026-07-17,360000,RM15 6NR,S,N,F,97,,South Road,,South Ockendon
+2026-07-17,363000,RM15 6EJ,T,N,F,43,,Cruick Avenue,,South Ockendon
+2026-07-17,87500,RM15 5FD,F,N,L,Avontar Court,42,Avontar Road,,South Ockendon
+2026-07-13,340000,RM15 6TE,T,N,F,3,,Magnolia Close,,South Ockendon
+2026-07-10,367000,RM15 4SH,T,N,F,20,,St Pauls Close,Aveley,South Ockendon
+2026-07-10,330000,RM15 4NH,T,N,F,72,,Ravel Gardens,Aveley,South Ockendon
+2026-07-10,450000,RM15 4JB,S,N,F,25,,Myrtle Grove,Aveley,South Ockendon
+2026-07-08,482500,RM15 6HS,S,N,F,10,,Orchard Close,,South Ockendon
+2026-07-06,630000,RM15 5JN,S,N,F,60,,Humber Avenue,,South Ockendon
+2026-07-03,375000,RM15 6AH,S,N,F,150,,Cherwell Grove,,South Ockendon
+2026-07-03,475000,RM15 4DS,S,N,F,99C,,Purfleet Road,Aveley,South Ockendon
+2026-07-01,202500,RM15 4EF,F,N,L,67,,Brinson Way,Aveley,South Ockendon
+2026-06-30,280000,RM15 6NW,T,N,F,30,,Lime Close,,South Ockendon
+2026-06-30,345000,RM15 5QT,T,N,F,3,,Bann Close,,South Ockendon
+2026-06-30,432000,RM15 4DA,S,N,F,59,,Belhouse Avenue,Aveley,South Ockendon
+2026-06-29,395000,RM15 4HH,T,N,F,10,,Hall Terrace,Aveley,South Ockendon
+2026-06-29,370000,RM15 4HD,D,N,F,12A,,Hall Road,Aveley,South Ockendon
+2026-06-26,380000,RM15 5EW,S,N,F,22,,Ernan Road,,South Ockendon
+2026-06-25,625000,RM15 6PX,D,N,F,33,,Nelson Road,,South Ockendon
+2026-06-17,350000,RM15 5AQ,S,N,F,335,,Daiglen Drive,,South Ockendon
+2026-06-16,270000,RM15 6EU,T,N,F,75,,Foxglove Road,,South Ockendon
+2026-06-16,250000,RM15 6AX,T,N,F,40,,Cherwell Grove,,South Ockendon
+2026-06-10,402000,RM15 5AY,T,N,F,49,,Erriff Drive,,South Ockendon
+2026-06-05,360000,RM15 5DB,T,N,F,195,,Araglen Avenue,,South Ockendon
+2026-05-29,400000,RM15 5SD,D,N,F,12,,Kemps Farm Mews,,South Ockendon
+2026-05-29,390000,RM15 5AJ,T,N,F,383,,Daiglen Drive,,South Ockendon
+2026-05-29,420000,RM15 4TR,S,N,F,3,,Martin Road,Aveley,South Ockendon
+2026-05-29,360000,RM15 4HJ,T,N,F,27,,Hall Road,Aveley,South Ockendon
+2026-05-26,285000,RM15 6HT,T,N,F,146,,Orchard Road,,South Ockendon
+2026-05-22,400000,RM15 6TH,S,N,F,12,,Lavender Close,,South Ockendon
+2026-05-22,500000,RM15 4DA,D,N,F,33,,Belhouse Avenue,Aveley,South Ockendon
+2026-05-22,435000,RM15 4BF,D,N,F,28,,Belhouse Avenue,Aveley,South Ockendon
+2026-05-21,335000,RM15 4QX,T,N,F,6,,Shannon Way,Aveley,South Ockendon
+2026-05-19,255000,RM15 4EF,F,N,L,61,,Brinson Way,Aveley,South Ockendon
+2026-05-15,335000,RM15 4SH,T,N,F,57,,St Pauls Close,Aveley,South Ockendon
+2026-05-15,200000,RM15 4QS,F,N,L,Franklyns,10,Teviot Avenue,Aveley,South Ockendon
+2026-05-15,395000,RM15 4JS,S,N,F,19,,Hall Crescent,Aveley,South Ockendon
+2026-05-14,365500,RM15 6RB,T,N,F,10,,Cedar Rise,,South Ockendon
+2026-05-13,180000,RM15 5BD,F,N,L,Archers Court,Flat 10,Arisdale Avenue,,South Ockendon
+2026-05-08,170000,RM15 5QN,F,N,L,10,,Cam Green,,South Ockendon
+2026-05-08,270000,RM15 5FA,F,N,L,28,,Fairlane Drive,,South Ockendon
+2026-05-01,395000,RM15 6BU,S,N,F,216,,South Road,,South Ockendon
+2026-04-30,337000,RM15 6BA,T,N,F,9,,Corve Lane,,South Ockendon
+2026-04-30,260000,RM15 5FL,F,N,L,Capri House,2,Anglia Way,,South Ockendon
+2026-04-30,335000,RM15 5BS,T,N,F,27,,Bovey Way,,South Ockendon
+2026-04-30,335000,RM15 4SZ,T,N,F,32,,St Michaels Close,Aveley,South Ockendon
+2026-04-28,195000,RM15 4DY,F,N,L,32,,Meadow Drive,Aveley,South Ockendon
+2026-04-27,420000,RM15 4TP,T,N,F,4,,Dacre Crescent,Aveley,South Ockendon
+2026-04-20,318750,RM15 5ER,T,N,F,105,,Easington Way,,South Ockendon
+2026-04-17,336500,RM15 4QX,T,N,F,14,,Shannon Way,Aveley,South Ockendon
+2026-04-15,590000,RM15 6XB,D,N,F,8,,Sycamore Way,,South Ockendon
+2026-04-15,410000,RM15 5JU,T,N,F,141,,Garron Lane,,South Ockendon
+2026-04-15,295000,RM15 4UE,F,N,L,8,,Park Mews,Aveley,South Ockendon
+2026-04-14,230000,RM15 6JH,T,N,F,32,,Rosemary Close,,South Ockendon
+2026-04-10,180000,RM15 5DT,T,N,L,12,,Dunning Close,,South Ockendon
+2026-04-10,155000,RM15 4QJ,F,N,L,152,,Teviot Avenue,Aveley,South Ockendon
+2026-04-10,386000,RM15 4HJ,S,N,F,33,,Hall Road,Aveley,South Ockendon
+2026-04-07,190000,RM15 6PG,F,N,L,5,,Tyssen Place,,South Ockendon
+2026-04-02,199000,RM15 5XA,F,N,L,195,,Danbury Crescent,,South Ockendon
+2026-04-02,390000,RM15 4EH,T,N,F,6,,Toplands Avenue,Aveley,South Ockendon
+2026-04-01,340000,RM15 5QA,T,N,F,513,,Broxburn Drive,,South Ockendon
+2026-03-31,285000,RM15 5GW,F,N,L,89,,Windstar Drive,,South Ockendon
+2026-03-31,244000,RM15 5FE,F,N,L,78,,Arisdale Avenue,,South Ockendon
+2026-03-31,500000,RM15 4DR,S,N,F,"Montague Place, 43",6,Purfleet Road,Aveley,South Ockendon
+2026-03-30,535000,RM15 6TZ,S,N,F,25,,Birch Crescent,,South Ockendon
+2026-03-30,195000,RM15 5RJ,F,N,L,53,,Daiglen Drive,,South Ockendon
+2026-03-30,195000,RM15 4UE,T,N,L,6,,Park Mews,Aveley,South Ockendon
+2026-03-30,420000,RM15 4ER,T,N,F,26,,Grange Road,Aveley,South Ockendon
+2026-03-30,375000,RM15 4EL,T,N,F,6,,Manor Close,Aveley,South Ockendon
+2026-03-27,320000,RM15 6NP,T,N,F,123A,,South Road,,South Ockendon
+2026-03-27,275000,RM15 6NN,T,N,F,63,,Lime Close,,South Ockendon
+2026-03-27,380000,RM15 4JR,S,N,F,37,,Hall Crescent,Aveley,South Ockendon
+2026-03-26,315000,RM15 6DH,T,N,F,63,,Mollands Lane,,South Ockendon
+2026-03-26,495000,RM15 5AS,T,N,F,13,,Arisdale Avenue,,South Ockendon
+2026-03-20,400000,RM15 5XE,S,N,F,178,,Danbury Crescent,,South Ockendon
+2026-03-20,460000,RM15 5TH,S,N,F,12,,Ardmore Road,,South Ockendon
+2026-03-20,325000,RM15 5QE,T,N,F,44,,Fyfield Drive,,South Ockendon
+2026-03-20,389250,RM15 5JZ,T,N,F,49,,Fulbrook Lane,,South Ockendon
+2026-03-20,370000,RM15 4TJ,S,N,F,26,,Crescent Way,Aveley,South Ockendon
+2026-03-20,345000,RM15 4NH,T,N,F,36,,Ravel Gardens,Aveley,South Ockendon
+2026-03-16,343000,RM15 6TG,T,N,F,63,,Holly Drive,,South Ockendon
+2026-03-16,285000,RM15 4SZ,T,N,F,68,,St Michaels Close,Aveley,South Ockendon
+2026-03-13,475000,RM15 5FS,D,N,F,64,,Sunliner Way,,South Ockendon
+2026-03-13,360000,RM15 4DA,T,N,F,107,,Belhouse Avenue,Aveley,South Ockendon
+2026-03-11,110000,RM15 6NW,F,N,L,52,,Lime Close,,South Ockendon
+2026-03-11,350000,RM15 6AD,T,N,F,57,,Cullen Square,,South Ockendon
+2026-03-09,470000,RM15 4SS,T,N,F,21,,Hanford Road,Aveley,South Ockendon
+2026-03-06,350000,RM15 4NU,T,N,F,111,,Usk Road,Aveley,South Ockendon
+2026-03-06,200000,RM15 4HW,F,N,L,22,,Cavendish Gardens,Aveley,South Ockendon
+2026-03-04,415000,RM15 4EJ,T,N,F,70,,Grange Road,Aveley,South Ockendon
+2026-03-03,400000,RM15 5QB,T,N,F,551,,Broxburn Drive,,South Ockendon
+2026-03-02,400000,RM15 4JB,S,N,F,11,,Myrtle Grove,Aveley,South Ockendon
+2026-02-27,390000,RM15 6HS,S,N,F,28,,Orchard Close,,South Ockendon
+2026-02-27,382500,RM15 6EH,T,N,F,135,,Cruick Avenue,,South Ockendon
+2026-02-27,255000,RM15 5SZ,F,N,L,Sancta Maria Apartments,13,Daiglen Drive,,South Ockendon
+2026-02-27,320000,RM15 5DD,T,N,F,132,,Araglen Avenue,,South Ockendon
+2026-02-27,400000,RM15 4HT,S,N,F,73,,Love Lane,Aveley,South Ockendon
+2026-02-26,149500,RM15 6AR,F,N,L,35,,Corran Way,,South Ockendon
+2026-02-25,335000,RM15 5QT,T,N,F,14,,Bann Close,,South Ockendon
+2026-02-25,355000,RM15 4RB,T,N,F,31,,Nare Road,Aveley,South Ockendon
+2026-02-24,220000,RM15 6PF,F,N,L,15,,Gidea Close,,South Ockendon
+2026-02-23,310000,RM15 6NU,T,N,F,6,,South Road,,South Ockendon
+2026-02-23,410000,RM15 4RH,T,N,F,30,,Nethan Drive,Aveley,South Ockendon
+2026-02-23,445000,RM15 4NS,S,N,F,5,,Ravel Gardens,Aveley,South Ockendon
+2026-02-23,430000,RM15 4JP,S,N,F,23,,Kent View,Aveley,South Ockendon
+2026-02-20,362000,RM15 4RH,T,N,F,17,,Nethan Drive,Aveley,South Ockendon
+2026-02-16,605000,RM15 6TS,D,N,F,28,,Medlar Drive,,South Ockendon
+2026-02-16,480000,RM15 6TA,D,N,F,11,,Laburnum Grove,,South Ockendon
+2026-02-16,360000,RM15 5RN,T,N,F,14,,Daiglen Drive,,South Ockendon
+2026-02-16,305000,RM15 5LQ,F,N,L,"Cuthbert Court, 33",Apartment 10,Falcon Way,,South Ockendon
+2026-02-16,280000,RM15 5GU,F,N,L,19,,Windstar Drive,,South Ockendon
+2026-02-13,137500,RM15 5LB,F,N,L,227,,Windstar Drive,,South Ockendon
+2026-02-13,350000,RM15 5AU,T,N,F,112,,Anton Road,,South Ockendon
+2026-02-13,390000,RM15 4AU,S,N,F,15,,Manning Street,Aveley,South Ockendon
+2026-02-12,400000,RM15 4ER,T,N,F,16,,Grange Road,Aveley,South Ockendon
+2026-02-10,295000,RM15 6JQ,T,N,F,37,,Larkspur Close,,South Ockendon
+2026-02-06,178000,RM15 5AF,F,N,L,187,,Daiglen Drive,,South Ockendon
+2026-02-06,360000,RM15 4NT,T,N,F,141,,Usk Road,Aveley,South Ockendon
+2026-02-06,418000,RM15 4NR,T,N,F,7,,Severn Road,Aveley,South Ockendon
+2026-02-04,400000,RM15 5QS,T,N,F,124,,Broxburn Drive,,South Ockendon
+2026-01-30,235000,RM15 5FS,F,N,L,55,,Sunliner Way,,South Ockendon
+2026-01-30,380000,RM15 5FS,T,N,L,21,,Sunliner Way,,South Ockendon
+2026-01-30,427000,RM15 5FA,S,N,L,57,,Fairlane Drive,,South Ockendon
+2026-01-30,425000,RM15 4TR,T,N,F,6,,Martin Road,Aveley,South Ockendon
+2026-01-30,385000,RM15 4RB,T,N,F,11,,Nare Road,Aveley,South Ockendon
+2026-01-29,160000,RM15 5BW,F,N,L,57,,Eden Green,,South Ockendon
+2026-01-23,567500,RM15 6TZ,D,N,F,38,,Birch Crescent,,South Ockendon
+2026-01-23,243000,RM15 6ES,F,N,F,10,,Verbena Close,,South Ockendon
+2026-01-23,330000,RM15 5EJ,T,N,F,4,,Easington Way,,South Ockendon
+2026-01-23,400000,RM15 5DE,S,N,F,1,,Annalee Gardens,,South Ockendon
+2026-01-16,210000,RM15 6PE,F,N,L,6,,Benyon Path,,South Ockendon
+2026-01-16,460000,RM15 6EE,T,N,F,47,,Chelmer Drive,,South Ockendon
+2026-01-16,260000,RM15 5FA,F,N,L,3,,Fairlane Drive,,South Ockendon
+2026-01-09,330000,RM15 4HW,T,N,F,4,,Cavendish Gardens,Aveley,South Ockendon
+2026-01-07,255000,RM15 4SX,F,N,L,14,,Elm Road,Aveley,South Ockendon
+2026-01-07,390000,RM15 4ST,T,N,F,9,,Davis Road,Aveley,South Ockendon
+2026-01-07,370000,RM15 4LD,S,N,F,68,,Hall Avenue,Aveley,South Ockendon
+2026-01-07,400000,RM15 4AP,S,N,F,12,,Arnhem Avenue,Aveley,South Ockendon
+2026-01-06,510000,RM15 6HB,S,N,F,14,,Orchard Road,,South Ockendon
+2025-12-23,540000,RM15 4DR,S,N,F,"Montague Place, 43",4,Purfleet Road,Aveley,South Ockendon
+2025-12-19,355000,RM15 6HH,T,N,F,60,,Orchard Road,,South Ockendon
+2025-12-19,170000,RM15 6EU,T,N,F,81,,Foxglove Road,,South Ockendon
+2025-12-19,275000,RM15 5GW,F,N,L,79,,Windstar Drive,,South Ockendon
+2025-12-19,275000,RM15 5GU,F,N,L,43,,Windstar Drive,,South Ockendon
+2025-12-19,250000,RM15 5FT,F,N,L,33,,Torino Way,,South Ockendon
+2025-12-19,375000,RM15 5DE,T,N,F,61,,Annalee Gardens,,South Ockendon
+2025-12-19,220000,RM15 5BD,F,N,L,Archers Court,Flat 23,Arisdale Avenue,,South Ockendon
+2025-12-19,331500,RM15 4RR,T,N,F,4,,Monnow Green,Aveley,South Ockendon
+2025-12-19,405000,RM15 4RB,S,N,F,23,,Nare Road,Aveley,South Ockendon
+2025-12-19,415000,RM15 4HZ,S,N,F,2,,Pembroke Drive,Aveley,South Ockendon
+2025-12-19,400000,RM15 4DN,T,N,F,7,,Courts Way,Aveley,South Ockendon
+2025-12-12,340000,RM15 5NQ,T,N,F,49,,Fortin Way,,South Ockendon
+2025-12-12,340000,RM15 5HR,T,N,F,4,,Gavenny Path,,South Ockendon
+2025-12-12,467000,RM15 5FY,D,N,F,6,,Maverick Drive,,South Ockendon
+2025-12-12,375000,RM15 5BF,S,N,F,48,,Elmdon Road,,South Ockendon
+2025-12-12,480000,RM15 4BF,D,N,F,12,,Belhouse Avenue,Aveley,South Ockendon
+2025-12-11,210000,RM15 5XA,F,N,L,149,,Danbury Crescent,,South Ockendon
+2025-12-11,425000,RM15 5QE,D,N,F,19,,Fyfield Drive,,South Ockendon
+2025-12-11,315000,RM15 4AH,T,N,F,9,,Lennard Row,Aveley,South Ockendon
+2025-12-08,175000,RM15 4BP,F,N,L,7C,,High Street,Aveley,South Ockendon
+2025-12-05,342000,RM15 5JQ,S,N,F,109,,Garron Lane,,South Ockendon
+2025-12-05,330000,RM15 5DW,T,N,F,2,,Alwen Grove,,South Ockendon
+2025-12-05,370000,RM15 5AN,S,N,F,7,,Erriff Drive,,South Ockendon
+2025-12-05,400000,RM15 4DW,S,N,F,22,,Marshfoot Close,Aveley,South Ockendon
+2025-12-04,500000,RM15 4DR,S,N,F,"Montague Place, 43",5,Purfleet Road,Aveley,South Ockendon
+2025-12-03,320000,RM15 6NN,T,N,F,17,,Lime Close,,South Ockendon
+2025-12-03,325000,RM15 4NX,T,N,F,66,,Usk Road,Aveley,South Ockendon
+2025-12-02,340000,RM15 4PJ,T,N,F,120,,Romford Road,Aveley,South Ockendon
+2025-12-02,340000,RM15 4PH,T,N,F,230,,Romford Road,Aveley,South Ockendon
+2025-12-01,350000,RM15 5JU,T,N,F,123,,Garron Lane,,South Ockendon
+2025-11-28,390000,RM15 6BU,S,N,F,182,,South Road,,South Ockendon
+2025-11-28,385000,RM15 5NG,T,N,F,64,,Fortin Way,,South Ockendon
+2025-11-27,270000,RM15 4TS,T,N,L,20,,Martin Road,Aveley,South Ockendon
+2025-11-27,380000,RM15 4SX,S,N,F,30,,Elm Road,Aveley,South Ockendon
+2025-11-27,420000,RM15 4SH,S,N,F,30,,St Pauls Close,Aveley,South Ockendon
+2025-11-27,109000,RM15 4QL,F,N,L,Meresmans,15,Teviot Avenue,Aveley,South Ockendon
+2025-11-25,450000,RM15 6DJ,S,N,F,73,,Mollands Lane,,South Ockendon
+2025-11-25,400000,RM15 5XE,S,N,F,180,,Danbury Crescent,,South Ockendon
+2025-11-25,390000,RM15 4NT,S,N,F,149,,Usk Road,Aveley,South Ockendon
+2025-11-24,340000,RM15 5HW,T,N,F,58,,Fullarton Crescent,,South Ockendon
+2025-11-21,285000,RM15 6PX,T,N,F,21,,Nelson Road,,South Ockendon
+2025-11-21,410000,RM15 6EE,S,N,F,76,,Chelmer Drive,,South Ockendon
+2025-11-21,335000,RM15 5HZ,T,N,F,69,,Fullarton Crescent,,South Ockendon
+2025-11-21,341000,RM15 5DS,T,N,F,6,,Dent Close,,South Ockendon
+2025-11-21,105000,RM15 4QL,F,N,L,Meresmans,23,Teviot Avenue,Aveley,South Ockendon
+2025-11-20,200000,RM15 5QH,F,N,L,2,,Brock Green,,South Ockendon
+2025-11-18,420000,RM15 5HN,S,N,F,6,,Fullarton Crescent,,South Ockendon
+2025-11-18,408000,RM15 5AW,S,N,F,58,,Erriff Drive,,South Ockendon
+2025-11-17,375000,RM15 4QD,T,N,F,59,,Teviot Avenue,Aveley,South Ockendon
+2025-11-14,335000,RM15 4NH,T,N,F,20,,Ravel Gardens,Aveley,South Ockendon
+2025-11-14,447000,RM15 4AA,S,N,F,30,,Stifford Road,Aveley,South Ockendon
+2025-11-13,370000,RM15 5GS,T,N,F,2,,Verona Way,,South Ockendon
+2025-11-12,645000,RM15 6XD,D,N,F,18,,Birch Close,,South Ockendon
+2025-11-10,313000,RM15 5NP,T,N,F,15,,Fairham Avenue,,South Ockendon
+2025-11-07,270000,RM15 6PH,F,N,L,36,,West Road,,South Ockendon
+2025-11-07,198000,RM15 5DS,F,N,L,47,,Dent Close,,South Ockendon
+2025-11-05,325000,RM15 4SY,S,N,F,35,,St Michaels Close,Aveley,South Ockendon
+2025-11-03,340000,RM15 6AS,T,N,F,98,,Cherwell Grove,,South Ockendon
+2025-10-31,345000,RM15 5NH,T,N,F,38,,Fortin Close,,South Ockendon
+2025-10-31,255000,RM15 5FA,F,N,L,7,,Fairlane Drive,,South Ockendon
+2025-10-31,365000,RM15 5BY,S,N,F,22,,Annalee Road,,South Ockendon
+2025-10-31,450000,RM15 5AJ,S,N,F,401,,Daiglen Drive,,South Ockendon
+2025-10-30,360000,RM15 4BU,S,N,F,30,,Stanford Gardens,Aveley,South Ockendon
+2025-10-28,431000,RM15 6EB,T,N,F,338,,South Road,,South Ockendon
+2025-10-28,394500,RM15 5DR,T,N,F,32,,Dale Close,,South Ockendon
+2025-10-28,350000,RM15 5AX,T,N,F,22,,Avontar Road,,South Ockendon
+2025-10-28,430000,RM15 4BF,S,N,F,40,,Belhouse Avenue,Aveley,South Ockendon
+2025-10-27,145000,RM15 6PE,F,N,L,30,,Benyon Path,,South Ockendon
+2025-10-24,250000,RM15 6HY,T,N,F,62,,Mayflower Close,,South Ockendon
+2025-10-24,380000,RM15 6AS,T,N,F,106,,Cherwell Grove,,South Ockendon
+2025-10-24,400000,RM15 4ED,S,N,F,4,,Lowlands Road,Aveley,South Ockendon
+2025-10-23,375000,RM15 6DA,T,N,F,142B,,South Road,,South Ockendon
+2025-10-23,385000,RM15 4PD,S,N,F,256,,Romford Road,Aveley,South Ockendon
+2025-10-22,260000,RM15 5FA,F,N,L,29,,Fairlane Drive,,South Ockendon
+2025-10-22,420000,RM15 5AY,S,N,F,57A,,Erriff Drive,,South Ockendon
+2025-10-21,335000,RM15 5LR,S,N,F,23,,Dalroy Close,,South Ockendon
+2025-10-20,485000,RM15 6TG,D,N,F,4,,Holly Drive,,South Ockendon
+2025-10-17,175000,RM15 5SD,T,N,F,6,,Kemps Farm Mews,,South Ockendon
+2025-10-17,285000,RM15 5FW,F,N,L,7,,Falcon Way,,South Ockendon
+2025-10-17,415000,RM15 5FJ,S,N,F,7,,Ayron Road,,South Ockendon
+2025-10-17,545000,RM15 4DR,S,N,F,"Montague Place, 43",3,Purfleet Road,Aveley,South Ockendon
+2025-10-17,425000,RM15 4BF,S,N,F,76,,Belhouse Avenue,Aveley,South Ockendon
+2025-10-16,400000,RM15 5XD,S,N,F,337,,Danbury Crescent,,South Ockendon
+2025-10-13,307500,RM15 6HX,T,N,F,94,,Tamarisk Road,,South Ockendon
+2025-10-13,302000,RM15 5HE,T,N,F,76,,Foyle Drive,,South Ockendon
+2025-10-10,650000,RM15 6TX,D,N,F,7,,Aspen Way,,South Ockendon
+2025-10-10,428000,RM15 6QD,S,N,F,21,,Cheelson Road,,South Ockendon
+2025-10-10,351000,RM15 6PH,T,N,F,72,,West Road,,South Ockendon
+2025-10-10,400000,RM15 5XB,T,N,F,217,,Danbury Crescent,,South Ockendon
+2025-10-10,400000,RM15 5JJ,T,N,F,33,,Humber Avenue,,South Ockendon
+2025-10-10,365000,RM15 5BT,T,N,F,44,,Annifer Way,,South Ockendon
+2025-10-10,630000,RM15 4SW,D,N,F,44,,Rowan Grove,Aveley,South Ockendon
+2025-10-10,476000,RM15 4HT,S,N,F,49,,Love Lane,Aveley,South Ockendon
+2025-10-09,415000,RM15 4DA,S,N,F,95,,Belhouse Avenue,Aveley,South Ockendon
+2025-10-06,540000,RM15 6TS,D,N,F,20,,Medlar Drive,,South Ockendon
+2025-10-06,640000,RM15 6QU,D,N,F,10,,Garth Road,,South Ockendon
+2025-10-06,332500,RM15 6PX,S,N,F,8,,Nelson Road,,South Ockendon
+2025-10-06,212000,RM15 6PN,F,N,L,5,,Oak Court,,South Ockendon
+2025-10-06,225000,RM15 4PJ,T,N,L,178,,Romford Road,Aveley,South Ockendon
+2025-10-06,400000,RM15 4PB,T,N,F,23,,Usk Road,Aveley,South Ockendon
+2025-10-03,425000,RM15 6TJ,T,N,F,10,,Rosewood Close,,South Ockendon
+2025-10-02,265000,RM15 6XB,S,N,F,11A,,Sycamore Way,,South Ockendon
+2025-10-02,450000,RM15 6HP,S,N,F,79,,Orchard Road,,South Ockendon
+2025-10-02,214000,RM15 5BD,F,N,L,Archers Court,Flat 26,Arisdale Avenue,,South Ockendon
+2025-10-01,360000,RM15 5EQ,S,N,F,32,,Elan Road,,South Ockendon
+2025-09-30,340000,RM15 5HW,T,N,F,31,,Fullarton Crescent,,South Ockendon
+2025-09-30,480000,RM15 4EF,T,N,L,33,,Brinson Way,Aveley,South Ockendon
+2025-09-29,445000,RM15 4SH,D,N,F,38,,St Pauls Close,Aveley,South Ockendon
+2025-09-26,512500,RM15 6TD,D,N,F,22,,Brandon Groves Avenue,,South Ockendon
+2025-09-26,315000,RM15 6AD,T,N,F,59,,Cullen Square,,South Ockendon
+2025-09-26,370000,RM15 5HH,S,N,F,169,,Foyle Drive,,South Ockendon
+2025-09-26,295000,RM15 5AH,T,N,F,6,,Eskley Gardens,,South Ockendon
+2025-09-26,215000,RM15 4QL,F,N,L,Meresmans,2,Teviot Avenue,Aveley,South Ockendon
+2025-09-26,365000,RM15 4NT,T,N,F,153,,Usk Road,Aveley,South Ockendon
+2025-09-26,385000,RM15 4NJ,T,N,F,10,,Ravel Gardens,Aveley,South Ockendon
+2025-09-25,555000,RM15 4DR,S,N,F,"Montague Place, 43",1,Purfleet Road,Aveley,South Ockendon
+2025-09-23,345000,RM15 5AU,T,N,F,118,,Anton Road,,South Ockendon
+2025-09-22,425000,RM15 6TZ,S,N,F,23,,Birch Crescent,,South Ockendon
+2025-09-19,295000,RM15 6EE,T,N,F,31,,Chelmer Drive,,South Ockendon
+2025-09-19,220000,RM15 6AU,F,N,L,45,,Clayburn Gardens,,South Ockendon
+2025-09-19,405000,RM15 4DA,S,N,F,81,,Belhouse Avenue,Aveley,South Ockendon
+2025-09-17,533000,RM15 4SW,D,N,F,42,,Rowan Grove,Aveley,South Ockendon
+2025-09-17,415000,RM15 4DW,T,N,F,4,,Marshfoot Close,Aveley,South Ockendon
+2025-09-16,257000,RM15 6HU,T,N,F,150,,Tamarisk Road,,South Ockendon
+2025-09-16,379000,RM15 4ED,T,N,F,35,,Lowlands Road,Aveley,South Ockendon
+2025-09-15,535000,RM15 4AT,S,N,F,29,,Arnhem Avenue,Aveley,South Ockendon
+2025-09-12,325000,RM15 6JA,T,N,F,74,,Celandine Close,,South Ockendon
+2025-09-12,315000,RM15 6AR,T,N,F,71,,Corran Way,,South Ockendon
+2025-09-12,307000,RM15 5RE,T,N,F,79,,Cawdor Avenue,,South Ockendon
+2025-09-11,365000,RM15 5JY,S,N,F,13,,Fulbrook Lane,,South Ockendon
+2025-09-11,380000,RM15 5AZ,T,N,F,128,,Erriff Drive,,South Ockendon
+2025-09-10,347000,RM15 5HW,T,N,F,68,,Fullarton Crescent,,South Ockendon
+2025-09-10,403500,RM15 4QT,S,N,F,85,,Shannon Way,Aveley,South Ockendon
+2025-09-09,435000,RM15 6DL,S,N,F,141,,Mollands Lane,,South Ockendon
+2025-09-09,352000,RM15 5DD,T,N,F,120,,Araglen Avenue,,South Ockendon
+2025-09-05,382500,RM15 4UD,S,N,F,1,,Park Lane,Aveley,South Ockendon
+2025-09-01,300000,RM15 6NJ,T,N,F,44,,Nicholas Close,,South Ockendon
+2025-09-01,290000,RM15 5LQ,F,N,L,"Cuthbert Court, 33",Apartment 22,Falcon Way,,South Ockendon
+2025-09-01,260000,RM15 5FA,F,N,L,5,,Fairlane Drive,,South Ockendon
+2025-09-01,380000,RM15 5BF,T,N,F,72,,Elmdon Road,,South Ockendon
+2025-08-29,575000,RM15 5JP,S,N,F,7,,Irvine Gardens,,South Ockendon
+2025-08-29,145000,RM15 4BJ,F,N,L,3B,,Garage Villas,Aveley,South Ockendon
+2025-08-27,295000,RM15 6HU,S,N,F,134,,Tamarisk Road,,South Ockendon
+2025-08-26,575000,RM15 6TS,D,N,F,1,,Medlar Drive,,South Ockendon
+2025-08-26,370000,RM15 4ST,S,N,F,26,,Davis Road,Aveley,South Ockendon
+2025-08-26,370000,RM15 4EE,T,N,L,5,,Bumpstead Mead,Aveley,South Ockendon
+2025-08-22,440000,RM15 4ES,T,N,L,62,,Bredle Way,Aveley,South Ockendon
+2025-08-21,350000,RM15 4PB,T,N,F,11,,Usk Road,Aveley,South Ockendon
+2025-08-20,410000,RM15 6HB,S,N,F,7,,Orchard Road,,South Ockendon
+2025-08-20,340000,RM15 4RJ,T,N,F,56,,Nethan Drive,Aveley,South Ockendon
+2025-08-15,452500,RM15 5FW,S,N,F,18,,Falcon Way,,South Ockendon
+2025-08-14,365000,RM15 4TU,T,N,F,48,,Dacre Crescent,Aveley,South Ockendon
+2025-08-11,155000,RM15 5NW,F,N,L,53,,Faymore Gardens,,South Ockendon
+2025-08-08,160000,RM15 6JA,F,N,L,2,,Celandine Close,,South Ockendon
+2025-08-08,340000,RM15 5JU,S,N,F,134,,Garron Lane,,South Ockendon
+2025-08-08,270000,RM15 4UA,F,N,L,51,,Park Lane,Aveley,South Ockendon
+2025-08-06,160000,RM15 6AT,F,N,L,27,,Clayburn Gardens,,South Ockendon
+2025-08-05,180000,RM15 5BF,F,N,L,12,,Elmdon Road,,South Ockendon
+2025-08-05,345000,RM15 4SX,T,N,F,5,,Elm Road,Aveley,South Ockendon
+2025-08-01,169000,RM15 5BN,F,N,L,16,,Eden Green,,South Ockendon
+2025-08-01,362500,RM15 4SU,T,N,F,7,,Alfred Road,Aveley,South Ockendon
+2025-08-01,377000,RM15 4EL,T,N,F,4,,Manor Close,Aveley,South Ockendon
+2025-07-30,395000,RM15 5DR,T,N,F,5,,Dale Close,,South Ockendon
+2025-07-30,390000,RM15 5DA,T,N,F,22,,Araglen Avenue,,South Ockendon
+2025-07-28,345000,RM15 6DH,T,N,F,57,,Mollands Lane,,South Ockendon
+2025-07-28,375000,RM15 5SD,T,N,F,8,,Kemps Farm Mews,,South Ockendon
+2025-07-25,215000,RM15 6DL,S,N,F,133,,Mollands Lane,,South Ockendon
+2025-07-24,365000,RM15 6PX,T,N,F,3,,Nelson Road,,South Ockendon
+2025-07-24,410000,RM15 5ND,S,N,F,67,,Fairham Avenue,,South Ockendon
+2025-07-24,400000,RM15 5LX,S,N,F,29,,Foyle Drive,,South Ockendon
+2025-07-24,545000,RM15 4DS,S,N,F,129,,Purfleet Road,Aveley,South Ockendon
+2025-07-22,410000,RM15 5XF,S,N,F,18,,Danbury Crescent,,South Ockendon
+2025-07-21,260000,RM15 5FL,F,N,L,Capri House,12,Anglia Way,,South Ockendon
+2025-07-21,200000,RM15 5EE,F,N,L,46,,Derwent Parade,,South Ockendon
+2025-07-18,415000,RM15 4SU,T,N,F,6,,Alfred Road,Aveley,South Ockendon
+2025-07-14,320000,RM15 4HB,T,N,F,14,,Ship Lane,Aveley,South Ockendon
+2025-07-11,270000,RM15 6EU,T,N,F,79,,Foxglove Road,,South Ockendon
+2025-07-11,530000,RM15 6DB,S,N,F,22,,Mollands Lane,,South Ockendon
+2025-07-11,430000,RM15 4DY,S,N,L,35,,Meadow Drive,Aveley,South Ockendon
+2025-07-10,458000,RM15 5QP,S,N,F,44,,Barle Gardens,,South Ockendon
+2025-07-10,361000,RM15 4NR,T,N,F,6,,Severn Road,Aveley,South Ockendon
+2025-07-07,262500,RM15 5FW,F,N,L,9,,Falcon Way,,South Ockendon
+2025-07-04,250000,RM15 5AQ,T,N,F,301,,Daiglen Drive,,South Ockendon
+2025-07-04,435000,RM15 4LX,S,N,F,12,,Swale Close,Aveley,South Ockendon
+2025-07-03,550000,RM15 6TU,D,N,F,18,,Poplar Close,,South Ockendon
+2025-07-03,205000,RM15 6PN,F,N,L,10,,Oak Court,,South Ockendon
+2025-07-03,274500,RM15 6HU,T,N,F,218,,Tamarisk Road,,South Ockendon
+2025-06-30,300000,RM15 5NG,T,N,F,88,,Fortin Way,,South Ockendon
+2025-06-30,525000,RM15 5FL,S,N,F,62,,Anglia Way,,South Ockendon
+2025-06-30,110000,RM15 4QS,F,N,L,Franklyns,7,Teviot Avenue,Aveley,South Ockendon
+2025-06-27,288000,RM15 6JF,T,N,F,23,,Viola Close,,South Ockendon
+2025-06-27,330000,RM15 5RW,T,N,F,36,,Daiglen Drive,,South Ockendon
+2025-06-27,400000,RM15 5PL,T,N,F,443,,Broxburn Drive,,South Ockendon
+2025-06-27,275000,RM15 5FS,F,N,L,65,,Sunliner Way,,South Ockendon
+2025-06-27,250000,RM15 5FL,F,N,L,Capri House,8,Anglia Way,,South Ockendon
+2025-06-27,256000,RM15 5BZ,F,N,L,54,,Annalee Road,,South Ockendon
+2025-06-27,330000,RM15 4RR,T,N,F,6,,Monnow Green,Aveley,South Ockendon
+2025-06-25,325000,RM15 6NP,T,N,F,117A,,South Road,,South Ockendon
+2025-06-25,300000,RM15 6JF,T,N,F,41,,Viola Close,,South Ockendon
+2025-06-25,148500,RM15 6JF,F,N,L,17,,Viola Close,,South Ockendon
+2025-06-25,202000,RM15 5PL,F,N,L,415,,Broxburn Drive,,South Ockendon
+2025-06-25,192000,RM15 5NW,F,N,L,51,,Faymore Gardens,,South Ockendon
+2025-06-25,420000,RM15 4ED,T,N,F,14,,Lowlands Road,Aveley,South Ockendon
+2025-06-20,380000,RM15 5NJ,T,N,F,20,,Fortin Way,,South Ockendon
+2025-06-20,360000,RM15 5DS,T,N,F,67,,Dent Close,,South Ockendon
+2025-06-20,200000,RM15 4QL,F,N,L,Meresmans,8,Teviot Avenue,Aveley,South Ockendon
+2025-06-20,405000,RM15 4DG,T,N,F,18,,Courts Way,Aveley,South Ockendon
+2025-06-18,350000,RM15 4QB,T,N,F,19,,Teviot Avenue,Aveley,South Ockendon
+2025-06-16,477000,RM15 4ST,T,N,F,7,,Davis Road,Aveley,South Ockendon
+2025-06-15,350000,RM15 5HW,T,N,F,60,,Fullarton Crescent,,South Ockendon
+2025-06-13,330500,RM15 6AR,S,N,F,75,,Corran Way,,South Ockendon
+2025-06-13,350000,RM15 5BX,S,N,F,3,,Danbury Crescent,,South Ockendon
+2025-06-11,368000,RM15 4BU,S,N,F,56,,Stanford Gardens,Aveley,South Ockendon
+2025-06-09,505000,RM15 5FX,D,N,F,2,,Torino Way,,South Ockendon
+2025-06-06,315000,RM15 6AD,T,N,F,101,,Cullen Square,,South Ockendon
+2025-06-06,260000,RM15 5FA,F,N,L,34,,Fairlane Drive,,South Ockendon
+2025-06-05,375000,RM15 6EE,T,N,F,48,,Chelmer Drive,,South Ockendon
+2025-06-04,328000,RM15 5AN,T,N,F,2,,Erriff Drive,,South Ockendon
+2025-06-02,347000,RM15 6AA,T,N,F,35,,Cullen Square,,South Ockendon
+2025-06-02,200000,RM15 4QP,F,N,L,Haywards,2,Teviot Avenue,Aveley,South Ockendon
+2025-05-30,294000,RM15 6HT,T,N,F,133,,Orchard Road,,South Ockendon
+2025-05-30,385000,RM15 4EH,T,N,F,8,,Toplands Avenue,Aveley,South Ockendon
+2025-05-28,312500,RM15 4PB,T,N,F,22,,Usk Road,Aveley,South Ockendon
+2025-05-27,370000,RM15 5NF,T,N,F,111,,Stifford Road,,South Ockendon
+2025-05-27,266000,RM15 5FL,F,N,L,Capri House,22,Anglia Way,,South Ockendon
+2025-05-27,400000,RM15 4NT,T,N,F,119,,Usk Road,Aveley,South Ockendon
+2025-05-27,415000,RM15 4DW,T,N,F,6,,Marshfoot Close,Aveley,South Ockendon
+2025-05-23,465000,RM15 4DS,S,N,F,99D,,Purfleet Road,Aveley,South Ockendon
+2025-05-22,347500,RM15 6AS,T,N,F,70,,Cherwell Grove,,South Ockendon
+2025-05-16,260000,RM15 6EU,T,N,F,25,,Foxglove Road,,South Ockendon
+2025-05-16,285000,RM15 4NP,T,N,F,32,,Ravel Road,Aveley,South Ockendon
+2025-05-15,390000,RM15 6DD,S,N,F,15,,Nursery Close,,South Ockendon
+2025-05-14,405000,RM15 4DA,S,N,F,7,,Belhouse Avenue,Aveley,South Ockendon
+2025-05-09,410000,RM15 4QU,S,N,F,61,,Shannon Way,Aveley,South Ockendon
+2025-05-08,190000,RM15 5QH,F,N,L,26,,Brock Green,,South Ockendon
+2025-05-06,350000,RM15 6QP,S,N,F,8,,Church Crescent,,South Ockendon
+2025-05-02,515000,RM15 6TP,S,N,F,21,,Cherry Tree Drive,,South Ockendon
+2025-05-02,305000,RM15 6ES,T,N,F,92,,Verbena Close,,South Ockendon
+2025-05-02,347500,RM15 4NA,T,N,F,17,,Tamar Drive,Aveley,South Ockendon
+2025-05-01,470000,RM15 6DB,S,N,F,17,,Mollands Lane,,South Ockendon
+2025-04-30,260000,RM15 6PH,F,N,L,38,,West Road,,South Ockendon
+2025-04-30,385000,RM15 5XF,T,N,F,98,,Danbury Crescent,,South Ockendon
+2025-04-30,370200,RM15 5GQ,T,N,F,3,,Vanette Way,,South Ockendon
+2025-04-30,415000,RM15 4ER,T,N,F,27,,Grange Road,Aveley,South Ockendon
+2025-04-30,371000,RM15 4BU,S,N,F,50,,Stanford Gardens,Aveley,South Ockendon
+2025-04-29,365000,RM15 4TR,S,N,F,33,,Martin Road,Aveley,South Ockendon
+2025-04-28,281000,RM15 6DS,T,N,F,Knowlton Cottages,4,South Road,,South Ockendon
+2025-04-24,352000,RM15 5FY,T,N,F,23,,Maverick Drive,,South Ockendon
+2025-04-24,200000,RM15 4QS,F,N,L,Franklyns,19,Teviot Avenue,Aveley,South Ockendon
+2025-04-23,362000,RM15 6DB,S,N,F,58,,Mollands Lane,,South Ockendon
+2025-04-17,345000,RM15 5DG,T,N,F,51,,Araglen Avenue,,South Ockendon
+2025-04-17,160000,RM15 5BN,F,N,L,4,,Eden Green,,South Ockendon
+2025-04-17,100000,RM15 5AP,F,N,L,21,,Aire Drive,,South Ockendon
+2025-04-15,150000,RM15 4SX,F,N,L,29,,Elm Road,Aveley,South Ockendon
+2025-04-11,172000,RM15 5BD,F,N,L,Archers Court,Flat 15,Arisdale Avenue,,South Ockendon
+2025-04-11,340000,RM15 4EB,T,N,F,33,,Blenheim Gardens,Aveley,South Ockendon
+2025-04-03,215000,RM15 6PN,F,N,L,2,,Oak Court,,South Ockendon
+2025-03-31,99000,RM15 6JF,F,N,L,103,,Viola Close,,South Ockendon
+2025-03-31,380000,RM15 6AD,T,N,F,87,,Cullen Square,,South Ockendon
+2025-03-31,370000,RM15 5RP,T,N,F,94,,Daiglen Drive,,South Ockendon
+2025-03-31,348000,RM15 5QB,T,N,F,531,,Broxburn Drive,,South Ockendon
+2025-03-31,370000,RM15 5LW,T,N,F,20,,Dawley Green,,South Ockendon
+2025-03-31,435000,RM15 5LN,T,N,F,13,,Darenth Lane,,South Ockendon
+2025-03-31,375000,RM15 5LG,S,N,F,36,,Windstar Drive,,South Ockendon
+2025-03-31,375000,RM15 5GQ,T,N,F,5,,Vanette Way,,South Ockendon
+2025-03-31,280000,RM15 5FW,F,N,L,44,,Falcon Way,,South Ockendon
+2025-03-31,272000,RM15 5FW,F,N,L,1,,Falcon Way,,South Ockendon
+2025-03-31,490000,RM15 5FL,D,N,F,64,,Anglia Way,,South Ockendon
+2025-03-31,410000,RM15 4LB,T,N,F,36,,Hall Avenue,Aveley,South Ockendon
+2025-03-28,275000,RM15 6ES,T,N,F,26,,Verbena Close,,South Ockendon
+2025-03-28,380000,RM15 6EJ,S,N,F,68,,Cruick Avenue,,South Ockendon
+2025-03-28,312500,RM15 5QE,T,N,F,46,,Fyfield Drive,,South Ockendon
+2025-03-28,387000,RM15 5PW,T,N,F,45,,Callan Grove,,South Ockendon
+2025-03-28,355000,RM15 5HG,S,N,F,60,,Hamble Lane,,South Ockendon
+2025-03-28,262000,RM15 5GU,F,N,L,11,,Windstar Drive,,South Ockendon
+2025-03-28,463500,RM15 5FY,D,N,F,4,,Maverick Drive,,South Ockendon
+2025-03-28,385000,RM15 5FA,S,N,L,71,,Fairlane Drive,,South Ockendon
+2025-03-28,185000,RM15 5DH,F,N,L,16,,Dart Green,,South Ockendon
+2025-03-28,370000,RM15 5AP,T,N,F,8,,Aire Drive,,South Ockendon
+2025-03-28,328000,RM15 5AB,T,N,F,64,,Eskley Gardens,,South Ockendon
+2025-03-28,340000,RM15 4TR,T,N,F,41,,Martin Road,Aveley,South Ockendon
+2025-03-28,375000,RM15 4QD,T,N,F,35,,Teviot Avenue,Aveley,South Ockendon
+2025-03-28,350000,RM15 4PH,T,N,F,228,,Romford Road,Aveley,South Ockendon
+2025-03-28,450000,RM15 4EH,T,N,F,2,,Toplands Avenue,Aveley,South Ockendon
+2025-03-28,395000,RM15 4EH,S,N,F,19,,Toplands Avenue,Aveley,South Ockendon
+2025-03-27,355000,RM15 6NN,T,N,F,53,,Lime Close,,South Ockendon
+2025-03-27,318000,RM15 4SJ,S,N,F,3A,,Mill Road,Aveley,South Ockendon
+2025-03-27,435000,RM15 4PA,S,N,F,81,,Usk Road,Aveley,South Ockendon
+2025-03-27,388000,RM15 4NA,T,N,F,71,,Tamar Drive,Aveley,South Ockendon
+2025-03-27,340000,RM15 4DA,T,N,F,39,,Belhouse Avenue,Aveley,South Ockendon
+2025-03-26,345000,RM15 6EH,T,N,F,129,,Cruick Avenue,,South Ockendon
+2025-03-26,480000,RM15 4EF,T,N,F,35,,Brinson Way,Aveley,South Ockendon
+2025-03-26,440000,RM15 4EB,S,N,F,28,,Blenheim Gardens,Aveley,South Ockendon
+2025-03-25,640000,RM15 6TX,D,N,F,3,,Aspen Way,,South Ockendon
+2025-03-25,385000,RM15 4TJ,S,N,F,13,,Crescent Way,Aveley,South Ockendon
+2025-03-24,337500,RM15 6DR,T,N,F,2,,Valentines Villas,,South Ockendon
+2025-03-24,257600,RM15 4TR,S,N,F,37,,Martin Road,Aveley,South Ockendon
+2025-03-24,390000,RM15 4TP,T,N,F,2,,Dacre Crescent,Aveley,South Ockendon
+2025-03-24,195000,RM15 4DY,F,N,L,28,,Meadow Drive,Aveley,South Ockendon
+2025-03-21,205000,RM15 5QL,F,N,L,14,,Broxburn Drive,,South Ockendon
+2025-03-21,500000,RM15 5FE,T,N,F,232,,Arisdale Avenue,,South Ockendon
+2025-03-21,258000,RM15 5FE,F,N,L,148,,Arisdale Avenue,,South Ockendon
+2025-03-21,320125,RM15 4NP,T,N,F,7,,Ravel Road,Aveley,South Ockendon
+2025-03-20,390000,RM15 5SD,T,N,F,5,,Kemps Farm Mews,,South Ockendon
+2025-03-20,275000,RM15 5GU,F,N,L,41,,Windstar Drive,,South Ockendon
+2025-03-18,353000,RM15 5EN,T,N,F,31,,Ernan Close,,South Ockendon
+2025-03-18,450000,RM15 4SH,S,N,F,55,,St Pauls Close,Aveley,South Ockendon
+2025-03-17,194000,RM15 6PE,F,N,L,23,,Benyon Path,,South Ockendon
+2025-03-17,468000,RM15 4TU,T,N,F,56,,Dacre Crescent,Aveley,South Ockendon
+2025-03-14,555000,RM15 6NX,S,N,F,55,,South Road,,South Ockendon
+2025-03-14,253000,RM15 5FT,F,N,L,23,,Torino Way,,South Ockendon
+2025-03-14,450000,RM15 4JH,S,N,F,32,,Central Avenue,Aveley,South Ockendon
+2025-03-14,330000,RM15 4ED,T,N,F,22,,Lowlands Road,Aveley,South Ockendon
+2025-03-14,418000,RM15 4BF,S,N,F,108,,Belhouse Avenue,Aveley,South Ockendon
+2025-03-12,330000,RM15 5RA,T,N,F,6,,Cample Lane,,South Ockendon
+2025-03-10,380000,RM15 5FE,T,N,F,90,,Arisdale Avenue,,South Ockendon
+2025-03-07,230000,RM15 6JQ,T,N,F,1,,Larkspur Close,,South Ockendon
+2025-03-07,477000,RM15 6DJ,S,N,F,121,,Mollands Lane,,South Ockendon
+2025-03-07,390000,RM15 5RD,S,N,F,238,,Broxburn Drive,,South Ockendon
+2025-03-06,575000,RM15 4SW,D,N,F,2,,Rowan Grove,Aveley,South Ockendon
+2025-03-05,430000,RM15 4SS,S,N,F,37,,Hanford Road,Aveley,South Ockendon
+2025-03-03,385000,RM15 6XB,S,N,F,18,,Sycamore Way,,South Ockendon
+2025-02-28,377000,RM15 6HJ,S,N,F,128,,Orchard Road,,South Ockendon
+2025-02-28,440000,RM15 5FN,S,N,F,7,,Anglia Way,,South Ockendon
+2025-02-28,410000,RM15 4SZ,S,N,F,12,,St Michaels Close,Aveley,South Ockendon
+2025-02-28,165000,RM15 4DQ,F,N,L,6,,Regent Court,Aveley,South Ockendon
+2025-02-28,355000,RM15 4DA,S,N,F,75,,Belhouse Avenue,Aveley,South Ockendon
+2025-02-27,460000,RM15 6HD,S,N,F,38,,Orchard Road,,South Ockendon
+2025-02-27,275000,RM15 5GW,F,N,L,147,,Windstar Drive,,South Ockendon
+2025-02-27,340000,RM15 4HZ,T,N,F,7,,Pembroke Drive,Aveley,South Ockendon
+2025-02-26,380000,RM15 4PB,S,N,F,8,,Usk Road,Aveley,South Ockendon
+2025-02-24,340000,RM15 6RE,T,N,F,13,,Redwood Chase,,South Ockendon
+2025-02-24,425000,RM15 5LE,T,N,F,108,,Arisdale Avenue,,South Ockendon
+2025-02-21,420000,RM15 6HB,T,N,F,20,,Orchard Road,,South Ockendon
+2025-02-21,211000,RM15 4SX,F,N,L,9,,Elm Road,Aveley,South Ockendon
+2025-02-21,325000,RM15 4SR,T,N,F,50,,Mill Road,Aveley,South Ockendon
+2025-02-21,375000,RM15 4SP,S,N,F,15,,Buchanan Close,Aveley,South Ockendon
+2025-02-21,165000,RM15 4QJ,F,N,L,154,,Teviot Avenue,Aveley,South Ockendon
+2025-02-21,290000,RM15 4NS,T,N,F,21,,Ravel Gardens,Aveley,South Ockendon
+2025-02-19,420000,RM15 6TJ,S,N,F,6,,Rosewood Close,,South Ockendon
+2025-02-17,145000,RM15 5XB,F,N,L,291,,Danbury Crescent,,South Ockendon
+2025-02-17,385000,RM15 5FS,T,N,L,27,,Sunliner Way,,South Ockendon
+2025-02-17,314150,RM15 4TJ,S,N,F,30,,Crescent Way,Aveley,South Ockendon
+2025-02-14,521000,RM15 5JW,S,N,F,91,,Humber Avenue,,South Ockendon
+2025-02-13,380000,RM15 6AH,S,N,F,170,,Cherwell Grove,,South Ockendon
+2025-02-12,480000,RM15 4EB,S,N,F,24,,Blenheim Gardens,Aveley,South Ockendon
+2025-02-10,675000,RM15 6TZ,D,N,F,2,,Birch Crescent,,South Ockendon
+2025-02-10,410000,RM15 4EU,T,N,F,Magnolia House,,Garden Mews,Aveley,South Ockendon
+2025-02-07,575000,RM15 6TS,D,N,F,22,,Medlar Drive,,South Ockendon
+2025-02-07,355000,RM15 6PX,T,N,F,1,,Nelson Road,,South Ockendon
+2025-02-07,325000,RM15 5QS,T,N,F,108,,Broxburn Drive,,South Ockendon
+2025-02-07,400000,RM15 5HH,S,N,F,167,,Foyle Drive,,South Ockendon
+2025-02-07,334000,RM15 5AB,T,N,F,52,,Eskley Gardens,,South Ockendon
+2025-02-06,425000,RM15 5SD,T,N,F,4,,Kemps Farm Mews,,South Ockendon
+2025-02-04,325000,RM15 4QX,S,N,F,29,,Shannon Way,Aveley,South Ockendon
+2025-02-03,165000,RM15 6JF,F,N,L,35,,Viola Close,,South Ockendon
+2025-02-03,350000,RM15 5BS,T,N,F,13,,Bovey Way,,South Ockendon
+2025-01-31,330000,RM15 5DQ,T,N,F,79,,Araglen Avenue,,South Ockendon
+2025-01-30,225000,RM15 5GU,F,N,L,57,,Windstar Drive,,South Ockendon
+2025-01-30,367500,RM15 4LX,T,N,F,6,,Swale Close,Aveley,South Ockendon
+2025-01-30,355000,RM15 4EN,T,N,F,22,,Belhus View,Aveley,South Ockendon
+2025-01-28,255000,RM15 5FL,F,N,L,Capri House,4,Anglia Way,,South Ockendon
+2025-01-24,310000,RM15 6HY,T,N,F,16,,Mayflower Close,,South Ockendon
+2025-01-24,525000,RM15 4SW,D,N,F,13,,Rowan Grove,Aveley,South Ockendon
+2025-01-24,445000,RM15 4EB,T,N,F,31,,Blenheim Gardens,Aveley,South Ockendon
+2025-01-23,630000,RM15 4DS,S,N,F,73,,Purfleet Road,Aveley,South Ockendon
+2025-01-22,400000,RM15 5AL,T,N,F,158,,Daiglen Drive,,South Ockendon
+2025-01-20,270000,RM15 6HY,T,N,F,58,,Mayflower Close,,South Ockendon
+2025-01-10,295000,RM15 6NW,T,N,F,40,,Lime Close,,South Ockendon
+2025-01-09,370000,RM15 6TG,T,N,F,55,,Holly Drive,,South Ockendon
+2025-01-07,404000,RM15 5JJ,S,N,F,27,,Humber Avenue,,South Ockendon
+2025-01-03,355000,RM15 5DW,T,N,F,14,,Alwen Grove,,South Ockendon
+2024-12-20,246000,RM15 6RA,F,N,L,62,,Laburnum Grove,,South Ockendon
+2024-12-20,340000,RM15 5EQ,T,N,F,30,,Elan Road,,South Ockendon
+2024-12-20,475000,RM15 4UB,S,N,F,29,,Park Lane,Aveley,South Ockendon
+2024-12-19,254000,RM15 5SZ,F,N,L,Sancta Maria Apartments,12,Daiglen Drive,,South Ockendon
+2024-12-19,350000,RM15 4ET,T,N,F,10,,Mill Field Way,Aveley,South Ockendon
+2024-12-18,480000,RM15 6QJ,S,N,F,20,,North Road,,South Ockendon
+2024-12-18,345000,RM15 6PT,S,N,F,23,,North Road,,South Ockendon
+2024-12-18,300000,RM15 6JQ,T,N,F,39,,Larkspur Close,,South Ockendon
+2024-12-18,410000,RM15 6HH,S,N,F,70,,Orchard Road,,South Ockendon
+2024-12-18,315000,RM15 5LW,T,N,F,7,,Dawley Green,,South Ockendon
+2024-12-18,279000,RM15 5FW,F,N,L,40,,Falcon Way,,South Ockendon
+2024-12-18,207000,RM15 5DN,T,N,F,47,,Alwen Grove,,South Ockendon
+2024-12-18,355000,RM15 5BZ,T,N,F,70,,Annalee Road,,South Ockendon
+2024-12-18,272500,RM15 4HJ,T,N,F,50,,Hall Road,Aveley,South Ockendon
+2024-12-17,450000,RM15 6DJ,S,N,F,81,,Mollands Lane,,South Ockendon
+2024-12-17,350000,RM15 5JY,T,N,F,34,,Fulbrook Lane,,South Ockendon
+2024-12-17,465000,RM15 5JH,S,N,F,1,,Humber Avenue,,South Ockendon
+2024-12-16,325000,RM15 6EJ,T,N,F,69,,Cruick Avenue,,South Ockendon
+2024-12-16,630000,RM15 5JN,S,N,F,68,,Humber Avenue,,South Ockendon
+2024-12-16,385000,RM15 5BF,T,N,F,45,,Elmdon Road,,South Ockendon
+2024-12-13,142000,RM15 5XF,F,N,L,52,,Danbury Crescent,,South Ockendon
+2024-12-13,162500,RM15 5LD,T,N,F,8,,Bingham Close,,South Ockendon
+2024-12-11,400000,RM15 6PX,T,N,F,9,,Nelson Road,,South Ockendon
+2024-12-11,180000,RM15 5BX,F,N,L,85,,Danbury Crescent,,South Ockendon
+2024-12-11,212500,RM15 4QH,F,N,L,Waymans,14,Teviot Avenue,Aveley,South Ockendon
+2024-12-09,360000,RM15 6AP,S,N,F,99,,Corran Way,,South Ockendon
+2024-12-09,380000,RM15 4HX,S,N,F,38,,Love Lane,Aveley,South Ockendon
+2024-12-06,590000,RM15 6DB,D,N,F,28,,Mollands Lane,,South Ockendon
+2024-12-06,300000,RM15 5QX,S,N,F,186,,Broxburn Drive,,South Ockendon
+2024-12-06,282000,RM15 5FW,F,N,L,4,,Falcon Way,,South Ockendon
+2024-12-06,395000,RM15 5FS,T,N,F,20,,Sunliner Way,,South Ockendon
+2024-12-06,445000,RM15 4HL,S,N,F,66,,Hall Road,Aveley,South Ockendon
+2024-12-04,330000,RM15 6PH,S,N,F,78,,West Road,,South Ockendon
+2024-11-29,315000,RM15 6AX,T,N,F,39,,Cherwell Grove,,South Ockendon
+2024-11-29,200000,RM15 5PQ,F,N,L,177,,Broxburn Drive,,South Ockendon
+2024-11-29,220000,RM15 5GU,F,N,L,67,,Windstar Drive,,South Ockendon
+2024-11-29,300000,RM15 5BS,T,N,F,14,,Bovey Way,,South Ockendon
+2024-11-29,360000,RM15 4RD,T,N,F,13,,Perry Way,Aveley,South Ockendon
+2024-11-29,385000,RM15 4NT,T,N,F,133,,Usk Road,Aveley,South Ockendon
+2024-11-29,404000,RM15 4EB,S,N,F,6,,Blenheim Gardens,Aveley,South Ockendon
+2024-11-28,200000,RM15 5XA,F,N,L,191,,Danbury Crescent,,South Ockendon
+2024-11-28,180000,RM15 5DR,F,N,L,25,,Dale Close,,South Ockendon
+2024-11-27,375000,RM15 4PP,S,N,F,82,,Romford Road,Aveley,South Ockendon
+2024-11-26,260000,RM15 6ET,T,N,F,46,,Foxglove Road,,South Ockendon
+2024-11-25,345000,RM15 5JH,T,N,F,16,,Humber Avenue,,South Ockendon
+2024-11-25,345000,RM15 5AU,T,N,F,106,,Anton Road,,South Ockendon
+2024-11-25,410000,RM15 5AJ,T,N,F,385,,Daiglen Drive,,South Ockendon
+2024-11-22,417500,RM15 6TP,T,N,F,52,,Cherry Tree Drive,,South Ockendon
+2024-11-22,333000,RM15 6JA,T,N,F,80,,Celandine Close,,South Ockendon
+2024-11-22,300000,RM15 6HT,T,N,F,141,,Orchard Road,,South Ockendon
+2024-11-22,442500,RM15 6AD,S,N,F,95,,Cullen Square,,South Ockendon
+2024-11-22,190000,RM15 5NW,F,N,L,49,,Faymore Gardens,,South Ockendon
+2024-11-22,385000,RM15 5HX,S,N,F,11,,Gatehope Drive,,South Ockendon
+2024-11-22,310000,RM15 5HW,T,N,F,30,,Fullarton Crescent,,South Ockendon
+2024-11-22,325000,RM15 5BY,T,N,F,11,,Annalee Road,,South Ockendon
+2024-11-21,377500,RM15 5PP,T,N,F,459,,Broxburn Drive,,South Ockendon
+2024-11-20,380000,RM15 4QU,S,N,F,42,,Shannon Way,Aveley,South Ockendon
+2024-11-18,263000,RM15 5SZ,F,N,L,Sancta Maria Apartments,14,Daiglen Drive,,South Ockendon
+2024-11-18,336000,RM15 5QS,T,N,F,88,,Broxburn Drive,,South Ockendon
+2024-11-18,163000,RM15 4AF,F,N,L,Lyn House,Flat 7,High Street,Aveley,South Ockendon
+2024-11-15,380000,RM15 4AA,S,N,F,20,,Stifford Road,Aveley,South Ockendon
+2024-11-12,620000,RM15 4DS,S,N,F,77,,Purfleet Road,Aveley,South Ockendon
+2024-11-11,265000,RM15 4RL,T,N,F,11,,Tyne Gardens,Aveley,South Ockendon
+2024-11-08,465000,RM15 6TB,D,N,F,1,,Rowan Way,,South Ockendon
+2024-11-08,355000,RM15 5DE,T,N,F,31,,Annalee Gardens,,South Ockendon
+2024-11-08,370000,RM15 4RT,T,N,F,86,,Nethan Drive,Aveley,South Ockendon
+2024-11-07,330000,RM15 5BZ,T,N,F,68,,Annalee Road,,South Ockendon
+2024-11-06,430000,RM15 5XD,S,N,F,345,,Danbury Crescent,,South Ockendon
+2024-11-06,662000,RM15 5JW,S,N,F,65,,Humber Avenue,,South Ockendon
+2024-11-05,420000,RM15 5LU,S,N,F,45,,Foyle Drive,,South Ockendon
+2024-11-04,220000,RM15 5GU,F,N,L,13,,Windstar Drive,,South Ockendon
+2024-11-01,380000,RM15 5NG,T,N,F,60,,Fortin Way,,South Ockendon
+2024-11-01,325000,RM15 5JG,T,N,F,11,,Garron Lane,,South Ockendon
+2024-10-31,510000,RM15 6TZ,D,N,F,12,,Birch Crescent,,South Ockendon
+2024-10-31,265000,RM15 4EF,F,N,L,63,,Brinson Way,Aveley,South Ockendon
+2024-10-30,200000,RM15 5EQ,F,N,L,56,,Elan Road,,South Ockendon
+2024-10-30,365000,RM15 5EN,T,N,F,33,,Ernan Close,,South Ockendon
+2024-10-28,398000,RM15 5QY,S,N,F,212,,Broxburn Drive,,South Ockendon
+2024-10-25,510000,RM15 6NR,D,N,F,105,,South Road,,South Ockendon
+2024-10-25,370000,RM15 5FD,T,N,F,Avontar Court,12,Avontar Road,,South Ockendon
+2024-10-24,100000,RM15 4JU,F,N,L,4,,The Parade,Aveley,South Ockendon
+2024-10-23,360000,RM15 4LH,T,N,F,18,,Church View,Aveley,South Ockendon
+2024-10-21,260000,RM15 4NP,T,N,F,22,,Ravel Road,Aveley,South Ockendon
+2024-10-18,185000,RM15 5XA,F,N,L,155,,Danbury Crescent,,South Ockendon
+2024-10-18,358000,RM15 4TP,T,N,F,15,,Dacre Crescent,Aveley,South Ockendon
+2024-10-18,372000,RM15 4RA,T,N,F,12,,Nethan Drive,Aveley,South Ockendon
+2024-10-18,325000,RM15 4NJ,S,N,F,4,,Ravel Gardens,Aveley,South Ockendon
+2024-10-17,355000,RM15 6EL,T,N,F,31,,Cruick Avenue,,South Ockendon
+2024-10-16,365000,RM15 5HF,T,N,F,118,,Foyle Drive,,South Ockendon
+2024-10-15,340000,RM15 5RB,S,N,F,16,,Kennet Green,,South Ockendon
+2024-10-14,315000,RM15 6EH,T,N,F,140,,Cruick Avenue,,South Ockendon
+2024-10-11,315000,RM15 4PB,T,N,F,42,,Usk Road,Aveley,South Ockendon
+2024-10-10,415000,RM15 4DA,S,N,F,91,,Belhouse Avenue,Aveley,South Ockendon
+2024-10-09,350000,RM15 5HL,T,N,F,6,,Loman Path,,South Ockendon
+2024-10-09,462500,RM15 5FE,S,N,F,196,,Arisdale Avenue,,South Ockendon
+2024-10-09,340000,RM15 5AW,T,N,F,18,,Erriff Drive,,South Ockendon
+2024-10-09,250000,RM15 4DB,F,N,L,26,,Barrett Way,Aveley,South Ockendon
+2024-10-08,375000,RM15 5DN,T,N,F,5,,Alwen Grove,,South Ockendon
+2024-10-07,360000,RM15 5HP,T,N,F,132,,Hamble Lane,,South Ockendon
+2024-10-04,467500,RM15 6TT,D,N,F,8,,Hornbeam Chase,,South Ockendon
+2024-10-04,360000,RM15 5DE,T,N,F,11,,Annalee Gardens,,South Ockendon
+2024-10-03,447000,RM15 5FE,S,N,L,204,,Arisdale Avenue,,South Ockendon
+2024-10-01,260000,RM15 5FL,F,N,L,Capri House,10,Anglia Way,,South Ockendon
+2024-10-01,157000,RM15 4QS,F,N,L,Franklyns,3,Teviot Avenue,Aveley,South Ockendon
+2024-09-30,317000,RM15 4RD,S,N,F,9,,Perry Way,Aveley,South Ockendon
+2024-09-27,475000,RM15 6PX,S,N,F,20,,Nelson Road,,South Ockendon
+2024-09-27,230000,RM15 5FY,F,N,L,15,,Maverick Drive,,South Ockendon
+2024-09-27,460000,RM15 4TT,T,N,F,25,,Dacre Crescent,Aveley,South Ockendon
+2024-09-27,400000,RM15 4BF,S,N,F,112,,Belhouse Avenue,Aveley,South Ockendon
+2024-09-25,260000,RM15 4DA,F,N,L,11,,Belhouse Avenue,Aveley,South Ockendon
+2024-09-24,327000,RM15 6HT,T,N,F,137,,Orchard Road,,South Ockendon
+2024-09-20,308000,RM15 4SU,T,N,F,11,,Alfred Road,Aveley,South Ockendon
+2024-09-17,610000,RM15 6TT,D,N,F,15,,Hornbeam Chase,,South Ockendon
+2024-09-17,515000,RM15 6TP,D,N,F,11,,Cherry Tree Drive,,South Ockendon
+2024-09-16,425000,RM15 6HJ,S,N,F,93,,Orchard Road,,South Ockendon
+2024-09-13,245000,RM15 5FQ,F,N,L,3,,Falcon Avenue,,South Ockendon
+2024-09-13,370000,RM15 5FE,T,N,F,238,,Arisdale Avenue,,South Ockendon
+2024-09-13,165000,RM15 5DR,F,N,L,22,,Dale Close,,South Ockendon
+2024-09-12,385000,RM15 5HP,T,N,F,118,,Hamble Lane,,South Ockendon
+2024-09-12,377000,RM15 5ER,S,N,F,95,,Easington Way,,South Ockendon
+2024-09-11,324500,RM15 6PH,S,N,F,24,,West Road,,South Ockendon
+2024-09-10,307000,RM15 5BT,T,N,F,12,,Annifer Way,,South Ockendon
+2024-09-10,460000,RM15 5AU,T,N,F,43,,Anton Road,,South Ockendon
+2024-09-09,515000,RM15 6TU,D,N,F,7,,Poplar Close,,South Ockendon
+2024-09-09,294000,RM15 6NP,T,N,F,110,,South Road,,South Ockendon
+2024-09-06,295000,RM15 6NW,T,N,F,18,,Lime Close,,South Ockendon
+2024-09-06,425000,RM15 6JT,T,N,F,19,,Hazel Drive,,South Ockendon
+2024-09-06,345000,RM15 5EW,S,N,F,18,,Ernan Road,,South Ockendon
+2024-09-06,400000,RM15 4AL,S,N,F,5,,Field Road,Aveley,South Ockendon
+2024-09-03,475000,RM15 5PN,S,N,F,2B,,Callan Grove,,South Ockendon
+2024-09-02,370000,RM15 5HJ,T,N,F,26,,Hamble Lane,,South Ockendon
+2024-09-02,230000,RM15 4SX,F,N,L,31,,Elm Road,Aveley,South Ockendon
+2024-08-30,285000,RM15 5FW,F,N,L,38,,Falcon Way,,South Ockendon
+2024-08-30,500000,RM15 4SL,T,N,F,38,,Mill Road,Aveley,South Ockendon
+2024-08-30,305000,RM15 4AH,T,N,F,3,,Lennard Row,Aveley,South Ockendon
+2024-08-28,252000,RM15 5FT,F,N,L,29,,Torino Way,,South Ockendon
+2024-08-28,80500,RM15 5FD,F,N,L,Avontar Court,42,Avontar Road,,South Ockendon
+2024-08-28,365000,RM15 4ER,T,N,F,37,,Grange Road,Aveley,South Ockendon
+2024-08-23,176000,RM15 5BD,F,N,L,Archers Court,Flat 37,Arisdale Avenue,,South Ockendon
+2024-08-23,350000,RM15 4SA,T,N,F,24,,St Pauls Place,Aveley,South Ockendon
+2024-08-23,180000,RM15 4QL,F,N,L,Meresmans,6,Teviot Avenue,Aveley,South Ockendon
+2024-08-22,370000,RM15 4EU,T,N,F,Azelea House,,Garden Mews,Aveley,South Ockendon
+2024-08-21,455000,RM15 6XD,D,N,F,6,,Birch Close,,South Ockendon
+2024-08-21,385000,RM15 5FP,S,N,F,25,,Arcany Road,,South Ockendon
+2024-08-20,275000,RM15 6EU,T,N,F,117,,Foxglove Road,,South Ockendon
+2024-08-16,170000,RM15 5XA,F,N,L,163,,Danbury Crescent,,South Ockendon
+2024-08-16,340000,RM15 5QE,S,N,F,41,,Fyfield Drive,,South Ockendon
+2024-08-16,400000,RM15 4ED,S,N,F,15,,Lowlands Road,Aveley,South Ockendon
+2024-08-15,375000,RM15 6JT,S,N,F,3,,Hazel Drive,,South Ockendon
+2024-08-15,372000,RM15 5RA,T,N,F,16,,Cample Lane,,South Ockendon
+2024-08-14,360000,RM15 6RD,T,N,F,8,,Alder Drive,,South Ockendon
+2024-08-13,332000,RM15 4QU,T,N,F,38,,Shannon Way,Aveley,South Ockendon
+2024-08-09,320000,RM15 5HW,T,N,F,28,,Fullarton Crescent,,South Ockendon
+2024-08-08,385000,RM15 4TS,S,N,F,81,,Martin Road,Aveley,South Ockendon
+2024-08-07,340000,RM15 4SR,S,N,F,102,,Mill Road,Aveley,South Ockendon
+2024-08-05,335000,RM15 6PT,T,N,F,39,,North Road,,South Ockendon
+2024-08-05,365000,RM15 5AG,T,N,F,265,,Daiglen Drive,,South Ockendon
+2024-08-02,340000,RM15 6EJ,T,N,F,45,,Cruick Avenue,,South Ockendon
+2024-08-02,390000,RM15 4DT,S,N,F,205,,Purfleet Road,Aveley,South Ockendon
+2024-08-01,430000,RM15 6TU,D,N,F,23,,Poplar Close,,South Ockendon
+2024-08-01,375000,RM15 6RD,T,N,F,2,,Alder Drive,,South Ockendon
+2024-07-31,570000,RM15 6TW,D,N,F,6,,Juniper Drive,,South Ockendon
+2024-07-31,470000,RM15 6TS,D,N,F,41,,Medlar Drive,,South Ockendon
+2024-07-31,190000,RM15 6PE,F,N,L,39,,Benyon Path,,South Ockendon
+2024-07-31,328000,RM15 6AS,T,N,F,89,,Cherwell Grove,,South Ockendon
+2024-07-31,400000,RM15 5FW,S,N,F,16,,Falcon Way,,South Ockendon
+2024-07-31,355000,RM15 5EL,T,N,F,10,,Enborne Green,,South Ockendon
+2024-07-31,325000,RM15 5BY,T,N,F,3,,Annalee Road,,South Ockendon
+2024-07-29,440000,RM15 4EB,S,N,F,8,,Blenheim Gardens,Aveley,South Ockendon
+2024-07-26,330000,RM15 4RJ,T,N,F,70,,Nethan Drive,Aveley,South Ockendon
+2024-07-26,204000,RM15 4QA,F,N,L,Pinfolds,2,Teviot Avenue,Aveley,South Ockendon
+2024-07-26,492500,RM15 4DY,T,N,F,38,,Meadow Drive,Aveley,South Ockendon
+2024-07-25,325000,RM15 5AD,T,N,F,365,,Daiglen Drive,,South Ockendon
+2024-07-22,360000,RM15 6EJ,T,N,F,95,,Cruick Avenue,,South Ockendon
+2024-07-22,170000,RM15 5XB,F,N,L,249,,Danbury Crescent,,South Ockendon
+2024-07-18,425000,RM15 4EU,T,N,F,Lilac House,,Garden Mews,Aveley,South Ockendon
+2024-07-17,255000,RM15 6PX,F,N,L,24,,Nelson Road,,South Ockendon
+2024-07-17,282000,RM15 6ES,T,N,F,56,,Verbena Close,,South Ockendon
+2024-07-16,400000,RM15 4NP,S,N,F,25,,Ravel Road,Aveley,South Ockendon
+2024-07-15,249000,RM15 4SJ,T,N,F,4,,Mill Road,Aveley,South Ockendon
+2024-07-09,415000,RM15 5FL,T,N,F,66,,Anglia Way,,South Ockendon
+2024-07-08,292000,RM15 6JQ,T,N,F,15,,Larkspur Close,,South Ockendon
+2024-07-08,330000,RM15 4RR,T,N,F,2,,Monnow Green,Aveley,South Ockendon
+2024-07-08,545000,RM15 4EB,T,N,F,5,,Blenheim Gardens,Aveley,South Ockendon
+2024-07-05,322000,RM15 6EH,T,N,F,133,,Cruick Avenue,,South Ockendon
+2024-07-05,380000,RM15 4SR,T,N,F,60,,Mill Road,Aveley,South Ockendon
+2024-07-05,430000,RM15 4EB,S,N,F,18,,Blenheim Gardens,Aveley,South Ockendon
+2024-07-05,525000,RM15 4DR,S,N,F,70,,Purfleet Road,Aveley,South Ockendon
+2024-07-05,340000,RM15 4DA,T,N,F,43,,Belhouse Avenue,Aveley,South Ockendon
+2024-07-04,325000,RM15 6RE,T,N,F,5,,Redwood Chase,,South Ockendon
+2024-07-04,385000,RM15 5JZ,S,N,F,77,,Fulbrook Lane,,South Ockendon
+2024-07-04,345000,RM15 4EQ,S,N,L,7,,Bredle Way,Aveley,South Ockendon
+2024-07-03,318000,RM15 5BT,T,N,F,16,,Annifer Way,,South Ockendon
+2024-07-01,485000,RM15 6QB,S,N,F,14,,Wilsman Road,,South Ockendon
+2024-07-01,410000,RM15 4BS,S,N,F,27,,Stifford Road,Aveley,South Ockendon
+2024-06-28,500000,RM15 6XB,D,N,F,36,,Sycamore Way,,South Ockendon
+2024-06-28,331500,RM15 6JG,T,N,F,8,,Larkspur Close,,South Ockendon
+2024-06-28,330000,RM15 6EH,T,N,F,122,,Cruick Avenue,,South Ockendon
+2024-06-28,407000,RM15 5XD,T,N,F,323,,Danbury Crescent,,South Ockendon
+2024-06-28,330000,RM15 5PU,T,N,F,14,,Carnach Green,,South Ockendon
+2024-06-28,165000,RM15 5NW,F,N,L,7,,Faymore Gardens,,South Ockendon
+2024-06-28,375000,RM15 5EW,S,N,F,16,,Ernan Road,,South Ockendon
+2024-06-28,147500,RM15 5BD,F,N,L,Archers Court,Flat 40,Arisdale Avenue,,South Ockendon
+2024-06-28,380000,RM15 4HP,S,N,F,5,,Crescent Walk,Aveley,South Ockendon
+2024-06-25,410000,RM15 6TZ,D,N,F,37,,Birch Crescent,,South Ockendon
+2024-06-25,310000,RM15 5LW,S,N,F,22,,Dawley Green,,South Ockendon
+2024-06-25,285000,RM15 5LF,F,N,L,"Ambrose Court, 38",Apartment 26,Windstar Drive,,South Ockendon
+2024-06-25,330000,RM15 4ET,S,N,F,3,,Mill Field Way,Aveley,South Ockendon
+2024-06-25,250000,RM15 4DA,F,N,L,19,,Belhouse Avenue,Aveley,South Ockendon
+2024-06-21,325000,RM15 4SR,T,N,F,86,,Mill Road,Aveley,South Ockendon
+2024-06-20,300000,RM15 6EE,T,N,F,92,,Chelmer Drive,,South Ockendon
+2024-06-19,438000,RM15 4JS,S,N,F,7,,Hall Crescent,Aveley,South Ockendon
+2024-06-17,360000,RM15 4SH,T,N,F,23,,St Pauls Close,Aveley,South Ockendon
+2024-06-14,300000,RM15 6AX,T,N,F,47,,Cherwell Grove,,South Ockendon
+2024-06-10,410000,RM15 4DF,S,N,F,8,,Tany Mead,Aveley,South Ockendon
+2024-06-07,425000,RM15 6XB,D,N,F,38,,Sycamore Way,,South Ockendon
+2024-06-07,290000,RM15 6EU,T,N,F,19,,Foxglove Road,,South Ockendon
+2024-06-06,365000,RM15 4TA,T,N,F,68,,Chichester Close,Aveley,South Ockendon
+2024-06-04,170000,RM15 5BP,F,N,L,26,,Galey Green,,South Ockendon
+2024-05-31,355000,RM15 5HL,T,N,F,5,,Loman Path,,South Ockendon
+2024-05-31,340000,RM15 5HJ,T,N,F,3,,Hamble Lane,,South Ockendon
+2024-05-31,317000,RM15 5HG,T,N,F,57,,Hamble Lane,,South Ockendon
+2024-05-31,490000,RM15 5FW,D,N,F,14,,Falcon Way,,South Ockendon
+2024-05-31,160000,RM15 5BW,F,N,L,56,,Eden Green,,South Ockendon
+2024-05-31,472500,RM15 4EH,S,N,F,1,,Toplands Avenue,Aveley,South Ockendon
+2024-05-30,370000,RM15 6RD,T,N,F,3,,Alder Drive,,South Ockendon
+2024-05-30,390000,RM15 5SD,T,N,F,11,,Kemps Farm Mews,,South Ockendon
+2024-05-28,173000,RM15 5XA,F,N,L,157,,Danbury Crescent,,South Ockendon
+2024-05-24,287000,RM15 6NJ,T,N,F,6,,Nicholas Close,,South Ockendon
+2024-05-24,322500,RM15 6EL,T,N,F,34,,Cruick Avenue,,South Ockendon
+2024-05-24,420000,RM15 4TP,T,N,F,26,,Dacre Crescent,Aveley,South Ockendon
+2024-05-24,340000,RM15 4LA,S,N,F,5,,Hall Avenue,Aveley,South Ockendon
+2024-05-24,387500,RM15 4DA,S,N,F,57,,Belhouse Avenue,Aveley,South Ockendon
+2024-05-22,143000,RM15 6AU,F,N,L,34,,Clayburn Gardens,,South Ockendon
+2024-05-20,540000,RM15 5FE,T,Y,F,254,,Arisdale Avenue,,South Ockendon
+2024-05-17,160000,RM15 5QH,F,N,L,25,,Brock Green,,South Ockendon
+2024-05-17,405000,RM15 5BF,T,N,F,39,,Elmdon Road,,South Ockendon
+2024-05-14,365000,RM15 5HP,T,N,F,136,,Hamble Lane,,South Ockendon
+2024-05-14,330000,RM15 5DA,T,N,F,58,,Araglen Avenue,,South Ockendon
+2024-05-10,340000,RM15 6AR,T,N,F,69,,Corran Way,,South Ockendon
+2024-05-10,377000,RM15 5QS,T,N,F,68,,Broxburn Drive,,South Ockendon
+2024-05-10,167000,RM15 5BP,F,N,L,31,,Galey Green,,South Ockendon
+2024-05-10,367000,RM15 4TU,T,N,F,36,,Dacre Crescent,Aveley,South Ockendon
+2024-05-09,370000,RM15 5EL,T,N,F,11,,Enborne Green,,South Ockendon
+2024-05-08,330000,RM15 6TE,T,N,F,10,,Magnolia Close,,South Ockendon
+2024-04-30,390000,RM15 5FJ,D,N,F,3,,Ayron Road,,South Ockendon
+2024-04-29,335000,RM15 5HL,S,N,F,19,,Loman Path,,South Ockendon
+2024-04-26,477500,RM15 6TA,D,N,F,23,,Laburnum Grove,,South Ockendon
+2024-04-26,250000,RM15 6JF,T,N,F,9,,Viola Close,,South Ockendon
+2024-04-25,500000,RM15 6TU,T,N,F,44,,Poplar Close,,South Ockendon
+2024-04-25,345000,RM15 6QT,T,N,F,5,,Mar Road,,South Ockendon
+2024-04-25,230000,RM15 4HB,T,N,F,3,,Ship Lane,Aveley,South Ockendon
+2024-04-24,290000,RM15 6DH,T,N,F,59,,Mollands Lane,,South Ockendon
+2024-04-23,300000,RM15 4LJ,S,N,F,47,,Church View,Aveley,South Ockendon
+2024-04-19,385000,RM15 5FS,T,N,F,42,,Sunliner Way,,South Ockendon
+2024-04-19,370000,RM15 4ER,T,N,F,25,,Grange Road,Aveley,South Ockendon
+2024-04-15,465000,RM15 6TU,D,N,F,6,,Poplar Close,,South Ockendon
+2024-04-15,420000,RM15 5QE,T,N,F,53,,Fyfield Drive,,South Ockendon
+2024-04-15,330000,RM15 4SY,T,N,F,19,,St Michaels Close,Aveley,South Ockendon
+2024-04-12,306000,RM15 5QA,T,N,F,513,,Broxburn Drive,,South Ockendon
+2024-04-12,170000,RM15 5JH,F,N,L,19,,Humber Avenue,,South Ockendon
+2024-04-11,330000,RM15 6PH,T,N,F,84,,West Road,,South Ockendon
+2024-04-11,370000,RM15 5JU,S,N,F,146,,Garron Lane,,South Ockendon
+2024-04-11,519995,RM15 5FE,T,Y,F,276,,Arisdale Avenue,,South Ockendon
+2024-04-11,362500,RM15 4RD,S,N,F,14,,Perry Way,Aveley,South Ockendon
+2024-04-10,335000,RM15 4PR,S,N,F,12,,Romford Road,Aveley,South Ockendon
+2024-04-02,220000,RM15 6PR,F,N,L,52,,Peartree Close,,South Ockendon
+2024-03-28,370000,RM15 5LX,T,N,F,5,,Foyle Drive,,South Ockendon
+2024-03-28,539995,RM15 5FE,T,Y,F,274,,Arisdale Avenue,,South Ockendon
+2024-03-28,170000,RM15 4SX,F,N,L,16,,Elm Road,Aveley,South Ockendon
+2024-03-27,325000,RM15 6PT,T,N,F,29,,North Road,,South Ockendon
+2024-03-27,425000,RM15 5DQ,S,N,F,75,,Araglen Avenue,,South Ockendon
+2024-03-26,435000,RM15 5BF,T,N,F,9,,Elmdon Road,,South Ockendon
+2024-03-26,332000,RM15 4SH,T,N,F,65,,St Pauls Close,Aveley,South Ockendon
+2024-03-22,280000,RM15 6HZ,T,N,F,71,,Mayflower Close,,South Ockendon
+2024-03-22,370000,RM15 6EE,T,N,F,68,,Chelmer Drive,,South Ockendon
+2024-03-22,182000,RM15 5DN,F,N,L,15,,Alwen Grove,,South Ockendon
+2024-03-22,545000,RM15 4TS,T,N,F,49,,Martin Road,Aveley,South Ockendon
+2024-03-22,272000,RM15 4SY,T,N,F,27,,St Michaels Close,Aveley,South Ockendon
+2024-03-19,80500,RM15 5FD,F,N,L,Avontar Court,49,Avontar Road,,South Ockendon
+2024-03-18,160000,RM15 6PU,F,N,L,84,,Peartree Close,,South Ockendon
+2024-03-14,315000,RM15 6PR,T,N,F,78,,Peartree Close,,South Ockendon
+2024-03-11,355000,RM15 5BF,T,N,F,40,,Elmdon Road,,South Ockendon
+2024-03-08,325000,RM15 6HH,T,N,F,78,,Orchard Road,,South Ockendon
+2024-03-08,315000,RM15 4ER,T,N,F,48,,Grange Road,Aveley,South Ockendon
+2024-03-08,415000,RM15 4ER,T,N,F,28,,Grange Road,Aveley,South Ockendon
+2024-03-07,155000,RM15 6PR,F,N,L,21,,Peartree Close,,South Ockendon
+2024-03-06,330000,RM15 6TG,T,N,F,35,,Holly Drive,,South Ockendon
+2024-03-01,253000,RM15 6EU,T,N,F,1,,Foxglove Road,,South Ockendon
+2024-03-01,260000,RM15 4QX,T,N,F,21,,Shannon Way,Aveley,South Ockendon
+2024-03-01,290000,RM15 4PD,T,N,F,262,,Romford Road,Aveley,South Ockendon
+2024-02-29,459995,RM15 5GR,S,Y,F,7A,,Park Way,,South Ockendon
+2024-02-29,480000,RM15 5FE,T,Y,F,280,,Arisdale Avenue,,South Ockendon
+2024-02-28,350000,RM15 5QS,T,N,F,66,,Broxburn Drive,,South Ockendon
+2024-02-23,312000,RM15 6HU,T,N,F,212,,Tamarisk Road,,South Ockendon
+2024-02-22,210000,RM15 5FW,F,N,L,2,,Falcon Way,,South Ockendon
+2024-02-22,350000,RM15 4HD,S,N,F,15,,Hall Road,Aveley,South Ockendon
+2024-02-21,330000,RM15 4BT,T,N,F,39,,Stanford Gardens,Aveley,South Ockendon
+2024-02-20,400000,RM15 5FE,T,N,F,172,,Arisdale Avenue,,South Ockendon
+2024-02-19,360000,RM15 4NP,T,N,F,27,,Ravel Road,Aveley,South Ockendon
+2024-02-16,265000,RM15 6NN,T,N,F,13,,Lime Close,,South Ockendon
+2024-02-16,440000,RM15 6HJ,S,N,F,89,,Orchard Road,,South Ockendon
+2024-02-16,154137,RM15 5QQ,T,N,F,17,,Groves Close,,South Ockendon
+2024-02-16,200000,RM15 5GW,F,N,L,133,,Windstar Drive,,South Ockendon
+2024-02-14,150000,RM15 5QJ,F,N,L,18,,Avon Green,,South Ockendon
+2024-02-14,450000,RM15 4HS,S,N,F,100,,Hall Road,Aveley,South Ockendon
+2024-02-13,325000,RM15 6JH,T,N,F,68,,Rosemary Close,,South Ockendon
+2024-02-09,245000,RM15 5FA,F,N,L,35,,Fairlane Drive,,South Ockendon
+2024-02-09,400000,RM15 5AX,T,N,F,12,,Avontar Road,,South Ockendon
+2024-02-02,367000,RM15 6EE,T,N,F,10,,Chelmer Drive,,South Ockendon
+2024-02-02,300000,RM15 5EY,T,N,F,38,,Dunkellin Way,,South Ockendon
+2024-01-31,417500,RM15 6XA,S,N,F,16,,Nordmann Place,,South Ockendon
+2024-01-26,176920,RM15 6EP,F,N,L,119,,Stifford Road,,South Ockendon
+2024-01-22,287000,RM15 6EH,T,N,F,142,,Cruick Avenue,,South Ockendon
+2024-01-22,340000,RM15 5RF,T,N,F,38,,Cawdor Avenue,,South Ockendon
+2024-01-19,192500,RM15 5XB,F,N,L,277,,Danbury Crescent,,South Ockendon
+2024-01-19,330000,RM15 5LZ,T,N,F,14,,Dene Path,,South Ockendon
+2024-01-19,330000,RM15 5JU,S,N,F,130,,Garron Lane,,South Ockendon
+2024-01-19,312500,RM15 4BT,S,N,F,33,,Stanford Gardens,Aveley,South Ockendon
+2024-01-12,163000,RM15 4TT,F,N,L,37,,Dacre Crescent,Aveley,South Ockendon
+2024-01-12,360000,RM15 4JS,S,N,F,10,,Hall Crescent,Aveley,South Ockendon
+2024-01-11,380000,RM15 4SA,T,N,F,13,,St Pauls Place,Aveley,South Ockendon
+2024-01-10,350000,RM15 5HZ,S,N,F,108,,Fullarton Crescent,,South Ockendon
+2024-01-04,340000,RM15 4SY,T,N,F,101,,St Michaels Close,Aveley,South Ockendon
+2023-12-21,250000,RM15 6HL,S,N,F,5,,Oaklands Drive,,South Ockendon
+2023-12-21,350000,RM15 5JG,S,N,F,2,,Garron Lane,,South Ockendon
+2023-12-21,459995,RM15 5GQ,S,Y,F,21,,Vanette Way,,South Ockendon
+2023-12-20,370000,RM15 5HN,T,N,F,20,,Fullarton Crescent,,South Ockendon
+2023-12-20,374995,RM15 5GT,T,Y,F,2,,Windstar Drive,,South Ockendon
+2023-12-19,245000,RM15 6QS,S,N,F,8,,Copper Beech Road,,South Ockendon
+2023-12-19,335000,RM15 5LZ,T,N,F,18,,Dene Path,,South Ockendon
+2023-12-19,498000,RM15 4UD,D,N,L,8,,Park Lane,Aveley,South Ockendon
+2023-12-19,325000,RM15 4SY,T,N,F,45,,St Michaels Close,Aveley,South Ockendon
+2023-12-19,348000,RM15 4ET,T,N,F,20,,Mill Field Way,Aveley,South Ockendon
+2023-12-18,240000,RM15 6NL,T,N,F,10,,Quince Tree Close,,South Ockendon
+2023-12-18,499995,RM15 5FE,T,Y,F,278,,Arisdale Avenue,,South Ockendon
+2023-12-15,350000,RM15 6EH,T,N,F,155,,Cruick Avenue,,South Ockendon
+2023-12-15,315000,RM15 5RA,T,N,F,30,,Cample Lane,,South Ockendon
+2023-12-15,345000,RM15 5NH,S,N,F,48,,Fortin Close,,South Ockendon
+2023-12-14,497500,RM15 5SD,D,N,F,18,,Kemps Farm Mews,,South Ockendon
+2023-12-14,210000,RM15 5QL,F,N,L,24,,Broxburn Drive,,South Ockendon
+2023-12-14,195000,RM15 4QP,F,N,L,Haywards,1,Teviot Avenue,Aveley,South Ockendon
+2023-12-13,430000,RM15 6QH,T,N,F,36,,North Road,,South Ockendon
+2023-12-11,270000,RM15 6HU,T,N,F,184,,Tamarisk Road,,South Ockendon
+2023-12-11,475000,RM15 4RT,T,N,F,35,,Nethan Drive,Aveley,South Ockendon
+2023-12-11,210000,RM15 4QS,F,N,L,Franklyns,9,Teviot Avenue,Aveley,South Ockendon
+2023-12-07,200000,RM15 4EF,F,N,L,59,,Brinson Way,Aveley,South Ockendon
+2023-12-04,282500,RM15 5FW,F,N,L,30,,Falcon Way,,South Ockendon
+2023-12-01,307000,RM15 5PN,S,N,F,22,,Callan Grove,,South Ockendon
+2023-11-30,362500,RM15 6RB,S,N,F,14,,Cedar Rise,,South Ockendon
+2023-11-30,370000,RM15 6EP,S,N,F,115,,Stifford Road,,South Ockendon
+2023-11-30,201000,RM15 4QL,F,N,L,Meresmans,5,Teviot Avenue,Aveley,South Ockendon
+2023-11-30,605000,RM15 4DS,S,N,F,71,,Purfleet Road,Aveley,South Ockendon
+2023-11-29,405000,RM15 6NP,S,N,F,135,,South Road,,South Ockendon
+2023-11-29,425000,RM15 6JS,S,N,F,2,,Whitebeam Drive,,South Ockendon
+2023-11-27,322000,RM15 5HN,T,N,F,7,,Fullarton Crescent,,South Ockendon
+2023-11-24,385000,RM15 4EL,S,N,F,3,,Manor Close,Aveley,South Ockendon
+2023-11-22,383000,RM15 5HQ,T,N,F,52,,Hamble Lane,,South Ockendon
+2023-11-21,418000,RM15 4NL,S,N,F,37,,Ravel Road,Aveley,South Ockendon
+2023-11-20,480000,RM15 4SU,T,N,F,15,,Alfred Road,Aveley,South Ockendon
+2023-11-17,207500,RM15 6PF,F,N,L,20,,Gidea Close,,South Ockendon
+2023-11-17,320000,RM15 5HW,S,N,F,44,,Fullarton Crescent,,South Ockendon
+2023-11-17,379995,RM15 5GR,S,Y,F,7,,Park Way,,South Ockendon
+2023-11-17,335500,RM15 4RD,S,N,F,12,,Perry Way,Aveley,South Ockendon
+2023-11-17,360000,RM15 4QB,T,N,F,11,,Teviot Avenue,Aveley,South Ockendon
+2023-11-11,380000,RM15 5GR,S,Y,F,5,,Park Way,,South Ockendon
+2023-11-10,217000,RM15 6BA,F,N,L,13,,Corve Lane,,South Ockendon
+2023-11-10,190000,RM15 5JQ,F,N,L,103,,Garron Lane,,South Ockendon
+2023-11-10,374995,RM15 5GQ,S,Y,F,19,,Vanette Way,,South Ockendon
+2023-11-10,335000,RM15 5AW,T,N,F,27,,Erriff Drive,,South Ockendon
+2023-11-10,170000,RM15 4DQ,T,N,L,2,,Regent Court,Aveley,South Ockendon
+2023-11-06,425000,RM15 5SD,S,N,F,13,,Kemps Farm Mews,,South Ockendon
+2023-11-06,400000,RM15 5FE,T,N,F,230,,Arisdale Avenue,,South Ockendon
+2023-11-03,280000,RM15 6HZ,T,N,F,21,,Mayflower Close,,South Ockendon
+2023-11-03,240000,RM15 5FE,F,N,L,82,,Arisdale Avenue,,South Ockendon
+2023-10-30,390000,RM15 5GR,S,Y,F,3,,Park Way,,South Ockendon
+2023-10-30,375000,RM15 5AB,S,N,F,20,,Eskley Gardens,,South Ockendon
+2023-10-30,400000,RM15 4ER,T,N,F,36,,Grange Road,Aveley,South Ockendon
+2023-10-27,430000,RM15 6XA,S,N,F,18,,Nordmann Place,,South Ockendon
+2023-10-27,205000,RM15 6PR,F,N,L,5,,Peartree Close,,South Ockendon
+2023-10-27,395000,RM15 5HH,T,N,F,168,,Foyle Drive,,South Ockendon
+2023-10-27,526995,RM15 5GT,T,Y,F,6,,Windstar Drive,,South Ockendon
+2023-10-27,420000,RM15 5GQ,S,Y,F,15,,Vanette Way,,South Ockendon
+2023-10-27,80500,RM15 5FD,F,N,L,Avontar Court,52,Avontar Road,,South Ockendon
+2023-10-27,366000,RM15 4LB,T,N,F,22,,Hall Avenue,Aveley,South Ockendon
+2023-10-23,419995,RM15 5GQ,S,Y,F,13,,Vanette Way,,South Ockendon
+2023-10-20,415000,RM15 5HQ,S,N,F,27,,Hamble Lane,,South Ockendon
+2023-10-20,467500,RM15 4EB,S,N,F,29,,Blenheim Gardens,Aveley,South Ockendon
+2023-10-19,360000,RM15 6EH,T,N,F,157,,Cruick Avenue,,South Ockendon
+2023-10-19,504995,RM15 5FE,T,Y,F,252,,Arisdale Avenue,,South Ockendon
+2023-10-18,190000,RM15 6JQ,T,N,F,15,,Larkspur Close,,South Ockendon
+2023-10-18,370000,RM15 5EW,S,N,F,6,,Ernan Road,,South Ockendon
+2023-10-17,138000,RM15 5BN,F,N,L,21,,Eden Green,,South Ockendon
+2023-10-16,514995,RM15 5FE,T,Y,F,250,,Arisdale Avenue,,South Ockendon
+2023-10-16,335500,RM15 5BT,S,N,F,64,,Annifer Way,,South Ockendon
+2023-10-16,595000,RM15 4SR,D,Y,F,3,,Springfield Mews,Aveley,South Ockendon
+2023-10-16,399995,RM15 4ES,T,N,L,58,,Bredle Way,Aveley,South Ockendon
+2023-10-13,280000,RM15 6HX,T,N,F,56,,Tamarisk Road,,South Ockendon
+2023-10-13,300000,RM15 5PN,S,N,F,38,,Callan Grove,,South Ockendon
+2023-10-13,420000,RM15 5GQ,S,Y,F,17,,Vanette Way,,South Ockendon
+2023-10-13,446995,RM15 5GQ,S,Y,F,11,,Vanette Way,,South Ockendon
+2023-10-13,407000,RM15 4JR,S,N,F,27,,Hall Crescent,Aveley,South Ockendon
+2023-10-13,425000,RM15 4HR,S,N,F,80,,Hall Road,Aveley,South Ockendon
+2023-10-09,315000,RM15 6AS,T,N,F,95,,Cherwell Grove,,South Ockendon
+2023-10-09,415000,RM15 5ES,S,N,F,3,,Dunkellin Way,,South Ockendon
+2023-10-09,372500,RM15 4LD,S,N,F,78,,Hall Avenue,Aveley,South Ockendon
+2023-10-06,330000,RM15 5DD,T,N,F,124,,Araglen Avenue,,South Ockendon
+2023-10-06,260000,RM15 5BG,T,N,F,4,,Little Belhus Close,,South Ockendon
+2023-10-06,375000,RM15 4RB,T,N,F,27,,Nare Road,Aveley,South Ockendon
+2023-10-06,430000,RM15 4EH,T,N,F,28,,Toplands Avenue,Aveley,South Ockendon
+2023-10-05,280000,RM15 5GW,F,N,L,131,,Windstar Drive,,South Ockendon
+2023-10-05,175000,RM15 5BD,F,N,L,Archers Court,Flat 6,Arisdale Avenue,,South Ockendon
+2023-10-04,450000,RM15 6HP,S,N,F,53,,Orchard Road,,South Ockendon
+2023-10-03,415000,RM15 4JH,S,N,F,28,,Central Avenue,Aveley,South Ockendon
+2023-10-02,287592,RM15 5DE,T,N,F,59,,Annalee Gardens,,South Ockendon
+2023-09-29,310000,RM15 6JF,T,N,F,31,,Viola Close,,South Ockendon
+2023-09-29,257500,RM15 5FA,F,N,L,39,,Fairlane Drive,,South Ockendon
+2023-09-29,375000,RM15 5DF,T,N,F,46,,Annalee Gardens,,South Ockendon
+2023-09-29,327000,RM15 4SZ,T,N,F,70,,St Michaels Close,Aveley,South Ockendon
+2023-09-29,315000,RM15 4AX,T,N,F,61,,High Street,Aveley,South Ockendon
+2023-09-28,211000,RM15 5FY,F,N,L,19,,Maverick Drive,,South Ockendon
+2023-09-28,305000,RM15 4HB,T,N,F,2,,Ship Lane,Aveley,South Ockendon
+2023-09-22,290000,RM15 6PT,T,N,F,19,,North Road,,South Ockendon
+2023-09-22,340000,RM15 6EH,S,N,F,126,,Cruick Avenue,,South Ockendon
+2023-09-22,340000,RM15 5HZ,T,N,F,73,,Fullarton Crescent,,South Ockendon
+2023-09-22,435000,RM15 4SP,S,N,F,5,,Buchanan Close,Aveley,South Ockendon
+2023-09-21,452000,RM15 4BX,S,N,F,120,,High Street,Aveley,South Ockendon
+2023-09-19,458000,RM15 6XD,D,N,F,4,,Birch Close,,South Ockendon
+2023-09-15,299995,RM15 5LF,F,Y,L,"Ambrose Court, 38",Apartment 43,Windstar Drive,,South Ockendon
+2023-09-15,595000,RM15 4SR,D,Y,F,2,,Springfield Mews,Aveley,South Ockendon
+2023-09-08,418000,RM15 6TE,T,N,F,11,,Magnolia Close,,South Ockendon
+2023-09-08,440000,RM15 6QU,S,N,F,3,,Garth Road,,South Ockendon
+2023-09-08,365000,RM15 6QT,S,N,F,4,,Mar Road,,South Ockendon
+2023-09-08,275000,RM15 6JQ,T,N,F,11,,Larkspur Close,,South Ockendon
+2023-09-07,375000,RM15 6NS,T,N,F,57B,,South Road,,South Ockendon
+2023-09-07,350000,RM15 5QY,T,N,F,198,,Broxburn Drive,,South Ockendon
+2023-09-07,425000,RM15 4EF,S,N,L,57,,Brinson Way,Aveley,South Ockendon
+2023-09-05,610000,RM15 6TS,D,N,F,14,,Medlar Drive,,South Ockendon
+2023-09-04,245000,RM15 4HW,F,N,L,17,,Cavendish Gardens,Aveley,South Ockendon
+2023-09-02,227000,RM15 4SX,F,N,L,34,,Elm Road,Aveley,South Ockendon
+2023-09-01,175000,RM15 5BF,F,N,L,22,,Elmdon Road,,South Ockendon
+2023-09-01,360000,RM15 4ND,T,N,F,165,,Usk Road,Aveley,South Ockendon
+2023-09-01,158000,RM15 4DQ,T,N,L,22,,Regent Court,Aveley,South Ockendon
+2023-09-01,405000,RM15 4BF,S,N,F,114,,Belhouse Avenue,Aveley,South Ockendon
+2023-08-31,367000,RM15 5NB,T,N,F,79,,Stifford Road,,South Ockendon
+2023-08-31,400000,RM15 5EW,S,N,F,4,,Ernan Road,,South Ockendon
+2023-08-30,292000,RM15 6HX,T,N,F,114,,Tamarisk Road,,South Ockendon
+2023-08-25,375000,RM15 5QT,S,N,F,22,,Bann Close,,South Ockendon
+2023-08-25,350000,RM15 5HX,S,N,F,10,,Gatehope Drive,,South Ockendon
+2023-08-22,363000,RM15 5DS,T,N,F,54,,Dent Close,,South Ockendon
+2023-08-21,190000,RM15 6AF,F,N,L,The Oaks,1,Garth Road,,South Ockendon
+2023-08-21,365000,RM15 5RN,S,N,F,4,,Daiglen Drive,,South Ockendon
+2023-08-21,310000,RM15 5PX,T,N,F,80,,Carnach Green,,South Ockendon
+2023-08-21,375000,RM15 4ST,S,N,F,22,,Davis Road,Aveley,South Ockendon
+2023-08-18,375000,RM15 6JT,S,N,F,11,,Hazel Drive,,South Ockendon
+2023-08-18,400000,RM15 4PA,T,N,F,50,,Usk Road,Aveley,South Ockendon
+2023-08-17,540000,RM15 6TG,D,N,F,17,,Holly Drive,,South Ockendon
+2023-08-16,425000,RM15 5XE,T,N,F,190,,Danbury Crescent,,South Ockendon
+2023-08-15,447500,RM15 4NH,S,N,F,32,,Ravel Gardens,Aveley,South Ockendon
+2023-08-10,300000,RM15 6DS,T,N,F,Knowlton Cottages,7,South Road,,South Ockendon
+2023-08-10,350000,RM15 5PW,T,N,F,55,,Callan Grove,,South Ockendon
+2023-08-08,408000,RM15 6TH,S,N,F,2,,Lavender Close,,South Ockendon
+2023-08-08,410000,RM15 4NB,S,N,F,50,,Tamar Drive,Aveley,South Ockendon
+2023-08-03,533000,RM15 4SW,D,N,F,33,,Rowan Grove,Aveley,South Ockendon
+2023-08-02,355000,RM15 4TP,T,N,F,17,,Dacre Crescent,Aveley,South Ockendon
+2023-07-28,350000,RM15 6PR,T,N,F,73,,Peartree Close,,South Ockendon
+2023-07-28,310000,RM15 6EH,S,N,F,141,,Cruick Avenue,,South Ockendon
+2023-07-28,340000,RM15 5HP,T,N,F,108,,Hamble Lane,,South Ockendon
+2023-07-28,345000,RM15 5BY,T,N,F,18,,Annalee Road,,South Ockendon
+2023-07-28,465000,RM15 4SS,D,N,F,2,,Hanford Road,Aveley,South Ockendon
+2023-07-28,405000,RM15 4HX,S,N,F,27,,Love Lane,Aveley,South Ockendon
+2023-07-28,530000,RM15 4ED,S,N,F,1,,Lowlands Road,Aveley,South Ockendon
+2023-07-24,350000,RM15 6NP,T,N,F,125B,,South Road,,South Ockendon
+2023-07-24,440000,RM15 4BF,D,N,F,88,,Belhouse Avenue,Aveley,South Ockendon
+2023-07-21,322000,RM15 5RQ,T,N,F,7,,Cawdor Avenue,,South Ockendon
+2023-07-20,360000,RM15 6RE,T,N,F,7,,Redwood Chase,,South Ockendon
+2023-07-18,230000,RM15 5FE,F,N,L,84,,Arisdale Avenue,,South Ockendon
+2023-07-17,418000,RM15 4JL,S,N,F,1,,Crescent Road,Aveley,South Ockendon
+2023-07-13,425000,RM15 6BP,S,N,F,6,,Rose Gardens,,South Ockendon
+2023-07-13,475000,RM15 4HS,S,N,F,63,,Hall Road,Aveley,South Ockendon
+2023-07-11,480000,RM15 6TH,S,N,F,10,,Lavender Close,,South Ockendon
+2023-07-11,288000,RM15 6JB,T,N,F,11,,Celandine Close,,South Ockendon
+2023-07-11,155000,RM15 4QH,F,N,L,Waymans,13,Teviot Avenue,Aveley,South Ockendon
+2023-07-07,375000,RM15 4SZ,T,N,F,4,,St Michaels Close,Aveley,South Ockendon
+2023-07-06,320000,RM15 6PH,T,N,F,90,,West Road,,South Ockendon
+2023-07-04,652000,RM15 6TZ,D,N,F,26,,Birch Crescent,,South Ockendon
+2023-07-04,460000,RM15 6QB,S,N,F,8,,Wilsman Road,,South Ockendon
+2023-06-30,280000,RM15 6NN,T,N,F,59,,Lime Close,,South Ockendon
+2023-06-30,400000,RM15 6HS,S,N,F,12,,Orchard Close,,South Ockendon
+2023-06-30,315000,RM15 5QE,T,N,F,42,,Fyfield Drive,,South Ockendon
+2023-06-30,390000,RM15 4XU,S,N,F,Alerne,,London Road,Aveley,South Ockendon
+2023-06-29,316000,RM15 4TA,S,N,F,43,,Chichester Close,Aveley,South Ockendon
+2023-06-28,501885,RM15 5LG,T,N,F,18,,Windstar Drive,,South Ockendon
+2023-06-22,318000,RM15 6JE,T,N,F,64,,Viola Close,,South Ockendon
+2023-06-20,330000,RM15 5XF,T,N,F,4,,Danbury Crescent,,South Ockendon
+2023-06-20,280000,RM15 5AX,T,N,F,6,,Avontar Road,,South Ockendon
+2023-06-19,540000,RM15 5JN,S,N,F,50,,Humber Avenue,,South Ockendon
+2023-06-19,400000,RM15 5BZ,T,N,F,45,,Annalee Road,,South Ockendon
+2023-06-19,385000,RM15 4NR,T,N,F,16,,Severn Road,Aveley,South Ockendon
+2023-06-19,362000,RM15 4DP,S,N,F,54,,Purfleet Road,Aveley,South Ockendon
+2023-06-09,600000,RM15 4SR,D,N,F,Millhaven,,Mill Road,Aveley,South Ockendon
+2023-06-08,284000,RM15 5EN,T,N,F,6,,Ernan Close,,South Ockendon
+2023-06-06,250000,RM15 5FA,F,N,L,15,,Fairlane Drive,,South Ockendon
+2023-06-02,430000,RM15 4EB,S,N,F,21,,Blenheim Gardens,Aveley,South Ockendon
+2023-05-31,318000,RM15 6AH,T,N,F,138,,Cherwell Grove,,South Ockendon
+2023-05-31,289995,RM15 5LQ,F,Y,L,"Cuthbert Court, 33",Apartment 18,Falcon Way,,South Ockendon
+2023-05-26,350000,RM15 5DQ,T,N,F,105,,Araglen Avenue,,South Ockendon
+2023-05-26,325000,RM15 5AL,S,N,F,162,,Daiglen Drive,,South Ockendon
+2023-05-26,205980,RM15 4QX,T,N,F,4,,Shannon Way,Aveley,South Ockendon
+2023-05-25,397000,RM15 5QE,T,N,F,53,,Fyfield Drive,,South Ockendon
+2023-05-23,385000,RM15 4JS,S,N,F,2,,Hall Crescent,Aveley,South Ockendon
+2023-05-19,430000,RM15 6NS,T,N,F,57C,,South Road,,South Ockendon
+2023-05-19,366000,RM15 6NP,T,N,F,117B,,South Road,,South Ockendon
+2023-05-19,310000,RM15 6JH,T,N,F,16,,Rosemary Close,,South Ockendon
+2023-05-19,595000,RM15 4SR,D,Y,F,5,,Springfield Mews,Aveley,South Ockendon
+2023-05-17,385000,RM15 4LX,T,N,F,18,,Swale Close,Aveley,South Ockendon
+2023-05-16,275000,RM15 5HH,T,N,F,165,,Foyle Drive,,South Ockendon
+2023-05-12,160000,RM15 5BF,F,N,L,32,,Elmdon Road,,South Ockendon
+2023-05-12,562000,RM15 4EB,S,N,F,3,,Blenheim Gardens,Aveley,South Ockendon
+2023-05-11,448500,RM15 4TL,S,N,F,33,,Dacre Avenue,Aveley,South Ockendon
+2023-05-09,295995,RM15 5LQ,F,Y,L,"Cuthbert Court, 33",Apartment 22,Falcon Way,,South Ockendon
+2023-05-03,455000,RM15 5QE,D,N,F,28,,Fyfield Drive,,South Ockendon
+2023-05-02,287000,RM15 5FW,F,N,L,32,,Falcon Way,,South Ockendon
+2023-04-28,325000,RM15 6DR,T,N,F,3,,Valentines Villas,,South Ockendon
+2023-04-28,288495,RM15 5LF,F,Y,L,"Ambrose Court, 38",Apartment 21,Windstar Drive,,South Ockendon
+2023-04-28,335000,RM15 5BG,T,N,F,13,,Little Belhus Close,,South Ockendon
+2023-04-28,200000,RM15 5BD,F,N,L,Archers Court,Flat 29,Arisdale Avenue,,South Ockendon
+2023-04-27,445000,RM15 6HL,S,N,F,6,,Oaklands Drive,,South Ockendon
+2023-04-27,160000,RM15 5RJ,F,N,L,55,,Daiglen Drive,,South Ockendon
+2023-04-27,183000,RM15 5JH,T,N,L,5,,Humber Avenue,,South Ockendon
+2023-04-26,290000,RM15 6HU,T,N,F,202,,Tamarisk Road,,South Ockendon
+2023-04-21,234995,RM15 5LQ,F,Y,L,"Cuthbert Court, 33",Apartment 19,Falcon Way,,South Ockendon
+2023-04-21,525000,RM15 5AW,S,N,F,10,,Erriff Drive,,South Ockendon
+2023-04-20,170000,RM15 5NW,F,N,L,17,,Faymore Gardens,,South Ockendon
+2023-04-18,325000,RM15 5AG,S,N,F,287,,Daiglen Drive,,South Ockendon
+2023-04-14,420000,RM15 5FE,T,N,F,166,,Arisdale Avenue,,South Ockendon
+2023-04-14,335000,RM15 4TJ,T,N,F,2A,,Crescent Way,Aveley,South Ockendon
+2023-04-11,350000,RM15 5QA,T,N,F,507,,Broxburn Drive,,South Ockendon
+2023-04-06,330000,RM15 6AB,T,N,F,16,,Cullen Square,,South Ockendon
+2023-04-06,455000,RM15 5XF,D,N,F,94,,Danbury Crescent,,South Ockendon
+2023-04-05,345000,RM15 4EE,S,N,L,4,,Bumpstead Mead,Aveley,South Ockendon
+2023-04-03,390000,RM15 4PA,T,N,F,63,,Usk Road,Aveley,South Ockendon
+2023-03-31,360000,RM15 6XB,S,N,F,24,,Sycamore Way,,South Ockendon
+2023-03-31,560000,RM15 6TU,D,N,F,19,,Poplar Close,,South Ockendon
+2023-03-31,290000,RM15 6JA,T,N,F,68,,Celandine Close,,South Ockendon
+2023-03-31,299995,RM15 5LQ,F,Y,L,"Cuthbert Court, 33",Apartment 31,Falcon Way,,South Ockendon
+2023-03-30,400000,RM15 5XD,S,N,F,303,,Danbury Crescent,,South Ockendon
+2023-03-30,386000,RM15 4DA,S,N,F,3,,Belhouse Avenue,Aveley,South Ockendon
+2023-03-27,590000,RM15 6TT,D,N,F,1,,Hornbeam Chase,,South Ockendon
+2023-03-27,420000,RM15 4EB,S,N,F,14,,Blenheim Gardens,Aveley,South Ockendon
+2023-03-24,365000,RM15 4EL,T,N,F,14,,Manor Close,Aveley,South Ockendon
+2023-03-23,425000,RM15 5JZ,S,N,F,29,,Fulbrook Lane,,South Ockendon
+2023-03-23,540000,RM15 4DS,S,N,F,75,,Purfleet Road,Aveley,South Ockendon
+2023-03-20,415000,RM15 5FQ,S,N,L,2,,Falcon Avenue,,South Ockendon
+2023-03-17,285000,RM15 6JF,T,N,F,21,,Viola Close,,South Ockendon
+2023-03-17,175000,RM15 5BP,F,N,L,37,,Galey Green,,South Ockendon
+2023-03-16,361000,RM15 5FE,T,N,F,240,,Arisdale Avenue,,South Ockendon
+2023-03-14,270000,RM15 5FA,F,N,L,19,,Fairlane Drive,,South Ockendon
+2023-03-10,455000,RM15 5FY,D,N,F,10,,Maverick Drive,,South Ockendon
+2023-03-10,330000,RM15 4DA,T,N,F,41,,Belhouse Avenue,Aveley,South Ockendon
+2023-03-09,205000,RM15 5BD,F,N,L,Archers Court,Flat 33,Arisdale Avenue,,South Ockendon
+2023-03-01,345000,RM15 6AS,T,N,F,120,,Cherwell Grove,,South Ockendon
+2023-03-01,415000,RM15 5JU,S,N,F,142,,Garron Lane,,South Ockendon
+2023-02-28,165000,RM15 5XF,F,N,L,88,,Danbury Crescent,,South Ockendon
+2023-02-28,253000,RM15 4SZ,F,N,F,40,,St Michaels Close,Aveley,South Ockendon
+2023-02-24,435000,RM15 5FJ,S,N,F,5,,Ayron Road,,South Ockendon
+2023-02-24,360000,RM15 4DN,S,N,F,19,,Courts Way,Aveley,South Ockendon
+2023-02-22,380000,RM15 6EL,T,N,F,16,,Cruick Avenue,,South Ockendon
+2023-02-17,338000,RM15 5PN,T,N,F,30,,Callan Grove,,South Ockendon
+2023-02-17,363000,RM15 5DF,S,N,F,14,,Annalee Gardens,,South Ockendon
+2023-02-17,410000,RM15 4RR,T,N,F,15,,Monnow Green,Aveley,South Ockendon
+2023-02-16,173000,RM15 5LU,T,N,F,43,,Foyle Drive,,South Ockendon
+2023-02-15,240000,RM15 6PU,F,N,L,108,,Peartree Close,,South Ockendon
+2023-02-15,380000,RM15 5LW,T,N,F,3,,Dawley Green,,South Ockendon
+2023-02-13,536500,RM15 6QD,S,N,F,27,,Cheelson Road,,South Ockendon
+2023-02-13,425000,RM15 6ED,T,N,F,8,,Elwick Road,,South Ockendon
+2023-02-13,392000,RM15 4NX,S,N,F,99,,Usk Road,Aveley,South Ockendon
+2023-02-10,285000,RM15 6HU,T,N,F,200,,Tamarisk Road,,South Ockendon
+2023-02-10,500000,RM15 4SW,D,N,F,3,,Rowan Grove,Aveley,South Ockendon
+2023-02-10,380000,RM15 4NP,T,N,F,24,,Ravel Road,Aveley,South Ockendon
+2023-02-09,395000,RM15 4SS,T,N,F,15,,Hanford Road,Aveley,South Ockendon
+2023-02-08,300000,RM15 4TU,T,N,F,78,,Dacre Crescent,Aveley,South Ockendon
+2023-02-07,250000,RM15 5FA,F,N,L,3,,Fairlane Drive,,South Ockendon
+2023-02-06,415000,RM15 5PT,T,N,F,10,,Cander Way,,South Ockendon
+2023-02-06,400000,RM15 5LY,T,N,F,5,,Darenth Lane,,South Ockendon
+2023-02-06,652500,RM15 5JW,D,N,F,73,,Humber Avenue,,South Ockendon
+2023-02-03,365000,RM15 5HU,T,N,F,4,,Fusedale Way,,South Ockendon
+2023-02-03,410000,RM15 4SA,T,N,F,15,,St Pauls Place,Aveley,South Ockendon
+2023-02-03,325000,RM15 4DP,F,N,F,50A,,Purfleet Road,Aveley,South Ockendon
+2023-02-02,290000,RM15 5LQ,F,Y,L,"Cuthbert Court, 33",Apartment 12,Falcon Way,,South Ockendon
+2023-02-02,306995,RM15 5LQ,F,Y,L,"Cuthbert Court, 33",Apartment 4,Falcon Way,,South Ockendon
+2023-02-02,380000,RM15 5LD,T,N,F,9,,Bingham Close,,South Ockendon
+2023-02-02,370000,RM15 5EG,S,N,F,8,,Elan Road,,South Ockendon
+2023-01-31,340000,RM15 6EE,T,N,F,33,,Chelmer Drive,,South Ockendon
+2023-01-31,372000,RM15 5LW,S,N,F,5,,Dawley Green,,South Ockendon
+2023-01-31,330000,RM15 5AH,S,N,F,2,,Eskley Gardens,,South Ockendon
+2023-01-31,295000,RM15 4SA,T,N,F,18,,St Pauls Place,Aveley,South Ockendon
+2023-01-30,340000,RM15 5PN,S,N,F,2,,Callan Grove,,South Ockendon
+2023-01-30,400000,RM15 4SY,T,N,F,39,,St Michaels Close,Aveley,South Ockendon
+2023-01-27,245000,RM15 6RA,F,N,L,50,,Laburnum Grove,,South Ockendon
+2023-01-27,365000,RM15 6AD,T,N,F,97,,Cullen Square,,South Ockendon
+2023-01-27,345000,RM15 5NQ,T,N,F,37,,Fortin Way,,South Ockendon
+2023-01-27,345000,RM15 5LW,S,N,F,32,,Dawley Green,,South Ockendon
+2023-01-27,300000,RM15 5AG,T,N,F,291,,Daiglen Drive,,South Ockendon
+2023-01-27,516000,RM15 4TA,S,N,F,70,,Chichester Close,Aveley,South Ockendon
+2023-01-20,362000,RM15 6PR,T,N,F,76,,Peartree Close,,South Ockendon
+2023-01-20,142000,RM15 4DQ,T,N,L,19,,Regent Court,Aveley,South Ockendon
+2023-01-19,283000,RM15 5FY,F,N,L,1,,Maverick Drive,,South Ockendon
+2023-01-19,347500,RM15 4TH,T,N,F,20,,Dacre Avenue,Aveley,South Ockendon
+2023-01-17,390000,RM15 4RJ,T,N,F,44,,Nethan Drive,Aveley,South Ockendon
+2023-01-13,500000,RM15 6TW,D,N,F,9,,Juniper Drive,,South Ockendon
+2023-01-13,430000,RM15 6EH,S,N,F,116,,Cruick Avenue,,South Ockendon
+2023-01-11,406000,RM15 4EH,T,N,F,6,,Toplands Avenue,Aveley,South Ockendon
+2023-01-06,410000,RM15 5JU,S,N,F,138,,Garron Lane,,South Ockendon
+2023-01-06,357000,RM15 5BT,T,N,F,54,,Annifer Way,,South Ockendon
+2023-01-06,386000,RM15 4SS,S,N,F,31,,Hanford Road,Aveley,South Ockendon
+2023-01-06,390000,RM15 4PJ,T,N,F,116,,Romford Road,Aveley,South Ockendon
+2022-12-22,236995,RM15 5LQ,F,Y,L,"Cuthbert Court, 33",Apartment 29,Falcon Way,,South Ockendon
+2022-12-22,285000,RM15 5LF,F,Y,L,"Ambrose Court, 38",Apartment 38,Windstar Drive,,South Ockendon
+2022-12-22,304995,RM15 5GU,F,Y,L,3,,Windstar Drive,,South Ockendon
+2022-12-22,435000,RM15 5FW,S,N,F,20,,Falcon Way,,South Ockendon
+2022-12-21,145000,RM15 5QJ,F,N,L,31,,Avon Green,,South Ockendon
+2022-12-21,234995,RM15 5LQ,F,Y,L,"Cuthbert Court, 33",Apartment 17,Falcon Way,,South Ockendon
+2022-12-21,235995,RM15 5LQ,F,Y,L,"Cuthbert Court, 33",Apartment 21,Falcon Way,,South Ockendon
+2022-12-21,301000,RM15 5LQ,F,Y,L,"Cuthbert Court, 33",Apartment 1,Falcon Way,,South Ockendon
+2022-12-21,304995,RM15 5LF,F,Y,L,"Ambrose Court, 38",Apartment 13,Windstar Drive,,South Ockendon
+2022-12-20,285000,RM15 5LQ,F,Y,L,"Cuthbert Court, 33",Apartment 13,Falcon Way,,South Ockendon
+2022-12-20,305995,RM15 5LF,F,Y,L,"Ambrose Court, 38",Apartment 32,Windstar Drive,,South Ockendon
+2022-12-20,365000,RM15 5AG,S,N,F,251,,Daiglen Drive,,South Ockendon
+2022-12-19,254995,RM15 5LQ,F,Y,L,"Cuthbert Court, 33",Apartment 24,Falcon Way,,South Ockendon
+2022-12-19,304995,RM15 5LQ,F,Y,L,"Cuthbert Court, 33",Apartment 14,Falcon Way,,South Ockendon
+2022-12-19,153000,RM15 4QP,F,N,L,Haywards,13,Teviot Avenue,Aveley,South Ockendon
+2022-12-16,365000,RM15 6AD,T,N,F,71,,Cullen Square,,South Ockendon
+2022-12-16,385000,RM15 5RP,T,N,F,84,,Daiglen Drive,,South Ockendon
+2022-12-16,285000,RM15 5LQ,F,Y,L,"Cuthbert Court, 33",Apartment 8,Falcon Way,,South Ockendon
+2022-12-16,236995,RM15 5LF,F,Y,L,"Ambrose Court, 38",Apartment 39,Windstar Drive,,South Ockendon
+2022-12-16,150000,RM15 5BX,F,N,L,67,,Danbury Crescent,,South Ockendon
+2022-12-16,405000,RM15 4ST,S,N,F,24,,Davis Road,Aveley,South Ockendon
+2022-12-16,381000,RM15 4LX,S,N,F,30,,Swale Close,Aveley,South Ockendon
+2022-12-16,580000,RM15 4DR,S,N,F,53,,Purfleet Road,Aveley,South Ockendon
+2022-12-15,240000,RM15 6PU,F,N,L,112,,Peartree Close,,South Ockendon
+2022-12-15,400000,RM15 6EE,S,N,F,78,,Chelmer Drive,,South Ockendon
+2022-12-14,125000,RM15 4QA,F,N,L,Pinfolds,4,Teviot Avenue,Aveley,South Ockendon
+2022-12-12,305000,RM15 6JG,T,N,F,36,,Larkspur Close,,South Ockendon
+2022-12-12,363000,RM15 5AT,S,N,F,31A,,Anton Road,,South Ockendon
+2022-12-09,460000,RM15 6TH,T,N,F,21,,Lavender Close,,South Ockendon
+2022-12-09,282000,RM15 6HU,T,N,F,124,,Tamarisk Road,,South Ockendon
+2022-12-09,320000,RM15 5LQ,F,Y,L,"Cuthbert Court, 33",Apartment 10,Falcon Way,,South Ockendon
+2022-12-09,304995,RM15 5LQ,F,Y,L,"Cuthbert Court, 33",Apartment 15,Falcon Way,,South Ockendon
+2022-12-09,306995,RM15 5LQ,F,Y,L,"Cuthbert Court, 33",Apartment 30,Falcon Way,,South Ockendon
+2022-12-09,241995,RM15 5LQ,F,Y,L,"Cuthbert Court, 33",Apartment 5,Falcon Way,,South Ockendon
+2022-12-09,319995,RM15 5LQ,F,Y,L,"Cuthbert Court, 33",Apartment 20,Falcon Way,,South Ockendon
+2022-12-09,235995,RM15 5LF,F,Y,L,"Ambrose Court, 38",Apartment 31,Windstar Drive,,South Ockendon
+2022-12-09,236995,RM15 5LF,F,Y,L,"Ambrose Court, 38",Apartment 42,Windstar Drive,,South Ockendon
+2022-12-08,319995,RM15 5LQ,F,Y,L,"Cuthbert Court, 33",Apartment 28,Falcon Way,,South Ockendon
+2022-12-08,244450,RM15 5LQ,F,Y,L,"Cuthbert Court, 33",Apartment 9,Falcon Way,,South Ockendon
+2022-12-08,234995,RM15 5LQ,F,Y,L,"Cuthbert Court, 33",Apartment 16,Falcon Way,,South Ockendon
+2022-12-08,305995,RM15 5LQ,F,Y,L,"Cuthbert Court, 33",Apartment 25,Falcon Way,,South Ockendon
+2022-12-08,385000,RM15 4RD,T,N,F,5,,Perry Way,Aveley,South Ockendon
+2022-12-07,305995,RM15 5LQ,F,Y,L,"Cuthbert Court, 33",Apartment 23,Falcon Way,,South Ockendon
+2022-12-07,250000,RM15 4AD,D,N,F,54,,High Street,Aveley,South Ockendon
+2022-12-06,306995,RM15 5LQ,F,Y,L,"Cuthbert Court, 33",Apartment 32,Falcon Way,,South Ockendon
+2022-12-06,235995,RM15 5LQ,F,Y,L,"Cuthbert Court, 33",Apartment 27,Falcon Way,,South Ockendon
+2022-12-05,365000,RM15 6EE,S,N,F,8,,Chelmer Drive,,South Ockendon
+2022-12-05,305995,RM15 5LQ,F,Y,L,"Cuthbert Court, 33",Apartment 26,Falcon Way,,South Ockendon
+2022-12-05,244995,RM15 5LQ,F,Y,L,"Cuthbert Court, 33",Apartment 6,Falcon Way,,South Ockendon
+2022-12-05,255000,RM15 4DY,F,N,L,18,,Meadow Drive,Aveley,South Ockendon
+2022-12-02,306995,RM15 5LF,F,Y,L,"Ambrose Court, 38",Apartment 35,Windstar Drive,,South Ockendon
+2022-12-02,235995,RM15 5LF,F,Y,L,"Ambrose Court, 38",Apartment 23,Windstar Drive,,South Ockendon
+2022-12-02,234995,RM15 5LF,F,Y,L,"Ambrose Court, 38",Apartment 20,Windstar Drive,,South Ockendon
+2022-12-02,299995,RM15 5LF,F,Y,L,"Ambrose Court, 38",Apartment 5,Windstar Drive,,South Ockendon
+2022-12-02,295995,RM15 5LF,F,Y,L,"Ambrose Court, 38",Apartment 10,Windstar Drive,,South Ockendon
+2022-12-02,312995,RM15 5LF,F,Y,L,"Ambrose Court, 38",Apartment 25,Windstar Drive,,South Ockendon
+2022-12-02,245000,RM15 5FL,F,N,L,Capri House,22,Anglia Way,,South Ockendon
+2022-12-01,340000,RM15 5QQ,T,N,F,2,,Groves Close,,South Ockendon
+2022-12-01,305000,RM15 5LF,F,Y,L,"Ambrose Court, 38",Apartment 24,Windstar Drive,,South Ockendon
+2022-12-01,239995,RM15 5LF,F,Y,L,"Ambrose Court, 38",Apartment 19,Windstar Drive,,South Ockendon
+2022-12-01,313995,RM15 5LF,F,Y,L,"Ambrose Court, 38",Apartment 40,Windstar Drive,,South Ockendon
+2022-11-30,450000,RM15 6TD,D,N,F,18,,Brandon Groves Avenue,,South Ockendon
+2022-11-30,330000,RM15 6NN,T,N,F,23,,Lime Close,,South Ockendon
+2022-11-30,300995,RM15 5LQ,F,Y,L,"Cuthbert Court, 33",Apartment 2,Falcon Way,,South Ockendon
+2022-11-30,306995,RM15 5LQ,F,Y,L,"Cuthbert Court, 33",Apartment 7,Falcon Way,,South Ockendon
+2022-11-30,319995,RM15 5LF,F,Y,L,"Ambrose Court, 38",Apartment 33,Windstar Drive,,South Ockendon
+2022-11-30,304995,RM15 5LF,F,Y,L,"Ambrose Court, 38",Apartment 14,Windstar Drive,,South Ockendon
+2022-11-30,306995,RM15 5LF,F,Y,L,"Ambrose Court, 38",Apartment 37,Windstar Drive,,South Ockendon
+2022-11-30,244995,RM15 5LF,F,Y,L,"Ambrose Court, 38",Apartment 28,Windstar Drive,,South Ockendon
+2022-11-30,295995,RM15 5LF,F,Y,L,"Ambrose Court, 38",Apartment 3,Windstar Drive,,South Ockendon
+2022-11-30,297995,RM15 5LF,F,Y,L,"Ambrose Court, 38",Apartment 8,Windstar Drive,,South Ockendon
+2022-11-30,304995,RM15 5LF,F,Y,L,"Ambrose Court, 38",Apartment 18,Windstar Drive,,South Ockendon
+2022-11-30,305000,RM15 5LF,F,Y,L,"Ambrose Court, 38",Apartment 27,Windstar Drive,,South Ockendon
+2022-11-30,400000,RM15 5DF,S,N,F,20,,Annalee Gardens,,South Ockendon
+2022-11-30,400000,RM15 5AF,T,N,F,229,,Daiglen Drive,,South Ockendon
+2022-11-30,390000,RM15 4UA,S,N,F,37,,Park Lane,Aveley,South Ockendon
+2022-11-30,427000,RM15 4TP,T,N,F,20,,Dacre Crescent,Aveley,South Ockendon
+2022-11-29,302995,RM15 5LQ,F,Y,L,"Cuthbert Court, 33",Apartment 3,Falcon Way,,South Ockendon
+2022-11-29,312995,RM15 5LF,F,Y,L,"Ambrose Court, 38",Apartment 29,Windstar Drive,,South Ockendon
+2022-11-29,239995,RM15 5LF,F,Y,L,"Ambrose Court, 38",Apartment 17,Windstar Drive,,South Ockendon
+2022-11-29,234995,RM15 5LF,F,Y,L,"Ambrose Court, 38",Apartment 7,Windstar Drive,,South Ockendon
+2022-11-29,244995,RM15 5LF,F,Y,L,"Ambrose Court, 38",Apartment 30,Windstar Drive,,South Ockendon
+2022-11-29,304995,RM15 5LF,F,Y,L,"Ambrose Court, 38",Apartment 4,Windstar Drive,,South Ockendon
+2022-11-29,234995,RM15 5LF,F,Y,L,"Ambrose Court, 38",Apartment 9,Windstar Drive,,South Ockendon
+2022-11-29,235000,RM15 5LF,F,Y,L,"Ambrose Court, 38",Apartment 12,Windstar Drive,,South Ockendon
+2022-11-29,320000,RM15 5LF,F,Y,L,"Ambrose Court, 38",Apartment 22,Windstar Drive,,South Ockendon
+2022-11-29,243995,RM15 5LF,F,Y,L,"Ambrose Court, 38",Apartment 34,Windstar Drive,,South Ockendon
+2022-11-29,234995,RM15 5LF,F,Y,L,"Ambrose Court, 38",Apartment 2,Windstar Drive,,South Ockendon
+2022-11-28,315995,RM15 5LF,F,Y,L,"Ambrose Court, 38",Apartment 36,Windstar Drive,,South Ockendon
+2022-11-28,304995,RM15 5LF,F,Y,L,"Ambrose Court, 38",Apartment 16,Windstar Drive,,South Ockendon
+2022-11-28,319995,RM15 5LF,F,Y,L,"Ambrose Court, 38",Apartment 11,Windstar Drive,,South Ockendon
+2022-11-28,308995,RM15 5LF,F,Y,L,"Ambrose Court, 38",Apartment 15,Windstar Drive,,South Ockendon
+2022-11-28,305995,RM15 5LF,F,Y,L,"Ambrose Court, 38",Apartment 26,Windstar Drive,,South Ockendon
+2022-11-28,302995,RM15 5LF,F,Y,L,"Ambrose Court, 38",Apartment 6,Windstar Drive,,South Ockendon
+2022-11-28,236995,RM15 5LF,F,Y,L,"Ambrose Court, 38",Apartment 41,Windstar Drive,,South Ockendon
+2022-11-28,308995,RM15 5LF,F,Y,L,"Ambrose Court, 38",Apartment 1,Windstar Drive,,South Ockendon
+2022-11-24,375000,RM15 4QU,T,N,F,55,,Shannon Way,Aveley,South Ockendon
+2022-11-23,385000,RM15 6EE,S,N,F,96,,Chelmer Drive,,South Ockendon
+2022-11-23,227000,RM15 6BB,F,N,L,42,,Cranell Green,,South Ockendon
+2022-11-23,435000,RM15 4EJ,T,N,F,72,,Grange Road,Aveley,South Ockendon
+2022-11-21,336000,RM15 5FS,T,N,L,37,,Sunliner Way,,South Ockendon
+2022-11-21,336000,RM15 5FS,T,Y,F,37,,Sunliner Way,,South Ockendon
+2022-11-18,615000,RM15 6TD,D,N,F,4,,Brandon Groves Avenue,,South Ockendon
+2022-11-15,350000,RM15 5HS,T,N,F,25,,Gatehope Drive,,South Ockendon
+2022-11-11,460000,RM15 6EH,S,N,F,128,,Cruick Avenue,,South Ockendon
+2022-11-11,200000,RM15 5XB,F,N,L,251,,Danbury Crescent,,South Ockendon
+2022-11-11,400000,RM15 5LA,S,N,F,168,,Garron Lane,,South Ockendon
+2022-11-11,510000,RM15 4SW,D,N,F,17,,Rowan Grove,Aveley,South Ockendon
+2022-11-11,192000,RM15 4QA,F,N,L,Pinfolds,9,Teviot Avenue,Aveley,South Ockendon
+2022-11-11,400000,RM15 4NU,T,N,F,86,,Usk Road,Aveley,South Ockendon
+2022-11-08,385000,RM15 5AJ,T,N,F,381,,Daiglen Drive,,South Ockendon
+2022-11-07,390000,RM15 5AT,S,N,F,21,,Anton Road,,South Ockendon
+2022-11-04,495000,RM15 6TP,S,N,F,19,,Cherry Tree Drive,,South Ockendon
+2022-10-31,355000,RM15 6TE,T,N,F,4,,Magnolia Close,,South Ockendon
+2022-10-31,382500,RM15 6AS,T,N,F,90,,Cherwell Grove,,South Ockendon
+2022-10-28,512500,RM15 6DJ,S,N,F,101,,Mollands Lane,,South Ockendon
+2022-10-28,390000,RM15 5JZ,S,N,F,75,,Fulbrook Lane,,South Ockendon
+2022-10-28,430000,RM15 5HE,T,N,F,88,,Foyle Drive,,South Ockendon
+2022-10-28,420000,RM15 5FE,T,N,F,174,,Arisdale Avenue,,South Ockendon
+2022-10-28,480000,RM15 4HS,S,N,F,110,,Hall Road,Aveley,South Ockendon
+2022-10-27,350000,RM15 6EL,T,N,F,64B,,Cruick Avenue,,South Ockendon
+2022-10-27,405000,RM15 5LW,S,N,F,27,,Dawley Green,,South Ockendon
+2022-10-27,350000,RM15 5HN,S,N,F,24,,Fullarton Crescent,,South Ockendon
+2022-10-27,482500,RM15 4SX,S,N,F,18,,Elm Road,Aveley,South Ockendon
+2022-10-26,420000,RM15 6EE,S,N,F,5,,Chelmer Drive,,South Ockendon
+2022-10-26,365000,RM15 5RP,T,N,F,78,,Daiglen Drive,,South Ockendon
+2022-10-26,365000,RM15 5PY,T,N,F,25,,Carnach Green,,South Ockendon
+2022-10-26,260000,RM15 5FA,F,N,L,28,,Fairlane Drive,,South Ockendon
+2022-10-25,330000,RM15 6PT,T,N,F,45,,North Road,,South Ockendon
+2022-10-25,220000,RM15 6PG,F,N,L,10,,Tyssen Place,,South Ockendon
+2022-10-24,385000,RM15 5FS,T,N,L,2,,Sunliner Way,,South Ockendon
+2022-10-24,205000,RM15 4QJ,F,N,L,146,,Teviot Avenue,Aveley,South Ockendon
+2022-10-21,415000,RM15 4TU,T,N,F,58,,Dacre Crescent,Aveley,South Ockendon
+2022-10-21,415000,RM15 4ED,S,N,F,52,,Lowlands Road,Aveley,South Ockendon
+2022-10-21,425000,RM15 4EB,S,N,F,35,,Blenheim Gardens,Aveley,South Ockendon
+2022-10-18,335000,RM15 5ND,T,N,F,55,,Fairham Avenue,,South Ockendon
+2022-10-18,388000,RM15 4SS,S,N,F,35,,Hanford Road,Aveley,South Ockendon
+2022-10-17,420000,RM15 4TS,T,N,F,65,,Martin Road,Aveley,South Ockendon
+2022-10-17,360000,RM15 4ER,S,N,F,9,,Grange Road,Aveley,South Ockendon
+2022-10-14,195000,RM15 6PF,F,N,L,17,,Gidea Close,,South Ockendon
+2022-10-14,305000,RM15 6JG,T,N,F,30,,Larkspur Close,,South Ockendon
+2022-10-14,245000,RM15 5FS,F,N,L,43,,Sunliner Way,,South Ockendon
+2022-10-14,455000,RM15 4TR,S,N,F,25,,Martin Road,Aveley,South Ockendon
+2022-10-14,394000,RM15 4EB,T,N,F,20,,Blenheim Gardens,Aveley,South Ockendon
+2022-10-10,260000,RM15 4SX,F,N,L,40,,Elm Road,Aveley,South Ockendon
+2022-10-07,350000,RM15 5QY,T,N,F,200,,Broxburn Drive,,South Ockendon
+2022-10-07,207500,RM15 4SJ,T,N,F,34,,Mill Road,Aveley,South Ockendon
+2022-10-07,465000,RM15 4DA,S,N,F,23,,Belhouse Avenue,Aveley,South Ockendon
+2022-10-05,158000,RM15 4QS,F,N,L,Franklyns,11,Teviot Avenue,Aveley,South Ockendon
+2022-10-04,375000,RM15 5NQ,T,N,F,57,,Fortin Way,,South Ockendon
+2022-09-30,295000,RM15 6JQ,T,N,F,9,,Larkspur Close,,South Ockendon
+2022-09-30,290000,RM15 6HZ,T,N,F,59,,Mayflower Close,,South Ockendon
+2022-09-30,355000,RM15 5FS,T,N,L,18,,Sunliner Way,,South Ockendon
+2022-09-29,367500,RM15 6RB,T,N,F,15,,Cedar Rise,,South Ockendon
+2022-09-28,370000,RM15 6BU,S,N,F,196,,South Road,,South Ockendon
+2022-09-28,345000,RM15 5PN,T,N,F,28,,Callan Grove,,South Ockendon
+2022-09-28,380000,RM15 5NP,T,N,F,13,,Fairham Avenue,,South Ockendon
+2022-09-28,275000,RM15 5GU,F,N,L,19,,Windstar Drive,,South Ockendon
+2022-09-27,295000,RM15 5FA,S,N,L,53,,Fairlane Drive,,South Ockendon
+2022-09-27,475000,RM15 4JP,S,N,F,13,,Kent View,Aveley,South Ockendon
+2022-09-26,450000,RM15 5EW,S,N,F,10,,Ernan Road,,South Ockendon
+2022-09-23,330000,RM15 6HY,T,N,F,76,,Mayflower Close,,South Ockendon
+2022-09-23,348000,RM15 6AP,S,N,F,84,,Corran Way,,South Ockendon
+2022-09-22,415000,RM15 4EL,T,N,F,15,,Manor Close,Aveley,South Ockendon
+2022-09-20,382000,RM15 5AU,T,N,F,76,,Anton Road,,South Ockendon
+2022-09-16,495000,RM15 6TW,D,N,F,1,,Juniper Drive,,South Ockendon
+2022-09-16,345000,RM15 6EE,T,N,F,72,,Chelmer Drive,,South Ockendon
+2022-09-16,115000,RM15 4QS,F,N,L,Franklyns,20,Teviot Avenue,Aveley,South Ockendon
+2022-09-15,365000,RM15 5FE,T,N,F,268,,Arisdale Avenue,,South Ockendon
+2022-09-14,420000,RM15 6QD,D,N,F,2,,Cheelson Road,,South Ockendon
+2022-09-14,356000,RM15 4NX,T,N,F,68,,Usk Road,Aveley,South Ockendon
+2022-09-09,270000,RM15 6HX,T,N,F,62,,Tamarisk Road,,South Ockendon
+2022-09-09,463000,RM15 5XB,S,N,F,207,,Danbury Crescent,,South Ockendon
+2022-09-09,165000,RM15 5QH,F,N,L,35,,Brock Green,,South Ockendon
+2022-09-09,350000,RM15 5NJ,T,N,F,14,,Fortin Way,,South Ockendon
+2022-09-09,387000,RM15 5JU,T,N,F,141,,Garron Lane,,South Ockendon
+2022-09-06,200000,RM15 5QH,F,N,L,26,,Brock Green,,South Ockendon
+2022-09-06,435000,RM15 4BF,D,N,F,30,,Belhouse Avenue,Aveley,South Ockendon
+2022-09-05,294000,RM15 6PT,T,N,F,21,,North Road,,South Ockendon
+2022-09-02,335000,RM15 6NL,T,N,F,9,,Quince Tree Close,,South Ockendon
+2022-09-02,400000,RM15 6AP,S,N,F,91,,Corran Way,,South Ockendon
+2022-09-02,425000,RM15 5QS,S,N,F,116,,Broxburn Drive,,South Ockendon
+2022-09-02,250000,RM15 5FA,F,N,L,9,,Fairlane Drive,,South Ockendon
+2022-09-01,360000,RM15 5ET,S,N,F,2,,Deveron Gardens,,South Ockendon
+2022-08-31,300000,RM15 6NN,T,N,F,55,,Lime Close,,South Ockendon
+2022-08-31,225500,RM15 6HU,T,N,F,202,,Tamarisk Road,,South Ockendon
+2022-08-31,390000,RM15 5PU,T,N,F,24,,Carnach Green,,South Ockendon
+2022-08-31,365000,RM15 4PJ,T,N,F,124,,Romford Road,Aveley,South Ockendon
+2022-08-31,470000,RM15 4BF,D,N,F,78,,Belhouse Avenue,Aveley,South Ockendon
+2022-08-30,355000,RM15 6TH,T,N,F,7,,Lavender Close,,South Ockendon
+2022-08-26,287500,RM15 6BD,T,N,F,7,,Cherwell Grove,,South Ockendon
+2022-08-26,360000,RM15 4DA,T,N,F,45,,Belhouse Avenue,Aveley,South Ockendon
+2022-08-25,340000,RM15 6ER,T,N,F,374,,South Road,,South Ockendon
+2022-08-24,387000,RM15 5LA,T,N,F,171,,Garron Lane,,South Ockendon
+2022-08-23,358000,RM15 6SD,T,N,F,4,,The Green,,South Ockendon
+2022-08-22,340000,RM15 5QQ,T,N,F,15,,Groves Close,,South Ockendon
+2022-08-22,350000,RM15 5HY,T,N,F,76,,Fullarton Crescent,,South Ockendon
+2022-08-19,247500,RM15 5FL,F,N,L,Capri House,4,Anglia Way,,South Ockendon
+2022-08-19,387000,RM15 4SR,T,N,F,72,,Mill Road,Aveley,South Ockendon
+2022-08-18,225000,RM15 6PF,F,N,L,14,,Gidea Close,,South Ockendon
+2022-08-18,295000,RM15 6HU,T,N,F,170,,Tamarisk Road,,South Ockendon
+2022-08-16,259000,RM15 5FA,F,N,L,43,,Fairlane Drive,,South Ockendon
+2022-08-15,360000,RM15 4RH,T,N,F,15,,Nethan Drive,Aveley,South Ockendon
+2022-08-15,215000,RM15 4QH,F,N,L,Waymans,2,Teviot Avenue,Aveley,South Ockendon
+2022-08-12,340000,RM15 6ER,T,N,F,372,,South Road,,South Ockendon
+2022-08-12,435000,RM15 6EJ,T,N,F,103,,Cruick Avenue,,South Ockendon
+2022-08-12,330000,RM15 5HG,T,N,F,74,,Hamble Lane,,South Ockendon
+2022-08-12,238000,RM15 5FE,F,N,L,158,,Arisdale Avenue,,South Ockendon
+2022-08-12,395000,RM15 4PA,S,N,F,55,,Usk Road,Aveley,South Ockendon
+2022-08-12,183000,RM15 4AF,F,N,L,Lyn House,Flat 8,High Street,Aveley,South Ockendon
+2022-08-12,183000,RM15 4AF,F,N,L,Lyn House,Flat 2,High Street,Aveley,South Ockendon
+2022-08-05,399995,RM15 5GT,T,Y,F,4,,Windstar Drive,,South Ockendon
+2022-08-05,333000,RM15 4SZ,T,N,F,8,,St Michaels Close,Aveley,South Ockendon
+2022-08-04,410000,RM15 6NP,S,N,F,133,,South Road,,South Ockendon
+2022-08-02,233500,RM15 4QP,F,N,L,Haywards,17,Teviot Avenue,Aveley,South Ockendon
+2022-07-29,365000,RM15 5GQ,T,N,F,1,,Vanette Way,,South Ockendon
+2022-07-29,355000,RM15 5FS,T,N,L,22,,Sunliner Way,,South Ockendon
+2022-07-29,350000,RM15 5FS,T,Y,F,20,,Sunliner Way,,South Ockendon
+2022-07-29,330000,RM15 5FA,S,N,L,47,,Fairlane Drive,,South Ockendon
+2022-07-29,290000,RM15 5DQ,T,N,F,111,,Araglen Avenue,,South Ockendon
+2022-07-29,370000,RM15 4SS,T,N,F,9,,Hanford Road,Aveley,South Ockendon
+2022-07-28,180000,RM15 5BX,F,N,L,59,,Danbury Crescent,,South Ockendon
+2022-07-28,306000,RM15 4BE,T,N,F,11,,High Street,Aveley,South Ockendon
+2022-07-27,335000,RM15 5RP,T,N,F,72,,Daiglen Drive,,South Ockendon
+2022-07-27,415000,RM15 4EH,S,N,F,9,,Toplands Avenue,Aveley,South Ockendon
+2022-07-26,330000,RM15 5JY,T,N,F,36,,Fulbrook Lane,,South Ockendon
+2022-07-25,395000,RM15 5HQ,T,N,F,37,,Hamble Lane,,South Ockendon
+2022-07-22,385000,RM15 6HR,S,N,F,10,,Moss Road,,South Ockendon
+2022-07-21,150000,RM15 6JE,T,N,F,78,,Viola Close,,South Ockendon
+2022-07-21,410000,RM15 4EH,S,N,F,7,,Toplands Avenue,Aveley,South Ockendon
+2022-07-20,570000,RM15 6TU,D,N,F,29,,Poplar Close,,South Ockendon
+2022-07-19,174000,RM15 5NW,F,N,L,85,,Faymore Gardens,,South Ockendon
+2022-07-18,340000,RM15 5AW,T,N,F,56,,Erriff Drive,,South Ockendon
+2022-07-18,377000,RM15 5AT,T,N,F,42,,Anton Road,,South Ockendon
+2022-07-15,378000,RM15 5JZ,T,N,F,73,,Fulbrook Lane,,South Ockendon
+2022-07-15,365000,RM15 4TL,S,N,F,29,,Dacre Avenue,Aveley,South Ockendon
+2022-07-15,595000,RM15 4SR,D,Y,F,4,,Springfield Mews,Aveley,South Ockendon
+2022-07-08,350000,RM15 6AS,T,N,F,118,,Cherwell Grove,,South Ockendon
+2022-07-08,385500,RM15 5FA,T,N,L,50,,Fairlane Drive,,South Ockendon
+2022-07-08,365000,RM15 5AG,T,N,F,261,,Daiglen Drive,,South Ockendon
+2022-07-08,595000,RM15 4SR,D,Y,F,7,,Springfield Mews,Aveley,South Ockendon
+2022-07-08,405000,RM15 4EF,T,N,L,37,,Brinson Way,Aveley,South Ockendon
+2022-07-06,260000,RM15 5FA,F,N,L,17,,Fairlane Drive,,South Ockendon
+2022-07-05,400000,RM15 5QE,D,N,F,34,,Fyfield Drive,,South Ockendon
+2022-07-01,245000,RM15 6ES,F,N,F,10,,Verbena Close,,South Ockendon
+2022-07-01,390000,RM15 4ES,T,N,L,64,,Bredle Way,Aveley,South Ockendon
+2022-06-30,425000,RM15 5XE,S,N,F,184,,Danbury Crescent,,South Ockendon
+2022-06-30,390000,RM15 5QE,S,N,F,35,,Fyfield Drive,,South Ockendon
+2022-06-30,265000,RM15 5FT,F,N,L,13,,Torino Way,,South Ockendon
+2022-06-30,245000,RM15 5FE,F,N,L,86,,Arisdale Avenue,,South Ockendon
+2022-06-30,595000,RM15 4SR,D,Y,F,6,,Springfield Mews,Aveley,South Ockendon
+2022-06-30,325000,RM15 4HL,S,N,F,70,,Hall Road,Aveley,South Ockendon
+2022-06-27,375000,RM15 5FA,S,N,L,55,,Fairlane Drive,,South Ockendon
+2022-06-27,350000,RM15 5ES,S,N,F,67,,Dunkellin Way,,South Ockendon
+2022-06-24,365000,RM15 5HQ,T,N,F,35,,Hamble Lane,,South Ockendon
+2022-06-24,330000,RM15 4NS,T,N,F,19,,Ravel Gardens,Aveley,South Ockendon
+2022-06-24,375000,RM15 4ED,S,N,F,13,,Lowlands Road,Aveley,South Ockendon
+2022-06-17,220000,RM15 4QS,F,N,L,Franklyns,18,Teviot Avenue,Aveley,South Ockendon
+2022-06-15,275000,RM15 6EU,S,N,F,123,,Foxglove Road,,South Ockendon
+2022-06-14,300000,RM15 4SY,T,N,F,87,,St Michaels Close,Aveley,South Ockendon
+2022-06-14,340000,RM15 4SH,T,N,F,20,,St Pauls Close,Aveley,South Ockendon
+2022-06-14,362000,RM15 4PB,T,N,F,39,,Usk Road,Aveley,South Ockendon
+2022-06-13,385000,RM15 4RL,S,N,F,2,,Tyne Gardens,Aveley,South Ockendon
+2022-06-10,362500,RM15 6EL,T,N,F,3,,Cruick Avenue,,South Ockendon
+2022-06-10,150000,RM15 5XF,F,N,L,68,,Danbury Crescent,,South Ockendon
+2022-06-10,435000,RM15 4EB,S,N,F,27,,Blenheim Gardens,Aveley,South Ockendon
+2022-06-09,200500,RM15 5FX,F,N,L,34,,Torino Way,,South Ockendon
+2022-06-07,280000,RM15 4SR,T,N,F,84,,Mill Road,Aveley,South Ockendon
+2022-06-06,295000,RM15 6JQ,T,N,F,57,,Larkspur Close,,South Ockendon
+2022-06-06,350000,RM15 5NJ,T,N,F,18,,Fortin Way,,South Ockendon
+2022-06-06,420000,RM15 4AL,S,N,F,9,,Field Road,Aveley,South Ockendon
+2022-06-01,238000,RM15 5FA,F,N,L,30,,Fairlane Drive,,South Ockendon
+2022-05-31,375000,RM15 4ER,T,N,F,7,,Grange Road,Aveley,South Ockendon
+2022-05-30,285000,RM15 6HT,T,N,F,117,,Orchard Road,,South Ockendon
+2022-05-27,605000,RM15 6TW,D,N,F,8,,Juniper Drive,,South Ockendon
+2022-05-27,550000,RM15 6QU,D,N,F,10,,Garth Road,,South Ockendon
+2022-05-27,400000,RM15 6JS,S,N,F,27,,White Beam Drive,,South Ockendon
+2022-05-27,345000,RM15 5QE,T,N,F,47,,Fyfield Drive,,South Ockendon
+2022-05-27,410000,RM15 5LE,T,N,F,116,,Arisdale Avenue,,South Ockendon
+2022-05-26,369995,RM15 6AP,S,N,F,76,,Corran Way,,South Ockendon
+2022-05-26,330000,RM15 5QT,T,N,F,4,,Bann Close,,South Ockendon
+2022-05-25,168000,RM15 5BD,F,N,L,Archers Court,Flat 8,Arisdale Avenue,,South Ockendon
+2022-05-25,385000,RM15 4NH,T,N,F,92,,Ravel Gardens,Aveley,South Ockendon
+2022-05-25,335000,RM15 4BF,T,N,F,100,,Belhouse Avenue,Aveley,South Ockendon
+2022-05-20,357000,RM15 4ET,T,N,F,22,,Mill Field Way,Aveley,South Ockendon
+2022-05-19,275000,RM15 5HW,T,N,F,56,,Fullarton Crescent,,South Ockendon
+2022-05-18,399995,RM15 5LE,T,N,F,114,,Arisdale Avenue,,South Ockendon
+2022-05-18,225000,RM15 5BF,F,N,L,16,,Elmdon Road,,South Ockendon
+2022-05-16,300000,RM15 6DH,T,N,F,63,,Mollands Lane,,South Ockendon
+2022-05-16,405000,RM15 5FT,S,N,L,7,,Torino Way,,South Ockendon
+2022-05-11,365000,RM15 4DA,T,N,F,49,,Belhouse Avenue,Aveley,South Ockendon
+2022-05-09,540000,RM15 4EA,D,N,F,98,,Purfleet Road,Aveley,South Ockendon
+2022-05-06,322000,RM15 4EG,T,N,L,14,,Brinson Way,Aveley,South Ockendon
+2022-05-05,280000,RM15 6HU,T,N,F,204,,Tamarisk Road,,South Ockendon
+2022-05-03,287000,RM15 6JA,T,N,F,8,,Celandine Close,,South Ockendon
+2022-05-03,250000,RM15 6HY,T,N,F,50,,Mayflower Close,,South Ockendon
+2022-04-29,360000,RM15 5LU,S,N,F,57,,Foyle Drive,,South Ockendon
+2022-04-29,316000,RM15 5HJ,T,N,F,23,,Hamble Lane,,South Ockendon
+2022-04-29,480000,RM15 5FS,S,N,F,5,,Sunliner Way,,South Ockendon
+2022-04-29,345000,RM15 4JA,T,N,F,13,,Love Lane,Aveley,South Ockendon
+2022-04-29,420000,RM15 4HS,S,N,F,120,,Hall Road,Aveley,South Ockendon
+2022-04-29,307500,RM15 4AH,S,N,F,11,,Lennard Row,Aveley,South Ockendon
+2022-04-28,360000,RM15 5BF,T,N,F,70,,Elmdon Road,,South Ockendon
+2022-04-25,330000,RM15 4DA,T,N,F,47,,Belhouse Avenue,Aveley,South Ockendon
+2022-04-22,190000,RM15 5XB,F,N,L,237,,Danbury Crescent,,South Ockendon
+2022-04-22,160000,RM15 5QW,F,N,L,58,,Cam Green,,South Ockendon
+2022-04-22,320000,RM15 5BS,T,N,F,3,,Bovey Way,,South Ockendon
+2022-04-21,222000,RM15 5FF,F,N,L,Chiddicks Court,14,Arcany Road,,South Ockendon
+2022-04-21,400000,RM15 4TU,T,N,F,62,,Dacre Crescent,Aveley,South Ockendon
+2022-04-20,282000,RM15 6JQ,T,N,F,55,,Larkspur Close,,South Ockendon
+2022-04-20,405000,RM15 4LJ,T,N,F,23,,Church View,Aveley,South Ockendon
+2022-04-19,412500,RM15 5HG,T,N,F,72,,Hamble Lane,,South Ockendon
+2022-04-14,399995,RM15 5LE,T,N,F,112,,Arisdale Avenue,,South Ockendon
+2022-04-14,250000,RM15 5FA,F,N,L,21,,Fairlane Drive,,South Ockendon
+2022-04-13,180000,RM15 5FD,F,N,L,Avontar Court,46,Avontar Road,,South Ockendon
+2022-04-12,210000,RM15 6PF,F,N,L,15,,Gidea Close,,South Ockendon
+2022-04-12,337500,RM15 6BX,S,N,F,162,,South Road,,South Ockendon
+2022-04-12,365000,RM15 4ES,T,N,L,8,,Bredle Way,Aveley,South Ockendon
+2022-04-11,170000,RM15 5XA,F,N,L,177,,Danbury Crescent,,South Ockendon
+2022-04-08,450000,RM15 6TU,D,N,F,10,,Poplar Close,,South Ockendon
+2022-04-08,365000,RM15 6TH,S,N,F,12,,Lavender Close,,South Ockendon
+2022-04-08,420000,RM15 4NR,T,N,F,8,,Severn Road,Aveley,South Ockendon
+2022-04-04,365000,RM15 5LX,T,N,F,14,,Foyle Drive,,South Ockendon
+2022-04-01,490000,RM15 5HE,T,N,F,108,,Foyle Drive,,South Ockendon
+2022-04-01,192500,RM15 5BD,F,N,L,Archers Court,Flat 26,Arisdale Avenue,,South Ockendon
+2022-03-31,485000,RM15 6XB,D,N,F,10,,Sycamore Way,,South Ockendon
+2022-03-31,587000,RM15 6TT,D,N,F,21,,Hornbeam Chase,,South Ockendon
+2022-03-31,198000,RM15 5XA,F,N,L,129,,Danbury Crescent,,South Ockendon
+2022-03-31,288000,RM15 5PW,T,N,F,19,,Callan Grove,,South Ockendon
+2022-03-28,243000,RM15 4DB,F,N,L,20,,Barrett Way,Aveley,South Ockendon
+2022-03-25,225000,RM15 6PG,F,N,L,11,,Tyssen Place,,South Ockendon
+2022-03-25,260000,RM15 6ET,T,N,F,52,,Foxglove Road,,South Ockendon
+2022-03-25,355000,RM15 5XB,T,N,F,215,,Danbury Crescent,,South Ockendon
+2022-03-25,340000,RM15 4BT,T,N,F,9,,Stanford Gardens,Aveley,South Ockendon
+2022-03-24,395000,RM15 5RP,T,N,F,96,,Daiglen Drive,,South Ockendon
+2022-03-24,199000,RM15 4QL,F,N,L,Meresmans,9,Teviot Avenue,Aveley,South Ockendon
+2022-03-23,158000,RM15 5XA,F,N,L,165,,Danbury Crescent,,South Ockendon
+2022-03-22,283000,RM15 6JD,T,N,F,4,,Tamarisk Road,,South Ockendon
+2022-03-22,320000,RM15 6AP,S,N,F,84,,Corran Way,,South Ockendon
+2022-03-21,310000,RM15 6HP,S,N,F,77,,Orchard Road,,South Ockendon
+2022-03-21,425000,RM15 4EU,T,N,F,Magnolia House,,Garden Mews,Aveley,South Ockendon
+2022-03-18,560000,RM15 6TD,D,N,F,6,,Brandon Groves Avenue,,South Ockendon
+2022-03-18,375000,RM15 6QP,S,N,F,6,,Church Crescent,,South Ockendon
+2022-03-18,250000,RM15 5FA,F,N,L,11,,Fairlane Drive,,South Ockendon
+2022-03-18,150000,RM15 4QA,F,N,L,Pinfolds,21,Teviot Avenue,Aveley,South Ockendon
+2022-03-16,400000,RM15 6RU,S,N,F,4,,New Cottages,,South Ockendon
+2022-03-16,320000,RM15 4PP,T,N,F,86,,Romford Road,Aveley,South Ockendon
+2022-03-15,400000,RM15 4LJ,S,N,F,36,,Church View,Aveley,South Ockendon
+2022-03-14,420000,RM15 5LE,T,N,F,104,,Arisdale Avenue,,South Ockendon
+2022-03-11,148000,RM15 5XF,F,N,L,60,,Danbury Crescent,,South Ockendon
+2022-03-11,335000,RM15 5PY,T,N,F,29,,Carnach Green,,South Ockendon
+2022-03-11,366000,RM15 5DE,T,N,F,9,,Annalee Gardens,,South Ockendon
+2022-03-10,189000,RM15 4SX,F,N,L,11,,Elm Road,Aveley,South Ockendon
+2022-03-09,380000,RM15 4EP,T,N,F,7,,Manor Close South,Aveley,South Ockendon
+2022-03-07,300000,RM15 6JH,T,N,F,60,,Rosemary Close,,South Ockendon
+2022-03-04,365000,RM15 5BF,T,N,F,74,,Elmdon Road,,South Ockendon
+2022-03-04,184000,RM15 4QA,F,N,L,Pinfolds,19,Teviot Avenue,Aveley,South Ockendon
+2022-03-04,500000,RM15 4DS,D,N,F,99E,,Purfleet Road,Aveley,South Ockendon
+2022-03-03,340000,RM15 5LW,T,N,F,15,,Dawley Green,,South Ockendon
+2022-03-03,425000,RM15 5FE,S,N,F,190,,Arisdale Avenue,,South Ockendon
+2022-03-03,315000,RM15 5AT,T,N,F,30,,Anton Road,,South Ockendon
+2022-03-03,361000,RM15 4EJ,T,N,F,65,,Grange Road,Aveley,South Ockendon
+2022-03-02,200000,RM15 5QN,F,N,L,17,,Cam Green,,South Ockendon
+2022-03-02,387500,RM15 4JS,S,N,F,17,,Hall Crescent,Aveley,South Ockendon
+2022-02-28,163000,RM15 6PR,F,N,L,10,,Peartree Close,,South Ockendon
+2022-02-28,282500,RM15 5DQ,T,N,F,99,,Araglen Avenue,,South Ockendon
+2022-02-25,405000,RM15 5XD,S,N,F,321,,Danbury Crescent,,South Ockendon
+2022-02-25,300000,RM15 5RB,T,N,F,14,,Kennet Green,,South Ockendon
+2022-02-25,355000,RM15 5JZ,S,N,F,77,,Fulbrook Lane,,South Ockendon
+2022-02-25,250000,RM15 5AQ,T,N,F,323,,Daiglen Drive,,South Ockendon
+2022-02-25,325000,RM15 4SR,S,N,F,100,,Mill Road,Aveley,South Ockendon
+2022-02-25,410000,RM15 4AP,S,N,F,1,,Arnhem Avenue,Aveley,South Ockendon
+2022-02-24,272000,RM15 4HB,T,N,F,14,,Ship Lane,Aveley,South Ockendon
+2022-02-23,161000,RM15 6AT,F,N,L,8,,Clayburn Gardens,,South Ockendon
+2022-02-22,315000,RM15 4HU,T,N,F,52,,Love Lane,Aveley,South Ockendon
+2022-02-22,392500,RM15 4EL,T,N,F,27,,Manor Close,Aveley,South Ockendon
+2022-02-21,170000,RM15 5XA,F,N,L,109,,Danbury Crescent,,South Ockendon
+2022-02-21,195000,RM15 5QL,F,N,L,24,,Broxburn Drive,,South Ockendon
+2022-02-21,435000,RM15 4DT,S,N,F,235,,Purfleet Road,Aveley,South Ockendon
+2022-02-18,305000,RM15 6EL,S,N,F,7,,Cruick Avenue,,South Ockendon
+2022-02-18,360000,RM15 5HH,T,N,F,152,,Foyle Drive,,South Ockendon
+2022-02-18,470000,RM15 4EB,S,N,F,22,,Blenheim Gardens,Aveley,South Ockendon
+2022-02-17,349995,RM15 4SY,T,N,F,63,,St Michaels Close,Aveley,South Ockendon
+2022-02-16,412000,RM15 4HY,S,N,F,3,,Clare Court,Aveley,South Ockendon
+2022-02-16,360000,RM15 4AU,S,N,F,8,,Manning Street,Aveley,South Ockendon
+2022-02-14,275000,RM15 6HX,T,N,F,92,,Tamarisk Road,,South Ockendon
+2022-02-08,325000,RM15 5DE,T,N,F,15,,Annalee Gardens,,South Ockendon
+2022-02-07,195000,RM15 5XA,F,N,L,133,,Danbury Crescent,,South Ockendon
+2022-02-07,370000,RM15 4ST,S,N,F,34,,Davis Road,Aveley,South Ockendon
+2022-02-04,355000,RM15 6QJ,T,N,F,8,,North Road,,South Ockendon
+2022-02-04,325000,RM15 5LU,T,N,F,41,,Foyle Drive,,South Ockendon
+2022-02-04,345000,RM15 4TU,T,N,F,52,,Dacre Crescent,Aveley,South Ockendon
+2022-02-02,214000,RM15 5XA,F,N,L,161,,Danbury Crescent,,South Ockendon
+2022-02-02,335000,RM15 5FS,S,N,L,38,,Sunliner Way,,South Ockendon
+2022-01-31,450000,RM15 6DL,S,N,F,135,,Mollands Lane,,South Ockendon
+2022-01-31,360000,RM15 4HB,S,N,F,20,,Ship Lane,Aveley,South Ockendon
+2022-01-31,255000,RM15 4EH,S,N,F,14,,Toplands Avenue,Aveley,South Ockendon
+2022-01-31,315000,RM15 4EG,T,N,L,12,,Brinson Way,Aveley,South Ockendon
+2022-01-28,398000,RM15 5AZ,T,N,F,75,,Erriff Drive,,South Ockendon
+2022-01-27,480000,RM15 4UD,S,N,F,4,,Park Lane,Aveley,South Ockendon
+2022-01-27,340000,RM15 4SH,S,N,F,47,,St Pauls Close,Aveley,South Ockendon
+2022-01-27,300000,RM15 4NB,T,N,F,26,,Tamar Drive,Aveley,South Ockendon
+2022-01-26,420000,RM15 6RA,S,N,F,48,,Laburnum Grove,,South Ockendon
+2022-01-25,360000,RM15 4LH,S,N,F,12,,Church View,Aveley,South Ockendon
+2022-01-24,430000,RM15 6TB,D,N,F,2,,Rowan Way,,South Ockendon
+2022-01-24,390000,RM15 4EU,T,N,F,Crocus House,,Garden Mews,Aveley,South Ockendon
+2022-01-24,200000,RM15 4AA,F,N,L,50,,Stifford Road,Aveley,South Ockendon
+2022-01-21,300000,RM15 4SZ,T,N,F,54,,St Michaels Close,Aveley,South Ockendon
+2022-01-20,405000,RM15 6NP,T,N,F,123B,,South Road,,South Ockendon
+2022-01-19,335000,RM15 5PA,T,N,F,27,,Afton Drive,,South Ockendon
+2022-01-17,321850,RM15 5EQ,S,N,F,40,,Elan Road,,South Ockendon
+2022-01-14,492000,RM15 6QB,S,N,F,11,,Wilsman Road,,South Ockendon
+2022-01-14,265000,RM15 6ET,T,N,F,66,,Foxglove Road,,South Ockendon
+2022-01-14,208000,RM15 5XB,F,N,L,263,,Danbury Crescent,,South Ockendon
+2022-01-14,290000,RM15 5NH,T,N,F,16,,Fortin Close,,South Ockendon
+2022-01-14,365500,RM15 5DW,T,N,F,28,,Alwen Grove,,South Ockendon
+2022-01-14,276000,RM15 5AB,T,N,F,54,,Eskley Gardens,,South Ockendon
+2022-01-12,415000,RM15 4HZ,T,N,F,11,,Pembroke Drive,Aveley,South Ockendon
+2022-01-10,337500,RM15 6RE,T,N,F,17,,Redwood Chase,,South Ockendon
+2022-01-10,215000,RM15 6PR,F,N,L,60,,Peartree Close,,South Ockendon
+2022-01-07,290000,RM15 5RB,T,N,F,8,,Kennet Green,,South Ockendon
+2022-01-06,580000,RM15 6TT,D,N,F,4,,Hornbeam Chase,,South Ockendon
+2022-01-06,450000,RM15 6TH,T,N,F,17,,Lavender Close,,South Ockendon
+2022-01-06,340000,RM15 5DS,T,N,F,34,,Dent Close,,South Ockendon
+2022-01-04,380000,RM15 5FQ,S,N,L,19,,Falcon Avenue,,South Ockendon
+2021-12-21,160000,RM15 5XF,F,N,L,46,,Danbury Crescent,,South Ockendon
+2021-12-20,440000,RM15 6XB,D,N,F,32,,Sycamore Way,,South Ockendon
+2021-12-20,265000,RM15 6HZ,T,N,F,53,,Mayflower Close,,South Ockendon
+2021-12-20,399995,RM15 5LE,T,N,F,110,,Arisdale Avenue,,South Ockendon
+2021-12-20,342500,RM15 4HH,S,N,F,2,,Hall Terrace,Aveley,South Ockendon
+2021-12-17,372000,RM15 6RA,S,N,F,76,,Laburnum Grove,,South Ockendon
+2021-12-17,385000,RM15 5DA,T,N,F,24,,Araglen Avenue,,South Ockendon
+2021-12-16,236160,RM15 6QT,T,N,F,1,,Mar Road,,South Ockendon
+2021-12-16,360000,RM15 5HW,T,N,F,17,,Fullarton Crescent,,South Ockendon
+2021-12-16,340000,RM15 5HH,T,N,F,153,,Foyle Drive,,South Ockendon
+2021-12-16,77000,RM15 5FD,F,N,L,Avontar Court,48,Avontar Road,,South Ockendon
+2021-12-16,411000,RM15 4TX,S,N,F,1,,Park View,Aveley,South Ockendon
+2021-12-14,300000,RM15 4SZ,T,N,F,30,,St Michaels Close,Aveley,South Ockendon
+2021-12-14,205000,RM15 4DY,F,N,L,28,,Meadow Drive,Aveley,South Ockendon
+2021-12-13,280000,RM15 6HU,T,N,F,198,,Tamarisk Road,,South Ockendon
+2021-12-13,325000,RM15 6AD,S,N,F,61,,Cullen Square,,South Ockendon
+2021-12-10,310000,RM15 6PH,T,N,F,86,,West Road,,South Ockendon
+2021-12-10,300000,RM15 5DQ,T,N,F,135,,Araglen Avenue,,South Ockendon
+2021-12-10,170000,RM15 5BP,F,N,L,40,,Galey Green,,South Ockendon
+2021-12-10,385000,RM15 4RJ,T,N,F,33,,Nethan Drive,Aveley,South Ockendon
+2021-12-10,345000,RM15 4BF,T,N,F,132,,Belhouse Avenue,Aveley,South Ockendon
+2021-12-06,310000,RM15 6PX,T,N,F,19,,Nelson Road,,South Ockendon
+2021-12-06,355000,RM15 6EJ,T,N,F,70,,Cruick Avenue,,South Ockendon
+2021-12-06,236000,RM15 5FT,F,N,L,23,,Torino Way,,South Ockendon
+2021-12-06,325000,RM15 4TJ,T,N,F,17,,Crescent Way,Aveley,South Ockendon
+2021-12-03,425000,RM15 6HD,S,N,F,39,,Orchard Road,,South Ockendon
+2021-12-03,287000,RM15 6AS,T,N,F,118,,Cherwell Grove,,South Ockendon
+2021-12-03,365000,RM15 5DE,T,N,F,41,,Annalee Gardens,,South Ockendon
+2021-12-03,356000,RM15 4HL,S,N,F,56,,Hall Road,Aveley,South Ockendon
+2021-12-03,535000,RM15 4DS,S,N,F,119,,Purfleet Road,Aveley,South Ockendon
+2021-12-02,336000,RM15 6RE,T,N,F,1,,Redwood Chase,,South Ockendon
+2021-12-01,143000,RM15 6AU,F,N,L,37,,Clayburn Gardens,,South Ockendon
+2021-11-30,158000,RM15 5XF,F,N,L,74,,Danbury Crescent,,South Ockendon
+2021-11-30,452500,RM15 4DN,D,N,F,21,,Courts Way,Aveley,South Ockendon
+2021-11-29,240000,RM15 5FL,F,N,L,Capri House,16,Anglia Way,,South Ockendon
+2021-11-26,350000,RM15 5QQ,T,N,F,9,,Groves Close,,South Ockendon
+2021-11-26,308000,RM15 5QQ,T,N,F,8,,Groves Close,,South Ockendon
+2021-11-26,473995,RM15 5GR,T,Y,F,11,,Park Way,,South Ockendon
+2021-11-26,320000,RM15 5DW,T,N,F,26,,Alwen Grove,,South Ockendon
+2021-11-26,156000,RM15 4QP,F,N,L,Haywards,3,Teviot Avenue,Aveley,South Ockendon
+2021-11-23,315000,RM15 5AU,T,N,F,63,,Anton Road,,South Ockendon
+2021-11-19,372000,RM15 6ED,T,N,F,20,,Elwick Road,,South Ockendon
+2021-11-19,390000,RM15 4DA,S,N,F,29,,Belhouse Avenue,Aveley,South Ockendon
+2021-11-18,515000,RM15 6TZ,D,N,F,66,,Birch Crescent,,South Ockendon
+2021-11-17,116000,RM15 5BD,F,N,L,Archers Court,Flat 37,Arisdale Avenue,,South Ockendon
+2021-11-17,347500,RM15 4LJ,S,N,F,43,,Church View,Aveley,South Ockendon
+2021-11-15,254000,RM15 6NW,T,N,F,46,,Lime Close,,South Ockendon
+2021-11-15,720000,RM15 4EA,D,N,F,136,,Purfleet Road,Aveley,South Ockendon
+2021-11-15,335000,RM15 4DG,T,N,F,12,,Courts Way,Aveley,South Ockendon
+2021-11-12,230000,RM15 5DN,F,N,L,31,,Alwen Grove,,South Ockendon
+2021-11-12,340000,RM15 4ST,T,N,F,1,,Davis Road,Aveley,South Ockendon
+2021-11-12,331000,RM15 4ER,T,N,F,26,,Grange Road,Aveley,South Ockendon
+2021-11-10,360000,RM15 6TZ,S,N,F,48,,Birch Crescent,,South Ockendon
+2021-11-05,425000,RM15 6JS,D,N,F,29,,White Beam Drive,,South Ockendon
+2021-11-05,370000,RM15 6DA,T,N,F,140,,South Road,,South Ockendon
+2021-11-05,202000,RM15 4SX,F,N,L,38,,Elm Road,Aveley,South Ockendon
+2021-11-04,565000,RM15 5JT,S,N,F,105,,Humber Avenue,,South Ockendon
+2021-11-04,360000,RM15 4LX,T,N,F,25,,Swale Close,Aveley,South Ockendon
+2021-11-03,315000,RM15 4SH,T,N,F,21,,St Pauls Close,Aveley,South Ockendon
+2021-11-02,357500,RM15 6NP,T,N,F,125A,,South Road,,South Ockendon
+2021-11-02,353000,RM15 4RL,S,N,F,3,,Tyne Gardens,Aveley,South Ockendon
+2021-11-01,240000,RM15 4BE,T,N,F,23,,High Street,Aveley,South Ockendon
+2021-10-29,450000,RM15 6TD,T,N,F,16,,Brandon Groves Avenue,,South Ockendon
+2021-10-29,350000,RM15 6EP,T,N,F,137,,Stifford Road,,South Ockendon
+2021-10-29,210000,RM15 5BD,F,N,L,Archers Court,Flat 28,Arisdale Avenue,,South Ockendon
+2021-10-29,297000,RM15 5AS,T,N,F,13,,Arisdale Avenue,,South Ockendon
+2021-10-29,360000,RM15 4SZ,D,N,F,18,,St Michaels Close,Aveley,South Ockendon
+2021-10-29,361000,RM15 4DY,T,N,F,24,,Meadow Drive,Aveley,South Ockendon
+2021-10-28,157000,RM15 5XB,F,N,L,267,,Danbury Crescent,,South Ockendon
+2021-10-27,190000,RM15 5XA,F,N,L,131,,Danbury Crescent,,South Ockendon
+2021-10-26,490000,RM15 5JW,S,N,F,89,,Humber Avenue,,South Ockendon
+2021-10-25,185000,RM15 4EF,F,N,L,67,,Brinson Way,Aveley,South Ockendon
+2021-10-22,476995,RM15 5GR,T,Y,F,13,,Park Way,,South Ockendon
+2021-10-22,160000,RM15 5DR,T,N,F,29,,Dale Close,,South Ockendon
+2021-10-22,328000,RM15 5DG,T,N,F,1,,Araglen Avenue,,South Ockendon
+2021-10-22,165000,RM15 5BP,F,N,L,26,,Galey Green,,South Ockendon
+2021-10-22,390000,RM15 4HJ,S,N,F,36,,Hall Road,Aveley,South Ockendon
+2021-10-22,335000,RM15 4EB,S,N,F,30,,Blenheim Gardens,Aveley,South Ockendon
+2021-10-21,280000,RM15 5DB,T,N,F,191,,Araglen Avenue,,South Ockendon
+2021-10-19,425000,RM15 5SD,S,Y,F,1,,Kemps Farm Mews,,South Ockendon
+2021-10-19,395000,RM15 5LE,T,N,F,106,,Arisdale Avenue,,South Ockendon
+2021-10-18,375000,RM15 4TU,T,N,F,46,,Dacre Crescent,Aveley,South Ockendon
+2021-10-18,325000,RM15 4SS,T,N,F,19,,Hanford Road,Aveley,South Ockendon
+2021-10-18,325000,RM15 4RH,T,N,F,16,,Nethan Drive,Aveley,South Ockendon
+2021-10-15,223500,RM15 5FF,F,N,L,Chiddicks Court,22,Arcany Road,,South Ockendon
+2021-10-15,300000,RM15 4TL,T,N,F,32,,Dacre Avenue,Aveley,South Ockendon
+2021-10-15,350000,RM15 4NA,T,N,F,51,,Tamar Drive,Aveley,South Ockendon
+2021-10-15,205000,RM15 4BL,F,N,L,Lennard House,Flat 6,High Street,Aveley,South Ockendon
+2021-10-13,285000,RM15 5EL,S,N,F,4,,Enborne Green,,South Ockendon
+2021-10-12,290000,RM15 5HQ,T,N,F,54,,Hamble Lane,,South Ockendon
+2021-10-06,305000,RM15 6PH,T,N,F,84,,West Road,,South Ockendon
+2021-10-01,345000,RM15 5NG,T,N,F,62,,Fortin Way,,South Ockendon
+2021-10-01,175000,RM15 5BP,F,N,L,21,,Galey Green,,South Ockendon
+2021-10-01,380000,RM15 4ER,T,N,F,44,,Grange Road,Aveley,South Ockendon
+2021-09-30,280000,RM15 6NN,T,N,F,61,,Lime Close,,South Ockendon
+2021-09-30,280500,RM15 6ET,T,N,F,14,,Foxglove Road,,South Ockendon
+2021-09-30,310000,RM15 6EJ,T,N,F,77,,Cruick Avenue,,South Ockendon
+2021-09-30,385000,RM15 5XF,D,N,F,116,,Danbury Crescent,,South Ockendon
+2021-09-30,250000,RM15 5SZ,F,N,L,Sancta Maria Apartments,11,Daiglen Drive,,South Ockendon
+2021-09-30,305000,RM15 5HE,T,N,F,74,,Foyle Drive,,South Ockendon
+2021-09-30,245000,RM15 5FX,F,N,L,24,,Torino Way,,South Ockendon
+2021-09-30,244000,RM15 5ER,T,N,F,68,,Easington Way,,South Ockendon
+2021-09-30,355000,RM15 5DB,T,N,F,185,,Araglen Avenue,,South Ockendon
+2021-09-30,320000,RM15 5AP,S,N,F,10,,Aire Drive,,South Ockendon
+2021-09-30,399999,RM15 4EL,T,N,F,33,,Manor Close,Aveley,South Ockendon
+2021-09-30,385000,RM15 4BU,S,N,F,68,,Stanford Gardens,Aveley,South Ockendon
+2021-09-29,315000,RM15 6AX,T,N,F,63,,Cherwell Grove,,South Ockendon
+2021-09-29,320000,RM15 5LR,T,N,F,7,,Dalroy Close,,South Ockendon
+2021-09-29,260000,RM15 5FX,F,N,L,36,,Torino Way,,South Ockendon
+2021-09-29,377000,RM15 5FS,S,N,L,12,,Sunliner Way,,South Ockendon
+2021-09-29,301000,RM15 4TJ,T,N,F,12,,Crescent Way,Aveley,South Ockendon
+2021-09-29,354000,RM15 4ES,T,N,L,6,,Bredle Way,Aveley,South Ockendon
+2021-09-29,415000,RM15 4EH,S,N,F,36,,Toplands Avenue,Aveley,South Ockendon
+2021-09-29,400000,RM15 4DA,S,N,F,115,,Belhouse Avenue,Aveley,South Ockendon
+2021-09-28,397000,RM15 4AA,S,N,F,44,,Stifford Road,Aveley,South Ockendon
+2021-09-27,445000,RM15 6QT,D,N,F,12,,Mar Road,,South Ockendon
+2021-09-27,255000,RM15 6JQ,T,N,F,11,,Larkspur Close,,South Ockendon
+2021-09-27,300000,RM15 6ED,S,N,F,9,,Elwick Road,,South Ockendon
+2021-09-27,380000,RM15 5XD,T,N,F,327,,Danbury Crescent,,South Ockendon
+2021-09-27,395000,RM15 5LE,T,N,F,108,,Arisdale Avenue,,South Ockendon
+2021-09-27,389995,RM15 5GR,T,Y,F,9,,Park Way,,South Ockendon
+2021-09-24,550000,RM15 6TZ,D,N,F,21,,Birch Crescent,,South Ockendon
+2021-09-24,160000,RM15 6NH,F,N,L,9,,Canterbury Parade,,South Ockendon
+2021-09-24,365000,RM15 5BF,T,N,F,44,,Elmdon Road,,South Ockendon
+2021-09-23,430000,RM15 6XB,D,N,F,34,,Sycamore Way,,South Ockendon
+2021-09-17,300000,RM15 6DB,F,N,F,62,,Mollands Lane,,South Ockendon
+2021-09-17,312000,RM15 6BD,T,N,F,25,,Cherwell Grove,,South Ockendon
+2021-09-17,225000,RM15 5FL,F,N,L,Capri House,6,Anglia Way,,South Ockendon
+2021-09-17,345000,RM15 5FA,T,N,L,77,,Fairlane Drive,,South Ockendon
+2021-09-17,230000,RM15 4TS,T,N,F,65,,Martin Road,Aveley,South Ockendon
+2021-09-17,308000,RM15 4NP,T,N,F,38,,Ravel Road,Aveley,South Ockendon
+2021-09-17,300000,RM15 4BT,T,N,F,25,,Stanford Gardens,Aveley,South Ockendon
+2021-09-17,390000,RM15 4BS,S,N,F,17,,Stifford Road,Aveley,South Ockendon
+2021-09-16,300000,RM15 5AT,T,N,F,56,,Anton Road,,South Ockendon
+2021-09-15,330000,RM15 5XE,T,N,F,140,,Danbury Crescent,,South Ockendon
+2021-09-14,354995,RM15 5GQ,S,Y,F,8,,Vanette Way,,South Ockendon
+2021-09-10,240000,RM15 6HZ,T,N,F,31,,Mayflower Close,,South Ockendon
+2021-09-10,182000,RM15 4DY,F,N,L,11,,Meadow Drive,Aveley,South Ockendon
+2021-09-09,355995,RM15 5GQ,S,Y,F,10,,Vanette Way,,South Ockendon
+2021-09-07,165000,RM15 5DS,F,N,L,47,,Dent Close,,South Ockendon
+2021-09-06,225000,RM15 6RA,F,N,L,50,,Laburnum Grove,,South Ockendon
+2021-09-03,255000,RM15 6HT,T,N,F,109,,Orchard Road,,South Ockendon
+2021-09-03,350000,RM15 4JB,S,N,F,24,,Myrtle Grove,Aveley,South Ockendon
+2021-09-03,495000,RM15 4DB,D,N,F,58,,Barrett Way,Aveley,South Ockendon
+2021-09-01,290000,RM15 5AB,T,N,F,17,,Eskley Gardens,,South Ockendon
+2021-08-31,475000,RM15 6TA,D,N,F,17,,Laburnum Grove,,South Ockendon
+2021-08-27,260000,RM15 6JB,T,N,F,23,,Celandine Close,,South Ockendon
+2021-08-27,275000,RM15 6HT,T,N,F,129,,Orchard Road,,South Ockendon
+2021-08-27,345000,RM15 5PL,T,N,F,443,,Broxburn Drive,,South Ockendon
+2021-08-27,260000,RM15 4AX,T,N,F,53,,High Street,Aveley,South Ockendon
+2021-08-26,345000,RM15 6AR,T,N,F,65,,Corran Way,,South Ockendon
+2021-08-24,310000,RM15 6PT,T,N,F,43,,North Road,,South Ockendon
+2021-08-20,375000,RM15 6PX,S,N,F,4,,Nelson Road,,South Ockendon
+2021-08-20,330000,RM15 5HL,S,N,F,11,,Loman Path,,South Ockendon
+2021-08-20,353995,RM15 5GQ,T,Y,F,6,,Vanette Way,,South Ockendon
+2021-08-20,227500,RM15 5FT,F,N,L,11,,Torino Way,,South Ockendon
+2021-08-20,217000,RM15 5FF,F,N,L,Chiddicks Court,17,Arcany Road,,South Ockendon
+2021-08-20,184000,RM15 5DD,F,N,L,82,,Araglen Avenue,,South Ockendon
+2021-08-20,180000,RM15 4QH,F,N,L,Waymans,8,Teviot Avenue,Aveley,South Ockendon
+2021-08-19,290000,RM15 5FA,S,N,L,51,,Fairlane Drive,,South Ockendon
+2021-08-19,500000,RM15 4DS,D,N,F,127,,Purfleet Road,Aveley,South Ockendon
+2021-08-17,435000,RM15 6QD,S,N,F,9,,Cheelson Road,,South Ockendon
+2021-08-17,340000,RM15 5GQ,T,Y,F,4,,Vanette Way,,South Ockendon
+2021-08-17,300000,RM15 5DB,T,N,F,167,,Araglen Avenue,,South Ockendon
+2021-08-17,275000,RM15 4PP,T,N,F,78,,Romford Road,Aveley,South Ockendon
+2021-08-16,355995,RM15 5GQ,T,Y,F,2,,Vanette Way,,South Ockendon
+2021-08-16,375000,RM15 5EW,T,N,F,5,,Ernan Road,,South Ockendon
+2021-08-16,320000,RM15 4QX,T,N,F,7,,Shannon Way,Aveley,South Ockendon
+2021-08-13,373000,RM15 5JU,S,N,F,148,,Garron Lane,,South Ockendon
+2021-08-12,293000,RM15 5AD,T,N,F,347,,Daiglen Drive,,South Ockendon
+2021-08-10,290000,RM15 5QY,T,N,F,200,,Broxburn Drive,,South Ockendon
+2021-08-10,232500,RM15 4HW,F,N,L,21,,Cavendish Gardens,Aveley,South Ockendon
+2021-08-09,248000,RM15 6JG,T,N,F,32,,Larkspur Close,,South Ockendon
+2021-08-09,311000,RM15 5PZ,T,N,F,70,,Carnach Green,,South Ockendon
+2021-08-06,327000,RM15 6AX,T,N,F,51,,Cherwell Grove,,South Ockendon
+2021-08-06,300000,RM15 5LA,T,N,F,181,,Garron Lane,,South Ockendon
+2021-08-06,337000,RM15 4AB,T,N,F,6,,Aveley Close,Aveley,South Ockendon
+2021-08-05,280000,RM15 6ET,T,N,F,26,,Foxglove Road,,South Ockendon
+2021-08-05,205000,RM15 4SX,F,N,L,15,,Elm Road,Aveley,South Ockendon
+2021-08-04,263000,RM15 6ES,T,N,F,8,,Verbena Close,,South Ockendon
+2021-08-02,332000,RM15 5EP,T,N,F,59,,Easington Way,,South Ockendon
+2021-07-30,265000,RM15 6JJ,T,N,F,27,,Rosemary Close,,South Ockendon
+2021-07-30,340000,RM15 6AB,S,N,F,46,,Cullen Square,,South Ockendon
+2021-07-30,345000,RM15 5FL,S,N,F,50,,Anglia Way,,South Ockendon
+2021-07-30,385250,RM15 5AT,T,N,F,32,,Anton Road,,South Ockendon
+2021-07-30,420000,RM15 4ET,D,N,F,1,,Mill Field Way,Aveley,South Ockendon
+2021-07-23,350500,RM15 5AT,T,N,F,58,,Anton Road,,South Ockendon
+2021-07-23,225000,RM15 4DY,F,N,L,16,,Meadow Drive,Aveley,South Ockendon
+2021-07-22,360000,RM15 5RE,T,N,F,75,,Cawdor Avenue,,South Ockendon
+2021-07-22,308000,RM15 4ED,T,N,F,8,,Lowlands Road,Aveley,South Ockendon
+2021-07-20,331000,RM15 4RA,T,N,F,5,,Nethan Drive,Aveley,South Ockendon
+2021-07-19,250000,RM15 4BE,T,N,F,17,,High Street,Aveley,South Ockendon
+2021-07-16,262000,RM15 6PH,T,N,F,82,,West Road,,South Ockendon
+2021-07-16,285000,RM15 5QE,S,N,F,12,,Fyfield Drive,,South Ockendon
+2021-07-16,320000,RM15 5HT,S,N,F,2,,Frances Gardens,,South Ockendon
+2021-07-16,290000,RM15 5BA,T,N,F,28,,Arisdale Avenue,,South Ockendon
+2021-07-16,389995,RM15 4BS,S,N,F,27,,Stifford Road,Aveley,South Ockendon
+2021-07-15,347000,RM15 5QA,T,N,F,499,,Broxburn Drive,,South Ockendon
+2021-07-14,280000,RM15 6PX,T,N,F,12A,,Nelson Road,,South Ockendon
+2021-07-13,300000,RM15 6RE,T,N,F,10,,Redwood Chase,,South Ockendon
+2021-07-09,245000,RM15 5FQ,F,N,L,39,,Falcon Avenue,,South Ockendon
+2021-07-09,370000,RM15 4LH,S,N,F,17,,Church View,Aveley,South Ockendon
+2021-06-30,450000,RM15 5SZ,S,N,F,1,,Sancta Maria Mews,,South Ockendon
+2021-06-30,450000,RM15 5SD,D,N,F,Kemps Farm Cottage,,Dennises Lane,,South Ockendon
+2021-06-30,450000,RM15 5SD,D,N,F,18,,Kemps Farm Mews,,South Ockendon
+2021-06-30,307000,RM15 5QS,T,N,F,112,,Broxburn Drive,,South Ockendon
+2021-06-30,390000,RM15 5QB,S,N,F,561,,Broxburn Drive,,South Ockendon
+2021-06-30,165000,RM15 5NW,F,N,L,1,,Faymore Gardens,,South Ockendon
+2021-06-30,420000,RM15 5JN,D,N,F,86A,,Humber Avenue,,South Ockendon
+2021-06-30,312000,RM15 5DS,T,N,F,65,,Dent Close,,South Ockendon
+2021-06-30,210000,RM15 5BS,T,N,F,9,,Bovey Way,,South Ockendon
+2021-06-29,335000,RM15 5PW,T,N,F,15,,Callan Grove,,South Ockendon
+2021-06-29,300000,RM15 5AB,S,N,F,34,,Eskley Gardens,,South Ockendon
+2021-06-29,278000,RM15 4SY,T,N,F,47,,St Michaels Close,Aveley,South Ockendon
+2021-06-29,365000,RM15 4SX,S,N,F,30,,Elm Road,Aveley,South Ockendon
+2021-06-29,355000,RM15 4NP,S,N,F,2,,Ravel Road,Aveley,South Ockendon
+2021-06-29,339000,RM15 4EU,T,N,F,Azelea House,,Garden Mews,Aveley,South Ockendon
+2021-06-29,352000,RM15 4DY,T,N,F,7,,Meadow Drive,Aveley,South Ockendon
+2021-06-29,310000,RM15 4AR,S,N,F,5,,Eastern Avenue,Aveley,South Ockendon
+2021-06-28,325000,RM15 5RG,T,N,F,10,,Cawdor Avenue,,South Ockendon
+2021-06-28,342500,RM15 5DD,T,N,F,128,,Araglen Avenue,,South Ockendon
+2021-06-28,418000,RM15 5AY,D,N,F,57,,Erriff Drive,,South Ockendon
+2021-06-28,285000,RM15 5AB,S,N,F,37,,Eskley Gardens,,South Ockendon
+2021-06-25,305000,RM15 5AU,T,N,F,70,,Anton Road,,South Ockendon
+2021-06-25,285000,RM15 5AT,T,N,F,28,,Anton Road,,South Ockendon
+2021-06-24,300000,RM15 6EE,T,N,F,18,,Chelmer Drive,,South Ockendon
+2021-06-24,505000,RM15 6DB,D,N,F,26,,Mollands Lane,,South Ockendon
+2021-06-24,304000,RM15 5QP,T,N,F,14,,Barle Gardens,,South Ockendon
+2021-06-24,305000,RM15 5AY,T,N,F,106,,Erriff Drive,,South Ockendon
+2021-06-24,350000,RM15 4JH,S,N,F,24,,Central Avenue,Aveley,South Ockendon
+2021-06-24,445000,RM15 4HT,S,N,F,81,,Love Lane,Aveley,South Ockendon
+2021-06-24,375000,RM15 4ED,S,N,F,21,,Lowlands Road,Aveley,South Ockendon
+2021-06-23,395000,RM15 6TA,S,N,F,57,,Laburnum Grove,,South Ockendon
+2021-06-23,265000,RM15 4SZ,T,N,F,46,,St Michaels Close,Aveley,South Ockendon
+2021-06-23,183000,RM15 4SY,F,N,F,31,,St Michaels Close,Aveley,South Ockendon
+2021-06-21,365000,RM15 6RB,S,N,F,1,,Cedar Rise,,South Ockendon
+2021-06-21,320000,RM15 5RA,S,N,F,23,,Cample Lane,,South Ockendon
+2021-06-21,426000,RM15 4DA,D,N,F,51,,Belhouse Avenue,Aveley,South Ockendon
+2021-06-18,175000,RM15 5QL,F,N,L,16,,Broxburn Drive,,South Ockendon
+2021-06-18,312500,RM15 5BT,T,N,F,62,,Annifer Way,,South Ockendon
+2021-06-18,350000,RM15 4JH,S,N,F,20,,Central Avenue,Aveley,South Ockendon
+2021-06-17,315000,RM15 6PH,S,N,F,24A,,West Road,,South Ockendon
+2021-06-17,320000,RM15 5DA,T,N,F,46,,Araglen Avenue,,South Ockendon
+2021-06-17,321000,RM15 5AL,T,N,F,172,,Daiglen Drive,,South Ockendon
+2021-06-16,285000,RM15 4RT,T,N,F,47,,Nethan Drive,Aveley,South Ockendon
+2021-06-15,245000,RM15 4AD,T,N,F,48,,High Street,Aveley,South Ockendon
+2021-06-14,525000,RM15 6TS,D,N,F,28,,Medlar Drive,,South Ockendon
+2021-06-11,276000,RM15 5NL,T,N,F,5,,Fortin Path,,South Ockendon
+2021-06-10,290000,RM15 4EN,T,N,F,22,,Belhus View,Aveley,South Ockendon
+2021-06-09,390000,RM15 4EB,S,N,F,23,,Blenheim Gardens,Aveley,South Ockendon
+2021-06-08,300000,RM15 4SH,T,N,F,29,,St Pauls Close,Aveley,South Ockendon
+2021-06-07,260000,RM15 5LZ,T,N,F,23,,Dene Path,,South Ockendon
+2021-06-04,275000,RM15 6HU,T,N,F,212,,Tamarisk Road,,South Ockendon
+2021-06-04,245000,RM15 6EU,T,N,F,131,,Foxglove Road,,South Ockendon
+2021-06-04,280000,RM15 5NL,T,N,F,3,,Fortin Path,,South Ockendon
+2021-06-04,355000,RM15 5DE,S,N,F,35,,Annalee Gardens,,South Ockendon
+2021-06-04,450000,RM15 5AX,T,N,F,2,,Avontar Road,,South Ockendon
+2021-06-04,217000,RM15 4TT,F,N,L,49,,Dacre Crescent,Aveley,South Ockendon
+2021-06-03,173000,RM15 5BF,F,N,L,14,,Elmdon Road,,South Ockendon
+2021-06-03,310000,RM15 5AU,T,N,F,94,,Anton Road,,South Ockendon
+2021-05-28,400000,RM15 6TG,S,N,F,20,,Holly Drive,,South Ockendon
+2021-05-28,330000,RM15 4NA,T,N,F,55,,Tamar Drive,Aveley,South Ockendon
+2021-05-28,385000,RM15 4ES,S,N,L,26,,Bredle Way,Aveley,South Ockendon
+2021-05-28,370000,RM15 4EB,S,N,F,16,,Blenheim Gardens,Aveley,South Ockendon
+2021-05-28,153000,RM15 4AF,F,N,L,Lyn House,Flat 9,High Street,Aveley,South Ockendon
+2021-05-27,293000,RM15 4RA,S,N,F,1,,Nethan Drive,Aveley,South Ockendon
+2021-05-25,360000,RM15 4DR,S,N,F,64,,Purfleet Road,Aveley,South Ockendon
+2021-05-24,363000,RM15 6RA,S,N,F,24,,Laburnum Grove,,South Ockendon
+2021-05-21,210000,RM15 6EE,T,N,F,31,,Chelmer Drive,,South Ockendon
+2021-05-21,280000,RM15 5QX,T,N,F,184,,Broxburn Drive,,South Ockendon
+2021-05-21,305000,RM15 5HH,S,N,F,144,,Foyle Drive,,South Ockendon
+2021-05-21,225000,RM15 5FA,F,N,L,34,,Fairlane Drive,,South Ockendon
+2021-05-21,380000,RM15 4AB,D,N,F,2,,Aveley Close,Aveley,South Ockendon
+2021-05-17,225000,RM15 4SX,F,N,L,10,,Elm Road,Aveley,South Ockendon
+2021-05-14,355000,RM15 6NS,T,N,F,67,,South Road,,South Ockendon
+2021-05-14,375000,RM15 5JZ,S,N,F,51,,Fulbrook Lane,,South Ockendon
+2021-05-14,275000,RM15 4SH,T,N,F,63,,St Pauls Close,Aveley,South Ockendon
+2021-05-14,270000,RM15 4RB,T,N,F,29,,Nare Road,Aveley,South Ockendon
+2021-05-14,158000,RM15 4AF,F,N,L,Lyn House,Flat 1,High Street,Aveley,South Ockendon
+2021-05-13,208000,RM15 5FE,F,N,L,148,,Arisdale Avenue,,South Ockendon
+2021-05-07,325000,RM15 4SU,T,N,F,10,,Alfred Road,Aveley,South Ockendon
+2021-05-06,287500,RM15 6PH,S,N,F,40,,West Road,,South Ockendon
+2021-05-05,405000,RM15 5SD,T,Y,F,9,,Kemps Farm Mews,,South Ockendon
+2021-05-05,315000,RM15 5DQ,T,N,F,125,,Araglen Avenue,,South Ockendon
+2021-05-04,348000,RM15 4DY,S,N,F,1,,Meadow Drive,Aveley,South Ockendon
+2021-04-30,295000,RM15 6RB,T,N,F,10,,Cedar Rise,,South Ockendon
+2021-04-30,195000,RM15 4UE,T,N,L,6,,Park Mews,Aveley,South Ockendon
+2021-04-30,340000,RM15 4AS,S,N,F,20,,Beech Grove,Aveley,South Ockendon
+2021-04-29,130000,RM15 5XA,F,N,L,117,,Danbury Crescent,,South Ockendon
+2021-04-28,320000,RM15 5RA,T,N,F,32,,Cample Lane,,South Ockendon
+2021-04-27,330000,RM15 4SH,T,N,F,28,,St Pauls Close,Aveley,South Ockendon
+2021-04-23,354500,RM15 6QD,S,N,F,22,,Cheelson Road,,South Ockendon
+2021-04-23,222000,RM15 5FT,F,N,L,27,,Torino Way,,South Ockendon
+2021-04-23,219000,RM15 4TS,T,N,L,20,,Martin Road,Aveley,South Ockendon
+2021-04-22,275000,RM15 5HL,T,N,F,10,,Loman Path,,South Ockendon
+2021-04-22,295000,RM15 4TP,T,N,F,13,,Dacre Crescent,Aveley,South Ockendon
+2021-04-21,315000,RM15 4NX,T,N,F,93,,Usk Road,Aveley,South Ockendon
+2021-04-21,215000,RM15 4EF,F,N,L,61,,Brinson Way,Aveley,South Ockendon
+2021-04-20,392000,RM15 4SU,S,N,F,32,,Alfred Road,Aveley,South Ockendon
+2021-04-20,290000,RM15 4NA,T,N,F,21,,Tamar Drive,Aveley,South Ockendon
+2021-04-19,240000,RM15 6HT,T,N,F,148,,Orchard Road,,South Ockendon
+2021-04-19,153000,RM15 5NW,F,N,L,17,,Faymore Gardens,,South Ockendon
+2021-04-19,375000,RM15 5HP,T,N,F,96,,Hamble Lane,,South Ockendon
+2021-04-19,82250,RM15 5FD,F,N,L,Avontar Court,45,Avontar Road,,South Ockendon
+2021-04-19,300000,RM15 5EQ,T,N,F,44,,Elan Road,,South Ockendon
+2021-04-16,331500,RM15 4NH,S,N,F,58,,Ravel Gardens,Aveley,South Ockendon
+2021-04-15,325000,RM15 5FF,T,N,F,Chiddicks Court,1,Arcany Road,,South Ockendon
+2021-04-15,345000,RM15 4JL,S,N,F,7,,Crescent Road,Aveley,South Ockendon
+2021-04-15,428000,RM15 4BT,T,N,F,49,,Stanford Gardens,Aveley,South Ockendon
+2021-04-14,430000,RM15 6DB,T,N,F,13,,Mollands Lane,,South Ockendon
+2021-04-14,370000,RM15 4JR,S,N,F,31,,Hall Crescent,Aveley,South Ockendon
+2021-04-13,330000,RM15 4TJ,T,N,F,19,,Crescent Way,Aveley,South Ockendon
+2021-04-09,197000,RM15 4DQ,T,N,L,2,,Regent Court,Aveley,South Ockendon
+2021-04-08,300000,RM15 4SU,T,N,F,9,,Alfred Road,Aveley,South Ockendon
+2021-04-08,270000,RM15 4LD,S,N,F,68,,Hall Avenue,Aveley,South Ockendon
+2021-04-08,280000,RM15 4AH,T,N,F,3,,Lennard Row,Aveley,South Ockendon
+2021-04-07,230000,RM15 5FQ,F,N,L,31,,Falcon Avenue,,South Ockendon
+2021-04-01,326000,RM15 6AA,T,N,F,45,,Cullen Square,,South Ockendon
+2021-04-01,290000,RM15 5AX,T,N,F,18,,Avontar Road,,South Ockendon
+2021-03-31,164000,RM15 5BW,F,N,L,37,,Eden Green,,South Ockendon
+2021-03-31,260000,RM15 5AU,T,N,F,69,,Anton Road,,South Ockendon
+2021-03-31,330000,RM15 4EH,S,N,F,35,,Toplands Avenue,Aveley,South Ockendon
+2021-03-31,360000,RM15 4ED,T,N,F,14,,Lowlands Road,Aveley,South Ockendon
+2021-03-31,475000,RM15 4EB,S,N,F,1,,Blenheim Gardens,Aveley,South Ockendon
+2021-03-31,330000,RM15 4DN,T,N,F,11,,Courts Way,Aveley,South Ockendon
+2021-03-30,360000,RM15 6BS,S,N,F,222,,South Road,,South Ockendon
+2021-03-29,325000,RM15 6TA,T,N,F,51,,Laburnum Grove,,South Ockendon
+2021-03-29,370000,RM15 6DB,S,N,F,15,,Mollands Lane,,South Ockendon
+2021-03-29,466000,RM15 5LX,T,N,F,11,,Foyle Drive,,South Ockendon
+2021-03-29,610000,RM15 4SR,D,N,F,39,,Mill Road,Aveley,South Ockendon
+2021-03-26,420000,RM15 6XE,D,N,F,9,,Maple Drive,,South Ockendon
+2021-03-26,320000,RM15 6RB,T,N,F,12,,Cedar Rise,,South Ockendon
+2021-03-26,267500,RM15 6NU,T,N,F,6,,South Road,,South Ockendon
+2021-03-26,455000,RM15 6JS,D,N,F,12,,White Beam Drive,,South Ockendon
+2021-03-26,342000,RM15 6HD,S,N,F,34,,Orchard Road,,South Ockendon
+2021-03-26,275000,RM15 6ER,T,N,F,370,,South Road,,South Ockendon
+2021-03-26,280000,RM15 6AH,T,N,F,142,,Cherwell Grove,,South Ockendon
+2021-03-26,260000,RM15 5QT,T,N,F,15,,Bann Close,,South Ockendon
+2021-03-26,330000,RM15 5QS,S,N,F,118,,Broxburn Drive,,South Ockendon
+2021-03-26,210000,RM15 5FX,F,N,L,40,,Torino Way,,South Ockendon
+2021-03-26,325000,RM15 4JS,S,N,F,24,,Hall Crescent,Aveley,South Ockendon
+2021-03-26,415000,RM15 4DY,D,N,F,39,,Meadow Drive,Aveley,South Ockendon
+2021-03-26,303000,RM15 4BT,T,N,F,3,,Stanford Gardens,Aveley,South Ockendon
+2021-03-26,165000,RM15 4BP,F,N,L,Laura House,Flat 3,High Street,Aveley,South Ockendon
+2021-03-24,560000,RM15 5JN,S,N,F,56,,Humber Avenue,,South Ockendon
+2021-03-23,565000,RM15 6TG,D,N,F,9,,Holly Drive,,South Ockendon
+2021-03-23,308000,RM15 5NG,T,N,F,38,,Fortin Way,,South Ockendon
+2021-03-23,146500,RM15 5BN,F,N,L,31,,Eden Green,,South Ockendon
+2021-03-22,290000,RM15 5QQ,T,N,F,7,,Groves Close,,South Ockendon
+2021-03-22,341000,RM15 5AU,T,N,F,74,,Anton Road,,South Ockendon
+2021-03-19,450000,RM15 6TU,D,N,F,26,,Poplar Close,,South Ockendon
+2021-03-19,399000,RM15 6RE,T,N,F,18,,Redwood Chase,,South Ockendon
+2021-03-19,225000,RM15 5EG,T,N,F,2,,Elan Road,,South Ockendon
+2021-03-19,390000,RM15 4EU,T,N,F,Iris House,,Garden Mews,Aveley,South Ockendon
+2021-03-16,340000,RM15 4DA,S,N,F,35,,Belhouse Avenue,Aveley,South Ockendon
+2021-03-15,325000,RM15 5HT,S,N,F,4,,Frances Gardens,,South Ockendon
+2021-03-12,400000,RM15 6TA,D,N,F,19,,Laburnum Grove,,South Ockendon
+2021-03-12,380000,RM15 6BD,S,N,F,1,,Cherwell Grove,,South Ockendon
+2021-03-12,310000,RM15 5NG,S,N,F,68,,Fortin Way,,South Ockendon
+2021-03-12,265000,RM15 5JU,T,N,F,123,,Garron Lane,,South Ockendon
+2021-03-12,375000,RM15 5HH,T,N,F,134,,Foyle Drive,,South Ockendon
+2021-03-12,365000,RM15 5FS,S,N,L,19,,Sunliner Way,,South Ockendon
+2021-03-12,225000,RM15 5FL,F,N,L,Capri House,18,Anglia Way,,South Ockendon
+2021-03-12,326000,RM15 4NA,T,N,F,75,,Tamar Drive,Aveley,South Ockendon
+2021-03-11,360000,RM15 4HJ,S,N,F,54,,Hall Road,Aveley,South Ockendon
+2021-03-10,427500,RM15 6TT,D,N,F,13,,Hornbeam Chase,,South Ockendon
+2021-03-10,500000,RM15 4SW,D,N,F,40,,Rowan Grove,Aveley,South Ockendon
+2021-03-09,265000,RM15 6ER,T,N,F,380,,South Road,,South Ockendon
+2021-03-08,297000,RM15 6TG,T,N,F,65,,Holly Drive,,South Ockendon
+2021-03-08,235000,RM15 6ES,T,N,F,66,,Verbena Close,,South Ockendon
+2021-03-08,260000,RM15 5BS,T,N,F,8,,Bovey Way,,South Ockendon
+2021-03-08,295000,RM15 4SY,S,N,F,43,,St Michaels Close,Aveley,South Ockendon
+2021-03-05,139000,RM15 5QN,F,N,L,11,,Cam Green,,South Ockendon
+2021-03-05,485000,RM15 5FW,T,Y,F,106,,Falcon Way,,South Ockendon
+2021-03-02,295000,RM15 5AY,T,N,F,66,,Erriff Drive,,South Ockendon
+2021-02-26,255000,RM15 6JD,T,N,F,8,,Tamarisk Road,,South Ockendon
+2021-02-26,410000,RM15 5SD,S,Y,F,14,,Kemps Farm Mews,,South Ockendon
+2021-02-26,281000,RM15 5QA,T,N,F,523,,Broxburn Drive,,South Ockendon
+2021-02-26,205000,RM15 5FW,F,N,L,48,,Falcon Way,,South Ockendon
+2021-02-26,295000,RM15 4ST,T,N,F,9,,Davis Road,Aveley,South Ockendon
+2021-02-26,300000,RM15 4SJ,T,N,F,16,,Mill Road,Aveley,South Ockendon
+2021-02-26,115000,RM15 4QS,F,N,L,Franklyns,7,Teviot Avenue,Aveley,South Ockendon
+2021-02-25,353000,RM15 6TH,S,N,F,8,,Lavender Close,,South Ockendon
+2021-02-25,300000,RM15 4NS,T,N,F,33,,Ravel Gardens,Aveley,South Ockendon
+2021-02-24,346500,RM15 6XA,S,N,F,27,,Nordmann Place,,South Ockendon
+2021-02-24,518000,RM15 6TW,D,N,F,36,,Juniper Drive,,South Ockendon
+2021-02-22,251000,RM15 6JA,T,N,F,24,,Celandine Close,,South Ockendon
+2021-02-22,230000,RM15 6HT,T,N,F,145,,Orchard Road,,South Ockendon
+2021-02-22,322500,RM15 5DR,T,N,F,32,,Dale Close,,South Ockendon
+2021-02-22,410000,RM15 4HY,S,N,F,2,,Clare Court,Aveley,South Ockendon
+2021-02-19,427500,RM15 6TU,D,N,F,31,,Poplar Close,,South Ockendon
+2021-02-19,235000,RM15 6HX,T,N,F,112,,Tamarisk Road,,South Ockendon
+2021-02-19,165000,RM15 6AF,F,N,L,The Oaks,8,Garth Road,,South Ockendon
+2021-02-19,272000,RM15 5PX,S,N,F,89,,Carnach Green,,South Ockendon
+2021-02-19,339950,RM15 5GQ,T,Y,F,7,,Vanette Way,,South Ockendon
+2021-02-19,337950,RM15 5GQ,T,Y,F,3,,Vanette Way,,South Ockendon
+2021-02-18,160000,RM15 6PU,F,N,L,109,,Peartree Close,,South Ockendon
+2021-02-18,270000,RM15 5JY,T,N,F,34,,Fulbrook Lane,,South Ockendon
+2021-02-18,315000,RM15 5DE,T,N,F,11,,Annalee Gardens,,South Ockendon
+2021-02-17,166000,RM15 5JA,F,N,L,20,,Darenth Lane,,South Ockendon
+2021-02-16,390000,RM15 6XD,D,N,F,7,,Birch Close,,South Ockendon
+2021-02-16,250000,RM15 6HX,T,N,F,70,,Tamarisk Road,,South Ockendon
+2021-02-16,335000,RM15 6BS,T,N,F,224,,South Road,,South Ockendon
+2021-02-16,225000,RM15 5FA,F,N,L,35,,Fairlane Drive,,South Ockendon
+2021-02-16,120000,RM15 4BJ,F,N,L,3A,,Garage Villas,Aveley,South Ockendon
+2021-02-15,260000,RM15 5HY,T,N,F,74,,Fullarton Crescent,,South Ockendon
+2021-02-15,330000,RM15 5FN,S,N,F,3,,Anglia Way,,South Ockendon
+2021-02-12,350000,RM15 6BA,T,N,F,1,,Corve Lane,,South Ockendon
+2021-02-12,375000,RM15 4EF,S,N,L,57,,Brinson Way,Aveley,South Ockendon
+2021-02-11,350000,RM15 5AZ,T,N,F,122,,Erriff Drive,,South Ockendon
+2021-02-09,195000,RM15 6PR,F,N,L,45,,Peartree Close,,South Ockendon
+2021-02-08,360000,RM15 6DD,S,N,F,9,,Nursery Close,,South Ockendon
+2021-02-08,480000,RM15 5GR,T,Y,F,17,,Park Way,,South Ockendon
+2021-02-08,335000,RM15 5FA,T,N,L,73,,Fairlane Drive,,South Ockendon
+2021-02-05,347500,RM15 6SD,T,N,F,5,,The Green,,South Ockendon
+2021-02-05,315000,RM15 5QE,S,N,F,21,,Fyfield Drive,,South Ockendon
+2021-02-05,348000,RM15 5LU,T,N,F,59,,Foyle Drive,,South Ockendon
+2021-02-05,480000,RM15 5GR,T,Y,F,19,,Park Way,,South Ockendon
+2021-02-05,341950,RM15 5GQ,T,Y,F,5,,Vanette Way,,South Ockendon
+2021-02-05,339950,RM15 5GQ,T,Y,F,1,,Vanette Way,,South Ockendon
+2021-02-05,497950,RM15 5FW,D,Y,F,110,,Falcon Way,,South Ockendon
+2021-02-05,275000,RM15 5DQ,T,N,F,119,,Araglen Avenue,,South Ockendon
+2021-02-05,285000,RM15 5AW,T,N,F,15,,Erriff Drive,,South Ockendon
+2021-02-05,390000,RM15 4EB,T,N,F,17,,Blenheim Gardens,Aveley,South Ockendon
+2021-02-03,222000,RM15 4HJ,S,N,F,36,,Hall Road,Aveley,South Ockendon
+2021-01-29,415000,RM15 6RD,S,N,F,10,,Alder Drive,,South Ockendon
+2021-01-29,247500,RM15 6HY,T,N,F,64,,Mayflower Close,,South Ockendon
+2021-01-29,257000,RM15 6HT,T,N,F,157,,Orchard Road,,South Ockendon
+2021-01-29,255000,RM15 6DS,T,N,F,Knowlton Cottages,4,South Road,,South Ockendon
+2021-01-29,400000,RM15 6DB,T,N,F,5,,Mollands Lane,,South Ockendon
+2021-01-29,280000,RM15 5NQ,T,N,F,43,,Fortin Way,,South Ockendon
+2021-01-29,295000,RM15 5FS,T,N,L,41,,Sunliner Way,,South Ockendon
+2021-01-29,474995,RM15 5FE,T,Y,F,248,,Arisdale Avenue,,South Ockendon
+2021-01-29,325000,RM15 4RL,T,N,F,8,,Tyne Gardens,Aveley,South Ockendon
+2021-01-29,220000,RM15 4DY,F,N,L,17,,Meadow Drive,Aveley,South Ockendon
+2021-01-28,230000,RM15 6DB,F,N,F,62,,Mollands Lane,,South Ockendon
+2021-01-28,470995,RM15 5FE,T,Y,F,246,,Arisdale Avenue,,South Ockendon
+2021-01-28,385000,RM15 4ES,S,N,L,18,,Bredle Way,Aveley,South Ockendon
+2021-01-26,335000,RM15 4JB,S,N,F,23,,Myrtle Grove,Aveley,South Ockendon
+2021-01-26,386000,RM15 4EB,S,N,F,15,,Blenheim Gardens,Aveley,South Ockendon
+2021-01-25,536000,RM15 4EA,S,N,F,90,,Purfleet Road,Aveley,South Ockendon
+2021-01-22,260000,RM15 4SL,S,N,F,23,,Mill Road,Aveley,South Ockendon
+2021-01-15,255100,RM15 6JE,T,N,F,74,,Viola Close,,South Ockendon
+2021-01-15,340000,RM15 6EL,S,N,F,50,,Cruick Avenue,,South Ockendon
+2021-01-15,317000,RM15 5AR,T,N,F,130,,Daiglen Drive,,South Ockendon
+2021-01-15,195000,RM15 4BP,T,N,L,1,,High Street,Aveley,South Ockendon
+2021-01-14,265000,RM15 5HN,T,N,F,14,,Fullarton Crescent,,South Ockendon
+2021-01-14,320000,RM15 5FL,S,N,F,58,,Anglia Way,,South Ockendon
+2021-01-13,385000,RM15 4SJ,D,N,F,Finbarn,,Mill Road,Aveley,South Ockendon
+2021-01-12,325000,RM15 4PR,T,N,F,4,,Romford Road,Aveley,South Ockendon
+2021-01-12,450000,RM15 4DR,S,N,F,72,,Purfleet Road,Aveley,South Ockendon
+2021-01-11,315000,RM15 6DA,S,N,F,142A,,South Road,,South Ockendon
+2021-01-11,201000,RM15 4XA,T,N,F,Kenningtons Cottages,34,Romford Road,Aveley,South Ockendon
+2021-01-08,230000,RM15 6PB,T,N,F,83,,West Road,,South Ockendon
+2021-01-08,200000,RM15 5BD,F,N,L,Archers Court,Flat 21,Arisdale Avenue,,South Ockendon
+2021-01-07,525000,RM15 6TY,D,N,F,17,,Ash Walk,,South Ockendon
+2021-01-07,370000,RM15 6TH,T,N,F,9,,Lavender Close,,South Ockendon
+2021-01-07,220000,RM15 6PG,F,N,L,2,,Tyssen Place,,South Ockendon
+2021-01-07,350000,RM15 6EB,T,N,F,338,,South Road,,South Ockendon
+2021-01-07,485000,RM15 6DB,D,N,F,9,,Mollands Lane,,South Ockendon
+2021-01-05,300000,RM15 5JJ,T,N,F,39,,Humber Avenue,,South Ockendon
+2021-01-05,320000,RM15 5HW,T,N,F,35,,Fullarton Crescent,,South Ockendon
+2021-01-05,400000,RM15 4TA,S,N,F,49,,Chichester Close,Aveley,South Ockendon
+2021-01-04,305000,RM15 4NA,T,N,F,73,,Tamar Drive,Aveley,South Ockendon

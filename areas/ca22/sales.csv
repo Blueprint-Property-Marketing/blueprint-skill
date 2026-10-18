@@ -1,0 +1,662 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-07,160000,CA22 2SX,T,N,F,The Reading Rooms,2,Springfield Road,Bigrigg,Egremont
+2026-07-20,89000,CA22 2EW,F,N,L,32,,Christy Place,,Egremont
+2026-06-30,385000,CA22 2TD,D,N,F,Claremont,,,Woodend,Egremont
+2026-06-29,150000,CA22 2RT,S,N,F,17,,High Road,Thornhill,Egremont
+2026-06-26,110000,CA22 2BE,S,N,F,7,,Nelson Square,,Egremont
+2026-06-11,114000,CA22 2SX,S,N,F,The Reading Rooms,1,Springfield Road,Bigrigg,Egremont
+2026-06-10,195000,CA22 2BE,S,N,F,14,,Nelson Square,,Egremont
+2026-06-03,119000,CA22 2EZ,T,N,F,24,,Croadalla Avenue,,Egremont
+2026-06-01,181000,CA22 2LN,S,N,F,5,,Daleview Gardens,,Egremont
+2026-06-01,127500,CA22 2JA,T,N,F,27,,The Limes,,Egremont
+2026-05-22,125000,CA22 2SH,S,N,F,24,,Ehen Road,Thornhill,Egremont
+2026-05-22,205000,CA22 2LW,S,N,F,4,,Daleview Close,,Egremont
+2026-05-15,125000,CA22 2TX,S,N,F,Bank End,5,,Bigrigg,Egremont
+2026-05-15,180500,CA22 2JU,S,N,F,22,,Ling Road,,Egremont
+2026-05-05,117500,CA22 2EY,T,N,F,23,,Keats Drive,,Egremont
+2026-04-29,125000,CA22 2RX,T,N,F,3,,Thorny Road,Thornhill,Egremont
+2026-04-24,100000,CA22 2EU,T,N,F,13,,Coleridge Drive,,Egremont
+2026-04-23,106000,CA22 2HL,S,N,F,5,,Goldsmith Road,,Egremont
+2026-04-10,177500,CA22 2FJ,S,N,F,22,,Florence Drive,,Egremont
+2026-04-10,120000,CA22 2EW,S,N,F,4,,Christy Place,,Egremont
+2026-04-02,142500,CA22 2TH,T,N,F,7,,Bankend View,Bigrigg,Egremont
+2026-04-02,102000,CA22 2LG,T,N,F,3,,Royal Drive,,Egremont
+2026-03-31,102500,CA22 2JA,T,N,F,7,,The Limes,,Egremont
+2026-03-27,55000,CA22 2HQ,T,N,F,23,,Tennyson Drive,,Egremont
+2026-03-27,150000,CA22 2HF,S,N,F,12,,Shakespeare Avenue,,Egremont
+2026-03-27,90000,CA22 2BS,S,N,F,21,,Sunnyside,,Egremont
+2026-03-27,106000,CA22 2AH,T,N,F,20,,Lamb Lane,,Egremont
+2026-03-23,275000,CA22 2LN,D,N,F,43,,Daleview Gardens,,Egremont
+2026-03-20,158000,CA22 2NX,S,N,F,2,,Oaklands,,Egremont
+2026-03-16,72000,CA22 2DN,T,N,F,6,,Braithwaite Court,,Egremont
+2026-03-11,327500,CA22 2RU,D,N,F,Pleasant View,,Dent Road,Thornhill,Egremont
+2026-03-06,305000,CA22 2NN,D,N,F,Brook House,,Little Mill,,Egremont
+2026-03-04,175000,CA22 2ED,T,N,F,11,,East Road,,Egremont
+2026-03-03,130000,CA22 2SR,D,N,F,17,,The Crescent,Thornhill,Egremont
+2026-02-27,242000,CA22 2JT,D,N,F,18,,Ashley Way,,Egremont
+2026-02-27,240000,CA22 2DA,D,N,F,7,,Spedding Close,,Egremont
+2026-02-20,180000,CA22 2JT,D,N,F,4,,Ashley Way,,Egremont
+2026-02-04,75000,CA22 2EG,T,N,F,30,,Brisco Mount,,Egremont
+2026-01-26,133000,CA22 2TH,T,N,F,26,,Bankend View,Bigrigg,Egremont
+2026-01-23,131500,CA22 2FJ,S,N,F,2,,Florence Drive,,Egremont
+2026-01-22,132000,CA22 2RT,S,N,F,24,,High Road,Thornhill,Egremont
+2026-01-19,143000,CA22 2RN,T,N,F,1,,Cringlethwaite Terrace,,Egremont
+2026-01-09,95000,CA22 2JE,T,N,F,8,,The Larches,,Egremont
+2026-01-09,106000,CA22 2FB,T,N,F,9,,Station Close,,Egremont
+2026-01-09,97500,CA22 2EQ,T,N,F,5,,Brisco Road,,Egremont
+2025-12-16,96000,CA22 2HF,T,N,F,3,,Shakespeare Avenue,,Egremont
+2025-12-15,145000,CA22 2ET,T,N,F,27,,Dent View,,Egremont
+2025-12-12,232500,CA22 2UU,D,N,F,16,,Chapel Street,Bigrigg,Egremont
+2025-12-12,120000,CA22 2PR,T,N,F,17,,North Road,,Egremont
+2025-12-05,125000,CA22 2JX,T,N,F,3,,Queens Drive,,Egremont
+2025-12-02,100000,CA22 2JD,T,N,F,15,,The Hollies,,Egremont
+2025-12-01,127000,CA22 2TH,T,N,F,9,,Bankend View,Bigrigg,Egremont
+2025-12-01,200000,CA22 2LS,S,N,L,6,,Bookwell,,Egremont
+2025-12-01,240000,CA22 2JT,D,N,F,15,,Ashley Way,,Egremont
+2025-12-01,125000,CA22 2HF,T,N,F,27,,Shakespeare Avenue,,Egremont
+2025-12-01,138000,CA22 2ED,T,N,F,30,,East Road,,Egremont
+2025-11-20,236000,CA22 2JL,S,N,F,16,,Fellview Drive,,Egremont
+2025-11-17,62500,CA22 2AH,T,N,F,7,,Lamb Lane,,Egremont
+2025-11-07,150000,CA22 2ED,T,N,F,3,,East Road,,Egremont
+2025-10-31,128500,CA22 2HF,S,N,F,17,,Shakespeare Avenue,,Egremont
+2025-10-29,137000,CA22 2ET,T,N,F,62,,Dent View,,Egremont
+2025-10-24,500000,CA22 2UB,D,N,F,Gill House Farm,,Black Ling,,Egremont
+2025-10-24,175500,CA22 2SH,S,N,F,40,,Ehen Road,Thornhill,Egremont
+2025-10-24,125000,CA22 2LE,T,N,F,87,,Kings Drive,,Egremont
+2025-10-24,168000,CA22 2ED,T,N,F,6,,East Road,,Egremont
+2025-10-17,175000,CA22 2JL,S,N,F,12,,Fellview Drive,,Egremont
+2025-10-16,160000,CA22 2DS,D,N,F,Chapel House,,Chapel Street,,Egremont
+2025-10-13,100000,CA22 2TN,T,N,F,3,,Springfield Road,Bigrigg,Egremont
+2025-10-13,90000,CA22 2JX,T,N,F,5,,Queens Drive,,Egremont
+2025-10-13,180000,CA22 2ED,T,N,F,12,,East Road,,Egremont
+2025-10-10,150000,CA22 2SA,S,N,F,9,,New Road,Thornhill,Egremont
+2025-10-10,159000,CA22 2ET,T,N,F,76,,Dent View,,Egremont
+2025-10-10,153250,CA22 2ET,T,N,F,34,,Dent View,,Egremont
+2025-10-09,79950,CA22 2PR,T,N,F,15,,North Road,,Egremont
+2025-10-09,128000,CA22 2BG,S,N,F,6,,Meadow View,,Egremont
+2025-10-03,115000,CA22 2HW,S,N,F,33,,The Rowans,,Egremont
+2025-10-01,125000,CA22 2HX,T,N,F,18,,The Oaks,,Egremont
+2025-09-19,172000,CA22 2JU,S,N,F,36,,Ling Road,,Egremont
+2025-09-19,88000,CA22 2JA,T,N,F,12,,The Limes,,Egremont
+2025-09-19,118000,CA22 2HG,T,N,F,3,,Wordsworth Close,,Egremont
+2025-09-19,120000,CA22 2AT,T,N,F,1,,Croft Terrace,,Egremont
+2025-09-15,115000,CA22 2HQ,S,N,F,6,,Tennyson Drive,,Egremont
+2025-09-12,200000,CA22 2RL,S,N,F,5,,Woodbank,,Egremont
+2025-09-05,80000,CA22 2EG,T,N,F,16,,Brisco Mount,,Egremont
+2025-09-02,260000,CA22 2FJ,D,N,F,17,,Florence Drive,,Egremont
+2025-09-01,360000,CA22 2UR,D,N,F,Laxey,,,Coulderton,Egremont
+2025-09-01,93000,CA22 2JE,T,N,F,1,,The Larches,,Egremont
+2025-08-29,120000,CA22 2HX,T,N,F,11,,The Oaks,,Egremont
+2025-08-26,275000,CA22 2WB,D,N,F,3,,Treetops,Bigrigg,Egremont
+2025-08-21,352500,CA22 2TB,D,N,F,Mereside,,,Woodend,Egremont
+2025-08-20,277000,CA22 2UH,D,N,F,Ocean View,,,Nethertown,Egremont
+2025-08-20,180000,CA22 2LN,S,N,F,7,,Daleview Gardens,,Egremont
+2025-08-20,275000,CA22 2LN,S,N,F,56,,Daleview Gardens,,Egremont
+2025-08-15,137000,CA22 2RZ,S,N,F,36,,Thorny Road,Thornhill,Egremont
+2025-08-11,117000,CA22 2HD,T,N,F,35,,Milton Road,,Egremont
+2025-08-11,235000,CA22 2AU,S,N,F,5,,The Villas,,Egremont
+2025-08-05,630000,CA22 2UD,D,N,F,Lowside Barn,,,,Egremont
+2025-08-01,128000,CA22 2EU,T,N,F,24,,Coleridge Drive,,Egremont
+2025-07-31,120000,CA22 2SQ,S,N,F,11,,Ehen Road,Thornhill,Egremont
+2025-07-31,73000,CA22 2HP,T,N,F,3,,The Rowans,,Egremont
+2025-07-29,98500,CA22 2HJ,T,N,F,4,,Southey Walk,,Egremont
+2025-07-25,120000,CA22 2HG,T,N,F,26,,Wordsworth Close,,Egremont
+2025-07-24,115000,CA22 2EY,S,N,F,6,,Keats Drive,,Egremont
+2025-07-23,150000,CA22 2EF,T,N,F,60,,East Road,,Egremont
+2025-07-18,345000,CA22 2NY,D,N,F,Ellerbank,,,Blackbeck,Egremont
+2025-07-11,495000,CA22 2UA,D,N,L,Moorleys,,,,Egremont
+2025-07-08,110050,CA22 2HT,S,N,F,55,,The Willows,,Egremont
+2025-06-30,148000,CA22 2ET,T,N,F,69,,Dent View,,Egremont
+2025-06-27,130000,CA22 2ED,T,N,F,22,,East Road,,Egremont
+2025-06-24,120000,CA22 2QE,S,N,F,3,,Gillfoot Avenue,,Egremont
+2025-06-21,44000,CA22 2PT,T,N,F,4,,Longcroft,,Egremont
+2025-06-20,60000,CA22 2LS,T,N,L,11,,Bookwell,,Egremont
+2025-06-17,306000,CA22 2JL,D,N,F,4,,Fellview Drive,,Egremont
+2025-06-17,153000,CA22 2HG,T,N,F,1,,Wordsworth Close,,Egremont
+2025-06-12,95000,CA22 2SH,S,N,F,17,,Ehen Road,Thornhill,Egremont
+2025-06-11,152000,CA22 2UX,T,N,F,41,,Croftlands,Bigrigg,Egremont
+2025-06-06,209000,CA22 2SU,D,N,F,6,,Thorntrees Drive,Thornhill,Egremont
+2025-05-23,105000,CA22 2SD,S,N,F,28,,Wodow Road,Thornhill,Egremont
+2025-05-23,420000,CA22 2NX,D,N,F,Weston,,Oaklands,,Egremont
+2025-05-19,110000,CA22 2AH,T,N,F,16,,Lamb Lane,,Egremont
+2025-05-08,301000,CA22 2UG,S,N,F,Spring Field,,,Middletown,Egremont
+2025-05-08,345000,CA22 2NN,D,N,F,East Of Ehen,,Little Mill,,Egremont
+2025-05-08,270000,CA22 2EF,D,N,F,Rhonandale,,East Road,,Egremont
+2025-05-01,72000,CA22 2HD,T,N,F,19,,Milton Road,,Egremont
+2025-04-29,240000,CA22 2LR,S,N,F,1,,Hagget End Close,,Egremont
+2025-04-25,260000,CA22 2UX,S,N,F,6,,Croftlands,Bigrigg,Egremont
+2025-04-25,150000,CA22 2LU,S,N,F,2,,Grove Road,,Egremont
+2025-04-22,127000,CA22 2UX,T,N,F,45,,Croftlands,Bigrigg,Egremont
+2025-04-22,230000,CA22 2QU,D,N,F,3,,Clintz Road,,Egremont
+2025-04-15,96000,CA22 2HY,T,N,F,8,,The Laurels,,Egremont
+2025-04-15,145000,CA22 2FB,S,N,F,18,,Station Close,,Egremont
+2025-04-11,77000,CA22 2EG,T,N,F,18,,Brisco Mount,,Egremont
+2025-03-31,225000,CA22 2JL,D,N,F,27,,Fellview Drive,,Egremont
+2025-03-28,170000,CA22 2UX,S,N,F,3,,Croftlands,Bigrigg,Egremont
+2025-03-28,115000,CA22 2SG,S,N,F,20,,Harpur Place,Thornhill,Egremont
+2025-03-28,165000,CA22 2LN,S,N,F,29,,Daleview Gardens,,Egremont
+2025-03-28,165000,CA22 2BJ,S,N,F,30,,Park View,,Egremont
+2025-03-24,155550,CA22 2SH,S,N,F,13,,Ehen Road,Thornhill,Egremont
+2025-03-21,210000,CA22 2UY,D,N,F,10,,Downfield Lane,Bigrigg,Egremont
+2025-03-17,178000,CA22 2JU,S,N,F,20,,Ling Road,,Egremont
+2025-03-17,119950,CA22 2FB,T,N,F,26,,Station Close,,Egremont
+2025-03-13,140000,CA22 2FB,S,N,F,19,,Station Close,,Egremont
+2025-03-10,232000,CA22 2SU,D,N,F,33,,Thorntrees Drive,Thornhill,Egremont
+2025-03-10,115000,CA22 2HT,T,N,F,39,,The Willows,,Egremont
+2025-03-10,150000,CA22 2BJ,S,N,F,2,,Park View,,Egremont
+2025-03-07,140000,CA22 2RY,S,N,F,16,,Thorny Road,Thornhill,Egremont
+2025-03-04,130000,CA22 2HG,S,N,F,5,,Wordsworth Close,,Egremont
+2025-02-28,263000,CA22 2UZ,D,N,F,3,,Far Moor,Bigrigg,Egremont
+2025-02-28,120000,CA22 2PR,S,N,F,37,,North Road,,Egremont
+2025-02-27,75000,CA22 2BB,T,N,F,13,,St Bridgets Lane,,Egremont
+2025-02-21,157000,CA22 2SH,S,N,F,14,,Ehen Road,Thornhill,Egremont
+2025-02-21,105000,CA22 2HW,T,N,F,24,,The Rowans,,Egremont
+2025-02-21,117000,CA22 2HT,T,N,F,54,,The Willows,,Egremont
+2025-02-18,125000,CA22 2TQ,D,N,F,46,,Springfield Road,Bigrigg,Egremont
+2025-02-18,200000,CA22 2SU,D,N,F,15,,Thorntrees Drive,Thornhill,Egremont
+2025-02-14,111500,CA22 2QA,S,N,F,15,,Beech Avenue,,Egremont
+2025-02-14,95000,CA22 2HD,T,N,F,10,,Milton Road,,Egremont
+2025-02-14,110000,CA22 2BL,S,N,F,29,,Central Avenue,,Egremont
+2025-02-07,205000,CA22 2TY,T,N,F,2,,Coronation Terrace,,Egremont
+2025-02-06,113000,CA22 2RY,S,N,F,22,,Thorny Road,Thornhill,Egremont
+2025-01-31,142500,CA22 2SS,D,N,F,49,,The Crescent,Thornhill,Egremont
+2025-01-31,145000,CA22 2SE,S,N,F,29,,Wodow Road,Thornhill,Egremont
+2025-01-31,135000,CA22 2PR,T,N,F,48,,North Road,,Egremont
+2025-01-31,94000,CA22 2NS,T,N,F,13,,Scurgill Terrace,,Egremont
+2025-01-24,80000,CA22 2BE,T,N,F,17,,Nelson Square,,Egremont
+2025-01-21,120000,CA22 2SG,S,N,F,9,,Harpur Place,Thornhill,Egremont
+2025-01-17,247500,CA22 2SU,D,N,F,35,,Thorntrees Drive,Thornhill,Egremont
+2025-01-15,131000,CA22 2DS,D,N,F,Chapel House,,Chapel Street,,Egremont
+2025-01-14,60000,CA22 2LR,F,N,L,13,,Hagget End Close,,Egremont
+2024-12-20,100000,CA22 2QF,S,N,F,5,,Smithfield Road,,Egremont
+2024-12-19,96500,CA22 2HD,T,N,F,6,,Milton Road,,Egremont
+2024-12-18,110000,CA22 2SG,S,N,F,13,,Harpur Place,Thornhill,Egremont
+2024-12-11,105000,CA22 2SQ,S,N,F,8,,Ehen Road,Thornhill,Egremont
+2024-12-10,385000,CA22 2PJ,D,N,F,Brookfield,,,Wilton,Egremont
+2024-12-09,63500,CA22 2AY,T,N,F,48 - 49,,South Street,,Egremont
+2024-12-06,240000,CA22 2UZ,D,N,F,2,,Far Moor,Bigrigg,Egremont
+2024-12-06,93000,CA22 2AY,T,N,F,9,,South Street,,Egremont
+2024-12-06,110000,CA22 2AS,T,N,F,79,,Beckgreen,,Egremont
+2024-12-03,148000,CA22 2ET,T,N,F,82,,Dent View,,Egremont
+2024-11-28,145000,CA22 2FB,T,N,F,39,,Station Close,,Egremont
+2024-11-25,90000,CA22 2QP,T,N,F,26,,Old Smithfield,,Egremont
+2024-11-22,115000,CA22 2QD,S,N,F,30,,Gillfoot Road,,Egremont
+2024-11-22,45000,CA22 2HG,T,N,F,16,,Wordsworth Close,,Egremont
+2024-11-06,144950,CA22 2JS,T,N,F,3,,Greendykes,,Egremont
+2024-11-01,113000,CA22 2PR,S,N,F,18,,North Road,,Egremont
+2024-11-01,127500,CA22 2BL,S,N,F,37,,Central Avenue,,Egremont
+2024-10-31,212000,CA22 2LZ,D,N,F,7,,Sandy Grove,,Egremont
+2024-10-31,235000,CA22 2JJ,D,N,F,26,,Westfield Drive,,Egremont
+2024-10-31,99950,CA22 2HX,T,N,F,16,,The Oaks,,Egremont
+2024-10-30,120000,CA22 2UJ,T,N,F,Brewery Cottage,,,Nethertown,Egremont
+2024-10-28,349500,CA22 2WF,D,N,F,2,,Hemplin Gardens,Nethertown,Egremont
+2024-10-28,125000,CA22 2RS,T,N,F,12,,High Road,Thornhill,Egremont
+2024-10-24,155000,CA22 2EH,D,N,F,9,,Riverside Drive,,Egremont
+2024-10-21,110000,CA22 2RG,T,N,F,13,,Vale View,,Egremont
+2024-10-18,70000,CA22 2RX,S,N,F,58,,Thorny Road,Thornhill,Egremont
+2024-10-11,270000,CA22 2JT,D,N,F,58,,Ashley Way,,Egremont
+2024-10-11,130000,CA22 2ET,T,N,F,72,,Dent View,,Egremont
+2024-10-07,260400,CA22 2NY,D,N,F,The Briary,,,Blackbeck,Egremont
+2024-10-07,80500,CA22 2LY,T,N,F,9,,Grove Road,,Egremont
+2024-10-04,147500,CA22 2LJ,T,N,F,13,,Uldale View,,Egremont
+2024-10-01,220000,CA22 2LN,D,N,F,42,,Daleview Gardens,,Egremont
+2024-09-27,160000,CA22 2JS,T,N,F,1,,Greendykes,,Egremont
+2024-09-27,107000,CA22 2EY,T,N,F,15,,Keats Drive,,Egremont
+2024-09-27,90000,CA22 2BS,S,N,F,15,,Sunnyside,,Egremont
+2024-09-25,250000,CA22 2EH,D,N,F,10,,Riverside Drive,,Egremont
+2024-09-24,175000,CA22 2QY,T,N,F,5,,Mansion Gardens,,Egremont
+2024-09-23,175000,CA22 2LN,S,N,F,28,,Daleview Gardens,,Egremont
+2024-09-23,115000,CA22 2BN,S,N,F,6,,Tower View,,Egremont
+2024-09-20,90000,CA22 2BN,S,N,F,10,,Tower View,,Egremont
+2024-09-16,220500,CA22 2JT,D,N,F,29,,Ashley Way,,Egremont
+2024-09-13,137000,CA22 2RR,S,N,F,3,,High Road,Thornhill,Egremont
+2024-09-09,122000,CA22 2RZ,T,N,F,31,,Thorny Road,Thornhill,Egremont
+2024-09-06,261000,CA22 2QU,D,N,F,35,,Clintz Road,,Egremont
+2024-09-06,116000,CA22 2QF,S,N,F,6,,Smithfield Road,,Egremont
+2024-09-02,125000,CA22 2TQ,D,N,F,48,,Springfield Road,Bigrigg,Egremont
+2024-08-30,15000,CA22 2LG,T,N,F,5,,Royal Drive,,Egremont
+2024-08-29,90000,CA22 2QA,S,N,F,7,,Beech Avenue,,Egremont
+2024-08-29,145000,CA22 2LE,S,N,F,10,,Kings Drive,,Egremont
+2024-08-23,79950,CA22 2QW,T,N,F,14,,Old Smithfield,,Egremont
+2024-08-14,250000,CA22 2HF,D,N,F,1,,Shakespeare Avenue,,Egremont
+2024-08-09,340000,CA22 2PD,D,N,F,Red Ghyll,,,Haile,Egremont
+2024-08-09,70000,CA22 2EG,T,N,F,10,,Brisco Mount,,Egremont
+2024-08-08,80000,CA22 2EW,F,N,L,24,,Christy Place,,Egremont
+2024-08-06,103500,CA22 2HT,T,N,F,14,,The Willows,,Egremont
+2024-07-25,112500,CA22 2EF,T,N,F,67,,East Road,,Egremont
+2024-07-22,188000,CA22 2ER,D,N,F,15,,Rowntree Gardens,,Egremont
+2024-07-12,112000,CA22 2UX,T,N,F,38,,Croftlands,Bigrigg,Egremont
+2024-07-08,240000,CA22 2UX,S,N,F,9,,Croftlands,Bigrigg,Egremont
+2024-07-05,250000,CA22 2UX,T,N,F,42,,Croftlands,Bigrigg,Egremont
+2024-07-04,185000,CA22 2UX,S,N,F,7,,Croftlands,Bigrigg,Egremont
+2024-07-04,140000,CA22 2UX,T,N,F,31,,Croftlands,Bigrigg,Egremont
+2024-07-02,78000,CA22 2EW,F,N,L,22,,Christy Place,,Egremont
+2024-06-28,105000,CA22 2QD,S,N,F,11,,Gillfoot Road,,Egremont
+2024-06-26,149000,CA22 2NX,S,N,F,2,,Oaklands,,Egremont
+2024-06-17,147500,CA22 2RN,T,N,F,10,,Cringlethwaite Terrace,,Egremont
+2024-06-13,200000,CA22 2US,S,N,F,Rothersyke Farm,,,,Egremont
+2024-06-07,305000,CA22 2UU,D,N,F,31,,Chapel Street,Bigrigg,Egremont
+2024-06-07,110000,CA22 2RX,T,N,F,3,,Thorny Road,Thornhill,Egremont
+2024-06-07,118000,CA22 2JY,T,N,F,26,,Queens Drive,,Egremont
+2024-06-03,115000,CA22 2HT,T,N,F,52,,The Willows,,Egremont
+2024-05-31,440000,CA22 2TE,D,N,F,Orebank House,,,Bigrigg,Egremont
+2024-05-31,81000,CA22 2HA,T,N,F,18,,Dryden Way,,Egremont
+2024-05-31,116950,CA22 2EZ,T,N,F,28,,Croadalla Avenue,,Egremont
+2024-05-31,133000,CA22 2BE,S,N,F,24,,Nelson Square,,Egremont
+2024-05-24,247950,CA22 2XA,D,N,F,15,,Peel Gardens,Bigrigg,Egremont
+2024-05-24,125000,CA22 2UX,T,N,F,30,,Croftlands,Bigrigg,Egremont
+2024-05-23,165000,CA22 2EE,S,N,F,28,,Windrigg Close,,Egremont
+2024-05-21,118000,CA22 2HA,S,N,F,4,,Dryden Way,,Egremont
+2024-05-17,100000,CA22 2HY,T,N,F,17,,The Laurels,,Egremont
+2024-05-17,87500,CA22 2EG,T,N,F,50,,Brisco Mount,,Egremont
+2024-05-16,80000,CA22 2TN,T,N,F,14,,Springfield Road,Bigrigg,Egremont
+2024-05-03,300000,CA22 2US,D,N,F,Rothersyke,Merryhill Barn,,,Egremont
+2024-05-03,65000,CA22 2HD,T,N,F,1,,Milton Road,,Egremont
+2024-05-01,115000,CA22 2RH,S,N,F,14,,Bridge End Park,,Egremont
+2024-05-01,130000,CA22 2EE,S,N,F,20,,Windrigg Close,,Egremont
+2024-04-29,105000,CA22 2RJ,T,N,F,2,,Chapel Terrace,Thornhill,Egremont
+2024-04-26,140000,CA22 2FB,S,N,F,18,,Station Close,,Egremont
+2024-04-22,169000,CA22 2BL,S,N,F,7,,Central Avenue,,Egremont
+2024-04-15,140000,CA22 2SZ,D,N,F,Southcroft,,,Woodend,Egremont
+2024-04-12,85000,CA22 2SW,S,N,F,34,,The Crescent,Thornhill,Egremont
+2024-04-12,387000,CA22 2PW,D,N,F,4,,The Croft,Wilton,Egremont
+2024-04-12,570000,CA22 2PW,D,N,F,2,,The Croft,Wilton,Egremont
+2024-04-12,261000,CA22 2NU,T,N,F,Carleton Barns,3,,Carleton,Egremont
+2024-04-05,115000,CA22 2FB,S,N,F,19,,Station Close,,Egremont
+2024-04-04,105000,CA22 2QF,T,N,F,10,,Smithfield Road,,Egremont
+2024-03-22,270000,CA22 2JH,D,N,F,24,,Parklands Drive,,Egremont
+2024-03-08,141000,CA22 2QT,S,N,F,12,,Copeland Avenue,,Egremont
+2024-03-08,105000,CA22 2AW,S,N,F,13,,Church Street,,Egremont
+2024-03-04,110000,CA22 2HH,T,N,F,20,,Southey Avenue,,Egremont
+2024-02-27,420000,CA22 2PF,D,N,F,Simon Kell,,,Haile,Egremont
+2024-02-22,115000,CA22 2ED,T,N,F,27,,East Road,,Egremont
+2024-02-20,81000,CA22 2LB,S,N,F,70,,Kings Drive,,Egremont
+2024-02-16,240000,CA22 2RA,D,N,F,17,,Jubilee Gardens,Bigrigg,Egremont
+2024-02-16,142500,CA22 2QE,S,N,F,9,,Gillfoot Avenue,,Egremont
+2024-02-15,195000,CA22 2DN,T,N,F,1,,Braithwaite Court,,Egremont
+2024-02-08,62500,CA22 2TQ,T,N,F,42,,Springfield Road,Bigrigg,Egremont
+2024-01-31,195000,CA22 2RH,D,N,F,1,,Bridge End Park,,Egremont
+2024-01-31,75000,CA22 2QW,T,N,F,14,,Old Smithfield,,Egremont
+2024-01-26,150000,CA22 2ED,T,N,F,33,,East Road,,Egremont
+2024-01-12,97000,CA22 2BE,T,N,F,18,,Nelson Square,,Egremont
+2024-01-04,286000,CA22 2QX,D,N,F,2,,Longlands Close,,Egremont
+2024-01-04,110000,CA22 2HX,T,N,F,18,,The Oaks,,Egremont
+2023-12-21,110000,CA22 2SE,S,N,F,58,,Wodow Road,Thornhill,Egremont
+2023-12-19,360000,CA22 2PJ,D,N,F,West Holme,,,Wilton,Egremont
+2023-12-18,120000,CA22 2UX,T,N,F,33,,Croftlands,Bigrigg,Egremont
+2023-12-18,69000,CA22 2QW,T,N,F,23,,Old Smithfield,,Egremont
+2023-12-13,125000,CA22 2PY,S,N,F,37,,Smithfield Road,,Egremont
+2023-12-08,118000,CA22 2FB,T,N,F,35,,Station Close,,Egremont
+2023-12-04,230000,CA22 2JU,S,N,F,40,,Ling Road,,Egremont
+2023-11-29,580000,CA22 2SU,D,N,F,"Thornhill Manor, 45",,Thorntrees Drive,Thornhill,Egremont
+2023-11-29,116000,CA22 2QR,S,N,F,53,,Greenmoor Road,,Egremont
+2023-11-29,63000,CA22 2PR,T,N,F,62,,North Road,,Egremont
+2023-11-29,120000,CA22 2BW,S,N,F,1,,Kirksyde,,Egremont
+2023-11-24,73590,CA22 2UE,T,N,F,4,,Low Mill,,Egremont
+2023-11-24,105000,CA22 2RZ,S,N,F,27,,Thorny Road,Thornhill,Egremont
+2023-11-17,420000,CA22 2PA,D,N,F,High Croft House,,,Moss Side,Egremont
+2023-11-17,365000,CA22 2NG,D,N,F,Broadfield,,Baybarrow Road,,Egremont
+2023-11-17,222500,CA22 2ER,D,N,F,8,,Rowntree Gardens,,Egremont
+2023-11-10,110000,CA22 2EY,T,N,F,3,,Keats Drive,,Egremont
+2023-11-06,50000,CA22 2LE,S,N,F,10,,Kings Drive,,Egremont
+2023-11-03,143000,CA22 2EF,T,N,F,60,,East Road,,Egremont
+2023-10-27,238000,CA22 2QZ,D,N,F,22,,Langhorn Court,,Egremont
+2023-10-27,50000,CA22 2DB,F,N,L,74,,Main Street,,Egremont
+2023-10-27,63000,CA22 2AH,T,N,F,6,,Lamb Lane,,Egremont
+2023-10-20,90000,CA22 2QD,S,N,F,43,,Gillfoot Road,,Egremont
+2023-10-20,205000,CA22 2ER,D,N,F,14,,Rowntree Gardens,,Egremont
+2023-10-20,220000,CA22 2DA,D,N,F,12,,Spedding Close,,Egremont
+2023-10-12,198000,CA22 2JT,D,N,F,8,,Ashley Way,,Egremont
+2023-09-29,265000,CA22 2QX,D,N,F,15,,Longlands Close,,Egremont
+2023-09-29,90000,CA22 2HT,T,N,F,26,,The Willows,,Egremont
+2023-09-28,66000,CA22 2TX,T,N,F,Bank End,2,,Bigrigg,Egremont
+2023-09-22,230000,CA22 2ND,D,N,F,7,,Haile Park,Haile,Egremont
+2023-09-19,171000,CA22 2LQ,S,N,F,14,,Royal Drive,,Egremont
+2023-09-18,90000,CA22 2ED,T,N,F,33,,East Road,,Egremont
+2023-09-15,126500,CA22 2UX,T,N,F,44,,Croftlands,Bigrigg,Egremont
+2023-09-01,139950,CA22 2SA,S,N,F,8,,New Road,Thornhill,Egremont
+2023-09-01,77000,CA22 2QS,S,N,F,23,,Greenmoor Road,,Egremont
+2023-08-25,293000,CA22 2UX,S,N,F,8,,Croftlands,Bigrigg,Egremont
+2023-08-25,75000,CA22 2PR,T,N,F,60,,North Road,,Egremont
+2023-08-18,121000,CA22 2QE,S,N,F,4,,Gillfoot Avenue,,Egremont
+2023-08-18,149995,CA22 2HF,T,N,F,22,,Shakespeare Avenue,,Egremont
+2023-08-18,82000,CA22 2AP,T,N,F,4,,Cross Side,,Egremont
+2023-08-11,160000,CA22 2UH,T,N,F,Shire Cottage,,,Nethertown,Egremont
+2023-08-11,117500,CA22 2HT,T,N,F,61,,The Willows,,Egremont
+2023-08-10,78000,CA22 2DR,T,N,F,34,,Main Street,,Egremont
+2023-08-04,87500,CA22 2BN,S,N,F,24,,Tower View,,Egremont
+2023-07-28,115000,CA22 2RH,T,N,F,24,,Bridge End Park,,Egremont
+2023-07-28,155000,CA22 2ED,T,N,F,26,,East Road,,Egremont
+2023-07-24,110000,CA22 2HG,S,N,F,24,,Wordsworth Close,,Egremont
+2023-07-21,140000,CA22 2EE,S,N,F,22,,Windrigg Close,,Egremont
+2023-07-19,125500,CA22 2ED,T,N,F,32,,East Road,,Egremont
+2023-07-07,120000,CA22 2EY,S,N,F,7,,Keats Drive,,Egremont
+2023-06-30,99000,CA22 2RX,S,N,F,59,,Thorny Road,Thornhill,Egremont
+2023-06-21,360000,CA22 2WF,D,N,F,3,,Hemplin Gardens,Nethertown,Egremont
+2023-06-21,216000,CA22 2JT,D,N,F,2,,Ashley Way,,Egremont
+2023-06-09,134000,CA22 2UX,T,N,F,23,,Croftlands,Bigrigg,Egremont
+2023-06-09,60000,CA22 2QS,S,N,F,23,,Greenmoor Road,,Egremont
+2023-06-08,152500,CA22 2LA,S,N,F,54,,Kings Drive,,Egremont
+2023-05-31,88500,CA22 2HT,T,N,F,8,,The Willows,,Egremont
+2023-05-26,90000,CA22 2PR,T,N,F,17,,North Road,,Egremont
+2023-05-26,93000,CA22 2ED,T,N,F,3,,East Road,,Egremont
+2023-05-26,102000,CA22 2AY,T,N,F,10,,South Street,,Egremont
+2023-05-25,50000,CA22 2LR,F,N,L,5,,Hagget End Close,,Egremont
+2023-05-12,85000,CA22 2QB,T,N,F,21,,Howbank Road,,Egremont
+2023-05-12,215000,CA22 2LX,D,N,F,Ty Oen,,Hagget End,,Egremont
+2023-05-12,97000,CA22 2HW,S,N,F,33,,The Rowans,,Egremont
+2023-04-28,100000,CA22 2HY,T,N,F,3,,The Laurels,,Egremont
+2023-04-28,112500,CA22 2FB,T,N,F,1,,Station Close,,Egremont
+2023-04-28,120000,CA22 2ET,T,N,F,46,,Dent View,,Egremont
+2023-04-25,118000,CA22 2SD,S,N,F,2,,Wodow Road,Thornhill,Egremont
+2023-04-25,57000,CA22 2EG,T,N,F,48,,Brisco Mount,,Egremont
+2023-04-24,80000,CA22 2BB,T,N,F,8,,St Bridgets Lane,,Egremont
+2023-04-21,425000,CA22 2UP,D,N,F,Sandy Bank,,,Coulderton,Egremont
+2023-04-21,39900,CA22 2EP,F,N,L,4,,Wyndham Way,,Egremont
+2023-04-21,90500,CA22 2BJ,S,N,F,31,,Park View,,Egremont
+2023-04-18,45000,CA22 2UN,D,N,F,Island View,,,Nethertown,Egremont
+2023-04-14,100000,CA22 2QF,S,N,F,13,,Smithfield Road,,Egremont
+2023-04-13,90000,CA22 2QF,S,N,F,16,,Smithfield Road,,Egremont
+2023-04-06,410000,CA22 2WF,D,N,F,5,,Hemplin Gardens,Nethertown,Egremont
+2023-04-03,250000,CA22 2RA,S,N,F,7,,Jubilee Gardens,Bigrigg,Egremont
+2023-03-31,145000,CA22 2JL,S,N,F,20,,Fellview Drive,,Egremont
+2023-03-31,90000,CA22 2EF,T,N,F,46,,East Road,,Egremont
+2023-03-30,400000,CA22 2WF,D,N,F,4,,Hemplin Gardens,Nethertown,Egremont
+2023-03-28,50000,CA22 2JB,T,N,F,1,,The Ferns,,Egremont
+2023-03-28,67000,CA22 2EF,T,N,F,66,,East Road,,Egremont
+2023-03-14,360000,CA22 2WF,D,N,F,1,,Hemplin Gardens,Nethertown,Egremont
+2023-03-03,105000,CA22 2AH,T,N,F,14,,Lamb Lane,,Egremont
+2023-02-27,185000,CA22 2FJ,S,Y,F,15,,Florence Drive,,Egremont
+2023-02-27,100000,CA22 2BS,S,N,F,22,,Sunnyside,,Egremont
+2023-02-24,169950,CA22 2AX,D,N,F,Mill Court,4,South Street,,Egremont
+2023-02-23,190000,CA22 2JT,D,N,F,6,,Ashley Way,,Egremont
+2023-02-23,265000,CA22 2JJ,D,N,F,20,,Westfield Drive,,Egremont
+2023-02-17,118000,CA22 2UX,T,N,F,62,,Croftlands,Bigrigg,Egremont
+2023-02-17,82500,CA22 2EW,F,N,L,32,,Christy Place,,Egremont
+2023-02-17,128000,CA22 2ET,S,N,F,74,,Dent View,,Egremont
+2023-02-06,75000,CA22 2HP,T,N,F,1,,The Rowans,,Egremont
+2023-01-27,123000,CA22 2RJ,T,N,F,6,,Chapel Terrace,Thornhill,Egremont
+2023-01-27,111000,CA22 2EY,T,N,F,21,,Keats Drive,,Egremont
+2023-01-20,175000,CA22 2TS,S,N,F,2,,Springfield Gardens,Bigrigg,Egremont
+2023-01-04,105000,CA22 2RT,S,N,F,17,,High Road,Thornhill,Egremont
+2022-12-21,330000,CA22 2PQ,T,N,F,Salutations,,,Haile,Egremont
+2022-12-20,135000,CA22 2SS,D,N,F,49,,The Crescent,Thornhill,Egremont
+2022-12-16,39950,CA22 2EP,T,N,L,6,,Wyndham Way,,Egremont
+2022-12-15,87500,CA22 2PR,T,N,F,25,,North Road,,Egremont
+2022-12-15,185000,CA22 2JP,T,N,L,1,,Bookwell,,Egremont
+2022-12-14,80000,CA22 2SD,S,N,F,18,,Wodow Road,Thornhill,Egremont
+2022-12-13,350000,CA22 2PQ,S,N,F,Woodside,,,Haile,Egremont
+2022-12-08,100000,CA22 2HW,T,N,F,26,,The Rowans,,Egremont
+2022-11-28,225000,CA22 2JL,S,N,F,16,,Fellview Drive,,Egremont
+2022-11-25,100000,CA22 2QR,S,N,F,14,,Greenmoor Road,,Egremont
+2022-11-24,129995,CA22 2HG,S,N,F,20,,Wordsworth Close,,Egremont
+2022-11-22,350000,CA22 2PD,D,N,F,Red Ghyll,,,Haile,Egremont
+2022-11-18,124950,CA22 2BL,S,N,F,18,,Central Avenue,,Egremont
+2022-11-17,272000,CA22 2QX,D,N,F,2,,Longlands Close,,Egremont
+2022-11-17,39900,CA22 2EZ,T,N,F,26,,Croadalla Avenue,,Egremont
+2022-11-10,90000,CA22 2SW,S,N,F,3,,The Crescent,Thornhill,Egremont
+2022-11-09,383000,CA22 2TX,D,N,F,Jubilee House,,,Bigrigg,Egremont
+2022-10-28,185000,CA22 2UP,D,N,F,The Chalet,,,Coulderton,Egremont
+2022-10-28,498000,CA22 2UH,D,N,F,Sea Breeze Lodge,,,Nethertown,Egremont
+2022-10-28,127500,CA22 2NS,T,N,F,3,,Scurgill Terrace,,Egremont
+2022-10-28,220000,CA22 2JT,S,N,F,1,,Ashley Way,,Egremont
+2022-10-28,255000,CA22 2DY,D,N,F,Patri,,Wyndham Place,,Egremont
+2022-10-21,83000,CA22 2LB,T,N,F,30,,Kings Drive,,Egremont
+2022-10-14,117000,CA22 2UX,T,N,F,30,,Croftlands,Bigrigg,Egremont
+2022-10-14,120000,CA22 2UX,T,N,F,22,,Croftlands,Bigrigg,Egremont
+2022-10-14,340000,CA22 2UH,D,N,F,Ocean Way,,,Nethertown,Egremont
+2022-10-12,110000,CA22 2FB,T,N,F,31,,Station Close,,Egremont
+2022-09-30,140000,CA22 2RN,T,N,F,12,,Cringlethwaite Terrace,,Egremont
+2022-09-30,95000,CA22 2EZ,T,N,F,28,,Croadalla Avenue,,Egremont
+2022-09-27,92000,CA22 2HT,T,N,F,21,,The Willows,,Egremont
+2022-09-26,259950,CA22 2UU,D,N,F,33,,Chapel Street,Bigrigg,Egremont
+2022-09-23,131000,CA22 2ET,T,N,F,25,,Dent View,,Egremont
+2022-09-21,77000,CA22 2LG,S,N,F,7,,Royal Drive,,Egremont
+2022-09-20,99950,CA22 2RX,S,N,F,12,,Thorny Road,Thornhill,Egremont
+2022-09-20,72000,CA22 2PR,T,N,F,41,,North Road,,Egremont
+2022-09-15,187000,CA22 2ED,T,N,F,9,,East Road,,Egremont
+2022-09-09,289999,CA22 2TX,S,N,F,Sierra,,,Bigrigg,Egremont
+2022-09-09,85000,CA22 2TQ,T,N,F,35,,Springfield Road,Bigrigg,Egremont
+2022-09-02,93000,CA22 2QW,T,N,F,8,,Old Smithfield,,Egremont
+2022-08-26,99500,CA22 2QB,T,N,F,36,,Howbank Road,,Egremont
+2022-08-22,100000,CA22 2HZ,T,N,F,12,,The Elms,,Egremont
+2022-08-19,120000,CA22 2QG,T,N,F,31,,The Crescent,,Egremont
+2022-08-17,85500,CA22 2LB,S,N,F,67,,Kings Drive,,Egremont
+2022-08-12,68000,CA22 2RS,T,N,F,12,,High Road,Thornhill,Egremont
+2022-08-12,130000,CA22 2RE,T,N,F,28,,Bridge End,,Egremont
+2022-08-12,231950,CA22 2NQ,D,N,F,5,,Fair View,,Egremont
+2022-08-11,70000,CA22 2EQ,T,N,F,1,,Brisco Road,,Egremont
+2022-08-08,140000,CA22 2UX,S,N,F,16,,Croftlands,Bigrigg,Egremont
+2022-08-08,270000,CA22 2UA,T,N,F,Ellerbeck Barns,2,,,Egremont
+2022-08-01,97000,CA22 2BE,S,N,F,10,,Nelson Square,,Egremont
+2022-07-29,275000,CA22 2SU,D,N,F,37,,Thorntrees Drive,Thornhill,Egremont
+2022-07-28,295000,CA22 2SQ,D,N,F,Braemar,,Ehen Road,Thornhill,Egremont
+2022-07-28,142000,CA22 2SD,S,N,F,26,,Wodow Road,Thornhill,Egremont
+2022-07-28,95000,CA22 2RJ,T,N,F,4,,Chapel Terrace,Thornhill,Egremont
+2022-07-26,139000,CA22 2BE,S,N,F,6,,Nelson Square,,Egremont
+2022-07-11,85000,CA22 2PT,T,N,F,5,,Longcroft,,Egremont
+2022-07-08,86000,CA22 2PR,T,N,F,69,,North Road,,Egremont
+2022-07-01,360000,CA22 2WE,D,N,F,3,,Pebbles Rise,Nethertown,Egremont
+2022-06-29,199995,CA22 2FJ,D,Y,F,21,,Florence Drive,,Egremont
+2022-06-29,205995,CA22 2FJ,D,Y,F,1,,Florence Drive,,Egremont
+2022-06-28,187500,CA22 2TU,T,N,F,6,,St Johns Terrace,Bigrigg,Egremont
+2022-06-23,77000,CA22 2QF,S,N,F,5,,Smithfield Road,,Egremont
+2022-06-22,225000,CA22 2XA,D,N,F,2,,Peel Gardens,Bigrigg,Egremont
+2022-06-17,92000,CA22 2QL,S,N,F,5,,Croadalla Avenue,,Egremont
+2022-06-17,156995,CA22 2FJ,S,Y,F,23,,Florence Drive,,Egremont
+2022-06-13,160000,CA22 2ED,T,N,F,6,,East Road,,Egremont
+2022-06-10,176000,CA22 2LW,S,N,F,4,,Daleview Close,,Egremont
+2022-06-08,68000,CA22 2JE,T,N,F,8,,The Larches,,Egremont
+2022-06-06,200000,CA22 2TS,D,N,F,5,,Springfield Gardens,Bigrigg,Egremont
+2022-06-01,180000,CA22 2LX,T,N,F,10,,Hagget End,,Egremont
+2022-05-30,540000,CA22 2PD,D,N,F,Orchard Brow Farm,,,Haile,Egremont
+2022-05-30,168995,CA22 2FJ,S,Y,F,16,,Florence Drive,,Egremont
+2022-05-27,35000,CA22 2RG,T,N,F,8,,Vale View,,Egremont
+2022-05-27,132500,CA22 2BS,S,N,F,16,,Sunnyside,,Egremont
+2022-05-25,85000,CA22 2SW,S,N,F,33,,The Crescent,Thornhill,Egremont
+2022-05-04,105000,CA22 2FB,T,N,F,8,,Station Close,,Egremont
+2022-05-04,133000,CA22 2ET,T,N,F,59,,Dent View,,Egremont
+2022-05-04,70000,CA22 2EG,T,N,F,37,,Brisco Mount,,Egremont
+2022-04-27,58500,CA22 2TQ,T,N,F,38,,Springfield Road,Bigrigg,Egremont
+2022-04-27,74000,CA22 2QF,S,N,F,9,,Smithfield Road,,Egremont
+2022-04-26,125000,CA22 2HQ,S,N,F,9,,Tennyson Drive,,Egremont
+2022-04-25,140000,CA22 2SG,S,N,F,6,,Harpur Place,Thornhill,Egremont
+2022-04-25,100000,CA22 2EZ,T,N,F,27,,Croadalla Avenue,,Egremont
+2022-04-21,79000,CA22 2JP,T,N,L,5,,Bookwell,,Egremont
+2022-04-21,90000,CA22 2AH,T,N,F,14,,Lamb Lane,,Egremont
+2022-04-14,73500,CA22 2PR,T,N,F,12,,North Road,,Egremont
+2022-04-13,109950,CA22 2JA,T,N,F,27,,The Limes,,Egremont
+2022-04-13,94000,CA22 2HL,S,N,F,5,,Goldsmith Road,,Egremont
+2022-04-11,55000,CA22 2DW,T,N,F,15,,Main Street,,Egremont
+2022-04-08,119950,CA22 2LA,S,N,F,51,,Kings Drive,,Egremont
+2022-04-08,119950,CA22 2FB,T,N,F,25,,Station Close,,Egremont
+2022-04-08,140000,CA22 2EF,T,N,F,53,,East Road,,Egremont
+2022-04-04,102500,CA22 2HX,T,N,F,11,,The Oaks,,Egremont
+2022-03-31,237995,CA22 2FJ,D,Y,F,17,,Florence Drive,,Egremont
+2022-03-30,172500,CA22 2RA,S,N,F,11,,Jubilee Gardens,Bigrigg,Egremont
+2022-03-30,267000,CA22 2JS,D,N,F,Greenlea,,Greendykes,,Egremont
+2022-03-30,221000,CA22 2DY,S,N,F,2,,Wyndham Place,,Egremont
+2022-03-30,139950,CA22 2BJ,S,N,F,8,,Park View,,Egremont
+2022-03-25,164995,CA22 2FJ,S,Y,F,22,,Florence Drive,,Egremont
+2022-03-25,85000,CA22 2EF,T,N,F,42,,East Road,,Egremont
+2022-03-25,75000,CA22 2DJ,T,N,F,86,,Main Street,,Egremont
+2022-03-23,117000,CA22 2SG,T,N,F,14,,Harpur Place,Thornhill,Egremont
+2022-03-22,538000,CA22 2PW,D,N,F,2,,The Croft,Wilton,Egremont
+2022-03-18,69000,CA22 2PR,T,N,F,55,,North Road,,Egremont
+2022-03-09,54950,CA22 2QT,S,N,F,12,,Copeland Avenue,,Egremont
+2022-03-04,78500,CA22 2ED,T,N,F,32,,East Road,,Egremont
+2022-03-02,240000,CA22 2XA,D,N,F,5,,Peel Gardens,Bigrigg,Egremont
+2022-02-25,232000,CA22 2JH,D,N,F,22,,Parklands Drive,,Egremont
+2022-02-25,97500,CA22 2JB,T,N,F,10,,The Ferns,,Egremont
+2022-02-11,312500,CA22 2PD,D,N,F,Bucks Head,,,Haile,Egremont
+2022-02-10,187500,CA22 2JT,D,N,F,2,,Ashley Way,,Egremont
+2022-02-10,132000,CA22 2ED,T,N,F,26,,East Road,,Egremont
+2022-02-04,92000,CA22 2TQ,T,N,F,27,,Springfield Road,Bigrigg,Egremont
+2022-02-04,114279,CA22 2FJ,S,Y,F,25,,Florence Drive,,Egremont
+2022-01-28,145000,CA22 2RL,S,N,F,11,,Woodbank,,Egremont
+2022-01-28,174995,CA22 2FJ,S,Y,F,24,,Florence Drive,,Egremont
+2022-01-25,150000,CA22 2JL,S,N,F,12,,Fellview Drive,,Egremont
+2022-01-21,103500,CA22 2TH,T,N,F,38,,Bankend View,Bigrigg,Egremont
+2022-01-17,90000,CA22 2SX,T,N,F,The Reading Rooms,8,Springfield Road,Bigrigg,Egremont
+2022-01-11,38000,CA22 2RG,T,N,F,9,,Vale View,,Egremont
+2022-01-10,229950,CA22 2QZ,D,N,F,22,,Langhorn Court,,Egremont
+2022-01-06,310000,CA22 2TD,D,N,F,Claremont,,,Woodend,Egremont
+2022-01-06,179950,CA22 2SX,T,N,F,The Reading Rooms,9,Springfield Road,Bigrigg,Egremont
+2021-12-23,199995,CA22 2FJ,D,Y,F,29,,Florence Drive,,Egremont
+2021-12-22,181995,CA22 2FJ,D,Y,F,28,,Florence Drive,,Egremont
+2021-12-21,118000,CA22 2JT,S,N,F,52,,Ashley Way,,Egremont
+2021-12-20,160995,CA22 2FJ,D,Y,F,27,,Florence Drive,,Egremont
+2021-12-20,178995,CA22 2FJ,D,Y,F,26,,Florence Drive,,Egremont
+2021-12-20,104000,CA22 2EF,T,N,F,47,,East Road,,Egremont
+2021-12-17,45000,CA22 2LR,F,N,L,14,,Hagget End Close,,Egremont
+2021-12-17,127000,CA22 2BJ,T,N,F,7,,Park View,,Egremont
+2021-12-14,91000,CA22 2HT,T,N,F,29,,The Willows,,Egremont
+2021-12-03,239950,CA22 2QU,D,N,F,19,,Clintz Road,,Egremont
+2021-12-03,72500,CA22 2PY,T,N,F,45,,Smithfield Road,,Egremont
+2021-12-02,165000,CA22 2LX,D,N,F,Kerkira,,Hagget End,,Egremont
+2021-12-02,120000,CA22 2BU,S,N,F,25,,High Lea,,Egremont
+2021-12-01,75000,CA22 2PR,T,N,F,61,,North Road,,Egremont
+2021-12-01,159000,CA22 2BJ,S,N,F,30,,Park View,,Egremont
+2021-11-29,82000,CA22 2TN,T,N,F,14,,Springfield Road,Bigrigg,Egremont
+2021-11-26,129950,CA22 2SS,S,N,F,45,,The Crescent,Thornhill,Egremont
+2021-11-26,189995,CA22 2FJ,D,Y,F,18,,Florence Drive,,Egremont
+2021-11-22,235000,CA22 2DA,D,N,F,14,,Spedding Close,,Egremont
+2021-11-18,160000,CA22 2QA,S,N,F,5,,Beech Avenue,,Egremont
+2021-11-11,132500,CA22 2SX,T,N,F,The Reading Rooms,2,Springfield Road,Bigrigg,Egremont
+2021-11-05,80000,CA22 2HT,S,N,F,51,,The Willows,,Egremont
+2021-11-04,57000,CA22 2QB,T,N,F,36,,Howbank Road,,Egremont
+2021-11-03,60000,CA22 2TQ,T,N,F,29,,Springfield Road,Bigrigg,Egremont
+2021-11-03,120000,CA22 2BS,T,N,F,13,,Sunnyside,,Egremont
+2021-10-29,32500,CA22 2RZ,T,N,F,31,,Thorny Road,Thornhill,Egremont
+2021-10-29,173000,CA22 2JT,D,N,F,31,,Ashley Way,,Egremont
+2021-10-26,169995,CA22 2JU,S,N,F,11,,Ling Road,,Egremont
+2021-10-26,115000,CA22 2EF,T,N,F,57,,East Road,,Egremont
+2021-10-25,365000,CA22 2TL,D,N,F,Park House Cottage,,Springfield Road,Bigrigg,Egremont
+2021-10-22,85000,CA22 2SP,T,N,F,12,,The Crescent,Thornhill,Egremont
+2021-10-22,71000,CA22 2JB,T,N,F,6,,The Ferns,,Egremont
+2021-10-20,74500,CA22 2PY,T,N,F,51,,Smithfield Road,,Egremont
+2021-10-18,285000,CA22 2NL,D,N,F,Bleach Green,Castle Vale,,,Egremont
+2021-10-11,160000,CA22 2JU,S,N,F,14,,Ling Road,,Egremont
+2021-10-04,115000,CA22 2UE,T,N,F,4,,Low Mill,,Egremont
+2021-10-01,110000,CA22 2SA,S,N,F,6,,New Road,Thornhill,Egremont
+2021-10-01,100000,CA22 2RN,T,N,F,25,,Cringlethwaite Terrace,,Egremont
+2021-09-30,169995,CA22 2FJ,D,Y,F,9,,Florence Drive,,Egremont
+2021-09-30,229995,CA22 2FJ,D,Y,F,20,,Florence Drive,,Egremont
+2021-09-29,220000,CA22 2TJ,D,N,F,Kaysden,,Springfield Road,Bigrigg,Egremont
+2021-09-29,73000,CA22 2EW,F,N,L,20,,Christy Place,,Egremont
+2021-09-28,259950,CA22 2RA,D,N,F,2,,Jubilee Gardens,Bigrigg,Egremont
+2021-09-27,180000,CA22 2LN,D,N,F,42,,Daleview Gardens,,Egremont
+2021-09-24,166995,CA22 2FJ,D,Y,F,8,,Florence Drive,,Egremont
+2021-09-24,229995,CA22 2FJ,D,Y,F,19,,Florence Drive,,Egremont
+2021-09-24,156995,CA22 2FJ,S,Y,F,12,,Florence Drive,,Egremont
+2021-09-23,80000,CA22 2PR,T,N,F,17,,North Road,,Egremont
+2021-09-22,134950,CA22 2FB,S,N,F,11,,Station Close,,Egremont
+2021-09-21,92500,CA22 2JD,T,N,F,1,,The Hollies,,Egremont
+2021-09-17,83500,CA22 2TQ,T,N,F,40,,Springfield Road,Bigrigg,Egremont
+2021-09-17,80000,CA22 2BS,T,N,F,19,,Sunnyside,,Egremont
+2021-09-10,89000,CA22 2NS,T,N,F,15,,Scurgill Terrace,,Egremont
+2021-09-10,80000,CA22 2HT,T,N,F,15,,The Willows,,Egremont
+2021-09-08,95500,CA22 2QD,S,N,F,38,,Gillfoot Road,,Egremont
+2021-08-27,86000,CA22 2TQ,S,N,F,55,,Springfield Road,Bigrigg,Egremont
+2021-08-27,127000,CA22 2JU,S,N,F,6,,Ling Road,,Egremont
+2021-08-27,176995,CA22 2FJ,D,Y,F,7,,Florence Drive,,Egremont
+2021-08-27,111819,CA22 2FJ,S,Y,F,11,,Florence Drive,,Egremont
+2021-08-24,165000,CA22 2NA,D,N,F,3,,Castle View,,Egremont
+2021-08-20,230000,CA22 2SU,D,N,F,19,,Thorntrees Drive,Thornhill,Egremont
+2021-08-20,148000,CA22 2NY,T,N,F,3,,Blackbeck Cottages,Blackbeck,Egremont
+2021-08-20,215000,CA22 2JU,D,N,F,25,,Ling Road,,Egremont
+2021-08-19,262000,CA22 2NE,D,N,F,Alvor,,,,Egremont
+2021-08-17,115000,CA22 2QG,T,N,F,10,,The Crescent,,Egremont
+2021-08-16,150000,CA22 2SZ,D,N,F,Whincroft,,,Woodend,Egremont
+2021-08-16,175000,CA22 2QZ,S,N,F,25,,Langhorn Court,,Egremont
+2021-08-16,202000,CA22 2EE,S,N,F,35,,Windrigg Close,,Egremont
+2021-08-16,169950,CA22 2AX,T,N,F,Mill Court,2,South Street,,Egremont
+2021-08-13,190000,CA22 2RU,D,N,F,9,,Dent Road,Thornhill,Egremont
+2021-08-13,90000,CA22 2ED,T,N,F,17,,East Road,,Egremont
+2021-08-09,330000,CA22 2NY,D,N,F,The Old Barn,,,Blackbeck,Egremont
+2021-08-06,499000,CA22 2UA,D,N,F,Ellerbeck Barns,5,,,Egremont
+2021-07-30,186995,CA22 2FJ,D,Y,F,10,,Florence Drive,,Egremont
+2021-07-23,65000,CA22 2HY,T,N,F,14,,The Laurels,,Egremont
+2021-07-22,82000,CA22 2JE,T,N,F,10,,The Larches,,Egremont
+2021-07-19,130000,CA22 2TH,T,N,F,37,,Bankend View,Bigrigg,Egremont
+2021-07-16,150000,CA22 2JL,S,N,F,14,,Fellview Drive,,Egremont
+2021-07-05,67215,CA22 2DJ,T,N,F,2A,,Main Street,,Egremont
+2021-07-01,50000,CA22 2AH,T,N,F,5,,Lamb Lane,,Egremont
+2021-06-30,235500,CA22 2TP,D,N,F,8,,Cain Street,Bigrigg,Egremont
+2021-06-30,99950,CA22 2BN,S,N,F,7,,Tower View,,Egremont
+2021-06-29,75000,CA22 2JP,T,N,L,4,,Bookwell,,Egremont
+2021-06-28,174995,CA22 2FJ,D,Y,F,6,,Florence Drive,,Egremont
+2021-06-28,224400,CA22 2FJ,D,Y,F,5,,Florence Drive,,Egremont
+2021-06-25,90000,CA22 2SB,S,N,F,1,,Grange Close,Thornhill,Egremont
+2021-06-25,174995,CA22 2FJ,D,Y,F,4,,Florence Drive,,Egremont
+2021-06-25,114279,CA22 2FJ,S,Y,F,2,,Florence Drive,,Egremont
+2021-06-11,325000,CA22 2UJ,D,N,F,Rowlee House,,,Nethertown,Egremont
+2021-06-11,65000,CA22 2DJ,T,N,F,83,,Main Street,,Egremont
+2021-06-07,175000,CA22 2UH,D,N,F,Peat Gate,,,Nethertown,Egremont
+2021-05-28,154995,CA22 2FJ,S,Y,F,3,,Florence Drive,,Egremont
+2021-05-26,160000,CA22 2EH,D,N,F,6,,Riverside Drive,,Egremont
+2021-05-26,150000,CA22 2ED,T,N,F,11,,East Road,,Egremont
+2021-05-20,102000,CA22 2BE,S,N,F,6,,Nelson Square,,Egremont
+2021-05-17,132500,CA22 2UH,T,N,F,Shire Cottage,,,Nethertown,Egremont
+2021-05-07,113000,CA22 2TU,T,N,F,8,,St Johns Terrace,Bigrigg,Egremont
+2021-05-07,67000,CA22 2TQ,T,N,F,32,,Springfield Road,Bigrigg,Egremont
+2021-04-30,180000,CA22 2TQ,T,N,F,51,,Springfield Road,Bigrigg,Egremont
+2021-04-30,175000,CA22 2JH,D,N,F,8,,Parklands Drive,,Egremont
+2021-04-30,180000,CA22 2JH,D,N,F,2,,Parklands Drive,,Egremont
+2021-04-28,64000,CA22 2RG,T,N,F,14,,Vale View,,Egremont
+2021-04-27,62000,CA22 2TN,T,N,F,16,,Springfield Road,Bigrigg,Egremont
+2021-04-27,175000,CA22 2QZ,S,N,F,23,,Langhorn Court,,Egremont
+2021-04-26,92000,CA22 2RY,T,N,F,52,,Thorny Road,Thornhill,Egremont
+2021-04-26,185000,CA22 2ER,D,N,F,10,,Rowntree Gardens,,Egremont
+2021-04-16,220000,CA22 2SU,D,N,F,30,,Thorntrees Drive,Thornhill,Egremont
+2021-04-16,270000,CA22 2SQ,D,N,F,Braemar,,Ehen Road,Thornhill,Egremont
+2021-04-16,77000,CA22 2RY,T,N,F,46,,Thorny Road,Thornhill,Egremont
+2021-04-16,450000,CA22 2PJ,D,N,F,High Croft,,,Wilton,Egremont
+2021-04-15,550000,CA22 2TY,D,N,F,Low Walton Farm,,,,Egremont
+2021-04-15,290000,CA22 2TB,D,N,F,Beechfield,,,Woodend,Egremont
+2021-04-15,112500,CA22 2AT,T,N,F,3,,Croft Terrace,,Egremont
+2021-03-31,95000,CA22 2QF,S,N,F,20,,Smithfield Road,,Egremont
+2021-03-29,145000,CA22 2JU,S,N,F,14,,Ling Road,,Egremont
+2021-03-29,310000,CA22 2JP,D,N,F,Castle Mount,,Bookwell,,Egremont
+2021-03-26,85000,CA22 2QD,S,N,F,42,,Gillfoot Road,,Egremont
+2021-03-25,290000,CA22 2TB,D,N,F,Langthwaite,,,Woodend,Egremont
+2021-03-25,100000,CA22 2EU,T,N,F,14,,Coleridge Drive,,Egremont
+2021-03-25,76000,CA22 2DN,F,N,L,8,,Braithwaite Court,,Egremont
+2021-03-25,76000,CA22 2DN,F,N,F,7,,Braithwaite Court,,Egremont
+2021-03-19,85000,CA22 2QD,S,N,F,35,,Gillfoot Road,,Egremont
+2021-03-19,93000,CA22 2HL,S,N,F,14,,Goldsmith Road,,Egremont
+2021-03-17,112000,CA22 2BS,S,N,F,1,,Sunnyside,,Egremont
+2021-03-17,61000,CA22 2AH,T,N,F,18,,Lamb Lane,,Egremont
+2021-03-12,146500,CA22 2UX,S,N,F,52,,Croftlands,Bigrigg,Egremont
+2021-03-12,175000,CA22 2UE,S,N,F,Rope Mill Cottage,,Low Mill,,Egremont
+2021-03-12,92000,CA22 2TH,T,N,F,29,,Bankend View,Bigrigg,Egremont
+2021-03-12,165000,CA22 2RL,S,N,F,24,,Woodbank,,Egremont
+2021-03-12,280000,CA22 2NX,T,N,F,The Old Vicarage,,Oaklands,,Egremont
+2021-03-05,105000,CA22 2HH,S,N,F,7,,Southey Avenue,,Egremont
+2021-03-05,128000,CA22 2FB,T,N,F,27,,Station Close,,Egremont
+2021-03-01,85000,CA22 2EZ,T,N,F,27,,Croadalla Avenue,,Egremont
+2021-02-26,129000,CA22 2RN,T,N,F,8,,Cringlethwaite Terrace,,Egremont
+2021-02-26,363500,CA22 2PJ,D,N,F,West Holme,,,Wilton,Egremont
+2021-02-26,87000,CA22 2AH,T,N,F,20,,Lamb Lane,,Egremont
+2021-02-25,175000,CA22 2JL,S,N,F,10,,Fellview Drive,,Egremont
+2021-02-23,95000,CA22 2UX,T,N,F,34,,Croftlands,Bigrigg,Egremont
+2021-02-22,90000,CA22 2HT,S,N,F,45,,The Willows,,Egremont
+2021-02-19,115000,CA22 2RH,S,N,F,21,,Bridge End Park,,Egremont
+2021-02-19,92500,CA22 2QG,S,N,F,32,,The Crescent,,Egremont
+2021-02-19,235000,CA22 2LZ,D,N,F,2,,Sandy Grove,,Egremont
+2021-02-18,220000,CA22 2SU,D,N,F,9,,Thorntrees Drive,Thornhill,Egremont
+2021-02-18,105000,CA22 2SE,S,N,F,45,,Wodow Road,Thornhill,Egremont
+2021-02-18,274000,CA22 2NY,D,N,F,Ellerbank,,,Blackbeck,Egremont
+2021-02-18,155000,CA22 2JT,D,N,F,31,,Ashley Way,,Egremont
+2021-02-15,72500,CA22 2DN,F,N,L,3,,Braithwaite Court,,Egremont
+2021-02-11,347950,CA22 2SU,D,N,F,Stowmont,,Thorntrees Drive,Thornhill,Egremont
+2021-02-05,250000,CA22 2UA,T,N,F,Ellerbeck Barns,1,,,Egremont
+2021-01-28,85000,CA22 2RN,T,N,F,16,,Cringlethwaite Terrace,,Egremont
+2021-01-28,69000,CA22 2EG,T,N,F,30,,Brisco Mount,,Egremont
+2021-01-28,117500,CA22 2BG,S,N,F,14,,Meadow View,,Egremont
+2021-01-27,110000,CA22 2QL,T,N,F,8,,Croadalla Avenue,,Egremont
+2021-01-22,83000,CA22 2HL,S,N,F,6,,Goldsmith Road,,Egremont
+2021-01-22,105000,CA22 2EZ,T,N,F,13,,Croadalla Avenue,,Egremont
+2021-01-15,300000,CA22 2WE,D,N,F,2,,Pebbles Rise,Nethertown,Egremont
+2021-01-15,320000,CA22 2PJ,D,N,F,Hillside,,,Wilton,Egremont
+2021-01-06,410000,CA22 2PW,D,N,F,3,,The Croft,Wilton,Egremont

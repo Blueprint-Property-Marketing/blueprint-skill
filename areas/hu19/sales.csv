@@ -1,0 +1,617 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-19,153000,HU19 2LZ,S,N,F,2,,Egroms Lane,,Withernsea
+2026-07-31,185000,HU19 2PB,S,N,F,42,,Louville Avenue,,Withernsea
+2026-07-10,130000,HU19 2PG,T,N,F,5,,Chestnut Avenue,,Withernsea
+2026-06-26,245000,HU19 2PQ,D,N,F,2,,Hazel Avenue,,Withernsea
+2026-06-26,121000,HU19 2NY,T,N,F,31,,Seacroft Road,,Withernsea
+2026-06-26,90000,HU19 2AR,T,N,F,33,,Queen Street,,Withernsea
+2026-06-15,150000,HU19 2ER,S,N,F,52,,Carrs Meadow,,Withernsea
+2026-06-12,156000,HU19 2PE,S,N,F,22,,Oak Avenue,,Withernsea
+2026-06-05,95000,HU19 2HZ,T,N,F,11,,Princes Avenue,,Withernsea
+2026-05-22,99000,HU19 2NT,T,N,F,357,,Queen Street,,Withernsea
+2026-05-22,118000,HU19 2HS,T,N,F,1,,Lee Avenue Drive,,Withernsea
+2026-05-15,75000,HU19 2AL,T,N,F,14,,Alma Street,,Withernsea
+2026-05-11,170000,HU19 2PG,S,N,F,16A,,Chestnut Avenue,,Withernsea
+2026-05-08,145500,HU19 2NW,T,N,F,277,,Queen Street,,Withernsea
+2026-04-30,65000,HU19 2BL,T,N,F,5,,Butchers Place,,Withernsea
+2026-04-20,132000,HU19 2DE,S,N,F,8,,Heather Avenue,,Withernsea
+2026-04-17,125000,HU19 2JL,S,N,F,8,,St Nicholas Park,,Withernsea
+2026-04-17,62000,HU19 2AL,T,N,F,10,,Alma Street,,Withernsea
+2026-04-16,127000,HU19 2AT,T,N,F,26,,Hubert Street,,Withernsea
+2026-04-08,155000,HU19 2ER,S,N,F,32,,Carrs Meadow,,Withernsea
+2026-04-08,170000,HU19 2AX,S,N,F,147,,North Road,,Withernsea
+2026-03-31,220000,HU19 2NT,D,N,F,329,,Queen Street,,Withernsea
+2026-03-27,265000,HU19 2QZ,T,N,F,Bryony Cottage,1,Taylor Lane,Holmpton,Withernsea
+2026-03-27,110000,HU19 2BT,T,N,F,23,,Waxholme Road,,Withernsea
+2026-03-23,132000,HU19 2DY,T,N,F,41,,Hull Road,,Withernsea
+2026-03-19,210000,HU19 2BX,D,N,F,Black Mill Cottage,,,Waxholme,Withernsea
+2026-03-18,152000,HU19 2AR,T,N,F,1,,Queen Street,,Withernsea
+2026-03-17,129625,HU19 2TG,T,N,F,10,,Trinity Fields,,Withernsea
+2026-03-16,325000,HU19 2QQ,D,N,F,The Bungalow,,Smook Hills Road,Hollym,Withernsea
+2026-03-09,252000,HU19 2QS,T,N,F,Manor Lodge,,School Lane,Holmpton,Withernsea
+2026-03-09,240000,HU19 2QD,S,N,F,17,,Holmpton Road,,Withernsea
+2026-02-27,140000,HU19 2JA,T,N,F,40,,Princes Avenue,,Withernsea
+2026-02-27,86500,HU19 2HZ,T,N,F,51,,Princes Avenue,,Withernsea
+2026-02-20,130000,HU19 2JA,T,N,F,16,,Princes Avenue,,Withernsea
+2026-02-19,138500,HU19 2JX,T,N,F,13,,Park Avenue,,Withernsea
+2026-02-10,180000,HU19 2QH,S,N,F,Minora,,Withernsea Road,Hollym,Withernsea
+2026-02-10,125000,HU19 2DU,T,N,F,7,,Bannister Street,,Withernsea
+2026-01-30,180000,HU19 2JX,T,N,F,7,,Park Avenue,,Withernsea
+2026-01-30,154000,HU19 2DT,T,N,F,77,,Bannister Street,,Withernsea
+2026-01-28,70000,HU19 2AR,T,N,F,29,,Queen Street,,Withernsea
+2026-01-23,150000,HU19 2SQ,D,N,F,Ivy Cottage,,South Carr Dales Road,Hollym,Withernsea
+2026-01-21,125000,HU19 2EP,S,N,F,6,,Beaconsfield,,Withernsea
+2026-01-20,120000,HU19 2DU,T,N,F,28,,Bannister Street,,Withernsea
+2026-01-19,132500,HU19 2BB,S,N,F,9,,Seathorne,,Withernsea
+2026-01-16,100000,HU19 2NT,T,N,F,355,,Queen Street,,Withernsea
+2026-01-09,340000,HU19 2NZ,D,N,F,387,,Queen Street,,Withernsea
+2026-01-09,160000,HU19 2ER,D,N,F,62,,Carrs Meadow,,Withernsea
+2026-01-08,145000,HU19 2EW,S,N,F,37,,Beaconsfield,,Withernsea
+2026-01-07,175000,HU19 2DR,T,N,F,9,,Marine Parade,,Withernsea
+2025-12-19,126000,HU19 2TG,T,N,F,7,,Trinity Fields,,Withernsea
+2025-12-19,76000,HU19 2HU,S,N,F,52A,,South Cliff Road,,Withernsea
+2025-12-19,99950,HU19 2AE,T,N,F,8,,Southfield Avenue,,Withernsea
+2025-12-17,135000,HU19 2DT,T,N,F,79,,Bannister Street,,Withernsea
+2025-12-15,70000,HU19 2AU,T,N,F,63,,Arthur Street,,Withernsea
+2025-12-12,125000,HU19 2NY,T,N,F,33,,Seacroft Road,,Withernsea
+2025-12-11,207500,HU19 2EG,S,N,F,68,,Hull Road,,Withernsea
+2025-12-09,230000,HU19 2PL,D,N,F,"Greenlands, 51A",,Hollym Road,,Withernsea
+2025-12-05,225000,HU19 2EX,D,N,F,3,,Pasture Close,,Withernsea
+2025-12-05,150000,HU19 2ET,S,N,F,55,,The Glade,,Withernsea
+2025-12-05,100000,HU19 2AD,T,N,F,35,,Walter Street,,Withernsea
+2025-11-28,165000,HU19 2ER,S,N,F,14,,Carrs Meadow,,Withernsea
+2025-11-21,145000,HU19 2AN,T,N,F,5A,,George Street,,Withernsea
+2025-11-20,147500,HU19 2HF,T,N,F,14,,Railway Crescent,,Withernsea
+2025-11-18,87000,HU19 2JL,S,N,F,33,,St Nicholas Park,,Withernsea
+2025-11-14,135000,HU19 2DW,T,N,F,34,,The Promenade,,Withernsea
+2025-11-14,198995,HU19 2BW,D,Y,F,109,,St Peter Road,,Withernsea
+2025-11-10,230000,HU19 2ES,D,N,F,4,,Owthorne Grange,,Withernsea
+2025-11-04,230000,HU19 2PG,D,N,F,39,,Chestnut Avenue,,Withernsea
+2025-10-31,375000,HU19 2QN,D,N,F,The Glen,,North Leys Road,Hollym,Withernsea
+2025-10-31,100000,HU19 2JD,T,N,F,10,,Leo Terrace,,Withernsea
+2025-10-31,137745,HU19 2FD,S,Y,F,14,,St Mary Rise,,Withernsea
+2025-10-30,205000,HU19 2EX,D,N,F,4,,Pasture Close,,Withernsea
+2025-10-24,125000,HU19 2HR,S,N,F,30,,Lee Avenue,,Withernsea
+2025-10-17,83000,HU19 2NT,T,N,F,357,,Queen Street,,Withernsea
+2025-10-16,210000,HU19 2PD,D,N,F,170,,South Promenade,,Withernsea
+2025-10-16,65000,HU19 2HU,T,N,F,62,,South Cliff Road,,Withernsea
+2025-10-03,80000,HU19 2HX,T,N,F,8,,South Cliff Road,,Withernsea
+2025-10-03,175000,HU19 2EA,T,N,F,65,,Lascelles Avenue,,Withernsea
+2025-10-03,225795,HU19 2BW,D,Y,F,107,,St Peter Road,,Withernsea
+2025-09-29,230000,HU19 2QW,D,N,F,Dunoon,,Holmpton Road,Hollym,Withernsea
+2025-09-29,204995,HU19 2FD,D,Y,F,11,,St Mary Rise,,Withernsea
+2025-09-26,137745,HU19 2FD,S,Y,F,12,,St Mary Rise,,Withernsea
+2025-09-26,155000,HU19 2EB,S,N,F,28,,Lascelles Avenue,,Withernsea
+2025-09-22,120000,HU19 2HW,T,N,F,5,,Cheverton Avenue,,Withernsea
+2025-09-22,156745,HU19 2FD,S,Y,F,10,,St Mary Rise,,Withernsea
+2025-09-22,149999,HU19 2EW,S,N,F,79,,Beaconsfield,,Withernsea
+2025-09-19,156746,HU19 2FD,S,Y,F,8,,St Mary Rise,,Withernsea
+2025-09-09,177500,HU19 2JU,S,N,F,40,,Park Avenue,,Withernsea
+2025-09-05,180000,HU19 2EB,T,N,F,50,,Lascelles Avenue,,Withernsea
+2025-09-05,78000,HU19 2AE,T,N,F,5,,Southfield Avenue,,Withernsea
+2025-09-05,130000,HU19 2AB,S,N,F,1A,,Arthur Street,,Withernsea
+2025-09-02,95000,HU19 2AX,T,N,F,129,,North Road,,Withernsea
+2025-08-29,100000,HU19 2HW,S,N,F,27,,Cheverton Avenue,,Withernsea
+2025-08-29,130000,HU19 2ER,T,N,F,68,,Carrs Meadow,,Withernsea
+2025-08-22,120000,HU19 2DU,T,N,F,26,,Bannister Street,,Withernsea
+2025-08-21,156000,HU19 2RS,D,N,F,Langdales,,Northside Road,Hollym,Withernsea
+2025-08-21,65000,HU19 2PG,T,N,F,5,,Chestnut Avenue,,Withernsea
+2025-08-21,165000,HU19 2LP,S,N,F,37,,Ryecroft Drive,,Withernsea
+2025-08-21,220000,HU19 2EJ,D,N,F,Sunrae,,Hull Road,,Withernsea
+2025-08-18,132500,HU19 2AY,T,N,F,116,,North Road,,Withernsea
+2025-08-15,220000,HU19 2QP,D,N,F,Briarfield,,Withernsea Road,Holmpton,Withernsea
+2025-08-15,140000,HU19 2ET,S,N,F,35,,The Glade,,Withernsea
+2025-08-15,500000,HU19 2EH,D,N,F,Greythorn,,Hull Road,,Withernsea
+2025-08-08,250000,HU19 2PJ,D,N,F,30,,Hollym Road,,Withernsea
+2025-08-08,128000,HU19 2HL,T,N,F,6,,High Brighton Street,,Withernsea
+2025-08-08,70000,HU19 2AT,T,N,F,16,,Hubert Street,,Withernsea
+2025-08-01,250000,HU19 2QD,D,N,F,1,,Holmpton Road,,Withernsea
+2025-08-01,128000,HU19 2HL,T,N,F,10,,High Brighton Street,,Withernsea
+2025-07-31,157000,HU19 2PE,S,N,F,30,,Oak Avenue,,Withernsea
+2025-07-25,205000,HU19 2QW,D,N,F,Merravay,,Holmpton Road,Hollym,Withernsea
+2025-07-25,125000,HU19 2NA,S,N,F,55,,Egroms Lane,,Withernsea
+2025-07-21,172000,HU19 2EE,S,N,F,79,,Hull Road,,Withernsea
+2025-07-21,130000,HU19 2DT,T,N,F,53,,Bannister Street,,Withernsea
+2025-07-18,106000,HU19 2LP,S,N,F,45,,Ryecroft Drive,,Withernsea
+2025-07-17,80000,HU19 2JL,S,N,F,5,,St Nicholas Park,,Withernsea
+2025-07-17,140000,HU19 2HT,T,N,F,3,,Belvedere,,Withernsea
+2025-07-17,224195,HU19 2EU,D,Y,F,90,,St Peter Road,,Withernsea
+2025-07-11,85000,HU19 2AB,T,N,F,4,,Arthur Street,,Withernsea
+2025-07-08,140000,HU19 2QD,D,N,F,4,,Holmpton Road,,Withernsea
+2025-07-02,160000,HU19 2EL,D,N,F,17,,Carrs Meadow,,Withernsea
+2025-07-02,170000,HU19 2AU,T,N,F,64,,Arthur Street,,Withernsea
+2025-06-30,132995,HU19 2FD,S,Y,F,4,,St Mary Rise,,Withernsea
+2025-06-30,170000,HU19 2EA,S,N,F,9,,Lascelles Avenue,,Withernsea
+2025-06-27,125000,HU19 2HR,D,N,F,14,,Lee Avenue,,Withernsea
+2025-06-27,193795,HU19 2FD,D,Y,F,2,,St Mary Rise,,Withernsea
+2025-06-27,168000,HU19 2ER,S,N,F,34,,Carrs Meadow,,Withernsea
+2025-06-26,193795,HU19 2FD,D,Y,F,1,,St Mary Rise,,Withernsea
+2025-06-26,157500,HU19 2ET,D,N,F,31,,The Glade,,Withernsea
+2025-06-24,80000,HU19 2BT,T,N,F,25,,Waxholme Road,,Withernsea
+2025-06-23,80000,HU19 2HL,S,N,F,17,,High Brighton Street,,Withernsea
+2025-06-12,180000,HU19 2AJ,T,N,F,85,,Queen Street,,Withernsea
+2025-06-02,137000,HU19 2BB,S,N,F,31,,Seathorne,,Withernsea
+2025-05-30,210000,HU19 2JA,T,N,F,32,,Princes Avenue,,Withernsea
+2025-05-29,128000,HU19 2PG,T,N,F,4,,Chestnut Avenue,,Withernsea
+2025-05-23,101000,HU19 2JU,T,N,F,8,,Park Avenue,,Withernsea
+2025-05-12,138000,HU19 2JZ,S,N,F,10,,Kirkfield Road,,Withernsea
+2025-05-09,185000,HU19 2EN,D,N,F,17,,Chellsway,,Withernsea
+2025-05-09,155000,HU19 2DX,T,N,F,8,,Young Street,,Withernsea
+2025-05-02,230000,HU19 2PE,D,N,F,23,,Oak Avenue,,Withernsea
+2025-05-02,155000,HU19 2AY,T,N,F,102,,North Road,,Withernsea
+2025-04-24,172500,HU19 2NL,T,N,F,"Tower House, 269",,Queen Street,,Withernsea
+2025-04-24,87000,HU19 2AB,T,N,F,18,,Arthur Street,,Withernsea
+2025-04-17,172000,HU19 2DP,T,N,F,9,,The Promenade,,Withernsea
+2025-04-16,120000,HU19 2BT,T,N,F,6,,Waxholme Road,,Withernsea
+2025-04-11,165000,HU19 2DZ,T,N,F,34,,Hull Road,,Withernsea
+2025-03-31,146000,HU19 2EX,S,N,F,5,,Pasture Close,,Withernsea
+2025-03-28,360000,HU19 2QR,D,N,F,Dovecote,,,Holmpton,Withernsea
+2025-03-28,165000,HU19 2PN,D,N,F,65,,Withernsea Road,,Withernsea
+2025-03-28,115000,HU19 2JA,T,N,F,62,,Princes Avenue,,Withernsea
+2025-03-28,83000,HU19 2DU,T,N,F,14,,Bannister Street,,Withernsea
+2025-03-27,290000,HU19 2PG,S,N,F,25A,,Chestnut Avenue,,Withernsea
+2025-03-27,195000,HU19 2JY,S,N,F,176,,Queen Street,,Withernsea
+2025-03-27,180000,HU19 2ET,D,N,F,8,,The Glade,,Withernsea
+2025-03-26,410000,HU19 2DD,D,N,F,Little England Hills Farm,,Hull Road,Rimswell,Withernsea
+2025-03-25,60000,HU19 2HU,T,N,F,64,,South Cliff Road,,Withernsea
+2025-03-25,180000,HU19 2ES,D,N,F,11,,Owthorne Grange,,Withernsea
+2025-03-24,127500,HU19 2JZ,S,N,F,12,,Kirkfield Road,,Withernsea
+2025-03-21,165000,HU19 2JA,T,N,F,72,,Princes Avenue,,Withernsea
+2025-03-20,275000,HU19 2EG,D,N,F,46,,Hull Road,,Withernsea
+2025-03-19,85000,HU19 2DZ,T,N,F,6,,Hull Road,,Withernsea
+2025-03-14,175000,HU19 2ET,D,N,F,4,,The Glade,,Withernsea
+2025-03-11,235000,HU19 2PY,D,N,F,16,,Newsham Gardens,,Withernsea
+2025-03-11,410000,HU19 2PD,D,N,F,175,,South Promenade,,Withernsea
+2025-03-07,300000,HU19 2QN,D,N,F,Bidston,,North Leys Road,Hollym,Withernsea
+2025-03-07,210000,HU19 2PG,D,N,F,19,,Chestnut Avenue,,Withernsea
+2025-03-07,106250,HU19 2HZ,D,N,F,63,,Princes Avenue,,Withernsea
+2025-03-07,138500,HU19 2AY,T,N,F,98,,North Road,,Withernsea
+2025-03-05,110000,HU19 2PJ,S,N,F,8,,Hollym Road,,Withernsea
+2025-03-05,185000,HU19 2EN,S,N,F,1,,Chellsway,,Withernsea
+2025-03-03,225000,HU19 2DX,T,N,F,15,,Young Street,,Withernsea
+2025-02-28,160000,HU19 2DZ,T,N,F,36,,Hull Road,,Withernsea
+2025-02-27,99900,HU19 2AD,T,N,F,27,,Walter Street,,Withernsea
+2025-02-21,80000,HU19 2PN,T,N,F,55,,Withernsea Road,,Withernsea
+2025-02-18,118500,HU19 2EW,S,N,F,123,,Beaconsfield,,Withernsea
+2025-02-14,192500,HU19 2DR,T,N,F,1,,Marine Parade,,Withernsea
+2025-02-13,141000,HU19 2AY,T,N,F,130,,North Road,,Withernsea
+2025-02-12,207000,HU19 2PY,S,N,F,7,,Newsham Gardens,,Withernsea
+2025-02-10,218000,HU19 2PY,D,N,F,17,,Newsham Gardens,,Withernsea
+2025-02-05,320000,HU19 2PQ,D,N,F,17,,Hazel Avenue,,Withernsea
+2025-02-05,163000,HU19 2PL,S,N,F,47,,Hollym Road,,Withernsea
+2025-02-05,76000,HU19 2NT,T,N,F,361,,Queen Street,,Withernsea
+2025-02-05,218000,HU19 2EL,D,N,F,33,,Carrs Meadow,,Withernsea
+2025-02-05,340000,HU19 2BY,D,N,F,Thirtle Dene,,,Rimswell,Withernsea
+2025-02-04,66000,HU19 2DX,T,N,F,20,,Young Street,,Withernsea
+2025-01-28,200000,HU19 2JX,S,N,F,3,,Park Avenue,,Withernsea
+2025-01-28,210000,HU19 2DP,T,N,F,18,,The Promenade,,Withernsea
+2025-01-27,120000,HU19 2HW,T,N,F,17,,Cheverton Avenue,,Withernsea
+2025-01-23,123000,HU19 2TG,T,N,F,4,,Trinity Fields,,Withernsea
+2025-01-23,185000,HU19 2QD,S,N,F,9,,Holmpton Road,,Withernsea
+2025-01-21,54000,HU19 2HU,T,N,F,80,,South Cliff Road,,Withernsea
+2025-01-16,80000,HU19 2NW,T,N,F,289,,Queen Street,,Withernsea
+2024-12-13,118000,HU19 2LD,T,N,F,118,,Kirkfield Road,,Withernsea
+2024-12-12,300000,HU19 2NX,D,N,F,254,,Queen Street,,Withernsea
+2024-12-12,215000,HU19 2EN,S,N,F,9,,Chellsway,,Withernsea
+2024-12-06,125000,HU19 2BT,S,N,F,5,,Waxholme Road,,Withernsea
+2024-12-05,50000,HU19 2HY,T,N,F,9,,King Street,,Withernsea
+2024-12-04,175000,HU19 2PB,T,N,F,24,,Louville Avenue,,Withernsea
+2024-11-29,125000,HU19 2RS,T,N,F,Jubilee Villa,,Northside Road,Hollym,Withernsea
+2024-11-29,140000,HU19 2AB,T,N,F,33,,Arthur Street,,Withernsea
+2024-11-28,230000,HU19 2HR,D,N,F,6,,Lee Avenue,,Withernsea
+2024-11-28,130000,HU19 2HL,T,N,F,14,,High Brighton Street,,Withernsea
+2024-11-22,465000,HU19 2SB,D,N,F,The Birches,,North Leys Road,Hollym,Withernsea
+2024-11-22,95000,HU19 2PA,T,N,F,17,,Louville Avenue,,Withernsea
+2024-11-18,140000,HU19 2LP,T,N,F,3,,Ryecroft Drive,,Withernsea
+2024-11-15,160000,HU19 2QW,D,N,F,Ivanhoe,,Holmpton Road,Hollym,Withernsea
+2024-11-11,160000,HU19 2PD,D,N,F,172,,South Promenade,,Withernsea
+2024-11-07,160000,HU19 2AR,T,N,F,11,,Queen Street,,Withernsea
+2024-11-01,100000,HU19 2LA,S,N,F,19,,Kirkfield Road,,Withernsea
+2024-11-01,112500,HU19 2BT,T,N,F,12,,Waxholme Road,,Withernsea
+2024-10-30,277000,HU19 2SG,D,N,F,Ashlea,,Patrington Road,Hollym,Withernsea
+2024-10-30,161000,HU19 2PG,S,N,F,47,,Chestnut Avenue,,Withernsea
+2024-10-30,220000,HU19 2PF,D,N,F,1,,Turner Avenue,,Withernsea
+2024-10-23,242500,HU19 2RS,D,N,F,Cherryholme,,Northside Road,Hollym,Withernsea
+2024-10-23,148500,HU19 2LX,S,N,F,32,,Ryecroft Drive,,Withernsea
+2024-10-22,160000,HU19 2AT,S,N,F,11,,Hubert Street,,Withernsea
+2024-10-18,104975,HU19 2LL,T,N,F,22,,Highfield,,Withernsea
+2024-10-18,120000,HU19 2JZ,S,N,F,40,,Kirkfield Road,,Withernsea
+2024-10-07,102500,HU19 2AB,T,N,F,49,,Arthur Street,,Withernsea
+2024-10-02,150000,HU19 2LZ,S,N,F,22,,Egroms Lane,,Withernsea
+2024-09-27,120000,HU19 2AB,T,N,F,15,,Arthur Street,,Withernsea
+2024-09-20,140000,HU19 2BB,S,N,F,83,,Seathorne,,Withernsea
+2024-09-20,120000,HU19 2AB,T,N,F,26,,Arthur Street,,Withernsea
+2024-09-13,255000,HU19 2NY,D,N,F,44,,Seacroft Road,,Withernsea
+2024-09-12,178000,HU19 2JE,T,N,F,90,,South Promenade,,Withernsea
+2024-09-11,210000,HU19 2QH,D,N,F,Little Garth,,Withernsea Road,Hollym,Withernsea
+2024-09-11,165000,HU19 2LZ,S,N,F,2B,,Egroms Lane,,Withernsea
+2024-09-06,120000,HU19 2LY,S,N,F,2,,Cherry Tree Avenue,,Withernsea
+2024-08-23,345000,HU19 2QP,D,N,F,Corryvreckan,,Withernsea Road,Holmpton,Withernsea
+2024-08-23,85000,HU19 2QH,T,N,F,Weldon View,,Withernsea Road,Hollym,Withernsea
+2024-08-22,80000,HU19 2LX,T,N,F,66,,Ryecroft Drive,,Withernsea
+2024-08-14,102000,HU19 2QQ,S,N,F,1,,Smook Hills Road,Hollym,Withernsea
+2024-08-13,110000,HU19 2LD,S,N,F,116,,Kirkfield Road,,Withernsea
+2024-08-13,183000,HU19 2DY,T,N,F,21,,Hull Road,,Withernsea
+2024-08-06,115000,HU19 2EE,S,N,F,107,,Hull Road,,Withernsea
+2024-07-31,125000,HU19 2EW,S,N,F,109,,Beaconsfield,,Withernsea
+2024-07-26,125000,HU19 2AB,T,N,F,7,,Arthur Street,,Withernsea
+2024-07-23,112000,HU19 2JX,T,N,F,7,,Park Avenue,,Withernsea
+2024-07-23,111000,HU19 2AL,T,N,F,26,,Alma Street,,Withernsea
+2024-07-19,116000,HU19 2LL,S,N,F,28,,Highfield,,Withernsea
+2024-07-17,128000,HU19 2BT,T,N,F,20,,Waxholme Road,,Withernsea
+2024-07-09,158000,HU19 2NL,F,N,F,259,,Queen Street,,Withernsea
+2024-06-28,220000,HU19 2QS,D,N,F,South View,,School Lane,Holmpton,Withernsea
+2024-06-24,138000,HU19 2JA,T,N,F,68,,Princes Avenue,,Withernsea
+2024-06-20,270000,HU19 2NX,D,N,F,216,,Queen Street,,Withernsea
+2024-06-14,167500,HU19 2QD,S,N,F,29,,Holmpton Road,,Withernsea
+2024-06-07,78000,HU19 2HL,T,N,F,9,,High Brighton Street,,Withernsea
+2024-06-03,160000,HU19 2LP,S,N,F,27,,Ryecroft Drive,,Withernsea
+2024-06-03,140000,HU19 2DT,T,N,F,43,,Bannister Street,,Withernsea
+2024-05-31,215000,HU19 2QD,D,N,F,3B,,Holmpton Road,,Withernsea
+2024-05-30,115000,HU19 2HR,S,N,F,30,,Lee Avenue,,Withernsea
+2024-05-28,125000,HU19 2BB,S,N,F,63,,Seathorne,,Withernsea
+2024-05-24,112000,HU19 2DY,T,N,F,33,,Hull Road,,Withernsea
+2024-05-24,140000,HU19 2DR,T,N,F,12,,Marine Parade,,Withernsea
+2024-05-24,135000,HU19 2AB,T,N,F,47,,Arthur Street,,Withernsea
+2024-05-22,110000,HU19 2LB,S,N,F,115,,Kirkfield Road,,Withernsea
+2024-05-21,70000,HU19 2JY,T,N,F,166,,Queen Street,,Withernsea
+2024-05-10,149950,HU19 2ER,S,N,F,82,,Carrs Meadow,,Withernsea
+2024-05-10,175000,HU19 2EL,D,N,F,"Willow House, 43",,Carrs Meadow,,Withernsea
+2024-05-10,265000,HU19 2DP,T,N,F,6A,,The Promenade,,Withernsea
+2024-05-10,76000,HU19 2AE,T,N,F,3,,Southfield Avenue,,Withernsea
+2024-05-03,114500,HU19 2HZ,T,N,F,31,,Princes Avenue,,Withernsea
+2024-05-03,103000,HU19 2DT,T,N,F,58,,Bannister Street,,Withernsea
+2024-04-24,125000,HU19 2EW,S,N,F,69,,Beaconsfield,,Withernsea
+2024-04-19,83500,HU19 2HP,T,N,F,22,,Cheverton Avenue,,Withernsea
+2024-04-18,160000,HU19 2PB,S,N,F,4,,Louville Avenue,,Withernsea
+2024-04-18,110000,HU19 2HZ,T,N,F,53,,Princes Avenue,,Withernsea
+2024-04-18,108000,HU19 2HU,T,N,F,31,,South Cliff Road,,Withernsea
+2024-04-12,105000,HU19 2JD,T,N,F,5,,Leo Terrace,,Withernsea
+2024-04-12,63500,HU19 2AL,T,N,F,22,,Alma Street,,Withernsea
+2024-04-10,155000,HU19 2EP,S,N,F,64,,Beaconsfield,,Withernsea
+2024-04-10,170000,HU19 2AX,D,N,F,141,,North Road,,Withernsea
+2024-03-12,195000,HU19 2NT,T,N,F,317,,Queen Street,,Withernsea
+2024-03-08,230000,HU19 2PJ,S,N,F,60,,Hollym Road,,Withernsea
+2024-03-08,112500,HU19 2PG,T,N,F,7,,Chestnut Avenue,,Withernsea
+2024-03-08,298000,HU19 2JX,D,N,F,45,,Park Avenue,,Withernsea
+2024-03-08,175000,HU19 2EA,T,N,F,69,,Lascelles Avenue,,Withernsea
+2024-02-21,110000,HU19 2AL,T,N,F,2,,Alma Street,,Withernsea
+2024-02-19,134000,HU19 2NY,S,N,F,9,,Seacroft Road,,Withernsea
+2024-02-19,165000,HU19 2NY,S,N,F,5A,,Seacroft Road,,Withernsea
+2024-02-19,163000,HU19 2EP,S,N,F,56,,Beaconsfield,,Withernsea
+2024-02-16,220000,HU19 2PA,D,N,F,63,,Louville Avenue,,Withernsea
+2024-02-15,150000,HU19 2LZ,S,N,F,52,,Egroms Lane,,Withernsea
+2024-02-12,77500,HU19 2HX,T,N,F,19,,South Cliff Road,,Withernsea
+2024-02-02,97000,HU19 2DZ,T,N,F,34,,Hull Road,,Withernsea
+2024-01-26,120000,HU19 2JU,D,N,F,54,,Park Avenue,,Withernsea
+2024-01-26,80000,HU19 2AB,T,N,F,38,,Arthur Street,,Withernsea
+2024-01-25,100000,HU19 2JL,S,N,F,12,,St Nicholas Park,,Withernsea
+2024-01-19,125000,HU19 2JU,D,N,F,30,,Park Avenue,,Withernsea
+2024-01-17,95950,HU19 2HU,T,N,F,67,,South Cliff Road,,Withernsea
+2024-01-12,105000,HU19 2AW,T,N,F,11,,Cammidge Street,,Withernsea
+2024-01-08,86000,HU19 2HU,T,N,F,70,,South Cliff Road,,Withernsea
+2024-01-03,185000,HU19 2PG,D,N,F,12,,Chestnut Avenue,,Withernsea
+2023-12-19,250000,HU19 2RS,S,N,F,Torbay,,Northside Road,Hollym,Withernsea
+2023-12-18,100000,HU19 2HL,T,N,F,10,,High Brighton Street,,Withernsea
+2023-12-15,85000,HU19 2JU,S,N,F,60,,Park Avenue,,Withernsea
+2023-12-11,111000,HU19 2AT,T,N,F,22,,Hubert Street,,Withernsea
+2023-12-08,125000,HU19 2NY,S,N,F,21,,Seacroft Road,,Withernsea
+2023-12-08,88000,HU19 2JL,D,N,F,14,,St Nicholas Park,,Withernsea
+2023-12-07,55000,HU19 2DU,T,N,F,22,,Bannister Street,,Withernsea
+2023-11-18,165000,HU19 2AT,T,N,F,11A,,Hubert Street,,Withernsea
+2023-11-03,275000,HU19 2QD,D,N,F,11,,Holmpton Road,,Withernsea
+2023-11-03,265000,HU19 2JU,D,N,F,42,,Park Avenue,,Withernsea
+2023-11-03,108000,HU19 2AF,T,N,F,62,,Queen Street,,Withernsea
+2023-11-02,202500,HU19 2DP,T,N,F,20,,The Promenade,,Withernsea
+2023-10-30,270000,HU19 2PN,D,N,F,70,,Withernsea Road,,Withernsea
+2023-10-13,185000,HU19 2QD,S,N,F,40,,Holmpton Road,,Withernsea
+2023-10-12,173000,HU19 2JY,S,N,F,178,,Queen Street,,Withernsea
+2023-10-10,79000,HU19 2BA,T,N,F,7,,Northfield,,Withernsea
+2023-09-22,130000,HU19 2EP,T,N,F,18,,Beaconsfield,,Withernsea
+2023-09-22,237500,HU19 2DW,T,N,F,27,,The Promenade,,Withernsea
+2023-09-20,125000,HU19 2HR,D,N,F,10,,Lee Avenue,,Withernsea
+2023-09-15,155000,HU19 2ER,S,N,F,74,,Carrs Meadow,,Withernsea
+2023-09-12,130000,HU19 2AY,S,N,F,88,,North Road,,Withernsea
+2023-09-11,100000,HU19 2LD,S,N,F,136,,Kirkfield Road,,Withernsea
+2023-09-08,95000,HU19 2AJ,S,N,F,67,,Queen Street,,Withernsea
+2023-09-05,148000,HU19 2PR,D,N,F,26,,Kenwood,,Withernsea
+2023-09-01,90000,HU19 2PA,T,N,F,5,,Louville Avenue,,Withernsea
+2023-08-30,105000,HU19 2AY,S,N,F,78,,North Road,,Withernsea
+2023-08-25,100000,HU19 2JE,T,N,F,92,,South Promenade,,Withernsea
+2023-08-25,86000,HU19 2AT,T,N,F,5,,Hubert Street,,Withernsea
+2023-08-21,128000,HU19 2DT,T,N,F,40,,Bannister Street,,Withernsea
+2023-08-09,75000,HU19 2HZ,T,N,F,13,,Princes Avenue,,Withernsea
+2023-08-07,62750,HU19 2AA,T,N,F,31,,Edward Street,,Withernsea
+2023-08-04,295000,HU19 2QD,D,N,F,8,,Holmpton Road,,Withernsea
+2023-08-04,395000,HU19 2PJ,D,N,F,54,,Hollym Road,,Withernsea
+2023-08-04,116000,HU19 2LS,T,N,F,15,,Francis Avenue,,Withernsea
+2023-08-02,151000,HU19 2NL,T,N,F,265,,Queen Street,,Withernsea
+2023-08-02,236000,HU19 2BT,S,N,F,3,,Waxholme Road,,Withernsea
+2023-08-01,110000,HU19 2DU,T,N,F,24,,Bannister Street,,Withernsea
+2023-07-19,180000,HU19 2HN,T,N,F,53,,South Promenade,,Withernsea
+2023-07-17,179950,HU19 2LT,S,N,F,1,,Norman Avenue,,Withernsea
+2023-07-17,145000,HU19 2EA,T,N,F,49,,Lascelles Avenue,,Withernsea
+2023-07-14,120000,HU19 2HT,T,N,F,11,,Belvedere,,Withernsea
+2023-07-14,176000,HU19 2DW,T,N,F,28,,The Promenade,,Withernsea
+2023-07-07,125000,HU19 2AD,T,N,F,21,,Walter Street,,Withernsea
+2023-07-05,120000,HU19 2BT,D,N,F,37,,Waxholme Road,,Withernsea
+2023-06-30,149999,HU19 2NX,T,N,F,262,,Queen Street,,Withernsea
+2023-06-26,90000,HU19 2DZ,T,N,F,14,,Hull Road,,Withernsea
+2023-06-22,82000,HU19 2HL,T,N,F,13,,High Brighton Street,,Withernsea
+2023-06-14,151000,HU19 2LR,S,N,F,12,,Ryecroft Drive,,Withernsea
+2023-06-14,82000,HU19 2AE,T,N,F,8,,Southfield Avenue,,Withernsea
+2023-06-02,162500,HU19 2PA,S,N,F,75,,Louville Avenue,,Withernsea
+2023-05-30,94000,HU19 2AR,T,N,F,59,,Queen Street,,Withernsea
+2023-05-26,147500,HU19 2DW,T,N,F,42,,The Promenade,,Withernsea
+2023-05-26,85000,HU19 2BA,T,N,F,11,,Northfield,,Withernsea
+2023-05-25,155000,HU19 2ET,S,N,F,41,,The Glade,,Withernsea
+2023-05-19,130000,HU19 2PH,S,N,F,4,,Chestnut Grove,,Withernsea
+2023-05-19,160000,HU19 2PE,S,N,F,14,,Oak Avenue,,Withernsea
+2023-05-19,125000,HU19 2AT,S,N,F,"Sea Glass Cottage, 1A",,Hubert Street,,Withernsea
+2023-05-12,195000,HU19 2HN,T,N,F,55,,South Promenade,,Withernsea
+2023-05-11,68000,HU19 2AU,T,N,F,59,,Arthur Street,,Withernsea
+2023-04-28,80000,HU19 2HX,T,N,F,25,,South Cliff Road,,Withernsea
+2023-04-25,131600,HU19 2NY,S,N,F,27,,Seacroft Road,,Withernsea
+2023-04-23,150000,HU19 2JE,T,N,F,82,,South Promenade,,Withernsea
+2023-04-21,170000,HU19 2AZ,S,N,F,1,,Owthorne Walk,,Withernsea
+2023-04-17,165000,HU19 2PB,S,N,F,42,,Louville Avenue,,Withernsea
+2023-04-14,95000,HU19 2BA,T,N,F,29,,Northfield,,Withernsea
+2023-04-05,110000,HU19 2HP,T,N,F,38,,Cheverton Avenue,,Withernsea
+2023-04-05,120000,HU19 2AU,T,N,F,72,,Arthur Street,,Withernsea
+2023-04-04,170000,HU19 2EY,T,N,F,6,,Paddock Court,,Withernsea
+2023-04-04,153000,HU19 2AX,T,N,F,125,,North Road,,Withernsea
+2023-03-31,235000,HU19 2RS,D,N,F,Foxglove Cottage,,Northside Road,Hollym,Withernsea
+2023-03-31,242500,HU19 2PJ,S,N,F,62,,Hollym Road,,Withernsea
+2023-03-29,228000,HU19 2PY,D,N,F,5,,Newsham Gardens,,Withernsea
+2023-03-20,140000,HU19 2ET,S,N,F,55,,The Glade,,Withernsea
+2023-03-10,155000,HU19 2JU,T,N,F,12,,Park Avenue,,Withernsea
+2023-03-10,135000,HU19 2HW,T,N,F,41,,Cheverton Avenue,,Withernsea
+2023-02-28,130000,HU19 2HZ,T,N,F,27,,Princes Avenue,,Withernsea
+2023-02-27,180000,HU19 2PE,S,N,F,24,,Oak Avenue,,Withernsea
+2023-02-21,84000,HU19 2AB,S,N,F,39,,Arthur Street,,Withernsea
+2023-02-06,140000,HU19 2HX,T,N,F,40,,South Cliff Road,,Withernsea
+2023-02-03,175000,HU19 2AJ,T,N,F,91,,Queen Street,,Withernsea
+2023-01-31,72100,HU19 2AL,T,N,F,24,,Alma Street,,Withernsea
+2023-01-27,145000,HU19 2ET,T,N,F,3,,The Glade,,Withernsea
+2023-01-25,97500,HU19 2DW,T,N,F,31,,The Promenade,,Withernsea
+2023-01-25,60000,HU19 2AL,T,N,F,16,,Alma Street,,Withernsea
+2023-01-12,92000,HU19 2NW,T,N,F,289,,Queen Street,,Withernsea
+2023-01-12,99000,HU19 2LX,T,N,F,66,,Ryecroft Drive,,Withernsea
+2023-01-12,200000,HU19 2HP,T,N,F,44,,Cheverton Avenue,,Withernsea
+2023-01-09,150000,HU19 2HZ,T,N,F,61,,Princes Avenue,,Withernsea
+2023-01-06,145000,HU19 2RU,S,N,F,3,,South View,Hollym,Withernsea
+2023-01-04,120000,HU19 2DE,S,N,F,6,,Heather Avenue,,Withernsea
+2022-12-19,118500,HU19 2AZ,S,N,F,17,,Owthorne Walk,,Withernsea
+2022-12-16,125000,HU19 2HZ,T,N,F,7,,Princes Avenue,,Withernsea
+2022-12-09,107000,HU19 2AP,T,N,F,20,,Queen Street,,Withernsea
+2022-12-05,115000,HU19 2AP,T,N,F,26,,Queen Street,,Withernsea
+2022-12-02,159950,HU19 2JX,S,N,F,1,,Park Avenue,,Withernsea
+2022-11-29,172000,HU19 2LZ,S,N,F,50,,Egroms Lane,,Withernsea
+2022-11-25,105000,HU19 2HE,S,N,F,6,,Robert Close,,Withernsea
+2022-11-23,201000,HU19 2JX,S,N,F,33,,Park Avenue,,Withernsea
+2022-11-22,90000,HU19 2HX,T,N,F,15,,South Cliff Road,,Withernsea
+2022-11-21,75000,HU19 2AL,T,N,F,26,,Alma Street,,Withernsea
+2022-11-18,172500,HU19 2DZ,T,N,F,36,,Hull Road,,Withernsea
+2022-11-16,170000,HU19 2PY,S,N,F,6,,Newsham Gardens,,Withernsea
+2022-11-16,152000,HU19 2ET,S,N,F,39,,The Glade,,Withernsea
+2022-11-11,188000,HU19 2DE,D,N,F,14,,Heather Avenue,,Withernsea
+2022-11-11,108000,HU19 2AX,T,N,F,205,,North Road,,Withernsea
+2022-11-09,190000,HU19 2DU,T,N,F,6,,Bannister Street,,Withernsea
+2022-11-07,143000,HU19 2AY,T,N,F,152,,North Road,,Withernsea
+2022-10-31,49500,HU19 2AA,F,N,L,Elizabeth Court,2B,Edward Street,,Withernsea
+2022-10-28,85000,HU19 2LY,T,N,F,27,,Cherry Tree Avenue,,Withernsea
+2022-10-28,123000,HU19 2LR,S,N,F,16,,Ryecroft Drive,,Withernsea
+2022-10-24,137000,HU19 2LZ,S,N,F,14,,Egroms Lane,,Withernsea
+2022-10-24,176000,HU19 2LP,S,N,F,37,,Ryecroft Drive,,Withernsea
+2022-10-21,170000,HU19 2LZ,S,N,F,48,,Egroms Lane,,Withernsea
+2022-10-21,150000,HU19 2AU,T,N,F,64,,Arthur Street,,Withernsea
+2022-10-18,127000,HU19 2BT,T,N,F,8,,Waxholme Road,,Withernsea
+2022-10-14,148000,HU19 2NY,S,N,F,5A,,Seacroft Road,,Withernsea
+2022-10-14,145000,HU19 2AT,T,N,F,25,,Hubert Street,,Withernsea
+2022-10-14,125000,HU19 2AR,T,N,F,15,,Queen Street,,Withernsea
+2022-10-13,249000,HU19 2SB,D,N,F,Mayville,,North Leys Road,Hollym,Withernsea
+2022-09-30,95000,HU19 2DX,T,N,F,20,,Young Street,,Withernsea
+2022-09-30,83000,HU19 2DT,T,N,F,65,,Bannister Street,,Withernsea
+2022-09-29,151000,HU19 2PG,S,N,F,8,,Chestnut Avenue,,Withernsea
+2022-09-28,180000,HU19 2QD,D,N,F,23,,Holmpton Road,,Withernsea
+2022-09-23,185000,HU19 2PB,S,N,F,12,,Louville Avenue,,Withernsea
+2022-09-23,90000,HU19 2HU,T,N,F,86,,South Cliff Road,,Withernsea
+2022-09-15,130000,HU19 2LX,T,N,F,42,,Ryecroft Drive,,Withernsea
+2022-09-13,115000,HU19 2AU,T,N,F,60,,Arthur Street,,Withernsea
+2022-09-08,128000,HU19 2HR,S,N,F,26,,Lee Avenue,,Withernsea
+2022-09-01,330000,HU19 2PL,D,N,F,19,,Hollym Road,,Withernsea
+2022-08-26,197000,HU19 2PY,D,N,F,22,,Newsham Gardens,,Withernsea
+2022-08-25,100000,HU19 2LY,T,N,F,25,,Cherry Tree Avenue,,Withernsea
+2022-08-19,128000,HU19 2TG,T,N,F,24,,Trinity Fields,,Withernsea
+2022-08-12,147500,HU19 2EG,D,N,F,72,,Hull Road,,Withernsea
+2022-08-11,183000,HU19 2PB,S,N,F,14,,Louville Avenue,,Withernsea
+2022-08-10,135000,HU19 2JA,T,N,F,66,,Princes Avenue,,Withernsea
+2022-08-10,159950,HU19 2HR,S,N,F,15,,Lee Avenue,,Withernsea
+2022-08-09,150000,HU19 2JR,T,N,F,145,,Queen Street,,Withernsea
+2022-08-09,190000,HU19 2EN,D,N,F,16,,Chellsway,,Withernsea
+2022-08-04,120000,HU19 2TG,T,N,F,23,,Trinity Fields,,Withernsea
+2022-08-04,170000,HU19 2NR,S,N,F,208,,Queen Street,,Withernsea
+2022-08-02,110000,HU19 2HW,T,N,F,11,,Cheverton Avenue,,Withernsea
+2022-07-27,120000,HU19 2AD,T,N,F,9,,Walter Street,,Withernsea
+2022-07-22,90000,HU19 2JL,S,N,F,7,,St Nicholas Park,,Withernsea
+2022-07-15,95000,HU19 2LS,T,N,F,18,,Francis Avenue,,Withernsea
+2022-07-15,203000,HU19 2DF,D,N,F,4,,Clover Drive,,Withernsea
+2022-07-15,135000,HU19 2BB,S,N,F,79,,Seathorne,,Withernsea
+2022-07-08,240000,HU19 2QH,D,N,F,Bramble Garth,,Withernsea Road,Hollym,Withernsea
+2022-07-08,162500,HU19 2PB,S,N,F,18,,Louville Avenue,,Withernsea
+2022-07-08,110000,HU19 2HP,T,N,F,20,,Cheverton Avenue,,Withernsea
+2022-07-07,130000,HU19 2LX,S,N,F,26,,Ryecroft Drive,,Withernsea
+2022-07-05,165000,HU19 2EN,S,N,F,2,,Chellsway,,Withernsea
+2022-06-27,330000,HU19 2PH,D,N,F,7,,Chestnut Grove,,Withernsea
+2022-06-27,58000,HU19 2AA,T,N,F,8,,Edward Street,,Withernsea
+2022-06-24,202000,HU19 2PL,D,N,F,27,,Hollym Road,,Withernsea
+2022-06-24,145000,HU19 2PG,T,N,F,34,,Chestnut Avenue,,Withernsea
+2022-06-23,175000,HU19 2PE,S,N,F,24,,Oak Avenue,,Withernsea
+2022-06-20,137000,HU19 2HX,T,N,F,36,,South Cliff Road,,Withernsea
+2022-06-20,345000,HU19 2EG,D,N,F,44,,Hull Road,,Withernsea
+2022-06-20,97000,HU19 2DJ,T,N,F,113,,Queen Street,,Withernsea
+2022-06-15,83000,HU19 2AE,T,N,F,6,,Southfield Avenue,,Withernsea
+2022-06-14,110000,HU19 2HW,T,N,F,3,,Cheverton Avenue,,Withernsea
+2022-06-14,227000,HU19 2EG,S,N,F,66,,Hull Road,,Withernsea
+2022-06-14,165000,HU19 2AX,S,N,F,151,,North Road,,Withernsea
+2022-06-01,175000,HU19 2EA,T,N,F,69,,Lascelles Avenue,,Withernsea
+2022-05-27,81000,HU19 2AY,T,N,F,106,,North Road,,Withernsea
+2022-05-27,149000,HU19 2AW,T,N,F,10,,Cammidge Street,,Withernsea
+2022-05-20,155000,HU19 2HL,T,N,F,28,,High Brighton Street,,Withernsea
+2022-05-16,150000,HU19 2EW,T,N,F,101,,Beaconsfield,,Withernsea
+2022-05-16,196000,HU19 2EB,S,N,F,90,,Lascelles Avenue,,Withernsea
+2022-05-16,230000,HU19 2DP,D,N,F,17,,The Promenade,,Withernsea
+2022-05-13,137000,HU19 2LZ,S,N,F,16,,Egroms Lane,,Withernsea
+2022-05-06,75000,HU19 2JD,T,N,F,4,,Leo Terrace,,Withernsea
+2022-05-06,152875,HU19 2EB,S,N,F,72,,Lascelles Avenue,,Withernsea
+2022-04-29,160000,HU19 2PG,S,N,F,49,,Chestnut Avenue,,Withernsea
+2022-04-29,95000,HU19 2LS,S,N,F,8,,Francis Avenue,,Withernsea
+2022-04-22,250000,HU19 2QD,S,N,F,5,,Holmpton Road,,Withernsea
+2022-04-22,235000,HU19 2EG,S,N,F,"Caitlins, 64",,Hull Road,,Withernsea
+2022-04-22,95000,HU19 2BB,T,N,F,23,,Seathorne,,Withernsea
+2022-04-19,164000,HU19 2LR,S,N,F,20,,Ryecroft Drive,,Withernsea
+2022-04-19,115000,HU19 2ET,S,N,F,51,,The Glade,,Withernsea
+2022-04-14,122500,HU19 2TG,T,N,F,1,,Trinity Fields,,Withernsea
+2022-04-08,200000,HU19 2TG,D,N,F,29,,Trinity Fields,,Withernsea
+2022-04-08,98000,HU19 2JA,T,N,F,54,,Princes Avenue,,Withernsea
+2022-04-08,140000,HU19 2HR,S,N,F,13,,Lee Avenue,,Withernsea
+2022-04-01,140000,HU19 2ER,S,N,F,50,,Carrs Meadow,,Withernsea
+2022-03-31,125000,HU19 2BZ,D,N,F,The Gables,,,Rimswell,Withernsea
+2022-03-30,235000,HU19 2HR,D,N,F,6,,Lee Avenue,,Withernsea
+2022-03-28,190000,HU19 2JA,T,N,F,46,,Princes Avenue,,Withernsea
+2022-03-28,195000,HU19 2DR,T,N,F,4,,Marine Parade,,Withernsea
+2022-03-25,140000,HU19 2ER,T,N,F,64,,Carrs Meadow,,Withernsea
+2022-03-22,125000,HU19 2PJ,S,N,F,6,,Hollym Road,,Withernsea
+2022-03-18,107000,HU19 2JL,S,N,F,30,,St Nicholas Park,,Withernsea
+2022-03-14,79000,HU19 2AW,T,N,F,31,,Cammidge Street,,Withernsea
+2022-03-07,70500,HU19 2AX,T,N,F,211,,North Road,,Withernsea
+2022-03-03,98000,HU19 2NL,T,N,F,267,,Queen Street,,Withernsea
+2022-02-28,63000,HU19 2AA,F,N,L,Elizabeth Court,1A,Edward Street,,Withernsea
+2022-02-18,138000,HU19 2EX,S,N,F,17,,Pasture Close,,Withernsea
+2022-02-15,115000,HU19 2BT,T,N,F,22,,Waxholme Road,,Withernsea
+2022-02-11,125000,HU19 2BB,S,N,F,77,,Seathorne,,Withernsea
+2022-02-10,66150,HU19 2BL,T,N,F,8,,Butchers Place,,Withernsea
+2022-01-28,165000,HU19 2LZ,S,N,F,2B,,Egroms Lane,,Withernsea
+2022-01-28,125000,HU19 2HW,T,N,F,39,,Cheverton Avenue,,Withernsea
+2022-01-27,195000,HU19 2QD,S,N,F,16,,Holmpton Road,,Withernsea
+2022-01-27,120000,HU19 2JA,T,N,F,72,,Princes Avenue,,Withernsea
+2022-01-26,215000,HU19 2PL,S,N,F,19A,,Hollym Road,,Withernsea
+2022-01-25,135000,HU19 2JR,T,N,F,189,,Queen Street,,Withernsea
+2021-12-22,100000,HU19 2HW,T,N,F,25,,Cheverton Avenue,,Withernsea
+2021-12-20,125000,HU19 2NT,T,N,F,317,,Queen Street,,Withernsea
+2021-12-17,104000,HU19 2AY,T,N,F,130,,North Road,,Withernsea
+2021-12-16,98000,HU19 2AW,T,N,F,6,,Cammidge Street,,Withernsea
+2021-12-13,123045,HU19 2BT,T,N,F,10,,Waxholme Road,,Withernsea
+2021-12-09,120000,HU19 2AU,T,N,F,74,,Arthur Street,,Withernsea
+2021-12-03,135000,HU19 2NT,S,N,F,369,,Queen Street,,Withernsea
+2021-12-03,143000,HU19 2JU,D,N,F,44,,Park Avenue,,Withernsea
+2021-12-02,159950,HU19 2ET,D,N,F,17,,The Glade,,Withernsea
+2021-12-01,98000,HU19 2LD,S,N,F,146,,Kirkfield Road,,Withernsea
+2021-11-29,115000,HU19 2DX,T,N,F,8,,Young Street,,Withernsea
+2021-11-25,165000,HU19 2RA,D,N,F,Holm Lea,,Seaside Road,Holmpton,Withernsea
+2021-11-25,100000,HU19 2DB,S,N,F,1,,Garth Villas,Rimswell,Withernsea
+2021-11-23,268000,HU19 2QH,D,N,F,Silver Gates,,Withernsea Road,Hollym,Withernsea
+2021-11-18,110000,HU19 2HZ,T,N,F,1,,Princes Avenue,,Withernsea
+2021-11-16,160000,HU19 2PA,S,N,F,57,,Louville Avenue,,Withernsea
+2021-11-16,195000,HU19 2NY,D,N,F,48,,Seacroft Road,,Withernsea
+2021-11-12,120000,HU19 2GY,D,N,F,3,,The Old Woodyard,,Withernsea
+2021-11-05,110000,HU19 2LD,T,N,F,118,,Kirkfield Road,,Withernsea
+2021-11-05,102500,HU19 2HX,T,N,F,26,,South Cliff Road,,Withernsea
+2021-11-03,210000,HU19 2HH,T,N,F,227,,Queen Street,,Withernsea
+2021-10-29,117000,HU19 2BT,T,N,F,36,,Waxholme Road,,Withernsea
+2021-10-21,50000,HU19 2DU,T,N,F,15,,Bannister Street,,Withernsea
+2021-10-08,130000,HU19 2AB,T,N,F,35,,Arthur Street,,Withernsea
+2021-10-07,117000,HU19 2AR,T,N,F,7,,Queen Street,,Withernsea
+2021-09-30,170000,HU19 2NS,S,N,F,10,,Westfield Rise,,Withernsea
+2021-09-30,160000,HU19 2NL,T,N,F,"Tower House, 269",,Queen Street,,Withernsea
+2021-09-29,265000,HU19 2QS,D,N,F,Tanglin,,School Lane,Holmpton,Withernsea
+2021-09-29,285000,HU19 2QQ,D,N,F,The Bungalow,,Smook Hills Road,Hollym,Withernsea
+2021-09-27,143000,HU19 2EA,T,N,F,31,,Lascelles Avenue,,Withernsea
+2021-09-24,225000,HU19 2QN,D,N,F,South Leys,,North Leys Road,Hollym,Withernsea
+2021-09-24,128000,HU19 2NT,D,N,F,367,,Queen Street,,Withernsea
+2021-09-24,105000,HU19 2AY,T,N,F,116,,North Road,,Withernsea
+2021-09-23,249950,HU19 2QS,D,N,F,2,,Manor Garth,Holmpton,Withernsea
+2021-09-23,249950,HU19 2QS,D,N,F,1,,Manor Garth,Holmpton,Withernsea
+2021-09-23,149950,HU19 2LG,S,N,F,200,,Queen Street,,Withernsea
+2021-09-23,125000,HU19 2AB,T,N,F,36,,Arthur Street,,Withernsea
+2021-09-20,250000,HU19 2QS,D,N,F,3,,Manor Garth,Holmpton,Withernsea
+2021-09-13,172500,HU19 2LZ,S,N,F,4,,Egroms Lane,,Withernsea
+2021-09-10,140000,HU19 2QW,D,N,F,Seaholme,,Holmpton Road,Hollym,Withernsea
+2021-09-08,148000,HU19 2DY,T,N,F,51,,Hull Road,,Withernsea
+2021-09-03,130000,HU19 2JA,T,N,F,36,,Princes Avenue,,Withernsea
+2021-08-31,142500,HU19 2NY,T,N,F,12,,Seacroft Road,,Withernsea
+2021-08-27,125000,HU19 2QH,T,N,F,Briardon,,Withernsea Road,Hollym,Withernsea
+2021-08-27,134000,HU19 2EP,D,N,F,54,,Beaconsfield,,Withernsea
+2021-08-26,110000,HU19 2ER,S,N,F,34,,Carrs Meadow,,Withernsea
+2021-08-26,116500,HU19 2AJ,T,N,F,95,,Queen Street,,Withernsea
+2021-08-20,155000,HU19 2PL,S,N,F,23,,Hollym Road,,Withernsea
+2021-08-20,205000,HU19 2NX,D,N,F,214,,Queen Street,,Withernsea
+2021-08-20,107000,HU19 2BT,T,N,F,29,,Waxholme Road,,Withernsea
+2021-08-10,250000,HU19 2NX,D,N,F,248,,Queen Street,,Withernsea
+2021-08-02,152000,HU19 2LZ,S,N,F,20,,Egroms Lane,,Withernsea
+2021-07-29,118000,HU19 2AY,T,N,F,134,,North Road,,Withernsea
+2021-07-23,149950,HU19 2EL,D,N,F,17,,Carrs Meadow,,Withernsea
+2021-07-16,119950,HU19 2LP,S,N,F,39,,Ryecroft Drive,,Withernsea
+2021-07-02,125000,HU19 2BB,T,N,F,2,,Seathorne,,Withernsea
+2021-07-01,165000,HU19 2EL,D,N,F,33,,Carrs Meadow,,Withernsea
+2021-06-30,415000,HU19 2QR,D,N,F,Bumblebee Hall,,Town Street,Holmpton,Withernsea
+2021-06-30,127000,HU19 2AW,S,N,F,20,,Cammidge Street,,Withernsea
+2021-06-29,125000,HU19 2LZ,S,N,F,56,,Egroms Lane,,Withernsea
+2021-06-25,105000,HU19 2NR,S,N,F,208,,Queen Street,,Withernsea
+2021-06-25,107000,HU19 2DY,T,N,F,31,,Hull Road,,Withernsea
+2021-06-25,100000,HU19 2AU,T,N,F,52,,Arthur Street,,Withernsea
+2021-06-24,92000,HU19 2NW,T,N,F,291,,Queen Street,,Withernsea
+2021-06-16,130000,HU19 2DT,T,N,F,75,,Bannister Street,,Withernsea
+2021-06-15,142000,HU19 2DS,T,N,F,1,,The Promenade,,Withernsea
+2021-06-15,87500,HU19 2AP,T,N,F,20,,Queen Street,,Withernsea
+2021-06-11,190000,HU19 2SB,D,N,F,Mayville,,North Leys Road,Hollym,Withernsea
+2021-06-10,170000,HU19 2DF,D,N,F,4,,Clover Drive,,Withernsea
+2021-06-04,107000,HU19 2HS,T,N,F,7,,Lee Avenue Drive,,Withernsea
+2021-05-27,129000,HU19 2PF,S,N,F,10,,Turner Avenue,,Withernsea
+2021-05-21,149000,HU19 2JU,D,N,F,58,,Park Avenue,,Withernsea
+2021-05-14,262000,HU19 2QZ,T,N,F,Bryony Cottage,1,Taylor Lane,Holmpton,Withernsea
+2021-04-30,220000,HU19 2QS,S,N,F,Holly House,,School Lane,Holmpton,Withernsea
+2021-04-30,90000,HU19 2LN,T,N,F,23,,Whitethorn Avenue,,Withernsea
+2021-04-30,116500,HU19 2JL,S,N,F,3,,St Nicholas Park,,Withernsea
+2021-04-30,110000,HU19 2HU,T,N,F,41,,South Cliff Road,,Withernsea
+2021-04-30,50000,HU19 2HF,T,N,F,3,,Railway Crescent,,Withernsea
+2021-04-30,155000,HU19 2EY,S,N,F,4,,Paddock Court,,Withernsea
+2021-04-29,75000,HU19 2HF,T,N,F,9,,Railway Crescent,,Withernsea
+2021-04-23,140000,HU19 2JE,T,N,F,90,,South Promenade,,Withernsea
+2021-04-16,97500,HU19 2NY,S,N,F,37,,Seacroft Road,,Withernsea
+2021-04-16,109950,HU19 2JA,T,N,F,12,,Princes Avenue,,Withernsea
+2021-04-16,119000,HU19 2EB,T,N,F,4,,Lascelles Avenue,,Withernsea
+2021-04-16,77000,HU19 2DT,T,N,F,87,,Bannister Street,,Withernsea
+2021-04-15,315000,HU19 2PJ,D,N,F,34,,Hollym Road,,Withernsea
+2021-04-07,165000,HU19 2AY,S,N,F,176,,North Road,,Withernsea
+2021-04-01,77500,HU19 2PA,T,N,F,15,,Louville Avenue,,Withernsea
+2021-03-31,210000,HU19 2JU,D,N,F,34,,Park Avenue,,Withernsea
+2021-03-31,105000,HU19 2AD,T,N,F,31,,Walter Street,,Withernsea
+2021-03-26,129950,HU19 2NW,T,N,F,285,,Queen Street,,Withernsea
+2021-03-19,118000,HU19 2QZ,T,N,F,Ainlea Cottage,,Taylor Lane,Holmpton,Withernsea
+2021-03-18,169000,HU19 2LZ,D,N,F,26,,Egroms Lane,,Withernsea
+2021-03-17,210000,HU19 2BT,S,N,F,3,,Waxholme Road,,Withernsea
+2021-03-08,89000,HU19 2NW,T,N,F,289,,Queen Street,,Withernsea
+2021-03-08,105000,HU19 2DE,S,N,F,4,,Heather Avenue,,Withernsea
+2021-03-03,69000,HU19 2HU,T,N,F,70,,South Cliff Road,,Withernsea
+2021-02-26,175000,HU19 2HR,D,N,F,6,,Lee Avenue,,Withernsea
+2021-02-26,97000,HU19 2DY,T,N,F,23,,Hull Road,,Withernsea
+2021-02-25,65000,HU19 2DZ,T,N,F,36,,Hull Road,,Withernsea
+2021-02-24,185000,HU19 2QD,D,N,F,11A,,Holmpton Road,,Withernsea
+2021-02-22,367500,HU19 2RA,D,N,F,The Dell,,Seaside Road,Holmpton,Withernsea
+2021-02-19,97500,HU19 2LX,T,N,F,82,,Ryecroft Drive,,Withernsea
+2021-02-19,143000,HU19 2ER,D,N,F,78,,Carrs Meadow,,Withernsea
+2021-02-19,105000,HU19 2EE,S,N,F,105,,Hull Road,,Withernsea
+2021-02-17,82500,HU19 2AT,T,N,F,13,,Hubert Street,,Withernsea
+2021-02-12,85000,HU19 2LU,T,N,F,77,,Ryecroft Drive,,Withernsea
+2021-02-11,162000,HU19 2ER,D,N,F,60,,Carrs Meadow,,Withernsea
+2021-02-11,123500,HU19 2AY,S,N,F,166,,North Road,,Withernsea
+2021-02-05,74000,HU19 2NT,T,N,F,355,,Queen Street,,Withernsea
+2021-01-29,250000,HU19 2JE,T,N,F,83,,South Promenade,,Withernsea
+2021-01-28,80000,HU19 2AL,T,N,F,8,,Alma Street,,Withernsea
+2021-01-27,110000,HU19 2HW,T,N,F,1,,Cheverton Avenue,,Withernsea
+2021-01-22,72500,HU19 2DX,T,N,F,2,,Young Street,,Withernsea
+2021-01-19,220000,HU19 2EG,D,N,F,54,,Hull Road,,Withernsea
+2021-01-18,90000,HU19 2BT,T,N,F,10,,Waxholme Road,,Withernsea
+2021-01-08,129000,HU19 2LZ,S,N,F,6,,Egroms Lane,,Withernsea
+2021-01-05,230000,HU19 2PG,D,N,F,31,,Chestnut Avenue,,Withernsea

@@ -1,0 +1,622 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-17,245000,GU18 5UA,S,N,F,13,,Turnville Close,,Lightwater
+2026-08-07,420000,GU18 5RA,S,N,F,131,,Guildford Road,,Lightwater
+2026-08-06,460000,GU18 5TF,S,N,F,9,,Grasmere Road,,Lightwater
+2026-08-04,425000,GU18 5RA,S,N,F,147,,Guildford Road,,Lightwater
+2026-07-31,178000,GU18 5XQ,F,N,L,Oakleigh,Flat 4,Lightwater Road,,Lightwater
+2026-07-23,210000,GU18 5SL,F,N,L,"Brookfield Court, 1",Flat 6,Broadway Road,,Lightwater
+2026-07-20,420000,GU18 5LA,F,N,L,23,,Corbett Drive,,Lightwater
+2026-07-10,400000,GU18 5TN,S,N,F,18,,Macdonald Road,,Lightwater
+2026-07-02,620000,GU18 5TN,D,N,F,9,,Macdonald Road,,Lightwater
+2026-07-02,635000,GU18 5QR,D,N,F,7,,Myrtle Close,,Lightwater
+2026-06-26,950000,GU18 5SG,D,N,F,11,,Sundew Close,,Lightwater
+2026-06-05,580000,GU18 5AB,D,N,F,3,,Coyne Close,,Lightwater
+2026-05-12,630000,GU18 5YJ,D,N,F,2,,Clearsprings,,Lightwater
+2026-05-08,295000,GU18 5SX,F,N,L,35,,Meadowbank Road,,Lightwater
+2026-04-23,775000,GU18 5YE,D,N,F,1,,High View Road,,Lightwater
+2026-04-22,280000,GU18 5RY,F,N,L,"Passfield Lodge, 88",Apartment 8,Guildford Road,,Lightwater
+2026-04-17,195000,GU18 5SA,F,N,L,49,,Guildford Road,,Lightwater
+2026-04-13,370000,GU18 5LE,T,N,F,35,,Barnett Lane,,Lightwater
+2026-04-10,470000,GU18 5YX,T,N,F,62,,Spruce Drive,,Lightwater
+2026-04-02,755000,GU18 5XH,D,N,F,11,,Lightwater Meadow,,Lightwater
+2026-04-01,600000,GU18 5UA,D,N,F,5,,Turnville Close,,Lightwater
+2026-03-27,218000,GU18 5YT,F,N,L,36,,Ivy Drive,,Lightwater
+2026-03-27,206000,GU18 5YN,F,N,L,13,,Bluebell Rise,,Lightwater
+2026-03-27,900000,GU18 5UL,D,N,F,104,Wildwood,Ambleside Road,,Lightwater
+2026-03-23,490000,GU18 5UA,S,N,F,13,,Turnville Close,,Lightwater
+2026-03-20,1185000,GU18 5UN,D,N,F,141,,Ambleside Road,,Lightwater
+2026-03-20,835000,GU18 5UJ,D,N,F,92,,Ambleside Road,,Lightwater
+2026-03-20,535000,GU18 5AG,D,N,F,3,,Orchard Close,,Lightwater
+2026-03-11,602000,GU18 5TT,D,N,F,14,,Aplin Way,,Lightwater
+2026-03-10,560000,GU18 5QZ,S,N,F,3,,Marshwood Road,,Lightwater
+2026-03-06,470000,GU18 5YP,S,N,F,44,,Burdock Close,,Lightwater
+2026-03-06,573000,GU18 5XU,D,N,F,20,,Ridgeway Close,,Lightwater
+2026-02-27,750000,GU18 5TQ,D,N,F,2,,Junction Road,,Lightwater
+2026-02-12,650000,GU18 5YN,D,N,F,8,,Bluebell Rise,,Lightwater
+2026-02-06,706000,GU18 5RG,S,N,F,72,,The Avenue,,Lightwater
+2026-01-28,657520,GU18 5QQ,F,N,L,14,,Colville Gardens,,Lightwater
+2026-01-23,385000,GU18 5RG,S,N,F,69,,The Avenue,,Lightwater
+2026-01-22,260000,GU18 5YT,F,N,L,58,,Ivy Drive,,Lightwater
+2026-01-16,520000,GU18 5TL,D,N,F,65,,Grasmere Road,,Lightwater
+2026-01-15,1375000,GU18 5YE,D,N,F,19,,High View Road,,Lightwater
+2026-01-13,532500,GU18 5TA,S,N,F,49,,Ambleside Road,,Lightwater
+2026-01-07,610000,GU18 5QZ,D,N,F,34,,Marshwood Road,,Lightwater
+2026-01-06,700000,GU18 5UR,D,N,F,190,,Macdonald Road,,Lightwater
+2026-01-06,470000,GU18 5RR,S,N,F,16,,Hammond Way,,Lightwater
+2025-12-19,878000,GU18 5PE,D,N,F,19,,Quarry Bank,,Lightwater
+2025-12-15,370000,GU18 5YU,F,N,L,35,,Spruce Drive,,Lightwater
+2025-12-15,585000,GU18 5XZ,D,N,F,79,,Macdonald Road,,Lightwater
+2025-12-11,719000,GU18 5PE,D,N,F,2,,Quarry Bank,,Lightwater
+2025-12-02,940000,GU18 5TQ,D,N,F,19,,Junction Road,,Lightwater
+2025-12-01,913000,GU18 5YF,D,N,F,27,,High View Road,,Lightwater
+2025-12-01,500000,GU18 5RU,T,N,F,46,,Riverside Avenue,,Lightwater
+2025-11-28,945000,GU18 5QQ,D,N,F,22,,Colville Gardens,,Lightwater
+2025-11-27,545000,GU18 5TR,D,N,F,25,,Mount Pleasant Close,,Lightwater
+2025-11-25,385000,GU18 5YY,T,N,F,19,,Ivy Drive,,Lightwater
+2025-11-21,380000,GU18 5LF,T,N,F,18,,Alsford Close,,Lightwater
+2025-11-12,455000,GU18 5YL,T,N,F,27,,Clearsprings,,Lightwater
+2025-11-12,500000,GU18 5XR,S,N,F,Outfall Cottages,2,Blackstroud Lane East,,Lightwater
+2025-11-07,440000,GU18 5LF,T,N,F,21,,Alsford Close,,Lightwater
+2025-11-05,450000,GU18 5RD,S,N,F,"Roelbo, 9",,Catena Rise,,Lightwater
+2025-10-31,600000,GU18 5TR,D,N,F,29,,Mount Pleasant Close,,Lightwater
+2025-10-31,710000,GU18 5TQ,D,N,F,1,,Junction Road,,Lightwater
+2025-10-29,240000,GU18 5SL,F,N,L,"Brookfield Court, 1",Flat 11,Broadway Road,,Lightwater
+2025-10-29,487000,GU18 5RG,S,N,F,70,,The Avenue,,Lightwater
+2025-10-24,665000,GU18 5TQ,S,N,F,26,,Junction Road,,Lightwater
+2025-10-24,1000000,GU18 5SR,D,N,F,Mill Cottage,,Burntpollard Lane,,Lightwater
+2025-10-23,610000,GU18 5XE,D,N,F,51,,Keswick Drive,,Lightwater
+2025-10-22,601250,GU18 5XF,D,N,F,2,,Derwent Road,,Lightwater
+2025-10-15,390000,GU18 5YY,T,N,L,33,,Ivy Drive,,Lightwater
+2025-10-10,580000,GU18 5TB,D,N,F,3,,Ullswater Road,,Lightwater
+2025-10-10,415000,GU18 5RZ,S,N,F,23,,Guildford Road,,Lightwater
+2025-10-10,175000,GU18 5RY,F,N,L,"Passfield Lodge, 88",Apartment 20,Guildford Road,,Lightwater
+2025-10-03,570000,GU18 5SJ,D,N,F,24A,,Broadway Road,,Lightwater
+2025-09-30,925000,GU18 5YB,D,N,F,131,,Macdonald Road,,Lightwater
+2025-09-26,395000,GU18 5QW,T,N,F,85,,Broom Field,,Lightwater
+2025-09-22,660000,GU18 5RW,D,N,F,130A,,Guildford Road,,Lightwater
+2025-09-15,450000,GU18 5TU,S,N,F,18,,Fox Covert,,Lightwater
+2025-09-05,145000,GU18 5RP,F,N,L,"Tuscany Villas, 110",Flat 2,Guildford Road,,Lightwater
+2025-09-03,1010000,GU18 5SG,D,N,F,1,,Sundew Close,,Lightwater
+2025-09-01,780000,GU18 5TW,S,N,F,27,,Macdonald Road,,Lightwater
+2025-08-28,575000,GU18 5YL,D,N,F,23A,,Clearsprings,,Lightwater
+2025-08-27,1000000,GU18 5QQ,D,N,F,27,,Colville Gardens,,Lightwater
+2025-08-22,190000,GU18 5RP,F,N,L,"Florence Villas, 108",Flat 7,Guildford Road,,Lightwater
+2025-08-22,810000,GU18 5LF,D,N,F,31,,Alsford Close,,Lightwater
+2025-08-18,780000,GU18 5RS,D,N,F,1,,Lovells Close,,Lightwater
+2025-08-15,472500,GU18 5TN,S,N,F,10,,Macdonald Road,,Lightwater
+2025-08-14,461000,GU18 5TU,D,N,F,34,,Fox Covert,,Lightwater
+2025-08-08,1052500,GU18 5UW,D,N,F,193,,Ambleside Road,,Lightwater
+2025-08-08,615000,GU18 5TN,D,N,F,34,,Macdonald Road,,Lightwater
+2025-08-06,375000,GU18 5RQ,S,N,F,18,,Stonehill Road,,Lightwater
+2025-07-28,440000,GU18 5RU,T,N,F,20,,Riverside Avenue,,Lightwater
+2025-07-25,180000,GU18 5RY,F,N,L,"Passfield Lodge, 88",Apartment 16,Guildford Road,,Lightwater
+2025-07-24,445000,GU18 5RL,T,N,F,158,,Guildford Road,,Lightwater
+2025-07-16,667500,GU18 5YZ,D,N,F,20,,Ivy Drive,,Lightwater
+2025-07-16,800000,GU18 5UL,D,N,F,119,,Ambleside Road,,Lightwater
+2025-07-16,525000,GU18 5QN,D,N,F,1,,Broom Field,,Lightwater
+2025-07-10,189000,GU18 5XQ,F,N,L,Oakleigh,Flat 9,Lightwater Road,,Lightwater
+2025-07-07,427500,GU18 5YW,S,N,F,10,,Blackthorn Drive,,Lightwater
+2025-07-07,440000,GU18 5RU,T,N,F,4,,Riverside Avenue,,Lightwater
+2025-07-01,225000,GU18 5YS,T,N,F,43,,The Orchard,,Lightwater
+2025-06-23,362500,GU18 5YU,T,N,F,39,,Spruce Drive,,Lightwater
+2025-06-20,600000,GU18 5XD,D,N,F,6,,Keswick Drive,,Lightwater
+2025-06-20,460000,GU18 5TN,S,N,F,4,,Macdonald Road,,Lightwater
+2025-06-19,710000,GU18 5TW,D,N,F,27A,,Macdonald Road,,Lightwater
+2025-06-02,402000,GU18 5LA,F,N,F,19,,Corbett Drive,,Lightwater
+2025-05-23,633000,GU18 5XY,D,N,F,80,,Macdonald Road,,Lightwater
+2025-05-22,550000,GU18 5YW,D,N,F,24,,Blackthorn Drive,,Lightwater
+2025-05-08,500000,GU18 5UA,S,N,F,15,,Turnville Close,,Lightwater
+2025-05-06,200000,GU18 5QN,F,N,L,53,,Broom Field,,Lightwater
+2025-04-25,262000,GU18 5SL,F,N,L,"Brookfield Court, 1",Flat 4,Broadway Road,,Lightwater
+2025-04-09,145000,GU18 5YP,F,N,L,20,,Burdock Close,,Lightwater
+2025-03-31,922500,GU18 5TH,D,N,F,Kewense,,Windermere Road,,Lightwater
+2025-03-31,200000,GU18 5SL,F,N,L,"Brookfield Court, 1",Flat 1,Broadway Road,,Lightwater
+2025-03-31,450000,GU18 5RA,S,N,F,115,,Guildford Road,,Lightwater
+2025-03-28,402500,GU18 5YU,T,N,F,59,,Spruce Drive,,Lightwater
+2025-03-28,855000,GU18 5YA,D,N,F,101,,Macdonald Road,,Lightwater
+2025-03-28,675000,GU18 5UA,D,N,F,10,,Turnville Close,,Lightwater
+2025-03-28,589500,GU18 5TS,D,N,F,1,,Badger Drive,,Lightwater
+2025-03-28,590000,GU18 5TP,D,N,F,36,,Mount Pleasant Close,,Lightwater
+2025-03-28,435000,GU18 5TN,S,N,F,2,,Macdonald Road,,Lightwater
+2025-03-28,180000,GU18 5RY,F,N,L,"Passfield Lodge, 88",Apartment 6,Guildford Road,,Lightwater
+2025-03-28,418000,GU18 5LA,S,N,L,25,,Corbett Drive,,Lightwater
+2025-03-27,555000,GU18 5YJ,D,N,F,4,,Clearsprings,,Lightwater
+2025-03-27,192500,GU18 5AD,F,N,L,13,,John Norman Grove,,Lightwater
+2025-03-25,382500,GU18 5YU,T,N,F,31,,Spruce Drive,,Lightwater
+2025-03-24,375000,GU18 5UG,T,N,F,13,,Christie Close,,Lightwater
+2025-03-21,812000,GU18 5SG,D,N,F,10,,Sundew Close,,Lightwater
+2025-03-14,250000,GU18 5RG,F,N,L,87,,The Avenue,,Lightwater
+2025-03-13,425000,GU18 5RD,T,N,F,Holly Lodge,,Catena Rise,,Lightwater
+2025-03-11,325000,GU18 5YT,F,N,L,71,,Ivy Drive,,Lightwater
+2025-03-05,618000,GU18 5TT,D,N,F,33,,Aplin Way,,Lightwater
+2025-02-28,300000,GU18 5YU,T,N,F,57,,Spruce Drive,,Lightwater
+2025-02-28,600000,GU18 5UH,D,N,F,60,,Ambleside Road,,Lightwater
+2025-02-21,350000,GU18 5RW,T,N,F,146,,Guildford Road,,Lightwater
+2025-02-20,425000,GU18 5RP,D,N,F,"Chelsea House, 102",,Guildford Road,,Lightwater
+2025-02-14,950000,GU18 5UH,D,N,F,66,,Ambleside Road,,Lightwater
+2025-02-14,570000,GU18 5TP,D,N,F,19,,Mount Pleasant Close,,Lightwater
+2025-02-13,525000,GU18 5AA,D,N,F,20,,Coniston Court,,Lightwater
+2025-02-09,425000,GU18 5UG,S,N,F,25,,Christie Close,,Lightwater
+2025-02-07,812000,GU18 5PA,D,N,F,23,,Ling Drive,,Lightwater
+2025-02-06,1000000,GU18 5YD,D,N,F,6,,Cranwell Grove,,Lightwater
+2025-02-06,635000,GU18 5XE,D,N,F,67,,Keswick Drive,,Lightwater
+2025-02-06,1200000,GU18 5UN,D,N,F,151,,Ambleside Road,,Lightwater
+2025-02-05,152500,GU18 5YP,F,N,L,18,,Burdock Close,,Lightwater
+2025-02-04,570000,GU18 5XE,D,N,F,45,,Keswick Drive,,Lightwater
+2025-01-30,2300000,GU18 5YH,D,N,F,34,,Curley Hill Road,,Lightwater
+2025-01-28,430000,GU18 5XH,T,N,F,19A,,Lightwater Meadow,,Lightwater
+2025-01-28,555000,GU18 5QQ,F,N,L,15,,Colville Gardens,,Lightwater
+2025-01-16,210000,GU18 5SX,S,N,L,36,,Meadowbank Road,,Lightwater
+2025-01-10,685000,GU18 5TZ,D,N,F,11,,Birch Tree View,,Lightwater
+2025-01-10,650000,GU18 5QQ,S,N,L,13,,Colville Gardens,,Lightwater
+2024-12-19,386250,GU18 5TY,S,N,F,4,,Aplin Way,,Lightwater
+2024-12-19,450000,GU18 5QW,D,N,F,60,,Broom Field,,Lightwater
+2024-12-18,438000,GU18 5RE,S,N,F,213,,Guildford Road,,Lightwater
+2024-12-17,820000,GU18 5XY,D,N,F,37,,Macdonald Road,,Lightwater
+2024-12-13,431000,GU18 5YX,S,N,F,52,,Spruce Drive,,Lightwater
+2024-12-13,372500,GU18 5UG,T,N,F,35,,Christie Close,,Lightwater
+2024-12-10,260000,GU18 5YT,F,N,L,103,,Ivy Drive,,Lightwater
+2024-12-03,170000,GU18 5YN,F,N,L,15,,Bluebell Rise,,Lightwater
+2024-11-29,350000,GU18 5YU,T,N,F,25,,Spruce Drive,,Lightwater
+2024-11-29,160000,GU18 5YN,F,N,L,35,,Bluebell Rise,,Lightwater
+2024-11-29,585000,GU18 5SZ,D,N,F,3,,Withy Close,,Lightwater
+2024-11-29,197000,GU18 5RY,F,N,L,"Passfield Lodge, 88",Apartment 15,Guildford Road,,Lightwater
+2024-11-29,620000,GU18 5RW,T,N,F,134A,,Guildford Road,,Lightwater
+2024-11-22,985000,GU18 5YH,D,N,F,65,,Curley Hill Road,,Lightwater
+2024-11-22,820000,GU18 5YG,D,N,F,7,,Curley Hill Road,,Lightwater
+2024-11-22,810000,GU18 5UL,S,N,F,112A,,Ambleside Road,,Lightwater
+2024-11-22,605000,GU18 5UA,D,N,F,8,,Turnville Close,,Lightwater
+2024-11-22,720000,GU18 5PJ,D,N,F,2,,The Willows,,Lightwater
+2024-11-22,275000,GU18 5AD,F,N,L,20,,John Norman Grove,,Lightwater
+2024-11-15,580000,GU18 5XE,D,N,F,29,,Keswick Drive,,Lightwater
+2024-11-15,435000,GU18 5RU,T,N,F,42,,Riverside Avenue,,Lightwater
+2024-11-11,550000,GU18 5RB,D,N,F,203,,Guildford Road,,Lightwater
+2024-11-08,425000,GU18 5RE,S,N,F,223,,Guildford Road,,Lightwater
+2024-11-08,550000,GU18 5QW,S,N,F,76,,Broom Field,,Lightwater
+2024-11-01,467500,GU18 5YW,S,N,F,11,,Blackthorn Drive,,Lightwater
+2024-10-31,628000,GU18 5YA,D,N,F,111,,Macdonald Road,,Lightwater
+2024-10-18,462000,GU18 5YL,T,N,F,39,,Clearsprings,,Lightwater
+2024-10-18,620000,GU18 5ND,D,N,F,4,,Mallards Way,,Lightwater
+2024-10-09,746500,GU18 5UR,D,N,F,169,,Macdonald Road,,Lightwater
+2024-10-04,430000,GU18 5RU,T,N,F,18,,Riverside Avenue,,Lightwater
+2024-10-04,765000,GU18 5PB,D,N,F,2,,Sorrel Drive,,Lightwater
+2024-10-04,394000,GU18 5LD,T,N,F,6,,Miles Place,,Lightwater
+2024-09-30,177000,GU18 5YN,F,N,L,23,,Bluebell Rise,,Lightwater
+2024-09-27,390000,GU18 5UG,T,N,F,29,,Christie Close,,Lightwater
+2024-09-25,625000,GU18 5TX,D,N,F,4,,Gale Drive,,Lightwater
+2024-09-23,605000,GU18 5TN,D,N,F,9,,Macdonald Road,,Lightwater
+2024-09-13,610000,GU18 5XH,D,N,F,18,,Lightwater Meadow,,Lightwater
+2024-09-10,222500,GU18 5YS,T,N,F,31,,The Orchard,,Lightwater
+2024-09-10,850000,GU18 5PA,D,N,F,11,,Ling Drive,,Lightwater
+2024-09-10,800000,GU18 5NB,D,N,F,1,,Falcon Close,,Lightwater
+2024-09-06,550000,GU18 5UW,D,N,F,168,,Ambleside Road,,Lightwater
+2024-09-06,560000,GU18 5TB,D,N,F,6,,Ullswater Road,,Lightwater
+2024-09-06,465000,GU18 5RQ,S,N,F,6,,Stonehill Road,,Lightwater
+2024-09-02,255000,GU18 5YP,T,N,F,26,,Burdock Close,,Lightwater
+2024-09-02,222150,GU18 5QN,F,N,L,46,,Broom Field,,Lightwater
+2024-08-30,270500,GU18 5YW,T,N,F,26,,Blackthorn Drive,,Lightwater
+2024-08-30,187000,GU18 5YN,F,N,L,16,,Bluebell Rise,,Lightwater
+2024-08-28,635000,GU18 5YU,D,N,F,81,,Spruce Drive,,Lightwater
+2024-08-28,600000,GU18 5XE,D,N,F,43,,Keswick Drive,,Lightwater
+2024-08-28,180000,GU18 5RP,F,N,L,"Florence Villas, 108",Flat 12,Guildford Road,,Lightwater
+2024-08-23,350000,GU18 5YS,S,N,F,46,,The Orchard,,Lightwater
+2024-08-19,242000,GU18 5YP,T,N,F,28,,Burdock Close,,Lightwater
+2024-08-19,1100000,GU18 5XP,D,N,F,42,,Springfield,,Lightwater
+2024-08-16,220000,GU18 5YT,F,N,L,36,,Ivy Drive,,Lightwater
+2024-08-16,190000,GU18 5RL,T,N,F,158,,Guildford Road,,Lightwater
+2024-08-12,178000,GU18 5XQ,F,N,L,Oakleigh,Flat 3,Lightwater Road,,Lightwater
+2024-08-09,258000,GU18 5YS,T,N,F,35,,The Orchard,,Lightwater
+2024-08-02,558000,GU18 5RA,S,N,F,153,,Guildford Road,,Lightwater
+2024-08-01,390000,GU18 5AA,T,N,F,21,,Coniston Court,,Lightwater
+2024-07-24,855000,GU18 5QQ,D,N,F,36,,Colville Gardens,,Lightwater
+2024-07-18,650000,GU18 5TY,D,N,F,1A,,Aplin Way,,Lightwater
+2024-07-18,470000,GU18 5SB,T,N,F,97A,,Guildford Road,,Lightwater
+2024-07-17,760000,GU18 5YB,D,N,F,162,,Macdonald Road,,Lightwater
+2024-07-17,625000,GU18 5XJ,D,N,F,107,,Lightwater Meadow,,Lightwater
+2024-07-12,1000000,GU18 5YF,D,N,F,18,,High View Road,,Lightwater
+2024-07-12,615000,GU18 5XF,D,N,F,4,,Derwent Road,,Lightwater
+2024-07-11,708000,GU18 5XJ,D,N,F,81,,Lightwater Meadow,,Lightwater
+2024-07-09,975000,GU18 5YG,D,N,F,7B,,Curley Hill Road,,Lightwater
+2024-07-08,190000,GU18 5RP,F,N,L,"Florence Villas, 108",Flat 10,Guildford Road,,Lightwater
+2024-07-08,200000,GU18 5AD,F,N,L,8,,John Norman Grove,,Lightwater
+2024-07-05,450000,GU18 5YL,T,N,F,16,,Clearsprings,,Lightwater
+2024-07-05,590000,GU18 5UH,D,N,F,73,,Ambleside Road,,Lightwater
+2024-07-05,562500,GU18 5RX,D,N,F,3,,Birchwood Drive,,Lightwater
+2024-07-02,575500,GU18 5XE,D,N,F,53,,Keswick Drive,,Lightwater
+2024-07-02,620500,GU18 5TA,D,N,F,32A,,Ambleside Road,,Lightwater
+2024-07-02,248000,GU18 5RY,F,N,L,"Passfield Lodge, 88",Apartment 14,Guildford Road,,Lightwater
+2024-07-02,995500,GU18 5QQ,D,N,F,3,,Colville Gardens,,Lightwater
+2024-07-02,395500,GU18 5LA,S,N,F,17,,Corbett Drive,,Lightwater
+2024-07-01,230000,GU18 5RF,F,N,L,16,,The Avenue,,Lightwater
+2024-06-28,560000,GU18 5SL,D,N,F,3,,Broadway Road,,Lightwater
+2024-06-28,410000,GU18 5RF,S,N,F,51,,The Avenue,,Lightwater
+2024-06-27,630000,GU18 5XE,D,N,F,57,,Keswick Drive,,Lightwater
+2024-06-27,275000,GU18 5RY,F,N,L,"Passfield Lodge, 88",Apartment 1,Guildford Road,,Lightwater
+2024-06-27,850000,GU18 5QU,D,N,F,8,,Osborne Drive,,Lightwater
+2024-06-24,630000,GU18 5YN,D,N,F,7,,Bluebell Rise,,Lightwater
+2024-06-21,335000,GU18 5RY,T,N,F,80D,,Guildford Road,,Lightwater
+2024-06-17,265000,GU18 5YN,T,N,F,1,,Bluebell Rise,,Lightwater
+2024-06-13,430000,GU18 5UA,S,N,F,21,,Turnville Close,,Lightwater
+2024-06-13,450000,GU18 5RJ,S,N,F,267,,Guildford Road,,Lightwater
+2024-06-10,280000,GU18 5SX,F,N,L,31,,Meadowbank Road,,Lightwater
+2024-06-10,390000,GU18 5RT,D,N,F,5,,Wychelm Road,,Lightwater
+2024-06-05,568100,GU18 5YG,D,N,F,5A,,Curley Hill Road,,Lightwater
+2024-06-05,775000,GU18 5QQ,D,N,F,35,,Colville Gardens,,Lightwater
+2024-05-28,560000,GU18 5RJ,S,N,F,253,,Guildford Road,,Lightwater
+2024-05-24,700000,GU18 5UN,D,N,F,128,,Ambleside Road,,Lightwater
+2024-05-17,565000,GU18 5TS,S,N,F,25,,Badger Drive,,Lightwater
+2024-05-17,400000,GU18 5LF,T,N,F,9,,Alsford Close,,Lightwater
+2024-05-10,835000,GU18 5TA,D,N,F,29,,Ambleside Road,,Lightwater
+2024-05-08,385000,GU18 5YU,D,N,F,77,,Spruce Drive,,Lightwater
+2024-04-29,215000,GU18 5RP,F,N,L,"Florence Villas, 108",Flat 13,Guildford Road,,Lightwater
+2024-04-26,610000,GU18 5UN,D,N,F,"Casa Mia, 143",,Ambleside Road,,Lightwater
+2024-04-26,685000,GU18 5PE,D,N,F,3,,Quarry Bank,,Lightwater
+2024-04-25,370000,GU18 5LE,T,N,F,39,,Barnett Lane,,Lightwater
+2024-04-22,560500,GU18 5TT,D,N,F,21,,Aplin Way,,Lightwater
+2024-04-22,515000,GU18 5RT,T,N,F,12,,Wychelm Road,,Lightwater
+2024-04-19,240000,GU18 5YT,F,N,L,46,,Ivy Drive,,Lightwater
+2024-04-19,365000,GU18 5SB,S,N,F,87,,Guildford Road,,Lightwater
+2024-04-19,415000,GU18 5RX,T,N,F,19,,Birchwood Drive,,Lightwater
+2024-04-18,885000,GU18 5PA,D,N,F,35,,Ling Drive,,Lightwater
+2024-04-11,680000,GU18 5YJ,D,N,F,15,,Clearsprings,,Lightwater
+2024-03-28,640000,GU18 5YB,D,N,F,166,,Macdonald Road,,Lightwater
+2024-03-27,212500,GU18 5SX,T,N,L,46,,Meadowbank Road,,Lightwater
+2024-03-27,435000,GU18 5LE,D,N,F,33,,Barnett Lane,,Lightwater
+2024-03-22,875000,GU18 5PA,D,N,F,7,,Ling Drive,,Lightwater
+2024-03-21,705000,GU18 5PF,D,N,F,12,,Deer Leap,,Lightwater
+2024-03-15,405000,GU18 5YX,T,N,F,70,,Spruce Drive,,Lightwater
+2024-03-13,300000,GU18 5AD,F,N,L,1,,John Norman Grove,,Lightwater
+2024-03-11,415000,GU18 5QX,S,N,F,6,,Gorse Bank,,Lightwater
+2024-03-01,560000,GU18 5TU,D,N,F,15,,Fox Covert,,Lightwater
+2024-02-21,1110000,GU18 5YH,D,N,F,67,,Curley Hill Road,,Lightwater
+2024-02-16,160000,GU18 5YN,F,N,L,35,,Bluebell Rise,,Lightwater
+2024-02-16,490000,GU18 5TE,S,N,F,2,,Copthorne Drive,,Lightwater
+2024-02-16,110000,GU18 5RY,F,N,L,"Passfield Lodge, 88",Apartment 17,Guildford Road,,Lightwater
+2024-02-16,700000,GU18 5RA,S,N,F,149,,Guildford Road,,Lightwater
+2024-02-09,766000,GU18 5SP,D,N,F,8,,Blackstroud Lane West,,Lightwater
+2024-01-29,465000,GU18 5RE,D,N,F,235,,Guildford Road,,Lightwater
+2024-01-26,710000,GU18 5PE,D,N,F,13,,Quarry Bank,,Lightwater
+2024-01-15,1175000,GU18 5UN,D,N,F,122,,Ambleside Road,,Lightwater
+2024-01-05,700000,GU18 5YB,D,N,F,125,,Macdonald Road,,Lightwater
+2024-01-05,570000,GU18 5TL,S,N,F,83,,Grasmere Road,,Lightwater
+2023-12-20,635000,GU18 5XE,D,N,F,24,,Keswick Drive,,Lightwater
+2023-12-19,615000,GU18 5YS,D,N,F,1,,The Orchard,,Lightwater
+2023-12-19,362400,GU18 5TD,T,N,F,6,,Ullswater Close,,Lightwater
+2023-12-15,850000,GU18 5TD,D,N,F,17,,Ullswater Close,,Lightwater
+2023-12-07,1095000,GU18 5YG,D,N,F,14,,Curley Hill Road,,Lightwater
+2023-12-06,754200,GU18 5UJ,D,N,F,113,,Ambleside Road,,Lightwater
+2023-12-05,320000,GU18 5YP,S,N,F,38,,Burdock Close,,Lightwater
+2023-11-30,749300,GU18 5TA,D,N,F,47,,Ambleside Road,,Lightwater
+2023-11-17,700000,GU18 5XZ,D,N,F,89,,Macdonald Road,,Lightwater
+2023-11-10,500000,GU18 5TG,D,N,F,12,,Grasmere Road,,Lightwater
+2023-11-08,622500,GU18 5TJ,S,N,F,36,,Grasmere Road,,Lightwater
+2023-11-06,392500,GU18 5RF,S,N,F,18,,The Avenue,,Lightwater
+2023-11-01,1200000,GU18 5TA,D,N,F,1,,Ambleside Road,,Lightwater
+2023-10-31,560000,GU18 5XE,D,N,F,73,,Keswick Drive,,Lightwater
+2023-10-31,970000,GU18 5UJ,D,N,F,88,,Ambleside Road,,Lightwater
+2023-10-31,400000,GU18 5RU,T,N,F,37,,Riverside Avenue,,Lightwater
+2023-10-27,1500000,GU18 5YB,D,N,F,135,,Macdonald Road,,Lightwater
+2023-10-26,735000,GU18 5LB,D,N,F,4,,Perry Way,,Lightwater
+2023-10-20,440000,GU18 5RE,S,N,F,227,,Guildford Road,,Lightwater
+2023-10-20,285000,GU18 5AD,F,N,L,18,,John Norman Grove,,Lightwater
+2023-10-19,700000,GU18 5TA,D,N,F,8,,Ambleside Road,,Lightwater
+2023-10-12,897500,GU18 5PA,D,N,F,6,,Ling Drive,,Lightwater
+2023-09-29,702000,GU18 5RG,S,N,F,72,,The Avenue,,Lightwater
+2023-09-29,380000,GU18 5QN,D,N,F,38,,Broom Field,,Lightwater
+2023-09-28,625000,GU18 5XX,D,N,F,42,,Ridgeway Close,,Lightwater
+2023-09-28,496615,GU18 5TG,S,N,F,13,,Grasmere Road,,Lightwater
+2023-09-28,220000,GU18 5SL,F,N,L,"Brookfield Court, 1",Flat 9,Broadway Road,,Lightwater
+2023-09-22,601500,GU18 5YL,D,N,F,34A,,Clearsprings,,Lightwater
+2023-09-22,625000,GU18 5TP,D,N,F,26A,,Mount Pleasant Close,,Lightwater
+2023-09-22,530000,GU18 5RP,D,N,F,100,,Guildford Road,,Lightwater
+2023-09-21,685000,GU18 5LB,D,N,F,8,,Perry Way,,Lightwater
+2023-09-18,640000,GU18 5XZ,D,N,F,104,,Macdonald Road,,Lightwater
+2023-09-14,245000,GU18 5RP,F,N,L,"Florence Villas, 108",Flat 9,Guildford Road,,Lightwater
+2023-09-14,560000,GU18 5RE,T,N,F,209,,Guildford Road,,Lightwater
+2023-09-08,690000,GU18 5YQ,D,N,F,35,,Curley Hill Road,,Lightwater
+2023-09-08,395000,GU18 5LF,T,N,F,11,,Alsford Close,,Lightwater
+2023-08-31,615000,GU18 5TR,D,N,F,62,,Mount Pleasant Close,,Lightwater
+2023-08-31,410000,GU18 5QW,S,N,F,91,,Broom Field,,Lightwater
+2023-08-30,217500,GU18 5UE,F,N,L,9,,Denly Way,,Lightwater
+2023-08-30,580000,GU18 5QW,D,N,F,78,,Broom Field,,Lightwater
+2023-08-25,465000,GU18 5RF,S,N,F,30,,The Avenue,,Lightwater
+2023-08-11,275000,GU18 5SX,F,N,L,34,,Meadowbank Road,,Lightwater
+2023-08-11,425000,GU18 5RB,S,N,F,179,,Guildford Road,,Lightwater
+2023-08-04,860000,GU18 5XS,D,N,F,Hillcrest,,The Ridgeway,,Lightwater
+2023-07-28,347500,GU18 5LB,T,N,F,22,,Perry Way,,Lightwater
+2023-07-27,270000,GU18 5RP,F,N,L,"Tuscany Villas, 110",Flat 4,Guildford Road,,Lightwater
+2023-07-24,1350000,GU18 5YH,D,N,F,50,,Curley Hill Road,,Lightwater
+2023-07-24,850000,GU18 5YA,D,N,F,101,,Macdonald Road,,Lightwater
+2023-07-14,465000,GU18 5TU,S,N,F,6,,Fox Covert,,Lightwater
+2023-07-11,224500,GU18 5YT,F,N,L,70,,Ivy Drive,,Lightwater
+2023-06-30,695000,GU18 5XH,D,N,F,13,,Lightwater Meadow,,Lightwater
+2023-06-30,510000,GU18 5TN,S,N,F,7,,Macdonald Road,,Lightwater
+2023-06-28,450000,GU18 5YX,T,N,F,68,,Spruce Drive,,Lightwater
+2023-06-16,325000,GU18 5YS,T,N,F,24,,The Orchard,,Lightwater
+2023-06-16,195000,GU18 5UE,F,N,L,4,,Denly Way,,Lightwater
+2023-06-15,940000,GU18 5TP,D,N,F,6,,Mount Pleasant Close,,Lightwater
+2023-06-13,1000000,GU18 5QQ,D,N,F,34,,Colville Gardens,,Lightwater
+2023-06-12,742500,GU18 5XR,D,N,F,Four Walls,,Blackstroud Lane East,,Lightwater
+2023-06-02,800000,GU18 5XS,D,N,F,Pinewood,,The Ridgeway,,Lightwater
+2023-05-30,180000,GU18 5RY,F,N,L,"Passfield Lodge, 88",Apartment 4,Guildford Road,,Lightwater
+2023-05-30,440000,GU18 5RQ,S,N,F,26,,Stonehill Road,,Lightwater
+2023-05-26,385000,GU18 5LA,T,N,F,21,,Corbett Drive,,Lightwater
+2023-05-22,1400000,GU18 5YH,D,N,F,45,,Curley Hill Road,,Lightwater
+2023-05-18,450000,GU18 5TN,D,N,F,9,,Macdonald Road,,Lightwater
+2023-05-09,155000,GU18 5RY,F,N,L,"Passfield Lodge, 88",Apartment 24,Guildford Road,,Lightwater
+2023-05-05,715000,GU18 5TA,D,N,F,53,,Ambleside Road,,Lightwater
+2023-04-28,500000,GU18 5XQ,D,N,F,Coniston,,Lightwater Road,,Lightwater
+2023-04-28,495500,GU18 5TB,S,N,F,9,,Ullswater Road,,Lightwater
+2023-04-28,699950,GU18 5ND,D,N,F,2,,Mallards Way,,Lightwater
+2023-04-21,520000,GU18 5RL,S,N,F,164,,Guildford Road,,Lightwater
+2023-04-20,500000,GU18 5RG,S,N,F,52,,The Avenue,,Lightwater
+2023-04-14,175000,GU18 5RY,F,N,L,"Passfield Lodge, 88",Apartment 5,Guildford Road,,Lightwater
+2023-03-31,1770000,GU18 5XR,D,N,F,Brooklands Farm,,Blackstroud Lane East,,Lightwater
+2023-03-31,185000,GU18 5RY,F,N,L,"Passfield Lodge, 88",Apartment 21,Guildford Road,,Lightwater
+2023-03-27,605000,GU18 5XE,D,N,F,39,,Keswick Drive,,Lightwater
+2023-03-27,427500,GU18 5TU,S,N,F,8,,Fox Covert,,Lightwater
+2023-03-27,685000,GU18 5PA,D,N,F,26,,Ling Drive,,Lightwater
+2023-03-23,490000,GU18 5TP,S,N,F,20,,Mount Pleasant Close,,Lightwater
+2023-03-10,985000,GU18 5YH,D,N,F,69,,Curley Hill Road,,Lightwater
+2023-03-03,400000,GU18 5YW,S,N,F,11,,Blackthorn Drive,,Lightwater
+2023-02-28,760000,GU18 5XU,D,N,F,8,,Ridgeway Close,,Lightwater
+2023-02-24,510000,GU18 5SL,D,N,F,5,,Broadway Road,,Lightwater
+2023-02-10,289950,GU18 5YT,F,N,L,101,,Ivy Drive,,Lightwater
+2023-02-09,225000,GU18 5YS,T,N,F,26,,The Orchard,,Lightwater
+2023-02-08,510000,GU18 5YL,D,N,F,24,,Clearsprings,,Lightwater
+2023-02-07,425000,GU18 5YW,D,N,F,25,,Blackthorn Drive,,Lightwater
+2023-01-31,450000,GU18 5YY,D,N,L,31,,Ivy Drive,,Lightwater
+2023-01-27,272500,GU18 5YX,T,N,F,34,,Spruce Drive,,Lightwater
+2023-01-27,570000,GU18 5XZ,D,N,F,102,,Macdonald Road,,Lightwater
+2023-01-20,722500,GU18 5YJ,D,N,F,12,,Clearsprings,,Lightwater
+2023-01-13,152500,GU18 5YN,F,N,L,31,,Bluebell Rise,,Lightwater
+2023-01-10,500000,GU18 5TN,S,N,F,28,,Macdonald Road,,Lightwater
+2022-12-15,640000,GU18 5UR,D,N,F,192,,Macdonald Road,,Lightwater
+2022-12-14,325000,GU18 5RY,T,N,F,80B,,Guildford Road,,Lightwater
+2022-12-13,770000,GU18 5UL,S,N,F,112,,Ambleside Road,,Lightwater
+2022-12-09,177500,GU18 5RY,F,N,L,"Passfield Lodge, 88",Apartment 11,Guildford Road,,Lightwater
+2022-12-09,720000,GU18 5ND,D,N,F,3,,Mallards Way,,Lightwater
+2022-11-29,290000,GU18 5RY,F,N,L,"Passfield Lodge, 88",Apartment 8,Guildford Road,,Lightwater
+2022-11-28,761000,GU18 5SN,D,N,F,10,,Guildford Road,,Lightwater
+2022-11-28,365000,GU18 5AA,T,N,F,26,,Coniston Court,,Lightwater
+2022-11-25,700000,GU18 5UW,D,N,F,160,,Ambleside Road,,Lightwater
+2022-11-25,1550000,GU18 5UH,D,N,F,48A,,Ambleside Road,,Lightwater
+2022-11-17,430000,GU18 5UG,T,N,F,53,,Christie Close,,Lightwater
+2022-11-17,270000,GU18 5SX,F,N,L,26,,Meadowbank Road,,Lightwater
+2022-11-02,303500,GU18 5AD,F,N,L,20,,John Norman Grove,,Lightwater
+2022-10-28,1100000,GU18 5XS,D,N,F,Old Oak Barn,,The Ridgeway,,Lightwater
+2022-10-28,750000,GU18 5UL,D,N,F,119,,Ambleside Road,,Lightwater
+2022-10-28,1130000,GU18 5QQ,D,N,F,2,,Colville Gardens,,Lightwater
+2022-10-27,400000,GU18 5QN,S,N,F,36,,Broom Field,,Lightwater
+2022-10-27,680000,GU18 5LE,D,N,F,21,,Barnett Lane,,Lightwater
+2022-10-25,600000,GU18 5XH,D,N,F,20,,Lightwater Meadow,,Lightwater
+2022-10-20,175000,GU18 5XQ,F,N,L,Oakleigh,Flat 1,Lightwater Road,,Lightwater
+2022-10-19,770000,GU18 5YR,D,N,F,28,,Northfield,,Lightwater
+2022-10-18,1250000,GU18 5UL,D,N,F,116A,,Ambleside Road,,Lightwater
+2022-10-18,600000,GU18 5TR,D,N,F,42,,Mount Pleasant Close,,Lightwater
+2022-10-18,745000,GU18 5TJ,D,N,F,44,,Grasmere Road,,Lightwater
+2022-10-17,380000,GU18 5YY,T,N,F,21,,Ivy Drive,,Lightwater
+2022-10-17,250000,GU18 5YT,F,N,L,77,,Ivy Drive,,Lightwater
+2022-10-17,640000,GU18 5TP,D,N,F,38,,Mount Pleasant Close,,Lightwater
+2022-10-14,195000,GU18 5QX,F,N,L,14,,Gorse Bank,,Lightwater
+2022-10-12,580000,GU18 5TE,S,N,F,1,,Copthorne Drive,,Lightwater
+2022-10-10,525000,GU18 5QN,S,N,F,34,,Broom Field,,Lightwater
+2022-10-07,565000,GU18 5TP,D,N,F,28,,Mount Pleasant Close,,Lightwater
+2022-10-05,826000,GU18 5UJ,D,N,F,94,,Ambleside Road,,Lightwater
+2022-09-30,362500,GU18 5RU,T,N,F,42,,Riverside Avenue,,Lightwater
+2022-09-28,585000,GU18 5XU,D,N,F,28,,Ridgeway Close,,Lightwater
+2022-09-23,165000,GU18 5XQ,F,N,L,Oakleigh,Flat 11,Lightwater Road,,Lightwater
+2022-09-21,1080000,GU18 5YB,D,N,F,160,,Macdonald Road,,Lightwater
+2022-09-15,452000,GU18 5QW,D,N,F,86,,Broom Field,,Lightwater
+2022-09-09,350000,GU18 5RX,T,N,F,19,,Birchwood Drive,,Lightwater
+2022-09-02,235000,GU18 5SL,F,N,L,"Brookfield Court, 1",Flat 10,Broadway Road,,Lightwater
+2022-09-02,186000,GU18 5RY,F,N,L,"Passfield Lodge, 88",Apartment 7,Guildford Road,,Lightwater
+2022-09-02,399950,GU18 5RG,S,N,F,73,,The Avenue,,Lightwater
+2022-08-31,750000,GU18 5SX,D,N,F,8,,Meadowbank Road,,Lightwater
+2022-08-26,225000,GU18 5AA,T,N,F,11,,Coniston Court,,Lightwater
+2022-08-17,320000,GU18 5YY,T,N,F,63,,Ivy Drive,,Lightwater
+2022-08-10,190500,GU18 5LF,F,N,L,59,,Alsford Close,,Lightwater
+2022-08-05,412000,GU18 5RG,S,N,F,71,,The Avenue,,Lightwater
+2022-07-29,1137500,GU18 5XX,D,N,F,43,,Ridgeway Close,,Lightwater
+2022-07-21,650000,GU18 5TA,D,N,F,22,,Ambleside Road,,Lightwater
+2022-07-15,385000,GU18 5UG,T,N,F,18,,Christie Close,,Lightwater
+2022-07-15,467000,GU18 5RG,S,N,F,67,,The Avenue,,Lightwater
+2022-07-13,700000,GU18 5UH,D,N,F,81,,Ambleside Road,,Lightwater
+2022-07-13,735000,GU18 5TR,D,N,F,64,,Mount Pleasant Close,,Lightwater
+2022-07-01,435000,GU18 5YL,T,N,F,20,,Clearsprings,,Lightwater
+2022-07-01,990000,GU18 5YG,D,N,F,1A,,Curley Hill Road,,Lightwater
+2022-07-01,676000,GU18 5XX,D,N,F,36,,Ridgeway Close,,Lightwater
+2022-07-01,275000,GU18 5AD,F,N,L,10,,John Norman Grove,,Lightwater
+2022-06-24,230000,GU18 5YS,T,N,F,13,,The Orchard,,Lightwater
+2022-06-06,560000,GU18 5YS,D,N,F,2,,The Orchard,,Lightwater
+2022-05-27,323000,GU18 5YS,T,N,F,10,,The Orchard,,Lightwater
+2022-05-27,428000,GU18 5RJ,S,N,F,257,,Guildford Road,,Lightwater
+2022-05-25,375000,GU18 5YW,T,N,F,22,,Blackthorn Drive,,Lightwater
+2022-05-25,625000,GU18 5UJ,D,N,F,107,,Ambleside Road,,Lightwater
+2022-05-25,499000,GU18 5LD,T,N,F,5,,Miles Place,,Lightwater
+2022-05-23,210000,GU18 5UE,F,N,L,3,,Denly Way,,Lightwater
+2022-05-13,810000,GU18 5PA,D,N,F,16,,Ling Drive,,Lightwater
+2022-05-12,585000,GU18 5TU,D,N,F,9,,Fox Covert,,Lightwater
+2022-05-06,615000,GU18 5TD,D,N,F,15,,Ullswater Close,,Lightwater
+2022-04-29,280000,GU18 5RP,F,N,L,"Florence Villas, 108",Flat 1,Guildford Road,,Lightwater
+2022-04-28,490000,GU18 5TB,S,N,F,13,,Ullswater Road,,Lightwater
+2022-04-28,495000,GU18 5SX,T,N,F,6,,Meadowbank Road,,Lightwater
+2022-04-22,145000,GU18 5YP,F,N,L,12,,Burdock Close,,Lightwater
+2022-04-22,800000,GU18 5TA,D,N,F,55,,Ambleside Road,,Lightwater
+2022-04-21,715000,GU18 5YZ,D,N,F,20,,Ivy Drive,,Lightwater
+2022-04-21,550000,GU18 5UN,D,N,F,120,,Ambleside Road,,Lightwater
+2022-04-21,410000,GU18 5TN,S,N,F,6,,Macdonald Road,,Lightwater
+2022-04-13,725000,GU18 5YJ,D,N,F,10,,Clearsprings,,Lightwater
+2022-04-08,675000,GU18 5YR,D,N,F,33,,Northfield,,Lightwater
+2022-04-06,225000,GU18 5YS,T,N,F,39,,The Orchard,,Lightwater
+2022-04-01,585000,GU18 5TR,D,N,F,35,,Mount Pleasant Close,,Lightwater
+2022-03-31,660000,GU18 5XQ,D,N,F,Buckhurst,,Lightwater Road,,Lightwater
+2022-03-31,400000,GU18 5RX,T,N,F,41,,Birchwood Drive,,Lightwater
+2022-03-31,580000,GU18 5RX,D,N,F,12,,Birchwood Drive,,Lightwater
+2022-03-30,180000,GU18 5YT,F,N,L,103,,Ivy Drive,,Lightwater
+2022-03-30,630000,GU18 5QS,D,N,F,7,,Shrublands Drive,,Lightwater
+2022-03-24,180000,GU18 5RP,F,N,L,"Florence Villas, 108",Flat 14,Guildford Road,,Lightwater
+2022-03-17,200000,GU18 5AD,F,N,L,16,,John Norman Grove,,Lightwater
+2022-03-15,640000,GU18 5TJ,S,N,F,36,,Grasmere Road,,Lightwater
+2022-03-11,400000,GU18 5RL,S,N,F,176,,Guildford Road,,Lightwater
+2022-03-09,120000,GU18 5XQ,F,N,L,Oakleigh,Flat 6,Lightwater Road,,Lightwater
+2022-03-07,325000,GU18 5TL,F,N,L,49,,Grasmere Road,,Lightwater
+2022-03-07,475000,GU18 5TF,S,N,F,8,,Grasmere Road,,Lightwater
+2022-03-04,255000,GU18 5RP,F,N,L,"Florence Villas, 108",Flat 2,Guildford Road,,Lightwater
+2022-03-02,520000,GU18 5XD,D,N,F,11,,Keswick Drive,,Lightwater
+2022-02-28,143000,GU18 5SL,F,N,L,"Brookfield Court, 1",Flat 12,Broadway Road,,Lightwater
+2022-02-15,810000,GU18 5UH,D,N,F,75A,,Ambleside Road,,Lightwater
+2022-02-15,137500,GU18 5UE,F,N,L,9,,Denly Way,,Lightwater
+2022-02-14,635000,GU18 5RW,D,N,F,134,,Guildford Road,,Lightwater
+2022-02-10,650000,GU18 5YJ,D,N,F,11,,Clearsprings,,Lightwater
+2022-02-07,325000,GU18 5YS,S,N,F,9,,The Orchard,,Lightwater
+2022-01-31,775000,GU18 5RL,D,N,F,202,,Guildford Road,,Lightwater
+2022-01-26,690000,GU18 5XT,D,N,F,Breiz,,Michelet Close,,Lightwater
+2022-01-14,645000,GU18 5TT,D,N,F,17,,Aplin Way,,Lightwater
+2022-01-14,385000,GU18 5QW,S,N,F,91,,Broom Field,,Lightwater
+2022-01-06,355000,GU18 5RW,T,N,F,150,,Guildford Road,,Lightwater
+2021-12-22,455000,GU18 5TN,T,N,F,32,,Macdonald Road,,Lightwater
+2021-12-17,1720000,GU18 5YF,D,N,F,16,,High View Road,,Lightwater
+2021-12-15,735000,GU18 5PB,D,N,F,3,,Sorrel Drive,,Lightwater
+2021-12-10,209000,GU18 5SD,F,N,L,"Hawley Court, 68",Flat 4,Guildford Road,,Lightwater
+2021-12-10,202000,GU18 5RX,F,N,L,51,,Birchwood Drive,,Lightwater
+2021-12-07,695000,GU18 5YG,D,N,F,9A,,Curley Hill Road,,Lightwater
+2021-12-02,622500,GU18 5YG,D,N,F,12,,Curley Hill Road,,Lightwater
+2021-11-30,765000,GU18 5YQ,D,N,F,37,,Curley Hill Road,,Lightwater
+2021-11-22,792000,GU18 5YQ,D,N,F,13A,,Curley Hill Road,,Lightwater
+2021-11-19,175000,GU18 5YN,F,N,L,25,,Bluebell Rise,,Lightwater
+2021-11-05,735000,GU18 5XS,D,N,F,Michelet,,The Ridgeway,,Lightwater
+2021-11-05,475000,GU18 5QZ,T,N,F,20,,Marshwood Road,,Lightwater
+2021-11-04,570000,GU18 5YR,D,N,F,23,,Northfield,,Lightwater
+2021-11-02,625250,GU18 5XU,D,N,F,6,,Ridgeway Close,,Lightwater
+2021-10-29,220000,GU18 5YT,F,N,L,48,,Ivy Drive,,Lightwater
+2021-10-27,175000,GU18 5YN,F,N,L,13,,Bluebell Rise,,Lightwater
+2021-10-26,840000,GU18 5TN,D,N,F,34A,,Macdonald Road,,Lightwater
+2021-10-19,680000,GU18 5XX,D,N,F,34,,Ridgeway Close,,Lightwater
+2021-10-15,820000,GU18 5PE,D,N,F,9,,Quarry Bank,,Lightwater
+2021-10-14,500000,GU18 5AG,D,N,F,1,,Orchard Close,,Lightwater
+2021-10-13,680000,GU18 5YJ,D,N,F,1,,Clearsprings,,Lightwater
+2021-09-30,491500,GU18 5YL,S,N,F,45,,Clearsprings,,Lightwater
+2021-09-30,429000,GU18 5RA,S,N,F,153,,Guildford Road,,Lightwater
+2021-09-30,275000,GU18 5AD,F,N,L,14,,John Norman Grove,,Lightwater
+2021-09-29,230000,GU18 5YT,F,N,L,60,,Ivy Drive,,Lightwater
+2021-09-28,523100,GU18 5YP,D,N,F,7,,Burdock Close,,Lightwater
+2021-09-20,690000,GU18 5TN,D,N,F,34C,,Macdonald Road,,Lightwater
+2021-09-20,245000,GU18 5RY,F,N,L,"Passfield Lodge, 88",Apartment 10,Guildford Road,,Lightwater
+2021-09-17,215000,GU18 5SX,F,N,L,40,,Meadowbank Road,,Lightwater
+2021-09-16,325000,GU18 5YY,S,N,F,65,,Ivy Drive,,Lightwater
+2021-09-08,525000,GU18 5UA,D,N,F,17,,Turnville Close,,Lightwater
+2021-09-08,165000,GU18 5RX,F,N,L,47,,Birchwood Drive,,Lightwater
+2021-09-08,640000,GU18 5QQ,F,N,L,6,,Colville Gardens,,Lightwater
+2021-09-02,585000,GU18 5XU,T,N,F,2,,Ridgeway Close,,Lightwater
+2021-09-02,340000,GU18 5TD,T,N,F,3,,Ullswater Close,,Lightwater
+2021-09-02,700000,GU18 5RL,D,N,F,182,,Guildford Road,,Lightwater
+2021-09-02,340000,GU18 5LE,S,N,F,55,,Barnett Lane,,Lightwater
+2021-08-20,600000,GU18 5TL,S,N,F,43,,Grasmere Road,,Lightwater
+2021-08-19,250000,GU18 5YT,F,N,L,79,,Ivy Drive,,Lightwater
+2021-08-06,227500,GU18 5YS,T,N,F,37,,The Orchard,,Lightwater
+2021-07-30,2460000,GU18 5SE,D,N,F,Manor Farm Cottage,,Rye Grove,,Lightwater
+2021-06-30,510000,GU18 5UT,S,N,F,Heatherwells Cottages,2,Macdonald Road,,Lightwater
+2021-06-30,532500,GU18 5UR,D,N,F,192,,Macdonald Road,,Lightwater
+2021-06-30,424500,GU18 5RX,T,N,F,23,,Birchwood Drive,,Lightwater
+2021-06-30,270000,GU18 5RP,F,N,L,"Florence Villas, 108",Flat 9,Guildford Road,,Lightwater
+2021-06-29,148000,GU18 5XQ,F,N,L,Oakleigh,Flat 9,Lightwater Road,,Lightwater
+2021-06-29,380000,GU18 5TU,S,N,F,30,,Fox Covert,,Lightwater
+2021-06-29,462000,GU18 5TN,T,N,F,2A,,Macdonald Road,,Lightwater
+2021-06-28,590000,GU18 5TT,D,N,F,20,,Aplin Way,,Lightwater
+2021-06-28,507000,GU18 5RB,S,N,F,193,,Guildford Road,,Lightwater
+2021-06-25,950000,GU18 5YX,D,N,F,40,,Spruce Drive,,Lightwater
+2021-06-25,370000,GU18 5YP,S,N,F,44,,Burdock Close,,Lightwater
+2021-06-25,493000,GU18 5SB,S,N,F,89,,Guildford Road,,Lightwater
+2021-06-24,600000,GU18 5YL,D,N,F,43,,Clearsprings,,Lightwater
+2021-06-22,345000,GU18 5TF,S,N,F,8,,Grasmere Road,,Lightwater
+2021-06-21,340000,GU18 5YU,T,N,F,63,,Spruce Drive,,Lightwater
+2021-06-21,230000,GU18 5YS,T,N,F,11,,The Orchard,,Lightwater
+2021-06-21,220000,GU18 5SD,F,N,L,"Hawley Court, 68",Flat 2,Guildford Road,,Lightwater
+2021-06-18,220000,GU18 5YS,F,N,F,19,,The Orchard,,Lightwater
+2021-06-18,650000,GU18 5LF,D,N,F,3,,Alsford Close,,Lightwater
+2021-06-18,395000,GU18 5LD,S,N,F,16,,Miles Place,,Lightwater
+2021-06-18,500000,GU18 5AG,D,N,F,3,,Orchard Close,,Lightwater
+2021-06-17,210000,GU18 5RX,F,N,L,75,,Birchwood Drive,,Lightwater
+2021-06-16,710000,GU18 5UN,D,N,F,141,,Ambleside Road,,Lightwater
+2021-06-16,470000,GU18 5RB,S,N,F,205,,Guildford Road,,Lightwater
+2021-06-16,625000,GU18 5QX,T,N,F,8,,Gorse Bank,,Lightwater
+2021-06-15,500000,GU18 5UH,D,N,F,58,,Ambleside Road,,Lightwater
+2021-06-04,430000,GU18 5YU,T,N,L,23,,Spruce Drive,,Lightwater
+2021-06-03,415000,GU18 5YU,T,N,F,9,,Spruce Drive,,Lightwater
+2021-06-03,155000,GU18 5SL,F,N,L,"Brookfield Court, 1",Flat 7,Broadway Road,,Lightwater
+2021-06-01,270000,GU18 5YX,T,N,F,30,,Spruce Drive,,Lightwater
+2021-05-28,450000,GU18 5YU,T,N,F,75,,Spruce Drive,,Lightwater
+2021-05-28,617750,GU18 5YB,D,N,F,127,,Macdonald Road,,Lightwater
+2021-05-26,340000,GU18 5RJ,T,N,F,259,,Guildford Road,,Lightwater
+2021-05-25,1275000,GU18 5SW,D,N,F,12,,Heronscourt,,Lightwater
+2021-05-21,550000,GU18 5TY,D,N,F,3,,Aplin Way,,Lightwater
+2021-05-21,497500,GU18 5SB,S,N,F,91,,Guildford Road,,Lightwater
+2021-05-20,815000,GU18 5YG,D,N,F,14,,Curley Hill Road,,Lightwater
+2021-05-20,630000,GU18 5XH,D,N,F,55,,Lightwater Meadow,,Lightwater
+2021-05-17,222000,GU18 5YS,T,N,F,36,,The Orchard,,Lightwater
+2021-05-14,185000,GU18 5SL,F,N,L,"Brookfield Court, 1",Flat 2,Broadway Road,,Lightwater
+2021-05-06,632500,GU18 5PB,D,N,F,1,,Sorrel Drive,,Lightwater
+2021-05-04,730000,GU18 5YQ,D,N,F,39,,Curley Hill Road,,Lightwater
+2021-04-30,560000,GU18 5YZ,D,N,F,30,,Ivy Drive,,Lightwater
+2021-04-30,605000,GU18 5LE,D,N,F,17,,Barnett Lane,,Lightwater
+2021-04-23,262000,GU18 5YT,F,N,L,56,,Ivy Drive,,Lightwater
+2021-04-19,650000,GU18 5XU,D,N,F,1,,Ridgeway Close,,Lightwater
+2021-04-19,600000,GU18 5TH,T,N,F,Laines End House,,Windermere Road,,Lightwater
+2021-04-16,482000,GU18 5RL,D,N,F,194,,Guildford Road,,Lightwater
+2021-04-15,450000,GU18 5RL,D,N,F,196,,Guildford Road,,Lightwater
+2021-04-09,460000,GU18 5XR,S,N,F,3,,Outfall Cottages,,Lightwater
+2021-04-09,525000,GU18 5RW,D,N,F,140,,Guildford Road,,Lightwater
+2021-04-09,175000,GU18 5RP,F,N,L,"Tuscany Villas, 110",Flat 6,Guildford Road,,Lightwater
+2021-04-08,425000,GU18 5QZ,D,N,F,8,,Marshwood Road,,Lightwater
+2021-04-07,880000,GU18 5YQ,D,N,F,17,,Curley Hill Road,,Lightwater
+2021-04-01,585000,GU18 5XR,S,N,F,Outfall Cottages,1,Blackstroud Lane East,,Lightwater
+2021-04-01,395000,GU18 5TU,S,N,F,12,,Fox Covert,,Lightwater
+2021-04-01,400000,GU18 5TH,T,N,F,Mathari,,Windermere Road,,Lightwater
+2021-03-31,228000,GU18 5YT,F,N,L,95,,Ivy Drive,,Lightwater
+2021-03-29,216000,GU18 5YT,F,N,L,87,,Ivy Drive,,Lightwater
+2021-03-29,320000,GU18 5YS,T,N,F,22,,The Orchard,,Lightwater
+2021-03-29,360000,GU18 5QW,T,N,F,85,,Broom Field,,Lightwater
+2021-03-29,787500,GU18 5PA,D,N,F,2,,Ling Drive,,Lightwater
+2021-03-26,195000,GU18 5YS,T,N,F,43,,The Orchard,,Lightwater
+2021-03-26,330000,GU18 5RX,T,N,F,37,,Birchwood Drive,,Lightwater
+2021-03-26,365000,GU18 5RL,T,N,F,152,,Guildford Road,,Lightwater
+2021-03-26,450000,GU18 5RD,F,N,F,Rhossan,,Catena Rise,,Lightwater
+2021-03-26,650000,GU18 5PJ,D,N,F,5,,The Willows,,Lightwater
+2021-03-26,348000,GU18 5LA,T,N,F,21,,Corbett Drive,,Lightwater
+2021-03-25,610000,GU18 5YN,D,N,F,6,,Bluebell Rise,,Lightwater
+2021-03-19,232000,GU18 5SX,F,N,L,22,,Meadowbank Road,,Lightwater
+2021-03-19,460000,GU18 5QZ,D,N,F,22,,Marshwood Road,,Lightwater
+2021-03-16,325000,GU18 5TL,S,N,F,57,,Grasmere Road,,Lightwater
+2021-03-16,300000,GU18 5AA,S,N,F,4,,Coniston Court,,Lightwater
+2021-03-15,325000,GU18 5YP,S,N,F,36,,Burdock Close,,Lightwater
+2021-03-12,305000,GU18 5YS,T,N,F,7,,The Orchard,,Lightwater
+2021-03-12,640000,GU18 5UW,D,N,F,162,,Ambleside Road,,Lightwater
+2021-03-12,370000,GU18 5RU,T,N,F,37,,Riverside Avenue,,Lightwater
+2021-03-12,725000,GU18 5RS,D,N,F,1,,Lovells Close,,Lightwater
+2021-03-10,610000,GU18 5UA,D,N,F,25A,,Turnville Close,,Lightwater
+2021-03-08,360000,GU18 5RA,S,N,F,115,,Guildford Road,,Lightwater
+2021-03-05,890000,GU18 5XT,D,N,F,Three Greens,,Michelet Close,,Lightwater
+2021-03-04,470000,GU18 5TW,D,N,F,44,,Macdonald Road,,Lightwater
+2021-03-04,427500,GU18 5AA,T,N,F,15,,Coniston Court,,Lightwater
+2021-02-25,735000,GU18 5YD,D,N,F,Willows,,Cranwell Grove,,Lightwater
+2021-02-22,1025000,GU18 5YE,D,N,F,10,,High View Road,,Lightwater
+2021-02-22,867500,GU18 5YB,D,N,F,133,,Macdonald Road,,Lightwater
+2021-02-19,385000,GU18 5RQ,S,N,F,2,,Stonehill Road,,Lightwater
+2021-02-11,600000,GU18 5TP,D,N,F,30,,Mount Pleasant Close,,Lightwater
+2021-02-11,285000,GU18 5LD,T,N,F,3,,Miles Place,,Lightwater
+2021-02-08,600000,GU18 5YR,D,N,F,2,,Northfield,,Lightwater
+2021-02-05,320000,GU18 5YS,T,N,F,5,,The Orchard,,Lightwater
+2021-02-05,572000,GU18 5YR,D,N,F,18,,Northfield,,Lightwater
+2021-02-05,620000,GU18 5XD,D,N,F,1,,Keswick Drive,,Lightwater
+2021-02-05,225000,GU18 5RG,F,N,L,97,,The Avenue,,Lightwater
+2021-02-04,775500,GU18 5QQ,D,N,F,39,,Colville Gardens,,Lightwater
+2021-01-28,800000,GU18 5SN,D,N,F,18A,,Guildford Road,,Lightwater
+2021-01-27,700000,GU18 5XS,D,N,F,Heronswood,,The Ridgeway,,Lightwater
+2021-01-26,380000,GU18 5YL,T,N,F,25,,Clearsprings,,Lightwater
+2021-01-25,380000,GU18 5TE,D,N,F,10,,Copthorne Drive,,Lightwater
+2021-01-22,510000,GU18 5TN,S,N,F,1A,,Macdonald Road,,Lightwater
+2021-01-21,830000,GU18 5YB,D,N,F,131,,Macdonald Road,,Lightwater
+2021-01-18,405000,GU18 5RU,T,N,F,46,,Riverside Avenue,,Lightwater
+2021-01-15,340000,GU18 5RQ,S,N,F,6,,Stonehill Road,,Lightwater
+2021-01-06,685000,GU18 5PJ,D,N,F,11,,The Willows,,Lightwater

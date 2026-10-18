@@ -1,0 +1,573 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-10,733000,TW4 7BW,S,N,F,23,,Cranbrook Road,,Hounslow
+2026-08-05,620000,TW4 5NA,S,N,F,85,,Redfern Avenue,Whitton,Hounslow
+2026-08-04,400000,TW4 7JJ,T,N,F,24,,Ivanhoe Road,,Hounslow
+2026-07-31,325000,TW4 6ES,F,N,L,Langley House,Flat 4,Beavers Lane,,Hounslow
+2026-07-28,527000,TW4 5EU,T,N,F,65,,Avondale Gardens,,Hounslow
+2026-07-27,585000,TW4 5BG,S,N,F,21,,Munster Avenue,,Hounslow
+2026-07-24,285000,TW4 7RJ,F,N,L,Springwell Court,11,Springwell Road,,Hounslow
+2026-07-24,317500,TW4 7QH,F,N,L,5,,Grantley Road,,Hounslow
+2026-07-22,520000,TW4 7AJ,S,N,F,6,,The Greenway,,Hounslow
+2026-07-16,611000,TW4 7ES,S,N,F,7,,Ferndale Avenue,,Hounslow
+2026-07-10,250000,TW4 5DN,F,N,L,36,,Newcombe Gardens,,Hounslow
+2026-07-09,222500,TW4 5NQ,F,N,L,8,,Grafton Close,Whitton,Hounslow
+2026-06-25,400000,TW4 5JW,T,N,F,21,,Orchard Road,,Hounslow
+2026-06-25,664000,TW4 5HZ,S,N,F,1,,Wyndham Crescent,Whitton,Hounslow
+2026-06-12,620000,TW4 7JX,T,N,F,10,,Francis Road,,Hounslow
+2026-06-12,563000,TW4 6AJ,S,N,F,54,,Cardington Square,,Hounslow
+2026-06-10,500000,TW4 7AB,T,N,F,4,,Old Farm Close,,Hounslow
+2026-06-09,430000,TW4 5JW,T,N,F,28,,Orchard Road,,Hounslow
+2026-06-05,510000,TW4 7DR,T,N,F,44,,Maitland Close,,Hounslow
+2026-05-28,445000,TW4 5LW,T,N,F,39,,Conway Road,Whitton,Hounslow
+2026-05-22,435000,TW4 7EZ,T,N,F,131,,Martindale Road,,Hounslow
+2026-05-21,108500,TW4 6DW,F,N,L,Brooker Court,2,Fusiliers Way,,Hounslow
+2026-05-18,605000,TW4 6LT,T,N,F,17,,Byron Avenue,,Hounslow
+2026-04-24,370000,TW4 5DZ,F,N,L,"Bishopsgate House, 527 - 529",Flat 16,Staines Road,,Hounslow
+2026-04-16,600000,TW4 6AR,S,N,F,44,,Hinton Avenue,,Hounslow
+2026-04-13,600000,TW4 6AJ,S,N,F,67,,Cardington Square,,Hounslow
+2026-04-08,512000,TW4 5BU,T,N,F,10,,Heathlands Way,,Hounslow
+2026-04-02,300000,TW4 5BH,T,N,F,124,,Midsummer Avenue,,Hounslow
+2026-03-31,290000,TW4 5EB,T,N,F,17,,Dorney Way,,Hounslow
+2026-03-30,451000,TW4 5HJ,T,N,F,44,,Marshall Close,,Hounslow
+2026-03-27,750000,TW4 7NF,S,N,F,82,,Great South West Road,,Hounslow
+2026-03-27,330000,TW4 6EQ,F,N,L,Oakley Court,Flat 10,Fusiliers Way,,Hounslow
+2026-03-26,384047,TW4 6HR,S,N,F,25,,Arundel Road,,Hounslow
+2026-03-25,542000,TW4 5NY,S,N,F,747,,Hanworth Road,Whitton,Hounslow
+2026-03-24,567500,TW4 5HH,S,N,F,23,,Roseheath Road,,Hounslow
+2026-03-20,360000,TW4 5DZ,F,N,L,"Bishopsgate House, 527 - 529",Flat 26,Staines Road,,Hounslow
+2026-03-10,560000,TW4 5NN,S,N,F,26,,Heathside,Whitton,Hounslow
+2026-03-09,400000,TW4 5EA,T,N,F,2,,Wraysbury Close,,Hounslow
+2026-03-06,390000,TW4 5NG,T,N,F,6,,Atherley Way,Whitton,Hounslow
+2026-03-03,485000,TW4 5LU,S,N,F,22,,Harvey Road,Whitton,Hounslow
+2026-02-27,460000,TW4 5PF,S,N,F,3,,Mill Farm Crescent,Whitton,Hounslow
+2026-02-27,603000,TW4 5HX,S,N,F,11,,Avondale Gardens,,Hounslow
+2026-02-27,293000,TW4 5EU,F,N,L,43,,Avondale Gardens,,Hounslow
+2026-02-26,555000,TW4 7JT,S,N,F,69,,Francis Road,,Hounslow
+2026-02-25,578000,TW4 5BN,S,N,F,29,,Connaught Avenue,,Hounslow
+2026-02-19,400000,TW4 7AT,T,N,F,69,,Clare Road,,Hounslow
+2026-02-19,435000,TW4 6HR,T,N,F,23,,Arundel Road,,Hounslow
+2026-02-12,410000,TW4 5EZ,T,N,F,39,,Garrison Close,,Hounslow
+2026-02-12,220000,TW4 5EY,F,N,L,10,,Nursery Gardens,,Hounslow
+2026-02-11,500000,TW4 5JZ,T,N,F,19,,Benham Gardens,,Hounslow
+2026-02-09,680000,TW4 5NU,S,N,F,758,,Hanworth Road,Whitton,Hounslow
+2026-02-06,760000,TW4 5PU,S,N,F,29,,Curtis Road,Whitton,Hounslow
+2026-02-06,350000,TW4 5LP,F,N,L,115,,Conway Road,Whitton,Hounslow
+2026-02-06,595000,TW4 5HW,S,N,F,28,,Beresford Gardens,,Hounslow
+2026-02-04,535000,TW4 6NA,T,N,F,107,,Chaucer Avenue,,Hounslow
+2026-01-30,482000,TW4 5PU,D,N,F,15,,Curtis Road,Whitton,Hounslow
+2026-01-30,315000,TW4 5DZ,F,N,L,"Bishopsgate House, 527 - 529",Flat 2,Staines Road,,Hounslow
+2026-01-30,226000,TW4 5AE,F,N,L,9,,Bennett Close,,Hounslow
+2026-01-22,315000,TW4 6HY,F,N,L,18,,Warwick Road,,Hounslow
+2026-01-20,350000,TW4 7QP,S,N,F,46,,St Dunstans Road,,Hounslow
+2026-01-19,570000,TW4 6LT,T,N,F,37,,Byron Avenue,,Hounslow
+2026-01-09,279950,TW4 5AH,F,N,L,40,,Blackburn Way,,Hounslow
+2025-12-18,610000,TW4 5NB,S,N,F,5,,Gerard Avenue,Whitton,Hounslow
+2025-12-16,615000,TW4 7JS,S,N,F,68,,Francis Road,,Hounslow
+2025-12-16,455000,TW4 7AX,T,N,F,124,,Standard Road,,Hounslow
+2025-12-11,430000,TW4 5EU,T,N,F,58,,Avondale Gardens,,Hounslow
+2025-12-02,461500,TW4 6AD,T,N,F,9,,Tivoli Road,,Hounslow
+2025-11-25,300000,TW4 6AD,F,N,L,85,,Tivoli Road,,Hounslow
+2025-11-17,200000,TW4 7QB,F,N,L,85,,Travellers Way,,Hounslow
+2025-11-14,197500,TW4 7AS,F,N,L,4A,,Standard Road,,Hounslow
+2025-11-14,710000,TW4 5HF,S,N,F,3,,Beverley Avenue,,Hounslow
+2025-11-11,338000,TW4 5NS,F,N,L,680A,,Hanworth Road,Whitton,Hounslow
+2025-11-04,320000,TW4 5NW,F,N,L,2,,The Birches,,Hounslow
+2025-10-31,120000,TW4 7BZ,F,N,L,"New Bell House, 4",Flat 18,Earl Haig Close,,Hounslow
+2025-10-31,555000,TW4 6NB,T,N,F,12,,Chaucer Avenue,,Hounslow
+2025-10-29,575000,TW4 5JZ,T,N,F,20,,Benham Gardens,,Hounslow
+2025-10-28,403000,TW4 6AJ,S,N,F,59,,Cardington Square,,Hounslow
+2025-10-24,449000,TW4 6AD,T,N,F,29,,Tivoli Road,,Hounslow
+2025-10-22,475000,TW4 5EQ,S,N,F,40,,Crestwood Way,,Hounslow
+2025-10-17,450000,TW4 7DR,T,N,F,18,,Maitland Close,,Hounslow
+2025-10-17,260000,TW4 7BH,S,N,L,76A,,Cambridge Road,,Hounslow
+2025-10-17,310500,TW4 5NW,F,N,L,9,,The Birches,,Hounslow
+2025-10-17,305000,TW4 5DN,F,N,L,8,,Newcombe Gardens,,Hounslow
+2025-09-30,307000,TW4 7RR,F,N,L,"Swallowfield House, 448 - 450",Flat 3,Bath Road,,Hounslow
+2025-09-25,179000,TW4 5EL,F,N,L,43,,Drayton Close,,Hounslow
+2025-09-19,695000,TW4 7NF,S,N,F,80,,Great South West Road,,Hounslow
+2025-09-19,580000,TW4 7BT,S,N,F,25,,Cambridge Road,,Hounslow
+2025-09-10,640000,TW4 5BJ,S,N,F,118,,Munster Avenue,,Hounslow
+2025-09-05,495000,TW4 6LR,T,N,F,4,,Burnham Gardens,,Hounslow
+2025-09-05,545000,TW4 6LA,T,N,F,8,,Berkeley Avenue,,Hounslow
+2025-09-05,460000,TW4 6AS,T,N,F,133,,Tivoli Road,,Hounslow
+2025-09-04,500000,TW4 5LE,S,N,F,444,,Hanworth Road,,Hounslow
+2025-08-28,480000,TW4 7AB,T,N,F,54,,Old Farm Close,,Hounslow
+2025-08-28,575000,TW4 6LD,T,N,F,109,,Berkeley Avenue,,Hounslow
+2025-08-27,533000,TW4 6EU,S,N,F,97,,Beavers Crescent,,Hounslow
+2025-08-21,560000,TW4 6NA,T,N,F,99,,Chaucer Avenue,,Hounslow
+2025-08-19,510000,TW4 6AQ,T,N,F,2,,Laurel Gardens,,Hounslow
+2025-08-15,348000,TW4 6AR,S,N,F,52,,Hinton Avenue,,Hounslow
+2025-08-08,450000,TW4 7NQ,T,N,F,121,,Great South West Road,,Hounslow
+2025-08-04,515000,TW4 5LU,T,N,F,4,,Harvey Road,Whitton,Hounslow
+2025-08-01,572500,TW4 7LF,S,N,F,17,,Basildene Road,,Hounslow
+2025-07-30,462500,TW4 7QL,T,N,F,13,,Cedar Road,,Hounslow
+2025-07-11,332500,TW4 6ES,F,N,L,Langley House,Flat 21,Beavers Lane,,Hounslow
+2025-07-11,370000,TW4 5EQ,T,N,F,26,,Crestwood Way,,Hounslow
+2025-07-04,200000,TW4 7JQ,T,N,F,21A,,Rosemary Avenue,,Hounslow
+2025-07-04,527500,TW4 7BU,S,N,F,17,,Ashton Gardens,,Hounslow
+2025-06-30,295000,TW4 7BZ,F,N,L,"New Bell House, 4",Flat 46,Earl Haig Close,,Hounslow
+2025-06-27,840000,TW4 7AA,S,N,F,110,,Wellington Road North,,Hounslow
+2025-06-27,425000,TW4 6AZ,T,N,F,28,,Corporation Avenue,,Hounslow
+2025-06-20,520000,TW4 7RL,T,N,F,373,,Bath Road,,Hounslow
+2025-06-13,214536,TW4 6FB,F,N,L,Datchet House,Flat 22,Chester Road,,Hounslow
+2025-06-11,245000,TW4 5LD,F,N,L,"Carlton House, 458",8,Hanworth Road,,Hounslow
+2025-06-10,305000,TW4 5AE,F,N,L,41,,Bennett Close,,Hounslow
+2025-06-06,504000,TW4 6AY,T,N,F,48,,Charter Crescent,,Hounslow
+2025-06-03,310000,TW4 5PQ,F,N,L,59,,Farm Road,Whitton,Hounslow
+2025-05-30,186000,TW4 5EG,F,N,L,Berry Court,Flat 33,Raglan Close,,Hounslow
+2025-05-27,452000,TW4 7BY,T,N,F,30,,Belgrave Road,,Hounslow
+2025-05-22,318000,TW4 5EY,F,N,L,16,,Nursery Gardens,,Hounslow
+2025-05-15,610000,TW4 7LE,S,N,F,54,,Basildene Road,,Hounslow
+2025-05-13,280000,TW4 5DZ,F,N,L,"Bishopsgate House, 527 - 529",Flat 30,Staines Road,,Hounslow
+2025-05-09,427000,TW4 6HT,S,N,F,33,,Lichfield Road,,Hounslow
+2025-05-02,502000,TW4 7BN,T,N,F,14,,Cranbrook Road,,Hounslow
+2025-05-02,425000,TW4 5JW,T,N,F,25,,Orchard Road,,Hounslow
+2025-04-30,537000,TW4 7JJ,T,N,F,6,,Ivanhoe Road,,Hounslow
+2025-04-30,610000,TW4 5HA,S,N,F,217,,Wellington Road South,,Hounslow
+2025-04-23,300000,TW4 5NA,F,N,L,69,,Redfern Avenue,Whitton,Hounslow
+2025-04-15,320000,TW4 5DB,F,N,L,6,,Kimber Place,Whitton,Hounslow
+2025-04-10,245000,TW4 5LZ,F,N,L,110,,Redfern Avenue,Whitton,Hounslow
+2025-04-03,440000,TW4 5LY,S,N,F,10,,Redfern Avenue,Whitton,Hounslow
+2025-03-31,390000,TW4 6AG,T,N,F,28,,Barrack Road,,Hounslow
+2025-03-31,555000,TW4 5NJ,S,N,F,33,,Heathside,Whitton,Hounslow
+2025-03-28,660000,TW4 7LE,D,N,F,12,,Basildene Road,,Hounslow
+2025-03-28,515000,TW4 6EJ,T,N,F,7,,Beavers Lane,,Hounslow
+2025-03-28,305000,TW4 5QE,F,N,L,62,,Simpson Road,Whitton,Hounslow
+2025-03-28,300000,TW4 5ED,T,N,F,18,,Pickwick Close,,Hounslow
+2025-03-28,555000,TW4 5BB,S,N,F,36,,Midsummer Avenue,,Hounslow
+2025-03-27,510000,TW4 6AA,T,N,F,30,,Tivoli Road,,Hounslow
+2025-03-27,207000,TW4 5EG,F,N,L,Berry Court,Flat 30,Raglan Close,,Hounslow
+2025-03-26,500000,TW4 6AZ,S,N,F,52,,Corporation Avenue,,Hounslow
+2025-03-26,485000,TW4 6AS,T,N,F,97,,Tivoli Road,,Hounslow
+2025-03-25,545000,TW4 7LZ,T,N,F,49,,Marnell Way,,Hounslow
+2025-03-21,600000,TW4 7EZ,S,N,F,173C,,Martindale Road,,Hounslow
+2025-03-21,190000,TW4 7BH,F,N,L,74A,,Cambridge Road,,Hounslow
+2025-03-14,535000,TW4 7RT,T,N,F,47,,Legrace Avenue,,Hounslow
+2025-02-28,536000,TW4 5PG,T,N,F,18,,Mill Farm Crescent,Whitton,Hounslow
+2025-02-25,485000,TW4 7JG,T,N,F,72,,Rosemary Avenue,,Hounslow
+2025-02-24,325000,TW4 5LZ,F,N,L,70,,Redfern Avenue,Whitton,Hounslow
+2025-02-18,504000,TW4 5LE,T,N,F,484,,Hanworth Road,,Hounslow
+2025-02-17,330000,TW4 7EZ,T,N,F,121,,Martindale Road,,Hounslow
+2025-02-14,190000,TW4 7RJ,F,N,L,Springwell Court,10,Springwell Road,,Hounslow
+2025-02-12,220000,TW4 7DR,F,N,L,25,,Maitland Close,,Hounslow
+2025-02-12,456500,TW4 5AY,T,N,F,71,,Midsummer Avenue,,Hounslow
+2025-02-11,338000,TW4 5BX,F,N,L,Helix Court,Flat 3,Hedera Place,,Hounslow
+2025-02-06,530500,TW4 5BN,T,N,F,41,,Connaught Avenue,,Hounslow
+2025-01-17,355000,TW4 5HT,T,N,F,14,,Yew Tree Walk,,Hounslow
+2025-01-15,370000,TW4 5EQ,T,N,F,4,,Crestwood Way,,Hounslow
+2025-01-10,277000,TW4 5LZ,F,N,L,96,,Redfern Avenue,Whitton,Hounslow
+2024-12-20,330000,TW4 7AS,F,N,L,96,,Standard Road,,Hounslow
+2024-12-02,300000,TW4 7EZ,F,N,L,137,Ground Floor Flat,Martindale Road,,Hounslow
+2024-11-28,360000,TW4 7QL,S,N,F,8,,Cedar Road,,Hounslow
+2024-11-28,572500,TW4 5NN,D,N,F,38,,Heathside,Whitton,Hounslow
+2024-11-22,572500,TW4 5DN,T,N,F,7,,Newcombe Gardens,,Hounslow
+2024-11-19,320000,TW4 5EZ,F,N,L,34,,Garrison Close,,Hounslow
+2024-11-18,415000,TW4 7QA,T,N,F,46,,Travellers Way,,Hounslow
+2024-11-15,575000,TW4 7LR,S,N,F,73,,Clifford Road,,Hounslow
+2024-11-14,300000,TW4 7QL,F,N,L,19,,Cedar Road,,Hounslow
+2024-11-13,595000,TW4 5BJ,S,N,F,120,,Munster Avenue,,Hounslow
+2024-11-12,470000,TW4 5ED,T,N,F,7,,Pickwick Close,,Hounslow
+2024-11-11,385000,TW4 7EZ,T,N,F,153,,Martindale Road,,Hounslow
+2024-11-11,392000,TW4 5EN,T,N,F,23,,Beaulieu Close,,Hounslow
+2024-11-08,215000,TW4 7QB,F,N,L,125,,Travellers Way,,Hounslow
+2024-11-08,235000,TW4 5EU,F,N,L,61,,Avondale Gardens,,Hounslow
+2024-10-31,342000,TW4 7QN,S,N,F,14,,St Dunstans Road,,Hounslow
+2024-10-28,352500,TW4 7QG,S,N,F,8,,Aston Green,,Hounslow
+2024-10-28,315000,TW4 5DR,F,N,L,12,,Islay Gardens,,Hounslow
+2024-10-25,495000,TW4 5LW,D,N,F,65,,Conway Road,Whitton,Hounslow
+2024-10-18,494500,TW4 6EX,S,N,F,60,,Beavers Crescent,,Hounslow
+2024-10-17,540000,TW4 5EZ,T,N,F,75,,Garrison Close,,Hounslow
+2024-10-14,582000,TW4 6AJ,S,N,F,65,,Cardington Square,,Hounslow
+2024-10-11,670000,TW4 6AP,T,N,F,25,,Hinton Avenue,,Hounslow
+2024-10-07,610000,TW4 5NJ,D,N,F,63,,Heathside,Whitton,Hounslow
+2024-09-24,195000,TW4 5AY,F,N,L,35,,Midsummer Avenue,,Hounslow
+2024-09-23,545000,TW4 7LS,T,N,F,31,,Clifford Road,,Hounslow
+2024-09-20,400000,TW4 5JW,T,N,F,33,,Orchard Road,,Hounslow
+2024-09-19,460000,TW4 6HS,S,N,F,54,,Lichfield Road,,Hounslow
+2024-09-17,425000,TW4 6LN,T,N,F,12,,Field Close,,Hounslow
+2024-09-10,343000,TW4 5NA,F,N,L,17,,Redfern Avenue,Whitton,Hounslow
+2024-09-06,595000,TW4 5NU,S,N,F,760,,Hanworth Road,Whitton,Hounslow
+2024-09-05,520000,TW4 5EZ,T,N,F,59,,Garrison Close,,Hounslow
+2024-08-27,540000,TW4 5BJ,S,N,F,158,,Munster Avenue,,Hounslow
+2024-08-23,484000,TW4 6EX,T,N,F,52,,Beavers Crescent,,Hounslow
+2024-08-14,468000,TW4 6EX,T,N,F,64,,Beavers Crescent,,Hounslow
+2024-08-14,615000,TW4 5NN,D,N,F,8,,Heathside,Whitton,Hounslow
+2024-08-14,420000,TW4 5EZ,T,N,F,73,,Garrison Close,,Hounslow
+2024-08-06,480000,TW4 6HW,T,N,F,14,,Ely Road,,Hounslow
+2024-08-05,610000,TW4 7EP,S,N,F,20,,Martindale Road,,Hounslow
+2024-08-02,525000,TW4 6LS,T,N,F,21,,Burnham Gardens,,Hounslow
+2024-07-29,424000,TW4 6EU,T,N,F,79,,Beavers Crescent,,Hounslow
+2024-07-17,580000,TW4 5PS,S,N,F,687,,Hanworth Road,Whitton,Hounslow
+2024-07-15,493500,TW4 6EU,S,N,F,67,,Beavers Crescent,,Hounslow
+2024-07-15,297500,TW4 5PL,F,N,L,Mill House,7,Millfield Road,Whitton,Hounslow
+2024-07-12,555000,TW4 7LT,T,N,F,30,,Clifford Road,,Hounslow
+2024-07-12,291000,TW4 5PX,F,N,L,1,Flat 11,Corfe Close,Whitton,Hounslow
+2024-07-12,610000,TW4 5LU,S,N,F,70,,Harvey Road,Whitton,Hounslow
+2024-07-05,137500,TW4 5PZ,F,N,L,19,Flat D,Corfe Close,Whitton,Hounslow
+2024-07-04,465000,TW4 6HW,T,N,F,20,,Ely Road,,Hounslow
+2024-06-28,570000,TW4 7EU,S,N,F,20,,Ravensdale Road,,Hounslow
+2024-06-28,464000,TW4 6EY,T,N,F,19,,Cavalry Crescent,,Hounslow
+2024-06-28,424000,TW4 6EU,T,N,F,81,,Beavers Crescent,,Hounslow
+2024-06-28,464500,TW4 6EU,T,N,F,103,,Beavers Crescent,,Hounslow
+2024-06-28,170000,TW4 5JJ,F,N,L,Beverley Court,3,Wellington Road South,,Hounslow
+2024-06-19,495000,TW4 6EU,S,N,F,71,,Beavers Crescent,,Hounslow
+2024-06-14,320000,TW4 5QP,F,N,L,140,,Edgar Road,Whitton,Hounslow
+2024-06-14,195000,TW4 5AY,F,N,L,51,,Midsummer Avenue,,Hounslow
+2024-06-11,464000,TW4 6EX,T,N,F,66,,Beavers Crescent,,Hounslow
+2024-06-10,300000,TW4 5EU,F,N,L,45,,Avondale Gardens,,Hounslow
+2024-06-04,240000,TW4 7BH,F,N,L,74,,Cambridge Road,,Hounslow
+2024-06-03,154000,TW4 5ED,F,N,L,30,,Pickwick Close,,Hounslow
+2024-05-31,507500,TW4 6LX,T,N,F,28,,Byron Avenue,,Hounslow
+2024-05-31,479500,TW4 6EY,T,N,F,18,,Cavalry Crescent,,Hounslow
+2024-05-31,293000,TW4 6DW,F,N,L,Brooker Court,3,Fusiliers Way,,Hounslow
+2024-05-30,545000,TW4 5NN,T,N,F,20,,Heathside,Whitton,Hounslow
+2024-05-30,720000,TW4 5LH,D,N,F,534,,Hanworth Road,Whitton,Hounslow
+2024-05-28,449500,TW4 6EY,S,N,F,28,,Cavalry Crescent,,Hounslow
+2024-05-28,424250,TW4 5PU,T,N,F,1,,Curtis Road,Whitton,Hounslow
+2024-05-23,494500,TW4 6EU,S,N,F,65,,Beavers Crescent,,Hounslow
+2024-05-22,500000,TW4 6EX,S,N,F,72,,Beavers Crescent,,Hounslow
+2024-05-22,272000,TW4 5AE,F,N,L,4,,Bennett Close,,Hounslow
+2024-05-17,540000,TW4 7AR,S,N,F,63,,Standard Road,,Hounslow
+2024-05-10,496000,TW4 6EX,S,N,F,70,,Beavers Crescent,,Hounslow
+2024-05-02,611500,TW4 5EZ,T,N,F,6,,Garrison Close,,Hounslow
+2024-04-30,494000,TW4 6ET,S,N,F,55,,Beavers Crescent,,Hounslow
+2024-04-26,240000,TW4 6EE,F,N,L,Clements Court,95,Green Lane,,Hounslow
+2024-04-26,700000,TW4 5NT,S,N,F,720,,Hanworth Road,Whitton,Hounslow
+2024-04-26,265000,TW4 5AT,F,N,L,18,,Alliance Close,,Hounslow
+2024-04-25,482500,TW4 6EY,T,N,F,17,,Cavalry Crescent,,Hounslow
+2024-04-22,585000,TW4 5HF,T,N,F,12,,Beverley Avenue,,Hounslow
+2024-04-03,600000,TW4 5BW,S,N,F,16,,Connaught Avenue,,Hounslow
+2024-03-28,469000,TW4 6EY,T,N,F,21,,Cavalry Crescent,,Hounslow
+2024-03-28,484000,TW4 6EU,T,N,F,107,,Beavers Crescent,,Hounslow
+2024-03-27,320000,TW4 7DH,T,N,L,18,,Solway Close,,Hounslow
+2024-03-22,630000,TW4 5NN,D,N,F,44,,Heathside,Whitton,Hounslow
+2024-03-15,502500,TW4 6EX,S,N,F,56,,Beavers Crescent,,Hounslow
+2024-03-08,474500,TW4 6EX,T,N,F,48,,Beavers Crescent,,Hounslow
+2024-03-08,582000,TW4 5EU,S,N,F,63,,Avondale Gardens,,Hounslow
+2024-03-08,288000,TW4 5AE,F,N,L,10,,Bennett Close,,Hounslow
+2024-03-07,285000,TW4 7PW,T,N,F,13,,Ermine Close,,Hounslow
+2024-03-07,569000,TW4 5HF,S,N,F,13,,Beverley Avenue,,Hounslow
+2024-03-04,280000,TW4 7QF,F,N,L,Rectory Court,3,Rectory Road,,Hounslow
+2024-02-29,427500,TW4 6EU,T,N,F,73,,Beavers Crescent,,Hounslow
+2024-02-29,464000,TW4 6EU,T,N,F,105,,Beavers Crescent,,Hounslow
+2024-02-22,465000,TW4 6EU,T,N,F,91,,Beavers Crescent,,Hounslow
+2024-02-16,440000,TW4 5EX,T,N,F,32,,Frampton Road,,Hounslow
+2024-02-14,750000,TW4 5LF,S,N,F,399,,Hanworth Road,,Hounslow
+2024-02-08,535000,TW4 7BG,S,N,F,92,,Cambridge Close,,Hounslow
+2024-02-02,585000,TW4 6AQ,T,N,F,5,,Laurel Gardens,,Hounslow
+2024-01-30,470000,TW4 6HW,S,N,F,4,,Ely Road,,Hounslow
+2024-01-26,425000,TW4 7RU,S,N,F,19,,Lela Avenue,,Hounslow
+2024-01-26,355000,TW4 7AA,S,N,F,82,,Wellington Road North,,Hounslow
+2024-01-26,435000,TW4 6HW,S,N,F,32,,Ely Road,,Hounslow
+2024-01-26,417000,TW4 5JW,T,N,F,20,,Orchard Road,,Hounslow
+2024-01-17,540000,TW4 5NB,T,N,F,2,,Gerard Avenue,Whitton,Hounslow
+2024-01-05,445000,TW4 5PG,T,N,F,52,,Mill Farm Crescent,Whitton,Hounslow
+2023-12-20,605000,TW4 7LZ,S,N,F,61,,Marnell Way,,Hounslow
+2023-12-19,565000,TW4 7RB,T,N,F,39,,Renfrew Road,,Hounslow
+2023-12-15,469000,TW4 6EY,T,N,F,20,,Cavalry Crescent,,Hounslow
+2023-12-14,560000,TW4 5HX,S,N,F,29,,Avondale Gardens,,Hounslow
+2023-12-13,305000,TW4 5LZ,F,N,L,74,,Redfern Avenue,Whitton,Hounslow
+2023-12-08,467000,TW4 7DR,T,N,F,49,,Maitland Close,,Hounslow
+2023-12-07,560000,TW4 7RY,S,N,F,94,,Lela Avenue,,Hounslow
+2023-12-06,435000,TW4 5PJ,T,N,F,65,,Mill Farm Crescent,Whitton,Hounslow
+2023-12-01,300000,TW4 5PQ,F,N,L,55,,Farm Road,Whitton,Hounslow
+2023-11-30,503420,TW4 7BX,T,N,F,52,,Logan Close,,Hounslow
+2023-11-24,450000,TW4 6LA,T,N,F,68,,Berkeley Avenue,,Hounslow
+2023-11-17,585000,TW4 6AH,S,N,F,6,,Cardington Square,,Hounslow
+2023-11-16,586000,TW4 7RS,S,N,F,6,,Legrace Avenue,,Hounslow
+2023-11-10,479000,TW4 6EU,T,N,F,93,,Beavers Crescent,,Hounslow
+2023-10-27,400000,TW4 5NG,T,N,F,13,,Atherley Way,Whitton,Hounslow
+2023-10-26,250000,TW4 5PQ,F,N,L,67,,Farm Road,Whitton,Hounslow
+2023-10-12,510000,TW4 7JW,T,N,F,120,,Rosemary Avenue,,Hounslow
+2023-09-21,499000,TW4 6EX,S,N,F,54,,Beavers Crescent,,Hounslow
+2023-09-20,450000,TW4 6EY,S,N,F,27,,Cavalry Crescent,,Hounslow
+2023-09-19,431000,TW4 6EU,T,N,F,77,,Beavers Crescent,,Hounslow
+2023-09-15,491000,TW4 6EU,T,N,F,101,,Beavers Crescent,,Hounslow
+2023-09-15,470000,TW4 6AR,S,N,F,26,,Hinton Avenue,,Hounslow
+2023-09-15,227000,TW4 5AZ,F,N,L,195,,Midsummer Avenue,,Hounslow
+2023-09-14,440000,TW4 7DR,T,N,F,50,,Maitland Close,,Hounslow
+2023-09-14,500000,TW4 5LX,T,N,F,9,,Harvey Road,Whitton,Hounslow
+2023-09-06,514000,TW4 6EU,S,N,F,97,,Beavers Crescent,,Hounslow
+2023-08-30,557500,TW4 5LA,S,N,F,10,,Shelburne Drive,Whitton,Hounslow
+2023-08-25,590000,TW4 6LE,T,N,F,51,,Berkeley Avenue,,Hounslow
+2023-08-25,514000,TW4 6EU,S,N,F,99,,Beavers Crescent,,Hounslow
+2023-08-24,449000,TW4 6EY,S,N,F,24,,Cavalry Crescent,,Hounslow
+2023-08-22,475000,TW4 6HG,T,N,F,175,,Beavers Lane,,Hounslow
+2023-08-18,645000,TW4 5HX,T,N,F,12,,Avondale Gardens,,Hounslow
+2023-08-15,439500,TW4 6EU,T,N,F,57,,Beavers Crescent,,Hounslow
+2023-08-11,425000,TW4 6AY,T,N,F,17,,Charter Crescent,,Hounslow
+2023-08-10,550000,TW4 5JZ,T,N,F,26,,Benham Gardens,,Hounslow
+2023-08-04,514000,TW4 6EX,S,N,F,58,,Beavers Crescent,,Hounslow
+2023-08-04,640000,TW4 5NN,D,N,F,54,,Heathside,Whitton,Hounslow
+2023-08-02,476000,TW4 6EX,T,N,F,50,,Beavers Crescent,,Hounslow
+2023-07-31,484000,TW4 6EX,T,N,F,68,,Beavers Crescent,,Hounslow
+2023-07-31,515000,TW4 6ET,S,N,F,53,,Beavers Crescent,,Hounslow
+2023-07-28,487000,TW4 6EX,T,N,F,62,,Beavers Crescent,,Hounslow
+2023-07-14,484000,TW4 6EU,T,N,F,89,,Beavers Crescent,,Hounslow
+2023-07-11,510000,TW4 6AJ,S,N,F,78,,Cardington Square,,Hounslow
+2023-07-07,372000,TW4 7QR,S,N,F,46,,Stansfield Road,,Hounslow
+2023-06-30,474000,TW4 6EU,T,N,F,59,,Beavers Crescent,,Hounslow
+2023-06-30,391000,TW4 5EQ,T,N,F,31,,Crestwood Way,,Hounslow
+2023-06-29,312500,TW4 5AE,F,N,L,17,,Bennett Close,,Hounslow
+2023-06-26,525000,TW4 6EN,T,N,F,30,,Beavers Lane,,Hounslow
+2023-06-26,265000,TW4 6AE,F,N,L,Sycamore Court,33,Barrack Road,,Hounslow
+2023-06-22,555000,TW4 6AF,S,N,F,11,,Barrack Road,,Hounslow
+2023-06-14,458000,TW4 6LN,T,N,F,27,,Field Close,,Hounslow
+2023-06-13,449000,TW4 6EY,S,N,F,26,,Cavalry Crescent,,Hounslow
+2023-06-09,612000,TW4 7BG,S,N,F,90,,Cambridge Close,,Hounslow
+2023-06-09,535000,TW4 6AH,S,N,F,33,,Cardington Square,,Hounslow
+2023-06-09,500000,TW4 5LH,S,N,F,552,,Hanworth Road,Whitton,Hounslow
+2023-06-08,480000,TW4 7JQ,S,N,F,31,,Rosemary Avenue,,Hounslow
+2023-06-08,265000,TW4 6AD,F,N,L,21,,Tivoli Road,,Hounslow
+2023-06-01,570000,TW4 7JU,T,N,F,19,,Francis Road,,Hounslow
+2023-06-01,484000,TW4 6EU,T,N,F,95,,Beavers Crescent,,Hounslow
+2023-05-31,525000,TW4 6LW,S,N,F,14,,Westwick Gardens,,Hounslow
+2023-05-19,467000,TW4 6EU,T,N,F,61,,Beavers Crescent,,Hounslow
+2023-05-19,247000,TW4 5PZ,F,N,L,19,Flat C,Corfe Close,Whitton,Hounslow
+2023-05-19,350000,TW4 5NA,F,N,L,65,,Redfern Avenue,Whitton,Hounslow
+2023-05-15,705000,TW4 7RS,S,N,F,50,,Legrace Avenue,,Hounslow
+2023-05-12,449500,TW4 6EY,S,N,F,25,,Cavalry Crescent,,Hounslow
+2023-05-12,430000,TW4 6EU,T,N,F,75,,Beavers Crescent,,Hounslow
+2023-05-05,320000,TW4 7DD,F,N,L,Noel Court,5,Bath Road,,Hounslow
+2023-05-03,525000,TW4 7BL,T,N,F,34,,Bowness Drive,,Hounslow
+2023-05-03,484000,TW4 6EX,T,N,F,46,,Beavers Crescent,,Hounslow
+2023-04-21,210000,TW4 5QN,F,N,L,131,,Edgar Road,Whitton,Hounslow
+2023-04-14,610000,TW4 7EU,T,N,F,29,,Ravensdale Road,,Hounslow
+2023-04-14,292000,TW4 6HQ,F,N,L,238,,Beavers Lane,,Hounslow
+2023-04-11,430000,TW4 5LL,D,N,F,1,,Conway Road,Whitton,Hounslow
+2023-04-06,320000,TW4 5AH,F,N,L,74,,Blackburn Way,,Hounslow
+2023-04-04,590000,TW4 7JL,T,N,F,42,,Manor Avenue,,Hounslow
+2023-04-04,700000,TW4 5NN,D,N,F,56,,Heathside,Whitton,Hounslow
+2023-03-31,730000,TW4 5LH,D,N,F,518,,Hanworth Road,Whitton,Hounslow
+2023-03-31,282500,TW4 5JF,F,N,L,Wellington House,Flat 3,Beresford Gardens,,Hounslow
+2023-03-30,285000,TW4 5AH,F,N,L,53,,Blackburn Way,,Hounslow
+2023-03-29,500000,TW4 5LW,D,N,F,89,,Conway Road,Whitton,Hounslow
+2023-03-28,257000,TW4 5AE,F,N,L,6,,Bennett Close,,Hounslow
+2023-03-27,375000,TW4 5NL,F,N,L,13,,Dunleary Close,Whitton,Hounslow
+2023-03-27,505000,TW4 5LL,D,N,F,19A,,Conway Road,Whitton,Hounslow
+2023-03-27,225500,TW4 5EB,F,N,L,8,,Dorney Way,,Hounslow
+2023-03-22,435000,TW4 5EZ,T,N,F,10,,Garrison Close,,Hounslow
+2023-03-22,275000,TW4 5AH,F,N,L,3,,Blackburn Way,,Hounslow
+2023-03-17,690000,TW4 7ER,S,N,F,1,,Dale Avenue,,Hounslow
+2023-03-13,400000,TW4 7RT,T,N,F,55A,,Legrace Avenue,,Hounslow
+2023-03-13,715000,TW4 6LJ,T,N,F,5,,Regent Close,,Hounslow
+2023-03-10,510000,TW4 6NA,T,N,F,81,,Chaucer Avenue,,Hounslow
+2023-02-24,520000,TW4 6NB,S,N,F,22,,Chaucer Avenue,,Hounslow
+2023-02-24,315000,TW4 6DT,F,N,L,Mansion Court,2,Fusiliers Way,,Hounslow
+2023-02-14,300000,TW4 7RJ,F,N,L,Springwell Court,8,Springwell Road,,Hounslow
+2023-02-03,635000,TW4 5BG,S,N,F,31,,Munster Avenue,,Hounslow
+2023-01-30,500000,TW4 6LJ,T,N,F,4,,Regent Close,,Hounslow
+2023-01-26,662500,TW4 5PS,S,N,F,701,,Hanworth Road,Whitton,Hounslow
+2023-01-26,320000,TW4 5NA,F,N,L,61,,Redfern Avenue,Whitton,Hounslow
+2023-01-19,118000,TW4 7BZ,F,Y,L,"New Bell House, 4",Flat 13,Earl Haig Close,,Hounslow
+2023-01-18,475000,TW4 7RN,T,N,F,8,,Renfrew Road,,Hounslow
+2023-01-04,562500,TW4 5LU,S,N,F,66,,Harvey Road,Whitton,Hounslow
+2022-12-21,660000,TW4 5JU,S,N,F,338,,Wellington Road South,,Hounslow
+2022-12-19,540000,TW4 7RX,S,N,F,18,,Kevin Close,,Hounslow
+2022-12-09,337000,TW4 5LP,F,N,L,129,,Conway Road,Whitton,Hounslow
+2022-12-07,950000,TW4 5HT,S,N,F,36,,Yew Tree Walk,,Hounslow
+2022-12-06,244500,TW4 7DB,F,Y,L,"Poppy House, 6",Flat 2,Earl Haig Close,,Hounslow
+2022-11-29,297000,TW4 7RE,F,N,L,Poole Court,2,Poole Court Road,,Hounslow
+2022-11-28,638000,TW4 7HH,F,N,F,1A,,Fir Tree Road,,Hounslow
+2022-11-24,335000,TW4 6HG,F,N,L,201,,Beavers Lane,,Hounslow
+2022-11-03,240000,TW4 5AE,F,N,L,7,,Bennett Close,,Hounslow
+2022-10-28,95000,TW4 7HT,F,N,L,362A,,Bath Road,,Hounslow
+2022-10-27,627000,TW4 5PS,D,N,F,689,,Hanworth Road,Whitton,Hounslow
+2022-10-26,650000,TW4 7NH,S,N,F,93,,Great South West Road,,Hounslow
+2022-10-24,490000,TW4 6AB,T,N,F,2,,Gloucester Road,,Hounslow
+2022-10-20,350000,TW4 5NL,F,N,L,2,,Dunleary Close,Whitton,Hounslow
+2022-10-18,350000,TW4 5NL,F,N,L,9,,Dunleary Close,Whitton,Hounslow
+2022-10-14,370000,TW4 6JF,F,N,L,8,,Green Lane,,Hounslow
+2022-10-06,520000,TW4 5PJ,T,N,F,95,,Mill Farm Crescent,Whitton,Hounslow
+2022-10-04,500000,TW4 5PG,T,N,F,40,,Mill Farm Crescent,Whitton,Hounslow
+2022-09-30,140000,TW4 6FA,F,N,L,Davis Court,Flat 7,Tivoli Road,,Hounslow
+2022-09-29,588000,TW4 7BG,S,N,F,6,,Cambridge Close,,Hounslow
+2022-09-28,500000,TW4 7LP,D,N,F,2,,Wilton Road,,Hounslow
+2022-09-27,525000,TW4 7AS,T,N,F,38,,Standard Road,,Hounslow
+2022-09-26,525000,TW4 7EZ,T,N,F,117,,Martindale Road,,Hounslow
+2022-09-23,285000,TW4 5AE,F,N,L,8,,Bennett Close,,Hounslow
+2022-09-20,440000,TW4 5HP,T,N,F,8,,Brompton Close,,Hounslow
+2022-09-08,500000,TW4 5NN,D,N,F,34,,Heathside,Whitton,Hounslow
+2022-08-26,220000,TW4 7AF,F,N,L,Flat 7,,West Point Close,,Hounslow
+2022-08-26,220000,TW4 7AF,F,N,L,Flat 3,,West Point Close,,Hounslow
+2022-08-26,280000,TW4 5DZ,F,Y,L,"Bishopsgate House, 527 - 529",Flat 56,Staines Road,,Hounslow
+2022-08-24,470000,TW4 6HS,T,N,F,30,,Lichfield Road,,Hounslow
+2022-08-19,750000,TW4 6AR,S,N,F,22,,Hinton Avenue,,Hounslow
+2022-08-18,615000,TW4 7BG,S,N,F,40,,Cambridge Close,,Hounslow
+2022-08-04,270000,TW4 5DZ,F,Y,L,"Bishopsgate House, 527 - 529",Flat 55,Staines Road,,Hounslow
+2022-08-01,407000,TW4 5JW,T,N,F,28,,Orchard Road,,Hounslow
+2022-07-29,515000,TW4 7LH,T,N,F,35,,Vincent Road,,Hounslow
+2022-07-29,408000,TW4 5EQ,T,N,F,33,,Crestwood Way,,Hounslow
+2022-07-25,114000,TW4 7BZ,F,Y,L,"New Bell House, 4",Flat 46,Earl Haig Close,,Hounslow
+2022-07-15,215000,TW4 5EW,F,N,L,31,,Beaulieu Close,,Hounslow
+2022-07-14,365000,TW4 5QE,F,N,L,8,,Simpson Road,Whitton,Hounslow
+2022-07-11,625000,TW4 5LU,S,N,F,60,,Harvey Road,Whitton,Hounslow
+2022-07-04,300000,TW4 7DL,F,N,L,Harrier Court,Flat 5,Siddeley Drive,,Hounslow
+2022-06-27,475000,TW4 5HT,S,N,F,1,,Yew Tree Walk,,Hounslow
+2022-06-24,413500,TW4 5EZ,T,N,F,8,,Garrison Close,,Hounslow
+2022-06-24,240000,TW4 5ED,F,N,L,23,,Pickwick Close,,Hounslow
+2022-06-21,492000,TW4 6LF,T,N,F,97,,Berkeley Avenue,,Hounslow
+2022-06-01,306000,TW4 5DZ,F,Y,L,"Bishopsgate House, 527 - 529",Flat 58,Staines Road,,Hounslow
+2022-05-27,180000,TW4 7QB,F,N,L,5,,Travellers Way,,Hounslow
+2022-05-26,513000,TW4 7LP,T,N,F,7,,Wilton Road,,Hounslow
+2022-05-26,435000,TW4 6HG,S,N,F,169,,Beavers Lane,,Hounslow
+2022-05-20,535000,TW4 6HX,T,N,F,14,,Chester Road,,Hounslow
+2022-05-20,385000,TW4 5EX,T,N,F,31,,Frampton Road,,Hounslow
+2022-05-16,650000,TW4 5DR,T,N,F,1C,,Islay Gardens,,Hounslow
+2022-05-12,317000,TW4 5EZ,F,N,L,48,,Garrison Close,,Hounslow
+2022-05-11,750000,TW4 7NF,S,N,F,52,,Great South West Road,,Hounslow
+2022-04-28,445000,TW4 6EN,S,N,F,28,,Beavers Lane,,Hounslow
+2022-04-28,305000,TW4 5DZ,F,Y,L,"Bishopsgate House, 527 - 529",Flat 60,Staines Road,,Hounslow
+2022-04-27,345000,TW4 6AW,S,N,F,52,,Barrack Road,,Hounslow
+2022-04-26,450000,TW4 6NB,T,N,F,34,,Chaucer Avenue,,Hounslow
+2022-04-22,200000,TW4 7BP,T,N,F,3,,Logan Close,,Hounslow
+2022-04-08,327500,TW4 7QB,F,N,L,87,,Travellers Way,,Hounslow
+2022-04-06,475000,TW4 6LT,T,N,F,13,,Byron Avenue,,Hounslow
+2022-04-04,535000,TW4 6HW,T,N,F,3,,Ely Road,,Hounslow
+2022-04-01,435000,TW4 5EX,S,N,F,46,,Frampton Road,,Hounslow
+2022-03-31,467000,TW4 6LW,S,N,F,8,,Westwick Gardens,,Hounslow
+2022-03-30,470000,TW4 7AR,T,N,F,77,,Standard Road,,Hounslow
+2022-03-29,397000,TW4 7JJ,T,N,F,32,,Ivanhoe Road,,Hounslow
+2022-03-29,529000,TW4 5NT,T,N,F,716,,Hanworth Road,Whitton,Hounslow
+2022-03-25,495000,TW4 6EN,S,N,F,24A,,Beavers Lane,,Hounslow
+2022-03-22,197500,TW4 5EE,F,N,L,Sheridan Court,17,Vickers Way,,Hounslow
+2022-03-21,470000,TW4 6LR,T,N,F,10,,Burnham Gardens,,Hounslow
+2022-03-18,515000,TW4 7HD,S,N,F,3,,Heathdale Avenue,,Hounslow
+2022-03-18,230000,TW4 7DE,F,N,L,210,Flat 2,Bath Road,,Hounslow
+2022-03-18,250000,TW4 5PL,F,N,L,Mill House,6,Millfield Road,Whitton,Hounslow
+2022-03-18,394950,TW4 5BU,S,N,F,9,,Heathlands Way,,Hounslow
+2022-03-14,495000,TW4 5BQ,S,N,F,70,,Munster Avenue,,Hounslow
+2022-03-09,520000,TW4 6LD,T,N,F,107,,Berkeley Avenue,,Hounslow
+2022-03-07,630000,TW4 5NS,T,N,F,694,,Hanworth Road,Whitton,Hounslow
+2022-03-04,320000,TW4 6HG,F,N,L,215,,Beavers Lane,,Hounslow
+2022-02-28,205000,TW4 7NE,T,N,L,5,,Lancaster Place,,Hounslow
+2022-02-25,500000,TW4 7JN,T,N,F,65,,Manor Avenue,,Hounslow
+2022-02-25,330000,TW4 7DH,F,N,L,30,,Solway Close,,Hounslow
+2022-02-25,430000,TW4 5EZ,S,N,F,37,,Garrison Close,,Hounslow
+2022-02-18,410000,TW4 6HT,S,N,F,21,,Lichfield Road,,Hounslow
+2022-02-17,220000,TW4 6EB,F,N,L,Clements Court,43,Green Lane,,Hounslow
+2022-02-11,399950,TW4 7AT,T,N,F,67,,Clare Road,,Hounslow
+2022-02-02,499000,TW4 6AN,S,N,F,79,,Barrack Road,,Hounslow
+2022-02-02,290000,TW4 5DZ,F,Y,L,"Bishopsgate House, 527 - 529",Flat 50,Staines Road,,Hounslow
+2022-01-28,372000,TW4 5EQ,T,N,F,3,,Crestwood Way,,Hounslow
+2022-01-20,392000,TW4 6JF,F,N,L,36,,Green Lane,,Hounslow
+2022-01-13,375000,TW4 7RY,T,N,F,4,,Lela Avenue,,Hounslow
+2022-01-13,528000,TW4 6AJ,S,N,F,88,,Cardington Square,,Hounslow
+2022-01-05,575000,TW4 5DR,T,N,F,1B,,Islay Gardens,,Hounslow
+2022-01-04,386500,TW4 5NG,T,N,F,3,,Atherley Way,Whitton,Hounslow
+2021-12-23,561000,TW4 6AN,S,N,F,61,,Barrack Road,,Hounslow
+2021-12-20,570000,TW4 5DR,T,N,F,1A,,Islay Gardens,,Hounslow
+2021-12-03,263000,TW4 5LP,F,N,L,119,,Conway Road,Whitton,Hounslow
+2021-12-03,385000,TW4 5BT,T,N,F,13,,Linslade Close,,Hounslow
+2021-11-26,525000,TW4 6AR,S,N,F,20,,Hinton Avenue,,Hounslow
+2021-11-23,535000,TW4 7LG,T,N,F,57,,Basildene Road,,Hounslow
+2021-11-19,403000,TW4 7LE,T,N,F,50,,Basildene Road,,Hounslow
+2021-11-19,195000,TW4 5EG,F,N,L,Berry Court,Flat 41,Raglan Close,,Hounslow
+2021-11-12,400000,TW4 7BQ,T,N,F,7,,Cambridge Close,,Hounslow
+2021-11-11,250000,TW4 5QL,F,N,L,109,,Edgar Road,Whitton,Hounslow
+2021-11-10,463000,TW4 7ES,T,N,F,34,,Ferndale Avenue,,Hounslow
+2021-11-05,250000,TW4 7RG,T,N,F,31,,Elmdon Road,,Hounslow
+2021-10-25,381000,TW4 7AT,T,N,F,27,,Clare Road,,Hounslow
+2021-10-22,300000,TW4 5QW,F,N,L,62,,Edgar Road,Whitton,Hounslow
+2021-10-14,460000,TW4 5JX,D,N,F,362,,Wellington Road South,,Hounslow
+2021-10-08,438000,TW4 7AB,T,N,F,48,,Old Farm Close,,Hounslow
+2021-10-08,430000,TW4 6AD,T,N,F,93,,Tivoli Road,,Hounslow
+2021-10-05,445000,TW4 6LX,T,N,F,62,,Byron Avenue,,Hounslow
+2021-10-04,500000,TW4 6AZ,S,N,F,52,,Corporation Avenue,,Hounslow
+2021-09-30,260000,TW4 6AR,F,N,L,18A,,Hinton Avenue,,Hounslow
+2021-09-30,701000,TW4 5HY,D,N,F,465,,Wellington Road South,,Hounslow
+2021-09-28,475000,TW4 7LT,T,N,F,8,,Clifford Road,,Hounslow
+2021-09-24,600000,TW4 5LU,S,N,F,6,,Harvey Road,Whitton,Hounslow
+2021-09-17,445000,TW4 7RF,T,N,F,8,,Poole Court Road,,Hounslow
+2021-09-08,310000,TW4 7HG,F,N,L,267,,Martindale Road,,Hounslow
+2021-09-02,300000,TW4 5DR,F,N,L,20,,Islay Gardens,,Hounslow
+2021-08-31,165000,TW4 7PP,F,N,L,5,,Mink Court,,Hounslow
+2021-08-20,237500,TW4 5QN,F,N,L,129,,Edgar Road,Whitton,Hounslow
+2021-08-20,270000,TW4 5NQ,F,N,L,10,,Grafton Close,Whitton,Hounslow
+2021-08-16,475000,TW4 6LS,T,N,F,57,,Burnham Gardens,,Hounslow
+2021-08-11,550000,TW4 6LU,T,N,F,97,,Byron Avenue,,Hounslow
+2021-08-04,168000,TW4 5LD,F,N,L,"Carlton House, 458",8,Hanworth Road,,Hounslow
+2021-08-02,229000,TW4 7RJ,F,N,L,Springwell Court,15,Springwell Road,,Hounslow
+2021-07-30,230000,TW4 5AH,F,N,L,20,,Blackburn Way,,Hounslow
+2021-07-16,268000,TW4 5NA,F,N,L,71,,Redfern Avenue,Whitton,Hounslow
+2021-07-13,245000,TW4 7AF,F,N,L,Flat 1,,West Point Close,,Hounslow
+2021-07-09,235000,TW4 7DE,F,N,L,210,Flat 6,Bath Road,,Hounslow
+2021-06-30,540000,TW4 6HT,T,N,F,39,,Lichfield Road,,Hounslow
+2021-06-30,531000,TW4 6AF,S,N,F,25,,Barrack Road,,Hounslow
+2021-06-30,367500,TW4 5DZ,F,Y,L,"Bishopsgate House, 527 - 529",Flat 65,Staines Road,,Hounslow
+2021-06-30,597000,TW4 5AA,S,N,F,404,,Staines Road,,Hounslow
+2021-06-29,550000,TW4 6AR,S,N,F,74,,Hinton Avenue,,Hounslow
+2021-06-29,530000,TW4 6AR,S,N,F,72,,Hinton Avenue,,Hounslow
+2021-06-29,490000,TW4 5LW,T,N,F,55,,Conway Road,Whitton,Hounslow
+2021-06-29,381000,TW4 5EZ,T,N,F,22,,Garrison Close,,Hounslow
+2021-06-29,380000,TW4 5BB,T,N,F,94,,Midsummer Avenue,,Hounslow
+2021-06-28,572500,TW4 5LY,S,N,F,4,,Redfern Avenue,Whitton,Hounslow
+2021-06-28,232992,TW4 5HQ,T,N,F,251,,Wellington Road South,,Hounslow
+2021-06-28,640000,TW4 5HF,S,N,F,3,,Beverley Avenue,,Hounslow
+2021-06-25,505000,TW4 7LU,T,N,F,110,,Basildene Road,,Hounslow
+2021-06-25,480000,TW4 5JU,T,N,F,332,,Wellington Road South,,Hounslow
+2021-06-25,210000,TW4 5AH,F,N,L,33,,Blackburn Way,,Hounslow
+2021-06-24,450000,TW4 6AN,S,N,F,79,,Barrack Road,,Hounslow
+2021-06-24,381000,TW4 5DZ,F,Y,L,"Bishopsgate House, 527 - 529",Flat 28,Staines Road,,Hounslow
+2021-06-23,515000,TW4 6EH,S,N,F,41,,Beavers Lane,,Hounslow
+2021-06-22,280000,TW4 5LZ,F,N,L,102,,Redfern Avenue,Whitton,Hounslow
+2021-06-18,400000,TW4 5LN,T,N,F,9,,Meadow Close,,Hounslow
+2021-06-16,280000,TW4 5LY,F,N,L,50,,Redfern Avenue,Whitton,Hounslow
+2021-06-14,530000,TW4 5LA,S,N,F,22,,Shelburne Drive,Whitton,Hounslow
+2021-06-11,371500,TW4 7AB,T,N,F,18,,Old Farm Close,,Hounslow
+2021-06-04,260000,TW4 5JT,F,N,L,286A,,Wellington Road South,,Hounslow
+2021-06-01,461000,TW4 6HX,T,N,F,24,,Chester Road,,Hounslow
+2021-05-28,274500,TW4 7AB,T,N,F,71,,Old Farm Close,,Hounslow
+2021-05-28,340000,TW4 5DZ,F,Y,L,"Bishopsgate House, 527 - 529",Flat 35,Staines Road,,Hounslow
+2021-05-27,340000,TW4 7NH,S,N,F,37,,Great South West Road,,Hounslow
+2021-05-25,472500,TW4 5LU,S,N,F,10,,Harvey Road,Whitton,Hounslow
+2021-05-19,369000,TW4 5DZ,F,Y,L,"Bishopsgate House, 527 - 529",Flat 17,Staines Road,,Hounslow
+2021-05-14,463000,TW4 7LG,T,N,F,77,,Basildene Road,,Hounslow
+2021-05-14,540000,TW4 6AN,S,N,F,63,,Barrack Road,,Hounslow
+2021-05-14,287500,TW4 5PH,F,N,L,75,,Farm Road,Whitton,Hounslow
+2021-05-14,465000,TW4 5LY,S,N,F,36,,Redfern Avenue,Whitton,Hounslow
+2021-05-10,357000,TW4 5DZ,F,Y,L,"Bishopsgate House, 527 - 529",Flat 34,Staines Road,,Hounslow
+2021-05-04,330000,TW4 7QD,S,N,F,17,,Stansfield Road,,Hounslow
+2021-05-04,290000,TW4 6HS,F,N,L,24,,Lichfield Road,,Hounslow
+2021-04-28,425000,TW4 5HP,T,N,F,9,,Brompton Close,,Hounslow
+2021-04-23,510000,TW4 5AH,T,N,F,69,,Blackburn Way,,Hounslow
+2021-04-16,230000,TW4 5QP,F,N,L,88,,Edgar Road,Whitton,Hounslow
+2021-04-13,320000,TW4 5NG,T,N,F,2,,Atherley Way,Whitton,Hounslow
+2021-04-12,300000,TW4 5DZ,F,Y,L,"Bishopsgate House, 527 - 529",Flat 30,Staines Road,,Hounslow
+2021-04-12,344000,TW4 5DZ,F,Y,L,"Bishopsgate House, 527 - 529",Flat 63,Staines Road,,Hounslow
+2021-03-31,420000,TW4 7AU,S,N,F,6,,Clare Road,,Hounslow
+2021-03-31,180000,TW4 6LB,T,N,F,90,,Berkeley Avenue,,Hounslow
+2021-03-30,497000,TW4 7RU,S,N,F,31,,Lela Avenue,,Hounslow
+2021-03-29,248000,TW4 5PZ,F,N,L,19,Flat G,Corfe Close,Whitton,Hounslow
+2021-03-26,368000,TW4 5DZ,F,Y,L,"Bishopsgate House, 527 - 529",Flat 19,Staines Road,,Hounslow
+2021-03-25,233000,TW4 5HZ,F,N,F,12A,,Wyndham Crescent,Whitton,Hounslow
+2021-03-24,430000,TW4 5PG,S,N,F,14,,Mill Farm Crescent,Whitton,Hounslow
+2021-03-22,366000,TW4 5DZ,F,Y,L,"Bishopsgate House, 527 - 529",Flat 57,Staines Road,,Hounslow
+2021-03-19,242000,TW4 5EW,F,N,L,29,Flat,Beaulieu Close,,Hounslow
+2021-03-17,537000,TW4 5HN,S,N,F,27,,Beresford Gardens,,Hounslow
+2021-03-15,475000,TW4 5JT,T,N,F,296,,Wellington Road South,,Hounslow
+2021-03-04,350000,TW4 5DZ,F,Y,L,"Bishopsgate House, 527 - 529",Flat 14,Staines Road,,Hounslow
+2021-03-01,340000,TW4 7QR,S,N,F,34,,Stansfield Road,,Hounslow
+2021-03-01,415000,TW4 7NQ,T,N,F,131,,Great South West Road,,Hounslow
+2021-02-26,500000,TW4 6AR,S,N,F,42,,Hinton Avenue,,Hounslow
+2021-02-25,290000,TW4 7PA,T,N,F,75,,Opossum Way,,Hounslow
+2021-02-24,363000,TW4 5DZ,F,Y,L,"Bishopsgate House, 527 - 529",Flat 22,Staines Road,,Hounslow
+2021-02-18,189000,TW4 6EQ,F,N,L,Oakley Court,Flat 10,Fusiliers Way,,Hounslow
+2021-02-18,510000,TW4 5LW,S,N,F,93,,Conway Road,Whitton,Hounslow
+2021-02-15,460000,TW4 6LW,S,N,F,10,,Westwick Gardens,,Hounslow
+2021-02-05,179000,TW4 5ED,F,N,L,26,,Pickwick Close,,Hounslow
+2021-02-01,360000,TW4 5NP,T,N,F,664A,,Hanworth Road,Whitton,Hounslow
+2021-01-29,490000,TW4 7ES,S,N,F,4,,Ferndale Avenue,,Hounslow
+2021-01-29,140000,TW4 6DT,F,N,L,Mansion Court,3,Fusiliers Way,,Hounslow
+2021-01-28,399000,TW4 5DZ,F,Y,L,"Bishopsgate House, 527 - 529",Flat 62,Staines Road,,Hounslow
+2021-01-28,301000,TW4 5DZ,F,Y,L,"Bishopsgate House, 527 - 529",Flat 53,Staines Road,,Hounslow
+2021-01-28,375000,TW4 5DZ,F,Y,L,"Bishopsgate House, 527 - 529",Flat 27,Staines Road,,Hounslow
+2021-01-25,485000,TW4 7RT,S,N,F,17,,Legrace Avenue,,Hounslow
+2021-01-25,425000,TW4 5NT,S,N,F,708,,Hanworth Road,Whitton,Hounslow
+2021-01-25,374000,TW4 5DZ,F,Y,L,"Bishopsgate House, 527 - 529",Flat 20,Staines Road,,Hounslow
+2021-01-19,364000,TW4 5DZ,F,Y,L,"Bishopsgate House, 527 - 529",Flat 12,Staines Road,,Hounslow
+2021-01-18,350000,TW4 5EP,F,N,F,2,,Caudron Mews,,Hounslow
+2021-01-15,109500,TW4 5DZ,F,N,L,"Bishopsgate House, 527 - 529",Flat 46,Staines Road,,Hounslow
+2021-01-15,500000,TW4 5BN,S,N,F,29,,Connaught Avenue,,Hounslow
+2021-01-11,317000,TW4 6ES,F,N,L,Langley House,Flat 25,Beavers Lane,,Hounslow
+2021-01-08,385000,TW4 7BB,S,N,F,107,,Cambridge Road,,Hounslow

@@ -1,0 +1,2339 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-24,225000,CH49 0XT,S,N,F,1,,Whiteside Close,,Wirral
+2026-08-21,94000,CH49 5NS,F,N,L,161,,Cheswood Court,,Wirral
+2026-08-19,260000,CH49 5NG,S,N,F,3,,Eltham Green,,Wirral
+2026-08-17,378000,CH49 3AE,D,N,F,4,,Lombardy Avenue,Greasby,Wirral
+2026-08-14,230000,CH49 4PT,S,N,F,21,,Merlin Avenue,,Wirral
+2026-08-14,180000,CH49 2SD,S,N,F,14,,Summertrees Close,,Wirral
+2026-08-07,160000,CH49 9DP,S,N,L,7,,Camden Mews,,Wirral
+2026-08-07,130000,CH49 8HE,T,N,F,17,,Glebe Hey Road,,Wirral
+2026-08-06,297120,CH49 6NF,S,N,F,46,,Warwick Road,,Wirral
+2026-08-04,600000,CH49 3GX,D,N,F,5,,Coppice Grove,,Wirral
+2026-08-04,300000,CH49 2NT,S,N,F,12,,Eastway,Greasby,Wirral
+2026-08-04,180000,CH49 0TZ,S,N,F,8,,Slingsby Drive,,Wirral
+2026-08-03,225000,CH49 2RW,S,N,F,10,,Stable Close,Greasby,Wirral
+2026-07-31,88775,CH49 5NZ,F,N,L,117,,Woodvale Court,,Wirral
+2026-07-31,285000,CH49 4NX,S,N,F,30,,Doncaster Drive,,Wirral
+2026-07-31,250000,CH49 1RW,S,N,F,37,,Hall Drive,Greasby,Wirral
+2026-07-28,349000,CH49 3AG,D,N,F,17,,Fuchsia Walk,Greasby,Wirral
+2026-07-27,150000,CH49 7LE,S,N,F,30,,Ackers Road,Woodchurch,Wirral
+2026-07-27,370000,CH49 6NQ,S,N,F,40,,The Woodlands,,Wirral
+2026-07-27,295000,CH49 6JW,S,N,F,73,,Upton Park Drive,,Wirral
+2026-07-27,305000,CH49 3PE,S,N,F,307,,Frankby Road,Greasby,Wirral
+2026-07-24,365000,CH49 4RE,D,N,F,8,,Hawksmore Close,,Wirral
+2026-07-24,350000,CH49 4QU,D,N,F,25,,Weybourne Close,,Wirral
+2026-07-24,240000,CH49 4PT,S,N,F,18,,Merlin Avenue,,Wirral
+2026-07-20,253000,CH49 6PD,S,N,F,3,,Tunstall Close,,Wirral
+2026-07-17,91087,CH49 2RP,S,N,F,16,,The Crofters,Greasby,Wirral
+2026-07-17,308000,CH49 2RL,S,N,F,7,,The Scythes,Greasby,Wirral
+2026-07-15,155000,CH49 9AR,T,N,F,10,,Ford Close,,Wirral
+2026-07-14,245000,CH49 6PS,S,N,F,5,,Crowmarsh Close,,Wirral
+2026-07-14,420000,CH49 6LE,S,N,F,39,,Heath Drive,Upton,Wirral
+2026-07-10,155000,CH49 0US,T,N,F,3,,Rake Lane,,Wirral
+2026-07-09,180000,CH49 9BG,T,N,F,36,,Leeswood Road,,Wirral
+2026-07-08,375000,CH49 3GT,D,N,F,14,,Ashdale Park,Greasby,Wirral
+2026-07-06,200000,CH49 6NG,D,N,F,1,,Edgewood Road,Upton,Wirral
+2026-07-03,315000,CH49 6LB,S,N,F,30,,Shrewsbury Drive,,Wirral
+2026-07-03,379500,CH49 3PU,D,N,F,10,,Thorns Drive,Greasby,Wirral
+2026-07-03,250000,CH49 2QD,S,N,F,39,,Summertrees Avenue,,Wirral
+2026-06-30,245000,CH49 4QT,D,N,F,3,,Dereham Avenue,,Wirral
+2026-06-29,194000,CH49 2RZ,S,N,F,19,,Locker Park,,Wirral
+2026-06-26,355000,CH49 6LF,S,N,F,14,,Heath Drive,Upton,Wirral
+2026-06-26,250000,CH49 2QN,S,N,F,24,,Bromsgrove Road,Greasby,Wirral
+2026-06-25,300000,CH49 6NQ,S,N,F,17,,The Woodlands,,Wirral
+2026-06-24,170000,CH49 8JN,S,N,F,33,,Cheverton Close,,Wirral
+2026-06-23,390000,CH49 0WF,D,N,F,72,,Atholl Duncan Drive,,Wirral
+2026-06-22,190000,CH49 9BW,T,N,F,104,,Orrets Meadow Road,,Wirral
+2026-06-22,165000,CH49 9BE,T,N,F,13,,Shortfield Road,,Wirral
+2026-06-22,205000,CH49 5NQ,S,N,F,32,,Eltham Green,,Wirral
+2026-06-22,347000,CH49 3NS,D,N,F,85,,Mill Lane,Greasby,Wirral
+2026-06-19,120000,CH49 8EA,T,N,F,117,,Pemberton Road,,Wirral
+2026-06-19,177000,CH49 4NT,T,N,F,121,,Moreton Road,Upton,Wirral
+2026-06-19,230000,CH49 2RX,D,N,F,5,,Parr Grove,Greasby,Wirral
+2026-06-19,260000,CH49 1SQ,S,N,F,80,,Dingwall Drive,,Wirral
+2026-06-19,250000,CH49 0UP,S,N,F,4,,Newton Way,,Wirral
+2026-06-17,325000,CH49 1SA,S,N,F,10,,The Croft,Greasby,Wirral
+2026-06-15,380000,CH49 3PE,S,N,F,315,,Frankby Road,Greasby,Wirral
+2026-06-15,257000,CH49 1AD,S,N,F,40,,Smithy Brook Drive,Upton,Wirral
+2026-06-12,495000,CH49 6NH,S,N,F,8,,Kirkway,Upton,Wirral
+2026-06-12,260000,CH49 6JS,S,N,F,19,,Arborn Drive,Upton,Wirral
+2026-06-12,265500,CH49 2SW,S,N,F,5,,The Barncroft,Greasby,Wirral
+2026-06-11,195000,CH49 4GD,S,N,F,108,,Norwich Drive,,Wirral
+2026-06-11,105000,CH49 3GU,S,N,L,14,,Cedarwood Close,,Wirral
+2026-06-11,125000,CH49 0TQ,F,N,L,124,First Floor Flat,Ford Road,,Wirral
+2026-06-09,140000,CH49 7PB,T,N,F,37,,Caldwell Drive,,Wirral
+2026-06-05,350000,CH49 6LH,S,N,F,17,,Loretto Drive,,Wirral
+2026-06-05,279950,CH49 2RF,D,N,F,10,,Glentree Close,,Wirral
+2026-06-05,268000,CH49 0WD,T,N,F,51,,Atholl Duncan Drive,,Wirral
+2026-06-04,325000,CH49 5LN,D,N,F,The Lodge,,Arrowe Park Road,,Wirral
+2026-06-03,270000,CH49 4PF,S,N,F,75,,Whitewell Drive,,Wirral
+2026-06-02,340000,CH49 1SN,S,N,F,33,,Caulfield Drive,Greasby,Wirral
+2026-06-01,145000,CH49 9AP,T,N,F,149,,Houghton Road,,Wirral
+2026-06-01,255000,CH49 5LZ,S,N,F,28,,Fleetcroft Road,,Wirral
+2026-05-29,245000,CH49 4PA,T,N,F,14,,Crosby Close,,Wirral
+2026-05-29,88500,CH49 3GS,F,N,L,32,,Redcroft,Greasby,Wirral
+2026-05-27,460000,CH49 3QL,D,N,F,1,,Magnolia Walk,,Wirral
+2026-05-26,220000,CH49 9AP,T,N,F,162,,Houghton Road,,Wirral
+2026-05-26,340000,CH49 6PN,D,N,F,31,,The Limes,,Wirral
+2026-05-20,156000,CH49 9BJ,T,N,F,101,,Orrets Meadow Road,,Wirral
+2026-05-19,280000,CH49 3PB,S,N,F,16,,Danefield Road,,Wirral
+2026-05-15,184960,CH49 4NS,S,N,F,52,,Moreton Road,Upton,Wirral
+2026-05-15,450000,CH49 3QN,D,N,F,20,,Allangate Close,Greasby,Wirral
+2026-05-15,359000,CH49 1RT,S,N,F,14,,Harvey Avenue,,Wirral
+2026-05-15,200000,CH49 0WJ,T,N,L,31,,Malley Close,,Wirral
+2026-05-15,615000,CH49 0TG,D,N,F,72,,Ford Road,,Wirral
+2026-05-13,155000,CH49 7PB,T,N,F,32,,Caldwell Drive,,Wirral
+2026-05-11,360000,CH49 4SB,D,N,F,18,,Harefields Way,,Wirral
+2026-05-08,290000,CH49 3QR,S,N,F,5,,Witney Close,Greasby,Wirral
+2026-05-08,363000,CH49 1RP,S,N,F,52,,Ferguson Avenue,Greasby,Wirral
+2026-05-01,310000,CH49 4SA,D,N,F,28,,Webster Drive,,Wirral
+2026-05-01,161500,CH49 2PP,F,N,L,"Arrowe Brook Court, 302",Flat 6,Greasby Road,Greasby,Wirral
+2026-04-30,260000,CH49 4PD,S,N,F,40,,Ronaldsway,Upton,Wirral
+2026-04-29,145000,CH49 9AJ,T,N,F,20,,Northbrook Way,,Wirral
+2026-04-27,185000,CH49 9BE,T,N,F,37,,Shortfield Road,,Wirral
+2026-04-27,345000,CH49 4NZ,D,N,F,160B,,Moreton Road,Upton,Wirral
+2026-04-24,93000,CH49 7LP,S,N,F,140,,Commonfield Road,,Wirral
+2026-04-24,95000,CH49 3AP,S,N,L,26,,Stanmore Park,Greasby,Wirral
+2026-04-24,275000,CH49 2QD,S,N,F,35,,Summertrees Avenue,,Wirral
+2026-04-24,265000,CH49 0WD,T,N,F,53,,Atholl Duncan Drive,,Wirral
+2026-04-21,58000,CH49 5NR,F,N,L,131,,Belvidere Court,,Wirral
+2026-04-21,58000,CH49 5NR,F,N,L,131,,Belvidere Court,,Wirral
+2026-04-20,130000,CH49 9BL,T,N,F,143,,Orrets Meadow Road,,Wirral
+2026-04-20,478000,CH49 6JB,S,N,F,12,,Mount Road,Upton,Wirral
+2026-04-20,167000,CH49 4LU,T,N,F,59,,Royden Road,,Wirral
+2026-04-20,154700,CH49 4LU,T,N,F,35,,Royden Road,,Wirral
+2026-04-20,205000,CH49 3AP,S,N,F,11,,Stanmore Park,Greasby,Wirral
+2026-04-17,155000,CH49 9AW,S,N,F,210,,Big Meadow Road,,Wirral
+2026-04-17,124950,CH49 7NS,T,N,F,104,,Ganneys Meadow Road,,Wirral
+2026-04-17,210000,CH49 5LT,S,N,F,32,,Sherry Lane,,Wirral
+2026-04-17,235000,CH49 4GS,S,N,F,25,,Littlemore Close,,Wirral
+2026-04-09,235000,CH49 5LY,S,N,F,3,,Fleetcroft Road,,Wirral
+2026-04-07,390000,CH49 2NT,S,N,F,6,,Eastway,Greasby,Wirral
+2026-04-02,100000,CH49 8HT,T,N,F,70,,Greenwood Road,Upton,Wirral
+2026-04-02,170000,CH49 7LL,T,N,F,44,,Commonfield Road,,Wirral
+2026-04-02,260000,CH49 6NE,S,N,F,25,,Warwick Road,,Wirral
+2026-04-02,215000,CH49 4NJ,D,N,F,33,,Beech Avenue,Upton,Wirral
+2026-04-02,200000,CH49 4GD,S,N,F,96,,Norwich Drive,,Wirral
+2026-04-02,242000,CH49 2RX,S,N,F,15,,Parr Grove,Greasby,Wirral
+2026-04-01,220000,CH49 4QJ,S,N,F,9,,Sycamore Avenue,,Wirral
+2026-03-31,160000,CH49 6PA,F,N,L,33,,Whitelands Meadow,,Wirral
+2026-03-31,212000,CH49 0TY,S,N,F,35,,Slingsby Drive,,Wirral
+2026-03-30,154000,CH49 7PF,T,N,F,44,,Hoole Road,,Wirral
+2026-03-27,135000,CH49 7NA,T,N,F,29,,Robin Way,,Wirral
+2026-03-27,245000,CH49 5NX,S,N,F,27,,Nantwich Close,,Wirral
+2026-03-27,141000,CH49 4RY,F,N,L,5,,Ladybower Close,,Wirral
+2026-03-27,266000,CH49 4NX,S,N,F,3,,Doncaster Drive,,Wirral
+2026-03-27,357500,CH49 3NR,D,N,F,53,,Mill Lane,Greasby,Wirral
+2026-03-27,50000,CH49 0UY,F,N,L,4,,Wroxham Close,,Wirral
+2026-03-26,125000,CH49 4GD,S,N,L,207,,Norwich Drive,,Wirral
+2026-03-26,220000,CH49 3QW,S,N,F,23,,Chippenham Avenue,Greasby,Wirral
+2026-03-26,385000,CH49 0XG,D,N,F,30,,Denny Close,,Wirral
+2026-03-20,310000,CH49 4PQ,D,N,F,195,,Manor Drive,,Wirral
+2026-03-20,340000,CH49 3GT,D,N,F,20,,Ashdale Park,Greasby,Wirral
+2026-03-19,440000,CH49 0WF,D,N,F,70,,Atholl Duncan Drive,,Wirral
+2026-03-17,400000,CH49 1AF,D,N,F,5,,Hay Meadow Avenue,Upton,Wirral
+2026-03-16,165000,CH49 7NA,T,N,F,12,,Robin Way,,Wirral
+2026-03-16,300000,CH49 6LT,S,N,F,24,,Old Greasby Road,,Wirral
+2026-03-13,310000,CH49 3PT,D,N,F,24,,Frankby Close,,Wirral
+2026-03-13,485000,CH49 3PT,D,N,F,19,,Frankby Close,,Wirral
+2026-03-13,302000,CH49 3PE,S,N,F,309,,Frankby Road,Greasby,Wirral
+2026-03-13,301000,CH49 3GT,D,N,F,3,,Ashdale Park,Greasby,Wirral
+2026-03-13,215000,CH49 2QW,S,N,F,7,,Cirencester Avenue,,Wirral
+2026-03-12,165000,CH49 8HR,T,N,F,12,,Lower Green,,Wirral
+2026-03-12,195000,CH49 2SD,S,N,F,8,,Summertrees Close,,Wirral
+2026-03-10,265000,CH49 3QW,T,N,F,20,,Chippenham Avenue,Greasby,Wirral
+2026-03-10,375000,CH49 1SJ,S,N,F,24,,Appleton Drive,Greasby,Wirral
+2026-03-06,162000,CH49 7NS,T,N,F,100,,Ganneys Meadow Road,,Wirral
+2026-03-06,400000,CH49 6QQ,D,N,F,3,,Longridge Avenue,,Wirral
+2026-03-06,245000,CH49 6QJ,S,N,F,5,,Furness Close,,Wirral
+2026-03-06,175000,CH49 4SA,T,N,F,39,,Webster Drive,,Wirral
+2026-03-06,281500,CH49 4NW,S,N,F,31,,Overchurch Road,,Wirral
+2026-03-06,257000,CH49 4LF,S,N,F,22,,Brookside Crescent,,Wirral
+2026-03-06,272000,CH49 2PT,S,N,F,23,,Wood Lane,Greasby,Wirral
+2026-03-06,320000,CH49 2NP,S,N,F,10,,Woodway,,Wirral
+2026-03-04,405000,CH49 6JG,S,N,F,20,,Meadway,Upton,Wirral
+2026-03-03,150000,CH49 8JE,T,N,F,44,,Houghton Road,,Wirral
+2026-03-02,325000,CH49 3PE,S,N,F,313,,Frankby Road,Greasby,Wirral
+2026-03-02,170000,CH49 2RW,S,N,F,14,,Stable Close,Greasby,Wirral
+2026-02-27,150000,CH49 9AD,T,N,F,8,,Leeswood Road,,Wirral
+2026-02-27,64000,CH49 6PY,F,N,L,Fernwood,Apartment 10,Church Road,Upton,Wirral
+2026-02-27,175000,CH49 4NT,T,N,F,125,,Moreton Road,Upton,Wirral
+2026-02-27,183000,CH49 2QD,S,N,F,40,,Summertrees Avenue,,Wirral
+2026-02-26,92500,CH49 5NR,F,N,L,137,,Belvidere Court,,Wirral
+2026-02-26,327000,CH49 2ND,S,N,F,24,,Kirkway,Greasby,Wirral
+2026-02-26,365000,CH49 1SW,D,N,F,62,,Caulfield Drive,Greasby,Wirral
+2026-02-24,347500,CH49 4SE,D,N,F,4,,Little Meadow Close,Moreton,Wirral
+2026-02-24,255000,CH49 0WF,S,N,F,60,,Atholl Duncan Drive,,Wirral
+2026-02-23,260000,CH49 5LS,D,N,F,3,,Sherry Lane,,Wirral
+2026-02-23,185250,CH49 4LJ,S,N,F,2,,Sheringham Close,,Wirral
+2026-02-20,130000,CH49 9BD,T,N,F,171,,Hoole Road,,Wirral
+2026-02-20,150000,CH49 8HU,S,N,F,87,,Greenwood Road,Upton,Wirral
+2026-02-20,350000,CH49 1SJ,S,N,F,23,,Appleton Drive,Greasby,Wirral
+2026-02-18,58000,CH49 6PY,F,N,L,Fernwood,Apartment 30,Church Road,Upton,Wirral
+2026-02-18,234000,CH49 3PR,S,N,F,13,,Martlesham Crescent,,Wirral
+2026-02-16,139000,CH49 8HT,T,N,F,78,,Greenwood Road,Upton,Wirral
+2026-02-16,85000,CH49 3GS,F,N,L,77,,Redcroft,Greasby,Wirral
+2026-02-13,625000,CH49 6DA,D,N,F,2,,Wychwood,Upton,Wirral
+2026-02-13,247000,CH49 2NA,S,N,F,48,,Cortsway,,Wirral
+2026-02-13,318000,CH49 1SE,S,N,F,12,,Escolme Drive,,Wirral
+2026-02-12,370000,CH49 3QQ,D,N,F,12,,Almond Way,,Wirral
+2026-02-10,290000,CH49 6JN,S,N,F,3,,Upton Park Drive,,Wirral
+2026-02-06,455000,CH49 6JG,S,N,F,24,,Meadway,Upton,Wirral
+2026-02-06,265000,CH49 1AF,S,N,F,8,,Hay Meadow Avenue,Upton,Wirral
+2026-02-06,225000,CH49 0XF,S,N,F,20,,Sullivan Avenue,,Wirral
+2026-02-05,145000,CH49 4RG,S,N,L,Websters Holt,19,Manorside Close,,Wirral
+2026-01-30,245000,CH49 6QB,S,N,F,7,,Dorchester Close,,Wirral
+2026-01-30,330000,CH49 6NF,S,N,F,27,,Warwick Road,,Wirral
+2026-01-30,370000,CH49 6LQ,S,N,F,98,,Manor Drive,,Wirral
+2026-01-30,167000,CH49 6JY,F,N,L,Aughton Court,Flat 16,Church Road,Upton,Wirral
+2026-01-30,150000,CH49 2RU,S,N,F,14,,Oakmere Drive,Greasby,Wirral
+2026-01-30,220000,CH49 2RS,S,N,F,12,,Churn Way,Greasby,Wirral
+2026-01-30,360000,CH49 2PY,D,N,F,21,,Leaway,,Wirral
+2026-01-30,162000,CH49 0WD,F,N,L,101,,Atholl Duncan Drive,,Wirral
+2026-01-29,311000,CH49 3AP,D,N,F,8,,Stanmore Park,Greasby,Wirral
+2026-01-28,122000,CH49 4RG,T,N,L,Websters Holt,4,Manorside Close,,Wirral
+2026-01-28,342500,CH49 3AW,D,N,F,24,,Rowan Tree Close,Greasby,Wirral
+2026-01-26,237000,CH49 3NA,S,N,F,51,,Circular Drive,Greasby,Wirral
+2026-01-23,121000,CH49 9AQ,T,N,F,16,,Big Meadow Road,,Wirral
+2026-01-23,140000,CH49 8JA,T,N,F,16,,The Meadow,,Wirral
+2026-01-23,190000,CH49 4QE,S,N,F,25,,Jasmine Close,,Wirral
+2026-01-21,142500,CH49 7NF,S,N,F,160,,New Hey Road,,Wirral
+2026-01-16,256000,CH49 9AG,T,N,F,45,,Big Meadow Road,,Wirral
+2026-01-16,570000,CH49 6JF,D,N,F,18,,Manor Drive,,Wirral
+2026-01-16,217000,CH49 5NX,S,N,F,15,,Nantwich Close,,Wirral
+2026-01-16,170000,CH49 4RA,S,N,F,16,,Butterton Avenue,,Wirral
+2026-01-16,210000,CH49 2RL,D,N,F,5,,The Scythes,Greasby,Wirral
+2026-01-15,172500,CH49 5LR,S,N,F,96,,Pool Lane,Upton,Wirral
+2026-01-15,140000,CH49 0US,T,N,F,24,,Rake Lane,,Wirral
+2026-01-09,500000,CH49 6NP,D,N,F,12,,The Paddock,Upton,Wirral
+2026-01-09,92500,CH49 5NT,F,N,L,175,,Berkeley Court,,Wirral
+2026-01-09,260000,CH49 4LQ,S,N,F,10,,Girtrell Road,,Wirral
+2026-01-09,247000,CH49 3QW,S,N,F,19,,Chippenham Avenue,Greasby,Wirral
+2026-01-09,238000,CH49 3NB,S,N,F,40,,Circular Drive,Greasby,Wirral
+2026-01-08,195000,CH49 3QP,S,N,F,8,,Stroud Close,Greasby,Wirral
+2025-12-19,150000,CH49 9DD,T,N,F,34,,Bridge Farm Close,,Wirral
+2025-12-19,200000,CH49 8HL,S,N,F,28,,Woodland Road,Upton,Wirral
+2025-12-19,460000,CH49 6LE,D,N,F,27,,Heath Drive,Upton,Wirral
+2025-12-19,380000,CH49 6LE,D,N,F,1,,Heath Drive,Upton,Wirral
+2025-12-19,320000,CH49 4PQ,S,N,F,185,,Manor Drive,,Wirral
+2025-12-19,250000,CH49 4GA,D,N,F,2,,Pennystone Close,,Wirral
+2025-12-19,294995,CH49 1RT,S,N,F,19,,Harvey Avenue,,Wirral
+2025-12-19,180000,CH49 0WD,F,N,L,99,,Atholl Duncan Drive,,Wirral
+2025-12-18,165000,CH49 7NH,S,N,F,108,,New Hey Road,,Wirral
+2025-12-18,194000,CH49 0XT,S,N,F,30,,Whiteside Close,,Wirral
+2025-12-17,144995,CH49 8JA,T,N,F,44,,The Meadow,,Wirral
+2025-12-17,275000,CH49 3NR,D,N,F,55,,Mill Lane,Greasby,Wirral
+2025-12-17,375000,CH49 2NS,D,N,F,57,,Eastway,Greasby,Wirral
+2025-12-17,75000,CH49 0XW,F,N,L,6,,St Marys Court,,Wirral
+2025-12-16,200000,CH49 0TZ,S,N,F,36,,Slingsby Drive,,Wirral
+2025-12-12,450000,CH49 3NX,D,N,F,16,,Barker Lane,,Wirral
+2025-12-11,285000,CH49 4RU,S,N,F,111,,Saughall Massie Road,Upton,Wirral
+2025-12-05,165000,CH49 7NP,T,N,F,73,,Ganneys Meadow Road,,Wirral
+2025-12-05,315000,CH49 4RU,S,N,F,117,,Saughall Massie Road,Upton,Wirral
+2025-12-05,153000,CH49 4GD,T,N,F,169,,Norwich Drive,,Wirral
+2025-12-05,200000,CH49 2SD,S,N,F,1,,Summertrees Close,,Wirral
+2025-12-05,327500,CH49 1SP,D,N,F,78,,Brookdale Avenue South,,Wirral
+2025-12-04,330000,CH49 6NQ,S,N,F,2,,The Woodlands,,Wirral
+2025-12-04,265000,CH49 3QW,S,N,F,24,,Chippenham Avenue,Greasby,Wirral
+2025-12-03,340000,CH49 3ND,T,N,F,25,,Pickerill Road,,Wirral
+2025-12-03,250000,CH49 0UG,S,N,F,91,,Arrowe Park Road,,Wirral
+2025-12-02,230000,CH49 6LU,S,N,F,2,,Frankby Grove,,Wirral
+2025-12-02,152000,CH49 4NA,S,N,F,54,,Royden Road,,Wirral
+2025-12-01,410000,CH49 0WN,D,N,F,5,,Simpson Place,,Wirral
+2025-11-28,152000,CH49 5LB,T,N,F,10,,New Hey Road,,Wirral
+2025-11-28,165000,CH49 4NF,T,N,F,16,,Gainsborough Road,,Wirral
+2025-11-28,250000,CH49 2NN,S,N,F,19,,Greenway,Greasby,Wirral
+2025-11-28,455000,CH49 1SJ,S,N,F,17,,Appleton Drive,Greasby,Wirral
+2025-11-28,160000,CH49 0WD,F,N,L,37,,Atholl Duncan Drive,,Wirral
+2025-11-28,345000,CH49 0TX,S,N,F,18,,Grafton Drive,,Wirral
+2025-11-27,274000,CH49 6JP,S,N,F,32,,Upton Park Drive,,Wirral
+2025-11-27,218000,CH49 5NG,S,N,F,22,,Eltham Green,,Wirral
+2025-11-27,280000,CH49 4PN,S,N,F,12,,Larkhill Avenue,,Wirral
+2025-11-26,185000,CH49 4QR,S,N,F,45,,Norwich Drive,,Wirral
+2025-11-26,270000,CH49 3QZ,D,N,F,8,,Finchdean Close,Greasby,Wirral
+2025-11-25,235000,CH49 2NE,S,N,F,19,,Cortsway West,,Wirral
+2025-11-25,320000,CH49 1RX,D,N,F,4,,Howell Drive,,Wirral
+2025-11-24,142500,CH49 8EJ,S,N,F,123,,Hoole Road,,Wirral
+2025-11-24,365000,CH49 6LW,S,N,F,57,,Upland Road,Upton,Wirral
+2025-11-21,185000,CH49 8HN,T,N,F,53,,Woodland Road,Upton,Wirral
+2025-11-21,225000,CH49 0UZ,S,N,F,50,,Salacre Crescent,,Wirral
+2025-11-20,160000,CH49 0WD,F,N,L,29,,Atholl Duncan Drive,,Wirral
+2025-11-19,160000,CH49 3NG,F,N,L,"Manor Court, 114",Flat 8,Greasby Road,Greasby,Wirral
+2025-11-18,145000,CH49 0UH,T,N,F,33,,Greystoke Close,,Wirral
+2025-11-17,220000,CH49 5NL,S,N,F,8,,Eltham Close,,Wirral
+2025-11-17,215000,CH49 4RA,D,N,F,1,,Butterton Avenue,,Wirral
+2025-11-17,172500,CH49 4GD,S,N,F,154,,Norwich Drive,,Wirral
+2025-11-13,312000,CH49 4SB,D,N,F,28,,Harefields Way,,Wirral
+2025-11-13,170500,CH49 2NB,S,N,F,91,,Cortsway,,Wirral
+2025-11-11,280000,CH49 6NQ,D,N,F,18,,The Woodlands,,Wirral
+2025-11-10,310000,CH49 1SN,S,N,F,39,,Caulfield Drive,Greasby,Wirral
+2025-11-07,166000,CH49 9BW,T,N,F,110,,Orrets Meadow Road,,Wirral
+2025-11-07,140000,CH49 6LS,F,N,L,Upton Court,Flat 28,Braeside Gardens,,Wirral
+2025-11-07,85000,CH49 5NS,F,N,L,151,,Cheswood Court,,Wirral
+2025-11-07,242500,CH49 2PL,S,N,F,7,,Heygarth Drive,Greasby,Wirral
+2025-11-04,195000,CH49 4QA,S,N,F,2,,Curlew Avenue,Upton,Wirral
+2025-11-03,195000,CH49 9AU,T,N,F,89,,Ford Way,,Wirral
+2025-11-03,150000,CH49 5LX,S,N,F,5,,Druidsway,,Wirral
+2025-11-03,205000,CH49 3PB,S,N,F,14,,Danefield Road,,Wirral
+2025-11-03,242000,CH49 2RS,S,N,F,6,,Churn Way,Greasby,Wirral
+2025-10-31,255000,CH49 6LU,S,N,F,4,,Frankby Grove,,Wirral
+2025-10-31,76500,CH49 4NF,F,N,L,40,,Gainsborough Road,,Wirral
+2025-10-30,218495,CH49 5PB,T,Y,F,149D,,Arrowe Park Road,,Wirral
+2025-10-30,220000,CH49 5PB,T,Y,F,149B,,Arrowe Park Road,,Wirral
+2025-10-30,370000,CH49 3GT,D,N,F,24,,Ashdale Park,Greasby,Wirral
+2025-10-29,197500,CH49 4RE,S,N,F,17,,Hawksmore Close,,Wirral
+2025-10-29,242000,CH49 2PL,S,N,F,10,,Heygarth Drive,Greasby,Wirral
+2025-10-29,380000,CH49 1SN,S,N,F,35,,Caulfield Drive,Greasby,Wirral
+2025-10-28,645000,CH49 4NR,D,N,F,51,,Moreton Road,Upton,Wirral
+2025-10-28,230000,CH49 0TY,S,N,F,19,,Slingsby Drive,,Wirral
+2025-10-27,190000,CH49 6PS,S,N,F,22,,Crowmarsh Close,,Wirral
+2025-10-27,300000,CH49 6JN,S,N,F,9,,Upton Park Drive,,Wirral
+2025-10-27,195000,CH49 4NT,T,N,F,131,,Moreton Road,Upton,Wirral
+2025-10-27,337000,CH49 4NP,D,N,F,61,,Elm Avenue,,Wirral
+2025-10-27,280000,CH49 2NP,S,N,F,24,,Woodway,,Wirral
+2025-10-27,370000,CH49 1RE,S,N,L,93,,Rigby Drive,,Wirral
+2025-10-24,325000,CH49 6LH,S,N,F,5,,Loretto Drive,,Wirral
+2025-10-24,157496,CH49 5PB,T,Y,F,149A,,Arrowe Park Road,,Wirral
+2025-10-24,374995,CH49 5AB,D,Y,F,3,,Jamboree Close,,Wirral
+2025-10-24,180000,CH49 4QX,S,N,F,1,,Aylsham Drive,,Wirral
+2025-10-24,278000,CH49 4LN,T,N,F,114,,Manor Drive,,Wirral
+2025-10-24,225000,CH49 3PW,S,N,F,5,,Pump Lane,Greasby,Wirral
+2025-10-24,290000,CH49 2NF,S,N,F,44,,Cortsway West,,Wirral
+2025-10-24,287500,CH49 1RP,S,N,F,30,,Ferguson Avenue,Greasby,Wirral
+2025-10-24,295000,CH49 1RH,S,N,F,103,,Lloyd Drive,,Wirral
+2025-10-24,162000,CH49 0XT,S,N,F,17,,Whiteside Close,,Wirral
+2025-10-23,290000,CH49 2PQ,S,N,F,269,,Greasby Road,Greasby,Wirral
+2025-10-22,150000,CH49 8HE,S,N,F,21,,Glebe Hey Road,,Wirral
+2025-10-22,210000,CH49 4NW,D,N,F,49,,Overchurch Road,,Wirral
+2025-10-21,285000,CH49 4RF,D,N,F,15,,Wharton Close,,Wirral
+2025-10-20,295000,CH49 6JQ,S,N,F,31,,Meadway,Upton,Wirral
+2025-10-20,190000,CH49 4QX,D,N,F,27,,Aylsham Drive,,Wirral
+2025-10-17,180000,CH49 0XT,S,N,F,19,,Whiteside Close,,Wirral
+2025-10-16,78000,CH49 0XW,F,N,L,3,,St Marys Court,,Wirral
+2025-10-16,70000,CH49 0XW,F,N,L,1,,St Marys Court,,Wirral
+2025-10-14,80000,CH49 5NT,F,N,L,163,,Berkeley Court,,Wirral
+2025-10-13,135000,CH49 7NH,T,N,F,98,,New Hey Road,,Wirral
+2025-10-13,264500,CH49 2PG,S,N,F,251,,Greasby Road,Greasby,Wirral
+2025-10-10,154000,CH49 7LG,T,N,F,85,,Home Farm Road,,Wirral
+2025-10-10,375000,CH49 6NS,S,N,F,21,,Old Greasby Road,,Wirral
+2025-10-10,105000,CH49 3GS,F,N,L,65,,Redcroft,Greasby,Wirral
+2025-10-10,287000,CH49 2SE,D,N,F,23,,Birchdale Close,Greasby,Wirral
+2025-10-09,550000,CH49 6LT,S,N,F,16,,Old Greasby Road,,Wirral
+2025-10-09,505000,CH49 6JA,D,N,F,11,,Mount Road,Upton,Wirral
+2025-10-08,490000,CH49 3PU,D,N,F,12,,Thorns Drive,Greasby,Wirral
+2025-10-08,220000,CH49 1RF,S,N,F,8,,Rigby Drive,,Wirral
+2025-10-06,253000,CH49 2PZ,S,N,F,52,,Leaway,,Wirral
+2025-10-03,137000,CH49 8EW,T,N,F,108,,The Meadow,,Wirral
+2025-10-03,235000,CH49 6NL,S,N,F,10,,Surrey Avenue,,Wirral
+2025-10-03,384995,CH49 5AB,D,Y,F,8,,Jamboree Close,,Wirral
+2025-10-03,215000,CH49 4QL,S,N,F,21,,Sycamore Close,,Wirral
+2025-10-03,177500,CH49 3GR,T,N,F,9,,Griffiths Close,Greasby,Wirral
+2025-10-03,365000,CH49 1RU,S,N,F,15,,Carmichael Avenue,,Wirral
+2025-10-03,197000,CH49 0XT,T,N,F,38,,Whiteside Close,,Wirral
+2025-10-02,370000,CH49 4PA,D,N,F,2A,,Crosby Close,,Wirral
+2025-10-02,460000,CH49 4NS,S,N,F,56,,Moreton Road,,Wirral
+2025-10-01,170000,CH49 7PA,S,N,F,81,,Grasswood Road,,Wirral
+2025-10-01,370000,CH49 2QX,D,N,F,5,,Holcombe Close,Greasby,Wirral
+2025-09-30,137000,CH49 4GE,S,N,F,9,,Thornham Close,,Wirral
+2025-09-30,284000,CH49 2NN,S,N,F,5,,Greenway,Greasby,Wirral
+2025-09-29,160000,CH49 7LP,T,N,F,128,,Commonfield Road,,Wirral
+2025-09-29,230000,CH49 3QP,S,N,F,5,,Stroud Close,Greasby,Wirral
+2025-09-29,404000,CH49 3QL,D,N,F,4,,Magnolia Walk,,Wirral
+2025-09-26,145000,CH49 8JG,S,N,F,109,,Houghton Road,,Wirral
+2025-09-26,505000,CH49 6LW,D,N,F,47,,Upland Road,Upton,Wirral
+2025-09-25,392500,CH49 5AB,D,Y,F,1,,Jamboree Close,,Wirral
+2025-09-25,285000,CH49 4NN,D,N,F,80,,Overchurch Road,,Wirral
+2025-09-24,163000,CH49 4GN,S,N,F,5,,Litcham Close,,Wirral
+2025-09-23,290000,CH49 3AB,D,N,F,15,,Hambledon Drive,,Wirral
+2025-09-22,139000,CH49 4RY,F,N,L,20,,Ladybower Close,,Wirral
+2025-09-22,82000,CH49 3GS,F,N,L,25,,Redcroft,Greasby,Wirral
+2025-09-22,325000,CH49 2NW,S,N,F,16,,Greenway,Greasby,Wirral
+2025-09-19,222000,CH49 4LQ,S,N,L,36,,Girtrell Road,,Wirral
+2025-09-19,217000,CH49 2RS,S,N,F,10,,Churn Way,Greasby,Wirral
+2025-09-18,160000,CH49 7LZ,S,N,F,22,,Sandfield Road,Upton,Wirral
+2025-09-18,100000,CH49 5NB,F,N,L,9,,Goodakers Court,,Wirral
+2025-09-18,328000,CH49 3AJ,D,N,F,14,,Coleman Drive,Greasby,Wirral
+2025-09-18,440000,CH49 1SL,S,N,F,6,,Neale Drive,Greasby,Wirral
+2025-09-17,430000,CH49 6JJ,D,N,F,53,,South Drive,Upton,Wirral
+2025-09-17,215000,CH49 4LB,S,N,F,296,,Saughall Massie Road,Upton,Wirral
+2025-09-16,140000,CH49 8JE,T,N,F,50,,Houghton Road,,Wirral
+2025-09-15,200000,CH49 5NP,S,N,F,28,,Childwall Green,,Wirral
+2025-09-12,180000,CH49 4PP,T,N,F,4,,Manorside Close,,Wirral
+2025-09-12,215000,CH49 0UG,S,N,F,77,,Arrowe Park Road,,Wirral
+2025-09-11,222500,CH49 9BE,S,N,F,15,,Shortfield Road,,Wirral
+2025-09-11,485000,CH49 6LW,D,N,F,35,,Upland Road,Upton,Wirral
+2025-09-11,181000,CH49 4GA,S,N,F,5,,Pennystone Close,,Wirral
+2025-09-10,315000,CH49 2RG,D,N,F,4,,Glen Ronald Drive,,Wirral
+2025-09-08,180000,CH49 7LD,T,N,F,43,,Ackers Road,Woodchurch,Wirral
+2025-09-08,330000,CH49 3NA,D,N,F,9,,Circular Drive,Greasby,Wirral
+2025-09-05,375000,CH49 6LE,S,N,F,21,,Heath Drive,Upton,Wirral
+2025-09-05,295000,CH49 4SE,D,N,F,1,,Little Meadow Close,Moreton,Wirral
+2025-09-03,185000,CH49 8EA,S,N,F,77,,Pemberton Road,,Wirral
+2025-08-29,212000,CH49 6QN,S,N,F,8,,Pendle Close,,Wirral
+2025-08-29,65000,CH49 4RP,F,N,L,Bower House,Apartment 36,Manorside Close,,Wirral
+2025-08-29,60000,CH49 4PP,F,N,L,Liege House,Flat 18,Manorside Close,,Wirral
+2025-08-29,190000,CH49 4GP,D,N,F,1,,Iffley Close,,Wirral
+2025-08-29,210000,CH49 2RH,S,N,F,9,,Dunning Close,,Wirral
+2025-08-29,235000,CH49 2PJ,S,N,F,15,,Highfield Drive,Greasby,Wirral
+2025-08-28,95000,CH49 7NE,T,N,F,107,,New Hey Road,,Wirral
+2025-08-28,340000,CH49 3GT,D,N,F,29,,Ashdale Park,Greasby,Wirral
+2025-08-27,360000,CH49 6NQ,D,N,F,36,,The Woodlands,,Wirral
+2025-08-27,495000,CH49 6NP,D,N,F,19,,The Paddock,Upton,Wirral
+2025-08-27,363750,CH49 6NA,S,N,F,"The Eves, 2",,Upton Close,,Wirral
+2025-08-27,155000,CH49 0WL,F,N,L,8,,Arkill Gardens,,Wirral
+2025-08-26,270000,CH49 3QN,D,N,F,17,,Allangate Close,Greasby,Wirral
+2025-08-26,242500,CH49 2SW,S,N,F,8,,The Barncroft,Greasby,Wirral
+2025-08-22,103000,CH49 5NB,F,N,L,3,,Goodakers Court,,Wirral
+2025-08-22,86000,CH49 3GS,F,N,L,75,,Redcroft,Greasby,Wirral
+2025-08-22,275000,CH49 1RF,S,N,F,38,,Rigby Drive,,Wirral
+2025-08-20,138000,CH49 4RY,F,N,L,23,,Ladybower Close,,Wirral
+2025-08-20,178500,CH49 4LU,T,N,F,41,,Royden Road,,Wirral
+2025-08-20,200000,CH49 4LB,S,N,F,221,,Saughall Massie Road,Upton,Wirral
+2025-08-19,250000,CH49 5NA,S,N,F,7,,Goodakers Meadow,,Wirral
+2025-08-19,240000,CH49 3NA,S,N,F,57,,Circular Drive,Greasby,Wirral
+2025-08-19,162000,CH49 0UH,T,N,F,39,,Greystoke Close,,Wirral
+2025-08-18,315000,CH49 3GT,D,N,F,15,,Ashdale Park,Greasby,Wirral
+2025-08-18,331000,CH49 1SH,D,N,F,19,,Gordon Avenue,Greasby,Wirral
+2025-08-15,276000,CH49 1RQ,S,N,F,37,,Lloyd Drive,,Wirral
+2025-08-14,260000,CH49 0TZ,S,N,F,6,,Slingsby Drive,,Wirral
+2025-08-13,205000,CH49 9AR,T,N,F,6,,Ford Close,,Wirral
+2025-08-13,138000,CH49 5LW,S,N,F,Ivy Cottage,2,Arrowe Park Road,,Wirral
+2025-08-08,190000,CH49 4QE,S,N,F,16,,Jasmine Close,,Wirral
+2025-08-08,245000,CH49 2NU,S,N,F,24,,Brookdale Avenue North,,Wirral
+2025-08-08,325000,CH49 2NU,S,N,F,21,,Brookdale Avenue North,,Wirral
+2025-08-04,163000,CH49 2PP,F,N,L,"Arrowe Brook Court, 302",Flat 5,Greasby Road,Greasby,Wirral
+2025-08-01,147000,CH49 7LJ,T,N,F,1,,Pemberton Road,,Wirral
+2025-08-01,230000,CH49 6PB,S,N,F,1,,Mesham Close,,Wirral
+2025-08-01,410000,CH49 4LS,D,N,F,21,,Birch Avenue,,Wirral
+2025-08-01,302000,CH49 3PJ,D,N,F,423,,Frankby Road,Greasby,Wirral
+2025-08-01,331000,CH49 2PX,S,N,F,88,,Wood Lane,Greasby,Wirral
+2025-08-01,267000,CH49 2NS,S,N,F,47,,Eastway,Greasby,Wirral
+2025-08-01,427000,CH49 1RB,S,N,F,The Cottage,,Arrowe Road,,Wirral
+2025-08-01,172000,CH49 0UG,S,N,F,89,,Arrowe Park Road,,Wirral
+2025-07-31,215000,CH49 6JP,S,N,F,30,,Upton Park Drive,,Wirral
+2025-07-31,225000,CH49 4RB,S,N,F,10,,Coney Walk,,Wirral
+2025-07-31,120000,CH49 4GD,F,N,L,196,,Norwich Drive,,Wirral
+2025-07-31,215000,CH49 2NP,S,N,F,5,,Woodway,,Wirral
+2025-07-30,172000,CH49 4GJ,S,N,F,95,,Norwich Drive,,Wirral
+2025-07-29,150000,CH49 6LS,F,N,L,Upton Court,Flat 3,Braeside Gardens,,Wirral
+2025-07-29,210000,CH49 5LT,S,N,F,44,,Sherry Lane,,Wirral
+2025-07-25,145000,CH49 9BL,T,N,F,163,,Orrets Meadow Road,,Wirral
+2025-07-25,82000,CH49 3GS,F,N,L,38,,Redcroft,Greasby,Wirral
+2025-07-25,274000,CH49 1RT,S,N,F,7,,Harvey Avenue,,Wirral
+2025-07-25,144080,CH49 0UR,T,N,F,1,,Arrowe View,,Wirral
+2025-07-24,230000,CH49 6NQ,S,N,F,25,,The Woodlands,,Wirral
+2025-07-24,194000,CH49 3AW,S,N,F,9,,Rowan Tree Close,Greasby,Wirral
+2025-07-24,267000,CH49 1SF,S,N,F,34,,Escolme Drive,,Wirral
+2025-07-18,220000,CH49 5LT,S,N,F,29,,Sherry Lane,,Wirral
+2025-07-18,186000,CH49 4QJ,S,N,F,33,,Sycamore Avenue,,Wirral
+2025-07-18,250000,CH49 3PR,D,N,F,4C,,Martlesham Crescent,,Wirral
+2025-07-18,350000,CH49 3NL,S,N,F,6,,Hillcrest Drive,Greasby,Wirral
+2025-07-17,122500,CH49 7LD,S,N,F,69,,Ackers Road,Woodchurch,Wirral
+2025-07-14,249000,CH49 2QN,S,N,F,36,,Bromsgrove Road,Greasby,Wirral
+2025-07-14,415000,CH49 2QH,D,N,F,61,,Hambledon Drive,,Wirral
+2025-07-11,279500,CH49 6LW,S,N,F,67,,Upland Road,Upton,Wirral
+2025-07-11,190069,CH49 3QP,D,N,F,17,,Stroud Close,Greasby,Wirral
+2025-07-11,450000,CH49 1RA,S,N,F,74,,Arrowe Road,,Wirral
+2025-07-11,160000,CH49 0WL,F,N,L,7,,Arkill Gardens,,Wirral
+2025-07-10,375000,CH49 2RE,D,N,F,50,,Hambledon Drive,,Wirral
+2025-07-10,242500,CH49 2QD,S,N,F,3,,Summertrees Avenue,,Wirral
+2025-07-09,220000,CH49 3PP,S,N,F,10,,Cranwell Road,Greasby,Wirral
+2025-07-08,315000,CH49 4SB,D,N,F,32,,Harefields Way,,Wirral
+2025-07-04,200000,CH49 5LP,S,N,F,201,,Arrowe Park Road,,Wirral
+2025-07-04,155000,CH49 2NQ,S,N,F,85,,Broadway,Greasby,Wirral
+2025-07-04,555000,CH49 1SS,D,N,F,134,,Brookdale Avenue South,,Wirral
+2025-07-03,165000,CH49 4RD,S,N,F,8,,Blakenhall Way,,Wirral
+2025-07-03,230000,CH49 4PD,S,N,F,28,,Ronaldsway,Upton,Wirral
+2025-07-01,126000,CH49 8EX,T,N,F,43,,Orrets Meadow Road,,Wirral
+2025-07-01,195000,CH49 4RD,D,N,F,3,,Blakenhall Way,,Wirral
+2025-06-30,210000,CH49 3NA,T,N,F,45,,Circular Drive,Greasby,Wirral
+2025-06-30,290000,CH49 2NF,S,N,F,50,,Cortsway West,,Wirral
+2025-06-27,80000,CH49 9BX,F,N,L,425,,New Hey Road,,Wirral
+2025-06-27,130000,CH49 8HX,T,N,F,29,,The Meadow,,Wirral
+2025-06-27,280000,CH49 6NN,S,N,F,27,,Devonshire Road,Upton,Wirral
+2025-06-27,265000,CH49 4PQ,S,N,F,173,,Manor Drive,,Wirral
+2025-06-27,345000,CH49 4LE,S,N,F,13,,Brookside Crescent,,Wirral
+2025-06-27,220000,CH49 2SD,S,N,F,16,,Summertrees Close,,Wirral
+2025-06-27,269600,CH49 1TB,S,N,F,78,,Lloyd Drive,,Wirral
+2025-06-27,275000,CH49 1SW,S,N,F,40,,Caulfield Drive,Greasby,Wirral
+2025-06-27,370000,CH49 1SN,S,N,F,27,,Caulfield Drive,Greasby,Wirral
+2025-06-27,252000,CH49 0TY,D,N,F,29,,Slingsby Drive,,Wirral
+2025-06-26,295000,CH49 6PQ,S,N,F,10,,Trimley Close,,Wirral
+2025-06-26,420000,CH49 6LN,D,N,F,17,,Upland Road,Upton,Wirral
+2025-06-26,440000,CH49 0WD,D,N,F,115,,Atholl Duncan Drive,,Wirral
+2025-06-23,285000,CH49 6LX,D,N,F,5,,Welton Avenue,,Wirral
+2025-06-20,235000,CH49 4PT,S,N,F,12,,Merlin Avenue,,Wirral
+2025-06-20,156500,CH49 4NA,T,N,F,20,,Royden Road,,Wirral
+2025-06-20,203500,CH49 4GP,S,N,F,20,,Iffley Close,,Wirral
+2025-06-20,245000,CH49 1TB,S,N,F,122,,Lloyd Drive,,Wirral
+2025-06-20,400000,CH49 0TF,D,N,F,36A,,Ford Road,,Wirral
+2025-06-18,237000,CH49 6NS,S,N,F,23,,Old Greasby Road,,Wirral
+2025-06-18,170000,CH49 4NW,D,N,F,49,,Overchurch Road,,Wirral
+2025-06-17,190000,CH49 2NB,S,N,F,99,,Cortsway,,Wirral
+2025-06-16,270000,CH49 6LU,S,N,F,42,,Frankby Grove,,Wirral
+2025-06-15,259500,CH49 3AJ,D,N,F,20,,Coleman Drive,Greasby,Wirral
+2025-06-13,275500,CH49 3PS,S,N,F,16,,Kinloss Road,,Wirral
+2025-06-12,249000,CH49 5PH,D,N,F,10,,Fletcher Close,,Wirral
+2025-06-09,162000,CH49 7NA,T,N,F,24,,Robin Way,,Wirral
+2025-06-06,225000,CH49 4QG,S,N,F,4,,Girtrell Close,,Wirral
+2025-06-06,332000,CH49 3QW,T,N,F,8,,Chippenham Avenue,Greasby,Wirral
+2025-06-06,355000,CH49 3PT,D,N,F,30,,Frankby Close,,Wirral
+2025-06-06,272000,CH49 3NR,S,N,F,47,,Mill Lane,Greasby,Wirral
+2025-06-05,240000,CH49 3PD,S,N,F,13,,Shaw Lane,Greasby,Wirral
+2025-06-02,134000,CH49 7NP,T,N,F,113,,Ganneys Meadow Road,,Wirral
+2025-05-30,335000,CH49 6LF,S,N,F,6,,Heath Drive,Upton,Wirral
+2025-05-30,399259,CH49 5AB,D,Y,F,5,,Jamboree Close,,Wirral
+2025-05-30,83000,CH49 3GS,F,N,L,59,,Redcroft,Greasby,Wirral
+2025-05-30,632500,CH49 2PE,D,N,F,191,,Greasby Road,Greasby,Wirral
+2025-05-29,137640,CH49 9AF,S,N,F,56,,Leeswood Road,,Wirral
+2025-05-28,149000,CH49 7LY,T,N,F,49,,Sandfield Road,Upton,Wirral
+2025-05-27,242500,CH49 4GJ,D,N,F,83,,Norwich Drive,,Wirral
+2025-05-27,375000,CH49 3GT,D,N,F,22,,Ashdale Park,Greasby,Wirral
+2025-05-23,108000,CH49 8EX,T,N,F,11,,Orrets Meadow Road,,Wirral
+2025-05-23,130000,CH49 7LH,T,N,F,184,,Home Farm Road,,Wirral
+2025-05-23,437000,CH49 6LL,D,N,F,20,,Moreton Road,Upton,Wirral
+2025-05-23,410000,CH49 5AB,D,Y,F,6,,Jamboree Close,,Wirral
+2025-05-23,420000,CH49 4SA,D,N,F,6,,Webster Drive,,Wirral
+2025-05-22,165750,CH49 4GN,S,N,F,30,,Litcham Close,,Wirral
+2025-05-21,295000,CH49 6JQ,S,N,F,36,,Meadway,Upton,Wirral
+2025-05-21,270000,CH49 3QQ,D,N,F,8,,Almond Way,,Wirral
+2025-05-16,155000,CH49 7LT,T,N,F,68,,Sandfield Road,Upton,Wirral
+2025-05-16,225000,CH49 4PT,T,N,F,2,,Merlin Avenue,,Wirral
+2025-05-16,315000,CH49 3NL,S,N,L,21,,Hillcrest Drive,Greasby,Wirral
+2025-05-16,275000,CH49 2QL,D,N,F,5,,Bromsgrove Road,Greasby,Wirral
+2025-05-15,307000,CH49 6ND,D,N,F,92,,Saughall Massie Lane,,Wirral
+2025-05-14,210000,CH49 4LE,S,N,F,57,,Brookside Crescent,,Wirral
+2025-05-09,312000,CH49 4QU,D,N,F,20,,Weybourne Close,,Wirral
+2025-05-09,285000,CH49 4PE,S,N,F,11,,Whitewell Drive,,Wirral
+2025-05-09,456250,CH49 1SF,S,N,F,30A,,Escolme Drive,,Wirral
+2025-05-06,244000,CH49 1RE,S,N,L,99,,Rigby Drive,,Wirral
+2025-05-06,244000,CH49 1RE,S,N,F,99,,Rigby Drive,,Wirral
+2025-05-06,258000,CH49 0UW,S,N,F,26,,Mavis Drive,,Wirral
+2025-05-02,84050,CH49 4PP,F,N,L,Liege House,Flat 2,Manorside Close,,Wirral
+2025-05-02,381000,CH49 3NX,S,N,F,1,,Barker Lane,,Wirral
+2025-05-02,285000,CH49 3NE,S,N,F,26,,Greasby Road,Greasby,Wirral
+2025-05-02,220000,CH49 2PG,S,N,F,261,,Greasby Road,Greasby,Wirral
+2025-05-02,240000,CH49 2NQ,S,N,F,49,,Broadway,Greasby,Wirral
+2025-05-01,379999,CH49 1AF,D,Y,F,2,,Hay Meadow Avenue,Upton,Wirral
+2025-04-30,125000,CH49 7NH,T,N,F,110,,New Hey Road,,Wirral
+2025-04-24,189500,CH49 4GA,S,N,F,21,,Pennystone Close,,Wirral
+2025-04-23,181250,CH49 2PG,F,N,F,239A,,Greasby Road,Greasby,Wirral
+2025-04-22,175000,CH49 4GD,S,N,F,180,,Norwich Drive,,Wirral
+2025-04-22,270000,CH49 1RP,S,N,F,14,,Ferguson Avenue,Greasby,Wirral
+2025-04-22,260000,CH49 1RA,S,N,F,76,,Arrowe Road,,Wirral
+2025-04-22,360000,CH49 0TS,S,N,F,13,,Wroxham Drive,,Wirral
+2025-04-17,240000,CH49 2RJ,S,N,F,15,,Whitelands Meadow,,Wirral
+2025-04-17,379999,CH49 1AG,D,Y,F,1,,Brookbridge Close,Upton,Wirral
+2025-04-16,325000,CH49 3AJ,D,N,F,1,,Coleman Drive,Greasby,Wirral
+2025-04-14,80000,CH49 0XW,F,N,L,16,,St Marys Court,,Wirral
+2025-04-08,147500,CH49 9BY,T,N,F,278,,New Hey Road,,Wirral
+2025-03-31,128000,CH49 9AP,T,N,F,162,,Houghton Road,,Wirral
+2025-03-31,215000,CH49 6PJ,S,N,F,9,,Melton Close,,Wirral
+2025-03-31,373000,CH49 6LD,D,N,F,18,,Hilary Drive,,Wirral
+2025-03-31,217500,CH49 4PU,S,N,F,47,,Merlin Avenue,,Wirral
+2025-03-31,230000,CH49 4NP,D,N,F,53,,Elm Avenue,,Wirral
+2025-03-31,227500,CH49 3QP,S,N,F,1,,Stroud Close,Greasby,Wirral
+2025-03-31,342000,CH49 3PT,D,N,F,3,,Frankby Close,,Wirral
+2025-03-31,185000,CH49 3PS,S,N,F,1,,Kinloss Road,Greasby,Wirral
+2025-03-28,175000,CH49 7LU,T,N,F,9,,Schoolfield Road,,Wirral
+2025-03-28,215000,CH49 6PT,D,N,F,10,,Wittenham Close,,Wirral
+2025-03-28,248000,CH49 6JS,S,N,F,21,,Arborn Drive,Upton,Wirral
+2025-03-28,310000,CH49 6JL,S,N,F,8,,Oakland Drive,,Wirral
+2025-03-28,258000,CH49 6JL,S,N,F,30,,Oakland Drive,,Wirral
+2025-03-28,379995,CH49 5AB,D,Y,F,4,,Jamboree Close,,Wirral
+2025-03-28,230000,CH49 4PN,D,N,F,18,,Larkhill Avenue,,Wirral
+2025-03-28,230000,CH49 3NW,S,N,F,37,,Mill Lane,Greasby,Wirral
+2025-03-28,175000,CH49 3NH,F,N,L,"Clovelly Court, 158",Flat 8,Greasby Road,Greasby,Wirral
+2025-03-28,380000,CH49 3GT,D,N,F,19,,Ashdale Park,Greasby,Wirral
+2025-03-28,260000,CH49 1SQ,T,N,F,39,,Dingwall Drive,,Wirral
+2025-03-28,425000,CH49 0WD,D,N,L,9,,Atholl Duncan Drive,,Wirral
+2025-03-27,155000,CH49 9DH,S,N,F,1,,Myrtle Way,,Wirral
+2025-03-27,115000,CH49 9BW,T,N,F,78,,Orrets Meadow Road,,Wirral
+2025-03-27,350000,CH49 6JB,D,N,F,30,,Mount Road,Upton,Wirral
+2025-03-27,232000,CH49 4QJ,S,N,F,46,,Sycamore Avenue,,Wirral
+2025-03-27,235000,CH49 3PG,S,N,F,10,,Halton Crescent,Greasby,Wirral
+2025-03-27,240000,CH49 2RP,S,N,F,22,,The Crofters,Greasby,Wirral
+2025-03-27,430000,CH49 1SN,S,N,F,16,,Caulfield Drive,Greasby,Wirral
+2025-03-26,191000,CH49 6QL,S,N,F,18,,Bleasdale Close,,Wirral
+2025-03-26,265000,CH49 6NF,S,N,F,48,,Warwick Road,,Wirral
+2025-03-26,105000,CH49 3NF,T,N,L,49A,,Greasby Road,Greasby,Wirral
+2025-03-26,375000,CH49 1SS,D,N,F,124,,Brookdale Avenue South,,Wirral
+2025-03-26,387500,CH49 1RD,S,N,F,11,,Rigby Drive,,Wirral
+2025-03-25,91750,CH49 8EJ,T,N,F,131,,Hoole Road,,Wirral
+2025-03-25,160000,CH49 4GD,S,N,F,156,,Norwich Drive,,Wirral
+2025-03-24,136000,CH49 7ND,T,N,F,37,,Walby Close,,Wirral
+2025-03-21,320000,CH49 6JS,S,N,F,28,,Arborn Drive,Upton,Wirral
+2025-03-21,485000,CH49 3QH,D,N,F,9,,Rowan Court,Greasby,Wirral
+2025-03-21,225000,CH49 3GW,D,N,F,17,,Farm Close,Greasby,Wirral
+2025-03-21,382500,CH49 2QY,D,N,F,18,,The Planters,,Wirral
+2025-03-21,270000,CH49 2QR,S,N,F,16,,Droitwich Avenue,Greasby,Wirral
+2025-03-21,280000,CH49 2NG,S,N,F,3,,Broadway,Greasby,Wirral
+2025-03-19,400000,CH49 3QA,D,N,F,2,,Chestnut Close,,Wirral
+2025-03-17,149000,CH49 4NA,T,N,F,16,,Royden Road,,Wirral
+2025-03-14,169000,CH49 7ND,T,N,F,10,,Walby Close,,Wirral
+2025-03-14,560000,CH49 6JX,D,N,F,6,,West Drive,Upton,Wirral
+2025-03-14,389995,CH49 5AB,D,Y,F,2,,Jamboree Close,,Wirral
+2025-03-14,210000,CH49 2PG,S,N,F,257,,Greasby Road,Greasby,Wirral
+2025-03-14,350000,CH49 0WF,D,N,F,16,,Atholl Duncan Drive,,Wirral
+2025-03-14,215000,CH49 0WD,S,N,L,5,,Atholl Duncan Drive,,Wirral
+2025-03-13,330000,CH49 3GT,D,N,F,38,,Ashdale Park,Greasby,Wirral
+2025-03-13,437500,CH49 1SP,S,N,F,85,,Brookdale Avenue South,,Wirral
+2025-03-13,336000,CH49 1RH,S,N,F,77,,Lloyd Drive,,Wirral
+2025-03-11,150000,CH49 6PQ,S,N,F,10,,Trimley Close,,Wirral
+2025-03-07,170000,CH49 7NN,S,N,F,13,,Ganneys Meadow Road,,Wirral
+2025-03-07,335000,CH49 3AH,D,N,F,7,,Langstone Avenue,Greasby,Wirral
+2025-03-07,203500,CH49 2NJ,S,N,F,29,,Jeffreys Drive,,Wirral
+2025-03-06,367500,CH49 6JJ,S,N,F,58,,South Drive,Upton,Wirral
+2025-03-05,100000,CH49 4GD,F,N,L,192,,Norwich Drive,,Wirral
+2025-03-04,265000,CH49 0UT,S,N,F,21A,,Rake Lane,,Wirral
+2025-03-03,210000,CH49 5NG,S,N,F,13,,Eltham Green,,Wirral
+2025-03-03,220000,CH49 4RA,S,N,F,32,,Butterton Avenue,,Wirral
+2025-03-03,280000,CH49 4RA,S,N,F,15,,Butterton Avenue,,Wirral
+2025-03-03,227000,CH49 4PS,S,N,F,78,,Kingfisher Way,,Wirral
+2025-02-28,361000,CH49 6ND,D,N,F,122,,Saughall Massie Lane,,Wirral
+2025-02-28,228000,CH49 5LL,S,N,F,13,,Archers Way,Upton,Wirral
+2025-02-28,154000,CH49 4GN,T,N,F,9,,Litcham Close,,Wirral
+2025-02-28,215000,CH49 3PB,S,N,F,10,,Danefield Road,,Wirral
+2025-02-28,325000,CH49 3AE,S,N,F,27,,Lombardy Avenue,Greasby,Wirral
+2025-02-28,190000,CH49 2NB,S,N,F,99,,Cortsway,,Wirral
+2025-02-28,325000,CH49 1RL,S,N,F,1,,The Close,Greasby,Wirral
+2025-02-28,345000,CH49 1RH,S,N,F,79,,Lloyd Drive,,Wirral
+2025-02-28,325000,CH49 1RA,S,N,F,48,,Arrowe Road,,Wirral
+2025-02-27,151500,CH49 9DD,T,N,F,18,,Bridge Farm Close,,Wirral
+2025-02-27,255000,CH49 4PF,S,N,F,71,,Whitewell Drive,,Wirral
+2025-02-21,362000,CH49 6JQ,S,N,F,60,,Meadway,Upton,Wirral
+2025-02-21,333000,CH49 1SF,S,N,F,47,,Escolme Drive,,Wirral
+2025-02-21,241000,CH49 0TZ,S,N,F,76,,Slingsby Drive,,Wirral
+2025-02-20,217000,CH49 4QA,S,N,F,26,,Curlew Avenue,Upton,Wirral
+2025-02-20,345000,CH49 3PJ,D,N,F,415,,Frankby Road,Greasby,Wirral
+2025-02-20,90000,CH49 3GS,F,N,L,31,,Redcroft,Greasby,Wirral
+2025-02-17,165000,CH49 6PB,T,N,F,12,,Mesham Close,,Wirral
+2025-02-17,290000,CH49 3QW,D,N,F,15,,Chippenham Avenue,Greasby,Wirral
+2025-02-17,225000,CH49 2RH,S,N,F,2,,Dunning Close,,Wirral
+2025-02-14,142000,CH49 9BH,T,N,F,178,,Hoole Road,,Wirral
+2025-02-14,445150,CH49 6JJ,S,N,F,65,,South Drive,Upton,Wirral
+2025-02-14,260000,CH49 4PY,S,N,F,21,,Kestrel Close,,Wirral
+2025-02-14,260000,CH49 4PW,D,N,F,1,,Larkhill Way,,Wirral
+2025-02-12,362000,CH49 6LH,S,N,F,16,,Loretto Drive,,Wirral
+2025-02-07,105000,CH49 4NT,F,N,L,141,,Moreton Road,Upton,Wirral
+2025-02-07,230000,CH49 3ND,T,N,F,21,,Pickerill Road,,Wirral
+2025-02-06,150000,CH49 7LR,T,N,F,12,,Church Lane,Upton,Wirral
+2025-02-03,155000,CH49 7LD,T,N,F,53,,Ackers Road,Woodchurch,Wirral
+2025-02-03,233000,CH49 6PD,S,N,F,3,,Tunstall Close,,Wirral
+2025-02-03,150000,CH49 4NQ,T,N,F,42,,Inman Road,,Wirral
+2025-01-31,187000,CH49 8HD,S,N,F,21,,Atherton Drive,,Wirral
+2025-01-31,190000,CH49 7LL,T,N,F,26,,Commonfield Road,,Wirral
+2025-01-31,112500,CH49 5NN,F,N,L,2,,Churchwood Court,,Wirral
+2025-01-31,206000,CH49 4QG,S,N,F,6,,Girtrell Close,,Wirral
+2025-01-30,230000,CH49 4LR,D,N,F,28,,Overchurch Road,,Wirral
+2025-01-30,255000,CH49 2NT,S,N,F,36,,Eastway,Greasby,Wirral
+2025-01-29,282000,CH49 9AD,S,N,F,14,,Leeswood Road,,Wirral
+2025-01-27,110000,CH49 5ND,F,N,L,3,,Archer Court,,Wirral
+2025-01-24,360000,CH49 6LP,S,N,F,54,,Upland Road,Upton,Wirral
+2025-01-24,265000,CH49 2PW,S,N,F,226,,Greasby Road,Greasby,Wirral
+2025-01-20,225000,CH49 4GL,D,N,F,6,,Loddon Close,,Wirral
+2025-01-17,140000,CH49 4RY,F,N,L,10,,Ladybower Close,,Wirral
+2025-01-14,135000,CH49 7LN,T,N,F,92,,Home Farm Road,,Wirral
+2025-01-10,520000,CH49 6JF,D,N,F,16,,Manor Drive,,Wirral
+2025-01-10,260000,CH49 4PW,D,N,F,10,,Larkhill Way,,Wirral
+2025-01-10,380000,CH49 1AG,D,Y,F,2,,Brookbridge Close,Upton,Wirral
+2025-01-10,499995,CH49 1AD,D,Y,F,1,,Smithy Brook Drive,Upton,Wirral
+2025-01-10,340000,CH49 0TY,S,N,F,61,,Slingsby Drive,,Wirral
+2025-01-10,205000,CH49 0TB,S,N,F,53,,Ford Road,,Wirral
+2025-01-09,60500,CH49 9DL,F,N,L,207,,Carr Bridge Road,,Wirral
+2025-01-07,487000,CH49 6JX,S,N,F,12,,West Drive,Upton,Wirral
+2025-01-03,140000,CH49 7PB,S,N,F,43,,Caldwell Drive,,Wirral
+2025-01-03,335000,CH49 6PS,D,N,F,15,,Crowmarsh Close,,Wirral
+2025-01-03,230000,CH49 0WJ,T,N,L,11,,Malley Close,,Wirral
+2024-12-23,350000,CH49 1SN,S,N,F,27,,Caulfield Drive,Greasby,Wirral
+2024-12-20,190000,CH49 8HL,T,N,F,35,,Woodland Road,Upton,Wirral
+2024-12-19,151000,CH49 9DP,S,N,L,7,,Camden Mews,,Wirral
+2024-12-18,255000,CH49 6NT,S,N,F,99,,Manor Drive,,Wirral
+2024-12-18,165000,CH49 5PB,T,N,F,141,,Arrowe Park Road,,Wirral
+2024-12-18,233000,CH49 4SA,T,N,F,33,,Webster Drive,,Wirral
+2024-12-18,212000,CH49 4NE,S,N,F,67,,Gainsborough Road,,Wirral
+2024-12-18,150000,CH49 1SR,D,N,F,159,,Brookdale Avenue South,,Wirral
+2024-12-17,220000,CH49 2RX,S,N,F,4,,Parr Grove,Greasby,Wirral
+2024-12-17,180000,CH49 0TN,T,N,F,61,,Salacre Lane,,Wirral
+2024-12-16,241000,CH49 5NP,S,N,F,26,,Childwall Green,,Wirral
+2024-12-13,330000,CH49 6QJ,D,N,F,11,,Furness Close,,Wirral
+2024-12-13,160000,CH49 6JY,F,N,L,Aughton Court,Flat 11,Church Road,Upton,Wirral
+2024-12-13,217000,CH49 4PT,S,N,F,13,,Merlin Avenue,,Wirral
+2024-12-13,290000,CH49 4NX,S,N,F,10,,Doncaster Drive,,Wirral
+2024-12-13,291000,CH49 1SE,S,N,F,9,,Escolme Drive,,Wirral
+2024-12-13,395000,CH49 0TS,S,N,F,19,,Wroxham Drive,,Wirral
+2024-12-11,240000,CH49 3GP,S,N,F,5,,Days Meadow,,Wirral
+2024-12-11,280000,CH49 2QG,S,N,F,5,,Greasby Mews,Greasby,Wirral
+2024-12-11,410000,CH49 1SS,D,N,F,140,,Brookdale Avenue South,,Wirral
+2024-12-10,208000,CH49 5LL,T,N,F,10,,Archers Way,Upton,Wirral
+2024-12-10,295000,CH49 2NB,S,N,F,115,,Cortsway,,Wirral
+2024-12-09,80000,CH49 5NN,F,N,L,8,,Churchwood Court,,Wirral
+2024-12-09,325000,CH49 3PU,D,N,F,39,,Thorns Drive,Greasby,Wirral
+2024-12-06,219000,CH49 9EH,S,N,F,19,,Sunflower Close,,Wirral
+2024-12-06,290000,CH49 6ND,S,N,F,78,,Saughall Massie Lane,,Wirral
+2024-12-06,200000,CH49 5LZ,S,N,F,24,,Fleetcroft Road,,Wirral
+2024-12-06,285000,CH49 4LB,S,N,F,201,,Saughall Massie Road,Upton,Wirral
+2024-12-06,240000,CH49 3PB,S,N,F,45,,Danefield Road,,Wirral
+2024-12-06,217500,CH49 2NF,S,N,F,24,,Cortsway West,,Wirral
+2024-12-06,330000,CH49 1SD,S,N,F,2,,Robert Drive,Greasby,Wirral
+2024-12-06,195000,CH49 0UW,S,N,F,20,,Mavis Drive,,Wirral
+2024-12-06,339995,CH49 0AD,S,Y,F,4,,Hannay Close,,Wirral
+2024-12-05,227000,CH49 4PS,S,N,F,72,,Kingfisher Way,,Wirral
+2024-12-05,282500,CH49 3PU,D,N,F,31,,Thorns Drive,Greasby,Wirral
+2024-12-05,220000,CH49 2NJ,S,N,F,1,,Jeffreys Drive,,Wirral
+2024-12-05,436995,CH49 1AE,D,Y,F,3,,Gorse Road,Upton,Wirral
+2024-12-03,195000,CH49 5NL,S,N,F,4,,Eltham Close,,Wirral
+2024-11-29,100000,CH49 9AF,T,N,F,40,,Leeswood Road,,Wirral
+2024-11-29,160000,CH49 7ND,T,N,F,12,,Walby Close,,Wirral
+2024-11-29,145000,CH49 7LL,T,N,F,36,,Commonfield Road,,Wirral
+2024-11-29,185000,CH49 7LL,S,N,F,22,,Commonfield Road,,Wirral
+2024-11-29,295000,CH49 6LX,D,N,F,9,,Welton Avenue,,Wirral
+2024-11-29,280000,CH49 6JL,D,N,F,31,,Oakland Drive,,Wirral
+2024-11-29,280000,CH49 4SD,S,N,F,8,,Far Hey Drive,,Wirral
+2024-11-29,63000,CH49 4RP,F,N,L,Bower House,Apartment 23,Manorside Close,,Wirral
+2024-11-29,170000,CH49 4QR,S,N,F,33,,Norwich Drive,,Wirral
+2024-11-29,233000,CH49 4QA,S,N,F,8,,Curlew Avenue,Upton,Wirral
+2024-11-29,380000,CH49 3PU,D,N,F,3,,Thorns Drive,Greasby,Wirral
+2024-11-29,291500,CH49 3AE,D,N,F,39,,Lombardy Avenue,Greasby,Wirral
+2024-11-29,420000,CH49 1RN,D,N,F,30,,Hall Drive,Greasby,Wirral
+2024-11-29,207000,CH49 0XF,S,N,F,3,,Sullivan Avenue,,Wirral
+2024-11-29,180000,CH49 0UL,T,N,F,6,,Molyneux Close,,Wirral
+2024-11-29,295000,CH49 0TX,S,N,F,8,,Grafton Drive,,Wirral
+2024-11-28,132000,CH49 6LS,F,N,L,Upton Court,Flat 30,Braeside Gardens,,Wirral
+2024-11-28,350000,CH49 3AG,D,N,F,12,,Fuchsia Walk,Greasby,Wirral
+2024-11-26,340000,CH49 3GT,D,N,F,33,,Ashdale Park,Greasby,Wirral
+2024-11-25,210000,CH49 6NF,S,N,F,43,,Warwick Road,,Wirral
+2024-11-22,220200,CH49 4PR,S,N,L,30,,Kingfisher Way,,Wirral
+2024-11-22,210000,CH49 3PB,D,N,F,34,,Danefield Road,,Wirral
+2024-11-20,234000,CH49 6PQ,S,N,F,9,,Trimley Close,,Wirral
+2024-11-15,199500,CH49 5LP,S,N,F,189,,Arrowe Park Road,,Wirral
+2024-11-15,278500,CH49 4PN,S,N,F,16,,Larkhill Avenue,,Wirral
+2024-11-15,409995,CH49 1AJ,D,Y,F,3,,Foundry Close,Upton,Wirral
+2024-11-14,146000,CH49 9BN,T,N,F,50,,Orrets Meadow Road,,Wirral
+2024-11-14,118000,CH49 8EE,S,N,F,15,,Ferny Brow Road,,Wirral
+2024-11-14,293000,CH49 4RF,D,N,F,1,,Wharton Close,,Wirral
+2024-11-14,189995,CH49 4GT,S,N,F,3,,Binsey Close,,Wirral
+2024-11-12,140000,CH49 3NG,T,N,F,100,,Greasby Road,Greasby,Wirral
+2024-11-11,160000,CH49 9BT,S,N,F,307,,New Hey Road,,Wirral
+2024-11-08,292500,CH49 2NA,S,N,F,60,,Cortsway,,Wirral
+2024-11-07,270000,CH49 3QY,D,N,F,21,,Beauworth Avenue,Greasby,Wirral
+2024-11-06,430500,CH49 1SN,D,N,F,5,,Caulfield Drive,Greasby,Wirral
+2024-11-04,250000,CH49 3PD,S,N,F,9,,Shaw Lane,Greasby,Wirral
+2024-11-04,270000,CH49 3AJ,D,N,F,8,,Coleman Drive,Greasby,Wirral
+2024-11-04,290000,CH49 1AD,D,N,F,46,,Smithy Brook Drive,Upton,Wirral
+2024-11-01,309995,CH49 0AD,S,Y,F,8,,Hannay Close,,Wirral
+2024-10-31,215000,CH49 5NJ,D,N,F,1,,Troutbeck Close,,Wirral
+2024-10-31,220000,CH49 2RR,S,N,F,3,,Pitch Close,Greasby,Wirral
+2024-10-30,175000,CH49 2QZ,D,N,F,4,,The Carters,Greasby,Wirral
+2024-10-29,231000,CH49 5NX,T,N,F,11,,Nantwich Close,,Wirral
+2024-10-29,180000,CH49 4RE,S,N,F,19,,Hawksmore Close,,Wirral
+2024-10-29,375000,CH49 2PQ,D,N,F,319,,Greasby Road,Greasby,Wirral
+2024-10-28,130000,CH49 7NR,T,N,F,32,,Ganneys Meadow Road,,Wirral
+2024-10-28,262500,CH49 1SF,S,N,F,32,,Escolme Drive,,Wirral
+2024-10-28,270000,CH49 1RY,S,N,F,75,,Arrowe Road,,Wirral
+2024-10-25,193000,CH49 2RP,S,N,F,25,,The Crofters,Greasby,Wirral
+2024-10-25,185000,CH49 0TN,T,N,F,65,,Salacre Lane,,Wirral
+2024-10-24,280000,CH49 6LH,D,N,F,10,,Loretto Drive,,Wirral
+2024-10-24,138000,CH49 5LQ,T,N,F,28,,Home Farm Road,,Wirral
+2024-10-24,210000,CH49 4LG,S,N,F,75,,Girtrell Road,,Wirral
+2024-10-23,155000,CH49 7LG,T,N,F,63,,Home Farm Road,,Wirral
+2024-10-23,136000,CH49 6LS,F,N,L,Upton Court,Flat 17,Braeside Gardens,,Wirral
+2024-10-22,155000,CH49 8JA,T,N,F,28,,The Meadow,,Wirral
+2024-10-21,345000,CH49 3GU,D,N,F,4,,Cedarwood Close,,Wirral
+2024-10-21,277500,CH49 1RA,S,N,F,50,,Arrowe Road,,Wirral
+2024-10-18,255000,CH49 4NN,D,N,F,82,,Overchurch Road,,Wirral
+2024-10-18,236950,CH49 2QW,S,N,F,43,,Cirencester Avenue,,Wirral
+2024-10-17,135000,CH49 9AF,T,N,F,42,,Leeswood Road,,Wirral
+2024-10-17,380000,CH49 1AG,D,Y,F,4,,Brookbridge Close,Upton,Wirral
+2024-10-16,136000,CH49 7NP,T,N,F,174,,Ganneys Meadow Road,,Wirral
+2024-10-16,339995,CH49 0AD,S,Y,F,6,,Hannay Close,,Wirral
+2024-10-15,215000,CH49 2NU,S,N,F,36,,Brookdale Avenue North,,Wirral
+2024-10-14,277500,CH49 2NW,S,N,F,42,,Greenway,Greasby,Wirral
+2024-10-11,150000,CH49 8HG,S,N,F,26,,Glebe Hey Road,,Wirral
+2024-10-11,525000,CH49 6LL,D,N,F,8,,Moreton Road,Upton,Wirral
+2024-10-11,147000,CH49 3QF,F,N,L,7,,Norwood Court,Greasby,Wirral
+2024-10-11,247995,CH49 3PF,D,N,F,332,,Frankby Road,Greasby,Wirral
+2024-10-10,220000,CH49 3PG,S,N,F,22,,Halton Crescent,Greasby,Wirral
+2024-10-10,90000,CH49 3GS,F,N,L,47,,Redcroft,Greasby,Wirral
+2024-10-09,230000,CH49 2NS,S,N,F,53,,Eastway,Greasby,Wirral
+2024-10-04,230000,CH49 4QB,S,N,F,8,,Curlew Close,Upton,Wirral
+2024-10-04,200000,CH49 4PD,S,N,F,42,,Ronaldsway,Upton,Wirral
+2024-10-01,190000,CH49 6LQ,S,N,F,72,,Manor Drive,,Wirral
+2024-10-01,215000,CH49 4WT,D,N,F,11,,Tring Close,,Wirral
+2024-09-30,290000,CH49 6JG,D,N,F,30A,,Meadway,Upton,Wirral
+2024-09-30,590000,CH49 4NR,D,N,F,43,,Moreton Road,Upton,Wirral
+2024-09-30,335000,CH49 2NB,S,N,F,86,,Cortsway,,Wirral
+2024-09-30,436995,CH49 1AE,D,Y,F,5,,Gorse Road,Upton,Wirral
+2024-09-30,415000,CH49 0WN,D,N,F,6,,Simpson Place,,Wirral
+2024-09-30,339995,CH49 0AD,S,Y,F,5,,Hannay Close,,Wirral
+2024-09-27,287500,CH49 6NN,S,N,F,25,,Devonshire Road,Upton,Wirral
+2024-09-27,130000,CH49 4RY,F,N,L,11,,Ladybower Close,,Wirral
+2024-09-27,184000,CH49 4RF,S,N,F,4,,Wharton Close,,Wirral
+2024-09-27,180000,CH49 4QG,S,N,F,2,,Girtrell Close,,Wirral
+2024-09-27,237500,CH49 4PR,S,N,L,6,,Kingfisher Way,,Wirral
+2024-09-27,245000,CH49 2QD,D,N,F,14,,Summertrees Avenue,,Wirral
+2024-09-20,127000,CH49 9BD,T,N,F,155,,Hoole Road,,Wirral
+2024-09-20,186000,CH49 9AN,T,N,F,160,,Big Meadow Road,,Wirral
+2024-09-20,245000,CH49 3NA,S,N,F,47,,Circular Drive,Greasby,Wirral
+2024-09-20,309995,CH49 0AD,S,Y,F,7,,Hannay Close,,Wirral
+2024-09-18,265000,CH49 6QN,S,N,F,4,,Pendle Close,,Wirral
+2024-09-17,280000,CH49 6JY,S,N,F,37,,Church Road,Upton,Wirral
+2024-09-17,165000,CH49 4GE,S,N,F,6,,Thornham Close,,Wirral
+2024-09-17,162500,CH49 4GA,S,N,F,15,,Pennystone Close,,Wirral
+2024-09-13,151000,CH49 8HG,T,N,F,50,,Glebe Hey Road,,Wirral
+2024-09-13,197500,CH49 4PB,S,N,F,2,,Sunnybank,Upton,Wirral
+2024-09-13,300000,CH49 1RP,S,N,F,13,,Ferguson Avenue,Greasby,Wirral
+2024-09-12,225000,CH49 6LH,S,N,F,9,,Loretto Drive,,Wirral
+2024-09-12,200000,CH49 3NQ,F,N,L,138B,,Greasby Road,Greasby,Wirral
+2024-09-12,245000,CH49 3NP,S,N,F,9,,Elm Drive,Greasby,Wirral
+2024-09-11,226000,CH49 6JT,S,N,F,19,,Hill View Drive,,Wirral
+2024-09-11,365000,CH49 0TX,S,N,F,5,,Grafton Drive,,Wirral
+2024-09-10,254000,CH49 6LU,S,N,F,40,,Frankby Grove,,Wirral
+2024-09-10,188000,CH49 5NU,T,N,F,7,,Crewe Green,,Wirral
+2024-09-09,92007,CH49 5LB,S,N,F,13,,New Hey Road,,Wirral
+2024-09-09,185000,CH49 0WD,F,N,L,85,,Atholl Duncan Drive,,Wirral
+2024-09-06,128000,CH49 9AH,T,N,F,19,,Domville Drive,,Wirral
+2024-09-06,162500,CH49 8EH,S,N,F,144,,Ferny Brow Road,,Wirral
+2024-09-06,120000,CH49 7LH,S,N,F,208,,Home Farm Road,,Wirral
+2024-09-06,249000,CH49 6JS,S,N,F,26,,Arborn Drive,Upton,Wirral
+2024-09-06,285000,CH49 1SL,S,N,F,4,,Neale Drive,Greasby,Wirral
+2024-09-05,95000,CH49 9BD,F,N,L,181,,Hoole Road,,Wirral
+2024-09-05,325000,CH49 3QU,D,N,F,4,,Ashdown Drive,,Wirral
+2024-09-05,330000,CH49 2QQ,D,N,F,21,,Redford Close,,Wirral
+2024-09-02,200000,CH49 4RE,D,N,F,2,,Hawksmore Close,,Wirral
+2024-09-02,172000,CH49 2PJ,S,N,F,3,,Highfield Drive,Greasby,Wirral
+2024-08-30,205000,CH49 5LZ,S,N,F,46,,Fleetcroft Road,,Wirral
+2024-08-30,160000,CH49 4GN,T,N,F,4,,Litcham Close,,Wirral
+2024-08-30,285000,CH49 3QN,D,N,F,23,,Allangate Close,Greasby,Wirral
+2024-08-30,740000,CH49 1RZ,D,N,F,Arrowebrook Farm,,Arrowe Road,,Wirral
+2024-08-30,317500,CH49 1RX,S,N,F,28,,Howell Drive,,Wirral
+2024-08-30,330000,CH49 1RF,S,N,F,18,,Rigby Drive,,Wirral
+2024-08-30,440000,CH49 0WF,D,N,F,66,,Atholl Duncan Drive,,Wirral
+2024-08-28,85000,CH49 7LD,T,N,F,23,,Ackers Road,Woodchurch,Wirral
+2024-08-28,129500,CH49 0UH,T,N,F,39,,Greystoke Close,,Wirral
+2024-08-27,156000,CH49 7NA,T,N,F,27,,Robin Way,,Wirral
+2024-08-27,285000,CH49 4LF,S,N,F,10,,Brookside Crescent,,Wirral
+2024-08-27,450000,CH49 1SW,D,N,F,67,,Caulfield Drive,Greasby,Wirral
+2024-08-22,415000,CH49 6PN,D,N,F,27,,The Limes,,Wirral
+2024-08-22,260000,CH49 2SE,S,N,F,8,,Birchdale Close,Greasby,Wirral
+2024-08-20,150000,CH49 4NF,T,N,F,18,,Gainsborough Road,,Wirral
+2024-08-19,375000,CH49 3AA,D,N,F,4,,Chidden Close,,Wirral
+2024-08-19,255000,CH49 2RZ,D,N,F,26,,Locker Park,,Wirral
+2024-08-19,362500,CH49 1SN,S,N,F,22,,Caulfield Drive,Greasby,Wirral
+2024-08-19,300000,CH49 1SD,S,N,F,3,,Robert Drive,Greasby,Wirral
+2024-08-16,150000,CH49 7LU,S,N,F,19,,Schoolfield Road,,Wirral
+2024-08-16,245000,CH49 6LH,S,N,F,41,,Loretto Drive,,Wirral
+2024-08-16,170000,CH49 5LQ,S,N,F,4,,Home Farm Road,,Wirral
+2024-08-16,125000,CH49 4RG,F,N,L,Websters Holt,5,Manorside Close,,Wirral
+2024-08-16,247000,CH49 3QL,S,N,F,6,,Magnolia Walk,,Wirral
+2024-08-16,140000,CH49 3PE,F,N,L,"Millcroft Park, 322",Flat 8,Frankby Road,Greasby,Wirral
+2024-08-16,165000,CH49 2QR,S,N,F,19,,Droitwich Avenue,Greasby,Wirral
+2024-08-16,389995,CH49 1AD,D,Y,F,3,,Smithy Brook Drive,Upton,Wirral
+2024-08-16,250000,CH49 0WJ,D,N,F,4,,Malley Close,,Wirral
+2024-08-15,399995,CH49 1AG,D,Y,F,3,,Brookbridge Close,Upton,Wirral
+2024-08-14,371000,CH49 2NS,S,N,F,25,,Eastway,Greasby,Wirral
+2024-08-09,153000,CH49 5LF,T,N,F,81,,New Hey Road,,Wirral
+2024-08-09,199950,CH49 4NT,S,N,F,149,,Moreton Road,Upton,Wirral
+2024-08-09,250000,CH49 4NP,D,N,F,55,,Elm Avenue,,Wirral
+2024-08-09,265000,CH49 2PH,S,N,F,10,,Norwood Road,,Wirral
+2024-08-08,225000,CH49 5LL,S,N,F,7,,Archers Way,Upton,Wirral
+2024-08-08,477500,CH49 1SR,D,N,F,185,,Brookdale Avenue South,,Wirral
+2024-08-08,310000,CH49 1SL,S,N,F,20,,Neale Drive,Greasby,Wirral
+2024-08-08,73000,CH49 0UX,F,N,L,4,,Wroxham Court,,Wirral
+2024-08-05,138500,CH49 4RY,F,N,L,29,,Ladybower Close,,Wirral
+2024-08-02,215000,CH49 6PP,S,N,F,12,,Cholsey Close,,Wirral
+2024-08-02,246500,CH49 5LL,S,N,F,11,,Archers Way,Upton,Wirral
+2024-08-02,550000,CH49 3PX,D,N,F,11,,Sycamore Rise,,Wirral
+2024-08-02,160000,CH49 3PE,F,N,L,"Millcroft Park, 322",Flat 19,Frankby Road,Greasby,Wirral
+2024-08-02,137000,CH49 3NH,F,N,L,"Clovelly Court, 158",Flat 11,Greasby Road,Greasby,Wirral
+2024-08-02,325000,CH49 3GT,D,N,F,37,,Ashdale Park,Greasby,Wirral
+2024-08-02,475000,CH49 1SJ,S,N,F,21,,Appleton Drive,Greasby,Wirral
+2024-08-02,265000,CH49 1RD,S,N,F,9,,Rigby Drive,,Wirral
+2024-08-02,370995,CH49 1AE,D,Y,F,6,,Gorse Road,Upton,Wirral
+2024-08-01,375000,CH49 3GN,D,N,F,4,,Mere Park Road,Greasby,Wirral
+2024-07-31,167500,CH49 6JY,F,N,L,Aughton Court,Flat 17,Church Road,Upton,Wirral
+2024-07-31,215000,CH49 6JN,S,N,F,31,,Upton Park Drive,,Wirral
+2024-07-31,355000,CH49 3QU,D,N,F,6,,Ashdown Drive,,Wirral
+2024-07-30,162500,CH49 3PE,F,N,L,"Millcroft Park, 322",Flat 15,Frankby Road,Greasby,Wirral
+2024-07-29,153000,CH49 7ND,S,N,F,24,,Walby Close,,Wirral
+2024-07-29,210000,CH49 4QD,S,N,F,1,,Sandpiper Close,,Wirral
+2024-07-26,180000,CH49 7PB,S,N,F,17,,Caldwell Drive,,Wirral
+2024-07-26,430000,CH49 2PS,D,N,F,18,,Rylands Hey,,Wirral
+2024-07-25,390000,CH49 3QZ,D,N,F,16,,Finchdean Close,Greasby,Wirral
+2024-07-23,345000,CH49 6NR,D,N,F,18,,Green Mount,,Wirral
+2024-07-23,455000,CH49 6ND,D,N,F,108,,Saughall Massie Lane,,Wirral
+2024-07-23,350000,CH49 4PQ,D,N,F,197,,Manor Drive,,Wirral
+2024-07-23,216000,CH49 4GG,S,N,F,21,,Headington Road,,Wirral
+2024-07-23,285000,CH49 1SL,T,N,F,8,,Neale Drive,Greasby,Wirral
+2024-07-23,221000,CH49 0WJ,S,N,L,30,,Malley Close,,Wirral
+2024-07-19,128000,CH49 4RY,F,N,L,28,,Ladybower Close,,Wirral
+2024-07-19,225000,CH49 4LH,S,N,F,4,,Brookside Drive,,Wirral
+2024-07-19,380000,CH49 0WN,D,N,F,4,,Simpson Place,Upton,Wirral
+2024-07-17,295000,CH49 3GU,D,N,F,2,,Cedarwood Close,,Wirral
+2024-07-17,70000,CH49 3GS,F,N,L,54,,Redcroft,Greasby,Wirral
+2024-07-17,330000,CH49 2NX,D,N,F,41,,Hambledon Drive,,Wirral
+2024-07-16,74500,CH49 4LX,T,N,L,107,,Royden Road,,Wirral
+2024-07-15,260000,CH49 6NL,S,N,F,3,,Surrey Avenue,,Wirral
+2024-07-13,85000,CH49 3GS,F,N,L,48,,Redcroft,Greasby,Wirral
+2024-07-12,230000,CH49 9BF,D,N,L,7,,Colbert Close,,Wirral
+2024-07-12,155000,CH49 4GN,T,N,F,16,,Litcham Close,,Wirral
+2024-07-12,487000,CH49 3NT,D,N,F,134,,Mill Lane,Greasby,Wirral
+2024-07-11,163000,CH49 4LU,T,N,F,63,,Royden Road,,Wirral
+2024-07-09,430000,CH49 1RB,S,N,F,57,,Arrowe Road,,Wirral
+2024-07-05,83000,CH49 4GD,F,N,L,183,,Norwich Drive,,Wirral
+2024-07-05,121000,CH49 3NQ,F,N,L,146A,,Greasby Road,Greasby,Wirral
+2024-07-05,172500,CH49 3NE,S,N,F,44,,Greasby Road,Greasby,Wirral
+2024-07-05,226495,CH49 2NW,T,N,F,2,,Greenway,Greasby,Wirral
+2024-07-05,420995,CH49 1AG,D,Y,F,5,,Brookbridge Close,Upton,Wirral
+2024-07-04,260000,CH49 2PR,S,N,F,25,,Duncan Drive,Greasby,Wirral
+2024-07-03,205000,CH49 4QJ,S,N,F,22,,Sycamore Avenue,,Wirral
+2024-07-02,244000,CH49 3PB,S,N,F,24,,Danefield Road,,Wirral
+2024-07-01,458995,CH49 1AJ,D,Y,F,5,,Foundry Close,Upton,Wirral
+2024-06-28,130000,CH49 8HU,T,N,F,110,,Greenwood Road,Upton,Wirral
+2024-06-28,115000,CH49 7PB,T,N,F,23,,Caldwell Drive,,Wirral
+2024-06-25,120000,CH49 7LP,T,N,F,120,,Commonfield Road,,Wirral
+2024-06-25,345000,CH49 4SB,D,N,F,8,,Harefields Way,,Wirral
+2024-06-25,242000,CH49 4LT,S,N,F,6,,Birch Avenue,,Wirral
+2024-06-24,177000,CH49 5LQ,S,N,F,12,,Home Farm Road,,Wirral
+2024-06-21,170000,CH49 5LZ,S,N,F,36,,Fleetcroft Road,,Wirral
+2024-06-21,193500,CH49 4SA,T,N,F,31,,Webster Drive,,Wirral
+2024-06-21,252000,CH49 2ND,S,N,F,35,,Kirkway,Greasby,Wirral
+2024-06-17,152500,CH49 6PD,T,N,F,14,,Tunstall Close,,Wirral
+2024-06-14,143500,CH49 9AH,T,N,F,2,,Domville Drive,,Wirral
+2024-06-12,185000,CH49 4RB,S,N,F,11,,Coney Walk,,Wirral
+2024-06-10,125000,CH49 4GJ,T,N,F,73,,Norwich Drive,,Wirral
+2024-06-07,120000,CH49 8HU,T,N,F,75,,Greenwood Road,Upton,Wirral
+2024-06-07,380000,CH49 6LZ,S,N,F,81,,Saughall Massie Lane,,Wirral
+2024-06-07,85000,CH49 5NF,F,N,L,5,,Arrowe Court,,Wirral
+2024-06-05,175000,CH49 9AQ,S,N,F,22,,Big Meadow Road,,Wirral
+2024-06-05,310000,CH49 4LS,D,N,F,61,,Birch Avenue,,Wirral
+2024-06-04,190000,CH49 4RB,D,N,F,2,,Coney Walk,,Wirral
+2024-06-03,247500,CH49 4NJ,S,N,F,3,,Beech Avenue,Upton,Wirral
+2024-06-03,245000,CH49 3NW,S,N,F,3,,Mill Lane,Greasby,Wirral
+2024-06-03,291646,CH49 1AH,D,Y,F,19,,Long Meadow Drive,Upton,Wirral
+2024-06-03,443995,CH49 1AG,D,Y,F,12,,Brookbridge Close,Upton,Wirral
+2024-06-03,399995,CH49 0AD,S,Y,F,3,,Hannay Close,,Wirral
+2024-05-31,141000,CH49 9BQ,T,N,F,71,,Leeswood Road,,Wirral
+2024-05-31,240000,CH49 5LZ,S,N,F,38,,Fleetcroft Road,,Wirral
+2024-05-31,102500,CH49 4GD,T,N,L,201,,Norwich Drive,,Wirral
+2024-05-31,185500,CH49 1RA,S,N,F,48,,Arrowe Road,,Wirral
+2024-05-31,456995,CH49 1AG,D,Y,F,7,,Brookbridge Close,Upton,Wirral
+2024-05-31,349995,CH49 0AD,S,Y,F,1,,Hannay Close,,Wirral
+2024-05-29,265000,CH49 2PX,S,N,F,60,,Wood Lane,Greasby,Wirral
+2024-05-24,275000,CH49 6LN,S,N,F,14,,Upland Road,Upton,Wirral
+2024-05-24,357000,CH49 6LH,S,N,F,31,,Loretto Drive,,Wirral
+2024-05-24,170000,CH49 4GY,S,N,F,10,,Felthorpe Close,Upton,Wirral
+2024-05-24,220000,CH49 3AP,D,N,F,10,,Stanmore Park,Greasby,Wirral
+2024-05-24,324995,CH49 1AG,D,Y,F,10,,Brookbridge Close,Upton,Wirral
+2024-05-22,257750,CH49 4QL,D,N,F,6,,Sycamore Close,,Wirral
+2024-05-20,324995,CH49 1AG,D,Y,F,8,,Brookbridge Close,Upton,Wirral
+2024-05-17,215000,CH49 9EH,S,N,F,21,,Sunflower Close,,Wirral
+2024-05-17,182500,CH49 9AU,T,N,F,69,,Ford Way,,Wirral
+2024-05-17,170000,CH49 4LU,T,N,F,29,,Royden Road,,Wirral
+2024-05-17,355000,CH49 3QJ,D,N,F,14,,Whitebeam Walk,,Wirral
+2024-05-17,245000,CH49 0WJ,S,N,L,10,,Malley Close,,Wirral
+2024-05-15,217000,CH49 3NU,T,N,L,10,,Mill Lane,Greasby,Wirral
+2024-05-14,360995,CH49 1AG,D,Y,F,6,,Brookbridge Close,Upton,Wirral
+2024-05-13,309995,CH49 0AD,S,Y,F,2,,Hannay Close,,Wirral
+2024-05-10,292500,CH49 6LB,D,N,F,25,,Shrewsbury Drive,,Wirral
+2024-05-10,575000,CH49 6JX,D,N,F,6,,West Drive,Upton,Wirral
+2024-05-10,300000,CH49 2QY,D,N,F,7,,The Planters,,Wirral
+2024-05-10,240950,CH49 0WF,T,N,F,58,,Atholl Duncan Drive,,Wirral
+2024-05-09,62500,CH49 6PY,F,N,L,Fernwood,Apartment 32,Church Road,Upton,Wirral
+2024-05-09,190500,CH49 6PW,D,N,F,12,,Wallingford Road,,Wirral
+2024-05-07,277500,CH49 1RN,S,N,F,24,,Hall Drive,Greasby,Wirral
+2024-05-03,120000,CH49 0TN,T,N,F,71,,Salacre Lane,,Wirral
+2024-04-30,379995,CH49 1AJ,D,Y,F,1,,Foundry Close,Upton,Wirral
+2024-04-30,273595,CH49 1AH,S,Y,F,18,,Long Meadow Drive,Upton,Wirral
+2024-04-29,470000,CH49 3AS,D,N,F,190,,Greasby Road,Greasby,Wirral
+2024-04-29,272000,CH49 2PU,S,N,F,38,,Wood Lane,Greasby,Wirral
+2024-04-29,350000,CH49 2PE,S,N,F,193,,Greasby Road,Greasby,Wirral
+2024-04-29,335000,CH49 2NS,S,N,F,49,,Eastway,Greasby,Wirral
+2024-04-29,340000,CH49 1RS,S,N,F,17,,Leslie Avenue,,Wirral
+2024-04-26,150000,CH49 7LR,S,N,F,14,,Church Lane,Upton,Wirral
+2024-04-26,215000,CH49 6NB,S,N,F,4,,Larcombe Avenue,,Wirral
+2024-04-26,139500,CH49 4GE,T,N,F,21,,Thornham Close,,Wirral
+2024-04-26,284995,CH49 1AH,D,Y,F,30,,Long Meadow Drive,Upton,Wirral
+2024-04-25,178000,CH49 2QR,S,N,F,17,,Droitwich Avenue,Greasby,Wirral
+2024-04-24,275000,CH49 6LH,D,N,F,1,,Loretto Drive,,Wirral
+2024-04-24,208200,CH49 4PR,S,N,L,19,,Kingfisher Way,,Wirral
+2024-04-24,255000,CH49 3NB,S,N,F,54,,Circular Drive,Greasby,Wirral
+2024-04-24,275000,CH49 1RU,S,N,F,11,,Carmichael Avenue,,Wirral
+2024-04-23,385000,CH49 6LP,S,N,F,18,,Upland Road,Upton,Wirral
+2024-04-23,165000,CH49 4QR,S,N,F,51,,Norwich Drive,,Wirral
+2024-04-22,190000,CH49 6JW,S,N,F,71,,Upton Park Drive,,Wirral
+2024-04-19,155000,CH49 6QL,T,N,F,24,,Bleasdale Close,,Wirral
+2024-04-19,258000,CH49 6JL,S,N,F,30,,Oakland Drive,,Wirral
+2024-04-18,360000,CH49 3NE,S,N,F,7,,Greasby Road,Greasby,Wirral
+2024-04-16,235000,CH49 6LU,S,N,F,10,,Frankby Grove,,Wirral
+2024-04-16,460000,CH49 1SP,D,N,F,139,,Brookdale Avenue South,,Wirral
+2024-04-16,280000,CH49 1RR,S,N,F,25,,Dodd Avenue,Greasby,Wirral
+2024-04-16,182500,CH49 0XG,S,N,F,1,,Denny Close,,Wirral
+2024-04-15,295000,CH49 6NH,S,N,F,3,,Kirkway,Upton,Wirral
+2024-04-15,222500,CH49 0XF,S,N,F,11,,Sullivan Avenue,,Wirral
+2024-04-12,158000,CH49 0US,S,N,F,4,,Rake Lane,,Wirral
+2024-04-11,154000,CH49 7PF,T,N,F,42,,Hoole Road,,Wirral
+2024-04-05,259026,CH49 4PN,S,N,F,41,,Larkhill Avenue,,Wirral
+2024-04-05,262500,CH49 1SW,S,N,F,38,,Caulfield Drive,Greasby,Wirral
+2024-04-02,164000,CH49 8HG,T,N,F,46,,Glebe Hey Road,,Wirral
+2024-03-28,120000,CH49 6PA,F,N,L,31,,Whitelands Meadow,,Wirral
+2024-03-28,265000,CH49 6JT,S,N,F,3,,Hill View Drive,,Wirral
+2024-03-28,370000,CH49 6JG,S,N,F,17,,Meadway,Upton,Wirral
+2024-03-28,203000,CH49 4PF,S,N,F,65,,Whitewell Drive,,Wirral
+2024-03-28,180000,CH49 4GG,S,N,F,9,,Headington Road,,Wirral
+2024-03-28,232000,CH49 3NL,S,N,F,12,,Hillcrest Drive,Greasby,Wirral
+2024-03-27,192500,CH49 4PZ,S,N,F,5,,Merlin Close,,Wirral
+2024-03-27,335000,CH49 3NT,D,N,F,156,,Mill Lane,Greasby,Wirral
+2024-03-26,410995,CH49 1AJ,D,Y,F,4,,Foundry Close,Upton,Wirral
+2024-03-25,135000,CH49 9AJ,T,N,F,5,,Northbrook Way,,Wirral
+2024-03-25,185000,CH49 7NG,S,N,F,15,,Carr Bridge Road,,Wirral
+2024-03-25,155000,CH49 6JY,F,N,L,Aughton Court,Flat 21,Church Road,Upton,Wirral
+2024-03-22,80000,CH49 9AH,T,N,F,14,,Domville Drive,,Wirral
+2024-03-22,150000,CH49 8EE,S,N,F,37,,Ferny Brow Road,,Wirral
+2024-03-22,250000,CH49 4QA,S,N,F,12,,Curlew Avenue,Upton,Wirral
+2024-03-22,228000,CH49 3PB,D,N,F,15,,Danefield Road,,Wirral
+2024-03-19,220000,CH49 3GU,D,N,F,4,,Cedarwood Close,,Wirral
+2024-03-19,70000,CH49 3GS,F,N,L,1,,Redcroft,Greasby,Wirral
+2024-03-18,167000,CH49 7LU,S,N,F,25,,Schoolfield Road,,Wirral
+2024-03-18,160000,CH49 5LL,S,N,F,13,,Archers Way,Upton,Wirral
+2024-03-15,205000,CH49 6PX,D,N,F,5,,Ilsley Close,,Wirral
+2024-03-15,174000,CH49 6JS,S,N,F,18,,Arborn Drive,Upton,Wirral
+2024-03-15,300000,CH49 1RF,S,N,F,46,,Rigby Drive,,Wirral
+2024-03-14,236000,CH49 2RJ,S,N,F,4,,Whitelands Meadow,,Wirral
+2024-03-14,290000,CH49 2QY,D,N,F,14,,The Planters,,Wirral
+2024-03-13,127450,CH49 7NA,T,N,F,24,,Robin Way,,Wirral
+2024-03-12,183000,CH49 4GS,S,N,F,27,,Littlemore Close,,Wirral
+2024-03-08,139000,CH49 9AH,T,N,F,26,,Domville Drive,,Wirral
+2024-03-08,145000,CH49 7LR,T,N,F,26,,Church Lane,Upton,Wirral
+2024-03-08,385000,CH49 1SN,D,N,F,37,,Caulfield Drive,Greasby,Wirral
+2024-03-08,365000,CH49 1SG,S,N,F,6,,Dingwall Drive,,Wirral
+2024-03-06,62500,CH49 6PY,F,N,L,Fernwood,Apartment 27,Church Road,Upton,Wirral
+2024-03-05,232500,CH49 6JT,S,N,F,9,,Hill View Drive,,Wirral
+2024-03-05,282500,CH49 4PA,S,N,F,22,,Crosby Close,,Wirral
+2024-03-04,113000,CH49 4GD,F,N,L,178,,Norwich Drive,,Wirral
+2024-03-01,139000,CH49 7LJ,S,N,F,3,,Pemberton Road,,Wirral
+2024-03-01,117000,CH49 7LH,T,N,F,186,,Home Farm Road,,Wirral
+2024-03-01,122000,CH49 1SZ,F,N,L,12,,Windsor Close,Greasby,Wirral
+2024-03-01,180000,CH49 0WJ,T,N,L,23,,Malley Close,,Wirral
+2024-02-29,267500,CH49 3NB,S,N,F,16,,Circular Drive,Greasby,Wirral
+2024-02-27,68500,CH49 8EQ,F,N,L,93,,Hoole Road,,Wirral
+2024-02-22,230000,CH49 8HD,S,N,F,13A,,Atherton Drive,,Wirral
+2024-02-20,230000,CH49 6ND,S,N,F,82,,Saughall Massie Lane,,Wirral
+2024-02-20,286000,CH49 2ND,S,N,F,24,,Kirkway,Greasby,Wirral
+2024-02-16,230000,CH49 4PS,D,N,F,90A,,Kingfisher Way,,Wirral
+2024-02-16,390000,CH49 4NS,S,N,F,56,,Moreton Road,,Wirral
+2024-02-16,285000,CH49 0TX,S,N,F,32,,Grafton Drive,,Wirral
+2024-02-12,420000,CH49 6JF,D,N,F,38,,Manor Drive,,Wirral
+2024-02-09,370200,CH49 3AG,D,N,F,19,,Fuchsia Walk,Greasby,Wirral
+2024-02-09,345000,CH49 1SJ,S,N,F,12,,Appleton Drive,Greasby,Wirral
+2024-02-06,255000,CH49 2NN,T,N,F,35,,Greenway,Greasby,Wirral
+2024-02-02,615000,CH49 6QE,D,N,F,7,,Kirkmount,,Wirral
+2024-02-02,375000,CH49 6LH,S,N,F,30,,Loretto Drive,,Wirral
+2024-01-31,55000,CH49 4RP,F,N,L,Bower House,Apartment 54,Manorside Close,,Wirral
+2024-01-31,456995,CH49 1AJ,D,Y,F,2,,Foundry Close,Upton,Wirral
+2024-01-31,302995,CH49 1AH,D,Y,F,28,,Long Meadow Drive,Upton,Wirral
+2024-01-31,449995,CH49 1AH,D,Y,F,24,,Long Meadow Drive,Upton,Wirral
+2024-01-30,71717,CH49 4RP,F,N,L,Bower House,Apartment 36,Manorside Close,,Wirral
+2024-01-29,169244,CH49 3PP,S,N,F,27,,Cranwell Road,Greasby,Wirral
+2024-01-29,450497,CH49 1AH,D,Y,F,22,,Long Meadow Drive,Upton,Wirral
+2024-01-29,290995,CH49 1AH,D,Y,F,20,,Long Meadow Drive,Upton,Wirral
+2024-01-26,140000,CH49 7NZ,S,N,F,114,,Grasswood Road,,Wirral
+2024-01-26,165000,CH49 7LL,T,N,F,50,,Commonfield Road,,Wirral
+2024-01-26,217000,CH49 6PG,S,N,F,3,,Stonham Close,,Wirral
+2024-01-26,363090,CH49 1AH,D,Y,F,29,,Long Meadow Drive,Upton,Wirral
+2024-01-26,460995,CH49 1AH,D,Y,F,23,,Long Meadow Drive,Upton,Wirral
+2024-01-26,383995,CH49 1AH,D,Y,F,21,,Long Meadow Drive,Upton,Wirral
+2024-01-26,247995,CH49 1AH,S,Y,F,15,,Long Meadow Drive,Upton,Wirral
+2024-01-25,70000,CH49 7LL,T,N,F,68,,Commonfield Road,,Wirral
+2024-01-23,300000,CH49 3GT,D,N,F,11,,Ashdale Park,Greasby,Wirral
+2024-01-19,355000,CH49 1RN,S,N,F,9,,Hall Drive,Greasby,Wirral
+2024-01-19,396995,CH49 1AH,D,Y,F,26,,Long Meadow Drive,Upton,Wirral
+2024-01-18,442995,CH49 1AH,D,Y,F,25,,Long Meadow Drive,Upton,Wirral
+2024-01-17,115000,CH49 5NX,S,N,F,3,,Nantwich Close,,Wirral
+2024-01-16,80000,CH49 7LG,T,N,F,77,,Home Farm Road,,Wirral
+2024-01-15,207500,CH49 2NS,S,N,F,19,,Eastway,Greasby,Wirral
+2024-01-11,100000,CH49 9BD,T,N,F,153,,Hoole Road,,Wirral
+2024-01-10,214820,CH49 6JT,S,N,F,6,,Hill View Drive,,Wirral
+2024-01-05,125000,CH49 4GJ,S,N,F,139,,Norwich Drive,,Wirral
+2024-01-05,189950,CH49 4GA,S,N,F,7,,Pennystone Close,,Wirral
+2024-01-05,400000,CH49 2NU,S,N,F,42,,Brookdale Avenue North,,Wirral
+2024-01-04,75000,CH49 3GS,F,N,L,41,,Redcroft,Greasby,Wirral
+2024-01-03,260000,CH49 1SE,T,N,F,5,,Escolme Drive,,Wirral
+2023-12-21,267895,CH49 1AD,S,Y,F,42,,Smithy Brook Drive,Upton,Wirral
+2023-12-20,125000,CH49 7NG,S,N,F,27,,Carr Bridge Road,,Wirral
+2023-12-20,171750,CH49 4QE,S,N,F,21,,Jasmine Close,,Wirral
+2023-12-20,124000,CH49 4NP,T,N,F,39,,Elm Avenue,,Wirral
+2023-12-19,215000,CH49 6PW,S,N,F,24,,Wallingford Road,,Wirral
+2023-12-19,190000,CH49 6PE,S,N,F,3,,Rendelsham Close,,Wirral
+2023-12-18,130000,CH49 9BJ,S,N,F,67,,Orrets Meadow Road,,Wirral
+2023-12-18,135000,CH49 8EE,S,N,F,30,,Ferny Brow Road,,Wirral
+2023-12-18,170000,CH49 4NQ,T,N,F,4,,Inman Road,,Wirral
+2023-12-18,310000,CH49 3AF,D,N,F,73,,Thorns Drive,Greasby,Wirral
+2023-12-18,310000,CH49 1RX,T,N,F,10,,Howell Drive,,Wirral
+2023-12-15,128500,CH49 9AL,T,N,F,11,,Kiln Road,,Wirral
+2023-12-15,205000,CH49 6PX,S,N,F,1,,Ilsley Close,,Wirral
+2023-12-15,600000,CH49 6LA,D,N,F,"Willow Corner, 1",,South Drive,Upton,Wirral
+2023-12-15,540000,CH49 4NZ,S,N,F,160,,Moreton Road,Upton,Wirral
+2023-12-15,399495,CH49 1AH,D,Y,F,27,,Long Meadow Drive,Upton,Wirral
+2023-12-15,80000,CH49 0UX,F,N,L,7,,Wroxham Court,,Wirral
+2023-12-14,215000,CH49 6PA,S,N,F,50,,Whitelands Meadow,,Wirral
+2023-12-14,275000,CH49 3AD,D,N,F,4,,Miles Close,,Wirral
+2023-12-14,335000,CH49 2RB,D,N,F,1,,Shepherd Close,,Wirral
+2023-12-13,165000,CH49 7LP,T,N,F,90,,Commonfield Road,,Wirral
+2023-12-11,385000,CH49 6JG,S,N,F,14,,Meadway,Upton,Wirral
+2023-12-08,252000,CH49 5LT,S,N,F,62,,Sherry Lane,,Wirral
+2023-12-08,227000,CH49 0UN,S,N,F,5,,Mavis Drive,,Wirral
+2023-12-06,240000,CH49 2NE,S,N,F,7,,Cortsway West,,Wirral
+2023-12-04,448995,CH49 1AE,D,Y,F,4,,Gorse Road,Upton,Wirral
+2023-12-01,170000,CH49 0WD,F,N,L,107,,Atholl Duncan Drive,,Wirral
+2023-11-30,167000,CH49 9AZ,S,N,F,203,,Ford Way,,Wirral
+2023-11-30,160000,CH49 7LF,T,N,F,76,,Ackers Road,Woodchurch,Wirral
+2023-11-30,330000,CH49 6LX,S,N,F,10,,Welton Avenue,,Wirral
+2023-11-30,362500,CH49 4NW,D,N,F,45,,Overchurch Road,,Wirral
+2023-11-29,200000,CH49 3QS,S,N,F,5,,Swindon Close,,Wirral
+2023-11-28,95000,CH49 4GD,F,N,L,196,,Norwich Drive,,Wirral
+2023-11-28,210000,CH49 3QP,S,N,F,7,,Stroud Close,Greasby,Wirral
+2023-11-27,133000,CH49 6JL,S,N,F,7,,Oakland Drive,,Wirral
+2023-11-24,680000,CH49 6LL,D,N,F,12,,Moreton Road,Upton,Wirral
+2023-11-24,365000,CH49 6JZ,D,N,F,28,,Church Road,Upton,Wirral
+2023-11-24,225000,CH49 2QD,S,N,F,5,,Summertrees Avenue,,Wirral
+2023-11-24,292500,CH49 1SD,S,N,F,12,,Robert Drive,Greasby,Wirral
+2023-11-23,145000,CH49 6JY,F,N,L,Aughton Court,Flat 25,Church Road,Upton,Wirral
+2023-11-23,172432,CH49 0UL,T,N,F,3,,Molyneux Close,,Wirral
+2023-11-22,242000,CH49 4QJ,S,N,F,60,,Sycamore Avenue,,Wirral
+2023-11-22,312500,CH49 2RN,D,N,F,8,,Flail Close,Greasby,Wirral
+2023-11-20,172000,CH49 8EH,T,N,F,128,,Ferny Brow Road,,Wirral
+2023-11-20,124000,CH49 7PE,T,N,F,18,,Hoole Road,,Wirral
+2023-11-17,185000,CH49 9BA,T,N,F,4,,Salacre Close,,Wirral
+2023-11-17,545000,CH49 6LY,D,N,F,41,,Saughall Massie Lane,,Wirral
+2023-11-17,70000,CH49 4RP,F,N,L,Bower House,Apartment 1,Manorside Close,,Wirral
+2023-11-14,245000,CH49 4PF,S,N,F,41,,Whitewell Drive,,Wirral
+2023-11-10,162000,CH49 8HD,S,N,F,9,,Atherton Drive,,Wirral
+2023-11-10,160000,CH49 4QX,S,N,F,10,,Aylsham Drive,,Wirral
+2023-11-10,224000,CH49 4PN,D,N,F,32,,Larkhill Avenue,,Wirral
+2023-11-07,230000,CH49 3QW,T,N,F,26,,Chippenham Avenue,Greasby,Wirral
+2023-11-03,150000,CH49 9AU,T,N,F,77,,Ford Way,,Wirral
+2023-11-03,190000,CH49 4PF,S,N,F,87,,Whitewell Drive,,Wirral
+2023-11-03,273795,CH49 1AH,S,Y,F,17,,Long Meadow Drive,Upton,Wirral
+2023-11-01,210000,CH49 6PW,D,N,F,17,,Wallingford Road,,Wirral
+2023-11-01,300000,CH49 4SB,D,N,F,19,,Harefields Way,,Wirral
+2023-10-31,195000,CH49 4LT,D,N,F,52,,Birch Avenue,,Wirral
+2023-10-30,330000,CH49 2NS,S,N,F,9,,Eastway,Greasby,Wirral
+2023-10-30,250000,CH49 1SP,D,N,F,78,,Brookdale Avenue South,,Wirral
+2023-10-27,220000,CH49 4RB,S,N,F,12,,Coney Walk,,Wirral
+2023-10-27,373000,CH49 2PH,D,N,F,15,,Norwood Road,,Wirral
+2023-10-27,235000,CH49 2NS,T,N,F,11,,Eastway,Greasby,Wirral
+2023-10-27,329000,CH49 1SJ,S,N,F,6,,Appleton Drive,Greasby,Wirral
+2023-10-27,172500,CH49 0XT,S,N,F,21,,Whiteside Close,,Wirral
+2023-10-25,130000,CH49 8EX,T,N,F,21,,Orrets Meadow Road,,Wirral
+2023-10-24,140000,CH49 9BD,S,N,F,167,,Hoole Road,,Wirral
+2023-10-24,243000,CH49 4QJ,D,N,F,23,,Sycamore Avenue,,Wirral
+2023-10-23,165000,CH49 3NG,T,N,F,108,,Greasby Road,Greasby,Wirral
+2023-10-23,95000,CH49 3GS,F,N,L,37,,Redcroft,Greasby,Wirral
+2023-10-20,205000,CH49 4PU,S,N,F,42,,Merlin Avenue,,Wirral
+2023-10-20,110000,CH49 3AP,S,N,L,35,,Stanmore Park,Greasby,Wirral
+2023-10-19,225000,CH49 0TZ,S,N,F,70,,Slingsby Drive,,Wirral
+2023-10-17,135000,CH49 0UY,T,N,F,11,,Wroxham Close,,Wirral
+2023-10-13,302000,CH49 4SE,D,N,F,6,,Little Meadow Close,Moreton,Wirral
+2023-10-13,285000,CH49 3QT,S,N,F,84,,Thorns Drive,Greasby,Wirral
+2023-10-13,295000,CH49 3QN,S,N,F,19,,Allangate Close,Greasby,Wirral
+2023-10-13,650000,CH49 2PU,D,N,F,51,,Wood Lane,Greasby,Wirral
+2023-10-13,285000,CH49 1SW,T,N,F,50,,Caulfield Drive,Greasby,Wirral
+2023-10-13,404995,CH49 1AH,D,Y,F,32,,Long Meadow Drive,Upton,Wirral
+2023-10-13,249995,CH49 1AH,S,Y,F,16,,Long Meadow Drive,Upton,Wirral
+2023-10-12,255000,CH49 3AW,S,N,F,5,,Rowan Tree Close,Greasby,Wirral
+2023-10-12,288000,CH49 1RD,S,N,F,63,,Rigby Drive,,Wirral
+2023-10-12,172000,CH49 0UF,S,N,F,53,,Arrowe Park Road,,Wirral
+2023-10-10,240000,CH49 0WJ,S,N,L,6,,Malley Close,,Wirral
+2023-10-06,185000,CH49 5LY,S,N,F,2,,Fleetcroft Road,,Wirral
+2023-10-06,225000,CH49 2PZ,S,N,F,34,,Leaway,,Wirral
+2023-10-03,465000,CH49 4LS,D,N,F,57,,Birch Avenue,,Wirral
+2023-10-02,165000,CH49 5LZ,S,N,F,21,,Fleetcroft Road,,Wirral
+2023-10-02,260000,CH49 2NW,T,N,F,36,,Greenway,Greasby,Wirral
+2023-10-02,185000,CH49 0TZ,S,N,F,72,,Slingsby Drive,,Wirral
+2023-09-29,194000,CH49 9AD,S,N,F,7,,Leeswood Road,,Wirral
+2023-09-29,310000,CH49 6JJ,D,N,F,52,,South Drive,Upton,Wirral
+2023-09-29,420000,CH49 6JF,S,N,F,12,,Manor Drive,,Wirral
+2023-09-29,365000,CH49 4RX,D,N,F,8,,Ravenstone Close,,Wirral
+2023-09-28,333250,CH49 6LH,S,N,F,32,,Loretto Drive,,Wirral
+2023-09-27,128000,CH49 4NG,T,N,F,25,,Inman Road,,Wirral
+2023-09-25,150000,CH49 5NU,T,N,F,7,,Crewe Green,,Wirral
+2023-09-22,147000,CH49 9DH,S,N,L,4,,Myrtle Way,,Wirral
+2023-09-22,352000,CH49 3PJ,D,N,F,441,,Frankby Road,Greasby,Wirral
+2023-09-22,193000,CH49 3PB,S,N,F,24,,Danefield Road,,Wirral
+2023-09-22,280000,CH49 3NX,D,N,F,12,,Barker Lane,,Wirral
+2023-09-21,177500,CH49 5LF,S,N,F,73,,New Hey Road,,Wirral
+2023-09-21,212000,CH49 2ND,S,N,F,34,,Kirkway,Greasby,Wirral
+2023-09-15,72500,CH49 4RP,F,N,L,Bower House,Apartment 28,Manorside Close,,Wirral
+2023-09-15,250000,CH49 2SE,S,N,F,10,,Birchdale Close,Greasby,Wirral
+2023-09-14,235000,CH49 3QW,D,N,F,14,,Chippenham Avenue,Greasby,Wirral
+2023-09-13,159950,CH49 8EX,S,N,F,26,,Orrets Meadow Road,,Wirral
+2023-09-11,210000,CH49 5NP,S,N,F,4,,Childwall Green,,Wirral
+2023-09-08,265000,CH49 5PA,S,N,F,13,,Yew Tree Close,,Wirral
+2023-09-08,225000,CH49 4PD,S,N,F,10,,Ronaldsway,Upton,Wirral
+2023-09-08,260000,CH49 3NR,S,N,F,61,,Mill Lane,Greasby,Wirral
+2023-09-08,225000,CH49 2PR,S,N,F,7,,Duncan Drive,Greasby,Wirral
+2023-09-08,145000,CH49 1SZ,F,N,L,11,,Windsor Close,Greasby,Wirral
+2023-09-08,294496,CH49 1AH,D,Y,F,34,,Long Meadow Drive,Upton,Wirral
+2023-09-05,160000,CH49 4GE,S,N,F,8,,Thornham Close,,Wirral
+2023-09-01,160000,CH49 9EE,T,N,F,28,,Bridge Meadow Road,,Wirral
+2023-09-01,173000,CH49 4GQ,S,N,F,8,,Headington Road,,Wirral
+2023-09-01,210000,CH49 2QN,S,N,F,24,,Bromsgrove Road,Greasby,Wirral
+2023-09-01,267000,CH49 2NE,S,N,F,25,,Cortsway West,,Wirral
+2023-09-01,280000,CH49 1SG,S,N,F,7,,Dingwall Drive,,Wirral
+2023-09-01,391145,CH49 1AH,D,Y,F,5,,Long Meadow Drive,Upton,Wirral
+2023-08-31,510000,CH49 6LA,S,N,F,38,,South Drive,Upton,Wirral
+2023-08-31,200000,CH49 6JN,S,N,F,21,,Upton Park Drive,,Wirral
+2023-08-31,420000,CH49 2QT,D,N,F,33,,Stapleton Avenue,Greasby,Wirral
+2023-08-29,408000,CH49 1SQ,D,N,F,41,,Dingwall Drive,,Wirral
+2023-08-29,290000,CH49 1SL,S,N,F,3,,Neale Drive,Greasby,Wirral
+2023-08-29,229995,CH49 0UW,S,N,F,22,,Mavis Drive,,Wirral
+2023-08-25,140000,CH49 6PA,F,N,L,37,,Whitelands Meadow,,Wirral
+2023-08-25,147500,CH49 4NA,T,N,F,62,,Royden Road,,Wirral
+2023-08-25,249999,CH49 2NW,S,N,F,20,,Greenway,Greasby,Wirral
+2023-08-24,180000,CH49 0WL,F,N,L,5,,Arkill Gardens,,Wirral
+2023-08-21,152500,CH49 3PE,F,N,L,"Millcroft Park, 322",Flat 2,Frankby Road,Greasby,Wirral
+2023-08-18,200000,CH49 4LG,S,N,L,25,,Girtrell Road,,Wirral
+2023-08-18,255000,CH49 2NR,S,N,F,15,,Westway,Greasby,Wirral
+2023-08-15,245000,CH49 3PU,D,N,F,40,,Thorns Drive,Greasby,Wirral
+2023-08-14,210000,CH49 4PD,S,N,F,22,,Ronaldsway,Upton,Wirral
+2023-08-11,215000,CH49 4PY,S,N,F,4,,Kestrel Close,,Wirral
+2023-08-11,225000,CH49 4LQ,S,N,F,68,,Girtrell Road,,Wirral
+2023-08-11,297000,CH49 4LE,S,N,F,45,,Brookside Crescent,,Wirral
+2023-08-11,263000,CH49 1SJ,S,N,F,16,,Appleton Drive,Greasby,Wirral
+2023-08-10,220000,CH49 4QH,D,N,F,1,,Henderson Close,,Wirral
+2023-08-07,129000,CH49 7LU,T,N,F,36,,Schoolfield Road,,Wirral
+2023-08-07,145000,CH49 7LF,T,N,F,101,,Ackers Road,Woodchurch,Wirral
+2023-08-07,260000,CH49 6NW,S,N,F,14,,Devonshire Road,Upton,Wirral
+2023-08-07,260000,CH49 4NJ,D,N,F,19,,Beech Avenue,Upton,Wirral
+2023-08-07,325000,CH49 2PH,D,N,F,18,,Norwood Road,,Wirral
+2023-08-04,237500,CH49 2NW,S,N,F,50,,Greenway,Greasby,Wirral
+2023-08-04,389995,CH49 1AH,D,Y,F,1,,Long Meadow Drive,Upton,Wirral
+2023-08-03,140000,CH49 9DB,T,N,F,490,,New Hey Road,,Wirral
+2023-08-01,305000,CH49 1SA,S,N,F,3,,The Croft,Greasby,Wirral
+2023-07-31,60000,CH49 4RP,F,N,L,Bower House,Apartment 10,Manorside Close,,Wirral
+2023-07-31,52500,CH49 4PP,F,N,L,Liege House,Flat 19,Manorside Close,,Wirral
+2023-07-31,315000,CH49 3PF,D,N,F,338,,Frankby Road,Greasby,Wirral
+2023-07-31,297995,CH49 1AH,D,Y,F,33,,Long Meadow Drive,Upton,Wirral
+2023-07-31,379045,CH49 1AF,D,Y,F,1,,Hay Meadow Avenue,Upton,Wirral
+2023-07-28,247500,CH49 6QW,D,N,F,10,,Bowscale Close,,Wirral
+2023-07-28,145000,CH49 4QJ,D,N,F,38,,Sycamore Avenue,,Wirral
+2023-07-28,389995,CH49 1AH,D,Y,F,35,,Long Meadow Drive,Upton,Wirral
+2023-07-28,287995,CH49 1AH,S,Y,F,14,,Long Meadow Drive,Upton,Wirral
+2023-07-28,291995,CH49 1AE,D,Y,F,1,,Gorse Road,Upton,Wirral
+2023-07-26,125000,CH49 7LR,T,N,F,20,,Church Lane,Upton,Wirral
+2023-07-25,225000,CH49 6JQ,S,N,F,60,,Meadway,Upton,Wirral
+2023-07-25,165000,CH49 4GA,S,N,F,8,,Pennystone Close,,Wirral
+2023-07-25,83000,CH49 3GS,F,N,L,21,,Redcroft,Greasby,Wirral
+2023-07-24,218000,CH49 2QD,S,N,F,28,,Summertrees Avenue,,Wirral
+2023-07-21,57500,CH49 6PY,F,N,L,Fernwood,Apartment 20,Church Road,Upton,Wirral
+2023-07-21,220000,CH49 3QZ,D,N,F,5,,Finchdean Close,Greasby,Wirral
+2023-07-21,390995,CH49 1AH,D,Y,F,36,,Long Meadow Drive,Upton,Wirral
+2023-07-21,404995,CH49 1AH,D,Y,F,3,,Long Meadow Drive,Upton,Wirral
+2023-07-20,272995,CH49 1AH,S,Y,F,12,,Long Meadow Drive,Upton,Wirral
+2023-07-19,384000,CH49 2QT,D,N,F,19,,Stapleton Avenue,Greasby,Wirral
+2023-07-19,287995,CH49 1AE,D,Y,F,2,,Gorse Road,Upton,Wirral
+2023-07-17,351000,CH49 3AF,D,N,F,97,,Thorns Drive,Greasby,Wirral
+2023-07-17,370000,CH49 2RQ,D,N,F,22,,Hazelwood,,Wirral
+2023-07-17,158000,CH49 0TR,T,N,F,2,,Garfield Terrace,,Wirral
+2023-07-15,300000,CH49 0WD,S,N,L,15,,Atholl Duncan Drive,,Wirral
+2023-07-14,175000,CH49 4QX,S,N,F,26,,Aylsham Drive,,Wirral
+2023-07-14,200000,CH49 4QX,T,N,F,18,,Aylsham Drive,,Wirral
+2023-07-14,205000,CH49 4PT,S,N,F,29,,Merlin Avenue,,Wirral
+2023-07-14,55000,CH49 4PP,F,N,L,Liege House,Flat 5,Manorside Close,,Wirral
+2023-07-14,123000,CH49 0US,T,N,F,2,,Rake Lane,,Wirral
+2023-07-12,216000,CH49 6NT,S,N,F,81,,Manor Drive,,Wirral
+2023-07-07,141000,CH49 3NG,F,N,L,"Manor Court, 114",Flat 5,Greasby Road,Greasby,Wirral
+2023-07-05,353995,CH49 1AH,D,Y,F,2,,Long Meadow Drive,Upton,Wirral
+2023-06-30,110000,CH49 9AH,T,N,F,6,,Domville Drive,,Wirral
+2023-06-30,210000,CH49 5LZ,S,N,F,32,,Fleetcroft Road,,Wirral
+2023-06-30,142500,CH49 5LB,T,N,F,10,,New Hey Road,,Wirral
+2023-06-30,276500,CH49 4QR,D,N,F,3,,Norwich Drive,,Wirral
+2023-06-30,148000,CH49 3PE,F,N,L,"Millcroft Park, 322",Flat 11,Frankby Road,Greasby,Wirral
+2023-06-30,390000,CH49 1SP,S,N,F,96,,Brookdale Avenue South,,Wirral
+2023-06-30,255000,CH49 1SP,D,N,F,127,,Brookdale Avenue South,,Wirral
+2023-06-30,445995,CH49 1AH,D,Y,F,6,,Long Meadow Drive,Upton,Wirral
+2023-06-30,227500,CH49 0WJ,T,N,F,33,,Malley Close,,Wirral
+2023-06-30,230000,CH49 0WF,S,N,F,46,,Atholl Duncan Drive,,Wirral
+2023-06-30,180000,CH49 0US,T,N,F,28,,Rake Lane,,Wirral
+2023-06-29,220000,CH49 4PY,S,N,F,5,,Kestrel Close,,Wirral
+2023-06-29,235000,CH49 2NF,S,N,F,2,,Cortsway West,,Wirral
+2023-06-29,280000,CH49 1SH,S,N,F,16,,Gordon Avenue,Greasby,Wirral
+2023-06-29,206000,CH49 0WJ,T,N,F,15,,Malley Close,,Wirral
+2023-06-28,190000,CH49 6PA,S,N,F,28,,Whitelands Meadow,,Wirral
+2023-06-27,90000,CH49 3GS,F,N,L,53,,Redcroft,Greasby,Wirral
+2023-06-23,255000,CH49 4SA,T,N,F,15,,Webster Drive,,Wirral
+2023-06-23,410000,CH49 1SN,S,N,F,25,,Caulfield Drive,Greasby,Wirral
+2023-06-22,178000,CH49 0UG,S,N,F,111,,Arrowe Park Road,,Wirral
+2023-06-21,410000,CH49 6QE,D,N,F,3,,Kirkmount,,Wirral
+2023-06-20,272995,CH49 1AH,S,Y,F,9,,Long Meadow Drive,Upton,Wirral
+2023-06-19,134000,CH49 9DL,S,N,F,181,,Carr Bridge Road,,Wirral
+2023-06-19,155000,CH49 0WD,F,N,L,87,,Atholl Duncan Drive,,Wirral
+2023-06-15,302995,CH49 1AE,D,Y,F,17,,Gorse Road,Upton,Wirral
+2023-06-13,240000,CH49 3QL,D,N,F,5,,Magnolia Walk,,Wirral
+2023-06-12,290000,CH49 3AE,D,N,F,15,,Lombardy Avenue,Greasby,Wirral
+2023-06-12,277000,CH49 1RA,S,N,F,52,,Arrowe Road,,Wirral
+2023-06-12,402995,CH49 1AH,D,Y,F,4,,Long Meadow Drive,Upton,Wirral
+2023-06-09,192000,CH49 0WJ,T,N,L,22,,Malley Close,,Wirral
+2023-06-08,290995,CH49 1AE,D,Y,F,16,,Gorse Road,Upton,Wirral
+2023-06-05,397995,CH49 1AF,D,Y,F,4,,Hay Meadow Avenue,Upton,Wirral
+2023-05-31,292995,CH49 1AH,D,Y,F,7,,Long Meadow Drive,Upton,Wirral
+2023-05-30,130000,CH49 9DD,T,N,F,18,,Bridge Farm Close,,Wirral
+2023-05-30,272995,CH49 1AH,S,Y,F,8,,Long Meadow Drive,Upton,Wirral
+2023-05-26,204000,CH49 4LS,D,N,F,25A,,Birch Avenue,,Wirral
+2023-05-25,355000,CH49 6JB,S,N,F,"Penhaven, 4",,Mount Road,Upton,Wirral
+2023-05-24,272995,CH49 1AH,S,Y,F,10,,Long Meadow Drive,Upton,Wirral
+2023-05-23,435000,CH49 6LA,S,N,F,29,,South Drive,Upton,Wirral
+2023-05-19,140000,CH49 7LQ,T,N,F,141,,Home Farm Road,,Wirral
+2023-05-19,367000,CH49 3PD,D,N,F,25,,Shaw Lane,Greasby,Wirral
+2023-05-19,250000,CH49 3PB,S,N,F,28,,Danefield Road,,Wirral
+2023-05-19,399995,CH49 1AE,D,Y,F,9,,Gorse Road,Upton,Wirral
+2023-05-15,285000,CH49 2RD,D,N,F,4,,Thresher Avenue,Greasby,Wirral
+2023-05-15,312000,CH49 2PB,S,N,F,3,,Arrowe Side,Greasby,Wirral
+2023-05-15,417000,CH49 1SA,S,N,F,8,,The Croft,Greasby,Wirral
+2023-04-28,298000,CH49 6PN,D,N,F,5,,The Limes,,Wirral
+2023-04-28,236000,CH49 4LG,S,N,L,45,,Girtrell Road,,Wirral
+2023-04-28,230000,CH49 0TY,S,N,F,43,,Slingsby Drive,,Wirral
+2023-04-27,320000,CH49 4SB,D,N,F,22,,Harefields Way,,Wirral
+2023-04-24,170000,CH49 4GG,S,N,F,27,,Headington Road,,Wirral
+2023-04-21,141500,CH49 8EX,T,N,F,7,,Orrets Meadow Road,,Wirral
+2023-04-21,320000,CH49 2RN,D,N,F,18,,Flail Close,Greasby,Wirral
+2023-04-21,225000,CH49 2NA,S,N,F,63,,Cortsway,,Wirral
+2023-04-19,180000,CH49 9BB,S,N,F,1,,Shortfield Way,,Wirral
+2023-04-18,250000,CH49 2QE,S,N,F,4,,Dryfield Close,Greasby,Wirral
+2023-04-18,378000,CH49 1RS,S,N,F,11,,Leslie Avenue,,Wirral
+2023-04-18,284995,CH49 1AH,S,Y,F,11,,Long Meadow Drive,Upton,Wirral
+2023-04-12,243000,CH49 3QW,S,N,F,21,,Chippenham Avenue,Greasby,Wirral
+2023-04-06,165000,CH49 7LH,S,N,F,206,,Home Farm Road,,Wirral
+2023-04-05,438000,CH49 6NR,D,N,F,12,,Green Mount,,Wirral
+2023-04-03,270000,CH49 4SD,D,N,F,12,,Far Hey Drive,,Wirral
+2023-04-03,335000,CH49 4NX,S,N,F,14,,Doncaster Drive,,Wirral
+2023-03-31,237500,CH49 1RT,S,N,F,13,,Harvey Avenue,,Wirral
+2023-03-30,140000,CH49 7PD,T,N,F,39,,Pemberton Road,,Wirral
+2023-03-30,330000,CH49 3QU,D,N,F,7,,Ashdown Drive,,Wirral
+2023-03-29,363995,CH49 1AE,D,Y,F,15,,Gorse Road,Upton,Wirral
+2023-03-28,135000,CH49 9BQ,T,N,F,59,,Leeswood Road,,Wirral
+2023-03-28,297500,CH49 3NB,S,N,F,38,,Circular Drive,Greasby,Wirral
+2023-03-28,202500,CH49 2NQ,S,N,F,47,,Broadway,Greasby,Wirral
+2023-03-23,107500,CH49 4GN,T,N,F,8,,Litcham Close,,Wirral
+2023-03-17,155000,CH49 2NB,S,N,F,86,,Cortsway,,Wirral
+2023-03-16,152000,CH49 9AG,T,N,F,35,,Big Meadow Road,,Wirral
+2023-03-15,200000,CH49 4PQ,D,N,F,181,,Manor Drive,,Wirral
+2023-03-15,220000,CH49 2QD,D,N,F,49,,Summertrees Avenue,,Wirral
+2023-03-13,65000,CH49 3GS,F,N,L,29,,Redcroft,Greasby,Wirral
+2023-03-08,90000,CH49 7NA,T,N,F,5,,Robin Way,,Wirral
+2023-03-06,262000,CH49 1SL,S,N,F,5,,Neale Drive,Greasby,Wirral
+2023-03-03,180000,CH49 6QL,T,N,F,26,,Bleasdale Close,,Wirral
+2023-03-03,399995,CH49 1AE,D,Y,F,11,,Gorse Road,Upton,Wirral
+2023-03-01,355000,CH49 4PG,S,N,F,107,,Manor Drive,,Wirral
+2023-02-24,147000,CH49 9BE,T,N,F,39,,Shortfield Road,,Wirral
+2023-02-24,260000,CH49 6JJ,D,N,F,53A,,South Drive,Upton,Wirral
+2023-02-24,265000,CH49 4PF,T,N,F,81,,Whitewell Drive,,Wirral
+2023-02-24,134000,CH49 4GD,S,N,F,166,,Norwich Drive,,Wirral
+2023-02-24,223000,CH49 3NA,S,N,F,51,,Circular Drive,Greasby,Wirral
+2023-02-24,340000,CH49 2RX,S,N,F,10,,Parr Grove,Greasby,Wirral
+2023-02-23,205000,CH49 4PU,S,N,F,49,,Merlin Avenue,,Wirral
+2023-02-22,310000,CH49 6JL,S,N,F,25,,Oakland Drive,,Wirral
+2023-02-17,150000,CH49 7ND,T,N,F,10,,Walby Close,,Wirral
+2023-02-17,299950,CH49 5PH,D,N,F,24,,Fletcher Close,,Wirral
+2023-02-17,75000,CH49 3GS,F,N,L,36,,Redcroft,Greasby,Wirral
+2023-02-10,87500,CH49 5NT,F,N,L,173,,Berkeley Court,,Wirral
+2023-02-10,310000,CH49 3NB,D,N,F,6,,Circular Drive,Greasby,Wirral
+2023-02-10,300000,CH49 3AG,D,N,F,1,,Fuchsia Walk,Greasby,Wirral
+2023-02-10,256000,CH49 2QE,S,N,F,15,,Dryfield Close,Greasby,Wirral
+2023-02-09,272500,CH49 3QY,D,N,F,16,,Beauworth Avenue,Greasby,Wirral
+2023-02-08,290000,CH49 3PD,S,N,F,21,,Shaw Lane,Greasby,Wirral
+2023-02-08,425000,CH49 2SP,D,N,F,26,,Long Acres,,Wirral
+2023-02-07,355000,CH49 2PT,T,N,F,25,,Wood Lane,Greasby,Wirral
+2023-02-03,170000,CH49 7LJ,T,N,F,1,,Pemberton Road,,Wirral
+2023-02-03,270000,CH49 6PU,D,N,F,2,,Benson Close,,Wirral
+2023-02-01,220000,CH49 4SA,T,N,F,19,,Webster Drive,,Wirral
+2023-02-01,402000,CH49 1RN,D,N,F,28,,Hall Drive,Greasby,Wirral
+2023-01-31,235000,CH49 4PS,S,N,F,71,,Kingfisher Way,,Wirral
+2023-01-31,321995,CH49 1AE,D,Y,F,14,,Gorse Road,Upton,Wirral
+2023-01-31,321995,CH49 1AE,D,Y,F,12,,Gorse Road,Upton,Wirral
+2023-01-31,210000,CH49 0UN,S,N,F,11,,Mavis Drive,,Wirral
+2023-01-30,360995,CH49 1AE,D,Y,F,10,,Gorse Road,Upton,Wirral
+2023-01-30,230000,CH49 0WF,T,N,F,52,,Atholl Duncan Drive,,Wirral
+2023-01-27,190000,CH49 4GS,S,N,F,5,,Littlemore Close,,Wirral
+2023-01-27,358995,CH49 1AE,D,Y,F,7,,Gorse Road,Upton,Wirral
+2023-01-26,260000,CH49 1RR,T,N,F,8,,Dodd Avenue,Greasby,Wirral
+2023-01-25,248000,CH49 3AW,S,N,F,7,,Rowan Tree Close,Greasby,Wirral
+2023-01-25,175000,CH49 3AW,S,N,F,5,,Rowan Tree Close,Greasby,Wirral
+2023-01-23,125000,CH49 7PB,T,N,F,25,,Caldwell Drive,,Wirral
+2023-01-23,227660,CH49 4PQ,T,N,F,157,,Manor Drive,,Wirral
+2023-01-23,383000,CH49 3QA,D,N,F,7,,Chestnut Close,,Wirral
+2023-01-20,255000,CH49 3QH,D,N,F,21,,Rowan Court,Greasby,Wirral
+2023-01-20,230000,CH49 3NW,S,N,F,35,,Mill Lane,Greasby,Wirral
+2023-01-20,220000,CH49 2NT,S,N,F,36,,Eastway,Greasby,Wirral
+2023-01-19,450000,CH49 6LW,D,N,F,47,,Upland Road,Upton,Wirral
+2023-01-18,224000,CH49 4QJ,S,N,F,47,,Sycamore Avenue,,Wirral
+2023-01-18,205000,CH49 4PU,S,N,F,55,,Merlin Avenue,,Wirral
+2023-01-18,157500,CH49 3PE,F,N,L,"Millcroft Park, 322",Flat 24,Frankby Road,Greasby,Wirral
+2023-01-17,360995,CH49 1AE,D,Y,F,8,,Gorse Road,Upton,Wirral
+2023-01-16,238000,CH49 5LU,S,N,F,8,,Cheshire Acre,,Wirral
+2023-01-16,320000,CH49 3QH,D,N,F,18,,Rowan Court,Greasby,Wirral
+2023-01-16,397995,CH49 1AF,D,Y,F,6,,Hay Meadow Avenue,Upton,Wirral
+2023-01-13,160000,CH49 7LZ,T,N,F,38,,Sandfield Road,Upton,Wirral
+2023-01-12,125000,CH49 5LQ,S,N,F,12,,Home Farm Road,,Wirral
+2023-01-10,205000,CH49 5LS,S,N,F,10,,Sherry Lane,,Wirral
+2023-01-09,230000,CH49 2QN,S,N,F,22,,Bromsgrove Road,Greasby,Wirral
+2023-01-06,185000,CH49 7PD,T,N,F,43,,Pemberton Road,,Wirral
+2023-01-06,72500,CH49 5NT,F,N,L,163,,Berkeley Court,,Wirral
+2023-01-06,207000,CH49 4PX,S,N,F,11,,Kestrel Avenue,,Wirral
+2023-01-06,262500,CH49 4NP,D,N,F,48,,Elm Avenue,,Wirral
+2023-01-06,205000,CH49 0TZ,S,N,F,54,,Slingsby Drive,,Wirral
+2023-01-04,136000,CH49 9AU,T,N,F,75,,Ford Way,,Wirral
+2023-01-04,128000,CH49 9AP,T,N,F,161,,Houghton Road,,Wirral
+2022-12-21,135000,CH49 8JW,T,N,F,26,,Selbourne Close,,Wirral
+2022-12-21,63000,CH49 4RP,F,N,L,Bower House,Apartment 52,Manorside Close,,Wirral
+2022-12-21,210000,CH49 3NE,S,N,F,28,,Greasby Road,Greasby,Wirral
+2022-12-20,360000,CH49 6JS,S,N,F,9,,Arborn Drive,Upton,Wirral
+2022-12-20,132500,CH49 4RY,F,N,L,11,,Ladybower Close,,Wirral
+2022-12-20,205000,CH49 4NX,S,N,F,5,,Doncaster Drive,,Wirral
+2022-12-16,80000,CH49 8HE,F,N,L,39,,Glebe Hey Road,,Wirral
+2022-12-16,145000,CH49 7LY,T,N,F,21,,Sandfield Road,Upton,Wirral
+2022-12-16,263500,CH49 4PT,D,N,F,17,,Merlin Avenue,,Wirral
+2022-12-16,210000,CH49 3GP,S,N,F,12,,Days Meadow,,Wirral
+2022-12-16,202000,CH49 2SD,S,N,F,25,,Summertrees Close,,Wirral
+2022-12-16,275000,CH49 0TX,S,N,F,8,,Grafton Drive,,Wirral
+2022-12-15,285000,CH49 6JL,S,N,F,38,,Oakland Drive,,Wirral
+2022-12-15,185000,CH49 4LT,S,N,F,14,,Birch Avenue,,Wirral
+2022-12-14,170000,CH49 1SZ,F,N,L,10,,Windsor Close,Greasby,Wirral
+2022-12-12,359995,CH49 1AF,D,Y,F,7,,Hay Meadow Avenue,Upton,Wirral
+2022-12-09,208100,CH49 3PR,S,N,F,13,,Martlesham Crescent,,Wirral
+2022-12-09,195000,CH49 2RS,S,N,F,6,,Churn Way,Greasby,Wirral
+2022-12-09,246995,CH49 1AF,S,Y,F,8,,Hay Meadow Avenue,Upton,Wirral
+2022-12-09,312101,CH49 1AF,D,Y,F,3,,Hay Meadow Avenue,Upton,Wirral
+2022-12-08,105000,CH49 7LH,T,N,F,182,,Home Farm Road,,Wirral
+2022-12-07,230000,CH49 3PB,S,N,F,23,,Danefield Road,,Wirral
+2022-12-06,130000,CH49 9AG,T,N,F,29,,Big Meadow Road,,Wirral
+2022-12-05,133000,CH49 5PB,T,N,F,143,,Arrowe Park Road,,Wirral
+2022-12-05,345000,CH49 4NJ,D,N,F,15,,Beech Avenue,Upton,Wirral
+2022-12-05,300000,CH49 3NA,D,N,F,9,,Circular Drive,Greasby,Wirral
+2022-12-05,70500,CH49 3GS,F,N,L,43,,Redcroft,Greasby,Wirral
+2022-12-02,150000,CH49 9AH,T,N,F,29,,Domville Drive,,Wirral
+2022-12-02,240000,CH49 2NB,S,N,F,117,,Cortsway,,Wirral
+2022-12-02,175000,CH49 0TN,T,N,F,67,,Salacre Lane,,Wirral
+2022-12-02,170000,CH49 0TE,S,N,F,115,,Ford Road,,Wirral
+2022-11-30,128000,CH49 8JP,T,N,F,34,,Huddleston Close,,Wirral
+2022-11-30,337535,CH49 3GT,D,N,F,35,,Ashdale Park,Greasby,Wirral
+2022-11-30,244995,CH49 1AF,S,Y,F,10,,Hay Meadow Avenue,Upton,Wirral
+2022-11-29,432500,CH49 2SP,D,N,F,32,,Long Acres,,Wirral
+2022-11-28,514000,CH49 1SR,D,N,F,169,,Brookdale Avenue South,,Wirral
+2022-11-28,187500,CH49 0TZ,S,N,F,16,,Slingsby Drive,,Wirral
+2022-11-25,350000,CH49 6LE,D,N,F,49,,Heath Drive,Upton,Wirral
+2022-11-25,326000,CH49 4LF,S,N,F,14,,Brookside Crescent,,Wirral
+2022-11-25,267000,CH49 1RQ,T,N,F,56,,Lloyd Drive,,Wirral
+2022-11-23,205000,CH49 5NJ,S,N,F,8,,Troutbeck Close,,Wirral
+2022-11-21,365000,CH49 2RA,D,N,F,5,,Harvester Way,Greasby,Wirral
+2022-11-18,202000,CH49 5LT,T,N,F,34,,Sherry Lane,,Wirral
+2022-11-18,149000,CH49 4QX,S,N,F,9,,Aylsham Drive,,Wirral
+2022-11-18,250000,CH49 4PR,S,N,F,8,,Kingfisher Way,,Wirral
+2022-11-18,90000,CH49 4NG,T,N,F,19,,Inman Road,,Wirral
+2022-11-17,200000,CH49 4QR,D,N,F,12,,Norwich Drive,,Wirral
+2022-11-17,235000,CH49 4PS,D,N,F,60,,Kingfisher Way,,Wirral
+2022-11-17,196500,CH49 0UP,S,N,F,4,,Newton Way,,Wirral
+2022-11-16,322500,CH49 4PU,D,N,F,69,,Merlin Avenue,,Wirral
+2022-11-16,230000,CH49 2NQ,S,N,F,49,,Broadway,Greasby,Wirral
+2022-11-15,142000,CH49 7PF,T,N,F,63,,Hoole Road,,Wirral
+2022-11-15,213000,CH49 4QB,S,N,F,2,,Curlew Close,Upton,Wirral
+2022-11-15,345000,CH49 3PX,D,N,F,15,,Sycamore Rise,,Wirral
+2022-11-14,220000,CH49 2QD,S,N,F,41,,Summertrees Avenue,,Wirral
+2022-11-11,560000,CH49 6LA,D,N,F,43,,South Drive,Upton,Wirral
+2022-11-11,253000,CH49 4NN,S,N,F,56,,Overchurch Road,,Wirral
+2022-11-10,480000,CH49 6NP,S,N,F,9,,The Paddock,Upton,Wirral
+2022-11-10,225000,CH49 6LY,D,N,F,49,,Saughall Massie Lane,,Wirral
+2022-11-10,380000,CH49 4NS,S,N,F,40,,Moreton Road,Upton,Wirral
+2022-11-08,200000,CH49 0UF,S,N,F,55,,Arrowe Park Road,,Wirral
+2022-11-04,242500,CH49 4SA,S,N,F,14,,Webster Drive,,Wirral
+2022-11-04,160000,CH49 4GN,S,N,F,22,,Litcham Close,,Wirral
+2022-11-03,145000,CH49 9BG,T,N,F,36,,Leeswood Road,,Wirral
+2022-11-01,133000,CH49 9BQ,T,N,F,61,,Leeswood Road,,Wirral
+2022-11-01,148000,CH49 8ED,S,N,F,92,,Pemberton Road,,Wirral
+2022-10-31,148000,CH49 5LF,T,N,F,55,,New Hey Road,,Wirral
+2022-10-31,140000,CH49 5LE,T,N,F,33,,New Hey Road,,Wirral
+2022-10-31,233500,CH49 2QD,S,N,F,34,,Summertrees Avenue,,Wirral
+2022-10-31,305000,CH49 1RH,S,N,L,97,,Lloyd Drive,,Wirral
+2022-10-28,180000,CH49 4NA,T,N,F,12,,Royden Road,,Wirral
+2022-10-28,205000,CH49 3PP,S,N,F,20,,Cranwell Road,Greasby,Wirral
+2022-10-28,232000,CH49 3GT,S,N,F,5,,Ashdale Park,Greasby,Wirral
+2022-10-28,265000,CH49 3AE,S,N,F,17,,Lombardy Avenue,Greasby,Wirral
+2022-10-28,225000,CH49 0TZ,S,N,F,48,,Slingsby Drive,,Wirral
+2022-10-27,202000,CH49 6PB,S,N,F,3,,Mesham Close,,Wirral
+2022-10-27,375000,CH49 4PG,S,N,F,101,,Manor Drive,,Wirral
+2022-10-27,170000,CH49 4GP,S,N,F,7,,Iffley Close,,Wirral
+2022-10-26,460000,CH49 6LA,S,N,F,15,,South Drive,Upton,Wirral
+2022-10-26,325000,CH49 2PP,S,N,L,296,,Greasby Road,Greasby,Wirral
+2022-10-26,220000,CH49 0XD,S,N,F,22,,Rake Close,,Wirral
+2022-10-24,163000,CH49 7LP,S,N,F,154,,Commonfield Road,,Wirral
+2022-10-24,350000,CH49 4RX,D,N,F,2,,Ravenstone Close,,Wirral
+2022-10-21,240000,CH49 4NJ,D,N,F,19,,Beech Avenue,Upton,Wirral
+2022-10-21,272500,CH49 1SD,S,N,F,6,,Robert Drive,Greasby,Wirral
+2022-10-20,220000,CH49 4LB,S,N,F,209,,Saughall Massie Road,Upton,Wirral
+2022-10-20,252000,CH49 3NB,D,N,F,8,,Circular Drive,Greasby,Wirral
+2022-10-20,225000,CH49 2RX,S,N,F,1,,Parr Grove,Greasby,Wirral
+2022-10-20,255000,CH49 2NB,S,N,F,101,,Cortsway,,Wirral
+2022-10-19,89750,CH49 5NB,F,N,L,4,,Goodakers Court,,Wirral
+2022-10-17,162000,CH49 4SA,T,N,F,41,,Webster Drive,,Wirral
+2022-10-14,74950,CH49 5NR,F,N,L,139,,Belvidere Court,,Wirral
+2022-10-14,247000,CH49 5LT,S,N,F,62,,Sherry Lane,,Wirral
+2022-10-14,199000,CH49 4PS,S,N,F,39,,Kingfisher Way,,Wirral
+2022-10-14,325000,CH49 4NJ,D,N,F,29,,Beech Avenue,Upton,Wirral
+2022-10-14,390000,CH49 3GT,D,N,F,28,,Ashdale Park,Greasby,Wirral
+2022-10-14,205000,CH49 2NQ,T,N,F,65,,Broadway,Greasby,Wirral
+2022-10-14,285000,CH49 1SA,S,N,F,2,,The Croft,Greasby,Wirral
+2022-10-14,345000,CH49 1RP,S,N,F,52,,Ferguson Avenue,Greasby,Wirral
+2022-10-12,85000,CH49 4PP,F,N,L,Liege House,Flat 2,Manorside Close,,Wirral
+2022-10-12,263000,CH49 3NH,S,N,F,164,,Greasby Road,Greasby,Wirral
+2022-10-12,249999,CH49 2PH,S,N,F,5,,Norwood Road,Greasby,Wirral
+2022-10-10,289995,CH49 1AF,D,Y,F,9,,Hay Meadow Avenue,Upton,Wirral
+2022-10-07,280000,CH49 4QX,D,N,F,30,,Aylsham Drive,,Wirral
+2022-10-07,200000,CH49 4LB,S,N,F,294,,Saughall Massie Road,Upton,Wirral
+2022-10-07,262000,CH49 2PX,D,N,F,79,,Wood Lane,Greasby,Wirral
+2022-10-06,255000,CH49 2NT,S,N,F,16,,Eastway,Greasby,Wirral
+2022-10-04,365000,CH49 1RB,D,N,F,17,,Arrowe Road,,Wirral
+2022-09-29,172500,CH49 5NP,S,N,F,38,,Childwall Green,,Wirral
+2022-09-28,134000,CH49 9DP,S,N,L,4,,Camden Mews,,Wirral
+2022-09-23,150000,CH49 4GD,S,N,F,190,,Norwich Drive,,Wirral
+2022-09-23,290000,CH49 1SF,S,N,F,37,,Escolme Drive,,Wirral
+2022-09-20,159500,CH49 4NT,T,N,F,121,,Moreton Road,Upton,Wirral
+2022-09-16,140000,CH49 9DL,T,N,F,191,,Carr Bridge Road,,Wirral
+2022-09-16,120000,CH49 6JY,F,N,L,Aughton Court,Flat 17,Church Road,Upton,Wirral
+2022-09-16,357000,CH49 3PX,D,N,F,2,,Sycamore Rise,,Wirral
+2022-09-15,130000,CH49 4RY,F,N,L,29,,Ladybower Close,,Wirral
+2022-09-12,165000,CH49 7NE,T,N,F,123,,New Hey Road,,Wirral
+2022-09-12,171500,CH49 3PN,S,N,F,3,,Abingdon Road,Greasby,Wirral
+2022-09-09,65000,CH49 8JP,T,N,F,34,,Huddleston Close,,Wirral
+2022-09-09,230000,CH49 5LT,S,N,F,56,,Sherry Lane,,Wirral
+2022-09-09,325000,CH49 2RG,D,N,F,9,,Glen Ronald Drive,,Wirral
+2022-09-09,315000,CH49 1RQ,S,N,F,44,,Lloyd Drive,,Wirral
+2022-09-09,167000,CH49 0WD,F,N,L,93,,Atholl Duncan Drive,,Wirral
+2022-09-08,385000,CH49 1RY,S,N,F,81,,Arrowe Road,,Wirral
+2022-09-06,400000,CH49 3QB,D,N,F,1,,Well Lane,Greasby,Wirral
+2022-09-05,132000,CH49 9BW,T,N,F,96,,Orrets Meadow Road,,Wirral
+2022-09-05,205000,CH49 6PS,S,N,F,20,,Crowmarsh Close,,Wirral
+2022-09-05,375000,CH49 3GT,D,N,F,17,,Ashdale Park,Greasby,Wirral
+2022-09-01,218000,CH49 4QL,S,N,F,24,,Sycamore Close,,Wirral
+2022-08-31,330000,CH49 3PB,S,N,F,6,,Danefield Road,,Wirral
+2022-08-31,250500,CH49 3NL,S,N,L,21,,Hillcrest Drive,Greasby,Wirral
+2022-08-26,147000,CH49 8ED,T,N,F,82,,Pemberton Road,,Wirral
+2022-08-26,145500,CH49 7LG,T,N,F,111,,Home Farm Road,,Wirral
+2022-08-26,243000,CH49 5NA,T,N,F,2,,Goodakers Meadow,,Wirral
+2022-08-26,390000,CH49 3QJ,D,N,F,9,,Whitebeam Walk,,Wirral
+2022-08-26,245000,CH49 3PU,D,N,F,31,,Thorns Drive,Greasby,Wirral
+2022-08-26,260000,CH49 3NW,S,N,F,29,,Mill Lane,Greasby,Wirral
+2022-08-25,136000,CH49 7LL,T,N,F,62,,Commonfield Road,,Wirral
+2022-08-25,395000,CH49 6LE,S,N,F,37,,Heath Drive,Upton,Wirral
+2022-08-25,235000,CH49 2QN,S,N,F,18A,,Bromsgrove Road,Greasby,Wirral
+2022-08-23,377500,CH49 3PL,S,N,F,3,,Upavon Avenue,,Wirral
+2022-08-23,245000,CH49 2RU,S,N,F,12,,Oakmere Drive,Greasby,Wirral
+2022-08-19,130000,CH49 7LD,S,N,F,71,,Ackers Road,Woodchurch,Wirral
+2022-08-19,205000,CH49 6PG,S,N,F,3,,Stonham Close,,Wirral
+2022-08-19,233500,CH49 4GS,D,N,F,9,,Littlemore Close,,Wirral
+2022-08-19,260000,CH49 3AL,D,N,F,4,,Thorness Close,Greasby,Wirral
+2022-08-18,230000,CH49 6JP,S,N,F,38,,Upton Park Drive,,Wirral
+2022-08-18,250000,CH49 3AF,D,N,F,51,,Thorns Drive,Greasby,Wirral
+2022-08-18,311000,CH49 3AB,D,N,F,11,,Hambledon Drive,,Wirral
+2022-08-17,250000,CH49 6NQ,S,N,F,21,,The Woodlands,,Wirral
+2022-08-17,247000,CH49 6NL,S,N,F,7,,Surrey Avenue,,Wirral
+2022-08-17,143000,CH49 4QR,S,N,F,47,,Norwich Drive,,Wirral
+2022-08-17,220000,CH49 4PN,S,N,F,31,,Larkhill Avenue,,Wirral
+2022-08-17,285000,CH49 2QB,S,N,F,12,,Raines Close,,Wirral
+2022-08-15,350000,CH49 2PN,S,N,F,222,,Greasby Road,Greasby,Wirral
+2022-08-15,290000,CH49 2NX,D,N,F,37,,Hambledon Drive,,Wirral
+2022-08-12,152000,CH49 9DD,T,N,F,25,,Bridge Farm Close,,Wirral
+2022-08-12,260000,CH49 3NW,S,N,F,19,,Mill Lane,Greasby,Wirral
+2022-08-12,222500,CH49 2QW,S,N,F,11,,Cirencester Avenue,,Wirral
+2022-08-10,380000,CH49 6LY,D,N,F,31,,Saughall Massie Lane,,Wirral
+2022-08-10,280000,CH49 4RD,D,N,F,16,,Blakenhall Way,,Wirral
+2022-08-10,190000,CH49 4PR,T,N,F,58,,Kingfisher Way,,Wirral
+2022-08-10,80000,CH49 3GS,F,N,L,24,,Redcroft,Greasby,Wirral
+2022-08-08,168000,CH49 4QX,S,N,F,5,,Aylsham Drive,,Wirral
+2022-08-05,200000,CH49 8HD,S,N,F,2,,Atherton Drive,,Wirral
+2022-08-05,280000,CH49 8HD,D,N,F,10,,Atherton Drive,,Wirral
+2022-08-05,440000,CH49 3NX,D,N,F,10,,Barker Lane,,Wirral
+2022-08-05,275000,CH49 2QY,D,N,F,17,,The Planters,,Wirral
+2022-08-05,255000,CH49 2PN,S,N,F,218,,Greasby Road,Greasby,Wirral
+2022-08-05,273995,CH49 1AD,S,Y,F,50,,Smithy Brook Drive,Upton,Wirral
+2022-08-05,159000,CH49 0WD,F,N,L,101,,Atholl Duncan Drive,,Wirral
+2022-08-04,172000,CH49 5LY,S,N,F,6,,Fleetcroft Road,,Wirral
+2022-08-04,260000,CH49 2NT,S,N,F,28,,Eastway,Greasby,Wirral
+2022-08-02,400000,CH49 3PJ,D,N,F,433,,Frankby Road,Greasby,Wirral
+2022-07-29,150000,CH49 6LS,F,N,L,Upton Court,Flat 27,Braeside Gardens,,Wirral
+2022-07-29,185000,CH49 4GJ,S,N,F,107,,Norwich Drive,,Wirral
+2022-07-29,307995,CH49 1AD,D,Y,F,27,,Smithy Brook Drive,Upton,Wirral
+2022-07-29,319995,CH49 1AD,D,Y,F,25,,Smithy Brook Drive,Upton,Wirral
+2022-07-29,245000,CH49 0WG,T,N,L,2,,Hosking Close,,Wirral
+2022-07-29,320000,CH49 0TD,S,N,F,75,,Ford Road,,Wirral
+2022-07-28,236000,CH49 5NX,S,N,F,19,,Nantwich Close,,Wirral
+2022-07-28,128000,CH49 2PT,F,N,L,2,Flat 4,Wood Lane,Greasby,Wirral
+2022-07-28,368500,CH49 1RN,D,N,F,36,,Hall Drive,Greasby,Wirral
+2022-07-27,355000,CH49 4NW,D,N,F,27,,Overchurch Road,,Wirral
+2022-07-26,130000,CH49 9AJ,T,N,F,22,,Northbrook Way,,Wirral
+2022-07-26,355000,CH49 0WL,D,N,F,10,,Arkill Gardens,,Wirral
+2022-07-25,200000,CH49 6PB,S,N,F,1,,Mesham Close,,Wirral
+2022-07-22,210000,CH49 3ND,T,N,F,39,,Pickerill Road,,Wirral
+2022-07-22,282750,CH49 2PH,S,N,F,2,,Norwood Road,Greasby,Wirral
+2022-07-22,306995,CH49 1AD,D,Y,F,44,,Smithy Brook Drive,Upton,Wirral
+2022-07-21,133500,CH49 7NT,S,N,F,33,,Grasswood Road,,Wirral
+2022-07-21,317500,CH49 2PJ,S,N,F,22,,Highfield Drive,Greasby,Wirral
+2022-07-20,215000,CH49 6LU,S,N,F,11,,Frankby Grove,,Wirral
+2022-07-20,550000,CH49 6JE,D,N,F,49,,Manor Drive,,Wirral
+2022-07-18,600000,CH49 6LF,D,N,F,2,,Heath Drive,Upton,Wirral
+2022-07-18,210000,CH49 2SE,S,N,F,16,,Birchdale Close,Greasby,Wirral
+2022-07-18,253000,CH49 2RP,S,N,F,5,,The Crofters,Greasby,Wirral
+2022-07-18,220000,CH49 2NR,S,N,F,1,,Westway,Greasby,Wirral
+2022-07-18,276995,CH49 1AD,S,Y,F,48,,Smithy Brook Drive,Upton,Wirral
+2022-07-18,306995,CH49 1AD,D,Y,F,46,,Smithy Brook Drive,Upton,Wirral
+2022-07-15,282000,CH49 4NP,D,N,F,63,,Elm Avenue,,Wirral
+2022-07-15,270000,CH49 3NL,S,N,L,19,,Hillcrest Drive,Greasby,Wirral
+2022-07-14,239000,CH49 0WD,T,N,F,53,,Atholl Duncan Drive,,Wirral
+2022-07-13,190000,CH49 3AP,S,N,F,37,,Stanmore Park,Greasby,Wirral
+2022-07-13,280000,CH49 1RD,S,N,F,31,,Rigby Drive,,Wirral
+2022-07-12,110000,CH49 4GE,S,N,F,39,,Thornham Close,,Wirral
+2022-07-11,152000,CH49 8EE,T,N,F,46,,Ferny Brow Road,,Wirral
+2022-07-08,215000,CH49 9EH,S,N,F,15,,Sunflower Close,,Wirral
+2022-07-08,130000,CH49 7PB,T,N,F,33,,Caldwell Drive,,Wirral
+2022-07-08,340000,CH49 6NQ,S,N,F,4,,The Woodlands,,Wirral
+2022-07-08,269000,CH49 6NE,S,N,F,5,,Warwick Road,,Wirral
+2022-07-08,450000,CH49 4NS,S,N,F,46,,Moreton Road,Upton,Wirral
+2022-07-08,200000,CH49 4GJ,S,N,F,91,,Norwich Drive,,Wirral
+2022-07-08,290000,CH49 2RB,D,N,F,10,,Shepherd Close,,Wirral
+2022-07-08,159000,CH49 0XT,T,N,F,29,,Whiteside Close,,Wirral
+2022-07-08,235000,CH49 0WG,S,N,L,3,,Hosking Close,,Wirral
+2022-07-08,180000,CH49 0TY,S,N,F,55,,Slingsby Drive,,Wirral
+2022-07-06,192000,CH49 6PW,S,N,F,30,,Wallingford Road,,Wirral
+2022-07-05,100000,CH49 8JN,S,N,F,33,,Cheverton Close,,Wirral
+2022-07-04,393995,CH49 1AD,D,Y,F,11,,Smithy Brook Drive,Upton,Wirral
+2022-07-01,305000,CH49 6QJ,D,N,F,1,,Furness Close,,Wirral
+2022-07-01,473000,CH49 0WF,D,N,F,42,,Atholl Duncan Drive,,Wirral
+2022-06-30,129000,CH49 9DH,S,N,L,7,,Myrtle Way,,Wirral
+2022-06-27,525000,CH49 3GZ,S,N,F,350 - 352,7 Old Hall Cottages,Frankby Road,Greasby,Wirral
+2022-06-24,315000,CH49 3AJ,D,N,F,14,,Coleman Drive,Greasby,Wirral
+2022-06-24,317995,CH49 1AD,D,Y,F,10,,Smithy Brook Drive,Upton,Wirral
+2022-06-23,278995,CH49 1AD,S,Y,F,6,,Smithy Brook Drive,Upton,Wirral
+2022-06-20,44500,CH49 4PP,F,N,L,Liege House,Flat 49,Manorside Close,,Wirral
+2022-06-20,308500,CH49 3AF,D,N,F,69,,Thorns Drive,Greasby,Wirral
+2022-06-17,105500,CH49 9BW,T,N,F,120,,Orrets Meadow Road,,Wirral
+2022-06-17,119000,CH49 8EN,T,N,L,101,,The Meadow,,Wirral
+2022-06-17,110000,CH49 4GN,S,N,F,10,,Litcham Close,,Wirral
+2022-06-17,255000,CH49 2NT,T,N,F,2,,Eastway,Greasby,Wirral
+2022-06-17,435000,CH49 1SQ,D,N,F,35,,Dingwall Drive,,Wirral
+2022-06-17,310000,CH49 1SL,S,N,F,30,,Neale Drive,Greasby,Wirral
+2022-06-17,210000,CH49 0UG,S,N,F,107,,Arrowe Park Road,,Wirral
+2022-06-15,130000,CH49 4RY,F,N,L,7,,Ladybower Close,,Wirral
+2022-06-14,210000,CH49 6PD,S,N,F,4,,Tunstall Close,,Wirral
+2022-06-10,65000,CH49 9AN,T,N,F,160,,Big Meadow Road,,Wirral
+2022-06-10,195000,CH49 3PG,S,N,F,7,,Halton Crescent,Greasby,Wirral
+2022-06-10,220000,CH49 2SW,S,N,F,3,,The Barncroft,Greasby,Wirral
+2022-06-09,220000,CH49 4SD,T,N,F,7,,Far Hey Drive,,Wirral
+2022-06-06,240000,CH49 6NS,S,N,F,17,,Old Greasby Road,,Wirral
+2022-06-06,330000,CH49 6ND,D,N,F,106,,Saughall Massie Lane,,Wirral
+2022-06-06,488000,CH49 2SN,D,N,F,3,,St James Close,Greasby,Wirral
+2022-06-06,288000,CH49 1SH,S,N,F,4,,Gordon Avenue,Greasby,Wirral
+2022-06-06,380000,CH49 1SG,S,N,F,16,,Dingwall Drive,,Wirral
+2022-06-01,200000,CH49 4PS,S,N,F,53,,Kingfisher Way,,Wirral
+2022-06-01,350050,CH49 3QX,D,N,F,1,,Juniper Close,Greasby,Wirral
+2022-06-01,370000,CH49 3QA,D,N,F,2,,Chestnut Close,,Wirral
+2022-05-31,260000,CH49 2PY,D,N,F,15,,Leaway,,Wirral
+2022-05-27,145000,CH49 9BN,T,N,F,54,,Orrets Meadow Road,,Wirral
+2022-05-27,170000,CH49 7LR,S,N,F,40,,Church Lane,Upton,Wirral
+2022-05-27,220000,CH49 5LS,S,N,F,12,,Sherry Lane,,Wirral
+2022-05-27,340000,CH49 4SE,D,N,F,2,,Little Meadow Close,Moreton,Wirral
+2022-05-27,282000,CH49 3GR,D,N,F,23,,Griffiths Close,Greasby,Wirral
+2022-05-27,165000,CH49 0UW,S,N,F,22,,Mavis Drive,,Wirral
+2022-05-26,170000,CH49 9AY,T,N,F,159,,Ford Way,,Wirral
+2022-05-25,95000,CH49 4QR,F,N,L,21,,Norwich Drive,,Wirral
+2022-05-23,150000,CH49 6PH,S,N,F,5,,Bramford Close,,Wirral
+2022-05-20,230000,CH49 4LS,D,N,F,37,,Birch Avenue,,Wirral
+2022-05-19,265700,CH49 4QB,S,N,F,9,,Curlew Close,Upton,Wirral
+2022-05-18,220000,CH49 0TB,S,N,F,49,,Ford Road,,Wirral
+2022-05-17,203000,CH49 9BE,S,N,F,17,,Shortfield Road,,Wirral
+2022-05-17,70000,CH49 5ND,F,N,L,5,,Archer Court,,Wirral
+2022-05-17,97500,CH49 4RP,F,N,L,Bower House,Apartment 37,Manorside Close,,Wirral
+2022-05-17,170000,CH49 0TJ,T,N,F,3,,Rock Bank,,Wirral
+2022-05-13,130000,CH49 7NF,S,N,F,160,,New Hey Road,,Wirral
+2022-05-13,144325,CH49 3PQ,S,N,F,2,,Hendon Walk,Greasby,Wirral
+2022-05-12,416000,CH49 3QS,D,N,F,9,,Swindon Close,Greasby,Wirral
+2022-05-11,165500,CH49 9BA,S,N,F,3,,Salacre Close,,Wirral
+2022-05-10,65000,CH49 4RP,F,N,L,Bower House,Apartment 28,Manorside Close,,Wirral
+2022-05-10,270000,CH49 2RF,D,N,F,8,,Glentree Close,,Wirral
+2022-05-09,378000,CH49 3AE,D,N,F,4,,Lombardy Avenue,Greasby,Wirral
+2022-05-06,69000,CH49 8JP,F,N,L,6,,Huddleston Close,,Wirral
+2022-05-06,165000,CH49 7NG,T,N,F,55,,Carr Bridge Road,,Wirral
+2022-05-06,610000,CH49 6LA,D,N,F,26,,South Drive,Upton,Wirral
+2022-05-06,184000,CH49 4QE,S,N,F,12,,Jasmine Close,,Wirral
+2022-05-05,200000,CH49 9AD,S,N,F,12,,Leeswood Road,,Wirral
+2022-05-05,190000,CH49 5LL,S,N,F,6,,Archers Way,Upton,Wirral
+2022-05-05,281000,CH49 1SE,S,N,F,7,,Escolme Drive,,Wirral
+2022-05-04,206000,CH49 4PY,S,N,F,19,,Kestrel Close,,Wirral
+2022-05-04,312500,CH49 3PD,S,N,F,5,,Shaw Lane,Greasby,Wirral
+2022-04-29,137000,CH49 7LN,S,N,F,76,,Home Farm Road,,Wirral
+2022-04-29,385000,CH49 6QH,D,N,F,5,,Withburn Close,,Wirral
+2022-04-29,198000,CH49 4PT,S,N,F,12,,Merlin Avenue,,Wirral
+2022-04-29,285000,CH49 4LG,S,N,F,49,,Girtrell Road,,Wirral
+2022-04-29,320000,CH49 3NP,S,N,L,3,,Elm Drive,Greasby,Wirral
+2022-04-29,243000,CH49 2QY,D,N,F,9,,The Planters,,Wirral
+2022-04-29,240000,CH49 2NQ,T,N,F,61,,Broadway,Greasby,Wirral
+2022-04-29,237000,CH49 1RG,S,N,F,31,,Lloyd Drive,,Wirral
+2022-04-29,236995,CH49 1AD,S,Y,F,19,,Smithy Brook Drive,Upton,Wirral
+2022-04-29,234995,CH49 1AD,S,Y,F,17,,Smithy Brook Drive,Upton,Wirral
+2022-04-28,145000,CH49 6LS,F,N,L,Upton Court,Flat 15,Braeside Gardens,,Wirral
+2022-04-28,145000,CH49 6LS,F,N,L,Upton Court,Flat 19,Braeside Gardens,,Wirral
+2022-04-25,215500,CH49 5NX,S,N,F,4,,Nantwich Close,,Wirral
+2022-04-25,381995,CH49 1AD,D,Y,F,15,,Smithy Brook Drive,Upton,Wirral
+2022-04-22,332000,CH49 6LB,S,N,F,32,,Shrewsbury Drive,,Wirral
+2022-04-21,77500,CH49 5NE,F,N,L,5,,Brentwood Court,,Wirral
+2022-04-21,134500,CH49 4RY,F,N,L,23,,Ladybower Close,,Wirral
+2022-04-21,166000,CH49 4NF,S,N,F,24,,Gainsborough Road,,Wirral
+2022-04-20,205500,CH49 2QB,S,N,F,4,,Raines Close,,Wirral
+2022-04-19,92000,CH49 7LD,S,N,F,61,,Ackers Road,Woodchurch,Wirral
+2022-04-14,420000,CH49 4LR,D,N,F,15,,Overchurch Road,,Wirral
+2022-04-14,419995,CH49 1AD,D,Y,F,9,,Smithy Brook Drive,Upton,Wirral
+2022-04-13,170000,CH49 4PP,T,N,F,3,,Manorside Close,,Wirral
+2022-04-12,209772,CH49 4RD,S,N,F,2,,Blakenhall Way,,Wirral
+2022-04-12,210000,CH49 4GT,D,N,F,22,,Binsey Close,,Wirral
+2022-04-12,252000,CH49 2NA,S,N,F,38,,Cortsway,,Wirral
+2022-04-07,146000,CH49 7ND,T,N,F,35,,Walby Close,,Wirral
+2022-04-05,155000,CH49 4NW,S,N,F,35,,Overchurch Road,,Wirral
+2022-04-04,355000,CH49 2PT,D,N,F,10A,,Wood Lane,Greasby,Wirral
+2022-04-04,200000,CH49 2ND,S,N,F,8,,Kirkway,Greasby,Wirral
+2022-04-01,131000,CH49 6LS,F,N,L,Upton Court,Flat 31,Braeside Gardens,,Wirral
+2022-04-01,290000,CH49 6LE,S,N,F,19,,Heath Drive,Upton,Wirral
+2022-04-01,165000,CH49 4GT,S,N,F,8,,Binsey Close,,Wirral
+2022-03-31,105000,CH49 7PB,F,N,L,10,,Caldwell Drive,,Wirral
+2022-03-29,126000,CH49 8HE,S,N,F,21,,Glebe Hey Road,,Wirral
+2022-03-29,242000,CH49 4GB,S,N,F,8,,Evergreen Close,,Wirral
+2022-03-29,235000,CH49 2RL,D,N,F,11,,The Scythes,Greasby,Wirral
+2022-03-29,145000,CH49 2RJ,F,N,L,1,,Whitelands Meadow,,Wirral
+2022-03-29,159000,CH49 0WD,F,N,L,95,,Atholl Duncan Drive,,Wirral
+2022-03-28,250000,CH49 6LW,S,N,F,69,,Upland Road,Upton,Wirral
+2022-03-28,320000,CH49 6LW,D,N,F,49,,Upland Road,Upton,Wirral
+2022-03-28,155750,CH49 4LU,T,N,F,3,,Royden Road,,Wirral
+2022-03-25,155000,CH49 9AD,S,N,F,14,,Leeswood Road,,Wirral
+2022-03-25,125000,CH49 7LU,T,N,F,10,,Schoolfield Road,,Wirral
+2022-03-25,245000,CH49 6PT,D,N,F,6,,Wittenham Close,,Wirral
+2022-03-25,340000,CH49 6JQ,S,N,F,62,,Meadway,Upton,Wirral
+2022-03-25,212500,CH49 4QJ,S,N,F,46,,Sycamore Avenue,,Wirral
+2022-03-25,210000,CH49 4LT,S,N,F,4,,Birch Avenue,,Wirral
+2022-03-25,85000,CH49 3GS,F,N,L,52,,Redcroft,Greasby,Wirral
+2022-03-25,83000,CH49 3GS,F,N,L,51,,Redcroft,Greasby,Wirral
+2022-03-25,335000,CH49 0WF,D,N,F,30,,Atholl Duncan Drive,,Wirral
+2022-03-23,280000,CH49 1RL,S,N,F,1,,The Close,Greasby,Wirral
+2022-03-21,124000,CH49 8EH,T,N,F,125,,Ferny Brow Road,,Wirral
+2022-03-18,140000,CH49 9BL,T,N,F,143,,Orrets Meadow Road,,Wirral
+2022-03-18,130000,CH49 6JY,F,N,L,Aughton Court,Flat 18,Church Road,Upton,Wirral
+2022-03-18,100000,CH49 4GD,S,N,L,187,,Norwich Drive,,Wirral
+2022-03-18,292000,CH49 3PJ,S,N,F,419,,Frankby Road,Greasby,Wirral
+2022-03-18,190000,CH49 3AW,S,N,F,7,,Rowan Tree Close,Greasby,Wirral
+2022-03-18,180000,CH49 0WG,T,N,L,10,,Hosking Close,,Wirral
+2022-03-17,335000,CH49 4SB,D,N,F,9,,Harefields Way,,Wirral
+2022-03-17,195000,CH49 4SA,T,N,F,25,,Webster Drive,,Wirral
+2022-03-17,335000,CH49 3QH,D,N,F,23,,Rowan Court,Greasby,Wirral
+2022-03-17,210000,CH49 0XF,S,N,F,7,,Sullivan Avenue,,Wirral
+2022-03-16,295000,CH49 6LB,S,N,F,5,,Shrewsbury Drive,,Wirral
+2022-03-16,85000,CH49 4NG,T,N,F,27,,Inman Road,,Wirral
+2022-03-16,260000,CH49 2NF,S,N,F,30,,Cortsway West,,Wirral
+2022-03-15,135000,CH49 7LL,S,N,F,60,,Commonfield Road,,Wirral
+2022-03-15,153000,CH49 6LS,F,N,L,Upton Court,Flat 8,Braeside Gardens,,Wirral
+2022-03-14,132000,CH49 8JW,S,N,F,16,,Selbourne Close,,Wirral
+2022-03-11,245000,CH49 6JN,S,N,F,35,,Upton Park Drive,,Wirral
+2022-03-11,255000,CH49 1SL,S,N,F,31,,Neale Drive,Greasby,Wirral
+2022-03-10,230000,CH49 6LU,S,N,F,8,,Frankby Grove,,Wirral
+2022-03-10,235000,CH49 4LB,S,N,F,290,,Saughall Massie Road,Upton,Wirral
+2022-03-07,280000,CH49 4PN,S,N,F,30,,Larkhill Avenue,,Wirral
+2022-03-04,102000,CH49 5LB,S,N,F,12,,New Hey Road,,Wirral
+2022-03-04,195000,CH49 4QL,S,N,F,18,,Sycamore Close,,Wirral
+2022-03-03,173000,CH49 4RA,S,N,F,11,,Butterton Avenue,,Wirral
+2022-02-28,117000,CH49 8HY,T,N,F,14,,Meadow Crescent,,Wirral
+2022-02-28,90000,CH49 5NB,F,N,L,3,,Goodakers Court,,Wirral
+2022-02-28,706000,CH49 4NR,D,N,F,49,,Moreton Road,Upton,Wirral
+2022-02-28,540000,CH49 3NT,D,N,F,154,,Mill Lane,Greasby,Wirral
+2022-02-28,69950,CH49 3GS,F,N,L,26,,Redcroft,Greasby,Wirral
+2022-02-28,274995,CH49 1AD,D,Y,F,18,,Smithy Brook Drive,Upton,Wirral
+2022-02-25,275000,CH49 6LP,S,N,F,54,,Upland Road,Upton,Wirral
+2022-02-25,299000,CH49 6JE,S,N,F,3,,Manor Drive,,Wirral
+2022-02-25,63000,CH49 5NS,F,N,L,145,,Cheswood Court,,Wirral
+2022-02-25,187000,CH49 3PN,S,N,F,18,,Abingdon Road,Greasby,Wirral
+2022-02-25,299995,CH49 1AD,D,Y,F,12,,Smithy Brook Drive,Upton,Wirral
+2022-02-24,299995,CH49 1AD,D,Y,F,5,,Smithy Brook Drive,Upton,Wirral
+2022-02-23,205000,CH49 5LL,S,N,F,12,,Archers Way,Upton,Wirral
+2022-02-23,280000,CH49 0UT,S,N,F,23,,Rake Lane,,Wirral
+2022-02-21,145000,CH49 8HP,T,N,F,27,,Lower Green,,Wirral
+2022-02-21,116500,CH49 8EA,S,N,F,71,,Pemberton Road,,Wirral
+2022-02-21,84000,CH49 0UU,F,N,L,10,,Wroxham Way,,Wirral
+2022-02-21,200000,CH49 0UN,S,N,F,3,,Mavis Drive,,Wirral
+2022-02-18,130000,CH49 8HZ,T,N,F,56,,Meadow Crescent,,Wirral
+2022-02-18,250000,CH49 4NS,S,N,F,54,,Moreton Road,Upton,Wirral
+2022-02-18,158000,CH49 4NQ,T,N,F,64,,Inman Road,,Wirral
+2022-02-18,379995,CH49 1AD,D,Y,F,4,,Smithy Brook Drive,Upton,Wirral
+2022-02-17,142848,CH49 7NT,S,N,F,7,,Grasswood Road,,Wirral
+2022-02-17,162000,CH49 4SA,T,N,F,39,,Webster Drive,,Wirral
+2022-02-17,319500,CH49 4QQ,D,N,F,18,,Wellbrae Close,,Wirral
+2022-02-14,815000,CH49 6LL,D,N,F,16A,,Moreton Road,Upton,Wirral
+2022-02-14,277000,CH49 3QL,D,N,F,12,,Magnolia Walk,,Wirral
+2022-02-14,280000,CH49 3GN,D,N,F,6,,Mere Park Road,Greasby,Wirral
+2022-02-11,172500,CH49 4SA,T,N,F,27,,Webster Drive,,Wirral
+2022-02-11,240000,CH49 4QR,D,N,F,10,,Norwich Drive,,Wirral
+2022-02-09,358000,CH49 3PZ,D,N,F,13,,Oakdale Drive,,Wirral
+2022-02-08,135000,CH49 8EE,T,N,F,31,,Ferny Brow Road,,Wirral
+2022-02-08,90000,CH49 5NS,F,N,L,161,,Cheswood Court,,Wirral
+2022-02-08,350000,CH49 0WF,D,N,F,26,,Atholl Duncan Drive,,Wirral
+2022-02-04,125000,CH49 9AG,S,N,F,15,,Big Meadow Road,,Wirral
+2022-02-04,140000,CH49 7LF,T,N,F,97,,Ackers Road,Woodchurch,Wirral
+2022-02-04,235500,CH49 6JP,S,N,F,50,,Upton Park Drive,,Wirral
+2022-02-04,195000,CH49 4QJ,D,N,F,17,,Sycamore Avenue,,Wirral
+2022-02-04,210000,CH49 3GU,D,N,F,9,,Cedarwood Close,,Wirral
+2022-02-04,201000,CH49 0TY,S,N,F,13,,Slingsby Drive,,Wirral
+2022-02-02,180000,CH49 4QR,S,N,F,39,,Norwich Drive,,Wirral
+2022-02-01,217500,CH49 6PJ,S,N,F,15,,Melton Close,,Wirral
+2022-02-01,130000,CH49 4RY,F,N,L,17,,Ladybower Close,,Wirral
+2022-02-01,215000,CH49 4QA,S,N,F,20,,Curlew Avenue,Upton,Wirral
+2022-02-01,274995,CH49 1AD,D,Y,F,14,,Smithy Brook Drive,Upton,Wirral
+2022-01-31,125000,CH49 7LJ,S,N,F,9,,Pemberton Road,,Wirral
+2022-01-31,210000,CH49 4PS,S,N,F,71,,Kingfisher Way,,Wirral
+2022-01-31,165000,CH49 4PB,S,N,F,2,,Sunnybank,Upton,Wirral
+2022-01-31,545000,CH49 1SR,D,N,F,155,,Brookdale Avenue South,,Wirral
+2022-01-31,445000,CH49 1RQ,S,N,F,55,,Lloyd Drive,,Wirral
+2022-01-31,269995,CH49 1AD,S,Y,F,8,,Smithy Brook Drive,Upton,Wirral
+2022-01-31,359995,CH49 1AD,D,Y,F,7,,Smithy Brook Drive,Upton,Wirral
+2022-01-31,279995,CH49 1AD,D,Y,F,16,,Smithy Brook Drive,Upton,Wirral
+2022-01-31,190000,CH49 0XG,S,N,F,17,,Denny Close,,Wirral
+2022-01-28,195000,CH49 6PR,D,N,F,2,,Brightwell Close,,Wirral
+2022-01-28,250000,CH49 4LN,S,N,F,108,,Manor Drive,,Wirral
+2022-01-28,340000,CH49 1SW,S,N,F,45,,Caulfield Drive,Greasby,Wirral
+2022-01-27,220000,CH49 2QD,S,N,F,35,,Summertrees Avenue,,Wirral
+2022-01-27,250000,CH49 1TB,S,N,F,94,,Lloyd Drive,,Wirral
+2022-01-26,210000,CH49 4SD,T,N,F,27,,Far Hey Drive,,Wirral
+2022-01-26,185000,CH49 4GX,D,N,F,6,,Wolferton Close,Upton,Wirral
+2022-01-26,155000,CH49 4GA,S,N,F,29,,Pennystone Close,,Wirral
+2022-01-25,325000,CH49 6LT,S,N,F,4,,Old Greasby Road,,Wirral
+2022-01-22,103000,CH49 5ND,F,N,L,6,,Archer Court,,Wirral
+2022-01-21,161000,CH49 5LF,S,N,F,83,,New Hey Road,,Wirral
+2022-01-21,210000,CH49 4QD,S,N,F,13,,Sandpiper Close,,Wirral
+2022-01-21,257500,CH49 1SW,S,N,F,51,,Caulfield Drive,Greasby,Wirral
+2022-01-19,400000,CH49 1SQ,D,N,F,102,,Dingwall Drive,,Wirral
+2022-01-19,285000,CH49 1SG,S,N,F,3,,Dingwall Drive,,Wirral
+2022-01-17,170000,CH49 2NJ,S,N,F,4,,Jeffreys Drive,,Wirral
+2022-01-14,130500,CH49 8EE,T,N,F,48,,Ferny Brow Road,,Wirral
+2022-01-14,220000,CH49 0WJ,S,N,F,32,,Malley Close,,Wirral
+2022-01-10,495000,CH49 6JB,D,N,F,38,,Mount Road,Upton,Wirral
+2022-01-07,206500,CH49 6QJ,S,N,F,5,,Furness Close,,Wirral
+2022-01-07,45000,CH49 4RP,F,N,L,Bower House,Apartment 21,Manorside Close,,Wirral
+2022-01-01,374995,CH49 1AD,D,Y,F,2,,Smithy Brook Drive,Upton,Wirral
+2021-12-22,105000,CH49 7PB,T,N,F,37,,Caldwell Drive,,Wirral
+2021-12-21,160000,CH49 7LE,T,N,F,50,,Ackers Road,Woodchurch,Wirral
+2021-12-21,220000,CH49 4PX,S,N,F,12,,Kestrel Avenue,,Wirral
+2021-12-21,345000,CH49 2QT,D,N,F,30,,Stapleton Avenue,Greasby,Wirral
+2021-12-17,237500,CH49 4PR,S,N,F,8,,Kingfisher Way,,Wirral
+2021-12-17,159950,CH49 4GA,S,N,F,24,,Pennystone Close,,Wirral
+2021-12-17,340000,CH49 3PT,D,N,F,32,,Frankby Close,,Wirral
+2021-12-17,275000,CH49 3NL,S,N,F,10,,Hillcrest Drive,Greasby,Wirral
+2021-12-17,112000,CH49 3GS,F,N,L,78,,Redcroft,Greasby,Wirral
+2021-12-17,70000,CH49 3AP,S,N,L,26,,Stanmore Park,Greasby,Wirral
+2021-12-17,210000,CH49 2SD,S,N,F,4,,Summertrees Close,,Wirral
+2021-12-17,329500,CH49 1RG,S,N,F,4,,Lloyd Drive,,Wirral
+2021-12-17,208000,CH49 0UG,S,N,F,117,,Arrowe Park Road,,Wirral
+2021-12-16,245000,CH49 2ND,S,N,F,37,,Kirkway,Greasby,Wirral
+2021-12-15,405000,CH49 3NX,D,N,F,16,,Barker Lane,,Wirral
+2021-12-14,80000,CH49 9BH,T,N,F,162,,Hoole Road,,Wirral
+2021-12-14,70000,CH49 3GS,F,N,L,17,,Redcroft,Greasby,Wirral
+2021-12-14,575000,CH49 0TF,D,N,F,46,Plot 2,Ford Road,,Wirral
+2021-12-13,132000,CH49 7ND,S,N,F,24,,Walby Close,,Wirral
+2021-12-13,62000,CH49 6PY,F,N,L,Fernwood,Apartment 29,Church Road,Upton,Wirral
+2021-12-13,375000,CH49 3PU,D,N,F,7,,Thorns Drive,Greasby,Wirral
+2021-12-10,145000,CH49 7PB,T,N,F,41,,Caldwell Drive,,Wirral
+2021-12-10,140000,CH49 7LU,T,N,F,9,,Schoolfield Road,,Wirral
+2021-12-10,182000,CH49 4PS,S,N,F,106,,Kingfisher Way,,Wirral
+2021-12-10,206000,CH49 4NP,D,N,F,2,,Elm Avenue,,Wirral
+2021-12-10,387500,CH49 3NS,D,N,F,81,,Mill Lane,Greasby,Wirral
+2021-12-10,347500,CH49 3GU,D,N,F,6,,Cedarwood Close,,Wirral
+2021-12-10,230000,CH49 2RW,S,N,F,12,,Stable Close,Greasby,Wirral
+2021-12-10,225000,CH49 1SN,S,N,F,27,,Caulfield Drive,Greasby,Wirral
+2021-12-10,300000,CH49 1RP,S,N,F,35,,Ferguson Avenue,Greasby,Wirral
+2021-12-10,199950,CH49 0TB,T,N,F,63,,Ford Road,,Wirral
+2021-12-09,120000,CH49 9AJ,T,N,F,29,,Northbrook Way,,Wirral
+2021-12-09,51000,CH49 6PY,F,N,L,Fernwood,Apartment 32,Church Road,Upton,Wirral
+2021-12-09,270000,CH49 3NG,S,N,F,90,,Greasby Road,Greasby,Wirral
+2021-12-08,133000,CH49 9AJ,T,N,F,17,,Northbrook Way,,Wirral
+2021-12-08,260000,CH49 4QT,D,N,F,7,,Dereham Avenue,,Wirral
+2021-12-08,318250,CH49 1RG,S,N,F,14,,Lloyd Drive,,Wirral
+2021-12-06,299999,CH49 1RF,S,N,F,12,,Rigby Drive,,Wirral
+2021-12-06,190000,CH49 0XE,T,N,F,4,,Rake Mews,,Wirral
+2021-12-03,242000,CH49 6PH,S,N,F,10,,Bramford Close,,Wirral
+2021-12-03,575000,CH49 6JB,D,N,F,24,,Mount Road,Upton,Wirral
+2021-12-03,182000,CH49 5NG,S,N,F,12,,Eltham Green,,Wirral
+2021-12-03,115000,CH49 4GE,S,N,F,37,,Thornham Close,,Wirral
+2021-12-03,275000,CH49 2NG,S,N,F,19,,Broadway,Greasby,Wirral
+2021-12-01,65000,CH49 0XW,F,N,L,11,,St Marys Court,,Wirral
+2021-11-30,230000,CH49 4RL,D,N,F,188,,Saughall Massie Road,Upton,Wirral
+2021-11-30,306500,CH49 3GW,D,N,F,8,,Farm Close,Greasby,Wirral
+2021-11-29,372000,CH49 2PW,D,N,F,286,,Greasby Road,Greasby,Wirral
+2021-11-29,145000,CH49 0UR,T,N,F,3,,Arrowe View,,Wirral
+2021-11-26,203000,CH49 4PD,S,N,F,4,,Ronaldsway,Upton,Wirral
+2021-11-26,292000,CH49 3NA,D,N,F,3,,Circular Drive,Greasby,Wirral
+2021-11-26,105000,CH49 3GS,F,N,L,65,,Redcroft,Greasby,Wirral
+2021-11-26,209000,CH49 2NH,S,N,F,25,,Brookway,,Wirral
+2021-11-25,170000,CH49 4QQ,S,N,F,10,,Wellbrae Close,,Wirral
+2021-11-25,250000,CH49 2PU,D,N,F,41,,Wood Lane,Greasby,Wirral
+2021-11-22,215000,CH49 0UT,S,N,F,21,,Rake Lane,,Wirral
+2021-11-19,70000,CH49 9BJ,T,N,F,109,,Orrets Meadow Road,,Wirral
+2021-11-19,140000,CH49 7LL,S,N,F,56,,Commonfield Road,,Wirral
+2021-11-19,146000,CH49 5PB,T,N,F,133,,Arrowe Park Road,,Wirral
+2021-11-19,192000,CH49 4PT,S,N,L,7,,Merlin Avenue,,Wirral
+2021-11-19,275000,CH49 1SJ,T,N,F,9,,Appleton Drive,Greasby,Wirral
+2021-11-19,180000,CH49 0TZ,S,N,F,6,,Slingsby Drive,,Wirral
+2021-11-18,260000,CH49 4QR,D,N,F,3,,Norwich Drive,,Wirral
+2021-11-18,525000,CH49 3PU,D,N,F,1,,Thorns Drive,Greasby,Wirral
+2021-11-18,345000,CH49 3NE,S,N,F,35,,Greasby Road,Greasby,Wirral
+2021-11-17,415000,CH49 6JF,D,N,F,36,,Manor Drive,,Wirral
+2021-11-17,480000,CH49 6JF,D,N,F,22,,Manor Drive,,Wirral
+2021-11-17,170000,CH49 4PT,S,N,F,23,,Merlin Avenue,,Wirral
+2021-11-16,82000,CH49 5NB,F,N,L,6,,Goodakers Court,,Wirral
+2021-11-15,132500,CH49 7LU,T,N,F,6,,Schoolfield Road,,Wirral
+2021-11-15,109250,CH49 7LE,S,N,F,48,,Ackers Road,Woodchurch,Wirral
+2021-11-12,182500,CH49 5LP,S,N,F,203,,Arrowe Park Road,,Wirral
+2021-11-12,125500,CH49 4RY,F,N,L,9,,Ladybower Close,,Wirral
+2021-11-12,210000,CH49 3AW,T,N,F,6,,Rowan Tree Close,Greasby,Wirral
+2021-11-12,280000,CH49 2NS,S,N,F,15,,Eastway,Greasby,Wirral
+2021-11-10,140000,CH49 7LB,T,N,F,16,,Ackers Road,Woodchurch,Wirral
+2021-11-10,270000,CH49 2NU,D,N,F,6,,Brookdale Avenue North,,Wirral
+2021-11-09,47500,CH49 4PP,F,N,L,Liege House,Flat 42,Manorside Close,,Wirral
+2021-11-08,114000,CH49 9DP,S,N,L,3,,Camden Mews,,Wirral
+2021-11-05,147500,CH49 7NS,S,N,F,88,,Ganneys Meadow Road,,Wirral
+2021-11-05,195000,CH49 4GD,D,N,F,110,,Norwich Drive,,Wirral
+2021-11-05,190000,CH49 3PP,S,N,F,22,,Cranwell Road,Greasby,Wirral
+2021-11-05,155000,CH49 0WL,F,N,L,5,,Arkill Gardens,,Wirral
+2021-11-03,347500,CH49 3QA,D,N,F,8,,Chestnut Close,,Wirral
+2021-11-03,415000,CH49 3PU,D,N,F,14,,Thorns Drive,Greasby,Wirral
+2021-11-03,299950,CH49 1RN,S,N,F,7,,Hall Drive,Greasby,Wirral
+2021-11-01,205000,CH49 5PA,S,N,F,31,,Yew Tree Close,,Wirral
+2021-11-01,190000,CH49 4QH,T,N,F,4,,Henderson Close,,Wirral
+2021-10-29,200000,CH49 8HH,D,N,F,3,,Merton Drive,,Wirral
+2021-10-29,217000,CH49 6JP,S,N,F,44,,Upton Park Drive,,Wirral
+2021-10-29,238000,CH49 3QY,D,N,F,22,,Beauworth Avenue,Greasby,Wirral
+2021-10-28,410000,CH49 6LE,S,N,F,39,,Heath Drive,Upton,Wirral
+2021-10-27,150000,CH49 9DP,S,N,L,7,,Camden Mews,,Wirral
+2021-10-27,149950,CH49 9BR,T,N,F,42,,Poolwood Road,,Wirral
+2021-10-25,152000,CH49 9EH,S,N,F,14,,Sunflower Close,,Wirral
+2021-10-25,234000,CH49 2NP,S,N,F,24,,Woodway,,Wirral
+2021-10-22,126000,CH49 6JY,F,N,L,Aughton Court,Flat 7,Church Road,Upton,Wirral
+2021-10-22,175000,CH49 5NP,S,N,F,26,,Childwall Green,,Wirral
+2021-10-22,180000,CH49 4PX,S,N,F,9,,Kestrel Avenue,,Wirral
+2021-10-18,322500,CH49 3GT,D,N,F,6,,Ashdale Park,Greasby,Wirral
+2021-10-15,183000,CH49 8JE,T,N,F,46,,Houghton Road,,Wirral
+2021-10-15,110000,CH49 7LH,T,N,F,188,,Home Farm Road,,Wirral
+2021-10-15,227000,CH49 6NE,S,N,F,19,,Warwick Road,,Wirral
+2021-10-15,359995,CH49 6JE,S,N,F,15,,Manor Drive,,Wirral
+2021-10-15,88000,CH49 5NB,F,N,L,1,,Goodakers Court,,Wirral
+2021-10-15,180000,CH49 4PS,S,N,F,112,,Kingfisher Way,,Wirral
+2021-10-15,46000,CH49 4PP,F,N,L,Liege House,Flat 28,Manorside Close,,Wirral
+2021-10-13,94500,CH49 8JN,S,N,F,14,,Cheverton Close,,Wirral
+2021-10-12,117500,CH49 7NA,T,N,F,21,,Robin Way,,Wirral
+2021-10-12,215000,CH49 3AP,S,N,F,29,,Stanmore Park,Greasby,Wirral
+2021-10-12,215000,CH49 2RP,S,N,F,24,,The Crofters,Greasby,Wirral
+2021-10-08,285000,CH49 4RE,D,N,F,10,,Hawksmore Close,,Wirral
+2021-10-08,260000,CH49 1RN,S,N,F,4,,Hall Drive,Greasby,Wirral
+2021-10-07,345000,CH49 6JX,D,N,F,4,,West Drive,Upton,Wirral
+2021-10-07,325000,CH49 2PT,D,N,F,14,,Wood Lane,Greasby,Wirral
+2021-10-07,295000,CH49 2PJ,S,N,F,18,,Highfield Drive,Greasby,Wirral
+2021-10-05,295000,CH49 2QJ,S,N,F,2,,Redditch Close,Greasby,Wirral
+2021-10-04,139950,CH49 8EH,S,N,F,144,,Ferny Brow Road,,Wirral
+2021-10-04,140000,CH49 4GE,S,N,F,10,,Thornham Close,,Wirral
+2021-10-01,150000,CH49 9BS,T,N,F,241,,New Hey Road,,Wirral
+2021-10-01,130000,CH49 8HL,S,N,F,32,,Woodland Road,Upton,Wirral
+2021-09-30,136000,CH49 7LL,T,N,F,26,,Commonfield Road,,Wirral
+2021-09-30,245000,CH49 6LH,S,N,F,47,,Loretto Drive,,Wirral
+2021-09-30,305000,CH49 4SB,D,N,F,26,,Harefields Way,,Wirral
+2021-09-30,195000,CH49 4QL,S,N,F,19,,Sycamore Close,,Wirral
+2021-09-30,185000,CH49 4PE,S,N,F,25,,Whitewell Drive,,Wirral
+2021-09-30,287500,CH49 4LS,D,N,F,53,,Birch Avenue,,Wirral
+2021-09-30,110000,CH49 4LE,S,N,F,33,,Brookside Crescent,,Wirral
+2021-09-30,215000,CH49 4LE,S,N,F,13,,Brookside Crescent,,Wirral
+2021-09-30,260500,CH49 3PE,S,N,F,307,,Frankby Road,Greasby,Wirral
+2021-09-30,317000,CH49 2QY,D,N,F,2,,The Planters,,Wirral
+2021-09-30,231000,CH49 2PZ,S,N,F,66,,Leaway,,Wirral
+2021-09-30,163000,CH49 0XF,S,N,F,5,,Sullivan Avenue,,Wirral
+2021-09-30,245000,CH49 0WG,S,N,L,5,,Hosking Close,,Wirral
+2021-09-30,238000,CH49 0WD,T,N,F,73,,Atholl Duncan Drive,,Wirral
+2021-09-30,265000,CH49 0UZ,S,N,F,2,,Salacre Crescent,,Wirral
+2021-09-30,200000,CH49 0UL,T,N,F,9,,Molyneux Close,,Wirral
+2021-09-29,145000,CH49 7LG,T,N,F,95,,Home Farm Road,,Wirral
+2021-09-29,135000,CH49 6JY,F,N,L,Aughton Court,Flat 27,Church Road,Upton,Wirral
+2021-09-29,249950,CH49 6JW,S,N,F,73,,Upton Park Drive,,Wirral
+2021-09-29,182500,CH49 4PS,S,N,F,41,,Kingfisher Way,,Wirral
+2021-09-29,238000,CH49 4PN,D,N,F,5,,Larkhill Avenue,,Wirral
+2021-09-29,257000,CH49 4PA,D,N,F,2A,,Crosby Close,,Wirral
+2021-09-29,200000,CH49 4NR,D,N,F,59,,Moreton Road,Upton,Wirral
+2021-09-29,472950,CH49 1SJ,S,N,F,37,,Appleton Drive,Greasby,Wirral
+2021-09-29,167000,CH49 0TT,S,N,F,4,,Ford Lane,,Wirral
+2021-09-28,182500,CH49 5LL,T,N,F,10,,Archers Way,Upton,Wirral
+2021-09-28,250000,CH49 4NW,S,N,F,31,,Overchurch Road,,Wirral
+2021-09-28,302500,CH49 3GU,D,N,F,8,,Cedarwood Close,,Wirral
+2021-09-27,150000,CH49 4PA,S,N,F,15,,Crosby Close,,Wirral
+2021-09-27,340000,CH49 3QT,D,N,F,112,,Thorns Drive,Greasby,Wirral
+2021-09-24,105000,CH49 7LH,F,N,L,216,,Home Farm Road,,Wirral
+2021-09-24,245500,CH49 6PN,D,N,F,23,,The Limes,,Wirral
+2021-09-24,320000,CH49 6LB,S,N,F,39,,Shrewsbury Drive,,Wirral
+2021-09-24,225000,CH49 4SD,T,N,F,3,,Far Hey Drive,,Wirral
+2021-09-24,380000,CH49 3PA,D,N,F,15,,Miles Lane,,Wirral
+2021-09-24,320000,CH49 2RD,S,N,F,2,,Thresher Avenue,Greasby,Wirral
+2021-09-24,375000,CH49 2PH,D,N,F,1A,,Norwood Road,,Wirral
+2021-09-17,235000,CH49 2ND,S,N,F,32,,Kirkway,Greasby,Wirral
+2021-09-17,251000,CH49 2NA,T,N,F,52,,Cortsway,,Wirral
+2021-09-16,216000,CH49 3GW,D,N,F,15,,Farm Close,Greasby,Wirral
+2021-09-16,320000,CH49 2QB,S,N,F,9,,Raines Close,,Wirral
+2021-09-15,180000,CH49 4GS,S,N,F,19,,Littlemore Close,,Wirral
+2021-09-14,118000,CH49 7LJ,S,N,F,3,,Pemberton Road,,Wirral
+2021-09-14,250000,CH49 0WD,T,N,F,55,,Atholl Duncan Drive,,Wirral
+2021-09-10,82000,CH49 5NH,F,N,L,"Flat, 4",,Parkland Court,,Wirral
+2021-09-10,325000,CH49 4RX,D,N,F,4,,Ravenstone Close,,Wirral
+2021-09-09,111000,CH49 7LZ,T,N,F,12,,Sandfield Road,Upton,Wirral
+2021-09-09,295000,CH49 3AB,D,N,F,9,,Hambledon Drive,,Wirral
+2021-09-08,149950,CH49 5PB,T,N,F,141,,Arrowe Park Road,,Wirral
+2021-09-08,269950,CH49 1RA,S,N,F,72,,Arrowe Road,,Wirral
+2021-09-06,490000,CH49 6LF,D,N,F,"Heathbank, 36",,Heath Drive,Upton,Wirral
+2021-09-03,175000,CH49 5PA,S,N,F,28,,Yew Tree Close,,Wirral
+2021-09-03,222000,CH49 4SA,T,N,F,37,,Webster Drive,,Wirral
+2021-09-03,98000,CH49 4GD,F,N,L,212,,Norwich Drive,,Wirral
+2021-09-03,165000,CH49 2RP,S,N,F,34,,The Crofters,Greasby,Wirral
+2021-09-03,139000,CH49 2PP,F,N,L,"Arrowe Brook Court, 302",Flat 10,Greasby Road,Greasby,Wirral
+2021-09-01,130000,CH49 7ND,S,N,F,15,,Walby Close,,Wirral
+2021-08-31,210000,CH49 2NR,S,N,F,8,,Westway,Greasby,Wirral
+2021-08-31,140000,CH49 0TR,T,N,F,5,,Garfield Terrace,,Wirral
+2021-08-27,138000,CH49 9AW,S,N,F,220,,Big Meadow Road,,Wirral
+2021-08-27,157000,CH49 7LN,S,N,F,112,,Home Farm Road,,Wirral
+2021-08-27,237000,CH49 1RG,S,N,F,8,,Lloyd Drive,,Wirral
+2021-08-27,270000,CH49 1RD,S,N,F,37,,Rigby Drive,,Wirral
+2021-08-27,200000,CH49 1RA,S,N,F,78,,Arrowe Road,,Wirral
+2021-08-25,118000,CH49 7LW,T,N,F,116,,Home Farm Road,,Wirral
+2021-08-20,149950,CH49 9EH,S,N,F,16,,Sunflower Close,,Wirral
+2021-08-20,115000,CH49 7NH,T,N,F,114,,New Hey Road,,Wirral
+2021-08-20,340000,CH49 3GT,D,N,F,16,,Ashdale Park,Greasby,Wirral
+2021-08-13,176000,CH49 3GU,S,N,F,1,,Cedarwood Close,,Wirral
+2021-08-11,400000,CH49 6LZ,S,N,F,83,,Saughall Massie Lane,,Wirral
+2021-08-10,320000,CH49 2QT,D,N,F,25,,Stapleton Avenue,Greasby,Wirral
+2021-08-09,132500,CH49 7LN,T,N,F,96,,Home Farm Road,,Wirral
+2021-08-09,249000,CH49 4LH,D,N,F,12,,Brookside Drive,,Wirral
+2021-08-06,185000,CH49 8HL,S,N,F,18,,Woodland Road,Upton,Wirral
+2021-08-06,288000,CH49 6PT,D,N,F,1,,Wittenham Close,,Wirral
+2021-08-06,180000,CH49 5NG,S,N,F,5,,Eltham Green,,Wirral
+2021-08-06,330000,CH49 3PT,D,N,F,5,,Frankby Close,,Wirral
+2021-08-06,330000,CH49 3GT,D,N,F,1,,Ashdale Park,Greasby,Wirral
+2021-08-04,140000,CH49 9BW,S,N,F,92,,Orrets Meadow Road,,Wirral
+2021-08-03,480000,CH49 6JE,D,N,F,25,,Manor Drive,,Wirral
+2021-08-03,435000,CH49 6JD,D,N,F,5A,,Concordia Avenue,,Wirral
+2021-08-03,150850,CH49 0XD,T,N,F,12,,Rake Close,,Wirral
+2021-07-30,125000,CH49 9AJ,T,N,F,14,,Northbrook Way,,Wirral
+2021-07-30,310000,CH49 6NS,S,N,F,21,,Old Greasby Road,,Wirral
+2021-07-30,427000,CH49 3NP,S,N,F,31,,Elm Drive,Greasby,Wirral
+2021-07-29,135000,CH49 4GN,T,N,F,9,,Litcham Close,,Wirral
+2021-07-26,249999,CH49 2PZ,S,N,F,26,,Leaway,,Wirral
+2021-07-24,192500,CH49 0UW,T,N,F,46,,Mavis Drive,,Wirral
+2021-07-23,100000,CH49 9BU,T,N,F,321,,New Hey Road,,Wirral
+2021-07-23,250000,CH49 3AB,D,N,F,3,,Hambledon Drive,,Wirral
+2021-07-23,65000,CH49 0XW,F,N,L,10,,St Marys Court,,Wirral
+2021-07-22,75000,CH49 5NE,F,N,L,8,,Brentwood Court,,Wirral
+2021-07-16,140000,CH49 8HP,T,N,F,41,,Lower Green,,Wirral
+2021-07-16,170000,CH49 4LG,S,N,F,67,,Girtrell Road,,Wirral
+2021-07-16,181000,CH49 0XG,S,N,F,29,,Denny Close,,Wirral
+2021-07-15,117000,CH49 3NG,F,N,L,"Manor Court, 114",Flat 4,Greasby Road,Greasby,Wirral
+2021-07-12,225000,CH49 0UN,S,N,F,1,,Mavis Drive,,Wirral
+2021-07-09,100000,CH49 5LB,T,N,F,4,,New Hey Road,,Wirral
+2021-07-09,246000,CH49 1RQ,S,N,F,51,,Lloyd Drive,,Wirral
+2021-07-08,170000,CH49 5LZ,S,N,F,35,,Fleetcroft Road,,Wirral
+2021-07-07,203000,CH49 2SW,S,N,F,6,,The Barncroft,Greasby,Wirral
+2021-07-05,199950,CH49 6JZ,D,N,F,26,,Church Road,Upton,Wirral
+2021-07-05,252000,CH49 4LT,D,N,F,46,,Birch Avenue,,Wirral
+2021-07-05,195000,CH49 2NJ,S,N,F,2,,Jeffreys Drive,,Wirral
+2021-07-02,194000,CH49 6QN,S,N,F,10,,Pendle Close,,Wirral
+2021-07-01,68000,CH49 3GS,F,N,L,35,,Redcroft,Greasby,Wirral
+2021-06-30,126000,CH49 8HF,T,N,F,121,,Glebe Hey Road,,Wirral
+2021-06-30,310035,CH49 6LY,D,N,F,35,,Saughall Massie Lane,,Wirral
+2021-06-30,260000,CH49 6JL,S,N,F,11,,Oakland Drive,,Wirral
+2021-06-30,290000,CH49 6JG,S,N,F,22,,Meadway,Upton,Wirral
+2021-06-30,122000,CH49 4RY,F,N,L,2,,Ladybower Close,,Wirral
+2021-06-30,310000,CH49 4RX,D,N,F,9,,Ravenstone Close,,Wirral
+2021-06-30,550000,CH49 4NR,D,N,F,45,,Moreton Road,Upton,Wirral
+2021-06-30,268750,CH49 3PN,S,N,F,27,,Abingdon Road,Greasby,Wirral
+2021-06-30,215000,CH49 0XG,S,N,F,11,,Denny Close,,Wirral
+2021-06-29,245000,CH49 3GR,S,N,F,12,,Griffiths Close,Greasby,Wirral
+2021-06-28,120000,CH49 8EX,T,N,F,9,,Orrets Meadow Road,,Wirral
+2021-06-28,325000,CH49 6NB,S,N,F,13,,Larcombe Avenue,,Wirral
+2021-06-28,170000,CH49 4QD,S,N,F,13,,Sandpiper Close,,Wirral
+2021-06-25,189000,CH49 6PA,S,N,F,43,,Whitelands Meadow,,Wirral
+2021-06-25,475000,CH49 6JB,S,N,F,34,,Mount Road,Upton,Wirral
+2021-06-25,185000,CH49 5NX,S,N,F,19,,Nantwich Close,,Wirral
+2021-06-25,175000,CH49 4QQ,S,N,F,7,,Wellbrae Close,,Wirral
+2021-06-25,265000,CH49 4NJ,S,N,F,11,,Beech Avenue,Upton,Wirral
+2021-06-25,280000,CH49 3QY,D,N,F,9,,Beauworth Avenue,Greasby,Wirral
+2021-06-25,165000,CH49 3GU,S,N,F,18,,Cedarwood Close,,Wirral
+2021-06-25,212000,CH49 2PZ,S,N,F,28,,Leaway,,Wirral
+2021-06-25,245000,CH49 2PY,D,N,F,23,,Leaway,,Wirral
+2021-06-25,278000,CH49 2PQ,D,N,F,285,,Greasby Road,Greasby,Wirral
+2021-06-24,180000,CH49 2QD,S,N,F,26,,Summertrees Avenue,,Wirral
+2021-06-23,340000,CH49 6PN,D,N,F,19,,The Limes,,Wirral
+2021-06-23,210000,CH49 4PF,S,N,F,50,,Whitewell Drive,,Wirral
+2021-06-23,470000,CH49 4NL,D,N,F,8,,Oak Avenue,,Wirral
+2021-06-23,120000,CH49 2NU,D,N,F,8,,Brookdale Avenue North,,Wirral
+2021-06-22,190000,CH49 4QU,D,N,F,32,,Weybourne Close,,Wirral
+2021-06-22,299950,CH49 4QJ,D,N,F,36,,Sycamore Avenue,,Wirral
+2021-06-21,115500,CH49 4RY,F,N,L,30,,Ladybower Close,,Wirral
+2021-06-21,275000,CH49 3PG,S,N,F,20,,Halton Crescent,Greasby,Wirral
+2021-06-21,210000,CH49 3NX,S,N,F,17,,Barker Lane,,Wirral
+2021-06-18,130000,CH49 7LL,T,N,F,4,,Commonfield Road,,Wirral
+2021-06-18,200000,CH49 4PS,S,N,F,57,,Kingfisher Way,,Wirral
+2021-06-18,240500,CH49 4PA,S,N,F,11,,Crosby Close,,Wirral
+2021-06-18,180000,CH49 4NE,S,N,F,67,,Gainsborough Road,,Wirral
+2021-06-18,155000,CH49 4GD,S,N,F,160,,Norwich Drive,,Wirral
+2021-06-18,210000,CH49 3NA,S,N,F,47,,Circular Drive,Greasby,Wirral
+2021-06-18,80500,CH49 3GS,F,N,L,39,,Redcroft,Greasby,Wirral
+2021-06-18,240500,CH49 1SN,S,N,F,11,,Caulfield Drive,Greasby,Wirral
+2021-06-18,347000,CH49 0WN,D,N,F,6,,Simpson Place,,Wirral
+2021-06-14,154950,CH49 4RB,D,N,F,2,,Coney Walk,,Wirral
+2021-06-14,265000,CH49 2QG,S,N,F,4,,Greasby Mews,Greasby,Wirral
+2021-06-11,220000,CH49 6PT,D,N,F,8,,Wittenham Close,,Wirral
+2021-06-11,284500,CH49 5LN,D,N,F,The Lodge,,Arrowe Park Road,,Wirral
+2021-06-11,150000,CH49 4SA,T,N,F,41,,Webster Drive,,Wirral
+2021-06-11,250000,CH49 3QT,D,N,F,88,,Thorns Drive,Greasby,Wirral
+2021-06-11,67950,CH49 3GS,F,N,L,71,,Redcroft,Greasby,Wirral
+2021-06-11,230000,CH49 2RW,D,N,F,18,,Stable Close,Greasby,Wirral
+2021-06-11,250000,CH49 2NN,S,N,F,5,,Greenway,Greasby,Wirral
+2021-06-11,273000,CH49 1SF,S,N,F,49,,Escolme Drive,,Wirral
+2021-06-11,330000,CH49 1RZ,S,N,F,115,,Arrowe Road,,Wirral
+2021-06-11,320000,CH49 0WF,D,N,F,64,,Atholl Duncan Drive,,Wirral
+2021-06-11,153500,CH49 0TJ,T,N,F,5,,Rock Bank,,Wirral
+2021-06-09,375000,CH49 1RU,S,N,F,7,,Carmichael Avenue,,Wirral
+2021-06-09,240000,CH49 1RP,S,N,F,37,,Ferguson Avenue,Greasby,Wirral
+2021-06-04,183000,CH49 6PW,S,N,F,25,,Wallingford Road,,Wirral
+2021-06-04,125000,CH49 0TR,T,N,F,6,,Garfield Terrace,,Wirral
+2021-06-02,93000,CH49 3GS,F,N,L,77,,Redcroft,Greasby,Wirral
+2021-06-02,82000,CH49 3GS,F,N,L,68,,Redcroft,Greasby,Wirral
+2021-06-02,265000,CH49 2NW,S,N,F,52,,Greenway,Greasby,Wirral
+2021-06-01,100000,CH49 7LL,T,N,F,14,,Commonfield Road,,Wirral
+2021-05-28,180000,CH49 4QG,S,N,F,7,,Girtrell Close,,Wirral
+2021-05-28,173000,CH49 4PQ,S,N,F,175,,Manor Drive,,Wirral
+2021-05-28,165000,CH49 3QP,S,N,F,3,,Stroud Close,Greasby,Wirral
+2021-05-28,220000,CH49 2NH,S,N,F,3,,Brookway,,Wirral
+2021-05-27,182000,CH49 4LB,S,N,F,213,,Saughall Massie Road,Upton,Wirral
+2021-05-27,137500,CH49 4GD,S,N,F,156,,Norwich Drive,,Wirral
+2021-05-27,475000,CH49 3PZ,D,N,F,8,,Oakdale Drive,,Wirral
+2021-05-27,360000,CH49 3AQ,D,N,F,17,,Padstow Road,Greasby,Wirral
+2021-05-27,200000,CH49 2NQ,T,N,F,91,,Broadway,Greasby,Wirral
+2021-05-27,233000,CH49 2NA,S,N,F,75,,Cortsway,,Wirral
+2021-05-27,255000,CH49 1RP,S,N,F,12,,Ferguson Avenue,Greasby,Wirral
+2021-05-27,185000,CH49 1RB,S,N,F,5,,Arrowe Road,,Wirral
+2021-05-25,168000,CH49 5NJ,T,N,F,2,,Troutbeck Close,,Wirral
+2021-05-25,210000,CH49 4PD,S,N,F,26,,Ronaldsway,Upton,Wirral
+2021-05-24,185000,CH49 2QP,S,N,F,2,,Malmesbury Close,Greasby,Wirral
+2021-05-24,180000,CH49 2PW,D,N,F,"Veronica's Cottage, 232",,Greasby Road,Greasby,Wirral
+2021-05-21,115000,CH49 9AG,T,N,F,45,,Big Meadow Road,,Wirral
+2021-05-21,125000,CH49 7LL,T,N,F,44,,Commonfield Road,,Wirral
+2021-05-21,73500,CH49 5NY,F,N,L,105,,Beechwood Court,,Wirral
+2021-05-21,182500,CH49 4QJ,S,N,F,66,,Sycamore Avenue,,Wirral
+2021-05-21,290000,CH49 2PW,S,N,F,244,,Greasby Road,Greasby,Wirral
+2021-05-21,290000,CH49 1SP,D,N,F,101,,Brookdale Avenue South,,Wirral
+2021-05-21,227500,CH49 0WF,S,N,L,4,,Atholl Duncan Drive,,Wirral
+2021-05-20,249950,CH49 3QX,D,N,F,6,,Juniper Close,Greasby,Wirral
+2021-05-19,130000,CH49 0TZ,S,N,F,6,,Slingsby Drive,,Wirral
+2021-05-18,135000,CH49 7LG,T,N,F,79,,Home Farm Road,,Wirral
+2021-05-14,118000,CH49 7NR,T,N,F,32,,Ganneys Meadow Road,,Wirral
+2021-05-14,89600,CH49 7LD,T,N,F,65,,Ackers Road,Woodchurch,Wirral
+2021-05-14,220000,CH49 4RB,D,N,F,1,,Coney Walk,,Wirral
+2021-05-14,300000,CH49 4NW,D,N,F,33,,Overchurch Road,,Wirral
+2021-05-14,165000,CH49 3PS,S,N,F,16,,Kinloss Road,Greasby,Wirral
+2021-05-14,250000,CH49 1RX,T,N,F,21,,Howell Drive,,Wirral
+2021-05-14,207500,CH49 0TZ,S,N,F,92,,Slingsby Drive,,Wirral
+2021-05-07,170000,CH49 6JB,S,N,F,4,,Mount Road,Upton,Wirral
+2021-05-07,220000,CH49 4PN,S,N,F,39,,Larkhill Avenue,,Wirral
+2021-05-07,178000,CH49 3AP,S,N,F,24,,Stanmore Park,Greasby,Wirral
+2021-05-06,200000,CH49 0XF,D,N,F,19,,Sullivan Avenue,,Wirral
+2021-05-05,175000,CH49 5NX,S,N,F,25,,Nantwich Close,,Wirral
+2021-05-04,187500,CH49 4PF,S,N,F,65,,Whitewell Drive,,Wirral
+2021-05-04,210000,CH49 4NJ,S,N,F,25,,Beech Avenue,Upton,Wirral
+2021-04-30,134000,CH49 4GN,T,N,F,4,,Litcham Close,,Wirral
+2021-04-30,100000,CH49 4GD,F,N,L,178,,Norwich Drive,,Wirral
+2021-04-30,226000,CH49 0TX,S,N,F,13,,Grafton Drive,,Wirral
+2021-04-29,165000,CH49 5LL,S,N,F,2,,Archers Way,Upton,Wirral
+2021-04-29,125000,CH49 4NF,T,N,F,26,,Gainsborough Road,,Wirral
+2021-04-29,280000,CH49 3NL,S,N,F,4,,Hillcrest Drive,Greasby,Wirral
+2021-04-28,270000,CH49 6PP,D,N,F,6,,Cholsey Close,,Wirral
+2021-04-28,325000,CH49 6NH,S,N,F,10,,Kirkway,Upton,Wirral
+2021-04-28,375000,CH49 6LA,S,N,F,31,,South Drive,Upton,Wirral
+2021-04-28,190000,CH49 4PD,S,N,F,44,,Ronaldsway,Upton,Wirral
+2021-04-27,145000,CH49 9AY,S,N,F,147,,Ford Way,,Wirral
+2021-04-26,174950,CH49 6NW,S,N,F,28,,Devonshire Road,Upton,Wirral
+2021-04-26,175000,CH49 2NS,S,N,F,49,,Eastway,Greasby,Wirral
+2021-04-23,105000,CH49 7LH,T,N,F,186,,Home Farm Road,,Wirral
+2021-04-23,182000,CH49 6NS,S,N,F,37,,Old Greasby Road,,Wirral
+2021-04-23,180000,CH49 3PP,S,N,F,18,,Cranwell Road,Greasby,Wirral
+2021-04-23,245000,CH49 2NN,D,N,F,43,,Greenway,Greasby,Wirral
+2021-04-23,210000,CH49 0WJ,T,N,L,20,,Malley Close,,Wirral
+2021-04-22,150000,CH49 2QD,S,N,F,42,,Summertrees Avenue,,Wirral
+2021-04-19,223000,CH49 6NB,D,N,F,16,,Larcombe Avenue,,Wirral
+2021-04-19,400000,CH49 6LA,S,N,F,38,,South Drive,Upton,Wirral
+2021-04-19,48000,CH49 4PP,F,N,L,Liege House,Flat 16,Manorside Close,,Wirral
+2021-04-19,195000,CH49 4LE,S,N,F,45,,Brookside Crescent,,Wirral
+2021-04-16,229500,CH49 3QU,D,N,F,1,,Ashdown Drive,,Wirral
+2021-04-16,240000,CH49 2PG,D,N,F,249,,Greasby Road,Greasby,Wirral
+2021-04-16,205000,CH49 2NQ,T,N,F,41,,Broadway,Greasby,Wirral
+2021-04-15,190000,CH49 2QD,S,N,F,34,,Summertrees Avenue,,Wirral
+2021-04-15,210500,CH49 1RT,T,N,F,25,,Harvey Avenue,,Wirral
+2021-04-15,365000,CH49 0WL,D,N,F,16,,Arkill Gardens,,Wirral
+2021-04-12,165000,CH49 4RU,S,N,F,111,,Saughall Massie Road,Upton,Wirral
+2021-04-12,355000,CH49 3AJ,D,N,F,17,,Coleman Drive,Greasby,Wirral
+2021-04-12,250000,CH49 0UG,S,N,F,65,,Arrowe Park Road,,Wirral
+2021-04-09,102000,CH49 8EJ,T,N,F,119,,Hoole Road,,Wirral
+2021-04-09,123000,CH49 7LU,S,N,F,25,,Schoolfield Road,,Wirral
+2021-04-09,320000,CH49 6LN,D,N,F,7,,Upland Road,Upton,Wirral
+2021-04-09,182000,CH49 4QL,S,N,F,4,,Sycamore Close,,Wirral
+2021-04-09,190000,CH49 4QL,S,N,F,17,,Sycamore Close,,Wirral
+2021-04-09,185000,CH49 4GD,D,N,F,112,,Norwich Drive,,Wirral
+2021-04-09,190000,CH49 0WG,T,N,L,11,,Hosking Close,,Wirral
+2021-04-07,90000,CH49 7LR,T,N,F,4,,Church Lane,Upton,Wirral
+2021-04-07,280000,CH49 1RS,S,N,F,17,,Leslie Avenue,,Wirral
+2021-04-07,211250,CH49 0WJ,T,N,L,14,,Malley Close,,Wirral
+2021-04-01,110000,CH49 9AN,T,N,F,152,,Big Meadow Road,,Wirral
+2021-04-01,195000,CH49 6PE,S,N,F,4,,Rendelsham Close,,Wirral
+2021-04-01,177000,CH49 5NA,T,N,F,6,,Goodakers Meadow,,Wirral
+2021-03-31,112500,CH49 8EX,T,N,F,23,,Orrets Meadow Road,,Wirral
+2021-03-31,130000,CH49 7NU,T,N,F,30,,Grasswood Road,,Wirral
+2021-03-31,185950,CH49 6QD,D,N,F,7,,Nuffield Close,,Wirral
+2021-03-31,285000,CH49 6LN,S,N,F,8,,Upland Road,Upton,Wirral
+2021-03-31,63500,CH49 5NB,F,N,L,2,,Goodakers Court,,Wirral
+2021-03-31,167000,CH49 4PY,S,N,F,5,,Kestrel Close,,Wirral
+2021-03-31,160000,CH49 4GN,T,N,F,12,,Litcham Close,,Wirral
+2021-03-31,175000,CH49 2RU,S,N,F,12,,Oakmere Drive,Greasby,Wirral
+2021-03-31,200000,CH49 2RH,S,N,F,2,,Dunning Close,,Wirral
+2021-03-31,334000,CH49 2PU,D,N,F,50,,Wood Lane,Greasby,Wirral
+2021-03-31,325000,CH49 1SE,D,N,F,4,,Escolme Drive,,Wirral
+2021-03-31,306000,CH49 1RA,S,N,F,68,,Arrowe Road,,Wirral
+2021-03-30,280000,CH49 2RF,D,N,F,7,,Glentree Close,,Wirral
+2021-03-29,107000,CH49 5PB,T,N,F,133,,Arrowe Park Road,,Wirral
+2021-03-26,130000,CH49 9AD,T,N,F,6,,Leeswood Road,,Wirral
+2021-03-26,467500,CH49 6QE,D,N,F,5,,Kirkmount,,Wirral
+2021-03-26,160000,CH49 4PS,S,N,F,33,,Kingfisher Way,,Wirral
+2021-03-26,183500,CH49 4LG,S,N,L,21,,Girtrell Road,,Wirral
+2021-03-26,249950,CH49 4LE,S,N,F,29,,Brookside Crescent,,Wirral
+2021-03-26,249950,CH49 3NX,S,N,F,9,,Barker Lane,,Wirral
+2021-03-26,375000,CH49 3NP,D,N,F,25,,Elm Drive,Greasby,Wirral
+2021-03-26,277500,CH49 3NE,D,N,F,50,,Greasby Road,Greasby,Wirral
+2021-03-26,180000,CH49 2RJ,S,N,F,2,,Whitelands Meadow,,Wirral
+2021-03-25,220000,CH49 3QW,T,N,F,20,,Chippenham Avenue,Greasby,Wirral
+2021-03-24,275000,CH49 3PJ,D,N,F,417,,Frankby Road,Greasby,Wirral
+2021-03-23,168000,CH49 4GS,S,N,F,23,,Littlemore Close,,Wirral
+2021-03-22,230000,CH49 6QW,D,N,F,2,,Bowscale Close,,Wirral
+2021-03-22,325000,CH49 2RQ,D,N,F,1,,Hazelwood,,Wirral
+2021-03-22,145000,CH49 2PP,F,N,L,"Arrowe Brook Court, 302",7,Greasby Road,Greasby,Wirral
+2021-03-19,110000,CH49 7PF,T,N,F,45,,Hoole Road,,Wirral
+2021-03-19,150000,CH49 4RA,S,N,F,16,,Butterton Avenue,,Wirral
+2021-03-19,189000,CH49 4PY,S,N,F,16,,Kestrel Close,,Wirral
+2021-03-19,180000,CH49 4PT,D,N,F,17,,Merlin Avenue,,Wirral
+2021-03-18,87500,CH49 5NZ,F,N,L,109,,Woodvale Court,,Wirral
+2021-03-18,118000,CH49 4RY,F,N,L,25,,Ladybower Close,,Wirral
+2021-03-18,150000,CH49 4QQ,S,N,F,3,,Wellbrae Close,,Wirral
+2021-03-18,237000,CH49 4GT,S,N,F,16,,Binsey Close,,Wirral
+2021-03-17,66500,CH49 5NY,F,N,L,93,,Beechwood Court,,Wirral
+2021-03-16,210000,CH49 5LT,S,N,F,48,,Sherry Lane,,Wirral
+2021-03-15,227500,CH49 6LU,S,N,F,18,,Frankby Grove,,Wirral
+2021-03-15,240000,CH49 3QL,D,N,F,4,,Magnolia Walk,,Wirral
+2021-03-15,210000,CH49 2NH,S,N,F,18,,Brookway,,Wirral
+2021-03-12,108000,CH49 8EF,S,N,F,52,,Ferny Brow Road,,Wirral
+2021-03-12,190000,CH49 4PR,S,N,F,48,,Kingfisher Way,,Wirral
+2021-03-12,178000,CH49 4PD,S,N,F,40,,Ronaldsway,Upton,Wirral
+2021-03-12,325000,CH49 3NX,D,N,F,2,,Barker Lane,,Wirral
+2021-03-12,190000,CH49 0UW,S,N,F,52,,Mavis Drive,,Wirral
+2021-03-11,256000,CH49 2ND,S,N,F,25,,Kirkway,Greasby,Wirral
+2021-03-10,348000,CH49 2RE,D,N,F,64A,,Hambledon Drive,,Wirral
+2021-03-05,140000,CH49 7NA,T,N,F,31,,Robin Way,,Wirral
+2021-03-05,61500,CH49 6PY,F,N,L,Fernwood,Apartment 26,Church Road,Upton,Wirral
+2021-03-05,218500,CH49 6PH,D,N,F,12,,Bramford Close,,Wirral
+2021-03-05,280000,CH49 6JX,S,N,F,5,,West Drive,Upton,Wirral
+2021-03-05,200000,CH49 4RD,D,N,F,12,,Blakenhall Way,,Wirral
+2021-03-05,202000,CH49 2RP,S,N,F,18,,The Crofters,Greasby,Wirral
+2021-03-05,285000,CH49 2QY,D,N,F,1,,The Planters,,Wirral
+2021-03-05,296000,CH49 1RP,S,N,F,17,,Ferguson Avenue,Greasby,Wirral
+2021-03-04,182500,CH49 6PW,S,N,F,24,,Wallingford Road,,Wirral
+2021-03-03,188000,CH49 5LZ,S,N,F,19,,Fleetcroft Road,,Wirral
+2021-03-01,232500,CH49 6JS,S,N,F,16,,Arborn Drive,Upton,Wirral
+2021-03-01,147500,CH49 4GA,S,N,F,20,,Pennystone Close,,Wirral
+2021-03-01,118500,CH49 0US,S,N,F,The Cottage 28A,,Rake Lane,,Wirral
+2021-02-26,139950,CH49 9BR,S,N,F,30,,Poolwood Road,,Wirral
+2021-02-26,95000,CH49 7NQ,T,N,F,65,,Carr Bridge Road,,Wirral
+2021-02-26,420000,CH49 4NU,D,N,F,"Fernlea House, 3",,Fernbank Lane,,Wirral
+2021-02-26,212000,CH49 3NW,S,N,F,17,,Mill Lane,Greasby,Wirral
+2021-02-26,310000,CH49 3LZ,D,N,F,"Sycamores, 2",,Pump Lane,Greasby,Wirral
+2021-02-26,195000,CH49 2RH,S,N,F,19,,Dunning Close,,Wirral
+2021-02-26,235024,CH49 2ND,S,N,F,24,,Kirkway,Greasby,Wirral
+2021-02-25,380000,CH49 6ND,D,N,F,108,,Saughall Massie Lane,,Wirral
+2021-02-25,280000,CH49 6LP,S,N,F,46,,Upland Road,Upton,Wirral
+2021-02-24,210000,CH49 2NR,S,N,F,4,,Westway,Greasby,Wirral
+2021-02-24,317500,CH49 1RL,S,N,F,5,,The Close,Greasby,Wirral
+2021-02-24,147950,CH49 0WD,F,N,L,27,,Atholl Duncan Drive,,Wirral
+2021-02-23,195000,CH49 4NX,S,N,F,16,,Doncaster Drive,,Wirral
+2021-02-23,370000,CH49 3PU,D,N,F,8,,Thorns Drive,Greasby,Wirral
+2021-02-23,365000,CH49 3AE,D,N,F,18,,Lombardy Avenue,Greasby,Wirral
+2021-02-22,215000,CH49 6QW,D,N,F,10,,Bowscale Close,,Wirral
+2021-02-19,130000,CH49 8ED,T,N,F,98,,Pemberton Road,,Wirral
+2021-02-19,139000,CH49 6JY,F,N,L,Aughton Court,Flat 21,Church Road,Upton,Wirral
+2021-02-19,99000,CH49 5NW,F,N,L,19,,Maritime Court,,Wirral
+2021-02-19,184500,CH49 3QL,S,N,F,3,,Magnolia Walk,,Wirral
+2021-02-19,80000,CH49 3AP,S,N,L,39,,Stanmore Park,Greasby,Wirral
+2021-02-19,395000,CH49 1SH,D,N,F,24,,Gordon Avenue,Greasby,Wirral
+2021-02-18,182500,CH49 4NX,S,N,F,27,,Doncaster Drive,,Wirral
+2021-02-17,110000,CH49 7LQ,T,N,F,143,,Home Farm Road,,Wirral
+2021-02-17,200000,CH49 4LF,S,N,F,2,,Brookside Crescent,,Wirral
+2021-02-15,225000,CH49 1RG,S,N,F,6,,Lloyd Drive,,Wirral
+2021-02-12,195000,CH49 4NP,D,N,F,51,,Elm Avenue,,Wirral
+2021-02-12,250000,CH49 2QQ,D,N,F,29,,Redford Close,,Wirral
+2021-02-12,480000,CH49 0TF,D,N,F,24,,Ford Road,,Wirral
+2021-02-11,335000,CH49 6NF,S,N,F,53,,Warwick Road,,Wirral
+2021-02-08,79000,CH49 7LQ,F,N,L,193,,Home Farm Road,,Wirral
+2021-02-08,275000,CH49 6LB,S,N,F,40,,Shrewsbury Drive,,Wirral
+2021-02-08,188870,CH49 6JP,S,N,F,48,,Upton Park Drive,,Wirral
+2021-02-08,120000,CH49 5LG,T,N,F,11,,Home Farm Road,,Wirral
+2021-02-08,185000,CH49 0XT,S,N,F,30,,Whiteside Close,,Wirral
+2021-02-08,389950,CH49 0WD,D,N,L,9,,Atholl Duncan Drive,,Wirral
+2021-02-05,182000,CH49 6PW,D,N,F,19,,Wallingford Road,,Wirral
+2021-02-05,230000,CH49 6JT,T,N,F,10,,Hill View Drive,,Wirral
+2021-02-05,177500,CH49 6JP,S,N,F,18,,Upton Park Drive,,Wirral
+2021-02-05,185000,CH49 5LT,S,N,F,23,,Sherry Lane,,Wirral
+2021-02-05,298000,CH49 3AQ,D,N,F,12,,Padstow Road,Greasby,Wirral
+2021-02-05,192500,CH49 2NF,S,N,F,30,,Cortsway West,,Wirral
+2021-02-05,225000,CH49 1SH,S,N,F,18,,Gordon Avenue,Greasby,Wirral
+2021-02-05,480000,CH49 0UA,S,N,F,Merrills House,,Merrills Lane,,Wirral
+2021-02-04,210000,CH49 6JT,S,N,F,13,,Hill View Drive,,Wirral
+2021-01-29,115000,CH49 9BW,T,N,F,104,,Orrets Meadow Road,,Wirral
+2021-01-29,118000,CH49 8JA,T,N,F,46,,The Meadow,,Wirral
+2021-01-29,98000,CH49 7LU,T,N,F,38,,Schoolfield Road,,Wirral
+2021-01-29,160000,CH49 5NG,S,N,F,16,,Eltham Green,,Wirral
+2021-01-29,186000,CH49 4SA,T,N,F,23,,Webster Drive,,Wirral
+2021-01-29,207000,CH49 4PE,S,N,F,7,,Whitewell Drive,,Wirral
+2021-01-29,167000,CH49 4GQ,S,N,F,14,,Headington Road,,Wirral
+2021-01-28,106500,CH49 8HS,T,N,F,59,,Greenwood Road,Upton,Wirral
+2021-01-28,180000,CH49 3PQ,S,N,F,2A,,Hendon Walk,,Wirral
+2021-01-28,162000,CH49 3AP,S,N,F,32,,Stanmore Park,Greasby,Wirral
+2021-01-28,280000,CH49 1RD,S,N,F,41,,Rigby Drive,,Wirral
+2021-01-28,147000,CH49 0TN,T,N,F,61,,Salacre Lane,,Wirral
+2021-01-27,315000,CH49 1SJ,S,N,F,40,,Appleton Drive,Greasby,Wirral
+2021-01-26,225000,CH49 6NT,S,N,F,89,,Manor Drive,,Wirral
+2021-01-26,425000,CH49 6JF,D,N,F,30,,Manor Drive,,Wirral
+2021-01-26,272000,CH49 3PT,D,N,F,3,,Frankby Close,,Wirral
+2021-01-26,282500,CH49 3AQ,D,N,F,25,,Padstow Road,Greasby,Wirral
+2021-01-25,157000,CH49 3AP,S,N,F,11,,Stanmore Park,Greasby,Wirral
+2021-01-22,190000,CH49 4LG,S,N,L,19,,Girtrell Road,,Wirral
+2021-01-22,275000,CH49 1SE,D,N,F,13,,Escolme Drive,,Wirral
+2021-01-21,245000,CH49 1SF,S,N,F,38,,Escolme Drive,,Wirral
+2021-01-20,115000,CH49 7LY,T,N,F,11,,Sandfield Road,Upton,Wirral
+2021-01-18,375000,CH49 6NP,D,N,F,7,,The Paddock,Upton,Wirral
+2021-01-18,175000,CH49 3QW,D,N,F,14,,Chippenham Avenue,Greasby,Wirral
+2021-01-18,165000,CH49 0TN,T,N,F,65,,Salacre Lane,,Wirral
+2021-01-15,128000,CH49 7LT,T,N,F,74,,Sandfield Road,Upton,Wirral
+2021-01-15,360000,CH49 3NL,D,N,F,31,,Hillcrest Drive,Greasby,Wirral
+2021-01-12,45000,CH49 4RP,F,N,L,Bower House,Apartment 27,Manorside Close,,Wirral
+2021-01-08,122500,CH49 7NQ,T,N,F,63,,Carr Bridge Road,,Wirral
+2021-01-08,245000,CH49 2NS,S,N,F,35,,Eastway,Greasby,Wirral
+2021-01-08,372500,CH49 1SW,D,N,F,64,,Caulfield Drive,Greasby,Wirral
+2021-01-06,195500,CH49 6NS,S,N,F,27,,Old Greasby Road,,Wirral
+2021-01-05,435000,CH49 0TG,D,N,F,78,,Ford Road,,Wirral

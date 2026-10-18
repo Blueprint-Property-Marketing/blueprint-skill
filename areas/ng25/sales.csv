@@ -1,0 +1,849 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-14,270000,NG25 0JB,S,N,F,5,,Bramley Close,,Southwell
+2026-08-12,379000,NG25 0DD,D,N,F,6,,Pinewood Close,,Southwell
+2026-08-07,635000,NG25 0UW,D,N,F,Beechwood,,Gravelly Lane,Fiskerton,Southwell
+2026-07-30,365000,NG25 0NH,S,N,F,4,,Oxton Road,,Southwell
+2026-07-29,433000,NG25 0RZ,S,N,F,25,,The Rise,,Southwell
+2026-07-24,350000,NG25 0NJ,D,N,F,12,,Dudley Doy Road,,Southwell
+2026-07-24,430000,NG25 0LS,D,N,F,83,,Westgate,,Southwell
+2026-07-24,450000,NG25 0EU,D,N,F,28,,Dornoch Avenue,,Southwell
+2026-07-23,450000,NG25 0EQ,T,N,F,1,,Meadow View,,Southwell
+2026-07-16,730000,NG25 0NX,D,N,F,67,,Hopewell Rise,,Southwell
+2026-07-14,467500,NG25 0LT,D,N,F,"Century House, 100",,Westgate,,Southwell
+2026-07-14,450000,NG25 0DG,D,N,F,10,,Kirkby Close,,Southwell
+2026-07-10,285000,NG25 0JE,D,N,F,19,,Metcalfe Close,,Southwell
+2026-07-09,207000,NG25 0SL,T,N,F,5,,New Road,Oxton,Southwell
+2026-06-30,395000,NG25 0ET,T,N,F,4,,Station Road,,Southwell
+2026-06-22,206500,NG25 0JN,S,N,F,37,,Westgate,,Southwell
+2026-06-10,195000,NG25 0AZ,T,N,L,3,,Wolsey Close,,Southwell
+2026-06-03,355000,NG25 0HY,D,N,F,10,,Easthorpe,,Southwell
+2026-05-27,435000,NG25 0LU,D,N,F,1A,,Micklebarrow Close,,Southwell
+2026-05-21,720000,NG25 0JF,D,N,F,15,,Wakeling Close,,Southwell
+2026-05-13,580000,NG25 0UP,D,N,F,12,,Longmead Drive,Fiskerton,Southwell
+2026-05-11,1450000,NG25 0NG,D,N,F,The Garden House,,Westhorpe,,Southwell
+2026-04-17,575000,NG25 0UG,D,N,F,Archways,,Station Road,Fiskerton,Southwell
+2026-04-17,835000,NG25 0RB,D,N,F,Deer Leap,,Oxton Hill,,Southwell
+2026-04-17,75000,NG25 0NX,S,N,L,47,,Hopewell Rise,,Southwell
+2026-04-17,198000,NG25 0BE,S,N,L,2,,Mayhill,,Southwell
+2026-04-08,544400,NG25 0NJ,D,N,F,21,,Dudley Doy Road,,Southwell
+2026-04-07,292500,NG25 0HH,S,N,F,3,,Handford Court,,Southwell
+2026-04-02,187500,NG25 0UN,T,N,F,California Cottages,2,Main Street,Fiskerton,Southwell
+2026-04-02,325000,NG25 0EZ,S,N,F,3,,Dover Street,,Southwell
+2026-04-01,310000,NG25 0BU,D,N,F,35,,Silvey Avenue,,Southwell
+2026-03-31,238000,NG25 0BU,S,N,F,22,,Silvey Avenue,,Southwell
+2026-03-30,270000,NG25 0JB,S,N,F,5,,Bramley Close,,Southwell
+2026-03-27,400000,NG25 0NX,D,N,F,31,,Hopewell Rise,,Southwell
+2026-03-27,530000,NG25 0FX,T,N,F,3,,Bechers Court,Burgage,Southwell
+2026-03-27,363000,NG25 0DW,D,N,F,11,,Byron Gardens,,Southwell
+2026-03-27,435000,NG25 0DA,D,N,F,4,,Woodland Drive,,Southwell
+2026-03-25,485000,NG25 0UW,D,N,F,Lampards,,Gravelly Lane,Fiskerton,Southwell
+2026-03-25,310000,NG25 0LB,D,N,F,8,,Honing Drive,,Southwell
+2026-03-24,882500,NG25 0HQ,D,N,F,67E,,Church Street,,Southwell
+2026-03-23,682500,NG25 0UW,D,N,F,Blaeberry,,Gravelly Lane,Fiskerton,Southwell
+2026-03-20,265000,NG25 0BP,S,N,F,13,,Arnold Avenue,,Southwell
+2026-03-20,179500,NG25 0AZ,T,N,L,10,,Wolsey Close,,Southwell
+2026-03-12,470000,NG25 0SR,D,N,F,2,,Orchard Court,Oxton,Southwell
+2026-03-12,315000,NG25 0SL,S,N,F,Penn Cottage,,New Road,Oxton,Southwell
+2026-02-27,225000,NG25 0TH,S,N,F,49,,Fiskerton Road,,Southwell
+2026-02-25,440000,NG25 0UG,S,N,F,Vine Cottage,,Station Road,Fiskerton,Southwell
+2026-02-25,235000,NG25 0LX,T,N,F,17,,Landseer Road,,Southwell
+2026-02-20,319950,NG25 0HR,S,N,F,4,,Palace View,,Southwell
+2026-02-20,670000,NG25 0FJ,D,N,F,3,,Cedar Green,,Southwell
+2026-02-19,550000,NG25 0NJ,D,N,F,9,,Dudley Doy Road,,Southwell
+2026-02-19,430000,NG25 0LT,D,N,F,138,,Westgate,,Southwell
+2026-02-11,238250,NG25 0RU,T,N,F,The Vineries,3,Kirklington Road,,Southwell
+2026-02-06,800000,NG25 0TX,D,N,F,Peasbloom,,Crew Lane,,Southwell
+2026-02-04,540000,NG25 0TY,D,N,F,1,,Cottams Close,,Southwell
+2026-02-02,290000,NG25 0HQ,D,N,F,65,,Church Street,,Southwell
+2026-01-30,263129,NG25 0BH,S,N,F,95,,Lower Kirklington Road,,Southwell
+2026-01-23,465000,NG25 0EE,D,N,F,11,,Greet Park Close,,Southwell
+2026-01-21,475000,NG25 0RL,D,N,F,34,,Archers Field,,Southwell
+2026-01-21,575000,NG25 0RL,D,N,F,16,,Archers Field,,Southwell
+2026-01-19,735000,NG25 0PJ,D,N,F,The Stables,,Kirklington Road,Hockerton,Southwell
+2026-01-15,360000,NG25 0EY,S,N,F,8,,Chatham Street,,Southwell
+2026-01-08,915000,NG25 0FU,D,N,F,Oaklands,,Avondale Lane,,Southwell
+2026-01-08,217500,NG25 0EB,T,N,F,2,,Heywood Close,,Southwell
+2025-12-19,190700,NG25 0TH,T,N,F,51,,Fiskerton Road,,Southwell
+2025-12-19,225000,NG25 0HY,F,N,L,23A,,Easthorpe,,Southwell
+2025-12-19,255000,NG25 0BA,D,N,F,20,,Leeks Close,,Southwell
+2025-12-18,425000,NG25 0BL,D,N,F,9,,Crafts Way,,Southwell
+2025-12-15,570000,NG25 0SA,D,N,F,Corner Cottage,,Main Street,Oxton,Southwell
+2025-12-12,845000,NG25 0DX,D,N,F,Pear Tree Cottage,,Lower Kirklington Road,,Southwell
+2025-12-12,585000,NG25 0DW,D,N,F,"Stenbury House, 17",,Byron Gardens,,Southwell
+2025-12-12,495000,NG25 0DW,D,N,F,6,,Byron Gardens,,Southwell
+2025-12-11,315000,NG25 0NW,S,N,F,29,,Trinity Road,,Southwell
+2025-12-04,459680,NG25 0GE,D,Y,F,8,,Woodhouse Road,,Southwell
+2025-11-25,600000,NG25 0NX,D,N,F,65,,Hopewell Rise,,Southwell
+2025-11-25,110000,NG25 0GL,F,N,L,Greet Lily Mill,21,Station Road,,Southwell
+2025-11-24,465000,NG25 0RL,D,N,F,6,,Archers Field,,Southwell
+2025-11-21,320000,NG25 0RZ,S,N,F,3,,The Rise,,Southwell
+2025-11-21,505000,NG25 0PL,D,N,F,Belvoir View,,Caunton Road,Hockerton,Southwell
+2025-11-21,230000,NG25 0GN,T,N,F,1,,Town Mill Close,,Southwell
+2025-11-21,130000,NG25 0GL,F,N,L,Greet Lily Mill,20,Station Road,,Southwell
+2025-11-12,308000,NG25 0JB,S,N,F,1,,Bramley Close,,Southwell
+2025-11-12,590000,NG25 0AQ,D,N,F,17,,Hillcrest,,Southwell
+2025-11-07,599950,NG25 0GE,D,Y,F,44,,Woodhouse Road,,Southwell
+2025-11-06,520000,NG25 0FX,F,N,L,28,,Bechers Court,Burgage,Southwell
+2025-11-03,390000,NG25 0JE,D,N,F,16,,Metcalfe Close,,Southwell
+2025-11-03,228000,NG25 0BA,D,N,F,4,,Leeks Close,,Southwell
+2025-10-31,651000,NG25 0ER,S,N,F,"Old Forge Cottage, 2A",,Burgage Lane,,Southwell
+2025-10-30,485000,NG25 0UP,D,N,F,26,,Longmead Drive,Fiskerton,Southwell
+2025-10-24,90000,NG25 0NX,S,N,L,54,,Hopewell Rise,,Southwell
+2025-10-17,390000,NG25 0JX,T,N,F,90,,Westgate,,Southwell
+2025-10-17,235000,NG25 0BT,S,N,F,22,,Springfield Road,,Southwell
+2025-10-16,375000,NG25 0NP,S,N,F,6,,Trinity Road,,Southwell
+2025-10-16,190000,NG25 0FT,F,N,L,River Greet Apartments,9,Racecourse Road,,Southwell
+2025-10-13,480000,NG25 0AY,D,N,F,4,,Kirklington Road,,Southwell
+2025-10-06,360000,NG25 0EJ,D,N,F,3,,Private Road,,Southwell
+2025-10-03,505000,NG25 0RZ,D,N,F,24,,The Rise,,Southwell
+2025-10-03,385000,NG25 0JZ,D,N,F,15,,Hillside Drive,,Southwell
+2025-10-03,435000,NG25 0GE,D,Y,F,46,,Woodhouse Road,,Southwell
+2025-10-03,175000,NG25 0EZ,T,N,F,22,,Dover Street,,Southwell
+2025-10-03,620000,NG25 0AL,D,N,F,1,,The Ropewalk,,Southwell
+2025-10-01,115000,NG25 0JX,F,N,L,"Tudor House, 72",Flat 3,Westgate,,Southwell
+2025-09-30,325000,NG25 0NP,S,N,F,22,,Trinity Road,,Southwell
+2025-09-30,260000,NG25 0BT,S,N,F,44,,Springfield Road,,Southwell
+2025-09-29,196000,NG25 0DT,S,N,F,13,,Norwood Gardens,,Southwell
+2025-09-26,406000,NG25 0NX,D,N,F,33,,Hopewell Rise,,Southwell
+2025-09-26,905000,NG25 0FY,D,N,F,"Oakley House, 2",,Private Drive,,Southwell
+2025-09-26,335000,NG25 0AS,D,N,F,23,,Glenfields,,Southwell
+2025-09-23,682000,NG25 0SX,D,N,F,Orchard Close,,Honeyknab Lane,Oxton,Southwell
+2025-09-22,435000,NG25 0UP,D,N,F,8,,Longmead Drive,Fiskerton,Southwell
+2025-09-19,250000,NG25 0PD,T,N,F,2,,Cooks Lane,,Southwell
+2025-09-18,515000,NG25 0RL,D,N,F,28,,Archers Field,,Southwell
+2025-09-18,452500,NG25 0ET,S,N,F,7,,Station Road,,Southwell
+2025-09-12,519000,NG25 0FX,S,N,F,20,,Bechers Court,Burgage,Southwell
+2025-09-11,475000,NG25 0AW,D,N,F,6,,Monckton Drive,,Southwell
+2025-09-05,380000,NG25 0BH,D,N,F,59,,Lower Kirklington Road,,Southwell
+2025-09-01,920000,NG25 0RA,D,N,F,Ryefield,,Oxton Road,,Southwell
+2025-08-29,480000,NG25 0LG,D,N,F,Brandon House,,Nottingham Road,,Southwell
+2025-08-29,150000,NG25 0AY,T,N,F,36,,Kirklington Road,,Southwell
+2025-08-29,398000,NG25 0AE,D,N,F,12,,Chatsworth Avenue,,Southwell
+2025-08-28,625000,NG25 0DG,D,N,F,"Bramley House, 4",,Kirkby Close,,Southwell
+2025-08-28,435000,NG25 0BZ,D,N,F,59,,Leeway Road,,Southwell
+2025-08-22,400000,NG25 0ST,D,N,F,Wesley Farm,,Chapel Lane,Oxton,Southwell
+2025-08-21,630000,NG25 0PJ,D,N,F,Lakeside Barn,,Kirklington Road,Hockerton,Southwell
+2025-08-15,275000,NG25 0TF,T,N,F,3,,Church View,Oxton,Southwell
+2025-08-08,325000,NG25 0HQ,T,N,F,63,,Church Street,,Southwell
+2025-08-08,525000,NG25 0EQ,D,N,F,3,,Meadow View,,Southwell
+2025-08-06,477500,NG25 0DY,D,N,F,1,,Orchard Close,,Southwell
+2025-08-05,195000,NG25 0SL,T,N,F,9,,New Road,Oxton,Southwell
+2025-08-01,340000,NG25 0LD,S,N,F,69A,,Westgate,,Southwell
+2025-07-25,425000,NG25 0UL,D,N,F,Wymondley,,Main Street,Fiskerton,Southwell
+2025-07-25,462500,NG25 0HY,D,N,F,49 - 51,,Easthorpe,,Southwell
+2025-07-21,247000,NG25 0SB,S,N,F,50,,Elmcroft,Oxton,Southwell
+2025-07-18,224000,NG25 0FX,F,N,L,5,,Bechers Court,Burgage,Southwell
+2025-07-17,617500,NG25 0PX,D,N,F,Galley Hill Cottage,,Galley Hill Road,,Southwell
+2025-07-17,505000,NG25 0NH,D,N,F,Sunbury Cottage,,Oxton Road,,Southwell
+2025-07-11,235000,NG25 0HY,S,N,F,11,,Easthorpe,,Southwell
+2025-07-07,430000,NG25 0UP,D,N,F,5,,Longmead Drive,Fiskerton,Southwell
+2025-07-07,195000,NG25 0NG,F,N,L,Westhorpe Hall,Flat 6,Westhorpe,,Southwell
+2025-07-07,720000,NG25 0NF,D,N,F,Tanglewood,,The Holme,,Southwell
+2025-07-07,840000,NG25 0ER,D,N,F,Burgage Cottage,,Burgage Lane,,Southwell
+2025-07-07,585000,NG25 0EP,D,N,F,Elmfield Cottage,,Burgage,,Southwell
+2025-07-07,695000,NG25 0AE,D,N,F,19,,Chatsworth Avenue,,Southwell
+2025-07-04,435000,NG25 0AL,S,N,F,Merry Coin,,The Ropewalk,,Southwell
+2025-07-01,420000,NG25 0PX,D,N,F,3,,Galley Hill Road,,Southwell
+2025-07-01,262500,NG25 0LZ,T,N,F,14,,Landseer Road,,Southwell
+2025-07-01,870000,NG25 0FU,D,N,F,Avondale House,,Avondale Lane,,Southwell
+2025-06-27,255000,NG25 0LT,S,N,F,136,,Westgate,,Southwell
+2025-06-27,740000,NG25 0JT,D,N,F,10,,Wands Close,,Southwell
+2025-06-27,315555,NG25 0HH,T,N,F,4,,Handford Court,,Southwell
+2025-06-23,550000,NG25 0RL,D,N,F,15,,Archers Field,,Southwell
+2025-06-19,470000,NG25 0UW,D,N,F,Lindum House,,Gravelly Lane,Fiskerton,Southwell
+2025-06-16,245000,NG25 0DS,S,N,F,54,,Norwood Gardens,,Southwell
+2025-06-13,725000,NG25 0NE,D,N,F,37,,Westhorpe,,Southwell
+2025-06-12,410000,NG25 0BJ,D,N,F,1,,Stenton Close,,Southwell
+2025-06-09,755000,NG25 0FW,D,N,F,4,,Church Lane,Hockerton,Southwell
+2025-06-06,890000,NG25 0XG,D,N,F,Ebenezer House,,Main Street,Fiskerton,Southwell
+2025-05-30,445000,NG25 0UG,S,N,F,Woodlands,,Station Road,Fiskerton,Southwell
+2025-05-29,184000,NG25 0LN,T,N,F,3,,Howards Terrace,,Southwell
+2025-05-27,205000,NG25 0FT,F,N,L,River Greet Apartments,11,Racecourse Road,,Southwell
+2025-05-16,500000,NG25 0EQ,D,N,F,9,,Meadow View,,Southwell
+2025-05-16,410000,NG25 0DD,D,N,F,20,,Pinewood Close,,Southwell
+2025-05-15,255000,NG25 0DS,S,N,F,90,,Norwood Gardens,,Southwell
+2025-05-06,345000,NG25 0JG,T,N,F,14,,Palmers Court,,Southwell
+2025-05-02,215000,NG25 0SZ,S,N,F,6,,Forest Road,Oxton,Southwell
+2025-04-28,450000,NG25 0DN,D,N,F,10,,Lower Kirklington Road,,Southwell
+2025-04-25,184000,NG25 0SB,S,N,F,13,,Elmcroft,Oxton,Southwell
+2025-04-09,285000,NG25 0NF,S,N,F,45,,The Holme,,Southwell
+2025-03-31,475000,NG25 0AX,D,N,F,56,,Kirklington Road,,Southwell
+2025-03-28,600000,NG25 0TD,D,N,F,Godsons Cottage,,Forest Road,Oxton,Southwell
+2025-03-28,151000,NG25 0JY,T,N,F,3,,Archway Cottages,,Southwell
+2025-03-28,470500,NG25 0HA,D,N,F,17,,Riverside,,Southwell
+2025-03-28,240000,NG25 0DT,S,N,F,107,,Norwood Gardens,,Southwell
+2025-03-28,405000,NG25 0DD,D,N,F,2,,Pinewood Close,,Southwell
+2025-03-28,275000,NG25 0BY,D,N,F,1,,Nursery End,,Southwell
+2025-03-27,495000,NG25 0LA,D,N,F,Ingleborough,,Ash Tree Close,,Southwell
+2025-03-27,285000,NG25 0HH,S,N,F,5,,Handford Court,,Southwell
+2025-03-26,507500,NG25 0RL,D,N,F,19,,Archers Field,,Southwell
+2025-03-25,480000,NG25 0RL,D,N,F,21,,Archers Field,,Southwell
+2025-03-25,260000,NG25 0LS,T,N,F,99,,Westgate,,Southwell
+2025-03-25,520000,NG25 0JG,D,N,F,23,,Palmers Court,,Southwell
+2025-03-21,425000,NG25 0UW,D,N,F,White Gates,,Gravelly Lane,Fiskerton,Southwell
+2025-03-21,350000,NG25 0UL,T,N,F,Eagle House,1,Main Street,Fiskerton,Southwell
+2025-03-21,342000,NG25 0UG,D,N,F,Ash Trees,,Station Road,Fiskerton,Southwell
+2025-03-21,430000,NG25 0LB,D,N,F,23,,Honing Drive,,Southwell
+2025-03-21,345000,NG25 0EZ,D,N,F,11,,Dover Street,,Southwell
+2025-03-21,365000,NG25 0DU,S,N,F,38,,Ridgeway,,Southwell
+2025-03-21,330000,NG25 0BZ,D,N,F,41,,Leeway Road,,Southwell
+2025-03-21,417500,NG25 0AH,T,N,F,4,,Halam Road,,Southwell
+2025-03-21,469000,NG25 0AG,D,N,F,37,,Woodland View,,Southwell
+2025-03-19,135000,NG25 0EH,T,N,F,77,,King Street,,Southwell
+2025-03-18,185000,NG25 0RZ,F,N,L,19,,The Rise,,Southwell
+2025-03-14,530000,NG25 0JN,T,N,F,15A,,Westgate,,Southwell
+2025-03-11,328100,NG25 0AN,S,N,F,4,,Apple Tree Close,,Southwell
+2025-03-07,575000,NG25 0JF,D,N,F,1,,Wakeling Close,,Southwell
+2025-03-06,163500,NG25 0GL,F,N,L,Greet Lily Mill,23,Station Road,,Southwell
+2025-03-06,525000,NG25 0DN,T,N,F,8,,Lower Kirklington Road,,Southwell
+2025-02-28,432500,NG25 0RZ,S,N,F,25,,The Rise,,Southwell
+2025-02-28,270000,NG25 0BT,S,N,F,16,,Springfield Road,,Southwell
+2025-02-26,610000,NG25 0QP,D,N,F,Home Field,,,Halloughton,Southwell
+2025-02-25,196000,NG25 0EZ,F,N,L,2A,,Dover Street,,Southwell
+2025-02-24,295000,NG25 0ES,S,N,F,3,,Asquith Mews,,Southwell
+2025-02-17,274500,NG25 0LT,D,N,F,138,,Westgate,,Southwell
+2025-02-07,330000,NG25 0DR,D,N,F,105,,Lower Kirklington Road,,Southwell
+2025-02-06,125000,NG25 0PJ,D,N,F,Hideaway Barn,,Kirklington Road,Hockerton,Southwell
+2025-01-31,366500,NG25 0BZ,D,N,F,46,,Leeway Road,,Southwell
+2025-01-30,680000,NG25 0FL,D,N,F,2,,Tathams Orchard,,Southwell
+2025-01-24,282500,NG25 0SD,T,N,F,Willow Cottages,4,Main Street,Oxton,Southwell
+2025-01-24,70000,NG25 0NX,S,N,L,47,,Hopewell Rise,,Southwell
+2025-01-15,358000,NG25 0DR,D,N,F,109,,Lower Kirklington Road,,Southwell
+2025-01-09,190000,NG25 0DN,S,N,F,"The Cottage, 54",1,Lower Kirklington Road,,Southwell
+2025-01-07,570000,NG25 0FW,T,N,F,Manor Farm Barn,1,Church Lane,Hockerton,Southwell
+2025-01-07,240000,NG25 0BA,D,N,F,6,,Leeks Close,,Southwell
+2024-12-20,175000,NG25 0GL,F,N,L,Greet Lily Mill,4,Station Road,,Southwell
+2024-12-20,365000,NG25 0DB,D,N,F,16,,Fern Close,,Southwell
+2024-12-19,517500,NG25 0LP,D,N,F,35A,,Halloughton Road,,Southwell
+2024-12-16,220000,NG25 0AZ,T,N,L,16,,Wolsey Close,,Southwell
+2024-12-12,502500,NG25 0SA,D,N,F,Home Court,3,Main Street,Oxton,Southwell
+2024-12-10,385000,NG25 0BX,D,N,F,27,,Leeway Road,,Southwell
+2024-12-09,375000,NG25 0SB,S,N,F,7,,Elmcroft,Oxton,Southwell
+2024-12-06,665000,NG25 0RB,T,N,F,The Farmhouse,,Oxton Hill,,Southwell
+2024-12-06,207000,NG25 0EY,T,N,F,23,,Chatham Street,,Southwell
+2024-12-06,275000,NG25 0ER,T,N,F,6,,Burgage Lane,,Southwell
+2024-12-06,395000,NG25 0DP,D,N,F,80,,Lower Kirklington Road,,Southwell
+2024-11-29,330000,NG25 0NR,D,N,F,2,,The Paddocks,,Southwell
+2024-11-29,575000,NG25 0NF,D,N,F,Greenfields,,The Holme,,Southwell
+2024-11-28,2400000,NG25 0UH,D,N,F,Fiskerton Manor,,Rolleston Road,Fiskerton,Southwell
+2024-11-25,370000,NG25 0NJ,D,N,F,25,,Dudley Doy Road,,Southwell
+2024-11-22,332000,NG25 0NL,S,N,F,11,,Allenby Road,,Southwell
+2024-11-22,410000,NG25 0BL,D,N,F,31,,Crafts Way,,Southwell
+2024-11-21,225000,NG25 0JX,T,N,F,84,,Westgate,,Southwell
+2024-11-20,640000,NG25 0ES,S,N,F,3,,Newark Road,,Southwell
+2024-11-15,220000,NG25 0JE,T,N,F,6,,Metcalfe Close,,Southwell
+2024-11-14,325000,NG25 0LB,D,N,F,5,,Honing Drive,,Southwell
+2024-11-05,205000,NG25 0RS,F,N,L,The Old Silk Mill,24,,Maythorne,Southwell
+2024-10-31,530000,NG25 0SZ,D,N,F,Walnut Tree Cottage,,Forest Road,Oxton,Southwell
+2024-10-31,138000,NG25 0LW,F,N,L,12,,Moorfield Court,,Southwell
+2024-10-31,217155,NG25 0AZ,T,N,L,2,,Wolsey Close,,Southwell
+2024-10-30,325000,NG25 0LU,S,N,F,1,,Micklebarrow Close,,Southwell
+2024-10-30,168000,NG25 0HY,S,N,F,53,,Easthorpe,,Southwell
+2024-10-29,580000,NG25 0JN,S,N,F,9A,,Westgate,,Southwell
+2024-10-25,1250000,NG25 0TG,D,N,F,6,,Manor Close,Oxton,Southwell
+2024-10-25,875000,NG25 0SD,D,N,F,Hout Bay Cottage,,Main Street,Oxton,Southwell
+2024-10-24,290000,NG25 0DU,D,N,F,7,,Ridgeway,,Southwell
+2024-10-22,420000,NG25 0LP,D,N,F,53,,Halloughton Road,,Southwell
+2024-10-14,485000,NG25 0TY,D,N,F,6,,Cottams Close,,Southwell
+2024-10-14,150000,NG25 0DT,F,N,L,71,,Norwood Gardens,,Southwell
+2024-10-11,380000,NG25 0LB,D,N,F,24,,Honing Drive,,Southwell
+2024-10-11,150000,NG25 0GL,F,N,L,Greet Lily Mill,5,Station Road,,Southwell
+2024-10-04,380000,NG25 0HT,D,N,F,13,,Farthingate,,Southwell
+2024-10-04,460000,NG25 0AD,D,N,F,Trehowel,,Halam Road,,Southwell
+2024-10-03,450000,NG25 0UP,D,N,F,2,,Longmead Drive,Fiskerton,Southwell
+2024-10-03,245000,NG25 0JE,D,N,F,9,,Metcalfe Close,,Southwell
+2024-09-25,608000,NG25 0AE,D,N,F,14,,Chatsworth Avenue,,Southwell
+2024-09-24,325000,NG25 0BS,D,N,F,69,,Springfield Road,,Southwell
+2024-09-23,168000,NG25 0BA,D,N,F,4,,Leeks Close,,Southwell
+2024-09-20,500000,NG25 0HY,D,N,F,22,,Easthorpe,,Southwell
+2024-09-18,267500,NG25 0LZ,T,N,F,18,,Landseer Road,,Southwell
+2024-09-12,375000,NG25 0LB,D,N,F,32,,Honing Drive,,Southwell
+2024-09-12,271000,NG25 0BS,S,N,F,29,,Springfield Road,,Southwell
+2024-09-11,448500,NG25 0JS,D,N,F,9,,Lowes Wong,,Southwell
+2024-09-11,270000,NG25 0BU,S,N,F,16,,Silvey Avenue,,Southwell
+2024-09-10,520000,NG25 0LD,D,N,F,57,,Westgate,,Southwell
+2024-09-06,215000,NG25 0TH,T,N,F,65,,Fiskerton Road,,Southwell
+2024-09-06,1250000,NG25 0RP,D,N,F,Dumble House,,Oxton Road,,Southwell
+2024-09-05,345000,NG25 0HY,T,N,F,2,,Easthorpe,,Southwell
+2024-09-04,340000,NG25 0LB,D,N,F,34,,Honing Drive,,Southwell
+2024-08-30,267500,NG25 0LZ,S,N,F,36,,Landseer Road,,Southwell
+2024-08-30,320000,NG25 0DA,D,N,F,6,,Woodland Drive,,Southwell
+2024-08-28,750000,NG25 0NX,D,N,F,68,,Hopewell Rise,,Southwell
+2024-08-27,355000,NG25 0JS,D,N,F,26,,Lowes Wong,,Southwell
+2024-08-23,575000,NG25 0UG,D,N,F,Brooklyn,,Station Road,Fiskerton,Southwell
+2024-08-23,285000,NG25 0SB,S,N,F,26,,Elmcroft,Oxton,Southwell
+2024-08-23,300000,NG25 0JE,S,N,F,10,,Metcalfe Close,,Southwell
+2024-08-23,250000,NG25 0DP,S,N,F,86,,Lower Kirklington Road,,Southwell
+2024-08-23,335000,NG25 0BX,S,N,F,16,,Leeway Road,,Southwell
+2024-08-23,525000,NG25 0AE,D,N,F,11,,Chatsworth Avenue,,Southwell
+2024-08-19,540000,NG25 0QP,D,N,F,Ash View,,,Halloughton,Southwell
+2024-08-09,381500,NG25 0EZ,T,N,F,20,,Dover Street,,Southwell
+2024-08-01,150000,NG25 0RY,S,N,L,19,,Becketts Field,,Southwell
+2024-08-01,315000,NG25 0BT,S,N,F,4,,Springfield Road,,Southwell
+2024-07-25,300000,NG25 0BS,S,N,F,7,,Springfield Road,,Southwell
+2024-07-24,680000,NG25 0JF,D,N,F,12,,Wakeling Close,,Southwell
+2024-07-24,360000,NG25 0HT,D,N,F,6,,Farthingate,,Southwell
+2024-07-24,322500,NG25 0ER,T,N,F,4,,Burgage Lane,,Southwell
+2024-07-24,280000,NG25 0BX,D,N,F,23,,Leeway Road,,Southwell
+2024-07-24,480000,NG25 0AR,D,N,F,39,,Kirklington Road,,Southwell
+2024-07-19,430000,NG25 0HZ,D,N,F,141,,Easthorpe,,Southwell
+2024-07-16,345000,NG25 0DD,D,N,F,17,,Pinewood Close,,Southwell
+2024-07-12,275000,NG25 0NG,F,N,L,Westhorpe Hall,Flat 3,Westhorpe,,Southwell
+2024-07-12,270000,NG25 0EZ,T,N,F,4,,Dover Street,,Southwell
+2024-07-10,390000,NG25 0NX,D,N,F,63,,Hopewell Rise,,Southwell
+2024-07-05,335000,NG25 0HY,S,N,F,27,,Easthorpe,,Southwell
+2024-07-05,275000,NG25 0BP,S,N,F,3,,Arnold Avenue,,Southwell
+2024-07-05,570000,NG25 0AP,D,N,F,18,,Manor Close,,Southwell
+2024-07-02,484500,NG25 0AW,D,N,F,17,,Monckton Drive,,Southwell
+2024-06-28,1250000,NG25 0LT,S,N,F,104,,Westgate,,Southwell
+2024-06-21,185000,NG25 0HQ,F,N,L,Willoughby House,4,Church Street,,Southwell
+2024-06-17,245000,NG25 0NH,S,N,F,16,,Oxton Road,,Southwell
+2024-06-12,810000,NG25 0NG,S,N,F,Calverts House,,Westhorpe,,Southwell
+2024-06-07,495000,NG25 0NG,D,N,F,Home Farm Cottage,,Westhorpe,,Southwell
+2024-05-31,257000,NG25 0LX,T,N,F,15,,Landseer Road,,Southwell
+2024-05-31,173000,NG25 0GL,F,N,L,Greet Lily Mill,3,Station Road,,Southwell
+2024-05-31,530000,NG25 0DG,D,N,F,12,,Kirkby Close,,Southwell
+2024-05-31,415000,NG25 0DA,D,N,F,1,,Woodland Drive,,Southwell
+2024-05-31,587000,NG25 0AL,D,N,F,45,,The Ropewalk,,Southwell
+2024-05-24,525000,NG25 0HX,D,N,F,Beechdale,,Shady Lane,,Southwell
+2024-05-16,310000,NG25 0ES,S,N,F,2,,Asquith Mews,,Southwell
+2024-05-15,165000,NG25 0GL,F,N,L,Greet Lily Mill,13,Station Road,,Southwell
+2024-05-10,550000,NG25 0SR,D,N,F,1,,Orchard Court,Oxton,Southwell
+2024-05-03,145000,NG25 0JY,T,N,F,4,,Archway Cottages,,Southwell
+2024-04-30,268000,NG25 0NN,S,N,F,14,,Vicarage Road,,Southwell
+2024-04-26,435000,NG25 0UW,D,N,F,She Nee Tay,,Gravelly Lane,Fiskerton,Southwell
+2024-04-26,328000,NG25 0BX,S,N,F,18,,Leeway Road,,Southwell
+2024-04-24,237500,NG25 0BE,T,N,L,20,,Mayhill,,Southwell
+2024-04-23,304500,NG25 0BS,D,N,F,53,,Springfield Road,,Southwell
+2024-04-19,1700000,NG25 0QN,D,N,F,The Wilderness,,Park Lane,,Southwell
+2024-04-19,150000,NG25 0QN,D,N,F,The Wilderness,,Park Lane,,Southwell
+2024-04-19,325000,NG25 0FX,F,N,L,27,,Bechers Court,Burgage,Southwell
+2024-04-18,310000,NG25 0HQ,S,N,F,73,,Church Street,,Southwell
+2024-04-16,644000,NG25 0LR,D,N,F,Midway House,,Halloughton Road,,Southwell
+2024-04-09,280000,NG25 0BZ,D,N,F,63,,Leeway Road,,Southwell
+2024-04-05,210000,NG25 0DT,S,N,F,25,,Norwood Gardens,,Southwell
+2024-04-03,345000,NG25 0AN,D,N,F,18,,Apple Tree Close,,Southwell
+2024-04-02,162000,NG25 0LW,F,N,L,40,,Moorfield Court,,Southwell
+2024-03-21,410000,NG25 0LB,D,N,F,19,,Honing Drive,,Southwell
+2024-03-18,280000,NG25 0NX,S,N,F,62,,Hopewell Rise,,Southwell
+2024-03-13,680000,NG25 0AD,D,N,F,Milbon House,,Halam Road,,Southwell
+2024-03-08,300000,NG25 0DU,D,N,F,14,,Ridgeway,,Southwell
+2024-03-05,202500,NG25 0DT,S,N,F,67,,Norwood Gardens,,Southwell
+2024-03-01,280000,NG25 0NX,S,N,F,61,,Hopewell Rise,,Southwell
+2024-03-01,2175000,NG25 0JH,D,N,F,Rampton Prebend,,Westgate,,Southwell
+2024-02-23,430000,NG25 0DA,D,N,F,35,,Woodland Drive,,Southwell
+2024-02-19,449000,NG25 0JZ,D,N,F,1,,Hillside Drive,,Southwell
+2024-02-15,427500,NG25 0UP,D,N,F,1,,Longmead Drive,Fiskerton,Southwell
+2024-02-13,312500,NG25 0BT,S,N,F,54,,Springfield Road,,Southwell
+2024-02-09,221000,NG25 0AY,T,N,F,42,,Kirklington Road,,Southwell
+2024-02-08,1090500,NG25 0HY,D,N,F,36,,Easthorpe,,Southwell
+2024-02-05,213000,NG25 0DN,T,N,F,Chimney Cottage,,Lower Kirklington Road,,Southwell
+2024-02-02,340000,NG25 0DU,D,N,F,35,,Ridgeway,,Southwell
+2024-01-26,250000,NG25 0NW,S,N,F,25,,Trinity Road,,Southwell
+2024-01-26,430000,NG25 0JG,T,N,F,3,,Palmers Court,,Southwell
+2024-01-26,402000,NG25 0HZ,S,N,F,Old School House,,Easthorpe,,Southwell
+2024-01-24,517500,NG25 0ED,D,N,F,4,,Marrison Way,,Southwell
+2024-01-19,370000,NG25 0BL,D,N,F,33,,Crafts Way,,Southwell
+2024-01-12,180000,NG25 0EX,F,N,L,12,,Abbey Mews,,Southwell
+2024-01-08,200000,NG25 0BU,S,N,F,10,,Silvey Avenue,,Southwell
+2024-01-05,1150000,NG25 0JN,D,N,F,31,,Westgate,,Southwell
+2024-01-05,770000,NG25 0DG,D,N,F,2,,Kirkby Close,,Southwell
+2023-12-19,525000,NG25 0AW,D,N,F,21,,Monckton Drive,,Southwell
+2023-12-19,625000,NG25 0AL,D,N,F,47,,The Ropewalk,,Southwell
+2023-12-18,495000,NG25 0AY,D,N,F,2A,,Kirklington Road,,Southwell
+2023-12-15,313000,NG25 0UL,D,N,F,Anchor Down,,Main Street,Fiskerton,Southwell
+2023-12-15,208000,NG25 0BA,D,N,F,19,,Leeks Close,,Southwell
+2023-12-11,1015000,NG25 0UZ,D,N,F,1,,Manor Drive,Morton,Southwell
+2023-12-11,360000,NG25 0AS,D,N,F,13,,Glenfields,,Southwell
+2023-12-08,225000,NG25 0JN,D,N,F,41,,Westgate,,Southwell
+2023-12-08,450000,NG25 0AX,D,N,F,52,,Kirklington Road,,Southwell
+2023-12-07,467500,NG25 0LP,D,N,F,13,,Halloughton Road,,Southwell
+2023-12-06,705000,NG25 0BB,D,N,F,6,,Beaumont Avenue,,Southwell
+2023-12-04,320000,NG25 0JG,T,N,F,10,,Palmers Court,,Southwell
+2023-12-04,315000,NG25 0AJ,T,N,F,76,,The Ropewalk,,Southwell
+2023-12-01,450000,NG25 0UB,D,N,F,27,,Marlock Close,Fiskerton,Southwell
+2023-12-01,335000,NG25 0BH,S,N,F,87,,Lower Kirklington Road,,Southwell
+2023-11-27,330000,NG25 0JS,D,N,F,7,,Lowes Wong,,Southwell
+2023-11-23,270000,NG25 0BP,S,N,F,11,,Arnold Avenue,,Southwell
+2023-11-22,662500,NG25 0HY,D,N,F,18,,Easthorpe,,Southwell
+2023-11-22,220000,NG25 0EX,F,N,L,10,,Abbey Mews,,Southwell
+2023-11-22,1097384,NG25 0AY,D,N,F,4B,,Kirklington Road,,Southwell
+2023-11-21,610000,NG25 0SR,D,N,F,4,,Orchard Court,Oxton,Southwell
+2023-11-17,665000,NG25 0UL,D,N,F,Merton Cottage,,Main Street,Fiskerton,Southwell
+2023-11-17,335000,NG25 0HQ,F,N,L,South Muskham Prebend,1,Church Street,,Southwell
+2023-11-10,320000,NG25 0SD,T,N,F,Willow Cottages,1,Main Street,Oxton,Southwell
+2023-11-10,120000,NG25 0JX,F,N,L,"Tudor House, 72",Flat 1,Westgate,,Southwell
+2023-10-31,400000,NG25 0BH,D,N,F,64,,Lower Kirklington Road,,Southwell
+2023-10-27,225000,NG25 0RS,F,N,L,The Old Silk Mill,Flat 8,,Maythorne,Southwell
+2023-10-27,175000,NG25 0GL,F,N,L,Greet Lily Mill,4,Station Road,,Southwell
+2023-10-26,420000,NG25 0LB,D,N,F,38,,Honing Drive,,Southwell
+2023-10-26,530000,NG25 0AN,D,N,F,5,,Apple Tree Close,,Southwell
+2023-10-20,280000,NG25 0EU,S,N,F,7,,Dornoch Avenue,,Southwell
+2023-10-18,750000,NG25 0SX,D,N,F,The Hollies,,Honeyknab Lane,Oxton,Southwell
+2023-10-13,375000,NG25 0LB,D,N,F,11,,Honing Drive,,Southwell
+2023-10-13,217000,NG25 0AB,T,N,F,7,,Sheppards Row,,Southwell
+2023-10-10,305000,NG25 0AN,S,N,F,16,,Apple Tree Close,,Southwell
+2023-10-06,605000,NG25 0UT,D,N,F,Chalfont,,Main Street,Morton,Southwell
+2023-10-06,337000,NG25 0DR,S,N,F,129,,Lower Kirklington Road,,Southwell
+2023-10-04,415000,NG25 0NX,D,N,F,35,,Hopewell Rise,,Southwell
+2023-10-04,431000,NG25 0BY,D,N,F,9,,Nursery End,,Southwell
+2023-10-04,412000,NG25 0AN,D,N,F,6,,Apple Tree Close,,Southwell
+2023-09-20,193000,NG25 0AB,T,N,F,6,,Sheppards Row,,Southwell
+2023-09-19,600000,NG25 0BY,D,N,F,8,,Nursery End,,Southwell
+2023-09-15,368000,NG25 0SD,S,N,F,Forest Villa,2,Main Street,Oxton,Southwell
+2023-09-15,375000,NG25 0DW,D,N,F,16,,Byron Gardens,,Southwell
+2023-09-08,635000,NG25 0RB,D,N,F,Middlehey,,Oxton Hill,,Southwell
+2023-09-08,197000,NG25 0LS,T,N,F,95,,Westgate,,Southwell
+2023-09-05,575000,NG25 0NX,D,N,F,66,,Hopewell Rise,,Southwell
+2023-09-05,775000,NG25 0AL,D,N,F,47A,,The Ropewalk,,Southwell
+2023-09-01,226000,NG25 0EX,F,N,L,13,,Abbey Mews,,Southwell
+2023-09-01,810000,NG25 0AL,D,N,F,47B,,The Ropewalk,,Southwell
+2023-08-30,625000,NG25 0DW,D,N,F,36,,Byron Gardens,,Southwell
+2023-08-30,430000,NG25 0AS,D,N,F,10,,Glenfields,,Southwell
+2023-08-22,640000,NG25 0FE,D,N,F,17,,Humberstone Road,,Southwell
+2023-08-18,300000,NG25 0GL,D,N,L,Greet Lily Mill,25,Station Road,,Southwell
+2023-08-15,2000000,NG25 0HQ,D,N,F,Cranfield House,,Church Street,,Southwell
+2023-08-09,830000,NG25 0UU,D,N,F,Denham,,Back Lane,Morton,Southwell
+2023-08-07,360000,NG25 0BS,D,N,F,79,,Springfield Road,,Southwell
+2023-08-07,560000,NG25 0AG,D,N,F,9,,Woodland View,,Southwell
+2023-08-03,225000,NG25 0DT,S,N,F,21,,Norwood Gardens,,Southwell
+2023-08-02,238000,NG25 0TF,S,N,F,4,,Church View,Oxton,Southwell
+2023-08-01,805000,NG25 0QY,D,N,F,Longwood,,Oxton Road,,Southwell
+2023-08-01,540000,NG25 0NX,D,N,F,29,,Hopewell Rise,,Southwell
+2023-08-01,300000,NG25 0BT,D,N,F,48,,Springfield Road,,Southwell
+2023-07-31,355000,NG25 0BZ,D,N,F,60,,Leeway Road,,Southwell
+2023-07-31,314500,NG25 0BH,S,N,F,79,,Lower Kirklington Road,,Southwell
+2023-07-28,650000,NG25 0JX,D,N,F,"The Orangery, 50A",,Westgate,,Southwell
+2023-07-26,410000,NG25 0RZ,S,Y,F,25,,The Rise,,Southwell
+2023-07-25,920000,NG25 0JX,D,N,F,50,,Westgate,,Southwell
+2023-07-21,415000,NG25 0RZ,S,Y,F,30,,The Rise,,Southwell
+2023-07-21,148500,NG25 0NX,S,N,L,42,,Hopewell Rise,,Southwell
+2023-07-18,195000,NG25 0SL,T,N,F,3,,New Road,Oxton,Southwell
+2023-07-14,295000,NG25 0ES,T,N,F,1,,Newark Road,,Southwell
+2023-07-13,290000,NG25 0EY,T,N,F,11,,Chatham Street,,Southwell
+2023-07-07,678000,NG25 0PW,D,N,F,Cheverals,,Newark Road,Hockerton,Southwell
+2023-07-04,285000,NG25 0HQ,F,N,L,Willoughby House,3,Church Street,,Southwell
+2023-06-30,288000,NG25 0UW,S,N,F,2,,Gravelly Lane,Fiskerton,Southwell
+2023-06-28,225000,NG25 0BP,S,N,F,15,,Arnold Avenue,,Southwell
+2023-06-26,375000,NG25 0SD,S,N,F,Forest Villa,1,Main Street,Oxton,Southwell
+2023-06-23,555000,NG25 0JX,D,N,F,Mays Cottage,,Westgate,,Southwell
+2023-06-16,425000,NG25 0EJ,D,N,F,7,,Private Road,,Southwell
+2023-06-09,678000,NG25 0NE,D,N,F,55,,Westhorpe,,Southwell
+2023-06-09,435000,NG25 0BL,D,N,F,19,,Crafts Way,,Southwell
+2023-06-05,315000,NG25 0LT,S,N,F,134,,Westgate,,Southwell
+2023-06-05,430000,NG25 0AG,D,N,F,4,,Woodland View,,Southwell
+2023-06-02,390000,NG25 0LX,D,N,F,35,,Landseer Road,,Southwell
+2023-06-02,227000,NG25 0LQ,T,N,F,4 - 5,,Park Terrace,,Southwell
+2023-06-02,387000,NG25 0DR,D,N,F,111,,Lower Kirklington Road,,Southwell
+2023-05-31,260000,NG25 0LT,S,N,F,124,,Westgate,,Southwell
+2023-05-18,165000,NG25 0RZ,F,N,L,18,,The Rise,,Southwell
+2023-05-18,139000,NG25 0RZ,F,N,L,16,,The Rise,,Southwell
+2023-05-16,360000,NG25 0JE,D,N,F,12,,Metcalfe Close,,Southwell
+2023-05-15,273000,NG25 0EZ,T,N,F,10,,Dover Street,,Southwell
+2023-05-12,160000,NG25 0LW,F,N,L,39,,Moorfield Court,,Southwell
+2023-05-12,328500,NG25 0JE,D,N,F,16,,Metcalfe Close,,Southwell
+2023-05-05,260000,NG25 0DT,S,N,F,59,,Norwood Gardens,,Southwell
+2023-05-02,234000,NG25 0BX,S,N,F,9,,Leeway Road,,Southwell
+2023-04-28,290000,NG25 0EY,D,N,F,"The Lilacs, 11A",,Chatham Street,,Southwell
+2023-04-27,263000,NG25 0DS,S,N,F,200,,Norwood Gardens,,Southwell
+2023-04-27,317500,NG25 0AP,S,N,F,15,,Manor Close,,Southwell
+2023-04-26,455000,NG25 0NX,D,N,F,5,,Hopewell Rise,,Southwell
+2023-04-21,275000,NG25 0HY,S,N,F,61,,Easthorpe,,Southwell
+2023-04-05,525000,NG25 0ED,D,N,F,2,,Marrison Way,,Southwell
+2023-03-31,210000,NG25 0HY,T,N,F,13,,Easthorpe,,Southwell
+2023-03-28,1070000,NG25 0NF,D,N,F,Dumble House,,The Holme,,Southwell
+2023-03-21,412500,NG25 0JS,D,N,F,28,,Lowes Wong,,Southwell
+2023-03-21,437500,NG25 0JS,D,N,F,19,,Lowes Wong,,Southwell
+2023-03-13,325000,NG25 0RZ,S,Y,F,1,,The Rise,,Southwell
+2023-03-10,362500,NG25 0HZ,S,N,F,111,,Easthorpe,,Southwell
+2023-03-10,380000,NG25 0AL,S,N,F,65,,The Ropewalk,,Southwell
+2023-03-09,480000,NG25 0RZ,D,N,F,20,,The Rise,,Southwell
+2023-03-08,485000,NG25 0RZ,D,N,F,23,,The Rise,,Southwell
+2023-03-01,365000,NG25 0FP,D,N,F,3,,The Jubilee,,Southwell
+2023-02-28,650000,NG25 0EP,D,N,F,Burgage Villa,,Burgage,,Southwell
+2023-02-21,390000,NG25 0DE,D,N,F,2,,Birchwood Close,,Southwell
+2023-02-10,295000,NG25 0LT,S,N,F,132,,Westgate,,Southwell
+2023-02-10,492500,NG25 0GB,D,N,F,11,,Chimes Meadow,,Southwell
+2023-02-10,375000,NG25 0DF,S,N,F,10,,Caudwell Close,,Southwell
+2023-02-08,415000,NG25 0HQ,F,N,L,South Muskham Prebend,2,Church Street,,Southwell
+2023-02-01,595000,NG25 0AL,D,N,F,41,,The Ropewalk,,Southwell
+2023-01-27,127000,NG25 0GL,F,N,L,Greet Lily Mill,5,Station Road,,Southwell
+2023-01-25,305000,NG25 0AS,D,N,F,4,,Glenfields,,Southwell
+2023-01-19,500000,NG25 0UL,D,N,F,Cranfield,,Main Street,Fiskerton,Southwell
+2022-12-19,250000,NG25 0BU,D,N,F,44,,Silvey Avenue,,Southwell
+2022-12-19,530000,NG25 0AP,D,N,F,4,,Manor Close,,Southwell
+2022-12-15,465000,NG25 0TY,D,N,F,5,,Cottams Close,,Southwell
+2022-12-15,195000,NG25 0ST,T,N,F,Enderleigh Cottage,,Chapel Lane,Oxton,Southwell
+2022-12-14,535000,NG25 0UW,D,N,F,Fair Port,,Gravelly Lane,Fiskerton,Southwell
+2022-12-14,1250000,NG25 0SQ,D,N,F,Orchard House,,Epperstone Road,Oxton,Southwell
+2022-12-14,282500,NG25 0AY,T,N,F,40,,Kirklington Road,,Southwell
+2022-12-13,275000,NG25 0BU,D,N,F,37,,Silvey Avenue,,Southwell
+2022-12-13,405000,NG25 0AJ,D,N,F,64,,The Ropewalk,,Southwell
+2022-12-09,320000,NG25 0RZ,S,Y,F,2,,The Rise,,Southwell
+2022-12-09,280000,NG25 0HQ,F,N,L,South Muskham Prebend,6,Church Street,,Southwell
+2022-12-07,625000,NG25 0AQ,D,N,F,17,,Hillcrest,,Southwell
+2022-12-05,210000,NG25 0RS,F,N,L,The Old Silk Mill,Flat 13,,Maythorne,Southwell
+2022-12-05,498995,NG25 0AQ,D,N,F,5,,Hillcrest,,Southwell
+2022-12-02,735000,NG25 0PW,D,N,F,Cheveral House,,Newark Road,Hockerton,Southwell
+2022-12-02,279950,NG25 0EZ,S,N,F,5,,Dover Street,,Southwell
+2022-12-01,264000,NG25 0EZ,T,N,F,14,,Dover Street,,Southwell
+2022-12-01,387500,NG25 0DU,D,N,F,19,,Ridgeway,,Southwell
+2022-11-30,154000,NG25 0LG,T,N,F,5,,Nottingham Road,,Southwell
+2022-11-25,650000,NG25 0FE,D,N,F,4,,Humberstone Road,,Southwell
+2022-11-25,160000,NG25 0EA,F,N,L,3,,Teresa Court,,Southwell
+2022-11-22,175000,NG25 0SL,T,N,F,2,,New Road,Oxton,Southwell
+2022-11-17,650000,NG25 0RN,D,N,F,Birkhouse Cottage,,Oxton Hill,,Southwell
+2022-11-17,295000,NG25 0LU,D,N,F,1A,,Micklebarrow Close,,Southwell
+2022-11-17,475000,NG25 0DW,D,N,F,7,,Byron Gardens,,Southwell
+2022-11-15,478000,NG25 0ES,S,N,F,7,,Newark Road,,Southwell
+2022-11-14,255000,NG25 0BU,S,N,F,14,,Silvey Avenue,,Southwell
+2022-11-11,328250,NG25 0RZ,S,Y,F,4,,The Rise,,Southwell
+2022-11-11,264500,NG25 0LZ,S,N,F,4,,Landseer Road,,Southwell
+2022-11-09,525000,NG25 0UQ,D,N,F,Dolphin Cottage,,Claypit Lane,Fiskerton,Southwell
+2022-11-01,370000,NG25 0NW,S,N,F,17,,Trinity Road,,Southwell
+2022-10-28,179950,NG25 0RS,F,N,L,The Old Silk Mill,Flat 14,,Maythorne,Southwell
+2022-10-21,330000,NG25 0UL,D,N,F,Holme Cottage,,Main Street,Fiskerton,Southwell
+2022-10-21,1500000,NG25 0LG,D,N,F,Park House,,Nottingham Road,,Southwell
+2022-10-20,230000,NG25 0BA,D,N,F,7,,Leeks Close,,Southwell
+2022-10-19,340000,NG25 0BS,D,N,F,81,,Springfield Road,,Southwell
+2022-10-14,315000,NG25 0RZ,S,Y,F,11,,The Rise,,Southwell
+2022-10-14,223000,NG25 0GL,F,N,L,Greet Lily Mill,17,Station Road,,Southwell
+2022-10-13,555000,NG25 0UA,D,N,F,12,,Green Drive,Fiskerton,Southwell
+2022-10-07,300000,NG25 0SL,T,N,F,1,,New Road,Oxton,Southwell
+2022-10-06,240000,NG25 0RZ,T,Y,F,38,,The Rise,,Southwell
+2022-10-05,315000,NG25 0RZ,S,Y,F,3,,The Rise,,Southwell
+2022-09-30,350000,NG25 0NN,S,N,F,10,,Vicarage Road,,Southwell
+2022-09-27,295000,NG25 0JX,T,N,F,90,,Westgate,,Southwell
+2022-09-23,165000,NG25 0RZ,F,N,L,14,,The Rise,,Southwell
+2022-09-21,335000,NG25 0RZ,S,Y,F,5,,The Rise,,Southwell
+2022-09-20,446000,NG25 0JS,D,N,F,22,,Lowes Wong,,Southwell
+2022-09-20,332500,NG25 0BP,S,N,F,1,,Arnold Avenue,,Southwell
+2022-09-16,150000,NG25 0JN,S,N,F,37,,Westgate,,Southwell
+2022-09-15,425000,NG25 0PL,D,N,F,Cottage View,,Caunton Road,Hockerton,Southwell
+2022-09-15,485000,NG25 0ER,F,N,L,Hill House,Minster Suite,Burgage Lane,,Southwell
+2022-09-13,190000,NG25 0EY,T,N,F,11,,Chatham Street,,Southwell
+2022-09-09,780000,NG25 0TU,D,N,F,Waterworks Cottage,,Fiskerton Road,,Southwell
+2022-09-09,430000,NG25 0HA,D,N,F,22,,Riverside,,Southwell
+2022-09-08,202500,NG25 0RZ,F,N,L,15,,The Rise,,Southwell
+2022-09-06,520000,NG25 0AU,D,N,F,5,,Hopkiln Lane,,Southwell
+2022-09-02,167500,NG25 0RZ,F,N,L,19,,The Rise,,Southwell
+2022-09-01,125000,NG25 0JX,F,N,L,"Tudor House, 72",Flat 4,Westgate,,Southwell
+2022-08-31,875000,NG25 0QP,D,N,F,Hilltop,,,Halloughton,Southwell
+2022-08-31,350000,NG25 0DA,S,N,F,19,,Woodland Drive,,Southwell
+2022-08-30,253000,NG25 0EL,T,N,F,5,,Kings Court,,Southwell
+2022-08-26,220000,NG25 0RZ,F,N,L,17,,The Rise,,Southwell
+2022-08-26,285000,NG25 0JB,S,N,F,10,,Bramley Close,,Southwell
+2022-08-26,395000,NG25 0HX,D,N,F,Inglenook,,Shady Lane,,Southwell
+2022-08-25,347000,NG25 0RZ,T,Y,F,36,,The Rise,,Southwell
+2022-08-25,335000,NG25 0RZ,S,Y,F,12,,The Rise,,Southwell
+2022-08-24,325000,NG25 0UW,S,N,F,6,,Gravelly Lane,Fiskerton,Southwell
+2022-08-24,338000,NG25 0DP,S,N,F,104,,Lower Kirklington Road,,Southwell
+2022-08-22,445000,NG25 0BZ,D,N,F,50,,Leeway Road,,Southwell
+2022-08-19,175000,NG25 0AZ,T,N,L,7,,Wolsey Close,,Southwell
+2022-08-18,328250,NG25 0RZ,S,Y,F,9,,The Rise,,Southwell
+2022-08-18,328250,NG25 0RZ,S,Y,F,8,,The Rise,,Southwell
+2022-08-17,400000,NG25 0DD,D,N,F,40,,Pinewood Close,,Southwell
+2022-08-16,550000,NG25 0JT,D,N,F,5,,Wands Close,,Southwell
+2022-08-15,360000,NG25 0LB,D,N,F,13,,Honing Drive,,Southwell
+2022-08-12,427000,NG25 0RY,D,N,F,3,,Becketts Field,,Southwell
+2022-08-12,482000,NG25 0JS,D,N,F,11,,Lowes Wong,,Southwell
+2022-08-09,267500,NG25 0RZ,T,Y,F,35,,The Rise,,Southwell
+2022-08-05,240000,NG25 0RZ,T,Y,F,37,,The Rise,,Southwell
+2022-08-05,234000,NG25 0RZ,T,Y,F,34,,The Rise,,Southwell
+2022-08-05,200000,NG25 0EZ,T,N,F,6,,Dover Street,,Southwell
+2022-08-03,298000,NG25 0BU,S,N,F,2,,Silvey Avenue,,Southwell
+2022-08-02,375000,NG25 0AR,D,N,F,1,,Kirklington Road,,Southwell
+2022-08-01,320000,NG25 0SY,S,N,F,9,,The Orchards,Oxton,Southwell
+2022-08-01,237500,NG25 0RZ,T,Y,F,32,,The Rise,,Southwell
+2022-07-29,275000,NG25 0RY,S,N,F,29,,Becketts Field,,Southwell
+2022-07-29,282500,NG25 0DR,S,N,F,123,,Lower Kirklington Road,,Southwell
+2022-07-25,300000,NG25 0HR,S,N,F,4,,Palace View,,Southwell
+2022-07-22,510000,NG25 0UG,D,N,F,Spelga House,,Station Road,Fiskerton,Southwell
+2022-07-15,315000,NG25 0RZ,S,Y,F,7,,The Rise,,Southwell
+2022-07-15,675000,NG25 0RL,D,N,F,5,,Archers Field,,Southwell
+2022-07-08,515000,NG25 0RL,D,N,F,4,,Archers Field,,Southwell
+2022-07-05,300000,NG25 0NL,T,N,F,6,,Allenby Road,,Southwell
+2022-07-05,515000,NG25 0ED,D,N,F,1,,Marrison Way,,Southwell
+2022-07-01,550000,NG25 0NG,D,N,F,Home Farm Cottage,,Westhorpe,,Southwell
+2022-06-30,205000,NG25 0LT,T,N,F,116,,Westgate,,Southwell
+2022-06-24,167000,NG25 0AZ,T,N,L,9,,Wolsey Close,,Southwell
+2022-06-20,320000,NG25 0ER,T,N,F,4,,Burgage Lane,,Southwell
+2022-06-17,190000,NG25 0SL,T,N,F,5,,New Road,Oxton,Southwell
+2022-06-17,595000,NG25 0SH,D,N,F,Orchard Lodge,,Water Lane,Oxton,Southwell
+2022-06-17,220000,NG25 0JB,S,N,F,1A,,Bramley Close,,Southwell
+2022-06-15,125000,NG25 0LW,F,N,L,14,,Moorfield Court,,Southwell
+2022-06-10,261000,NG25 0NU,S,N,F,4,,Eastfield Court,,Southwell
+2022-06-10,245000,NG25 0JX,T,N,F,62,,Westgate,,Southwell
+2022-06-08,345000,NG25 0NJ,D,N,F,6A,,Dudley Doy Road,,Southwell
+2022-06-01,1210000,NG25 0GA,D,N,F,4,,Canons Close,,Southwell
+2022-05-31,140000,NG25 0LW,F,N,L,31,,Moorfield Court,,Southwell
+2022-05-27,890000,NG25 0UL,D,N,F,The Coach House,,Main Street,Fiskerton,Southwell
+2022-05-27,475000,NG25 0UL,D,N,F,River Cottage,,Main Street,Fiskerton,Southwell
+2022-05-27,550000,NG25 0EF,D,N,F,20,,Templemans Way,,Southwell
+2022-05-26,595000,NG25 0SR,D,N,F,4,,Orchard Court,Oxton,Southwell
+2022-05-26,417500,NG25 0JZ,D,N,F,5,,Hillside Drive,,Southwell
+2022-05-11,682500,NG25 0UL,D,N,F,Timbers,,Main Street,Fiskerton,Southwell
+2022-05-05,480000,NG25 0ET,S,N,F,9,,Station Road,,Southwell
+2022-05-04,440000,NG25 0JG,S,N,F,22,,Palmers Court,,Southwell
+2022-04-29,185000,NG25 0FT,F,N,L,River Greet Apartments,10,Racecourse Road,,Southwell
+2022-04-29,570000,NG25 0DZ,D,N,F,Benaiah,,Lower Kirklington Road,,Southwell
+2022-04-29,300500,NG25 0BZ,D,N,F,55,,Leeway Road,,Southwell
+2022-04-21,225000,NG25 0BA,D,N,F,3,,Leeks Close,,Southwell
+2022-04-14,390000,NG25 0DR,S,N,F,133,,Lower Kirklington Road,,Southwell
+2022-04-08,117000,NG25 0HQ,F,N,L,49A,,Church Street,,Southwell
+2022-04-08,740000,NG25 0EP,D,N,F,Hollydene,,Burgage,,Southwell
+2022-04-08,264000,NG25 0BT,S,N,F,32,,Springfield Road,,Southwell
+2022-04-04,437500,NG25 0JG,S,N,F,1,,Palmers Court,,Southwell
+2022-03-30,208000,NG25 0NX,T,N,L,58,,Hopewell Rise,,Southwell
+2022-03-30,835000,NG25 0JN,D,N,F,"Box Tree Lodge, 21A",,Westgate,,Southwell
+2022-03-30,585000,NG25 0FF,D,N,F,15,,Adams Row,,Southwell
+2022-03-30,268000,NG25 0BP,S,N,F,10,,Arnold Avenue,,Southwell
+2022-03-29,235000,NG25 0DT,S,N,F,45,,Norwood Gardens,,Southwell
+2022-03-29,545000,NG25 0BL,D,N,F,6,,Crafts Way,,Southwell
+2022-03-28,375000,NG25 0HA,D,N,F,32,,Riverside,,Southwell
+2022-03-28,190000,NG25 0EX,F,N,L,4,,Abbey Mews,,Southwell
+2022-03-24,150000,NG25 0SZ,S,N,F,6,,Forest Road,Oxton,Southwell
+2022-03-23,535000,NG25 0RB,D,N,F,Two Acres,,Oxton Hill,,Southwell
+2022-03-18,229950,NG25 0BA,D,N,F,5,,Leeks Close,,Southwell
+2022-03-16,470000,NG25 0DF,D,N,F,3,,Caudwell Close,,Southwell
+2022-03-11,1375000,NG25 0QA,D,N,F,Upton Fields House,,Upton Road,,Southwell
+2022-03-11,435000,NG25 0ES,D,N,F,30,,Newark Road,,Southwell
+2022-03-10,490000,NG25 0AW,D,N,F,14,,Monckton Drive,,Southwell
+2022-03-03,712000,NG25 0FW,D,N,F,2,,Church Lane,Hockerton,Southwell
+2022-03-02,465501,NG25 0UH,D,N,F,Manor Cottage,,Rolleston Road,Fiskerton,Southwell
+2022-02-25,325000,NG25 0AH,D,N,F,"Tollgate Cottage, 2",,Halam Road,,Southwell
+2022-02-22,460000,NG25 0RL,D,N,F,18,,Archers Field,,Southwell
+2022-02-18,389000,NG25 0SL,S,N,F,Tudor Cottage,,New Road,Oxton,Southwell
+2022-02-14,205000,NG25 0EZ,T,N,F,36,,Dover Street,,Southwell
+2022-02-11,334500,NG25 0LU,S,N,F,3,,Micklebarrow Close,,Southwell
+2022-02-04,525000,NG25 0LS,D,N,F,123,,Westgate,,Southwell
+2022-01-28,357500,NG25 0FN,D,N,F,1,,Brook Walk,,Southwell
+2022-01-27,590000,NG25 0LR,D,N,F,18,,Halloughton Road,,Southwell
+2022-01-20,268000,NG25 0DS,S,N,F,6,,Norwood Gardens,,Southwell
+2022-01-18,520000,NG25 0NX,D,N,F,8,,Hopewell Rise,,Southwell
+2022-01-18,345000,NG25 0LF,D,N,F,24A,,Nottingham Road,,Southwell
+2022-01-17,325000,NG25 0EU,D,N,F,10,,Dornoch Avenue,,Southwell
+2022-01-14,271500,NG25 0EY,S,N,F,18,,Chatham Street,,Southwell
+2022-01-12,487500,NG25 0UB,D,N,F,Bramley Cottage,,Marlock Close,Fiskerton,Southwell
+2022-01-12,425000,NG25 0DB,D,N,F,20,,Fern Close,,Southwell
+2022-01-11,440000,NG25 0AW,D,N,F,8,,Monckton Drive,,Southwell
+2021-12-21,210000,NG25 0AB,T,N,F,7,,Sheppards Row,,Southwell
+2021-12-17,276500,NG25 0NH,S,N,F,10,,Oxton Road,,Southwell
+2021-12-17,267500,NG25 0BU,S,N,F,32,,Silvey Avenue,,Southwell
+2021-12-10,579000,NG25 0UG,D,N,F,Brooklyn,,Station Road,Fiskerton,Southwell
+2021-12-10,185000,NG25 0LS,T,N,F,95,,Westgate,,Southwell
+2021-12-09,200000,NG25 0EZ,T,N,F,30,,Dover Street,,Southwell
+2021-12-08,325000,NG25 0DD,D,N,F,10,,Pinewood Close,,Southwell
+2021-12-08,687500,NG25 0AH,D,N,F,Newbury House,,Halam Road,,Southwell
+2021-12-07,497500,NG25 0AN,D,N,F,5,,Apple Tree Close,,Southwell
+2021-12-06,330000,NG25 0BH,S,N,F,61,,Lower Kirklington Road,,Southwell
+2021-12-02,307000,NG25 0JB,S,N,F,12,,Bramley Close,,Southwell
+2021-12-01,145000,NG25 0LW,F,N,L,31,,Moorfield Court,,Southwell
+2021-11-24,180000,NG25 0HQ,T,N,F,57,,Church Street,,Southwell
+2021-11-18,278700,NG25 0DS,S,N,F,24,,Norwood Gardens,,Southwell
+2021-11-15,600000,NG25 0SX,D,N,F,Ash Close,,Honeyknab Lane,Oxton,Southwell
+2021-11-12,392500,NG25 0EQ,T,N,F,7,,Meadow View,,Southwell
+2021-11-12,300000,NG25 0DS,D,N,F,The Willows,,Norwood Gardens,,Southwell
+2021-11-11,337000,NG25 0HZ,T,N,F,Croft Cottages,3,Easthorpe,,Southwell
+2021-11-11,490000,NG25 0AE,D,N,F,9,,Chatsworth Avenue,,Southwell
+2021-11-10,540000,NG25 0RY,D,N,F,32,,Becketts Field,,Southwell
+2021-11-10,430000,NG25 0PN,D,N,F,Hockerton Heights,3,Caunton Road,Hockerton,Southwell
+2021-11-08,590000,NG25 0UG,D,N,F,Linden House,,Station Road,Fiskerton,Southwell
+2021-11-08,875000,NG25 0NG,S,N,F,54,,Westhorpe,,Southwell
+2021-11-08,292000,NG25 0JS,D,N,F,20,,Lowes Wong,,Southwell
+2021-11-05,220000,NG25 0HY,S,N,F,11,,Easthorpe,,Southwell
+2021-11-05,1010000,NG25 0AA,D,N,F,Hardwick House,,Queen Street,,Southwell
+2021-10-28,330000,NG25 0DR,D,N,F,113,,Lower Kirklington Road,,Southwell
+2021-10-22,399950,NG25 0UL,D,N,F,Johmay,,Main Street,Fiskerton,Southwell
+2021-10-22,365000,NG25 0LT,S,N,F,108,,Westgate,,Southwell
+2021-09-30,250000,NG25 0UN,T,N,F,The Old Post Office,,Main Street,Fiskerton,Southwell
+2021-09-30,270000,NG25 0PN,S,N,F,Hayloft,,Caunton Road,Hockerton,Southwell
+2021-09-30,285000,NG25 0JB,S,N,F,8,,Bramley Close,,Southwell
+2021-09-30,395500,NG25 0HU,D,N,F,29,,Farthingate Close,,Southwell
+2021-09-30,330000,NG25 0DA,D,N,F,15,,Woodland Drive,,Southwell
+2021-09-29,455000,NG25 0DN,S,N,F,42,,Lower Kirklington Road,,Southwell
+2021-09-28,275000,NG25 0JE,D,N,F,26,,Metcalfe Close,,Southwell
+2021-09-24,345000,NG25 0DU,S,N,F,38,,Ridgeway,,Southwell
+2021-09-23,460000,NG25 0RL,D,N,F,11,,Archers Field,,Southwell
+2021-09-23,570000,NG25 0FF,D,N,F,20,,Adams Row,,Southwell
+2021-09-23,445000,NG25 0DU,D,N,F,36,,Ridgeway,,Southwell
+2021-09-23,455000,NG25 0BG,D,N,F,4A,,Raysmith Close,,Southwell
+2021-09-21,490000,NG25 0UB,D,N,F,15,,Marlock Close,Fiskerton,Southwell
+2021-09-21,244450,NG25 0RS,S,N,F,6,,The Cottages,Maythorne,Southwell
+2021-09-21,375000,NG25 0LX,D,N,F,33,,Landseer Road,,Southwell
+2021-09-21,399950,NG25 0JG,S,N,F,5,,Palmers Court,,Southwell
+2021-09-21,205000,NG25 0HZ,S,N,F,89,,Easthorpe,,Southwell
+2021-09-21,269600,NG25 0DS,S,N,F,28,,Norwood Gardens,,Southwell
+2021-09-21,530000,NG25 0BG,D,N,F,19,,Raysmith Close,,Southwell
+2021-09-20,390000,NG25 0QU,S,N,L,7,,Gables Drive,Hockerton,Southwell
+2021-09-14,310000,NG25 0JE,F,N,F,23,,Metcalfe Close,,Southwell
+2021-09-14,425000,NG25 0ER,D,N,F,Themis Villa,,Burgage Lane,,Southwell
+2021-09-13,525000,NG25 0HU,D,N,F,2,,Farthingate Close,,Southwell
+2021-09-13,265000,NG25 0BP,S,N,F,19,,Arnold Avenue,,Southwell
+2021-09-08,165000,NG25 0AZ,T,N,L,9,,Wolsey Close,,Southwell
+2021-09-02,395000,NG25 0UG,D,N,F,Maythorne,,Station Road,Fiskerton,Southwell
+2021-08-31,252000,NG25 0NP,S,N,F,6,,Trinity Road,,Southwell
+2021-08-26,595000,NG25 0RZ,D,N,F,22,,The Rise,,Southwell
+2021-08-25,375000,NG25 0NE,T,N,F,31,,Westhorpe,,Southwell
+2021-08-25,410000,NG25 0EF,D,N,F,12,,Templemans Way,,Southwell
+2021-08-20,790000,NG25 0JN,D,N,F,15,,Westgate,,Southwell
+2021-08-18,280000,NG25 0EN,S,N,F,64,,King Street,,Southwell
+2021-08-17,232000,NG25 0RS,T,N,F,7,,The Cottages,Maythorne,Southwell
+2021-08-16,327000,NG25 0DD,D,N,F,14,,Pinewood Close,,Southwell
+2021-08-16,234000,NG25 0AZ,T,N,L,16,,Wolsey Close,,Southwell
+2021-08-11,495000,NG25 0TP,D,N,F,The Orchards,,,Brinkley,Southwell
+2021-08-11,365000,NG25 0DR,D,N,F,107,,Lower Kirklington Road,,Southwell
+2021-08-09,186000,NG25 0EB,T,N,F,4,,Heywood Close,,Southwell
+2021-08-06,275000,NG25 0JB,S,N,F,1,,Bramley Close,,Southwell
+2021-08-06,282500,NG25 0DA,D,N,F,4,,Woodland Drive,,Southwell
+2021-08-03,230000,NG25 0BS,S,N,F,57,,Springfield Road,,Southwell
+2021-08-02,255000,NG25 0BX,D,N,F,27,,Leeway Road,,Southwell
+2021-07-30,417500,NG25 0PR,S,N,F,The Nest,,Corkhill Lane,Normanton,Southwell
+2021-07-29,525000,NG25 0LP,D,N,F,61,,Halloughton Road,,Southwell
+2021-07-29,189000,NG25 0FX,F,N,L,5,,Bechers Court,Burgage,Southwell
+2021-07-26,490000,NG25 0UW,D,N,F,Fieldfare,,Gravelly Lane,Fiskerton,Southwell
+2021-07-16,300000,NG25 0DA,D,N,F,9,,Woodland Drive,,Southwell
+2021-07-06,145000,NG25 0AZ,T,N,L,3,,Wolsey Close,,Southwell
+2021-07-02,275000,NG25 0HZ,S,N,F,Old School House,,Easthorpe,,Southwell
+2021-06-30,820000,NG25 0UQ,D,N,F,Woodpeckers,,Claypit Lane,Fiskerton,Southwell
+2021-06-30,347500,NG25 0PN,D,N,F,Newfield Farm House,,Caunton Road,Hockerton,Southwell
+2021-06-30,990000,NG25 0PJ,D,N,F,The Old Rectory,,Kirklington Road,Hockerton,Southwell
+2021-06-30,540000,NG25 0NX,D,N,F,66,,Hopewell Rise,,Southwell
+2021-06-30,335000,NG25 0NX,D,Y,F,34,,Hopewell Rise,,Southwell
+2021-06-30,1050000,NG25 0GA,D,N,F,"Rowan House, 3",,Canons Close,,Southwell
+2021-06-30,220000,NG25 0BA,D,N,F,6,,Leeks Close,,Southwell
+2021-06-30,399000,NG25 0AQ,D,N,F,9,,Hillcrest,,Southwell
+2021-06-29,430900,NG25 0UP,D,N,F,6,,Longmead Drive,Fiskerton,Southwell
+2021-06-28,482500,NG25 0RL,D,N,F,19,,Archers Field,,Southwell
+2021-06-28,735000,NG25 0QH,D,N,F,Smithfield Cottage,,Crink Lane,,Southwell
+2021-06-28,160000,NG25 0LW,F,N,L,23,,Moorfield Court,,Southwell
+2021-06-28,480000,NG25 0FX,T,N,F,25,,Bechers Court,Burgage,Southwell
+2021-06-28,335000,NG25 0DW,D,N,F,23,,Byron Gardens,,Southwell
+2021-06-28,347000,NG25 0DW,D,N,F,1,,Byron Gardens,,Southwell
+2021-06-25,900000,NG25 0XG,D,N,F,Ebenezer House,,Main Street,Fiskerton,Southwell
+2021-06-25,365000,NG25 0RZ,T,Y,F,6,,The Rise,,Southwell
+2021-06-25,330000,NG25 0NX,D,Y,F,32,,Hopewell Rise,,Southwell
+2021-06-25,530000,NG25 0NX,D,Y,F,2,,Hopewell Rise,,Southwell
+2021-06-25,685000,NG25 0LZ,D,N,F,48,,Landseer Road,,Southwell
+2021-06-25,139450,NG25 0LQ,T,N,F,3,,Park Terrace,,Southwell
+2021-06-25,333501,NG25 0JZ,D,N,F,3,,Hillside Drive,,Southwell
+2021-06-25,120000,NG25 0GL,F,N,L,Greet Lily Mill,11,Station Road,,Southwell
+2021-06-25,627000,NG25 0ET,D,N,F,Station House,,Station Road,,Southwell
+2021-06-25,287500,NG25 0BP,S,N,F,23,,Arnold Avenue,,Southwell
+2021-06-24,167000,NG25 0RS,F,N,L,The Old Silk Mill,Flat 17,,Maythorne,Southwell
+2021-06-24,575000,NG25 0PL,D,N,F,Skerry Rise,,Caunton Road,Hockerton,Southwell
+2021-06-24,215000,NG25 0AY,T,N,F,28,,Kirklington Road,,Southwell
+2021-06-23,525000,NG25 0UP,D,N,F,32,,Longmead Drive,Fiskerton,Southwell
+2021-06-23,490000,NG25 0EE,D,N,F,16,,Greet Park Close,,Southwell
+2021-06-22,395000,NG25 0UB,D,N,F,21,,Marlock Close,Fiskerton,Southwell
+2021-06-21,357500,NG25 0NX,D,N,F,19,,Hopewell Rise,,Southwell
+2021-06-21,306500,NG25 0JS,D,N,F,11,,Lowes Wong,,Southwell
+2021-06-18,449000,NG25 0NX,D,Y,F,38,,Hopewell Rise,,Southwell
+2021-06-18,335000,NG25 0DS,D,N,F,Fra-Mar,,Norwood Gardens,,Southwell
+2021-06-17,440000,NG25 0GB,D,N,F,7,,Chimes Meadow,,Southwell
+2021-06-17,367500,NG25 0AW,D,N,F,15,,Monckton Drive,,Southwell
+2021-06-16,335000,NG25 0HT,D,N,F,4,,Farthingate,,Southwell
+2021-06-16,235000,NG25 0EY,S,N,F,16,,Chatham Street,,Southwell
+2021-06-16,172000,NG25 0ER,T,N,F,8,,Burgage Lane,,Southwell
+2021-06-16,200000,NG25 0BS,S,N,F,45,,Springfield Road,,Southwell
+2021-06-16,509950,NG25 0BH,D,N,F,58,,Lower Kirklington Road,,Southwell
+2021-06-15,245000,NG25 0JB,S,N,F,5,,Bramley Close,,Southwell
+2021-06-15,446000,NG25 0HA,D,N,F,19,,Riverside,,Southwell
+2021-06-11,333000,NG25 0NX,D,Y,F,35,,Hopewell Rise,,Southwell
+2021-06-10,310000,NG25 0XG,D,N,F,Horse Shoe Lodge,,Main Street,Fiskerton,Southwell
+2021-06-09,345000,NG25 0SL,D,N,F,Russett House,,New Road,Oxton,Southwell
+2021-06-08,400000,NG25 0PA,D,N,F,The Barn,,Halam Road,,Southwell
+2021-06-02,391500,NG25 0DD,D,N,F,32,,Pinewood Close,,Southwell
+2021-05-28,260000,NG25 0RZ,T,Y,F,33,,The Rise,,Southwell
+2021-05-28,343000,NG25 0NX,D,Y,F,33,,Hopewell Rise,,Southwell
+2021-05-28,930000,NG25 0NE,D,N,F,61,,Westhorpe,,Southwell
+2021-05-28,695000,NG25 0FY,D,N,F,"Sycamore, 1",,Private Drive,,Southwell
+2021-05-28,137500,NG25 0DW,D,N,F,2,,Byron Gardens,,Southwell
+2021-05-28,312000,NG25 0BZ,D,N,F,68,,Leeway Road,,Southwell
+2021-05-28,272000,NG25 0BX,D,N,F,33,,Leeway Road,,Southwell
+2021-05-26,525000,NG25 0FX,S,N,F,15,,Bechers Court,Burgage,Southwell
+2021-05-26,275000,NG25 0BU,S,N,F,25,,Silvey Avenue,,Southwell
+2021-05-21,275000,NG25 0ES,D,N,F,Hadfield,,Newark Road,,Southwell
+2021-05-14,155000,NG25 0UN,T,N,F,California Cottages,2,Main Street,Fiskerton,Southwell
+2021-05-14,460000,NG25 0HA,D,N,F,7,,Riverside,,Southwell
+2021-05-14,350000,NG25 0AS,D,N,F,14,,Glenfields,,Southwell
+2021-05-13,240000,NG25 0SL,T,N,F,7,,New Road,Oxton,Southwell
+2021-05-06,245000,NG25 0BS,S,N,F,35,,Springfield Road,,Southwell
+2021-04-30,237500,NG25 0NL,S,N,F,9,,Allenby Road,,Southwell
+2021-04-30,276000,NG25 0NJ,D,N,F,12,,Dudley Doy Road,,Southwell
+2021-04-30,351500,NG25 0JG,S,N,F,9,,Palmers Court,,Southwell
+2021-04-30,379950,NG25 0HG,S,N,F,58,,Church Street,,Southwell
+2021-04-29,375000,NG25 0NX,D,Y,F,37,,Hopewell Rise,,Southwell
+2021-04-29,282500,NG25 0ES,S,N,F,1,,Asquith Mews,,Southwell
+2021-04-29,272000,NG25 0BW,S,N,F,8,,Leeway Road,,Southwell
+2021-04-27,400000,NG25 0UG,S,N,F,Vine Cottage,,Station Road,Fiskerton,Southwell
+2021-04-21,625000,NG25 0SJ,D,N,F,Old Oak Cottage,,Sandy Lane,Oxton,Southwell
+2021-04-19,490000,NG25 0UW,D,N,F,Strath More,,Gravelly Lane,Fiskerton,Southwell
+2021-04-13,965000,NG25 0GA,D,N,F,2,,Canons Close,,Southwell
+2021-04-13,437500,NG25 0DW,D,N,F,26,,Byron Gardens,,Southwell
+2021-04-09,430000,NG25 0ED,D,N,F,12,,Marrison Way,,Southwell
+2021-03-31,725000,NG25 0TL,D,N,F,Willow Lodge,,Pollards Lane,,Southwell
+2021-03-30,355000,NG25 0ER,F,N,L,Hill House,Byron Suite,Burgage Lane,,Southwell
+2021-03-30,460000,NG25 0DY,D,N,F,1,,Orchard Close,,Southwell
+2021-03-29,525000,NG25 0UA,D,N,F,9,,Green Drive,Fiskerton,Southwell
+2021-03-29,450000,NG25 0RL,D,N,F,4,,Archers Field,,Southwell
+2021-03-26,349000,NG25 0NX,D,Y,F,31,,Hopewell Rise,,Southwell
+2021-03-26,497500,NG25 0NX,D,Y,F,30,,Hopewell Rise,,Southwell
+2021-03-26,350000,NG25 0NX,D,Y,F,18,,Hopewell Rise,,Southwell
+2021-03-26,320000,NG25 0DW,D,N,F,11,,Byron Gardens,,Southwell
+2021-03-26,245000,NG25 0DN,T,N,F,50,,Lower Kirklington Road,,Southwell
+2021-03-26,300000,NG25 0BT,D,N,F,66,,Springfield Road,,Southwell
+2021-03-25,842000,NG25 0FY,D,N,F,3,,Private Drive,,Southwell
+2021-03-23,350000,NG25 0BJ,D,N,F,4,,Stenton Close,,Southwell
+2021-03-22,1150000,NG25 0SQ,D,N,F,Orchard House,,Epperstone Road,Oxton,Southwell
+2021-03-22,815000,NG25 0FE,D,N,F,3,,Humberstone Road,,Southwell
+2021-03-19,690000,NG25 0SX,D,N,F,Longcroft,,Honeyknab Lane,Oxton,Southwell
+2021-03-19,250000,NG25 0BU,D,N,F,38,,Silvey Avenue,,Southwell
+2021-03-19,285000,NG25 0BU,S,N,F,29,,Silvey Avenue,,Southwell
+2021-03-12,495000,NG25 0UG,D,N,F,Westbourne,,Station Road,Fiskerton,Southwell
+2021-03-10,740000,NG25 0UW,S,N,F,Frisel House,,Gravelly Lane,Fiskerton,Southwell
+2021-03-09,140000,NG25 0RS,F,N,L,The Old Silk Mill,Flat 16,,Maythorne,Southwell
+2021-03-05,187000,NG25 0EX,F,N,L,6,,Abbey Mews,,Southwell
+2021-03-05,345000,NG25 0ET,T,N,F,2,,Station Road,,Southwell
+2021-03-05,285000,NG25 0DA,D,N,F,7,,Woodland Drive,,Southwell
+2021-03-01,1500000,NG25 0LD,D,N,F,75B,,Westgate,,Southwell
+2021-03-01,740000,NG25 0FF,D,N,F,5,,Adams Row,,Southwell
+2021-03-01,180000,NG25 0ER,T,N,F,4,,Burgage Lane,,Southwell
+2021-03-01,315000,NG25 0BZ,D,N,F,39,,Leeway Road,,Southwell
+2021-02-26,340000,NG25 0UG,D,N,F,The Spinney,,Station Road,Fiskerton,Southwell
+2021-02-26,331500,NG25 0NX,D,Y,F,23,,Hopewell Rise,,Southwell
+2021-02-26,630000,NG25 0NE,D,N,F,63,,Westhorpe,,Southwell
+2021-02-26,430000,NG25 0LB,D,N,F,28,,Honing Drive,,Southwell
+2021-02-26,125000,NG25 0GL,F,N,L,Greet Lily Mill,19,Station Road,,Southwell
+2021-02-25,257000,NG25 0SY,S,N,F,9,,The Orchards,Oxton,Southwell
+2021-02-25,390000,NG25 0EU,D,N,F,25,,Dornoch Avenue,,Southwell
+2021-02-25,247350,NG25 0ES,S,N,F,4,,Asquith Mews,,Southwell
+2021-02-25,285000,NG25 0ER,F,N,L,Hill House Lodge,Flat 1,Burgage Lane,,Southwell
+2021-02-25,310000,NG25 0BX,S,N,F,22,,Leeway Road,,Southwell
+2021-02-25,475000,NG25 0AW,D,N,F,5,,Monckton Drive,,Southwell
+2021-02-24,500000,NG25 0RL,D,N,F,2,,Archers Field,,Southwell
+2021-02-19,325000,NG25 0HZ,D,N,F,137,,Easthorpe,,Southwell
+2021-02-19,495000,NG25 0DN,D,N,F,40C,,Lower Kirklington Road,,Southwell
+2021-02-18,470000,NG25 0NX,D,Y,F,8,,Hopewell Rise,,Southwell
+2021-02-15,515000,NG25 0TY,D,N,F,1A,,Cottams Close,,Southwell
+2021-02-12,730500,NG25 0UR,D,N,F,Holly Croft,,Church Lane,Morton,Southwell
+2021-02-12,380000,NG25 0UP,D,N,F,20,,Longmead Drive,Fiskerton,Southwell
+2021-02-04,367500,NG25 0DD,D,N,F,29,,Pinewood Close,,Southwell
+2021-02-03,340000,NG25 0EJ,D,N,F,5,,Private Road,,Southwell
+2021-01-29,435000,NG25 0XA,D,N,F,End House,,,Morton,Southwell
+2021-01-29,165000,NG25 0SL,T,N,F,5,,New Road,Oxton,Southwell
+2021-01-29,493000,NG25 0NX,D,Y,F,29,,Hopewell Rise,,Southwell
+2021-01-29,785000,NG25 0FW,D,N,F,Manor Farm House,,Church Lane,Hockerton,Southwell
+2021-01-29,198000,NG25 0AY,T,N,F,34,,Kirklington Road,,Southwell
+2021-01-27,360000,NG25 0AL,S,N,F,Merry Coin,,The Ropewalk,,Southwell
+2021-01-25,482500,NG25 0DX,D,N,F,122,,Lower Kirklington Road,,Southwell
+2021-01-22,352000,NG25 0NX,D,Y,F,22,,Hopewell Rise,,Southwell
+2021-01-22,465000,NG25 0AW,D,N,F,21,,Monckton Drive,,Southwell
+2021-01-21,547500,NG25 0FN,D,N,F,6,,Brook Walk,,Southwell
+2021-01-21,355000,NG25 0BZ,D,N,F,71,,Leeway Road,,Southwell
+2021-01-18,685000,NG25 0UD,D,N,F,Waterdell,,Station Road,Fiskerton,Southwell
+2021-01-15,1600000,NG25 0UH,D,N,F,Fiskerton Manor,,Rolleston Road,Fiskerton,Southwell
+2021-01-14,324000,NG25 0DD,D,N,F,2,,Pinewood Close,,Southwell
+2021-01-13,460000,NG25 0NJ,D,N,F,9,,Dudley Doy Road,,Southwell
+2021-01-13,280000,NG25 0JE,D,N,F,15,,Metcalfe Close,,Southwell
+2021-01-06,1300000,NG25 0JN,D,N,F,17,,Westgate,,Southwell

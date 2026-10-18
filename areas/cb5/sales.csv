@@ -1,0 +1,927 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-13,255000,CB5 8DD,F,N,L,"Grafton House, 64",Flat 16,Maids Causeway,,Cambridge
+2026-08-05,466000,CB5 8UJ,S,N,F,19,,Thorpe Way,,Cambridge
+2026-08-04,423000,CB5 8SN,D,N,F,11,,Fairfield End,,Cambridge
+2026-07-31,402500,CB5 8PF,T,N,F,139,,Wadloes Road,,Cambridge
+2026-07-29,670000,CB5 8HT,T,N,F,12,,Priory Road,,Cambridge
+2026-07-29,475000,CB5 8HP,T,N,F,65,,River Lane,,Cambridge
+2026-07-24,525000,CB5 8QE,T,N,F,72,,Ditton Walk,,Cambridge
+2026-07-24,290000,CB5 8FR,F,N,L,28,,Grebe Court,,Cambridge
+2026-07-24,515000,CB5 8DG,T,N,F,20,,Brunswick Terrace,,Cambridge
+2026-07-20,402000,CB5 8JD,F,N,L,St Bartholomews Court,87,Riverside,,Cambridge
+2026-06-17,390000,CB5 8SY,S,N,F,6,,Wrights Close,Fen Ditton,Cambridge
+2026-06-17,290000,CB5 8QT,F,N,L,39,,Howard Road,,Cambridge
+2026-06-16,185000,CB5 8TL,F,N,L,23,,Fison Road,,Cambridge
+2026-06-12,390000,CB5 8PF,T,N,F,37,,Wadloes Road,,Cambridge
+2026-06-01,460000,CB5 8PA,S,N,F,551,,Newmarket Road,,Cambridge
+2026-05-26,775000,CB5 8AF,T,N,F,12,,Portugal Place,,Cambridge
+2026-05-19,475000,CB5 8LX,S,N,F,38,,Whitehill Road,,Cambridge
+2026-05-15,405000,CB5 8HP,T,N,F,51,,River Lane,,Cambridge
+2026-04-27,310000,CB5 8JF,F,N,L,74,,Riverside Place,,Cambridge
+2026-04-24,445000,CB5 8QT,S,N,F,123,,Howard Road,,Cambridge
+2026-04-02,234000,CB5 8LY,F,N,L,116A,,Whitehill Road,,Cambridge
+2026-03-27,185000,CB5 8NS,F,N,L,Regatta Court,11,Oyster Row,,Cambridge
+2026-03-20,335000,CB5 8JB,F,N,L,St Bartholomews Court,6,Riverside,,Cambridge
+2026-03-13,343000,CB5 8BG,F,N,L,142,,Marleigh Avenue,,Cambridge
+2026-03-10,280000,CB5 8SU,S,N,F,20,,Church Street,Fen Ditton,Cambridge
+2026-02-27,550000,CB5 8UL,S,N,F,10,,Tiptree Close,,Cambridge
+2026-02-27,231250,CB5 8NS,F,N,L,Regatta Court,Flat 38,Oyster Row,,Cambridge
+2026-02-25,325000,CB5 8LZ,F,N,L,31A,,Elfleda Road,,Cambridge
+2026-02-19,425000,CB5 8UE,S,N,F,2,,Brentwood Close,,Cambridge
+2026-02-17,425000,CB5 8JD,F,N,L,St Bartholomews Court,76,Riverside,,Cambridge
+2026-02-13,835000,CB5 8HZ,T,N,F,Beche Court,3,Beche Road,,Cambridge
+2026-02-12,1084000,CB5 8HN,T,N,F,41,,Riverside,,Cambridge
+2026-02-11,207500,CB5 8TL,F,N,L,36,,Fison Road,,Cambridge
+2026-02-06,950000,CB5 8DJ,T,N,F,15,,North Terrace,,Cambridge
+2026-02-05,448000,CB5 8SA,S,N,F,6,,Meadowlands Road,,Cambridge
+2026-01-22,660000,CB5 8QT,S,N,F,103,,Howard Road,,Cambridge
+2026-01-14,660000,CB5 8DG,T,N,F,9,,Brunswick Terrace,,Cambridge
+2026-01-12,217000,CB5 8NS,F,N,L,Regatta Court,Flat 42,Oyster Row,,Cambridge
+2026-01-09,260000,CB5 8TZ,S,N,L,7,,Coggeshall Close,,Cambridge
+2025-12-19,480000,CB5 8SD,S,N,F,17,,The Homing,,Cambridge
+2025-12-15,650000,CB5 8SS,D,N,F,104,,Ditton Lane,Fen Ditton,Cambridge
+2025-12-15,385000,CB5 8RQ,T,N,F,115,,Barnwell Road,,Cambridge
+2025-12-15,255000,CB5 8QE,F,N,L,20,Flat 1,Ditton Walk,,Cambridge
+2025-12-05,715000,CB5 8LL,D,N,F,554,,Newmarket Road,,Cambridge
+2025-12-05,390000,CB5 8BG,F,N,L,130,,Marleigh Avenue,,Cambridge
+2025-12-05,400000,CB5 8AX,F,N,L,"Beacon Rise, 160",42,Newmarket Road,,Cambridge
+2025-12-03,550000,CB5 8QP,S,N,F,108,,Howard Road,,Cambridge
+2025-11-27,255000,CB5 8TY,F,N,L,8,,Chigwell Court,,Cambridge
+2025-11-26,470000,CB5 8SD,S,N,F,25,,The Homing,,Cambridge
+2025-11-24,535000,CB5 8PA,S,N,F,539,,Newmarket Road,,Cambridge
+2025-11-24,225000,CB5 8LY,T,N,L,140A,,Whitehill Road,,Cambridge
+2025-11-24,575000,CB5 8DG,T,N,F,3,,Brunswick Terrace,,Cambridge
+2025-11-21,165000,CB5 8NS,F,N,L,Regatta Court,7,Oyster Row,,Cambridge
+2025-11-21,350000,CB5 8JG,T,N,F,409,,Newmarket Road,,Cambridge
+2025-11-20,375000,CB5 8TE,D,N,F,28A,,High Ditch Road,Fen Ditton,Cambridge
+2025-11-14,423500,CB5 8NL,S,N,F,25,,Rawlyn Road,,Cambridge
+2025-11-11,1100000,CB5 8AW,F,N,F,27,,Portugal Street,,Cambridge
+2025-11-07,497500,CB5 8LF,T,N,F,7,,Stanley Road,,Cambridge
+2025-11-06,427500,CB5 8RJ,S,N,F,96,,Peverel Road,,Cambridge
+2025-10-31,370000,CB5 8JE,T,N,F,325,,Newmarket Road,,Cambridge
+2025-10-30,490000,CB5 8RW,S,N,F,2,,Peverel Close,,Cambridge
+2025-10-28,325000,CB5 8JG,T,N,F,415,,Newmarket Road,,Cambridge
+2025-10-27,298000,CB5 8FR,F,N,L,15,,Grebe Court,,Cambridge
+2025-10-22,560000,CB5 8RN,S,N,F,65,,Peverel Road,,Cambridge
+2025-10-22,466500,CB5 8LY,T,N,F,84,,Whitehill Road,,Cambridge
+2025-10-20,320000,CB5 8LF,T,N,F,3,,Stanley Road,,Cambridge
+2025-10-17,362500,CB5 8TS,T,N,F,26,,Dennis Road,,Cambridge
+2025-10-15,604500,CB5 8BG,S,N,F,178,,Marleigh Avenue,,Cambridge
+2025-10-10,1320000,CB5 8DE,T,N,F,47,,Maids Causeway,,Cambridge
+2025-09-30,625000,CB5 8LE,D,N,F,14,,Gregory Park Mews,,Cambridge
+2025-09-26,305000,CB5 8QU,S,N,L,37,,Howard Close,,Cambridge
+2025-09-26,415000,CB5 8LY,T,N,F,102,,Whitehill Road,,Cambridge
+2025-09-25,428000,CB5 8RL,S,N,F,180,,Peverel Road,,Cambridge
+2025-09-24,245000,CB5 8SB,T,N,F,1,,Thetford Terrace,,Cambridge
+2025-09-23,450000,CB5 8AX,F,N,L,"Beacon Rise, 160",48,Newmarket Road,,Cambridge
+2025-09-19,245000,CB5 8UB,F,N,L,26,,Thorpe Way,,Cambridge
+2025-09-19,381000,CB5 8SG,S,N,F,20,,Sunnyside,,Cambridge
+2025-09-19,344500,CB5 8JG,T,N,F,405,,Newmarket Road,,Cambridge
+2025-09-15,730000,CB5 8AG,F,N,L,32,,Beaufort Place,,Cambridge
+2025-09-12,230000,CB5 8RT,F,N,L,780,,Newmarket Road,,Cambridge
+2025-09-04,250000,CB5 8TH,F,N,L,Newton Court,17,Kingsley Walk,,Cambridge
+2025-09-03,400000,CB5 9DR,T,N,F,"Rosewood, 2B",,Arber Close,Bottisham,Cambridge
+2025-08-22,325000,CB5 8NY,F,N,L,Marlowe House,20,Kingsley Walk,,Cambridge
+2025-08-15,290000,CB5 8AX,F,N,L,"Beacon Rise, 160",52,Newmarket Road,,Cambridge
+2025-08-12,296400,CB5 8QU,F,N,L,57,,Howard Close,,Cambridge
+2025-08-08,550000,CB5 8PF,S,N,F,117,,Wadloes Road,,Cambridge
+2025-08-07,405000,CB5 8PF,S,N,F,87,,Wadloes Road,,Cambridge
+2025-08-06,644000,CB5 8HX,T,N,F,59,,Beche Road,,Cambridge
+2025-08-05,340000,CB5 8NF,S,N,F,23,,Thorleye Road,,Cambridge
+2025-08-01,410000,CB5 8JD,F,N,L,St Bartholomews Court,86,Riverside,,Cambridge
+2025-07-31,425000,CB5 8LJ,S,N,F,33,,Oyster Row,,Cambridge
+2025-07-29,504000,CB5 8RH,S,N,F,76,,Peverel Road,,Cambridge
+2025-07-28,685000,CB5 8TE,D,N,F,46,,High Ditch Road,Fen Ditton,Cambridge
+2025-07-25,375000,CB5 8QL,T,N,F,46,,Ditton Fields,,Cambridge
+2025-07-18,401300,CB5 8TE,T,N,F,The Brambles,,High Ditch Road,Fen Ditton,Cambridge
+2025-07-10,703000,CB5 8DN,T,N,F,30,,Parsonage Street,,Cambridge
+2025-07-09,548500,CB5 8HX,T,N,F,31,,Beche Road,,Cambridge
+2025-07-04,573000,CB5 8PA,T,N,F,605,,Newmarket Road,,Cambridge
+2025-07-03,235000,CB5 8TN,T,N,L,7,,Anns Road,,Cambridge
+2025-06-27,515000,CB5 8QR,S,N,F,138,,Howard Road,,Cambridge
+2025-06-25,225500,CB5 8TD,F,N,L,2,,Musgrave Way,Fen Ditton,Cambridge
+2025-06-19,350000,CB5 8PF,T,N,F,17,,Wadloes Road,,Cambridge
+2025-06-19,490000,CB5 8HH,S,N,F,59,,Abbey Road,,Cambridge
+2025-06-16,2700000,CB5 8DA,D,N,F,14,,Maids Causeway,,Cambridge
+2025-06-13,463000,CB5 8LZ,S,N,F,8,,Elfleda Road,,Cambridge
+2025-06-12,500000,CB5 8SR,S,N,F,44,,Ditton Lane,,Cambridge
+2025-06-05,603000,CB5 8SZ,D,N,F,1,,Horningsea Road,Fen Ditton,Cambridge
+2025-06-03,600000,CB5 8DG,T,N,F,14,,Brunswick Terrace,,Cambridge
+2025-05-23,276000,CB5 8NE,F,N,L,10A,,Whitehill Close,,Cambridge
+2025-05-16,385000,CB5 8SE,S,N,F,29,,The Westering,,Cambridge
+2025-05-15,240000,CB5 8NS,F,N,L,Regatta Court,Flat 40,Oyster Row,,Cambridge
+2025-05-02,990000,CB5 8HL,T,N,F,21,,Riverside,,Cambridge
+2025-04-30,568650,CB5 8SG,D,N,F,22,,Sunnyside,,Cambridge
+2025-04-29,323000,CB5 8AX,F,N,L,"Beacon Rise, 160",21,Newmarket Road,,Cambridge
+2025-04-25,412821,CB5 8QP,T,N,F,78,,Howard Road,,Cambridge
+2025-04-24,625000,CB5 8HP,T,N,F,39,,River Lane,,Cambridge
+2025-04-22,850000,CB5 8DL,T,N,F,Brunswick Cottages,2,Midsummer Common,,Cambridge
+2025-04-17,535000,CB5 8NY,F,N,L,Marlowe House,21,Kingsley Walk,,Cambridge
+2025-04-11,274000,CB5 8UR,F,N,L,9,,Misty Meadows,,Cambridge
+2025-03-31,381000,CB5 8PF,T,N,F,139,,Wadloes Road,,Cambridge
+2025-03-31,290000,CB5 8NP,F,N,L,8A,,Rayson Way,,Cambridge
+2025-03-31,795000,CB5 8HG,T,N,F,St Bartholomews Court,39,Riverside,,Cambridge
+2025-03-31,500000,CB5 8AX,F,N,L,"Beacon Rise, 160",53,Newmarket Road,,Cambridge
+2025-03-28,207000,CB5 8TD,F,N,L,16,,Musgrave Way,Fen Ditton,Cambridge
+2025-03-28,450000,CB5 8ND,S,N,F,16,,Galfrid Road,,Cambridge
+2025-03-27,420000,CB5 8SF,S,N,F,6,,The Westering,,Cambridge
+2025-03-27,550000,CB5 8NY,F,N,L,Marlowe House,15,Kingsley Walk,,Cambridge
+2025-03-27,490000,CB5 8JY,F,N,L,Darwin House,18,Kingsley Walk,,Cambridge
+2025-03-26,473007,CB5 8SR,T,N,F,62,,Ditton Lane,,Cambridge
+2025-03-21,465000,CB5 8LZ,S,N,F,14,,Elfleda Road,,Cambridge
+2025-03-21,440000,CB5 8JB,F,N,L,St Bartholomews Court,21,Riverside,,Cambridge
+2025-03-20,615000,CB5 8SS,D,N,F,131,,Ditton Lane,Fen Ditton,Cambridge
+2025-03-11,325000,CB5 8QY,T,N,F,5,,Dunsmore Close,,Cambridge
+2025-03-11,645000,CB5 8LL,D,N,F,552,,Newmarket Road,,Cambridge
+2025-03-07,571000,CB5 8PA,S,N,F,531,,Newmarket Road,,Cambridge
+2025-03-04,517500,CB5 8SE,S,N,F,43,,The Westering,,Cambridge
+2025-02-28,682500,CB5 8LT,S,N,F,5,,Whitehill Road,,Cambridge
+2025-02-26,515000,CB5 8QQ,T,N,F,37,,Ditton Fields,,Cambridge
+2025-02-24,455000,CB5 8HP,T,N,F,53,,River Lane,,Cambridge
+2025-02-18,987801,CB5 8HX,D,N,F,15,,Beche Road,,Cambridge
+2025-02-17,1140000,CB5 8EA,T,N,F,3,,Evening Court,,Cambridge
+2025-02-14,91250,CB5 8XB,F,N,L,31,,Valiant Lane,,Cambridge
+2025-02-14,247500,CB5 8UQ,F,N,L,5,,Loughton Court,,Cambridge
+2025-02-10,260000,CB5 8JS,S,N,L,4,,Durrant Close,,Cambridge
+2025-02-07,370000,CB5 8SF,S,N,F,4,,The Westering,,Cambridge
+2025-02-07,567000,CB5 8LL,S,N,F,576,,Newmarket Road,,Cambridge
+2025-02-07,867000,CB5 8HL,T,N,F,26,,Riverside,,Cambridge
+2025-02-03,235000,CB5 8TN,F,N,L,15,,Anns Road,,Cambridge
+2025-01-31,249000,CB5 8UB,F,N,L,68,,Thorpe Way,,Cambridge
+2025-01-31,300000,CB5 8HH,F,N,L,41,First Floor Flat,Abbey Road,,Cambridge
+2025-01-27,250000,CB5 8SB,T,N,F,1A,,Thetford Terrace,,Cambridge
+2025-01-24,375000,CB5 8TR,T,N,F,1,,Leonard Close,,Cambridge
+2025-01-24,450000,CB5 8SP,S,N,F,23,,Ditton Lane,,Cambridge
+2025-01-24,440000,CB5 8JE,T,N,F,331,,Newmarket Road,,Cambridge
+2025-01-22,420000,CB5 8NW,T,N,F,3,,Norton Close,,Cambridge
+2025-01-21,800000,CB5 8TJ,F,N,L,Brooke House,37,Kingsley Walk,,Cambridge
+2025-01-03,875000,CB5 8TH,F,N,L,Newton Court,45,Kingsley Walk,,Cambridge
+2024-12-20,705000,CB5 8AX,F,N,L,"Beacon Rise, 160",19,Newmarket Road,,Cambridge
+2024-12-19,700000,CB5 8HX,D,N,F,9,,Beche Road,,Cambridge
+2024-12-18,223800,CB5 8NB,F,N,L,Holyoake Court,3,Whitehill Road,,Cambridge
+2024-12-12,485000,CB5 8SA,S,N,F,8,,Meadowlands Road,,Cambridge
+2024-12-12,266500,CB5 8QT,S,N,L,33,,Howard Road,,Cambridge
+2024-12-11,650000,CB5 8HR,T,N,F,11,,Godesdone Road,,Cambridge
+2024-12-06,640000,CB5 8NA,S,N,F,57,,Elfleda Road,,Cambridge
+2024-12-05,239000,CB5 8TZ,F,N,L,13,,Coggeshall Close,,Cambridge
+2024-12-04,395000,CB5 8UJ,S,N,F,23A,,Thorpe Way,,Cambridge
+2024-12-02,350000,CB5 8UR,F,N,L,1,,Misty Meadows,,Cambridge
+2024-11-29,510000,CB5 8UH,T,N,F,4,,Ongar Court,,Cambridge
+2024-11-29,860000,CB5 8TE,D,N,F,20,,High Ditch Road,Fen Ditton,Cambridge
+2024-11-29,402000,CB5 8SG,T,N,F,1A,,Sunnyside,,Cambridge
+2024-11-29,415000,CB5 8LP,D,N,F,598,,Newmarket Road,,Cambridge
+2024-11-28,395000,CB5 8QH,T,N,F,165,,Ditton Fields,,Cambridge
+2024-11-26,415000,CB5 8LY,T,N,F,86,,Whitehill Road,,Cambridge
+2024-11-25,550000,CB5 8NY,F,N,L,Marlowe House,39,Kingsley Walk,,Cambridge
+2024-11-22,430000,CB5 8SY,S,N,F,11,,Wrights Close,Fen Ditton,Cambridge
+2024-11-15,287500,CB5 8XB,F,N,L,9,,Valiant Lane,,Cambridge
+2024-11-15,290000,CB5 8QU,F,N,L,62,,Howard Close,,Cambridge
+2024-11-15,390000,CB5 8DD,F,N,L,"Grafton House, 64",Flat 4,Maids Causeway,,Cambridge
+2024-11-12,395000,CB5 8QH,S,N,F,261,,Ditton Fields,,Cambridge
+2024-11-11,650000,CB5 8HS,S,N,F,19,,Saxon Road,,Cambridge
+2024-11-07,550000,CB5 8TH,F,N,L,Newton Court,32,Kingsley Walk,,Cambridge
+2024-11-06,450000,CB5 8FR,T,N,F,4,,Grebe Court,,Cambridge
+2024-11-06,403950,CB5 8BX,F,Y,L,147,,Marleigh Avenue,,Cambridge
+2024-11-01,825000,CB5 8JN,T,N,F,8,,Titch Street,,Cambridge
+2024-10-31,800000,CB5 8HG,T,N,F,St Bartholomews Court,62,Riverside,,Cambridge
+2024-10-31,412752,CB5 8BX,F,Y,L,135,,Marleigh Avenue,,Cambridge
+2024-10-30,750000,CB5 8HG,T,N,F,St Bartholomews Court,61,Riverside,,Cambridge
+2024-10-30,383850,CB5 8BX,F,Y,L,153,,Marleigh Avenue,,Cambridge
+2024-10-25,700000,CB5 8LG,D,N,F,The Round House,,Newmarket Road,,Cambridge
+2024-10-24,327730,CB5 8UJ,T,N,L,3A,,Thorpe Way,,Cambridge
+2024-10-22,590000,CB5 8SP,S,N,F,27,,Ditton Lane,,Cambridge
+2024-10-22,670000,CB5 8SN,S,N,F,1,,Fairfield End,,Cambridge
+2024-10-18,212000,CB5 8PQ,F,N,L,15,,Headford Close,,Cambridge
+2024-10-18,210000,CB5 8NE,F,N,L,4,,Whitehill Close,,Cambridge
+2024-10-18,460000,CB5 8LT,S,N,F,16,,Whitehill Road,,Cambridge
+2024-10-16,1077951,CB5 8XU,D,Y,F,11,,The Copse,,Cambridge
+2024-10-11,920000,CB5 8HL,S,N,F,15,,Riverside,,Cambridge
+2024-10-04,730000,CB5 8HS,T,N,F,5,,Saxon Road,,Cambridge
+2024-10-04,399950,CB5 8BX,F,Y,L,137,,Marleigh Avenue,,Cambridge
+2024-10-04,785000,CB5 8AG,F,N,L,6,,Beaufort Place,,Cambridge
+2024-10-02,575000,CB5 8NY,F,N,L,Marlowe House,9,Kingsley Walk,,Cambridge
+2024-10-02,600000,CB5 8HR,T,N,F,16,,Godesdone Road,,Cambridge
+2024-10-01,985000,CB5 8HU,T,N,F,20,,Beche Road,,Cambridge
+2024-10-01,360000,CB5 8AX,F,N,L,"Beacon Rise, 160",2,Newmarket Road,,Cambridge
+2024-09-30,671950,CB5 8LE,D,Y,F,4,,Gregory Park Mews,,Cambridge
+2024-09-30,411950,CB5 8BX,F,Y,L,119,,Marleigh Avenue,,Cambridge
+2024-09-27,739950,CB5 8YH,D,Y,F,20,,Cessna Way,,Cambridge
+2024-09-27,522453,CB5 8XT,T,Y,F,14,,Grey Way,,Cambridge
+2024-09-27,400000,CB5 8PJ,S,N,F,5,,Dudley Road,,Cambridge
+2024-09-27,398950,CB5 8BX,F,Y,L,131,,Marleigh Avenue,,Cambridge
+2024-09-25,649950,CB5 8YH,D,Y,F,22,,Cessna Way,,Cambridge
+2024-09-25,735000,CB5 8DR,T,N,F,42,,Bailey Mews,,Cambridge
+2024-09-24,725000,CB5 8AG,F,N,L,35,,Beaufort Place,,Cambridge
+2024-09-23,979951,CB5 8XU,D,Y,F,19,,The Copse,,Cambridge
+2024-09-23,405000,CB5 8JE,T,N,F,283,,Newmarket Road,,Cambridge
+2024-09-16,295000,CB5 8BG,F,N,L,110,,Marleigh Avenue,,Cambridge
+2024-09-10,300000,CB5 8SG,S,N,F,8,,Sunnyside,,Cambridge
+2024-09-06,310013,CB5 8UR,F,N,L,13,,Misty Meadows,,Cambridge
+2024-09-03,256000,CB5 8RT,F,N,L,762,,Newmarket Road,,Cambridge
+2024-09-02,627151,CB5 8XT,S,Y,F,24,,Grey Way,,Cambridge
+2024-09-02,402000,CB5 8UJ,S,N,F,27,,Thorpe Way,,Cambridge
+2024-08-30,646751,CB5 8XT,D,Y,F,20,,Grey Way,,Cambridge
+2024-08-30,561000,CB5 8HT,S,N,F,34,,Priory Road,,Cambridge
+2024-08-30,439950,CB5 8BX,F,Y,L,141,,Marleigh Avenue,,Cambridge
+2024-08-29,979950,CB5 8XU,D,Y,F,12,,The Copse,,Cambridge
+2024-08-29,429950,CB5 8BX,F,Y,L,143,,Marleigh Avenue,,Cambridge
+2024-08-28,434950,CB5 8BX,F,Y,L,125,,Marleigh Avenue,,Cambridge
+2024-08-27,509950,CB5 8BX,F,Y,L,163,,Marleigh Avenue,,Cambridge
+2024-08-27,509950,CB5 8BX,F,Y,L,161,,Marleigh Avenue,,Cambridge
+2024-08-27,499950,CB5 8BX,F,Y,L,159,,Marleigh Avenue,,Cambridge
+2024-08-27,519950,CB5 8BX,F,Y,L,157,,Marleigh Avenue,,Cambridge
+2024-08-23,970000,CB5 8XU,D,Y,F,17,,The Copse,,Cambridge
+2024-08-23,660450,CB5 8XE,D,Y,F,3,,Tiger Moth Lane,,Cambridge
+2024-08-23,460000,CB5 8PF,S,N,F,113,,Wadloes Road,,Cambridge
+2024-08-23,422352,CB5 8BX,F,Y,L,117,,Marleigh Avenue,,Cambridge
+2024-08-16,495000,CB5 8LL,S,N,F,584,,Newmarket Road,,Cambridge
+2024-08-16,475000,CB5 8HX,T,N,F,45,,Beche Road,,Cambridge
+2024-08-12,550000,CB5 8AX,F,N,L,"Beacon Rise, 160",10,Newmarket Road,,Cambridge
+2024-08-09,965000,CB5 8XU,D,Y,F,18,,The Copse,,Cambridge
+2024-08-09,390000,CB5 8SD,S,N,F,1,,The Homing,,Cambridge
+2024-08-08,553651,CB5 8XT,T,Y,F,16,,Grey Way,,Cambridge
+2024-08-08,233000,CB5 8QQ,F,N,L,45,,Ditton Fields,,Cambridge
+2024-08-06,558551,CB5 8XT,T,Y,F,18,,Grey Way,,Cambridge
+2024-08-05,825000,CB5 8HG,T,N,F,St Bartholomews Court,48,Riverside,,Cambridge
+2024-07-31,980000,CB5 8XU,D,Y,F,8,,The Copse,,Cambridge
+2024-07-29,595152,CB5 8XT,S,Y,F,23,,Grey Way,,Cambridge
+2024-07-26,969950,CB5 8XU,D,Y,F,6,,The Copse,,Cambridge
+2024-07-26,969950,CB5 8XU,D,Y,F,4,,The Copse,,Cambridge
+2024-07-26,330000,CB5 8TH,F,N,L,Newton Court,31,Kingsley Walk,,Cambridge
+2024-07-26,270000,CB5 8RB,F,N,L,6,,Howard Court,,Cambridge
+2024-07-26,435000,CB5 8PJ,S,N,F,44,,Dudley Road,,Cambridge
+2024-07-25,610950,CB5 8XT,S,Y,F,21,,Grey Way,,Cambridge
+2024-07-19,450000,CB5 8SR,S,N,F,80,,Ditton Lane,,Cambridge
+2024-07-19,429950,CB5 8ES,F,Y,L,55,,Bragg Way,,Cambridge
+2024-07-17,475000,CB5 8SP,S,N,F,22,,Ditton Lane,,Cambridge
+2024-07-15,370000,CB5 8QE,S,N,F,144,,Ditton Walk,,Cambridge
+2024-07-15,1025000,CB5 8DN,T,N,F,26,,Parsonage Street,,Cambridge
+2024-07-12,999950,CB5 8XU,D,Y,F,9,,The Copse,,Cambridge
+2024-07-12,307000,CB5 8PN,F,N,L,7A,,Egerton Close,,Cambridge
+2024-07-12,460000,CB5 8LF,T,N,F,5,,Stanley Road,,Cambridge
+2024-07-12,329950,CB5 8BX,F,Y,L,93,,Marleigh Avenue,,Cambridge
+2024-07-12,334950,CB5 8BX,F,Y,L,103,,Marleigh Avenue,,Cambridge
+2024-07-11,433950,CB5 8BX,F,Y,L,99,,Marleigh Avenue,,Cambridge
+2024-07-11,441702,CB5 8BX,F,Y,L,97,,Marleigh Avenue,,Cambridge
+2024-07-11,385950,CB5 8BX,F,Y,L,85,,Marleigh Avenue,,Cambridge
+2024-07-11,446352,CB5 8BX,F,Y,L,111,,Marleigh Avenue,,Cambridge
+2024-07-11,339950,CB5 8BX,F,Y,L,105,,Marleigh Avenue,,Cambridge
+2024-07-05,999950,CB5 8XU,D,Y,F,7,,The Copse,,Cambridge
+2024-07-05,790000,CB5 8HG,T,N,F,St Bartholomews Court,27,Riverside,,Cambridge
+2024-07-02,810000,CB5 8HL,T,N,F,32,,Riverside,,Cambridge
+2024-06-28,979950,CB5 8XU,D,Y,F,5,,The Copse,,Cambridge
+2024-06-28,370000,CB5 8PN,S,N,F,19,,Egerton Close,,Cambridge
+2024-06-28,1340000,CB5 8DD,T,N,F,58,,Maids Causeway,,Cambridge
+2024-06-21,159500,CB5 8UP,T,N,L,9,,Stanbury Close,Fen Ditton,Cambridge
+2024-06-20,1092453,CB5 8XU,D,Y,F,10,,The Copse,,Cambridge
+2024-06-19,695000,CB5 8HS,T,N,F,1,,Saxon Road,,Cambridge
+2024-06-17,235000,CB5 8UR,F,N,L,14,,Misty Meadows,,Cambridge
+2024-06-14,395000,CB5 8SF,S,N,F,28,,The Westering,,Cambridge
+2024-06-14,200000,CB5 8SA,F,N,L,11,,Meadowlands Road,,Cambridge
+2024-06-14,410000,CB5 8NH,S,N,F,5,,Stanesfield Road,,Cambridge
+2024-06-14,485000,CB5 8LZ,S,N,F,7,,Elfleda Road,,Cambridge
+2024-06-14,305000,CB5 8LZ,F,N,L,31,,Elfleda Road,,Cambridge
+2024-06-14,699950,CB5 8JN,D,Y,F,3,,Titch Street,,Cambridge
+2024-06-12,519000,CB5 8HP,T,N,F,55,,River Lane,,Cambridge
+2024-06-10,395000,CB5 8LJ,T,N,F,26,,Oyster Row,,Cambridge
+2024-06-07,750000,CB5 8XS,D,Y,F,8,,Humble Lane,,Cambridge
+2024-06-07,460000,CB5 8QE,T,N,F,44,,Ditton Walk,,Cambridge
+2024-05-31,251000,CB5 8QU,F,N,L,59,,Howard Close,,Cambridge
+2024-05-24,621000,CB5 8SF,D,N,F,2,,The Westering,,Cambridge
+2024-05-23,630000,CB5 8DN,T,N,F,10,,Parsonage Street,,Cambridge
+2024-05-22,524000,CB5 8HX,T,N,F,69,,Beche Road,,Cambridge
+2024-05-22,520000,CB5 8HX,T,N,F,27,,Beche Road,,Cambridge
+2024-05-17,1255000,CB5 8TE,D,N,F,44,,High Ditch Road,Fen Ditton,Cambridge
+2024-05-17,485000,CB5 8SY,S,N,F,8,,Wrights Close,Fen Ditton,Cambridge
+2024-05-17,795000,CB5 8HG,T,N,F,St Bartholomews Court,41,Riverside,,Cambridge
+2024-05-03,255000,CB5 8TZ,F,N,L,14,,Coggeshall Close,,Cambridge
+2024-05-03,470000,CB5 8NL,S,N,F,41,,Rawlyn Road,,Cambridge
+2024-05-03,520000,CB5 8HL,T,N,F,27,,Riverside,,Cambridge
+2024-05-03,305000,CB5 8BG,F,N,L,156,,Marleigh Avenue,,Cambridge
+2024-05-01,340000,CB5 8RR,T,N,F,17,,Barnes Close,,Cambridge
+2024-04-29,520000,CB5 8LF,S,N,F,67,,Stanley Road,,Cambridge
+2024-04-17,324500,CB5 8LX,T,N,L,18,,Whitehill Road,,Cambridge
+2024-04-12,360000,CB5 8TZ,S,N,F,10,,Coggeshall Close,,Cambridge
+2024-04-05,520000,CB5 8SF,S,N,F,56,,The Westering,,Cambridge
+2024-04-05,290000,CB5 8NP,F,N,L,15A,,Rayson Way,,Cambridge
+2024-04-05,235000,CB5 8NE,F,N,L,8A,,Whitehill Close,,Cambridge
+2024-03-28,678952,CB5 8XN,D,Y,F,17,,Green Lane,,Cambridge
+2024-03-27,774151,CB5 8JN,D,Y,F,9,,Titch Street,,Cambridge
+2024-03-27,789950,CB5 8JN,D,Y,F,7,,Titch Street,,Cambridge
+2024-03-26,620752,CB5 8XN,D,Y,F,16,,Green Lane,,Cambridge
+2024-03-26,678952,CB5 8XN,D,Y,F,15,,Green Lane,,Cambridge
+2024-03-26,669950,CB5 8XE,D,Y,F,6,,Tiger Moth Lane,,Cambridge
+2024-03-25,789950,CB5 8JN,D,Y,F,5,,Titch Street,,Cambridge
+2024-03-21,445000,CB5 8NJ,S,N,F,1,,Stanesfield Close,,Cambridge
+2024-03-20,729950,CB5 8XN,D,Y,F,14,,Green Lane,,Cambridge
+2024-03-15,422500,CB5 8PR,S,N,F,10,,Keynes Road,,Cambridge
+2024-03-13,649950,CB5 8XE,D,Y,F,8,,Tiger Moth Lane,,Cambridge
+2024-03-11,690000,CB5 8XS,D,Y,F,14,,Humble Lane,,Cambridge
+2024-03-08,235000,CB5 8TY,F,N,L,11,,Chigwell Court,,Cambridge
+2024-03-07,620752,CB5 8LH,D,Y,F,33,,The Avenue,,Cambridge
+2024-03-07,674102,CB5 8LH,D,Y,F,31,,The Avenue,,Cambridge
+2024-03-01,551000,CB5 8AJ,T,N,F,7,,Richmond Terrace,,Cambridge
+2024-02-29,709950,CB5 8XE,D,Y,F,2,,Tiger Moth Lane,,Cambridge
+2024-02-28,472000,CB5 8RJ,D,N,F,130,,Peverel Road,,Cambridge
+2024-02-23,724000,CB5 8XP,D,Y,F,1,,Oak Court,,Cambridge
+2024-02-23,325000,CB5 8NZ,F,N,L,Keynes House,7,Kingsley Walk,,Cambridge
+2024-02-22,527000,CB5 8NH,S,N,F,29,,Stanesfield Road,,Cambridge
+2024-02-12,700000,CB5 8XP,D,Y,F,6,,Oak Court,,Cambridge
+2024-02-02,949950,CB5 8JN,T,Y,F,10,,Titch Street,,Cambridge
+2024-01-31,729552,CB5 8XS,D,Y,F,2,,Humble Lane,,Cambridge
+2024-01-31,640152,CB5 8XP,D,Y,F,5,,Oak Court,,Cambridge
+2024-01-31,899950,CB5 8JN,T,Y,F,8,,Titch Street,,Cambridge
+2024-01-29,315000,CB5 8EB,F,N,L,9,,Maltings Close,,Cambridge
+2024-01-26,550000,CB5 8SX,D,N,F,21,,Green End,Fen Ditton,Cambridge
+2024-01-26,570000,CB5 8EH,S,N,F,8,,Abbey Gardens,,Cambridge
+2024-01-15,512000,CB5 8SS,S,N,F,138,,Ditton Lane,Fen Ditton,Cambridge
+2024-01-05,400000,CB5 8SB,T,N,F,6,,Thetford Terrace,,Cambridge
+2024-01-04,420000,CB5 8NH,D,N,F,39,,Stanesfield Road,,Cambridge
+2023-12-22,559950,CB5 8XS,D,Y,F,1,,Humble Lane,,Cambridge
+2023-12-22,1099950,CB5 8XP,D,Y,F,3,,Oak Court,,Cambridge
+2023-12-22,659552,CB5 8XP,D,Y,F,2,,Oak Court,,Cambridge
+2023-12-22,659950,CB5 8XE,D,Y,F,4,,Tiger Moth Lane,,Cambridge
+2023-12-22,669950,CB5 8XE,D,Y,F,1,,Tiger Moth Lane,,Cambridge
+2023-12-21,999052,CB5 8XP,D,Y,F,4,,Oak Court,,Cambridge
+2023-12-21,883950,CB5 8JN,T,Y,F,6,,Titch Street,,Cambridge
+2023-12-21,888100,CB5 8JN,T,Y,F,4,,Titch Street,,Cambridge
+2023-12-21,238440,CB5 8JE,F,N,L,251,Flat 1,Newmarket Road,,Cambridge
+2023-12-20,392500,CB5 8JQ,F,N,L,Water View,4,Riverside,,Cambridge
+2023-12-18,460000,CB5 8QP,S,N,F,100,,Howard Road,,Cambridge
+2023-12-15,330000,CB5 8EL,S,N,F,2,,Century Close,,Cambridge
+2023-12-14,624950,CB5 8XN,D,Y,F,13,,Green Lane,,Cambridge
+2023-12-13,784950,CB5 8XT,D,Y,F,17,,Grey Way,,Cambridge
+2023-12-13,250000,CB5 8QU,F,N,L,65,,Howard Close,,Cambridge
+2023-12-12,789950,CB5 8XT,D,Y,F,19,,Grey Way,,Cambridge
+2023-12-11,758950,CB5 8XS,D,Y,F,6,,Humble Lane,,Cambridge
+2023-12-11,480000,CB5 8PR,S,N,F,54,,Keynes Road,,Cambridge
+2023-12-08,455501,CB5 8SS,T,N,F,124,,Ditton Lane,Fen Ditton,Cambridge
+2023-12-07,629950,CB5 8XN,D,Y,F,9,,Green Lane,,Cambridge
+2023-11-30,699950,CB5 8XS,D,Y,F,12,,Humble Lane,,Cambridge
+2023-11-30,709950,CB5 8XN,D,Y,F,12,,Green Lane,,Cambridge
+2023-11-30,719950,CB5 8XN,S,Y,F,10,,Green Lane,,Cambridge
+2023-11-28,636951,CB5 8XN,D,Y,F,11,,Green Lane,,Cambridge
+2023-11-24,784950,CB5 8XT,D,Y,F,15,,Grey Way,,Cambridge
+2023-11-24,719950,CB5 8XN,S,Y,F,8,,Green Lane,,Cambridge
+2023-11-22,789950,CB5 8XT,D,Y,F,13,,Grey Way,,Cambridge
+2023-11-20,800000,CB5 8AG,F,N,L,42,,Beaufort Place,,Cambridge
+2023-11-17,351000,CB5 8UG,T,N,F,11,,Brentwood Court,,Cambridge
+2023-11-10,625000,CB5 8NY,F,N,L,Marlowe House,3,Kingsley Walk,,Cambridge
+2023-11-09,709950,CB5 8XQ,S,Y,F,2,,Walnut Court,,Cambridge
+2023-11-09,295000,CB5 8FR,F,N,L,35,,Grebe Court,,Cambridge
+2023-11-07,719950,CB5 8XN,S,Y,F,6,,Green Lane,,Cambridge
+2023-11-02,1465000,CB5 8AL,T,N,F,8,,Park Parade,,Cambridge
+2023-10-31,1004201,CB5 8XQ,D,Y,F,8,,Walnut Court,,Cambridge
+2023-10-30,729950,CB5 8XQ,S,Y,F,4,,Walnut Court,,Cambridge
+2023-10-25,999950,CB5 8XQ,D,Y,F,7,,Walnut Court,,Cambridge
+2023-10-25,674950,CB5 8XQ,D,Y,F,6,,Walnut Court,,Cambridge
+2023-10-25,1150000,CB5 8TE,D,N,F,35,,High Ditch Road,Fen Ditton,Cambridge
+2023-10-24,305000,CB5 8JE,F,N,L,251,Flat 3,Newmarket Road,,Cambridge
+2023-10-20,699950,CB5 8XS,D,Y,F,10,,Humble Lane,,Cambridge
+2023-10-20,650000,CB5 8HN,T,N,F,85,,Riverside,,Cambridge
+2023-10-19,205000,CB5 8JE,F,N,L,251,Flat 5,Newmarket Road,,Cambridge
+2023-10-18,365000,CB5 8SD,S,N,F,11,,The Homing,,Cambridge
+2023-10-17,674950,CB5 8XQ,D,Y,F,5,,Walnut Court,,Cambridge
+2023-10-16,350000,CB5 8RA,T,N,F,Summer Court,2,Ditton Fields,,Cambridge
+2023-10-13,666351,CB5 8XN,D,Y,F,3,,Green Lane,,Cambridge
+2023-10-13,225500,CB5 8TT,F,N,L,44,,Dennis Road,,Cambridge
+2023-10-12,420000,CB5 8NF,T,N,F,15,,Thorleye Road,,Cambridge
+2023-10-12,460000,CB5 8HT,T,N,F,28,,Priory Road,,Cambridge
+2023-10-06,380000,CB5 8QT,S,N,F,137,,Howard Road,,Cambridge
+2023-10-06,455000,CB5 8QH,T,N,F,187,,Ditton Fields,,Cambridge
+2023-10-05,734951,CB5 8XQ,D,Y,F,3,,Walnut Court,,Cambridge
+2023-10-04,649950,CB5 8LE,D,Y,F,26,,Gregory Park Mews,,Cambridge
+2023-09-29,759950,CB5 8XS,D,Y,F,4,,Humble Lane,,Cambridge
+2023-09-28,729950,CB5 8XQ,S,Y,F,1,,Walnut Court,,Cambridge
+2023-09-28,670000,CB5 8HG,T,N,F,St Bartholomews Court,34,Riverside,,Cambridge
+2023-09-28,1850000,CB5 8DE,D,N,F,27,,Maids Causeway,,Cambridge
+2023-09-28,2975000,CB5 8DA,D,N,F,12,,Maids Causeway,,Cambridge
+2023-09-26,870000,CB5 8BX,D,Y,F,245,,Marleigh Avenue,,Cambridge
+2023-09-22,400000,CB5 8QD,T,N,F,67,,Ditton Walk,,Cambridge
+2023-09-22,475000,CB5 8HU,T,N,F,80,,Beche Road,,Cambridge
+2023-09-20,501235,CB5 8SD,S,N,F,21,,The Homing,,Cambridge
+2023-09-15,639000,CB5 8XN,S,Y,F,7,,Green Lane,,Cambridge
+2023-09-15,799995,CB5 8LQ,S,Y,F,1,,Gregory Park North,,Cambridge
+2023-09-14,330000,CB5 8QY,T,N,F,4,,Dunsmore Close,,Cambridge
+2023-09-14,325000,CB5 8HS,D,N,F,"The Lock Up, 2A",,Saxon Road,,Cambridge
+2023-09-14,400000,CB5 8HJ,F,N,L,2,,The Mallards,,Cambridge
+2023-09-08,619950,CB5 8XN,S,Y,F,5,,Green Lane,,Cambridge
+2023-09-08,819950,CB5 8LQ,S,Y,F,3,,Gregory Park North,,Cambridge
+2023-09-07,819950,CB5 8LQ,S,Y,F,7,,Gregory Park North,,Cambridge
+2023-09-07,799950,CB5 8LQ,S,Y,F,5,,Gregory Park North,,Cambridge
+2023-08-31,659950,CB5 8XN,D,Y,F,4,,Green Lane,,Cambridge
+2023-08-30,361000,CB5 8RL,T,N,F,206,,Peverel Road,,Cambridge
+2023-08-22,405000,CB5 8UE,T,N,F,3,,Brentwood Close,,Cambridge
+2023-08-21,285000,CB5 8LW,F,N,L,16,,Stanley Court,,Cambridge
+2023-08-21,819950,CB5 8LQ,S,Y,F,11,,Gregory Park North,,Cambridge
+2023-08-18,689950,CB5 8XT,S,Y,F,11,,Grey Way,,Cambridge
+2023-08-18,500000,CB5 8EL,S,N,F,4,,Century Close,,Cambridge
+2023-08-11,239000,CB5 8LY,F,N,L,124,,Whitehill Road,,Cambridge
+2023-08-11,799950,CB5 8LQ,S,Y,F,9,,Gregory Park North,,Cambridge
+2023-08-11,375000,CB5 8LJ,T,N,F,20,,Oyster Row,,Cambridge
+2023-08-11,669950,CB5 8LE,D,Y,F,32,,Gregory Park Mews,,Cambridge
+2023-08-10,699950,CB5 8XT,S,Y,F,5,,Grey Way,,Cambridge
+2023-08-08,597500,CB5 8DG,T,N,F,22,,Brunswick Terrace,,Cambridge
+2023-08-07,699950,CB5 8XT,S,Y,F,7,,Grey Way,,Cambridge
+2023-08-07,599950,CB5 8XT,S,Y,F,6,,Grey Way,,Cambridge
+2023-08-04,550000,CB5 8HP,T,N,F,69,,River Lane,,Cambridge
+2023-08-03,609950,CB5 8XT,S,Y,F,8,,Grey Way,,Cambridge
+2023-08-01,689950,CB5 8XT,S,Y,F,9,,Grey Way,,Cambridge
+2023-07-31,549950,CB5 8LE,D,Y,F,21,,Gregory Park Mews,,Cambridge
+2023-07-28,841451,CB5 8LQ,D,Y,F,13,,Gregory Park North,,Cambridge
+2023-07-27,865000,CB5 8HG,T,N,F,St Bartholomews Court,37,Riverside,,Cambridge
+2023-07-26,435000,CB5 8DR,F,N,L,29,,Bailey Mews,,Cambridge
+2023-07-25,819950,CB5 8JW,D,Y,F,27,,Gregory Park South,,Cambridge
+2023-07-20,439000,CB5 8PR,T,N,F,68,,Keynes Road,,Cambridge
+2023-07-03,570000,CB5 8HW,S,N,F,33,,Garlic Row,,Cambridge
+2023-06-30,709950,CB5 8XT,S,Y,F,3,,Grey Way,,Cambridge
+2023-06-30,709950,CB5 8XT,S,Y,F,1,,Grey Way,,Cambridge
+2023-06-30,500000,CB5 8SZ,S,N,F,11,,Horningsea Road,Fen Ditton,Cambridge
+2023-06-30,542000,CB5 8NN,T,N,F,14,,Rawlyn Close,,Cambridge
+2023-06-28,250000,CB5 8AX,F,N,L,"Beacon Rise, 160",Flat 75,Newmarket Road,,Cambridge
+2023-06-23,346000,CB5 8TT,T,N,F,79,,Dennis Road,,Cambridge
+2023-06-23,549950,CB5 8LE,T,Y,F,9,,Gregory Park Mews,,Cambridge
+2023-06-22,660000,CB5 8SN,D,N,F,13,,Fairfield End,,Cambridge
+2023-06-22,660000,CB5 8SN,D,Y,F,13,,Fairfield End,,Cambridge
+2023-06-14,325000,CB5 8ET,F,N,L,Ferndale House,3,Ferndale Rise,,Cambridge
+2023-06-12,262500,CB5 8NS,F,N,L,Regatta Court,29,Oyster Row,,Cambridge
+2023-06-09,322000,CB5 8TH,F,N,L,Newton Court,7,Kingsley Walk,,Cambridge
+2023-06-09,305500,CB5 8QU,F,N,L,60,,Howard Close,,Cambridge
+2023-06-09,410000,CB5 8QD,S,N,F,105,,Ditton Walk,,Cambridge
+2023-06-08,385000,CB5 8ST,T,N,F,32,,High Street,Fen Ditton,Cambridge
+2023-06-08,740000,CB5 8DN,T,N,F,12A,,Parsonage Street,,Cambridge
+2023-06-05,480000,CB5 8RN,S,N,F,109,,Peverel Road,,Cambridge
+2023-05-31,470000,CB5 8PA,S,N,F,543,,Newmarket Road,,Cambridge
+2023-05-31,649950,CB5 8LE,D,Y,F,20,,Gregory Park Mews,,Cambridge
+2023-05-26,525000,CB5 8HR,T,N,F,23,,Godesdone Road,,Cambridge
+2023-05-26,675000,CB5 8HR,T,N,F,21,,Godesdone Road,,Cambridge
+2023-05-26,300000,CB5 8FR,F,N,L,28,,Grebe Court,,Cambridge
+2023-05-26,600000,CB5 8BG,S,N,F,180,,Marleigh Avenue,,Cambridge
+2023-05-26,620000,CB5 8AG,F,N,L,27,,Beaufort Place,,Cambridge
+2023-05-25,649959,CB5 8LE,D,Y,F,30,,Gregory Park Mews,,Cambridge
+2023-05-24,1295000,CB5 8DE,T,N,F,59,,Maids Causeway,,Cambridge
+2023-05-24,2300000,CB5 8DA,T,N,F,10,,Maids Causeway,,Cambridge
+2023-05-23,819950,CB5 8JW,T,Y,F,25,,Gregory Park South,,Cambridge
+2023-05-22,490000,CB5 8RS,S,N,F,714,,Newmarket Road,,Cambridge
+2023-05-22,649950,CB5 8LE,D,Y,F,28,,Gregory Park Mews,,Cambridge
+2023-05-16,340000,CB5 8QE,T,N,F,90,,Ditton Walk,,Cambridge
+2023-05-15,649950,CB5 8LE,D,Y,F,24,,Gregory Park Mews,,Cambridge
+2023-05-10,525000,CB5 8QR,S,N,F,138,,Howard Road,,Cambridge
+2023-05-10,900000,CB5 8JQ,F,N,L,Water View,9,Riverside,,Cambridge
+2023-05-05,819950,CB5 8JW,T,Y,F,23,,Gregory Park South,,Cambridge
+2023-05-05,819950,CB5 8JW,T,Y,F,21,,Gregory Park South,,Cambridge
+2023-05-04,610000,CB5 8SN,D,N,F,15,,Fairfield End,,Cambridge
+2023-05-04,610000,CB5 8SN,D,Y,F,15,,Fairfield End,,Cambridge
+2023-05-04,659900,CB5 8LE,D,Y,F,22,,Gregory Park Mews,,Cambridge
+2023-05-03,480000,CB5 8SN,D,Y,F,11,,Fairfield End,,Cambridge
+2023-05-02,1350000,CB5 8AL,T,N,F,2,,Park Parade,,Cambridge
+2023-04-28,515000,CB5 8SZ,S,N,F,68,,Horningsea Road,Fen Ditton,Cambridge
+2023-04-28,425000,CB5 8PP,S,N,F,53,,Keynes Road,,Cambridge
+2023-04-28,622053,CB5 8HP,T,N,F,77,,River Lane,,Cambridge
+2023-04-28,630000,CB5 8ED,D,N,F,12,,Marleigh Lane,,Cambridge
+2023-04-28,325000,CB5 8BG,F,N,L,154,,Marleigh Avenue,,Cambridge
+2023-04-27,491400,CB5 8HT,S,N,F,42,,Priory Road,,Cambridge
+2023-04-27,260000,CB5 8BD,F,N,L,161,Flat 3,Newmarket Road,,Cambridge
+2023-04-25,659551,CB5 8LE,D,Y,F,18,,Gregory Park Mews,,Cambridge
+2023-04-24,211000,CB5 8NS,F,N,L,Regatta Court,10,Oyster Row,,Cambridge
+2023-04-21,435000,CB5 8SX,D,N,F,6,,Green End,Fen Ditton,Cambridge
+2023-04-21,415000,CB5 8SX,S,N,F,12,,Green End,Fen Ditton,Cambridge
+2023-04-19,782050,CB5 8LH,D,Y,F,46,,The Avenue,,Cambridge
+2023-04-13,799950,CB5 8JW,D,Y,F,17,,Gregory Park South,,Cambridge
+2023-04-13,779950,CB5 8JW,D,Y,F,15,,Gregory Park South,,Cambridge
+2023-04-11,530000,CB5 8TJ,F,N,L,Brooke House,23,Kingsley Walk,,Cambridge
+2023-04-06,709950,CB5 8LH,S,Y,F,42,,The Avenue,,Cambridge
+2023-04-06,819950,CB5 8JW,D,Y,F,19,,Gregory Park South,,Cambridge
+2023-04-04,579950,CB5 8LE,D,Y,F,23,,Gregory Park Mews,,Cambridge
+2023-04-03,670000,CB5 8SN,D,N,F,12,,Fairfield End,,Cambridge
+2023-04-03,670000,CB5 8SN,D,Y,F,12,,Fairfield End,,Cambridge
+2023-03-31,270000,CB5 8UB,F,N,L,90,,Thorpe Way,,Cambridge
+2023-03-31,297000,CB5 8RT,F,N,L,768,,Newmarket Road,,Cambridge
+2023-03-30,466000,CB5 8NA,S,N,F,54,,Elfleda Road,,Cambridge
+2023-03-29,709950,CB5 8LH,S,Y,F,44,,The Avenue,,Cambridge
+2023-03-29,670000,CB5 8LH,S,Y,F,40,,The Avenue,,Cambridge
+2023-03-24,365000,CB5 8NN,S,N,F,5,,Rawlyn Close,,Cambridge
+2023-03-22,549950,CB5 8LE,D,Y,F,19,,Gregory Park Mews,,Cambridge
+2023-03-17,480000,CB5 8SY,S,N,F,8,,Wrights Close,Fen Ditton,Cambridge
+2023-03-17,346000,CB5 8PF,T,N,F,85,,Wadloes Road,,Cambridge
+2023-03-15,285000,CB5 8QT,F,N,L,29,,Howard Road,,Cambridge
+2023-03-13,549950,CB5 8LE,D,Y,F,17,,Gregory Park Mews,,Cambridge
+2023-03-08,1000000,CB5 8JY,F,N,L,Darwin House,23,Kingsley Walk,,Cambridge
+2023-03-03,549950,CB5 8LE,D,Y,F,13,,Gregory Park Mews,,Cambridge
+2023-03-01,549950,CB5 8LE,T,Y,F,15,,Gregory Park Mews,,Cambridge
+2023-02-28,580000,CB5 8DR,F,N,L,32,,Bailey Mews,,Cambridge
+2023-02-27,410000,CB5 8NW,S,N,F,6,,Norton Close,,Cambridge
+2023-02-20,579950,CB5 8LE,D,Y,F,5,,Gregory Park Mews,,Cambridge
+2023-02-17,435000,CB5 8RR,S,N,F,14,,Barnes Close,,Cambridge
+2023-02-17,549950,CB5 8LE,D,Y,F,11,,Gregory Park Mews,,Cambridge
+2023-02-14,549950,CB5 8LE,D,Y,F,7,,Gregory Park Mews,,Cambridge
+2023-02-13,262000,CB5 8NS,F,N,L,Regatta Court,22,Oyster Row,,Cambridge
+2023-02-10,399000,CB5 8TX,T,N,F,10,,The Rodings,,Cambridge
+2023-02-09,709950,CB5 8LH,S,Y,F,36,,The Avenue,,Cambridge
+2023-02-09,709950,CB5 8LH,S,Y,F,32,,The Avenue,,Cambridge
+2023-02-08,1406000,CB5 8DD,D,N,F,28,,Maids Causeway,,Cambridge
+2023-02-06,779950,CB5 8LQ,D,Y,F,37,,Gregory Park North,,Cambridge
+2023-02-03,709950,CB5 8LH,S,Y,F,38,,The Avenue,,Cambridge
+2023-02-01,318750,CB5 8AX,F,N,L,"Beacon Rise, 160",Flat 38,Newmarket Road,,Cambridge
+2023-01-31,625000,CB5 8NZ,F,N,L,Keynes House,37,Kingsley Walk,,Cambridge
+2023-01-20,515000,CB5 8ZB,S,N,F,3,,Blue Lion Close,Fen Ditton,Cambridge
+2023-01-18,709950,CB5 8LH,S,Y,F,34,,The Avenue,,Cambridge
+2023-01-17,300000,CB5 8RA,T,N,F,Summer Court,5,Ditton Fields,,Cambridge
+2023-01-16,769950,CB5 8LQ,S,Y,F,35,,Gregory Park North,,Cambridge
+2023-01-06,232323,CB5 8RU,F,N,L,Amber Court,2,Peverel Road,,Cambridge
+2023-01-05,444000,CB5 8QH,T,N,F,127,,Ditton Fields,,Cambridge
+2023-01-04,450000,CB5 8SU,T,N,F,28,,Church Street,Fen Ditton,Cambridge
+2023-01-04,749950,CB5 8LQ,S,Y,F,33,,Gregory Park North,,Cambridge
+2023-01-04,779950,CB5 8LH,D,Y,F,28,,The Avenue,,Cambridge
+2022-12-22,669950,CB5 8XL,D,Y,F,7,,Rowan Court,,Cambridge
+2022-12-22,659950,CB5 8LH,D,Y,F,25,,The Avenue,,Cambridge
+2022-12-21,650000,CB5 8JQ,F,N,L,Water View,3,Riverside,,Cambridge
+2022-12-21,320000,CB5 8JD,F,N,L,St Bartholomews Court,82,Riverside,,Cambridge
+2022-12-20,507500,CB5 8LU,S,N,F,33,,Whitehill Road,,Cambridge
+2022-12-16,899950,CB5 8XL,D,Y,F,5,,Rowan Court,,Cambridge
+2022-12-16,899950,CB5 8XL,D,Y,F,4,,Rowan Court,,Cambridge
+2022-12-16,375000,CB5 8UB,F,N,F,42,,Thorpe Way,,Cambridge
+2022-12-16,277000,CB5 8RB,F,N,L,1,,Howard Court,,Cambridge
+2022-12-15,599950,CB5 8XL,S,Y,F,9,,Rowan Court,,Cambridge
+2022-12-15,579950,CB5 8XL,D,Y,F,6,,Rowan Court,,Cambridge
+2022-12-12,624950,CB5 8XL,D,Y,F,1,,Rowan Court,,Cambridge
+2022-12-09,599950,CB5 8XL,S,Y,F,8,,Rowan Court,,Cambridge
+2022-12-09,589950,CB5 8LH,S,Y,F,23,,The Avenue,,Cambridge
+2022-12-09,649950,CB5 8LH,D,Y,F,19,,The Avenue,,Cambridge
+2022-12-08,560000,CB5 8QL,T,N,F,122,,Ditton Fields,,Cambridge
+2022-12-06,1620000,CB5 8JX,T,N,F,9,,Kingsley Walk,,Cambridge
+2022-12-06,150000,CB5 8FR,F,N,L,33,,Grebe Court,,Cambridge
+2022-12-01,609950,CB5 8XL,D,Y,F,3,,Rowan Court,,Cambridge
+2022-11-30,800000,CB5 8HZ,T,N,F,Beche Court,6,Beche Road,,Cambridge
+2022-11-29,684950,CB5 8XL,D,Y,F,2,,Rowan Court,,Cambridge
+2022-11-28,399000,CB5 8HJ,F,N,L,3,,The Mallards,,Cambridge
+2022-11-25,530000,CB5 8QE,D,N,F,12,,Ditton Walk,,Cambridge
+2022-11-25,639950,CB5 8LH,D,Y,F,17,,The Avenue,,Cambridge
+2022-11-25,285000,CB5 8FR,F,N,L,23,,Grebe Court,,Cambridge
+2022-11-14,425000,CB5 8RN,S,N,F,35,,Peverel Road,,Cambridge
+2022-11-08,780000,CB5 8ZB,D,N,F,15,,Blue Lion Close,Fen Ditton,Cambridge
+2022-11-07,615000,CB5 8HR,T,N,F,7,,Godesdone Road,,Cambridge
+2022-11-04,275000,CB5 8NP,F,N,L,13A,,Rayson Way,,Cambridge
+2022-10-31,210000,CB5 8TP,F,N,L,15,,Rachel Close,,Cambridge
+2022-10-20,579950,CB5 8LH,S,Y,F,15,,The Avenue,,Cambridge
+2022-10-20,405000,CB5 8JJ,T,N,F,429,,Newmarket Road,,Cambridge
+2022-10-19,1110000,CB5 8AG,F,N,L,49,,Beaufort Place,,Cambridge
+2022-10-14,475000,CB5 8ZE,S,N,F,2,,Mansfield Way,,Cambridge
+2022-10-14,560000,CB5 8NW,T,N,F,11,,Norton Close,,Cambridge
+2022-10-14,619950,CB5 8LH,S,Y,F,13,,The Avenue,,Cambridge
+2022-10-07,267000,CB5 8QU,S,N,L,34,,Howard Close,,Cambridge
+2022-10-07,267500,CB5 8NS,F,N,L,Regatta Court,6,Oyster Row,,Cambridge
+2022-10-06,649950,CB5 8LH,D,Y,F,11,,The Avenue,,Cambridge
+2022-10-05,355000,CB5 8PW,T,N,F,25,,Egerton Close,,Cambridge
+2022-10-05,600000,CB5 8LX,T,N,F,70,,Whitehill Road,,Cambridge
+2022-10-03,322000,CB5 8NB,F,N,L,Holyoake Court,4,Whitehill Road,,Cambridge
+2022-10-03,450000,CB5 8LJ,S,N,F,14,,Oyster Row,,Cambridge
+2022-10-03,950000,CB5 8HL,S,N,F,15,,Riverside,,Cambridge
+2022-09-30,310000,CB5 8LX,T,N,L,18,,Whitehill Road,,Cambridge
+2022-09-29,799950,CB5 8LQ,D,Y,F,15,,Gregory Park North,,Cambridge
+2022-09-28,919950,CB5 8XH,D,Y,F,3,,Willow Court,,Cambridge
+2022-09-28,630452,CB5 8LH,D,Y,F,9,,The Avenue,,Cambridge
+2022-09-23,342500,CB5 8SZ,S,N,F,5,,Horningsea Road,Fen Ditton,Cambridge
+2022-09-23,1650000,CB5 8ER,D,N,F,2,,Midsummer Place,,Cambridge
+2022-09-22,350000,CB5 8JF,F,N,L,44,,Riverside Place,,Cambridge
+2022-09-21,310000,CB5 8QT,F,N,L,69,,Howard Road,,Cambridge
+2022-09-18,729950,CB5 8LQ,S,Y,F,19,,Gregory Park North,,Cambridge
+2022-09-14,659950,CB5 8XH,D,Y,F,6,,Willow Court,,Cambridge
+2022-09-14,410000,CB5 8QE,T,N,F,86,,Ditton Walk,,Cambridge
+2022-09-09,919950,CB5 8XH,D,Y,F,4,,Willow Court,,Cambridge
+2022-09-09,832000,CB5 8HG,T,N,F,St Bartholomews Court,24,Riverside,,Cambridge
+2022-09-08,597751,CB5 8XH,D,Y,F,5,,Willow Court,,Cambridge
+2022-09-08,699950,CB5 8XH,D,Y,F,1,,Willow Court,,Cambridge
+2022-09-07,345000,CB5 8DS,F,N,L,Auckland Court,Flat 35,Auckland Road,,Cambridge
+2022-09-02,430000,CB5 8SU,S,N,F,9,,Church Street,Fen Ditton,Cambridge
+2022-09-02,355750,CB5 8QY,T,N,F,5,,Dunsmore Close,,Cambridge
+2022-09-02,455000,CB5 8HN,F,N,L,"Riverside House, 82",,Riverside,,Cambridge
+2022-09-02,360000,CB5 8EB,F,N,L,10,,Maltings Close,,Cambridge
+2022-09-01,386000,CB5 8QX,T,N,F,3,,Huntley Close,,Cambridge
+2022-09-01,599950,CB5 8LH,S,Y,F,7,,The Avenue,,Cambridge
+2022-09-01,599950,CB5 8LH,S,Y,F,5,,The Avenue,,Cambridge
+2022-08-31,442500,CB5 8QE,T,N,F,34,,Ditton Walk,,Cambridge
+2022-08-26,552000,CB5 8HH,T,N,F,21,,Abbey Road,,Cambridge
+2022-08-24,425000,CB5 8UB,S,N,F,38,,Thorpe Way,,Cambridge
+2022-08-23,485000,CB5 8LB,T,N,F,96,,Stanley Road,,Cambridge
+2022-08-22,332000,CB5 8HH,T,N,L,27,,Abbey Road,,Cambridge
+2022-08-19,360000,CB5 8UP,T,N,F,31,,Stanbury Close,Fen Ditton,Cambridge
+2022-08-18,580000,CB5 8NF,S,N,F,38,,Thorleye Road,,Cambridge
+2022-08-18,274500,CB5 8DD,F,Y,L,"Grafton House, 64",Flat 9,Maids Causeway,,Cambridge
+2022-08-15,619950,CB5 8XH,D,Y,F,2,,Willow Court,,Cambridge
+2022-08-15,350000,CB5 8JE,T,N,F,297,,Newmarket Road,,Cambridge
+2022-08-11,744950,CB5 8LQ,S,Y,F,17,,Gregory Park North,,Cambridge
+2022-08-10,438000,CB5 8QJ,S,N,F,341,,Ditton Fields,,Cambridge
+2022-08-09,620000,CB5 8EH,T,N,F,11,,Abbey Gardens,,Cambridge
+2022-08-08,380000,CB5 8UP,T,N,F,29,,Stanbury Close,Fen Ditton,Cambridge
+2022-08-05,390000,CB5 8JB,F,N,L,St Bartholomews Court,11,Riverside,,Cambridge
+2022-08-05,450000,CB5 8ED,D,N,F,19,,Marleigh Lane,,Cambridge
+2022-08-04,215000,CB5 8NS,F,N,L,Regatta Court,Flat 48,Oyster Row,,Cambridge
+2022-08-01,435000,CB5 8QH,T,N,F,163,,Ditton Fields,,Cambridge
+2022-07-29,637500,CB5 8LE,D,Y,F,16,,Gregory Park Mews,,Cambridge
+2022-07-28,725000,CB5 8HQ,D,N,F,76,,Abbey Road,,Cambridge
+2022-07-27,281000,CB5 8RB,F,N,L,13,,Howard Court,,Cambridge
+2022-07-27,550000,CB5 8JF,F,N,L,42,,Riverside Place,,Cambridge
+2022-07-22,240000,CB5 8TT,F,N,L,38,,Dennis Road,,Cambridge
+2022-07-22,659950,CB5 8LE,D,Y,F,14,,Gregory Park Mews,,Cambridge
+2022-07-20,524000,CB5 8HX,T,N,F,31,,Beche Road,,Cambridge
+2022-07-18,680000,CB5 8LT,S,N,F,4,,Whitehill Road,,Cambridge
+2022-07-14,460000,CB5 8EG,T,N,F,7,,Newmarket Road,,Cambridge
+2022-07-13,389000,CB5 8SU,T,N,F,30,,Church Street,Fen Ditton,Cambridge
+2022-07-05,849950,CB5 8LQ,D,Y,F,31,,Gregory Park North,,Cambridge
+2022-07-04,708052,CB5 8LQ,S,Y,F,23,,Gregory Park North,,Cambridge
+2022-06-30,744950,CB5 8LQ,S,Y,F,21,,Gregory Park North,,Cambridge
+2022-06-30,657500,CB5 8LE,D,Y,F,6,,Gregory Park Mews,,Cambridge
+2022-06-30,659950,CB5 8LE,D,Y,F,10,,Gregory Park Mews,,Cambridge
+2022-06-29,769950,CB5 8LQ,S,Y,F,25,,Gregory Park North,,Cambridge
+2022-06-24,750000,CB5 8SZ,D,N,F,82,,Horningsea Road,Fen Ditton,Cambridge
+2022-06-24,629950,CB5 8LE,D,Y,F,12,,Gregory Park Mews,,Cambridge
+2022-06-22,203000,CB5 8TP,F,N,L,14,,Rachel Close,,Cambridge
+2022-06-22,350000,CB5 8PF,S,N,F,123,,Wadloes Road,,Cambridge
+2022-06-20,400000,CB5 8JE,T,N,F,247,,Newmarket Road,,Cambridge
+2022-06-17,500000,CB5 8PA,D,N,F,579,,Newmarket Road,,Cambridge
+2022-06-13,530000,CB5 8LY,S,N,F,110,,Whitehill Road,,Cambridge
+2022-06-10,265000,CB5 8QU,S,N,L,14,,Howard Close,,Cambridge
+2022-06-07,270000,CB5 8QU,F,N,L,36,,Howard Close,,Cambridge
+2022-06-06,560000,CB5 8SZ,D,N,F,3,,Horningsea Road,Fen Ditton,Cambridge
+2022-05-27,629950,CB5 8LE,D,Y,F,8,,Gregory Park Mews,,Cambridge
+2022-05-27,740000,CB5 8HL,T,N,F,28,,Riverside,,Cambridge
+2022-05-24,769950,CB5 8JW,D,Y,F,7,,Gregory Park South,,Cambridge
+2022-05-19,230000,CB5 8RG,F,N,L,13,,Barnwell Road,,Cambridge
+2022-05-13,724950,CB5 8JW,S,Y,F,9,,Gregory Park South,,Cambridge
+2022-05-09,370000,CB5 8LF,T,N,F,97,,Stanley Road,,Cambridge
+2022-05-09,535000,CB5 8DR,F,N,L,21,,Bailey Mews,,Cambridge
+2022-05-06,739950,CB5 8JW,D,N,F,13,,Gregory Park South,,Cambridge
+2022-05-05,490000,CB5 8SY,S,N,F,2,,Wrights Close,Fen Ditton,Cambridge
+2022-05-03,240000,CB5 8UH,F,N,L,5,,Ongar Court,,Cambridge
+2022-04-29,520000,CB5 8JF,F,N,L,76,,Riverside Place,,Cambridge
+2022-04-25,780000,CB5 8NZ,F,N,L,Keynes House,35,Kingsley Walk,,Cambridge
+2022-04-25,550000,CB5 8NY,F,N,L,Marlowe House,26,Kingsley Walk,,Cambridge
+2022-04-25,615000,CB5 8NY,F,N,L,Marlowe House,28,Kingsley Walk,,Cambridge
+2022-04-22,412000,CB5 8SR,S,N,F,70,,Ditton Lane,,Cambridge
+2022-04-22,355000,CB5 8JG,T,N,F,411,,Newmarket Road,,Cambridge
+2022-04-14,769950,CB5 8JW,D,Y,F,5,,Gregory Park South,,Cambridge
+2022-04-11,1350000,CB5 8SX,D,N,F,1,,Green End,Fen Ditton,Cambridge
+2022-04-08,360200,CB5 8PT,S,N,F,103,,Ekin Road,,Cambridge
+2022-04-08,734950,CB5 8JW,D,Y,F,3,,Gregory Park South,,Cambridge
+2022-03-31,734950,CB5 8JW,D,Y,F,1,,Gregory Park South,,Cambridge
+2022-03-28,684950,CB5 8LE,D,Y,F,2,,Gregory Park Mews,,Cambridge
+2022-03-25,467000,CB5 8QE,D,N,F,84,,Ditton Walk,,Cambridge
+2022-03-22,260000,CB5 8NL,F,N,L,15,,Rawlyn Road,,Cambridge
+2022-03-18,451750,CB5 8SD,S,N,F,28,,The Homing,,Cambridge
+2022-03-11,743000,CB5 8SZ,D,N,F,10,,Horningsea Road,Fen Ditton,Cambridge
+2022-03-11,355000,CB5 8RH,T,N,F,46,,Peverel Road,,Cambridge
+2022-03-02,310000,CB5 8EY,F,N,L,Stourbridge House,1,Riverside,,Cambridge
+2022-02-25,330150,CB5 8UJ,S,N,F,53,,Thorpe Way,,Cambridge
+2022-02-25,430000,CB5 8PA,S,N,F,553,,Newmarket Road,,Cambridge
+2022-02-24,380000,CB5 8QP,S,N,F,24,,Howard Road,,Cambridge
+2022-02-22,570000,CB5 8NZ,F,N,L,Keynes House,16,Kingsley Walk,,Cambridge
+2022-02-21,435000,CB5 8QP,T,N,F,34,,Howard Road,,Cambridge
+2022-02-21,392000,CB5 8PN,S,N,F,4,,Egerton Close,,Cambridge
+2022-02-21,277000,CB5 8FR,F,N,L,19,,Grebe Court,,Cambridge
+2022-02-11,665000,CB5 8SX,D,N,F,25,,Green End,Fen Ditton,Cambridge
+2022-02-11,390000,CB5 8SF,S,N,F,54,,The Westering,,Cambridge
+2022-02-10,725000,CB5 8AG,F,N,L,48,,Beaufort Place,,Cambridge
+2022-02-07,320000,CB5 8TH,F,N,L,Newton Court,35,Kingsley Walk,,Cambridge
+2022-02-07,485000,CB5 8SU,S,N,F,7,,Church Street,Fen Ditton,Cambridge
+2022-02-04,336500,CB5 8RT,F,N,L,760,,Newmarket Road,,Cambridge
+2022-02-04,379832,CB5 8QE,S,N,F,82,,Ditton Walk,,Cambridge
+2022-02-04,815000,CB5 8HG,S,N,F,St Bartholomews Court,29,Riverside,,Cambridge
+2022-01-28,385000,CB5 8PF,T,N,F,67,,Wadloes Road,,Cambridge
+2022-01-28,600000,CB5 8HR,T,N,F,3,,Godesdone Road,,Cambridge
+2022-01-27,457000,CB5 8FR,T,N,F,11,,Grebe Court,,Cambridge
+2022-01-17,200000,CB5 8DD,F,Y,L,"Grafton House, 64",Flat 1,Maids Causeway,,Cambridge
+2022-01-11,470000,CB5 8SA,S,N,F,3,,Meadowlands Road,,Cambridge
+2022-01-10,486500,CB5 8LB,T,N,F,60,,Stanley Road,,Cambridge
+2021-12-22,264995,CB5 8BG,F,Y,L,168,,Marleigh Avenue,,Cambridge
+2021-12-21,210000,CB5 8TE,S,N,L,45,,High Ditch Road,Fen Ditton,Cambridge
+2021-12-21,205000,CB5 8DD,F,Y,L,"Grafton House, 64",Flat 7,Maids Causeway,,Cambridge
+2021-12-21,689950,CB5 8BX,S,Y,F,239,,Marleigh Avenue,,Cambridge
+2021-12-20,476800,CB5 8SE,S,N,F,43,,The Westering,,Cambridge
+2021-12-17,449000,CB5 8HR,T,N,F,14,,Godesdone Road,,Cambridge
+2021-12-16,590000,CB5 8NY,F,N,L,Marlowe House,37,Kingsley Walk,,Cambridge
+2021-12-16,688888,CB5 8BX,S,Y,F,201,,Marleigh Avenue,,Cambridge
+2021-12-15,560000,CB5 8TE,S,N,F,The Cam,,High Ditch Road,Fen Ditton,Cambridge
+2021-12-15,266000,CB5 8DD,F,Y,L,"Grafton House, 64",Flat 12,Maids Causeway,,Cambridge
+2021-12-13,505000,CB5 8HW,S,N,F,21,,Garlic Row,,Cambridge
+2021-12-10,385000,CB5 8PJ,S,N,F,5,,Dudley Road,,Cambridge
+2021-12-10,235000,CB5 8NS,F,N,L,Regatta Court,Flat 41,Oyster Row,,Cambridge
+2021-12-10,615000,CB5 8HR,T,N,F,8,,Godesdone Road,,Cambridge
+2021-12-10,945000,CB5 8DD,T,N,F,34,,Maids Causeway,,Cambridge
+2021-12-06,184000,CB5 8NS,F,N,L,Regatta Court,Flat 52,Oyster Row,,Cambridge
+2021-12-03,535000,CB5 8PA,D,N,F,557,,Newmarket Road,,Cambridge
+2021-12-03,223000,CB5 8NS,F,N,L,Regatta Court,23,Oyster Row,,Cambridge
+2021-12-03,282500,CB5 8DD,F,Y,L,"Grafton House, 64",Flat 10,Maids Causeway,,Cambridge
+2021-12-02,550000,CB5 8SP,S,N,F,18,,Ditton Lane,,Cambridge
+2021-11-30,330000,CB5 8DS,F,N,L,Auckland Court,Flat 45,Auckland Road,,Cambridge
+2021-11-26,351920,CB5 8QJ,S,N,F,329,,Ditton Fields,,Cambridge
+2021-11-26,719950,CB5 8JW,S,Y,F,6,,Gregory Park South,,Cambridge
+2021-11-26,699950,CB5 8JW,S,Y,F,4,,Gregory Park South,,Cambridge
+2021-11-26,724950,CB5 8JW,D,Y,F,2,,Gregory Park South,,Cambridge
+2021-11-19,368000,CB5 8LD,T,N,F,7,,Cheddars Lane,,Cambridge
+2021-11-15,366000,CB5 8JD,F,N,L,St Bartholomews Court,84,Riverside,,Cambridge
+2021-11-12,365000,CB5 8RQ,T,N,F,133,,Barnwell Road,,Cambridge
+2021-11-12,412000,CB5 8RN,S,N,F,33,,Peverel Road,,Cambridge
+2021-11-09,850000,CB5 8ER,S,N,F,4,,Midsummer Place,,Cambridge
+2021-11-09,579950,CB5 8BG,S,Y,F,176,,Marleigh Avenue,,Cambridge
+2021-11-05,435000,CB5 8QP,S,N,F,56,,Howard Road,,Cambridge
+2021-11-04,420000,CB5 8SE,S,N,F,49,,The Westering,,Cambridge
+2021-10-29,330000,CB5 8XG,D,N,F,5,,Cut Throat Lane,,Cambridge
+2021-10-29,639995,CB5 8SN,S,Y,F,4,,Fairfield End,,Cambridge
+2021-10-29,545000,CB5 8EH,S,N,F,15,,Abbey Gardens,,Cambridge
+2021-10-28,387500,CB5 8RN,S,N,F,63,,Peverel Road,,Cambridge
+2021-10-28,243000,CB5 8DD,F,Y,L,"Grafton House, 64",Flat 15,Maids Causeway,,Cambridge
+2021-10-27,625000,CB5 8HU,S,N,F,42,,Beche Road,,Cambridge
+2021-10-27,281000,CB5 8BG,F,Y,L,112,,Marleigh Avenue,,Cambridge
+2021-10-21,382500,CB5 8BG,F,Y,L,118,,Marleigh Avenue,,Cambridge
+2021-10-15,299950,CB5 8BG,F,Y,L,156,,Marleigh Avenue,,Cambridge
+2021-10-15,399950,CB5 8BG,F,Y,L,148,,Marleigh Avenue,,Cambridge
+2021-10-08,415000,CB5 8QH,T,N,F,255,,Ditton Fields,,Cambridge
+2021-10-08,294950,CB5 8BG,F,Y,L,134,,Marleigh Avenue,,Cambridge
+2021-09-30,373000,CB5 8RN,S,N,F,57,,Peverel Road,,Cambridge
+2021-09-30,633750,CB5 8JY,F,N,L,Darwin House,9,Kingsley Walk,,Cambridge
+2021-09-30,540000,CB5 8HP,T,N,F,61,,River Lane,,Cambridge
+2021-09-30,385000,CB5 8HJ,F,N,L,18,,The Mallards,,Cambridge
+2021-09-30,699950,CB5 8BX,S,Y,F,241,,Marleigh Avenue,,Cambridge
+2021-09-30,649950,CB5 8BX,S,Y,F,229,,Marleigh Avenue,,Cambridge
+2021-09-30,387500,CB5 8BG,F,Y,L,128,,Marleigh Avenue,,Cambridge
+2021-09-29,1138000,CB5 8HL,T,N,F,33,,Riverside,,Cambridge
+2021-09-29,649950,CB5 8BX,S,Y,F,225,,Marleigh Avenue,,Cambridge
+2021-09-28,406000,CB5 8UE,S,N,F,2,,Brentwood Close,,Cambridge
+2021-09-28,331000,CB5 8TS,T,N,F,26,,Dennis Road,,Cambridge
+2021-09-28,360000,CB5 8NW,S,N,F,1,,Norton Close,,Cambridge
+2021-09-28,243000,CB5 8DD,F,Y,L,"Grafton House, 64",Flat 13,Maids Causeway,,Cambridge
+2021-09-28,649950,CB5 8BX,S,Y,F,227,,Marleigh Avenue,,Cambridge
+2021-09-27,500000,CB5 8RS,S,N,F,674,,Newmarket Road,,Cambridge
+2021-09-27,500000,CB5 8QG,S,N,F,3,,Ferndale Rise,,Cambridge
+2021-09-27,522000,CB5 8LZ,S,N,F,19,,Elfleda Road,,Cambridge
+2021-09-24,735000,CB5 8HT,D,N,F,47,,Priory Road,,Cambridge
+2021-09-24,307000,CB5 8HH,F,N,L,41,Ground Floor Flat,Abbey Road,,Cambridge
+2021-09-24,155000,CB5 8FR,F,N,L,32,,Grebe Court,,Cambridge
+2021-09-22,649950,CB5 8BX,S,Y,F,233,,Marleigh Avenue,,Cambridge
+2021-09-17,421500,CB5 8PP,S,N,F,59,,Keynes Road,,Cambridge
+2021-09-17,530000,CB5 8LL,T,N,F,560,,Newmarket Road,,Cambridge
+2021-09-17,1300000,CB5 8DJ,T,N,F,4,,North Terrace,,Cambridge
+2021-09-17,285000,CB5 8DD,F,Y,L,"Grafton House, 64",Flat 16,Maids Causeway,,Cambridge
+2021-09-13,276200,CB5 8TE,T,N,F,9,,High Ditch Road,Fen Ditton,Cambridge
+2021-09-10,625000,CB5 8SN,S,Y,F,9,,Fairfield End,,Cambridge
+2021-09-10,620000,CB5 8SN,S,Y,F,7,,Fairfield End,,Cambridge
+2021-09-10,649950,CB5 8BX,S,Y,F,235,,Marleigh Avenue,,Cambridge
+2021-09-10,649950,CB5 8BX,S,Y,F,231,,Marleigh Avenue,,Cambridge
+2021-09-09,1350000,CB5 8DE,T,N,F,59,,Maids Causeway,,Cambridge
+2021-09-09,369950,CB5 8BG,F,Y,L,122,,Marleigh Avenue,,Cambridge
+2021-09-03,605000,CB5 8SN,S,Y,F,8,,Fairfield End,,Cambridge
+2021-09-01,284950,CB5 8BG,F,Y,L,116,,Marleigh Avenue,,Cambridge
+2021-08-31,375000,CB5 8UJ,S,N,F,37,,Thorpe Way,,Cambridge
+2021-08-27,345000,CB5 8UH,D,N,F,2,,Ongar Court,,Cambridge
+2021-08-27,620000,CB5 8SN,S,Y,F,10,,Fairfield End,,Cambridge
+2021-08-26,649950,CB5 8BX,S,Y,F,237,,Marleigh Avenue,,Cambridge
+2021-08-26,397500,CB5 8BG,F,Y,L,150,,Marleigh Avenue,,Cambridge
+2021-08-25,294950,CB5 8BG,F,Y,L,136,,Marleigh Avenue,,Cambridge
+2021-08-20,284950,CB5 8BG,F,Y,L,110,,Marleigh Avenue,,Cambridge
+2021-08-19,249950,CB5 8BG,F,Y,L,124,,Marleigh Avenue,,Cambridge
+2021-08-18,249950,CB5 8BG,F,Y,L,146,,Marleigh Avenue,,Cambridge
+2021-08-18,367950,CB5 8BG,F,Y,L,104,,Marleigh Avenue,,Cambridge
+2021-08-17,402500,CB5 8BG,F,Y,L,152,,Marleigh Avenue,,Cambridge
+2021-08-17,392500,CB5 8BG,F,Y,L,140,,Marleigh Avenue,,Cambridge
+2021-08-17,379950,CB5 8BG,F,Y,L,126,,Marleigh Avenue,,Cambridge
+2021-08-16,397500,CB5 8BG,F,Y,L,164,,Marleigh Avenue,,Cambridge
+2021-08-16,402500,CB5 8BG,F,Y,L,162,,Marleigh Avenue,,Cambridge
+2021-08-13,415000,CB5 8LU,S,N,F,21A,,Whitehill Road,,Cambridge
+2021-08-13,540000,CB5 8HH,T,N,F,35,,Abbey Road,,Cambridge
+2021-08-13,294953,CB5 8BG,F,Y,L,158,,Marleigh Avenue,,Cambridge
+2021-08-13,299950,CB5 8BG,F,Y,L,154,,Marleigh Avenue,,Cambridge
+2021-08-12,389950,CB5 8BG,F,Y,L,166,,Marleigh Avenue,,Cambridge
+2021-08-10,659950,CB5 8BX,S,Y,F,243,,Marleigh Avenue,,Cambridge
+2021-08-09,615000,CB5 8SN,S,Y,F,3,,Fairfield End,,Cambridge
+2021-08-09,387500,CB5 8BG,F,Y,L,142,,Marleigh Avenue,,Cambridge
+2021-08-09,380000,CB5 8BG,F,Y,L,108,,Marleigh Avenue,,Cambridge
+2021-08-06,405000,CB5 8SG,S,N,F,3,,Sunnyside,,Cambridge
+2021-08-06,381500,CB5 8BG,F,Y,L,144,,Marleigh Avenue,,Cambridge
+2021-08-06,294950,CB5 8BG,F,Y,L,132,,Marleigh Avenue,,Cambridge
+2021-08-06,392500,CB5 8BG,F,Y,L,130,,Marleigh Avenue,,Cambridge
+2021-08-06,377500,CB5 8BG,F,Y,L,120,,Marleigh Avenue,,Cambridge
+2021-08-06,377500,CB5 8BG,F,Y,L,106,,Marleigh Avenue,,Cambridge
+2021-08-04,216000,CB5 8RS,F,N,L,640,,Newmarket Road,,Cambridge
+2021-08-02,560000,CB5 8SN,D,Y,F,6,,Fairfield End,,Cambridge
+2021-08-02,520000,CB5 8SN,D,Y,F,5,,Fairfield End,,Cambridge
+2021-07-30,535000,CB5 8ST,D,N,F,6,,High Street,Fen Ditton,Cambridge
+2021-07-30,600000,CB5 8SN,S,Y,F,1,,Fairfield End,,Cambridge
+2021-07-30,480000,CB5 8PA,S,N,F,561,,Newmarket Road,,Cambridge
+2021-07-29,295000,CB5 8QT,F,N,L,63,,Howard Road,,Cambridge
+2021-07-29,535000,CB5 8PW,S,N,F,36,,Egerton Close,,Cambridge
+2021-07-28,418000,CB5 8JD,F,N,L,St Bartholomews Court,88,Riverside,,Cambridge
+2021-07-22,265000,CB5 8UJ,T,N,L,11,,Thorpe Way,,Cambridge
+2021-07-16,205432,CB5 8AG,F,N,L,34,,Beaufort Place,,Cambridge
+2021-07-14,429000,CB5 8SP,S,N,F,6,,Ditton Lane,,Cambridge
+2021-07-09,363500,CB5 8QE,S,N,F,126,,Ditton Walk,,Cambridge
+2021-06-30,375000,CB5 8SS,T,N,F,125,,Ditton Lane,Fen Ditton,Cambridge
+2021-06-30,599000,CB5 8SN,S,Y,F,2,,Fairfield End,,Cambridge
+2021-06-30,405000,CB5 8QQ,T,N,F,1,,Ditton Fields,,Cambridge
+2021-06-30,360000,CB5 8HP,T,N,F,39,,River Lane,,Cambridge
+2021-06-30,439950,CB5 8ED,F,Y,F,1,,Marleigh Lane,,Cambridge
+2021-06-30,649950,CB5 8BX,S,Y,F,223,,Marleigh Avenue,,Cambridge
+2021-06-29,360000,CB5 8RR,T,N,F,10,,Barnes Close,,Cambridge
+2021-06-29,290000,CB5 8JE,T,N,F,293,,Newmarket Road,,Cambridge
+2021-06-29,428000,CB5 8ED,F,Y,F,5,,Marleigh Lane,,Cambridge
+2021-06-29,1250000,CB5 8DD,S,N,F,54,,Maids Causeway,,Cambridge
+2021-06-25,540000,CB5 8PJ,S,N,F,39,,Dudley Road,,Cambridge
+2021-06-25,355000,CB5 8JD,F,N,L,St Bartholomews Court,77,Riverside,,Cambridge
+2021-06-25,240000,CB5 8DD,F,Y,L,"Grafton House, 64",Flat 5,Maids Causeway,,Cambridge
+2021-06-25,639950,CB5 8BX,S,Y,F,213,,Marleigh Avenue,,Cambridge
+2021-06-23,439950,CB5 8ED,F,Y,F,3,,Marleigh Lane,,Cambridge
+2021-06-22,275000,CB5 8QT,F,N,L,39,,Howard Road,,Cambridge
+2021-06-22,584050,CB5 8JN,D,Y,F,2,,Titch Street,,Cambridge
+2021-06-18,515000,CB5 8QD,D,N,F,117,,Ditton Walk,,Cambridge
+2021-06-18,639950,CB5 8BX,T,Y,F,205,,Marleigh Avenue,,Cambridge
+2021-06-17,508000,CB5 8SZ,D,N,F,80,,Horningsea Road,Fen Ditton,Cambridge
+2021-06-17,455000,CB5 8HH,T,N,F,5,,Abbey Road,,Cambridge
+2021-06-16,549950,CB5 8ED,D,Y,F,4,,Marleigh Lane,,Cambridge
+2021-06-15,355000,CB5 8SG,S,N,F,1,,Sunnyside,,Cambridge
+2021-06-15,314340,CB5 8JF,F,N,L,67,,Riverside Place,,Cambridge
+2021-06-10,328000,CB5 8QL,S,N,F,84,,Ditton Fields,,Cambridge
+2021-06-03,549950,CB5 8BG,S,Y,F,194,,Marleigh Avenue,,Cambridge
+2021-05-28,155000,CB5 8FR,F,N,L,34,,Grebe Court,,Cambridge
+2021-05-28,434950,CB5 8ED,F,Y,F,9,,Marleigh Lane,,Cambridge
+2021-05-28,439950,CB5 8ED,S,Y,F,7,,Marleigh Lane,,Cambridge
+2021-05-28,639950,CB5 8BX,S,Y,F,209,,Marleigh Avenue,,Cambridge
+2021-05-25,335500,CB5 8LX,S,N,F,36,,Whitehill Road,,Cambridge
+2021-05-21,325000,CB5 8TZ,S,N,F,1,,Coggeshall Close,,Cambridge
+2021-05-21,315000,CB5 8TJ,F,N,L,Brooke House,25,Kingsley Walk,,Cambridge
+2021-05-21,500000,CB5 8TE,S,N,F,The Bumps,,High Ditch Road,Fen Ditton,Cambridge
+2021-05-21,337000,CB5 8LF,T,N,F,11,,Stanley Road,,Cambridge
+2021-05-18,534950,CB5 8BG,S,Y,F,178,,Marleigh Avenue,,Cambridge
+2021-05-14,195000,CB5 8TP,F,N,L,1,,Rachel Close,,Cambridge
+2021-05-07,850000,CB5 8DQ,T,N,F,10,,Brunswick Gardens,,Cambridge
+2021-05-07,639950,CB5 8BX,S,Y,F,211,,Marleigh Avenue,,Cambridge
+2021-04-28,575000,CB5 8ED,D,Y,F,2,,Marleigh Lane,,Cambridge
+2021-04-23,155500,CB5 8SR,F,N,L,59,,Ditton Lane,,Cambridge
+2021-04-21,385000,CB5 8NA,S,N,F,58,,Elfleda Road,,Cambridge
+2021-04-20,277500,CB5 8LZ,F,N,L,31A,,Elfleda Road,,Cambridge
+2021-04-16,539950,CB5 8BG,S,Y,F,190,,Marleigh Avenue,,Cambridge
+2021-04-13,357000,CB5 8SF,T,N,F,22,,The Westering,,Cambridge
+2021-04-09,1700000,CB5 9EW,D,N,F,"The Old Vicarage, 20",,High Street,Lode,Cambridge
+2021-04-09,372500,CB5 8SZ,S,N,F,9,,Horningsea Road,Fen Ditton,Cambridge
+2021-04-09,415000,CB5 8RS,S,N,F,690,,Newmarket Road,,Cambridge
+2021-04-09,250000,CB5 8RQ,S,N,F,93,,Barnwell Road,,Cambridge
+2021-04-08,740000,CB5 8HG,T,N,F,St Bartholomews Court,50,Riverside,,Cambridge
+2021-04-01,420000,CB5 8SG,S,N,F,6,,Sunnyside,,Cambridge
+2021-04-01,305000,CB5 8PF,T,N,F,121,,Wadloes Road,,Cambridge
+2021-03-31,327000,CB5 8LJ,T,N,F,26,,Oyster Row,,Cambridge
+2021-03-31,900000,CB5 8HN,T,N,F,43,,Riverside,,Cambridge
+2021-03-31,850000,CB5 8HG,T,N,F,St Bartholomews Court,56,Riverside,,Cambridge
+2021-03-31,549950,CB5 8ED,S,Y,F,6,,Marleigh Lane,,Cambridge
+2021-03-31,539950,CB5 8BG,S,Y,F,192,,Marleigh Avenue,,Cambridge
+2021-03-30,700000,CB5 8ZB,D,N,F,15,,Blue Lion Close,Fen Ditton,Cambridge
+2021-03-29,421500,CB5 8NH,S,N,F,46,,Stanesfield Road,,Cambridge
+2021-03-29,549950,CB5 8ED,S,Y,F,8,,Marleigh Lane,,Cambridge
+2021-03-29,575000,CB5 8ED,D,Y,F,12,,Marleigh Lane,,Cambridge
+2021-03-29,549950,CB5 8ED,S,Y,F,10,,Marleigh Lane,,Cambridge
+2021-03-26,324500,CB5 8RQ,T,N,F,139,,Barnwell Road,,Cambridge
+2021-03-26,388300,CB5 8QE,T,N,F,42,,Ditton Walk,,Cambridge
+2021-03-26,385000,CB5 8PN,S,N,F,16,,Egerton Close,,Cambridge
+2021-03-26,409000,CB5 8LF,T,N,F,5,,Stanley Road,,Cambridge
+2021-03-25,963527,CB5 8XJ,D,N,F,4,,Shepherds Close,Fen Ditton,Cambridge
+2021-03-24,207000,CB5 8TL,F,N,L,15,,Fison Road,,Cambridge
+2021-03-23,750000,CB5 8HG,T,N,F,St Bartholomews Court,57,Riverside,,Cambridge
+2021-03-19,345000,CB5 8WT,T,N,F,Acorn Court,2,Ditton Walk,,Cambridge
+2021-03-18,560000,CB5 8DW,T,N,F,7,,Auckland Road,,Cambridge
+2021-03-18,560000,CB5 8AG,F,N,L,42,,Beaufort Place,,Cambridge
+2021-03-17,539950,CB5 8BG,S,Y,F,188,,Marleigh Avenue,,Cambridge
+2021-03-10,532950,CB5 8BG,S,Y,F,186,,Marleigh Avenue,,Cambridge
+2021-03-08,520000,CB5 8DG,T,N,F,9,,Brunswick Terrace,,Cambridge
+2021-03-05,191000,CB5 8NS,F,N,L,Regatta Court,Flat 44,Oyster Row,,Cambridge
+2021-03-05,424950,CB5 8ED,D,Y,F,11,,Marleigh Lane,,Cambridge
+2021-03-02,355000,CB5 8QS,S,N,F,19,,Howard Road,,Cambridge
+2021-02-26,425000,CB5 8LB,T,N,F,92,,Stanley Road,,Cambridge
+2021-02-25,230000,CB5 8LY,F,N,L,132A,,Whitehill Road,,Cambridge
+2021-02-24,524950,CB5 8BG,S,Y,F,182,,Marleigh Avenue,,Cambridge
+2021-02-23,250000,CB5 8SD,S,N,F,14,,The Homing,,Cambridge
+2021-02-23,281000,CB5 8JJ,T,N,F,479,,Newmarket Road,,Cambridge
+2021-02-19,649950,CB5 8BX,S,Y,F,217,,Marleigh Avenue,,Cambridge
+2021-02-17,545000,CB5 8PA,S,N,F,595,,Newmarket Road,,Cambridge
+2021-02-17,326500,CB5 8ET,F,N,L,Ferndale House,7,Ferndale Rise,,Cambridge
+2021-02-16,202500,CB5 8TL,F,N,L,2,,Fison Road,,Cambridge
+2021-02-12,368500,CB5 8UJ,S,N,F,55,,Thorpe Way,,Cambridge
+2021-02-12,360000,CB5 8SR,T,N,F,60,,Ditton Lane,,Cambridge
+2021-02-12,435000,CB5 8NF,S,N,F,25,,Thorleye Road,,Cambridge
+2021-02-12,638950,CB5 8BX,S,Y,F,207,,Marleigh Avenue,,Cambridge
+2021-02-09,260000,CB5 8QU,F,N,L,62,,Howard Close,,Cambridge
+2021-02-09,229125,CB5 8NS,F,N,L,Regatta Court,25,Oyster Row,,Cambridge
+2021-02-04,415000,CB5 8NZ,F,N,L,Keynes House,9,Kingsley Walk,,Cambridge
+2021-02-02,356000,CB5 8RN,T,N,F,23,,Peverel Road,,Cambridge
+2021-01-29,400000,CB5 8QQ,S,N,F,67,,Ditton Fields,,Cambridge
+2021-01-29,260000,CB5 8LW,F,N,L,12,,Stanley Court,,Cambridge
+2021-01-29,460000,CB5 8EH,S,N,F,2,,Abbey Gardens,,Cambridge
+2021-01-28,375000,CB5 8QJ,S,N,F,345,,Ditton Fields,,Cambridge
+2021-01-28,390000,CB5 8QG,S,N,F,10,,Ferndale Rise,,Cambridge
+2021-01-22,425000,CB5 8QE,T,N,F,64,,Ditton Walk,,Cambridge
+2021-01-18,1120000,CB5 8NY,F,N,L,Marlowe House,43,Kingsley Walk,,Cambridge
+2021-01-15,985000,CB5 8UP,D,N,F,35,,Stanbury Close,Fen Ditton,Cambridge
+2021-01-15,305000,CB5 8SZ,S,N,F,72,,Horningsea Road,Fen Ditton,Cambridge
+2021-01-15,410000,CB5 8QH,T,N,F,193,,Ditton Fields,,Cambridge
+2021-01-11,650000,CB5 8TE,D,N,F,6,,High Ditch Road,Fen Ditton,Cambridge
+2021-01-08,390000,CB5 8ZS,S,N,F,6,,Latimer Close,,Cambridge
+2021-01-07,469000,CB5 8RN,S,N,F,95,,Peverel Road,,Cambridge
+2021-01-06,310000,CB5 8UG,T,N,F,11,,Brentwood Court,,Cambridge
+2021-01-04,260000,CB5 8UJ,F,N,L,107,,Thorpe Way,,Cambridge

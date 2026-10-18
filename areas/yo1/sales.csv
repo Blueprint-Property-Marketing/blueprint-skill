@@ -1,0 +1,632 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-11,308000,YO1 7BP,F,N,L,22,,St Andrew Place,,York
+2026-07-30,475000,YO1 6HG,T,N,F,9,,Kyme Street,,York
+2026-07-23,500000,YO1 6EB,T,N,F,28,,Fairfax Street,,York
+2026-07-17,240000,YO1 9PU,F,N,L,St Denys Court,16,St Denys Road,,York
+2026-07-10,1600000,YO1 7AB,T,N,F,5,,The Purey Cust,,York
+2026-07-10,305000,YO1 6EX,S,N,F,16B,,Priory Street,,York
+2026-06-01,218000,YO1 9UR,F,N,L,The Old Mill,3,Lady Pecketts Yard,,York
+2026-06-01,220000,YO1 7AF,F,N,L,Bellerby Court,Apartment 92,Palmer Lane,,York
+2026-05-22,98000,YO1 7BU,F,N,L,2,,Aldwark,,York
+2026-05-14,380000,YO1 6EN,T,N,F,16,,Bishophill Junior,,York
+2026-05-05,183000,YO1 6DP,F,N,L,78,,Centurion Square,,York
+2026-04-30,440000,YO1 6DQ,F,N,L,Emperors Wharf,10,Skeldergate,,York
+2026-04-29,345000,YO1 9SX,F,N,L,John Walker House,18,Dixons Yard,,York
+2026-04-29,183000,YO1 9AE,F,N,L,Cocoa Suites,10,Navigation Road,,York
+2026-04-29,1000000,YO1 6JX,T,N,F,92,,Micklegate,,York
+2026-04-01,350000,YO1 6EB,T,N,F,2,,Fairfax Street,,York
+2026-03-26,181000,YO1 6EH,F,N,L,5,,Queens Court,,York
+2026-03-23,367000,YO1 9QB,T,N,F,8,,George Street,,York
+2026-03-23,650000,YO1 6LN,T,N,F,6,,St Martins Lane,,York
+2026-03-20,195000,YO1 7AF,F,N,L,Bellerby Court,Apartment 2,Palmer Lane,,York
+2026-03-16,275000,YO1 6AE,F,N,L,Kings Hudson Quarter,Apartment 23,Toft Green,,York
+2026-03-13,855000,YO1 7HF,F,N,L,9,Apartment 2,St Leonards Place,,York
+2026-03-12,320000,YO1 7LS,F,N,L,"Hunter House, 57",Apartment 10,Goodramgate,,York
+2026-03-11,265000,YO1 6EW,T,N,F,12,,Smales Street,,York
+2026-03-06,217500,YO1 7PD,F,N,L,Leetham House,Apartment 139 Core 3,Palmer Street,,York
+2026-03-05,545000,YO1 7HF,F,N,L,9,Apartment 4,St Leonards Place,,York
+2026-02-27,350000,YO1 6BY,F,N,L,Priory House,Apartment 9,Priory Street,,York
+2026-02-26,239950,YO1 8SU,F,N,L,Popes Head Court,Flat 1,Peter Lane,,York
+2026-02-20,230000,YO1 7ND,F,N,L,Adventurers Court,23,Pond Garth,,York
+2026-02-12,320000,YO1 7BP,F,N,L,2,,St Andrew Place,,York
+2026-02-06,495000,YO1 7BU,S,N,F,46,,Aldwark,,York
+2026-02-02,378500,YO1 7BR,T,N,F,35,,St Andrewgate,,York
+2026-01-27,280000,YO1 7BP,T,N,L,40,,St Andrew Place,,York
+2026-01-27,5100000,YO1 7AB,T,N,F,Purey Cust House,,The Purey Cust,,York
+2026-01-20,220000,YO1 6EB,T,N,F,40,,Fairfax Street,,York
+2026-01-16,203500,YO1 9QJ,F,N,L,Mayfair House,17,Piccadilly,,York
+2026-01-16,600000,YO1 7EJ,T,N,F,7,,Precentors Court,,York
+2025-12-19,230000,YO1 7ND,F,N,L,Adventurers Court,36,Pond Garth,,York
+2025-12-18,995000,YO1 9SF,T,N,L,The New House,,Peckitt Street,,York
+2025-12-15,380000,YO1 6DE,F,N,L,140,,Centurion Square,,York
+2025-12-12,975000,YO1 9SF,T,N,F,Old School House,,Peckitt Street,,York
+2025-12-08,180000,YO1 7BU,F,N,L,10,,Aldwark,,York
+2025-12-03,442500,YO1 6DZ,T,N,F,50,,Bishophill Senior,,York
+2025-12-02,276000,YO1 9XA,F,N,L,68,,Rowntree Wharf,,York
+2025-12-01,215500,YO1 6EH,F,N,L,Queens Court,7,Fetter Lane,,York
+2025-11-27,200000,YO1 9UQ,F,N,L,11,,Rosemary Court,,York
+2025-11-26,170000,YO1 7NE,F,N,L,Cordwainers Court,67,Black Horse Lane,,York
+2025-11-24,240000,YO1 9QJ,F,N,L,Mayfair House,24,Piccadilly,,York
+2025-11-17,170000,YO1 6HH,F,N,L,2,,Queens Staith Mews,,York
+2025-11-14,205000,YO1 7AF,F,N,L,Bellerby Court,Apartment 81,Palmer Lane,,York
+2025-11-12,525000,YO1 7BR,F,N,L,47,,St Andrewgate,,York
+2025-11-04,265000,YO1 7PB,F,N,L,Leetham House,Apartment 75 Core 2,Pound Lane,,York
+2025-11-03,305500,YO1 6EB,T,N,F,34,,Fairfax Street,,York
+2025-10-31,285500,YO1 7BZ,F,N,L,34,,St Andrewgate,,York
+2025-10-31,540000,YO1 6HB,T,N,F,1,,Dewsbury Cottages,,York
+2025-10-31,215000,YO1 6DQ,F,N,L,Emperors Wharf,11,Skeldergate,,York
+2025-10-31,255000,YO1 6DE,F,N,L,127,,Centurion Square,,York
+2025-10-28,427500,YO1 7BS,T,N,F,21,,Spen Lane,,York
+2025-10-23,255500,YO1 7PB,F,N,L,Leetham House,Apartment 83 Core 2,Pound Lane,,York
+2025-10-17,179000,YO1 9XA,F,N,L,50,,Rowntree Wharf,,York
+2025-10-10,225000,YO1 7PB,F,N,L,Leetham House,Apartment 20 Core 1,Pound Lane,,York
+2025-09-26,211500,YO1 9QP,F,N,L,Trafalgar House,25,Piccadilly,,York
+2025-09-26,325000,YO1 7BX,T,N,F,1,,Aldwark,,York
+2025-09-25,210000,YO1 6DP,F,N,L,27,,Centurion Square,,York
+2025-09-23,353000,YO1 6DY,T,N,F,5,,Falkland Street,,York
+2025-09-19,343750,YO1 6HW,S,N,F,3,,Rectory Court,,York
+2025-09-17,1350000,YO1 7JG,D,N,F,Ogleforth House,,Ogleforth,,York
+2025-09-17,235000,YO1 6EQ,F,N,L,2,,Buckingham Court,,York
+2025-09-11,750000,YO1 9TX,D,N,F,"Bakers Yard, 11A",,Walmgate,,York
+2025-09-01,450000,YO1 7BR,T,N,F,24,,St Andrewgate,,York
+2025-08-22,187000,YO1 7PB,F,N,L,Leetham House,Apartment 68 Core 2,Pound Lane,,York
+2025-08-22,148000,YO1 6JP,F,N,L,43,Flat 5,Tanner Row,,York
+2025-08-22,275000,YO1 6EA,T,N,F,28,,Hampden Street,,York
+2025-08-15,320000,YO1 6EB,T,N,F,15,,Fairfax Street,,York
+2025-08-15,367500,YO1 6AE,F,Y,L,Kings Hudson Quarter,Apartment 13,Toft Green,,York
+2025-08-06,450000,YO1 9RZ,T,N,F,4,,Tower Place,,York
+2025-08-06,1410000,YO1 7BZ,T,N,L,42,,St Andrewgate,,York
+2025-08-06,405000,YO1 6EY,F,N,L,1,,Trinity Court,,York
+2025-08-06,575000,YO1 6EE,T,N,F,20,,Buckingham Terrace,,York
+2025-08-01,450000,YO1 7BU,T,N,F,34,,Aldwark,,York
+2025-07-29,485000,YO1 9NX,F,N,L,"Ryedale House, 58 - 60",Apartment 609,Piccadilly,,York
+2025-07-28,420000,YO1 6HA,T,N,F,8,,Dewsbury Terrace,,York
+2025-07-28,275000,YO1 6EA,T,N,F,32,,Hampden Street,,York
+2025-07-14,196000,YO1 7AF,F,N,L,Bellerby Court,Apartment 23,Palmer Lane,,York
+2025-07-11,170000,YO1 9PU,F,N,L,St Denys Court,6,St Denys Road,,York
+2025-07-11,324500,YO1 6AD,F,N,L,Waverley Hudson Quarter,Apartment 31,Toft Green,,York
+2025-07-07,182000,YO1 7AF,F,N,L,Bellerby Court,Apartment 20,Palmer Lane,,York
+2025-07-04,260000,YO1 6EA,T,N,F,4,,Hampden Street,,York
+2025-06-25,84000,YO1 6ET,F,N,L,21,Flat 7,Priory Street,,York
+2025-06-20,678000,YO1 9SJ,T,N,F,1,,South Esplanade,,York
+2025-06-13,196000,YO1 7NE,F,N,L,Cordwainers Court,39,Black Horse Lane,,York
+2025-06-10,113256,YO1 7NE,F,N,L,Cordwainers Court,59,Black Horse Lane,,York
+2025-06-09,140000,YO1 9XA,F,N,L,3,,Rowntree Wharf,,York
+2025-06-04,375000,YO1 7PE,F,N,L,Leetham House,Apartment 182 Core 4,Leetham Lane,,York
+2025-05-30,219000,YO1 9NJ,F,N,L,5,,Spurriergate,,York
+2025-05-30,171000,YO1 6DP,F,N,L,48,,Centurion Square,,York
+2025-05-29,393500,YO1 6ES,F,N,L,Cardinal Court,Apartment 26,Bishophill Junior,,York
+2025-05-16,230000,YO1 7HZ,F,N,L,Talbot Court,12,Low Petergate,,York
+2025-05-15,245000,YO1 6DW,T,N,F,9,,Buckingham Street,,York
+2025-04-30,585000,YO1 9NX,F,N,L,"Ryedale House, 58 - 60",Apartment 607,Piccadilly,,York
+2025-04-30,365000,YO1 6HG,T,N,F,18,,Kyme Street,,York
+2025-04-30,385000,YO1 6ES,F,N,L,Cardinal Court,Apartment 8,Bishophill Junior,,York
+2025-04-17,262500,YO1 9TX,F,N,L,Mawsons Court,Flat 3,Walmgate,,York
+2025-03-31,210000,YO1 9SP,F,N,L,11,Flat 2,King Street,,York
+2025-03-31,310000,YO1 9QJ,F,N,L,Mayfair House,26,Piccadilly,,York
+2025-03-31,217500,YO1 7HZ,F,N,L,Talbot Court,11,Low Petergate,,York
+2025-03-31,450000,YO1 6HG,D,N,F,14,,Kyme Street,,York
+2025-03-28,170000,YO1 9AE,F,N,L,Cocoa Suites,51,Navigation Road,,York
+2025-03-28,112500,YO1 7PJ,F,N,L,Biba House,14,St Saviours Place,,York
+2025-03-28,372500,YO1 7PD,F,N,L,Leetham House,Apartment 115 Core 3,Palmer Street,,York
+2025-03-28,410000,YO1 6EB,T,N,F,51,,Fairfax Street,,York
+2025-03-28,420000,YO1 6EA,T,N,F,12,,Hampden Street,,York
+2025-03-26,330000,YO1 6AB,F,N,L,Victoria Hudson Quarter,Apartment 7,Toft Green,,York
+2025-03-24,540000,YO1 6HE,T,N,F,14,,Newton Terrace,,York
+2025-03-21,265000,YO1 9TX,F,N,L,Mawsons Court,Flat 8,Walmgate,,York
+2025-03-21,215000,YO1 9QP,F,N,L,Trafalgar House,27,Piccadilly,,York
+2025-03-14,422500,YO1 9NX,F,N,L,Piccadilly Lofts,5,Piccadilly,,York
+2025-03-14,395000,YO1 6DX,F,N,L,Woodsmill Quay,21,Skeldergate,,York
+2025-03-04,795000,YO1 6AE,F,Y,L,Kings Hudson Quarter,Apartment 58,Toft Green,,York
+2025-02-28,610000,YO1 9NX,F,N,L,"Ryedale House, 58 - 60",Apartment 208,Piccadilly,,York
+2025-02-28,286000,YO1 7BP,F,N,L,28,,St Andrew Place,,York
+2025-02-21,340000,YO1 9QA,T,N,F,15,,George Street,,York
+2025-02-21,189000,YO1 6HQ,F,N,L,22,,Victor Street,,York
+2025-02-21,315000,YO1 6EA,T,N,F,44,,Hampden Street,,York
+2025-02-14,280000,YO1 6DY,T,N,F,8,,Falkland Street,,York
+2025-02-10,780000,YO1 9SH,T,N,F,1,,Friars Terrace,,York
+2025-02-03,295000,YO1 6DP,F,N,L,74,,Centurion Square,,York
+2025-01-28,110000,YO1 6ET,F,N,L,21,Flat 2,Priory Street,,York
+2025-01-24,155000,YO1 7PB,F,N,L,Leetham House,Apartment 63 Core 2,Pound Lane,,York
+2025-01-23,500000,YO1 6LN,S,N,F,3,,St Martins Lane,,York
+2025-01-17,187500,YO1 7PJ,F,N,L,Biba House,4,St Saviours Place,,York
+2025-01-16,335000,YO1 6EU,T,N,F,5,,Bishops Court,,York
+2025-01-13,290000,YO1 7BP,F,N,L,27,,St Andrew Place,,York
+2024-12-19,290000,YO1 8SU,F,N,L,Popes Head Court,Flat 21,Peter Lane,,York
+2024-12-19,257000,YO1 8ST,F,N,L,16,Flat 2,Market Street,,York
+2024-12-19,850000,YO1 7HF,F,N,L,5,Apartment 2,St Leonards Place,,York
+2024-12-19,380000,YO1 7DE,T,N,F,10,,Hunt Court,,York
+2024-12-13,220000,YO1 7PB,F,N,L,Leetham House,Apartment 23 Core 1,Pound Lane,,York
+2024-12-12,395000,YO1 9SX,F,N,L,John Walker House,7,Dixons Yard,,York
+2024-12-12,240000,YO1 7NE,F,N,L,Cordwainers Court,25,Black Horse Lane,,York
+2024-12-06,233000,YO1 6AE,F,N,L,Kings Hudson Quarter,Apartment 26,Toft Green,,York
+2024-12-02,495000,YO1 9NX,F,N,L,Ryedale House 58-60,Apartment 407,Piccadilly,,York
+2024-11-28,215000,YO1 6DF,F,N,L,Constantine House,1,Fetter Lane,,York
+2024-11-18,270000,YO1 6HG,T,N,F,46,,Kyme Street,,York
+2024-11-18,215000,YO1 6DP,F,N,L,61,,Centurion Square,,York
+2024-11-15,218000,YO1 7AF,F,N,L,Bellerby Court,Apartment 11,Palmer Lane,,York
+2024-11-14,466000,YO1 6AD,F,Y,L,Waverley Hudson Quarter,Apartment 13,Toft Green,,York
+2024-11-11,214650,YO1 7AF,F,N,L,Bellerby Court,Apartment 85,Palmer Lane,,York
+2024-10-29,292500,YO1 6EA,T,N,F,35,,Hampden Street,,York
+2024-10-21,260000,YO1 7NE,F,N,L,Cordwainers Court,1,Black Horse Lane,,York
+2024-10-11,365000,YO1 7AF,F,N,L,Bellerby Court,Apartment 6,Palmer Lane,,York
+2024-09-27,435000,YO1 7AF,F,N,L,Bellerby Court,Apartment 10,Palmer Lane,,York
+2024-09-27,249950,YO1 6EH,F,N,L,Queens Court,8,Fetter Lane,,York
+2024-09-20,415000,YO1 6ES,F,N,L,Cardinal Court,Apartment 23,Bishophill Junior,,York
+2024-09-20,350000,YO1 6DY,T,N,F,3,,Falkland Street,,York
+2024-09-04,520000,YO1 9SF,F,N,L,The Old Fire Station,Apartment F,Peckitt Street,,York
+2024-08-30,232500,YO1 7AF,F,N,L,Bellerby Court,Apartment 63,Palmer Lane,,York
+2024-08-30,325000,YO1 6EA,T,N,F,13,,Hampden Street,,York
+2024-08-30,375000,YO1 6AE,F,Y,L,King Hudson Quarter,Apartment 53,Toft Green,,York
+2024-08-29,380000,YO1 7DF,T,N,F,11,,Pear Tree Court,,York
+2024-08-29,650000,YO1 6ET,S,N,F,13,,Priory Street,,York
+2024-08-28,422500,YO1 7BR,S,N,F,27,,St Andrewgate,,York
+2024-08-23,148000,YO1 9QE,F,N,L,Covent House,15,George Street,,York
+2024-08-21,195000,YO1 9XA,F,N,L,31,,Rowntree Wharf,,York
+2024-08-19,680000,YO1 9TB,S,N,F,8,,Malt Shovel Court,,York
+2024-08-19,552500,YO1 7BX,F,N,L,"Oliver Sheldon House, 17",Flat D,Aldwark,,York
+2024-08-08,315000,YO1 6BY,F,N,L,Priory House,Apartment 6,Priory Street,,York
+2024-08-05,325000,YO1 7ND,F,N,L,Adventurers Court,10,Pond Garth,,York
+2024-08-02,712500,YO1 6AB,F,Y,L,Victoria Hudson Quarter,Apartment 25,Toft Green,,York
+2024-07-31,385000,YO1 6DW,T,N,F,23,,Buckingham Street,,York
+2024-07-26,190000,YO1 7ND,F,N,L,Adventurers Court,48,Pond Garth,,York
+2024-07-19,480000,YO1 9SY,F,N,L,Fossbridge House,Flat 4,Walmgate,,York
+2024-07-19,445000,YO1 6AD,F,Y,L,Waverley Hudson Quarter,Apartment 6,Toft Green,,York
+2024-07-17,150000,YO1 6JP,F,N,L,43,Flat 9,Tanner Row,,York
+2024-07-17,240000,YO1 6DE,F,N,L,97,,Centurion Square,,York
+2024-07-12,415000,YO1 6ES,F,N,L,Cardinal Court,Apartment 32,Bishophill Junior,,York
+2024-07-10,280000,YO1 7HF,F,N,L,5,Apartment 4,St Leonards Place,,York
+2024-07-10,245000,YO1 6LL,F,N,L,Jacob Court,17,Trinity Lane,,York
+2024-07-08,385000,YO1 6HG,T,N,F,16,,Kyme Street,,York
+2024-07-04,280000,YO1 6AD,F,N,L,Waverley Hudson Quarter,Apartment 22,Toft Green,,York
+2024-06-28,140000,YO1 6JP,F,N,L,St. Michaels Lodge,Flat 2,Tanner Row,,York
+2024-06-27,330000,YO1 9TJ,F,N,L,"Flat 6, 2",,Walmgate,,York
+2024-06-20,477500,YO1 6AE,F,Y,L,Kings Hudson Quarter,Apartment 54,Toft Green,,York
+2024-06-13,290000,YO1 6DU,T,N,F,14,,Cromwell Road,,York
+2024-06-12,719000,YO1 6AD,F,Y,L,Waverley Hudson Quarter,Apartment 36,Toft Green,,York
+2024-06-03,265000,YO1 6BZ,F,N,L,Crambeck Court,1,Fetter Lane,,York
+2024-05-31,400000,YO1 6EB,T,N,F,32,,Fairfax Street,,York
+2024-05-24,70000,YO1 6LP,F,N,L,Rathmell Hall,Flat 10,George Hudson Street,,York
+2024-05-23,425000,YO1 7BR,F,N,L,51,,St Andrewgate,,York
+2024-05-21,450000,YO1 6DQ,F,N,L,Emperors Wharf,2,Skeldergate,,York
+2024-05-21,122500,YO1 6DE,F,N,L,102,,Centurion Square,,York
+2024-05-20,337000,YO1 6DW,T,N,F,31,,Buckingham Street,,York
+2024-05-15,420000,YO1 6HA,T,N,F,12,,Dewsbury Terrace,,York
+2024-05-07,462500,YO1 7BU,F,N,L,14A,,Aldwark,,York
+2024-05-03,480000,YO1 7BD,F,N,F,4,,St Andrews Court,,York
+2024-05-01,570000,YO1 7NA,T,N,L,12,,Kings Pool Walk,,York
+2024-04-26,192000,YO1 9AE,F,N,L,Cocoa Suites,21,Navigation Road,,York
+2024-04-19,180000,YO1 9XA,F,N,L,38,,Rowntree Wharf,,York
+2024-04-12,405000,YO1 7DG,D,N,F,4,,Penny Lane Court,,York
+2024-04-08,295000,YO1 7PB,F,N,L,Leetham House,Apartment 19 Core 1,Pound Lane,,York
+2024-04-05,184000,YO1 9AE,F,N,L,Cocoa Suites,20,Navigation Road,,York
+2024-04-03,465000,YO1 9PU,F,N,L,St. Denys Court,17,St Denys Road,,York
+2024-03-27,535000,YO1 7DT,F,N,L,4,Apartment 4,Museum Street,,York
+2024-03-07,307500,YO1 6EB,T,N,F,42,,Fairfax Street,,York
+2024-02-29,2705000,YO1 7AB,T,N,F,6,,The Purey Cust,,York
+2024-02-27,270000,YO1 9QP,F,N,L,Trafalgar House,29,Piccadilly,,York
+2024-02-27,375000,YO1 6HB,T,N,F,1,,Dewsbury Cottages,,York
+2024-02-23,165000,YO1 9PU,F,N,L,St Denys Court,3,St Denys Road,,York
+2024-02-23,195000,YO1 7NE,F,N,L,Cordwainers Court,74,Black Horse Lane,,York
+2024-02-23,173000,YO1 7ND,F,N,L,Adventurers Court,38,Pond Garth,,York
+2024-02-22,615000,YO1 6AB,F,Y,L,Victoria Hudson Quarter,Apartment 28,Toft Green,,York
+2024-02-19,435000,YO1 6HD,S,N,F,71,,Lower Priory Street,,York
+2024-02-02,290000,YO1 9QJ,F,N,L,Mayfair House,8,Piccadilly,,York
+2024-02-02,707000,YO1 6EW,T,N,F,2,,Smales Street,,York
+2024-01-31,1130000,YO1 7ED,F,N,L,5,The Archive,Duncombe Place,,York
+2024-01-26,220000,YO1 7BR,T,N,L,53,,St Andrewgate,,York
+2024-01-25,175000,YO1 9AE,F,N,L,Cocoa Suites,22,Navigation Road,,York
+2024-01-25,600000,YO1 7AD,T,N,F,Peasholme Court,2,The Stonebow,,York
+2024-01-10,350000,YO1 6EA,T,N,F,21,,Hampden Street,,York
+2023-12-20,1200000,YO1 9NX,F,N,L,Piccadilly Riverside Apartments,Flat 8,Piccadilly,,York
+2023-12-20,250000,YO1 6AE,F,N,L,Kings Hudson Quarter,Apartment 2,Toft Green,,York
+2023-12-14,296080,YO1 6DW,T,N,F,7,,Buckingham Street,,York
+2023-12-06,475000,YO1 9SY,F,N,L,Fossbridge House,Flat 5,Walmgate,,York
+2023-11-30,450000,YO1 6HG,T,N,F,12,,Kyme Street,,York
+2023-11-29,270000,YO1 6DW,T,N,F,28,,Buckingham Street,,York
+2023-11-24,205000,YO1 6DP,F,N,L,61,,Centurion Square,,York
+2023-11-23,400000,YO1 7PD,F,N,L,Leetham House,Apartment 109 Core 3,Palmer Street,,York
+2023-11-20,210000,YO1 9AE,F,N,L,Cocoa Suites,62A,Navigation Road,,York
+2023-11-17,133354,YO1 7NE,F,N,L,Cordwainers Court,23,Black Horse Lane,,York
+2023-11-10,440000,YO1 9RZ,T,N,F,5,,Tower Place,,York
+2023-11-10,620000,YO1 7LP,F,N,L,16,,Bedern,,York
+2023-11-08,150000,YO1 6EN,F,N,L,7,,Bishophill Junior,,York
+2023-11-06,390000,YO1 7NP,F,N,L,Stonebow House,Apartment 2C,The Stonebow,,York
+2023-10-27,325000,YO1 6EA,T,N,F,15,,Hampden Street,,York
+2023-10-23,530000,YO1 6EE,T,N,F,20,,Buckingham Terrace,,York
+2023-10-20,210000,YO1 6DQ,F,N,L,Emperors Wharf,5,Skeldergate,,York
+2023-10-10,175000,YO1 9AE,F,N,L,Cocoa Suites,50,Navigation Road,,York
+2023-09-29,325000,YO1 6DW,T,N,F,33,,Buckingham Street,,York
+2023-09-21,310000,YO1 7ND,F,N,L,Adventurers Court,25,Pond Garth,,York
+2023-09-18,120000,YO1 9QJ,F,N,L,Mayfair House,17,Piccadilly,,York
+2023-09-15,975000,YO1 9SF,T,N,F,Old School House,,Peckitt Street,,York
+2023-09-05,215000,YO1 6DF,F,N,L,Constantine House,2,Fetter Lane,,York
+2023-08-31,290000,YO1 9XA,F,N,L,63,,Rowntree Wharf,,York
+2023-08-25,440000,YO1 9NX,F,Y,L,Ryedale House 58-60,Apartment 505,Piccadilly,,York
+2023-08-11,460000,YO1 6LH,T,N,F,11,,Dewsbury Court,,York
+2023-08-11,305000,YO1 6EA,T,N,F,12,,Hampden Street,,York
+2023-08-04,165000,YO1 7PB,F,N,L,Leetham House,Apartment 1 Core 1,Pound Lane,,York
+2023-08-04,465000,YO1 7BR,T,N,F,29,,St Andrewgate,,York
+2023-08-04,395000,YO1 6AE,F,Y,L,Kings Hudson Quarter,Apartment 42,Toft Green,,York
+2023-08-03,415000,YO1 9NX,F,Y,L,"Ryedale House, 58 - 60",Apartment 309,Piccadilly,,York
+2023-07-31,215000,YO1 6LR,F,N,L,10,,The Courtyard,,York
+2023-07-31,450000,YO1 6EH,T,N,F,17,,Fetter Lane,,York
+2023-07-27,525000,YO1 9NX,F,Y,L,Ryedale House 58-60,Apartment 209,Piccadilly,,York
+2023-07-21,205000,YO1 6DQ,F,N,L,Emperors Wharf,35,Skeldergate,,York
+2023-07-20,230000,YO1 6LR,F,N,L,9,,The Courtyard,,York
+2023-07-20,282500,YO1 6HJ,F,N,L,5,,Albion Street,,York
+2023-07-05,175000,YO1 7PB,F,N,L,Leetham House,Apartment 66 Core 2,Pound Lane,,York
+2023-07-04,440000,YO1 7DE,T,N,F,8,,Hunt Court,,York
+2023-06-30,185000,YO1 9SG,F,N,L,Gibson House,2,Dixons Yard,,York
+2023-06-30,2415000,YO1 7HF,T,N,L,6,,St Leonards Place,,York
+2023-06-30,272500,YO1 6LT,F,N,L,"Merchant Exchange, 2",Flat 4,Bridge Street,,York
+2023-06-30,265000,YO1 6BY,F,N,L,Priory House,Apartment 3,Priory Street,,York
+2023-06-28,355000,YO1 6HG,T,N,F,38,,Kyme Street,,York
+2023-06-16,175000,YO1 9QY,F,N,L,Strand House,6,Dixon Lane,,York
+2023-06-16,185000,YO1 6LR,F,N,L,8,,The Courtyard,,York
+2023-06-01,284000,YO1 9NT,F,N,L,19,Flat 3,Coppergate Walk,,York
+2023-05-31,585000,YO1 7DT,F,N,L,4,Apartment 5,Museum Street,,York
+2023-05-31,245000,YO1 7BU,F,N,L,8,,Aldwark,,York
+2023-05-31,525000,YO1 6AD,F,Y,L,Waverley Hudson Quarter,Apartment 21,Toft Green,,York
+2023-05-26,305000,YO1 9PU,F,N,L,St Denys Court,20,St Denys Road,,York
+2023-05-22,205000,YO1 9XA,F,N,L,43,,Rowntree Wharf,,York
+2023-05-19,295000,YO1 9TF,F,N,L,35,Flat 12,Fossgate,,York
+2023-05-19,295000,YO1 7LS,F,N,L,"Hunter House, 57",Apartment 3,Goodramgate,,York
+2023-05-15,1650000,YO1 8NN,T,N,F,22,,St Saviourgate,,York
+2023-05-05,152000,YO1 9QE,F,N,L,Covent House,7,George Street,,York
+2023-05-02,1450000,YO1 9NX,F,N,L,"Ryedale House, 58 - 60",Apartment 703,Piccadilly,,York
+2023-05-02,510000,YO1 6HA,T,N,F,4,,Dewsbury Terrace,,York
+2023-04-28,550000,YO1 9NX,F,Y,L,Piccadilly Riverside Apartments,Flat 4,Piccadilly,,York
+2023-04-28,575000,YO1 6HB,T,N,F,2,,Dewsbury Cottages,,York
+2023-04-28,440000,YO1 6AD,F,Y,L,Waverley Hudson Quarter,Apartment 32,Toft Green,,York
+2023-04-17,136000,YO1 6LF,F,N,L,42E,,Micklegate,,York
+2023-04-13,425000,YO1 6AE,F,Y,L,Kings Hudson Quarter,Apartment 49,Toft Green,,York
+2023-04-06,300000,YO1 7ND,F,N,L,Adventurers Court,33,Pond Garth,,York
+2023-04-04,300000,YO1 7DF,T,N,F,15,,Pear Tree Court,,York
+2023-04-04,415000,YO1 6ES,F,N,L,Cardinal Court,Apartment 6,Bishophill Junior,,York
+2023-04-03,370000,YO1 6EA,T,N,F,14,,Hampden Street,,York
+2023-03-31,136000,YO1 6LF,F,N,L,42D,,Micklegate,,York
+2023-03-28,180000,YO1 6DP,F,N,L,73,,Centurion Square,,York
+2023-03-27,510000,YO1 6AD,F,Y,L,Waverley Hudson Quarter,Apartment 14,Toft Green,,York
+2023-03-15,213500,YO1 9UB,F,N,L,121,,Walmgate,,York
+2023-03-15,250000,YO1 6DE,F,N,L,133,,Centurion Square,,York
+2023-03-14,750000,YO1 8QF,F,N,L,Stonegate Court,11,Blake Street,,York
+2023-03-13,500000,YO1 6HA,D,N,F,6,,Dewsbury Terrace,,York
+2023-03-13,360000,YO1 6ES,F,N,L,Cardinal Court,Apartment 22,Bishophill Junior,,York
+2023-03-10,440000,YO1 7BD,F,N,F,5,,St Andrews Court,,York
+2023-03-03,330000,YO1 6EB,T,N,F,31,,Fairfax Street,,York
+2023-02-28,420000,YO1 9NX,F,N,L,Piccadilly Lofts,4,Piccadilly,,York
+2023-02-24,290500,YO1 6AD,F,Y,L,Waverley Hudson Quarter,Apartment 22,Toft Green,,York
+2023-02-17,755000,YO1 7HF,F,N,L,9,Apartment 3,St Leonards Place,,York
+2023-02-15,485000,YO1 7NP,F,N,L,Stonebow House,Apartment 2B,The Stonebow,,York
+2023-02-15,297000,YO1 7LS,F,N,L,"Hunter House, 57",Apartment 12,Goodramgate,,York
+2023-02-14,270000,YO1 6DP,F,N,L,38,,Centurion Square,,York
+2023-02-13,390000,YO1 7BU,T,N,L,26,,Aldwark,,York
+2023-02-10,480000,YO1 7PE,F,N,L,Leetham House,Apartment 193 Core 4,Leetham Lane,,York
+2023-02-10,1500000,YO1 7AB,T,N,F,5,,The Purey Cust,,York
+2023-01-31,210000,YO1 7AF,F,N,L,Bellerby Court,Apartment 74,Palmer Lane,,York
+2023-01-31,290000,YO1 6DT,F,N,L,Middleton House,29,Lady Anne Court,,York
+2023-01-27,310000,YO1 9NX,F,N,L,"Ryedale House, 58 - 60",Apartment 202,Piccadilly,,York
+2023-01-27,455000,YO1 9NX,F,Y,L,Ryedale House 58-60,Apartment 511,Piccadilly,,York
+2023-01-23,370000,YO1 9SX,F,N,L,John Walker House,21,Dixons Yard,,York
+2023-01-18,405000,YO1 9NX,F,Y,L,Ryedale House 58-60,Apartment 112,Piccadilly,,York
+2023-01-17,610000,YO1 7HF,F,N,L,"Apartment 1, 9",,St Leonards Place,,York
+2023-01-16,710000,YO1 6AB,F,Y,L,Victoria Hudson Quarter,Apartment 26,Toft Green,,York
+2023-01-06,177500,YO1 9UD,F,N,L,29,,Huby Court,,York
+2022-12-20,465000,YO1 9NX,F,Y,L,Ryedale House 58-60,Apartment 302,Piccadilly,,York
+2022-12-19,235000,YO1 6EQ,F,N,L,10,,Buckingham Court,,York
+2022-12-16,154000,YO1 9XA,F,N,L,13,,Rowntree Wharf,,York
+2022-12-14,152000,YO1 7ND,F,N,L,Adventurers Court,20,Pond Garth,,York
+2022-12-13,650000,YO1 9QB,T,N,F,4,,George Street,,York
+2022-12-13,325000,YO1 7NG,F,N,L,3A,,Foss View,,York
+2022-12-12,380000,YO1 9SX,F,N,L,John Walker House,5,Dixons Yard,,York
+2022-12-12,428500,YO1 6AD,F,Y,L,Waverley Hudson Quarter,Apartment 11,Toft Green,,York
+2022-12-02,510000,YO1 7PD,F,N,L,Leetham House,Apartment 118 Core 3,Palmer Street,,York
+2022-11-30,1100000,YO1 9SF,T,N,F,Esplanade Mews,Far Reach,Peckitt Street,,York
+2022-11-29,385000,YO1 6LT,F,N,L,"Merchant Exchange, 2",Flat 12,Bridge Street,,York
+2022-11-25,675000,YO1 7HF,F,N,L,1,Apartment 2,St Leonards Place,,York
+2022-11-25,225000,YO1 6DU,F,N,L,Cromwell House,12,Cromwell Road,,York
+2022-11-24,355000,YO1 6EA,T,N,F,2,,Hampden Street,,York
+2022-11-22,407500,YO1 6AB,F,Y,L,Victoria Hudson Quarter,Apartment 13,Toft Green,,York
+2022-11-18,410000,YO1 9NX,F,Y,L,Ryedale House 58-60,Apartment 311,Piccadilly,,York
+2022-11-14,152000,YO1 9QE,F,N,L,Covent House,1,George Street,,York
+2022-11-03,415000,YO1 6LH,T,N,F,3,,Dewsbury Court,,York
+2022-10-28,300000,YO1 6DQ,F,N,L,Emperors Wharf,20,Skeldergate,,York
+2022-10-26,187500,YO1 9QP,F,N,L,Trafalgar House,26,Piccadilly,,York
+2022-10-21,244000,YO1 9QP,F,N,L,Trafalgar House,1,Piccadilly,,York
+2022-10-21,239000,YO1 6DE,F,N,L,119,,Centurion Square,,York
+2022-10-21,450000,YO1 6AB,F,Y,L,Victoria Hudson Quarter,Apartment 3,Toft Green,,York
+2022-10-21,475000,YO1 6AB,F,Y,L,Victoria Hudson Quarter,Apartment 22,Toft Green,,York
+2022-10-21,270000,YO1 6AB,F,N,L,Victoria Hudson Quarter,Apartment 12,Toft Green,,York
+2022-10-14,415000,YO1 9NX,F,N,L,Piccadilly Lofts,1,Piccadilly,,York
+2022-10-12,140000,YO1 9XA,F,N,L,35,,Rowntree Wharf,,York
+2022-10-11,715000,YO1 7DT,F,N,L,2,Apartment 1,Museum Street,,York
+2022-10-03,770000,YO1 8QU,F,N,L,Blake Mews,Apartment 4,Blake Street,,York
+2022-10-03,415000,YO1 6AD,F,Y,L,Waverley Hudson Quarter,Apartment 2,Toft Green,,York
+2022-09-30,1400000,YO1 7AB,T,N,F,9,,The Purey Cust,,York
+2022-09-27,500500,YO1 6AE,F,Y,L,Kings Hudson Quarter,Apartment 36,Toft Green,,York
+2022-09-26,700000,YO1 7JG,T,N,F,19,,Ogleforth,,York
+2022-09-26,340000,YO1 7BR,F,N,L,61,,St Andrewgate,,York
+2022-09-20,350000,YO1 7PB,F,N,L,Leetham House,Apartment 54 Core 2,Pound Lane,,York
+2022-09-16,365000,YO1 7BP,F,N,L,9,,St Andrew Place,,York
+2022-09-16,194000,YO1 6HQ,F,N,L,14,,Victor Street,,York
+2022-09-14,320000,YO1 7PE,F,N,L,Leetham House,Apartment 183 Core 4,Leetham Lane,,York
+2022-09-12,350000,YO1 7NP,F,N,L,Stonebow House,Apartment 1A,The Stonebow,,York
+2022-09-09,800000,YO1 9NX,F,Y,L,Ryedale 58-60,Apartment 705,Piccadilly,,York
+2022-09-01,363000,YO1 7PE,F,N,L,Leetham House,Apartment 182 Core 4,Leetham Lane,,York
+2022-08-31,290000,YO1 6DX,F,N,L,Woodsmill Quay,28,Skeldergate,,York
+2022-08-26,280000,YO1 7LP,F,N,L,17,,Bedern,,York
+2022-08-24,280000,YO1 7NE,F,N,L,Cordwainers Court,12,Black Horse Lane,,York
+2022-08-17,520000,YO1 7BP,F,N,L,4,,St Andrew Place,,York
+2022-08-17,400000,YO1 7BP,F,N,L,33,,St Andrew Place,,York
+2022-08-15,168000,YO1 6DP,F,N,L,11,,Centurion Square,,York
+2022-08-11,170000,YO1 7NE,F,N,L,Cordwainers Court,49,Black Horse Lane,,York
+2022-08-09,570000,YO1 7NP,F,N,L,Stonebow House,Apartment 4D,The Stonebow,,York
+2022-08-09,410000,YO1 6AE,F,N,L,Kings Hudson Quarter,Apartment 21,Toft Green,,York
+2022-08-05,305000,YO1 9RN,F,N,L,Gloucester House,4,Castlegate,,York
+2022-08-05,150000,YO1 6DX,F,N,L,Woodsmill Quay,10,Skeldergate,,York
+2022-08-04,296000,YO1 6EB,T,N,F,20,,Fairfax Street,,York
+2022-08-03,285000,YO1 7PE,F,N,L,Leetham House,Apartment 162 Core 4,Leetham Lane,,York
+2022-08-01,170000,YO1 6BD,F,N,L,Bishophill House,Flat 6,Bishophill Senior,,York
+2022-07-22,450000,YO1 9NX,F,Y,L,Ryedale House 58-60,Apartment 306,Piccadilly,,York
+2022-07-13,450000,YO1 6AE,F,Y,L,Kings Hudson Quarter,Apartment 11,Toft Green,,York
+2022-07-04,295000,YO1 7ND,F,N,L,Adventurers Court,50,Pond Garth,,York
+2022-06-30,230000,YO1 7NE,F,N,L,Cordwainers Court,56,Black Horse Lane,,York
+2022-06-30,520000,YO1 6HA,T,N,F,9,,Dewsbury Terrace,,York
+2022-06-27,178000,YO1 9QP,F,N,L,Trafalgar House,3,Piccadilly,,York
+2022-06-22,1125000,YO1 9NX,F,Y,L,Piccadilly Riverside Apartments,Flat 8,Piccadilly,,York
+2022-06-22,290000,YO1 6EY,F,N,L,12,,Trinity Court,,York
+2022-06-22,270000,YO1 6DP,F,N,L,33,,Centurion Square,,York
+2022-06-17,225000,YO1 7ND,F,N,L,Adventurers Court,46,Pond Garth,,York
+2022-06-17,430000,YO1 6AB,F,Y,L,Victoria Hudson Quarter,Apartment 6,Toft Green,,York
+2022-06-14,375000,YO1 6DQ,F,N,L,Emperors Wharf,31,Skeldergate,,York
+2022-06-08,595000,YO1 9NX,F,Y,L,Ryedale House 58-60,Apartment 108,Piccadilly,,York
+2022-06-06,190000,YO1 6LR,F,N,L,17,,The Courtyard,,York
+2022-05-31,465000,YO1 9NX,F,Y,L,Ryedale House 58-60,Apartment 409,Piccadilly,,York
+2022-05-31,184100,YO1 6LR,F,N,L,20,,The Courtyard,,York
+2022-05-27,245000,YO1 9XA,F,N,L,24,,Rowntree Wharf,,York
+2022-05-27,185000,YO1 6EU,T,N,F,2,,Bishops Court,,York
+2022-05-27,385000,YO1 6ES,F,N,L,Cardinal Court,Apartment 9,Bishophill Junior,,York
+2022-05-27,425000,YO1 6AE,F,Y,L,Kings Hudson Quarter,Apartment 40,Toft Green,,York
+2022-05-27,415000,YO1 6AE,F,Y,L,Kings Hudson Quarter,Apartment 33,Toft Green,,York
+2022-05-23,210000,YO1 9QU,F,N,L,14,Flat 2,Low Ousegate,,York
+2022-05-20,425000,YO1 6AD,F,Y,L,Waverley Hudson Quarter,Apartment 5,Toft Green,,York
+2022-05-16,189000,YO1 9AE,F,N,L,Cocoa Suites,30,Navigation Road,,York
+2022-05-12,425000,YO1 6AB,F,Y,L,Victoria Hudson Quarter,Apartment 15,Toft Green,,York
+2022-05-10,560000,YO1 7ND,F,N,L,Adventurers Court,54,Pond Garth,,York
+2022-05-09,460000,YO1 6HA,T,N,F,3,,Dewsbury Terrace,,York
+2022-05-05,385000,YO1 9RZ,T,N,F,5,,Tower Place,,York
+2022-04-26,330000,YO1 9AE,F,N,L,Cocoa Suites,36,Navigation Road,,York
+2022-04-20,150000,YO1 9UJ,F,N,L,4,,Rosemary Place,,York
+2022-04-19,540000,YO1 9NX,F,N,L,Piccadilly Lofts,5,Piccadilly,,York
+2022-04-08,146000,YO1 6LF,F,N,L,48C,,Micklegate,,York
+2022-04-08,175000,YO1 6DX,F,N,L,Woodsmill Quay,6,Skeldergate,,York
+2022-04-05,350000,YO1 7BP,F,N,L,23,,St Andrew Place,,York
+2022-04-01,215000,YO1 6AE,F,N,L,1 Kings Hudson Quarter,Apartment,Toft Green,,York
+2022-03-30,550000,YO1 9NX,F,Y,L,"Ryedale House, 58 - 60",Apartment 208,Piccadilly,,York
+2022-03-28,170000,YO1 7PD,F,N,L,Leetham House,Apartment 113 Core 3,Palmer Street,,York
+2022-03-25,270000,YO1 7BP,F,N,L,39,,St Andrew Place,,York
+2022-03-24,498000,YO1 6HF,T,N,F,8,,Baile Hill Terrace,,York
+2022-03-18,425000,YO1 9NX,F,Y,L,"Ryedale House, 58 - 60",Apartment 408,Piccadilly,,York
+2022-03-16,229000,YO1 7HZ,F,N,L,Talbot Court,5,Low Petergate,,York
+2022-03-11,385000,YO1 9NX,F,Y,L,"Ryedale House, 58 - 60",Apartment 104,Piccadilly,,York
+2022-03-11,480000,YO1 9NX,F,Y,L,Ryedale House 58-60,Apartment 502,Piccadilly,,York
+2022-03-07,460000,YO1 6AE,F,Y,L,Kings Hudson Quarter,Apartment 35,Toft Green,,York
+2022-03-03,260000,YO1 6DP,F,N,L,71,,Centurion Square,,York
+2022-03-01,430000,YO1 6AE,F,Y,L,Kings Hudson Quarter,Apartment 20,Toft Green,,York
+2022-02-28,333000,YO1 6EB,T,N,F,19,,Fairfax Street,,York
+2022-02-25,185000,YO1 9UA,F,N,L,89,,Walmgate,,York
+2022-02-25,410000,YO1 9QB,T,N,F,4,,George Street,,York
+2022-02-25,415000,YO1 6EB,T,N,F,28,,Fairfax Street,,York
+2022-02-25,532500,YO1 6AD,F,Y,L,Waverley Hudson Quarter,Apartment 3,Toft Green,,York
+2022-02-23,178000,YO1 6DE,F,N,L,126,,Centurion Square,,York
+2022-02-18,220000,YO1 7PB,F,N,L,Leetham House,Apartment 34 Core 1,Pound Lane,,York
+2022-02-18,136000,YO1 6DW,F,N,L,15,,Buckingham Street,,York
+2022-02-17,438000,YO1 6AB,F,Y,L,Victoria Hudson Quarter,Apartment 14,Toft Green,,York
+2022-02-11,620000,YO1 9NX,F,Y,L,"Ryedale House, 58 - 60",Apartment 205,Piccadilly,,York
+2022-02-08,560000,YO1 9SF,F,N,L,The Old Fire Station,Apartment C,Peckitt Street,,York
+2022-02-02,230000,YO1 7AF,F,N,L,Bellerby Court,Apartment 78,Palmer Lane,,York
+2022-02-02,275200,YO1 6DW,T,N,F,32,,Buckingham Street,,York
+2022-02-01,205000,YO1 7PE,F,N,L,Leetham House,Apartment 192 Core 4,Leetham Lane,,York
+2022-02-01,200000,YO1 7NE,F,N,L,Cordwainers Court,38,Black Horse Lane,,York
+2022-01-31,425000,YO1 6HA,T,N,F,5,,Dewsbury Terrace,,York
+2022-01-28,840000,YO1 9SF,T,N,F,Old School House,,Peckitt Street,,York
+2022-01-28,290000,YO1 9QJ,F,N,L,Mayfair House,20,Piccadilly,,York
+2022-01-27,301000,YO1 9AE,F,N,L,Cocoa Suites,29,Navigation Road,,York
+2022-01-24,110000,YO1 6ED,F,N,L,33,,Bishophill Senior,,York
+2022-01-21,162500,YO1 9TJ,F,N,L,1,,Dixons Yard,,York
+2022-01-14,176000,YO1 9AE,F,N,L,Cocoa Suites,47,Navigation Road,,York
+2022-01-12,650000,YO1 9NX,F,Y,L,"Ryedale House, 58 - 60",Apartment 211,Piccadilly,,York
+2021-12-22,123794,YO1 7ND,F,N,L,Adventurers Court,26,Pond Garth,,York
+2021-12-20,276000,YO1 9XA,F,N,L,68,,Rowntree Wharf,,York
+2021-12-20,1050000,YO1 9SF,T,N,F,Esplanade Mews,Riverside View,Peckitt Street,,York
+2021-12-17,167000,YO1 7ND,F,N,L,Adventurers Court,44,Pond Garth,,York
+2021-12-17,426000,YO1 7DE,S,N,F,20,,Hunt Court,,York
+2021-12-17,267500,YO1 6AD,F,Y,L,Waverley Hudson Quarter,Apartment 15,Toft Green,,York
+2021-12-16,258000,YO1 6DT,F,N,L,Boleyn House,7,Lady Anne Court,,York
+2021-12-15,165000,YO1 7NE,F,N,L,Cordwainers Court,4,Black Horse Lane,,York
+2021-12-13,497500,YO1 6AD,F,Y,L,Waverley Hudson Quarter,Apartment 7,Toft Green,,York
+2021-12-10,450000,YO1 9NX,F,Y,L,"Ryedale House, 58 - 60",Apartment 406,Piccadilly,,York
+2021-12-10,556000,YO1 7BP,T,N,L,18,,St Andrew Place,,York
+2021-12-10,297500,YO1 6AD,F,Y,L,Waverley Hudson Quarter,Apartment 16,Toft Green,,York
+2021-12-09,150000,YO1 7ND,F,N,L,Adventurers Court,35,Pond Garth,,York
+2021-12-07,850000,YO1 7NP,F,N,L,Stonebow House,Apartment 5C,The Stonebow,,York
+2021-12-02,162500,YO1 9SG,F,N,L,Gibson House,1,Dixons Yard,,York
+2021-12-02,1400000,YO1 7EJ,D,N,F,9,,Precentors Court,,York
+2021-11-30,222222,YO1 9RG,F,N,L,21,Apartment 1,Clifford Street,,York
+2021-11-30,222222,YO1 9RG,F,N,L,21,Apartment 2,Clifford Street,,York
+2021-11-30,222222,YO1 9RG,F,N,L,21,Apartment 3,Clifford Street,,York
+2021-11-30,222222,YO1 9RG,F,N,L,21,Apartment 4,Clifford Street,,York
+2021-11-30,222222,YO1 9RG,F,N,L,21,Apartment 5,Clifford Street,,York
+2021-11-30,222222,YO1 9RG,F,N,L,21,Apartment 6,Clifford Street,,York
+2021-11-30,222222,YO1 9RG,F,N,L,21,Apartment 7,Clifford Street,,York
+2021-11-30,222222,YO1 9RG,F,N,L,21,Apartment 8,Clifford Street,,York
+2021-11-30,222222,YO1 9RG,F,N,L,21,Apartment 9,Clifford Street,,York
+2021-11-30,285000,YO1 6ES,F,N,L,Cardinal Court,Apartment 11,Bishophill Junior,,York
+2021-11-30,276440,YO1 6EA,T,N,F,3,,Hampden Street,,York
+2021-11-25,185000,YO1 9AE,F,N,L,Cocoa Suites,15,Navigation Road,,York
+2021-11-24,261000,YO1 6DP,F,N,L,10,,Centurion Square,,York
+2021-11-24,1050000,YO1 6AE,F,Y,L,Kings Hudson Quarter,Apartment 60,Toft Green,,York
+2021-11-24,302500,YO1 6AB,F,Y,L,Victoria Hudson Quarter,Apartment 17,Toft Green,,York
+2021-11-22,400000,YO1 9NX,F,Y,L,"Ryedale House, 58 - 60",Apartment 204,Piccadilly,,York
+2021-11-19,380000,YO1 7PB,F,N,L,Leetham House,Apartment 62 Core 2,Pound Lane,,York
+2021-11-19,220000,YO1 7BU,T,N,F,40,,Aldwark,,York
+2021-11-19,630000,YO1 7BU,T,N,L,40,,Aldwark,,York
+2021-11-19,99500,YO1 6DE,F,N,L,93,,Centurion Square,,York
+2021-11-18,380000,YO1 6AE,F,Y,L,Kings Hudson Quarter,Apartment 10,Toft Green,,York
+2021-11-12,495000,YO1 9AA,T,N,F,8,,Nelsons Yard,,York
+2021-11-12,1675000,YO1 7PJ,F,N,L,Biba House,25,St Saviours Place,,York
+2021-11-09,180000,YO1 9QJ,F,N,L,Mayfair House,23,Piccadilly,,York
+2021-11-05,650000,YO1 9NX,F,Y,L,"Ryedale House, 58 - 60",Apartment 304,Piccadilly,,York
+2021-10-22,210000,YO1 6LL,F,N,L,Jacob Court,14,Trinity Lane,,York
+2021-10-20,1200000,YO1 7NP,F,N,L,Stonebow House,Apartment 5B,The Stonebow,,York
+2021-10-18,222500,YO1 7NE,F,N,L,Cordwainers Court,64,Black Horse Lane,,York
+2021-10-07,145000,YO1 9UJ,F,N,L,12,,Rosemary Place,,York
+2021-10-07,1490000,YO1 7AB,T,N,F,7,,The Purey Cust,,York
+2021-09-30,346000,YO1 9SL,T,N,F,1,,Lower Friargate,,York
+2021-09-30,740000,YO1 9SH,T,N,F,1,,Friars Terrace,,York
+2021-09-30,570000,YO1 6AD,F,Y,L,Waverley Hudson Quarter,Apartment 28,Toft Green,,York
+2021-09-29,975000,YO1 9NX,F,Y,L,Ryedale House 58-60,Apartment 701,Piccadilly,,York
+2021-09-29,190000,YO1 6DP,F,N,L,68,,Centurion Square,,York
+2021-09-29,210000,YO1 6DE,F,N,L,138,,Centurion Square,,York
+2021-09-29,265000,YO1 6AB,F,Y,L,Victoria Hudson Quarter,Apartment 12,Toft Green,,York
+2021-09-29,355000,YO1 6AB,F,Y,L,Victoria Hudson Quarter,Apartment 2,Toft Green,,York
+2021-09-28,240000,YO1 6EH,F,N,L,Queens Court,9,Fetter Lane,,York
+2021-09-27,146000,YO1 6LF,F,N,L,48B,,Micklegate,,York
+2021-09-24,200000,YO1 9PU,F,N,L,St. Denys Court,8,St Denys Road,,York
+2021-09-24,392000,YO1 6LH,T,N,F,1,,Dewsbury Court,,York
+2021-09-22,525000,YO1 9SX,F,N,L,John Walker House,14,Dixons Yard,,York
+2021-09-22,239000,YO1 7AF,F,N,L,Bellerby Court,Apartment 88,Palmer Lane,,York
+2021-09-17,180000,YO1 9AE,F,N,L,Cocoa Suites,58,Navigation Road,,York
+2021-09-15,830000,YO1 7HF,F,N,L,1,Apartment 4,St Leonards Place,,York
+2021-09-14,260000,YO1 9PX,S,N,F,36,,George Street,,York
+2021-09-13,1055000,YO1 9SF,T,N,F,Esplanade Mews,The Bridges,Peckitt Street,,York
+2021-09-09,300000,YO1 6EN,T,N,F,16,,Bishophill Junior,,York
+2021-09-09,420000,YO1 6AB,F,Y,L,Victoria Hudson Quarter,Apartment 18,Toft Green,,York
+2021-09-02,540000,YO1 9AG,F,Y,L,Piccadilly Riverside Apartments,Flat 6,Piccadilly,,York
+2021-09-02,220000,YO1 6EQ,F,N,L,1,,Buckingham Court,,York
+2021-09-01,175000,YO1 9RN,F,N,L,"St. Georges House, 23",7,Castlegate,,York
+2021-08-31,422500,YO1 6HQ,T,N,F,36,,Victor Street,,York
+2021-08-27,400000,YO1 9NX,F,Y,L,Ryedale House 60,Apartment 106,Piccadilly,,York
+2021-08-25,305000,YO1 6AE,F,Y,L,Kings Hudson Quarter,Apartment 27,Toft Green,,York
+2021-08-24,775000,YO1 8NQ,T,N,F,33,,St Saviourgate,,York
+2021-08-16,136000,YO1 9QE,F,N,L,Covent House,15,George Street,,York
+2021-08-13,375000,YO1 6HQ,T,N,F,44,,Victor Street,,York
+2021-08-13,575000,YO1 6AD,F,Y,L,Waverley Hudson Quarter,Apartment 27,Toft Green,,York
+2021-08-12,505000,YO1 9NX,F,Y,L,"Ryedale House, 58 - 60",Apartment 506,Piccadilly,,York
+2021-08-10,396000,YO1 9RZ,T,N,F,6,,Tower Place,,York
+2021-08-09,174000,YO1 9XA,F,N,L,24,,Rowntree Wharf,,York
+2021-08-06,207500,YO1 6LR,F,N,L,4,,The Courtyard,,York
+2021-08-05,152500,YO1 6LR,F,N,L,6,,The Courtyard,,York
+2021-08-03,250000,YO1 6AB,F,Y,L,Victoria Hudson Quarter,Apartment 1,Toft Green,,York
+2021-07-30,250000,YO1 9NX,F,Y,L,Ryedale House 60,Apartment 201,Piccadilly,,York
+2021-07-28,550000,YO1 9NX,F,Y,L,"Ryedale House, 58 - 60",Apartment 606,Piccadilly,,York
+2021-07-19,260000,YO1 7QB,F,N,L,5,,Bollans Court,,York
+2021-07-12,250000,YO1 6AB,F,Y,L,Victoria Hudson Quarter,Apartment 4,Toft Green,,York
+2021-06-30,440000,YO1 9RZ,S,N,F,1,,Tower Place,,York
+2021-06-30,685000,YO1 7BS,T,N,F,10,,Spen Lane,,York
+2021-06-30,240000,YO1 6AD,F,Y,L,Waverley Hudson Quarter,Apartment 8,Toft Green,,York
+2021-06-29,658500,YO1 7AD,T,N,F,Peasholme Court,4,The Stonebow,,York
+2021-06-29,390000,YO1 6ES,F,N,L,Cardinal Court,Apartment 28,Bishophill Junior,,York
+2021-06-29,183000,YO1 6DE,F,N,L,116,,Centurion Square,,York
+2021-06-29,1200000,YO1 6AD,F,Y,L,Waverley Hudson Quarter,Apartment 34,Toft Green,,York
+2021-06-28,470000,YO1 9NX,F,Y,L,Ryedale Building 60,Apartment 503,Piccadilly,,York
+2021-06-28,399000,YO1 7AF,F,N,L,Bellerby Court,Apartment 6,Palmer Lane,,York
+2021-06-28,330000,YO1 6DQ,F,N,L,Emperors Wharf,32,Skeldergate,,York
+2021-06-28,247500,YO1 6AE,F,Y,L,Kings Hudson Quarter,Apartment 22,Toft Green,,York
+2021-06-25,317500,YO1 6EA,T,N,F,14,,Hampden Street,,York
+2021-06-25,397500,YO1 6AB,F,Y,L,Victoria Hudson Quarter,Apartment 7,Toft Green,,York
+2021-06-25,472500,YO1 6AB,F,Y,L,Victoria Hudson Quarter,Apartment 11,Toft Green,,York
+2021-06-24,240000,YO1 6EA,T,N,F,45,,Hampden Street,,York
+2021-06-23,204000,YO1 9XA,F,N,L,28,,Rowntree Wharf,,York
+2021-06-21,300000,YO1 6DY,T,N,F,1,,Falkland Street,,York
+2021-06-18,500000,YO1 9NX,F,Y,L,"Ryedale House, 58 - 60",Apartment 507,Piccadilly,,York
+2021-06-18,460000,YO1 9NX,F,Y,L,"Ryedale House, 58 - 60",Apartment 509,Piccadilly,,York
+2021-06-18,195000,YO1 6AE,F,Y,L,Kings Hudson Quarter,Apartment 28,Toft Green,,York
+2021-06-18,180000,YO1 6AE,F,Y,L,Kings Hudson Quarter,Apartment 5,Toft Green,,York
+2021-06-18,502500,YO1 6AB,F,Y,L,Victoria Hudson Quarter,Apartment 19,Toft Green,,York
+2021-06-17,217500,YO1 9QJ,F,N,L,Mayfair House,24,Piccadilly,,York
+2021-06-16,380500,YO1 6AE,F,Y,L,Kings Hudson Quarter,Apartment 61,Toft Green,,York
+2021-06-15,708000,YO1 9SJ,T,N,F,1,,South Esplanade,,York
+2021-06-15,435000,YO1 7AF,F,N,L,Bellerby Court,Apartment 9,Palmer Lane,,York
+2021-06-15,324000,YO1 6DU,T,N,F,12,,Cromwell Road,,York
+2021-06-11,550000,YO1 9AG,F,Y,L,Piccadilly Riverside Apartments,Flat 5,Piccadilly,,York
+2021-06-11,293000,YO1 6ES,F,N,L,Cardinal Court,Apartment 34,Bishophill Junior,,York
+2021-06-08,288000,YO1 9XA,F,N,L,65,,Rowntree Wharf,,York
+2021-06-08,232000,YO1 9AE,F,N,L,Cocoa Suites,33,Navigation Road,,York
+2021-06-04,231000,YO1 9AE,F,N,L,Cocoa Suites,18,Navigation Road,,York
+2021-06-04,280000,YO1 7PB,F,N,L,Leetham House,Apartment 60 Core 2,Pound Lane,,York
+2021-06-04,350000,YO1 6LH,T,N,F,6,,Dewsbury Court,,York
+2021-06-03,1150000,YO1 9AG,F,Y,L,Piccadilly Riverside Apartments,Flat 7,Piccadilly,,York
+2021-06-02,285000,YO1 6AE,F,Y,L,Kings Hudson Quarter,Apartment 52,Toft Green,,York
+2021-06-02,250000,YO1 6AE,F,Y,L,Kings Hudson Quarter,Apartment 24,Toft Green,,York
+2021-05-28,426500,YO1 7AF,F,N,L,Bellerby Court,Apartment 12,Palmer Lane,,York
+2021-05-26,750000,YO1 9RP,T,N,F,16,,Castlegate,,York
+2021-05-21,170000,YO1 9XA,F,N,L,46,,Rowntree Wharf,,York
+2021-05-21,900000,YO1 9NX,F,Y,L,"Ryedale House, 58 - 60",Apartment 702,Piccadilly,,York
+2021-05-21,260000,YO1 6DW,T,N,F,10,,Buckingham Street,,York
+2021-05-21,240000,YO1 6AD,F,Y,L,Waverley Hudson Quarter,Apartment 9,Toft Green,,York
+2021-05-20,170000,YO1 9PU,F,N,L,St Denys Court,1,St Denys Road,,York
+2021-05-19,450000,YO1 7PE,F,N,L,Leetham House,Apartment 163 Core 4,Leetham Lane,,York
+2021-05-14,184000,YO1 6EB,T,N,F,42,,Fairfax Street,,York
+2021-05-14,180000,YO1 6BD,F,N,L,Bishophill House,Flat 5,Bishophill Senior,,York
+2021-05-14,175000,YO1 6AE,F,Y,L,1 Kings Hudson Quarter,Apartment,Toft Green,,York
+2021-05-13,260000,YO1 6AE,F,Y,L,Kings Hudson Quarter,Apartment 34,Toft Green,,York
+2021-05-13,215000,YO1 6AE,F,Y,L,Kings Hudson Quarter,Apartment 55,Toft Green,,York
+2021-05-11,532500,YO1 6AE,F,Y,L,Kings Hudson Quarter,Apartment 50,Toft Green,,York
+2021-05-11,220000,YO1 6AB,F,Y,L,Victoria Hudson Quarter,Apartment 24,Toft Green,,York
+2021-05-10,312500,YO1 6AE,F,Y,L,Kings Hudson Quarter,Apartment 48,Toft Green,,York
+2021-05-07,372000,YO1 6AE,F,Y,L,Kings Hudson Quarter,Apartment 8,Toft Green,,York
+2021-05-07,190000,YO1 6AE,F,Y,L,Kings Hudson Quarter,Apartment 25,Toft Green,,York
+2021-05-07,300000,YO1 6AD,F,Y,L,Waverley Hudson Quarter,Apartment 33,Toft Green,,York
+2021-05-07,190000,YO1 6AB,F,Y,L,Victoria Hudson Quarter,Apartment 8,Toft Green,,York
+2021-05-06,237000,YO1 9AE,F,N,L,Cocoa Suites,42,Navigation Road,,York
+2021-05-06,230000,YO1 6AE,F,Y,L,Kings Hudson Quarter,Apartment 2,Toft Green,,York
+2021-05-06,352500,YO1 6AE,F,Y,L,Kings Hudson Quarter,Apartment 56,Toft Green,,York
+2021-05-06,692500,YO1 6AE,F,Y,L,Kings Hudson Quarter,Apartment 57,Toft Green,,York
+2021-05-05,195000,YO1 6AB,F,Y,L,Victoria Hudson Quarter,Apartment 16,Toft Green,,York
+2021-05-05,280000,YO1 6AB,F,Y,L,Victoria Hudson Quarter,Apartment 20,Toft Green,,York
+2021-05-04,355000,YO1 6AE,F,Y,L,Kings Hudson Quarter,Apartment 3,Toft Green,,York
+2021-04-30,465000,YO1 9NX,F,Y,L,"Ryedale House, 58 - 60",Apartment 610,Piccadilly,,York
+2021-04-30,200000,YO1 6HP,F,Y,L,37 Kings Hudson Quarter,Apartment,Toft Green,,York
+2021-04-30,302500,YO1 6AD,F,Y,L,Waverley Hudson Quarter,Apartment 23,Toft Green,,York
+2021-04-29,370000,YO1 8QF,F,N,L,Stonegate Court,9,Blake Street,,York
+2021-04-27,267500,YO1 6AE,F,Y,L,Kings Hudson Quarter,Apartment 39,Toft Green,,York
+2021-04-26,1100000,YO1 7AB,T,N,F,9,,The Purey Cust,,York
+2021-04-26,492500,YO1 6AE,F,Y,L,Kings Hudson Quarter,Apartment 15,Toft Green,,York
+2021-04-23,350000,YO1 7BZ,F,N,L,32,,St Andrewgate,,York
+2021-04-23,161500,YO1 6LR,F,N,L,14,,The Courtyard,,York
+2021-04-23,180000,YO1 6AE,F,Y,L,Kings Hudson Quarter,Apartment 6,Toft Green,,York
+2021-04-21,425000,YO1 7AF,F,N,L,Bellerby Court,Apartment 54,Palmer Lane,,York
+2021-04-12,210000,YO1 7LP,F,N,L,17,,Bedern,,York
+2021-04-12,585000,YO1 6EW,T,N,F,2,,Smales Street,,York
+2021-04-01,350000,YO1 7JG,F,N,L,The Old Brewery,9,Ogleforth,,York
+2021-03-31,685000,YO1 9NX,F,Y,L,"Ryedale House, 60",Apartment 604,Piccadilly,,York
+2021-03-31,980000,YO1 9NX,F,Y,L,"Ryedale House, 60",Apartment 704,Piccadilly,,York
+2021-03-31,540000,YO1 9NX,F,Y,L,"Ryedale House, 58 - 60",Apartment 501,Piccadilly,,York
+2021-03-26,224000,YO1 9QP,F,N,L,Trafalgar House,28,Piccadilly,,York
+2021-03-26,240000,YO1 8SU,F,N,L,Popes Head Court,Flat 5,Peter Lane,,York
+2021-03-26,317000,YO1 6DY,T,N,F,10,,Falkland Street,,York
+2021-03-23,174950,YO1 7NE,F,N,L,Cordwainers Court,33,Black Horse Lane,,York
+2021-03-22,675000,YO1 9NX,F,Y,L,"Ryedale House, 60",Apartment 504,Piccadilly,,York
+2021-03-22,265000,YO1 9NX,F,Y,L,"Ryedale House, 58 - 60",Apartment 110,Piccadilly,,York
+2021-03-19,413000,YO1 9NX,F,Y,L,"Ryedale House, 60",Apartment 508,Piccadilly,,York
+2021-03-19,265000,YO1 7HZ,F,N,L,Talbot Court,8,Low Petergate,,York
+2021-03-18,232000,YO1 6EB,T,N,F,19,,Fairfax Street,,York
+2021-03-17,370000,YO1 7BP,T,N,L,32,,St Andrew Place,,York
+2021-03-16,305000,YO1 7PB,F,N,L,Leetham House,Apartment 86 Core 2,Pound Lane,,York
+2021-03-12,475000,YO1 9NX,F,Y,L,"Ryedale House, 58 - 60",Apartment 609,Piccadilly,,York
+2021-03-12,170000,YO1 6DX,F,N,L,Woodsmill Quay,16,Skeldergate,,York
+2021-03-12,305000,YO1 6DW,T,N,F,4,,Buckingham Street,,York
+2021-03-09,550000,YO1 9NX,F,Y,L,Ryedale House 60,Apartment 601,Piccadilly,,York
+2021-03-05,215000,YO1 6LR,F,N,L,2,,The Courtyard,,York
+2021-03-03,208000,YO1 6EA,F,N,L,48A,,Hampden Street,,York
+2021-03-01,500000,YO1 9NX,F,Y,L,"Ryedale House, 58 - 60",Apartment 603,Piccadilly,,York
+2021-02-17,275000,YO1 9TB,F,N,L,1,,Malt Shovel Court,,York
+2021-02-12,615000,YO1 9SH,T,N,F,2,,Friars Terrace,,York
+2021-02-12,395000,YO1 6DZ,T,N,F,42,,Bishophill Senior,,York
+2021-02-03,165000,YO1 9AE,F,N,L,Cocoa Suites,3,Navigation Road,,York
+2021-01-29,265000,YO1 9NX,F,Y,L,"Ryedale House, 60",Apartment 202,Piccadilly,,York
+2021-01-25,372500,YO1 9XA,F,N,L,69,,Rowntree Wharf,,York
+2021-01-21,525000,YO1 7NB,F,N,L,2,,Pond Garth,,York
+2021-01-14,105000,YO1 9QE,F,N,L,Covent House,16,George Street,,York

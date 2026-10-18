@@ -1,0 +1,424 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-25,270000,B18 5SL,S,N,F,3,,Anchor Crescent,Hockley,Birmingham
+2026-08-07,142500,B18 6HU,F,N,L,"Heritage Court, 15",Flat 75,Warstone Lane,,Birmingham
+2026-07-22,195000,B18 6BP,F,N,L,"Point Four, 72",Flat 7,Branston Street,Hockley,Birmingham
+2026-07-17,90000,B18 5HH,F,N,L,17,,Musgrave Road,,Birmingham
+2026-07-10,165000,B18 4PL,T,N,F,53,,Preston Road,Hockley,Birmingham
+2026-07-10,155000,B18 4NH,T,N,F,35,,Eva Road,,Birmingham
+2026-07-08,155000,B18 6HU,F,N,L,"Heritage Court, 15",Flat 79,Warstone Lane,,Birmingham
+2026-07-03,232000,B18 7PG,T,N,F,19,,Myddleton Street,,Birmingham
+2026-06-30,127500,B18 4DL,T,N,F,19,,West Heath Road,Winson Green,Birmingham
+2026-06-30,168000,B18 4DF,T,N,F,272,,Heath Street,,Birmingham
+2026-06-26,242000,B18 7PD,T,N,F,22,,College Street,,Birmingham
+2026-06-01,182000,B18 6BP,F,N,L,70,Flat 5,Branston Street,Hockley,Birmingham
+2026-05-28,222000,B18 7LF,T,N,F,28,,Ellen Street,,Birmingham
+2026-05-19,250000,B18 7PB,T,N,F,28,,Rosebery Street,,Birmingham
+2026-05-15,241000,B18 7LE,T,N,F,60,,Ellen Street,,Birmingham
+2026-05-06,290000,B18 6EU,F,N,L,"New Hampton Lofts, 90",Apartment 64,Great Hampton Street,,Birmingham
+2026-04-10,150000,B18 4DL,T,N,F,11,,West Heath Road,Winson Green,Birmingham
+2026-04-07,165000,B18 4DJ,T,N,F,9,,Wood Green Road,,Birmingham
+2026-04-01,205000,B18 7PS,T,N,F,8,,Herne Close,,Birmingham
+2026-03-31,250000,B18 7AU,T,N,F,50,,Springfield Street,,Birmingham
+2026-03-31,210000,B18 5QG,T,N,F,6,,All Saints Road,Hockley,Birmingham
+2026-03-31,170000,B18 5NH,T,N,F,31,,Richmond Road,Hockley,Birmingham
+2026-03-30,210000,B18 6PX,F,N,L,"Metalworks Apartments, 93",8,Warstone Lane,,Birmingham
+2026-03-27,178000,B18 6JP,F,N,L,Carpathian Court,Apartment 14,Chamberlain Court,Hockley,Birmingham
+2026-03-25,150000,B18 7RT,T,N,F,17,,Harmer Street,,Birmingham
+2026-03-25,245000,B18 5QG,S,N,F,40,,All Saints Road,Hockley,Birmingham
+2026-03-06,240000,B18 5QQ,T,N,F,28,,Hurdlow Avenue,,Birmingham
+2026-02-18,139000,B18 4NF,T,N,F,148,,James Turner Street,,Birmingham
+2026-02-13,158000,B18 4BH,T,N,F,48,,Bryant Street,,Birmingham
+2026-02-06,123000,B18 5SP,F,N,L,"Seattle House, 10",Flat 6,The Moorings,,Birmingham
+2026-01-30,160000,B18 7EE,T,N,F,22,,Lansdowne Street,,Birmingham
+2026-01-19,120000,B18 6HU,F,N,L,"Heritage Court, 15",Flat 94,Warstone Lane,,Birmingham
+2026-01-19,200000,B18 6EA,F,N,L,Block 4,Apartment 402,Mint Drive,Hockley,Birmingham
+2026-01-09,170000,B18 6DZ,F,N,L,"Lion Court, 100",Flat 6,Warstone Lane,,Birmingham
+2025-12-18,145000,B18 4NF,T,N,F,165,,James Turner Street,,Birmingham
+2025-12-12,140000,B18 4NH,T,N,F,43,,Eva Road,,Birmingham
+2025-12-09,185000,B18 5JT,T,N,F,11,,St Michaels Hill,,Birmingham
+2025-11-28,215500,B18 7NZ,T,N,F,266,,Camden Street,Hockley,Birmingham
+2025-11-28,213500,B18 6BP,F,N,L,70,Flat 6,Branston Street,Hockley,Birmingham
+2025-11-27,210000,B18 5HJ,T,N,F,27,,Merryhill Drive,,Birmingham
+2025-11-21,245000,B18 5QS,T,N,F,9,,Abbey Street,Winson Green,Birmingham
+2025-11-19,147000,B18 6JT,F,N,L,"Old Silver Works, 54A",Flat 17,Spencer Street,,Birmingham
+2025-11-17,165000,B18 4PW,T,N,F,18,,Markby Road,,Birmingham
+2025-11-12,140000,B18 5DQ,T,N,L,30,,Spring Grove Gardens,,Birmingham
+2025-10-31,140000,B18 4RG,T,N,F,44,,Kirby Road,Winson Green,Birmingham
+2025-10-28,225000,B18 6BF,F,N,L,"New Hampton Lofts, 91",Apartment 23,Branston Street,Hockley,Birmingham
+2025-10-28,180000,B18 5QX,T,N,F,304,,Lodge Road,Hockley,Birmingham
+2025-10-21,102000,B18 4PR,T,N,F,93,,Markby Road,,Birmingham
+2025-10-17,155000,B18 6BN,F,N,L,10,Apartment 79,Hall Street,,Birmingham
+2025-10-17,155000,B18 4NQ,T,N,F,60,,Eva Road,,Birmingham
+2025-10-16,157000,B18 5LD,S,N,F,128,,South Road,Hockley,Birmingham
+2025-10-10,170000,B18 4PH,T,N,F,175,,Handsworth New Road,,Birmingham
+2025-10-08,120000,B18 4NF,T,N,F,156,,James Turner Street,,Birmingham
+2025-09-30,192000,B18 5QQ,T,N,F,11,,Hurdlow Avenue,,Birmingham
+2025-09-12,285000,B18 6EU,F,N,L,"New Hampton Lofts, 90",Apartment 19,Great Hampton Street,,Birmingham
+2025-09-12,160000,B18 4PJ,T,N,F,4,,Preston Road,Hockley,Birmingham
+2025-08-11,168000,B18 6HU,F,N,L,"Heritage Court, 15",Flat 95,Warstone Lane,,Birmingham
+2025-08-04,215000,B18 5NY,F,N,L,17,Flat 7,Key Hill Drive,,Birmingham
+2025-07-31,187500,B18 5SN,T,N,F,8,,Keepers Close,Hockley,Birmingham
+2025-07-29,135000,B18 4PW,T,N,F,40,,Markby Road,,Birmingham
+2025-07-25,220000,B18 6HU,F,N,L,"Heritage Court, 15",Flat 82,Warstone Lane,,Birmingham
+2025-07-18,142000,B18 6EU,F,N,L,"New Hampton Lofts, 90",Apartment 50,Great Hampton Street,,Birmingham
+2025-07-18,215000,B18 6EU,F,N,L,"New Hampton Lofts, 90",Apartment 2,Great Hampton Street,,Birmingham
+2025-07-17,149000,B18 4EP,T,N,F,58,,Bellefield Road,,Birmingham
+2025-06-30,299000,B18 6JT,F,N,L,"Old Silver Works, 54A",Flat 4,Spencer Street,,Birmingham
+2025-06-20,115000,B18 5RY,F,N,L,"Burlington House, 16",Apartment 1,Waterside Drive,Hockley,Birmingham
+2025-06-11,205000,B18 6JP,F,N,L,Carpathian Court,Apartment 15,Chamberlain Court,Hockley,Birmingham
+2025-06-04,215000,B18 6PX,F,N,L,"Metalworks Apartments, 93",22,Warstone Lane,,Birmingham
+2025-06-04,70000,B18 4NH,T,N,F,37,,Eva Road,,Birmingham
+2025-05-23,77000,B18 6EU,F,N,L,"New Hampton Lofts, 90",Apartment 42A,Great Hampton Street,,Birmingham
+2025-05-23,215000,B18 5SQ,T,N,F,19,,Quayside,Hockley,Birmingham
+2025-05-23,110000,B18 4HN,T,N,F,242,,Dudley Road,,Birmingham
+2025-05-19,140000,B18 6FE,F,Y,L,"Coinpress Residence, 109",Apartment 1,Warstone Lane,,Birmingham
+2025-05-16,326000,B18 6EU,F,N,L,"New Hampton Lofts, 90",Apartment 7,Great Hampton Street,,Birmingham
+2025-05-16,160000,B18 4DG,T,N,F,30,,Tudor Street,,Birmingham
+2025-05-06,135000,B18 5LE,T,N,F,180,,South Road,Hockley,Birmingham
+2025-04-30,223000,B18 7DT,S,N,F,6,,Peel Street,,Birmingham
+2025-04-30,140000,B18 5RY,F,N,L,"Houston House, 26",Flat 3,Waterside Drive,Hockley,Birmingham
+2025-04-29,215000,B18 5RH,T,N,F,26,,Norton Street,,Birmingham
+2025-04-28,160000,B18 6HP,F,N,L,"Heritage Court, 15",Flat 43,Warstone Lane,,Birmingham
+2025-04-22,122000,B18 4PL,T,N,F,39,,Preston Road,Hockley,Birmingham
+2025-04-04,215000,B18 4PT,T,N,F,20,,Handsworth New Road,,Birmingham
+2025-04-03,95000,B18 6BA,F,N,F,"Findings Courtyard, 119 - 123",Flat 3,Branston Street,,Birmingham
+2025-04-01,270000,B18 6AQ,F,N,L,1A,Apartment 1,Great Hampton Street,,Birmingham
+2025-03-28,198500,B18 7PG,T,N,F,11,,Myddleton Street,,Birmingham
+2025-03-21,190000,B18 7LZ,T,N,F,125,,New Spring Street,,Birmingham
+2025-03-21,130000,B18 4NB,T,N,F,20,,Perrott Street,,Birmingham
+2025-03-20,104956,B18 6BA,F,N,F,"Findings Courtyard, 119 - 123",Flat 5,Branston Street,,Birmingham
+2025-03-18,180000,B18 5NY,F,N,L,17,Flat 6,Key Hill Drive,,Birmingham
+2025-03-14,170500,B18 4QA,T,N,F,165,,Willes Road,,Birmingham
+2025-02-28,165000,B18 6BP,F,N,L,68,Flat 1,Branston Street,Hockley,Birmingham
+2025-02-28,197000,B18 4DA,S,N,F,153,,Heath Street,,Birmingham
+2025-02-26,204000,B18 5JD,T,N,F,255,,Park Road,Hockley,Birmingham
+2025-02-19,139000,B18 7JU,S,N,F,6,,Portland Terrace,,Birmingham
+2025-02-17,237000,B18 7BJ,T,N,F,121,,Spring Hill,Hockley,Birmingham
+2025-02-07,84000,B18 6BP,F,N,L,74,Flat 2,Branston Street,Hockley,Birmingham
+2025-01-31,176000,B18 4EP,T,N,F,56,,Bellefield Road,,Birmingham
+2025-01-24,220000,B18 6BG,F,N,L,"New Hampton Lofts, 99",Apartment 85,Branston Street,,Birmingham
+2025-01-24,200000,B18 5QQ,T,N,F,56,,Hurdlow Avenue,,Birmingham
+2025-01-24,137500,B18 4ND,T,N,F,93,,James Turner Street,,Birmingham
+2025-01-10,145000,B18 5DN,T,N,F,23,,Devonshire Avenue,,Birmingham
+2025-01-10,145000,B18 4PW,T,N,F,44,,Markby Road,,Birmingham
+2025-01-10,150000,B18 4EU,T,N,F,3,,Ashover Grove,,Birmingham
+2024-12-20,216000,B18 6EU,F,N,L,"New Hampton Lofts, 90",Apartment 1,Great Hampton Street,,Birmingham
+2024-12-18,185000,B18 7JN,T,N,F,6,,Bredon Terrace,,Birmingham
+2024-12-18,212000,B18 5QJ,T,N,F,6,,Goode Avenue,,Birmingham
+2024-12-18,160000,B18 4PZ,T,N,F,61,,Willes Road,,Birmingham
+2024-12-13,212000,B18 7JG,T,N,F,34,,Brookfield Road,Hockley,Birmingham
+2024-12-13,223000,B18 6PG,F,N,L,"Metalworks Apartments, 91",67,Warstone Lane,,Birmingham
+2024-12-12,165000,B18 6JP,F,N,L,Carpathian Court,Apartment 19,Chamberlain Court,Hockley,Birmingham
+2024-12-12,250000,B18 5SQ,D,N,F,12,,Quayside,Hockley,Birmingham
+2024-12-06,182500,B18 6JP,F,N,L,Carpathian Court,Apartment 12,Chamberlain Court,Hockley,Birmingham
+2024-12-05,228000,B18 6PG,F,N,L,"Metalworks Apartments, 91",64,Warstone Lane,,Birmingham
+2024-12-05,395000,B18 6JT,F,N,L,"Old Silver Works, 54A",Flat 14,Spencer Street,,Birmingham
+2024-12-02,245000,B18 5RY,T,N,F,36,,Waterside Drive,Hockley,Birmingham
+2024-11-27,275000,B18 4HD,T,N,F,383,,Dudley Road,,Birmingham
+2024-11-26,75000,B18 7LQ,F,N,L,4,,Boar Hound Close,,Birmingham
+2024-11-21,112000,B18 4PL,T,N,F,67,,Preston Road,Hockley,Birmingham
+2024-11-19,205000,B18 7HH,T,N,F,16,,Clissold Street,,Birmingham
+2024-11-14,260000,B18 5SQ,S,N,F,4,,Quayside,Hockley,Birmingham
+2024-11-13,190000,B18 5SJ,T,N,F,251,,Lodge Road,Hockley,Birmingham
+2024-11-06,230000,B18 6JT,F,N,L,"Old Silver Works, 54A",Flat 3,Spencer Street,,Birmingham
+2024-11-01,140000,B18 5HJ,T,N,F,14,,Merryhill Drive,,Birmingham
+2024-10-28,46400,B18 4ND,T,N,F,117,,James Turner Street,,Birmingham
+2024-10-25,170000,B18 5LD,S,N,F,62,,South Road,Hockley,Birmingham
+2024-10-18,149000,B18 4LZ,T,N,F,45,,Perrott Street,,Birmingham
+2024-10-17,180000,B18 4DA,S,N,F,163,,Heath Street,,Birmingham
+2024-10-14,215000,B18 6FE,F,Y,L,"Coinpress Residence, 109",Apartment 8,Warstone Lane,,Birmingham
+2024-10-14,325000,B18 4DG,D,N,F,11,,Tudor Street,,Birmingham
+2024-10-07,160000,B18 4BJ,T,N,F,23,,Clinton Street,,Birmingham
+2024-09-27,290000,B18 5SQ,S,N,F,31,,Quayside,Hockley,Birmingham
+2024-09-23,74340,B18 4ER,T,N,F,6,,Summerfield Grove,,Birmingham
+2024-09-20,180000,B18 7HR,T,N,F,21,,Crabtree Road,,Birmingham
+2024-09-20,184000,B18 6HU,F,N,L,"Heritage Court, 15",Flat 97,Warstone Lane,,Birmingham
+2024-09-20,195000,B18 5NY,F,N,L,17,Flat 1,Key Hill Drive,,Birmingham
+2024-08-30,120000,B18 5SP,F,N,L,"Seattle House, 10",Flat 6,The Moorings,,Birmingham
+2024-08-23,218000,B18 5SQ,T,N,F,15,,Quayside,Hockley,Birmingham
+2024-08-19,205000,B18 4DA,T,N,F,167,,Heath Street,,Birmingham
+2024-08-15,250000,B18 4EL,S,N,F,51,,Bellefield Road,,Birmingham
+2024-08-09,178000,B18 6BN,F,N,L,10,Apartment 70,Hall Street,,Birmingham
+2024-08-07,220000,B18 6HU,F,N,L,"Heritage Court, 15",Flat 84,Warstone Lane,,Birmingham
+2024-08-02,185000,B18 6PG,F,N,L,"Metalworks Apartments, 91",46,Warstone Lane,,Birmingham
+2024-07-31,176000,B18 5RT,S,N,F,1E,,Kent Street North,,Birmingham
+2024-07-31,176500,B18 4JP,S,N,F,8,,Shireland Brook Gardens,,Birmingham
+2024-07-30,200000,B18 7HR,T,N,F,25,,Crabtree Road,,Birmingham
+2024-07-22,127500,B18 4NH,T,N,F,25,,Eva Road,,Birmingham
+2024-07-19,113500,B18 5RB,T,N,L,74B,,Norton Street,,Birmingham
+2024-07-19,150000,B18 5DN,T,N,L,22,,Devonshire Avenue,,Birmingham
+2024-07-15,130000,B18 4LZ,T,N,F,15,,Perrott Street,,Birmingham
+2024-07-11,190000,B18 7LE,T,N,F,61,,Ellen Street,,Birmingham
+2024-07-10,201000,B18 7DL,S,N,F,107,,Aberdeen Street,,Birmingham
+2024-07-05,196000,B18 6DX,F,N,L,"Spencer Point, 2",Apartment 12,Northampton Street,,Birmingham
+2024-07-01,141000,B18 4NG,T,N,F,112,,Eva Road,,Birmingham
+2024-06-28,184000,B18 7HS,T,N,F,71,,Crabtree Road,,Birmingham
+2024-06-26,190000,B18 7JA,T,N,F,81,,Brookfield Road,Hockley,Birmingham
+2024-06-26,190000,B18 6AQ,F,N,L,3A,Apartment 5,Great Hampton Street,,Birmingham
+2024-06-24,230000,B18 6PG,F,N,L,"Metalworks Apartments, 91",50,Warstone Lane,,Birmingham
+2024-06-19,125000,B18 5NH,S,N,F,41,,Richmond Road,Hockley,Birmingham
+2024-06-07,152000,B18 4QH,T,N,F,44,,Handsworth New Road,,Birmingham
+2024-06-04,186000,B18 4DY,S,N,F,56,,Tudor Street,,Birmingham
+2024-05-31,275000,B18 5SN,T,N,F,4,,Keepers Close,Hockley,Birmingham
+2024-05-13,205000,B18 6AQ,F,N,L,3A,Apartment 6,Great Hampton Street,,Birmingham
+2024-05-01,180000,B18 7JA,T,N,F,65,,Brookfield Terrace,Hockley,Birmingham
+2024-04-22,110000,B18 6NZ,F,N,L,"Buttonbox, 116",Apartment 15,Warstone Lane,,Birmingham
+2024-04-16,100000,B18 4ND,T,N,F,123,,James Turner Street,,Birmingham
+2024-04-12,695000,B18 6NY,T,N,F,18,,Pemberton Street,,Birmingham
+2024-04-12,247000,B18 6HP,F,N,L,"Heritage Court, 15",Flat 6,Warstone Lane,,Birmingham
+2024-04-12,110000,B18 5SN,F,N,L,"Florida House, 16",Flat 1,Keepers Close,Hockley,Birmingham
+2024-04-12,108000,B18 5SN,F,N,L,"Florida House, 16",Flat 2,Keepers Close,Hockley,Birmingham
+2024-04-09,100000,B18 4PW,T,N,F,56,,Markby Road,,Birmingham
+2024-03-18,100000,B18 4NF,T,N,F,151,,James Turner Street,,Birmingham
+2024-03-15,180000,B18 7LE,T,N,F,71,,Ellen Street,,Birmingham
+2024-03-07,131000,B18 4QD,T,N,F,20,,Beeton Road,,Birmingham
+2024-02-29,150000,B18 4PN,T,N,F,148,,Markby Road,,Birmingham
+2024-02-23,89000,B18 7HE,F,N,L,1,,Bond Square,,Birmingham
+2024-02-22,138000,B18 5HJ,T,N,F,11,,Merryhill Drive,,Birmingham
+2024-02-16,100000,B18 4NQ,T,N,F,100,,Eva Road,,Birmingham
+2024-02-09,180000,B18 5PL,T,N,F,48,,Ford Street,,Birmingham
+2024-02-02,230000,B18 5JP,T,N,F,215,,South Road,Hockley,Birmingham
+2024-01-30,300000,B18 6HU,F,N,L,"Heritage Court, 15",Flat 111,Warstone Lane,,Birmingham
+2024-01-24,145000,B18 4QP,T,N,F,107,,Bacchus Road,,Birmingham
+2024-01-15,230000,B18 5LE,S,N,F,154,,South Road,Hockley,Birmingham
+2024-01-11,132000,B18 7JA,T,N,F,67,,Brookfield Road,Hockley,Birmingham
+2024-01-10,140000,B18 4QT,T,N,F,10,,Allens Avenue,,Birmingham
+2023-12-22,100000,B18 4QD,T,N,F,27,,Beeton Road,,Birmingham
+2023-12-18,80000,B18 7DX,F,N,L,67,,Peel Street,,Birmingham
+2023-12-15,280000,B18 6EA,F,N,L,Block 4,Apartment 401,Mint Drive,Hockley,Birmingham
+2023-12-15,125000,B18 4QU,T,N,F,2,,The Triangle,,Birmingham
+2023-12-13,161000,B18 6HP,F,N,L,"Heritage Court, 15",Flat 9,Warstone Lane,,Birmingham
+2023-12-08,61000,B18 5DG,F,N,L,48,,Talbot Street,Winson Green,Birmingham
+2023-12-08,148000,B18 4PJ,T,N,F,80,,Preston Road,Hockley,Birmingham
+2023-11-30,175000,B18 7LE,T,N,F,73,,Ellen Street,,Birmingham
+2023-11-23,118000,B18 4NG,T,N,F,61,,Eva Road,,Birmingham
+2023-11-20,185000,B18 6BN,F,N,L,10,Apartment 65,Hall Street,,Birmingham
+2023-11-10,113600,B18 5RW,F,N,L,"Roosevelt House, 8",Flat 3,Navigation Way,Hockley,Birmingham
+2023-11-10,48000,B18 5ND,F,N,L,27,,Park Avenue,Hockley,Birmingham
+2023-11-08,216500,B18 6PG,F,N,L,"Metalworks Apartments, 91",71,Warstone Lane,,Birmingham
+2023-11-07,130000,B18 5DN,T,N,F,3,,Devonshire Avenue,,Birmingham
+2023-11-06,168000,B18 4DW,T,N,F,34,,Chiswell Road,,Birmingham
+2023-10-31,220000,B18 6PG,F,N,L,"Metalworks Apartments, 91",69,Warstone Lane,,Birmingham
+2023-10-11,100000,B18 4LZ,T,N,F,65,,Perrott Street,,Birmingham
+2023-09-29,217000,B18 6BY,F,N,L,10,Apartment 159,Hall Street,,Birmingham
+2023-09-25,147500,B18 6JP,F,N,L,Carpathian Court,Apartment 16,Chamberlain Court,Hockley,Birmingham
+2023-09-11,240000,B18 6AQ,F,N,L,3A,Apartment 3,Great Hampton Street,,Birmingham
+2023-09-08,149000,B18 4PZ,T,N,F,75,,Willes Road,,Birmingham
+2023-09-08,139000,B18 4NB,T,N,F,46,,Perrott Street,,Birmingham
+2023-09-05,210000,B18 6PD,F,N,L,"Metalworks Apartments, 90",Apartment 77,Warstone Lane,,Birmingham
+2023-08-23,155000,B18 6BT,F,N,L,"Platinum, 87",Apartment 107,Branston Street,Hockley,Birmingham
+2023-08-09,115000,B18 5RW,F,N,L,"Roosevelt House, 8",Flat 1,Navigation Way,Hockley,Birmingham
+2023-08-09,125000,B18 5PW,S,N,F,395,,Lodge Road,Hockley,Birmingham
+2023-08-04,220000,B18 5EB,S,N,F,30,,Benson Road,Hockley,Birmingham
+2023-08-02,90000,B18 5PW,T,N,F,394,,Lodge Road,Hockley,Birmingham
+2023-07-28,535000,B18 6NR,T,N,F,5,,Warstone Parade East,,Birmingham
+2023-07-27,205000,B18 5QQ,T,N,F,48,,Hurdlow Avenue,,Birmingham
+2023-07-24,120000,B18 5ND,F,N,L,"Harris Court, 15",Flat 3,Park Avenue,Hockley,Birmingham
+2023-07-21,195000,B18 7JU,T,N,F,3,,Portland Terrace,,Birmingham
+2023-07-21,155000,B18 6EU,F,N,L,"New Hampton Lofts, 90",Apartment 43,Great Hampton Street,,Birmingham
+2023-07-21,160000,B18 5DJ,S,N,F,2,,Foster Gardens,,Birmingham
+2023-06-30,70000,B18 4QA,T,N,F,115,,Willes Road,,Birmingham
+2023-06-28,140000,B18 7JQ,T,N,F,7,,Bernard Place,,Birmingham
+2023-06-23,135000,B18 5RY,F,N,L,"Washington House, 1",Apartment 2,Waterside Drive,Hockley,Birmingham
+2023-06-23,145000,B18 5DQ,T,N,F,17,,Spring Grove Gardens,,Birmingham
+2023-06-09,180000,B18 7JA,T,N,F,105,,Gertrude Place,Hockley,Birmingham
+2023-05-30,335000,B18 6HU,F,N,L,"Heritage Court, 15",Flat 104,Warstone Lane,,Birmingham
+2023-05-17,158500,B18 4QD,T,N,F,5,,Beeton Road,,Birmingham
+2023-05-16,160000,B18 4LZ,S,N,F,75,,Perrott Street,,Birmingham
+2023-05-11,191000,B18 7LE,T,N,F,61,,Ellen Street,,Birmingham
+2023-05-10,180000,B18 6HP,F,N,L,"Heritage Court, 15",Flat 33,Warstone Lane,,Birmingham
+2023-04-28,145500,B18 4NQ,T,N,F,32,,Eva Road,,Birmingham
+2023-04-26,150000,B18 7DL,T,N,F,103,,Aberdeen Street,,Birmingham
+2023-04-26,110000,B18 4PL,T,N,F,43,,Preston Road,Hockley,Birmingham
+2023-04-21,216500,B18 6PW,F,N,L,"Metalworks Apartments, 92",93,Warstone Lane,,Birmingham
+2023-04-17,175000,B18 7PS,T,N,F,33,,Herne Close,,Birmingham
+2023-04-06,372000,B18 6AQ,F,N,L,4,Apartment 1,Great Hampton Street,,Birmingham
+2023-04-04,321105,B18 4AH,S,N,F,71,,Cuthbert Road,,Birmingham
+2023-04-03,193000,B18 5QH,T,N,F,23,,Goode Avenue,,Birmingham
+2023-03-24,128000,B18 4QT,T,N,L,1,,Allens Avenue,,Birmingham
+2023-03-13,172000,B18 4PJ,T,N,F,48,,Preston Road,Hockley,Birmingham
+2023-03-10,155000,B18 5HA,T,N,F,26,,Augustine Grove,,Birmingham
+2023-03-08,80000,B18 4QS,T,N,F,72,,Allens Road,,Birmingham
+2023-02-24,245000,B18 6HU,F,N,L,"Heritage Court, 15",Flat 98,Warstone Lane,,Birmingham
+2023-02-22,165000,B18 5DJ,S,N,F,9,,Foster Gardens,,Birmingham
+2023-02-22,165000,B18 5DJ,S,N,L,9,,Foster Gardens,,Birmingham
+2023-02-17,150000,B18 5JZ,T,N,F,2,,North Western Terrace,,Birmingham
+2023-02-09,131000,B18 5RY,F,N,L,"Houston House, 26",Flat 4,Waterside Drive,Hockley,Birmingham
+2023-02-08,226000,B18 6PX,F,N,L,"Metalworks Apartments, 93",11,Warstone Lane,,Birmingham
+2023-02-02,225000,B18 7NZ,T,N,F,278,,Camden Street,Hockley,Birmingham
+2023-01-23,150000,B18 4JP,S,N,F,2,,Shireland Brook Gardens,,Birmingham
+2023-01-23,225000,B18 4HN,T,N,F,238,,Dudley Road,,Birmingham
+2023-01-19,145000,B18 5BP,T,N,F,37,,Whitmore Street,,Birmingham
+2023-01-13,202500,B18 6JP,F,N,L,Carpathian Court,Apartment 8,Chamberlain Court,Hockley,Birmingham
+2023-01-06,175000,B18 5HJ,T,N,F,12,,Merryhill Drive,,Birmingham
+2022-12-21,45000,B18 4RA,T,N,L,18,,Bacchus Road,,Birmingham
+2022-12-16,167500,B18 4NB,T,N,F,78,,Perrott Street,,Birmingham
+2022-12-16,136000,B18 4NB,T,N,F,32,,Perrott Street,,Birmingham
+2022-12-13,168000,B18 6NZ,F,N,L,"The Minories, 157A",Flat 2,Warstone Lane,,Birmingham
+2022-12-13,98000,B18 4RB,F,N,F,196,,Bacchus Road,,Birmingham
+2022-12-12,400000,B18 6AQ,F,N,L,1A,Apartment 2,Great Hampton Street,,Birmingham
+2022-12-09,122000,B18 4NB,T,N,F,6,,Perrott Street,,Birmingham
+2022-12-02,295000,B18 6ES,F,N,L,115,Apartment 10,Great Hampton Street,,Birmingham
+2022-11-30,130000,B18 5RY,F,N,L,"Houston House, 26",Flat 5,Waterside Drive,Hockley,Birmingham
+2022-11-25,250000,B18 6PG,F,N,L,"Metalworks Apartments, 91",53,Warstone Lane,,Birmingham
+2022-11-18,159000,B18 7JJ,T,N,F,9,,Lansdown Place,,Birmingham
+2022-11-08,215000,B18 5BP,T,N,F,62,,Whitmore Street,,Birmingham
+2022-11-04,210000,B18 7AU,T,N,F,7,,Springfield Street,,Birmingham
+2022-11-01,305000,B18 5LE,T,N,F,170,,South Road,Hockley,Birmingham
+2022-10-28,215000,B18 7HH,T,N,F,12,,Clissold Street,,Birmingham
+2022-10-27,100000,B18 4RG,T,N,F,25,,Kirby Road,Winson Green,Birmingham
+2022-10-27,71000,B18 4RE,T,N,F,219,,Bacchus Road,,Birmingham
+2022-10-21,140000,B18 4QA,T,N,F,131,,Willes Road,,Birmingham
+2022-10-21,123000,B18 4NB,T,N,F,40,,Perrott Street,,Birmingham
+2022-10-19,350000,B18 6BF,F,N,L,"New Hampton Lofts, 91",Apartment 25,Branston Street,Hockley,Birmingham
+2022-10-14,227500,B18 6PX,F,N,L,"Metalworks Apartments, 93",8,Warstone Lane,,Birmingham
+2022-10-13,120000,B18 4EP,S,N,F,8,,Enderby Grove,,Birmingham
+2022-10-07,135000,B18 4HB,S,N,F,319,,Dudley Road,,Birmingham
+2022-10-03,91640,B18 6PR,T,N,F,50,,Knightstone Avenue,,Birmingham
+2022-10-03,180000,B18 6BP,F,N,L,"Point Four, 72",Flat 8,Branston Street,Hockley,Birmingham
+2022-10-03,205000,B18 5BP,T,N,F,44,,Whitmore Street,,Birmingham
+2022-09-30,210000,B18 6PX,F,N,L,"Metalworks Apartments, 93",42,Warstone Lane,,Birmingham
+2022-09-30,146000,B18 5SE,T,N,F,225,,Lodge Road,Hockley,Birmingham
+2022-09-30,116000,B18 4PZ,T,N,F,33,,Willes Road,,Birmingham
+2022-09-23,165000,B18 7JA,T,N,F,21,,Highfield Terrace,Hockley,Birmingham
+2022-09-20,260000,B18 5RW,S,N,F,18,,Navigation Way,Hockley,Birmingham
+2022-09-20,200000,B18 5JP,T,N,F,219,,South Road,Hockley,Birmingham
+2022-09-16,305000,B18 6AQ,F,N,L,1A,Apartment 3,Great Hampton Street,,Birmingham
+2022-09-09,150000,B18 5NA,T,N,F,59,,South Road,Hockley,Birmingham
+2022-09-09,218000,B18 4QQ,T,N,F,88,,Handsworth New Road,,Birmingham
+2022-09-09,120000,B18 4DJ,T,N,F,16,,Wood Green Road,,Birmingham
+2022-09-08,220000,B18 6PX,F,N,L,"Metalworks Apartments, 93",31,Warstone Lane,,Birmingham
+2022-09-02,540000,B18 6AQ,F,N,L,6,Apartment 1,Great Hampton Street,,Birmingham
+2022-08-26,185000,B18 6BP,F,N,L,"Point Four, 72",Flat 4,Branston Street,Hockley,Birmingham
+2022-08-26,74000,B18 5QS,T,N,L,54,,Abbey Street,Winson Green,Birmingham
+2022-08-23,63500,B18 7LQ,F,N,L,4,,Boar Hound Close,,Birmingham
+2022-08-22,132000,B18 4BN,T,N,F,31,,Blackford Street,,Birmingham
+2022-08-19,212000,B18 6PX,F,N,L,"Metalworks Apartments, 93",26,Warstone Lane,,Birmingham
+2022-08-16,141000,B18 4QD,T,N,F,29,,Beeton Road,,Birmingham
+2022-08-12,105000,B18 4EL,F,N,F,39,,Bellefield Road,,Birmingham
+2022-08-10,650000,B18 6NR,F,N,F,22,,Warstone Parade East,,Birmingham
+2022-08-10,95000,B18 4LZ,S,N,F,75,,Perrott Street,,Birmingham
+2022-08-08,130000,B18 4QQ,T,N,F,92,,Handsworth New Road,,Birmingham
+2022-08-02,55000,B18 4PJ,T,N,F,50,,Preston Road,Hockley,Birmingham
+2022-07-29,190000,B18 6PX,F,N,L,"Metalworks Apartments, 93",37,Warstone Lane,,Birmingham
+2022-07-29,375000,B18 6NR,F,N,L,St Michaels Court,6E,Warstone Parade East,,Birmingham
+2022-07-20,250000,B18 6PG,F,N,L,"Metalworks Apartments, 91",62,Warstone Lane,,Birmingham
+2022-07-20,340000,B18 6EU,F,N,L,"New Hampton Lofts, 90",Apartment 60,Great Hampton Street,,Birmingham
+2022-07-18,257000,B18 6PW,F,N,L,"Metalworks Apartments, 92",103,Warstone Lane,,Birmingham
+2022-07-12,60500,B18 4DJ,T,N,F,43,,Wood Green Road,,Birmingham
+2022-07-08,185000,B18 7LH,T,N,F,14,,Woodcote Way,,Birmingham
+2022-07-01,170000,B18 4AH,S,N,F,69,,Cuthbert Road,,Birmingham
+2022-06-30,224000,B18 7AU,T,N,F,17,,Springfield Street,,Birmingham
+2022-06-28,134950,B18 4PZ,T,N,F,35,,Willes Road,,Birmingham
+2022-06-27,145000,B18 7PB,T,N,F,35,,Rosebery Street,,Birmingham
+2022-06-16,132500,B18 7DX,T,N,F,95,,Peel Street,,Birmingham
+2022-05-30,180000,B18 4JT,S,N,F,85,,Winson Street,,Birmingham
+2022-05-27,245000,B18 5SL,T,N,F,11,,Anchor Crescent,Hockley,Birmingham
+2022-05-20,120000,B18 4QR,T,N,L,132,,Bacchus Road,,Birmingham
+2022-05-13,230000,B18 6JT,F,N,L,"Old Silver Works, 54A",Flat 16,Spencer Street,,Birmingham
+2022-05-11,185000,B18 7LZ,T,N,F,116,,New Spring Street,,Birmingham
+2022-05-09,115000,B18 6BF,F,N,L,"New Hampton Lofts, 91",Apartment 17,Branston Street,Hockley,Birmingham
+2022-05-09,125000,B18 4RB,T,N,F,193,,Bacchus Road,,Birmingham
+2022-05-06,142500,B18 7EW,S,N,F,73A,,Carlisle Street,,Birmingham
+2022-05-03,320000,B18 6HR,S,N,F,50,,Vyse Street,Hockley,Birmingham
+2022-04-25,180000,B18 6JP,F,N,L,Carpathian Court,Apartment 22,Chamberlain Court,Hockley,Birmingham
+2022-04-22,169000,B18 6JT,F,N,L,"Old Silver Works, 54A",Flat 11,Spencer Street,,Birmingham
+2022-04-21,172000,B18 7JA,T,N,F,81,,Brookfield Road,Hockley,Birmingham
+2022-04-14,145000,B18 4PN,T,N,F,144,,Markby Road,,Birmingham
+2022-04-12,143000,B18 5DX,T,N,F,41,,Talbot Street,Winson Green,Birmingham
+2022-04-12,170000,B18 4RB,T,N,F,201,,Bacchus Road,,Birmingham
+2022-04-01,120000,B18 5SP,F,N,L,"Seattle House, 10",Flat 5,The Moorings,,Birmingham
+2022-03-31,69000,B18 5DG,F,N,L,54,,Talbot Street,Winson Green,Birmingham
+2022-03-25,135000,B18 7RT,T,N,F,20,,Harmer Street,,Birmingham
+2022-03-18,115000,B18 5JR,T,N,F,10,,South Road Avenue,,Birmingham
+2022-03-14,196500,B18 6BT,F,N,L,"Platinum, 87",Apartment 104,Branston Street,Hockley,Birmingham
+2022-03-14,106500,B18 4DG,T,N,F,16,,Tudor Street,,Birmingham
+2022-03-11,160000,B18 7JL,S,N,F,4,,Louisa Place,,Birmingham
+2022-03-11,147000,B18 7JA,T,N,F,31,,Highfield Terrace,Hockley,Birmingham
+2022-03-10,78000,B18 4JW,F,N,L,117,,Winson Street,,Birmingham
+2022-03-04,141000,B18 4AG,S,N,F,28,,Cuthbert Road,,Birmingham
+2022-02-25,166000,B18 7JQ,T,N,F,2,,Bernard Place,,Birmingham
+2022-02-21,157500,B18 6BF,F,N,L,"New Hampton Lofts, 91",Apartment 10,Branston Street,Hockley,Birmingham
+2022-02-21,140000,B18 4PH,T,N,F,174,,Handsworth New Road,,Birmingham
+2022-02-18,250000,B18 6PG,F,N,L,"Metalworks Apartments, 91",72,Warstone Lane,,Birmingham
+2022-02-17,154000,B18 5TE,T,N,F,434,,Park Road,Hockley,Birmingham
+2022-02-11,116200,B18 5QQ,T,N,F,58,,Hurdlow Avenue,,Birmingham
+2022-02-11,161500,B18 4AQ,T,N,F,70,,Cuthbert Road,,Birmingham
+2022-02-07,185000,B18 6BP,F,N,L,74,Flat 4,Branston Street,Hockley,Birmingham
+2022-02-04,127000,B18 5RW,F,N,L,"Kennedy House, 6",Flat 3,Navigation Way,Hockley,Birmingham
+2022-02-02,240000,B18 5LE,S,N,F,144,,South Road,Hockley,Birmingham
+2022-01-31,170000,B18 7HH,T,N,F,10,,Clissold Street,,Birmingham
+2022-01-21,385000,B18 5BT,D,N,F,5,,Shakespear Crescent,Hockley,Birmingham
+2022-01-10,125000,B18 5SJ,T,N,F,250,,Lodge Road,Hockley,Birmingham
+2021-12-10,200000,B18 6PG,F,N,L,"Metalworks Apartments, 91",56,Warstone Lane,,Birmingham
+2021-12-09,38000,B18 4PL,T,N,F,7,,Preston Road,Hockley,Birmingham
+2021-11-26,137000,B18 4PL,T,N,F,49,,Preston Road,Hockley,Birmingham
+2021-11-22,275000,B18 6HU,F,N,L,"Heritage Court, 15",Flat 102,Warstone Lane,,Birmingham
+2021-11-19,46000,B18 5RT,F,N,L,8,,Kent Street North,,Birmingham
+2021-11-12,141650,B18 5DN,T,N,F,4,,Devonshire Avenue,,Birmingham
+2021-11-10,172000,B18 6EU,F,N,L,"New Hampton Lofts, 90",Apartment 38,Great Hampton Street,,Birmingham
+2021-10-29,119000,B18 5SN,F,N,L,"Florida House, 16",Flat 6,Keepers Close,Hockley,Birmingham
+2021-10-19,120000,B18 5JR,T,N,F,4,,South Road Avenue,,Birmingham
+2021-10-18,138500,B18 4EP,T,N,F,20,,Bellefield Road,,Birmingham
+2021-10-01,103000,B18 4LZ,T,N,F,87,,Perrott Street,,Birmingham
+2021-10-01,128000,B18 4EZ,T,N,F,22,,Heath Green Road,,Birmingham
+2021-09-30,95000,B18 4PL,T,N,F,51,,Preston Road,Hockley,Birmingham
+2021-09-24,123000,B18 7ER,T,N,F,73,,Norman Street,,Birmingham
+2021-09-15,120000,B18 4DT,T,N,F,5,,Victoria Grove,,Birmingham
+2021-09-07,232500,B18 6PX,F,N,L,"Metalworks Apartments, 93",30,Warstone Lane,,Birmingham
+2021-09-03,157000,B18 6BU,F,N,L,"Platinum, 89",Apartment 305,Branston Street,,Birmingham
+2021-08-27,130000,B18 5RY,F,N,L,"Burlington House, 16",Apartment 6,Waterside Drive,Hockley,Birmingham
+2021-08-20,155000,B18 7JA,T,N,F,55,,Brookfield Terrace,Hockley,Birmingham
+2021-08-20,196000,B18 6PX,F,N,L,"Metalworks Apartments, 93",18,Warstone Lane,,Birmingham
+2021-08-18,43000,B18 5DG,F,N,L,44,,Talbot Street,Winson Green,Birmingham
+2021-08-17,126000,B18 4NQ,T,N,F,60,,Eva Road,,Birmingham
+2021-08-13,280000,B18 4DA,S,N,F,209,,Heath Street,,Birmingham
+2021-07-30,167500,B18 5SL,T,N,F,56,,Anchor Crescent,Hockley,Birmingham
+2021-07-30,100000,B18 4QD,T,N,F,31,,Beeton Road,,Birmingham
+2021-07-28,136500,B18 4QT,T,N,F,7,,Allens Avenue,,Birmingham
+2021-07-26,249950,B18 6FE,F,Y,L,"Coinpress Residence, 109",Apartment 3,Warstone Lane,,Birmingham
+2021-07-21,107000,B18 7NY,F,N,L,331,,Camden Street,Hockley,Birmingham
+2021-07-16,130000,B18 4QQ,T,N,F,96,,Handsworth New Road,,Birmingham
+2021-07-09,240000,B18 6HP,F,N,L,"Heritage Court, 15",Flat 26,Warstone Lane,,Birmingham
+2021-07-09,110000,B18 4PZ,T,N,F,47,,Willes Road,,Birmingham
+2021-07-06,110000,B18 4BN,T,N,F,35,,Blackford Street,,Birmingham
+2021-06-25,109000,B18 4DE,T,N,F,27,,Hamberley Court,,Birmingham
+2021-06-18,127995,B18 7ER,T,N,F,72,,Norman Street,,Birmingham
+2021-06-11,350000,B18 6JT,F,N,L,"Old Silver Works, 54A",Flat 12,Spencer Street,,Birmingham
+2021-06-11,60000,B18 5DB,F,N,L,36,,Lees Street,,Birmingham
+2021-05-28,217000,B18 6PX,F,N,L,"Metalworks Apartments, 93",11,Warstone Lane,,Birmingham
+2021-05-28,208000,B18 6JP,F,N,L,Carpathian Court,Apartment 34,Chamberlain Court,Hockley,Birmingham
+2021-05-18,127000,B18 4EN,T,N,F,17,,Bellefield Avenue,,Birmingham
+2021-05-06,105000,B18 4QA,T,N,F,145,,Willes Road,,Birmingham
+2021-04-30,247500,B18 6HP,F,N,L,"Heritage Court, 15",Flat 35,Warstone Lane,,Birmingham
+2021-04-30,125000,B18 5RW,F,N,L,"Roosevelt House, 8",Flat 6,Navigation Way,Hockley,Birmingham
+2021-04-30,269000,B18 5NY,F,N,L,17,Flat 5,Key Hill Drive,,Birmingham
+2021-04-29,102000,B18 5RY,F,N,L,"Boston House, 14",Apartment 7,Waterside Drive,Hockley,Birmingham
+2021-04-23,122000,B18 4RB,T,N,F,195,,Bacchus Road,,Birmingham
+2021-04-22,120000,B18 4LZ,T,N,F,73,,Perrott Street,,Birmingham
+2021-04-21,130000,B18 4QR,T,N,F,122,,Bacchus Road,,Birmingham
+2021-04-20,190000,B18 6BP,F,N,L,70,Flat 5,Branston Street,Hockley,Birmingham
+2021-04-09,387000,B18 6BG,F,N,L,"New Hampton Lofts, 99",Apartment 104,Branston Street,Hockley,Birmingham
+2021-04-08,105000,B18 4HF,F,N,L,Cape Cottages,Apartment 3,Dudley Road,,Birmingham
+2021-03-31,130000,B18 4PR,T,N,F,127,,Markby Road,,Birmingham
+2021-03-29,175000,B18 6BP,F,N,L,70,Flat 7,Branston Street,Hockley,Birmingham
+2021-03-22,315000,B18 6EU,F,N,L,"New Hampton Lofts, 90",Apartment 68,Great Hampton Street,,Birmingham
+2021-03-19,134500,B18 4PP,T,N,F,37,,Markby Road,,Birmingham
+2021-03-12,127500,B18 6JT,F,N,L,"Old Silver Works, 54A",Flat 2,Spencer Street,,Birmingham
+2021-03-12,279950,B18 6HU,F,N,L,"Heritage Court, 15",Flat 105,Warstone Lane,,Birmingham
+2021-03-05,115500,B18 4PY,T,N,F,36,,Willes Road,,Birmingham
+2021-03-03,130000,B18 7JT,T,N,F,2,,Rutland Terrace,,Birmingham
+2021-02-26,140000,B18 4ET,T,N,F,13,,Heath Green Road,,Birmingham
+2021-02-18,420000,B18 6NR,T,N,F,18,,Warstone Parade East,,Birmingham
+2021-02-16,170000,B18 6PD,F,N,L,"Metalworks Apartments, 90",Apartment 80,Warstone Lane,,Birmingham
+2021-02-12,265000,B18 6HU,F,N,L,"Heritage Court, 15",Flat 110,Warstone Lane,,Birmingham
+2021-02-12,130000,B18 4EL,S,N,F,47,,Bellefield Road,,Birmingham
+2021-02-12,150000,B18 4DA,S,N,F,157,,Heath Street,,Birmingham
+2021-02-05,131000,B18 5EB,T,N,F,32,,Benson Road,Hockley,Birmingham
+2021-01-29,200000,B18 6BP,F,N,L,70,Flat 4,Branston Street,Hockley,Birmingham
+2021-01-22,135000,B18 4PN,T,N,F,102,,Markby Road,,Birmingham
+2021-01-15,148000,B18 4DA,S,N,F,153,,Heath Street,,Birmingham
+2021-01-08,152500,B18 7JA,T,N,F,81,,Brookfield Road,Hockley,Birmingham
+2021-01-05,90000,B18 4RG,T,N,F,17,,Kirby Road,Winson Green,Birmingham
+2021-01-05,96000,B18 4RD,T,N,F,203,,Bacchus Road,,Birmingham
+2021-01-04,83000,B18 4QU,T,N,F,8,,The Triangle,,Birmingham

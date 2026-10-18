@@ -58,5 +58,5 @@
   "link": "https://blueprintpropertymarketing.com",
   "link_text": "Blueprint Property Marketing"
  },
- "request_area": "The Blueprint skill doesn't cover {area} yet. Email sam@blueprintpropertymarketing.com with your postcode district, or comment it on Blueprint Property Marketing's latest post, and we'll add it."
+ "request_area": "{area} isn't in the data. Check the postcode, or try a neighbouring district."
 }

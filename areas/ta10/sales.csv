@@ -1,0 +1,874 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-06,340000,TA10 9SH,D,N,F,20,,Meadow Close,,Langport
+2026-08-06,271000,TA10 9PS,S,N,F,Windrush,,Bow Street,,Langport
+2026-08-06,192000,TA10 9PN,F,N,L,12,,Great Bow Yard,,Langport
+2026-07-31,142500,TA10 9RR,F,N,L,12,,Moor Close,,Langport
+2026-07-27,610000,TA10 0QN,D,N,F,Overton House,,,Aller,Langport
+2026-07-22,187500,TA10 9TU,D,N,F,11,,The Beeches,,Langport
+2026-07-10,91000,TA10 0HX,F,N,L,20,,Westfield,Curry Rivel,Langport
+2026-07-09,350000,TA10 9QX,D,N,F,4,,Portland Road,Huish Episcopi,Langport
+2026-07-09,330000,TA10 9QW,D,N,F,8,,Orchard Vale,Huish Episcopi,Langport
+2026-07-09,650000,TA10 9EA,D,N,F,2,,Hawthorne Close,High Ham,Langport
+2026-07-09,304000,TA10 0BS,S,N,F,3,,Alford Court,Hambridge,Langport
+2026-07-09,450000,TA10 0AS,D,N,F,Lark Rise,,Westmoor Lane,Hambridge,Langport
+2026-07-06,330000,TA10 0JF,S,N,F,Rest Harrow,,Wiltown,Curry Rivel,Langport
+2026-06-30,201567,TA10 0AF,F,N,F,15,,Burton Close,Curry Rivel,Langport
+2026-06-11,345000,TA10 9FG,D,N,F,9,,Collins Close,,Langport
+2026-06-11,297000,TA10 9EB,T,N,F,39,,Hamdown Court,,Langport
+2026-06-11,380000,TA10 0EL,D,N,F,35,,Abbey Close,Curry Rivel,Langport
+2026-06-01,325000,TA10 9BU,S,N,F,53,,Fern Road,,Langport
+2026-05-28,280000,TA10 9SE,T,N,F,Sandew Bungalow,,Newtown,,Langport
+2026-05-22,383000,TA10 0JF,D,N,F,Sunnycroft,,Wiltown,Curry Rivel,Langport
+2026-05-21,345000,TA10 9SH,D,N,F,16,,Meadow Close,,Langport
+2026-05-14,600000,TA10 0JL,D,N,F,2,,Holdens Way,Curry Rivel,Langport
+2026-05-11,240000,TA10 0PU,S,N,F,75,,Stanchester Way,Curry Rivel,Langport
+2026-04-27,355000,TA10 0PU,D,N,F,49,,Stanchester Way,Curry Rivel,Langport
+2026-04-17,507000,TA10 0HN,D,N,F,Andira,,Townsend,Curry Rivel,Langport
+2026-04-08,93000,TA10 9RL,F,N,L,Stonehouse Court,Flat 4,North Street,,Langport
+2026-04-02,350000,TA10 9JX,S,N,F,Swallows Nest,,,Long Load,Langport
+2026-03-30,271000,TA10 9QW,D,N,F,11,,Orchard Vale,Huish Episcopi,Langport
+2026-03-27,395000,TA10 9FL,S,N,F,6,,Ducks View,,Langport
+2026-03-27,575000,TA10 0LN,D,N,F,Drayton Nurseries,The Bothy,School Street,Drayton,Langport
+2026-03-24,775000,TA10 9LR,D,N,F,Girton House,,Cross Lane,Long Sutton,Langport
+2026-03-20,260000,TA10 9SU,S,N,F,30,,Garden City,,Langport
+2026-03-20,455000,TA10 9RH,S,N,F,Newhaven,,North Street,,Langport
+2026-03-16,910000,TA10 9DG,D,N,F,Rushley Cottage,,,High Ham,Langport
+2026-03-09,245000,TA10 9TQ,S,N,F,14,,Maple Road,,Langport
+2026-03-09,590000,TA10 0LW,D,N,F,Whitecross Cottage,,Midelney Road,Drayton,Langport
+2026-03-06,455000,TA10 9NL,D,N,F,Upton Corner Cottage,,Upton,Long Sutton,Langport
+2026-03-06,237500,TA10 9LF,S,N,F,11,,Meadow View,Long Load,Langport
+2026-03-06,250000,TA10 9BS,T,N,F,16,,Bartletts Elm,,Langport
+2026-03-06,467500,TA10 0AP,D,N,F,2,,Playses Green,Hambridge,Langport
+2026-02-27,385000,TA10 0PU,T,N,F,47,,Stanchester Way,Curry Rivel,Langport
+2026-02-27,550000,TA10 0HY,D,N,F,Trees,,Stoney Lane,Curry Rivel,Langport
+2026-02-20,122500,TA10 9PR,F,N,L,Castle House,Flat 6,Bow Street,,Langport
+2026-02-13,335000,TA10 9BS,S,N,F,10,,Bartletts Elm,,Langport
+2026-02-06,256000,TA10 9TE,S,N,F,86,,Brookland Road,,Langport
+2026-01-13,312500,TA10 9FH,S,N,F,1,,Hayes Close,,Langport
+2026-01-08,285000,TA10 9SY,S,N,F,The Hollys,,Somerton Road,,Langport
+2025-12-19,346000,TA10 9TN,S,N,F,25,,Delphinium Drive,,Langport
+2025-12-19,203000,TA10 9TB,T,N,F,36,,Barrymore Close,,Langport
+2025-12-19,132000,TA10 9BS,F,N,L,63,,Bartletts Elm,,Langport
+2025-12-16,292000,TA10 0EL,D,N,F,11,,Abbey Close,Curry Rivel,Langport
+2025-12-12,475000,TA10 0NJ,D,N,F,Rowans,,,Portfield,Langport
+2025-12-10,1200000,TA10 9DW,D,N,F,Yew Tree Farm,,Long Street,High Ham,Langport
+2025-12-05,460000,TA10 0QL,D,N,F,Prospect House,,Aller Road,Aller,Langport
+2025-12-05,645000,TA10 0AS,D,N,F,Greenways,,Westmoor Lane,Hambridge,Langport
+2025-12-01,200000,TA10 9PQ,T,N,F,Norman Cottage,,Bow Street,,Langport
+2025-12-01,445000,TA10 0JZ,S,N,F,Holmelands,,East Street,Drayton,Langport
+2025-11-27,410000,TA10 9NL,D,N,F,Redthorn Bungalow,,Upton,Long Sutton,Langport
+2025-11-26,430000,TA10 9SE,D,N,F,Larch House,,Newtown,,Langport
+2025-11-26,560000,TA10 9EA,D,N,F,1,,Hawthorne Close,High Ham,Langport
+2025-11-25,210000,TA10 9TD,T,N,F,35,,Barrymore Close,,Langport
+2025-11-21,517500,TA10 9QH,D,N,F,4,Gardenside,St Gildas Close,,Langport
+2025-11-21,325000,TA10 9NB,D,N,F,Westley Cottage,,Langport Road,Long Sutton,Langport
+2025-11-21,290000,TA10 0PS,S,N,F,3,,Stanchester Way,Curry Rivel,Langport
+2025-11-21,292166,TA10 0AZ,D,N,F,Elm View,,,Hambridge,Langport
+2025-11-20,422000,TA10 9HU,T,N,F,Southend Cottage,,Martock Road,Long Sutton,Langport
+2025-11-20,855000,TA10 9HU,D,N,F,Glebe Yard,Poplins,Martock Road,Long Sutton,Langport
+2025-11-14,192500,TA10 9RA,S,N,F,1,,Whatley Mews,,Langport
+2025-11-11,475000,TA10 9QA,T,N,F,Mariners,,Priests Lane,,Langport
+2025-11-11,350000,TA10 9FJ,S,N,F,2,,Badger Close,,Langport
+2025-11-10,230000,TA10 0RB,S,N,F,4,,Vale View,Aller,Langport
+2025-11-03,305000,TA10 0PU,D,N,F,70,,Stanchester Way,Curry Rivel,Langport
+2025-10-31,275000,TA10 0PS,D,N,F,1,,Stanchester Way,Curry Rivel,Langport
+2025-10-29,535000,TA10 9DN,D,N,F,Long Street Barn,,Long Street,High Ham,Langport
+2025-10-27,216000,TA10 9TG,S,N,F,8,,Walnut Road,,Langport
+2025-10-27,160000,TA10 9RY,S,N,F,Lancelot,2,Eastover,,Langport
+2025-10-27,495000,TA10 9AG,S,N,F,Chapel Farm,3,,Pitney,Langport
+2025-10-23,320000,TA10 0QN,D,N,F,Russ Farm,,,Aller,Langport
+2025-10-14,110000,TA10 9RR,F,N,L,7,,Moor Close,,Langport
+2025-10-14,200000,TA10 9RJ,T,N,F,3,,Broadmeads,Huish Episcopi,Langport
+2025-10-13,316000,TA10 9SZ,D,N,F,18,,Brookland Road,,Langport
+2025-10-10,310000,TA10 9FG,D,N,F,20,,Collins Close,,Langport
+2025-10-10,295000,TA10 9FE,S,N,F,3,,Bicknell Drive,,Langport
+2025-10-10,285000,TA10 0HX,S,N,F,31,,Westfield,Curry Rivel,Langport
+2025-10-10,407000,TA10 0AG,D,N,F,19,,Maple Road,Curry Rivel,Langport
+2025-10-09,485000,TA10 9SH,D,N,F,27,,Meadow Close,,Langport
+2025-10-09,345000,TA10 9BS,D,N,F,53,,Bartletts Elm,,Langport
+2025-10-08,1170000,TA10 9DH,D,N,F,Southend House,,,High Ham,Langport
+2025-10-03,187000,TA10 9PJ,D,N,F,Baulks Yard,Menim Cottage,Bow Street,,Langport
+2025-10-03,470000,TA10 9AE,D,N,F,"April Cottage, 7",,Courthay Orchard,Pitney,Langport
+2025-10-02,219500,TA10 9PS,T,N,F,Malt House West,,Bow Street,,Langport
+2025-10-01,585000,TA10 9HY,D,N,F,Calder House,,,Knole,Langport
+2025-09-30,715000,TA10 0HY,D,N,F,Acre Cottage,,Stoney Lane,Curry Rivel,Langport
+2025-09-26,340000,TA10 0PS,D,N,F,25,,Stanchester Way,Curry Rivel,Langport
+2025-09-26,245000,TA10 0EZ,T,N,F,2,,Hillside Close,Curry Rivel,Langport
+2025-09-24,260000,TA10 0HR,S,N,F,22,,Chatham Place,Curry Rivel,Langport
+2025-09-22,150000,TA10 9QF,F,N,L,West Court,Flat 1,The Hill,,Langport
+2025-09-19,120000,TA10 9PX,F,N,L,1,,Moor Park,,Langport
+2025-09-19,275000,TA10 0PU,S,N,F,36,,Stanchester Way,Curry Rivel,Langport
+2025-09-17,495000,TA10 9DB,T,N,F,Well Cottage,,,High Ham,Langport
+2025-09-15,735000,TA10 0HY,D,N,F,Beech House,,Stoney Lane,Curry Rivel,Langport
+2025-09-15,400000,TA10 0HB,D,N,F,Kilimani,,King William Lane,Curry Rivel,Langport
+2025-09-10,652500,TA10 0LN,D,N,F,Lindenbrook,,School Street,Drayton,Langport
+2025-09-05,270000,TA10 0HR,S,N,F,21,,Chatham Place,Curry Rivel,Langport
+2025-09-03,225000,TA10 9PR,F,N,L,Victors,,Bow Street,,Langport
+2025-09-03,445000,TA10 9NQ,S,N,F,Hodgehay,3,Langport Road,Long Sutton,Langport
+2025-09-02,430000,TA10 9HW,D,N,F,38,,Bishops Drive,,Langport
+2025-09-02,292500,TA10 9BS,D,N,F,71,,Bartletts Elm,,Langport
+2025-09-02,430000,TA10 0JH,D,N,F,29,,Stoneyhurst Drive,Curry Rivel,Langport
+2025-09-02,330000,TA10 0AG,D,N,F,15,,Maple Road,Curry Rivel,Langport
+2025-08-28,546500,TA10 0QP,D,N,F,Kimmeridge,,Church Path,Aller,Langport
+2025-08-21,1000000,TA10 9LU,D,N,F,Orchard House,,Shute Lane,Long Sutton,Langport
+2025-08-11,258500,TA10 9FE,T,N,F,9,,Bicknell Drive,,Langport
+2025-08-08,425000,TA10 9LY,T,N,F,1,,Orchard Close,Long Sutton,Langport
+2025-08-05,235000,TA10 9RF,S,N,F,7,,Huish Lea,,Langport
+2025-08-01,500000,TA10 9SB,D,N,F,Poolmead,,Kennel Lane,,Langport
+2025-08-01,685000,TA10 9JA,D,N,F,Charnwood,,Bineham Road,Knole,Langport
+2025-08-01,365000,TA10 9HU,S,N,F,Northend Cottage,,Martock Road,Long Sutton,Langport
+2025-08-01,455000,TA10 9EX,S,N,F,November House,,Picts Hill,,Langport
+2025-08-01,342500,TA10 0EF,D,N,F,Protea House,,Churchway,Curry Rivel,Langport
+2025-07-25,165000,TA10 9PX,F,N,L,1A,,Moor Park,,Langport
+2025-07-24,335000,TA10 0LN,D,N,F,Hambrays,,School Street,Drayton,Langport
+2025-07-23,851667,TA10 9DR,D,N,F,Dobbins,,,Low Ham,Langport
+2025-07-22,187050,TA10 9ST,S,N,F,12,,Garden City,,Langport
+2025-07-18,335000,TA10 9LT,S,N,F,1,,Westview,Long Sutton,Langport
+2025-07-17,275000,TA10 9PT,T,N,F,1,,Four Seasons Mews,,Langport
+2025-07-04,575000,TA10 0QG,D,N,F,Larkwood Barn,,Combe,Huish Episcopi,Langport
+2025-06-27,267500,TA10 9RF,T,N,F,6,,Huish Lea,,Langport
+2025-06-27,315000,TA10 0PR,S,N,F,24,,Dyers Road,Curry Rivel,Langport
+2025-06-27,435000,TA10 0HT,D,N,F,Orchard View,,Townsend,Curry Rivel,Langport
+2025-06-26,137500,TA10 9RR,F,N,L,17,,Moor Close,,Langport
+2025-06-26,540000,TA10 9LU,D,N,F,Spring House,,Shute Lane,Long Sutton,Langport
+2025-06-26,340000,TA10 9HL,D,N,F,36,,St Marys Park,,Langport
+2025-06-23,130000,TA10 9TH,F,N,L,105,,Brookland Road,,Langport
+2025-06-23,275000,TA10 9TB,S,N,F,1,,Barrymore Close,,Langport
+2025-06-18,295000,TA10 9EB,S,N,F,49,,Hamdown Court,,Langport
+2025-06-17,790000,TA10 0HW,D,N,F,Stoneymead,,Townsend,Curry Rivel,Langport
+2025-06-12,258000,TA10 9PS,T,N,F,Thrift House,,Bow Street,,Langport
+2025-06-12,340000,TA10 9HD,D,N,F,23,,St Marys Park,,Langport
+2025-06-06,215000,TA10 9PU,F,N,L,Ouseley House,Flat 4,The Hill,,Langport
+2025-06-03,230000,TA10 9PU,T,N,F,The Nesbitts,2,The Hill,,Langport
+2025-05-23,140000,TA10 0HX,S,N,L,Bine Hill View,,Westfield,Curry Rivel,Langport
+2025-05-22,720000,TA10 9LB,D,N,F,Ash Farm,,Martock Road,Long Load,Langport
+2025-05-22,260000,TA10 9BS,D,N,F,69,,Bartletts Elm,,Langport
+2025-05-22,630000,TA10 0BS,D,N,F,"Oakview, 1",,Alford Court,Hambridge,Langport
+2025-05-21,900000,TA10 9BD,S,N,F,Cider Cottage,,,High Ham,Langport
+2025-05-16,427000,TA10 9HD,D,N,F,19,,St Marys Park,,Langport
+2025-05-16,290000,TA10 0PU,D,N,F,53,,Stanchester Way,Curry Rivel,Langport
+2025-05-16,1425000,TA10 0NG,D,N,F,Parkwood House,,Sandpitts Hill,,Langport
+2025-05-16,245000,TA10 0JG,T,N,F,3,,Chatham Rise,Curry Rivel,Langport
+2025-04-28,435000,TA10 9QH,D,N,F,6,,St Gildas Close,,Langport
+2025-04-25,655000,TA10 9FR,D,N,F,2,,Levels View,,Langport
+2025-04-25,75000,TA10 9BW,T,N,L,26,,Fern Road,,Langport
+2025-04-17,215000,TA10 9TD,T,N,F,64,,Barrymore Close,,Langport
+2025-04-17,330000,TA10 9TA,S,N,F,7,,Brookland Road,,Langport
+2025-04-16,374000,TA10 0BT,S,N,F,4,,School Mews,Curry Rivel,Langport
+2025-04-07,126000,TA10 9TH,F,N,L,69,,Brookland Road,,Langport
+2025-03-31,308000,TA10 9RQ,T,N,F,All Saints Cottage,,North Street,,Langport
+2025-03-31,250000,TA10 9RJ,T,N,F,9,,Broadmeads,Huish Episcopi,Langport
+2025-03-31,405000,TA10 9NZ,D,N,F,1,,The Willows,,Langport
+2025-03-31,318000,TA10 9BU,S,N,F,55,,Fern Road,,Langport
+2025-03-28,350000,TA10 9RA,S,N,F,24,,Whatley,,Langport
+2025-03-28,243000,TA10 9PT,T,N,F,2,,Four Seasons Mews,,Langport
+2025-03-28,285000,TA10 9NR,D,N,F,Orchard View,,Crouds Lane,Long Sutton,Langport
+2025-03-28,860000,TA10 9LD,D,N,F,Orchard Farm House,,Martock Road,Long Load,Langport
+2025-03-28,265000,TA10 0EL,D,N,F,29,,Abbey Close,Curry Rivel,Langport
+2025-03-27,137250,TA10 9TH,F,N,L,87,,Brookland Road,,Langport
+2025-03-27,245000,TA10 9TE,S,N,F,41,,Brookland Road,,Langport
+2025-03-26,350000,TA10 9TN,S,N,F,25,,Delphinium Drive,,Langport
+2025-03-26,500000,TA10 9LU,D,N,F,Sutton Court,,Shute Lane,Long Sutton,Langport
+2025-03-26,465000,TA10 0EH,S,N,F,8,,Honeylands,Curry Rivel,Langport
+2025-03-21,325000,TA10 9PS,S,N,F,Pococks Yard,Swallow Barn,Bow Street,,Langport
+2025-03-20,330000,TA10 9QW,D,N,F,3,,Orchard Vale,Huish Episcopi,Langport
+2025-03-19,255000,TA10 0LA,T,N,F,The Meadows,1,East Street,Drayton,Langport
+2025-03-18,725000,TA10 9AZ,D,N,F,North Hill Farm,,,Henley,Langport
+2025-03-14,270000,TA10 9TN,T,N,F,2,,Delphinium Drive,,Langport
+2025-03-14,310000,TA10 9SE,S,N,F,Cypress Cottage,,Newtown,,Langport
+2025-03-14,340000,TA10 9HW,D,N,F,18,,Bishops Drive,,Langport
+2025-03-14,350000,TA10 9HB,D,N,F,Mardens,,Wearne Lane,,Langport
+2025-03-14,189000,TA10 9FG,T,N,F,6,,Collins Close,,Langport
+2025-03-13,500000,TA10 9FJ,D,Y,F,32,,Badger Close,,Langport
+2025-03-13,610000,TA10 9DJ,D,N,F,Cedars,,Mill Road,High Ham,Langport
+2025-03-11,385000,TA10 9PN,D,N,F,8,,Great Bow Yard,,Langport
+2025-03-11,510000,TA10 9AE,S,N,F,Forge Barn,,,Pitney,Langport
+2025-03-11,494000,TA10 0JH,D,N,F,Stoney Ridge,,Stoneyhurst Drive,Curry Rivel,Langport
+2025-03-07,107500,TA10 0HX,S,N,L,10,,Westfield,Curry Rivel,Langport
+2025-03-07,290000,TA10 0HR,S,N,F,1,,Chatham Place,Curry Rivel,Langport
+2025-03-06,555000,TA10 9EJ,D,N,F,Littlemoor Farmhouse,,,Pibsbury,Langport
+2025-03-04,513000,TA10 9FJ,D,Y,F,34,,Badger Close,,Langport
+2025-03-03,380000,TA10 9LU,D,N,F,Charris,,Shute Lane,Long Sutton,Langport
+2025-03-03,275000,TA10 0JQ,D,N,F,1,,Hoskins Close,Curry Rivel,Langport
+2025-02-28,180000,TA10 9RX,S,N,F,11,,Eastover,,Langport
+2025-02-28,335000,TA10 9JX,S,N,F,Swallows Nest,,,Long Load,Langport
+2025-02-17,199500,TA10 9RY,S,N,F,49,,Eastover,,Langport
+2025-02-14,390000,TA10 9TJ,D,N,F,"The Hollies, 9",,Willow Close,,Langport
+2025-02-12,1590000,TA10 9DH,D,N,F,Orchid House,,,High Ham,Langport
+2025-02-07,315000,TA10 9QS,T,N,F,1,,Courtfield,Huish Episcopi,Langport
+2025-02-07,860000,TA10 9AS,D,N,F,Longbarn,,,Pitney,Langport
+2025-02-07,342000,TA10 0EH,S,N,F,2,,Honeylands,Curry Rivel,Langport
+2025-02-07,300000,TA10 0ED,D,N,F,10,,Churchway Close,Curry Rivel,Langport
+2025-02-06,210000,TA10 9TD,T,N,F,66,,Barrymore Close,,Langport
+2025-02-05,360000,TA10 9AG,S,N,F,Chapel Farm,4,,Pitney,Langport
+2025-01-31,135000,TA10 9TH,F,N,L,113,,Brookland Road,,Langport
+2025-01-24,138000,TA10 9HT,F,N,L,The Little Patch,,,Long Sutton,Langport
+2025-01-24,280000,TA10 0PS,S,N,F,33A,,Stanchester Way,Curry Rivel,Langport
+2025-01-22,350000,TA10 0PU,D,N,F,49,,Stanchester Way,Curry Rivel,Langport
+2025-01-17,355000,TA10 9QB,T,N,F,The Malt House,,The Hill,,Langport
+2025-01-08,415000,TA10 0EL,D,N,F,20,,Abbey Close,Curry Rivel,Langport
+2025-01-06,380000,TA10 0NG,D,N,F,Little Nook,,Sandpitts Hill,,Langport
+2024-12-18,480000,TA10 9RL,S,N,F,At Rest,,North Street,,Langport
+2024-12-16,650000,TA10 9BG,D,N,F,Tibbs Barn,,,Henley,Langport
+2024-12-16,840000,TA10 0AU,D,N,F,Hambridge Farm,,,Hambridge,Langport
+2024-12-12,360000,TA10 9QU,S,N,F,April Cottage,,,Huish Episcopi,Langport
+2024-12-11,639000,TA10 9LZ,D,N,F,Walnut Tree Cottage,,Shute Lane,Long Sutton,Langport
+2024-12-11,465000,TA10 9DJ,D,N,F,Mullions,,Mill Road,High Ham,Langport
+2024-12-09,397500,TA10 0AU,D,N,F,Angel House,,,Hambridge,Langport
+2024-12-06,230000,TA10 9TB,S,N,F,9,,Barrymore Close,,Langport
+2024-12-05,875000,TA10 0QG,D,N,F,Lower Combe House,,Combe,Huish Episcopi,Langport
+2024-12-03,160000,TA10 9PS,T,N,F,"Wren Cottage, 2",,Pococks Yard,,Langport
+2024-12-02,277500,TA10 0EL,S,N,F,8,,Abbey Close,Curry Rivel,Langport
+2024-11-29,167000,TA10 9RZ,T,N,F,32,,The Embankment,,Langport
+2024-11-29,265000,TA10 9NX,T,N,F,1,,Sutton Mews,Long Sutton,Langport
+2024-11-29,422500,TA10 0QP,D,N,F,Barn View,,Church Path,Aller,Langport
+2024-11-28,130500,TA10 9PR,F,N,L,Bow Court,Flat 2,Bow Street,,Langport
+2024-11-28,469950,TA10 0ER,D,N,F,9,,Blackdown View,Curry Rivel,Langport
+2024-11-28,490000,TA10 0DR,T,N,F,1,,Thorney Cottages,Thorney,Langport
+2024-11-27,191000,TA10 9FG,T,N,F,5,,Collins Close,,Langport
+2024-11-25,387500,TA10 9TQ,D,N,F,2,,Maple Road,,Langport
+2024-11-25,585000,TA10 0EN,D,N,F,Spedway Spinney,,,Curry Rivel,Langport
+2024-11-19,750000,TA10 9EU,D,N,F,Catcrow,,Catcrow Hill,,Langport
+2024-11-18,264250,TA10 0AG,S,N,F,57,,Maple Road,Curry Rivel,Langport
+2024-11-13,274000,TA10 9QT,S,N,F,Pine Tree Cottage,,,Huish Episcopi,Langport
+2024-11-08,900000,TA10 0DD,D,N,F,Jays Stables,,,Bowdens,Langport
+2024-11-01,380000,TA10 9HL,D,N,F,48,,St Marys Park,,Langport
+2024-10-25,290000,TA10 9BU,S,N,F,65,,Fern Road,,Langport
+2024-10-21,275000,TA10 0PS,S,N,F,21,,Stanchester Way,Curry Rivel,Langport
+2024-10-18,210000,TA10 9LR,T,N,F,7,,Church Walk,Long Sutton,Langport
+2024-10-18,400000,TA10 0EY,T,N,F,Cranford,,High Street,Curry Rivel,Langport
+2024-10-18,180000,TA10 0EF,T,N,F,Churchway Cottage,,Churchway,Curry Rivel,Langport
+2024-10-16,179000,TA10 9ER,D,N,F,Victoria Cottage,,Wagg Drove,,Langport
+2024-10-15,345000,TA10 9TP,S,N,F,Larkspur Cottage,,Iris Way,,Langport
+2024-10-15,380000,TA10 0AL,T,N,F,6,,Underhill Cottages,Hambridge,Langport
+2024-10-10,280000,TA10 0EF,D,N,F,Brambles,,Churchway,Curry Rivel,Langport
+2024-10-08,325000,TA10 0HD,D,N,F,1,,King William Mews,Curry Rivel,Langport
+2024-10-04,587000,TA10 9HE,D,N,F,Watersmeet,,,Huish Episcopi,Langport
+2024-10-04,375000,TA10 0EL,D,N,F,2,,Abbey Close,Curry Rivel,Langport
+2024-09-30,390000,TA10 0PG,D,N,F,4,,Heale Lane,Curry Rivel,Langport
+2024-09-30,307000,TA10 0ED,D,N,F,"The Firs, 12",,Churchway Close,Curry Rivel,Langport
+2024-09-27,350000,TA10 9NL,D,N,F,Heywood,,Upton,Long Sutton,Langport
+2024-09-27,920000,TA10 9AQ,D,N,F,Hillside Barn,,,Pitney,Langport
+2024-09-25,645000,TA10 9DJ,D,N,F,Cherry Trees,,Mill Road,High Ham,Langport
+2024-09-24,530000,TA10 9DL,D,N,F,Rose Cottage,,Windmill Road,High Ham,Langport
+2024-09-20,425000,TA10 0AU,D,N,F,Wyke House,,,Hambridge,Langport
+2024-09-19,585000,TA10 0QP,D,N,F,Beechcroft,,Church Path,Aller,Langport
+2024-09-13,235000,TA10 9TE,S,N,F,39,,Brookland Road,,Langport
+2024-09-13,262000,TA10 9FE,T,N,F,7,,Bicknell Drive,,Langport
+2024-09-10,380000,TA10 9HW,D,N,F,8,,Bishops Drive,,Langport
+2024-09-06,375000,TA10 0NJ,D,N,F,Mimiju,,,Portfield,Langport
+2024-08-30,267500,TA10 9HD,S,N,F,26,,St Marys Park,,Langport
+2024-08-30,245000,TA10 9ER,D,N,F,Willow Way,,Wagg Drove,,Langport
+2024-08-29,277000,TA10 0PU,S,N,F,74,,Stanchester Way,Curry Rivel,Langport
+2024-08-21,923000,TA10 9AR,D,N,F,Church Hill,,,Pitney,Langport
+2024-08-20,425000,TA10 0EH,S,N,F,3,,Honeylands,Curry Rivel,Langport
+2024-08-14,390000,TA10 0LN,D,N,F,Blackberry Court,4,School Street,Drayton,Langport
+2024-08-13,685000,TA10 9AA,D,N,F,Hayling,,Picts Hill,,Langport
+2024-08-08,450000,TA10 0JH,D,N,F,3,,Stoneyhurst Drive,Curry Rivel,Langport
+2024-08-06,395000,TA10 0EZ,D,N,F,Chatham House,,High Street,Curry Rivel,Langport
+2024-08-06,325000,TA10 0BH,D,N,F,Burnside,,,Westport,Langport
+2024-08-06,410000,TA10 0AG,D,N,F,17,,Maple Road,Curry Rivel,Langport
+2024-08-02,650000,TA10 0PQ,D,N,F,Treetops,,Heale Lane,Curry Rivel,Langport
+2024-08-01,205000,TA10 9PH,T,N,F,80,,Bow Street,,Langport
+2024-07-31,380000,TA10 9HW,D,N,F,32,,Bishops Drive,,Langport
+2024-07-31,275000,TA10 0AG,S,N,F,9,,Maple Road,Curry Rivel,Langport
+2024-07-30,480000,TA10 9AG,D,N,F,Barton House,,,Pitney,Langport
+2024-07-29,195000,TA10 0LJ,D,N,F,Mead Chapel,,School Street,Drayton,Langport
+2024-07-26,275000,TA10 9EF,S,N,F,Kelways Cottages,7,Iris Way,,Langport
+2024-07-26,212420,TA10 0PR,S,N,F,33,,Dyers Road,Curry Rivel,Langport
+2024-07-26,415000,TA10 0DL,D,N,F,The Old Forge,,,Muchelney,Langport
+2024-07-22,305000,TA10 0ED,D,N,F,5,,Churchway Close,Curry Rivel,Langport
+2024-07-19,135000,TA10 9TH,F,N,L,132,,Brookland Road,,Langport
+2024-07-15,500000,TA10 9DR,D,N,F,Telston House,,,Low Ham,Langport
+2024-07-10,425000,TA10 0EZ,D,N,F,Orchard View,,High Street,Curry Rivel,Langport
+2024-07-09,446500,TA10 0LN,T,N,F,Rook Cottage,,School Street,Drayton,Langport
+2024-07-05,140000,TA10 0DF,D,N,F,Toll House,,,Muchelney,Langport
+2024-07-04,405000,TA10 0EG,D,N,F,The Squirrels,,Bell Orchard,Curry Rivel,Langport
+2024-07-01,643460,TA10 9DB,D,N,F,Valley View,,,High Ham,Langport
+2024-07-01,163000,TA10 0DL,T,N,L,3,,The Row,Muchelney,Langport
+2024-06-28,585000,TA10 9NU,D,N,F,Thimble Cottage,,Level View,Huish Episcopi,Langport
+2024-06-28,850000,TA10 9EJ,D,N,F,The Grange,,,Pibsbury,Langport
+2024-06-28,267500,TA10 9EB,T,N,F,5,,Hamdown Court,,Langport
+2024-06-28,350000,TA10 0DZ,S,N,F,Withy Cottage,,,Westover,Langport
+2024-06-27,270000,TA10 0QL,D,N,F,Turnpike Cottage,,Aller Road,Aller,Langport
+2024-06-25,206000,TA10 9PS,T,N,F,The Old Malt House,,Bow Street,,Langport
+2024-06-21,335000,TA10 9BU,S,N,F,61,,Fern Road,,Langport
+2024-06-21,292500,TA10 9BU,S,N,F,21,,Fern Road,,Langport
+2024-06-19,425000,TA10 0PS,D,N,F,12,,Stanchester Way,Curry Rivel,Langport
+2024-06-12,300000,TA10 0EL,D,N,F,4,,Abbey Close,Curry Rivel,Langport
+2024-06-11,279950,TA10 9HL,S,N,F,37,,St Marys Park,,Langport
+2024-06-07,300000,TA10 9RZ,T,N,F,30,,The Embankment,,Langport
+2024-06-04,202000,TA10 9BS,T,N,F,5,,Bartletts Elm,,Langport
+2024-05-31,270000,TA10 9NE,S,N,F,Tavenders Cottages,1,Langport Road,Long Sutton,Langport
+2024-05-29,470000,TA10 9LZ,D,N,F,The Cottage,,Shute Lane,Long Sutton,Langport
+2024-05-29,715000,TA10 9HS,D,N,F,Stuckeys House,,The Green,Long Sutton,Langport
+2024-05-24,135000,TA10 9TH,F,N,L,67,,Brookland Road,,Langport
+2024-05-24,320000,TA10 9SU,S,N,F,33,,Garden City,,Langport
+2024-05-21,480000,TA10 9DZ,D,N,F,Karelia,,,Low Ham,Langport
+2024-05-21,700000,TA10 0EY,D,N,F,The Vines,,High Street,Curry Rivel,Langport
+2024-05-16,635000,TA10 9DW,D,N,F,Perrins Farmhouse,,Long Street,High Ham,Langport
+2024-05-16,780000,TA10 9DB,D,N,F,Orchard Bank,,,High Ham,Langport
+2024-05-10,185000,TA10 9TD,T,N,F,47,,Barrymore Close,,Langport
+2024-05-07,255000,TA10 0PU,S,N,F,58A,,Stanchester Way,Curry Rivel,Langport
+2024-04-30,125000,TA10 9TH,F,N,L,127,,Brookland Road,,Langport
+2024-04-26,375000,TA10 9QW,D,N,F,6,,Orchard Vale,Huish Episcopi,Langport
+2024-04-26,313000,TA10 9FE,D,N,F,8,,Bicknell Drive,,Langport
+2024-04-26,461000,TA10 0LE,D,N,F,Orchard Rise,,North Street,Drayton,Langport
+2024-04-24,620000,TA10 0LN,D,N,F,Blackberry Court,2,School Street,Drayton,Langport
+2024-04-22,274500,TA10 9ST,S,N,F,9,,Garden City,,Langport
+2024-04-19,250000,TA10 9EN,S,N,F,2,,Ducks Hill,,Langport
+2024-04-10,575000,TA10 0LN,D,N,F,Blackberry Court,6,School Street,Drayton,Langport
+2024-04-05,267800,TA10 9ST,S,N,F,6,,Garden City,,Langport
+2024-04-02,850000,TA10 9AG,D,N,F,Coxs Yard,The Old Cart House,,Pitney,Langport
+2024-03-28,153500,TA10 9BF,F,N,L,Redwood Grange,11,Bartletts Elm,,Langport
+2024-03-26,424000,TA10 9QD,S,N,F,The Merchants House,,The Hill,,Langport
+2024-03-25,251500,TA10 9EB,T,N,F,45,,Hamdown Court,,Langport
+2024-03-21,295000,TA10 9EE,S,N,F,1,,Kings Orchard Close,,Langport
+2024-03-20,422500,TA10 0EY,T,N,F,Hillside Cottage,,High Street,Curry Rivel,Langport
+2024-03-04,97000,TA10 9TH,F,N,L,97,,Brookland Road,,Langport
+2024-03-04,445000,TA10 0QN,D,N,F,Chantry Farm,Lower Barn,,Aller,Langport
+2024-03-01,280000,TA10 9NE,S,N,F,Tavenders Cottages,2,Langport Road,Long Sutton,Langport
+2024-03-01,303500,TA10 0QG,D,N,F,Southmoor,,Combe,Huish Episcopi,Langport
+2024-03-01,315000,TA10 0PS,D,N,F,15,,Stanchester Way,Curry Rivel,Langport
+2024-02-29,440000,TA10 9QF,D,N,F,Eastgate,,The Hill,,Langport
+2024-02-16,160000,TA10 9LN,T,N,F,9,,Parsons Close,Long Sutton,Langport
+2024-02-16,580000,TA10 9JE,T,N,F,The Cider House,,,Knole,Langport
+2024-02-16,375000,TA10 0JH,D,N,F,9,,Stoneyhurst Drive,Curry Rivel,Langport
+2024-02-09,450000,TA10 9FJ,D,Y,F,9,,Badger Close,,Langport
+2024-01-26,210000,TA10 9TF,T,N,F,9,,Newtown Park,,Langport
+2024-01-26,308000,TA10 9ST,S,N,F,18A,,Garden City,,Langport
+2024-01-26,650000,TA10 0BP,S,N,F,Highfields,,,Hambridge,Langport
+2024-01-22,342500,TA10 0DZ,S,N,F,The Old Withy Barn,,,Westover,Langport
+2024-01-19,210000,TA10 9BS,S,N,F,83,,Bartletts Elm,,Langport
+2024-01-18,595000,TA10 9FJ,D,Y,F,28,,Badger Close,,Langport
+2024-01-15,776500,TA10 0QN,D,N,F,Larch House,,,Aller,Langport
+2024-01-15,715000,TA10 0PF,T,N,F,8,,Pitt Court,Curry Rivel,Langport
+2023-12-20,190000,TA10 9BF,F,N,L,Redwood Grange,1,Bartletts Elm,,Langport
+2023-12-19,250000,TA10 9LZ,S,N,F,Langley,,Shute Lane,Long Sutton,Langport
+2023-12-18,315000,TA10 0PU,S,N,F,54,,Stanchester Way,Curry Rivel,Langport
+2023-12-15,342000,TA10 9TN,S,N,F,5,,Delphinium Drive,,Langport
+2023-12-15,490000,TA10 0HP,D,N,F,Townsend House,,Townsend,Curry Rivel,Langport
+2023-12-12,287500,TA10 0PR,S,N,F,27,,Dyers Road,Curry Rivel,Langport
+2023-12-11,565000,TA10 0DL,D,N,F,Herriard Cottage,,,Muchelney,Langport
+2023-12-08,205000,TA10 9TH,T,N,F,120,,Brookland Road,,Langport
+2023-12-08,170000,TA10 0AL,T,N,F,2,,Underhill Cottages,Hambridge,Langport
+2023-12-07,265000,TA10 9SE,S,N,F,Galand Bungalow,,Newtown,,Langport
+2023-12-07,399000,TA10 0PX,D,N,F,10,,Dyers Close,Curry Rivel,Langport
+2023-12-04,330000,TA10 9SU,S,N,F,34,,Garden City,,Langport
+2023-12-01,990000,TA10 9AG,D,N,F,Coxs Yard,Orchard View House,,Pitney,Langport
+2023-12-01,320000,TA10 0QP,S,N,F,Chrismar Cottage,,Church Path,Aller,Langport
+2023-11-30,216500,TA10 0RB,S,N,F,6,,Vale View,Aller,Langport
+2023-11-24,1400000,TA10 9DN,D,N,F,Ashbrook Lodge,,Long Street,High Ham,Langport
+2023-11-15,370000,TA10 0ED,D,N,F,"Sienna, 7",,Churchway Close,Curry Rivel,Langport
+2023-11-14,215000,TA10 0EF,D,N,F,Havering,,Churchway,Curry Rivel,Langport
+2023-11-10,105000,TA10 0HX,F,N,L,11,,Westfield,Curry Rivel,Langport
+2023-11-03,265000,TA10 9FE,S,N,F,1,,Bicknell Drive,,Langport
+2023-10-31,900000,TA10 9DS,D,N,F,Pound Cottage,,,Low Ham,Langport
+2023-10-30,280000,TA10 9BF,S,N,F,Redwood Grange Lodge,,Bartletts Elm,,Langport
+2023-10-27,576000,TA10 9NP,D,N,F,Rowley House,,Hermitage Road,Upton,Langport
+2023-10-24,295000,TA10 9SH,D,N,F,12,,Meadow Close,,Langport
+2023-10-23,760000,TA10 9NW,D,N,F,Bridge Cottage,,Hermitage Road,Upton,Langport
+2023-10-13,350000,TA10 0HF,D,N,F,Lime Tree Cottage,,The Green,Curry Rivel,Langport
+2023-10-02,550000,TA10 9QX,D,N,F,19,,Portland Road,Huish Episcopi,Langport
+2023-10-02,310000,TA10 9HD,D,N,F,29,,St Marys Park,,Langport
+2023-09-29,130000,TA10 9RR,F,N,L,12,,Moor Close,,Langport
+2023-09-29,1240000,TA10 9PU,D,N,F,Hill House,,The Hill,,Langport
+2023-09-29,560000,TA10 9FJ,D,Y,F,30,,Badger Close,,Langport
+2023-09-22,400000,TA10 0QN,D,N,F,Atelier,,,Aller,Langport
+2023-09-15,207000,TA10 9BS,S,N,F,37,,Bartletts Elm,,Langport
+2023-09-15,390000,TA10 0LH,S,N,F,School Cottage,,School Street,Drayton,Langport
+2023-09-15,669000,TA10 0EZ,D,N,F,The Gables,,High Street,Curry Rivel,Langport
+2023-09-12,310000,TA10 9TH,S,N,F,90,,Brookland Road,,Langport
+2023-09-12,880000,TA10 0JT,D,N,F,The Beeches,,,Drayton,Langport
+2023-09-06,425000,TA10 0EZ,D,N,F,4,,Hillside Close,Curry Rivel,Langport
+2023-09-04,855000,TA10 9NG,D,N,F,Mundy's Court,,Mondays Court Lane,Long Sutton,Langport
+2023-09-04,650000,TA10 9AG,D,N,F,Coxs Yard,The Old Dairy,,Pitney,Langport
+2023-09-01,1800000,TA10 9HX,D,N,F,Knightlands,,,Long Sutton,Langport
+2023-09-01,650000,TA10 9DL,D,N,F,Windmill Cottage,,Windmill Road,High Ham,Langport
+2023-08-30,290000,TA10 0PR,S,N,F,24,,Dyers Road,Curry Rivel,Langport
+2023-08-25,380000,TA10 9SE,D,N,F,Holly Lodge,,Newtown,,Langport
+2023-08-25,550000,TA10 9HU,D,N,F,Silverhaze,,Martock Road,Long Sutton,Langport
+2023-08-25,280000,TA10 9HL,S,N,F,41,,St Marys Park,,Langport
+2023-08-25,407500,TA10 0ET,D,N,F,Parkers,,High Street,Curry Rivel,Langport
+2023-08-18,410000,TA10 9TJ,S,N,F,7,,Willow Close,,Langport
+2023-08-11,139950,TA10 9DD,F,N,L,6,,St Andrews Close,High Ham,Langport
+2023-08-10,595000,TA10 0HW,D,N,F,Long Acre,,Townsend,Curry Rivel,Langport
+2023-08-07,510000,TA10 9AE,D,N,F,2,,Chapel Court,Pitney,Langport
+2023-08-03,300000,TA10 0NS,D,N,F,7,,St Andrews Close,Curry Rivel,Langport
+2023-08-02,430000,TA10 0ER,S,N,F,2,,Blackdown View,Curry Rivel,Langport
+2023-07-28,575000,TA10 9NR,S,N,F,Crouds Cottage,,Crouds Lane,Long Sutton,Langport
+2023-07-28,262000,TA10 9FF,T,N,F,47,,Deacon Orchard,,Langport
+2023-07-24,438500,TA10 9RH,S,N,F,Newhaven,,North Street,,Langport
+2023-07-17,320000,TA10 9QW,D,N,F,"Talland, 2",,Orchard Vale,Huish Episcopi,Langport
+2023-07-14,122000,TA10 0BH,T,N,F,Sunset Cottage,,,Westport,Langport
+2023-07-07,897500,TA10 9RW,D,N,F,Coppers,,North Street,,Langport
+2023-07-07,122500,TA10 9BP,S,N,L,Cherry Court,6,Eastover,,Langport
+2023-07-07,1060000,TA10 9AG,D,N,F,Coxs Yard,Stream View,,Pitney,Langport
+2023-07-07,600000,TA10 0EY,D,N,F,Earlsmead,,High Street,Curry Rivel,Langport
+2023-06-30,290000,TA10 9EZ,D,N,F,Leafy Brook Farm,,Picts Hill,,Langport
+2023-06-29,535000,TA10 9DZ,D,N,F,Malindi,,,Low Ham,Langport
+2023-06-26,765000,TA10 0LN,D,N,F,Blackberry Court,1,School Street,Drayton,Langport
+2023-06-22,220000,TA10 0BH,S,N,F,Westview,,,Westport,Langport
+2023-06-21,575000,TA10 0HP,D,N,F,Larks House,,Townsend,Curry Rivel,Langport
+2023-06-09,235000,TA10 0EW,S,N,F,40,,Parsonage Place,Curry Rivel,Langport
+2023-06-01,445000,TA10 0LN,S,N,F,Blackberry Court,5,School Street,Drayton,Langport
+2023-05-31,347500,TA10 9ND,S,N,F,5,,Langport Road,Long Sutton,Langport
+2023-05-31,635000,TA10 0HY,D,N,F,Lapis House,,Stoney Lane,Curry Rivel,Langport
+2023-05-31,255000,TA10 0BE,S,N,F,3,,Hillview,Hambridge,Langport
+2023-05-30,625000,TA10 9EJ,D,N,F,Moorfields,,,Pibsbury,Langport
+2023-05-23,420000,TA10 0HN,D,N,F,Greystones,,Townsend,Curry Rivel,Langport
+2023-05-19,394000,TA10 0ER,D,N,F,8,,Blackdown View,Curry Rivel,Langport
+2023-05-18,375000,TA10 0JH,D,N,F,7,,Stoneyhurst Drive,Curry Rivel,Langport
+2023-05-11,380000,TA10 0AP,D,N,F,19,,Playses Green,Hambridge,Langport
+2023-05-05,190000,TA10 9RA,S,N,F,1,,Whatley Mews,,Langport
+2023-05-05,320000,TA10 9FG,D,N,F,16,,Collins Close,,Langport
+2023-04-28,275000,TA10 9TE,S,N,F,84,,Brookland Road,,Langport
+2023-04-20,430000,TA10 9TZ,D,N,F,12,,Gladiolus Road,,Langport
+2023-04-19,280000,TA10 0PP,D,N,F,Myrtle House,,,Curry Rivel,Langport
+2023-04-12,395000,TA10 0JL,D,N,F,Wyncroft,,Holdens Way,Curry Rivel,Langport
+2023-04-11,325000,TA10 9SE,D,N,F,Quantock View,,Newtown,,Langport
+2023-04-11,265000,TA10 9EB,T,N,F,43,,Hamdown Court,,Langport
+2023-04-06,347500,TA10 0JH,D,N,F,4,,Stoneyhurst Drive,Curry Rivel,Langport
+2023-04-06,391000,TA10 0JH,D,N,F,33,,Stoneyhurst Drive,Curry Rivel,Langport
+2023-04-05,390000,TA10 9BU,D,N,F,71,,Fern Road,,Langport
+2023-04-05,665000,TA10 9AA,D,N,F,The Barn House,,Picts Hill,,Langport
+2023-04-03,94000,TA10 9LH,T,N,L,Trinity Court,2,Parsons Close,Long Sutton,Langport
+2023-03-31,334500,TA10 9TA,S,N,F,22,,Brookland Road,,Langport
+2023-03-28,372000,TA10 9AB,D,N,F,Downlands,,Pitney Hill,,Langport
+2023-03-24,322500,TA10 9HD,D,N,F,16,,St Marys Park,,Langport
+2023-03-22,540000,TA10 9HT,D,N,F,School House,,,Long Sutton,Langport
+2023-03-21,205000,TA10 0QT,T,N,F,Grabrook House,,Aller Drove,Aller,Langport
+2023-03-17,315000,TA10 9SE,S,N,F,Rowan Cottage,,Newtown,,Langport
+2023-03-17,242500,TA10 9FF,T,N,F,41,,Deacon Orchard,,Langport
+2023-03-17,102500,TA10 9BS,F,N,L,15,,Bartletts Elm,,Langport
+2023-03-09,500000,TA10 9SE,D,N,F,Hazel House,,Newtown,,Langport
+2023-03-06,455000,TA10 9SG,D,N,F,Four Winds,,Somerton Road,,Langport
+2023-03-06,200000,TA10 9FE,T,N,F,19,,Bicknell Drive,,Langport
+2023-03-06,280000,TA10 0AG,S,Y,F,53,,Maple Road,Curry Rivel,Langport
+2023-03-03,249950,TA10 9TQ,S,N,F,1,,Maple Road,,Langport
+2023-02-27,95000,TA10 9TH,F,N,L,125,,Brookland Road,,Langport
+2023-02-27,400000,TA10 9NW,D,N,F,Thatch Cottage,,Hermitage Road,Upton,Langport
+2023-02-23,270000,TA10 0AG,S,Y,F,57,,Maple Road,Curry Rivel,Langport
+2023-02-15,435000,TA10 9BX,D,N,F,Loxhams,,,High Ham,Langport
+2023-02-13,380000,TA10 0PS,S,N,F,10,,Stanchester Way,Curry Rivel,Langport
+2023-02-09,455000,TA10 0EY,D,N,F,Linden Cottage,,High Street,Curry Rivel,Langport
+2023-02-03,325000,TA10 9TH,S,N,F,88,,Brookland Road,,Langport
+2023-02-01,150000,TA10 9TH,F,N,L,101,,Brookland Road,,Langport
+2023-01-25,780000,TA10 9JX,D,N,F,Wayfarers,,,Long Load,Langport
+2023-01-20,550000,TA10 0LE,D,N,F,Orchard Bungalow,,North Street,Drayton,Langport
+2023-01-20,138000,TA10 0DZ,F,N,L,Railway Hotel,Flat 5,,Westover,Langport
+2023-01-18,290000,TA10 0NJ,D,N,F,Quis Seperabit,,,Portfield,Langport
+2023-01-18,405000,TA10 0LG,S,N,F,The Coverts,1,North Street,Drayton,Langport
+2023-01-12,322500,TA10 9FG,D,N,F,20,,Collins Close,,Langport
+2023-01-06,710000,TA10 9DB,D,N,F,Torwood View,,,High Ham,Langport
+2022-12-20,282250,TA10 0DR,S,N,F,1,,Duck Cottages,Thorney,Langport
+2022-12-20,279950,TA10 0AR,T,N,F,3,,Ham Green,Hambridge,Langport
+2022-12-19,600000,TA10 9SE,D,Y,F,Wickson,,Newtown,,Langport
+2022-12-19,450000,TA10 0LN,S,N,F,Blackberry Court,3,School Street,Drayton,Langport
+2022-12-16,812000,TA10 9LB,D,N,F,Arnwood,,Martock Road,Long Load,Langport
+2022-12-16,235000,TA10 0HS,S,N,F,40,,Chatham Place,Curry Rivel,Langport
+2022-12-14,352500,TA10 9TP,S,N,F,11,,Iris Way,,Langport
+2022-12-14,255000,TA10 9RA,T,N,F,13,,Whatley,,Langport
+2022-12-12,540000,TA10 0HH,D,N,F,Forth House,,Water Street,Curry Rivel,Langport
+2022-12-09,249950,TA10 9TQ,S,N,F,1,,Maple Road,,Langport
+2022-12-09,190000,TA10 9TD,T,N,F,39,,Barrymore Close,,Langport
+2022-12-09,463884,TA10 9FQ,D,Y,F,18,,Lidwards Hill,,Langport
+2022-12-09,295000,TA10 9AH,S,N,F,5,,Middlefield Road,Pitney,Langport
+2022-12-09,1150000,TA10 9AG,D,N,F,Butterwell Farmhouse,,,Pitney,Langport
+2022-12-07,530000,TA10 9JW,D,N,F,High Banks,,New Street,Long Sutton,Langport
+2022-12-02,525000,TA10 9FQ,D,Y,F,31,,Lidwards Hill,,Langport
+2022-11-25,475000,TA10 9FQ,D,Y,F,20,,Lidwards Hill,,Langport
+2022-11-25,645000,TA10 0LD,D,N,F,Forge Cottage,,North Street,Drayton,Langport
+2022-11-24,365000,TA10 0EZ,D,N,F,5,,Hillside Close,Curry Rivel,Langport
+2022-11-21,446000,TA10 9SB,D,N,F,Oaklands,,Kennel Lane,,Langport
+2022-11-17,465000,TA10 9BH,D,N,F,Sedgemoor View,,,Henley,Langport
+2022-11-14,480000,TA10 9FJ,D,Y,F,5,,Badger Close,,Langport
+2022-11-10,811000,TA10 0LN,D,N,F,Langarth,,School Street,Drayton,Langport
+2022-11-07,200000,TA10 9TB,T,N,F,42,,Barrymore Close,,Langport
+2022-11-03,190000,TA10 9PU,F,N,L,Ouseley House,Flat 1,The Hill,,Langport
+2022-11-03,430050,TA10 9HL,D,N,F,32,,St Marys Park,,Langport
+2022-11-01,370000,TA10 0DL,S,N,F,1,,Manor Farm Cottages,Muchelney,Langport
+2022-10-31,395000,TA10 9ER,D,N,F,Victoria Cottage,,Wagg Drove,,Langport
+2022-10-31,205000,TA10 9BS,F,N,F,36,,Bartletts Elm,,Langport
+2022-10-28,220000,TA10 9TA,S,N,F,42,,Brookland Road,,Langport
+2022-10-28,330000,TA10 9HL,T,N,F,43,,St Marys Park,,Langport
+2022-10-28,549000,TA10 0HF,D,N,F,Barn Cottage,,The Green,Curry Rivel,Langport
+2022-10-28,620000,TA10 0AD,D,N,F,Ghillies Cottage,,Lower Wiltown,Curry Rivel,Langport
+2022-10-24,191000,TA10 9TG,S,N,F,8,,Walnut Road,,Langport
+2022-10-24,515000,TA10 9QH,D,N,F,4,Gardenside,St Gildas Close,,Langport
+2022-10-24,380000,TA10 0AL,T,N,F,1,,Underhill Cottages,Hambridge,Langport
+2022-10-21,485000,TA10 9FJ,D,Y,F,7,,Badger Close,,Langport
+2022-10-21,335000,TA10 9FH,D,N,F,2,,Hayes Close,,Langport
+2022-10-21,435000,TA10 0ER,D,N,F,1,,Blackdown View,Curry Rivel,Langport
+2022-10-19,400000,TA10 0JH,D,N,F,2,,Stoneyhurst Drive,Curry Rivel,Langport
+2022-10-19,485000,TA10 0DT,S,N,F,Lyndale,,,Thorney,Langport
+2022-10-17,675000,TA10 0PL,D,N,F,Wynnards,,Heale,Curry Rivel,Langport
+2022-10-17,395000,TA10 0JH,D,N,F,31,,Stoneyhurst Drive,Curry Rivel,Langport
+2022-10-14,695000,TA10 9SA,D,N,F,Windrush,,The Avenue,,Langport
+2022-10-10,540000,TA10 0DL,D,N,F,Willow Cottage,,,Muchelney,Langport
+2022-10-07,275000,TA10 9BW,T,N,F,16,,Fern Road,,Langport
+2022-10-06,280000,TA10 9QT,D,N,F,Millstream,,,Huish Episcopi,Langport
+2022-10-04,895000,TA10 9JU,D,N,F,Kingsmoor Cottage,,,Long Load,Langport
+2022-10-04,412000,TA10 0BW,D,N,F,Orchard View,,Ruskway Lane,Westport,Langport
+2022-09-30,1064650,TA10 9NG,D,N,F,Mundays Court,,,Long Sutton,Langport
+2022-09-30,510000,TA10 9FQ,D,Y,F,29,,Lidwards Hill,,Langport
+2022-09-30,345000,TA10 0EB,D,N,F,Lilac House,,Stanchester,Curry Rivel,Langport
+2022-09-28,475000,TA10 0HP,S,N,F,Garland Cottage,,Townsend,Curry Rivel,Langport
+2022-09-27,585000,TA10 0HY,D,N,F,Lynton Orchard,,Stoney Lane,Curry Rivel,Langport
+2022-09-23,615000,TA10 9AR,D,N,F,Pound House,,,Pitney,Langport
+2022-09-23,1475000,TA10 0DQ,D,N,F,The Almonry,,,Muchelney,Langport
+2022-09-20,440000,TA10 9FQ,D,Y,F,27,,Lidwards Hill,,Langport
+2022-09-16,450000,TA10 9FQ,D,Y,F,2,,Lidwards Hill,,Langport
+2022-09-16,330000,TA10 9FQ,D,Y,F,14,,Lidwards Hill,,Langport
+2022-09-16,280000,TA10 9BU,S,N,F,1,,Fern Road,,Langport
+2022-09-16,300000,TA10 0EL,S,N,F,28,,Abbey Close,Curry Rivel,Langport
+2022-09-16,208000,TA10 0EH,S,N,F,12,,Honeylands,Curry Rivel,Langport
+2022-09-15,500000,TA10 9AP,D,N,F,Glebe Farm,,Wood Birds Hill Lane,Pitney,Langport
+2022-09-14,721000,TA10 0LE,D,N,F,Norse Cottage,,North Street,Drayton,Langport
+2022-09-09,136875,TA10 9RZ,T,N,L,40,,The Embankment,,Langport
+2022-09-09,237500,TA10 0EW,S,N,F,41,,Parsonage Place,Curry Rivel,Langport
+2022-09-08,275000,TA10 0AG,S,Y,F,56,,Maple Road,Curry Rivel,Langport
+2022-09-05,255000,TA10 0AG,T,Y,F,48,,Maple Road,Curry Rivel,Langport
+2022-09-02,305000,TA10 0EH,S,N,F,6,,Honeylands,Curry Rivel,Langport
+2022-09-01,265000,TA10 0AG,T,Y,F,49,,Maple Road,Curry Rivel,Langport
+2022-08-31,580500,TA10 9JX,D,N,F,Stonecroft House,,,Long Load,Langport
+2022-08-31,450000,TA10 9FQ,D,Y,F,25,,Lidwards Hill,,Langport
+2022-08-31,330000,TA10 9FQ,D,Y,F,16,,Lidwards Hill,,Langport
+2022-08-31,235000,TA10 0PS,S,N,F,22A,,Stanchester Way,Curry Rivel,Langport
+2022-08-31,513000,TA10 0LD,S,N,F,Monksgate,,North Street,Drayton,Langport
+2022-08-30,525000,TA10 9FQ,D,Y,F,23,,Lidwards Hill,,Langport
+2022-08-30,275000,TA10 9BU,S,N,F,15,,Fern Road,,Langport
+2022-08-30,370000,TA10 0HW,D,N,F,Pear Tree Cottage,,Townsend,Curry Rivel,Langport
+2022-08-19,545000,TA10 9EA,D,N,F,4,,Hawthorne Close,High Ham,Langport
+2022-08-17,215000,TA10 0EF,T,N,F,Honeysuckle Cottage,,Churchway,Curry Rivel,Langport
+2022-08-17,310000,TA10 0EA,S,N,F,St Cleer,,Stanchester,Curry Rivel,Langport
+2022-08-15,132500,TA10 9PR,F,N,L,Castle House,Flat 1,Bow Street,,Langport
+2022-08-15,270000,TA10 0AG,S,Y,F,55,,Maple Road,Curry Rivel,Langport
+2022-08-15,270000,TA10 0AG,S,Y,F,54,,Maple Road,Curry Rivel,Langport
+2022-08-10,490000,TA10 9FQ,D,Y,F,21,,Lidwards Hill,,Langport
+2022-08-03,350000,TA10 9RN,T,N,F,2,,Old Chapel Court,,Langport
+2022-08-03,272500,TA10 9EF,S,N,F,Kelways Cottages,5,Iris Way,,Langport
+2022-07-29,325000,TA10 9QX,D,N,F,17,,Portland Road,Huish Episcopi,Langport
+2022-07-29,599950,TA10 9FR,D,Y,F,2,,Levels View,,Langport
+2022-07-29,420000,TA10 9FQ,D,Y,F,12,,Lidwards Hill,,Langport
+2022-07-29,550000,TA10 9DA,S,N,F,Middle House,,,High Ham,Langport
+2022-07-29,269950,TA10 0PU,S,N,F,76,,Stanchester Way,Curry Rivel,Langport
+2022-07-29,380000,TA10 0JH,D,N,F,32,,Stoneyhurst Drive,Curry Rivel,Langport
+2022-07-27,417000,TA10 0AU,D,N,F,Lilliards,,,Hambridge,Langport
+2022-07-25,255000,TA10 0AG,T,Y,F,47,,Maple Road,Curry Rivel,Langport
+2022-07-22,295800,TA10 9QS,T,N,F,4,,Courtfield,Huish Episcopi,Langport
+2022-07-22,195000,TA10 9PW,F,N,L,Norton House,Flat B,Cheapside,,Langport
+2022-07-22,260000,TA10 0PU,D,N,F,49,,Stanchester Way,Curry Rivel,Langport
+2022-07-21,227000,TA10 9SZ,T,N,F,14,,Brookland Road,,Langport
+2022-07-21,220000,TA10 9SU,S,N,F,27,,Garden City,,Langport
+2022-07-19,289950,TA10 9TH,S,N,F,94,,Brookland Road,,Langport
+2022-07-15,275000,TA10 9LF,S,N,F,12,,Meadow View,Long Load,Langport
+2022-07-15,425000,TA10 0AG,D,N,F,18,,Maple Road,Curry Rivel,Langport
+2022-07-08,395000,TA10 9RJ,S,N,F,19,,Broadmeads,Huish Episcopi,Langport
+2022-07-08,400000,TA10 9NL,S,N,F,Charity Cottages,2,Upton,Long Sutton,Langport
+2022-07-08,275000,TA10 0EG,S,N,F,2,,Bell Orchard,Curry Rivel,Langport
+2022-07-06,650000,TA10 0QT,D,N,F,Meadowside,,Aller Drove,Aller,Langport
+2022-06-30,570000,TA10 9FR,D,Y,F,7,,Levels View,,Langport
+2022-06-30,420000,TA10 9FR,D,Y,F,5,,Levels View,,Langport
+2022-06-30,415000,TA10 9FR,D,Y,F,13,,Levels View,,Langport
+2022-06-30,450000,TA10 9FR,D,Y,F,1,,Levels View,,Langport
+2022-06-27,265000,TA10 0AG,D,Y,F,46,,Maple Road,Curry Rivel,Langport
+2022-06-23,805000,TA10 0QG,D,N,F,Ballycombe Cottage,,Combe,Huish Episcopi,Langport
+2022-06-21,890000,TA10 9RW,D,N,F,Coppers,,North Street,,Langport
+2022-06-21,1100000,TA10 0AU,D,N,F,Burrow Hill View,,,Hambridge,Langport
+2022-06-17,135000,TA10 9BF,F,N,L,Redwood Grange,8,Bartletts Elm,,Langport
+2022-06-17,585000,TA10 0QJ,D,N,F,Fernhill,,,Wearne,Langport
+2022-06-17,176250,TA10 0AG,T,N,F,2,,Maple Road,Curry Rivel,Langport
+2022-06-07,625500,TA10 0JF,D,N,F,Darracott,,Wiltown,Curry Rivel,Langport
+2022-06-06,250000,TA10 9QS,S,N,F,9,,Courtfield,Huish Episcopi,Langport
+2022-05-31,148000,TA10 9PU,F,N,L,Ouseley House,Flat 2,The Hill,,Langport
+2022-05-31,250000,TA10 0QZ,D,N,F,2,,Peddles Close,Aller,Langport
+2022-05-27,610000,TA10 9HU,D,N,F,Sutton Meadow,,Martock Road,Long Sutton,Langport
+2022-05-27,95000,TA10 9BS,T,N,L,17,,Bartletts Elm,,Langport
+2022-05-27,228000,TA10 0JG,T,N,F,3,,Chatham Rise,Curry Rivel,Langport
+2022-05-19,395000,TA10 0AG,D,Y,F,45,,Maple Road,Curry Rivel,Langport
+2022-05-13,97000,TA10 0EL,F,N,L,42,,Abbey Close,Curry Rivel,Langport
+2022-05-11,380000,TA10 0AG,D,Y,F,43,,Maple Road,Curry Rivel,Langport
+2022-05-06,265000,TA10 0PU,T,N,F,47,,Stanchester Way,Curry Rivel,Langport
+2022-05-03,242500,TA10 9RJ,T,N,F,12,,Broadmeads,Huish Episcopi,Langport
+2022-05-03,242000,TA10 9QS,T,N,F,22,,Courtfield,Huish Episcopi,Langport
+2022-04-29,285000,TA10 9SE,D,Y,F,Akane,,Newtown,,Langport
+2022-04-25,375000,TA10 0AG,D,Y,F,42,,Maple Road,Curry Rivel,Langport
+2022-04-21,373000,TA10 9DB,D,N,F,Hillcrest,,,High Ham,Langport
+2022-04-14,295000,TA10 9SE,D,Y,F,Villbarie,,Newtown,,Langport
+2022-04-14,360000,TA10 9QY,D,N,F,Bridge Cottage,,,Huish Episcopi,Langport
+2022-04-14,408000,TA10 0DZ,D,N,F,Apple Trees,,,Westover,Langport
+2022-04-12,820000,TA10 9DB,D,N,F,Hillside Farm,,,High Ham,Langport
+2022-04-11,295000,TA10 9FQ,D,Y,F,19,,Lidwards Hill,,Langport
+2022-04-11,315000,TA10 0AG,D,Y,F,41,,Maple Road,Curry Rivel,Langport
+2022-04-08,395000,TA10 9AE,D,N,F,8,,Courthay Orchard,Pitney,Langport
+2022-04-07,258500,TA10 9EB,T,N,F,33,,Hamdown Court,,Langport
+2022-04-01,200000,TA10 9TD,T,N,F,64,,Barrymore Close,,Langport
+2022-04-01,300000,TA10 9HN,D,N,F,6,,Parsonage Close,,Langport
+2022-04-01,650000,TA10 9DB,D,N,F,Fountain House,,,High Ham,Langport
+2022-03-31,295000,TA10 9FQ,D,Y,F,1,,Lidwards Hill,,Langport
+2022-03-25,305000,TA10 9FQ,D,Y,F,17,,Lidwards Hill,,Langport
+2022-03-25,120000,TA10 0DZ,F,N,L,Railway Hotel,Flat 6,,Westover,Langport
+2022-03-24,300000,TA10 0AG,D,Y,F,38,,Maple Road,Curry Rivel,Langport
+2022-03-18,495000,TA10 9TU,D,N,F,Autumn Leaves,,The Beeches,,Langport
+2022-03-18,265000,TA10 9BU,S,N,F,17,,Fern Road,,Langport
+2022-03-18,305000,TA10 0PU,S,N,F,48,,Stanchester Way,Curry Rivel,Langport
+2022-03-18,285000,TA10 0BH,T,N,F,Avalon,,,Westport,Langport
+2022-03-18,305000,TA10 0AR,S,N,F,5,,Ham Green,Hambridge,Langport
+2022-03-14,360000,TA10 9SZ,D,N,F,1,,Brookland Road,,Langport
+2022-03-14,311750,TA10 9EE,S,N,F,1,,Kings Orchard Close,,Langport
+2022-03-11,660000,TA10 0LF,D,N,F,Keepers Cottage,,North Street,Drayton,Langport
+2022-03-10,234000,TA10 9RJ,T,N,F,9,,Broadmeads,Huish Episcopi,Langport
+2022-03-10,315000,TA10 9JX,D,N,F,White Gates,,,Long Load,Langport
+2022-03-10,260000,TA10 9JX,S,N,F,Algeda,,,Long Load,Langport
+2022-03-08,260000,TA10 9HL,S,N,F,37,,St Marys Park,,Langport
+2022-03-08,340000,TA10 0NY,D,N,F,Rose Cottage,,Back Lane,Curry Rivel,Langport
+2022-03-01,546500,TA10 9JA,T,N,F,Rose Cottage,,Bineham Road,Knole,Langport
+2022-02-28,222200,TA10 9PH,T,N,F,Flowerdale,,Bow Street,,Langport
+2022-02-28,365000,TA10 9HD,S,N,F,11,,St Marys Park,,Langport
+2022-02-28,390000,TA10 0AG,D,Y,F,40,,Maple Road,Curry Rivel,Langport
+2022-02-25,220000,TA10 9QS,T,N,F,29,,Courtfield,Huish Episcopi,Langport
+2022-02-25,655000,TA10 9BD,D,N,F,The Firs,,,High Ham,Langport
+2022-02-25,493500,TA10 0QP,D,N,F,The Willows,,Church Path,Aller,Langport
+2022-02-24,370000,TA10 9FL,S,N,F,5,,Ducks View,,Langport
+2022-02-24,247600,TA10 0HQ,S,N,F,Merchiston Cottage,,,Curry Rivel,Langport
+2022-02-18,270000,TA10 9BU,S,N,F,19,,Fern Road,,Langport
+2022-02-18,280000,TA10 0LN,S,N,F,Stream Farm Bungalow,,School Street,Drayton,Langport
+2022-02-18,390000,TA10 0BN,D,N,F,September Cottage,,,Westport,Langport
+2022-02-14,425000,TA10 0BE,S,N,F,4,,Hillview,Hambridge,Langport
+2022-02-11,835000,TA10 9NW,D,N,F,Garlands House,,Hermitage Road,Upton,Langport
+2022-02-11,300000,TA10 0EZ,T,N,F,Cosy Cottage,,High Street,Curry Rivel,Langport
+2022-02-09,517000,TA10 0HY,D,N,F,Camelot,,Stoney Lane,Curry Rivel,Langport
+2022-02-04,385000,TA10 0AG,D,Y,F,37,,Maple Road,Curry Rivel,Langport
+2022-02-03,350000,TA10 9UA,D,N,F,3,,The Firs,Huish Episcopi,Langport
+2022-02-02,295000,TA10 9PR,T,N,F,Bow Cottage,,Bow Street,,Langport
+2022-01-31,270000,TA10 0AG,S,Y,F,34,,Maple Road,Curry Rivel,Langport
+2022-01-28,280000,TA10 9NE,S,N,F,Tavenders Cottages,2,Langport Road,Long Sutton,Langport
+2022-01-27,380000,TA10 9FA,D,N,F,3,,Station Court,,Langport
+2022-01-25,794200,TA10 0QX,D,N,F,Charity House,,,Bere Aller,Langport
+2022-01-21,234000,TA10 9PR,D,N,F,Castle House Yard,Little House,Bow Street,,Langport
+2022-01-17,387000,TA10 9QH,D,N,F,6,,St Gildas Close,,Langport
+2022-01-14,240000,TA10 0RB,S,N,F,2,,Vale View,Aller,Langport
+2021-12-17,240000,TA10 9LR,S,N,F,1,,Church Walk,Long Sutton,Langport
+2021-12-17,295000,TA10 0HD,D,N,F,2,,King William Mews,Curry Rivel,Langport
+2021-12-14,525000,TA10 9EN,D,N,F,Millbrook House,,Ducks Hill,,Langport
+2021-12-13,385000,TA10 0JH,D,N,F,2,,Stoneyhurst Drive,Curry Rivel,Langport
+2021-12-10,215000,TA10 9TQ,S,N,F,12,,Maple Road,,Langport
+2021-12-09,252500,TA10 9FH,S,N,F,6,,Hayes Close,,Langport
+2021-12-09,380000,TA10 0AG,D,Y,F,36,,Maple Road,Curry Rivel,Langport
+2021-12-09,265000,TA10 0AG,S,Y,F,33,,Maple Road,Curry Rivel,Langport
+2021-12-06,400000,TA10 0HF,D,N,F,Hillcroft,,The Green,Curry Rivel,Langport
+2021-12-03,285000,TA10 0AG,D,Y,F,35,,Maple Road,Curry Rivel,Langport
+2021-12-02,460000,TA10 9BG,D,N,F,Headlong House,,,Henley,Langport
+2021-11-29,535000,TA10 9AQ,D,N,F,Hillside House,,,Pitney,Langport
+2021-11-26,186500,TA10 9TA,T,N,F,34,,Brookland Road,,Langport
+2021-11-23,200000,TA10 9TA,T,N,F,40,,Brookland Road,,Langport
+2021-11-23,260000,TA10 0EG,S,N,F,1,,Bell Orchard,Curry Rivel,Langport
+2021-11-22,231500,TA10 9TB,T,N,F,2,,Barrymore Close,,Langport
+2021-11-19,285000,TA10 9HD,S,N,F,27,,St Marys Park,,Langport
+2021-11-19,320000,TA10 0EL,D,N,F,20,,Abbey Close,Curry Rivel,Langport
+2021-11-18,345000,TA10 9TP,S,N,F,Mandrake Cottage,,Iris Way,,Langport
+2021-11-17,200500,TA10 9TD,T,N,F,31,,Barrymore Close,,Langport
+2021-11-17,115000,TA10 9BP,S,N,L,Cherry Court,9,Eastover,,Langport
+2021-11-16,300000,TA10 9HD,D,N,F,10,,St Marys Park,,Langport
+2021-11-15,391000,TA10 9ER,D,N,F,Brookside,,Wagg Drove,,Langport
+2021-11-15,265000,TA10 0PU,S,N,F,77,,Stanchester Way,Curry Rivel,Langport
+2021-10-29,310950,TA10 9HD,D,N,F,23,,St Marys Park,,Langport
+2021-10-14,260000,TA10 9RY,T,N,F,46,,Eastover,,Langport
+2021-10-14,465000,TA10 9NR,S,N,F,Long Acre,,Crouds Lane,Long Sutton,Langport
+2021-09-30,300000,TA10 9TN,S,N,F,5,,Delphinium Drive,,Langport
+2021-09-30,188000,TA10 9TG,T,N,F,4,,Walnut Road,,Langport
+2021-09-30,152000,TA10 9PH,T,N,F,80A,,Bow Street,,Langport
+2021-09-30,540000,TA10 9NU,D,N,F,Brookfield House,,Level View,Huish Episcopi,Langport
+2021-09-30,715000,TA10 9HH,D,N,F,Bicknells Bridge,Swanstone,,Huish Episcopi,Langport
+2021-09-30,650000,TA10 9BD,D,N,F,Blackham View,,,High Ham,Langport
+2021-09-30,440000,TA10 9AS,D,N,F,Stonebridge,,,Pitney,Langport
+2021-09-30,368000,TA10 9AE,D,N,F,"April Cottage, 7",,Courthay Orchard,Pitney,Langport
+2021-09-29,341000,TA10 9NR,S,N,F,Third Corner,,Crouds Lane,Long Sutton,Langport
+2021-09-29,299950,TA10 0PS,D,N,F,8,,Stanchester Way,Curry Rivel,Langport
+2021-09-28,230000,TA10 0BA,T,N,F,"Jessamine Cottage, 8",,Post Office Row,Hambridge,Langport
+2021-09-27,161050,TA10 9TH,F,N,L,75,,Brookland Road,,Langport
+2021-09-27,220000,TA10 9RA,T,N,F,9,,Whatley,,Langport
+2021-09-24,213000,TA10 0QT,S,N,F,Longstone Cottage,,Aller Drove,Aller,Langport
+2021-09-24,365000,TA10 0NR,D,N,F,Misty Cottage,,Stanchester,Curry Rivel,Langport
+2021-09-24,265000,TA10 0HW,D,N,F,Quarry Close Cottage,,Townsend,Curry Rivel,Langport
+2021-09-22,642000,TA10 9LD,S,N,F,Lavers Barn,,Martock Road,Long Load,Langport
+2021-09-21,155000,TA10 9RX,S,N,F,11,,Eastover,,Langport
+2021-09-17,230000,TA10 9SZ,T,N,F,16,,Brookland Road,,Langport
+2021-09-17,220000,TA10 9SU,S,N,F,51,,Garden City,,Langport
+2021-09-17,550000,TA10 9QD,T,N,F,Annandale,,The Hill,,Langport
+2021-09-17,495000,TA10 9LW,D,N,F,Pittsmoor,,,Long Sutton,Langport
+2021-09-17,710000,TA10 9HQ,D,N,F,Plough Cottage,,,Huish Episcopi,Langport
+2021-09-17,412000,TA10 9AD,D,N,F,Stonecutters,,Somerton Hill,,Langport
+2021-09-17,410000,TA10 0PX,D,N,F,1,,Dyers Close,Curry Rivel,Langport
+2021-09-16,425000,TA10 9JT,D,N,F,1,,Sutton View,Long Load,Langport
+2021-09-16,343000,TA10 9HW,D,N,F,36,,Bishops Drive,,Langport
+2021-09-16,250000,TA10 9BU,S,N,F,5,,Fern Road,,Langport
+2021-09-15,475000,TA10 9EB,D,N,F,20,,Hamdown Court,,Langport
+2021-09-10,224500,TA10 0RB,S,N,F,8,,Vale View,Aller,Langport
+2021-09-09,511000,TA10 9LD,D,N,F,Lype House,,Martock Road,Long Load,Langport
+2021-09-07,370000,TA10 0DL,D,N,F,The Old Forge,,,Muchelney,Langport
+2021-09-02,780000,TA10 9LD,D,N,F,The Old Parish Church,,Martock Road,Long Load,Langport
+2021-09-02,340000,TA10 0PS,D,N,F,9,,Stanchester Way,Curry Rivel,Langport
+2021-09-01,355000,TA10 0AG,D,N,F,27,,Maple Road,Curry Rivel,Langport
+2021-08-26,115000,TA10 9RR,F,N,L,8,,Moor Close,,Langport
+2021-08-25,303000,TA10 9QX,D,N,F,18,,Portland Road,Huish Episcopi,Langport
+2021-08-25,595000,TA10 9AR,D,N,F,Westchurch House,,,Pitney,Langport
+2021-08-23,125500,TA10 9BF,F,N,L,Redwood Grange,2,Bartletts Elm,,Langport
+2021-08-23,221000,TA10 0PU,S,N,F,36,,Stanchester Way,Curry Rivel,Langport
+2021-08-23,435000,TA10 0ER,D,N,F,9,,Blackdown View,Curry Rivel,Langport
+2021-08-23,300000,TA10 0BH,D,N,F,Burnside,,,Westport,Langport
+2021-08-20,285000,TA10 9TJ,S,N,F,10,,Willow Close,,Langport
+2021-08-19,260000,TA10 0PB,S,N,F,West Cottage,,Burton Road,Curry Rivel,Langport
+2021-08-16,229950,TA10 0EL,S,N,F,8,,Abbey Close,Curry Rivel,Langport
+2021-08-16,362000,TA10 0EL,D,N,F,41,,Abbey Close,Curry Rivel,Langport
+2021-08-13,465000,TA10 0QZ,D,N,F,6,,Peddles Close,Aller,Langport
+2021-08-13,247500,TA10 0DR,T,N,F,Millview Cottage,,,Thorney,Langport
+2021-08-09,289950,TA10 0AG,D,N,F,15,,Maple Road,Curry Rivel,Langport
+2021-07-30,285500,TA10 9QW,D,N,F,14,,Orchard Vale,Huish Episcopi,Langport
+2021-07-29,225000,TA10 0EW,D,N,F,Highbury,,Parsonage Place,Curry Rivel,Langport
+2021-07-28,245000,TA10 9QS,T,N,F,19,,Courtfield,Huish Episcopi,Langport
+2021-07-23,209000,TA10 9BS,T,N,F,77,,Bartletts Elm,,Langport
+2021-07-23,216000,TA10 0PU,S,N,F,68,,Stanchester Way,Curry Rivel,Langport
+2021-07-22,317500,TA10 9EZ,S,N,F,"Picts Hill Cottage, 2",,Picts Hill,,Langport
+2021-07-19,216000,TA10 0EW,S,N,F,41,,Parsonage Place,Curry Rivel,Langport
+2021-07-16,275000,TA10 9DR,S,N,F,Jubilee Cottages,1,,Low Ham,Langport
+2021-07-15,200000,TA10 0JX,D,N,F,Wyomin,,,Drayton,Langport
+2021-07-02,144100,TA10 9TD,T,N,F,31,,Barrymore Close,,Langport
+2021-07-02,240000,TA10 9EH,S,N,F,Gainsmarsh Farm,1,,Pibsbury,Langport
+2021-07-01,124500,TA10 9RL,F,N,L,Stonehouse Court,Flat 2,North Street,,Langport
+2021-06-30,275000,TA10 9SU,S,N,F,40,,Garden City,,Langport
+2021-06-30,460000,TA10 9SR,D,N,F,Uplands,,Field Road,,Langport
+2021-06-30,500000,TA10 9EW,D,N,F,The Old Nursery,1,Windmill Lane,Pibsbury,Langport
+2021-06-30,320000,TA10 0DZ,D,N,F,The Cottage,,,Westover,Langport
+2021-06-29,469950,TA10 9EX,D,N,F,Hill Top Cottage,,Picts Hill,,Langport
+2021-06-28,650000,TA10 0QQ,D,N,F,Sunnybank,,,Wearne,Langport
+2021-06-28,950000,TA10 0PQ,D,N,F,Heale Wold,,Heale Lane,Curry Rivel,Langport
+2021-06-25,390000,TA10 9FJ,D,Y,F,2A,,Badger Close,,Langport
+2021-06-25,335000,TA10 9EN,D,N,F,Ducks Hill Cottage,,Ducks Hill,,Langport
+2021-06-25,600000,TA10 9AS,S,N,F,1,,Church End,Pitney,Langport
+2021-06-25,230000,TA10 0PR,S,N,F,40,,Dyers Road,Curry Rivel,Langport
+2021-06-22,275000,TA10 9EB,T,N,F,39,,Hamdown Court,,Langport
+2021-06-22,382000,TA10 0EY,T,N,F,Cranford,,High Street,Curry Rivel,Langport
+2021-06-18,425000,TA10 9RH,S,N,F,Newhaven,,North Street,,Langport
+2021-06-18,181000,TA10 9BS,T,N,F,45,,Bartletts Elm,,Langport
+2021-06-16,315000,TA10 9HW,D,N,F,28,,Bishops Drive,,Langport
+2021-06-16,365000,TA10 0EB,D,N,F,Springfield House,,Stanchester,Curry Rivel,Langport
+2021-06-11,207000,TA10 9AD,S,N,F,Yew Tree Cottage,,Somerton Hill,,Langport
+2021-06-10,365000,TA10 0AP,S,N,F,Greenways End,,Playses Green,Hambridge,Langport
+2021-06-07,350000,TA10 9SE,D,N,F,Fern Cottage,,Newtown,,Langport
+2021-06-04,475000,TA10 9NR,D,N,F,Clear View,,Crouds Lane,Long Sutton,Langport
+2021-06-03,155000,TA10 0BH,T,N,F,Avalon,,,Westport,Langport
+2021-05-28,260000,TA10 9EB,T,N,F,7,,Hamdown Court,,Langport
+2021-05-28,225000,TA10 0EL,S,N,F,27,,Abbey Close,Curry Rivel,Langport
+2021-05-27,245000,TA10 9EB,S,N,F,6,,Hamdown Court,,Langport
+2021-05-27,1165000,TA10 0DL,D,N,F,Manor House,,,Muchelney,Langport
+2021-05-25,355000,TA10 9HL,D,N,F,50,,St Marys Park,,Langport
+2021-05-21,190000,TA10 9TD,S,N,F,29,,Barrymore Close,,Langport
+2021-05-19,200000,TA10 9DR,S,N,F,Jubilee Cottages,2,,Low Ham,Langport
+2021-05-11,436500,TA10 0DJ,S,N,F,The Bungalow,,,Muchelney Ham,Langport
+2021-05-10,198000,TA10 9AD,S,N,F,Hillcrest,,Somerton Hill,,Langport
+2021-05-07,106000,TA10 9TH,F,N,L,103,,Brookland Road,,Langport
+2021-05-07,220000,TA10 0JQ,S,N,F,3,,Hoskins Close,Curry Rivel,Langport
+2021-05-07,250000,TA10 0AN,T,N,F,Jasmine Cottage,,Underhill,Hambridge,Langport
+2021-05-05,280000,TA10 9NR,D,N,F,Orchard View,,Crouds Lane,Long Sutton,Langport
+2021-05-05,312500,TA10 9HW,D,N,F,10,,Bishops Drive,,Langport
+2021-05-04,165000,TA10 0BA,T,N,F,3,,Post Office Row,Hambridge,Langport
+2021-04-30,455000,TA10 9HB,D,N,F,The Coach House,,Wearne Lane,,Langport
+2021-04-28,230000,TA10 9RQ,S,N,F,Jubilee Cottage,,North Street,,Langport
+2021-04-26,215000,TA10 0PU,S,N,F,40,,Stanchester Way,Curry Rivel,Langport
+2021-04-23,454250,TA10 9EJ,D,N,F,Littlemoor,,,Pibsbury,Langport
+2021-04-23,450000,TA10 0LD,S,N,F,Box Cottage,,North Street,Drayton,Langport
+2021-04-23,420500,TA10 0ER,D,N,F,3,,Blackdown View,Curry Rivel,Langport
+2021-04-22,285000,TA10 9TF,D,N,F,2,,Newtown Park,,Langport
+2021-04-22,155000,TA10 9RS,S,N,F,4,,Eastover Close,,Langport
+2021-04-16,425000,TA10 0DZ,D,N,F,Riverside,,,Westover,Langport
+2021-04-16,397000,TA10 0AT,T,N,F,Womble Cottage,,The Green,Hambridge,Langport
+2021-04-15,289950,TA10 9FJ,S,Y,F,4,,Badger Close,,Langport
+2021-04-14,575000,TA10 9DP,S,N,F,Orchard Leigh,,,Low Ham,Langport
+2021-04-12,1380000,TA10 9DA,D,N,F,The Grange,,,High Ham,Langport
+2021-04-12,223000,TA10 0DZ,S,N,F,2,,,Westover,Langport
+2021-04-09,270000,TA10 9QW,D,N,F,13,,Orchard Vale,Huish Episcopi,Langport
+2021-04-07,246000,TA10 9ST,S,N,F,18A,,Garden City,,Langport
+2021-04-07,261000,TA10 9BF,S,N,F,Redwood Grange Coach House,,Bartletts Elm,,Langport
+2021-04-07,325000,TA10 0JH,D,N,F,2,,Stoneyhurst Drive,Curry Rivel,Langport
+2021-04-07,260000,TA10 0EL,S,N,F,12,,Abbey Close,Curry Rivel,Langport
+2021-04-01,286500,TA10 9FJ,S,Y,F,16,,Badger Close,,Langport
+2021-04-01,135000,TA10 9BF,F,N,L,Redwood Grange,11,Bartletts Elm,,Langport
+2021-03-31,127500,TA10 9BF,F,N,L,Redwood Grange,10,Bartletts Elm,,Langport
+2021-03-26,180000,TA10 9RY,S,N,F,40A,,Eastover,,Langport
+2021-03-25,305000,TA10 9RA,D,N,F,Little Close,,Whatley,,Langport
+2021-03-24,420000,TA10 9SA,S,N,F,1,,The Avenue,,Langport
+2021-03-23,401058,TA10 9EB,D,N,F,2,,Hamdown Court,,Langport
+2021-03-19,199000,TA10 9TB,S,N,F,7,,Barrymore Close,,Langport
+2021-03-19,127500,TA10 9PW,F,N,L,Norton House,Flat A,Cheapside,,Langport
+2021-03-19,345500,TA10 9AE,D,N,F,"Gunylda, 15",,Courthay Orchard,Pitney,Langport
+2021-03-19,235000,TA10 0PU,S,N,F,57,,Stanchester Way,Curry Rivel,Langport
+2021-03-19,525000,TA10 0PG,D,N,F,Pensfold,,Heale Lane,Curry Rivel,Langport
+2021-03-18,575000,TA10 9AU,D,N,F,Glenmoor,,,Pitney,Langport
+2021-03-16,250000,TA10 0EF,S,N,F,Churchways,,Churchway,Curry Rivel,Langport
+2021-03-15,225000,TA10 0PU,T,N,F,47,,Stanchester Way,Curry Rivel,Langport
+2021-03-12,197500,TA10 9PJ,S,N,F,Baulks Yard,New House,Bow Street,,Langport
+2021-03-12,335000,TA10 9JX,D,N,F,Ashmead Cottage,,,Long Load,Langport
+2021-03-12,415000,TA10 0QN,D,N,F,Stonebrick House,,,Aller,Langport
+2021-03-12,230000,TA10 0EW,S,N,F,2,,Parsonage Place,Curry Rivel,Langport
+2021-03-10,575000,TA10 9JA,D,N,F,Charnwood,,Bineham Road,Knole,Langport
+2021-03-09,475000,TA10 9LR,D,N,F,Little Thatch,,Cross Lane,Long Sutton,Langport
+2021-03-08,400000,TA10 9SH,D,N,F,14,,Meadow Close,,Langport
+2021-03-08,425000,TA10 0EH,S,N,F,8,,Honeylands,Curry Rivel,Langport
+2021-03-05,170000,TA10 9PX,T,N,F,26,,Moor Park,,Langport
+2021-03-05,287000,TA10 9ND,D,N,F,Shapcott Cottage,,Langport Road,Long Sutton,Langport
+2021-03-05,790000,TA10 0NY,D,N,F,Willowview House,,Back Lane,Curry Rivel,Langport
+2021-03-05,625000,TA10 0JZ,D,N,F,Jasmine Cottage,,East Street,Drayton,Langport
+2021-03-04,285000,TA10 9PP,D,N,F,3,,Bush Place,,Langport
+2021-03-04,557000,TA10 9ER,D,N,F,Wagg House,,Wagg Drove,,Langport
+2021-03-04,310000,TA10 0HN,S,N,F,Sunnyside,,Townsend,Curry Rivel,Langport
+2021-03-02,305000,TA10 0QT,D,N,F,Longstone Lodge,,Aller Drove,Aller,Langport
+2021-03-01,255000,TA10 0HD,D,N,F,1,,King William Mews,Curry Rivel,Langport
+2021-02-26,289950,TA10 9FJ,S,Y,F,14,,Badger Close,,Langport
+2021-02-26,475000,TA10 0HP,D,N,F,Woodyette House,,Townsend,Curry Rivel,Langport
+2021-02-25,625000,TA10 9EJ,D,N,F,Oak View,,,Pibsbury,Langport
+2021-02-25,920000,TA10 9DB,D,N,F,Farthings,,,High Ham,Langport
+2021-02-25,1400000,TA10 0QX,D,N,F,King Moor House,,,Bere Aller,Langport
+2021-02-24,291000,TA10 9SH,D,N,F,25,,Meadow Close,,Langport
+2021-02-23,165000,TA10 0QP,D,N,F,Juglands,,Church Path,Aller,Langport
+2021-02-22,225000,TA10 9PJ,D,N,F,Glenmoor,,Bow Street,,Langport
+2021-02-22,600000,TA10 9BZ,T,N,F,Wheelwrights,,,High Ham,Langport
+2021-02-22,412500,TA10 0DZ,D,N,F,The Arches,,,Westover,Langport
+2021-02-19,587000,TA10 9JE,T,N,F,Owls Barn,,,Knole,Langport
+2021-02-18,500000,TA10 9EW,D,N,F,The Old Nursery,2,Windmill Lane,Pibsbury,Langport
+2021-02-17,425000,TA10 9TP,D,N,F,19,,Iris Way,,Langport
+2021-02-17,345000,TA10 9AE,D,N,F,"April Cottage, 7",,Courthay Orchard,Pitney,Langport
+2021-02-17,367500,TA10 0AP,D,N,F,6,,Playses Green,Hambridge,Langport
+2021-02-12,289950,TA10 9FJ,S,Y,F,6,,Badger Close,,Langport
+2021-02-10,375000,TA10 0EL,D,N,F,49,,Abbey Close,Curry Rivel,Langport
+2021-02-09,295000,TA10 9EB,D,N,F,29,,Hamdown Court,,Langport
+2021-02-09,395000,TA10 0DZ,D,N,F,The Locks,,,Westover,Langport
+2021-02-08,330000,TA10 0PP,D,N,F,Sprackets Orchard,,,Curry Rivel,Langport
+2021-02-05,289000,TA10 9FJ,S,Y,F,10,,Badger Close,,Langport
+2021-02-05,353000,TA10 0PR,D,N,F,Blue Lias Cottage,,Dyers Road,Curry Rivel,Langport
+2021-02-01,288000,TA10 9FJ,S,Y,F,2,,Badger Close,,Langport
+2021-02-01,238000,TA10 0QN,S,N,F,Greystone,,,Aller,Langport
+2021-01-29,550000,TA10 9LU,D,N,F,Hillcrest,,Shute Lane,Long Sutton,Langport
+2021-01-29,400000,TA10 9EW,D,N,F,Highfield Barn,,Windmill Lane,Pibsbury,Langport
+2021-01-29,427500,TA10 0JU,S,N,F,Cobwebs,,,Drayton,Langport
+2021-01-29,192500,TA10 0DZ,T,N,F,1,,,Westover,Langport
+2021-01-28,685000,TA10 0HW,D,N,F,Stoneymead,,Townsend,Curry Rivel,Langport
+2021-01-26,420000,TA10 9AA,D,N,F,Stamford,,Picts Hill,,Langport
+2021-01-25,123000,TA10 9TH,F,N,L,59,,Brookland Road,,Langport
+2021-01-25,457500,TA10 9NP,D,N,F,Carpenters Cottage,,Hermitage Road,Upton,Langport
+2021-01-22,215000,TA10 9QF,S,N,F,White Chapel,,The Hill,,Langport
+2021-01-22,225000,TA10 9HD,S,N,F,12,,St Marys Park,,Langport
+2021-01-22,700000,TA10 0NF,D,N,F,Park Lane Farmhouse,,Park Lane,,Langport
+2021-01-22,230000,TA10 0AG,D,N,F,32,,Maple Road,Curry Rivel,Langport
+2021-01-21,427000,TA10 0BJ,D,N,F,Maple House,,,Westport,Langport
+2021-01-19,390000,TA10 9SG,D,N,F,Jacanda,,Somerton Road,,Langport
+2021-01-19,627000,TA10 9JB,D,N,F,Bennets Orchard,,,Knole,Langport
+2021-01-15,370000,TA10 9SE,D,N,F,Newlyn,,Newtown,,Langport
+2021-01-15,289950,TA10 9FJ,S,Y,F,8,,Badger Close,,Langport
+2021-01-15,1040000,TA10 9DN,S,N,F,Tower Mill Barn,,Long Street,High Ham,Langport
+2021-01-15,835000,TA10 9DF,D,N,F,Court Barn,,,High Ham,Langport
+2021-01-15,396100,TA10 0NG,S,N,F,Hill Tops,,Sandpitts Hill,,Langport
+2021-01-15,275000,TA10 0BT,S,N,F,1,,School Mews,Curry Rivel,Langport
+2021-01-11,300000,TA10 0EL,D,N,F,20,,Abbey Close,Curry Rivel,Langport
+2021-01-06,525000,TA10 9BH,D,N,F,Chapel Farm,,,Henley,Langport

@@ -1,0 +1,853 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-19,585000,SO24 9HW,T,N,F,13,,Bridge Road,,Alresford
+2026-08-14,367000,SO24 9PE,T,N,F,49,,Benenden Green,,Alresford
+2026-08-12,600000,SO24 9PA,D,N,F,The Cauldron,,Tichborne Down,,Alresford
+2026-08-10,320000,SO24 9FT,F,N,L,19,,Wayfarer Place,,Alresford
+2026-08-07,415000,SO24 0BW,T,N,F,6,,Dene Terrace,Ropley,Alresford
+2026-07-31,465000,SO24 0BJ,S,N,F,4,,Dene Cottages,Ropley,Alresford
+2026-07-29,490000,SO24 9QP,D,N,F,Dawson,,New Farm Road,,Alresford
+2026-07-29,950000,SO24 9LJ,D,N,F,70,,Jacklyns Lane,,Alresford
+2026-07-29,525000,SO24 9JS,S,N,F,10,,Beech Road,,Alresford
+2026-07-27,575000,SO24 9JS,D,N,F,12,,Beech Road,,Alresford
+2026-07-23,1230000,SO24 9FH,D,N,F,2,,Stiles Yard,,Alresford
+2026-07-22,725000,SO24 0QZ,D,N,F,Evenlode Cottage,,,Itchen Stoke,Alresford
+2026-07-21,599950,SO24 9DE,T,N,F,"Braeburn Cottage, 5",,Orchard Dean,,Alresford
+2026-07-03,1875000,SO24 0EL,D,N,F,Beaulieu,,Stapley Lane,Ropley,Alresford
+2026-07-01,495000,SO24 9QX,S,N,F,4,,Bakeland Gardens,,Alresford
+2026-06-30,525000,SO24 9UE,T,N,F,8,,Langtons Court,,Alresford
+2026-06-30,799950,SO24 9NN,D,N,F,6,,Buttermere Gardens,,Alresford
+2026-06-30,975000,SO24 0HP,D,N,F,Hinton Woodlands,Old Cottage,Woodlands,Bramdean,Alresford
+2026-06-29,485000,SO24 9BA,S,N,F,9,,Arle Gardens,,Alresford
+2026-06-25,320000,SO24 9AZ,S,N,F,40,,The Dean,,Alresford
+2026-06-24,275000,SO24 9ND,T,N,F,70,,Appledown Close,,Alresford
+2026-06-24,225000,SO24 9DE,F,N,L,Cogswell House,Flat 1,Orchard Dean,,Alresford
+2026-06-22,372500,SO24 0NS,S,N,F,Cob Cottage,,,Kilmeston,Alresford
+2026-06-19,199950,SO24 9XE,T,N,F,Bell House,16,Headley Close,,Alresford
+2026-06-12,863528,SO24 9UB,S,N,F,4,,Hassock Farm Cottage,Northington Down,Alresford
+2026-06-12,525000,SO24 9TU,S,N,F,"Honeybee House, 6",,Gravel Close,Brown Candover,Alresford
+2026-06-12,195000,SO24 9NZ,F,N,L,10,,Robins Court,,Alresford
+2026-06-02,385000,SO24 9QS,T,N,F,2,,New Farm Road,,Alresford
+2026-05-28,570000,SO24 9DE,T,N,F,"Pear Tree Cottage, 10",,Orchard Dean,,Alresford
+2026-05-22,210000,SO24 9LE,S,N,F,6,,Hawthorn Close,,Alresford
+2026-05-20,950000,SO24 9LF,D,N,F,"Avanlee, 65",,Jacklyns Lane,,Alresford
+2026-05-19,200000,SO24 9QJ,F,N,L,Brooklyn Court,1,New Farm Road,,Alresford
+2026-05-18,640000,SO24 9PF,T,N,F,6,,Benenden Green,,Alresford
+2026-05-15,275000,SO24 9FT,F,N,L,18,,Wayfarer Place,,Alresford
+2026-05-14,915000,SO24 0BT,D,N,F,Little Felden,,Gascoigne Lane,Ropley,Alresford
+2026-05-13,975000,SO24 0HB,D,N,F,Woodside,,Petersfield Road,Monkwood,Alresford
+2026-05-01,273000,SO24 9NZ,F,N,L,8,,Robins Court,,Alresford
+2026-04-30,605000,SO24 9JZ,T,N,F,49,,Oak Hill,,Alresford
+2026-04-29,940000,SO24 9RE,D,N,F,Oak Cottage,,,Bighton,Alresford
+2026-04-24,675000,SO24 9JX,D,N,F,16,,Elm Road,,Alresford
+2026-04-09,605000,SO24 0DW,D,N,F,The Hermitage,,Lyeway Lane,Ropley,Alresford
+2026-04-02,830000,SO24 9PR,D,N,F,32,,Fair View,,Alresford
+2026-03-31,200000,SO24 9FH,F,N,L,5,Flat 3,Stiles Yard,,Alresford
+2026-03-30,730000,SO24 0QA,S,N,F,2,,Parkers Cottages,Cheriton,Alresford
+2026-03-20,450000,SO24 9JA,S,N,F,4,,Jesty Road,,Alresford
+2026-03-20,424000,SO24 9BA,S,N,F,16,,Arle Gardens,,Alresford
+2026-03-13,1700000,SO24 9QH,D,N,F,Westwood,,New Farm Road,,Alresford
+2026-03-06,425000,SO24 9JD,S,N,F,5,,Lovells Walk,,Alresford
+2026-03-03,610000,SO24 9BA,D,N,F,19,,Arle Gardens,,Alresford
+2026-03-02,1655000,SO24 9TQ,D,N,F,East Lodge,,,Swarraton,Alresford
+2026-03-02,995000,SO24 9LX,D,N,F,5,,Haig Road,,Alresford
+2026-03-01,360000,SO24 9FT,F,N,L,20,,Wayfarer Place,,Alresford
+2026-02-27,480000,SO24 0QF,D,N,F,20,,Markall Close,Cheriton,Alresford
+2026-02-24,515000,SO24 9JZ,D,N,F,25,,Oak Hill,,Alresford
+2026-02-06,375000,SO24 9FD,T,N,F,Hankins Court,9,Jacklyns Lane,,Alresford
+2026-02-04,2100000,SO24 9DF,D,N,F,Ladywell House,,Ladywell Lane,,Alresford
+2026-01-30,970000,SO24 0DU,D,N,F,Ashley Cottage,,Vicarage Lane,Ropley,Alresford
+2026-01-28,575000,SO24 9PG,D,N,F,10,,Dover Close,,Alresford
+2026-01-23,495000,SO24 9QP,D,N,F,Corner Cottage,,New Farm Road,,Alresford
+2026-01-16,585000,SO24 9PH,D,N,F,22,,Corfe Close,,Alresford
+2026-01-16,505000,SO24 9JZ,D,N,F,13,,Oak Hill,,Alresford
+2026-01-16,550000,SO24 9JS,S,N,F,4,,Beech Road,,Alresford
+2026-01-16,625676,SO24 0QE,D,N,F,13,,Raebarn Close,Cheriton,Alresford
+2026-01-09,590000,SO24 9JZ,D,N,F,77,,Oak Hill,,Alresford
+2026-01-09,180000,SO24 9EY,F,N,L,21,,Ellingham Close,,Alresford
+2025-12-19,300000,SO24 9XE,T,N,F,Bell House,22,Headley Close,,Alresford
+2025-12-18,550000,SO24 9JT,S,N,F,16,,Nursery Road,,Alresford
+2025-12-18,1515000,SO24 0EP,D,N,F,The Blackberry Patch,,Parkstone Road,Ropley,Alresford
+2025-12-17,385000,SO24 0NH,T,N,F,3,,Petersfield Road,Cheriton,Alresford
+2025-12-15,685000,SO24 9LX,D,N,F,The Lilacs,,Haig Road,,Alresford
+2025-12-15,425000,SO24 0DY,D,N,F,Elm Cottage,,South Street,Ropley,Alresford
+2025-12-12,680000,SO24 9SW,D,N,F,Little Acre,,Bighton Lane,Gundleton,Alresford
+2025-12-12,435000,SO24 9PX,T,N,F,17,,Hasted Drive,,Alresford
+2025-12-10,340000,SO24 0DT,T,N,F,4,,Church Cottages,Ropley,Alresford
+2025-12-09,920000,SO24 9SQ,D,N,F,Anton,,Bighton Hill,Ropley,Alresford
+2025-12-09,1500000,SO24 9JJ,D,N,F,"Foxdale, 26",,Jacklyns Lane,,Alresford
+2025-12-08,515000,SO24 0PX,D,N,F,Victoria Cottage,,,Cheriton,Alresford
+2025-12-08,1680000,SO24 0EL,D,N,F,Willow Barn,,Stapley Lane,Ropley,Alresford
+2025-12-05,318000,SO24 0NH,T,N,F,6,,Petersfield Road,Cheriton,Alresford
+2025-12-03,990000,SO24 0RE,D,N,F,Amber House,,,Ovington,Alresford
+2025-12-02,470000,SO24 9JR,S,N,F,38,,Nursery Road,,Alresford
+2025-12-02,645000,SO24 9JB,D,N,F,2,,Down Gate,,Alresford
+2025-12-02,563000,SO24 9BZ,S,N,F,2,,Park Mount,,Alresford
+2025-12-02,570000,SO24 9BA,D,N,F,12,,Arle Gardens,,Alresford
+2025-11-28,380500,SO24 9BB,T,N,F,5,,Hill Terrace,,Alresford
+2025-11-28,377500,SO24 0PW,S,N,F,Little Thatch,,,Cheriton,Alresford
+2025-11-24,610000,SO24 9JS,D,N,F,53,,Beech Road,,Alresford
+2025-11-24,1200000,SO24 9EQ,D,N,F,"The Barn, 52A",,East Street,,Alresford
+2025-11-19,480000,SO24 9BX,S,N,F,1,,Mallard Close,,Alresford
+2025-11-17,410000,SO24 9EU,T,N,F,50,,De Lucy Avenue,,Alresford
+2025-11-14,325000,SO24 9QX,S,N,L,8,,Bakeland Gardens,,Alresford
+2025-11-14,425000,SO24 9LJ,D,N,F,72,,Jacklyns Lane,,Alresford
+2025-11-11,675000,SO24 9SJ,S,N,F,Close View,,Inhams Row,Old Alresford,Alresford
+2025-11-11,715000,SO24 9NJ,D,N,F,4,,Sun Hill Crescent,,Alresford
+2025-11-06,1490000,SO24 9UJ,D,N,F,"Bowden House, 4",,Bay Tree Yard,,Alresford
+2025-11-06,735000,SO24 0AL,D,N,F,Rookery Cottage,,,Bishops Sutton,Alresford
+2025-11-05,525000,SO24 9PA,S,N,F,Sannox,,Tichborne Down,,Alresford
+2025-11-05,645000,SO24 0BS,D,N,F,Clifton House,,Winchester Road,Ropley,Alresford
+2025-10-31,470000,SO24 9PE,S,N,F,3,,Benenden Green,,Alresford
+2025-10-28,1138000,SO24 9TN,D,N,F,Pegs Cottage,,,Brown Candover,Alresford
+2025-10-22,595000,SO24 9PG,D,N,F,6,,Dover Close,,Alresford
+2025-10-21,470000,SO24 9LY,T,N,F,4,,Edward Terrace,,Alresford
+2025-10-21,1350000,SO24 0NW,D,N,F,Nutleys,,Kilmeston Road,Kilmeston,Alresford
+2025-10-21,960000,SO24 0ER,D,N,F,Wild Patch,,Soames Lane,Ropley,Alresford
+2025-10-13,480000,SO24 9JY,S,N,F,6,,Bramble Hill,,Alresford
+2025-10-08,531699,SO24 0QR,T,N,F,Alma Cottages,Emleas 1,Ladycroft,,Alresford
+2025-10-07,1427200,SO24 0RG,D,N,F,The Lakehouse,,Ladycroft,,Alresford
+2025-10-03,465000,SO24 9JR,S,N,F,40,,Nursery Road,,Alresford
+2025-10-03,435000,SO24 9HL,S,N,F,18,,Mitford Road,,Alresford
+2025-10-03,800000,SO24 9EZ,D,N,F,Hills Lea,,Winchester Road,,Alresford
+2025-10-01,555000,SO24 9JZ,D,N,F,61,,Oak Hill,,Alresford
+2025-10-01,865000,SO24 9DU,D,N,F,Sawyers,,Kiln Lane,Old Alresford,Alresford
+2025-10-01,1100000,SO24 0HW,D,N,F,Upper House Farm,4,,Woodlands,Alresford
+2025-09-30,290000,SO24 9HW,D,N,F,Blackberry Cottage,,Bridge Road,,Alresford
+2025-09-29,405000,SO24 9PX,T,N,F,31,,Hasted Drive,,Alresford
+2025-09-29,240000,SO24 9HZ,F,N,L,5A,,Meryon Road,,Alresford
+2025-09-11,308000,SO24 9HH,S,N,F,36,,Ashburton Road,,Alresford
+2025-09-05,176000,SO24 9EY,F,N,L,18,,Ellingham Close,,Alresford
+2025-09-05,730000,SO24 9DA,S,N,F,51,,Broad Street,,Alresford
+2025-09-03,445000,SO24 9JJ,T,N,F,16,,Jacklyns Lane,,Alresford
+2025-09-02,540000,SO24 9UE,T,N,F,3,,Langtons Court,,Alresford
+2025-09-02,305000,SO24 9DE,F,N,L,Cogswell House,Flat 5,Orchard Dean,,Alresford
+2025-08-28,1300000,SO24 9DH,D,N,F,Mulberry Place,,,Old Alresford,Alresford
+2025-08-27,1475000,SO24 9TH,D,N,F,Brookside,,,Northington,Alresford
+2025-08-27,665000,SO24 9RD,D,N,F,1,,Malthouse Lane,Bighton,Alresford
+2025-08-22,280000,SO24 9DE,F,N,L,Cogswell House,Flat 4,Orchard Dean,,Alresford
+2025-08-22,820000,SO24 0DU,D,N,F,Woodpeckers,,Vicarage Lane,Ropley,Alresford
+2025-08-21,1915000,SO24 0EA,D,N,F,Eglantine House,,Church Lane,Ropley,Alresford
+2025-08-18,520000,SO24 9FE,T,N,F,23,,Thornton Close,,Alresford
+2025-08-18,645000,SO24 0BS,D,N,F,1,,Glendown Gardens,Ropley,Alresford
+2025-08-14,805000,SO24 9SA,D,N,F,4,,Oakmoor Cottages,Bradley,Alresford
+2025-08-07,680000,SO24 0QG,S,N,F,Brook House,,,Cheriton,Alresford
+2025-08-06,625000,SO24 0EQ,S,N,F,Berleigh Cottages,1,Petersfield Road,Ropley,Alresford
+2025-08-01,172500,SO24 9XE,F,N,L,Bell House,6,Headley Close,,Alresford
+2025-08-01,750000,SO24 9FP,D,N,F,14,,Colebrook Field,Ropley,Alresford
+2025-08-01,284000,SO24 0BG,D,N,F,Brambles,,The Dene,Ropley,Alresford
+2025-07-29,765000,SO24 9UR,S,N,F,11,,Southdowns,Old Alresford,Alresford
+2025-07-24,1275000,SO24 0NA,D,N,F,Park View Cottage,,,Tichborne,Alresford
+2025-07-22,525000,SO24 9PU,S,N,F,29,,Lindley Gardens,,Alresford
+2025-07-18,1790000,SO24 0BZ,D,N,F,Westfield House,,Andrews Lane,Ropley,Alresford
+2025-07-17,385000,SO24 9JP,T,N,F,4,,Ash Walk,,Alresford
+2025-07-10,695000,SO24 9HB,D,N,F,35,,Grange Road,,Alresford
+2025-07-08,795000,SO24 9FR,D,N,F,2,,Pear Tree Close,,Alresford
+2025-07-04,470000,SO24 9QR,S,N,F,9,,Dorian Grove,,Alresford
+2025-07-04,600000,SO24 9PU,D,N,F,10,,Lindley Gardens,,Alresford
+2025-07-04,308000,SO24 9HY,D,N,F,37A,,Mitford Road,,Alresford
+2025-07-01,630000,SO24 9UE,T,N,F,1,,Langtons Court,,Alresford
+2025-06-20,1425000,SO24 9SP,D,N,F,Hydawn,,Goscombe Lane,Gundleton,Alresford
+2025-06-20,626500,SO24 9ES,D,N,F,Arlebury Park Barns,Little Barn,,,Alresford
+2025-06-18,445000,SO24 9PY,S,N,F,48,,Orchard Close,,Alresford
+2025-06-18,675000,SO24 0BH,D,N,F,Dene Acre,2,The Dene,Ropley,Alresford
+2025-06-17,1200000,SO24 0NL,D,N,F,Manor Cottage,,Dean House Lane,Kilmeston,Alresford
+2025-06-13,475000,SO24 9PX,T,N,F,29,,Hasted Drive,,Alresford
+2025-06-13,320000,SO24 9DL,T,N,F,Alma Cottages,3,Basingstoke Road,Old Alresford,Alresford
+2025-06-13,518000,SO24 0DU,S,N,F,Homeside,2,Vicarage Lane,Ropley,Alresford
+2025-06-12,890000,SO24 0AG,D,N,F,Tylers,,School Lane,Bishops Sutton,Alresford
+2025-06-11,1400000,SO24 9RT,D,N,F,Upper Wield House,,,Upper Wield,Alresford
+2025-06-06,365000,SO24 0NH,T,N,F,5,,Petersfield Road,Cheriton,Alresford
+2025-06-03,595000,SO24 9PT,T,N,F,16A,,Witton Hill,,Alresford
+2025-06-03,465000,SO24 9BH,S,N,F,Rosemoor,,The Dean,,Alresford
+2025-06-02,585000,SO24 9HF,D,N,F,74,,Grange Road,,Alresford
+2025-05-23,1299000,SO24 0EL,D,N,F,Middlefields,,Stapley Lane,Ropley,Alresford
+2025-05-14,273750,SO24 9ED,D,N,F,Granary Yard,3,Lawrence Wright Passage,,Alresford
+2025-05-09,780000,SO24 0HD,D,N,F,Hazle Barn,,Smugglers Lane,Monkwood,Alresford
+2025-05-02,220000,SO24 9ND,T,N,F,52,,Appledown Close,,Alresford
+2025-04-14,760000,SO24 9PR,D,N,F,8,,Fair View,,Alresford
+2025-04-14,450000,SO24 9PF,S,N,F,4,,Benenden Green,,Alresford
+2025-03-31,455000,SO24 9TQ,T,N,F,Severals Cottages,99,,Swarraton,Alresford
+2025-03-31,450000,SO24 9QR,S,N,F,2,,Dorian Grove,,Alresford
+2025-03-31,950000,SO24 9HB,D,N,F,22,,Grange Road,,Alresford
+2025-03-31,425000,SO24 0FG,T,Y,F,Chequers,5,Winchester Road,Ropley,Alresford
+2025-03-28,1025000,SO24 9LU,T,N,F,1,,Churchyard Cottages,,Alresford
+2025-03-28,1298000,SO24 0PN,D,N,F,Crooked Billet,,,Tichborne,Alresford
+2025-03-25,675000,SO24 9PP,D,N,F,15,,Shepherds Down,,Alresford
+2025-03-25,530000,SO24 9PA,S,N,F,Palings,,Tichborne Down,,Alresford
+2025-03-24,780000,SO24 9RB,D,N,F,Foxgloves,,,Bighton,Alresford
+2025-03-24,505000,SO24 9LD,S,N,F,9,,Lime Road,,Alresford
+2025-03-21,910000,SO24 9SW,D,N,F,High View,,Bighton Lane,Gundleton,Alresford
+2025-03-21,445000,SO24 9JT,S,N,F,18,,Nursery Road,,Alresford
+2025-03-20,457500,SO24 9ND,S,N,F,8,,Appledown Close,,Alresford
+2025-03-17,550000,SO24 9PP,D,N,F,32,,Shepherds Down,,Alresford
+2025-03-17,310000,SO24 9ND,T,N,F,49,,Appledown Close,,Alresford
+2025-02-28,720000,SO24 9PJ,D,N,F,4,,Arundel Close,,Alresford
+2025-02-28,250000,SO24 9JA,S,N,F,3A,,Jesty Road,,Alresford
+2025-02-28,1100000,SO24 0EU,D,N,F,5,,Greys Farm Close,Cheriton,Alresford
+2025-02-27,440000,SO24 9PS,T,N,F,8,,Russet Close,,Alresford
+2025-02-24,9600998,SO24 9TW,D,N,F,Church Lane Farm,,,Brown Candover,Alresford
+2025-02-21,555000,SO24 9EU,S,N,F,54,,De Lucy Avenue,,Alresford
+2025-02-19,577500,SO24 9JS,D,N,F,27,,Beech Road,,Alresford
+2025-02-17,250000,SO24 9LQ,F,N,L,3,,Robertson Road,,Alresford
+2025-02-17,430000,SO24 9BA,S,N,F,17,,Arle Gardens,,Alresford
+2025-02-11,1000000,SO24 9DB,D,N,F,19,,The Soke,,Alresford
+2025-02-10,470000,SO24 0BX,D,N,F,Cornflowers,,Dunsells Lane,Ropley,Alresford
+2025-02-07,420000,SO24 9PS,T,N,F,6,,Russet Close,,Alresford
+2025-02-07,750000,SO24 0FB,D,N,F,4,,Stone Corner,Ropley,Alresford
+2025-01-23,420000,SO24 9EE,T,N,F,"The Blue Door, 7",,East Street,,Alresford
+2025-01-21,1170000,SO24 9TR,D,N,F,Barn Cottage,,,Brown Candover,Alresford
+2025-01-21,980000,SO24 0HH,D,N,F,Brick Kiln Farm Barn,,,West Tisted,Alresford
+2025-01-16,180000,SO24 9EY,F,N,L,29,,Ellingham Close,,Alresford
+2025-01-06,599500,SO24 9JX,D,N,F,6,,Elm Road,,Alresford
+2025-01-06,695000,SO24 9HG,D,N,F,12,,Salisbury Road,,Alresford
+2024-12-20,161000,SO24 9EY,F,N,L,33,,Ellingham Close,,Alresford
+2024-12-19,700000,SO24 9RY,D,N,F,Bradley Farm,Plot 1,,Bradley,Alresford
+2024-12-18,335000,SO24 9RY,D,N,F,Bradley Farm,Plot 6,,Bradley,Alresford
+2024-12-18,510200,SO24 0EE,S,N,F,Ivy House,,Petersfield Road,Ropley,Alresford
+2024-12-18,870000,SO24 0DS,D,N,F,Sycamore House,,Church Street,Ropley,Alresford
+2024-12-17,737000,SO24 0HB,D,N,F,Mon Abri,,Petersfield Road,Monkwood,Alresford
+2024-12-13,380000,SO24 9FT,F,N,L,53,,Wayfarer Place,,Alresford
+2024-12-12,725000,SO24 9BD,T,N,F,68,,The Dean,,Alresford
+2024-12-12,960000,SO24 0EH,D,N,F,Park Place,,Park Lane,Ropley,Alresford
+2024-12-09,550000,SO24 9RE,S,N,F,Woodlark Cottages,4,,Bighton,Alresford
+2024-12-09,600000,SO24 9NJ,D,N,F,2,,Sun Hill Crescent,,Alresford
+2024-12-09,590000,SO24 9DE,T,N,F,"Melrose Cottage, 7",,Orchard Dean,,Alresford
+2024-12-09,920000,SO24 0EN,D,N,F,Woodruff,,Stapley Lane,Ropley,Alresford
+2024-12-06,810000,SO24 0HW,T,N,F,Woodland Cottages,14,,Woodlands,Alresford
+2024-12-05,595000,SO24 0QA,D,N,F,Appletree Cottage,,,Cheriton,Alresford
+2024-12-05,395000,SO24 0AJ,T,N,F,1 Park View,,,Bishops Sutton,Alresford
+2024-11-29,313500,SO24 9RY,D,N,F,Bradley Farm,Plot 5,,Bradley,Alresford
+2024-11-29,755000,SO24 0NH,S,N,F,"Inglewood, 17",,Petersfield Road,Cheriton,Alresford
+2024-11-21,1850000,SO24 9EX,D,N,F,Le Men Du,,Drove Lane,,Alresford
+2024-11-15,510000,SO24 9FG,S,N,F,9,,Brill Close,,Alresford
+2024-11-15,1000000,SO24 9DS,D,N,F,Coombe Cottage,,Basingstoke Road,Old Alresford,Alresford
+2024-11-15,2075000,SO24 0LP,D,N,F,The Old Curates House,,Fox Lane,Bramdean,Alresford
+2024-11-13,655000,SO24 9NJ,D,N,F,47,,Sun Hill Crescent,,Alresford
+2024-11-12,380000,SO24 9EQ,T,N,F,19,,East Street,,Alresford
+2024-11-12,1225000,SO24 0HH,D,N,F,Bridgefield House,,,West Tisted,Alresford
+2024-11-08,335000,SO24 9QG,T,N,F,24,,Watercress Meadow,,Alresford
+2024-11-08,500000,SO24 9JX,D,N,F,9,,Elm Road,,Alresford
+2024-11-01,290000,SO24 9FT,F,N,L,31,,Wayfarer Place,,Alresford
+2024-11-01,156000,SO24 0FB,T,N,L,5,,Stone Corner,Ropley,Alresford
+2024-10-30,720000,SO24 9UG,D,N,F,76,,Oak Hill,,Alresford
+2024-10-30,470000,SO24 9JY,S,N,F,6,,Bramble Hill,,Alresford
+2024-10-30,465000,SO24 9JW,T,N,F,43,,Nursery Road,,Alresford
+2024-10-30,705000,SO24 9DJ,D,N,F,3,,Green Close,Old Alresford,Alresford
+2024-10-30,923500,SO24 0AT,D,N,F,Micklesham House,,North Street,Bishops Sutton,Alresford
+2024-10-29,500000,SO24 9PS,T,N,F,2,,Russet Close,,Alresford
+2024-10-29,1900000,SO24 9FL,D,N,F,1,,The Mulberries,,Alresford
+2024-10-28,780000,SO24 9JN,S,N,F,Warwick Court,2,Station Road,,Alresford
+2024-10-24,470000,SO24 9JP,S,N,F,8,,Ash Walk,,Alresford
+2024-10-24,725000,SO24 9DH,T,N,F,Manor Farm Barns,The Old Stables,,Old Alresford,Alresford
+2024-10-24,525000,SO24 0PX,D,N,F,Victoria Cottage,,,Cheriton,Alresford
+2024-10-17,403000,SO24 9BX,D,N,F,10,,Mallard Close,,Alresford
+2024-10-11,1120000,SO24 0PP,D,N,F,Shepherds Cottage,,,Cheriton,Alresford
+2024-10-09,875000,SO24 9NJ,D,N,F,31,,Sun Hill Crescent,,Alresford
+2024-10-09,690000,SO24 9NJ,D,N,F,15,,Sun Hill Crescent,,Alresford
+2024-09-30,1500000,SO24 0DA,D,N,F,Hornbeams,,Swelling Hill,Ropley,Alresford
+2024-09-25,297500,SO24 9HY,S,N,F,37,,Mitford Road,,Alresford
+2024-09-23,270000,SO24 9ND,T,N,F,55,,Appledown Close,,Alresford
+2024-09-20,325000,SO24 0LW,S,N,F,The Nook,,,Bramdean,Alresford
+2024-09-12,648500,SO24 9LE,D,N,F,1,,Hawthorn Close,,Alresford
+2024-09-09,545000,SO24 9LA,D,N,F,12,,Meadow Close,,Alresford
+2024-09-03,390000,SO24 9BX,D,N,F,6,,Mallard Close,,Alresford
+2024-08-30,183000,SO24 9QJ,F,N,L,Brooklyn Court,1,New Farm Road,,Alresford
+2024-08-30,420000,SO24 9BQ,T,N,F,Weybrook,,The Dean,,Alresford
+2024-08-28,950000,SO24 9QH,D,N,F,Carey Down,,New Farm Road,,Alresford
+2024-08-28,865000,SO24 0BY,D,N,F,Penlan,,Gilbert Street,Ropley,Alresford
+2024-08-22,1179804,SO24 0NL,D,N,F,Long Cottage,,,Kilmeston,Alresford
+2024-08-20,640000,SO24 0EW,D,N,F,Sunchyme,,Parkstone Road,Ropley,Alresford
+2024-08-14,775000,SO24 9PR,D,N,F,15,,Fair View,,Alresford
+2024-08-12,970000,SO24 0AY,D,N,F,9,,Freemans Yard Lane,Cheriton,Alresford
+2024-08-09,420000,SO24 9RT,S,N,F,1,,Pond Cottage,Upper Wield,Alresford
+2024-08-09,375000,SO24 9PA,T,N,F,Links Cottages,3,Tichborne Down,,Alresford
+2024-08-09,500000,SO24 9HW,S,N,F,Watercress Cottage,,Bridge Road,,Alresford
+2024-08-08,522500,SO24 0BS,D,N,F,Hillview Cottage,,Winchester Road,Ropley,Alresford
+2024-08-07,710000,SO24 9LU,T,N,F,3,,Churchyard Cottages,,Alresford
+2024-08-07,245000,SO24 9HZ,S,N,L,9A,,Meryon Road,,Alresford
+2024-08-05,618000,SO24 9JF,D,N,F,3,,Maple Close,,Alresford
+2024-08-02,392000,SO24 9JS,S,N,F,41,,Beech Road,,Alresford
+2024-08-01,599950,SO24 9PA,S,N,F,Stable Cottage,1,Tichborne Down,,Alresford
+2024-08-01,1200000,SO24 0DF,D,N,F,Vine House,,North Street,Ropley,Alresford
+2024-07-26,535000,SO24 9UE,T,N,F,11,,Langtons Court,,Alresford
+2024-07-26,760000,SO24 9PY,D,N,F,23,,Orchard Close,,Alresford
+2024-07-25,185000,SO24 9AX,F,N,L,6,,Evelyn Mews,,Alresford
+2024-07-19,440000,SO24 9QG,T,N,F,29,,Watercress Meadow,,Alresford
+2024-07-19,550000,SO24 9LF,S,N,F,55,,Jacklyns Lane,,Alresford
+2024-07-19,850000,SO24 0AN,T,N,F,Hall Lodge,,Bishops Sutton Road,Bishops Sutton,Alresford
+2024-07-18,375000,SO24 9JS,S,N,F,43,,Beech Road,,Alresford
+2024-07-18,760000,SO24 0QF,D,N,F,22,,Markall Close,Cheriton,Alresford
+2024-07-17,1350000,SO24 0DP,D,N,F,Exeter House,,Church Street,Ropley,Alresford
+2024-07-12,470000,SO24 0AN,S,N,F,Sutton Cottage,,Bishops Sutton Road,Bishops Sutton,Alresford
+2024-07-10,2375000,SO24 9SF,D,N,F,The Homestead,,Barnetts Wood Lane,Bighton,Alresford
+2024-07-01,525000,SO24 9FA,S,N,F,4,,Goodmans Court,,Alresford
+2024-06-28,525000,SO24 9UG,D,N,F,72,,Oak Hill,,Alresford
+2024-06-28,450000,SO24 9JS,D,N,F,23,,Beech Road,,Alresford
+2024-06-26,350000,SO24 9PW,T,N,F,26,,Dickenson Walk,,Alresford
+2024-06-21,385000,SO24 9EU,T,N,F,15,,De Lucy Avenue,,Alresford
+2024-06-14,415000,SO24 9PS,T,N,F,11,,Russet Close,,Alresford
+2024-06-14,380000,SO24 9HT,S,N,F,11,,Mitford Road,,Alresford
+2024-06-14,662500,SO24 0EQ,D,N,F,Moulin,,Petersfield Road,Ropley,Alresford
+2024-06-10,245000,SO24 9JG,F,N,L,Alders Court,Flat 8,Station Road,,Alresford
+2024-06-07,618000,SO24 9HF,D,N,F,60,,Grange Road,,Alresford
+2024-06-07,330000,SO24 9FT,F,N,L,6,,Wayfarer Place,,Alresford
+2024-06-06,900000,SO24 9TR,S,N,F,"Gumnut Cottage, 32",,,Brown Candover,Alresford
+2024-05-31,275000,SO24 9XE,T,N,F,Bell House,32,Headley Close,,Alresford
+2024-05-31,380000,SO24 9QL,S,N,F,3,,Perins Close,,Alresford
+2024-05-31,380000,SO24 9ND,T,N,F,7,,Appledown Close,,Alresford
+2024-05-24,400000,SO24 9AB,F,N,L,39,Two Bays,West Street,,Alresford
+2024-05-20,206250,SO24 9JF,S,N,F,8,,Maple Close,,Alresford
+2024-05-20,475000,SO24 0EF,D,N,F,Sylcombe Bungalow,,Petersfield Road,Ropley,Alresford
+2024-05-02,700000,SO24 0BT,S,N,F,Chequers Hook Cottages,1,Gascoigne Lane,Ropley,Alresford
+2024-05-02,550000,SO24 0BH,S,N,F,Fairbank Cottages,2,The Dene,Ropley,Alresford
+2024-05-02,385000,SO24 0AS,T,N,F,6,,Hobbs Close,Bishops Sutton,Alresford
+2024-04-30,430000,SO24 9RY,S,N,F,Beech Cottages,1,,Bradley,Alresford
+2024-04-30,373407,SO24 9FT,F,N,L,44,,Wayfarer Place,,Alresford
+2024-04-30,650000,SO24 9FP,D,N,F,7,,Colebrook Field,Ropley,Alresford
+2024-04-30,825000,SO24 9BW,T,N,F,"Pilgrims, 10",,Pound Hill,,Alresford
+2024-04-26,1587500,SO24 9AS,T,N,F,41,,Broad Street,,Alresford
+2024-04-24,595000,SO24 9LA,D,N,F,5,,Meadow Close,,Alresford
+2024-04-24,620000,SO24 9BH,T,N,F,Cedar Court,2,The Dean,,Alresford
+2024-04-18,370000,SO24 0FB,T,N,L,7,,Stone Corner,Ropley,Alresford
+2024-04-10,1710000,SO24 9SE,D,N,F,Keepers Cottage,,,Bighton,Alresford
+2024-04-09,1280000,SO24 9TH,D,N,F,Appletree Cottage,,,Northington,Alresford
+2024-04-09,1875000,SO24 0AL,D,N,F,New House,,,Bishops Sutton,Alresford
+2024-03-20,391000,SO24 9PA,T,N,F,Links Cottages,4,Tichborne Down,,Alresford
+2024-03-20,572500,SO24 9PA,D,N,F,Antara,,Tichborne Down,,Alresford
+2024-03-15,640000,SO24 9UG,D,N,F,66,,Oak Hill,,Alresford
+2024-03-15,180000,SO24 9EY,F,N,L,21,,Ellingham Close,,Alresford
+2024-03-08,355000,SO24 9JS,T,N,F,5,,Beech Road,,Alresford
+2024-03-07,1467500,SO24 0NA,D,N,F,Goose Cottage,,,Tichborne,Alresford
+2024-03-01,365000,SO24 9NA,T,N,F,7,,Chestnut Walk,,Alresford
+2024-03-01,265000,SO24 9LQ,F,N,L,14,,Robertson Road,,Alresford
+2024-02-29,506500,SO24 9QA,D,N,F,9,,Spring Gardens,,Alresford
+2024-02-29,465000,SO24 9JY,S,N,F,5,,Bramble Hill,,Alresford
+2024-02-29,540000,SO24 9HW,T,N,F,11,,Bridge Road,,Alresford
+2024-02-26,400000,SO24 9PX,T,N,F,11,,Hasted Drive,,Alresford
+2024-02-23,660000,SO24 9DB,T,N,F,1,,The Soke,,Alresford
+2024-02-16,395000,SO24 9PY,T,N,F,49,,Orchard Close,,Alresford
+2024-02-14,265000,SO24 0FG,T,Y,F,Chequers,7,Winchester Road,Ropley,Alresford
+2024-02-08,495000,SO24 9HW,T,N,F,9,,Bridge Road,,Alresford
+2024-02-08,720000,SO24 0JX,D,N,F,Maple Cottage,,Petersfield Road,Bramdean,Alresford
+2024-02-02,7650000,SO24 9TX,D,N,F,Pelican House,,,Chilton Candover,Alresford
+2024-01-31,1500000,SO24 9FH,D,N,F,1,,Stiles Yard,,Alresford
+2024-01-30,678000,SO24 9HB,D,N,F,"Crossways, 21",,Grange Road,,Alresford
+2024-01-26,345000,SO24 9JS,T,N,F,45,,Beech Road,,Alresford
+2024-01-26,582000,SO24 9HG,D,N,F,14,,Salisbury Road,,Alresford
+2024-01-26,1850000,SO24 9DD,S,N,F,"Wykeham House, 11",,Mill Hill,,Alresford
+2024-01-22,587000,SO24 9DQ,S,N,F,8,,The Brook,Old Alresford,Alresford
+2024-01-22,1400000,SO24 0BT,D,N,F,The Beeches,,Gascoigne Lane,Ropley,Alresford
+2024-01-22,615000,SO24 0BS,D,N,F,Thistledown,,Winchester Road,Ropley,Alresford
+2024-01-18,185000,SO24 9EY,F,N,L,5,,Ellingham Close,,Alresford
+2024-01-17,750000,SO24 9BA,S,N,F,27,,Arle Gardens,,Alresford
+2024-01-12,400000,SO24 9LL,S,N,F,9,,Jacklyns Close,,Alresford
+2024-01-12,210000,SO24 9JE,F,N,L,3,,Ashburton Close,,Alresford
+2024-01-11,410000,SO24 9JH,T,N,F,3,,Station Approach,,Alresford
+2024-01-10,380000,SO24 0FG,S,Y,F,Chequers,2,Winchester Road,Ropley,Alresford
+2024-01-04,167500,SO24 9EY,F,N,L,7,,Ellingham Close,,Alresford
+2023-12-20,445000,SO24 9JW,S,N,F,31,,Nursery Road,,Alresford
+2023-12-13,310000,SO24 9PW,T,N,F,20,,Dickenson Walk,,Alresford
+2023-12-07,375000,SO24 9LE,D,N,F,1,,Hawthorn Close,,Alresford
+2023-12-04,272500,SO24 9PW,F,N,L,7,,Dickenson Walk,,Alresford
+2023-12-04,519000,SO24 9DQ,S,N,F,3,,The Brook,Old Alresford,Alresford
+2023-12-01,940000,SO24 0JN,S,N,F,Post Cottage,,Wood Lane,Bramdean,Alresford
+2023-11-30,872000,SO24 9DJ,D,N,F,9,,Green Close,Old Alresford,Alresford
+2023-11-30,748000,SO24 0AY,D,N,F,15,,Freemans Yard Lane,Cheriton,Alresford
+2023-11-29,1310000,SO24 0QZ,D,N,F,144,,,Itchen Stoke,Alresford
+2023-11-28,825000,SO24 9NJ,D,N,F,31,,Sun Hill Crescent,,Alresford
+2023-11-24,425000,SO24 9HN,T,N,F,8,,Grange Close,,Alresford
+2023-11-24,575000,SO24 9DD,S,N,F,23A,,Mill Hill,,Alresford
+2023-11-16,245000,SO24 9EY,F,N,L,34,,Ellingham Close,,Alresford
+2023-11-15,579950,SO24 9JX,D,N,F,26,,Elm Road,,Alresford
+2023-11-13,265000,SO24 9LQ,F,N,L,3A,,Robertson Road,,Alresford
+2023-11-10,415000,SO24 9QL,T,N,F,15,,Perins Close,,Alresford
+2023-11-10,477500,SO24 9PE,S,N,F,3,,Benenden Green,,Alresford
+2023-11-06,1150000,SO24 0PT,D,N,F,Thatch Cottage,,Hill House Lane,Cheriton,Alresford
+2023-11-03,915000,SO24 9HF,D,N,F,40,,Grange Road,,Alresford
+2023-10-31,675000,SO24 9RY,S,N,F,Jewell Cottage,,,Bradley,Alresford
+2023-10-26,1575000,SO24 0ER,D,N,F,Beech House,,Soames Lane,Ropley,Alresford
+2023-10-26,1205000,SO24 0BT,D,N,F,Southlands,,Gascoigne Lane,Ropley,Alresford
+2023-10-24,1150000,SO24 9AZ,D,N,F,"The Willows, 28",,The Dean,,Alresford
+2023-10-23,415000,SO24 0HG,S,N,F,5,,The Priors Way,Monkwood,Alresford
+2023-10-17,500000,SO24 9EQ,T,N,F,34,,East Street,,Alresford
+2023-10-12,500000,SO24 9PY,D,N,F,69,,Orchard Close,,Alresford
+2023-10-12,320000,SO24 9PW,T,N,F,2,,Dickenson Walk,,Alresford
+2023-10-06,1040000,SO24 0HW,D,N,F,Horseshoe Cottage,,,Woodlands,Alresford
+2023-09-29,599950,SO24 9JT,S,N,F,6,,Nursery Road,,Alresford
+2023-09-29,745000,SO24 9HG,D,N,F,10,,Salisbury Road,,Alresford
+2023-09-29,635000,SO24 9DE,T,N,F,4,,Orchard Dean,,Alresford
+2023-09-28,390000,SO24 0NS,S,N,F,Cob Cottage,,,Kilmeston,Alresford
+2023-09-25,477500,SO24 9JW,S,N,F,27,,Nursery Road,,Alresford
+2023-09-22,822500,SO24 9TQ,S,N,F,"The Cherry Trees, 88",,,Swarraton,Alresford
+2023-09-13,427500,SO24 9HR,S,N,F,Autumn House,,South Road,,Alresford
+2023-09-06,310000,SO24 9AR,T,N,F,"The Old Bakery, 21A",1,Broad Street,,Alresford
+2023-09-06,910000,SO24 0EQ,D,N,F,Amberley,,Petersfield Road,Ropley,Alresford
+2023-09-01,675000,SO24 9PL,D,N,F,Linnets Cottage,,Tichborne Down,,Alresford
+2023-08-30,620000,SO24 9QJ,D,N,F,Penwarden,,New Farm Road,,Alresford
+2023-08-30,690000,SO24 9PR,D,N,F,36,,Fair View,,Alresford
+2023-08-25,440000,SO24 9PX,T,N,F,26,,Hasted Drive,,Alresford
+2023-08-25,550000,SO24 9PQ,D,N,F,8,,Carisbrooke Close,,Alresford
+2023-08-25,673000,SO24 9ER,F,N,L,Arlebury Park House,Flat 8,,,Alresford
+2023-08-23,330000,SO24 9PU,T,N,F,24,,Lindley Gardens,,Alresford
+2023-08-22,515000,SO24 9JT,S,N,F,22,,Nursery Road,,Alresford
+2023-08-22,497000,SO24 9HJ,S,N,F,33,,Ashburton Road,,Alresford
+2023-08-22,1275000,SO24 9EP,D,N,F,Trees,,The Avenue,,Alresford
+2023-08-15,600000,SO24 0QZ,D,N,F,Evenlode Cottage,,,Itchen Stoke,Alresford
+2023-08-14,460000,SO24 9ER,F,N,L,Arlebury Park House,Flat 5,,,Alresford
+2023-08-04,785000,SO24 9UR,T,N,F,"Old Dairy Cottage, 7",,Southdowns,Old Alresford,Alresford
+2023-08-04,885000,SO24 0PW,D,N,F,Rose Cottage,,,Cheriton,Alresford
+2023-08-03,955000,SO24 0DA,D,N,F,Hawkstone,,Swelling Hill,Ropley,Alresford
+2023-08-02,275000,SO24 9PW,F,N,L,1,,Dickenson Walk,,Alresford
+2023-08-02,375000,SO24 9LD,S,N,F,13,,Lime Road,,Alresford
+2023-08-01,290000,SO24 9ND,T,N,F,12,,Appledown Close,,Alresford
+2023-08-01,470000,SO24 9ET,S,N,F,Highbanks,,Bridge Road,,Alresford
+2023-07-20,785000,SO24 9ER,F,N,L,"Arlebury Park House, 11",The Tower Suite,The Avenue,,Alresford
+2023-07-20,1775000,SO24 0EA,D,N,F,Chestnut House,,Church Lane,Ropley,Alresford
+2023-07-14,188000,SO24 9XE,F,N,L,Bell House,35,Headley Close,,Alresford
+2023-07-14,357500,SO24 0AH,T,N,F,Sutton Mews Cottage,,,Bishops Sutton,Alresford
+2023-07-10,750000,SO24 9PP,D,N,F,31,,Shepherds Down,,Alresford
+2023-07-07,620000,SO24 9BH,T,N,F,Cedar Court,4,The Dean,,Alresford
+2023-06-30,317500,SO24 9ND,T,N,F,42,,Appledown Close,,Alresford
+2023-06-30,265000,SO24 9HL,F,N,L,24A,,Mitford Road,,Alresford
+2023-06-28,500000,SO24 9JA,S,N,F,13,,Jesty Road,,Alresford
+2023-06-23,465200,SO24 0JR,S,N,F,14,,Woodlane Close,Bramdean,Alresford
+2023-06-22,1500000,SO24 9TN,D,N,F,Thorney Down,,,Brown Candover,Alresford
+2023-06-15,725000,SO24 9DE,S,N,F,"Montmore Cottage, 1",,Orchard Dean,,Alresford
+2023-06-02,650000,SO24 9NJ,S,N,F,45,,Sun Hill Crescent,,Alresford
+2023-06-01,575000,SO24 9JZ,T,N,F,49,,Oak Hill,,Alresford
+2023-05-31,320000,SO24 9JG,F,N,L,Alders Court,Flat 9,Station Road,,Alresford
+2023-05-31,440000,SO24 9BA,S,N,F,6,,Arle Gardens,,Alresford
+2023-05-19,655000,SO24 9NP,D,N,F,4,,Ullswater Grove,,Alresford
+2023-05-16,3100000,SO24 0JQ,D,N,F,Breach Plain Cottage,,,Bramdean,Alresford
+2023-05-02,830000,SO24 9BW,S,N,F,44,,Pound Hill,,Alresford
+2023-04-14,641250,SO24 0QX,S,N,F,3,,Itchen View,Itchen Stoke,Alresford
+2023-04-14,830000,SO24 0EQ,D,N,F,Willalone,,Petersfield Road,Ropley,Alresford
+2023-04-11,1750000,SO24 0NJ,D,N,F,Grey Farm House,,Kilmeston Road,Kilmeston,Alresford
+2023-04-05,350000,SO24 9ND,T,N,F,36,,Appledown Close,,Alresford
+2023-03-31,789000,SO24 9EQ,T,N,F,"Baytree Cottage, 25",,East Street,,Alresford
+2023-03-30,495000,SO24 9ET,T,N,F,The Hawthorns,,Bridge Road,,Alresford
+2023-03-30,1040000,SO24 0QG,D,N,F,Teazles,,,Cheriton,Alresford
+2023-03-28,355000,SO24 9QG,S,N,F,34D,,Watercress Meadow,,Alresford
+2023-03-27,1250000,SO24 9EQ,D,N,F,The Old Coach House,,East Street,,Alresford
+2023-03-21,469500,SO24 9JW,S,N,F,17,,Nursery Road,,Alresford
+2023-03-21,500000,SO24 9FE,T,N,F,22,,Thornton Close,,Alresford
+2023-03-20,768906,SO24 9TX,D,N,F,Yew Tree Lodge,,,Chilton Candover,Alresford
+2023-03-20,265000,SO24 9DL,D,N,F,2,,Alma Cottages,Old Alresford,Alresford
+2023-03-17,350000,SO24 9JR,T,N,F,32,,Nursery Road,,Alresford
+2023-02-28,495000,SO24 9UG,S,N,F,46,,Oak Hill,,Alresford
+2023-02-28,1150000,SO24 9AZ,D,N,F,"The Reeds, 28A",,The Dean,,Alresford
+2023-02-23,315000,SO24 9HZ,T,N,F,6,,Meryon Road,,Alresford
+2023-02-10,540000,SO24 9LG,D,N,F,52,,Jacklyns Lane,,Alresford
+2023-02-10,1200000,SO24 9HB,D,N,F,10,,Grange Road,,Alresford
+2023-02-09,625000,SO24 0NW,T,N,F,Manor Farm,4,Kilmeston Road,Kilmeston,Alresford
+2023-02-02,750000,SO24 9FA,D,N,F,6,,Goodmans Court,,Alresford
+2023-01-31,395000,SO24 9FS,F,N,L,The Old Police House,5,Station Road,,Alresford
+2023-01-30,1125000,SO24 0PX,D,N,F,Old Kennetts Cottage,,,Cheriton,Alresford
+2023-01-27,535000,SO24 9PY,D,N,F,16,,Orchard Close,,Alresford
+2023-01-26,395000,SO24 9JW,S,N,F,35B,,Nursery Road,,Alresford
+2023-01-12,500000,SO24 9AZ,T,N,F,36,,The Dean,,Alresford
+2023-01-10,350000,SO24 9DB,F,N,L,7C,,The Soke,,Alresford
+2023-01-06,180000,SO24 9DB,F,N,L,7B,,The Soke,,Alresford
+2023-01-04,615000,SO24 0QJ,D,N,F,"Primrose Cottage, 1",,Hinton Vale,Cheriton,Alresford
+2022-12-16,500000,SO24 9JX,D,N,F,10,,Elm Road,,Alresford
+2022-12-15,195000,SO24 9XE,F,N,L,Bell House,13,Headley Close,,Alresford
+2022-12-15,850000,SO24 9RX,D,N,F,Windmill Cottage,,,Lower Wield,Alresford
+2022-12-15,513000,SO24 9PU,S,N,F,32,,Lindley Gardens,,Alresford
+2022-12-09,391000,SO24 9JZ,S,N,F,19,,Oak Hill,,Alresford
+2022-12-09,545000,SO24 9HE,T,N,F,6,,Carpenters,,Alresford
+2022-12-09,950000,SO24 9DL,D,N,F,The Cosy,,Basingstoke Road,Old Alresford,Alresford
+2022-12-09,465000,SO24 0BH,S,N,F,Oak View,,The Dene,Ropley,Alresford
+2022-12-07,885000,SO24 9LF,D,N,F,73,,Jacklyns Lane,,Alresford
+2022-12-05,755000,SO24 0NH,D,N,F,"Watercress Lodge, 21",,Petersfield Road,Cheriton,Alresford
+2022-12-02,489000,SO24 9FG,S,N,F,17,,Brill Close,,Alresford
+2022-11-30,585000,SO24 9SJ,S,N,F,Close View,,Inhams Row,Old Alresford,Alresford
+2022-11-29,665000,SO24 0BT,D,N,F,Orchard House,,Gascoigne Lane,Ropley,Alresford
+2022-11-28,865000,SO24 9HQ,D,N,F,30,,Rosebery Road,,Alresford
+2022-11-25,590000,SO24 9DL,S,N,F,Victoria Cottage,,Basingstoke Road,Old Alresford,Alresford
+2022-11-25,1125000,SO24 9DD,D,N,F,23,,Mill Hill,,Alresford
+2022-11-23,700000,SO24 0AA,T,N,F,Darroford House,,,Bishops Sutton,Alresford
+2022-11-16,1400000,SO24 9SB,D,N,F,Oak View Cottage,,,Bradley,Alresford
+2022-11-11,580000,SO24 9QP,S,N,F,New Farm Court,Ashleigh House,New Farm Road,,Alresford
+2022-11-11,870000,SO24 9HQ,D,N,F,26,,Rosebery Road,,Alresford
+2022-11-11,410000,SO24 9DD,T,N,F,15,,Mill Hill,,Alresford
+2022-11-11,722000,SO24 0QE,D,N,F,12,,Raebarn Close,Cheriton,Alresford
+2022-11-09,380000,SO24 9ND,S,N,F,24,,Appledown Close,,Alresford
+2022-11-07,780000,SO24 9AS,T,N,F,35,,Broad Street,,Alresford
+2022-11-04,285000,SO24 9JG,F,N,L,Alders Court,Flat 14,Station Road,,Alresford
+2022-11-03,590000,SO24 9NQ,D,N,F,2,,Derwent Gardens,,Alresford
+2022-11-02,410000,SO24 9LP,T,N,F,9,,Linnets Road,,Alresford
+2022-11-02,512500,SO24 9BA,S,N,F,25,,Arle Gardens,,Alresford
+2022-11-01,633000,SO24 9ER,F,N,L,Arlebury Park House,Flat 6,,,Alresford
+2022-11-01,2900000,SO24 0NR,D,N,F,Stanmore House,,,Kilmeston,Alresford
+2022-10-26,195000,SO24 9XE,F,N,L,Bell House,10,Headley Close,,Alresford
+2022-10-26,415000,SO24 9LD,S,N,F,3,,Lime Road,,Alresford
+2022-10-25,695000,SO24 9ER,F,N,L,Arlebury Park House,Flat 2,,,Alresford
+2022-10-21,888000,SO24 9BW,T,N,F,6,,Pound Hill,,Alresford
+2022-10-21,295000,SO24 0JL,D,N,F,Rose Cottage,,,Bramdean,Alresford
+2022-10-14,220000,SO24 9HU,F,N,L,19A,,Windsor Road,,Alresford
+2022-10-14,735000,SO24 9EX,D,N,F,Drove Mead,,Drove Lane,,Alresford
+2022-10-14,950000,SO24 0DU,D,N,F,Wytchelms,,Vicarage Lane,Ropley,Alresford
+2022-10-13,635000,SO24 9BH,T,N,F,Cedar Court,3,The Dean,,Alresford
+2022-10-12,500000,SO24 9PY,D,N,F,69,,Orchard Close,,Alresford
+2022-10-12,335000,SO24 9PW,T,N,F,2,,Dickenson Walk,,Alresford
+2022-10-12,545000,SO24 9NQ,S,N,F,5,,Derwent Gardens,,Alresford
+2022-10-12,670000,SO24 9NN,D,N,F,7,,Buttermere Gardens,,Alresford
+2022-10-12,475000,SO24 9JZ,D,N,F,13,,Oak Hill,,Alresford
+2022-10-12,585000,SO24 9JS,D,N,F,49,,Beech Road,,Alresford
+2022-10-10,765000,SO24 0DF,D,N,F,Ropelia Cottage,,North Street,Ropley,Alresford
+2022-10-07,650000,SO24 9HW,D,N,F,Laurel Cottage,,Bridge Road,,Alresford
+2022-10-07,380000,SO24 9FD,T,N,F,Hankins Court,9,Jacklyns Lane,,Alresford
+2022-10-06,550000,SO24 0AR,D,N,F,Fleur De Lis,,Water Lane,Bishops Sutton,Alresford
+2022-09-30,580000,SO24 9UG,S,N,F,62,,Oak Hill,,Alresford
+2022-09-30,348500,SO24 0FG,T,Y,F,Chequers,4,Winchester Road,Ropley,Alresford
+2022-09-29,320000,SO24 0AJ,T,N,F,3 Park View,,,Bishops Sutton,Alresford
+2022-09-22,895000,SO24 9DH,T,N,F,5 Manor Farm Barns,The Stock House,,Old Alresford,Alresford
+2022-09-16,420000,SO24 9ER,F,N,L,Arlebury Park House,Flat 4,,,Alresford
+2022-09-13,310000,SO24 9ND,T,N,F,48,,Appledown Close,,Alresford
+2022-09-13,380000,SO24 9JR,T,N,F,34,,Nursery Road,,Alresford
+2022-09-09,685000,SO24 0HW,T,N,F,Woodland Cottages,11,,Woodlands,Alresford
+2022-09-09,941000,SO24 0HB,D,N,F,Oakleigh,,Petersfield Road,Monkwood,Alresford
+2022-09-09,408000,SO24 0DN,S,N,F,6,,Dunsells Close,Ropley,Alresford
+2022-09-07,845000,SO24 9BZ,D,N,F,6,,Park Mount,,Alresford
+2022-09-06,240000,SO24 9QH,F,N,L,Winchester House,3,New Farm Road,,Alresford
+2022-09-01,422500,SO24 9HW,T,N,F,10,,Bridge Road,,Alresford
+2022-08-31,750000,SO24 9DA,S,N,F,51,,Broad Street,,Alresford
+2022-08-31,3350000,SO24 9AN,D,N,F,50,,Broad Street,,Alresford
+2022-08-31,935000,SO24 0DF,D,N,F,North Barn,,North Street,Ropley,Alresford
+2022-08-25,425000,SO24 9QN,S,N,F,16,,Covey Way,,Alresford
+2022-08-25,370000,SO24 9QL,S,N,F,9,,Perins Close,,Alresford
+2022-08-25,650000,SO24 9JZ,D,N,F,53,,Oak Hill,,Alresford
+2022-08-25,1000000,SO24 0HW,S,N,F,Upper House Farm,The Well House 8,,Woodlands,Alresford
+2022-08-12,420000,SO24 9HA,T,N,F,1,,John Arlott Court,,Alresford
+2022-08-12,592000,SO24 9EG,D,N,F,Pedlars Cottage,,Brandy Mount,,Alresford
+2022-08-12,845000,SO24 0BL,D,N,F,Stavordale,,Station Hill,Ropley,Alresford
+2022-08-11,400000,SO24 9TH,T,N,F,73,,,Northington,Alresford
+2022-08-08,1200000,SO24 9TH,D,N,F,The Spinney,,,Northington,Alresford
+2022-08-05,775000,SO24 9UG,D,N,F,44,,Oak Hill,,Alresford
+2022-08-05,360000,SO24 9PE,T,N,F,49,,Benenden Green,,Alresford
+2022-08-01,640000,SO24 9UG,D,N,F,78,,Oak Hill,,Alresford
+2022-08-01,451000,SO24 9JX,D,N,F,16,,Elm Road,,Alresford
+2022-07-29,904950,SO24 9SG,D,N,F,Rose Cottage,,Sutton Wood Lane,Bighton,Alresford
+2022-07-29,885000,SO24 0ER,D,N,F,Cedar Lodge,,Soames Lane,Ropley,Alresford
+2022-07-28,537500,SO24 9UG,D,N,F,70,,Oak Hill,,Alresford
+2022-07-26,495000,SO24 9QT,T,N,F,47,,New Farm Road,,Alresford
+2022-07-22,1450000,SO24 0ES,D,N,F,Downland House,,Petersfield Road,Ropley,Alresford
+2022-07-21,645000,SO24 9NJ,D,N,F,24,,Sun Hill Crescent,,Alresford
+2022-07-21,375000,SO24 9HU,T,N,F,41,,Windsor Road,,Alresford
+2022-07-20,142500,SO24 9EY,F,N,L,19,,Ellingham Close,,Alresford
+2022-07-20,1475000,SO24 0NJ,D,N,F,Rosehill,,Kilmeston Road,Kilmeston,Alresford
+2022-07-19,1060000,SO24 9DB,D,N,F,Great Weir House,,The Soke,,Alresford
+2022-07-15,439950,SO24 9PX,T,N,F,23,,Hasted Drive,,Alresford
+2022-07-15,310000,SO24 9ND,T,N,F,16,,Appledown Close,,Alresford
+2022-07-15,550000,SO24 9LL,S,N,F,1,,Jacklyns Close,,Alresford
+2022-07-15,430000,SO24 9EQ,T,N,F,36,,East Street,,Alresford
+2022-07-08,567500,SO24 0PX,T,N,F,Rillcot,,,Cheriton,Alresford
+2022-07-07,785000,SO24 0QF,D,N,F,9,,Markall Close,Cheriton,Alresford
+2022-06-24,425000,SO24 9HY,S,N,F,32,,Mitford Road,,Alresford
+2022-06-24,500000,SO24 9HR,D,N,F,Clarissa,,South Road,,Alresford
+2022-06-24,680000,SO24 9BW,T,N,F,26,,Pound Hill,,Alresford
+2022-06-24,475000,SO24 9AZ,T,N,F,38,,The Dean,,Alresford
+2022-06-23,685000,SO24 9BH,T,N,F,Cedar Court,5,The Dean,,Alresford
+2022-06-17,7600000,SO24 0EB,D,N,F,Ropley House,,,Ropley,Alresford
+2022-05-31,360000,SO24 9ND,S,N,F,67,,Appledown Close,,Alresford
+2022-05-31,155000,SO24 9EY,F,N,L,3,,Ellingham Close,,Alresford
+2022-05-30,142500,SO24 9EY,F,N,L,29,,Ellingham Close,,Alresford
+2022-05-26,805000,SO24 9TT,S,N,F,Old School House,2,,Brown Candover,Alresford
+2022-05-20,3750000,SO24 9TX,D,N,F,Chilton House,,,Chilton Candover,Alresford
+2022-05-19,128650,SO24 9FW,T,Y,L,2,,Huxley Drive,,Alresford
+2022-05-13,425000,SO24 9HL,S,N,F,18,,Mitford Road,,Alresford
+2022-05-12,2235000,SO24 0DE,D,N,F,Allington,,Court Lane,Ropley,Alresford
+2022-05-09,581000,SO24 9DQ,S,N,F,9,,The Brook,Old Alresford,Alresford
+2022-05-06,450000,SO24 9JY,S,N,F,5,,Bramble Hill,,Alresford
+2022-05-05,680000,SO24 9FL,T,N,F,4,,The Mulberries,,Alresford
+2022-05-05,875000,SO24 0DS,D,N,F,Ashdown House,,Church Street,Ropley,Alresford
+2022-05-05,1750000,SO24 0BT,D,N,F,Ley House,,Gascoigne Lane,Ropley,Alresford
+2022-04-29,872000,SO24 9TX,S,N,F,1 Chilton Cottages,,,Chilton Candover,Alresford
+2022-04-29,446000,SO24 9BG,T,N,F,17,,Arle Close,,Alresford
+2022-04-28,265000,SO24 9ND,T,N,F,31,,Appledown Close,,Alresford
+2022-04-26,475000,SO24 0DT,T,N,F,Dragonfly Cottage,,Church Street,Ropley,Alresford
+2022-04-21,470000,SO24 9FT,F,N,L,5,,Wayfarer Place,,Alresford
+2022-04-13,699950,SO24 9QP,D,N,F,Gable House,,New Farm Road,,Alresford
+2022-04-13,550000,SO24 9PU,S,N,F,16,,Lindley Gardens,,Alresford
+2022-04-12,190000,SO24 9XE,F,N,L,Bell House,33,Headley Close,,Alresford
+2022-04-11,665000,SO24 0QP,D,N,F,Suroban,,Ladycroft,,Alresford
+2022-04-08,760000,SO24 9SA,D,N,F,2,,Oakmoor Cottages,Bradley,Alresford
+2022-04-05,1100000,SO24 9AZ,D,N,F,"The Willows, 28",,The Dean,,Alresford
+2022-04-01,180000,SO24 9AR,F,N,L,13A,,Broad Street,,Alresford
+2022-04-01,600000,SO24 0DS,S,N,F,Dover Cottage,,Church Street,Ropley,Alresford
+2022-03-30,410000,SO24 0DN,S,N,F,12,,Dunsells Close,Ropley,Alresford
+2022-03-23,399950,SO24 9QN,D,N,F,6,,Covey Way,,Alresford
+2022-03-18,500000,SO24 9AB,D,N,F,37,,West Street,,Alresford
+2022-03-15,1350000,SO24 9LF,D,N,F,"Cedar Court, 49",,Jacklyns Lane,,Alresford
+2022-03-15,690000,SO24 0FB,D,N,F,1,,Stone Corner,Ropley,Alresford
+2022-03-11,750000,SO24 0JT,S,N,F,Blakes School House,,Petersfield Road,Hinton Ampner,Alresford
+2022-03-09,450000,SO24 9JP,S,N,F,6,,Ash Walk,,Alresford
+2022-03-07,363000,SO24 9RB,D,N,F,Knapp Bungalow,,,Bighton,Alresford
+2022-03-05,390000,SO24 9PT,S,N,F,11,,Witton Hill,,Alresford
+2022-03-04,290000,SO24 9FT,F,N,L,42,,Wayfarer Place,,Alresford
+2022-02-24,625000,SO24 9PA,D,N,F,Fairways,,Tichborne Down,,Alresford
+2022-02-23,345000,SO24 9FT,F,N,L,47,,Wayfarer Place,,Alresford
+2022-02-21,652500,SO24 9QS,D,N,F,Kanata,,New Farm Road,,Alresford
+2022-02-21,650000,SO24 9PP,D,N,F,34,,Shepherds Down,,Alresford
+2022-02-18,390000,SO24 9JS,S,N,F,59,,Beech Road,,Alresford
+2022-02-18,551700,SO24 0QA,S,N,F,2,,Parkers Cottages,Cheriton,Alresford
+2022-02-17,491250,SO24 9EU,T,N,F,12,,De Lucy Avenue,,Alresford
+2022-02-16,485000,SO24 9PD,S,N,F,16,,Culley View,,Alresford
+2022-02-16,580000,SO24 0QA,D,N,F,1,,Parkers Cottages,Cheriton,Alresford
+2022-02-11,425000,SO24 9JA,S,N,F,2,,Jesty Road,,Alresford
+2022-02-07,815500,SO24 0DU,D,N,F,Osgil,,Vicarage Lane,Ropley,Alresford
+2022-02-04,785000,SO24 9SG,D,N,F,Cartref,,Sutton Wood Lane,Bighton,Alresford
+2022-02-03,615000,SO24 9LX,S,N,F,2,,Haig Road,,Alresford
+2022-01-31,545000,SO24 0BT,D,Y,F,The Hickories,,Gascoigne Lane,Ropley,Alresford
+2022-01-28,482000,SO24 9FD,T,N,F,Hankins Court,5,Jacklyns Lane,,Alresford
+2022-01-28,642500,SO24 0QF,D,N,F,17,,Markall Close,Cheriton,Alresford
+2022-01-21,390000,SO24 0BU,S,N,F,Rowdell Cottages,26,Gascoigne Lane,Ropley,Alresford
+2022-01-18,580000,SO24 9EE,T,N,F,"Alde Cottage, 20",,East Street,,Alresford
+2022-01-17,420000,SO24 9QX,D,N,F,28,,Bakeland Gardens,,Alresford
+2022-01-14,1050000,SO24 9DH,D,N,F,Abbotstone Cottage,,,Old Alresford,Alresford
+2022-01-10,625000,SO24 0BT,S,Y,F,The Mulberries,,Gascoigne Lane,Ropley,Alresford
+2022-01-10,550000,SO24 0AL,T,N,F,Springfield,2,Water Lane,Bishops Sutton,Alresford
+2021-12-22,399950,SO24 9QS,T,N,F,3,,New Farm Road,,Alresford
+2021-12-17,1820000,SO24 0HA,D,N,F,Charlwood Farm,,Charlwood Lane,Monkwood,Alresford
+2021-12-16,335000,SO24 9HY,T,N,F,31,,Mitford Road,,Alresford
+2021-12-16,315000,SO24 9BX,D,N,F,6,,Mallard Close,,Alresford
+2021-12-16,1195000,SO24 0EY,D,N,F,"Rosewood House, 1",,Youngs Way,Cheriton,Alresford
+2021-12-15,750000,SO24 9JN,S,N,F,Warwick Court,2,Station Road,,Alresford
+2021-12-14,410000,SO24 9PT,T,N,F,16,,Witton Hill,,Alresford
+2021-12-14,705000,SO24 9PD,D,N,F,9,,Culley View,,Alresford
+2021-12-14,460000,SO24 9NH,D,N,F,4,,Ennerdale Gardens,,Alresford
+2021-12-13,380500,SO24 9HY,S,N,F,29,,Mitford Road,,Alresford
+2021-12-13,1187000,SO24 0EF,D,N,F,Carrick Cottage,,Petersfield Road,Ropley,Alresford
+2021-12-10,135000,SO24 9EY,F,N,L,32,,Ellingham Close,,Alresford
+2021-12-03,525000,SO24 9BG,D,N,F,9,,Arle Close,,Alresford
+2021-12-03,740000,SO24 0EG,D,N,F,Field View Cottage,,Petersfield Road,Ropley,Alresford
+2021-11-30,385250,SO24 0NH,T,N,F,3,,Petersfield Road,Cheriton,Alresford
+2021-11-29,260000,SO24 9LQ,F,N,L,14,,Robertson Road,,Alresford
+2021-11-22,310000,SO24 9FT,F,N,L,37,,Wayfarer Place,,Alresford
+2021-11-19,455000,SO24 9QJ,D,N,F,Eadi House,,New Farm Road,,Alresford
+2021-11-16,312500,SO24 0AB,S,N,F,1,,Mount Villas,Bishops Sutton,Alresford
+2021-11-12,2300000,SO24 9AN,D,N,F,52,,Broad Street,,Alresford
+2021-11-11,1395000,SO24 9SG,D,N,F,Cobbs Farm,,Sutton Wood Lane,Bighton,Alresford
+2021-11-05,785000,SO24 0AN,T,N,F,North Lodge,,Bishops Sutton Road,Bishops Sutton,Alresford
+2021-11-04,880000,SO24 0HD,D,N,F,The Retreat,,Smugglers Lane,Monkwood,Alresford
+2021-11-01,605000,SO24 0QZ,S,N,F,138,,,Itchen Stoke,Alresford
+2021-10-29,490000,SO24 9QA,D,N,F,9,,Spring Gardens,,Alresford
+2021-10-28,630000,SO24 9BW,S,N,F,"Honeysuckle Cottage, 42",,Pound Hill,,Alresford
+2021-10-27,475000,SO24 9QX,S,N,F,3,,Bakeland Gardens,,Alresford
+2021-10-22,192500,SO24 9FE,F,N,L,19,,Thornton Close,,Alresford
+2021-10-21,150000,SO24 9EY,F,N,L,11,,Ellingham Close,,Alresford
+2021-10-19,790000,SO24 0DZ,D,N,F,Yew Tree Cottage,,Hammonds Lane,Ropley,Alresford
+2021-10-13,460000,SO24 9PE,S,N,F,23,,Benenden Green,,Alresford
+2021-10-13,285000,SO24 9ND,T,N,F,32,,Appledown Close,,Alresford
+2021-10-01,345000,SO24 9BX,D,N,F,11,,Mallard Close,,Alresford
+2021-09-30,442500,SO24 9QX,D,N,F,7,,Bakeland Gardens,,Alresford
+2021-09-30,545000,SO24 9QJ,S,N,F,Elm Cottage,,New Farm Road,,Alresford
+2021-09-30,545000,SO24 9JJ,T,Y,F,Marshalls Yard,Wisteria Cottage,Jacklyns Lane,,Alresford
+2021-09-30,415000,SO24 9ET,S,N,F,Sherwood,,Bridge Road,,Alresford
+2021-09-29,435000,SO24 9QR,S,N,F,9,,Dorian Grove,,Alresford
+2021-09-29,363000,SO24 9ND,D,N,F,27,,Appledown Close,,Alresford
+2021-09-29,352500,SO24 9JS,S,N,F,63,,Beech Road,,Alresford
+2021-09-28,950000,SO24 9DL,D,N,F,The Rosery,,Basingstoke Road,Old Alresford,Alresford
+2021-09-24,345000,SO24 9PT,T,N,F,2,,Witton Hill,,Alresford
+2021-09-24,555000,SO24 9JJ,T,Y,F,Marshalls Yard,Rose Cottage,Jacklyns Lane,,Alresford
+2021-09-24,175000,SO24 9EY,F,N,L,9,,Ellingham Close,,Alresford
+2021-09-24,464000,SO24 9BQ,T,N,F,Weybrook,,The Dean,,Alresford
+2021-09-24,155000,SO24 9AX,F,N,L,5,,Evelyn Mews,,Alresford
+2021-09-24,835000,SO24 0QP,D,N,F,Flint House,,Ladycroft,,Alresford
+2021-09-24,485000,SO24 0NH,S,N,F,Canute House,,Petersfield Road,Cheriton,Alresford
+2021-09-24,660000,SO24 0HP,D,N,F,Pursers,Grooms Cottage,Woodlands,Bramdean,Alresford
+2021-09-21,1050000,SO24 0PW,D,N,F,Kipping Cottage,,,Cheriton,Alresford
+2021-09-17,485000,SO24 9QP,S,N,F,New Farm Court,Beaumont House,New Farm Road,,Alresford
+2021-09-17,342500,SO24 9PD,T,N,F,3,,Culley View,,Alresford
+2021-09-17,127500,SO24 9EY,F,N,L,16,,Ellingham Close,,Alresford
+2021-09-17,915000,SO24 0QY,D,N,F,The Maples,,,Itchen Stoke,Alresford
+2021-09-14,550000,SO24 9NJ,D,N,F,27,,Sun Hill Crescent,,Alresford
+2021-09-14,570000,SO24 9LE,D,N,F,9,,Hawthorn Close,,Alresford
+2021-09-14,573500,SO24 9HR,D,N,F,2,,South Road,,Alresford
+2021-09-10,995000,SO24 9QH,D,N,F,Netherbourne,,New Farm Road,,Alresford
+2021-09-07,210000,SO24 9HZ,F,N,L,5A,,Meryon Road,,Alresford
+2021-09-02,380000,SO24 9HL,S,N,F,17,,Mitford Road,,Alresford
+2021-09-02,460000,SO24 9FA,D,N,F,5,,Goodmans Court,,Alresford
+2021-08-31,190000,SO24 9QG,T,N,L,27,,Watercress Meadow,,Alresford
+2021-08-31,390000,SO24 9PT,T,N,F,4,,Witton Hill,,Alresford
+2021-08-27,1655000,SO24 0DS,D,N,F,The Old Parsonage,,Church Street,Ropley,Alresford
+2021-08-26,596000,SO24 9ER,T,N,F,"La Source, 1",,Arlebury Park Mews,,Alresford
+2021-08-26,645000,SO24 9DE,T,N,F,"Greengage Cottage, 11",,Orchard Dean,,Alresford
+2021-08-20,1380000,SO24 0LW,D,N,F,Mead Cottage,,,Bramdean,Alresford
+2021-08-18,725000,SO24 0EF,D,N,F,Huntingdon House,,Petersfield Road,Ropley,Alresford
+2021-08-17,690000,SO24 9HF,D,N,F,50,,Grange Road,,Alresford
+2021-08-13,830000,SO24 9ES,D,N,F,Arlebury Park Barns,The Old Bothy,,,Alresford
+2021-08-12,340000,SO24 9QS,T,N,F,2,,New Farm Road,,Alresford
+2021-08-05,394500,SO24 9DU,S,N,F,1,,Kiln Lane,Old Alresford,Alresford
+2021-07-30,450000,SO24 9LN,D,N,F,16,,Spring Way,,Alresford
+2021-07-21,900000,SO24 0EH,D,N,F,Hampton House,,Park Lane,Ropley,Alresford
+2021-07-20,610000,SO24 0AN,T,N,F,North West Lodge,,Bishops Sutton Road,Bishops Sutton,Alresford
+2021-07-19,730000,SO24 9SW,D,N,F,Peartree Cottage,,Bighton Lane,Gundleton,Alresford
+2021-07-05,214000,SO24 9XE,F,N,L,Bell House,34,Headley Close,,Alresford
+2021-07-01,250000,SO24 9ND,T,N,F,49,,Appledown Close,,Alresford
+2021-06-30,2050000,SO24 9RN,D,N,F,Hurston House,,,Upper Wield,Alresford
+2021-06-30,770000,SO24 9QP,D,N,F,Torf House,,New Farm Road,,Alresford
+2021-06-30,1575000,SO24 9LZ,D,N,F,Trosnant,,Sun Lane,,Alresford
+2021-06-30,550000,SO24 9JW,S,N,F,9,,Nursery Road,,Alresford
+2021-06-30,340000,SO24 9JR,S,N,F,58,,Nursery Road,,Alresford
+2021-06-30,460000,SO24 9HF,D,N,F,74,,Grange Road,,Alresford
+2021-06-30,492000,SO24 9FT,F,N,L,26,,Wayfarer Place,,Alresford
+2021-06-30,472000,SO24 9FT,F,N,L,21,,Wayfarer Place,,Alresford
+2021-06-30,375000,SO24 9FG,S,N,F,10,,Brill Close,,Alresford
+2021-06-30,565000,SO24 9DD,D,N,F,19A,,Mill Hill,,Alresford
+2021-06-30,410000,SO24 0NS,D,N,F,Aspen House,,,Kilmeston,Alresford
+2021-06-30,1065000,SO24 0EH,D,N,F,Bullfinches,,Park Lane,Ropley,Alresford
+2021-06-30,285000,SO24 0AW,S,N,F,3,,Malthouse Cottages,Bishops Sutton,Alresford
+2021-06-30,625000,SO24 0AN,D,N,F,Bishops Court Lodge,,Bishops Sutton Road,Bishops Sutton,Alresford
+2021-06-29,630000,SO24 9SW,D,N,F,Winfield House,,Bighton Lane,Gundleton,Alresford
+2021-06-29,670000,SO24 9SW,D,N,F,Gaywood,,Bighton Lane,Gundleton,Alresford
+2021-06-29,525000,SO24 9QP,S,N,F,New Farm Court,Darcey House,New Farm Road,,Alresford
+2021-06-29,635000,SO24 9PY,D,N,F,24,,Orchard Close,,Alresford
+2021-06-29,475000,SO24 9JZ,D,N,F,65,,Oak Hill,,Alresford
+2021-06-29,420000,SO24 9FT,F,N,L,52,,Wayfarer Place,,Alresford
+2021-06-29,715000,SO24 9FP,D,N,F,"Larkrise, 18",,Colebrook Field,Ropley,Alresford
+2021-06-29,535000,SO24 9FH,S,N,F,Old Bakery Cottage,,Stiles Yard,,Alresford
+2021-06-29,745000,SO24 9FE,D,N,F,28,,Thornton Close,,Alresford
+2021-06-28,785000,SO24 9SW,D,N,F,Hydaway,,Bighton Lane,Gundleton,Alresford
+2021-06-28,380000,SO24 9PX,T,N,F,11,,Hasted Drive,,Alresford
+2021-06-28,440000,SO24 9ND,S,N,F,8,,Appledown Close,,Alresford
+2021-06-28,340000,SO24 9NA,S,N,F,3,,Chestnut Walk,,Alresford
+2021-06-28,585000,SO24 0DR,D,N,F,Cromwell Cottage,,Church Street,Ropley,Alresford
+2021-06-25,440000,SO24 9PA,D,N,F,Plas Bach,,Tichborne Down,,Alresford
+2021-06-25,395000,SO24 9HW,S,N,F,Sleepers,,Bridge Road,,Alresford
+2021-06-24,685000,SO24 9SQ,D,N,F,Sillwood,,Bighton Hill,Ropley,Alresford
+2021-06-23,980000,SO24 0HW,T,N,F,Upper House Farm,1,,Woodlands,Alresford
+2021-06-22,525000,SO24 9QX,D,N,F,16,,Bakeland Gardens,,Alresford
+2021-06-22,510000,SO24 9JT,S,N,F,22,,Nursery Road,,Alresford
+2021-06-22,785000,SO24 9HB,D,N,F,15,,Grange Road,,Alresford
+2021-06-21,399950,SO24 9QS,T,N,F,4,,New Farm Road,,Alresford
+2021-06-21,725750,SO24 0DF,D,N,F,Greville House,,North Street,Ropley,Alresford
+2021-06-18,300000,SO24 9FS,F,Y,L,The Old Police House,5,Station Road,,Alresford
+2021-06-17,580000,SO24 9PE,D,N,F,19,,Benenden Green,,Alresford
+2021-06-17,1075000,SO24 0QD,D,N,F,Yew Tree Cottage,,,Cheriton,Alresford
+2021-06-14,275000,SO24 9XE,T,N,F,Bell House,21,Headley Close,,Alresford
+2021-06-11,353000,SO24 9PX,T,N,F,29,,Hasted Drive,,Alresford
+2021-06-11,860000,SO24 9HR,D,N,F,Taplins,,South Road,,Alresford
+2021-06-11,290000,SO24 0NH,T,N,F,6,,Petersfield Road,Cheriton,Alresford
+2021-06-10,1112000,SO24 9DB,D,N,F,Mill Lane House,,The Soke,,Alresford
+2021-06-09,418000,SO24 9JZ,D,N,F,59,,Oak Hill,,Alresford
+2021-06-08,412500,SO24 9PF,S,N,F,18,,Benenden Green,,Alresford
+2021-06-08,805000,SO24 9FE,D,N,F,31,,Thornton Close,,Alresford
+2021-06-08,325000,SO24 0PS,S,N,F,16,,The Pastures,Cheriton,Alresford
+2021-06-07,710000,SO24 9TQ,S,N,F,"Holly Cottage, 86",,,Swarraton,Alresford
+2021-06-07,422500,SO24 9ND,T,N,F,21,,Appledown Close,,Alresford
+2021-06-04,192000,SO24 9AX,S,N,L,2,,The Dean,,Alresford
+2021-06-04,385000,SO24 0BH,S,N,F,Fairbank Cottages,2,The Dene,Ropley,Alresford
+2021-06-01,160500,SO24 9AT,F,N,L,Hinesite,2,West Street,,Alresford
+2021-05-28,480000,SO24 9RN,D,N,F,Newmer Farm House,,,Upper Wield,Alresford
+2021-05-26,505000,SO24 9TD,S,N,F,Crianlarich,,Abbotstone Road,Fobdown,Alresford
+2021-05-26,358000,SO24 0NJ,T,N,F,Gard Cottages,4,Kilmeston Road,Kilmeston,Alresford
+2021-05-21,490000,SO24 9PY,D,N,F,16,,Orchard Close,,Alresford
+2021-05-21,625000,SO24 9NP,D,N,F,6,,Ullswater Grove,,Alresford
+2021-05-21,690000,SO24 9HS,D,N,F,1,,South Close,,Alresford
+2021-05-21,450000,SO24 9BG,T,N,F,18,,Arle Close,,Alresford
+2021-05-21,369000,SO24 9BB,T,N,F,2,,Hill Terrace,,Alresford
+2021-05-14,410000,SO24 9JY,S,N,F,6,,Bramble Hill,,Alresford
+2021-05-14,305000,SO24 9FS,F,Y,L,The Old Police House,4,Station Road,,Alresford
+2021-05-14,360000,SO24 9BX,D,N,F,13,,Mallard Close,,Alresford
+2021-05-07,630000,SO24 9QJ,D,N,F,Glendale,,New Farm Road,,Alresford
+2021-04-29,360000,SO24 9JJ,T,Y,F,Marshalls Yard,Snowdrop Cottage,Jacklyns Lane,,Alresford
+2021-04-23,700000,SO24 9PY,D,N,F,26,,Orchard Close,,Alresford
+2021-04-23,537500,SO24 9PP,D,N,F,14,,Shepherds Down,,Alresford
+2021-04-23,452500,SO24 9LD,S,N,F,9,,Lime Road,,Alresford
+2021-04-23,420000,SO24 9BA,S,N,F,8,,Arle Gardens,,Alresford
+2021-04-23,1277500,SO24 0HW,D,N,F,Three Horse Shoes Barn,,,Woodlands,Alresford
+2021-04-22,285000,SO24 9ND,T,N,F,77,,Appledown Close,,Alresford
+2021-04-19,450000,SO24 9JJ,T,N,F,Marshalls Yard,Holly Cottage,Jacklyns Lane,,Alresford
+2021-04-19,630000,SO24 9JH,D,Y,F,11,,Station Approach,,Alresford
+2021-04-16,1085000,SO24 9UR,D,N,F,2,,Southdowns,Old Alresford,Alresford
+2021-04-16,450000,SO24 9QP,S,N,F,Beech House,,New Farm Road,,Alresford
+2021-04-15,752500,SO24 0JJ,D,N,F,Wolfhanger Cottage,,Woodlands,Bramdean,Alresford
+2021-04-13,484000,SO24 9FT,F,N,L,17,,Wayfarer Place,,Alresford
+2021-04-09,520000,SO24 9PH,D,N,F,4,,Corfe Close,,Alresford
+2021-04-09,675000,SO24 9LJ,D,N,F,80,,Jacklyns Lane,,Alresford
+2021-04-09,757500,SO24 9FP,D,N,F,9,,Colebrook Field,Ropley,Alresford
+2021-04-09,480000,SO24 0NH,D,N,F,"Hinton Cottage, 12",,Petersfield Road,Cheriton,Alresford
+2021-04-08,492000,SO24 9PU,D,N,F,12,,Lindley Gardens,,Alresford
+2021-04-07,350000,SO24 9EU,T,N,F,58,,De Lucy Avenue,,Alresford
+2021-04-06,500000,SO24 0HD,D,N,F,Rookery Barn,,Smugglers Lane,Monkwood,Alresford
+2021-04-01,565000,SO24 9UG,S,N,F,56,,Oak Hill,,Alresford
+2021-04-01,612500,SO24 9TE,S,N,F,173,,,Abbotstone,Alresford
+2021-04-01,420000,SO24 9LY,T,N,F,11,,Edward Terrace,,Alresford
+2021-03-31,845000,SO24 9RU,S,N,F,North End House,,,Upper Wield,Alresford
+2021-03-31,995000,SO24 9RT,D,N,F,Church Farm House,,,Upper Wield,Alresford
+2021-03-31,490500,SO24 9QL,D,N,F,Elm House,,Perins Close,,Alresford
+2021-03-31,765000,SO24 0LW,D,N,F,Manor Lodge,,,Bramdean,Alresford
+2021-03-30,1122000,SO24 9UR,D,N,F,"Lime Ridge, 1",,Southdowns,Old Alresford,Alresford
+2021-03-29,247500,SO24 9PY,T,N,F,45,,Orchard Close,,Alresford
+2021-03-26,620000,SO24 9SQ,D,N,F,Everest,,Bighton Hill,Ropley,Alresford
+2021-03-26,485000,SO24 9QP,S,N,F,New Farm Court,Cavendish House,New Farm Road,,Alresford
+2021-03-26,800000,SO24 0BT,D,N,F,Highlossen,,Gascoigne Lane,Ropley,Alresford
+2021-03-24,287500,SO24 9XE,T,N,F,Bell House,22,Headley Close,,Alresford
+2021-03-24,432500,SO24 0LG,S,N,F,Dell Cottages,2,Brockwood,Bramdean,Alresford
+2021-03-23,296000,SO24 9PE,T,N,F,37,,Benenden Green,,Alresford
+2021-03-22,385000,SO24 9QN,S,N,F,16,,Covey Way,,Alresford
+2021-03-22,597500,SO24 0BS,D,N,F,1,,Glendown Gardens,Ropley,Alresford
+2021-03-19,345000,SO24 9RR,S,N,F,4,,Home Close,Upper Wield,Alresford
+2021-03-19,545000,SO24 9PH,D,N,F,6,,Corfe Close,,Alresford
+2021-03-18,900000,SO24 9LG,D,N,F,44,,Jacklyns Lane,,Alresford
+2021-03-18,1425000,SO24 9DR,S,N,F,School House,,Basingstoke Road,Old Alresford,Alresford
+2021-03-18,352000,SO24 0PA,D,N,F,Park Cottage,,,Beauworth,Alresford
+2021-03-18,500000,SO24 0AS,D,N,F,20,,Hobbs Close,Bishops Sutton,Alresford
+2021-03-15,329500,SO24 9QH,F,N,L,Winchester House,2,New Farm Road,,Alresford
+2021-03-15,440000,SO24 9PN,S,N,F,25,,Paddock Way,,Alresford
+2021-03-15,565000,SO24 0BS,D,N,F,Thistledown,,Winchester Road,Ropley,Alresford
+2021-03-12,875000,SO24 9TZ,D,N,F,The Barn,,,Northington Down,Alresford
+2021-03-12,378000,SO24 9ND,T,N,F,17,,Appledown Close,,Alresford
+2021-03-12,448000,SO24 9DB,T,N,F,"Pond View Cottage, 16",,The Soke,,Alresford
+2021-03-12,930000,SO24 0DF,D,N,F,North Street House,,North Street,Ropley,Alresford
+2021-03-12,403000,SO24 0BU,S,N,F,Rowdell Cottages,19,Gascoigne Lane,Ropley,Alresford
+2021-03-10,460000,SO24 9PA,D,N,F,Wickens,,Tichborne Down,,Alresford
+2021-03-10,260000,SO24 9ND,T,N,F,51,,Appledown Close,,Alresford
+2021-03-09,230000,SO24 9ND,T,N,F,58,,Appledown Close,,Alresford
+2021-03-05,290000,SO24 9ND,T,N,F,76,,Appledown Close,,Alresford
+2021-03-04,610000,SO24 9NP,D,N,F,2,,Ullswater Grove,,Alresford
+2021-03-03,570000,SO24 9PL,D,N,F,Hiwood,,Tichborne Down,,Alresford
+2021-03-03,445000,SO24 9LA,D,N,F,7,,Meadow Close,,Alresford
+2021-02-26,675000,SO24 9BG,D,N,F,11,,Arle Close,,Alresford
+2021-02-26,815000,SO24 0QZ,D,N,F,140,,,Itchen Stoke,Alresford
+2021-02-26,1169000,SO24 0ES,D,N,F,Nutmeg House,,Petersfield Road,Ropley,Alresford
+2021-02-25,350000,SO24 9PY,T,N,F,43,,Orchard Close,,Alresford
+2021-02-25,535000,SO24 9BA,S,N,F,29,,Arle Gardens,,Alresford
+2021-02-24,450000,SO24 9ER,F,N,L,Arlebury Park House,11,The Avenue,,Alresford
+2021-02-23,1047500,SO24 0DF,D,N,F,North Farm,,North Street,Ropley,Alresford
+2021-02-22,360000,SO24 9JJ,T,Y,F,Marshalls Yard,Primrose Cottage,Jacklyns Lane,,Alresford
+2021-02-19,410000,SO24 9JZ,D,N,F,55,,Oak Hill,,Alresford
+2021-02-19,1150000,SO24 9DD,S,N,F,3,,Mill Hill,,Alresford
+2021-02-19,137500,SO24 0BU,F,N,L,Rowdell Cottages,14,Gascoigne Lane,Ropley,Alresford
+2021-02-19,510000,SO24 0AE,S,N,F,2,,Church Cottages,Bishops Sutton,Alresford
+2021-02-18,625000,SO24 9NJ,D,N,F,7,,Sun Hill Crescent,,Alresford
+2021-02-18,950000,SO24 0HJ,D,N,F,Holly Oaks,,,West Tisted,Alresford
+2021-02-12,335000,SO24 9EU,S,N,F,70,,De Lucy Avenue,,Alresford
+2021-02-12,378530,SO24 9DD,T,N,F,15,,Mill Hill,,Alresford
+2021-02-12,275000,SO24 9AT,F,N,L,Hinesite,1,West Street,,Alresford
+2021-02-11,495000,SO24 9FU,S,N,F,Fob Down View,2,Arle Gardens,,Alresford
+2021-02-09,195000,SO24 9ND,T,N,F,30,,Appledown Close,,Alresford
+2021-02-09,933000,SO24 0HB,D,N,F,Cloudsway,,Petersfield Road,Monkwood,Alresford
+2021-02-03,900000,SO24 0DF,D,N,F,North Barn,,North Street,Ropley,Alresford
+2021-01-29,280000,SO24 9ND,T,N,F,39,,Appledown Close,,Alresford
+2021-01-29,260000,SO24 9ND,T,N,F,16,,Appledown Close,,Alresford
+2021-01-29,345000,SO24 9FT,F,N,L,49,,Wayfarer Place,,Alresford
+2021-01-29,300000,SO24 9FS,F,Y,L,The Old Police House,2,Station Road,,Alresford
+2021-01-29,660000,SO24 9EQ,T,N,F,"Baytree Cottage, 25",,East Street,,Alresford
+2021-01-29,685000,SO24 0QE,D,N,F,6,,Raebarn Close,Cheriton,Alresford
+2021-01-28,682000,SO24 0JX,S,N,F,Highways Cottage,,Petersfield Road,Bramdean,Alresford
+2021-01-27,465000,SO24 9SJ,S,N,F,Fircroft,,Inhams Row,Old Alresford,Alresford
+2021-01-25,567000,SO24 9JT,T,N,F,Bridge View,,Nursery Road,,Alresford
+2021-01-21,1400000,SO24 9BP,D,N,F,Ferndale House,,Pound Hill,,Alresford
+2021-01-20,437500,SO24 9JJ,S,N,F,1,,Jacklyns Lane,,Alresford
+2021-01-20,1795000,SO24 9AN,S,N,F,48,,Broad Street,,Alresford
+2021-01-18,520000,SO24 9LX,D,N,F,The Lilacs,,Haig Road,,Alresford
+2021-01-15,980000,SO24 0RE,D,N,F,The Corner House,,,Ovington,Alresford
+2021-01-14,475000,SO24 9BA,S,N,F,28,,Arle Gardens,,Alresford
+2021-01-12,3975000,SO24 0JJ,D,N,F,Tytheland Farm,,Woodlands,Bramdean,Alresford
+2021-01-08,760000,SO24 0DA,D,N,F,Brackenwood,,Swelling Hill,Ropley,Alresford
+2021-01-08,535000,SO24 0BL,S,N,F,Station Views,1,Station Hill,Ropley,Alresford
+2021-01-07,235000,SO24 9EY,F,N,L,31,,Ellingham Close,,Alresford
+2021-01-07,1100000,SO24 0RB,D,N,F,The Old Hall,,,Ovington,Alresford
+2021-01-06,400000,SO24 9JA,S,N,F,3,,Jesty Road,,Alresford

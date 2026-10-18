@@ -150,7 +150,7 @@
 
   function drawTrend() {
     var W = 640, H = 300, pl = 58, pr = 12, pt = 10, pb = 28;
-    var months = D.hpi_series.la.map(function (p) { return p[0]; });
+    var months = D.hpi_series[GEOS[0].key].map(function (p) { return p[0]; });  // the council's series may be missing
     var series = GEOS.map(function (g) {
       var s = D.hpi_series[g.key], base = s[0][1];
       return { g: g, pts: s.map(function (p) { return trendMode === "price" ? p[1] : 100 * (p[1] - base) / base; }) };
@@ -185,7 +185,9 @@
     });
     el("trend").innerHTML = '<svg viewBox="0 0 ' + W + " " + H + '" role="img" aria-label="Average price trend">' + g + "</svg>";
     el("trend-title").textContent = trendMode === "price" ? "Average price." : "Change since " + mlabel(months[0], true) + ".";
-    el("trend-note").textContent = "UK House Price Index, mix-adjusted. Published for " + A.local_authority + " (not " + A.district + " alone), about two months behind.";
+    el("trend-note").textContent = (D.hpi_series.la && D.hpi_series.la.length)
+      ? "UK House Price Index, mix-adjusted. Published for " + A.local_authority + " (not " + A.district + " alone), about two months behind."
+      : "No UK House Price Index is published for " + A.local_authority + ", so this shows " + GEOS.map(function (g) { return g.name; }).join(" and ") + ".";
     el("trend-legend").innerHTML = GEOS.map(function (g) {
       return '<span><i style="background:' + g.colour + '"></i>' + esc(g.name) + "</span>";
     }).join("");

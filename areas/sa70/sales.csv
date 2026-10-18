@@ -1,0 +1,899 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-13,430000,SA70 7NQ,D,N,F,1,,Longfield,Penally,Tenby
+2026-07-30,320000,SA70 7PW,D,N,F,Crossing Cottage,,School Lane,Penally,Tenby
+2026-07-29,295000,SA70 8LT,T,N,F,18,,Flemish Close,St Florence,Tenby
+2026-07-29,285000,SA70 7HH,D,N,L,12,,St Marys Court,,Tenby
+2026-07-21,430000,SA70 7QF,D,N,F,15,,Strawberry Gardens,Penally,Tenby
+2026-07-10,230000,SA70 7QR,S,N,F,4,,Giltar Way,Penally,Tenby
+2026-07-09,136000,SA70 8DT,F,N,L,54,,The Clicketts,,Tenby
+2026-06-26,385000,SA70 8HR,T,N,F,2,,Mayfield Drive,,Tenby
+2026-06-22,155000,SA70 7LZ,F,N,L,29,,Clareston Court,,Tenby
+2026-06-22,200000,SA70 7DS,F,N,L,Barrington House,Flat 8,Southcliff Gardens,,Tenby
+2026-06-12,940000,SA70 8AB,D,N,F,Bell Tree House,,The Norton,,Tenby
+2026-06-05,220000,SA70 7DY,F,N,L,34,Flat 5,Victoria Street,,Tenby
+2026-06-04,155000,SA70 8EH,T,N,F,4,,Queensfield,,Tenby
+2026-06-03,147000,SA70 8SZ,S,N,F,52,,Hop Gardens Road,Sageston,Tenby
+2026-05-15,688000,SA70 8DW,D,N,F,6,,Scotsborough View,,Tenby
+2026-05-15,262500,SA70 7PR,F,N,L,Fern House,Flat 5,,Penally,Tenby
+2026-05-15,140000,SA70 7DZ,F,N,L,Wimbledon Court,Flat 6,St Florence Parade,,Tenby
+2026-05-08,230000,SA70 8QQ,D,N,F,3,,Gainer Way,Jameston,Tenby
+2026-05-08,235125,SA70 8QD,S,N,F,1,,Bush Terrace,Jameston,Tenby
+2026-05-06,250000,SA70 8HA,T,N,F,95,,The Glebe,,Tenby
+2026-05-06,210000,SA70 7LU,F,N,L,Edward House,Flat 1,Edward Street,,Tenby
+2026-05-01,380000,SA70 8BD,D,N,F,29,,Garden Meadows Park,,Tenby
+2026-04-17,201500,SA70 7DG,T,N,F,3,,South Parade,,Tenby
+2026-04-02,595000,SA70 8HW,D,N,F,16,,Haytor Gardens,,Tenby
+2026-03-27,800000,SA70 8NX,D,N,F,Hazel Hill,,,Milton,Tenby
+2026-03-27,190000,SA70 8EN,S,N,F,34,,Newell Hill,,Tenby
+2026-03-27,253500,SA70 8EB,S,N,F,49,,Knowling Mead,,Tenby
+2026-03-27,235000,SA70 7QW,S,N,F,2,,Crackwell Close,Penally,Tenby
+2026-03-24,119000,SA70 8DT,F,N,L,1,,The Clicketts,,Tenby
+2026-03-20,142000,SA70 8DT,F,N,L,59,,The Clicketts,,Tenby
+2026-03-20,142000,SA70 8BP,S,N,F,2,,Heywood Court,,Tenby
+2026-03-16,77000,SA70 7LZ,F,N,L,35,,Clareston Court,,Tenby
+2026-03-13,440000,SA70 8DN,D,N,F,4,,Lamack Vale,,Tenby
+2026-03-05,65000,SA70 8AR,F,N,L,9A,,Croft Court,,Tenby
+2026-02-26,460000,SA70 7SX,D,N,F,La Casita,,,Manorbier,Tenby
+2026-02-24,225000,SA70 8HB,S,N,F,42,,The Glebe,,Tenby
+2026-02-24,870000,SA70 8BN,D,N,F,West Lawn,,Heywood Lane,,Tenby
+2026-02-20,180000,SA70 8TB,T,N,F,3,,Steps Road,Sageston,Tenby
+2026-02-13,225000,SA70 7QE,S,N,F,4,,Bower Bungalows,Penally,Tenby
+2026-02-13,193500,SA70 7PN,F,N,L,The Old Vicarage,The Coach House,,Penally,Tenby
+2026-02-13,315000,SA70 7HP,F,N,L,Paragon Court Flats,8,The Paragon,,Tenby
+2026-02-13,185000,SA70 7DY,F,N,L,"Beaufort House, 38",Flat 1,Victoria Street,,Tenby
+2026-02-09,325000,SA70 8QJ,D,N,F,The Stores,,,Jameston,Tenby
+2026-02-06,455000,SA70 8JJ,D,N,F,21,,Lady Park,,Tenby
+2026-02-06,277500,SA70 8HY,T,N,F,Cambrian Cottages,2,Narberth Road,,Tenby
+2026-02-06,325000,SA70 8EY,T,N,F,8,,The Green,,Tenby
+2026-02-06,130000,SA70 7AJ,F,N,L,Tudor House,Flat 4,Tudor Square,,Tenby
+2026-01-30,260000,SA70 8SJ,S,N,F,14,,Kesteven Court,Carew,Tenby
+2026-01-30,525000,SA70 7QF,S,N,F,8,,Strawberry Gardens,Penally,Tenby
+2026-01-30,207500,SA70 7PR,F,N,L,Fern House,Flat 2,,Penally,Tenby
+2026-01-19,180000,SA70 8SW,T,N,F,25,,Bartletts Well Road,Sageston,Tenby
+2026-01-19,235000,SA70 8HF,T,N,F,14,,St Johns Hill,,Tenby
+2026-01-15,264000,SA70 8AB,T,N,F,North Beach Mews,Ramsey Cottage,The Norton,,Tenby
+2026-01-07,230000,SA70 8DJ,S,N,F,3,,The Paddock,,Tenby
+2025-12-19,285000,SA70 7JD,F,N,L,The Cobourg,Flat 7,Upper Frog Street,,Tenby
+2025-12-16,250000,SA70 8DD,D,N,F,Milton,,Serpentine Road,,Tenby
+2025-12-16,440000,SA70 7HL,F,N,L,Paragon House,Apartment 4,The Paragon,,Tenby
+2025-12-15,225000,SA70 8EN,D,N,F,39,,Newell Hill,,Tenby
+2025-12-15,300000,SA70 8BJ,T,N,F,1,,Rosemount Gardens,,Tenby
+2025-12-15,238000,SA70 7DY,F,N,L,Islay Court 21-22,Flat 2,Victoria Street,,Tenby
+2025-12-12,350000,SA70 7HA,F,N,L,"Royal Victoria Court, 5 - 6",Flat 3,Crackwell Street,,Tenby
+2025-12-10,530000,SA70 8RZ,D,N,F,4,,Green Meadow Close,East Williamston,Tenby
+2025-12-08,415000,SA70 8SY,D,N,F,Summerton Cottage,,,Sageston,Tenby
+2025-12-05,585500,SA70 8RU,D,N,F,Windrush,,,East Williamston,Tenby
+2025-12-02,530000,SA70 8BD,D,N,F,27,,Garden Meadows Park,,Tenby
+2025-11-25,249000,SA70 7HH,F,N,L,7,,St Marys Court,,Tenby
+2025-11-25,310000,SA70 7ED,S,N,F,26,,Culver Park,,Tenby
+2025-11-24,295000,SA70 7LJ,S,N,F,Hillgrove,,Greenhill Road,,Tenby
+2025-11-21,530000,SA70 8AP,F,N,L,Court House,10,The Croft,,Tenby
+2025-11-20,240000,SA70 7QJ,D,N,F,1,,Alma Close,Penally,Tenby
+2025-11-17,195000,SA70 8LR,S,N,F,4,,The Courtyard,St Florence,Tenby
+2025-11-13,285000,SA70 8TR,S,N,F,Stonelea,,,New Hedges,Tenby
+2025-11-06,190000,SA70 8SJ,S,N,F,7,,Kesteven Court,Carew,Tenby
+2025-11-04,395000,SA70 7NH,T,N,F,9,,Quarry Cottages,,Tenby
+2025-10-28,205000,SA70 7PY,S,N,F,Stable Cottage,,,Penally,Tenby
+2025-10-24,525000,SA70 8SG,D,N,F,Oaklands,,,Sageston,Tenby
+2025-10-24,201000,SA70 7DY,F,N,L,36,Flat 3,Victoria Street,,Tenby
+2025-10-21,285000,SA70 8JF,D,N,F,73,,Upper Hill Park,,Tenby
+2025-10-17,305000,SA70 8TG,D,N,F,11,,St Annes Drive,New Hedges,Tenby
+2025-10-17,220000,SA70 7LE,F,N,L,"Flint House, 8",Flat 2,Deer Park,,Tenby
+2025-10-17,257500,SA70 7HH,F,N,L,2,,St Marys Court,,Tenby
+2025-10-17,230000,SA70 7DG,T,N,F,5,,South Parade,,Tenby
+2025-10-14,227000,SA70 7NB,F,N,L,Park House,Apartment 1,Park Place,,Tenby
+2025-10-13,129000,SA70 8DT,F,N,L,64,,The Clicketts,,Tenby
+2025-10-10,198000,SA70 7NT,D,N,F,Ridgeside,,The Ridgeway,Penally,Tenby
+2025-10-09,150000,SA70 8NA,S,N,F,1,,Greenhayes,St Florence,Tenby
+2025-10-08,482000,SA70 8DD,D,N,F,The Garth,,Serpentine Road,,Tenby
+2025-10-06,220000,SA70 7HG,F,N,L,Chatsworth House,Flat 2,Cresswell Street,,Tenby
+2025-10-03,215000,SA70 8SF,S,N,F,10,,Hop Gardens Road,Sageston,Tenby
+2025-10-03,320000,SA70 8SE,D,N,F,1,,Ferndale,Sageston,Tenby
+2025-10-03,175000,SA70 8EB,S,N,F,39,,Knowling Mead,,Tenby
+2025-10-03,175000,SA70 7TL,S,N,F,14,,Manor Crescent,Manorbier,Tenby
+2025-10-01,1250000,SA70 7BD,T,N,F,1,,Rock Houses,,Tenby
+2025-09-29,245000,SA70 8DL,T,N,F,Gilford,,Broadwell Hayes,,Tenby
+2025-09-29,256000,SA70 7QE,D,N,F,Shalom,,,Penally,Tenby
+2025-09-24,310000,SA70 7JD,F,N,L,The Cobourg,Flat 5,Upper Frog Street,,Tenby
+2025-09-12,850000,SA70 8NH,D,N,F,1,,Cadwallader Court,St Florence,Tenby
+2025-09-12,379500,SA70 8JL,D,N,F,14,,Seascape,,Tenby
+2025-09-12,710000,SA70 8DW,D,N,F,3,,Scotsborough View,,Tenby
+2025-09-12,189000,SA70 7LP,T,N,F,"Fern Cottage, 1",,Penally Road,,Tenby
+2025-09-12,376500,SA70 7LL,S,N,F,3,,Harding Villas,,Tenby
+2025-09-12,365000,SA70 7ET,F,N,L,Paxton Court,Apartment 32,White Lion Street,,Tenby
+2025-09-05,225000,SA70 8HA,S,N,F,49,,The Glebe,,Tenby
+2025-09-05,770000,SA70 7BU,T,N,F,Quayside,,Bridge Street,,Tenby
+2025-08-29,370000,SA70 8JG,S,N,F,91,,Upper Hill Park,,Tenby
+2025-08-29,230000,SA70 8AE,T,N,L,8,,Merlins Gardens,,Tenby
+2025-08-29,250000,SA70 7TD,T,N,F,Milton Cottage,,,Manorbier,Tenby
+2025-08-29,192500,SA70 7JT,F,N,L,St. Nicholas Court,Flat 4,Warren Street,,Tenby
+2025-08-28,235000,SA70 8QF,D,N,F,3,,Meadow Road,Jameston,Tenby
+2025-08-22,238000,SA70 7LR,T,N,F,2,,Clareston Road,,Tenby
+2025-08-21,220000,SA70 8HB,S,N,F,68,,The Glebe,,Tenby
+2025-08-19,367500,SA70 8JE,D,N,F,6,,Upper Hill Park,,Tenby
+2025-08-19,170000,SA70 8EA,S,N,F,12,,Knowling Mead,,Tenby
+2025-08-18,615000,SA70 8BT,D,N,F,7,,St Davids Close,,Tenby
+2025-08-12,279950,SA70 7HX,T,N,F,Winkle Cottage,,Lower Frog Street,,Tenby
+2025-08-11,795000,SA70 7PY,D,N,F,St. Deiniols Lodge,,,Penally,Tenby
+2025-08-08,197000,SA70 8SJ,S,N,F,6,,Kesteven Court,Carew,Tenby
+2025-08-07,325000,SA70 8LU,T,N,F,Old Barn Cottage,,,St Florence,Tenby
+2025-08-06,235000,SA70 7LU,T,N,F,5,,Edward Street,,Tenby
+2025-08-05,420000,SA70 8NG,D,N,F,2,,Parsons Green,St Florence,Tenby
+2025-07-31,245000,SA70 8LR,S,N,F,Parsonage Farm,1 The Courtyard,,St Florence,Tenby
+2025-07-31,255000,SA70 8HT,T,N,L,Bryn Y Mor,2 Monkstone Cottages,Narberth Road,,Tenby
+2025-07-29,400000,SA70 8PN,D,N,F,Avalon,,Paskeston Lane,Milton,Tenby
+2025-07-28,110000,SA70 8DT,F,N,L,73,,The Clicketts,,Tenby
+2025-07-25,250000,SA70 8QF,D,N,F,8,,Meadow Road,Jameston,Tenby
+2025-07-18,106000,SA70 8RP,D,N,F,Cwtch,,Redberth Gardens,Redberth,Tenby
+2025-07-18,425000,SA70 7SX,D,N,F,Beachcroft,,,Manorbier,Tenby
+2025-07-18,500000,SA70 7EH,T,N,F,8,,Queens Parade,,Tenby
+2025-07-17,278000,SA70 7DY,F,N,L,"Beaufort House, 38",Flat 2,Victoria Street,,Tenby
+2025-07-17,210000,SA70 7DT,F,N,L,Spetchley,Flat 3,St Florence Parade,,Tenby
+2025-07-14,230000,SA70 7TU,T,N,F,15,,Wheelers Way,Manorbier,Tenby
+2025-07-11,400000,SA70 7AQ,F,N,L,Waterstone House,Apartment 14,Battery Road,,Tenby
+2025-07-10,410000,SA70 8BD,D,N,F,6,,Garden Meadows Park,,Tenby
+2025-07-09,140000,SA70 7PZ,F,N,L,2,,The Mount,Penally,Tenby
+2025-07-08,205000,SA70 7DY,F,N,L,Islay Court 21-22,Flat 5,Victoria Street,,Tenby
+2025-07-04,142500,SA70 8DT,T,N,L,12,,The Clicketts,,Tenby
+2025-07-02,325000,SA70 7HG,S,N,F,Gunfort Cottage,,Cresswell Street,,Tenby
+2025-06-27,130000,SA70 7LZ,T,N,L,9,,Clareston Court,,Tenby
+2025-06-27,555000,SA70 7EH,T,N,F,5,,Queens Parade,,Tenby
+2025-06-25,297000,SA70 7ND,T,N,F,6,,Park Road,,Tenby
+2025-06-24,377500,SA70 8SQ,D,N,F,Amstel,,,Sageston,Tenby
+2025-06-24,215000,SA70 8JG,D,N,F,101,,Upper Hill Park,,Tenby
+2025-06-09,151000,SA70 8LS,F,N,L,Coach House Corner,Flat 2,,St Florence,Tenby
+2025-06-06,285000,SA70 8EY,T,N,F,9,,The Green,,Tenby
+2025-06-06,180000,SA70 7AA,F,N,L,"Northcliffe House, 46",Flat 8,High Street,,Tenby
+2025-06-05,316000,SA70 7HT,T,N,F,Lexden Cottages,2,Lower Frog Street,,Tenby
+2025-05-30,215500,SA70 8DS,T,N,F,1,,Cornfields Walk,Sageston,Tenby
+2025-05-30,140000,SA70 7LZ,F,N,L,32,,Clareston Court,,Tenby
+2025-05-30,290000,SA70 7DU,F,N,L,South Beach Court,12A,Esplanade,,Tenby
+2025-05-28,155000,SA70 8RP,T,N,F,Birch Cottage,,Redberth Gardens,Redberth,Tenby
+2025-05-27,279950,SA70 8TQ,S,N,F,36,,Sageston Fields,Sageston,Tenby
+2025-05-27,220000,SA70 7JY,F,N,L,Ace Court,Flat 7,Warren Street,,Tenby
+2025-05-23,217500,SA70 7ET,F,N,L,Paxton Court,Apartment 34,White Lion Street,,Tenby
+2025-05-21,277500,SA70 8AH,F,N,L,Glendower House,Flat 3,The Norton,,Tenby
+2025-05-16,460000,SA70 8LU,S,N,F,Doves Nest,,,St Florence,Tenby
+2025-05-16,342500,SA70 8LN,T,N,F,2,,Morgans Terrace,St Florence,Tenby
+2025-05-16,550000,SA70 8DZ,D,Y,F,5,,Ash Grove Gardens,St Florence,Tenby
+2025-05-16,410000,SA70 7JD,F,N,L,The Cobourg,Flat 11,Upper Frog Street,,Tenby
+2025-05-12,250000,SA70 8EJ,T,N,F,4,,Marsh Road,,Tenby
+2025-05-12,235000,SA70 7ET,F,N,L,Paxton Court,Apartment 20,White Lion Street,,Tenby
+2025-05-09,289950,SA70 8DS,D,Y,F,60,,Cornfields Walk,Sageston,Tenby
+2025-04-30,230000,SA70 8JG,S,N,F,109,,Upper Hill Park,,Tenby
+2025-04-29,210000,SA70 8AR,F,N,L,64,,Croft Court,,Tenby
+2025-04-29,114000,SA70 7HA,F,N,L,"Royal Victoria Court, 5 - 6",Flat 10,Crackwell Street,,Tenby
+2025-04-29,205000,SA70 7DZ,F,N,L,Wimbledon,Flat 13,St Florence Parade,,Tenby
+2025-04-28,285000,SA70 7PS,D,N,F,Penalyn,,,Penally,Tenby
+2025-04-25,290000,SA70 8SA,D,N,F,Rosewood,,,Redberth,Tenby
+2025-04-25,200000,SA70 8EA,S,N,F,30,,Knowling Mead,,Tenby
+2025-04-15,630000,SA70 8BA,D,N,F,Bear Cottage,,Fiddlers Lane,St Florence,Tenby
+2025-04-15,960000,SA70 7LL,D,N,F,Weston Lodge,,Harding Street,,Tenby
+2025-04-15,499000,SA70 7LL,S,N,F,6,,Harding Villas,,Tenby
+2025-04-11,540000,SA70 8PW,D,N,F,4,,Elveston Drive,East Williamston,Tenby
+2025-04-11,250000,SA70 8DD,S,N,F,Treetops,,Serpentine Road,,Tenby
+2025-04-11,610000,SA70 7TH,D,N,F,1,,Morfa Terrace,Manorbier,Tenby
+2025-04-11,430000,SA70 7PR,D,N,F,Abbey Garden,,,Penally,Tenby
+2025-04-04,367500,SA70 8DD,S,N,F,Woodview,,Serpentine Road,,Tenby
+2025-04-03,500000,SA70 7DP,S,N,F,Southside,,Picton Road,,Tenby
+2025-04-02,140000,SA70 8LR,F,N,L,3,,Parsonage Farm Flats,St Florence,Tenby
+2025-04-02,135000,SA70 8DT,F,N,L,51,,The Clicketts,,Tenby
+2025-04-02,375000,SA70 7PF,D,N,F,16,,St Nicholas Crescent,Penally,Tenby
+2025-03-31,450000,SA70 8PR,D,N,F,South Hills Lodge,,,Milton,Tenby
+2025-03-28,373000,SA70 8AP,F,Y,L,Croft House,Flat 2,The Croft,,Tenby
+2025-03-28,215000,SA70 7NY,D,N,F,3,,Hoyles Close,Penally,Tenby
+2025-03-27,385000,SA70 8DS,D,Y,F,27,,Cornfields Walk,Sageston,Tenby
+2025-03-27,220000,SA70 8BY,S,N,F,Heywood Cottage,,Heywood Lane,,Tenby
+2025-03-20,718000,SA70 7PH,D,N,F,3,,Kenystyle,Penally,Tenby
+2025-03-19,367500,SA70 8TQ,D,N,F,2,,Sageston Fields,Sageston,Tenby
+2025-03-14,255000,SA70 7JY,F,N,L,Connaught House,Flat 2,Warren Street,,Tenby
+2025-03-12,399500,SA70 7DP,T,N,F,1,,Picton Road,,Tenby
+2025-03-07,172000,SA70 8TB,D,N,F,10,,Steps Road,Sageston,Tenby
+2025-03-07,500000,SA70 7ET,F,N,L,Paxton Court,Apartment 35,White Lion Street,,Tenby
+2025-03-07,292500,SA70 7ET,F,N,L,Paxton Court,Apartment 33,White Lion Street,,Tenby
+2025-03-04,185000,SA70 8EA,T,N,F,25,,Knowling Mead,,Tenby
+2025-02-28,175000,SA70 8TE,D,N,F,11,,Perrotts Road,Sageston,Tenby
+2025-02-28,170000,SA70 7QD,T,N,F,4,,Giltar Terrace,Penally,Tenby
+2025-02-28,255000,SA70 7NZ,S,N,F,17,,The Paddock,Penally,Tenby
+2025-02-28,283500,SA70 7ED,T,N,F,6,,Culver Park,,Tenby
+2025-02-25,245000,SA70 8HB,S,N,F,36,,The Glebe,,Tenby
+2025-02-21,305000,SA70 8TQ,D,N,F,33,,Sageston Fields,Sageston,Tenby
+2025-02-21,340000,SA70 8TG,D,N,F,19,,St Annes Drive,New Hedges,Tenby
+2025-02-21,352500,SA70 8DN,D,N,F,7,,Lamack Vale,,Tenby
+2025-02-21,400000,SA70 7SX,D,N,F,Balandra,,,Manorbier,Tenby
+2025-02-21,203000,SA70 7NY,D,N,F,6,,Hoyles Close,Penally,Tenby
+2025-02-14,220000,SA70 7HN,T,N,F,1,,St Marys Street,,Tenby
+2025-02-13,265000,SA70 7QP,S,N,F,6,,Penally Heights,Penally,Tenby
+2025-02-11,125000,SA70 8LT,S,N,F,Pear Tree Cottage,,Flemish Close,St Florence,Tenby
+2025-02-07,215000,SA70 8LU,S,N,F,Cobb Cottage,,,St Florence,Tenby
+2025-02-07,545000,SA70 7PT,S,N,F,Picton House,,,Penally,Tenby
+2025-02-06,260000,SA70 8TL,D,N,F,Beechwood,,,New Hedges,Tenby
+2025-01-31,157000,SA70 8SW,S,N,F,27,,Bartletts Well Road,Sageston,Tenby
+2025-01-31,230000,SA70 8DS,S,Y,F,38,,Cornfields Walk,Sageston,Tenby
+2025-01-31,395000,SA70 7BX,T,N,F,1,,Quay Hill,,Tenby
+2025-01-29,250000,SA70 8JF,D,N,F,74A,,Upper Hill Park,,Tenby
+2025-01-29,575000,SA70 8BT,D,N,F,4,,St Davids Close,,Tenby
+2025-01-24,150000,SA70 8HB,S,N,F,6,,The Glebe,,Tenby
+2025-01-24,400000,SA70 7JU,T,N,F,Stella Maris,,Warren Street,,Tenby
+2025-01-22,290000,SA70 7ET,F,N,L,Paxton Court,Apartment 15,White Lion Street,,Tenby
+2025-01-20,212900,SA70 7NX,S,N,F,19,,Holloway Court,Penally,Tenby
+2025-01-10,305000,SA70 7DP,T,N,F,2,,Picton Road,,Tenby
+2025-01-09,210000,SA70 7AA,F,N,L,"Northcliffe House, 46",Flat 9,High Street,,Tenby
+2025-01-08,160000,SA70 7AA,F,N,L,"Northcliffe House, 46",Flat 5,High Street,,Tenby
+2024-12-20,130000,SA70 8LS,F,N,L,Coach House Corner,Flat 3,,St Florence,Tenby
+2024-12-20,244000,SA70 8AB,T,N,F,Norton Cottages,5,The Norton,,Tenby
+2024-12-20,190000,SA70 7LZ,F,N,L,42,,Clareston Court,,Tenby
+2024-12-20,140000,SA70 7LZ,F,N,L,15,,Clareston Court,,Tenby
+2024-12-20,150000,SA70 7DW,T,N,F,27,,Trafalgar Road,,Tenby
+2024-12-19,380000,SA70 8DD,S,N,F,Delfryn,,Serpentine Road,,Tenby
+2024-12-16,285000,SA70 8TG,D,N,F,2,,St Annes Drive,New Hedges,Tenby
+2024-12-16,253000,SA70 7NZ,S,N,F,15,,The Paddock,Penally,Tenby
+2024-12-13,310000,SA70 8TQ,D,N,F,29,,Sageston Fields,Sageston,Tenby
+2024-12-12,280000,SA70 8QT,D,N,F,7,,Hawthorn Lane,Jameston,Tenby
+2024-12-12,163500,SA70 8AB,F,N,L,Merlins Court Mews,Flat 1,The Norton,,Tenby
+2024-12-11,105000,SA70 7AJ,F,N,L,Tredegar House,Flat 4,Tudor Square,,Tenby
+2024-12-03,125000,SA70 8AA,F,N,L,"Warwick House, 16",Flat 2,The Norton,,Tenby
+2024-12-02,415000,SA70 7PE,D,N,F,Dolwen,,,Penally,Tenby
+2024-11-29,350000,SA70 7NH,T,N,F,4,,Quarry Cottages,,Tenby
+2024-11-29,530000,SA70 7JU,T,N,F,16,,Warren Street,,Tenby
+2024-11-28,230000,SA70 8TR,T,N,F,Monkstone,3,,New Hedges,Tenby
+2024-11-28,490000,SA70 8QU,D,N,F,8,,Grove Crescent,Jameston,Tenby
+2024-11-21,260000,SA70 7LU,T,N,F,2,,Edward Street,,Tenby
+2024-11-07,262500,SA70 8DS,D,Y,F,29,,Cornfields Walk,Sageston,Tenby
+2024-11-04,213000,SA70 7TR,S,N,F,22,,Gray Avenue,Manorbier,Tenby
+2024-11-01,232500,SA70 8DS,S,Y,F,37,,Cornfields Walk,Sageston,Tenby
+2024-10-30,257000,SA70 8DS,D,Y,F,30,,Cornfields Walk,Sageston,Tenby
+2024-10-29,210000,SA70 8SW,D,N,F,19,,Bartletts Well Road,Sageston,Tenby
+2024-10-29,245000,SA70 7NT,S,N,F,Cedars,,The Ridgeway,Penally,Tenby
+2024-10-28,215000,SA70 8BX,D,N,F,27,,Tudor Way,,Tenby
+2024-10-24,380000,SA70 7NA,T,N,F,8,,Harries Street,,Tenby
+2024-10-22,240000,SA70 7BN,F,N,L,1,Flat 2,Castle Square,,Tenby
+2024-10-22,252500,SA70 7AA,F,N,L,"Northcliffe House, 46",Flat 3,High Street,,Tenby
+2024-10-18,395000,SA70 8AA,F,N,L,6,Flat 1,The Norton,,Tenby
+2024-10-18,377500,SA70 7TH,D,N,F,Carnabrae,,,Manorbier,Tenby
+2024-10-17,262500,SA70 8DS,D,Y,F,28,,Cornfields Walk,Sageston,Tenby
+2024-10-14,315000,SA70 8AB,T,N,F,31,,The Norton,,Tenby
+2024-10-04,387500,SA70 8AP,F,N,L,Glendower House,Flat 5,The Norton,,Tenby
+2024-10-02,242000,SA70 7AA,F,N,L,"Northcliffe House, 46",Flat 6,High Street,,Tenby
+2024-09-27,240000,SA70 8JG,S,N,L,112,,Upper Hill Park,,Tenby
+2024-09-27,240000,SA70 8DS,S,Y,F,35,,Cornfields Walk,Sageston,Tenby
+2024-09-25,460000,SA70 8AP,F,N,L,Sunny Cove,Flat 5,The Croft,,Tenby
+2024-09-20,400000,SA70 7PA,D,N,F,Mor Awelon,,Fourwinds Lane,Penally,Tenby
+2024-09-20,62500,SA70 7DS,F,N,L,Barrington House,Flat 4,Southcliff Gardens,,Tenby
+2024-09-19,445545,SA70 7NA,T,N,F,29,,Harries Street,,Tenby
+2024-09-17,258000,SA70 8QJ,D,N,F,Selemat,,,Jameston,Tenby
+2024-09-13,235000,SA70 8JF,S,N,F,75,,Upper Hill Park,,Tenby
+2024-09-13,420000,SA70 7PE,D,N,F,Valldemosa,,,Penally,Tenby
+2024-09-11,225000,SA70 8DS,S,Y,F,39,,Cornfields Walk,Sageston,Tenby
+2024-09-09,260000,SA70 8EJ,T,N,F,9,,Marsh Road,,Tenby
+2024-09-06,287500,SA70 8TQ,D,N,F,32,,Sageston Fields,Sageston,Tenby
+2024-09-06,275000,SA70 8TP,S,N,F,2,,Hunters Park,New Hedges,Tenby
+2024-09-05,585000,SA70 7SE,D,N,F,The Glen,,,Lydstep,Tenby
+2024-08-29,517500,SA70 7PE,D,N,F,Orchard House,,,Penally,Tenby
+2024-08-28,225000,SA70 8DS,S,Y,F,40,,Cornfields Walk,Sageston,Tenby
+2024-08-23,450000,SA70 7EF,T,N,F,Rosebay,,Church Park,,Tenby
+2024-08-23,290000,SA70 7DZ,F,N,L,Wimbledon,Flat 12,St Florence Parade,,Tenby
+2024-08-22,200000,SA70 8SF,S,N,F,21,,Hop Gardens Road,Sageston,Tenby
+2024-08-20,652500,SA70 7TN,D,N,F,Longfield,5,,Manorbier,Tenby
+2024-08-19,275000,SA70 7NU,S,N,F,Little Mead,,Ridgeway Road,Penally,Tenby
+2024-08-16,390000,SA70 7JT,T,N,F,Ynyslas,,Warren Street,,Tenby
+2024-08-09,156500,SA70 8DP,F,N,L,Serpentine Gardens,Flat 1,Serpentine Road,,Tenby
+2024-08-09,185000,SA70 7LW,F,N,L,Kilmore,Flat 2,Harding Street,,Tenby
+2024-08-09,335000,SA70 7EU,F,N,L,6,Flat 1,High Street,,Tenby
+2024-08-01,421950,SA70 8DS,D,Y,F,57,,Cornfields Walk,Sageston,Tenby
+2024-07-26,124000,SA70 8DT,F,N,L,54,,The Clicketts,,Tenby
+2024-07-26,205000,SA70 7HJ,T,N,F,4,,Cresswell Street,,Tenby
+2024-07-25,185000,SA70 7TE,F,N,L,Lion House,Flat 1,,Manorbier,Tenby
+2024-07-24,260000,SA70 8LZ,S,N,F,Lavender Cottage,,,St Florence,Tenby
+2024-07-24,480000,SA70 7PD,D,N,F,Wyndmere,,,Penally,Tenby
+2024-07-23,287500,SA70 8DS,D,Y,F,45,,Cornfields Walk,Sageston,Tenby
+2024-07-19,224000,SA70 7TS,S,N,F,38,,Dewing Avenue,Manorbier,Tenby
+2024-07-17,395000,SA70 8DD,D,N,F,Inglenook,,Serpentine Road,,Tenby
+2024-07-15,215000,SA70 8SF,D,N,F,2,,Hop Gardens Road,Sageston,Tenby
+2024-07-12,320000,SA70 8BZ,S,N,F,Silverleys,,Heywood Lane,,Tenby
+2024-07-11,218000,SA70 8DS,S,Y,F,41,,Cornfields Walk,Sageston,Tenby
+2024-07-10,340000,SA70 8AD,T,N,F,12,,Merlins Court,,Tenby
+2024-07-10,330000,SA70 7ET,F,N,L,Paxton Court,Apartment 1,White Lion Street,,Tenby
+2024-07-02,130000,SA70 8DT,F,N,L,78,,The Clicketts,,Tenby
+2024-06-28,245000,SA70 8SE,D,N,F,4,,Ferndale,Sageston,Tenby
+2024-06-28,125000,SA70 7LZ,F,N,L,2,,Clareston Court,,Tenby
+2024-06-27,230000,SA70 8EA,S,N,F,34,,Knowling Mead,,Tenby
+2024-06-17,287500,SA70 8DS,D,Y,F,46,,Cornfields Walk,Sageston,Tenby
+2024-06-14,247000,SA70 8DS,S,Y,F,33,,Cornfields Walk,Sageston,Tenby
+2024-06-12,240000,SA70 8DS,S,Y,F,34,,Cornfields Walk,Sageston,Tenby
+2024-06-05,262500,SA70 7PT,D,N,F,Gorse Cottage,,,Penally,Tenby
+2024-06-04,193000,SA70 8DE,S,N,F,22,,Maudlins,,Tenby
+2024-05-24,170000,SA70 8SW,D,N,F,29,,Bartletts Well Road,Sageston,Tenby
+2024-05-24,60000,SA70 7LB,T,N,F,Island Cottages,4,Greenhill Avenue,,Tenby
+2024-05-17,625000,SA70 8LP,D,N,F,Waverley House,,,St Florence,Tenby
+2024-05-08,475000,SA70 8QH,D,N,F,Meadowbank,,Cob Lane,Jameston,Tenby
+2024-05-03,200000,SA70 8JG,D,N,F,93,,Upper Hill Park,,Tenby
+2024-05-03,133000,SA70 8DT,F,N,L,58,,The Clicketts,,Tenby
+2024-05-03,215000,SA70 8DS,S,Y,F,31,,Cornfields Walk,Sageston,Tenby
+2024-04-30,350000,SA70 8TQ,D,N,F,10,,Sageston Fields,Sageston,Tenby
+2024-04-30,320000,SA70 8PL,D,N,F,40,,Milton Meadows,Milton,Tenby
+2024-04-22,320000,SA70 7TU,D,N,F,1,,Wheelers Way,Manorbier,Tenby
+2024-04-19,120000,SA70 8SW,S,N,F,4,,Bartletts Well Road,Sageston,Tenby
+2024-04-19,240000,SA70 8DS,S,Y,F,25,,Cornfields Walk,Sageston,Tenby
+2024-04-09,200000,SA70 8DE,S,N,F,17,,Maudlins,,Tenby
+2024-04-05,122500,SA70 8DT,F,N,L,75,,The Clicketts,,Tenby
+2024-04-02,247000,SA70 8DS,S,Y,F,26,,Cornfields Walk,Sageston,Tenby
+2024-04-02,710000,SA70 7HW,T,N,F,Olive Buildings,2,St Marys Street,,Tenby
+2024-03-28,205000,SA70 8DN,D,N,F,Glasnevin Cottage,,Lamack Vale,,Tenby
+2024-03-27,268000,SA70 8TP,S,N,F,16,,Hunters Park,New Hedges,Tenby
+2024-03-27,285000,SA70 8LN,S,N,F,Bumblebee Cottage,,High Street,St Florence,Tenby
+2024-03-27,440000,SA70 7QR,D,N,F,12,,Giltar Way,Penally,Tenby
+2024-03-22,400000,SA70 8NG,D,N,F,12,,Parsons Green,St Florence,Tenby
+2024-03-22,463000,SA70 7LB,T,N,F,10,,Greenhill Avenue,,Tenby
+2024-03-22,278000,SA70 7JY,F,N,L,Ace Court,Flat 6,Warren Street,,Tenby
+2024-03-22,180000,SA70 7AA,F,N,L,"Northcliffe House, 46",Flat 2,High Street,,Tenby
+2024-03-20,400000,SA70 8NG,D,N,F,13,,Parsons Green,St Florence,Tenby
+2024-03-19,225000,SA70 8LZ,D,N,F,"Larkspur, 9",,Grove Court,St Florence,Tenby
+2024-03-18,415000,SA70 8TL,D,N,F,Clover Cottage,,,New Hedges,Tenby
+2024-03-18,540000,SA70 8HW,D,N,F,3,,Haytor Gardens,,Tenby
+2024-03-18,387500,SA70 7ET,F,N,L,Paxton Court,Apartment 2,White Lion Street,,Tenby
+2024-03-15,178000,SA70 8SW,S,N,F,28,,Bartletts Well Road,Sageston,Tenby
+2024-03-14,159950,SA70 8EE,D,N,F,19,,Bush Park,Jameston,Tenby
+2024-03-12,225000,SA70 7NB,F,N,L,Park House,Apartment 2,Park Place,,Tenby
+2024-03-04,175000,SA70 7HJ,F,N,L,Cresswell House,Flat 1,Cresswell Street,,Tenby
+2024-03-01,240000,SA70 8JG,S,N,L,96,,Upper Hill Park,,Tenby
+2024-03-01,352500,SA70 7ET,F,N,L,Paxton Court,Apartment 26,White Lion Street,,Tenby
+2024-02-28,192500,SA70 8AR,F,N,L,34,,Croft Court,,Tenby
+2024-02-28,475000,SA70 7HA,F,N,L,"Windsor House, 4",Apartment 3,Crackwell Street,,Tenby
+2024-02-22,470000,SA70 8SD,D,N,F,Carreg Lwyd,,,Sageston,Tenby
+2024-02-19,149950,SA70 8EE,D,N,F,21,,Bush Park,Jameston,Tenby
+2024-02-19,404000,SA70 8AR,F,N,L,62,,Croft Court,,Tenby
+2024-02-12,210000,SA70 8BX,T,N,F,19,,Tudor Way,,Tenby
+2024-02-09,120000,SA70 8AB,F,N,L,Merlins Court Mews,Flat 1,The Norton,,Tenby
+2024-02-09,167500,SA70 8AB,S,N,F,Merlins Court Mews,The Cottage,The Norton,,Tenby
+2024-02-09,87500,SA70 8AB,F,N,L,Merlins Court Mews,Flat 3,The Norton,,Tenby
+2024-02-09,90600,SA70 8AB,F,N,L,Merlins Court Mews,Flat 2,The Norton,,Tenby
+2024-02-06,250000,SA70 8JH,D,N,F,8,,Lady Park,,Tenby
+2024-02-06,252500,SA70 7LW,T,N,F,2 Island Cottages,,Harding Street,,Tenby
+2024-02-02,117650,SA70 8DT,F,N,L,51,,The Clicketts,,Tenby
+2024-02-02,270000,SA70 8DD,D,N,F,Whitehouse,,Serpentine Road,,Tenby
+2024-01-31,164000,SA70 8AY,T,N,F,3,,Hays Lane,Sageston,Tenby
+2024-01-26,300000,SA70 7RH,D,N,F,Trefloyne,7 Longbury,,Penally,Tenby
+2024-01-26,290000,SA70 7PZ,D,N,F,Pixie Grove,,,Penally,Tenby
+2024-01-24,440000,SA70 8LJ,D,N,F,Harpers Lake,,,St Florence,Tenby
+2024-01-08,185000,SA70 8SW,S,N,F,42,,Bartletts Well Road,Sageston,Tenby
+2024-01-05,360000,SA70 7LW,T,N,F,10,,Harding Street,,Tenby
+2024-01-05,458000,SA70 7HA,F,N,L,"Windsor House, 4",Apartment 4,Crackwell Street,,Tenby
+2023-12-21,284000,SA70 8AR,F,N,L,45,,Croft Court,,Tenby
+2023-12-19,382000,SA70 8BN,T,N,F,Queen Victoria House,1,Heywood Lane,,Tenby
+2023-12-18,2700000,SA70 8AT,D,N,F,Kingswood,,,,Tenby
+2023-12-18,135000,SA70 8AR,F,N,L,7,,Croft Court,,Tenby
+2023-12-15,165000,SA70 7JD,F,N,L,The Mews,Flat 5,Upper Frog Street,,Tenby
+2023-12-14,175000,SA70 8NG,S,N,F,17,,Parsons Green,St Florence,Tenby
+2023-12-14,320000,SA70 7LU,T,N,F,10,,Edward Street,,Tenby
+2023-12-13,195000,SA70 8AE,T,N,F,4,,Merlins Gardens,,Tenby
+2023-12-08,127000,SA70 8QJ,D,N,F,Ridgeway View,,,Jameston,Tenby
+2023-12-01,1200000,SA70 8AT,D,N,F,Longshaw,,North Cliffe,,Tenby
+2023-11-24,292500,SA70 7NY,D,N,F,14,,Hoyles Close,Penally,Tenby
+2023-11-23,765000,SA70 7TH,S,N,F,2,,Morfa Terrace,Manorbier,Tenby
+2023-11-20,165000,SA70 8NQ,T,N,L,7,,St Florence Cottages,St Florence,Tenby
+2023-11-17,315000,SA70 8QD,D,N,F,Ikoyi,,,Jameston,Tenby
+2023-11-17,275000,SA70 7TG,D,N,F,28,,Warlows Meadow,Manorbier,Tenby
+2023-11-17,240000,SA70 7NZ,T,N,F,12,,The Paddock,Penally,Tenby
+2023-11-10,285000,SA70 8QJ,D,N,F,West Cottage,,,Jameston,Tenby
+2023-11-09,245000,SA70 7PR,F,N,L,Fern House,Flat 5,,Penally,Tenby
+2023-11-07,400000,SA70 8NG,D,N,F,16,,Parsons Green,St Florence,Tenby
+2023-11-06,188000,SA70 8RY,T,N,F,4,,The Rise,Redberth,Tenby
+2023-11-02,305000,SA70 8TQ,D,N,F,30,,Sageston Fields,Sageston,Tenby
+2023-10-31,265000,SA70 8AS,S,N,L,122,,Croft Court,,Tenby
+2023-10-27,165000,SA70 8SF,S,N,F,24,,Hop Gardens Road,Sageston,Tenby
+2023-10-23,397000,SA70 8DB,D,N,F,20,,Oakridge Acres,,Tenby
+2023-10-20,335000,SA70 8QH,D,N,F,The Arches,,Cob Lane,Jameston,Tenby
+2023-10-20,257500,SA70 8DL,T,N,F,Sungate,,Broadwell Hayes,,Tenby
+2023-10-20,415000,SA70 7HA,F,N,L,"Royal Victoria Court, 5 - 6",Flat 11,Crackwell Street,,Tenby
+2023-10-19,315000,SA70 8RT,D,N,F,Sycamore Cottage,,,East Williamston,Tenby
+2023-10-19,210000,SA70 7NG,T,N,F,14,,Lower Park Road,,Tenby
+2023-10-18,425000,SA70 8NL,D,N,F,3,,Parklands,St Florence,Tenby
+2023-10-18,400000,SA70 8AX,D,N,F,6,,May Park,Jameston,Tenby
+2023-10-13,375000,SA70 8NG,D,N,F,14,,Parsons Green,St Florence,Tenby
+2023-10-13,215000,SA70 7TP,S,N,F,1,,Hounsell Avenue,Manorbier,Tenby
+2023-10-12,270000,SA70 7PZ,F,N,L,Flat 1,Sea Views,The Mount,Penally,Tenby
+2023-10-06,250000,SA70 8NG,S,N,F,18,,Parsons Green,St Florence,Tenby
+2023-10-06,345000,SA70 7JD,F,N,L,The Cobourg,Flat 6,Upper Frog Street,,Tenby
+2023-10-06,385000,SA70 7ED,T,N,F,20,,Culver Park,,Tenby
+2023-10-04,365000,SA70 8NG,D,N,F,15,,Parsons Green,St Florence,Tenby
+2023-09-29,270000,SA70 8TJ,S,N,F,Park Court,7,Narberth Road,,Tenby
+2023-09-29,180000,SA70 8DP,F,N,L,Serpentine Gardens,Flat 8,Serpentine Road,,Tenby
+2023-09-25,620000,SA70 8AP,F,N,L,Court House,7,The Croft,,Tenby
+2023-09-21,360065,SA70 7EE,T,N,F,Langston,,Church Park,,Tenby
+2023-09-15,370000,SA70 8AX,D,N,F,1,,May Park,Jameston,Tenby
+2023-09-13,600000,SA70 8AP,F,N,L,Court House,6,The Croft,,Tenby
+2023-09-06,445000,SA70 8LS,D,N,F,Cwtch Cottage,,,St Florence,Tenby
+2023-09-06,195000,SA70 8EA,S,N,F,29,,Knowling Mead,,Tenby
+2023-09-01,310000,SA70 8AR,F,N,L,51,,Croft Court,,Tenby
+2023-08-28,320000,SA70 8LU,S,N,F,Village Green Cottage,,,St Florence,Tenby
+2023-08-25,205000,SA70 8SS,D,N,F,11,,Brook Meadows,Sageston,Tenby
+2023-08-25,840000,SA70 7BY,T,N,F,Harbour View,1,Crackwell Street,,Tenby
+2023-08-18,266000,SA70 8QF,D,N,F,11,,Meadow Road,Jameston,Tenby
+2023-08-11,169000,SA70 7JT,F,N,L,St. Nicholas Court,Flat 6,Warren Street,,Tenby
+2023-08-11,189500,SA70 7DT,F,N,L,Spetchley,Flat 1,St Florence Parade,,Tenby
+2023-08-10,385000,SA70 7ED,T,N,F,4,,Culver Park,,Tenby
+2023-08-07,142500,SA70 8NQ,F,N,L,Ivy Tower Village,The Coach House Flat 1,,St Florence,Tenby
+2023-08-07,670000,SA70 8LQ,D,N,F,Summers Hill,,The Ridgeway,Manorbier,Tenby
+2023-08-07,340000,SA70 8DN,D,N,F,12,,Lamack Vale,,Tenby
+2023-08-04,310000,SA70 8TS,D,N,F,2,,Lake Drive,New Hedges,Tenby
+2023-08-02,475000,SA70 8AP,F,Y,L,Croft House,Flat 4,The Croft,,Tenby
+2023-07-31,245000,SA70 8TP,S,N,F,20,,Hunters Park,New Hedges,Tenby
+2023-07-28,350000,SA70 8LT,T,N,F,18,,Flemish Close,St Florence,Tenby
+2023-07-21,155000,SA70 8DT,F,N,L,8,,The Clicketts,,Tenby
+2023-07-21,218500,SA70 8AE,T,N,F,7,,Merlins Gardens,,Tenby
+2023-07-21,220000,SA70 8AE,T,N,F,13,,Merlins Gardens,,Tenby
+2023-07-14,195000,SA70 8TP,S,N,F,2,,Hunters Park,New Hedges,Tenby
+2023-07-14,249950,SA70 8AP,F,Y,L,Croft House,Flat 6,The Croft,,Tenby
+2023-07-10,130000,SA70 7HA,F,N,L,"Royal Victoria Court, 5 - 6",Flat 6,Crackwell Street,,Tenby
+2023-07-07,399950,SA70 8AP,F,Y,L,Croft House,Flat 5,The Croft,,Tenby
+2023-07-06,595000,SA70 8AP,F,Y,L,Croft House,Flat 10,The Croft,,Tenby
+2023-06-30,145000,SA70 8NQ,F,N,L,Ivy Tower Village,The Hayloft Flat 2,,St Florence,Tenby
+2023-06-30,245000,SA70 8AR,F,N,L,54,,Croft Court,,Tenby
+2023-06-30,129392,SA70 7PY,D,N,F,The Grapes,,,Penally,Tenby
+2023-06-29,179000,SA70 8EN,T,N,F,6,,Newell Hill,,Tenby
+2023-06-20,265000,SA70 8AB,T,N,F,Norton Cottages,8,The Norton,,Tenby
+2023-06-19,215000,SA70 8QE,D,N,F,Chapel House,,,Jameston,Tenby
+2023-06-19,410000,SA70 7LL,S,N,F,7,,Harding Villas,,Tenby
+2023-06-19,335000,SA70 7DN,T,N,F,Darwin,,Trafalgar Road,,Tenby
+2023-06-08,150000,SA70 8RP,D,N,L,"The Old Farm House, 1",,Redberth Gardens,Redberth,Tenby
+2023-06-07,236000,SA70 7SG,S,N,F,12,,The Green,Lydstep,Tenby
+2023-06-06,350000,SA70 7DS,F,N,L,Barrington House,Flat 5,Southcliff Gardens,,Tenby
+2023-06-02,320000,SA70 8TQ,D,N,F,33,,Sageston Fields,Sageston,Tenby
+2023-06-01,375000,SA70 8BG,D,N,F,Hill Cottage,,Heywood Lane,,Tenby
+2023-05-30,370000,SA70 7EF,T,N,F,Ashville,,Church Park,,Tenby
+2023-05-26,305000,SA70 8QT,D,N,F,9,,Hawthorn Lane,Jameston,Tenby
+2023-05-26,310000,SA70 8LZ,S,N,F,Tregoyr,,,St Florence,Tenby
+2023-05-26,575000,SA70 7EH,T,N,F,10,,Queens Parade,,Tenby
+2023-05-23,215000,SA70 7HJ,D,N,F,"Ship Cottage, 8",,Cresswell Street,,Tenby
+2023-05-19,245000,SA70 8JJ,D,N,F,42,,Lady Park,,Tenby
+2023-05-19,450000,SA70 7BP,F,N,L,St Catherines House,Flat 4,Castle Hill,,Tenby
+2023-05-17,312500,SA70 8DN,D,N,F,5,,Lamack Vale,,Tenby
+2023-05-12,205500,SA70 8DT,S,N,F,36,,The Clicketts,,Tenby
+2023-05-10,135000,SA70 8RP,T,N,L,"Passion Flower Cottage, 6",,Redberth Gardens,Redberth,Tenby
+2023-05-10,360000,SA70 8QJ,D,N,F,The Contented Cottage,,,Jameston,Tenby
+2023-05-09,325000,SA70 8HT,D,N,F,Seafield,,Serpentine Road,,Tenby
+2023-05-04,165000,SA70 8DE,S,N,F,15,,Maudlins,,Tenby
+2023-04-28,230000,SA70 8EB,S,N,F,69,,Knowling Mead,,Tenby
+2023-04-28,242500,SA70 8DS,S,Y,F,51,,Cornfields Walk,Sageston,Tenby
+2023-04-28,275000,SA70 7PF,D,N,F,16,,St Nicholas Crescent,Penally,Tenby
+2023-04-18,390000,SA70 7TJ,S,N,F,1,,Gable Cottages,Manorbier,Tenby
+2023-04-14,370000,SA70 7NH,T,N,F,2,,Quarry Cottages,,Tenby
+2023-03-31,305000,SA70 8HG,S,N,F,Shackley,,St Johns Croft,,Tenby
+2023-03-31,280000,SA70 8DB,D,N,F,36,,Oakridge Acres,,Tenby
+2023-03-27,285000,SA70 7JG,F,N,L,Ashley House,Flat 2,Upper Frog Street,,Tenby
+2023-03-24,305000,SA70 7PF,D,N,F,3,,St Nicholas Crescent,Penally,Tenby
+2023-03-22,420000,SA70 8NP,D,N,F,San Bernardino,,,St Florence,Tenby
+2023-03-22,380000,SA70 7ET,F,N,L,Paxton Court,Apartment 8,White Lion Street,,Tenby
+2023-03-18,495000,SA70 8PW,D,N,F,1,,Elveston Drive,East Williamston,Tenby
+2023-03-17,385000,SA70 8RT,D,N,F,Hawthorne Cottage,,,East Williamston,Tenby
+2023-03-15,175000,SA70 8EA,S,N,F,12,,Knowling Mead,,Tenby
+2023-03-13,300000,SA70 7DW,T,N,F,8,,Trafalgar Road,,Tenby
+2023-03-10,240000,SA70 8DS,S,Y,F,9,,Cornfields Walk,Sageston,Tenby
+2023-03-10,240000,SA70 8DS,S,Y,F,16,,Cornfields Walk,Sageston,Tenby
+2023-03-09,240000,SA70 8DS,S,Y,F,8,,Cornfields Walk,Sageston,Tenby
+2023-03-08,375000,SA70 8JF,S,N,F,39,,Upper Hill Park,,Tenby
+2023-03-08,240000,SA70 8DS,S,Y,F,7,,Cornfields Walk,Sageston,Tenby
+2023-03-06,215000,SA70 7TP,S,N,F,16,,Hounsell Avenue,Manorbier,Tenby
+2023-03-03,305000,SA70 8JF,S,N,F,41,,Upper Hill Park,,Tenby
+2023-03-03,350000,SA70 7TG,D,N,F,15,,Warlows Meadow,Manorbier,Tenby
+2023-03-02,395000,SA70 8DS,D,Y,F,11,,Cornfields Walk,Sageston,Tenby
+2023-03-01,250000,SA70 8AE,T,N,F,6,,Merlins Gardens,,Tenby
+2023-02-28,250000,SA70 8DS,S,Y,F,50,,Cornfields Walk,Sageston,Tenby
+2023-02-27,880000,SA70 8LP,D,N,F,Brimmings Back,,,St Florence,Tenby
+2023-02-27,732500,SA70 7HN,S,N,F,Woodbine Cottage,,St Marys Street,,Tenby
+2023-02-24,224000,SA70 8PY,D,N,F,The Bungalow,,,Manorbier Newton,Tenby
+2023-02-21,300000,SA70 8LZ,D,N,F,Cross Cottage,,,St Florence,Tenby
+2023-02-16,235000,SA70 7TR,S,N,F,9,,Gray Avenue,Manorbier,Tenby
+2023-02-13,220000,SA70 8TG,S,N,F,5,,St Annes Drive,New Hedges,Tenby
+2023-02-08,390000,SA70 8DS,D,Y,F,6,,Cornfields Walk,Sageston,Tenby
+2023-02-06,630000,SA70 8HW,D,N,F,1,,Haytor Gardens,,Tenby
+2023-02-03,400000,SA70 8AP,F,N,L,Sunny Cove,Flat 3,The Croft,,Tenby
+2023-01-31,700000,SA70 7SX,D,N,F,South Norton,,,Manorbier,Tenby
+2023-01-31,475000,SA70 7ET,F,N,L,Paxton Court,Apartment 37,White Lion Street,,Tenby
+2023-01-27,387000,SA70 7ED,T,N,F,12,,Culver Park,,Tenby
+2023-01-26,360000,SA70 8RT,D,N,F,Muddy Lane Cottage,,,East Williamston,Tenby
+2023-01-23,280000,SA70 7TN,T,N,F,3,,The Croft,Manorbier,Tenby
+2023-01-20,376000,SA70 7LJ,S,N,F,Braeside,,Greenhill Road,,Tenby
+2023-01-20,350000,SA70 7EN,T,N,F,5,,Cottage Mews,,Tenby
+2023-01-18,475000,SA70 8RU,D,N,F,Ashley House,,,East Williamston,Tenby
+2023-01-18,552000,SA70 8PL,D,N,F,"Hafan Deg, 14",,Milton Meadows,Milton,Tenby
+2023-01-10,261025,SA70 8DS,D,Y,F,13,,Cornfields Walk,Sageston,Tenby
+2023-01-04,530000,SA70 8RZ,D,N,F,1,,Green Meadow Close,East Williamston,Tenby
+2022-12-21,495000,SA70 8RT,D,N,F,Little Hay,,,East Williamston,Tenby
+2022-12-21,280000,SA70 7QN,F,N,L,6,,Golygfa Coron,Penally,Tenby
+2022-12-20,285000,SA70 8QF,D,N,F,35,,Meadow Road,Jameston,Tenby
+2022-12-19,251175,SA70 8DS,S,Y,F,15,,Cornfields Walk,Sageston,Tenby
+2022-12-16,375000,SA70 8JJ,D,N,F,"The Bib, 22",,Lady Park,,Tenby
+2022-12-14,390000,SA70 8DS,D,Y,F,12,,Cornfields Walk,Sageston,Tenby
+2022-12-14,295000,SA70 8DB,D,N,F,34,,Oakridge Acres,,Tenby
+2022-12-14,350000,SA70 7PG,D,N,F,Foxley,,Middle Walls Lane,Penally,Tenby
+2022-12-14,280000,SA70 7PF,S,N,F,2,,St Nicholas Crescent,Penally,Tenby
+2022-12-14,375000,SA70 7PF,D,N,F,12,,St Nicholas Crescent,Penally,Tenby
+2022-12-13,225000,SA70 7DY,F,N,L,"Prospect House, 33",Apartment 5,Victoria Street,,Tenby
+2022-12-09,500000,SA70 8NL,D,N,F,30,,Parklands,St Florence,Tenby
+2022-12-09,305000,SA70 7NH,T,N,F,4,,Quarry Cottages,,Tenby
+2022-12-09,467750,SA70 7HN,T,N,F,"Ripley House, 9",,St Marys Street,,Tenby
+2022-12-08,610000,SA70 7DX,T,N,F,Cliffside,,Sutton Street,,Tenby
+2022-12-07,950000,SA70 8TJ,D,N,F,White Lodge,,Narberth Road,,Tenby
+2022-12-06,305000,SA70 8RT,D,N,F,Monastir,,,East Williamston,Tenby
+2022-12-06,190000,SA70 7ET,F,N,L,Paxton Court,Apartment 21,White Lion Street,,Tenby
+2022-12-02,1100000,SA70 8HW,D,N,F,11,,Haytor Gardens,,Tenby
+2022-12-02,145000,SA70 8DT,T,N,L,57,,The Clicketts,,Tenby
+2022-12-02,247000,SA70 8DS,S,Y,F,18,,Cornfields Walk,Sageston,Tenby
+2022-12-02,385000,SA70 8DS,D,Y,F,14,,Cornfields Walk,Sageston,Tenby
+2022-12-02,170000,SA70 7JD,F,N,L,Picton House,Apartment 2,Upper Frog Street,,Tenby
+2022-11-30,465000,SA70 8DZ,D,N,F,3,,Ash Grove Gardens,St Florence,Tenby
+2022-11-25,268500,SA70 8TG,D,N,F,2,,St Annes Drive,New Hedges,Tenby
+2022-11-24,325000,SA70 8LZ,S,N,F,11,,Grove Court,St Florence,Tenby
+2022-11-24,375000,SA70 8LR,D,N,F,Red Roofs,,,St Florence,Tenby
+2022-11-24,200000,SA70 8AE,T,N,L,8,,Merlins Gardens,,Tenby
+2022-11-23,175000,SA70 7QB,F,N,L,Glanymor Court,Flat 2,,Penally,Tenby
+2022-11-23,205000,SA70 7ET,F,N,L,Paxton Court,Apartment 14,White Lion Street,,Tenby
+2022-11-22,360000,SA70 8JF,S,N,L,34,,Upper Hill Park,,Tenby
+2022-11-22,320000,SA70 7DZ,F,N,L,Wimbledon,Flat 9,St Florence Parade,,Tenby
+2022-11-18,310000,SA70 8TQ,D,N,F,27,,Sageston Fields,Sageston,Tenby
+2022-11-18,425000,SA70 8QF,D,N,F,31,,Meadow Road,Jameston,Tenby
+2022-11-18,223000,SA70 8EA,S,N,F,35,,Knowling Mead,,Tenby
+2022-11-18,390000,SA70 7TU,S,N,F,19,,Wheelers Way,Manorbier,Tenby
+2022-11-14,315000,SA70 8TQ,D,N,F,31,,Sageston Fields,Sageston,Tenby
+2022-11-11,199950,SA70 8TB,T,N,F,4,,Steps Road,Sageston,Tenby
+2022-11-11,251175,SA70 8DS,S,Y,F,19,,Cornfields Walk,Sageston,Tenby
+2022-11-11,325000,SA70 7TU,D,N,F,16,,Wheelers Way,Manorbier,Tenby
+2022-11-11,218000,SA70 7LJ,F,N,L,Park Lane Flats,15,Greenhill Road,,Tenby
+2022-11-02,705000,SA70 8LJ,D,N,F,Adlestrop,,,St Florence,Tenby
+2022-10-31,725000,SA70 8BG,D,N,F,St Marys Hill,2,Heywood Lane,,Tenby
+2022-10-28,162000,SA70 8TE,T,N,F,9,,Perrotts Road,Sageston,Tenby
+2022-10-27,430000,SA70 7TE,D,N,F,Valley View,,,Manorbier,Tenby
+2022-10-26,225000,SA70 8NQ,D,N,F,1,,St Florence Cottages,St Florence,Tenby
+2022-10-24,205000,SA70 8SZ,S,N,F,55,,Hop Gardens Road,Sageston,Tenby
+2022-10-24,235000,SA70 8DS,S,Y,F,5,,Cornfields Walk,Sageston,Tenby
+2022-10-24,351500,SA70 7DW,T,N,F,23,,Trafalgar Road,,Tenby
+2022-10-21,415000,SA70 8DB,S,N,F,46,,Oakridge Acres,,Tenby
+2022-10-19,170000,SA70 8EA,S,N,F,5,,Knowling Mead,,Tenby
+2022-10-19,585000,SA70 7EN,T,Y,F,6,,Cottage Mews,,Tenby
+2022-10-14,350000,SA70 8PL,D,N,F,20,,Milton Meadows,Milton,Tenby
+2022-10-14,435000,SA70 7QR,D,N,F,2,,Giltar Way,Penally,Tenby
+2022-10-14,140000,SA70 7JT,F,N,L,Dunmore Apartments,Flat 5,Warren Street,,Tenby
+2022-10-12,380000,SA70 8DB,D,N,F,20,,Oakridge Acres,,Tenby
+2022-10-07,490000,SA70 8RY,D,N,F,Myrtle Cottage,,,Redberth,Tenby
+2022-10-07,310000,SA70 8AD,T,N,F,11,,Merlins Court,,Tenby
+2022-10-05,180000,SA70 8SF,S,N,F,9,,Hop Gardens Road,Sageston,Tenby
+2022-10-05,300000,SA70 8DS,D,Y,F,20,,Cornfields Walk,Sageston,Tenby
+2022-10-03,220000,SA70 8DS,S,Y,F,22,,Cornfields Walk,Sageston,Tenby
+2022-09-30,215000,SA70 8TE,S,N,F,12,,Perrotts Road,Sageston,Tenby
+2022-09-30,180000,SA70 8DE,S,N,F,20,,Maudlins,,Tenby
+2022-09-30,420000,SA70 7HY,T,N,F,Lydstep Buildings,2,Lower Frog Street,,Tenby
+2022-09-30,395000,SA70 7HU,D,N,F,14,,Lower Frog Street,,Tenby
+2022-09-28,375000,SA70 7DS,F,N,L,Trevine,Flat 1,Southcliff Gardens,,Tenby
+2022-09-23,179950,SA70 7HG,F,N,L,Cresswell Court,Flat 2,Cresswell Street,,Tenby
+2022-09-16,358000,SA70 8JJ,D,N,F,23,,Lady Park,,Tenby
+2022-09-16,200000,SA70 7NX,S,N,F,13,,Holloway Court,Penally,Tenby
+2022-09-15,220000,SA70 8DS,S,Y,F,21,,Cornfields Walk,Sageston,Tenby
+2022-09-12,965000,SA70 8BA,D,N,F,Fiddlers Green Cottage,,Fiddlers Lane,St Florence,Tenby
+2022-09-12,365000,SA70 7ET,F,N,L,Paxton Court,Apartment 24,White Lion Street,,Tenby
+2022-09-07,275000,SA70 7DZ,F,N,L,Wimbledon,Flat 7,St Florence Parade,,Tenby
+2022-09-05,625000,SA70 8LJ,D,N,F,Croftdale,,,St Florence,Tenby
+2022-09-02,137000,SA70 7LB,F,N,L,The Coach House,Flat 1,Greenhill Avenue,,Tenby
+2022-08-31,810000,SA70 8BT,D,N,F,11,,St Davids Close,,Tenby
+2022-08-26,150000,SA70 7LZ,F,N,L,37,,Clareston Court,,Tenby
+2022-08-24,370000,SA70 8PN,D,N,F,Avalon,,Paskeston Lane,Milton,Tenby
+2022-08-24,227950,SA70 8DS,S,Y,F,55,,Cornfields Walk,Sageston,Tenby
+2022-08-19,168000,SA70 8TE,T,N,F,4,,Perrotts Road,Sageston,Tenby
+2022-08-18,269000,SA70 7NZ,D,N,F,23,,The Paddock,Penally,Tenby
+2022-08-16,245000,SA70 7PT,F,N,L,Island View,St. Margarets,,Penally,Tenby
+2022-08-15,289000,SA70 8DS,D,Y,F,52,,Cornfields Walk,Sageston,Tenby
+2022-08-12,165000,SA70 8DT,F,N,L,79,,The Clicketts,,Tenby
+2022-08-12,285000,SA70 8DS,D,Y,F,53,,Cornfields Walk,Sageston,Tenby
+2022-08-12,129950,SA70 7LZ,F,N,L,5,,Clareston Court,,Tenby
+2022-08-08,190000,SA70 8SF,S,N,F,23,,Hop Gardens Road,Sageston,Tenby
+2022-08-05,200000,SA70 8TB,S,N,F,1,,Steps Road,Sageston,Tenby
+2022-08-05,430000,SA70 8LN,D,N,F,Bumblers,,High Street,St Florence,Tenby
+2022-08-05,1250000,SA70 7HA,T,N,F,9,,Crackwell Street,,Tenby
+2022-07-29,175000,SA70 8RY,T,N,F,8,,The Rise,Redberth,Tenby
+2022-07-29,187000,SA70 8NQ,D,N,L,12,,St Florence Cottages,St Florence,Tenby
+2022-07-29,370000,SA70 8DB,D,N,F,23,,Oakridge Acres,,Tenby
+2022-07-29,400000,SA70 8AP,F,N,L,Newton Croft,Flat 6,The Croft,,Tenby
+2022-07-29,545000,SA70 7QF,D,N,F,3,,Strawberry Gardens,Penally,Tenby
+2022-07-28,170000,SA70 7HD,F,N,L,"Lydstep House, 24",Presipe,High Street,,Tenby
+2022-07-26,255000,SA70 8SJ,S,N,F,21,,Kesteven Court,Carew,Tenby
+2022-07-26,375000,SA70 8QJ,D,N,F,The Stores,,,Jameston,Tenby
+2022-07-22,555000,SA70 8HR,D,N,F,8,,Mayfield Drive,,Tenby
+2022-07-22,170000,SA70 8EA,S,N,F,17,,Knowling Mead,,Tenby
+2022-07-22,155000,SA70 8DT,F,N,L,11,,The Clicketts,,Tenby
+2022-07-22,1450000,SA70 8AT,D,N,F,St. Petrox,,North Cliffe,,Tenby
+2022-07-22,725000,SA70 7BY,T,N,F,Harbour View,2,Crackwell Street,,Tenby
+2022-07-19,440000,SA70 8PH,D,N,F,Ashford,,,Milton,Tenby
+2022-07-18,520000,SA70 8RT,D,N,F,O'R Diwedd,,,East Williamston,Tenby
+2022-07-18,325000,SA70 7NB,T,N,F,3,,Park Place,,Tenby
+2022-07-14,165000,SA70 8AB,F,N,L,"Martin Lodge, 28",Flat 2,The Norton,,Tenby
+2022-07-12,355000,SA70 8TR,D,N,F,Bramblewood,,,New Hedges,Tenby
+2022-07-12,315000,SA70 8DT,D,N,F,30,,The Clicketts,,Tenby
+2022-07-12,310000,SA70 7LH,T,N,F,3,,Rocky Park,,Tenby
+2022-07-11,220000,SA70 8BX,T,N,F,22,,Tudor Way,,Tenby
+2022-07-06,430000,SA70 8RY,D,N,F,Yew Cottage,,,Redberth,Tenby
+2022-07-04,1199575,SA70 7HA,T,N,F,10,,Crackwell Street,,Tenby
+2022-06-30,325000,SA70 8AS,F,N,L,131,,Croft Court,,Tenby
+2022-06-29,230000,SA70 8DS,S,Y,F,54,,Cornfields Walk,Sageston,Tenby
+2022-06-28,407000,SA70 7DY,F,N,L,"Southbay Apartments, 19 - 20",Flat 5,Victoria Street,,Tenby
+2022-06-27,600000,SA70 7TD,T,N,F,Castle Corner,,,Manorbier,Tenby
+2022-06-27,250000,SA70 7NZ,S,N,F,13,,The Paddock,Penally,Tenby
+2022-06-27,250000,SA70 7NZ,S,N,F,11,,The Paddock,Penally,Tenby
+2022-06-24,239000,SA70 7NZ,D,N,F,21,,The Paddock,Penally,Tenby
+2022-06-22,610000,SA70 8TT,D,N,F,Awel Deg,,Bryn Hir,,Tenby
+2022-06-22,495000,SA70 8DZ,D,N,F,4,,Ash Grove Gardens,St Florence,Tenby
+2022-06-21,269995,SA70 8SR,T,N,F,3,,Cheriton Row,Carew Cheriton,Tenby
+2022-06-17,335000,SA70 7RH,D,N,F,Trefloyne,4 Longbury,,Penally,Tenby
+2022-06-14,367000,SA70 7JD,F,N,L,The Cobourg,Flat 1,Upper Frog Street,,Tenby
+2022-06-13,150000,SA70 8DT,F,N,L,46,,The Clicketts,,Tenby
+2022-06-10,340000,SA70 8JF,S,N,F,67,,Upper Hill Park,,Tenby
+2022-06-10,235000,SA70 8DS,S,Y,F,4,,Cornfields Walk,Sageston,Tenby
+2022-06-10,322500,SA70 7LR,T,N,F,7,,Clareston Road,,Tenby
+2022-06-10,310000,SA70 7DU,F,N,L,"St Agathas, 2",Top Floor Flat,Esplanade,,Tenby
+2022-06-09,517000,SA70 8RA,S,N,F,Blackwood House,,,Gumfreston,Tenby
+2022-05-27,340000,SA70 8NL,D,N,F,43,,Parklands,St Florence,Tenby
+2022-05-27,560000,SA70 8LJ,D,N,F,Glan-Y-Nant,,,St Florence,Tenby
+2022-05-27,190000,SA70 8DT,F,N,L,56,,The Clicketts,,Tenby
+2022-05-26,650000,SA70 8HT,S,N,F,Cottage Court,,Narberth Road,,Tenby
+2022-05-25,470000,SA70 8RT,D,N,F,Meadow Bank,,,East Williamston,Tenby
+2022-05-20,140000,SA70 8DT,F,N,L,5,,The Clicketts,,Tenby
+2022-05-20,950000,SA70 7TH,D,N,F,Fernley Lodge,,,Manorbier,Tenby
+2022-05-13,320000,SA70 7SN,D,N,F,Station Cottage,,,Manorbier,Tenby
+2022-05-12,675000,SA70 8DZ,D,N,F,6,,Ash Grove Gardens,St Florence,Tenby
+2022-05-12,1100000,SA70 7BY,T,N,F,Horizons,,Crackwell Street,,Tenby
+2022-05-11,285000,SA70 8DS,D,Y,F,56,,Cornfields Walk,Sageston,Tenby
+2022-05-10,380000,SA70 8LJ,D,N,F,The Green,,,St Florence,Tenby
+2022-05-09,225000,SA70 8DS,T,Y,F,3,,Cornfields Walk,Sageston,Tenby
+2022-05-06,275000,SA70 7DZ,F,N,L,Wimbledon,Flat 3,St Florence Parade,,Tenby
+2022-05-04,290000,SA70 7TG,D,N,F,27,,Warlows Meadow,Manorbier,Tenby
+2022-04-29,220000,SA70 8DS,T,Y,F,1,,Cornfields Walk,Sageston,Tenby
+2022-04-29,132500,SA70 7LB,F,N,L,The Coach House,Flat 2,Greenhill Avenue,,Tenby
+2022-04-22,205000,SA70 8HA,S,N,F,63,,The Glebe,,Tenby
+2022-04-22,208550,SA70 8DS,T,Y,F,2,,Cornfields Walk,Sageston,Tenby
+2022-04-20,322000,SA70 8DG,S,N,F,Bletchley,,Broadwell Hayes,,Tenby
+2022-04-20,435000,SA70 7EU,F,N,L,7,Flat 3,High Street,,Tenby
+2022-04-19,208000,SA70 8DE,T,N,F,4,,Maudlins,,Tenby
+2022-04-19,132000,SA70 7JT,F,N,L,Newton House,Flat 6,Warren Street,,Tenby
+2022-04-14,137595,SA70 8AR,F,N,L,8,,Croft Court,,Tenby
+2022-04-14,239000,SA70 7NZ,D,N,F,19,,The Paddock,Penally,Tenby
+2022-04-14,300000,SA70 7AJ,F,N,L,Natwest Chambers,Ramsey Apartment,Tudor Square,,Tenby
+2022-04-13,425000,SA70 7QY,D,N,F,3,,Maryland,Penally,Tenby
+2022-04-08,445000,SA70 8LW,D,N,F,Jasmine House,,High Street,St Florence,Tenby
+2022-04-07,347500,SA70 7DW,T,N,F,7,,Trafalgar Road,,Tenby
+2022-04-06,253500,SA70 7PZ,F,N,L,5,,The Mount,Penally,Tenby
+2022-04-04,258130,SA70 7HJ,F,N,L,York House,Flat 4,Cresswell Street,,Tenby
+2022-04-04,220000,SA70 7AA,F,N,L,"Northcliffe House, 46",Flat 7,High Street,,Tenby
+2022-03-31,165000,SA70 8TE,S,N,F,15,,Perrotts Road,Sageston,Tenby
+2022-03-31,523000,SA70 7LE,T,N,F,1,,Deer Park Villas,,Tenby
+2022-03-25,365000,SA70 8BG,F,N,L,St Marys Hill,"Apartment 2, St Marys House",Heywood Lane,,Tenby
+2022-03-24,279000,SA70 7NZ,D,N,F,25,,The Paddock,Penally,Tenby
+2022-03-23,265000,SA70 8LT,D,N,F,22,,Flemish Close,St Florence,Tenby
+2022-03-22,320000,SA70 7NB,T,N,F,13,,Park Place,,Tenby
+2022-03-18,136000,SA70 8DT,T,N,L,12,,The Clicketts,,Tenby
+2022-03-18,415000,SA70 7PX,D,N,F,St Teilo,,,Penally,Tenby
+2022-03-14,76800,SA70 8BX,S,N,F,6,,Tudor Way,,Tenby
+2022-03-11,301000,SA70 8RT,D,N,F,East House,,,East Williamston,Tenby
+2022-03-08,182500,SA70 8NQ,T,N,L,17,,St Florence Cottages,St Florence,Tenby
+2022-03-07,140000,SA70 8PH,S,N,F,Cilleric,,,Milton,Tenby
+2022-03-04,430500,SA70 7BL,F,N,L,"Beauchief House, 3",Flat 1,St Julian Terrace,,Tenby
+2022-02-28,305000,SA70 7TU,S,N,F,12,,Wheelers Way,Manorbier,Tenby
+2022-02-25,320000,SA70 8TP,S,N,F,26,,Hunters Park,New Hedges,Tenby
+2022-02-25,145000,SA70 8DZ,D,N,F,2,,Ash Grove Gardens,St Florence,Tenby
+2022-02-23,320000,SA70 7BL,F,N,L,"Beauchief House, 3",Flat 2,St Julian Terrace,,Tenby
+2022-02-18,169000,SA70 7LZ,F,N,L,4,,Clareston Court,,Tenby
+2022-02-17,310000,SA70 7JU,T,N,F,16,,Warren Street,,Tenby
+2022-02-14,130000,SA70 7JY,F,N,L,Ace Court,Flat 3,Warren Street,,Tenby
+2022-02-11,332000,SA70 8TQ,D,N,F,21,,Sageston Fields,Sageston,Tenby
+2022-02-11,385000,SA70 7NB,T,N,F,"Swanlake Cottage, 11",,Park Place,,Tenby
+2022-02-10,129950,SA70 8DT,F,N,L,8,,The Clicketts,,Tenby
+2022-02-07,325000,SA70 8JH,S,N,F,36,,Lady Park,,Tenby
+2022-02-07,500000,SA70 8BT,D,N,F,3,,St Davids Close,,Tenby
+2022-02-04,298705,SA70 8HF,T,N,F,4,,St Johns Hill,,Tenby
+2022-02-04,150000,SA70 7QE,D,N,F,Dingle Nook,,,Penally,Tenby
+2022-02-04,145000,SA70 7JT,F,N,L,Newton House,Flat 2,Warren Street,,Tenby
+2022-02-01,565000,SA70 7EN,T,Y,F,9,,Cottage Mews,,Tenby
+2022-02-01,335000,SA70 7EN,T,N,F,4,,Cottage Mews,,Tenby
+2022-01-31,300000,SA70 7ET,F,N,L,Paxton Court,Apartment 33,White Lion Street,,Tenby
+2022-01-28,147500,SA70 8LR,S,N,F,Parsonage Farm,1 The Courtyard,,St Florence,Tenby
+2022-01-27,310000,SA70 8QF,D,N,F,32,,Meadow Road,Jameston,Tenby
+2022-01-19,175000,SA70 8NQ,D,N,L,16,,St Florence Cottages,St Florence,Tenby
+2022-01-18,137500,SA70 8TA,T,N,F,5,,Saunders Road,Sageston,Tenby
+2022-01-07,265000,SA70 8BG,F,N,L,St Marys Hill,"Apartment 3, St Marys House",Heywood Lane,,Tenby
+2022-01-07,351000,SA70 8AR,F,N,L,42,,Croft Court,,Tenby
+2021-12-23,260000,SA70 8DB,D,N,F,8,,Oakridge Acres,,Tenby
+2021-12-22,165000,SA70 8LR,D,N,F,2,,The Courtyard,St Florence,Tenby
+2021-12-22,219000,SA70 7LW,S,N,F,Newtown Cottage,,Harding Street,,Tenby
+2021-12-21,346000,SA70 8LT,D,N,F,1,,Flemish Close,St Florence,Tenby
+2021-12-17,245000,SA70 8TQ,D,N,F,26,,Sageston Fields,Sageston,Tenby
+2021-12-17,160000,SA70 8SW,T,N,F,25,,Bartletts Well Road,Sageston,Tenby
+2021-12-17,177000,SA70 8NQ,T,N,L,5,,St Florence Cottages,St Florence,Tenby
+2021-12-17,390000,SA70 8JH,D,N,F,1,,Lady Park,,Tenby
+2021-12-17,615000,SA70 8HW,D,N,F,6,,Haytor Gardens,,Tenby
+2021-12-17,205000,SA70 8DT,T,N,F,21,,The Clicketts,,Tenby
+2021-12-17,158000,SA70 8AY,T,N,F,3,,Hays Lane,Sageston,Tenby
+2021-12-17,110000,SA70 7LZ,F,N,L,14,,Clareston Court,,Tenby
+2021-12-16,265000,SA70 7TL,S,N,F,3,,Manor Crescent,Manorbier,Tenby
+2021-12-15,250000,SA70 8LT,D,N,F,9,,Flemish Close,St Florence,Tenby
+2021-12-10,215000,SA70 8SB,S,N,F,Coachland Gate Cottage,,,Sageston,Tenby
+2021-12-10,160000,SA70 7TR,D,N,F,14,,Gray Avenue,Manorbier,Tenby
+2021-12-09,660000,SA70 7PR,D,N,F,Clifton Cottage,,,Penally,Tenby
+2021-12-09,341500,SA70 7HD,F,N,L,"Lydstep House, 24",Proud Giltar,High Street,,Tenby
+2021-12-08,360000,SA70 7LW,T,N,F,7,,Harding Street,,Tenby
+2021-12-03,190000,SA70 8NQ,T,N,L,8,,St Florence Cottages,St Florence,Tenby
+2021-11-26,650000,SA70 8QU,D,N,F,"Endless Summer, 2",,Grove Crescent,Jameston,Tenby
+2021-11-26,363500,SA70 7SG,D,N,F,Erw Lon,,,Lydstep,Tenby
+2021-11-25,234950,SA70 8TG,S,N,F,5,,St Annes Drive,New Hedges,Tenby
+2021-11-25,270000,SA70 7PR,D,N,F,Meadow Cottage,,,Penally,Tenby
+2021-11-22,200000,SA70 8RE,D,N,F,South Astridge Farm,The Old Dairy,,,Tenby
+2021-11-22,173500,SA70 8EN,S,N,F,35,,Newell Hill,,Tenby
+2021-11-18,195000,SA70 8QG,T,N,F,4,,St James Place,Jameston,Tenby
+2021-11-12,390000,SA70 8LS,D,N,F,Cwtch Cottage,,,St Florence,Tenby
+2021-11-12,460000,SA70 7TH,D,N,F,Pound Cottage,,,Manorbier,Tenby
+2021-11-12,280000,SA70 7LJ,F,N,L,Park Lane Flats,4,Greenhill Road,,Tenby
+2021-11-11,150000,SA70 8SF,S,N,F,13,,Hop Gardens Road,Sageston,Tenby
+2021-11-11,390000,SA70 7NB,T,N,F,Park Place Court,1,Park Place,,Tenby
+2021-11-09,215000,SA70 8SW,D,N,F,19,,Bartletts Well Road,Sageston,Tenby
+2021-11-08,295000,SA70 8EY,T,N,F,14,,The Green,,Tenby
+2021-11-08,360000,SA70 7EU,F,N,L,6,Flat 1,High Street,,Tenby
+2021-11-05,225000,SA70 8TP,D,N,F,1,,Hunters Park,New Hedges,Tenby
+2021-11-01,265000,SA70 8QF,D,N,F,16,,Meadow Road,Jameston,Tenby
+2021-11-01,240000,SA70 7PZ,F,N,L,4,,The Mount,Penally,Tenby
+2021-10-28,339950,SA70 8QT,D,N,F,4,,Hawthorn Lane,Jameston,Tenby
+2021-10-26,120000,SA70 8AR,F,N,L,2,,Croft Court,,Tenby
+2021-10-22,380000,SA70 8BN,S,N,F,Wynfield,,Heywood Lane,,Tenby
+2021-10-22,450000,SA70 7HA,F,N,L,Goscar Court,Flat 1,Crackwell Street,,Tenby
+2021-10-08,410000,SA70 7DZ,F,N,L,Wimbledon,Flat 16,St Florence Parade,,Tenby
+2021-10-06,305000,SA70 7LA,T,N,F,2,,Clement Terrace,,Tenby
+2021-10-05,210000,SA70 7DY,F,N,L,"Islay Court, 21 - 22",Flat 10,Victoria Street,,Tenby
+2021-10-04,250000,SA70 7NY,D,N,F,10,,Hoyles Close,Penally,Tenby
+2021-09-30,240000,SA70 8LZ,D,N,F,Cross Cottage,,,St Florence,Tenby
+2021-09-30,405000,SA70 8DD,D,N,F,Arosfa,,Serpentine Road,,Tenby
+2021-09-29,140555,SA70 8RP,F,N,L,"Sunflower Apartment, 8",,Redberth Gardens,Redberth,Tenby
+2021-09-24,125000,SA70 8DT,T,N,L,76,,The Clicketts,,Tenby
+2021-09-20,155000,SA70 8DT,S,N,F,22,,The Clicketts,,Tenby
+2021-09-17,900000,SA70 7LL,D,N,F,Weston Lodge,,Harding Street,,Tenby
+2021-09-10,477500,SA70 7EN,D,Y,F,1,,Cottage Mews,,Tenby
+2021-09-07,192500,SA70 8HA,S,N,F,51,,The Glebe,,Tenby
+2021-09-02,168500,SA70 8TE,S,N,F,3,,Perrotts Road,Sageston,Tenby
+2021-09-02,153500,SA70 7TS,S,N,F,8,,Dewing Avenue,Manorbier,Tenby
+2021-09-01,170000,SA70 7TE,F,N,L,Lion House,Flat 2,,Manorbier,Tenby
+2021-08-28,465000,SA70 8ST,D,N,F,Summerton Style,,,Carew Cheriton,Tenby
+2021-08-27,270000,SA70 8LS,T,N,F,Woodview,,,St Florence,Tenby
+2021-08-26,580000,SA70 8BG,D,N,F,Limestone House,,Heywood Lane,,Tenby
+2021-08-25,112000,SA70 8BP,T,N,L,15,,Heywood Court,,Tenby
+2021-08-17,120000,SA70 8DT,F,N,L,48,,The Clicketts,,Tenby
+2021-08-12,250000,SA70 8JG,D,N,F,86,,Upper Hill Park,,Tenby
+2021-08-12,224000,SA70 7DY,F,N,L,Islay Court 21-22,Flat 2,Victoria Street,,Tenby
+2021-08-06,163000,SA70 8EY,T,N,F,Hawtree Cottage,,The Green,,Tenby
+2021-08-06,416000,SA70 8BT,D,N,F,9,,St Davids Close,,Tenby
+2021-08-05,540000,SA70 7AQ,F,N,L,Waterstone House,Apartment 6,Battery Road,,Tenby
+2021-08-04,128000,SA70 8DT,T,N,L,42,,The Clicketts,,Tenby
+2021-08-03,262000,SA70 8JF,D,N,F,24,,Upper Hill Park,,Tenby
+2021-08-02,114500,SA70 8DT,F,N,L,75,,The Clicketts,,Tenby
+2021-08-02,120000,SA70 8DT,F,N,L,69,,The Clicketts,,Tenby
+2021-08-02,225000,SA70 7QH,T,N,F,2,,Alma Garden Houses,Penally,Tenby
+2021-07-30,422000,SA70 8SQ,D,N,F,Woodpark,,,Sageston,Tenby
+2021-07-30,450000,SA70 8NL,D,N,F,14,,Parklands,St Florence,Tenby
+2021-07-30,340000,SA70 8JJ,S,N,F,30,,Lady Park,,Tenby
+2021-07-30,212500,SA70 8EN,S,N,F,30,,Newell Hill,,Tenby
+2021-07-30,400000,SA70 7QE,D,N,F,Windways,,,Penally,Tenby
+2021-07-30,125000,SA70 7LZ,F,N,L,15,,Clareston Court,,Tenby
+2021-07-30,107500,SA70 7JD,F,N,L,Picton House,Apartment 3,Upper Frog Street,,Tenby
+2021-07-29,145000,SA70 8TE,D,N,F,11,,Perrotts Road,Sageston,Tenby
+2021-07-29,210000,SA70 8SW,S,N,F,5,,Bartletts Well Road,Sageston,Tenby
+2021-07-28,590000,SA70 7PQ,D,N,F,Innishkea,,Middle Walls Lane,Penally,Tenby
+2021-07-27,190000,SA70 8EN,S,N,F,31,,Newell Hill,,Tenby
+2021-07-27,295000,SA70 7JG,F,N,L,Ashley House,Flat 12,Upper Frog Street,,Tenby
+2021-07-23,160000,SA70 8SJ,T,N,F,16,,Kesteven Court,Carew,Tenby
+2021-07-19,144950,SA70 7JG,F,N,L,Ashley House,Flat 3,Upper Frog Street,,Tenby
+2021-07-16,199950,SA70 7LE,F,N,L,"Flint House, 8",Flat 2,Deer Park,,Tenby
+2021-07-12,134500,SA70 8RY,D,N,F,Wesley Cottage,,,Redberth,Tenby
+2021-07-09,287500,SA70 7ND,T,N,F,8,,Park Road,,Tenby
+2021-07-02,284000,SA70 7RG,D,N,F,5,,Longbury Estate,Penally,Tenby
+2021-06-30,235000,SA70 8QF,D,N,F,2,,Meadow Road,Jameston,Tenby
+2021-06-30,225000,SA70 8LZ,S,N,F,3,,Grove Court,St Florence,Tenby
+2021-06-30,315000,SA70 8LW,S,N,F,Lily Cottage,,High Street,St Florence,Tenby
+2021-06-30,449950,SA70 8HU,D,N,F,8,,Southlands,,Tenby
+2021-06-29,203500,SA70 8RQ,D,N,F,2,,Cromwell Drive,Redberth,Tenby
+2021-06-25,185000,SA70 7LJ,F,N,L,Park Lane Flats,11,Greenhill Road,,Tenby
+2021-06-24,145000,SA70 8QE,S,N,F,Corner House,,,Jameston,Tenby
+2021-06-21,245000,SA70 8DH,D,N,F,5,,Jubilee Cottages,,Tenby
+2021-06-21,253000,SA70 7PH,D,N,F,4,,Kenystyle,Penally,Tenby
+2021-06-18,175000,SA70 8EN,S,N,F,25,,Newell Hill,,Tenby
+2021-06-18,280000,SA70 8EJ,T,N,F,14,,Marsh Road,,Tenby
+2021-06-18,290000,SA70 8DB,D,N,F,23,,Oakridge Acres,,Tenby
+2021-06-18,375000,SA70 7JD,T,N,F,5,,Upper Frog Street,,Tenby
+2021-06-17,165000,SA70 8SF,S,N,F,10,,Hop Gardens Road,Sageston,Tenby
+2021-06-17,255000,SA70 8PL,D,N,F,10,,Milton Meadows,Milton,Tenby
+2021-06-15,650000,SA70 8HX,D,N,F,2,,Hill Park,,Tenby
+2021-06-11,250000,SA70 7TG,D,N,F,27,,Warlows Meadow,Manorbier,Tenby
+2021-06-11,287500,SA70 7PN,F,N,L,The Old Vicarage,2 Bay View,,Penally,Tenby
+2021-06-11,500000,SA70 7HW,T,N,F,Battersea House,,St Marys Street,,Tenby
+2021-06-10,191100,SA70 8EA,S,N,F,23,,Knowling Mead,,Tenby
+2021-06-04,240000,SA70 8EY,T,N,F,18,,The Green,,Tenby
+2021-06-03,280000,SA70 8JD,D,N,F,Kilmory,,Narberth Road,,Tenby
+2021-06-03,290000,SA70 7LY,T,N,F,7,,Park Terrace,,Tenby
+2021-06-02,235000,SA70 8DL,T,N,F,Gilford,,Broadwell Hayes,,Tenby
+2021-05-25,282500,SA70 8JF,S,N,F,56,,Upper Hill Park,,Tenby
+2021-05-25,386000,SA70 8BD,D,N,F,11,,Garden Meadows Park,,Tenby
+2021-05-24,173000,SA70 7LW,S,N,F,Newtown Cottage,,Harding Street,,Tenby
+2021-05-24,190000,SA70 7LJ,F,N,L,Park Lane Flats,12,Greenhill Road,,Tenby
+2021-05-20,149000,SA70 8TA,S,N,F,10,,Saunders Road,Sageston,Tenby
+2021-05-20,167500,SA70 8NL,T,N,F,44,,Parklands,St Florence,Tenby
+2021-05-20,253000,SA70 8LT,T,N,F,16,,Flemish Close,St Florence,Tenby
+2021-05-15,123000,SA70 8LR,F,N,L,1,,Parsonage Farm Flats,St Florence,Tenby
+2021-05-14,249000,SA70 7JP,F,N,L,Arcadia House,1B,Warren Street,,Tenby
+2021-05-12,495000,SA70 8DW,D,N,F,3,,Scotsborough View,,Tenby
+2021-05-11,345000,SA70 8HT,F,N,L,Bryn Y Mor,Flat 22 Giltar House,Narberth Road,,Tenby
+2021-05-11,171000,SA70 8AA,F,N,L,Mayville 21,Flat 3,The Norton,,Tenby
+2021-05-06,510000,SA70 7JG,T,N,F,Chattaway House,,Upper Frog Street,,Tenby
+2021-05-05,345000,SA70 7QF,D,N,F,4,,Strawberry Gardens,Penally,Tenby
+2021-04-30,211000,SA70 7DX,F,N,L,The Chestnuts,Flat 4,Sutton Street,,Tenby
+2021-04-29,171000,SA70 8TJ,F,N,L,Oak House,Flat 6,Narberth Road,,Tenby
+2021-04-29,370000,SA70 8JD,D,N,F,Westwinds,,Narberth Road,,Tenby
+2021-04-29,190000,SA70 7QD,T,N,F,5,,Giltar Terrace,Penally,Tenby
+2021-04-29,110000,SA70 7LZ,F,N,L,32,,Clareston Court,,Tenby
+2021-04-26,270000,SA70 8HT,F,N,L,Bryn Y Mor,Flat 23 Caldey House,Narberth Road,,Tenby
+2021-04-23,370000,SA70 8RT,D,N,F,Little Hay,,,East Williamston,Tenby
+2021-04-23,95000,SA70 7LZ,T,N,L,9,,Clareston Court,,Tenby
+2021-04-23,680000,SA70 7DX,T,N,F,Hereford House,,Sutton Street,,Tenby
+2021-04-10,203700,SA70 8LZ,D,N,F,5,,Grove Court,St Florence,Tenby
+2021-04-07,235000,SA70 7SE,S,N,F,Rose Cottage,,,Lydstep,Tenby
+2021-04-01,245000,SA70 7LU,T,N,F,10,,Edward Street,,Tenby
+2021-03-31,245000,SA70 8SS,S,N,F,2,,Brook Meadows,Sageston,Tenby
+2021-03-31,135000,SA70 8NQ,S,N,L,6,,St Florence Cottages,St Florence,Tenby
+2021-03-31,266000,SA70 7QD,T,N,F,3,,Giltar Terrace,Penally,Tenby
+2021-03-31,245000,SA70 7HA,F,N,L,"Royal Victoria Court, 5 - 6",Flat 12,Crackwell Street,,Tenby
+2021-03-29,112500,SA70 8RP,F,N,L,"Daffodil Apartment, 9",,Redberth Gardens,Redberth,Tenby
+2021-03-29,320000,SA70 7NA,T,N,F,28,,Harries Street,,Tenby
+2021-03-29,280000,SA70 7LR,T,N,F,16,,Clareston Road,,Tenby
+2021-03-29,271000,SA70 7DU,F,N,L,South Beach Court,2,Esplanade,,Tenby
+2021-03-26,333000,SA70 7DN,T,N,F,Elwy Cottage,,Trafalgar Road,,Tenby
+2021-03-26,530000,SA70 7AQ,F,N,L,Waterstone House,Apartment 8,Battery Road,,Tenby
+2021-03-25,460000,SA70 8QS,D,N,F,2,,Spencer Close,Jameston,Tenby
+2021-03-24,150000,SA70 8DZ,D,N,F,6,,Ash Grove Gardens,St Florence,Tenby
+2021-03-24,640000,SA70 7TE,D,N,F,Ryefield,,,Manorbier,Tenby
+2021-03-22,155000,SA70 8DP,F,N,L,Serpentine Gardens,Flat 8,Serpentine Road,,Tenby
+2021-03-20,149325,SA70 7JT,F,N,L,Newton House,Flat 2,Warren Street,,Tenby
+2021-03-19,509000,SA70 7DP,T,N,F,St Albans,,Picton Road,,Tenby
+2021-03-18,343000,SA70 7DY,F,N,L,"Southbay Apartments, 19 - 20",Flat 7,Victoria Street,,Tenby
+2021-03-18,236600,SA70 7DX,F,N,L,Sherbourne House,First Floor Flat,Sutton Street,,Tenby
+2021-03-12,272000,SA70 8HT,F,N,L,Bryn Y Mor,Flat 24 Caldey House,Narberth Road,,Tenby
+2021-03-11,410000,SA70 8QS,D,N,F,7,,Spencer Close,Jameston,Tenby
+2021-03-09,400000,SA70 8PH,D,N,F,Osborne House,,,Milton,Tenby
+2021-03-04,162000,SA70 7HA,F,N,L,The Lanterns,Ground Floor Flat,Crackwell Street,,Tenby
+2021-02-26,281500,SA70 7DY,F,N,L,"Beaufort House, 38",Flat 3,Victoria Street,,Tenby
+2021-02-26,525000,SA70 7DS,T,N,F,Moray House,,Southcliff Gardens,,Tenby
+2021-02-22,260000,SA70 8HF,T,N,F,14,,St Johns Hill,,Tenby
+2021-02-12,345000,SA70 8AP,F,N,L,Richmond House,Flat 10,The Croft,,Tenby
+2021-02-12,80000,SA70 7LB,T,N,F,10,,Greenhill Avenue,,Tenby
+2021-02-11,126500,SA70 7LZ,F,N,L,33,,Clareston Court,,Tenby
+2021-02-09,279000,SA70 7TN,T,N,F,4,,The Croft,Manorbier,Tenby
+2021-02-05,340000,SA70 7SX,D,N,F,Bryn Castell,,,Manorbier,Tenby
+2021-02-05,186000,SA70 7LG,T,N,F,4,,Greenhill Road,,Tenby
+2021-02-05,177000,SA70 7DS,F,N,L,Barrington House,Flat 2,Southcliff Gardens,,Tenby
+2021-02-04,488000,SA70 7EN,T,Y,F,7,,Cottage Mews,,Tenby
+2021-02-02,198000,SA70 7BY,F,N,L,Sparta House,Flat 2,Crackwell Street,,Tenby
+2021-02-01,178000,SA70 8BX,T,N,F,3,,Tudor Way,,Tenby
+2021-01-29,280000,SA70 8JE,D,N,F,4,,Upper Hill Park,,Tenby
+2021-01-29,412500,SA70 8HR,D,N,F,4,,Mayfield Drive,,Tenby
+2021-01-29,325000,SA70 8DN,D,N,F,8,,Lamack Vale,,Tenby
+2021-01-29,430000,SA70 7DS,T,N,F,Clement Dale,,Southcliff Gardens,,Tenby
+2021-01-28,273400,SA70 8TR,S,N,F,Brookfield,,,New Hedges,Tenby
+2021-01-27,385000,SA70 8DN,D,N,F,14,,Lamack Vale,,Tenby
+2021-01-27,260000,SA70 8BG,D,N,F,The Old Chapel,,Heywood Lane,,Tenby
+2021-01-27,242500,SA70 7NY,D,N,F,11,,Hoyles Close,Penally,Tenby
+2021-01-25,170000,SA70 7LR,T,N,F,"Cotswolds, 25",,Clareston Road,,Tenby
+2021-01-22,361000,SA70 8PL,D,N,F,26,,Milton Meadows,Milton,Tenby
+2021-01-22,412500,SA70 7HN,T,N,F,5,,St Marys Street,,Tenby
+2021-01-15,380000,SA70 8SH,D,N,F,The Mill House,,Birds Lane,Sageston,Tenby
+2021-01-15,450000,SA70 8BL,D,N,F,Shenlow,,Heywood Lane,,Tenby
+2021-01-15,305000,SA70 7RH,T,N,F,Trefloyne,11 Longbury,,Penally,Tenby
+2021-01-15,500000,SA70 7PG,D,N,F,Wynfield,,Middle Walls Lane,Penally,Tenby
+2021-01-15,420000,SA70 7LL,S,N,F,6,,Harding Villas,,Tenby
+2021-01-14,485500,SA70 7EN,T,Y,F,10,,Cottage Mews,,Tenby
+2021-01-12,235000,SA70 8DB,D,N,F,25,,Oakridge Acres,,Tenby
+2021-01-08,117500,SA70 8LS,F,N,L,Coach House Corner,Flat 1,,St Florence,Tenby
+2021-01-07,335000,SA70 8LT,D,N,F,11,,Flemish Close,St Florence,Tenby
+2021-01-05,389000,SA70 8NL,D,N,F,5,,Parklands,St Florence,Tenby
+2021-01-05,350000,SA70 7QP,D,N,F,9,,Penally Heights,Penally,Tenby

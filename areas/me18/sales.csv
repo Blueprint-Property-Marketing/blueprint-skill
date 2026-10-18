@@ -1,0 +1,570 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-10,510000,ME18 6FH,D,N,F,The Bentletts,7,Collier Street,Yalding,Maidstone
+2026-08-05,320000,ME18 6DN,T,N,F,2,,Acton Place,Yalding,Maidstone
+2026-07-29,525000,ME18 6EX,D,N,F,Chestnut Tree,,Benover Road,Yalding,Maidstone
+2026-07-29,445000,ME18 5LU,S,N,F,103,,The Street,Mereworth,Maidstone
+2026-07-24,460000,ME18 6DX,D,N,F,Littleholme,,Vicarage Road,Yalding,Maidstone
+2026-07-24,310000,ME18 6DD,S,N,F,Jubilee Cottages,1,Lees Road,Yalding,Maidstone
+2026-07-24,455000,ME18 5DR,D,N,F,45,,Phoenix Drive,Wateringbury,Maidstone
+2026-07-24,135000,ME18 5BL,F,N,L,24,,Barham Mews,Teston,Maidstone
+2026-07-20,365000,ME18 5DE,S,N,F,5,,Glebe Meadow,Wateringbury,Maidstone
+2026-07-03,375000,ME18 5DF,T,N,F,12,,Hillside Court,Wateringbury,Maidstone
+2026-07-02,385000,ME18 5ES,S,N,F,40,,Bishops Close,Nettlestead,Maidstone
+2026-07-02,592500,ME18 5DR,D,N,F,13,,Phoenix Drive,Wateringbury,Maidstone
+2026-06-30,805000,ME18 5QD,D,N,F,157,,Butchers Lane,Mereworth,Maidstone
+2026-06-30,350000,ME18 5JP,D,N,F,Clements Oast,,Forge Lane,West Peckham,Maidstone
+2026-06-26,725000,ME18 5NY,D,N,F,244,,Tonbridge Road,Wateringbury,Maidstone
+2026-06-19,410000,ME18 5DG,D,N,F,1,,Allington Gardens,Wateringbury,Maidstone
+2026-06-19,690000,ME18 5DD,D,N,F,37,,Bow Road,Wateringbury,Maidstone
+2026-06-18,765000,ME18 6AS,D,N,F,New Barns,,Benover Road,Yalding,Maidstone
+2026-06-12,407000,ME18 6BF,S,N,F,24,,The Glebe,Yalding,Maidstone
+2026-06-03,750000,ME18 6BY,D,N,F,The Stowage,,,Laddingford,Maidstone
+2026-05-29,570000,ME18 6FH,D,N,F,The Bentletts,4,Collier Street,Yalding,Maidstone
+2026-05-21,498000,ME18 5NJ,D,N,F,26,,Cobbs Close,Wateringbury,Maidstone
+2026-05-20,1500000,ME18 6BJ,D,N,F,The Laurels,,Claygate Road,Laddingford,Maidstone
+2026-05-20,241000,ME18 5DG,S,N,F,13,,Allington Gardens,Wateringbury,Maidstone
+2026-05-15,350000,ME18 6BG,S,N,F,Brickfield Cottages,2,Emmet Hill Lane,Laddingford,Maidstone
+2026-05-15,418000,ME18 6BF,S,N,F,20,,The Glebe,Yalding,Maidstone
+2026-05-01,540000,ME18 6BF,D,N,F,11,,The Glebe,Yalding,Maidstone
+2026-04-30,645000,ME18 5NN,D,N,F,11,,Red Hill,Wateringbury,Maidstone
+2026-04-27,350000,ME18 6JW,S,N,F,3,,Medway Avenue,Yalding,Maidstone
+2026-04-23,740000,ME18 5DS,S,N,F,94,,Bow Road,Wateringbury,Maidstone
+2026-04-17,1090000,ME18 5LD,D,N,F,282,,Red Hill,Wateringbury,Maidstone
+2026-04-14,342500,ME18 5PW,T,N,F,59,,Old Road,Wateringbury,Maidstone
+2026-04-10,285000,ME18 5FA,F,N,L,"Meadow View Court, 16",Flat 10,The Orpines,Wateringbury,Maidstone
+2026-04-08,505000,ME18 6FH,D,N,F,The Bentletts,29,Collier Street,Yalding,Maidstone
+2026-04-08,630000,ME18 5NY,S,N,F,240,,Tonbridge Road,Wateringbury,Maidstone
+2026-04-08,660000,ME18 5LZ,D,N,F,81,,The Street,Mereworth,Maidstone
+2026-04-08,800000,ME18 5JP,D,N,F,Clements Cottage,,Forge Lane,West Peckham,Maidstone
+2026-04-02,395000,ME18 6DY,F,N,L,Wardes Moat,Flat 2,Vicarage Road,Yalding,Maidstone
+2026-04-02,925000,ME18 5PE,D,N,F,"The Maples, 20A",,Mill Lane,Wateringbury,Maidstone
+2026-04-01,135000,ME18 5FA,F,N,L,"Meadow View Court, 16",Flat 7,The Orpines,Wateringbury,Maidstone
+2026-04-01,328000,ME18 5DW,T,N,F,1,,Bow Terrace,Wateringbury,Maidstone
+2026-03-31,375000,ME18 5QN,T,N,F,193,,Kent Street,Mereworth,Maidstone
+2026-03-26,560000,ME18 5QW,D,N,F,"Bluebell Cottage, 204",,Kent Street,Mereworth,Maidstone
+2026-03-26,472500,ME18 5NF,S,N,F,7,,Willow Wents,Mereworth,Maidstone
+2026-03-20,333690,ME18 5JL,S,N,F,3,,Church Road,West Peckham,Maidstone
+2026-03-16,120000,ME18 5FA,F,N,L,"Meadow View Court, 16",Flat 12,The Orpines,Wateringbury,Maidstone
+2026-03-16,580000,ME18 5AS,D,N,F,"Wisteria Lodge, 28B",,Courtlands,Teston,Maidstone
+2026-03-12,410000,ME18 5LD,T,N,F,2,,Phoenix Yard,Wateringbury,Maidstone
+2026-03-06,194000,ME18 5NU,F,N,L,"Claremont House, 200",Flat 3,Tonbridge Road,Wateringbury,Maidstone
+2026-03-02,650000,ME18 6FG,T,N,F,26,,Hawthornden Grove,Yalding,Maidstone
+2026-02-05,495000,ME18 6BF,D,N,F,4,,The Glebe,Yalding,Maidstone
+2026-02-05,570000,ME18 6BF,D,N,F,2,,The Glebe,Yalding,Maidstone
+2026-01-19,250000,ME18 5HG,D,N,F,The Old Stores,,Maidstone Road,Nettlestead,Maidstone
+2026-01-16,1025000,ME18 6FG,D,N,F,20,,Hawthornden Grove,Yalding,Maidstone
+2026-01-09,455000,ME18 5AS,S,N,F,28,,Courtlands,Teston,Maidstone
+2026-01-08,700000,ME18 5DS,S,N,F,92,,Bow Road,Wateringbury,Maidstone
+2026-01-06,265465,ME18 5NS,S,N,F,174,,Tonbridge Road,Wateringbury,Maidstone
+2026-01-06,565000,ME18 5EY,S,N,F,7,,Readers Court,Teston,Maidstone
+2025-12-18,835000,ME18 6BX,D,N,F,South Barn,,,Laddingford,Maidstone
+2025-12-05,205000,ME18 5NL,F,N,L,192A,,Tonbridge Road,Wateringbury,Maidstone
+2025-12-01,955000,ME18 6FJ,D,N,F,Oakview,,Claygate Road,Collier Street,Maidstone
+2025-12-01,365000,ME18 5BT,D,N,F,"Cults, 58",,Tonbridge Road,Teston,Maidstone
+2025-11-28,525000,ME18 5HJ,S,N,F,1,,Wood Cottages,Nettlestead,Maidstone
+2025-11-18,438000,ME18 5ES,D,N,F,32A,,Bishops Close,Nettlestead,Maidstone
+2025-11-11,340000,ME18 5EA,T,N,F,141,,Bow Road,Wateringbury,Maidstone
+2025-10-23,135000,ME18 5BL,F,N,L,8,,Barham Mews,Teston,Maidstone
+2025-10-17,430000,ME18 6BF,S,N,F,1,,The Glebe,Yalding,Maidstone
+2025-10-17,140000,ME18 5BL,F,N,L,21,,Barham Mews,Teston,Maidstone
+2025-10-15,382000,ME18 6JE,S,N,F,8,,Downs Road,Yalding,Maidstone
+2025-10-10,1490000,ME18 6EA,D,N,F,Salters Cross,,Salters Cross,Yalding,Maidstone
+2025-10-10,530000,ME18 6AD,S,N,F,7,,Blumer Lock,Yalding,Maidstone
+2025-10-03,330000,ME18 5QP,S,N,F,349,,Malling Road,Mereworth,Maidstone
+2025-10-03,485000,ME18 5PX,S,N,F,11,,The Brucks,Wateringbury,Maidstone
+2025-10-01,856028,ME18 6FG,D,N,F,5,,Hawthornden Grove,Yalding,Maidstone
+2025-09-30,246500,ME18 6JS,S,N,F,18,,Lyngs Close,Yalding,Maidstone
+2025-09-26,865000,ME18 6DB,D,N,F,The Coach House,1,Lees Road,Laddingford,Maidstone
+2025-09-26,45000,ME18 5FA,F,N,L,"Meadow View Court, 16",Flat 2,The Orpines,Wateringbury,Maidstone
+2025-09-26,320000,ME18 5EX,T,N,F,21,,Bryant Close,Nettlestead,Maidstone
+2025-09-22,450000,ME18 5PX,T,N,F,32,,The Brucks,Wateringbury,Maidstone
+2025-09-12,360000,ME18 6JW,S,N,F,33,,Medway Avenue,Yalding,Maidstone
+2025-09-12,345000,ME18 6HL,S,N,F,Catchment Cottages,3,Hampstead Lane,Yalding,Maidstone
+2025-09-10,512500,ME18 5NJ,D,N,F,10,,Cobbs Close,Wateringbury,Maidstone
+2025-09-04,375000,ME18 6JE,T,N,F,16,,Downs Road,Yalding,Maidstone
+2025-09-04,349000,ME18 5DG,S,N,F,18,,Allington Gardens,Wateringbury,Maidstone
+2025-08-29,687000,ME18 5NA,D,N,F,51,,The Street,Mereworth,Maidstone
+2025-08-14,700000,ME18 6DS,D,N,F,Cherry Tree Cottage,,Vicarage Road,Yalding,Maidstone
+2025-08-13,327500,ME18 6JW,S,N,F,20,,Medway Avenue,Yalding,Maidstone
+2025-07-31,600000,ME18 5PD,D,N,F,9,,Upper Mill,Wateringbury,Maidstone
+2025-07-24,555000,ME18 5BU,S,N,F,11,,Tonbridge Road,Teston,Maidstone
+2025-07-03,550000,ME18 5RS,D,N,F,91,,Phoenix Drive,Wateringbury,Maidstone
+2025-06-27,416500,ME18 5EA,T,N,F,143,,Bow Road,Wateringbury,Maidstone
+2025-06-26,306000,ME18 6DN,T,N,F,2,,Acton Place,Yalding,Maidstone
+2025-06-25,490000,ME18 5BT,S,N,F,"Amber, 67",,Tonbridge Road,Teston,Maidstone
+2025-06-13,325000,ME18 5EP,T,N,F,2,,Glenleigh Terrace,Nettlestead,Maidstone
+2025-06-12,580000,ME18 5HT,T,N,F,Rock Farm Oast,5,Gibbs Hill,Nettlestead,Maidstone
+2025-06-10,672500,ME18 5NF,D,N,F,11,,Willow Wents,Mereworth,Maidstone
+2025-06-09,640000,ME18 6DF,D,N,F,The Oast House,,Lees Road,Yalding,Maidstone
+2025-06-06,420000,ME18 5BU,S,N,F,Hillview,,Tonbridge Road,Teston,Maidstone
+2025-06-05,625000,ME18 6JZ,D,N,F,1,,Borton Close,Yalding,Maidstone
+2025-05-02,430000,ME18 5AU,S,N,F,South Cottage,,Malling Road,Teston,Maidstone
+2025-04-30,666500,ME18 5NU,D,N,F,204,,Tonbridge Road,Wateringbury,Maidstone
+2025-04-24,400000,ME18 6DU,S,N,F,Sunnyside,2,Vicarage Road,Yalding,Maidstone
+2025-04-11,672000,ME18 6AS,D,N,F,Junkins Cottage,,Benover Road,Yalding,Maidstone
+2025-04-07,312000,ME18 5EX,T,N,F,26,,Bryant Close,Nettlestead,Maidstone
+2025-04-07,447000,ME18 5BU,S,N,F,Clayton,,Tonbridge Road,Teston,Maidstone
+2025-03-31,505000,ME18 5RS,D,N,F,101,,Phoenix Drive,Wateringbury,Maidstone
+2025-03-28,380000,ME18 6JQ,S,N,F,13,,Blunden Lane,Yalding,Maidstone
+2025-03-28,377500,ME18 6BS,S,N,F,32,,Cleavesland,Laddingford,Maidstone
+2025-03-27,470000,ME18 5RS,D,N,F,105,,Phoenix Drive,Wateringbury,Maidstone
+2025-03-27,600000,ME18 5HE,S,N,F,1,,Bank Cottages,Nettlestead,Maidstone
+2025-03-26,320000,ME18 5HF,T,N,F,Forge Cottages,4,Maidstone Road,Nettlestead,Maidstone
+2025-03-20,375000,ME18 5DE,T,N,F,16,,Glebe Meadow,Wateringbury,Maidstone
+2025-03-17,585000,ME18 6BJ,S,N,F,Forge Cottages,1,Claygate Road,Laddingford,Maidstone
+2025-03-17,392000,ME18 5NJ,D,N,F,1,,Cobbs Close,Wateringbury,Maidstone
+2025-03-17,515000,ME18 5HX,D,N,F,172,,Pizien Well Road,Wateringbury,Maidstone
+2025-03-17,256000,ME18 5FA,F,N,L,"Meadow View Court, 16",Flat 38,The Orpines,Wateringbury,Maidstone
+2025-03-13,585000,ME18 5PN,D,N,F,2,,Red House Gardens,Wateringbury,Maidstone
+2025-03-10,460000,ME18 5AS,S,N,F,37,,Courtlands,Teston,Maidstone
+2025-03-07,112500,ME18 6BF,T,N,L,17,,The Glebe,Yalding,Maidstone
+2025-02-28,362250,ME18 6JQ,S,N,F,1,,Blunden Lane,Yalding,Maidstone
+2025-02-28,282000,ME18 5DW,T,N,F,7,,Bow Terrace,Wateringbury,Maidstone
+2025-02-20,1095000,ME18 5LU,D,N,F,91,,The Street,Mereworth,Maidstone
+2025-02-19,825000,ME18 5PG,D,N,F,448,,Tonbridge Road,Wateringbury,Maidstone
+2025-02-12,295000,ME18 5EX,T,N,F,29,,Bryant Close,Nettlestead,Maidstone
+2025-01-24,650000,ME18 6JY,D,N,F,The Corner House,,Oast Court,Yalding,Maidstone
+2025-01-24,405000,ME18 6FD,T,N,F,1,,Sterns Yard,Yalding,Maidstone
+2025-01-23,575000,ME18 5QD,D,N,F,161,,Butchers Lane,Mereworth,Maidstone
+2025-01-22,325000,ME18 6JS,S,N,F,15,,Lyngs Close,Yalding,Maidstone
+2025-01-21,430000,ME18 5EJ,S,N,F,Malthouse Cottages,2,Maidstone Road,Wateringbury,Maidstone
+2025-01-17,298000,ME18 5AN,S,N,F,Hillside Cottage,1,Malling Road,Teston,Maidstone
+2025-01-16,410000,ME18 5QW,D,N,F,175,,Kent Street,Mereworth,Maidstone
+2025-01-16,470000,ME18 5AX,S,N,F,8,,Fairlawn Close,Teston,Maidstone
+2024-12-12,525000,ME18 5HL,S,N,F,The Potteries,Alpha,Maidstone Road,Nettlestead,Maidstone
+2024-12-11,645000,ME18 6FH,D,N,F,The Bentletts,6,Collier Street,Yalding,Maidstone
+2024-12-11,240000,ME18 6EW,T,N,F,Killicks Cottages,11,Benover Road,Yalding,Maidstone
+2024-11-29,122500,ME18 6BF,T,N,L,21,,The Glebe,Yalding,Maidstone
+2024-11-12,360000,ME18 5EH,S,N,F,Phoenix Cottages,3,Maidstone Road,Wateringbury,Maidstone
+2024-11-04,475000,ME18 5NJ,D,N,F,7,,Cobbs Close,Wateringbury,Maidstone
+2024-11-01,325000,ME18 5ES,T,N,F,11A,,Bishops Close,Nettlestead,Maidstone
+2024-10-31,327000,ME18 6JG,T,N,F,18,,Mount Avenue,Yalding,Maidstone
+2024-10-25,115500,ME18 6JQ,T,N,L,19,,Blunden Lane,Yalding,Maidstone
+2024-10-25,570000,ME18 6BF,D,N,F,6,,The Glebe,Yalding,Maidstone
+2024-10-23,465000,ME18 5DQ,D,N,F,10,,Leney Road,Wateringbury,Maidstone
+2024-10-23,340000,ME18 5AB,S,N,F,31,,Waterside Mews,Wateringbury,Maidstone
+2024-10-04,900000,ME18 5LZ,S,N,F,87 - 89,,The Street,Mereworth,Maidstone
+2024-10-04,635000,ME18 5LY,D,N,F,9,,Church Close,Mereworth,Maidstone
+2024-10-04,275000,ME18 5EP,T,N,F,3,,Glenleigh Terrace,Nettlestead,Maidstone
+2024-10-02,685000,ME18 6DG,D,N,F,4,,St Marys Close,Laddingford,Maidstone
+2024-09-27,318000,ME18 6BS,S,N,F,8,,Cleavesland,Laddingford,Maidstone
+2024-09-27,360000,ME18 5JN,S,N,F,Court Lodge Farm Cottages,3,The Green,West Peckham,Maidstone
+2024-09-27,200000,ME18 5ES,F,N,L,2B,,Bishops Close,Nettlestead,Maidstone
+2024-09-16,550000,ME18 5AR,T,N,F,The Willows,,Malling Road,Teston,Maidstone
+2024-09-13,580000,ME18 5QE,S,N,F,170,,Butchers Lane,Mereworth,Maidstone
+2024-09-13,520000,ME18 5DR,D,N,F,60,,Phoenix Drive,Wateringbury,Maidstone
+2024-09-13,590000,ME18 5DD,S,N,F,25,,Bow Road,Wateringbury,Maidstone
+2024-09-10,875000,ME18 5LU,D,N,F,"Warren House, 93",,The Street,Mereworth,Maidstone
+2024-09-04,440000,ME18 6JR,S,N,F,8,,Kenward Road,Yalding,Maidstone
+2024-08-30,380000,ME18 6JE,T,N,F,16,,Downs Road,Yalding,Maidstone
+2024-08-30,540000,ME18 6DS,D,N,F,Selves,,Vicarage Road,Yalding,Maidstone
+2024-08-30,950000,ME18 6AN,D,N,F,Little Court,,Yalding Hill,Yalding,Maidstone
+2024-08-30,770000,ME18 5HS,D,N,F,Three Pines,,Gibbs Hill,Nettlestead,Maidstone
+2024-08-30,637000,ME18 5DS,D,N,F,78,,Bow Road,Wateringbury,Maidstone
+2024-08-28,920000,ME18 5NU,S,N,F,214,,Tonbridge Road,Wateringbury,Maidstone
+2024-08-23,350850,ME18 6BS,S,N,F,31,,Cleavesland,Laddingford,Maidstone
+2024-08-22,865000,ME18 5BH,D,N,F,Mulberry House,,Malling Road,Teston,Maidstone
+2024-08-16,640000,ME18 6BA,S,N,F,New Cottages,1,Benover Road,Yalding,Maidstone
+2024-08-14,757000,ME18 5QD,D,N,F,141,,Butchers Lane,Mereworth,Maidstone
+2024-07-02,782500,ME18 5JL,S,N,F,2,,Church Road,West Peckham,Maidstone
+2024-06-28,520000,ME18 5HG,D,N,F,Glenbria,,Maidstone Road,Nettlestead,Maidstone
+2024-06-03,387500,ME18 6BF,S,N,F,24,,The Glebe,Yalding,Maidstone
+2024-05-30,325000,ME18 5QD,T,N,F,119,,Butchers Lane,Mereworth,Maidstone
+2024-05-28,620000,ME18 6JY,S,N,F,Great Barn,2,Oast Court,Yalding,Maidstone
+2024-05-20,460000,ME18 5EJ,S,N,F,Malthouse Cottages,3,Maidstone Road,Wateringbury,Maidstone
+2024-05-09,180000,ME18 5BL,F,N,L,28,,Barham Mews,Teston,Maidstone
+2024-04-26,283000,ME18 5DW,T,N,F,2,,Bow Terrace,Wateringbury,Maidstone
+2024-04-26,385000,ME18 5AB,T,N,F,23,,Waterside Mews,Wateringbury,Maidstone
+2024-04-19,431000,ME18 6DQ,S,N,F,4,,Acott Fields,Yalding,Maidstone
+2024-04-19,188000,ME18 5NU,F,N,L,"Claremont House, 200",Flat 4,Tonbridge Road,Wateringbury,Maidstone
+2024-04-19,425000,ME18 5BT,S,N,F,"Brahamoor, 52",,Tonbridge Road,Teston,Maidstone
+2024-04-18,640000,ME18 5EY,S,N,F,5,,Readers Court,Teston,Maidstone
+2024-04-12,482500,ME18 5DJ,D,N,F,7,,Warden Mill Close,Wateringbury,Maidstone
+2024-04-12,400000,ME18 5AS,D,N,F,5,,Courtlands,Teston,Maidstone
+2024-04-11,465000,ME18 5EY,T,N,F,3,,Readers Court,Teston,Maidstone
+2024-04-05,1250000,ME18 5LA,D,N,F,173,,Red Hill,Wateringbury,Maidstone
+2024-04-04,440000,ME18 5DX,T,N,F,104,,Bow Road,Wateringbury,Maidstone
+2024-04-03,300000,ME18 5PW,T,N,F,57,,Old Road,Wateringbury,Maidstone
+2024-03-28,166635,ME18 5BL,F,N,L,10,,Barham Mews,Teston,Maidstone
+2024-03-26,400000,ME18 5BU,S,N,F,6,,Tonbridge Road,Teston,Maidstone
+2024-03-18,450000,ME18 5BT,S,N,F,"Tresco, 57",,Tonbridge Road,Teston,Maidstone
+2024-03-14,465000,ME18 6JW,S,N,F,4,,Medway Avenue,Yalding,Maidstone
+2024-03-08,1100000,ME18 6HB,D,N,F,Willow Grove,,Lees Road,Yalding,Maidstone
+2024-03-08,925000,ME18 5PA,D,N,F,310,,Tonbridge Road,Wateringbury,Maidstone
+2024-02-29,185000,ME18 6DQ,F,N,L,14,,Acott Fields,Yalding,Maidstone
+2024-02-29,145250,ME18 5QR,S,N,L,247,,Kent Street,Mereworth,Maidstone
+2024-02-23,597250,ME18 5BU,S,N,F,7,,Tonbridge Road,Teston,Maidstone
+2024-02-21,178500,ME18 6HS,F,N,L,Swan Place,Flat 1,High Street,Yalding,Maidstone
+2024-02-20,265000,ME18 6HS,T,N,F,The Old Swan,,High Street,Yalding,Maidstone
+2024-02-16,740000,ME18 6JY,D,N,F,"Elmleigh, 9",,Oast Court,Yalding,Maidstone
+2024-02-16,548000,ME18 6DW,S,N,F,Jesolo,,Vicarage Road,Yalding,Maidstone
+2024-02-16,430000,ME18 5DH,S,N,F,46,,Glebe Meadow,Wateringbury,Maidstone
+2024-01-15,253000,ME18 6BS,S,N,F,31,,Cleavesland,Laddingford,Maidstone
+2024-01-09,315000,ME18 6JE,S,N,F,3,,Downs Road,Yalding,Maidstone
+2024-01-05,164000,ME18 6DQ,F,N,L,16,,Acott Fields,Yalding,Maidstone
+2024-01-04,338500,ME18 5BT,F,N,L,"Valley Court, 69",5,Tonbridge Road,Teston,Maidstone
+2023-12-20,150000,ME18 5BL,F,N,L,2,,Barham Mews,Teston,Maidstone
+2023-12-19,640000,ME18 5EZ,S,N,F,Rectory Cottages,1,Maidstone Road,Nettlestead,Maidstone
+2023-12-19,342000,ME18 5AS,S,N,F,18,,Courtlands,Teston,Maidstone
+2023-12-13,256500,ME18 5BF,F,N,L,Teston House,Flat 3,Tonbridge Road,Teston,Maidstone
+2023-12-12,591000,ME18 5NA,D,N,F,53,,The Street,Mereworth,Maidstone
+2023-12-01,285000,ME18 5EX,T,N,F,27,,Bryant Close,Nettlestead,Maidstone
+2023-11-29,467000,ME18 6JE,T,N,F,19,,Downs Road,Yalding,Maidstone
+2023-11-22,770000,ME18 5NA,D,N,F,Windmill Garden,,The Street,Mereworth,Maidstone
+2023-11-10,830000,ME18 5QD,D,N,F,143,,Butchers Lane,Mereworth,Maidstone
+2023-11-03,722500,ME18 5LU,D,N,F,109,,The Street,Mereworth,Maidstone
+2023-10-27,900000,ME18 6AX,D,N,F,Forsters Barn,,Benover Road,Yalding,Maidstone
+2023-10-24,256000,ME18 6DU,S,N,F,Sunnyside,1,Vicarage Road,Yalding,Maidstone
+2023-10-23,343500,ME18 6JW,S,N,F,7,,Medway Avenue,Yalding,Maidstone
+2023-10-13,344000,ME18 6EH,S,N,F,Horseshoe Cottage,,Lughorse Lane,Yalding,Maidstone
+2023-10-06,625000,ME18 5AS,D,N,F,13,,Courtlands,Teston,Maidstone
+2023-10-04,380000,ME18 5QW,D,N,F,210,,Kent Street,Mereworth,Maidstone
+2023-10-03,475000,ME18 5DZ,S,N,F,123,,Bow Road,Wateringbury,Maidstone
+2023-09-29,425000,ME18 6AR,D,N,F,Hatchgate House,,Mill Lane,Yalding,Maidstone
+2023-09-29,460000,ME18 5DR,D,N,F,59,,Phoenix Drive,Wateringbury,Maidstone
+2023-09-29,960000,ME18 5AQ,D,N,F,Court Lodge Farm,The Granary,The Street,Teston,Maidstone
+2023-09-25,160000,ME18 5BF,F,N,L,Teston House,Flat 17,Tonbridge Road,Teston,Maidstone
+2023-09-22,340000,ME18 6HY,T,N,F,Elveys Cottage,4,High Street,Yalding,Maidstone
+2023-09-14,370000,ME18 5DG,S,N,F,24,,Allington Gardens,Wateringbury,Maidstone
+2023-09-12,266000,ME18 5BN,D,N,F,519,,Red Hill,Wateringbury,Maidstone
+2023-09-07,387500,ME18 6JF,S,N,F,41,,Mount Avenue,Yalding,Maidstone
+2023-08-31,870000,ME18 5QZ,D,N,F,72,,New Pound Lane,Mereworth,Maidstone
+2023-08-18,1250000,ME18 6AH,D,N,F,Dunstressing,,Kenward Road,Yalding,Maidstone
+2023-08-16,200000,ME18 5FA,F,N,L,"Meadow View Court, 16",Flat 43,The Orpines,Wateringbury,Maidstone
+2023-08-16,165000,ME18 5BL,T,N,L,23,,Barham Mews,Teston,Maidstone
+2023-07-28,487500,ME18 5NJ,D,N,F,24,,Cobbs Close,Wateringbury,Maidstone
+2023-07-21,1370000,ME18 5NY,S,N,F,"Gransden, 242A",,Tonbridge Road,Wateringbury,Maidstone
+2023-07-20,530000,ME18 5RS,D,N,F,100,,Phoenix Drive,Wateringbury,Maidstone
+2023-07-13,210000,ME18 5NU,F,N,L,"Claremont House, 200",Flat 5,Tonbridge Road,Wateringbury,Maidstone
+2023-07-12,435000,ME18 5AG,D,N,F,Trowfair,,Church Street,Teston,Maidstone
+2023-07-07,445000,ME18 6BT,S,N,F,2,,Chapel Cottages,Laddingford,Maidstone
+2023-07-05,626000,ME18 5LZ,D,N,F,"Vine Cottage, 73",,The Street,Mereworth,Maidstone
+2023-06-30,285000,ME18 5EX,T,N,F,13,,Bryant Close,Nettlestead,Maidstone
+2023-06-28,490000,ME18 5NJ,D,N,F,4,,Cobbs Close,Wateringbury,Maidstone
+2023-06-23,285000,ME18 5DW,T,N,F,7,,Bow Terrace,Wateringbury,Maidstone
+2023-06-16,450000,ME18 5RS,D,N,F,96,,Phoenix Drive,Wateringbury,Maidstone
+2023-06-09,985000,ME18 6DR,D,N,F,Hamilton,,Vicarage Road,Yalding,Maidstone
+2023-06-09,450000,ME18 5QH,T,N,F,246,,Butchers Lane,Mereworth,Maidstone
+2023-04-24,1300000,ME18 6BP,D,N,F,Orchard House,,,Laddingford,Maidstone
+2023-04-24,1100000,ME18 5LZ,D,N,F,79,,The Street,Mereworth,Maidstone
+2023-04-20,302000,ME18 6JS,S,N,F,1,,Lyngs Close,Yalding,Maidstone
+2023-04-14,1440000,ME18 6HU,D,N,F,Church House,,High Street,Yalding,Maidstone
+2023-04-14,465000,ME18 6FD,S,N,F,2,,Sterns Yard,Yalding,Maidstone
+2023-04-14,525000,ME18 5LY,S,N,F,6,,Church Close,Mereworth,Maidstone
+2023-04-04,630000,ME18 5PE,D,N,F,20,,Mill Lane,Wateringbury,Maidstone
+2023-04-03,915000,ME18 6ES,D,N,F,Bramleys,,Benover Road,Yalding,Maidstone
+2023-04-03,287000,ME18 5EH,T,N,F,Phoenix Cottages,6,Maidstone Road,Wateringbury,Maidstone
+2023-03-27,575250,ME18 5QE,D,N,F,192,,Butchers Lane,Mereworth,Maidstone
+2023-03-24,426000,ME18 5NY,T,N,F,Vine Court,5,Tonbridge Road,Wateringbury,Maidstone
+2023-03-17,170000,ME18 5BL,F,N,L,18,,Barham Mews,Teston,Maidstone
+2023-03-10,570000,ME18 5PX,D,N,F,29,,The Brucks,Wateringbury,Maidstone
+2023-03-10,420000,ME18 5PX,S,N,F,13,,The Brucks,Wateringbury,Maidstone
+2023-03-03,390000,ME18 6JG,S,N,F,10,,Mount Avenue,Yalding,Maidstone
+2023-02-17,235000,ME18 5ES,T,N,F,34A,,Bishops Close,Nettlestead,Maidstone
+2023-02-10,320000,ME18 6HZ,T,N,F,Randalls Cottages,2,High Street,Yalding,Maidstone
+2023-02-10,265000,ME18 5FA,F,N,L,"Meadow View Court, 16",Flat 14,The Orpines,Wateringbury,Maidstone
+2023-02-03,525000,ME18 5LR,D,N,F,"Childeric House, 222",,Tonbridge Road,Mereworth,Maidstone
+2023-01-30,565000,ME18 5EY,S,N,F,4,,Readers Court,Teston,Maidstone
+2023-01-26,312000,ME18 5FA,F,N,L,"Meadow View Court, 16",Flat 36,The Orpines,Wateringbury,Maidstone
+2023-01-18,260000,ME18 5FA,F,N,L,"Meadow View Court, 16",Flat 7,The Orpines,Wateringbury,Maidstone
+2023-01-17,450000,ME18 6JG,S,N,F,8,,Mount Avenue,Yalding,Maidstone
+2023-01-16,375000,ME18 6BP,T,N,F,Belgrave Cottage,,,Laddingford,Maidstone
+2023-01-13,415000,ME18 5DT,T,N,F,98,,Bow Road,Wateringbury,Maidstone
+2023-01-13,345000,ME18 5DF,S,N,F,11,,Hillside Court,Wateringbury,Maidstone
+2023-01-12,429000,ME18 5HX,S,N,F,151,,Pizien Well Road,Wateringbury,Maidstone
+2022-12-21,265000,ME18 5FA,F,N,L,"Meadow View Court, 16",Flat 15,The Orpines,Wateringbury,Maidstone
+2022-12-16,710000,ME18 5EE,T,N,F,1,,Bow Meadow Cottages,Wateringbury,Maidstone
+2022-12-15,670000,ME18 6BP,D,N,F,Flambards,,,Laddingford,Maidstone
+2022-12-12,490000,ME18 6HY,S,N,F,Elveys Cottage,2,High Street,Yalding,Maidstone
+2022-12-09,362000,ME18 6HB,S,N,F,Rose Cottages,2,Lees Road,Yalding,Maidstone
+2022-12-02,500000,ME18 5PD,D,N,F,8,,Upper Mill,Wateringbury,Maidstone
+2022-12-02,730000,ME18 5NA,D,N,F,63,,The Street,Mereworth,Maidstone
+2022-11-24,1285000,ME18 6EA,D,N,F,Cheveney Barn,,Salters Cross,Yalding,Maidstone
+2022-11-18,265000,ME18 6EW,T,N,F,Killicks Cottages,5,Benover Road,Yalding,Maidstone
+2022-11-17,315000,ME18 5QQ,S,N,F,238,,Butchers Lane,Mereworth,Maidstone
+2022-11-08,580000,ME18 6JU,D,N,F,1,,Wilson Court,Yalding,Maidstone
+2022-11-04,260500,ME18 5FA,F,N,L,"Meadow View Court, 16",Flat 12,The Orpines,Wateringbury,Maidstone
+2022-10-14,778000,ME18 5NA,D,N,F,49,,The Street,Mereworth,Maidstone
+2022-10-05,300000,ME18 5HH,T,N,F,2,,Wells Cottages,Nettlestead,Maidstone
+2022-10-04,480000,ME18 5BE,D,N,F,466,,Red Hill,Wateringbury,Maidstone
+2022-09-30,935000,ME18 6AS,D,N,F,Little Benover,The Farmhouse,Benover Road,Yalding,Maidstone
+2022-09-30,635000,ME18 5NY,D,N,F,199,,Tonbridge Road,Wateringbury,Maidstone
+2022-09-26,560000,ME18 5PN,D,N,F,7,,Red House Gardens,Wateringbury,Maidstone
+2022-09-23,600000,ME18 5NW,D,N,F,14,,Red Hill,Wateringbury,Maidstone
+2022-09-21,375000,ME18 6JG,S,N,F,2,,Mount Avenue,Yalding,Maidstone
+2022-09-21,521500,ME18 5RS,D,N,F,97,,Phoenix Drive,Wateringbury,Maidstone
+2022-09-21,810000,ME18 5NZ,D,N,F,4,,Love Lane,Wateringbury,Maidstone
+2022-09-21,400000,ME18 5ES,S,N,F,40,,Bishops Close,Nettlestead,Maidstone
+2022-09-19,707540,ME18 6JY,S,N,F,The Mews,,Oast Court,Yalding,Maidstone
+2022-09-15,770000,ME18 6FG,D,N,F,1,,Hawthornden Grove,Yalding,Maidstone
+2022-09-15,141500,ME18 5BF,F,N,L,Teston House,Flat 16,Tonbridge Road,Teston,Maidstone
+2022-09-15,237000,ME18 5AB,S,N,F,6,,Waterside Mews,Wateringbury,Maidstone
+2022-09-14,335000,ME18 5FA,F,N,L,"Meadow View Court, 16",Flat 8,The Orpines,Wateringbury,Maidstone
+2022-09-13,355000,ME18 5BT,F,N,L,"Valley Court, 69",1,Tonbridge Road,Teston,Maidstone
+2022-09-13,925000,ME18 5AQ,D,N,F,Court Lodge Farm,Ridgewood,The Street,Teston,Maidstone
+2022-09-05,725000,ME18 6DH,D,N,F,4,,Walnut Close,Yalding,Maidstone
+2022-09-02,560000,ME18 5DR,D,N,F,43,,Phoenix Drive,Wateringbury,Maidstone
+2022-09-01,1025000,ME18 5AQ,D,N,F,Court Lodge Farm House,,The Street,Teston,Maidstone
+2022-08-31,375000,ME18 5JJ,T,N,F,4,,Church Row,West Peckham,Maidstone
+2022-08-26,335000,ME18 5AB,T,N,F,30,,Waterside Mews,Wateringbury,Maidstone
+2022-08-24,165000,ME18 5BF,F,N,L,Teston House,Flat 7,Tonbridge Road,Teston,Maidstone
+2022-08-23,185000,ME18 6DQ,F,N,L,13,,Acott Fields,Yalding,Maidstone
+2022-08-19,370000,ME18 6JE,T,N,F,14,,Downs Road,Yalding,Maidstone
+2022-08-19,750000,ME18 5NN,D,N,F,15,,Red Hill,Wateringbury,Maidstone
+2022-08-19,650000,ME18 5AG,D,N,F,Waycot,,Church Street,Teston,Maidstone
+2022-08-15,606000,ME18 5AL,D,N,F,1,,Woodlands Close,Teston,Maidstone
+2022-08-12,850000,ME18 5QS,D,N,F,"Yew Tree House, 265",,Kent Street,Mereworth,Maidstone
+2022-08-12,590000,ME18 5AQ,D,N,F,Havenfield,,The Street,Teston,Maidstone
+2022-08-05,570000,ME18 6JR,D,N,F,Honeysuckle Cottage,,Kenward Road,Yalding,Maidstone
+2022-08-04,640000,ME18 5RS,D,N,F,88,,Phoenix Drive,Wateringbury,Maidstone
+2022-07-27,400000,ME18 6BJ,S,N,F,Forge Cottages,2,Claygate Road,Laddingford,Maidstone
+2022-07-25,525000,ME18 5BT,S,N,F,"Strathmore, 60",,Tonbridge Road,Teston,Maidstone
+2022-07-22,730000,ME18 5NW,D,N,F,10,,Red Hill,Wateringbury,Maidstone
+2022-07-22,390000,ME18 5DG,S,N,F,14,,Allington Gardens,Wateringbury,Maidstone
+2022-07-08,685000,ME18 6FG,S,N,F,16,,Hawthornden Grove,Yalding,Maidstone
+2022-07-04,450000,ME18 5DF,D,N,F,16,,Hillside Court,Wateringbury,Maidstone
+2022-06-30,470000,ME18 5NF,S,N,F,7,,Willow Wents,Mereworth,Maidstone
+2022-06-24,667500,ME18 5QD,D,N,F,153,,Butchers Lane,Mereworth,Maidstone
+2022-06-14,540000,ME18 5QD,D,N,F,163A,,Butchers Lane,Mereworth,Maidstone
+2022-06-10,315000,ME18 5EY,T,N,F,2,,Readers Court,Teston,Maidstone
+2022-05-27,545000,ME18 5EY,T,N,F,18,,Readers Court,Teston,Maidstone
+2022-05-25,200000,ME18 5ES,F,N,L,2B,,Bishops Close,Nettlestead,Maidstone
+2022-05-23,305107,ME18 6JA,T,N,F,3,,High Street,Yalding,Maidstone
+2022-05-16,510000,ME18 6FH,D,N,F,The Bentletts,11,Collier Street,Yalding,Maidstone
+2022-05-13,310000,ME18 5EX,T,N,F,4,,Bryant Close,Nettlestead,Maidstone
+2022-05-06,154000,ME18 5BL,F,N,L,12,,Barham Mews,Teston,Maidstone
+2022-05-03,378500,ME18 6JW,S,N,F,22,,Medway Avenue,Yalding,Maidstone
+2022-04-26,380000,ME18 5DF,D,N,F,2,,Hillside Court,Wateringbury,Maidstone
+2022-04-25,1100000,ME18 6HA,S,N,F,Barn Oast,,Symonds Lane,Yalding,Maidstone
+2022-04-20,575000,ME18 6JB,S,N,F,The Oast House,,Yalding Hill,Yalding,Maidstone
+2022-04-14,837500,ME18 6DY,T,N,F,Cheveney Farm,Pepper Cottage,Vicarage Road,Yalding,Maidstone
+2022-04-12,480000,ME18 6AD,S,N,F,9,,Blumer Lock,Yalding,Maidstone
+2022-04-08,500000,ME18 6BZ,S,N,F,Stoneham Cottage,2,Gravelly Ways,Laddingford,Maidstone
+2022-04-08,555000,ME18 5RP,D,N,F,3,,Rivers Close,Wateringbury,Maidstone
+2022-04-08,985000,ME18 5NZ,D,N,F,5,,Love Lane,Wateringbury,Maidstone
+2022-04-06,640000,ME18 5BP,D,N,F,5,,The Orpines,Wateringbury,Maidstone
+2022-03-31,450000,ME18 5EJ,S,N,F,Malthouse Cottages,1,Maidstone Road,Wateringbury,Maidstone
+2022-03-25,340000,ME18 5ER,S,N,F,Kings Cottages,5,Maidstone Road,Wateringbury,Maidstone
+2022-03-23,265000,ME18 5FA,F,N,L,"Meadow View Court, 16",Flat 11,The Orpines,Wateringbury,Maidstone
+2022-03-22,302000,ME18 6EN,T,N,F,Woolletts Cottages,2,Benover Road,Yalding,Maidstone
+2022-03-17,560000,ME18 6JF,D,N,F,57,,Mount Avenue,Yalding,Maidstone
+2022-03-08,250000,ME18 5NS,F,N,F,178,,Tonbridge Road,Wateringbury,Maidstone
+2022-03-08,485000,ME18 5NF,S,N,F,3,,Willow Wents,Mereworth,Maidstone
+2022-03-07,342500,ME18 6JE,T,N,F,15,,Downs Road,Yalding,Maidstone
+2022-03-07,720000,ME18 5JP,D,N,F,Cherry Hinton,,Forge Lane,West Peckham,Maidstone
+2022-03-04,524000,ME18 5HT,T,N,F,Rock Farm Oast,1,Gibbs Hill,Nettlestead,Maidstone
+2022-02-25,725000,ME18 6BX,S,N,F,Armada Grange,,,Laddingford,Maidstone
+2022-02-25,480000,ME18 5NF,S,N,F,5,,Willow Wents,Mereworth,Maidstone
+2022-02-25,385000,ME18 5AS,S,N,F,23,,Courtlands,Teston,Maidstone
+2022-02-24,577500,ME18 5PB,D,N,F,4,,Lodge Close,Wateringbury,Maidstone
+2022-02-17,400000,ME18 5BE,S,N,F,470,,Red Hill,Wateringbury,Maidstone
+2022-02-11,194000,ME18 5NU,F,N,L,"Claremont House, 200",Flat 7,Tonbridge Road,Wateringbury,Maidstone
+2022-02-10,460000,ME18 6HT,S,N,F,1,,The Tatt,Yalding,Maidstone
+2022-02-03,607500,ME18 5NA,D,N,F,63,,The Street,Mereworth,Maidstone
+2022-02-02,211500,ME18 6HU,T,N,F,Church Cottages,2,High Street,Yalding,Maidstone
+2022-01-28,1840000,ME18 6AU,D,N,F,The Glass House,,Benover Road,Yalding,Maidstone
+2022-01-25,320000,ME18 6JG,T,N,F,14,,Mount Avenue,Yalding,Maidstone
+2022-01-25,658000,ME18 6HT,D,N,F,Tatt Cottage,,High Street,Yalding,Maidstone
+2022-01-20,325000,ME18 5FA,F,N,L,"Meadow View Court, 16",Flat 9,The Orpines,Wateringbury,Maidstone
+2022-01-14,765000,ME18 5NW,D,N,F,16,,Red Hill,Wateringbury,Maidstone
+2021-12-23,370000,ME18 6JE,S,N,F,5,,Downs Road,Yalding,Maidstone
+2021-12-21,690000,ME18 6DF,D,N,F,Cherry Tree Barn,,Lees Road,Yalding,Maidstone
+2021-12-20,220000,ME18 6EL,T,N,F,Kingsland Cottages,4,Benover Road,Yalding,Maidstone
+2021-12-17,500000,ME18 6JE,S,N,F,7,,Downs Road,Yalding,Maidstone
+2021-12-17,670000,ME18 6ED,S,N,F,Pennywood Cottages,3,Lughorse Lane,Yalding,Maidstone
+2021-12-15,390000,ME18 6HU,T,N,F,Church Cottages,1,High Street,Yalding,Maidstone
+2021-12-14,473500,ME18 5QD,D,N,F,127A,,Butchers Lane,Mereworth,Maidstone
+2021-12-13,345000,ME18 6BU,S,N,F,Prince Of Wales Cottage,,,Laddingford,Maidstone
+2021-12-13,305000,ME18 5HF,T,N,F,Forge Cottages,4,Maidstone Road,Nettlestead,Maidstone
+2021-12-10,465000,ME18 5NF,S,N,F,9,,Willow Wents,Mereworth,Maidstone
+2021-12-10,300000,ME18 5ES,S,N,F,32,,Bishops Close,Nettlestead,Maidstone
+2021-12-08,650000,ME18 5PN,D,N,F,8,,Red House Gardens,Wateringbury,Maidstone
+2021-12-08,370000,ME18 5AB,T,N,F,23,,Waterside Mews,Wateringbury,Maidstone
+2021-12-06,450000,ME18 5BT,S,N,F,"Colindale, 66",,Tonbridge Road,Teston,Maidstone
+2021-11-30,630000,ME18 5BP,D,N,F,15A,,The Orpines,Wateringbury,Maidstone
+2021-11-24,600000,ME18 6HB,S,N,F,The Limes,,Lees Road,Yalding,Maidstone
+2021-11-16,235000,ME18 6HU,F,N,L,Coates House,The Flat,High Street,Yalding,Maidstone
+2021-11-08,309000,ME18 5EX,T,N,F,12,,Bryant Close,Nettlestead,Maidstone
+2021-11-05,1300000,ME18 6HB,D,N,F,Lees Lodge,,Lees Road,Yalding,Maidstone
+2021-11-05,478000,ME18 5ER,D,N,F,Hillcrest,,Maidstone Road,Wateringbury,Maidstone
+2021-11-03,324000,ME18 5DP,T,N,F,7,,Hanbury Close,Wateringbury,Maidstone
+2021-10-29,535000,ME18 6FH,D,Y,F,The Bentletts,20,Collier Street,Yalding,Maidstone
+2021-10-29,535000,ME18 6FH,D,Y,F,The Bentletts,21,Collier Street,Yalding,Maidstone
+2021-10-29,530000,ME18 6FH,D,Y,F,The Bentletts,24,Collier Street,Yalding,Maidstone
+2021-10-29,777000,ME18 6AD,D,N,F,16,,Blumer Lock,Yalding,Maidstone
+2021-10-29,255000,ME18 5ER,S,N,F,Kings Cottages,14,Maidstone Road,Wateringbury,Maidstone
+2021-10-28,370000,ME18 5QQ,D,N,F,183,,Butchers Lane,Mereworth,Maidstone
+2021-10-25,280000,ME18 5EX,S,N,F,40,,Bryant Close,Nettlestead,Maidstone
+2021-10-21,797500,ME18 6AD,D,N,F,15,,Blumer Lock,Yalding,Maidstone
+2021-10-14,258000,ME18 5DW,T,N,F,20,,Bow Terrace,Wateringbury,Maidstone
+2021-10-01,585000,ME18 5PA,S,N,F,335,,Tonbridge Road,Wateringbury,Maidstone
+2021-09-30,375000,ME18 5PR,T,N,F,179,,Old Road,Wateringbury,Maidstone
+2021-09-30,900000,ME18 5LS,D,N,F,The Farmhouse,,The Street,Mereworth,Maidstone
+2021-09-30,350000,ME18 5DG,S,N,F,9,,Allington Gardens,Wateringbury,Maidstone
+2021-09-29,379995,ME18 5BU,S,N,F,Durley,,Tonbridge Road,Teston,Maidstone
+2021-09-24,610000,ME18 6FH,D,Y,F,The Bentletts,16,Collier Street,Yalding,Maidstone
+2021-09-24,505000,ME18 5RS,D,N,F,79,,Phoenix Drive,Wateringbury,Maidstone
+2021-09-24,270000,ME18 5DW,T,N,F,7,,Bow Terrace,Wateringbury,Maidstone
+2021-09-23,212000,ME18 6EW,T,N,F,Killicks Cottages,13,Benover Road,Yalding,Maidstone
+2021-09-23,265000,ME18 5FA,F,N,L,"Meadow View Court, 16",Flat 16,The Orpines,Wateringbury,Maidstone
+2021-09-22,540000,ME18 6JP,D,N,F,Knaves Acre,,Kenward Road,Yalding,Maidstone
+2021-09-22,566500,ME18 5BP,D,N,F,2,,The Orpines,Wateringbury,Maidstone
+2021-09-21,600000,ME18 5QE,D,N,F,"Homeview, 190",,Butchers Lane,Mereworth,Maidstone
+2021-09-21,750000,ME18 5QE,D,N,F,190A,,Butchers Lane,Mereworth,Maidstone
+2021-09-21,257500,ME18 5FA,F,N,L,"Meadow View Court, 16",Flat 28,The Orpines,Wateringbury,Maidstone
+2021-09-20,555000,ME18 5BU,S,N,F,"Farleighview, 10",,Tonbridge Road,Teston,Maidstone
+2021-09-20,750000,ME18 5BS,D,N,F,11,,Tonbridge Road,Wateringbury,Maidstone
+2021-09-17,1150000,ME18 5LU,D,N,F,99,,The Street,Mereworth,Maidstone
+2021-09-15,260000,ME18 6JS,S,N,F,19,,Lyngs Close,Yalding,Maidstone
+2021-09-14,460000,ME18 5NA,D,N,F,51,,The Street,Mereworth,Maidstone
+2021-09-10,744000,ME18 5QE,D,N,F,186,,Butchers Lane,Mereworth,Maidstone
+2021-09-09,470000,ME18 6DQ,S,N,F,7,,Acott Fields,Yalding,Maidstone
+2021-08-27,620000,ME18 6FH,D,Y,F,The Bentletts,17,Collier Street,Yalding,Maidstone
+2021-08-27,630000,ME18 6FH,D,Y,F,The Bentletts,18,Collier Street,Yalding,Maidstone
+2021-08-25,460000,ME18 5DF,S,N,F,4,,Hillside Court,Wateringbury,Maidstone
+2021-08-20,700000,ME18 6DD,D,N,F,Lane End,,Lees Road,Yalding,Maidstone
+2021-08-20,865500,ME18 6AS,D,N,F,Thatchers,,Benover Road,Yalding,Maidstone
+2021-08-19,640000,ME18 6DX,D,N,F,The Pines,,Vicarage Road,Yalding,Maidstone
+2021-08-19,430000,ME18 5QQ,S,N,F,187,,Butchers Lane,Mereworth,Maidstone
+2021-08-19,325000,ME18 5LD,T,N,F,5,,Phoenix Yard,Wateringbury,Maidstone
+2021-08-18,485000,ME18 5DU,D,N,F,9,,Boormans Mews,Wateringbury,Maidstone
+2021-08-11,535000,ME18 6FH,D,Y,F,The Bentletts,10,Collier Street,Yalding,Maidstone
+2021-08-06,620000,ME18 6FH,D,Y,F,The Bentletts,19,Collier Street,Yalding,Maidstone
+2021-07-30,410000,ME18 6FH,D,Y,F,The Bentletts,22,Collier Street,Yalding,Maidstone
+2021-07-30,1475000,ME18 6BJ,D,N,F,Willow Tree Farm,,Claygate Road,Laddingford,Maidstone
+2021-07-30,325000,ME18 5DZ,S,N,F,131,,Bow Road,Wateringbury,Maidstone
+2021-07-29,260000,ME18 5FA,F,N,L,"Meadow View Court, 16",Flat 43,The Orpines,Wateringbury,Maidstone
+2021-07-27,410000,ME18 6FH,D,Y,F,The Bentletts,23,Collier Street,Yalding,Maidstone
+2021-07-23,342500,ME18 5EW,T,N,F,3,,Springdale Terrace,Wateringbury,Maidstone
+2021-07-16,271000,ME18 5EX,T,N,F,8,,Bryant Close,Nettlestead,Maidstone
+2021-07-14,165000,ME18 6HS,F,N,L,Swan Place,Flat 1,High Street,Yalding,Maidstone
+2021-06-30,335000,ME18 6JE,T,N,F,17,,Downs Road,Yalding,Maidstone
+2021-06-30,532000,ME18 6FH,D,Y,F,The Bentletts,13,Collier Street,Yalding,Maidstone
+2021-06-30,525000,ME18 6FH,D,Y,F,The Bentletts,25,Collier Street,Yalding,Maidstone
+2021-06-30,865000,ME18 6DT,D,N,F,Wolverley,,Vicarage Road,Yalding,Maidstone
+2021-06-30,325000,ME18 6DP,S,N,F,5,,Vicarage Road,Yalding,Maidstone
+2021-06-29,895000,ME18 6JH,D,Y,F,18,,Blunden Lane,Yalding,Maidstone
+2021-06-29,322500,ME18 5FA,F,N,L,"Meadow View Court, 16",Flat 38,The Orpines,Wateringbury,Maidstone
+2021-06-29,590000,ME18 5EY,T,N,F,16,,Readers Court,Teston,Maidstone
+2021-06-29,351000,ME18 5EL,T,N,F,4,,Medway Terrace,Wateringbury,Maidstone
+2021-06-28,575000,ME18 6JX,T,N,F,Hopgarden Oast,4,Oast Court,Yalding,Maidstone
+2021-06-28,390000,ME18 5QD,T,N,F,131,,Butchers Lane,Mereworth,Maidstone
+2021-06-28,800000,ME18 5HS,D,N,F,Three Pines,,Gibbs Hill,Nettlestead,Maidstone
+2021-06-28,350000,ME18 5DX,T,N,F,106,,Bow Road,Wateringbury,Maidstone
+2021-06-28,425000,ME18 5BD,S,N,F,23,,Barming Road,Wateringbury,Maidstone
+2021-06-25,565000,ME18 6FH,D,Y,F,The Bentletts,1,Collier Street,Yalding,Maidstone
+2021-06-25,935000,ME18 6FG,D,Y,F,14,,Hawthornden Grove,Yalding,Maidstone
+2021-06-25,315000,ME18 6BU,T,N,F,Fairview,,,Laddingford,Maidstone
+2021-06-24,450000,ME18 5JN,S,N,F,Court Lodge Farm Cottages,1,The Green,West Peckham,Maidstone
+2021-06-23,677500,ME18 5NY,D,N,F,248,,Tonbridge Road,Wateringbury,Maidstone
+2021-06-23,680000,ME18 5LD,D,N,F,"Oakenwood Cottage, 243",,Red Hill,Wateringbury,Maidstone
+2021-06-21,333000,ME18 6BN,S,N,F,2,,Meadow View,Laddingford,Maidstone
+2021-06-18,567000,ME18 5QW,D,N,F,206,,Kent Street,Mereworth,Maidstone
+2021-06-17,360000,ME18 6JN,S,N,F,83,,Medway Avenue,Yalding,Maidstone
+2021-06-17,515000,ME18 6FH,D,Y,F,The Bentletts,28,Collier Street,Yalding,Maidstone
+2021-06-17,395000,ME18 5DP,S,N,F,2,,Hanbury Close,Wateringbury,Maidstone
+2021-06-16,240000,ME18 5QD,T,N,F,Lavender Cottage,,Butchers Lane,Mereworth,Maidstone
+2021-06-16,580000,ME18 5AL,D,N,F,6,,Woodlands Close,Teston,Maidstone
+2021-06-14,465000,ME18 6FG,T,Y,F,8,,Hawthornden Grove,Yalding,Maidstone
+2021-06-14,280000,ME18 5QE,T,N,F,178,,Butchers Lane,Mereworth,Maidstone
+2021-06-14,277000,ME18 5AB,T,N,F,19,,Waterside Mews,Wateringbury,Maidstone
+2021-06-11,410000,ME18 6FH,D,Y,F,The Bentletts,15,Collier Street,Yalding,Maidstone
+2021-06-11,645000,ME18 5LY,S,N,F,2,,Church Close,Mereworth,Maidstone
+2021-06-10,340000,ME18 6JW,S,N,F,11,,Medway Avenue,Yalding,Maidstone
+2021-06-10,385000,ME18 5BU,S,N,F,Fair Lawn,,Tonbridge Road,Teston,Maidstone
+2021-06-08,312000,ME18 5NX,T,N,F,183,,Tonbridge Road,Wateringbury,Maidstone
+2021-06-04,460000,ME18 6FH,D,Y,F,The Bentletts,26,Collier Street,Yalding,Maidstone
+2021-06-03,515000,ME18 5AQ,D,N,F,Orchard Close,,The Street,Teston,Maidstone
+2021-05-28,610000,ME18 6FH,D,Y,F,The Bentletts,12,Collier Street,Yalding,Maidstone
+2021-05-28,410000,ME18 6FH,D,Y,F,The Bentletts,14,Collier Street,Yalding,Maidstone
+2021-05-28,615000,ME18 6FH,D,Y,F,The Bentletts,27,Collier Street,Yalding,Maidstone
+2021-05-28,500000,ME18 5PD,T,N,F,14,,Upper Mill,Wateringbury,Maidstone
+2021-05-27,490000,ME18 6FG,T,Y,F,26,,Hawthornden Grove,Yalding,Maidstone
+2021-05-25,425500,ME18 6FG,T,Y,F,4,,Hawthornden Grove,Yalding,Maidstone
+2021-05-25,670000,ME18 6DW,D,N,F,The Orchard,,Vicarage Road,Yalding,Maidstone
+2021-05-25,455000,ME18 6DQ,D,N,F,3,,Acott Fields,Yalding,Maidstone
+2021-05-21,470000,ME18 6JD,D,N,F,Midbrook,,Blunden Lane,Yalding,Maidstone
+2021-05-21,550000,ME18 5QD,D,N,F,161,,Butchers Lane,Mereworth,Maidstone
+2021-05-19,690000,ME18 6JY,D,N,F,6,,Oast Court,Yalding,Maidstone
+2021-05-14,637500,ME18 5NW,S,N,F,"Pelican House, 6",,Red Hill,Wateringbury,Maidstone
+2021-05-14,237000,ME18 5DW,T,N,F,10,,Bow Terrace,Wateringbury,Maidstone
+2021-05-12,165000,ME18 5BF,F,N,L,Teston House,Flat 6,Tonbridge Road,Teston,Maidstone
+2021-05-10,550000,ME18 6JD,D,N,F,Downs House,,Blunden Lane,Yalding,Maidstone
+2021-05-07,545000,ME18 6EG,T,N,F,Kings Cottages,3,Lughorse Lane,Yalding,Maidstone
+2021-05-07,480000,ME18 6AD,S,N,F,14,,Blumer Lock,Yalding,Maidstone
+2021-05-07,432500,ME18 5PX,D,N,F,23,,The Brucks,Wateringbury,Maidstone
+2021-04-30,555000,ME18 6FH,D,Y,F,The Bentletts,5,Collier Street,Yalding,Maidstone
+2021-04-30,485000,ME18 6FG,T,Y,F,10,,Hawthornden Grove,Yalding,Maidstone
+2021-04-30,160000,ME18 5BL,F,N,L,27,,Barham Mews,Teston,Maidstone
+2021-04-29,300000,ME18 6DN,T,N,F,3,,Acton Place,Yalding,Maidstone
+2021-04-29,1350000,ME18 5JY,D,N,F,Oak Cottage,,Swanton Road,West Peckham,Maidstone
+2021-04-26,962500,ME18 5HE,D,N,F,Nettlestead Green House,,Maidstone Road,Nettlestead,Maidstone
+2021-04-23,113250,ME18 6JQ,T,Y,L,19,,Blunden Lane,Yalding,Maidstone
+2021-04-23,510000,ME18 6HS,T,N,F,Bridge Cottage,,High Street,Yalding,Maidstone
+2021-04-23,457500,ME18 6DQ,S,N,F,4,,Acott Fields,Yalding,Maidstone
+2021-04-23,550000,ME18 5PD,D,N,F,2,,Upper Mill,Wateringbury,Maidstone
+2021-04-16,465000,ME18 6FH,D,Y,F,The Bentletts,11,Collier Street,Yalding,Maidstone
+2021-04-09,655000,ME18 6DW,D,N,F,Windmill House,,Vicarage Road,Yalding,Maidstone
+2021-04-08,526000,ME18 5RP,D,N,F,5,,Rivers Close,Wateringbury,Maidstone
+2021-04-08,1010000,ME18 5NX,D,N,F,220,,Tonbridge Road,Wateringbury,Maidstone
+2021-04-08,351000,ME18 5AB,T,N,F,21,,Waterside Mews,Wateringbury,Maidstone
+2021-04-08,296000,ME18 5AB,S,N,F,13,,Waterside Mews,Wateringbury,Maidstone
+2021-04-07,335000,ME18 5GA,T,N,F,Highgrove Cottages,2,Maidstone Road,Wateringbury,Maidstone
+2021-04-01,307000,ME18 5PX,S,N,F,13,,The Brucks,Wateringbury,Maidstone
+2021-03-31,725000,ME18 6FG,D,Y,F,1,,Hawthornden Grove,Yalding,Maidstone
+2021-03-30,670000,ME18 6FG,D,Y,F,5,,Hawthornden Grove,Yalding,Maidstone
+2021-03-30,487500,ME18 6FG,T,Y,F,2,,Hawthornden Grove,Yalding,Maidstone
+2021-03-29,390000,ME18 5BU,S,N,F,Lyndum,,Tonbridge Road,Teston,Maidstone
+2021-03-29,379950,ME18 5AH,D,N,F,1,,The Bungalows,Teston,Maidstone
+2021-03-26,575000,ME18 6FH,D,Y,F,The Bentletts,9,Collier Street,Yalding,Maidstone
+2021-03-26,579000,ME18 6FH,D,Y,F,The Bentletts,8,Collier Street,Yalding,Maidstone
+2021-03-26,665000,ME18 6FG,D,Y,F,3,,Hawthornden Grove,Yalding,Maidstone
+2021-03-19,730000,ME18 6BX,D,N,F,The Granary,,,Laddingford,Maidstone
+2021-03-18,799995,ME18 6DS,D,N,F,Petty Platt,,Vicarage Road,Yalding,Maidstone
+2021-03-18,2300000,ME18 5PE,D,N,F,35,,Mill Lane,Wateringbury,Maidstone
+2021-03-18,970000,ME18 5NY,S,N,F,Gransden Oast,,Tonbridge Road,Wateringbury,Maidstone
+2021-03-17,369950,ME18 5ER,T,N,F,Kings Cottages,7,Maidstone Road,Wateringbury,Maidstone
+2021-03-16,340000,ME18 5HX,S,N,F,151,,Pizien Well Road,Wateringbury,Maidstone
+2021-03-15,632500,ME18 5HE,S,N,F,2,,Bank Cottages,Nettlestead,Maidstone
+2021-03-12,577500,ME18 6BN,S,N,F,8,,Meadow View,Laddingford,Maidstone
+2021-03-11,462000,ME18 5NQ,D,N,F,2,,Fields Lane,Wateringbury,Maidstone
+2021-03-10,1080000,ME18 6EA,D,N,F,The Old Stables,,Salters Cross,Yalding,Maidstone
+2021-03-10,385000,ME18 6BF,S,Y,F,20,,The Glebe,Yalding,Maidstone
+2021-03-09,285000,ME18 6HY,T,N,F,Elveys Cottage,4,High Street,Yalding,Maidstone
+2021-03-09,660000,ME18 6AR,T,N,F,Oast House,,Mill Lane,Yalding,Maidstone
+2021-03-05,1250000,ME18 5NY,S,N,F,242A,,Tonbridge Road,Wateringbury,Maidstone
+2021-03-05,280000,ME18 5AB,T,N,F,12,,Waterside Mews,Wateringbury,Maidstone
+2021-03-04,396500,ME18 5PR,S,N,F,169,,Old Road,Wateringbury,Maidstone
+2021-03-03,432500,ME18 5DR,D,N,F,59,,Phoenix Drive,Wateringbury,Maidstone
+2021-03-02,550000,ME18 5AU,D,N,F,Heather Bank,,Malling Road,Teston,Maidstone
+2021-02-26,335000,ME18 6JE,T,N,F,16,,Downs Road,Yalding,Maidstone
+2021-02-26,950000,ME18 6FG,D,Y,F,20,,Hawthornden Grove,Yalding,Maidstone
+2021-02-26,725000,ME18 6FG,D,Y,F,12,,Hawthornden Grove,Yalding,Maidstone
+2021-02-26,500000,ME18 6BU,T,N,F,Landway,,,Laddingford,Maidstone
+2021-02-26,295000,ME18 5AB,T,N,F,20,,Waterside Mews,Wateringbury,Maidstone
+2021-02-24,598000,ME18 6DG,D,N,F,2,,St Marys Close,Laddingford,Maidstone
+2021-02-22,420000,ME18 6AD,S,Y,F,8,,Blumer Lock,Yalding,Maidstone
+2021-02-19,750000,ME18 6HG,D,N,F,Riverside Cottage,,Hampstead Lane,Yalding,Maidstone
+2021-02-19,330000,ME18 5FA,F,N,L,"Meadow View Court, 16",Flat 10,The Orpines,Wateringbury,Maidstone
+2021-02-17,535000,ME18 6FH,D,Y,F,The Bentletts,4,Collier Street,Yalding,Maidstone
+2021-02-16,442500,ME18 5AD,T,N,F,7,,Nestor Court,Teston,Maidstone
+2021-02-12,148000,ME18 6BF,T,Y,L,29,,The Glebe,Yalding,Maidstone
+2021-02-10,585000,ME18 6JP,D,N,F,Roxlea,,Kenward Road,Yalding,Maidstone
+2021-02-10,230000,ME18 5DW,T,N,F,12,,Bow Terrace,Wateringbury,Maidstone
+2021-02-08,600000,ME18 6HT,D,N,F,Tatt Cottage,,High Street,Yalding,Maidstone
+2021-02-05,130375,ME18 6JQ,T,Y,L,21,,Blunden Lane,Yalding,Maidstone
+2021-02-05,560000,ME18 5RS,D,N,F,92,,Phoenix Drive,Wateringbury,Maidstone
+2021-02-04,612500,ME18 5LY,D,N,F,7,,Church Close,Mereworth,Maidstone
+2021-02-02,880000,ME18 5JH,D,N,F,Meadow House,,Mereworth Road,West Peckham,Maidstone
+2021-01-29,246000,ME18 6JG,T,N,F,22,,Mount Avenue,Yalding,Maidstone
+2021-01-29,555000,ME18 6FG,S,Y,F,18,,Hawthornden Grove,Yalding,Maidstone
+2021-01-29,560000,ME18 6FG,S,Y,F,16,,Hawthornden Grove,Yalding,Maidstone
+2021-01-29,465000,ME18 6BF,D,Y,F,4,,The Glebe,Yalding,Maidstone
+2021-01-29,565000,ME18 6BF,D,Y,F,2,,The Glebe,Yalding,Maidstone
+2021-01-22,475000,ME18 5NY,D,N,F,244,,Tonbridge Road,Wateringbury,Maidstone
+2021-01-21,465000,ME18 5AS,S,N,F,7,,Courtlands,Teston,Maidstone
+2021-01-19,347500,ME18 6DT,T,N,F,4,,Hodges Cottages,Yalding,Maidstone
+2021-01-19,525000,ME18 6BY,S,N,F,2,,Laurel Villas,Laddingford,Maidstone
+2021-01-07,575000,ME18 6FH,D,Y,F,The Bentletts,6,Collier Street,Yalding,Maidstone
+2021-01-07,678000,ME18 5NN,D,N,F,15,,Red Hill,Wateringbury,Maidstone
+2021-01-05,492500,ME18 6JB,S,N,F,Barn House,,Yalding Hill,Yalding,Maidstone

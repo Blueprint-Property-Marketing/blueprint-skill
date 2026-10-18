@@ -1,0 +1,973 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-26,700000,CM4 9AL,D,N,F,1A,,Rye Walk,,Ingatestone
+2026-08-11,670000,CM4 9JF,D,N,F,Rosythe,,Maldon Road,Margaretting,Ingatestone
+2026-08-10,610000,CM4 0BQ,S,N,F,25,,The Paddocks,,Ingatestone
+2026-08-03,400000,CM4 9DJ,T,N,F,12,,Dakyn Drive,Stock,Ingatestone
+2026-07-07,2500000,CM4 9BG,D,N,F,Cedar House,,The Paddock,Stock,Ingatestone
+2026-06-30,1350000,CM4 0JZ,D,N,F,258,,Nine Ashes Road,Nine Ashes,Ingatestone
+2026-06-30,835000,CM4 0JZ,D,N,F,207,,Nine Ashes Road,Nine Ashes,Ingatestone
+2026-06-29,595000,CM4 9ER,D,N,F,3,,Fairfield,,Ingatestone
+2026-06-26,450000,CM4 0AL,D,N,F,96,,The Furlongs,,Ingatestone
+2026-06-19,985000,CM4 9NQ,D,N,F,1,,Thornton Place,Stock,Ingatestone
+2026-06-19,505000,CM4 0QY,S,N,F,49,,Meadow Rise,Blackmore,Ingatestone
+2026-06-15,405000,CM4 0BZ,T,N,F,9,,Bakers Lane,,Ingatestone
+2026-06-05,814000,CM4 9GJ,F,N,L,Lilystone Hall,Flat 2,Honeypot Lane,Stock,Ingatestone
+2026-06-05,500000,CM4 0AA,T,N,F,2,,Norton Road,,Ingatestone
+2026-06-01,815000,CM4 0RH,S,N,F,Millcot,1,Mill Green Road,Mill Green,Ingatestone
+2026-05-28,1075000,CM4 0PQ,S,N,F,Loyal Cottage,,Beggar Hill,Fryerning,Ingatestone
+2026-05-27,657000,CM4 0BH,D,N,F,58,,The Paddocks,,Ingatestone
+2026-05-20,1050000,CM4 0BP,D,N,F,5,,Station Lane,,Ingatestone
+2026-05-14,950000,CM4 0NW,D,N,F,Fieldway Cottage,,Blackmore Road,Fryerning,Ingatestone
+2026-05-07,825000,CM4 9TL,D,N,F,5,,Barrington Place,,Ingatestone
+2026-04-27,530000,CM4 9FB,D,N,F,1,,Austen Drive,Stock,Ingatestone
+2026-04-17,995000,CM4 9BQ,D,N,F,9,,Swan Lane,Stock,Ingatestone
+2026-04-16,540000,CM4 9JG,S,N,F,61,,Maldon Road,Margaretting,Ingatestone
+2026-04-09,830000,CM4 0FR,D,N,F,24,Oak House,Little Ridings Lane,,Ingatestone
+2026-04-07,300000,CM4 0DA,F,N,L,Millers Mews,Flat 6,Fryerning Lane,,Ingatestone
+2026-03-31,440000,CM4 9DR,T,N,F,19,,Hare Bridge Crescent,,Ingatestone
+2026-03-27,610000,CM4 9SB,S,N,F,2,,Meadowgate,Stock,Ingatestone
+2026-03-27,819500,CM4 9HF,D,N,F,34,,Whadden Chase,,Ingatestone
+2026-03-27,545000,CM4 9AQ,S,N,F,66,,Heybridge Road,,Ingatestone
+2026-03-20,925000,CM4 9LZ,D,N,F,51,,Well Lane,Stock,Ingatestone
+2026-03-20,1100000,CM4 9LN,D,N,F,114,,Mill Road,Stock,Ingatestone
+2026-03-19,631000,CM4 0BH,S,N,F,42,,The Paddocks,,Ingatestone
+2026-03-17,665000,CM4 9EG,S,N,F,36,,Pine Close,,Ingatestone
+2026-03-04,3480000,CM4 9LL,D,N,F,50,,Mill Road,Stock,Ingatestone
+2026-03-04,1950000,CM4 9BG,D,N,F,Shires,,The Paddock,Stock,Ingatestone
+2026-03-03,365000,CM4 0LX,D,N,F,Nye Timber,,,Radley Green,Ingatestone
+2026-03-02,812500,CM4 9JY,D,N,F,Stone Wold,,The Tye,Margaretting,Ingatestone
+2026-03-02,1295000,CM4 0PP,D,N,F,Maple Tree Cottage,,Mapletree Lane,Mill Green,Ingatestone
+2026-02-27,800000,CM4 0RS,D,N,F,Rose Cottage,,Ingatestone Road,Blackmore,Ingatestone
+2026-02-27,156000,CM4 0FR,F,N,L,15,,Little Ridings Lane,,Ingatestone
+2026-02-27,855000,CM4 0FP,T,N,F,11,,Crown Mews,,Ingatestone
+2026-02-20,804000,CM4 9EQ,D,N,F,47,,Docklands Avenue,,Ingatestone
+2026-02-20,960000,CM4 0JY,D,N,F,208,,Nine Ashes Road,Nine Ashes,Ingatestone
+2026-02-19,759000,CM4 0LA,D,N,F,278,,Nine Ashes Road,Nine Ashes,Ingatestone
+2026-02-17,895000,CM4 9LN,D,N,F,41,,Mill Road,Stock,Ingatestone
+2026-02-12,560000,CM4 9AT,D,N,F,2,,Poplar Close,,Ingatestone
+2026-02-11,600000,CM4 9DU,S,N,F,"The Old Surgery, 27",,High Street,,Ingatestone
+2026-02-10,650000,CM4 9FA,S,N,F,12,,Cambridge Close,Stock,Ingatestone
+2026-01-30,590000,CM4 0LD,S,N,F,Nine Ashes Farm Cottages,6,Rookery Road,Blackmore,Ingatestone
+2026-01-30,1350000,CM4 0JX,D,N,F,Ferrers,,Woolmongers Lane,,Ingatestone
+2026-01-27,1340000,CM4 9EF,D,N,F,"The Pines, 1",,Pine Drive,,Ingatestone
+2026-01-26,915000,CM4 9HJ,D,N,F,3,,Tor Bryan,,Ingatestone
+2026-01-26,570000,CM4 0BX,T,N,F,9,,Bakers Mews,,Ingatestone
+2026-01-16,445000,CM4 0BL,F,N,L,The Gatehouse,Flat 14,Station Lane,,Ingatestone
+2026-01-15,1300000,CM4 9LR,D,N,F,132,,Mill Road,Stock,Ingatestone
+2026-01-09,545000,CM4 0BY,T,N,F,11,,Market Place,,Ingatestone
+2025-12-19,1050000,CM4 0JX,D,N,F,Woolmonger,,Woolmongers Lane,,Ingatestone
+2025-12-12,362500,CM4 9JN,T,N,F,15,,Orton Close,Margaretting,Ingatestone
+2025-12-12,2350000,CM4 0NN,D,N,F,84,,Fryerning Lane,,Ingatestone
+2025-12-12,270000,CM4 0DS,F,N,L,Haslers Court,Flat 5,Fryerning Lane,,Ingatestone
+2025-12-12,650000,CM4 0AH,S,N,F,17,,The Furlongs,,Ingatestone
+2025-12-11,340000,CM4 0BN,F,N,L,Ashleigh Court,Flat 10,Station Lane,,Ingatestone
+2025-12-09,445000,CM4 9AH,S,N,F,80,,Heybridge Road,,Ingatestone
+2025-12-05,995000,CM4 0RU,D,N,F,Aurora,,Fingrith Hall Road,Blackmore,Ingatestone
+2025-12-02,650000,CM4 0SB,D,N,F,8A,,Jericho Place,Blackmore,Ingatestone
+2025-11-28,780000,CM4 0LA,D,N,F,251,,Nine Ashes Road,Nine Ashes,Ingatestone
+2025-11-28,485000,CM4 0AD,S,N,F,64,,The Meads,,Ingatestone
+2025-11-27,660000,CM4 9PW,D,N,F,5,,The Vale,Stock,Ingatestone
+2025-11-26,835000,CM4 0FP,D,N,F,14,,Crown Mews,,Ingatestone
+2025-11-25,278000,CM4 0BS,F,N,L,West Court,27,Summerfields,,Ingatestone
+2025-11-24,650000,CM4 9HQ,D,N,F,5,,The Belvoir,,Ingatestone
+2025-11-21,640000,CM4 9AH,D,N,F,117,,Heybridge Road,,Ingatestone
+2025-11-20,1572000,CM4 0DQ,D,N,F,36,,Willow Green,,Ingatestone
+2025-11-17,688750,CM4 9FS,D,Y,F,2,,Buttsbury Drive,,Ingatestone
+2025-11-14,425000,CM4 9AQ,S,N,F,34,,Heybridge Road,,Ingatestone
+2025-11-14,615000,CM4 0AT,T,N,F,63,,High Street,,Ingatestone
+2025-11-13,1050000,CM4 9JX,D,N,F,Chalks Field,,The Tye,Margaretting,Ingatestone
+2025-11-13,565000,CM4 0AQ,T,N,F,51,,Pemberton Avenue,,Ingatestone
+2025-11-10,925000,CM4 0DQ,D,N,F,16,,Willow Green,,Ingatestone
+2025-11-07,1200000,CM4 9PN,D,N,F,Dantonchase,,Stock Road,Stock,Ingatestone
+2025-11-07,987500,CM4 9FN,D,N,F,Ashridge Grange,1,Stock Road,Stock,Ingatestone
+2025-11-06,605000,CM4 0RZ,S,N,F,46,,Orchard Piece,Blackmore,Ingatestone
+2025-11-03,380000,CM4 9AL,T,N,F,10,,Rye Walk,,Ingatestone
+2025-11-03,460000,CM4 9AH,S,N,F,74,,Heybridge Road,,Ingatestone
+2025-11-03,520000,CM4 0RY,S,N,F,34,,Orchard Piece,Blackmore,Ingatestone
+2025-10-31,635000,CM4 9PW,T,N,F,10,,The Vale,Stock,Ingatestone
+2025-10-31,720000,CM4 9LN,S,N,F,120,,Mill Road,Stock,Ingatestone
+2025-10-31,372500,CM4 9AW,S,N,F,10,,Court View,,Ingatestone
+2025-10-29,3200000,CM4 9PS,D,N,F,4,,Hereward Mount,Stock,Ingatestone
+2025-10-29,440000,CM4 9AA,S,N,F,65,,Roman Road,,Ingatestone
+2025-10-29,610000,CM4 9AA,S,N,F,27,,Roman Road,,Ingatestone
+2025-10-27,700000,CM4 9BA,D,N,F,18,,High Street,Stock,Ingatestone
+2025-10-27,443500,CM4 0AG,S,N,F,5,,Pemberton Avenue,,Ingatestone
+2025-10-24,480000,CM4 9BQ,S,N,F,25,,Swan Lane,Stock,Ingatestone
+2025-10-24,1000000,CM4 0LA,D,N,F,263,,Nine Ashes Road,Nine Ashes,Ingatestone
+2025-10-24,800000,CM4 0BH,S,N,F,74,,The Paddocks,,Ingatestone
+2025-10-24,555000,CM4 0AA,D,N,F,19,,Norton Road,,Ingatestone
+2025-10-23,675000,CM4 0AH,S,N,F,2,,The Furlongs,,Ingatestone
+2025-10-21,770000,CM4 0LA,D,N,F,243,,Nine Ashes Road,Nine Ashes,Ingatestone
+2025-10-17,700000,CM4 9LN,D,N,F,126,,Mill Road,Stock,Ingatestone
+2025-10-17,2050000,CM4 9HB,D,N,F,Everglades,,Avenue Road,,Ingatestone
+2025-10-17,590000,CM4 0SD,D,N,F,Wilwyn,,Chelmsford Road,Blackmore,Ingatestone
+2025-10-16,285000,CM4 0AQ,F,N,L,44,,Pemberton Avenue,,Ingatestone
+2025-10-10,700000,CM4 9HQ,D,N,F,19,,The Belvoir,,Ingatestone
+2025-10-10,195000,CM4 0TE,F,N,L,9,,Mellor Close,,Ingatestone
+2025-10-09,1600000,CM4 9NE,D,N,F,4,,Myln Meadow,Stock,Ingatestone
+2025-10-09,2475000,CM4 0NQ,S,N,F,Trueloves House,,Trueloves Lane,,Ingatestone
+2025-10-08,1715000,CM4 0HZ,D,N,F,Woodlands,,Hardings Lane,,Ingatestone
+2025-10-03,340000,CM4 9FZ,F,Y,L,12,,Dengie Court,,Ingatestone
+2025-10-03,905000,CM4 9FR,D,Y,F,5,,Barking Close,,Ingatestone
+2025-10-03,495000,CM4 9AQ,S,N,F,69,,Heybridge Road,,Ingatestone
+2025-10-03,1295000,CM4 0NQ,D,N,F,Two Hoots,,Trueloves Lane,,Ingatestone
+2025-09-29,1150000,CM4 9LZ,D,N,F,57,,Well Lane,Stock,Ingatestone
+2025-09-26,890000,CM4 9QR,S,N,F,Cockshill Cottage,,Swan Lane,Stock,Ingatestone
+2025-09-26,215000,CM4 9LE,F,N,L,2,,Unwin Place,Stock,Ingatestone
+2025-09-26,106250,CM4 0FQ,F,N,L,Bell Mead Heights,3,Bell Mead,,Ingatestone
+2025-09-26,700000,CM4 0FP,D,N,F,16,,Crown Mews,,Ingatestone
+2025-09-25,330000,CM4 9GE,F,Y,L,14,Flat 5,Dengie Court,,Ingatestone
+2025-09-25,1065000,CM4 9DT,D,N,F,7,,Park Drive,,Ingatestone
+2025-09-22,330000,CM4 9GE,F,Y,L,14,Flat 6,Dengie Court,,Ingatestone
+2025-09-19,720000,CM4 9FZ,D,Y,F,3,,Dengie Court,,Ingatestone
+2025-09-19,1056000,CM4 0SD,D,N,F,Rowan Cottage,,Chelmsford Road,Blackmore,Ingatestone
+2025-09-18,925000,CM4 9LZ,S,N,F,45,,Well Lane,Stock,Ingatestone
+2025-09-12,770000,CM4 9LL,D,N,F,76,,Mill Road,Stock,Ingatestone
+2025-09-12,420000,CM4 9AS,S,N,F,20,,Ridgeway,,Ingatestone
+2025-09-11,630000,CM4 9BS,T,N,F,"Stock Lodge, 60",2,High Street,Stock,Ingatestone
+2025-09-08,455000,CM4 9AQ,S,N,F,64,,Heybridge Road,,Ingatestone
+2025-09-04,1125000,CM4 9NA,D,N,F,23,,Birch Lane,Stock,Ingatestone
+2025-09-04,320000,CM4 9GE,F,Y,L,14,Flat 1,Dengie Court,,Ingatestone
+2025-09-04,645000,CM4 9EQ,S,N,F,27,,Docklands Avenue,,Ingatestone
+2025-09-04,650000,CM4 9AN,T,N,F,27,,Burnt House Lane,,Ingatestone
+2025-09-02,745000,CM4 9FZ,D,Y,F,1,,Dengie Court,,Ingatestone
+2025-08-29,680000,CM4 9ER,S,N,F,2,,Fairfield,,Ingatestone
+2025-08-28,800000,CM4 9LY,D,N,F,1,,Common Road,Stock,Ingatestone
+2025-08-22,850000,CM4 9HF,D,N,F,19,,Whadden Chase,,Ingatestone
+2025-08-22,325000,CM4 9GE,F,Y,L,14,Flat 2,Dengie Court,,Ingatestone
+2025-08-22,360000,CM4 9FZ,F,Y,L,10,,Dengie Court,,Ingatestone
+2025-08-21,345000,CM4 9GE,F,Y,L,14,Flat 4,Dengie Court,,Ingatestone
+2025-08-18,1250000,CM4 9LY,D,N,F,Mill View,,Common Road,Stock,Ingatestone
+2025-08-18,1764663,CM4 9BQ,D,N,F,10,,Swan Lane,Stock,Ingatestone
+2025-08-15,800000,CM4 9HG,D,N,F,6,,The Heythrop,,Ingatestone
+2025-08-15,535000,CM4 9EP,T,N,F,6,,Stock Lane,,Ingatestone
+2025-08-15,400000,CM4 9EB,T,N,F,2,,Clifton Terrace,,Ingatestone
+2025-08-13,745000,CM4 0QY,S,N,F,50,,Meadow Rise,Blackmore,Ingatestone
+2025-08-13,650000,CM4 0JX,D,N,F,"Oakley, 2",,Woolmongers Lane,,Ingatestone
+2025-08-11,910000,CM4 9PW,D,N,F,9,,The Vale,Stock,Ingatestone
+2025-08-11,1025000,CM4 9BA,D,N,F,2,,High Street,Stock,Ingatestone
+2025-08-08,330000,CM4 9FZ,F,Y,L,16,,Dengie Court,,Ingatestone
+2025-08-08,882500,CM4 0JE,D,N,F,Leabons,,Mill Green Road,Mill Green,Ingatestone
+2025-08-08,300000,CM4 0DS,F,N,L,Haslers Court,Flat 7,Fryerning Lane,,Ingatestone
+2025-08-06,2500000,CM4 9NP,D,N,F,Hall Farm House,,Hall Lane,,Ingatestone
+2025-08-06,1450000,CM4 9LY,D,N,F,"The Beeches, 24",,Common Road,Stock,Ingatestone
+2025-08-06,1115000,CM4 0DD,D,N,F,31,,Fryerning Lane,,Ingatestone
+2025-08-06,780000,CM4 0BU,D,N,F,2,,Chapel Croft,,Ingatestone
+2025-08-05,1300000,CM4 9RD,D,N,F,Ravenstor,,Lower Stock Road,Stock,Ingatestone
+2025-08-05,795000,CM4 9DT,S,N,F,30,,Park Drive,,Ingatestone
+2025-08-01,410000,CM4 9DZ,S,N,F,26,,Stock Lane,,Ingatestone
+2025-08-01,350000,CM4 9AP,T,N,F,32,,Mountney Close,,Ingatestone
+2025-07-31,800000,CM4 9RA,D,N,F,The Cedars,,Foxborough Chase,Stock,Ingatestone
+2025-07-31,395000,CM4 9EE,T,N,F,28,,High Street,,Ingatestone
+2025-07-31,430000,CM4 9AQ,D,N,F,20,,Heybridge Road,,Ingatestone
+2025-07-31,1630000,CM4 0DD,D,N,F,"Norton House, 33",,Fryerning Lane,,Ingatestone
+2025-07-29,615000,CM4 9FF,D,N,F,8,,Brookmans View,Stock,Ingatestone
+2025-07-29,1175000,CM4 0GF,D,N,F,Embers,,Fryerning Lane,,Ingatestone
+2025-07-28,950000,CM4 9EF,S,N,F,27,,Pine Drive,,Ingatestone
+2025-07-28,1200000,CM4 0LG,D,N,F,Catons,,Rookery Road,Blackmore,Ingatestone
+2025-07-25,520000,CM4 9PW,D,N,F,16,,The Vale,Stock,Ingatestone
+2025-07-25,950000,CM4 9LN,D,N,F,112,,Mill Road,Stock,Ingatestone
+2025-07-25,945000,CM4 9LA,D,N,F,1,,Larcombe Mews,Margaretting,Ingatestone
+2025-07-25,605000,CM4 9ER,T,N,F,20,,Fairfield,,Ingatestone
+2025-07-25,540000,CM4 9DR,S,N,F,3,,Hare Bridge Crescent,,Ingatestone
+2025-07-25,420000,CM4 0AG,T,N,F,13A,,Pemberton Avenue,,Ingatestone
+2025-07-24,628000,CM4 9ER,T,N,F,23,,Fairfield,,Ingatestone
+2025-07-22,650000,CM4 9JH,S,N,F,6,,Bank End,Margaretting,Ingatestone
+2025-07-21,775000,CM4 0BY,S,N,F,Market Cottage,,Market Place,,Ingatestone
+2025-07-15,585000,CM4 0RA,S,N,F,15,,St Lawrence Gardens,Blackmore,Ingatestone
+2025-07-14,670000,CM4 0RX,S,N,F,2,,Orchard Piece,Blackmore,Ingatestone
+2025-07-11,425000,CM4 9AQ,S,N,F,49,,Heybridge Road,,Ingatestone
+2025-07-11,945000,CM4 0PZ,D,N,F,Quince Hall,3,Chelmsford Road,Blackmore,Ingatestone
+2025-07-11,500000,CM4 0FQ,F,N,L,Bell Mead Heights,11,Bell Mead,,Ingatestone
+2025-07-11,285000,CM4 0BN,F,N,L,Ashleigh Court,Flat 19,Station Lane,,Ingatestone
+2025-07-08,685000,CM4 9LZ,D,N,F,44,,Well Lane,Stock,Ingatestone
+2025-07-08,638000,CM4 9LF,D,N,F,1,,Webster Place,Stock,Ingatestone
+2025-07-08,475000,CM4 0SF,S,N,F,4,,Chelmsford Road,Blackmore,Ingatestone
+2025-07-02,850000,CM4 0DQ,D,N,F,20,,Willow Green,,Ingatestone
+2025-06-30,365000,CM4 9AH,S,N,F,82,,Heybridge Road,,Ingatestone
+2025-06-27,357000,CM4 9FT,F,Y,L,1,Flat 7,Edward Court,,Ingatestone
+2025-06-27,727395,CM4 9FQ,D,Y,F,6,,Canon Hudson Gardens,,Ingatestone
+2025-06-19,475000,CM4 0FQ,F,N,L,Bell Mead Heights,7,Bell Mead,,Ingatestone
+2025-06-18,1750000,CM4 9PD,D,N,F,Chestnut House,,Ingatestone Road,Stock,Ingatestone
+2025-06-16,1150000,CM4 9NF,D,N,F,Maple Cottage,,Common Road,Stock,Ingatestone
+2025-06-11,810000,CM4 9FX,D,Y,F,2,,Durham Crescent,,Ingatestone
+2025-06-11,725000,CM4 9AZ,D,N,F,1,,Catcher Court,,Ingatestone
+2025-06-10,584250,CM4 9FX,T,Y,F,5,,Durham Crescent,,Ingatestone
+2025-06-04,1200000,CM4 0FU,D,Y,F,2,,Fitzroy Close,Blackmore,Ingatestone
+2025-05-30,705000,CM4 0BQ,D,N,F,8,,The Paddocks,,Ingatestone
+2025-05-29,665000,CM4 0QU,D,N,F,Burma Bungalow,,Blacksmiths Alley,Blackmore,Ingatestone
+2025-05-19,735000,CM4 9HJ,D,N,F,19,,Tor Bryan,,Ingatestone
+2025-05-16,575000,CM4 9JG,S,N,F,1B,,Maldon Road,Margaretting,Ingatestone
+2025-05-12,2025000,CM4 0BL,D,N,F,Chantry House,,Station Lane,,Ingatestone
+2025-05-07,475000,CM4 9RA,D,N,F,Hillside,,Foxborough Chase,Stock,Ingatestone
+2025-05-07,725000,CM4 0FU,D,Y,F,16,,Fitzroy Close,Blackmore,Ingatestone
+2025-05-02,1120000,CM4 0DQ,D,N,F,40,,Willow Green,,Ingatestone
+2025-04-30,900000,CM4 9FQ,D,Y,F,5,,Canon Hudson Gardens,,Ingatestone
+2025-04-14,247500,CM4 0DS,F,N,L,Haslers Court,Flat 30,Fryerning Lane,,Ingatestone
+2025-04-14,290000,CM4 0DA,F,N,L,Millers Mews,Flat 11,Fryerning Lane,,Ingatestone
+2025-04-09,695000,CM4 9ER,D,N,F,32,,Fairfield,,Ingatestone
+2025-03-31,410000,CM4 9TB,T,N,F,70,,Dakyn Drive,Stock,Ingatestone
+2025-03-31,1350000,CM4 9QL,D,N,F,Fairacres,,Stock Lane,,Ingatestone
+2025-03-31,415000,CM4 9AJ,T,N,F,118,,Heybridge Road,,Ingatestone
+2025-03-31,1080000,CM4 0HR,D,N,F,Rye Cottage,,Back Lane,Fryerning,Ingatestone
+2025-03-28,625000,CM4 9LJ,D,N,F,20B,,Mill Road,Stock,Ingatestone
+2025-03-28,780000,CM4 9HE,D,N,F,11,,The Quorn,,Ingatestone
+2025-03-28,293995,CM4 9FT,F,Y,L,1,Flat 6,Edward Court,,Ingatestone
+2025-03-28,345000,CM4 9FT,F,Y,L,1,Flat 2,Edward Court,,Ingatestone
+2025-03-28,352000,CM4 9FT,F,Y,L,1,Flat 5,Edward Court,,Ingatestone
+2025-03-28,357000,CM4 9FT,F,Y,L,1,Flat 8,Edward Court,,Ingatestone
+2025-03-28,760000,CM4 9FR,D,Y,F,6,,Barking Close,,Ingatestone
+2025-03-28,804000,CM4 9FQ,D,Y,F,8,,Canon Hudson Gardens,,Ingatestone
+2025-03-28,585000,CM4 0RZ,S,N,F,62,,Orchard Piece,Blackmore,Ingatestone
+2025-03-28,480000,CM4 0QN,S,N,F,10,,Woollard Way,Blackmore,Ingatestone
+2025-03-28,870000,CM4 0PN,S,N,F,Acorns,,Beggar Hill,Fryerning,Ingatestone
+2025-03-28,1250000,CM4 0DQ,D,N,F,37,,Willow Green,,Ingatestone
+2025-03-28,560000,CM4 0AE,D,N,F,58A,,The Meads,,Ingatestone
+2025-03-27,450000,CM4 9LH,S,N,F,18,,The Square,Stock,Ingatestone
+2025-03-27,840000,CM4 9AX,D,N,F,7,,Tudor Close,,Ingatestone
+2025-03-27,975000,CM4 0PZ,D,N,F,Quince Hall,5,Chelmsford Road,Blackmore,Ingatestone
+2025-03-26,700000,CM4 9HF,D,N,F,27,,Whadden Chase,,Ingatestone
+2025-03-26,810000,CM4 0QW,D,N,F,Hall Cottage,,Nine Ashes Road,Blackmore,Ingatestone
+2025-03-26,1450000,CM4 0NN,D,N,F,68,,Fryerning Lane,,Ingatestone
+2025-03-25,615000,CM4 9FQ,S,Y,F,10,,Canon Hudson Gardens,,Ingatestone
+2025-03-25,825000,CM4 9DS,D,N,F,3,,Docklands Avenue,,Ingatestone
+2025-03-24,525000,CM4 0BZ,T,N,F,1,,Bakers Lane,,Ingatestone
+2025-03-21,830000,CM4 9NA,D,N,F,27,,Birch Lane,Stock,Ingatestone
+2025-03-21,990000,CM4 9LT,D,N,F,17,,Well Lane,Stock,Ingatestone
+2025-03-20,875000,CM4 9RJ,D,N,F,The Old Pump House,,Downham Road,Stock,Ingatestone
+2025-03-20,620000,CM4 9PW,D,N,F,12,,The Vale,Stock,Ingatestone
+2025-03-20,825000,CM4 9HL,D,N,F,53,,Tor Bryan,,Ingatestone
+2025-03-20,1075000,CM4 9HJ,D,N,F,6,,Tor Bryan,,Ingatestone
+2025-03-20,650000,CM4 0BH,S,N,F,45,,The Paddocks,,Ingatestone
+2025-03-17,850000,CM4 9LY,D,N,F,8,,Common Road,Stock,Ingatestone
+2025-03-14,620000,CM4 9PW,T,N,F,7,,The Vale,Stock,Ingatestone
+2025-03-14,820000,CM4 0LA,D,N,F,280,,Nine Ashes Road,Nine Ashes,Ingatestone
+2025-03-14,550000,CM4 0JT,S,N,F,West Bank,,Blackmore Road,Blackmore,Ingatestone
+2025-03-12,2000000,CM4 0JB,D,N,F,White House Farm Barns,Fairview,Mill Green Road,Mill Green,Ingatestone
+2025-03-11,465000,CM4 9DZ,S,N,F,69,,Stock Lane,,Ingatestone
+2025-03-07,525000,CM4 0JD,T,N,F,Woodside Cottages,21,Mapletree Lane,Mill Green,Ingatestone
+2025-03-07,875000,CM4 0DH,D,N,F,68,,Willow Green,,Ingatestone
+2025-02-28,555000,CM4 9PW,T,N,F,24,,The Vale,Stock,Ingatestone
+2025-02-28,710000,CM4 9HU,D,N,F,Bank House,,Main Road,Margaretting,Ingatestone
+2025-02-28,535000,CM4 0RZ,S,N,F,66,,Orchard Piece,Blackmore,Ingatestone
+2025-02-28,1190000,CM4 0PQ,D,N,F,Honeysuckle Cottage,,Beggar Hill,Fryerning,Ingatestone
+2025-02-28,625000,CM4 0BH,S,N,F,55,,The Paddocks,,Ingatestone
+2025-02-27,1400000,CM4 9HE,D,N,F,9,,The Quorn,,Ingatestone
+2025-02-27,580000,CM4 0RX,S,N,F,8,,Orchard Piece,Blackmore,Ingatestone
+2025-02-27,900000,CM4 0RT,D,N,F,Waterfront,,The Green,Blackmore,Ingatestone
+2025-02-24,505000,CM4 9JW,S,N,F,Nigretia,,Maldon Road,Margaretting,Ingatestone
+2025-02-24,402500,CM4 9JE,T,N,F,2,,The Square,Margaretting,Ingatestone
+2025-02-21,450000,CM4 9FB,T,N,F,3,,Austen Drive,Stock,Ingatestone
+2025-02-14,1250000,CM4 9HB,S,N,F,72,,Avenue Road,,Ingatestone
+2025-02-14,762500,CM4 9DS,D,N,F,1,,Docklands Avenue,,Ingatestone
+2025-02-14,670000,CM4 0BH,S,N,F,44,,The Paddocks,,Ingatestone
+2025-02-11,1195000,CM4 9HF,D,N,F,33,,Whadden Chase,,Ingatestone
+2025-02-07,1477500,CM4 9LY,D,N,F,"Lushill, 26",,Common Road,Stock,Ingatestone
+2025-02-07,505000,CM4 0RX,T,N,F,11,,Orchard Piece,Blackmore,Ingatestone
+2025-01-30,690000,CM4 9LZ,D,N,F,40,,Well Lane,Stock,Ingatestone
+2025-01-30,960000,CM4 9HF,D,N,F,12,,Whadden Chase,,Ingatestone
+2025-01-28,1700000,CM4 9PD,D,N,F,Fairmead,,Ingatestone Road,Stock,Ingatestone
+2025-01-28,1175000,CM4 9HN,D,N,F,67,,Tor Bryan,,Ingatestone
+2025-01-23,1275000,CM4 9LY,D,N,F,Heather Bank,,Common Road,Stock,Ingatestone
+2025-01-23,490000,CM4 9JG,S,N,F,51,,Maldon Road,Margaretting,Ingatestone
+2025-01-20,1270000,CM4 9BA,D,N,F,30,New Harvard House,High Street,Stock,Ingatestone
+2025-01-20,475000,CM4 0AJ,S,N,F,72,,The Furlongs,,Ingatestone
+2025-01-17,825000,CM4 9EG,S,N,F,30,,Pine Close,,Ingatestone
+2025-01-10,430000,CM4 9JR,D,N,F,Tandridge,,Maldon Road,Margaretting,Ingatestone
+2025-01-10,420000,CM4 9DJ,S,N,F,16,,Dakyn Drive,Stock,Ingatestone
+2025-01-08,900000,CM4 9RE,D,N,F,Lavender Cottage,,Leather Bottle Hill,Stock,Ingatestone
+2025-01-08,1075000,CM4 9NA,D,N,F,53,,Birch Lane,Stock,Ingatestone
+2025-01-07,860000,CM4 9NE,D,N,F,19,,Myln Meadow,Stock,Ingatestone
+2024-12-20,800000,CM4 9FQ,D,Y,F,4,,Canon Hudson Gardens,,Ingatestone
+2024-12-20,585000,CM4 9FQ,S,Y,F,16,,Canon Hudson Gardens,,Ingatestone
+2024-12-19,285000,CM4 0BD,F,N,L,North Court,21,Summerfields,,Ingatestone
+2024-12-18,1080000,CM4 9LP,D,N,F,21,,Common Lane,Stock,Ingatestone
+2024-12-18,675000,CM4 9DT,D,N,F,33,,Park Drive,,Ingatestone
+2024-12-17,700000,CM4 9QZ,D,N,F,3,,Chase Farm Place,Stock,Ingatestone
+2024-12-16,930000,CM4 9RA,D,N,F,"Willow Cottage, 7",,Foxborough Chase,Stock,Ingatestone
+2024-12-16,635000,CM4 9DF,S,N,F,17,,Back Lane,Stock,Ingatestone
+2024-12-16,430000,CM4 9AS,S,N,F,25,,Ridgeway,,Ingatestone
+2024-12-16,720000,CM4 0NQ,T,N,F,The Stables,1,Trueloves Lane,,Ingatestone
+2024-12-13,625000,CM4 9FQ,S,Y,F,14,,Canon Hudson Gardens,,Ingatestone
+2024-12-13,750000,CM4 0JY,D,N,F,170,,Nine Ashes Road,Nine Ashes,Ingatestone
+2024-12-06,630000,CM4 9FQ,S,Y,F,12,,Canon Hudson Gardens,,Ingatestone
+2024-12-06,380000,CM4 9AW,S,N,F,12,,Court View,,Ingatestone
+2024-12-06,572000,CM4 0DE,S,N,F,55,,Fryerning Lane,,Ingatestone
+2024-12-05,815000,CM4 9HH,D,N,F,36,,Wakelin Chase,,Ingatestone
+2024-12-02,950400,CM4 9NZ,S,N,F,Little Farm Cottages,1,Buttsbury,,Ingatestone
+2024-12-02,835000,CM4 9HG,D,N,F,16,,The Heythrop,,Ingatestone
+2024-12-02,692000,CM4 0FL,S,N,F,The Rookeries,5,Rookery Road,Nine Ashes,Ingatestone
+2024-11-29,1027000,CM4 9NH,D,N,F,11,,The Lindens,Stock,Ingatestone
+2024-11-29,715000,CM4 0AB,T,N,F,51,,Norton Road,,Ingatestone
+2024-11-25,730000,CM4 9PQ,D,N,F,Emmilie,,Stock Road,Stock,Ingatestone
+2024-11-25,845000,CM4 9AA,S,N,F,15,,Roman Road,,Ingatestone
+2024-11-22,1140000,CM4 9PN,D,N,F,Appledore,,Stock Road,Stock,Ingatestone
+2024-11-22,383000,CM4 9AW,S,N,F,6,,Court View,,Ingatestone
+2024-11-22,1275000,CM4 0DA,D,N,F,8,,Fryerning Lane,,Ingatestone
+2024-11-19,725000,CM4 9BQ,D,N,F,6,,Swan Lane,Stock,Ingatestone
+2024-11-15,765000,CM4 0JX,D,N,F,Charmaine,,Woolmongers Lane,,Ingatestone
+2024-11-15,940000,CM4 0DB,D,N,F,2,,Rectory Close,,Ingatestone
+2024-11-15,744000,CM4 0BH,D,N,F,59,,The Paddocks,,Ingatestone
+2024-11-14,750000,CM4 9EQ,D,N,F,35,,Docklands Avenue,,Ingatestone
+2024-11-08,900000,CM4 9AL,D,N,F,3,,Rye Walk,,Ingatestone
+2024-11-08,592500,CM4 0RY,S,N,F,40,,Orchard Piece,Blackmore,Ingatestone
+2024-11-07,850000,CM4 9LA,S,N,F,2,,Larcombe Mews,Margaretting,Ingatestone
+2024-11-07,1325000,CM4 0PZ,D,N,F,Quince Hall,4,Chelmsford Road,Blackmore,Ingatestone
+2024-11-07,285000,CM4 0BE,F,N,L,47,,The Limes,,Ingatestone
+2024-10-31,475000,CM4 0BX,T,N,F,1,,Bakers Mews,,Ingatestone
+2024-10-31,247000,CM4 0AP,F,N,L,4,,Cherry Trees,,Ingatestone
+2024-10-30,910000,CM4 9BP,S,N,F,2,,Rectory Close,Stock,Ingatestone
+2024-10-29,485000,CM4 9AA,S,N,F,63,,Roman Road,,Ingatestone
+2024-10-25,620000,CM4 9JF,D,N,F,Clovelly,,Maldon Road,Margaretting,Ingatestone
+2024-10-25,575000,CM4 9ER,D,N,F,1,,Fairfield,,Ingatestone
+2024-10-25,450000,CM4 9BS,D,N,F,3,,Church Green,Stock,Ingatestone
+2024-10-25,655000,CM4 9AF,S,N,F,9,,The Leas,,Ingatestone
+2024-10-25,1450000,CM4 0HZ,D,Y,F,Hardings Farm,,Hardings Lane,,Ingatestone
+2024-10-25,265000,CM4 0DW,T,N,F,6,,Trimble Close,,Ingatestone
+2024-10-25,925000,CM4 0DH,D,N,F,47,,Willow Green,,Ingatestone
+2024-10-23,1250000,CM4 9PH,D,N,F,Kings Villa,,Stock Road,Stock,Ingatestone
+2024-10-22,580000,CM4 9PW,D,N,F,31,,The Vale,Stock,Ingatestone
+2024-10-18,775000,CM4 9FQ,D,Y,F,2,,Canon Hudson Gardens,,Ingatestone
+2024-10-18,1300000,CM4 0HS,D,N,F,Crooked Arches,,Mill Green Road,Fryerning,Ingatestone
+2024-10-18,752500,CM4 0FW,D,Y,F,9,,Ash Tree Grove,Nine Ashes,Ingatestone
+2024-10-18,705000,CM4 0AB,T,N,F,50,,Norton Road,,Ingatestone
+2024-10-18,547500,CM4 0AA,T,N,F,3,,Norton Road,,Ingatestone
+2024-10-11,856000,CM4 9LA,D,N,F,3,,Larcombe Mews,Margaretting,Ingatestone
+2024-10-10,3275000,CM4 9DQ,D,N,F,2,,High Trees,Stock,Ingatestone
+2024-10-10,900000,CM4 0QJ,D,N,F,Ashlee,,Poplar Close,Blackmore,Ingatestone
+2024-10-10,4500000,CM4 0JA,D,Y,F,7,,The Lakes,,Ingatestone
+2024-10-07,840000,CM4 9HH,D,N,F,12,,Wakelin Chase,,Ingatestone
+2024-10-07,450000,CM4 0JD,T,N,F,Woodside Cottages,25,Mapletree Lane,Mill Green,Ingatestone
+2024-09-30,685000,CM4 0PZ,D,N,F,Quince Hall,2,Chelmsford Road,Blackmore,Ingatestone
+2024-09-30,1350000,CM4 0HH,D,N,F,Clouds,,New Road,,Ingatestone
+2024-09-24,495000,CM4 9PW,T,N,F,26,,The Vale,Stock,Ingatestone
+2024-09-24,750000,CM4 0FP,T,N,F,9,,Crown Mews,,Ingatestone
+2024-09-20,620000,CM4 9SB,S,N,F,5,,Meadowgate,Stock,Ingatestone
+2024-09-20,900000,CM4 9LN,D,N,F,114,,Mill Road,Stock,Ingatestone
+2024-09-20,770000,CM4 9FQ,D,Y,F,1,,Canon Hudson Gardens,,Ingatestone
+2024-09-18,425000,CM4 9GJ,F,N,L,Lilystone Hall,Flat 14,Honeypot Lane,Stock,Ingatestone
+2024-09-18,2600000,CM4 0JA,D,Y,F,5,,The Lakes,,Ingatestone
+2024-09-18,3825000,CM4 0BL,D,N,F,Fairwinds,,Station Lane,,Ingatestone
+2024-09-18,3825000,CM4 0BL,D,N,F,Fairwinds,,Station Lane,,Ingatestone
+2024-09-16,351000,CM4 9LE,F,N,L,9,,Unwin Place,Stock,Ingatestone
+2024-09-16,1200000,CM4 9EE,D,N,F,8,,High Street,,Ingatestone
+2024-09-16,800000,CM4 9DT,S,N,F,20,,Park Drive,,Ingatestone
+2024-09-16,1550000,CM4 0HA,D,N,F,Tye Fields,,Pennys Lane,Margaretting,Ingatestone
+2024-09-13,1020000,CM4 9LA,D,N,F,5,,Larcombe Mews,Margaretting,Ingatestone
+2024-09-13,591000,CM4 9HZ,T,N,F,Rosemount Cottage,,Main Road,Margaretting,Ingatestone
+2024-09-13,367500,CM4 9AG,S,N,F,35,,Heybridge Road,,Ingatestone
+2024-09-13,400000,CM4 9AG,D,N,F,17,,Heybridge Road,,Ingatestone
+2024-09-12,1370000,CM4 0JZ,D,N,F,236,,Nine Ashes Road,Nine Ashes,Ingatestone
+2024-09-12,1070000,CM4 0FR,D,N,F,17,,Little Ridings Lane,,Ingatestone
+2024-09-12,780000,CM4 0FP,D,N,F,15,,Crown Mews,,Ingatestone
+2024-09-09,800000,CM4 9HF,D,N,F,28,,Whadden Chase,,Ingatestone
+2024-09-09,625000,CM4 9AR,S,N,F,8,,Marks Close,,Ingatestone
+2024-09-09,710000,CM4 0RT,D,N,F,Prince Albert Cottage,,The Green,Blackmore,Ingatestone
+2024-09-06,1050000,CM4 9FN,D,N,F,Ashridge Grange,4,Stock Road,Stock,Ingatestone
+2024-09-06,385000,CM4 9EB,T,N,F,6,,Clifton Terrace,,Ingatestone
+2024-09-06,753182,CM4 9DS,D,N,F,6,,Docklands Avenue,,Ingatestone
+2024-09-06,555000,CM4 9AG,S,N,F,12,,Heybridge Road,,Ingatestone
+2024-09-06,260000,CM4 0DS,F,N,L,Haslers Court,Flat 17,Fryerning Lane,,Ingatestone
+2024-09-04,305000,CM4 9DR,F,N,L,8,,Hare Bridge Crescent,,Ingatestone
+2024-08-30,1575000,CM4 9BG,D,N,F,4,,The Paddock,Stock,Ingatestone
+2024-08-28,875000,CM4 9HG,D,N,F,14,,The Heythrop,,Ingatestone
+2024-08-23,755000,CM4 9DE,S,N,F,27,,Back Lane,Stock,Ingatestone
+2024-08-23,445000,CM4 0HR,F,N,L,Huskards,Flat 6,Back Lane,Fryerning,Ingatestone
+2024-08-23,625000,CM4 0FQ,F,N,L,Bell Mead Heights,12,Bell Mead,,Ingatestone
+2024-08-23,540000,CM4 0BH,S,N,F,46,,The Paddocks,,Ingatestone
+2024-08-22,620000,CM4 0AH,S,N,F,11,,The Furlongs,,Ingatestone
+2024-08-19,1200000,CM4 0QP,D,N,F,24,,Meadow Rise,Blackmore,Ingatestone
+2024-08-16,359000,CM4 9AW,S,N,F,14,,Court View,,Ingatestone
+2024-08-16,560000,CM4 0DD,T,N,F,21,,Fryerning Lane,,Ingatestone
+2024-08-15,685000,CM4 9PW,D,N,F,36,,The Vale,Stock,Ingatestone
+2024-08-15,680000,CM4 0SB,D,N,F,8A,,Jericho Place,Blackmore,Ingatestone
+2024-08-14,350000,CM4 0DW,S,N,F,11,,Trimble Close,,Ingatestone
+2024-08-12,720000,CM4 9DT,D,N,F,38,,Park Drive,,Ingatestone
+2024-08-05,835000,CM4 9NE,D,N,F,18,,Myln Meadow,Stock,Ingatestone
+2024-08-02,1325000,CM4 9PD,D,N,F,The Barn,,Ingatestone Road,Stock,Ingatestone
+2024-08-02,790000,CM4 9FR,D,Y,F,4,,Barking Close,,Ingatestone
+2024-07-31,680000,CM4 9EP,D,N,F,12,,Stock Lane,,Ingatestone
+2024-07-29,1150000,CM4 0LA,D,N,F,255,,Nine Ashes Road,Nine Ashes,Ingatestone
+2024-07-26,385000,CM4 9AQ,S,N,F,77,,Heybridge Road,,Ingatestone
+2024-07-25,850000,CM4 9HG,D,N,F,11,,The Heythrop,,Ingatestone
+2024-07-23,680000,CM4 9AZ,D,N,F,2,,Catcher Court,,Ingatestone
+2024-07-19,395000,CM4 0LL,T,N,F,2,,Garwood Cottages,Norton Heath,Ingatestone
+2024-07-19,625000,CM4 0AL,S,N,F,89,,The Furlongs,,Ingatestone
+2024-07-18,975000,CM4 0DQ,D,N,F,23,,Willow Green,,Ingatestone
+2024-07-17,1700000,CM4 9PD,D,N,F,Hawthorn House,,Ingatestone Road,Stock,Ingatestone
+2024-07-17,815000,CM4 9DD,S,N,F,52,,Back Lane,Stock,Ingatestone
+2024-07-16,775000,CM4 9JF,D,N,F,Belvedere,,Maldon Road,Margaretting,Ingatestone
+2024-07-16,1200000,CM4 0DX,D,N,F,Parklands,,High Street,,Ingatestone
+2024-07-12,515000,CM4 0RU,S,N,F,Little Oaks,,Fingrith Hall Road,Blackmore,Ingatestone
+2024-07-11,790000,CM4 0BQ,D,N,F,20,,The Paddocks,,Ingatestone
+2024-07-09,917000,CM4 9DG,D,N,F,18,,Back Lane,Stock,Ingatestone
+2024-07-05,570000,CM4 0BU,S,N,F,8,,Chapel Croft,,Ingatestone
+2024-07-02,1650000,CM4 9PD,D,N,F,Beech House,,Ingatestone Road,Stock,Ingatestone
+2024-07-02,1650000,CM4 0EZ,D,N,F,The Coach House,,Killigrews,Margaretting,Ingatestone
+2024-07-01,762000,CM4 9HB,D,N,F,68,,Avenue Road,,Ingatestone
+2024-07-01,2225000,CM4 0PE,D,N,F,Grange House,,Beggar Hill,Fryerning,Ingatestone
+2024-07-01,935000,CM4 0FP,S,N,L,6,,Crown Mews,,Ingatestone
+2024-06-28,380000,CM4 9LU,T,N,F,24,,Well Lane,Stock,Ingatestone
+2024-06-28,665000,CM4 9LN,D,N,F,84,,Mill Road,Stock,Ingatestone
+2024-06-28,754500,CM4 9EF,S,N,F,33,,Pine Drive,,Ingatestone
+2024-06-27,800000,CM4 9HE,D,N,F,5,,The Quorn,,Ingatestone
+2024-06-27,740000,CM4 0LQ,S,N,L,Spurriers Farm Barns,1,,Norton Heath,Ingatestone
+2024-06-26,600000,CM4 9FQ,S,Y,F,9,,Canon Hudson Gardens,,Ingatestone
+2024-06-21,1000000,CM4 0LQ,D,N,F,The Maltings,,,Norton Heath,Ingatestone
+2024-06-21,1200000,CM4 0HA,D,N,F,Coppers,,Pennys Lane,Margaretting,Ingatestone
+2024-06-21,385000,CM4 0AD,T,N,F,23,,The Meads,,Ingatestone
+2024-06-17,275000,CM4 0BE,F,N,L,29,,The Limes,,Ingatestone
+2024-06-12,215000,CM4 0BE,F,N,L,23,,The Limes,,Ingatestone
+2024-06-06,1350000,CM4 9RY,D,N,F,15,,Mill Lane,Stock,Ingatestone
+2024-06-06,850000,CM4 9BW,T,N,F,40,,High Street,Stock,Ingatestone
+2024-05-31,900000,CM4 9JY,S,N,F,Brook View Cottages,2,The Tye,Margaretting,Ingatestone
+2024-05-31,975000,CM4 9FS,D,Y,F,1,,Buttsbury Drive,,Ingatestone
+2024-05-30,2195000,CM4 9HU,F,N,F,Eweland Hall,,Main Road,Margaretting,Ingatestone
+2024-05-30,1200000,CM4 9EX,D,N,F,Bramleys,,Roman Road,,Ingatestone
+2024-05-29,465000,CM4 0JZ,S,N,F,227,,Nine Ashes Road,Nine Ashes,Ingatestone
+2024-05-29,590000,CM4 0AJ,D,N,F,59,,The Furlongs,,Ingatestone
+2024-05-24,795000,CM4 9EG,S,N,F,10,,Pine Close,,Ingatestone
+2024-05-24,545000,CM4 0BY,T,N,F,11,,Market Place,,Ingatestone
+2024-05-24,430000,CM4 0BB,F,N,L,South Court,6,Summerfields,,Ingatestone
+2024-05-23,1550000,CM4 9PD,D,N,F,Birch House,,Ingatestone Road,Stock,Ingatestone
+2024-05-23,2400000,CM4 0JA,D,Y,F,3,,The Lakes,,Ingatestone
+2024-05-17,540000,CM4 9JT,S,N,F,Spring Cottage,,Maldon Road,Margaretting,Ingatestone
+2024-05-17,600000,CM4 9FQ,S,Y,F,7,,Canon Hudson Gardens,,Ingatestone
+2024-05-17,190000,CM4 0TQ,F,N,L,22,,Pemberton Court,,Ingatestone
+2024-05-16,1145000,CM4 9LP,D,N,F,3,,Common Lane,Stock,Ingatestone
+2024-05-16,995000,CM4 9FR,D,Y,F,2,,Barking Close,,Ingatestone
+2024-05-10,715000,CM4 0BH,D,N,F,37,,The Paddocks,,Ingatestone
+2024-04-30,660000,CM4 9EY,D,N,F,The Manse,,High Street,,Ingatestone
+2024-04-30,1930000,CM4 0JA,D,Y,F,2,,The Lakes,,Ingatestone
+2024-04-26,860000,CM4 9LN,S,N,F,110A,,Mill Road,Stock,Ingatestone
+2024-04-25,355000,CM4 9AP,S,N,F,48,,Mountney Close,,Ingatestone
+2024-04-23,551878,CM4 9DS,S,N,F,16,,Docklands Avenue,,Ingatestone
+2024-04-23,775000,CM4 9BQ,D,N,F,4,,Swan Lane,Stock,Ingatestone
+2024-04-16,465000,CM4 0EP,T,N,F,Wantfield Cottages,6,Wantz Road,Margaretting,Ingatestone
+2024-04-12,1500000,CM4 0JA,D,Y,F,1,,The Lakes,,Ingatestone
+2024-04-12,525000,CM4 0AG,S,N,F,9,,Pemberton Avenue,,Ingatestone
+2024-04-11,695000,CM4 9AX,D,N,F,1,,Tudor Close,,Ingatestone
+2024-04-11,567000,CM4 9AG,S,N,F,4,,Heybridge Road,,Ingatestone
+2024-04-05,560000,CM4 9JZ,T,N,F,32,,Tor Bryan,,Ingatestone
+2024-04-05,1100000,CM4 0PG,D,N,F,Lavender Cottage,,Beggar Hill,Fryerning,Ingatestone
+2024-03-28,670000,CM4 0HH,D,N,F,Lyndhurst,,New Road,,Ingatestone
+2024-03-28,260000,CM4 0AQ,F,N,L,52,,Pemberton Avenue,,Ingatestone
+2024-03-28,530000,CM4 0AF,S,N,F,22,,Meads Close,,Ingatestone
+2024-03-22,350000,CM4 9AP,S,N,F,17,,Mountney Close,,Ingatestone
+2024-03-11,1150000,CM4 9FN,D,N,F,Ashridge Grange,5,Stock Road,Stock,Ingatestone
+2024-03-11,740000,CM4 9AL,D,N,F,11,,Rye Walk,,Ingatestone
+2024-03-08,750000,CM4 0SD,D,N,F,Wellington,,Chelmsford Road,Blackmore,Ingatestone
+2024-03-01,535000,CM4 0GH,F,N,L,Stonegate,5,The Limes,,Ingatestone
+2024-02-28,595000,CM4 0EG,S,N,F,Brookside Cottages,4,Main Road,Margaretting,Ingatestone
+2024-02-26,537500,CM4 0LL,T,N,F,3,,Garwood Cottages,Norton Heath,Ingatestone
+2024-02-23,769995,CM4 9FR,D,Y,F,8,,Barking Close,,Ingatestone
+2024-02-19,825000,CM4 9NE,D,N,F,2A,,Myln Meadow,Stock,Ingatestone
+2024-02-16,415000,CM4 9AJ,T,N,F,116,,Heybridge Road,,Ingatestone
+2024-02-16,490000,CM4 0BA,S,N,F,104,,High Street,,Ingatestone
+2024-02-12,800000,CM4 9FR,D,Y,F,1,,Barking Close,,Ingatestone
+2024-02-09,1100000,CM4 0SY,D,N,F,3,,Gatehouse Mews,,Ingatestone
+2024-02-09,425000,CM4 0BL,F,N,L,The Gatehouse,Flat 6,Station Lane,,Ingatestone
+2024-02-02,3275000,CM4 0NU,D,N,F,West Leys,,Green Street,,Ingatestone
+2024-02-02,2100000,CM4 0NQ,D,N,F,Trueloves Grange,6,Trueloves Lane,,Ingatestone
+2024-02-01,165000,CM4 9LE,F,N,L,8,,Unwin Place,Stock,Ingatestone
+2024-01-31,432500,CM4 9AS,S,N,F,15,,Ridgeway,,Ingatestone
+2024-01-31,340000,CM4 9AP,S,N,F,60,,Mountney Close,,Ingatestone
+2024-01-31,465000,CM4 0TE,F,N,F,13,,Mellor Close,,Ingatestone
+2024-01-31,357000,CM4 0BN,F,N,L,Ashleigh Court,Flat 9,Station Lane,,Ingatestone
+2024-01-31,568000,CM4 0AJ,T,N,F,51,,The Furlongs,,Ingatestone
+2024-01-26,415000,CM4 0RX,T,N,F,16,,Orchard Piece,Blackmore,Ingatestone
+2024-01-25,975000,CM4 9FY,D,Y,F,10,,Pleshey Close,,Ingatestone
+2024-01-24,988193,CM4 9FN,D,N,F,Ashridge Grange,2,Stock Road,Stock,Ingatestone
+2024-01-22,1000000,CM4 9RY,D,N,F,9,,Mill Lane,Stock,Ingatestone
+2024-01-17,325000,CM4 0BS,F,N,L,West Court,25,Summerfields,,Ingatestone
+2024-01-12,1950000,CM4 0HN,D,N,F,Grove Cottage,,Little Hyde Lane,,Ingatestone
+2024-01-09,337000,CM4 0SB,S,N,F,14,,Jericho Place,Blackmore,Ingatestone
+2024-01-08,420000,CM4 9AQ,S,N,F,79,,Heybridge Road,,Ingatestone
+2024-01-05,565000,CM4 9EJ,S,N,F,1,,Stock Lane,,Ingatestone
+2023-12-21,355000,CM4 9JN,T,N,F,42,,Orton Close,Margaretting,Ingatestone
+2023-12-20,985000,CM4 9FR,D,Y,F,3,,Barking Close,,Ingatestone
+2023-12-19,225000,CM4 0DW,T,N,F,6,,Trimble Close,,Ingatestone
+2023-12-13,1825000,CM4 9QZ,D,N,F,Highview,,Stock Road,Stock,Ingatestone
+2023-12-08,1320000,CM4 0JY,D,N,F,185,,Nine Ashes Road,Nine Ashes,Ingatestone
+2023-12-05,550000,CM4 9JW,S,N,F,Wayside,,Maldon Road,Margaretting,Ingatestone
+2023-11-30,650000,CM4 0BQ,D,N,F,1,,The Paddocks,,Ingatestone
+2023-11-29,571000,CM4 9AP,S,N,F,16,,Mountney Close,,Ingatestone
+2023-11-29,212500,CM4 0RL,F,N,L,Stable Yard,2,The Green,Blackmore,Ingatestone
+2023-11-24,540000,CM4 9JP,S,N,F,Rayners,,Maldon Road,Margaretting,Ingatestone
+2023-11-24,238500,CM4 0TQ,F,N,L,12,,Pemberton Court,,Ingatestone
+2023-11-24,215000,CM4 0DS,F,N,L,Haslers Court,Flat 7,Fryerning Lane,,Ingatestone
+2023-11-23,1900000,CM4 9BD,D,N,F,29A,,High Street,Stock,Ingatestone
+2023-11-22,2575888,CM4 9PS,D,N,F,6,,Hereward Mount,Stock,Ingatestone
+2023-11-17,600000,CM4 9FY,S,Y,F,6,,Pleshey Close,,Ingatestone
+2023-11-17,799995,CM4 9FQ,D,Y,F,3,,Canon Hudson Gardens,,Ingatestone
+2023-11-17,476500,CM4 9AS,S,N,F,30,,Ridgeway,,Ingatestone
+2023-11-16,606000,CM4 0AJ,S,N,F,79,,The Furlongs,,Ingatestone
+2023-11-10,500000,CM4 9DR,S,N,F,16,,Hare Bridge Crescent,,Ingatestone
+2023-11-10,411000,CM4 0TE,T,N,F,18,,Mellor Close,,Ingatestone
+2023-11-03,485000,CM4 9LW,D,N,F,1,,Jennings Place,Margaretting,Ingatestone
+2023-11-03,625000,CM4 9FY,S,Y,F,8,,Pleshey Close,,Ingatestone
+2023-11-02,541500,CM4 0BQ,S,N,F,23,,The Paddocks,,Ingatestone
+2023-10-27,500000,CM4 0RH,S,N,F,Millcot,1,Mill Green Road,Mill Green,Ingatestone
+2023-10-24,855000,CM4 9EP,D,N,F,"The Barn, 2",,Stock Lane,,Ingatestone
+2023-10-13,985000,CM4 9HN,D,N,F,64,,Tor Bryan,,Ingatestone
+2023-10-13,480000,CM4 9AG,S,N,F,41,,Heybridge Road,,Ingatestone
+2023-10-10,320000,CM4 0LR,S,N,F,5,,Horsfrith Park Cottages,Radley Green,Ingatestone
+2023-10-05,887000,CM4 9BD,S,N,F,19,,High Street,Stock,Ingatestone
+2023-09-29,1125000,CM4 9FN,D,N,F,Ashridge Grange,3,Stock Road,Stock,Ingatestone
+2023-09-29,410000,CM4 9EE,S,N,F,10,,High Street,,Ingatestone
+2023-09-29,680000,CM4 0EG,S,N,F,Brookside Cottages,6,Main Road,Margaretting,Ingatestone
+2023-09-29,635000,CM4 0AB,S,N,F,25,,Norton Road,,Ingatestone
+2023-09-28,680000,CM4 9EG,S,N,F,8,,Pine Close,,Ingatestone
+2023-09-28,557500,CM4 9AE,T,N,F,Greengage House,,Roman Road,,Ingatestone
+2023-09-27,545000,CM4 0QL,T,N,F,11,,Woollard Way,Blackmore,Ingatestone
+2023-09-26,650000,CM4 0QY,D,N,F,53,,Meadow Rise,Blackmore,Ingatestone
+2023-09-25,935000,CM4 0SA,D,N,F,Sandford Paddocks,3,Red Rose Lane,Blackmore,Ingatestone
+2023-09-19,1530000,CM4 9PJ,D,N,F,Buttsbury Lodge,,Stock Road,Stock,Ingatestone
+2023-09-19,1080000,CM4 0HH,D,N,F,Field Cottage,,New Road,,Ingatestone
+2023-09-13,660000,CM4 0AH,S,N,F,29,,The Furlongs,,Ingatestone
+2023-09-07,525000,CM4 0QY,S,N,F,58,,Meadow Rise,Blackmore,Ingatestone
+2023-09-01,404000,CM4 9EE,S,N,F,12,,High Street,,Ingatestone
+2023-08-31,283000,CM4 0BL,F,N,L,The Gatehouse,Flat 7,Station Lane,,Ingatestone
+2023-08-25,482500,CM4 9DR,D,N,F,43,,Hare Bridge Crescent,,Ingatestone
+2023-08-24,912500,CM4 9JZ,D,N,F,26,,Tor Bryan,,Ingatestone
+2023-08-24,1300000,CM4 0DD,D,N,F,24B,,Fryerning Lane,,Ingatestone
+2023-08-24,725000,CM4 0BH,S,N,F,73,,The Paddocks,,Ingatestone
+2023-08-16,1950000,CM4 9NE,D,N,F,31,,Myln Meadow,Stock,Ingatestone
+2023-08-16,835000,CM4 9NE,D,N,F,23,,Myln Meadow,Stock,Ingatestone
+2023-08-16,835000,CM4 9NE,D,N,F,23,,Myln Meadow,Stock,Ingatestone
+2023-08-14,865000,CM4 9BD,S,N,F,"Keys, 25",,High Street,Stock,Ingatestone
+2023-08-14,1425000,CM4 9BA,D,N,F,26,,High Street,Stock,Ingatestone
+2023-08-11,540000,CM4 0FQ,F,N,L,Bell Mead Heights,9,Bell Mead,,Ingatestone
+2023-08-08,805000,CM4 0FP,T,N,F,4,,Crown Mews,,Ingatestone
+2023-08-02,670000,CM4 0RX,S,N,F,10,,Orchard Piece,Blackmore,Ingatestone
+2023-07-28,1275000,CM4 9NE,D,N,F,57,,Myln Meadow,Stock,Ingatestone
+2023-07-28,585000,CM4 0EG,S,N,F,Brookside Cottages,1,Main Road,Margaretting,Ingatestone
+2023-07-27,425000,CM4 9AN,D,N,F,5,,Burnt House Lane,,Ingatestone
+2023-07-26,535000,CM4 9EP,T,N,F,4,,Stock Lane,,Ingatestone
+2023-07-26,1100000,CM4 0PJ,D,N,F,Lilliput Cottage,,Beggar Hill,Fryerning,Ingatestone
+2023-07-26,540000,CM4 0GH,F,N,L,Stonegate,10,The Limes,,Ingatestone
+2023-07-19,1190000,CM4 0NZ,D,N,F,Park Farm,,Ingatestone Road,Blackmore,Ingatestone
+2023-07-19,975000,CM4 0JA,D,Y,F,4,,The Lakes,,Ingatestone
+2023-07-10,790000,CM4 9ER,T,N,F,25,,Fairfield,,Ingatestone
+2023-07-07,740000,CM4 9JZ,D,N,F,22,,Tor Bryan,,Ingatestone
+2023-07-07,575000,CM4 9AA,S,N,F,27,,Roman Road,,Ingatestone
+2023-07-07,1210000,CM4 0DQ,D,N,F,22,,Willow Green,,Ingatestone
+2023-07-04,1900000,CM4 0GF,D,N,F,Ladylands,,Fryerning Lane,,Ingatestone
+2023-07-04,850000,CM4 0FP,D,N,F,14,,Crown Mews,,Ingatestone
+2023-06-30,257500,CM4 0BB,F,N,L,South Court,10,Summerfields,,Ingatestone
+2023-06-29,290000,CM4 0BS,F,N,L,West Court,29,Summerfields,,Ingatestone
+2023-06-21,793000,CM4 9HG,D,N,F,13,,The Heythrop,,Ingatestone
+2023-06-21,940000,CM4 0DQ,D,N,F,15,,Willow Green,,Ingatestone
+2023-06-12,875000,CM4 9TL,D,N,F,Broadfields,,Barrington Place,,Ingatestone
+2023-06-12,6850000,CM4 0HX,D,N,F,Millhurst,,Mill Green Road,Mill Green,Ingatestone
+2023-06-02,650000,CM4 9FB,S,N,F,9,,Austen Drive,Stock,Ingatestone
+2023-05-24,800000,CM4 9HF,D,N,F,3,,Whadden Chase,,Ingatestone
+2023-05-24,795000,CM4 9AA,D,N,F,19,,Roman Road,,Ingatestone
+2023-05-05,720000,CM4 9JZ,D,N,F,24,,Tor Bryan,,Ingatestone
+2023-04-28,1500000,CM4 9NE,D,N,F,37,,Myln Meadow,Stock,Ingatestone
+2023-04-28,900000,CM4 9LZ,D,N,F,51,,Well Lane,Stock,Ingatestone
+2023-04-28,1125000,CM4 9LZ,D,N,F,33,,Well Lane,Stock,Ingatestone
+2023-04-28,280000,CM4 0TF,F,N,L,10,,Exley Close,,Ingatestone
+2023-04-28,130500,CM4 0FG,F,N,L,2,,Elston Court,,Ingatestone
+2023-04-26,875000,CM4 9AX,D,N,F,2,,Tudor Close,,Ingatestone
+2023-04-25,2200000,CM4 9FG,F,N,L,"Harvard Hall, 140",Flat 3,Mill Road,Stock,Ingatestone
+2023-04-25,625000,CM4 0AL,S,N,F,97,,The Furlongs,,Ingatestone
+2023-04-21,690000,CM4 0FP,S,N,F,17,,Crown Mews,,Ingatestone
+2023-04-14,380000,CM4 9AG,S,N,F,Amberwood,,Heybridge Road,,Ingatestone
+2023-04-06,305000,CM4 0DS,F,N,L,Haslers Court,Flat 28,Fryerning Lane,,Ingatestone
+2023-04-05,660000,CM4 0QX,D,N,F,Rose Cottage,,Blackmore Road,Blackmore,Ingatestone
+2023-04-05,234000,CM4 0DS,F,N,L,Haslers Court,Flat 26,Fryerning Lane,,Ingatestone
+2023-04-04,1070000,CM4 9HB,S,N,F,Braehead East,,Avenue Road,,Ingatestone
+2023-04-03,173500,CM4 0TQ,F,N,L,7,,Pemberton Court,,Ingatestone
+2023-03-31,360000,CM4 9EE,S,N,F,14,,High Street,,Ingatestone
+2023-03-29,1965000,CM4 9BD,D,N,F,"Marvells, 5",,High Street,Stock,Ingatestone
+2023-03-27,890000,CM4 9HN,D,N,F,52,,Tor Bryan,,Ingatestone
+2023-03-24,455000,CM4 0GH,F,N,L,Stonegate,7,The Limes,,Ingatestone
+2023-03-15,1860000,CM4 0PT,D,N,F,Badgers Lea,,Mill Green Road,Mill Green,Ingatestone
+2023-03-06,862500,CM4 9DE,D,N,F,33,,Back Lane,Stock,Ingatestone
+2023-03-03,621000,CM4 0AT,T,N,F,65,,High Street,,Ingatestone
+2023-02-28,750000,CM4 9QZ,D,N,F,2,,Chase Farm Place,Stock,Ingatestone
+2023-02-28,975000,CM4 0PU,S,N,F,Wells & Shed Cottages,2,Ivy Barn Lane,Margaretting,Ingatestone
+2023-02-24,820000,CM4 0BH,D,N,F,64,,The Paddocks,,Ingatestone
+2023-02-23,402000,CM4 9DR,F,N,L,10,,Hare Bridge Crescent,,Ingatestone
+2023-02-21,228000,CM4 9TA,F,N,L,36,,Dakyn Drive,Stock,Ingatestone
+2023-02-20,1605000,CM4 9PS,D,N,F,17,,Hereward Mount,Stock,Ingatestone
+2023-02-17,462500,CM4 9PN,S,N,F,Meadow View,,Stock Road,Stock,Ingatestone
+2023-02-10,700000,CM4 9EG,S,N,F,32,,Pine Close,,Ingatestone
+2023-02-07,680000,CM4 0FL,S,N,F,The Rookeries,8,Rookery Road,Nine Ashes,Ingatestone
+2023-01-23,460000,CM4 0SF,S,N,F,7,,Chelmsford Road,Blackmore,Ingatestone
+2023-01-20,607000,CM4 0QN,D,N,F,19,,Woollard Way,Blackmore,Ingatestone
+2023-01-13,1050000,CM4 9FG,F,Y,L,"Harvard Hall, 140",Flat 9,Mill Road,Stock,Ingatestone
+2023-01-12,2602000,CM4 0PE,D,N,F,Hunters Lodge,,Beggar Hill,Fryerning,Ingatestone
+2023-01-10,595000,CM4 0RX,S,N,F,5,,Orchard Piece,Blackmore,Ingatestone
+2023-01-09,475000,CM4 9DR,S,N,F,16,,Hare Bridge Crescent,,Ingatestone
+2023-01-06,750000,CM4 9BN,S,N,F,"Little Pipers, 49",,High Street,Stock,Ingatestone
+2023-01-06,270000,CM4 0BD,F,N,L,North Court,14,Summerfields,,Ingatestone
+2023-01-03,650000,CM4 9BX,F,N,L,Lilystone Hall,Flat 7,Stock Road,Stock,Ingatestone
+2022-12-22,660000,CM4 9EF,D,N,F,24,,Pine Drive,,Ingatestone
+2022-12-21,637500,CM4 0EW,S,N,F,Greens Cottages,1,Ivy Barn Lane,Margaretting,Ingatestone
+2022-12-20,470000,CM4 9AW,S,N,F,7,,Court View,,Ingatestone
+2022-12-20,780000,CM4 0DD,S,N,F,32,,Fryerning Lane,,Ingatestone
+2022-12-19,1100000,CM4 0SY,D,N,F,1,,Gatehouse Mews,,Ingatestone
+2022-12-16,850000,CM4 9DE,S,N,F,29,,Back Lane,Stock,Ingatestone
+2022-12-16,275000,CM4 9BN,T,N,F,41,,High Street,Stock,Ingatestone
+2022-12-07,1475000,CM4 0EP,D,N,F,Rymers,,Wantz Road,Margaretting,Ingatestone
+2022-12-06,760000,CM4 0LQ,D,N,L,Spurriers Farm Barns,The Long Barn 3,,Norton Heath,Ingatestone
+2022-11-30,670000,CM4 9QZ,D,N,F,1,,Chase Farm Place,Stock,Ingatestone
+2022-11-30,280000,CM4 0BS,F,N,L,West Court,38,Summerfields,,Ingatestone
+2022-11-29,980000,CM4 9BA,D,N,F,14,,High Street,Stock,Ingatestone
+2022-11-25,1350000,CM4 9BG,D,N,F,Shires,,The Paddock,Stock,Ingatestone
+2022-11-25,1580000,CM4 9BD,D,N,F,17,,High Street,Stock,Ingatestone
+2022-11-23,840000,CM4 0QP,D,N,F,14,,Meadow Rise,Blackmore,Ingatestone
+2022-11-17,1120000,CM4 9HB,D,N,F,82,,Avenue Road,,Ingatestone
+2022-11-17,541500,CM4 9AN,S,N,F,6,,Burnt House Lane,,Ingatestone
+2022-11-11,520000,CM4 9AS,S,N,F,7,,Ridgeway,,Ingatestone
+2022-11-11,270000,CM4 0BB,F,N,L,South Court,3,Summerfields,,Ingatestone
+2022-11-08,344000,CM4 9JE,T,N,F,3,,The Square,Margaretting,Ingatestone
+2022-11-08,250000,CM4 0BS,F,N,L,West Court,37,Summerfields,,Ingatestone
+2022-11-04,585000,CM4 0QP,D,N,F,10,,Meadow Rise,Blackmore,Ingatestone
+2022-10-28,585000,CM4 9PW,S,N,F,15,,The Vale,Stock,Ingatestone
+2022-10-28,650000,CM4 9EQ,S,N,F,30,,Docklands Avenue,,Ingatestone
+2022-10-28,1100000,CM4 0JX,D,N,F,Ferrers,,Woolmongers Lane,,Ingatestone
+2022-10-26,810000,CM4 9BQ,S,N,F,39,,Swan Lane,Stock,Ingatestone
+2022-10-21,600000,CM4 0AT,T,N,F,63,,High Street,,Ingatestone
+2022-10-20,460000,CM4 9AN,S,N,F,9,,Burnt House Lane,,Ingatestone
+2022-10-14,800000,CM4 9NA,D,N,F,53,,Birch Lane,Stock,Ingatestone
+2022-10-14,725000,CM4 9JR,D,N,F,Long Croft,,Maldon Road,Margaretting,Ingatestone
+2022-10-14,1425000,CM4 0QB,D,N,F,Handley Green House,,Handley Green,,Ingatestone
+2022-10-14,495000,CM4 0BZ,T,N,F,11,,Bakers Lane,,Ingatestone
+2022-10-14,650000,CM4 0AJ,D,N,F,62,,The Furlongs,,Ingatestone
+2022-10-10,302000,CM4 9EE,F,N,L,"Rose Court, 3 - 5",Flat 2,High Street,,Ingatestone
+2022-10-07,587500,CM4 9AL,D,N,F,2A,,Rye Walk,,Ingatestone
+2022-10-06,730000,CM4 0PZ,D,N,F,Portland Cottages,1,Chelmsford Road,Blackmore,Ingatestone
+2022-10-05,643000,CM4 9HH,D,N,F,26,,Wakelin Chase,,Ingatestone
+2022-10-04,565000,CM4 9DU,S,N,F,"The Old Surgery, 27",,High Street,,Ingatestone
+2022-09-28,888000,CM4 9LZ,S,N,F,53,,Well Lane,Stock,Ingatestone
+2022-09-28,385000,CM4 9JN,S,N,F,36,,Orton Close,Margaretting,Ingatestone
+2022-09-28,2250000,CM4 0EP,D,N,F,Ging House,,Wantz Road,Margaretting,Ingatestone
+2022-09-26,850000,CM4 9EG,S,N,F,42,,Pine Close,,Ingatestone
+2022-09-26,735000,CM4 0AL,S,N,F,115,,The Furlongs,,Ingatestone
+2022-09-23,628500,CM4 9AZ,D,N,F,1,,Catcher Court,,Ingatestone
+2022-09-23,295000,CM4 0TE,F,N,L,7,,Mellor Close,,Ingatestone
+2022-09-23,441000,CM4 0TE,T,N,F,11,,Mellor Close,,Ingatestone
+2022-09-23,630000,CM4 0RB,S,N,F,20,,St Lawrence Gardens,Blackmore,Ingatestone
+2022-09-23,917500,CM4 0JZ,S,N,F,266,,Nine Ashes Road,Nine Ashes,Ingatestone
+2022-09-20,472500,CM4 9AA,S,N,F,63,,Roman Road,,Ingatestone
+2022-09-16,895000,CM4 0FR,D,Y,F,21,,Little Ridings Lane,,Ingatestone
+2022-09-16,653000,CM4 0DN,S,N,F,12,,Disney Close,,Ingatestone
+2022-09-15,425000,CM4 9TB,T,N,F,72,,Dakyn Drive,Stock,Ingatestone
+2022-09-15,1695000,CM4 9EU,D,N,F,69,,High Street,,Ingatestone
+2022-09-15,769000,CM4 9DT,S,N,F,30,,Park Drive,,Ingatestone
+2022-09-15,250000,CM4 9DR,F,N,L,8,,Hare Bridge Crescent,,Ingatestone
+2022-09-07,1050000,CM4 9LT,D,N,F,21,,Well Lane,Stock,Ingatestone
+2022-09-01,1675000,CM4 9EU,D,N,F,75A,,High Street,,Ingatestone
+2022-08-31,555000,CM4 0FQ,F,N,L,Bell Mead Heights,12,Bell Mead,,Ingatestone
+2022-08-25,787500,CM4 9LN,D,N,F,57,,Mill Road,Stock,Ingatestone
+2022-08-25,635000,CM4 9EQ,S,N,F,43,,Docklands Avenue,,Ingatestone
+2022-08-25,645000,CM4 9BD,S,N,F,13,,High Street,Stock,Ingatestone
+2022-08-25,327500,CM4 0DA,F,N,L,Millers Mews,Flat 10,Fryerning Lane,,Ingatestone
+2022-08-24,1500000,CM4 9LR,D,N,F,130,,Mill Road,Stock,Ingatestone
+2022-08-19,250000,CM4 9EE,F,N,L,42A,,High Street,,Ingatestone
+2022-08-19,480000,CM4 9AP,S,N,F,10,,Mountney Close,,Ingatestone
+2022-08-15,1800000,CM4 0HU,D,N,F,Stonywood,,Mill Lane,Fryerning,Ingatestone
+2022-08-15,550000,CM4 0AF,T,N,F,1,,Meads Close,,Ingatestone
+2022-08-03,695000,CM4 9AF,D,N,F,24,,The Leas,,Ingatestone
+2022-07-29,980000,CM4 9HH,D,N,F,3,,Wakelin Chase,,Ingatestone
+2022-07-28,667500,CM4 9DR,D,N,F,33,,Hare Bridge Crescent,,Ingatestone
+2022-07-26,785000,CM4 9HJ,D,N,F,14,,Tor Bryan,,Ingatestone
+2022-07-26,425000,CM4 9AG,S,N,F,19,,Heybridge Road,,Ingatestone
+2022-07-21,1285000,CM4 9EG,D,N,F,46,,Pine Close,,Ingatestone
+2022-07-21,1465000,CM4 0RR,D,N,F,Pebbles,,The Green,Blackmore,Ingatestone
+2022-07-20,760000,CM4 9AN,D,N,F,26,,Burnt House Lane,,Ingatestone
+2022-07-19,485000,CM4 0AL,T,N,F,98,,The Furlongs,,Ingatestone
+2022-07-15,1525000,CM4 9LY,D,N,F,9,,Common Road,Stock,Ingatestone
+2022-07-15,475000,CM4 9AR,S,N,F,9,,Marks Close,,Ingatestone
+2022-07-01,845000,CM4 0BQ,D,N,F,17,,The Paddocks,,Ingatestone
+2022-07-01,786500,CM4 0BH,S,N,F,70,,The Paddocks,,Ingatestone
+2022-06-28,1500000,CM4 0PE,D,N,F,Fryerning House Cottage,,Beggar Hill,Fryerning,Ingatestone
+2022-06-24,1145000,CM4 9HB,D,N,F,80,,Avenue Road,,Ingatestone
+2022-06-24,1665000,CM4 0BY,D,N,F,6,,Market Place,,Ingatestone
+2022-06-23,752000,CM4 9ER,D,N,F,7,,Fairfield,,Ingatestone
+2022-06-22,750000,CM4 0RU,D,N,F,Longfield,,Fingrith Hall Road,Blackmore,Ingatestone
+2022-06-22,640000,CM4 0FL,S,N,F,The Rookeries,3,Rookery Road,Nine Ashes,Ingatestone
+2022-06-15,1300000,CM4 0JY,D,N,F,177,,Nine Ashes Road,Nine Ashes,Ingatestone
+2022-06-10,1255000,CM4 9JW,D,N,F,Applebys,,Maldon Road,Margaretting,Ingatestone
+2022-06-10,565000,CM4 0RY,S,N,F,36,,Orchard Piece,Blackmore,Ingatestone
+2022-06-10,482500,CM4 0GH,F,N,L,Stonegate,8,The Limes,,Ingatestone
+2022-06-07,335000,CM4 9JE,D,N,F,1,,The Square,Margaretting,Ingatestone
+2022-06-01,385000,CM4 9AP,S,N,F,48,,Mountney Close,,Ingatestone
+2022-05-31,875000,CM4 9RF,S,N,F,Steels Cottages,2,Seamans Lane,Stock,Ingatestone
+2022-05-27,601500,CM4 9JW,S,N,F,Little Cedar,,Maldon Road,Margaretting,Ingatestone
+2022-05-27,742500,CM4 9AA,D,N,F,17,,Roman Road,,Ingatestone
+2022-05-23,786200,CM4 0HS,D,N,F,Stable House,,Mill Green Road,Fryerning,Ingatestone
+2022-05-13,325000,CM4 9BX,F,N,L,Lilystone Hall,Flat 5,Stock Road,Stock,Ingatestone
+2022-05-12,1665000,CM4 9BS,T,N,F,"Stock Lodge, 60",3,High Street,Stock,Ingatestone
+2022-05-09,825000,CM4 0LP,D,N,F,Mon Repose,,,Norton Heath,Ingatestone
+2022-05-06,1175000,CM4 0DH,D,N,F,66,,Willow Green,,Ingatestone
+2022-05-06,635000,CM4 0AD,T,N,F,1,,The Meads,,Ingatestone
+2022-05-04,475000,CM4 0EP,T,N,F,Wantfield Cottages,5,Wantz Road,Margaretting,Ingatestone
+2022-04-29,675000,CM4 0BH,S,N,F,72,,The Paddocks,,Ingatestone
+2022-04-28,762000,CM4 9AT,D,N,F,6,,Poplar Close,,Ingatestone
+2022-04-26,972500,CM4 0SD,D,N,F,Three Ways,,Chelmsford Road,Blackmore,Ingatestone
+2022-04-22,730000,CM4 0AL,S,N,F,121,,The Furlongs,,Ingatestone
+2022-04-21,619000,CM4 9JF,D,N,F,1,,Maldon Road,Margaretting,Ingatestone
+2022-04-20,788000,CM4 9EZ,T,N,F,156,,High Street,,Ingatestone
+2022-04-20,1720000,CM4 0HH,D,N,F,The Hop Croft,,New Road,,Ingatestone
+2022-04-19,1925000,CM4 9FG,F,Y,L,"Harvard Hall, 140",Flat 4,Mill Road,Stock,Ingatestone
+2022-04-14,675000,CM4 9NJ,D,N,F,4,,Bakers Field,Stock,Ingatestone
+2022-04-14,2300000,CM4 0NQ,D,N,F,Trueloves Grange,7,Trueloves Lane,,Ingatestone
+2022-04-14,445000,CM4 0JD,T,N,F,Woodside Cottages,24,Mapletree Lane,Mill Green,Ingatestone
+2022-04-08,1175000,CM4 9BA,D,N,F,"Harvard House East, 34",,High Street,Stock,Ingatestone
+2022-04-07,567500,CM4 9ER,T,N,F,29,,Fairfield,,Ingatestone
+2022-04-06,287500,CM4 9FD,D,N,L,7,,Fosters Close,Stock,Ingatestone
+2022-04-01,630000,CM4 9DT,S,N,F,15,,Park Drive,,Ingatestone
+2022-04-01,550000,CM4 0AE,S,N,F,46,,The Meads,,Ingatestone
+2022-03-31,763000,CM4 9HF,D,N,F,21,,Whadden Chase,,Ingatestone
+2022-03-31,593000,CM4 9AE,T,N,F,Heybridge Cottages,1,Roman Road,,Ingatestone
+2022-03-25,2475000,CM4 0NP,D,N,F,Barnmead,,Blackmore Road,Fryerning,Ingatestone
+2022-03-11,510000,CM4 9ER,T,N,F,27,,Fairfield,,Ingatestone
+2022-03-11,510000,CM4 9ER,T,N,F,27,,Fairfield,,Ingatestone
+2022-03-11,1250000,CM4 0JN,D,N,F,Fingrith House,,Fingrith Hall Lane,Blackmore,Ingatestone
+2022-03-11,400000,CM4 0FG,F,N,L,4,,Elston Court,,Ingatestone
+2022-02-28,492000,CM4 0AL,T,N,F,92,,The Furlongs,,Ingatestone
+2022-02-16,195000,CM4 0RL,F,N,L,Stable Yard,2,The Green,Blackmore,Ingatestone
+2022-02-14,835000,CM4 9LT,D,N,F,23,,Well Lane,Stock,Ingatestone
+2022-02-14,690000,CM4 0AB,T,N,F,51,,Norton Road,,Ingatestone
+2022-02-07,950000,CM4 9PZ,D,N,F,Barnards Close,,Brittons Lane,Stock,Ingatestone
+2022-02-04,535000,CM4 9AA,S,N,F,61,,Roman Road,,Ingatestone
+2022-02-04,860000,CM4 0DH,D,N,F,54,,Willow Green,,Ingatestone
+2022-02-03,700000,CM4 0NQ,D,N,F,Kettles,,Trueloves Lane,,Ingatestone
+2022-02-01,550000,CM4 0SB,D,N,F,8A,,Jericho Place,Blackmore,Ingatestone
+2022-01-26,630000,CM4 0JZ,S,N,F,223,,Nine Ashes Road,Nine Ashes,Ingatestone
+2022-01-25,1815000,CM4 0LG,D,N,F,The Manor House,,Rookery Road,Blackmore,Ingatestone
+2022-01-21,700000,CM4 0AL,T,N,F,86,,The Furlongs,,Ingatestone
+2022-01-20,617000,CM4 0BQ,S,N,F,9,,The Paddocks,,Ingatestone
+2022-01-14,925000,CM4 0QX,D,N,F,The Old School House,,Blackmore Road,Blackmore,Ingatestone
+2022-01-14,780000,CM4 0QP,D,N,F,8,,Meadow Rise,Blackmore,Ingatestone
+2022-01-05,447500,CM4 9TA,S,N,F,52,,Dakyn Drive,Stock,Ingatestone
+2021-12-22,550000,CM4 9LU,T,N,F,22,,Well Lane,Stock,Ingatestone
+2021-12-21,285000,CM4 0DS,F,N,L,Haslers Court,Flat 15,Fryerning Lane,,Ingatestone
+2021-12-20,475000,CM4 9AS,S,N,F,4,,Ridgeway,,Ingatestone
+2021-12-20,425000,CM4 9AS,S,N,F,2,,Ridgeway,,Ingatestone
+2021-12-17,850000,CM4 9BW,T,N,F,40,,High Street,Stock,Ingatestone
+2021-12-17,480000,CM4 9AS,S,N,F,5,,Ridgeway,,Ingatestone
+2021-12-16,785000,CM4 9NZ,T,N,F,Church Hill Cottages,3,Buttsbury,,Ingatestone
+2021-12-13,255000,CM4 0AF,T,N,F,12A,,Meads Close,,Ingatestone
+2021-12-10,1100000,CM4 9QE,D,N,F,4,,Ottley Place,Margaretting,Ingatestone
+2021-12-10,400000,CM4 9JG,S,N,F,23,,Maldon Road,Margaretting,Ingatestone
+2021-12-02,225000,CM4 0RL,F,N,L,Stable Yard,3,The Green,Blackmore,Ingatestone
+2021-11-30,415000,CM4 0AQ,D,N,F,58,,Pemberton Avenue,,Ingatestone
+2021-11-29,590000,CM4 9LG,T,N,F,3,,The Square,Stock,Ingatestone
+2021-11-26,530000,CM4 9AJ,S,N,F,108,,Heybridge Road,,Ingatestone
+2021-11-25,935000,CM4 9HG,D,N,F,12,,The Heythrop,,Ingatestone
+2021-11-23,380000,CM4 0EP,T,N,F,Wantfield Cottages,3,Wantz Road,Margaretting,Ingatestone
+2021-11-19,325000,CM4 9BX,F,N,L,Lilystone Hall,Flat 3,Stock Road,Stock,Ingatestone
+2021-11-19,405000,CM4 0JZ,S,N,F,227,,Nine Ashes Road,Nine Ashes,Ingatestone
+2021-11-15,462500,CM4 0FQ,F,N,L,Bell Mead Heights,11,Bell Mead,,Ingatestone
+2021-11-04,2700000,CM4 0NW,D,N,F,The Old Rectory,,Blackmore Road,Fryerning,Ingatestone
+2021-11-04,1060000,CM4 0LA,D,N,F,288,,Nine Ashes Road,Nine Ashes,Ingatestone
+2021-11-02,1057000,CM4 9LD,D,N,F,2,,Garden End,Stock,Ingatestone
+2021-10-28,874000,CM4 9PY,S,N,F,4,,Peter Street,Stock,Ingatestone
+2021-10-26,615000,CM4 9HH,D,N,F,14,,Wakelin Chase,,Ingatestone
+2021-10-22,1010000,CM4 0RN,D,N,F,Priory View,,Church Street,Blackmore,Ingatestone
+2021-10-08,865000,CM4 9JW,D,N,F,Broad Oaks,,Maldon Road,Margaretting,Ingatestone
+2021-10-08,550000,CM4 0JD,T,N,F,Woodside Cottages,22,Mapletree Lane,Mill Green,Ingatestone
+2021-09-30,625000,CM4 9AF,D,N,F,21,,The Leas,,Ingatestone
+2021-09-29,527000,CM4 9JW,S,N,F,Collaroy,,Maldon Road,Margaretting,Ingatestone
+2021-09-29,1100000,CM4 9EZ,D,N,F,168,,High Street,,Ingatestone
+2021-09-29,485000,CM4 9AS,S,N,F,34,,Ridgeway,,Ingatestone
+2021-09-29,980000,CM4 0RU,D,N,F,The Woodbines,,Fingrith Hall Road,Blackmore,Ingatestone
+2021-09-29,1125000,CM4 0DD,S,N,F,20,,Fryerning Lane,,Ingatestone
+2021-09-29,685000,CM4 0DA,S,N,F,4A,,Fryerning Lane,,Ingatestone
+2021-09-28,278500,CM4 0BE,F,N,L,29,,The Limes,,Ingatestone
+2021-09-24,1100000,CM4 9RS,D,N,F,Hippodrome Farm,,Goatsmoor Lane,Stock,Ingatestone
+2021-09-24,410000,CM4 9AJ,S,N,F,129,,Heybridge Road,,Ingatestone
+2021-09-24,630000,CM4 0QY,D,N,F,45,,Meadow Rise,Blackmore,Ingatestone
+2021-09-23,550000,CM4 0QL,D,N,F,2,,Woollard Way,Blackmore,Ingatestone
+2021-09-23,400000,CM4 0BN,F,N,L,Ashleigh Court,Flat 13,Station Lane,,Ingatestone
+2021-09-23,800000,CM4 0BA,S,N,F,100,,High Street,,Ingatestone
+2021-09-21,323500,CM4 9EE,F,N,L,"Rose Court, 3 - 5",Flat 2,High Street,,Ingatestone
+2021-09-17,545000,CM4 0FQ,F,N,L,Bell Mead Heights,10,Bell Mead,,Ingatestone
+2021-09-15,450000,CM4 0SF,S,N,F,7,,Chelmsford Road,Blackmore,Ingatestone
+2021-09-14,940000,CM4 9EZ,D,N,F,182,,High Street,,Ingatestone
+2021-09-13,1800000,CM4 9BG,D,N,F,3A,,The Paddock,Stock,Ingatestone
+2021-09-10,644000,CM4 9DZ,S,N,F,71,,Stock Lane,,Ingatestone
+2021-09-03,359000,CM4 0LL,T,N,F,2,,Garwood Cottages,Norton Heath,Ingatestone
+2021-08-27,900000,CM4 9HE,D,N,F,"Linden, 6",,The Quorn,,Ingatestone
+2021-08-24,1500000,CM4 0SD,D,N,F,Great Oaks Barn,,Chelmsford Road,Blackmore,Ingatestone
+2021-08-23,565000,CM4 9AN,D,N,F,2A,,Burnt House Lane,,Ingatestone
+2021-08-20,685000,CM4 0DA,S,Y,F,4B,,Fryerning Lane,,Ingatestone
+2021-08-18,475000,CM4 0GH,F,N,L,Stonegate,2,The Limes,,Ingatestone
+2021-08-17,510000,CM4 0AR,T,N,F,Meadows Cottages,1,High Street,,Ingatestone
+2021-08-16,1120000,CM4 9DE,D,N,F,31,,Back Lane,Stock,Ingatestone
+2021-08-13,500000,CM4 9RD,D,N,F,Sweetdrops,,Lower Stock Road,Stock,Ingatestone
+2021-08-12,400000,CM4 9AP,S,N,F,21,,Mountney Close,,Ingatestone
+2021-08-06,895000,CM4 0FR,D,Y,F,19,,Little Ridings Lane,,Ingatestone
+2021-07-30,252000,CM4 0DS,F,N,L,Haslers Court,Flat 28,Fryerning Lane,,Ingatestone
+2021-07-14,435000,CM4 9EL,T,N,F,5,,Stock Lane,,Ingatestone
+2021-06-30,830000,CM4 9AA,D,N,F,"The Manor House, 77",,Roman Road,,Ingatestone
+2021-06-30,1625000,CM4 0NN,D,N,F,76,,Fryerning Lane,,Ingatestone
+2021-06-30,265000,CM4 0BE,F,N,L,11A,,The Limes,,Ingatestone
+2021-06-30,295000,CM4 0BB,F,N,L,South Court,5,Summerfields,,Ingatestone
+2021-06-30,525000,CM4 0AB,T,N,F,50,,Norton Road,,Ingatestone
+2021-06-29,975000,CM4 9QA,D,N,F,Broadmore,,Madles Lane,Stock,Ingatestone
+2021-06-29,310000,CM4 9JN,T,N,F,20,,Orton Close,Margaretting,Ingatestone
+2021-06-29,670000,CM4 9EF,S,N,F,5,,Pine Drive,,Ingatestone
+2021-06-29,1150000,CM4 0JF,D,N,F,Reindeer,,Kingfishers,,Ingatestone
+2021-06-28,800000,CM4 9PQ,D,N,F,The Willows,,Stock Road,Stock,Ingatestone
+2021-06-28,2020000,CM4 9PD,D,N,F,Longmeads,,Ingatestone Road,Stock,Ingatestone
+2021-06-28,1160000,CM4 9LY,D,N,F,Heather Bank,,Common Road,Stock,Ingatestone
+2021-06-28,462500,CM4 9LE,F,N,L,10,,Unwin Place,Stock,Ingatestone
+2021-06-28,472500,CM4 9JP,S,N,F,Winifred,,Maldon Road,Margaretting,Ingatestone
+2021-06-28,795000,CM4 9HJ,D,N,F,7,,Tor Bryan,,Ingatestone
+2021-06-28,675000,CM4 9DT,S,N,F,31,,Park Drive,,Ingatestone
+2021-06-28,450000,CM4 9AS,S,N,F,31,,Ridgeway,,Ingatestone
+2021-06-28,1675000,CM4 0NQ,D,N,F,Trueloves Grange,9,Trueloves Lane,,Ingatestone
+2021-06-28,2450000,CM4 0JE,D,N,F,St Giles,,Mill Green Road,Mill Green,Ingatestone
+2021-06-28,540000,CM4 0DD,T,N,F,21,,Fryerning Lane,,Ingatestone
+2021-06-25,1325000,CM4 9QD,D,N,F,Moonrakers,,Whites Hill,Stock,Ingatestone
+2021-06-25,740000,CM4 9HF,D,N,F,33,,Whadden Chase,,Ingatestone
+2021-06-25,640000,CM4 9FF,D,N,F,8,,Brookmans View,Stock,Ingatestone
+2021-06-25,420000,CM4 9AN,T,N,F,42,,Burnt House Lane,,Ingatestone
+2021-06-25,865000,CM4 0RU,D,N,F,Serenity,,Fingrith Hall Road,Blackmore,Ingatestone
+2021-06-25,780000,CM4 0RH,D,N,F,Holly Cottage,,Mill Green Road,Mill Green,Ingatestone
+2021-06-25,1495000,CM4 0LG,D,N,F,Much Pond Orchards,,Rookery Road,Blackmore,Ingatestone
+2021-06-25,310000,CM4 0BS,F,N,L,West Court,34,Summerfields,,Ingatestone
+2021-06-24,755000,CM4 9LN,S,N,F,116,,Mill Road,Stock,Ingatestone
+2021-06-24,367000,CM4 9EE,S,N,F,10,,High Street,,Ingatestone
+2021-06-24,865000,CM4 0QW,D,N,F,Five Farthings,,Nine Ashes Road,Blackmore,Ingatestone
+2021-06-24,525000,CM4 0QP,D,N,F,1,,Meadow Rise,Blackmore,Ingatestone
+2021-06-24,745000,CM4 0QH,D,N,F,Holly Lodge,,The Green,Blackmore,Ingatestone
+2021-06-21,550000,CM4 9DJ,T,N,F,10,,Dakyn Drive,Stock,Ingatestone
+2021-06-21,750000,CM4 9AL,D,N,F,15,,Rye Walk,,Ingatestone
+2021-06-21,509000,CM4 0RN,S,N,F,Little Jordan,,Church Street,Blackmore,Ingatestone
+2021-06-18,1507500,CM4 0HS,D,N,F,Yew Tree House,,Mill Green Road,Fryerning,Ingatestone
+2021-06-17,750000,CM4 0FR,D,Y,F,29,,Little Ridings Lane,,Ingatestone
+2021-06-16,495000,CM4 9ND,S,N,F,11,,Falkner Close,Stock,Ingatestone
+2021-06-16,1972000,CM4 9LY,D,N,F,7,,Common Road,Stock,Ingatestone
+2021-06-16,395000,CM4 9DU,F,N,L,"Peerage House, 23",Apartment 4,High Street,,Ingatestone
+2021-06-15,1085000,CM4 9PN,D,N,F,Flintlocks,,Stock Road,Stock,Ingatestone
+2021-06-14,715000,CM4 0AJ,S,N,F,55,,The Furlongs,,Ingatestone
+2021-06-11,615000,CM4 0QY,S,N,F,27,,Meadow Rise,Blackmore,Ingatestone
+2021-06-11,530000,CM4 0QN,S,N,F,28,,Woollard Way,Blackmore,Ingatestone
+2021-06-11,515000,CM4 0AQ,T,N,F,51,,Pemberton Avenue,,Ingatestone
+2021-06-11,450000,CM4 0AH,T,N,F,14,,The Furlongs,,Ingatestone
+2021-06-07,525000,CM4 9AA,D,N,F,3A,,Roman Road,,Ingatestone
+2021-06-04,1300000,CM4 0HA,D,N,F,The Farthings,,Pennys Lane,Margaretting,Ingatestone
+2021-06-03,860000,CM4 9HL,D,N,F,53,,Tor Bryan,,Ingatestone
+2021-06-02,765000,CM4 0JD,T,N,F,Woodside Cottages,20,Mapletree Lane,Mill Green,Ingatestone
+2021-06-01,1280000,CM4 9SR,D,N,F,2,,Woodland Close,,Ingatestone
+2021-05-28,437000,CM4 9JP,S,N,F,Affric,,Maldon Road,Margaretting,Ingatestone
+2021-05-28,747500,CM4 9BY,T,N,F,1,,Lilystone Close,Stock,Ingatestone
+2021-05-28,525000,CM4 0SA,S,Y,F,Sandford Paddocks,5,Red Rose Lane,Blackmore,Ingatestone
+2021-05-28,435000,CM4 0QX,S,N,F,2,,Blackmore Road,Blackmore,Ingatestone
+2021-05-28,605000,CM4 0DD,T,N,F,17,,Fryerning Lane,,Ingatestone
+2021-05-28,499995,CM4 0AA,T,N,F,17,,Norton Road,,Ingatestone
+2021-05-21,650000,CM4 0SA,D,Y,F,Sandford Paddocks,6,Red Rose Lane,Blackmore,Ingatestone
+2021-05-21,435000,CM4 0FQ,F,N,L,Bell Mead Heights,13,Bell Mead,,Ingatestone
+2021-05-10,600000,CM4 9HH,D,N,F,26,,Wakelin Chase,,Ingatestone
+2021-05-07,895000,CM4 0SA,D,Y,F,Sandford Paddocks,1,Red Rose Lane,Blackmore,Ingatestone
+2021-05-07,525000,CM4 0SA,S,Y,F,Sandford Paddocks,4,Red Rose Lane,Blackmore,Ingatestone
+2021-05-04,675000,CM4 0SA,D,Y,F,Sandford Paddocks,8,Red Rose Lane,Blackmore,Ingatestone
+2021-04-30,1675000,CM4 9PS,D,N,F,15,,Hereward Mount,Stock,Ingatestone
+2021-04-30,315000,CM4 9AW,S,N,F,10,,Court View,,Ingatestone
+2021-04-30,650000,CM4 0SA,D,Y,F,Sandford Paddocks,7,Red Rose Lane,Blackmore,Ingatestone
+2021-04-30,1500000,CM4 0RH,D,N,F,Woodside House,,Mill Green Road,Mill Green,Ingatestone
+2021-04-30,680000,CM4 0LQ,S,N,L,Spurriers Farm Barns,1,,Norton Heath,Ingatestone
+2021-04-30,415000,CM4 0JD,T,N,F,Woodside Cottages,23,Mapletree Lane,Mill Green,Ingatestone
+2021-04-27,650000,CM4 9JB,S,N,F,Montrose,,Main Road,Margaretting,Ingatestone
+2021-04-27,580000,CM4 9AN,S,N,F,22,,Burnt House Lane,,Ingatestone
+2021-04-23,735000,CM4 9AX,D,N,F,6,,Tudor Close,,Ingatestone
+2021-04-23,380000,CM4 9AS,S,N,F,21,,Ridgeway,,Ingatestone
+2021-04-23,537500,CM4 0LN,S,N,F,4,,Norton Lane,Norton Mandeville,Ingatestone
+2021-04-19,600000,CM4 9AX,D,N,F,5,,Tudor Close,,Ingatestone
+2021-04-19,775000,CM4 0FR,D,Y,F,30,,Little Ridings Lane,,Ingatestone
+2021-04-16,500000,CM4 0FP,F,N,L,8,,Crown Mews,,Ingatestone
+2021-04-16,1625000,CM4 0BY,D,N,F,Snapdragons,,Market Place,,Ingatestone
+2021-04-12,287000,CM4 9DU,F,N,L,"Peerage House, 23",Apartment 3,High Street,,Ingatestone
+2021-04-09,370000,CM4 9DU,F,N,L,"Peerage House, 23",Apartment 2,High Street,,Ingatestone
+2021-04-07,800000,CM4 9EF,S,N,F,25,,Pine Drive,,Ingatestone
+2021-04-01,580000,CM4 9PH,D,N,F,The Hamlet,1,Stock Road,Stock,Ingatestone
+2021-04-01,450000,CM4 9AE,T,N,F,The Homestead,,Roman Road,,Ingatestone
+2021-04-01,635000,CM4 0AE,S,N,F,60,,The Meads,,Ingatestone
+2021-03-31,3800000,CM4 0HX,D,N,F,Mill House,,Mill Green Road,Mill Green,Ingatestone
+2021-03-30,443000,CM4 9DR,S,N,F,18,,Hare Bridge Crescent,,Ingatestone
+2021-03-29,1225000,CM4 9LP,D,N,F,Spruce Lodge,,Common Lane,Stock,Ingatestone
+2021-03-26,1300000,CM4 9PU,D,N,F,Marigolds,,Marigold Lane,Stock,Ingatestone
+2021-03-26,735000,CM4 9AG,D,N,F,Acorns,,Heybridge Road,,Ingatestone
+2021-03-25,685000,CM4 9HF,D,N,F,19,,Whadden Chase,,Ingatestone
+2021-03-24,685000,CM4 9HF,D,N,F,11,,Whadden Chase,,Ingatestone
+2021-03-24,730000,CM4 9DE,S,N,F,29,,Back Lane,Stock,Ingatestone
+2021-03-23,975000,CM4 9RY,D,N,F,9A,,Mill Lane,Stock,Ingatestone
+2021-03-23,500000,CM4 9EG,S,N,F,20,,Pine Close,,Ingatestone
+2021-03-23,745000,CM4 9ED,D,N,F,Berkeley Cottage,,High Street,,Ingatestone
+2021-03-23,578000,CM4 0JT,S,N,F,Highfield Cottages,2,Blackmore Road,Blackmore,Ingatestone
+2021-03-23,1075000,CM4 0DQ,D,N,F,40,,Willow Green,,Ingatestone
+2021-03-22,430000,CM4 9LY,D,N,F,"The Poppy, 20",,Common Road,Stock,Ingatestone
+2021-03-22,410000,CM4 9LY,D,N,F,22,,Common Road,Stock,Ingatestone
+2021-03-19,643000,CM4 9DT,D,N,F,35,,Park Drive,,Ingatestone
+2021-03-19,548000,CM4 0RX,D,N,F,1A,,Orchard Piece,Blackmore,Ingatestone
+2021-03-19,1620000,CM4 0NQ,T,N,F,Trueloves Manor,,Trueloves Lane,,Ingatestone
+2021-03-19,710000,CM4 0DD,S,N,F,12,,Fryerning Lane,,Ingatestone
+2021-03-17,2130000,CM4 0NP,D,N,F,Wasketts,,Blackmore Road,Fryerning,Ingatestone
+2021-03-15,725000,CM4 9HG,D,N,F,25,,The Heythrop,,Ingatestone
+2021-03-15,965000,CM4 0FR,D,Y,F,18,,Little Ridings Lane,,Ingatestone
+2021-03-12,352000,CM4 9EE,F,N,L,"Rose Court, 3 - 5",Flat 4,High Street,,Ingatestone
+2021-03-12,1000000,CM4 0LP,D,N,F,Readings Farm,,,Norton Heath,Ingatestone
+2021-03-11,685000,CM4 0SA,D,Y,F,Sandford Paddocks,2,Red Rose Lane,Blackmore,Ingatestone
+2021-03-11,995000,CM4 0BQ,D,N,F,3,,The Paddocks,,Ingatestone
+2021-03-11,602500,CM4 0AB,S,N,F,34,,Norton Road,,Ingatestone
+2021-03-09,480000,CM4 0QY,S,N,F,37,,Meadow Rise,Blackmore,Ingatestone
+2021-03-08,775000,CM4 9HF,D,N,F,32,,Whadden Chase,,Ingatestone
+2021-03-08,775000,CM4 0SA,D,Y,F,Sandford Paddocks,3,Red Rose Lane,Blackmore,Ingatestone
+2021-03-05,1155000,CM4 9EY,S,N,F,126,,High Street,,Ingatestone
+2021-03-05,475000,CM4 9DR,S,N,F,47,,Hare Bridge Crescent,,Ingatestone
+2021-03-05,670000,CM4 0AL,S,N,F,109,,The Furlongs,,Ingatestone
+2021-03-03,2100000,CM4 0JB,D,N,F,White House Farm Barns,Fairview,Mill Green Road,Mill Green,Ingatestone
+2021-03-02,700000,CM4 9HG,D,N,F,17,,The Heythrop,,Ingatestone
+2021-03-02,1710000,CM4 9HD,D,N,F,3,,Maltings Chase,,Ingatestone
+2021-03-02,365000,CM4 9DU,F,N,L,25C,,High Street,,Ingatestone
+2021-03-02,2075000,CM4 0JW,D,N,F,Saybridge Lodge,,Spriggs Lane,Blackmore,Ingatestone
+2021-03-01,740000,CM4 9HF,D,N,F,23,,Whadden Chase,,Ingatestone
+2021-03-01,1140000,CM4 0HA,D,N,F,Westridge,,Pennys Lane,Margaretting,Ingatestone
+2021-02-26,485000,CM4 9JG,S,N,F,17,,Maldon Road,Margaretting,Ingatestone
+2021-02-24,414500,CM4 9AN,T,N,F,42,,Burnt House Lane,,Ingatestone
+2021-02-24,485000,CM4 0QN,D,N,F,16,,Woollard Way,Blackmore,Ingatestone
+2021-02-22,2170000,CM4 9LR,D,N,F,142,,Mill Road,Stock,Ingatestone
+2021-02-19,575000,CM4 0QP,D,N,F,15,,Meadow Rise,Blackmore,Ingatestone
+2021-02-19,500000,CM4 0EA,D,N,F,Handley Barns Farm Cottage,,Dog Kennel Lane,Mill Green,Ingatestone
+2021-02-18,595000,CM4 0BQ,S,N,F,31,,The Paddocks,,Ingatestone
+2021-02-17,1315000,CM4 0DD,S,N,F,18,,Fryerning Lane,,Ingatestone
+2021-02-15,565000,CM4 0AH,S,N,F,50,,The Furlongs,,Ingatestone
+2021-02-12,1850000,CM4 9QG,D,N,F,Templeton House,,Honeypot Lane,Stock,Ingatestone
+2021-02-12,890000,CM4 0JY,D,N,F,"Eleanor, 172",,Nine Ashes Road,Nine Ashes,Ingatestone
+2021-02-12,3350000,CM4 0HY,D,N,F,Handley Edge,,Mill Green Road,Mill Green,Ingatestone
+2021-02-12,410717,CM4 0FQ,F,N,L,Bell Mead Heights,15,Bell Mead,,Ingatestone
+2021-02-09,257500,CM4 0AT,F,N,L,49,Flat 6,High Street,,Ingatestone
+2021-02-08,510000,CM4 0DE,D,N,F,71,,Fryerning Lane,,Ingatestone
+2021-02-08,425000,CM4 0AG,S,N,F,12,,Pemberton Avenue,,Ingatestone
+2021-02-05,1050000,CM4 9PD,D,N,F,Tremoille,,Ingatestone Road,Stock,Ingatestone
+2021-02-05,895000,CM4 0LA,D,N,F,261,,Nine Ashes Road,Nine Ashes,Ingatestone
+2021-02-04,927000,CM4 9QE,D,N,F,1,,Ottley Place,Margaretting,Ingatestone
+2021-02-04,565000,CM4 0AL,S,N,F,113,,The Furlongs,,Ingatestone
+2021-02-02,330000,CM4 9AW,S,N,F,8,,Court View,,Ingatestone
+2021-01-29,197000,CM4 0TE,F,N,L,4,,Mellor Close,,Ingatestone
+2021-01-29,461000,CM4 0QX,S,N,F,4,,Blackmore Road,Blackmore,Ingatestone
+2021-01-25,430000,CM4 9ER,T,N,F,29,,Fairfield,,Ingatestone
+2021-01-25,582000,CM4 9AF,S,N,F,7,,The Leas,,Ingatestone
+2021-01-25,420000,CM4 0JY,S,N,F,163,,Nine Ashes Road,Nine Ashes,Ingatestone
+2021-01-25,750000,CM4 0BQ,D,N,F,20,,The Paddocks,,Ingatestone
+2021-01-25,470000,CM4 0AD,T,N,F,21,,The Meads,,Ingatestone
+2021-01-22,460000,CM4 0BX,T,N,F,6,,Bakers Mews,,Ingatestone
+2021-01-19,580000,CM4 9PH,D,N,F,The Hamlet,2,Stock Road,Stock,Ingatestone
+2021-01-19,640000,CM4 0AH,S,N,F,3,,The Furlongs,,Ingatestone
+2021-01-18,1685000,CM4 0HZ,D,N,F,Meadow Croft,,Hardings Lane,,Ingatestone
+2021-01-15,650000,CM4 9BA,D,N,F,18,,High Street,Stock,Ingatestone
+2021-01-15,512500,CM4 0QL,D,N,F,5,,Woollard Way,Blackmore,Ingatestone
+2021-01-11,655000,CM4 9EF,S,N,F,7,,Pine Drive,,Ingatestone
+2021-01-06,450000,CM4 9AR,S,N,F,4,,Marks Close,,Ingatestone
+2021-01-06,650000,CM4 0AH,S,N,F,8,,The Furlongs,,Ingatestone
+2021-01-05,580000,CM4 9DZ,S,N,F,65,,Stock Lane,,Ingatestone
+2021-01-05,965500,CM4 9BW,D,N,F,58,,High Street,Stock,Ingatestone
+2021-01-04,752500,CM4 9RJ,D,N,F,The Old Pump House,,Downham Road,Stock,Ingatestone
+2021-01-04,745000,CM4 0FP,T,N,F,3,,Crown Mews,,Ingatestone

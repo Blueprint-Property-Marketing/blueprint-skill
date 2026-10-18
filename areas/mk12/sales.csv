@@ -1,0 +1,985 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-19,285000,MK12 6HH,T,N,F,69,,Myrtle Bank,Stacey Bushes,Milton Keynes
+2026-08-18,300000,MK12 5AX,T,N,F,40,,Peel Road,Wolverton,Milton Keynes
+2026-08-14,345000,MK12 5BS,S,N,F,103,,Aylesbury Street West,Wolverton,Milton Keynes
+2026-08-06,255000,MK12 6AR,T,N,F,40,,Barkers Croft,Greenleys,Milton Keynes
+2026-08-04,308000,MK12 5AQ,T,N,F,140,,Cambridge Street,Wolverton,Milton Keynes
+2026-07-29,265000,MK12 6LR,T,N,F,7,,Catchpole Close,Greenleys,Milton Keynes
+2026-07-29,375000,MK12 5GJ,S,N,F,24,,Meacham Meadow,Wolverton,Milton Keynes
+2026-07-29,353000,MK12 5AX,T,N,F,34,,Peel Road,Wolverton,Milton Keynes
+2026-07-29,320000,MK12 5AD,T,N,F,17,,Cambridge Street,Wolverton,Milton Keynes
+2026-07-28,351000,MK12 5DW,S,N,F,20,,Marina Drive,Wolverton,Milton Keynes
+2026-07-23,385000,MK12 5HQ,T,N,F,89,,Victoria Street,Wolverton,Milton Keynes
+2026-07-21,255000,MK12 5AX,T,N,F,42,,Peel Road,Wolverton,Milton Keynes
+2026-07-20,280000,MK12 5FE,T,N,F,4,,Oriel Close,Wolverton,Milton Keynes
+2026-07-10,333000,MK12 5BD,T,N,F,50,,Western Road,Wolverton,Milton Keynes
+2026-07-01,275000,MK12 5JB,T,N,F,33,,Buckingham Street,Wolverton,Milton Keynes
+2026-06-26,295000,MK12 6JA,T,N,F,10,,Hodge Lea Lane,Hodge Lea,Milton Keynes
+2026-06-25,240000,MK12 6AS,T,N,F,43,,Lamberts Croft,Greenleys,Milton Keynes
+2026-06-23,430000,MK12 5BH,T,N,F,78,,Jersey Road,Wolverton,Milton Keynes
+2026-06-19,460000,MK12 5QA,S,N,F,51,,Syward Row,Wolverton,Milton Keynes
+2026-06-19,276000,MK12 5DH,T,N,F,44,,Radcliffe Street,Wolverton,Milton Keynes
+2026-06-19,115000,MK12 5DD,F,N,L,25,,Franklins Croft,Wolverton,Milton Keynes
+2026-06-18,280000,MK12 6AE,T,N,F,7,,Freeman Close,Greenleys,Milton Keynes
+2026-06-11,303000,MK12 5AH,T,N,F,90,,Cambridge Street,Wolverton,Milton Keynes
+2026-06-08,380500,MK12 5HP,T,N,F,40,,Oxford Street,Wolverton,Milton Keynes
+2026-06-05,195000,MK12 5FT,F,N,L,6,,Wodell Drive,Wolverton,Milton Keynes
+2026-06-05,210000,MK12 5FS,F,N,L,284,,Stratford Road,Wolverton,Milton Keynes
+2026-06-04,360000,MK12 5JW,T,N,F,70,,Church Street,Wolverton,Milton Keynes
+2026-06-02,190000,MK12 5GF,T,N,L,5,,Morgan Way,Wolverton,Milton Keynes
+2026-05-29,190000,MK12 5GH,F,N,L,27,,Addington Avenue,Wolverton,Milton Keynes
+2026-05-26,232000,MK12 6HG,T,N,F,112,,Myrtle Bank,Stacey Bushes,Milton Keynes
+2026-05-21,335000,MK12 6LF,S,N,F,12,,Oxman Lane,Greenleys,Milton Keynes
+2026-05-15,295000,MK12 5DS,S,N,F,207,,Windsor Street,Wolverton,Milton Keynes
+2026-05-14,399950,MK12 5HD,T,N,F,16,,Moon Street,Wolverton,Milton Keynes
+2026-05-14,305000,MK12 5AL,T,N,F,3,,Windsor Street,Wolverton,Milton Keynes
+2026-05-11,480000,MK12 5AJ,T,N,F,42,,Cambridge Street,Wolverton,Milton Keynes
+2026-05-07,374250,MK12 5HF,T,N,F,30,,Moon Street,Wolverton,Milton Keynes
+2026-04-24,475000,MK12 5RU,D,N,F,5,,Rose Court,Wolverton,Milton Keynes
+2026-04-23,139500,MK12 5GB,T,N,L,48,,Butter Row,Wolverton,Milton Keynes
+2026-04-08,59500,MK12 5FN,F,N,L,Trevithick Court,18,Lonsdale,Wolverton,Milton Keynes
+2026-04-07,272500,MK12 5HY,T,N,F,9,,Aylesbury Street,Wolverton,Milton Keynes
+2026-04-01,320000,MK12 5AT,T,N,F,52,,Windsor Street,Wolverton,Milton Keynes
+2026-03-31,245000,MK12 5FG,S,N,F,92,,Oriel Close,Wolverton,Milton Keynes
+2026-03-27,200000,MK12 6JZ,F,N,L,2,,Calvie Croft,Hodge Lea,Milton Keynes
+2026-03-27,330000,MK12 5HY,T,N,F,23,,Aylesbury Street,Wolverton,Milton Keynes
+2026-03-20,245000,MK12 6AJ,T,N,F,4,,Pinders Croft,Greenleys,Milton Keynes
+2026-03-16,370000,MK12 5GB,S,N,F,13,,Butter Row,Wolverton,Milton Keynes
+2026-03-16,148000,MK12 5FZ,F,N,L,14,,Empress Matilda Gardens,Old Wolverton,Milton Keynes
+2026-02-27,330000,MK12 5AH,T,N,F,98,,Cambridge Street,Wolverton,Milton Keynes
+2026-02-06,297000,MK12 6JE,T,N,F,6,,Rossal Place,Hodge Lea,Milton Keynes
+2026-02-06,210000,MK12 5FZ,F,N,L,56,,Empress Matilda Gardens,Old Wolverton,Milton Keynes
+2026-02-05,265000,MK12 6HA,T,N,F,4,,Broomfield,Stacey Bushes,Milton Keynes
+2026-01-30,270000,MK12 6LQ,T,N,F,10,,Thresher Grove,Greenleys,Milton Keynes
+2026-01-30,287000,MK12 5AX,T,N,F,27,,Peel Road,Wolverton,Milton Keynes
+2026-01-29,345000,MK12 5HW,T,N,F,49A,,Green Lane,Wolverton,Milton Keynes
+2026-01-19,261082,MK12 5GH,D,N,F,67,,Addington Avenue,Wolverton,Milton Keynes
+2026-01-12,467000,MK12 5LL,S,N,F,6,,Wilkinson Crescent,Wolverton,Milton Keynes
+2025-12-22,425000,MK12 5GE,S,N,F,23,,Twiselton Heath,Wolverton,Milton Keynes
+2025-12-19,162000,MK12 5GJ,S,N,L,15,,Meacham Meadow,Wolverton,Milton Keynes
+2025-12-19,199000,MK12 5FT,F,N,L,11,,Wodell Drive,Wolverton,Milton Keynes
+2025-12-19,316000,MK12 5AX,T,N,F,29,,Peel Road,Wolverton,Milton Keynes
+2025-12-18,380000,MK12 5LT,T,N,F,80,,Stratford Road,Wolverton,Milton Keynes
+2025-12-18,280000,MK12 5AJ,T,N,F,40,,Cambridge Street,Wolverton,Milton Keynes
+2025-12-08,275000,MK12 5BN,T,N,F,3,,Jersey Road,Wolverton,Milton Keynes
+2025-12-02,290000,MK12 6LL,S,N,F,17,,Sokeman Close,Greenleys,Milton Keynes
+2025-12-02,385000,MK12 6BT,D,Y,F,8,,Buttercup Close,Greenleys,Milton Keynes
+2025-12-02,360000,MK12 5HL,T,N,F,28,,Victoria Street,Wolverton,Milton Keynes
+2025-12-01,157500,MK12 5RR,F,N,L,6,,Frank Atter Croft,Wolverton,Milton Keynes
+2025-11-28,360000,MK12 6JA,T,N,F,1,,Hodge Lea Lane,Hodge Lea,Milton Keynes
+2025-11-28,340000,MK12 5ED,S,N,F,20,,Southern Way,Wolverton,Milton Keynes
+2025-11-28,235000,MK12 5DB,T,N,F,6,,Horners Croft,Wolverton,Milton Keynes
+2025-11-26,190000,MK12 5GP,F,N,L,12,,Mccorquodale Road,Wolverton,Milton Keynes
+2025-11-21,325000,MK12 5HP,T,N,F,8,,Oxford Street,Wolverton,Milton Keynes
+2025-11-20,355500,MK12 5AY,T,N,F,47,,Western Road,Wolverton,Milton Keynes
+2025-11-20,340000,MK12 5AT,T,N,F,100,,Windsor Street,Wolverton,Milton Keynes
+2025-11-18,236000,MK12 6AN,T,N,F,42,,Drovers Croft,Greenleys,Milton Keynes
+2025-11-14,277000,MK12 5HZ,T,N,F,20,,Aylesbury Street,Wolverton,Milton Keynes
+2025-11-14,385000,MK12 5FW,S,N,F,56,,King Stephen Meadows,Old Wolverton,Milton Keynes
+2025-11-12,235000,MK12 5BY,T,N,F,7,,Anson Road,Wolverton,Milton Keynes
+2025-11-11,235000,MK12 5JA,T,N,F,7,,Buckingham Street,Wolverton,Milton Keynes
+2025-11-11,270000,MK12 5GE,T,N,F,29,,Twiselton Heath,Wolverton,Milton Keynes
+2025-11-10,295000,MK12 5AQ,T,N,F,148,,Cambridge Street,Wolverton,Milton Keynes
+2025-11-07,250000,MK12 6AN,T,N,F,38,,Drovers Croft,Greenleys,Milton Keynes
+2025-11-07,345000,MK12 5LA,T,N,F,145,,Church Street,Wolverton,Milton Keynes
+2025-10-31,491500,MK12 5GE,D,N,F,3,,Twiselton Heath,Wolverton,Milton Keynes
+2025-10-30,360000,MK12 5BD,T,N,F,48,,Western Road,Wolverton,Milton Keynes
+2025-10-28,300000,MK12 5HH,T,N,F,5,,Osborne Street,Wolverton,Milton Keynes
+2025-10-27,259500,MK12 6LJ,T,N,F,10,,Beeward Close,Greenleys,Milton Keynes
+2025-10-27,352800,MK12 6BW,S,Y,F,16,,Foxglove Road,Greenleys,Milton Keynes
+2025-10-27,324000,MK12 6BW,S,Y,F,12,,Foxglove Road,Greenleys,Milton Keynes
+2025-10-27,290000,MK12 5AX,T,N,F,61,,Peel Road,Wolverton,Milton Keynes
+2025-10-24,390000,MK12 6BW,D,Y,F,71,,Foxglove Road,Greenleys,Milton Keynes
+2025-10-24,310000,MK12 6BW,S,Y,F,14,,Foxglove Road,Greenleys,Milton Keynes
+2025-10-24,370000,MK12 5GE,S,N,F,51,,Twiselton Heath,Wolverton,Milton Keynes
+2025-10-17,365750,MK12 6BT,S,Y,F,6,,Buttercup Close,Greenleys,Milton Keynes
+2025-10-16,468000,MK12 5LS,S,N,F,57,,Stratford Road,Wolverton,Milton Keynes
+2025-10-16,350000,MK12 5HW,T,N,F,103,,Green Lane,Wolverton,Milton Keynes
+2025-10-14,363000,MK12 5AQ,T,N,F,116,,Cambridge Street,Wolverton,Milton Keynes
+2025-10-10,320000,MK12 6AG,S,N,F,5,,Plowman Close,Greenleys,Milton Keynes
+2025-10-09,250000,MK12 6AJ,T,N,F,14,,Pinders Croft,Greenleys,Milton Keynes
+2025-10-06,345000,MK12 5LB,T,N,F,123,,Church Street,Wolverton,Milton Keynes
+2025-10-03,363000,MK12 5PD,S,N,F,17,,Trinity Road,Old Wolverton,Milton Keynes
+2025-10-03,230000,MK12 5JS,T,N,L,146A,,Church Street,Wolverton,Milton Keynes
+2025-10-03,385000,MK12 5DN,S,N,F,73,,Stacey Avenue,Wolverton,Milton Keynes
+2025-09-30,499995,MK12 5PB,D,N,F,76,,Trinity Road,Old Wolverton,Milton Keynes
+2025-09-30,320000,MK12 5HR,T,N,F,24,,Bedford Street,Wolverton,Milton Keynes
+2025-09-26,375250,MK12 6BT,D,Y,F,9,,Buttercup Close,Greenleys,Milton Keynes
+2025-09-26,385000,MK12 6BS,S,Y,F,107,,Field Lane,Greenleys,Milton Keynes
+2025-09-26,370000,MK12 6BS,S,Y,F,103,,Field Lane,Greenleys,Milton Keynes
+2025-09-26,344500,MK12 5AW,T,N,F,135,,Windsor Street,Wolverton,Milton Keynes
+2025-09-25,300000,MK12 5PJ,S,N,F,38,,Longville,Old Wolverton,Milton Keynes
+2025-09-24,365750,MK12 6BT,S,Y,F,7,,Buttercup Close,Greenleys,Milton Keynes
+2025-09-24,306500,MK12 5FE,T,N,F,11,,Oriel Close,Wolverton,Milton Keynes
+2025-09-19,500000,MK12 5AQ,T,N,F,150,,Cambridge Street,Wolverton,Milton Keynes
+2025-09-18,220000,MK12 6AN,T,N,F,12,,Drovers Croft,Greenleys,Milton Keynes
+2025-09-17,385000,MK12 5FZ,S,N,F,22,,Empress Matilda Gardens,Old Wolverton,Milton Keynes
+2025-09-04,165000,MK12 5DB,T,N,L,47,,Horners Croft,Wolverton,Milton Keynes
+2025-08-29,400000,MK12 6BW,D,Y,F,3,,Foxglove Road,Greenleys,Milton Keynes
+2025-08-29,383150,MK12 6BT,D,Y,F,11,,Buttercup Close,Greenleys,Milton Keynes
+2025-08-29,220000,MK12 6AH,T,N,F,36,,Haywards Croft,Greenleys,Milton Keynes
+2025-08-28,160000,MK12 5GF,T,N,L,4,,Morgan Way,Wolverton,Milton Keynes
+2025-08-28,330000,MK12 5AS,T,N,F,124,,Windsor Street,Wolverton,Milton Keynes
+2025-08-26,380000,MK12 6BS,S,Y,F,105,,Field Lane,Greenleys,Milton Keynes
+2025-08-22,385000,MK12 6BT,D,Y,F,1,,Buttercup Close,Greenleys,Milton Keynes
+2025-08-22,324000,MK12 5GY,T,N,F,27,,Turneys Drive,Wolverton Mill,Milton Keynes
+2025-08-22,84500,MK12 5FN,F,N,L,Trevithick Court,23,Lonsdale,Wolverton,Milton Keynes
+2025-08-22,276500,MK12 5BN,D,N,F,The Old Workshop,,Jersey Road,Wolverton,Milton Keynes
+2025-08-21,345000,MK12 5SE,T,N,F,49,,Bengrove,Wolverton Mill,Milton Keynes
+2025-08-20,214000,MK12 5FU,D,N,F,7,,Trevelyan Way,Old Wolverton,Milton Keynes
+2025-08-18,360000,MK12 6BW,S,Y,F,1,,Foxglove Road,Greenleys,Milton Keynes
+2025-08-18,373450,MK12 6BT,D,Y,F,12,,Buttercup Close,Greenleys,Milton Keynes
+2025-08-18,418000,MK12 5GS,D,N,F,4,,Townlands Crescent,Wolverton Mill,Milton Keynes
+2025-08-15,320000,MK12 5LU,T,N,F,93,,Stratford Road,Wolverton,Milton Keynes
+2025-08-08,300000,MK12 5BQ,T,N,F,97,,Jersey Road,Wolverton,Milton Keynes
+2025-08-08,254000,MK12 5BH,T,N,F,70,,Jersey Road,Wolverton,Milton Keynes
+2025-08-05,465000,MK12 6BS,D,Y,F,101,,Field Lane,Greenleys,Milton Keynes
+2025-08-05,350000,MK12 5HG,T,N,F,39,,Victoria Street,Wolverton,Milton Keynes
+2025-08-04,183000,MK12 6AP,F,N,L,43,,Calvards Croft,Greenleys,Milton Keynes
+2025-07-28,500000,MK12 6LE,D,N,F,5,,Harvester Close,Greenleys,Milton Keynes
+2025-07-25,200000,MK12 6HA,T,N,F,4,,Broomfield,Stacey Bushes,Milton Keynes
+2025-07-24,335000,MK12 5FW,T,N,F,48,,King Stephen Meadows,Old Wolverton,Milton Keynes
+2025-07-18,150000,MK12 5GQ,T,N,L,14,,Bridge Hook Close,Wolverton Mill,Milton Keynes
+2025-07-16,187500,MK12 5AU,F,N,L,18A,,Windsor Street,Wolverton,Milton Keynes
+2025-07-16,340000,MK12 5AS,T,N,F,136,,Windsor Street,Wolverton,Milton Keynes
+2025-07-14,125000,MK12 6AL,F,N,L,48,,Wainers Croft,Greenleys,Milton Keynes
+2025-07-11,315000,MK12 6LG,S,N,F,7,,Oxman Lane,Greenleys,Milton Keynes
+2025-07-09,280000,MK12 5FE,T,N,F,40,,Oriel Close,Wolverton,Milton Keynes
+2025-07-08,370000,MK12 5EH,S,N,F,21,,Southern Way,Wolverton,Milton Keynes
+2025-07-07,200000,MK12 5FS,F,N,L,281,,Stratford Road,Wolverton,Milton Keynes
+2025-07-04,342400,MK12 5AQ,T,N,F,134,,Cambridge Street,Wolverton,Milton Keynes
+2025-06-30,230000,MK12 5FR,T,N,L,Hamilton House,85,Lonsdale,Wolverton,Milton Keynes
+2025-06-27,347000,MK12 5GH,S,N,F,65,,Addington Avenue,Wolverton,Milton Keynes
+2025-06-27,205000,MK12 5FT,F,N,L,14,,Wodell Drive,Wolverton,Milton Keynes
+2025-06-23,383000,MK12 5PB,S,N,F,42,,Trinity Road,Old Wolverton,Milton Keynes
+2025-06-19,197000,MK12 5GX,F,N,L,14,,East Moor Drive,Wolverton Mill,Milton Keynes
+2025-06-19,452000,MK12 5DU,S,N,F,38,,Stacey Avenue,Wolverton,Milton Keynes
+2025-06-13,210000,MK12 5FU,T,N,F,8,,Trevelyan Way,Old Wolverton,Milton Keynes
+2025-06-13,340000,MK12 5FT,S,N,F,22,,Wodell Drive,Wolverton,Milton Keynes
+2025-06-06,260000,MK12 6LR,T,N,F,13,,Catchpole Close,Greenleys,Milton Keynes
+2025-06-05,275000,MK12 5BP,T,N,F,102,,Anson Road,Wolverton,Milton Keynes
+2025-06-03,300000,MK12 5JA,T,N,F,5,,Buckingham Street,Wolverton,Milton Keynes
+2025-05-30,285000,MK12 5BH,T,N,F,82,,Jersey Road,Wolverton,Milton Keynes
+2025-05-27,286000,MK12 6LR,S,N,F,3,,Catchpole Close,Greenleys,Milton Keynes
+2025-05-23,315000,MK12 5HP,T,N,F,6,,Oxford Street,Wolverton,Milton Keynes
+2025-05-22,305000,MK12 5GJ,T,N,F,33,,Meacham Meadow,Wolverton,Milton Keynes
+2025-05-19,440000,MK12 5LL,D,N,F,2,,Wilkinson Crescent,Wolverton,Milton Keynes
+2025-05-16,120000,MK12 5FR,F,N,L,Hamilton House,82,Lonsdale,Wolverton,Milton Keynes
+2025-05-16,310000,MK12 5FF,D,N,F,5,,Christchurch Grove,Wolverton,Milton Keynes
+2025-05-15,375000,MK12 5HW,T,N,F,61,,Green Lane,Wolverton,Milton Keynes
+2025-05-09,412500,MK12 5HQ,T,N,F,91,,Victoria Street,Wolverton,Milton Keynes
+2025-05-08,355875,MK12 5QA,S,N,F,21,,Syward Row,Wolverton,Milton Keynes
+2025-05-02,230000,MK12 6AH,T,N,F,11,,Haywards Croft,Greenleys,Milton Keynes
+2025-05-01,318500,MK12 5BQ,T,N,F,87,,Jersey Road,Wolverton,Milton Keynes
+2025-04-25,208000,MK12 5GX,F,N,L,18,,East Moor Drive,Wolverton Mill,Milton Keynes
+2025-04-24,300000,MK12 5FU,S,N,F,17,,Trevelyan Way,Old Wolverton,Milton Keynes
+2025-04-23,320000,MK12 5DX,S,N,F,8,,Gloucester Road,Wolverton,Milton Keynes
+2025-04-15,270000,MK12 5HR,T,N,F,33,,Bedford Street,Wolverton,Milton Keynes
+2025-04-14,297500,MK12 6JN,S,N,F,1,,Alladale Place,Hodge Lea,Milton Keynes
+2025-04-14,200000,MK12 5GP,F,N,L,44,,Mccorquodale Road,Wolverton,Milton Keynes
+2025-04-04,300000,MK12 5FP,F,N,L,Trevithick Court,53,Lonsdale,Wolverton,Milton Keynes
+2025-03-31,335000,MK12 5PD,S,N,F,21,,Trinity Road,Old Wolverton,Milton Keynes
+2025-03-31,350000,MK12 5JR,T,N,F,128,,Church Street,Wolverton,Milton Keynes
+2025-03-31,242000,MK12 5FR,F,N,L,Hamilton House,86,Lonsdale,Wolverton,Milton Keynes
+2025-03-31,330500,MK12 5AN,T,N,F,109,,Windsor Street,Wolverton,Milton Keynes
+2025-03-28,395000,MK12 6LF,D,N,F,20,,Oxman Lane,Greenleys,Milton Keynes
+2025-03-28,335000,MK12 5PD,S,N,F,7,,Trinity Road,Old Wolverton,Milton Keynes
+2025-03-28,420000,MK12 5GT,D,N,F,46,,Walker Avenue,Wolverton Mill,Milton Keynes
+2025-03-27,305000,MK12 5EH,S,N,F,81,,Southern Way,Wolverton,Milton Keynes
+2025-03-26,242000,MK12 5LW,T,N,F,44,,Stratford Road,Wolverton,Milton Keynes
+2025-03-25,345000,MK12 5DW,S,N,F,20,,Marina Drive,Wolverton,Milton Keynes
+2025-03-25,430000,MK12 5DU,D,N,F,36,,Stacey Avenue,Wolverton,Milton Keynes
+2025-03-24,280000,MK12 5HU,T,N,F,64,,Aylesbury Street,Wolverton,Milton Keynes
+2025-03-24,290000,MK12 5BQ,T,N,F,91,,Jersey Road,Wolverton,Milton Keynes
+2025-03-21,355000,MK12 5BQ,T,N,F,57,,Jersey Road,Wolverton,Milton Keynes
+2025-03-20,112500,MK12 5FP,F,N,L,Trevithick Court,62,Lonsdale,Wolverton,Milton Keynes
+2025-03-17,270000,MK12 5ED,T,N,F,56,,Southern Way,Wolverton,Milton Keynes
+2025-03-14,290000,MK12 6LF,S,N,F,60,,Oxman Lane,Greenleys,Milton Keynes
+2025-03-14,160000,MK12 5JU,T,N,L,264,,Church Street,Wolverton,Milton Keynes
+2025-03-14,300000,MK12 5AL,T,N,F,19,,Windsor Street,Wolverton,Milton Keynes
+2025-03-13,327000,MK12 5HJ,T,N,F,86,,Victoria Street,Wolverton,Milton Keynes
+2025-03-12,335000,MK12 5LB,T,N,F,131,,Church Street,Wolverton,Milton Keynes
+2025-03-12,580000,MK12 5BS,D,N,F,117,,Aylesbury Street West,Wolverton,Milton Keynes
+2025-03-12,285000,MK12 5AS,T,N,F,116,,Windsor Street,Wolverton,Milton Keynes
+2025-03-07,355000,MK12 5GF,S,N,F,7,,Morgan Way,Wolverton,Milton Keynes
+2025-03-03,394000,MK12 5AU,T,N,F,16,,Windsor Street,Wolverton,Milton Keynes
+2025-02-28,270000,MK12 6HN,T,N,F,16,,Aldermead,Stacey Bushes,Milton Keynes
+2025-02-28,280000,MK12 5FW,T,N,F,30,,King Stephen Meadows,Old Wolverton,Milton Keynes
+2025-02-28,292000,MK12 5BJ,T,N,F,20,,Jersey Road,Wolverton,Milton Keynes
+2025-02-27,297500,MK12 5HT,T,N,F,79,,Aylesbury Street,Wolverton,Milton Keynes
+2025-02-25,285000,MK12 5AH,T,N,F,92,,Cambridge Street,Wolverton,Milton Keynes
+2025-02-25,550000,MK12 5AF,S,N,F,4,,Western Road,Wolverton,Milton Keynes
+2025-02-21,320000,MK12 5LA,T,N,F,143,,Church Street,Wolverton,Milton Keynes
+2025-02-21,380000,MK12 5JR,T,N,F,130,,Church Street,Wolverton,Milton Keynes
+2025-02-21,385000,MK12 5GY,S,N,F,7,,Turneys Drive,Wolverton Mill,Milton Keynes
+2025-02-19,350000,MK12 5HH,T,N,F,27,,Osborne Street,Wolverton,Milton Keynes
+2025-02-17,287500,MK12 5LX,S,N,F,109,,Stratford Road,Wolverton,Milton Keynes
+2025-02-10,350000,MK12 6LL,S,N,F,21,,Sokeman Close,Greenleys,Milton Keynes
+2025-01-31,242000,MK12 6LL,T,N,F,30,,Sokeman Close,Greenleys,Milton Keynes
+2025-01-31,370000,MK12 5QU,S,N,F,4,,Carter Grove,Wolverton,Milton Keynes
+2025-01-31,325000,MK12 5EA,S,N,F,87,,Gloucester Road,Wolverton,Milton Keynes
+2025-01-31,368000,MK12 5EA,S,N,F,69,,Gloucester Road,Wolverton,Milton Keynes
+2025-01-30,360000,MK12 5HL,T,N,F,44,,Victoria Street,Wolverton,Milton Keynes
+2025-01-30,288000,MK12 5AX,T,N,F,54,,Peel Road,Wolverton,Milton Keynes
+2025-01-29,275000,MK12 5JZ,T,N,F,165,,Church Street,Wolverton,Milton Keynes
+2025-01-27,108000,MK12 5GQ,F,N,L,41,,Bridge Hook Close,Wolverton Mill,Milton Keynes
+2025-01-22,270000,MK12 5BH,T,N,F,52,,Jersey Road,Wolverton,Milton Keynes
+2025-01-20,325000,MK12 5SL,S,N,F,Wharfside Cottage,2,Old Wolverton Road,Old Wolverton,Milton Keynes
+2025-01-20,365000,MK12 5GJ,D,N,F,29,,Meacham Meadow,Wolverton,Milton Keynes
+2025-01-15,333000,MK12 5GB,S,N,F,40,,Butter Row,Wolverton,Milton Keynes
+2025-01-13,198000,MK12 6AH,T,N,F,17,,Haywards Croft,Greenleys,Milton Keynes
+2025-01-08,252500,MK12 5QA,T,N,F,9,,Syward Row,Wolverton,Milton Keynes
+2025-01-03,375000,MK12 5AD,T,N,F,19,,Cambridge Street,Wolverton,Milton Keynes
+2024-12-20,275000,MK12 5RR,T,N,F,23,,Frank Atter Croft,Wolverton,Milton Keynes
+2024-12-20,320000,MK12 5FE,T,N,F,67,,Oriel Close,Wolverton,Milton Keynes
+2024-12-18,325000,MK12 6LL,S,N,F,7,,Sokeman Close,Greenleys,Milton Keynes
+2024-12-17,372500,MK12 5PE,S,N,F,2,,Manor Road,Old Wolverton,Milton Keynes
+2024-12-16,317000,MK12 5SG,T,N,F,22,,Bengrove,Wolverton Mill,Milton Keynes
+2024-12-16,425000,MK12 5PR,F,N,L,4,,Watermill Lane,Wolverton Mill,Milton Keynes
+2024-12-16,440000,MK12 5LL,D,N,F,22,,Wilkinson Crescent,Wolverton,Milton Keynes
+2024-12-13,310000,MK12 5SG,T,N,F,34,,Bengrove,Wolverton Mill,Milton Keynes
+2024-12-13,370000,MK12 5QU,S,N,F,27,,Carter Grove,Wolverton,Milton Keynes
+2024-12-10,290000,MK12 5DH,T,N,F,42,,Radcliffe Street,Wolverton,Milton Keynes
+2024-12-09,322500,MK12 6LF,S,N,F,34,,Oxman Lane,Greenleys,Milton Keynes
+2024-12-09,114000,MK12 5RR,T,N,L,3,,Frank Atter Croft,Wolverton,Milton Keynes
+2024-12-09,295000,MK12 5BJ,T,N,F,18,,Jersey Road,Wolverton,Milton Keynes
+2024-12-09,245000,MK12 5AX,S,N,F,18,,Peel Road,Wolverton,Milton Keynes
+2024-12-09,250000,MK12 5AT,T,N,F,46,,Windsor Street,Wolverton,Milton Keynes
+2024-12-06,379000,MK12 5PL,D,N,F,7,,Old Wolverton Road,Old Wolverton,Milton Keynes
+2024-12-06,212000,MK12 5FP,F,N,L,Trevithick Court,37,Lonsdale,Wolverton,Milton Keynes
+2024-12-05,335000,MK12 5BQ,T,N,F,61,,Jersey Road,Wolverton,Milton Keynes
+2024-11-29,280000,MK12 6HF,T,N,F,92,,White Alder,Stacey Bushes,Milton Keynes
+2024-11-29,340000,MK12 5AT,T,N,F,66,,Windsor Street,Wolverton,Milton Keynes
+2024-11-22,325000,MK12 6LF,D,N,F,46,,Oxman Lane,Greenleys,Milton Keynes
+2024-11-22,262500,MK12 6HQ,T,N,F,52,,Myrtle Bank,Stacey Bushes,Milton Keynes
+2024-11-22,267000,MK12 6HE,T,N,F,45,,White Alder,Stacey Bushes,Milton Keynes
+2024-11-22,315000,MK12 5FZ,S,N,F,42,,Empress Matilda Gardens,Old Wolverton,Milton Keynes
+2024-11-22,282000,MK12 5FW,T,N,F,24,,King Stephen Meadows,Old Wolverton,Milton Keynes
+2024-11-18,268500,MK12 6AW,T,N,F,15,,Bounds Croft,Greenleys,Milton Keynes
+2024-11-15,350000,MK12 5GB,S,N,F,21,,Butter Row,Wolverton,Milton Keynes
+2024-11-15,380000,MK12 5DW,S,N,F,16,,Marina Drive,Wolverton,Milton Keynes
+2024-11-12,350000,MK12 5PG,S,N,F,7,,Caxton Road,Old Wolverton,Milton Keynes
+2024-11-07,337500,MK12 5FD,T,N,F,136,,Stratford Road,Wolverton,Milton Keynes
+2024-11-01,335000,MK12 5AT,T,N,F,106,,Windsor Street,Wolverton,Milton Keynes
+2024-10-31,315000,MK12 6LL,S,N,F,16,,Sokeman Close,Greenleys,Milton Keynes
+2024-10-31,112000,MK12 5RR,T,N,L,2,,Frank Atter Croft,Wolverton,Milton Keynes
+2024-10-30,220000,MK12 6HJ,T,N,F,91,,Myrtle Bank,Stacey Bushes,Milton Keynes
+2024-10-30,350000,MK12 5LB,T,N,F,121,,Church Street,Wolverton,Milton Keynes
+2024-10-25,238000,MK12 6AP,T,N,F,32,,Calvards Croft,Greenleys,Milton Keynes
+2024-10-18,130000,MK12 5GJ,T,N,L,19,,Meacham Meadow,Wolverton,Milton Keynes
+2024-10-18,317500,MK12 5FE,T,N,F,66,,Oriel Close,Wolverton,Milton Keynes
+2024-10-11,245000,MK12 6AR,T,N,F,29,,Barkers Croft,Greenleys,Milton Keynes
+2024-10-11,295000,MK12 5DH,T,N,F,40,,Radcliffe Street,Wolverton,Milton Keynes
+2024-10-11,325000,MK12 5AL,T,N,F,23,,Windsor Street,Wolverton,Milton Keynes
+2024-10-08,325000,MK12 5DU,S,N,F,46,,Stacey Avenue,Wolverton,Milton Keynes
+2024-10-04,250000,MK12 5JW,T,N,F,114,,Church Street,Wolverton,Milton Keynes
+2024-10-04,320000,MK12 5JD,T,N,F,58,,Buckingham Street,Wolverton,Milton Keynes
+2024-10-04,330000,MK12 5GA,T,N,F,15,,Llewellyn Chase,Old Wolverton,Milton Keynes
+2024-10-02,120000,MK12 6AW,T,N,L,16,,Bounds Croft,Greenleys,Milton Keynes
+2024-09-30,450000,MK12 5LL,D,N,F,4,,Wilkinson Crescent,Wolverton,Milton Keynes
+2024-09-27,92400,MK12 5GP,F,N,L,28,,Mccorquodale Road,Wolverton,Milton Keynes
+2024-09-20,340000,MK12 5GP,T,N,F,25,,Mccorquodale Road,Wolverton,Milton Keynes
+2024-09-16,390000,MK12 5GH,S,N,F,24,,Addington Avenue,Wolverton,Milton Keynes
+2024-09-12,595000,MK12 5LX,D,N,F,111,,Stratford Road,Wolverton,Milton Keynes
+2024-09-12,295000,MK12 5JA,T,N,F,21,,Buckingham Street,Wolverton,Milton Keynes
+2024-09-12,400000,MK12 5DU,S,N,F,42,,Stacey Avenue,Wolverton,Milton Keynes
+2024-09-12,400000,MK12 5AH,T,N,F,96,,Cambridge Street,Wolverton,Milton Keynes
+2024-09-06,289500,MK12 5JU,T,N,F,262,,Church Street,Wolverton,Milton Keynes
+2024-09-05,342500,MK12 5DW,S,N,F,14,,Marina Drive,Wolverton,Milton Keynes
+2024-08-30,260000,MK12 6HE,T,N,F,95,,White Alder,Stacey Bushes,Milton Keynes
+2024-08-30,275000,MK12 5BJ,T,N,F,42,,Jersey Road,Wolverton,Milton Keynes
+2024-08-27,353550,MK12 5LW,D,N,F,44A,,Stratford Road,Wolverton,Milton Keynes
+2024-08-27,399000,MK12 5HQ,T,N,F,57,,Victoria Street,Wolverton,Milton Keynes
+2024-08-22,347500,MK12 5QA,T,N,F,31,,Syward Row,Wolverton,Milton Keynes
+2024-08-22,320000,MK12 5PG,S,N,F,15,,Caxton Road,Old Wolverton,Milton Keynes
+2024-08-21,330000,MK12 5DW,S,N,F,56,,Marina Drive,Wolverton,Milton Keynes
+2024-08-21,303750,MK12 5BP,S,N,F,82,,Anson Road,Wolverton,Milton Keynes
+2024-08-16,275000,MK12 5HR,T,N,F,11,,Bedford Street,Wolverton,Milton Keynes
+2024-08-16,365000,MK12 5FZ,S,N,F,30,,Empress Matilda Gardens,Old Wolverton,Milton Keynes
+2024-08-16,185000,MK12 5FT,F,N,L,2,,Wodell Drive,Wolverton,Milton Keynes
+2024-08-12,245000,MK12 6HN,T,N,F,15,,Aldermead,Stacey Bushes,Milton Keynes
+2024-08-09,215000,MK12 6JZ,F,N,L,11,,Calvie Croft,Hodge Lea,Milton Keynes
+2024-08-02,260000,MK12 6HE,T,N,F,51,,White Alder,Stacey Bushes,Milton Keynes
+2024-07-31,220000,MK12 6LR,T,N,F,12,,Catchpole Close,Greenleys,Milton Keynes
+2024-07-31,290000,MK12 5HP,T,N,F,12,,Oxford Street,Wolverton,Milton Keynes
+2024-07-26,207000,MK12 5FZ,F,N,L,52,,Empress Matilda Gardens,Old Wolverton,Milton Keynes
+2024-07-26,155000,MK12 5FL,F,N,L,Hamilton House,32,Lonsdale,Wolverton,Milton Keynes
+2024-07-26,255000,MK12 5FG,S,N,F,92,,Oriel Close,Wolverton,Milton Keynes
+2024-07-23,295000,MK12 6LQ,S,N,F,7,,Thresher Grove,Greenleys,Milton Keynes
+2024-07-23,215000,MK12 6LP,T,N,F,44,,Field Lane,Greenleys,Milton Keynes
+2024-07-23,162000,MK12 5FJ,T,N,L,Triangle Building,34,Wolverton Park Road,Wolverton,Milton Keynes
+2024-07-23,315000,MK12 5EG,S,N,F,14,,Woodland View,Wolverton,Milton Keynes
+2024-07-19,265000,MK12 6JN,T,N,F,4,,Alladale Place,Hodge Lea,Milton Keynes
+2024-07-12,595000,MK12 5LX,D,N,F,117,,Stratford Road,Wolverton,Milton Keynes
+2024-07-10,595000,MK12 5LX,T,N,F,115,,Stratford Road,Wolverton,Milton Keynes
+2024-07-10,303000,MK12 5HP,T,N,F,23,,Oxford Street,Wolverton,Milton Keynes
+2024-07-10,230000,MK12 5BX,T,N,F,4,,Anson Road,Wolverton,Milton Keynes
+2024-07-02,233000,MK12 5HZ,T,N,F,4,,Aylesbury Street,Wolverton,Milton Keynes
+2024-06-25,385000,MK12 5LD,T,N,F,97,,Church Street,Wolverton,Milton Keynes
+2024-06-18,337000,MK12 5HH,T,N,F,31,,Osborne Street,Wolverton,Milton Keynes
+2024-06-17,335000,MK12 5BW,T,N,F,49,,Anson Road,Wolverton,Milton Keynes
+2024-06-14,340000,MK12 5GB,S,N,F,75,,Butter Row,Wolverton,Milton Keynes
+2024-06-14,235000,MK12 5AR,S,N,F,52,,Furze Way,Wolverton,Milton Keynes
+2024-06-07,150000,MK12 6AR,T,N,F,31,,Barkers Croft,Greenleys,Milton Keynes
+2024-06-07,492500,MK12 5GY,D,N,F,10,,Turneys Drive,Wolverton Mill,Milton Keynes
+2024-06-07,315000,MK12 5AS,T,N,F,140,,Windsor Street,Wolverton,Milton Keynes
+2024-06-03,340000,MK12 5EB,S,N,F,54,,Stacey Avenue,Wolverton,Milton Keynes
+2024-05-31,267500,MK12 5JB,T,N,F,49,,Buckingham Street,Wolverton,Milton Keynes
+2024-05-30,300000,MK12 5FU,S,N,F,18,,Trevelyan Way,Old Wolverton,Milton Keynes
+2024-05-29,231000,MK12 6LL,T,N,F,26,,Sokeman Close,Greenleys,Milton Keynes
+2024-05-21,285000,MK12 5LU,T,N,F,90,,Stratford Road,Wolverton,Milton Keynes
+2024-05-17,308000,MK12 5AQ,T,N,F,136,,Cambridge Street,Wolverton,Milton Keynes
+2024-05-16,277000,MK12 5AH,T,N,F,76,,Cambridge Street,Wolverton,Milton Keynes
+2024-05-03,205000,MK12 5FU,T,N,F,6,,Trevelyan Way,Old Wolverton,Milton Keynes
+2024-05-01,235000,MK12 5HZ,T,N,F,6,,Aylesbury Street,Wolverton,Milton Keynes
+2024-04-30,315000,MK12 6AG,T,N,F,22,,Plowman Close,Greenleys,Milton Keynes
+2024-04-30,240000,MK12 5HP,T,N,F,19,,Oxford Street,Wolverton,Milton Keynes
+2024-04-26,335000,MK12 6LN,S,N,F,42,,Ardwell Lane,Greenleys,Milton Keynes
+2024-04-26,280000,MK12 6LG,S,N,F,17,,Oxman Lane,Greenleys,Milton Keynes
+2024-04-26,326000,MK12 5BQ,T,N,F,75,,Jersey Road,Wolverton,Milton Keynes
+2024-04-25,375000,MK12 5JT,T,N,F,220,,Church Street,Wolverton,Milton Keynes
+2024-04-25,90000,MK12 5GQ,F,N,L,77,,Bridge Hook Close,Wolverton Mill,Milton Keynes
+2024-04-23,350000,MK12 6JF,T,N,F,7,,Dalvina Place,Hodge Lea,Milton Keynes
+2024-04-19,307000,MK12 5PE,D,N,F,6,,Manor Road,Old Wolverton,Milton Keynes
+2024-04-15,375000,MK12 5QA,S,N,F,35,,Syward Row,Wolverton,Milton Keynes
+2024-04-09,200000,MK12 5BJ,T,N,F,30,,Jersey Road,Wolverton,Milton Keynes
+2024-03-28,400000,MK12 5QA,S,N,F,49,,Syward Row,Wolverton,Milton Keynes
+2024-03-28,112500,MK12 5FP,F,N,L,Trevithick Court,105,Lonsdale,Wolverton,Milton Keynes
+2024-03-28,300000,MK12 5BN,T,N,F,19,,Jersey Road,Wolverton,Milton Keynes
+2024-03-28,312500,MK12 5BH,T,N,F,96,,Jersey Road,Wolverton,Milton Keynes
+2024-03-26,365000,MK12 5GT,T,N,F,58,,Walker Avenue,Wolverton Mill,Milton Keynes
+2024-03-25,232000,MK12 5JW,T,N,F,108,,Church Street,Wolverton,Milton Keynes
+2024-03-22,220000,MK12 5HZ,T,N,F,2,,Aylesbury Street,Wolverton,Milton Keynes
+2024-03-22,380000,MK12 5HD,S,N,F,14,,Moon Street,Wolverton,Milton Keynes
+2024-03-22,271000,MK12 5DR,S,N,F,218,,Windsor Street,Wolverton,Milton Keynes
+2024-03-21,455000,MK12 5LL,S,N,F,46,,Wilkinson Crescent,Wolverton,Milton Keynes
+2024-03-20,297000,MK12 5HR,S,N,F,29,,Bedford Street,Wolverton,Milton Keynes
+2024-03-14,245000,MK12 5BH,T,N,F,50,,Jersey Road,Wolverton,Milton Keynes
+2024-03-08,357000,MK12 5AU,T,N,F,38,,Windsor Street,Wolverton,Milton Keynes
+2024-03-04,385000,MK12 5HL,T,N,F,44,,Victoria Street,Wolverton,Milton Keynes
+2024-02-29,142500,MK12 6AG,T,N,F,10,,Plowman Close,Greenleys,Milton Keynes
+2024-02-26,211000,MK12 5FZ,F,N,L,50,,Empress Matilda Gardens,Old Wolverton,Milton Keynes
+2024-02-16,265000,MK12 5JW,T,N,F,96,,Church Street,Wolverton,Milton Keynes
+2024-02-16,365000,MK12 5AU,T,N,F,6,,Windsor Street,Wolverton,Milton Keynes
+2024-02-15,220000,MK12 5FP,F,N,L,Trevithick Court,34,Lonsdale,Wolverton,Milton Keynes
+2024-02-09,150000,MK12 5QW,T,N,L,6,,Whiting Close,Wolverton,Milton Keynes
+2024-02-07,325000,MK12 5HP,T,N,F,44,,Oxford Street,Wolverton,Milton Keynes
+2024-02-02,202000,MK12 5FN,F,N,L,Trevithick Court,94,Lonsdale,Wolverton,Milton Keynes
+2024-02-01,245000,MK12 6HL,T,N,F,19,,Buckthorn,Stacey Bushes,Milton Keynes
+2024-01-26,300000,MK12 5JU,T,N,F,230,,Church Street,Wolverton,Milton Keynes
+2024-01-25,285000,MK12 5GH,D,N,F,26,,Addington Avenue,Wolverton,Milton Keynes
+2024-01-22,295500,MK12 5DW,S,N,F,10,,Marina Drive,Wolverton,Milton Keynes
+2024-01-19,170000,MK12 5FT,F,N,L,1,,Wodell Drive,Wolverton,Milton Keynes
+2024-01-12,325000,MK12 5JB,T,N,F,65,,Buckingham Street,Wolverton,Milton Keynes
+2024-01-12,425000,MK12 5DT,S,N,F,29,,Marina Drive,Wolverton,Milton Keynes
+2024-01-12,385000,MK12 5DN,S,N,F,65,,Stacey Avenue,Wolverton,Milton Keynes
+2024-01-05,295000,MK12 5DN,S,N,F,29,,Stacey Avenue,Wolverton,Milton Keynes
+2023-12-31,282000,MK12 5HL,T,N,F,26,,Victoria Street,Wolverton,Milton Keynes
+2023-12-20,355000,MK12 5PE,S,N,F,3,,Manor Road,Old Wolverton,Milton Keynes
+2023-12-20,260000,MK12 5LD,T,N,F,93,,Church Street,Wolverton,Milton Keynes
+2023-12-20,86000,MK12 5GQ,F,N,L,55,,Bridge Hook Close,Wolverton Mill,Milton Keynes
+2023-12-20,257500,MK12 5FE,T,N,F,20,,Oriel Close,Wolverton,Milton Keynes
+2023-12-19,375000,MK12 5BS,S,N,F,89,,Aylesbury Street West,Wolverton,Milton Keynes
+2023-12-15,272500,MK12 5HU,T,N,F,62,,Aylesbury Street,Wolverton,Milton Keynes
+2023-12-15,327999,MK12 5GS,T,N,F,6,,Townlands Crescent,Wolverton Mill,Milton Keynes
+2023-12-15,80800,MK12 5GP,F,N,L,49,,Mccorquodale Road,Wolverton,Milton Keynes
+2023-12-15,280000,MK12 5EH,T,N,F,89,,Southern Way,Wolverton,Milton Keynes
+2023-12-12,350000,MK12 5HE,S,N,F,11,,Moon Street,Wolverton,Milton Keynes
+2023-12-12,330000,MK12 5FG,D,N,F,79,,Oriel Close,Wolverton,Milton Keynes
+2023-12-11,377500,MK12 5GJ,S,N,F,31,,Meacham Meadow,Wolverton,Milton Keynes
+2023-12-08,325000,MK12 5HR,T,N,F,8,,Bedford Street,Wolverton,Milton Keynes
+2023-11-30,310000,MK12 5AX,T,N,F,19,,Peel Road,Wolverton,Milton Keynes
+2023-11-24,245000,MK12 6HL,T,N,F,13,,Buckthorn,Stacey Bushes,Milton Keynes
+2023-11-23,132750,MK12 5GD,T,N,L,9,,Orchard Grove,Wolverton,Milton Keynes
+2023-11-20,290000,MK12 5HL,T,N,F,18,,Victoria Street,Wolverton,Milton Keynes
+2023-11-20,285000,MK12 5FW,S,N,F,38,,King Stephen Meadows,Old Wolverton,Milton Keynes
+2023-11-17,255000,MK12 5HT,T,N,F,83,,Aylesbury Street,Wolverton,Milton Keynes
+2023-11-17,375000,MK12 5GJ,S,N,F,18,,Meacham Meadow,Wolverton,Milton Keynes
+2023-11-10,285000,MK12 5LT,T,N,F,72,,Stratford Road,Wolverton,Milton Keynes
+2023-11-10,425000,MK12 5LL,D,N,F,20,,Wilkinson Crescent,Wolverton,Milton Keynes
+2023-11-10,362500,MK12 5HW,S,N,F,95,,Green Lane,Wolverton,Milton Keynes
+2023-11-10,345000,MK12 5HW,T,N,F,91,,Green Lane,Wolverton,Milton Keynes
+2023-11-10,255000,MK12 5HR,T,N,F,36,,Bedford Street,Wolverton,Milton Keynes
+2023-11-10,345000,MK12 5GB,S,N,F,77,,Butter Row,Wolverton,Milton Keynes
+2023-11-07,350000,MK12 5FG,T,N,F,78,,Oriel Close,Wolverton,Milton Keynes
+2023-11-03,130000,MK12 6LH,S,N,F,4,,Gleeman Close,Greenleys,Milton Keynes
+2023-11-03,477500,MK12 5GE,D,N,F,17,,Twiselton Heath,Wolverton,Milton Keynes
+2023-11-03,350000,MK12 5GE,S,N,F,13,,Twiselton Heath,Wolverton,Milton Keynes
+2023-11-01,147000,MK12 6LP,T,N,L,10,,Field Lane,Greenleys,Milton Keynes
+2023-10-31,282000,MK12 6LQ,S,N,F,22,,Thresher Grove,Greenleys,Milton Keynes
+2023-10-25,249995,MK12 5GE,T,N,F,29,,Twiselton Heath,Wolverton,Milton Keynes
+2023-10-24,85000,MK12 5FL,F,N,L,Hamilton House,22,Lonsdale,Wolverton,Milton Keynes
+2023-10-20,66000,MK12 6LP,F,N,L,24,,Field Lane,Greenleys,Milton Keynes
+2023-10-20,297000,MK12 6HE,S,N,F,35,,White Alder,Stacey Bushes,Milton Keynes
+2023-10-19,350000,MK12 5JS,T,N,F,184,,Church Street,Wolverton,Milton Keynes
+2023-10-16,117500,MK12 6AL,F,N,L,21,,Wainers Croft,Greenleys,Milton Keynes
+2023-10-06,395000,MK12 5QA,T,N,F,15,,Syward Row,Wolverton,Milton Keynes
+2023-10-02,320000,MK12 6JQ,T,N,F,19,,Kildonan Place,Hodge Lea,Milton Keynes
+2023-09-29,347000,MK12 5HN,T,N,F,7,,Green Lane,Wolverton,Milton Keynes
+2023-09-28,237500,MK12 5AP,S,N,F,55,,Furze Way,Wolverton,Milton Keynes
+2023-09-27,305000,MK12 5AE,T,N,F,51,,Cambridge Street,Wolverton,Milton Keynes
+2023-09-26,280000,MK12 5HY,T,N,F,15,,Aylesbury Street,Wolverton,Milton Keynes
+2023-09-26,315000,MK12 5BN,T,N,F,31,,Jersey Road,Wolverton,Milton Keynes
+2023-09-22,90000,MK12 6JU,S,N,L,12,,Golspie Croft,Hodge Lea,Milton Keynes
+2023-09-22,343000,MK12 5HJ,T,N,F,70,,Victoria Street,Wolverton,Milton Keynes
+2023-09-22,375000,MK12 5EA,S,N,F,65,,Gloucester Road,Wolverton,Milton Keynes
+2023-09-18,250000,MK12 5QA,T,N,F,29,,Syward Row,Wolverton,Milton Keynes
+2023-09-15,275000,MK12 5EE,S,N,F,16,,St Johns Crescent,Wolverton,Milton Keynes
+2023-09-11,205000,MK12 6JZ,F,N,L,3,,Calvie Croft,Hodge Lea,Milton Keynes
+2023-09-11,291000,MK12 5HU,T,N,F,74,,Aylesbury Street,Wolverton,Milton Keynes
+2023-09-08,330000,MK12 6AE,T,N,F,3,,Freeman Close,Greenleys,Milton Keynes
+2023-09-06,350000,MK12 5GN,T,N,F,10,,Barr Piece,Wolverton,Milton Keynes
+2023-09-05,370000,MK12 5GH,T,N,F,29,,Addington Avenue,Wolverton,Milton Keynes
+2023-09-01,170000,MK12 6DA,F,N,L,26,,Grangers Croft,Hodge Lea,Milton Keynes
+2023-09-01,365000,MK12 5BU,S,N,F,102,,Aylesbury Street West,Wolverton,Milton Keynes
+2023-08-31,235000,MK12 6LQ,S,N,F,14,,Thresher Grove,Greenleys,Milton Keynes
+2023-08-31,310000,MK12 6AE,T,N,F,18,,Freeman Close,Greenleys,Milton Keynes
+2023-08-31,325000,MK12 5FW,S,N,F,3,,King Stephen Meadows,Old Wolverton,Milton Keynes
+2023-08-25,275000,MK12 6HQ,T,N,F,34,,Myrtle Bank,Stacey Bushes,Milton Keynes
+2023-08-25,290000,MK12 5HU,T,N,F,72,,Aylesbury Street,Wolverton,Milton Keynes
+2023-08-21,88500,MK12 5FW,T,N,L,32,,King Stephen Meadows,Old Wolverton,Milton Keynes
+2023-08-18,315000,MK12 5GN,T,N,F,40,,Barr Piece,Wolverton,Milton Keynes
+2023-08-18,300000,MK12 5AP,S,N,F,47,,Furze Way,Wolverton,Milton Keynes
+2023-08-18,350000,MK12 5AJ,T,N,F,28,,Cambridge Street,Wolverton,Milton Keynes
+2023-08-17,325000,MK12 5HJ,T,N,F,114,,Victoria Street,Wolverton,Milton Keynes
+2023-08-14,120000,MK12 5EX,F,N,L,43,,St Georges Way,Wolverton,Milton Keynes
+2023-08-11,253000,MK12 6JF,S,N,F,27,,Dalvina Place,Hodge Lea,Milton Keynes
+2023-08-11,292500,MK12 5LX,T,N,F,99,,Stratford Road,Wolverton,Milton Keynes
+2023-08-11,275000,MK12 5DY,S,N,F,110,,Gloucester Road,Wolverton,Milton Keynes
+2023-08-10,275000,MK12 5AE,D,N,F,83,,Cambridge Street,Wolverton,Milton Keynes
+2023-08-09,317000,MK12 5BQ,T,N,F,59,,Jersey Road,Wolverton,Milton Keynes
+2023-08-04,99000,MK12 5QU,F,N,L,3,,Carter Grove,Wolverton,Milton Keynes
+2023-08-03,290000,MK12 5PU,S,N,F,4,,Vickers Way,Wolverton,Milton Keynes
+2023-07-31,350000,MK12 5GB,T,N,F,37,,Butter Row,Wolverton,Milton Keynes
+2023-07-28,130000,MK12 5RR,F,N,L,1,,Frank Atter Croft,Wolverton,Milton Keynes
+2023-07-28,112000,MK12 5GJ,T,N,L,5,,Meacham Meadow,Wolverton,Milton Keynes
+2023-07-28,305000,MK12 5AT,T,N,F,50,,Windsor Street,Wolverton,Milton Keynes
+2023-07-27,195000,MK12 5FP,F,N,L,Trevithick Court,55,Lonsdale,Wolverton,Milton Keynes
+2023-07-26,245000,MK12 6HJ,T,N,F,113,,Myrtle Bank,Stacey Bushes,Milton Keynes
+2023-07-21,300000,MK12 6AQ,T,N,F,5,,Tillman Close,Greenleys,Milton Keynes
+2023-07-21,275000,MK12 5AX,T,N,F,50,,Peel Road,Wolverton,Milton Keynes
+2023-07-21,326000,MK12 5AL,T,N,F,27,,Windsor Street,Wolverton,Milton Keynes
+2023-07-20,207500,MK12 5FL,F,N,L,Hamilton House,41,Lonsdale,Wolverton,Milton Keynes
+2023-07-14,267000,MK12 5EH,S,N,F,7,,Southern Way,Wolverton,Milton Keynes
+2023-07-13,285000,MK12 6HG,T,N,F,98,,Myrtle Bank,Stacey Bushes,Milton Keynes
+2023-07-07,275000,MK12 6HH,S,N,F,47,,Myrtle Bank,Stacey Bushes,Milton Keynes
+2023-07-07,320000,MK12 5DT,S,N,F,61,,Marina Drive,Wolverton,Milton Keynes
+2023-07-07,371000,MK12 5AU,T,N,F,22,,Windsor Street,Wolverton,Milton Keynes
+2023-07-03,200000,MK12 6AD,S,N,F,8,,Herdman Close,Greenleys,Milton Keynes
+2023-06-30,330000,MK12 6LT,D,N,F,41,,Ardwell Lane,Greenleys,Milton Keynes
+2023-06-30,346500,MK12 5HH,T,N,F,9,,Osborne Street,Wolverton,Milton Keynes
+2023-06-30,300000,MK12 5DP,S,N,F,191,,Windsor Street,Wolverton,Milton Keynes
+2023-06-27,248000,MK12 5FN,F,N,L,Trevithick Court,90,Lonsdale,Wolverton,Milton Keynes
+2023-06-26,246500,MK12 6AR,T,N,F,8,,Barkers Croft,Greenleys,Milton Keynes
+2023-06-23,140000,MK12 6DA,T,N,L,8,,Grangers Croft,Hodge Lea,Milton Keynes
+2023-06-23,425000,MK12 5QU,S,N,F,2,,Carter Grove,Wolverton,Milton Keynes
+2023-06-23,315000,MK12 5GP,T,N,F,19,,Mccorquodale Road,Wolverton,Milton Keynes
+2023-06-20,377000,MK12 6JL,T,N,F,7,,Ravigill Place,Hodge Lea,Milton Keynes
+2023-06-20,270000,MK12 5JB,T,N,F,31,,Buckingham Street,Wolverton,Milton Keynes
+2023-06-20,82000,MK12 5GQ,F,N,L,63,,Bridge Hook Close,Wolverton Mill,Milton Keynes
+2023-06-20,375000,MK12 5BA,S,N,F,16,,Eton Crescent,Wolverton,Milton Keynes
+2023-06-16,302000,MK12 5GJ,T,N,F,33,,Meacham Meadow,Wolverton,Milton Keynes
+2023-06-16,370000,MK12 5GB,T,N,F,9,,Butter Row,Wolverton,Milton Keynes
+2023-06-14,235000,MK12 6LP,T,N,F,46,,Field Lane,Greenleys,Milton Keynes
+2023-06-09,262000,MK12 6HN,T,N,F,1,,Aldermead,Stacey Bushes,Milton Keynes
+2023-06-01,318000,MK12 5BY,T,N,F,13,,Anson Road,Wolverton,Milton Keynes
+2023-05-31,102000,MK12 5QA,F,N,L,1,,Syward Row,Wolverton,Milton Keynes
+2023-05-31,150000,MK12 5DB,F,N,L,26,,Horners Croft,Wolverton,Milton Keynes
+2023-05-26,200000,MK12 6LH,T,N,F,11,,Gleeman Close,Greenleys,Milton Keynes
+2023-05-26,355000,MK12 5PG,S,N,F,14A,,Caxton Road,Old Wolverton,Milton Keynes
+2023-05-16,320000,MK12 5PB,S,N,F,36,,Trinity Road,Old Wolverton,Milton Keynes
+2023-05-12,258000,MK12 5HR,T,N,F,14,,Bedford Street,Wolverton,Milton Keynes
+2023-05-09,245000,MK12 6LJ,T,N,F,13,,Beeward Close,Greenleys,Milton Keynes
+2023-05-06,362500,MK12 5FZ,D,N,F,24,,Empress Matilda Gardens,Old Wolverton,Milton Keynes
+2023-05-05,370000,MK12 5QA,T,N,F,5,,Syward Row,Wolverton,Milton Keynes
+2023-04-28,158500,MK12 6JE,F,N,L,13,,Rossal Place,Hodge Lea,Milton Keynes
+2023-04-28,267000,MK12 6AW,T,N,F,43,,Bounds Croft,Greenleys,Milton Keynes
+2023-04-27,182500,MK12 5FZ,F,N,L,8,,Empress Matilda Gardens,Old Wolverton,Milton Keynes
+2023-04-25,250000,MK12 5FP,F,N,L,Trevithick Court,45,Lonsdale,Wolverton,Milton Keynes
+2023-04-24,135000,MK12 5GB,T,N,L,48,,Butter Row,Wolverton,Milton Keynes
+2023-04-17,127500,MK12 6LR,T,N,F,2,,Catchpole Close,Greenleys,Milton Keynes
+2023-04-17,220471,MK12 6LR,S,N,L,2,,Catchpole Close,Greenleys,Milton Keynes
+2023-04-17,310000,MK12 6HB,D,N,F,19,,Lingfield,Stacey Bushes,Milton Keynes
+2023-04-14,240000,MK12 6AS,T,N,F,43,,Lamberts Croft,Greenleys,Milton Keynes
+2023-04-14,274000,MK12 6AD,S,N,F,1,,Herdman Close,Greenleys,Milton Keynes
+2023-04-14,280000,MK12 5HN,T,N,F,9,,Green Lane,Wolverton,Milton Keynes
+2023-04-14,200000,MK12 5DA,T,N,F,12,,Goddards Croft,Wolverton,Milton Keynes
+2023-04-06,328000,MK12 6JL,S,N,F,24,,Ravigill Place,Hodge Lea,Milton Keynes
+2023-04-06,331000,MK12 5AN,T,N,F,59,,Windsor Street,Wolverton,Milton Keynes
+2023-04-05,249000,MK12 6HH,T,N,F,29,,Myrtle Bank,Stacey Bushes,Milton Keynes
+2023-03-29,284000,MK12 5GB,T,N,F,51,,Butter Row,Wolverton,Milton Keynes
+2023-03-28,280000,MK12 6DA,T,N,F,31,,Grangers Croft,Hodge Lea,Milton Keynes
+2023-03-28,315000,MK12 5BW,T,N,F,57,,Anson Road,Wolverton,Milton Keynes
+2023-03-24,345000,MK12 6HB,S,N,F,30,,Lingfield,Stacey Bushes,Milton Keynes
+2023-03-17,230000,MK12 6LQ,S,N,F,7,,Thresher Grove,Greenleys,Milton Keynes
+2023-03-17,80000,MK12 5GP,F,N,L,51,,Mccorquodale Road,Wolverton,Milton Keynes
+2023-03-17,110000,MK12 5FN,F,N,L,Trevithick Court,80,Lonsdale,Wolverton,Milton Keynes
+2023-03-17,299000,MK12 5FE,D,N,F,16,,Oriel Close,Wolverton,Milton Keynes
+2023-03-13,260000,MK12 6JN,T,N,F,23,,Alladale Place,Hodge Lea,Milton Keynes
+2023-03-10,500000,MK12 5NN,D,N,F,8,,Manor Cottages,Old Wolverton,Milton Keynes
+2023-03-10,160000,MK12 5JZ,F,N,L,161B,,Church Street,Wolverton,Milton Keynes
+2023-03-10,370000,MK12 5DY,T,N,F,112,,Gloucester Road,Wolverton,Milton Keynes
+2023-03-07,270000,MK12 6DB,T,N,F,19,,Reeves Croft,Hodge Lea,Milton Keynes
+2023-02-28,225000,MK12 5AX,S,N,F,18,,Peel Road,Wolverton,Milton Keynes
+2023-02-27,360000,MK12 5HL,T,N,F,32,,Victoria Street,Wolverton,Milton Keynes
+2023-02-24,380000,MK12 5PD,D,N,F,43,,Trinity Road,Old Wolverton,Milton Keynes
+2023-02-24,250000,MK12 5JZ,T,N,F,169,,Church Street,Wolverton,Milton Keynes
+2023-02-23,325000,MK12 5BX,T,N,F,40,,Anson Road,Wolverton,Milton Keynes
+2023-02-21,375000,MK12 5AT,T,N,F,80,,Windsor Street,Wolverton,Milton Keynes
+2023-02-16,126000,MK12 5GN,T,N,L,39,,Barr Piece,Wolverton,Milton Keynes
+2023-02-16,390000,MK12 5AW,T,N,F,133,,Windsor Street,Wolverton,Milton Keynes
+2023-02-06,480000,MK12 5RU,D,N,F,6,,Rose Court,Wolverton,Milton Keynes
+2023-02-01,265000,MK12 5BJ,T,N,F,44,,Jersey Road,Wolverton,Milton Keynes
+2023-01-27,335000,MK12 5HT,T,N,F,77,,Aylesbury Street,Wolverton,Milton Keynes
+2023-01-25,350000,MK12 6JH,T,N,F,9,,Gledfield Place,Hodge Lea,Milton Keynes
+2023-01-23,350000,MK12 5BX,T,N,F,8,,Anson Road,Wolverton,Milton Keynes
+2023-01-20,275000,MK12 6HQ,T,N,F,2,,Myrtle Bank,Stacey Bushes,Milton Keynes
+2023-01-19,270000,MK12 5BQ,T,N,F,99,,Jersey Road,Wolverton,Milton Keynes
+2023-01-17,82500,MK12 5FG,F,N,L,84,,Oriel Close,Wolverton,Milton Keynes
+2023-01-13,202500,MK12 5GX,F,N,L,18,,East Moor Drive,Wolverton Mill,Milton Keynes
+2023-01-12,365000,MK12 5GS,T,N,F,7,,Townlands Crescent,Wolverton Mill,Milton Keynes
+2023-01-09,251000,MK12 6AP,T,N,F,18,,Calvards Croft,Greenleys,Milton Keynes
+2023-01-05,400000,MK12 5GJ,S,N,F,20,,Meacham Meadow,Wolverton,Milton Keynes
+2022-12-21,292000,MK12 6AF,T,N,F,6,,Cotman Close,Greenleys,Milton Keynes
+2022-12-21,285000,MK12 5JA,T,N,F,17,,Buckingham Street,Wolverton,Milton Keynes
+2022-12-20,190000,MK12 6JD,F,N,L,13,,Strathnaver Place,Hodge Lea,Milton Keynes
+2022-12-20,295000,MK12 5JA,T,N,F,13,,Buckingham Street,Wolverton,Milton Keynes
+2022-12-20,342000,MK12 5AW,T,N,F,115,,Windsor Street,Wolverton,Milton Keynes
+2022-12-19,215000,MK12 5FW,F,N,L,4,,King Stephen Meadows,Old Wolverton,Milton Keynes
+2022-12-15,175000,MK12 5FP,F,N,L,Trevithick Court,99,Lonsdale,Wolverton,Milton Keynes
+2022-12-15,100000,MK12 5FL,F,N,L,Hamilton House,13,Lonsdale,Wolverton,Milton Keynes
+2022-12-13,362000,MK12 5GB,S,N,F,79,,Butter Row,Wolverton,Milton Keynes
+2022-12-12,200000,MK12 5FL,F,N,L,Hamilton House,51,Lonsdale,Wolverton,Milton Keynes
+2022-12-12,325000,MK12 5BP,T,N,F,54,,Anson Road,Wolverton,Milton Keynes
+2022-12-12,295000,MK12 5BE,T,N,F,30,,Western Road,Wolverton,Milton Keynes
+2022-12-09,295000,MK12 6AB,S,N,F,24,,Buckman Close,Greenleys,Milton Keynes
+2022-12-09,310000,MK12 5JY,T,N,F,193,,Church Street,Wolverton,Milton Keynes
+2022-12-09,170000,MK12 5DB,T,N,L,47,,Horners Croft,Wolverton,Milton Keynes
+2022-12-09,350000,MK12 5BQ,T,N,F,57,,Jersey Road,Wolverton,Milton Keynes
+2022-12-02,225000,MK12 5GH,F,N,L,7,,Addington Avenue,Wolverton,Milton Keynes
+2022-11-30,375000,MK12 6JD,S,N,F,7,,Strathnaver Place,Hodge Lea,Milton Keynes
+2022-11-24,365000,MK12 5JT,T,N,F,204,,Church Street,Wolverton,Milton Keynes
+2022-11-24,205000,MK12 5FS,F,N,L,285,,Stratford Road,Wolverton,Milton Keynes
+2022-11-24,240000,MK12 5AX,T,N,F,3,,Peel Road,Wolverton,Milton Keynes
+2022-11-23,297000,MK12 5JB,T,N,F,55,,Buckingham Street,Wolverton,Milton Keynes
+2022-11-18,167500,MK12 6JL,F,N,L,16,,Ravigill Place,Hodge Lea,Milton Keynes
+2022-11-18,445000,MK12 5GS,D,N,F,24,,Townlands Crescent,Wolverton Mill,Milton Keynes
+2022-11-18,110000,MK12 5FL,F,N,L,Hamilton House,20,Lonsdale,Wolverton,Milton Keynes
+2022-11-18,355000,MK12 5AU,T,N,F,10,,Windsor Street,Wolverton,Milton Keynes
+2022-11-16,287000,MK12 5HS,T,N,F,61,,Aylesbury Street,Wolverton,Milton Keynes
+2022-11-14,305000,MK12 6LL,S,N,F,4,,Sokeman Close,Greenleys,Milton Keynes
+2022-11-09,660000,MK12 6LE,D,N,F,17,,Harvester Close,Greenleys,Milton Keynes
+2022-11-04,330000,MK12 6AF,T,N,F,17,,Cotman Close,Greenleys,Milton Keynes
+2022-11-04,323000,MK12 5LA,T,N,F,153,,Church Street,Wolverton,Milton Keynes
+2022-10-31,200000,MK12 6AN,T,N,F,16,,Drovers Croft,Greenleys,Milton Keynes
+2022-10-28,190000,MK12 5HU,F,N,L,76,,Aylesbury Street,Wolverton,Milton Keynes
+2022-10-27,80000,MK12 5FR,F,N,L,Hamilton House,76,Lonsdale,Wolverton,Milton Keynes
+2022-10-24,290000,MK12 5HR,T,N,F,26,,Bedford Street,Wolverton,Milton Keynes
+2022-10-21,200000,MK12 5HU,F,N,L,78C,,Aylesbury Street,Wolverton,Milton Keynes
+2022-10-21,222500,MK12 5FU,T,N,F,11,,Trevelyan Way,Old Wolverton,Milton Keynes
+2022-10-20,315000,MK12 5PQ,S,N,F,10,,Longville,Old Wolverton,Milton Keynes
+2022-10-19,517500,MK12 5PG,D,N,F,18,,Caxton Road,Old Wolverton,Milton Keynes
+2022-10-14,235000,MK12 5FP,F,N,L,Trevithick Court,102,Lonsdale,Wolverton,Milton Keynes
+2022-10-12,236500,MK12 6AP,T,N,F,31,,Calvards Croft,Greenleys,Milton Keynes
+2022-10-12,151250,MK12 5GJ,T,N,L,9,,Meacham Meadow,Wolverton,Milton Keynes
+2022-10-05,350000,MK12 5HH,T,N,F,13,,Osborne Street,Wolverton,Milton Keynes
+2022-09-30,208000,MK12 6JZ,F,N,L,7,,Calvie Croft,Hodge Lea,Milton Keynes
+2022-09-30,345000,MK12 5SE,S,Y,F,5,,Bengrove,Wolverton Mill,Milton Keynes
+2022-09-30,310000,MK12 5AY,T,N,F,27,,Western Road,Wolverton,Milton Keynes
+2022-09-29,352500,MK12 5EH,S,N,F,23,,Southern Way,Wolverton,Milton Keynes
+2022-09-28,470075,MK12 5DN,D,N,F,51,,Stacey Avenue,Wolverton,Milton Keynes
+2022-09-16,379500,MK12 5HG,T,N,F,29,,Victoria Street,Wolverton,Milton Keynes
+2022-09-16,323000,MK12 5BW,T,N,F,95,,Anson Road,Wolverton,Milton Keynes
+2022-09-16,330000,MK12 5BQ,T,N,F,105,,Jersey Road,Wolverton,Milton Keynes
+2022-09-15,312500,MK12 5GN,T,N,F,34,,Barr Piece,Wolverton,Milton Keynes
+2022-09-15,370000,MK12 5ED,S,N,F,48,,Southern Way,Wolverton,Milton Keynes
+2022-09-08,270000,MK12 6AR,T,N,F,42,,Barkers Croft,Greenleys,Milton Keynes
+2022-09-08,345000,MK12 5GY,T,N,F,11,,Turneys Drive,Wolverton Mill,Milton Keynes
+2022-09-06,355000,MK12 5HN,S,N,F,21,,Green Lane,Wolverton,Milton Keynes
+2022-09-05,266000,MK12 5SH,F,Y,L,"Court Lodge, 48",Flat 6,Bengrove,Wolverton Mill,Milton Keynes
+2022-08-31,269500,MK12 6HG,T,N,F,124,,Myrtle Bank,Stacey Bushes,Milton Keynes
+2022-08-26,400000,MK12 5SE,S,Y,F,1,,Bengrove,Wolverton Mill,Milton Keynes
+2022-08-23,280000,MK12 5HL,T,N,F,38,,Victoria Street,Wolverton,Milton Keynes
+2022-08-22,370000,MK12 5JY,T,N,F,181,,Church Street,Wolverton,Milton Keynes
+2022-08-22,266000,MK12 5JW,T,N,F,78,,Church Street,Wolverton,Milton Keynes
+2022-08-19,260000,MK12 5SH,F,Y,L,"Court Lodge, 48",Flat 3,Bengrove,Wolverton Mill,Milton Keynes
+2022-08-19,260000,MK12 5SH,F,Y,L,"Court Lodge, 48",Flat 4,Bengrove,Wolverton Mill,Milton Keynes
+2022-08-19,262500,MK12 5SH,F,Y,L,"Court Lodge, 48",Flat 2,Bengrove,Wolverton Mill,Milton Keynes
+2022-08-19,265000,MK12 5SH,F,Y,L,"Court Lodge, 48",Flat 5,Bengrove,Wolverton Mill,Milton Keynes
+2022-08-19,78000,MK12 5GP,F,N,L,47,,Mccorquodale Road,Wolverton,Milton Keynes
+2022-08-19,326000,MK12 5DZ,S,N,F,119,,Gloucester Road,Wolverton,Milton Keynes
+2022-08-18,245000,MK12 5FE,F,N,L,74,,Oriel Close,Wolverton,Milton Keynes
+2022-08-17,270000,MK12 5HZ,S,N,F,24,,Aylesbury Street,Wolverton,Milton Keynes
+2022-08-16,375000,MK12 5BS,S,N,F,107,,Aylesbury Street West,Wolverton,Milton Keynes
+2022-08-15,210000,MK12 5GP,F,N,L,50,,Mccorquodale Road,Wolverton,Milton Keynes
+2022-08-15,180000,MK12 5AT,T,N,F,50,,Windsor Street,Wolverton,Milton Keynes
+2022-08-15,305000,MK12 5AH,T,N,F,62,,Cambridge Street,Wolverton,Milton Keynes
+2022-08-12,250000,MK12 6HQ,T,N,F,50,,Myrtle Bank,Stacey Bushes,Milton Keynes
+2022-08-11,380000,MK12 5GA,T,N,F,18,,Llewellyn Chase,Old Wolverton,Milton Keynes
+2022-08-10,260000,MK12 5SH,F,Y,L,"Court Lodge, 48",Flat 1,Bengrove,Wolverton Mill,Milton Keynes
+2022-08-08,290000,MK12 5JB,T,N,F,67,,Buckingham Street,Wolverton,Milton Keynes
+2022-08-08,273000,MK12 5HP,T,N,F,31,,Oxford Street,Wolverton,Milton Keynes
+2022-08-02,352000,MK12 5PJ,S,N,F,40,,Longville,Old Wolverton,Milton Keynes
+2022-08-01,326000,MK12 5GN,T,N,F,22,,Barr Piece,Wolverton,Milton Keynes
+2022-08-01,227500,MK12 5DD,T,N,F,40,,Franklins Croft,Wolverton,Milton Keynes
+2022-07-29,290000,MK12 6JD,S,N,F,20,,Strathnaver Place,Hodge Lea,Milton Keynes
+2022-07-29,205000,MK12 5PB,S,N,F,22,,Trinity Road,Old Wolverton,Milton Keynes
+2022-07-29,290000,MK12 5LB,T,N,F,113,,Church Street,Wolverton,Milton Keynes
+2022-07-29,340000,MK12 5GP,T,N,F,18,,Mccorquodale Road,Wolverton,Milton Keynes
+2022-07-20,327000,MK12 6JD,S,N,F,18,,Strathnaver Place,Hodge Lea,Milton Keynes
+2022-07-20,370000,MK12 5SG,T,Y,F,46,,Bengrove,Wolverton Mill,Milton Keynes
+2022-07-20,315000,MK12 5SG,T,Y,F,44,,Bengrove,Wolverton Mill,Milton Keynes
+2022-07-15,315000,MK12 5SG,T,Y,F,42,,Bengrove,Wolverton Mill,Milton Keynes
+2022-07-15,367500,MK12 5SG,T,Y,F,40,,Bengrove,Wolverton Mill,Milton Keynes
+2022-07-15,290000,MK12 5FE,T,N,F,11,,Oriel Close,Wolverton,Milton Keynes
+2022-07-12,430000,MK12 5DU,D,N,F,36,,Stacey Avenue,Wolverton,Milton Keynes
+2022-07-08,355000,MK12 6JJ,S,N,F,27,,Dunvedin Place,Hodge Lea,Milton Keynes
+2022-06-30,185000,MK12 5LZ,S,N,F,"Bank Court Mews, 47",7,Stratford Road,Wolverton,Milton Keynes
+2022-06-28,235000,MK12 5FJ,F,N,L,Triangle Building,31,Wolverton Park Road,Wolverton,Milton Keynes
+2022-06-27,326000,MK12 5FE,T,N,F,36,,Oriel Close,Wolverton,Milton Keynes
+2022-06-20,250000,MK12 5JW,T,N,F,106,,Church Street,Wolverton,Milton Keynes
+2022-06-20,310000,MK12 5GP,T,N,F,20,,Mccorquodale Road,Wolverton,Milton Keynes
+2022-06-17,300000,MK12 6HE,T,N,F,33,,White Alder,Stacey Bushes,Milton Keynes
+2022-06-17,355000,MK12 5HW,T,N,F,55,,Green Lane,Wolverton,Milton Keynes
+2022-06-17,320000,MK12 5DW,S,N,F,58,,Marina Drive,Wolverton,Milton Keynes
+2022-06-14,399500,MK12 5SE,S,Y,F,7,,Bengrove,Wolverton Mill,Milton Keynes
+2022-06-10,120000,MK12 6HG,T,N,F,70,,Myrtle Bank,Stacey Bushes,Milton Keynes
+2022-06-10,268000,MK12 6HE,T,N,F,25,,White Alder,Stacey Bushes,Milton Keynes
+2022-06-10,290000,MK12 5GE,S,N,F,37,,Twiselton Heath,Wolverton,Milton Keynes
+2022-06-08,365000,MK12 5GA,D,N,F,9,,Llewellyn Chase,Old Wolverton,Milton Keynes
+2022-06-01,288000,MK12 5HP,T,N,F,35,,Oxford Street,Wolverton,Milton Keynes
+2022-06-01,325000,MK12 5EA,S,N,F,7,,Gloucester Road,Wolverton,Milton Keynes
+2022-05-31,282500,MK12 5GJ,T,N,F,35,,Meacham Meadow,Wolverton,Milton Keynes
+2022-05-31,230000,MK12 5FP,F,N,L,Trevithick Court,68,Lonsdale,Wolverton,Milton Keynes
+2022-05-31,299000,MK12 5BW,T,N,F,83,,Anson Road,Wolverton,Milton Keynes
+2022-05-30,345000,MK12 5GY,T,N,F,25,,Turneys Drive,Wolverton Mill,Milton Keynes
+2022-05-30,104000,MK12 5GJ,T,N,L,21,,Meacham Meadow,Wolverton,Milton Keynes
+2022-05-27,390000,MK12 5GY,S,N,F,37,,Turneys Drive,Wolverton Mill,Milton Keynes
+2022-05-20,310000,MK12 5PD,S,N,F,39,,Trinity Road,Old Wolverton,Milton Keynes
+2022-05-20,150000,MK12 5AN,T,N,F,83,,Windsor Street,Wolverton,Milton Keynes
+2022-05-19,244000,MK12 5DB,T,N,F,44,,Horners Croft,Wolverton,Milton Keynes
+2022-05-18,400000,MK12 6LE,D,N,F,10,,Harvester Close,Greenleys,Milton Keynes
+2022-05-13,205000,MK12 6AL,T,N,F,45,,Wainers Croft,Greenleys,Milton Keynes
+2022-05-13,92000,MK12 5GJ,F,N,L,14,,Meacham Meadow,Wolverton,Milton Keynes
+2022-05-09,220000,MK12 5FS,F,N,L,287,,Stratford Road,Wolverton,Milton Keynes
+2022-05-09,255000,MK12 5DW,S,N,F,14,,Marina Drive,Wolverton,Milton Keynes
+2022-05-04,200000,MK12 6HJ,T,N,F,107,,Myrtle Bank,Stacey Bushes,Milton Keynes
+2022-04-29,410000,MK12 5SE,T,Y,F,71,,Bengrove,Wolverton Mill,Milton Keynes
+2022-04-29,395000,MK12 5SE,S,Y,F,69,,Bengrove,Wolverton Mill,Milton Keynes
+2022-04-29,310000,MK12 5SE,T,Y,F,63,,Bengrove,Wolverton Mill,Milton Keynes
+2022-04-29,370000,MK12 5SE,T,Y,F,61,,Bengrove,Wolverton Mill,Milton Keynes
+2022-04-29,325000,MK12 5SE,S,Y,F,3,,Bengrove,Wolverton Mill,Milton Keynes
+2022-04-29,327500,MK12 5LU,T,N,F,84,,Stratford Road,Wolverton,Milton Keynes
+2022-04-28,305000,MK12 5SE,T,Y,F,65,,Bengrove,Wolverton Mill,Milton Keynes
+2022-04-28,365000,MK12 5SE,T,Y,F,55,,Bengrove,Wolverton Mill,Milton Keynes
+2022-04-27,355000,MK12 5SE,T,Y,F,67,,Bengrove,Wolverton Mill,Milton Keynes
+2022-04-27,135000,MK12 5JU,T,N,L,266,,Church Street,Wolverton,Milton Keynes
+2022-04-27,85000,MK12 5GQ,F,N,L,71,,Bridge Hook Close,Wolverton Mill,Milton Keynes
+2022-04-26,362500,MK12 5SE,T,Y,F,59,,Bengrove,Wolverton Mill,Milton Keynes
+2022-04-25,128000,MK12 5JU,S,N,L,240,,Church Street,Wolverton,Milton Keynes
+2022-04-25,138750,MK12 5GN,F,N,L,3,,Barr Piece,Wolverton,Milton Keynes
+2022-04-22,300000,MK12 6JQ,T,N,F,19,,Kildonan Place,Hodge Lea,Milton Keynes
+2022-04-22,312500,MK12 5SE,T,Y,F,57,,Bengrove,Wolverton Mill,Milton Keynes
+2022-04-22,350000,MK12 5HL,T,N,F,44,,Victoria Street,Wolverton,Milton Keynes
+2022-04-22,350000,MK12 5DX,S,N,F,58,,Gloucester Road,Wolverton,Milton Keynes
+2022-04-13,290000,MK12 5HP,T,N,F,37,,Oxford Street,Wolverton,Milton Keynes
+2022-03-31,300000,MK12 6AF,T,N,F,23,,Cotman Close,Greenleys,Milton Keynes
+2022-03-31,315000,MK12 5AQ,T,N,F,122,,Cambridge Street,Wolverton,Milton Keynes
+2022-03-30,347500,MK12 5SG,T,Y,F,38,,Bengrove,Wolverton Mill,Milton Keynes
+2022-03-30,302500,MK12 5SG,T,Y,F,34,,Bengrove,Wolverton Mill,Milton Keynes
+2022-03-30,321000,MK12 5GB,T,N,F,9,,Butter Row,Wolverton,Milton Keynes
+2022-03-29,293000,MK12 5JB,T,N,F,37,,Buckingham Street,Wolverton,Milton Keynes
+2022-03-25,240000,MK12 6JN,T,N,F,5,,Alladale Place,Hodge Lea,Milton Keynes
+2022-03-25,300000,MK12 5SG,T,Y,F,36,,Bengrove,Wolverton Mill,Milton Keynes
+2022-03-25,349000,MK12 5SG,T,Y,F,32,,Bengrove,Wolverton Mill,Milton Keynes
+2022-03-24,265000,MK12 5EH,S,N,F,91,,Southern Way,Wolverton,Milton Keynes
+2022-03-11,195000,MK12 6JZ,F,N,L,6,,Calvie Croft,Hodge Lea,Milton Keynes
+2022-03-04,412500,MK12 5SE,S,Y,F,39,,Bengrove,Wolverton Mill,Milton Keynes
+2022-03-04,58575,MK12 5GP,F,N,L,26,,Mccorquodale Road,Wolverton,Milton Keynes
+2022-03-04,305000,MK12 5BP,T,N,F,86,,Anson Road,Wolverton,Milton Keynes
+2022-03-04,320500,MK12 5BD,T,N,F,50,,Western Road,Wolverton,Milton Keynes
+2022-03-04,460000,MK12 5BA,D,N,F,1B,,Eton Crescent,Wolverton,Milton Keynes
+2022-03-03,397500,MK12 5SG,S,Y,F,30,,Bengrove,Wolverton Mill,Milton Keynes
+2022-03-03,395000,MK12 5SG,S,Y,F,28,,Bengrove,Wolverton Mill,Milton Keynes
+2022-02-28,137000,MK12 6JF,F,N,L,16,,Dalvina Place,Hodge Lea,Milton Keynes
+2022-02-25,190000,MK12 6JB,S,N,F,45,,Hodge Lea Lane,Hodge Lea,Milton Keynes
+2022-02-25,291000,MK12 5HP,T,N,F,11,,Oxford Street,Wolverton,Milton Keynes
+2022-02-25,348000,MK12 5AU,T,N,F,38,,Windsor Street,Wolverton,Milton Keynes
+2022-02-18,300000,MK12 5DR,S,N,F,168,,Windsor Street,Wolverton,Milton Keynes
+2022-02-11,268000,MK12 5HS,T,N,F,59,,Aylesbury Street,Wolverton,Milton Keynes
+2022-02-10,382500,MK12 5SE,S,Y,F,41,,Bengrove,Wolverton Mill,Milton Keynes
+2022-02-09,255000,MK12 6DB,S,N,F,42,,Reeves Croft,Hodge Lea,Milton Keynes
+2022-02-08,340000,MK12 5SE,T,Y,F,43,,Bengrove,Wolverton Mill,Milton Keynes
+2022-02-02,342000,MK12 5SE,T,Y,F,49,,Bengrove,Wolverton Mill,Milton Keynes
+2022-02-01,211500,MK12 5DB,T,N,F,28,,Horners Croft,Wolverton,Milton Keynes
+2022-01-31,297500,MK12 5SE,T,Y,F,45,,Bengrove,Wolverton Mill,Milton Keynes
+2022-01-31,365000,MK12 5GB,T,N,F,39,,Butter Row,Wolverton,Milton Keynes
+2022-01-31,325000,MK12 5BB,T,N,F,74,,Western Road,Wolverton,Milton Keynes
+2022-01-28,232000,MK12 6AR,S,N,F,41,,Barkers Croft,Greenleys,Milton Keynes
+2022-01-28,185000,MK12 5GP,F,N,L,44,,Mccorquodale Road,Wolverton,Milton Keynes
+2022-01-21,300000,MK12 5SE,T,Y,F,47,,Bengrove,Wolverton Mill,Milton Keynes
+2022-01-21,328000,MK12 5EG,S,N,F,4,,Woodland View,Wolverton,Milton Keynes
+2022-01-19,285000,MK12 6JE,T,N,F,25,,Rossal Place,Hodge Lea,Milton Keynes
+2022-01-13,318000,MK12 6JJ,S,N,F,4,,Dunvedin Place,Hodge Lea,Milton Keynes
+2022-01-10,345000,MK12 5HH,T,N,F,3,,Osborne Street,Wolverton,Milton Keynes
+2022-01-07,355000,MK12 5GB,T,N,F,35,,Butter Row,Wolverton,Milton Keynes
+2022-01-06,280000,MK12 5JY,T,N,F,213,,Church Street,Wolverton,Milton Keynes
+2022-01-05,290000,MK12 5DJ,T,N,F,33,,Radcliffe Street,Wolverton,Milton Keynes
+2021-12-22,420000,MK12 5SE,D,Y,F,53,,Bengrove,Wolverton Mill,Milton Keynes
+2021-12-22,365000,MK12 5SE,D,Y,F,51,,Bengrove,Wolverton Mill,Milton Keynes
+2021-12-22,385000,MK12 5SE,S,Y,F,37,,Bengrove,Wolverton Mill,Milton Keynes
+2021-12-22,375000,MK12 5SE,S,Y,F,35,,Bengrove,Wolverton Mill,Milton Keynes
+2021-12-22,275000,MK12 5JD,T,N,F,102,,Buckingham Street,Wolverton,Milton Keynes
+2021-12-21,262000,MK12 5HS,T,N,F,57,,Aylesbury Street,Wolverton,Milton Keynes
+2021-12-20,435000,MK12 6LG,D,N,F,37,,Oxman Lane,Greenleys,Milton Keynes
+2021-12-17,325000,MK12 6AF,D,N,F,8,,Cotman Close,Greenleys,Milton Keynes
+2021-12-17,290000,MK12 5HR,T,N,F,4,,Bedford Street,Wolverton,Milton Keynes
+2021-12-17,365000,MK12 5DT,T,N,F,9,,Marina Drive,Wolverton,Milton Keynes
+2021-12-17,305000,MK12 5DR,S,N,F,156,,Windsor Street,Wolverton,Milton Keynes
+2021-12-16,165000,MK12 5FT,F,N,L,7,,Wodell Drive,Wolverton,Milton Keynes
+2021-12-13,192000,MK12 5GX,F,N,L,18,,East Moor Drive,Wolverton Mill,Milton Keynes
+2021-12-13,243000,MK12 5AX,T,N,F,2,,Peel Road,Wolverton,Milton Keynes
+2021-12-08,76000,MK12 5GP,F,N,L,36,,Mccorquodale Road,Wolverton,Milton Keynes
+2021-12-07,267500,MK12 5FH,T,N,L,Royal Train Shed,13,Earlestown Way,Wolverton,Milton Keynes
+2021-12-06,175000,MK12 5GP,F,N,L,31,,Mccorquodale Road,Wolverton,Milton Keynes
+2021-12-03,356000,MK12 5HH,T,N,F,21,,Osborne Street,Wolverton,Milton Keynes
+2021-11-30,400000,MK12 5GS,D,N,F,20,,Townlands Crescent,Wolverton Mill,Milton Keynes
+2021-11-30,220000,MK12 5BQ,T,N,F,55,,Jersey Road,Wolverton,Milton Keynes
+2021-11-26,293000,MK12 6LT,D,N,F,45,,Ardwell Lane,Greenleys,Milton Keynes
+2021-11-26,370000,MK12 5DU,S,N,F,38,,Stacey Avenue,Wolverton,Milton Keynes
+2021-11-19,210000,MK12 6LP,T,N,F,48,,Field Lane,Greenleys,Milton Keynes
+2021-11-19,292000,MK12 5HR,T,N,F,13,,Bedford Street,Wolverton,Milton Keynes
+2021-11-19,380000,MK12 5GY,S,N,F,33,,Turneys Drive,Wolverton Mill,Milton Keynes
+2021-11-18,209000,MK12 6AL,T,N,F,43,,Wainers Croft,Greenleys,Milton Keynes
+2021-11-12,337500,MK12 5SE,T,Y,F,33,,Bengrove,Wolverton Mill,Milton Keynes
+2021-11-12,295000,MK12 5SE,T,Y,F,31,,Bengrove,Wolverton Mill,Milton Keynes
+2021-11-12,295000,MK12 5SE,T,Y,F,29,,Bengrove,Wolverton Mill,Milton Keynes
+2021-11-11,235000,MK12 5BN,T,N,F,7,,Jersey Road,Wolverton,Milton Keynes
+2021-11-09,247500,MK12 5DH,T,N,F,44,,Radcliffe Street,Wolverton,Milton Keynes
+2021-11-08,190000,MK12 6JZ,F,N,L,12,,Calvie Croft,Hodge Lea,Milton Keynes
+2021-11-05,320000,MK12 5GH,D,N,F,35,,Addington Avenue,Wolverton,Milton Keynes
+2021-11-05,235000,MK12 5EE,T,N,F,20,,St Johns Crescent,Wolverton,Milton Keynes
+2021-11-03,250000,MK12 5FE,D,N,F,1,,Oriel Close,Wolverton,Milton Keynes
+2021-11-02,280000,MK12 5AX,T,N,F,40,,Peel Road,Wolverton,Milton Keynes
+2021-11-01,300000,MK12 5GT,T,N,F,70,,Walker Avenue,Wolverton Mill,Milton Keynes
+2021-10-29,307500,MK12 5SG,T,Y,F,26,,Bengrove,Wolverton Mill,Milton Keynes
+2021-10-29,327500,MK12 5SG,T,Y,F,24,,Bengrove,Wolverton Mill,Milton Keynes
+2021-10-29,305000,MK12 5SG,T,Y,F,22,,Bengrove,Wolverton Mill,Milton Keynes
+2021-10-29,342500,MK12 5SE,T,Y,F,27,,Bengrove,Wolverton Mill,Milton Keynes
+2021-10-29,325000,MK12 5LT,T,N,F,71,,Stratford Road,Wolverton,Milton Keynes
+2021-10-29,245000,MK12 5EB,S,N,F,68,,Stacey Avenue,Wolverton,Milton Keynes
+2021-10-22,236000,MK12 6HE,T,N,F,95,,White Alder,Stacey Bushes,Milton Keynes
+2021-10-22,185000,MK12 5FT,F,N,L,18,,Wodell Drive,Wolverton,Milton Keynes
+2021-10-22,212500,MK12 5FE,F,N,L,68,,Oriel Close,Wolverton,Milton Keynes
+2021-10-22,292000,MK12 5AX,T,N,F,25,,Peel Road,Wolverton,Milton Keynes
+2021-10-21,310000,MK12 5LX,T,N,F,100,,Stratford Road,Wolverton,Milton Keynes
+2021-10-20,205000,MK12 6AJ,T,N,F,13,,Pinders Croft,Greenleys,Milton Keynes
+2021-10-20,223000,MK12 5HZ,T,N,F,2,,Aylesbury Street,Wolverton,Milton Keynes
+2021-10-15,114000,MK12 5HX,T,N,F,39,,Aylesbury Street,Wolverton,Milton Keynes
+2021-10-14,168000,MK12 5AU,F,N,L,18A,,Windsor Street,Wolverton,Milton Keynes
+2021-10-13,280000,MK12 5HZ,T,N,F,22,,Aylesbury Street,Wolverton,Milton Keynes
+2021-10-08,340000,MK12 5GS,D,N,F,1,,Townlands Crescent,Wolverton Mill,Milton Keynes
+2021-10-04,350000,MK12 5DP,S,N,F,173,,Windsor Street,Wolverton,Milton Keynes
+2021-10-01,345000,MK12 5SE,D,Y,F,25,,Bengrove,Wolverton Mill,Milton Keynes
+2021-09-30,230000,MK12 6AS,T,N,F,18,,Lamberts Croft,Greenleys,Milton Keynes
+2021-09-30,385000,MK12 5SE,D,Y,F,23,,Bengrove,Wolverton Mill,Milton Keynes
+2021-09-30,150000,MK12 5GQ,S,N,L,4,,Bridge Hook Close,Wolverton Mill,Milton Keynes
+2021-09-30,84000,MK12 5GJ,F,N,L,10,,Meacham Meadow,Wolverton,Milton Keynes
+2021-09-30,227000,MK12 5AR,S,N,F,36,,Furze Way,Wolverton,Milton Keynes
+2021-09-29,159000,MK12 5GB,T,N,L,57,,Butter Row,Wolverton,Milton Keynes
+2021-09-28,225000,MK12 6HJ,T,N,F,89,,Myrtle Bank,Stacey Bushes,Milton Keynes
+2021-09-27,725000,MK12 5PR,D,N,F,1,,Watermill Lane,Wolverton Mill,Milton Keynes
+2021-09-24,220000,MK12 6AS,T,N,F,3,,Lamberts Croft,Greenleys,Milton Keynes
+2021-09-24,265000,MK12 5PU,S,N,F,6,,Vickers Way,Wolverton,Milton Keynes
+2021-09-24,359995,MK12 5GB,S,N,F,56,,Butter Row,Wolverton,Milton Keynes
+2021-09-20,260000,MK12 5PB,S,N,F,14,,Trinity Road,Old Wolverton,Milton Keynes
+2021-09-17,260000,MK12 6LN,T,N,F,44,,Ardwell Lane,Greenleys,Milton Keynes
+2021-09-17,220000,MK12 6LL,T,N,F,27,,Sokeman Close,Greenleys,Milton Keynes
+2021-09-17,299950,MK12 5BY,T,N,F,3,,Anson Road,Wolverton,Milton Keynes
+2021-09-14,268000,MK12 6LS,S,N,F,7,,Radman Grove,Greenleys,Milton Keynes
+2021-09-14,217000,MK12 6DB,T,N,F,1,,Reeves Croft,Hodge Lea,Milton Keynes
+2021-09-14,185000,MK12 5FU,T,N,F,4,,Trevelyan Way,Old Wolverton,Milton Keynes
+2021-09-10,367500,MK12 5GT,T,N,F,66,,Walker Avenue,Wolverton Mill,Milton Keynes
+2021-09-07,270000,MK12 6LL,S,N,F,16,,Sokeman Close,Greenleys,Milton Keynes
+2021-09-07,176500,MK12 5GX,F,N,L,10,,East Moor Drive,Wolverton Mill,Milton Keynes
+2021-09-07,190000,MK12 5GH,F,N,L,1,,Addington Avenue,Wolverton,Milton Keynes
+2021-09-03,375000,MK12 5GS,T,N,F,10,,Townlands Crescent,Wolverton Mill,Milton Keynes
+2021-09-03,222000,MK12 5FE,T,N,L,32,,Oriel Close,Wolverton,Milton Keynes
+2021-09-02,160000,MK12 5BA,S,N,F,3,,Eton Crescent,Wolverton,Milton Keynes
+2021-08-27,240000,MK12 6AF,S,N,F,5,,Cotman Close,Greenleys,Milton Keynes
+2021-08-27,295000,MK12 5HJ,T,N,F,100,,Victoria Street,Wolverton,Milton Keynes
+2021-08-27,302000,MK12 5DR,S,N,F,194,,Windsor Street,Wolverton,Milton Keynes
+2021-08-27,360000,MK12 5DL,D,N,F,12,,Stacey Avenue,Wolverton,Milton Keynes
+2021-08-25,234000,MK12 6DB,T,N,F,5,,Reeves Croft,Hodge Lea,Milton Keynes
+2021-08-23,335000,MK12 5SE,T,Y,F,21,,Bengrove,Wolverton Mill,Milton Keynes
+2021-08-23,267000,MK12 5PB,S,N,F,28,,Trinity Road,Old Wolverton,Milton Keynes
+2021-08-20,360000,MK12 6LN,S,N,F,64,,Ardwell Lane,Greenleys,Milton Keynes
+2021-08-20,330000,MK12 5FZ,S,N,F,30,,Empress Matilda Gardens,Old Wolverton,Milton Keynes
+2021-08-18,360000,MK12 5SE,T,Y,F,11,,Bengrove,Wolverton Mill,Milton Keynes
+2021-08-18,300000,MK12 5HN,S,N,F,19,,Green Lane,Wolverton,Milton Keynes
+2021-08-17,315000,MK12 5AX,T,N,F,62,,Peel Road,Wolverton,Milton Keynes
+2021-08-12,325000,MK12 5SE,T,Y,F,17,,Bengrove,Wolverton Mill,Milton Keynes
+2021-08-06,295000,MK12 5SE,T,Y,F,19,,Bengrove,Wolverton Mill,Milton Keynes
+2021-08-06,102500,MK12 5QU,F,N,L,23,,Carter Grove,Wolverton,Milton Keynes
+2021-08-06,226000,MK12 5FE,T,N,F,7,,Oriel Close,Wolverton,Milton Keynes
+2021-08-04,355000,MK12 5SE,T,Y,F,13,,Bengrove,Wolverton Mill,Milton Keynes
+2021-08-02,188000,MK12 5FT,F,N,L,3,,Wodell Drive,Wolverton,Milton Keynes
+2021-07-30,355000,MK12 5FW,D,N,F,34,,King Stephen Meadows,Old Wolverton,Milton Keynes
+2021-07-27,293000,MK12 5GB,S,N,F,77,,Butter Row,Wolverton,Milton Keynes
+2021-07-27,228000,MK12 5GA,F,N,L,19,,Llewellyn Chase,Old Wolverton,Milton Keynes
+2021-07-22,265000,MK12 5BQ,S,N,F,71,,Jersey Road,Wolverton,Milton Keynes
+2021-07-21,230000,MK12 6HE,T,N,F,71,,White Alder,Stacey Bushes,Milton Keynes
+2021-07-09,265000,MK12 6LF,S,N,F,48,,Oxman Lane,Greenleys,Milton Keynes
+2021-07-08,315000,MK12 5HQ,T,N,F,99,,Victoria Street,Wolverton,Milton Keynes
+2021-07-06,229995,MK12 5QA,T,N,F,29,,Syward Row,Wolverton,Milton Keynes
+2021-07-05,180000,MK12 6AL,T,N,L,24,,Wainers Croft,Greenleys,Milton Keynes
+2021-07-02,263000,MK12 5GH,D,N,F,53,,Addington Avenue,Wolverton,Milton Keynes
+2021-06-30,365000,MK12 5SE,T,Y,F,15,,Bengrove,Wolverton Mill,Milton Keynes
+2021-06-30,320000,MK12 5HQ,T,N,F,89,,Victoria Street,Wolverton,Milton Keynes
+2021-06-30,310000,MK12 5GH,S,N,F,65,,Addington Avenue,Wolverton,Milton Keynes
+2021-06-30,237000,MK12 5EX,T,N,F,36,,St Georges Way,Wolverton,Milton Keynes
+2021-06-29,236000,MK12 6HF,T,N,F,90,,White Alder,Stacey Bushes,Milton Keynes
+2021-06-29,336500,MK12 5QA,T,N,F,3,,Syward Row,Wolverton,Milton Keynes
+2021-06-29,335000,MK12 5GB,T,N,F,33,,Butter Row,Wolverton,Milton Keynes
+2021-06-28,285000,MK12 5HN,T,N,F,15,,Green Lane,Wolverton,Milton Keynes
+2021-06-28,315000,MK12 5GR,T,N,F,5,,Maigno Way,Wolverton Mill,Milton Keynes
+2021-06-28,240000,MK12 5EE,S,N,F,2,,St Johns Crescent,Wolverton,Milton Keynes
+2021-06-28,475000,MK12 5DT,S,N,F,7,,Marina Drive,Wolverton,Milton Keynes
+2021-06-25,270000,MK12 5HP,T,N,F,14,,Oxford Street,Wolverton,Milton Keynes
+2021-06-25,88000,MK12 5GJ,F,N,L,6,,Meacham Meadow,Wolverton,Milton Keynes
+2021-06-25,335000,MK12 5GB,D,N,F,60,,Butter Row,Wolverton,Milton Keynes
+2021-06-25,210000,MK12 5FW,S,N,F,11,,King Stephen Meadows,Old Wolverton,Milton Keynes
+2021-06-25,360000,MK12 5AY,T,N,F,25,,Western Road,Wolverton,Milton Keynes
+2021-06-25,318250,MK12 5AY,T,N,F,13,,Western Road,Wolverton,Milton Keynes
+2021-06-24,540000,MK12 6LF,D,N,F,68,,Oxman Lane,Greenleys,Milton Keynes
+2021-06-24,90000,MK12 5RR,F,N,L,14,,Frank Atter Croft,Wolverton,Milton Keynes
+2021-06-24,295000,MK12 5EB,S,N,F,58,,Stacey Avenue,Wolverton,Milton Keynes
+2021-06-18,325000,MK12 5GB,S,N,F,75,,Butter Row,Wolverton,Milton Keynes
+2021-06-18,285000,MK12 5FQ,S,N,F,2,,Dalby Close,Wolverton Mill,Milton Keynes
+2021-06-11,135000,MK12 6JH,F,N,L,15,,Gledfield Place,Hodge Lea,Milton Keynes
+2021-06-09,280000,MK12 5PB,S,N,F,38,,Trinity Road,Old Wolverton,Milton Keynes
+2021-06-08,73500,MK12 5FG,F,N,L,84,,Oriel Close,Wolverton,Milton Keynes
+2021-06-04,245000,MK12 6AD,T,N,F,2,,Herdman Close,Greenleys,Milton Keynes
+2021-06-04,72000,MK12 5FG,S,N,L,85,,Oriel Close,Wolverton,Milton Keynes
+2021-06-01,260000,MK12 5PB,S,N,F,26,,Trinity Road,Old Wolverton,Milton Keynes
+2021-05-28,270000,MK12 6LF,S,N,F,12,,Oxman Lane,Greenleys,Milton Keynes
+2021-05-28,252000,MK12 5RR,T,N,F,23,,Frank Atter Croft,Wolverton,Milton Keynes
+2021-05-28,246000,MK12 5AX,T,N,F,47,,Peel Road,Wolverton,Milton Keynes
+2021-05-27,250000,MK12 6JW,T,N,F,8,,Brookside,Hodge Lea,Milton Keynes
+2021-05-27,260000,MK12 5HP,T,N,F,36,,Oxford Street,Wolverton,Milton Keynes
+2021-05-27,285000,MK12 5FE,T,N,F,66,,Oriel Close,Wolverton,Milton Keynes
+2021-05-26,200000,MK12 5FW,T,N,F,9,,King Stephen Meadows,Old Wolverton,Milton Keynes
+2021-05-25,58750,MK12 5FW,T,N,L,26,,King Stephen Meadows,Old Wolverton,Milton Keynes
+2021-05-25,287500,MK12 5BD,T,N,F,44,,Western Road,Wolverton,Milton Keynes
+2021-05-21,220000,MK12 6HG,T,N,F,102,,Myrtle Bank,Stacey Bushes,Milton Keynes
+2021-05-21,77500,MK12 5GQ,F,N,L,73,,Bridge Hook Close,Wolverton Mill,Milton Keynes
+2021-05-21,187500,MK12 5FZ,F,N,L,60,,Empress Matilda Gardens,Old Wolverton,Milton Keynes
+2021-05-21,170000,MK12 5FS,F,N,L,274,,Stratford Road,Wolverton,Milton Keynes
+2021-05-21,315000,MK12 5ED,S,N,F,44,,Southern Way,Wolverton,Milton Keynes
+2021-05-21,274000,MK12 5BP,T,N,F,86,,Anson Road,Wolverton,Milton Keynes
+2021-05-19,117000,MK12 5QU,F,N,L,7,,Carter Grove,Wolverton,Milton Keynes
+2021-05-17,214000,MK12 6LL,T,N,F,34,,Sokeman Close,Greenleys,Milton Keynes
+2021-05-17,255000,MK12 6AE,T,N,F,22,,Freeman Close,Greenleys,Milton Keynes
+2021-05-17,325000,MK12 5GY,S,N,F,23,,Turneys Drive,Wolverton Mill,Milton Keynes
+2021-05-14,300000,MK12 5HW,T,N,F,69,,Green Lane,Wolverton,Milton Keynes
+2021-05-14,270000,MK12 5FE,S,N,F,60,,Oriel Close,Wolverton,Milton Keynes
+2021-05-14,157500,MK12 5EX,F,N,L,49,,St Georges Way,Wolverton,Milton Keynes
+2021-05-13,271000,MK12 5JS,T,N,F,156,,Church Street,Wolverton,Milton Keynes
+2021-05-07,120000,MK12 5LD,T,N,F,67,,Church Street,Wolverton,Milton Keynes
+2021-05-07,59500,MK12 5FN,F,N,L,Trevithick Court,18,Lonsdale,Wolverton,Milton Keynes
+2021-05-06,124999,MK12 5LU,F,N,L,94A,,Stratford Road,Wolverton,Milton Keynes
+2021-05-05,290000,MK12 5PB,S,N,F,24,,Trinity Road,Old Wolverton,Milton Keynes
+2021-05-04,250000,MK12 5PB,S,N,F,30,,Trinity Road,Old Wolverton,Milton Keynes
+2021-05-04,243500,MK12 5JY,T,N,F,221,,Church Street,Wolverton,Milton Keynes
+2021-04-30,297500,MK12 5HW,T,N,F,103,,Green Lane,Wolverton,Milton Keynes
+2021-04-30,310000,MK12 5GE,S,N,F,57,,Twiselton Heath,Wolverton,Milton Keynes
+2021-04-30,210000,MK12 5FW,F,N,L,42,,King Stephen Meadows,Old Wolverton,Milton Keynes
+2021-04-30,235000,MK12 5DT,S,N,F,61,,Marina Drive,Wolverton,Milton Keynes
+2021-04-23,280000,MK12 6LL,S,N,F,20,,Sokeman Close,Greenleys,Milton Keynes
+2021-04-23,325000,MK12 5QA,S,N,F,41,,Syward Row,Wolverton,Milton Keynes
+2021-04-23,135000,MK12 5GN,F,N,L,13,,Barr Piece,Wolverton,Milton Keynes
+2021-04-22,235000,MK12 5AX,T,N,F,20,,Peel Road,Wolverton,Milton Keynes
+2021-04-22,260000,MK12 5AH,T,N,F,66,,Cambridge Street,Wolverton,Milton Keynes
+2021-04-16,52500,MK12 6LP,F,N,L,20,,Field Lane,Greenleys,Milton Keynes
+2021-04-16,230000,MK12 6HD,T,N,F,7,,Mapledean,Stacey Bushes,Milton Keynes
+2021-04-16,340000,MK12 5DX,S,N,F,52,,Gloucester Road,Wolverton,Milton Keynes
+2021-04-14,296000,MK12 5BU,S,N,F,100,,Aylesbury Street West,Wolverton,Milton Keynes
+2021-04-09,212000,MK12 5FU,T,N,F,10,,Trevelyan Way,Old Wolverton,Milton Keynes
+2021-04-09,330000,MK12 5DT,S,N,F,43,,Marina Drive,Wolverton,Milton Keynes
+2021-04-08,216000,MK12 6HQ,T,N,F,4,,Myrtle Bank,Stacey Bushes,Milton Keynes
+2021-04-06,217500,MK12 6JA,T,N,F,2,,Hodge Lea Lane,Hodge Lea,Milton Keynes
+2021-04-01,313000,MK12 6LF,D,N,F,56,,Oxman Lane,Greenleys,Milton Keynes
+2021-03-31,255500,MK12 5JY,T,N,F,191,,Church Street,Wolverton,Milton Keynes
+2021-03-31,87500,MK12 5FJ,F,N,L,Triangle Building,32,Wolverton Park Road,Wolverton,Milton Keynes
+2021-03-31,290000,MK12 5BB,T,N,F,60,,Western Road,Wolverton,Milton Keynes
+2021-03-30,230000,MK12 6JQ,S,N,F,8,,Kildonan Place,Hodge Lea,Milton Keynes
+2021-03-30,290000,MK12 5AL,T,N,F,37,,Windsor Street,Wolverton,Milton Keynes
+2021-03-29,76000,MK12 5GP,F,N,L,49,,Mccorquodale Road,Wolverton,Milton Keynes
+2021-03-29,130000,MK12 5GF,T,N,L,4,,Morgan Way,Wolverton,Milton Keynes
+2021-03-29,268000,MK12 5DW,S,N,F,56,,Marina Drive,Wolverton,Milton Keynes
+2021-03-29,258000,MK12 5BW,T,N,F,103,,Anson Road,Wolverton,Milton Keynes
+2021-03-26,465000,MK12 5LS,T,N,F,51,,Stratford Road,Wolverton,Milton Keynes
+2021-03-26,340000,MK12 5HQ,T,N,F,57,,Victoria Street,Wolverton,Milton Keynes
+2021-03-26,285000,MK12 5HJ,T,N,F,66,,Victoria Street,Wolverton,Milton Keynes
+2021-03-26,344000,MK12 5GB,D,N,F,73,,Butter Row,Wolverton,Milton Keynes
+2021-03-26,295000,MK12 5FG,S,N,F,83,,Oriel Close,Wolverton,Milton Keynes
+2021-03-26,260000,MK12 5AS,T,N,F,138,,Windsor Street,Wolverton,Milton Keynes
+2021-03-25,370000,MK12 5GY,D,N,F,32,,Turneys Drive,Wolverton Mill,Milton Keynes
+2021-03-24,255000,MK12 5AX,T,N,F,43,,Peel Road,Wolverton,Milton Keynes
+2021-03-19,254000,MK12 5HP,T,N,F,8,,Oxford Street,Wolverton,Milton Keynes
+2021-03-19,265000,MK12 5GH,D,N,F,26,,Addington Avenue,Wolverton,Milton Keynes
+2021-03-19,250000,MK12 5FE,T,N,F,62,,Oriel Close,Wolverton,Milton Keynes
+2021-03-17,230000,MK12 5DR,S,N,F,202,,Windsor Street,Wolverton,Milton Keynes
+2021-03-16,300000,MK12 5DG,T,N,F,5,,The Square,Wolverton,Milton Keynes
+2021-03-15,335000,MK12 6LG,D,N,F,23,,Oxman Lane,Greenleys,Milton Keynes
+2021-03-15,250000,MK12 5HL,T,N,F,34,,Victoria Street,Wolverton,Milton Keynes
+2021-03-15,298000,MK12 5GA,T,N,F,23,,Llewellyn Chase,Old Wolverton,Milton Keynes
+2021-03-12,315000,MK12 5QU,D,N,F,8,,Carter Grove,Wolverton,Milton Keynes
+2021-03-12,147000,MK12 5QU,F,N,L,5,,Carter Grove,Wolverton,Milton Keynes
+2021-03-12,245000,MK12 5HL,T,N,F,4,,Victoria Street,Wolverton,Milton Keynes
+2021-03-12,330000,MK12 5BA,S,N,F,13,,Eton Crescent,Wolverton,Milton Keynes
+2021-03-11,262000,MK12 6LT,D,N,F,45,,Ardwell Lane,Greenleys,Milton Keynes
+2021-03-10,285000,MK12 5HN,T,N,F,7,,Green Lane,Wolverton,Milton Keynes
+2021-03-10,325000,MK12 5EA,S,N,F,45,,Gloucester Road,Wolverton,Milton Keynes
+2021-03-05,217000,MK12 5HP,T,N,F,43,,Oxford Street,Wolverton,Milton Keynes
+2021-03-05,312000,MK12 5AY,T,N,F,91,,Western Road,Wolverton,Milton Keynes
+2021-03-05,220000,MK12 5AX,T,N,F,27,,Peel Road,Wolverton,Milton Keynes
+2021-03-04,265000,MK12 5GL,T,N,F,20,,Timothys Close,Wolverton,Milton Keynes
+2021-03-02,355000,MK12 5PU,S,N,F,1,,Vickers Way,Wolverton,Milton Keynes
+2021-02-26,360000,MK12 5DX,S,N,F,42,,Gloucester Road,Wolverton,Milton Keynes
+2021-02-24,104000,MK12 5FT,T,N,L,25,,Wodell Drive,Wolverton,Milton Keynes
+2021-02-19,275000,MK12 5LU,T,N,F,93,,Stratford Road,Wolverton,Milton Keynes
+2021-02-18,140000,MK12 6AR,F,N,L,26,,Barkers Croft,Greenleys,Milton Keynes
+2021-02-18,350000,MK12 5LT,T,N,F,67,,Stratford Road,Wolverton,Milton Keynes
+2021-02-18,345000,MK12 5DX,S,N,F,44,,Gloucester Road,Wolverton,Milton Keynes
+2021-02-17,325000,MK12 5EA,S,N,F,69,,Gloucester Road,Wolverton,Milton Keynes
+2021-02-12,286000,MK12 5HJ,T,N,F,98,,Victoria Street,Wolverton,Milton Keynes
+2021-02-12,346000,MK12 5EA,S,N,F,47,,Gloucester Road,Wolverton,Milton Keynes
+2021-02-08,338000,MK12 5FQ,D,N,F,1,,Dalby Close,Wolverton Mill,Milton Keynes
+2021-02-08,270000,MK12 5AS,T,N,F,134,,Windsor Street,Wolverton,Milton Keynes
+2021-02-05,190000,MK12 6DB,T,N,F,28,,Reeves Croft,Hodge Lea,Milton Keynes
+2021-02-05,195000,MK12 6AJ,T,N,F,33,,Pinders Croft,Greenleys,Milton Keynes
+2021-02-05,350000,MK12 5QA,S,N,F,45,,Syward Row,Wolverton,Milton Keynes
+2021-02-05,92000,MK12 5GJ,F,N,L,39,,Meacham Meadow,Wolverton,Milton Keynes
+2021-02-05,245000,MK12 5BH,T,N,F,104,,Jersey Road,Wolverton,Milton Keynes
+2021-02-04,345000,MK12 5FT,S,N,F,31,,Wodell Drive,Wolverton,Milton Keynes
+2021-01-22,153000,MK12 6JZ,F,N,L,28,,Calvie Croft,Hodge Lea,Milton Keynes
+2021-01-22,340000,MK12 5LL,S,N,F,28,,Wilkinson Crescent,Wolverton,Milton Keynes
+2021-01-22,118350,MK12 5GD,T,N,L,9,,Orchard Grove,Wolverton,Milton Keynes
+2021-01-22,228000,MK12 5FP,F,N,L,Trevithick Court,114,Lonsdale,Wolverton,Milton Keynes
+2021-01-21,290000,MK12 5JZ,T,N,F,161,,Church Street,Wolverton,Milton Keynes
+2021-01-20,250000,MK12 6LF,T,N,F,28A,,Oxman Lane,Greenleys,Milton Keynes
+2021-01-15,285000,MK12 6LQ,S,N,F,4,,Thresher Grove,Greenleys,Milton Keynes
+2021-01-15,354000,MK12 6LH,D,N,F,19,,Gleeman Close,Greenleys,Milton Keynes
+2021-01-15,210000,MK12 6AP,T,N,F,17,,Calvards Croft,Greenleys,Milton Keynes
+2021-01-15,128000,MK12 6AE,T,N,F,18,,Freeman Close,Greenleys,Milton Keynes
+2021-01-15,340000,MK12 5NJ,T,N,F,12,,Slated Row,Old Wolverton,Milton Keynes
+2021-01-14,305000,MK12 5LW,D,N,F,44A,,Stratford Road,Wolverton,Milton Keynes
+2021-01-14,450000,MK12 5LS,T,N,F,53,,Stratford Road,Wolverton,Milton Keynes
+2021-01-08,205000,MK12 6AL,T,N,F,31,,Wainers Croft,Greenleys,Milton Keynes
+2021-01-08,116000,MK12 5QW,T,N,L,5,,Whiting Close,Wolverton,Milton Keynes
+2021-01-08,149500,MK12 5FT,F,N,L,10,,Wodell Drive,Wolverton,Milton Keynes
+2021-01-08,270000,MK12 5FQ,S,N,F,3,,Dalby Close,Wolverton Mill,Milton Keynes
+2021-01-07,244000,MK12 5JW,T,N,F,90,,Church Street,Wolverton,Milton Keynes
+2021-01-06,280500,MK12 5HJ,T,N,F,80,,Victoria Street,Wolverton,Milton Keynes
+2021-01-06,460000,MK12 5GX,D,N,F,5,,East Moor Drive,Wolverton Mill,Milton Keynes

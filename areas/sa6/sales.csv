@@ -1,0 +1,2319 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-21,280000,SA6 6BA,D,N,F,30,,Pen Yr Yrfa,Morriston,Swansea
+2026-08-17,155000,SA6 6HJ,T,N,F,7,,Pleasant Street,Morriston,Swansea
+2026-08-14,133000,SA6 8DF,T,N,F,20,,Bedford Street,Morriston,Swansea
+2026-08-13,178000,SA6 6EN,D,N,F,11,,Heol Y Grug,Morriston,Swansea
+2026-08-07,276000,SA6 7PG,D,N,F,5,,Bryn Eglur Road,Morriston,Swansea
+2026-08-05,182000,SA6 6LD,S,N,F,17,,Llys Dol,Morriston,Swansea
+2026-08-04,126000,SA6 8NX,T,N,F,180,,Trewyddfa Road,Morriston,Swansea
+2026-08-03,127000,SA6 5HR,T,N,F,28,,Lone Road,Clydach,Swansea
+2026-07-31,170000,SA6 6HX,T,N,F,8,,Soar Terrace,Morriston,Swansea
+2026-07-31,302500,SA6 6BL,D,N,F,36,,Y Llwyni,Llangyfelach,Swansea
+2026-07-31,166000,SA6 5JS,S,N,F,63,,Faraday Road,Clydach,Swansea
+2026-07-28,112000,SA6 6RZ,T,N,F,53,,Gwernfadog Road,Ynysforgan,Swansea
+2026-07-27,250000,SA6 7PW,D,N,F,45,,Gellifawr Road,Morriston,Swansea
+2026-07-27,226000,SA6 6FE,S,N,F,58,,Ffordd Dewi,Llangyfelach,Swansea
+2026-07-22,131258,SA6 6PP,S,N,F,41,,Tregelles Court,Cwmrhydyceirw,Swansea
+2026-07-20,118500,SA6 7BG,T,N,F,142,,Clyndu Street,Morriston,Swansea
+2026-07-20,208000,SA6 6FD,S,N,F,27,,Heol Waun Wen,Llangyfelach,Swansea
+2026-07-20,243000,SA6 5JP,D,N,F,21,,Kelvin Road,Clydach,Swansea
+2026-07-17,128000,SA6 6NB,S,N,F,53,,Llanllienwen Road,Cwmrhydyceirw,Swansea
+2026-07-17,88000,SA6 6JP,T,N,F,18,,Heol Yr Eithen,Cwmrhydyceirw,Swansea
+2026-07-17,137000,SA6 5HR,S,N,F,23,,Lone Road,Clydach,Swansea
+2026-07-15,159000,SA6 6HH,T,N,F,63,,Pleasant Street,Morriston,Swansea
+2026-07-15,200000,SA6 6DP,S,N,F,117,,Vicarage Road,Morriston,Swansea
+2026-07-13,230000,SA6 6RD,S,N,F,7,,Clos Crucywel,Cwmrhydyceirw,Swansea
+2026-07-13,240000,SA6 6AY,D,N,F,14,,Godre Coed,Morriston,Swansea
+2026-07-10,158000,SA6 7JD,S,N,F,12,,Ramsey Drive,Clase,Swansea
+2026-07-10,140000,SA6 6JE,T,N,F,24,,Chemical Road,Morriston,Swansea
+2026-07-10,115000,SA6 6HH,T,N,F,38,,Pleasant Street,Morriston,Swansea
+2026-07-10,222500,SA6 5PF,S,N,F,174,,Kingrosia Park,Clydach,Swansea
+2026-07-10,135000,SA6 5EJ,T,N,F,43,,Hebron Road,Clydach,Swansea
+2026-07-03,134000,SA6 7LJ,T,N,F,19,,Pengwern Road,Clase,Swansea
+2026-07-02,86000,SA6 8LL,T,N,F,108,,Dinas Street,Plasmarl,Swansea
+2026-07-01,89000,SA6 8NX,T,N,L,178,,Trewyddfa Road,Morriston,Swansea
+2026-06-26,201000,SA6 8PD,S,N,F,275,,Trewyddfa Road,Morriston,Swansea
+2026-06-25,285000,SA6 6LJ,S,N,F,59,,Cwmrhydyceirw Road,Cwmrhydyceirw,Swansea
+2026-06-24,357000,SA6 5RH,S,N,F,37,,Mountain Road,Craig Cefn Parc,Swansea
+2026-06-22,172000,SA6 6FE,S,N,F,34,,Ffordd Dewi,Llangyfelach,Swansea
+2026-06-19,245000,SA6 6BP,S,N,F,14,,Furze Crescent,Morriston,Swansea
+2026-06-17,130000,SA6 5NG,S,N,F,12,,Tanycoed Road,Clydach,Swansea
+2026-06-16,129000,SA6 5JR,S,N,F,59,,Kelvin Road,Clydach,Swansea
+2026-06-15,250000,SA6 6QU,D,N,F,5,,Butterslade Grove,Ynysforgan,Swansea
+2026-06-12,155000,SA6 8NA,T,N,F,9,,Caryl Terrace,Plasmarl,Swansea
+2026-06-12,175000,SA6 8JT,T,N,F,1204,,Neath Road,Plasmarl,Swansea
+2026-06-12,80000,SA6 7BJ,T,N,F,54,,Martin Street,Morriston,Swansea
+2026-06-12,180000,SA6 6TH,T,N,F,71,,Denbigh Crescent,Ynysforgan,Swansea
+2026-06-12,285000,SA6 6QE,S,N,L,35,,Wheatsheaf Drive,Ynysforgan,Swansea
+2026-06-11,295000,SA6 6QR,D,N,F,32,,Christopher Road,Ynysforgan,Swansea
+2026-06-10,92000,SA6 8LE,T,N,F,23,,Calland Street,Plasmarl,Swansea
+2026-06-08,110000,SA6 7AJ,T,N,F,4,,Horeb Road,Morriston,Swansea
+2026-06-08,397500,SA6 6EE,D,N,F,1,,Bishops Walk,Morriston,Swansea
+2026-06-05,225000,SA6 6QT,S,N,F,6,,Harebell Close,Ynysforgan,Swansea
+2026-06-05,333000,SA6 6BU,D,N,F,331,,Clasemont Road,Morriston,Swansea
+2026-06-04,238250,SA6 6DZ,S,N,F,7,,Brayley Road,Morriston,Swansea
+2026-06-03,42500,SA6 8LQ,T,N,F,26,,Dinas Street,Plasmarl,Swansea
+2026-06-01,265000,SA6 6NA,D,N,F,52,,Llanllienwen Road,Cwmrhydyceirw,Swansea
+2026-06-01,200000,SA6 5BZ,S,N,F,12,,Heol Y Graig,Clydach,Swansea
+2026-05-29,93000,SA6 8ET,T,N,F,103,,Wychtree Street,Morriston,Swansea
+2026-05-29,170000,SA6 5QD,T,N,F,5,,Vera Road,Clydach,Swansea
+2026-05-29,177000,SA6 5NE,S,N,F,35,,Penydre Road,Clydach,Swansea
+2026-05-29,192000,SA6 5HA,S,N,F,16,,Down Street,Clydach,Swansea
+2026-05-29,210000,SA6 5AG,S,N,F,Brynynys,,Plas Cadwgan Road,Ynystawe,Swansea
+2026-05-27,130000,SA6 8LL,T,N,F,124,,Dinas Street,Plasmarl,Swansea
+2026-05-22,120000,SA6 8LA,T,N,F,6,,Landeg Street,Plasmarl,Swansea
+2026-05-22,300000,SA6 7NZ,D,N,F,58,,Mynydd Garn Lwyd Road,Morriston,Swansea
+2026-05-22,140000,SA6 7NT,S,N,F,102,,Solva Road,Clase,Swansea
+2026-05-22,205000,SA6 6QQ,S,N,F,60,,Heol Glannant,Ynysforgan,Swansea
+2026-05-20,130000,SA6 6QW,S,N,L,439,,Clydach Road,Ynysforgan,Swansea
+2026-05-15,150000,SA6 8DE,S,N,F,14,,Green Street,Morriston,Swansea
+2026-05-15,174000,SA6 6HX,T,N,F,9,,Soar Terrace,Morriston,Swansea
+2026-05-15,170000,SA6 6DH,D,N,F,42,,Vicarage Road,Morriston,Swansea
+2026-05-15,325000,SA6 5RF,D,N,F,8,,Golwg Y Mynydd,Craig Cefn Parc,Swansea
+2026-05-14,235000,SA6 6TS,S,N,F,7,,Cwrt Hydd,Cwmrhydyceirw,Swansea
+2026-05-08,176000,SA6 8NX,S,N,F,211,,Trewyddfa Road,Morriston,Swansea
+2026-05-08,210000,SA6 5JN,S,N,F,15,,Carlton Road,Clydach,Swansea
+2026-05-05,216000,SA6 6LR,S,N,F,57,,Maes Y Gwernen Drive,Cwmrhydyceirw,Swansea
+2026-04-30,140000,SA6 8EQ,T,N,F,36,,Bush Road,Morriston,Swansea
+2026-04-30,265000,SA6 6RH,S,N,F,51,,Orpheus Road,Ynysforgan,Swansea
+2026-04-30,260000,SA6 6LR,S,N,F,67,,Maes Y Gwernen Drive,Cwmrhydyceirw,Swansea
+2026-04-30,174000,SA6 6EF,S,N,F,4,,Clos Waun Wen,Llangyfelach,Swansea
+2026-04-29,173000,SA6 5HA,D,N,F,27,,Down Street,Clydach,Swansea
+2026-04-27,155000,SA6 5DS,S,N,F,46,,Brynteg,Clydach,Swansea
+2026-04-24,185000,SA6 6SS,S,N,F,28,,Rhodfa'R Dryw,Cwmrhydyceirw,Swansea
+2026-04-24,230000,SA6 6RJ,S,N,F,23,,Orpheus Road,Ynysforgan,Swansea
+2026-04-24,155000,SA6 6HJ,T,N,F,9,,Pleasant Street,Morriston,Swansea
+2026-04-24,485000,SA6 6FF,D,N,F,32,,Cae Canol,Cwmrhydyceirw,Swansea
+2026-04-24,210000,SA6 5JE,S,N,F,8,,Tanylon,Clydach,Swansea
+2026-04-21,105000,SA6 5HB,T,N,F,11,,Heol Y Nant,Clydach,Swansea
+2026-04-20,110000,SA6 8LT,T,N,F,23,,Idris Terrace,Plasmarl,Swansea
+2026-04-20,244000,SA6 6LT,S,N,F,171,,Llanllienwen Road,Cwmrhydyceirw,Swansea
+2026-04-17,165000,SA6 5JX,S,N,F,7,,Langer Way,Clydach,Swansea
+2026-04-13,100000,SA6 7BP,T,N,F,52,,Pentremalwed Road,Morriston,Swansea
+2026-04-13,177500,SA6 5JR,S,N,F,38,,Kelvin Road,Clydach,Swansea
+2026-04-08,112000,SA6 7BY,T,N,F,23,,Pentremalwed Road,Morriston,Swansea
+2026-04-07,180000,SA6 5RG,D,N,F,103,,Rhyddwen Road,Craig Cefn Parc,Swansea
+2026-04-02,100000,SA6 7BG,T,N,F,29,,Clyndu Street,Morriston,Swansea
+2026-04-02,150000,SA6 7AX,T,N,F,1,,De La Beche Terrace,Morriston,Swansea
+2026-04-02,230000,SA6 6HB,T,N,F,76,,Springfield Street,Morriston,Swansea
+2026-04-02,153000,SA6 6DJ,T,N,F,60,,Vicarage Road,Morriston,Swansea
+2026-04-01,185000,SA6 8LA,T,N,F,35,,Landeg Street,Plasmarl,Swansea
+2026-04-01,400000,SA6 6PL,D,N,F,7,,Gordon Rowley Way,Morriston,Swansea
+2026-04-01,495000,SA6 6BT,D,N,F,213,,Clasemont Road,Morriston,Swansea
+2026-03-31,215000,SA6 6TD,S,N,F,24,,Llwyn Y Bioden,Cwmrhydyceirw,Swansea
+2026-03-31,154500,SA6 5JX,S,N,L,20,,Langer Way,Clydach,Swansea
+2026-03-30,120000,SA6 8LA,T,N,F,7,,Landeg Street,Plasmarl,Swansea
+2026-03-30,220000,SA6 6SS,S,N,F,62,,Rhodfa'R Dryw,Cwmrhydyceirw,Swansea
+2026-03-27,395000,SA6 8NN,D,N,F,126,,Salem Road,Morriston,Swansea
+2026-03-27,380000,SA6 6EZ,D,N,F,25,,Cae Eithin,Llangyfelach,Swansea
+2026-03-27,175000,SA6 5JX,S,N,F,14,,Langer Way,Clydach,Swansea
+2026-03-27,280000,SA6 5EY,D,N,F,23,,St Johns Road,Clydach,Swansea
+2026-03-27,165000,SA6 5DD,T,N,F,19,,Martin Street,Clydach,Swansea
+2026-03-26,170000,SA6 6HB,T,N,F,28,,Springfield Street,Morriston,Swansea
+2026-03-24,172500,SA6 6EL,S,N,L,12,,Heol Miaren,Morriston,Swansea
+2026-03-23,120000,SA6 5EQ,T,N,F,10,,Ffynnon Wen,Clydach,Swansea
+2026-03-20,145000,SA6 7JF,S,N,F,128,,Long View Road,Clase,Swansea
+2026-03-19,124400,SA6 5EE,T,N,F,126,,Tyle Teg,Clydach,Swansea
+2026-03-17,179995,SA6 7JE,T,N,F,2,,Eighth Avenue,Clase,Swansea
+2026-03-17,330000,SA6 6FH,D,N,F,52,,Waun Fawr,Cwmrhydyceirw,Swansea
+2026-03-16,123000,SA6 7EU,T,N,F,3,,Heol Cefni,Morriston,Swansea
+2026-03-16,86915,SA6 6TL,T,N,F,10,,Heol Y Fran,Cwmrhydyceirw,Swansea
+2026-03-16,223000,SA6 6SR,S,N,F,4,,Heol Yr Eryr,Cwmrhydyceirw,Swansea
+2026-03-16,285000,SA6 6RR,S,N,F,16,,Glyncollen Drive,Ynysforgan,Swansea
+2026-03-12,130000,SA6 5EU,T,N,F,8,,Sybil Street,Clydach,Swansea
+2026-03-11,195000,SA6 5JN,S,N,F,16,,Carlton Road,Clydach,Swansea
+2026-03-11,175000,SA6 5EU,T,N,F,4,,Sybil Street,Clydach,Swansea
+2026-03-10,100000,SA6 7BP,T,N,F,51,,Pentremalwed Road,Morriston,Swansea
+2026-03-10,330000,SA6 5DY,D,N,F,53,,Western Road,Clydach,Swansea
+2026-03-06,167500,SA6 7AU,S,N,F,71,,Cwmbath Road,Morriston,Swansea
+2026-03-05,350000,SA6 6FJ,D,N,F,1,,Parc Ceirw,Cwmrhydyceirw,Swansea
+2026-03-05,285000,SA6 6AU,S,N,F,31,,Can Yr Eos,Morriston,Swansea
+2026-03-03,292000,SA6 5RA,D,N,F,39,,Rhyddwen Road,Craig Cefn Parc,Swansea
+2026-03-02,70000,SA6 8PG,S,N,F,13A,,Graig Road,Morriston,Swansea
+2026-03-02,130000,SA6 7NU,S,N,F,60,,Solva Road,Clase,Swansea
+2026-03-02,130000,SA6 7LF,T,N,F,7,,Severn Road,Clase,Swansea
+2026-03-02,210000,SA6 7DZ,D,N,F,22,,Park Close,Morriston,Swansea
+2026-03-02,152000,SA6 7BN,T,N,F,14,,Banwell Street,Morriston,Swansea
+2026-02-27,118000,SA6 6DH,T,N,F,18,,Vicarage Road,Morriston,Swansea
+2026-02-27,230000,SA6 6DA,D,N,F,34,,Llys Penpant,Llangyfelach,Swansea
+2026-02-27,250000,SA6 6AT,S,N,F,17,,Llwyn Yr Eos,Morriston,Swansea
+2026-02-27,85000,SA6 6AS,T,N,L,32,,Brangwyn Close,Morriston,Swansea
+2026-02-27,155000,SA6 5JW,S,N,F,6,,Grove Road,Clydach,Swansea
+2026-02-27,235000,SA6 5JU,S,N,F,3,,Ramsay Road,Clydach,Swansea
+2026-02-27,199995,SA6 5HD,S,N,F,15,,Pen Y Wern Road,Clydach,Swansea
+2026-02-27,164000,SA6 5EU,T,N,F,22,,Sybil Street,Clydach,Swansea
+2026-02-23,100000,SA6 7BG,T,N,F,141,,Clyndu Street,Morriston,Swansea
+2026-02-23,232000,SA6 6FE,S,N,F,60,,Ffordd Dewi,Llangyfelach,Swansea
+2026-02-20,68000,SA6 8LT,T,N,F,18,,Idris Terrace,Plasmarl,Swansea
+2026-02-20,142000,SA6 6LA,T,N,F,114,,Heol Fedw,Cwmrhydyceirw,Swansea
+2026-02-19,187000,SA6 7PR,D,N,F,50,,Gelli Gwyn Road,Morriston,Swansea
+2026-02-19,130000,SA6 6HG,D,N,F,90,,Springfield Street,Morriston,Swansea
+2026-02-16,141000,SA6 7AY,T,N,F,51,,Lan Street,Morriston,Swansea
+2026-02-16,401000,SA6 6SU,D,N,F,15,,Llwyn Yr Hebog,Cwmrhydyceirw,Swansea
+2026-02-16,200000,SA6 6DZ,D,N,F,24,,Brayley Road,Morriston,Swansea
+2026-02-13,137000,SA6 6QH,T,N,F,165,,Clydach Road,Morriston,Swansea
+2026-02-10,150000,SA6 7AJ,D,N,F,24,,Horeb Road,Morriston,Swansea
+2026-02-09,180000,SA6 6BS,S,N,F,36,,Penrhiw Road,Morriston,Swansea
+2026-02-09,160000,SA6 5QE,T,N,F,39,,Vera Road,Clydach,Swansea
+2026-02-06,100000,SA6 8DS,T,N,F,25,,Clase Road,Morriston,Swansea
+2026-02-06,140000,SA6 7QH,T,N,F,443,,Trewyddfa Road,Morriston,Swansea
+2026-02-06,170000,SA6 7PE,D,N,F,17,,Garnlwyd Close,Morriston,Swansea
+2026-02-06,210000,SA6 6TB,S,N,F,3,,Heol Yr Wylan,Cwmrhydyceirw,Swansea
+2026-02-06,360000,SA6 6FJ,D,N,F,5,,Parc Ceirw,Cwmrhydyceirw,Swansea
+2026-02-06,166000,SA6 6DJ,T,N,F,65,,Vicarage Road,Morriston,Swansea
+2026-02-04,60000,SA6 8DQ,T,N,F,51,,Glantawe Street,Morriston,Swansea
+2026-02-04,163000,SA6 6EJ,D,N,F,22,,Heol Rhosyn,Morriston,Swansea
+2026-01-30,60000,SA6 8LL,T,N,F,117,,Dinas Street,Plasmarl,Swansea
+2026-01-30,121000,SA6 8DQ,T,N,F,43,,Glantawe Street,Morriston,Swansea
+2026-01-30,162000,SA6 7QQ,S,N,F,242,,Mynydd Garn Lwyd Road,Morriston,Swansea
+2026-01-30,200000,SA6 6QR,S,N,F,48,,Christopher Road,Ynysforgan,Swansea
+2026-01-30,230000,SA6 5SY,S,N,F,Meyonohk,,Clydach Road,Craig Cefn Parc,Swansea
+2026-01-30,210000,SA6 5DZ,T,N,F,10,,Ramsden Road,Clydach,Swansea
+2026-01-29,124999,SA6 8NX,T,N,F,193,,Trewyddfa Road,Morriston,Swansea
+2026-01-29,153000,SA6 8HD,T,N,F,5,,Ash Street,Morriston,Swansea
+2026-01-29,180000,SA6 7DX,D,N,F,34,,Caemawr Road,Morriston,Swansea
+2026-01-28,410000,SA6 6EZ,D,N,F,1,,Cae Eithin,Llangyfelach,Swansea
+2026-01-28,185000,SA6 6BS,S,N,F,29,,Penrhiw Road,Morriston,Swansea
+2026-01-28,262500,SA6 6AZ,D,N,F,14,,Can Yr Aderyn,Morriston,Swansea
+2026-01-23,225000,SA6 6LR,S,N,F,65,,Maes Y Gwernen Drive,Cwmrhydyceirw,Swansea
+2026-01-23,150000,SA6 5TB,T,N,F,23,,Fagwr Road,Craig Cefn Parc,Swansea
+2026-01-23,265000,SA6 5PL,D,N,F,60,,Kingrosia Park,Clydach,Swansea
+2026-01-22,120000,SA6 8DQ,T,N,F,71,,Glantawe Street,Morriston,Swansea
+2026-01-22,129500,SA6 5TB,T,N,F,21,,Fagwr Road,Craig Cefn Parc,Swansea
+2026-01-21,540000,SA6 5JA,D,N,F,4,,Golwg Y Lon,Clydach,Swansea
+2026-01-21,97000,SA6 5HZ,T,N,F,5,,Forge Cottages,Clydach,Swansea
+2026-01-21,114500,SA6 5EQ,T,N,F,16,,Ffynnon Wen,Clydach,Swansea
+2026-01-19,100000,SA6 8HG,T,N,F,511,,Neath Road,Morriston,Swansea
+2026-01-16,115000,SA6 8BP,T,N,F,6,,Glantawe Street,Morriston,Swansea
+2026-01-16,343000,SA6 6RA,D,N,F,26,,Lon Penfro,Cwmrhydyceirw,Swansea
+2026-01-14,71250,SA6 6TU,F,N,L,28,,Lon Draenog,Cwmrhydyceirw,Swansea
+2026-01-09,158000,SA6 5JU,S,N,L,12,,Ramsay Road,Clydach,Swansea
+2026-01-09,257500,SA6 5HS,D,N,F,7,,Gellionen Close,Clydach,Swansea
+2026-01-09,249000,SA6 5AL,S,N,F,46,,Bwllfa Road,Ynystawe,Swansea
+2026-01-06,181000,SA6 5JB,S,N,F,164,,Lone Road,Clydach,Swansea
+2026-01-05,150000,SA6 6BL,S,N,F,3,,Y Llwyni,Llangyfelach,Swansea
+2025-12-19,150000,SA6 7DB,T,N,F,8,,Aran Street,Morriston,Swansea
+2025-12-19,205000,SA6 6TT,T,N,F,5,,Clos Cadno,Cwmrhydyceirw,Swansea
+2025-12-19,175000,SA6 6EJ,S,N,F,2,,Heol Rhosyn,Morriston,Swansea
+2025-12-18,160000,SA6 6QB,T,N,F,123,,Clydach Road,Morriston,Swansea
+2025-12-17,210000,SA6 8NT,D,N,F,4,,Cnap Llwyd Road,Morriston,Swansea
+2025-12-17,259995,SA6 6LN,S,N,F,44,,Maes Y Gwernen Drive,Cwmrhydyceirw,Swansea
+2025-12-15,285000,SA6 7BA,D,N,F,33,,Cwmbath Road,Morriston,Swansea
+2025-12-15,200000,SA6 6EH,D,N,F,9,,Heol Saffrwm,Morriston,Swansea
+2025-12-15,300000,SA6 5AD,D,N,F,61,,Bryntawe Road,Ynystawe,Swansea
+2025-12-12,250000,SA6 6TB,S,N,F,21,,Heol Yr Wylan,Cwmrhydyceirw,Swansea
+2025-12-12,160000,SA6 6QJ,T,N,F,243,,Clydach Road,Morriston,Swansea
+2025-12-12,240000,SA6 6LJ,S,N,F,60,,Cwmrhydyceirw Road,Cwmrhydyceirw,Swansea
+2025-12-12,275000,SA6 6HB,S,N,F,47,,Springfield Street,Morriston,Swansea
+2025-12-12,150000,SA6 5BY,T,N,F,6,,Quarr Road,Clydach,Swansea
+2025-12-08,350000,SA6 5HR,S,N,F,14,,Lone Road,Clydach,Swansea
+2025-12-05,200000,SA6 7QF,D,N,F,5,,Ullswater Crescent,Morriston,Swansea
+2025-12-05,205000,SA6 6AT,S,N,F,5,,Llwyn Yr Eos,Morriston,Swansea
+2025-12-05,170000,SA6 5TB,S,N,F,12,,Fagwr Road,Craig Cefn Parc,Swansea
+2025-12-01,135000,SA6 5EU,T,N,F,10,,Sybil Street,Clydach,Swansea
+2025-11-28,103500,SA6 8LJ,T,N,F,97,,Dinas Street,Plasmarl,Swansea
+2025-11-28,126000,SA6 7JG,S,N,F,148,,Long View Road,Clase,Swansea
+2025-11-28,130000,SA6 7BG,T,N,F,131,,Clyndu Street,Morriston,Swansea
+2025-11-28,190000,SA6 6SZ,S,N,F,15,,Llwyn Yr Iar,Cwmrhydyceirw,Swansea
+2025-11-28,177500,SA6 6EL,S,N,F,10,,Heol Miaren,Morriston,Swansea
+2025-11-28,118000,SA6 6DB,T,N,F,19,,Bryn Rhosyn,Llangyfelach,Swansea
+2025-11-28,375000,SA6 5TB,D,N,F,"Pen Y Graig, 10A",,Fagwr Road,Craig Cefn Parc,Swansea
+2025-11-28,139995,SA6 5DW,S,N,F,13,,Players Avenue,Clydach,Swansea
+2025-11-28,131000,SA6 5DP,S,N,F,29,,Woodside Crescent,Clydach,Swansea
+2025-11-27,340000,SA6 6DA,D,N,F,17,,Llys Penpant,Llangyfelach,Swansea
+2025-11-27,150000,SA6 5DW,S,N,F,1,,Players Avenue,Clydach,Swansea
+2025-11-25,120000,SA6 8LE,S,N,F,16,,Calland Street,Plasmarl,Swansea
+2025-11-25,115500,SA6 7BG,T,N,F,16,,Clyndu Street,Morriston,Swansea
+2025-11-25,237500,SA6 5PZ,S,N,F,48,,Capel Road,Clydach,Swansea
+2025-11-25,155000,SA6 5EJ,T,N,F,6,,Hebron Road,Clydach,Swansea
+2025-11-21,250000,SA6 7QE,D,N,F,21,,Windermere Road,Morriston,Swansea
+2025-11-21,235000,SA6 6SS,S,N,F,67,,Rhodfa'R Dryw,Cwmrhydyceirw,Swansea
+2025-11-21,120000,SA6 5BA,S,N,F,653,,Clydach Road,Ynystawe,Swansea
+2025-11-19,156000,SA6 8EJ,T,N,F,35,,Nixon Terrace,Morriston,Swansea
+2025-11-19,225000,SA6 7PW,D,N,F,40,,Gellifawr Road,Morriston,Swansea
+2025-11-18,465000,SA6 6DT,D,N,F,155,,Vicarage Road,Morriston,Swansea
+2025-11-17,156000,SA6 6TD,T,N,F,9,,Llwyn Y Bioden,Cwmrhydyceirw,Swansea
+2025-11-17,183000,SA6 6FD,D,N,F,2,,Heol Waun Wen,Llangyfelach,Swansea
+2025-11-14,100000,SA6 6LH,S,N,F,15,,Cwmrhydyceirw Road,Cwmrhydyceirw,Swansea
+2025-11-14,132000,SA6 5RE,S,N,F,16,,Lon Heddwch,Clydach,Swansea
+2025-11-13,141000,SA6 8PQ,T,N,F,113,,Graig Road,Morriston,Swansea
+2025-11-12,140000,SA6 5DR,S,N,F,36,,Woodside Crescent,Clydach,Swansea
+2025-11-11,144000,SA6 7BJ,T,N,F,25,,Martin Street,Morriston,Swansea
+2025-11-07,220000,SA6 7PN,D,N,F,3,,Gellifawr Road,Morriston,Swansea
+2025-11-05,235000,SA6 6TN,S,N,F,11,,Heol Cadnawes,Cwmrhydyceirw,Swansea
+2025-11-03,250000,SA6 7QE,D,N,F,45,,Windermere Road,Morriston,Swansea
+2025-10-31,95000,SA6 7EQ,T,N,F,4,,Lon Claerwen,Morriston,Swansea
+2025-10-31,142000,SA6 7BG,T,N,F,122,,Clyndu Street,Morriston,Swansea
+2025-10-31,245000,SA6 6HA,T,N,F,17,,Heol Eirlys,Morriston,Swansea
+2025-10-31,358910,SA6 6EW,D,N,F,5,,Parc Y Delyn,Llangyfelach,Swansea
+2025-10-31,285000,SA6 5PB,D,N,F,147,,Pontardawe Road,Clydach,Swansea
+2025-10-29,122000,SA6 7BG,T,N,F,18,,Clyndu Street,Morriston,Swansea
+2025-10-28,137000,SA6 7BN,T,N,F,32,,Banwell Street,Morriston,Swansea
+2025-10-28,232500,SA6 6LD,D,N,F,16,,Llys Dol,Morriston,Swansea
+2025-10-27,550000,SA6 6HF,D,N,F,4,,Llys Pentrefelen,Morriston,Swansea
+2025-10-27,120000,SA6 5DW,S,N,F,16,,Players Avenue,Clydach,Swansea
+2025-10-24,375000,SA6 6RN,D,N,F,5,,Garth View,Ynysforgan,Swansea
+2025-10-24,230000,SA6 6BY,D,N,F,62,,Heol Pentre Felen,Llangyfelach,Swansea
+2025-10-23,438000,SA6 5TE,D,N,F,Valley View,,Rhyd Y Gwin,Craig Cefn Parc,Swansea
+2025-10-22,175000,SA6 6AR,D,N,F,15,,Pine Crescent,Morriston,Swansea
+2025-10-21,416000,SA6 5SZ,D,N,F,Gwel Y Gelli,,Heol Rhyd,Craig Cefn Parc,Swansea
+2025-10-21,76000,SA6 5RG,F,N,L,85,,Rhyddwen Road,Craig Cefn Parc,Swansea
+2025-10-20,158000,SA6 7NZ,S,N,F,75,,Mynydd Garn Lwyd Road,Morriston,Swansea
+2025-10-20,200000,SA6 6RJ,S,N,F,21,,Orpheus Road,Ynysforgan,Swansea
+2025-10-20,167000,SA6 5JP,S,N,F,28,,Kelvin Road,Clydach,Swansea
+2025-10-17,108000,SA6 8JT,T,N,F,1208,,Neath Road,Plasmarl,Swansea
+2025-10-17,220000,SA6 7PN,D,N,F,11,,Gellifawr Road,Morriston,Swansea
+2025-10-17,115000,SA6 7EN,T,N,F,10,,Lon Sawdde,Morriston,Swansea
+2025-10-17,220000,SA6 5LE,T,N,F,3,,Bridge Street,Clydach,Swansea
+2025-10-17,170000,SA6 5DS,S,N,F,42,,Brynteg,Clydach,Swansea
+2025-10-13,175000,SA6 5RE,S,N,F,33,,Lon Heddwch,Clydach,Swansea
+2025-10-10,150000,SA6 7QH,T,N,F,441,,Trewyddfa Road,Morriston,Swansea
+2025-10-10,65000,SA6 7BG,S,N,F,144,,Clyndu Street,Morriston,Swansea
+2025-10-10,160000,SA6 5HU,S,N,F,89,,Lone Road,Clydach,Swansea
+2025-10-10,255500,SA6 5BN,S,Y,F,16,,Ffordd Y Coetir,Clydach,Swansea
+2025-10-08,122500,SA6 8BW,S,N,F,63,,Woodfield Street,Morriston,Swansea
+2025-10-08,140000,SA6 5JS,T,N,F,25,,Faraday Road,Clydach,Swansea
+2025-10-06,218000,SA6 7DU,S,N,F,37,,Tanylan Terrace,Morriston,Swansea
+2025-10-06,232000,SA6 6QR,S,N,F,49,,Christopher Road,Ynysforgan,Swansea
+2025-10-06,210000,SA6 6DZ,S,N,F,6,,Brayley Road,Morriston,Swansea
+2025-10-06,270000,SA6 5JB,D,N,F,142,,Lone Road,Clydach,Swansea
+2025-10-03,148000,SA6 6JH,S,N,F,40,,Heol Y Deri,Cwmrhydyceirw,Swansea
+2025-10-03,134500,SA6 5JF,S,N,F,35,,Edison Crescent,Clydach,Swansea
+2025-10-03,310000,SA6 5AN,D,N,F,7,,Spionkop Road,Ynystawe,Swansea
+2025-10-02,82000,SA6 7BG,T,N,F,34,,Clyndu Street,Morriston,Swansea
+2025-10-02,260000,SA6 6TA,S,N,F,9,,Heol Y Drudwen,Cwmrhydyceirw,Swansea
+2025-09-30,107250,SA6 7BL,T,N,F,87,,Martin Street,Morriston,Swansea
+2025-09-29,77500,SA6 8LW,T,N,F,10,,Smyrna Street,Plasmarl,Swansea
+2025-09-29,115000,SA6 8DS,S,N,F,20,,Clase Road,Morriston,Swansea
+2025-09-29,275000,SA6 6RD,D,N,F,26,,Clos Crucywel,Cwmrhydyceirw,Swansea
+2025-09-26,140000,SA6 6NW,S,N,F,101,,Heol Maes Eglwys,Pantlasau,Swansea
+2025-09-26,283000,SA6 6FG,T,N,F,39,,Waun Fawr,Cwmrhydyceirw,Swansea
+2025-09-26,300000,SA6 6AG,S,N,L,105,,Pentrepoeth Road,Morriston,Swansea
+2025-09-26,367500,SA6 5LP,D,N,F,19,,Vardre Road,Clydach,Swansea
+2025-09-26,220000,SA6 5JX,S,N,F,5,,Langer Way,Clydach,Swansea
+2025-09-25,195000,SA6 6EP,S,N,F,70,,Heol Rhosyn,Morriston,Swansea
+2025-09-25,177250,SA6 5NQ,S,N,F,12,,Llwynon Road,Clydach,Swansea
+2025-09-24,249995,SA6 6HD,S,N,F,9,,Tawe View Crescent,Morriston,Swansea
+2025-09-22,235000,SA6 7QE,D,N,F,40,,Windermere Road,Morriston,Swansea
+2025-09-19,113000,SA6 8DB,S,N,F,42,,Morris Street,Morriston,Swansea
+2025-09-19,210000,SA6 7ND,S,N,F,11,,Honeysuckle Drive,Clase,Swansea
+2025-09-19,375500,SA6 6RQ,D,N,F,5,,Dee Place,Cwmrhydyceirw,Swansea
+2025-09-19,175000,SA6 5HF,S,N,F,127,,Gellionen Road,Clydach,Swansea
+2025-09-17,170000,SA6 5PZ,D,N,F,34,,Capel Road,Clydach,Swansea
+2025-09-17,180000,SA6 5ER,D,N,F,Min Y Coed,,Lon Eithrym,Clydach,Swansea
+2025-09-16,228000,SA6 6EU,D,N,F,25,,Heol Y Rhedyn,Morriston,Swansea
+2025-09-15,100000,SA6 7AG,T,N,F,3,,Strawberry Place,Morriston,Swansea
+2025-09-12,134000,SA6 8PB,T,N,F,23,,Trewyddfa Terrace,Morriston,Swansea
+2025-09-12,128000,SA6 8DB,T,N,F,47,,Morris Street,Morriston,Swansea
+2025-09-12,120000,SA6 7LN,T,N,F,5,,Second Avenue,Clase,Swansea
+2025-09-10,185000,SA6 6RX,S,N,F,73,,Glyncollen Crescent,Ynysforgan,Swansea
+2025-09-10,235000,SA6 5PJ,D,N,F,95,,Kingrosia Park,Clydach,Swansea
+2025-09-08,135000,SA6 6JN,S,N,F,68,,Heol Fedw,Cwmrhydyceirw,Swansea
+2025-09-08,103500,SA6 6HU,F,N,L,"Birch Court, 44",Apartment 47,Sway Road,Morriston,Swansea
+2025-09-05,112000,SA6 8EX,T,N,F,22,,Wychtree Street,Morriston,Swansea
+2025-09-05,120000,SA6 5JQ,S,N,F,6,,Tan Yr Allt Road,Clydach,Swansea
+2025-09-04,180000,SA6 7DY,S,N,F,36,,Francis Road,Morriston,Swansea
+2025-09-04,180000,SA6 7DY,S,N,L,36,,Francis Road,Morriston,Swansea
+2025-09-04,150000,SA6 6DU,T,N,F,185,,Vicarage Road,Morriston,Swansea
+2025-09-03,409995,SA6 6FF,D,N,F,5,,Cae Canol,Cwmrhydyceirw,Swansea
+2025-09-02,290000,SA6 6RA,S,N,F,15,,Lon Penfro,Cwmrhydyceirw,Swansea
+2025-09-01,150000,SA6 6EY,T,N,F,21,,Y Waun Fach,Llangyfelach,Swansea
+2025-08-29,153000,SA6 7AP,T,N,F,15,,Bath Road,Morriston,Swansea
+2025-08-29,245000,SA6 6HB,D,N,F,31,,Springfield Street,Morriston,Swansea
+2025-08-29,215000,SA6 6BD,S,N,F,4,,Penmachno,Morriston,Swansea
+2025-08-29,160000,SA6 5EH,S,N,F,71,,Hebron Road,Clydach,Swansea
+2025-08-28,248000,SA6 5PZ,S,N,F,4,,Capel Road,Clydach,Swansea
+2025-08-28,148000,SA6 5HR,T,N,F,37,,Lone Road,Clydach,Swansea
+2025-08-27,104000,SA6 6QH,T,N,F,181,,Clydach Road,Morriston,Swansea
+2025-08-22,255000,SA6 6QJ,D,N,F,369,,Clydach Road,Morriston,Swansea
+2025-08-22,370000,SA6 6FJ,D,N,F,3,,Parc Ceirw,Cwmrhydyceirw,Swansea
+2025-08-22,127000,SA6 5HA,T,N,F,19,,Down Street,Clydach,Swansea
+2025-08-21,270000,SA6 6BY,D,N,F,52,,Heol Pentre Felen,Llangyfelach,Swansea
+2025-08-19,223000,SA6 8NL,S,N,F,26,,Trewyddfa Road,Plasmarl,Swansea
+2025-08-18,225000,SA6 6NJ,S,N,F,88,,Rhodfa Fadog,Cwmrhydyceirw,Swansea
+2025-08-18,153685,SA6 5EW,S,N,F,17,,Factory Road,Clydach,Swansea
+2025-08-15,99500,SA6 8HN,T,N,F,39,,Trewyddfa Common,Morriston,Swansea
+2025-08-15,117050,SA6 8DA,T,N,F,8,,Market Street,Morriston,Swansea
+2025-08-15,242000,SA6 7DY,D,N,F,30,,Francis Road,Morriston,Swansea
+2025-08-15,245000,SA6 6TS,S,N,F,2,,Cwrt Hydd,Cwmrhydyceirw,Swansea
+2025-08-15,185000,SA6 6SS,S,N,F,59,,Rhodfa'R Dryw,Cwmrhydyceirw,Swansea
+2025-08-15,355000,SA6 6HQ,D,N,F,20,,Penrice Street,Morriston,Swansea
+2025-08-15,399995,SA6 6EE,D,N,F,14,,Bishops Walk,Morriston,Swansea
+2025-08-15,267000,SA6 5JW,S,N,F,4,,Grove Road,Clydach,Swansea
+2025-08-15,150000,SA6 5DS,T,N,L,14,,Brynteg,Clydach,Swansea
+2025-08-14,375000,SA6 5AN,D,N,F,29,,Spionkop Road,Ynystawe,Swansea
+2025-08-12,495000,SA6 5RG,D,N,F,118,,Rhyddwen Road,Craig Cefn Parc,Swansea
+2025-08-12,355000,SA6 5AR,D,N,F,The Vicarage,,Woodland Park,Ynystawe,Swansea
+2025-08-11,205000,SA6 6LT,T,N,F,139,,Llanllienwen Road,Cwmrhydyceirw,Swansea
+2025-08-08,105000,SA6 8NL,T,N,F,58,,Trewyddfa Road,Plasmarl,Swansea
+2025-08-08,85000,SA6 8HX,T,N,F,85,,Parc Avenue,Morriston,Swansea
+2025-08-08,120000,SA6 6HU,F,N,L,"Birch Court, 44",Apartment 30,Sway Road,Morriston,Swansea
+2025-08-08,115000,SA6 6BR,T,N,F,60,,Penrhiw Road,Morriston,Swansea
+2025-08-08,120000,SA6 6BA,D,N,F,1,,Pen Yr Yrfa,Morriston,Swansea
+2025-08-05,90000,SA6 8EB,T,N,F,67,,Tirpenry Street,Morriston,Swansea
+2025-08-01,106000,SA6 8LQ,T,N,F,29,,Dinas Street,Plasmarl,Swansea
+2025-08-01,160000,SA6 8DG,T,N,F,4,,Margam Avenue,Morriston,Swansea
+2025-08-01,350000,SA6 6LN,S,N,F,2,,Maes Y Gwernen Drive,Cwmrhydyceirw,Swansea
+2025-07-30,290000,SA6 6FH,S,N,F,44,,Waun Fawr,Cwmrhydyceirw,Swansea
+2025-07-29,380000,SA6 5ER,D,N,F,Pen Y Bryn,,Lon Eithrym,Clydach,Swansea
+2025-07-28,180000,SA6 7DW,T,N,F,2,,Mount Street,Morriston,Swansea
+2025-07-28,325000,SA6 6AG,D,N,F,101,,Pentrepoeth Road,Morriston,Swansea
+2025-07-25,285000,SA6 6PJ,S,N,F,28,,Dan Danino Way,Morriston,Swansea
+2025-07-25,228000,SA6 5AN,T,N,F,1B,,Spionkop Road,Ynystawe,Swansea
+2025-07-24,175000,SA6 6FD,S,N,F,36,,Heol Waun Wen,Llangyfelach,Swansea
+2025-07-24,156000,SA6 5HB,S,N,F,27,,Heol Y Nant,Clydach,Swansea
+2025-07-22,105000,SA6 7LQ,S,N,F,76,,Severn Road,Clase,Swansea
+2025-07-22,135000,SA6 5LP,S,N,F,9,,Vardre Road,Clydach,Swansea
+2025-07-21,220000,SA6 7DX,T,N,F,11,,Caemawr Road,Morriston,Swansea
+2025-07-21,344000,SA6 6DR,S,N,F,141,,Vicarage Road,Morriston,Swansea
+2025-07-21,225000,SA6 5BZ,S,N,F,10,,Heol Y Graig,Clydach,Swansea
+2025-07-21,144000,SA6 5AX,T,N,F,589,,Clydach Road,Ynystawe,Swansea
+2025-07-18,116000,SA6 7BA,T,N,F,21,,Cwmbath Road,Morriston,Swansea
+2025-07-18,150000,SA6 6QH,T,N,F,163,,Clydach Road,Morriston,Swansea
+2025-07-18,160000,SA6 5DX,S,N,F,34,,Hillrise Park,Clydach,Swansea
+2025-07-17,106000,SA6 8LA,T,N,F,19,,Landeg Street,Plasmarl,Swansea
+2025-07-17,212500,SA6 6RN,S,N,F,14,,Garth View,Ynysforgan,Swansea
+2025-07-11,265000,SA6 7QF,D,N,F,22,,Ullswater Crescent,Morriston,Swansea
+2025-07-11,140000,SA6 6JH,T,N,F,9,,Heol Y Deri,Cwmrhydyceirw,Swansea
+2025-07-11,303000,SA6 6FH,D,N,F,6,,Waun Fawr,Cwmrhydyceirw,Swansea
+2025-07-11,210000,SA6 5PJ,D,N,F,121,,Kingrosia Park,Clydach,Swansea
+2025-07-09,210000,SA6 7PD,D,N,F,58,,Cwmgelli Road,Morriston,Swansea
+2025-07-08,210000,SA6 6EP,D,N,F,46,,Heol Rhosyn,Morriston,Swansea
+2025-07-07,320000,SA6 7DQ,D,N,F,3,,Ffordd Y Parc,Morriston,Swansea
+2025-07-07,162500,SA6 6EN,D,N,L,21,,Heol Y Grug,Morriston,Swansea
+2025-07-04,129000,SA6 8DG,T,N,F,28,,Margam Avenue,Morriston,Swansea
+2025-07-04,158000,SA6 7JD,S,N,F,4,,Ramsey Drive,Clase,Swansea
+2025-07-04,127500,SA6 7AW,T,N,F,20,,Bath Avenue,Morriston,Swansea
+2025-07-04,140000,SA6 5HT,S,N,F,3,,Bryn Road,Clydach,Swansea
+2025-07-04,335000,SA6 5ET,T,N,F,50,,Twyn Y Bedw,Clydach,Swansea
+2025-07-03,137500,SA6 5RE,S,N,F,30,,Lon Heddwch,Clydach,Swansea
+2025-07-02,240000,SA6 5PF,D,N,F,146,,Kingrosia Park,Clydach,Swansea
+2025-07-01,135000,SA6 5EE,T,N,F,103,,Tyle Teg,Clydach,Swansea
+2025-06-30,222500,SA6 7PA,D,N,L,18,,Glasbury Road,Morriston,Swansea
+2025-06-30,180000,SA6 6TD,S,N,F,26,,Llwyn Y Bioden,Cwmrhydyceirw,Swansea
+2025-06-30,160000,SA6 5DX,S,N,F,33,,Hillrise Park,Clydach,Swansea
+2025-06-27,255000,SA6 7QE,D,N,F,29,,Windermere Road,Morriston,Swansea
+2025-06-27,123000,SA6 7BQ,T,N,F,9,,Clyndu Street,Morriston,Swansea
+2025-06-27,237000,SA6 6TN,S,N,F,2,,Heol Cadnawes,Cwmrhydyceirw,Swansea
+2025-06-27,142500,SA6 6JG,S,N,F,132,,Chemical Road,Morriston,Swansea
+2025-06-27,181000,SA6 6FD,S,N,F,46,,Heol Waun Wen,Llangyfelach,Swansea
+2025-06-27,179000,SA6 6FD,D,N,F,16,,Heol Waun Wen,Llangyfelach,Swansea
+2025-06-27,139750,SA6 5LA,S,Y,L,51,,Bryn Hawddgar,Clydach,Swansea
+2025-06-25,117000,SA6 7LA,T,N,F,77,,Creswell Road,Clase,Swansea
+2025-06-20,110000,SA6 7JE,T,N,F,6,,Eighth Avenue,Clase,Swansea
+2025-06-20,141000,SA6 7JB,T,N,F,11,,Ruggles Terrace,Clase,Swansea
+2025-06-20,166500,SA6 6BL,T,N,F,44,,Y Llwyni,Llangyfelach,Swansea
+2025-06-19,136000,SA6 5RG,S,N,F,79,,Rhyddwen Road,Craig Cefn Parc,Swansea
+2025-06-17,120000,SA6 6HU,F,N,L,"Birch Court, 44",Apartment 23,Sway Road,Morriston,Swansea
+2025-06-16,120000,SA6 8EU,T,N,F,5,,Tawe Street,Morriston,Swansea
+2025-06-16,200000,SA6 7ND,S,N,F,40,,Honeysuckle Drive,Clase,Swansea
+2025-06-16,180000,SA6 6LH,T,N,F,33,,Cwmrhydyceirw Road,Cwmrhydyceirw,Swansea
+2025-06-16,225000,SA6 5TB,D,N,F,6,,Fagwr Road,Craig Cefn Parc,Swansea
+2025-06-16,167000,SA6 5RB,S,N,F,1,,Lon Heddwch,Craig Cefn Parc,Swansea
+2025-06-13,100000,SA6 8JY,T,N,F,17,,Millbrook Street,Plasmarl,Swansea
+2025-06-13,182500,SA6 6FD,S,N,F,64,,Heol Waun Wen,Llangyfelach,Swansea
+2025-06-13,172000,SA6 5RZ,S,N,F,41,,Ffordd Ellen,Craig Cefn Parc,Swansea
+2025-06-13,230000,SA6 5EW,D,N,F,20,,Factory Road,Clydach,Swansea
+2025-06-11,160000,SA6 6QW,T,N,F,457,,Clydach Road,Ynysforgan,Swansea
+2025-06-11,255000,SA6 6PB,S,N,F,51,,Rhydypandy Road,Morriston,Swansea
+2025-06-10,120000,SA6 8EX,T,N,L,38,,Wychtree Street,Morriston,Swansea
+2025-06-09,145000,SA6 8EX,T,N,F,15,,Wychtree Street,Morriston,Swansea
+2025-06-09,167000,SA6 6QD,S,N,F,25,,Field Close,Morriston,Swansea
+2025-06-06,220000,SA6 8PF,S,N,L,17,,Llewellyn Park Drive,Morriston,Swansea
+2025-06-06,144000,SA6 5HR,T,N,F,35,,Lone Road,Clydach,Swansea
+2025-06-06,425000,SA6 5AG,D,N,F,30,,Plas Cadwgan Road,Ynystawe,Swansea
+2025-06-03,159000,SA6 8BR,T,N,F,42,,Crown Street,Morriston,Swansea
+2025-06-02,157000,SA6 6FD,S,N,F,60,,Heol Waun Wen,Llangyfelach,Swansea
+2025-06-02,740000,SA6 5AS,D,N,F,1,,Clos Aaron,Ynystawe,Swansea
+2025-05-30,192000,SA6 8PF,S,N,L,61,,Llewellyn Park Drive,Morriston,Swansea
+2025-05-30,220000,SA6 7DP,D,N,F,17,,Dan Y Parc,Morriston,Swansea
+2025-05-30,140000,SA6 6HQ,T,N,F,7,,Penrice Street,Morriston,Swansea
+2025-05-30,180000,SA6 6BB,S,N,F,7,,Arwelfa,Morriston,Swansea
+2025-05-30,320000,SA6 5RG,D,N,F,117,,Rhyddwen Road,Craig Cefn Parc,Swansea
+2025-05-30,220000,SA6 5RA,S,N,F,23,,Rhyddwen Road,Craig Cefn Parc,Swansea
+2025-05-30,120000,SA6 5JP,S,N,F,16,,Kelvin Road,Clydach,Swansea
+2025-05-30,94000,SA6 5HA,T,N,F,21,,Down Street,Clydach,Swansea
+2025-05-28,103000,SA6 6BR,F,N,L,43,,Penrhiw Road,Morriston,Swansea
+2025-05-26,76000,SA6 8LQ,T,N,F,43,,Dinas Street,Plasmarl,Swansea
+2025-05-23,270000,SA6 8NL,D,N,F,11,,Trewyddfa Road,Plasmarl,Swansea
+2025-05-23,240000,SA6 6BP,S,N,F,12,,Furze Crescent,Morriston,Swansea
+2025-05-22,115000,SA6 6EY,T,N,F,32,,Y Waun Fach,Llangyfelach,Swansea
+2025-05-21,100000,SA6 5HB,F,N,L,37,,Heol Y Nant,Clydach,Swansea
+2025-05-20,165000,SA6 8HJ,T,N,F,19,,Parc Avenue,Morriston,Swansea
+2025-05-20,125000,SA6 6DJ,T,N,F,49,,Vicarage Road,Morriston,Swansea
+2025-05-19,132000,SA6 8HG,T,N,F,550,,Neath Road,Morriston,Swansea
+2025-05-16,116000,SA6 8DB,T,N,F,8,,Morris Street,Morriston,Swansea
+2025-05-16,102000,SA6 7LD,T,N,F,16,,Creswell Road,Clase,Swansea
+2025-05-16,171850,SA6 7AY,S,N,F,58,,Lan Street,Morriston,Swansea
+2025-05-16,250000,SA6 6TB,S,N,F,16,,Heol Yr Wylan,Cwmrhydyceirw,Swansea
+2025-05-16,205000,SA6 6DU,S,N,F,194,,Vicarage Road,Morriston,Swansea
+2025-05-16,180000,SA6 6DD,D,N,F,6,,Delfan,Llangyfelach,Swansea
+2025-05-16,143500,SA6 5NQ,T,N,F,29,,Llwynon Road,Clydach,Swansea
+2025-05-09,245000,SA6 6DJ,D,N,F,64,,Vicarage Road,Morriston,Swansea
+2025-05-09,320000,SA6 5PA,D,N,F,118,,Pontardawe Road,Clydach,Swansea
+2025-05-09,195000,SA6 5DE,T,N,F,17,,Bethania Road,Clydach,Swansea
+2025-05-08,208000,SA6 5QB,S,N,F,24,,Beryl Road,Clydach,Swansea
+2025-05-08,152000,SA6 5JU,S,N,F,6,,Ramsay Road,Clydach,Swansea
+2025-05-02,168000,SA6 6ET,T,N,L,4,,Maes Y Dderwen,Llangyfelach,Swansea
+2025-05-02,94000,SA6 6BP,F,N,F,5,,Furze Crescent,Morriston,Swansea
+2025-05-02,370000,SA6 5PA,D,N,F,172,,Pontardawe Road,Clydach,Swansea
+2025-04-30,182000,SA6 7DY,D,N,F,9,,Francis Road,Morriston,Swansea
+2025-04-28,118000,SA6 5EB,S,N,F,60,,Tyle Teg,Clydach,Swansea
+2025-04-25,295000,SA6 6LS,S,N,F,2,,Maes Y Gwernen Close,Cwmrhydyceirw,Swansea
+2025-04-25,185000,SA6 6DB,S,N,F,11,,Bryn Rhosyn,Llangyfelach,Swansea
+2025-04-24,170000,SA6 6FD,S,N,F,40,,Heol Waun Wen,Llangyfelach,Swansea
+2025-04-24,245000,SA6 6DU,S,N,F,188,,Vicarage Road,Morriston,Swansea
+2025-04-24,410000,SA6 6BG,D,N,F,27,,Cae Pen Pant,Llangyfelach,Swansea
+2025-04-23,220000,SA6 8NW,D,N,F,46,,Castle Graig,Morriston,Swansea
+2025-04-23,180000,SA6 7NZ,S,N,F,66,,Mynydd Garn Lwyd Road,Morriston,Swansea
+2025-04-23,150000,SA6 7DS,T,N,L,20,,Parry Road,Morriston,Swansea
+2025-04-17,125950,SA6 8EJ,T,N,F,14,,Nixon Terrace,Morriston,Swansea
+2025-04-17,178000,SA6 7PS,D,N,F,16,,Gelli Glas Road,Morriston,Swansea
+2025-04-17,160000,SA6 6SA,S,N,F,31,,Glyncollen Crescent,Ynysforgan,Swansea
+2025-04-14,600000,SA6 5PB,S,N,L,119A,,Pontardawe Road,Clydach,Swansea
+2025-04-11,270000,SA6 8NT,D,N,F,7,,Cnap Llwyd Road,Morriston,Swansea
+2025-04-11,130000,SA6 8LL,T,N,F,114,,Dinas Street,Plasmarl,Swansea
+2025-04-11,137500,SA6 8BD,S,N,F,69,,Crown Street,Morriston,Swansea
+2025-04-09,215000,SA6 6QP,D,N,F,477,,Clydach Road,Ynysforgan,Swansea
+2025-04-09,169995,SA6 5RB,S,N,F,3,,Lon Heddwch,Craig Cefn Parc,Swansea
+2025-04-09,315000,SA6 5DY,D,N,F,8,,Western Road,Clydach,Swansea
+2025-04-09,270000,SA6 5AY,D,N,F,562,,Clydach Road,Ynystawe,Swansea
+2025-04-04,155000,SA6 8NY,T,N,F,80,,Trewyddfa Road,Morriston,Swansea
+2025-04-04,110000,SA6 8LU,T,N,F,21,,Plasmarl Terrace,Plasmarl,Swansea
+2025-04-04,230000,SA6 5JB,S,N,F,167,,Lone Road,Clydach,Swansea
+2025-04-03,375000,SA6 5RG,D,N,F,Dolycoed,,Rhyddwen Road,Craig Cefn Parc,Swansea
+2025-04-01,315000,SA6 6PL,D,N,F,15,,Gordon Rowley Way,Morriston,Swansea
+2025-04-01,420000,SA6 5EZ,S,N,F,2,,Ger Y Coed,Clydach,Swansea
+2025-03-28,150000,SA6 8HJ,S,N,F,7,,Parc Avenue,Morriston,Swansea
+2025-03-28,125000,SA6 8BL,T,N,F,15,,Harris Street,Morriston,Swansea
+2025-03-28,225000,SA6 6TR,S,N,F,42,,Llwyn Carw,Cwmrhydyceirw,Swansea
+2025-03-28,306000,SA6 6TL,D,N,F,35,,Heol Y Fran,Cwmrhydyceirw,Swansea
+2025-03-28,220000,SA6 6TJ,D,N,F,5,,Radnor Drive,Morriston,Swansea
+2025-03-28,132000,SA6 6RY,S,N,F,18,,Gwernfadog Road,Ynysforgan,Swansea
+2025-03-28,499500,SA6 6FF,D,Y,F,21,,Cae Canol,Cwmrhydyceirw,Swansea
+2025-03-28,255000,SA6 6DP,D,N,F,94,,Vicarage Road,Morriston,Swansea
+2025-03-28,160000,SA6 6DJ,T,N,F,67,,Vicarage Road,Morriston,Swansea
+2025-03-28,365000,SA6 5TA,D,N,F,78,,Clydach Road,Craig Cefn Parc,Swansea
+2025-03-28,225000,SA6 5PF,D,N,F,186,,Kingrosia Park,Clydach,Swansea
+2025-03-25,130000,SA6 7ET,T,N,F,51,,Heol Cefni,Morriston,Swansea
+2025-03-25,61000,SA6 5DJ,S,N,F,96,,Heol Graig Felen,Clydach,Swansea
+2025-03-21,160000,SA6 6JE,S,N,F,34,,Chemical Road,Morriston,Swansea
+2025-03-21,335000,SA6 6DR,S,N,F,139,,Vicarage Road,Morriston,Swansea
+2025-03-21,270000,SA6 6BB,S,N,F,2,,Arwelfa,Morriston,Swansea
+2025-03-21,180000,SA6 5JU,S,N,F,22,,Ramsay Road,Clydach,Swansea
+2025-03-17,185000,SA6 6BD,S,N,F,5,,Penmachno,Morriston,Swansea
+2025-03-14,370000,SA6 8NT,D,N,F,29,,Cnap Llwyd Road,Morriston,Swansea
+2025-03-14,218000,SA6 7QF,D,N,F,53,,Ullswater Crescent,Morriston,Swansea
+2025-03-11,205000,SA6 8PD,D,N,F,281,,Trewyddfa Road,Morriston,Swansea
+2025-03-07,166000,SA6 8BR,S,N,F,48,,Crown Street,Morriston,Swansea
+2025-03-07,195000,SA6 6RD,S,N,F,16,,Clos Crucywel,Cwmrhydyceirw,Swansea
+2025-03-07,382500,SA6 6EZ,D,N,F,32,,Cae Eithin,Llangyfelach,Swansea
+2025-03-07,92000,SA6 5HR,T,N,F,32,,Lone Road,Clydach,Swansea
+2025-03-06,160000,SA6 5DS,S,N,F,23,,Brynteg,Clydach,Swansea
+2025-03-03,162500,SA6 6TU,T,N,F,8,,Lon Draenog,Cwmrhydyceirw,Swansea
+2025-03-03,213000,SA6 6FD,S,N,F,94,,Heol Waun Wen,Llangyfelach,Swansea
+2025-03-03,187000,SA6 5RH,D,N,F,23,,Mountain Road,Craig Cefn Parc,Swansea
+2025-02-28,172000,SA6 6TB,S,N,F,12,,Heol Yr Wylan,Cwmrhydyceirw,Swansea
+2025-02-28,220000,SA6 6SS,S,N,F,45,,Rhodfa'R Dryw,Cwmrhydyceirw,Swansea
+2025-02-28,179000,SA6 6FD,S,N,F,71,,Heol Waun Wen,Llangyfelach,Swansea
+2025-02-27,150000,SA6 8PF,S,N,F,47,,Llewellyn Park Drive,Morriston,Swansea
+2025-02-27,210000,SA6 5AN,D,N,F,11,,Spionkop Road,Ynystawe,Swansea
+2025-02-26,85000,SA6 7AT,S,N,F,71,,Bath Road,Morriston,Swansea
+2025-02-25,175000,SA6 6NE,S,N,F,40,,Clos Cenawon,Cwmrhydyceirw,Swansea
+2025-02-24,246000,SA6 6NA,T,N,F,62,,Llanllienwen Road,Cwmrhydyceirw,Swansea
+2025-02-24,250000,SA6 5EY,D,N,F,15,,St Johns Road,Clydach,Swansea
+2025-02-21,118000,SA6 7AA,T,N,F,11,,Treharne Road,Morriston,Swansea
+2025-02-21,263000,SA6 6TN,S,N,F,16,,Heol Cadnawes,Cwmrhydyceirw,Swansea
+2025-02-21,275000,SA6 6BU,S,N,F,335,,Clasemont Road,Morriston,Swansea
+2025-02-21,320000,SA6 5RH,D,N,F,30,,Mountain Road,Craig Cefn Parc,Swansea
+2025-02-20,90000,SA6 7LD,S,N,F,5,,Creswell Road,Clase,Swansea
+2025-02-20,167200,SA6 5TA,S,N,F,52,,Clydach Road,Craig Cefn Parc,Swansea
+2025-02-20,153000,SA6 5RA,S,N,F,12,,Rhyddwen Road,Craig Cefn Parc,Swansea
+2025-02-20,165000,SA6 5HD,T,N,F,24,,Pen Y Wern Road,Clydach,Swansea
+2025-02-20,110000,SA6 5DH,S,N,F,75,,Heol Graig Felen,Clydach,Swansea
+2025-02-18,185000,SA6 6AX,S,N,F,19,,Telyn Aur,Morriston,Swansea
+2025-02-14,70000,SA6 8HD,T,N,F,4,,Ash Street,Morriston,Swansea
+2025-02-14,275000,SA6 7PG,D,N,F,9,,Bryn Eglur Road,Morriston,Swansea
+2025-02-14,215000,SA6 7EB,D,N,F,121A,,Caemawr Road,Morriston,Swansea
+2025-02-14,255000,SA6 6TN,S,N,F,15,,Heol Cadnawes,Cwmrhydyceirw,Swansea
+2025-02-14,385000,SA6 6FJ,D,N,F,5,,Parc Ceirw,Cwmrhydyceirw,Swansea
+2025-02-14,367500,SA6 5EY,D,N,F,1,,St Johns Road,Clydach,Swansea
+2025-02-14,370000,SA6 5AW,D,N,F,6,,Bryntawe Hall Close,Ynystawe,Swansea
+2025-02-13,212000,SA6 7EA,S,N,F,70,,Caemawr Road,Morriston,Swansea
+2025-02-12,95000,SA6 6JH,T,N,F,33,,Heol Y Deri,Cwmrhydyceirw,Swansea
+2025-02-11,185000,SA6 6EL,D,N,F,19,,Heol Miaren,Morriston,Swansea
+2025-02-07,206000,SA6 7JG,S,N,F,241,,Long View Road,Clase,Swansea
+2025-02-07,176500,SA6 6TB,T,N,F,11,,Heol Yr Wylan,Cwmrhydyceirw,Swansea
+2025-02-07,235000,SA6 6DS,S,N,F,8,,Maes Y Coed,Morriston,Swansea
+2025-02-07,485000,SA6 5PX,D,N,F,4,,Llys Gwilym,Clydach,Swansea
+2025-02-07,165000,SA6 5JR,T,N,F,79,,Kelvin Road,Clydach,Swansea
+2025-02-07,420000,SA6 5JN,D,N,F,29,,Carlton Road,Clydach,Swansea
+2025-02-07,145000,SA6 5HR,T,N,F,33,,Lone Road,Clydach,Swansea
+2025-02-06,155000,SA6 6HH,T,N,F,72,,Pleasant Street,Morriston,Swansea
+2025-02-06,195000,SA6 6ED,D,N,L,26,,Camellia Drive,Morriston,Swansea
+2025-02-04,67000,SA6 7BA,S,N,F,29,,Cwmbath Road,Morriston,Swansea
+2025-01-31,125000,SA6 8LJ,T,N,F,133,,Dinas Street,Plasmarl,Swansea
+2025-01-31,80000,SA6 7BG,T,N,F,59,,Clyndu Street,Morriston,Swansea
+2025-01-31,160000,SA6 6RU,T,N,F,33,,Cefn Glas,Ynysforgan,Swansea
+2025-01-31,245000,SA6 6DQ,D,N,F,4,,Bryn Y Gors,Llangyfelach,Swansea
+2025-01-31,96000,SA6 6BH,S,N,F,13,,Y Berllan,Llangyfelach,Swansea
+2025-01-31,157000,SA6 5PJ,D,N,F,97,,Kingrosia Park,Clydach,Swansea
+2025-01-31,252000,SA6 5NP,D,N,F,12,,Clos Ceri,Clydach,Swansea
+2025-01-28,400000,SA6 5AN,D,N,F,8,,Spionkop Road,Ynystawe,Swansea
+2025-01-28,275000,SA6 5AL,D,N,F,51,,Bwllfa Road,Ynystawe,Swansea
+2025-01-24,100000,SA6 7QQ,S,N,F,240,,Mynydd Garn Lwyd Road,Morriston,Swansea
+2025-01-22,120000,SA6 8LL,T,N,F,123,,Dinas Street,Plasmarl,Swansea
+2025-01-22,176000,SA6 6HH,T,N,F,52,,Pleasant Street,Morriston,Swansea
+2025-01-22,138000,SA6 6AS,T,N,F,35,,Brangwyn Close,Morriston,Swansea
+2025-01-21,110000,SA6 5RE,S,N,F,51,,Lon Heddwch,Clydach,Swansea
+2025-01-17,115000,SA6 5JX,S,N,L,9,,Langer Way,Clydach,Swansea
+2025-01-10,185000,SA6 6TH,T,N,F,67,,Denbigh Crescent,Ynysforgan,Swansea
+2025-01-10,287000,SA6 6PS,D,N,F,4,,Jessop Court,Morriston,Swansea
+2025-01-10,136000,SA6 6BJ,T,N,F,2,,Llysgwyn,Llangyfelach,Swansea
+2025-01-10,280000,SA6 6AN,D,N,F,3,,Coed Cae Bach,Cwmrhydyceirw,Swansea
+2025-01-09,245000,SA6 7PR,D,N,F,43,,Gelli Gwyn Road,Morriston,Swansea
+2025-01-08,175000,SA6 6TJ,S,N,F,36,,Radnor Drive,Morriston,Swansea
+2025-01-08,230000,SA6 6HQ,S,N,F,32,,Penrice Street,Morriston,Swansea
+2025-01-08,325000,SA6 5EW,D,N,F,26,,Factory Road,Clydach,Swansea
+2024-12-20,138000,SA6 6SA,T,N,F,60,,Glyncollen Crescent,Ynysforgan,Swansea
+2024-12-19,70000,SA6 8LE,T,N,F,24,,Calland Street,Plasmarl,Swansea
+2024-12-19,90000,SA6 8LD,F,N,F,70,,Salem Road,Plasmarl,Swansea
+2024-12-19,95000,SA6 8DB,T,N,F,19,,Morris Street,Morriston,Swansea
+2024-12-19,122000,SA6 7EQ,T,N,F,5,,Lon Claerwen,Morriston,Swansea
+2024-12-19,230000,SA6 6SS,S,N,F,32,,Rhodfa'R Dryw,Cwmrhydyceirw,Swansea
+2024-12-19,245000,SA6 6RA,T,N,F,2,,Lon Penfro,Cwmrhydyceirw,Swansea
+2024-12-19,265000,SA6 6LS,D,N,F,53,,Maes Y Gwernen Close,Cwmrhydyceirw,Swansea
+2024-12-18,108000,SA6 8LF,T,N,F,15,,Davis Street,Plasmarl,Swansea
+2024-12-18,94000,SA6 5DX,T,N,F,65,,Hillrise Park,Clydach,Swansea
+2024-12-17,168000,SA6 6RW,S,N,F,22,,Elizabeth Close,Ynysforgan,Swansea
+2024-12-17,105000,SA6 6HX,T,N,F,7,,Soar Terrace,Morriston,Swansea
+2024-12-16,135000,SA6 7JF,S,N,F,102,,Long View Road,Clase,Swansea
+2024-12-16,315000,SA6 6FH,D,N,F,68,,Waun Fawr,Cwmrhydyceirw,Swansea
+2024-12-16,260000,SA6 6DW,D,N,F,77,,Heol Pentre Felen,Llangyfelach,Swansea
+2024-12-16,375000,SA6 6DW,D,N,F,65,,Heol Pentre Felen,Llangyfelach,Swansea
+2024-12-16,234000,SA6 5JW,S,N,F,2,,Grove Road,Clydach,Swansea
+2024-12-16,276000,SA6 5HS,T,N,F,1,,Gellionen Close,Clydach,Swansea
+2024-12-16,235000,SA6 5AL,S,N,F,19,,Bwllfa Road,Ynystawe,Swansea
+2024-12-13,260000,SA6 7PB,D,N,F,32,,Mynydd Garn Lwyd Road,Morriston,Swansea
+2024-12-13,139000,SA6 7JY,S,N,F,63,,Rheidol Avenue,Clase,Swansea
+2024-12-13,140000,SA6 7BA,D,N,F,50A,,Cwmbath Road,Morriston,Swansea
+2024-12-13,150000,SA6 6HU,F,N,L,"Birch Court, 44",Apartment 39,Sway Road,Morriston,Swansea
+2024-12-13,120000,SA6 5EQ,T,N,F,36,,Ffynnon Wen,Clydach,Swansea
+2024-12-12,105000,SA6 8LF,T,N,F,19,,Davis Street,Plasmarl,Swansea
+2024-12-12,156000,SA6 8HJ,T,N,F,14,,Parc Avenue,Morriston,Swansea
+2024-12-12,225000,SA6 6RH,S,N,F,55,,Orpheus Road,Ynysforgan,Swansea
+2024-12-10,150000,SA6 5HU,T,N,F,58,,Lone Road,Clydach,Swansea
+2024-12-09,180000,SA6 6TW,T,N,F,10,,Cwrt Llwynog,Cwmrhydyceirw,Swansea
+2024-12-09,225000,SA6 6BU,S,N,F,313,,Clasemont Road,Morriston,Swansea
+2024-12-09,169000,SA6 5NE,S,N,F,35,,Penydre Road,Clydach,Swansea
+2024-12-09,157000,SA6 5EB,S,N,F,84,,Tyle Teg,Clydach,Swansea
+2024-12-06,147500,SA6 6JJ,S,N,F,4,,Heol Tir Du,Cwmrhydyceirw,Swansea
+2024-12-06,299995,SA6 6FF,S,N,F,64,,Cae Canol,Cwmrhydyceirw,Swansea
+2024-12-06,185000,SA6 6FD,S,N,F,38,,Heol Waun Wen,Llangyfelach,Swansea
+2024-12-06,178000,SA6 5PL,D,N,F,60,,Kingrosia Park,Clydach,Swansea
+2024-12-04,158000,SA6 6JY,T,N,F,14,,Waun Road,Morriston,Swansea
+2024-12-04,370000,SA6 5FB,D,N,F,1,,Clos Salem,Clydach,Swansea
+2024-12-03,149995,SA6 5BA,T,N,F,669,,Clydach Road,Ynystawe,Swansea
+2024-12-02,370000,SA6 5AG,D,N,F,5,,Plas Cadwgan Road,Ynystawe,Swansea
+2024-11-29,72000,SA6 8LQ,T,N,F,22,,Dinas Street,Plasmarl,Swansea
+2024-11-29,158000,SA6 7EW,S,N,F,9,,Lan Manor,Morriston,Swansea
+2024-11-29,155750,SA6 6TT,T,N,F,29,,Clos Cadno,Cwmrhydyceirw,Swansea
+2024-11-29,270000,SA6 6LH,D,N,F,26A,,Cwmrhydyceirw Road,Cwmrhydyceirw,Swansea
+2024-11-29,194000,SA6 6EJ,D,N,F,15,,Heol Rhosyn,Morriston,Swansea
+2024-11-29,250000,SA6 5PW,D,N,F,142,,Kingrosia Park,Clydach,Swansea
+2024-11-29,180000,SA6 5PJ,D,N,F,81,,Kingrosia Park,Clydach,Swansea
+2024-11-29,135000,SA6 5NE,S,N,F,44,,Penydre Road,Clydach,Swansea
+2024-11-29,135000,SA6 5JW,S,N,F,9,,Grove Road,Clydach,Swansea
+2024-11-29,145000,SA6 5EU,T,N,F,20,,Sybil Street,Clydach,Swansea
+2024-11-28,225000,SA6 5QB,S,N,F,20,,Beryl Road,Clydach,Swansea
+2024-11-27,245000,SA6 5DZ,T,N,F,16,,Ramsden Road,Clydach,Swansea
+2024-11-22,111700,SA6 7BQ,T,N,F,2,,Clyndu Street,Morriston,Swansea
+2024-11-22,375000,SA6 6RE,D,N,F,8,,Usk Place,Cwmrhydyceirw,Swansea
+2024-11-22,200000,SA6 6DR,T,N,F,118,,Vicarage Road,Morriston,Swansea
+2024-11-22,90000,SA6 6BE,S,N,F,6,,Gwlad Y Gan,Morriston,Swansea
+2024-11-22,235000,SA6 5JU,D,N,L,38,,Ramsay Road,Clydach,Swansea
+2024-11-21,225000,SA6 6DA,S,N,F,38,,Llys Penpant,Llangyfelach,Swansea
+2024-11-20,97500,SA6 8JW,T,N,F,1137,,Neath Road,Plasmarl,Swansea
+2024-11-20,105000,SA6 8AY,T,N,F,61,,Slate Street,Morriston,Swansea
+2024-11-20,150000,SA6 6HL,S,N,L,15,,Rosemary Court,Morriston,Swansea
+2024-11-15,220000,SA6 8NT,F,N,L,5,,Cnap Llwyd Road,Morriston,Swansea
+2024-11-15,98500,SA6 8BD,T,N,L,13,,Crown Street,Morriston,Swansea
+2024-11-15,330000,SA6 6FH,S,N,F,36,,Waun Fawr,Cwmrhydyceirw,Swansea
+2024-11-15,220000,SA6 6DP,T,N,F,107,,Vicarage Road,Morriston,Swansea
+2024-11-15,235000,SA6 6BL,D,N,F,5,,Y Llwyni,Llangyfelach,Swansea
+2024-11-15,150000,SA6 5JF,S,N,F,5,,Edison Crescent,Clydach,Swansea
+2024-11-14,83000,SA6 8LN,T,N,F,19,,Bartley Terrace,Plasmarl,Swansea
+2024-11-13,145000,SA6 5PZ,S,N,F,53,,Capel Road,Clydach,Swansea
+2024-11-11,123000,SA6 7EL,T,N,F,11,,Lon Ithon,Morriston,Swansea
+2024-11-11,387500,SA6 5TD,T,N,F,"Ropley Lodge, 12",,Cadwgan Road,Craig Cefn Parc,Swansea
+2024-11-08,190000,SA6 6LW,S,N,F,4,,Enfield Close,Cwmrhydyceirw,Swansea
+2024-11-08,98500,SA6 6JX,S,N,F,7,,Heol Maes Y Gelynen,Morriston,Swansea
+2024-11-08,180000,SA6 5PN,S,N,F,16,,Kingrosia Park,Clydach,Swansea
+2024-11-08,200000,SA6 5JW,S,N,F,25,,Grove Road,Clydach,Swansea
+2024-11-06,172000,SA6 7QQ,S,N,F,228,,Mynydd Garn Lwyd Road,Morriston,Swansea
+2024-11-06,120000,SA6 6QW,T,N,F,448,,Clydach Road,Ynysforgan,Swansea
+2024-11-06,175000,SA6 6PY,S,N,F,27,,Clos Rhedyn,Cwmrhydyceirw,Swansea
+2024-11-01,130000,SA6 8DE,S,N,F,14,,Green Street,Morriston,Swansea
+2024-11-01,125000,SA6 8BP,T,N,F,114,,Glantawe Street,Morriston,Swansea
+2024-11-01,250000,SA6 6PJ,S,N,F,19,,Dan Danino Way,Morriston,Swansea
+2024-11-01,178500,SA6 6NE,S,N,F,34,,Clos Cenawon,Cwmrhydyceirw,Swansea
+2024-11-01,168000,SA6 5HD,S,N,L,7,,Pen Y Wern Road,Clydach,Swansea
+2024-10-31,97500,SA6 7BY,T,N,F,9,,Pentremalwed Road,Morriston,Swansea
+2024-10-31,100000,SA6 5EF,T,N,F,213,,Tyle Teg,Clydach,Swansea
+2024-10-30,420000,SA6 7PB,D,N,F,Broadview House,,Mynydd Garn Lwyd Road,Morriston,Swansea
+2024-10-30,150000,SA6 6DJ,T,N,F,60,,Vicarage Road,Morriston,Swansea
+2024-10-25,99000,SA6 5EH,S,N,F,69,,Hebron Road,Clydach,Swansea
+2024-10-24,145000,SA6 5JP,S,N,F,31,,Kelvin Road,Clydach,Swansea
+2024-10-23,183000,SA6 7AP,S,N,F,21,,Bath Road,Morriston,Swansea
+2024-10-22,120000,SA6 8LQ,T,N,F,23,,Dinas Street,Plasmarl,Swansea
+2024-10-21,189995,SA6 7BY,D,N,F,110,,Pentremalwed Road,Morriston,Swansea
+2024-10-18,108000,SA6 7BG,T,N,F,142,,Clyndu Street,Morriston,Swansea
+2024-10-18,295950,SA6 6FP,D,N,F,23,,Cae Melyn,Llangyfelach,Swansea
+2024-10-18,142000,SA6 5EN,T,N,F,4,,Twyn Y Bedw,Clydach,Swansea
+2024-10-16,110000,SA6 8JW,T,N,F,1151,,Neath Road,Plasmarl,Swansea
+2024-10-16,190000,SA6 7QF,D,N,F,6,,Ullswater Crescent,Morriston,Swansea
+2024-10-16,198000,SA6 7DR,S,N,F,12,,Ger Y Parc,Morriston,Swansea
+2024-10-16,115000,SA6 5DS,S,N,F,29,,Brynteg,Clydach,Swansea
+2024-10-11,292500,SA6 8NT,D,N,F,21,,Cnap Llwyd Road,Morriston,Swansea
+2024-10-11,105000,SA6 8HU,T,N,F,130,,Parc Avenue,Morriston,Swansea
+2024-10-11,230000,SA6 6QY,S,N,F,25,,Heol Pennant,Ynysforgan,Swansea
+2024-10-11,197500,SA6 6NZ,S,N,F,16,,Cwrt Yr Aeron,Cwmrhydyceirw,Swansea
+2024-10-10,235000,SA6 8NY,D,N,F,161,,Trewyddfa Road,Morriston,Swansea
+2024-10-10,210000,SA6 6DZ,D,N,F,32,,Brayley Road,Morriston,Swansea
+2024-10-08,138000,SA6 6TA,S,N,F,21,,Heol Y Drudwen,Cwmrhydyceirw,Swansea
+2024-10-07,385000,SA6 6PU,D,N,F,53,,Cyril Evans Way,Morriston,Swansea
+2024-10-07,400000,SA6 6FF,D,N,F,50,,Cae Canol,Cwmrhydyceirw,Swansea
+2024-10-04,365000,SA6 6BU,S,N,F,341,,Clasemont Road,Morriston,Swansea
+2024-10-04,170000,SA6 6BN,S,N,F,8,,Y Dolau,Llangyfelach,Swansea
+2024-10-04,280000,SA6 5LP,D,N,F,35,,Vardre Road,Clydach,Swansea
+2024-10-02,100000,SA6 5TL,T,N,F,4,,Tyn Y Berllan,Craig Cefn Parc,Swansea
+2024-10-01,299999,SA6 6FF,S,N,F,66,,Cae Canol,Cwmrhydyceirw,Swansea
+2024-10-01,240000,SA6 5PB,D,N,F,137,,Pontardawe Road,Clydach,Swansea
+2024-09-30,235000,SA6 7DZ,D,N,F,2,,Park Close,Morriston,Swansea
+2024-09-30,138000,SA6 6TT,T,N,F,6,,Clos Cadno,Cwmrhydyceirw,Swansea
+2024-09-30,180000,SA6 5JY,S,N,F,14,,Brunner Drive,Clydach,Swansea
+2024-09-27,127000,SA6 8LY,T,N,F,19,,Essex Terrace,Plasmarl,Swansea
+2024-09-27,155500,SA6 6HJ,T,N,F,3,,Pleasant Street,Morriston,Swansea
+2024-09-27,360000,SA6 6FH,D,N,F,86,,Waun Fawr,Cwmrhydyceirw,Swansea
+2024-09-27,178000,SA6 6FB,S,N,F,12,,Cae Crug,Llangyfelach,Swansea
+2024-09-27,110000,SA6 6DP,S,N,F,97,,Vicarage Road,Morriston,Swansea
+2024-09-27,325000,SA6 5TH,D,N,F,Jackdaws,,Rhyd Y Gwin,Craig Cefn Parc,Swansea
+2024-09-26,337500,SA6 8PE,D,N,F,391,,Trewyddfa Road,Morriston,Swansea
+2024-09-26,198000,SA6 6GH,S,N,F,23,,Cwm Arian,Morriston,Swansea
+2024-09-26,130000,SA6 6BJ,T,N,F,46,,Llysgwyn,Llangyfelach,Swansea
+2024-09-20,180000,SA6 8NJ,T,N,F,81,,Cwm Level Road,Plasmarl,Swansea
+2024-09-20,228000,SA6 6PS,S,N,F,9,,Jessop Court,Morriston,Swansea
+2024-09-20,299999,SA6 6FF,S,N,F,62,,Cae Canol,Cwmrhydyceirw,Swansea
+2024-09-19,230000,SA6 6SR,S,N,F,11B,,Heol Yr Eryr,Cwmrhydyceirw,Swansea
+2024-09-19,165000,SA6 6DS,S,N,F,10,,Maes Y Coed,Morriston,Swansea
+2024-09-19,229995,SA6 5PL,D,N,F,48,,Kingrosia Park,Clydach,Swansea
+2024-09-19,187500,SA6 5LJ,D,N,F,78,,High Street,Clydach,Swansea
+2024-09-18,130000,SA6 7AE,T,N,F,24,,Rock Terrace,Morriston,Swansea
+2024-09-17,105000,SA6 7EJ,S,N,F,116,,Lon Camlad,Morriston,Swansea
+2024-09-13,239000,SA6 6SW,S,N,F,84,,Rhodfar Eos,Cwmrhydyceirw,Swansea
+2024-09-13,210000,SA6 6PT,S,N,F,7,,Clos Y Bont Faen,Cwmrhydyceirw,Swansea
+2024-09-13,285000,SA6 6HQ,D,N,F,38,,Penrice Street,Morriston,Swansea
+2024-09-13,239000,SA6 6FQ,T,Y,F,181,,Waun Fawr,Cwmrhydyceirw,Swansea
+2024-09-12,105000,SA6 6TA,S,N,F,30,,Heol Y Drudwen,Cwmrhydyceirw,Swansea
+2024-09-12,165000,SA6 5AX,D,N,F,637,,Clydach Road,Ynystawe,Swansea
+2024-09-09,164999,SA6 7EB,S,N,F,119,,Caemawr Road,Morriston,Swansea
+2024-09-06,230000,SA6 6FQ,T,Y,F,183,,Waun Fawr,Cwmrhydyceirw,Swansea
+2024-09-06,195000,SA6 6FD,S,N,F,76,,Heol Waun Wen,Llangyfelach,Swansea
+2024-09-06,240000,SA6 5AE,S,N,F,22,,Gwysfa Road,Ynystawe,Swansea
+2024-09-05,190000,SA6 6PY,S,N,F,15,,Clos Rhedyn,Cwmrhydyceirw,Swansea
+2024-09-04,133000,SA6 5BY,S,N,F,25,,Quarr Road,Clydach,Swansea
+2024-09-03,250000,SA6 5TQ,D,N,F,7,,Rhyd Y Gwin,Craig Cefn Parc,Swansea
+2024-09-02,116600,SA6 5JS,S,N,F,63,,Faraday Road,Clydach,Swansea
+2024-08-30,425000,SA6 6QZ,D,N,F,11,,Plas Gwernfadog Drive,Ynysforgan,Swansea
+2024-08-30,235000,SA6 6FQ,T,Y,F,185,,Waun Fawr,Cwmrhydyceirw,Swansea
+2024-08-30,365000,SA6 6FF,D,Y,F,68,,Cae Canol,Cwmrhydyceirw,Swansea
+2024-08-30,159000,SA6 6DG,S,N,F,13,,Pen Y Maes,Llangyfelach,Swansea
+2024-08-30,262500,SA6 5AL,S,N,F,34,,Bwllfa Road,Ynystawe,Swansea
+2024-08-30,280000,SA6 5AL,D,N,F,29,,Bwllfa Road,Ynystawe,Swansea
+2024-08-29,78000,SA6 5EE,T,N,F,117,,Tyle Teg,Clydach,Swansea
+2024-08-28,64000,SA6 8PQ,S,N,F,130,,Graig Road,Morriston,Swansea
+2024-08-28,235000,SA6 6TN,S,N,F,9,,Heol Cadnawes,Cwmrhydyceirw,Swansea
+2024-08-28,295000,SA6 6FQ,S,Y,F,199,,Waun Fawr,Cwmrhydyceirw,Swansea
+2024-08-27,96000,SA6 8LE,T,N,F,8,,Calland Street,Plasmarl,Swansea
+2024-08-23,335000,SA6 6FH,S,Y,F,106,,Waun Fawr,Cwmrhydyceirw,Swansea
+2024-08-23,495000,SA6 6FF,D,N,F,54,,Cae Canol,Cwmrhydyceirw,Swansea
+2024-08-23,220000,SA6 6AT,S,N,F,15,,Llwyn Yr Eos,Morriston,Swansea
+2024-08-23,130000,SA6 5HT,T,N,F,5,,Bryn Road,Clydach,Swansea
+2024-08-23,147500,SA6 5DZ,T,N,F,22,,Ramsden Road,Clydach,Swansea
+2024-08-22,158000,SA6 6TH,S,N,L,34,,Denbigh Crescent,Ynysforgan,Swansea
+2024-08-22,230000,SA6 6SP,S,N,F,14,,Rhodfar Wennol,Cwmrhydyceirw,Swansea
+2024-08-21,290000,SA6 7PB,S,N,F,29,,Mynydd Garn Lwyd Road,Morriston,Swansea
+2024-08-20,134500,SA6 7LT,S,N,F,28,,Third Avenue,Clase,Swansea
+2024-08-16,116500,SA6 8LJ,T,N,F,91,,Dinas Street,Plasmarl,Swansea
+2024-08-16,168000,SA6 6TL,S,N,F,30,,Heol Y Fran,Cwmrhydyceirw,Swansea
+2024-08-16,142000,SA6 6TA,S,N,F,4,,Heol Y Drudwen,Cwmrhydyceirw,Swansea
+2024-08-16,141500,SA6 6NB,T,N,F,35,,Llanllienwen Road,Cwmrhydyceirw,Swansea
+2024-08-16,180000,SA6 6DR,T,N,F,134,,Vicarage Road,Morriston,Swansea
+2024-08-16,150000,SA6 5JR,T,N,F,67,,Kelvin Road,Clydach,Swansea
+2024-08-16,210000,SA6 5BZ,S,N,F,16,,Heol Y Graig,Clydach,Swansea
+2024-08-14,80000,SA6 8DE,T,N,F,18,,Green Street,Morriston,Swansea
+2024-08-13,208000,SA6 7DX,D,N,F,35,,Caemawr Road,Morriston,Swansea
+2024-08-12,84000,SA6 7HH,T,N,F,13,,Long View Road,Clase,Swansea
+2024-08-12,204500,SA6 6SR,S,N,F,16,,Heol Yr Eryr,Cwmrhydyceirw,Swansea
+2024-08-09,155000,SA6 6BS,S,N,F,8,,Penrhiw Road,Morriston,Swansea
+2024-08-08,200000,SA6 7QF,D,N,F,24,,Ullswater Crescent,Morriston,Swansea
+2024-08-07,190000,SA6 6BD,S,N,F,8,,Penmachno,Morriston,Swansea
+2024-08-06,153000,SA6 6SX,S,N,F,21,,Llwyn Y Golomen,Cwmrhydyceirw,Swansea
+2024-08-06,275000,SA6 5AB,S,N,F,538,,Clydach Road,Ynystawe,Swansea
+2024-08-01,253000,SA6 6LP,S,N,F,34,,Brodorion Drive,Cwmrhydyceirw,Swansea
+2024-07-31,50000,SA6 8LJ,T,N,F,68,,Dinas Street,Plasmarl,Swansea
+2024-07-31,315000,SA6 6PL,D,N,F,14,,Gordon Rowley Way,Morriston,Swansea
+2024-07-26,140000,SA6 7EW,S,N,L,21,,Lan Manor,Morriston,Swansea
+2024-07-26,299999,SA6 6FF,S,N,F,60,,Cae Canol,Cwmrhydyceirw,Swansea
+2024-07-26,187000,SA6 5JE,S,N,F,8,,Tanylon,Clydach,Swansea
+2024-07-25,97000,SA6 8EB,T,N,F,32,,Tirpenry Street,Morriston,Swansea
+2024-07-22,180000,SA6 6LD,S,N,F,28,,Llys Dol,Morriston,Swansea
+2024-07-19,62000,SA6 8PQ,T,N,F,84,,Graig Road,Morriston,Swansea
+2024-07-19,202000,SA6 6RA,S,N,F,1,,Lon Penfro,Cwmrhydyceirw,Swansea
+2024-07-19,235000,SA6 5PN,S,N,F,4,,Kingrosia Park,Clydach,Swansea
+2024-07-19,195000,SA6 5AL,D,N,F,15,,Bwllfa Road,Ynystawe,Swansea
+2024-07-18,195000,SA6 6QX,S,N,F,81,,Christopher Road,Ynysforgan,Swansea
+2024-07-17,112000,SA6 6HB,T,N,F,75,,Springfield Street,Morriston,Swansea
+2024-07-16,128000,SA6 7NS,T,N,F,134,,Solva Road,Clase,Swansea
+2024-07-16,225000,SA6 5NS,S,N,F,61,,Pontardawe Road,Clydach,Swansea
+2024-07-15,78000,SA6 6BN,T,N,F,25,,Y Dolau,Llangyfelach,Swansea
+2024-07-14,220000,SA6 7NE,S,N,F,1,,Beech Tree Close,Clase,Swansea
+2024-07-12,133000,SA6 8PE,T,N,F,359,,Trewyddfa Road,Morriston,Swansea
+2024-07-12,142500,SA6 8JU,T,N,F,314,,Neath Road,Plasmarl,Swansea
+2024-07-12,116550,SA6 8HJ,T,N,L,24,,Parc Avenue,Morriston,Swansea
+2024-07-12,169000,SA6 6QJ,T,N,F,241,,Clydach Road,Morriston,Swansea
+2024-07-12,208000,SA6 6EZ,D,N,F,4,,Cae Eithin,Llangyfelach,Swansea
+2024-07-11,205000,SA6 6NJ,S,N,F,82,,Rhodfa Fadog,Cwmrhydyceirw,Swansea
+2024-07-10,131000,SA6 8HG,T,N,F,551,,Neath Road,Morriston,Swansea
+2024-07-10,150000,SA6 5RG,S,N,F,83,,Rhyddwen Road,Craig Cefn Parc,Swansea
+2024-07-08,245000,SA6 6FH,T,N,F,56,,Waun Fawr,Cwmrhydyceirw,Swansea
+2024-07-05,154000,SA6 8NX,S,N,F,211,,Trewyddfa Road,Morriston,Swansea
+2024-07-05,110000,SA6 8LT,T,N,F,22A,,Idris Terrace,Plasmarl,Swansea
+2024-07-05,280000,SA6 6HQ,D,N,F,39,,Penrice Street,Morriston,Swansea
+2024-07-05,169000,SA6 6HL,S,N,F,16,,Rosemary Court,Morriston,Swansea
+2024-07-05,222500,SA6 5SY,S,N,F,24,,Clydach Road,Craig Cefn Parc,Swansea
+2024-07-04,145000,SA6 7BN,T,N,F,36,,Banwell Street,Morriston,Swansea
+2024-07-04,95250,SA6 6JX,S,N,F,1,,Heol Maes Y Gelynen,Morriston,Swansea
+2024-07-03,120000,SA6 5EQ,S,N,F,50,,Ffynnon Wen,Clydach,Swansea
+2024-07-02,315000,SA6 8BS,D,N,F,32,,Bryn Hedydd,Llangyfelach,Swansea
+2024-07-01,155000,SA6 7BN,S,N,F,39,,Banwell Street,Morriston,Swansea
+2024-06-28,302000,SA6 6SW,D,N,F,48,,Rhodfar Eos,Cwmrhydyceirw,Swansea
+2024-06-28,350000,SA6 6FQ,D,Y,F,207,,Waun Fawr,Cwmrhydyceirw,Swansea
+2024-06-28,220000,SA6 6DL,S,N,F,24,,Harry Street,Morriston,Swansea
+2024-06-28,196000,SA6 5PZ,S,N,F,27,,Capel Road,Clydach,Swansea
+2024-06-28,410000,SA6 5GA,D,N,F,3,,Woodlands Avenue,Clydach,Swansea
+2024-06-28,76600,SA6 5ED,T,N,L,153,,Hillrise Park,Clydach,Swansea
+2024-06-27,150000,SA6 8NY,S,N,F,131,,Trewyddfa Road,Morriston,Swansea
+2024-06-25,310250,SA6 5SZ,S,N,F,3,,Heol Rhyd,Craig Cefn Parc,Swansea
+2024-06-21,80000,SA6 6HU,F,N,L,"Birch Court, 44",Apartment 45,Sway Road,Morriston,Swansea
+2024-06-21,125000,SA6 5NB,S,N,F,26,,Brynamlwg,Clydach,Swansea
+2024-06-21,130000,SA6 5EG,D,N,F,Calfaria Hall,,Hebron Close,Clydach,Swansea
+2024-06-19,115000,SA6 8LQ,T,N,F,38,,Dinas Street,Plasmarl,Swansea
+2024-06-19,60000,SA6 7EN,T,N,F,10,,Lon Sawdde,Morriston,Swansea
+2024-06-19,110000,SA6 6QB,T,N,F,136,,Clydach Road,Morriston,Swansea
+2024-06-17,137000,SA6 5JB,S,N,F,168,,Lone Road,Clydach,Swansea
+2024-06-14,202500,SA6 7PN,D,N,F,7,,Gellifawr Road,Morriston,Swansea
+2024-06-14,190000,SA6 6QR,S,N,F,52,,Christopher Road,Ynysforgan,Swansea
+2024-06-14,144000,SA6 6HH,T,N,F,30,,Pleasant Street,Morriston,Swansea
+2024-06-14,220000,SA6 6DR,S,N,F,153,,Vicarage Road,Morriston,Swansea
+2024-06-14,286000,SA6 6BA,D,N,F,29,,Pen Yr Yrfa,Morriston,Swansea
+2024-06-14,230000,SA6 5TA,D,N,F,41,,Clydach Road,Craig Cefn Parc,Swansea
+2024-06-13,209500,SA6 6FH,T,N,F,60,,Waun Fawr,Cwmrhydyceirw,Swansea
+2024-06-13,92600,SA6 6DG,S,N,F,2,,Pen Y Maes,Llangyfelach,Swansea
+2024-06-10,295000,SA6 6FQ,S,Y,F,201,,Waun Fawr,Cwmrhydyceirw,Swansea
+2024-06-07,130000,SA6 8LU,T,N,F,20,,Plasmarl Terrace,Plasmarl,Swansea
+2024-06-03,102000,SA6 5HT,S,N,F,19,,Bryn Road,Clydach,Swansea
+2024-05-31,120000,SA6 6EY,S,N,F,9,,Y Waun Fach,Llangyfelach,Swansea
+2024-05-31,170000,SA6 6EL,D,N,F,4,,Heol Miaren,Morriston,Swansea
+2024-05-31,164000,SA6 6AR,S,N,F,8,,Pine Crescent,Morriston,Swansea
+2024-05-31,220000,SA6 5AL,S,N,F,16,,Bwllfa Road,Ynystawe,Swansea
+2024-05-30,318000,SA6 8BS,D,N,F,28,,Bryn Hedydd,Llangyfelach,Swansea
+2024-05-30,248000,SA6 6AE,S,N,F,35,,Pentrepoeth Road,Morriston,Swansea
+2024-05-29,270000,SA6 7BY,T,N,L,106,,Pentremalwed Road,Morriston,Swansea
+2024-05-29,350000,SA6 7BE,D,N,F,4,,Llys Y Graig,Morriston,Swansea
+2024-05-29,235000,SA6 6DL,S,N,F,30,,Harry Street,Morriston,Swansea
+2024-05-28,220000,SA6 6AE,S,N,F,67,,Pentrepoeth Road,Morriston,Swansea
+2024-05-24,280000,SA6 8PD,D,N,F,270,,Trewyddfa Road,Morriston,Swansea
+2024-05-24,167000,SA6 7AT,T,N,F,68,,Bath Road,Morriston,Swansea
+2024-05-24,135000,SA6 6SB,T,N,F,26,,Glyncollen Crescent,Ynysforgan,Swansea
+2024-05-24,218000,SA6 5RA,T,N,F,15,,Rhyddwen Road,Craig Cefn Parc,Swansea
+2024-05-22,84000,SA6 8HZ,T,N,F,4,,Thomas Terrace,Morriston,Swansea
+2024-05-22,140000,SA6 6BN,S,N,F,4,,Y Dolau,Llangyfelach,Swansea
+2024-05-21,265000,SA6 6QW,D,N,F,433,,Clydach Road,Ynysforgan,Swansea
+2024-05-17,107000,SA6 8HN,T,N,F,34,,Trewyddfa Common,Morriston,Swansea
+2024-05-17,132000,SA6 6HH,T,N,F,25,,Pleasant Street,Morriston,Swansea
+2024-05-17,268000,SA6 6FF,S,N,F,18,,Cae Canol,Cwmrhydyceirw,Swansea
+2024-05-16,177500,SA6 6EX,S,N,F,22,,Ffordd Dewi,Llangyfelach,Swansea
+2024-05-15,240000,SA6 6LP,D,N,F,19,,Brodorion Drive,Cwmrhydyceirw,Swansea
+2024-05-15,162000,SA6 6DU,S,N,F,188,,Vicarage Road,Morriston,Swansea
+2024-05-10,310000,SA6 6NA,D,N,F,36,,Llanllienwen Road,Cwmrhydyceirw,Swansea
+2024-05-10,165000,SA6 6JR,S,N,F,10,,Heol Gwernen,Cwmrhydyceirw,Swansea
+2024-05-09,155000,SA6 5HF,S,N,F,104,,Gellionen Road,Clydach,Swansea
+2024-05-03,175000,SA6 6LU,S,N,F,98,,Llanllienwen Road,Cwmrhydyceirw,Swansea
+2024-05-03,162500,SA6 5EA,S,N,F,40,,Tyle Teg,Clydach,Swansea
+2024-05-02,126000,SA6 7AP,T,N,F,44,,Bath Road,Morriston,Swansea
+2024-05-02,180000,SA6 6PT,S,N,F,11,,Clos Y Bont Faen,Cwmrhydyceirw,Swansea
+2024-05-01,215000,SA6 6RA,S,N,F,11,,Lon Penfro,Cwmrhydyceirw,Swansea
+2024-04-29,179000,SA6 5PU,S,N,F,4,,Pearl Street,Clydach,Swansea
+2024-04-26,235000,SA6 7DY,T,N,F,21,,Francis Road,Morriston,Swansea
+2024-04-26,80000,SA6 7BG,T,N,F,58,,Clyndu Street,Morriston,Swansea
+2024-04-26,159995,SA6 6NB,T,N,F,25,,Llanllienwen Road,Cwmrhydyceirw,Swansea
+2024-04-26,280250,SA6 6FQ,S,Y,F,193,,Waun Fawr,Cwmrhydyceirw,Swansea
+2024-04-26,209500,SA6 6FG,T,N,F,81,,Waun Fawr,Cwmrhydyceirw,Swansea
+2024-04-26,299999,SA6 6FF,S,N,F,58,,Cae Canol,Cwmrhydyceirw,Swansea
+2024-04-26,299999,SA6 6FF,S,N,F,56,,Cae Canol,Cwmrhydyceirw,Swansea
+2024-04-26,425000,SA6 6FF,D,Y,F,35,,Cae Canol,Cwmrhydyceirw,Swansea
+2024-04-26,435000,SA6 6FF,D,N,F,33,,Cae Canol,Cwmrhydyceirw,Swansea
+2024-04-26,164000,SA6 5JJ,S,N,F,84,,Grove Road,Clydach,Swansea
+2024-04-25,87500,SA6 8HG,T,N,F,548,,Neath Road,Morriston,Swansea
+2024-04-24,150000,SA6 8EB,S,N,F,29,,Tirpenry Street,Morriston,Swansea
+2024-04-24,176000,SA6 6BE,S,N,F,11,,Gwlad Y Gan,Morriston,Swansea
+2024-04-24,186000,SA6 5HE,S,N,F,15,,Gellionen Road,Clydach,Swansea
+2024-04-19,107000,SA6 8EJ,T,N,F,12,,Nixon Terrace,Morriston,Swansea
+2024-04-19,222500,SA6 6FQ,S,Y,F,203,,Waun Fawr,Cwmrhydyceirw,Swansea
+2024-04-19,275000,SA6 6FF,D,N,F,31,,Cae Canol,Cwmrhydyceirw,Swansea
+2024-04-19,178000,SA6 5HA,S,N,F,28,,Down Street,Clydach,Swansea
+2024-04-15,137000,SA6 6TT,T,N,F,22,,Clos Cadno,Cwmrhydyceirw,Swansea
+2024-04-15,188000,SA6 6PZ,T,N,F,3,,Cae Nan,Morriston,Swansea
+2024-04-15,219500,SA6 6FG,T,N,F,79,,Waun Fawr,Cwmrhydyceirw,Swansea
+2024-04-12,164500,SA6 5LB,T,N,F,3,,Bryn Tirion,Clydach,Swansea
+2024-04-11,209500,SA6 6FH,S,N,F,58,,Waun Fawr,Cwmrhydyceirw,Swansea
+2024-04-10,300000,SA6 7PB,D,N,F,56,,Mynydd Garn Lwyd Road,Morriston,Swansea
+2024-04-08,262000,SA6 6ER,D,N,F,47,,Heol Rhosyn,Morriston,Swansea
+2024-04-05,105000,SA6 8DF,T,N,F,17,,Bedford Street,Morriston,Swansea
+2024-04-04,200000,SA6 6BU,S,N,F,345,,Clasemont Road,Morriston,Swansea
+2024-04-02,129000,SA6 5JS,S,N,F,13,,Faraday Road,Clydach,Swansea
+2024-03-28,110000,SA6 8DA,T,N,L,52,,Market Street,Morriston,Swansea
+2024-03-28,119000,SA6 7JQ,T,N,F,1,,Ninth Avenue,Clase,Swansea
+2024-03-28,134000,SA6 7EW,S,N,F,28,,Lan Manor,Morriston,Swansea
+2024-03-28,172500,SA6 6SE,S,N,F,10,,Heol Treffynnon,Cwmrhydyceirw,Swansea
+2024-03-28,280000,SA6 6LN,D,N,F,40,,Maes Y Gwernen Drive,Cwmrhydyceirw,Swansea
+2024-03-27,106500,SA6 6BN,T,N,F,19,,Y Dolau,Llangyfelach,Swansea
+2024-03-25,178000,SA6 7BN,D,N,F,18,,Banwell Street,Morriston,Swansea
+2024-03-22,310000,SA6 5NS,D,N,F,55,,Pontardawe Road,Clydach,Swansea
+2024-03-20,95000,SA6 8HU,S,N,F,123,,Parc Avenue,Morriston,Swansea
+2024-03-18,53000,SA6 8HX,T,N,F,74,,Parc Avenue,Morriston,Swansea
+2024-03-18,265000,SA6 6RW,S,N,F,17,,Elizabeth Close,Ynysforgan,Swansea
+2024-03-18,215000,SA6 6QQ,S,N,F,69,,Heol Glannant,Ynysforgan,Swansea
+2024-03-18,257000,SA6 6AU,S,N,F,40,,Can Yr Eos,Morriston,Swansea
+2024-03-15,185000,SA6 8PF,S,N,F,85,,Llewellyn Park Drive,Morriston,Swansea
+2024-03-15,155000,SA6 6EG,S,N,F,20,,Bryncelyn,Llangyfelach,Swansea
+2024-03-15,180000,SA6 5RG,S,N,F,126,,Rhyddwen Road,Craig Cefn Parc,Swansea
+2024-03-15,92000,SA6 5EQ,T,N,F,39,,Ffynnon Wen,Clydach,Swansea
+2024-03-13,235000,SA6 5EY,S,N,F,17,,St Johns Road,Clydach,Swansea
+2024-03-08,42000,SA6 8NX,T,N,F,214,,Trewyddfa Road,Morriston,Swansea
+2024-03-08,125000,SA6 7DB,T,N,F,12,,Aran Street,Morriston,Swansea
+2024-03-08,85000,SA6 5EJ,S,N,F,41A,,Hebron Road,Clydach,Swansea
+2024-03-06,180000,SA6 8NS,D,N,F,7,,Pontyshute,Morriston,Swansea
+2024-03-06,130000,SA6 8NN,D,N,F,130,,Salem Road,Morriston,Swansea
+2024-03-01,285000,SA6 7PE,D,N,F,1,,Garnlwyd Close,Morriston,Swansea
+2024-03-01,225000,SA6 6BS,S,N,F,18,,Penrhiw Road,Morriston,Swansea
+2024-02-29,196000,SA6 6EY,T,N,F,18,,Y Waun Fach,Llangyfelach,Swansea
+2024-02-28,89995,SA6 8HG,T,N,F,511,,Neath Road,Morriston,Swansea
+2024-02-28,115000,SA6 6HH,T,N,F,24,,Pleasant Street,Morriston,Swansea
+2024-02-28,163000,SA6 5JY,S,N,F,9,,Brunner Drive,Clydach,Swansea
+2024-02-27,176000,SA6 8NS,T,N,F,4,,Pontyshute,Morriston,Swansea
+2024-02-27,135000,SA6 8LZ,T,N,F,14,,Emlyn Terrace,Plasmarl,Swansea
+2024-02-23,112000,SA6 8HS,T,N,F,22,,Trewyddfa Common,Morriston,Swansea
+2024-02-23,495000,SA6 6FF,D,Y,F,19,,Cae Canol,Cwmrhydyceirw,Swansea
+2024-02-23,181500,SA6 6EH,D,N,F,7,,Heol Saffrwm,Morriston,Swansea
+2024-02-23,95500,SA6 5EN,S,N,F,16,,Twyn Y Bedw,Clydach,Swansea
+2024-02-22,123500,SA6 8LW,T,N,F,13,,Smyrna Street,Plasmarl,Swansea
+2024-02-22,110000,SA6 5EJ,T,N,F,15,,Hebron Road,Clydach,Swansea
+2024-02-21,140000,SA6 6DJ,T,N,F,77,,Vicarage Road,Morriston,Swansea
+2024-02-21,90000,SA6 5NE,S,N,F,35,,Penydre Road,Clydach,Swansea
+2024-02-16,220000,SA6 6RN,S,N,F,25,,Garth View,Ynysforgan,Swansea
+2024-02-16,76000,SA6 5DR,S,N,F,36,,Woodside Crescent,Clydach,Swansea
+2024-02-14,550000,SA6 6PA,D,N,F,Hen Ysgubor,,,Rhydypandy,Swansea
+2024-02-14,275000,SA6 5LD,D,N,F,4,,Ffordd Abiah,Clydach,Swansea
+2024-02-13,103861,SA6 5EU,T,N,F,26,,Sybil Street,Clydach,Swansea
+2024-02-09,245000,SA6 6FG,T,N,F,51,,Waun Fawr,Cwmrhydyceirw,Swansea
+2024-02-09,417500,SA6 5GA,D,N,F,27,,Woodlands Avenue,Clydach,Swansea
+2024-02-08,160000,SA6 5PY,S,N,F,82,,Capel Road,Clydach,Swansea
+2024-02-06,340000,SA6 6TA,D,N,F,40,,Heol Y Drudwen,Cwmrhydyceirw,Swansea
+2024-02-02,89000,SA6 6JA,T,N,F,23,,Sway Road,Morriston,Swansea
+2024-02-02,153000,SA6 6BP,S,N,F,34,,Furze Crescent,Morriston,Swansea
+2024-02-02,220000,SA6 5PA,D,N,F,134,,Pontardawe Road,Clydach,Swansea
+2024-02-02,115000,SA6 5DW,S,N,F,14,,Players Avenue,Clydach,Swansea
+2024-01-31,195000,SA6 6TN,S,N,F,22,,Heol Cadnawes,Cwmrhydyceirw,Swansea
+2024-01-31,261000,SA6 6LN,S,N,F,28,,Maes Y Gwernen Drive,Cwmrhydyceirw,Swansea
+2024-01-29,305000,SA6 6SX,D,N,F,9,,Llwyn Y Golomen,Cwmrhydyceirw,Swansea
+2024-01-26,146500,SA6 7BP,T,N,F,30,,Pentremalwed Road,Morriston,Swansea
+2024-01-26,145000,SA6 6RY,T,N,F,32,,Gwernfadog Road,Ynysforgan,Swansea
+2024-01-26,295000,SA6 6FQ,S,Y,F,191,,Waun Fawr,Cwmrhydyceirw,Swansea
+2024-01-26,245000,SA6 6BT,S,N,L,275,,Clasemont Road,Morriston,Swansea
+2024-01-24,148000,SA6 5DX,S,N,F,37,,Hillrise Park,Clydach,Swansea
+2024-01-23,265000,SA6 5PF,D,N,F,203,,Kingrosia Park,Clydach,Swansea
+2024-01-19,122500,SA6 8EJ,T,N,F,39,,Nixon Terrace,Morriston,Swansea
+2024-01-19,222000,SA6 7PD,D,N,F,44,,Cwmgelli Road,Morriston,Swansea
+2024-01-19,260000,SA6 6FQ,S,Y,F,187,,Waun Fawr,Cwmrhydyceirw,Swansea
+2024-01-18,56000,SA6 6JU,T,N,F,64,,Heol Maes Y Gelynen,Morriston,Swansea
+2024-01-12,225000,SA6 6FG,T,N,F,69,,Waun Fawr,Cwmrhydyceirw,Swansea
+2024-01-05,260000,SA6 6FQ,S,Y,F,189,,Waun Fawr,Cwmrhydyceirw,Swansea
+2024-01-04,299995,SA6 6FF,S,Y,F,40,,Cae Canol,Cwmrhydyceirw,Swansea
+2023-12-22,187000,SA6 6EH,D,N,L,19,,Heol Saffrwm,Morriston,Swansea
+2023-12-21,370000,SA6 6FF,D,N,F,50,,Cae Canol,Cwmrhydyceirw,Swansea
+2023-12-21,87000,SA6 5ED,T,N,F,161,,Hillrise Park,Clydach,Swansea
+2023-12-20,126000,SA6 7AZ,T,N,F,2,,Lan Avenue,Morriston,Swansea
+2023-12-20,92000,SA6 6LX,T,N,F,11,,Maes Yr Onnen,Cwmrhydyceirw,Swansea
+2023-12-20,161000,SA6 6DP,S,N,F,115,,Vicarage Road,Morriston,Swansea
+2023-12-20,115000,SA6 5DN,S,N,F,40,,Players Avenue,Clydach,Swansea
+2023-12-15,119000,SA6 8HD,T,N,F,3,,Ash Street,Morriston,Swansea
+2023-12-15,144000,SA6 6JE,S,N,F,28,,Chemical Road,Morriston,Swansea
+2023-12-15,299000,SA6 6FF,D,N,F,52,,Cae Canol,Cwmrhydyceirw,Swansea
+2023-12-15,286000,SA6 6AH,T,N,L,201,,Clasemont Road,Morriston,Swansea
+2023-12-15,174995,SA6 5EH,T,N,F,79,,Hebron Road,Clydach,Swansea
+2023-12-14,120000,SA6 5DR,S,N,F,16,,Woodside Crescent,Clydach,Swansea
+2023-12-13,237500,SA6 6DB,S,N,F,8,,Bryn Rhosyn,Llangyfelach,Swansea
+2023-12-11,126000,SA6 8EJ,T,N,F,35,,Nixon Terrace,Morriston,Swansea
+2023-12-08,299995,SA6 6FF,S,Y,F,38,,Cae Canol,Cwmrhydyceirw,Swansea
+2023-12-08,170000,SA6 6EF,D,N,F,28,,Clos Waun Wen,Llangyfelach,Swansea
+2023-12-08,200000,SA6 6DZ,S,N,F,18,,Brayley Road,Morriston,Swansea
+2023-12-08,143000,SA6 5NE,S,N,F,29,,Penydre Road,Clydach,Swansea
+2023-12-08,270000,SA6 5DB,D,N,F,8,,Waverley Street,Clydach,Swansea
+2023-12-07,85000,SA6 8JU,T,N,F,324,,Neath Road,Plasmarl,Swansea
+2023-12-06,135000,SA6 6LD,T,N,F,24,,Llys Dol,Morriston,Swansea
+2023-12-04,450000,SA6 8NT,D,N,F,10,,Cnap Llwyd Road,Morriston,Swansea
+2023-12-04,160000,SA6 6TA,S,N,F,2,,Heol Y Drudwen,Cwmrhydyceirw,Swansea
+2023-12-04,160000,SA6 6GJ,T,N,F,45,,Cwrt Cilmeri,Morriston,Swansea
+2023-12-01,415000,SA6 6FF,D,N,F,46,,Cae Canol,Cwmrhydyceirw,Swansea
+2023-11-30,222000,SA6 6NZ,S,N,F,15,,Cwrt Yr Aeron,Cwmrhydyceirw,Swansea
+2023-11-30,140000,SA6 6JY,S,N,F,56,,Waun Road,Morriston,Swansea
+2023-11-29,370000,SA6 6EE,D,N,F,8,,Bishops Walk,Morriston,Swansea
+2023-11-28,100000,SA6 7JE,S,N,F,10,,Eighth Avenue,Clase,Swansea
+2023-11-28,92000,SA6 7BJ,T,N,F,44,,Martin Street,Morriston,Swansea
+2023-11-28,95000,SA6 5JU,S,N,F,31,,Ramsay Road,Clydach,Swansea
+2023-11-27,50000,SA6 8LE,S,N,F,16,,Calland Street,Plasmarl,Swansea
+2023-11-24,120000,SA6 6LJ,T,N,F,79,,Cwmrhydyceirw Road,Cwmrhydyceirw,Swansea
+2023-11-24,265000,SA6 6FP,D,N,F,27,,Cae Melyn,Llangyfelach,Swansea
+2023-11-24,195000,SA6 6FD,T,N,F,32,,Heol Waun Wen,Llangyfelach,Swansea
+2023-11-21,285000,SA6 5PB,D,N,F,158,,Pontardawe Road,Clydach,Swansea
+2023-11-17,103000,SA6 5HA,S,N,F,18,,Down Street,Clydach,Swansea
+2023-11-16,205000,SA6 7PA,D,N,F,22,,Glasbury Road,Morriston,Swansea
+2023-11-16,365000,SA6 6FF,D,Y,F,23,,Cae Canol,Cwmrhydyceirw,Swansea
+2023-11-16,183000,SA6 6FD,S,N,F,52,,Heol Waun Wen,Llangyfelach,Swansea
+2023-11-16,222000,SA6 5TA,D,N,F,40,,Clydach Road,Craig Cefn Parc,Swansea
+2023-11-15,280000,SA6 6QE,D,N,F,5,,Wheatsheaf Drive,Ynysforgan,Swansea
+2023-11-15,95000,SA6 5EQ,T,N,F,17,,Ffynnon Wen,Clydach,Swansea
+2023-11-14,218000,SA6 6FQ,T,N,F,169,,Waun Fawr,Cwmrhydyceirw,Swansea
+2023-11-13,295000,SA6 6FF,D,N,F,48,,Cae Canol,Cwmrhydyceirw,Swansea
+2023-11-13,248250,SA6 5AA,S,N,F,525,,Clydach Road,Ynystawe,Swansea
+2023-11-10,217500,SA6 6RQ,S,N,F,4,,Dee Place,Cwmrhydyceirw,Swansea
+2023-11-10,120000,SA6 6JN,S,N,F,72,,Heol Fedw,Cwmrhydyceirw,Swansea
+2023-11-10,190000,SA6 6DR,T,N,F,118,,Vicarage Road,Morriston,Swansea
+2023-11-10,502050,SA6 6DH,D,N,F,7,,Vicarage Road,Morriston,Swansea
+2023-11-07,166000,SA6 6SS,S,N,F,24,,Rhodfa'R Dryw,Cwmrhydyceirw,Swansea
+2023-11-06,115000,SA6 6DH,T,N,F,21,,Vicarage Road,Morriston,Swansea
+2023-11-03,255000,SA6 6FH,S,N,F,62,,Waun Fawr,Cwmrhydyceirw,Swansea
+2023-11-03,258000,SA6 5LP,D,N,F,30,,Vardre Road,Clydach,Swansea
+2023-10-31,165000,SA6 5HA,T,N,F,1,,Down Street,Clydach,Swansea
+2023-10-27,50000,SA6 7LD,T,N,F,28,,Creswell Road,Clase,Swansea
+2023-10-27,470000,SA6 6FF,D,Y,F,44,,Cae Canol,Cwmrhydyceirw,Swansea
+2023-10-26,85000,SA6 8LQ,T,N,F,61,,Dinas Street,Plasmarl,Swansea
+2023-10-25,205000,SA6 6AH,S,N,F,193,,Clasemont Road,Morriston,Swansea
+2023-10-23,222500,SA6 6FQ,T,N,F,167,,Waun Fawr,Cwmrhydyceirw,Swansea
+2023-10-23,170000,SA6 5JW,S,N,F,3,,Grove Road,Clydach,Swansea
+2023-10-20,133000,SA6 6HH,S,N,F,32,,Pleasant Street,Morriston,Swansea
+2023-10-20,160000,SA6 6EU,S,N,F,14,,Heol Y Rhedyn,Morriston,Swansea
+2023-10-20,160000,SA6 5DP,S,N,F,61,,Woodside Crescent,Clydach,Swansea
+2023-10-20,250000,SA6 5AF,D,N,F,79,,Bryntawe Road,Ynystawe,Swansea
+2023-10-19,75000,SA6 7JJ,T,N,F,6,,Tenth Avenue,Clase,Swansea
+2023-10-19,185000,SA6 6BP,T,N,F,24,,Furze Crescent,Morriston,Swansea
+2023-10-18,111000,SA6 6HU,F,N,L,"Birch Court, 44",Apartment 36,Sway Road,Morriston,Swansea
+2023-10-18,410000,SA6 6FF,D,Y,F,42,,Cae Canol,Cwmrhydyceirw,Swansea
+2023-10-13,365000,SA6 6FF,D,N,F,29,,Cae Canol,Cwmrhydyceirw,Swansea
+2023-10-11,120000,SA6 6BJ,S,N,F,7,,Llysgwyn,Llangyfelach,Swansea
+2023-10-10,98000,SA6 8LJ,T,N,F,88,,Dinas Street,Plasmarl,Swansea
+2023-10-10,135000,SA6 5EY,S,N,F,34,,St Johns Road,Clydach,Swansea
+2023-10-09,195000,SA6 8DS,D,N,F,37,,Clase Road,Morriston,Swansea
+2023-10-09,165000,SA6 6TA,S,N,F,34,,Heol Y Drudwen,Cwmrhydyceirw,Swansea
+2023-10-06,125000,SA6 7LQ,S,N,F,45,,Severn Road,Clase,Swansea
+2023-10-06,185000,SA6 6RN,S,N,F,31,,Garth View,Ynysforgan,Swansea
+2023-10-06,146000,SA6 6JY,S,N,F,52,,Waun Road,Morriston,Swansea
+2023-10-06,330000,SA6 5RA,D,N,F,4,,Rhyddwen Road,Craig Cefn Parc,Swansea
+2023-10-06,95000,SA6 5EE,T,N,F,103,,Tyle Teg,Clydach,Swansea
+2023-10-06,218100,SA6 5AL,D,N,F,26,,Bwllfa Road,Ynystawe,Swansea
+2023-10-04,92500,SA6 7BD,T,N,F,28,,Uplands Terrace,Morriston,Swansea
+2023-10-04,130000,SA6 5NB,S,N,F,28,,Brynamlwg,Clydach,Swansea
+2023-10-03,230000,SA6 6FQ,T,N,F,171,,Waun Fawr,Cwmrhydyceirw,Swansea
+2023-10-02,223000,SA6 7PW,D,N,F,61,,Gellifawr Road,Morriston,Swansea
+2023-10-02,90000,SA6 5EE,T,N,F,117,,Tyle Teg,Clydach,Swansea
+2023-09-29,97500,SA6 8JY,T,N,F,27,,Millbrook Street,Plasmarl,Swansea
+2023-09-29,159000,SA6 8DG,T,N,F,4,,Margam Avenue,Morriston,Swansea
+2023-09-29,187000,SA6 6NJ,S,N,F,74,,Rhodfa Fadog,Cwmrhydyceirw,Swansea
+2023-09-29,290000,SA6 5GA,D,N,F,17,,Woodlands Avenue,Clydach,Swansea
+2023-09-29,140000,SA6 5BA,T,N,F,681,,Clydach Road,Ynystawe,Swansea
+2023-09-27,135000,SA6 5BZ,D,N,F,14A,,Heol Y Graig,Clydach,Swansea
+2023-09-25,225000,SA6 7DU,S,N,F,73,,Tanylan Terrace,Morriston,Swansea
+2023-09-25,105000,SA6 6LD,T,N,F,26,,Llys Dol,Morriston,Swansea
+2023-09-22,250000,SA6 7PW,S,N,F,77,,Gellifawr Road,Morriston,Swansea
+2023-09-22,120000,SA6 7BH,T,N,F,8,,Parc Y Duc Terrace,Morriston,Swansea
+2023-09-22,125000,SA6 7AY,S,N,F,38,,Lan Street,Morriston,Swansea
+2023-09-22,245000,SA6 6HQ,S,N,F,14,,Penrice Street,Morriston,Swansea
+2023-09-22,167500,SA6 5HD,S,N,F,5,,Pen Y Wern Road,Clydach,Swansea
+2023-09-22,144000,SA6 5DX,D,N,F,43,,Hillrise Park,Clydach,Swansea
+2023-09-22,80000,SA6 5DJ,S,N,F,112,,Heol Graig Felen,Clydach,Swansea
+2023-09-21,75000,SA6 5DJ,S,N,F,83,,Heol Graig Felen,Clydach,Swansea
+2023-09-20,290000,SA6 6FF,D,Y,F,27,,Cae Canol,Cwmrhydyceirw,Swansea
+2023-09-18,117500,SA6 8LA,T,N,F,11,,Landeg Street,Plasmarl,Swansea
+2023-09-18,180000,SA6 8HT,D,N,F,427,,Neath Road,Morriston,Swansea
+2023-09-15,185000,SA6 6AU,S,N,L,28,,Can Yr Eos,Morriston,Swansea
+2023-09-15,155000,SA6 5JR,S,N,F,51,,Kelvin Road,Clydach,Swansea
+2023-09-13,155000,SA6 6TA,S,N,F,22,,Heol Y Drudwen,Cwmrhydyceirw,Swansea
+2023-09-11,150000,SA6 6HU,F,N,L,"Birch Court, 44",Apartment 48,Sway Road,Morriston,Swansea
+2023-09-08,325000,SA6 6FQ,D,Y,F,155,,Waun Fawr,Cwmrhydyceirw,Swansea
+2023-09-08,287500,SA6 6FF,D,Y,F,25,,Cae Canol,Cwmrhydyceirw,Swansea
+2023-09-08,250000,SA6 6DL,T,N,F,10,,Harry Street,Morriston,Swansea
+2023-09-08,260000,SA6 5EY,D,N,F,23,,St Johns Road,Clydach,Swansea
+2023-09-06,138000,SA6 6SS,S,N,F,50,,Rhodfa'R Dryw,Cwmrhydyceirw,Swansea
+2023-09-06,155000,SA6 5NQ,S,N,F,13,,Llwynon Road,Clydach,Swansea
+2023-09-04,107000,SA6 8HY,S,N,F,9,,Parc Road,Morriston,Swansea
+2023-09-01,235000,SA6 7PP,D,N,F,17,,Gelli Gwyn Road,Morriston,Swansea
+2023-09-01,170000,SA6 7EB,S,N,F,119,,Caemawr Road,Morriston,Swansea
+2023-09-01,128000,SA6 7AY,T,N,F,43,,Lan Street,Morriston,Swansea
+2023-09-01,170000,SA6 6SS,S,N,F,18,,Rhodfa'R Dryw,Cwmrhydyceirw,Swansea
+2023-09-01,100100,SA6 6HJ,T,N,F,83,,Pleasant Street,Morriston,Swansea
+2023-09-01,340000,SA6 6FH,T,Y,F,104,,Waun Fawr,Cwmrhydyceirw,Swansea
+2023-09-01,340000,SA6 6FH,T,Y,F,100,,Waun Fawr,Cwmrhydyceirw,Swansea
+2023-08-31,120000,SA6 8EB,T,N,F,56,,Tirpenry Street,Morriston,Swansea
+2023-08-31,137300,SA6 6RX,S,N,F,110,,Glyncollen Crescent,Ynysforgan,Swansea
+2023-08-31,158000,SA6 6RL,S,N,F,10,,Andrew Crescent,Ynysforgan,Swansea
+2023-08-31,330000,SA6 6FH,D,Y,F,112,,Waun Fawr,Cwmrhydyceirw,Swansea
+2023-08-31,265000,SA6 6FH,S,Y,F,108,,Waun Fawr,Cwmrhydyceirw,Swansea
+2023-08-30,65500,SA6 8NS,S,N,F,3,,Pontyshute,Morriston,Swansea
+2023-08-30,150000,SA6 6HU,F,N,L,"Birch Court, 44",Apartment 33,Sway Road,Morriston,Swansea
+2023-08-25,128000,SA6 8LT,T,N,F,11,,Idris Terrace,Plasmarl,Swansea
+2023-08-25,238000,SA6 6QR,S,N,L,23,,Christopher Road,Ynysforgan,Swansea
+2023-08-25,140000,SA6 6EY,T,N,F,3,,Y Waun Fach,Llangyfelach,Swansea
+2023-08-25,222500,SA6 6BT,S,N,F,267,,Clasemont Road,Morriston,Swansea
+2023-08-25,222450,SA6 5EU,D,N,F,38,,Sybil Street,Clydach,Swansea
+2023-08-25,185000,SA6 5ES,S,N,F,21,,Heol Eithrim,Clydach,Swansea
+2023-08-24,141000,SA6 8NX,T,N,F,212,,Trewyddfa Road,Morriston,Swansea
+2023-08-24,210000,SA6 7LJ,T,N,F,1B,,Pengwern Road,Clase,Swansea
+2023-08-24,174000,SA6 6RD,S,N,F,9,,Clos Crucywel,Cwmrhydyceirw,Swansea
+2023-08-24,133000,SA6 5HE,T,N,F,40,,Gellionen Road,Clydach,Swansea
+2023-08-23,218500,SA6 6LL,T,N,F,33,,Maes Y Gwernen Road,Cwmrhydyceirw,Swansea
+2023-08-23,252000,SA6 5PA,S,N,F,146,,Pontardawe Road,Clydach,Swansea
+2023-08-22,255000,SA6 6FH,T,Y,F,102,,Waun Fawr,Cwmrhydyceirw,Swansea
+2023-08-18,115000,SA6 8HS,T,N,F,9,,Trewyddfa Common,Morriston,Swansea
+2023-08-18,270000,SA6 6LU,D,N,F,94,,Llanllienwen Road,Cwmrhydyceirw,Swansea
+2023-08-18,253000,SA6 6DT,S,N,F,171,,Vicarage Road,Morriston,Swansea
+2023-08-18,285000,SA6 5PL,D,N,F,52,,Kingrosia Park,Clydach,Swansea
+2023-08-18,185000,SA6 5LU,S,N,F,74,,Vardre Road,Clydach,Swansea
+2023-08-15,130000,SA6 6DH,T,N,F,14,,Vicarage Road,Morriston,Swansea
+2023-08-11,275000,SA6 7PW,S,N,F,30,,Gellifawr Road,Morriston,Swansea
+2023-08-11,135000,SA6 6TD,T,N,F,6,,Llwyn Y Bioden,Cwmrhydyceirw,Swansea
+2023-08-11,217500,SA6 6TA,S,N,F,53,,Heol Y Drudwen,Cwmrhydyceirw,Swansea
+2023-08-11,228000,SA6 6SP,S,N,F,10,,Rhodfar Wennol,Cwmrhydyceirw,Swansea
+2023-08-11,235000,SA6 6FH,S,Y,F,116,,Waun Fawr,Cwmrhydyceirw,Swansea
+2023-08-11,235000,SA6 6FH,S,Y,F,114,,Waun Fawr,Cwmrhydyceirw,Swansea
+2023-08-11,325000,SA6 6FH,D,Y,F,110,,Waun Fawr,Cwmrhydyceirw,Swansea
+2023-08-11,475000,SA6 6FF,D,Y,F,13,,Cae Canol,Cwmrhydyceirw,Swansea
+2023-08-11,475000,SA6 6FF,D,Y,F,11,,Cae Canol,Cwmrhydyceirw,Swansea
+2023-08-07,105000,SA6 6JX,T,N,F,Heatherslade,,Heol Maes Y Gelynen,Morriston,Swansea
+2023-08-07,300000,SA6 6BY,D,N,F,70,,Heol Pentre Felen,Llangyfelach,Swansea
+2023-08-04,225000,SA6 6FH,T,Y,F,98,,Waun Fawr,Cwmrhydyceirw,Swansea
+2023-08-04,153000,SA6 6AR,S,N,F,9,,Pine Crescent,Morriston,Swansea
+2023-08-04,148000,SA6 6AR,S,N,F,2,,Pine Crescent,Morriston,Swansea
+2023-08-03,160000,SA6 8AY,S,N,F,8,,Slate Street,Morriston,Swansea
+2023-08-03,120000,SA6 7DS,T,N,L,8,,Parry Road,Morriston,Swansea
+2023-08-02,114000,SA6 6QB,T,N,F,133,,Clydach Road,Morriston,Swansea
+2023-08-02,221000,SA6 5HZ,T,N,F,5,,Forge Cottages,Clydach,Swansea
+2023-08-01,192000,SA6 6RA,S,N,F,10,,Lon Penfro,Cwmrhydyceirw,Swansea
+2023-07-28,155000,SA6 7QF,D,N,F,53,,Ullswater Crescent,Morriston,Swansea
+2023-07-28,130000,SA6 7JH,S,N,F,236,,Long View Road,Clase,Swansea
+2023-07-28,192000,SA6 6LT,T,N,F,173,,Llanllienwen Road,Cwmrhydyceirw,Swansea
+2023-07-28,222500,SA6 6FH,T,Y,F,96,,Waun Fawr,Cwmrhydyceirw,Swansea
+2023-07-28,192000,SA6 6DE,S,N,F,14,,Bro Dawel,Llangyfelach,Swansea
+2023-07-28,255000,SA6 6AU,D,N,F,35,,Can Yr Eos,Morriston,Swansea
+2023-07-28,70000,SA6 5RZ,F,N,L,22,,Ffordd Ellen,Craig Cefn Parc,Swansea
+2023-07-28,290000,SA6 5HE,D,N,L,23,,Gellionen Road,Clydach,Swansea
+2023-07-27,380000,SA6 6SR,D,N,F,7,,Heol Yr Eryr,Cwmrhydyceirw,Swansea
+2023-07-27,182500,SA6 6RW,S,N,F,2,,Elizabeth Close,Ynysforgan,Swansea
+2023-07-27,105000,SA6 6LB,F,N,L,8,,Gwernos,Morriston,Swansea
+2023-07-27,225000,SA6 6FH,T,Y,F,94,,Waun Fawr,Cwmrhydyceirw,Swansea
+2023-07-25,155000,SA6 7JF,S,N,F,191,,Long View Road,Clase,Swansea
+2023-07-25,110000,SA6 7BG,T,N,F,113,,Clyndu Street,Morriston,Swansea
+2023-07-25,220000,SA6 6HQ,D,N,F,37,,Penrice Street,Morriston,Swansea
+2023-07-25,165000,SA6 6EX,T,N,F,31,,Ffordd Dewi,Llangyfelach,Swansea
+2023-07-21,110000,SA6 7JF,S,N,F,102,,Long View Road,Clase,Swansea
+2023-07-21,181000,SA6 6FD,S,N,F,74,,Heol Waun Wen,Llangyfelach,Swansea
+2023-07-21,150000,SA6 5SZ,S,N,F,2,,Heol Rhyd,Craig Cefn Parc,Swansea
+2023-07-20,170000,SA6 6SS,S,N,F,31,,Rhodfa'R Dryw,Cwmrhydyceirw,Swansea
+2023-07-20,565000,SA6 5TQ,D,N,F,"Plum View, 9",,Rhyd Y Gwin,Craig Cefn Parc,Swansea
+2023-07-20,115000,SA6 5HA,T,N,F,3,,Down Street,Clydach,Swansea
+2023-07-20,91000,SA6 5EQ,T,N,F,23,,Ffynnon Wen,Clydach,Swansea
+2023-07-17,149950,SA6 5JQ,S,N,F,19,,Tan Yr Allt Road,Clydach,Swansea
+2023-07-14,125000,SA6 8LJ,T,N,F,136,,Dinas Street,Plasmarl,Swansea
+2023-07-14,137000,SA6 6TW,T,N,F,8,,Cwrt Llwynog,Cwmrhydyceirw,Swansea
+2023-07-14,182000,SA6 6LP,S,N,F,8,,Brodorion Drive,Cwmrhydyceirw,Swansea
+2023-07-14,220000,SA6 6DS,D,N,F,7,,Maes Y Coed,Morriston,Swansea
+2023-07-14,89995,SA6 5ED,T,N,F,160,,Hillrise Park,Clydach,Swansea
+2023-07-13,164000,SA6 7DS,S,N,F,1,,Parry Road,Morriston,Swansea
+2023-07-13,240000,SA6 6DZ,D,N,L,28,,Brayley Road,Morriston,Swansea
+2023-07-12,118000,SA6 7LD,T,N,F,19,,Creswell Road,Clase,Swansea
+2023-07-12,195000,SA6 6ED,S,N,F,25,,Camellia Drive,Morriston,Swansea
+2023-07-10,235000,SA6 6FD,S,N,F,59,,Heol Waun Wen,Llangyfelach,Swansea
+2023-07-07,140000,SA6 5JW,S,N,F,24,,Grove Road,Clydach,Swansea
+2023-06-30,105000,SA6 7JY,T,N,F,71,,Rheidol Avenue,Clase,Swansea
+2023-06-30,155000,SA6 6QW,T,N,F,455,,Clydach Road,Ynysforgan,Swansea
+2023-06-30,475000,SA6 6FF,D,Y,F,15,,Cae Canol,Cwmrhydyceirw,Swansea
+2023-06-30,98000,SA6 5EQ,T,N,F,6,,Ffynnon Wen,Clydach,Swansea
+2023-06-27,475000,SA6 5JN,D,N,F,23,,Carlton Road,Clydach,Swansea
+2023-06-26,143000,SA6 6HG,T,N,F,15,,Springfield Street,Morriston,Swansea
+2023-06-23,249000,SA6 6FG,T,N,F,45,,Waun Fawr,Cwmrhydyceirw,Swansea
+2023-06-23,105000,SA6 6BP,F,N,L,3,,Furze Crescent,Morriston,Swansea
+2023-06-23,155000,SA6 5PU,S,N,F,6,,Pearl Street,Clydach,Swansea
+2023-06-23,134000,SA6 5JU,S,N,F,16,,Ramsay Road,Clydach,Swansea
+2023-06-19,134000,SA6 6JY,S,N,F,18,,Waun Road,Morriston,Swansea
+2023-06-16,105500,SA6 7JY,S,N,F,65,,Rheidol Avenue,Clase,Swansea
+2023-06-16,510000,SA6 5EN,D,N,F,"Penybank House, 2",,Twynybedw Road,Clydach,Swansea
+2023-06-14,88000,SA6 5EQ,T,N,F,42,,Ffynnon Wen,Clydach,Swansea
+2023-06-13,115000,SA6 8LW,S,N,F,5B,,Smyrna Street,Plasmarl,Swansea
+2023-06-09,88000,SA6 8HU,S,N,F,154,,Parc Avenue,Morriston,Swansea
+2023-06-09,80000,SA6 8DE,T,N,F,40,,Green Street,Morriston,Swansea
+2023-06-09,89950,SA6 7BD,T,N,F,23,,Uplands Terrace,Morriston,Swansea
+2023-06-09,140000,SA6 6RH,S,N,F,48,,Orpheus Road,Ynysforgan,Swansea
+2023-06-09,165000,SA6 6PY,S,N,F,2,,Clos Rhedyn,Cwmrhydyceirw,Swansea
+2023-06-09,225000,SA6 6FG,T,N,F,47,,Waun Fawr,Cwmrhydyceirw,Swansea
+2023-06-09,540000,SA6 5AR,D,N,F,11,,Woodland Park,Ynystawe,Swansea
+2023-06-02,147000,SA6 6HG,T,N,F,9,,Springfield Street,Morriston,Swansea
+2023-06-01,205500,SA6 6QU,D,N,F,30,,Butterslade Grove,Ynysforgan,Swansea
+2023-05-31,160000,SA6 6NA,T,N,F,78,,Llanllienwen Road,Cwmrhydyceirw,Swansea
+2023-05-26,90000,SA6 7BA,T,N,F,19,,Cwmbath Road,Morriston,Swansea
+2023-05-26,197000,SA6 6TN,S,N,F,11,,Heol Cadnawes,Cwmrhydyceirw,Swansea
+2023-05-26,245000,SA6 6FG,T,N,F,83,,Waun Fawr,Cwmrhydyceirw,Swansea
+2023-05-26,105000,SA6 5LG,S,N,F,28,,High Street,Clydach,Swansea
+2023-05-25,265000,SA6 5RG,D,N,F,Dolycoed,,Rhyddwen Road,Craig Cefn Parc,Swansea
+2023-05-24,90000,SA6 7AG,S,N,F,14,,Strawberry Place,Morriston,Swansea
+2023-05-24,85000,SA6 5ED,T,N,L,168,,Hillrise Park,Clydach,Swansea
+2023-05-24,85000,SA6 5ED,T,N,F,168,,Hillrise Park,Clydach,Swansea
+2023-05-19,300000,SA6 6BU,D,N,F,353,,Clasemont Road,Morriston,Swansea
+2023-05-15,410000,SA6 6FF,D,Y,F,34,,Cae Canol,Cwmrhydyceirw,Swansea
+2023-05-12,200000,SA6 6HB,S,N,F,70,,Springfield Street,Morriston,Swansea
+2023-05-12,325000,SA6 6FH,D,Y,F,92,,Waun Fawr,Cwmrhydyceirw,Swansea
+2023-05-12,290000,SA6 6FH,S,Y,F,90,,Waun Fawr,Cwmrhydyceirw,Swansea
+2023-05-12,340000,SA6 6FF,D,Y,F,9,,Cae Canol,Cwmrhydyceirw,Swansea
+2023-05-12,410000,SA6 6FF,D,Y,F,36,,Cae Canol,Cwmrhydyceirw,Swansea
+2023-05-10,290000,SA6 6FH,S,Y,F,88,,Waun Fawr,Cwmrhydyceirw,Swansea
+2023-05-09,145000,SA6 5DS,T,N,F,36,,Brynteg,Clydach,Swansea
+2023-05-05,164000,SA6 7QG,S,N,F,140,,Mynydd Garn Lwyd Road,Morriston,Swansea
+2023-05-05,140500,SA6 6HJ,T,N,F,7,,Pleasant Street,Morriston,Swansea
+2023-05-05,330000,SA6 6FH,D,Y,F,86,,Waun Fawr,Cwmrhydyceirw,Swansea
+2023-05-05,285000,SA6 6FF,D,Y,F,7,,Cae Canol,Cwmrhydyceirw,Swansea
+2023-05-05,105000,SA6 5DX,S,N,F,13,,Hillrise Park,Clydach,Swansea
+2023-05-05,105000,SA6 5DX,S,N,L,13,,Hillrise Park,Clydach,Swansea
+2023-05-03,201000,SA6 6JQ,T,N,F,199,,Chemical Road,Morriston,Swansea
+2023-05-02,147000,SA6 6ER,D,N,F,39,,Heol Rhosyn,Morriston,Swansea
+2023-04-28,150000,SA6 7JG,S,N,F,231,,Long View Road,Clase,Swansea
+2023-04-28,92500,SA6 7BG,S,N,F,136,,Clyndu Street,Morriston,Swansea
+2023-04-28,130000,SA6 6TW,T,N,F,19,,Cwrt Llwynog,Cwmrhydyceirw,Swansea
+2023-04-28,245000,SA6 6TJ,S,N,F,2,,Radnor Drive,Morriston,Swansea
+2023-04-28,162500,SA6 6TH,T,N,F,65,,Denbigh Crescent,Ynysforgan,Swansea
+2023-04-28,210000,SA6 6HA,T,N,F,17,,Heol Eirlys,Morriston,Swansea
+2023-04-28,245000,SA6 6FG,T,N,F,67,,Waun Fawr,Cwmrhydyceirw,Swansea
+2023-04-28,174000,SA6 6BS,S,N,F,16,,Penrhiw Road,Morriston,Swansea
+2023-04-28,175000,SA6 6BB,S,N,F,18,,Arwelfa,Morriston,Swansea
+2023-04-27,72500,SA6 6DH,S,N,F,25,,Vicarage Road,Morriston,Swansea
+2023-04-27,160000,SA6 6BA,D,N,F,29,,Pen Yr Yrfa,Morriston,Swansea
+2023-04-27,260000,SA6 5PL,D,N,F,75,,Kingrosia Park,Clydach,Swansea
+2023-04-27,383500,SA6 5PB,D,N,F,89,,Pontardawe Road,Clydach,Swansea
+2023-04-25,100000,SA6 8AR,T,N,F,119,,Woodfield Street,Morriston,Swansea
+2023-04-21,85000,SA6 8BN,T,N,F,36,,Morfydd Street,Morriston,Swansea
+2023-04-21,360000,SA6 6FF,D,Y,F,5,,Cae Canol,Cwmrhydyceirw,Swansea
+2023-04-21,140000,SA6 6DH,S,N,F,31,,Vicarage Road,Morriston,Swansea
+2023-04-21,215000,SA6 5PN,S,N,F,2,,Kingrosia Park,Clydach,Swansea
+2023-04-17,205000,SA6 6SW,S,N,F,81,,Rhodfar Eos,Cwmrhydyceirw,Swansea
+2023-04-14,110000,SA6 8LW,T,N,F,17,,Smyrna Street,Plasmarl,Swansea
+2023-04-14,260000,SA6 6FG,T,N,F,77,,Waun Fawr,Cwmrhydyceirw,Swansea
+2023-04-14,215000,SA6 5PN,S,N,F,1,,Kingrosia Park,Clydach,Swansea
+2023-04-12,126500,SA6 8HX,S,N,F,97,,Parc Avenue,Morriston,Swansea
+2023-04-12,175000,SA6 6DP,S,N,F,117,,Vicarage Road,Morriston,Swansea
+2023-04-11,119000,SA6 7ET,S,N,F,50,,Heol Cefni,Morriston,Swansea
+2023-04-11,180000,SA6 5PZ,S,N,F,2,,Capel Road,Clydach,Swansea
+2023-04-06,225000,SA6 6FG,T,N,F,71,,Waun Fawr,Cwmrhydyceirw,Swansea
+2023-04-06,125000,SA6 6BJ,T,N,F,36,,Llysgwyn,Llangyfelach,Swansea
+2023-04-06,310000,SA6 5PB,S,N,F,123,,Pontardawe Road,Clydach,Swansea
+2023-04-06,200000,SA6 5AG,S,N,F,14,,Plas Cadwgan Road,Ynystawe,Swansea
+2023-04-05,90000,SA6 8BR,T,N,F,39,,Crown Street,Morriston,Swansea
+2023-04-04,142000,SA6 5JR,S,N,F,43,,Kelvin Road,Clydach,Swansea
+2023-03-31,112300,SA6 8LJ,T,N,F,89,,Dinas Street,Plasmarl,Swansea
+2023-03-31,98000,SA6 8JN,T,N,F,352,,Neath Road,Plasmarl,Swansea
+2023-03-31,147000,SA6 7JF,S,N,F,122,,Long View Road,Clase,Swansea
+2023-03-30,106000,SA6 8LY,T,N,F,13,,Essex Terrace,Plasmarl,Swansea
+2023-03-30,123000,SA6 7EJ,T,N,F,111,,Lon Camlad,Morriston,Swansea
+2023-03-29,77000,SA6 8LW,T,N,F,11,,Smyrna Street,Plasmarl,Swansea
+2023-03-29,104500,SA6 8DA,D,N,L,53,,Market Street,Morriston,Swansea
+2023-03-29,145000,SA6 5JH,S,N,F,13,,Newton Road,Clydach,Swansea
+2023-03-28,185000,SA6 6LL,S,N,F,46,,Maes Y Gwernen Road,Cwmrhydyceirw,Swansea
+2023-03-27,265000,SA6 6FH,S,Y,F,80,,Waun Fawr,Cwmrhydyceirw,Swansea
+2023-03-27,80000,SA6 5HD,S,N,F,15,,Pen Y Wern Road,Clydach,Swansea
+2023-03-24,92000,SA6 8LQ,T,N,F,63,,Dinas Street,Plasmarl,Swansea
+2023-03-24,295000,SA6 7PP,D,N,F,2,,Gelli Gwyn Road,Morriston,Swansea
+2023-03-24,170000,SA6 6NE,S,N,F,1,,Clos Cenawon,Cwmrhydyceirw,Swansea
+2023-03-23,187000,SA6 7DZ,S,N,F,30,,Park Close,Morriston,Swansea
+2023-03-23,207500,SA6 6LW,D,N,F,11,,Enfield Close,Cwmrhydyceirw,Swansea
+2023-03-17,225000,SA6 6FG,T,N,F,49,,Waun Fawr,Cwmrhydyceirw,Swansea
+2023-03-17,365000,SA6 6FF,D,Y,F,30,,Cae Canol,Cwmrhydyceirw,Swansea
+2023-03-17,155000,SA6 6BR,S,N,F,48,,Penrhiw Road,Morriston,Swansea
+2023-03-16,250000,SA6 6FH,S,Y,F,64,,Waun Fawr,Cwmrhydyceirw,Swansea
+2023-03-14,135000,SA6 6HB,T,N,F,29,,Springfield Street,Morriston,Swansea
+2023-03-14,250000,SA6 6FH,S,Y,F,82,,Waun Fawr,Cwmrhydyceirw,Swansea
+2023-03-10,242500,SA6 7PN,D,N,F,2,,Gellifawr Road,Morriston,Swansea
+2023-03-10,180000,SA6 6EJ,D,N,F,23,,Heol Rhosyn,Morriston,Swansea
+2023-03-09,335000,SA6 6FH,S,Y,F,42,,Waun Fawr,Cwmrhydyceirw,Swansea
+2023-03-07,66000,SA6 8NX,T,N,F,206,,Trewyddfa Road,Morriston,Swansea
+2023-03-07,250000,SA6 6FH,S,Y,F,40,,Waun Fawr,Cwmrhydyceirw,Swansea
+2023-03-07,135000,SA6 5JS,T,N,F,68,,Faraday Road,Clydach,Swansea
+2023-03-03,136000,SA6 7ER,T,N,F,18,,Lon Gwendraeth,Morriston,Swansea
+2023-03-03,270000,SA6 6PU,D,N,F,12,,Cyril Evans Way,Morriston,Swansea
+2023-03-03,280000,SA6 6HQ,D,N,F,28,,Penrice Street,Morriston,Swansea
+2023-03-03,174000,SA6 6EF,T,N,F,15,,Clos Waun Wen,Llangyfelach,Swansea
+2023-03-03,166000,SA6 5AN,D,N,F,15,,Spionkop Road,Ynystawe,Swansea
+2023-03-02,240000,SA6 7PW,D,N,L,70,,Gellifawr Road,Morriston,Swansea
+2023-03-01,270000,SA6 5HB,T,N,F,25,,Heol Y Nant,Clydach,Swansea
+2023-02-27,220000,SA6 6EN,S,N,F,37,,Heol Y Grug,Morriston,Swansea
+2023-02-24,325000,SA6 6FH,D,Y,F,68,,Waun Fawr,Cwmrhydyceirw,Swansea
+2023-02-24,120000,SA6 5JR,T,N,F,58,,Kelvin Road,Clydach,Swansea
+2023-02-23,80000,SA6 8HG,D,N,F,546,,Neath Road,Morriston,Swansea
+2023-02-22,118000,SA6 6BP,S,N,F,17,,Furze Crescent,Morriston,Swansea
+2023-02-15,125000,SA6 5JW,T,N,F,38,,Grove Road,Clydach,Swansea
+2023-02-14,160000,SA6 5JS,S,N,F,44,,Faraday Road,Clydach,Swansea
+2023-02-13,130000,SA6 5DX,D,N,L,40,,Hillrise Park,Clydach,Swansea
+2023-02-10,250000,SA6 6PB,D,N,F,44,,Rhydypandy Road,Morriston,Swansea
+2023-02-10,325000,SA6 6FG,D,N,F,115,,Waun Fawr,Cwmrhydyceirw,Swansea
+2023-02-10,190000,SA6 6EB,S,N,F,Great Western House,1,Great Western Terrace,Cwmrhydyceirw,Swansea
+2023-02-09,340000,SA6 5SZ,S,N,F,Swn Y Nant,,Heol Rhyd,Craig Cefn Parc,Swansea
+2023-02-03,235000,SA6 7QE,D,N,F,26,,Windermere Road,Morriston,Swansea
+2023-02-03,154000,SA6 6BS,S,N,L,15,,Penrhiw Road,Morriston,Swansea
+2023-02-02,160000,SA6 8HJ,T,N,F,12,,Parc Avenue,Morriston,Swansea
+2023-02-02,180000,SA6 5JP,S,N,F,22,,Kelvin Road,Clydach,Swansea
+2023-02-01,120000,SA6 6QH,T,N,F,169,,Clydach Road,Morriston,Swansea
+2023-02-01,259000,SA6 6DT,S,N,F,164,,Vicarage Road,Morriston,Swansea
+2023-02-01,160000,SA6 5PY,S,N,F,80,,Capel Road,Clydach,Swansea
+2023-01-27,120000,SA6 8LN,T,N,F,31,,Bartley Terrace,Plasmarl,Swansea
+2023-01-27,90000,SA6 7AG,S,N,F,6,,Strawberry Place,Morriston,Swansea
+2023-01-27,375000,SA6 6FJ,D,N,F,1,,Parc Ceirw,Cwmrhydyceirw,Swansea
+2023-01-27,382500,SA6 6BT,D,N,L,221,,Clasemont Road,Morriston,Swansea
+2023-01-27,130000,SA6 5LA,T,N,F,6,,Bryn Hawddgar,Clydach,Swansea
+2023-01-27,95000,SA6 5EQ,T,N,F,18,,Ffynnon Wen,Clydach,Swansea
+2023-01-26,138087,SA6 8ES,D,N,F,926,,Neath Road,Morriston,Swansea
+2023-01-24,110000,SA6 6HH,T,N,F,29,,Pleasant Street,Morriston,Swansea
+2023-01-20,99000,SA6 8LT,T,N,F,23,,Idris Terrace,Plasmarl,Swansea
+2023-01-20,170000,SA6 5JB,S,N,F,164,,Lone Road,Clydach,Swansea
+2023-01-20,151000,SA6 5DE,D,N,F,5,,Bethania Road,Clydach,Swansea
+2023-01-16,175000,SA6 5JU,S,N,F,22,,Ramsay Road,Clydach,Swansea
+2023-01-13,87500,SA6 8LN,T,N,F,59,,Bartley Terrace,Plasmarl,Swansea
+2023-01-13,138000,SA6 8JT,T,N,F,1190,,Neath Road,Plasmarl,Swansea
+2023-01-13,118000,SA6 6LJ,T,N,F,87,,Cwmrhydyceirw Road,Cwmrhydyceirw,Swansea
+2023-01-13,118000,SA6 6DH,T,N,F,30,,Vicarage Road,Morriston,Swansea
+2023-01-13,310000,SA6 5SY,D,N,F,20,,Clydach Road,Craig Cefn Parc,Swansea
+2023-01-13,345000,SA6 5LA,D,N,F,28,,Bryn Hawddgar,Clydach,Swansea
+2023-01-09,106500,SA6 8JY,T,N,F,9,,Millbrook Street,Plasmarl,Swansea
+2023-01-06,177500,SA6 5AN,S,N,F,23,,Spionkop Road,Ynystawe,Swansea
+2023-01-05,205000,SA6 6RH,S,N,F,37,,Orpheus Road,Ynysforgan,Swansea
+2023-01-05,220000,SA6 6LD,D,N,F,36,,Llys Dol,Morriston,Swansea
+2023-01-04,397500,SA6 6RF,D,N,F,17,,Monmouth Place,Ynysforgan,Swansea
+2022-12-22,110000,SA6 8DG,T,N,F,3,,Margam Avenue,Morriston,Swansea
+2022-12-22,100000,SA6 7LL,S,N,F,16,,First Avenue,Clase,Swansea
+2022-12-21,121000,SA6 7JG,S,N,F,172,,Long View Road,Clase,Swansea
+2022-12-21,80000,SA6 6HG,T,N,F,3,,Springfield Street,Morriston,Swansea
+2022-12-21,210000,SA6 6AJ,D,N,F,126,,Clasemont Road,Morriston,Swansea
+2022-12-20,195000,SA6 6RL,S,N,F,12,,Andrew Crescent,Ynysforgan,Swansea
+2022-12-20,164500,SA6 6LY,S,N,F,Hazeldene,,Llanllienwen Close,Ynysforgan,Swansea
+2022-12-20,90000,SA6 5QE,T,N,F,43,,Vera Road,Clydach,Swansea
+2022-12-19,187500,SA6 8HH,D,N,F,48,,Parc Avenue,Morriston,Swansea
+2022-12-19,320000,SA6 6FH,S,Y,F,54,,Waun Fawr,Cwmrhydyceirw,Swansea
+2022-12-19,250000,SA6 6FG,S,Y,F,113,,Waun Fawr,Cwmrhydyceirw,Swansea
+2022-12-19,263000,SA6 5PJ,D,N,F,100,,Kingrosia Park,Clydach,Swansea
+2022-12-16,132000,SA6 8HG,T,N,F,545,,Neath Road,Morriston,Swansea
+2022-12-16,62129,SA6 8EB,T,N,F,53,,Tirpenry Street,Morriston,Swansea
+2022-12-16,140000,SA6 7AT,S,N,F,66,,Bath Road,Morriston,Swansea
+2022-12-16,113000,SA6 5EB,S,N,F,67,,Tyle Teg,Clydach,Swansea
+2022-12-16,177500,SA6 5BZ,S,N,F,12,,Heol Y Graig,Clydach,Swansea
+2022-12-15,120000,SA6 6QJ,T,N,F,235,,Clydach Road,Morriston,Swansea
+2022-12-15,97000,SA6 6NB,T,N,F,25,,Llanllienwen Road,Cwmrhydyceirw,Swansea
+2022-12-14,165000,SA6 6SW,S,N,F,73,,Rhodfar Eos,Cwmrhydyceirw,Swansea
+2022-12-14,149000,SA6 6DE,S,N,F,3,,Bro Dawel,Llangyfelach,Swansea
+2022-12-13,275000,SA6 6FG,S,Y,F,103,,Waun Fawr,Cwmrhydyceirw,Swansea
+2022-12-12,155000,SA6 7DX,T,N,L,12,,Caemawr Road,Morriston,Swansea
+2022-12-12,108000,SA6 6JE,T,N,F,11,,Chemical Road,Morriston,Swansea
+2022-12-12,245000,SA6 6FG,S,N,F,111,,Waun Fawr,Cwmrhydyceirw,Swansea
+2022-12-09,150000,SA6 7DX,T,N,F,15,,Caemawr Road,Morriston,Swansea
+2022-12-09,275000,SA6 6FG,T,Y,F,105,,Waun Fawr,Cwmrhydyceirw,Swansea
+2022-12-09,47500,SA6 6BJ,F,N,L,33,,Llysgwyn,Llangyfelach,Swansea
+2022-12-08,140000,SA6 7EA,T,N,F,53,,Caemawr Road,Morriston,Swansea
+2022-12-08,145000,SA6 6LH,S,N,F,28,,Cwmrhydyceirw Road,Cwmrhydyceirw,Swansea
+2022-12-08,189000,SA6 5JW,S,N,F,12,,Grove Road,Clydach,Swansea
+2022-12-08,189995,SA6 5EU,S,N,F,42,,Sybil Street,Clydach,Swansea
+2022-12-05,275000,SA6 6ET,D,N,F,16,,Maes Y Dderwen,Llangyfelach,Swansea
+2022-12-05,207500,SA6 6DP,S,N,F,92,,Vicarage Road,Morriston,Swansea
+2022-12-05,375000,SA6 6AJ,S,N,F,196,,Clasemont Road,Morriston,Swansea
+2022-12-05,125000,SA6 5EU,T,N,F,20,,Sybil Street,Clydach,Swansea
+2022-12-02,97500,SA6 7EQ,T,N,F,26,,Lon Claerwen,Morriston,Swansea
+2022-12-02,375000,SA6 6AJ,S,N,F,198,,Clasemont Road,Morriston,Swansea
+2022-12-02,375000,SA6 6AJ,S,N,F,194,,Clasemont Road,Morriston,Swansea
+2022-12-02,359000,SA6 6AJ,S,N,F,192,,Clasemont Road,Morriston,Swansea
+2022-12-02,160000,SA6 5DY,S,N,F,45,,Western Road,Clydach,Swansea
+2022-11-30,245000,SA6 6FG,S,N,F,109,,Waun Fawr,Cwmrhydyceirw,Swansea
+2022-11-28,145000,SA6 7BG,T,N,F,36,,Clyndu Street,Morriston,Swansea
+2022-11-28,112000,SA6 5EQ,S,N,F,14,,Ffynnon Wen,Clydach,Swansea
+2022-11-25,190000,SA6 7QG,D,N,F,206,,Mynydd Garn Lwyd Road,Morriston,Swansea
+2022-11-25,125000,SA6 7AP,T,N,F,14,,Bath Road,Morriston,Swansea
+2022-11-25,315000,SA6 6FH,D,Y,F,50,,Waun Fawr,Cwmrhydyceirw,Swansea
+2022-11-25,245000,SA6 6FG,S,Y,F,107,,Waun Fawr,Cwmrhydyceirw,Swansea
+2022-11-25,169000,SA6 6FD,S,N,F,71,,Heol Waun Wen,Llangyfelach,Swansea
+2022-11-25,207000,SA6 6EX,S,N,F,27,,Ffordd Dewi,Llangyfelach,Swansea
+2022-11-25,220000,SA6 6AH,S,N,F,197,,Clasemont Road,Morriston,Swansea
+2022-11-25,325000,SA6 5PB,D,N,F,103,,Pontardawe Road,Clydach,Swansea
+2022-11-25,180000,SA6 5LA,S,N,F,36,,Bryn Hawddgar,Clydach,Swansea
+2022-11-25,88000,SA6 5AY,T,N,F,620,,Clydach Road,Ynystawe,Swansea
+2022-11-24,77000,SA6 8HZ,T,N,F,2,,Thomas Terrace,Morriston,Swansea
+2022-11-23,315000,SA6 6FH,D,N,F,52,,Waun Fawr,Cwmrhydyceirw,Swansea
+2022-11-18,68000,SA6 8JN,T,N,F,375,,Neath Road,Plasmarl,Swansea
+2022-11-18,150000,SA6 7BH,T,N,F,2,,Parc Y Duc Terrace,Morriston,Swansea
+2022-11-18,114000,SA6 7AT,T,N,F,56,,Bath Road,Morriston,Swansea
+2022-11-18,132500,SA6 6TH,S,N,F,60,,Denbigh Crescent,Ynysforgan,Swansea
+2022-11-18,152500,SA6 6DP,D,N,F,114,,Vicarage Road,Morriston,Swansea
+2022-11-18,155000,SA6 6DL,T,N,F,27,,Harry Street,Morriston,Swansea
+2022-11-18,170000,SA6 5JY,S,N,F,14,,Brunner Drive,Clydach,Swansea
+2022-11-17,138000,SA6 8EB,T,N,F,47,,Tirpenry Street,Morriston,Swansea
+2022-11-17,75000,SA6 8BR,F,N,L,Bedford House,3,Crown Street,Morriston,Swansea
+2022-11-17,292000,SA6 7PB,D,N,F,56,,Mynydd Garn Lwyd Road,Morriston,Swansea
+2022-11-11,125000,SA6 8JY,T,N,F,19,,Millbrook Street,Plasmarl,Swansea
+2022-11-11,142500,SA6 8EB,T,N,F,46,,Tirpenry Street,Morriston,Swansea
+2022-11-11,125000,SA6 8AY,T,N,F,66,,Slate Street,Morriston,Swansea
+2022-11-11,180000,SA6 6TH,T,N,F,63,,Denbigh Crescent,Ynysforgan,Swansea
+2022-11-11,165000,SA6 6RN,S,N,F,28,,Garth View,Ynysforgan,Swansea
+2022-11-11,190000,SA6 5JW,S,N,F,2,,Grove Road,Clydach,Swansea
+2022-11-11,127000,SA6 5JR,T,N,F,71,,Kelvin Road,Clydach,Swansea
+2022-11-10,255000,SA6 6FH,S,Y,F,38,,Waun Fawr,Cwmrhydyceirw,Swansea
+2022-11-10,330000,SA6 6FH,S,Y,F,36,,Waun Fawr,Cwmrhydyceirw,Swansea
+2022-11-10,225000,SA6 6FG,S,Y,F,99,,Waun Fawr,Cwmrhydyceirw,Swansea
+2022-11-10,225000,SA6 6FG,S,Y,F,101,,Waun Fawr,Cwmrhydyceirw,Swansea
+2022-11-09,255000,SA6 7PP,D,N,F,12,,Gelli Gwyn Road,Morriston,Swansea
+2022-11-09,137000,SA6 7AW,T,N,F,19,,Bath Avenue,Morriston,Swansea
+2022-11-09,220000,SA6 6AE,S,N,F,29,,Pentrepoeth Road,Morriston,Swansea
+2022-11-08,125000,SA6 8LA,T,N,F,37,,Landeg Street,Plasmarl,Swansea
+2022-11-08,140000,SA6 6DB,S,N,F,9,,Bryn Rhosyn,Llangyfelach,Swansea
+2022-11-07,114000,SA6 6EJ,S,N,F,2,,Heol Rhosyn,Morriston,Swansea
+2022-11-07,135000,SA6 5LU,T,N,F,89,,Vardre Road,Clydach,Swansea
+2022-11-04,170000,SA6 6LT,T,N,F,172,,Llanllienwen Road,Cwmrhydyceirw,Swansea
+2022-11-04,325000,SA6 6FF,S,N,F,20,,Cae Canol,Cwmrhydyceirw,Swansea
+2022-11-04,170000,SA6 6FD,S,N,F,56,,Heol Waun Wen,Llangyfelach,Swansea
+2022-11-04,270000,SA6 5JP,D,N,F,23,,Kelvin Road,Clydach,Swansea
+2022-10-31,170000,SA6 8BS,S,N,F,36,,Bryn Hedydd,Llangyfelach,Swansea
+2022-10-31,105000,SA6 7BP,T,N,F,28,,Pentremalwed Road,Morriston,Swansea
+2022-10-28,245000,SA6 8HH,D,N,L,50,,Parc Avenue,Morriston,Swansea
+2022-10-28,127000,SA6 8EB,S,N,F,43,,Tirpenry Street,Morriston,Swansea
+2022-10-28,150000,SA6 8BN,T,N,L,22,,Morfydd Street,Morriston,Swansea
+2022-10-28,240000,SA6 7DP,D,N,F,13,,Dan Y Parc,Morriston,Swansea
+2022-10-28,235000,SA6 6HD,D,N,F,16,,Tawe View Crescent,Morriston,Swansea
+2022-10-28,215000,SA6 6FG,T,Y,F,93,,Waun Fawr,Cwmrhydyceirw,Swansea
+2022-10-28,389000,SA6 6EZ,D,N,F,9,,Cae Eithin,Llangyfelach,Swansea
+2022-10-28,225000,SA6 6DL,S,N,F,30,,Harry Street,Morriston,Swansea
+2022-10-28,134000,SA6 6DD,T,N,F,11,,Delfan,Llangyfelach,Swansea
+2022-10-28,427500,SA6 5RF,D,N,F,1,,Golwg Y Mynydd,Craig Cefn Parc,Swansea
+2022-10-28,252000,SA6 5PW,D,N,F,131,,Kingrosia Park,Clydach,Swansea
+2022-10-28,183000,SA6 5PF,S,N,F,170,,Kingrosia Park,Clydach,Swansea
+2022-10-26,167000,SA6 8BD,S,N,F,Pentyle,,Crown Street,Morriston,Swansea
+2022-10-26,112000,SA6 6HU,F,N,L,"Birch Court, 44",Apartment 32,Sway Road,Morriston,Swansea
+2022-10-25,115000,SA6 5EU,T,N,F,18,,Sybil Street,Clydach,Swansea
+2022-10-21,105000,SA6 6HU,F,N,L,"Birch Court, 44",Apartment 14,Sway Road,Morriston,Swansea
+2022-10-21,212500,SA6 6FG,T,Y,F,95,,Waun Fawr,Cwmrhydyceirw,Swansea
+2022-10-21,250995,SA6 6FG,S,N,F,11,,Waun Fawr,Cwmrhydyceirw,Swansea
+2022-10-21,176500,SA6 6BS,S,N,F,26,,Penrhiw Road,Morriston,Swansea
+2022-10-21,133500,SA6 5DP,T,N,F,1,,Woodside Crescent,Clydach,Swansea
+2022-10-20,220000,SA6 7PW,D,N,F,46,,Gellifawr Road,Morriston,Swansea
+2022-10-20,80000,SA6 7AY,T,N,F,51,,Lan Street,Morriston,Swansea
+2022-10-19,215000,SA6 6FG,T,Y,F,97,,Waun Fawr,Cwmrhydyceirw,Swansea
+2022-10-18,195000,SA6 6DA,D,N,F,34,,Llys Penpant,Llangyfelach,Swansea
+2022-10-18,126000,SA6 5BA,S,N,F,653,,Clydach Road,Ynystawe,Swansea
+2022-10-17,82000,SA6 8LA,T,N,F,33,,Landeg Street,Plasmarl,Swansea
+2022-10-17,200000,SA6 5AN,D,N,F,11,,Spionkop Road,Ynystawe,Swansea
+2022-10-14,235000,SA6 6LP,D,N,F,3,,Brodorion Drive,Cwmrhydyceirw,Swansea
+2022-10-14,220000,SA6 6LP,S,N,F,28,,Brodorion Drive,Cwmrhydyceirw,Swansea
+2022-10-14,155000,SA6 6JY,S,N,F,42,,Waun Road,Morriston,Swansea
+2022-10-14,165000,SA6 6FD,D,N,F,2,,Heol Waun Wen,Llangyfelach,Swansea
+2022-10-14,240000,SA6 5HS,D,N,L,5,,Gellionen Close,Clydach,Swansea
+2022-10-12,316000,SA6 6PU,D,N,F,1,,Cyril Evans Way,Morriston,Swansea
+2022-10-12,110000,SA6 5NA,S,N,F,10,,Heol Y Vagwr,Clydach,Swansea
+2022-10-11,75000,SA6 6JY,T,N,F,31,,Waun Road,Morriston,Swansea
+2022-10-10,174000,SA6 5RA,T,N,F,59,,Rhyddwen Road,Craig Cefn Parc,Swansea
+2022-10-10,139000,SA6 5JX,S,N,F,31,,Langer Way,Clydach,Swansea
+2022-10-07,105000,SA6 8HY,S,N,F,13,,Parc Road,Morriston,Swansea
+2022-10-07,325000,SA6 6AE,D,N,F,73,,Pentrepoeth Road,Morriston,Swansea
+2022-10-07,360000,SA6 5AB,D,N,F,544,,Clydach Road,Ynystawe,Swansea
+2022-10-06,485000,SA6 5TE,D,N,F,Craig Yr Hooper,,Rhyd Y Gwin,Craig Cefn Parc,Swansea
+2022-10-04,100000,SA6 8NP,D,N,F,Rock House,,Castle Graig,Morriston,Swansea
+2022-10-04,135000,SA6 8HS,T,N,F,16,,Trewyddfa Common,Morriston,Swansea
+2022-10-03,233000,SA6 6PB,T,N,F,61,,Rhydypandy Road,Morriston,Swansea
+2022-10-03,250000,SA6 5RA,S,N,F,19,,Rhyddwen Road,Craig Cefn Parc,Swansea
+2022-09-30,140000,SA6 7JZ,T,N,F,42,,Ewenny Place,Clase,Swansea
+2022-09-30,250000,SA6 7DZ,D,N,F,8,,Park Close,Morriston,Swansea
+2022-09-30,178000,SA6 6TN,S,N,F,4,,Heol Cadnawes,Cwmrhydyceirw,Swansea
+2022-09-30,161000,SA6 6TD,S,N,F,26,,Llwyn Y Bioden,Cwmrhydyceirw,Swansea
+2022-09-30,280000,SA6 6SZ,D,N,F,25,,Llwyn Yr Iar,Cwmrhydyceirw,Swansea
+2022-09-30,312000,SA6 6RG,D,N,F,6,,Senny Place,Cwmrhydyceirw,Swansea
+2022-09-30,195000,SA6 6ED,D,N,F,12,,Camellia Drive,Morriston,Swansea
+2022-09-29,158500,SA6 7DS,T,N,L,24,,Parry Road,Morriston,Swansea
+2022-09-29,94500,SA6 5RY,D,N,F,Ty Uchaf Cwm,,Craig Cwm,Craig Cefn Parc,Swansea
+2022-09-28,110000,SA6 8LA,T,N,F,23,,Landeg Street,Plasmarl,Swansea
+2022-09-28,342500,SA6 6EZ,D,N,F,19,,Cae Eithin,Llangyfelach,Swansea
+2022-09-27,260000,SA6 5SY,S,N,F,17,,Clydach Road,Craig Cefn Parc,Swansea
+2022-09-23,210000,SA6 8NN,D,N,F,74,,Salem Road,Morriston,Swansea
+2022-09-23,115000,SA6 7DX,S,N,L,24,,Caemawr Road,Morriston,Swansea
+2022-09-23,110000,SA6 7AB,T,N,F,7,,Rock Terrace,Morriston,Swansea
+2022-09-23,140000,SA6 6HH,S,N,F,82,,Pleasant Street,Morriston,Swansea
+2022-09-23,346000,SA6 6DW,D,N,F,79,,Heol Pentre Felen,Llangyfelach,Swansea
+2022-09-22,349995,SA6 5JB,D,N,F,139,,Lone Road,Clydach,Swansea
+2022-09-16,127500,SA6 8DG,T,N,F,27,,Margam Avenue,Morriston,Swansea
+2022-09-16,140000,SA6 8BN,T,N,F,2,,Morfydd Street,Morriston,Swansea
+2022-09-16,235000,SA6 7PQ,S,N,F,49,,Bryn Eglur Road,Morriston,Swansea
+2022-09-16,230000,SA6 6AE,D,N,F,39,,Pentrepoeth Road,Morriston,Swansea
+2022-09-15,240000,SA6 5RH,D,N,F,"Redmead, 5",,Mountain Road,Craig Cefn Parc,Swansea
+2022-09-14,110000,SA6 5EE,T,N,F,102,,Tyle Teg,Clydach,Swansea
+2022-09-13,193500,SA6 6TR,S,N,F,28,,Llwyn Carw,Cwmrhydyceirw,Swansea
+2022-09-13,145000,SA6 5LF,F,N,L,"The Globe, 17",Flat 3,High Street,Clydach,Swansea
+2022-09-09,138000,SA6 8LZ,T,N,F,12,,Emlyn Terrace,Plasmarl,Swansea
+2022-09-09,132000,SA6 8ET,T,N,F,68,,Wychtree Street,Morriston,Swansea
+2022-09-09,70000,SA6 6PY,S,N,L,4,,Clos Rhedyn,Cwmrhydyceirw,Swansea
+2022-09-09,168000,SA6 5RA,S,N,F,25A,,Rhyddwen Road,Craig Cefn Parc,Swansea
+2022-09-05,197000,SA6 5TA,S,N,F,63,,Clydach Road,Craig Cefn Parc,Swansea
+2022-09-02,135000,SA6 6HG,T,N,F,2,,Springfield Street,Morriston,Swansea
+2022-09-02,370000,SA6 6AW,D,N,F,10,,Bryn Derw Gardens,Morriston,Swansea
+2022-08-31,93000,SA6 7BN,T,N,F,14,,Banwell Street,Morriston,Swansea
+2022-08-31,190000,SA6 6DX,D,N,F,211,,Vicarage Road,Morriston,Swansea
+2022-08-31,245000,SA6 5AG,D,N,F,6,,Plas Cadwgan Road,Ynystawe,Swansea
+2022-08-26,173500,SA6 6TB,S,N,F,2,,Heol Yr Wylan,Cwmrhydyceirw,Swansea
+2022-08-26,110000,SA6 6JT,S,N,F,124,,Heol Maes Y Gelynen,Morriston,Swansea
+2022-08-26,125000,SA6 6HB,T,N,F,21,,Springfield Street,Morriston,Swansea
+2022-08-26,140000,SA6 6DJ,T,N,F,63,,Vicarage Road,Morriston,Swansea
+2022-08-25,139950,SA6 8JW,T,N,F,1167,,Neath Road,Plasmarl,Swansea
+2022-08-25,164000,SA6 6BN,S,N,F,11,,Y Dolau,Llangyfelach,Swansea
+2022-08-24,103000,SA6 7BP,T,N,F,50,,Pentremalwed Road,Morriston,Swansea
+2022-08-24,122000,SA6 6JP,S,N,F,26,,Heol Yr Eithen,Cwmrhydyceirw,Swansea
+2022-08-22,178000,SA6 8PF,S,N,F,19,,Llewellyn Park Drive,Morriston,Swansea
+2022-08-22,117000,SA6 7DB,T,N,F,3,,Aran Street,Morriston,Swansea
+2022-08-22,78000,SA6 5HA,D,N,F,29,,Down Street,Clydach,Swansea
+2022-08-19,105000,SA6 8LT,T,N,F,28,,Idris Terrace,Plasmarl,Swansea
+2022-08-19,125000,SA6 7NT,S,N,F,108,,Solva Road,Clase,Swansea
+2022-08-19,147500,SA6 7JQ,T,N,F,7,,Ninth Avenue,Clase,Swansea
+2022-08-19,135000,SA6 6RY,T,N,F,17,,Gwernfadog Road,Ynysforgan,Swansea
+2022-08-19,120000,SA6 6PP,T,N,F,43,,Tregelles Court,Cwmrhydyceirw,Swansea
+2022-08-19,135500,SA6 6BS,S,N,L,29,,Penrhiw Road,Morriston,Swansea
+2022-08-18,165000,SA6 7AH,T,N,F,1,,Cwmbath Road,Morriston,Swansea
+2022-08-18,125000,SA6 6HJ,T,N,F,1,,Pleasant Street,Morriston,Swansea
+2022-08-16,135500,SA6 8DF,T,N,L,9,,Bedford Street,Morriston,Swansea
+2022-08-15,110000,SA6 7AP,T,N,F,9,,Bath Road,Morriston,Swansea
+2022-08-15,725000,SA6 6NR,D,N,F,Maeseglwys Farm,The Old Barn,,Pantlasau,Swansea
+2022-08-12,80000,SA6 7ES,T,N,F,5,,Lon Nedd,Morriston,Swansea
+2022-08-12,178000,SA6 6QU,D,N,F,31,,Butterslade Grove,Ynysforgan,Swansea
+2022-08-12,145000,SA6 6JY,T,N,F,20,,Waun Road,Morriston,Swansea
+2022-08-12,270000,SA6 5SY,S,N,F,29,,Clydach Road,Craig Cefn Parc,Swansea
+2022-08-12,155000,SA6 5ET,S,N,F,42,,Twyn Y Bedw,Clydach,Swansea
+2022-08-12,145000,SA6 5DS,S,N,F,42,,Brynteg,Clydach,Swansea
+2022-08-12,275000,SA6 5AG,D,N,F,10,,Plas Cadwgan Road,Ynystawe,Swansea
+2022-08-09,150000,SA6 6SS,S,N,F,28,,Rhodfa'R Dryw,Cwmrhydyceirw,Swansea
+2022-08-09,145000,SA6 5LF,F,N,L,"The Globe, 17",Flat 4,High Street,Clydach,Swansea
+2022-08-08,120000,SA6 8AS,T,N,F,98,,Woodfield Street,Morriston,Swansea
+2022-08-08,110000,SA6 6RX,T,N,F,83,,Glyncollen Crescent,Ynysforgan,Swansea
+2022-08-05,215000,SA6 6PJ,S,N,F,30,,Dan Danino Way,Morriston,Swansea
+2022-08-05,114750,SA6 5TA,T,N,F,87,,Clydach Road,Craig Cefn Parc,Swansea
+2022-08-04,70000,SA6 6JY,T,N,F,12,,Waun Road,Morriston,Swansea
+2022-08-03,130000,SA6 5LF,F,N,L,"The Globe, 17",Flat 7,High Street,Clydach,Swansea
+2022-08-02,72500,SA6 8PQ,T,N,F,80,,Graig Road,Morriston,Swansea
+2022-08-02,130000,SA6 5LF,F,N,L,"The Globe, 17",Flat 8,High Street,Clydach,Swansea
+2022-08-01,140000,SA6 7AP,T,N,F,38,,Bath Road,Morriston,Swansea
+2022-08-01,270000,SA6 6LN,S,N,F,23,,Maes Y Gwernen Drive,Cwmrhydyceirw,Swansea
+2022-08-01,122500,SA6 6HU,F,N,L,"Birch Court, 44",Apartment 15,Sway Road,Morriston,Swansea
+2022-07-29,315000,SA6 6FH,D,Y,F,48,,Waun Fawr,Cwmrhydyceirw,Swansea
+2022-07-29,265000,SA6 6FG,D,Y,F,65,,Waun Fawr,Cwmrhydyceirw,Swansea
+2022-07-29,133755,SA6 6EY,T,N,F,26,,Y Waun Fach,Llangyfelach,Swansea
+2022-07-29,380000,SA6 5TA,D,N,F,81,,Clydach Road,Craig Cefn Parc,Swansea
+2022-07-29,270000,SA6 5DB,D,N,F,28,,Waverley Street,Clydach,Swansea
+2022-07-27,90000,SA6 7JG,S,N,F,138,,Long View Road,Clase,Swansea
+2022-07-27,139995,SA6 5DS,S,N,F,31,,Brynteg,Clydach,Swansea
+2022-07-22,100000,SA6 8JW,T,N,F,1147,,Neath Road,Plasmarl,Swansea
+2022-07-22,245000,SA6 6FG,S,Y,F,63,,Waun Fawr,Cwmrhydyceirw,Swansea
+2022-07-22,245000,SA6 6FG,S,Y,F,61,,Waun Fawr,Cwmrhydyceirw,Swansea
+2022-07-22,123000,SA6 5JX,S,N,F,38,,Langer Way,Clydach,Swansea
+2022-07-21,47500,SA6 8DQ,T,N,F,68,,Glantawe Street,Morriston,Swansea
+2022-07-21,91000,SA6 7BQ,T,N,F,9,,Clyndu Street,Morriston,Swansea
+2022-07-18,142000,SA6 5EB,S,N,F,84,,Tyle Teg,Clydach,Swansea
+2022-07-15,140000,SA6 7BL,T,N,F,91,,Martin Street,Morriston,Swansea
+2022-07-15,179995,SA6 6NZ,S,N,F,9,,Cwrt Yr Aeron,Cwmrhydyceirw,Swansea
+2022-07-15,299950,SA6 6LL,D,N,F,11,,Maes Y Gwernen Road,Cwmrhydyceirw,Swansea
+2022-07-15,151000,SA6 6HU,F,N,L,"Birch Court, 44",Apartment 33,Sway Road,Morriston,Swansea
+2022-07-15,214000,SA6 6DZ,S,N,F,18,,Brayley Road,Morriston,Swansea
+2022-07-13,125000,SA6 6TD,T,N,F,9,,Llwyn Y Bioden,Cwmrhydyceirw,Swansea
+2022-07-11,385000,SA6 8BS,D,N,F,18,,Bryn Hedydd,Llangyfelach,Swansea
+2022-07-08,150000,SA6 6TF,S,N,F,42,,Rhodfar Eos,Cwmrhydyceirw,Swansea
+2022-07-08,205000,SA6 6RA,S,N,F,3,,Lon Penfro,Cwmrhydyceirw,Swansea
+2022-07-08,182000,SA6 6FD,S,N,F,67,,Heol Waun Wen,Llangyfelach,Swansea
+2022-07-08,112000,SA6 5HR,T,N,F,19,,Lone Road,Clydach,Swansea
+2022-07-08,370000,SA6 5EY,D,N,F,1,,St Johns Road,Clydach,Swansea
+2022-07-07,195000,SA6 6FE,S,N,F,42,,Ffordd Dewi,Llangyfelach,Swansea
+2022-07-06,122000,SA6 6JE,T,N,F,33,,Chemical Road,Morriston,Swansea
+2022-07-04,130000,SA6 6BJ,T,N,F,44,,Llysgwyn,Llangyfelach,Swansea
+2022-07-01,334000,SA6 6DW,D,N,F,61,,Heol Pentre Felen,Llangyfelach,Swansea
+2022-06-30,130000,SA6 8BN,T,N,F,19,,Morfydd Street,Morriston,Swansea
+2022-06-30,176500,SA6 7DZ,S,N,F,28,,Park Close,Morriston,Swansea
+2022-06-30,147000,SA6 7BN,S,N,F,39,,Banwell Street,Morriston,Swansea
+2022-06-30,115675,SA6 7AY,T,N,F,57,,Lan Street,Morriston,Swansea
+2022-06-30,57000,SA6 6TF,F,N,L,12,,Rhodfar Eos,Cwmrhydyceirw,Swansea
+2022-06-30,220000,SA6 6LJ,S,N,F,78,,Cwmrhydyceirw Road,Cwmrhydyceirw,Swansea
+2022-06-30,230000,SA6 6HD,D,N,F,23,,Tawe View Crescent,Morriston,Swansea
+2022-06-30,110000,SA6 6BJ,S,N,F,42,,Llysgwyn,Llangyfelach,Swansea
+2022-06-30,260000,SA6 6AH,S,N,F,133,,Clasemont Road,Morriston,Swansea
+2022-06-30,130000,SA6 5EF,T,N,F,214,,Tyle Teg,Clydach,Swansea
+2022-06-29,240000,SA6 7PS,D,N,F,19,,Gelli Glas Road,Morriston,Swansea
+2022-06-27,130000,SA6 6QH,T,N,F,197,,Clydach Road,Morriston,Swansea
+2022-06-27,365000,SA6 6EZ,D,N,F,10,,Cae Eithin,Llangyfelach,Swansea
+2022-06-27,260000,SA6 6AE,S,N,F,53,,Pentrepoeth Road,Morriston,Swansea
+2022-06-27,145000,SA6 5LF,F,N,L,"The Globe, 17",Flat 2,High Street,Clydach,Swansea
+2022-06-24,166000,SA6 6TH,T,N,F,71,,Denbigh Crescent,Ynysforgan,Swansea
+2022-06-24,164000,SA6 6SD,S,N,F,15,,Heol Caerllion,Cwmrhydyceirw,Swansea
+2022-06-24,140000,SA6 6BL,T,N,F,18,,Y Llwyni,Llangyfelach,Swansea
+2022-06-24,171000,SA6 6AR,S,N,F,23,,Pine Crescent,Morriston,Swansea
+2022-06-23,180000,SA6 6EP,D,N,L,40,,Heol Rhosyn,Morriston,Swansea
+2022-06-23,215000,SA6 6ED,D,N,F,28,,Camellia Drive,Morriston,Swansea
+2022-06-20,118000,SA6 5LU,T,N,F,86,,Vardre Road,Clydach,Swansea
+2022-06-17,127000,SA6 8PB,T,N,F,23,,Trewyddfa Terrace,Morriston,Swansea
+2022-06-17,235000,SA6 6RA,S,N,F,18,,Lon Penfro,Cwmrhydyceirw,Swansea
+2022-06-17,244000,SA6 6BL,D,N,F,36,,Y Llwyni,Llangyfelach,Swansea
+2022-06-16,215000,SA6 6EW,D,N,F,2,,Parc Y Delyn,Llangyfelach,Swansea
+2022-06-14,122000,SA6 6RX,T,N,F,116,,Glyncollen Crescent,Ynysforgan,Swansea
+2022-06-14,140000,SA6 5LF,F,N,L,"The Globe, 17",Flat 5,High Street,Clydach,Swansea
+2022-06-13,129000,SA6 5EU,T,N,F,25,,Sybil Street,Clydach,Swansea
+2022-06-08,210000,SA6 6NZ,S,N,F,4,,Cwrt Yr Aeron,Cwmrhydyceirw,Swansea
+2022-06-08,250000,SA6 5PF,D,N,F,211,,Kingrosia Park,Clydach,Swansea
+2022-06-06,67669,SA6 6AY,D,N,F,6,,Godre Coed,Morriston,Swansea
+2022-06-01,170000,SA6 6TN,S,N,F,22,,Heol Cadnawes,Cwmrhydyceirw,Swansea
+2022-06-01,130000,SA6 5LF,F,N,L,"The Globe, 17",Flat 9,High Street,Clydach,Swansea
+2022-06-01,200000,SA6 5HF,S,N,F,103,,Gellionen Road,Clydach,Swansea
+2022-06-01,195000,SA6 5ET,D,N,F,52,,Twyn Y Bedw,Clydach,Swansea
+2022-05-31,80000,SA6 8EX,T,N,L,35,,Wychtree Street,Morriston,Swansea
+2022-05-31,168000,SA6 7DU,S,N,F,65,,Tanylan Terrace,Morriston,Swansea
+2022-05-31,170000,SA6 6PL,D,N,F,15,,Gordon Rowley Way,Morriston,Swansea
+2022-05-27,275000,SA6 7QH,D,N,F,465,,Trewyddfa Road,Morriston,Swansea
+2022-05-27,155000,SA6 6RD,S,N,F,18,,Clos Crucywel,Cwmrhydyceirw,Swansea
+2022-05-27,85000,SA6 6QS,T,N,F,17,,Glyn Hirnant,Morriston,Swansea
+2022-05-27,272500,SA6 6QG,S,N,L,38,,Heol Glannant,Ynysforgan,Swansea
+2022-05-27,160000,SA6 6DB,S,N,F,4,,Bryn Rhosyn,Llangyfelach,Swansea
+2022-05-27,133500,SA6 5RZ,S,N,F,34,,Ffordd Ellen,Craig Cefn Parc,Swansea
+2022-05-27,155000,SA6 5LF,F,N,L,"The Globe, 17",Flat 1,High Street,Clydach,Swansea
+2022-05-26,105000,SA6 5EA,S,N,F,13,,Tyle Teg,Clydach,Swansea
+2022-05-25,110100,SA6 7BL,T,N,F,89,,Martin Street,Morriston,Swansea
+2022-05-25,220000,SA6 5EU,D,N,F,21,,Sybil Street,Clydach,Swansea
+2022-05-23,325000,SA6 6EZ,D,N,F,39,,Cae Eithin,Llangyfelach,Swansea
+2022-05-23,178000,SA6 5DZ,T,N,F,10,,Ramsden Road,Clydach,Swansea
+2022-05-20,310000,SA6 8PD,D,N,F,270,,Trewyddfa Road,Morriston,Swansea
+2022-05-20,200000,SA6 8NL,T,N,F,22,,Trewyddfa Road,Plasmarl,Swansea
+2022-05-20,295000,SA6 6SZ,D,N,F,23,,Llwyn Yr Iar,Cwmrhydyceirw,Swansea
+2022-05-20,205000,SA6 6QQ,S,N,F,59,,Heol Glannant,Ynysforgan,Swansea
+2022-05-20,126000,SA6 6AS,T,N,F,29,,Brangwyn Close,Morriston,Swansea
+2022-05-20,140000,SA6 5EA,S,N,F,40,,Tyle Teg,Clydach,Swansea
+2022-05-19,152000,SA6 8LE,S,N,F,13,,Calland Street,Plasmarl,Swansea
+2022-05-16,325000,SA6 6FJ,S,Y,F,8,,Parc Ceirw,Cwmrhydyceirw,Swansea
+2022-05-16,245000,SA6 6FJ,S,N,F,10,,Parc Ceirw,Cwmrhydyceirw,Swansea
+2022-05-16,265000,SA6 6FH,S,N,F,46,,Waun Fawr,Cwmrhydyceirw,Swansea
+2022-05-16,275000,SA6 6FH,S,Y,F,44,,Waun Fawr,Cwmrhydyceirw,Swansea
+2022-05-16,265000,SA6 6FG,D,Y,F,57,,Waun Fawr,Cwmrhydyceirw,Swansea
+2022-05-13,160000,SA6 6TJ,S,N,F,21,,Radnor Drive,Morriston,Swansea
+2022-05-13,115000,SA6 6SB,T,N,F,7,,Glyncollen Crescent,Ynysforgan,Swansea
+2022-05-13,335000,SA6 5SY,S,N,F,15,,Clydach Road,Craig Cefn Parc,Swansea
+2022-05-13,200000,SA6 5PB,D,N,F,145,,Pontardawe Road,Clydach,Swansea
+2022-05-12,122500,SA6 8DG,T,N,F,4,,Margam Avenue,Morriston,Swansea
+2022-05-12,437000,SA6 6DT,D,N,F,167,,Vicarage Road,Morriston,Swansea
+2022-05-12,320000,SA6 5TA,D,N,F,57,,Clydach Road,Craig Cefn Parc,Swansea
+2022-05-12,160000,SA6 5JR,S,N,F,41,,Kelvin Road,Clydach,Swansea
+2022-05-12,135000,SA6 5ES,S,N,F,35,,Heol Eithrim,Clydach,Swansea
+2022-05-10,270000,SA6 6FH,T,Y,F,34,,Waun Fawr,Cwmrhydyceirw,Swansea
+2022-05-10,260000,SA6 6FH,T,Y,F,32,,Waun Fawr,Cwmrhydyceirw,Swansea
+2022-05-10,265000,SA6 6FH,T,Y,F,30,,Waun Fawr,Cwmrhydyceirw,Swansea
+2022-05-10,345000,SA6 5TB,D,N,F,27,,Fagwr Road,Craig Cefn Parc,Swansea
+2022-05-10,285000,SA6 5PA,D,N,F,166,,Pontardawe Road,Clydach,Swansea
+2022-05-09,192000,SA6 5EG,D,N,F,1,,Hebron Close,Clydach,Swansea
+2022-05-06,71000,SA6 8PQ,T,N,L,79,,Graig Road,Morriston,Swansea
+2022-05-06,140000,SA6 7EW,S,N,L,6,,Lan Manor,Morriston,Swansea
+2022-05-06,107000,SA6 7EP,S,N,F,128,,Lon Camlad,Morriston,Swansea
+2022-05-06,93000,SA6 7BA,T,N,F,21,,Cwmbath Road,Morriston,Swansea
+2022-05-06,201000,SA6 6BA,D,N,F,30,,Pen Yr Yrfa,Morriston,Swansea
+2022-05-06,136000,SA6 5TB,S,N,F,12,,Fagwr Road,Craig Cefn Parc,Swansea
+2022-05-06,152000,SA6 5LU,S,N,F,83,,Vardre Road,Clydach,Swansea
+2022-05-06,135000,SA6 5JY,S,N,L,19,,Brunner Drive,Clydach,Swansea
+2022-05-05,139995,SA6 6SP,S,N,F,12,,Rhodfar Wennol,Cwmrhydyceirw,Swansea
+2022-05-04,203000,SA6 7PH,D,N,F,7,,Waltham Close,Morriston,Swansea
+2022-05-03,105000,SA6 8PE,T,N,F,355,,Trewyddfa Road,Morriston,Swansea
+2022-04-29,134950,SA6 8EJ,T,N,F,9,,Nixon Terrace,Morriston,Swansea
+2022-04-29,133000,SA6 6RX,S,N,F,73,,Glyncollen Crescent,Ynysforgan,Swansea
+2022-04-29,150000,SA6 6FD,S,N,F,46,,Heol Waun Wen,Llangyfelach,Swansea
+2022-04-29,230000,SA6 5PN,S,N,F,26,,Kingrosia Park,Clydach,Swansea
+2022-04-29,192500,SA6 5AL,S,N,F,27,,Bwllfa Road,Ynystawe,Swansea
+2022-04-22,59000,SA6 8EJ,T,N,F,4,,Nixon Terrace,Morriston,Swansea
+2022-04-22,275000,SA6 6TA,D,N,F,41,,Heol Y Drudwen,Cwmrhydyceirw,Swansea
+2022-04-22,138000,SA6 5AY,T,N,F,640,,Clydach Road,Ynystawe,Swansea
+2022-04-21,95000,SA6 7PH,D,N,F,5,,Waltham Close,Morriston,Swansea
+2022-04-21,340000,SA6 6EE,D,N,F,10,,Bishops Walk,Morriston,Swansea
+2022-04-14,105000,SA6 7LN,T,N,F,25,,Second Avenue,Clase,Swansea
+2022-04-14,148000,SA6 6RJ,S,N,F,14,,Orpheus Road,Ynysforgan,Swansea
+2022-04-14,375000,SA6 6FH,D,Y,F,20,,Waun Fawr,Cwmrhydyceirw,Swansea
+2022-04-14,120000,SA6 6EP,D,N,F,56,,Heol Rhosyn,Morriston,Swansea
+2022-04-14,160000,SA6 5HE,S,N,F,17,,Gellionen Road,Clydach,Swansea
+2022-04-13,280000,SA6 5DY,D,N,F,8,,Western Road,Clydach,Swansea
+2022-04-12,142500,SA6 8LJ,T,N,F,81,,Dinas Street,Plasmarl,Swansea
+2022-04-11,145000,SA6 6JY,S,N,F,52,,Waun Road,Morriston,Swansea
+2022-04-08,145950,SA6 8NL,T,N,F,54,,Trewyddfa Road,Plasmarl,Swansea
+2022-04-08,180000,SA6 7ND,D,N,F,46,,Honeysuckle Drive,Clase,Swansea
+2022-04-08,105000,SA6 7LX,T,N,F,4,,Fifth Avenue,Clase,Swansea
+2022-04-08,78000,SA6 6TU,T,N,L,19,,Lon Draenog,Cwmrhydyceirw,Swansea
+2022-04-08,265000,SA6 6FH,D,N,F,8,,Waun Fawr,Cwmrhydyceirw,Swansea
+2022-04-07,122500,SA6 8LN,T,N,F,15,,Bartley Terrace,Plasmarl,Swansea
+2022-04-07,525000,SA6 6NX,D,N,F,Penrhiw,,Rhydypandy Road,Pantlasau,Swansea
+2022-04-04,250000,SA6 6QR,S,N,F,25,,Christopher Road,Ynysforgan,Swansea
+2022-04-01,265000,SA6 6FH,D,Y,F,26,,Waun Fawr,Cwmrhydyceirw,Swansea
+2022-04-01,275000,SA6 6FH,D,Y,F,22,,Waun Fawr,Cwmrhydyceirw,Swansea
+2022-04-01,240000,SA6 5DY,D,N,F,47,,Western Road,Clydach,Swansea
+2022-03-31,118000,SA6 7AP,T,N,F,11,,Bath Road,Morriston,Swansea
+2022-03-31,130000,SA6 5DA,S,N,F,15,,Heol Y Cae,Clydach,Swansea
+2022-03-30,133000,SA6 6JQ,T,N,F,158,,Chemical Road,Morriston,Swansea
+2022-03-30,336000,SA6 5RF,D,N,F,6,,Golwg Y Mynydd,Craig Cefn Parc,Swansea
+2022-03-29,127000,SA6 5JR,S,N,F,38,,Kelvin Road,Clydach,Swansea
+2022-03-29,139995,SA6 5JP,S,N,F,32,,Kelvin Road,Clydach,Swansea
+2022-03-29,169995,SA6 5HB,S,N,F,45,,Heol Y Nant,Clydach,Swansea
+2022-03-28,197500,SA6 6DU,S,N,F,194,,Vicarage Road,Morriston,Swansea
+2022-03-28,315000,SA6 5EZ,D,N,F,3,,Ger Y Coed,Clydach,Swansea
+2022-03-28,130000,SA6 5DP,S,N,F,37,,Woodside Crescent,Clydach,Swansea
+2022-03-25,167000,SA6 8NY,T,N,F,88,,Trewyddfa Road,Morriston,Swansea
+2022-03-25,95000,SA6 8BP,T,N,F,110,,Glantawe Street,Morriston,Swansea
+2022-03-25,190000,SA6 7BX,S,N,F,4,,Davids Terrace,Morriston,Swansea
+2022-03-25,187000,SA6 6LR,S,N,F,62,,Maes Y Gwernen Drive,Cwmrhydyceirw,Swansea
+2022-03-25,130500,SA6 6LQ,S,N,F,114,,Rhodfa Fadog,Cwmrhydyceirw,Swansea
+2022-03-25,160000,SA6 6LP,T,N,L,30,,Brodorion Drive,Cwmrhydyceirw,Swansea
+2022-03-25,115000,SA6 6JF,T,N,F,86,,Chemical Road,Morriston,Swansea
+2022-03-25,159000,SA6 6BH,S,N,F,7,,Y Berllan,Llangyfelach,Swansea
+2022-03-24,155000,SA6 7AJ,D,N,F,24,,Horeb Road,Morriston,Swansea
+2022-03-23,110000,SA6 8LN,T,N,F,49,,Bartley Terrace,Plasmarl,Swansea
+2022-03-23,159000,SA6 5EY,S,N,F,16,,St Johns Road,Clydach,Swansea
+2022-03-18,125000,SA6 8JU,T,N,F,328,,Neath Road,Plasmarl,Swansea
+2022-03-18,193000,SA6 7PB,S,N,F,45,,Mynydd Garn Lwyd Road,Morriston,Swansea
+2022-03-18,178000,SA6 7ND,S,N,F,11,,Honeysuckle Drive,Clase,Swansea
+2022-03-18,116000,SA6 7AG,S,N,F,7,,Strawberry Place,Morriston,Swansea
+2022-03-18,285000,SA6 6NX,S,N,F,Brynawel,,Rhydypandy Road,Pantlasau,Swansea
+2022-03-18,230000,SA6 6NA,D,N,F,52,,Llanllienwen Road,Cwmrhydyceirw,Swansea
+2022-03-18,148000,SA6 6HG,T,N,F,10,,Springfield Street,Morriston,Swansea
+2022-03-18,275000,SA6 6FH,D,N,F,12,,Waun Fawr,Cwmrhydyceirw,Swansea
+2022-03-18,190000,SA6 5PF,D,N,F,154,,Kingrosia Park,Clydach,Swansea
+2022-03-17,85000,SA6 8LJ,T,N,F,95,,Dinas Street,Plasmarl,Swansea
+2022-03-16,130000,SA6 7BN,T,N,F,12,,Banwell Street,Morriston,Swansea
+2022-03-16,114000,SA6 5NB,S,N,F,17,,Brynamlwg,Clydach,Swansea
+2022-03-16,125000,SA6 5HU,T,N,F,55,,Lone Road,Clydach,Swansea
+2022-03-15,84000,SA6 5EQ,T,N,F,4,,Ffynnon Wen,Clydach,Swansea
+2022-03-11,65000,SA6 8BR,F,N,L,Bedford House,4,Crown Street,Morriston,Swansea
+2022-03-11,335000,SA6 6FH,D,N,F,14,,Waun Fawr,Cwmrhydyceirw,Swansea
+2022-03-11,325000,SA6 6FH,D,N,F,10,,Waun Fawr,Cwmrhydyceirw,Swansea
+2022-03-11,220000,SA6 5PN,S,N,F,21,,Kingrosia Park,Clydach,Swansea
+2022-03-11,159995,SA6 5HE,S,N,F,21,,Gellionen Road,Clydach,Swansea
+2022-03-11,135000,SA6 5AX,T,N,F,589,,Clydach Road,Ynystawe,Swansea
+2022-03-10,117500,SA6 7PQ,S,N,F,75,,Bryn Eglur Road,Morriston,Swansea
+2022-03-10,150000,SA6 5JP,S,N,F,3,,Kelvin Road,Clydach,Swansea
+2022-03-09,385000,SA6 8NT,D,N,F,10,,Cnap Llwyd Road,Morriston,Swansea
+2022-03-09,171000,SA6 6NE,S,N,F,5,,Clos Cenawon,Cwmrhydyceirw,Swansea
+2022-03-09,88000,SA6 5ED,T,N,L,175,,Hillrise Park,Clydach,Swansea
+2022-03-09,182500,SA6 5AY,S,N,F,588,,Clydach Road,Ynystawe,Swansea
+2022-03-07,147000,SA6 7PW,S,N,F,85,,Gellifawr Road,Morriston,Swansea
+2022-03-07,275000,SA6 7PR,D,N,F,58,,Gelli Gwyn Road,Morriston,Swansea
+2022-03-07,200000,SA6 5DA,S,N,F,9,,Heol Y Cae,Clydach,Swansea
+2022-03-04,155000,SA6 8AY,T,N,F,49,,Slate Street,Morriston,Swansea
+2022-03-04,148000,SA6 7ND,S,N,F,30,,Honeysuckle Drive,Clase,Swansea
+2022-03-04,112000,SA6 7JF,S,N,F,136,,Long View Road,Clase,Swansea
+2022-03-04,153000,SA6 7BG,T,N,F,121,,Clyndu Street,Morriston,Swansea
+2022-03-04,141500,SA6 6TA,S,N,F,24,,Heol Y Drudwen,Cwmrhydyceirw,Swansea
+2022-03-04,291000,SA6 6RA,D,N,F,39,,Lon Penfro,Cwmrhydyceirw,Swansea
+2022-03-04,216000,SA6 6PJ,S,N,F,26,,Dan Danino Way,Morriston,Swansea
+2022-03-04,225000,SA6 6FG,S,N,F,55,,Waun Fawr,Cwmrhydyceirw,Swansea
+2022-03-04,225000,SA6 6FG,S,N,F,53,,Waun Fawr,Cwmrhydyceirw,Swansea
+2022-03-04,140000,SA6 6DG,S,N,F,13,,Pen Y Maes,Llangyfelach,Swansea
+2022-03-04,170000,SA6 5EP,T,N,F,11,,View Road,Clydach,Swansea
+2022-03-04,210000,SA6 5AL,S,N,F,36,,Bwllfa Road,Ynystawe,Swansea
+2022-03-03,182500,SA6 6LP,S,N,F,34,,Brodorion Drive,Cwmrhydyceirw,Swansea
+2022-03-02,147500,SA6 5JS,D,N,F,50,,Faraday Road,Clydach,Swansea
+2022-03-01,140000,SA6 7EW,S,N,F,4,,Lan Manor,Morriston,Swansea
+2022-02-28,90000,SA6 8LW,T,N,F,31,,Smyrna Street,Plasmarl,Swansea
+2022-02-28,58500,SA6 8LQ,S,N,F,39,,Dinas Street,Plasmarl,Swansea
+2022-02-28,215000,SA6 5PB,D,N,F,153,,Pontardawe Road,Clydach,Swansea
+2022-02-25,185000,SA6 8PF,S,N,L,49,,Llewellyn Park Drive,Morriston,Swansea
+2022-02-25,166000,SA6 7QQ,S,N,F,242,,Mynydd Garn Lwyd Road,Morriston,Swansea
+2022-02-25,320000,SA6 6PU,D,N,F,18,,Cyril Evans Way,Morriston,Swansea
+2022-02-25,335000,SA6 6FH,D,N,F,18,,Waun Fawr,Cwmrhydyceirw,Swansea
+2022-02-25,370000,SA6 6FH,D,N,F,16,,Waun Fawr,Cwmrhydyceirw,Swansea
+2022-02-25,130000,SA6 5JY,S,N,F,5,,Brunner Drive,Clydach,Swansea
+2022-02-24,61000,SA6 8JU,T,N,F,326,,Neath Road,Plasmarl,Swansea
+2022-02-24,80000,SA6 8HX,T,N,F,83,,Parc Avenue,Morriston,Swansea
+2022-02-24,280000,SA6 7PP,D,N,F,27,,Gelli Gwyn Road,Morriston,Swansea
+2022-02-24,235000,SA6 6DB,D,N,F,12,,Bryn Rhosyn,Llangyfelach,Swansea
+2022-02-21,189950,SA6 6ST,S,N,F,8,,Heol Penfelyn,Cwmrhydyceirw,Swansea
+2022-02-21,145000,SA6 6NF,S,N,F,115,,Llanllienwen Close,Ynysforgan,Swansea
+2022-02-18,135000,SA6 8HG,T,N,F,540,,Neath Road,Morriston,Swansea
+2022-02-18,305000,SA6 8BS,D,N,F,5,,Bryn Hedydd,Llangyfelach,Swansea
+2022-02-18,199950,SA6 7PQ,D,N,F,53,,Bryn Eglur Road,Morriston,Swansea
+2022-02-18,149995,SA6 7DU,S,N,L,71,,Tanylan Terrace,Morriston,Swansea
+2022-02-18,107500,SA6 7AL,T,N,F,2,,Stapleton Place,Morriston,Swansea
+2022-02-18,315000,SA6 6SU,D,N,F,15,,Llwyn Yr Hebog,Cwmrhydyceirw,Swansea
+2022-02-18,169995,SA6 5PY,S,N,F,74,,Capel Road,Clydach,Swansea
+2022-02-18,92000,SA6 5EQ,T,N,F,56,,Ffynnon Wen,Clydach,Swansea
+2022-02-18,145000,SA6 5EG,T,N,F,2,,Hebron Close,Clydach,Swansea
+2022-02-18,124995,SA6 5DP,S,N,F,67,,Woodside Crescent,Clydach,Swansea
+2022-02-17,120000,SA6 7JF,S,N,F,110,,Long View Road,Clase,Swansea
+2022-02-14,162500,SA6 5JR,T,N,F,62,,Kelvin Road,Clydach,Swansea
+2022-02-11,155000,SA6 8BD,T,N,F,5,,Lime Tree Grove,Morriston,Swansea
+2022-02-11,169000,SA6 7BY,D,N,F,110,,Pentremalwed Road,Morriston,Swansea
+2022-02-11,58000,SA6 6TF,S,N,L,10,,Rhodfar Eos,Cwmrhydyceirw,Swansea
+2022-02-10,192000,SA6 6TS,S,N,F,14,,Cwrt Hydd,Cwmrhydyceirw,Swansea
+2022-02-10,193000,SA6 6TF,S,N,F,1,,Rhodfar Eos,Cwmrhydyceirw,Swansea
+2022-02-10,103500,SA6 6BN,T,N,F,23,,Y Dolau,Llangyfelach,Swansea
+2022-02-09,285000,SA6 6TJ,D,N,L,31,,Radnor Drive,Morriston,Swansea
+2022-02-09,260000,SA6 5AD,D,N,F,37,,Bryntawe Road,Ynystawe,Swansea
+2022-02-08,100500,SA6 8BR,T,N,F,36,,Crown Street,Morriston,Swansea
+2022-02-07,110000,SA6 7EG,T,N,F,72,,Lon Camlad,Morriston,Swansea
+2022-02-04,112000,SA6 7JB,T,N,F,15,,Ruggles Terrace,Clase,Swansea
+2022-02-01,142999,SA6 6AR,S,N,F,24,,Pine Crescent,Morriston,Swansea
+2022-01-31,200000,SA6 6AS,S,N,F,7,,Brangwyn Close,Morriston,Swansea
+2022-01-31,400000,SA6 5SS,D,N,F,Amberley,,Heol Dywyll,Clydach,Swansea
+2022-01-31,243995,SA6 5LX,D,N,F,18,,Tygwyn Road,Clydach,Swansea
+2022-01-28,75000,SA6 7BJ,T,N,F,1,,Martin Street,Morriston,Swansea
+2022-01-28,150000,SA6 6RW,S,N,F,8,,Elizabeth Close,Ynysforgan,Swansea
+2022-01-28,196000,SA6 6RA,S,N,F,40,,Lon Penfro,Cwmrhydyceirw,Swansea
+2022-01-28,120000,SA6 6PP,S,N,F,41,,Tregelles Court,Cwmrhydyceirw,Swansea
+2022-01-28,215000,SA6 6NA,S,N,F,69,,Llanllienwen Road,Cwmrhydyceirw,Swansea
+2022-01-28,305000,SA6 6FG,D,N,F,19,,Waun Fawr,Cwmrhydyceirw,Swansea
+2022-01-28,205000,SA6 6EG,S,N,F,15,,Bryncelyn,Llangyfelach,Swansea
+2022-01-28,125000,SA6 5NG,S,N,F,29,,Tanycoed Road,Clydach,Swansea
+2022-01-28,165500,SA6 5JG,S,N,F,1,,Minyrafon Road,Clydach,Swansea
+2022-01-26,190000,SA6 6RJ,S,N,F,27,,Orpheus Road,Ynysforgan,Swansea
+2022-01-25,215000,SA6 5TB,D,N,F,6,,Fagwr Road,Craig Cefn Parc,Swansea
+2022-01-24,196000,SA6 7PS,D,N,F,6,,Gelli Glas Road,Morriston,Swansea
+2022-01-24,118000,SA6 5JX,S,N,L,30,,Langer Way,Clydach,Swansea
+2022-01-21,170000,SA6 7QG,S,N,L,136,,Mynydd Garn Lwyd Road,Morriston,Swansea
+2022-01-21,265000,SA6 6FG,D,N,F,21,,Waun Fawr,Cwmrhydyceirw,Swansea
+2022-01-21,71500,SA6 6BR,F,N,L,43,,Penrhiw Road,Morriston,Swansea
+2022-01-21,129000,SA6 5JF,S,N,F,5,,Edison Crescent,Clydach,Swansea
+2022-01-21,110000,SA6 5HT,T,N,F,21,,Bryn Road,Clydach,Swansea
+2022-01-17,89995,SA6 5DB,T,N,F,15,,Waverley Street,Clydach,Swansea
+2022-01-17,150000,SA6 5AY,T,N,F,632,,Clydach Road,Ynystawe,Swansea
+2022-01-14,112000,SA6 8JY,T,N,F,13,,Millbrook Street,Plasmarl,Swansea
+2022-01-14,140000,SA6 6QB,T,N,F,148,,Clydach Road,Morriston,Swansea
+2022-01-14,107500,SA6 6DH,T,N,F,21,,Vicarage Road,Morriston,Swansea
+2022-01-14,220000,SA6 5EY,D,N,F,30,,St Johns Road,Clydach,Swansea
+2022-01-14,200000,SA6 5AL,S,N,F,57,,Bwllfa Road,Ynystawe,Swansea
+2022-01-13,81000,SA6 7AN,S,N,L,12,,Bath Villas,Morriston,Swansea
+2022-01-12,95000,SA6 7BP,S,N,F,35,,Pentremalwed Road,Morriston,Swansea
+2022-01-12,177500,SA6 6QX,S,N,F,82,,Christopher Road,Ynysforgan,Swansea
+2022-01-10,185995,SA6 7QG,D,N,F,190,,Mynydd Garn Lwyd Road,Morriston,Swansea
+2022-01-10,375000,SA6 7BE,D,N,F,1,,Llys Y Graig,Morriston,Swansea
+2022-01-10,143000,SA6 6JE,S,N,F,36,,Chemical Road,Morriston,Swansea
+2022-01-07,122000,SA6 7JF,S,N,F,132,,Long View Road,Clase,Swansea
+2022-01-07,175000,SA6 7DZ,S,N,F,24,,Park Close,Morriston,Swansea
+2022-01-07,75000,SA6 7BX,T,N,F,2,,Davids Terrace,Morriston,Swansea
+2022-01-07,175000,SA6 6QY,S,N,F,4,,Heol Pennant,Ynysforgan,Swansea
+2022-01-07,280000,SA6 6NT,D,N,L,Brynsiriol,,,Pantlasau,Swansea
+2022-01-07,182000,SA6 6HQ,D,N,F,47,,Penrice Street,Morriston,Swansea
+2022-01-07,270000,SA6 6FG,D,N,F,17,,Waun Fawr,Cwmrhydyceirw,Swansea
+2022-01-07,173000,SA6 6AP,S,N,F,20,,Mount Crescent,Morriston,Swansea
+2022-01-06,80000,SA6 6JY,T,N,F,20,,Waun Road,Morriston,Swansea
+2021-12-31,110000,SA6 6JN,S,N,F,56,,Heol Fedw,Cwmrhydyceirw,Swansea
+2021-12-22,120000,SA6 5EA,T,N,F,43,,Tyle Teg,Clydach,Swansea
+2021-12-21,115000,SA6 8HG,T,N,F,551,,Neath Road,Morriston,Swansea
+2021-12-21,249995,SA6 6LP,S,N,F,31,,Brodorion Drive,Cwmrhydyceirw,Swansea
+2021-12-21,110000,SA6 5JF,S,N,F,7,,Edison Crescent,Clydach,Swansea
+2021-12-20,118500,SA6 6JY,S,N,F,46,,Waun Road,Morriston,Swansea
+2021-12-20,177500,SA6 5HB,S,N,F,21,,Heol Y Nant,Clydach,Swansea
+2021-12-17,124000,SA6 8LT,T,N,F,7,,Idris Terrace,Plasmarl,Swansea
+2021-12-17,139995,SA6 7NT,S,N,F,99,,Solva Road,Clase,Swansea
+2021-12-17,75000,SA6 7BY,S,N,F,109,,Pentremalwed Road,Morriston,Swansea
+2021-12-17,142500,SA6 7AJ,T,N,L,30,,Horeb Road,Morriston,Swansea
+2021-12-17,234000,SA6 6TP,D,N,F,3,,Clos Ebol,Cwmrhydyceirw,Swansea
+2021-12-16,115000,SA6 5JB,S,N,F,156,,Lone Road,Clydach,Swansea
+2021-12-16,345000,SA6 5AD,D,N,F,Sunnydene,,Bryntawe Road,Ynystawe,Swansea
+2021-12-14,45000,SA6 7EJ,F,N,L,81,,Lon Camlad,Morriston,Swansea
+2021-12-13,97500,SA6 8JN,T,N,F,365,,Neath Road,Plasmarl,Swansea
+2021-12-13,120000,SA6 7AY,T,N,F,29,,Lan Street,Morriston,Swansea
+2021-12-13,267500,SA6 5JB,D,N,F,141,,Lone Road,Clydach,Swansea
+2021-12-13,165000,SA6 5HE,S,N,F,15,,Gellionen Road,Clydach,Swansea
+2021-12-10,80000,SA6 8PQ,T,N,F,117,,Graig Road,Morriston,Swansea
+2021-12-10,99950,SA6 8LL,T,N,F,128,,Dinas Street,Plasmarl,Swansea
+2021-12-10,135000,SA6 7PQ,S,N,F,67,,Bryn Eglur Road,Morriston,Swansea
+2021-12-10,236000,SA6 7NZ,D,N,F,82,,Mynydd Garn Lwyd Road,Morriston,Swansea
+2021-12-10,95000,SA6 7NU,T,N,F,46,,Solva Road,Clase,Swansea
+2021-12-10,135000,SA6 7NT,T,N,F,115,,Solva Road,Clase,Swansea
+2021-12-10,144000,SA6 7DX,T,N,F,19,,Caemawr Road,Morriston,Swansea
+2021-12-10,168000,SA6 6RW,S,N,F,3,,Elizabeth Close,Ynysforgan,Swansea
+2021-12-10,246000,SA6 6AJ,S,N,F,134,,Clasemont Road,Morriston,Swansea
+2021-12-10,200000,SA6 5LX,D,N,F,17,,Tygwyn Road,Clydach,Swansea
+2021-12-09,232000,SA6 6LN,S,N,F,36,,Maes Y Gwernen Drive,Cwmrhydyceirw,Swansea
+2021-12-09,133000,SA6 6HX,T,N,F,9,,Soar Terrace,Morriston,Swansea
+2021-12-08,200000,SA6 5PJ,D,N,F,86,,Kingrosia Park,Clydach,Swansea
+2021-12-07,260000,SA6 7QF,D,N,F,1,,Ullswater Crescent,Morriston,Swansea
+2021-12-06,93503,SA6 8NT,S,N,F,8,,Cnap Llwyd Road,Morriston,Swansea
+2021-12-03,138000,SA6 7BN,T,N,F,9,,Banwell Street,Morriston,Swansea
+2021-12-03,141500,SA6 6TF,S,N,F,16,,Rhodfar Eos,Cwmrhydyceirw,Swansea
+2021-12-03,141000,SA6 6EN,S,N,F,37,,Heol Y Grug,Morriston,Swansea
+2021-12-03,253500,SA6 5HU,D,N,F,80,,Lone Road,Clydach,Swansea
+2021-12-02,150000,SA6 6JF,S,N,F,92,,Chemical Road,Morriston,Swansea
+2021-11-30,134000,SA6 8DG,T,N,F,7,,Margam Avenue,Morriston,Swansea
+2021-11-30,165000,SA6 6RQ,S,N,F,36,,Dee Place,Cwmrhydyceirw,Swansea
+2021-11-29,104000,SA6 7LN,T,N,F,5,,Second Avenue,Clase,Swansea
+2021-11-29,163000,SA6 6AR,S,N,F,7,,Pine Crescent,Morriston,Swansea
+2021-11-26,65000,SA6 8EB,S,N,F,28,,Tirpenry Street,Morriston,Swansea
+2021-11-26,95000,SA6 5DX,S,N,F,34,,Hillrise Park,Clydach,Swansea
+2021-11-24,192460,SA6 7EA,D,N,F,96,,Caemawr Road,Morriston,Swansea
+2021-11-23,147000,SA6 6AR,S,N,F,27,,Pine Crescent,Morriston,Swansea
+2021-11-23,292000,SA6 5AL,D,N,F,54,,Bwllfa Road,Ynystawe,Swansea
+2021-11-22,103750,SA6 8DF,T,N,F,20,,Bedford Street,Morriston,Swansea
+2021-11-22,280000,SA6 5RH,S,N,F,15,,Mountain Road,Craig Cefn Parc,Swansea
+2021-11-19,200000,SA6 8PF,S,N,F,71,,Llewellyn Park Drive,Morriston,Swansea
+2021-11-19,278000,SA6 6EL,D,N,F,26,,Heol Miaren,Morriston,Swansea
+2021-11-19,140000,SA6 5RG,S,N,F,67,,Rhyddwen Road,Craig Cefn Parc,Swansea
+2021-11-19,242000,SA6 5EP,D,N,F,9,,View Road,Clydach,Swansea
+2021-11-19,200000,SA6 5BA,S,N,F,695,,Clydach Road,Ynystawe,Swansea
+2021-11-17,165000,SA6 8NN,D,N,F,142,,Salem Road,Morriston,Swansea
+2021-11-17,175000,SA6 6SS,S,N,F,29,,Rhodfa'R Dryw,Cwmrhydyceirw,Swansea
+2021-11-16,82000,SA6 6EL,D,N,L,8,,Heol Miaren,Morriston,Swansea
+2021-11-15,261000,SA6 6RB,D,N,F,2,,Clos Rhymni,Cwmrhydyceirw,Swansea
+2021-11-15,130000,SA6 6QW,T,N,F,444,,Clydach Road,Ynysforgan,Swansea
+2021-11-12,175000,SA6 8PF,S,N,F,87,,Llewellyn Park Drive,Morriston,Swansea
+2021-11-12,85000,SA6 8LT,T,N,F,31,,Idris Terrace,Plasmarl,Swansea
+2021-11-12,120000,SA6 7BJ,T,N,F,38,,Martin Street,Morriston,Swansea
+2021-11-12,520000,SA6 6PB,D,N,F,112,,Rhydypandy Road,Morriston,Swansea
+2021-11-12,197500,SA6 6LW,S,N,F,6,,Enfield Close,Cwmrhydyceirw,Swansea
+2021-11-12,135000,SA6 5QE,T,N,F,57,,Vera Road,Clydach,Swansea
+2021-11-12,240000,SA6 5PF,D,N,F,197,,Kingrosia Park,Clydach,Swansea
+2021-11-12,179995,SA6 5AX,S,N,F,639,,Clydach Road,Ynystawe,Swansea
+2021-11-11,175000,SA6 6NE,S,N,F,16,,Clos Cenawon,Cwmrhydyceirw,Swansea
+2021-11-09,165000,SA6 7PP,D,N,F,34,,Gelli Gwyn Road,Morriston,Swansea
+2021-11-09,237000,SA6 6QP,D,N,F,505,,Clydach Road,Ynysforgan,Swansea
+2021-11-09,270000,SA6 5PF,S,N,F,198,,Kingrosia Park,Clydach,Swansea
+2021-11-08,80000,SA6 5EJ,T,N,F,15,,Hebron Road,Clydach,Swansea
+2021-11-08,178750,SA6 5BA,S,N,F,723,,Clydach Road,Ynystawe,Swansea
+2021-11-05,110000,SA6 7JE,T,N,F,3,,Eighth Avenue,Clase,Swansea
+2021-11-05,78000,SA6 7ET,S,N,F,53,,Heol Cefni,Morriston,Swansea
+2021-11-05,205000,SA6 6PB,T,N,F,61,,Rhydypandy Road,Morriston,Swansea
+2021-11-05,148000,SA6 5JN,S,N,F,15,,Carlton Road,Clydach,Swansea
+2021-11-05,135000,SA6 5HD,S,N,F,23,,Pen Y Wern Road,Clydach,Swansea
+2021-11-04,150000,SA6 6BB,S,N,F,2,,Arwelfa,Morriston,Swansea
+2021-11-02,232000,SA6 5PL,D,N,F,61,,Kingrosia Park,Clydach,Swansea
+2021-11-01,115000,SA6 8HJ,T,N,F,22,,Parc Avenue,Morriston,Swansea
+2021-11-01,115000,SA6 7AP,T,N,F,8,,Bath Road,Morriston,Swansea
+2021-11-01,175000,SA6 6LR,S,N,F,55,,Maes Y Gwernen Drive,Cwmrhydyceirw,Swansea
+2021-10-29,92500,SA6 8ND,T,N,F,77,,Bryn Parc,Morriston,Swansea
+2021-10-29,42445,SA6 8LY,T,N,F,28,,Essex Terrace,Plasmarl,Swansea
+2021-10-29,110000,SA6 8JW,T,N,F,1129,,Neath Road,Plasmarl,Swansea
+2021-10-29,169000,SA6 6NE,S,N,F,7,,Clos Cenawon,Cwmrhydyceirw,Swansea
+2021-10-29,105000,SA6 6HQ,T,N,F,7,,Penrice Street,Morriston,Swansea
+2021-10-29,172000,SA6 6AT,S,N,F,9,,Llwyn Yr Eos,Morriston,Swansea
+2021-10-29,97000,SA6 5HB,S,N,F,34,,Heol Y Nant,Clydach,Swansea
+2021-10-28,345000,SA6 5TE,D,N,F,Valley View,,Rhyd Y Gwin,Craig Cefn Parc,Swansea
+2021-10-27,70000,SA6 6JX,S,N,F,7,,Heol Maes Y Gelynen,Morriston,Swansea
+2021-10-26,122000,SA6 5HE,T,N,F,40,,Gellionen Road,Clydach,Swansea
+2021-10-25,208000,SA6 6QP,S,N,F,497,,Clydach Road,Ynysforgan,Swansea
+2021-10-22,149950,SA6 8NB,S,N,F,1,,Bryn Parc,Morriston,Swansea
+2021-10-22,140000,SA6 7EB,S,N,F,119,,Caemawr Road,Morriston,Swansea
+2021-10-22,162500,SA6 6JE,T,N,F,59,,Chemical Road,Morriston,Swansea
+2021-10-22,94000,SA6 6DD,T,N,F,13,,Delfan,Llangyfelach,Swansea
+2021-10-22,100000,SA6 5JJ,T,N,F,88,,Grove Road,Clydach,Swansea
+2021-10-21,145000,SA6 7BP,S,N,F,42,,Pentremalwed Road,Morriston,Swansea
+2021-10-20,98000,SA6 6ST,T,N,F,1,,Heol Penfelyn,Cwmrhydyceirw,Swansea
+2021-10-20,128500,SA6 6RX,T,N,F,82,,Glyncollen Crescent,Ynysforgan,Swansea
+2021-10-20,150000,SA6 5AX,S,N,F,605,,Clydach Road,Ynystawe,Swansea
+2021-10-15,155000,SA6 8PQ,S,N,F,95,,Graig Road,Morriston,Swansea
+2021-10-15,75000,SA6 8HX,S,N,F,100,,Parc Avenue,Morriston,Swansea
+2021-10-15,105000,SA6 7EQ,S,N,F,16,,Lon Claerwen,Morriston,Swansea
+2021-10-15,105500,SA6 7BQ,T,N,F,10,,Clyndu Street,Morriston,Swansea
+2021-10-14,125000,SA6 6BL,S,N,F,20,,Y Llwyni,Llangyfelach,Swansea
+2021-10-14,230000,SA6 5PJ,D,N,F,114,,Kingrosia Park,Clydach,Swansea
+2021-10-13,176000,SA6 6SS,S,N,F,47,,Rhodfa'R Dryw,Cwmrhydyceirw,Swansea
+2021-10-12,112000,SA6 8AY,T,N,F,59,,Slate Street,Morriston,Swansea
+2021-10-12,181000,SA6 6LY,S,N,F,Belmont,,Llanllienwen Close,Ynysforgan,Swansea
+2021-10-12,95000,SA6 6BS,S,N,F,26,,Penrhiw Road,Morriston,Swansea
+2021-10-11,160000,SA6 5DE,T,N,F,17,,Bethania Road,Clydach,Swansea
+2021-10-08,135000,SA6 7EW,S,N,F,12,,Lan Manor,Morriston,Swansea
+2021-10-08,128000,SA6 6RZ,S,N,F,58,,Gwernfadog Road,Ynysforgan,Swansea
+2021-10-08,186000,SA6 6QW,D,N,L,443,,Clydach Road,Ynysforgan,Swansea
+2021-10-08,105000,SA6 6HU,F,N,L,"Birch Court, 44",Apartment 32,Sway Road,Morriston,Swansea
+2021-10-08,228000,SA6 5PF,D,N,F,190,,Kingrosia Park,Clydach,Swansea
+2021-10-07,250000,SA6 5AL,D,N,F,22,,Bwllfa Road,Ynystawe,Swansea
+2021-10-06,130000,SA6 6JG,T,N,F,128,,Chemical Road,Morriston,Swansea
+2021-10-04,195000,SA6 6EZ,D,N,F,20,,Cae Eithin,Llangyfelach,Swansea
+2021-10-04,154000,SA6 6EY,T,N,F,29,,Y Waun Fach,Llangyfelach,Swansea
+2021-10-04,120000,SA6 5RA,S,N,F,13,,Rhyddwen Road,Craig Cefn Parc,Swansea
+2021-10-04,114000,SA6 5JF,S,N,F,33,,Edison Crescent,Clydach,Swansea
+2021-10-04,190000,SA6 5AE,S,N,L,25,,Gwysfa Road,Ynystawe,Swansea
+2021-10-01,110000,SA6 6HT,T,N,F,24,,Sway Road,Morriston,Swansea
+2021-10-01,165000,SA6 5BA,S,N,F,721,,Clydach Road,Ynystawe,Swansea
+2021-09-29,200000,SA6 6AG,S,N,L,105,,Pentrepoeth Road,Morriston,Swansea
+2021-09-27,315000,SA6 5PF,D,N,F,192,,Kingrosia Park,Clydach,Swansea
+2021-09-27,127000,SA6 5DX,S,N,F,46,,Hillrise Park,Clydach,Swansea
+2021-09-24,155000,SA6 7PQ,S,N,L,95,,Bryn Eglur Road,Morriston,Swansea
+2021-09-23,182000,SA6 5SY,S,N,F,27,,Clydach Road,Craig Cefn Parc,Swansea
+2021-09-22,159500,SA6 6BA,S,N,F,40,,Pen Yr Yrfa,Morriston,Swansea
+2021-09-22,162500,SA6 5RA,T,N,F,50,,Rhyddwen Road,Craig Cefn Parc,Swansea
+2021-09-22,150000,SA6 5EW,S,N,F,13,,Factory Road,Clydach,Swansea
+2021-09-20,200000,SA6 5PL,D,N,F,44,,Kingrosia Park,Clydach,Swansea
+2021-09-20,75000,SA6 5ES,F,N,L,20A,,Heol Eithrim,Clydach,Swansea
+2021-09-17,204000,SA6 6TA,S,N,F,19,,Heol Y Drudwen,Cwmrhydyceirw,Swansea
+2021-09-17,133000,SA6 6QW,T,N,F,459,,Clydach Road,Ynysforgan,Swansea
+2021-09-17,140000,SA6 6JN,S,N,F,53,,Heol Fedw,Cwmrhydyceirw,Swansea
+2021-09-17,130000,SA6 6BJ,T,N,F,38,,Llysgwyn,Llangyfelach,Swansea
+2021-09-17,120000,SA6 5PZ,S,N,F,41,,Capel Road,Clydach,Swansea
+2021-09-17,249995,SA6 5JB,D,N,F,142,,Lone Road,Clydach,Swansea
+2021-09-17,130000,SA6 5HF,S,N,F,127,,Gellionen Road,Clydach,Swansea
+2021-09-17,550000,SA6 5FB,D,N,F,8,,Clos Salem,Clydach,Swansea
+2021-09-15,140000,SA6 8NB,S,N,L,3,,Bryn Parc,Morriston,Swansea
+2021-09-14,54000,SA6 8DA,T,N,L,47,,Market Street,Morriston,Swansea
+2021-09-14,289950,SA6 8BS,D,N,F,15,,Bryn Hedydd,Llangyfelach,Swansea
+2021-09-14,242500,SA6 6LS,S,N,F,37,,Maes Y Gwernen Close,Cwmrhydyceirw,Swansea
+2021-09-14,470000,SA6 6HF,D,N,F,3,,Llys Pentrefelen,Morriston,Swansea
+2021-09-13,130000,SA6 6JG,T,N,F,126,,Chemical Road,Morriston,Swansea
+2021-09-10,78500,SA6 6HG,T,N,F,2,,Springfield Street,Morriston,Swansea
+2021-09-10,137000,SA6 6EG,S,N,F,20,,Bryncelyn,Llangyfelach,Swansea
+2021-09-10,250000,SA6 5PF,D,N,F,207,,Kingrosia Park,Clydach,Swansea
+2021-09-10,65000,SA6 5ED,T,N,F,160,,Hillrise Park,Clydach,Swansea
+2021-09-08,135000,SA6 6JY,S,N,F,52,,Waun Road,Morriston,Swansea
+2021-09-08,100000,SA6 5LU,S,N,F,81,,Vardre Road,Clydach,Swansea
+2021-09-08,137495,SA6 5JJ,T,N,F,50,,Grove Road,Clydach,Swansea
+2021-09-03,320000,SA6 5DS,D,N,F,Coach House,,Brynteg,Clydach,Swansea
+2021-08-31,110000,SA6 7NS,S,N,F,133,,Solva Road,Clase,Swansea
+2021-08-31,104500,SA6 7JY,T,N,F,73,,Rheidol Avenue,Clase,Swansea
+2021-08-31,235000,SA6 6EN,D,N,F,29,,Heol Y Grug,Morriston,Swansea
+2021-08-27,50000,SA6 8HE,T,N,F,560,,Neath Road,Morriston,Swansea
+2021-08-27,130000,SA6 7BP,S,N,F,87,,Pentremalwed Road,Morriston,Swansea
+2021-08-27,115000,SA6 7BG,S,N,F,33,,Clyndu Street,Morriston,Swansea
+2021-08-27,188000,SA6 6EH,S,N,F,2,,Heol Saffrwm,Morriston,Swansea
+2021-08-27,230000,SA6 6BU,S,N,F,335,,Clasemont Road,Morriston,Swansea
+2021-08-27,143000,SA6 5JU,S,N,F,5,,Ramsey Road,Clydach,Swansea
+2021-08-26,118000,SA6 7BG,T,N,F,61,,Clyndu Street,Morriston,Swansea
+2021-08-26,545000,SA6 5AR,D,N,F,11,,Woodland Park,Ynystawe,Swansea
+2021-08-25,200000,SA6 8NA,S,N,F,1B,,Caryl Terrace,Plasmarl,Swansea
+2021-08-25,225000,SA6 7PJ,D,N,F,12,,Gellifach Crescent,Morriston,Swansea
+2021-08-25,142000,SA6 7DW,T,N,F,3,,Mount Street,Morriston,Swansea
+2021-08-24,175000,SA6 7PA,D,N,F,10,,Glasbury Road,Morriston,Swansea
+2021-08-24,135000,SA6 6SA,T,N,F,52,,Glyncollen Crescent,Ynysforgan,Swansea
+2021-08-24,140000,SA6 6NS,T,N,F,10,,Vivians Row,Morriston,Swansea
+2021-08-24,295000,SA6 5HY,D,N,F,22,,Waungron Road,Clydach,Swansea
+2021-08-23,175000,SA6 6RA,S,N,F,37,,Lon Penfro,Cwmrhydyceirw,Swansea
+2021-08-23,160000,SA6 6JG,D,N,F,165,,Chemical Road,Morriston,Swansea
+2021-08-21,238000,SA6 5DY,D,N,F,"Fern Villa, 16",,Western Road,Clydach,Swansea
+2021-08-20,103000,SA6 7AW,T,N,F,20,,Bath Avenue,Morriston,Swansea
+2021-08-19,200000,SA6 6BU,S,N,F,305,,Clasemont Road,Morriston,Swansea
+2021-08-18,195000,SA6 5JP,D,N,F,21,,Kelvin Road,Clydach,Swansea
+2021-08-17,605000,SA6 5PX,D,N,F,1,,Llys Gwilym,Clydach,Swansea
+2021-08-16,120000,SA6 6NB,T,N,F,35,,Llanllienwen Road,Cwmrhydyceirw,Swansea
+2021-08-16,246000,SA6 5PJ,D,N,F,83,,Kingrosia Park,Clydach,Swansea
+2021-08-13,170500,SA6 7QF,S,N,F,12,,Ullswater Crescent,Morriston,Swansea
+2021-08-13,102500,SA6 6JH,T,N,F,19,,Heol Y Deri,Cwmrhydyceirw,Swansea
+2021-08-13,172000,SA6 5AX,S,N,F,629,,Clydach Road,Ynystawe,Swansea
+2021-08-12,175000,SA6 7PW,D,N,F,28,,Gellifawr Road,Morriston,Swansea
+2021-08-12,130000,SA6 6LU,T,N,F,101,,Llanllienwen Road,Cwmrhydyceirw,Swansea
+2021-08-12,165000,SA6 5JJ,S,N,F,31,,Grove Road,Clydach,Swansea
+2021-08-11,135500,SA6 7AT,T,N,F,49,,Bath Road,Morriston,Swansea
+2021-08-11,120000,SA6 5DS,T,N,L,14,,Brynteg,Clydach,Swansea
+2021-08-10,135000,SA6 6DB,S,N,F,7,,Bryn Rhosyn,Llangyfelach,Swansea
+2021-08-09,160000,SA6 7PN,D,N,F,19,,Gellifawr Road,Morriston,Swansea
+2021-07-30,112000,SA6 8JU,T,N,F,314,,Neath Road,Plasmarl,Swansea
+2021-07-30,93000,SA6 7QQ,S,N,F,242,,Mynydd Garn Lwyd Road,Morriston,Swansea
+2021-07-30,175000,SA6 7PN,D,N,F,2,,Gellifawr Road,Morriston,Swansea
+2021-07-30,119995,SA6 7DY,T,N,F,23,,Francis Road,Morriston,Swansea
+2021-07-30,280000,SA6 6SZ,D,N,F,24,,Llwyn Yr Iar,Cwmrhydyceirw,Swansea
+2021-07-30,265000,SA6 6SY,D,N,F,4,,Llwyn Y Gog,Cwmrhydyceirw,Swansea
+2021-07-30,185000,SA6 6RA,S,N,F,33,,Lon Penfro,Cwmrhydyceirw,Swansea
+2021-07-30,375000,SA6 6PB,D,N,F,113,,Rhydypandy Road,Morriston,Swansea
+2021-07-30,170000,SA6 6FD,S,N,F,79,,Heol Waun Wen,Llangyfelach,Swansea
+2021-07-30,585000,SA6 5AP,D,N,F,Golwg Yr Afon,,Park Road,Ynystawe,Swansea
+2021-07-29,180000,SA6 8PD,D,N,F,278,,Trewyddfa Road,Morriston,Swansea
+2021-07-29,212000,SA6 6RN,T,N,F,34,,Garth View,Ynysforgan,Swansea
+2021-07-29,112000,SA6 5HB,T,N,F,42,,Heol Y Nant,Clydach,Swansea
+2021-07-28,253000,SA6 5JB,D,N,F,140,,Lone Road,Clydach,Swansea
+2021-07-28,142000,SA6 5HF,S,N,F,105,,Gellionen Road,Clydach,Swansea
+2021-07-27,135000,SA6 6SD,S,N,F,6,,Heol Caerllion,Cwmrhydyceirw,Swansea
+2021-07-27,95000,SA6 5JW,S,N,F,6,,Grove Road,Clydach,Swansea
+2021-07-27,120000,SA6 5JR,S,N,F,45,,Kelvin Road,Clydach,Swansea
+2021-07-26,135000,SA6 6EL,S,N,F,10,,Heol Miaren,Morriston,Swansea
+2021-07-23,73866,SA6 8PQ,S,N,F,94,,Graig Road,Morriston,Swansea
+2021-07-23,121000,SA6 7JQ,S,N,F,4,,Ninth Avenue,Clase,Swansea
+2021-07-23,170000,SA6 6NQ,S,N,F,55,,Rhodfa Fadog,Cwmrhydyceirw,Swansea
+2021-07-23,177500,SA6 6HW,S,N,F,16,,Cwrt Llwyn Fedwen,Morriston,Swansea
+2021-07-23,113500,SA6 5BY,T,N,F,3,,Quarr Road,Clydach,Swansea
+2021-07-23,250000,SA6 5AL,S,N,F,14,,Bwllfa Road,Ynystawe,Swansea
+2021-07-22,92000,SA6 7BP,T,N,F,28,,Pentremalwed Road,Morriston,Swansea
+2021-07-22,140000,SA6 6TF,S,N,F,40,,Rhodfar Eos,Cwmrhydyceirw,Swansea
+2021-07-22,104950,SA6 6JF,T,N,F,109,,Chemical Road,Morriston,Swansea
+2021-07-21,189995,SA6 6LP,S,N,L,12,,Brodorion Drive,Cwmrhydyceirw,Swansea
+2021-07-21,164000,SA6 5AN,S,N,F,21,,Spionkop Road,Ynystawe,Swansea
+2021-07-20,151000,SA6 6QY,S,N,F,11,,Heol Pennant,Ynysforgan,Swansea
+2021-07-19,293000,SA6 6PQ,D,N,F,Blaen Cilau Cottage,,Blaen Cilau,Salem,Swansea
+2021-07-19,152000,SA6 6BT,S,N,L,273,,Clasemont Road,Morriston,Swansea
+2021-07-19,169995,SA6 6AT,S,N,F,23,,Llwyn Yr Eos,Morriston,Swansea
+2021-07-16,73000,SA6 7JG,S,N,F,231,,Long View Road,Clase,Swansea
+2021-07-16,70000,SA6 7BL,S,N,F,98,,Martin Street,Morriston,Swansea
+2021-07-16,107000,SA6 6LH,T,N,F,19,,Cwmrhydyceirw Road,Cwmrhydyceirw,Swansea
+2021-07-16,155500,SA6 6JY,S,N,F,28,,Waun Road,Morriston,Swansea
+2021-07-16,145000,SA6 6DL,T,N,F,5,,Harry Street,Morriston,Swansea
+2021-07-16,128750,SA6 6BR,T,N,F,55,,Penrhiw Road,Morriston,Swansea
+2021-07-16,110000,SA6 5HE,S,N,F,14,,Gellionen Road,Clydach,Swansea
+2021-07-14,110000,SA6 7LE,S,N,F,21,,Ewenny Place,Clase,Swansea
+2021-07-14,187500,SA6 5AN,S,N,F,27,,Spionkop Road,Ynystawe,Swansea
+2021-07-12,94000,SA6 6SB,S,N,F,16,,Glyncollen Crescent,Ynysforgan,Swansea
+2021-07-09,95000,SA6 8LA,T,N,F,12,,Landeg Street,Plasmarl,Swansea
+2021-07-09,150000,SA6 5PZ,S,N,L,43,,Capel Road,Clydach,Swansea
+2021-07-09,90000,SA6 5HA,S,N,F,16,,Down Street,Clydach,Swansea
+2021-07-08,230000,SA6 7PP,D,N,F,19,,Gelli Gwyn Road,Morriston,Swansea
+2021-07-07,78000,SA6 8LA,T,N,F,10,,Landeg Street,Plasmarl,Swansea
+2021-07-07,180000,SA6 6DS,D,N,F,7,,Maes Y Coed,Morriston,Swansea
+2021-07-05,120000,SA6 5JR,T,N,F,71,,Kelvin Road,Clydach,Swansea
+2021-07-02,184000,SA6 5PL,D,N,F,38,,Kingrosia Park,Clydach,Swansea
+2021-07-01,105000,SA6 8BN,T,N,L,24,,Morfydd Street,Morriston,Swansea
+2021-06-30,138000,SA6 7JF,S,N,F,134,,Long View Road,Clase,Swansea
+2021-06-30,255000,SA6 7EA,D,N,F,57,,Caemawr Road,Morriston,Swansea
+2021-06-30,177500,SA6 6HA,D,N,F,15,,Heol Eirlys,Morriston,Swansea
+2021-06-30,246995,SA6 6FH,D,N,F,4,,Waun Fawr,Cwmrhydyceirw,Swansea
+2021-06-30,239995,SA6 6FG,T,Y,F,35,,Waun Fawr,Cwmrhydyceirw,Swansea
+2021-06-30,325000,SA6 6EZ,D,N,F,39,,Cae Eithin,Llangyfelach,Swansea
+2021-06-30,245000,SA6 6DS,D,N,F,5,,Maes Y Coed,Morriston,Swansea
+2021-06-30,255000,SA6 6BY,D,N,F,98,,Heol Pentre Felen,Llangyfelach,Swansea
+2021-06-30,215000,SA6 6BT,T,N,L,265,,Clasemont Road,Morriston,Swansea
+2021-06-30,290000,SA6 6BG,D,N,F,25,,Cae Pen Pant,Llangyfelach,Swansea
+2021-06-30,205000,SA6 5PL,D,N,F,51,,Kingrosia Park,Clydach,Swansea
+2021-06-30,160000,SA6 5EU,D,N,F,1,,Sybil Street,Clydach,Swansea
+2021-06-30,135000,SA6 5DP,S,N,F,61,,Woodside Crescent,Clydach,Swansea
+2021-06-30,273000,SA6 5AW,D,N,F,17,,Bryntawe Hall Close,Ynystawe,Swansea
+2021-06-29,525000,SA6 6QZ,S,N,F,8,,Plas Gwernfadog Drive,Ynysforgan,Swansea
+2021-06-29,212500,SA6 6BT,S,N,F,271,,Clasemont Road,Morriston,Swansea
+2021-06-29,220000,SA6 6BT,S,N,F,227,,Clasemont Road,Morriston,Swansea
+2021-06-29,130000,SA6 5DS,S,N,F,18,,Brynteg,Clydach,Swansea
+2021-06-28,190000,SA6 6QR,S,N,F,58,,Christopher Road,Ynysforgan,Swansea
+2021-06-28,153000,SA6 6DL,D,N,F,3,,Harry Street,Morriston,Swansea
+2021-06-28,230000,SA6 5SY,S,N,F,17,,Clydach Road,Craig Cefn Parc,Swansea
+2021-06-28,225000,SA6 5PL,D,N,F,47,,Kingrosia Park,Clydach,Swansea
+2021-06-28,115000,SA6 5LX,T,N,F,1,,Tygwyn Road,Clydach,Swansea
+2021-06-28,217000,SA6 5LA,D,N,F,29,,Bryn Hawddgar,Clydach,Swansea
+2021-06-28,249000,SA6 5EP,D,N,F,16,,View Road,Clydach,Swansea
+2021-06-25,136950,SA6 8HH,S,N,L,47,,Parc Avenue,Morriston,Swansea
+2021-06-25,110000,SA6 8EJ,T,N,F,8,,Nixon Terrace,Morriston,Swansea
+2021-06-25,295000,SA6 6TP,D,N,F,6,,Clos Ebol,Cwmrhydyceirw,Swansea
+2021-06-25,135000,SA6 6TF,S,N,F,21,,Rhodfar Eos,Cwmrhydyceirw,Swansea
+2021-06-25,135000,SA6 6RW,S,N,F,6,,Elizabeth Close,Ynysforgan,Swansea
+2021-06-25,167000,SA6 6ER,D,N,L,45,,Heol Rhosyn,Morriston,Swansea
+2021-06-25,128500,SA6 6EF,T,N,F,7,,Clos Waun Wen,Llangyfelach,Swansea
+2021-06-25,310000,SA6 5TB,D,N,F,27,,Fagwr Road,Craig Cefn Parc,Swansea
+2021-06-25,120000,SA6 5HR,S,N,F,23,,Lone Road,Clydach,Swansea
+2021-06-24,102000,SA6 6HU,F,N,L,"Birch Court, 44",Apartment 17,Sway Road,Morriston,Swansea
+2021-06-24,265000,SA6 5HS,D,N,F,9,,Gellionen Close,Clydach,Swansea
+2021-06-23,114000,SA6 7BG,T,N,F,140,,Clyndu Street,Morriston,Swansea
+2021-06-23,145000,SA6 6TB,T,N,F,11,,Heol Yr Wylan,Cwmrhydyceirw,Swansea
+2021-06-23,205000,SA6 6RN,S,N,F,3,,Garth View,Ynysforgan,Swansea
+2021-06-23,227995,SA6 6FG,T,Y,F,39,,Waun Fawr,Cwmrhydyceirw,Swansea
+2021-06-18,130000,SA6 6LH,S,N,F,7,,Cwmrhydyceirw Road,Cwmrhydyceirw,Swansea
+2021-06-18,137000,SA6 6HA,D,N,L,4,,Heol Eirlys,Morriston,Swansea
+2021-06-14,131000,SA6 6RN,S,N,F,31,,Garth View,Ynysforgan,Swansea
+2021-06-14,136000,SA6 6NA,S,N,F,85,,Llanllienwen Road,Cwmrhydyceirw,Swansea
+2021-06-11,119750,SA6 8HJ,T,N,F,4,,Parc Avenue,Morriston,Swansea
+2021-06-11,130000,SA6 8HJ,T,N,F,19,,Parc Avenue,Morriston,Swansea
+2021-06-11,103500,SA6 8DE,T,N,F,8,,Green Street,Morriston,Swansea
+2021-06-11,97000,SA6 5RE,S,N,F,16,,Lon Heddwch,Clydach,Swansea
+2021-06-11,110000,SA6 5DA,S,N,F,10,,Heol Y Cae,Clydach,Swansea
+2021-06-09,185000,SA6 5RA,S,N,F,19,,Rhyddwen Road,Craig Cefn Parc,Swansea
+2021-06-08,85000,SA6 8EJ,T,N,F,9,,Nixon Terrace,Morriston,Swansea
+2021-06-08,150000,SA6 7PR,D,N,F,57,,Gelli Gwyn Road,Morriston,Swansea
+2021-06-04,115000,SA6 7DT,S,N,F,1,,Parkgate Villas,Morriston,Swansea
+2021-06-03,220000,SA6 5AG,D,N,F,37,,Plas Cadwgan Road,Ynystawe,Swansea
+2021-06-02,149000,SA6 6HJ,T,N,F,94,,Pleasant Street,Morriston,Swansea
+2021-05-28,315000,SA6 8NT,D,N,F,15,,Cnap Llwyd Road,Morriston,Swansea
+2021-05-28,199000,SA6 6TH,D,N,L,40,,Denbigh Crescent,Ynysforgan,Swansea
+2021-05-28,195000,SA6 6PT,S,N,F,9,,Clos Y Bont Faen,Cwmrhydyceirw,Swansea
+2021-05-28,256495,SA6 6FG,D,Y,F,27,,Waun Fawr,Cwmrhydyceirw,Swansea
+2021-05-28,222500,SA6 5TD,S,N,F,10,,Cadwgan Road,Craig Cefn Parc,Swansea
+2021-05-28,135000,SA6 5DS,S,N,F,23,,Brynteg,Clydach,Swansea
+2021-05-27,144000,SA6 6HU,F,N,L,"Birch Court, 44",Apartment 42,Sway Road,Morriston,Swansea
+2021-05-27,165000,SA6 5ET,D,N,F,21,,Twyn Y Bedw,Clydach,Swansea
+2021-05-21,80000,SA6 6TX,D,N,L,8,,Llwyn Afanc,Cwmrhydyceirw,Swansea
+2021-05-21,340000,SA6 5AP,D,N,F,Maesycoed,,Park Road,Ynystawe,Swansea
+2021-05-20,89500,SA6 7JD,S,N,F,15,,Ramsey Drive,Clase,Swansea
+2021-05-19,179995,SA6 6QU,D,N,F,15,,Butterslade Grove,Ynysforgan,Swansea
+2021-05-19,125000,SA6 5JP,S,N,F,15,,Kelvin Road,Clydach,Swansea
+2021-05-14,110000,SA6 8HG,T,N,F,550,,Neath Road,Morriston,Swansea
+2021-05-14,97500,SA6 8AA,T,N,F,19,,Slate Street,Morriston,Swansea
+2021-05-14,120000,SA6 7BY,T,N,F,11,,Pentremalwed Road,Morriston,Swansea
+2021-05-14,70000,SA6 7AG,S,N,F,6,,Strawberry Place,Morriston,Swansea
+2021-05-14,290000,SA6 6FP,D,N,F,17,,Cae Melyn,Llangyfelach,Swansea
+2021-05-14,299995,SA6 6FJ,D,Y,F,6,,Parc Ceirw,Cwmrhydyceirw,Swansea
+2021-05-14,167500,SA6 5PF,S,N,L,148,,Kingrosia Park,Clydach,Swansea
+2021-05-14,148500,SA6 5BZ,D,N,F,13,,Heol Y Graig,Clydach,Swansea
+2021-05-13,89000,SA6 8LA,T,N,F,25,,Landeg Street,Plasmarl,Swansea
+2021-05-13,105500,SA6 6QD,S,N,L,24,,Field Close,Morriston,Swansea
+2021-05-11,149000,SA6 5PN,S,N,F,18,,Kingrosia Park,Clydach,Swansea
+2021-05-11,118000,SA6 5JU,S,N,F,21,,Ramsey Road,Clydach,Swansea
+2021-05-10,195000,SA6 5NS,D,N,F,43,,Pontardawe Road,Clydach,Swansea
+2021-05-07,115000,SA6 8HJ,S,N,F,7,,Parc Avenue,Morriston,Swansea
+2021-05-07,91300,SA6 7AX,T,N,F,3,,De La Beche Terrace,Morriston,Swansea
+2021-05-07,190000,SA6 7AW,D,N,L,2,,Bath Avenue,Morriston,Swansea
+2021-05-07,125000,SA6 6DU,T,N,F,179,,Vicarage Road,Morriston,Swansea
+2021-05-06,87000,SA6 8LJ,T,N,F,65,,Dinas Street,Plasmarl,Swansea
+2021-05-06,255000,SA6 6RL,D,N,F,2,,Andrew Crescent,Ynysforgan,Swansea
+2021-05-06,184995,SA6 6AN,S,Y,F,10,,Coed Cae Bach,Cwmrhydyceirw,Swansea
+2021-05-04,175000,SA6 7PG,D,N,F,5,,Bryn Eglur Road,Morriston,Swansea
+2021-05-04,294495,SA6 6AN,D,Y,F,4,,Coed Cae Bach,Cwmrhydyceirw,Swansea
+2021-04-30,154500,SA6 6LJ,S,N,F,58,,Cwmrhydyceirw Road,Cwmrhydyceirw,Swansea
+2021-04-30,246995,SA6 6FH,D,N,F,6,,Waun Fawr,Cwmrhydyceirw,Swansea
+2021-04-30,254995,SA6 6FG,D,N,F,15,,Waun Fawr,Cwmrhydyceirw,Swansea
+2021-04-30,227995,SA6 6FG,S,N,F,13,,Waun Fawr,Cwmrhydyceirw,Swansea
+2021-04-30,227995,SA6 6FG,S,N,F,11,,Waun Fawr,Cwmrhydyceirw,Swansea
+2021-04-30,284995,SA6 6FF,D,Y,F,28,,Cae Canol,Cwmrhydyceirw,Swansea
+2021-04-30,180000,SA6 5RH,D,N,F,"Redmead, 5",,Mountain Road,Craig Cefn Parc,Swansea
+2021-04-30,101000,SA6 5JF,S,N,F,18,,Edison Crescent,Clydach,Swansea
+2021-04-29,85000,SA6 7BG,T,N,F,121,,Clyndu Street,Morriston,Swansea
+2021-04-29,98000,SA6 6LU,T,N,F,99,,Llanllienwen Road,Cwmrhydyceirw,Swansea
+2021-04-29,235000,SA6 5GA,D,N,F,30,,Woodlands Avenue,Clydach,Swansea
+2021-04-28,70000,SA6 8BR,F,N,L,Bedford House,4,Crown Street,Morriston,Swansea
+2021-04-27,140000,SA6 5JJ,S,N,F,35,,Grove Road,Clydach,Swansea
+2021-04-23,133000,SA6 6NA,T,N,F,91,,Llanllienwen Road,Cwmrhydyceirw,Swansea
+2021-04-23,120000,SA6 5PY,S,N,F,90,,Capel Road,Clydach,Swansea
+2021-04-22,73000,SA6 7BA,T,N,F,22,,Cwmbath Road,Morriston,Swansea
+2021-04-22,126000,SA6 5TB,D,N,F,7,,Fagwr Road,Craig Cefn Parc,Swansea
+2021-04-20,138995,SA6 6RJ,S,N,L,24,,Orpheus Road,Ynysforgan,Swansea
+2021-04-20,110000,SA6 5LU,T,N,F,90,,Vardre Road,Clydach,Swansea
+2021-04-20,110000,SA6 5JX,S,N,F,36,,Langer Way,Clydach,Swansea
+2021-04-19,234000,SA6 6RH,D,N,F,57,,Orpheus Road,Ynysforgan,Swansea
+2021-04-19,215000,SA6 6HN,D,N,F,71,,Cwrt Llwyn Fedwen,Morriston,Swansea
+2021-04-19,167000,SA6 5DF,D,N,F,9,,Heol Graig Felen,Clydach,Swansea
+2021-04-16,85000,SA6 8LY,T,N,F,9,,Essex Terrace,Plasmarl,Swansea
+2021-04-16,70000,SA6 8BR,F,N,L,Bedford House,8,Crown Street,Morriston,Swansea
+2021-04-16,58000,SA6 8AG,T,N,F,41,,Woodfield Street,Morriston,Swansea
+2021-04-16,175000,SA6 6RB,S,N,F,4,,Clos Rhymni,Cwmrhydyceirw,Swansea
+2021-04-16,284995,SA6 6FF,D,Y,F,3,,Cae Canol,Cwmrhydyceirw,Swansea
+2021-04-16,185000,SA6 6FD,S,N,F,57,,Heol Waun Wen,Llangyfelach,Swansea
+2021-04-16,130000,SA6 6EX,T,N,F,31,,Ffordd Dewi,Llangyfelach,Swansea
+2021-04-16,158000,SA6 5RG,S,N,L,126,,Rhyddwen Road,Craig Cefn Parc,Swansea
+2021-04-16,185000,SA6 5AN,D,N,F,15,,Spionkop Road,Ynystawe,Swansea
+2021-04-15,196000,SA6 7PP,D,N,F,12,,Gelli Gwyn Road,Morriston,Swansea
+2021-04-15,232500,SA6 6HB,D,N,F,32,,Springfield Street,Morriston,Swansea
+2021-04-15,175000,SA6 5JS,T,N,F,66,,Faraday Road,Clydach,Swansea
+2021-04-13,135000,SA6 8NN,D,N,F,138,,Salem Road,Morriston,Swansea
+2021-04-12,127000,SA6 6SE,S,N,F,10,,Heol Treffynnon,Cwmrhydyceirw,Swansea
+2021-04-12,110000,SA6 5EF,T,N,F,214,,Tyle Teg,Clydach,Swansea
+2021-04-09,60000,SA6 6DB,S,N,F,14,,Bryn Rhosyn,Llangyfelach,Swansea
+2021-04-09,235000,SA6 6BT,S,N,F,259,,Clasemont Road,Morriston,Swansea
+2021-04-09,235000,SA6 6BT,S,N,L,259,,Clasemont Road,Morriston,Swansea
+2021-04-09,75000,SA6 6BP,F,N,L,6,,Furze Crescent,Morriston,Swansea
+2021-04-08,87500,SA6 8ET,T,N,F,98,,Wychtree Street,Morriston,Swansea
+2021-04-08,170000,SA6 6NT,D,N,L,Brynsiriol,,,Pantlasau,Swansea
+2021-04-06,75000,SA6 8JU,T,N,F,319,,Neath Road,Plasmarl,Swansea
+2021-04-06,72000,SA6 7AP,T,N,F,16,,Bath Road,Morriston,Swansea
+2021-04-01,140000,SA6 7PW,D,N,F,61,,Gellifawr Road,Morriston,Swansea
+2021-04-01,81500,SA6 7AP,T,N,F,1,,Bath Road,Morriston,Swansea
+2021-04-01,242245,SA6 6FH,D,Y,F,2,,Waun Fawr,Cwmrhydyceirw,Swansea
+2021-04-01,126500,SA6 6EF,D,N,F,28,,Clos Waun Wen,Llangyfelach,Swansea
+2021-04-01,125000,SA6 6DW,S,N,F,73,,Heol Pentre Felen,Llangyfelach,Swansea
+2021-04-01,172250,SA6 6AN,S,Y,F,11,,Coed Cae Bach,Cwmrhydyceirw,Swansea
+2021-03-31,79000,SA6 8BP,T,N,F,7,,Glantawe Street,Morriston,Swansea
+2021-03-31,332496,SA6 6FJ,D,Y,F,4,,Parc Ceirw,Cwmrhydyceirw,Swansea
+2021-03-31,140000,SA6 5ES,D,N,F,"Rock House, 14",,Heol Eithrim,Clydach,Swansea
+2021-03-26,213000,SA6 8NT,D,N,F,2,,Cnap Llwyd Road,Morriston,Swansea
+2021-03-26,116000,SA6 7AY,T,N,F,43,,Lan Street,Morriston,Swansea
+2021-03-26,100000,SA6 7AP,T,N,F,5,,Bath Road,Morriston,Swansea
+2021-03-26,149000,SA6 7AN,T,N,L,8,,Bath Villas,Morriston,Swansea
+2021-03-26,297500,SA6 6FJ,D,Y,F,2,,Parc Ceirw,Cwmrhydyceirw,Swansea
+2021-03-26,122000,SA6 5QD,T,N,F,27,,Vera Road,Clydach,Swansea
+2021-03-26,122000,SA6 5NA,S,N,F,1,,Heol Y Vagwr,Clydach,Swansea
+2021-03-26,175000,SA6 5HU,D,N,F,88,,Lone Road,Clydach,Swansea
+2021-03-26,260000,SA6 5EY,D,N,F,6,,St Johns Road,Clydach,Swansea
+2021-03-25,294995,SA6 6FF,D,Y,F,22,,Cae Canol,Cwmrhydyceirw,Swansea
+2021-03-24,129995,SA6 8LZ,T,N,F,4,,Emlyn Terrace,Plasmarl,Swansea
+2021-03-24,440000,SA6 6HF,D,N,F,2,,Llys Pentrefelen,Morriston,Swansea
+2021-03-22,143225,SA6 6JQ,T,N,F,199,,Chemical Road,Morriston,Swansea
+2021-03-22,180000,SA6 6BL,T,N,F,8,,Y Llwyni,Llangyfelach,Swansea
+2021-03-22,309995,SA6 6AN,D,Y,F,15,,Coed Cae Bach,Cwmrhydyceirw,Swansea
+2021-03-18,300000,SA6 6AN,D,Y,F,25,,Coed Cae Bach,Cwmrhydyceirw,Swansea
+2021-03-18,95000,SA6 5DX,S,N,F,20,,Hillrise Park,Clydach,Swansea
+2021-03-15,94000,SA6 5NB,S,N,F,3,,Brynamlwg,Clydach,Swansea
+2021-03-12,100000,SA6 8BP,T,N,F,103,,Glantawe Street,Morriston,Swansea
+2021-03-12,299950,SA6 7PQ,D,N,L,59,,Bryn Eglur Road,Morriston,Swansea
+2021-03-12,208995,SA6 6FF,S,Y,F,26,,Cae Canol,Cwmrhydyceirw,Swansea
+2021-03-12,162000,SA6 6AU,S,N,F,37,,Can Yr Eos,Morriston,Swansea
+2021-03-12,147000,SA6 5TQ,D,N,F,7,,Rhyd Y Gwin,Craig Cefn Parc,Swansea
+2021-03-12,157000,SA6 5LP,S,N,F,33,,Vardre Road,Clydach,Swansea
+2021-03-09,80000,SA6 7LU,T,N,F,8,,Fourth Avenue,Clase,Swansea
+2021-03-09,103000,SA6 7LQ,S,N,F,80,,Severn Road,Clase,Swansea
+2021-03-09,150000,SA6 6HU,F,N,L,"Birch Court, 44",Apartment 2,Sway Road,Morriston,Swansea
+2021-03-09,241000,SA6 6AQ,D,N,F,104,,Pentrepoeth Road,Morriston,Swansea
+2021-03-05,78000,SA6 8PQ,T,N,F,78,,Graig Road,Morriston,Swansea
+2021-03-05,149000,SA6 7QJ,D,N,F,535,,Trewyddfa Road,Morriston,Swansea
+2021-03-05,90000,SA6 7LD,S,N,F,25,,Creswell Road,Clase,Swansea
+2021-03-05,208995,SA6 6FF,S,Y,F,24,,Cae Canol,Cwmrhydyceirw,Swansea
+2021-03-05,135000,SA6 6FE,S,N,F,52,,Ffordd Dewi,Llangyfelach,Swansea
+2021-03-04,210000,SA6 5HB,T,N,F,25,,Heol Y Nant,Clydach,Swansea
+2021-03-03,155000,SA6 6PY,S,N,F,14,,Clos Rhedyn,Cwmrhydyceirw,Swansea
+2021-03-01,239995,SA6 6AN,D,Y,F,13,,Coed Cae Bach,Cwmrhydyceirw,Swansea
+2021-02-26,97000,SA6 7JF,S,N,F,128,,Long View Road,Clase,Swansea
+2021-02-26,135000,SA6 6SX,S,N,F,23,,Llwyn Y Golomen,Cwmrhydyceirw,Swansea
+2021-02-26,284995,SA6 6FJ,D,N,F,1,,Parc Ceirw,Cwmrhydyceirw,Swansea
+2021-02-26,80000,SA6 5QE,T,N,F,59,,Vera Road,Clydach,Swansea
+2021-02-26,127000,SA6 5HB,S,N,F,27,,Heol Y Nant,Clydach,Swansea
+2021-02-26,285000,SA6 5AN,D,N,F,10,,Spionkop Road,Ynystawe,Swansea
+2021-02-25,130000,SA6 7JB,S,N,F,1,,Ruggles Terrace,Clase,Swansea
+2021-02-23,136843,SA6 6TJ,T,N,F,1,,Radnor Drive,Morriston,Swansea
+2021-02-23,180000,SA6 5AD,D,N,F,30,,Bryntawe Road,Ynystawe,Swansea
+2021-02-22,150000,SA6 6NE,S,N,F,20,,Clos Cenawon,Cwmrhydyceirw,Swansea
+2021-02-19,94000,SA6 7EQ,T,N,F,20,,Lon Claerwen,Morriston,Swansea
+2021-02-19,148000,SA6 6RQ,S,N,F,42,,Dee Place,Cwmrhydyceirw,Swansea
+2021-02-19,295000,SA6 5QB,D,N,F,23,,Beryl Road,Clydach,Swansea
+2021-02-19,245000,SA6 5EY,D,N,F,23A,,St Johns Road,Clydach,Swansea
+2021-02-19,92000,SA6 5DX,S,N,L,59,,Hillrise Park,Clydach,Swansea
+2021-02-18,132750,SA6 8LQ,T,N,F,44,,Dinas Street,Plasmarl,Swansea
+2021-02-17,95000,SA6 7LU,T,N,F,3,,Fourth Avenue,Clase,Swansea
+2021-02-16,91000,SA6 8AY,T,N,F,64,,Slate Street,Morriston,Swansea
+2021-02-16,91500,SA6 7EG,T,N,F,27,,Lon Camlad,Morriston,Swansea
+2021-02-15,177000,SA6 6QU,D,N,F,11,,Butterslade Grove,Ynysforgan,Swansea
+2021-02-15,545000,SA6 5NJ,D,N,F,2,,The Birches,Clydach,Swansea
+2021-02-12,215000,SA6 8AY,D,N,F,68,,Slate Street,Morriston,Swansea
+2021-02-12,178000,SA6 6QU,D,N,L,27,,Butterslade Grove,Ynysforgan,Swansea
+2021-02-12,80000,SA6 6JA,T,N,F,33,,Sway Road,Morriston,Swansea
+2021-02-12,137000,SA6 6EP,D,N,L,48,,Heol Rhosyn,Morriston,Swansea
+2021-02-12,165000,SA6 6DH,D,N,F,27,,Vicarage Road,Morriston,Swansea
+2021-02-11,225000,SA6 6FF,S,Y,F,18,,Cae Canol,Cwmrhydyceirw,Swansea
+2021-02-09,245000,SA6 6RW,S,N,F,17,,Elizabeth Close,Ynysforgan,Swansea
+2021-02-05,112000,SA6 8DG,T,N,F,2,,Margam Avenue,Morriston,Swansea
+2021-02-05,246995,SA6 6FF,S,Y,F,20,,Cae Canol,Cwmrhydyceirw,Swansea
+2021-02-05,105600,SA6 5JS,T,N,F,60,,Faraday Road,Clydach,Swansea
+2021-01-29,80000,SA6 7DU,S,N,L,71,,Tanylan Terrace,Morriston,Swansea
+2021-01-29,128000,SA6 7DR,S,N,F,12,,Ger Y Parc,Morriston,Swansea
+2021-01-29,86000,SA6 7AP,T,N,F,46,,Bath Road,Morriston,Swansea
+2021-01-29,100000,SA6 7AJ,T,N,F,13,,Horeb Road,Morriston,Swansea
+2021-01-29,170000,SA6 6RR,S,N,F,18,,Glyncollen Drive,Ynysforgan,Swansea
+2021-01-29,421000,SA6 6HF,D,N,F,4,,Llys Pentrefelen,Morriston,Swansea
+2021-01-29,175745,SA6 6AN,S,Y,F,9,,Coed Cae Bach,Cwmrhydyceirw,Swansea
+2021-01-29,85000,SA6 5EF,T,N,F,200,,Tyle Teg,Clydach,Swansea
+2021-01-28,255000,SA6 6LN,S,N,F,17,,Maes Y Gwernen Drive,Cwmrhydyceirw,Swansea
+2021-01-28,190000,SA6 6DW,D,N,F,77,,Heol Pentre Felen,Llangyfelach,Swansea
+2021-01-28,239495,SA6 5PU,D,N,F,10,,Pearl Street,Clydach,Swansea
+2021-01-26,235000,SA6 6HQ,S,N,F,18,,Penrice Street,Morriston,Swansea
+2021-01-25,63000,SA6 6JA,T,N,F,41,,Sway Road,Morriston,Swansea
+2021-01-22,88500,SA6 8LT,T,N,F,23,,Idris Terrace,Plasmarl,Swansea
+2021-01-22,172000,SA6 6DA,D,N,F,21,,Llys Penpant,Llangyfelach,Swansea
+2021-01-21,80000,SA6 5EJ,T,N,F,27,,Hebron Road,Clydach,Swansea
+2021-01-20,160000,SA6 6FD,T,N,F,32,,Heol Waun Wen,Llangyfelach,Swansea
+2021-01-19,89500,SA6 5BY,T,N,F,4,,Quarr Road,Clydach,Swansea
+2021-01-18,66140,SA6 5HE,D,N,F,23,,Gellionen Road,Clydach,Swansea
+2021-01-15,273000,SA6 8BS,D,N,F,6,,Bryn Hedydd,Llangyfelach,Swansea
+2021-01-15,77500,SA6 7LT,S,N,F,11,,Third Avenue,Clase,Swansea
+2021-01-15,155000,SA6 6EG,T,N,F,34,,Bryncelyn,Llangyfelach,Swansea
+2021-01-15,160000,SA6 5LU,T,N,F,113,,Vardre Road,Clydach,Swansea
+2021-01-12,98000,SA6 8LJ,T,N,F,97,,Dinas Street,Plasmarl,Swansea
+2021-01-12,53000,SA6 7BL,F,N,L,74A,,Martin Street,Morriston,Swansea
+2021-01-12,122500,SA6 6TF,S,N,F,18,,Rhodfar Eos,Cwmrhydyceirw,Swansea
+2021-01-08,56000,SA6 8JN,T,N,F,365,,Neath Road,Plasmarl,Swansea
+2021-01-08,106000,SA6 6DH,T,N,F,14,,Vicarage Road,Morriston,Swansea
+2021-01-08,75000,SA6 6AP,S,N,L,5,,Mount Crescent,Morriston,Swansea
+2021-01-08,342000,SA6 5TD,D,N,F,1A,,Cadwgan Road,Craig Cefn Parc,Swansea
+2021-01-08,168000,SA6 5LD,S,N,F,9,,Ffordd Abiah,Clydach,Swansea
+2021-01-08,215000,SA6 5ES,D,N,F,8,,Heol Eithrim,Clydach,Swansea

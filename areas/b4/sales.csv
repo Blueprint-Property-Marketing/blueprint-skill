@@ -1,0 +1,468 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-07-17,270000,B4 6LR,F,N,L,64,Apartment 203,Shadwell Street,,Birmingham
+2026-06-19,175000,B4 6HZ,F,N,L,"Hub, 1",Apartment 103,Clive Passage,,Birmingham
+2026-04-20,281000,B4 6LQ,F,N,L,63,Apartment 107,Shadwell Street,,Birmingham
+2026-01-19,190000,B4 6LP,F,N,L,62,Apartment 5,Shadwell Street,,Birmingham
+2025-11-27,220000,B4 7FG,F,Y,L,1,Apartment 103,Pitt Street,,Birmingham
+2025-11-04,245912,B4 7FH,F,Y,L,1,Apartment 603,Pitt Street,,Birmingham
+2025-10-31,389162,B4 7FH,F,Y,L,1,Apartment 509,Pitt Street,,Birmingham
+2025-10-31,389162,B4 7FH,F,Y,L,1,Apartment 502,Pitt Street,,Birmingham
+2025-10-29,233975,B4 7FH,F,Y,L,1,Apartment 606,Pitt Street,,Birmingham
+2025-10-24,391550,B4 7FH,F,Y,L,1,Apartment 602,Pitt Street,,Birmingham
+2025-10-24,284112,B4 7FH,F,Y,L,1,Apartment 610,Pitt Street,,Birmingham
+2025-10-24,241137,B4 7FG,F,Y,L,1,Apartment 408,Pitt Street,,Birmingham
+2025-10-21,243525,B4 7FH,F,Y,L,1,Apartment 508,Pitt Street,,Birmingham
+2025-10-21,229200,B4 7FG,F,Y,L,1,Apartment 406,Pitt Street,,Birmingham
+2025-10-17,298915,B4 7FG,F,Y,L,1,Apartment 201,Pitt Street,,Birmingham
+2025-10-16,231587,B4 7FH,F,Y,L,1,Apartment 505,Pitt Street,,Birmingham
+2025-10-16,266750,B4 7FG,F,Y,L,1,Apartment 110,Pitt Street,,Birmingham
+2025-10-15,281725,B4 7FH,F,Y,L,1,Apartment 501,Pitt Street,,Birmingham
+2025-10-15,339025,B4 7FH,F,Y,L,1,Apartment 504,Pitt Street,,Birmingham
+2025-10-15,243525,B4 7FH,F,Y,L,1,Apartment 503,Pitt Street,,Birmingham
+2025-10-10,386775,B4 7FG,F,Y,L,1,Apartment 402,Pitt Street,,Birmingham
+2025-10-10,279337,B4 7FG,F,Y,L,1,Apartment 401,Pitt Street,,Birmingham
+2025-10-10,350000,B4 6LS,F,N,L,65,Apartment 504,Shadwell Street,,Birmingham
+2025-10-10,325000,B4 6LS,F,Y,L,65,Apartment 106,Shadwell Street,,Birmingham
+2025-10-06,384388,B4 7FG,F,Y,L,1,Apartment 302,Pitt Street,,Birmingham
+2025-10-01,371525,B4 7FG,F,Y,L,1,Apartment 109,Pitt Street,,Birmingham
+2025-10-01,384387,B4 7FG,F,Y,L,1,Apartment 309,Pitt Street,,Birmingham
+2025-10-01,276950,B4 7FG,F,Y,L,1,Apartment 310,Pitt Street,,Birmingham
+2025-10-01,266750,B4 7FG,F,Y,L,1,Apartment 210,Pitt Street,,Birmingham
+2025-10-01,300000,B4 6LS,F,Y,L,65,Apartment 7,Shadwell Street,,Birmingham
+2025-09-16,500400,B4 7FH,F,Y,L,1,Apartment 710,Pitt Street,,Birmingham
+2025-09-09,336000,B4 7FH,F,Y,L,1,Apartment 614,Pitt Street,,Birmingham
+2025-09-09,374400,B4 7FG,F,Y,L,1,Apartment 212,Pitt Street,,Birmingham
+2025-09-05,390000,B4 7FH,F,Y,L,1,Apartment 711,Pitt Street,,Birmingham
+2025-09-03,242250,B4 7FH,F,Y,L,1,Apartment 518,Pitt Street,,Birmingham
+2025-09-03,265000,B4 7FG,F,Y,L,1,Apartment 220,Pitt Street,,Birmingham
+2025-09-02,237500,B4 7FH,F,Y,L,1,Apartment 513,Pitt Street,,Birmingham
+2025-09-02,336000,B4 7FH,F,Y,L,1,Apartment 617,Pitt Street,,Birmingham
+2025-09-02,252500,B4 7FH,F,Y,L,1,Apartment 613,Pitt Street,,Birmingham
+2025-09-01,249775,B4 7FH,F,Y,L,1,Apartment 618,Pitt Street,,Birmingham
+2025-08-29,367200,B4 7FH,F,Y,L,1,Apartment 619,Pitt Street,,Birmingham
+2025-08-27,372000,B4 7FH,F,Y,L,1,Apartment 612,Pitt Street,,Birmingham
+2025-08-27,360000,B4 6LS,F,Y,L,65,Apartment 104,Shadwell Street,,Birmingham
+2025-08-26,261250,B4 7FH,F,Y,L,1,Apartment 520,Pitt Street,,Birmingham
+2025-08-26,330125,B4 7FH,F,Y,L,1,Apartment 514,Pitt Street,,Birmingham
+2025-08-26,228000,B4 7FH,F,Y,L,1,Apartment 516,Pitt Street,,Birmingham
+2025-08-26,440000,B4 7FH,F,Y,L,1,Apartment 512,Pitt Street,,Birmingham
+2025-08-26,258000,B4 7FG,F,Y,L,1,Apartment 315,Pitt Street,,Birmingham
+2025-08-22,228000,B4 7FH,F,Y,L,1,Apartment 515,Pitt Street,,Birmingham
+2025-08-22,380000,B4 7FG,F,Y,L,1,Apartment 312,Pitt Street,,Birmingham
+2025-08-20,325000,B4 7FG,F,Y,L,1,Apartment 314,Pitt Street,,Birmingham
+2025-08-20,225625,B4 7FG,F,Y,L,1,Apartment 416,Pitt Street,,Birmingham
+2025-08-20,235125,B4 7FG,F,Y,L,1,Apartment 413,Pitt Street,,Birmingham
+2025-08-20,327750,B4 7FG,F,Y,L,1,Apartment 414,Pitt Street,,Birmingham
+2025-08-20,358625,B4 7FG,F,Y,L,1,Apartment 419,Pitt Street,,Birmingham
+2025-08-18,256500,B4 7FG,F,Y,L,1,Apartment 320,Pitt Street,,Birmingham
+2025-08-18,266750,B4 7FG,F,Y,L,1,Apartment 211,Pitt Street,,Birmingham
+2025-08-15,400000,B4 7FG,F,Y,L,1,Apartment 219,Pitt Street,,Birmingham
+2025-07-18,300000,B4 6LQ,F,Y,L,63,Apartment 601,Shadwell Street,,Birmingham
+2025-06-20,295000,B4 6GR,F,Y,L,"Gunsmith House, 61",Apartment 6,Price Street,,Birmingham
+2025-06-02,490000,B4 6LQ,F,Y,L,63,Apartment 708,Shadwell Street,,Birmingham
+2025-05-23,149000,B4 6HU,F,N,L,"Hub, 1",Apartment 58,Clive Passage,,Birmingham
+2025-04-25,470000,B4 6LQ,F,Y,L,63,Apartment 706,Shadwell Street,,Birmingham
+2025-04-23,245000,B4 6GR,F,Y,L,"Gunsmith House, 61",Apartment 9,Price Street,,Birmingham
+2025-04-22,302500,B4 6GR,F,Y,L,"Gunsmith House, 61",Apartment 60,Price Street,,Birmingham
+2025-03-31,475000,B4 6LQ,F,Y,L,63,Apartment 702,Shadwell Street,,Birmingham
+2025-03-31,330000,B4 6GR,F,Y,L,"Gunsmith House, 61",Apartment 68,Price Street,,Birmingham
+2025-03-28,470000,B4 6LQ,F,Y,L,63,Apartment 705,Shadwell Street,,Birmingham
+2025-03-28,300000,B4 6GR,F,Y,L,"Gunsmith House, 61",Apartment 52,Price Street,,Birmingham
+2025-03-21,318000,B4 6GR,F,Y,L,"Gunsmith House, 61",Apartment 31,Price Street,,Birmingham
+2025-03-17,313000,B4 6LR,F,N,L,64,Apartment 601,Shadwell Street,,Birmingham
+2025-03-07,230000,B4 6GR,F,Y,L,"Gunsmith House, 61",Apartment 64,Price Street,,Birmingham
+2025-03-03,296250,B4 6GR,F,Y,L,"Gunsmith House, 61",Apartment 39,Price Street,,Birmingham
+2025-02-28,247500,B4 6GR,F,Y,L,"Gunsmith House, 61",Apartment 44,Price Street,,Birmingham
+2025-02-14,325000,B4 6GR,F,Y,L,"Gunsmith House, 61",Apartment 82,Price Street,,Birmingham
+2025-01-30,228000,B4 6GR,F,Y,L,"Gunsmith House, 61",Apartment 38,Price Street,,Birmingham
+2025-01-24,340000,B4 6LS,F,Y,L,65,Apartment 207,Shadwell Street,,Birmingham
+2024-11-29,133650,B4 6HU,F,N,L,"Hub, 1",Apartment 15,Clive Passage,,Birmingham
+2024-11-22,208000,B4 6LP,F,N,L,62,Apartment 503,Shadwell Street,,Birmingham
+2024-11-08,225000,B4 6GR,F,Y,L,"Gunsmith House, 61",Apartment 48,Price Street,,Birmingham
+2024-10-25,350000,B4 6LR,F,Y,L,64,Apartment 6,Shadwell Street,,Birmingham
+2024-10-24,250000,B4 6GR,F,Y,L,"Gunsmith House, 61",Apartment 51,Price Street,,Birmingham
+2024-10-18,245000,B4 6GR,F,Y,L,"Gunsmith House, 61",Apartment 21,Price Street,,Birmingham
+2024-10-14,500000,B4 6LQ,F,Y,L,63,Apartment 709,Shadwell Street,,Birmingham
+2024-10-09,305000,B4 6GR,F,Y,L,"Gunsmith House, 61",Apartment 22,Price Street,,Birmingham
+2024-10-03,302000,B4 6GR,F,Y,L,"Gunsmith House, 61",Apartment 57,Price Street,,Birmingham
+2024-09-30,247500,B4 6GR,F,Y,L,"Gunsmith House, 61",Apartment 27,Price Street,,Birmingham
+2024-09-26,304500,B4 6GR,F,Y,L,"Gunsmith House, 61",Apartment 73,Price Street,,Birmingham
+2024-09-23,233000,B4 6GR,F,Y,L,"Gunsmith House, 61",Apartment 75,Price Street,,Birmingham
+2024-09-23,236000,B4 6GR,F,Y,L,"Gunsmith House, 61",Apartment 33,Price Street,,Birmingham
+2024-09-23,328000,B4 6GR,F,Y,L,"Gunsmith House, 61",Apartment 80,Price Street,,Birmingham
+2024-09-13,222500,B4 6GR,F,Y,L,"Gunsmith House, 61",Apartment 40,Price Street,,Birmingham
+2024-09-13,336500,B4 6GR,F,Y,L,"Gunsmith House, 61",Apartment 76,Price Street,,Birmingham
+2024-09-06,238500,B4 6GR,F,Y,L,"Gunsmith House, 61",Apartment 18,Price Street,,Birmingham
+2024-09-06,320000,B4 6GR,F,Y,L,"Gunsmith House, 61",Apartment 43,Price Street,,Birmingham
+2024-09-06,241000,B4 6GR,F,Y,L,"Gunsmith House, 61",Apartment 41,Price Street,,Birmingham
+2024-08-23,238500,B4 6GR,F,Y,L,"Gunsmith House, 61",Apartment 56,Price Street,,Birmingham
+2024-08-22,242500,B4 6GR,F,Y,L,"Gunsmith House, 61",Apartment 42,Price Street,,Birmingham
+2024-08-21,250000,B4 6GR,F,Y,L,"Gunsmith House, 61",Apartment 50,Price Street,,Birmingham
+2024-08-21,247500,B4 6GR,F,Y,L,"Gunsmith House, 61",Apartment 70,Price Street,,Birmingham
+2024-08-21,225500,B4 6GR,F,Y,L,"Gunsmith House, 61",Apartment 2,Price Street,,Birmingham
+2024-08-13,299500,B4 6GR,F,Y,L,"Gunsmith House, 61",Apartment 35,Price Street,,Birmingham
+2024-08-12,230000,B4 6GR,F,Y,L,"Gunsmith House, 61",Apartment 12,Price Street,,Birmingham
+2024-08-12,318000,B4 6GR,F,Y,L,"Gunsmith House, 61",Apartment 30,Price Street,,Birmingham
+2024-08-09,110000,B4 6GR,F,Y,L,"Gunsmith House, 61",Apartment 10,Price Street,,Birmingham
+2024-08-09,210000,B4 6GR,F,Y,L,"Gunsmith House, 61",Apartment 25,Price Street,,Birmingham
+2024-08-09,110000,B4 6GR,F,Y,L,"Gunsmith House, 61",Apartment 26,Price Street,,Birmingham
+2024-08-09,333500,B4 6GR,F,Y,L,"Gunsmith House, 61",Apartment 62,Price Street,,Birmingham
+2024-08-09,147500,B4 6GR,F,Y,L,"Gunsmith House, 61",Apartment 15,Price Street,,Birmingham
+2024-08-09,363000,B4 6GR,F,Y,L,"Gunsmith House, 61",Apartment 74,Price Street,,Birmingham
+2024-08-09,147500,B4 6GR,F,Y,L,"Gunsmith House, 61",Apartment 16,Price Street,,Birmingham
+2024-08-09,236000,B4 6GR,F,Y,L,"Gunsmith House, 61",Apartment 32,Price Street,,Birmingham
+2024-08-09,242500,B4 6GR,F,Y,L,"Gunsmith House, 61",Apartment 19,Price Street,,Birmingham
+2024-08-09,259950,B4 6GR,F,Y,L,"Gunsmith House, 61",Apartment 46,Price Street,,Birmingham
+2024-08-09,304500,B4 6GR,F,Y,L,"Gunsmith House, 61",Apartment 72,Price Street,,Birmingham
+2024-08-09,101000,B4 6GR,F,Y,L,"Gunsmith House, 61",Apartment 11,Price Street,,Birmingham
+2024-07-30,114000,B4 6HU,F,N,L,"Hub, 1",Apartment 4,Clive Passage,,Birmingham
+2024-06-07,382000,B4 6FW,F,Y,L,64,Apartment 1703,Shadwell Street,,Birmingham
+2024-05-24,570000,B4 6LQ,F,Y,L,63,Apartment 703,Shadwell Street,,Birmingham
+2024-05-24,570000,B4 6LQ,F,Y,L,63,Apartment 701,Shadwell Street,,Birmingham
+2024-05-20,320000,B4 6LQ,F,Y,L,63,Apartment 203,Shadwell Street,,Birmingham
+2024-05-01,338400,B4 6LQ,F,Y,L,63,Apartment 206,Shadwell Street,,Birmingham
+2024-04-24,624999,B4 6LQ,F,Y,L,63,Apartment 704,Shadwell Street,,Birmingham
+2024-03-27,385000,B4 6LR,F,Y,L,64,Apartment 5,Shadwell Street,,Birmingham
+2024-03-08,361900,B4 6LS,F,Y,L,65,Apartment 6,Shadwell Street,,Birmingham
+2024-02-26,412000,B4 6LS,F,Y,L,65,Apartment 406,Shadwell Street,,Birmingham
+2024-01-26,119000,B4 6HZ,F,N,L,"Hub, 1",Apartment 116,Clive Passage,,Birmingham
+2024-01-24,390000,B4 6LR,F,Y,L,64,Apartment 207,Shadwell Street,,Birmingham
+2024-01-04,264000,B4 6LR,F,Y,L,64,Apartment 505,Shadwell Street,,Birmingham
+2023-12-13,340800,B4 6LQ,F,Y,L,63,Apartment 210,Shadwell Street,,Birmingham
+2023-12-08,441750,B4 6LR,F,Y,L,64,Apartment 407,Shadwell Street,,Birmingham
+2023-11-30,259200,B4 6LR,F,Y,L,64,Apartment 501,Shadwell Street,,Birmingham
+2023-11-23,318000,B4 6LS,F,N,L,65,Apartment 309,Shadwell Street,,Birmingham
+2023-10-27,175000,B4 6HZ,F,N,L,"Hub, 1",Apartment 122,Clive Passage,,Birmingham
+2023-10-26,376000,B4 6FW,F,Y,L,64,Apartment 1603,Shadwell Street,,Birmingham
+2023-10-25,432500,B4 6LP,F,Y,L,62,Apartment 809,Shadwell Street,,Birmingham
+2023-10-16,334675,B4 6LQ,F,Y,L,63,Apartment 201,Shadwell Street,,Birmingham
+2023-10-13,350000,B4 6LQ,F,Y,L,63,Apartment 501,Shadwell Street,,Birmingham
+2023-10-12,430000,B4 6LS,F,Y,L,65,Apartment 507,Shadwell Street,,Birmingham
+2023-10-06,321480,B4 6LQ,F,Y,L,"Apartment 204, 63",,Shadwell Street,,Birmingham
+2023-09-15,500000,B4 6LS,F,Y,L,65,Apartment 4,Shadwell Street,,Birmingham
+2023-09-08,398400,B4 6LQ,F,Y,L,63,Apartment 609,Shadwell Street,,Birmingham
+2023-09-04,343100,B4 6LS,F,Y,L,65,Apartment 110,Shadwell Street,,Birmingham
+2023-08-05,478400,B4 6LP,F,Y,L,62,Apartment 808,Shadwell Street,,Birmingham
+2023-08-01,225000,B4 6HZ,F,N,L,"Hub, 1",Apartment 89,Clive Passage,,Birmingham
+2023-07-27,420000,B4 6LL,F,Y,L,61,Apartment 101,Shadwell Street,,Birmingham
+2023-07-07,461650,B4 6LR,F,N,L,64,Apartment 701,Shadwell Street,,Birmingham
+2023-06-30,420000,B4 6LR,F,Y,L,64,Apartment 805,Shadwell Street,,Birmingham
+2023-06-28,165000,B4 6HZ,F,N,L,"Hub, 1",Apartment 90,Clive Passage,,Birmingham
+2023-06-23,355200,B4 6LQ,F,Y,L,63,Apartment 110,Shadwell Street,,Birmingham
+2023-06-22,368000,B4 6LQ,F,Y,L,63,Apartment 307,Shadwell Street,,Birmingham
+2023-06-19,395000,B4 6LR,F,Y,L,64,Apartment 303,Shadwell Street,,Birmingham
+2023-06-15,467000,B4 6LS,F,Y,L,65,Apartment 304,Shadwell Street,,Birmingham
+2023-06-15,377000,B4 6LR,F,Y,L,64,Apartment 107,Shadwell Street,,Birmingham
+2023-06-12,409150,B4 6LR,F,Y,L,64,Apartment 406,Shadwell Street,,Birmingham
+2023-06-09,297150,B4 6LS,F,Y,L,65,Apartment 9,Shadwell Street,,Birmingham
+2023-06-09,485000,B4 6FW,F,Y,L,64,Apartment 1306,Shadwell Street,,Birmingham
+2023-06-02,225000,B4 6LS,F,Y,L,65,Apartment 1,Shadwell Street,,Birmingham
+2023-06-02,330000,B4 6LS,F,Y,L,65,Apartment 5,Shadwell Street,,Birmingham
+2023-06-01,370000,B4 6LP,F,Y,L,62,Apartment 2,Shadwell Street,,Birmingham
+2023-05-18,225000,B4 6LS,F,Y,L,65,Apartment 2,Shadwell Street,,Birmingham
+2023-05-04,217500,B4 6LS,F,Y,L,65,Apartment 10,Shadwell Street,,Birmingham
+2023-05-04,208950,B4 6LS,F,Y,L,65,Apartment 111,Shadwell Street,,Birmingham
+2023-05-04,235000,B4 6LS,F,Y,L,65,Apartment 601,Shadwell Street,,Birmingham
+2023-05-04,225000,B4 6LS,F,Y,L,65,Apartment 3,Shadwell Street,,Birmingham
+2023-04-28,172000,B4 6HU,F,N,L,"Hub, 1",Apartment 17,Clive Passage,,Birmingham
+2023-04-18,368000,B4 6LR,F,Y,L,64,Apartment Lg2,Shadwell Street,,Birmingham
+2023-04-14,334875,B4 6LR,F,Y,L,64,Apartment 103,Shadwell Street,,Birmingham
+2023-04-06,377126,B4 6LS,F,Y,L,65,Apartment 307,Shadwell Street,,Birmingham
+2023-04-04,215000,B4 6LS,F,Y,L,65,Apartment 109,Shadwell Street,,Birmingham
+2023-03-28,217500,B4 6LS,F,Y,L,65,Apartment 209,Shadwell Street,,Birmingham
+2023-03-20,212500,B4 6LS,F,Y,L,65,Apartment 211,Shadwell Street,,Birmingham
+2023-03-17,289575,B4 6LS,F,Y,L,65,Apartment 309,Shadwell Street,,Birmingham
+2023-03-17,517000,B4 6LP,F,Y,L,62,Apartment 803,Shadwell Street,,Birmingham
+2023-03-14,423600,B4 6LQ,F,Y,L,63,Apartment 406,Shadwell Street,,Birmingham
+2023-03-10,339500,B4 6LS,F,Y,L,65,Apartment 105,Shadwell Street,,Birmingham
+2023-03-09,210000,B4 6LS,F,Y,L,65,Apartment 108,Shadwell Street,,Birmingham
+2023-03-07,220000,B4 6LS,F,Y,L,65,Apartment 102,Shadwell Street,,Birmingham
+2023-03-07,227500,B4 6LS,F,Y,L,65,Apartment 402,Shadwell Street,,Birmingham
+2023-03-06,225000,B4 6LS,F,Y,L,65,Apartment 101,Shadwell Street,,Birmingham
+2023-03-06,225000,B4 6LS,F,Y,L,65,Apartment 103,Shadwell Street,,Birmingham
+2023-03-02,221387,B4 6LS,F,Y,L,65,Apartment 202,Shadwell Street,,Birmingham
+2023-02-27,345000,B4 6LS,F,Y,L,65,Apartment 606,Shadwell Street,,Birmingham
+2023-02-24,198000,B4 6LS,F,Y,L,65,Apartment 8,Shadwell Street,,Birmingham
+2023-02-23,379050,B4 6LS,F,Y,L,65,Apartment 206,Shadwell Street,,Birmingham
+2023-02-21,334650,B4 6LS,F,Y,L,65,Apartment 205,Shadwell Street,,Birmingham
+2023-02-21,227500,B4 6LS,F,Y,L,65,Apartment 201,Shadwell Street,,Birmingham
+2023-02-20,180000,B4 6HW,F,N,L,"City Heights, 82",Flat 21,Old Snow Hill,,Birmingham
+2023-02-20,279840,B4 6FW,F,Y,L,64,Apartment 1802,Shadwell Street,,Birmingham
+2023-02-15,463175,B4 6LS,F,Y,L,65,Apartment 404,Shadwell Street,,Birmingham
+2023-02-13,337075,B4 6LS,F,Y,L,65,Apartment 305,Shadwell Street,,Birmingham
+2023-02-09,285500,B4 6LS,F,Y,L,65,Apartment 409,Shadwell Street,,Birmingham
+2023-02-09,460000,B4 6LS,F,Y,L,65,Apartment 504,Shadwell Street,,Birmingham
+2023-02-08,362000,B4 6LS,F,Y,L,65,Apartment 605,Shadwell Street,,Birmingham
+2023-02-08,230000,B4 6LS,F,Y,L,65,Apartment 301,Shadwell Street,,Birmingham
+2023-02-08,225500,B4 6LS,F,Y,L,65,Apartment 302,Shadwell Street,,Birmingham
+2023-02-08,225000,B4 6LS,F,Y,L,65,Apartment 303,Shadwell Street,,Birmingham
+2023-02-08,235000,B4 6LS,F,Y,L,65,Apartment 501,Shadwell Street,,Birmingham
+2023-02-08,349650,B4 6LS,F,Y,L,65,Apartment 308,Shadwell Street,,Birmingham
+2023-02-06,358400,B4 6LS,F,Y,L,65,Apartment 405,Shadwell Street,,Birmingham
+2023-02-06,230000,B4 6LS,F,Y,L,65,Apartment 502,Shadwell Street,,Birmingham
+2023-02-06,360000,B4 6LS,F,Y,L,65,Apartment 506,Shadwell Street,,Birmingham
+2023-02-06,357500,B4 6LS,F,Y,L,65,Apartment 505,Shadwell Street,,Birmingham
+2023-02-06,288575,B4 6LS,F,Y,L,65,Apartment 509,Shadwell Street,,Birmingham
+2023-01-30,405769,B4 6LR,F,Y,L,64,Apartment 507,Shadwell Street,,Birmingham
+2023-01-27,402500,B4 6LS,F,Y,L,65,Apartment 607,Shadwell Street,,Birmingham
+2023-01-20,473250,B4 6FW,F,Y,L,64,Apartment 1702,Shadwell Street,,Birmingham
+2023-01-11,380000,B4 6LS,F,Y,L,65,Apartment 604,Shadwell Street,,Birmingham
+2023-01-11,230000,B4 6LS,F,Y,L,65,Apartment 602,Shadwell Street,,Birmingham
+2023-01-11,461688,B4 6FW,F,Y,L,64,Apartment 1701,Shadwell Street,,Birmingham
+2023-01-09,345345,B4 6LS,F,Y,L,65,Apartment 707,Shadwell Street,,Birmingham
+2023-01-09,242250,B4 6LR,F,Y,L,64,Apartment 1,Shadwell Street,,Birmingham
+2023-01-06,237500,B4 6LS,F,Y,L,65,Apartment 701,Shadwell Street,,Birmingham
+2023-01-06,380000,B4 6LS,F,Y,L,65,Apartment 704,Shadwell Street,,Birmingham
+2023-01-04,231337,B4 6LS,F,Y,L,65,Apartment 702,Shadwell Street,,Birmingham
+2022-12-15,429750,B4 6FW,F,Y,L,64,Apartment 906,Shadwell Street,,Birmingham
+2022-12-14,495200,B4 6FW,F,Y,L,64,Apartment 1601,Shadwell Street,,Birmingham
+2022-12-12,400000,B4 6LR,F,Y,L,64,Apartment 704,Shadwell Street,,Birmingham
+2022-12-06,276450,B4 6LR,F,Y,L,64,Apartment 402,Shadwell Street,,Birmingham
+2022-12-05,165000,B4 6HU,F,N,L,"Hub, 1",Apartment 35,Clive Passage,,Birmingham
+2022-11-30,385400,B4 6LP,F,Y,L,62,Apartment 607,Shadwell Street,,Birmingham
+2022-11-28,168500,B4 6HU,F,N,L,"Hub, 1",Apartment 54,Clive Passage,,Birmingham
+2022-11-25,289100,B4 6LP,F,Y,L,62,Apartment 704,Shadwell Street,,Birmingham
+2022-11-25,281300,B4 6FW,F,Y,L,64,Apartment 1503,Shadwell Street,,Birmingham
+2022-11-25,262625,B4 6FW,F,Y,L,64,Apartment 903,Shadwell Street,,Birmingham
+2022-11-25,377487,B4 6FW,F,Y,L,64,Apartment 905,Shadwell Street,,Birmingham
+2022-11-24,260000,B4 6FW,F,Y,L,64,Apartment 1401,Shadwell Street,,Birmingham
+2022-11-22,271600,B4 6FW,F,Y,L,64,Apartment 1501,Shadwell Street,,Birmingham
+2022-11-18,235225,B4 6FW,F,Y,L,64,Apartment 1001,Shadwell Street,,Birmingham
+2022-11-09,281750,B4 6FW,F,Y,L,64,Apartment 1502,Shadwell Street,,Birmingham
+2022-11-07,237500,B4 6LR,F,Y,L,64,Apartment 104,Shadwell Street,,Birmingham
+2022-11-03,232750,B4 6FW,F,Y,L,64,Apartment 904,Shadwell Street,,Birmingham
+2022-11-01,281750,B4 6FW,F,Y,L,64,Apartment 1403,Shadwell Street,,Birmingham
+2022-11-01,245000,B4 6FW,F,Y,L,64,Apartment 1404,Shadwell Street,,Birmingham
+2022-11-01,413120,B4 6FW,F,Y,L,64,Apartment 1405,Shadwell Street,,Birmingham
+2022-10-31,396221,B4 6LR,F,Y,L,64,Apartment 307,Shadwell Street,,Birmingham
+2022-10-31,242250,B4 6LR,F,Y,L,64,Apartment 004,Shadwell Street,,Birmingham
+2022-10-31,242550,B4 6FW,F,Y,L,64,Apartment 1304,Shadwell Street,,Birmingham
+2022-10-28,360418,B4 6LQ,F,Y,L,63,Apartment 1,Shadwell Street,,Birmingham
+2022-10-28,394250,B4 6FW,F,Y,L,64,Apartment 1406,Shadwell Street,,Birmingham
+2022-10-26,384000,B4 6LQ,F,Y,L,63,Apartment 309,Shadwell Street,,Birmingham
+2022-10-25,381600,B4 6LR,F,Y,L,64,Apartment 604,Shadwell Street,,Birmingham
+2022-10-24,387600,B4 6LR,F,Y,L,64,Apartment 106,Shadwell Street,,Birmingham
+2022-10-24,242550,B4 6FW,F,Y,L,64,Apartment 1201,Shadwell Street,,Birmingham
+2022-10-21,247200,B4 6LR,F,Y,L,64,Apartment 3,Shadwell Street,,Birmingham
+2022-10-21,261250,B4 6FW,F,Y,L,64,Apartment 1301,Shadwell Street,,Birmingham
+2022-10-21,276450,B4 6FW,F,Y,L,64,Apartment 1303,Shadwell Street,,Birmingham
+2022-10-21,398350,B4 6FW,F,Y,L,64,Apartment 1205,Shadwell Street,,Birmingham
+2022-10-21,397700,B4 6FW,F,Y,L,64,Apartment 1506,Shadwell Street,,Birmingham
+2022-10-21,274000,B4 6FW,F,Y,L,64,Apartment 1302,Shadwell Street,,Birmingham
+2022-10-17,393500,B4 6LS,F,Y,L,65,Apartment 1106,Shadwell Street,,Birmingham
+2022-10-17,247000,B4 6LR,F,Y,L,64,Apartment 504,Shadwell Street,,Birmingham
+2022-10-14,410000,B4 6FW,F,Y,L,64,Apartment 1206,Shadwell Street,,Birmingham
+2022-10-14,300000,B4 6FW,F,Y,L,64,Apartment 1202,Shadwell Street,,Birmingham
+2022-10-14,240000,B4 6FW,F,Y,L,64,Apartment 1204,Shadwell Street,,Birmingham
+2022-10-14,274000,B4 6FW,F,Y,L,64,Apartment 1203,Shadwell Street,,Birmingham
+2022-10-13,380000,B4 6LR,F,Y,L,64,Apartment 506,Shadwell Street,,Birmingham
+2022-10-13,249900,B4 6LR,F,Y,L,64,Apartment 602,Shadwell Street,,Birmingham
+2022-10-13,406000,B4 6FW,F,Y,L,64,Apartment 1006,Shadwell Street,,Birmingham
+2022-10-13,237650,B4 6FW,F,Y,L,64,Apartment 1104,Shadwell Street,,Birmingham
+2022-10-13,255000,B4 6FW,F,Y,L,64,Apartment 1101,Shadwell Street,,Birmingham
+2022-10-12,267050,B4 6FW,F,Y,L,64,Apartment 1103,Shadwell Street,,Birmingham
+2022-10-12,413600,B4 6FW,F,Y,L,64,Apartment 1005,Shadwell Street,,Birmingham
+2022-10-12,261725,B4 6FW,F,Y,L,64,Apartment 1002,Shadwell Street,,Birmingham
+2022-10-12,266400,B4 6FW,F,Y,L,64,Apartment 1102,Shadwell Street,,Birmingham
+2022-10-11,363750,B4 6LR,F,Y,L,64,Apartment 601,Shadwell Street,,Birmingham
+2022-10-11,450000,B4 6LR,F,Y,L,64,Apartment 705,Shadwell Street,,Birmingham
+2022-10-10,348790,B4 6LR,F,Y,L,64,Apartment 503,Shadwell Street,,Birmingham
+2022-10-07,271950,B4 6FW,F,Y,L,64,Apartment 1003,Shadwell Street,,Birmingham
+2022-10-06,227500,B4 6LR,F,Y,L,64,Apartment 702,Shadwell Street,,Birmingham
+2022-09-30,259350,B4 6FW,F,Y,L,64,Apartment 902,Shadwell Street,,Birmingham
+2022-09-29,257500,B4 6LR,F,Y,L,64,Apartment 404,Shadwell Street,,Birmingham
+2022-09-29,390975,B4 6LR,F,Y,L,64,Apartment 401,Shadwell Street,,Birmingham
+2022-09-29,249775,B4 6LR,F,Y,L,64,Apartment 502,Shadwell Street,,Birmingham
+2022-09-22,391000,B4 6LR,F,Y,L,64,Apartment 801,Shadwell Street,,Birmingham
+2022-09-21,242250,B4 6LR,F,Y,L,64,Apartment 401,Shadwell Street,,Birmingham
+2022-09-15,360000,B4 6LR,F,Y,L,64,Apartment 203,Shadwell Street,,Birmingham
+2022-09-14,239875,B4 6LR,F,Y,L,64,Apartment 202,Shadwell Street,,Birmingham
+2022-09-13,267450,B4 6LR,F,Y,L,64,Apartment 405,Shadwell Street,,Birmingham
+2022-09-13,400000,B4 6LQ,F,Y,L,63,Apartment 404,Shadwell Street,,Birmingham
+2022-09-12,225525,B4 6LR,F,Y,L,64,Apartment 802,Shadwell Street,,Birmingham
+2022-09-07,241000,B4 6LR,F,Y,L,64,Apartment 204,Shadwell Street,,Birmingham
+2022-09-05,384000,B4 6LQ,F,Y,L,63,Apartment 301,Shadwell Street,,Birmingham
+2022-08-31,240000,B4 6LR,F,Y,L,64,Apartment 305,Shadwell Street,,Birmingham
+2022-08-31,342000,B4 6LQ,F,Y,L,63,Apartment 506,Shadwell Street,,Birmingham
+2022-08-30,242250,B4 6LR,F,Y,L,64,Apartment 304,Shadwell Street,,Birmingham
+2022-08-26,237650,B4 6LR,F,Y,L,64,Apartment 101,Shadwell Street,,Birmingham
+2022-08-26,323000,B4 6LQ,F,Y,L,63,Apartment 502,Shadwell Street,,Birmingham
+2022-08-26,325000,B4 6LQ,F,Y,L,63,Apartment 107,Shadwell Street,,Birmingham
+2022-08-19,232750,B4 6LR,F,Y,L,64,Apartment 105,Shadwell Street,,Birmingham
+2022-08-19,368000,B4 6LR,F,Y,L,64,Apartment 206,Shadwell Street,,Birmingham
+2022-08-19,245000,B4 6LR,F,Y,L,64,Apartment 302,Shadwell Street,,Birmingham
+2022-08-19,340000,B4 6LQ,F,Y,L,63,Apartment 4,Shadwell Street,,Birmingham
+2022-08-17,250000,B4 6LR,F,Y,L,64,Apartment 205,Shadwell Street,,Birmingham
+2022-08-16,352000,B4 6LQ,F,Y,L,63,Apartment 3,Shadwell Street,,Birmingham
+2022-07-28,665000,B4 6LQ,F,N,L,63,Apartment 707,Shadwell Street,,Birmingham
+2022-07-28,347500,B4 6LQ,F,Y,L,63,Apartment 306,Shadwell Street,,Birmingham
+2022-07-20,334875,B4 6LQ,F,Y,L,63,Apartment 405,Shadwell Street,,Birmingham
+2022-07-15,642500,B4 6LP,F,N,L,62,Apartment 807,Shadwell Street,,Birmingham
+2022-07-05,189950,B4 6LL,F,Y,L,61,Apartment 5,Shadwell Street,,Birmingham
+2022-06-30,335000,B4 6LQ,F,Y,L,63,Apartment 507,Shadwell Street,,Birmingham
+2022-06-27,316800,B4 6LQ,F,Y,L,63,Apartment 303,Shadwell Street,,Birmingham
+2022-06-22,347000,B4 6LQ,F,Y,L,63,Apartment 608,Shadwell Street,,Birmingham
+2022-06-21,324000,B4 6LQ,F,Y,L,63,Apartment 602,Shadwell Street,,Birmingham
+2022-06-17,299500,B4 6LL,F,Y,L,61,Apartment 214,Shadwell Street,,Birmingham
+2022-06-15,322500,B4 6LQ,F,Y,L,63,Apartment 408,Shadwell Street,,Birmingham
+2022-06-15,330000,B4 6LQ,F,Y,L,63,Apartment 403,Shadwell Street,,Birmingham
+2022-06-10,254500,B4 6LQ,F,Y,L,63,Apartment 208,Shadwell Street,,Birmingham
+2022-06-08,319000,B4 6LQ,F,Y,L,63,Apartment 304,Shadwell Street,,Birmingham
+2022-06-08,304000,B4 6LQ,F,Y,L,63,Apartment 207,Shadwell Street,,Birmingham
+2022-06-01,340000,B4 6LQ,F,N,L,63,Apartment 508,Shadwell Street,,Birmingham
+2022-06-01,340000,B4 6LQ,F,Y,L,63,Apartment 109,Shadwell Street,,Birmingham
+2022-05-31,226000,B4 6LL,F,N,L,61,Apartment 405,Shadwell Street,,Birmingham
+2022-05-27,320000,B4 6LQ,F,Y,L,63,Apartment 402,Shadwell Street,,Birmingham
+2022-05-27,346000,B4 6LP,F,Y,L,62,Apartment 302,Shadwell Street,,Birmingham
+2022-05-20,318500,B4 6LQ,F,Y,L,63,Apartment 407,Shadwell Street,,Birmingham
+2022-05-10,328000,B4 6LQ,F,Y,L,63,Apartment 409,Shadwell Street,,Birmingham
+2022-05-10,330000,B4 6LQ,F,Y,L,63,Apartment 509,Shadwell Street,,Birmingham
+2022-05-04,337000,B4 6LQ,F,Y,L,63,Apartment 302,Shadwell Street,,Birmingham
+2022-05-03,327960,B4 6LQ,F,Y,L,63,Apartment 607,Shadwell Street,,Birmingham
+2022-04-29,335000,B4 6LQ,F,Y,L,63,Apartment 606,Shadwell Street,,Birmingham
+2022-04-29,312550,B4 6LQ,F,Y,L,63,Apartment 504,Shadwell Street,,Birmingham
+2022-04-28,252000,B4 6LQ,F,Y,L,63,Apartment 108,Shadwell Street,,Birmingham
+2022-04-28,339675,B4 6LQ,F,Y,L,63,Apartment 605,Shadwell Street,,Birmingham
+2022-04-28,324950,B4 6LQ,F,Y,L,63,Apartment 603,Shadwell Street,,Birmingham
+2022-04-22,335000,B4 6LL,F,Y,L,61,Apartment 601,Shadwell Street,,Birmingham
+2022-04-14,345510,B4 6LP,F,Y,L,62,Apartment 502,Shadwell Street,,Birmingham
+2022-04-12,350000,B4 6LQ,F,Y,L,63,Apartment 308,Shadwell Street,,Birmingham
+2022-04-08,395000,B4 6LL,F,Y,L,61,Apartment 2,Shadwell Street,,Birmingham
+2022-04-05,342500,B4 6GQ,T,N,L,90,,Lower Loveday Street,,Birmingham
+2022-04-01,317600,B4 6LQ,F,Y,L,63,Apartment 209,Shadwell Street,,Birmingham
+2022-04-01,312800,B4 6LQ,F,Y,L,63,Apartment 503,Shadwell Street,,Birmingham
+2022-03-31,335000,B4 6LQ,F,Y,L,63,Apartment 604,Shadwell Street,,Birmingham
+2022-03-31,341000,B4 6LP,F,Y,L,62,Apartment 102,Shadwell Street,,Birmingham
+2022-03-25,235500,B4 6LP,F,Y,L,62,Apartment 305,Shadwell Street,,Birmingham
+2022-03-23,250040,B4 6LP,F,Y,L,62,Apartment 4,Shadwell Street,,Birmingham
+2022-03-22,235225,B4 6LP,F,Y,L,62,Apartment 703,Shadwell Street,,Birmingham
+2022-03-16,245310,B4 6LP,F,Y,L,62,Apartment 505,Shadwell Street,,Birmingham
+2022-03-16,356000,B4 6LP,F,Y,L,62,Apartment 301,Shadwell Street,,Birmingham
+2022-03-15,351000,B4 6LP,F,Y,L,62,Apartment 401,Shadwell Street,,Birmingham
+2022-03-04,223500,B4 6LP,F,Y,L,62,Apartment 403,Shadwell Street,,Birmingham
+2022-03-04,230500,B4 6LP,F,Y,L,62,Apartment 105,Shadwell Street,,Birmingham
+2022-03-03,376000,B4 6LP,F,Y,L,62,Apartment 507,Shadwell Street,,Birmingham
+2022-03-01,221000,B4 6LP,F,Y,L,62,Apartment 303,Shadwell Street,,Birmingham
+2022-02-25,247000,B4 6LP,F,Y,L,62,Apartment 408,Shadwell Street,,Birmingham
+2022-02-25,500000,B4 6LP,F,Y,L,62,Apartment 804,Shadwell Street,,Birmingham
+2022-02-24,610000,B4 6LP,F,Y,L,62,Apartment 801,Shadwell Street,,Birmingham
+2022-02-24,381000,B4 6LP,F,Y,L,62,Apartment 707,Shadwell Street,,Birmingham
+2022-02-22,237660,B4 6LP,F,Y,L,62,Apartment 204,Shadwell Street,,Birmingham
+2022-02-18,240500,B4 6LP,F,Y,L,62,Apartment 504,Shadwell Street,,Birmingham
+2022-02-17,765000,B4 6LP,F,Y,L,62,Apartment 802,Shadwell Street,,Birmingham
+2022-02-16,226000,B4 6LP,F,Y,L,62,Apartment 503,Shadwell Street,,Birmingham
+2022-02-16,238000,B4 6LP,F,Y,L,62,Apartment 404,Shadwell Street,,Birmingham
+2022-02-15,364561,B4 6LP,F,N,L,62,Apartment 202,Shadwell Street,,Birmingham
+2022-02-10,250410,B4 6LP,F,Y,L,62,Apartment 708,Shadwell Street,,Birmingham
+2022-02-10,250410,B4 6LP,F,Y,L,62,Apartment 709,Shadwell Street,,Birmingham
+2022-02-09,245500,B4 6LP,F,Y,L,62,Apartment 705,Shadwell Street,,Birmingham
+2022-02-09,233000,B4 6LP,F,Y,L,62,Apartment 205,Shadwell Street,,Birmingham
+2022-02-09,381000,B4 6LP,F,Y,L,62,Apartment 706,Shadwell Street,,Birmingham
+2022-02-09,243000,B4 6LP,F,Y,L,62,Apartment 609,Shadwell Street,,Birmingham
+2022-02-08,376000,B4 6LP,F,Y,L,62,Apartment 307,Shadwell Street,,Birmingham
+2022-02-08,359560,B4 6LP,F,Y,L,62,Apartment 702,Shadwell Street,,Birmingham
+2022-02-07,243000,B4 6LP,F,Y,L,62,Apartment 608,Shadwell Street,,Birmingham
+2022-02-07,349460,B4 6LP,F,Y,L,62,Apartment 701,Shadwell Street,,Birmingham
+2022-02-04,377035,B4 6LP,F,Y,L,62,Apartment 602,Shadwell Street,,Birmingham
+2022-02-04,233070,B4 6LP,F,Y,L,62,Apartment 603,Shadwell Street,,Birmingham
+2022-02-04,378500,B4 6LP,F,Y,L,62,Apartment 606,Shadwell Street,,Birmingham
+2022-02-04,344410,B4 6LP,F,Y,L,62,Apartment 501,Shadwell Street,,Birmingham
+2022-02-04,350443,B4 6LP,F,Y,L,62,Apartment 201,Shadwell Street,,Birmingham
+2022-02-03,231874,B4 6LP,F,Y,L,62,Apartment 203,Shadwell Street,,Birmingham
+2022-02-03,245310,B4 6LP,F,Y,L,62,Apartment 509,Shadwell Street,,Birmingham
+2022-02-03,343500,B4 6LP,F,Y,L,62,Apartment 601,Shadwell Street,,Birmingham
+2022-01-31,238000,B4 6LP,F,Y,L,62,Apartment 409,Shadwell Street,,Birmingham
+2022-01-31,242760,B4 6LP,F,Y,L,62,Apartment 405,Shadwell Street,,Birmingham
+2022-01-31,368500,B4 6LP,F,Y,L,62,Apartment 206,Shadwell Street,,Birmingham
+2022-01-28,235500,B4 6LP,F,Y,L,62,Apartment 309,Shadwell Street,,Birmingham
+2022-01-27,230500,B4 6LP,F,Y,L,62,Apartment 108,Shadwell Street,,Birmingham
+2022-01-27,366000,B4 6LP,F,Y,L,62,Apartment 106,Shadwell Street,,Birmingham
+2022-01-27,235500,B4 6LP,F,Y,L,62,Apartment 304,Shadwell Street,,Birmingham
+2022-01-26,230500,B4 6LP,F,Y,L,62,Apartment 104,Shadwell Street,,Birmingham
+2022-01-26,233000,B4 6LP,F,Y,L,62,Apartment 209,Shadwell Street,,Birmingham
+2022-01-25,233000,B4 6LP,F,Y,L,62,Apartment 208,Shadwell Street,,Birmingham
+2022-01-24,216000,B4 6LP,F,Y,L,62,Apartment 103,Shadwell Street,,Birmingham
+2022-01-24,351000,B4 6LP,F,Y,L,62,Apartment 107,Shadwell Street,,Birmingham
+2022-01-21,375000,B4 6LP,F,Y,L,62,Apartment 402,Shadwell Street,,Birmingham
+2022-01-20,365670,B4 6LP,F,Y,L,62,Apartment 407,Shadwell Street,,Birmingham
+2022-01-19,372500,B4 6LP,F,Y,L,62,Apartment 5,Shadwell Street,,Birmingham
+2022-01-19,250042,B4 6LP,F,Y,L,62,Apartment 7,Shadwell Street,,Birmingham
+2022-01-18,258000,B4 6LP,F,Y,L,62,Apartment 605,Shadwell Street,,Birmingham
+2021-12-16,500000,B4 6LP,F,Y,L,62,Apartment 805,Shadwell Street,,Birmingham
+2021-12-07,255840,B4 6LL,F,Y,L,61,Apartment 603,Shadwell Street,,Birmingham
+2021-09-29,305000,B4 6LL,F,Y,L,61,Apartment 313,Shadwell Street,,Birmingham
+2021-09-09,228000,B4 6LL,F,Y,L,61,Apartment 12,Shadwell Street,,Birmingham
+2021-09-09,297000,B4 6LL,F,Y,L,61,Apartment 13,Shadwell Street,,Birmingham
+2021-09-07,209500,B4 6LL,F,Y,L,61,Apartment 111,Shadwell Street,,Birmingham
+2021-08-27,390000,B4 6LL,F,Y,L,61,Apartment 501,Shadwell Street,,Birmingham
+2021-08-26,217500,B4 6NS,F,N,L,"Comet Works, 44 - 47",Apartment 8,Princip Street,,Birmingham
+2021-08-19,302000,B4 6LL,F,N,L,61,Apartment 212,Shadwell Street,,Birmingham
+2021-08-09,450000,B4 6LL,F,Y,L,61,Apartment 502,Shadwell Street,,Birmingham
+2021-07-28,225000,B4 6LL,F,Y,L,61,Apartment 207,Shadwell Street,,Birmingham
+2021-07-23,343332,B4 6LL,F,Y,L,61,Apartment 408,Shadwell Street,,Birmingham
+2021-07-21,208575,B4 6LL,F,Y,L,61,Apartment 205,Shadwell Street,,Birmingham
+2021-07-21,237660,B4 6LL,F,Y,L,61,Apartment 507,Shadwell Street,,Birmingham
+2021-07-21,210000,B4 6LL,F,Y,L,61,Apartment 206,Shadwell Street,,Birmingham
+2021-07-16,215883,B4 6LL,F,N,L,61,Apartment 405,Shadwell Street,,Birmingham
+2021-07-14,232009,B4 6LL,F,Y,L,61,Apartment 107,Shadwell Street,,Birmingham
+2021-07-12,220000,B4 6LL,F,Y,L,61,Apartment 203,Shadwell Street,,Birmingham
+2021-07-09,216240,B4 6LL,F,Y,L,61,Apartment 510,Shadwell Street,,Birmingham
+2021-07-01,189950,B4 6LL,F,Y,L,61,Apartment 4,Shadwell Street,,Birmingham
+2021-06-30,233000,B4 6LL,F,Y,L,61,Apartment 213,Shadwell Street,,Birmingham
+2021-06-30,212000,B4 6LL,F,Y,L,61,Apartment 211,Shadwell Street,,Birmingham
+2021-06-29,211171,B4 6LL,F,Y,L,61,Apartment 6,Shadwell Street,,Birmingham
+2021-06-29,214200,B4 6LL,F,Y,L,61,Apartment 505,Shadwell Street,,Birmingham
+2021-06-29,382230,B4 6LL,F,Y,L,61,Apartment 401,Shadwell Street,,Birmingham
+2021-06-29,217500,B4 6LL,F,Y,L,61,Apartment 504,Shadwell Street,,Birmingham
+2021-06-28,251000,B4 6LL,F,Y,L,61,Apartment 312,Shadwell Street,,Birmingham
+2021-06-28,207000,B4 6LL,F,Y,L,61,Apartment 310,Shadwell Street,,Birmingham
+2021-06-25,204500,B4 6LL,F,Y,L,61,Apartment 210,Shadwell Street,,Birmingham
+2021-06-25,215000,B4 6LL,F,Y,L,61,Apartment 406,Shadwell Street,,Birmingham
+2021-06-25,338000,B4 6LL,F,Y,L,61,Apartment 208,Shadwell Street,,Birmingham
+2021-06-25,304500,B4 6LL,F,Y,L,61,Apartment 413,Shadwell Street,,Birmingham
+2021-06-25,227500,B4 6LL,F,Y,L,61,Apartment 503,Shadwell Street,,Birmingham
+2021-06-24,309029,B4 6LL,F,Y,L,61,Apartment 114,Shadwell Street,,Birmingham
+2021-06-24,249000,B4 6LL,F,Y,L,61,Apartment 703,Shadwell Street,,Birmingham
+2021-06-24,230500,B4 6LL,F,Y,L,61,Apartment 407,Shadwell Street,,Birmingham
+2021-06-24,209500,B4 6LL,F,Y,L,61,Apartment 410,Shadwell Street,,Birmingham
+2021-06-24,312151,B4 6LL,F,Y,L,61,Apartment 701,Shadwell Street,,Birmingham
+2021-06-24,323998,B4 6LL,F,Y,L,61,Apartment 704,Shadwell Street,,Birmingham
+2021-06-23,307000,B4 6LL,F,Y,L,61,Apartment 513,Shadwell Street,,Birmingham
+2021-06-23,329500,B4 6LL,F,Y,L,61,Apartment 604,Shadwell Street,,Birmingham
+2021-06-23,217500,B4 6LL,F,Y,L,61,Apartment 103,Shadwell Street,,Birmingham
+2021-06-23,241500,B4 6LL,F,Y,L,61,Apartment 512,Shadwell Street,,Birmingham
+2021-06-22,212000,B4 6LL,F,Y,L,61,Apartment 509,Shadwell Street,,Birmingham
+2021-06-22,327500,B4 6LL,F,Y,L,61,Apartment 308,Shadwell Street,,Birmingham
+2021-06-22,332500,B4 6LL,F,Y,L,61,Apartment 508,Shadwell Street,,Birmingham
+2021-06-22,214500,B4 6LL,F,Y,L,61,Apartment 311,Shadwell Street,,Birmingham
+2021-06-21,219300,B4 6LL,F,Y,L,61,Apartment 404,Shadwell Street,,Birmingham
+2021-06-21,212500,B4 6LL,F,Y,L,61,Apartment 304,Shadwell Street,,Birmingham
+2021-06-21,219500,B4 6LL,F,Y,L,61,Apartment 511,Shadwell Street,,Birmingham
+2021-06-21,223500,B4 6LL,F,Y,L,61,Apartment 411,Shadwell Street,,Birmingham
+2021-06-18,215883,B4 6LL,F,Y,L,61,Apartment 106,Shadwell Street,,Birmingham
+2021-06-18,470000,B4 6LL,F,Y,L,61,Apartment 302,Shadwell Street,,Birmingham
+2021-06-18,221085,B4 6LL,F,Y,L,61,Apartment 306,Shadwell Street,,Birmingham
+2021-06-18,210000,B4 6LL,F,Y,L,61,Apartment 204,Shadwell Street,,Birmingham
+2021-06-18,207000,B4 6LL,F,Y,L,61,Apartment 309,Shadwell Street,,Birmingham
+2021-06-18,490000,B4 6LL,F,Y,L,61,Apartment 402,Shadwell Street,,Birmingham
+2021-06-17,222500,B4 6LL,F,Y,L,61,Apartment 303,Shadwell Street,,Birmingham
+2021-06-17,319434,B4 6LL,F,N,L,61,Apartment 112,Shadwell Street,,Birmingham
+2021-06-17,390560,B4 6LL,F,Y,L,61,Apartment 201,Shadwell Street,,Birmingham
+2021-06-17,230500,B4 6LL,F,Y,L,61,Apartment 113,Shadwell Street,,Birmingham
+2021-06-16,332240,B4 6LL,F,Y,L,61,Apartment 108,Shadwell Street,,Birmingham
+2021-06-16,332240,B4 6LL,F,Y,L,61,Apartment 108,Shadwell Street,,Birmingham
+2021-06-16,208080,B4 6LL,F,Y,L,61,Apartment 105,Shadwell Street,,Birmingham
+2021-06-15,236826,B4 6LL,F,Y,L,61,Apartment 7,Shadwell Street,,Birmingham
+2021-06-15,191500,B4 6LL,F,Y,L,61,Apartment 10,Shadwell Street,,Birmingham
+2021-06-15,215883,B4 6LL,F,Y,L,61,Apartment 104,Shadwell Street,,Birmingham
+2021-06-11,225000,B4 6LL,F,Y,L,61,Apartment 403,Shadwell Street,,Birmingham
+2021-06-11,429598,B4 6LL,F,Y,L,61,Apartment 602,Shadwell Street,,Birmingham
+2021-06-11,387726,B4 6LL,F,Y,L,61,Apartment 1,Shadwell Street,,Birmingham
+2021-06-11,434497,B4 6LL,F,Y,L,61,Apartment 702,Shadwell Street,,Birmingham
+2021-06-11,246771,B4 6LL,F,Y,L,61,Apartment 307,Shadwell Street,,Birmingham
+2021-06-11,442188,B4 6LL,F,Y,L,61,Apartment 202,Shadwell Street,,Birmingham
+2021-06-11,202000,B4 6LL,F,Y,L,61,Apartment 110,Shadwell Street,,Birmingham
+2021-06-11,206040,B4 6LL,F,Y,L,61,Apartment 109,Shadwell Street,,Birmingham
+2021-05-28,345000,B4 6HG,F,N,L,101,Apartment 4,Bath Street,,Birmingham
+2021-05-24,209500,B4 6LL,F,N,L,61,Apartment 409,Shadwell Street,,Birmingham
+2021-05-10,505000,B4 6HG,F,N,L,101,Apartment 1,Bath Street,,Birmingham

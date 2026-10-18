@@ -1,0 +1,1001 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-07,170000,L30 2QE,T,N,F,7,,Wiltshire Drive,,Bootle
+2026-07-30,325000,L30 8RF,T,N,F,25,,Netherton Grange,,Bootle
+2026-07-24,130000,L30 0QZ,T,N,F,88,,Stonyfield,,Bootle
+2026-07-22,190000,L30 1RS,S,N,F,88,,Marina Crescent,,Bootle
+2026-07-17,50000,L30 2PW,T,N,F,75,,Sterrix Lane,,Bootle
+2026-07-09,214000,L30 1PN,S,N,F,55,,Abbeystead Avenue,,Bootle
+2026-07-09,253500,L30 1BB,D,N,F,20,,Lingfield Close,Netherton,Bootle
+2026-07-03,185000,L30 8SE,S,N,F,67,,Primary Avenue,,Bootle
+2026-07-03,210000,L30 1PQ,S,N,F,38,,Parkfield Avenue,,Bootle
+2026-06-30,95000,L30 5QJ,T,N,F,5,,Peterborough Drive,,Bootle
+2026-06-26,150000,L30 5SB,T,N,F,43,,Louis Pasteur Avenue,,Bootle
+2026-06-26,152500,L30 3TZ,T,N,F,14,,St Ambrose Croft,,Bootle
+2026-06-22,172000,L30 5RE,T,N,F,21,,Sherborne Avenue,,Bootle
+2026-06-18,155000,L30 1SB,S,N,F,20,,Marlborough Avenue,,Bootle
+2026-06-17,165000,L30 5SB,T,N,F,1,,Louis Pasteur Avenue,,Bootle
+2026-06-17,110000,L30 5RJ,T,N,F,1,,John Hunter Way,,Bootle
+2026-06-12,165000,L30 3TF,T,N,L,32,,The Marian Way,,Bootle
+2026-06-10,145000,L30 2PA,T,N,L,49,,Randall Drive,,Bootle
+2026-05-29,215000,L30 7PH,S,N,F,41,,Apollo Way,,Bootle
+2026-05-29,120000,L30 5QS,T,N,F,29,,Canterbury Way,,Bootle
+2026-05-29,175000,L30 3UA,T,N,F,13,,Barnfield Close,,Bootle
+2026-05-29,180000,L30 1PQ,S,N,F,4,,Parkfield Avenue,,Bootle
+2026-05-26,180000,L30 5QG,S,N,F,2C,,St Oswalds Lane,,Bootle
+2026-05-22,175000,L30 8RZ,T,N,F,45,,Deerbarn Drive,,Bootle
+2026-05-22,120500,L30 5QW,T,N,F,22,,Glovers Lane,,Bootle
+2026-05-19,160000,L30 8SE,T,N,F,57,,Primary Avenue,,Bootle
+2026-05-19,140000,L30 2QL,S,N,F,18,,Dale Acre Drive,,Bootle
+2026-05-15,160000,L30 8SE,T,N,F,47,,Primary Avenue,,Bootle
+2026-05-15,165000,L30 5QD,T,N,F,39,,St Oswalds Lane,,Bootle
+2026-05-15,60000,L30 2QY,F,N,L,22,,St Christophers Avenue,,Bootle
+2026-05-13,170000,L30 5QX,T,N,F,7,,Downside Close,,Bootle
+2026-05-13,116000,L30 3TG,T,N,F,98,,The Marian Way,,Bootle
+2026-05-08,57000,L30 3TS,F,N,L,24,,St Damians Croft,,Bootle
+2026-05-08,100000,L30 0PP,T,N,F,13,,Mill Court,,Bootle
+2026-05-01,130000,L30 3TX,T,N,F,21,,All Saints Close,,Bootle
+2026-04-30,155000,L30 3SR,T,N,F,7,,Sarahs Croft,,Bootle
+2026-04-27,260000,L30 7QL,S,N,F,11,,The Scythes,,Bootle
+2026-04-24,164000,L30 3SW,T,N,L,22,,Bridge Lane,,Bootle
+2026-04-24,155000,L30 2NH,T,N,F,2,,St Dunstans Grove,,Bootle
+2026-04-24,207000,L30 1RA,S,N,L,87,,Longridge Drive,,Bootle
+2026-04-21,120000,L30 5SD,T,N,F,26,,Louis Pasteur Avenue,,Bootle
+2026-04-15,210000,L30 1PN,S,N,F,39,,Abbeystead Avenue,,Bootle
+2026-04-10,219950,L30 3SX,S,N,F,57,,Park Lane West,,Bootle
+2026-04-10,250000,L30 1RT,D,N,L,21,,Lunt Avenue,,Bootle
+2026-04-10,204000,L30 1RS,S,N,F,96,,Marina Crescent,,Bootle
+2026-04-02,150000,L30 5RD,T,N,F,45,,Ronald Ross Avenue,,Bootle
+2026-04-02,65000,L30 2PD,F,N,L,6,,Randall Drive,,Bootle
+2026-03-31,140000,L30 1SG,S,N,L,33,,Petersfield Close,,Bootle
+2026-03-30,125000,L30 2RN,S,N,F,29,,St Monicas Drive,,Bootle
+2026-03-27,190000,L30 8RD,S,N,F,36,,Copy Lane,,Bootle
+2026-03-27,350000,L30 7RS,D,N,F,47,,Barberry Crescent,,Bootle
+2026-03-27,192500,L30 2SD,S,N,F,12,,Morgan Mews,,Bootle
+2026-03-25,180000,L30 8SB,S,N,F,21,,Marl Road,,Bootle
+2026-03-20,195000,L30 7QG,S,N,L,1,,Newark Close,,Bootle
+2026-03-18,268000,L30 7PN,D,N,F,117,,Lunar Drive,,Bootle
+2026-03-12,142500,L30 0PF,T,N,F,9,,Hilton Court,,Bootle
+2026-03-11,187500,L30 8RD,S,N,F,32,,Copy Lane,,Bootle
+2026-03-06,285000,L30 6YG,D,N,L,16,,Regent Avenue,,Bootle
+2026-03-06,165000,L30 2RU,T,N,F,103,,Simons Croft,,Bootle
+2026-03-06,180000,L30 2PA,S,N,F,19,,Randall Drive,,Bootle
+2026-02-27,220000,L30 7QB,S,N,L,30,,Castleton Drive,,Bootle
+2026-02-27,190000,L30 7PJ,T,N,F,54,,Apollo Way,,Bootle
+2026-02-27,265000,L30 6YG,D,N,L,51,,Regent Avenue,,Bootle
+2026-02-27,171000,L30 5QE,T,N,F,65,,St Oswalds Lane,,Bootle
+2026-02-27,145000,L30 1RT,T,N,L,45,,Lunt Avenue,,Bootle
+2026-02-27,150500,L30 0RD,T,N,F,4,,Parkway,,Bootle
+2026-02-26,230000,L30 7QX,D,N,F,7,,The Threshers,,Bootle
+2026-02-19,275000,L30 6YE,D,N,L,11,,Richmond Crescent,,Bootle
+2026-02-16,140000,L30 1QZ,T,N,L,174,,Hereford Drive,,Bootle
+2026-02-13,92500,L30 3SH,F,N,L,13,,Columban Close,,Bootle
+2026-02-12,120000,L30 2QR,T,N,F,31,,Blyth Hey,,Bootle
+2026-02-11,117000,L30 5QS,T,N,F,31,,Canterbury Way,,Bootle
+2026-02-02,180000,L30 1QA,S,N,L,35,,Park Lane,Netherton,Bootle
+2026-01-30,210000,L30 8RW,S,N,F,8,,Homestead Avenue,,Bootle
+2026-01-30,200000,L30 7QJ,S,N,F,25,,Harvester Way,,Bootle
+2026-01-30,152500,L30 5QD,T,N,F,55,,St Oswalds Lane,,Bootle
+2026-01-21,165000,L30 5RX,S,N,F,11,,Marie Curie Avenue,,Bootle
+2026-01-19,148500,L30 5QE,T,N,F,79,,St Oswalds Lane,,Bootle
+2026-01-09,185000,L30 8RP,T,N,F,55,,Dooley Drive,,Bootle
+2026-01-09,128000,L30 1QU,T,N,F,18,,Coventry Avenue,,Bootle
+2025-12-22,166500,L30 7QW,S,N,F,4,,The Carters,,Bootle
+2025-12-19,140000,L30 2SD,T,N,F,14,,Morgan Mews,,Bootle
+2025-12-19,210000,L30 1SB,S,N,F,10,,Marlborough Avenue,,Bootle
+2025-12-19,170000,L30 1PW,S,N,F,48,,Abbeystead Avenue,,Bootle
+2025-12-18,75000,L30 9TB,F,N,L,16,,Atlantic Way,,Bootle
+2025-12-12,185000,L30 7PJ,S,N,F,72,,Apollo Way,,Bootle
+2025-12-12,165000,L30 1PN,S,N,F,21,,Abbeystead Avenue,,Bootle
+2025-12-11,144000,L30 2NS,T,N,F,11,,Green Hey Drive,,Bootle
+2025-12-10,100000,L30 5RT,S,N,F,2,,James Simpson Way,,Bootle
+2025-12-10,140000,L30 1QX,T,N,F,229,,Hereford Drive,,Bootle
+2025-12-09,115000,L30 0RA,T,N,F,28,,Waterside,,Bootle
+2025-12-05,143100,L30 5RE,T,N,F,11,,Sherborne Avenue,,Bootle
+2025-12-04,135000,L30 2QA,T,N,F,1,,St Michaels Grove,,Bootle
+2025-12-01,128000,L30 2NH,T,N,F,5,,St Dunstans Grove,,Bootle
+2025-12-01,197770,L30 1RP,S,N,F,87,,Marina Crescent,,Bootle
+2025-11-28,278000,L30 7RN,D,N,F,8,,Hollinhey Close,,Bootle
+2025-11-28,187000,L30 7PN,S,N,F,109,,Lunar Drive,,Bootle
+2025-11-28,145000,L30 5RJ,T,N,F,18,,John Hunter Way,,Bootle
+2025-11-27,125000,L30 2RD,S,N,F,32,,Swifts Lane,,Bootle
+2025-11-25,250000,L30 1BB,D,N,F,4,,Lingfield Close,Netherton,Bootle
+2025-11-21,148000,L30 8RP,T,N,F,23,,Dooley Drive,,Bootle
+2025-11-21,167000,L30 2PA,T,N,F,55,,Randall Drive,,Bootle
+2025-11-18,165000,L30 3SG,S,N,F,1,,Elton Avenue,,Bootle
+2025-11-17,180000,L30 5QJ,S,N,F,29,,Peterborough Drive,,Bootle
+2025-11-04,240000,L30 0AH,T,Y,F,6,,Firgrove Close,,Bootle
+2025-11-03,177000,L30 5SQ,T,N,F,128,,Albert Schweitzer Avenue,,Bootle
+2025-11-03,125000,L30 5QZ,T,N,F,62,,Westminster Avenue,,Bootle
+2025-10-31,58204,L30 5RX,T,N,F,29,,Marie Curie Avenue,,Bootle
+2025-10-31,230000,L30 3SX,S,N,F,49,,Park Lane West,,Bootle
+2025-10-31,167000,L30 1RT,T,N,L,50,,Lunt Avenue,,Bootle
+2025-10-31,120000,L30 1RT,T,N,L,24,,Lunt Avenue,,Bootle
+2025-10-31,210000,L30 1RA,S,N,L,95,,Longridge Drive,,Bootle
+2025-10-31,175000,L30 1PG,S,N,F,27,,Parkfield Avenue,,Bootle
+2025-10-28,138000,L30 2QE,T,N,F,5,,Wiltshire Drive,,Bootle
+2025-10-28,200000,L30 1RZ,S,N,F,20,,Jubilee Drive,,Bootle
+2025-10-17,138000,L30 5SG,S,N,F,74,,Albert Schweitzer Avenue,,Bootle
+2025-10-17,138000,L30 5SD,T,N,F,36,,Louis Pasteur Avenue,,Bootle
+2025-10-17,240000,L30 0AH,T,N,F,2,,Firgrove Close,,Bootle
+2025-10-16,301000,L30 8RF,S,N,F,45,,Netherton Grange,,Bootle
+2025-10-13,163000,L30 3SS,T,N,F,10,,Sarahs Croft,,Bootle
+2025-09-30,120000,L30 5SB,T,N,F,3,,Louis Pasteur Avenue,,Bootle
+2025-09-29,200000,L30 7RG,S,N,F,26,,Fernbank Drive,,Bootle
+2025-09-26,188500,L30 8RY,S,N,L,36,,Orchard Hey,,Bootle
+2025-09-26,189000,L30 7QY,S,N,F,15,,The Bales,,Bootle
+2025-09-26,125000,L30 0QG,T,N,F,44,,Fleetwoods Lane,,Bootle
+2025-09-19,113500,L30 0PW,T,N,F,9,,Rushtons Walk,,Bootle
+2025-09-15,125000,L30 5QW,T,N,F,12,,Glovers Lane,,Bootle
+2025-09-12,120000,L30 2QH,T,N,F,13,,Fatherside Drive,,Bootle
+2025-09-11,185000,L30 9SR,T,N,F,1,,Masefield Crescent,,Bootle
+2025-09-11,240000,L30 7PJ,S,N,F,62,,Apollo Way,,Bootle
+2025-09-05,150000,L30 1RP,S,N,F,61,,Marina Crescent,,Bootle
+2025-09-04,215000,L30 7QA,S,N,L,23,,Corwen Drive,,Bootle
+2025-09-03,180000,L30 7QZ,S,N,F,12,,Reapers Way,,Bootle
+2025-09-01,130000,L30 2NH,T,N,F,3,,St Dunstans Grove,,Bootle
+2025-09-01,210000,L30 1RY,S,N,F,37,,Jubilee Drive,,Bootle
+2025-08-29,150300,L30 5QG,S,N,F,4,,St Oswalds Lane,,Bootle
+2025-08-29,199000,L30 1RA,S,N,F,107,,Longridge Drive,,Bootle
+2025-08-22,220000,L30 7RU,S,N,F,40,,Barberry Crescent,,Bootle
+2025-08-22,150000,L30 5QL,T,N,F,38,,Peterborough Drive,,Bootle
+2025-08-22,110000,L30 2RE,T,N,L,90,,Swifts Lane,,Bootle
+2025-08-21,149950,L30 2PD,S,N,F,16,,Randall Drive,,Bootle
+2025-08-20,160000,L30 9SP,T,N,F,19,,Netherton Way,,Bootle
+2025-08-19,148000,L30 8SA,S,N,F,6,,Deerbarn Drive,,Bootle
+2025-08-19,200000,L30 8RF,S,N,F,40,,Netherton Grange,,Bootle
+2025-08-18,158000,L30 3TZ,T,N,F,2,,St Ambrose Croft,,Bootle
+2025-08-18,185000,L30 2PS,S,N,F,64,,Gorsey Lane,,Bootle
+2025-08-15,205000,L30 7RG,S,N,F,27,,Fernbank Drive,,Bootle
+2025-08-15,180000,L30 7RG,D,N,F,1,,Fernbank Drive,,Bootle
+2025-08-15,165000,L30 7QZ,S,N,F,10,,Reapers Way,,Bootle
+2025-08-14,240000,L30 1BD,S,N,L,19,,Hexham Close,Netherton,Bootle
+2025-08-13,105000,L30 0RB,T,N,F,60,,Waterside,,Bootle
+2025-08-12,188000,L30 7RG,S,N,F,28,,Fernbank Drive,,Bootle
+2025-08-11,170000,L30 3TA,D,N,F,30,,Park Lane West,,Bootle
+2025-08-08,205000,L30 7QW,T,N,F,2,,The Carters,,Bootle
+2025-08-08,165000,L30 1RY,S,N,F,27,,Jubilee Drive,,Bootle
+2025-08-07,188000,L30 7QW,S,N,F,6,,The Carters,,Bootle
+2025-07-30,255000,L30 7RS,S,N,F,55,,Barberry Crescent,,Bootle
+2025-07-30,162000,L30 5RW,T,N,F,50,,Browns Lane,,Bootle
+2025-07-25,156000,L30 3RY,S,N,F,20,,April Rise,,Bootle
+2025-07-24,120000,L30 5QX,T,N,F,13,,Downside Close,,Bootle
+2025-07-24,163000,L30 3RX,S,N,F,88,,Sarahs Croft,,Bootle
+2025-07-21,230000,L30 6YG,D,N,L,28,,Regent Avenue,,Bootle
+2025-07-21,110000,L30 2RL,S,N,F,3,,St Augustines Way,,Bootle
+2025-07-18,137000,L30 1PL,S,N,F,129,,Hereford Drive,,Bootle
+2025-07-11,220000,L30 7QB,D,N,L,40,,Castleton Drive,,Bootle
+2025-07-09,100000,L30 0RD,T,N,F,3,,Parkway,,Bootle
+2025-07-08,140000,L30 3TP,T,N,F,8,,St Gregorys Croft,,Bootle
+2025-07-04,180000,L30 2PN,T,N,F,7,,Sterrix Lane,,Bootle
+2025-07-04,185000,L30 1PW,S,N,F,12,,Abbeystead Avenue,,Bootle
+2025-06-30,184500,L30 2NX,S,N,F,5,,Appleby Drive,,Bootle
+2025-06-30,173000,L30 1RS,S,N,F,78,,Marina Crescent,,Bootle
+2025-06-27,187500,L30 8RZ,S,N,F,31,,Deerbarn Drive,,Bootle
+2025-06-27,210000,L30 7QQ,S,N,L,10,,Beeston Drive,,Bootle
+2025-06-27,197450,L30 7PJ,S,N,F,83,,Apollo Way,,Bootle
+2025-06-27,125000,L30 5RA,T,N,F,15,,Leonard Cheshire Drive,,Bootle
+2025-06-25,190000,L30 8RB,T,N,F,25,,Copy Lane,,Bootle
+2025-06-25,237500,L30 7RX,S,N,F,6,,Charlock Close,,Bootle
+2025-06-23,210000,L30 3SG,S,N,F,41,,Elton Avenue,,Bootle
+2025-06-13,120000,L30 1SE,S,N,F,18,,Meadway,,Bootle
+2025-06-04,143500,L30 2NU,S,N,L,20,,Mack Grove,,Bootle
+2025-05-30,135000,L30 9SR,T,N,L,47,,Masefield Crescent,,Bootle
+2025-05-23,257000,L30 8RJ,S,N,L,3,,Emerald Close,,Bootle
+2025-05-23,185000,L30 3SG,S,N,F,17,,Elton Avenue,,Bootle
+2025-05-22,140000,L30 0QZ,T,N,F,105,,Stonyfield,,Bootle
+2025-05-16,157000,L30 5SD,T,N,F,12,,Louis Pasteur Avenue,,Bootle
+2025-05-16,130000,L30 1SD,S,N,F,16,,Sandiways Avenue,,Bootle
+2025-05-02,163000,L30 8RD,S,N,F,10,,Copy Lane,,Bootle
+2025-05-02,60000,L30 3TA,F,N,L,36,,Park Lane West,,Bootle
+2025-05-02,165000,L30 1RR,S,N,F,16,,Marina Crescent,,Bootle
+2025-04-30,200000,L30 7PN,S,N,F,129,,Lunar Drive,,Bootle
+2025-04-30,132000,L30 3TD,T,N,F,67C,,The Marian Way,,Bootle
+2025-04-30,233000,L30 1PQ,S,N,F,70,,Parkfield Avenue,,Bootle
+2025-04-25,145000,L30 9SG,T,N,F,35,,Galsworthy Avenue,,Bootle
+2025-04-25,190000,L30 8RU,S,N,F,4,,Ollery Green,,Bootle
+2025-04-25,140000,L30 3SR,T,N,F,11,,Sarahs Croft,,Bootle
+2025-04-24,179950,L30 8RY,S,N,L,10,,Orchard Hey,,Bootle
+2025-04-24,182500,L30 7QY,S,N,F,19,,The Bales,,Bootle
+2025-04-23,170000,L30 3SA,S,N,L,2,,Stand Park Avenue,,Bootle
+2025-04-17,55000,L30 5SN,F,N,L,21,,Louis Braille Close,,Bootle
+2025-04-16,49000,L30 3TN,F,N,L,34,,St Aidans Way,,Bootle
+2025-04-11,255000,L30 1RA,D,N,L,73,,Longridge Drive,,Bootle
+2025-04-10,215000,L30 8SB,S,N,F,11,,Marl Road,,Bootle
+2025-04-08,125000,L30 1QS,T,N,F,18,,Chester Avenue,,Bootle
+2025-04-07,120000,L30 2RL,T,N,F,23,,St Augustines Way,,Bootle
+2025-04-04,120000,L30 1SJ,S,N,L,22,,Durham Way,,Bootle
+2025-04-04,130000,L30 0PA,T,N,F,1,,Pattens Close,,Bootle
+2025-03-31,205000,L30 6YD,D,N,F,3,,Grosvenor Close,,Bootle
+2025-03-31,190000,L30 1SE,S,N,F,19,,Meadway,,Bootle
+2025-03-31,210000,L30 1RT,T,N,F,3,,Lunt Avenue,,Bootle
+2025-03-31,240000,L30 1RA,D,N,L,53,,Longridge Drive,,Bootle
+2025-03-31,170000,L30 1PN,S,N,F,59,,Abbeystead Avenue,,Bootle
+2025-03-28,125000,L30 5RE,T,N,F,53,,Sherborne Avenue,,Bootle
+2025-03-28,157500,L30 3SB,S,N,F,27,,Linden Avenue,,Bootle
+2025-03-28,110000,L30 2RY,F,N,L,52,,Simons Croft,,Bootle
+2025-03-28,112000,L30 2RF,T,N,L,98,,Swifts Lane,,Bootle
+2025-03-28,146000,L30 2QB,S,N,F,24,,Northumberland Way,,Bootle
+2025-03-28,170000,L30 1RS,S,N,F,108,,Marina Crescent,,Bootle
+2025-03-28,130000,L30 0QZ,T,N,F,82,,Stonyfield,,Bootle
+2025-03-27,152000,L30 7QP,S,N,L,14,,York Close,,Bootle
+2025-03-27,120000,L30 3TD,T,N,F,67H,,The Marian Way,,Bootle
+2025-03-27,170000,L30 1SA,S,N,F,24,,Beech Grove,,Bootle
+2025-03-21,110000,L30 7PP,F,N,L,20,,Green Park,,Bootle
+2025-03-12,120000,L30 5RF,T,N,F,56,,Sherborne Avenue,,Bootle
+2025-03-10,197500,L30 8SE,S,N,F,21,,Primary Avenue,,Bootle
+2025-03-10,127500,L30 0QE,S,N,L,9,,Stanton Close,,Bootle
+2025-03-07,180000,L30 8RY,T,N,F,52,,Orchard Hey,,Bootle
+2025-02-28,181000,L30 7QJ,S,N,F,15,,Harvester Way,,Bootle
+2025-02-28,170000,L30 2NX,S,N,F,11,,Appleby Drive,,Bootle
+2025-02-27,120000,L30 3TW,T,N,F,98,,St Aidans Way,,Bootle
+2025-02-26,155000,L30 2QW,T,N,F,32,,Dartmouth Drive,,Bootle
+2025-02-21,138000,L30 2QX,S,N,F,4,,St Bernards Drive,,Bootle
+2025-02-20,149000,L30 0QY,S,N,F,93,,Harrops Croft,,Bootle
+2025-02-19,120000,L30 5RL,S,N,F,17,,Browns Lane,,Bootle
+2025-02-17,144000,L30 0QS,T,N,F,47,,Stonyfield,,Bootle
+2025-02-14,150000,L30 2PN,S,N,F,61,,Sterrix Lane,,Bootle
+2025-02-13,150000,L30 3TU,S,N,F,15,,St Benets Way,,Bootle
+2025-02-10,200000,L30 7RX,D,N,F,3,,Charlock Close,,Bootle
+2025-02-07,265000,L30 6YB,D,N,F,2,,Harrow Close,,Bootle
+2025-02-07,137000,L30 5SD,T,N,F,4,,Louis Pasteur Avenue,,Bootle
+2025-02-03,111000,L30 2PW,S,N,L,143,,Sterrix Lane,,Bootle
+2025-01-31,170000,L30 7RS,S,N,F,93,,Barberry Crescent,,Bootle
+2025-01-31,188000,L30 7QW,S,N,F,20,,The Carters,,Bootle
+2025-01-31,230000,L30 3SG,S,N,F,11,,Elton Avenue,,Bootle
+2025-01-28,158000,L30 5SQ,T,N,F,110,,Albert Schweitzer Avenue,,Bootle
+2025-01-24,120000,L30 0PJ,T,N,F,6,,Ward Rake,,Bootle
+2025-01-23,78000,L30 3SL,F,N,L,6,,Kenneth Close,,Bootle
+2025-01-22,165000,L30 8RN,S,N,F,37,,Homestead Avenue,,Bootle
+2025-01-20,230000,L30 7RL,S,N,F,18,,Moorbridge Close,,Bootle
+2025-01-20,120000,L30 5RB,S,N,F,14,,William Harvey Close,,Bootle
+2025-01-14,160000,L30 5QD,T,N,F,39,,St Oswalds Lane,,Bootle
+2025-01-14,253000,L30 1RA,D,N,L,57,,Longridge Drive,,Bootle
+2025-01-13,175000,L30 7PL,S,N,F,28,,Lunar Drive,,Bootle
+2025-01-10,83000,L30 7PP,F,N,L,30,,Green Park,,Bootle
+2025-01-10,120000,L30 1SB,S,N,F,10,,Marlborough Avenue,,Bootle
+2025-01-07,275000,L30 8RF,T,N,F,27,,Netherton Grange,,Bootle
+2025-01-06,137000,L30 0QZ,T,N,F,62,,Stonyfield,,Bootle
+2025-01-03,154000,L30 3RX,S,N,F,80,,Sarahs Croft,,Bootle
+2024-12-19,207000,L30 7RS,S,N,F,95,,Barberry Crescent,,Bootle
+2024-12-18,185000,L30 8RP,T,N,F,7,,Dooley Drive,,Bootle
+2024-12-18,175000,L30 2PW,T,N,F,71,,Sterrix Lane,,Bootle
+2024-12-17,126000,L30 5RD,T,N,F,23,,Ronald Ross Avenue,,Bootle
+2024-12-17,125000,L30 5QS,T,N,F,14,,Canterbury Way,,Bootle
+2024-12-16,150000,L30 3TW,T,N,F,108,,St Aidans Way,,Bootle
+2024-12-13,173000,L30 8SB,S,N,L,29,,Marl Road,,Bootle
+2024-12-13,147500,L30 7QF,T,N,L,2,,Grantham Way,,Bootle
+2024-12-13,100000,L30 5SQ,T,N,F,96,,Albert Schweitzer Avenue,,Bootle
+2024-12-11,165000,L30 3SN,S,N,F,167,,Bridge Lane,,Bootle
+2024-12-10,135000,L30 1QQ,S,N,L,131,,Park Lane,Netherton,Bootle
+2024-12-06,205000,L30 7QW,S,N,F,18,,The Carters,,Bootle
+2024-12-06,200000,L30 7PA,T,N,F,5,,Netherton Green,,Bootle
+2024-12-06,168000,L30 3SB,S,N,F,10,,Linden Avenue,,Bootle
+2024-12-05,175000,L30 1RT,S,N,F,8,,Lunt Avenue,,Bootle
+2024-12-04,75000,L30 3TA,F,N,L,40,,Park Lane West,,Bootle
+2024-12-03,167500,L30 2PN,T,N,F,57,,Sterrix Lane,,Bootle
+2024-12-02,190000,L30 9SA,S,N,F,11,,Thackeray Gardens,,Bootle
+2024-11-29,183000,L30 9SG,T,N,F,25,,Galsworthy Avenue,,Bootle
+2024-11-29,315000,L30 8RQ,S,N,F,14,,Waterway Avenue,,Bootle
+2024-11-29,156000,L30 2NQ,S,N,F,55,,Poulsom Drive,,Bootle
+2024-11-28,220000,L30 1RA,D,N,L,159,,Longridge Drive,,Bootle
+2024-11-25,226000,L30 8RF,T,N,F,4,,Netherton Grange,,Bootle
+2024-11-22,180000,L30 1RT,T,N,L,57,,Lunt Avenue,,Bootle
+2024-11-19,175000,L30 3SW,S,N,F,12,,Bridge Lane,,Bootle
+2024-11-15,176950,L30 7RJ,S,N,F,17,,Navigation Close,,Bootle
+2024-11-15,268000,L30 7RG,D,N,F,49,,Fernbank Drive,,Bootle
+2024-11-14,170000,L30 1BD,S,N,L,6,,Hexham Close,Netherton,Bootle
+2024-11-08,150000,L30 2QW,T,N,F,50,,Dartmouth Drive,,Bootle
+2024-11-08,150000,L30 2QB,T,N,F,64,,Northumberland Way,,Bootle
+2024-11-05,160000,L30 5SL,S,N,F,42,,Frederick Banting Close,,Bootle
+2024-11-04,135000,L30 3RX,S,N,F,94,,Sarahs Croft,,Bootle
+2024-11-04,138000,L30 2RE,T,N,F,70,,Swifts Lane,,Bootle
+2024-11-01,375000,L30 7RL,D,N,F,6,,Moorbridge Close,,Bootle
+2024-10-31,201000,L30 1PN,S,N,F,7,,Abbeystead Avenue,,Bootle
+2024-10-30,85000,L30 5RA,T,N,F,41,,Leonard Cheshire Drive,,Bootle
+2024-10-30,185000,L30 2PW,S,N,F,113,,Sterrix Lane,,Bootle
+2024-10-30,145000,L30 2NH,T,N,F,2,,St Dunstans Grove,,Bootle
+2024-10-30,180000,L30 1RZ,S,N,F,8,,Jubilee Drive,,Bootle
+2024-10-25,165000,L30 2PN,S,N,F,13,,Sterrix Lane,,Bootle
+2024-10-25,110000,L30 0PU,T,N,F,9,,Harrocks Close,,Bootle
+2024-10-23,120000,L30 1QR,T,N,F,45,,St Asaph Grove,,Bootle
+2024-10-18,138000,L30 1RT,T,N,L,39,,Lunt Avenue,,Bootle
+2024-10-14,107500,L30 5RW,T,N,F,58,,Browns Lane,,Bootle
+2024-10-14,195000,L30 1PQ,S,N,F,72,,Parkfield Avenue,,Bootle
+2024-10-11,141000,L30 3ST,T,N,F,12,,Stand Park Way,,Bootle
+2024-10-11,210500,L30 1RZ,S,N,F,34,,Jubilee Drive,,Bootle
+2024-10-09,190000,L30 1BB,S,N,L,54,,Lingfield Close,Netherton,Bootle
+2024-10-04,130000,L30 8RS,T,N,L,18,,Dooley Drive,,Bootle
+2024-10-04,163000,L30 7QB,S,N,L,14,,Castleton Drive,,Bootle
+2024-10-04,195000,L30 1PD,S,N,F,18,,Raymond Avenue,,Bootle
+2024-10-03,275000,L30 8RF,S,N,F,55,,Netherton Grange,,Bootle
+2024-10-03,215000,L30 7PL,S,N,F,57,,Lunar Drive,,Bootle
+2024-10-01,110000,L30 5RE,T,N,F,43,,Sherborne Avenue,,Bootle
+2024-09-30,119450,L30 3RZ,S,N,F,2,,Heathers Croft,,Bootle
+2024-09-30,130000,L30 0RA,T,N,F,22,,Waterside,,Bootle
+2024-09-27,135000,L30 3TG,S,N,F,108,,The Marian Way,,Bootle
+2024-09-26,166000,L30 3SX,S,N,F,69,,Park Lane West,,Bootle
+2024-09-23,157500,L30 7QJ,S,N,F,7,,Harvester Way,,Bootle
+2024-09-20,120000,L30 5QW,T,N,F,28,,Glovers Lane,,Bootle
+2024-09-20,160000,L30 2PW,S,N,F,103,,Sterrix Lane,,Bootle
+2024-09-12,163000,L30 2SE,T,N,F,109,,Poulsom Drive,,Bootle
+2024-09-10,174500,L30 8SE,T,N,F,15,,Primary Avenue,,Bootle
+2024-09-09,157000,L30 7PN,S,N,F,66,,Lunar Drive,,Bootle
+2024-09-04,233500,L30 7QH,S,N,F,9,,Brierley Close,,Bootle
+2024-09-02,130000,L30 5QR,T,N,F,8,,Truro Avenue,,Bootle
+2024-08-30,125000,L30 8SA,S,N,F,30,,Deerbarn Drive,,Bootle
+2024-08-30,168000,L30 7QP,D,N,F,51,,York Close,,Bootle
+2024-08-30,168000,L30 7QP,D,N,F,51,,York Close,,Bootle
+2024-08-30,220000,L30 1PA,S,N,F,12,,Olive Grove,,Bootle
+2024-08-27,143000,L30 2RY,T,N,F,68G,,Simons Croft,,Bootle
+2024-08-23,180000,L30 7PN,S,N,F,103,,Lunar Drive,,Bootle
+2024-08-23,190000,L30 1SB,S,N,F,9,,Marlborough Avenue,,Bootle
+2024-08-22,132100,L30 5RE,T,N,F,35,,Sherborne Avenue,,Bootle
+2024-08-20,185000,L30 3SF,S,N,F,48,,Ashbourne Avenue,,Bootle
+2024-08-20,132500,L30 2NB,T,N,F,6,,St Georges Grove,,Bootle
+2024-08-16,90000,L30 1QA,S,N,F,59,,Park Lane,Netherton,Bootle
+2024-08-09,121000,L30 2PG,S,N,F,3,,Almond Avenue,,Bootle
+2024-08-08,117000,L30 1QP,T,N,F,3,,Ripon Close,,Bootle
+2024-07-30,140000,L30 1PG,S,N,F,23,,Parkfield Avenue,,Bootle
+2024-07-25,250000,L30 1RA,D,N,L,155,,Longridge Drive,,Bootle
+2024-07-19,120000,L30 9ST,T,N,F,5,,Masefield Place,,Bootle
+2024-07-19,160000,L30 8SA,S,N,F,4,,Deerbarn Drive,,Bootle
+2024-07-19,240000,L30 8RB,S,N,L,59,,Copy Lane,,Bootle
+2024-07-17,150000,L30 2PW,S,N,F,125,,Sterrix Lane,,Bootle
+2024-07-15,170000,L30 7PN,S,N,F,121,,Lunar Drive,,Bootle
+2024-07-12,180000,L30 9TB,S,N,F,39,,Atlantic Way,,Bootle
+2024-07-11,139950,L30 7QP,T,N,L,23,,York Close,,Bootle
+2024-07-01,125000,L30 9ST,T,N,F,6,,Masefield Place,,Bootle
+2024-07-01,253000,L30 8RQ,S,N,F,13,,Waterway Avenue,,Bootle
+2024-07-01,160000,L30 1SD,S,N,F,1,,Sandiways Avenue,,Bootle
+2024-06-28,170000,L30 7PL,T,N,F,4,,Lunar Drive,,Bootle
+2024-06-28,120000,L30 3TG,S,N,F,114,,The Marian Way,,Bootle
+2024-06-28,175000,L30 1RR,S,N,F,44,,Marina Crescent,,Bootle
+2024-06-28,108000,L30 0RB,T,N,F,103,,Waterside,,Bootle
+2024-06-26,195000,L30 3SQ,S,N,F,34,,Elton Avenue,,Bootle
+2024-06-26,170000,L30 3SF,S,N,F,58,,Ashbourne Avenue,,Bootle
+2024-06-21,120000,L30 5RL,D,N,F,63,,Browns Lane,,Bootle
+2024-06-14,150000,L30 7PJ,S,N,F,85,,Apollo Way,,Bootle
+2024-06-13,163000,L30 3UA,S,N,F,8,,Barnfield Close,,Bootle
+2024-06-12,125000,L30 6YF,S,N,L,29,,Lymington Grove,,Bootle
+2024-06-10,116000,L30 5RX,T,N,F,23,,Marie Curie Avenue,,Bootle
+2024-06-07,160000,L30 3UA,T,N,F,20,,Barnfield Close,,Bootle
+2024-06-07,133000,L30 2RN,T,N,F,19,,St Monicas Drive,,Bootle
+2024-06-03,184500,L30 5TB,S,N,L,4,,Pinetree Close,,Bootle
+2024-05-30,260000,L30 7RF,D,N,F,125,,Copy Lane,,Bootle
+2024-05-30,140000,L30 2PW,T,N,F,73,,Sterrix Lane,,Bootle
+2024-05-29,155000,L30 2PZ,T,N,F,3,,Westmorland Avenue,,Bootle
+2024-05-29,130000,L30 2PW,S,N,L,117,,Sterrix Lane,,Bootle
+2024-05-28,285000,L30 7PA,D,N,F,33,,Netherton Green,,Bootle
+2024-05-28,155000,L30 3TA,T,N,F,14,,Park Lane West,,Bootle
+2024-05-28,187000,L30 3SG,S,N,F,41,,Elton Avenue,,Bootle
+2024-05-24,127000,L30 5SN,T,N,F,8,,Louis Braille Close,,Bootle
+2024-05-24,180000,L30 3SG,S,N,F,45,,Elton Avenue,,Bootle
+2024-05-24,67500,L30 2QF,F,N,L,3,,Harps Croft,,Bootle
+2024-05-24,140000,L30 0PQ,T,N,F,3,,Whalley Court,,Bootle
+2024-05-23,61000,L30 9SY,F,N,L,102,,Captains Lane,,Bootle
+2024-05-23,140000,L30 0QQ,T,N,F,102,,Fleetwoods Lane,,Bootle
+2024-05-17,220000,L30 9SS,T,N,F,36,,Masefield Crescent,,Bootle
+2024-05-17,135000,L30 8RS,T,N,F,16,,Dooley Drive,,Bootle
+2024-05-16,115000,L30 8SB,T,N,F,5,,Marl Road,,Bootle
+2024-05-15,160000,L30 5SB,T,N,F,45,,Louis Pasteur Avenue,,Bootle
+2024-05-13,147500,L30 2NY,T,N,F,27,,Carr Meadow Hey,,Bootle
+2024-05-10,145000,L30 5RU,S,N,F,2,,Alexander Fleming Avenue,,Bootle
+2024-05-09,155000,L30 2PD,T,N,F,30,,Randall Drive,,Bootle
+2024-05-03,182500,L30 1PD,S,N,F,22,,Raymond Avenue,,Bootle
+2024-04-29,65000,L30 1RZ,S,N,F,38,,Jubilee Drive,,Bootle
+2024-04-26,200000,L30 8RW,S,N,L,10,,Homestead Avenue,,Bootle
+2024-04-26,125000,L30 0RD,T,N,F,2,,Parkway,,Bootle
+2024-04-19,129000,L30 7PL,T,N,F,38,,Lunar Drive,,Bootle
+2024-04-18,140000,L30 9SG,T,N,F,11,,Galsworthy Avenue,,Bootle
+2024-04-15,138000,L30 1RH,T,N,F,1,,Rochester Avenue,,Bootle
+2024-04-15,92250,L30 0RA,T,N,F,2,,Waterside,,Bootle
+2024-04-05,472500,L30 7RE,D,N,F,6,,Village Courts,,Bootle
+2024-03-28,160000,L30 8RN,S,N,F,3,,Homestead Avenue,,Bootle
+2024-03-28,179995,L30 7PH,S,N,F,16,,Apollo Way,,Bootle
+2024-03-28,150000,L30 2QZ,T,N,F,102,,St Christophers Avenue,,Bootle
+2024-03-27,140000,L30 2QU,T,N,F,11,,St Bernards Drive,,Bootle
+2024-03-22,160000,L30 1RR,S,N,F,20,,Marina Crescent,,Bootle
+2024-03-20,132000,L30 5QR,T,N,F,17,,Truro Avenue,,Bootle
+2024-03-15,147000,L30 3SP,T,N,F,8,,Brendans Way,,Bootle
+2024-03-15,125000,L30 1QR,T,N,F,6,,St Asaph Grove,,Bootle
+2024-03-04,105000,L30 2QT,T,N,F,2,,St Thomass Drive,,Bootle
+2024-03-04,112000,L30 0QS,F,N,F,29,,Stonyfield,,Bootle
+2024-03-01,113000,L30 0QG,T,N,F,26,,Fleetwoods Lane,,Bootle
+2024-02-29,115000,L30 0PA,T,N,F,7,,Pattens Close,,Bootle
+2024-02-27,200000,L30 3SX,S,N,F,73,,Park Lane West,,Bootle
+2024-02-22,145000,L30 9SS,S,N,F,12,,Masefield Crescent,,Bootle
+2024-02-19,220000,L30 7QP,T,N,L,9,,York Close,,Bootle
+2024-02-19,220000,L30 7QP,T,N,F,9,,York Close,,Bootle
+2024-02-16,132000,L30 5SB,T,N,F,61,,Louis Pasteur Avenue,,Bootle
+2024-02-12,175000,L30 1PN,S,N,F,57,,Abbeystead Avenue,,Bootle
+2024-02-09,131000,L30 5RE,T,N,F,33,,Sherborne Avenue,,Bootle
+2024-02-09,116000,L30 3SY,S,N,F,85,,Park Lane West,,Bootle
+2024-02-01,150000,L30 1QQ,S,N,F,129,,Park Lane,Netherton,Bootle
+2024-01-25,145000,L30 6YF,S,N,F,15,,Lymington Grove,,Bootle
+2024-01-25,72500,L30 6YF,S,N,F,15,,Lymington Grove,,Bootle
+2024-01-23,131000,L30 2PG,S,N,L,25,,Almond Avenue,,Bootle
+2024-01-22,128500,L30 0QP,T,N,F,3,,Harrops Croft,,Bootle
+2024-01-10,172000,L30 7PH,S,N,F,5,,Apollo Way,,Bootle
+2023-12-20,45000,L30 3TS,F,N,L,24,,St Damians Croft,,Bootle
+2023-12-19,135000,L30 2SD,T,N,F,15,,Morgan Mews,,Bootle
+2023-12-18,155000,L30 3SF,S,N,F,6,,Ashbourne Avenue,,Bootle
+2023-12-15,161000,L30 8SE,S,N,F,67,,Primary Avenue,,Bootle
+2023-12-14,118000,L30 0QY,T,N,F,66,,Harrops Croft,,Bootle
+2023-12-14,125000,L30 0QS,T,N,F,36,,Stonyfield,,Bootle
+2023-12-12,92000,L30 0RB,T,N,F,52,,Waterside,,Bootle
+2023-12-08,160000,L30 5SH,S,N,F,2,,Florence Nightingale Close,,Bootle
+2023-12-06,130000,L30 5RP,T,N,F,9,,Edward Jenner Avenue,,Bootle
+2023-12-06,218000,L30 1RT,D,N,L,22,,Lunt Avenue,,Bootle
+2023-12-05,147000,L30 5SB,T,N,F,43,,Louis Pasteur Avenue,,Bootle
+2023-12-04,160000,L30 8RH,S,N,F,2,,Wheatfield Close,,Bootle
+2023-12-01,127000,L30 5SN,T,N,F,6,,Louis Braille Close,,Bootle
+2023-12-01,140000,L30 2NB,T,N,F,12,,St Georges Grove,,Bootle
+2023-12-01,60000,L30 1QW,F,N,L,119,,Chester Avenue,,Bootle
+2023-11-30,125000,L30 8SE,S,N,F,59,,Primary Avenue,,Bootle
+2023-11-30,156000,L30 1PQ,S,N,F,76,,Parkfield Avenue,,Bootle
+2023-11-30,115000,L30 0PS,T,N,F,46,,Red Lomes,,Bootle
+2023-11-24,175000,L30 7PL,S,N,F,32,,Lunar Drive,,Bootle
+2023-11-23,131000,L30 9SQ,T,N,L,12,,Galsworthy Avenue,,Bootle
+2023-11-21,212000,L30 7PN,S,N,F,130,,Lunar Drive,,Bootle
+2023-11-21,225000,L30 1RA,T,N,L,103,,Longridge Drive,,Bootle
+2023-11-17,147000,L30 3RY,S,N,F,11,,April Rise,,Bootle
+2023-11-15,140000,L30 0QR,S,N,F,19,,Higher End Park,,Bootle
+2023-11-15,100000,L30 0PL,T,N,F,8,,Holland Court,,Bootle
+2023-11-14,145000,L30 3TB,T,N,L,23,,The Marian Way,,Bootle
+2023-11-13,130000,L30 1RT,T,N,L,45,,Lunt Avenue,,Bootle
+2023-11-10,150000,L30 7QB,S,N,L,16,,Castleton Drive,,Bootle
+2023-11-10,195000,L30 3SB,S,N,F,31,,Linden Avenue,,Bootle
+2023-11-03,58000,L30 3TS,F,N,L,12,,St Damians Croft,,Bootle
+2023-11-03,39500,L30 1QN,F,N,L,19,,Chester Avenue,,Bootle
+2023-11-02,105600,L30 5QW,T,N,F,16,,Glovers Lane,,Bootle
+2023-11-01,223000,L30 8RQ,S,N,F,6,,Waterway Avenue,,Bootle
+2023-10-31,120000,L30 5SL,T,N,F,16,,Frederick Banting Close,,Bootle
+2023-10-31,160000,L30 1RR,S,N,F,26,,Marina Crescent,,Bootle
+2023-10-30,160000,L30 3TX,T,N,F,39,,All Saints Close,,Bootle
+2023-10-27,57000,L30 3TS,F,N,L,6,,St Damians Croft,,Bootle
+2023-10-27,167500,L30 2RW,T,N,F,1,,St James Way,,Bootle
+2023-10-27,87500,L30 2PW,S,N,L,131,,Sterrix Lane,,Bootle
+2023-10-26,120000,L30 1SJ,S,N,L,18,,Durham Way,,Bootle
+2023-10-22,57000,L30 3TR,F,N,L,7,,The Marian Close,,Bootle
+2023-10-20,227000,L30 8RB,S,N,F,41,,Copy Lane,,Bootle
+2023-10-20,110000,L30 5RL,T,N,L,43,,Browns Lane,,Bootle
+2023-10-20,143000,L30 2QN,T,N,F,37,,Dartmouth Drive,,Bootle
+2023-10-20,108000,L30 1QQ,T,N,F,117,,Park Lane,Netherton,Bootle
+2023-10-20,155000,L30 1PD,S,N,F,14,,Raymond Avenue,,Bootle
+2023-10-19,150100,L30 5SJ,T,N,F,31,,Howard Florey Avenue,,Bootle
+2023-10-13,215000,L30 7QD,D,N,L,9,,Cardigan Way,,Bootle
+2023-10-06,143000,L30 0RA,S,N,F,48,,Waterside,,Bootle
+2023-10-05,175000,L30 3ST,T,N,F,15,,Stand Park Way,,Bootle
+2023-10-04,105000,L30 0PD,T,N,F,1,,Calcot Rake,,Bootle
+2023-09-29,154000,L30 3SF,T,N,F,64,,Ashbourne Avenue,,Bootle
+2023-09-29,65000,L30 0RE,F,N,L,118,,Stonyfield,,Bootle
+2023-09-28,147000,L30 3SH,T,N,L,10,,Columban Close,,Bootle
+2023-09-27,142500,L30 0PQ,T,N,F,4,,Whalley Court,,Bootle
+2023-09-22,155000,L30 8SD,S,N,F,10,,Marl Road,,Bootle
+2023-09-22,120000,L30 2PQ,S,N,F,1,,St Margarets Grove,,Bootle
+2023-09-18,180000,L30 3SF,S,N,F,48,,Ashbourne Avenue,,Bootle
+2023-09-15,270000,L30 8RF,T,N,F,27,,Netherton Grange,,Bootle
+2023-09-15,145000,L30 7QH,S,N,L,20,,Brierley Close,,Bootle
+2023-09-11,85000,L30 5TB,S,N,L,9,,Pinetree Close,,Bootle
+2023-09-08,105000,L30 9TE,T,N,L,7,,Victory Close,,Bootle
+2023-09-08,256000,L30 7RG,D,N,F,6,,Fernbank Drive,,Bootle
+2023-09-08,126000,L30 1SJ,S,N,L,16,,Durham Way,,Bootle
+2023-09-08,270000,L30 1BB,D,N,L,17,,Lingfield Close,Netherton,Bootle
+2023-09-06,142000,L30 3TX,T,N,F,38,,All Saints Close,,Bootle
+2023-09-05,190000,L30 7PA,T,N,F,45,,Netherton Green,,Bootle
+2023-09-04,128000,L30 2QB,T,N,F,30,,Northumberland Way,,Bootle
+2023-09-01,207000,L30 8RZ,S,N,F,27,,Deerbarn Drive,,Bootle
+2023-09-01,145000,L30 8RY,T,N,F,30,,Orchard Hey,,Bootle
+2023-09-01,147000,L30 3TB,T,N,F,33,,The Marian Way,,Bootle
+2023-08-25,182000,L30 7RS,S,N,F,59,,Barberry Crescent,,Bootle
+2023-08-25,165000,L30 2SD,S,N,F,10,,Morgan Mews,,Bootle
+2023-08-18,125000,L30 5SL,S,N,F,41,,Frederick Banting Close,,Bootle
+2023-08-18,97000,L30 5QU,T,N,F,13,,Assissian Crescent,,Bootle
+2023-08-18,140000,L30 2QS,T,N,F,22,,Blyth Hey,,Bootle
+2023-08-18,120000,L30 2QN,S,N,F,5,,Dartmouth Drive,,Bootle
+2023-08-18,167500,L30 2PA,T,N,F,51,,Randall Drive,,Bootle
+2023-08-14,160000,L30 2PW,T,N,F,119,,Sterrix Lane,,Bootle
+2023-08-11,340000,L30 7RL,D,N,F,24,,Moorbridge Close,,Bootle
+2023-08-11,235000,L30 7PN,D,N,F,99,,Lunar Drive,,Bootle
+2023-08-10,165000,L30 1RL,S,N,F,1,,Marina Crescent,,Bootle
+2023-08-07,85000,L30 0RA,T,N,F,42,,Waterside,,Bootle
+2023-08-04,136000,L30 5SL,T,N,F,32,,Frederick Banting Close,,Bootle
+2023-08-02,145000,L30 5SJ,T,N,F,43,,Howard Florey Avenue,,Bootle
+2023-07-28,135000,L30 7PL,T,N,F,12,,Lunar Drive,,Bootle
+2023-07-28,146500,L30 3SD,T,N,L,79,,Swifts Lane,,Bootle
+2023-07-28,160000,L30 2RQ,S,N,F,10,,St Nicholas Drive,,Bootle
+2023-07-25,140000,L30 7PN,S,N,F,101,,Lunar Drive,,Bootle
+2023-07-21,247500,L30 8RF,S,N,F,55,,Netherton Grange,,Bootle
+2023-07-20,133000,L30 0QS,T,N,F,26,,Stonyfield,,Bootle
+2023-07-14,163500,L30 5RA,S,N,L,45,,Leonard Cheshire Drive,,Bootle
+2023-07-05,170000,L30 8RZ,T,N,L,11,,Deerbarn Drive,,Bootle
+2023-06-30,200000,L30 7QW,S,N,F,16,,The Carters,,Bootle
+2023-06-30,155000,L30 5QR,T,N,F,48,,Truro Avenue,,Bootle
+2023-06-30,153000,L30 3SH,T,N,L,8,,Columban Close,,Bootle
+2023-06-30,175000,L30 1PQ,S,N,F,30,,Parkfield Avenue,,Bootle
+2023-06-30,120000,L30 0RA,T,N,F,43,,Waterside,,Bootle
+2023-06-23,175000,L30 6YE,S,N,L,36,,Richmond Crescent,,Bootle
+2023-06-23,115000,L30 0QZ,T,N,F,67,,Stonyfield,,Bootle
+2023-06-16,165000,L30 7PL,S,N,F,10,,Lunar Drive,,Bootle
+2023-06-14,125000,L30 3UA,T,N,F,15,,Barnfield Close,,Bootle
+2023-06-12,158000,L30 7PH,T,N,F,27,,Apollo Way,,Bootle
+2023-06-09,160000,L30 7QH,S,N,L,24,,Brierley Close,,Bootle
+2023-06-07,110000,L30 2QU,T,N,F,37,,St Bernards Drive,,Bootle
+2023-06-07,158000,L30 1QA,S,N,F,53,,Park Lane,Netherton,Bootle
+2023-06-02,185000,L30 3SG,S,N,F,17,,Elton Avenue,,Bootle
+2023-06-01,125000,L30 5SB,T,N,F,73,,Louis Pasteur Avenue,,Bootle
+2023-05-31,195000,L30 7RH,S,N,F,14,,Witham Close,,Bootle
+2023-05-30,110000,L30 2PR,S,N,F,1,,Sterrix Avenue,,Bootle
+2023-05-26,110000,L30 2NT,S,N,F,26,,Green Hey Drive,,Bootle
+2023-05-19,172500,L30 8SB,T,N,F,7,,Marl Road,,Bootle
+2023-05-19,365000,L30 7RL,S,N,F,16,,Moorbridge Close,,Bootle
+2023-05-19,157000,L30 1PN,S,N,F,37,,Abbeystead Avenue,,Bootle
+2023-05-19,183500,L30 1BB,T,N,L,35,,Lingfield Close,Netherton,Bootle
+2023-05-19,119950,L30 0QS,T,N,F,41,,Stonyfield,,Bootle
+2023-05-19,102500,L30 0QA,T,N,F,8,,Tarbrock Court,,Bootle
+2023-05-12,125000,L30 3SF,S,N,F,18,,Ashbourne Avenue,,Bootle
+2023-05-10,177000,L30 7PJ,S,N,F,76,,Apollo Way,,Bootle
+2023-05-02,120000,L30 0QE,T,N,F,14,,Stanton Close,,Bootle
+2023-04-28,135000,L30 8RE,S,N,F,72,,Copy Lane,,Bootle
+2023-04-28,165000,L30 7RN,D,N,F,14,,Hollinhey Close,,Bootle
+2023-04-28,200000,L30 1ST,S,N,L,102,,Longridge Drive,,Bootle
+2023-04-28,99000,L30 0PJ,T,N,F,2,,Ward Rake,,Bootle
+2023-04-26,92000,L30 5RE,T,N,F,13,,Sherborne Avenue,,Bootle
+2023-04-25,135000,L30 9SX,S,N,F,56,,Captains Lane,,Bootle
+2023-04-25,169000,L30 7QQ,S,N,L,11,,Beeston Drive,,Bootle
+2023-04-25,144000,L30 1RN,T,N,F,100,,Park Lane,Netherton,Bootle
+2023-04-24,90000,L30 9TE,T,N,L,4,,Victory Close,,Bootle
+2023-04-21,130000,L30 2NP,T,N,L,64,,Poulsom Drive,,Bootle
+2023-04-17,118000,L30 1RT,T,N,L,29,,Lunt Avenue,,Bootle
+2023-04-14,135000,L30 1QA,S,N,L,35,,Park Lane,Netherton,Bootle
+2023-04-12,145000,L30 3RX,S,N,F,70,,Sarahs Croft,,Bootle
+2023-04-11,47000,L30 0PS,F,N,L,76,,Red Lomes,,Bootle
+2023-03-31,200000,L30 3SE,S,N,F,1,,Ashbourne Avenue,,Bootle
+2023-03-31,105000,L30 2RY,F,N,L,52,,Simons Croft,,Bootle
+2023-03-31,167500,L30 2PW,T,N,F,99,,Sterrix Lane,,Bootle
+2023-03-31,167500,L30 2PD,S,N,F,28,,Randall Drive,,Bootle
+2023-03-30,55000,L30 1RT,F,N,L,37,,Lunt Avenue,,Bootle
+2023-03-24,108000,L30 1QJ,T,N,F,25,,Southwark Grove,,Bootle
+2023-03-23,170000,L30 1RA,S,N,L,83,,Longridge Drive,,Bootle
+2023-03-20,80000,L30 7PU,F,N,L,52,,Maritime Court,,Bootle
+2023-03-20,140000,L30 5QR,T,N,F,31,,Truro Avenue,,Bootle
+2023-03-20,50000,L30 3TE,F,N,L,163,,The Marian Way,,Bootle
+2023-03-20,150000,L30 1PG,S,N,F,51,,Parkfield Avenue,,Bootle
+2023-03-17,162000,L30 1SH,S,N,L,1,,Peterlee Way,,Bootle
+2023-03-15,150000,L30 9SG,T,N,F,49,,Galsworthy Avenue,,Bootle
+2023-03-13,134000,L30 1SG,S,N,L,8,,Petersfield Close,,Bootle
+2023-03-10,120000,L30 5SF,T,N,F,35,,Albert Schweitzer Avenue,,Bootle
+2023-03-03,175000,L30 8RN,T,N,L,23,,Homestead Avenue,,Bootle
+2023-03-01,145000,L30 1QF,S,N,F,80,,Quigley Avenue,,Bootle
+2023-02-24,168000,L30 3TA,S,N,F,28,,Park Lane West,,Bootle
+2023-02-23,144000,L30 2QR,T,N,F,39,,Blyth Hey,,Bootle
+2023-02-23,206000,L30 1ST,S,N,L,72,,Longridge Drive,,Bootle
+2023-02-23,177000,L30 1RL,S,N,F,11,,Marina Crescent,,Bootle
+2023-02-17,75000,L30 9SG,T,N,F,21,,Galsworthy Avenue,,Bootle
+2023-02-17,110000,L30 3RX,S,N,F,74,,Sarahs Croft,,Bootle
+2023-02-17,143000,L30 2QE,T,N,F,11,,Wiltshire Drive,,Bootle
+2023-02-16,125500,L30 5QW,T,N,F,40,,Glovers Lane,,Bootle
+2023-02-14,148000,L30 1SA,S,N,F,2,,Beech Grove,,Bootle
+2023-02-13,140000,L30 3RY,S,N,F,3,,April Rise,,Bootle
+2023-02-08,120000,L30 3SJ,T,N,L,20,,Cyprians Way,,Bootle
+2023-02-07,106000,L30 1PU,T,N,F,38,,Lichfield Close,,Bootle
+2023-02-03,162500,L30 8SD,T,N,L,32,,Marl Road,,Bootle
+2023-02-03,180000,L30 7PJ,S,N,F,69,,Apollo Way,,Bootle
+2023-02-03,70000,L30 5QR,T,N,F,16,,Truro Avenue,,Bootle
+2023-02-03,185000,L30 3SQ,S,N,F,32,,Elton Avenue,,Bootle
+2023-02-03,105000,L30 0RD,T,N,F,24,,Parkway,,Bootle
+2023-01-31,94000,L30 2NQ,F,N,L,27,,Poulsom Drive,,Bootle
+2023-01-30,132500,L30 0QR,T,N,F,53,,Higher End Park,,Bootle
+2023-01-27,115000,L30 5RE,T,N,F,29,,Sherborne Avenue,,Bootle
+2023-01-27,98000,L30 0PE,T,N,F,3,,Cobham Walk,,Bootle
+2023-01-20,133000,L30 3TG,T,N,F,82,,The Marian Way,,Bootle
+2023-01-17,55000,L30 7PP,F,N,L,45,,Green Park,,Bootle
+2023-01-13,400000,L30 7RL,D,N,F,32,,Moorbridge Close,,Bootle
+2023-01-13,260000,L30 7RG,D,N,F,2,,Fernbank Drive,,Bootle
+2023-01-13,407500,L30 7RE,D,N,F,8,,Village Courts,,Bootle
+2023-01-13,200000,L30 1ST,S,N,L,92,,Longridge Drive,,Bootle
+2023-01-09,193000,L30 3SY,S,N,F,95,,Park Lane West,,Bootle
+2023-01-06,50000,L30 5RY,F,N,L,60,,Marie Curie Avenue,,Bootle
+2022-12-20,225000,L30 1RA,D,N,L,129,,Longridge Drive,,Bootle
+2022-12-19,170000,L30 8SD,S,N,F,46,,Marl Road,,Bootle
+2022-12-16,128000,L30 2QJ,T,N,F,136,,Gorsey Lane,,Bootle
+2022-12-16,145000,L30 2PH,S,N,F,14,,St Marys Grove,,Bootle
+2022-12-16,141500,L30 1RL,S,N,F,25,,Marina Crescent,,Bootle
+2022-12-15,115000,L30 0QP,T,N,F,15,,Harrops Croft,,Bootle
+2022-12-14,145000,L30 1BB,T,N,L,26,,Lingfield Close,Netherton,Bootle
+2022-12-12,123000,L30 0RB,T,N,F,62,,Waterside,,Bootle
+2022-12-09,102500,L30 5RE,T,N,F,33,,Sherborne Avenue,,Bootle
+2022-12-09,135000,L30 2PW,S,N,F,81,,Sterrix Lane,,Bootle
+2022-12-05,142500,L30 9SR,S,N,F,23,,Masefield Crescent,,Bootle
+2022-12-05,180000,L30 1PW,S,N,F,18,,Abbeystead Avenue,,Bootle
+2022-12-02,129000,L30 0QZ,S,N,F,103,,Stonyfield,,Bootle
+2022-11-30,290000,L30 7RE,D,N,F,4,,Village Courts,,Bootle
+2022-11-25,190000,L30 7RG,S,N,F,40,,Fernbank Drive,,Bootle
+2022-11-25,200000,L30 7QB,S,N,L,4,,Castleton Drive,,Bootle
+2022-11-25,120000,L30 5QS,T,N,F,9,,Canterbury Way,,Bootle
+2022-11-25,125000,L30 0PH,T,N,L,15,,Granams Croft,,Bootle
+2022-11-23,179000,L30 5TB,S,N,F,1,,Pinetree Close,,Bootle
+2022-11-23,92500,L30 3SU,S,N,F,33,,Park Lane West,,Bootle
+2022-11-18,105000,L30 2QP,T,N,F,6,,St Stephens Grove,,Bootle
+2022-11-15,124000,L30 2RA,S,N,F,118,,St Christophers Avenue,,Bootle
+2022-11-11,300000,L30 7PF,D,N,L,53,,Chapel Lane,,Bootle
+2022-11-11,202000,L30 3SE,S,N,F,51,,Ashbourne Avenue,,Bootle
+2022-11-10,182000,L30 7PJ,S,N,F,72,,Apollo Way,,Bootle
+2022-11-04,153000,L30 2PD,S,N,F,10,,Randall Drive,,Bootle
+2022-10-31,130000,L30 2NY,T,N,F,29,,Carr Meadow Hey,,Bootle
+2022-10-28,230000,L30 8RG,T,N,F,17,,Manor Drive,,Bootle
+2022-10-28,150000,L30 1PR,S,N,F,34,,Hereford Drive,,Bootle
+2022-10-27,167000,L30 7PL,T,N,F,44,,Lunar Drive,,Bootle
+2022-10-27,148000,L30 5SL,S,N,F,40,,Frederick Banting Close,,Bootle
+2022-10-27,145000,L30 0RA,T,N,F,14,,Waterside,,Bootle
+2022-10-26,187500,L30 7QF,S,N,L,16,,Grantham Way,,Bootle
+2022-10-21,240000,L30 7RA,S,N,F,17,,Barn Close,,Bootle
+2022-10-21,100000,L30 7PP,F,N,L,6,,Green Park,,Bootle
+2022-10-14,133000,L30 5SQ,T,N,F,120,,Albert Schweitzer Avenue,,Bootle
+2022-10-14,158000,L30 5RB,T,N,L,9,,William Harvey Close,,Bootle
+2022-10-14,140000,L30 2QS,T,N,F,14,,Blyth Hey,,Bootle
+2022-10-14,70000,L30 2NH,T,N,F,7,,St Dunstans Grove,,Bootle
+2022-10-12,147000,L30 2SE,S,N,F,111,,Poulsom Drive,,Bootle
+2022-10-07,135000,L30 2PG,T,N,F,18,,Almond Avenue,,Bootle
+2022-10-07,119000,L30 1SG,S,N,L,6,,Petersfield Close,,Bootle
+2022-10-07,256000,L30 1RA,D,N,L,133,,Longridge Drive,,Bootle
+2022-10-05,111000,L30 0RA,T,N,F,10,,Waterside,,Bootle
+2022-10-03,160000,L30 3SE,S,N,F,45,,Ashbourne Avenue,,Bootle
+2022-10-03,125000,L30 0QS,T,N,F,1,,Stonyfield,,Bootle
+2022-09-30,170000,L30 3SN,S,N,F,205,,Bridge Lane,,Bootle
+2022-09-29,299500,L30 7RN,D,N,F,26,,Hollinhey Close,,Bootle
+2022-09-28,110000,L30 2QG,T,N,F,23,,Dale Acre Drive,,Bootle
+2022-09-28,100000,L30 0RA,T,N,F,39,,Waterside,,Bootle
+2022-09-23,195000,L30 7RH,S,N,F,2,,Witham Close,,Bootle
+2022-09-23,180000,L30 1RT,S,N,F,15,,Lunt Avenue,,Bootle
+2022-09-23,77500,L30 0RF,F,N,L,170,,Stonyfield,,Bootle
+2022-09-21,104000,L30 0PU,T,N,F,6,,Harrocks Close,,Bootle
+2022-09-20,200000,L30 1SD,S,N,F,22,,Sandiways Avenue,,Bootle
+2022-09-16,275000,L30 7RL,D,N,F,25A,,Moorbridge Close,,Bootle
+2022-09-16,170000,L30 5RD,T,N,L,1,,Ronald Ross Avenue,,Bootle
+2022-09-16,95000,L30 1QJ,T,N,F,1,,Southwark Grove,,Bootle
+2022-09-13,116500,L30 1SQ,S,N,L,11,,Blaydon Close,,Bootle
+2022-09-12,218000,L30 5QG,S,N,F,2B,,St Oswalds Lane,,Bootle
+2022-09-12,264500,L30 1RA,D,N,L,155,,Longridge Drive,,Bootle
+2022-09-08,97000,L30 7QH,S,N,L,14,,Brierley Close,,Bootle
+2022-08-31,130000,L30 0QZ,T,N,F,75,,Stonyfield,,Bootle
+2022-08-31,125000,L30 0PR,T,N,F,10,,Pickering Rake,,Bootle
+2022-08-30,177000,L30 1PN,S,N,F,55,,Abbeystead Avenue,,Bootle
+2022-08-26,177000,L30 7PJ,S,N,F,97,,Apollo Way,,Bootle
+2022-08-26,183000,L30 1SD,S,N,F,26,,Sandiways Avenue,,Bootle
+2022-08-25,100000,L30 3TR,S,N,F,41,,The Marian Close,,Bootle
+2022-08-25,120000,L30 0QY,T,N,F,61,,Harrops Croft,,Bootle
+2022-08-19,145000,L30 2NT,S,N,F,28,,Green Hey Drive,,Bootle
+2022-08-12,125000,L30 5QS,T,N,F,7,,Canterbury Way,,Bootle
+2022-08-12,190000,L30 1SD,S,N,F,11,,Sandiways Avenue,,Bootle
+2022-08-08,245000,L30 8RB,S,N,L,59,,Copy Lane,,Bootle
+2022-08-06,80000,L30 9TE,S,N,L,7,,Victory Close,,Bootle
+2022-08-03,117500,L30 5RA,T,N,F,37,,Leonard Cheshire Drive,,Bootle
+2022-08-02,147500,L30 9SU,T,N,F,15,,Captains Lane,,Bootle
+2022-07-29,110000,L30 5QX,T,N,F,4,,Downside Close,,Bootle
+2022-07-27,145000,L30 1BB,T,N,L,31,,Lingfield Close,Netherton,Bootle
+2022-07-26,118000,L30 2QB,T,N,F,58,,Northumberland Way,,Bootle
+2022-07-25,130000,L30 9SR,T,N,F,39,,Masefield Crescent,,Bootle
+2022-07-25,150000,L30 3UA,T,N,F,29,,Barnfield Close,,Bootle
+2022-07-25,118250,L30 2QA,S,N,F,3,,St Michaels Grove,,Bootle
+2022-07-22,151000,L30 1PW,S,N,F,8,,Abbeystead Avenue,,Bootle
+2022-07-20,127000,L30 2SE,T,N,F,115,,Poulsom Drive,,Bootle
+2022-07-15,158000,L30 9SA,T,N,F,47,,Thackeray Gardens,,Bootle
+2022-07-11,215000,L30 7QQ,S,N,L,16,,Beeston Drive,,Bootle
+2022-07-06,123000,L30 3TY,T,N,F,41,,St Ambrose Croft,,Bootle
+2022-07-05,125000,L30 2NS,T,N,F,15,,Green Hey Drive,,Bootle
+2022-07-04,105000,L30 1SH,S,N,L,21,,Peterlee Way,,Bootle
+2022-07-01,70000,L30 8RB,S,N,F,57,,Copy Lane,,Bootle
+2022-07-01,85000,L30 2RL,T,N,F,41,,St Augustines Way,,Bootle
+2022-06-30,187000,L30 7RU,S,N,F,36,,Barberry Crescent,,Bootle
+2022-06-30,172000,L30 1RP,S,N,F,103,,Marina Crescent,,Bootle
+2022-06-24,132000,L30 3TZ,T,N,L,34,,St Ambrose Croft,,Bootle
+2022-06-24,132000,L30 3TF,T,N,L,32,,The Marian Way,,Bootle
+2022-06-21,95000,L30 1QY,T,N,L,295,,Hereford Drive,,Bootle
+2022-06-18,215000,L30 1ST,D,N,L,56,,Longridge Drive,,Bootle
+2022-06-17,206500,L30 8SE,D,N,F,33,,Primary Avenue,,Bootle
+2022-06-17,149000,L30 7PH,S,N,F,5,,Apollo Way,,Bootle
+2022-06-17,70000,L30 2QD,T,N,F,6,,Cumberland Avenue,,Bootle
+2022-06-16,170500,L30 7QB,S,N,L,1,,Castleton Drive,,Bootle
+2022-06-13,270000,L30 7PA,D,N,F,37,,Netherton Green,,Bootle
+2022-06-10,145000,L30 8SA,T,N,L,12,,Deerbarn Drive,,Bootle
+2022-06-09,120000,L30 5QX,T,N,F,19,,Downside Close,,Bootle
+2022-06-08,239000,L30 6YE,D,N,L,11,,Richmond Crescent,,Bootle
+2022-06-07,240000,L30 1RR,S,N,F,64,,Marina Crescent,,Bootle
+2022-06-07,105000,L30 1QR,T,N,F,25,,St Asaph Grove,,Bootle
+2022-06-07,47500,L30 1QA,T,N,F,75,,Park Lane,Netherton,Bootle
+2022-06-01,133000,L30 1RL,S,N,F,7,,Marina Crescent,,Bootle
+2022-06-01,75000,L30 0QY,T,N,F,54,,Harrops Croft,,Bootle
+2022-05-31,125000,L30 5RR,T,N,F,29,,Joseph Lister Close,,Bootle
+2022-05-30,185000,L30 1RN,S,N,F,82,,Park Lane,Netherton,Bootle
+2022-05-27,105000,L30 9SH,T,N,F,72,,Galsworthy Avenue,,Bootle
+2022-05-27,155000,L30 8RX,S,N,F,19,,Orchard Hey,,Bootle
+2022-05-27,140000,L30 7PJ,T,N,F,47,,Apollo Way,,Bootle
+2022-05-27,126500,L30 0QY,S,N,F,52,,Harrops Croft,,Bootle
+2022-05-25,160000,L30 5QR,T,N,F,7,,Truro Avenue,,Bootle
+2022-05-23,250000,L30 1RA,F,N,L,47,,Longridge Drive,,Bootle
+2022-05-20,112000,L30 8RR,T,N,F,83,,Dooley Drive,,Bootle
+2022-05-20,211000,L30 6YG,D,N,F,2,,Regent Avenue,,Bootle
+2022-05-20,145000,L30 5RR,T,N,F,23,,Joseph Lister Close,,Bootle
+2022-05-13,132000,L30 2NQ,S,N,F,55,,Poulsom Drive,,Bootle
+2022-05-12,160000,L30 8RT,T,N,L,78,,Dooley Drive,,Bootle
+2022-05-05,156000,L30 2PD,S,N,F,56,,Randall Drive,,Bootle
+2022-05-03,142000,L30 7QR,D,N,F,6,,Windsor Close,,Bootle
+2022-04-29,177500,L30 7RQ,S,N,F,11,,Shropshire Close,,Bootle
+2022-04-29,165000,L30 7QY,S,N,F,5,,The Bales,,Bootle
+2022-04-29,128000,L30 7PA,D,N,F,29,,Netherton Green,,Bootle
+2022-04-26,178000,L30 7RS,D,N,F,61,,Barberry Crescent,,Bootle
+2022-04-26,62500,L30 7PP,F,N,L,19,,Green Park,,Bootle
+2022-04-26,167500,L30 1PB,S,N,F,3,,Raymond Avenue,,Bootle
+2022-04-22,160000,L30 7PN,S,N,F,102,,Lunar Drive,,Bootle
+2022-04-22,106000,L30 2QG,T,N,F,19,,Dale Acre Drive,,Bootle
+2022-04-20,130000,L30 2PS,S,N,F,64,,Gorsey Lane,,Bootle
+2022-04-20,140000,L30 1BB,S,N,F,21,,Lingfield Close,Netherton,Bootle
+2022-04-14,210000,L30 6YG,F,N,L,57,,Regent Avenue,,Bootle
+2022-04-14,125000,L30 3RZ,S,N,F,12,,Heathers Croft,,Bootle
+2022-04-08,160000,L30 5QS,T,N,F,30,,Canterbury Way,,Bootle
+2022-04-08,95000,L30 2SE,S,N,F,111,,Poulsom Drive,,Bootle
+2022-04-07,55000,L30 3TA,F,N,L,32,,Park Lane West,,Bootle
+2022-04-06,150000,L30 8RR,S,N,L,93,,Dooley Drive,,Bootle
+2022-03-31,30000,L30 3TN,F,N,L,48,,St Aidans Way,,Bootle
+2022-03-31,55000,L30 3TN,F,N,L,26,,St Aidans Way,,Bootle
+2022-03-30,145000,L30 3SW,T,N,L,22,,Bridge Lane,,Bootle
+2022-03-30,112500,L30 0QE,T,N,F,15,,Stanton Close,,Bootle
+2022-03-25,252500,L30 7RL,S,N,F,19,,Moorbridge Close,,Bootle
+2022-03-25,200000,L30 1RT,D,N,L,48,,Lunt Avenue,,Bootle
+2022-03-24,87000,L30 5SJ,T,N,L,41,,Howard Florey Avenue,,Bootle
+2022-03-21,177500,L30 7RH,S,N,F,4,,Witham Close,,Bootle
+2022-03-17,90000,L30 9SU,S,N,L,79,,Captains Lane,,Bootle
+2022-03-14,70000,L30 7PP,F,N,L,42,,Green Park,,Bootle
+2022-03-11,121000,L30 9SS,T,N,F,8,,Masefield Crescent,,Bootle
+2022-03-04,175000,L30 7QW,S,N,F,18,,The Carters,,Bootle
+2022-03-04,105000,L30 2RS,T,N,F,7,,Simons Croft,,Bootle
+2022-03-04,193000,L30 1RA,S,N,F,107,,Longridge Drive,,Bootle
+2022-03-01,125000,L30 0QZ,T,N,F,70,,Stonyfield,,Bootle
+2022-02-28,85000,L30 5RD,T,N,F,31,,Ronald Ross Avenue,,Bootle
+2022-02-25,130000,L30 8RE,S,N,F,52,,Copy Lane,,Bootle
+2022-02-25,115000,L30 1SH,S,N,L,18,,Peterlee Way,,Bootle
+2022-02-18,159950,L30 3SE,S,N,F,29,,Ashbourne Avenue,,Bootle
+2022-02-18,85000,L30 0PA,T,N,F,4,,Pattens Close,,Bootle
+2022-02-14,123500,L30 5RS,S,N,F,1,,Henry Hickman Close,,Bootle
+2022-02-11,110000,L30 8RX,T,N,L,35,,Orchard Hey,,Bootle
+2022-02-11,160000,L30 3SX,S,N,F,67,,Park Lane West,,Bootle
+2022-02-11,125000,L30 0RD,T,N,F,1,,Parkway,,Bootle
+2022-02-11,112500,L30 0QZ,T,N,F,73,,Stonyfield,,Bootle
+2022-02-10,72500,L30 3TY,T,N,F,3,,St Ambrose Croft,,Bootle
+2022-02-04,155000,L30 7PN,S,N,F,78,,Lunar Drive,,Bootle
+2022-02-04,230000,L30 1RT,D,N,L,30,,Lunt Avenue,,Bootle
+2022-02-02,87000,L30 0QA,T,N,F,7,,Tarbrock Court,,Bootle
+2022-01-28,137000,L30 1PG,S,N,F,13,,Parkfield Avenue,,Bootle
+2022-01-28,95000,L30 0QE,T,N,F,5,,Stanton Close,,Bootle
+2022-01-27,185000,L30 7QA,S,N,L,10,,Corwen Drive,,Bootle
+2022-01-27,105000,L30 5QD,T,N,F,55,,St Oswalds Lane,,Bootle
+2022-01-27,105000,L30 2QD,T,N,L,3,,Cumberland Avenue,,Bootle
+2022-01-27,180000,L30 1RA,S,N,L,113,,Longridge Drive,,Bootle
+2022-01-26,100000,L30 0QE,T,N,L,1,,Stanton Close,,Bootle
+2022-01-21,180000,L30 7RS,S,N,F,63,,Barberry Crescent,,Bootle
+2022-01-21,125000,L30 0QJ,T,N,F,11,,Proctor Court,,Bootle
+2022-01-20,165000,L30 8RY,S,N,F,50,,Orchard Hey,,Bootle
+2022-01-20,133000,L30 5SD,S,N,L,14,,Louis Pasteur Avenue,,Bootle
+2022-01-14,175000,L30 7QA,S,N,L,35,,Corwen Drive,,Bootle
+2022-01-14,120000,L30 3TA,S,N,L,20,,Park Lane West,,Bootle
+2022-01-14,177500,L30 1RW,S,N,F,152,,Park Lane,Netherton,Bootle
+2022-01-13,161000,L30 2PW,T,N,F,65,,Sterrix Lane,,Bootle
+2022-01-12,180000,L30 1BD,S,N,L,19,,Hexham Close,Netherton,Bootle
+2022-01-07,156700,L30 9SB,S,N,F,81,,Thackeray Gardens,,Bootle
+2022-01-07,145000,L30 8SE,T,N,F,53,,Primary Avenue,,Bootle
+2022-01-05,126000,L30 1RT,T,N,L,59,,Lunt Avenue,,Bootle
+2021-12-23,65000,L30 5RJ,F,N,L,12,,John Hunter Way,,Bootle
+2021-12-21,102000,L30 1SJ,T,N,L,25,,Durham Way,,Bootle
+2021-12-17,150000,L30 8RD,S,N,F,26,,Copy Lane,,Bootle
+2021-12-17,105000,L30 0RD,T,N,F,8,,Parkway,,Bootle
+2021-12-16,85000,L30 5QS,T,N,F,33,,Canterbury Way,,Bootle
+2021-12-16,117500,L30 3TP,T,N,F,4,,St Gregorys Croft,,Bootle
+2021-12-10,162500,L30 3SN,S,N,F,195,,Bridge Lane,,Bootle
+2021-12-10,115000,L30 2NN,T,N,F,89,,Poulsom Drive,,Bootle
+2021-12-10,135000,L30 1PH,T,N,F,177,,Bridle Road,,Bootle
+2021-12-08,158000,L30 8RJ,S,N,F,5,,Emerald Close,,Bootle
+2021-12-07,43000,L30 9SQ,F,N,L,20,,Galsworthy Avenue,,Bootle
+2021-12-06,188000,L30 3SA,S,N,F,11,,Stand Park Avenue,,Bootle
+2021-12-03,150000,L30 3ST,S,N,F,11,,Stand Park Way,,Bootle
+2021-12-02,120000,L30 0RB,T,N,F,64,,Waterside,,Bootle
+2021-11-29,215000,L30 8RA,D,N,F,21,,Copy Lane,,Bootle
+2021-11-29,115000,L30 1SH,S,N,L,3,,Peterlee Way,,Bootle
+2021-11-24,260000,L30 6YB,D,N,F,6,,Harrow Close,,Bootle
+2021-11-24,130000,L30 3SX,S,N,F,47,,Park Lane West,,Bootle
+2021-11-22,164000,L30 7PL,S,N,F,53,,Lunar Drive,,Bootle
+2021-11-19,80000,L30 9SX,T,N,F,6,,Captains Lane,,Bootle
+2021-11-19,140000,L30 8RT,T,N,F,34,,Dooley Drive,,Bootle
+2021-11-18,95000,L30 8SD,S,N,L,48,,Marl Road,,Bootle
+2021-11-18,146000,L30 7QJ,S,N,F,33,,Harvester Way,,Bootle
+2021-11-16,85000,L30 1SG,S,N,L,33,,Petersfield Close,,Bootle
+2021-11-12,137000,L30 7QY,S,N,F,6,,The Bales,,Bootle
+2021-11-10,98000,L30 3TB,T,N,L,31,,The Marian Way,,Bootle
+2021-11-09,158050,L30 7QA,S,N,L,6,,Corwen Drive,,Bootle
+2021-11-08,92500,L30 1PT,T,N,F,14,,Edinburgh Close,,Bootle
+2021-11-05,85000,L30 5QT,T,N,F,22,,Buckfast Close,,Bootle
+2021-11-03,145000,L30 0QQ,T,N,L,110,,Fleetwoods Lane,,Bootle
+2021-11-01,121000,L30 2RF,T,N,F,128,,Swifts Lane,,Bootle
+2021-10-29,100000,L30 3SD,T,N,L,79,,Swifts Lane,,Bootle
+2021-10-29,120000,L30 0QD,T,N,F,8,,Maypole Court,,Bootle
+2021-10-28,104000,L30 1QU,T,N,F,17,,Coventry Avenue,,Bootle
+2021-10-26,120000,L30 5RR,T,N,L,3,,Joseph Lister Close,,Bootle
+2021-10-25,135000,L30 1QA,S,N,F,31,,Park Lane,Netherton,Bootle
+2021-10-22,136000,L30 3TA,D,N,F,30,,Park Lane West,,Bootle
+2021-10-21,120000,L30 0PR,T,N,L,1,,Pickering Rake,,Bootle
+2021-10-15,110000,L30 1SG,T,N,L,7,,Petersfield Close,,Bootle
+2021-10-15,210000,L30 1RA,D,N,L,153,,Longridge Drive,,Bootle
+2021-10-13,30000,L30 9SD,F,N,L,20,,Thackeray Gardens,,Bootle
+2021-10-12,80000,L30 5SB,T,N,F,43,,Louis Pasteur Avenue,,Bootle
+2021-10-08,156000,L30 8RQ,S,N,F,17,,Waterway Avenue,,Bootle
+2021-10-08,122000,L30 5SF,S,N,F,47,,Albert Schweitzer Avenue,,Bootle
+2021-10-08,115000,L30 3SR,S,N,F,13,,Sarahs Croft,,Bootle
+2021-10-08,95000,L30 2NW,T,N,F,42,,Poulsom Drive,,Bootle
+2021-10-06,90750,L30 0QY,T,N,F,96,,Harrops Croft,,Bootle
+2021-10-05,48000,L30 5RZ,F,N,L,76,,Marie Curie Avenue,,Bootle
+2021-09-30,90000,L30 3TG,S,N,F,52,,The Marian Way,,Bootle
+2021-09-30,240000,L30 1RA,D,N,L,169,,Longridge Drive,,Bootle
+2021-09-30,97000,L30 0QS,S,N,F,43,,Stonyfield,,Bootle
+2021-09-28,100000,L30 5QP,T,N,F,100,,Peterborough Drive,,Bootle
+2021-09-28,85000,L30 0PU,T,N,F,1,,Harrocks Close,,Bootle
+2021-09-27,163500,L30 6YE,S,N,L,36,,Richmond Crescent,,Bootle
+2021-09-27,250000,L30 1RT,D,N,L,60,,Lunt Avenue,,Bootle
+2021-09-24,225000,L30 6YG,D,N,L,55,,Regent Avenue,,Bootle
+2021-09-24,120000,L30 3SP,T,N,F,1,,Brendans Way,,Bootle
+2021-09-23,89000,L30 1SG,T,N,L,3,,Petersfield Close,,Bootle
+2021-09-20,147000,L30 8SB,T,N,F,9,,Marl Road,,Bootle
+2021-09-20,120000,L30 5RA,T,N,F,11,,Leonard Cheshire Drive,,Bootle
+2021-09-17,185000,L30 7RS,S,N,F,57,,Barberry Crescent,,Bootle
+2021-09-17,150000,L30 5RB,S,N,F,28,,William Harvey Close,,Bootle
+2021-09-17,175000,L30 3TB,S,N,F,21,,The Marian Way,,Bootle
+2021-09-16,85000,L30 1SQ,T,N,L,6,,Blaydon Close,,Bootle
+2021-09-15,175000,L30 1RL,S,N,F,19,,Marina Crescent,,Bootle
+2021-09-15,124000,L30 0QY,T,N,F,66,,Harrops Croft,,Bootle
+2021-09-10,125000,L30 1PD,S,N,F,18,,Raymond Avenue,,Bootle
+2021-09-09,90000,L30 5RL,T,N,F,9,,Browns Lane,,Bootle
+2021-09-03,160000,L30 8SA,S,N,F,24,,Deerbarn Drive,,Bootle
+2021-09-03,155000,L30 1SE,S,N,F,4,,Meadway,,Bootle
+2021-09-03,155000,L30 1PW,S,N,F,36,,Abbeystead Avenue,,Bootle
+2021-09-02,117000,L30 0QS,T,N,F,37,,Stonyfield,,Bootle
+2021-08-27,177000,L30 6YG,S,N,F,24,,Regent Avenue,,Bootle
+2021-08-27,238000,L30 1PF,S,N,F,36,,Park Lane,Netherton,Bootle
+2021-08-27,101500,L30 0QS,T,N,F,2,,Stonyfield,,Bootle
+2021-08-26,120000,L30 0QR,T,N,F,42,,Higher End Park,,Bootle
+2021-08-25,80000,L30 2RL,T,N,F,13,,St Augustines Way,,Bootle
+2021-08-20,102000,L30 9SA,T,N,F,49,,Thackeray Gardens,,Bootle
+2021-08-20,135000,L30 8RN,S,N,F,55,,Homestead Avenue,,Bootle
+2021-08-20,148000,L30 3UA,S,N,F,10,,Barnfield Close,,Bootle
+2021-08-19,105000,L30 0PE,T,N,F,1,,Cobham Walk,,Bootle
+2021-08-17,120000,L30 8RS,T,N,L,12,,Dooley Drive,,Bootle
+2021-08-16,175000,L30 7QH,S,N,L,10,,Brierley Close,,Bootle
+2021-08-16,116000,L30 3UA,T,N,F,13,,Barnfield Close,,Bootle
+2021-08-13,120000,L30 7QR,S,N,F,2,,Windsor Close,,Bootle
+2021-08-12,266000,L30 6YG,D,N,F,19,,Regent Avenue,,Bootle
+2021-08-12,98000,L30 2QD,T,N,F,5,,Cumberland Avenue,,Bootle
+2021-08-09,140000,L30 3RY,S,N,F,1,,April Rise,,Bootle
+2021-08-06,140000,L30 1RS,S,N,F,100,,Marina Crescent,,Bootle
+2021-08-06,75000,L30 0QS,T,N,F,20,,Stonyfield,,Bootle
+2021-08-05,163500,L30 1RA,S,N,L,109,,Longridge Drive,,Bootle
+2021-07-30,183000,L30 7QE,D,N,L,2,,Roleton Close,,Bootle
+2021-07-30,119950,L30 1RL,S,N,F,15,,Marina Crescent,,Bootle
+2021-07-29,112000,L30 7PL,S,N,F,23,,Lunar Drive,,Bootle
+2021-07-28,112000,L30 5QR,T,N,F,21,,Truro Avenue,,Bootle
+2021-07-23,82000,L30 2NE,T,N,F,23,,Broad Hey,,Bootle
+2021-07-23,223000,L30 1PG,S,N,F,1,,Parkfield Avenue,,Bootle
+2021-07-21,153500,L30 1SB,S,N,F,20,,Marlborough Avenue,,Bootle
+2021-07-19,217000,L30 1RA,D,N,L,151,,Longridge Drive,,Bootle
+2021-07-19,115000,L30 0QA,T,N,F,1,,Tarbrock Court,,Bootle
+2021-07-14,50000,L30 2PY,T,N,F,2,,Hampshire Avenue,,Bootle
+2021-07-12,112500,L30 2PA,T,N,F,45,,Randall Drive,,Bootle
+2021-07-09,130000,L30 5RW,T,N,F,38,,Browns Lane,,Bootle
+2021-07-09,60000,L30 2PA,T,N,F,43,,Randall Drive,,Bootle
+2021-07-08,78000,L30 3TF,S,N,L,6,,The Marian Way,,Bootle
+2021-07-08,122500,L30 1RL,S,N,F,43,,Marina Crescent,,Bootle
+2021-07-06,225000,L30 1RA,D,N,L,51,,Longridge Drive,,Bootle
+2021-07-05,104166,L30 9ST,T,N,F,11,,Masefield Place,,Bootle
+2021-06-30,115000,L30 8SE,S,N,F,83,,Primary Avenue,,Bootle
+2021-06-30,180000,L30 7RS,S,N,F,31,,Barberry Crescent,,Bootle
+2021-06-30,190000,L30 6YE,D,N,F,10,,Richmond Crescent,,Bootle
+2021-06-30,142000,L30 2PW,T,N,F,71,,Sterrix Lane,,Bootle
+2021-06-30,174000,L30 1RA,S,N,L,145,,Longridge Drive,,Bootle
+2021-06-30,185000,L30 1RA,S,N,L,117,,Longridge Drive,,Bootle
+2021-06-30,120000,L30 0QS,T,N,F,53,,Stonyfield,,Bootle
+2021-06-29,155000,L30 3SN,S,N,F,161,,Bridge Lane,,Bootle
+2021-06-28,34000,L30 1SH,T,N,L,10,,Peterlee Way,,Bootle
+2021-06-25,187000,L30 7QB,S,N,F,8,,Castleton Drive,,Bootle
+2021-06-24,105000,L30 0PA,T,N,F,5,,Pattens Close,,Bootle
+2021-06-23,181000,L30 7RX,S,N,F,7,,Charlock Close,,Bootle
+2021-06-23,75000,L30 7PP,F,N,L,2,,Green Park,,Bootle
+2021-06-22,187000,L30 7QY,S,N,F,14,,The Bales,,Bootle
+2021-06-11,160000,L30 7PL,S,N,F,57,,Lunar Drive,,Bootle
+2021-06-11,135000,L30 5SQ,S,N,L,100,,Albert Schweitzer Avenue,,Bootle
+2021-06-11,85000,L30 2RL,T,N,F,15,,St Augustines Way,,Bootle
+2021-06-11,163000,L30 1RZ,S,N,F,8,,Jubilee Drive,,Bootle
+2021-06-09,305000,L30 7RN,D,N,F,9,,Hollinhey Close,,Bootle
+2021-06-04,144000,L30 7RS,S,N,F,71,,Barberry Crescent,,Bootle
+2021-06-04,129995,L30 7PH,T,N,F,23,,Apollo Way,,Bootle
+2021-06-04,80000,L30 5RE,T,N,F,23,,Sherborne Avenue,,Bootle
+2021-06-04,130000,L30 2QR,T,N,L,5,,Blyth Hey,,Bootle
+2021-06-04,120000,L30 1PT,S,N,F,41,,Edinburgh Close,,Bootle
+2021-06-03,116000,L30 9SQ,T,N,L,10,,Galsworthy Avenue,,Bootle
+2021-06-03,150000,L30 7PL,S,N,F,52,,Lunar Drive,,Bootle
+2021-06-01,91000,L30 5QR,T,N,F,8,,Truro Avenue,,Bootle
+2021-05-28,168500,L30 8RT,S,N,F,30,,Dooley Drive,,Bootle
+2021-05-28,185000,L30 7QY,S,N,F,1,,The Bales,,Bootle
+2021-05-28,80000,L30 7PP,F,N,L,21,,Green Park,,Bootle
+2021-05-28,136000,L30 5SH,S,N,F,2,,Florence Nightingale Close,,Bootle
+2021-05-28,66666,L30 5SB,T,N,F,63,,Louis Pasteur Avenue,,Bootle
+2021-05-28,140000,L30 2PB,S,N,F,67,,Randall Drive,,Bootle
+2021-05-28,138000,L30 1SA,S,N,F,14,,Beech Grove,,Bootle
+2021-05-27,152000,L30 7QB,S,N,L,38,,Castleton Drive,,Bootle
+2021-05-24,80000,L30 3TF,T,N,F,10,,The Marian Way,,Bootle
+2021-05-24,81000,L30 0QE,T,N,F,17,,Stanton Close,,Bootle
+2021-05-21,250000,L30 7PA,D,N,F,27A,,Netherton Green,,Bootle
+2021-05-12,115500,L30 9TD,S,N,L,12,,Invincible Close,,Bootle
+2021-05-10,205000,L30 1RT,D,N,L,46,,Lunt Avenue,,Bootle
+2021-05-07,80000,L30 2RP,T,N,F,7,,St Leonards Close,,Bootle
+2021-05-07,76000,L30 2RD,T,N,F,22,,Swifts Lane,,Bootle
+2021-05-07,97000,L30 2PY,T,N,F,5,,Hampshire Avenue,,Bootle
+2021-04-30,97000,L30 2QN,S,N,F,5,,Dartmouth Drive,,Bootle
+2021-04-30,140000,L30 2PN,S,N,F,35,,Sterrix Lane,,Bootle
+2021-04-30,144100,L30 1RL,S,N,F,11,,Marina Crescent,,Bootle
+2021-04-29,103000,L30 2NW,S,N,F,38,,Poulsom Drive,,Bootle
+2021-04-28,95000,L30 0PF,T,N,F,16,,Hilton Court,,Bootle
+2021-04-27,160000,L30 2NW,T,N,F,54,,Poulsom Drive,,Bootle
+2021-04-23,124950,L30 8SE,T,N,F,69,,Primary Avenue,,Bootle
+2021-04-23,135000,L30 8RN,S,N,F,29,,Homestead Avenue,,Bootle
+2021-04-16,125000,L30 5SH,T,N,F,4,,Florence Nightingale Close,,Bootle
+2021-04-16,69000,L30 5QU,T,N,F,25,,Assissian Crescent,,Bootle
+2021-04-01,139500,L30 7QR,S,N,F,22,,Windsor Close,,Bootle
+2021-04-01,225000,L30 7PA,D,N,F,27,,Netherton Green,,Bootle
+2021-03-31,79000,L30 0QE,T,N,F,6,,Stanton Close,,Bootle
+2021-03-29,155000,L30 8RN,S,N,F,5,,Homestead Avenue,,Bootle
+2021-03-26,92500,L30 1PY,S,N,L,71,,Salisbury Avenue,,Bootle
+2021-03-22,113000,L30 7QP,S,N,F,29,,York Close,,Bootle
+2021-03-22,115000,L30 0QQ,T,N,F,92,,Fleetwoods Lane,,Bootle
+2021-03-19,120000,L30 8SE,T,N,F,57,,Primary Avenue,,Bootle
+2021-03-19,200000,L30 7RL,D,N,F,3,,Moorbridge Close,,Bootle
+2021-03-19,125000,L30 7PL,T,N,F,46,,Lunar Drive,,Bootle
+2021-03-19,110000,L30 5SL,T,N,F,32,,Frederick Banting Close,,Bootle
+2021-03-19,110000,L30 2NS,S,N,F,25,,Green Hey Drive,,Bootle
+2021-03-17,139950,L30 8SE,S,N,F,9,,Primary Avenue,,Bootle
+2021-03-15,179000,L30 6YG,D,N,L,47,,Regent Avenue,,Bootle
+2021-03-15,92000,L30 0RA,T,N,F,13,,Waterside,,Bootle
+2021-03-15,90000,L30 0PY,T,N,F,3,,Gaskell Rake,,Bootle
+2021-03-12,165000,L30 7QH,S,N,L,5,,Brierley Close,,Bootle
+2021-03-12,90000,L30 0QS,T,N,F,33,,Stonyfield,,Bootle
+2021-03-11,225000,L30 1RA,D,N,F,69,,Longridge Drive,,Bootle
+2021-03-10,127500,L30 7QZ,S,N,F,11,,Reapers Way,,Bootle
+2021-03-10,90000,L30 1QE,T,N,F,79,,Quigley Avenue,,Bootle
+2021-03-09,110000,L30 2QP,T,N,F,4,,St Stephens Grove,,Bootle
+2021-03-05,100000,L30 5RG,T,N,L,48,,Eden Vale,,Bootle
+2021-03-05,126000,L30 1RN,T,N,F,90,,Park Lane,Netherton,Bootle
+2021-03-05,83000,L30 1QY,T,N,F,289,,Hereford Drive,,Bootle
+2021-03-03,144000,L30 8SD,S,N,F,8,,Marl Road,,Bootle
+2021-02-26,165000,L30 8RF,T,N,F,27,,Netherton Grange,,Bootle
+2021-02-26,80000,L30 5SF,T,N,F,45,,Albert Schweitzer Avenue,,Bootle
+2021-02-26,123000,L30 1PN,S,N,F,61,,Abbeystead Avenue,,Bootle
+2021-02-25,72000,L30 5TB,S,N,L,4,,Pinetree Close,,Bootle
+2021-02-24,115000,L30 2RY,S,N,F,68A,,Simons Croft,,Bootle
+2021-02-18,180000,L30 7QE,S,N,L,5,,Roleton Close,,Bootle
+2021-02-18,105000,L30 2QT,T,N,F,3,,St Thomass Drive,,Bootle
+2021-02-12,197000,L30 8RG,S,N,F,8,,Manor Drive,,Bootle
+2021-02-12,92500,L30 2NH,S,N,F,1,,St Dunstans Grove,,Bootle
+2021-02-12,88000,L30 1QZ,S,N,F,178,,Hereford Drive,,Bootle
+2021-02-11,70000,L30 9TB,F,N,L,28,,Atlantic Way,,Bootle
+2021-02-08,137000,L30 7QQ,S,N,L,10,,Beeston Drive,,Bootle
+2021-02-08,80500,L30 3TJ,T,N,F,143,,Glovers Lane,,Bootle
+2021-02-05,82000,L30 2NT,F,N,L,22,,Green Hey Drive,,Bootle
+2021-02-03,125500,L30 1PQ,S,N,F,22,,Parkfield Avenue,,Bootle
+2021-02-02,118000,L30 5RW,T,N,F,50,,Browns Lane,,Bootle
+2021-02-01,100000,L30 3SS,T,N,F,22,,Sarahs Croft,,Bootle
+2021-01-29,113500,L30 7PH,S,N,F,19,,Apollo Way,,Bootle
+2021-01-29,205000,L30 1RA,D,N,L,137,,Longridge Drive,,Bootle
+2021-01-28,90000,L30 1QY,T,N,F,261,,Hereford Drive,,Bootle
+2021-01-25,120000,L30 1RT,S,N,F,6,,Lunt Avenue,,Bootle
+2021-01-25,100000,L30 1PN,S,N,F,5,,Abbeystead Avenue,,Bootle
+2021-01-22,187000,L30 6YE,S,N,F,28,,Richmond Crescent,,Bootle
+2021-01-22,125000,L30 3SQ,S,N,F,4,,Elton Avenue,,Bootle
+2021-01-15,126000,L30 2RS,T,N,L,31,,Simons Croft,,Bootle
+2021-01-13,156000,L30 8RY,T,N,F,52,,Orchard Hey,,Bootle
+2021-01-08,174995,L30 7RS,S,N,F,33,,Barberry Crescent,,Bootle

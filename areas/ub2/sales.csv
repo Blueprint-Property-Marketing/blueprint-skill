@@ -1,0 +1,810 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-20,500000,UB2 4LB,D,N,F,4,,Osterley Lane,,Southall
+2026-08-17,372500,UB2 4FT,F,N,L,Levett House,Flat 17,Holman Drive,,Southall
+2026-07-13,199950,UB2 4UN,F,N,L,Osterley Views,Flat 15B,West Park Road,,Southall
+2026-07-13,400000,UB2 4FP,F,N,L,Clerkenwell House,Flat 26,Hilda Road,,Southall
+2026-06-26,270000,UB2 5SD,F,N,L,37,,Rostrevor Gardens,,Southall
+2026-06-25,485000,UB2 5JA,T,N,F,3,,Tachbrook Road,,Southall
+2026-06-24,445000,UB2 5JY,T,N,F,52,,Brent Road,,Southall
+2026-06-08,540000,UB2 4GN,T,N,F,25,,Isambard Road,,Southall
+2026-06-05,480000,UB2 5EF,T,N,F,57,,Sussex Road,,Southall
+2026-05-29,292000,UB2 5UN,F,N,L,355,,Convent Way,,Southall
+2026-05-29,485000,UB2 5TX,T,N,F,149,,Wentworth Road,,Southall
+2026-05-29,922500,UB2 4HP,D,N,F,57,,Minterne Avenue,,Southall
+2026-05-27,155000,UB2 4JN,F,N,L,21,,Harewood Terrace,,Southall
+2026-05-26,875000,UB2 5RZ,S,N,F,1,,Ditton Road,,Southall
+2026-05-22,415000,UB2 5UX,S,N,F,1,,Jessop Avenue,,Southall
+2026-05-07,285000,UB2 5HQ,F,N,L,71A,,Western Road,,Southall
+2026-05-06,448500,UB2 5BN,T,N,F,20,,Clarence Street,,Southall
+2026-05-01,440000,UB2 4BA,T,N,F,44,,Lockwood Road,,Southall
+2026-04-30,235000,UB2 4XD,F,N,L,48,,Comer Crescent,,Southall
+2026-04-29,670000,UB2 4NF,S,N,F,82,,Windmill Lane,,Southall
+2026-04-27,525000,UB2 4PZ,T,N,F,27,,Hunt Road,,Southall
+2026-04-27,525000,UB2 4PZ,S,N,F,25,,Hunt Road,,Southall
+2026-04-20,275000,UB2 4EA,F,N,L,21 - 29,Flat 14,Norwood Road,,Southall
+2026-04-17,475000,UB2 4NX,T,N,F,4,,Warwick Road,,Southall
+2026-04-10,710000,UB2 5EW,T,N,F,113,,Derley Road,,Southall
+2026-04-08,420000,UB2 5QD,T,N,F,36,,Williams Road,,Southall
+2026-03-30,260000,UB2 5TJ,F,N,L,33,,Canalside Gardens,,Southall
+2026-03-25,320000,UB2 5UB,T,N,F,24,,Convent Way,,Southall
+2026-03-18,260000,UB2 5QF,F,N,L,105,,Salisbury Road,,Southall
+2026-03-17,230000,UB2 4WH,F,N,L,Ashwell House,38,Healum Avenue,,Southall
+2026-03-16,800000,UB2 4HP,S,N,F,46,,Minterne Avenue,,Southall
+2026-03-13,540000,UB2 5SQ,T,N,F,40,,Hadley Gardens,,Southall
+2026-03-13,400000,UB2 5AZ,T,N,F,87,,Queens Road,,Southall
+2026-03-11,560000,UB2 5RT,T,N,F,38,,Kingsbridge Road,,Southall
+2026-03-09,545000,UB2 5SE,S,N,F,216,,North Hyde Lane,,Southall
+2026-03-02,212508,UB2 4JN,T,N,L,97,,Harewood Terrace,,Southall
+2026-02-26,280000,UB2 4BS,F,N,L,"Grosvenor Court, 10 - 20",Flat 6,Grosvenor Road,,Southall
+2026-02-25,340000,UB2 4FP,F,N,L,Clerkenwell House,Flat 4,Hilda Road,,Southall
+2026-02-24,200000,UB2 5NU,F,N,L,150,,Burket Close,,Southall
+2026-02-23,330000,UB2 4GA,F,N,L,Kinglake House,Flat 76,Denman Avenue,,Southall
+2026-02-20,295000,UB2 4UN,F,N,L,Osterley Views,Flat 33,West Park Road,,Southall
+2026-02-18,370000,UB2 4JT,T,N,F,192C,,Norwood Road,,Southall
+2026-02-12,900000,UB2 5QZ,S,N,F,35,,Crosslands Avenue,,Southall
+2026-02-06,392500,UB2 5SA,T,N,F,11,,Barnes Avenue,,Southall
+2026-02-02,625000,UB2 5ER,T,N,F,90,,Greenland Crescent,,Southall
+2026-01-30,250000,UB2 5TJ,F,N,L,36,,Canalside Gardens,,Southall
+2026-01-27,395000,UB2 5RH,T,N,F,128,,Thorncliffe Road,,Southall
+2026-01-26,705000,UB2 5SQ,T,N,F,39,,Hadley Gardens,,Southall
+2026-01-26,835000,UB2 4HF,T,N,F,18,,Dorset Avenue,,Southall
+2026-01-23,450000,UB2 4EQ,T,N,F,60,,Hammond Road,,Southall
+2026-01-16,530000,UB2 4NQ,S,N,F,31,,Wolsey Close,,Southall
+2026-01-09,440000,UB2 4AS,T,N,F,19,,Potters Road,,Southall
+2025-12-19,570000,UB2 5SN,T,N,F,6,,Clunbury Avenue,,Southall
+2025-12-19,450000,UB2 5AY,T,N,F,25,,Queens Road,,Southall
+2025-12-19,215000,UB2 4NL,F,N,L,"Greensleeves House, 58",3,St Marys Avenue Central,,Southall
+2025-12-10,850000,UB2 4HB,T,N,F,6,,Wimborne Avenue,,Southall
+2025-12-05,300000,UB2 5JB,F,N,L,14,,Sangam Close,,Southall
+2025-12-05,397000,UB2 5BL,T,N,F,127,,Clarence Street,,Southall
+2025-11-28,200000,UB2 5GQ,F,N,L,Featherstone Court,96,Featherstone Road,,Southall
+2025-11-28,341000,UB2 4UW,F,N,L,Osterley Gardens,Flat 8,Chevy Road,,Southall
+2025-11-28,250000,UB2 4GJ,F,N,L,Daubenton House,14,Havelock Road,,Southall
+2025-11-26,542500,UB2 5LT,S,N,F,18,,Tilney Road,,Southall
+2025-11-24,280000,UB2 5SR,F,N,L,69,,Ringway,,Southall
+2025-11-24,430000,UB2 5AU,T,N,F,16,,Hartington Road,,Southall
+2025-11-21,209000,UB2 5JL,F,N,L,19 - 21,Flat 12,Western Road,,Southall
+2025-11-21,325000,UB2 4WL,F,N,L,Butleigh House,35,Healum Avenue,,Southall
+2025-11-20,375000,UB2 4FP,F,N,L,Clerkenwell House,Flat 21,Hilda Road,,Southall
+2025-11-17,475000,UB2 5BU,S,N,F,23,,Balfour Road,,Southall
+2025-10-31,511000,UB2 4AW,T,N,F,35,,Kingston Road,,Southall
+2025-10-30,375000,UB2 5SD,F,N,L,41,,Rostrevor Gardens,,Southall
+2025-10-28,404000,UB2 5AR,T,N,F,32,,Dudley Road,,Southall
+2025-10-27,200000,UB2 5JL,F,N,L,19 - 21,Flat 14,Western Road,,Southall
+2025-10-24,565000,UB2 4LE,T,N,F,32,,Tentelow Lane,,Southall
+2025-10-17,470000,UB2 5QG,T,N,F,46,,Inverness Road,,Southall
+2025-10-17,495000,UB2 4NX,T,N,F,18,,Warwick Road,,Southall
+2025-10-17,925000,UB2 4LU,D,N,F,72,,St Marys Avenue North,,Southall
+2025-10-15,235000,UB2 4GG,F,N,L,Rudderstock House,6,Havelock Road,,Southall
+2025-10-15,380000,UB2 4FX,F,N,L,Pemberton House,Flat 54,Denman Avenue,,Southall
+2025-10-14,440000,UB2 4AF,F,N,L,Osterley Views,55,West Park Road,,Southall
+2025-10-08,180000,UB2 4EE,F,N,L,53A,,Victoria Road,,Southall
+2025-10-03,525000,UB2 5LS,T,N,F,17,,Lonsdale Road,,Southall
+2025-10-01,240000,UB2 5DT,F,N,L,8,,Savera Close,,Southall
+2025-10-01,225000,UB2 4WQ,F,N,L,Doniford House,87,Healum Avenue,,Southall
+2025-10-01,935000,UB2 4LS,D,N,F,20,,St Marys Avenue South,,Southall
+2025-09-30,95000,UB2 4WS,F,N,L,Samuelson House,78,Merrick Road,,Southall
+2025-09-22,555000,UB2 5RU,T,N,F,52,,Kingsbridge Road,,Southall
+2025-09-19,348000,UB2 4FN,F,N,L,Chaucer House,Flat 12,Hilda Road,,Southall
+2025-09-12,537500,UB2 5SE,S,N,F,208,,North Hyde Lane,,Southall
+2025-09-12,490000,UB2 5RX,S,N,F,48,,Penbury Road,,Southall
+2025-09-12,240000,UB2 5AP,F,N,L,31,,Waltham Road,,Southall
+2025-09-10,525000,UB2 5JX,S,N,F,11,,Brent Road,,Southall
+2025-09-10,425000,UB2 5AS,T,N,F,41,,Dudley Road,,Southall
+2025-09-04,232000,UB2 5GQ,F,N,L,Featherstone Court,81,Featherstone Road,,Southall
+2025-08-28,550000,UB2 5EN,T,N,F,76,,Derley Road,,Southall
+2025-08-22,460000,UB2 5QE,T,N,F,1,,Gordon Road,,Southall
+2025-08-14,393000,UB2 5PA,T,N,F,14,,Montague Waye,,Southall
+2025-08-08,268000,UB2 4WR,F,N,L,Samuelson House,48,Merrick Road,,Southall
+2025-08-01,490000,UB2 5DQ,T,N,F,169,,Scotts Road,,Southall
+2025-08-01,725000,UB2 4HT,D,N,F,80,,Melbury Avenue,,Southall
+2025-07-31,800000,UB2 4HN,S,N,F,21,,Minterne Avenue,,Southall
+2025-07-29,800000,UB2 5QT,D,N,F,2A,,Alleyn Park,,Southall
+2025-07-28,265000,UB2 5UD,F,N,L,38,,Convent Way,,Southall
+2025-07-25,217500,UB2 5QF,F,N,L,119,,Salisbury Road,,Southall
+2025-07-25,340000,UB2 4UW,F,N,L,Osterley Gardens,Flat 47,Chevy Road,,Southall
+2025-07-23,235000,UB2 4UW,F,N,L,Osterley Gardens,Flat 10,Chevy Road,,Southall
+2025-07-21,440000,UB2 4NB,T,N,F,8,,Norwood Terrace,,Southall
+2025-07-18,430000,UB2 4EG,T,N,F,28,,Hammond Road,,Southall
+2025-07-11,650000,UB2 5LR,T,N,F,18,,Caxton Road,,Southall
+2025-07-11,535000,UB2 5LP,S,N,F,48,,Marlborough Road,,Southall
+2025-07-11,352500,UB2 5BH,T,N,F,48,,Spencer Street,,Southall
+2025-07-11,355000,UB2 4WL,F,N,L,Butleigh House,24,Healum Avenue,,Southall
+2025-07-08,624000,UB2 4HH,S,N,F,39,,Shaftesbury Avenue,,Southall
+2025-07-04,538000,UB2 5PQ,T,N,F,50,,Stratford Road,,Southall
+2025-07-04,399000,UB2 4FX,F,N,L,Pemberton House,Flat 62,Denman Avenue,,Southall
+2025-07-03,800000,UB2 4HT,D,N,F,55,,Melbury Avenue,,Southall
+2025-06-30,380000,UB2 4GG,F,N,L,Rudderstock House,13,Havelock Road,,Southall
+2025-06-30,350000,UB2 4FT,F,N,L,Levett House,Flat 21,Holman Drive,,Southall
+2025-06-25,478000,UB2 5BA,S,N,F,149,,Queens Road,,Southall
+2025-06-25,100000,UB2 4WP,F,N,L,Doniford House,47,Healum Avenue,,Southall
+2025-06-20,375000,UB2 4FN,F,N,L,Chaucer House,Flat 4,Hilda Road,,Southall
+2025-06-06,850000,UB2 5RG,T,N,F,24,,Thorncliffe Road,,Southall
+2025-05-23,522500,UB2 5TX,S,N,F,147,,Wentworth Road,,Southall
+2025-05-23,300000,UB2 5RU,T,N,F,63,,Kingsbridge Road,,Southall
+2025-05-23,315000,UB2 5PT,F,N,L,Gateway Court,15,Convent Way,,Southall
+2025-05-22,477500,UB2 4AF,F,N,L,Osterley Views,69,West Park Road,,Southall
+2025-05-21,630000,UB2 5RX,T,N,F,12,,Penbury Road,,Southall
+2025-05-19,205000,UB2 5JL,F,N,L,19 - 21,Flat 33,Western Road,,Southall
+2025-05-15,832000,UB2 5RN,S,N,F,91,,Thorncliffe Road,,Southall
+2025-05-09,540000,UB2 5LP,T,N,F,50,,Marlborough Road,,Southall
+2025-05-02,335000,UB2 5QJ,F,N,L,18,,Salisbury Road,,Southall
+2025-05-02,211000,UB2 4UW,F,N,L,Osterley Gardens,Flat 20,Chevy Road,,Southall
+2025-05-02,930000,UB2 4HQ,D,N,F,5,,Shaftesbury Avenue,,Southall
+2025-04-16,525000,UB2 5TU,T,N,F,102,,Wentworth Road,,Southall
+2025-04-14,775000,UB2 5RS,T,N,F,9,,The Glen,,Southall
+2025-03-31,700000,UB2 5QU,S,N,F,31,,Alleyn Park,,Southall
+2025-03-31,550000,UB2 5LS,T,N,F,16,,Lonsdale Road,,Southall
+2025-03-31,490000,UB2 5HX,T,N,F,54,,Florence Road,,Southall
+2025-03-31,228000,UB2 5GQ,F,N,L,Featherstone Court,Flat 99,Featherstone Road,,Southall
+2025-03-28,541500,UB2 5TX,T,N,F,141,,Wentworth Road,,Southall
+2025-03-28,375000,UB2 5BY,T,N,F,58,,Johnson Street,,Southall
+2025-03-28,465000,UB2 4PG,S,N,F,21,,Cookham Close,,Southall
+2025-03-27,400000,UB2 5LT,S,N,F,31,,Tilney Road,,Southall
+2025-03-27,475000,UB2 4GN,T,N,F,45,,Isambard Road,,Southall
+2025-03-26,450000,UB2 5TS,T,N,F,22,,Wentworth Road,,Southall
+2025-03-26,950000,UB2 5QU,S,N,F,33,,Alleyn Park,,Southall
+2025-03-26,300000,UB2 4WH,F,N,L,Ashwell House,15,Healum Avenue,,Southall
+2025-03-24,445000,UB2 5BB,T,N,F,17,,Gladstone Road,,Southall
+2025-03-21,310000,UB2 5PT,F,N,L,Gateway Court,23,Convent Way,,Southall
+2025-03-17,350000,UB2 5JY,T,N,F,48,,Brent Road,,Southall
+2025-03-14,325000,UB2 4WS,F,N,L,Samuelson House,106,Merrick Road,,Southall
+2025-03-13,270000,UB2 5PQ,T,N,F,28,,Stratford Road,,Southall
+2025-03-07,425000,UB2 5JY,S,N,F,41,,Brent Road,,Southall
+2025-03-04,275000,UB2 5RF,F,N,L,10,,Norwood Close,,Southall
+2025-02-28,865000,UB2 4JJ,T,N,F,283,,Norwood Road,,Southall
+2025-02-25,463000,UB2 4EH,T,N,F,89,,Hammond Road,,Southall
+2025-02-24,517000,UB2 5DE,S,N,F,62,,Scotts Road,,Southall
+2025-02-24,208000,UB2 4AF,F,N,L,Osterley Views,49A,West Park Road,,Southall
+2025-02-21,332500,UB2 4FX,F,N,L,Pemberton House,Flat 43,Denman Avenue,,Southall
+2025-02-14,317500,UB2 4UN,F,N,L,Osterley Views,Flat 32,West Park Road,,Southall
+2025-02-14,1500000,UB2 4LN,D,N,F,79,,Tentelow Lane,,Southall
+2025-02-12,500000,UB2 4PZ,T,N,F,19,,Hunt Road,,Southall
+2025-02-10,395000,UB2 4AF,F,N,L,Osterley Views,54,West Park Road,,Southall
+2025-02-07,540000,UB2 5TN,S,N,F,30,,Newlands Close,,Southall
+2025-02-07,430000,UB2 5HX,T,N,F,62,,Florence Road,,Southall
+2025-02-07,200000,UB2 5EN,T,N,F,88,,Derley Road,,Southall
+2025-02-05,530000,UB2 5LS,T,N,F,5,,Lonsdale Road,,Southall
+2025-02-03,1025000,UB2 4HU,S,N,F,14,,Sherborne Avenue,,Southall
+2025-01-31,700000,UB2 5RT,S,N,F,48,,Kingsbridge Road,,Southall
+2025-01-31,360000,UB2 4UN,F,N,L,Osterley Views,Flat 27,West Park Road,,Southall
+2025-01-30,276000,UB2 5GQ,F,N,L,Featherstone Court,82,Featherstone Road,,Southall
+2025-01-27,865000,UB2 4LB,D,N,F,10,,Osterley Lane,,Southall
+2025-01-24,97500,UB2 4WS,F,N,L,Samuelson House,68,Merrick Road,,Southall
+2025-01-20,475000,UB2 5QL,T,N,F,18,,Endsleigh Road,,Southall
+2025-01-17,800000,UB2 4JJ,D,N,F,309,,Norwood Road,,Southall
+2025-01-10,399999,UB2 5DG,T,N,F,117,,Scotts Road,,Southall
+2024-12-20,378707,UB2 4FH,D,N,F,2,,Barge Drive,,Southall
+2024-12-20,378707,UB2 4FH,D,N,F,1,,Barge Drive,,Southall
+2024-12-19,550000,UB2 5TS,T,N,F,26,,Wentworth Road,,Southall
+2024-12-19,232000,UB2 5QJ,F,N,L,21,,Salisbury Road,,Southall
+2024-12-18,1000000,UB2 5RW,S,N,F,27,,Craneswater Park,,Southall
+2024-12-16,858000,UB2 4LT,D,N,F,36,,St Marys Avenue Central,,Southall
+2024-12-13,440000,UB2 5PZ,T,N,F,5,,Lea Road,,Southall
+2024-12-12,550000,UB2 5RX,T,N,F,58,,Penbury Road,,Southall
+2024-12-05,175000,UB2 5HY,T,N,F,20,,Albert Road,,Southall
+2024-12-03,222500,UB2 5QJ,F,N,L,81,,Salisbury Road,,Southall
+2024-12-02,137500,UB2 5TJ,F,N,L,48,,Canalside Gardens,,Southall
+2024-12-02,564300,UB2 4NF,T,N,F,66,,Windmill Lane,,Southall
+2024-11-29,550000,UB2 5RX,T,N,F,18,,Penbury Road,,Southall
+2024-11-29,263000,UB2 5GQ,F,N,L,Featherstone Court,63,Featherstone Road,,Southall
+2024-11-28,390000,UB2 5SH,T,N,F,62,,Hadley Gardens,,Southall
+2024-11-27,253000,UB2 5TJ,F,N,L,27,,Canalside Gardens,,Southall
+2024-11-25,92500,UB2 4GU,F,N,L,Carter Court,Flat 26,Gilding Way,,Southall
+2024-11-22,530000,UB2 5TT,T,N,F,92,,Wentworth Road,,Southall
+2024-11-22,425000,UB2 5ER,T,N,F,94,,Greenland Crescent,,Southall
+2024-11-14,500000,UB2 5SH,T,N,F,66,,Hadley Gardens,,Southall
+2024-11-14,660000,UB2 4PL,S,N,F,6,,Glade Lane,,Southall
+2024-11-11,530000,UB2 5PL,S,N,F,66,,Regina Road,,Southall
+2024-11-11,900000,UB2 4HF,S,N,F,13,,Dorset Avenue,,Southall
+2024-11-11,582500,UB2 4ER,S,N,F,8,,Norwood Gardens,,Southall
+2024-11-08,280000,UB2 4NS,T,N,F,22,,Marlow Road,,Southall
+2024-11-05,80000,UB2 5GP,F,N,L,Featherstone Court,19,Featherstone Road,,Southall
+2024-11-04,237000,UB2 5GP,F,N,L,Featherstone Court,39,Featherstone Road,,Southall
+2024-10-31,340000,UB2 4JY,T,N,F,51,,Blandford Road,,Southall
+2024-10-30,300000,UB2 4FZ,F,N,L,Kinglake House,Flat 4,Addington Close,,Southall
+2024-10-30,520000,UB2 4EH,T,N,F,97,,Hammond Road,,Southall
+2024-10-30,405000,UB2 4AF,F,N,L,Osterley Views,47,West Park Road,,Southall
+2024-10-25,280000,UB2 4EE,F,N,L,49,,Victoria Road,,Southall
+2024-10-21,530000,UB2 5LS,T,N,F,32,,Lonsdale Road,,Southall
+2024-10-21,565000,UB2 4BP,S,N,F,28,,Grosvenor Road,,Southall
+2024-10-18,307000,UB2 5GR,F,N,L,Featherstone Court,123,Dudley Road,,Southall
+2024-10-18,310000,UB2 5GQ,F,N,L,Featherstone Court,73,Featherstone Road,,Southall
+2024-10-16,648000,UB2 4ER,S,N,F,9,,Norwood Gardens,,Southall
+2024-10-11,670000,UB2 4LS,S,N,F,9,,St Marys Avenue South,,Southall
+2024-10-10,440000,UB2 4AS,T,N,F,17,,Potters Road,,Southall
+2024-10-04,272000,UB2 5TJ,F,N,L,42,,Canalside Gardens,,Southall
+2024-10-01,455000,UB2 4UW,F,N,L,Osterley Gardens,Flat 5,Chevy Road,,Southall
+2024-09-27,425000,UB2 5QE,T,N,F,55,,Gordon Road,,Southall
+2024-09-26,440000,UB2 4AS,T,N,F,27,,Potters Road,,Southall
+2024-09-23,313000,UB2 4FP,F,N,L,Clerkenwell House,Flat 29,Hilda Road,,Southall
+2024-09-20,880000,UB2 5RS,S,N,F,27,,The Glen,,Southall
+2024-09-20,520000,UB2 5LP,T,N,F,62,,Marlborough Road,,Southall
+2024-09-20,530000,UB2 5BA,T,N,F,141,,Queens Road,,Southall
+2024-09-17,500000,UB2 5SX,T,N,F,5,,Shannon Close,,Southall
+2024-09-09,290000,UB2 4UA,F,N,L,12,,Cubitt Square,,Southall
+2024-09-09,497500,UB2 4FT,F,N,L,Levett House,Flat 27,Holman Drive,,Southall
+2024-09-06,415000,UB2 4FW,F,N,L,Pemberton House,Flat 17,Holman Drive,,Southall
+2024-09-05,135000,UB2 4JN,F,N,L,111,,Harewood Terrace,,Southall
+2024-09-04,450000,UB2 5QE,T,N,F,36,,Gordon Road,,Southall
+2024-09-03,238000,UB2 4UA,F,N,L,35,,Cubitt Square,,Southall
+2024-08-27,375000,UB2 5QJ,F,N,L,27,,Salisbury Road,,Southall
+2024-08-22,320000,UB2 5RD,F,N,L,Gibson Point,17,Salisbury Road,,Southall
+2024-08-15,251000,UB2 4FD,F,N,L,Deck Court,13,Tentelow Lane,,Southall
+2024-08-15,650000,UB2 4EW,S,N,F,18,,Ellison Gardens,,Southall
+2024-08-14,385000,UB2 4NX,F,N,L,20A,,Warwick Road,,Southall
+2024-08-09,491000,UB2 5PA,T,N,F,8,,Montague Waye,,Southall
+2024-08-09,230000,UB2 5EW,T,N,F,130,,Derley Road,,Southall
+2024-08-05,525000,UB2 5NR,D,N,F,32,,Burket Close,,Southall
+2024-08-01,360000,UB2 4FW,F,N,L,Pemberton House,Flat 31,Holman Drive,,Southall
+2024-07-30,430000,UB2 5PY,T,N,F,68,,Adelaide Road,,Southall
+2024-07-30,425000,UB2 4FP,F,N,L,Clerkenwell House,Flat 33,Hilda Road,,Southall
+2024-07-26,270000,UB2 5GR,F,N,L,Featherstone Court,114,Dudley Road,,Southall
+2024-07-25,530000,UB2 5RX,T,N,F,13,,Penbury Road,,Southall
+2024-07-25,305000,UB2 5AN,F,N,L,16,,St Johns Road,,Southall
+2024-07-19,500000,UB2 5LP,T,N,F,100,,Marlborough Road,,Southall
+2024-07-15,300000,UB2 5ED,T,N,F,154,,Western Road,,Southall
+2024-07-09,480000,UB2 5EN,T,N,F,65,,Derley Road,,Southall
+2024-07-08,447000,UB2 4AS,T,N,F,1,,Potters Road,,Southall
+2024-07-05,225800,UB2 5AQ,T,N,F,65,,Featherstone Road,,Southall
+2024-06-26,510000,UB2 5LR,T,N,F,27,,Caxton Road,,Southall
+2024-06-25,215000,UB2 5NU,F,N,L,163,,Burket Close,,Southall
+2024-06-14,295000,UB2 5BZ,F,N,L,126,,Johnson Street,,Southall
+2024-05-29,91000,UB2 5GP,F,N,L,Featherstone Court,24,Featherstone Road,,Southall
+2024-05-24,405000,UB2 5AQ,T,N,F,129,,Featherstone Road,,Southall
+2024-05-17,325000,UB2 5QP,T,N,F,31,,Clifton Road,,Southall
+2024-05-14,700000,UB2 5RA,T,N,F,62,,Crosslands Avenue,,Southall
+2024-04-30,200000,UB2 5SU,F,N,L,171,,Ringway,,Southall
+2024-04-30,320000,UB2 4LZ,F,N,L,Brendon Court,4,St Marys Avenue North,,Southall
+2024-04-24,220000,UB2 5QE,T,N,F,43,,Gordon Road,,Southall
+2024-04-24,298000,UB2 4EN,F,N,L,Kendra Court,6,Rectory Road,,Southall
+2024-04-19,270000,UB2 5TJ,F,N,L,31,,Canalside Gardens,,Southall
+2024-04-18,515000,UB2 5LT,S,N,F,32,,Tilney Road,,Southall
+2024-04-18,442500,UB2 4NY,T,N,F,53,,Havelock Road,,Southall
+2024-04-12,490000,UB2 5SQ,T,N,F,24,,Hadley Gardens,,Southall
+2024-04-10,725000,UB2 5RY,S,N,F,5,,Court Road,,Southall
+2024-04-10,382000,UB2 5QJ,F,N,L,37,,Salisbury Road,,Southall
+2024-03-28,257000,UB2 5TJ,F,N,L,30,,Canalside Gardens,,Southall
+2024-03-25,760000,UB2 4HH,D,N,F,21,,Shaftesbury Avenue,,Southall
+2024-03-22,300000,UB2 5RQ,S,N,F,50,,Thorncliffe Road,,Southall
+2024-03-22,300000,UB2 5JN,F,N,L,26 - 27,Flat 1,Old Manor Road,,Southall
+2024-03-20,425000,UB2 5PD,S,N,F,47A,,Montague Road,,Southall
+2024-03-11,527000,UB2 5TT,T,N,F,68,,Wentworth Road,,Southall
+2024-03-04,492000,UB2 5HR,T,N,F,193,,Western Road,,Southall
+2024-03-04,460000,UB2 4AS,S,N,F,2,,Potters Road,,Southall
+2024-02-29,500000,UB2 5TF,S,N,F,258,,North Hyde Lane,,Southall
+2024-02-29,275000,UB2 4QS,F,Y,L,Ironbridge House,43,Windmill Place,,Southall
+2024-02-29,760000,UB2 4HJ,S,N,F,71,,Shaftesbury Avenue,,Southall
+2024-02-29,465000,UB2 4EF,S,N,F,20,,Beverley Road,,Southall
+2024-02-23,80000,UB2 4FS,F,Y,L,Mill House,Flat B,Windmill Place,,Southall
+2024-02-22,153000,UB2 5QG,F,N,L,37,,Inverness Road,,Southall
+2024-02-21,240000,UB2 5NT,F,N,L,126,,Burket Close,,Southall
+2024-02-21,240000,UB2 5NT,F,N,L,126,,Burket Close,,Southall
+2024-02-09,533000,UB2 5RT,T,N,F,38,,Kingsbridge Road,,Southall
+2024-02-08,780000,UB2 5QZ,T,N,F,29,,Crosslands Avenue,,Southall
+2024-02-06,770000,UB2 4HG,S,N,F,35,,Dorset Avenue,,Southall
+2024-01-31,410000,UB2 4FT,F,N,L,Levett House,Flat 12,Holman Drive,,Southall
+2024-01-29,475000,UB2 5TT,T,N,F,58,,Wentworth Road,,Southall
+2024-01-26,510000,UB2 5TT,T,N,F,74,,Wentworth Road,,Southall
+2024-01-26,820000,UB2 4LU,D,N,F,74,,St Marys Avenue North,,Southall
+2024-01-19,204250,UB2 5BS,F,N,L,92A,,Balfour Road,,Southall
+2024-01-08,575000,UB2 5EJ,T,N,F,6,,Derley Road,,Southall
+2023-12-20,390000,UB2 5UX,T,N,F,5,,Jessop Avenue,,Southall
+2023-12-20,440000,UB2 5AQ,T,N,F,99,,Featherstone Road,,Southall
+2023-12-20,307500,UB2 5AP,F,N,L,13A,,Waltham Road,,Southall
+2023-12-20,480000,UB2 4UP,T,N,F,7,,William Close,,Southall
+2023-12-20,200000,UB2 4RH,F,N,L,69,,Willowbrook Road,,Southall
+2023-12-18,520290,UB2 5DX,T,N,F,52,,Western Road,,Southall
+2023-12-15,215000,UB2 5JL,F,N,L,19 - 21,Flat 29,Western Road,,Southall
+2023-12-15,295000,UB2 5BZ,F,N,L,140,,Johnson Street,,Southall
+2023-12-14,275000,UB2 4QS,F,Y,L,Ironbridge House,27,Windmill Place,,Southall
+2023-12-06,417500,UB2 5HZ,T,N,F,16,,Leonard Road,,Southall
+2023-12-05,350000,UB2 5NX,T,N,F,25,,Dagmar Road,,Southall
+2023-11-20,415000,UB2 4NB,T,N,F,15,,Norwood Terrace,,Southall
+2023-11-20,472500,UB2 4AF,F,N,L,Osterley Views,60,West Park Road,,Southall
+2023-11-17,435000,UB2 4AS,T,N,F,3,,Potters Road,,Southall
+2023-11-13,480000,UB2 5NR,T,N,F,48,,Burket Close,,Southall
+2023-11-07,262000,UB2 4QS,F,Y,L,Ironbridge House,26,Windmill Place,,Southall
+2023-11-02,500000,UB2 5ET,T,N,F,121,,Greenland Crescent,,Southall
+2023-10-31,375000,UB2 5QJ,F,N,L,16,,Salisbury Road,,Southall
+2023-10-27,415000,UB2 4AF,F,N,L,Osterley Views,59,West Park Road,,Southall
+2023-10-20,480000,UB2 5AW,S,N,F,34,,Waltham Road,,Southall
+2023-10-19,315000,UB2 4JN,F,N,L,99,,Harewood Terrace,,Southall
+2023-10-16,220000,UB2 5TJ,F,N,L,45,,Canalside Gardens,,Southall
+2023-10-13,405000,UB2 4PL,S,N,F,5,,Glade Lane,,Southall
+2023-10-12,750000,UB2 4NQ,S,N,F,18,,Wolsey Close,,Southall
+2023-10-06,270000,UB2 4RS,F,N,L,127,,Hunt Road,,Southall
+2023-09-29,455000,UB2 5HX,T,N,F,48,,Florence Road,,Southall
+2023-09-29,581500,UB2 4ES,T,N,F,6,,Witley Gardens,,Southall
+2023-09-28,205000,UB2 5NT,F,N,L,90,,Burket Close,,Southall
+2023-09-25,425000,UB2 4FT,F,N,L,Levett House,Flat 20,Holman Drive,,Southall
+2023-09-20,323000,UB2 5GP,F,N,L,Featherstone Court,Flat 26,Featherstone Road,,Southall
+2023-09-15,450000,UB2 5PR,T,N,F,159,,Regina Road,,Southall
+2023-09-14,555000,UB2 4AS,T,N,F,8,,Potters Road,,Southall
+2023-09-08,474999,UB2 5LA,T,N,F,106,,Brent Road,,Southall
+2023-09-01,817500,UB2 5QU,D,N,F,19,,Alleyn Park,,Southall
+2023-09-01,400000,UB2 5QE,T,N,F,9,,Gordon Road,,Southall
+2023-09-01,195000,UB2 5JL,F,N,L,19 - 21,Flat 13,Western Road,,Southall
+2023-08-25,161000,UB2 4RN,F,N,L,76,,Damsonwood Road,,Southall
+2023-08-25,375000,UB2 4LE,F,N,L,42,,Tentelow Lane,,Southall
+2023-08-25,440000,UB2 4AS,T,N,F,7,,Potters Road,,Southall
+2023-08-23,525000,UB2 5LT,S,N,F,10,,Tilney Road,,Southall
+2023-08-23,283000,UB2 4QS,F,Y,L,Ironbridge House,39,Windmill Place,,Southall
+2023-08-21,440000,UB2 4FN,F,N,L,Chaucer House,Flat 3,Hilda Road,,Southall
+2023-08-18,705000,UB2 5RL,S,N,F,75,,Thorncliffe Road,,Southall
+2023-08-18,242500,UB2 5QJ,F,N,L,67,,Salisbury Road,,Southall
+2023-08-11,160000,UB2 5UD,F,N,L,54,,Convent Way,,Southall
+2023-08-02,262000,UB2 5AS,F,N,L,61,,Dudley Road,,Southall
+2023-07-31,500000,UB2 4FP,F,N,L,Clerkenwell House,Flat 9,Hilda Road,,Southall
+2023-07-28,240000,UB2 4FY,F,N,L,Haygarth House,Flat 10,Holman Drive,,Southall
+2023-07-27,208000,UB2 5JL,F,N,L,19 - 21,Flat 25,Western Road,,Southall
+2023-07-21,575000,UB2 5PB,T,N,F,10,,Montague Road,,Southall
+2023-07-12,490000,UB2 5NR,T,N,F,50,,Burket Close,,Southall
+2023-07-05,925000,UB2 5RG,S,N,F,4,,Thorncliffe Road,,Southall
+2023-07-05,1225000,UB2 4HP,D,N,F,42,,Minterne Avenue,,Southall
+2023-07-03,350000,UB2 5TE,T,N,F,271,,North Hyde Lane,,Southall
+2023-06-30,1350000,UB2 5RW,T,N,F,9,,Craneswater Park,,Southall
+2023-06-30,480000,UB2 5ES,T,N,F,95,,Greenland Crescent,,Southall
+2023-06-30,392500,UB2 5BN,T,N,F,44,,Clarence Street,,Southall
+2023-06-27,248000,UB2 4UW,F,N,L,Osterley Gardens,Flat 17,Chevy Road,,Southall
+2023-06-23,330000,UB2 4QS,F,Y,L,Ironbridge House,55,Windmill Place,,Southall
+2023-06-21,565000,UB2 4LT,D,N,F,29,,St Marys Avenue Central,,Southall
+2023-06-16,600000,UB2 5ST,S,N,F,141,,Ringway,,Southall
+2023-06-16,1250000,UB2 5RW,D,N,F,29,,Craneswater Park,,Southall
+2023-06-07,291000,UB2 5DG,F,N,L,152,,Scotts Road,,Southall
+2023-06-06,481150,UB2 4WH,F,Y,L,Ashwell House,46,Healum Avenue,,Southall
+2023-05-24,233000,UB2 5GR,F,N,L,Featherstone Court,113,Dudley Road,,Southall
+2023-05-23,385000,UB2 5RH,T,N,F,146,,Thorncliffe Road,,Southall
+2023-05-19,315000,UB2 5GQ,F,N,L,Featherstone Court,65,Featherstone Road,,Southall
+2023-05-16,378000,UB2 5AY,T,N,F,3,,Queens Road,,Southall
+2023-05-16,570000,UB2 4DS,S,N,F,108,,Norwood Road,,Southall
+2023-05-12,430000,UB2 5AY,T,N,F,61,,Queens Road,,Southall
+2023-05-05,310000,UB2 4QS,F,Y,L,Ironbridge House,18,Windmill Place,,Southall
+2023-05-04,630000,UB2 5RL,S,N,F,77,,Thorncliffe Road,,Southall
+2023-04-12,1400000,UB2 4HW,D,N,F,23,,Minterne Avenue,,Southall
+2023-04-06,295000,UB2 4FU,F,N,L,Levett House,Flat 48,Denman Avenue,,Southall
+2023-04-03,485000,UB2 5TY,S,N,F,244,,Wentworth Road,,Southall
+2023-03-31,510000,UB2 5DE,T,N,F,74,,Scotts Road,,Southall
+2023-03-30,390000,UB2 4WH,F,Y,L,Ashwell House,18,Healum Avenue,,Southall
+2023-03-24,615000,UB2 4LT,D,N,F,50,,St Marys Avenue Central,,Southall
+2023-03-21,432000,UB2 5DG,S,N,F,111,,Scotts Road,,Southall
+2023-03-17,190000,UB2 5NU,F,N,L,166,,Burket Close,,Southall
+2023-03-16,800000,UB2 5RT,S,N,F,18,,Kingsbridge Road,,Southall
+2023-03-15,176000,UB2 4GA,F,N,L,Kinglake House,Flat 47,Denman Avenue,,Southall
+2023-03-10,300000,UB2 5JD,F,N,L,17,Flat 2,Leamington Road,,Southall
+2023-03-10,300000,UB2 5JD,F,N,L,17,Flat 1,Leamington Road,,Southall
+2023-03-10,400000,UB2 5EW,T,N,F,125,,Derley Road,,Southall
+2023-03-08,330000,UB2 5GQ,F,N,L,Featherstone Court,85,Featherstone Road,,Southall
+2023-03-03,270000,UB2 4QS,F,Y,L,Ironbridge House,54,Windmill Place,,Southall
+2023-02-24,475000,UB2 5AS,T,N,F,17,,Dudley Road,,Southall
+2023-02-24,305000,UB2 4FY,F,N,L,Haygarth House,Flat 26,Holman Drive,,Southall
+2023-02-23,410000,UB2 5PQ,T,N,F,18,,Stratford Road,,Southall
+2023-02-23,421500,UB2 4WH,F,Y,L,Ashwell House,36,Healum Avenue,,Southall
+2023-02-23,256000,UB2 4BX,F,N,L,23A,,Portland Road,,Southall
+2023-02-21,525000,UB2 5RX,T,N,F,14,,Penbury Road,,Southall
+2023-02-21,365000,UB2 5QJ,F,N,L,72,,Salisbury Road,,Southall
+2023-02-17,346995,UB2 4WH,F,Y,L,Ashwell House,51,Healum Avenue,,Southall
+2023-02-15,245000,UB2 4QS,F,Y,L,Ironbridge House,20,Windmill Place,,Southall
+2023-02-14,300000,UB2 4QS,F,Y,L,Ironbridge House,37,Windmill Place,,Southall
+2023-02-07,390000,UB2 5HT,T,N,F,3,,Belmont Avenue,,Southall
+2023-02-06,1324160,UB2 4HE,D,N,F,1,,Manston Avenue,,Southall
+2023-02-03,425000,UB2 5AZ,T,N,F,109,,Queens Road,,Southall
+2023-02-03,325000,UB2 4QS,F,Y,L,Ironbridge House,23,Windmill Place,,Southall
+2023-02-03,400000,UB2 4FU,F,N,L,Levett House,Flat 44,Denman Avenue,,Southall
+2023-02-01,270000,UB2 4QS,F,Y,L,Ironbridge House,53,Windmill Place,,Southall
+2023-01-27,775000,UB2 5QY,S,N,F,19,,Crosslands Avenue,,Southall
+2023-01-27,430000,UB2 4AF,F,N,L,Osterley Views,43,West Park Road,,Southall
+2023-01-25,900000,UB2 4HD,T,N,F,3,,Gladstone Cottages,,Southall
+2023-01-23,410000,UB2 4WJ,F,Y,L,Ashwell House,63,Healum Avenue,,Southall
+2023-01-20,310000,UB2 4FP,F,N,L,Clerkenwell House,Flat 8,Hilda Road,,Southall
+2023-01-19,288000,UB2 4JZ,T,N,F,9,,Bradbury Close,,Southall
+2023-01-17,225000,UB2 5BL,T,N,F,109,,Clarence Street,,Southall
+2023-01-13,500000,UB2 5JY,T,N,F,33A,,Brent Road,,Southall
+2023-01-10,360000,UB2 5PQ,T,N,F,18,,Stratford Road,,Southall
+2022-12-22,286000,UB2 4QS,F,Y,L,Ironbridge House,38,Windmill Place,,Southall
+2022-12-21,355000,UB2 4WJ,F,Y,L,Ashwell House,93,Healum Avenue,,Southall
+2022-12-21,438000,UB2 4WH,F,Y,L,Ashwell House,42,Healum Avenue,,Southall
+2022-12-20,625000,UB2 5ST,S,N,F,66,,Ringway,,Southall
+2022-12-20,255000,UB2 4UA,F,N,L,1,,Cubitt Square,,Southall
+2022-12-19,447000,UB2 4WJ,F,Y,L,Ashwell House,92,Healum Avenue,,Southall
+2022-12-09,415000,UB2 4WJ,F,Y,L,Ashwell House,62,Healum Avenue,,Southall
+2022-12-09,415000,UB2 4BP,F,N,L,36A,,Grosvenor Road,,Southall
+2022-12-08,690000,UB2 5RQ,S,N,F,44,,Thorncliffe Road,,Southall
+2022-12-08,299000,UB2 4HT,T,N,F,78A,,Melbury Avenue,,Southall
+2022-12-07,344000,UB2 4WJ,F,Y,L,Ashwell House,56,Healum Avenue,,Southall
+2022-12-07,1450000,UB2 4LP,D,N,F,227,,Tentelow Lane,,Southall
+2022-12-02,225000,UB2 5NT,F,N,L,84,,Burket Close,,Southall
+2022-12-02,273000,UB2 4QS,F,Y,L,Ironbridge House,31,Windmill Place,,Southall
+2022-11-29,420000,UB2 5QE,T,N,F,7,,Gordon Road,,Southall
+2022-11-29,480000,UB2 5EN,T,N,F,83,,Derley Road,,Southall
+2022-11-29,404000,UB2 4HT,T,N,F,78,,Melbury Avenue,,Southall
+2022-11-28,342000,UB2 5RD,F,N,L,Gibson Point,11,Salisbury Road,,Southall
+2022-11-25,705000,UB2 5RA,S,N,F,61,,Crosslands Avenue,,Southall
+2022-11-25,347250,UB2 4WJ,F,Y,L,Ashwell House,71,Healum Avenue,,Southall
+2022-11-25,266000,UB2 4UP,F,N,L,35,,William Close,,Southall
+2022-11-25,289950,UB2 4UA,F,N,L,28,,Cubitt Square,,Southall
+2022-11-25,718000,UB2 4NE,S,N,F,2,,Warren Farm Sports Centre,,Southall
+2022-11-23,355000,UB2 4WJ,F,Y,L,Ashwell House,97,Healum Avenue,,Southall
+2022-11-23,200000,UB2 4HH,T,N,F,22,,Shaftesbury Avenue,,Southall
+2022-11-22,430000,UB2 4WH,F,Y,L,Ashwell House,34,Healum Avenue,,Southall
+2022-11-22,472000,UB2 4EL,T,N,F,3,,Bixley Close,,Southall
+2022-11-21,275000,UB2 4QS,F,Y,L,Ironbridge House,30,Windmill Place,,Southall
+2022-11-18,570000,UB2 4ND,T,N,F,52,,Windmill Lane,,Southall
+2022-11-17,467500,UB2 5PW,T,N,F,93,,Regina Road,,Southall
+2022-11-17,412000,UB2 4WJ,F,Y,L,Ashwell House,67,Healum Avenue,,Southall
+2022-11-16,165000,UB2 5PX,T,N,L,51,,Adelaide Road,,Southall
+2022-11-15,205000,UB2 5JL,F,N,L,19 - 21,Flat 20,Western Road,,Southall
+2022-11-15,250000,UB2 5EP,T,N,F,34,,Greenland Crescent,,Southall
+2022-11-11,240000,UB2 5PH,F,N,L,7,,Green Oaks,,Southall
+2022-11-11,305000,UB2 4QS,F,Y,L,Ironbridge House,56,Windmill Place,,Southall
+2022-11-11,380000,UB2 4FP,F,N,L,Clerkenwell House,Flat 19,Hilda Road,,Southall
+2022-11-04,450000,UB2 4WJ,F,Y,L,Ashwell House,84,Healum Avenue,,Southall
+2022-11-01,316000,UB2 4FP,F,N,L,Clerkenwell House,Flat 12,Hilda Road,,Southall
+2022-10-31,220000,UB2 4UP,T,N,L,18,,William Close,,Southall
+2022-10-28,893000,UB2 5QZ,S,N,F,40,,Crosslands Avenue,,Southall
+2022-10-28,475000,UB2 5QL,T,N,F,32,,Endsleigh Road,,Southall
+2022-10-28,346000,UB2 4WJ,F,Y,L,Ashwell House,61,Healum Avenue,,Southall
+2022-10-28,428000,UB2 4WH,F,Y,L,Ashwell House,6,Healum Avenue,,Southall
+2022-10-24,110000,UB2 4GU,F,N,L,Carter Court,Flat 12,Gilding Way,,Southall
+2022-10-21,455000,UB2 5EF,T,N,F,29,,Sussex Road,,Southall
+2022-10-21,433000,UB2 4WH,F,Y,L,Ashwell House,47,Healum Avenue,,Southall
+2022-10-21,275000,UB2 4UW,F,N,L,Osterley Gardens,Flat 18,Chevy Road,,Southall
+2022-10-21,337750,UB2 4QS,F,Y,L,Ironbridge House,22,Windmill Place,,Southall
+2022-10-19,525000,UB2 5ST,S,N,F,117,,Ringway,,Southall
+2022-10-18,160000,UB2 5HN,F,N,L,121,,Western Road,,Southall
+2022-10-14,600000,UB2 5SU,S,N,F,195,,Ringway,,Southall
+2022-10-11,220000,UB2 5NT,F,N,L,113,,Burket Close,,Southall
+2022-10-05,309500,UB2 4WJ,F,Y,L,Ashwell House,65,Healum Avenue,,Southall
+2022-10-04,470000,UB2 4WH,F,Y,L,Ashwell House,41,Healum Avenue,,Southall
+2022-09-30,197000,UB2 5JL,F,N,L,19 - 21,Flat 17,Western Road,,Southall
+2022-09-30,460000,UB2 4WJ,F,Y,L,Ashwell House,88,Healum Avenue,,Southall
+2022-09-30,270000,UB2 4QS,F,Y,L,Ironbridge House,40,Windmill Place,,Southall
+2022-09-30,275000,UB2 4QS,F,Y,L,Ironbridge House,41,Windmill Place,,Southall
+2022-09-30,300000,UB2 4QS,F,Y,L,Ironbridge House,14,Windmill Place,,Southall
+2022-09-28,375000,UB2 4GG,F,N,L,Rudderstock House,1,Havelock Road,,Southall
+2022-09-23,450000,UB2 5PQ,T,N,F,44,,Stratford Road,,Southall
+2022-09-23,275000,UB2 4QS,F,Y,L,Ironbridge House,36,Windmill Place,,Southall
+2022-09-23,825000,UB2 4LP,D,N,F,"Topaz House, 211",,Tentelow Lane,,Southall
+2022-09-16,630000,UB2 5RL,S,N,F,79,,Thorncliffe Road,,Southall
+2022-09-16,281000,UB2 4QS,F,Y,L,Ironbridge House,46,Windmill Place,,Southall
+2022-09-15,435500,UB2 4WJ,F,Y,L,Ashwell House,94,Healum Avenue,,Southall
+2022-09-15,820000,UB2 4HX,S,N,F,23,,Sherborne Avenue,,Southall
+2022-09-09,370000,UB2 4BP,F,N,L,36,,Grosvenor Road,,Southall
+2022-09-01,365750,UB2 4AF,F,N,L,Osterley Views,62,West Park Road,,Southall
+2022-08-31,820000,UB2 5RQ,S,N,F,38,,Thorncliffe Road,,Southall
+2022-08-31,410000,UB2 5BU,T,N,F,3,,Balfour Road,,Southall
+2022-08-26,532000,UB2 5SQ,T,N,F,48,,Hadley Gardens,,Southall
+2022-08-26,456000,UB2 4WJ,F,Y,L,Ashwell House,96,Healum Avenue,,Southall
+2022-08-26,321000,UB2 4WH,F,Y,L,Ashwell House,54,Healum Avenue,,Southall
+2022-08-26,318000,UB2 4WH,F,Y,L,Ashwell House,49,Healum Avenue,,Southall
+2022-08-24,444300,UB2 4WJ,F,Y,L,Ashwell House,107,Healum Avenue,,Southall
+2022-08-22,515000,UB2 4NU,S,N,F,23,,Church Road,,Southall
+2022-08-22,335000,UB2 4FP,F,N,L,Clerkenwell House,Flat 7,Hilda Road,,Southall
+2022-08-18,265000,UB2 5GR,F,N,L,Featherstone Court,109,Dudley Road,,Southall
+2022-08-17,230000,UB2 5TY,T,N,F,197,,Wentworth Road,,Southall
+2022-08-17,405000,UB2 4EN,T,N,F,14,,Rectory Road,,Southall
+2022-08-15,300000,UB2 5PT,F,N,L,Gateway Court,7,Convent Way,,Southall
+2022-08-11,1145000,UB2 4HN,D,N,F,17,,Minterne Avenue,,Southall
+2022-08-09,311000,UB2 4WJ,F,Y,L,Ashwell House,55,Healum Avenue,,Southall
+2022-08-09,250000,UB2 4FD,F,N,L,Deck Court,20,Tentelow Lane,,Southall
+2022-08-05,313000,UB2 4WJ,F,Y,L,Ashwell House,60,Healum Avenue,,Southall
+2022-07-29,228000,UB2 5QG,F,N,L,37A,,Inverness Road,,Southall
+2022-07-29,317000,UB2 4WJ,F,Y,L,Ashwell House,70,Healum Avenue,,Southall
+2022-07-29,440000,UB2 4NU,T,N,F,21,,Church Road,,Southall
+2022-07-29,510000,UB2 4ND,T,N,F,34,,Windmill Lane,,Southall
+2022-07-27,510000,UB2 4BA,T,N,F,14,,Lockwood Road,,Southall
+2022-07-26,845000,UB2 4LP,S,N,F,"Garnet House, 211A",,Tentelow Lane,,Southall
+2022-07-25,670000,UB2 5QZ,T,N,F,37,,Crosslands Avenue,,Southall
+2022-07-25,475000,UB2 5PR,S,N,F,156,,Regina Road,,Southall
+2022-07-22,126000,UB2 4GT,F,N,L,Normill Court,Flat 17,Gilding Way,,Southall
+2022-07-22,375000,UB2 4FZ,F,N,L,Kinglake House,Flat 3,Addington Close,,Southall
+2022-07-20,520000,UB2 4RJ,S,N,F,105,,Willowbrook Road,,Southall
+2022-07-19,132500,UB2 4XN,F,N,L,20,Flat 4,Penard Road,,Southall
+2022-07-18,322200,UB2 5JJ,T,N,F,4,,Manor Way,,Southall
+2022-07-13,309000,UB2 4WH,F,Y,L,Ashwell House,50,Healum Avenue,,Southall
+2022-07-11,555000,UB2 5TW,S,N,F,60,,Raleigh Road,,Southall
+2022-07-08,250000,UB2 4NS,T,N,F,1,,Marlow Road,,Southall
+2022-07-01,517500,UB2 5SE,S,N,F,218,,North Hyde Lane,,Southall
+2022-06-30,455000,UB2 5QE,T,N,F,28,,Gordon Road,,Southall
+2022-06-29,252000,UB2 5DF,F,N,L,95,,Scotts Road,,Southall
+2022-06-28,425000,UB2 5BY,T,N,F,38,,Johnson Street,,Southall
+2022-06-24,381000,UB2 5QD,T,N,F,22,,Williams Road,,Southall
+2022-06-24,375000,UB2 5BL,T,N,F,83,,Clarence Street,,Southall
+2022-06-24,513000,UB2 4WJ,F,Y,L,Ashwell House,103,Healum Avenue,,Southall
+2022-06-24,301000,UB2 4WH,F,Y,L,Ashwell House,27,Healum Avenue,,Southall
+2022-06-24,474000,UB2 4WH,F,Y,L,Ashwell House,29,Healum Avenue,,Southall
+2022-06-20,280000,UB2 4NS,T,N,F,23,,Marlow Road,,Southall
+2022-06-17,303000,UB2 4WH,F,Y,L,Ashwell House,26,Healum Avenue,,Southall
+2022-06-15,476000,UB2 4WH,F,Y,L,Ashwell House,35,Healum Avenue,,Southall
+2022-06-15,221000,UB2 4UN,F,N,L,Osterley Views,Flat 6,West Park Road,,Southall
+2022-06-14,495000,UB2 5ER,T,N,F,64,,Greenland Crescent,,Southall
+2022-06-13,535000,UB2 4EW,S,N,F,36,,Ellison Gardens,,Southall
+2022-06-10,198000,UB2 5NU,F,N,L,146,,Burket Close,,Southall
+2022-05-27,400000,UB2 5TS,T,N,F,16,,Wentworth Road,,Southall
+2022-05-27,730000,UB2 5RL,S,N,F,51,,Thorncliffe Road,,Southall
+2022-05-27,348000,UB2 4WJ,F,Y,L,Ashwell House,66,Healum Avenue,,Southall
+2022-05-27,471000,UB2 4WH,F,Y,L,Ashwell House,11,Healum Avenue,,Southall
+2022-05-27,299000,UB2 4WH,F,Y,L,Ashwell House,21,Healum Avenue,,Southall
+2022-05-27,472000,UB2 4WH,F,Y,L,Ashwell House,23,Healum Avenue,,Southall
+2022-05-27,360000,UB2 4LA,F,N,L,Elm View Court,Flat 4,Norwood Green Road,,Southall
+2022-05-23,418000,UB2 4WJ,F,Y,L,Ashwell House,68,Healum Avenue,,Southall
+2022-05-20,295000,UB2 4FW,F,N,L,Pemberton House,Flat 8,Holman Drive,,Southall
+2022-05-18,319000,UB2 4WJ,F,Y,L,Ashwell House,75,Healum Avenue,,Southall
+2022-05-18,250000,UB2 4BX,T,N,F,10,,Portland Road,,Southall
+2022-05-17,1050000,UB2 5RW,D,N,F,39,,Craneswater Park,,Southall
+2022-05-10,458000,UB2 4WH,F,Y,L,Ashwell House,5,Healum Avenue,,Southall
+2022-05-09,260000,UB2 5TJ,F,N,L,17,,Canalside Gardens,,Southall
+2022-05-06,305000,UB2 4WH,F,Y,L,Ashwell House,39,Healum Avenue,,Southall
+2022-05-06,462000,UB2 4WH,F,Y,L,Ashwell House,17,Healum Avenue,,Southall
+2022-05-05,110250,UB2 4FY,F,N,L,Haygarth House,Flat 32,Holman Drive,,Southall
+2022-05-04,250000,UB2 5LP,T,N,F,97,,Marlborough Road,,Southall
+2022-04-29,1000000,UB2 5QX,S,N,F,14,,Green Walk,,Southall
+2022-04-29,485000,UB2 5JF,T,N,F,7,,Heathway,,Southall
+2022-04-29,514000,UB2 4WJ,F,Y,L,Ashwell House,87,Healum Avenue,,Southall
+2022-04-22,435000,UB2 4WH,F,Y,L,Ashwell House,43,Healum Avenue,,Southall
+2022-04-14,405000,UB2 5AS,T,N,F,78,,Dudley Road,,Southall
+2022-04-14,299000,UB2 4WH,F,Y,L,Ashwell House,33,Healum Avenue,,Southall
+2022-04-12,386000,UB2 4WH,F,Y,L,Ashwell House,1,Healum Avenue,,Southall
+2022-04-08,390000,UB2 4WR,F,Y,L,Samuelson House,63,Merrick Road,,Southall
+2022-04-05,255000,UB2 4EN,F,Y,L,Kendra Court,8,Rectory Road,,Southall
+2022-03-31,570000,UB2 5TP,S,N,F,102,,Raleigh Road,,Southall
+2022-03-30,310000,UB2 5FA,F,N,L,Flat 10,,Ordnance Dock Place,,Southall
+2022-03-29,750000,UB2 5RR,S,N,F,22,,Craneswater Park,,Southall
+2022-03-25,287778,UB2 4PG,T,N,L,26,,Cookham Close,,Southall
+2022-03-22,295000,UB2 4WH,F,Y,L,Ashwell House,9,Healum Avenue,,Southall
+2022-03-21,387000,UB2 4WH,F,Y,L,Ashwell House,25,Healum Avenue,,Southall
+2022-03-18,516000,UB2 4WJ,F,Y,L,Ashwell House,91,Healum Avenue,,Southall
+2022-03-18,389000,UB2 4WH,F,Y,L,Ashwell House,31,Healum Avenue,,Southall
+2022-03-18,451000,UB2 4WH,F,Y,L,Ashwell House,30,Healum Avenue,,Southall
+2022-03-16,287000,UB2 5PT,F,N,L,Gateway Court,20,Convent Way,,Southall
+2022-03-11,215000,UB2 5NT,F,N,L,89,,Burket Close,,Southall
+2022-03-11,240000,UB2 5GP,T,N,L,Featherstone Court,37,Featherstone Road,,Southall
+2022-03-11,400000,UB2 4EL,T,N,F,1,,Bixley Close,,Southall
+2022-03-10,320000,UB2 5FA,F,N,L,Flat 3,,Ordnance Dock Place,,Southall
+2022-03-10,568500,UB2 4WH,F,Y,L,Ashwell House,44,Healum Avenue,,Southall
+2022-03-07,415000,UB2 4UN,F,N,L,Osterley Views,Flat 13,West Park Road,,Southall
+2022-03-04,330000,UB2 5SL,D,N,F,10,,Brandon Road,,Southall
+2022-03-04,670000,UB2 4HG,S,N,F,33,,Dorset Avenue,,Southall
+2022-03-01,170433,UB2 5BW,T,N,F,138,,Clarence Street,,Southall
+2022-03-01,900000,UB2 4HH,D,N,F,32,,Shaftesbury Avenue,,Southall
+2022-02-28,460000,UB2 5HR,S,N,F,213,,Western Road,,Southall
+2022-02-25,741500,UB2 5SL,S,N,F,22,,Brandon Road,,Southall
+2022-02-24,174000,UB2 5JA,T,N,F,5,,Tachbrook Road,,Southall
+2022-02-18,435000,UB2 4FW,F,Y,L,Pemberton House,Flat 22,Holman Drive,,Southall
+2022-02-17,293000,UB2 4WH,F,Y,L,Ashwell House,2,Healum Avenue,,Southall
+2022-02-15,665000,UB2 5RU,T,N,F,50,,Kingsbridge Road,,Southall
+2022-02-11,464000,UB2 4FZ,F,Y,L,Kinglake House,Flat 36,Addington Close,,Southall
+2022-02-10,358000,UB2 4GS,F,Y,L,East Lodge,Flat 1,Denman Avenue,,Southall
+2022-02-08,385000,UB2 4NB,T,N,F,12,,Norwood Terrace,,Southall
+2022-02-08,435000,UB2 4FX,F,Y,L,Pemberton House,Flat 52,Denman Avenue,,Southall
+2022-02-07,465000,UB2 5SW,S,N,L,17,,Ringway,,Southall
+2022-01-28,300000,UB2 5GQ,F,N,L,Featherstone Court,72,Featherstone Road,,Southall
+2022-01-26,612000,UB2 5RS,S,N,F,34,,The Glen,,Southall
+2022-01-26,391000,UB2 4WH,F,Y,L,Ashwell House,37,Healum Avenue,,Southall
+2022-01-24,404000,UB2 4WH,F,Y,L,Ashwell House,48,Healum Avenue,,Southall
+2022-01-20,580000,UB2 4WJ,F,Y,L,Ashwell House,102,Healum Avenue,,Southall
+2022-01-19,450000,UB2 5LR,T,N,F,27,,Caxton Road,,Southall
+2022-01-18,445000,UB2 4FW,F,Y,L,Pemberton House,Flat 10,Holman Drive,,Southall
+2022-01-14,160000,UB2 5PW,F,N,L,73,Ground Floor Flat,Regina Road,,Southall
+2022-01-14,248000,UB2 4UP,F,N,L,49,,William Close,,Southall
+2022-01-14,280000,UB2 4UN,F,N,L,Osterley Views,Flat 21,West Park Road,,Southall
+2021-12-23,393984,UB2 4WJ,F,Y,L,Ashwell House,64,Healum Avenue,,Southall
+2021-12-22,310000,UB2 4WH,F,Y,L,Ashwell House,38,Healum Avenue,,Southall
+2021-12-21,259000,UB2 5PT,F,N,L,Gateway Court,22,Convent Way,,Southall
+2021-12-21,306999,UB2 5HN,F,N,L,113A,,Western Road,,Southall
+2021-12-21,250000,UB2 5FA,F,N,L,Flat 1,,Ordnance Dock Place,,Southall
+2021-12-21,420000,UB2 4WJ,F,Y,L,Ashwell House,73,Healum Avenue,,Southall
+2021-12-21,435000,UB2 4WJ,F,Y,L,Ashwell House,58,Healum Avenue,,Southall
+2021-12-21,326000,UB2 4WJ,F,Y,L,Ashwell House,69,Healum Avenue,,Southall
+2021-12-21,295000,UB2 4WH,F,Y,L,Ashwell House,14,Healum Avenue,,Southall
+2021-12-21,301000,UB2 4WH,F,Y,L,Ashwell House,32,Healum Avenue,,Southall
+2021-12-21,399000,UB2 4WH,F,Y,L,Ashwell House,19,Healum Avenue,,Southall
+2021-12-21,365000,UB2 4GS,F,Y,L,East Lodge,Flat 6,Denman Avenue,,Southall
+2021-12-20,300000,UB2 4FW,F,N,L,Pemberton House,Flat 32,Holman Drive,,Southall
+2021-12-17,600000,UB2 5HS,S,N,F,253,,Western Road,,Southall
+2021-12-17,298000,UB2 4FU,F,N,L,Levett House,Flat 38,Denman Avenue,,Southall
+2021-12-17,205000,UB2 4EQ,F,N,L,49,,Hammond Road,,Southall
+2021-12-15,412000,UB2 4WH,F,Y,L,Ashwell House,53,Healum Avenue,,Southall
+2021-12-14,526000,UB2 4WJ,T,Y,L,Ashwell House,99,Healum Avenue,,Southall
+2021-12-14,538000,UB2 4WJ,F,Y,L,Ashwell House,106,Healum Avenue,,Southall
+2021-12-13,499290,UB2 4WJ,F,Y,L,Ashwell House,100,Healum Avenue,,Southall
+2021-12-13,323950,UB2 4WJ,F,Y,L,Ashwell House,59,Healum Avenue,,Southall
+2021-12-13,428450,UB2 4WJ,F,Y,L,Ashwell House,78,Healum Avenue,,Southall
+2021-12-13,333120,UB2 4WJ,F,Y,L,Ashwell House,74,Healum Avenue,,Southall
+2021-12-13,385560,UB2 4WH,F,Y,L,Ashwell House,7,Healum Avenue,,Southall
+2021-12-13,300000,UB2 4WH,F,Y,L,Ashwell House,20,Healum Avenue,,Southall
+2021-12-10,518000,UB2 4WJ,F,Y,L,Ashwell House,95,Healum Avenue,,Southall
+2021-12-10,525000,UB2 4WJ,F,Y,L,Ashwell House,83,Healum Avenue,,Southall
+2021-12-10,383000,UB2 4WH,F,Y,L,Ashwell House,13,Healum Avenue,,Southall
+2021-12-10,297000,UB2 4WH,F,Y,L,Ashwell House,15,Healum Avenue,,Southall
+2021-12-10,293000,UB2 4WH,F,Y,L,Ashwell House,3,Healum Avenue,,Southall
+2021-12-09,208000,UB2 5JL,F,N,L,19 - 21,Flat 9,Western Road,,Southall
+2021-12-07,193000,UB2 5AZ,F,N,L,101A,,Queens Road,,Southall
+2021-11-29,475000,UB2 5ET,T,N,F,141,,Greenland Crescent,,Southall
+2021-11-29,1050000,UB2 4HP,D,N,F,67,,Minterne Avenue,,Southall
+2021-11-29,432000,UB2 4FZ,F,Y,L,Kinglake House,Flat 26,Addington Close,,Southall
+2021-11-18,337500,UB2 5PZ,T,N,F,8,,Lea Road,,Southall
+2021-11-17,375000,UB2 4UP,T,N,L,10,,William Close,,Southall
+2021-11-17,1330000,UB2 4JJ,D,N,F,293,,Norwood Road,,Southall
+2021-11-15,479000,UB2 5TX,T,N,F,141,,Wentworth Road,,Southall
+2021-11-15,465000,UB2 5ST,S,N,F,56,,Ringway,,Southall
+2021-11-12,280000,UB2 5DT,F,N,L,6,,Savera Close,,Southall
+2021-11-12,240000,UB2 5AG,F,N,L,Featherstone Court,52,Featherstone Road,,Southall
+2021-11-12,475000,UB2 4GA,F,Y,L,Kinglake House,Flat 77,Denman Avenue,,Southall
+2021-11-12,453000,UB2 4FP,F,N,L,Clerkenwell House,Flat 13,Hilda Road,,Southall
+2021-11-01,955000,UB2 4LU,S,N,F,53,,St Marys Avenue North,,Southall
+2021-11-01,965000,UB2 4HY,S,N,F,13,,Cranborne Avenue,,Southall
+2021-11-01,108000,UB2 4FD,F,N,L,Deck Court,21,Tentelow Lane,,Southall
+2021-10-29,400000,UB2 4WR,F,Y,L,Samuelson House,62,Merrick Road,,Southall
+2021-10-29,390000,UB2 4GS,F,Y,L,East Lodge,Flat 2,Denman Avenue,,Southall
+2021-10-22,450000,UB2 4GA,F,Y,L,Kinglake House,Flat 72,Denman Avenue,,Southall
+2021-10-08,319000,UB2 5QJ,F,N,L,68,,Salisbury Road,,Southall
+2021-09-30,370000,UB2 4WS,F,Y,L,Samuelson House,117,Merrick Road,,Southall
+2021-09-30,370000,UB2 4WS,F,Y,L,Samuelson House,132,Merrick Road,,Southall
+2021-09-30,270000,UB2 4JU,F,N,L,Frogmore Court,1,Norwood Road,,Southall
+2021-09-30,1360000,UB2 4HB,D,N,F,18,,Wimborne Avenue,,Southall
+2021-09-30,443000,UB2 4FX,F,Y,L,Pemberton House,Flat 55,Denman Avenue,,Southall
+2021-09-30,455000,UB2 4FX,F,Y,L,Pemberton House,Flat 50,Denman Avenue,,Southall
+2021-09-30,1170000,UB2 4FG,D,N,F,4,,Old Dairy Grove,,Southall
+2021-09-29,490000,UB2 4NQ,S,N,F,13,,Wolsey Close,,Southall
+2021-09-29,440000,UB2 4FW,F,Y,L,Pemberton House,Flat 15,Holman Drive,,Southall
+2021-09-28,420000,UB2 5NR,T,N,F,44,,Burket Close,,Southall
+2021-09-28,280000,UB2 5GQ,F,N,L,Featherstone Court,100,Featherstone Road,,Southall
+2021-09-28,340000,UB2 4WS,F,Y,L,Samuelson House,126,Merrick Road,,Southall
+2021-09-27,435000,UB2 5LU,S,N,F,6,,Bullsbridge Road,,Southall
+2021-09-27,875000,UB2 4HX,S,N,F,25,,Sherborne Avenue,,Southall
+2021-09-22,375000,UB2 4FQ,F,N,L,Glatt House,Flat 1,Hilda Road,,Southall
+2021-09-21,445000,UB2 5DE,T,N,F,88,,Scotts Road,,Southall
+2021-09-17,385500,UB2 5QJ,F,N,L,36,,Salisbury Road,,Southall
+2021-09-17,437500,UB2 5ER,T,N,F,82,,Greenland Crescent,,Southall
+2021-09-16,650000,UB2 4LP,T,N,F,157,,Tentelow Lane,,Southall
+2021-09-15,360000,UB2 5AS,T,N,F,58,,Dudley Road,,Southall
+2021-09-13,196000,UB2 5NT,F,N,L,88,,Burket Close,,Southall
+2021-09-01,450000,UB2 4WS,F,Y,L,Samuelson House,140,Merrick Road,,Southall
+2021-08-31,285000,UB2 4LE,F,N,L,40,,Tentelow Lane,,Southall
+2021-08-23,275000,UB2 4EN,F,Y,L,Kendra Court,5,Rectory Road,,Southall
+2021-08-20,515000,UB2 4WR,F,Y,L,Samuelson House,51,Merrick Road,,Southall
+2021-08-20,300000,UB2 4ES,T,N,F,11,,Witley Gardens,,Southall
+2021-08-16,530000,UB2 5DF,T,N,F,51,,Scotts Road,,Southall
+2021-08-09,410000,UB2 4AF,F,N,L,Osterley Views,41,West Park Road,,Southall
+2021-08-04,115000,UB2 5HX,T,N,F,81,,Florence Road,,Southall
+2021-08-02,280000,UB2 4EN,F,Y,L,Kendra Court,4,Rectory Road,,Southall
+2021-07-30,235000,UB2 5JB,F,N,L,6,,Sangam Close,,Southall
+2021-07-30,417000,UB2 4WL,F,Y,L,Butleigh House,23,Healum Avenue,,Southall
+2021-07-27,402500,UB2 4WR,F,Y,L,Samuelson House,67,Merrick Road,,Southall
+2021-07-22,295000,UB2 4WL,F,Y,L,Butleigh House,7,Healum Avenue,,Southall
+2021-07-16,545000,UB2 4BA,T,Y,F,4,,Lockwood Road,,Southall
+2021-07-12,200000,UB2 5JL,F,N,L,19 - 21,Flat 31,Western Road,,Southall
+2021-06-30,600000,UB2 5RL,S,N,F,49,,Thorncliffe Road,,Southall
+2021-06-30,650000,UB2 5QU,S,N,F,27,,Alleyn Park,,Southall
+2021-06-30,485000,UB2 5PL,S,N,F,46,,Regina Road,,Southall
+2021-06-30,360000,UB2 5EF,T,N,F,59,,Sussex Road,,Southall
+2021-06-30,435000,UB2 4WS,F,Y,L,Samuelson House,112,Merrick Road,,Southall
+2021-06-30,622500,UB2 4GW,T,N,F,2,,Anglia Road,,Southall
+2021-06-30,460000,UB2 4FZ,F,Y,L,Kinglake House,Flat 35,Addington Close,,Southall
+2021-06-29,545000,UB2 5SP,S,N,F,2,,Ringway,,Southall
+2021-06-29,375000,UB2 5BW,T,N,F,104,,Clarence Street,,Southall
+2021-06-29,380000,UB2 5AU,T,N,F,6,,Hartington Road,,Southall
+2021-06-28,405000,UB2 5BW,T,N,F,72,,Clarence Street,,Southall
+2021-06-28,455000,UB2 4PZ,T,N,F,11,,Hunt Road,,Southall
+2021-06-28,890000,UB2 4HU,S,N,F,3,,Sherborne Avenue,,Southall
+2021-06-25,187500,UB2 5NU,F,N,L,158,,Burket Close,,Southall
+2021-06-25,470000,UB2 5LT,S,N,F,18,,Tilney Road,,Southall
+2021-06-25,570000,UB2 4WS,F,Y,L,Samuelson House,114,Merrick Road,,Southall
+2021-06-25,285000,UB2 4NL,F,N,L,"Greensleeves House, 58",9,St Marys Avenue Central,,Southall
+2021-06-25,315000,UB2 4LA,F,N,L,Elm View Court,Flat 8,Norwood Green Road,,Southall
+2021-06-25,485000,UB2 4LA,S,N,F,1,,Woodbine Villas,,Southall
+2021-06-24,550000,UB2 4WS,F,Y,L,Samuelson House,118,Merrick Road,,Southall
+2021-06-24,800000,UB2 4HB,T,N,F,3,,Wimborne Avenue,,Southall
+2021-06-23,670000,UB2 5QX,S,N,F,7,,Green Walk,,Southall
+2021-06-23,275000,UB2 4WS,F,Y,L,Samuelson House,134,Merrick Road,,Southall
+2021-06-23,460000,UB2 4FL,F,N,L,Artesian Lodge,Flat 2,Hilda Road,,Southall
+2021-06-21,432500,UB2 4FW,F,Y,L,Pemberton House,Flat 14,Holman Drive,,Southall
+2021-06-21,495000,UB2 4EN,S,N,F,44,,Rectory Road,,Southall
+2021-06-18,380000,UB2 5TY,T,N,F,230,,Wentworth Road,,Southall
+2021-06-18,330000,UB2 5BL,T,N,F,77,,Clarence Street,,Southall
+2021-06-18,840000,UB2 4HU,S,N,F,17,,Sherborne Avenue,,Southall
+2021-06-18,375000,UB2 4FN,F,N,L,Chaucer House,Flat 10,Hilda Road,,Southall
+2021-06-11,535000,UB2 4WR,F,Y,L,Samuelson House,57,Merrick Road,,Southall
+2021-06-10,137500,UB2 4UA,F,N,L,12,,Cubitt Square,,Southall
+2021-06-09,187500,UB2 5JD,F,N,L,2,Flat 2,Leamington Road,,Southall
+2021-06-09,187500,UB2 5JD,F,N,L,2,Flat 1,Leamington Road,,Southall
+2021-06-07,250000,UB2 5AA,F,N,L,17,Flat 2,Featherstone Road,,Southall
+2021-06-07,390000,UB2 4UW,F,N,L,Osterley Gardens,Flat 32,Chevy Road,,Southall
+2021-06-04,430000,UB2 5QL,T,N,F,14,,Endsleigh Road,,Southall
+2021-05-28,158000,UB2 4GT,F,N,L,Normill Court,Flat 25,Gilding Way,,Southall
+2021-05-28,365000,UB2 4GS,F,Y,L,East Lodge,Flat 4,Denman Avenue,,Southall
+2021-05-28,345000,UB2 4FX,F,N,L,Pemberton House,Flat 51,Denman Avenue,,Southall
+2021-05-28,375000,UB2 4FP,F,Y,L,Clerkenwell House,Flat 43,Hilda Road,,Southall
+2021-05-27,162000,UB2 4WS,F,Y,L,Samuelson House,87,Merrick Road,,Southall
+2021-05-26,285000,UB2 4WS,F,Y,L,Samuelson House,139,Merrick Road,,Southall
+2021-05-26,435000,UB2 4WR,F,Y,L,Samuelson House,58,Merrick Road,,Southall
+2021-05-25,250000,UB2 4AF,F,N,L,Osterley Views,43,West Park Road,,Southall
+2021-05-21,380000,UB2 4WT,F,Y,L,Samuelson House,156,Bridge Road,,Southall
+2021-05-19,206500,UB2 5PT,F,N,L,Gateway Court,9,Convent Way,,Southall
+2021-05-14,505000,UB2 5RT,S,N,F,34,,Kingsbridge Road,,Southall
+2021-05-14,285000,UB2 4XD,F,N,L,39,,Comer Crescent,,Southall
+2021-05-14,280000,UB2 4WS,F,Y,L,Samuelson House,136,Merrick Road,,Southall
+2021-05-14,330000,UB2 4PP,S,N,F,28,,Gregory Road,,Southall
+2021-05-10,1120000,UB2 4HS,S,N,F,50,,Melbury Avenue,,Southall
+2021-04-30,337500,UB2 4WR,F,Y,L,Samuelson House,55,Merrick Road,,Southall
+2021-04-30,427000,UB2 4FN,F,N,L,Chaucer House,Flat 5,Hilda Road,,Southall
+2021-04-23,470000,UB2 4WR,F,Y,L,Samuelson House,31,Merrick Road,,Southall
+2021-04-20,456000,UB2 4WS,F,Y,L,Samuelson House,107,Merrick Road,,Southall
+2021-04-16,435000,UB2 4WS,F,Y,L,Samuelson House,135,Merrick Road,,Southall
+2021-04-16,305000,UB2 4EN,F,N,L,Kendra Court,3,Rectory Road,,Southall
+2021-04-09,655000,UB2 4HF,S,N,F,6,,Dorset Avenue,,Southall
+2021-04-08,395000,UB2 5HP,T,N,F,177,,Western Road,,Southall
+2021-04-07,487000,UB2 5TS,T,N,F,44,,Wentworth Road,,Southall
+2021-04-07,200000,UB2 5GQ,F,N,L,Featherstone Court,105,Featherstone Road,,Southall
+2021-04-07,295000,UB2 4EN,F,Y,L,Kendra Court,9,Rectory Road,,Southall
+2021-04-01,268000,UB2 4XN,F,N,L,16,Flat 1,Penard Road,,Southall
+2021-04-01,340000,UB2 4WR,F,Y,L,Samuelson House,65,Merrick Road,,Southall
+2021-03-31,372000,UB2 4FZ,F,Y,L,Kinglake House,Flat 32,Addington Close,,Southall
+2021-03-29,395000,UB2 4GS,F,Y,L,East Lodge,Flat 5,Denman Avenue,,Southall
+2021-03-26,580000,UB2 4WS,F,Y,L,Samuelson House,104,Merrick Road,,Southall
+2021-03-26,450000,UB2 4FW,F,Y,L,Pemberton House,Flat 20,Holman Drive,,Southall
+2021-03-26,290000,UB2 4EN,F,Y,L,Kendra Court,6,Rectory Road,,Southall
+2021-03-26,285000,UB2 4EN,F,Y,L,Kendra Court,7,Rectory Road,,Southall
+2021-03-26,520000,UB2 4EJ,S,N,F,5,,Wren Avenue,,Southall
+2021-03-25,380000,UB2 4GS,F,Y,L,East Lodge,Flat 3,Denman Avenue,,Southall
+2021-03-23,790000,UB2 5RA,S,N,F,78,,Crosslands Avenue,,Southall
+2021-03-22,452000,UB2 5SQ,T,N,F,19,,Hadley Gardens,,Southall
+2021-03-19,460000,UB2 5JE,T,N,F,27,,Leamington Road,,Southall
+2021-03-19,370000,UB2 4WS,F,Y,L,Samuelson House,102,Merrick Road,,Southall
+2021-03-15,800000,UB2 5RS,S,N,F,27,,The Glen,,Southall
+2021-03-12,375000,UB2 4WS,F,Y,L,Samuelson House,137,Merrick Road,,Southall
+2021-03-12,510000,UB2 4WS,F,Y,L,Samuelson House,103,Merrick Road,,Southall
+2021-03-12,470000,UB2 4FZ,F,Y,L,Kinglake House,Flat 38,Addington Close,,Southall
+2021-03-11,450000,UB2 5EP,T,N,F,31,,Greenland Crescent,,Southall
+2021-03-10,410000,UB2 4WR,F,Y,L,Samuelson House,50,Merrick Road,,Southall
+2021-03-10,440000,UB2 4FW,F,Y,L,Pemberton House,Flat 19,Holman Drive,,Southall
+2021-03-08,700000,UB2 5SG,S,N,F,149,,North Hyde Lane,,Southall
+2021-03-05,325000,UB2 4NS,T,N,F,15,,Marlow Road,,Southall
+2021-03-04,345000,UB2 4WR,F,Y,L,Samuelson House,60,Merrick Road,,Southall
+2021-03-01,755000,UB2 4HE,D,N,F,10,,Manston Avenue,,Southall
+2021-02-26,210000,UB2 5ET,F,N,L,143A,,Greenland Crescent,,Southall
+2021-02-26,255000,UB2 5ET,F,N,L,143A,,Greenland Crescent,,Southall
+2021-02-26,440000,UB2 4FT,F,Y,L,Levett House,Flat 7,Holman Drive,,Southall
+2021-02-26,132500,UB2 4FD,F,N,L,Deck Court,13,Tentelow Lane,,Southall
+2021-02-25,460000,UB2 5ER,T,N,F,84,,Greenland Crescent,,Southall
+2021-02-25,500000,UB2 4WS,F,Y,L,Samuelson House,108,Merrick Road,,Southall
+2021-02-25,860000,UB2 4HF,S,N,F,7,,Dorset Avenue,,Southall
+2021-02-22,370000,UB2 4UW,F,N,L,Osterley Gardens,Flat 34,Chevy Road,,Southall
+2021-02-19,365000,UB2 4FZ,F,Y,L,Kinglake House,Flat 34,Addington Close,,Southall
+2021-02-19,445000,UB2 4FX,F,Y,L,Pemberton House,Flat 45,Denman Avenue,,Southall
+2021-02-17,335000,UB2 4LQ,T,N,F,9,,Tentelow Lane,,Southall
+2021-02-16,193000,UB2 5JL,F,N,L,19 - 21,Flat 1,Western Road,,Southall
+2021-02-16,290000,UB2 4WS,F,Y,L,Samuelson House,141,Merrick Road,,Southall
+2021-02-16,700000,UB2 4LW,S,N,F,139,,Tentelow Lane,,Southall
+2021-02-15,817500,UB2 5QY,S,N,F,13,,Crosslands Avenue,,Southall
+2021-02-15,412000,UB2 4WS,F,Y,L,Samuelson House,101,Merrick Road,,Southall
+2021-02-12,460000,UB2 5TU,T,N,F,87,,Wentworth Road,,Southall
+2021-02-12,150000,UB2 4JN,F,N,L,5,,Harewood Terrace,,Southall
+2021-02-12,465000,UB2 4GA,F,Y,L,Kinglake House,Flat 75,Denman Avenue,,Southall
+2021-02-11,475000,UB2 5TT,S,N,F,37,,Wentworth Road,,Southall
+2021-02-05,255000,UB2 5BZ,F,N,L,94,,Johnson Street,,Southall
+2021-02-01,1300000,UB2 4HF,S,N,F,9,,Dorset Avenue,,Southall
+2021-01-29,960000,UB2 4JH,T,N,F,286,,Norwood Road,,Southall
+2021-01-29,545000,UB2 4GN,T,Y,F,1,,Isambard Road,,Southall
+2021-01-29,310000,UB2 4GJ,F,N,L,Daubenton House,10,Havelock Road,,Southall
+2021-01-27,265000,UB2 5ED,F,N,L,"Flat 1, 162",,Western Road,,Southall
+2021-01-26,280000,UB2 4FR,F,Y,L,Tulk House,Flat 1,Hilda Road,,Southall
+2021-01-25,485000,UB2 5TG,T,N,L,276,,North Hyde Lane,,Southall
+2021-01-25,345000,UB2 4WR,F,Y,L,Samuelson House,61,Merrick Road,,Southall
+2021-01-22,460000,UB2 4GA,F,Y,L,Kinglake House,Flat 79,Denman Avenue,,Southall
+2021-01-22,542000,UB2 4FZ,F,Y,L,Kinglake House,Flat 40,Addington Close,,Southall
+2021-01-22,370000,UB2 4FZ,F,Y,L,Kinglake House,Flat 25,Addington Close,,Southall
+2021-01-20,325000,UB2 4WS,F,Y,L,Samuelson House,143,Merrick Road,,Southall
+2021-01-19,680000,UB2 4HS,S,N,F,42,,Melbury Avenue,,Southall
+2021-01-18,375000,UB2 4WR,F,Y,L,Samuelson House,22,Merrick Road,,Southall
+2021-01-15,240000,UB2 5UB,F,N,L,9,,Convent Way,,Southall
+2021-01-15,730000,UB2 5RA,T,N,F,65,,Crosslands Avenue,,Southall
+2021-01-15,265000,UB2 4JU,F,N,L,Frogmore Court,5,Norwood Road,,Southall
+2021-01-15,440000,UB2 4FT,F,Y,L,Levett House,Flat 25,Holman Drive,,Southall
+2021-01-14,370000,UB2 4WS,F,Y,L,Samuelson House,119,Merrick Road,,Southall
+2021-01-13,370000,UB2 5NX,T,N,F,32,,Dagmar Road,,Southall
+2021-01-07,355000,UB2 4WR,F,Y,L,Samuelson House,47,Merrick Road,,Southall
+2021-01-07,495000,UB2 4NU,T,N,F,31,,Church Road,,Southall
+2021-01-05,365000,UB2 4WS,F,Y,L,Samuelson House,124,Merrick Road,,Southall
+2021-01-04,517750,UB2 4WS,F,Y,L,Samuelson House,100,Merrick Road,,Southall

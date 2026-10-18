@@ -1,0 +1,749 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-14,375000,N18 1NP,T,N,F,91,,Huxley Road,,London
+2026-08-14,450000,N18 1NL,T,N,F,102,,Huxley Road,,London
+2026-07-31,435000,N18 1DW,T,N,F,12,,Tiverton Road,,London
+2026-07-29,625000,N18 1AQ,T,N,F,138,,Empire Avenue,,London
+2026-07-28,114000,N18 2XU,F,N,L,22,,Regal Court,,London
+2026-07-24,430000,N18 2AN,T,N,F,44,,Sandal Road,,London
+2026-07-17,510000,N18 1NE,T,N,F,23,,Kendal Avenue,Edmonton,London
+2026-07-15,440000,N18 2AZ,T,N,F,17,,Stockton Road,,London
+2026-07-14,480000,N18 1LA,T,N,F,10,,Morecambe Terrace,,London
+2026-07-13,460000,N18 2HJ,T,N,F,35,,Ellanby Crescent,,London
+2026-07-10,515500,N18 1BZ,T,N,F,58,,Wilbury Way,,London
+2026-07-09,405000,N18 2ED,T,N,F,39,,Aberdeen Road,,London
+2026-06-30,450000,N18 2AR,T,N,F,39,,Middlesborough Road,,London
+2026-06-12,340000,N18 2DX,T,N,F,1,,Albany Road,,London
+2026-05-29,270000,N18 2HQ,S,N,L,14,,Craig Park Road,,London
+2026-05-29,250000,N18 2EE,F,N,L,4,,Inverness Road,,London
+2026-05-22,520000,N18 2AJ,T,N,F,26,,Clarendon Road,,London
+2026-05-22,425000,N18 1PW,T,N,F,10,,Hinton Road,,London
+2026-05-19,315000,N18 2FF,F,N,L,"Prowse Court, 74",55,Fore Street,,London
+2026-05-18,500000,N18 1JJ,T,N,F,27,,Petersfield Close,,London
+2026-05-15,178000,N18 1EU,T,N,F,11,,Pretoria Road North,,London
+2026-05-08,475000,N18 1LT,T,N,F,43,,Cheddington Road,,London
+2026-05-01,462500,N18 2AB,T,N,F,27,,Leeds Street,,London
+2026-04-30,435500,N18 1DT,T,N,F,68,,Amersham Avenue,,London
+2026-04-24,475000,N18 1HA,T,N,F,120,,Bridport Road,,London
+2026-04-16,430000,N18 1QL,T,N,F,33,,Bulwer Road,,London
+2026-04-15,150000,N18 1XA,F,N,L,23,,Plowman Close,Edmonton,London
+2026-04-13,400000,N18 1PA,T,N,F,50,,Windmill Road,,London
+2026-04-10,475000,N18 2HB,S,N,F,19,,Montagu Gardens,,London
+2026-04-08,400000,N18 1QS,T,N,F,45,,Strand Place,,London
+2026-04-02,270000,N18 2HX,F,N,L,54,,Leopold Road,,London
+2026-04-02,465000,N18 1RS,T,N,F,131,,Warwick Road,Edmonton,London
+2026-03-31,480000,N18 1AJ,T,N,F,177,,Pasteur Gardens,,London
+2026-03-30,265000,N18 2HH,S,N,L,38,,Ellanby Crescent,,London
+2026-03-30,237000,N18 2DE,F,N,L,81,,Culpepper Close,,London
+2026-03-27,450000,N18 1RQ,T,N,F,5,,Sheldon Road,,London
+2026-03-27,367000,N18 1DU,T,N,F,101,,Amersham Avenue,Edmonton,London
+2026-03-25,415000,N18 2RY,S,N,F,193,,Middleham Road,,London
+2026-03-20,315000,N18 2FF,F,N,L,"Prowse Court, 74",68,Fore Street,,London
+2026-03-19,365000,N18 2DP,T,N,F,66,,Kimberley Road,,London
+2026-03-13,487000,N18 1HG,T,N,F,34,,Somerset Road,,London
+2026-03-03,770000,N18 1NE,D,N,F,97,,Kendal Avenue,Edmonton,London
+2026-02-27,402000,N18 2RT,T,N,F,72,,Ingleton Road,,London
+2026-02-27,475000,N18 1LF,T,N,F,29,,Bromley Road,,London
+2026-02-20,400000,N18 2HB,T,N,F,23,,Montagu Gardens,,London
+2026-02-20,420000,N18 2AN,T,N,F,42,,Sandal Road,,London
+2026-02-20,460000,N18 1RQ,T,N,F,39,,Sheldon Road,,London
+2026-02-12,405000,N18 2PN,T,N,F,52,,Kings Road,,London
+2026-02-10,426700,N18 1NU,T,N,F,21,,Henley Road,,London
+2026-02-06,390000,N18 2RE,T,N,F,23,,Buckstone Road,,London
+2026-02-06,370000,N18 1LU,T,N,F,99,,Cheddington Road,,London
+2026-01-30,375000,N18 2NA,T,N,F,219,,Montagu Road,,London
+2026-01-30,430000,N18 2JN,T,N,F,44,,Raynham Terrace,,London
+2026-01-30,438000,N18 1QJ,T,N,F,54,,Bulwer Road,,London
+2026-01-30,425000,N18 1LL,T,N,F,157,,Windmill Road,,London
+2026-01-29,540000,N18 1NF,T,N,F,12,,Kendal Gardens,,London
+2026-01-28,533000,N18 2BH,T,N,F,99,,Leyburn Road,,London
+2026-01-14,260000,N18 2FF,F,N,L,"Prowse Court, 74",26,Fore Street,,London
+2025-12-19,240000,N18 1QU,F,N,L,98A,,Sterling Way,,London
+2025-12-19,430000,N18 1EF,T,N,F,8,,Barclay Road,,London
+2025-12-19,485000,N18 1AT,T,N,F,57,,Queensland Avenue,,London
+2025-12-16,222800,N18 1AT,T,N,F,13,,Queensland Avenue,,London
+2025-12-12,255000,N18 2FF,F,N,L,"Prowse Court, 74",94,Fore Street,,London
+2025-12-10,420000,N18 2QT,T,N,F,6,,Morley Avenue,,London
+2025-11-28,575000,N18 2RR,T,N,F,38,,Claremont Street,,London
+2025-11-28,375000,N18 1QG,T,N,F,147,,Bulwer Road,,London
+2025-11-28,465000,N18 1PX,T,N,F,40,,Lopen Road,,London
+2025-11-28,450000,N18 1NT,T,N,F,52,,Henley Road,,London
+2025-11-20,437000,N18 2LT,T,N,F,63,,Cavendish Road,Edmonton,London
+2025-11-19,461000,N18 2RS,S,N,F,45,,Ingleton Road,,London
+2025-11-14,450000,N18 2QT,T,N,F,60,,Morley Avenue,,London
+2025-11-14,620000,N18 1JA,T,N,F,63,,Lister Gardens,,London
+2025-11-10,480000,N18 1PW,S,N,F,31,,Hinton Road,,London
+2025-11-10,482000,N18 1LD,T,N,F,45,,Carlton Terrace,,London
+2025-11-10,400000,N18 1DS,S,N,F,11,,Amersham Avenue,Edmonton,London
+2025-11-07,280000,N18 1XQ,F,N,L,165,,Wigston Close,,London
+2025-11-07,240000,N18 1UY,F,N,L,66,,Whitehead Close,,London
+2025-11-07,430000,N18 1NT,T,N,F,10,,Henley Road,,London
+2025-11-03,446000,N18 1EZ,T,N,F,14,,Hawthorn Road,,London
+2025-10-31,275000,N18 2XU,F,N,L,16,,Regal Court,,London
+2025-10-31,500000,N18 1PA,S,N,F,14,,Windmill Road,,London
+2025-10-27,410000,N18 1QB,T,N,F,125,,Haselbury Road,,London
+2025-10-24,430000,N18 2LQ,T,N,F,41,,York Road,,London
+2025-10-24,500000,N18 1JL,T,N,F,105,,Pasteur Gardens,,London
+2025-10-24,390000,N18 1EY,T,N,F,29,,Hawthorne Road,,London
+2025-10-24,530000,N18 1AS,T,N,F,1,,Canada Avenue,,London
+2025-10-17,490000,N18 1HZ,T,N,F,18,,Lister Gardens,,London
+2025-10-06,450000,N18 1PS,T,N,F,18,,Hewish Road,,London
+2025-10-02,219000,N18 2JY,T,N,F,32,,York Road,,London
+2025-10-02,167000,N18 1RU,T,N,F,9,,Denton Road,,London
+2025-09-26,390000,N18 2FB,F,Y,L,"Meadowpip House, 5",Flat 43,Vernal Way,,London
+2025-09-26,275000,N18 2DT,F,N,L,97,,Culpepper Close,,London
+2025-09-25,500000,N18 1PW,T,N,F,11,,Hinton Road,,London
+2025-09-19,225000,N18 1RE,F,N,L,4,,Statham Grove,,London
+2025-09-19,310000,N18 1EA,F,N,L,Empire House,Flat 25,Great Cambridge Road,,London
+2025-09-12,308000,N18 2FF,F,N,L,"Prowse Court, 74",71,Fore Street,,London
+2025-09-08,495000,N18 2JY,S,N,F,60,,York Road,,London
+2025-08-29,388000,N18 2BE,T,N,F,38,,Leyburn Road,,London
+2025-08-29,175000,N18 1XD,F,N,L,167,,Plowman Close,Edmonton,London
+2025-08-29,440000,N18 1LR,T,N,F,54,,Cheddington Road,,London
+2025-08-22,405000,N18 2EG,T,N,F,7,,Glasgow Road,,London
+2025-08-15,263000,N18 2EW,F,N,L,38,,Leopold Road,,London
+2025-08-11,452500,N18 1HP,T,N,F,22,,Lancaster Road,Edmonton,London
+2025-08-08,205000,N18 1XG,F,N,L,143,,Wigston Close,,London
+2025-08-05,425000,N18 1RL,S,N,F,143,,Sheldon Road,,London
+2025-08-01,350000,N18 1QQ,T,N,F,104,,Bulwer Road,,London
+2025-07-31,395000,N18 2SB,T,N,F,12,,Middleham Road,,London
+2025-07-31,445000,N18 1NW,T,N,F,9,,Huxley Road,,London
+2025-07-28,225000,N18 1XA,F,N,L,54,,Plowman Close,Edmonton,London
+2025-07-25,420000,N18 2SA,T,N,F,59,,Middleham Road,,London
+2025-07-25,392500,N18 2RZ,T,N,F,107,,Middleham Road,,London
+2025-07-25,276500,N18 2EW,F,N,L,46,,Leopold Road,,London
+2025-07-24,490000,N18 1PW,S,N,F,29,,Hinton Road,,London
+2025-07-21,320000,N18 2FF,F,N,L,"Prowse Court, 74",90,Fore Street,,London
+2025-07-15,425000,N18 1QS,F,N,F,12,,Strand Place,,London
+2025-07-14,450000,N18 1LD,T,N,F,34,,Carlton Terrace,,London
+2025-07-10,395000,N18 1QG,T,N,F,169,,Bulwer Road,,London
+2025-07-08,360000,N18 2HP,S,N,F,76,,Lawrence Road,,London
+2025-07-08,431500,N18 1QD,T,N,F,128,,Haselbury Road,,London
+2025-06-27,367500,N18 2SD,T,N,F,98,,Middleham Road,,London
+2025-06-27,290000,N18 2EY,F,N,L,2,,Baxter Road,,London
+2025-06-24,325000,N18 1DU,T,N,F,71,,Amersham Avenue,Edmonton,London
+2025-06-20,440000,N18 1RT,T,N,F,106,,Warwick Road,Edmonton,London
+2025-06-16,379000,N18 2DW,T,N,F,57,,Kimberley Road,,London
+2025-06-13,347000,N18 2FB,F,Y,L,"Meadowpip House, 5",Flat 53,Vernal Way,,London
+2025-06-05,282000,N18 2FB,F,Y,L,"Meadowpip House, 5",Flat 40,Vernal Way,,London
+2025-05-30,200000,N18 1XG,F,N,L,156,,Wigston Close,,London
+2025-05-28,335000,N18 2FF,F,N,L,"Prowse Court, 74",77,Fore Street,,London
+2025-05-23,540000,N18 1DJ,S,N,F,1,,Keel Close,,London
+2025-05-20,470000,N18 1AF,T,N,F,28,,Devonia Gardens,,London
+2025-05-16,390000,N18 2JY,T,N,F,24,,York Road,,London
+2025-05-08,196000,N18 1XA,F,N,L,41,,Plowman Close,Edmonton,London
+2025-05-02,440000,N18 1LU,T,N,F,83,,Cheddington Road,,London
+2025-04-25,490000,N18 1JL,T,N,F,97,,Pasteur Gardens,,London
+2025-04-23,393000,N18 2ED,T,N,F,42,,Aberdeen Road,,London
+2025-04-16,550000,N18 1AU,S,N,F,10,,Queensland Avenue,,London
+2025-04-10,375000,N18 2AQ,T,N,F,70,,Wakefield Street,,London
+2025-04-08,450000,N18 1JJ,S,N,F,2,,Petersfield Close,,London
+2025-03-31,325000,N18 2FF,F,N,L,"Prowse Court, 74",87,Fore Street,,London
+2025-03-31,505000,N18 1LB,T,N,F,27,,Carlton Terrace,,London
+2025-03-28,410000,N18 2RE,S,N,F,7,,Buckstone Road,,London
+2025-03-28,190000,N18 1PG,F,N,L,31,,Tanners End Lane,,London
+2025-03-28,400000,N18 1LT,T,N,F,7,,Cheddington Road,,London
+2025-03-28,415000,N18 1LS,T,N,F,32,,Cheddington Road,,London
+2025-03-28,530000,N18 1LB,T,N,F,29,,Carlton Terrace,,London
+2025-03-28,472000,N18 1BL,T,N,F,15,,Pentyre Avenue,,London
+2025-03-27,459000,N18 2LF,T,N,F,2,,Berkshire Gardens,Edmonton,London
+2025-03-27,390000,N18 1EX,T,N,F,60,,Pretoria Road North,,London
+2025-03-27,622500,N18 1AP,T,N,F,161,,Empire Avenue,,London
+2025-03-26,330600,N18 2YJ,F,N,L,"St James Court, 81",Flat 10,Fore Street,,London
+2025-03-26,450000,N18 2FB,F,Y,L,"Meadowpip House, 5",Flat 49,Vernal Way,,London
+2025-03-26,449995,N18 2DG,T,N,F,47,,Dysons Road,Upper Edmonton,London
+2025-03-24,360000,N18 1ED,S,N,F,57,,Weir Hall Avenue,,London
+2025-03-21,240000,N18 2AF,T,N,F,26,,Wakefield Street,,London
+2025-03-21,392500,N18 1DP,T,N,F,4,,Hardinge Road,,London
+2025-03-19,525000,N18 1PW,S,N,F,16,,Hinton Road,,London
+2025-03-18,390000,N18 2BL,T,N,F,79,,Claremont Street,,London
+2025-03-17,388000,N18 1RQ,T,N,F,57,,Sheldon Road,,London
+2025-03-14,477300,N18 1AT,T,N,F,63,,Queensland Avenue,,London
+2025-03-13,575000,N18 1JL,T,N,F,95,,Pasteur Gardens,,London
+2025-03-07,491000,N18 2QA,T,N,F,6,,Lyndhurst Road,,London
+2025-03-07,570000,N18 2LD,T,N,F,41,,Yorkshire Gardens,,London
+2025-03-06,110625,N18 2FG,F,N,L,"Meadowpip House, 5",Flat 19,Vernal Way,,London
+2025-02-28,215000,N18 2QG,F,N,L,51,,Swaythling Close,,London
+2025-02-28,392000,N18 1RL,T,N,F,81,,Sheldon Road,,London
+2025-02-27,200000,N18 1XQ,F,N,L,167,,Wigston Close,,London
+2025-02-25,360000,N18 2PU,T,N,F,11,,Ascot Road,,London
+2025-02-21,500000,N18 1JF,T,N,F,38,,Pasteur Gardens,,London
+2025-02-21,508000,N18 1AJ,S,N,F,195,,Pasteur Gardens,,London
+2025-02-14,289750,N18 2FB,F,Y,L,"Meadowpip House, 5",Flat 47,Vernal Way,,London
+2025-02-14,446000,N18 1RZ,T,N,F,5,,Sweet Briar Walk,,London
+2025-02-14,390000,N18 1RN,T,N,F,90,,Sheldon Road,,London
+2025-02-13,370000,N18 1HG,T,N,F,56,,Somerset Road,,London
+2025-02-13,525000,N18 1AT,T,N,F,37,,Queensland Avenue,,London
+2025-02-11,455000,N18 1AB,T,N,F,23,,Empire Avenue,,London
+2025-02-07,260000,N18 2RE,F,N,L,29A,,Buckstone Road,,London
+2025-02-05,385000,N18 2DR,T,N,F,30,,Ladysmith Road,,London
+2025-02-03,535000,N18 1PL,S,N,F,211,,Silver Street,,London
+2025-01-31,515000,N18 2LF,S,N,F,3,,Berkshire Gardens,Edmonton,London
+2025-01-31,510000,N18 1AY,T,N,F,41,,Empire Avenue,,London
+2025-01-24,400000,N18 2JY,T,N,F,38,,York Road,,London
+2025-01-17,390000,N18 2AU,T,N,F,93,,Thornaby Gardens,,London
+2025-01-17,530000,N18 1AW,T,N,F,118,,Pasteur Gardens,,London
+2025-01-10,260000,N18 2FF,F,N,L,"Prowse Court, 74",37,Fore Street,,London
+2025-01-10,279995,N18 2DE,F,N,L,63,,Culpepper Close,,London
+2025-01-10,458000,N18 1RN,T,N,F,150,,Sheldon Road,,London
+2025-01-08,162000,N18 1AX,T,N,F,10,,Tasmania Terrace,,London
+2024-12-20,150500,N18 2FL,F,N,L,"Smallcopper House, 14",Flat 5,Oxeye Way,,London
+2024-12-20,425000,N18 1QA,T,N,F,44,,Haselbury Road,,London
+2024-12-20,405000,N18 1PW,S,N,F,13,,Hinton Road,,London
+2024-12-19,185000,N18 2DU,F,N,L,31,,Genista Road,,London
+2024-12-19,395000,N18 2AE,T,N,F,29,,Wakefield Street,,London
+2024-12-19,555000,N18 1JL,T,N,F,61,,Pasteur Gardens,,London
+2024-12-19,355000,N18 1DB,T,N,F,47,,Lansbury Avenue,,London
+2024-12-18,290000,N18 2FB,F,Y,L,"Meadowpip House, 5",Flat 61,Vernal Way,,London
+2024-12-18,283500,N18 2FB,F,Y,L,"Meadowpip House, 5",Flat 54,Vernal Way,,London
+2024-12-06,555000,N18 1PP,T,N,F,26,,Oakfield Gardens,,London
+2024-11-22,400000,N18 2NP,T,N,F,160,,Montagu Road,,London
+2024-11-12,620000,N18 1LG,T,N,F,12,,Keston Close,,London
+2024-11-11,395000,N18 1RL,T,N,F,151,,Sheldon Road,,London
+2024-11-08,410000,N18 2LT,T,N,F,59,,Cavendish Road,Edmonton,London
+2024-11-06,410000,N18 2BW,T,N,F,16,,Raynham Avenue,,London
+2024-11-06,481000,N18 1AE,T,N,F,82,,Empire Avenue,,London
+2024-10-31,178000,N18 2YJ,F,N,L,"St James Court, 81",Flat 16,Fore Street,,London
+2024-10-31,505000,N18 1AD,T,N,F,8,,Empire Avenue,,London
+2024-10-30,147500,N18 2FG,F,N,L,"Meadowpip House, 5",Flat 21,Vernal Way,,London
+2024-10-30,294000,N18 1NY,T,N,F,47,,Oakfield Gardens,,London
+2024-10-29,425000,N18 1PU,T,N,F,102,,Lopen Road,,London
+2024-10-29,446000,N18 1HF,T,N,F,38,,Parkstone Avenue,,London
+2024-10-29,540000,N18 1AH,S,N,F,127,,Pasteur Gardens,,London
+2024-10-28,450000,N18 1PT,T,N,F,77,,Lopen Road,,London
+2024-10-22,420000,N18 2RH,T,N,F,36,,Buckstone Road,,London
+2024-10-18,302000,N18 2HQ,F,N,L,10,,Craig Park Road,,London
+2024-10-17,408000,N18 2AG,T,N,F,77,,Wakefield Street,,London
+2024-10-10,415000,N18 2BA,T,N,F,12,,Stockton Road,,London
+2024-10-09,148750,N18 2FG,F,N,L,"Meadowpip House, 5",Flat 33,Vernal Way,,London
+2024-10-01,175000,N18 2HF,F,N,L,265,,Brettenham Road,,London
+2024-09-26,365000,N18 1NE,T,N,F,93,,Kendal Avenue,Edmonton,London
+2024-09-25,425000,N18 1LA,T,N,F,2,,Morecambe Terrace,,London
+2024-09-16,457000,N18 1RX,T,N,F,46,,Warwick Road,Edmonton,London
+2024-09-16,260000,N18 1EA,F,N,L,Empire House,Flat 13,Great Cambridge Road,,London
+2024-09-16,490000,N18 1AF,T,N,F,37,,Devonia Gardens,,London
+2024-09-12,420000,N18 2SF,T,N,F,158,,Middleham Road,,London
+2024-09-12,569000,N18 1EB,S,N,F,4,,Weir Hall Avenue,,London
+2024-09-11,598000,N18 2BH,S,N,F,79,,Leyburn Road,,London
+2024-09-05,498000,N18 2FB,F,Y,L,"Meadowpip House, 5",Flat 59,Vernal Way,,London
+2024-09-05,190000,N18 1PH,F,N,L,29,,Dickens Lane,,London
+2024-09-04,293000,N18 2LP,F,N,L,Leicester House,Flat 5,Cavendish Close,,London
+2024-08-30,520000,N18 1HN,T,N,F,1,,Bolton Road,,London
+2024-08-30,465000,N18 1DT,T,N,F,20,,Amersham Avenue,,London
+2024-08-27,425000,N18 2BE,T,N,F,10,,Leyburn Road,,London
+2024-08-23,370000,N18 2DP,T,N,F,52,,Kimberley Road,,London
+2024-08-23,429000,N18 1QQ,F,N,F,82,,Bulwer Road,,London
+2024-08-22,550000,N18 1AH,T,N,L,149,,Pasteur Gardens,,London
+2024-08-21,375000,N18 2BA,T,N,F,6,,Stockton Road,,London
+2024-08-19,423000,N18 1RU,T,N,F,4,,Denton Road,,London
+2024-08-16,455000,N18 2BN,T,N,F,17,,Raynham Avenue,,London
+2024-08-16,294000,N18 1PD,F,N,L,9,,Pickwick Mews,,London
+2024-08-16,505000,N18 1LQ,T,N,F,6,,Shortlands Close,,London
+2024-08-13,515000,N18 1JB,S,N,F,1,,Newton Way,,London
+2024-08-12,440000,N18 1RT,T,N,F,128,,Warwick Road,Edmonton,London
+2024-08-09,410000,N18 1HP,T,N,F,42,,Lancaster Road,Edmonton,London
+2024-08-05,427500,N18 2LT,T,N,L,57,,Cavendish Road,Edmonton,London
+2024-08-05,260000,N18 1JX,F,N,L,Harington Terrace,49A,Great Cambridge Road,,London
+2024-08-05,570000,N18 1AY,T,N,F,69,,Empire Avenue,,London
+2024-08-01,406000,N18 1LR,T,N,F,102,,Cheddington Road,,London
+2024-07-31,465000,N18 2ED,T,N,F,56,,Aberdeen Road,,London
+2024-07-31,446000,N18 1EX,T,N,F,38,,Pretoria Road North,,London
+2024-07-30,249000,N18 1BS,F,N,L,40,,Winsford Terrace,,London
+2024-07-26,460000,N18 1LF,T,N,F,35,,Bromley Road,,London
+2024-07-25,155750,N18 2FG,F,N,L,"Meadowpip House, 5",Flat 34,Vernal Way,,London
+2024-07-19,302000,N18 1PB,F,N,L,6,,Dorrit Mews,,London
+2024-07-19,428000,N18 1LR,T,N,F,94,,Cheddington Road,,London
+2024-07-16,380000,N18 2LD,T,N,F,17,,Yorkshire Gardens,,London
+2024-07-15,475000,N18 1RW,T,N,F,44,,Sheldon Road,,London
+2024-07-11,480000,N18 1DW,S,N,F,6,,Tiverton Road,,London
+2024-07-05,425000,N18 1EY,T,N,F,49,,Hawthorne Road,,London
+2024-07-03,400500,N18 1NN,T,N,F,10,,Huxley Road,,London
+2024-06-28,267500,N18 2QQ,F,N,L,120,,Swaythling Close,,London
+2024-06-27,470000,N18 2FB,F,Y,L,"Meadowpip House, 5",Flat 52,Vernal Way,,London
+2024-06-24,220000,N18 1ED,F,N,L,19,,Weir Hall Avenue,,London
+2024-06-19,402000,N18 1RT,T,N,F,144,,Warwick Road,Edmonton,London
+2024-06-19,474000,N18 1AR,T,N,F,107,,Empire Avenue,,London
+2024-06-05,235000,N18 2RJ,F,N,L,41B,,Alpha Road,,London
+2024-06-03,380000,N18 2DL,T,N,F,48,,Dysons Road,Upper Edmonton,London
+2024-05-29,560000,N18 1BH,T,N,F,17,,Weir Hall Gardens,,London
+2024-05-24,487000,N18 1HN,T,N,F,13,,Bolton Road,,London
+2024-05-24,411000,N18 1EZ,T,N,F,40,,Hawthorn Road,,London
+2024-05-21,380000,N18 1EZ,T,N,F,28,,Hawthorn Road,,London
+2024-05-17,450000,N18 1HB,T,N,F,25,,Branksome Avenue,,London
+2024-05-03,420000,N18 1AT,T,N,F,43,,Queensland Avenue,,London
+2024-05-02,480000,N18 1NU,T,N,F,71,,Henley Road,,London
+2024-04-30,308000,N18 2QX,F,N,L,12,,Bradwell Mews,,London
+2024-04-30,360000,N18 2FB,F,Y,L,"Meadowpip House, 5",Flat 60,Vernal Way,,London
+2024-04-30,380000,N18 1QQ,T,N,F,122,,Bulwer Road,,London
+2024-04-30,416000,N18 1QA,T,N,F,104,,Haselbury Road,,London
+2024-04-26,118750,N18 2FG,F,N,L,"Meadowpip House, 5",Flat 35,Vernal Way,,London
+2024-04-26,435000,N18 1QJ,T,N,F,2,,Bulwer Road,,London
+2024-04-22,450000,N18 2FB,F,Y,L,"Meadowpip House, 5",Flat 41,Vernal Way,,London
+2024-04-19,105000,N18 2FG,F,N,L,"Meadowpip House, 5",Flat 6,Vernal Way,,London
+2024-04-19,335000,N18 1HP,T,N,F,57,,Lancaster Road,Edmonton,London
+2024-04-15,444000,N18 1EE,T,N,F,66,,Weir Hall Avenue,,London
+2024-04-12,450000,N18 1LQ,T,N,F,16,,Shortlands Close,,London
+2024-04-11,440000,N18 1JX,T,N,F,Harington Terrace,37,Great Cambridge Road,,London
+2024-03-28,270000,N18 2NB,F,N,L,18,,Jeremys Green,,London
+2024-03-27,430000,N18 2DJ,T,N,F,108,,Dysons Road,Upper Edmonton,London
+2024-03-27,425000,N18 1EY,S,N,F,41,,Hawthorne Road,,London
+2024-03-26,415000,N18 2SD,T,N,F,124,,Middleham Road,,London
+2024-03-21,203000,N18 1PB,F,N,L,30,,Dorrit Mews,,London
+2024-03-19,435000,N18 1RZ,T,N,F,23,,Sweet Briar Walk,,London
+2024-03-08,250000,N18 2LN,F,N,L,Hereford House,Flat 7,Cameron Close,,London
+2024-03-08,560000,N18 1AN,T,N,F,10,,Stewartsby Close,,London
+2024-03-07,265000,N18 1PE,F,N,L,34,,Copperfield Mews,,London
+2024-03-05,367000,N18 1DN,T,N,F,23,,Tiverton Road,,London
+2024-03-04,570000,N18 2RR,T,N,F,28,,Claremont Street,,London
+2024-03-01,245000,N18 2EH,F,N,L,56,,Culpepper Close,,London
+2024-03-01,397000,N18 1NP,T,N,F,51,,Huxley Road,,London
+2024-02-29,380000,N18 2AU,T,N,F,51,,Thornaby Gardens,,London
+2024-02-29,380000,N18 1EZ,T,N,F,6,,Hawthorn Road,,London
+2024-02-28,260000,N18 2UJ,F,N,L,1,,Moree Way,,London
+2024-02-26,157000,N18 2HF,F,N,L,245,,Brettenham Road,,London
+2024-02-23,260000,N18 2YJ,F,N,L,"St James Court, 81",Flat 7,Fore Street,,London
+2024-02-23,210000,N18 2QG,F,N,L,40,,Swaythling Close,,London
+2024-02-21,510000,N18 2UG,T,N,F,38,,Victoria Road,,London
+2024-02-21,365000,N18 1HP,T,N,F,17,,Lancaster Road,Edmonton,London
+2024-02-16,510000,N18 1RZ,T,N,F,1,,Sweet Briar Walk,,London
+2024-02-08,435000,N18 1QQ,T,N,F,116,,Bulwer Road,,London
+2024-02-07,450000,N18 1BH,T,N,F,23,,Weir Hall Gardens,,London
+2024-02-05,395000,N18 2NX,T,N,F,21,,Rays Road,,London
+2024-02-05,280000,N18 2ND,F,N,L,93,,Jeremys Green,,London
+2024-01-26,385000,N18 1RR,T,N,F,43,,Warwick Road,Edmonton,London
+2024-01-25,455000,N18 1AF,S,N,F,24,,Devonia Gardens,,London
+2024-01-18,265000,N18 1JA,F,N,L,67B,,Lister Gardens,,London
+2024-01-17,363500,N18 2DL,T,N,F,50,,Dysons Road,Upper Edmonton,London
+2024-01-12,410000,N18 2DY,T,N,F,9,,Leopold Road,,London
+2024-01-12,200000,N18 1AA,F,N,L,13,Flat B,Empire Parade,,London
+2024-01-10,390000,N18 2BB,T,N,F,16,,Malham Terrace,Upper Edmonton,London
+2024-01-04,315000,N18 2RJ,T,N,F,43,,Alpha Road,,London
+2024-01-03,400000,N18 2RL,T,N,F,10,,Alpha Road,,London
+2023-12-21,255000,N18 2DE,F,N,L,87,,Culpepper Close,,London
+2023-12-20,370000,N18 1RQ,T,N,F,45,,Sheldon Road,,London
+2023-12-15,400000,N18 2PS,T,N,F,2,,North Avenue,,London
+2023-12-15,468000,N18 2HB,S,N,F,15,,Montagu Gardens,,London
+2023-12-15,425000,N18 1HW,T,N,F,31,,Gloucester Road,,London
+2023-12-12,480000,N18 1BX,S,N,F,95,,Wilbury Way,,London
+2023-12-11,400000,N18 1RT,T,N,F,142,,Warwick Road,Edmonton,London
+2023-12-08,462000,N18 1RR,T,N,F,67,,Warwick Road,Edmonton,London
+2023-12-05,359000,N18 2SD,T,N,F,72,,Middleham Road,,London
+2023-12-01,392500,N18 1NU,T,N,F,5,,Henley Road,,London
+2023-11-30,550000,N18 2BE,T,N,F,22,,Leyburn Road,,London
+2023-11-29,390000,N18 1LU,T,N,F,121,,Cheddington Road,,London
+2023-11-28,260000,N18 2EZ,S,N,F,8,,Montagu Gardens,,London
+2023-11-27,425000,N18 2HA,S,N,F,18,,Montagu Crescent,,London
+2023-11-17,454200,N18 2RF,S,N,F,5,,Hester Road,,London
+2023-11-15,487500,N18 1JA,T,N,F,7,,Lister Gardens,,London
+2023-11-10,500000,N18 2RG,T,N,F,9,,Raynham Terrace,,London
+2023-11-08,225000,N18 1XA,F,N,L,32,,Plowman Close,Edmonton,London
+2023-11-01,460000,N18 2LS,T,N,F,70,,Cavendish Road,Edmonton,London
+2023-10-31,380000,N18 2BT,T,N,F,127,,Raynham Avenue,,London
+2023-10-31,380000,N18 1DB,T,N,F,39,,Lansbury Avenue,,London
+2023-10-30,418000,N18 1RZ,T,N,L,49,,Sweet Briar Walk,,London
+2023-10-27,265000,N18 2FF,F,N,L,"Prowse Court, 74",30,Fore Street,,London
+2023-10-20,418000,N18 1HQ,T,N,F,9,,Somerset Road,,London
+2023-10-19,380000,N18 1NP,T,N,F,65,,Huxley Road,,London
+2023-10-12,440000,N18 1HA,T,N,F,124,,Bridport Road,,London
+2023-10-02,390000,N18 2BH,T,N,F,103,,Leyburn Road,,London
+2023-09-29,367500,N18 2DN,T,N,F,116,,Kimberley Road,,London
+2023-09-26,405000,N18 1HG,T,N,F,40,,Somerset Road,,London
+2023-09-26,700000,N18 1BL,S,N,F,41,,Pentyre Avenue,,London
+2023-09-22,477500,N18 1AG,T,N,F,116,,Empire Avenue,,London
+2023-09-08,337000,N18 2LD,T,N,F,11,,Yorkshire Gardens,,London
+2023-09-01,435000,N18 1HP,T,N,F,16,,Lancaster Road,Edmonton,London
+2023-08-30,457500,N18 1RZ,T,N,F,37,,Sweet Briar Walk,,London
+2023-08-30,400000,N18 1EU,T,N,F,33,,Pretoria Road North,,London
+2023-08-29,440000,N18 1HG,T,N,F,74,,Somerset Road,,London
+2023-08-25,380000,N18 1PS,T,N,F,29,,Hewish Road,,London
+2023-08-25,435000,N18 1LD,T,N,F,66,,Carlton Terrace,,London
+2023-08-18,190000,N18 2JN,T,N,L,1A,,Raynham Terrace,,London
+2023-08-18,436200,N18 1QQ,T,N,F,98,,Bulwer Road,,London
+2023-08-11,415500,N18 1HP,T,N,F,23,,Lancaster Road,Edmonton,London
+2023-08-07,415550,N18 1EU,T,N,F,19,,Pretoria Road North,,London
+2023-08-04,375000,N18 2AX,T,N,F,12,,Thornaby Gardens,,London
+2023-08-03,483500,N18 1JN,T,N,F,21,,Pasteur Gardens,,London
+2023-08-03,610000,N18 1JA,T,N,F,27,,Lister Gardens,,London
+2023-08-02,292000,N18 1AY,T,N,F,53,,Empire Avenue,,London
+2023-07-28,420000,N18 2QR,S,N,F,19,,Kings Road,,London
+2023-07-27,295000,N18 2QY,F,N,L,16,,Reculver Mews,,London
+2023-07-26,450000,N18 1JX,T,N,F,Harington Terrace,22,Great Cambridge Road,,London
+2023-07-24,407000,N18 2AR,T,N,F,25,,Middlesborough Road,,London
+2023-07-17,505000,N18 1JL,T,N,F,101,,Pasteur Gardens,,London
+2023-07-14,440000,N18 2ES,T,N,F,51,,Brettenham Road,,London
+2023-07-14,262500,N18 2AF,F,N,L,44,,Wakefield Street,,London
+2023-07-14,475000,N18 1NY,T,N,F,43A,,Oakfield Gardens,,London
+2023-07-12,390000,N18 1RW,T,N,F,54,,Sheldon Road,,London
+2023-07-07,414000,N18 1RS,T,N,F,131,,Warwick Road,Edmonton,London
+2023-07-04,570000,N18 1HZ,T,N,F,2,,Lister Gardens,,London
+2023-07-04,455000,N18 1AU,T,N,F,36,,Queensland Avenue,,London
+2023-06-29,400000,N18 1RQ,T,N,F,53,,Sheldon Road,,London
+2023-06-29,585000,N18 1JH,T,N,F,16,,Steeplestone Close,,London
+2023-06-17,205000,N18 1XB,F,N,L,147,,Plowman Close,Edmonton,London
+2023-06-16,580000,N18 1LF,T,N,F,15,,Bromley Road,,London
+2023-06-09,380000,N18 2DR,S,N,F,20,,Ladysmith Road,,London
+2023-06-08,235000,N18 1PE,F,N,L,3,,Copperfield Mews,,London
+2023-06-08,405000,N18 1HW,T,N,F,11,,Gloucester Road,,London
+2023-06-06,450000,N18 1BJ,S,N,F,44,,Pentyre Avenue,,London
+2023-05-30,515000,N18 1LW,T,N,F,31,,Orpington Gardens,,London
+2023-05-22,395000,N18 2DN,T,N,F,90,,Kimberley Road,,London
+2023-05-16,390000,N18 2JZ,T,N,F,15,,York Road,,London
+2023-05-16,580000,N18 1BP,S,N,F,11,,Derwent Avenue,,London
+2023-05-10,520000,N18 1LA,T,N,F,12,,Morecambe Terrace,,London
+2023-05-05,440000,N18 1AF,S,N,F,14,,Devonia Gardens,,London
+2023-05-02,400000,N18 2NU,T,N,F,108,,Montagu Road,,London
+2023-04-28,170000,N18 2QQ,F,N,L,143,,Swaythling Close,,London
+2023-04-28,410000,N18 2PZ,T,N,F,4,,Hythe Close,,London
+2023-04-24,460000,N18 1RU,T,N,F,5,,Denton Road,,London
+2023-04-21,275000,N18 2DZ,F,N,L,26,,Culpepper Close,,London
+2023-04-14,392000,N18 2RU,T,N,F,10,,Ingleton Road,,London
+2023-04-06,269000,N18 1FA,F,N,L,"Hammond Court, 20",Flat 56,Watermill Lane,,London
+2023-04-04,283000,N18 1PE,F,N,L,29,,Copperfield Mews,,London
+2023-04-03,506000,N18 1AD,T,N,F,48,,Empire Avenue,,London
+2023-03-31,370000,N18 2PP,T,N,F,36,,Argyle Road,,London
+2023-03-31,330000,N18 2JN,T,N,F,34,,Raynham Terrace,,London
+2023-03-29,410000,N18 2SE,T,N,F,9,,Middleham Gardens,,London
+2023-03-29,105000,N18 1FF,F,N,L,"Runnerstone Court, 29",Flat 2,Watermill Lane,,London
+2023-03-24,387000,N18 2RU,T,N,F,36,,Ingleton Road,,London
+2023-03-17,360000,N18 2DQ,F,N,L,"Iby House, 5",Flat 2,Dysons Road,,London
+2023-03-17,250000,N18 1AX,T,N,F,7,,Tasmania Terrace,,London
+2023-03-16,442500,N18 2JX,T,N,F,70,,York Road,,London
+2023-03-14,520000,N18 1PP,S,N,F,14,,Oakfield Gardens,,London
+2023-03-13,305000,N18 2DQ,F,N,L,"Iby House, 5",Flat 3,Dysons Road,,London
+2023-03-10,385000,N18 2PS,T,N,F,4,,North Avenue,,London
+2023-03-10,400000,N18 2DQ,F,N,L,"Iby House, 5",Flat 5,Dysons Road,,London
+2023-03-10,290000,N18 2DQ,F,N,L,"Iby House, 5",Flat 4,Dysons Road,,London
+2023-03-10,379000,N18 1RR,T,N,F,35,,Warwick Road,Edmonton,London
+2023-03-09,400000,N18 1BZ,T,N,F,62,,Wilbury Way,,London
+2023-03-09,490000,N18 1BU,S,N,F,19,,Wilbury Way,,London
+2023-03-06,429000,N18 1DN,T,N,F,3,,Tiverton Road,,London
+2023-03-03,385000,N18 2DQ,F,N,L,"Iby House, 5",Flat 1,Dysons Road,,London
+2023-03-02,270000,N18 2DZ,F,N,L,12,,Culpepper Close,,London
+2023-03-01,475000,N18 1PX,T,N,F,8,,Lopen Road,,London
+2023-03-01,380000,N18 1LQ,T,N,F,18,,Shortlands Close,,London
+2023-02-28,385000,N18 2BT,T,N,F,139,,Raynham Avenue,,London
+2023-02-24,670000,N18 1AP,T,N,F,159,,Empire Avenue,,London
+2023-02-22,521000,N18 1AX,T,N,F,3,,Tasmania Terrace,,London
+2023-02-21,440000,N18 2HA,S,N,F,29,,Montagu Crescent,,London
+2023-02-17,405000,N18 1QA,T,N,F,56,,Haselbury Road,,London
+2023-02-10,425000,N18 2JP,T,N,F,5,,Seaton Street,,London
+2023-02-10,243000,N18 1PG,F,N,L,38,,Tanners End Lane,,London
+2023-02-10,455000,N18 1LR,T,N,F,88,,Cheddington Road,,London
+2023-02-10,450000,N18 1LB,T,N,F,25,,Carlton Terrace,,London
+2023-02-09,370000,N18 2JP,T,N,F,3,,Seaton Street,,London
+2023-02-07,227000,N18 2RE,F,N,L,29A,,Buckstone Road,,London
+2023-02-06,427400,N18 1HG,T,N,F,24,,Somerset Road,,London
+2023-02-03,373000,N18 2RZ,T,N,F,93,,Middleham Road,,London
+2023-02-03,400000,N18 1EU,T,N,F,13,,Pretoria Road North,,London
+2023-01-27,207000,N18 2RF,T,N,F,7,,Hester Road,,London
+2023-01-27,400000,N18 1DP,T,N,F,18,,Hardinge Road,,London
+2023-01-26,452000,N18 1DU,T,N,F,91,,Amersham Avenue,Edmonton,London
+2023-01-24,219500,N18 1RE,F,N,L,4,,Statham Grove,,London
+2023-01-20,350000,N18 2ED,T,N,F,60,,Aberdeen Road,,London
+2023-01-20,532500,N18 1LH,T,N,F,28,,Bromley Road,,London
+2023-01-20,450000,N18 1HX,T,N,F,16,,Hailsham Terrace,,London
+2023-01-12,290000,N18 1PL,T,N,F,165,,Silver Street,,London
+2022-12-21,240000,N18 1FA,F,N,L,"Hammond Court, 20",Flat 59,Watermill Lane,,London
+2022-12-20,452500,N18 1AT,T,N,F,27,,Queensland Avenue,,London
+2022-12-16,445000,N18 2QT,T,N,F,32,,Morley Avenue,,London
+2022-12-16,240000,N18 2QG,F,N,L,12,,Swaythling Close,,London
+2022-12-16,250000,N18 2HQ,S,N,L,2,,Craig Park Road,,London
+2022-12-16,385000,N18 1LR,T,N,F,86,,Cheddington Road,,London
+2022-12-13,490000,N18 2BT,T,N,F,115,,Raynham Avenue,,London
+2022-12-09,557000,N18 1JF,T,N,F,14,,Pasteur Gardens,,London
+2022-12-09,485000,N18 1HZ,T,N,F,6,,Lister Gardens,,London
+2022-12-08,310000,N18 1HP,T,N,F,3,,Lancaster Road,Edmonton,London
+2022-12-02,370000,N18 2UF,F,N,L,24A,,Victoria Road,,London
+2022-12-02,530000,N18 1BU,T,N,F,19A,,Wilbury Way,,London
+2022-11-29,425000,N18 2BS,T,N,F,66,,Raynham Avenue,,London
+2022-11-29,435000,N18 1EH,T,N,F,113,,Barclay Road,,London
+2022-11-25,182500,N18 1UZ,F,N,L,123,,Whitehead Close,,London
+2022-11-24,200000,N18 1UD,F,N,L,"Florin Court, 54",Flat 13,Statham Grove,,London
+2022-11-24,475000,N18 1RR,T,N,F,19,,Warwick Road,Edmonton,London
+2022-11-21,535000,N18 1AH,T,N,F,137,,Pasteur Gardens,,London
+2022-11-18,425000,N18 2AU,T,N,F,17,,Thornaby Gardens,,London
+2022-11-18,400000,N18 1EU,T,N,F,23,,Pretoria Road North,,London
+2022-11-02,445000,N18 2DG,T,N,F,23,,Dysons Road,Upper Edmonton,London
+2022-11-01,430000,N18 1RN,T,N,F,148,,Sheldon Road,,London
+2022-10-31,190000,N18 2HD,F,N,L,124C,,Brettenham Road,,London
+2022-10-14,430000,N18 2JU,T,N,F,4,,Upton Road,,London
+2022-10-13,423000,N18 1NL,T,N,F,56,,Huxley Road,,London
+2022-10-12,441000,N18 1NU,S,N,F,7,,Henley Road,,London
+2022-10-10,611500,N18 1EB,T,N,F,16,,Weir Hall Avenue,,London
+2022-10-05,421000,N18 2LA,T,N,F,3,,Alston Road,,London
+2022-10-05,415000,N18 1QL,T,N,F,65,,Bulwer Road,,London
+2022-09-28,390000,N18 1PS,T,N,F,28,,Hewish Road,,London
+2022-09-23,430000,N18 2QA,T,N,F,32,,Lyndhurst Road,,London
+2022-09-23,397500,N18 1BY,S,N,F,74,,Wilbury Way,,London
+2022-09-23,480000,N18 1BU,T,N,F,21,,Wilbury Way,,London
+2022-09-21,470000,N18 1JX,T,N,F,Harington Terrace,21,Great Cambridge Road,,London
+2022-09-20,540000,N18 1JL,T,N,F,103,,Pasteur Gardens,,London
+2022-09-16,422000,N18 1LT,T,N,F,3,,Cheddington Road,,London
+2022-09-14,410000,N18 2JT,T,N,F,48,,Woolmer Road,,London
+2022-09-09,455000,N18 2UG,T,N,F,49,,Victoria Road,,London
+2022-09-07,330000,N18 1QJ,T,N,F,2A,,Bulwer Road,,London
+2022-09-01,481500,N18 1RQ,T,N,F,11,,Sheldon Road,,London
+2022-08-31,433000,N18 2DL,T,N,F,58,,Dysons Road,Upper Edmonton,London
+2022-08-31,160000,N18 1RL,T,N,F,149,,Sheldon Road,,London
+2022-08-31,380000,N18 1EE,T,N,F,76,,Weir Hall Avenue,,London
+2022-08-30,250000,N18 1PQ,F,N,L,55,,Tanners End Lane,,London
+2022-08-26,490000,N18 1HH,T,N,F,25,,Somerset Road,,London
+2022-08-25,560000,N18 1AF,T,N,F,13,,Devonia Gardens,,London
+2022-08-24,330000,N18 2TJ,F,N,L,182,,Langhedge Lane,,London
+2022-08-23,320000,N18 1FA,F,N,L,"Hammond Court, 20",Flat 68,Watermill Lane,,London
+2022-08-19,430000,N18 1NT,T,N,F,58,,Henley Road,,London
+2022-08-11,430000,N18 1LA,T,N,F,10,,Morecambe Terrace,,London
+2022-08-03,390000,N18 1DN,T,N,F,9,,Tiverton Road,,London
+2022-08-01,560000,N18 1JD,T,N,F,5,,Lodge Close,,London
+2022-07-26,290000,N18 2JF,F,N,L,56,,Raynham Road,,London
+2022-07-26,410000,N18 1QG,T,N,F,163,,Bulwer Road,,London
+2022-07-21,265000,N18 2QZ,F,N,L,28,,Herne Mews,,London
+2022-07-21,500000,N18 1NE,T,N,F,43,,Kendal Avenue,Edmonton,London
+2022-07-19,400000,N18 2SF,T,N,F,184,,Middleham Road,,London
+2022-07-19,225000,N18 2DA,F,N,L,"Shillibeer Court, 61",Flat 24,Aberdeen Road,,London
+2022-07-18,396600,N18 2PU,T,N,F,1,,Ascot Road,,London
+2022-07-15,416000,N18 2AX,T,N,F,20,,Thornaby Gardens,,London
+2022-07-15,245000,N18 1XF,F,N,L,82,,Wigston Close,,London
+2022-07-08,430000,N18 1EZ,T,N,F,4,,Hawthorn Road,,London
+2022-06-30,435000,N18 1NT,T,N,F,12,,Henley Road,,London
+2022-06-29,415000,N18 1PT,T,N,F,81,,Lopen Road,,London
+2022-06-28,218000,N18 1XJ,F,N,L,1,,Adlington Close,,London
+2022-06-28,156500,N18 1XD,F,N,L,172,,Plowman Close,Edmonton,London
+2022-06-28,303500,N18 1PE,F,N,L,15,,Copperfield Mews,,London
+2022-06-24,230000,N18 1PH,F,N,L,23,,Dickens Lane,,London
+2022-06-24,515000,N18 1JG,S,N,F,78,,Pasteur Gardens,,London
+2022-06-23,333000,N18 2UP,T,N,F,29,,Park Avenue,Edmonton,London
+2022-06-22,410000,N18 1NP,T,N,F,105,,Huxley Road,,London
+2022-06-20,255000,N18 1PQ,F,N,L,49,,Tanners End Lane,,London
+2022-06-20,480000,N18 1BH,T,N,F,23,,Weir Hall Gardens,,London
+2022-06-17,390000,N18 1QL,T,N,F,87,,Bulwer Road,,London
+2022-06-17,530000,N18 1PW,S,N,F,16,,Hinton Road,,London
+2022-06-15,442000,N18 1RQ,T,N,F,73,,Sheldon Road,,London
+2022-06-14,405000,N18 2NU,T,N,F,110,,Montagu Road,,London
+2022-06-10,380000,N18 2PS,T,N,F,1,,North Avenue,,London
+2022-06-10,405000,N18 2JY,T,N,F,12,,York Road,,London
+2022-06-09,260000,N18 2EX,T,N,F,4,,Rose Mews,,London
+2022-05-31,245000,N18 1PE,F,N,L,2,,Copperfield Mews,,London
+2022-05-30,250000,N18 2DZ,F,N,L,16,,Culpepper Close,,London
+2022-05-27,277500,N18 1RX,F,N,L,52A,,Warwick Road,Edmonton,London
+2022-05-26,260000,N18 2QA,T,N,F,18,,Lyndhurst Road,,London
+2022-05-23,525000,N18 1AL,T,N,F,142,,Pasteur Gardens,,London
+2022-05-23,525000,N18 1AL,T,N,F,142,,Pasteur Gardens,,London
+2022-05-19,540000,N18 1JB,S,N,F,14,,Newton Way,,London
+2022-05-16,390000,N18 2NE,T,N,F,181,,Jeremys Green,,London
+2022-05-13,437500,N18 1RQ,T,N,F,39,,Sheldon Road,,London
+2022-05-11,405000,N18 2LS,T,N,F,32,,Cavendish Road,Edmonton,London
+2022-05-10,390000,N18 1LR,T,N,F,68,,Cheddington Road,,London
+2022-05-04,430000,N18 1RR,T,N,F,67,,Warwick Road,Edmonton,London
+2022-04-29,310000,N18 2EX,T,N,F,1,,Rose Mews,,London
+2022-04-22,493000,N18 2QP,T,N,F,13,,Fairfield Road,,London
+2022-04-18,360000,N18 2RY,T,N,F,195,,Middleham Road,,London
+2022-04-14,400000,N18 1EB,T,N,F,60,,Weir Hall Avenue,,London
+2022-04-12,100000,N18 1XA,F,N,L,62,,Plowman Close,Edmonton,London
+2022-04-08,452000,N18 1EU,T,N,F,17,,Pretoria Road North,,London
+2022-04-01,388000,N18 2RY,T,N,F,197,,Middleham Road,,London
+2022-03-31,387000,N18 2RE,T,N,F,31,,Buckstone Road,,London
+2022-03-29,430000,N18 1AY,T,N,F,39,,Empire Avenue,,London
+2022-03-28,390000,N18 1LT,T,N,F,31,,Cheddington Road,,London
+2022-03-25,394000,N18 1QB,T,N,F,111,,Haselbury Road,,London
+2022-03-24,460000,N18 2LD,T,N,F,23,,Yorkshire Gardens,,London
+2022-03-18,400000,N18 1DZ,S,N,F,159,,Amersham Avenue,Edmonton,London
+2022-03-11,556000,N18 1NY,S,N,F,51,,Oakfield Gardens,,London
+2022-03-11,360000,N18 1EY,T,N,F,7,,Hawthorne Road,,London
+2022-03-04,466500,N18 2UG,T,N,F,48,,Victoria Road,,London
+2022-03-04,410000,N18 2HB,S,N,F,71,,Montagu Gardens,,London
+2022-03-04,526250,N18 1JA,T,N,F,69,,Lister Gardens,,London
+2022-03-02,275000,N18 2NB,F,N,L,41,,Jeremys Green,,London
+2022-03-01,450000,N18 1HD,T,N,F,18,,Branksome Avenue,,London
+2022-02-28,370000,N18 2LD,T,N,F,40,,Yorkshire Gardens,,London
+2022-02-23,510500,N18 1HZ,T,N,F,30,,Lister Gardens,,London
+2022-02-18,400000,N18 2RL,T,N,F,36,,Alpha Road,,London
+2022-02-18,245000,N18 2EE,F,N,L,6,,Inverness Road,,London
+2022-02-18,437000,N18 2AJ,S,N,F,14,,Clarendon Road,,London
+2022-02-18,530000,N18 1AJ,T,N,F,171,,Pasteur Gardens,,London
+2022-02-16,180000,N18 1LP,T,N,F,84,,Orpington Gardens,,London
+2022-02-15,357000,N18 1LL,T,N,F,125,,Windmill Road,,London
+2022-02-11,395500,N18 2PP,T,N,F,18,,Argyle Road,,London
+2022-02-11,402500,N18 1EH,T,N,F,99,,Barclay Road,,London
+2022-02-04,510000,N18 1AS,T,N,F,34,,Canada Avenue,,London
+2022-02-03,233000,N18 2XJ,F,N,L,Bridport House,Flat 7,Colyton Way,,London
+2022-01-28,478000,N18 1DB,S,N,F,35,,Lansbury Avenue,,London
+2022-01-25,342500,N18 2RZ,T,N,F,151,,Middleham Road,,London
+2022-01-24,320000,N18 1FA,F,N,L,"Hammond Court, 20",Flat 78,Watermill Lane,,London
+2022-01-21,403000,N18 1LW,T,N,F,11,,Orpington Gardens,,London
+2022-01-20,300000,N18 2EX,T,N,F,3,,Rose Mews,,London
+2022-01-17,500000,N18 1JB,T,N,F,11,,Newton Way,,London
+2022-01-14,250000,N18 2HX,F,N,L,56,,Leopold Road,,London
+2022-01-14,446000,N18 1HN,T,N,F,11,,Bolton Road,,London
+2022-01-07,400000,N18 2SB,T,N,F,16,,Middleham Road,,London
+2022-01-07,235000,N18 2QL,F,N,L,4,,Cuthbert Road,,London
+2021-12-22,570000,N18 1AX,T,N,F,1,,Tasmania Terrace,,London
+2021-12-20,320000,N18 1EG,T,N,F,53,,Barclay Road,,London
+2021-12-17,365000,N18 2RR,T,N,F,28,,Claremont Street,,London
+2021-12-17,445000,N18 2JF,T,N,F,46,,Raynham Road,,London
+2021-12-17,266000,N18 2HX,F,N,L,70,,Leopold Road,,London
+2021-12-17,450000,N18 1PX,T,N,F,4,,Lopen Road,,London
+2021-12-17,535000,N18 1NX,T,N,F,52,,Oakfield Gardens,,London
+2021-12-16,302000,N18 1PB,F,N,L,6,,Dorrit Mews,,London
+2021-12-15,425000,N18 1LB,T,N,F,17,,Carlton Terrace,,London
+2021-12-14,410000,N18 2HF,T,N,F,209,,Brettenham Road,,London
+2021-12-14,564000,N18 2BH,T,N,F,101,,Leyburn Road,,London
+2021-11-30,385000,N18 1PZ,T,N,F,23,,Haselbury Road,,London
+2021-11-30,479950,N18 1BP,T,N,F,7,,Derwent Avenue,,London
+2021-11-26,270000,N18 2HX,F,N,L,50,,Leopold Road,,London
+2021-11-26,380000,N18 2DY,T,N,F,20,,Leopold Road,,London
+2021-11-25,385000,N18 2SB,T,N,F,24,,Middleham Road,,London
+2021-11-25,540000,N18 1JH,T,N,F,35,,Steeplestone Close,,London
+2021-11-24,422500,N18 1LB,T,N,F,8,,Carlton Terrace,,London
+2021-11-23,385000,N18 2NS,T,N,F,116,,Montagu Road,,London
+2021-11-18,490000,N18 1QB,T,N,F,119,,Haselbury Road,,London
+2021-11-12,250000,N18 2DA,F,N,L,"Shillibeer Court, 61",Flat 23,Aberdeen Road,,London
+2021-11-12,320000,N18 1BQ,F,N,L,45,,Winsford Terrace,,London
+2021-11-08,410000,N18 2HJ,T,N,F,29,,Ellanby Crescent,,London
+2021-11-04,405000,N18 2AZ,T,N,F,43,,Stockton Road,,London
+2021-10-27,410000,N18 2EG,T,N,F,9,,Glasgow Road,,London
+2021-10-22,405000,N18 2LU,T,N,F,9,,Cavendish Road,Edmonton,London
+2021-10-21,251000,N18 1PH,F,N,L,14,,Dickens Lane,,London
+2021-10-20,340000,N18 2PU,T,N,F,41,,Ascot Road,,London
+2021-10-19,360000,N18 2ET,T,N,F,26,,Brettenham Road,,London
+2021-10-15,447500,N18 2BW,T,N,F,30,,Raynham Avenue,,London
+2021-10-15,155000,N18 1FA,F,N,L,"Hammond Court, 20",Flat 57,Watermill Lane,,London
+2021-10-04,220000,N18 1XG,F,N,L,119,,Wigston Close,,London
+2021-09-30,388000,N18 1QH,T,N,F,117,,Bulwer Road,,London
+2021-09-30,377000,N18 1QE,T,N,F,141,,Haselbury Road,,London
+2021-09-30,412500,N18 1LD,T,N,F,35,,Carlton Terrace,,London
+2021-09-30,340000,N18 1EY,T,N,F,5,,Hawthorne Road,,London
+2021-09-30,555000,N18 1AB,T,N,F,9,,Empire Avenue,,London
+2021-09-29,428000,N18 1BS,T,N,F,38,,Winsford Terrace,,London
+2021-09-27,340000,N18 1PZ,T,N,F,9,,Haselbury Road,,London
+2021-09-27,458000,N18 1AS,T,N,F,5,,Canada Avenue,,London
+2021-09-24,428000,N18 1RR,T,N,F,33,,Warwick Road,Edmonton,London
+2021-09-24,360000,N18 1EU,T,N,F,29,,Pretoria Road North,,London
+2021-09-23,422000,N18 2JX,T,N,F,86,,York Road,,London
+2021-09-17,460000,N18 2LD,D,N,F,36,,Yorkshire Gardens,,London
+2021-09-15,364000,N18 2JZ,T,N,F,11,,York Road,,London
+2021-09-14,468000,N18 2HJ,T,N,F,27,,Ellanby Crescent,,London
+2021-09-14,430000,N18 2HB,T,N,F,33,,Montagu Gardens,,London
+2021-09-10,395000,N18 1PS,T,N,F,18,,Hewish Road,,London
+2021-09-08,360000,N18 2NP,T,N,F,178,,Montagu Road,,London
+2021-09-01,440000,N18 1LD,T,N,F,34,,Carlton Terrace,,London
+2021-08-31,215000,N18 2QQ,F,N,L,122,,Swaythling Close,,London
+2021-08-31,465000,N18 1AT,T,N,F,23,,Queensland Avenue,,London
+2021-08-27,460000,N18 1BW,T,N,F,24,,Derwent Avenue,,London
+2021-08-16,210000,N18 2SY,F,N,L,122,,Snells Park,,London
+2021-08-15,563000,N18 1BL,T,N,F,5,,Pentyre Avenue,,London
+2021-08-12,403000,N18 1EH,T,N,F,57,,Barclay Road,,London
+2021-08-11,412000,N18 2PN,T,N,F,66,,Kings Road,,London
+2021-08-11,430000,N18 1BS,T,N,F,28,,Winsford Terrace,,London
+2021-08-10,480000,N18 1AS,S,N,F,13,,Canada Avenue,,London
+2021-08-06,500000,N18 1JA,T,N,F,25,,Lister Gardens,,London
+2021-08-04,235000,N18 2TD,F,N,L,3,,Snells Park,,London
+2021-08-02,398000,N18 1RX,T,N,F,30,,Warwick Road,Edmonton,London
+2021-07-30,520000,N18 1NG,T,N,F,42,,Kendal Avenue,Edmonton,London
+2021-07-30,525000,N18 1JH,T,N,F,28,,Steeplestone Close,,London
+2021-07-26,385000,N18 2QN,T,N,F,6,,Cornwall Road,,London
+2021-07-13,540000,N18 2AU,T,N,F,49,,Thornaby Gardens,,London
+2021-07-09,420000,N18 1LH,T,N,F,8,,Bromley Road,,London
+2021-07-01,310000,N18 2TJ,F,N,L,176,,Langhedge Lane,,London
+2021-07-01,245000,N18 1PB,F,N,L,2,,Dorrit Mews,,London
+2021-06-30,269500,N18 2DQ,T,N,F,11,,Dysons Road,Upper Edmonton,London
+2021-06-30,350000,N18 2AG,T,N,F,49,,Wakefield Street,,London
+2021-06-30,435000,N18 1RX,T,N,F,48,,Warwick Road,Edmonton,London
+2021-06-30,450000,N18 1LJ,T,N,F,132,,Huxley Road,,London
+2021-06-29,376000,N18 1NU,T,N,F,13,,Henley Road,,London
+2021-06-29,584000,N18 1JL,T,N,F,95,,Pasteur Gardens,,London
+2021-06-29,380000,N18 1EB,S,N,F,4,,Weir Hall Avenue,,London
+2021-06-28,300000,N18 2SD,F,N,L,106,,Middleham Road,,London
+2021-06-28,467000,N18 2QL,T,N,F,1,,Cuthbert Road,,London
+2021-06-28,370000,N18 2NR,T,N,F,4,,Daniel Close,,London
+2021-06-28,390000,N18 1LU,T,N,F,109,,Cheddington Road,,London
+2021-06-28,385000,N18 1EZ,T,N,F,60,,Hawthorn Road,,London
+2021-06-25,445000,N18 2RT,T,N,F,94,,Ingleton Road,,London
+2021-06-25,440000,N18 1RX,T,N,F,26,,Warwick Road,Edmonton,London
+2021-06-25,362000,N18 1RQ,T,N,F,5,,Sheldon Road,,London
+2021-06-25,380000,N18 1QB,T,N,F,113,,Haselbury Road,,London
+2021-06-25,392000,N18 1PN,T,N,F,55,,Lopen Road,,London
+2021-06-25,548000,N18 1EN,S,N,F,76,,Weir Hall Road,,London
+2021-06-25,555500,N18 1AJ,S,N,F,187,,Pasteur Gardens,,London
+2021-06-24,450000,N18 2BQ,S,N,F,96,,Leyburn Road,,London
+2021-06-23,405000,N18 1QA,T,N,F,36,,Haselbury Road,,London
+2021-06-23,380000,N18 1LD,T,N,F,33,,Carlton Terrace,,London
+2021-06-21,365000,N18 2BG,T,N,F,5,,Leyburn Road,,London
+2021-06-21,305000,N18 1HQ,S,N,F,4,,Somerset Road,,London
+2021-06-18,460000,N18 1NY,T,N,F,39,,Oakfield Gardens,,London
+2021-06-14,370000,N18 2BG,T,N,F,23,,Leyburn Road,,London
+2021-06-14,400000,N18 1HH,T,N,F,81,,Somerset Road,,London
+2021-06-14,395000,N18 1DR,T,N,F,11,,Giffard Road,,London
+2021-06-11,445000,N18 1PA,T,N,F,46,,Windmill Road,,London
+2021-06-10,495000,N18 1AQ,T,N,F,162,,Empire Avenue,,London
+2021-06-10,460000,N18 1AE,T,N,F,80,,Empire Avenue,,London
+2021-06-09,375000,N18 1PS,T,N,F,26,,Hewish Road,,London
+2021-06-04,356000,N18 1EF,T,N,F,6,,Barclay Road,,London
+2021-06-02,200000,N18 1PA,F,N,L,22B,,Windmill Road,,London
+2021-06-02,240000,N18 1PA,F,N,L,22A,,Windmill Road,,London
+2021-05-28,266000,N18 2XS,D,N,F,221,,College Close,,London
+2021-05-28,322000,N18 2EZ,S,N,F,44,,Montagu Gardens,,London
+2021-05-28,460000,N18 1NR,T,N,F,64,,Windmill Road,,London
+2021-05-28,420000,N18 1HA,T,N,F,132,,Bridport Road,,London
+2021-05-26,340000,N18 2BL,T,N,F,91,,Claremont Street,,London
+2021-05-24,489999,N18 1JB,T,N,F,15,,Newton Way,,London
+2021-05-21,415000,N18 1PU,T,N,F,126,,Lopen Road,,London
+2021-05-13,290000,N18 2RU,T,N,F,24,,Ingleton Road,,London
+2021-05-07,360000,N18 1PZ,T,N,F,37,,Haselbury Road,,London
+2021-04-30,188000,N18 1XG,F,N,L,156,,Wigston Close,,London
+2021-04-29,460000,N18 2QP,S,N,F,17,,Fairfield Road,,London
+2021-04-27,350000,N18 1HW,T,N,F,1,,Gloucester Road,,London
+2021-04-21,408000,N18 1EU,T,N,F,53,,Pretoria Road North,,London
+2021-04-16,400000,N18 2LT,T,N,F,53,,Cavendish Road,Edmonton,London
+2021-04-16,260000,N18 2EW,F,N,L,46,,Leopold Road,,London
+2021-04-14,170000,N18 1XB,F,N,L,115,,Plowman Close,Edmonton,London
+2021-04-13,380000,N18 2EQ,T,N,F,8,,Edinburgh Road,,London
+2021-04-12,397500,N18 1QQ,T,N,F,98,,Bulwer Road,,London
+2021-04-09,330000,N18 2PX,T,N,F,6,,St Peters Avenue,,London
+2021-04-09,300000,N18 2PT,F,N,F,13,,Lansfield Avenue,,London
+2021-04-09,580000,N18 1NX,T,N,F,58,,Oakfield Gardens,,London
+2021-04-08,445000,N18 1AD,T,N,F,18,,Empire Avenue,,London
+2021-03-31,495000,N18 1RZ,T,N,F,51,,Sweet Briar Walk,,London
+2021-03-29,390000,N18 2PN,T,N,F,94,,Kings Road,,London
+2021-03-29,165000,N18 1UZ,F,N,L,115,,Whitehead Close,,London
+2021-03-29,252500,N18 1PG,F,N,L,44,,Tanners End Lane,,London
+2021-03-29,400000,N18 1HP,T,N,F,35,,Lancaster Road,Edmonton,London
+2021-03-23,415000,N18 1NU,T,N,F,61,,Henley Road,,London
+2021-03-22,323000,N18 1LW,F,N,L,41A,,Orpington Gardens,,London
+2021-03-19,387000,N18 2XR,T,N,F,22,,College Gardens,,London
+2021-03-19,240000,N18 2QP,T,N,L,29B,,Fairfield Road,,London
+2021-03-19,215000,N18 2QP,F,N,L,29A,,Fairfield Road,,London
+2021-03-19,407000,N18 2HA,S,N,F,18,,Montagu Crescent,,London
+2021-03-19,145000,N18 1FA,F,N,L,"Hammond Court, 20",Flat 73,Watermill Lane,,London
+2021-03-15,510000,N18 1LF,T,N,F,5,,Bromley Road,,London
+2021-03-10,185000,N18 2XN,F,N,L,31,,Gilpin Crescent,,London
+2021-03-09,290001,N18 2ND,F,N,L,84,,Jeremys Green,,London
+2021-03-02,335000,N18 2EQ,T,N,F,4,,Edinburgh Road,,London
+2021-03-01,498000,N18 1LP,T,N,F,8,,Orpington Gardens,,London
+2021-03-01,365000,N18 1EY,T,N,F,71,,Hawthorne Road,,London
+2021-02-26,437000,N18 2UQ,T,N,F,14,,Park Road,Edmonton,London
+2021-02-26,206500,N18 2ND,F,N,L,105,,Jeremys Green,,London
+2021-02-26,482500,N18 2BH,T,N,F,55,,Leyburn Road,,London
+2021-02-26,325000,N18 1NT,T,N,F,40,,Henley Road,,London
+2021-02-26,410000,N18 1EE,T,N,F,68,,Weir Hall Avenue,,London
+2021-02-25,300000,N18 1LS,T,N,F,6,,Cheddington Road,,London
+2021-02-24,343000,N18 1PT,T,N,F,87,,Lopen Road,,London
+2021-02-23,491000,N18 1JX,T,N,F,Harington Terrace,29,Great Cambridge Road,,London
+2021-02-22,447000,N18 2JX,T,N,F,108,,York Road,,London
+2021-02-18,395000,N18 1NW,T,N,F,19,,Huxley Road,,London
+2021-02-17,400000,N18 1LB,T,N,F,18,,Carlton Terrace,,London
+2021-02-15,450000,N18 1PL,S,N,F,187,,Silver Street,,London
+2021-02-12,300000,N18 2QJ,T,N,F,80,,Fairfield Road,,London
+2021-02-05,375000,N18 2SE,T,N,F,5,,Middleham Gardens,,London
+2021-02-05,396000,N18 2RA,T,N,F,27,,Cowper Road,,London
+2021-02-05,600000,N18 1JJ,S,N,F,43,,Petersfield Close,,London
+2021-02-04,465000,N18 1QY,T,N,F,192,,Silver Street,,London
+2021-01-29,445000,N18 2DY,T,N,F,19,,Leopold Road,,London
+2021-01-29,410000,N18 1HW,T,N,F,5,,Gloucester Road,,London
+2021-01-29,330000,N18 1DP,T,N,F,9,,Hardinge Road,,London
+2021-01-28,322000,N18 2RU,T,N,F,34,,Ingleton Road,,London
+2021-01-25,445000,N18 2QP,T,N,F,23,,Fairfield Road,,London
+2021-01-22,485000,N18 1AD,T,N,F,20,,Empire Avenue,,London
+2021-01-21,380000,N18 2LD,T,N,F,32,,Yorkshire Gardens,,London
+2021-01-14,495000,N18 1JL,T,N,F,93,,Pasteur Gardens,,London
+2021-01-12,226000,N18 1RZ,F,N,L,65,,Sweet Briar Walk,,London
+2021-01-06,355000,N18 2SD,T,N,F,76,,Middleham Road,,London

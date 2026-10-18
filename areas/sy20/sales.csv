@@ -1,0 +1,546 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-10,90000,SY20 8QJ,D,N,F,Ysgubor,2,,Llanwrin,Machynlleth
+2026-07-08,175500,SY20 8QJ,D,N,F,Daulwyn,4,,Llanwrin,Machynlleth
+2026-06-26,268000,SY20 9LW,T,N,F,"Gwelfryn, 14",,Mawddwy Cottages,Dinas Mawddwy,Machynlleth
+2026-06-22,220000,SY20 8PN,S,N,F,Cysgod-Y-Coed,,,Tre'R Ddol,Machynlleth
+2026-06-16,463500,SY20 8QR,D,N,F,Pedwar Gwynt,,,Cemmaes,Machynlleth
+2026-05-20,200000,SY20 8BA,S,N,F,5,,Tan Yr Eglwys,,Machynlleth
+2026-05-19,190000,SY20 8LE,D,N,F,Troed Y Ffridd,,,Cemmaes Road,Machynlleth
+2026-05-05,230000,SY20 9NH,D,N,F,Cefn Byriath,,,Aberangell,Machynlleth
+2026-04-22,310000,SY20 8HJ,D,N,F,4,,Cae Maenllwyd,,Machynlleth
+2026-04-22,148000,SY20 8BU,S,N,F,24,,Snowdon View,,Machynlleth
+2026-04-21,445000,SY20 9PX,D,N,F,Plasdyfi,,,Cemmaes,Machynlleth
+2026-04-01,280000,SY20 9NF,D,N,F,The Bungalow,,,Aberangell,Machynlleth
+2026-03-30,80000,SY20 9SS,T,N,F,8,,Bridge Street,Corris,Machynlleth
+2026-03-27,264000,SY20 9AQ,S,N,F,Tan Y Llan,1,,Llanymawddwy,Machynlleth
+2026-03-20,330000,SY20 8XA,D,N,F,3,,Maesnewydd,,Machynlleth
+2026-03-20,200000,SY20 8RA,D,N,F,Llys Madian,,,Aberhosan,Machynlleth
+2026-03-20,150000,SY20 8HL,T,N,F,12,,Bryn Y Gog,,Machynlleth
+2026-03-19,200000,SY20 8HT,S,N,F,6,,Tregarth,,Machynlleth
+2026-03-19,235000,SY20 8ET,D,N,F,Lledfair Tollhouse,,Aberystwyth Road,,Machynlleth
+2026-03-17,510000,SY20 8LS,D,N,F,Glyntwymyn,,,Commins Coch,Machynlleth
+2026-03-06,192000,SY20 8JW,S,N,F,13,,Pencae,Taliesin,Machynlleth
+2026-02-12,250000,SY20 8LG,D,N,F,Hafod,,,Commins Coch,Machynlleth
+2026-02-11,162500,SY20 8JH,D,N,F,Glanhaul,,,Taliesin,Machynlleth
+2026-02-02,600000,SY20 8JS,D,N,F,Llety-Lwydin,,,Taliesin,Machynlleth
+2026-01-30,270000,SY20 8LG,S,N,F,Glanafon,1,,Commins Coch,Machynlleth
+2026-01-22,148000,SY20 9RN,T,N,F,6,,Tanrallt,Corris,Machynlleth
+2026-01-15,100000,SY20 8RN,T,N,F,Bontfaen,2,,Forge,Machynlleth
+2025-12-17,315000,SY20 8PF,S,N,F,12B,,Pencaemawr,Penegoes,Machynlleth
+2025-12-16,145000,SY20 8TN,T,N,F,Hen Capel,,,Derwenlas,Machynlleth
+2025-12-10,550000,SY20 9RA,D,N,F,Abergarfan Isaf,,,Pantperthog,Machynlleth
+2025-12-10,205000,SY20 8HT,T,N,F,22,,Tregarth,,Machynlleth
+2025-12-02,307500,SY20 9LP,S,N,F,Dafarn Newydd,,,Dinas Mawddwy,Machynlleth
+2025-11-27,150000,SY20 9EZ,S,N,F,18,,Aelybryn,Ceinws,Machynlleth
+2025-11-27,105000,SY20 8PP,T,N,F,2,,North Road,Tre-R-Ddol,Machynlleth
+2025-11-25,360000,SY20 9AQ,D,N,F,Y Werin,,,Llanymawddwy,Machynlleth
+2025-11-24,335000,SY20 8JS,D,N,F,Seintwar,,,Taliesin,Machynlleth
+2025-11-21,75000,SY20 9TH,T,N,F,Craig Y Don,2,,Corris,Machynlleth
+2025-11-07,780000,SY20 9DT,D,N,F,Pen-Y-Bryn,,,Pennal,Machynlleth
+2025-11-07,220000,SY20 8HG,T,N,F,46,,Cae Crwn,,Machynlleth
+2025-10-24,180000,SY20 9BP,S,N,F,Bryngolau,,,Upper Corris,Machynlleth
+2025-10-24,155000,SY20 8BQ,T,N,F,7,,Heol Y Doll,,Machynlleth
+2025-10-23,135000,SY20 9AF,D,N,F,Penybryn,,,Aber Cywarch,Machynlleth
+2025-10-20,375000,SY20 8HH,D,N,F,Tan House,,Tanrallt Road,,Machynlleth
+2025-10-09,340000,SY20 8JH,D,N,F,Glannant,,,Taliesin,Machynlleth
+2025-10-01,157500,SY20 9PD,S,N,F,6,,Rhosawel,Cwmllinau,Machynlleth
+2025-09-29,225000,SY20 8NR,T,N,F,Rhiwlas,,,Abercegir,Machynlleth
+2025-09-26,173000,SY20 8TW,T,N,F,5,,Glynderwen,Derwenlas,Machynlleth
+2025-09-23,195000,SY20 9EX,D,N,F,Parc Dulas,1,,Ceinws,Machynlleth
+2025-09-17,222000,SY20 8QH,D,N,F,Hen Ysgol,,,Llanwrin,Machynlleth
+2025-09-11,175000,SY20 8EN,T,N,F,16,,Tremyrallt,,Machynlleth
+2025-09-10,225000,SY20 9ND,D,N,F,Glanafon,,,Aberangell,Machynlleth
+2025-09-09,405000,SY20 9DW,T,N,F,Tytanyrywen,,,Pennal,Machynlleth
+2025-08-29,225000,SY20 8JH,D,N,F,The Romans,2,,Taliesin,Machynlleth
+2025-08-26,150000,SY20 9EZ,T,N,F,14,,Aelybryn,Ceinws,Machynlleth
+2025-08-26,175000,SY20 8HU,S,N,F,44,,Tregarth,,Machynlleth
+2025-08-20,177000,SY20 8HT,T,N,F,2,,Tregarth,,Machynlleth
+2025-08-14,165000,SY20 9DZ,S,N,F,3,,Felindre,Pennal,Machynlleth
+2025-07-25,410000,SY20 8UN,D,N,F,Penbeili,,,Penegoes,Machynlleth
+2025-07-23,165000,SY20 8PP,T,N,F,4,,North Road,Tre-R-Ddol,Machynlleth
+2025-07-18,156000,SY20 9DZ,S,N,F,5,,Felindre,Pennal,Machynlleth
+2025-07-18,590000,SY20 8JY,D,N,F,Poisnant Farm,,,Cemmaes Road,Machynlleth
+2025-07-17,180000,SY20 9RN,T,N,F,3,,Tanrallt,Corris,Machynlleth
+2025-07-17,180000,SY20 9RG,T,N,F,9,,Hillsborough,Upper Corris,Machynlleth
+2025-07-09,170000,SY20 8JL,T,N,F,5,,Terrace Row,Taliesin,Machynlleth
+2025-07-04,320000,SY20 8TN,D,N,F,Brynsiriol,,,Derwenlas,Machynlleth
+2025-07-04,100000,SY20 8NS,T,N,F,2,,Moelfre View,Darowen,Machynlleth
+2025-07-01,151000,SY20 8PP,T,N,F,6,,North Road,Tre-R-Ddol,Machynlleth
+2025-06-25,310000,SY20 9HJ,T,N,F,Gwel-Fryn,,,Mallwyd,Machynlleth
+2025-06-18,155000,SY20 8JG,T,N,F,Craig-Y-Don,,,Taliesin,Machynlleth
+2025-06-17,440000,SY20 9DU,D,N,F,Cwm-Dwr,,,Pennal,Machynlleth
+2025-06-13,217500,SY20 9LW,D,N,F,7,,Mawddwy Cottages,Dinas Mawddwy,Machynlleth
+2025-06-06,195000,SY20 8HY,T,N,F,78,,Tregarth,,Machynlleth
+2025-06-02,168000,SY20 8BJ,T,N,F,Erw Fair,,Railway Terrace,,Machynlleth
+2025-05-28,195000,SY20 8HN,T,N,F,92,,Bryn Y Gog,,Machynlleth
+2025-05-28,345000,SY20 8HD,S,N,F,Llysun,,Newtown Road,,Machynlleth
+2025-05-23,120000,SY20 8NR,T,N,F,Haulfryn,,,Abercegir,Machynlleth
+2025-05-23,243000,SY20 8JW,D,N,F,6,,Pencae,Taliesin,Machynlleth
+2025-05-22,170000,SY20 8EB,T,N,F,33,,Heol Maengwyn,,Machynlleth
+2025-05-21,390000,SY20 9AJ,D,N,F,Tyn-Y-Ddol,,,Llanymawddwy,Machynlleth
+2025-05-19,125000,SY20 9NU,S,N,F,Erw,,,Cwmllinau,Machynlleth
+2025-05-13,500000,SY20 9AT,D,N,F,Cwm-Cadian,,,Pantperthog,Machynlleth
+2025-05-02,350000,SY20 8RP,D,N,F,Chapel Cottage,,,Forge,Machynlleth
+2025-04-30,225000,SY20 8BW,T,N,F,31,,Maldwyn Place,,Machynlleth
+2025-04-25,240000,SY20 8ET,S,N,F,Madian,,Aberystwyth Road,,Machynlleth
+2025-04-17,360000,SY20 9DH,S,N,F,Trellywel,,,Pennal,Machynlleth
+2025-04-11,140500,SY20 8BH,T,N,F,23,,Heol Y Doll,,Machynlleth
+2025-04-04,105000,SY20 8LH,T,N,F,1,,The Terrace,Commins Coch,Machynlleth
+2025-04-02,95000,SY20 8NS,T,N,F,3,,Moelfre View,Darowen,Machynlleth
+2025-04-01,270000,SY20 8PN,S,N,F,4-5 Tynywern,Brodawel,,Tre'R Ddol,Machynlleth
+2025-03-31,120000,SY20 9BH,T,N,F,4,,Idris Terrace,Upper Corris,Machynlleth
+2025-03-31,215000,SY20 8PG,F,N,L,Plas Einion,Flat 4,,Furnace,Machynlleth
+2025-03-28,370000,SY20 9LP,D,N,F,Tynant,,,Dinas Mawddwy,Machynlleth
+2025-03-25,174000,SY20 9QW,S,N,F,2,,Pen Y Banc,Aberangell,Machynlleth
+2025-03-24,177000,SY20 8DS,S,N,F,2,,Bodlondeb Lane,,Machynlleth
+2025-03-21,400000,SY20 8RZ,D,N,F,Maes Y Meillion,,,Forge,Machynlleth
+2025-03-17,200000,SY20 9RL,S,N,F,1,,Mount Pleasant,Corris,Machynlleth
+2025-03-10,145000,SY20 8NR,T,N,F,Cartref,,,Abercegir,Machynlleth
+2025-03-07,410000,SY20 9RD,D,N,F,Brynllwyd Mawr,,,Corris,Machynlleth
+2025-03-04,218000,SY20 9LR,D,N,F,Top Minllyn,,,Dinas Mawddwy,Machynlleth
+2025-02-20,90000,SY20 9RJ,D,N,F,Abercorris Cabins,11,,Corris,Machynlleth
+2025-02-07,175000,SY20 9LA,T,N,F,4,,Upper Cwrt,Cwrt,Machynlleth
+2025-01-31,165000,SY20 9HD,D,N,F,Brynmair,,,Ceinws,Machynlleth
+2025-01-22,192000,SY20 8JG,T,N,F,Brynderw,,,Taliesin,Machynlleth
+2025-01-06,193000,SY20 8AT,T,N,F,Brynmair,,New Street,,Machynlleth
+2024-12-19,105000,SY20 8BH,T,N,F,Morris Cottages,2,Heol Y Doll,,Machynlleth
+2024-12-18,395000,SY20 9AJ,D,N,F,Bryn Awel,,,Llanymawddwy,Machynlleth
+2024-12-18,430000,SY20 8PN,D,N,F,Sunnidale,,,Tre'R Ddol,Machynlleth
+2024-12-18,125000,SY20 8BY,T,N,F,16,,Poplar Terrace,,Machynlleth
+2024-12-16,100000,SY20 9PR,T,N,F,Uwch-Yr-Afon,3,,Cemmaes,Machynlleth
+2024-12-16,310000,SY20 8PF,S,N,F,1B,,Pencaemawr,Penegoes,Machynlleth
+2024-12-13,500000,SY20 8SS,D,N,F,Mill House,,,Glandyfi,Machynlleth
+2024-12-13,165000,SY20 8DG,T,N,F,27,,Heol Pentrerhedyn,,Machynlleth
+2024-12-09,100000,SY20 8HN,T,N,F,61,,Bryn Y Gog,,Machynlleth
+2024-12-09,200000,SY20 8HF,D,N,F,2,,Cae Crwn,,Machynlleth
+2024-12-05,221000,SY20 8HF,S,N,F,22,,Cae Crwn,,Machynlleth
+2024-12-02,184000,SY20 8HN,S,N,F,102,,Bryn Y Gog,,Machynlleth
+2024-11-26,180000,SY20 9LL,D,N,F,Bugeilfod,,,Dinas Mawddwy,Machynlleth
+2024-11-21,170500,SY20 9RH,D,N,F,Tremlyn,,,Upper Corris,Machynlleth
+2024-11-15,183000,SY20 8HT,S,N,F,11,,Tregarth,,Machynlleth
+2024-11-14,340000,SY20 9HD,D,N,F,Gyfylchau,,,Ceinws,Machynlleth
+2024-11-01,270000,SY20 9JJ,D,N,F,"Awel Dyfi, 3",,Ffordd Glyndwr,Cwrt,Machynlleth
+2024-10-30,75000,SY20 9JA,T,N,F,Corner Cottage,,,Dinas Mawddwy,Machynlleth
+2024-10-25,520000,SY20 9RH,D,N,F,Ty Newydd,,,Upper Corris,Machynlleth
+2024-10-25,217000,SY20 8HG,T,N,F,56,,Cae Crwn,,Machynlleth
+2024-10-25,210000,SY20 8HG,T,N,F,31,,Cae Crwn,,Machynlleth
+2024-10-23,154500,SY20 8BS,S,N,F,Dovey View,48,Brickfield Street,,Machynlleth
+2024-10-22,102500,SY20 8LH,T,N,F,8,,The Terrace,Commins Coch,Machynlleth
+2024-10-21,300000,SY20 9QG,D,N,F,Ty-Newydd,,,Aberangell,Machynlleth
+2024-10-18,147500,SY20 9BE,T,N,F,Glandwyryd Cottage,,,Upper Corris,Machynlleth
+2024-10-18,120000,SY20 8NT,T,N,F,3,,Ivy Terrace,Darowen,Machynlleth
+2024-10-11,175000,SY20 8JH,D,N,F,Gelli Deg,,,Taliesin,Machynlleth
+2024-10-10,176500,SY20 8HL,T,N,F,32,,Bryn Y Gog,,Machynlleth
+2024-10-09,395000,SY20 8QJ,D,N,F,Dolfor,,,Llanwrin,Machynlleth
+2024-10-04,120000,SY20 9LL,T,N,F,4,,Dyfi Terrace,Dinas Mawddwy,Machynlleth
+2024-10-03,154000,SY20 9DZ,D,N,F,6,,Felindre,Pennal,Machynlleth
+2024-10-02,125000,SY20 8NB,D,N,F,Lletyr Bugail,,,Llanwrin,Machynlleth
+2024-10-01,445000,SY20 9QG,D,N,F,Aberdwynant,,,Aberangell,Machynlleth
+2024-09-30,112500,SY20 9HJ,T,N,F,Trewern,,,Mallwyd,Machynlleth
+2024-09-27,185000,SY20 8NT,T,N,F,4,,Ivy Terrace,Darowen,Machynlleth
+2024-09-26,145000,SY20 9DS,T,N,F,3,,Marian Terrace,Pennal,Machynlleth
+2024-09-20,98200,SY20 9LD,F,N,L,The Coachhouse,2,,Pennal,Machynlleth
+2024-09-20,380000,SY20 9AY,D,N,F,Tan Y Foel,,,Pantperthog,Machynlleth
+2024-09-20,182000,SY20 8PN,T,N,F,Tynywern,"Brenindy, 1",,Tre'R Ddol,Machynlleth
+2024-09-20,315000,SY20 8PF,S,N,F,18A,,Pencaemawr,Penegoes,Machynlleth
+2024-09-20,170000,SY20 8HS,T,N,F,6,,Heol Iorwerth,,Machynlleth
+2024-09-19,101000,SY20 8BH,T,N,F,Morris Cottages,1,Heol Y Doll,,Machynlleth
+2024-09-16,295000,SY20 8PF,S,N,F,1A,,Pencaemawr,Penegoes,Machynlleth
+2024-09-16,380000,SY20 8JH,D,N,F,Rhosyn Y Mor,,,Taliesin,Machynlleth
+2024-09-12,300000,SY20 8TL,D,N,F,Nawlyn,,,,Machynlleth
+2024-09-11,165000,SY20 8SU,T,N,F,1,,Park Terrace,Glandyfi,Machynlleth
+2024-09-09,185000,SY20 9RE,T,N,F,4,,Braich Goch Terrace,Corris,Machynlleth
+2024-09-05,365000,SY20 9RD,D,N,F,Fron-Goch,,,Corris,Machynlleth
+2024-09-05,138000,SY20 9HJ,D,N,F,Minffordd,,,Mallwyd,Machynlleth
+2024-09-02,135000,SY20 8NT,T,N,F,2,,Ivy Terrace,Darowen,Machynlleth
+2024-09-02,135000,SY20 8NT,T,N,F,2,,Ivy Terrace,Darowen,Machynlleth
+2024-08-21,217000,SY20 9JT,T,N,F,Ty Bont,,,Pennal,Machynlleth
+2024-08-21,340000,SY20 8AN,D,N,F,Minffordd,,Penrallt Street,,Machynlleth
+2024-08-16,155000,SY20 9BW,T,N,F,1,,Glan Y Nant,Upper Corris,Machynlleth
+2024-08-13,415000,SY20 8UJ,D,N,F,Plas Dolguog Estate,Solstar,,Felingerrig,Machynlleth
+2024-08-07,190000,SY20 8EF,S,N,F,111,,Heol Maengwyn,,Machynlleth
+2024-08-05,294000,SY20 8PF,S,N,F,18B,,Pencaemawr,Penegoes,Machynlleth
+2024-08-05,399000,SY20 8HE,S,N,F,Lyndale,,Newtown Road,,Machynlleth
+2024-07-19,200000,SY20 8HG,T,N,F,41,,Cae Crwn,,Machynlleth
+2024-07-16,262000,SY20 9RA,D,N,F,Doldderwen,3,,Pantperthog,Machynlleth
+2024-07-12,333250,SY20 8RN,D,N,F,Dorthonion,,,Forge,Machynlleth
+2024-07-04,350000,SY20 8TA,D,N,F,Ynys Hir Lodge,,,Eglwys Fach,Machynlleth
+2024-07-04,185000,SY20 8BX,T,N,F,"Plas Poplys, 23",,Poplar Square,,Machynlleth
+2024-07-04,148000,SY20 8BE,T,N,F,5,,Tan Rallt Street,,Machynlleth
+2024-06-28,253000,SY20 9DU,S,N,F,Cwm-Dwr,2,,Pennal,Machynlleth
+2024-06-27,97000,SY20 9SH,T,N,F,Brynedwin,1,,Corris,Machynlleth
+2024-06-26,250000,SY20 8LG,S,N,F,Glanafon,1,,Commins Coch,Machynlleth
+2024-06-21,132500,SY20 8JQ,T,N,F,2,,Wesley Terrace,Taliesin,Machynlleth
+2024-06-14,335000,SY20 9RE,D,N,F,Carmel,,Braich Goch Terrace,Corris,Machynlleth
+2024-05-31,425000,SY20 8JH,D,N,F,Nirvana,,,Taliesin,Machynlleth
+2024-05-31,120000,SY20 8BX,T,N,F,25,,Poplar Square,,Machynlleth
+2024-05-30,162000,SY20 8LG,T,N,F,Gwynfa,,,Commins Coch,Machynlleth
+2024-05-28,200000,SY20 8PU,D,N,F,The Coach House,,,Llancynfelyn,Machynlleth
+2024-05-24,322500,SY20 8PW,D,N,F,Pen Y Parc,,,Tre'R Ddol,Machynlleth
+2024-05-23,160000,SY20 8NR,T,N,F,Glanfelin,1,,Abercegir,Machynlleth
+2024-05-21,830000,SY20 9AG,D,N,F,Plasau,,,Llanymawddwy,Machynlleth
+2024-05-20,181000,SY20 9SX,T,N,F,1,,Arddol Terrace,Corris,Machynlleth
+2024-05-17,37000,SY20 9LD,T,N,F,Penmaendyfi,Chalet 4,,Pennal,Machynlleth
+2024-05-14,100000,SY20 8HU,T,N,F,39,,Tregarth,,Machynlleth
+2024-05-10,165000,SY20 9LG,T,N,F,1,,Plas Talgarth,Pennal,Machynlleth
+2024-05-10,255000,SY20 9AQ,D,N,F,Ger Y Llan,,,Llanymawddwy,Machynlleth
+2024-05-09,280000,SY20 9DP,T,N,F,Ty Alys,,Tower Road,Pennal,Machynlleth
+2024-05-09,199000,SY20 8BA,T,N,F,1,,Tan Yr Eglwys,,Machynlleth
+2024-05-07,135000,SY20 8DP,T,N,F,4,,Bank Street,,Machynlleth
+2024-04-30,85000,SY20 9DZ,D,N,F,10,,Felindre,Pennal,Machynlleth
+2024-04-26,120000,SY20 9LA,T,N,F,3,,Lower Cwrt,Cwrt,Machynlleth
+2024-04-19,249950,SY20 9NG,D,N,F,Maesyr Haf,,,Aberangell,Machynlleth
+2024-04-19,180000,SY20 8JZ,S,N,F,Station House,,,Cemmaes Road,Machynlleth
+2024-04-09,180000,SY20 8PL,D,N,L,Can Yr Ysbryd,,,Tre'R Ddol,Machynlleth
+2024-04-08,245000,SY20 8EU,D,N,F,Deildy,,Aberystwyth Road,,Machynlleth
+2024-04-03,62239,SY20 8AG,T,N,F,27,,Church Place,,Machynlleth
+2024-03-28,75000,SY20 9QH,T,N,F,Winllan,2,,Aberangell,Machynlleth
+2024-03-27,174500,SY20 9SP,D,N,F,Glasynys,,,Corris,Machynlleth
+2024-03-21,170000,SY20 8EJ,S,N,F,13,,Treowain,,Machynlleth
+2024-03-08,150000,SY20 8EJ,S,N,F,14,,Treowain,,Machynlleth
+2024-02-29,53000,SY20 8UJ,D,N,L,Chalet 16,,Plas Dolguog Estate,Felingerrig,Machynlleth
+2024-02-28,220000,SY20 9TL,D,N,F,Bronhaul,,,Corris,Machynlleth
+2024-02-23,395000,SY20 8LG,D,N,F,Coed Y Glyn,,,Commins Coch,Machynlleth
+2024-02-09,147000,SY20 9SL,S,N,F,2,,Bryntirion,Corris,Machynlleth
+2024-02-07,180000,SY20 8QJ,T,N,F,Daulwyn,5,,Llanwrin,Machynlleth
+2024-01-16,186000,SY20 9SX,T,N,F,2,,Arddol Terrace,Corris,Machynlleth
+2024-01-11,156000,SY20 9BQ,S,N,F,Neptune House,1,,Upper Corris,Machynlleth
+2024-01-04,132000,SY20 9DS,T,N,F,2,,Marian Terrace,Pennal,Machynlleth
+2023-12-21,375000,SY20 9JS,D,N,F,The Rectory,,,Pennal,Machynlleth
+2023-12-21,185000,SY20 8NR,T,N,F,Tycapel,,,Abercegir,Machynlleth
+2023-12-20,150000,SY20 8DQ,D,N,F,4,,Vane Hall Place,,Machynlleth
+2023-12-18,133000,SY20 9SJ,T,N,F,18,,Maes Y Llan,Corris,Machynlleth
+2023-12-18,445000,SY20 9JZ,D,N,F,Drws Y Cwm,,,Pennal,Machynlleth
+2023-12-15,140000,SY20 9LA,T,N,F,6,,Lower Cwrt,Cwrt,Machynlleth
+2023-12-14,315500,SY20 9QG,D,N,F,Tremafon,,,Aberangell,Machynlleth
+2023-12-14,455000,SY20 9LB,D,N,F,Plas Dyfi,,,Pennal,Machynlleth
+2023-12-13,295000,SY20 8QH,D,N,F,Pendrawr Llan,,,Llanwrin,Machynlleth
+2023-12-08,218000,SY20 8EJ,S,N,F,38,,Treowain,,Machynlleth
+2023-12-07,315000,SY20 9JG,D,N,F,Pen-Y-Cae,,,Dinas Mawddwy,Machynlleth
+2023-12-07,407500,SY20 8SS,D,N,F,Coed Y Garreg,,,Glandyfi,Machynlleth
+2023-12-01,250000,SY20 9PF,D,N,F,Gweirglawdd Newydd,,,Cwmllinau,Machynlleth
+2023-11-24,287000,SY20 9TS,D,N,F,Garreglwyd,,,Corris,Machynlleth
+2023-11-17,102000,SY20 8UJ,D,N,F,Plas Dolguog Estate,24 The Orchard,,Felingerrig,Machynlleth
+2023-11-06,230000,SY20 8ET,T,N,F,Brennig,,Aberystwyth Road,,Machynlleth
+2023-11-03,140000,SY20 9AY,F,N,L,Plas Esgair,Flat 4,,Pantperthog,Machynlleth
+2023-11-03,375000,SY20 8NR,D,N,F,Llwyn Y Ffynnon,,,Abercegir,Machynlleth
+2023-11-03,80000,SY20 8NR,T,N,F,2,,Glanwydol Terrace,Abercegir,Machynlleth
+2023-10-27,152500,SY20 8SS,S,N,F,Rose Cottage,,,Glandyfi,Machynlleth
+2023-10-06,620000,SY20 9DT,D,N,F,Arch Y Merddin,,,Pennal,Machynlleth
+2023-10-06,360000,SY20 8NE,D,N,F,6,,Coedcau Field,Penegoes,Machynlleth
+2023-10-06,215000,SY20 8HN,T,N,F,81,,Bryn Y Gog,,Machynlleth
+2023-10-06,200000,SY20 8HN,S,N,F,103,,Bryn Y Gog,,Machynlleth
+2023-10-05,287000,SY20 9SH,D,N,F,Tanydderwen,,,Corris,Machynlleth
+2023-10-05,390000,SY20 8QD,D,N,F,Llanerch Dyfi,,,Tre'R Ddol,Machynlleth
+2023-10-04,123000,SY20 9NY,T,N,F,1,,Terrace,Cwmllinau,Machynlleth
+2023-09-29,120000,SY20 8BE,T,N,F,3,,Tan Rallt Street,,Machynlleth
+2023-09-21,335000,SY20 8SS,D,N,F,Lletynewydd,,,Glandyfi,Machynlleth
+2023-09-15,100000,SY20 8PU,D,N,F,The Coach House,,,Llancynfelyn,Machynlleth
+2023-09-15,175000,SY20 8HL,T,N,F,34,,Bryn Y Gog,,Machynlleth
+2023-09-01,625000,SY20 8PG,D,N,F,Hafod Bach,,,Furnace,Machynlleth
+2023-09-01,125000,SY20 8BH,T,N,F,25,,Heol Y Doll,,Machynlleth
+2023-08-25,375000,SY20 8NS,D,N,F,Ty Capel,,,Darowen,Machynlleth
+2023-08-24,187000,SY20 8HP,S,N,F,2,,Maglona Villas,,Machynlleth
+2023-08-23,322500,SY20 8DD,D,N,F,6,,Ffordd Mynydd Griffiths,,Machynlleth
+2023-08-22,286000,SY20 8PF,S,N,F,13A,,Pencaemawr,Penegoes,Machynlleth
+2023-08-22,263500,SY20 8JH,D,N,F,The Romans,1,,Taliesin,Machynlleth
+2023-08-18,138000,SY20 9PS,S,N,F,5,,Maes Y Llan,Cemmaes,Machynlleth
+2023-08-14,240000,SY20 8EB,T,N,F,49,,Heol Maengwyn,,Machynlleth
+2023-08-11,135000,SY20 9LL,T,N,F,5,,Dyfy Terrace,Dinas Mawddwy,Machynlleth
+2023-08-11,260000,SY20 8AY,T,N,F,Brynawel,,Heol Powys,,Machynlleth
+2023-08-09,182250,SY20 8NR,S,N,F,Brynfor,,,Abercegir,Machynlleth
+2023-08-07,237000,SY20 8UP,D,N,F,Pen-Y-Bryn,,,Melin Byrhedyn,Machynlleth
+2023-07-31,339000,SY20 9HA,D,N,F,Capel Ebenezer,,,Ceinws,Machynlleth
+2023-07-24,216000,SY20 8HH,D,N,F,1,,Tan Yr Allt Road,,Machynlleth
+2023-07-14,170000,SY20 8PP,T,N,F,6,,North Road,Tre-R-Ddol,Machynlleth
+2023-07-14,175000,SY20 8LQ,T,N,F,Glan Twymyn,,,Commins Coch,Machynlleth
+2023-07-13,60000,SY20 9TH,T,N,F,Craig Y Don,3,,Corris,Machynlleth
+2023-07-11,152000,SY20 8BS,T,N,F,24,,Brickfield Street,,Machynlleth
+2023-07-07,180000,SY20 9DJ,T,N,F,3,,Rhys Terrace,Pennal,Machynlleth
+2023-06-30,100000,SY20 9SA,T,N,F,3,,Tanygraig,Aberllefenni,Machynlleth
+2023-06-27,250000,SY20 9LR,D,N,F,Delfryn,,,Dinas Mawddwy,Machynlleth
+2023-06-20,122000,SY20 9QJ,T,N,F,7,,Heulfryn,Aberangell,Machynlleth
+2023-06-09,280000,SY20 9EP,D,N,F,Penybont Cottage,,,Mallwyd,Machynlleth
+2023-06-01,130000,SY20 8JZ,S,N,F,Bryn Twymyn,,,Cemmaes Road,Machynlleth
+2023-05-26,203000,SY20 9LW,D,N,F,7,,Mawddwy Cottages,Dinas Mawddwy,Machynlleth
+2023-05-17,168500,SY20 8DP,T,N,F,7,,Bank Street,,Machynlleth
+2023-05-16,140000,SY20 8AS,T,N,F,3,,Dolanog Villas,,Machynlleth
+2023-05-15,150000,SY20 8JP,T,N,F,"Valhalla, 15",,Pencae,Taliesin,Machynlleth
+2023-05-12,370000,SY20 9LR,S,N,F,Bror Awelon,,,Dinas Mawddwy,Machynlleth
+2023-05-04,470000,SY20 9PE,D,N,F,Blaen Cwmllinau,,,Cwmllinau,Machynlleth
+2023-04-27,125000,SY20 9SS,T,N,F,10,,Bridge Street,Corris,Machynlleth
+2023-04-24,125000,SY20 9RJ,T,N,F,2,,Abercorris Cottages,Corris,Machynlleth
+2023-04-21,110000,SY20 9RJ,D,N,F,7 Abercorris Cabins,Holly Lodge,,Corris,Machynlleth
+2023-04-21,160000,SY20 9RG,T,N,F,9,,Hillsborough,Upper Corris,Machynlleth
+2023-04-17,225000,SY20 8EE,T,N,F,71,,Heol Maengwyn,,Machynlleth
+2023-04-13,450000,SY20 9RD,D,N,F,Goedwig,,,Corris,Machynlleth
+2023-04-13,209950,SY20 8JG,T,N,F,Brynderw,,,Taliesin,Machynlleth
+2023-04-04,315000,SY20 8EZ,D,N,F,Tre Fenai,,Newtown Road,,Machynlleth
+2023-04-03,170000,SY20 9SU,S,N,F,Glandwr,2,,Corris,Machynlleth
+2023-04-03,166000,SY20 9LG,D,N,F,12,,Plas Talgarth,Pennal,Machynlleth
+2023-03-31,300000,SY20 9EX,D,N,F,Aberglesyrch,,,Ceinws,Machynlleth
+2023-03-29,295000,SY20 8JH,S,N,F,Ystordy,,,Taliesin,Machynlleth
+2023-03-24,290000,SY20 8PW,D,N,F,Pen Y Parc,,,Tre'R Ddol,Machynlleth
+2023-03-23,215000,SY20 8UP,D,N,F,Pen-Y-Bryn,,,Melin Byrhedyn,Machynlleth
+2023-03-20,365000,SY20 9AA,D,N,F,Garden Cottage,,,Cemmaes,Machynlleth
+2023-03-20,165000,SY20 8TW,T,N,F,5,,Glynderwen,Derwenlas,Machynlleth
+2023-03-20,300000,SY20 8LG,D,N,F,Llwyn-Bedw,,,Commins Coch,Machynlleth
+2023-03-17,195000,SY20 8SX,D,N,F,Tan Y Bryn,,,Eglwys Fach,Machynlleth
+2023-03-03,220000,SY20 9HJ,T,N,F,Gwalia,,,Mallwyd,Machynlleth
+2023-02-23,177000,SY20 9DH,T,N,F,Ysgubor,1,,Pennal,Machynlleth
+2023-02-14,335000,SY20 9TF,D,N,F,Fronfelen Hall,,,Corris,Machynlleth
+2023-02-13,190000,SY20 9SU,T,N,F,Riversdale,,,Corris,Machynlleth
+2023-02-10,153000,SY20 8LH,T,N,F,2 - 3,,The Terrace,Commins Coch,Machynlleth
+2023-02-08,130000,SY20 8NQ,T,N,F,3,,Craig Yr Henffordd,Penegoes,Machynlleth
+2023-02-07,170000,SY20 9DZ,S,N,F,11,,Felindre,Pennal,Machynlleth
+2023-02-07,153000,SY20 8BS,T,N,F,34,,Brickfield Street,,Machynlleth
+2023-02-03,300000,SY20 8PN,D,N,F,Penmorfa,,,Tre'R Ddol,Machynlleth
+2023-02-03,190000,SY20 8HY,T,N,F,99,,Tregarth,,Machynlleth
+2023-02-02,275000,SY20 8PN,T,N,F,York House,,,Tre'R Ddol,Machynlleth
+2023-02-01,300000,SY20 9SP,T,N,F,Idris House,,,Corris,Machynlleth
+2023-02-01,190000,SY20 9PR,D,N,F,Ty Kilmore,,,Cemmaes,Machynlleth
+2023-01-30,100000,SY20 9HJ,D,N,F,Moelwyn House,,,Mallwyd,Machynlleth
+2023-01-30,200000,SY20 8HZ,D,N,F,Perlys,,,,Machynlleth
+2023-01-27,119000,SY20 9NE,T,N,F,2,,Walton Terrace,Aberangell,Machynlleth
+2023-01-20,168000,SY20 9LA,T,N,F,3,,Upper Cwrt,Cwrt,Machynlleth
+2023-01-20,135000,SY20 8BH,T,N,F,15,,Heol Y Doll,,Machynlleth
+2023-01-03,472000,SY20 8RP,D,N,F,Rhiwllwyfin,,,Forge,Machynlleth
+2022-12-16,135000,SY20 9LL,T,N,F,Iscoed,,,Dinas Mawddwy,Machynlleth
+2022-12-16,199950,SY20 8HU,T,N,F,28,,Tregarth,,Machynlleth
+2022-12-16,194000,SY20 8HT,T,N,F,8,,Tregarth,,Machynlleth
+2022-12-16,84000,SY20 8HT,T,N,F,18,,Tregarth,,Machynlleth
+2022-12-15,305000,SY20 8RA,D,N,F,Trem Y Foel,,,Aberhosan,Machynlleth
+2022-12-14,169500,SY20 9SP,T,N,F,Trigfan,,,Corris,Machynlleth
+2022-12-14,265000,SY20 9SB,D,N,F,Blue Cottage,,,Aberllefenni,Machynlleth
+2022-12-09,275000,SY20 8PU,D,N,F,Froggy Pond,,,Llancynfelyn,Machynlleth
+2022-12-02,230000,SY20 9LW,T,N,F,"Awel Dyfi, 1",,Mawddwy Cottages,Dinas Mawddwy,Machynlleth
+2022-12-01,132500,SY20 9BG,T,N,F,4,,Bethania Terrace,Upper Corris,Machynlleth
+2022-11-30,285000,SY20 9HR,D,N,F,Tyrpeg,,,Mallwyd,Machynlleth
+2022-11-30,147000,SY20 9HJ,T,N,F,Frondeg,,,Mallwyd,Machynlleth
+2022-11-30,200000,SY20 8QJ,D,N,F,Daulwyn,11,,Llanwrin,Machynlleth
+2022-11-25,90000,SY20 9LD,F,N,L,The Coachhouse,2,,Pennal,Machynlleth
+2022-11-25,160000,SY20 8SY,D,N,F,6,,Tanyfoel,Eglwysfach,Machynlleth
+2022-11-22,178000,SY20 9LW,T,N,F,8,,Mawddwy Cottages,Dinas Mawddwy,Machynlleth
+2022-11-21,137500,SY20 8BH,T,N,F,29,,Heol Y Doll,,Machynlleth
+2022-11-17,207000,SY20 9AY,D,N,F,Lliwdy,,,Pantperthog,Machynlleth
+2022-11-15,550000,SY20 9JJ,D,N,F,Glas Y Dorlan,,Ffordd Glyndwr,Cwrt,Machynlleth
+2022-11-14,185000,SY20 8BZ,T,N,F,17,,Poplar Road,,Machynlleth
+2022-11-10,288000,SY20 8HJ,D,N,F,19,,Cae Maenllwyd,,Machynlleth
+2022-11-07,230000,SY20 8RN,D,N,F,Glan-Y-Pandy,,,Forge,Machynlleth
+2022-11-03,325000,SY20 8RN,D,N,F,Brynglas,,,Forge,Machynlleth
+2022-11-03,105000,SY20 8BQ,F,N,F,10,,Heol Y Doll,,Machynlleth
+2022-11-01,180000,SY20 9AR,S,N,F,1 Llwynygog,,,Pantperthog,Machynlleth
+2022-10-31,440000,SY20 8JR,D,N,F,Pencae Villa,,,Taliesin,Machynlleth
+2022-10-27,160000,SY20 8HN,T,N,F,46,,Bryn Y Gog,,Machynlleth
+2022-10-26,185000,SY20 9TW,T,N,F,2,,Frondeg,Corris,Machynlleth
+2022-10-20,37500,SY20 9LD,F,N,L,The Coachhouse,4,,Pennal,Machynlleth
+2022-10-20,147500,SY20 8EJ,S,N,F,14,,Treowain,,Machynlleth
+2022-10-20,137000,SY20 8BS,T,N,F,4,,Brickfield Street,,Machynlleth
+2022-10-14,525000,SY20 9AR,D,N,F,Minafon,,,Pantperthog,Machynlleth
+2022-10-13,103000,SY20 9QH,T,N,F,Winllan,1,,Aberangell,Machynlleth
+2022-09-27,325000,SY20 8LZ,D,N,F,3,,Goledd Dyfi,Commins Coch,Machynlleth
+2022-09-26,167000,SY20 9TW,T,N,F,4,,Frondeg,Corris,Machynlleth
+2022-09-26,185000,SY20 9BS,T,N,F,2,,Bronmeirion,Upper Corris,Machynlleth
+2022-09-23,257000,SY20 8JH,T,N,F,Ty Manceinion,,,Taliesin,Machynlleth
+2022-09-20,445000,SY20 8SS,D,N,F,Dolen Barn,,,Glandyfi,Machynlleth
+2022-09-14,250000,SY20 8RR,D,N,F,Bryn Gwyn,,,Forge,Machynlleth
+2022-09-13,285000,SY20 8PL,D,N,F,Ty-Hir,,,Tre'R Ddol,Machynlleth
+2022-09-09,270000,SY20 8HJ,D,N,F,2,,Cae Maenllwyd,,Machynlleth
+2022-09-01,267500,SY20 8PF,S,N,F,13B,,Pencaemawr,Penegoes,Machynlleth
+2022-09-01,130000,SY20 8BP,T,N,F,17,,Brickfield Street,,Machynlleth
+2022-09-01,255000,SY20 8BN,D,N,F,Glyndwr Cottage,,Vale View,,Machynlleth
+2022-08-31,183000,SY20 8HG,T,N,F,30,,Cae Crwn,,Machynlleth
+2022-08-26,600000,SY20 9EL,D,N,F,Ty Uchaf,,,Mallwyd,Machynlleth
+2022-08-26,270000,SY20 8NR,D,N,F,Troedybryn,,,Abercegir,Machynlleth
+2022-08-23,329000,SY20 9TS,D,N,F,Castell,,,Corris,Machynlleth
+2022-08-23,125000,SY20 8JP,T,N,F,Islwyn Pencae,,,Taliesin,Machynlleth
+2022-08-12,665000,SY20 9TF,D,N,F,Fronfelen House,,,Corris,Machynlleth
+2022-08-08,124000,SY20 8BH,T,N,F,19,,Heol Y Doll,,Machynlleth
+2022-08-05,330000,SY20 8JH,D,N,F,Morfa Isaf,,,Taliesin,Machynlleth
+2022-08-02,355000,SY20 8PR,D,N,F,Nantymynydd,,Mill Street,Tre-R-Ddol,Machynlleth
+2022-07-22,250000,SY20 9JA,S,N,F,Gwynfryn,,,Dinas Mawddwy,Machynlleth
+2022-07-15,150000,SY20 9DH,T,N,F,Ysgubor,2,,Pennal,Machynlleth
+2022-07-11,399999,SY20 9JZ,D,N,F,Drws Y Cwm,,,Pennal,Machynlleth
+2022-07-11,130000,SY20 8NQ,S,N,F,4,,Craig Yr Henffordd,Penegoes,Machynlleth
+2022-07-06,127000,SY20 8RB,S,N,F,6,,Maes Y Coed,Aberhosan,Machynlleth
+2022-07-05,37500,SY20 9LD,D,N,L,Penmaendyfi,Chalet 5,,Pennal,Machynlleth
+2022-07-04,245000,SY20 9LA,T,N,F,"Box Office Cottage, 1",,Upper Cwrt,Cwrt,Machynlleth
+2022-07-04,163600,SY20 9BS,T,N,F,3,,Bronmeirion,Upper Corris,Machynlleth
+2022-06-29,215000,SY20 8PU,D,N,F,Ty'R Stabl,,,Llancynfelyn,Machynlleth
+2022-06-24,211600,SY20 8AY,T,N,F,Bronallt,,Heol Powys,,Machynlleth
+2022-06-15,517000,SY20 8UB,D,N,F,Cwm-Cemrhiw,,,Glas Pwll,Machynlleth
+2022-06-10,175000,SY20 8RP,S,N,F,Chapel Cottage,,,Forge,Machynlleth
+2022-06-06,275000,SY20 8BG,T,N,F,1,,Londonderry Terrace,,Machynlleth
+2022-06-01,120500,SY20 8EA,T,N,F,94,,Heol Maengwyn,,Machynlleth
+2022-05-30,275000,SY20 9DZ,D,N,F,24,,Felindre,Pennal,Machynlleth
+2022-05-23,180000,SY20 9LB,D,N,F,Bryniau Bychan,2,,Pennal,Machynlleth
+2022-05-20,225000,SY20 8LG,S,N,F,Glanafon,1,,Commins Coch,Machynlleth
+2022-05-17,160000,SY20 8SX,T,N,F,Hafod Lon,,,Eglwys Fach,Machynlleth
+2022-05-13,100000,SY20 9RJ,T,N,F,"Ty Golchi, 6",,Abercorris Cottages,Corris,Machynlleth
+2022-05-13,340250,SY20 8TF,D,N,F,Bryn Heulog,,,Eglwys Fach,Machynlleth
+2022-05-03,120000,SY20 9RN,T,N,F,7,,Tanrallt,Corris,Machynlleth
+2022-05-03,180000,SY20 8HX,T,N,F,57,,Tregarth,,Machynlleth
+2022-04-29,165000,SY20 8HF,S,N,F,27,,Cae Crwn,,Machynlleth
+2022-04-27,325000,SY20 8DF,D,N,F,Brynteg,,,Penegoes,Machynlleth
+2022-04-21,100000,SY20 9SL,S,N,F,2,,Bryntirion,Corris,Machynlleth
+2022-04-20,185000,SY20 8JW,S,N,F,12,,Pencae,Taliesin,Machynlleth
+2022-04-14,150000,SY20 9PA,T,N,F,3,,Bryngwyn,Cwmllinau,Machynlleth
+2022-04-07,165000,SY20 8HS,T,N,F,1,,Heol Iorwerth,,Machynlleth
+2022-04-01,260000,SY20 8BG,T,N,F,3,,Londonderry Terrace,,Machynlleth
+2022-03-22,159000,SY20 8SY,D,N,F,6,,Tanyfoel,Eglwysfach,Machynlleth
+2022-03-22,365000,SY20 8EY,D,N,F,Y Goeden Eirin,,Newtown Road,,Machynlleth
+2022-03-22,265000,SY20 8EE,T,N,F,59,,Heol Maengwyn,,Machynlleth
+2022-03-21,430000,SY20 8JA,D,N,F,Ysgubor Wen,,,,Machynlleth
+2022-03-18,180000,SY20 8HT,T,N,F,1,,Tregarth,,Machynlleth
+2022-03-18,155000,SY20 8DY,T,N,F,74,,Heol Maengwyn,,Machynlleth
+2022-03-16,195000,SY20 8BY,S,N,F,9,,Poplar Terrace,,Machynlleth
+2022-03-11,431000,SY20 9HR,D,N,F,Dugoed Isaf,,,Mallwyd,Machynlleth
+2022-03-09,145000,SY20 8AN,S,N,F,5,,Penrallt Estate,,Machynlleth
+2022-03-08,160000,SY20 8HS,T,N,F,11,,Heol Iorwerth,,Machynlleth
+2022-03-08,280000,SY20 8HJ,D,N,F,8,,Cae Maenllwyd,,Machynlleth
+2022-03-07,550000,SY20 9EN,D,N,F,Graigygronfa,,,Mallwyd,Machynlleth
+2022-03-07,350000,SY20 9AE,D,N,F,Ebrandy,,,Mallwyd,Machynlleth
+2022-03-02,260000,SY20 8RA,D,N,F,Hen Ysgol,,,Aberhosan,Machynlleth
+2022-02-28,121764,SY20 8NR,T,N,F,Haulfryn,,,Abercegir,Machynlleth
+2022-02-25,151000,SY20 9RE,T,N,F,6,,Braich Goch Terrace,Corris,Machynlleth
+2022-02-18,326550,SY20 9LL,D,N,F,The Old Wesleyan Chapel,,,Dinas Mawddwy,Machynlleth
+2022-02-18,175100,SY20 9LL,S,N,F,Bryntirion,,,Dinas Mawddwy,Machynlleth
+2022-02-17,200000,SY20 8QH,D,N,F,Old School Cottage,,,Llanwrin,Machynlleth
+2022-02-14,235000,SY20 8LZ,D,N,F,4,,Goledd Dyfi,Commins Coch,Machynlleth
+2022-02-11,213000,SY20 9SX,T,N,F,3,,Arddol Terrace,Corris,Machynlleth
+2022-02-04,275000,SY20 8PL,D,N,F,Plas Hafod,,,Trer Ddol,Machynlleth
+2022-01-28,275000,SY20 8SH,D,N,F,Troed Y Bryn,,,Melin Byrhedyn,Machynlleth
+2022-01-28,177500,SY20 8QJ,D,N,F,Daulwyn,16,,Llanwrin,Machynlleth
+2022-01-28,170000,SY20 8HN,T,N,F,92,,Bryn Y Gog,,Machynlleth
+2022-01-27,125000,SY20 8PQ,T,N,F,2,,Einion Cottages,Furnace,Machynlleth
+2022-01-24,210000,SY20 8ND,T,N,F,Cledan,,,Furnace,Machynlleth
+2022-01-17,190000,SY20 8HY,T,N,F,78,,Tregarth,,Machynlleth
+2022-01-14,130000,SY20 8SY,T,N,F,3,,Tanyfoel,Eglwysfach,Machynlleth
+2022-01-11,197500,SY20 9SH,T,N,F,Bronwydd,,,Corris,Machynlleth
+2022-01-11,295000,SY20 8JG,D,N,F,Tanybryn,,,Taliesin,Machynlleth
+2021-12-24,365500,SY20 9AT,D,N,F,Forest Lodge,,,Pantperthog,Machynlleth
+2021-12-20,281000,SY20 9EL,D,N,F,Plas Uchaf,,,Mallwyd,Machynlleth
+2021-12-20,116000,SY20 8BU,S,N,F,22,,Snowdon View,,Machynlleth
+2021-12-16,255000,SY20 8PF,S,N,F,12B,,Pencaemawr,Penegoes,Machynlleth
+2021-12-15,192500,SY20 9PR,S,N,F,Derlwyn,,,Cemmaes,Machynlleth
+2021-12-03,172550,SY20 8HN,T,N,F,87,,Bryn Y Gog,,Machynlleth
+2021-12-03,105000,SY20 8BH,T,N,F,27,,Heol Y Doll,,Machynlleth
+2021-12-02,134500,SY20 8TN,T,N,F,Avondale,,,Derwenlas,Machynlleth
+2021-11-30,107000,SY20 9NE,T,N,F,1,,Walton Terrace,Aberangell,Machynlleth
+2021-11-26,130000,SY20 9DZ,S,N,F,33,,Felindre,Pennal,Machynlleth
+2021-11-25,380000,SY20 8EY,S,N,F,Newlyn,,Newtown Road,,Machynlleth
+2021-11-24,375500,SY20 8SS,D,N,F,The Coach House,,,Glandyfi,Machynlleth
+2021-11-22,125500,SY20 8HS,T,N,F,10,,Heol Iorwerth,,Machynlleth
+2021-11-19,110000,SY20 9QJ,T,N,F,8,,Heulfryn,Aberangell,Machynlleth
+2021-11-16,347000,SY20 8JS,D,N,F,Fuches-Goch,,,Taliesin,Machynlleth
+2021-11-12,820000,SY20 9DT,D,N,F,Pen-Y-Bryn,,,Pennal,Machynlleth
+2021-11-08,122500,SY20 8NR,T,N,F,5,,Glanwydol Terrace,Abercegir,Machynlleth
+2021-11-05,130000,SY20 8BH,T,N,F,29,,Heol Y Doll,,Machynlleth
+2021-10-22,140000,SY20 8QT,S,N,F,7,,Min Y Ddol,Llanwrin,Machynlleth
+2021-10-21,615000,SY20 8RY,D,N,F,Tegfryn,,,,Machynlleth
+2021-10-08,157000,SY20 8PP,T,N,F,6,,North Road,Tre-R-Ddol,Machynlleth
+2021-10-01,525000,SY20 9AA,D,N,F,Aber Hiriarth Hall,,,Cemmaes,Machynlleth
+2021-09-30,750000,SY20 8SS,D,N,F,Voelas Hall,,,Glandyfi,Machynlleth
+2021-09-30,330000,SY20 8PF,D,N,F,17,,Pencaemawr,Penegoes,Machynlleth
+2021-09-30,180000,SY20 8NQ,T,N,F,1,,Craig Yr Henffordd,Penegoes,Machynlleth
+2021-09-28,280000,SY20 9AQ,S,N,F,Tan-Y-Llan,,,Llanymawddwy,Machynlleth
+2021-09-28,279995,SY20 8QD,D,N,F,Hayfields,,,Tre'R Ddol,Machynlleth
+2021-09-28,168000,SY20 8HN,S,N,F,104,,Bryn Y Gog,,Machynlleth
+2021-09-20,361518,SY20 8SH,D,N,F,Llawr Y Ddol,,,Melin Byrhedyn,Machynlleth
+2021-09-20,257000,SY20 8NN,S,N,F,Bodina,,,Penegoes,Machynlleth
+2021-09-10,187000,SY20 9QN,S,N,F,1,,Tremangell,Aberangell,Machynlleth
+2021-09-09,270000,SY20 9RE,D,N,F,Carmel,,Braich Goch Terrace,Corris,Machynlleth
+2021-09-01,184500,SY20 9EX,T,N,F,Gwynfa,,,Ceinws,Machynlleth
+2021-08-27,95500,SY20 8HQ,D,N,F,10,,Garth Holiday Park,,Machynlleth
+2021-08-26,170000,SY20 8HA,T,N,F,10,,Garden Village,,Machynlleth
+2021-08-20,220000,SY20 9LA,T,N,F,"Box Office Cottage, 1",,Upper Cwrt,Cwrt,Machynlleth
+2021-08-20,150000,SY20 8HU,T,N,F,31,,Tregarth,,Machynlleth
+2021-08-19,255000,SY20 8PF,S,N,F,13A,,Pencaemawr,Penegoes,Machynlleth
+2021-08-13,255000,SY20 8PF,S,N,F,12A,,Pencaemawr,Penegoes,Machynlleth
+2021-08-12,97500,SY20 8BY,T,N,F,3,,Poplar Terrace,,Machynlleth
+2021-08-06,244000,SY20 8PN,D,N,F,Bryn Melyn,,,Tre'R Ddol,Machynlleth
+2021-08-03,400000,SY20 9HD,D,N,F,Gyfylchau,,,Ceinws,Machynlleth
+2021-07-30,100000,SY20 8BQ,D,N,F,Dyfi Forrester Inn,,Heol Y Doll,,Machynlleth
+2021-07-27,139000,SY20 9SU,S,N,F,Pant Y Celyn,2,,Corris,Machynlleth
+2021-07-26,143000,SY20 8HY,T,N,F,77,,Tregarth,,Machynlleth
+2021-07-23,128500,SY20 9NU,T,N,F,Tegfan,,,Cwmllinau,Machynlleth
+2021-07-20,92500,SY20 9LL,T,N,F,Tanyrallt,,,Dinas Mawddwy,Machynlleth
+2021-07-19,155000,SY20 8JH,D,N,F,Temperance Cottage,,,Taliesin,Machynlleth
+2021-07-09,352500,SY20 8NE,D,N,F,4,,Coedcau Field,Penegoes,Machynlleth
+2021-07-02,145000,SY20 8JP,T,N,F,Pandy Cottage,,,Taliesin,Machynlleth
+2021-07-02,190000,SY20 8HG,T,N,F,31,,Cae Crwn,,Machynlleth
+2021-06-30,250000,SY20 8SH,D,N,F,Troed Y Bryn,,,Melin Byrhedyn,Machynlleth
+2021-06-29,275000,SY20 8PF,D,N,F,4,,Pencaemawr,Penegoes,Machynlleth
+2021-06-25,309000,SY20 9LP,D,N,F,Conifers,,,Dinas Mawddwy,Machynlleth
+2021-06-25,159950,SY20 8PH,T,N,F,3,,Einion Terrace,Furnace,Machynlleth
+2021-06-23,200000,SY20 8ET,S,N,F,Madian,,Aberystwyth Road,,Machynlleth
+2021-06-21,118000,SY20 8BQ,T,N,F,7,,Heol Y Doll,,Machynlleth
+2021-06-18,307500,SY20 9RD,D,N,F,Fron-Goch,,,Corris,Machynlleth
+2021-06-18,350000,SY20 8PJ,D,N,F,Gwynfryn,,,Furnace,Machynlleth
+2021-06-15,150000,SY20 9PL,T,N,F,Cartrefle,2,,Cemmaes,Machynlleth
+2021-06-11,440000,SY20 8PN,D,N,F,Brynhyfryd,,,Tre'R Ddol,Machynlleth
+2021-06-11,135000,SY20 8AS,T,N,F,2,,Dolanog Villas,,Machynlleth
+2021-06-10,368000,SY20 9DW,D,N,F,Dol-Dyhewydd,,,Pennal,Machynlleth
+2021-06-08,317000,SY20 8HE,S,N,F,Lyndale,,Newtown Road,,Machynlleth
+2021-06-07,349950,SY20 8AG,T,N,F,7,,Penrallt Street,,Machynlleth
+2021-06-04,165000,SY20 8BP,T,N,F,9,,Brickfield Street,,Machynlleth
+2021-05-28,117500,SY20 9BE,T,N,F,Glandwyryd Cottage,,,Upper Corris,Machynlleth
+2021-05-21,116250,SY20 9RN,T,N,F,5,,Tanrallt,Corris,Machynlleth
+2021-05-20,230000,SY20 8DR,T,N,F,6,,Greenfields,,Machynlleth
+2021-05-17,88000,SY20 8EA,T,N,F,104,,Heol Maengwyn,,Machynlleth
+2021-05-14,292000,SY20 9QP,D,N,F,3,,,Cwmllecoediog,Machynlleth
+2021-05-14,96000,SY20 8PQ,T,N,F,3,,Einion Cottages,Furnace,Machynlleth
+2021-05-13,176000,SY20 9SU,T,N,F,Glanaber,,,Corris,Machynlleth
+2021-05-12,170000,SY20 9NU,S,N,F,Awelfa,,,Cwmllinau,Machynlleth
+2021-05-07,82000,SY20 8BH,T,N,F,23,,Heol Y Doll,,Machynlleth
+2021-04-30,155000,SY20 8ND,D,N,F,Llys Einion,,,Furnace,Machynlleth
+2021-04-29,170000,SY20 8HG,T,N,F,57,,Cae Crwn,,Machynlleth
+2021-04-26,252000,SY20 9TT,S,N,F,7,,Penrhos Cottages,Corris,Machynlleth
+2021-04-23,141000,SY20 9BP,S,N,F,1,,Glanllifon,Upper Corris,Machynlleth
+2021-04-19,340000,SY20 8UP,D,N,F,Penrhiwlas,,,Melin Byrhedyn,Machynlleth
+2021-04-19,158000,SY20 8BJ,T,N,F,Erw Fair,,Railway Terrace,,Machynlleth
+2021-04-15,346000,SY20 9AA,D,N,F,Llwyn,,,Cemmaes,Machynlleth
+2021-04-14,166750,SY20 8AN,S,N,F,6,,Penrallt Estate,,Machynlleth
+2021-04-12,375000,SY20 8JY,D,N,F,Penybont,,,Cemmaes Road,Machynlleth
+2021-04-09,145000,SY20 8BQ,T,N,F,8,,Heol Y Doll,,Machynlleth
+2021-04-06,138000,SY20 9RG,T,N,F,5,,Hillsborough,Upper Corris,Machynlleth
+2021-04-06,133000,SY20 8HS,T,N,F,7,,Heol Iorwerth,,Machynlleth
+2021-04-01,140250,SY20 9PS,T,N,F,7,,Maes Y Llan,Cemmaes,Machynlleth
+2021-03-31,242000,SY20 8XA,D,N,F,14,,Maesnewydd,,Machynlleth
+2021-03-30,155000,SY20 8HY,S,N,F,93,,Tregarth,,Machynlleth
+2021-03-29,266100,SY20 8DE,D,N,F,2,,Trem Yr Orsedd,,Machynlleth
+2021-03-26,146000,SY20 9QN,S,N,F,2,,Tremangell,Aberangell,Machynlleth
+2021-03-25,320000,SY20 8UN,D,N,F,Penbeili,,,Penegoes,Machynlleth
+2021-03-24,189995,SY20 9PU,T,N,F,Fronheulog,3,,Cemmaes,Machynlleth
+2021-03-24,260000,SY20 8LS,D,N,F,Caetalhaearn,,,Commins Coch,Machynlleth
+2021-03-12,175000,SY20 8TL,D,N,F,Tan Y Bryn,3,,,Machynlleth
+2021-03-12,148000,SY20 8EN,T,N,F,15,,Tremyrallt,,Machynlleth
+2021-03-12,120000,SY20 8BS,S,N,F,Dovey View,50,Brickfield Street,,Machynlleth
+2021-03-08,132000,SY20 9TD,T,N,F,1,,Park Terrace,Corris,Machynlleth
+2021-03-08,188000,SY20 9PR,S,N,F,Glancoegen,,,Cemmaes,Machynlleth
+2021-03-05,165000,SY20 9RX,D,N,F,Brynffynnon Cottage,,,Aberllefenni,Machynlleth
+2021-03-04,327500,SY20 9RJ,T,N,F,Abercorris House,,,Corris,Machynlleth
+2021-03-04,115000,SY20 8NR,T,N,F,Ystrad,,,Abercegir,Machynlleth
+2021-03-04,155000,SY20 8EF,T,N,F,107,,Heol Maengwyn,,Machynlleth
+2021-03-02,340000,SY20 9DP,D,N,F,Hafodawel,,Tower Road,Pennal,Machynlleth
+2021-03-01,120000,SY20 9JX,D,N,L,6,,Llugwy Lodge Estate,Pennal,Machynlleth
+2021-03-01,159000,SY20 8JW,S,N,F,13,,Pencae,Taliesin,Machynlleth
+2021-02-26,171000,SY20 9PR,S,N,F,Llysteg,,,Cemmaes,Machynlleth
+2021-02-26,169000,SY20 9HJ,T,N,F,Penrhos,,,Mallwyd,Machynlleth
+2021-02-26,136000,SY20 8JQ,S,N,F,53,,Wesley Terrace,Taliesin,Machynlleth
+2021-02-22,340000,SY20 9LN,D,N,F,Brynteg,,,Dinas Mawddwy,Machynlleth
+2021-02-22,175000,SY20 9DZ,D,N,F,28,,Felindre,Pennal,Machynlleth
+2021-02-19,98500,SY20 8BS,T,N,F,18,,Brickfield Street,,Machynlleth
+2021-02-17,239000,SY20 9NG,D,N,F,Maesyr Haf,,,Aberangell,Machynlleth
+2021-02-12,415500,SY20 9PX,D,N,F,Y Felin,,,Cemmaes,Machynlleth
+2021-02-12,152000,SY20 8NR,T,N,F,The Vestry,,,Abercegir,Machynlleth
+2021-02-11,265000,SY20 8PF,D,N,F,"Briley, 3",,Pencaemawr,Penegoes,Machynlleth
+2021-02-08,220000,SY20 9HA,D,N,F,Rostrick Cottage,,,Ceinws,Machynlleth
+2021-01-29,160000,SY20 8JG,T,N,F,Brynderw,,,Taliesin,Machynlleth
+2021-01-29,110000,SY20 8BE,T,N,F,2,,Tan Rallt Street,,Machynlleth
+2021-01-28,155950,SY20 8JG,T,N,F,Minygors,,,Taliesin,Machynlleth
+2021-01-22,243000,SY20 9HJ,T,N,F,Gwel-Fryn,,,Mallwyd,Machynlleth
+2021-01-15,405000,SY20 8DD,D,N,F,Ffordd Mynydd Uchaf,1,Ffordd Mynydd Griffiths,,Machynlleth
+2021-01-14,125000,SY20 9BE,T,N,F,Rhydygraig,,,Upper Corris,Machynlleth
+2021-01-14,146500,SY20 8DS,S,N,F,2,,Bodlondeb Lane,,Machynlleth
+2021-01-08,162000,SY20 8HY,T,N,F,78,,Tregarth,,Machynlleth

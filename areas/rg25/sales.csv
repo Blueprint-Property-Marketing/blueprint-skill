@@ -1,0 +1,648 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-18,524000,RG25 2DG,D,N,F,11,,Ramsholt Close,North Waltham,Basingstoke
+2026-08-14,784200,RG25 3PH,D,N,F,7,,Highfields,Overton,Basingstoke
+2026-08-10,2500000,RG25 2RH,D,N,F,Holborn Grange,,Weston Road,Upton Grey,Basingstoke
+2026-08-07,230000,RG25 3NH,F,N,L,28,,The Green,Overton,Basingstoke
+2026-07-31,850000,RG25 3FB,D,N,F,7,,Edneys Walk,Overton,Basingstoke
+2026-07-17,500000,RG25 3LQ,D,N,F,Lemsford,,Sapley Lane,Overton,Basingstoke
+2026-07-07,450000,RG25 2SX,D,N,F,7,,Burydown Mead,North Waltham,Basingstoke
+2026-07-07,670000,RG25 2BP,D,N,F,26,,St Michaels Close,North Waltham,Basingstoke
+2026-06-25,950000,RG25 3HB,T,N,F,27,,High Street,Overton,Basingstoke
+2026-06-10,1350000,RG25 2RB,D,N,F,Glebe Cottage,,Church Street,Upton Grey,Basingstoke
+2026-06-10,900000,RG25 2FP,D,N,F,Springfield,,Elderfield Green,Herriard,Basingstoke
+2026-06-05,710000,RG25 3NZ,D,N,F,6,,Nightingale Rise,Overton,Basingstoke
+2026-05-29,585000,RG25 3PF,D,N,F,8,,Sheep Fair Lane,Overton,Basingstoke
+2026-05-29,225000,RG25 3FA,F,N,L,33,,Observer Point Road,Overton,Basingstoke
+2026-05-29,600000,RG25 2FH,D,N,F,1,,Wheatsheaf Close,North Waltham,Basingstoke
+2026-05-20,465000,RG25 3HH,S,N,F,3,,Red Lion Lane,Overton,Basingstoke
+2026-05-20,700000,RG25 3FB,D,N,F,3,,Edneys Walk,Overton,Basingstoke
+2026-04-29,207000,RG25 3PD,T,N,F,39,,Overton Hill,Overton,Basingstoke
+2026-04-18,705000,RG25 3FB,D,N,F,4,,Edneys Walk,Overton,Basingstoke
+2026-03-31,650000,RG25 3DG,T,N,F,3,,Silk Mill Lane,Overton,Basingstoke
+2026-03-27,69000,RG25 3JQ,F,N,L,95,,Foxdown,Overton,Basingstoke
+2026-03-27,990000,RG25 3DA,D,N,F,Coachmans,,Southington,Overton,Basingstoke
+2026-03-23,335000,RG25 2AG,S,N,F,Stable Cottage,,,Dummer,Basingstoke
+2026-03-18,595000,RG25 3TG,D,N,F,2,,Two Gate Meadow,Overton,Basingstoke
+2026-03-18,750000,RG25 3LJ,D,N,F,Threeways,,Sapley Lane,Overton,Basingstoke
+2026-03-13,290000,RG25 3JE,F,N,L,Town Mill,Flat 1,,Overton,Basingstoke
+2026-03-12,475000,RG25 2AN,T,N,F,4,,Bible Fields,Dummer,Basingstoke
+2026-03-11,680000,RG25 2BP,S,N,F,6,,St Michaels Close,North Waltham,Basingstoke
+2026-03-10,610000,RG25 3NQ,S,N,F,37,,Waltham Road,Overton,Basingstoke
+2026-03-10,600000,RG25 3JN,D,N,F,8,,Beech Close,Overton,Basingstoke
+2026-03-09,460000,RG25 3HY,D,N,F,86,,Winchester Street,Overton,Basingstoke
+2026-03-06,648500,RG25 3LG,S,N,F,3,,Sapley Lane,Overton,Basingstoke
+2026-03-06,340000,RG25 3HD,T,N,F,20,,Bridge Street,Overton,Basingstoke
+2026-02-27,662500,RG25 2JF,D,N,F,7,,Woods Lane,Cliddesden,Basingstoke
+2026-02-27,1750000,RG25 2FD,D,N,F,The Manor House,,Herriard Green,Herriard,Basingstoke
+2026-02-23,395000,RG25 3HD,T,N,F,8,,Bridge Street,Overton,Basingstoke
+2026-02-11,387000,RG25 3HW,S,N,F,67,,Woodlands,Overton,Basingstoke
+2026-02-10,361350,RG25 3HN,T,N,F,34,,Woodlands,Overton,Basingstoke
+2026-01-30,980000,RG25 3AY,D,N,F,Ashe Park Cottages,8,Ashe Park Lane,Steventon,Basingstoke
+2026-01-27,340000,RG25 3JB,T,N,F,57,,Kingsclere Road,Overton,Basingstoke
+2026-01-26,2359000,RG25 2EN,D,N,F,Meadow House,,Church Lane,Preston Candover,Basingstoke
+2026-01-19,870000,RG25 2EU,T,N,F,1,,Manor Farm Cottages,Dummer,Basingstoke
+2026-01-16,550000,RG25 3BA,S,N,F,Stonehills,5,,Steventon,Basingstoke
+2026-01-16,960000,RG25 2AW,D,N,F,Laurel Cottage,,Dummer Down Lane,Dummer,Basingstoke
+2026-01-15,862000,RG25 2DN,S,N,F,Whitegates,1,,Preston Candover,Basingstoke
+2026-01-15,1138750,RG25 2DN,D,N,F,Valley House,,,Preston Candover,Basingstoke
+2026-01-14,220000,RG25 3HE,T,N,F,3,,Bridge Street,Overton,Basingstoke
+2026-01-09,695000,RG25 3EW,D,N,F,48,,Lordsfield Gardens,Overton,Basingstoke
+2026-01-09,850000,RG25 3DA,D,N,F,Menabilly,,Southington,Overton,Basingstoke
+2025-12-18,455000,RG25 3PE,D,N,F,81,,Overton Hill,Overton,Basingstoke
+2025-12-18,295000,RG25 3LE,T,N,F,1,,Greyhound Lane,Overton,Basingstoke
+2025-12-18,455000,RG25 2NF,S,N,F,Clump Cottages,1,Alton Road,Winslade,Basingstoke
+2025-12-12,440000,RG25 3PE,T,N,F,82,,Overton Hill,Overton,Basingstoke
+2025-12-12,430000,RG25 3LD,S,N,F,9,,Dellands,Overton,Basingstoke
+2025-12-12,175000,RG25 3JE,F,N,L,Town Mill,Flat 34,,Overton,Basingstoke
+2025-12-12,425000,RG25 2SU,D,N,F,6,,Meadow Rise,North Waltham,Basingstoke
+2025-12-03,297593,RG25 2FJ,S,N,F,1,,Primrose Close,North Waltham,Basingstoke
+2025-11-14,188000,RG25 2SY,T,N,F,5,,Home Mead,North Waltham,Basingstoke
+2025-11-04,930000,RG25 2LP,D,N,F,Waterside,1,Frog Lane,Mapledurwell,Basingstoke
+2025-10-28,360000,RG25 3JA,T,N,F,26,,Kingsclere Road,Overton,Basingstoke
+2025-10-24,415000,RG25 3FA,S,N,F,5,,Observer Point Road,Overton,Basingstoke
+2025-10-24,855000,RG25 2RX,D,N,F,9,,Weston Close,Upton Grey,Basingstoke
+2025-10-24,635000,RG25 2LS,D,N,F,Parrotts,,Greywell Road,Mapledurwell,Basingstoke
+2025-10-23,875000,RG25 3DA,D,N,F,5,,Southington,Overton,Basingstoke
+2025-10-15,382500,RG25 3FL,S,N,F,3,,Cooper Way,Overton,Basingstoke
+2025-10-10,655000,RG25 3HL,D,N,F,15,,Lion Close,Overton,Basingstoke
+2025-10-06,890000,RG25 2NF,D,N,F,Rectory Cottage,,Alton Road,Winslade,Basingstoke
+2025-10-02,800000,RG25 2NH,D,N,F,3C,,Hackwood Lane,Cliddesden,Basingstoke
+2025-10-01,486000,RG25 3JD,T,N,F,14,,Hill Meadow,Overton,Basingstoke
+2025-10-01,369950,RG25 3HP,S,N,F,17,,Kings Meadow,Overton,Basingstoke
+2025-09-29,185000,RG25 3HN,T,N,F,18,,Woodlands,Overton,Basingstoke
+2025-09-10,330000,RG25 3JQ,S,N,F,103,,Foxdown,Overton,Basingstoke
+2025-09-04,170000,RG25 3TN,F,N,L,Norris House,6,London Road,Overton,Basingstoke
+2025-09-03,460000,RG25 3JL,D,N,F,18A,,Copse Road,Overton,Basingstoke
+2025-08-29,1525000,RG25 3AR,D,N,F,Laundry Cottage,,,Deane,Basingstoke
+2025-08-28,500000,RG25 3LJ,D,N,F,Casterbridge,,Sapley Lane,Overton,Basingstoke
+2025-08-27,725000,RG25 2QQ,D,N,F,Larkspur,,Green Lane,Ellisfield,Basingstoke
+2025-08-20,345000,RG25 3FD,T,N,F,7,,Mill Mead,Overton,Basingstoke
+2025-08-14,655000,RG25 2BL,D,N,F,Dove Cottage,,Church Road,North Waltham,Basingstoke
+2025-08-08,355000,RG25 3HW,S,N,F,46,,Woodlands,Overton,Basingstoke
+2025-08-08,595000,RG25 2QS,D,N,F,Blencathra,,The Green,Ellisfield,Basingstoke
+2025-08-07,1200000,RG25 2AX,D,N,F,Summerfield Cottage,,,Dummer,Basingstoke
+2025-08-01,440000,RG25 3JQ,S,N,F,124,,Foxdown,Overton,Basingstoke
+2025-07-25,370000,RG25 3HW,T,N,F,43,,Woodlands,Overton,Basingstoke
+2025-07-22,515000,RG25 2RB,D,N,F,Byways,,Church Street,Upton Grey,Basingstoke
+2025-07-18,305000,RG25 3LZ,T,N,F,87,,Pond Close,Overton,Basingstoke
+2025-07-18,315000,RG25 3DU,T,N,F,25,,Station Road,Overton,Basingstoke
+2025-07-10,430000,RG25 3JT,T,N,F,8,,Oak Close,Overton,Basingstoke
+2025-07-10,430000,RG25 3JQ,S,N,F,129,,Foxdown,Overton,Basingstoke
+2025-07-04,640000,RG25 3BH,D,N,F,Old Steventon School,,,Steventon,Basingstoke
+2025-06-27,1420000,RG25 2FF,D,N,F,6,,Holme Hill,Upton Grey,Basingstoke
+2025-06-20,355000,RG25 2LT,S,N,F,Cob Tree Cottages,6,Tunworth Road,Mapledurwell,Basingstoke
+2025-06-18,595000,RG25 3AX,D,N,F,Deane Gate Cottage,,,Deane,Basingstoke
+2025-06-13,335000,RG25 3FE,S,N,F,44,,Boathouse Meadow,Overton,Basingstoke
+2025-06-02,275000,RG25 3HD,S,N,F,36,,Bridge Street,Overton,Basingstoke
+2025-05-30,575000,RG25 2NH,S,N,F,8,,Hackwood Lane,Cliddesden,Basingstoke
+2025-05-23,315000,RG25 3JF,T,N,L,37,,Foxdown,Overton,Basingstoke
+2025-05-23,162500,RG25 3JE,F,N,L,Town Mill,Flat 26,,Overton,Basingstoke
+2025-05-23,407000,RG25 2QH,D,N,F,The Pebbles,,Green Lane,Ellisfield,Basingstoke
+2025-05-20,520000,RG25 3NH,D,N,F,"Blackberry House, 36A",,The Green,Overton,Basingstoke
+2025-05-20,317000,RG25 3HA,T,N,F,34,,High Street,Overton,Basingstoke
+2025-05-16,365000,RG25 3PD,S,N,F,1,,Overton Hill,Overton,Basingstoke
+2025-05-16,370000,RG25 3HQ,T,N,F,61,,High Street,Overton,Basingstoke
+2025-05-16,237500,RG25 3FA,F,N,L,35,,Observer Point Road,Overton,Basingstoke
+2025-05-12,360000,RG25 2BJ,S,N,F,14,,Cuckoo Close,North Waltham,Basingstoke
+2025-04-30,1250000,RG25 2QR,D,N,F,Orchard House,,Church Lane,Ellisfield,Basingstoke
+2025-03-28,285000,RG25 3NP,S,N,F,8,,London Road,Overton,Basingstoke
+2025-03-28,481400,RG25 3ND,S,N,F,10,,Pound Road,Overton,Basingstoke
+2025-03-28,315000,RG25 3LZ,T,N,F,69,,Pond Close,Overton,Basingstoke
+2025-03-28,360000,RG25 3BZ,T,N,F,26,,Harveys Field,Overton,Basingstoke
+2025-03-28,495000,RG25 2QG,D,N,F,Kvanndal,,Axford Road,Ellisfield,Basingstoke
+2025-03-28,340000,RG25 2BG,T,N,F,2,,Church Road,North Waltham,Basingstoke
+2025-03-27,318000,RG25 3HA,T,N,F,36,,High Street,Overton,Basingstoke
+2025-03-27,605000,RG25 3EW,D,N,F,39,,Lordsfield Gardens,Overton,Basingstoke
+2025-03-26,450000,RG25 3AW,S,N,F,Ashe Cottage,,,Ashe Warren,Basingstoke
+2025-03-26,1340000,RG25 2LU,D,N,F,Webbs Farm House,,Tunworth Road,Mapledurwell,Basingstoke
+2025-03-21,415000,RG25 3LG,S,N,F,15,,Sapley Lane,Overton,Basingstoke
+2025-03-21,375000,RG25 3HW,S,N,F,53,,Woodlands,Overton,Basingstoke
+2025-03-20,500000,RG25 2AD,D,N,F,Fairways,,Down Street,Dummer,Basingstoke
+2025-03-18,875000,RG25 3NQ,D,N,F,31,,Waltham Road,Overton,Basingstoke
+2025-03-17,620000,RG25 2JN,S,N,F,27,,Southlea,Cliddesden,Basingstoke
+2025-03-14,140000,RG25 3TB,F,N,L,Butler Lodge,7,Station Road,Overton,Basingstoke
+2025-03-13,575000,RG25 3HA,T,N,F,38,,High Street,Overton,Basingstoke
+2025-03-12,435000,RG25 2RH,S,N,F,Springfield,,Weston Road,Upton Grey,Basingstoke
+2025-03-07,315000,RG25 3NS,T,N,F,1,,Papermakers,Overton,Basingstoke
+2025-03-06,140000,RG25 2SZ,F,N,L,12,,Smiths Mead,North Waltham,Basingstoke
+2025-03-03,800000,RG25 2NQ,D,N,F,The Firs,,Alton Road,Winslade,Basingstoke
+2025-02-28,675000,RG25 2JN,S,N,F,5,,Southlea,Cliddesden,Basingstoke
+2025-02-21,500000,RG25 2AN,S,N,F,7,,Bible Fields,Dummer,Basingstoke
+2025-02-20,750000,RG25 2QF,D,N,F,Gravelins,,College Lane,Ellisfield,Basingstoke
+2025-02-14,640000,RG25 3FN,D,Y,F,5,,Sykes Drive,Overton,Basingstoke
+2025-02-12,575000,RG25 3FH,D,Y,F,13,,Jersey Field,Overton,Basingstoke
+2025-02-06,570725,RG25 3FH,D,Y,F,6,,Jersey Field,Overton,Basingstoke
+2025-02-03,330000,RG25 3HT,D,N,F,"The Barn, 67",,Winchester Street,Overton,Basingstoke
+2025-01-27,475000,RG25 2BL,D,N,F,Twink,,Church Road,North Waltham,Basingstoke
+2025-01-17,830000,RG25 2BP,D,N,F,28,,St Michaels Close,North Waltham,Basingstoke
+2025-01-15,640000,RG25 3FN,D,Y,F,2,,Sykes Drive,Overton,Basingstoke
+2025-01-10,750000,RG25 2EP,D,N,F,Beehive Cottage,,,Preston Candover,Basingstoke
+2025-01-09,700000,RG25 3PE,D,N,F,79,,Overton Hill,Overton,Basingstoke
+2025-01-09,785000,RG25 3NB,D,N,F,Hunters Moon,,Winchester Street,Overton,Basingstoke
+2025-01-09,320000,RG25 3FA,T,N,F,8,,Observer Point Road,Overton,Basingstoke
+2025-01-09,507000,RG25 2ST,S,N,F,7,,Barley View,North Waltham,Basingstoke
+2025-01-07,600000,RG25 3HA,T,N,F,38,,High Street,Overton,Basingstoke
+2025-01-07,1250000,RG25 3EA,D,N,F,The Old Manor House,,Station Road,Overton,Basingstoke
+2025-01-07,775000,RG25 3AZ,D,N,F,The Arch,,,Steventon,Basingstoke
+2025-01-06,670000,RG25 2RN,S,N,F,12,,Little Hoddington,Upton Grey,Basingstoke
+2024-12-19,375000,RG25 3FN,S,Y,F,1,,Sykes Drive,Overton,Basingstoke
+2024-12-16,372500,RG25 3LD,T,N,F,7A,,Dellands,Overton,Basingstoke
+2024-12-06,1230000,RG25 2SL,D,N,F,3,,Limbrey Hill,Upton Grey,Basingstoke
+2024-12-06,640000,RG25 2JL,D,N,F,Netherfield,,Farleigh Road,Cliddesden,Basingstoke
+2024-12-02,650000,RG25 3FH,D,Y,F,2,,Jersey Field,Overton,Basingstoke
+2024-11-22,482500,RG25 3LB,S,N,F,4,,Dellands,Overton,Basingstoke
+2024-11-22,400000,RG25 3HZ,T,N,F,79,,Winchester Street,Overton,Basingstoke
+2024-11-22,550000,RG25 3HH,D,N,F,47,,Red Lion Lane,Overton,Basingstoke
+2024-11-22,670000,RG25 3DD,S,N,F,24,,Southington,Overton,Basingstoke
+2024-11-19,845000,RG25 3JL,D,N,F,16,,Copse Road,Overton,Basingstoke
+2024-11-18,375000,RG25 3JA,T,N,F,34,,Kingsclere Road,Overton,Basingstoke
+2024-11-08,184000,RG25 3JE,F,N,L,Town Mill,Flat 29,,Overton,Basingstoke
+2024-11-08,585000,RG25 3FL,D,Y,F,1,,Cooper Way,Overton,Basingstoke
+2024-11-01,512500,RG25 3NT,S,N,F,42,,Apple Dell View,Overton,Basingstoke
+2024-11-01,300000,RG25 3JQ,T,N,F,78,,Foxdown,Overton,Basingstoke
+2024-10-31,520000,RG25 3FL,D,Y,F,17,,Cooper Way,Overton,Basingstoke
+2024-10-30,1450000,RG25 2RJ,D,N,F,Weston Mark,,Weston Road,Upton Grey,Basingstoke
+2024-10-29,765000,RG25 3EW,D,N,F,1,,Lordsfield Gardens,Overton,Basingstoke
+2024-10-29,1100000,RG25 2RX,D,N,F,5,,Weston Close,Upton Grey,Basingstoke
+2024-10-28,535000,RG25 3EW,D,N,F,32,,Lordsfield Gardens,Overton,Basingstoke
+2024-10-24,200000,RG25 2SZ,T,N,F,2,,Smiths Mead,North Waltham,Basingstoke
+2024-10-23,340000,RG25 3BZ,T,N,F,23,,Harveys Field,Overton,Basingstoke
+2024-10-21,708000,RG25 3PE,D,N,F,87,,Overton Hill,Overton,Basingstoke
+2024-10-18,890000,RG25 2NX,D,N,F,The Old Cottage,,,Weston Patrick,Basingstoke
+2024-10-11,559950,RG25 3PE,D,N,F,66,,Overton Hill,Overton,Basingstoke
+2024-10-09,625000,RG25 2AN,S,N,F,New House,,Bible Fields,Dummer,Basingstoke
+2024-09-30,335000,RG25 3HP,D,N,F,6,,Kings Meadow,Overton,Basingstoke
+2024-09-30,375000,RG25 3FL,S,Y,F,7,,Cooper Way,Overton,Basingstoke
+2024-09-30,580000,RG25 3FL,D,Y,F,22,,Cooper Way,Overton,Basingstoke
+2024-09-30,730000,RG25 3FH,D,Y,F,8,,Jersey Field,Overton,Basingstoke
+2024-09-30,730000,RG25 3FH,D,Y,F,4,,Jersey Field,Overton,Basingstoke
+2024-09-30,765000,RG25 3FH,D,Y,F,1,,Jersey Field,Overton,Basingstoke
+2024-09-30,602000,RG25 3EW,D,N,F,50,,Lordsfield Gardens,Overton,Basingstoke
+2024-09-30,970000,RG25 2BQ,D,N,F,The Old Post House,,,North Waltham,Basingstoke
+2024-09-27,860000,RG25 3FH,D,Y,F,27,,Jersey Field,Overton,Basingstoke
+2024-09-27,584500,RG25 3FH,D,Y,F,15,,Jersey Field,Overton,Basingstoke
+2024-09-26,725000,RG25 3FN,D,Y,F,10,,Sykes Drive,Overton,Basingstoke
+2024-09-26,642500,RG25 3FB,D,N,F,9,,Edneys Walk,Overton,Basingstoke
+2024-09-25,370000,RG25 3LT,S,N,F,4,,Poultons Close,Overton,Basingstoke
+2024-09-25,280000,RG25 3HD,S,N,F,50,,Bridge Street,Overton,Basingstoke
+2024-09-25,765000,RG25 3FH,D,Y,F,25,,Jersey Field,Overton,Basingstoke
+2024-09-23,645000,RG25 3FH,D,Y,F,23,,Jersey Field,Overton,Basingstoke
+2024-09-23,590000,RG25 2BP,S,N,F,7,,St Michaels Close,North Waltham,Basingstoke
+2024-09-23,763000,RG25 2BP,D,N,F,18,,St Michaels Close,North Waltham,Basingstoke
+2024-09-20,525000,RG25 3FN,D,Y,F,4,,Sykes Drive,Overton,Basingstoke
+2024-09-20,580000,RG25 3FA,D,N,F,10,,Observer Point Road,Overton,Basingstoke
+2024-09-18,582750,RG25 2JF,D,N,F,Three Horse Shoes,,Woods Lane,Cliddesden,Basingstoke
+2024-09-10,465000,RG25 3PD,T,N,F,15,,Overton Hill,Overton,Basingstoke
+2024-09-10,710000,RG25 2NH,D,N,F,Mistral,,Hackwood Lane,Cliddesden,Basingstoke
+2024-09-06,490000,RG25 3NT,S,N,F,44,,Apple Dell View,Overton,Basingstoke
+2024-09-06,740000,RG25 3AS,D,N,F,Tudor Farm House,,,Deane,Basingstoke
+2024-08-30,500000,RG25 2BD,T,N,F,1,,Portland Place,North Waltham,Basingstoke
+2024-08-29,280000,RG25 3LG,S,N,F,6,,Sapley Lane,Overton,Basingstoke
+2024-08-29,375000,RG25 3FN,S,Y,F,8,,Sykes Drive,Overton,Basingstoke
+2024-08-23,450000,RG25 3LD,S,N,F,35,,Dellands,Overton,Basingstoke
+2024-08-23,1250000,RG25 2FF,D,Y,F,3,,Holme Hill,Upton Grey,Basingstoke
+2024-08-21,435000,RG25 3PD,D,N,F,51,,Overton Hill,Overton,Basingstoke
+2024-08-21,620000,RG25 3FH,D,Y,F,17,,Jersey Field,Overton,Basingstoke
+2024-08-21,709000,RG25 3EW,D,N,F,28,,Lordsfield Gardens,Overton,Basingstoke
+2024-08-21,685000,RG25 2DA,D,N,F,Coppers,,Yew Tree Road,North Waltham,Basingstoke
+2024-08-15,264000,RG25 3HQ,T,N,F,47,,High Street,Overton,Basingstoke
+2024-08-14,825000,RG25 3DS,D,N,F,Upper Whitehill Farm,The Farmhouse,,Overton,Basingstoke
+2024-08-14,1800000,RG25 2ET,D,N,F,Park House,,Wield Road,Preston Candover,Basingstoke
+2024-08-13,2250000,RG25 2AF,D,N,F,Eastcombe,,Farleigh Lane,Dummer,Basingstoke
+2024-08-09,1650000,RG25 2RE,D,N,F,Keepers Way,,,Upton Grey,Basingstoke
+2024-08-09,510000,RG25 2EQ,S,N,F,Broad Acre,,Alresford Road,Preston Candover,Basingstoke
+2024-08-05,315000,RG25 3JQ,T,N,F,79,,Foxdown,Overton,Basingstoke
+2024-08-02,300000,RG25 3LY,T,N,F,42,,Pond Close,Overton,Basingstoke
+2024-08-02,600000,RG25 2QF,D,N,F,Roblyn,,College Lane,Ellisfield,Basingstoke
+2024-08-02,890000,RG25 2GZ,D,N,F,Hollymead,,Cleresden Rise,Cliddesden,Basingstoke
+2024-08-01,355000,RG25 3HW,T,N,F,62,,Woodlands,Overton,Basingstoke
+2024-07-31,220000,RG25 3HN,F,N,L,1,,Woodlands,Overton,Basingstoke
+2024-07-26,925000,RG25 2NX,D,N,F,White Cottage,,,Weston Patrick,Basingstoke
+2024-07-24,740000,RG25 2AL,D,N,F,Rose Cottage,,,Dummer,Basingstoke
+2024-07-15,580000,RG25 2NT,S,N,F,Manor Farm Cottages,2,,Weston Patrick,Basingstoke
+2024-07-12,165000,RG25 3TL,F,N,L,Lampool House,3,Station Road,Overton,Basingstoke
+2024-07-12,1551500,RG25 2RG,D,N,F,Cavendish House,,Cleves Lane,Upton Grey,Basingstoke
+2024-07-12,506250,RG25 2BY,D,N,F,Marchfields,,Mary Lane,North Waltham,Basingstoke
+2024-07-01,365600,RG25 3PD,T,N,F,38,,Overton Hill,Overton,Basingstoke
+2024-06-28,348125,RG25 3FL,S,Y,F,5,,Cooper Way,Overton,Basingstoke
+2024-06-28,375000,RG25 3FL,S,Y,F,3,,Cooper Way,Overton,Basingstoke
+2024-06-28,725000,RG25 3FL,D,Y,F,11,,Cooper Way,Overton,Basingstoke
+2024-06-28,580000,RG25 3FH,D,Y,F,7,,Jersey Field,Overton,Basingstoke
+2024-06-24,760000,RG25 3FL,D,Y,F,26,,Cooper Way,Overton,Basingstoke
+2024-06-14,300000,RG25 3JQ,S,N,F,100,,Foxdown,Overton,Basingstoke
+2024-06-10,167000,RG25 3JE,F,N,L,Town Mill,Flat 10,,Overton,Basingstoke
+2024-06-07,107000,RG25 3JA,F,N,L,2,,Kingsclere Road,Overton,Basingstoke
+2024-06-07,595000,RG25 3FL,D,Y,F,16,,Cooper Way,Overton,Basingstoke
+2024-05-31,15881552,RG25 2EJ,D,N,F,South Hall,,Alresford Road,Preston Candover,Basingstoke
+2024-05-30,860000,RG25 3FL,D,Y,F,24,,Cooper Way,Overton,Basingstoke
+2024-05-29,280000,RG25 3JQ,T,N,F,115,,Foxdown,Overton,Basingstoke
+2024-05-24,427500,RG25 3LE,D,N,F,6,,Greyhound Lane,Overton,Basingstoke
+2024-05-23,1250000,RG25 2LA,D,N,F,The Old Coaching House,,Polecat Corner,Tunworth,Basingstoke
+2024-05-23,874000,RG25 2FP,D,N,F,Springfield,,Elderfield Green,Herriard,Basingstoke
+2024-05-20,375000,RG25 3FL,S,Y,F,9,,Cooper Way,Overton,Basingstoke
+2024-05-17,850000,RG25 3FL,D,Y,F,21,,Cooper Way,Overton,Basingstoke
+2024-05-09,502500,RG25 2AN,T,N,F,3,,Bible Fields,Dummer,Basingstoke
+2024-05-03,595000,RG25 3FL,D,Y,F,18,,Cooper Way,Overton,Basingstoke
+2024-05-01,1100000,RG25 3BG,D,N,F,Jasmine Cottage,,,Steventon,Basingstoke
+2024-04-30,613500,RG25 2BY,D,N,F,Lawrenny,,Mary Lane,North Waltham,Basingstoke
+2024-04-11,375000,RG25 2DG,S,N,F,3,,Ramsholt Close,North Waltham,Basingstoke
+2024-03-28,475000,RG25 3NF,S,N,F,Dairy Cottage,,Two Gate Lane,Overton,Basingstoke
+2024-03-28,585000,RG25 3JQ,D,N,F,60,,Foxdown,Overton,Basingstoke
+2024-03-28,720000,RG25 3FL,D,Y,F,20,,Cooper Way,Overton,Basingstoke
+2024-03-28,720000,RG25 3FH,D,Y,F,11,,Jersey Field,Overton,Basingstoke
+2024-03-28,260000,RG25 2SZ,T,N,F,6,,Smiths Mead,North Waltham,Basingstoke
+2024-03-27,390000,RG25 3JT,T,N,F,5,,Oak Close,Overton,Basingstoke
+2024-03-27,292000,RG25 3JQ,S,N,F,101,,Foxdown,Overton,Basingstoke
+2024-03-19,250000,RG25 3HA,F,N,L,12A,,High Street,Overton,Basingstoke
+2024-03-15,300000,RG25 2SA,T,N,F,1,,Little Hoddington Close,Upton Grey,Basingstoke
+2024-03-14,200000,RG25 2BD,T,N,F,3,,Portland Place,North Waltham,Basingstoke
+2024-03-07,257500,RG25 3PD,F,N,L,3,,Overton Hill,Overton,Basingstoke
+2024-03-01,650000,RG25 2JG,D,N,F,Newland Lodge,,Woods Lane,Cliddesden,Basingstoke
+2024-02-29,520000,RG25 3FG,D,Y,F,22,,Sacher Road,Overton,Basingstoke
+2024-02-23,580000,RG25 3JL,D,N,F,7,,Copse Road,Overton,Basingstoke
+2024-02-23,980000,RG25 3DA,D,N,F,Langdale,,Southington,Overton,Basingstoke
+2024-02-21,2487500,RG25 3ES,D,N,F,Court Barn,,Court Drove,Overton,Basingstoke
+2024-02-09,330000,RG25 3HW,T,N,F,65,,Woodlands,Overton,Basingstoke
+2024-02-08,680000,RG25 3NZ,D,N,F,1,,Nightingale Rise,Overton,Basingstoke
+2024-02-02,330000,RG25 3LZ,T,N,F,105,,Pond Close,Overton,Basingstoke
+2024-02-02,215000,RG25 2SY,S,N,F,7,,Home Mead,North Waltham,Basingstoke
+2024-01-24,395000,RG25 2BH,S,N,F,21,,Cold Harbour,North Waltham,Basingstoke
+2024-01-18,590000,RG25 3FL,D,Y,F,19,,Cooper Way,Overton,Basingstoke
+2023-12-21,625000,RG25 3FG,D,Y,F,24,,Sacher Road,Overton,Basingstoke
+2023-12-20,155000,RG25 3FG,F,Y,L,15,,Sacher Road,Overton,Basingstoke
+2023-12-13,347000,RG25 3LR,T,N,F,34,,Crawts Road,Overton,Basingstoke
+2023-12-13,360000,RG25 3HW,T,N,F,43,,Woodlands,Overton,Basingstoke
+2023-12-08,570000,RG25 3FG,D,Y,F,7,,Sacher Road,Overton,Basingstoke
+2023-12-07,432500,RG25 3HD,T,N,F,8A,,Bridge Street,Overton,Basingstoke
+2023-12-07,600000,RG25 3EW,D,N,F,2,,Lordsfield Gardens,Overton,Basingstoke
+2023-12-04,9000000,RG25 2NB,D,N,F,Garden Cottage Old Rectory,,,Tunworth,Basingstoke
+2023-11-30,720000,RG25 3FL,D,Y,F,15,,Cooper Way,Overton,Basingstoke
+2023-11-23,1675000,RG25 2DN,D,N,F,Woodham House,,,Preston Candover,Basingstoke
+2023-11-20,370000,RG25 3HD,S,N,F,42,,Bridge Street,Overton,Basingstoke
+2023-11-20,260000,RG25 3HB,T,N,F,15,,High Street,Overton,Basingstoke
+2023-11-17,375000,RG25 2FH,T,N,F,6,,Wheatsheaf Close,North Waltham,Basingstoke
+2023-11-17,565000,RG25 2AN,S,N,F,Crofters Lodge,,Bible Fields,Dummer,Basingstoke
+2023-11-10,900000,RG25 2RX,D,N,F,"Russetts, 15",,Weston Close,Upton Grey,Basingstoke
+2023-11-10,1250000,RG25 2NX,D,N,F,Mead House,,,Weston Patrick,Basingstoke
+2023-11-09,495000,RG25 3HG,S,N,F,58,,High Street,Overton,Basingstoke
+2023-11-03,337000,RG25 3LN,D,N,F,1,,Crawts Road,Overton,Basingstoke
+2023-10-31,489950,RG25 3PE,T,N,F,86,,Overton Hill,Overton,Basingstoke
+2023-10-31,640000,RG25 3LG,S,N,F,"Kingsholm, 13",,Sapley Lane,Overton,Basingstoke
+2023-10-27,500000,RG25 2ST,S,N,F,8,,Barley View,North Waltham,Basingstoke
+2023-10-27,900000,RG25 2RJ,S,N,F,April Cottage,,Weston Road,Upton Grey,Basingstoke
+2023-10-24,540000,RG25 3HG,D,N,F,54,,High Street,Overton,Basingstoke
+2023-10-16,315000,RG25 3LZ,T,N,F,81,,Pond Close,Overton,Basingstoke
+2023-10-13,430000,RG25 3JQ,S,N,F,88,,Foxdown,Overton,Basingstoke
+2023-10-13,845000,RG25 3HL,D,N,F,5,,Lion Close,Overton,Basingstoke
+2023-10-13,590000,RG25 3FL,D,Y,F,13,,Cooper Way,Overton,Basingstoke
+2023-10-06,350000,RG25 3JA,T,N,F,26,,Kingsclere Road,Overton,Basingstoke
+2023-09-29,640000,RG25 3FH,D,Y,F,9,,Jersey Field,Overton,Basingstoke
+2023-09-29,525000,RG25 3FH,D,Y,F,5,,Jersey Field,Overton,Basingstoke
+2023-09-29,730000,RG25 3FG,D,Y,F,9,,Sacher Road,Overton,Basingstoke
+2023-09-29,715000,RG25 3FG,D,Y,F,5,,Sacher Road,Overton,Basingstoke
+2023-09-29,590000,RG25 3FG,D,Y,F,2,,Sacher Road,Overton,Basingstoke
+2023-09-29,585000,RG25 3FG,D,Y,F,12,,Sacher Road,Overton,Basingstoke
+2023-09-29,579366,RG25 3FG,D,Y,F,11,,Sacher Road,Overton,Basingstoke
+2023-09-29,415000,RG25 3FA,S,N,F,17,,Observer Point Road,Overton,Basingstoke
+2023-09-28,595000,RG25 3FH,D,Y,F,3,,Jersey Field,Overton,Basingstoke
+2023-09-22,400000,RG25 3PH,D,N,F,2,,Highfields,Overton,Basingstoke
+2023-09-22,430000,RG25 3HH,S,N,F,3,,Red Lion Lane,Overton,Basingstoke
+2023-09-22,378000,RG25 2SX,T,N,F,2,,Burydown Mead,North Waltham,Basingstoke
+2023-09-19,520000,RG25 3HL,D,N,F,9,,Lion Close,Overton,Basingstoke
+2023-09-12,210000,RG25 3TL,F,N,L,Lampool House,8,Station Road,Overton,Basingstoke
+2023-09-12,322000,RG25 3FE,S,N,F,44,,Boathouse Meadow,Overton,Basingstoke
+2023-09-11,1064000,RG25 2JB,D,N,F,Manor Farm Cottage,,,Cliddesden,Basingstoke
+2023-09-06,465000,RG25 3NX,D,N,F,18,,Hazelcombe,Overton,Basingstoke
+2023-09-06,368500,RG25 3JA,T,N,F,24,,Kingsclere Road,Overton,Basingstoke
+2023-09-01,200000,RG25 2SZ,T,N,F,2,,Smiths Mead,North Waltham,Basingstoke
+2023-09-01,1175000,RG25 2QE,D,N,F,Rookery Cottage,,College Lane,Ellisfield,Basingstoke
+2023-08-31,325000,RG25 3LN,T,N,F,16,,Crawts Road,Overton,Basingstoke
+2023-08-30,317500,RG25 3NS,F,N,L,18,,Papermakers,Overton,Basingstoke
+2023-08-24,650000,RG25 2GZ,D,N,F,Elmtree House,,Cleresden Rise,Cliddesden,Basingstoke
+2023-08-23,995000,RG25 3LE,D,N,F,2,,Greyhound Lane,Overton,Basingstoke
+2023-08-22,515000,RG25 3JL,S,N,F,12,,Copse Road,Overton,Basingstoke
+2023-08-18,1026000,RG25 2RD,D,N,F,Sun Cottage,,,Upton Grey,Basingstoke
+2023-08-11,820000,RG25 3NF,S,N,F,Roanberonda,,Two Gate Lane,Overton,Basingstoke
+2023-08-09,1500000,RG25 2BL,D,N,F,Grayshott,,Church Road,North Waltham,Basingstoke
+2023-08-08,775000,RG25 3NX,D,N,F,14,,Hazelcombe,Overton,Basingstoke
+2023-08-04,1700000,RG25 2SG,D,N,F,"Cedar House, 3",,The Arboretum,Upton Grey,Basingstoke
+2023-07-14,450000,RG25 3PA,T,N,F,Farmers Garden,2,Greyhound Lane,Overton,Basingstoke
+2023-07-14,500000,RG25 3NT,S,N,F,42,,Apple Dell View,Overton,Basingstoke
+2023-07-14,327500,RG25 3JQ,S,N,F,122,,Foxdown,Overton,Basingstoke
+2023-07-14,410000,RG25 2EG,S,N,F,Clo-Clo Cottage,,Alresford Road,Preston Candover,Basingstoke
+2023-07-14,410000,RG25 2EF,D,N,F,Ramblings,,Stenbury Drive,Preston Candover,Basingstoke
+2023-07-07,1295000,RG25 2LU,D,N,F,Meadow Hill,,Tunworth Road,Mapledurwell,Basingstoke
+2023-07-06,465000,RG25 3NJ,T,N,F,30,,Waltham Road,Overton,Basingstoke
+2023-06-30,380000,RG25 3NS,T,N,F,34,,Papermakers,Overton,Basingstoke
+2023-06-19,2500000,RG25 2JG,D,N,F,Myhaven,,Woods Lane,Cliddesden,Basingstoke
+2023-06-15,685000,RG25 3DB,D,N,F,Endsleigh,,Vinns Lane,Overton,Basingstoke
+2023-06-13,625000,RG25 3TG,D,N,F,6,,Two Gate Meadow,Overton,Basingstoke
+2023-06-13,463500,RG25 3NA,S,N,F,9,,Poultons Road,Overton,Basingstoke
+2023-06-07,755000,RG25 2LU,D,N,F,Sheraton,,Tunworth Road,Mapledurwell,Basingstoke
+2023-06-05,1250000,RG25 2FQ,D,N,F,The Paddocks,2,Woods Lane,Cliddesden,Basingstoke
+2023-06-02,760000,RG25 2JL,D,N,F,Old School House,,Farleigh Road,Cliddesden,Basingstoke
+2023-06-01,850000,RG25 2RG,D,N,F,Cleves Lane Cottages,2,Cleves Lane,Upton Grey,Basingstoke
+2023-05-31,200000,RG25 3LU,F,N,L,8,,Milldown Houses,Overton,Basingstoke
+2023-05-31,330000,RG25 3LP,S,N,F,56,,Crawts Road,Overton,Basingstoke
+2023-05-31,380000,RG25 3DZ,S,N,F,22,,Station Road,Overton,Basingstoke
+2023-05-15,150000,RG25 2AG,T,N,F,Manor Farm,The Bothy,,Dummer,Basingstoke
+2023-05-04,285000,RG25 3LZ,T,N,F,45,,Pond Close,Overton,Basingstoke
+2023-05-03,290000,RG25 3HP,T,N,F,12,,Kings Meadow,Overton,Basingstoke
+2023-05-03,295000,RG25 2SZ,D,N,F,10,,Smiths Mead,North Waltham,Basingstoke
+2023-04-14,1050000,RG25 2FQ,D,N,F,The Paddocks,1,Woods Lane,Cliddesden,Basingstoke
+2023-03-31,335000,RG25 3HP,T,N,F,7,,Kings Meadow,Overton,Basingstoke
+2023-03-30,425000,RG25 3JL,T,N,F,6,,Copse Road,Overton,Basingstoke
+2023-03-28,695000,RG25 3NX,D,N,F,21,,Hazelcombe,Overton,Basingstoke
+2023-03-28,460000,RG25 3NH,T,N,F,13,,The Green,Overton,Basingstoke
+2023-03-15,325000,RG25 3LG,T,N,F,18,,Sapley Lane,Overton,Basingstoke
+2023-03-06,340000,RG25 3NL,T,N,F,16,,Battens Avenue,Overton,Basingstoke
+2023-03-02,325000,RG25 3NS,F,N,L,20,,Papermakers,Overton,Basingstoke
+2023-02-28,317500,RG25 3PD,S,N,F,46,,Overton Hill,Overton,Basingstoke
+2023-02-28,1315000,RG25 2PY,D,N,F,Station House,,Bagmore Lane,Herriard,Basingstoke
+2023-02-27,560000,RG25 2BL,D,N,F,Home Port,,Church Road,North Waltham,Basingstoke
+2023-02-08,925000,RG25 2EP,S,N,F,Lower Farm Cottage,,,Preston Candover,Basingstoke
+2023-02-07,385000,RG25 3JL,T,N,F,8,,Copse Road,Overton,Basingstoke
+2023-01-30,1475000,RG25 2PA,D,N,F,White Stag Barn,,,Weston Corbett,Basingstoke
+2023-01-18,1000000,RG25 2NP,D,N,F,1,,Chapel Walk,Cliddesden,Basingstoke
+2023-01-06,385000,RG25 3LG,T,N,F,22,,Sapley Lane,Overton,Basingstoke
+2022-12-21,160000,RG25 3HB,F,N,L,17A,,High Street,Overton,Basingstoke
+2022-12-21,230000,RG25 3FA,F,N,L,33,,Observer Point Road,Overton,Basingstoke
+2022-12-19,165000,RG25 3JE,F,N,L,Town Mill,Flat 20,,Overton,Basingstoke
+2022-12-19,320000,RG25 3FA,S,N,F,9,,Observer Point Road,Overton,Basingstoke
+2022-12-19,850000,RG25 3AB,D,N,F,Raebourne,,Berrydown Lane,Overton,Basingstoke
+2022-12-16,155000,RG25 3LW,F,N,L,23,Flat 1,Charledown Close,Overton,Basingstoke
+2022-12-14,325000,RG25 3FD,T,N,F,3,,Mill Mead,Overton,Basingstoke
+2022-12-12,1300000,RG25 2NP,D,N,F,2,,Chapel Walk,Cliddesden,Basingstoke
+2022-12-07,180000,RG25 3JE,F,N,L,Town Mill,Flat 29,,Overton,Basingstoke
+2022-12-02,175000,RG25 3JE,F,N,L,Town Mill,Flat 27,,Overton,Basingstoke
+2022-12-02,475000,RG25 2BY,D,N,F,Old School House,,Mary Lane,North Waltham,Basingstoke
+2022-11-30,705500,RG25 3NE,D,N,F,56,,Waltham Road,Overton,Basingstoke
+2022-11-30,745000,RG25 3HL,D,N,F,1,,Lion Close,Overton,Basingstoke
+2022-11-30,595000,RG25 3EW,D,N,F,13,,Lordsfield Gardens,Overton,Basingstoke
+2022-11-30,750000,RG25 2QW,D,N,F,Forge Cottage,,Green Lane,Ellisfield,Basingstoke
+2022-11-29,345000,RG25 2EZ,T,N,F,1,,Farriers Close,Preston Candover,Basingstoke
+2022-11-25,415000,RG25 3NH,S,N,F,19,,The Green,Overton,Basingstoke
+2022-11-25,1450000,RG25 3BJ,D,N,F,Hazeldown,,,Steventon,Basingstoke
+2022-11-25,985000,RG25 2BL,D,N,F,Minty,,Church Road,North Waltham,Basingstoke
+2022-11-23,285000,RG25 3DU,T,N,F,31,,Station Road,Overton,Basingstoke
+2022-11-21,625000,RG25 2JG,D,N,F,Bona Vista,,Woods Lane,Cliddesden,Basingstoke
+2022-11-17,110000,RG25 3TP,F,N,L,Overton House,10,London Road,Overton,Basingstoke
+2022-11-17,850000,RG25 2QF,D,N,F,Oak View,,College Lane,Ellisfield,Basingstoke
+2022-11-16,522850,RG25 3LD,D,N,F,27,,Dellands,Overton,Basingstoke
+2022-10-31,1150000,RG25 3AD,D,N,F,Down House,,London Road,Overton,Basingstoke
+2022-10-31,720000,RG25 2LA,S,N,F,1 Polcat Cottage,,Polecat Corner,Tunworth,Basingstoke
+2022-10-28,690000,RG25 2BX,D,N,F,Camellia Cottage,,Yew Tree Road,North Waltham,Basingstoke
+2022-10-27,365000,RG25 3LD,T,N,F,7,,Dellands,Overton,Basingstoke
+2022-10-24,330000,RG25 3HW,T,N,F,62,,Woodlands,Overton,Basingstoke
+2022-10-19,760000,RG25 2RJ,S,N,F,Chippington Cottage,,Weston Road,Upton Grey,Basingstoke
+2022-10-14,1150000,RG25 3ER,D,N,F,"Silk Mill House, 16",,Glebe Meadow,Overton,Basingstoke
+2022-10-10,1875000,RG25 2AG,D,N,F,Manor Farm,,,Dummer,Basingstoke
+2022-10-07,140000,RG25 3JE,F,N,L,Town Mill,Flat 16,,Overton,Basingstoke
+2022-10-06,550000,RG25 3JJ,D,N,F,2,,Elm Road,Overton,Basingstoke
+2022-10-04,315000,RG25 3JQ,S,N,F,103,,Foxdown,Overton,Basingstoke
+2022-09-26,1110000,RG25 2LA,D,N,F,The Old Coaching House,,Polecat Corner,Tunworth,Basingstoke
+2022-09-21,1300000,RG25 3AW,D,N,F,Keepers Cottage,,,Ashe Warren,Basingstoke
+2022-09-20,2900000,RG25 3EE,D,N,F,Frost Hill Farm,,Frost Hill,Overton,Basingstoke
+2022-09-16,950000,RG25 2DE,D,N,F,Gaythorne,,,North Waltham,Basingstoke
+2022-09-16,550000,RG25 2AN,T,N,F,6,,Bible Fields,Dummer,Basingstoke
+2022-09-12,945000,RG25 3DA,D,N,F,Elmdale House,,Southington,Overton,Basingstoke
+2022-09-10,120000,RG25 3JE,F,N,L,Town Mill,Flat 23,,Overton,Basingstoke
+2022-09-05,150000,RG25 3TN,F,N,L,Norris House,5,London Road,Overton,Basingstoke
+2022-09-05,690000,RG25 2BA,D,N,F,Oaklands,,Stockbridge Road,North Waltham,Basingstoke
+2022-09-01,545000,RG25 2BH,S,N,F,12,,Cold Harbour,North Waltham,Basingstoke
+2022-08-24,515000,RG25 3JJ,D,N,F,3,,Elm Road,Overton,Basingstoke
+2022-08-22,950000,RG25 2BE,D,N,F,The Old Police House,,Popham Lane,North Waltham,Basingstoke
+2022-08-17,795000,RG25 2EA,D,N,F,Gobley Cottage,,Dummer Road,Axford,Basingstoke
+2022-08-16,750000,RG25 2QE,D,N,F,College Farm Barn,,College Lane,Ellisfield,Basingstoke
+2022-08-12,375000,RG25 3HD,T,N,F,26,,Bridge Street,Overton,Basingstoke
+2022-08-11,1055000,RG25 2NP,D,N,F,3,,Chapel Walk,Cliddesden,Basingstoke
+2022-08-08,135000,RG25 3JE,F,N,L,Town Mill,Flat 3,,Overton,Basingstoke
+2022-08-05,1750000,RG25 3BB,D,N,F,Quintans,,,Steventon,Basingstoke
+2022-07-29,325000,RG25 3HY,T,N,F,"Daisy Cottage, 62",,Winchester Street,Overton,Basingstoke
+2022-07-26,875000,RG25 3NX,D,N,F,13,,Hazelcombe,Overton,Basingstoke
+2022-07-20,600000,RG25 2QW,D,N,F,High Meadows,,Green Lane,Ellisfield,Basingstoke
+2022-07-18,740000,RG25 3ER,D,N,F,1,,Glebe Meadow,Overton,Basingstoke
+2022-07-18,650000,RG25 2AW,D,N,F,Oak Cottage,,,Dummer,Basingstoke
+2022-07-15,108000,RG25 3JE,F,N,L,Town Mill,Flat 11,,Overton,Basingstoke
+2022-07-14,1854767,RG25 2QD,D,N,F,Coopers Farm House,,Bell Lane,Ellisfield,Basingstoke
+2022-07-14,1250000,RG25 2NP,D,N,F,"Poppyfields, 5",,Chapel Walk,Cliddesden,Basingstoke
+2022-07-13,195000,RG25 3FE,T,N,L,21,,Boathouse Meadow,Overton,Basingstoke
+2022-07-13,1700000,RG25 2QR,D,N,F,The Rectory,,Church Lane,Ellisfield,Basingstoke
+2022-07-06,355000,RG25 2JJ,S,N,F,16,,Hoopers Mead,Cliddesden,Basingstoke
+2022-07-01,580000,RG25 3JQ,D,N,F,61,,Foxdown,Overton,Basingstoke
+2022-07-01,130500,RG25 3JE,F,N,L,Town Mill,Flat 31,,Overton,Basingstoke
+2022-06-30,220000,RG25 3FA,F,N,L,23,,Observer Point Road,Overton,Basingstoke
+2022-06-30,1370000,RG25 2QE,D,N,F,Drumbeg,,College Lane,Ellisfield,Basingstoke
+2022-06-27,198000,RG25 3LW,F,N,L,6,,Charledown Close,Overton,Basingstoke
+2022-06-27,830000,RG25 2RE,D,N,F,Rose Cottage,,,Upton Grey,Basingstoke
+2022-06-21,415000,RG25 2BH,S,N,F,10,,Cold Harbour,North Waltham,Basingstoke
+2022-06-14,227500,RG25 3FA,F,N,L,29,,Observer Point Road,Overton,Basingstoke
+2022-06-10,179000,RG25 3HW,F,N,F,80,,Woodlands,Overton,Basingstoke
+2022-06-07,525000,RG25 2BP,S,N,F,7,,St Michaels Close,North Waltham,Basingstoke
+2022-06-06,995000,RG25 3PH,D,N,F,5,,Highfields,Overton,Basingstoke
+2022-05-31,340000,RG25 3HN,T,N,F,28,,Woodlands,Overton,Basingstoke
+2022-05-31,1275000,RG25 2JE,D,N,F,Well House,,,Cliddesden,Basingstoke
+2022-05-31,1650000,RG25 2AD,D,N,F,Little Manor Farm,,Down Street,Dummer,Basingstoke
+2022-05-27,310000,RG25 3HD,S,N,F,32,,Bridge Street,Overton,Basingstoke
+2022-05-17,295000,RG25 3FA,T,N,F,8,,Observer Point Road,Overton,Basingstoke
+2022-05-17,544950,RG25 2QG,D,N,F,White Wings,,Axford Road,Ellisfield,Basingstoke
+2022-04-29,210000,RG25 3NH,F,N,L,25,,The Green,Overton,Basingstoke
+2022-04-29,550000,RG25 2EL,D,N,F,9,,Longfield Close,North Waltham,Basingstoke
+2022-04-22,162000,RG25 3NY,F,N,L,4,,Waltham Court,Overton,Basingstoke
+2022-04-21,375000,RG25 3HG,S,N,F,50,,High Street,Overton,Basingstoke
+2022-04-21,575000,RG25 3EW,D,N,F,40,,Lordsfield Gardens,Overton,Basingstoke
+2022-04-14,875000,RG25 2RA,D,N,F,The Old Bakery,,Church Street,Upton Grey,Basingstoke
+2022-04-13,635000,RG25 3BQ,T,N,F,6,,Wheatleys Close,Steventon,Basingstoke
+2022-03-31,640000,RG25 2FJ,D,N,F,3,,Primrose Close,North Waltham,Basingstoke
+2022-03-30,170000,RG25 3NS,F,N,L,12,,Papermakers,Overton,Basingstoke
+2022-03-24,475000,RG25 3JQ,D,N,F,69,,Foxdown,Overton,Basingstoke
+2022-03-14,462500,RG25 3PD,S,N,F,8,,Overton Hill,Overton,Basingstoke
+2022-03-10,100000,RG25 3JE,F,N,L,Town Mill,Flat 7,,Overton,Basingstoke
+2022-02-25,750000,RG25 3LQ,D,N,F,Glasskeeragh,,Sapley Lane,Overton,Basingstoke
+2022-02-18,405000,RG25 2PN,T,N,F,Old Post Office Cottage,3,,Herriard,Basingstoke
+2022-01-31,378000,RG25 3HJ,T,N,F,19,,Poyntz Road,Overton,Basingstoke
+2022-01-31,750000,RG25 2LP,D,N,F,Sakantha,,Frog Lane,Mapledurwell,Basingstoke
+2022-01-28,385000,RG25 3LL,S,N,F,14,,Charledown Road,Overton,Basingstoke
+2022-01-28,277000,RG25 3JQ,T,N,F,117,,Foxdown,Overton,Basingstoke
+2022-01-28,257500,RG25 3HP,T,N,F,9,,Kings Meadow,Overton,Basingstoke
+2022-01-21,323000,RG25 2PN,T,N,F,The Old Post Office,,,Herriard,Basingstoke
+2022-01-21,360000,RG25 2FH,T,N,F,4,,Wheatsheaf Close,North Waltham,Basingstoke
+2022-01-14,280000,RG25 3JE,F,N,L,Town Mill,Flat 1,,Overton,Basingstoke
+2022-01-10,1975000,RG25 2LQ,D,N,F,Hungry Lodge,,Downs Lane,Mapledurwell,Basingstoke
+2022-01-10,750000,RG25 2DN,S,N,F,Whitegates,1,,Preston Candover,Basingstoke
+2022-01-06,558000,RG25 2BX,S,N,F,Up Street,,Yew Tree Road,North Waltham,Basingstoke
+2021-12-22,810000,RG25 2QL,D,N,F,Tanglewood,,Green Lane,Ellisfield,Basingstoke
+2021-12-22,755000,RG25 2LU,D,N,F,Maple Cottage,,Tunworth Road,Mapledurwell,Basingstoke
+2021-12-20,395000,RG25 3HD,T,N,F,8A,,Bridge Street,Overton,Basingstoke
+2021-12-10,435000,RG25 3JN,D,N,F,1,,Beech Close,Overton,Basingstoke
+2021-12-10,1300000,RG25 2NP,D,N,F,4,,Chapel Walk,Cliddesden,Basingstoke
+2021-12-10,535000,RG25 2LS,D,N,F,Parrotts,,Greywell Road,Mapledurwell,Basingstoke
+2021-12-07,1400000,RG25 2FF,D,Y,F,8,,Holme Hill,Upton Grey,Basingstoke
+2021-12-03,1675000,RG25 2PY,D,N,F,Elderfield House,,Bagmore Lane,Herriard,Basingstoke
+2021-11-12,520000,RG25 2BP,D,N,F,8,,St Michaels Close,North Waltham,Basingstoke
+2021-11-11,420000,RG25 2RH,S,N,F,Springfield,,Weston Road,Upton Grey,Basingstoke
+2021-11-09,310000,RG25 3BZ,T,N,F,25,,Harveys Field,Overton,Basingstoke
+2021-11-05,346000,RG25 3HW,S,N,F,45,,Woodlands,Overton,Basingstoke
+2021-11-05,749950,RG25 2DU,D,N,F,Shepherds Cottage,,,Preston Candover,Basingstoke
+2021-11-04,175000,RG25 3JE,F,N,L,Town Mill,Flat 24,,Overton,Basingstoke
+2021-10-29,385000,RG25 3JS,S,N,F,35,,Kerchers Field,Overton,Basingstoke
+2021-10-29,315000,RG25 3HP,T,N,F,1,,Kings Meadow,Overton,Basingstoke
+2021-10-29,785000,RG25 3EJ,D,N,F,Cannon Heath Cottage,,Cannon Heath,Overton,Basingstoke
+2021-10-29,1365000,RG25 2FF,D,Y,F,10,,Holme Hill,Upton Grey,Basingstoke
+2021-10-20,313000,RG25 3LE,T,N,F,1,,Greyhound Lane,Overton,Basingstoke
+2021-10-15,1125000,RG25 2LG,D,N,F,Wharram View,,Tunworth Road,Mapledurwell,Basingstoke
+2021-09-30,440000,RG25 3NT,S,N,F,49,,Apple Dell View,Overton,Basingstoke
+2021-09-30,295000,RG25 3LD,T,N,F,39,,Dellands,Overton,Basingstoke
+2021-09-30,535000,RG25 3JQ,D,N,F,126,,Foxdown,Overton,Basingstoke
+2021-09-30,680000,RG25 3ER,D,N,F,11,,Glebe Meadow,Overton,Basingstoke
+2021-09-30,1250000,RG25 2LP,D,N,F,Crosswater Cottage,,Frog Lane,Mapledurwell,Basingstoke
+2021-09-30,800000,RG25 2JF,D,N,F,4,,Woods Lane,Cliddesden,Basingstoke
+2021-09-30,350000,RG25 2FH,T,N,F,6,,Wheatsheaf Close,North Waltham,Basingstoke
+2021-09-30,1450000,RG25 2FF,D,Y,F,9,,Holme Hill,Upton Grey,Basingstoke
+2021-09-30,440000,RG25 2BQ,S,N,F,1,,The Green,North Waltham,Basingstoke
+2021-09-29,125000,RG25 3JE,F,N,L,Town Mill,Flat 19,,Overton,Basingstoke
+2021-09-29,140000,RG25 3JE,F,N,L,Town Mill,Flat 28,,Overton,Basingstoke
+2021-09-29,305000,RG25 3JB,T,N,F,55,,Kingsclere Road,Overton,Basingstoke
+2021-09-28,143000,RG25 3JE,F,N,L,Town Mill,Flat 33,,Overton,Basingstoke
+2021-09-24,1150000,RG25 2PE,D,N,F,Tile Barn,,,Herriard,Basingstoke
+2021-09-24,730000,RG25 2AH,S,N,F,Meadow View,,,Dummer,Basingstoke
+2021-09-23,370000,RG25 3HY,S,N,F,78,,Winchester Street,Overton,Basingstoke
+2021-09-23,1650000,RG25 2NT,D,N,F,Lower House,,,Weston Patrick,Basingstoke
+2021-09-15,135000,RG25 3JE,F,N,L,Town Mill,Flat 10,,Overton,Basingstoke
+2021-09-13,265000,RG25 3PD,F,N,L,3,,Overton Hill,Overton,Basingstoke
+2021-09-10,150000,RG25 3JE,F,N,L,Town Mill,Flat 34,,Overton,Basingstoke
+2021-09-09,515000,RG25 2BY,T,N,F,19,,Mary Lane,North Waltham,Basingstoke
+2021-09-09,835000,RG25 2BN,D,N,F,2,,Church Farm Close,North Waltham,Basingstoke
+2021-09-08,265000,RG25 3DU,T,N,F,29,,Station Road,Overton,Basingstoke
+2021-09-03,450000,RG25 3JL,D,N,F,18,,Copse Road,Overton,Basingstoke
+2021-09-03,110000,RG25 3JE,F,N,L,Town Mill,Flat 20,,Overton,Basingstoke
+2021-09-03,282000,RG25 3HD,T,N,F,20,,Bridge Street,Overton,Basingstoke
+2021-09-03,225000,RG25 3FA,F,N,L,31,,Observer Point Road,Overton,Basingstoke
+2021-09-01,775000,RG25 3HZ,D,N,F,101,,Winchester Street,Overton,Basingstoke
+2021-08-27,1650000,RG25 2PD,D,N,F,Kennel Cottage,,,Herriard,Basingstoke
+2021-08-27,200000,RG25 2AL,S,N,F,1,,Tower Hill Cottage,Dummer,Basingstoke
+2021-08-25,590000,RG25 3NE,D,N,F,51,,Waltham Road,Overton,Basingstoke
+2021-08-25,397000,RG25 3HH,S,N,F,3,,Red Lion Lane,Overton,Basingstoke
+2021-08-25,375000,RG25 2NT,S,N,F,Manor Farm Cottages,2,,Weston Patrick,Basingstoke
+2021-08-20,278000,RG25 3NL,T,N,F,17,,Battens Avenue,Overton,Basingstoke
+2021-08-20,1595000,RG25 2FF,D,Y,F,6,,Holme Hill,Upton Grey,Basingstoke
+2021-08-12,370000,RG25 3HS,S,N,F,"Galen, 44",,Winchester Street,Overton,Basingstoke
+2021-08-09,625000,RG25 3DA,D,N,F,Penn Grove,,Southington,Overton,Basingstoke
+2021-07-30,325000,RG25 2FH,T,N,F,5,,Wheatsheaf Close,North Waltham,Basingstoke
+2021-07-29,300000,RG25 3LY,T,N,F,42,,Pond Close,Overton,Basingstoke
+2021-07-23,450000,RG25 3PD,S,N,F,24,,Overton Hill,Overton,Basingstoke
+2021-07-22,280000,RG25 2SZ,S,N,F,4,,Smiths Mead,North Waltham,Basingstoke
+2021-07-20,185000,RG25 2SZ,T,N,F,2,,Smiths Mead,North Waltham,Basingstoke
+2021-07-14,190000,RG25 3FA,F,N,L,33,,Observer Point Road,Overton,Basingstoke
+2021-07-13,1485000,RG25 2FF,D,Y,F,2,,Holme Hill,Upton Grey,Basingstoke
+2021-06-30,860000,RG25 3NB,D,N,F,Charleston,,Winchester Street,Overton,Basingstoke
+2021-06-30,650000,RG25 2FH,D,N,F,3,,Wheatsheaf Close,North Waltham,Basingstoke
+2021-06-30,650000,RG25 2FH,D,N,F,2,,Wheatsheaf Close,North Waltham,Basingstoke
+2021-06-30,295000,RG25 2EL,S,N,F,10,,Longfield Close,North Waltham,Basingstoke
+2021-06-30,560000,RG25 2AL,D,N,F,Tower Hill Lodge,,,Dummer,Basingstoke
+2021-06-29,580000,RG25 2FL,D,N,F,Church View,,Steventon Road,North Waltham,Basingstoke
+2021-06-28,895000,RG25 2JZ,D,N,F,Mill House,,Hackwood Lane,Hackwood Park,Basingstoke
+2021-06-25,544950,RG25 3JQ,D,N,F,57,,Foxdown,Overton,Basingstoke
+2021-06-25,815000,RG25 3JA,D,N,F,3,,Kingsclere Road,Overton,Basingstoke
+2021-06-25,407000,RG25 3HD,S,N,F,4,,Bridge Street,Overton,Basingstoke
+2021-06-25,465000,RG25 3DZ,S,N,F,26,,Station Road,Overton,Basingstoke
+2021-06-25,525000,RG25 2QB,S,N,F,2 Grange Farm Cottages,Oxlease End,,Herriard,Basingstoke
+2021-06-25,1750000,RG25 2FF,D,Y,F,7,,Holme Hill,Upton Grey,Basingstoke
+2021-06-24,610000,RG25 2AZ,D,N,F,Long Barn,,The Barns,Dummer,Basingstoke
+2021-06-23,390000,RG25 2SU,D,N,F,7,,Meadow Rise,North Waltham,Basingstoke
+2021-06-22,870000,RG25 2RA,D,N,F,Mead Cottage,,Church Street,Upton Grey,Basingstoke
+2021-06-21,450000,RG25 2RH,S,N,F,Hollyhocks,,Weston Road,Upton Grey,Basingstoke
+2021-06-21,687500,RG25 2PU,D,N,F,Cotterpins,,Back Lane,Herriard,Basingstoke
+2021-06-21,990000,RG25 2AW,D,N,F,Sunrise,,Dummer Down Lane,Dummer,Basingstoke
+2021-06-18,565000,RG25 3FE,D,N,F,4,,Boathouse Meadow,Overton,Basingstoke
+2021-06-18,290000,RG25 3FD,T,N,F,11,,Mill Mead,Overton,Basingstoke
+2021-06-16,285000,RG25 3JQ,T,N,F,80,,Foxdown,Overton,Basingstoke
+2021-06-16,1092101,RG25 2LH,D,N,F,Old Church Cottage,,,Mapledurwell,Basingstoke
+2021-06-09,330000,RG25 3LN,T,N,F,12,,Crawts Road,Overton,Basingstoke
+2021-06-07,460000,RG25 3BA,S,N,F,Stonehills,2,,Steventon,Basingstoke
+2021-06-04,450000,RG25 3HY,D,N,F,86,,Winchester Street,Overton,Basingstoke
+2021-06-04,1277500,RG25 2QQ,D,N,F,Highwood House,,Green Lane,Ellisfield,Basingstoke
+2021-05-27,570000,RG25 2JN,S,N,F,21,,Southlea,Cliddesden,Basingstoke
+2021-05-26,380000,RG25 2SX,D,N,F,5,,Burydown Mead,North Waltham,Basingstoke
+2021-05-21,155000,RG25 3JZ,F,N,L,2,,Trims Court,Overton,Basingstoke
+2021-05-21,400000,RG25 2LF,S,N,F,2,,Lovely Cottages,Tunworth,Basingstoke
+2021-05-21,400000,RG25 2LF,S,N,F,1,,Lovely Cottages,Tunworth,Basingstoke
+2021-05-20,750000,RG25 2AL,D,N,F,Westlea,,,Dummer,Basingstoke
+2021-05-14,191500,RG25 3NS,F,N,L,12A,,Papermakers,Overton,Basingstoke
+2021-05-14,293000,RG25 3LZ,T,N,F,89,,Pond Close,Overton,Basingstoke
+2021-05-14,385000,RG25 3FA,D,N,F,2,,Observer Point Road,Overton,Basingstoke
+2021-05-12,432500,RG25 3PD,S,N,F,59,,Overton Hill,Overton,Basingstoke
+2021-05-12,515000,RG25 3PD,D,N,F,58,,Overton Hill,Overton,Basingstoke
+2021-05-12,535000,RG25 3HZ,D,N,F,109,,Winchester Street,Overton,Basingstoke
+2021-05-11,435000,RG25 3NA,S,N,F,4,,Poultons Road,Overton,Basingstoke
+2021-05-11,565000,RG25 3ER,D,N,F,Glebe Cottage,,Glebe Meadow,Overton,Basingstoke
+2021-05-11,1765432,RG25 3AW,D,N,F,Ashe Warren Farmhouse,,,Ashe Warren,Basingstoke
+2021-05-11,1765432,RG25 3AW,D,N,F,Ashe Warren Farmhouse,,,Ashe Warren,Basingstoke
+2021-05-04,535000,RG25 2FH,D,N,F,1,,Wheatsheaf Close,North Waltham,Basingstoke
+2021-04-30,525000,RG25 2FJ,D,N,F,5,,Primrose Close,North Waltham,Basingstoke
+2021-04-23,105000,RG25 3JE,F,N,L,Town Mill,Flat 11,,Overton,Basingstoke
+2021-04-21,340000,RG25 3HA,T,N,F,30,,High Street,Overton,Basingstoke
+2021-04-15,620000,RG25 3HL,D,N,F,16,,Lion Close,Overton,Basingstoke
+2021-04-15,670000,RG25 3EW,D,N,F,1,,Lordsfield Gardens,Overton,Basingstoke
+2021-04-14,765000,RG25 3PH,D,N,F,10,,Highfields,Overton,Basingstoke
+2021-04-14,610000,RG25 3PD,D,N,F,53,,Overton Hill,Overton,Basingstoke
+2021-04-13,440000,RG25 3NX,S,N,F,5,,Hazelcombe,Overton,Basingstoke
+2021-04-13,600000,RG25 3HZ,D,N,F,103,,Winchester Street,Overton,Basingstoke
+2021-04-13,695000,RG25 2QL,D,N,F,Water Rose,,Green Lane,Ellisfield,Basingstoke
+2021-04-09,89500,RG25 3JE,F,N,L,Town Mill,Flat 35,,Overton,Basingstoke
+2021-04-09,1615000,RG25 2FF,D,Y,F,5,,Holme Hill,Upton Grey,Basingstoke
+2021-04-01,317500,RG25 3NT,S,Y,F,30,,Apple Dell View,Overton,Basingstoke
+2021-04-01,540000,RG25 3LD,D,N,F,31,,Dellands,Overton,Basingstoke
+2021-03-29,1425000,RG25 2LU,D,N,F,Hillcrest,,Tunworth Road,Mapledurwell,Basingstoke
+2021-03-26,996000,RG25 2SH,D,N,F,5,,South Hill,Upton Grey,Basingstoke
+2021-03-25,450000,RG25 3PD,S,N,F,60,,Overton Hill,Overton,Basingstoke
+2021-03-25,272000,RG25 3PD,T,N,F,39,,Overton Hill,Overton,Basingstoke
+2021-03-25,510000,RG25 3NB,D,N,F,Green Gables,,Winchester Street,Overton,Basingstoke
+2021-03-25,600000,RG25 3HS,T,N,F,8,,Winchester Street,Overton,Basingstoke
+2021-03-25,253750,RG25 3DZ,S,N,F,22,,Station Road,Overton,Basingstoke
+2021-03-25,440000,RG25 2QG,D,N,F,White Wings,,Axford Road,Ellisfield,Basingstoke
+2021-03-25,400000,RG25 2DF,D,N,F,4,,Well Close,North Waltham,Basingstoke
+2021-03-23,895000,RG25 2FN,D,N,F,1,,Langdale Rise,Cliddesden,Basingstoke
+2021-03-22,470000,RG25 3PD,D,N,F,26,,Overton Hill,Overton,Basingstoke
+2021-03-19,410000,RG25 3PD,D,N,F,52,,Overton Hill,Overton,Basingstoke
+2021-03-19,350000,RG25 3NJ,T,N,F,6,,Waltham Road,Overton,Basingstoke
+2021-03-19,385000,RG25 3NH,S,N,F,32,,The Green,Overton,Basingstoke
+2021-03-19,480000,RG25 2QW,D,N,F,High Meadows,,Green Lane,Ellisfield,Basingstoke
+2021-03-18,365000,RG25 3FA,S,N,F,3,,Observer Point Road,Overton,Basingstoke
+2021-03-18,770000,RG25 2DW,D,N,F,1A,,Garden Close,Preston Candover,Basingstoke
+2021-03-16,905000,RG25 2DZ,D,N,F,The Crown Inn,,,Axford,Basingstoke
+2021-03-12,535000,RG25 2JN,S,N,F,3,,Southlea,Cliddesden,Basingstoke
+2021-03-09,480000,RG25 3LF,D,N,F,2,,Alexander Road,Overton,Basingstoke
+2021-03-09,1712500,RG25 2FF,D,Y,F,1,,Holme Hill,Upton Grey,Basingstoke
+2021-03-04,475000,RG25 3TG,D,N,F,4,,Two Gate Meadow,Overton,Basingstoke
+2021-03-02,535000,RG25 2BY,D,N,F,20,,Mary Lane,North Waltham,Basingstoke
+2021-02-27,485000,RG25 3JQ,D,N,F,60,,Foxdown,Overton,Basingstoke
+2021-02-25,495000,RG25 3JQ,D,N,F,123,,Foxdown,Overton,Basingstoke
+2021-02-19,850000,RG25 3AY,D,N,F,The Byre,,,Steventon,Basingstoke
+2021-02-18,470000,RG25 3JB,D,N,F,43,,Kingsclere Road,Overton,Basingstoke
+2021-02-16,1575000,RG25 3DN,D,N,F,Sapley Farmhouse,,,Sapley,Basingstoke
+2021-02-08,340000,RG25 2JG,S,N,F,Cold Harbour Cottages,1,Woods Lane,Cliddesden,Basingstoke
+2021-02-05,350000,RG25 3ND,S,N,F,10,,Pound Road,Overton,Basingstoke
+2021-02-05,735000,RG25 2NU,D,N,F,The Thatched Cottage,,,Weston Patrick,Basingstoke
+2021-02-02,450000,RG25 2EH,D,N,F,Parsley Cottage,,Alresford Road,Preston Candover,Basingstoke
+2021-02-02,467000,RG25 2EB,S,N,F,Two Hoots,,Dummer Road,Axford,Basingstoke
+2021-02-01,429000,RG25 3JD,T,N,F,11,,Hill Meadow,Overton,Basingstoke
+2021-01-29,320000,RG25 3NT,S,Y,F,24,,Apple Dell View,Overton,Basingstoke
+2021-01-29,1520000,RG25 2RG,D,N,F,Lansdowne House,,Cleves Lane,Upton Grey,Basingstoke
+2021-01-29,1000000,RG25 2LG,D,N,F,Arlings,,Tunworth Road,Mapledurwell,Basingstoke
+2021-01-26,995000,RG25 2AY,D,N,F,2,,Queensfield,Dummer,Basingstoke
+2021-01-22,459950,RG25 3NT,D,Y,F,36,,Apple Dell View,Overton,Basingstoke
+2021-01-22,550000,RG25 3NT,D,Y,F,32,,Apple Dell View,Overton,Basingstoke
+2021-01-22,329950,RG25 3NT,S,Y,F,28,,Apple Dell View,Overton,Basingstoke
+2021-01-22,1200000,RG25 2FP,D,N,F,Woodrush,,Elderfield Green,Herriard,Basingstoke
+2021-01-22,800000,RG25 2FP,D,N,F,Foxglove,,Elderfield Green,Herriard,Basingstoke
+2021-01-21,569950,RG25 3NT,D,Y,F,34,,Apple Dell View,Overton,Basingstoke
+2021-01-21,700000,RG25 2RG,D,N,F,Cleves Lane Cottages,2,Cleves Lane,Upton Grey,Basingstoke
+2021-01-18,320000,RG25 3NT,S,Y,F,26,,Apple Dell View,Overton,Basingstoke
+2021-01-13,240000,RG25 3NL,T,N,F,16,,Battens Avenue,Overton,Basingstoke
+2021-01-13,335000,RG25 2FJ,S,N,F,1,,Primrose Close,North Waltham,Basingstoke
+2021-01-12,750000,RG25 3NX,D,N,F,14,,Hazelcombe,Overton,Basingstoke
+2021-01-12,775000,RG25 3JB,D,N,F,47,,Kingsclere Road,Overton,Basingstoke
+2021-01-08,787500,RG25 2NH,D,N,F,11,,Hackwood Lane,Cliddesden,Basingstoke
+2021-01-08,800000,RG25 2FP,D,N,F,Springfield,,Elderfield Green,Herriard,Basingstoke
+2021-01-05,420000,RG25 2SX,D,N,F,1,,Burydown Mead,North Waltham,Basingstoke

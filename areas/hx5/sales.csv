@@ -1,0 +1,785 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-07,120000,HX5 0HZ,T,N,F,9,,Rosebery Street,,Elland
+2026-08-05,173000,HX5 9ET,T,N,F,11,,Coniston Close,,Elland
+2026-07-31,113000,HX5 9ED,T,N,F,17,,Turnpike Street,,Elland
+2026-07-31,165000,HX5 0LD,T,N,F,83,,Elizabeth Street,,Elland
+2026-07-27,227500,HX5 9HA,S,N,F,8,,Oliver Meadows,,Elland
+2026-07-24,320000,HX5 9PR,S,N,F,5,,Carlton Grove,,Elland
+2026-07-23,328000,HX5 9QH,D,N,F,31,,Bracken Way,,Elland
+2026-07-17,230000,HX5 0SW,S,N,F,42,,Exley Lane,,Elland
+2026-07-17,280000,HX5 0PA,D,N,F,29,,South Lane,,Elland
+2026-07-13,200000,HX5 9BT,T,N,F,7,,Norman Terrace,,Elland
+2026-07-03,129000,HX5 0PA,T,N,F,54,,South Lane,,Elland
+2026-06-30,423000,HX5 0AR,D,N,F,26,,Pennine Avenue,,Elland
+2026-06-26,175000,HX5 0AN,T,N,F,15,,Bedford Street,,Elland
+2026-06-25,582500,HX5 0QP,D,N,F,2,,Hammerstones Road,,Elland
+2026-06-19,250000,HX5 0SP,T,N,F,15,,Highfield Grove,,Elland
+2026-06-19,120000,HX5 0LZ,T,N,F,121,,Langdale Street,,Elland
+2026-06-12,97250,HX5 9AR,F,N,L,The Silk Mill,Apartment 47,Dewsbury Road,,Elland
+2026-06-12,335000,HX5 0TB,D,N,F,43,,Blackley Road,,Elland
+2026-06-08,147500,HX5 0PX,T,N,F,33,,Albert Street,,Elland
+2026-06-08,114000,HX5 0NE,T,N,F,8,,George Street,,Elland
+2026-06-05,205000,HX5 0NU,T,N,F,98,,Savile Road,,Elland
+2026-06-05,360000,HX5 0LA,D,N,F,1,,Savile Road,,Elland
+2026-06-05,120000,HX5 0EY,T,N,F,17,,Beech Street,,Elland
+2026-06-05,73142,HX5 0EE,T,N,F,Rosemount Terrace,11,Huddersfield Road,,Elland
+2026-06-04,100000,HX5 0LG,T,N,L,6,,Savile Road,,Elland
+2026-06-01,208500,HX5 0DX,T,N,F,7,,Roundhill Gardens,,Elland
+2026-05-29,100000,HX5 0JG,T,N,F,83,,Oak Street,,Elland
+2026-05-29,175000,HX5 0BA,S,N,F,20,,Park Avenue,,Elland
+2026-05-26,144000,HX5 9PQ,T,N,F,2,,Wilderness Road,Elland Upper Edge,Elland
+2026-05-21,66000,HX5 9AR,F,N,L,The Silk Mill,Apartment 13,Dewsbury Road,,Elland
+2026-05-21,165000,HX5 0HS,S,N,F,4,,South Lane Gardens,,Elland
+2026-05-21,175000,HX5 0EE,S,N,F,109,,Huddersfield Road,,Elland
+2026-05-20,65000,HX5 9AG,F,N,L,Perseverance Mills,Apartment 38,Westbury Street,,Elland
+2026-05-15,245000,HX5 0PY,T,N,L,47,,Jepson Lane,,Elland
+2026-05-08,87500,HX5 0ND,T,N,F,117,,Catherine Street,,Elland
+2026-05-07,100000,HX5 9AR,F,N,L,The Silk Mill,Apartment 19,Dewsbury Road,,Elland
+2026-05-06,169000,HX5 9GY,F,N,L,Valley Mill,Apartment 102,Park Road,,Elland
+2026-05-01,217000,HX5 0LT,S,N,F,8,,Elsinore Avenue,,Elland
+2026-05-01,177500,HX5 0EG,T,N,F,47,,Newcombe Street,,Elland
+2026-04-30,582000,HX5 0QP,D,N,F,21,,Hammerstones Road,,Elland
+2026-04-17,175000,HX5 0LD,T,N,F,85,,Elizabeth Street,,Elland
+2026-03-27,222500,HX5 9ES,S,N,F,19,,Old Earth,,Elland
+2026-03-27,100000,HX5 9AR,F,N,L,The Silk Mill,Apartment 77,Dewsbury Road,,Elland
+2026-03-27,170000,HX5 0PF,T,N,L,14,,Dunce Park Close,,Elland
+2026-03-19,290000,HX5 0LQ,S,N,F,23,,Rufford Road,,Elland
+2026-03-13,32500,HX5 0BB,T,N,F,100,,Westgate,,Elland
+2026-03-12,585000,HX5 0DR,D,N,F,6,,Hazelmoor Fold,,Elland
+2026-03-06,81500,HX5 9AG,F,N,L,Perseverance Mills,Apartment 37,Westbury Street,,Elland
+2026-02-27,185000,HX5 9PR,S,N,F,16,,Carlton Grove,,Elland
+2026-02-27,217000,HX5 9DU,S,N,F,3,,Elland Lane,,Elland
+2026-02-27,182500,HX5 9AY,S,N,F,12,,Caldercroft,,Elland
+2026-02-20,135000,HX5 9EP,T,N,F,87,,Elland Lane,,Elland
+2026-02-13,200000,HX5 0AZ,T,N,F,36,,Victoria Avenue,,Elland
+2026-02-09,274000,HX5 0NR,S,N,L,71,,South Parade,,Elland
+2026-02-06,128000,HX5 9HZ,T,N,L,133,,Park Road,,Elland
+2026-02-06,540000,HX5 0QF,S,N,F,"Medwyn, 112",,Victoria Road,,Elland
+2026-02-04,425000,HX5 9QN,D,N,L,7,,Ullswater Close,,Elland
+2026-02-04,217500,HX5 0DX,S,N,F,12,,Roundhill Gardens,,Elland
+2026-02-03,162000,HX5 0HZ,S,N,F,15,,Rosebery Street,,Elland
+2026-02-02,97000,HX5 9GZ,F,N,L,Valley Mill,Apartment 331,Park Road,,Elland
+2026-02-02,195000,HX5 9AT,D,N,F,23,,Westbury Street,,Elland
+2026-01-26,108000,HX5 9AR,F,N,L,The Silk Mill,Apartment 60,Dewsbury Road,,Elland
+2026-01-23,82000,HX5 9AG,F,N,L,Perseverance Mills,Apartment 50,Westbury Street,,Elland
+2026-01-23,320000,HX5 0RU,S,N,F,16,,Northgate,,Elland
+2026-01-19,300000,HX5 0LT,S,N,F,48,,Elsinore Avenue,,Elland
+2026-01-16,160000,HX5 0AZ,S,N,F,20,,Victoria Avenue,,Elland
+2026-01-14,328000,HX5 0RU,S,N,F,14,,Northgate,,Elland
+2026-01-09,130000,HX5 9HZ,T,N,F,125,,Park Road,,Elland
+2026-01-09,167000,HX5 9HS,T,N,F,37,,Plains Lane,,Elland
+2026-01-09,300000,HX5 0AP,D,N,F,4,,Granville Street,,Elland
+2025-12-19,480000,HX5 0QF,D,N,F,115,,Victoria Road,,Elland
+2025-12-18,170000,HX5 0PA,T,N,F,50,,South Lane,,Elland
+2025-12-18,170000,HX5 0PA,T,N,F,32,,South Lane,,Elland
+2025-12-18,82000,HX5 0HU,T,N,L,14,,Myrtle Road,,Elland
+2025-12-18,82000,HX5 0HU,T,N,F,14,,Myrtle Road,,Elland
+2025-12-12,160000,HX5 9AA,T,N,F,73,,Huddersfield Road,,Elland
+2025-12-09,236000,HX5 9ES,S,N,F,3,,Old Earth,,Elland
+2025-12-05,165000,HX5 9GY,F,N,L,Valley Mill,Apartment 218,Park Road,,Elland
+2025-12-05,420000,HX5 0JT,D,N,F,51,,Holly Bank,,Elland
+2025-11-28,300000,HX5 9QB,D,N,F,51,,Church Lane,,Elland
+2025-11-28,343000,HX5 9JB,T,N,L,Ashgrove House,10 The Courtyard,Elland Road,,Elland
+2025-11-28,195000,HX5 0NS,S,N,F,7,,Dene Close,,Elland
+2025-11-28,345000,HX5 0JT,D,N,F,17,,Holly Bank,,Elland
+2025-11-27,145000,HX5 9HZ,T,N,F,11,,Park Road,,Elland
+2025-11-21,180000,HX5 9PL,S,N,F,14,,Lower Edge Road,,Elland
+2025-11-21,230000,HX5 9AY,D,N,F,71,,Caldercroft,,Elland
+2025-11-17,295000,HX5 0PH,D,N,F,1,,Maple Fold,,Elland
+2025-11-17,92500,HX5 0JH,T,N,F,31,,Elizabeth Street,,Elland
+2025-11-14,396750,HX5 0QP,S,N,F,20,,Hammerstones Road,,Elland
+2025-11-10,160000,HX5 9BD,T,N,F,22,,Thorn View,,Elland
+2025-10-24,132500,HX5 9HZ,T,N,L,95,,Park Road,,Elland
+2025-10-24,200000,HX5 9HA,S,N,F,12,,Oliver Meadows,,Elland
+2025-10-24,66500,HX5 9AG,F,N,L,Perseverance Mills,Apartment 40,Westbury Street,,Elland
+2025-10-24,390000,HX5 0TB,S,N,F,39,,Blackley Road,,Elland
+2025-10-24,90000,HX5 0DL,F,N,L,Talbot House,6,,,Elland
+2025-10-22,315000,HX5 0LA,T,N,F,"Parkfield House, 25",,Savile Road,,Elland
+2025-10-15,343000,HX5 9QP,D,N,F,22,,Fern Rise,,Elland
+2025-10-15,198000,HX5 9HA,S,N,F,27,,Oliver Meadows,,Elland
+2025-10-13,210683,HX5 9ES,S,N,F,41,,Old Earth,,Elland
+2025-09-24,194000,HX5 0NL,T,N,L,30,,Waverley Road,,Elland
+2025-09-22,165000,HX5 9BS,T,N,F,19,,Norman Street,,Elland
+2025-09-19,335000,HX5 9QL,D,N,F,4,,Heather View,,Elland
+2025-09-19,166000,HX5 9QB,T,N,F,3,,Church Lane,,Elland
+2025-09-19,260000,HX5 9ES,S,N,F,7,,Old Earth,,Elland
+2025-09-19,87000,HX5 0HB,T,N,F,5,,James Street,,Elland
+2025-09-18,54900,HX5 9AR,F,N,L,The Silk Mill,Apartment 51,Dewsbury Road,,Elland
+2025-09-17,256000,HX5 0TF,T,N,F,34,,South Lane,Blackley,Elland
+2025-09-15,188000,HX5 0NL,T,N,L,21,,Waverley Road,,Elland
+2025-09-12,187000,HX5 9BT,T,N,F,7,,Norman Terrace,,Elland
+2025-09-11,475000,HX5 0QA,D,N,F,46,,Victoria Road,,Elland
+2025-09-11,295000,HX5 0LQ,T,N,F,6,,Rufford Road,,Elland
+2025-09-08,170000,HX5 9HS,T,N,L,39,,Plains Lane,,Elland
+2025-09-05,175000,HX5 9HR,T,N,F,8,,Woodlands Road,,Elland
+2025-09-05,200000,HX5 0LT,T,N,F,20,,Elsinore Avenue,,Elland
+2025-09-02,180000,HX5 9BN,T,N,F,51,,Rosemount Avenue,,Elland
+2025-08-29,117000,HX5 9HZ,T,N,F,127,,Park Road,,Elland
+2025-08-29,240000,HX5 9AY,S,N,F,55,,Caldercroft,,Elland
+2025-08-22,195000,HX5 9GY,F,N,L,Valley Mill,Apartment 109,Park Road,,Elland
+2025-08-22,162500,HX5 9AY,S,N,F,10,,Caldercroft,,Elland
+2025-08-22,130000,HX5 0HU,T,N,F,35,,Myrtle Road,,Elland
+2025-08-22,162500,HX5 0EZ,T,N,F,34,,Catherine Street,,Elland
+2025-08-20,195000,HX5 9GY,F,N,L,Valley Mill,Apartment 208,Park Road,,Elland
+2025-08-18,100000,HX5 0AG,T,N,F,14,,Gordon Street,,Elland
+2025-08-15,165000,HX5 0AG,T,N,F,30,,Gordon Street,,Elland
+2025-08-14,283500,HX5 0LQ,S,N,F,8,,Rufford Road,,Elland
+2025-08-14,407500,HX5 0JT,S,N,F,37,,Holly Bank,,Elland
+2025-08-13,250000,HX5 9HZ,S,N,F,30,,Park Road,,Elland
+2025-08-08,100000,HX5 9EG,T,N,F,72,,Whitwell Green Lane,,Elland
+2025-08-04,87500,HX5 0NB,T,N,F,9,,Bath Street,,Elland
+2025-07-31,240000,HX5 0NU,T,N,F,94,,Savile Road,,Elland
+2025-07-31,255000,HX5 0NL,T,N,L,32,,Waverley Road,,Elland
+2025-07-31,190000,HX5 0NL,T,N,L,19,,Waverley Road,,Elland
+2025-07-25,350000,HX5 0PA,T,N,F,52,,South Lane,,Elland
+2025-07-18,220000,HX5 0LU,S,N,F,6,,Norton Street,,Elland
+2025-07-17,159950,HX5 9BG,T,N,F,Ellerslie,,Dewsbury Road,,Elland
+2025-07-16,327000,HX5 9GZ,F,N,L,Valley Mill,Apartment 515,Park Road,,Elland
+2025-07-15,300000,HX5 0QD,S,N,F,11,,Laurel Close,,Elland
+2025-07-04,100000,HX5 9AR,F,N,L,The Silk Mill,Apartment 62,Dewsbury Road,,Elland
+2025-06-27,69500,HX5 9GY,F,N,L,Valley Mill,Apartment 36,Park Road,,Elland
+2025-06-27,107500,HX5 9AR,F,N,L,The Silk Mill,Apartment 58,Dewsbury Road,,Elland
+2025-06-25,500000,HX5 9JZ,D,N,F,Hill Crest,,Banks End Road,,Elland
+2025-06-20,115500,HX5 0JB,T,N,F,52,,Catherine Street,,Elland
+2025-06-20,160000,HX5 0HP,T,N,L,11,,Charles Street,,Elland
+2025-06-13,273500,HX5 9QJ,D,N,F,11,,Ennerdale Drive,,Elland
+2025-06-13,230000,HX5 9GZ,F,N,L,Valley Mill,Apartment 505,Park Road,,Elland
+2025-06-13,266500,HX5 0LT,S,N,F,9,,Elsinore Avenue,,Elland
+2025-06-13,184000,HX5 0DF,S,N,F,34,,Coronation Street,,Elland
+2025-06-09,123500,HX5 9EG,T,N,F,78,,Whitwell Green Lane,,Elland
+2025-06-02,260000,HX5 0LU,S,N,L,8,,Norton Street,,Elland
+2025-05-30,293000,HX5 9QR,S,N,F,1,,High Bank Close,,Elland
+2025-05-30,138000,HX5 9HR,S,N,F,13,,Woodlands Road,,Elland
+2025-05-29,385000,HX5 0DS,D,N,F,16,,Kingsbrooke Drive,,Elland
+2025-05-28,75000,HX5 9AG,F,N,L,Perseverance Mills,Apartment 21,Westbury Street,,Elland
+2025-05-23,96000,HX5 0JJ,T,N,F,34,,Oak Street,,Elland
+2025-05-22,275000,HX5 0LJ,S,N,F,6,,Oakfield Close,,Elland
+2025-05-21,145000,HX5 0BA,T,N,F,13,,Park Avenue,,Elland
+2025-05-09,259000,HX5 9PN,S,N,F,44,,Thirlmere Avenue,,Elland
+2025-05-08,178000,HX5 0HS,S,N,F,3,,South Lane Gardens,,Elland
+2025-05-02,205000,HX5 0NP,T,N,L,16,,South Parade,,Elland
+2025-05-01,145000,HX5 9ED,T,N,F,16,,Turnpike Street,,Elland
+2025-04-25,130000,HX5 9EN,T,N,F,30,,Springfield Road,,Elland
+2025-04-17,108000,HX5 0EY,T,N,F,34,,Beech Street,,Elland
+2025-04-15,293000,HX5 0PY,S,N,F,Northfield,1,Jepson Lane,,Elland
+2025-04-11,125000,HX5 9EG,T,N,F,55,,Whitwell Green Lane,,Elland
+2025-04-11,155000,HX5 9BD,T,N,F,2,,Thorn View,,Elland
+2025-04-10,94000,HX5 9AU,T,N,F,4,,Heathfield Street,,Elland
+2025-04-09,55000,HX5 9JU,T,N,F,27,,Dewsbury Road,,Elland
+2025-03-31,345000,HX5 0QA,S,N,F,54,,Victoria Road,,Elland
+2025-03-28,180000,HX5 9PL,T,N,F,20,,Lower Edge Road,,Elland
+2025-03-28,185000,HX5 9GZ,F,N,L,Valley Mill,Apartment 406,Park Road,,Elland
+2025-03-28,220000,HX5 9AY,D,N,F,14,,Caldercroft,,Elland
+2025-03-28,195000,HX5 0PX,T,N,L,Dundyvan,,Albert Street,,Elland
+2025-03-27,195000,HX5 9DU,T,N,F,5,,Elland Lane,,Elland
+2025-03-27,275000,HX5 0QL,S,N,F,15,,Linden Road,,Elland
+2025-03-27,268000,HX5 0LT,T,N,F,36,,Elsinore Avenue,,Elland
+2025-03-26,305000,HX5 0PZ,S,N,F,1,,Victoria Crescent,,Elland
+2025-03-20,265000,HX5 9QH,D,N,L,23,,Bracken Way,,Elland
+2025-03-20,470000,HX5 9QB,D,N,F,44,,Church Lane,,Elland
+2025-03-20,90000,HX5 0JE,T,N,F,88,,Langdale Street,,Elland
+2025-03-17,175000,HX5 9BN,T,N,F,17,,Rosemount Avenue,,Elland
+2025-03-14,185000,HX5 0SW,T,N,L,2,,Exley Lane,,Elland
+2025-03-14,240000,HX5 0QX,S,N,F,3,,Broomfield,,Elland
+2025-03-14,295000,HX5 0LQ,S,N,F,12,,Rufford Road,,Elland
+2025-03-11,125000,HX5 9ED,T,N,F,21,,Turnpike Street,,Elland
+2025-03-07,180000,HX5 9GZ,F,N,L,Valley Mill,Apartment 310,Park Road,,Elland
+2025-03-07,92500,HX5 9AR,F,N,L,The Silk Mill,Apartment 14,Dewsbury Road,,Elland
+2025-03-07,227500,HX5 0LN,S,N,F,20,,Crestfield Avenue,,Elland
+2025-02-28,225000,HX5 0SP,S,N,F,14,,Highfield Grove,,Elland
+2025-02-27,250000,HX5 0AJ,S,N,F,16,,Ainley Street,,Elland
+2025-02-21,225000,HX5 0SW,S,N,F,11,,Exley Lane,,Elland
+2025-02-20,290000,HX5 9ES,S,N,F,37,,Old Earth,,Elland
+2025-02-20,430000,HX5 0PH,D,N,F,3,,Maple Fold,,Elland
+2025-02-14,149049,HX5 9BN,S,N,F,53,,Rosemount Avenue,,Elland
+2025-02-07,155000,HX5 9PL,S,N,F,75,,Lower Edge Road,,Elland
+2025-02-07,150000,HX5 0PA,T,N,F,56,,South Lane,,Elland
+2025-02-03,360000,HX5 0SW,S,N,F,56,,Exley Lane,,Elland
+2025-01-31,115000,HX5 0LG,T,N,L,12,,Savile Road,,Elland
+2025-01-24,90000,HX5 0HA,T,N,F,34,,Albion Street,,Elland
+2025-01-23,296000,HX5 0LT,T,N,F,53,,Elsinore Avenue,,Elland
+2025-01-20,135000,HX5 9HS,T,N,L,13,,Plains Lane,,Elland
+2025-01-10,220000,HX5 0LQ,S,N,F,15,,Rufford Road,,Elland
+2025-01-10,220000,HX5 0LQ,S,N,L,15,,Rufford Road,,Elland
+2025-01-08,172500,HX5 0PX,T,N,F,7,,Albert Street,,Elland
+2025-01-07,271500,HX5 9AY,D,N,F,31,,Caldercroft,,Elland
+2025-01-07,125000,HX5 0RU,T,N,F,7,,Northgate,,Elland
+2025-01-06,227000,HX5 9QR,T,N,F,16,,High Bank Close,,Elland
+2025-01-06,367500,HX5 0QP,S,N,F,14,,Hammerstones Road,,Elland
+2024-12-20,89000,HX5 0ND,T,N,F,132,,Catherine Street,,Elland
+2024-12-20,190000,HX5 0DX,T,N,F,6,,Roundhill Gardens,,Elland
+2024-12-19,300000,HX5 9QN,D,N,F,1,,Ullswater Close,,Elland
+2024-12-19,75000,HX5 9AR,F,N,L,The Silk Mill,Apartment 42,Dewsbury Road,,Elland
+2024-12-18,180000,HX5 9ET,T,N,F,9,,Coniston Close,,Elland
+2024-12-17,170000,HX5 9ET,T,N,F,1,,Coniston Close,,Elland
+2024-12-17,181500,HX5 0NP,T,N,F,14,,South Parade,,Elland
+2024-12-17,115000,HX5 0JA,T,N,F,25,,Catherine Crescent,,Elland
+2024-12-16,237000,HX5 9PW,S,N,F,64,,Grasmere Drive,,Elland
+2024-12-13,150000,HX5 9HZ,T,N,F,78,,Park Road,,Elland
+2024-12-13,124000,HX5 9AT,T,N,F,27,,Westbury Street,,Elland
+2024-12-13,80000,HX5 9AR,F,N,L,The Silk Mill,Apartment 5,Dewsbury Road,,Elland
+2024-12-06,215000,HX5 9GZ,F,N,L,Valley Mill,Apartment 431,Park Road,,Elland
+2024-12-06,109000,HX5 0JB,T,N,F,56,,Catherine Street,,Elland
+2024-12-04,150000,HX5 0AG,T,N,F,53,,Gordon Street,,Elland
+2024-11-29,90600,HX5 9ER,T,N,F,98,,Elland Lane,,Elland
+2024-11-29,178000,HX5 9BN,T,N,F,69,,Rosemount Avenue,,Elland
+2024-11-29,200000,HX5 0NS,S,N,F,8,,Dene Close,,Elland
+2024-11-28,525000,HX5 0QF,D,N,F,"Ryburn, 106",,Victoria Road,,Elland
+2024-11-25,420000,HX5 9QH,D,N,L,16,,Bracken Way,,Elland
+2024-11-25,530000,HX5 0DT,D,N,F,15,,Highwood Gardens,Blackley,Elland
+2024-11-22,97500,HX5 0PA,T,N,F,26,,South Lane,,Elland
+2024-11-21,150000,HX5 9ET,T,N,F,6,,Coniston Close,,Elland
+2024-11-21,90000,HX5 9AR,F,N,L,The Silk Mill,Apartment 15,Dewsbury Road,,Elland
+2024-11-15,162000,HX5 0EE,S,N,F,109,,Huddersfield Road,,Elland
+2024-11-11,162000,HX5 9BT,T,N,F,2,,Norman Terrace,,Elland
+2024-11-08,240000,HX5 9AY,S,N,F,61,,Caldercroft,,Elland
+2024-11-07,318000,HX5 9PL,S,N,F,10,,Lower Edge Road,,Elland
+2024-11-01,165000,HX5 9HA,S,N,F,15,,Oliver Meadows,,Elland
+2024-10-30,75000,HX5 9PA,T,N,F,2,,Bean Street,,Elland
+2024-10-30,110000,HX5 9HZ,T,N,F,56,,Park Road,,Elland
+2024-10-28,189500,HX5 9GY,F,N,L,Valley Mill,Apartment 107,Park Road,,Elland
+2024-10-28,115000,HX5 0JB,T,N,F,81,,Catherine Street,,Elland
+2024-10-24,415000,HX5 9QN,D,N,L,6,,Ullswater Close,,Elland
+2024-10-24,550000,HX5 0QP,D,N,F,2,,Hammerstones Road,,Elland
+2024-10-21,110000,HX5 0HU,T,N,L,37,,Myrtle Road,,Elland
+2024-10-15,223000,HX5 0LY,T,N,F,2,,Melrose Terrace,,Elland
+2024-10-14,190000,HX5 0LS,S,N,F,9,,Crestfield Crescent,,Elland
+2024-10-11,198000,HX5 0NU,T,N,F,102,,Savile Road,,Elland
+2024-10-11,132500,HX5 0NH,T,N,L,Church View,1,Savile Road,,Elland
+2024-10-10,97500,HX5 0ND,T,N,F,133,,Catherine Street,,Elland
+2024-09-27,165000,HX5 9BN,T,N,F,7,,Rosemount Avenue,,Elland
+2024-09-13,155000,HX5 9PQ,T,N,F,2,,Wilderness Road,Elland Upper Edge,Elland
+2024-09-13,102000,HX5 0JL,T,N,F,48,,Langdale Street,,Elland
+2024-09-12,195000,HX5 0NR,S,N,F,53,,South Parade,,Elland
+2024-09-11,241000,HX5 9ES,S,N,F,13,,Old Earth,,Elland
+2024-09-11,110000,HX5 9ER,T,N,F,110,,Elland Lane,,Elland
+2024-09-09,274000,HX5 9PL,S,N,F,77,,Lower Edge Road,,Elland
+2024-09-06,122500,HX5 9EN,T,N,F,60,,Springfield Road,,Elland
+2024-09-06,70000,HX5 9AR,F,N,L,The Silk Mill,Apartment 16,Dewsbury Road,,Elland
+2024-09-03,140000,HX5 9AT,S,N,F,38,,Westbury Street,,Elland
+2024-08-28,242000,HX5 9GZ,F,N,L,Valley Mill,Apartment 412,Park Road,,Elland
+2024-08-28,197000,HX5 0NL,T,N,L,2,,Waverley Road,,Elland
+2024-08-28,150000,HX5 0NH,T,N,F,Church View,4,Savile Road,,Elland
+2024-08-23,185000,HX5 9BU,T,N,L,2,,Norman Avenue,,Elland
+2024-08-23,105000,HX5 0JL,S,N,F,43,,Langdale Street,,Elland
+2024-08-23,190000,HX5 0DF,T,N,F,9,,Coronation Street,,Elland
+2024-08-22,235000,HX5 0DF,T,N,L,3,,Coronation Street,,Elland
+2024-08-19,101000,HX5 9GY,F,N,L,Valley Mill,Apartment 235,Park Road,,Elland
+2024-08-19,222000,HX5 0SP,S,N,F,21,,Highfield Grove,,Elland
+2024-08-16,130000,HX5 9BE,T,N,F,9,,Lime Tree Avenue,,Elland
+2024-08-15,330000,HX5 9HA,D,N,F,2,,Oliver Meadows,,Elland
+2024-08-09,135000,HX5 0PL,F,N,L,Willow Court,Apartment 26,Victoria Road,,Elland
+2024-08-09,102000,HX5 0LS,F,N,L,31,,Crestfield Crescent,,Elland
+2024-08-09,86500,HX5 0AS,T,N,F,11,,Scarborough Terrace,,Elland
+2024-08-07,165000,HX5 9AH,T,N,F,45,,Huddersfield Road,,Elland
+2024-08-07,125000,HX5 0JB,T,N,F,83,,Catherine Street,,Elland
+2024-08-06,135000,HX5 9JZ,T,N,F,14,,Banks End Road,,Elland
+2024-08-06,82000,HX5 9AG,F,N,L,Perseverance Mills,Apartment 25,Westbury Street,,Elland
+2024-08-02,180000,HX5 0NS,S,N,F,5,,Dene Close,,Elland
+2024-07-31,159950,HX5 9EH,T,N,F,27,,Alexandra Crescent,,Elland
+2024-07-26,118000,HX5 9EG,T,N,F,96,,Whitwell Green Lane,,Elland
+2024-07-24,128500,HX5 0AJ,T,N,F,9,,Ainley Street,,Elland
+2024-07-19,182000,HX5 0NL,T,N,L,28,,Waverley Road,,Elland
+2024-07-19,182000,HX5 0NL,T,N,F,28,,Waverley Road,,Elland
+2024-07-19,165000,HX5 0EE,S,N,F,107,,Huddersfield Road,,Elland
+2024-07-19,425000,HX5 0DS,D,N,F,35,,Kingsbrooke Drive,,Elland
+2024-07-18,240000,HX5 0LX,S,N,F,9,,Highfield Road,,Elland
+2024-07-18,165000,HX5 0EG,T,N,F,47,,Newcombe Street,,Elland
+2024-07-12,86000,HX5 0LD,T,N,F,46,,Elizabeth Street,,Elland
+2024-07-12,140000,HX5 0AS,T,N,F,9,,Scarborough Terrace,,Elland
+2024-07-08,135000,HX5 9EE,T,N,F,24,,Whitwell Drive,,Elland
+2024-07-04,120000,HX5 0JE,T,N,F,72,,Langdale Street,,Elland
+2024-07-02,154000,HX5 0PA,S,N,F,74,,South Lane,,Elland
+2024-06-28,214000,HX5 9GZ,F,N,L,Valley Mill,Apartment 511,Park Road,,Elland
+2024-06-28,76000,HX5 9AA,T,N,L,81,,Huddersfield Road,,Elland
+2024-06-28,340000,HX5 0QN,S,N,F,5,,Hullen Road,,Elland
+2024-06-21,128000,HX5 9GY,F,N,L,Valley Mill,Apartment 11,Park Road,,Elland
+2024-06-19,152000,HX5 0QH,S,N,F,29,,Greystone Avenue,,Elland
+2024-06-14,240000,HX5 9JX,T,N,F,4,,Aspinalls Fold,,Elland
+2024-06-14,180000,HX5 9EH,T,N,F,29,,Alexandra Crescent,,Elland
+2024-06-14,270000,HX5 0QD,S,N,F,6,,Laurel Close,,Elland
+2024-06-14,79000,HX5 0EE,T,N,F,121,,Huddersfield Road,,Elland
+2024-06-07,370000,HX5 0JT,D,N,F,18,,Holly Bank,,Elland
+2024-05-31,162000,HX5 0SW,D,N,L,20,,Exley Lane,,Elland
+2024-05-29,265000,HX5 9QH,D,N,L,11,,Bracken Way,,Elland
+2024-05-24,185000,HX5 9PW,S,N,F,10,,Grasmere Drive,,Elland
+2024-05-24,185000,HX5 0LW,S,N,F,11,,Crestfield Drive,,Elland
+2024-05-17,142000,HX5 9HZ,T,N,L,25,,Park Road,,Elland
+2024-05-10,67500,HX5 9AG,F,N,L,Perseverance Mills,Apartment 50,Westbury Street,,Elland
+2024-05-09,101000,HX5 0ND,T,N,F,135,,Catherine Street,,Elland
+2024-05-08,187000,HX5 9EG,S,N,F,97,,Whitwell Green Lane,,Elland
+2024-05-08,190000,HX5 0NR,S,N,L,41,,South Parade,,Elland
+2024-05-03,242500,HX5 9HA,D,N,F,40,,Oliver Meadows,,Elland
+2024-05-03,200000,HX5 9HA,S,N,F,36,,Oliver Meadows,,Elland
+2024-05-03,347500,HX5 0SW,S,N,F,33,,Exley Lane,,Elland
+2024-05-03,100000,HX5 0EZ,T,N,F,31,,Catherine Street,,Elland
+2024-04-30,410000,HX5 0JT,D,N,F,51,,Holly Bank,,Elland
+2024-04-26,117000,HX5 0PF,T,N,L,47,,Dunce Park Close,,Elland
+2024-04-26,106000,HX5 0HU,T,N,L,20,,Myrtle Road,,Elland
+2024-04-26,161000,HX5 0HQ,T,N,L,Verdale,,South Lane,,Elland
+2024-04-19,130000,HX5 0JB,T,N,F,85,,Catherine Street,,Elland
+2024-04-15,145000,HX5 0LA,T,N,F,19,,Savile Road,,Elland
+2024-04-12,205050,HX5 9HZ,T,N,F,97,,Park Road,,Elland
+2024-04-12,205000,HX5 9AY,S,N,F,62,,Caldercroft,,Elland
+2024-04-12,154000,HX5 0HP,T,N,L,7,,Charles Street,,Elland
+2024-04-12,155000,HX5 0DF,T,N,L,15,,Coronation Street,,Elland
+2024-04-05,107500,HX5 9ED,T,N,F,8,,Turnpike Street,,Elland
+2024-04-05,130000,HX5 0LZ,T,N,F,125,,Langdale Street,,Elland
+2024-04-05,82500,HX5 0JE,T,N,F,78,,Langdale Street,,Elland
+2024-03-28,247000,HX5 9PW,S,N,F,39,,Grasmere Drive,,Elland
+2024-03-28,94000,HX5 0JH,T,N,F,23,,Elizabeth Street,,Elland
+2024-03-22,95000,HX5 9ED,T,N,F,7,,Turnpike Street,,Elland
+2024-03-15,256000,HX5 9EH,D,N,F,"Primis House, 24",,Alexandra Crescent,,Elland
+2024-03-15,125000,HX5 0NN,T,N,L,3,,Cobden Terrace,,Elland
+2024-03-15,125000,HX5 0NN,T,N,F,3,,Cobden Terrace,,Elland
+2024-03-15,218000,HX5 0NJ,T,N,F,9,,Brooklyn Terrace,,Elland
+2024-03-15,325000,HX5 0LL,S,N,L,23,,Kelvin Road,,Elland
+2024-03-01,236000,HX5 9PN,S,N,F,24,,Thirlmere Avenue,,Elland
+2024-03-01,153000,HX5 0LT,S,N,F,28,,Elsinore Avenue,,Elland
+2024-02-23,141000,HX5 9BG,T,N,F,Ellerslie,,Dewsbury Road,,Elland
+2024-02-23,215000,HX5 0NW,S,N,F,15,,Bowood Road,,Elland
+2024-02-23,108000,HX5 0LZ,T,N,F,117,,Langdale Street,,Elland
+2024-02-20,195000,HX5 0NJ,T,N,L,8,,Brooklyn Terrace,,Elland
+2024-02-16,113500,HX5 0HU,T,N,F,32,,Myrtle Road,,Elland
+2024-02-12,505000,HX5 0DS,D,N,F,5,,Kingsbrooke Drive,,Elland
+2024-02-12,295000,HX5 0AR,S,N,F,19,,Pennine Avenue,,Elland
+2024-02-09,390000,HX5 9QJ,D,N,F,14,,Ennerdale Drive,,Elland
+2024-02-09,195000,HX5 0NL,T,N,L,6,,Waverley Road,,Elland
+2024-02-09,80000,HX5 0JN,S,N,F,6,,Frances Street,,Elland
+2024-01-29,245000,HX5 0QT,S,N,F,1,,Ringwood Edge,,Elland
+2024-01-26,130500,HX5 0PF,T,N,L,55,,Dunce Park Close,,Elland
+2024-01-26,127000,HX5 0JA,T,N,F,20,,Catherine Crescent,,Elland
+2024-01-25,110000,HX5 0AG,T,N,F,47,,Gordon Street,,Elland
+2024-01-19,190000,HX5 0NR,S,N,F,63,,South Parade,,Elland
+2024-01-05,180000,HX5 0NU,T,N,F,96,,Savile Road,,Elland
+2024-01-04,165000,HX5 9AT,T,N,F,34,,Westbury Street,,Elland
+2023-12-20,390000,HX5 0DS,D,N,F,31,,Kingsbrooke Drive,,Elland
+2023-12-19,202500,HX5 0LR,S,N,F,6,,Crestfield Road,,Elland
+2023-12-18,141500,HX5 0BA,T,N,F,16,,Park Avenue,,Elland
+2023-12-14,90000,HX5 0JA,T,N,F,31,,Catherine Crescent,,Elland
+2023-12-12,286000,HX5 0QP,S,N,F,5,,Hammerstones Road,,Elland
+2023-12-12,185000,HX5 0AZ,T,N,F,32,,Victoria Avenue,,Elland
+2023-12-08,140000,HX5 9BS,T,N,F,11,,Norman Street,,Elland
+2023-12-07,180000,HX5 0NT,S,N,F,1,,Briar Close,,Elland
+2023-12-04,230000,HX5 0LT,S,N,F,32,,Elsinore Avenue,,Elland
+2023-12-01,263000,HX5 9PA,T,N,F,8,,Bean Street,,Elland
+2023-12-01,140000,HX5 9ED,T,N,F,12,,Turnpike Street,,Elland
+2023-12-01,150000,HX5 0PL,F,N,L,Willow Court,Apartment 7,Victoria Road,,Elland
+2023-12-01,255000,HX5 0LT,S,N,L,15,,Elsinore Avenue,,Elland
+2023-11-29,220000,HX5 9AY,S,N,F,60,,Caldercroft,,Elland
+2023-11-28,190000,HX5 9PW,S,N,F,72,,Grasmere Drive,,Elland
+2023-11-24,230000,HX5 9EU,F,N,L,Heathfield Grange,Apartment 15,Elland Lane,,Elland
+2023-11-23,80000,HX5 0AP,T,N,F,3,,Granville Street,,Elland
+2023-11-17,180000,HX5 9PT,S,N,F,30,,Lodge Drive,,Elland
+2023-11-17,185000,HX5 9BU,T,N,F,14,,Norman Avenue,,Elland
+2023-11-17,247000,HX5 0SW,S,N,F,34,,Exley Lane,,Elland
+2023-11-17,222000,HX5 0SP,T,N,F,8,,Highfield Grove,,Elland
+2023-11-17,175000,HX5 0EE,T,N,F,167,,Huddersfield Road,,Elland
+2023-11-15,265000,HX5 0QN,D,N,F,8,,Hullen Road,,Elland
+2023-11-14,64500,HX5 0HA,T,N,F,44,,Albion Street,,Elland
+2023-11-10,185000,HX5 0SP,T,N,F,6,,Highfield Grove,,Elland
+2023-11-10,160000,HX5 0HZ,S,N,F,15,,Rosebery Street,,Elland
+2023-11-06,282000,HX5 0PA,S,N,F,66A,,South Lane,,Elland
+2023-11-03,275000,HX5 9PW,S,N,F,25,,Grasmere Drive,,Elland
+2023-11-03,175000,HX5 9PL,S,N,F,43,,Lower Edge Road,,Elland
+2023-10-31,107000,HX5 9GZ,F,N,L,Valley Mill,Apartment 332,Park Road,,Elland
+2023-10-27,195000,HX5 9GZ,F,N,L,Valley Mill,Apartment 432,Park Road,,Elland
+2023-10-27,100000,HX5 9EE,T,N,F,36,,Whitwell Drive,,Elland
+2023-10-20,140000,HX5 9AH,T,N,F,41,,Huddersfield Road,,Elland
+2023-10-13,227500,HX5 0NS,S,N,F,9,,Dene Close,,Elland
+2023-10-13,165000,HX5 0BA,T,N,F,31,,Park Avenue,,Elland
+2023-10-10,400000,HX5 9QN,D,N,L,7,,Ullswater Close,,Elland
+2023-10-10,400000,HX5 9JU,D,N,F,Copperas Mount,,Dewsbury Road,,Elland
+2023-10-06,375000,HX5 0DS,D,N,F,16,,Kingsbrooke Drive,,Elland
+2023-10-02,331000,HX5 0SW,D,N,F,57,,Exley Lane,,Elland
+2023-10-02,104000,HX5 0HU,T,N,L,17,,Myrtle Road,,Elland
+2023-09-29,252500,HX5 9PT,S,N,F,32,,Lodge Drive,,Elland
+2023-09-28,128500,HX5 0AG,T,N,F,21,,Gordon Street,,Elland
+2023-09-22,445000,HX5 0QY,S,N,F,24,,Hullen Edge Road,,Elland
+2023-09-15,115500,HX5 9ED,T,N,F,20,,Turnpike Street,,Elland
+2023-09-15,220000,HX5 0QL,S,N,F,1,,Linden Road,,Elland
+2023-09-12,85000,HX5 0JD,T,N,F,64,,Beech Street,,Elland
+2023-09-11,107500,HX5 0HU,T,N,L,11,,Myrtle Road,,Elland
+2023-09-08,146250,HX5 0PL,F,N,L,Willow Court,Apartment 20,Victoria Road,,Elland
+2023-09-06,212500,HX5 0QD,S,N,F,7,,Laurel Close,,Elland
+2023-09-04,147500,HX5 9JZ,T,N,F,18,,Banks End Road,,Elland
+2023-08-25,195000,HX5 9BL,S,N,F,21,,Thomas Street,,Elland
+2023-08-25,157500,HX5 0EE,S,N,F,181,,Huddersfield Road,,Elland
+2023-08-25,185000,HX5 0AZ,T,N,F,13,,Victoria Avenue,,Elland
+2023-08-22,220000,HX5 9JU,T,N,F,28,,Dewsbury Road,,Elland
+2023-08-22,115000,HX5 9GY,F,N,L,Valley Mill,Apartment 236,Park Road,,Elland
+2023-08-18,120000,HX5 0LF,T,N,F,119,,Oak Street,,Elland
+2023-08-16,140000,HX5 9BL,S,N,F,17,,Thomas Street,,Elland
+2023-08-16,460000,HX5 0QP,S,N,F,3,,Hammerstones Road,,Elland
+2023-08-16,119000,HX5 0LZ,T,N,F,123,,Langdale Street,,Elland
+2023-08-16,200000,HX5 0EG,T,N,F,51,,Newcombe Street,,Elland
+2023-08-15,190000,HX5 9HZ,T,N,L,23,,Park Road,,Elland
+2023-08-15,240000,HX5 9AY,D,N,F,40,,Caldercroft,,Elland
+2023-08-11,140000,HX5 9EU,F,N,L,Heathfield Grange,Apartment 6,Elland Lane,,Elland
+2023-08-10,74000,HX5 0JD,T,N,F,61,,Beech Street,,Elland
+2023-08-07,145000,HX5 9QD,T,N,F,1A,,Sugdens Terrace,,Elland
+2023-08-07,130000,HX5 0JH,T,N,L,The Lees,,Elizabeth Street,,Elland
+2023-08-04,295000,HX5 9PN,S,N,F,14,,Thirlmere Avenue,,Elland
+2023-08-04,132000,HX5 0NA,T,N,F,1,,Parkfield Avenue,,Elland
+2023-08-04,132500,HX5 0DE,T,N,F,20,,Boxhall Road,,Elland
+2023-08-01,325000,HX5 0QU,D,N,F,8,,Sycamore Drive,,Elland
+2023-07-29,130000,HX5 9GY,F,N,L,Valley Mill,Apartment 131,Park Road,,Elland
+2023-07-28,165000,HX5 0LD,T,N,F,85,,Elizabeth Street,,Elland
+2023-07-24,260000,HX5 0LS,S,N,F,45,,Crestfield Crescent,,Elland
+2023-07-24,136000,HX5 0JL,S,N,F,39,,Langdale Street,,Elland
+2023-07-21,122000,HX5 9ED,T,N,F,29,,Turnpike Street,,Elland
+2023-07-14,212000,HX5 9EG,S,N,F,85,,Whitwell Green Lane,,Elland
+2023-07-14,100000,HX5 0AN,T,N,F,11,,Bedford Street,,Elland
+2023-07-11,290000,HX5 9HA,D,N,F,61,,Oliver Meadows,,Elland
+2023-07-10,273500,HX5 9EN,D,N,F,38,,Springfield Road,,Elland
+2023-07-07,280000,HX5 0QJ,T,N,F,2,,Napier Road,,Elland
+2023-07-03,178000,HX5 9HA,S,N,F,26,,Oliver Meadows,,Elland
+2023-06-30,200000,HX5 9AY,S,N,F,28,,Caldercroft,,Elland
+2023-06-28,135000,HX5 9ED,T,N,F,36,,Turnpike Street,,Elland
+2023-06-26,220000,HX5 9BU,S,N,F,1,,Norman Avenue,,Elland
+2023-06-16,92000,HX5 0HU,T,N,L,9,,Myrtle Road,,Elland
+2023-06-09,395000,HX5 0LL,D,N,L,1,,Kelvin Road,,Elland
+2023-06-08,179000,HX5 9GY,F,N,L,Valley Mill,Apartment 116,Park Road,,Elland
+2023-06-07,192500,HX5 0SP,T,N,F,5,,Highfield Grove,,Elland
+2023-06-01,410000,HX5 0JT,D,N,F,21,,Holly Bank,,Elland
+2023-05-31,210000,HX5 0LW,S,N,F,3,,Crestfield Drive,,Elland
+2023-05-31,97500,HX5 0JE,T,N,F,80,,Langdale Street,,Elland
+2023-05-26,250000,HX5 9PL,S,N,F,15,,Lower Edge Road,,Elland
+2023-05-23,225000,HX5 9GZ,F,N,L,Valley Mill,Apartment 507,Park Road,,Elland
+2023-05-12,109000,HX5 9EW,T,N,F,77,,Springfield Road,,Elland
+2023-05-12,115000,HX5 9ER,T,N,F,104,,Elland Lane,,Elland
+2023-05-12,235000,HX5 0PZ,S,N,F,1,,Victoria Crescent,,Elland
+2023-05-11,115000,HX5 0JH,T,N,L,Lynwood,,Elizabeth Street,,Elland
+2023-05-05,200000,HX5 9QB,T,N,F,5,,Church Lane,,Elland
+2023-04-28,72000,HX5 0JJ,T,N,F,32,,Oak Street,,Elland
+2023-04-21,222500,HX5 0HS,S,N,F,1,,South Lane Gardens,,Elland
+2023-04-17,400000,HX5 0QA,D,N,F,46,,Victoria Road,,Elland
+2023-04-17,78300,HX5 0HZ,T,N,F,9,,Rosebery Street,,Elland
+2023-04-14,275000,HX5 9HA,S,N,F,55,,Oliver Meadows,,Elland
+2023-04-14,84000,HX5 9EG,T,N,F,49,,Whitwell Green Lane,,Elland
+2023-04-14,197500,HX5 0EE,T,N,F,120,,Huddersfield Road,,Elland
+2023-04-06,138500,HX5 0HZ,S,N,F,19,,Rosebery Street,,Elland
+2023-03-30,107500,HX5 9BD,T,N,F,12,,Thorn View,,Elland
+2023-03-24,117000,HX5 9BE,T,N,F,7,,Lime Tree Avenue,,Elland
+2023-03-24,110000,HX5 0HU,T,N,L,13,,Myrtle Road,,Elland
+2023-03-20,192000,HX5 9GZ,F,N,L,Valley Mill,Apartment 407,Park Road,,Elland
+2023-03-20,136000,HX5 9BG,T,N,F,Park Dene,,Dewsbury Road,,Elland
+2023-03-20,130000,HX5 0HX,T,N,F,17,,Duke Street,,Elland
+2023-03-17,297500,HX5 9GZ,F,N,L,Valley Mill,Apartment 515,Park Road,,Elland
+2023-03-10,290000,HX5 9QA,T,N,F,Sugdens Yard,5,,,Elland
+2023-03-08,55350,HX5 0ND,T,N,F,136,,Catherine Street,,Elland
+2023-02-27,130000,HX5 0AG,T,N,F,11,,Gordon Street,,Elland
+2023-02-21,130000,HX5 0AG,T,N,F,7,,Gordon Street,,Elland
+2023-02-10,130500,HX5 0PF,T,N,L,26,,Dunce Park Close,,Elland
+2023-02-08,163000,HX5 9HZ,T,N,F,80,,Park Road,,Elland
+2023-01-31,171200,HX5 9BL,T,N,F,20,,Thomas Street,,Elland
+2023-01-27,228000,HX5 9QW,S,N,L,10,,Bramble Grove,,Elland
+2023-01-27,280000,HX5 0PE,D,N,F,9,,Woodman Avenue,,Elland
+2023-01-27,160000,HX5 0LS,S,N,F,34,,Crestfield Crescent,,Elland
+2023-01-27,298000,HX5 0LL,S,N,L,17,,Kelvin Road,,Elland
+2023-01-16,180000,HX5 0NL,T,N,L,7,,Waverley Road,,Elland
+2023-01-06,113500,HX5 0HU,T,N,F,25,,Myrtle Road,,Elland
+2023-01-05,390000,HX5 0QP,S,N,F,17,,Hammerstones Road,,Elland
+2022-12-21,170000,HX5 0DX,T,N,F,4,,Roundhill Gardens,,Elland
+2022-12-16,295000,HX5 0RU,S,N,F,16,,Northgate,,Elland
+2022-12-16,170000,HX5 0BB,T,N,F,75,,Westgate,,Elland
+2022-12-15,170000,HX5 0NW,T,N,F,20,,Bowood Road,,Elland
+2022-12-09,120000,HX5 9HS,T,N,L,11,,Plains Lane,,Elland
+2022-12-09,130000,HX5 9EE,T,N,F,14,,Whitwell Drive,,Elland
+2022-12-09,165000,HX5 9BT,T,N,F,7,,Norman Terrace,,Elland
+2022-12-09,360000,HX5 0QF,S,N,F,88,,Victoria Road,,Elland
+2022-12-08,125000,HX5 0LD,T,N,F,89,,Elizabeth Street,,Elland
+2022-12-05,217000,HX5 0LR,S,N,F,11,,Crestfield Road,,Elland
+2022-12-02,196000,HX5 0NP,T,N,L,8,,South Parade,,Elland
+2022-12-02,170000,HX5 0EQ,T,N,F,51,,Broad Lea,,Elland
+2022-11-30,270000,HX5 9PW,S,N,F,76,,Grasmere Drive,,Elland
+2022-11-30,220000,HX5 9PW,S,N,F,19,,Grasmere Drive,,Elland
+2022-11-30,355000,HX5 9ES,D,N,F,38,,Old Earth,,Elland
+2022-11-25,250000,HX5 9AY,D,N,F,64,,Caldercroft,,Elland
+2022-11-25,72000,HX5 0HB,T,N,F,5,,James Street,,Elland
+2022-11-24,161000,HX5 0AG,T,N,F,10,,Gordon Street,,Elland
+2022-11-21,200000,HX5 0LT,S,N,F,25,,Elsinore Avenue,,Elland
+2022-11-16,105000,HX5 0LG,T,N,L,22,,Savile Road,,Elland
+2022-11-15,300000,HX5 0QS,S,N,F,Hullen Edge Hall,Warehouse,Hullen Edge Lane,,Elland
+2022-11-15,180000,HX5 0BA,T,N,F,24,,Park Avenue,,Elland
+2022-11-11,175000,HX5 9BN,S,N,F,45,,Rosemount Avenue,,Elland
+2022-11-11,97000,HX5 0JF,T,N,F,18,,Charles Street,,Elland
+2022-11-11,115000,HX5 0AT,T,N,F,1,,Victoria Mews,,Elland
+2022-11-08,110000,HX5 9HZ,T,N,L,133,,Park Road,,Elland
+2022-11-04,225000,HX5 9AY,S,N,F,91,,Caldercroft,,Elland
+2022-10-31,132500,HX5 0HZ,S,N,F,19,,Rosebery Street,,Elland
+2022-10-28,165000,HX5 0SW,S,N,F,40,,Exley Lane,,Elland
+2022-10-28,185000,HX5 0NL,T,N,L,28,,Waverley Road,,Elland
+2022-10-28,200000,HX5 0AP,D,N,F,4,,Granville Street,,Elland
+2022-10-25,170000,HX5 9HZ,T,N,L,29,,Park Road,,Elland
+2022-10-24,270000,HX5 0SW,S,N,L,15,,Exley Lane,,Elland
+2022-10-21,140000,HX5 9EG,T,N,F,64,,Whitwell Green Lane,,Elland
+2022-10-21,400000,HX5 0QT,D,N,F,6,,Ringwood Edge,,Elland
+2022-10-19,115196,HX5 9PR,S,N,F,3,,Carlton Grove,,Elland
+2022-10-07,132500,HX5 0JL,S,N,F,26,,Langdale Street,,Elland
+2022-09-30,360000,HX5 9QN,D,N,F,4,,Ullswater Close,,Elland
+2022-09-30,239950,HX5 9PW,S,N,F,62,,Grasmere Drive,,Elland
+2022-09-30,88000,HX5 9AT,T,N,F,19,,Westbury Street,,Elland
+2022-09-30,165000,HX5 0EE,T,N,F,123,,Huddersfield Road,,Elland
+2022-09-29,155000,HX5 0QE,T,N,F,45,,Melrose Court,,Elland
+2022-09-26,131000,HX5 0AG,T,N,F,26,,Gordon Street,,Elland
+2022-09-22,180000,HX5 0NU,T,N,F,98,,Savile Road,,Elland
+2022-09-16,300000,HX5 9PL,S,N,F,10,,Lower Edge Road,,Elland
+2022-09-16,125000,HX5 9EG,T,N,F,61,,Whitwell Green Lane,,Elland
+2022-09-12,365000,HX5 0QH,S,N,F,1,,Greystone Avenue,,Elland
+2022-09-06,130000,HX5 9GY,F,N,L,Valley Mill,Apartment 134,Park Road,,Elland
+2022-09-02,154000,HX5 9HZ,T,N,L,27,,Park Road,,Elland
+2022-09-02,195000,HX5 0DX,S,N,F,12,,Roundhill Gardens,,Elland
+2022-08-30,125000,HX5 9EN,T,N,F,22,,Springfield Road,,Elland
+2022-08-26,255000,HX5 9PW,S,N,F,44,,Grasmere Drive,,Elland
+2022-08-26,125000,HX5 9AT,T,N,F,39,,Westbury Street,,Elland
+2022-08-26,210000,HX5 0PZ,S,N,F,3,,Victoria Crescent,,Elland
+2022-08-26,148000,HX5 0EZ,T,N,F,23,,Catherine Street,,Elland
+2022-08-25,140500,HX5 9ET,T,N,F,7,,Coniston Close,,Elland
+2022-08-24,500000,HX5 0QY,S,N,F,8,,Hullen Edge Road,,Elland
+2022-08-16,360000,HX5 0QF,S,N,F,88,,Victoria Road,,Elland
+2022-08-15,390000,HX5 0JT,D,N,F,47,,Holly Bank,,Elland
+2022-08-15,100000,HX5 0HU,T,N,F,10,,Myrtle Road,,Elland
+2022-08-10,725000,HX5 0QS,D,N,F,63,,Hullen Edge Lane,,Elland
+2022-08-08,84500,HX5 9AR,F,N,L,The Silk Mill,Apartment 32,Dewsbury Road,,Elland
+2022-08-02,165500,HX5 9HA,T,N,F,48,,Oliver Meadows,,Elland
+2022-08-02,161000,HX5 9AH,T,N,F,45,,Huddersfield Road,,Elland
+2022-07-25,205000,HX5 9GY,F,N,L,Valley Mill,Apartment 19,Park Road,,Elland
+2022-07-22,340000,HX5 9QJ,D,N,L,25,,Ennerdale Drive,,Elland
+2022-07-22,282000,HX5 0QL,S,N,F,2,,Linden Road,,Elland
+2022-07-20,230000,HX5 0QB,D,N,F,5,,Elsinore Avenue,,Elland
+2022-07-19,255000,HX5 9QH,S,N,L,10,,Bracken Way,,Elland
+2022-07-18,260000,HX5 9PN,S,N,F,30,,Thirlmere Avenue,,Elland
+2022-07-18,65000,HX5 9AG,F,N,L,Perseverance Mills,Apartment 31,Westbury Street,,Elland
+2022-07-18,120000,HX5 0AG,T,N,F,45,,Gordon Street,,Elland
+2022-07-15,225000,HX5 0SW,S,N,F,34,,Exley Lane,,Elland
+2022-07-15,290000,HX5 0RU,S,N,F,14,,Northgate,,Elland
+2022-07-15,190000,HX5 0DX,T,N,F,19,,Roundhill Gardens,,Elland
+2022-07-04,92000,HX5 9HZ,T,N,F,123,,Park Road,,Elland
+2022-06-30,323500,HX5 0QJ,S,N,F,"Napier House, 13",,Napier Road,,Elland
+2022-06-24,60000,HX5 0AN,T,N,F,5,,Bedford Street,,Elland
+2022-06-17,110000,HX5 9DT,T,N,F,Ryecroft,,Wistons Lane,,Elland
+2022-06-17,379895,HX5 0QY,S,N,F,22,,Hullen Edge Road,,Elland
+2022-06-14,128000,HX5 9HG,T,N,F,11,,Briggate,,Elland
+2022-05-31,180000,HX5 9EH,T,N,F,15,,Alexandra Crescent,,Elland
+2022-05-20,275500,HX5 0QP,S,N,F,7,,Hammerstones Road,,Elland
+2022-05-19,111000,HX5 0EW,T,N,F,Beech Court,4,Beech Street,,Elland
+2022-05-18,85000,HX5 9AA,T,N,F,69,,Huddersfield Road,,Elland
+2022-05-13,165000,HX5 0EE,T,N,F,165,,Huddersfield Road,,Elland
+2022-05-12,135000,HX5 0PA,T,N,F,30,,South Lane,,Elland
+2022-05-06,107500,HX5 9ED,T,N,F,21,,Turnpike Street,,Elland
+2022-04-29,190000,HX5 0SW,S,N,F,42,,Exley Lane,,Elland
+2022-04-29,240000,HX5 0LT,S,N,F,48,,Elsinore Avenue,,Elland
+2022-04-29,90000,HX5 0JD,T,N,F,57,,Beech Street,,Elland
+2022-04-26,215000,HX5 9GZ,F,N,L,Valley Mill,Apartment 512,Park Road,,Elland
+2022-04-26,84000,HX5 9DU,T,N,F,25,,Elland Lane,,Elland
+2022-04-21,205000,HX5 0EQ,T,N,L,39,,Broad Lea,,Elland
+2022-04-14,120000,HX5 9AT,T,N,F,35,,Westbury Street,,Elland
+2022-04-14,90000,HX5 0JJ,T,N,F,24,,Oak Street,,Elland
+2022-04-14,123000,HX5 0EW,T,N,F,Beech Court,5,Beech Street,,Elland
+2022-04-13,180000,HX5 9PR,S,N,F,20,,Carlton Grove,,Elland
+2022-04-13,68000,HX5 9AT,F,N,F,21,,Westbury Street,,Elland
+2022-04-11,83000,HX5 0AJ,T,N,F,9,,Ainley Street,,Elland
+2022-04-08,105000,HX5 9HZ,T,N,L,131,,Park Road,,Elland
+2022-04-08,155000,HX5 9GY,F,N,L,Valley Mill,Apartment 214,Park Road,,Elland
+2022-04-07,190000,HX5 0HS,S,N,F,12,,South Lane Gardens,,Elland
+2022-04-01,205000,HX5 9HZ,S,N,F,30,,Park Road,,Elland
+2022-04-01,185000,HX5 0LW,S,N,F,8,,Crestfield Drive,,Elland
+2022-04-01,205000,HX5 0LS,S,N,F,1,,Crestfield Crescent,,Elland
+2022-03-25,142000,HX5 0JB,T,N,F,85,,Catherine Street,,Elland
+2022-03-25,110500,HX5 0HU,T,N,L,38,,Myrtle Road,,Elland
+2022-03-23,172500,HX5 0BA,T,N,F,27,,Park Avenue,,Elland
+2022-03-21,390000,HX5 9QH,D,N,F,46,,Bracken Way,,Elland
+2022-03-17,310000,HX5 0TB,S,N,F,5,,Blackley Road,,Elland
+2022-03-11,170000,HX5 9EP,T,N,F,45,,Elland Lane,,Elland
+2022-03-11,375000,HX5 0QP,S,N,F,24,,Hammerstones Road,,Elland
+2022-03-04,250000,HX5 9EP,T,N,F,47,,Elland Lane,,Elland
+2022-03-04,130000,HX5 0HR,T,N,L,8,,The Crescent,,Elland
+2022-03-03,360000,HX5 0JT,D,N,F,51,,Holly Bank,,Elland
+2022-02-25,145000,HX5 0SW,S,N,L,15,,Exley Lane,,Elland
+2022-02-25,150000,HX5 0EE,T,N,F,117,,Huddersfield Road,,Elland
+2022-02-25,159000,HX5 0BA,T,N,F,26,,Park Avenue,,Elland
+2022-02-23,215000,HX5 9PW,S,N,F,39,,Grasmere Drive,,Elland
+2022-02-21,490000,HX5 0QF,S,N,F,122,,Victoria Road,,Elland
+2022-02-21,265000,HX5 0NP,T,N,L,44,,South Parade,,Elland
+2022-02-21,150000,HX5 0LA,T,N,F,19,,Savile Road,,Elland
+2022-02-18,158000,HX5 9BN,T,N,F,61,,Rosemount Avenue,,Elland
+2022-02-18,160000,HX5 0RU,T,N,F,5,,Northgate,,Elland
+2022-02-18,215000,HX5 0QL,S,N,F,3,,Linden Road,,Elland
+2022-02-18,118000,HX5 0LD,T,N,F,76,,Elizabeth Street,,Elland
+2022-02-18,89950,HX5 0JL,T,N,F,30,,Langdale Street,,Elland
+2022-02-14,145000,HX5 9ET,T,N,F,10,,Coniston Close,,Elland
+2022-02-11,58000,HX5 0JL,T,N,F,18,,Langdale Street,,Elland
+2022-02-04,215000,HX5 9PW,S,N,F,30,,Grasmere Drive,,Elland
+2022-02-01,125000,HX5 0NA,T,N,F,3,,Parkfield Avenue,,Elland
+2022-01-31,126000,HX5 0JA,T,N,F,27,,Catherine Crescent,,Elland
+2022-01-28,127660,HX5 9BE,T,N,F,13,,Lime Tree Avenue,,Elland
+2022-01-28,93750,HX5 0NJ,T,N,F,12,,Brooklyn Terrace,,Elland
+2022-01-26,165000,HX5 9BG,D,N,F,White Bungalow,,Dewsbury Road,,Elland
+2022-01-21,200500,HX5 9EG,S,N,F,81,,Whitwell Green Lane,,Elland
+2022-01-21,125000,HX5 9EE,T,N,F,24,,Whitwell Drive,,Elland
+2022-01-21,85000,HX5 0JD,T,N,F,63,,Beech Street,,Elland
+2022-01-14,215000,HX5 9AY,S,N,F,61,,Caldercroft,,Elland
+2022-01-10,210000,HX5 9AY,S,N,F,87,,Caldercroft,,Elland
+2022-01-07,143500,HX5 9AT,D,N,F,23,,Westbury Street,,Elland
+2022-01-06,180000,HX5 9GY,F,N,L,Valley Mill,Apartment 7,Park Road,,Elland
+2021-12-22,142500,HX5 9GY,F,N,L,Valley Mill,Apartment 211,Park Road,,Elland
+2021-12-17,102300,HX5 9ER,T,N,F,118,,Elland Lane,,Elland
+2021-12-17,125000,HX5 9BL,S,N,F,9,,Thomas Street,,Elland
+2021-12-16,157500,HX5 9GY,F,N,L,Valley Mill,Apartment 218,Park Road,,Elland
+2021-12-13,122500,HX5 9PQ,T,N,F,3,,Wilderness Road,Elland Upper Edge,Elland
+2021-12-13,117000,HX5 0NB,T,N,F,2,,Bath Street,,Elland
+2021-12-09,117500,HX5 0AN,T,N,F,9,,Bedford Street,,Elland
+2021-12-06,246500,HX5 9QW,S,N,L,10,,Bramble Grove,,Elland
+2021-12-03,225000,HX5 0NL,T,N,F,4,,Waverley Road,,Elland
+2021-12-02,120000,HX5 0JH,T,N,F,Franklyn,,Elizabeth Street,,Elland
+2021-12-02,108000,HX5 0HU,T,N,L,33,,Myrtle Road,,Elland
+2021-12-01,172500,HX5 0AZ,S,N,F,48,,Victoria Avenue,,Elland
+2021-11-30,160500,HX5 9BN,T,N,F,47,,Rosemount Avenue,,Elland
+2021-11-26,125000,HX5 0PA,T,N,F,56,,South Lane,,Elland
+2021-11-22,140000,HX5 0AN,T,N,F,4,,Bedford Street,,Elland
+2021-11-19,210000,HX5 0PX,T,N,L,Green Leigh,,Albert Street,,Elland
+2021-11-12,126500,HX5 9HZ,T,N,L,91,,Park Road,,Elland
+2021-11-12,130000,HX5 9HS,T,N,F,37,,Plains Lane,,Elland
+2021-11-12,220000,HX5 9GZ,F,N,L,Valley Mill,Apartment 501,Park Road,,Elland
+2021-11-12,219000,HX5 9ES,S,N,F,1,,Old Earth,,Elland
+2021-11-04,115000,HX5 0RU,T,N,L,1,,Northgate,,Elland
+2021-10-29,127500,HX5 0PL,F,N,L,Willow Court,Apartment 21,Victoria Road,,Elland
+2021-10-29,115000,HX5 0BB,T,N,F,26,,Westgate,,Elland
+2021-10-21,360000,HX5 0DS,D,N,F,4,,Kingsbrooke Drive,,Elland
+2021-10-20,220000,HX5 0EE,D,N,F,House Rear Of The Ingrams,,Huddersfield Road,,Elland
+2021-10-15,210000,HX5 0TF,T,N,F,34,,South Lane,Blackley,Elland
+2021-09-30,127000,HX5 9HZ,T,N,F,50,,Park Road,,Elland
+2021-09-30,158500,HX5 9GZ,F,N,L,Valley Mill,Apartment 435,Park Road,,Elland
+2021-09-30,155000,HX5 9BN,T,N,F,81,,Rosemount Avenue,,Elland
+2021-09-29,240000,HX5 9ES,S,N,F,41,,Old Earth,,Elland
+2021-09-24,275000,HX5 9QH,D,N,F,31,,Bracken Way,,Elland
+2021-09-24,220000,HX5 9AY,S,N,F,29,,Caldercroft,,Elland
+2021-09-24,90500,HX5 0ND,T,N,F,119,,Catherine Street,,Elland
+2021-09-24,150000,HX5 0LX,T,N,L,10,,Highfield Road,,Elland
+2021-09-23,58000,HX5 0DL,F,N,L,Talbot House,49,,,Elland
+2021-09-22,186000,HX5 9HZ,T,N,F,35,,Park Road,,Elland
+2021-09-20,98000,HX5 9DU,T,N,F,11,,Elland Lane,,Elland
+2021-09-20,88000,HX5 0JG,T,N,F,83,,Oak Street,,Elland
+2021-09-17,94500,HX5 0JJ,T,N,F,30,,Oak Street,,Elland
+2021-09-17,124000,HX5 0JB,T,N,F,91,,Catherine Street,,Elland
+2021-09-14,452000,HX5 0DS,D,N,F,37,,Kingsbrooke Drive,,Elland
+2021-09-13,125000,HX5 0JL,S,N,F,39,,Langdale Street,,Elland
+2021-09-10,215000,HX5 0PY,T,N,L,51,,Jepson Lane,,Elland
+2021-09-09,196000,HX5 9HA,S,N,F,19,,Oliver Meadows,,Elland
+2021-09-03,97000,HX5 0ND,T,N,F,137,,Catherine Street,,Elland
+2021-09-03,150000,HX5 0HQ,T,N,L,Taringa,,South Lane,,Elland
+2021-09-01,250000,HX5 0QL,S,N,F,15,,Linden Road,,Elland
+2021-08-31,189950,HX5 0NR,S,N,L,69,,South Parade,,Elland
+2021-08-31,168000,HX5 0NR,S,N,L,55,,South Parade,,Elland
+2021-08-31,152500,HX5 0DF,S,N,F,26,,Coronation Street,,Elland
+2021-08-27,100000,HX5 0RY,T,N,F,17,,Saddleworth Road,,Elland
+2021-08-27,520000,HX5 0QF,D,N,F,84,,Victoria Road,,Elland
+2021-08-27,230000,HX5 0QB,D,N,F,5,,Elsinore Avenue,,Elland
+2021-08-27,245364,HX5 0NR,S,N,F,47,,South Parade,,Elland
+2021-08-27,280000,HX5 0AR,S,N,F,6,,Pennine Avenue,,Elland
+2021-08-24,230000,HX5 0SW,T,N,F,55,,Exley Lane,,Elland
+2021-08-13,211500,HX5 0LN,S,N,F,3,,Crestfield Avenue,,Elland
+2021-08-12,160000,HX5 0LD,T,N,F,99,,Elizabeth Street,,Elland
+2021-08-05,140000,HX5 0HR,T,N,F,9,,The Crescent,,Elland
+2021-07-30,150000,HX5 9HA,S,N,F,12,,Oliver Meadows,,Elland
+2021-07-30,160000,HX5 9BU,T,N,F,14,,Norman Avenue,,Elland
+2021-07-30,113000,HX5 0EZ,T,N,F,32,,Catherine Street,,Elland
+2021-07-30,84500,HX5 0BE,F,N,L,Hartington Court,9,,,Elland
+2021-07-27,153500,HX5 0PA,S,N,F,66,,South Lane,,Elland
+2021-07-26,80000,HX5 0JL,T,N,F,58,,Langdale Street,,Elland
+2021-07-23,140000,HX5 0PA,S,N,F,68,,South Lane,,Elland
+2021-07-22,72000,HX5 9AG,F,N,L,Perseverance Mills,Apartment 25,Westbury Street,,Elland
+2021-07-21,248000,HX5 0SW,S,N,L,37,,Exley Lane,,Elland
+2021-07-16,190000,HX5 0NL,T,N,L,9,,Waverley Road,,Elland
+2021-07-16,195000,HX5 0DX,S,N,F,18,,Roundhill Gardens,,Elland
+2021-07-16,65000,HX5 0BE,F,N,L,1,,Hartington Court,,Elland
+2021-07-09,190000,HX5 0LW,S,N,F,15,,Crestfield Drive,,Elland
+2021-07-07,190000,HX5 9PW,S,N,F,14,,Grasmere Drive,,Elland
+2021-07-02,155000,HX5 9BN,T,N,F,31,,Rosemount Avenue,,Elland
+2021-07-02,92000,HX5 0JB,T,N,F,75,,Catherine Street,,Elland
+2021-06-30,349600,HX5 9QN,D,N,L,3,,Ullswater Close,,Elland
+2021-06-25,132500,HX5 9EH,T,N,F,53,,Alexandra Crescent,,Elland
+2021-06-25,170000,HX5 0NR,S,N,L,61,,South Parade,,Elland
+2021-06-25,89000,HX5 0HA,T,N,F,28,,Albion Street,,Elland
+2021-06-24,340000,HX5 0QL,S,N,F,8,,Linden Road,,Elland
+2021-06-24,602000,HX5 0QF,D,N,L,"Copley Dene, 82",,Victoria Road,,Elland
+2021-06-24,410000,HX5 0QF,S,N,F,97,,Victoria Road,,Elland
+2021-06-22,335000,HX5 0QA,D,N,F,67,,Victoria Road,,Elland
+2021-06-18,135000,HX5 9BD,T,N,F,18,,Thorn View,,Elland
+2021-06-18,190000,HX5 0NW,T,N,F,16,,Bowood Road,,Elland
+2021-06-18,115000,HX5 0NB,T,N,F,6,,Bath Street,,Elland
+2021-06-11,383000,HX5 0DR,D,N,F,12,,Hazelmoor Fold,,Elland
+2021-06-04,110000,HX5 0JH,T,N,F,Melvue,,Elizabeth Street,,Elland
+2021-06-01,210000,HX5 9ES,S,N,F,9,,Old Earth,,Elland
+2021-05-28,170000,HX5 0LS,S,N,F,32,,Crestfield Crescent,,Elland
+2021-05-26,115000,HX5 0AG,T,N,F,3,,Gordon Street,,Elland
+2021-05-21,95000,HX5 0ND,T,N,F,131,,Catherine Street,,Elland
+2021-05-20,470000,HX5 0DR,D,N,F,2,,Hazelmoor Fold,,Elland
+2021-05-17,125000,HX5 9HS,T,N,F,41,,Plains Lane,,Elland
+2021-05-14,390995,HX5 0QY,S,N,F,43,,Hullen Edge Road,,Elland
+2021-05-14,470000,HX5 0QY,D,N,F,34,,Hullen Edge Road,,Elland
+2021-05-14,116500,HX5 0EG,T,N,F,16,,Newcombe Street,,Elland
+2021-05-07,77500,HX5 9HZ,S,N,F,34,,Park Road,,Elland
+2021-04-30,215000,HX5 0QD,S,N,F,16,,Laurel Close,,Elland
+2021-04-30,150000,HX5 0HS,S,N,F,3,,South Lane Gardens,,Elland
+2021-04-29,170000,HX5 9HA,S,N,F,8,,Oliver Meadows,,Elland
+2021-04-27,125000,HX5 9HZ,T,N,F,11,,Park Road,,Elland
+2021-04-26,90000,HX5 0JB,T,N,F,85,,Catherine Street,,Elland
+2021-04-26,155000,HX5 0EG,T,N,F,41,,Newcombe Street,,Elland
+2021-04-23,114000,HX5 9PW,S,N,F,66,,Grasmere Drive,,Elland
+2021-04-23,155000,HX5 9HA,S,N,F,36,,Oliver Meadows,,Elland
+2021-04-23,169000,HX5 0NS,S,N,F,1,,Dene Close,,Elland
+2021-04-23,185000,HX5 0NR,S,N,L,69,,South Parade,,Elland
+2021-04-16,89000,HX5 9ED,T,N,F,17,,Turnpike Street,,Elland
+2021-04-16,172500,HX5 0BA,T,N,F,41,,Park Avenue,,Elland
+2021-04-12,240000,HX5 9PW,S,N,F,9,,Grasmere Drive,,Elland
+2021-04-09,215000,HX5 9EP,S,N,F,"Old Earth Cottage, 95",,Elland Lane,,Elland
+2021-04-08,232500,HX5 9HZ,T,N,L,33,,Park Road,,Elland
+2021-04-08,135000,HX5 9HZ,T,N,F,29,,Park Road,,Elland
+2021-04-08,135000,HX5 9HZ,T,N,L,29,,Park Road,,Elland
+2021-04-07,120000,HX5 0PL,F,N,L,Willow Court,Apartment 1,Victoria Road,,Elland
+2021-04-01,147000,HX5 9GZ,F,N,L,Valley Mill,Apartment 403,Park Road,,Elland
+2021-03-30,335000,HX5 0PH,D,N,F,3,,Maple Fold,,Elland
+2021-03-30,194000,HX5 0LA,T,N,L,Wayside,,Savile Road,,Elland
+2021-03-30,445000,HX5 0DS,D,N,F,5,,Kingsbrooke Drive,,Elland
+2021-03-19,290000,HX5 9JB,T,N,L,Ashgrove House,2 The Courtyard,Elland Road,,Elland
+2021-03-19,190000,HX5 9AY,D,N,F,38,,Caldercroft,,Elland
+2021-03-19,242500,HX5 0LN,S,N,F,21,,Crestfield Avenue,,Elland
+2021-03-19,330000,HX5 0DS,D,N,F,14,,Kingsbrooke Drive,,Elland
+2021-03-18,97000,HX5 0NB,T,N,F,10,,Bath Street,,Elland
+2021-03-18,340000,HX5 0DS,D,N,F,25,,Kingsbrooke Drive,,Elland
+2021-03-16,180000,HX5 9PW,S,N,F,33,,Grasmere Drive,,Elland
+2021-03-15,170000,HX5 0EG,T,N,F,40,,Newcombe Street,,Elland
+2021-03-12,155000,HX5 9GY,F,N,L,Valley Mill,Apartment 110,Park Road,,Elland
+2021-03-12,91950,HX5 0HU,T,N,F,18,,Myrtle Road,,Elland
+2021-03-05,235000,HX5 9QR,D,N,F,3,,High Bank Close,,Elland
+2021-03-05,425000,HX5 0PH,D,N,F,2,,Maple Fold,,Elland
+2021-03-02,180000,HX5 0LT,S,N,F,32,,Elsinore Avenue,,Elland
+2021-02-26,100000,HX5 9BN,T,N,F,65,,Rosemount Avenue,,Elland
+2021-02-26,65250,HX5 0NB,T,N,F,2,,Bath Street,,Elland
+2021-02-26,95000,HX5 0JL,S,N,F,45,,Langdale Street,,Elland
+2021-02-22,165000,HX5 9EU,F,N,L,Heathfield Grange,Apartment 5,Elland Lane,,Elland
+2021-02-22,97000,HX5 9ED,T,N,F,15,,Turnpike Street,,Elland
+2021-02-19,185000,HX5 9PU,S,N,F,10,,Lodge Avenue,,Elland
+2021-02-19,384000,HX5 0QY,D,N,F,45,,Hullen Edge Road,,Elland
+2021-02-19,200000,HX5 0LN,S,N,F,5,,Crestfield Avenue,,Elland
+2021-02-19,85000,HX5 0JJ,T,N,F,34,,Oak Street,,Elland
+2021-02-17,170000,HX5 0NR,S,N,L,61,,South Parade,,Elland
+2021-02-15,126000,HX5 0AG,T,N,F,30,,Gordon Street,,Elland
+2021-02-10,60000,HX5 0JH,T,N,F,31,,Elizabeth Street,,Elland
+2021-02-05,77500,HX5 0NB,T,N,F,1,,Bath Street,,Elland
+2021-02-05,102500,HX5 0AG,T,N,F,55,,Gordon Street,,Elland
+2021-02-03,90000,HX5 0HX,T,N,F,13,,Duke Street,,Elland
+2021-01-29,141500,HX5 9BN,T,N,F,5,,Rosemount Avenue,,Elland
+2021-01-29,122000,HX5 0HZ,S,N,F,19,,Rosebery Street,,Elland
+2021-01-29,100000,HX5 0AT,T,N,F,2,,Victoria Mews,,Elland
+2021-01-26,357000,HX5 0PU,D,N,L,St Aubyns,,Victoria Road,,Elland
+2021-01-22,408000,HX5 0DS,D,N,F,19,,Kingsbrooke Drive,,Elland
+2021-01-19,136000,HX5 9JU,T,N,F,23,,Dewsbury Road,,Elland
+2021-01-19,125000,HX5 9AT,T,N,F,16,,Westbury Street,,Elland
+2021-01-19,85250,HX5 0HX,T,N,F,18,,Duke Street,,Elland
+2021-01-15,95000,HX5 0AG,T,N,F,11,,Gordon Street,,Elland
+2021-01-12,575000,HX5 0QY,D,N,F,10B,,Hullen Edge Road,,Elland
+2021-01-07,130000,HX5 0PA,T,N,F,31,,South Lane,,Elland
+2021-01-06,150000,HX5 0BA,T,N,F,35,,Park Avenue,,Elland

@@ -1,0 +1,2341 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-21,465000,DY6 7BE,D,N,F,30,,Pullman Drive,,Kingswinford
+2026-08-19,265100,DY6 8SR,S,N,F,186,,Blenheim Road,,Kingswinford
+2026-08-17,396500,DY6 8DT,D,N,F,3,,Ambleside Way,,Kingswinford
+2026-08-14,280000,DY6 9DP,D,N,F,3,,Thanet Close,,Kingswinford
+2026-08-14,232000,DY6 8LU,S,N,F,46,,Burrows Road,,Kingswinford
+2026-08-14,207500,DY6 8EG,T,N,F,103,,Greenfields Road,,Kingswinford
+2026-08-12,433500,DY6 8AN,D,N,F,55,,Windermere Drive,,Kingswinford
+2026-08-11,305000,DY6 8QA,D,N,F,7,,Beaulieu Avenue,,Kingswinford
+2026-08-11,232000,DY6 8NZ,S,N,L,32,,Tiverton Close,,Kingswinford
+2026-08-10,400000,DY6 9SN,S,N,F,194,,Mount Pleasant,,Kingswinford
+2026-08-07,300000,DY6 8SJ,S,N,F,62,,Oregon Close,,Kingswinford
+2026-08-07,225000,DY6 8DP,S,N,F,81,,Standhills Road,,Kingswinford
+2026-08-07,190000,DY6 7QF,T,N,F,32,,Cottage Street,,Kingswinford
+2026-07-31,185000,DY6 8HL,S,N,F,38,,The Portway,,Kingswinford
+2026-07-31,360000,DY6 7LF,D,N,F,25,,Hinsford Close,,Kingswinford
+2026-07-31,220000,DY6 0LG,S,N,F,72,,Forge Lane,,Kingswinford
+2026-07-29,337000,DY6 0NA,S,N,F,15A,,Albert Street,Wall Heath,Kingswinford
+2026-07-27,475000,DY6 9RE,D,N,F,57,,Ridge Road,,Kingswinford
+2026-07-27,430000,DY6 9QL,D,N,F,13,,Summercourt Drive,,Kingswinford
+2026-07-24,427500,DY6 9PA,D,N,F,11,,Cedars Avenue,,Kingswinford
+2026-07-24,235000,DY6 9BP,S,N,F,27,,Dubarry Avenue,,Kingswinford
+2026-07-24,250000,DY6 8RG,S,N,F,12,,Marley Road,,Kingswinford
+2026-07-10,255000,DY6 9PW,T,N,F,4,,Barnett Close,,Kingswinford
+2026-07-10,300000,DY6 8JG,D,N,F,9,,Wellington Close,,Kingswinford
+2026-07-10,208000,DY6 0LA,T,N,F,14,,Blaze Hill Road,Wall Heath,Kingswinford
+2026-07-10,415000,DY6 0JT,D,N,F,55,,Enville Road,Wall Heath,Kingswinford
+2026-07-08,515000,DY6 9DB,D,N,F,2,,Meadfoot Drive,,Kingswinford
+2026-07-08,202000,DY6 8EZ,S,N,F,41,,Hazel Road,,Kingswinford
+2026-07-08,410000,DY6 0AJ,D,N,F,1,,Wainwright Close,,Kingswinford
+2026-07-07,231750,DY6 9TG,T,N,F,7,,Mount Pleasant,,Kingswinford
+2026-07-07,260000,DY6 9ET,S,N,F,15,,Fellows Avenue,Wall Heath,Kingswinford
+2026-07-03,215000,DY6 8TA,S,N,F,291,,Albermarle Road,,Kingswinford
+2026-07-03,285000,DY6 8SJ,S,N,F,138,,Oregon Close,,Kingswinford
+2026-07-03,285000,DY6 8PF,S,N,F,9,,Madeley Road,,Kingswinford
+2026-07-01,388000,DY6 8AN,D,N,F,30,,Windermere Drive,,Kingswinford
+2026-06-30,320000,DY6 7RY,D,N,L,57,,Monteagle Drive,,Kingswinford
+2026-06-29,280000,DY6 8ND,S,N,F,10,,Bartic Avenue,,Kingswinford
+2026-06-29,272000,DY6 8LN,S,N,F,5,,Kendall Rise,,Kingswinford
+2026-06-29,425000,DY6 8HY,D,N,F,7,,Newfield Drive,,Kingswinford
+2026-06-27,260000,DY6 8NZ,S,N,F,58,,Tiverton Close,,Kingswinford
+2026-06-26,340000,DY6 9DU,D,N,F,9,,Frayne Avenue,,Kingswinford
+2026-06-26,310000,DY6 9BA,S,N,F,5,,Foundry Road,Wall Heath,Kingswinford
+2026-06-26,75000,DY6 7DB,T,N,L,19,,Weighbridge Crescent,,Kingswinford
+2026-06-22,330000,DY6 9DU,D,N,F,6,,Frayne Avenue,,Kingswinford
+2026-06-19,240000,DY6 8TT,S,N,F,242,,Bromley Lane,,Kingswinford
+2026-06-12,397500,DY6 9TE,D,N,F,73,,Kingswood Road,,Kingswinford
+2026-06-12,258000,DY6 8PQ,S,N,F,60,,Rangeways Road,,Kingswinford
+2026-06-11,425000,DY6 9QN,D,N,F,8,,White Oak Drive,,Kingswinford
+2026-06-11,335000,DY6 8BA,D,N,F,2,,Prosper Meadow,,Kingswinford
+2026-06-11,350000,DY6 7NF,D,N,F,28,,Herringbone Way,,Kingswinford
+2026-06-05,335000,DY6 9RX,S,N,F,10,,Kingsley Road,,Kingswinford
+2026-06-04,325000,DY6 9LR,D,N,F,29,,Broad Street,,Kingswinford
+2026-06-04,325000,DY6 8TA,D,N,F,30,,Albermarle Road,,Kingswinford
+2026-05-29,155000,DY6 8HR,F,N,L,34,,Surrey Drive,,Kingswinford
+2026-05-27,345000,DY6 9RH,S,N,F,7,,Essex Avenue,,Kingswinford
+2026-05-27,290000,DY6 7DT,D,N,L,62,,Balfour Road,,Kingswinford
+2026-05-22,415000,DY6 8XR,D,N,F,6,,Meadowsweet Way,,Kingswinford
+2026-05-22,250000,DY6 8EE,S,N,F,35,,Rowan Rise,,Kingswinford
+2026-05-22,57500,DY6 8BF,F,N,L,"Larch House, 241",Apartment 27,High Street,,Kingswinford
+2026-05-22,57500,DY6 8BF,F,N,L,"Larch House, 241",Apartment 59,High Street,,Kingswinford
+2026-05-22,90000,DY6 7RP,F,N,L,22,,Digby Road,,Kingswinford
+2026-05-22,256000,DY6 0JS,S,N,F,161,,Albion Street,Wall Heath,Kingswinford
+2026-05-19,193000,DY6 8EW,S,N,F,38,,Greenfields Road,,Kingswinford
+2026-05-18,281000,DY6 8QJ,S,N,F,13,,Randall Close,,Kingswinford
+2026-05-15,525000,DY6 7HY,D,N,F,29,,Wolverhampton Road,,Kingswinford
+2026-05-12,425000,DY6 9EA,D,N,F,33,,Buckingham Grove,,Kingswinford
+2026-05-11,155000,DY6 8HR,F,N,L,26,,Surrey Drive,,Kingswinford
+2026-05-08,335000,DY6 9AD,S,N,F,16,,Grove Park,Wall Heath,Kingswinford
+2026-05-08,285000,DY6 7LW,D,N,F,5,,Taper Close,,Kingswinford
+2026-05-01,350000,DY6 8XS,D,N,F,16,,Ibis Gardens,,Kingswinford
+2026-05-01,240000,DY6 8SN,S,N,L,42,,Veronica Road,,Kingswinford
+2026-05-01,211000,DY6 8DN,T,N,F,4,,Standhills Road,,Kingswinford
+2026-04-30,240000,DY6 8LZ,S,N,F,16,,Elmhurst Drive,,Kingswinford
+2026-04-30,272500,DY6 8JR,S,N,F,166,,Standhills Road,,Kingswinford
+2026-04-27,150000,DY6 8JD,T,N,F,106,,Lesley Drive,,Kingswinford
+2026-04-24,196000,DY6 8HS,T,N,F,22,,Southern Close,,Kingswinford
+2026-04-22,287000,DY6 9PT,S,N,F,40,,Glynne Avenue,,Kingswinford
+2026-04-20,480000,DY6 9TN,D,N,F,84,,Celandine Close,,Kingswinford
+2026-04-17,280000,DY6 8LF,T,N,F,9,,Fairview Crescent,,Kingswinford
+2026-04-17,300000,DY6 8EN,S,N,F,4A,,Greenfields Road,,Kingswinford
+2026-04-17,260000,DY6 8AH,S,N,F,3,,Orchard Court,,Kingswinford
+2026-04-17,210000,DY6 7BE,S,N,F,11,,Pullman Drive,,Kingswinford
+2026-04-17,325000,DY6 0ER,S,N,F,39,,Heathbrook Avenue,Wall Heath,Kingswinford
+2026-04-16,538000,DY6 9SH,D,N,F,78,,Mount Pleasant,,Kingswinford
+2026-04-16,310000,DY6 0NW,T,N,F,8,,Lyndon Grove,,Kingswinford
+2026-04-15,365000,DY6 9DZ,D,N,F,21,,Prestwick Road,,Kingswinford
+2026-04-10,375000,DY6 7RE,D,N,L,23,,Ambrose Crescent,,Kingswinford
+2026-04-10,325000,DY6 0HP,T,N,F,33,,Holcroft Road,,Kingswinford
+2026-04-08,337500,DY6 9RT,S,N,F,90,,Kingsley Road,,Kingswinford
+2026-04-07,277500,DY6 7NB,S,N,F,8,,Flemish Gardens,,Kingswinford
+2026-04-02,183500,DY6 8NG,T,N,F,58,,Ragees Road,,Kingswinford
+2026-04-02,145000,DY6 8LJ,S,N,F,19,,Astor Road,,Kingswinford
+2026-04-02,242000,DY6 8EX,S,N,F,28,,Beech Road,,Kingswinford
+2026-04-02,150000,DY6 8AA,T,N,F,701,,High Street,,Kingswinford
+2026-03-31,230000,DY6 0LB,T,N,F,46,,Blaze Hill Road,Wall Heath,Kingswinford
+2026-03-30,320000,DY6 9EP,D,N,F,9,,Ross Drive,,Kingswinford
+2026-03-30,207000,DY6 8PY,S,N,F,15,,Ranleigh Avenue,,Kingswinford
+2026-03-27,220000,DY6 8UD,S,N,F,11,,Dingle Road,,Kingswinford
+2026-03-27,240000,DY6 8TS,S,N,F,210,,Bromley Lane,,Kingswinford
+2026-03-27,217500,DY6 8RJ,S,N,F,85,,Lerryn Close,,Kingswinford
+2026-03-27,201000,DY6 0JU,T,N,F,19,,Chapel Street,Wall Heath,Kingswinford
+2026-03-27,195000,DY6 0JU,S,N,F,15,,Chapel Street,Wall Heath,Kingswinford
+2026-03-26,355000,DY6 7AZ,D,N,F,2,,Field Sidings Way,,Kingswinford
+2026-03-23,145000,DY6 7RT,F,N,L,3,,Keyes Drive,,Kingswinford
+2026-03-20,317500,DY6 9RU,S,N,F,99,,Kingsley Road,,Kingswinford
+2026-03-20,775000,DY6 9NT,D,N,F,Kinnett,,Stream Road,,Kingswinford
+2026-03-20,285000,DY6 9LT,S,N,F,87,,Oak Street,,Kingswinford
+2026-03-20,235000,DY6 8EG,T,N,F,92,,Greenfields Road,,Kingswinford
+2026-03-20,287000,DY6 7AR,D,N,F,53,,Field Sidings Way,,Kingswinford
+2026-03-19,280000,DY6 8AZ,D,N,F,3,,Albany Grove,,Kingswinford
+2026-03-13,280000,DY6 9HB,D,N,F,17,,Casewell Road,,Kingswinford
+2026-03-13,255000,DY6 8TA,S,N,F,176,,Albermarle Road,,Kingswinford
+2026-03-13,179000,DY6 8EB,T,N,F,67,,Rowan Rise,,Kingswinford
+2026-03-12,245000,DY6 8HL,S,N,F,67,,The Portway,,Kingswinford
+2026-03-11,250000,DY6 8TT,S,N,F,256,,Bromley Lane,,Kingswinford
+2026-03-09,385000,DY6 9ST,D,N,F,91A,,Mount Pleasant,,Kingswinford
+2026-03-06,298000,DY6 9AD,S,N,F,9,,Grove Park,Wall Heath,Kingswinford
+2026-03-02,178000,DY6 7QF,S,N,F,28,,Cottage Street,,Kingswinford
+2026-03-02,288000,DY6 7BE,D,N,F,37,,Pullman Drive,,Kingswinford
+2026-02-27,325000,DY6 9HU,S,N,F,24,,Moss Grove,,Kingswinford
+2026-02-27,213000,DY6 8PE,S,N,F,7,,Sandhurst Road,,Kingswinford
+2026-02-27,330000,DY6 0HP,S,N,F,22,,Holcroft Road,,Kingswinford
+2026-02-26,270000,DY6 9RP,S,N,F,142,,Kingsley Road,,Kingswinford
+2026-02-26,435000,DY6 0HL,D,N,F,12,,Beachwood Avenue,Wall Heath,Kingswinford
+2026-02-23,460000,DY6 9PN,D,N,F,136C,,Barnett Lane,,Kingswinford
+2026-02-23,277000,DY6 7RR,S,N,L,7,,Jay Road,,Kingswinford
+2026-02-20,270000,DY6 7LU,S,N,F,7,,Bobeche Place,,Kingswinford
+2026-02-20,415000,DY6 7BE,D,N,F,28,,Pullman Drive,,Kingswinford
+2026-02-20,330000,DY6 0LN,S,N,F,69,,Blaze Park,Wall Heath,Kingswinford
+2026-02-19,270800,DY6 9HB,S,N,F,22,,Casewell Road,,Kingswinford
+2026-02-19,287500,DY6 9EY,S,N,F,20,,Barton Lane,,Kingswinford
+2026-02-18,655000,DY6 0DW,D,N,F,6,,Ostler Close,,Kingswinford
+2026-02-17,227500,DY6 7AQ,T,N,F,17,,Queen Street,,Kingswinford
+2026-02-13,230000,DY6 9SH,S,N,F,120,,Mount Pleasant,,Kingswinford
+2026-02-13,240000,DY6 7HL,S,N,F,13,,Courtland Road,,Kingswinford
+2026-02-13,140000,DY6 7AA,F,N,L,South Down Court,Flat 1,Penzer Street,,Kingswinford
+2026-02-13,462500,DY6 7AA,D,N,F,40,,Penzer Street,,Kingswinford
+2026-02-13,445000,DY6 0JB,D,N,F,60,,Maidensbridge Road,Wall Heath,Kingswinford
+2026-02-12,110000,DY6 9LT,F,N,L,96,,Oak Street,,Kingswinford
+2026-02-11,507000,DY6 9TU,D,N,F,3,,Cypress Gardens,,Kingswinford
+2026-02-10,225000,DY6 8LB,S,N,F,18,,The Rise,,Kingswinford
+2026-02-10,198500,DY6 8EH,S,N,F,29,,Laburnum Road,,Kingswinford
+2026-02-06,210000,DY6 9SX,S,N,F,28,,Ashley Close,,Kingswinford
+2026-02-06,125000,DY6 8LJ,D,N,F,10,,Astor Road,,Kingswinford
+2026-01-30,230000,DY6 7SB,S,N,L,1,,Rokewood Close,,Kingswinford
+2026-01-30,252000,DY6 7QH,S,N,F,2A,,Green Lane,,Kingswinford
+2026-01-30,265000,DY6 0HT,S,N,F,142,,Beachcroft Road,,Kingswinford
+2026-01-29,212000,DY6 8LA,S,N,F,123,,Standhills Road,,Kingswinford
+2026-01-29,270000,DY6 0JH,S,N,F,124,,Brook Street,Wall Heath,Kingswinford
+2026-01-23,265000,DY6 9TB,S,N,F,12,,Kingsdene Avenue,,Kingswinford
+2026-01-22,143000,DY6 7RU,F,N,L,27,,Monteagle Drive,,Kingswinford
+2026-01-19,250000,DY6 9SR,S,N,F,9,,Hilldene Road,,Kingswinford
+2026-01-16,305000,DY6 9PN,S,N,F,141,,Barnett Lane,,Kingswinford
+2026-01-16,235000,DY6 8DW,T,N,F,38,,Standhills Road,,Kingswinford
+2026-01-16,200000,DY6 8BG,T,N,F,3,,The Lych Gate,,Kingswinford
+2026-01-16,465000,DY6 0NA,D,N,F,5,,Albert Street,Wall Heath,Kingswinford
+2026-01-14,350000,DY6 9RJ,S,N,F,57,,Court Crescent,,Kingswinford
+2026-01-12,247500,DY6 7RP,S,N,L,17,,Digby Road,,Kingswinford
+2026-01-09,217500,DY6 8RF,S,N,F,5,,Wrens Avenue,,Kingswinford
+2026-01-09,320000,DY6 8NH,D,N,F,2,,Caterham Drive,,Kingswinford
+2026-01-09,250000,DY6 8LT,S,N,F,24,,Winford Avenue,,Kingswinford
+2025-12-22,130000,DY6 7AA,F,N,L,South Down Court,Flat 2,Penzer Street,,Kingswinford
+2025-12-19,325000,DY6 9UA,S,N,F,Joheda,,New Street,,Kingswinford
+2025-12-19,285000,DY6 8PP,D,N,L,12,,Belgrave Court,,Kingswinford
+2025-12-18,237500,DY6 9EY,T,N,F,36,,Barton Lane,,Kingswinford
+2025-12-18,235000,DY6 8PA,S,N,F,65,,Chelford Crescent,,Kingswinford
+2025-12-18,333000,DY6 8LR,D,N,F,98,,Bromley Lane,,Kingswinford
+2025-12-18,320000,DY6 7EQ,S,N,F,161,,Balfour Road,,Kingswinford
+2025-12-17,144950,DY6 9HG,F,N,L,69,,Murdoch Drive,,Kingswinford
+2025-12-17,305000,DY6 8HZ,D,N,F,64,,Markham Drive,,Kingswinford
+2025-12-16,330000,DY6 9DN,D,N,F,14,,Brinley Way,,Kingswinford
+2025-12-15,475000,DY6 9QL,D,N,F,33,,Summercourt Drive,,Kingswinford
+2025-12-15,450000,DY6 9EA,D,N,F,22,,Buckingham Grove,,Kingswinford
+2025-12-15,235000,DY6 8QP,S,N,F,22,,Camberley Road,,Kingswinford
+2025-12-15,325000,DY6 0LU,D,N,F,61,,Cross Street,Wall Heath,Kingswinford
+2025-12-15,230000,DY6 0LT,T,N,F,56,,Cross Street,Wall Heath,Kingswinford
+2025-12-12,262500,DY6 9PW,S,N,F,14,,Barnett Close,,Kingswinford
+2025-12-12,217000,DY6 9LX,T,N,F,8,,Park Street,,Kingswinford
+2025-12-12,270000,DY6 9HJ,T,N,F,74,,Murdoch Drive,,Kingswinford
+2025-12-12,242500,DY6 9ET,S,N,F,29,,Fellows Avenue,Wall Heath,Kingswinford
+2025-12-12,395000,DY6 0AJ,D,N,F,12,,Wainwright Close,,Kingswinford
+2025-12-10,215000,DY6 9SX,S,N,F,31,,Ashley Close,,Kingswinford
+2025-12-10,232500,DY6 8EE,T,N,F,34,,Rowan Rise,,Kingswinford
+2025-12-08,298000,DY6 8PF,T,N,F,1,,Madeley Road,,Kingswinford
+2025-12-05,299995,DY6 9PE,S,N,F,7,,Fairlawn Drive,,Kingswinford
+2025-12-05,300000,DY6 9BG,S,N,F,"Alderlea, 27",,Foundry Road,Wall Heath,Kingswinford
+2025-12-05,275000,DY6 8LT,D,N,F,2,,Winford Avenue,,Kingswinford
+2025-12-05,90000,DY6 7SB,F,N,L,2,,Rokewood Close,,Kingswinford
+2025-12-05,226000,DY6 7SB,S,N,F,15,,Rokewood Close,,Kingswinford
+2025-12-05,256000,DY6 0HB,T,N,F,24,,High Street,Wall Heath,Kingswinford
+2025-12-05,345000,DY6 0ET,T,N,F,10,,Brooklyn Grove,Wall Heath,Kingswinford
+2025-12-02,290000,DY6 9JF,S,N,F,The Nook,,Summerhill,,Kingswinford
+2025-12-02,285000,DY6 8SL,S,N,L,312,,Blenheim Road,,Kingswinford
+2025-11-28,335000,DY6 9HH,D,N,F,76,,Moss Grove,,Kingswinford
+2025-11-28,232500,DY6 8LT,D,N,F,4,,Winford Avenue,,Kingswinford
+2025-11-28,236500,DY6 7HT,T,N,L,43,,Stallings Lane,,Kingswinford
+2025-11-26,335000,DY6 7QD,D,N,F,78,,Water Street,,Kingswinford
+2025-11-26,405000,DY6 7BE,D,N,F,1,,Pullman Drive,,Kingswinford
+2025-11-21,420000,DY6 9RD,D,N,F,30,,Ridge Road,,Kingswinford
+2025-11-21,210000,DY6 8DB,S,N,F,12,,Chestnut Grove,,Kingswinford
+2025-11-21,380000,DY6 8AA,T,N,F,691,,High Street,,Kingswinford
+2025-11-21,343000,DY6 7AN,D,N,F,5,,Coach Mews,,Kingswinford
+2025-11-19,183500,DY6 8PE,S,N,F,23,,Sandhurst Road,,Kingswinford
+2025-11-18,270000,DY6 7DL,S,N,L,19,,Almond Road,,Kingswinford
+2025-11-17,255000,DY6 9TD,S,N,F,9,,Hillwood Close,,Kingswinford
+2025-11-14,350000,DY6 9RY,S,N,F,13,,Kingsley Road,,Kingswinford
+2025-11-14,650000,DY6 9QL,D,N,F,45,,Summercourt Drive,,Kingswinford
+2025-11-14,330000,DY6 9DY,D,N,F,4,,Whitehall Road,,Kingswinford
+2025-11-14,290000,DY6 9AD,S,N,F,14,,Grove Park,Wall Heath,Kingswinford
+2025-11-14,235000,DY6 8RD,S,N,F,52,,Nanaimo Way,,Kingswinford
+2025-11-14,275000,DY6 7SB,S,N,F,5,,Rokewood Close,,Kingswinford
+2025-11-14,225000,DY6 7NG,T,N,F,10,,Parquet Grove,,Kingswinford
+2025-11-13,305000,DY6 9RH,S,N,F,12,,Essex Avenue,,Kingswinford
+2025-11-13,345000,DY6 9NR,S,N,F,33,,Compton Grove,,Kingswinford
+2025-11-13,190000,DY6 8UD,S,N,F,17,,Dingle Road,,Kingswinford
+2025-11-13,290000,DY6 8PP,D,N,L,1,,Belgrave Court,,Kingswinford
+2025-11-13,242500,DY6 8HR,T,N,F,17,,Surrey Drive,,Kingswinford
+2025-11-13,265000,DY6 8EA,S,N,F,81,,Rowan Rise,,Kingswinford
+2025-11-10,300000,DY6 8PL,S,N,F,13,,Silva Avenue,,Kingswinford
+2025-11-10,127500,DY6 8NT,F,N,L,65A,,Rangeways Road,,Kingswinford
+2025-11-10,222500,DY6 8LZ,S,N,F,38,,Elmhurst Drive,,Kingswinford
+2025-11-07,402500,DY6 9EE,D,N,F,5,,Regent Close,,Kingswinford
+2025-11-06,505000,DY6 9DD,D,N,F,25,,Maidendale Road,,Kingswinford
+2025-11-06,258600,DY6 8DJ,S,N,F,58,,Ash Crescent,,Kingswinford
+2025-11-04,522500,DY6 9QA,D,N,F,188,,Barnett Lane,,Kingswinford
+2025-11-04,275000,DY6 8QJ,D,N,F,18,,Randall Close,,Kingswinford
+2025-11-04,380000,DY6 0JL,D,N,F,55,,Victoria Street,Wall Heath,Kingswinford
+2025-10-31,265000,DY6 8PG,S,N,F,30,,Sunnymede Road,,Kingswinford
+2025-10-31,260000,DY6 8PD,T,N,F,5,,Tiverton Close,,Kingswinford
+2025-10-31,215000,DY6 8HY,S,N,F,6,,Newfield Drive,,Kingswinford
+2025-10-31,292000,DY6 8ER,S,N,F,8,,Inglewood Close,,Kingswinford
+2025-10-31,356000,DY6 8DS,D,N,F,23,,Braithwaite Drive,,Kingswinford
+2025-10-31,220000,DY6 8DL,S,N,F,31,,Larch Road,,Kingswinford
+2025-10-31,270000,DY6 8BG,D,N,F,2,,The Lych Gate,,Kingswinford
+2025-10-31,390000,DY6 8AY,D,N,F,6,,The Village,,Kingswinford
+2025-10-31,240000,DY6 7RG,T,N,F,2,,Flanders Drive,,Kingswinford
+2025-10-31,165000,DY6 7BF,F,N,L,63,,Halt Mews,,Kingswinford
+2025-10-31,139995,DY6 7AA,F,N,L,South Down Court,Flat 3,Penzer Street,,Kingswinford
+2025-10-31,327500,DY6 0JE,D,N,F,19,,Brook Street,Wall Heath,Kingswinford
+2025-10-30,232000,DY6 8DW,T,N,F,12,,Standhills Road,,Kingswinford
+2025-10-29,250000,DY6 7LQ,S,N,F,50,,Chandler Drive,,Kingswinford
+2025-10-28,236000,DY6 7RL,S,N,L,5,,Redruth Close,,Kingswinford
+2025-10-24,255000,DY6 9PH,S,N,F,22,,Greencroft,,Kingswinford
+2025-10-24,200000,DY6 8DG,S,N,F,94,,Larch Road,,Kingswinford
+2025-10-24,260000,DY6 0LT,S,N,F,41,,Cross Street,Wall Heath,Kingswinford
+2025-10-23,480000,DY6 9QH,D,N,F,218,,Cot Lane,,Kingswinford
+2025-10-23,325000,DY6 7QE,S,N,F,73,,Cottage Street,,Kingswinford
+2025-10-23,290000,DY6 7BE,D,N,F,39,,Pullman Drive,,Kingswinford
+2025-10-23,350000,DY6 7BA,D,N,F,1,,Great Western Way,,Kingswinford
+2025-10-22,320000,DY6 8XU,D,N,F,115,,Ploverdale Crescent,,Kingswinford
+2025-10-21,550000,DY6 0DW,D,N,F,1,,Ostler Close,,Kingswinford
+2025-10-21,375000,DY6 0DE,D,N,F,3,,Wheatridge Close,Wall Heath,Kingswinford
+2025-10-20,290000,DY6 9RH,S,N,L,8,,Essex Avenue,,Kingswinford
+2025-10-20,292500,DY6 7AR,D,N,F,65,,Field Sidings Way,,Kingswinford
+2025-10-17,230000,DY6 9DT,S,N,F,38,,Berkeley Drive,,Kingswinford
+2025-10-17,226500,DY6 8LW,S,N,F,102,,Granville Drive,,Kingswinford
+2025-10-16,333500,DY6 9DW,S,N,F,19,,Mayfair Drive,,Kingswinford
+2025-10-15,143000,DY6 8TD,T,N,F,221,,Bromley Lane,,Kingswinford
+2025-10-14,295000,DY6 9AR,S,N,F,32,,Summerfield Avenue,,Kingswinford
+2025-10-13,280000,DY6 0HT,S,N,F,140,,Beachcroft Road,,Kingswinford
+2025-10-10,340000,DY6 9RG,S,N,F,90,,Ridge Road,,Kingswinford
+2025-10-10,350000,DY6 8SA,D,N,L,92,,Vernier Avenue,,Kingswinford
+2025-10-08,210000,DY6 8DL,S,N,F,19,,Larch Road,,Kingswinford
+2025-10-08,425000,DY6 7RA,D,N,F,44,,Lambert Court,,Kingswinford
+2025-10-08,280000,DY6 7RA,S,N,F,14,,Lambert Court,,Kingswinford
+2025-10-07,87500,DY6 8BF,F,N,L,"Larch House, 241",Apartment 61,High Street,,Kingswinford
+2025-10-06,187500,DY6 8TB,T,N,F,271,,Bromley Lane,,Kingswinford
+2025-10-06,257500,DY6 8BS,S,N,F,42,,Dudley Road,,Kingswinford
+2025-10-03,324000,DY6 9TQ,D,N,F,9,,Pleasant Close,,Kingswinford
+2025-10-03,270000,DY6 9LR,T,N,F,18A,,Broad Street,,Kingswinford
+2025-10-03,355000,DY6 8JA,D,N,F,161,,Ulster Drive,,Kingswinford
+2025-10-03,450000,DY6 8HJ,D,N,F,11,,Oakfield Avenue,,Kingswinford
+2025-10-03,255000,DY6 7RZ,T,N,F,50,,Monteagle Drive,,Kingswinford
+2025-10-02,385000,DY6 9RG,T,N,F,82,,Ridge Road,,Kingswinford
+2025-10-02,310000,DY6 8JN,S,N,F,6,,Summer House Rise,,Kingswinford
+2025-10-02,400000,DY6 8HY,D,N,F,3,,Newfield Drive,,Kingswinford
+2025-10-01,110000,DY6 8HA,F,N,L,19A,,Beech Road,,Kingswinford
+2025-10-01,350000,DY6 0HS,T,N,F,182,,Beachcroft Road,,Kingswinford
+2025-09-30,650000,DY6 9QE,D,N,F,6,,Woodlawn Grove,,Kingswinford
+2025-09-30,600000,DY6 9PY,D,N,F,10,,Broadfield Close,,Kingswinford
+2025-09-30,275000,DY6 8NB,S,N,F,9,,Ragees Road,,Kingswinford
+2025-09-30,160000,DY6 7AR,F,N,L,89,,Field Sidings Way,,Kingswinford
+2025-09-29,290000,DY6 0HT,S,N,F,152,,Beachcroft Road,,Kingswinford
+2025-09-26,440000,DY6 9RE,D,N,F,61,,Ridge Road,,Kingswinford
+2025-09-26,270000,DY6 9ET,S,N,F,20,,Fellows Avenue,Wall Heath,Kingswinford
+2025-09-26,210000,DY6 9AH,S,N,F,31,,New Street,Wall Heath,Kingswinford
+2025-09-26,270000,DY6 7NJ,S,N,F,8,,Celtic Cross Drive,,Kingswinford
+2025-09-26,335000,DY6 0HP,S,N,F,28,,Holcroft Road,,Kingswinford
+2025-09-26,457500,DY6 0DT,D,N,F,17,,Clover Lane,Wall Heath,Kingswinford
+2025-09-23,270000,DY6 9RH,S,N,F,25,,Essex Avenue,,Kingswinford
+2025-09-22,255500,DY6 9BS,T,N,F,5,,Kingston Way,,Kingswinford
+2025-09-19,200000,DY6 8DG,S,N,F,86,,Larch Road,,Kingswinford
+2025-09-18,335000,DY6 9HH,D,N,F,72,,Moss Grove,,Kingswinford
+2025-09-18,260000,DY6 9BZ,S,N,L,1,,Coniston Drive,,Kingswinford
+2025-09-15,337500,DY6 8QA,T,N,F,4,,Beaulieu Avenue,,Kingswinford
+2025-09-12,565000,DY6 9QL,D,N,F,24,,Summercourt Drive,,Kingswinford
+2025-09-12,270000,DY6 9LH,S,N,F,80,,Market Street,,Kingswinford
+2025-09-12,225000,DY6 8SF,S,N,F,73,,Lydgate Road,,Kingswinford
+2025-09-12,314000,DY6 0ET,S,N,F,16,,Brooklyn Grove,Wall Heath,Kingswinford
+2025-09-10,270000,DY6 0HP,T,N,F,30,,Holcroft Road,,Kingswinford
+2025-09-08,502500,DY6 9SA,D,N,F,159,,Cot Lane,,Kingswinford
+2025-09-05,382500,DY6 9DT,S,N,F,34,,Berkeley Drive,,Kingswinford
+2025-09-05,235000,DY6 8LF,S,N,F,12,,Fairview Crescent,,Kingswinford
+2025-09-05,342500,DY6 8LB,D,N,F,11,,The Rise,,Kingswinford
+2025-09-05,285000,DY6 0JL,D,N,F,59,,Victoria Street,Wall Heath,Kingswinford
+2025-09-01,293500,DY6 7AA,S,N,F,42,,Penzer Street,,Kingswinford
+2025-08-29,280000,DY6 9ET,S,N,F,13,,Fellows Avenue,Wall Heath,Kingswinford
+2025-08-29,440000,DY6 9DH,D,N,F,2,,Maywood Close,,Kingswinford
+2025-08-29,420000,DY6 8JG,D,N,F,29,,Wellington Close,,Kingswinford
+2025-08-29,255000,DY6 8HL,S,N,F,56,,The Portway,,Kingswinford
+2025-08-29,195000,DY6 8DG,S,N,F,107,,Larch Road,,Kingswinford
+2025-08-29,275000,DY6 7NG,S,N,F,3,,Parquet Grove,,Kingswinford
+2025-08-29,88000,DY6 7NE,T,N,L,35,,Herringbone Way,,Kingswinford
+2025-08-29,222000,DY6 0LG,S,N,F,76,,Forge Lane,,Kingswinford
+2025-08-28,415000,DY6 9TN,D,N,F,110,,Celandine Close,,Kingswinford
+2025-08-28,208000,DY6 8ET,T,N,F,4,,Beech Road,,Kingswinford
+2025-08-28,165000,DY6 7AB,T,N,F,62,,Penzer Street,,Kingswinford
+2025-08-27,200000,DY6 9LS,D,N,F,45,,Oak Street,,Kingswinford
+2025-08-27,163500,DY6 8NG,T,N,F,46,,Ragees Road,,Kingswinford
+2025-08-27,163500,DY6 8NG,T,N,L,46,,Ragees Road,,Kingswinford
+2025-08-26,218000,DY6 0LA,T,N,F,22,,Blaze Hill Road,Wall Heath,Kingswinford
+2025-08-22,260000,DY6 9HR,S,N,L,48,,Moss Grove,,Kingswinford
+2025-08-22,250000,DY6 8RS,S,N,L,43,,Lingfield Way,,Kingswinford
+2025-08-22,303000,DY6 8HH,D,N,F,2,,Oakfield Avenue,,Kingswinford
+2025-08-22,337500,DY6 7HY,D,N,F,33,,Wolverhampton Road,,Kingswinford
+2025-08-21,395000,DY6 8XU,D,N,F,65,,Ploverdale Crescent,,Kingswinford
+2025-08-21,254000,DY6 8PL,S,N,F,24,,Silva Avenue,,Kingswinford
+2025-08-20,250000,DY6 9AH,T,N,F,33,,New Street,Wall Heath,Kingswinford
+2025-08-20,310000,DY6 7HL,T,N,F,17,,Courtland Road,,Kingswinford
+2025-08-15,183000,DY6 8UD,S,N,F,21,,Dingle Road,,Kingswinford
+2025-08-15,390000,DY6 8PZ,D,N,F,8,,Denleigh Road,,Kingswinford
+2025-08-15,250000,DY6 8EQ,S,N,F,1,,Sycamore Road,,Kingswinford
+2025-08-14,225000,DY6 9HH,T,N,F,84,,Moss Grove,,Kingswinford
+2025-08-14,275000,DY6 7NG,S,N,F,12,,Parquet Grove,,Kingswinford
+2025-08-12,290000,DY6 9PE,S,N,F,23,,Fairlawn Drive,,Kingswinford
+2025-08-11,425000,DY6 9EJ,D,N,F,19,,Ross Drive,,Kingswinford
+2025-08-11,104000,DY6 7AR,S,N,L,153,,Field Sidings Way,,Kingswinford
+2025-08-08,395000,DY6 9RS,T,N,F,163,,Kingsley Road,,Kingswinford
+2025-08-08,350000,DY6 9RH,S,N,F,2,,Essex Avenue,,Kingswinford
+2025-08-08,350000,DY6 8PL,D,N,F,2,,Silva Avenue,,Kingswinford
+2025-08-08,250000,DY6 8EH,S,N,F,6,,Laburnum Road,,Kingswinford
+2025-08-08,245000,DY6 7NB,S,N,F,10,,Flemish Gardens,,Kingswinford
+2025-08-08,285000,DY6 7HL,S,N,F,14,,Courtland Road,,Kingswinford
+2025-08-08,280000,DY6 7HJ,T,N,F,8,,Avondale Close,,Kingswinford
+2025-08-08,315000,DY6 7ED,D,N,F,5C,,Honeysuckle Avenue,,Kingswinford
+2025-08-08,290000,DY6 7DX,S,N,F,21,,Earlswood Road,,Kingswinford
+2025-08-06,235000,DY6 9SR,D,N,F,17,,Hilldene Road,,Kingswinford
+2025-08-06,320000,DY6 7AA,S,N,F,19,,Penzer Street,,Kingswinford
+2025-08-04,199950,DY6 8NQ,T,N,F,73,,Ragees Road,,Kingswinford
+2025-08-04,370000,DY6 7RH,D,N,F,18,,Grant Close,,Kingswinford
+2025-08-01,395000,DY6 9RG,D,N,F,117,,Ridge Road,,Kingswinford
+2025-08-01,239950,DY6 0LT,T,N,F,51C,,Cross Street,Wall Heath,Kingswinford
+2025-08-01,150000,DY6 0HN,S,N,F,25,,Beachcroft Road,,Kingswinford
+2025-07-31,220000,DY6 9RN,S,N,F,109,,Court Crescent,,Kingswinford
+2025-07-31,325000,DY6 9EW,T,N,F,6,,Corrin Grove,,Kingswinford
+2025-07-31,323000,DY6 7DE,D,Y,F,3,,Stone Coal Drive,,Kingswinford
+2025-07-29,206000,DY6 7HJ,S,N,F,4,,Avondale Close,,Kingswinford
+2025-07-25,365000,DY6 9NW,S,N,F,Erlesdene,,Stream Road,,Kingswinford
+2025-07-25,317000,DY6 8QD,T,N,F,112,,Bromley Lane,,Kingswinford
+2025-07-25,250000,DY6 8DP,S,N,F,72,,Standhills Road,,Kingswinford
+2025-07-25,157000,DY6 7AR,F,N,L,83,,Field Sidings Way,,Kingswinford
+2025-07-24,420000,DY6 9TN,D,N,F,44,,Celandine Close,,Kingswinford
+2025-07-24,330000,DY6 8NJ,D,N,F,10,,Westcott Close,,Kingswinford
+2025-07-24,310000,DY6 8LH,S,N,F,18,,Granville Drive,,Kingswinford
+2025-07-23,590000,DY6 0DZ,D,N,F,5,,Oasthouse Close,,Kingswinford
+2025-07-21,201000,DY6 0JU,S,N,F,10C,,Chapel Street,Wall Heath,Kingswinford
+2025-07-18,265000,DY6 8SW,D,N,F,79,,Aretha Close,,Kingswinford
+2025-07-18,220000,DY6 0LQ,T,N,F,20,,Forge Lane,,Kingswinford
+2025-07-14,210000,DY6 8EP,S,N,F,32,,Sycamore Road,,Kingswinford
+2025-07-11,356000,DY6 9RY,S,N,F,11,,Kingsley Road,,Kingswinford
+2025-07-11,365000,DY6 9BJ,S,N,F,4,,New Dudley Road,,Kingswinford
+2025-07-11,248750,DY6 8SE,D,N,F,75,,Metfield Croft,,Kingswinford
+2025-07-11,450000,DY6 0JH,D,N,F,104,,Brook Street,Wall Heath,Kingswinford
+2025-07-10,265000,DY6 7AR,S,N,F,51,,Field Sidings Way,,Kingswinford
+2025-07-09,212500,DY6 8HR,S,N,F,2,,Surrey Drive,,Kingswinford
+2025-07-04,345000,DY6 8BA,D,N,F,25,,Prosper Meadow,,Kingswinford
+2025-07-04,350000,DY6 7HY,D,N,F,21,,Wolverhampton Road,,Kingswinford
+2025-07-03,430000,DY6 9EA,D,N,F,35,,Buckingham Grove,,Kingswinford
+2025-07-03,270000,DY6 8QJ,D,N,F,5,,Randall Close,,Kingswinford
+2025-07-01,238500,DY6 8HY,S,N,F,52,,Newfield Drive,,Kingswinford
+2025-06-30,388000,DY6 9SA,D,N,F,153,,Cot Lane,,Kingswinford
+2025-06-27,315000,DY6 9PG,S,N,F,7,,Barnett Green,,Kingswinford
+2025-06-27,252000,DY6 9ET,S,N,F,26,,Fellows Avenue,Wall Heath,Kingswinford
+2025-06-27,425000,DY6 9DL,D,N,F,2A,,Brinley Way,,Kingswinford
+2025-06-27,210000,DY6 8SF,T,N,F,52,,Lydgate Road,,Kingswinford
+2025-06-27,167000,DY6 8RY,T,N,F,53,,Alder Road,,Kingswinford
+2025-06-27,290000,DY6 8PX,D,N,F,35,,Denleigh Road,,Kingswinford
+2025-06-27,185000,DY6 8LA,T,N,F,135,,Standhills Road,,Kingswinford
+2025-06-27,450000,DY6 8EN,T,N,F,2,,Greenfields Road,,Kingswinford
+2025-06-27,205000,DY6 8BG,T,N,F,4,,The Lych Gate,,Kingswinford
+2025-06-26,285000,DY6 8QH,S,N,F,14,,Rangeways Road,,Kingswinford
+2025-06-26,97000,DY6 8ET,F,N,L,1,,Beech Road,,Kingswinford
+2025-06-25,310000,DY6 8LX,S,N,F,5,,Burnham Close,,Kingswinford
+2025-06-20,290000,DY6 9PR,T,N,F,14,,Cavendish Close,,Kingswinford
+2025-06-20,210000,DY6 8LU,T,N,F,44,,Burrows Road,,Kingswinford
+2025-06-20,250000,DY6 8ES,S,N,F,1,,Beeches Close,,Kingswinford
+2025-06-20,180000,DY6 8EB,S,N,F,57,,Rowan Rise,,Kingswinford
+2025-06-19,327500,DY6 9BZ,S,N,F,28,,Coniston Drive,,Kingswinford
+2025-06-19,255000,DY6 7AN,T,N,F,11,,Coach Mews,,Kingswinford
+2025-06-19,335000,DY6 0HT,S,N,F,158,,Beachcroft Road,,Kingswinford
+2025-06-18,238500,DY6 8EW,T,N,F,43,,Greenfields Road,,Kingswinford
+2025-06-17,293000,DY6 9BY,D,N,F,24,,Mayfair Drive,,Kingswinford
+2025-06-16,420000,DY6 9TL,D,N,F,56,,Dene Avenue,,Kingswinford
+2025-06-16,285000,DY6 9SX,D,N,F,22,,Ashley Close,,Kingswinford
+2025-06-16,285000,DY6 9EX,S,N,F,7,,Barton Lane,,Kingswinford
+2025-06-13,178000,DY6 8TA,S,N,F,166,,Albermarle Road,,Kingswinford
+2025-06-13,180000,DY6 8RN,T,N,L,60,,Laxton Close,,Kingswinford
+2025-06-13,105000,DY6 8NG,T,N,L,64,,Ragees Road,,Kingswinford
+2025-06-13,382000,DY6 7NF,D,N,F,26,,Herringbone Way,,Kingswinford
+2025-06-13,221000,DY6 7BE,S,N,F,15,,Pullman Drive,,Kingswinford
+2025-06-12,358500,DY6 9EB,D,N,F,18,,Buckingham Grove,,Kingswinford
+2025-06-11,475000,DY6 9BQ,D,N,F,2,,Brenwood Close,,Kingswinford
+2025-06-09,272500,DY6 8LF,S,N,F,7,,Fairview Crescent,,Kingswinford
+2025-06-06,235000,DY6 9TD,S,N,F,6,,Hillwood Close,,Kingswinford
+2025-06-06,220000,DY6 8TS,S,N,F,212,,Bromley Lane,,Kingswinford
+2025-06-06,266250,DY6 8RQ,S,N,F,34,,Marley Road,,Kingswinford
+2025-06-06,325000,DY6 8HU,S,N,F,8,,Stream Park,,Kingswinford
+2025-06-06,200000,DY6 8EG,T,N,F,113,,Greenfields Road,,Kingswinford
+2025-06-06,325000,DY6 8BS,D,N,F,32,,Dudley Road,,Kingswinford
+2025-06-06,400000,DY6 0JH,S,N,F,92,,Brook Street,Wall Heath,Kingswinford
+2025-06-05,330000,DY6 9EH,D,N,F,28,,Grantley Crescent,,Kingswinford
+2025-06-05,266000,DY6 8RS,S,N,F,57,,Lingfield Way,,Kingswinford
+2025-06-04,339500,DY6 9NA,S,N,F,30,,Summer Street,,Kingswinford
+2025-06-04,240000,DY6 9BP,S,N,F,15,,Dubarry Avenue,,Kingswinford
+2025-06-03,240000,DY6 9PN,S,N,F,122,,Barnett Lane,,Kingswinford
+2025-06-03,330000,DY6 8LT,D,N,F,132,,Winford Avenue,,Kingswinford
+2025-06-02,365000,DY6 7ER,D,N,F,1,,Heathlands Close,,Kingswinford
+2025-06-02,265000,DY6 7DR,S,N,F,9,,Beech Tree Close,,Kingswinford
+2025-05-30,205000,DY6 9LR,T,N,F,34,,Broad Street,,Kingswinford
+2025-05-30,245000,DY6 9BW,S,N,F,10,,Beverley Drive,,Kingswinford
+2025-05-30,330000,DY6 8XQ,D,N,F,2,,Robin Close,,Kingswinford
+2025-05-30,260000,DY6 8SR,S,N,F,170,,Blenheim Road,,Kingswinford
+2025-05-30,295000,DY6 8SR,D,N,F,140,,Blenheim Road,,Kingswinford
+2025-05-30,235000,DY6 8RB,S,N,F,15,,Sunnymede Road,,Kingswinford
+2025-05-29,300000,DY6 9LH,S,N,F,82,,Market Street,,Kingswinford
+2025-05-29,312500,DY6 9HJ,S,N,F,22,,Murdoch Drive,,Kingswinford
+2025-05-27,425000,DY6 9TY,D,N,F,78,,Cot Lane,,Kingswinford
+2025-05-23,290000,DY6 9AT,S,N,F,19,,Brook Crescent,,Kingswinford
+2025-05-23,207500,DY6 8TY,S,N,F,41,,Nanaimo Way,,Kingswinford
+2025-05-23,365000,DY6 7NE,D,N,F,27,,Herringbone Way,,Kingswinford
+2025-05-22,280000,DY6 8SW,D,N,L,141,,Aretha Close,,Kingswinford
+2025-05-22,199950,DY6 8DL,S,N,F,73,,Larch Road,,Kingswinford
+2025-05-21,205000,DY6 8HB,T,N,F,39,,The Portway,,Kingswinford
+2025-05-19,220000,DY6 8DG,S,N,F,109,,Larch Road,,Kingswinford
+2025-05-19,270000,DY6 7LZ,S,N,F,3,,English Gardens,,Kingswinford
+2025-05-16,517500,DY6 9SN,D,N,F,188,,Mount Pleasant,,Kingswinford
+2025-05-16,325000,DY6 9LY,D,N,F,31,,Cross Street,,Kingswinford
+2025-05-15,265000,DY6 8JR,S,N,F,186,,Standhills Road,,Kingswinford
+2025-05-13,270000,DY6 9DB,D,N,L,20,,Meadfoot Drive,,Kingswinford
+2025-05-13,350000,DY6 7LF,D,N,F,16,,Hinsford Close,,Kingswinford
+2025-05-09,580000,DY6 9QJ,D,N,F,27,,Summercourt Square,,Kingswinford
+2025-05-09,140000,DY6 9HS,F,N,L,"Prestwood Court, 31",Flat 2,Moss Grove,,Kingswinford
+2025-05-09,560000,DY6 0HJ,D,N,F,2C,,Beachcroft Road,,Kingswinford
+2025-05-06,250000,DY6 8BG,S,N,F,1,,The Lych Gate,,Kingswinford
+2025-05-02,182500,DY6 9LX,S,N,F,7,,Park Street,,Kingswinford
+2025-05-02,233000,DY6 8PA,S,N,L,81,,Chelford Crescent,,Kingswinford
+2025-05-01,185000,DY6 8RR,T,N,F,64,,Leaford Way,,Kingswinford
+2025-04-30,300000,DY6 8ES,S,N,F,6,,Beeches Close,,Kingswinford
+2025-04-25,245000,DY6 9LX,T,N,F,7C,,Park Street,,Kingswinford
+2025-04-25,290000,DY6 0JY,D,N,F,50,,Windmill Grove,Wall Heath,Kingswinford
+2025-04-24,280000,DY6 9SS,S,N,F,141,,Mount Pleasant,,Kingswinford
+2025-04-24,225000,DY6 8HL,S,N,F,49,,The Portway,,Kingswinford
+2025-04-17,270000,DY6 9RY,S,N,F,9,,Kingsley Road,,Kingswinford
+2025-04-16,79000,DY6 8BF,F,N,L,"Larch House, 241",Apartment 30,High Street,,Kingswinford
+2025-04-14,370000,DY6 7BA,D,N,F,15,,Great Western Way,,Kingswinford
+2025-04-11,90000,DY6 8NG,F,N,L,66,,Ragees Road,,Kingswinford
+2025-04-11,268500,DY6 7LZ,S,N,F,1,,English Gardens,,Kingswinford
+2025-04-11,212000,DY6 7LQ,T,N,F,56,,Chandler Drive,,Kingswinford
+2025-04-08,242000,DY6 7HJ,T,N,F,25,,Avondale Close,,Kingswinford
+2025-04-08,450000,DY6 7ED,D,N,F,17,,Honeysuckle Avenue,,Kingswinford
+2025-04-04,237000,DY6 9SP,D,N,F,181,,Mount Pleasant,,Kingswinford
+2025-04-01,130000,DY6 9PD,S,N,F,35,,Stream Road,,Kingswinford
+2025-03-31,300000,DY6 9RU,S,N,F,101,,Kingsley Road,,Kingswinford
+2025-03-31,310000,DY6 9RL,S,N,F,84,,Court Crescent,,Kingswinford
+2025-03-31,310000,DY6 9RJ,T,N,L,21,,Court Crescent,,Kingswinford
+2025-03-31,377500,DY6 9AA,D,N,F,12,,Richmond Park,,Kingswinford
+2025-03-31,265000,DY6 8PF,S,N,F,21,,Madeley Road,,Kingswinford
+2025-03-31,375000,DY6 7HX,S,N,F,3,,Wolverhampton Road,,Kingswinford
+2025-03-31,240000,DY6 7HL,S,N,F,19,,Courtland Road,,Kingswinford
+2025-03-31,253000,DY6 7EQ,S,N,F,103,,Balfour Road,,Kingswinford
+2025-03-31,283000,DY6 0JG,S,N,F,84,,Brook Street,Wall Heath,Kingswinford
+2025-03-31,800000,DY6 0HF,D,N,F,15,,Holbeache Road,Wall Heath,Kingswinford
+2025-03-28,375000,DY6 9RL,T,N,F,82,,Court Crescent,,Kingswinford
+2025-03-28,475000,DY6 9EF,D,N,F,3,,Grantley Crescent,,Kingswinford
+2025-03-28,330000,DY6 9DU,D,N,F,2,,Frayne Avenue,,Kingswinford
+2025-03-28,275000,DY6 8SL,S,N,F,326,,Blenheim Road,,Kingswinford
+2025-03-28,180000,DY6 8RA,S,N,F,161,,Nanaimo Way,,Kingswinford
+2025-03-28,328000,DY6 8ES,S,N,F,7,,Beeches Close,,Kingswinford
+2025-03-28,360000,DY6 8BS,D,N,F,8,,Dudley Road,,Kingswinford
+2025-03-28,268500,DY6 7NB,S,N,F,8,,Flemish Gardens,,Kingswinford
+2025-03-28,306802,DY6 7DU,D,Y,F,1,,Brickworks Avenue,,Kingswinford
+2025-03-28,290000,DY6 7DH,D,N,F,1,,Balfour Road,,Kingswinford
+2025-03-28,323000,DY6 7DE,D,Y,F,5,,Stone Coal Drive,,Kingswinford
+2025-03-28,323000,DY6 7DE,D,Y,F,1,,Stone Coal Drive,,Kingswinford
+2025-03-28,159000,DY6 7AR,F,N,L,111,,Field Sidings Way,,Kingswinford
+2025-03-28,280000,DY6 0NB,S,N,F,36,,Cross Street,Wall Heath,Kingswinford
+2025-03-28,233000,DY6 0LG,S,N,F,62,,Forge Lane,,Kingswinford
+2025-03-28,610000,DY6 0JR,T,N,F,234,,Albion Street,Wall Heath,Kingswinford
+2025-03-27,420000,DY6 9TN,D,N,F,10,,Celandine Close,,Kingswinford
+2025-03-27,290000,DY6 8EG,T,N,F,79,,Greenfields Road,,Kingswinford
+2025-03-26,280000,DY6 7HD,D,N,F,10,,Woodthorne Walk,,Kingswinford
+2025-03-25,100000,DY6 7RA,S,N,F,8,,Lambert Court,,Kingswinford
+2025-03-24,380000,DY6 7AL,D,N,F,7,,The Crossing,,Kingswinford
+2025-03-21,300000,DY6 9EP,D,N,F,5,,Ross Drive,,Kingswinford
+2025-03-21,285000,DY6 8SY,D,N,F,65,,Allenby Close,,Kingswinford
+2025-03-21,325000,DY6 8JH,D,N,F,2,,Melbourne Close,,Kingswinford
+2025-03-21,235000,DY6 8HX,T,N,F,7,,Bromley Lane,,Kingswinford
+2025-03-21,229950,DY6 8HW,S,N,F,92,,The Portway,,Kingswinford
+2025-03-21,260000,DY6 7NJ,S,N,F,10,,Celtic Cross Drive,,Kingswinford
+2025-03-21,365000,DY6 0JL,S,N,F,53,,Victoria Street,Wall Heath,Kingswinford
+2025-03-21,550000,DY6 0JA,D,N,F,37,,Maidensbridge Road,Wall Heath,Kingswinford
+2025-03-21,410000,DY6 0DT,D,N,F,20,,Clover Lane,Wall Heath,Kingswinford
+2025-03-20,310000,DY6 7AR,D,N,F,67,,Field Sidings Way,,Kingswinford
+2025-03-19,225000,DY6 7HH,S,N,F,13,,Birchwood Walk,,Kingswinford
+2025-03-17,175000,DY6 8HN,S,N,F,2,,Portway Close,,Kingswinford
+2025-03-17,190000,DY6 8DG,S,N,F,103,,Larch Road,,Kingswinford
+2025-03-14,400000,DY6 9SN,D,N,F,"Woodmans Cottage, 186",,Mount Pleasant,,Kingswinford
+2025-03-14,310000,DY6 9RN,S,N,F,110,,Court Crescent,,Kingswinford
+2025-03-14,267500,DY6 9PH,S,N,F,5,,Greencroft,,Kingswinford
+2025-03-14,200000,DY6 9LN,T,N,F,88,,Market Street,,Kingswinford
+2025-03-14,265000,DY6 9HJ,T,N,F,36,,Murdoch Drive,,Kingswinford
+2025-03-14,260000,DY6 8SY,S,N,F,26,,Allenby Close,,Kingswinford
+2025-03-14,245000,DY6 8SE,S,N,F,42,,Metfield Croft,,Kingswinford
+2025-03-14,280000,DY6 7EE,D,N,F,12,,Hillcroft Road,,Kingswinford
+2025-03-14,302053,DY6 7DU,D,Y,F,2,,Brickworks Avenue,,Kingswinford
+2025-03-14,400000,DY6 0JE,S,N,F,20,,Brook Street,Wall Heath,Kingswinford
+2025-03-13,375000,DY6 9QN,D,N,F,2,,White Oak Drive,,Kingswinford
+2025-03-13,300000,DY6 9DN,D,N,F,3,,Brinley Way,,Kingswinford
+2025-03-13,195000,DY6 8SA,S,N,F,68,,Vernier Avenue,,Kingswinford
+2025-03-13,340000,DY6 8JH,S,N,F,9,,Melbourne Close,,Kingswinford
+2025-03-12,380000,DY6 7AL,D,N,F,12,,The Crossing,,Kingswinford
+2025-03-12,145000,DY6 0LG,S,N,F,29,,Forge Lane,,Kingswinford
+2025-03-12,453000,DY6 0HL,D,N,F,2,,Beachwood Avenue,Wall Heath,Kingswinford
+2025-03-12,475000,DY6 0HF,D,N,F,9,,Holbeache Road,Wall Heath,Kingswinford
+2025-03-10,297000,DY6 7LU,T,N,F,14,,Bobeche Place,,Kingswinford
+2025-03-10,280000,DY6 0JH,S,N,F,103,,Brook Street,Wall Heath,Kingswinford
+2025-03-07,50000,DY6 7RT,F,N,L,56,,Keyes Drive,,Kingswinford
+2025-03-06,238000,DY6 7DU,T,N,F,24,,Brickworks Avenue,,Kingswinford
+2025-03-05,380000,DY6 8JP,D,N,F,49,,Bromley Lane,,Kingswinford
+2025-03-05,190000,DY6 7QE,S,N,F,57,,Cottage Street,,Kingswinford
+2025-03-05,215000,DY6 7LZ,T,N,F,11,,English Gardens,,Kingswinford
+2025-03-04,515000,DY6 9XH,D,N,F,3,,Cheltenham Drive,,Kingswinford
+2025-03-04,265000,DY6 9DT,S,N,F,22,,Berkeley Drive,,Kingswinford
+2025-03-03,205000,DY6 8PJ,T,N,L,12,,Freeland Grove,,Kingswinford
+2025-03-03,280000,DY6 8JG,D,N,F,11,,Wellington Close,,Kingswinford
+2025-03-03,610000,DY6 0LG,D,N,F,49,,Forge Lane,,Kingswinford
+2025-02-28,97000,DY6 8RA,S,N,F,143,,Nanaimo Way,,Kingswinford
+2025-02-28,257500,DY6 8PD,S,N,F,15,,Tiverton Close,,Kingswinford
+2025-02-28,325000,DY6 8JP,S,N,F,Garway,,Bromley Lane,,Kingswinford
+2025-02-28,375000,DY6 7HY,D,N,F,29A,,Wolverhampton Road,,Kingswinford
+2025-02-28,375000,DY6 0ES,T,N,F,37,,Kidderminster Road,,Kingswinford
+2025-02-27,292000,DY6 9PT,S,N,F,42,,Glynne Avenue,,Kingswinford
+2025-02-27,420000,DY6 8JX,D,N,F,4,,The Knoll,,Kingswinford
+2025-02-21,285000,DY6 7RE,D,N,F,13,,Ambrose Crescent,,Kingswinford
+2025-02-21,330000,DY6 7QE,D,N,F,23,,Cottage Street,,Kingswinford
+2025-02-21,300000,DY6 0HR,S,N,F,16,,Claydon Road,,Kingswinford
+2025-02-20,215000,DY6 7HJ,S,N,F,23,,Avondale Close,,Kingswinford
+2025-02-19,205000,DY6 8RF,S,N,F,21,,Wrens Avenue,,Kingswinford
+2025-02-19,305000,DY6 8JG,D,N,F,15,,Wellington Close,,Kingswinford
+2025-02-18,235000,DY6 8RS,S,N,L,96,,Lingfield Way,,Kingswinford
+2025-02-17,285000,DY6 7DN,T,N,L,12,,Ashdale Close,,Kingswinford
+2025-02-17,155000,DY6 7BF,F,N,L,45,,Halt Mews,,Kingswinford
+2025-02-14,207000,DY6 8HR,T,N,F,39,,Surrey Drive,,Kingswinford
+2025-02-14,220000,DY6 7NJ,T,N,F,6,,Celtic Cross Drive,,Kingswinford
+2025-02-14,445000,DY6 0DT,D,N,F,26,,Clover Lane,Wall Heath,Kingswinford
+2025-02-13,300000,DY6 9RT,S,N,F,70,,Kingsley Road,,Kingswinford
+2025-02-13,350000,DY6 7LQ,D,N,F,30,,Chandler Drive,,Kingswinford
+2025-02-13,256000,DY6 7AL,T,N,F,24,,The Crossing,,Kingswinford
+2025-02-12,287500,DY6 9PG,S,N,F,1,,Barnett Green,,Kingswinford
+2025-02-12,415000,DY6 8JT,D,N,F,29,,The Knoll,,Kingswinford
+2025-02-07,262500,DY6 9RJ,S,N,F,23,,Court Crescent,,Kingswinford
+2025-02-07,247000,DY6 9HJ,S,N,F,50,,Murdoch Drive,,Kingswinford
+2025-02-07,217000,DY6 0JG,S,N,F,47,,Brook Street,Wall Heath,Kingswinford
+2025-02-07,358000,DY6 0JG,S,N,F,41,,Brook Street,Wall Heath,Kingswinford
+2025-02-07,427500,DY6 0HG,D,N,F,4,,Maidensbridge Road,Wall Heath,Kingswinford
+2025-02-06,283000,DY6 8PX,D,N,F,20,,Denleigh Road,,Kingswinford
+2025-02-05,230000,DY6 9LX,T,N,F,8B,,Park Street,,Kingswinford
+2025-02-05,258000,DY6 7EE,S,N,F,29,,Hillcroft Road,,Kingswinford
+2025-02-05,185000,DY6 0LB,T,N,F,63,,Blaze Hill Road,Wall Heath,Kingswinford
+2025-02-04,265000,DY6 9ST,S,N,F,95,,Mount Pleasant,,Kingswinford
+2025-02-04,320250,DY6 9BL,D,N,F,29,,Carnforth Close,,Kingswinford
+2025-02-04,427750,DY6 0JA,D,N,F,31,,Maidensbridge Road,Wall Heath,Kingswinford
+2025-02-04,449000,DY6 0DX,D,N,F,1,,Ploughmans Walk,,Kingswinford
+2025-01-31,640000,DY6 9XH,D,N,F,1,,Cheltenham Drive,,Kingswinford
+2025-01-31,375000,DY6 9RP,S,N,F,217,,Kingsley Road,,Kingswinford
+2025-01-31,307500,DY6 9RL,S,N,F,4,,Court Crescent,,Kingswinford
+2025-01-31,425000,DY6 9LP,D,N,F,The Bungalow,,Broad Street,,Kingswinford
+2025-01-31,322500,DY6 9DB,D,N,F,12,,Meadfoot Drive,,Kingswinford
+2025-01-31,410000,DY6 9BP,D,N,F,46,,Dubarry Avenue,,Kingswinford
+2025-01-31,369000,DY6 9AL,D,N,F,52,,Lynwood Avenue,,Kingswinford
+2025-01-31,210000,DY6 8EE,S,N,F,24,,Rowan Rise,,Kingswinford
+2025-01-31,340000,DY6 7DU,D,Y,F,21,,Brickworks Avenue,,Kingswinford
+2025-01-31,485000,DY6 0JB,D,N,F,42,,Maidensbridge Road,Wall Heath,Kingswinford
+2025-01-29,200000,DY6 8LE,S,N,F,2,,Rose Avenue,,Kingswinford
+2025-01-24,160000,DY6 8HW,S,N,F,93,,The Portway,,Kingswinford
+2025-01-22,249999,DY6 8SY,S,N,F,46,,Allenby Close,,Kingswinford
+2025-01-22,280000,DY6 8JA,S,N,F,83,,Ulster Drive,,Kingswinford
+2025-01-17,162500,DY6 8HR,T,N,F,12,,Surrey Drive,,Kingswinford
+2025-01-16,325000,DY6 9RB,S,N,F,35,,Ridge Road,,Kingswinford
+2025-01-16,240000,DY6 8ST,S,N,F,19,,Florida Way,,Kingswinford
+2025-01-16,232000,DY6 8HR,T,N,F,23,,Surrey Drive,,Kingswinford
+2025-01-15,237500,DY6 8LL,S,N,F,71,,Granville Drive,,Kingswinford
+2025-01-15,226500,DY6 0HB,T,N,F,18,,High Street,Wall Heath,Kingswinford
+2025-01-10,340000,DY6 9TY,T,N,F,104,,Cot Lane,,Kingswinford
+2024-12-20,247500,DY6 9QH,S,N,F,204,,Cot Lane,,Kingswinford
+2024-12-20,252950,DY6 7DE,S,Y,F,9,,Stone Coal Drive,,Kingswinford
+2024-12-19,362000,DY6 9DB,D,N,F,6,,Meadfoot Drive,,Kingswinford
+2024-12-19,160000,DY6 8TF,T,N,F,135,,Bromley Lane,,Kingswinford
+2024-12-18,380000,DY6 9SE,D,N,F,24A,,Mount Pleasant,,Kingswinford
+2024-12-18,399950,DY6 9DU,D,N,F,11,,Frayne Avenue,,Kingswinford
+2024-12-18,122222,DY6 8RD,S,N,F,50,,Nanaimo Way,,Kingswinford
+2024-12-18,235000,DY6 8JS,S,N,F,209,,Standhills Road,,Kingswinford
+2024-12-18,270000,DY6 7RP,D,N,F,42,,Digby Road,,Kingswinford
+2024-12-18,220000,DY6 7QF,S,N,F,18,,Cottage Street,,Kingswinford
+2024-12-17,247000,DY6 9BA,S,N,F,1,,Foundry Road,Wall Heath,Kingswinford
+2024-12-17,190000,DY6 8HR,S,N,F,62,,Surrey Drive,,Kingswinford
+2024-12-17,270000,DY6 0HP,S,N,F,48,,Holcroft Road,,Kingswinford
+2024-12-16,215000,DY6 8HU,S,N,F,15,,Stream Park,,Kingswinford
+2024-12-16,256000,DY6 7NJ,S,N,F,12,,Celtic Cross Drive,,Kingswinford
+2024-12-13,255000,DY6 9AB,S,N,F,1,,Grove Park,Wall Heath,Kingswinford
+2024-12-13,235500,DY6 8LH,T,N,F,35,,Granville Drive,,Kingswinford
+2024-12-13,240000,DY6 8AJ,S,N,F,572,,High Street,,Kingswinford
+2024-12-13,250000,DY6 7QD,S,N,F,92,,Water Street,,Kingswinford
+2024-12-13,375000,DY6 7NG,D,N,F,36,,Parquet Grove,,Kingswinford
+2024-12-12,300000,DY6 8NG,D,N,F,4,,Ragees Road,,Kingswinford
+2024-12-12,230000,DY6 7BF,T,N,F,23,,Halt Mews,,Kingswinford
+2024-12-11,286000,DY6 9BH,S,N,F,12,,Dawley Road,Wall Heath,Kingswinford
+2024-12-11,410000,DY6 9AP,D,N,F,2,,Brookside Way,Wall Heath,Kingswinford
+2024-12-11,180000,DY6 7ST,T,N,F,29,,Hawkeswell Drive,,Kingswinford
+2024-12-11,515000,DY6 0JB,D,N,F,43,,Maidensbridge Road,Wall Heath,Kingswinford
+2024-12-06,375000,DY6 9TJ,D,N,F,11,,Dene Avenue,,Kingswinford
+2024-12-06,309000,DY6 9PS,S,N,F,13,,Stewart Road,,Kingswinford
+2024-12-06,275000,DY6 9LX,T,N,F,7A,,Park Street,,Kingswinford
+2024-12-06,340000,DY6 8XT,D,N,F,38,,Ploverdale Crescent,,Kingswinford
+2024-12-06,270000,DY6 7QA,D,N,F,23,,Water Street,,Kingswinford
+2024-12-06,370000,DY6 7NF,D,N,F,80,,Herringbone Way,,Kingswinford
+2024-12-02,160000,DY6 8SW,S,N,L,68,,Aretha Close,,Kingswinford
+2024-11-29,225000,DY6 9HU,T,N,F,20C,,Moss Grove,,Kingswinford
+2024-11-29,218000,DY6 8DG,S,N,F,81,,Larch Road,,Kingswinford
+2024-11-29,360000,DY6 8AW,D,N,F,502,,High Street,,Kingswinford
+2024-11-29,322953,DY6 7DE,D,Y,F,7,,Stone Coal Drive,,Kingswinford
+2024-11-29,252950,DY6 7DE,S,Y,F,11,,Stone Coal Drive,,Kingswinford
+2024-11-28,314000,DY6 7RX,D,N,F,4,,Copper Beech Drive,,Kingswinford
+2024-11-27,425000,DY6 9EE,D,N,F,12,,Regent Close,,Kingswinford
+2024-11-27,294000,DY6 7RY,D,N,F,36,,Monteagle Drive,,Kingswinford
+2024-11-27,294000,DY6 7RY,D,N,L,36,,Monteagle Drive,,Kingswinford
+2024-11-25,230000,DY6 8UA,T,N,F,23,,Knotts Farm Road,,Kingswinford
+2024-11-22,294500,DY6 9AX,S,N,F,5,,The Parade,Wall Heath,Kingswinford
+2024-11-22,210000,DY6 8EL,S,N,F,12,,Firs Road,,Kingswinford
+2024-11-22,315000,DY6 0JY,S,N,F,39,,Windmill Grove,Wall Heath,Kingswinford
+2024-11-22,300000,DY6 0HP,S,N,F,21,,Holcroft Road,,Kingswinford
+2024-11-21,240000,DY6 9SE,T,N,F,14,,Mount Pleasant,,Kingswinford
+2024-11-21,235000,DY6 8LG,T,N,F,178,,Ketley Road,,Kingswinford
+2024-11-21,262000,DY6 7LQ,S,N,F,20,,Chandler Drive,,Kingswinford
+2024-11-21,370000,DY6 0HT,S,N,F,125,,Beachcroft Road,,Kingswinford
+2024-11-20,275000,DY6 9NS,F,N,L,Broadfield House,Apartment 4,Compton Drive,,Kingswinford
+2024-11-20,330000,DY6 9BZ,S,N,F,32,,Coniston Drive,,Kingswinford
+2024-11-18,330000,DY6 9LY,D,N,F,33,,Cross Street,,Kingswinford
+2024-11-18,235000,DY6 9LR,T,N,F,20E,,Broad Street,,Kingswinford
+2024-11-18,245000,DY6 8EZ,T,N,F,25,,Hazel Road,,Kingswinford
+2024-11-18,262500,DY6 7RW,S,N,F,5,,Francis Close,,Kingswinford
+2024-11-15,350000,DY6 9BE,S,N,F,52,,Foundry Road,Wall Heath,Kingswinford
+2024-11-15,208000,DY6 8RJ,T,N,F,43,,Lerryn Close,,Kingswinford
+2024-11-15,225000,DY6 8RJ,T,N,F,14,,Lerryn Close,,Kingswinford
+2024-11-15,195000,DY6 8PN,T,N,L,50,,Rangeways Road,,Kingswinford
+2024-11-15,218500,DY6 8PE,S,N,F,31,,Sandhurst Road,,Kingswinford
+2024-11-15,275000,DY6 8PA,S,N,F,26,,Chelford Crescent,,Kingswinford
+2024-11-15,220000,DY6 7RU,T,N,F,35,,Monteagle Drive,,Kingswinford
+2024-11-15,130000,DY6 7RH,F,N,L,27,,Grant Close,,Kingswinford
+2024-11-14,180000,DY6 8DP,S,N,F,95,,Standhills Road,,Kingswinford
+2024-11-13,220000,DY6 9DB,D,N,F,12,,Meadfoot Drive,,Kingswinford
+2024-11-13,170000,DY6 9AT,S,N,F,14,,Brook Crescent,,Kingswinford
+2024-11-13,312000,DY6 7RL,D,N,F,2,,Redruth Close,,Kingswinford
+2024-11-12,270000,DY6 8RB,S,N,F,29,,Sunnymede Road,,Kingswinford
+2024-11-08,140000,DY6 9HG,F,N,L,61,,Murdoch Drive,,Kingswinford
+2024-11-08,326000,DY6 9BG,D,N,F,58,,Foundry Road,Wall Heath,Kingswinford
+2024-11-08,241500,DY6 8LL,S,N,F,60,,Granville Drive,,Kingswinford
+2024-11-08,292000,DY6 0JA,T,N,F,14,,Maidensbridge Road,Wall Heath,Kingswinford
+2024-11-07,445000,DY6 9BP,D,N,F,44,,Dubarry Avenue,,Kingswinford
+2024-11-04,350000,DY6 9RP,S,N,F,237,,Kingsley Road,,Kingswinford
+2024-11-04,265000,DY6 8NU,T,N,F,99,,Rangeways Road,,Kingswinford
+2024-11-04,465000,DY6 0JL,D,N,F,33,,Victoria Street,Wall Heath,Kingswinford
+2024-11-01,230000,DY6 8TA,S,N,F,247,,Albermarle Road,,Kingswinford
+2024-11-01,258000,DY6 7NG,S,N,F,2,,Parquet Grove,,Kingswinford
+2024-11-01,301500,DY6 7DT,D,N,L,64,,Balfour Road,,Kingswinford
+2024-10-31,289950,DY6 8JU,S,N,F,2,,Eaton Place,,Kingswinford
+2024-10-31,165000,DY6 8HR,F,N,L,52,,Surrey Drive,,Kingswinford
+2024-10-31,268803,DY6 7DU,S,Y,F,4,,Brickworks Avenue,,Kingswinford
+2024-10-31,349950,DY6 7DU,D,Y,F,39,,Brickworks Avenue,,Kingswinford
+2024-10-31,268803,DY6 7DU,S,Y,F,3,,Brickworks Avenue,,Kingswinford
+2024-10-31,256453,DY6 7DU,T,Y,F,29,,Brickworks Avenue,,Kingswinford
+2024-10-29,257400,DY6 8RY,D,N,F,72,,Alder Road,,Kingswinford
+2024-10-28,497000,DY6 9NT,D,N,F,Brierlea,,Stream Road,,Kingswinford
+2024-10-25,180000,DY6 7ST,F,N,L,12,,Hawkeswell Drive,,Kingswinford
+2024-10-25,250000,DY6 7NG,S,N,F,4,,Parquet Grove,,Kingswinford
+2024-10-25,249803,DY6 7DU,S,Y,F,8,,Brickworks Avenue,,Kingswinford
+2024-10-25,261203,DY6 7DU,T,Y,F,27,,Brickworks Avenue,,Kingswinford
+2024-10-25,249802,DY6 7DU,S,Y,F,14,,Brickworks Avenue,,Kingswinford
+2024-10-25,249802,DY6 7DU,S,Y,F,10,,Brickworks Avenue,,Kingswinford
+2024-10-25,297950,DY6 7DG,D,Y,F,1,,Fireclay Mews,,Kingswinford
+2024-10-24,190000,DY6 8EX,S,N,F,13,,Beech Road,,Kingswinford
+2024-10-23,62000,DY6 9PL,F,N,L,Barnett Lane Flats,7,Barnett Lane,,Kingswinford
+2024-10-23,277500,DY6 9AL,S,N,F,36,,Lynwood Avenue,,Kingswinford
+2024-10-23,380000,DY6 0JL,D,N,F,80,,Victoria Street,Wall Heath,Kingswinford
+2024-10-21,238500,DY6 9SX,T,N,F,23,,Ashley Close,,Kingswinford
+2024-10-18,175000,DY6 8AH,S,N,F,7,,Orchard Court,,Kingswinford
+2024-10-18,282950,DY6 7DU,S,Y,F,6,,Brickworks Avenue,,Kingswinford
+2024-10-17,242500,DY6 8HY,S,N,F,22,,Newfield Drive,,Kingswinford
+2024-10-16,255000,DY6 9EH,D,N,F,37,,Grantley Crescent,,Kingswinford
+2024-10-15,320000,DY6 0ND,S,N,F,Tonimari,,Alverley Close,,Kingswinford
+2024-10-14,78000,DY6 8BF,F,N,L,"Larch House, 241",Apartment 15,High Street,,Kingswinford
+2024-10-11,340000,DY6 9DH,D,N,F,5,,Maywood Close,,Kingswinford
+2024-10-11,285000,DY6 9AR,S,N,F,36,,Summerfield Avenue,,Kingswinford
+2024-10-11,267500,DY6 7DF,S,Y,F,11,,Ironstone Way,,Kingswinford
+2024-10-11,84000,DY6 7AR,T,N,L,155,,Field Sidings Way,,Kingswinford
+2024-10-11,180000,DY6 0LB,S,N,F,71,,Blaze Hill Road,Wall Heath,Kingswinford
+2024-10-10,255000,DY6 7NJ,S,N,F,14,,Celtic Cross Drive,,Kingswinford
+2024-10-08,236000,DY6 8PJ,S,N,F,4,,Freeland Grove,,Kingswinford
+2024-10-08,240000,DY6 8LH,S,N,F,40,,Granville Drive,,Kingswinford
+2024-10-07,210000,DY6 8AG,S,N,F,19,,Manor Park,,Kingswinford
+2024-10-04,188000,DY6 7QD,T,N,F,71,,Water Street,,Kingswinford
+2024-10-04,279950,DY6 7DU,T,Y,F,31,,Brickworks Avenue,,Kingswinford
+2024-10-04,150000,DY6 7AR,F,N,L,75,,Field Sidings Way,,Kingswinford
+2024-10-02,232000,DY6 8LX,D,N,F,15,,Burnham Close,,Kingswinford
+2024-10-02,265000,DY6 7AR,S,N,F,49,,Field Sidings Way,,Kingswinford
+2024-10-01,199950,DY6 8EH,S,N,F,25,,Laburnum Road,,Kingswinford
+2024-09-27,270000,DY6 8SJ,S,N,L,41,,Oregon Close,,Kingswinford
+2024-09-27,320000,DY6 8PJ,S,N,L,16,,Freeland Grove,,Kingswinford
+2024-09-27,52500,DY6 8ND,F,N,L,25,,Bartic Avenue,,Kingswinford
+2024-09-27,237500,DY6 8LH,S,N,L,53,,Granville Drive,,Kingswinford
+2024-09-27,280000,DY6 8LF,T,N,F,6,,Fairview Crescent,,Kingswinford
+2024-09-27,261202,DY6 7DU,T,Y,F,19,,Brickworks Avenue,,Kingswinford
+2024-09-27,256452,DY6 7DU,T,Y,F,17,,Brickworks Avenue,,Kingswinford
+2024-09-27,265953,DY6 7DU,T,Y,F,15,,Brickworks Avenue,,Kingswinford
+2024-09-27,255000,DY6 7DH,D,N,F,3,,Balfour Road,,Kingswinford
+2024-09-27,262950,DY6 7DF,T,Y,F,9,,Ironstone Way,,Kingswinford
+2024-09-26,248000,DY6 8XE,T,N,F,63,,Dudley Road,,Kingswinford
+2024-09-23,260000,DY6 9RN,T,N,F,91,,Court Crescent,,Kingswinford
+2024-09-20,239000,DY6 9TQ,D,N,F,7,,Pleasant Close,,Kingswinford
+2024-09-20,240000,DY6 9ET,S,N,F,31,,Fellows Avenue,Wall Heath,Kingswinford
+2024-09-20,139000,DY6 8TH,T,N,L,15,,Kingsford Nouveau,,Kingswinford
+2024-09-20,300000,DY6 8BA,S,N,F,11,,Prosper Meadow,,Kingswinford
+2024-09-20,95000,DY6 7RT,F,N,L,15,,Keyes Drive,,Kingswinford
+2024-09-16,230000,DY6 9TB,S,N,F,1,,Kingsdene Avenue,,Kingswinford
+2024-09-13,280000,DY6 9DP,S,N,F,8,,Thanet Close,,Kingswinford
+2024-09-13,250000,DY6 8PQ,S,N,F,68,,Rangeways Road,,Kingswinford
+2024-09-13,180000,DY6 8PH,T,N,F,7,,Andover Crescent,,Kingswinford
+2024-09-12,245000,DY6 7AG,S,N,F,59,,Queen Street,,Kingswinford
+2024-09-06,485000,DY6 9XE,D,N,F,Kensington House,,Lodge Lane,,Kingswinford
+2024-09-06,510000,DY6 9TU,D,N,F,1,,Cypress Gardens,,Kingswinford
+2024-09-06,277500,DY6 9RL,S,N,F,28,,Court Crescent,,Kingswinford
+2024-09-06,250000,DY6 7SG,S,N,F,9,,Kilburn Drive,,Kingswinford
+2024-09-05,315000,DY6 9PE,S,N,F,34,,Fairlawn Drive,,Kingswinford
+2024-09-05,325000,DY6 9EE,D,N,F,10,,Regent Close,,Kingswinford
+2024-09-05,230000,DY6 8AJ,T,N,F,586,,High Street,,Kingswinford
+2024-09-04,284950,DY6 9PE,S,N,F,43,,Fairlawn Drive,,Kingswinford
+2024-09-02,208000,DY6 8LN,S,N,F,25,,Kendall Rise,,Kingswinford
+2024-08-30,745000,DY6 9XF,D,N,F,12,,Ryefield Way,,Kingswinford
+2024-08-30,215000,DY6 9SU,S,N,F,8,,Kingswood Road,,Kingswinford
+2024-08-30,315000,DY6 9SD,S,N,F,129,,Cot Lane,,Kingswinford
+2024-08-30,330000,DY6 9SD,S,N,F,125,,Cot Lane,,Kingswinford
+2024-08-30,345000,DY6 9EJ,D,N,F,11,,Ross Drive,,Kingswinford
+2024-08-30,497500,DY6 9EH,D,N,F,42,,Grantley Crescent,,Kingswinford
+2024-08-30,310000,DY6 8BA,D,N,F,24,,Prosper Meadow,,Kingswinford
+2024-08-30,300000,DY6 7QH,S,N,F,Kirklea,,Green Lane,,Kingswinford
+2024-08-30,282950,DY6 7DU,S,Y,F,5,,Brickworks Avenue,,Kingswinford
+2024-08-30,269950,DY6 7DU,D,Y,F,41,,Brickworks Avenue,,Kingswinford
+2024-08-30,247950,DY6 7DF,T,Y,F,3,,Ironstone Way,,Kingswinford
+2024-08-30,240000,DY6 7AG,S,N,F,64,,Queen Street,,Kingswinford
+2024-08-29,264000,DY6 7ER,S,N,F,8,,Heathlands Close,,Kingswinford
+2024-08-29,247950,DY6 7DF,T,Y,F,7,,Ironstone Way,,Kingswinford
+2024-08-29,249950,DY6 7DF,T,Y,F,5,,Ironstone Way,,Kingswinford
+2024-08-28,260000,DY6 8QE,D,N,F,124,,Bromley Lane,,Kingswinford
+2024-08-23,395000,DY6 9EG,D,N,L,8,,Chelsea Way,,Kingswinford
+2024-08-23,260000,DY6 8PR,S,N,F,52,,Denleigh Road,,Kingswinford
+2024-08-23,220000,DY6 8LA,S,N,F,163,,Standhills Road,,Kingswinford
+2024-08-23,250000,DY6 7LX,S,N,F,8,,Della Court,,Kingswinford
+2024-08-23,253000,DY6 0JP,S,N,F,372,,Albion Street,Wall Heath,Kingswinford
+2024-08-23,340000,DY6 0HJ,S,N,F,1,,Beachcroft Road,,Kingswinford
+2024-08-22,365000,DY6 7JB,D,N,F,22,,Wolverhampton Road,,Kingswinford
+2024-08-21,260000,DY6 0HU,T,N,F,90,,Beachcroft Road,,Kingswinford
+2024-08-19,195000,DY6 8HR,T,N,F,68,,Surrey Drive,,Kingswinford
+2024-08-16,300000,DY6 9PW,S,N,F,24,,Barnett Close,,Kingswinford
+2024-08-16,250000,DY6 8SJ,S,N,F,46,,Oregon Close,,Kingswinford
+2024-08-16,298950,DY6 7DU,D,Y,F,7,,Brickworks Avenue,,Kingswinford
+2024-08-16,152500,DY6 7BF,F,N,L,57,,Halt Mews,,Kingswinford
+2024-08-13,395000,DY6 9AT,D,N,F,1B,,Brook Crescent,,Kingswinford
+2024-08-12,340000,DY6 8AY,D,N,F,"Eagland, 12A",,The Village,,Kingswinford
+2024-08-09,295000,DY6 8LG,S,N,F,182,,Ketley Road,,Kingswinford
+2024-08-09,430000,DY6 8ES,D,N,F,16,,Beeches Close,,Kingswinford
+2024-08-09,195000,DY6 8DJ,S,N,F,29,,Ash Crescent,,Kingswinford
+2024-08-09,230000,DY6 0JL,S,N,F,45,,Victoria Street,Wall Heath,Kingswinford
+2024-08-08,255000,DY6 9PT,S,N,F,22,,Glynne Avenue,,Kingswinford
+2024-08-07,480000,DY6 9QJ,D,N,F,71,,Summercourt Square,,Kingswinford
+2024-08-07,259000,DY6 7NG,S,N,F,24,,Parquet Grove,,Kingswinford
+2024-08-02,264950,DY6 9BS,S,N,F,17,,Kingston Way,,Kingswinford
+2024-07-31,310000,DY6 8HH,D,N,F,5,,Oakfield Avenue,,Kingswinford
+2024-07-31,224950,DY6 7DG,T,Y,F,12,,Fireclay Mews,,Kingswinford
+2024-07-31,309950,DY6 7DF,D,Y,F,1,,Ironstone Way,,Kingswinford
+2024-07-30,67500,DY6 7RT,F,N,L,13,,Keyes Drive,,Kingswinford
+2024-07-29,340000,DY6 9LT,D,N,F,79,,Oak Street,,Kingswinford
+2024-07-29,435000,DY6 8JT,S,N,F,45,,The Knoll,,Kingswinford
+2024-07-29,325000,DY6 7AN,D,N,F,23,,Coach Mews,,Kingswinford
+2024-07-29,365000,DY6 7AA,D,N,F,36,,Penzer Street,,Kingswinford
+2024-07-26,287500,DY6 9TE,D,N,F,51,,Kingswood Road,,Kingswinford
+2024-07-26,280000,DY6 9SH,S,N,F,116,,Mount Pleasant,,Kingswinford
+2024-07-26,215000,DY6 9LX,S,N,F,2,,Park Street,,Kingswinford
+2024-07-26,345000,DY6 9BH,S,N,F,20,,Dawley Road,Wall Heath,Kingswinford
+2024-07-26,400000,DY6 8AN,D,N,F,19,,Windermere Drive,,Kingswinford
+2024-07-26,218453,DY6 7DG,T,Y,F,10,,Fireclay Mews,,Kingswinford
+2024-07-26,150000,DY6 7AR,F,N,L,131,,Field Sidings Way,,Kingswinford
+2024-07-25,245000,DY6 7BA,T,N,F,12,,Great Western Way,,Kingswinford
+2024-07-23,360000,DY6 8EN,D,N,F,2C,,Greenfields Road,,Kingswinford
+2024-07-22,252000,DY6 7LR,S,N,F,Sunnyside,,Stallings Lane,,Kingswinford
+2024-07-19,330000,DY6 9RH,S,N,F,19,,Essex Avenue,,Kingswinford
+2024-07-19,420000,DY6 9DJ,D,N,F,5,,Medina Way,,Kingswinford
+2024-07-19,347500,DY6 7NB,D,N,F,17,,Flemish Gardens,,Kingswinford
+2024-07-18,215000,DY6 9LS,D,N,F,45,,Oak Street,,Kingswinford
+2024-07-18,227000,DY6 8ND,T,N,F,2,,Bartic Avenue,,Kingswinford
+2024-07-16,245000,DY6 7RA,S,N,F,5,,Lambert Court,,Kingswinford
+2024-07-12,231000,DY6 8LH,S,N,F,33,,Granville Drive,,Kingswinford
+2024-07-12,270000,DY6 7NG,S,N,F,26,,Parquet Grove,,Kingswinford
+2024-07-12,348000,DY6 7BA,D,N,F,33,,Great Western Way,,Kingswinford
+2024-07-12,253250,DY6 7AL,T,N,F,18,,The Crossing,,Kingswinford
+2024-07-12,560000,DY6 0JS,D,N,F,74,,Albion Street,Wall Heath,Kingswinford
+2024-07-12,465000,DY6 0HF,D,N,F,17,,Holbeache Road,Wall Heath,Kingswinford
+2024-07-10,232203,DY6 7DG,T,Y,F,8,,Fireclay Mews,,Kingswinford
+2024-07-05,203000,DY6 8LW,S,N,F,106,,Granville Drive,,Kingswinford
+2024-07-05,315000,DY6 8JT,D,N,F,39,,The Knoll,,Kingswinford
+2024-07-04,567500,DY6 9QN,D,N,F,15,,White Oak Drive,,Kingswinford
+2024-07-02,385000,DY6 9ET,S,N,F,41,,Fellows Avenue,Wall Heath,Kingswinford
+2024-07-02,272500,DY6 9AD,S,N,F,11,,Grove Park,Wall Heath,Kingswinford
+2024-07-02,250000,DY6 7QH,T,N,F,3D,,Green Lane,,Kingswinford
+2024-07-02,210000,DY6 7LU,T,N,F,15,,Bobeche Place,,Kingswinford
+2024-06-28,184000,DY6 8TE,T,N,F,195,,Bromley Lane,,Kingswinford
+2024-06-28,119950,DY6 8EH,F,N,L,30,,Laburnum Road,,Kingswinford
+2024-06-28,239950,DY6 7DU,S,Y,F,9,,Brickworks Avenue,,Kingswinford
+2024-06-28,270000,DY6 7DU,S,Y,F,16,,Brickworks Avenue,,Kingswinford
+2024-06-28,227953,DY6 7DU,S,Y,F,11,,Brickworks Avenue,,Kingswinford
+2024-06-28,219950,DY6 7DG,T,Y,F,7,,Fireclay Mews,,Kingswinford
+2024-06-28,252950,DY6 7DG,S,Y,F,6,,Fireclay Mews,,Kingswinford
+2024-06-28,299950,DY6 7DG,D,Y,F,2,,Fireclay Mews,,Kingswinford
+2024-06-26,233000,DY6 8EE,S,N,F,1,,Rowan Rise,,Kingswinford
+2024-06-21,675000,DY6 9TJ,D,N,F,27,,Dene Avenue,,Kingswinford
+2024-06-21,499950,DY6 9RF,D,N,F,9,,Sandmeadow Place,,Kingswinford
+2024-06-21,190000,DY6 9AT,S,N,F,7,,Brook Crescent,,Kingswinford
+2024-06-21,304500,DY6 8HW,S,N,F,78B,,The Portway,,Kingswinford
+2024-06-21,250000,DY6 8DW,T,N,F,44,,Standhills Road,,Kingswinford
+2024-06-21,191000,DY6 8BG,T,N,F,5,,The Lych Gate,,Kingswinford
+2024-06-21,195000,DY6 8AG,S,N,F,25,,Manor Park,,Kingswinford
+2024-06-21,148000,DY6 8AA,F,N,L,762,Flat 4,High Street,,Kingswinford
+2024-06-20,475000,DY6 9TL,D,N,F,80,,Dene Avenue,,Kingswinford
+2024-06-18,308000,DY6 9SH,D,N,F,92,,Mount Pleasant,,Kingswinford
+2024-06-17,310000,DY6 9SX,S,N,F,17,,Ashley Close,,Kingswinford
+2024-06-17,625000,DY6 9QJ,D,N,F,13,,Summercourt Square,,Kingswinford
+2024-06-17,252500,DY6 8SR,S,N,F,180,,Blenheim Road,,Kingswinford
+2024-06-14,345000,DY6 9TB,D,N,F,8,,Kingsdene Avenue,,Kingswinford
+2024-06-14,365000,DY6 9RG,S,N,F,121,,Ridge Road,,Kingswinford
+2024-06-14,245000,DY6 8QB,D,N,F,5,,Denleigh Road,,Kingswinford
+2024-06-14,180000,DY6 8HW,S,N,F,109,,The Portway,,Kingswinford
+2024-06-11,220000,DY6 7AF,S,N,F,107,,Penzer Street,,Kingswinford
+2024-06-07,365000,DY6 9RG,D,N,F,91,,Ridge Road,,Kingswinford
+2024-06-07,325000,DY6 9RG,S,N,F,56,,Ridge Road,,Kingswinford
+2024-06-07,240000,DY6 9PH,S,N,F,31,,Greencroft,,Kingswinford
+2024-06-07,360000,DY6 8XT,D,N,F,6,,Ploverdale Crescent,,Kingswinford
+2024-06-07,140000,DY6 7AR,F,N,L,129,,Field Sidings Way,,Kingswinford
+2024-06-07,442500,DY6 0DB,D,N,F,6,,Harvester Way,,Kingswinford
+2024-06-05,355000,DY6 8AN,D,N,F,58,,Windermere Drive,,Kingswinford
+2024-06-03,285000,DY6 8JP,D,N,F,88,,Bromley Lane,,Kingswinford
+2024-05-31,499750,DY6 9TN,D,N,F,22,,Celandine Close,,Kingswinford
+2024-05-31,401000,DY6 9AQ,D,N,F,10A,,Dudley Road,Wall Heath,Kingswinford
+2024-05-31,47500,DY6 8NF,F,N,L,157,,Ragees Road,,Kingswinford
+2024-05-31,425000,DY6 8JL,D,N,F,6,,Southwood Close,,Kingswinford
+2024-05-31,328652,DY6 7DU,D,Y,F,23,,Brickworks Avenue,,Kingswinford
+2024-05-31,270000,DY6 7DU,S,Y,F,18,,Brickworks Avenue,,Kingswinford
+2024-05-31,83250,DY6 7BF,T,N,L,15,,Halt Mews,,Kingswinford
+2024-05-29,215000,DY6 7RD,S,N,L,33,,Charterfield Drive,,Kingswinford
+2024-05-24,265000,DY6 9HE,D,N,F,6,,Dudley Road,Wall Heath,Kingswinford
+2024-05-24,295000,DY6 8LS,D,N,F,25A,,Burrows Road,,Kingswinford
+2024-05-24,187000,DY6 8EH,S,N,F,3,,Laburnum Road,,Kingswinford
+2024-05-24,230000,DY6 7RS,T,N,F,73,,Charterfield Drive,,Kingswinford
+2024-05-23,350000,DY6 8JE,D,N,F,11,,Cumberland Close,,Kingswinford
+2024-05-20,222500,DY6 7ST,F,N,L,4,,Hawkeswell Drive,,Kingswinford
+2024-05-17,242500,DY6 9ST,S,N,F,105,,Mount Pleasant,,Kingswinford
+2024-05-17,280000,DY6 9SE,S,N,F,4,,Mount Pleasant,,Kingswinford
+2024-05-17,195000,DY6 8RF,S,N,F,29,,Wrens Avenue,,Kingswinford
+2024-05-16,220000,DY6 8EA,S,N,F,70,,Rowan Rise,,Kingswinford
+2024-05-14,151000,DY6 8HR,F,N,L,36,,Surrey Drive,,Kingswinford
+2024-05-13,330000,DY6 9DW,S,N,F,1,,Mayfair Drive,,Kingswinford
+2024-05-08,225000,DY6 7HG,S,N,F,2,,Broadmeadow,,Kingswinford
+2024-05-07,215000,DY6 9PR,S,N,F,8,,Cavendish Close,,Kingswinford
+2024-05-03,255000,DY6 9PP,S,N,F,21,,Arlington Close,,Kingswinford
+2024-05-03,224000,DY6 8RD,S,N,F,75A,,Nanaimo Way,,Kingswinford
+2024-05-03,260000,DY6 7SE,S,N,L,18,,Camden Way,,Kingswinford
+2024-05-03,300000,DY6 7RF,D,N,L,18,,Garret Close,,Kingswinford
+2024-05-03,252500,DY6 7AR,S,N,F,51,,Field Sidings Way,,Kingswinford
+2024-05-03,255000,DY6 0HG,S,N,F,Grove Farm Cottage,,Maidensbridge Road,,Kingswinford
+2024-05-01,650000,DY6 9SA,D,N,F,157,,Cot Lane,,Kingswinford
+2024-04-29,375000,DY6 9XB,D,N,F,3,,High Wood Close,,Kingswinford
+2024-04-29,260000,DY6 8SF,D,N,L,8,,Lydgate Road,,Kingswinford
+2024-04-29,210000,DY6 8PJ,S,N,F,5,,Freeland Grove,,Kingswinford
+2024-04-29,387500,DY6 8JE,D,N,F,14,,Cumberland Close,,Kingswinford
+2024-04-29,430000,DY6 0HE,S,N,F,18,,Holbeache Road,Wall Heath,Kingswinford
+2024-04-26,295000,DY6 8RA,S,N,F,131,,Nanaimo Way,,Kingswinford
+2024-04-26,216755,DY6 7DG,T,Y,F,5,,Fireclay Mews,,Kingswinford
+2024-04-26,223202,DY6 7DG,T,Y,F,3,,Fireclay Mews,,Kingswinford
+2024-04-26,302500,DY6 0NA,D,N,F,38,,Albert Street,Wall Heath,Kingswinford
+2024-04-25,289950,DY6 7DF,D,Y,F,2,,Ironstone Way,,Kingswinford
+2024-04-22,94000,DY6 8NQ,F,N,L,87,,Ragees Road,,Kingswinford
+2024-04-19,227500,DY6 9BU,S,N,F,6,,Maygrove Road,,Kingswinford
+2024-04-19,277950,DY6 7DU,D,Y,F,35,,Brickworks Avenue,,Kingswinford
+2024-04-19,105000,DY6 7AR,T,N,L,31,,Field Sidings Way,,Kingswinford
+2024-04-16,325000,DY6 9DP,S,N,F,10,,Thanet Close,,Kingswinford
+2024-04-12,295000,DY6 7DU,D,Y,F,33,,Brickworks Avenue,,Kingswinford
+2024-04-12,295000,DY6 0JG,S,N,F,80,,Brook Street,Wall Heath,Kingswinford
+2024-04-05,230000,DY6 9BB,S,N,F,19,,Foundry Street,,Kingswinford
+2024-04-05,260000,DY6 7RB,S,N,F,6,,Gladstone Grove,,Kingswinford
+2024-04-05,260000,DY6 7RB,S,N,L,6,,Gladstone Grove,,Kingswinford
+2024-04-05,279950,DY6 7DU,D,Y,F,25,,Brickworks Avenue,,Kingswinford
+2024-04-05,312500,DY6 0HN,S,N,F,16,,Beachcroft Road,,Kingswinford
+2024-03-28,385000,DY6 8PZ,D,N,F,8,,Denleigh Road,,Kingswinford
+2024-03-28,275000,DY6 7NE,D,N,F,65,,Herringbone Way,,Kingswinford
+2024-03-27,294000,DY6 7AL,D,N,F,20,,The Crossing,,Kingswinford
+2024-03-26,515000,DY6 9TY,D,N,F,76,,Cot Lane,,Kingswinford
+2024-03-26,417500,DY6 9DD,D,N,F,13,,Maidendale Road,,Kingswinford
+2024-03-25,198000,DY6 7LQ,T,N,F,35,,Chandler Drive,,Kingswinford
+2024-03-22,84500,DY6 8NQ,F,N,L,133,,Ragees Road,,Kingswinford
+2024-03-22,211500,DY6 8DG,S,N,F,111,,Larch Road,,Kingswinford
+2024-03-22,351703,DY6 7DU,D,Y,F,37,,Brickworks Avenue,,Kingswinford
+2024-03-22,102000,DY6 7AR,S,N,L,151,,Field Sidings Way,,Kingswinford
+2024-03-19,370000,DY6 9EE,D,N,F,9,,Regent Close,,Kingswinford
+2024-03-18,381250,DY6 9TJ,D,N,F,5,,Dene Avenue,,Kingswinford
+2024-03-15,255000,DY6 9EU,S,N,F,16,,Newbridge Road,,Kingswinford
+2024-03-15,320000,DY6 8HY,D,N,F,7,,Newfield Drive,,Kingswinford
+2024-03-15,280000,DY6 8HU,S,N,F,4,,Stream Park,,Kingswinford
+2024-03-15,202500,DY6 7ET,S,N,F,73,,Balfour Road,,Kingswinford
+2024-03-15,242202,DY6 7DU,S,Y,F,45,,Brickworks Avenue,,Kingswinford
+2024-03-15,229455,DY6 7DU,S,Y,F,43,,Brickworks Avenue,,Kingswinford
+2024-03-15,208000,DY6 7AQ,T,N,F,20,,Queen Street,,Kingswinford
+2024-03-08,190000,DY6 8EE,S,N,F,14,,Rowan Rise,,Kingswinford
+2024-03-08,249950,DY6 7DU,T,Y,F,24,,Brickworks Avenue,,Kingswinford
+2024-03-08,270000,DY6 0HX,T,N,F,68,,Beachcroft Road,,Kingswinford
+2024-03-05,220000,DY6 8RD,S,N,F,79,,Nanaimo Way,,Kingswinford
+2024-03-05,170000,DY6 8PN,T,N,F,38,,Rangeways Road,,Kingswinford
+2024-03-01,235000,DY6 7HF,S,N,F,10,,Birchwood Walk,,Kingswinford
+2024-03-01,147000,DY6 7AR,F,N,L,115,,Field Sidings Way,,Kingswinford
+2024-02-29,105000,DY6 7LY,T,N,F,11,,Dutch Court,,Kingswinford
+2024-02-28,293000,DY6 8AQ,D,N,F,3,,Bassenthwaite Court,,Kingswinford
+2024-02-26,350000,DY6 9RG,D,N,F,77,,Ridge Road,,Kingswinford
+2024-02-26,345000,DY6 9EJ,D,N,F,2,,Ross Drive,,Kingswinford
+2024-02-26,349000,DY6 9BQ,D,N,F,23,,Brenwood Close,,Kingswinford
+2024-02-26,221000,DY6 8EP,S,N,F,31,,Sycamore Road,,Kingswinford
+2024-02-26,240000,DY6 7HH,S,N,L,11,,Birchwood Walk,,Kingswinford
+2024-02-26,365000,DY6 0DA,D,N,F,6,,Millers Green Drive,Wall Heath,Kingswinford
+2024-02-23,394000,DY6 9TL,T,N,F,60,,Dene Avenue,,Kingswinford
+2024-02-23,520000,DY6 9RT,D,N,F,72,,Kingsley Road,,Kingswinford
+2024-02-23,270000,DY6 9LX,T,N,F,5,,Park Street,,Kingswinford
+2024-02-23,138500,DY6 9HG,F,N,L,53,,Murdoch Drive,,Kingswinford
+2024-02-23,370000,DY6 8XS,D,N,F,9,,Ibis Gardens,,Kingswinford
+2024-02-23,315000,DY6 7RE,D,N,L,23,,Ambrose Crescent,,Kingswinford
+2024-02-23,280000,DY6 7DE,S,Y,F,16,,Stone Coal Drive,,Kingswinford
+2024-02-19,340000,DY6 8JT,D,N,F,48,,The Knoll,,Kingswinford
+2024-02-19,203000,DY6 7LU,T,N,F,4,,Bobeche Place,,Kingswinford
+2024-02-16,237950,DY6 7DU,T,Y,F,22,,Brickworks Avenue,,Kingswinford
+2024-02-09,387000,DY6 9AJ,T,N,F,4,,Lynwood Avenue,,Kingswinford
+2024-02-09,283000,DY6 8PW,S,N,L,6,,Belvedere Close,,Kingswinford
+2024-02-09,239950,DY6 7DU,T,Y,F,20,,Brickworks Avenue,,Kingswinford
+2024-02-07,270000,DY6 9HH,D,N,F,66,,Moss Grove,,Kingswinford
+2024-02-07,415000,DY6 8JP,D,N,F,Mulberry,,Bromley Lane,,Kingswinford
+2024-02-05,240000,DY6 9DB,D,N,F,5,,Meadfoot Drive,,Kingswinford
+2024-02-05,195000,DY6 8HW,S,N,F,79,,The Portway,,Kingswinford
+2024-02-05,325000,DY6 0NA,S,N,F,19,,Albert Street,Wall Heath,Kingswinford
+2024-02-02,207500,DY6 9PN,S,N,F,108,,Barnett Lane,,Kingswinford
+2024-02-02,305000,DY6 9AR,D,N,F,23,,Summerfield Avenue,,Kingswinford
+2024-01-31,375000,DY6 9DX,D,N,F,16,,Berkeley Drive,,Kingswinford
+2024-01-31,220000,DY6 8NB,S,N,F,25,,Ragees Road,,Kingswinford
+2024-01-31,210000,DY6 8EU,T,N,F,17,,Poplar Road,,Kingswinford
+2024-01-29,280000,DY6 8LL,T,N,F,50,,Granville Drive,,Kingswinford
+2024-01-26,192500,DY6 8EL,T,N,F,7,,Firs Road,,Kingswinford
+2024-01-26,410000,DY6 8DX,D,N,F,1,,Greystoke Drive,,Kingswinford
+2024-01-26,315000,DY6 7RD,D,N,L,8,,Charterfield Drive,,Kingswinford
+2024-01-26,340000,DY6 7NF,D,N,F,86,,Herringbone Way,,Kingswinford
+2024-01-26,147500,DY6 7BF,F,N,L,63,,Halt Mews,,Kingswinford
+2024-01-24,235000,DY6 8RD,S,N,F,85,,Nanaimo Way,,Kingswinford
+2024-01-19,310000,DY6 8LH,S,N,F,9,,Granville Drive,,Kingswinford
+2024-01-19,237000,DY6 8EE,S,N,F,31,,Rowan Rise,,Kingswinford
+2024-01-12,252000,DY6 9NT,S,N,F,Sharic,,Stream Road,,Kingswinford
+2024-01-12,254000,DY6 8SY,S,N,L,37,,Allenby Close,,Kingswinford
+2024-01-12,219000,DY6 8RB,S,N,F,4,,Sunnymede Road,,Kingswinford
+2024-01-12,215000,DY6 8EZ,S,N,F,60,,Hazel Road,,Kingswinford
+2024-01-12,150000,DY6 7BF,F,N,L,1,,Halt Mews,,Kingswinford
+2024-01-11,275000,DY6 8PF,S,N,F,17,,Madeley Road,,Kingswinford
+2024-01-05,300000,DY6 9ET,D,N,F,6,,Fellows Avenue,Wall Heath,Kingswinford
+2024-01-05,350000,DY6 7ED,D,N,L,17,,Honeysuckle Avenue,,Kingswinford
+2023-12-20,337500,DY6 9NS,D,N,F,5,,Compton Drive,,Kingswinford
+2023-12-20,216875,DY6 8PB,S,N,L,31,,Chelford Crescent,,Kingswinford
+2023-12-20,222500,DY6 8HY,D,N,F,9,,Newfield Drive,,Kingswinford
+2023-12-18,200000,DY6 9BU,T,N,F,8,,Maygrove Road,,Kingswinford
+2023-12-18,207000,DY6 7AQ,T,N,F,17,,Queen Street,,Kingswinford
+2023-12-15,395000,DY6 8JP,D,N,F,Magnolia,,Bromley Lane,,Kingswinford
+2023-12-15,261000,DY6 7EU,S,N,F,12,,Pinewood Walk,,Kingswinford
+2023-12-15,259950,DY6 7DF,S,Y,F,8,,Ironstone Way,,Kingswinford
+2023-12-15,246953,DY6 7DF,S,Y,F,6,,Ironstone Way,,Kingswinford
+2023-12-15,256452,DY6 7DF,S,Y,F,10,,Ironstone Way,,Kingswinford
+2023-12-15,270000,DY6 7AZ,S,N,F,46,,Field Sidings Way,,Kingswinford
+2023-12-15,280000,DY6 0JL,T,N,F,92,,Victoria Street,Wall Heath,Kingswinford
+2023-12-15,350000,DY6 0HX,T,N,F,93,,Beachcroft Road,,Kingswinford
+2023-12-15,450000,DY6 0DY,D,N,F,2,,Farrier Way,,Kingswinford
+2023-12-14,315000,DY6 8HT,D,N,F,25,,Highview Drive,,Kingswinford
+2023-12-13,290000,DY6 8LT,D,N,F,118,,Winford Avenue,,Kingswinford
+2023-12-13,263000,DY6 8AJ,S,N,F,592,,High Street,,Kingswinford
+2023-12-11,106000,DY6 8HR,F,N,L,34,,Surrey Drive,,Kingswinford
+2023-12-08,195000,DY6 8PL,S,N,L,12,,Silva Avenue,,Kingswinford
+2023-12-08,255000,DY6 8HS,S,N,F,15,,Southern Close,,Kingswinford
+2023-12-08,250000,DY6 7LU,T,N,F,23,,Bobeche Place,,Kingswinford
+2023-12-05,107500,DY6 7SB,F,N,L,12,,Rokewood Close,,Kingswinford
+2023-12-05,300000,DY6 7EP,D,N,F,15,,Dovedale Road,,Kingswinford
+2023-12-01,250000,DY6 8PL,S,N,F,24,,Silva Avenue,,Kingswinford
+2023-12-01,287500,DY6 0HP,S,N,F,19,,Holcroft Road,,Kingswinford
+2023-11-30,224950,DY6 7DE,T,N,F,8,,Stone Coal Drive,,Kingswinford
+2023-11-30,219950,DY6 7DE,T,Y,F,6,,Stone Coal Drive,,Kingswinford
+2023-11-29,130000,DY6 9NA,F,N,L,Hayley Court,Flat 6,Summer Street,,Kingswinford
+2023-11-29,258000,DY6 0HX,S,N,F,49,,Beachcroft Road,,Kingswinford
+2023-11-27,275000,DY6 9DU,D,N,F,6,,Frayne Avenue,,Kingswinford
+2023-11-27,240000,DY6 8LB,S,N,F,16,,The Rise,,Kingswinford
+2023-11-24,285000,DY6 9TY,T,N,F,104,,Cot Lane,,Kingswinford
+2023-11-24,225000,DY6 8RD,S,N,F,117,,Nanaimo Way,,Kingswinford
+2023-11-24,225000,DY6 8DS,S,N,F,3,,Braithwaite Drive,,Kingswinford
+2023-11-24,225000,DY6 7NB,S,N,F,12,,Flemish Gardens,,Kingswinford
+2023-11-23,200000,DY6 7QE,T,N,F,5,,Cottage Street,,Kingswinford
+2023-11-22,500000,DY6 7HY,D,N,F,29,,Wolverhampton Road,,Kingswinford
+2023-11-20,227500,DY6 8EB,S,N,F,58,,Rowan Rise,,Kingswinford
+2023-11-17,370000,DY6 9RN,S,N,F,96,,Court Crescent,,Kingswinford
+2023-11-17,293000,DY6 9RJ,S,N,F,55,,Court Crescent,,Kingswinford
+2023-11-17,240000,DY6 8NT,S,N,F,94,,Rangeways Road,,Kingswinford
+2023-11-17,200000,DY6 8EE,S,N,F,35,,Rowan Rise,,Kingswinford
+2023-11-17,230000,DY6 8DP,T,N,F,86,,Standhills Road,,Kingswinford
+2023-11-17,265000,DY6 8AJ,S,N,F,600,,High Street,,Kingswinford
+2023-11-17,125000,DY6 0NP,F,N,L,21,,Albion Parade,,Kingswinford
+2023-11-17,355000,DY6 0AE,S,N,F,Waterworks Cottage,4,Ashwood Lower Lane,,Kingswinford
+2023-11-15,165000,DY6 8RQ,S,N,F,47,,Marley Road,,Kingswinford
+2023-11-14,347250,DY6 9ST,D,N,F,91B,,Mount Pleasant,,Kingswinford
+2023-11-13,297500,DY6 9ET,S,N,F,38,,Fellows Avenue,Wall Heath,Kingswinford
+2023-11-13,385000,DY6 9AJ,T,N,F,28,,Lynwood Avenue,,Kingswinford
+2023-11-13,192000,DY6 8RU,T,N,F,55,,Lerwick Close,,Kingswinford
+2023-11-10,230000,DY6 7HT,T,N,F,37,,Stallings Lane,,Kingswinford
+2023-11-10,355000,DY6 0LX,S,N,F,108,,Victoria Street,Wall Heath,Kingswinford
+2023-11-08,245000,DY6 8NY,S,N,F,2,,Honeytree Close,,Kingswinford
+2023-11-06,197500,DY6 8DS,S,N,F,14,,Braithwaite Drive,,Kingswinford
+2023-11-01,290000,DY6 7DE,D,Y,F,2,,Stone Coal Drive,,Kingswinford
+2023-10-31,298000,DY6 8AT,T,N,F,3,,Park Lane,,Kingswinford
+2023-10-31,345000,DY6 7RY,D,N,F,12,,Monteagle Drive,,Kingswinford
+2023-10-30,445000,DY6 9RE,D,N,F,53,,Ridge Road,,Kingswinford
+2023-10-27,290000,DY6 7EE,D,N,F,19,,Hillcroft Road,,Kingswinford
+2023-10-27,259950,DY6 7DF,S,Y,F,4,,Ironstone Way,,Kingswinford
+2023-10-27,285000,DY6 7DE,S,Y,F,18,,Stone Coal Drive,,Kingswinford
+2023-10-24,287500,DY6 8LS,D,N,F,5,,Burrows Road,,Kingswinford
+2023-10-24,187500,DY6 7NF,T,N,L,62,,Herringbone Way,,Kingswinford
+2023-10-23,505000,DY6 8JZ,D,N,F,1,,Southbank View,,Kingswinford
+2023-10-20,200000,DY6 9AH,T,N,F,9,,New Street,Wall Heath,Kingswinford
+2023-10-20,310000,DY6 8JT,D,N,F,46,,The Knoll,,Kingswinford
+2023-10-20,417000,DY6 8JP,D,N,F,Greenacres,,Bromley Lane,,Kingswinford
+2023-10-20,235000,DY6 7RP,S,N,L,31,,Digby Road,,Kingswinford
+2023-10-19,287000,DY6 8XE,T,N,F,71,,Dudley Road,,Kingswinford
+2023-10-19,260000,DY6 8LF,S,N,F,20,,Fairview Crescent,,Kingswinford
+2023-10-16,265000,DY6 9EU,S,N,F,14,,Newbridge Road,,Kingswinford
+2023-10-16,270000,DY6 9BP,S,N,F,36,,Dubarry Avenue,,Kingswinford
+2023-10-13,180000,DY6 9SH,S,N,F,128,,Mount Pleasant,,Kingswinford
+2023-10-12,415000,DY6 8JP,D,N,F,Wisteria,,Bromley Lane,,Kingswinford
+2023-10-09,295000,DY6 8DT,D,N,F,1,,Ambleside Way,,Kingswinford
+2023-10-06,247000,DY6 9UD,D,N,F,5,,Earl Street,,Kingswinford
+2023-10-06,410000,DY6 9NP,D,N,F,Attwood,,Stream Road,,Kingswinford
+2023-10-06,260000,DY6 8SR,D,N,L,183,,Blenheim Road,,Kingswinford
+2023-10-06,380000,DY6 8LX,D,N,F,2,,Burnham Close,,Kingswinford
+2023-10-06,295000,DY6 8JN,S,N,F,3,,Summer House Rise,,Kingswinford
+2023-10-06,286000,DY6 8JN,S,N,F,2,,Summer House Rise,,Kingswinford
+2023-10-06,220000,DY6 7RG,T,N,L,12,,Flanders Drive,,Kingswinford
+2023-10-06,165000,DY6 7QJ,T,N,F,66,,Wartell Bank,,Kingswinford
+2023-10-05,295000,DY6 8JB,T,N,F,39,,Lowe Drive,,Kingswinford
+2023-10-05,97000,DY6 8BF,F,N,L,"Larch House, 241",Apartment 20,High Street,,Kingswinford
+2023-10-03,261000,DY6 8LF,S,N,F,5,,Fairview Crescent,,Kingswinford
+2023-09-29,120000,DY6 9LT,T,N,F,61,,Oak Street,,Kingswinford
+2023-09-29,312000,DY6 8LR,S,N,F,92,,Bromley Lane,,Kingswinford
+2023-09-29,710000,DY6 8JP,D,N,F,Bromley House,,Bromley Lane,,Kingswinford
+2023-09-29,90000,DY6 8HA,S,N,L,19,,Beech Road,,Kingswinford
+2023-09-29,183000,DY6 8EA,T,N,F,73,,Rowan Rise,,Kingswinford
+2023-09-29,210000,DY6 0LA,T,N,F,8,,Blaze Hill Road,Wall Heath,Kingswinford
+2023-09-28,300000,DY6 9SR,S,N,F,7,,Hilldene Road,,Kingswinford
+2023-09-28,310000,DY6 9EE,D,N,L,1,,Regent Close,,Kingswinford
+2023-09-28,255000,DY6 8BS,S,N,F,16,,Dudley Road,,Kingswinford
+2023-09-25,249000,DY6 8TY,S,N,F,37C,,Nanaimo Way,,Kingswinford
+2023-09-25,270000,DY6 7EQ,S,N,F,95,,Balfour Road,,Kingswinford
+2023-09-22,292500,DY6 8XE,T,N,F,69,,Dudley Road,,Kingswinford
+2023-09-22,245000,DY6 8NY,S,N,F,14,,Honeytree Close,,Kingswinford
+2023-09-22,200000,DY6 8EZ,T,N,F,11,,Hazel Road,,Kingswinford
+2023-09-22,180000,DY6 8DA,S,N,F,11,,Ketley Road,,Kingswinford
+2023-09-22,215000,DY6 0JR,T,N,F,252,,Albion Street,Wall Heath,Kingswinford
+2023-09-21,330000,DY6 7QE,D,N,F,67,,Cottage Street,,Kingswinford
+2023-09-20,375000,DY6 9RL,T,N,F,74,,Court Crescent,,Kingswinford
+2023-09-18,318000,DY6 9PW,S,N,F,11,,Barnett Close,,Kingswinford
+2023-09-18,221500,DY6 8EY,S,N,F,5,,Pine Close,,Kingswinford
+2023-09-18,240000,DY6 0JL,T,N,F,42,,Victoria Street,Wall Heath,Kingswinford
+2023-09-14,270000,DY6 9RL,S,N,F,48,,Court Crescent,,Kingswinford
+2023-09-13,245000,DY6 9LH,S,N,F,68,,Market Street,,Kingswinford
+2023-09-12,285000,DY6 8JN,S,N,F,5,,Summer House Rise,,Kingswinford
+2023-09-11,320000,DY6 8JD,D,N,F,122,,Lesley Drive,,Kingswinford
+2023-09-08,260000,DY6 8TY,S,N,F,37A,,Nanaimo Way,,Kingswinford
+2023-09-08,115000,DY6 7AA,F,N,L,South Down Court,Flat 6,Penzer Street,,Kingswinford
+2023-09-06,335000,DY6 8JH,D,N,F,14,,Melbourne Close,,Kingswinford
+2023-09-06,185000,DY6 8EZ,T,N,F,22,,Hazel Road,,Kingswinford
+2023-09-05,299950,DY6 8JN,S,N,F,4,,Summer House Rise,,Kingswinford
+2023-09-04,400000,DY6 9BH,D,N,F,50,,Dawley Road,Wall Heath,Kingswinford
+2023-09-01,225000,DY6 9LX,T,N,F,Dorlea,,Park Street,,Kingswinford
+2023-08-31,500000,DY6 9TL,T,N,F,46,,Dene Avenue,,Kingswinford
+2023-08-31,178000,DY6 8HD,S,N,F,11,,The Portway,,Kingswinford
+2023-08-31,285000,DY6 7QD,T,N,F,70,,Water Street,,Kingswinford
+2023-08-31,232950,DY6 7DE,T,Y,F,4,,Stone Coal Drive,,Kingswinford
+2023-08-30,319950,DY6 7DU,S,Y,F,26,,Brickworks Avenue,,Kingswinford
+2023-08-25,282500,DY6 8JN,S,N,F,6,,Summer House Rise,,Kingswinford
+2023-08-25,299950,DY6 8JN,S,N,F,1,,Summer House Rise,,Kingswinford
+2023-08-25,185000,DY6 8AG,S,N,F,10,,Manor Park,,Kingswinford
+2023-08-25,255000,DY6 7RJ,S,N,F,14,,Catesby Drive,,Kingswinford
+2023-08-25,229000,DY6 7EU,S,N,F,4,,Pinewood Walk,,Kingswinford
+2023-08-25,269950,DY6 7DU,S,Y,F,30,,Brickworks Avenue,,Kingswinford
+2023-08-25,145000,DY6 7AR,F,N,L,133,,Field Sidings Way,,Kingswinford
+2023-08-24,279995,DY6 9QH,S,N,F,202,,Cot Lane,,Kingswinford
+2023-08-22,460000,DY6 8DZ,D,N,F,2,,Keswick Drive,,Kingswinford
+2023-08-22,335000,DY6 0ER,S,N,F,28,,Heathbrook Avenue,Wall Heath,Kingswinford
+2023-08-21,144000,DY6 9LX,T,N,F,The Parklands,2,Park Street,,Kingswinford
+2023-08-21,330000,DY6 9DU,D,N,F,4,,Frayne Avenue,,Kingswinford
+2023-08-21,190000,DY6 8EE,T,N,F,3,,Rowan Rise,,Kingswinford
+2023-08-21,190000,DY6 8EB,S,N,F,56,,Rowan Rise,,Kingswinford
+2023-08-18,220000,DY6 8SF,S,N,L,66,,Lydgate Road,,Kingswinford
+2023-08-18,220000,DY6 8SF,T,N,F,66,,Lydgate Road,,Kingswinford
+2023-08-18,360000,DY6 0HJ,D,N,F,2,,Beachcroft Road,,Kingswinford
+2023-08-16,213000,DY6 9NA,S,N,F,9,,Summer Street,,Kingswinford
+2023-08-16,460000,DY6 9BP,D,N,F,40,,Dubarry Avenue,,Kingswinford
+2023-08-16,320000,DY6 0HP,T,N,F,47,,Holcroft Road,,Kingswinford
+2023-08-15,212000,DY6 8QA,T,N,F,4,,Beaulieu Avenue,,Kingswinford
+2023-08-14,405000,DY6 9ST,D,N,F,67A,,Mount Pleasant,,Kingswinford
+2023-08-11,254950,DY6 7NH,D,N,F,8,,Pinwheel Close,,Kingswinford
+2023-08-11,269950,DY6 7DU,S,Y,F,28,,Brickworks Avenue,,Kingswinford
+2023-08-10,190000,DY6 8RN,T,N,F,68,,Laxton Close,,Kingswinford
+2023-08-10,280000,DY6 7EP,S,N,F,12,,Dovedale Road,,Kingswinford
+2023-08-08,490000,DY6 9TH,S,N,F,99,,Cot Lane,,Kingswinford
+2023-08-08,218000,DY6 0JP,T,N,F,432,,Albion Street,Wall Heath,Kingswinford
+2023-08-04,238000,DY6 9SU,S,N,F,12A,,Kingswood Road,,Kingswinford
+2023-08-04,255000,DY6 9LR,S,N,F,31D,,Broad Street,,Kingswinford
+2023-08-04,460000,DY6 9BP,D,N,F,42,,Dubarry Avenue,,Kingswinford
+2023-08-04,290000,DY6 7HR,D,N,F,28,,Stallings Lane,,Kingswinford
+2023-08-03,285000,DY6 8LA,S,N,F,167,,Standhills Road,,Kingswinford
+2023-08-02,170000,DY6 8PD,S,N,F,19,,Tiverton Close,,Kingswinford
+2023-08-02,76200,DY6 8NQ,F,N,L,145,,Ragees Road,,Kingswinford
+2023-07-31,264000,DY6 9TB,S,N,F,2,,Kingsdene Avenue,,Kingswinford
+2023-07-31,236000,DY6 7DU,S,Y,F,34,,Brickworks Avenue,,Kingswinford
+2023-07-31,236000,DY6 7DU,S,Y,F,32,,Brickworks Avenue,,Kingswinford
+2023-07-31,320000,DY6 0JU,S,N,F,8,,Chapel Street,Wall Heath,Kingswinford
+2023-07-28,255000,DY6 9PE,S,N,F,53,,Fairlawn Drive,,Kingswinford
+2023-07-28,203000,DY6 9DP,S,N,F,8,,Thanet Close,,Kingswinford
+2023-07-28,71000,DY6 8NQ,F,N,L,85,,Ragees Road,,Kingswinford
+2023-07-28,287500,DY6 7AZ,S,N,F,42,,Field Sidings Way,,Kingswinford
+2023-07-28,365000,DY6 0ER,S,N,F,1,,Heathbrook Avenue,Wall Heath,Kingswinford
+2023-07-26,260000,DY6 8QJ,D,N,F,5,,Randall Close,,Kingswinford
+2023-07-21,340000,DY6 9EF,D,N,L,11,,Grantley Crescent,,Kingswinford
+2023-07-21,380000,DY6 9DH,D,N,F,1,,Maywood Close,,Kingswinford
+2023-07-20,217500,DY6 8NZ,S,N,L,38,,Tiverton Close,,Kingswinford
+2023-07-18,255000,DY6 9LH,S,N,F,74,,Market Street,,Kingswinford
+2023-07-18,66500,DY6 7AR,F,N,L,143,,Field Sidings Way,,Kingswinford
+2023-07-14,270000,DY6 0HX,S,N,F,62,,Beachcroft Road,,Kingswinford
+2023-07-12,375000,DY6 9AJ,T,N,F,16,,Lynwood Avenue,,Kingswinford
+2023-07-12,200000,DY6 8QL,S,N,F,6,,Mitchell Road,,Kingswinford
+2023-07-07,179999,DY6 0LR,S,N,F,46,,Blaze Park,Wall Heath,Kingswinford
+2023-07-04,365000,DY6 9TN,D,N,F,62,,Celandine Close,,Kingswinford
+2023-07-03,158000,DY6 8RY,T,N,L,45,,Alder Road,,Kingswinford
+2023-06-30,395000,DY6 9AJ,T,N,F,13,,Lynwood Avenue,,Kingswinford
+2023-06-30,188000,DY6 8SH,S,N,F,482,,Blenheim Road,,Kingswinford
+2023-06-30,195000,DY6 8PG,T,N,F,32,,Sunnymede Road,,Kingswinford
+2023-06-30,270000,DY6 8EP,S,N,F,17,,Sycamore Road,,Kingswinford
+2023-06-30,225000,DY6 8DH,S,N,F,68,,Ash Crescent,,Kingswinford
+2023-06-29,235000,DY6 0LA,T,N,F,3,,Blaze Hill Road,Wall Heath,Kingswinford
+2023-06-27,229000,DY6 8AG,S,N,F,21,,Manor Park,,Kingswinford
+2023-06-20,225000,DY6 8PD,T,N,F,5,,Tiverton Close,,Kingswinford
+2023-06-19,420000,DY6 9BQ,D,N,F,41,,Brenwood Close,,Kingswinford
+2023-06-19,450000,DY6 8HJ,D,N,F,9,,Oakfield Avenue,,Kingswinford
+2023-06-16,290000,DY6 9EY,S,N,F,12,,Barton Lane,,Kingswinford
+2023-06-16,269250,DY6 8HU,S,N,F,49,,Stream Park,,Kingswinford
+2023-06-16,225000,DY6 8EE,T,N,F,2,,Rowan Rise,,Kingswinford
+2023-06-09,146000,DY6 7BF,F,N,L,59,,Halt Mews,,Kingswinford
+2023-06-07,247000,DY6 7RD,S,N,F,31,,Charterfield Drive,,Kingswinford
+2023-06-01,252000,DY6 9HJ,T,N,F,34,,Murdoch Drive,,Kingswinford
+2023-05-31,232000,DY6 8HR,T,N,F,25,,Surrey Drive,,Kingswinford
+2023-05-31,250000,DY6 8HH,S,N,F,4,,Oakfield Avenue,,Kingswinford
+2023-05-30,204000,DY6 8TA,S,N,F,291,,Albermarle Road,,Kingswinford
+2023-05-26,435000,DY6 9DF,D,N,F,17,,Dalesman Close,,Kingswinford
+2023-05-26,255000,DY6 8PS,T,N,F,34,,Denleigh Road,,Kingswinford
+2023-05-26,380000,DY6 8LS,D,N,F,2,,Burrows Road,,Kingswinford
+2023-05-26,295000,DY6 8JD,D,N,F,188,,Lesley Drive,,Kingswinford
+2023-05-26,225000,DY6 8EB,S,N,F,59,,Rowan Rise,,Kingswinford
+2023-05-26,140000,DY6 7BF,F,N,L,9,,Halt Mews,,Kingswinford
+2023-05-24,266000,DY6 8HG,S,N,F,20,,Cranham Drive,,Kingswinford
+2023-05-24,325000,DY6 7QD,S,N,F,80,,Water Street,,Kingswinford
+2023-05-23,608000,DY6 0AS,D,N,F,201,,Enville Road,Wall Heath,Kingswinford
+2023-05-19,190000,DY6 9LT,T,N,F,57,,Oak Street,,Kingswinford
+2023-05-19,245000,DY6 7SE,D,N,F,1,,Camden Way,,Kingswinford
+2023-05-18,276000,DY6 9BX,S,N,F,65,,Buckingham Grove,,Kingswinford
+2023-05-16,250000,DY6 9TG,S,N,F,3,,Mount Pleasant,,Kingswinford
+2023-05-12,263000,DY6 8LJ,D,N,F,10,,Astor Road,,Kingswinford
+2023-05-12,195000,DY6 7BF,T,N,F,8,,Halt Mews,,Kingswinford
+2023-05-05,249950,DY6 9DT,S,N,F,29,,Berkeley Drive,,Kingswinford
+2023-05-05,310000,DY6 7QD,T,N,F,94,,Water Street,,Kingswinford
+2023-05-02,370000,DY6 7NG,D,N,F,40,,Parquet Grove,,Kingswinford
+2023-04-28,345000,DY6 9RN,S,N,F,94,,Court Crescent,,Kingswinford
+2023-04-28,215000,DY6 9PG,S,N,F,15,,Barnett Green,,Kingswinford
+2023-04-28,355000,DY6 9EJ,D,N,F,14,,Ross Drive,,Kingswinford
+2023-04-28,171500,DY6 8DS,S,N,F,3,,Braithwaite Drive,,Kingswinford
+2023-04-28,245000,DY6 7AL,T,N,F,16,,The Crossing,,Kingswinford
+2023-04-25,215000,DY6 8DJ,S,N,F,4,,Ash Crescent,,Kingswinford
+2023-04-24,200000,DY6 8TY,S,N,F,41,,Nanaimo Way,,Kingswinford
+2023-04-21,185000,DY6 9LT,T,N,F,75,,Oak Street,,Kingswinford
+2023-04-21,265000,DY6 7RA,S,N,F,40,,Lambert Court,,Kingswinford
+2023-04-20,380000,DY6 9UB,D,N,F,106,,Cot Lane,,Kingswinford
+2023-04-20,230000,DY6 8EH,T,N,F,10,,Laburnum Road,,Kingswinford
+2023-04-18,325584,DY6 0HP,T,N,F,36,,Holcroft Road,,Kingswinford
+2023-04-17,245000,DY6 7NG,S,N,F,32,,Parquet Grove,,Kingswinford
+2023-04-14,220000,DY6 9SN,T,N,F,226,,Mount Pleasant,,Kingswinford
+2023-04-14,190000,DY6 8NG,S,N,F,16,,Ragees Road,,Kingswinford
+2023-04-12,220000,DY6 7RW,S,N,F,3,,Francis Close,,Kingswinford
+2023-04-06,390000,DY6 0JJ,D,N,F,2,,Victoria Street,Wall Heath,Kingswinford
+2023-04-06,450000,DY6 0JA,D,N,F,18,,Maidensbridge Road,Wall Heath,Kingswinford
+2023-04-05,685000,DY6 9QW,D,N,F,9,,Manderville Gardens,,Kingswinford
+2023-04-05,235000,DY6 0NB,S,N,F,30,,Cross Street,Wall Heath,Kingswinford
+2023-04-05,485000,DY6 0HL,D,N,F,29,,Beachwood Avenue,Wall Heath,Kingswinford
+2023-04-03,263500,DY6 7EU,D,N,F,1,,Pinewood Walk,,Kingswinford
+2023-03-31,381000,DY6 8BS,S,N,F,34,,Dudley Road,,Kingswinford
+2023-03-31,289000,DY6 7LF,D,N,F,21,,Hinsford Close,,Kingswinford
+2023-03-31,165000,DY6 7EX,S,N,F,11B,,Rosedale Walk,,Kingswinford
+2023-03-30,192000,DY6 8NG,S,N,F,18,,Ragees Road,,Kingswinford
+2023-03-29,265000,DY6 9SJ,D,N,F,148B,,Mount Pleasant,,Kingswinford
+2023-03-29,335000,DY6 8JE,D,N,F,1,,Cumberland Close,,Kingswinford
+2023-03-24,255000,DY6 9BT,T,N,L,100,,Buckingham Grove,,Kingswinford
+2023-03-24,186500,DY6 8TB,T,N,F,275,,Bromley Lane,,Kingswinford
+2023-03-24,184000,DY6 8RN,T,N,F,54,,Laxton Close,,Kingswinford
+2023-03-24,69500,DY6 8BF,F,N,L,"Larch House, 241",Apartment 37,High Street,,Kingswinford
+2023-03-23,150000,DY6 9NA,F,N,L,Hayley Court,Flat 2,Summer Street,,Kingswinford
+2023-03-22,553000,DY6 0HE,D,N,F,20,,Holbeache Road,Wall Heath,Kingswinford
+2023-03-21,256000,DY6 9BT,S,N,F,55,,Buckingham Grove,,Kingswinford
+2023-03-21,215000,DY6 8EG,T,N,F,62,,Greenfields Road,,Kingswinford
+2023-03-21,135000,DY6 7BF,F,N,L,49,,Halt Mews,,Kingswinford
+2023-03-20,375000,DY6 9DG,D,N,F,12,,Maidendale Road,,Kingswinford
+2023-03-20,315000,DY6 7RY,T,N,F,67,,Monteagle Drive,,Kingswinford
+2023-03-17,280000,DY6 9PP,S,N,F,54,,Arlington Close,,Kingswinford
+2023-03-17,425000,DY6 9AP,D,N,F,2,,Brookside Way,Wall Heath,Kingswinford
+2023-03-16,290000,DY6 0HL,S,N,F,49,,Beachwood Avenue,Wall Heath,Kingswinford
+2023-03-15,255000,DY6 8PA,S,N,L,83,,Chelford Crescent,,Kingswinford
+2023-03-15,383500,DY6 8JE,D,N,F,34,,Cumberland Close,,Kingswinford
+2023-03-14,155000,DY6 9LU,S,N,L,13,,Cross Street,,Kingswinford
+2023-03-13,200000,DY6 8EG,S,N,F,68,,Greenfields Road,,Kingswinford
+2023-03-10,359950,DY6 8PY,D,N,L,8,,Ranleigh Avenue,,Kingswinford
+2023-03-10,223000,DY6 8DP,S,N,F,55E,,Standhills Road,,Kingswinford
+2023-03-10,305000,DY6 0JX,S,N,F,77,,Enville Road,Wall Heath,Kingswinford
+2023-03-09,320000,DY6 9PP,T,N,F,18,,Arlington Close,,Kingswinford
+2023-03-09,262000,DY6 8RL,D,N,F,89,,Linhope Drive,,Kingswinford
+2023-03-07,274000,DY6 7RS,D,N,L,41,,Charterfield Drive,,Kingswinford
+2023-03-03,285000,DY6 9EG,T,N,L,12,,Chelsea Way,,Kingswinford
+2023-03-03,248000,DY6 8QH,D,N,L,14,,Rangeways Road,,Kingswinford
+2023-03-03,435000,DY6 8LR,D,N,F,63,,Bromley Lane,,Kingswinford
+2023-03-03,102000,DY6 7RT,F,N,L,3,,Keyes Drive,,Kingswinford
+2023-03-01,520000,DY6 0JS,D,N,F,130,,Albion Street,Wall Heath,Kingswinford
+2023-02-28,625000,DY6 9XQ,D,N,F,7,,Clear View,,Kingswinford
+2023-02-24,325000,DY6 9DX,D,N,F,2A,,Berkeley Drive,,Kingswinford
+2023-02-24,230000,DY6 8HU,S,N,F,13,,Stream Park,,Kingswinford
+2023-02-24,235000,DY6 8EZ,T,N,F,25,,Hazel Road,,Kingswinford
+2023-02-17,220000,DY6 9SR,S,N,F,3,,Hilldene Road,,Kingswinford
+2023-02-10,362000,DY6 7AL,D,N,F,21,,The Crossing,,Kingswinford
+2023-02-06,225000,DY6 9SS,S,N,F,149,,Mount Pleasant,,Kingswinford
+2023-02-03,179950,DY6 8RN,T,N,L,88,,Laxton Close,,Kingswinford
+2023-02-03,210000,DY6 8HA,S,N,F,42,,Beech Road,,Kingswinford
+2023-02-03,180000,DY6 0NJ,T,N,F,27,,Enville Road,Wall Heath,Kingswinford
+2023-02-01,187500,DY6 0JJ,S,N,F,3,,Victoria Street,Wall Heath,Kingswinford
+2023-01-31,276000,DY6 0HU,S,N,F,122,,Beachcroft Road,,Kingswinford
+2023-01-30,295000,DY6 9BW,T,N,F,18,,Beverley Drive,,Kingswinford
+2023-01-30,191500,DY6 8DL,S,N,F,61,,Larch Road,,Kingswinford
+2023-01-30,365000,DY6 7BA,D,N,F,31,,Great Western Way,,Kingswinford
+2023-01-27,155000,DY6 8AA,F,N,L,762,Flat 4,High Street,,Kingswinford
+2023-01-27,270500,DY6 7DL,S,N,F,17,,Almond Road,,Kingswinford
+2023-01-27,262500,DY6 0HU,T,N,F,82,,Beachcroft Road,,Kingswinford
+2023-01-20,295000,DY6 9QA,S,N,F,154,,Barnett Lane,,Kingswinford
+2023-01-20,260000,DY6 9PX,S,N,F,147,,Barnett Lane,,Kingswinford
+2023-01-20,210000,DY6 9LR,T,N,F,19,,Broad Street,,Kingswinford
+2023-01-20,235000,DY6 8RG,S,N,F,12,,Marley Road,,Kingswinford
+2023-01-17,200000,DY6 8DG,S,N,F,85,,Larch Road,,Kingswinford
+2023-01-13,335000,DY6 9TA,D,N,F,29,,Kingswood Road,,Kingswinford
+2023-01-13,218000,DY6 9SE,S,N,F,64,,Mount Pleasant,,Kingswinford
+2023-01-13,130000,DY6 9HS,F,N,L,"Prestwood Court, 31",Flat 2,Moss Grove,,Kingswinford
+2023-01-13,250000,DY6 8EE,S,N,F,17,,Rowan Rise,,Kingswinford
+2023-01-12,220000,DY6 8DP,T,N,F,109,,Standhills Road,,Kingswinford
+2023-01-06,254000,DY6 9PN,S,N,F,140,,Barnett Lane,,Kingswinford
+2022-12-21,185000,DY6 9EX,T,N,F,41,,Barton Lane,,Kingswinford
+2022-12-21,240000,DY6 7RG,S,N,L,41,,Flanders Drive,,Kingswinford
+2022-12-20,452500,DY6 9SH,D,N,F,122,,Mount Pleasant,,Kingswinford
+2022-12-20,325000,DY6 9RY,S,N,F,7,,Kingsley Road,,Kingswinford
+2022-12-20,270000,DY6 7QD,T,N,F,90,,Water Street,,Kingswinford
+2022-12-20,235000,DY6 7AQ,T,N,F,19,,Queen Street,,Kingswinford
+2022-12-20,280000,DY6 0JA,T,N,F,10,,Maidensbridge Road,Wall Heath,Kingswinford
+2022-12-19,135000,DY6 7RH,F,N,L,31,,Grant Close,,Kingswinford
+2022-12-16,380000,DY6 9DE,S,N,L,8,,Milcote Way,,Kingswinford
+2022-12-16,300000,DY6 9AS,S,N,F,31,,Summerfield Avenue,,Kingswinford
+2022-12-16,250000,DY6 8NU,T,N,L,115,,Rangeways Road,,Kingswinford
+2022-12-16,220000,DY6 8NG,S,N,F,20,,Ragees Road,,Kingswinford
+2022-12-16,248000,DY6 7RA,S,N,F,32,,Lambert Court,,Kingswinford
+2022-12-16,147500,DY6 7BF,F,N,L,63,,Halt Mews,,Kingswinford
+2022-12-15,195000,DY6 0LA,S,N,F,18,,Blaze Hill Road,Wall Heath,Kingswinford
+2022-12-15,400000,DY6 0EY,D,N,F,7,,Kidderminster Road,,Kingswinford
+2022-12-13,460000,DY6 9RB,D,N,F,41,,Ridge Road,,Kingswinford
+2022-12-12,185000,DY6 9LX,T,N,F,1,,Park Street,,Kingswinford
+2022-12-10,178000,DY6 8LU,S,N,F,31,,Burrows Road,,Kingswinford
+2022-12-09,360000,DY6 9EJ,D,N,F,20,,Ross Drive,,Kingswinford
+2022-12-09,240000,DY6 8QP,S,N,F,38,,Camberley Road,,Kingswinford
+2022-12-09,80000,DY6 8NG,T,N,L,76,,Ragees Road,,Kingswinford
+2022-12-09,385000,DY6 8AT,T,N,F,1,,Park Lane,,Kingswinford
+2022-12-09,270000,DY6 7RT,S,N,L,32,,Keyes Drive,,Kingswinford
+2022-12-09,195000,DY6 7LQ,T,N,F,54,,Chandler Drive,,Kingswinford
+2022-12-09,440000,DY6 7HY,D,N,F,29B,,Wolverhampton Road,,Kingswinford
+2022-12-09,265000,DY6 0HU,S,N,F,80,,Beachcroft Road,,Kingswinford
+2022-12-09,290000,DY6 0HP,S,N,L,4,,Holcroft Road,,Kingswinford
+2022-12-08,270000,DY6 9HG,T,N,F,3,,Murdoch Drive,,Kingswinford
+2022-12-05,347500,DY6 9RR,S,N,F,132,,Kingsley Road,,Kingswinford
+2022-12-05,342000,DY6 9LP,S,N,F,16,,Broad Street,,Kingswinford
+2022-12-05,243000,DY6 7RD,S,N,L,68,,Charterfield Drive,,Kingswinford
+2022-12-02,395000,DY6 7QA,D,N,F,30,,Water Street,,Kingswinford
+2022-12-02,595000,DY6 0DS,D,N,F,10,,Tythebarn Drive,,Kingswinford
+2022-12-01,580000,DY6 9TL,D,N,F,22,,Dene Avenue,,Kingswinford
+2022-12-01,351000,DY6 9AU,S,N,F,4,,Summerfield Avenue,,Kingswinford
+2022-11-30,325000,DY6 9RH,S,N,F,16,,Essex Avenue,,Kingswinford
+2022-11-30,143500,DY6 0HG,F,N,L,"Grove Farm, 2",Flat 1,Maidensbridge Road,Wall Heath,Kingswinford
+2022-11-29,350000,DY6 9UB,S,N,F,106A,,Cot Lane,,Kingswinford
+2022-11-28,504400,DY6 9TH,D,N,F,91,,Cot Lane,,Kingswinford
+2022-11-28,250000,DY6 8HU,S,N,F,41,,Stream Park,,Kingswinford
+2022-11-25,292500,DY6 8SP,S,N,F,78,,Booth Close,,Kingswinford
+2022-11-25,260000,DY6 8SE,S,N,F,102,,Metfield Croft,,Kingswinford
+2022-11-25,262000,DY6 7LX,S,N,F,17,,Della Court,,Kingswinford
+2022-11-24,300000,DY6 9PE,S,N,F,34,,Fairlawn Drive,,Kingswinford
+2022-11-23,138000,DY6 7BF,F,N,L,61,,Halt Mews,,Kingswinford
+2022-11-18,335000,DY6 8XU,D,N,F,37,,Ploverdale Crescent,,Kingswinford
+2022-11-15,353500,DY6 9NS,D,N,F,2,,Compton Drive,,Kingswinford
+2022-11-15,270000,DY6 9DB,S,N,F,29,,Meadfoot Drive,,Kingswinford
+2022-11-15,105000,DY6 7AA,F,N,L,South Down Court,Flat 4,Penzer Street,,Kingswinford
+2022-11-11,502500,DY6 9QJ,D,N,F,8,,Summercourt Square,,Kingswinford
+2022-11-11,215000,DY6 8LY,S,N,L,1,,Elmhurst Drive,,Kingswinford
+2022-11-07,295000,DY6 9BQ,D,N,F,25,,Brenwood Close,,Kingswinford
+2022-11-04,335000,DY6 0HU,T,N,F,116,,Beachcroft Road,,Kingswinford
+2022-11-03,247000,DY6 7LU,S,N,F,3,,Bobeche Place,,Kingswinford
+2022-10-28,236000,DY6 9SR,S,N,F,12,,Hilldene Road,,Kingswinford
+2022-10-28,318000,DY6 9RB,S,N,F,9,,Ridge Road,,Kingswinford
+2022-10-28,215000,DY6 8EG,S,N,F,46,,Greenfields Road,,Kingswinford
+2022-10-28,215000,DY6 7EQ,S,N,F,97,,Balfour Road,,Kingswinford
+2022-10-28,260000,DY6 7DH,D,N,F,5,,Balfour Road,,Kingswinford
+2022-10-26,290000,DY6 8JT,S,N,F,24,,The Knoll,,Kingswinford
+2022-10-24,265000,DY6 7BE,S,N,F,31,,Pullman Drive,,Kingswinford
+2022-10-21,467000,DY6 9PA,D,N,F,12,,Cedars Avenue,,Kingswinford
+2022-10-21,264800,DY6 8RD,S,N,F,56,,Nanaimo Way,,Kingswinford
+2022-10-21,210000,DY6 7AF,S,N,F,113,,Penzer Street,,Kingswinford
+2022-10-20,250000,DY6 8LZ,S,N,F,28,,Elmhurst Drive,,Kingswinford
+2022-10-17,230000,DY6 0BP,S,N,F,92,,Enville Road,Wall Heath,Kingswinford
+2022-10-14,246500,DY6 8NZ,S,N,F,58,,Tiverton Close,,Kingswinford
+2022-10-14,160000,DY6 7LU,S,N,F,11,,Bobeche Place,,Kingswinford
+2022-10-13,520000,DY6 9HS,D,N,F,35A,,Moss Grove,,Kingswinford
+2022-10-12,287500,DY6 8JR,S,N,F,212,,Standhills Road,,Kingswinford
+2022-10-11,254000,DY6 8PQ,D,N,F,58,,Rangeways Road,,Kingswinford
+2022-10-07,279950,DY6 9BA,S,N,F,7,,Foundry Road,Wall Heath,Kingswinford
+2022-10-07,197000,DY6 8RN,T,N,F,42,,Laxton Close,,Kingswinford
+2022-10-07,315000,DY6 8JH,D,N,F,15,,Melbourne Close,,Kingswinford
+2022-10-07,250000,DY6 7BE,S,N,F,29,,Pullman Drive,,Kingswinford
+2022-10-06,260000,DY6 9SX,S,N,F,12,,Ashley Close,,Kingswinford
+2022-10-06,335000,DY6 9BT,T,N,F,45,,Buckingham Grove,,Kingswinford
+2022-10-06,180000,DY6 8PJ,S,N,F,3,,Freeland Grove,,Kingswinford
+2022-10-05,505000,DY6 9QN,D,N,F,22,,White Oak Drive,,Kingswinford
+2022-10-04,307500,DY6 8PJ,S,N,L,16,,Freeland Grove,,Kingswinford
+2022-10-04,246500,DY6 8NQ,S,N,F,35,,Ragees Road,,Kingswinford
+2022-10-03,355000,DY6 9EE,D,N,L,6,,Regent Close,,Kingswinford
+2022-10-03,200000,DY6 8RJ,T,N,F,20,,Lerryn Close,,Kingswinford
+2022-10-03,230000,DY6 8LA,T,N,F,116,,Standhills Road,,Kingswinford
+2022-09-30,320000,DY6 9RP,S,N,F,162,,Kingsley Road,,Kingswinford
+2022-09-30,249995,DY6 9NS,F,N,L,Broadfield House,Apartment 2,Compton Drive,,Kingswinford
+2022-09-30,295000,DY6 9NS,F,N,L,Broadfield House,Apartment 5,Compton Drive,,Kingswinford
+2022-09-30,220000,DY6 8PD,S,N,F,18,,Tiverton Close,,Kingswinford
+2022-09-30,290000,DY6 8LL,T,N,F,62,,Granville Drive,,Kingswinford
+2022-09-30,385000,DY6 8JG,D,N,F,6,,Wellington Close,,Kingswinford
+2022-09-30,100000,DY6 8EH,F,N,L,34,,Laburnum Road,,Kingswinford
+2022-09-29,275000,DY6 9RH,S,N,F,24,,Essex Avenue,,Kingswinford
+2022-09-28,275000,DY6 9ET,S,N,F,27,,Fellows Avenue,Wall Heath,Kingswinford
+2022-09-28,98000,DY6 8NQ,F,N,L,93,,Ragees Road,,Kingswinford
+2022-09-23,293000,DY6 7RJ,D,N,L,6,,Catesby Drive,,Kingswinford
+2022-09-22,155000,DY6 9LX,T,N,F,The Parklands,3,Park Street,,Kingswinford
+2022-09-22,170000,DY6 8AA,T,N,F,691,,High Street,,Kingswinford
+2022-09-20,420000,DY6 9QH,D,N,F,208A,,Cot Lane,,Kingswinford
+2022-09-16,150000,DY6 9HJ,F,N,L,44,,Murdoch Drive,,Kingswinford
+2022-09-16,199500,DY6 8QP,S,N,F,66,,Camberley Road,,Kingswinford
+2022-09-16,260000,DY6 7NE,S,N,F,19,,Herringbone Way,,Kingswinford
+2022-09-16,250000,DY6 7ER,T,N,L,5,,Heathlands Close,,Kingswinford
+2022-09-15,224200,DY6 9LX,T,N,F,11G,,Park Street,,Kingswinford
+2022-09-15,293250,DY6 8HZ,D,N,F,64,,Markham Drive,,Kingswinford
+2022-09-15,145000,DY6 0JW,T,N,F,2,,Parkview Court,Wall Heath,Kingswinford
+2022-09-14,95000,DY6 8EH,F,N,L,42,,Laburnum Road,,Kingswinford
+2022-09-14,280000,DY6 8AT,T,N,F,4,,Park Lane,,Kingswinford
+2022-09-14,130000,DY6 0HG,F,N,L,"Grove Farm, 2",Flat 2,Maidensbridge Road,Wall Heath,Kingswinford
+2022-09-13,275000,DY6 9TG,S,N,F,1,,Mount Pleasant,,Kingswinford
+2022-09-13,270000,DY6 7RR,S,N,L,2,,Jay Road,,Kingswinford
+2022-09-12,325000,DY6 9SH,D,N,F,98,,Mount Pleasant,,Kingswinford
+2022-09-12,301000,DY6 9DY,D,N,F,7,,Whitehall Road,,Kingswinford
+2022-09-12,225000,DY6 8TZ,S,N,F,10,,Nanaimo Way,,Kingswinford
+2022-09-12,285000,DY6 8SR,D,N,F,280,,Blenheim Road,,Kingswinford
+2022-09-12,205500,DY6 8HL,T,N,F,61,,The Portway,,Kingswinford
+2022-09-12,170000,DY6 8EG,T,N,F,81,,Greenfields Road,,Kingswinford
+2022-09-09,335000,DY6 9RS,S,N,F,151,,Kingsley Road,,Kingswinford
+2022-09-09,185000,DY6 8SF,T,N,F,105,,Lydgate Road,,Kingswinford
+2022-09-09,410000,DY6 8HX,S,N,F,10,,Bromley Lane,,Kingswinford
+2022-09-08,385000,DY6 9QA,D,N,F,152,,Barnett Lane,,Kingswinford
+2022-09-08,380000,DY6 0HU,D,N,F,104,,Beachcroft Road,,Kingswinford
+2022-09-07,339950,DY6 9RP,S,N,F,237,,Kingsley Road,,Kingswinford
+2022-09-07,415000,DY6 9RG,S,N,F,54,,Ridge Road,,Kingswinford
+2022-09-07,285000,DY6 9ET,T,N,F,37,,Fellows Avenue,Wall Heath,Kingswinford
+2022-09-07,230000,DY6 7QF,S,N,F,44,,Cottage Street,,Kingswinford
+2022-09-07,210000,DY6 0LG,T,N,F,58,,Forge Lane,,Kingswinford
+2022-09-07,242000,DY6 0JE,T,N,F,30,,Brook Street,Wall Heath,Kingswinford
+2022-09-01,237000,DY6 9LS,S,N,F,41,,Oak Street,,Kingswinford
+2022-08-31,79995,DY6 9LT,F,N,L,32,,Oak Street,,Kingswinford
+2022-08-31,275000,DY6 8LF,S,N,F,7,,Fairview Crescent,,Kingswinford
+2022-08-31,195000,DY6 7QF,T,N,F,38,,Cottage Street,,Kingswinford
+2022-08-31,53400,DY6 7BF,T,N,L,27,,Halt Mews,,Kingswinford
+2022-08-26,400000,DY6 9AX,S,N,F,11,,The Parade,Wall Heath,Kingswinford
+2022-08-26,170000,DY6 8RT,T,N,L,171,,Landrake Road,,Kingswinford
+2022-08-26,285000,DY6 7RS,D,N,L,35,,Charterfield Drive,,Kingswinford
+2022-08-26,220000,DY6 7AG,S,N,F,59,,Queen Street,,Kingswinford
+2022-08-26,725000,DY6 0HG,D,N,F,6,,Maidensbridge Road,Wall Heath,Kingswinford
+2022-08-25,200000,DY6 9BP,S,N,F,23,,Dubarry Avenue,,Kingswinford
+2022-08-25,335000,DY6 8AN,D,N,F,11,,Windermere Drive,,Kingswinford
+2022-08-23,244000,DY6 8AT,T,N,F,8,,Park Lane,,Kingswinford
+2022-08-19,255000,DY6 8HR,T,N,F,5,,Surrey Drive,,Kingswinford
+2022-08-19,225000,DY6 8EE,S,N,F,21,,Rowan Rise,,Kingswinford
+2022-08-19,188000,DY6 8DJ,S,N,F,58,,Ash Crescent,,Kingswinford
+2022-08-19,255000,DY6 7HB,S,N,F,25,,Oakleigh Walk,,Kingswinford
+2022-08-19,270000,DY6 7DP,S,N,F,26,,Cherry Tree Road,,Kingswinford
+2022-08-19,325000,DY6 0JL,T,N,F,88,,Victoria Street,Wall Heath,Kingswinford
+2022-08-19,400000,DY6 0JH,D,N,F,100,,Brook Street,Wall Heath,Kingswinford
+2022-08-18,295000,DY6 9ST,T,N,F,79,,Mount Pleasant,,Kingswinford
+2022-08-18,545000,DY6 9RD,D,N,F,46,,Ridge Road,,Kingswinford
+2022-08-18,129000,DY6 9NA,S,N,F,25A,,Summer Street,,Kingswinford
+2022-08-18,85000,DY6 8BF,F,N,L,"Larch House, 241",Apartment 47,High Street,,Kingswinford
+2022-08-18,450000,DY6 7QA,S,N,F,24,,Water Street,,Kingswinford
+2022-08-12,210000,DY6 9BP,S,N,F,11,,Dubarry Avenue,,Kingswinford
+2022-08-12,272000,DY6 8LT,S,N,F,32,,Winford Avenue,,Kingswinford
+2022-08-12,325000,DY6 8LH,D,N,F,29,,Granville Drive,,Kingswinford
+2022-08-12,63875,DY6 7AR,S,N,F,35,,Field Sidings Way,,Kingswinford
+2022-08-09,152000,DY6 8TF,T,N,F,127,,Bromley Lane,,Kingswinford
+2022-08-09,215000,DY6 7AQ,S,N,F,Ivy Dene,,Queen Street,,Kingswinford
+2022-08-03,565000,DY6 7AA,D,N,F,28,,Penzer Street,,Kingswinford
+2022-08-01,237000,DY6 7HA,S,N,F,59,,Balfour Road,,Kingswinford
+2022-07-29,365000,DY6 9DH,D,N,F,8,,Maywood Close,,Kingswinford
+2022-07-29,270000,DY6 9AU,S,N,F,18A,,Summerfield Avenue,,Kingswinford
+2022-07-29,367000,DY6 8JR,D,N,F,202,,Standhills Road,,Kingswinford
+2022-07-29,192000,DY6 8DE,S,N,F,5,,Furber Place,,Kingswinford
+2022-07-29,220000,DY6 0LA,T,N,F,27,,Blaze Hill Road,Wall Heath,Kingswinford
+2022-07-29,278000,DY6 0JH,S,N,F,77,,Brook Street,Wall Heath,Kingswinford
+2022-07-26,378000,DY6 8JZ,D,N,F,12,,Southbank View,,Kingswinford
+2022-07-25,675000,DY6 9XQ,D,N,F,8,,Clear View,,Kingswinford
+2022-07-25,365000,DY6 9RL,S,N,F,88,,Court Crescent,,Kingswinford
+2022-07-25,195000,DY6 7AG,S,N,F,57,,Queen Street,,Kingswinford
+2022-07-22,470000,DY6 9RB,D,N,F,3,,Ridge Road,,Kingswinford
+2022-07-22,255000,DY6 8SD,S,N,F,48,,Austrey Road,,Kingswinford
+2022-07-22,250000,DY6 8HG,S,N,F,12,,Cranham Drive,,Kingswinford
+2022-07-22,240000,DY6 7BA,T,N,F,12,,Great Western Way,,Kingswinford
+2022-07-22,350000,DY6 0JY,T,N,F,32,,Windmill Grove,Wall Heath,Kingswinford
+2022-07-21,170000,DY6 8HR,S,N,F,8,,Surrey Drive,,Kingswinford
+2022-07-21,262500,DY6 8ES,S,N,F,33,,Beeches Close,,Kingswinford
+2022-07-20,450000,DY6 9TU,D,N,F,4,,Cypress Gardens,,Kingswinford
+2022-07-20,220000,DY6 8EY,S,N,F,7,,Pine Close,,Kingswinford
+2022-07-20,330000,DY6 7LQ,D,N,F,30,,Chandler Drive,,Kingswinford
+2022-07-19,98500,DY6 8EH,F,N,L,30,,Laburnum Road,,Kingswinford
+2022-07-19,255000,DY6 0JH,S,N,F,65,,Brook Street,Wall Heath,Kingswinford
+2022-07-18,265000,DY6 8QJ,S,N,L,13,,Randall Close,,Kingswinford
+2022-07-18,147000,DY6 7AR,F,N,L,109,,Field Sidings Way,,Kingswinford
+2022-07-18,192500,DY6 7AG,S,N,F,49,,Queen Street,,Kingswinford
+2022-07-15,137500,DY6 9HG,F,N,L,65,,Murdoch Drive,,Kingswinford
+2022-07-15,240000,DY6 7HY,T,N,F,27A,,Wolverhampton Road,,Kingswinford
+2022-07-14,220000,DY6 8DB,T,N,F,7,,Chestnut Grove,,Kingswinford
+2022-07-12,290000,DY6 9PW,T,N,F,8,,Barnett Close,,Kingswinford
+2022-07-12,230000,DY6 7EE,T,N,F,11,,Hillcroft Road,,Kingswinford
+2022-07-08,198000,DY6 8DJ,S,N,F,23,,Ash Crescent,,Kingswinford
+2022-07-08,220000,DY6 7RZ,S,N,F,48,,Monteagle Drive,,Kingswinford
+2022-07-08,272500,DY6 0HR,S,N,F,47,,Claydon Road,,Kingswinford
+2022-07-07,364000,DY6 9SH,D,N,F,82,,Mount Pleasant,,Kingswinford
+2022-07-07,73500,DY6 8NQ,F,N,L,101,,Ragees Road,,Kingswinford
+2022-07-06,320000,DY6 9RH,S,N,F,14,,Essex Avenue,,Kingswinford
+2022-07-04,215000,DY6 8HB,S,N,F,43,,The Portway,,Kingswinford
+2022-07-04,110000,DY6 7SB,F,N,L,8,,Rokewood Close,,Kingswinford
+2022-07-04,215000,DY6 7RD,S,N,F,72,,Charterfield Drive,,Kingswinford
+2022-07-01,270000,DY6 9RU,T,N,F,91A,,Kingsley Road,,Kingswinford
+2022-07-01,400000,DY6 9EB,D,N,F,14,,Buckingham Grove,,Kingswinford
+2022-07-01,270000,DY6 8PT,S,N,F,26,,Conway Close,,Kingswinford
+2022-07-01,355000,DY6 8NA,D,N,F,16,,Southway Court,,Kingswinford
+2022-07-01,275000,DY6 7SD,S,N,L,7,,Harrow Road,,Kingswinford
+2022-07-01,400000,DY6 7AB,S,N,F,68,,Penzer Street,,Kingswinford
+2022-07-01,315000,DY6 0JU,D,N,F,2A,,Chapel Street,Wall Heath,Kingswinford
+2022-06-30,490000,DY6 9QA,D,N,F,167,,Barnett Lane,,Kingswinford
+2022-06-30,575000,DY6 0NA,D,N,F,1A,,Albert Street,Wall Heath,Kingswinford
+2022-06-29,295000,DY6 7LQ,D,N,F,5,,Chandler Drive,,Kingswinford
+2022-06-28,240000,DY6 7LZ,S,N,F,12,,English Gardens,,Kingswinford
+2022-06-27,276500,DY6 8JY,S,N,F,4,,West View Drive,,Kingswinford
+2022-06-27,75000,DY6 8BF,F,N,L,"Larch House, 241",Apartment 38,High Street,,Kingswinford
+2022-06-24,370000,DY6 9RP,S,N,F,199,,Kingsley Road,,Kingswinford
+2022-06-24,379950,DY6 9DF,D,N,F,11,,Dalesman Close,,Kingswinford
+2022-06-24,430000,DY6 9DD,D,N,F,56,,Maidendale Road,,Kingswinford
+2022-06-24,200000,DY6 8JY,D,N,F,19,,West View Drive,,Kingswinford
+2022-06-24,135000,DY6 8EW,T,N,F,18,,Greenfields Road,,Kingswinford
+2022-06-24,282000,DY6 8ES,S,N,F,6,,Beeches Close,,Kingswinford
+2022-06-23,420000,DY6 9TN,D,N,F,20,,Celandine Close,,Kingswinford
+2022-06-20,300000,DY6 9RL,S,N,F,58,,Court Crescent,,Kingswinford
+2022-06-20,270000,DY6 9AR,S,N,F,44,,Summerfield Avenue,,Kingswinford
+2022-06-17,330000,DY6 9PT,S,N,F,3,,Glynne Avenue,,Kingswinford
+2022-06-17,415000,DY6 9BH,D,N,F,28,,Dawley Road,Wall Heath,Kingswinford
+2022-06-17,332000,DY6 9AF,S,N,F,27,,Grove Park,Wall Heath,Kingswinford
+2022-06-17,432000,DY6 8JP,D,N,F,Grasscroft,,Bromley Lane,,Kingswinford
+2022-06-17,232000,DY6 7AN,T,N,F,7,,Coach Mews,,Kingswinford
+2022-06-16,315000,DY6 9AL,S,N,F,40,,Lynwood Avenue,,Kingswinford
+2022-06-16,255000,DY6 7EE,S,N,F,27,,Hillcroft Road,,Kingswinford
+2022-06-16,480000,DY6 0LX,D,N,F,106,,Victoria Street,Wall Heath,Kingswinford
+2022-06-10,362000,DY6 8HS,D,N,F,5,,Southern Close,,Kingswinford
+2022-06-10,305000,DY6 7RA,D,N,F,1,,Lambert Court,,Kingswinford
+2022-06-10,305000,DY6 7RA,D,N,L,1,,Lambert Court,,Kingswinford
+2022-06-10,229000,DY6 0HU,T,N,F,116,,Beachcroft Road,,Kingswinford
+2022-06-06,173500,DY6 7QF,T,N,F,40,,Cottage Street,,Kingswinford
+2022-06-06,182950,DY6 7HY,F,N,L,"Dawley Court, 23",Flat 4,Wolverhampton Road,,Kingswinford
+2022-06-01,230000,DY6 9HH,T,N,F,84,,Moss Grove,,Kingswinford
+2022-06-01,475000,DY6 0AQ,D,N,F,Ashwood Marina,Ashwood House,Ashwood,,Kingswinford
+2022-05-31,287000,DY6 8JE,D,N,L,4,,Cumberland Close,,Kingswinford
+2022-05-30,325000,DY6 9UA,D,N,F,10,,New Street,,Kingswinford
+2022-05-30,246000,DY6 9EG,T,N,L,9,,Chelsea Way,,Kingswinford
+2022-05-30,397500,DY6 8DZ,D,N,F,4,,Keswick Drive,,Kingswinford
+2022-05-27,372000,DY6 9TH,D,N,F,113A,,Cot Lane,,Kingswinford
+2022-05-27,246000,DY6 8RR,D,N,F,29,,Leaford Way,,Kingswinford
+2022-05-27,212000,DY6 8HN,S,N,F,10,,Portway Close,,Kingswinford
+2022-05-26,355000,DY6 8XQ,D,N,F,9,,Robin Close,,Kingswinford
+2022-05-26,197500,DY6 8JX,D,N,F,6,,The Knoll,,Kingswinford
+2022-05-25,232000,DY6 7HF,S,N,F,10,,Birchwood Walk,,Kingswinford
+2022-05-25,341000,DY6 0HR,S,N,F,42,,Claydon Road,,Kingswinford
+2022-05-24,550000,DY6 0JD,D,N,F,82,,Maidensbridge Road,Wall Heath,Kingswinford
+2022-05-19,282500,DY6 7RF,D,N,L,10,,Garret Close,,Kingswinford
+2022-05-18,320000,DY6 8JX,D,N,F,14,,The Knoll,,Kingswinford
+2022-05-18,153000,DY6 0HG,F,N,L,2,Flat 4,Maidensbridge Road,Wall Heath,Kingswinford
+2022-05-13,240000,DY6 9HJ,T,N,F,74,,Murdoch Drive,,Kingswinford
+2022-05-13,235000,DY6 8LL,S,N,F,58,,Granville Drive,,Kingswinford
+2022-05-06,269500,DY6 9PP,S,N,F,36,,Arlington Close,,Kingswinford
+2022-05-06,257500,DY6 8PY,D,N,F,2,,Ranleigh Avenue,,Kingswinford
+2022-05-06,181000,DY6 8HR,T,N,F,31,,Surrey Drive,,Kingswinford
+2022-05-06,183000,DY6 8EY,S,N,F,1,,Pine Close,,Kingswinford
+2022-05-06,195000,DY6 8DJ,S,N,F,39,,Ash Crescent,,Kingswinford
+2022-05-06,185000,DY6 8DB,S,N,F,23,,Chestnut Grove,,Kingswinford
+2022-04-29,505000,DY6 9QN,D,N,F,23,,White Oak Drive,,Kingswinford
+2022-04-29,290000,DY6 9PP,S,N,F,53,,Arlington Close,,Kingswinford
+2022-04-29,130000,DY6 9HG,F,N,L,71,,Murdoch Drive,,Kingswinford
+2022-04-29,225000,DY6 7ES,S,N,F,3,,Leacroft Road,,Kingswinford
+2022-04-28,342500,DY6 8XT,D,N,F,40,,Ploverdale Crescent,,Kingswinford
+2022-04-28,200000,DY6 8LY,S,N,F,15,,Elmhurst Drive,,Kingswinford
+2022-04-28,300000,DY6 7LQ,D,N,F,10,,Chandler Drive,,Kingswinford
+2022-04-26,348500,DY6 9DX,D,N,F,2A,,Berkeley Drive,,Kingswinford
+2022-04-22,405000,DY6 9DD,D,N,F,44,,Maidendale Road,,Kingswinford
+2022-04-22,243000,DY6 8LH,D,N,F,42,,Granville Drive,,Kingswinford
+2022-04-22,710000,DY6 8JP,D,N,F,Mulberry,,Bromley Lane,,Kingswinford
+2022-04-22,382500,DY6 8JP,D,N,F,25,,Bromley Lane,,Kingswinford
+2022-04-22,485000,DY6 0JH,S,N,F,94,,Brook Street,Wall Heath,Kingswinford
+2022-04-21,415000,DY6 9EA,D,N,F,28,,Buckingham Grove,,Kingswinford
+2022-04-20,203800,DY6 7DP,S,N,F,8,,Cherry Tree Road,,Kingswinford
+2022-04-19,346000,DY6 8XT,D,N,F,28,,Ploverdale Crescent,,Kingswinford
+2022-04-19,252000,DY6 8RX,S,N,F,85,,Fitton Avenue,,Kingswinford
+2022-04-14,194000,DY6 8PJ,S,N,L,11,,Freeland Grove,,Kingswinford
+2022-04-14,194000,DY6 8PJ,S,N,F,11,,Freeland Grove,,Kingswinford
+2022-04-14,227000,DY6 7DX,T,N,F,27,,Earlswood Road,,Kingswinford
+2022-04-14,220000,DY6 7AL,T,N,F,14,,The Crossing,,Kingswinford
+2022-04-12,80000,DY6 8RA,S,N,F,135,,Nanaimo Way,,Kingswinford
+2022-04-12,204000,DY6 7ST,T,N,F,43,,Hawkeswell Drive,,Kingswinford
+2022-04-11,285000,DY6 8JT,D,N,F,37,,The Knoll,,Kingswinford
+2022-04-11,275000,DY6 7ED,S,N,F,14,,Honeysuckle Avenue,,Kingswinford
+2022-04-08,188500,DY6 8LX,S,N,F,17,,Burnham Close,,Kingswinford
+2022-04-08,192000,DY6 8AG,S,N,F,35,,Manor Park,,Kingswinford
+2022-04-08,300000,DY6 7LT,D,N,F,7,,Rushlight Gardens,,Kingswinford
+2022-04-08,235000,DY6 0JA,T,N,F,12,,Maidensbridge Road,Wall Heath,Kingswinford
+2022-04-05,295000,DY6 8PY,D,N,F,1,,Ranleigh Avenue,,Kingswinford
+2022-04-04,175000,DY6 7QF,S,N,F,64,,Cottage Street,,Kingswinford
+2022-04-01,365000,DY6 9PN,S,N,F,128,,Barnett Lane,,Kingswinford
+2022-04-01,268000,DY6 8ND,S,N,F,10,,Bartic Avenue,,Kingswinford
+2022-04-01,358000,DY6 8JZ,D,N,F,5,,Southbank View,,Kingswinford
+2022-04-01,230000,DY6 8JU,D,N,F,15,,Eaton Place,,Kingswinford
+2022-04-01,245000,DY6 8HH,S,N,F,1,,Oakfield Avenue,,Kingswinford
+2022-04-01,255000,DY6 7AJ,T,N,L,2,,Back Road,,Kingswinford
+2022-04-01,520000,DY6 0JA,D,N,F,20,,Maidensbridge Road,Wall Heath,Kingswinford
+2022-04-01,375000,DY6 0HP,D,N,F,1,,Holcroft Road,,Kingswinford
+2022-03-31,240000,DY6 9EL,D,N,F,38B,,Buckingham Grove,,Kingswinford
+2022-03-31,220000,DY6 8LH,S,N,F,30,,Granville Drive,,Kingswinford
+2022-03-29,172000,DY6 8DL,S,N,F,61,,Larch Road,,Kingswinford
+2022-03-25,475000,DY6 9XB,D,N,F,75,,High Wood Close,,Kingswinford
+2022-03-25,515000,DY6 9SA,D,N,F,149,,Cot Lane,,Kingswinford
+2022-03-25,320000,DY6 9RE,S,N,F,67,,Ridge Road,,Kingswinford
+2022-03-25,325000,DY6 9BQ,D,N,F,23,,Brenwood Close,,Kingswinford
+2022-03-25,402000,DY6 9BQ,D,N,F,12,,Brenwood Close,,Kingswinford
+2022-03-25,280000,DY6 9BP,D,N,F,41,,Dubarry Avenue,,Kingswinford
+2022-03-25,170000,DY6 8RQ,S,N,F,46,,Marley Road,,Kingswinford
+2022-03-25,151000,DY6 8RF,S,N,F,23,,Wrens Avenue,,Kingswinford
+2022-03-25,279000,DY6 8LF,T,N,F,8,,Fairview Crescent,,Kingswinford
+2022-03-25,246000,DY6 7HJ,S,N,L,5,,Avondale Close,,Kingswinford
+2022-03-25,325000,DY6 7AR,D,N,F,23,,Field Sidings Way,,Kingswinford
+2022-03-23,235000,DY6 9BS,S,N,L,5,,Kingston Way,,Kingswinford
+2022-03-21,283000,DY6 9SE,S,N,F,22,,Mount Pleasant,,Kingswinford
+2022-03-21,202500,DY6 7AQ,T,N,F,17,,Queen Street,,Kingswinford
+2022-03-21,389950,DY6 0NL,S,N,F,34,,Enville Road,Wall Heath,Kingswinford
+2022-03-18,382500,DY6 9EA,D,N,F,41,,Buckingham Grove,,Kingswinford
+2022-03-18,215000,DY6 8RF,S,N,F,11,,Wrens Avenue,,Kingswinford
+2022-03-18,86000,DY6 8NG,F,N,L,34,,Ragees Road,,Kingswinford
+2022-03-18,235000,DY6 8LS,T,N,F,2,,Burrows Road,,Kingswinford
+2022-03-18,268000,DY6 8JD,T,N,F,82,,Lesley Drive,,Kingswinford
+2022-03-18,268000,DY6 8JD,T,N,L,82,,Lesley Drive,,Kingswinford
+2022-03-11,240000,DY6 9LR,S,N,F,31D,,Broad Street,,Kingswinford
+2022-03-11,430000,DY6 9EX,D,N,F,13,,Barton Lane,,Kingswinford
+2022-03-11,245000,DY6 8HR,S,N,F,113,,Surrey Drive,,Kingswinford
+2022-03-11,327500,DY6 7BE,D,N,F,20,,Pullman Drive,,Kingswinford
+2022-03-11,185000,DY6 0LJ,T,N,F,76,,Enville Road,Wall Heath,Kingswinford
+2022-03-11,335000,DY6 0ET,S,N,F,17,,Brooklyn Grove,Wall Heath,Kingswinford
+2022-03-07,485000,DY6 9DQ,D,N,F,20,,Grasmere Close,Wall Heath,Kingswinford
+2022-03-04,275000,DY6 8LG,S,N,F,184,,Ketley Road,,Kingswinford
+2022-03-04,347500,DY6 7NF,D,N,F,2,,Herringbone Way,,Kingswinford
+2022-03-02,215000,DY6 8ES,S,N,F,31,,Beeches Close,,Kingswinford
+2022-03-02,245000,DY6 0HR,S,N,F,12,,Claydon Road,,Kingswinford
+2022-03-01,180000,DY6 7AF,S,N,F,101,,Penzer Street,,Kingswinford
+2022-02-28,310500,DY6 7AA,S,N,F,27,,Penzer Street,,Kingswinford
+2022-02-25,254000,DY6 9HG,T,N,F,11,,Murdoch Drive,,Kingswinford
+2022-02-25,364950,DY6 7NE,D,N,F,1,,Herringbone Way,,Kingswinford
+2022-02-25,151500,DY6 0JJ,T,N,F,26,,Victoria Street,Wall Heath,Kingswinford
+2022-02-25,332500,DY6 0JG,D,N,F,59,,Brook Street,Wall Heath,Kingswinford
+2022-02-23,160000,DY6 8PW,S,N,F,13,,Belvedere Close,,Kingswinford
+2022-02-21,375000,DY6 8JZ,D,N,F,8,,Southbank View,,Kingswinford
+2022-02-21,360000,DY6 7QA,S,N,F,22,,Water Street,,Kingswinford
+2022-02-21,450000,DY6 0HJ,T,N,F,2B,,Beachcroft Road,,Kingswinford
+2022-02-18,96000,DY6 7RU,F,N,L,27,,Monteagle Drive,,Kingswinford
+2022-02-18,198000,DY6 0JU,T,N,F,5,,Chapel Street,Wall Heath,Kingswinford
+2022-02-17,325000,DY6 8JP,D,N,F,Four Winds,,Bromley Lane,,Kingswinford
+2022-02-17,335000,DY6 8JH,D,N,F,24,,Melbourne Close,,Kingswinford
+2022-02-17,250000,DY6 7EA,S,N,F,14,,Mimosa Walk,,Kingswinford
+2022-02-16,265000,DY6 9RX,S,N,F,24,,Kingsley Road,,Kingswinford
+2022-02-16,360000,DY6 9AL,D,N,F,38,,Lynwood Avenue,,Kingswinford
+2022-02-16,147500,DY6 8RN,T,N,F,82,,Laxton Close,,Kingswinford
+2022-02-16,190000,DY6 8DP,T,N,F,58,,Standhills Road,,Kingswinford
+2022-02-14,210000,DY6 8TU,S,N,F,274,,Bromley Lane,,Kingswinford
+2022-02-14,192500,DY6 7BE,S,N,F,11,,Pullman Drive,,Kingswinford
+2022-02-14,303000,DY6 0HX,S,N,F,63,,Beachcroft Road,,Kingswinford
+2022-02-11,250000,DY6 9BW,S,N,F,14,,Beverley Drive,,Kingswinford
+2022-02-11,195000,DY6 8LE,T,N,F,15,,Rose Avenue,,Kingswinford
+2022-02-11,75000,DY6 8BF,F,N,L,"Larch House, 241",Apartment 64,High Street,,Kingswinford
+2022-02-11,215000,DY6 0LB,T,N,F,42,,Blaze Hill Road,Wall Heath,Kingswinford
+2022-02-09,170000,DY6 0LA,S,N,F,15,,Blaze Hill Road,Wall Heath,Kingswinford
+2022-02-07,197500,DY6 8EG,T,N,F,119,,Greenfields Road,,Kingswinford
+2022-02-04,480000,DY6 9TY,D,N,F,80A,,Cot Lane,,Kingswinford
+2022-02-04,442000,DY6 9SW,D,N,F,244,,Mount Pleasant,,Kingswinford
+2022-02-04,233000,DY6 8JS,S,N,F,199,,Standhills Road,,Kingswinford
+2022-02-04,325000,DY6 7AL,D,N,F,15,,The Crossing,,Kingswinford
+2022-02-02,290000,DY6 9AT,S,N,F,3,,Brook Crescent,,Kingswinford
+2022-02-02,172500,DY6 8HW,T,N,F,83,,The Portway,,Kingswinford
+2022-02-01,210000,DY6 7DL,S,N,F,12,,Almond Road,,Kingswinford
+2022-01-31,255000,DY6 8PD,S,N,L,7,,Tiverton Close,,Kingswinford
+2022-01-31,255000,DY6 8PD,S,N,F,7,,Tiverton Close,,Kingswinford
+2022-01-31,245000,DY6 7EF,S,N,F,3,,Greenland Close,,Kingswinford
+2022-01-28,322500,DY6 9EA,D,N,F,25,,Buckingham Grove,,Kingswinford
+2022-01-28,270000,DY6 8HG,S,N,F,9,,Cranham Drive,,Kingswinford
+2022-01-28,425000,DY6 0DE,D,N,F,11,,Wheatridge Close,Wall Heath,Kingswinford
+2022-01-27,286000,DY6 9RN,S,N,F,77,,Court Crescent,,Kingswinford
+2022-01-26,265000,DY6 0JT,D,N,F,25A,,Enville Road,Wall Heath,Kingswinford
+2022-01-24,312500,DY6 9SR,D,N,F,14,,Hilldene Road,,Kingswinford
+2022-01-24,191000,DY6 8NB,S,N,L,23,,Ragees Road,,Kingswinford
+2022-01-24,347950,DY6 7NE,D,Y,F,11,,Herringbone Way,,Kingswinford
+2022-01-24,287500,DY6 0HL,D,N,F,29,,Beachwood Avenue,Wall Heath,Kingswinford
+2022-01-20,335000,DY6 7BE,D,N,F,2,,Pullman Drive,,Kingswinford
+2022-01-19,210000,DY6 0NA,T,N,F,14,,Albert Street,Wall Heath,Kingswinford
+2022-01-14,225000,DY6 9SZ,S,N,F,46,,Kingswood Road,,Kingswinford
+2022-01-07,292000,DY6 7RY,D,N,F,20,,Monteagle Drive,,Kingswinford
+2022-01-06,194000,DY6 8NS,T,N,F,10,,Grange Lane,,Kingswinford
+2022-01-05,507000,DY6 9QW,D,N,F,5,,Manderville Gardens,,Kingswinford
+2021-12-23,347950,DY6 7NH,D,Y,F,7,,Pinwheel Close,,Kingswinford
+2021-12-23,202950,DY6 7NH,T,Y,F,21,,Pinwheel Close,,Kingswinford
+2021-12-23,291950,DY6 7NH,D,Y,F,15,,Pinwheel Close,,Kingswinford
+2021-12-23,254950,DY6 7NH,S,Y,F,11,,Pinwheel Close,,Kingswinford
+2021-12-23,255500,DY6 7NH,S,Y,F,10,,Pinwheel Close,,Kingswinford
+2021-12-22,235000,DY6 8LW,S,N,F,84,,Granville Drive,,Kingswinford
+2021-12-22,255500,DY6 7NH,S,Y,F,9,,Pinwheel Close,,Kingswinford
+2021-12-21,178000,DY6 8HN,S,N,F,13,,Portway Close,,Kingswinford
+2021-12-21,207000,DY6 8EJ,T,N,F,16,,Maple Grove,,Kingswinford
+2021-12-17,220000,DY6 9QH,T,N,F,198,,Cot Lane,,Kingswinford
+2021-12-17,280000,DY6 9EG,T,N,L,15,,Chelsea Way,,Kingswinford
+2021-12-17,218000,DY6 7RG,S,N,L,39,,Flanders Drive,,Kingswinford
+2021-12-17,199950,DY6 7NH,T,Y,F,19,,Pinwheel Close,,Kingswinford
+2021-12-17,209950,DY6 7NE,S,N,F,5,,Herringbone Way,,Kingswinford
+2021-12-17,154000,DY6 0JP,T,N,F,432,,Albion Street,Wall Heath,Kingswinford
+2021-12-17,260000,DY6 0JL,S,N,F,41,,Victoria Street,Wall Heath,Kingswinford
+2021-12-17,450000,DY6 0DU,D,N,F,4,,Hayrick Drive,,Kingswinford
+2021-12-10,245000,DY6 7RA,S,N,F,38,,Lambert Court,,Kingswinford
+2021-12-10,331950,DY6 7NE,D,Y,F,9,,Herringbone Way,,Kingswinford
+2021-12-10,334950,DY6 7NE,D,Y,F,7,,Herringbone Way,,Kingswinford
+2021-12-10,330000,DY6 7AL,D,N,F,29,,The Crossing,,Kingswinford
+2021-12-10,325000,DY6 0ER,T,N,F,32,,Heathbrook Avenue,Wall Heath,Kingswinford
+2021-12-10,365000,DY6 0DA,D,N,F,5,,Millers Green Drive,Wall Heath,Kingswinford
+2021-12-09,202950,DY6 7NH,T,Y,F,17,,Pinwheel Close,,Kingswinford
+2021-12-08,450000,DY6 9AL,D,N,F,47,,Lynwood Avenue,,Kingswinford
+2021-12-06,190000,DY6 8EQ,S,N,F,8,,Sycamore Road,,Kingswinford
+2021-12-03,325000,DY6 9PW,S,N,F,29,,Barnett Close,,Kingswinford
+2021-12-03,475000,DY6 9LJ,S,N,F,"Winterholme, 93",,Market Street,,Kingswinford
+2021-12-03,457500,DY6 8NY,D,N,L,41,,Honeytree Close,,Kingswinford
+2021-12-03,260000,DY6 7NE,S,N,F,3,,Herringbone Way,,Kingswinford
+2021-12-02,168950,DY6 7QJ,T,N,F,52,,Wartell Bank,,Kingswinford
+2021-12-01,240000,DY6 9SL,S,N,F,160,,Mount Pleasant,,Kingswinford
+2021-12-01,282500,DY6 9SE,S,N,F,20,,Mount Pleasant,,Kingswinford
+2021-12-01,147000,DY6 8DW,T,N,F,34,,Standhills Road,,Kingswinford
+2021-12-01,203000,DY6 7AG,S,N,F,63,,Queen Street,,Kingswinford
+2021-11-30,250950,DY6 7NH,S,Y,F,5,,Pinwheel Close,,Kingswinford
+2021-11-30,232500,DY6 7LR,S,N,F,Sunnyside,,Stallings Lane,,Kingswinford
+2021-11-30,287500,DY6 0NB,T,N,F,44,,Cross Street,Wall Heath,Kingswinford
+2021-11-29,325000,DY6 9EZ,D,N,F,3,,Barton Lane,,Kingswinford
+2021-11-29,310000,DY6 8JH,D,N,F,28,,Melbourne Close,,Kingswinford
+2021-11-29,164000,DY6 8DJ,S,N,F,9,,Ash Crescent,,Kingswinford
+2021-11-29,127000,DY6 7AR,F,N,L,75,,Field Sidings Way,,Kingswinford
+2021-11-26,269950,DY6 9TA,S,N,F,32,,Kingswood Road,,Kingswinford
+2021-11-26,249950,DY6 9SS,S,N,F,153,,Mount Pleasant,,Kingswinford
+2021-11-26,340000,DY6 9SE,D,N,F,24,,Mount Pleasant,,Kingswinford
+2021-11-26,197000,DY6 9LX,T,N,F,8B,,Park Street,,Kingswinford
+2021-11-26,249500,DY6 9AH,T,N,F,29,,New Street,Wall Heath,Kingswinford
+2021-11-26,251950,DY6 7NH,D,Y,F,8,,Pinwheel Close,,Kingswinford
+2021-11-26,173000,DY6 7LQ,T,N,F,34,,Chandler Drive,,Kingswinford
+2021-11-26,75000,DY6 7EA,F,N,L,25,,Mimosa Walk,,Kingswinford
+2021-11-25,250950,DY6 7NH,S,Y,F,14,,Pinwheel Close,,Kingswinford
+2021-11-25,250950,DY6 7NH,S,Y,F,12,,Pinwheel Close,,Kingswinford
+2021-11-24,230000,DY6 9TE,D,N,F,73,,Kingswood Road,,Kingswinford
+2021-11-24,85000,DY6 8NG,T,N,L,76,,Ragees Road,,Kingswinford
+2021-11-24,333950,DY6 7NH,D,Y,F,6,,Pinwheel Close,,Kingswinford
+2021-11-19,112000,DY6 8NF,F,N,L,167,,Ragees Road,,Kingswinford
+2021-11-19,260000,DY6 8AT,D,N,F,15,,Park Lane,,Kingswinford
+2021-11-19,287950,DY6 7NH,D,Y,F,16,,Pinwheel Close,,Kingswinford
+2021-11-19,270000,DY6 0HL,S,N,F,49,,Beachwood Avenue,Wall Heath,Kingswinford
+2021-11-19,327500,DY6 0BP,S,N,F,101,,Enville Road,Wall Heath,Kingswinford
+2021-11-15,318000,DY6 9SD,S,N,F,135,,Cot Lane,,Kingswinford
+2021-11-12,255000,DY6 8HS,S,N,F,14,,Southern Close,,Kingswinford
+2021-11-12,390000,DY6 0JL,D,N,F,78,,Victoria Street,Wall Heath,Kingswinford
+2021-11-11,180000,DY6 7EX,S,N,F,11B,,Rosedale Walk,,Kingswinford
+2021-11-10,357500,DY6 9RU,S,N,F,93,,Kingsley Road,,Kingswinford
+2021-11-09,260000,DY6 0JL,D,N,F,57,,Victoria Street,Wall Heath,Kingswinford
+2021-11-05,244000,DY6 9RP,S,N,F,162,,Kingsley Road,,Kingswinford
+2021-11-05,250000,DY6 9BX,S,N,F,122,,Buckingham Grove,,Kingswinford
+2021-11-05,375000,DY6 9BE,D,N,F,45,,Foundry Road,Wall Heath,Kingswinford
+2021-11-05,125000,DY6 7BF,F,N,L,1,,Halt Mews,,Kingswinford
+2021-11-05,325000,DY6 7BE,D,N,F,41,,Pullman Drive,,Kingswinford
+2021-11-04,250950,DY6 7NH,S,Y,F,4,,Pinwheel Close,,Kingswinford
+2021-11-04,320000,DY6 7BA,D,N,F,4,,Great Western Way,,Kingswinford
+2021-11-03,260000,DY6 9RX,S,N,F,12,,Kingsley Road,,Kingswinford
+2021-11-03,198000,DY6 7AF,S,N,L,100,,Penzer Street,,Kingswinford
+2021-11-02,200000,DY6 8LH,S,N,F,55,,Granville Drive,,Kingswinford
+2021-11-01,255000,DY6 9SE,S,N,F,32,,Mount Pleasant,,Kingswinford
+2021-11-01,225000,DY6 8PR,T,N,F,52,,Denleigh Road,,Kingswinford
+2021-11-01,205000,DY6 8DS,S,N,F,16,,Braithwaite Drive,,Kingswinford
+2021-10-31,240000,DY6 7RG,T,N,F,2,,Flanders Drive,,Kingswinford
+2021-10-29,178125,DY6 7NF,T,N,L,58,,Herringbone Way,,Kingswinford
+2021-10-29,185000,DY6 0JJ,S,N,F,1,,Victoria Street,Wall Heath,Kingswinford
+2021-10-27,274950,DY6 9DU,D,N,L,8,,Frayne Avenue,,Kingswinford
+2021-10-25,190000,DY6 9SE,T,N,F,8,,Mount Pleasant,,Kingswinford
+2021-10-25,225500,DY6 8PP,S,N,F,10,,Belgrave Court,,Kingswinford
+2021-10-22,210000,DY6 9ES,S,N,F,136,,Moss Grove,,Kingswinford
+2021-10-22,225000,DY6 9BU,S,N,F,9,,Maygrove Road,,Kingswinford
+2021-10-22,177500,DY6 0LA,T,N,F,37,,Blaze Hill Road,Wall Heath,Kingswinford
+2021-10-18,410000,DY6 9JG,D,N,F,Hillside,,Summerhill,,Kingswinford
+2021-10-15,370000,DY6 9RT,S,N,F,92,,Kingsley Road,,Kingswinford
+2021-10-15,307000,DY6 9PD,S,N,F,37,,Stream Road,,Kingswinford
+2021-10-15,235000,DY6 8SJ,T,N,F,122,,Oregon Close,,Kingswinford
+2021-10-15,170000,DY6 8EZ,S,N,F,12,,Hazel Road,,Kingswinford
+2021-10-15,180000,DY6 8EJ,T,N,F,12,,Maple Grove,,Kingswinford
+2021-10-15,160000,DY6 8AG,S,N,F,11,,Manor Park,,Kingswinford
+2021-10-15,261000,DY6 7RF,D,N,F,14,,Garret Close,,Kingswinford
+2021-10-15,71250,DY6 7NF,T,N,L,62,,Herringbone Way,,Kingswinford
+2021-10-14,225500,DY6 9PT,S,N,F,40,,Glynne Avenue,,Kingswinford
+2021-10-12,347000,DY6 8XT,D,N,F,60,,Ploverdale Crescent,,Kingswinford
+2021-10-12,182000,DY6 8EB,S,N,F,44,,Rowan Rise,,Kingswinford
+2021-10-11,185000,DY6 9TL,D,N,F,14,,Dene Avenue,,Kingswinford
+2021-10-11,220000,DY6 9HJ,T,N,F,28,,Murdoch Drive,,Kingswinford
+2021-10-11,163000,DY6 8DL,S,N,F,21,,Larch Road,,Kingswinford
+2021-10-08,155000,DY6 8QF,S,N,F,79,,Bromley Lane,,Kingswinford
+2021-10-08,237000,DY6 7RW,S,N,L,10,,Francis Close,,Kingswinford
+2021-10-06,180000,DY6 9BP,S,N,F,18,,Dubarry Avenue,,Kingswinford
+2021-10-01,228000,DY6 7QH,S,N,F,Lakelea,,Green Lane,,Kingswinford
+2021-09-30,395000,DY6 9TJ,D,N,F,17,,Dene Avenue,,Kingswinford
+2021-09-30,300000,DY6 9SH,S,N,F,124,,Mount Pleasant,,Kingswinford
+2021-09-30,233000,DY6 9PH,S,N,F,14,,Greencroft,,Kingswinford
+2021-09-30,255500,DY6 8LB,D,N,F,2,,The Rise,,Kingswinford
+2021-09-30,160000,DY6 8EL,T,N,F,6,,Firs Road,,Kingswinford
+2021-09-30,225000,DY6 8BS,S,N,F,16,,Dudley Road,,Kingswinford
+2021-09-30,91020,DY6 7RT,F,N,L,13,,Keyes Drive,,Kingswinford
+2021-09-30,249950,DY6 7DN,D,N,L,4,,Ashdale Close,,Kingswinford
+2021-09-30,173000,DY6 7AE,S,N,F,80,,Penzer Street,,Kingswinford
+2021-09-30,275000,DY6 0HH,D,N,F,3,,Maidensbridge Drive,,Kingswinford
+2021-09-29,294000,DY6 9PW,S,N,F,10,,Barnett Close,,Kingswinford
+2021-09-29,395000,DY6 9PA,D,N,F,9,,Cedars Avenue,,Kingswinford
+2021-09-29,185000,DY6 9LR,T,N,F,33,,Broad Street,,Kingswinford
+2021-09-29,170000,DY6 9BB,S,N,F,29,,Foundry Street,,Kingswinford
+2021-09-29,251000,DY6 8NY,T,N,F,20,,Honeytree Close,,Kingswinford
+2021-09-29,257000,DY6 8JS,S,N,F,211,,Standhills Road,,Kingswinford
+2021-09-29,289000,DY6 8JB,T,N,F,23,,Lowe Drive,,Kingswinford
+2021-09-29,110000,DY6 7RP,F,N,L,32,,Digby Road,,Kingswinford
+2021-09-29,199950,DY6 0LG,S,N,F,37,,Forge Lane,,Kingswinford
+2021-09-29,398000,DY6 0JB,S,N,F,44,,Maidensbridge Road,Wall Heath,Kingswinford
+2021-09-29,297500,DY6 0HT,S,N,F,135,,Beachcroft Road,,Kingswinford
+2021-09-28,245000,DY6 8QA,D,N,F,2,,Beaulieu Avenue,,Kingswinford
+2021-09-28,82500,DY6 8NQ,F,N,L,103,,Ragees Road,,Kingswinford
+2021-09-28,340000,DY6 8JX,D,N,F,25,,The Knoll,,Kingswinford
+2021-09-28,265000,DY6 8HG,S,N,F,26,,Cranham Drive,,Kingswinford
+2021-09-28,145000,DY6 0JW,T,N,F,5,,Parkview Court,Wall Heath,Kingswinford
+2021-09-28,360000,DY6 0AB,S,N,F,Ashwood Cottages,2,Ashwood,,Kingswinford
+2021-09-27,197500,DY6 9NA,S,N,F,25E,,Summer Street,,Kingswinford
+2021-09-27,185000,DY6 9AT,S,N,F,10,,Brook Crescent,,Kingswinford
+2021-09-27,349995,DY6 9AN,D,N,F,2,,Underley Close,,Kingswinford
+2021-09-27,195000,DY6 8DJ,S,N,F,47,,Ash Crescent,,Kingswinford
+2021-09-27,200000,DY6 7RA,T,N,F,15,,Lambert Court,,Kingswinford
+2021-09-27,245000,DY6 7LU,T,N,F,10,,Bobeche Place,,Kingswinford
+2021-09-27,230000,DY6 7ES,S,N,F,15,,Leacroft Road,,Kingswinford
+2021-09-27,245000,DY6 0JR,S,N,F,328,,Albion Street,Wall Heath,Kingswinford
+2021-09-27,190000,DY6 0HB,T,N,F,18,,High Street,Wall Heath,Kingswinford
+2021-09-24,283500,DY6 9TY,S,N,F,102,,Cot Lane,,Kingswinford
+2021-09-24,300000,DY6 9TL,T,N,F,64,,Dene Avenue,,Kingswinford
+2021-09-24,250000,DY6 9RP,T,N,F,152,,Kingsley Road,,Kingswinford
+2021-09-24,290000,DY6 9PE,S,N,F,37,,Fairlawn Drive,,Kingswinford
+2021-09-24,255000,DY6 9LS,T,N,F,47,,Oak Street,,Kingswinford
+2021-09-24,235000,DY6 8XE,D,N,F,77,,Dudley Road,,Kingswinford
+2021-09-24,167000,DY6 8NQ,T,N,F,77,,Ragees Road,,Kingswinford
+2021-09-24,236000,DY6 8LT,D,N,F,124,,Winford Avenue,,Kingswinford
+2021-09-24,355000,DY6 8JZ,D,N,F,10,,Southbank View,,Kingswinford
+2021-09-24,303000,DY6 8BA,D,N,F,30,,Prosper Meadow,,Kingswinford
+2021-09-24,170000,DY6 7RT,T,N,L,21,,Keyes Drive,,Kingswinford
+2021-09-24,250950,DY6 7NH,S,Y,F,3,,Pinwheel Close,,Kingswinford
+2021-09-24,257500,DY6 7HN,D,N,L,1,,Cornwall Close,,Kingswinford
+2021-09-24,220000,DY6 7HL,T,N,F,17,,Courtland Road,,Kingswinford
+2021-09-24,430000,DY6 0NB,D,N,F,1,,Cross Street,Wall Heath,Kingswinford
+2021-09-24,341550,DY6 0JG,D,N,F,42,,Brook Street,Wall Heath,Kingswinford
+2021-09-23,230000,DY6 8PB,T,N,F,45,,Chelford Crescent,,Kingswinford
+2021-09-23,360000,DY6 8JT,D,N,F,"Ridgeway, 30",,The Knoll,,Kingswinford
+2021-09-23,179950,DY6 0LG,S,N,F,76,,Forge Lane,,Kingswinford
+2021-09-22,444000,DY6 9BL,D,N,F,12,,Carnforth Close,,Kingswinford
+2021-09-22,250000,DY6 8SU,S,N,L,145,,Tunstall Road,,Kingswinford
+2021-09-22,85000,DY6 7DH,S,N,F,21,,Balfour Road,,Kingswinford
+2021-09-21,319950,DY6 9DD,D,N,F,15,,Maidendale Road,,Kingswinford
+2021-09-21,200000,DY6 7NE,S,N,F,75,,Herringbone Way,,Kingswinford
+2021-09-17,289500,DY6 9TE,S,N,F,77,,Kingswood Road,,Kingswinford
+2021-09-17,320000,DY6 9RY,S,N,F,69,,Kingsley Road,,Kingswinford
+2021-09-17,152500,DY6 8EZ,S,N,F,36,,Hazel Road,,Kingswinford
+2021-09-17,81000,DY6 8EZ,T,N,L,15,,Hazel Road,,Kingswinford
+2021-09-17,157500,DY6 8DW,S,N,F,33,,Standhills Road,,Kingswinford
+2021-09-17,180000,DY6 0JJ,T,N,F,32,,Victoria Street,Wall Heath,Kingswinford
+2021-09-16,75000,DY6 9PE,S,N,F,20,,Fairlawn Drive,,Kingswinford
+2021-09-16,280000,DY6 8RE,S,N,F,8,,Marley Road,,Kingswinford
+2021-09-16,270000,DY6 8PB,D,N,F,1,,Chelford Crescent,,Kingswinford
+2021-09-16,354000,DY6 8JJ,D,N,F,3,,Seafield Close,,Kingswinford
+2021-09-16,348000,DY6 8JE,D,N,F,14,,Cumberland Close,,Kingswinford
+2021-09-15,220000,DY6 7RD,S,N,F,48,,Charterfield Drive,,Kingswinford
+2021-09-15,340000,DY6 0DW,D,N,F,23,,Ostler Close,,Kingswinford
+2021-09-14,220000,DY6 9SE,D,N,F,68,,Mount Pleasant,,Kingswinford
+2021-09-13,455545,DY6 9NP,D,N,F,97,,Stream Road,,Kingswinford
+2021-09-13,280000,DY6 9AS,S,N,F,31,,Summerfield Avenue,,Kingswinford
+2021-09-13,280000,DY6 8JQ,S,N,F,98,,Auckland Road,,Kingswinford
+2021-09-13,201000,DY6 7AL,T,N,F,26,,The Crossing,,Kingswinford
+2021-09-12,152000,DY6 7AR,F,N,L,87,,Field Sidings Way,,Kingswinford
+2021-09-10,220000,DY6 9UA,S,N,F,1,,New Street,,Kingswinford
+2021-09-10,205000,DY6 9PT,S,N,F,36,,Glynne Avenue,,Kingswinford
+2021-09-10,275000,DY6 8HD,D,N,F,"Grove House, 12B",,The Portway,,Kingswinford
+2021-09-10,177000,DY6 7QH,S,N,F,Chez Nous,,Green Lane,,Kingswinford
+2021-09-09,290000,DY6 9SZ,D,N,F,66,,Kingswood Road,,Kingswinford
+2021-09-09,265000,DY6 9RY,S,N,F,57,,Kingsley Road,,Kingswinford
+2021-09-09,270000,DY6 9EG,D,N,L,8,,Chelsea Way,,Kingswinford
+2021-09-09,370000,DY6 8JG,D,N,F,14,,Wellington Close,,Kingswinford
+2021-09-09,225000,DY6 7DS,D,N,L,3,,Blossomfield Close,,Kingswinford
+2021-09-08,285000,DY6 9PN,S,N,F,143,,Barnett Lane,,Kingswinford
+2021-09-07,300000,DY6 9SJ,D,N,F,144,,Mount Pleasant,,Kingswinford
+2021-09-03,375000,DY6 9TP,D,N,F,5,,Hazelmere Gardens,,Kingswinford
+2021-09-03,285000,DY6 9DN,D,N,F,8,,Brinley Way,,Kingswinford
+2021-09-03,194500,DY6 8TS,S,N,F,222,,Bromley Lane,,Kingswinford
+2021-09-03,245000,DY6 8QQ,D,N,F,9,,Rangeways Road,,Kingswinford
+2021-09-01,240000,DY6 9QH,S,N,F,196,,Cot Lane,,Kingswinford
+2021-09-01,320000,DY6 7AN,D,N,F,3,,Coach Mews,,Kingswinford
+2021-08-31,250000,DY6 8QE,S,N,L,130,,Bromley Lane,,Kingswinford
+2021-08-27,225000,DY6 9ST,S,N,F,109,,Mount Pleasant,,Kingswinford
+2021-08-27,289950,DY6 9RD,D,N,F,24,,Ridge Road,,Kingswinford
+2021-08-27,345000,DY6 9BL,D,N,F,31,,Carnforth Close,,Kingswinford
+2021-08-27,175000,DY6 8HD,S,N,F,11,,The Portway,,Kingswinford
+2021-08-27,195000,DY6 7RA,T,N,F,23,,Lambert Court,,Kingswinford
+2021-08-27,195000,DY6 7RA,T,N,L,23,,Lambert Court,,Kingswinford
+2021-08-27,249950,DY6 7NH,S,Y,F,2,,Pinwheel Close,,Kingswinford
+2021-08-27,297500,DY6 7AB,T,N,F,57,,Penzer Street,,Kingswinford
+2021-08-27,249500,DY6 0ND,D,N,F,6,,Alverley Close,,Kingswinford
+2021-08-27,292500,DY6 0DT,D,N,F,30,,Clover Lane,Wall Heath,Kingswinford
+2021-08-26,302000,DY6 9DT,D,N,F,13,,Berkeley Drive,,Kingswinford
+2021-08-26,269950,DY6 9DR,S,N,F,18,,Kayne Close,,Kingswinford
+2021-08-26,262000,DY6 9AF,S,N,F,26,,Grove Park,Wall Heath,Kingswinford
+2021-08-25,160000,DY6 8HW,S,N,F,97,,The Portway,,Kingswinford
+2021-08-25,200000,DY6 8HA,S,N,F,31,,Beech Road,,Kingswinford
+2021-08-23,195000,DY6 9BZ,S,N,L,3,,Coniston Drive,,Kingswinford
+2021-08-23,282000,DY6 8HB,D,N,F,47,,The Portway,,Kingswinford
+2021-08-20,285000,DY6 9RS,T,N,F,118,,Kingsley Road,,Kingswinford
+2021-08-20,295000,DY6 9LR,D,N,F,29,,Broad Street,,Kingswinford
+2021-08-20,230750,DY6 9BJ,S,N,F,4,,New Dudley Road,,Kingswinford
+2021-08-20,193000,DY6 8NA,S,N,F,9,,Southway Court,,Kingswinford
+2021-08-20,160000,DY6 8EP,T,N,F,18,,Sycamore Road,,Kingswinford
+2021-08-20,197500,DY6 8AJ,T,N,F,586,,High Street,,Kingswinford
+2021-08-20,254950,DY6 7NB,S,Y,F,14,,Flemish Gardens,,Kingswinford
+2021-08-19,207000,DY6 7QF,T,N,F,56,,Cottage Street,,Kingswinford
+2021-08-17,365000,DY6 0HA,S,N,F,12,,High Street,Wall Heath,Kingswinford
+2021-08-16,227500,DY6 8SR,S,N,F,203,,Blenheim Road,,Kingswinford
+2021-08-16,170000,DY6 8QL,S,N,F,12,,Mitchell Road,,Kingswinford
+2021-08-16,240000,DY6 8JU,S,N,F,11,,Eaton Place,,Kingswinford
+2021-08-16,272500,DY6 7SE,D,N,F,7,,Camden Way,,Kingswinford
+2021-08-13,55000,DY6 9SN,S,N,F,230,,Mount Pleasant,,Kingswinford
+2021-08-13,234000,DY6 0JL,S,N,F,64,,Victoria Street,Wall Heath,Kingswinford
+2021-08-12,177000,DY6 8DW,S,N,F,42,,Standhills Road,,Kingswinford
+2021-08-11,160000,DY6 8TT,T,N,F,244,,Bromley Lane,,Kingswinford
+2021-08-11,275000,DY6 7BE,D,N,F,33,,Pullman Drive,,Kingswinford
+2021-08-10,160000,DY6 8SE,S,N,F,12,,Metfield Croft,,Kingswinford
+2021-08-10,280000,DY6 8JU,S,N,F,3,,Eaton Place,,Kingswinford
+2021-08-10,193000,DY6 8HW,S,N,F,86,,The Portway,,Kingswinford
+2021-08-06,327500,DY6 9SZ,D,N,F,36,,Kingswood Road,,Kingswinford
+2021-08-06,516000,DY6 9QL,D,N,F,37,,Summercourt Drive,,Kingswinford
+2021-08-06,156000,DY6 8DB,S,N,F,8,,Chestnut Grove,,Kingswinford
+2021-08-06,252450,DY6 7NB,S,Y,F,4,,Flemish Gardens,,Kingswinford
+2021-08-05,368500,DY6 7AB,D,N,F,65,,Penzer Street,,Kingswinford
+2021-08-05,216000,DY6 0LL,T,N,F,82,,Blaze Park,Wall Heath,Kingswinford
+2021-08-05,310000,DY6 0JY,S,N,F,35,,Windmill Grove,Wall Heath,Kingswinford
+2021-08-04,331000,DY6 9AH,D,N,F,2,,New Street,Wall Heath,Kingswinford
+2021-08-02,160000,DY6 8EH,S,N,F,2,,Laburnum Road,,Kingswinford
+2021-07-30,165000,DY6 9TL,T,N,F,46,,Dene Avenue,,Kingswinford
+2021-07-30,345000,DY6 9QH,D,N,F,208B,,Cot Lane,,Kingswinford
+2021-07-30,175000,DY6 8LA,S,N,F,147,,Standhills Road,,Kingswinford
+2021-07-30,310000,DY6 8HY,D,N,F,25,,Newfield Drive,,Kingswinford
+2021-07-29,183000,DY6 8LY,S,N,F,5,,Elmhurst Drive,,Kingswinford
+2021-07-28,279950,DY6 7NF,D,Y,F,30,,Herringbone Way,,Kingswinford
+2021-07-27,325950,DY6 7NH,D,Y,F,1,,Pinwheel Close,,Kingswinford
+2021-07-26,100000,DY6 9NA,F,N,L,Hayley Court,Flat 6,Summer Street,,Kingswinford
+2021-07-23,250000,DY6 9RP,S,N,F,156,,Kingsley Road,,Kingswinford
+2021-07-23,186000,DY6 9BP,S,N,F,24,,Dubarry Avenue,,Kingswinford
+2021-07-23,185000,DY6 8TS,S,N,F,206,,Bromley Lane,,Kingswinford
+2021-07-23,154950,DY6 8TF,T,N,F,117,,Bromley Lane,,Kingswinford
+2021-07-23,138000,DY6 8HR,F,N,L,36,,Surrey Drive,,Kingswinford
+2021-07-23,188500,DY6 7HA,S,N,F,31,,Balfour Road,,Kingswinford
+2021-07-23,185300,DY6 0EW,T,N,F,3,,Keepers Close,Wall Heath,Kingswinford
+2021-07-22,165000,DY6 9TG,T,N,F,5,,Mount Pleasant,,Kingswinford
+2021-07-20,289950,DY6 9EJ,D,N,F,12,,Ross Drive,,Kingswinford
+2021-07-19,315000,DY6 8XT,T,N,F,74,,Ploverdale Crescent,,Kingswinford
+2021-07-19,250000,DY6 8PY,D,N,L,3,,Ranleigh Avenue,,Kingswinford
+2021-07-16,200000,DY6 9PT,S,N,F,37,,Glynne Avenue,,Kingswinford
+2021-07-16,272500,DY6 9AR,S,N,F,32,,Summerfield Avenue,,Kingswinford
+2021-07-16,310000,DY6 8SE,D,N,F,110,,Metfield Croft,,Kingswinford
+2021-07-16,225000,DY6 8RS,S,N,F,84,,Lingfield Way,,Kingswinford
+2021-07-16,188000,DY6 8EA,S,N,F,70,,Rowan Rise,,Kingswinford
+2021-07-16,280000,DY6 8AH,D,N,F,1,,Orchard Court,,Kingswinford
+2021-07-16,240000,DY6 7LX,T,Y,F,12,,Della Court,,Kingswinford
+2021-07-16,197500,DY6 0JG,T,N,F,49,,Brook Street,Wall Heath,Kingswinford
+2021-07-15,164000,DY6 8RY,S,N,L,59,,Alder Road,,Kingswinford
+2021-07-09,170000,DY6 8DB,S,N,F,12,,Chestnut Grove,,Kingswinford
+2021-07-09,335000,DY6 7RA,S,N,F,42,,Lambert Court,,Kingswinford
+2021-07-09,122000,DY6 7BF,F,N,L,55,,Halt Mews,,Kingswinford
+2021-07-08,230000,DY6 8SL,S,N,L,369,,Blenheim Road,,Kingswinford
+2021-07-02,215000,DY6 9DP,S,N,F,5,,Thanet Close,,Kingswinford
+2021-07-02,228000,DY6 9BT,T,N,F,70,,Buckingham Grove,,Kingswinford
+2021-07-02,295000,DY6 7JB,S,N,F,48,,Wolverhampton Road,,Kingswinford
+2021-07-01,236000,DY6 8ND,S,N,F,12,,Bartic Avenue,,Kingswinford
+2021-06-30,400000,DY6 9TH,D,N,F,113B,,Cot Lane,,Kingswinford
+2021-06-30,220000,DY6 9PR,T,N,F,12,,Cavendish Close,,Kingswinford
+2021-06-30,325000,DY6 9PA,D,N,F,28,,Cedars Avenue,,Kingswinford
+2021-06-30,230000,DY6 9EX,S,N,F,11,,Barton Lane,,Kingswinford
+2021-06-30,444000,DY6 9AT,D,N,F,33,,Brook Crescent,,Kingswinford
+2021-06-30,430000,DY6 9AL,D,N,F,50,,Lynwood Avenue,,Kingswinford
+2021-06-30,62500,DY6 8NQ,F,N,L,133,,Ragees Road,,Kingswinford
+2021-06-30,185000,DY6 7HA,S,N,F,59,,Balfour Road,,Kingswinford
+2021-06-30,262000,DY6 0HP,S,N,F,8,,Holcroft Road,,Kingswinford
+2021-06-29,370000,DY6 9HP,D,N,F,47A,,Moss Grove,,Kingswinford
+2021-06-29,275000,DY6 8JQ,S,N,F,92,,Auckland Road,,Kingswinford
+2021-06-29,168000,DY6 8HR,T,N,F,70,,Surrey Drive,,Kingswinford
+2021-06-29,249950,DY6 7NB,S,Y,F,6,,Flemish Gardens,,Kingswinford
+2021-06-29,337500,DY6 0HS,D,N,F,137,,Beachcroft Road,,Kingswinford
+2021-06-29,355000,DY6 0HL,D,N,F,7,,Beachwood Avenue,Wall Heath,Kingswinford
+2021-06-28,230000,DY6 9RY,S,N,F,35,,Kingsley Road,,Kingswinford
+2021-06-28,355000,DY6 9LJ,S,N,F,85,,Market Street,,Kingswinford
+2021-06-28,320000,DY6 9AJ,S,N,F,22,,Lynwood Avenue,,Kingswinford
+2021-06-28,180000,DY6 7ST,T,N,F,39,,Hawkeswell Drive,,Kingswinford
+2021-06-28,256000,DY6 7RY,D,N,F,65,,Monteagle Drive,,Kingswinford
+2021-06-28,193000,DY6 7AG,S,N,F,48,,Queen Street,,Kingswinford
+2021-06-25,270000,DY6 9UA,S,N,F,7A,,New Street,,Kingswinford
+2021-06-25,300000,DY6 9SA,D,N,F,151,,Cot Lane,,Kingswinford
+2021-06-25,282500,DY6 9RX,S,N,F,26,,Kingsley Road,,Kingswinford
+2021-06-25,348925,DY6 9QE,S,N,F,4,,Woodlawn Grove,,Kingswinford
+2021-06-25,283000,DY6 9PP,T,N,F,37,,Arlington Close,,Kingswinford
+2021-06-25,275000,DY6 9EJ,D,N,F,18,,Ross Drive,,Kingswinford
+2021-06-25,255000,DY6 9BW,T,N,F,18,,Beverley Drive,,Kingswinford
+2021-06-25,292500,DY6 9BE,S,N,F,46,,Foundry Road,Wall Heath,Kingswinford
+2021-06-25,210000,DY6 8SL,S,N,F,326,,Blenheim Road,,Kingswinford
+2021-06-25,255000,DY6 8HB,D,N,F,36,,The Portway,,Kingswinford
+2021-06-25,418000,DY6 8AT,D,N,F,11,,Park Lane,,Kingswinford
+2021-06-25,254950,DY6 7NB,S,Y,F,2,,Flemish Gardens,,Kingswinford
+2021-06-25,211000,DY6 7BE,S,N,F,31,,Pullman Drive,,Kingswinford
+2021-06-25,325000,DY6 7AR,D,N,F,15,,Field Sidings Way,,Kingswinford
+2021-06-25,410000,DY6 0ER,D,N,F,1B,,Heathbrook Avenue,,Kingswinford
+2021-06-24,650000,DY6 9XQ,D,N,F,2,,Clear View,,Kingswinford
+2021-06-24,385000,DY6 9DT,D,N,F,18,,Berkeley Drive,,Kingswinford
+2021-06-24,310000,DY6 9DA,D,N,F,5,,Mancroft Close,,Kingswinford
+2021-06-24,310000,DY6 8JD,S,N,F,252,,Lesley Drive,,Kingswinford
+2021-06-24,445000,DY6 7QH,D,N,F,2,,Green Lane,,Kingswinford
+2021-06-24,420000,DY6 0HJ,D,N,F,5,,Beachcroft Road,,Kingswinford
+2021-06-23,575000,DY6 9JG,D,N,F,Norfolk House,,Summerhill,,Kingswinford
+2021-06-23,277500,DY6 7EE,D,N,F,18,,Hillcroft Road,,Kingswinford
+2021-06-23,177000,DY6 7AG,S,N,F,57,,Queen Street,,Kingswinford
+2021-06-22,390000,DY6 9SW,D,N,F,246,,Mount Pleasant,,Kingswinford
+2021-06-22,325000,DY6 8XQ,D,N,F,15,,Robin Close,,Kingswinford
+2021-06-22,275000,DY6 0LX,S,N,F,110,,Victoria Street,Wall Heath,Kingswinford
+2021-06-21,168500,DY6 8RN,T,N,L,60,,Laxton Close,,Kingswinford
+2021-06-18,272500,DY6 9AF,S,N,F,33,,Grove Park,Wall Heath,Kingswinford
+2021-06-18,328950,DY6 7NF,D,Y,F,78,,Herringbone Way,,Kingswinford
+2021-06-18,308950,DY6 7NF,D,Y,F,76,,Herringbone Way,,Kingswinford
+2021-06-18,330000,DY6 7LW,D,N,F,10,,Taper Close,,Kingswinford
+2021-06-18,215000,DY6 0ND,S,N,F,Shamara,,Alverley Close,,Kingswinford
+2021-06-18,589950,DY6 0AE,D,N,F,Wimsey Wharf House,,Ashwood Lower Lane,,Kingswinford
+2021-06-17,325000,DY6 9PW,S,N,F,2,,Barnett Close,,Kingswinford
+2021-06-17,495000,DY6 0HF,D,N,F,35,,Holbeache Road,Wall Heath,Kingswinford
+2021-06-17,680000,DY6 0AH,D,N,F,Herons Reach,,Greensforge,,Kingswinford
+2021-06-16,225000,DY6 9SU,S,N,F,25,,Kingswood Road,,Kingswinford
+2021-06-16,213000,DY6 0ER,T,N,F,32,,Heathbrook Avenue,Wall Heath,Kingswinford
+2021-06-15,250000,DY6 8PL,D,N,F,21,,Silva Avenue,,Kingswinford
+2021-06-15,170000,DY6 7BE,S,N,F,15,,Pullman Drive,,Kingswinford
+2021-06-11,270000,DY6 9RJ,S,N,F,53,,Court Crescent,,Kingswinford
+2021-06-11,150000,DY6 9HH,S,N,F,126,,Moss Grove,,Kingswinford
+2021-06-11,69000,DY6 8ND,F,N,L,17,,Bartic Avenue,,Kingswinford
+2021-06-11,235000,DY6 8JS,S,N,F,197,,Standhills Road,,Kingswinford
+2021-06-11,348000,DY6 8HT,D,N,F,27,,Highview Drive,,Kingswinford
+2021-06-11,230500,DY6 7SE,S,N,F,5,,Camden Way,,Kingswinford
+2021-06-11,331950,DY6 7NB,D,Y,F,3,,Flemish Gardens,,Kingswinford
+2021-06-11,255000,DY6 0HP,S,N,F,10,,Holcroft Road,,Kingswinford
+2021-06-10,312000,DY6 9DZ,S,N,F,6,,Prestwick Road,,Kingswinford
+2021-06-10,160000,DY6 8DG,S,N,F,92,,Larch Road,,Kingswinford
+2021-06-09,242500,DY6 7LX,T,Y,F,10,,Della Court,,Kingswinford
+2021-06-07,179000,DY6 8NZ,S,N,F,56,,Tiverton Close,,Kingswinford
+2021-06-04,325000,DY6 9JG,S,N,F,"Crossways, 1",,Summerhill,,Kingswinford
+2021-06-04,264000,DY6 9EH,D,N,F,28,,Grantley Crescent,,Kingswinford
+2021-06-04,179500,DY6 8PG,S,N,F,30,,Sunnymede Road,,Kingswinford
+2021-06-04,255000,DY6 7QD,T,N,F,98,,Water Street,,Kingswinford
+2021-06-04,325000,DY6 0DG,D,N,F,10,,Cornfield Close,Wall Heath,Kingswinford
+2021-06-03,169950,DY6 8QF,S,N,F,79,,Bromley Lane,,Kingswinford
+2021-06-03,248000,DY6 8JA,D,N,F,139,,Ulster Drive,,Kingswinford
+2021-06-02,168700,DY6 8AG,S,N,F,5,,Manor Park,,Kingswinford
+2021-06-01,355000,DY6 0NL,S,N,F,33,,Enville Road,Wall Heath,Kingswinford
+2021-05-28,170000,DY6 9SN,T,N,F,202,,Mount Pleasant,,Kingswinford
+2021-05-28,362000,DY6 9RG,S,N,F,89,,Ridge Road,,Kingswinford
+2021-05-28,215000,DY6 9PG,S,N,F,16,,Barnett Green,,Kingswinford
+2021-05-28,155000,DY6 9PE,S,N,F,37,,Fairlawn Drive,,Kingswinford
+2021-05-28,311000,DY6 8XP,D,N,F,12,,Dunlin Close,,Kingswinford
+2021-05-28,170000,DY6 8RB,S,N,F,23,,Sunnymede Road,,Kingswinford
+2021-05-28,195000,DY6 8LG,S,N,F,180,,Ketley Road,,Kingswinford
+2021-05-28,191855,DY6 7NB,S,Y,F,12,,Flemish Gardens,,Kingswinford
+2021-05-28,193765,DY6 7NB,S,Y,F,10,,Flemish Gardens,,Kingswinford
+2021-05-28,295000,DY6 0JJ,D,N,F,17,,Victoria Street,Wall Heath,Kingswinford
+2021-05-27,425000,DY6 9PA,D,N,F,33,,Cedars Avenue,,Kingswinford
+2021-05-27,211000,DY6 9BZ,S,N,F,2,,Coniston Drive,,Kingswinford
+2021-05-27,320000,DY6 8JH,D,N,F,10,,Melbourne Close,,Kingswinford
+2021-05-27,300000,DY6 8JA,S,N,F,45,,Ulster Drive,,Kingswinford
+2021-05-27,270000,DY6 0JY,S,N,F,37,,Windmill Grove,Wall Heath,Kingswinford
+2021-05-26,340000,DY6 9SL,T,N,F,162,,Mount Pleasant,,Kingswinford
+2021-05-24,212500,DY6 9PH,S,N,F,26,,Greencroft,,Kingswinford
+2021-05-24,272500,DY6 9LT,S,N,F,100,,Oak Street,,Kingswinford
+2021-05-21,285000,DY6 9RJ,S,N,F,41,,Court Crescent,,Kingswinford
+2021-05-21,530000,DY6 9QB,D,N,F,4,,Regency Place,,Kingswinford
+2021-05-21,255000,DY6 8RR,D,N,L,65,,Leaford Way,,Kingswinford
+2021-05-21,200000,DY6 8NG,S,N,F,20,,Ragees Road,,Kingswinford
+2021-05-21,339950,DY6 8JA,D,N,F,110,,Ulster Drive,,Kingswinford
+2021-05-21,248500,DY6 7NB,S,Y,F,8,,Flemish Gardens,,Kingswinford
+2021-05-19,130000,DY6 8RF,S,N,F,7,,Wrens Avenue,,Kingswinford
+2021-05-19,315000,DY6 7AA,S,N,F,22,,Penzer Street,,Kingswinford
+2021-05-17,195000,DY6 9LX,T,N,F,11B,,Park Street,,Kingswinford
+2021-05-17,377250,DY6 9AQ,D,N,F,17,,Dudley Road,Wall Heath,Kingswinford
+2021-05-17,140000,DY6 8TF,T,N,F,151,,Bromley Lane,,Kingswinford
+2021-05-17,350000,DY6 8DX,D,N,F,3,,Greystoke Drive,,Kingswinford
+2021-05-14,600000,DY6 9TY,D,N,F,90,,Cot Lane,,Kingswinford
+2021-05-14,347500,DY6 9TP,D,N,F,4,,Hazelmere Gardens,,Kingswinford
+2021-05-14,265000,DY6 7QA,S,N,F,38,,Water Street,,Kingswinford
+2021-05-14,237460,DY6 7NB,S,Y,F,20,,Flemish Gardens,,Kingswinford
+2021-05-14,248950,DY6 7NB,S,Y,F,18,,Flemish Gardens,,Kingswinford
+2021-05-14,235000,DY6 7NB,S,Y,F,16,,Flemish Gardens,,Kingswinford
+2021-05-13,261500,DY6 9RH,S,N,F,28,,Essex Avenue,,Kingswinford
+2021-05-13,165000,DY6 7LQ,T,N,F,23,,Chandler Drive,,Kingswinford
+2021-05-12,200000,DY6 9HD,S,N,F,77,,Moss Grove,,Kingswinford
+2021-05-12,210000,DY6 8LJ,D,N,F,10,,Astor Road,,Kingswinford
+2021-05-11,280000,DY6 7RE,D,N,F,29,,Ambrose Crescent,,Kingswinford
+2021-05-11,118000,DY6 0JA,T,N,F,14,,Maidensbridge Road,Wall Heath,Kingswinford
+2021-05-10,170000,DY6 8LU,S,N,F,47,,Burrows Road,,Kingswinford
+2021-05-07,235000,DY6 9SH,D,N,F,92,,Mount Pleasant,,Kingswinford
+2021-05-07,150000,DY6 8RD,S,N,F,75B,,Nanaimo Way,,Kingswinford
+2021-05-07,165000,DY6 8JR,S,N,F,166,,Standhills Road,,Kingswinford
+2021-05-07,185000,DY6 8DP,S,N,F,100,,Standhills Road,,Kingswinford
+2021-05-07,160000,DY6 7EE,T,N,F,5,,Hillcroft Road,,Kingswinford
+2021-05-05,217000,DY6 9SR,S,N,F,7,,Hilldene Road,,Kingswinford
+2021-05-04,260000,DY6 9LY,D,N,F,18B,,Cross Street,,Kingswinford
+2021-05-04,220000,DY6 7SE,S,N,L,18,,Camden Way,,Kingswinford
+2021-04-30,135000,DY6 9SZ,S,N,F,58,,Kingswood Road,,Kingswinford
+2021-04-30,205000,DY6 9SH,D,N,F,128A,,Mount Pleasant,,Kingswinford
+2021-04-30,168000,DY6 9EX,T,N,F,51,,Barton Lane,,Kingswinford
+2021-04-30,182500,DY6 8NT,S,N,F,96,,Rangeways Road,,Kingswinford
+2021-04-30,312488,DY6 7NB,D,Y,F,7,,Flemish Gardens,,Kingswinford
+2021-04-30,249950,DY6 7NB,S,Y,F,25,,Flemish Gardens,,Kingswinford
+2021-04-30,240030,DY6 7NB,D,Y,F,23,,Flemish Gardens,,Kingswinford
+2021-04-30,240030,DY6 7NB,S,Y,F,21,,Flemish Gardens,,Kingswinford
+2021-04-30,240030,DY6 7NB,S,Y,F,19,,Flemish Gardens,,Kingswinford
+2021-04-30,232750,DY6 7DR,S,N,F,11,,Beech Tree Close,,Kingswinford
+2021-04-28,145000,DY6 8UD,S,N,F,16,,Dingle Road,,Kingswinford
+2021-04-26,264700,DY6 9RN,S,N,L,95,,Court Crescent,,Kingswinford
+2021-04-23,172000,DY6 7RT,T,N,F,44,,Keyes Drive,,Kingswinford
+2021-04-23,116950,DY6 7BF,F,N,L,9,,Halt Mews,,Kingswinford
+2021-04-23,178000,DY6 0HB,T,N,F,25,,High Street,Wall Heath,Kingswinford
+2021-04-20,220000,DY6 9EL,D,N,F,34,,Buckingham Grove,,Kingswinford
+2021-04-19,240000,DY6 9AJ,S,N,F,26,,Lynwood Avenue,,Kingswinford
+2021-04-19,132000,DY6 8HR,T,N,F,38,,Surrey Drive,,Kingswinford
+2021-04-19,250000,DY6 0HP,S,N,F,9,,Holcroft Road,,Kingswinford
+2021-04-16,335000,DY6 9TQ,D,N,F,11,,Pleasant Close,,Kingswinford
+2021-04-16,370000,DY6 8JD,D,N,F,191,,Lesley Drive,,Kingswinford
+2021-04-16,278000,DY6 7QA,S,N,F,36,,Water Street,,Kingswinford
+2021-04-16,277500,DY6 7NB,D,Y,F,9,,Flemish Gardens,,Kingswinford
+2021-04-16,299950,DY6 7NB,D,Y,F,17,,Flemish Gardens,,Kingswinford
+2021-04-16,352500,DY6 0DD,D,N,F,2,,Barleyfield Rise,Wall Heath,Kingswinford
+2021-04-15,180000,DY6 8SF,S,N,F,85,,Lydgate Road,,Kingswinford
+2021-04-15,168000,DY6 8RN,T,N,F,36,,Laxton Close,,Kingswinford
+2021-04-15,127500,DY6 7BF,F,N,L,57,,Halt Mews,,Kingswinford
+2021-04-14,162000,DY6 7QF,S,N,F,70,,Cottage Street,,Kingswinford
+2021-04-09,187000,DY6 9LR,T,N,F,Carranna,,Broad Street,,Kingswinford
+2021-04-09,329950,DY6 9DQ,D,N,F,10,,Grasmere Close,Wall Heath,Kingswinford
+2021-04-09,85000,DY6 8BF,F,N,L,"Larch House, 241",Apartment 61,High Street,,Kingswinford
+2021-04-09,210000,DY6 7BA,S,N,F,7,,Great Western Way,,Kingswinford
+2021-04-08,470000,DY6 9TX,D,N,F,83,,Cot Lane,,Kingswinford
+2021-04-08,200000,DY6 7DX,S,N,F,19,,Earlswood Road,,Kingswinford
+2021-04-07,275000,DY6 7QE,S,N,F,73,,Cottage Street,,Kingswinford
+2021-04-01,470000,DY6 9DG,D,N,F,16,,Maidendale Road,,Kingswinford
+2021-04-01,240000,DY6 9BB,D,N,F,37,,Foundry Street,,Kingswinford
+2021-04-01,299950,DY6 7NB,D,Y,F,11,,Flemish Gardens,,Kingswinford
+2021-04-01,296500,DY6 7NB,D,Y,F,1,,Flemish Gardens,,Kingswinford
+2021-04-01,128000,DY6 7AR,F,N,L,89,,Field Sidings Way,,Kingswinford
+2021-04-01,152000,DY6 0LA,T,N,F,3,,Blaze Hill Road,Wall Heath,Kingswinford
+2021-03-31,180000,DY6 9TD,S,N,F,5,,Hillwood Close,,Kingswinford
+2021-03-31,275200,DY6 8QB,S,N,F,1,,Denleigh Road,,Kingswinford
+2021-03-31,245000,DY6 8PY,D,N,L,7,,Ranleigh Avenue,,Kingswinford
+2021-03-31,247950,DY6 7NG,S,Y,F,39,,Parquet Grove,,Kingswinford
+2021-03-31,190000,DY6 7HJ,S,N,F,17,,Avondale Close,,Kingswinford
+2021-03-29,269950,DY6 9AU,S,N,F,10,,Summerfield Avenue,,Kingswinford
+2021-03-29,162000,DY6 7QF,S,N,F,28,,Cottage Street,,Kingswinford
+2021-03-29,323950,DY6 7NB,D,Y,F,15,,Flemish Gardens,,Kingswinford
+2021-03-29,365000,DY6 7HT,D,N,F,20,,Stallings Lane,,Kingswinford
+2021-03-29,168000,DY6 7DH,S,N,L,15,,Balfour Road,,Kingswinford
+2021-03-29,225000,DY6 0LJ,S,N,F,64,,Enville Road,Wall Heath,Kingswinford
+2021-03-26,469950,DY6 9QL,D,N,F,24,,Summercourt Drive,,Kingswinford
+2021-03-26,167950,DY6 9AH,T,N,F,8,,New Street,Wall Heath,Kingswinford
+2021-03-26,320000,DY6 8HG,D,N,F,2,,Cranham Drive,,Kingswinford
+2021-03-26,220000,DY6 7RE,D,N,L,6,,Ambrose Crescent,,Kingswinford
+2021-03-26,305853,DY6 7NB,D,Y,F,5,,Flemish Gardens,,Kingswinford
+2021-03-26,380000,DY6 0JS,D,N,F,92,,Albion Street,Wall Heath,Kingswinford
+2021-03-25,165000,DY6 7LQ,T,N,F,56,,Chandler Drive,,Kingswinford
+2021-03-24,158000,DY6 8EZ,S,N,F,30,,Hazel Road,,Kingswinford
+2021-03-24,245000,DY6 0ES,T,N,F,49,,Kidderminster Road,,Kingswinford
+2021-03-23,245000,DY6 9AD,S,N,F,8,,Grove Park,Wall Heath,Kingswinford
+2021-03-23,375000,DY6 8AN,D,N,F,61,,Windermere Drive,,Kingswinford
+2021-03-23,240026,DY6 7NG,S,Y,F,41,,Parquet Grove,,Kingswinford
+2021-03-23,183800,DY6 7HF,S,N,F,12,,Birchwood Walk,,Kingswinford
+2021-03-23,192500,DY6 0NA,T,N,F,30,,Albert Street,Wall Heath,Kingswinford
+2021-03-23,261500,DY6 0JP,S,N,F,350,,Albion Street,Wall Heath,Kingswinford
+2021-03-23,287500,DY6 0HP,S,N,F,20,,Holcroft Road,,Kingswinford
+2021-03-22,382000,DY6 9TN,D,N,F,12,,Celandine Close,,Kingswinford
+2021-03-22,299950,DY6 8JG,D,N,F,31,,Wellington Close,,Kingswinford
+2021-03-19,460000,DY6 9XH,D,N,F,2,,Cheltenham Drive,,Kingswinford
+2021-03-19,450000,DY6 9QN,D,N,F,"The Laurels, 13",,White Oak Drive,,Kingswinford
+2021-03-19,345000,DY6 9BG,D,N,F,68,,Foundry Road,Wall Heath,Kingswinford
+2021-03-19,161500,DY6 8TE,T,N,F,201,,Bromley Lane,,Kingswinford
+2021-03-19,177500,DY6 8QP,S,N,F,26,,Camberley Road,,Kingswinford
+2021-03-19,210000,DY6 8HG,S,N,F,31,,Cranham Drive,,Kingswinford
+2021-03-19,239075,DY6 7NG,S,Y,F,37,,Parquet Grove,,Kingswinford
+2021-03-19,282500,DY6 7NG,D,Y,F,31,,Parquet Grove,,Kingswinford
+2021-03-19,223000,DY6 7BE,S,N,F,7,,Pullman Drive,,Kingswinford
+2021-03-19,359995,DY6 0JR,D,N,F,342,,Albion Street,Wall Heath,Kingswinford
+2021-03-18,287000,DY6 9PE,S,N,F,42,,Fairlawn Drive,,Kingswinford
+2021-03-18,125000,DY6 7BF,F,N,L,11,,Halt Mews,,Kingswinford
+2021-03-18,190000,DY6 0JT,T,N,F,17,,Enville Road,Wall Heath,Kingswinford
+2021-03-17,170000,DY6 8RQ,S,N,F,41,,Marley Road,,Kingswinford
+2021-03-17,301103,DY6 7NG,D,Y,F,40,,Parquet Grove,,Kingswinford
+2021-03-17,240980,DY6 7NG,S,Y,F,35,,Parquet Grove,,Kingswinford
+2021-03-15,206500,DY6 9RY,S,N,F,69,,Kingsley Road,,Kingswinford
+2021-03-12,182500,DY6 9EY,T,N,F,36,,Barton Lane,,Kingswinford
+2021-03-12,625000,DY6 9AA,D,N,F,22,,Richmond Park,,Kingswinford
+2021-03-12,185000,DY6 8TH,S,N,F,19,,Kingsford Nouveau,,Kingswinford
+2021-03-12,215000,DY6 8SP,S,N,F,149,,Booth Close,,Kingswinford
+2021-03-12,195000,DY6 8RA,S,N,F,129,,Nanaimo Way,,Kingswinford
+2021-03-12,176000,DY6 8NZ,S,N,F,34,,Tiverton Close,,Kingswinford
+2021-03-12,550000,DY6 8JP,D,N,F,Brynavalon,,Bromley Lane,,Kingswinford
+2021-03-12,231950,DY6 7LZ,S,Y,F,8,,English Gardens,,Kingswinford
+2021-03-12,272000,DY6 7BA,D,N,F,27,,Great Western Way,,Kingswinford
+2021-03-12,191000,DY6 0JJ,S,N,F,14,,Victoria Street,Wall Heath,Kingswinford
+2021-03-11,512000,DY6 9QG,D,N,F,190A,,Cot Lane,,Kingswinford
+2021-03-11,317000,DY6 8XU,D,N,F,119,,Ploverdale Crescent,,Kingswinford
+2021-03-09,760000,DY6 9XE,D,N,F,Ridgehill Cottage,,Lodge Lane,,Kingswinford
+2021-03-08,131500,DY6 7AR,F,N,L,111,,Field Sidings Way,,Kingswinford
+2021-03-05,245000,DY6 9RY,S,N,F,45,,Kingsley Road,,Kingswinford
+2021-03-05,140000,DY6 8NQ,D,N,F,53,,Ragees Road,,Kingswinford
+2021-03-05,245000,DY6 8LS,S,N,F,19,,Burrows Road,,Kingswinford
+2021-03-05,210000,DY6 7AR,S,N,F,27,,Field Sidings Way,,Kingswinford
+2021-03-05,129000,DY6 7AR,F,N,L,107,,Field Sidings Way,,Kingswinford
+2021-03-05,190000,DY6 0LP,S,N,F,13,,Blaze Park,Wall Heath,Kingswinford
+2021-03-04,209000,DY6 9LX,T,N,F,11A,,Park Street,,Kingswinford
+2021-03-04,225000,DY6 9HR,S,N,L,48,,Moss Grove,,Kingswinford
+2021-03-04,308000,DY6 8JH,D,N,F,2B,,Melbourne Close,,Kingswinford
+2021-03-04,320000,DY6 7BA,D,N,F,3,,Great Western Way,,Kingswinford
+2021-03-04,469500,DY6 0DT,D,N,F,5,,Clover Lane,Wall Heath,Kingswinford
+2021-03-03,343000,DY6 9QH,D,N,F,208C,,Cot Lane,,Kingswinford
+2021-02-26,381000,DY6 9RS,D,N,F,155,,Kingsley Road,,Kingswinford
+2021-02-26,240000,DY6 9RL,S,N,F,40,,Court Crescent,,Kingswinford
+2021-02-26,290000,DY6 9PD,S,N,F,49,,Stream Road,,Kingswinford
+2021-02-26,520000,DY6 9NW,D,N,F,Rudge,,Stream Road,,Kingswinford
+2021-02-26,247000,DY6 9EG,D,N,L,2,,Chelsea Way,,Kingswinford
+2021-02-26,269000,DY6 9AL,S,N,F,25,,Lynwood Avenue,,Kingswinford
+2021-02-26,325000,DY6 8XU,D,N,F,49,,Ploverdale Crescent,,Kingswinford
+2021-02-26,205000,DY6 8HY,S,N,F,24,,Newfield Drive,,Kingswinford
+2021-02-26,182000,DY6 8HW,T,N,F,87,,The Portway,,Kingswinford
+2021-02-26,173000,DY6 8EZ,S,N,F,31,,Hazel Road,,Kingswinford
+2021-02-26,165000,DY6 8EZ,T,N,F,20,,Hazel Road,,Kingswinford
+2021-02-26,190000,DY6 8EE,S,N,F,17,,Rowan Rise,,Kingswinford
+2021-02-26,86000,DY6 8BF,F,N,L,"Larch House, 241",Apartment 48,High Street,,Kingswinford
+2021-02-26,301102,DY6 7NG,D,Y,F,38,,Parquet Grove,,Kingswinford
+2021-02-26,306950,DY6 7NG,D,Y,F,33,,Parquet Grove,,Kingswinford
+2021-02-26,232702,DY6 7LX,S,Y,F,6,,Della Court,,Kingswinford
+2021-02-26,306950,DY6 7LX,D,Y,F,2,,Della Court,,Kingswinford
+2021-02-26,234850,DY6 7LX,T,Y,F,14,,Della Court,,Kingswinford
+2021-02-26,66000,DY6 7AR,T,N,L,155,,Field Sidings Way,,Kingswinford
+2021-02-26,220000,DY6 0NW,T,N,F,7,,Lyndon Grove,,Kingswinford
+2021-02-26,305000,DY6 0NA,S,N,F,19,,Albert Street,Wall Heath,Kingswinford
+2021-02-26,179050,DY6 0LA,T,N,F,21,,Blaze Hill Road,Wall Heath,Kingswinford
+2021-02-26,355000,DY6 0JY,T,N,F,24,,Windmill Grove,Wall Heath,Kingswinford
+2021-02-26,422500,DY6 0DZ,D,N,F,4,,Oasthouse Close,,Kingswinford
+2021-02-25,127000,DY6 9LU,S,N,L,13,,Cross Street,,Kingswinford
+2021-02-24,162500,DY6 8EQ,S,N,F,5,,Sycamore Road,,Kingswinford
+2021-02-23,310000,DY6 7SF,T,N,F,5,,Collindale Court,,Kingswinford
+2021-02-22,255000,DY6 9PB,S,N,F,34,,Stream Road,,Kingswinford
+2021-02-19,210000,DY6 9SZ,D,N,F,66,,Kingswood Road,,Kingswinford
+2021-02-19,405000,DY6 9RG,D,N,F,79,,Ridge Road,,Kingswinford
+2021-02-19,245950,DY6 7LX,S,Y,F,8,,Della Court,,Kingswinford
+2021-02-19,319950,DY6 7LX,D,Y,F,4,,Della Court,,Kingswinford
+2021-02-19,242000,DY6 0HR,S,N,F,45,,Claydon Road,,Kingswinford
+2021-02-18,362500,DY6 9AU,S,N,F,11,,Summerfield Avenue,,Kingswinford
+2021-02-18,170000,DY6 8DG,S,N,F,80,,Larch Road,,Kingswinford
+2021-02-18,255000,DY6 0JH,S,N,F,73,,Brook Street,Wall Heath,Kingswinford
+2021-02-16,323000,DY6 9LP,D,N,F,36,,Broad Street,,Kingswinford
+2021-02-16,300000,DY6 8BT,D,N,F,9,,Dudley Road,,Kingswinford
+2021-02-15,215000,DY6 8QP,D,N,F,76,,Camberley Road,,Kingswinford
+2021-02-15,175000,DY6 8AJ,S,N,F,572,,High Street,,Kingswinford
+2021-02-15,347950,DY6 0DD,D,N,F,23,,Barleyfield Rise,Wall Heath,Kingswinford
+2021-02-12,165000,DY6 8NG,T,N,L,48,,Ragees Road,,Kingswinford
+2021-02-12,185000,DY6 8LH,S,N,F,36,,Granville Drive,,Kingswinford
+2021-02-12,158000,DY6 8HR,T,N,F,29,,Surrey Drive,,Kingswinford
+2021-02-12,286000,DY6 8HG,D,N,F,8,,Cranham Drive,,Kingswinford
+2021-02-12,273365,DY6 7NF,D,Y,F,28,,Herringbone Way,,Kingswinford
+2021-02-12,310000,DY6 7BE,D,N,F,43,,Pullman Drive,,Kingswinford
+2021-02-12,126000,DY6 7AR,F,N,L,119,,Field Sidings Way,,Kingswinford
+2021-02-12,300000,DY6 0HP,S,N,F,3,,Holcroft Road,,Kingswinford
+2021-02-11,310000,DY6 9QA,D,N,F,164,,Barnett Lane,,Kingswinford
+2021-02-11,447000,DY6 7QJ,D,N,F,55C,,Wartell Bank,,Kingswinford
+2021-02-10,170000,DY6 8AT,T,N,F,23,,Park Lane,,Kingswinford
+2021-02-10,118500,DY6 7BF,T,N,F,23,,Halt Mews,,Kingswinford
+2021-02-05,145000,DY6 8RF,S,N,F,11,,Wrens Avenue,,Kingswinford
+2021-02-05,298950,DY6 7NF,D,Y,F,80,,Herringbone Way,,Kingswinford
+2021-02-05,233395,DY6 7LX,S,Y,F,17,,Della Court,,Kingswinford
+2021-02-05,185000,DY6 7EA,S,N,F,14,,Mimosa Walk,,Kingswinford
+2021-02-04,275000,DY6 9PS,S,N,F,6,,Stewart Road,,Kingswinford
+2021-02-04,175000,DY6 8NQ,T,N,F,73,,Ragees Road,,Kingswinford
+2021-02-02,223000,DY6 8LT,D,N,F,122,,Winford Avenue,,Kingswinford
+2021-02-01,210000,DY6 7QH,S,N,F,6,,Green Lane,,Kingswinford
+2021-02-01,187000,DY6 7HG,S,N,F,4,,Broadmeadow,,Kingswinford
+2021-01-29,205000,DY6 9TG,T,N,F,7,,Mount Pleasant,,Kingswinford
+2021-01-29,195000,DY6 9PN,S,N,F,110,,Barnett Lane,,Kingswinford
+2021-01-29,568000,DY6 9HP,D,N,F,"Daviot, 45A",,Moss Grove,,Kingswinford
+2021-01-29,164000,DY6 9AF,S,N,F,31,,Grove Park,Wall Heath,Kingswinford
+2021-01-29,266500,DY6 8NH,D,N,F,2,,Caterham Drive,,Kingswinford
+2021-01-29,335000,DY6 8DR,D,N,F,1,,Ullswater Gardens,,Kingswinford
+2021-01-29,238125,DY6 7LX,S,Y,F,3,,Della Court,,Kingswinford
+2021-01-29,235276,DY6 7LX,S,Y,F,11,,Della Court,,Kingswinford
+2021-01-29,300000,DY6 0NB,D,N,F,17,,Cross Street,Wall Heath,Kingswinford
+2021-01-29,162500,DY6 0LB,T,N,F,59,,Blaze Hill Road,Wall Heath,Kingswinford
+2021-01-29,240000,DY6 0JS,S,N,F,161,,Albion Street,Wall Heath,Kingswinford
+2021-01-29,380000,DY6 0JA,D,N,F,23,,Maidensbridge Road,Wall Heath,Kingswinford
+2021-01-28,380000,DY6 8JX,S,N,F,21,,The Knoll,,Kingswinford
+2021-01-28,315000,DY6 0JX,S,N,F,"Privet Dale, 67",,Enville Road,Wall Heath,Kingswinford
+2021-01-28,395000,DY6 0DA,D,N,F,4,,Millers Green Drive,Wall Heath,Kingswinford
+2021-01-28,395000,DY6 0AJ,D,N,F,2,,Wainwright Close,,Kingswinford
+2021-01-27,239950,DY6 9PE,S,N,F,1,,Fairlawn Drive,,Kingswinford
+2021-01-27,275000,DY6 9NR,S,N,F,35,,Compton Grove,,Kingswinford
+2021-01-26,320000,DY6 9RR,S,N,F,171,,Kingsley Road,,Kingswinford
+2021-01-25,175000,DY6 8PT,T,N,L,4,,Conway Close,,Kingswinford
+2021-01-25,102500,DY6 7RJ,F,N,L,25,,Catesby Drive,,Kingswinford
+2021-01-25,199950,DY6 7ES,S,N,F,5,,Leacroft Road,,Kingswinford
+2021-01-22,210000,DY6 9SU,D,N,F,12,,Kingswood Road,,Kingswinford
+2021-01-22,362500,DY6 9BQ,D,N,F,21,,Brenwood Close,,Kingswinford
+2021-01-22,200000,DY6 8PE,S,N,F,80,,Sandhurst Road,,Kingswinford
+2021-01-22,245000,DY6 8LN,T,N,F,20,,Kendall Rise,,Kingswinford
+2021-01-22,276000,DY6 8HJ,D,N,F,19A,,Oakfield Avenue,,Kingswinford
+2021-01-22,75000,DY6 8ET,F,N,L,1,,Beech Road,,Kingswinford
+2021-01-22,237176,DY6 7LX,S,Y,F,9,,Della Court,,Kingswinford
+2021-01-22,313500,DY6 7LX,D,Y,F,7,,Della Court,,Kingswinford
+2021-01-22,229425,DY6 7LX,S,Y,F,15,,Della Court,,Kingswinford
+2021-01-22,158000,DY6 7LU,S,N,F,11,,Bobeche Place,,Kingswinford
+2021-01-22,340000,DY6 7EE,D,N,F,30,,Hillcroft Road,,Kingswinford
+2021-01-22,250000,DY6 0JG,S,N,F,23,,Brook Street,Wall Heath,Kingswinford
+2021-01-21,355000,DY6 0DA,D,N,F,7,,Millers Green Drive,Wall Heath,Kingswinford
+2021-01-15,230000,DY6 9RY,S,N,F,75,,Kingsley Road,,Kingswinford
+2021-01-15,245000,DY6 9RL,S,N,F,26,,Court Crescent,,Kingswinford
+2021-01-15,182500,DY6 8NZ,S,N,F,58,,Tiverton Close,,Kingswinford
+2021-01-15,345000,DY6 8HJ,D,N,F,25,,Oakfield Avenue,,Kingswinford
+2021-01-15,245000,DY6 7RY,D,N,F,2,,Monteagle Drive,,Kingswinford
+2021-01-15,183302,DY6 7LZ,T,Y,F,7,,English Gardens,,Kingswinford
+2021-01-14,415000,DY6 9SW,D,N,F,242,,Mount Pleasant,,Kingswinford
+2021-01-13,172000,DY6 8PE,S,N,F,25,,Sandhurst Road,,Kingswinford
+2021-01-13,165000,DY6 0LS,T,N,F,31,,Blaze Park,Wall Heath,Kingswinford
+2021-01-12,278000,DY6 7RQ,D,N,F,23,,Hewell Close,,Kingswinford
+2021-01-08,325000,DY6 9SE,D,N,F,24A,,Mount Pleasant,,Kingswinford
+2021-01-08,210000,DY6 9BZ,S,N,F,17,,Coniston Drive,,Kingswinford
+2021-01-08,330000,DY6 9BN,D,N,F,4,,Edale Close,,Kingswinford
+2021-01-08,285000,DY6 9AY,D,N,F,22,,Foundry Road,Wall Heath,Kingswinford
+2021-01-08,253000,DY6 9AH,S,N,F,26,,New Street,Wall Heath,Kingswinford
+2021-01-08,316500,DY6 7LX,D,Y,F,5,,Della Court,,Kingswinford
+2021-01-08,270000,DY6 0HR,S,N,F,44,,Claydon Road,,Kingswinford
+2021-01-08,325000,DY6 0ER,S,N,F,4,,Heathbrook Avenue,Wall Heath,Kingswinford
+2021-01-06,177000,DY6 8SU,S,N,F,106,,Tunstall Road,,Kingswinford
+2021-01-06,177000,DY6 8NZ,S,N,F,32,,Tiverton Close,,Kingswinford
+2021-01-06,315000,DY6 0HX,S,N,F,32,,Beachcroft Road,,Kingswinford
+2021-01-05,75500,DY6 8HA,S,N,L,19,,Beech Road,,Kingswinford
+2021-01-05,237038,DY6 7NJ,S,Y,F,3,,Celtic Cross Drive,,Kingswinford

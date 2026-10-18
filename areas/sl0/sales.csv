@@ -1,0 +1,834 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-11,535000,SL0 9NH,S,N,F,32,,Chequers Orchard,,Iver
+2026-08-04,585000,SL0 9AE,D,N,F,14,,Thorney Lane South,,Iver
+2026-08-03,430500,SL0 0EP,T,N,F,Bangors Cottages,3,Norwood Lane,,Iver
+2026-07-17,848000,SL0 9QT,D,N,F,Stratton House,,Love Lane,,Iver
+2026-06-30,415000,SL0 9RB,T,N,F,97,,Leas Drive,,Iver
+2026-06-30,645000,SL0 0RJ,S,N,F,276,,The Parkway,,Iver
+2026-06-24,515000,SL0 9NA,D,N,F,1B,,Colne Orchard,,Iver
+2026-06-19,490000,SL0 0AF,S,N,F,7,,Colborne Close,,Iver
+2026-06-18,345000,SL0 9NA,F,N,L,6,,Colne Orchard,,Iver
+2026-06-18,1500000,SL0 9AG,D,N,F,7,,Somerset Way,,Iver
+2026-06-15,392000,SL0 9NU,T,N,F,26,,Grange Way,,Iver
+2026-06-05,370000,SL0 9PW,F,N,L,Saxon Court,6,High Street,,Iver
+2026-05-29,452000,SL0 0HY,T,N,F,45,,Martindale,,Iver
+2026-05-18,605000,SL0 0HB,S,N,F,4,,Whitehouse Way,,Iver
+2026-05-15,410000,SL0 0PZ,S,N,F,30,,Heatherden Green,,Iver
+2026-05-08,640000,SL0 9AB,D,N,F,3,,Bathurst Close,,Iver
+2026-05-06,875000,SL0 0QP,D,N,F,26,,Pinewood Green,,Iver
+2026-04-30,322500,SL0 0PD,F,N,L,25,,Lady Yorke Park,,Iver
+2026-04-28,715000,SL0 0RF,S,N,F,259,,Church Road,,Iver
+2026-04-24,455000,SL0 9RJ,T,N,F,27,,Iverdale Close,,Iver
+2026-04-24,515000,SL0 9NJ,S,N,F,56,,Chequers Orchard,,Iver
+2026-04-24,515000,SL0 0HE,S,N,F,16,,The Close,,Iver
+2026-04-23,460000,SL0 0HY,S,N,F,51,,Martindale,,Iver
+2026-04-17,650000,SL0 0LA,D,N,F,Jasmine Cottage,,Wood Lane,,Iver
+2026-04-07,462500,SL0 9NU,S,N,F,18,,Grange Way,,Iver
+2026-04-01,500000,SL0 9NB,S,N,F,40,,Colne Orchard,,Iver
+2026-04-01,800000,SL0 9BQ,S,N,F,3,,Apsley Walk,,Iver
+2026-03-30,620000,SL0 9NH,D,N,F,6,,Chequers Orchard,,Iver
+2026-03-30,672500,SL0 0QN,S,N,F,97,,Pinewood Green,,Iver
+2026-03-30,420000,SL0 0QJ,F,N,L,170,,Pinewood Green,,Iver
+2026-03-26,385000,SL0 9PJ,T,N,F,86,,High Street,,Iver
+2026-03-26,665000,SL0 0HS,S,N,F,208,,Swallow Street,,Iver
+2026-03-24,315000,SL0 0RS,F,N,L,59,,St Davids Close,,Iver
+2026-03-20,540000,SL0 9PT,S,N,F,128,,High Street,,Iver
+2026-03-20,375000,SL0 0HG,D,N,F,34A,,Swallow Street,,Iver
+2026-03-16,530000,SL0 9AJ,T,N,F,North Barn,18,Millside Court,,Iver
+2026-03-05,825000,SL0 0JQ,S,N,F,Darshan,,Langley Park Road,,Iver
+2026-03-04,316500,SL0 0DL,F,N,L,27,,Keensacre,,Iver
+2026-02-27,770000,SL0 0HY,S,N,F,22,,Martindale,,Iver
+2026-02-27,525000,SL0 0ET,S,N,F,97,,Swallow Street,,Iver
+2026-02-20,1235000,SL0 0LH,D,N,F,21,,Wood Lane Close,,Iver
+2026-02-19,1395000,SL0 9EU,D,N,F,72,,Syke Ings,,Iver
+2026-02-19,245000,SL0 0QA,F,N,L,122,,Heatherden Green,,Iver
+2026-02-18,450000,SL0 9NU,T,N,F,16,,Grange Way,,Iver
+2026-02-13,400000,SL0 9RR,S,N,F,Chequers Bridge Cottages,4,Market Lane,,Iver
+2026-02-12,375000,SL0 9BZ,F,N,L,"Universal House, 20 - 22",3,High Street,,Iver
+2026-02-12,420000,SL0 0SF,T,N,F,3,,Rowan Gardens,,Iver
+2026-02-06,435000,SL0 9RN,T,N,F,22,,Mansion Lane,,Iver
+2026-01-30,500000,SL0 9RD,T,N,F,22,,Leas Drive,,Iver
+2026-01-30,465000,SL0 9QB,T,N,F,147,,High Street,,Iver
+2026-01-30,430000,SL0 9NT,T,N,F,57,,Grange Way,,Iver
+2026-01-30,620000,SL0 0QH,S,N,F,78,,Pinewood Green,,Iver
+2026-01-30,738000,SL0 0QD,D,N,F,28,,Thornbridge Road,,Iver
+2026-01-30,738000,SL0 0QD,D,N,F,28,,Thornbridge Road,,Iver
+2026-01-29,970000,SL0 9EF,S,N,F,73,,Bathurst Walk,,Iver
+2026-01-23,800000,SL0 9BQ,S,N,F,4,,Apsley Walk,,Iver
+2026-01-23,1375000,SL0 0PH,D,N,F,The Granary,,Denham Road,,Iver
+2026-01-15,782500,SL0 0DW,S,N,F,37,,Slough Road,,Iver
+2026-01-13,585000,SL0 0RX,S,N,F,21,,Glaisyer Way,,Iver
+2026-01-09,530000,SL0 9DA,T,N,F,1A,,Richings Way,,Iver
+2026-01-08,268888,SL0 9BJ,F,N,L,Buckfield Court,12,Bathurst Walk,,Iver
+2026-01-06,510000,SL0 0RD,D,N,F,Ridga,,Church Road,,Iver
+2025-12-18,467000,SL0 9RB,T,N,F,93,,Leas Drive,,Iver
+2025-12-18,316500,SL0 9AT,F,N,L,Wellesley Court,19,Bathurst Walk,,Iver
+2025-12-18,440000,SL0 0RU,T,N,F,31,,Warren Field,,Iver
+2025-12-18,825000,SL0 0EW,S,N,F,Seaburn,,Norwood Lane,,Iver
+2025-12-17,550000,SL0 0RJ,S,N,F,271,,The Parkway,,Iver
+2025-12-15,415000,SL0 9NX,T,N,F,90,,Dutton Way,,Iver
+2025-12-12,560000,SL0 0HN,S,N,F,108,,Swallow Street,,Iver
+2025-12-12,850000,SL0 0DH,D,N,F,87,,Slough Road,,Iver
+2025-12-10,617000,SL0 0RD,D,N,F,Glentana,,Church Road,,Iver
+2025-12-04,725000,SL0 9QJ,S,N,F,3,,Langley Park Road,,Iver
+2025-12-04,832500,SL0 0RN,S,N,F,285,,Longstone Road,,Iver
+2025-12-04,650000,SL0 0RL,S,N,F,328,,The Parkway,,Iver
+2025-12-04,1485000,SL0 0LG,D,N,F,Harewood,,Wood Lane,Iver Heath,Iver
+2025-12-03,795000,SL0 0RD,D,N,F,Cadova,,Church Road,,Iver
+2025-11-28,485000,SL0 9QF,S,N,F,30,,Stonecroft Avenue,,Iver
+2025-11-28,600000,SL0 0DW,S,N,F,35,,Slough Road,,Iver
+2025-11-21,620000,SL0 0BN,D,N,F,Baynards,,Bangors Road North,,Iver
+2025-11-17,488000,SL0 9LZ,T,N,F,23,,Barnes Way,,Iver
+2025-11-14,450000,SL0 9RF,T,N,F,144,,Mansion Lane,,Iver
+2025-11-14,440000,SL0 9BX,T,N,F,2,,Foxcroft,,Iver
+2025-11-13,760000,SL0 9EE,S,N,F,55,,Bathurst Walk,,Iver
+2025-11-07,470000,SL0 0HE,S,N,F,4,,The Close,,Iver
+2025-11-06,1050000,SL0 9DB,D,N,F,67,,Richings Way,,Iver
+2025-10-28,251500,SL0 9BZ,F,N,L,"Universal House, 20 - 22",17,High Street,,Iver
+2025-10-24,428000,SL0 9NX,T,N,F,98,,Dutton Way,,Iver
+2025-10-24,740000,SL0 0BH,D,N,F,Woodhurst,,Bangors Road North,,Iver
+2025-10-24,372500,SL0 0AG,F,N,L,The Old Orchard,2,Bangors Road South,,Iver
+2025-10-22,510000,SL0 0HB,S,N,F,22,,Whitehouse Way,,Iver
+2025-10-20,301500,SL0 0RS,T,N,L,63,,St Davids Close,,Iver
+2025-10-17,585000,SL0 0JU,D,N,F,Lanterns,,Holly Bush Lane,,Iver
+2025-10-16,591000,SL0 0AF,S,N,F,8,,Colborne Close,,Iver
+2025-10-15,620000,SL0 0HQ,S,N,F,66,,Swallow Street,,Iver
+2025-10-14,600000,SL0 0NX,S,N,F,2,,Springfield Cottages,,Iver
+2025-10-10,499950,SL0 0BF,F,Y,L,Meadow Court,5,Evreham Road,,Iver
+2025-10-09,1250000,SL0 0QX,D,N,F,3,,Cedar Close,,Iver
+2025-10-06,555000,SL0 0BF,F,Y,L,Meadow Court,7,Evreham Road,,Iver
+2025-10-02,670000,SL0 0RL,S,N,F,318,,The Parkway,,Iver
+2025-10-02,1000000,SL0 0NS,D,N,F,Astraea,,Alderbourne Lane,,Iver
+2025-09-22,480000,SL0 9NU,T,N,F,22,,Grange Way,,Iver
+2025-09-19,367500,SL0 0AL,F,N,L,37,,Barnfield,,Iver
+2025-09-17,940000,SL0 9PS,D,N,F,Annalyn,,Cecil Road,,Iver
+2025-09-03,485000,SL0 9AJ,T,N,F,East Barn,5,Millside Court,,Iver
+2025-08-29,575000,SL0 9LF,S,N,F,39,,Iver Lane,,Iver
+2025-08-29,1335000,SL0 9DY,D,N,F,27,,Old Slade Lane,,Iver
+2025-08-28,285000,SL0 9NE,F,N,L,Iver Court,Flat 4,High Street,,Iver
+2025-08-26,1925000,SL0 0LD,D,N,F,Wood Lane House,,Wood Lane,Iver Heath,Iver
+2025-08-22,145000,SL0 9NG,F,N,L,14B,,High Street,,Iver
+2025-08-22,310000,SL0 0DL,F,N,L,11,,Keensacre,,Iver
+2025-08-21,430000,SL0 9NX,T,N,F,78,,Dutton Way,,Iver
+2025-08-19,1130000,SL0 9EP,D,N,F,35,,Syke Cluan,,Iver
+2025-08-15,635000,SL0 9LZ,S,N,F,30,,Barnes Way,,Iver
+2025-08-15,320000,SL0 0RS,F,N,L,75,,St Davids Close,,Iver
+2025-08-14,1139000,SL0 9ER,D,N,F,19,,Syke Ings,,Iver
+2025-08-14,590000,SL0 0HR,S,N,F,156,,Swallow Street,,Iver
+2025-08-14,650000,SL0 0DU,D,N,F,6,,Post Meadow,,Iver
+2025-08-04,850000,SL0 0RN,S,N,F,335,,Longstone Road,,Iver
+2025-08-01,137500,SL0 0SF,F,N,L,7,,Rowan Gardens,,Iver
+2025-07-30,875000,SL0 9EE,S,N,F,35,,Bathurst Walk,,Iver
+2025-07-29,330000,SL0 0RS,F,N,L,65,,St Davids Close,,Iver
+2025-07-28,510000,SL0 9NH,S,N,F,27,,Chequers Orchard,,Iver
+2025-07-28,775000,SL0 0QF,S,N,F,86,,Ashford Road,,Iver
+2025-07-24,640000,SL0 9PN,D,N,F,95,,High Street,,Iver
+2025-07-21,265000,SL0 9NQ,F,N,L,Daws Court,2,High Street,,Iver
+2025-07-18,315000,SL0 0PU,F,N,L,27,,Thornbridge Road,,Iver
+2025-07-18,822000,SL0 0HR,D,N,F,146E,,Swallow Street,,Iver
+2025-07-18,335000,SL0 0BW,F,N,L,24,,Anslow Gardens,,Iver
+2025-07-17,295000,SL0 9AT,F,N,L,Wellesley Court,1,Bathurst Walk,,Iver
+2025-07-11,1295000,SL0 9BN,D,N,F,18,,Wellesley Avenue,,Iver
+2025-07-09,800000,SL0 0JQ,D,N,F,The Larches,,Langley Park Road,,Iver
+2025-07-04,1600000,SL0 0QS,D,N,F,3,,Pinewood Close,,Iver
+2025-07-01,455000,SL0 9PU,T,N,F,2,,Cape Villas,,Iver
+2025-06-27,287000,SL0 9NP,T,N,F,4 Old Bakery Court,,High Street,,Iver
+2025-06-23,745000,SL0 9PN,D,N,F,97B,,High Street,,Iver
+2025-06-23,950000,SL0 0LJ,D,N,F,26,,Wood Lane Close,,Iver
+2025-06-19,380000,SL0 9QP,S,N,F,6,,Leacroft Road,,Iver
+2025-06-19,429950,SL0 0BF,F,Y,L,Meadow Court,28,Evreham Road,,Iver
+2025-06-06,286000,SL0 0RY,F,N,L,Lynedoch,,Bangors Road North,,Iver
+2025-06-06,571000,SL0 0HE,D,N,F,3,,The Close,,Iver
+2025-06-05,750000,SL0 0HB,S,N,F,14,,Whitehouse Way,,Iver
+2025-06-04,270000,SL0 9BZ,F,N,L,"Universal House, 20 - 22",6,High Street,,Iver
+2025-05-30,487950,SL0 9QX,S,N,F,Love Green Cottages,1,Love Lane,,Iver
+2025-05-30,1070000,SL0 0QB,D,N,F,85,,Thornbridge Road,,Iver
+2025-05-29,467000,SL0 9NA,T,N,F,23,,Colne Orchard,,Iver
+2025-05-28,909050,SL0 9EF,S,N,F,67,,Bathurst Walk,,Iver
+2025-05-27,370000,SL0 9PW,F,N,L,Saxon Court,1,High Street,,Iver
+2025-05-27,410000,SL0 9PU,T,N,F,5,,Cape Villas,,Iver
+2025-05-27,780000,SL0 9AB,D,N,F,5,,Bathurst Close,,Iver
+2025-05-15,878000,SL0 0QD,D,N,F,48,,Thornbridge Road,,Iver
+2025-05-14,875000,SL0 9AF,D,N,F,6,,Somerset Way,,Iver
+2025-05-12,1450000,SL0 0BJ,D,N,F,Tera Ghar,,Bangors Road North,,Iver
+2025-05-09,710000,SL0 0DQ,D,N,F,7,,Swallow Fields,,Iver
+2025-05-02,220000,SL0 9BZ,F,N,L,"Universal House, 20 - 22",15,High Street,,Iver
+2025-05-01,308500,SL0 0RS,F,N,L,5,,St Davids Close,,Iver
+2025-04-30,437000,SL0 9RR,D,N,F,Chequers Bridge Cottages,6,Market Lane,,Iver
+2025-04-30,900000,SL0 9AD,D,N,F,17,,Thorney Lane South,,Iver
+2025-04-30,480000,SL0 0DJ,D,N,F,9,,Keensacre,,Iver
+2025-04-15,750000,SL0 0QD,D,N,F,40,,Thornbridge Road,,Iver
+2025-04-14,655000,SL0 9QW,D,N,F,Hillcroft,,Leacroft Road,,Iver
+2025-04-11,750000,SL0 9EL,D,N,F,17,,Syke Cluan,,Iver
+2025-04-07,290000,SL0 0BX,F,N,L,35,,Heathway,,Iver
+2025-03-31,555000,SL0 9QW,S,N,F,Leas End,,Leacroft Road,,Iver
+2025-03-31,1060000,SL0 9BP,D,N,F,43,,Wellesley Avenue,,Iver
+2025-03-31,620000,SL0 0RG,S,N,F,171,,The Parkway,,Iver
+2025-03-31,520000,SL0 0RD,D,N,F,Glencairn,,Church Road,,Iver
+2025-03-31,640000,SL0 0QE,S,N,F,152,,Ashford Road,,Iver
+2025-03-31,600000,SL0 0HE,S,N,F,27,,The Close,,Iver
+2025-03-31,380000,SL0 0BW,F,N,L,26,,Anslow Gardens,,Iver
+2025-03-31,1750000,SL0 0BQ,D,N,F,Ancoats Lodge,,Bangors Road North,,Iver
+2025-03-31,566500,SL0 0BF,F,Y,L,Meadow Court,4,Evreham Road,,Iver
+2025-03-28,490000,SL0 9RF,T,N,F,124,,Mansion Lane,,Iver
+2025-03-28,600000,SL0 9LZ,S,N,F,40,,Barnes Way,,Iver
+2025-03-28,525000,SL0 0HS,S,N,F,196,,Swallow Street,,Iver
+2025-03-28,787000,SL0 0DU,D,N,F,40,,Post Meadow,,Iver
+2025-03-28,555000,SL0 0BF,F,Y,L,Meadow Court,34,Evreham Road,,Iver
+2025-03-28,780000,SL0 0AF,S,N,F,17,,Colborne Close,,Iver
+2025-03-27,360000,SL0 0PZ,S,N,F,16,,Heatherden Green,,Iver
+2025-03-27,485000,SL0 0BF,F,Y,L,Meadow Court,8,Evreham Road,,Iver
+2025-03-26,443710,SL0 9RL,T,N,F,30,,Iverdale Close,,Iver
+2025-03-26,870000,SL0 9BQ,S,N,F,14,,Apsley Walk,,Iver
+2025-03-26,907000,SL0 0NP,D,N,F,Park Spring Lodge,,Fulmer Common Road,,Iver
+2025-03-26,315000,SL0 0AG,F,N,L,The Old Orchard,12,Bangors Road South,,Iver
+2025-03-26,365000,SL0 0AG,F,N,L,The Old Orchard,1,Bangors Road South,,Iver
+2025-03-25,450000,SL0 9LY,T,N,F,17,,Thorney Lane North,,Iver
+2025-03-25,400000,SL0 0PZ,T,N,F,42,,Heatherden Green,,Iver
+2025-03-25,413000,SL0 0DA,T,N,F,5,,St Margarets Close,,Iver
+2025-03-24,455000,SL0 9PJ,T,N,F,94,,High Street,,Iver
+2025-03-24,680000,SL0 0HJ,D,N,F,11,,Hardings Row,,Iver
+2025-03-24,380000,SL0 0BF,F,Y,L,Meadow Court,39,Evreham Road,,Iver
+2025-03-21,540000,SL0 0BF,F,Y,L,Meadow Court,31,Evreham Road,,Iver
+2025-03-21,560000,SL0 0BF,F,Y,L,Meadow Court,19,Evreham Road,,Iver
+2025-03-20,885500,SL0 0RJ,S,N,F,274,,The Parkway,,Iver
+2025-03-20,399000,SL0 0BF,F,Y,L,Meadow Court,14,Evreham Road,,Iver
+2025-03-19,950000,SL0 9AG,D,N,F,37,,Somerset Way,,Iver
+2025-03-17,550000,SL0 0EZ,S,N,F,24,,Swallowdale,,Iver
+2025-03-14,760000,SL0 0HX,S,N,F,19,,Martindale,,Iver
+2025-03-14,560000,SL0 0ET,S,N,F,113,,Swallow Street,,Iver
+2025-03-14,320000,SL0 0DL,F,N,L,Flat 26,,Keensacre,,Iver
+2025-03-13,485000,SL0 9QB,T,N,F,125,,High Street,,Iver
+2025-03-11,605000,SL0 9AH,S,N,F,75,,Thorney Mill Road,,Iver
+2025-03-11,725000,SL0 0QG,S,N,F,Twyneham,,Pinewood Green,,Iver
+2025-03-07,352000,SL0 9JZ,T,N,F,2,,Swan Road,,Iver
+2025-03-06,810000,SL0 9BQ,S,N,F,10,,Apsley Walk,,Iver
+2025-03-05,557500,SL0 9LZ,T,N,F,17,,Barnes Way,,Iver
+2025-03-05,300000,SL0 0RS,F,N,L,35,,St Davids Close,,Iver
+2025-03-04,430000,SL0 9QB,T,N,F,135,,High Street,,Iver
+2025-03-03,865000,SL0 9DS,D,N,F,23,,The Poynings,,Iver
+2025-02-28,430000,SL0 9NU,T,N,F,24,,Grange Way,,Iver
+2025-02-28,469000,SL0 9NU,T,N,F,14,,Grange Way,,Iver
+2025-02-28,595000,SL0 9LH,S,N,F,15,,Iver Lane,,Iver
+2025-02-28,1080000,SL0 0JR,D,N,F,13,,Lossie Drive,,Iver
+2025-02-24,475000,SL0 9RP,S,N,F,159,,Leas Drive,,Iver
+2025-02-20,490000,SL0 0BF,F,Y,L,Meadow Court,21,Evreham Road,,Iver
+2025-02-19,178000,SL0 9NZ,F,N,L,35,,Dutton Way,,Iver
+2025-02-19,540000,SL0 0BZ,S,N,F,42,,Heathway,,Iver
+2025-02-14,620000,SL0 9DT,S,N,F,12,,The Poynings,,Iver
+2025-02-14,690000,SL0 9DB,S,N,F,63,,Richings Way,,Iver
+2025-02-14,650000,SL0 0RB,D,N,F,23,,Rostrevor Gardens,,Iver
+2025-02-10,600000,SL0 9LA,D,N,F,The Beeches,,Swan Road,,Iver
+2025-02-03,327500,SL0 0AL,F,N,L,29,,Barnfield,,Iver
+2025-01-30,405000,SL0 9NB,S,N,F,44,,Colne Orchard,,Iver
+2025-01-29,660000,SL0 0AL,D,N,F,3,,Barnfield,,Iver
+2025-01-24,510000,SL0 9RP,S,N,F,141,,Leas Drive,,Iver
+2025-01-24,1075000,SL0 9BP,D,N,F,49,,Wellesley Avenue,,Iver
+2025-01-24,435000,SL0 0RY,T,N,F,Treborna,,Bangors Road North,,Iver
+2025-01-24,539000,SL0 0QF,S,N,F,108,,Ashford Road,,Iver
+2025-01-17,455000,SL0 0EP,T,N,F,Bangors Cottages,5,Norwood Lane,,Iver
+2025-01-17,630000,SL0 0BF,F,Y,L,Meadow Court,38,Evreham Road,,Iver
+2025-01-15,493000,SL0 9RJ,S,N,F,7,,Iverdale Close,,Iver
+2025-01-07,990000,SL0 9EU,D,N,F,46,,Syke Ings,,Iver
+2024-12-20,540000,SL0 0BF,F,Y,L,Meadow Court,32,Evreham Road,,Iver
+2024-12-20,515000,SL0 0BF,F,Y,L,Meadow Court,16,Evreham Road,,Iver
+2024-12-19,480000,SL0 9QS,S,N,F,66,,Langley Park Road,,Iver
+2024-12-18,275000,SL0 9BJ,F,N,L,Buckfield Court,3,Bathurst Walk,,Iver
+2024-12-18,415000,SL0 0HY,T,N,F,28,,Martindale,,Iver
+2024-12-13,355000,SL0 0HT,S,N,F,238,,Swallow Street,,Iver
+2024-12-11,1310000,SL0 9ER,D,N,F,15,,Syke Ings,,Iver
+2024-12-06,442500,SL0 9PU,T,N,F,6,,Cape Villas,,Iver
+2024-12-06,500000,SL0 0PT,T,N,F,15,,Copse Wood,,Iver
+2024-12-04,1430000,SL0 0JQ,D,N,F,Woodlands,,Langley Park Road,,Iver
+2024-12-02,635000,SL0 0QF,S,N,F,88,,Ashford Road,,Iver
+2024-11-29,399950,SL0 0BF,F,Y,L,Meadow Court,30,Evreham Road,,Iver
+2024-11-22,860000,SL0 9AF,D,N,F,8,,Somerset Way,,Iver
+2024-11-22,1360000,SL0 0BS,D,N,F,12,,Potters Cross,,Iver
+2024-11-21,860000,SL0 9ER,D,N,F,31,,Syke Ings,,Iver
+2024-11-20,520000,SL0 0DU,D,N,F,7,,Post Meadow,,Iver
+2024-11-15,630000,SL0 9RP,S,N,F,143,,Leas Drive,,Iver
+2024-11-15,640000,SL0 9LF,S,N,F,40,,Iver Lane,,Iver
+2024-11-15,755000,SL0 9ES,S,N,F,63,,Syke Ings,,Iver
+2024-11-15,655000,SL0 0DU,D,N,F,35,,Post Meadow,,Iver
+2024-11-14,970000,SL0 0QL,S,N,F,15,,Pinewood Green,,Iver
+2024-11-13,325000,SL0 0DL,F,N,L,14,,Keensacre,,Iver
+2024-11-11,350000,SL0 9AZ,F,N,L,24,,Bathurst Walk,,Iver
+2024-11-04,645000,SL0 9QP,S,N,F,2,,Leacroft Road,,Iver
+2024-11-04,987000,SL0 0DX,D,N,F,3,,Lower Mead,,Iver
+2024-11-01,405000,SL0 9RD,T,N,F,68,,Leas Drive,,Iver
+2024-10-31,720000,SL0 0RN,S,N,F,291,,Longstone Road,,Iver
+2024-10-25,437500,SL0 9NT,T,N,F,59,,Grange Way,,Iver
+2024-10-24,425000,SL0 0DP,T,N,F,3,,St Margarets Gate,,Iver
+2024-10-21,320000,SL0 0HX,T,N,F,5,,Martindale,,Iver
+2024-10-18,1175000,SL0 0JQ,D,N,F,Rivendell,,Langley Park Road,,Iver
+2024-10-18,570000,SL0 0HB,S,N,F,5,,Whitehouse Way,,Iver
+2024-10-17,510000,SL0 0AJ,T,N,F,9,,Bangors Close,,Iver
+2024-10-14,585000,SL0 9QD,D,N,F,Little Orchard,,Widecroft Road,,Iver
+2024-10-11,760000,SL0 9QD,D,N,F,York Cottage,,Widecroft Road,,Iver
+2024-10-10,505000,SL0 9AE,T,N,F,10,,Thorney Lane South,,Iver
+2024-10-10,460000,SL0 0RT,T,N,F,60,,St Davids Close,,Iver
+2024-10-07,448200,SL0 9NX,T,N,F,86,,Dutton Way,,Iver
+2024-10-07,683000,SL0 9EF,S,N,F,65,,Bathurst Walk,,Iver
+2024-10-07,1060000,SL0 9DJ,D,N,F,4,,North Park,,Iver
+2024-10-04,660000,SL0 0SB,T,N,F,74,,Trewarden Avenue,,Iver
+2024-10-04,393000,SL0 0BF,F,Y,L,Meadow Court,35,Evreham Road,,Iver
+2024-10-01,725000,SL0 9AF,S,N,F,54,,Somerset Way,,Iver
+2024-09-27,425000,SL0 9RD,S,N,F,2,,Leas Drive,,Iver
+2024-09-27,525000,SL0 9DG,F,N,L,"Grand Approach, 2",Flat 4,Bathurst Walk,,Iver
+2024-09-27,770000,SL0 0QF,D,N,F,97,,Ashford Road,,Iver
+2024-09-27,1200000,SL0 0LL,D,N,F,4,,Wood Lane,,Iver
+2024-09-27,499950,SL0 0BF,F,Y,L,Meadow Court,1,Evreham Road,,Iver
+2024-09-27,190000,SL0 0AH,F,N,L,27,,Evreham Road,,Iver
+2024-09-19,640000,SL0 9QZ,S,N,F,5,,Love Lane,,Iver
+2024-09-16,550000,SL0 9LZ,T,N,F,1,,Barnes Way,,Iver
+2024-09-13,700000,SL0 9PN,S,N,F,97D,,High Street,,Iver
+2024-09-13,440000,SL0 0DL,T,N,F,36,,Keensacre,,Iver
+2024-09-12,617500,SL0 0HJ,S,N,F,19,,Hardings Row,,Iver
+2024-09-09,315000,SL0 0AG,F,N,L,The Old Orchard,6,Bangors Road South,,Iver
+2024-08-30,595000,SL0 0HG,S,N,F,46,,Swallow Street,,Iver
+2024-08-23,980000,SL0 0JQ,D,N,F,Redmayes,,Langley Park Road,,Iver
+2024-08-23,440000,SL0 0HY,S,N,F,31,,Martindale,,Iver
+2024-08-23,480000,SL0 0DZ,D,N,F,South Lodge Cottage,,Slough Road,,Iver
+2024-08-23,385000,SL0 0BF,F,Y,L,Meadow Court,36,Evreham Road,,Iver
+2024-08-16,710000,SL0 9ES,S,N,F,67,,Syke Ings,,Iver
+2024-08-09,600000,SL0 9RH,D,N,F,14,,Mansion Lane,,Iver
+2024-08-09,1293000,SL0 0LJ,D,N,F,32,,Wood Lane Close,,Iver
+2024-08-08,620000,SL0 0BF,F,Y,L,Meadow Court,37,Evreham Road,,Iver
+2024-08-06,278000,SL0 9BJ,F,N,L,Buckfield Court,17,Bathurst Walk,,Iver
+2024-08-05,850000,SL0 9EG,S,N,F,68,,Bathurst Walk,,Iver
+2024-08-02,605000,SL0 0RW,S,N,F,Edithna,,Church Road,,Iver
+2024-08-01,285000,SL0 9NU,T,N,F,22,,Grange Way,,Iver
+2024-07-31,638000,SL0 0BG,S,N,F,Hollybush,,Bangors Road North,,Iver
+2024-07-29,1575000,SL0 0EW,D,N,F,The Cottage,,Norwood Lane,,Iver
+2024-07-23,495000,SL0 9QN,S,N,F,22,,Langley Park Road,,Iver
+2024-07-22,1072000,SL0 0LZ,D,N,F,4,,Honeysuckle Close,,Iver
+2024-07-19,860000,SL0 0LA,D,N,F,Paddock View,,Wood Lane,,Iver
+2024-07-16,380000,SL0 9QJ,S,N,F,11,,Langley Park Road,,Iver
+2024-07-10,425000,SL0 9RP,T,N,F,101,,Leas Drive,,Iver
+2024-07-09,500000,SL0 9QB,T,N,F,169,,High Street,,Iver
+2024-07-03,453000,SL0 0BX,T,N,F,43,,Heathway,,Iver
+2024-06-28,910000,SL0 9DU,S,N,F,6,,The Ridings,,Iver
+2024-06-28,802500,SL0 9AF,S,N,F,56,,Somerset Way,,Iver
+2024-06-28,417200,SL0 0BX,S,N,F,31,,Heathway,,Iver
+2024-06-28,429950,SL0 0BF,F,Y,L,Meadow Court,13,Evreham Road,,Iver
+2024-06-27,545000,SL0 0HP,S,N,F,11,,Coopers Row,,Iver
+2024-06-21,480000,SL0 0RT,S,N,F,10,,St Davids Close,,Iver
+2024-06-21,512500,SL0 0RD,D,N,F,Ridga,,Church Road,,Iver
+2024-06-20,550000,SL0 0BF,F,Y,L,Meadow Court,2,Evreham Road,,Iver
+2024-06-17,417500,SL0 9NX,D,N,F,62,,Dutton Way,,Iver
+2024-06-17,935000,SL0 9BN,D,N,F,22,,Wellesley Avenue,,Iver
+2024-06-17,480000,SL0 0HT,D,N,F,242,,Swallow Street,,Iver
+2024-06-14,985000,SL0 0LH,D,N,F,35,,Wood Lane Close,,Iver
+2024-06-10,885000,SL0 0RF,S,N,F,253,,Church Road,,Iver
+2024-06-07,425000,SL0 9NN,S,N,F,49,,High Street,,Iver
+2024-06-04,560000,SL0 9LH,S,N,F,8,,Iver Lane,,Iver
+2024-06-03,600000,SL0 0RF,S,N,F,255,,Church Road,,Iver
+2024-05-31,1100000,SL0 0QT,D,N,F,9,,Pinewood Close,,Iver
+2024-05-31,387000,SL0 0BF,F,Y,L,Meadow Court,11,Evreham Road,,Iver
+2024-05-30,450000,SL0 9NA,D,N,F,23B,,Colne Orchard,,Iver
+2024-05-30,1710000,SL0 9JY,S,N,F,18,,Thorney Lane North,,Iver
+2024-05-24,445000,SL0 0EP,T,N,F,Bangors Cottages,4,Norwood Lane,,Iver
+2024-05-21,250000,SL0 9BZ,F,N,L,"Universal House, 20 - 22",1,High Street,,Iver
+2024-05-17,425000,SL0 9NY,T,N,F,40,,Dutton Way,,Iver
+2024-05-17,540000,SL0 0HP,S,N,F,19,,Coopers Row,,Iver
+2024-05-10,315000,SL0 9RB,F,N,F,5D,,Leas Drive,,Iver
+2024-04-30,390000,SL0 9DG,F,N,L,"Grand Approach, 2",Flat 6,Bathurst Walk,,Iver
+2024-04-30,410000,SL0 0HD,S,N,F,7,,Swallow Street,,Iver
+2024-04-29,1700000,SL0 0EE,D,N,F,Willow Cottage,,Cherry Tree Lane,,Iver
+2024-04-26,630000,SL0 9HY,S,N,F,16,,Holmsdale Close,,Iver
+2024-04-26,550000,SL0 0PD,F,N,L,Lady Yorke Park,9,Seven Hills Road,,Iver
+2024-04-26,575000,SL0 0HL,S,N,F,2,,Hardings Close,,Iver
+2024-04-26,332500,SL0 0BY,F,N,L,4,,Laurels Road,,Iver
+2024-04-23,1100000,SL0 9DB,D,N,F,47,,Richings Way,,Iver
+2024-04-18,475000,SL0 0BF,F,Y,L,Meadow Court,10,Evreham Road,,Iver
+2024-04-16,285000,SL0 9AT,F,N,L,Wellesley Court,9,Bathurst Walk,,Iver
+2024-04-15,1020000,SL0 0QP,D,N,F,20,,Pinewood Green,,Iver
+2024-04-03,320000,SL0 0RS,F,N,L,79,,St Davids Close,,Iver
+2024-03-27,232000,SL0 9BZ,F,N,L,"Universal House, 20 - 22",2,High Street,,Iver
+2024-03-08,395000,SL0 0BF,F,Y,L,Meadow Court,26,Evreham Road,,Iver
+2024-03-01,380000,SL0 9PW,F,N,L,Saxon Court,5,High Street,,Iver
+2024-03-01,1060000,SL0 9ER,S,N,F,23,,Syke Ings,,Iver
+2024-03-01,318000,SL0 0AG,F,N,L,The Old Orchard,5,Bangors Road South,,Iver
+2024-02-28,780000,SL0 9PN,T,N,F,97,,High Street,,Iver
+2024-02-20,695000,SL0 0QF,S,N,F,101,,Ashford Road,,Iver
+2024-02-09,758000,SL0 0RQ,S,N,F,197,,The Parkway,,Iver
+2024-02-09,370000,SL0 0BF,F,Y,L,Meadow Court,12,Evreham Road,,Iver
+2024-02-06,390000,SL0 0HQ,S,N,F,88,,Swallow Street,,Iver
+2024-02-01,905000,SL0 9JU,D,N,F,5,,Thorney Lane North,,Iver
+2024-01-30,365000,SL0 9RB,T,N,F,23,,Leas Drive,,Iver
+2024-01-26,390000,SL0 9NZ,T,N,F,71,,Dutton Way,,Iver
+2024-01-26,760000,SL0 0RQ,S,N,F,194,,The Parkway,,Iver
+2024-01-18,432000,SL0 9DG,F,N,L,"Grand Approach, 2",Flat 10,Bathurst Walk,,Iver
+2024-01-15,355000,SL0 9AU,T,N,L,7A,,Wellesley Avenue,,Iver
+2024-01-12,345000,SL0 9NG,S,N,F,52,,High Street,,Iver
+2024-01-12,802000,SL0 0HY,S,N,F,39,,Martindale,,Iver
+2024-01-04,315000,SL0 9RB,T,N,F,5A,,Leas Drive,,Iver
+2023-12-21,450000,SL0 9PS,S,N,F,Elmlea,,Cecil Road,,Iver
+2023-12-20,1450000,SL0 0AA,D,N,F,Iver Lodge Cottage,,Bangors Road South,,Iver
+2023-12-15,250000,SL0 0RS,F,N,L,55,,St Davids Close,,Iver
+2023-12-15,210000,SL0 0PZ,S,N,F,10,,Heatherden Green,,Iver
+2023-12-15,450000,SL0 0HG,S,N,F,50,,Swallow Street,,Iver
+2023-12-14,461000,SL0 0HY,S,N,F,43,,Martindale,,Iver
+2023-12-11,577500,SL0 0BF,F,Y,L,Meadow Court,22,Evreham Road,,Iver
+2023-12-08,420000,SL0 0RX,T,N,F,11,,Glaisyer Way,,Iver
+2023-12-07,420000,SL0 9RB,T,N,F,91,,Leas Drive,,Iver
+2023-12-07,485000,SL0 9NX,T,N,F,100,,Dutton Way,,Iver
+2023-12-06,570000,SL0 0JS,S,N,F,26,,Lossie Drive,,Iver
+2023-12-01,355000,SL0 9PW,F,N,L,Saxon Court,4,High Street,,Iver
+2023-11-24,421500,SL0 0NA,S,N,F,1,,Bond Close,,Iver
+2023-11-23,475000,SL0 9NB,S,N,F,31,,Colne Orchard,,Iver
+2023-11-17,820000,SL0 9ET,S,N,F,12,,Syke Ings,,Iver
+2023-11-10,660000,SL0 0HP,S,N,F,33,,Coopers Row,,Iver
+2023-11-10,650000,SL0 0BN,D,N,F,Norack,,Bangors Road North,,Iver
+2023-11-10,400000,SL0 0BF,F,Y,L,Meadow Court,15,Evreham Road,,Iver
+2023-11-09,475000,SL0 0BF,F,Y,L,Meadow Court,6,Evreham Road,,Iver
+2023-11-08,490000,SL0 9NX,T,N,F,46,,Dutton Way,,Iver
+2023-11-08,560000,SL0 0RQ,S,N,F,220,,The Parkway,,Iver
+2023-11-03,867000,SL0 0QE,S,N,F,148,,Ashford Road,,Iver
+2023-11-01,615000,SL0 9AH,S,N,F,95,,Thorney Mill Road,,Iver
+2023-11-01,450000,SL0 0PT,T,N,F,1,,Copse Wood,,Iver
+2023-10-31,490000,SL0 0BF,F,Y,L,Meadow Court,3,Evreham Road,,Iver
+2023-10-26,490000,SL0 9QR,D,N,F,30,,Langley Park Road,,Iver
+2023-10-20,717500,SL0 9ET,D,N,F,18,,Syke Ings,,Iver
+2023-10-18,900000,SL0 9DU,S,N,F,5,,The Ridings,,Iver
+2023-10-18,1050000,SL0 9DJ,D,N,F,12A,,North Park,,Iver
+2023-10-18,1050000,SL0 9DJ,D,N,F,12,,North Park,,Iver
+2023-10-17,350000,SL0 9DG,F,N,L,"Grand Approach, 2",Flat 3,Bathurst Walk,,Iver
+2023-09-29,515000,SL0 9NJ,S,N,F,44,,Chequers Orchard,,Iver
+2023-09-29,245000,SL0 9BZ,F,N,L,"Universal House, 20 - 22",9,High Street,,Iver
+2023-09-26,705000,SL0 9JX,D,N,F,3,,Delaford Close,,Iver
+2023-09-22,810000,SL0 9BQ,S,N,F,8,,Apsley Walk,,Iver
+2023-09-22,327900,SL0 9BP,D,N,F,65,,Wellesley Avenue,,Iver
+2023-09-21,515000,SL0 9RB,F,N,F,15A,,Leas Drive,,Iver
+2023-09-19,842500,SL0 0QF,S,N,F,102,,Ashford Road,,Iver
+2023-09-18,260000,SL0 9DU,S,N,F,12,,The Ridings,,Iver
+2023-09-15,224000,SL0 0PZ,S,N,F,16,,Heatherden Green,,Iver
+2023-09-04,845000,SL0 0DY,D,N,F,78A,,Slough Road,,Iver
+2023-08-31,730000,SL0 0QH,S,N,F,108,,Pinewood Green,,Iver
+2023-08-30,1505000,SL0 9DY,S,N,F,35,,Old Slade Lane,,Iver
+2023-08-24,750000,SL0 0RQ,S,N,F,213,,The Parkway,,Iver
+2023-08-23,850000,SL0 0LQ,D,N,F,12,,Wood Lane,Iver Heath,Iver
+2023-08-21,500000,SL0 0JS,S,N,F,24,,Lossie Drive,,Iver
+2023-08-17,825000,SL0 0DY,D,N,F,76A,,Slough Road,,Iver
+2023-08-14,625000,SL0 9EH,D,N,F,6,,Syke Cluan,,Iver
+2023-08-11,440000,SL0 0DW,S,N,F,61,,Slough Road,,Iver
+2023-08-11,755000,SL0 0DU,D,N,F,37,,Post Meadow,,Iver
+2023-08-07,622000,SL0 9RB,T,N,F,99,,Leas Drive,,Iver
+2023-07-31,1435000,SL0 0QX,D,N,F,26,,Cedar Close,,Iver
+2023-07-31,300000,SL0 0PU,F,N,L,27,,Thornbridge Road,,Iver
+2023-07-31,718000,SL0 0DT,S,N,F,52,,Slough Road,,Iver
+2023-07-28,322000,SL0 9AZ,S,N,L,26,,Bathurst Walk,,Iver
+2023-07-28,640000,SL0 0QN,S,N,F,87,,Pinewood Green,,Iver
+2023-07-28,430000,SL0 0DB,T,N,F,12,,St Margarets Close,,Iver
+2023-07-25,512512,SL0 9NH,D,N,F,10,,Chequers Orchard,,Iver
+2023-07-21,550000,SL0 0DQ,S,N,F,3,,Swallow Fields,,Iver
+2023-07-19,185000,SL0 0QQ,F,N,L,"Heatherden House, 138",Flat 10,Pinewood Green,,Iver
+2023-07-14,320000,SL0 9BZ,F,N,L,"Universal House, 20 - 22",10,High Street,,Iver
+2023-07-05,900000,SL0 9EU,D,N,F,46,,Syke Ings,,Iver
+2023-06-30,470000,SL0 9RL,S,N,F,8,,Iverdale Close,,Iver
+2023-06-30,300000,SL0 0RT,F,N,L,26,,St Davids Close,,Iver
+2023-06-30,360000,SL0 0BW,F,N,L,22,,Anslow Gardens,,Iver
+2023-06-28,290000,SL0 0SF,D,N,F,8,,Rowan Gardens,,Iver
+2023-06-14,377500,SL0 9DG,F,N,L,"Grand Approach, 2",Flat 9,Bathurst Walk,,Iver
+2023-06-12,510000,SL0 9LZ,T,N,F,42,,Barnes Way,,Iver
+2023-06-09,250000,SL0 9BJ,F,N,L,Buckfield Court,6,Bathurst Walk,,Iver
+2023-05-31,555000,SL0 9QL,S,N,F,23,,Langley Park Road,,Iver
+2023-05-22,700000,SL0 0DH,D,N,F,91,,Slough Road,,Iver
+2023-05-19,750000,SL0 9JU,D,N,F,3,,Thorney Lane North,,Iver
+2023-05-11,460000,SL0 9QF,S,N,F,9,,Stonecroft Avenue,,Iver
+2023-05-02,310000,SL0 0HF,F,N,L,14,,Swallow Street,,Iver
+2023-04-14,450000,SL0 9NJ,S,N,F,41A,,Chequers Orchard,,Iver
+2023-04-12,537000,SL0 0HP,S,N,F,9,,Coopers Row,,Iver
+2023-04-06,297000,SL0 9AT,F,N,L,Wellesley Court,14,Bathurst Walk,,Iver
+2023-04-04,620000,SL0 0DN,S,N,F,15,,Slough Road,,Iver
+2023-03-28,385000,SL0 9RF,T,N,F,132,,Mansion Lane,,Iver
+2023-03-24,436000,SL0 9NX,T,N,F,50,,Dutton Way,,Iver
+2023-03-24,335000,SL0 9NA,F,N,L,5,,Colne Orchard,,Iver
+2023-03-24,590000,SL0 0AL,S,N,F,34,,Barnfield,,Iver
+2023-03-14,280000,SL0 0DL,F,N,L,33,,Keensacre,,Iver
+2023-03-10,447000,SL0 9RD,T,N,F,8,,Leas Drive,,Iver
+2023-03-10,1000000,SL0 9EL,D,N,F,27,,Syke Cluan,,Iver
+2023-03-10,610000,SL0 0HS,S,N,F,180,,Swallow Street,,Iver
+2023-03-07,650000,SL0 0ET,D,N,F,77,,Swallow Street,,Iver
+2023-03-03,750000,SL0 0QP,D,N,F,32,,Pinewood Green,,Iver
+2023-02-22,925000,SL0 9AF,D,N,F,12,,Somerset Way,,Iver
+2023-02-21,342000,SL0 9NX,T,N,F,46,,Dutton Way,,Iver
+2023-02-20,535000,SL0 9PS,S,N,F,Kimberley,,Cecil Road,,Iver
+2023-02-17,317000,SL0 0RS,S,N,L,23,,St Davids Close,,Iver
+2023-02-15,1132000,SL0 0QY,D,N,F,3,,Firs Close,,Iver
+2023-02-15,1220000,SL0 0QX,D,N,F,17,,Cedar Close,,Iver
+2023-02-09,315000,SL0 9BZ,F,N,L,"Universal House, 20 - 22",13,High Street,,Iver
+2023-02-08,2220000,SL0 0EW,D,N,F,Norwood Grange,,Norwood Lane,,Iver
+2023-02-03,224000,SL0 0PZ,S,N,F,16,,Heatherden Green,,Iver
+2023-02-02,580000,SL0 9RP,S,N,F,147,,Leas Drive,,Iver
+2023-02-02,1170000,SL0 0JU,D,N,F,Thaxted,,Holly Bush Lane,,Iver
+2023-01-27,1025000,SL0 9BA,D,N,F,Evre House,,Richings Place,,Iver
+2023-01-13,550000,SL0 9RD,S,N,F,32,,Leas Drive,,Iver
+2023-01-13,675000,SL0 0RQ,S,N,F,209,,The Parkway,,Iver
+2023-01-10,620000,SL0 0QH,S,N,F,62,,Pinewood Green,,Iver
+2023-01-09,293500,SL0 9BZ,F,N,L,"Universal House, 20 - 22",7,High Street,,Iver
+2023-01-06,1025000,SL0 9BP,D,N,F,35,,Wellesley Avenue,,Iver
+2022-12-22,497000,SL0 9LZ,T,N,F,24,,Barnes Way,,Iver
+2022-12-20,660000,SL0 9AD,S,N,F,47,,Thorney Lane South,,Iver
+2022-12-20,700000,SL0 0QH,S,N,F,66,,Pinewood Green,,Iver
+2022-12-16,1352000,SL0 0BS,D,N,F,7,,Potters Cross,,Iver
+2022-12-16,1555000,SL0 0AY,D,N,F,Marlebank,,Bangors Road South,,Iver
+2022-12-14,442000,SL0 0RX,T,N,F,5,,Glaisyer Way,,Iver
+2022-12-12,365000,SL0 9NP,T,N,F,6 Old Bakery Court,,High Street,,Iver
+2022-12-06,430000,SL0 0HX,T,N,F,2,,Martindale,,Iver
+2022-12-05,338000,SL0 0QQ,F,N,L,152,,Pinewood Green,,Iver
+2022-12-05,555000,SL0 0QN,S,N,F,89,,Pinewood Green,,Iver
+2022-11-30,400000,SL0 9RD,T,N,F,46,,Leas Drive,,Iver
+2022-11-29,665000,SL0 0HY,S,N,F,34,,Martindale,,Iver
+2022-11-23,550000,SL0 0HH,D,N,F,12,,Hardings Row,,Iver
+2022-11-22,420000,SL0 0HX,T,N,F,3,,Martindale,,Iver
+2022-11-21,542500,SL0 9QF,S,N,F,5,,Stonecroft Avenue,,Iver
+2022-11-18,355000,SL0 0DJ,T,N,L,8,,Keensacre,,Iver
+2022-11-11,1762500,SL0 9EU,D,N,F,78,,Syke Ings,,Iver
+2022-11-10,392000,SL0 0DJ,T,N,L,4,,Keensacre,,Iver
+2022-11-04,480000,SL0 9RP,T,N,F,149,,Leas Drive,,Iver
+2022-11-04,650000,SL0 0RD,D,N,F,Alpha,,Church Road,,Iver
+2022-11-04,1950000,SL0 0LS,D,N,F,Campden Cottage,,Billet Lane,,Iver
+2022-11-04,455000,SL0 0HG,S,N,F,36,,Swallow Street,,Iver
+2022-11-04,390000,SL0 0DP,T,N,F,3,,St Margarets Gate,,Iver
+2022-11-03,740000,SL0 9EF,S,N,F,75,,Bathurst Walk,,Iver
+2022-11-02,710000,SL0 9PN,D,N,F,93,,High Street,,Iver
+2022-11-01,652500,SL0 0RH,S,N,F,236,,The Parkway,,Iver
+2022-10-31,580000,SL0 9JY,T,N,F,10,,Thorney Lane North,,Iver
+2022-10-28,570000,SL0 0AW,F,N,L,Iver Lodge,1,Bangors Road South,,Iver
+2022-10-24,851000,SL0 9EJ,D,N,F,48,,Syke Cluan,,Iver
+2022-10-21,1000000,SL0 0LJ,D,N,F,18,,Wood Lane Close,,Iver
+2022-10-14,530000,SL0 9BX,T,N,F,4,,Foxcroft,,Iver
+2022-10-14,463925,SL0 0HS,S,N,F,224,,Swallow Street,,Iver
+2022-10-12,900000,SL0 9DA,D,N,F,37,,Richings Way,,Iver
+2022-10-12,600000,SL0 0BG,S,N,F,Rochaven,,Bangors Road North,,Iver
+2022-10-10,790000,SL0 9BN,D,N,F,38,,Wellesley Avenue,,Iver
+2022-10-10,827500,SL0 0QP,D,N,F,22,,Pinewood Green,,Iver
+2022-10-10,615000,SL0 0AF,S,N,F,14,,Colborne Close,,Iver
+2022-10-07,880000,SL0 9QZ,S,N,F,Yeomans,,Love Lane,,Iver
+2022-10-06,1240000,SL0 9AW,D,N,F,8,,Northumberland Walk,,Iver
+2022-10-03,577000,SL0 9NH,S,N,F,34,,Chequers Orchard,,Iver
+2022-09-30,506000,SL0 9NJ,S,N,F,38,,Chequers Orchard,,Iver
+2022-09-30,850000,SL0 0HU,S,N,F,149,,Swallow Street,,Iver
+2022-09-30,610000,SL0 0DG,D,N,F,5,,Linden Close,,Iver
+2022-09-29,470000,SL0 0BW,T,N,F,5,,Anslow Gardens,,Iver
+2022-09-28,425000,SL0 9RN,T,N,F,34,,Mansion Lane,,Iver
+2022-09-28,1250000,SL0 9AW,D,N,F,9,,Northumberland Walk,,Iver
+2022-09-28,1210000,SL0 9AW,D,N,F,10,,Northumberland Walk,,Iver
+2022-09-28,700000,SL0 0RW,D,N,F,Spreytonia,,Church Road,,Iver
+2022-09-22,299950,SL0 0RS,F,N,L,83,,St Davids Close,,Iver
+2022-09-16,350000,SL0 9AZ,F,N,L,26A,,Bathurst Walk,,Iver
+2022-09-15,300000,SL0 9AT,F,N,L,Wellesley Court,2,Bathurst Walk,,Iver
+2022-09-14,495000,SL0 9QF,S,N,F,31,,Stonecroft Avenue,,Iver
+2022-09-13,720000,SL0 0RQ,S,N,F,189,,The Parkway,,Iver
+2022-09-13,377000,SL0 0RP,F,N,L,Ormonde,3,Church Road,,Iver
+2022-09-09,500000,SL0 9RP,T,N,F,107,,Leas Drive,,Iver
+2022-09-08,727000,SL0 9JY,S,N,F,20,,Thorney Lane North,,Iver
+2022-09-07,720000,SL0 9DB,D,N,F,65,,Richings Way,,Iver
+2022-09-02,475000,SL0 9RN,T,N,F,46,,Mansion Lane,,Iver
+2022-09-02,570000,SL0 9RJ,D,N,F,1A,,Iverdale Close,,Iver
+2022-09-02,545000,SL0 9PS,S,N,F,Fernlea,,Cecil Road,,Iver
+2022-09-02,272500,SL0 9DG,F,N,L,"Grand Approach, 2",Flat 2,Bathurst Walk,,Iver
+2022-09-02,500000,SL0 0RX,S,N,F,16,,Glaisyer Way,,Iver
+2022-08-26,690000,SL0 9AD,S,N,F,45,,Thorney Lane South,,Iver
+2022-08-24,678000,SL0 0QL,S,N,F,41,,Pinewood Green,,Iver
+2022-08-22,680000,SL0 0RL,T,N,F,310,,The Parkway,,Iver
+2022-08-19,685000,SL0 0RD,D,N,F,The Den,,Church Road,,Iver
+2022-08-12,585000,SL0 0HS,S,N,F,214,,Swallow Street,,Iver
+2022-08-11,475000,SL0 0RX,T,N,F,40,,Glaisyer Way,,Iver
+2022-08-09,650000,SL0 0QE,S,N,F,164,,Ashford Road,,Iver
+2022-08-08,340000,SL0 9PJ,F,N,L,80A,,High Street,,Iver
+2022-08-08,1260000,SL0 0LH,D,N,F,23,,Wood Lane Close,,Iver
+2022-08-08,522000,SL0 0ET,S,N,F,93,,Swallow Street,,Iver
+2022-08-05,607500,SL0 9QS,D,N,F,70A,,Langley Park Road,,Iver
+2022-08-05,408000,SL0 9DG,F,N,L,"Grand Approach, 2",Flat 7,Bathurst Walk,,Iver
+2022-07-29,290000,SL0 9NQ,F,N,L,Daws Court,1,High Street,,Iver
+2022-07-29,438000,SL0 0AJ,T,N,F,9,,Bangors Close,,Iver
+2022-07-26,1500000,SL0 0LZ,D,N,F,1,,Honeysuckle Close,,Iver
+2022-07-21,350000,SL0 0QQ,F,N,L,148,,Pinewood Green,,Iver
+2022-07-21,600000,SL0 0QH,S,N,F,70,,Pinewood Green,,Iver
+2022-07-14,450000,SL0 0DB,S,N,F,14,,St Margarets Close,,Iver
+2022-07-11,1230000,SL0 0HR,D,N,F,170,,Swallow Street,,Iver
+2022-07-11,525000,SL0 0DQ,S,N,F,13,,Swallow Fields,,Iver
+2022-07-08,375000,SL0 9QX,S,N,F,Love Green Cottages,1A,Love Lane,,Iver
+2022-07-08,800000,SL0 0LN,D,N,F,Sind-Ornato,,Uxbridge Road,,Iver
+2022-07-08,630000,SL0 0JR,S,N,F,25,,Lossie Drive,,Iver
+2022-07-08,885000,SL0 0DW,F,N,F,45,,Slough Road,,Iver
+2022-07-01,655000,SL0 0BW,S,N,F,1,,Anslow Gardens,,Iver
+2022-07-01,315000,SL0 0AG,F,N,L,The Old Orchard,12,Bangors Road South,,Iver
+2022-06-30,320000,SL0 0RS,F,N,L,61,,St Davids Close,,Iver
+2022-06-30,320000,SL0 0RS,F,N,L,61,,St Davids Close,,Iver
+2022-06-30,785000,SL0 0QD,D,N,F,22,,Thornbridge Road,,Iver
+2022-06-29,460000,SL0 9QF,S,N,F,36,,Stonecroft Avenue,,Iver
+2022-06-29,636000,SL0 9BG,S,N,F,11,,Norfolk Close,,Iver
+2022-06-29,4000000,SL0 0PA,D,N,F,The Oaks,,Seven Hills Road,,Iver
+2022-06-28,505000,SL0 9QT,S,N,F,30,,Love Lane,,Iver
+2022-06-28,245000,SL0 0ER,S,N,F,"Swallowfield Freelands, 47A",,Swallow Street,,Iver
+2022-06-28,245000,SL0 0ER,S,N,F,47,,Swallow Street,,Iver
+2022-06-27,280000,SL0 0DL,F,N,L,12,,Keensacre,,Iver
+2022-06-17,615000,SL0 0RD,D,N,F,Betzioloh,,Church Road,,Iver
+2022-06-15,730000,SL0 9LF,S,N,F,45,,Iver Lane,,Iver
+2022-06-15,731000,SL0 0BW,S,N,F,17,,Anslow Gardens,,Iver
+2022-06-08,475000,SL0 0HQ,D,N,F,62,,Swallow Street,,Iver
+2022-06-08,320000,SL0 0DH,D,N,F,91A,,Slough Road,,Iver
+2022-05-30,600000,SL0 9QG,D,N,F,Sedgemere,,Stonecroft Avenue,,Iver
+2022-05-27,560000,SL0 0RB,S,N,F,4,,Rostrevor Gardens,,Iver
+2022-05-27,560000,SL0 0JJ,T,N,F,Stable Barn,,Hollow Hill Lane,,Iver
+2022-05-24,415000,SL0 0RY,T,N,F,Treborna,,Bangors Road North,,Iver
+2022-05-20,400500,SL0 9RF,T,N,F,128,,Mansion Lane,,Iver
+2022-05-20,1391000,SL0 0BB,D,N,F,Oaklands,,Bangors Road South,,Iver
+2022-05-18,430000,SL0 9RP,S,N,F,131,,Leas Drive,,Iver
+2022-05-06,150000,SL0 9NG,F,N,L,32,,High Street,,Iver
+2022-05-06,320000,SL0 0RT,F,N,L,30,,St Davids Close,,Iver
+2022-05-03,1070000,SL0 9AG,D,N,F,9,,Somerset Way,,Iver
+2022-04-29,425000,SL0 9QB,T,N,F,147,,High Street,,Iver
+2022-04-29,1573000,SL0 9DP,D,N,F,Pine Lodge,,Main Drive,,Iver
+2022-04-28,615000,SL0 0DG,S,N,F,6,,Linden Close,,Iver
+2022-04-22,590000,SL0 9BQ,S,N,F,2,,Apsley Walk,,Iver
+2022-04-22,650000,SL0 0DW,D,N,F,57,,Slough Road,,Iver
+2022-04-21,540000,SL0 9QR,S,N,F,52,,Langley Park Road,,Iver
+2022-04-21,935000,SL0 9ES,D,N,F,59,,Syke Ings,,Iver
+2022-04-14,460000,SL0 9RP,T,N,F,105,,Leas Drive,,Iver
+2022-04-14,797500,SL0 9HY,D,N,F,2A,,Holmsdale Close,,Iver
+2022-04-14,265000,SL0 0BZ,F,N,L,16,,Heathway,,Iver
+2022-04-11,385000,SL0 9RB,T,N,F,97,,Leas Drive,,Iver
+2022-04-08,675000,SL0 9QT,D,N,F,Orchard View,,Love Lane,,Iver
+2022-04-08,478500,SL0 9NN,S,N,F,51,,High Street,,Iver
+2022-04-08,470000,SL0 9JT,T,N,F,32,,Victoria Crescent,,Iver
+2022-04-08,416000,SL0 0SB,T,N,F,104,,Trewarden Avenue,,Iver
+2022-04-08,270000,SL0 0RT,F,N,L,36,,St Davids Close,,Iver
+2022-04-05,550000,SL0 0BG,S,N,F,Hollybush,,Bangors Road North,,Iver
+2022-04-04,680000,SL0 9QZ,S,N,F,The Barn,,Love Lane,,Iver
+2022-04-04,155000,SL0 0RT,F,N,L,38,,St Davids Close,,Iver
+2022-04-01,960000,SL0 0JR,D,N,F,11,,Lossie Drive,,Iver
+2022-03-31,630000,SL0 0QN,S,N,F,77,,Pinewood Green,,Iver
+2022-03-30,451000,SL0 9RB,S,N,F,49,,Leas Drive,,Iver
+2022-03-29,550000,SL0 0BG,S,N,F,Trent House,,Bangors Road North,,Iver
+2022-03-28,497000,SL0 0RB,S,N,F,16,,Rostrevor Gardens,,Iver
+2022-03-25,360000,SL0 9DZ,D,N,F,3,,Woodcock Way,,Iver
+2022-03-25,652500,SL0 0RU,T,N,F,1,,Warren Field,,Iver
+2022-03-25,767500,SL0 0HJ,D,N,F,21,,Hardings Row,,Iver
+2022-03-25,395000,SL0 0DR,S,N,F,8,,Slough Road,,Iver
+2022-03-18,700000,SL0 0HL,S,N,F,3,,Hardings Close,,Iver
+2022-03-18,557000,SL0 0DB,S,N,F,18,,St Margarets Close,,Iver
+2022-03-14,500000,SL0 9DG,F,N,L,"Grand Approach, 2",Flat 5,Bathurst Walk,,Iver
+2022-03-11,905000,SL0 9EP,S,N,F,45,,Syke Cluan,,Iver
+2022-03-03,915000,SL0 9BP,D,N,F,47A,,Wellesley Avenue,,Iver
+2022-02-28,930000,SL0 9EU,D,N,F,50,,Syke Ings,,Iver
+2022-02-25,865000,SL0 9DF,D,N,F,69,,Richings Way,,Iver
+2022-02-18,625000,SL0 9DZ,T,N,F,9,,Woodcock Way,,Iver
+2022-02-18,555000,SL0 0DQ,S,N,F,2,,Swallow Fields,,Iver
+2022-02-18,356980,SL0 0AE,T,N,F,Croft Cottages,4,Bangors Road South,,Iver
+2022-02-14,435000,SL0 0ES,S,N,F,57,,Swallow Street,,Iver
+2022-02-07,750600,SL0 9QT,D,N,F,Vine Cottage,,Love Lane,,Iver
+2022-02-04,305000,SL0 9AT,F,N,L,Wellesley Court,15,Bathurst Walk,,Iver
+2022-02-02,1100000,SL0 0EE,D,N,F,Longbridge,,Cherry Tree Lane,,Iver
+2022-01-28,500000,SL0 0RJ,S,N,F,274,,The Parkway,,Iver
+2022-01-28,465000,SL0 0DR,S,N,F,6,,Slough Road,,Iver
+2022-01-28,525000,SL0 0BW,S,N,F,16,,Anslow Gardens,,Iver
+2022-01-21,475000,SL0 9QT,S,N,F,St Mawes,,Love Lane,,Iver
+2022-01-21,555000,SL0 0DG,S,N,F,7,,Linden Close,,Iver
+2022-01-17,440000,SL0 9RD,T,N,F,50,,Leas Drive,,Iver
+2022-01-17,801500,SL0 0QE,S,N,F,147,,Ashford Road,,Iver
+2022-01-17,527000,SL0 0BZ,S,N,F,52,,Heathway,,Iver
+2022-01-13,500000,SL0 9LG,S,N,F,Colne Cottage,,Palmers Moor Lane,,Iver
+2022-01-11,350000,SL0 9NJ,D,N,F,58,,Chequers Orchard,,Iver
+2022-01-05,573500,SL0 9QS,S,N,F,70B,,Langley Park Road,,Iver
+2021-12-22,415000,SL0 9DZ,F,N,L,Evreham Lodge,Flat 2,Woodcock Way,,Iver
+2021-12-17,410000,SL0 9RD,T,N,F,48,,Leas Drive,,Iver
+2021-12-17,292500,SL0 9RB,T,N,F,3A,,Leas Drive,,Iver
+2021-12-17,690000,SL0 9DZ,S,N,F,4,,Woodcock Way,,Iver
+2021-12-17,300000,SL0 9AU,F,N,L,5A,,Wellesley Avenue,,Iver
+2021-12-17,415000,SL0 0DA,S,N,F,21,,St Margarets Close,,Iver
+2021-12-16,940000,SL0 9PJ,S,N,F,104,,High Street,,Iver
+2021-12-16,700000,SL0 9DU,S,N,F,1,,The Ridings,,Iver
+2021-12-15,365000,SL0 9NZ,T,N,F,77,,Dutton Way,,Iver
+2021-12-15,963000,SL0 0BS,D,N,F,9,,Potters Cross,,Iver
+2021-12-14,515000,SL0 9DZ,T,N,F,8,,Woodcock Way,,Iver
+2021-12-13,685000,SL0 9DZ,S,N,F,5,,Woodcock Way,,Iver
+2021-12-10,752000,SL0 9AS,S,N,F,9,,Bathurst Walk,,Iver
+2021-12-09,885000,SL0 9QS,D,N,F,Ponclose,,Langley Park Road,,Iver
+2021-12-09,421100,SL0 0RU,T,N,F,19,,Warren Field,,Iver
+2021-12-08,1030000,SL0 0QX,D,N,F,10,,Cedar Close,,Iver
+2021-12-07,515000,SL0 9DZ,T,N,F,7,,Woodcock Way,,Iver
+2021-12-06,362500,SL0 0SB,F,N,F,4,,Trewarden Avenue,,Iver
+2021-12-03,625000,SL0 9DZ,T,N,F,6,,Woodcock Way,,Iver
+2021-12-02,635000,SL0 0RW,S,N,F,Conley,,Church Road,,Iver
+2021-12-02,600000,SL0 0QF,D,N,F,118,,Ashford Road,,Iver
+2021-11-26,430000,SL0 9PJ,S,N,F,84,,High Street,,Iver
+2021-11-26,185000,SL0 0QQ,F,N,L,"Heatherden House, 136",Flat 9,Pinewood Green,,Iver
+2021-11-22,425000,SL0 9RP,S,N,F,143,,Leas Drive,,Iver
+2021-11-12,303000,SL0 0RP,F,N,L,Ormonde,4,Church Road,,Iver
+2021-11-11,433000,SL0 0HU,S,N,F,129,,Swallow Street,,Iver
+2021-11-05,391000,SL0 9PJ,T,N,F,96,,High Street,,Iver
+2021-10-29,1150000,SL0 9BP,D,N,F,63,,Wellesley Avenue,,Iver
+2021-10-29,299000,SL0 0RR,F,N,L,Inglewood,4,Church Road,,Iver
+2021-10-28,550000,SL0 0QE,S,N,F,143,,Ashford Road,,Iver
+2021-10-28,470000,SL0 0EF,S,N,F,St Margarets Court,2,St Margarets Close,,Iver
+2021-10-27,440000,SL0 0RU,T,N,F,35,,Warren Field,,Iver
+2021-10-22,875000,SL0 9BP,D,N,F,47A,,Wellesley Avenue,,Iver
+2021-10-19,780000,SL0 0QL,D,N,F,1,,Pinewood Green,,Iver
+2021-10-19,920000,SL0 0LJ,D,N,F,24,,Wood Lane Close,,Iver
+2021-10-18,500000,SL0 9NH,S,N,F,14,,Chequers Orchard,,Iver
+2021-10-15,437600,SL0 9DZ,F,N,L,Evreham Lodge,Flat 1,Woodcock Way,,Iver
+2021-10-15,1180000,SL0 0LH,D,N,F,13,,Wood Lane Close,,Iver
+2021-09-30,495000,SL0 9NJ,S,N,F,42,,Chequers Orchard,,Iver
+2021-09-30,650000,SL0 0QE,S,N,F,166,,Ashford Road,,Iver
+2021-09-30,840000,SL0 0JR,D,N,F,13,,Lossie Drive,,Iver
+2021-09-30,346000,SL0 0DL,T,N,L,37,,Keensacre,,Iver
+2021-09-29,550000,SL0 0RB,S,N,F,11,,Rostrevor Gardens,,Iver
+2021-09-28,450000,SL0 9NH,S,N,F,29,,Chequers Orchard,,Iver
+2021-09-28,515000,SL0 0HL,S,N,F,4,,Hardings Close,,Iver
+2021-09-27,103500,SL0 9NQ,F,N,L,Daws Court,7,High Street,,Iver
+2021-09-24,745000,SL0 9EF,D,N,F,87,,Bathurst Walk,,Iver
+2021-09-24,1100000,SL0 9AG,D,N,F,1,,Somerset Way,,Iver
+2021-09-21,450000,SL0 9RB,T,N,F,57,,Leas Drive,,Iver
+2021-09-21,230000,SL0 9DQ,F,Y,L,"Elizabeth Court, 19 - 21",1,Bathurst Walk,,Iver
+2021-09-20,307000,SL0 0HF,F,N,L,2,,Swallow Street,,Iver
+2021-09-16,993000,SL0 9DA,D,N,F,25,,Richings Way,,Iver
+2021-09-10,497500,SL0 0RU,T,N,F,37,,Warren Field,,Iver
+2021-09-10,535000,SL0 0HS,S,N,F,184,,Swallow Street,,Iver
+2021-09-06,272000,SL0 9NE,F,N,L,Iver Court,Flat 10,High Street,,Iver
+2021-09-03,740000,SL0 9BQ,S,N,F,7,,Apsley Walk,,Iver
+2021-09-03,275000,SL0 0DL,F,N,L,12,,Keensacre,,Iver
+2021-09-02,356250,SL0 0DJ,D,N,F,2,,Keensacre,,Iver
+2021-08-28,690000,SL0 0QE,S,N,L,144,,Ashford Road,,Iver
+2021-08-27,468000,SL0 0HQ,S,N,F,84,,Swallow Street,,Iver
+2021-08-26,1045000,SL0 9AW,D,N,F,7,,Northumberland Walk,,Iver
+2021-08-20,302000,SL0 0RS,F,N,L,79,,St Davids Close,,Iver
+2021-08-20,1528500,SL0 0EW,D,N,F,Tanglin House,,Norwood Lane,,Iver
+2021-08-20,430000,SL0 0BZ,S,N,F,36,,Heathway,,Iver
+2021-08-13,315000,SL0 0DL,F,N,L,17,,Keensacre,,Iver
+2021-08-11,945000,SL0 9ER,D,N,F,11,,Syke Ings,,Iver
+2021-08-02,665000,SL0 0RQ,S,N,F,204,,The Parkway,,Iver
+2021-07-30,265000,SL0 0RT,S,N,L,4,,St Davids Close,,Iver
+2021-07-30,515000,SL0 0ET,S,N,F,89,,Swallow Street,,Iver
+2021-07-22,1300000,SL0 0AW,D,N,F,Iver Lodge,7,Bangors Road South,,Iver
+2021-07-21,309500,SL0 0AG,F,N,L,The Old Orchard,6,Bangors Road South,,Iver
+2021-07-20,130000,SL0 0RE,F,N,L,Aysgarth Place,Flat 14,Church Road,,Iver
+2021-07-16,300000,SL0 9NH,S,N,F,29,,Chequers Orchard,,Iver
+2021-06-30,268000,SL0 9NQ,F,N,L,Daws Court,3,High Street,,Iver
+2021-06-30,435950,SL0 0RX,T,N,F,34,,Glaisyer Way,,Iver
+2021-06-30,1080000,SL0 0LH,D,N,F,25,,Wood Lane Close,,Iver
+2021-06-30,530000,SL0 0HP,S,N,F,31,,Coopers Row,,Iver
+2021-06-30,800000,SL0 0DU,D,N,F,39,,Post Meadow,,Iver
+2021-06-30,1150000,SL0 0AY,D,N,F,Callingwood Cottage,,Bangors Road South,,Iver
+2021-06-29,500000,SL0 9QP,S,N,F,9,,Leacroft Road,,Iver
+2021-06-29,219000,SL0 9NQ,F,N,L,Daws Court,14,High Street,,Iver
+2021-06-29,535000,SL0 9NH,S,N,F,21,,Chequers Orchard,,Iver
+2021-06-29,390000,SL0 9LZ,T,N,F,36,,Barnes Way,,Iver
+2021-06-29,1530000,SL0 9JZ,D,N,F,Needham Lacey,,Swan Road,,Iver
+2021-06-29,798000,SL0 9DS,D,N,F,43,,The Poynings,,Iver
+2021-06-29,269995,SL0 9DQ,F,Y,L,"Elizabeth Court, 19 - 21",2,Bathurst Walk,,Iver
+2021-06-29,715000,SL0 0RG,S,N,F,185,,The Parkway,,Iver
+2021-06-29,525000,SL0 0QN,S,N,F,95,,Pinewood Green,,Iver
+2021-06-29,437000,SL0 0HS,S,N,F,204,,Swallow Street,,Iver
+2021-06-28,420000,SL0 9RN,T,N,F,18,,Mansion Lane,,Iver
+2021-06-28,450000,SL0 9QP,S,N,F,7,,Leacroft Road,,Iver
+2021-06-28,375000,SL0 9NX,T,N,F,84,,Dutton Way,,Iver
+2021-06-28,398000,SL0 9NH,S,N,F,28,,Chequers Orchard,,Iver
+2021-06-28,485000,SL0 9NA,S,N,F,18,,Colne Orchard,,Iver
+2021-06-28,1200000,SL0 9EH,D,N,F,36,,Syke Cluan,,Iver
+2021-06-28,542499,SL0 9AH,S,N,F,91,,Thorney Mill Road,,Iver
+2021-06-28,572500,SL0 0RP,S,N,F,Ormonde,1,Church Road,,Iver
+2021-06-28,700000,SL0 0QH,S,N,F,72,,Pinewood Green,,Iver
+2021-06-28,780000,SL0 0DU,D,N,F,34,,Post Meadow,,Iver
+2021-06-25,490000,SL0 9QF,S,N,F,4,,Stonecroft Avenue,,Iver
+2021-06-25,470000,SL0 9HY,S,N,F,2,,Holmsdale Close,,Iver
+2021-06-25,425000,SL0 0HG,S,N,F,48,,Swallow Street,,Iver
+2021-06-25,715000,SL0 0DN,D,N,F,1,,Slough Road,,Iver
+2021-06-25,255000,SL0 0BY,S,N,L,12,,Laurels Road,,Iver
+2021-06-23,630000,SL0 9JU,D,N,F,5,,Thorney Lane North,,Iver
+2021-06-23,695000,SL0 9AG,D,N,F,15,,Somerset Way,,Iver
+2021-06-22,885000,SL0 9DS,D,N,F,45,,The Poynings,,Iver
+2021-06-21,700000,SL0 0QF,D,N,F,89,,Ashford Road,,Iver
+2021-06-18,470000,SL0 9NA,S,N,F,13,,Colne Orchard,,Iver
+2021-06-16,478000,SL0 9RE,D,N,F,Mayerling,,Langley Park Road,,Iver
+2021-06-15,725000,SL0 0RL,S,N,F,334,,The Parkway,,Iver
+2021-06-11,350000,SL0 9PS,S,N,F,Devonia,,Cecil Road,,Iver
+2021-06-11,416000,SL0 0AE,T,N,F,2,,Croft Cottages,,Iver
+2021-06-10,712500,SL0 9PN,D,N,F,97C,,High Street,,Iver
+2021-06-10,438000,SL0 9NT,S,N,F,63,,Grange Way,,Iver
+2021-06-08,410500,SL0 9QB,T,N,F,173,,High Street,,Iver
+2021-06-07,560000,SL0 0RG,S,N,F,182,,The Parkway,,Iver
+2021-06-04,550000,SL0 0RB,S,N,F,8,,Rostrevor Gardens,,Iver
+2021-06-04,298000,SL0 0HF,F,N,L,18,,Swallow Street,,Iver
+2021-05-28,415000,SL0 9QT,S,N,F,Highbank,,Love Lane,,Iver
+2021-05-28,595000,SL0 9AH,S,N,F,95,,Thorney Mill Road,,Iver
+2021-05-28,545000,SL0 0DG,S,N,F,4,,Linden Close,,Iver
+2021-05-28,390000,SL0 0AJ,T,N,F,21,,Bangors Close,,Iver
+2021-05-27,800000,SL0 0JQ,D,N,F,Lossie Cottage,,Langley Park Road,,Iver
+2021-05-24,381000,SL0 9NT,T,N,F,91,,Grange Way,,Iver
+2021-05-21,475000,SL0 0EZ,S,N,F,36,,Swallowdale,,Iver
+2021-05-18,672000,SL0 9JX,D,N,F,Brook House,,Delaford Close,,Iver
+2021-05-14,185000,SL0 9NZ,F,N,L,53,,Dutton Way,,Iver
+2021-05-14,405000,SL0 9NN,S,N,F,53,,High Street,,Iver
+2021-05-14,554500,SL0 0HW,S,N,F,16,,Coopers Row,,Iver
+2021-05-11,575000,SL0 0QN,T,N,F,65,,Pinewood Green,,Iver
+2021-05-11,285000,SL0 0DL,F,N,L,29,,Keensacre,,Iver
+2021-05-10,490000,SL0 0RB,S,N,F,21,,Rostrevor Gardens,,Iver
+2021-05-07,625000,SL0 0RH,D,N,F,237,,The Parkway,,Iver
+2021-05-07,370000,SL0 0HX,S,N,F,10,,Martindale,,Iver
+2021-05-04,615000,SL0 0QF,S,N,F,96,,Ashford Road,,Iver
+2021-04-30,1125000,SL0 9BN,D,N,F,50,,Wellesley Avenue,,Iver
+2021-04-30,1465000,SL0 0LB,D,N,F,Wood Lodge,,Wood Lane,,Iver
+2021-04-26,590000,SL0 9RH,D,N,F,14,,Mansion Lane,,Iver
+2021-04-23,575000,SL0 0BN,D,N,F,Loxwood,,Bangors Road North,,Iver
+2021-04-13,622250,SL0 0DG,S,N,F,11,,Linden Close,,Iver
+2021-04-09,465000,SL0 9NJ,S,N,F,60,,Chequers Orchard,,Iver
+2021-04-07,515000,SL0 0AQ,T,N,F,4,,Trewarden Row,,Iver
+2021-04-06,382000,SL0 9QB,T,N,F,159,,High Street,,Iver
+2021-03-31,165000,SL0 0QQ,F,N,L,"Heatherden House, 142",Flat 12,Pinewood Green,,Iver
+2021-03-31,405000,SL0 0HB,S,N,F,22,,Whitehouse Way,,Iver
+2021-03-30,420000,SL0 0PT,T,N,F,9,,Copse Wood,,Iver
+2021-03-29,378000,SL0 9AE,T,N,F,8,,Thorney Lane South,,Iver
+2021-03-26,550000,SL0 9DU,S,N,F,5,,The Ridings,,Iver
+2021-03-26,530000,SL0 9AQ,S,N,F,5,,Thorney Mill Road,,Iver
+2021-03-26,422500,SL0 0RX,T,N,F,32,,Glaisyer Way,,Iver
+2021-03-25,173000,SL0 9NG,F,N,L,64A,,High Street,,Iver
+2021-03-24,920000,SL0 9ET,T,N,F,26,,Syke Ings,,Iver
+2021-03-23,415000,SL0 9PL,S,N,F,Laurel Cottage,,Kingsway,,Iver
+2021-03-23,520000,SL0 9NH,S,N,F,7,,Chequers Orchard,,Iver
+2021-03-19,425000,SL0 9RD,T,N,F,74,,Leas Drive,,Iver
+2021-03-19,280000,SL0 9NE,F,N,L,Iver Court,Flat 10,High Street,,Iver
+2021-03-19,685000,SL0 9EL,S,N,F,29A,,Syke Cluan,,Iver
+2021-03-19,500000,SL0 0RG,S,N,F,173,,The Parkway,,Iver
+2021-03-19,725000,SL0 0HY,S,N,F,22,,Martindale,,Iver
+2021-03-15,432000,SL0 9RL,T,N,F,44,,Iverdale Close,,Iver
+2021-03-12,445000,SL0 0HT,T,N,F,248,,Swallow Street,,Iver
+2021-03-12,575000,SL0 0HS,S,N,F,206,,Swallow Street,,Iver
+2021-03-12,560000,SL0 0HE,S,N,F,26,,The Close,,Iver
+2021-03-09,565000,SL0 0DU,S,N,F,20,,Post Meadow,,Iver
+2021-03-08,400000,SL0 9AQ,S,N,F,9,,Thorney Mill Road,,Iver
+2021-03-05,530000,SL0 0HP,S,N,F,19,,Coopers Row,,Iver
+2021-03-05,450000,SL0 0HB,S,N,F,10,,Whitehouse Way,,Iver
+2021-03-04,445000,SL0 9RL,T,N,F,42,,Iverdale Close,,Iver
+2021-03-04,225000,SL0 9NQ,F,N,L,Daws Court,10,High Street,,Iver
+2021-03-03,540000,SL0 0HL,S,N,F,1,,Hardings Close,,Iver
+2021-02-26,270000,SL0 9DQ,F,Y,L,"Elizabeth Court, 19 - 21",15,Bathurst Walk,,Iver
+2021-02-26,475000,SL0 0HW,S,N,F,22,,Coopers Row,,Iver
+2021-02-26,420000,SL0 0HN,T,N,F,New Heath Cottage,,Swallow Street,,Iver
+2021-02-24,430000,SL0 0RX,S,N,F,21,,Glaisyer Way,,Iver
+2021-02-19,440000,SL0 9PS,S,N,F,Kimberley,,Cecil Road,,Iver
+2021-02-19,382500,SL0 0PZ,S,N,F,30,,Heatherden Green,,Iver
+2021-02-12,735000,SL0 9DT,D,N,F,8A,,The Poynings,,Iver
+2021-02-11,995000,SL0 9AW,D,N,F,2,,Northumberland Walk,,Iver
+2021-02-10,335000,SL0 0SB,T,N,F,12,,Trewarden Avenue,,Iver
+2021-02-09,400000,SL0 9QB,T,N,F,131,,High Street,,Iver
+2021-02-05,1000000,SL0 0QX,D,N,F,9,,Cedar Close,,Iver
+2021-02-05,887000,SL0 0BS,D,N,F,8,,Potters Cross,,Iver
+2021-02-05,595000,SL0 0AW,F,N,L,Iver Lodge,5,Bangors Road South,,Iver
+2021-02-04,200000,SL0 9AJ,T,N,F,South Barn,11,Millside Court,,Iver
+2021-02-03,840000,SL0 9BL,D,N,F,6,,Wellesley Avenue,,Iver
+2021-01-29,317500,SL0 0AG,F,N,L,The Old Orchard,5,Bangors Road South,,Iver
+2021-01-28,270000,SL0 0EX,F,N,L,49,,Swallowdale,,Iver
+2021-01-27,315000,SL0 9BZ,F,N,L,"Universal House, 20 - 22",10,High Street,,Iver
+2021-01-22,513830,SL0 9QN,S,N,F,8,,Langley Park Road,,Iver
+2021-01-22,650000,SL0 0QR,D,N,F,Sherwood,,Pinewood Green,,Iver
+2021-01-21,250000,SL0 9RF,T,N,F,114,,Mansion Lane,,Iver
+2021-01-18,318000,SL0 0RS,F,N,L,85,,St Davids Close,,Iver
+2021-01-18,525000,SL0 0HR,S,N,F,152,,Swallow Street,,Iver
+2021-01-13,295000,SL0 0BX,F,N,L,25,,Heathway,,Iver
+2021-01-11,270000,SL0 0DL,F,N,L,31,,Keensacre,,Iver
+2021-01-07,1225000,SL0 9DA,D,N,F,27,,Richings Way,,Iver
+2021-01-06,450000,SL0 0DZ,D,N,F,South Lodge Cottage,,Slough Road,,Iver

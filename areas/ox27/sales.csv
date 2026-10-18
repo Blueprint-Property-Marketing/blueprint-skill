@@ -1,0 +1,750 @@
+date,price,postcode,type,new,tenure,paon,saon,street,locality,town
+2026-08-14,545000,OX27 8EP,D,N,F,13,,Haricot Vale Road,,Bicester
+2026-08-06,580000,OX27 8EP,D,N,F,17,,Haricot Vale Road,,Bicester
+2026-07-31,357500,OX27 0HP,S,N,F,31,,Millfield Avenue,Marsh Gibbon,Bicester
+2026-07-31,385000,OX27 0HP,S,N,F,17,,Millfield Avenue,Marsh Gibbon,Bicester
+2026-07-31,480000,OX27 0HN,D,N,F,Post Office,,Station Road,Marsh Gibbon,Bicester
+2026-07-24,355000,OX27 8DF,T,N,F,2,,Crosslands,Fringford,Bicester
+2026-07-17,667500,OX27 8DR,D,N,F,7A,,Church Close,Fringford,Bicester
+2026-07-17,170000,OX27 7AH,S,N,L,14,,Ormond Manor Road,Fritwell,Bicester
+2026-07-16,425000,OX27 8FG,S,N,F,3,,Montgomery Road,Caversfield,Bicester
+2026-07-10,295000,OX27 7QB,T,N,F,32,,Hodgson Close,Fritwell,Bicester
+2026-07-09,285000,OX27 8UB,T,N,F,10,,Woodcote Road,,Bicester
+2026-06-30,890000,OX27 8SS,D,N,F,"Honeysuckle Cottage, 11",,,Hardwick,Bicester
+2026-06-30,175000,OX27 7PX,F,N,L,36,,East Street,Fritwell,Bicester
+2026-06-23,353000,OX27 8AN,T,N,F,52,,Charlotte Avenue,,Bicester
+2026-06-18,396400,OX27 8AN,T,N,F,56,,Charlotte Avenue,,Bicester
+2026-06-09,785000,OX27 7HW,S,N,F,Old Milking Parlour,,Ardley Road,Bucknell,Bicester
+2026-06-05,420000,OX27 8AN,T,N,F,104,,Charlotte Avenue,,Bicester
+2026-06-04,303000,OX27 7PW,D,N,F,13,,Orchard Road,Ardley,Bicester
+2026-05-29,401000,OX27 8BQ,T,N,F,11,,Lemongrass Road,,Bicester
+2026-05-29,320000,OX27 8AF,T,N,F,The Cook House,5,The Parade,Caversfield,Bicester
+2026-05-29,1150000,OX27 7QF,D,N,F,72,,East Street,Fritwell,Bicester
+2026-05-18,355000,OX27 8BP,T,N,F,27,,Braeburn Avenue,,Bicester
+2026-05-15,340000,OX27 8BT,T,N,F,16,,Brassica Terrace,,Bicester
+2026-05-08,284250,OX27 7QB,T,N,F,34,,Hodgson Close,Fritwell,Bicester
+2026-04-29,375000,OX27 7QR,D,N,F,38,,North Street,Fritwell,Bicester
+2026-04-29,305000,OX27 7QQ,S,N,F,34,,Forge Place,Fritwell,Bicester
+2026-04-24,1000000,OX27 7LT,D,N,F,Old Rectory,,Bainton Road,Bucknell,Bicester
+2026-04-07,345000,OX27 9BY,T,N,F,9,,Glen Close,Stratton Audley,Bicester
+2026-03-31,395000,OX27 8AN,T,N,F,96,,Charlotte Avenue,,Bicester
+2026-03-30,410000,OX27 8AY,T,N,F,6,,Chantenay Close,,Bicester
+2026-03-27,480000,OX27 8DX,S,N,F,Stable Cottage,,Rectory Lane,Fringford,Bicester
+2026-03-26,380000,OX27 9AZ,S,N,F,7,,Main Street,Poundon,Bicester
+2026-03-25,552000,OX27 7QW,D,N,F,7,,The Lane,Fritwell,Bicester
+2026-03-20,368000,OX27 7PA,S,N,F,6,,Ardley Road,Fewcott,Bicester
+2026-03-18,400000,OX27 8TW,D,N,F,28,,Old School Close,Caversfield,Bicester
+2026-03-13,400000,OX27 7AH,D,N,F,41,,Ormond Manor Road,Fritwell,Bicester
+2026-02-20,527000,OX27 8ES,T,N,F,The Dower Lodge,,Main Street,Hethe,Bicester
+2026-02-19,365000,OX27 7PT,T,N,F,3,,The Crossway,Ardley,Bicester
+2026-02-13,460000,OX27 0BL,D,N,F,Old Parish Grounds House,,Main Street,Charndon,Bicester
+2026-02-12,275000,OX27 9AR,F,N,L,Stratton Audley Manor,18,Mill Road,Stratton Audley,Bicester
+2026-02-06,1200000,OX27 0EP,D,N,F,1,,Westbury Close,Marsh Gibbon,Bicester
+2026-01-30,370000,OX27 8SB,S,N,F,5,,The Green,Stoke Lyne,Bicester
+2026-01-27,875000,OX27 8HD,D,N,F,Lawsons Cottage,,Main Street,Hethe,Bicester
+2026-01-09,220000,OX27 8AE,F,N,L,Building 20,8,Trenchard Lane,Caversfield,Bicester
+2025-12-19,535000,OX27 8FG,S,N,F,30,,Montgomery Road,Caversfield,Bicester
+2025-12-18,460000,OX27 7NW,D,N,F,5,,Castle Fields,Ardley,Bicester
+2025-12-18,699500,OX27 0HB,D,N,F,White Rails,,Whales Lane,Marsh Gibbon,Bicester
+2025-12-15,335000,OX27 8FA,S,N,F,13,,Thompson Drive,Caversfield,Bicester
+2025-11-26,385000,OX27 7PB,D,N,F,31,,Ardley Road,Fewcott,Bicester
+2025-11-26,710000,OX27 7LT,T,N,F,Turn The Page,,Bainton Road,Bucknell,Bicester
+2025-11-24,340000,OX27 8UD,S,N,F,2,,Elderfield Road,,Bicester
+2025-11-21,500000,OX27 8BY,D,N,F,3,,Crimson Gardens,,Bicester
+2025-11-21,350000,OX27 8AX,T,N,F,4,,Pippin Close,,Bicester
+2025-11-17,320000,OX27 8AB,F,N,L,Building 20,13,Orchard Square,Caversfield,Bicester
+2025-11-17,381000,OX27 7PP,D,N,F,3,,Ploughley Close,Ardley,Bicester
+2025-11-10,1160000,OX27 9BJ,D,N,F,Bay Tree House,,Mill Road,Stratton Audley,Bicester
+2025-10-31,325000,OX27 8US,S,N,F,27,,Manzel Road,,Bicester
+2025-10-31,290000,OX27 8HA,T,N,F,1,,Bainton Road,Hethe,Bicester
+2025-10-31,395000,OX27 8BZ,T,N,F,2,,Fennel Street,,Bicester
+2025-10-31,128250,OX27 8AN,F,N,L,42,,Charlotte Avenue,,Bicester
+2025-10-31,560000,OX27 0HT,D,N,F,3,,Rectory Close,Marsh Gibbon,Bicester
+2025-10-28,315500,OX27 8FA,S,N,F,15,,Thompson Drive,Caversfield,Bicester
+2025-10-27,620000,OX27 7NA,D,N,F,4,,Rose Close,Bucknell,Bicester
+2025-10-27,570000,OX27 0BA,D,Y,F,8,,Jubilee Close,Marsh Gibbon,Bicester
+2025-10-24,290000,OX27 7JJ,T,N,F,5,,High Street,Souldern,Bicester
+2025-10-15,340600,OX27 8AD,F,N,L,"Building, 36",5,The Parade,Caversfield,Bicester
+2025-10-15,820000,OX27 7JU,D,N,F,Applegarth,,Bates Lane,Souldern,Bicester
+2025-10-10,321000,OX27 8UR,T,N,F,28,,Turnpike Road,,Bicester
+2025-10-10,445000,OX27 8TW,D,N,F,8,,Old School Close,Caversfield,Bicester
+2025-10-06,346000,OX27 8AN,T,N,F,100,,Charlotte Avenue,,Bicester
+2025-10-02,445000,OX27 8DP,D,N,F,One Step Cottage,,Main Street,Fringford,Bicester
+2025-10-01,390000,OX27 8FG,S,N,F,12,,Montgomery Road,Caversfield,Bicester
+2025-09-23,300000,OX27 8UR,S,N,F,29,,Turnpike Road,,Bicester
+2025-09-22,220000,OX27 8AE,F,N,L,Building 23,10,Trenchard Lane,Caversfield,Bicester
+2025-09-19,355000,OX27 8DB,S,N,F,15,,Blueberry Drive,,Bicester
+2025-09-19,365000,OX27 8AF,D,N,F,The Old Ambulance Station,,The Parade,Caversfield,Bicester
+2025-09-12,382000,OX27 8FD,S,N,F,6,,Truemper Grove,Caversfield,Bicester
+2025-09-11,430000,OX27 7NW,S,N,F,6,,Castle Fields,Ardley,Bicester
+2025-09-10,258000,OX27 8AD,T,N,F,The Sergeants Mess,1,The Parade,Caversfield,Bicester
+2025-09-08,535000,OX27 0BN,S,N,F,1,,Hampden Hill,Charndon,Bicester
+2025-09-05,350000,OX27 8AN,T,N,F,84,,Charlotte Avenue,,Bicester
+2025-08-29,350000,OX27 8BT,T,N,F,10,,Brassica Terrace,,Bicester
+2025-08-29,750000,OX27 7AH,D,N,F,37,,Ormond Manor Road,Fritwell,Bicester
+2025-08-27,1470000,OX27 9BT,D,N,F,Hall Farm,,Bicester Road,Stratton Audley,Bicester
+2025-08-27,356000,OX27 7PD,T,N,F,3,,Exton Cottages,Ardley,Bicester
+2025-08-22,750000,OX27 7AH,D,N,F,43,,Ormond Manor Road,Fritwell,Bicester
+2025-08-15,360250,OX27 8DB,S,N,F,13,,Blueberry Drive,,Bicester
+2025-08-13,460000,OX27 8AB,T,N,F,1,,South Terrace,Caversfield,Bicester
+2025-08-12,195000,OX27 7JR,T,N,F,1,,Chapel Row,Souldern,Bicester
+2025-08-05,950000,OX27 8SS,D,N,F,8,,,Hardwick,Bicester
+2025-07-31,475000,OX27 8FE,S,N,F,4,,Horne Close,Caversfield,Bicester
+2025-07-31,345000,OX27 8DB,T,N,F,5,,Blueberry Drive,,Bicester
+2025-07-31,460000,OX27 7AH,D,N,F,39,,Ormond Manor Road,Fritwell,Bicester
+2025-07-31,725000,OX27 0EX,D,N,F,Plot 1,,Tompkins Lane,Marsh Gibbon,Bicester
+2025-07-30,350000,OX27 8AE,T,N,F,The Sergeants Quarters,4,Trenchard Lane,Caversfield,Bicester
+2025-07-25,736500,OX27 9BN,S,N,F,7,,Cavendish Place,Stratton Audley,Bicester
+2025-07-25,215000,OX27 8RU,S,N,F,Cypress House,1,,Stoke Lyne,Bicester
+2025-07-25,275000,OX27 7NB,D,N,F,The Coach House,,New Row,Bucknell,Bicester
+2025-07-18,305000,OX27 7QQ,S,N,F,29,,Forge Place,Fritwell,Bicester
+2025-07-17,540000,OX27 8RZ,S,N,F,1,,The Close,Stoke Lyne,Bicester
+2025-07-17,345000,OX27 8DB,T,N,F,7,,Blueberry Drive,,Bicester
+2025-07-17,337000,OX27 8AN,T,N,F,98,,Charlotte Avenue,,Bicester
+2025-07-15,650000,OX27 9BN,D,N,F,13,,Cavendish Place,Stratton Audley,Bicester
+2025-07-11,385000,OX27 8FG,S,N,F,51,,Montgomery Road,Caversfield,Bicester
+2025-07-11,300500,OX27 8AD,T,N,F,"Building, 36",2,The Parade,Caversfield,Bicester
+2025-07-04,400000,OX27 7LG,D,N,F,4,,The Paddocks,Souldern,Bicester
+2025-07-04,470500,OX27 7JE,S,N,F,The Cottage,,The Hill,Souldern,Bicester
+2025-06-24,585000,OX27 0BS,D,N,F,11,,Spencer Gardens,Charndon,Bicester
+2025-06-20,250000,OX27 8UW,T,N,F,43,,Skimmingdish Lane,,Bicester
+2025-06-18,800000,OX27 0HB,D,N,F,Crossfield,,Whales Lane,Marsh Gibbon,Bicester
+2025-06-17,452000,OX27 8FB,D,N,F,16,,Wilson Way,Caversfield,Bicester
+2025-06-13,345000,OX27 8AS,T,N,F,19,,Charlotte Avenue,,Bicester
+2025-06-05,415000,OX27 9BN,S,N,F,17,,Cavendish Place,Stratton Audley,Bicester
+2025-06-04,1175000,OX27 0HY,D,N,F,Moss Cottage,,Castle Close,Marsh Gibbon,Bicester
+2025-05-30,337500,OX27 8AS,T,N,F,41,,Charlotte Avenue,,Bicester
+2025-05-30,337500,OX27 0BL,D,N,F,Dutch Barn,,,Charndon,Bicester
+2025-05-23,600000,OX27 8EP,D,N,F,15,,Haricot Vale Road,,Bicester
+2025-05-23,400000,OX27 8AS,T,N,F,37,,Charlotte Avenue,,Bicester
+2025-05-23,420000,OX27 8AB,T,N,F,Building 20,15,Orchard Square,Caversfield,Bicester
+2025-05-23,635000,OX27 0AA,D,N,F,Snowdrop House,,Main Street,Charndon,Bicester
+2025-05-16,210000,OX27 8AF,F,N,L,Building 42,8,The Parade,Caversfield,Bicester
+2025-05-16,480000,OX27 7LT,D,N,F,The Maple,,Bainton Road,Bucknell,Bicester
+2025-05-09,450000,OX27 8DQ,S,N,F,"Coach House Cottage, 10",,Manor Yard,Fringford,Bicester
+2025-05-09,395000,OX27 8AN,T,N,F,64,,Charlotte Avenue,,Bicester
+2025-05-09,243800,OX27 8AD,T,N,F,Building 32,1,The Parade,Caversfield,Bicester
+2025-04-30,745750,OX27 7AH,D,Y,F,33,,Ormond Manor Road,Fritwell,Bicester
+2025-04-25,310000,OX27 8UD,S,N,F,35,,Elderfield Road,,Bicester
+2025-04-24,279000,OX27 7PX,F,N,L,28,The Garden Flat,East Street,Fritwell,Bicester
+2025-04-23,395000,OX27 7QB,D,N,F,14,,Hodgson Close,Fritwell,Bicester
+2025-04-11,800000,OX27 7QJ,D,N,F,Barn End,,North Street,Fritwell,Bicester
+2025-03-31,770000,OX27 8SF,D,N,F,"The Cottage, 28",,,Stoke Lyne,Bicester
+2025-03-31,420000,OX27 8DX,T,N,F,White Cottage,,Rectory Lane,Fringford,Bicester
+2025-03-31,975000,OX27 8DD,D,N,F,2,,Farriers Close,Fringford,Bicester
+2025-03-31,420000,OX27 7PX,T,N,F,"Sunset Cottage, 49",,East Street,Fritwell,Bicester
+2025-03-28,515000,OX27 8TJ,S,N,F,Nashers Nook,,,Caversfield,Bicester
+2025-03-28,295000,OX27 8SA,S,N,F,3,,Stratton Lane,Stoke Lyne,Bicester
+2025-03-28,500000,OX27 8BT,D,N,F,4,,Brassica Terrace,,Bicester
+2025-03-28,405000,OX27 8BQ,T,N,F,3,,Lemongrass Road,,Bicester
+2025-03-28,525000,OX27 8AE,D,N,F,1,,Guard House Villas,Caversfield,Bicester
+2025-03-28,350000,OX27 8AD,T,N,F,Building 32,12,The Parade,Caversfield,Bicester
+2025-03-28,420000,OX27 7QH,S,N,F,22,,East Street,Fritwell,Bicester
+2025-03-28,425000,OX27 7NZ,D,N,F,Old School House,,Fritwell Road,Fewcott,Bicester
+2025-03-28,378000,OX27 7LD,S,N,F,1,,Wharf Lane,Souldern,Bicester
+2025-03-28,413000,OX27 0AF,T,N,F,29,,Little Marsh Road,Marsh Gibbon,Bicester
+2025-03-27,430000,OX27 8FG,S,N,F,8,,Montgomery Road,Caversfield,Bicester
+2025-03-24,450000,OX27 7LX,S,N,F,32,,Middleton Road,Bucknell,Bicester
+2025-03-21,750000,OX27 8DX,D,N,F,Rose Cottage,,Rectory Lane,Fringford,Bicester
+2025-03-21,392000,OX27 8AU,T,N,F,1,,Tayberry Close,,Bicester
+2025-03-21,340000,OX27 8AD,T,N,F,Building 32,10,The Parade,Caversfield,Bicester
+2025-03-21,640000,OX27 7AH,D,Y,F,1,,Ormond Manor Road,Fritwell,Bicester
+2025-03-21,195000,OX27 0HH,F,N,L,16,,Swan Lane,Marsh Gibbon,Bicester
+2025-03-21,310000,OX27 0AF,S,N,F,27,,Little Marsh Road,Marsh Gibbon,Bicester
+2025-03-20,420000,OX27 8AB,T,N,F,2,,West Terrace,Caversfield,Bicester
+2025-03-14,270000,OX27 9DA,D,N,F,1,,The Limes,Stratton Audley,Bicester
+2025-03-11,725000,OX27 0HH,D,N,F,"Squirrels, 4",,Swan Lane,Marsh Gibbon,Bicester
+2025-03-11,550000,OX27 0HH,D,N,F,"Geraden, 9",,Swan Lane,Marsh Gibbon,Bicester
+2025-03-11,525000,OX27 0GA,D,N,F,Ashbourne Cottages,2,Burnell Court,Marsh Gibbon,Bicester
+2025-03-11,692000,OX27 0AW,S,N,F,May Cottage,,,Marsh Gibbon,Bicester
+2025-03-07,374000,OX27 8AS,T,N,F,65,,Charlotte Avenue,,Bicester
+2025-03-07,313000,OX27 0HR,T,N,F,18,,Millfield Close,Marsh Gibbon,Bicester
+2025-03-03,200000,OX27 7NX,D,N,F,Woodlands,,Water Lane,Fewcott,Bicester
+2025-02-28,385000,OX27 7QR,D,N,F,61,,North Street,Fritwell,Bicester
+2025-02-28,475000,OX27 7AH,D,Y,F,31,,Ormond Manor Road,Fritwell,Bicester
+2025-02-28,475000,OX27 0BA,D,Y,F,11,,Jubilee Close,Marsh Gibbon,Bicester
+2025-02-25,540000,OX27 0HT,D,N,F,23,,Rectory Close,Marsh Gibbon,Bicester
+2025-02-24,360000,OX27 7AH,S,Y,F,25,,Ormond Manor Road,Fritwell,Bicester
+2025-02-21,454000,OX27 0BL,D,N,F,Ruhema,,Main Street,Charndon,Bicester
+2025-02-20,313000,OX27 0HR,T,N,F,19,,Millfield Close,Marsh Gibbon,Bicester
+2025-02-19,270000,OX27 8US,T,N,F,12,,Manzel Road,,Bicester
+2025-02-19,320000,OX27 7PD,S,N,F,1,,Exton Cottages,Ardley,Bicester
+2025-02-14,174500,OX27 7PX,F,N,L,38B,,East Street,Fritwell,Bicester
+2025-02-13,381150,OX27 8BP,T,N,F,18,,Braeburn Avenue,,Bicester
+2025-02-10,425000,OX27 8AB,T,N,F,3,,South Terrace,Caversfield,Bicester
+2025-02-04,475000,OX27 7AH,D,Y,F,17,,Ormond Manor Road,Fritwell,Bicester
+2025-02-03,212000,OX27 0AF,T,N,F,43,,Little Marsh Road,Marsh Gibbon,Bicester
+2025-01-31,380000,OX27 8FD,S,N,F,32,,Truemper Grove,Caversfield,Bicester
+2025-01-31,420000,OX27 8AB,T,N,F,7,,West Terrace,Caversfield,Bicester
+2025-01-31,600000,OX27 7PS,D,N,F,Lea House,,Meadow Drive,Fewcott,Bicester
+2025-01-29,510000,OX27 7NZ,S,N,F,Whitecroft,,Fritwell Road,Fewcott,Bicester
+2025-01-24,413250,OX27 7PX,S,N,F,27,,East Street,Fritwell,Bicester
+2025-01-24,895000,OX27 7JU,D,N,F,Phoenix House,,Bates Lane,Souldern,Bicester
+2025-01-22,318000,OX27 8AE,F,N,L,Building 20,28,Trenchard Lane,Caversfield,Bicester
+2025-01-10,412000,OX27 7PW,D,N,F,4,,Orchard Road,Ardley,Bicester
+2024-12-19,595000,OX27 7QF,S,N,F,66,,East Street,Fritwell,Bicester
+2024-12-13,607000,OX27 8EP,D,N,F,11,,Haricot Vale Road,,Bicester
+2024-12-04,700000,OX27 8DZ,D,N,F,Sunnyside,,,Fringford,Bicester
+2024-12-03,650000,OX27 7AH,D,Y,F,35,,Ormond Manor Road,Fritwell,Bicester
+2024-11-29,405000,OX27 8DA,S,N,F,1,,Radish Close,,Bicester
+2024-11-29,358000,OX27 7AH,S,Y,F,27,,Ormond Manor Road,Fritwell,Bicester
+2024-11-29,700000,OX27 7AH,D,Y,F,2,,Ormond Manor Road,Fritwell,Bicester
+2024-11-28,420000,OX27 0HT,D,N,F,19,,Rectory Close,Marsh Gibbon,Bicester
+2024-11-26,615000,OX27 8AU,D,N,F,7,,Tayberry Close,,Bicester
+2024-11-26,440000,OX27 0BT,S,N,F,Cheshire Cottages,5,School Hill,Charndon,Bicester
+2024-11-21,485000,OX27 7AH,D,Y,F,9,,Ormond Manor Road,Fritwell,Bicester
+2024-11-15,650000,OX27 8BG,D,N,F,4,,Wintergreen Fields,,Bicester
+2024-11-15,164250,OX27 8BB,T,N,L,4,,Orchard Walk,,Bicester
+2024-11-12,260000,OX27 8TY,T,N,F,52,,Fairhaven Road,Caversfield,Bicester
+2024-11-07,525000,OX27 7QF,S,N,F,68,,East Street,Fritwell,Bicester
+2024-11-07,490000,OX27 7AH,D,Y,F,15,,Ormond Manor Road,Fritwell,Bicester
+2024-11-01,525000,OX27 9AT,S,N,F,Mattingley Barn,,Stoke Lyne Road,Stratton Audley,Bicester
+2024-11-01,295000,OX27 8UW,T,N,F,25,,Skimmingdish Lane,,Bicester
+2024-10-31,640000,OX27 8AE,D,N,F,Lutyens House,,Trenchard Lane,Caversfield,Bicester
+2024-10-31,1800000,OX27 7JN,D,N,F,The Hermitage,,,Souldern,Bicester
+2024-10-31,485000,OX27 7AH,D,Y,F,11,,Ormond Manor Road,Fritwell,Bicester
+2024-10-29,396000,OX27 8AN,T,N,F,56,,Charlotte Avenue,,Bicester
+2024-10-29,540000,OX27 7AH,S,Y,F,4,,Ormond Manor Road,Fritwell,Bicester
+2024-10-28,245000,OX27 8AD,T,N,F,Building 33,1,The Parade,Caversfield,Bicester
+2024-10-28,575000,OX27 7LQ,S,N,F,1,,Cotswold Court,Souldern,Bicester
+2024-10-25,520000,OX27 7AH,D,Y,F,29,,Ormond Manor Road,Fritwell,Bicester
+2024-10-24,795000,OX27 7AH,D,Y,F,13,,Ormond Manor Road,Fritwell,Bicester
+2024-10-17,370000,OX27 8AH,T,N,F,The Officers Mess,11,Orchard Lane,Caversfield,Bicester
+2024-10-16,265000,OX27 8UB,T,N,F,23,,Woodcote Road,,Bicester
+2024-10-10,347000,OX27 8AD,F,N,L,Building 35,5,The Parade,Caversfield,Bicester
+2024-10-09,425000,OX27 8FD,S,N,F,16,,Truemper Grove,Caversfield,Bicester
+2024-10-03,318000,OX27 7PX,F,N,L,28,Ground Floor Flat 2,East Street,Fritwell,Bicester
+2024-09-27,290000,OX27 8TX,S,N,F,36,,Fairhaven Road,Caversfield,Bicester
+2024-09-27,400000,OX27 7NB,S,N,F,30,,New Row,Bucknell,Bicester
+2024-09-19,575000,OX27 9AY,S,N,F,11,,,Poundon,Bicester
+2024-09-19,230000,OX27 7PX,F,N,L,28,First Floor Flat,East Street,Fritwell,Bicester
+2024-09-18,1050000,OX27 0HA,S,N,F,Fleur De Lys,,West Edge,Marsh Gibbon,Bicester
+2024-09-16,650000,OX27 0EN,D,N,F,3,,Ware Leys Close,Marsh Gibbon,Bicester
+2024-09-13,292000,OX27 8HD,D,N,F,Bergerac,,Main Street,Hethe,Bicester
+2024-09-09,401000,OX27 8FG,S,N,F,15,,Montgomery Road,Caversfield,Bicester
+2024-09-06,290000,OX27 8TZ,T,N,F,19,,Woodcote Road,,Bicester
+2024-09-06,420000,OX27 8FE,S,N,F,"Cornucopia, 1",,Horne Close,Caversfield,Bicester
+2024-09-06,525000,OX27 7AH,D,Y,F,6,,Ormond Manor Road,Fritwell,Bicester
+2024-08-30,395000,OX27 8DY,S,N,F,Green Farm Cottage,,The Green,Fringford,Bicester
+2024-08-30,325000,OX27 7PZ,T,N,F,Old School Row,2,East Street,Fritwell,Bicester
+2024-08-30,530000,OX27 7AH,D,Y,F,8,,Ormond Manor Road,Fritwell,Bicester
+2024-08-28,235000,OX27 8AF,T,N,F,The Cook House,1,The Parade,Caversfield,Bicester
+2024-08-27,415000,OX27 0BA,S,Y,F,5,,Jubilee Close,Marsh Gibbon,Bicester
+2024-08-23,300000,OX27 7PZ,T,N,F,4 Old School Row,,East Street,Fritwell,Bicester
+2024-08-16,525000,OX27 0BS,D,N,F,3,,Spencer Gardens,Charndon,Bicester
+2024-08-14,292500,OX27 9AR,F,N,L,Stratton Audley Manor,13,Mill Road,Stratton Audley,Bicester
+2024-08-13,400000,OX27 8AN,T,N,F,86,,Charlotte Avenue,,Bicester
+2024-08-06,435000,OX27 8FG,S,N,F,29,,Montgomery Road,Caversfield,Bicester
+2024-08-06,532500,OX27 8ES,S,N,F,Jericho Cottage,,Main Street,Hethe,Bicester
+2024-08-02,480000,OX27 8BW,S,Y,F,29,,Olive Mead,,Bicester
+2024-07-30,550000,OX27 7JU,T,N,F,Home Farm House,,Bates Lane,Souldern,Bicester
+2024-07-29,163000,OX27 7PX,F,N,L,38A,,East Street,Fritwell,Bicester
+2024-07-25,470000,OX27 7QB,D,N,F,8,,Hodgson Close,Fritwell,Bicester
+2024-07-24,367500,OX27 0BA,S,Y,F,10,,Jubilee Close,Marsh Gibbon,Bicester
+2024-07-23,437500,OX27 8TW,D,N,F,5,,Old School Close,Caversfield,Bicester
+2024-07-19,640000,OX27 9AL,S,N,F,1,,Copse Cottages,Stratton Audley,Bicester
+2024-07-18,545000,OX27 8BD,D,N,F,1,,Cranberry Avenue,,Bicester
+2024-07-18,380000,OX27 8AN,T,N,F,74,,Charlotte Avenue,,Bicester
+2024-07-05,1400000,OX27 0HJ,D,N,F,Swan Farm,,Castle Street,Marsh Gibbon,Bicester
+2024-07-03,985000,OX27 8DH,D,N,F,11,,Manor Road,Fringford,Bicester
+2024-06-28,340000,OX27 8FS,T,N,F,13,,Tarragon Terrace,,Bicester
+2024-06-28,235000,OX27 8AH,F,N,L,The Officers Mess,1,Orchard Lane,Caversfield,Bicester
+2024-06-27,450000,OX27 0ER,D,N,F,2,,Styles Close,Marsh Gibbon,Bicester
+2024-06-26,515000,OX27 7AH,D,Y,F,23,,Ormond Manor Road,Fritwell,Bicester
+2024-06-21,440000,OX27 8TW,D,N,F,6,,Old School Close,Caversfield,Bicester
+2024-06-17,565000,OX27 7QW,D,N,F,24,,The Lane,Fritwell,Bicester
+2024-06-14,495000,OX27 8BW,D,Y,F,25,,Olive Mead,,Bicester
+2024-06-14,275000,OX27 8AE,F,N,L,Building 25,11,Trenchard Lane,Caversfield,Bicester
+2024-06-14,360000,OX27 0BA,S,Y,F,9,,Jubilee Close,Marsh Gibbon,Bicester
+2024-06-12,735000,OX27 0HA,D,N,F,West Edge Cottage,2,West Edge,Marsh Gibbon,Bicester
+2024-05-31,383000,OX27 0HW,D,N,F,Sunnymeade,,The College,Marsh Gibbon,Bicester
+2024-05-30,248000,OX27 8RU,S,N,F,2,,Cypress Cottage,Stoke Lyne,Bicester
+2024-05-30,440000,OX27 8AB,T,N,F,1,,West Terrace,Caversfield,Bicester
+2024-05-28,425000,OX27 0BA,S,Y,F,6,,Jubilee Close,Marsh Gibbon,Bicester
+2024-05-22,375000,OX27 8AA,S,N,F,8,,Orchard Lane,Caversfield,Bicester
+2024-05-17,595000,OX27 8HD,S,N,F,Hill Rise House,,Main Street,Hethe,Bicester
+2024-05-10,270000,OX27 7QF,D,N,F,54,,East Street,Fritwell,Bicester
+2024-05-10,420000,OX27 7AH,D,Y,F,3,,Ormond Manor Road,Fritwell,Bicester
+2024-05-03,1359000,OX27 9AF,D,N,F,Cheveley House,,,Godington,Bicester
+2024-05-03,215000,OX27 8AE,F,N,L,Building 25,12,Trenchard Lane,Caversfield,Bicester
+2024-05-03,410000,OX27 8AB,T,N,F,8,,West Terrace,Caversfield,Bicester
+2024-05-02,700000,OX27 9AS,T,N,F,The Stables,Tally's Pride,Launton Road,Stratton Audley,Bicester
+2024-05-01,1100000,OX27 9AS,D,N,F,The Bradburys,1,Launton Road,Stratton Audley,Bicester
+2024-04-30,485000,OX27 8BX,D,Y,F,4,,Spring Drive,,Bicester
+2024-04-30,305000,OX27 8AD,T,N,F,Building 35,6,The Parade,Caversfield,Bicester
+2024-04-29,505000,OX27 7NR,D,N,F,Herbley House,,Church Road,Ardley,Bicester
+2024-04-26,390000,OX27 8BW,T,Y,F,15,,Olive Mead,,Bicester
+2024-04-12,470250,OX27 8BW,D,Y,F,31,,Olive Mead,,Bicester
+2024-04-12,695000,OX27 0HN,D,N,F,Fox Haven,,Station Road,Marsh Gibbon,Bicester
+2024-04-09,390000,OX27 8BW,S,Y,F,3,,Olive Mead,,Bicester
+2024-04-05,405000,OX27 0BA,S,Y,F,12,,Jubilee Close,Marsh Gibbon,Bicester
+2024-04-03,650000,OX27 0BA,D,Y,F,7,,Jubilee Close,Marsh Gibbon,Bicester
+2024-03-28,278000,OX27 8TY,T,N,F,53,,Fairhaven Road,Caversfield,Bicester
+2024-03-28,355000,OX27 8FG,S,N,F,19,,Montgomery Road,Caversfield,Bicester
+2024-03-27,395000,OX27 0AZ,S,Y,F,3,,Oakapple Close,Marsh Gibbon,Bicester
+2024-03-26,400000,OX27 7QB,D,N,F,17,,Hodgson Close,Fritwell,Bicester
+2024-03-22,340000,OX27 8BS,T,Y,F,3,,Gold Mews,,Bicester
+2024-03-22,242395,OX27 8AE,F,N,L,Building 20,18,Trenchard Lane,Caversfield,Bicester
+2024-03-21,345000,OX27 8EP,S,N,F,9,,Haricot Vale Road,,Bicester
+2024-03-21,195000,OX27 8AD,F,N,L,"Building, 29",4,The Parade,Caversfield,Bicester
+2024-03-20,385000,OX27 0AZ,S,Y,F,4,,Oakapple Close,Marsh Gibbon,Bicester
+2024-03-18,392500,OX27 8BS,T,Y,F,1,,Gold Mews,,Bicester
+2024-03-15,700000,OX27 0HJ,S,N,F,14,,Castle Street,Marsh Gibbon,Bicester
+2024-03-13,415000,OX27 0BA,S,Y,F,13,,Jubilee Close,Marsh Gibbon,Bicester
+2024-03-08,366000,OX27 9BT,S,N,F,Garden Cottage,1,Bicester Road,Stratton Audley,Bicester
+2024-03-01,345000,OX27 8BS,T,Y,F,5,,Gold Mews,,Bicester
+2024-03-01,440000,OX27 7NW,D,N,F,4,,Castle Fields,Ardley,Bicester
+2024-02-29,600000,OX27 8BY,D,Y,F,10,,Crimson Gardens,,Bicester
+2024-02-27,175000,OX27 7PX,F,N,L,44,,East Street,Fritwell,Bicester
+2024-02-26,520000,OX27 8BW,D,Y,F,7,,Olive Mead,,Bicester
+2024-02-23,560000,OX27 7NX,D,N,F,The Krug,,Water Lane,Fewcott,Bicester
+2024-02-12,450000,OX27 8FG,S,N,F,16,,Montgomery Road,Caversfield,Bicester
+2024-02-09,740000,OX27 7JL,D,N,F,Dovecote,,,Souldern,Bicester
+2024-02-02,395000,OX27 8BW,T,Y,F,21,,Olive Mead,,Bicester
+2024-01-31,2050000,OX27 9AT,S,N,F,Stratton House,,Stoke Lyne Road,Stratton Audley,Bicester
+2024-01-31,463000,OX27 8BY,D,Y,F,6,,Crimson Gardens,,Bicester
+2024-01-26,270000,OX27 9AR,F,N,L,Stratton Audley Manor,11,Mill Road,Stratton Audley,Bicester
+2024-01-24,500000,OX27 8EY,S,N,F,28,,Hardwick Road,Hethe,Bicester
+2024-01-24,1500000,OX27 7LA,D,N,F,Rest Harrow,,,Souldern,Bicester
+2024-01-22,400000,OX27 8FA,S,N,F,23,,Thompson Drive,Caversfield,Bicester
+2024-01-22,161700,OX27 8BP,T,N,L,49,,Braeburn Avenue,,Bicester
+2024-01-19,375000,OX27 7QB,D,N,F,15,,Hodgson Close,Fritwell,Bicester
+2024-01-08,200000,OX27 7JP,T,N,F,Post Office Cottage,,High Street,Souldern,Bicester
+2023-12-19,250000,OX27 7QB,T,N,F,30,,Hodgson Close,Fritwell,Bicester
+2023-12-18,280000,OX27 8UP,T,N,F,15,,Turnpike Road,,Bicester
+2023-12-18,257500,OX27 8AD,T,N,F,The Sergeants Quarters,1,The Parade,Caversfield,Bicester
+2023-12-15,1400000,OX27 0HJ,D,N,F,Old Red Lion,,Castle Street,Marsh Gibbon,Bicester
+2023-12-15,675000,OX27 0AZ,D,Y,F,7,,Oakapple Close,Marsh Gibbon,Bicester
+2023-12-08,370000,OX27 8FA,S,N,F,31,,Thompson Drive,Caversfield,Bicester
+2023-12-08,358000,OX27 8BW,T,Y,F,17,,Olive Mead,,Bicester
+2023-12-07,675000,OX27 0EY,D,N,F,The Paddocks,,Townsend,Marsh Gibbon,Bicester
+2023-12-01,530000,OX27 8DY,D,N,F,Bellstone House,,The Green,Fringford,Bicester
+2023-11-27,640000,OX27 0AZ,D,Y,F,6,,Oakapple Close,Marsh Gibbon,Bicester
+2023-11-24,330000,OX27 7PT,T,N,F,6,,The Crossway,Ardley,Bicester
+2023-11-24,400000,OX27 7LZ,D,N,F,"Corner House, 1",,Middleton Road,Bucknell,Bicester
+2023-11-23,529500,OX27 8DB,D,N,F,10,,Blueberry Drive,,Bicester
+2023-11-21,278000,OX27 8UP,T,N,F,22,,Turnpike Road,,Bicester
+2023-11-17,330330,OX27 8UA,T,N,F,42,,Woodcote Road,,Bicester
+2023-11-08,400000,OX27 8AN,T,N,F,94,,Charlotte Avenue,,Bicester
+2023-11-06,410000,OX27 8DA,S,N,F,3,,Radish Close,,Bicester
+2023-11-06,250000,OX27 0HR,T,N,F,6,,Millfield Close,Marsh Gibbon,Bicester
+2023-11-03,340000,OX27 8BP,T,N,F,41,,Braeburn Avenue,,Bicester
+2023-10-31,270000,OX27 8UP,T,N,F,18,,Turnpike Road,,Bicester
+2023-10-27,450000,OX27 8BX,D,Y,F,5,,Spring Drive,,Bicester
+2023-10-27,515000,OX27 8BW,D,Y,F,23,,Olive Mead,,Bicester
+2023-10-27,344000,OX27 8BW,T,Y,F,19,,Olive Mead,,Bicester
+2023-10-27,517000,OX27 8BW,D,Y,F,1,,Olive Mead,,Bicester
+2023-10-25,665000,OX27 8DW,D,N,F,10B,,St Michaels Close,Fringford,Bicester
+2023-10-20,360000,OX27 8AN,T,N,F,78,,Charlotte Avenue,,Bicester
+2023-10-19,575000,OX27 8BY,D,Y,F,9,,Crimson Gardens,,Bicester
+2023-10-19,465000,OX27 8BT,D,Y,F,5,,Brassica Terrace,,Bicester
+2023-10-19,775000,OX27 7LT,D,N,F,Stone Lea,,Bainton Road,Bucknell,Bicester
+2023-10-17,320000,OX27 9AA,T,N,F,1,,Cherry Street,Stratton Audley,Bicester
+2023-10-16,805000,OX27 9AS,D,N,F,Stone Cottage,,Launton Road,Stratton Audley,Bicester
+2023-10-13,535000,OX27 8BY,D,Y,F,11,,Crimson Gardens,,Bicester
+2023-10-12,503000,OX27 8EZ,S,N,F,31,,Hardwick Road,Hethe,Bicester
+2023-10-09,505000,OX27 0AZ,D,Y,F,5,,Oakapple Close,Marsh Gibbon,Bicester
+2023-10-06,210000,OX27 8AE,F,N,L,Building 23,10,Trenchard Lane,Caversfield,Bicester
+2023-09-29,575000,OX27 8BY,D,Y,F,5,,Crimson Gardens,,Bicester
+2023-09-29,477250,OX27 8BX,D,Y,F,3,,Spring Drive,,Bicester
+2023-09-29,545000,OX27 8BX,D,Y,F,2,,Spring Drive,,Bicester
+2023-09-28,535000,OX27 8BX,D,Y,F,6,,Spring Drive,,Bicester
+2023-09-28,597500,OX27 7LZ,D,N,F,23,,Middleton Road,Bucknell,Bicester
+2023-09-22,440000,OX27 8FG,S,N,F,4,,Montgomery Road,Caversfield,Bicester
+2023-09-20,622000,OX27 7QF,D,N,F,"Jasmine Cottage, 70",,East Street,Fritwell,Bicester
+2023-09-18,305000,OX27 7QQ,S,N,F,35,,Forge Place,Fritwell,Bicester
+2023-09-15,300000,OX27 7PY,T,N,F,5,,Old School Lane,Fritwell,Bicester
+2023-09-15,140000,OX27 0HR,F,N,L,14,,Millfield Close,Marsh Gibbon,Bicester
+2023-09-13,329999,OX27 0HD,T,N,F,3,,Westbury Terrace,Marsh Gibbon,Bicester
+2023-09-11,340000,OX27 7AE,T,N,F,1,,Covert Close,Fritwell,Bicester
+2023-09-04,300000,OX27 8DR,D,N,F,11,,Church Close,Fringford,Bicester
+2023-09-01,510000,OX27 8BX,D,Y,F,1,,Spring Drive,,Bicester
+2023-08-31,375000,OX27 8AS,T,N,F,57,,Charlotte Avenue,,Bicester
+2023-08-30,395000,OX27 0AH,S,N,F,1,,Moorhen Close,Marsh Gibbon,Bicester
+2023-08-23,545000,OX27 8BT,D,Y,F,9,,Brassica Terrace,,Bicester
+2023-08-18,464000,OX27 8DE,D,N,F,14,,Sage Street,,Bicester
+2023-08-18,550000,OX27 8BY,D,Y,F,14,,Crimson Gardens,,Bicester
+2023-08-18,340000,OX27 7QA,D,N,F,23,,Fewcott Road,Fritwell,Bicester
+2023-08-11,570000,OX27 9BB,D,N,F,Fieldside House,,Main Street,Poundon,Bicester
+2023-08-11,295000,OX27 8RY,T,N,F,2,,New Cottages,Stoke Lyne,Bicester
+2023-08-03,300000,OX27 8TU,T,N,F,44,,Fairhaven Road,Caversfield,Bicester
+2023-08-03,475000,OX27 8BT,D,Y,F,7,,Brassica Terrace,,Bicester
+2023-07-31,633500,OX27 7QF,D,N,F,"Willow Cottage, 56",,East Street,Fritwell,Bicester
+2023-07-28,285000,OX27 8UW,T,N,F,21,,Skimmingdish Lane,,Bicester
+2023-07-28,495000,OX27 8BT,D,Y,F,3,,Brassica Terrace,,Bicester
+2023-07-17,485000,OX27 7PA,S,N,F,36,,Ardley Road,Fewcott,Bicester
+2023-07-14,400000,OX27 8DE,S,N,F,20,,Sage Street,,Bicester
+2023-07-13,401000,OX27 7PX,D,N,F,23,,East Street,Fritwell,Bicester
+2023-07-11,387000,OX27 7QF,S,N,F,79,,East Street,Fritwell,Bicester
+2023-06-30,352500,OX27 9BY,T,N,F,15,,Glen Close,Stratton Audley,Bicester
+2023-06-23,555000,OX27 8BY,D,Y,F,18,,Crimson Gardens,,Bicester
+2023-06-13,600000,OX27 8BY,D,Y,F,12,,Crimson Gardens,,Bicester
+2023-06-06,305000,OX27 8UP,T,N,F,10,,Turnpike Road,,Bicester
+2023-06-01,275000,OX27 8UP,T,N,F,5,,Turnpike Road,,Bicester
+2023-05-30,440000,OX27 7QF,D,N,F,76,,East Street,Fritwell,Bicester
+2023-05-30,485000,OX27 7QB,D,N,F,24,,Hodgson Close,Fritwell,Bicester
+2023-05-26,630000,OX27 0HA,D,N,F,The Stone House,,West Edge,Marsh Gibbon,Bicester
+2023-05-23,275000,OX27 9AR,F,N,L,Stratton Audley Manor,2,Mill Road,Stratton Audley,Bicester
+2023-05-12,480000,OX27 8FB,S,N,F,15,,Wilson Way,Caversfield,Bicester
+2023-05-11,475000,OX27 8BY,D,Y,F,8,,Crimson Gardens,,Bicester
+2023-05-09,375000,OX27 8AS,T,N,F,37,,Charlotte Avenue,,Bicester
+2023-05-05,251000,OX27 8AD,F,N,F,"Building, 29",10,The Parade,Caversfield,Bicester
+2023-05-03,396250,OX27 8AB,T,N,F,Building 20,3,Orchard Square,Caversfield,Bicester
+2023-04-28,495000,OX27 8BY,D,Y,F,4,,Crimson Gardens,,Bicester
+2023-04-28,580000,OX27 8BY,D,Y,F,16,,Crimson Gardens,,Bicester
+2023-04-28,520000,OX27 8BT,D,Y,F,1,,Brassica Terrace,,Bicester
+2023-04-26,620000,OX27 8BY,D,Y,F,2,,Crimson Gardens,,Bicester
+2023-04-19,432000,OX27 7PB,D,N,F,Twin Firs,,Ardley Road,Fewcott,Bicester
+2023-04-18,420000,OX27 7QQ,S,N,F,28,,Forge Place,Fritwell,Bicester
+2023-04-13,475000,OX27 8EY,S,N,F,18,,Hardwick Road,Hethe,Bicester
+2023-03-31,320000,OX27 8AD,T,N,F,Building 32,11,The Parade,Caversfield,Bicester
+2023-03-30,490000,OX27 8BY,D,Y,F,3,,Crimson Gardens,,Bicester
+2023-03-28,545000,OX27 8BY,D,Y,F,7,,Crimson Gardens,,Bicester
+2023-03-27,400000,OX27 7NW,D,N,F,18,,Castle Fields,Ardley,Bicester
+2023-03-24,475000,OX27 8DP,D,N,F,Holly Cottage,,Main Street,Fringford,Bicester
+2023-03-24,404000,OX27 8BQ,S,Y,F,24,,Lemongrass Road,,Bicester
+2023-03-24,395000,OX27 8BQ,S,Y,F,22,,Lemongrass Road,,Bicester
+2023-03-23,405000,OX27 8BQ,S,Y,F,20,,Lemongrass Road,,Bicester
+2023-03-23,405000,OX27 8BQ,S,Y,F,18,,Lemongrass Road,,Bicester
+2023-03-22,500000,OX27 8BY,D,Y,F,1,,Crimson Gardens,,Bicester
+2023-03-21,210000,OX27 8AD,F,N,L,Building 35,3,The Parade,Caversfield,Bicester
+2023-03-17,295000,OX27 7JU,T,N,F,Littlecot,,Bates Lane,Souldern,Bicester
+2023-03-03,400000,OX27 8BQ,S,Y,F,23,,Lemongrass Road,,Bicester
+2023-03-03,350000,OX27 8BQ,S,Y,F,21,,Lemongrass Road,,Bicester
+2023-03-03,345000,OX27 8BQ,S,Y,F,19,,Lemongrass Road,,Bicester
+2023-02-27,400000,OX27 8BQ,S,Y,F,17,,Lemongrass Road,,Bicester
+2023-02-24,410000,OX27 7AE,S,N,F,8,,Covert Close,Fritwell,Bicester
+2023-02-03,435000,OX27 8FF,S,N,F,4,,Rau Court,Caversfield,Bicester
+2023-02-02,530000,OX27 8AD,D,N,F,New Lodge,,The Parade,Caversfield,Bicester
+2023-01-27,515000,OX27 8FS,D,Y,F,2,,Tarragon Terrace,,Bicester
+2023-01-24,292500,OX27 8TT,S,N,F,18,,Springfield Road,,Bicester
+2023-01-18,453000,OX27 8EZ,S,N,F,29,,Hardwick Road,Hethe,Bicester
+2023-01-16,635000,OX27 8FS,D,Y,F,4,,Tarragon Terrace,,Bicester
+2023-01-13,200000,OX27 7QE,D,N,F,1,,Southfield Lane,Fritwell,Bicester
+2023-01-13,152000,OX27 7PX,F,N,L,48,,East Street,Fritwell,Bicester
+2022-12-22,205000,OX27 8AD,F,N,L,Building 35,8,The Parade,Caversfield,Bicester
+2022-12-21,312000,OX27 8DF,T,N,F,6,,Crosslands,Fringford,Bicester
+2022-12-16,296000,OX27 8AD,T,N,F,Building 32,4,The Parade,Caversfield,Bicester
+2022-12-14,305000,OX27 7AE,T,Y,F,3,,Covert Close,Fritwell,Bicester
+2022-12-09,635000,OX27 8FS,D,Y,F,8,,Tarragon Terrace,,Bicester
+2022-12-09,380000,OX27 8ET,S,N,F,Garden Walk Cottages,1,Main Street,Hethe,Bicester
+2022-12-08,330000,OX27 0HD,T,N,F,5,,Westbury Terrace,Marsh Gibbon,Bicester
+2022-12-02,362500,OX27 7NY,D,N,F,1,,Paddock Road,Ardley,Bicester
+2022-11-28,335000,OX27 8AD,T,N,F,Building 32,9,The Parade,Caversfield,Bicester
+2022-11-23,620000,OX27 8AF,T,N,F,"The Bunker, 43",1,The Parade,Caversfield,Bicester
+2022-11-17,482450,OX27 8EY,S,N,F,16,,Hardwick Road,Hethe,Bicester
+2022-11-17,631596,OX27 8AE,D,N,F,Gilbert House,,Trenchard Lane,Caversfield,Bicester
+2022-11-15,555000,OX27 8FS,D,Y,F,6,,Tarragon Terrace,,Bicester
+2022-11-15,425000,OX27 8AD,T,N,F,The Sergeants Mess,3,The Parade,Caversfield,Bicester
+2022-11-09,850614,OX27 8HD,D,N,F,Vine Cottage,,Main Street,Hethe,Bicester
+2022-11-09,250000,OX27 8AH,F,N,L,The Officer Mess,3,Orchard Lane,Caversfield,Bicester
+2022-11-04,510000,OX27 8TW,D,N,F,14,,Old School Close,Caversfield,Bicester
+2022-11-04,630000,OX27 8FS,D,Y,F,14,,Tarragon Terrace,,Bicester
+2022-10-31,555675,OX27 8FS,D,Y,F,12,,Tarragon Terrace,,Bicester
+2022-10-31,635000,OX27 8FS,D,Y,F,10,,Tarragon Terrace,,Bicester
+2022-10-31,200000,OX27 7PX,F,N,L,42,,East Street,Fritwell,Bicester
+2022-10-28,595000,OX27 8RB,D,N,F,6,,St Peters Close,Stoke Lyne,Bicester
+2022-10-28,420000,OX27 7JE,T,N,F,Rock Cottage,,The Hill,Souldern,Bicester
+2022-10-11,450000,OX27 8FG,S,N,F,21,,Montgomery Road,Caversfield,Bicester
+2022-10-10,525000,OX27 7NZ,D,N,F,White Lion,,Fritwell Road,Fewcott,Bicester
+2022-10-07,502500,OX27 7PA,S,N,F,44,,Ardley Road,Fewcott,Bicester
+2022-10-06,210000,OX27 8AE,F,N,L,Building 23,10,Trenchard Lane,Caversfield,Bicester
+2022-10-04,250000,OX27 8UP,T,N,F,14,,Turnpike Road,,Bicester
+2022-10-03,1800000,OX27 8DP,D,N,F,Fringford Cottage,,Main Street,Fringford,Bicester
+2022-09-30,345000,OX27 8DB,T,N,F,5,,Blueberry Drive,,Bicester
+2022-09-30,412800,OX27 7PW,S,N,F,10,,Orchard Road,Ardley,Bicester
+2022-09-23,330000,OX27 8BZ,S,N,F,1,,Fennel Street,,Bicester
+2022-09-23,378000,OX27 8BP,T,N,F,26,,Braeburn Avenue,,Bicester
+2022-09-15,380000,OX27 8TT,S,N,L,8,,Springfield Road,,Bicester
+2022-09-12,475000,OX27 7PA,S,N,F,18,,Ardley Road,Fewcott,Bicester
+2022-09-12,418000,OX27 7NW,D,N,F,19,,Castle Fields,Ardley,Bicester
+2022-09-05,250000,OX27 8AD,F,N,L,Building 35,9,The Parade,Caversfield,Bicester
+2022-09-02,465000,OX27 7NT,T,N,F,62,,Somerton Road,Ardley,Bicester
+2022-08-31,750000,OX27 0HH,D,N,F,6,,Swan Lane,Marsh Gibbon,Bicester
+2022-08-31,395000,OX27 0AB,S,Y,F,8,,Leonard Meadow,Marsh Gibbon,Bicester
+2022-08-26,318000,OX27 7PT,T,N,F,3,,The Crossway,Ardley,Bicester
+2022-08-19,734000,OX27 8AE,D,N,F,Blomfield House,,Trenchard Lane,Caversfield,Bicester
+2022-08-19,950500,OX27 7PD,D,N,F,Foxfields House,,,Ardley,Bicester
+2022-08-18,285000,OX27 8DZ,D,N,F,Sunnyside Bungalow,,Main Street,Fringford,Bicester
+2022-08-12,410000,OX27 8ES,D,N,F,The Old Cottage,,Main Street,Hethe,Bicester
+2022-08-12,1150000,OX27 7JZ,D,N,F,Stone Croft,,Foxhill Lane,Souldern,Bicester
+2022-08-11,135000,OX27 7QP,T,N,L,3,,Fewcott View,Fritwell,Bicester
+2022-08-05,300000,OX27 8TX,T,N,F,34,,Fairhaven Road,Caversfield,Bicester
+2022-08-05,275000,OX27 7PY,T,N,F,6,,Old School Lane,Fritwell,Bicester
+2022-07-29,270000,OX27 8UW,T,N,F,37,,Skimmingdish Lane,,Bicester
+2022-07-29,360000,OX27 8UD,S,N,F,21,,Elderfield Road,,Bicester
+2022-07-21,350000,OX27 8US,S,N,F,14,,Manzel Road,,Bicester
+2022-07-19,268000,OX27 8AE,F,N,L,Building 20,34,Trenchard Lane,Caversfield,Bicester
+2022-07-19,315000,OX27 7PD,T,N,F,3,,Exton Cottages,Ardley,Bicester
+2022-07-15,540000,OX27 8DG,T,N,F,5,,The Manor,Fringford,Bicester
+2022-07-12,750000,OX27 7LX,D,N,F,2,,Middleton Road,Bucknell,Bicester
+2022-07-11,425000,OX27 0BT,S,N,F,Cheshire Cottages,1,School Hill,Charndon,Bicester
+2022-07-06,910000,OX27 7LT,D,N,F,Garden House,,Bainton Road,Bucknell,Bicester
+2022-06-30,374075,OX27 8TZ,S,N,F,3,,Woodcote Road,,Bicester
+2022-06-30,340000,OX27 8AN,T,N,F,84,,Charlotte Avenue,,Bicester
+2022-06-27,720000,OX27 8DF,D,N,F,24,,Crosslands,Fringford,Bicester
+2022-06-24,325000,OX27 7QA,T,N,F,22,,Fewcott Road,Fritwell,Bicester
+2022-06-22,1350000,OX27 0ET,D,N,F,Old Stores House,,Church Street,Marsh Gibbon,Bicester
+2022-06-17,380000,OX27 8AN,T,N,F,102,,Charlotte Avenue,,Bicester
+2022-06-17,445000,OX27 8AB,T,N,F,1,,South Terrace,Caversfield,Bicester
+2022-05-27,253500,OX27 8TX,T,N,F,33,,Fairhaven Road,Caversfield,Bicester
+2022-05-27,268000,OX27 7JE,T,N,F,Above The Well Cottage,,The Hill,Souldern,Bicester
+2022-05-26,615000,OX27 8AH,T,N,F,The Officers Mess,21,Orchard Lane,Caversfield,Bicester
+2022-05-20,342000,OX27 7PW,D,N,F,20,,Orchard Road,Ardley,Bicester
+2022-05-17,265000,OX27 8US,T,N,F,5,,Manzel Road,,Bicester
+2022-05-09,355000,OX27 8BT,T,Y,F,16,,Brassica Terrace,,Bicester
+2022-05-09,390000,OX27 8BT,T,Y,F,14,,Brassica Terrace,,Bicester
+2022-05-06,290000,OX27 9AA,S,N,F,7,,Cherry Street,Stratton Audley,Bicester
+2022-05-06,390000,OX27 8BT,T,Y,F,18,,Brassica Terrace,,Bicester
+2022-05-06,193500,OX27 8AF,F,N,L,Building 42,8,The Parade,Caversfield,Bicester
+2022-05-06,445000,OX27 8AE,T,N,F,Building 20,6,Trenchard Lane,Caversfield,Bicester
+2022-04-29,473000,OX27 8BT,D,Y,F,4,,Brassica Terrace,,Bicester
+2022-04-29,480000,OX27 8BT,D,Y,F,2,,Brassica Terrace,,Bicester
+2022-04-28,380000,OX27 8BT,T,Y,F,8,,Brassica Terrace,,Bicester
+2022-04-28,395000,OX27 8BT,S,Y,F,6,,Brassica Terrace,,Bicester
+2022-04-28,355000,OX27 8BT,T,Y,F,12,,Brassica Terrace,,Bicester
+2022-04-28,337500,OX27 8BT,T,Y,F,10,,Brassica Terrace,,Bicester
+2022-04-28,950000,OX27 0EU,D,N,F,The Croft,,Bicester Road,Marsh Gibbon,Bicester
+2022-04-28,750000,OX27 0AB,D,Y,F,9,,Leonard Meadow,Marsh Gibbon,Bicester
+2022-04-27,324000,OX27 7AE,T,Y,F,4,,Covert Close,Fritwell,Bicester
+2022-04-25,795000,OX27 0HN,D,N,F,Harbourne,,Station Road,Marsh Gibbon,Bicester
+2022-04-21,395000,OX27 0AB,S,Y,F,7,,Leonard Meadow,Marsh Gibbon,Bicester
+2022-04-14,740000,OX27 0AB,D,Y,F,6,,Leonard Meadow,Marsh Gibbon,Bicester
+2022-04-08,260000,OX27 8TX,T,N,F,40,,Fairhaven Road,Caversfield,Bicester
+2022-04-08,330000,OX27 8AH,T,N,F,The Officers Mess,15,Orchard Lane,Caversfield,Bicester
+2022-03-31,420000,OX27 8TW,D,N,F,5,,Old School Close,Caversfield,Bicester
+2022-03-31,435000,OX27 8FD,S,N,F,28,,Truemper Grove,Caversfield,Bicester
+2022-03-31,352500,OX27 0AB,T,Y,F,5,,Leonard Meadow,Marsh Gibbon,Bicester
+2022-03-28,343000,OX27 8AS,T,N,F,49,,Charlotte Avenue,,Bicester
+2022-03-28,294000,OX27 8AD,T,N,F,Building 35,6,The Parade,Caversfield,Bicester
+2022-03-25,232500,OX27 8AE,F,N,L,Building 20,18,Trenchard Lane,Caversfield,Bicester
+2022-03-25,355000,OX27 0AB,T,Y,F,3,,Leonard Meadow,Marsh Gibbon,Bicester
+2022-03-24,375000,OX27 8AX,T,N,F,2,,Pippin Close,,Bicester
+2022-03-18,231500,OX27 8AH,F,N,L,The Officers Mess,1,Orchard Lane,Caversfield,Bicester
+2022-03-18,600000,OX27 7QW,D,N,F,"Holly Tree House, 10",,The Lane,Fritwell,Bicester
+2022-03-18,1135000,OX27 0BL,D,N,F,Hill Farm House,,,Charndon,Bicester
+2022-03-17,250000,OX27 8US,T,N,F,12,,Manzel Road,,Bicester
+2022-03-16,337500,OX27 8BQ,S,Y,F,16,,Lemongrass Road,,Bicester
+2022-03-16,1300000,OX27 7JZ,D,N,F,Sulthorn,,Foxhill Lane,Souldern,Bicester
+2022-03-15,370000,OX27 8BQ,S,Y,F,14,,Lemongrass Road,,Bicester
+2022-03-14,265000,OX27 8UB,T,N,F,10,,Woodcote Road,,Bicester
+2022-03-11,950000,OX27 9BT,S,N,F,Fox House,,Bicester Road,Stratton Audley,Bicester
+2022-03-11,480000,OX27 8SD,D,N,F,The Orchard Bungalow,,,Stoke Lyne,Bicester
+2022-03-11,342000,OX27 8BQ,T,Y,F,8,,Lemongrass Road,,Bicester
+2022-03-11,327500,OX27 8BQ,T,Y,F,12,,Lemongrass Road,,Bicester
+2022-03-11,620000,OX27 7QQ,S,N,F,45,,Forge Place,Fritwell,Bicester
+2022-03-09,505000,OX27 8RU,D,N,F,Forge Cottage,,,Stoke Lyne,Bicester
+2022-03-09,385000,OX27 8BQ,T,Y,F,10,,Lemongrass Road,,Bicester
+2022-03-09,320000,OX27 7AE,T,Y,F,1,,Covert Close,Fritwell,Bicester
+2022-03-04,1600000,OX27 7AA,D,N,F,Heath Farm,,,Fritwell,Bicester
+2022-02-25,935000,OX27 9BJ,D,N,F,Manor Cottage,,Mill Road,Stratton Audley,Bicester
+2022-02-25,315000,OX27 8AN,T,N,F,92,,Charlotte Avenue,,Bicester
+2022-02-25,450000,OX27 0HT,D,N,F,9,,Rectory Close,Marsh Gibbon,Bicester
+2022-02-25,335000,OX27 0AB,T,Y,F,4,,Leonard Meadow,Marsh Gibbon,Bicester
+2022-02-24,255000,OX27 7PZ,T,N,F,Old School Row,2,East Street,Fritwell,Bicester
+2022-02-21,196000,OX27 8AE,F,N,L,Building 23,9,Trenchard Lane,Caversfield,Bicester
+2022-02-18,275000,OX27 8TX,T,N,F,4,,Fairhaven Road,Caversfield,Bicester
+2022-02-18,513000,OX27 8FB,D,N,F,9,,Wilson Way,Caversfield,Bicester
+2022-02-11,310000,OX27 8AD,F,N,L,Building 35,5,The Parade,Caversfield,Bicester
+2022-02-08,391650,OX27 7QF,D,N,F,85,,East Street,Fritwell,Bicester
+2022-02-08,887500,OX27 7QF,D,N,F,62,,East Street,Fritwell,Bicester
+2022-02-08,455000,OX27 7QB,D,N,F,12,,Hodgson Close,Fritwell,Bicester
+2022-02-08,305000,OX27 7AE,T,Y,F,2,,Covert Close,Fritwell,Bicester
+2022-02-04,795000,OX27 0AY,D,Y,F,11,,Berry Close,Marsh Gibbon,Bicester
+2022-02-02,540000,OX27 7NX,D,N,F,Wychwood,,Water Lane,Fewcott,Bicester
+2022-01-28,450000,OX27 7JE,D,N,F,Hill Cottage,,The Hill,Souldern,Bicester
+2022-01-28,150000,OX27 0HH,F,N,L,18,,Swan Lane,Marsh Gibbon,Bicester
+2022-01-14,730000,OX27 0AY,D,Y,F,10,,Berry Close,Marsh Gibbon,Bicester
+2022-01-11,325000,OX27 8AF,T,N,F,The Cook House,2,The Parade,Caversfield,Bicester
+2022-01-11,385000,OX27 7AE,S,Y,F,6,,Covert Close,Fritwell,Bicester
+2022-01-07,590000,OX27 7PX,D,N,F,21,,East Street,Fritwell,Bicester
+2021-12-20,225000,OX27 8AE,F,N,L,Building 20,22,Trenchard Lane,Caversfield,Bicester
+2021-12-20,1150000,OX27 7JL,D,N,F,Tree Tops,,,Souldern,Bicester
+2021-12-17,112500,OX27 8AN,F,N,L,46,,Charlotte Avenue,,Bicester
+2021-12-17,411500,OX27 8AB,T,N,F,7,,South Terrace,Caversfield,Bicester
+2021-12-17,775000,OX27 0AY,D,Y,F,9,,Berry Close,Marsh Gibbon,Bicester
+2021-12-17,137500,OX27 0AR,F,N,L,4,,Piece Close,Marsh Gibbon,Bicester
+2021-12-15,620000,OX27 8ER,D,Y,F,8,,Chervil Grove,,Bicester
+2021-12-15,380000,OX27 7AE,S,Y,F,7,,Covert Close,Fritwell,Bicester
+2021-12-13,340500,OX27 8UB,S,N,F,35,,Woodcote Road,,Bicester
+2021-12-10,401000,OX27 8DP,S,N,F,Burcote House,,Main Street,Fringford,Bicester
+2021-12-10,695000,OX27 8DH,D,N,F,4,,Manor Road,Fringford,Bicester
+2021-12-10,420000,OX27 8AE,D,N,F,3,,Guard House Villas,Caversfield,Bicester
+2021-12-10,710000,OX27 7PX,S,N,F,"Bear Cottage, 39",,East Street,Fritwell,Bicester
+2021-12-10,390000,OX27 7AE,S,Y,F,8,,Covert Close,Fritwell,Bicester
+2021-12-09,662500,OX27 7NX,D,N,F,Aotea,,Water Lane,Fewcott,Bicester
+2021-12-09,650000,OX27 0AY,D,Y,F,8,,Berry Close,Marsh Gibbon,Bicester
+2021-12-03,620000,OX27 8ER,D,Y,F,2,,Chervil Grove,,Bicester
+2021-11-30,340000,OX27 8UE,T,N,F,23,,Elderfield Road,,Bicester
+2021-11-26,375000,OX27 8AN,T,N,F,54,,Charlotte Avenue,,Bicester
+2021-11-26,415000,OX27 7JP,S,N,F,The Cottage,,High Street,Souldern,Bicester
+2021-11-26,395000,OX27 0AY,T,Y,F,6,,Berry Close,Marsh Gibbon,Bicester
+2021-11-26,395000,OX27 0AY,T,Y,F,5,,Berry Close,Marsh Gibbon,Bicester
+2021-11-25,650000,OX27 0AY,D,Y,F,7,,Berry Close,Marsh Gibbon,Bicester
+2021-11-15,475000,OX27 9BP,T,N,F,3,,West Cottages,Stratton Audley,Bicester
+2021-11-15,490000,OX27 9BN,D,N,F,21,,Cavendish Place,Stratton Audley,Bicester
+2021-11-15,725000,OX27 0EU,D,N,F,Millstones,,Bicester Road,Marsh Gibbon,Bicester
+2021-11-12,355050,OX27 9AQ,S,N,F,Church Cottages,2,Church Street,Stratton Audley,Bicester
+2021-11-11,412500,OX27 0AY,T,Y,F,4,,Berry Close,Marsh Gibbon,Bicester
+2021-11-09,385000,OX27 7AE,S,Y,F,5,,Covert Close,Fritwell,Bicester
+2021-11-05,345500,OX27 8BZ,T,Y,F,8,,Fennel Street,,Bicester
+2021-11-04,492500,OX27 8FS,D,Y,F,21,,Tarragon Terrace,,Bicester
+2021-11-04,465000,OX27 8FS,D,Y,F,19,,Tarragon Terrace,,Bicester
+2021-11-04,377000,OX27 8BZ,T,Y,F,2,,Fennel Street,,Bicester
+2021-11-02,608000,OX27 8ER,D,Y,F,3,,Chervil Grove,,Bicester
+2021-10-29,230000,OX27 9AR,F,N,L,Stratton Audley Manor,17,Mill Road,Stratton Audley,Bicester
+2021-10-29,640000,OX27 8ER,D,Y,F,6,,Chervil Grove,,Bicester
+2021-10-29,489950,OX27 8ER,D,Y,F,4,,Chervil Grove,,Bicester
+2021-10-29,305000,OX27 8DW,S,N,F,17,,St Michaels Close,Fringford,Bicester
+2021-10-29,389950,OX27 8BZ,T,Y,F,6,,Fennel Street,,Bicester
+2021-10-29,377500,OX27 8BZ,T,Y,F,4,,Fennel Street,,Bicester
+2021-10-29,225000,OX27 8AB,F,N,L,Building 20,7,Orchard Square,Caversfield,Bicester
+2021-10-28,389950,OX27 8DA,S,Y,F,3,,Radish Close,,Bicester
+2021-10-28,392500,OX27 8DA,S,Y,F,1,,Radish Close,,Bicester
+2021-10-25,622500,OX27 8ER,D,Y,F,5,,Chervil Grove,,Bicester
+2021-10-17,700000,OX27 8AE,D,N,F,Scott House,,Trenchard Lane,Caversfield,Bicester
+2021-10-14,150000,OX27 7PX,F,N,L,44,,East Street,Fritwell,Bicester
+2021-09-30,395000,OX27 8AB,T,N,F,6,,West Terrace,Caversfield,Bicester
+2021-09-30,325000,OX27 0BL,D,N,F,Middle End Cottage,,,Charndon,Bicester
+2021-09-29,390000,OX27 8AB,T,N,F,5,,West Terrace,Caversfield,Bicester
+2021-09-29,475000,OX27 7QF,D,N,F,50,,East Street,Fritwell,Bicester
+2021-09-28,280000,OX27 7PT,T,N,F,2,,The Crossway,Ardley,Bicester
+2021-09-27,419000,OX27 0HT,S,N,F,21,,Rectory Close,Marsh Gibbon,Bicester
+2021-09-24,480000,OX27 8ER,D,Y,F,1,,Chervil Grove,,Bicester
+2021-09-24,235000,OX27 7QB,T,N,F,30,,Hodgson Close,Fritwell,Bicester
+2021-09-24,515000,OX27 0BS,D,N,F,4,,Spencer Gardens,Charndon,Bicester
+2021-09-20,385100,OX27 7PW,T,N,F,3,,Orchard Road,Ardley,Bicester
+2021-09-17,330000,OX27 7JE,S,N,F,Hillside,,The Hill,Souldern,Bicester
+2021-09-16,805000,OX27 8RL,D,N,F,Sycamore Cottage,,,Bainton,Bicester
+2021-09-15,575000,OX27 0HW,D,N,F,Trevane,,The College,Marsh Gibbon,Bicester
+2021-09-03,325000,OX27 8FD,S,N,F,6,,Truemper Grove,Caversfield,Bicester
+2021-08-27,260000,OX27 8HA,T,N,F,1,,Bainton Road,Hethe,Bicester
+2021-08-27,425750,OX27 8EZ,S,N,F,31,,Hardwick Road,Hethe,Bicester
+2021-08-27,230000,OX27 8AH,T,N,F,The Officers Mess,13,Orchard Lane,Caversfield,Bicester
+2021-08-27,195000,OX27 8AE,F,N,L,25,Flat 4,Trenchard Lane,Caversfield,Bicester
+2021-08-24,330000,OX27 7AF,T,N,F,1,,George And Dragon Close,Fritwell,Bicester
+2021-08-13,260000,OX27 9AR,F,N,L,Stratton Audley Manor,13,Mill Road,Stratton Audley,Bicester
+2021-08-12,695000,OX27 0JA,D,N,F,3,,Barclay Close,Charndon,Bicester
+2021-08-11,595000,OX27 7QF,S,N,F,66,,East Street,Fritwell,Bicester
+2021-08-09,477000,OX27 8EP,D,Y,F,2,,Haricot Vale Road,,Bicester
+2021-07-30,485000,OX27 8EP,D,Y,F,4,,Haricot Vale Road,,Bicester
+2021-07-26,397500,OX27 8AB,T,N,F,3,,South Terrace,Caversfield,Bicester
+2021-07-20,390000,OX27 8FS,T,Y,F,11,,Tarragon Terrace,,Bicester
+2021-07-12,341000,OX27 8BP,T,N,F,27,,Braeburn Avenue,,Bicester
+2021-07-09,386950,OX27 8BZ,T,Y,F,9,,Fennel Street,,Bicester
+2021-07-09,300000,OX27 7PA,S,N,F,6,,Ardley Road,Fewcott,Bicester
+2021-07-06,270000,OX27 8HD,T,N,F,1,,Main Street,Hethe,Bicester
+2021-06-30,285000,OX27 8UA,T,N,F,38,,Woodcote Road,,Bicester
+2021-06-30,261500,OX27 8TX,S,N,F,31,,Fairhaven Road,Caversfield,Bicester
+2021-06-30,365000,OX27 8DF,T,N,F,2,,Crosslands,Fringford,Bicester
+2021-06-30,317500,OX27 8AD,T,N,F,Building 32,9,The Parade,Caversfield,Bicester
+2021-06-30,550000,OX27 7QW,D,N,F,"Holly Tree House, 10",,The Lane,Fritwell,Bicester
+2021-06-28,600000,OX27 7QR,D,N,F,32,,North Street,Fritwell,Bicester
+2021-06-25,350000,OX27 8BZ,S,Y,F,3,,Fennel Street,,Bicester
+2021-06-25,337500,OX27 8AU,T,N,F,3,,Tayberry Close,,Bicester
+2021-06-24,595000,OX27 9AT,S,N,F,Green Barn Cottages,1,Stoke Lyne Road,Stratton Audley,Bicester
+2021-06-24,337500,OX27 8BZ,S,Y,F,1,,Fennel Street,,Bicester
+2021-06-23,210000,OX27 8AE,F,N,L,Building 25,6,Trenchard Lane,Caversfield,Bicester
+2021-06-21,510000,OX27 7NE,S,N,F,33,,Bicester Road,Bucknell,Bicester
+2021-06-21,495000,OX27 0GA,D,N,F,Ashbourne Cottages,1,Burnell Court,Marsh Gibbon,Bicester
+2021-06-18,415000,OX27 8TW,D,N,F,24,,Old School Close,Caversfield,Bicester
+2021-06-18,330000,OX27 8FS,T,Y,F,13,,Tarragon Terrace,,Bicester
+2021-06-17,645000,OX27 9AT,S,N,F,Green Barn Cottages,2,Stoke Lyne Road,Stratton Audley,Bicester
+2021-06-15,775000,OX27 9AS,D,N,F,The Stables,Plot 2,Launton Road,Stratton Audley,Bicester
+2021-06-11,381450,OX27 8FS,T,Y,F,15,,Tarragon Terrace,,Bicester
+2021-06-10,330000,OX27 9AZ,T,N,F,1,,Main Street,Poundon,Bicester
+2021-06-10,555000,OX27 8EW,S,N,F,1,,The Laurels,Fringford,Bicester
+2021-06-10,235000,OX27 7PX,F,N,L,28,Ground Floor Flat 2,East Street,Fritwell,Bicester
+2021-06-04,490000,OX27 9AG,D,N,F,Audley Coach House,,Church Street,Stratton Audley,Bicester
+2021-06-02,444000,OX27 9BP,T,N,F,West Cottage,2,Bicester Road,Stratton Audley,Bicester
+2021-05-28,240000,OX27 8UP,T,N,F,11,,Turnpike Road,,Bicester
+2021-05-28,377500,OX27 8BZ,T,Y,F,7,,Fennel Street,,Bicester
+2021-05-28,386950,OX27 8BZ,T,Y,F,5,,Fennel Street,,Bicester
+2021-05-28,344000,OX27 7AF,T,N,F,7,,George And Dragon Close,Fritwell,Bicester
+2021-05-28,306000,OX27 0HA,S,N,F,Sunnyside Farm,,West Edge,Marsh Gibbon,Bicester
+2021-05-21,385000,OX27 8FS,T,Y,F,1,,Tarragon Terrace,,Bicester
+2021-05-21,380000,OX27 8AH,T,N,F,The Officers Mess,5,Orchard Lane,Caversfield,Bicester
+2021-05-21,680000,OX27 7LB,D,N,F,Hackertys Way,,,Souldern,Bicester
+2021-05-19,310000,OX27 8AA,S,N,F,6,,Orchard Lane,Caversfield,Bicester
+2021-05-14,480000,OX27 8DS,S,N,F,5,,The Green,Fringford,Bicester
+2021-05-12,435000,OX27 0BL,D,N,F,Meadow View,,,Charndon,Bicester
+2021-05-10,515000,OX27 8DP,D,N,F,Shelswell,,Main Street,Fringford,Bicester
+2021-05-07,352500,OX27 9BZ,T,N,F,2,,Manor Mews,Stratton Audley,Bicester
+2021-05-07,238000,OX27 8UR,T,N,F,31,,Turnpike Road,,Bicester
+2021-05-07,995000,OX27 8RE,S,N,F,Brashfield House,The Bothy,,Caversfield,Bicester
+2021-05-07,308000,OX27 7AF,T,N,F,2,,George And Dragon Close,Fritwell,Bicester
+2021-05-05,323000,OX27 9AA,T,N,F,13,,Cherry Street,Stratton Audley,Bicester
+2021-05-04,475000,OX27 8DE,D,Y,F,6,,Sage Street,,Bicester
+2021-04-30,390000,OX27 8FS,D,Y,F,9,,Tarragon Terrace,,Bicester
+2021-04-30,390000,OX27 8FS,S,Y,F,7,,Tarragon Terrace,,Bicester
+2021-04-30,345000,OX27 8FS,T,Y,F,5,,Tarragon Terrace,,Bicester
+2021-04-30,341500,OX27 8FS,T,Y,F,3,,Tarragon Terrace,,Bicester
+2021-04-30,237000,OX27 8AE,T,N,F,Building 20,2,Trenchard Lane,Caversfield,Bicester
+2021-04-30,345000,OX27 7AF,T,N,F,6,,George And Dragon Close,Fritwell,Bicester
+2021-04-23,230000,OX27 9AR,F,N,L,Stratton Audley Manor,21,Mill Road,Stratton Audley,Bicester
+2021-04-23,285000,OX27 7PW,D,N,F,9,,Orchard Road,Ardley,Bicester
+2021-04-19,475000,OX27 0HT,S,N,F,28,,Rectory Close,Marsh Gibbon,Bicester
+2021-04-19,400000,OX27 0HT,D,N,F,14,,Rectory Close,Marsh Gibbon,Bicester
+2021-04-15,570000,OX27 8DW,D,N,F,10A,,St Michaels Close,Fringford,Bicester
+2021-04-13,247500,OX27 8UR,T,N,F,33,,Turnpike Road,,Bicester
+2021-04-08,492500,OX27 8ES,T,N,F,Holly Cottage,,Main Street,Hethe,Bicester
+2021-04-08,260000,OX27 7PY,T,N,F,11,,Old School Lane,Fritwell,Bicester
+2021-04-06,230000,OX27 0HR,T,N,F,8,,Millfield Close,Marsh Gibbon,Bicester
+2021-04-01,252500,OX27 8TX,S,N,F,8,,Fairhaven Road,Caversfield,Bicester
+2021-04-01,275000,OX27 7JP,T,N,F,Ryleens,,High Street,Souldern,Bicester
+2021-03-30,210000,OX27 9AR,F,N,L,Stratton Audley Manor,19,Mill Road,Stratton Audley,Bicester
+2021-03-29,367500,OX27 8AS,T,N,F,51,,Charlotte Avenue,,Bicester
+2021-03-29,290000,OX27 0AF,S,N,F,17,,Little Marsh Road,Marsh Gibbon,Bicester
+2021-03-26,520000,OX27 9BB,D,N,F,Fieldside House,,Main Street,Poundon,Bicester
+2021-03-26,450000,OX27 8FG,D,N,F,31,,Montgomery Road,Caversfield,Bicester
+2021-03-26,470000,OX27 8EP,D,Y,F,6,,Haricot Vale Road,,Bicester
+2021-03-26,347500,OX27 8BQ,T,Y,F,15,,Lemongrass Road,,Bicester
+2021-03-26,339500,OX27 8BQ,S,Y,F,13,,Lemongrass Road,,Bicester
+2021-03-26,260000,OX27 7QB,T,N,F,6,,Hodgson Close,Fritwell,Bicester
+2021-03-25,292500,OX27 9AA,T,N,F,15,,Cherry Street,Stratton Audley,Bicester
+2021-03-25,385000,OX27 8RS,D,N,F,Swift House,The Lodge,,Stoke Lyne,Bicester
+2021-03-25,490000,OX27 7SQ,D,N,F,Medkre,,,Baynards Green,Bicester
+2021-03-25,565000,OX27 7NX,D,N,F,Villa Fiorita,,Water Lane,Fewcott,Bicester
+2021-03-24,247500,OX27 9DA,D,N,F,1,,The Limes,Stratton Audley,Bicester
+2021-03-24,690000,OX27 7PX,D,N,F,5,,East Street,Fritwell,Bicester
+2021-03-22,250000,OX27 8TY,T,N,F,53,,Fairhaven Road,Caversfield,Bicester
+2021-03-22,835000,OX27 7HW,S,N,F,The Dairy Shed,,Ardley Road,Bucknell,Bicester
+2021-03-22,475000,OX27 0BS,D,N,F,3,,Spencer Gardens,Charndon,Bicester
+2021-03-19,233000,OX27 8UB,T,N,F,16,,Woodcote Road,,Bicester
+2021-03-19,476800,OX27 8EP,D,Y,F,8,,Haricot Vale Road,,Bicester
+2021-03-19,385000,OX27 8DZ,S,N,F,Sunnyside Cottage,,Main Street,Fringford,Bicester
+2021-03-15,685000,OX27 7QF,S,N,F,88,,East Street,Fritwell,Bicester
+2021-03-12,295000,OX27 8EX,S,N,F,2,,The Terrace,Hethe,Bicester
+2021-03-12,380000,OX27 8BQ,T,Y,F,7,,Lemongrass Road,,Bicester
+2021-03-12,337000,OX27 7LT,T,N,F,14,,Bainton Road,Bucknell,Bicester
+2021-03-12,335000,OX27 7AF,T,N,F,4,,George And Dragon Close,Fritwell,Bicester
+2021-03-12,750500,OX27 0HB,D,N,F,Orchard Cottage,,Whales Lane,Marsh Gibbon,Bicester
+2021-03-11,450000,OX27 7QN,D,N,F,Corner Cottage,,Mays Close,Fritwell,Bicester
+2021-03-10,330000,OX27 8BQ,T,Y,F,9,,Lemongrass Road,,Bicester
+2021-03-10,378500,OX27 8BQ,T,Y,F,11,,Lemongrass Road,,Bicester
+2021-03-09,505000,OX27 7JU,D,N,F,Keepers Cottage,,Bates Lane,Souldern,Bicester
+2021-03-05,600000,OX27 8FR,D,Y,F,6,,Autumn Close,,Bicester
+2021-02-26,630000,OX27 7LA,D,N,F,St Joseph's,,,Souldern,Bicester
+2021-02-23,375000,OX27 8FG,S,N,F,22,,Montgomery Road,Caversfield,Bicester
+2021-02-19,465000,OX27 8FR,D,Y,F,4,,Autumn Close,,Bicester
+2021-02-17,247500,OX27 7QB,T,N,F,34,,Hodgson Close,Fritwell,Bicester
+2021-02-17,350000,OX27 7QB,D,N,F,16,,Hodgson Close,Fritwell,Bicester
+2021-02-17,439000,OX27 0BS,D,N,F,2,,Spencer Gardens,Charndon,Bicester
+2021-02-15,300000,OX27 8BB,T,N,F,2,,Orchard Walk,,Bicester
+2021-02-12,430000,OX27 8TW,D,N,F,20,,Old School Close,Caversfield,Bicester
+2021-02-11,503000,OX27 7NX,D,N,F,Brookside,,Water Lane,Fewcott,Bicester
+2021-02-09,390000,OX27 7PL,D,N,F,7,,Russett Road,Ardley,Bicester
+2021-02-09,1112500,OX27 0HJ,D,N,F,Old Red Lion,,Castle Street,Marsh Gibbon,Bicester
+2021-02-05,312500,OX27 8EA,S,N,F,22,,Wise Crescent,Fringford,Bicester
+2021-02-01,240000,OX27 9AR,F,N,L,Stratton Audley Manor,18,Mill Road,Stratton Audley,Bicester
+2021-01-29,435000,OX27 7QF,D,N,F,67,,East Street,Fritwell,Bicester
+2021-01-29,315000,OX27 7PD,S,N,F,2,,Exton Cottages,Ardley,Bicester
+2021-01-29,343000,OX27 7AF,T,N,F,5,,George And Dragon Close,Fritwell,Bicester
+2021-01-22,1100000,OX27 8RL,D,N,F,Bainton Farmhouse,,,Bainton,Bicester
+2021-01-22,650000,OX27 7QD,D,N,F,1,,Town Well End,Fritwell,Bicester
+2021-01-22,850000,OX27 7JD,D,N,F,Magpie Cottage,,,Souldern,Bicester
+2021-01-22,850000,OX27 7JD,D,N,F,Magpie Cottage,,,Souldern,Bicester
+2021-01-15,450000,OX27 0HT,D,N,F,24,,Rectory Close,Marsh Gibbon,Bicester
+2021-01-15,663000,OX27 0ET,D,N,F,Ware Farm House,,Church Street,Marsh Gibbon,Bicester
+2021-01-06,440000,OX27 8DE,D,Y,F,10,,Sage Street,,Bicester
+2021-01-02,317500,OX27 7PA,S,N,F,2B,,Ardley Road,Fewcott,Bicester
