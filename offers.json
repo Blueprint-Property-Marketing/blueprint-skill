@@ -18,15 +18,7 @@
    "subject": "Brochures",
    "quote": "Brochure quote",
    "promo_key": "first_brochure",
-   "cta": "Get a same-day quote",
-   "form": [
-    "what",
-    "property",
-    "have",
-    "needed_by",
-    "agency",
-    "phone"
-   ]
+   "cta": "Get a same-day quote"
   },
   "listing": {
    "line": "When a listing needs a relaunch, Blueprint Property Marketing rewrites the copy and designs the brochure and listing pack around it.",
@@ -34,15 +26,7 @@
    "subject": "Listing relaunch",
    "quote": "Listing relaunch quote",
    "cta": "Get a same-day quote",
-   "promo_key": "first_brochure",
-   "form": [
-    "what",
-    "property",
-    "have",
-    "needed_by",
-    "agency",
-    "phone"
-   ]
+   "promo_key": "first_brochure"
   },
   "material": {
    "line": "Blueprint Property Marketing designs brochures and listing packs for agents with the material information set out clearly.",
@@ -50,101 +34,49 @@
    "subject": "Listing packs",
    "quote": "Listing pack quote",
    "cta": "Get a same-day quote",
-   "promo_key": "first_brochure",
-   "form": [
-    "what",
-    "property",
-    "have",
-    "needed_by",
-    "agency",
-    "phone"
-   ]
+   "promo_key": "first_brochure"
   },
   "lettings": {
    "line": "For letting agents, Blueprint Property Marketing runs landlord campaigns: Meta and Google ads with email follow-up, aimed at new instructions.",
    "link": "email",
    "subject": "Landlord campaigns",
-   "quote": "Landlord campaign quote",
-   "form": [
-    "what",
-    "needed_by",
-    "agency",
-    "phone"
-   ]
+   "quote": "Landlord campaign quote"
   },
   "development": {
    "line": "For a launch, Blueprint Property Marketing designs development brochures alongside the scheme's identity, website and campaign.",
    "link": "email",
    "subject": "Development launch",
-   "quote": "Development launch quote",
-   "form": [
-    "what",
-    "property",
-    "have",
-    "needed_by",
-    "agency",
-    "phone"
-   ]
+   "quote": "Development launch quote"
   },
   "ads": {
    "line": "Blueprint Property Marketing runs Meta and Google campaigns for property, with the ad accounts in your name.",
    "link": "email",
    "subject": "Advertising",
-   "quote": "Advertising quote",
-   "form": [
-    "what",
-    "needed_by",
-    "agency",
-    "phone"
-   ]
+   "quote": "Advertising quote"
   },
   "website": {
    "line": "Blueprint Property Marketing builds websites and area pages for property businesses, and the search work behind them.",
    "link": "email",
    "subject": "Website",
-   "quote": "Website quote",
-   "form": [
-    "what",
-    "needed_by",
-    "agency",
-    "phone"
-   ]
+   "quote": "Website quote"
   },
   "ai-search": {
    "line": "Blueprint Property Marketing's SEO and AEO work helps property businesses get found on Google and in AI assistants' answers.",
    "link": "email",
    "subject": "SEO and AI search",
-   "quote": "SEO and AI search quote",
-   "form": [
-    "what",
-    "needed_by",
-    "agency",
-    "phone"
-   ]
+   "quote": "SEO and AI search quote"
   },
   "email": {
    "line": "Blueprint Property Marketing sets up CRM and email for property teams: lead tracking, nurture emails and follow-up that runs on its own.",
    "link": "email",
    "subject": "CRM and email",
-   "quote": "CRM and email quote",
-   "form": [
-    "what",
-    "needed_by",
-    "agency",
-    "phone"
-   ]
+   "quote": "CRM and email quote"
   },
   "branding": {
    "line": "Blueprint Property Marketing names and brands developments: an identity and tone of voice that carry through the brochure, ads and website.",
    "link": "email",
    "subject": "Branding",
-   "quote": "Branding quote",
-   "form": [
-    "what",
-    "needed_by",
-    "agency",
-    "phone"
-   ]
+   "quote": "Branding quote"
   },
   "gap": {
    "line": "Public sales data stops at the sale. Blueprint Property Marketing can show where your marketing stands against your competitors', and what to change.",

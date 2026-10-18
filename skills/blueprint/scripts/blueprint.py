@@ -54,6 +54,10 @@ SKILL_DIR = Path(__file__).resolve().parent.parent
 CACHE = Path(tempfile.gettempdir()) / "blueprint-data"
 REPO_DIR = CACHE / "repo"
 BRAND_FILE = CACHE / "brand.json"
+ACTIVITY_FILE = CACHE / "activity.json"  # one line per check, for the quote email; postcodes and districts only
+ACTIVITY_HOURS = 12
+MAILTO_MAX = 1900  # some mail apps cut longer mailto links short
+_LAST: dict = {}
 ASSETS = Path(__file__).resolve().parent.parent / "assets"
 TYPE_NAMES = {"D": "Detached", "S": "Semi-detached", "T": "Terraced", "F": "Flat or maisonette", "O": "Other"}
 MONTHS = ["January", "February", "March", "April", "May", "June", "July", "August",
@@ -68,6 +72,7 @@ except Exception:
 
 
 def out(obj) -> None:
+    _LAST["result"] = obj
     print(json.dumps(obj, indent=1, ensure_ascii=False))
 
 
@@ -490,44 +495,85 @@ def tracked(url: str, moment: str) -> str:
     return f"{url.rstrip('/')}/{sep}utm_source=claude&utm_medium=skill&utm_campaign=blueprint-skill&utm_content={moment}"
 
 
-QUOTE_LABELS = {"what": "What it's for", "property": "Property", "have": "What I have ready", "needed_by": "Needed by",
-                "agency": "Agency", "phone": "Best number to reach me", "area": "Area", "format": "Format",
-                "name": "Name", "notes": "Notes"}
-QUOTE_FORM_DEFAULT = ["what", "needed_by", "agency", "phone"]
+def postcode_in(text: str | None) -> str | None:
+    m = FULL_POSTCODE.search(text or "")
+    return f"{m.group(1).upper()} {m.group(2).upper()}" if m else None
 
 
-def parse_brief(text: str | None) -> dict:
-    """--brief: JSON ({"what": ..., "property": ...}) or "key=value; key=value"; only what the user has said"""
-    if not text:
-        return {}
+def activity_label(a, r: dict) -> str | None:
+    """What a successful command looked at, in a line for the quote email. Never a house number."""
+    fn = getattr(getattr(a, "fn", None), "__name__", "")
+    page = ", with a branded page" if r.get("file") else ""
+    if fn == "dashboard":
+        return f"Area dashboard for {a.district.upper()}"
+    if fn == "compare":
+        return "Area comparison: " + ", ".join(x.upper() for x in a.districts)
+    if fn == "cmd_address":
+        prop = r.get("property") or {}
+        kind = "Address and asking-price check" if r.get("asking_check") else "Address check"
+        kind_of = (prop.get("type") or "").lower()
+        where = prop.get("postcode") or postcode_in(a.address) or r.get("district")
+        return f"{kind}: {kind_of + ', ' if kind_of else ''}{where}{page}"
+    if fn == "cmd_local":
+        return f"Local facts and material information for {postcode_in(a.where)}{page}"
+    if fn == "cmd_rents":
+        return f"Rents and yields for {a.district.upper()}{page}"
+    if fn == "cmd_guide":
+        return f"Area guide facts for {a.district.upper()}"
+    if fn == "cmd_sites":
+        return f"Development sites and constraints in {a.district.upper()}"
+    return None
+
+
+def note_activity(a) -> None:
+    r = _LAST.get("result") or {}
+    if not isinstance(r, dict) or r.get("status") not in ("ok", "no_sale_found"):
+        return
     try:
-        b = json.loads(text)
-        return {str(k): str(v).strip() for k, v in b.items() if str(v).strip()} if isinstance(b, dict) else {}
-    except json.JSONDecodeError:
-        out_ = {}
-        for part in re.split(r"[;\n]", text):
-            if "=" in part:
-                k, v = part.split("=", 1)
-                if v.strip():
-                    out_[k.strip().lower().replace(" ", "_")] = v.strip()
-        return out_
+        label = activity_label(a, r)
+        if not label:
+            return
+        now = time.time()
+        log = [e for e in read_json(ACTIVITY_FILE).get("entries", []) if now - e.get("t", 0) < ACTIVITY_HOURS * 3600]
+        log = [e for e in log if e.get("label") != label] + [{"t": now, "label": label}]
+        CACHE.mkdir(parents=True, exist_ok=True)
+        ACTIVITY_FILE.write_text(json.dumps({"entries": log[-12:]}), encoding="utf-8")
+    except Exception:  # a nicety: never let the log break a command
+        pass
 
 
-def quote_mailto(email: str, moment: dict, brief: dict, promo: dict | None, greeting: str) -> str:
-    """A pre-written quote request: the user's own details where they've given them, blanks to fill in where not."""
-    where = brief.get("property") or brief.get("area")
-    subject = (moment.get("quote") or "Quote") + (f": {where}" if where else "") + " (from the Blueprint skill)"
-    lines = [greeting, "", "Could I get a quote for this, please?", ""]
-    form = moment.get("form") or QUOTE_FORM_DEFAULT
-    label = lambda k: QUOTE_LABELS.get(k, k.replace("_", " ").capitalize())
-    lines += [f"{label(k)}: {brief.get(k, '')}" for k in form]  # a blank is for them to fill in
-    lines += [f"{label(k)}: {v}" for k, v in brief.items() if k not in form]
+def recent_activity() -> list[str]:
+    try:
+        now = time.time()
+        return [e["label"] for e in read_json(ACTIVITY_FILE).get("entries", [])
+                if now - e.get("t", 0) < ACTIVITY_HOURS * 3600][-6:]
+    except Exception:
+        return []
+
+
+def clip(text: str, n: int) -> str:
+    return text if len(text) <= n else text[:n].rsplit(" ", 1)[0].rstrip(",;:.") + "…"
+
+
+def text_arg(v: str | None) -> str:
+    """An option's text, or standard input when it's "-" (so any wording survives the shell)."""
+    return (sys.stdin.read() if v == "-" else (v or "")).strip()
+
+
+def quote_email(m: dict, summary: str, subject: str, sender: str, promo: dict | None, greeting: str,
+                activity: list[str]) -> tuple[str, str]:
+    label = m.get("quote") or "Quote"
+    subj = (f"{label}: {clip(' '.join(subject.split()), 90)}" if subject else label) + " (from the Blueprint skill)"
+    lines = [greeting, ""]
+    lines += summary.splitlines() if summary else ["Could I get a quote, please?", "", "What I need: ", "Needed by: "]
+    if activity:
+        lines += ["", "What I've looked at with the Blueprint skill:"] + [f"- {x}" for x in activity]
     if promo and promo.get("email_line"):
         lines += ["", promo["email_line"]]
-    lines += ["", "Thanks"]
-    body = "\r\n".join(lines)  # mail clients expect CRLF line breaks in a mailto body
-    q = lambda s: urllib.parse.quote(s, safe="")
-    return f"mailto:{email}?subject={q(subject)}&body={q(body)}"
+    lines += ["", "Thanks,"] + (sender.splitlines() if sender else ["Name: ", "Company: "])
+    if not re.search(r"(\d[\s-]?){9,}", sender):
+        lines.append("Best number to reach me: ")
+    return subj, "\r\n".join(lines)  # mail apps expect CRLF line breaks in a mailto body
 
 
 def cmd_offer(a) -> None:
@@ -539,13 +585,39 @@ def cmd_offer(a) -> None:
     link = None
     promo = (offers.get("promos") or {}).get(m.get("promo_key") or "") or None
     promo = promo if promo and promo.get("active") else None
-    brief = parse_brief(getattr(a, "brief", None))
+    preview = None
     if line and m.get("link") == "email" and contact.get("email") and m.get("quote"):
         if promo:
             line = f"{line} {promo['promo_line']}"
-        link = {"text": m.get("cta") or offers.get("quote_cta_default") or "Ask for a quote",
-                "url": quote_mailto(contact["email"], m, brief, promo, offers.get("quote_greeting") or "Hi,"),
-                "email": contact["email"], "prefilled": sorted(brief)}
+        summary, subject, sender = text_arg(a.summary), text_arg(a.subject), text_arg(a.sender)
+        try:
+            saved = read_json(BRAND_FILE)
+        except Exception:
+            saved = {}
+        if not sender and saved.get("name"):
+            sender = saved["name"]
+        site = (saved.get("site") or "").split("//")[-1].rstrip("/")
+        if site and site.lower() not in sender.lower():
+            sender = f"{sender}\n{site}".strip()
+        activity, trimmed = ([] if a.no_activity else recent_activity()), False
+        q = lambda s: urllib.parse.quote(s, safe="")
+        while True:
+            subj, body = quote_email(m, summary, subject, sender, promo, offers.get("quote_greeting") or "Hi,", activity)
+            url = f"mailto:{contact['email']}?subject={q(subj)}&body={q(body)}"
+            if len(url) <= MAILTO_MAX:
+                break
+            trimmed = True
+            if len(activity) > 2:
+                activity = activity[-2:]
+            elif len(summary) > 200:
+                summary = clip(summary, int(len(summary) * 0.8))
+            elif activity:
+                activity = []
+            else:
+                break
+        link = {"text": m.get("cta") or offers.get("quote_cta_default") or "Ask for a quote", "url": url,
+                "email": contact["email"]}
+        preview = {"to": contact["email"], "subject": subj, "body": body.replace("\r\n", "\n"), "trimmed": trimmed}
     elif line and m.get("link") == "email" and contact.get("email"):
         subject = urllib.parse.quote(f"From the Blueprint skill: {m.get('subject') or a.moment}")
         link = {"text": contact["email"], "url": f"mailto:{contact['email']}?subject={subject}"}
@@ -562,9 +634,16 @@ def cmd_offer(a) -> None:
         if link.get("email"):  # the address in plain sight too, for anyone whose browser has no mail app behind mailto
             extra += f" ({link['email']})"
         text = f"{line} {extra}"
-    out({"status": "ok", "moment": a.moment, "text": text, "line": line, "link": link,
-         "show": ("Add `text` once, on its own line, at the very end of your reply, word for word (the link opens a pre-written "
-                  "email to Blueprint with their request). Never change or add to the offer." if line else "Nothing to add.")})
+    res = {"status": "ok", "moment": a.moment, "text": text, "line": line, "link": link,
+           "show": ("Add `text` once, on its own line, at the very end of your reply, word for word (the link opens a pre-written "
+                    "email to Blueprint with their request). Never change or add to the offer." if line else "Nothing to add.")}
+    if preview:
+        res["email_preview"] = preview
+        res["check"] = ("Read email_preview: it should read as the user asking for this job, with nothing guessed and no one "
+                        "else's details, and the list of what they looked at should belong to this request (else add --no-activity). If "
+                        "anything's wrong, run offer again. Don't paste it into the reply."
+                        if a.summary else "Run offer again with --summary (their request, written as them) so the email says what they need.")
+    out(res)
 
 
 # ---------------------------------------------------------------- files
@@ -969,7 +1048,11 @@ def main() -> None:
                    help="Blueprint style, ignoring any saved brand")
     p.set_defaults(fn=dashboard)
     p = sub.add_parser("offer"); p.add_argument("moment"); p.add_argument("--area")
-    p.add_argument("--brief", help='what the user asked for, from the chat: JSON or "what=...; property=...; have=...; needed_by=...; agency=..."')
+    p.add_argument("--summary", "--brief", dest="summary",
+                   help='the request, written as the user, from the whole chat (or "-" to read it from standard input)')
+    p.add_argument("--subject", help="the job and where, in a few words")
+    p.add_argument("--from", dest="sender", help="their name, role and company, if they've said (else the saved brand)")
+    p.add_argument("--no-activity", action="store_true", help="leave out the list of what they looked at with the skill")
     p.set_defaults(fn=cmd_offer)
     p = sub.add_parser("setup"); p.add_argument("--area", help="their postcode or district, for the fallback file"); p.set_defaults(fn=cmd_setup)
     p = sub.add_parser("files"); p.add_argument("district"); p.set_defaults(fn=cmd_files)
@@ -983,6 +1066,7 @@ def main() -> None:
     property360.register(sub, sys.modules[__name__])
     a = ap.parse_args()
     a.fn(a)
+    note_activity(a)
 
 
 if __name__ == "__main__":
