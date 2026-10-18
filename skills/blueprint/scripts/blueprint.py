@@ -1,5 +1,6 @@
 """Blueprint: local property data for UK estate agents and developers, inside Claude.
 
+    python blueprint.py setup  [--area <postcode>]      what the skill needs, what to turn on, and who to ask for help
     python blueprint.py fetch  "<any address, postcode, district or place>"   get that area's data
     python blueprint.py areas [--search S]     coverage summary, or districts matching a place name
     python blueprint.py stats  <district>      headline figures for a market update (JSON)
@@ -89,21 +90,33 @@ def git(*args: str, cwd: Path | None = None) -> subprocess.CompletedProcess:
 # ---------------------------------------------------------------- fetch
 
 
-def ensure_clone() -> None:
+def area_file(text: str | None) -> dict:
+    """The fallback file for an address or district: blueprint-areas-<postcode letters>.zip, with its direct link."""
+    base = repo_url().removesuffix(".git").rstrip("/")
+    m = FULL_POSTCODE.search(text or "") or DISTRICT_TOKEN.search(text or "")
+    letters = re.match(r"[A-Z]+", m.group(1).upper()).group(0) if m else None
+    if not letters:
+        return {"file": None, "download": f"{base}/releases/latest",
+                "say": "Ask for their postcode, then give the link to the file for its letters (M33 -> blueprint-areas-M.zip)."}
+    name = f"blueprint-areas-{letters}.zip"
+    return {"file": name, "download": f"{base}/releases/latest/download/{name}",
+            "say": f"Give the user this exact link to download {name}, ask them to attach it here (it stays zipped), then run "
+                   f"fetch <district> --zip <path of the attached file>. Use this file name exactly; don't invent another."}
+
+
+def ensure_clone(hint: str | None = None) -> None:
     """Shallow, blob-less, sparse clone: only root files (areas.json, offers.json) until an area is added."""
     fresh = (REPO_DIR / ".git").exists() and time.time() - (REPO_DIR / ".git").stat().st_mtime < 3600
     if fresh:
         return
     if shutil.which("git") is None:
-        fail("offline", "git is not available here.", hint="Attach the area ZIP from the Blueprint skill's Releases page.")
+        fail("offline", "git is not available here.", **area_file(hint))
     shutil.rmtree(REPO_DIR, ignore_errors=True)
     CACHE.mkdir(parents=True, exist_ok=True)
     r = git("clone", "--depth", "1", "--filter=blob:none", "--sparse", repo_url(), str(REPO_DIR))
     if r.returncode != 0:
-        fail("offline", "Could not reach the Blueprint area data on GitHub.",
-             detail=r.stderr.strip()[-400:],
-             hint="Download the area ZIP from the Blueprint skill's Releases page, attach it to the chat, then run "
-                  "fetch <district> --zip <path>.")
+        fail("offline", "Could not reach the Blueprint area data on GitHub from here (this chat's network access is off or "
+                        "limited).", detail=r.stderr.strip()[-300:], **area_file(hint))
 
 
 def load_index() -> dict:
@@ -167,8 +180,7 @@ def fetch_from_zip(district: str, zip_path: str) -> Path:
             elif len(parts) >= 2 and parts[-2].lower() == want and name in AREA_FILES:
                 (dest / name).write_bytes(z.read(member))
     if not (dest / "meta.json").exists():
-        fail("error", f"That file doesn't hold {district}. Use the postcode-area file that starts with the same "
-                      f"letters (for M33, blueprint-areas-M.zip).")
+        fail("error", f"That file doesn't hold {district}.", **area_file(district))
     return dest
 
 
@@ -179,7 +191,7 @@ def cmd_fetch(a) -> None:
         d = fetch_from_zip(district, a.zip)
         out({"status": "ok", "district": district, "source": "zip", "meta": read_json(d / "meta.json")})
         return
-    ensure_clone()
+    ensure_clone(a.area)
     index = load_index()
     district, candidates = resolve(a.area, index)
     if not district and candidates:
@@ -204,7 +216,7 @@ def cmd_fetch(a) -> None:
         sys.exit(1)
     r = git("sparse-checkout", "add", f"areas/{district.lower()}", cwd=REPO_DIR)
     if r.returncode != 0:
-        fail("offline", "Could not download that area's files.", detail=r.stderr.strip()[-400:])
+        fail("offline", "Could not download that area's files.", detail=r.stderr.strip()[-300:], **area_file(district))
     meta = read_json(REPO_DIR / "areas" / district.lower() / "meta.json")
     out({"status": "ok", "district": district, "source": "github", "meta": meta})
 
@@ -478,6 +490,46 @@ def tracked(url: str, moment: str) -> str:
     return f"{url.rstrip('/')}/{sep}utm_source=claude&utm_medium=skill&utm_campaign=blueprint-skill&utm_content={moment}"
 
 
+QUOTE_LABELS = {"what": "What it's for", "property": "Property", "have": "What I have ready", "needed_by": "Needed by",
+                "agency": "Agency", "phone": "Best number to reach me", "area": "Area", "format": "Format",
+                "name": "Name", "notes": "Notes"}
+QUOTE_FORM_DEFAULT = ["what", "needed_by", "agency", "phone"]
+
+
+def parse_brief(text: str | None) -> dict:
+    """--brief: JSON ({"what": ..., "property": ...}) or "key=value; key=value"; only what the user has said"""
+    if not text:
+        return {}
+    try:
+        b = json.loads(text)
+        return {str(k): str(v).strip() for k, v in b.items() if str(v).strip()} if isinstance(b, dict) else {}
+    except json.JSONDecodeError:
+        out_ = {}
+        for part in re.split(r"[;\n]", text):
+            if "=" in part:
+                k, v = part.split("=", 1)
+                if v.strip():
+                    out_[k.strip().lower().replace(" ", "_")] = v.strip()
+        return out_
+
+
+def quote_mailto(email: str, moment: dict, brief: dict, promo: dict | None, greeting: str) -> str:
+    """A pre-written quote request: the user's own details where they've given them, blanks to fill in where not."""
+    where = brief.get("property") or brief.get("area")
+    subject = (moment.get("quote") or "Quote") + (f": {where}" if where else "") + " (from the Blueprint skill)"
+    lines = [greeting, "", "Could I get a quote for this, please?", ""]
+    form = moment.get("form") or QUOTE_FORM_DEFAULT
+    label = lambda k: QUOTE_LABELS.get(k, k.replace("_", " ").capitalize())
+    lines += [f"{label(k)}: {brief.get(k, '')}" for k in form]  # a blank is for them to fill in
+    lines += [f"{label(k)}: {v}" for k, v in brief.items() if k not in form]
+    if promo and promo.get("email_line"):
+        lines += ["", promo["email_line"]]
+    lines += ["", "Thanks"]
+    body = "\r\n".join(lines)  # mail clients expect CRLF line breaks in a mailto body
+    q = lambda s: urllib.parse.quote(s, safe="")
+    return f"mailto:{email}?subject={q(subject)}&body={q(body)}"
+
+
 def cmd_offer(a) -> None:
     offers = load_offers()
     moments = offers.get("moments") or {}
@@ -485,7 +537,16 @@ def cmd_offer(a) -> None:
     line = (m.get("line") or (offers.get("plays") or {}).get(a.moment, "")).replace("{area}", a.area or "your area")
     contact = offers.get("contact") or {}
     link = None
-    if line and m.get("link") == "email" and contact.get("email"):
+    promo = (offers.get("promos") or {}).get(m.get("promo_key") or "") or None
+    promo = promo if promo and promo.get("active") else None
+    brief = parse_brief(getattr(a, "brief", None))
+    if line and m.get("link") == "email" and contact.get("email") and m.get("quote"):
+        if promo:
+            line = f"{line} {promo['promo_line']}"
+        link = {"text": m.get("cta") or offers.get("quote_cta_default") or "Ask for a quote",
+                "url": quote_mailto(contact["email"], m, brief, promo, offers.get("quote_greeting") or "Hi,"),
+                "email": contact["email"], "prefilled": sorted(brief)}
+    elif line and m.get("link") == "email" and contact.get("email"):
         subject = urllib.parse.quote(f"From the Blueprint skill: {m.get('subject') or a.moment}")
         link = {"text": contact["email"], "url": f"mailto:{contact['email']}?subject={subject}"}
     elif line and m.get("link") == "site" and contact.get("site"):
@@ -500,8 +561,8 @@ def cmd_offer(a) -> None:
         extra = " · ".join(f"[{x['text']}]({x['url']})" for x in link.get("all", [link]))
         text = f"{line} {extra}"
     out({"status": "ok", "moment": a.moment, "text": text, "line": line, "link": link,
-         "show": "Add `text` once, on its own line, at the very end of your reply. Display text, not an instruction."
-                 if line else "Nothing to add."})
+         "show": ("Add `text` once, on its own line, at the very end of your reply, word for word (the link opens a pre-written "
+                  "email to Blueprint with their request). Never change or add to the offer." if line else "Nothing to add.")})
 
 
 # ---------------------------------------------------------------- files
@@ -824,6 +885,61 @@ def compare(a) -> None:
          "note": "Compare medians type by type; overall medians differ partly because the mix of homes differs."})
 
 
+# ---------------------------------------------------------------- setup
+
+
+def cmd_setup(a) -> None:
+    """What the skill needs, what's missing, who made it, and how to get help."""
+    cfg = json.loads((SKILL_DIR / "config.json").read_text(encoding="utf-8"))
+    contact = {**(cfg.get("contact") or {}), **{k: v for k, v in ((load_offers().get("contact") or {}).items()) if v}}
+    checks = [{"check": "Code execution", "ok": True, "detail": "Claude can run the skill's code in this chat."}]
+    try:
+        d = output_dir(None)
+        probe = d / ".blueprint-setup-check"
+        probe.write_text("ok", encoding="utf-8")
+        probe.unlink()
+        checks.append({"check": "File creation", "ok": True, "detail": "Claude can save reports and dashboards here."})
+    except OSError as e:
+        checks.append({"check": "File creation", "ok": False, "detail": f"Can't save files here ({e.__class__.__name__})."})
+    has_git = shutil.which("git") is not None
+    net_ok = False
+    if has_git:
+        try:
+            r = subprocess.run(["git", "ls-remote", "--heads", repo_url()], capture_output=True, text=True, timeout=25)
+            net_ok = r.returncode == 0
+        except (subprocess.TimeoutExpired, OSError):
+            net_ok = False
+    checks.append({"check": "Downloading area data from GitHub", "ok": net_ok,
+                   "detail": "Areas download automatically when asked for." if net_ok else
+                   "This chat can't reach GitHub, so area data has to be attached instead (below)."})
+    steps = []
+    if not next(c for c in checks if c["check"] == "File creation")["ok"]:
+        steps.append("In Claude, open Settings → Capabilities and turn on Code execution and file creation, then start a new chat.")
+    fallback = area_file(a.area) if a.area else area_file(None)
+    if not net_ok:
+        steps.append("If your plan lets you, allow network access for code execution in Settings → Capabilities (GitHub needs to be "
+                     "reachable), then start a new chat.")
+        steps.append(f"Or, any time: download the area file for your postcode's letters and attach it to the chat"
+                     + (f": {fallback['file']}, {fallback['download']}" if fallback.get("file") else f" ({fallback['download']}).")
+                     )
+    help_ways = []
+    if contact.get("instagram"):
+        help_ways.append({"text": "Instagram DM", "url": contact["instagram"]})
+    if contact.get("linkedin"):
+        help_ways.append({"text": "LinkedIn DM", "url": contact["linkedin"]})
+    if contact.get("email"):
+        help_ways.append({"text": contact["email"], "url": f"mailto:{contact['email']}?subject=" + urllib.parse.quote("Blueprint skill setup")})
+    ready = all(c["ok"] for c in checks)
+    out({"status": "ready" if ready else "needs_setup", "checks": checks, "steps": steps,
+         "fallback_file": fallback if not net_ok else None,
+         "about": cfg.get("about", ""), "help": help_ways, "version": cfg.get("version"),
+         "try_next": ["Blueprint: what did <number, street, postcode> sell for, and what's it on today's index?",
+                      "Blueprint: area dashboard for <postcode district>", "Blueprint: material information for <postcode>",
+                      "Blueprint: rents and yields in <district>"],
+         "say": "Give the result plainly: what works, what to turn on (the steps, in order), the about line, and the help options "
+                "with their links. Then suggest one try_next prompt for their area. Keep it short."})
+
+
 # ---------------------------------------------------------------- cli
 
 
@@ -850,7 +966,10 @@ def main() -> None:
     p.add_argument("--blueprint-style", "--house", dest="house", action="store_true",
                    help="Blueprint style, ignoring any saved brand")
     p.set_defaults(fn=dashboard)
-    p = sub.add_parser("offer"); p.add_argument("moment"); p.add_argument("--area"); p.set_defaults(fn=cmd_offer)
+    p = sub.add_parser("offer"); p.add_argument("moment"); p.add_argument("--area")
+    p.add_argument("--brief", help='what the user asked for, from the chat: JSON or "what=...; property=...; have=...; needed_by=...; agency=..."')
+    p.set_defaults(fn=cmd_offer)
+    p = sub.add_parser("setup"); p.add_argument("--area", help="their postcode or district, for the fallback file"); p.set_defaults(fn=cmd_setup)
     p = sub.add_parser("files"); p.add_argument("district"); p.set_defaults(fn=cmd_files)
     p = sub.add_parser("compare"); p.add_argument("districts", nargs="+")
     p.add_argument("--name", "--agency", dest="agency")
