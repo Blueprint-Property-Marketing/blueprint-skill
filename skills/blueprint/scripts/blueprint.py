@@ -559,6 +559,8 @@ def cmd_offer(a) -> None:
     text = line
     if link:
         extra = " · ".join(f"[{x['text']}]({x['url']})" for x in link.get("all", [link]))
+        if link.get("email"):  # the address in plain sight too, for anyone whose browser has no mail app behind mailto
+            extra += f" ({link['email']})"
         text = f"{line} {extra}"
     out({"status": "ok", "moment": a.moment, "text": text, "line": line, "link": link,
          "show": ("Add `text` once, on its own line, at the very end of your reply, word for word (the link opens a pre-written "
