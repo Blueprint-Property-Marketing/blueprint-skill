@@ -1,0 +1,684 @@
+postcode,paon,saon,street,date,price,type,new,tenure,sales
+W1J 5PU,7,First Floor Flat,,2000-12-04,3204000,F,N,L,3
+W1J 8BU,11,,,2002-01-18,160000,F,N,L,1
+W1J 8NT,"Berkley House, 15",63,,2000-05-15,305000,F,N,L,1
+W1J 0AL,A13,,Albany,2020-12-02,4500000,F,N,F,1
+W1J 0AL,A5,,Albany,2017-01-20,6100000,F,N,F,1
+W1J 0AL,A5,Mansion Flat,Albany,2019-07-19,425000,F,N,L,1
+W1J 0AN,B1,,Albany,2020-12-07,3100000,F,N,F,1
+W1J 0AN,B2,,Albany,2018-11-04,825000,F,N,L,1
+W1J 0AN,B5,,Albany,2002-12-17,770000,F,N,L,1
+W1J 0AP,D1,,Albany,2011-08-11,2150000,F,N,F,1
+W1J 0AP,D2,,Albany,2020-05-28,770000,F,N,L,2
+W1J 0AP,D4,,Albany,2014-09-05,1150000,F,N,L,1
+W1J 0AR,E1,,Albany,2019-01-03,725000,F,N,L,1
+W1J 0AR,E2,,Albany,2016-03-29,3500000,F,N,F,2
+W1J 0AS,F3,,Albany,1999-07-19,715000,F,N,F,1
+W1J 0AU,H4,,Albany,2013-06-20,2450000,F,N,F,3
+W1J 0AW,C6,,Albany,2017-05-09,1200000,F,N,L,1
+W1J 0AX,I3,,Albany,2020-01-10,3000000,F,N,F,1
+W1J 0AX,I4,,Albany,2008-10-31,1700000,T,N,F,2
+W1J 0AY,K2,,Albany,2015-10-12,3000000,F,N,F,1
+W1J 0AY,K4,,Albany,1996-02-21,612500,F,N,F,1
+W1J 0AZ,L2,,Albany,2018-05-21,3250000,F,N,F,1
+W1J 0AZ,L5,,Albany,2010-08-26,1000000,F,N,L,2
+W1J 8AS,1,Apartment 103,Ashburton Place,2018-04-04,8000000,F,Y,L,1
+W1J 8AS,1,Apartment 104,Ashburton Place,2019-10-30,3280000,F,Y,L,1
+W1J 8AS,1,Apartment 105,Ashburton Place,2020-02-20,5750000,F,Y,L,1
+W1J 8AS,1,Apartment 106,Ashburton Place,2018-03-29,5750000,F,Y,L,1
+W1J 8AS,1,Apartment 107,Ashburton Place,2018-04-10,3450000,F,Y,L,1
+W1J 8AS,1,Apartment 202,Ashburton Place,2018-04-04,8500000,F,Y,L,1
+W1J 8AS,1,Apartment 204,Ashburton Place,2018-04-04,3600000,F,Y,L,1
+W1J 8AS,1,Apartment 206,Ashburton Place,2018-04-12,6000000,F,Y,L,1
+W1J 8AS,1,Apartment 301,Ashburton Place,2018-11-30,15650000,F,Y,L,1
+W1J 8AS,1,Apartment 302,Ashburton Place,2019-08-19,17000000,F,N,L,1
+W1J 8AS,1,Apartment 306,Ashburton Place,2018-04-12,3650000,F,Y,L,1
+W1J 8AS,1,Apartment 401,Ashburton Place,2018-04-04,19950000,F,Y,L,1
+W1J 8AS,1,Apartment 403,Ashburton Place,2018-05-01,12600000,F,Y,L,1
+W1J 8AS,1,Apartment 404,Ashburton Place,2019-06-28,9270315,F,Y,L,1
+W1J 8AS,1,Apartment 502,Ashburton Place,2017-11-30,19250000,F,Y,L,1
+W1J 8AS,1,Apartment 503,Ashburton Place,2019-12-19,12112250,F,Y,L,1
+W1J 8AS,1,Apartment 601,Ashburton Place,2019-06-27,18774034,F,Y,L,1
+W1J 8AS,1,Apartment 602,Ashburton Place,2019-09-09,18000000,F,Y,L,1
+W1J 8AS,1,Apartment 603,Ashburton Place,2019-12-19,11691635,F,Y,L,1
+W1J 8AS,1,Apartment 701,Ashburton Place,2019-03-01,26000000,F,Y,L,1
+W1J 8AS,1,Apartment 702,Ashburton Place,2018-04-24,28000000,F,Y,L,1
+W1J 8AS,1,Apartment 801,Ashburton Place,2018-11-13,56000000,F,Y,L,1
+W1J 6DG,1,Flat 1,Barlow Place,2002-04-11,350000,F,N,L,2
+W1J 6DG,1,Flat 2,Barlow Place,2002-04-11,355000,F,N,L,2
+W1J 6DG,1,Flat 3,Barlow Place,2002-04-11,355000,F,N,L,2
+W1J 6DG,1,Flat 4,Barlow Place,2002-04-11,355000,F,N,L,2
+W1J 6DG,1,Flat 5,Barlow Place,2010-05-10,910000,F,N,L,5
+W1J 5AX,48,Flat D,Berkeley Square,2008-10-01,1100000,F,N,L,2
+W1J 5AX,48,Flat H,Berkeley Square,2004-11-05,390000,F,N,L,3
+W1J 5AX,48,Flat J,Berkeley Square,2001-09-04,1210000,F,N,L,1
+W1J 5AX,48,Flat K,Berkeley Square,2007-04-23,1000000,F,N,L,4
+W1J 5AX,48,Flat L,Berkeley Square,2001-06-08,900000,F,N,L,3
+W1J 5AX,48,Flat M,Berkeley Square,1998-03-23,340000,F,N,L,1
+W1J 5AX,48D,,Berkeley Square,2012-09-18,1500000,F,N,L,1
+W1J 6BU,Berkeley Square House,Third Floor Premises,Berkeley Square,2008-04-18,1621799,F,N,L,1
+W1J 6EA,1,,Berkeley Square,1997-07-01,985000,F,N,F,1
+W1J 8DP,10,Flat 1,Berkeley Street,2014-03-17,400000,F,N,L,3
+W1J 8DP,10,Flat 10,Berkeley Street,2001-04-12,410000,F,Y,L,1
+W1J 8DP,10,Flat 11,Berkeley Street,2005-03-17,530000,F,N,L,2
+W1J 8DP,10,Flat 12,Berkeley Street,2003-10-10,395000,F,N,L,2
+W1J 8DP,10,Flat 14,Berkeley Street,2001-01-23,710000,F,Y,L,1
+W1J 8DP,10,Flat 15,Berkeley Street,2019-09-03,1060000,F,N,L,2
+W1J 8DP,10,Flat 16,Berkeley Street,2003-06-02,720000,F,Y,L,1
+W1J 8DP,10,Flat 17,Berkeley Street,2006-07-26,249000,F,N,L,3
+W1J 8DP,10,Flat 18,Berkeley Street,2007-05-11,1740000,F,N,L,3
+W1J 8DP,10,Flat 19,Berkeley Street,2002-10-25,810000,F,N,L,1
+W1J 8DP,10,Flat 2,Berkeley Street,2019-12-13,1100000,F,N,L,2
+W1J 8DP,10,Flat 4,Berkeley Street,2004-05-04,535000,F,N,L,2
+W1J 8DP,10,Flat 5,Berkeley Street,2001-01-12,377500,F,Y,L,1
+W1J 8DP,10,Flat 6,Berkeley Street,2001-04-27,305000,F,Y,L,1
+W1J 8DP,10,Flat 7,Berkeley Street,2001-02-02,460000,F,Y,L,1
+W1J 8DP,10,Flat 8,Berkeley Street,2000-08-30,370000,F,Y,L,1
+W1J 8DP,10,Flat 9,Berkeley Street,2001-03-15,310000,F,Y,L,1
+W1J 8EA,17,Flat 1,Berkeley Street,1995-03-03,400000,F,Y,L,1
+W1J 8EA,17,Flat 10,Berkeley Street,1995-03-03,470400,F,Y,L,1
+W1J 8EA,17,Flat 11,Berkeley Street,2003-09-30,570000,F,N,L,2
+W1J 8EA,17,Flat 12,Berkeley Street,2017-04-28,2250000,F,N,L,3
+W1J 8EA,17,Flat 2,Berkeley Street,2001-01-02,495000,F,N,L,3
+W1J 8EA,17,Flat 3,Berkeley Street,2004-12-22,780000,F,N,L,3
+W1J 8EA,17,Flat 5,Berkeley Street,1999-01-14,475000,F,N,L,2
+W1J 8EA,17,Flat 6,Berkeley Street,2001-09-18,534500,F,N,L,2
+W1J 8EA,17,Flat 7,Berkeley Street,2019-10-14,2875000,F,N,L,6
+W1J 8EA,17,Flat 8,Berkeley Street,1995-03-01,465000,F,Y,L,1
+W1J 8EA,17,Flat 9,Berkeley Street,2004-02-03,735000,F,N,L,2
+W1J 8EB,18,Flat 1,Berkeley Street,2001-03-16,400000,F,N,L,1
+W1J 8EB,18,Flat 10,Berkeley Street,2011-01-20,872500,F,N,L,4
+W1J 8EB,18,Flat 11,Berkeley Street,2000-09-29,920000,F,Y,L,1
+W1J 8EB,18,Flat 13,Berkeley Street,2001-08-24,160000,F,N,L,1
+W1J 8EB,18,Flat 2,Berkeley Street,2014-02-28,925000,F,N,L,3
+W1J 8EB,18,Flat 3,Berkeley Street,2009-05-26,1150000,F,N,L,4
+W1J 8EB,18,Flat 4,Berkeley Street,2009-10-15,935000,F,N,L,2
+W1J 8EB,18,Flat 5,Berkeley Street,2018-07-20,1578000,F,N,L,2
+W1J 8EB,18,Flat 6,Berkeley Street,2000-11-29,465000,F,Y,L,1
+W1J 8EB,18,Flat 7,Berkeley Street,2006-01-20,615000,F,N,L,2
+W1J 8EB,18,Flat 8,Berkeley Street,2004-07-05,582500,F,N,L,2
+W1J 8EB,18,Flat 9,Berkeley Street,2014-08-22,2250000,F,N,L,4
+W1J 8EB,18,Penthouse 2,Berkeley Street,2014-06-09,2755000,F,N,L,3
+W1J 8BN,20,,Bolton Street,2003-08-01,1876250,T,N,F,1
+W1J 8BW,27,Flat 1,Bolton Street,2001-02-20,525000,F,Y,L,1
+W1J 8BW,27,Flat 2,Bolton Street,2016-10-26,1320000,F,N,L,2
+W1J 8BW,27,Flat 3,Bolton Street,2001-02-28,750000,F,Y,L,1
+W1J 8BW,27,Flat 4,Bolton Street,2007-12-19,1750000,F,N,L,2
+W1J 8BW,27,Flat 5,Bolton Street,2001-03-30,370000,F,Y,L,1
+W1J 8BW,27,Flat 6,Bolton Street,2014-11-14,1750000,F,N,L,2
+W1J 8BW,27,Flat 7,Bolton Street,2000-12-15,615000,F,Y,L,1
+W1J 8BW,27,Flat 8,Bolton Street,2006-06-16,720000,F,N,L,2
+W1J 8BW,27,Flat 9,Bolton Street,2010-06-16,2475000,F,N,L,2
+W1J 7DD,"Park Towers, 2",Flat 1,Brick Street,2000-04-17,680000,F,N,L,2
+W1J 7DD,"Park Towers, 2",Flat 10,Brick Street,2002-12-17,855000,F,N,L,1
+W1J 7DD,"Park Towers, 2",Flat 11,Brick Street,2002-11-29,920000,F,N,L,1
+W1J 7DD,"Park Towers, 2",Flat 12,Brick Street,2013-05-08,3600000,F,N,L,3
+W1J 7DD,"Park Towers, 2",Flat 16,Brick Street,2019-01-25,3550000,F,N,L,2
+W1J 7DD,"Park Towers, 2",Flat 17,Brick Street,2002-03-21,860000,F,N,L,3
+W1J 7DD,"Park Towers, 2",Flat 18,Brick Street,2006-12-15,1650000,F,N,L,2
+W1J 7DD,"Park Towers, 2",Flat 19,Brick Street,2001-06-25,1090000,F,N,L,1
+W1J 7DD,"Park Towers, 2",Flat 20,Brick Street,2000-07-14,865000,F,N,L,1
+W1J 7DD,"Park Towers, 2",Flat 22,Brick Street,2017-02-17,3950000,F,N,L,3
+W1J 7DD,"Park Towers, 2",Flat 23,Brick Street,2005-12-27,1000000,F,N,L,3
+W1J 7DD,"Park Towers, 2",Flat 3,Brick Street,2001-06-14,825000,F,N,L,3
+W1J 7DD,"Park Towers, 2",Flat 5,Brick Street,2002-02-21,750000,F,N,L,3
+W1J 7DD,"Park Towers, 2",Flat 6,Brick Street,1995-06-06,600000,F,N,L,1
+W1J 7DD,"Park Towers, 2",Flat 7,Brick Street,2000-07-19,786000,F,N,L,1
+W1J 7DD,"Park Towers, 2",Flat 8,Brick Street,2002-07-31,850000,F,N,L,1
+W1J 7DD,"Park Towers, 2",Flat 9,Brick Street,2002-12-17,855000,F,N,L,1
+W1J 7DF,12,Ground Floor Flat,Brick Street,2020-08-26,2650000,F,N,L,1
+W1J 7DL,21A,,Brick Street,2014-03-19,1900000,T,N,F,3
+W1J 6LF,39,,Bruton Place,2018-04-25,6100000,T,N,L,1
+W1J 6LY,18,Flat 1,Bruton Place,2020-10-09,700000,F,N,L,3
+W1J 6LY,18,Flat 2,Bruton Place,2005-09-02,350000,F,N,L,1
+W1J 6LY,18,Flat 3,Bruton Place,2005-03-01,610000,F,N,L,5
+W1J 6NH,28,,Bruton Place,1998-03-02,20000,T,N,L,1
+W1J 6NT,36 - 36A,,Bruton Place,2019-12-18,6550000,T,N,F,2
+W1J 6NX,38,,Bruton Place,2004-02-20,1308750,F,N,L,2
+W1J 6NZ,40,,Bruton Place,2003-12-01,1210000,F,N,L,3
+W1J 6QE,23A,Maisonette 3,Bruton Street,2007-09-28,226938,F,N,L,1
+W1J 0PJ,15,,Burlington Arcade,2002-02-06,252500,T,N,L,1
+W1J 0QP,60 - 61,,Burlington Arcade,2001-12-21,275000,F,N,L,1
+W1J 7AF,Garrick House,Flat 10,Carrington Street,2015-10-01,450000,F,N,L,1
+W1J 7AF,Garrick House,Flat 11,Carrington Street,2018-04-27,395000,F,N,L,2
+W1J 7AF,Garrick House,Flat 12,Carrington Street,2012-06-29,435000,F,N,L,1
+W1J 7AF,Garrick House,Flat 12A,Carrington Street,2012-09-28,526500,F,N,L,2
+W1J 7AF,Garrick House,Flat 14,Carrington Street,2020-01-30,840000,F,N,L,3
+W1J 7AF,Garrick House,Flat 15,Carrington Street,1996-05-14,131000,F,N,L,1
+W1J 7AF,Garrick House,Flat 16,Carrington Street,2009-08-25,385000,F,N,L,1
+W1J 7AF,Garrick House,Flat 18,Carrington Street,2002-02-22,225000,F,N,L,2
+W1J 7AF,Garrick House,Flat 19,Carrington Street,2007-03-14,345000,F,N,L,5
+W1J 7AF,Garrick House,Flat 2,Carrington Street,1995-07-07,107500,F,N,L,1
+W1J 7AF,Garrick House,Flat 20,Carrington Street,2004-02-06,260000,F,N,L,3
+W1J 7AF,Garrick House,Flat 21,Carrington Street,2020-10-16,600000,F,N,L,5
+W1J 7AF,Garrick House,Flat 22,Carrington Street,2001-07-31,249000,F,N,L,3
+W1J 7AF,Garrick House,Flat 22A,Carrington Street,2002-04-03,250000,F,N,L,2
+W1J 7AF,Garrick House,Flat 23,Carrington Street,1996-01-26,121500,F,N,L,1
+W1J 7AF,Garrick House,Flat 24,Carrington Street,2003-10-10,275000,F,N,L,1
+W1J 7AF,Garrick House,Flat 26,Carrington Street,2011-01-28,452000,F,N,L,1
+W1J 7AF,Garrick House,Flat 28,Carrington Street,2001-06-04,205000,F,N,L,1
+W1J 7AF,Garrick House,Flat 29,Carrington Street,2007-06-29,450000,F,N,L,2
+W1J 7AF,Garrick House,Flat 3,Carrington Street,2017-04-13,885000,F,N,L,2
+W1J 7AF,Garrick House,Flat 30,Carrington Street,2003-08-27,161000,F,N,L,5
+W1J 7AF,Garrick House,Flat 32,Carrington Street,2016-02-10,450000,F,N,L,1
+W1J 7AF,Garrick House,Flat 4,Carrington Street,2006-08-07,325000,F,N,L,4
+W1J 7AF,Garrick House,Flat 6,Carrington Street,2011-09-08,455000,F,N,L,2
+W1J 7AF,Garrick House,Flat 7,Carrington Street,2015-12-15,700000,F,N,L,1
+W1J 7AF,Garrick House,Flat 8,Carrington Street,2018-05-04,845000,F,N,L,4
+W1J 7AF,Garrick House,Flat 9,Carrington Street,2006-07-17,337500,F,N,L,2
+W1J 5DE,3 - 4,Flat A,Charles Street,2001-08-08,412500,F,N,L,2
+W1J 5DE,4,Flat B,Charles Street,2008-08-29,900000,F,N,L,1
+W1J 5DE,4,Flat C,Charles Street,2002-11-01,425000,F,N,L,2
+W1J 5DG,6,Basement Studio Flat,Charles Street,2020-06-30,200000,F,N,L,1
+W1J 5DG,6,Flat 1,Charles Street,1998-05-07,190000,F,N,L,1
+W1J 5DG,6,Flat 11,Charles Street,2002-01-28,285000,F,Y,L,1
+W1J 5DG,6,Flat 12,Charles Street,1998-04-23,175000,F,N,L,1
+W1J 5DG,6,Flat 2,Charles Street,2007-07-17,450000,F,N,L,2
+W1J 5DG,6,Flat 3,Charles Street,2015-12-16,1710551,F,N,L,1
+W1J 5DG,6,Flat 4,Charles Street,2006-07-14,1475000,F,N,L,1
+W1J 5DG,6,Flat 5,Charles Street,2007-08-28,975000,F,N,L,2
+W1J 5DG,6,Flat 7,Charles Street,2009-08-25,1100000,F,N,L,3
+W1J 5DJ,8,Flat 1,Charles Street,2003-11-20,1300000,F,N,L,2
+W1J 5DJ,8,Flat 2,Charles Street,1997-07-30,354000,F,N,L,2
+W1J 5DJ,8,Flat 3,Charles Street,2007-01-22,800000,F,N,L,1
+W1J 5DL,"Mayfair Apartments, 9",,Charles Street,2000-12-04,3204000,F,N,F,2
+W1J 5DN,10,,Charles Street,2006-10-27,855000,T,N,F,1
+W1J 5DN,10,Flat 2,Charles Street,2018-08-28,7350000,F,N,L,3
+W1J 5DN,10,Flat 3,Charles Street,1997-11-10,612500,F,N,L,1
+W1J 5DN,10,Flat 4,Charles Street,1998-10-08,490000,F,N,L,1
+W1J 5DQ,7,Flat B,Charles Street,2006-09-29,1700000,F,N,L,2
+W1J 5DQ,7,Flat D,Charles Street,2013-08-30,2800000,F,N,L,5
+W1J 5DQ,7,Flat E,Charles Street,2007-07-02,2800000,F,N,L,1
+W1J 5DR,12,Apartment 11,Charles Street,1995-04-27,170000,F,N,L,1
+W1J 5DR,12,Apartment 2,Charles Street,1998-06-12,1450000,F,N,L,1
+W1J 5DR,12,Apartment 5,Charles Street,1999-01-21,700823,F,N,L,2
+W1J 5DR,12,Apartment 6,Charles Street,1997-11-21,1200000,F,N,L,1
+W1J 5DR,12,Apartment 7,Charles Street,1997-11-28,480000,F,N,L,1
+W1J 5DT,18,,Charles Street,1998-07-23,200000,T,N,F,1
+W1J 5DT,20,Flat 1,Charles Street,2000-05-05,1500000,F,N,L,1
+W1J 5DT,20,Flat 2,Charles Street,2004-12-03,1882637,F,N,L,1
+W1J 5DT,20,Flat 3,Charles Street,2006-01-27,1775000,F,N,L,3
+W1J 5DT,20,Flat 4,Charles Street,2004-06-10,750000,F,N,L,1
+W1J 5DT,20,Flat 6,Charles Street,2006-05-02,850000,F,N,L,3
+W1J 5DT,20,Flat 7,Charles Street,1998-11-24,245000,F,N,L,1
+W1J 5DT,24,Flat 2,Charles Street,2003-12-09,860000,F,N,L,1
+W1J 5DT,24,Flat 3,Charles Street,2013-11-15,2960000,F,N,L,2
+W1J 5DT,24,Ground Floor Flat,Charles Street,2000-08-31,520000,F,N,L,1
+W1J 5DT,25,Flat A,Charles Street,2012-11-29,1925000,F,N,L,3
+W1J 5DT,25,Flat C,Charles Street,2002-04-12,467500,F,N,L,2
+W1J 5DT,25,Flat D,Charles Street,2001-10-26,330000,F,N,L,1
+W1J 5DT,25,Flat E,Charles Street,2013-08-05,700000,F,N,L,2
+W1J 5DT,25,Flat F,Charles Street,2009-02-25,850000,F,N,L,2
+W1J 5DT,25,Flat G,Charles Street,1998-10-23,340000,F,Y,L,1
+W1J 5DT,26,,Charles Street,2004-03-17,480000,F,N,L,2
+W1J 5DT,28,,Charles Street,2007-04-16,2816532,T,N,F,1
+W1J 5DT,28A,,Charles Street,2007-04-16,3533468,T,N,F,1
+W1J 5EG,42,Flat 2,Charles Street,2003-01-06,200000,F,Y,L,1
+W1J 5EX,"Rosebery Court, 15",Flat 10,Charles Street,2006-11-16,1650000,F,N,L,1
+W1J 5EX,"Rosebery Court, 15",Flat 12,Charles Street,1999-12-13,625000,F,N,L,2
+W1J 5EX,"Rosebery Court, 15",Flat 13,Charles Street,2000-03-24,695000,F,N,L,1
+W1J 5EX,"Rosebery Court, 15",Flat 14,Charles Street,2016-04-01,1645000,F,N,L,3
+W1J 5EX,"Rosebery Court, 15",Flat 15,Charles Street,2016-11-30,1825000,F,N,L,1
+W1J 5EX,"Rosebery Court, 15",Flat 17,Charles Street,2012-02-28,1450000,F,N,L,2
+W1J 5EX,"Rosebery Court, 15",Flat 2,Charles Street,2011-03-11,2375000,F,N,L,1
+W1J 5EX,"Rosebery Court, 15",Flat 22,Charles Street,2017-08-24,1575000,F,N,L,4
+W1J 5EX,"Rosebery Court, 15",Flat 3,Charles Street,2006-07-12,1250000,F,N,L,1
+W1J 5EX,"Rosebery Court, 15",Flat 5,Charles Street,2002-08-06,795000,F,N,L,1
+W1J 5EX,"Rosebery Court, 15",Flat 7,Charles Street,2015-11-11,3335000,F,N,L,2
+W1J 5EX,"Rosebery Court, 15",Flat 9,Charles Street,1998-03-16,415000,F,N,L,1
+W1J 5JU,Chesterfield House,Flat 32,Chesterfield Gardens,2007-06-13,575000,F,N,L,1
+W1J 5JU,Chesterfield House,Flat 33,Chesterfield Gardens,2004-11-30,650000,F,N,L,3
+W1J 5JU,Chesterfield House,Flat 34,Chesterfield Gardens,2019-04-16,1475000,F,N,L,3
+W1J 5JU,Chesterfield House,Flat 35,Chesterfield Gardens,1998-05-18,297000,F,N,L,1
+W1J 5JU,Chesterfield House,Flat 36,Chesterfield Gardens,2015-10-12,2150000,F,N,L,2
+W1J 5JU,Chesterfield House,Flat 37,Chesterfield Gardens,1999-03-11,280000,F,N,L,1
+W1J 5JU,Chesterfield House,Flat 38,Chesterfield Gardens,2005-07-01,625000,F,N,L,2
+W1J 5JU,Chesterfield House,Flat 39,Chesterfield Gardens,2005-09-13,700000,F,N,L,3
+W1J 5JU,Chesterfield House,Flat 40,Chesterfield Gardens,1996-06-14,186000,F,N,L,1
+W1J 5JU,Chesterfield House,Flat 42,Chesterfield Gardens,2011-05-04,1350000,F,N,L,1
+W1J 5JU,Chesterfield House,Flat 44,Chesterfield Gardens,2000-04-17,400000,F,N,L,1
+W1J 5JU,Chesterfield House,Flat 45,Chesterfield Gardens,1996-01-05,295000,F,N,L,1
+W1J 5JU,Chesterfield House,Flat 46,Chesterfield Gardens,2005-08-05,515000,F,N,L,3
+W1J 5JU,Chesterfield House,Flat 48,Chesterfield Gardens,1999-03-31,450000,F,N,L,1
+W1J 5JU,Chesterfield House,Flat 50,Chesterfield Gardens,2016-10-07,1600000,F,N,L,1
+W1J 5JU,Chesterfield House,Flat 53,Chesterfield Gardens,2005-10-11,635000,F,N,L,2
+W1J 5JU,Chesterfield House,Flat 55,Chesterfield Gardens,1995-05-18,240000,F,N,L,1
+W1J 5JU,Chesterfield House,Flat 56,Chesterfield Gardens,2006-11-20,825000,F,N,L,2
+W1J 5JU,Chesterfield House,Flat 57,Chesterfield Gardens,1996-11-28,295000,F,N,L,1
+W1J 5JX,Chesterfield House,Flat 103,Chesterfield Gardens,2011-05-26,1800000,F,N,L,1
+W1J 5JX,Chesterfield House,Flat 104,Chesterfield Gardens,2000-11-03,390000,F,N,L,2
+W1J 5JX,Chesterfield House,Flat 59,Chesterfield Gardens,2015-12-21,2100000,F,N,L,2
+W1J 5JX,Chesterfield House,Flat 61,Chesterfield Gardens,2000-02-11,575000,F,N,L,1
+W1J 5JX,Chesterfield House,Flat 64,Chesterfield Gardens,2013-04-22,3583100,F,N,L,4
+W1J 5JX,Chesterfield House,Flat 66,Chesterfield Gardens,2015-11-16,3070000,F,N,L,1
+W1J 5JX,Chesterfield House,Flat 70,Chesterfield Gardens,2001-07-31,865000,F,N,L,2
+W1J 5JX,Chesterfield House,Flat 71,Chesterfield Gardens,2000-05-05,685000,F,N,L,1
+W1J 5JX,Chesterfield House,Flat 74,Chesterfield Gardens,2011-01-21,1750000,F,N,L,1
+W1J 5JX,Chesterfield House,Flat 75,Chesterfield Gardens,2015-09-21,2806000,F,N,L,1
+W1J 5JY,Chesterfield House,Flat 101,Chesterfield Gardens,2016-10-17,2000000,F,N,L,1
+W1J 5JY,Chesterfield House,Flat 76,Chesterfield Gardens,2012-05-04,875000,F,N,L,4
+W1J 5JY,Chesterfield House,Flat 77,Chesterfield Gardens,2008-07-25,1000000,F,N,L,3
+W1J 5JY,Chesterfield House,Flat 78,Chesterfield Gardens,2010-04-07,660000,F,N,L,2
+W1J 5JY,Chesterfield House,Flat 79,Chesterfield Gardens,2002-09-18,450000,F,N,L,1
+W1J 5JY,Chesterfield House,Flat 80,Chesterfield Gardens,1999-11-04,470000,F,N,L,2
+W1J 5JY,Chesterfield House,Flat 81,Chesterfield Gardens,2019-10-08,1560000,F,N,L,5
+W1J 5JY,Chesterfield House,Flat 86,Chesterfield Gardens,1997-09-04,500000,F,N,L,1
+W1J 5JY,Chesterfield House,Flat 87,Chesterfield Gardens,2008-11-20,920000,F,N,L,2
+W1J 5JY,Chesterfield House,Flat 91,Chesterfield Gardens,1997-10-02,247500,F,N,L,1
+W1J 5JY,Chesterfield House,Flat 93,Chesterfield Gardens,2018-12-14,1450000,F,N,L,1
+W1J 5JY,Chesterfield House,Flat 94,Chesterfield Gardens,2008-08-08,875000,F,N,L,2
+W1J 5JY,Chesterfield House,Flat 98,Chesterfield Gardens,2001-09-13,670000,F,N,L,2
+W1J 5BH,1,,Chesterfield Hill,2001-04-02,2700000,T,N,F,1
+W1J 5BH,2,,Chesterfield Hill,2013-06-19,5675000,T,N,F,1
+W1J 5BJ,3,,Chesterfield Hill,2014-12-29,12600000,T,N,F,6
+W1J 5BL,4,,Chesterfield Hill,2012-09-20,5725000,T,N,F,3
+W1J 5BL,5,Flat 2,Chesterfield Hill,2010-06-17,10575000,T,N,F,1
+W1J 5BL,6,,Chesterfield Hill,1995-01-20,850000,T,N,L,1
+W1J 5BP,10,,Chesterfield Hill,2011-08-16,4500000,T,N,F,1
+W1J 5BP,11,,Chesterfield Hill,2002-01-11,430000,F,N,F,1
+W1J 5BP,12,,Chesterfield Hill,2007-06-29,5500000,T,N,F,1
+W1J 5BS,Hays Lodge,,Chesterfield Hill,2007-03-01,896000,T,N,F,1
+W1J 5JF,2,,Chesterfield Street,1998-07-01,250000,T,N,F,1
+W1J 5JF,4,,Chesterfield Street,2020-11-06,5575000,T,N,F,3
+W1J 5BU,3,,Clarges Mews,2005-02-09,1645000,T,Y,L,1
+W1J 5BU,4,,Clarges Mews,2005-02-09,1344500,T,Y,L,1
+W1J 5BY,42,,Clarges Mews,2004-04-26,1500000,F,N,L,2
+W1J 5BY,44,,Clarges Mews,2000-11-30,1100000,F,N,L,1
+W1J 5BY,44,A,Clarges Mews,2003-01-15,375000,F,N,L,1
+W1J 5BY,44,Flat B,Clarges Mews,2007-06-15,565000,F,N,L,2
+W1J 5BY,44,Flatc,Clarges Mews,2009-08-04,1000000,F,N,L,1
+W1J 7EG,"Glendore House, 30",Flat 10,Clarges Street,1996-08-06,625000,F,N,L,1
+W1J 7EG,"Glendore House, 30",Flat 11,Clarges Street,2011-04-04,2900000,F,N,L,2
+W1J 7EG,"Glendore House, 30",Flat 12,Clarges Street,2001-12-14,700000,F,N,L,1
+W1J 7EG,"Glendore House, 30",Flat 14,Clarges Street,2013-12-13,4750000,F,N,L,5
+W1J 7EG,"Glendore House, 30",Flat 6,Clarges Street,2006-02-28,1300000,F,N,L,2
+W1J 7EG,"Glendore House, 30",Flat 8,Clarges Street,1998-12-23,825000,F,N,L,1
+W1J 7EH,34,Flat 1,Clarges Street,1999-11-22,239000,F,N,L,1
+W1J 7EH,34,Flat 12,Clarges Street,2010-07-16,760000,F,N,L,3
+W1J 7EH,34,Flat 6,Clarges Street,2008-07-28,1000000,F,N,L,5
+W1J 7EL,37,,Clarges Street,1995-02-17,1700,T,N,F,1
+W1J 7EL,"Erida House, 37",Flat 11,Clarges Street,2009-07-10,675000,F,N,L,3
+W1J 7EL,"Erida House, 37",Flat 21,Clarges Street,1998-03-30,195000,F,N,L,1
+W1J 7EL,"Erida House, 37",Flat 31,Clarges Street,2009-09-20,421000,F,N,L,1
+W1J 7ES,47,Flat 11,Clarges Street,2001-11-23,245000,F,N,L,4
+W1J 7ES,47,Flat 14,Clarges Street,1997-06-19,900000,F,N,L,1
+W1J 7ES,47,Flat 15,Clarges Street,2007-03-26,445000,F,N,L,3
+W1J 7ES,47,Flat 16,Clarges Street,2007-06-27,950000,F,N,L,1
+W1J 7ES,47,Flat 2,Clarges Street,2002-04-22,325000,F,N,L,3
+W1J 7ES,47,Flat 3,Clarges Street,1996-11-27,120000,F,N,L,1
+W1J 7ES,47,Flat 7,Clarges Street,1995-05-19,115000,F,N,L,1
+W1J 7ES,47,Penthouse Flat,Clarges Street,1997-06-19,900000,F,N,L,1
+W1J 8AE,17,Flat 10,Clarges Street,2000-04-26,354000,F,N,L,2
+W1J 8AE,17,Flat 11,Clarges Street,2010-01-29,1120000,F,N,L,1
+W1J 8AE,17,Flat 12,Clarges Street,2009-10-23,460000,F,N,L,1
+W1J 8AE,17,Flat 14,Clarges Street,2019-11-29,1850000,F,N,L,2
+W1J 8AE,17,Flat 16,Clarges Street,2006-08-21,600000,F,N,L,2
+W1J 8AE,17,Flat 17,Clarges Street,2011-02-23,750000,F,N,L,2
+W1J 8AE,17,Flat 18,Clarges Street,1999-07-28,424000,F,N,L,2
+W1J 8AE,17,Flat 19,Clarges Street,2004-04-22,535000,F,N,L,2
+W1J 8AE,17,Flat 2,Clarges Street,2008-06-23,555000,F,N,L,1
+W1J 8AE,17,Flat 21,Clarges Street,1998-09-14,350000,F,N,L,1
+W1J 8AE,17,Flat 22,Clarges Street,2015-12-07,1850000,F,N,L,3
+W1J 8AE,17,Flat 23,Clarges Street,2016-11-23,1850000,F,N,L,3
+W1J 8AE,17,Flat 25,Clarges Street,2016-08-08,1012500,F,N,L,2
+W1J 8AE,17,Flat 26,Clarges Street,1995-09-11,202000,F,N,L,1
+W1J 8AE,17,Flat 3,Clarges Street,2000-05-02,385000,F,N,L,3
+W1J 8AE,17,Flat 4,Clarges Street,2006-08-01,570000,F,N,L,2
+W1J 8AE,17,Flat 5,Clarges Street,1997-09-10,338000,F,N,L,1
+W1J 8AE,17,Flat 6,Clarges Street,2007-08-31,675000,F,N,L,2
+W1J 8AE,17,Flat 7,Clarges Street,2016-05-11,1670000,F,N,L,2
+W1J 8AE,17,Flat 9,Clarges Street,2002-09-25,545000,F,N,L,2
+W1J 8AG,19,Flat 1,Clarges Street,2013-09-06,1140000,F,N,L,1
+W1J 8AG,19,Flat 2,Clarges Street,2013-09-06,1140000,F,N,L,1
+W1J 7FY,1,Apartment 11,Curzon Square,2004-07-19,987500,F,N,L,1
+W1J 7FY,1,Apartment 12,Curzon Square,2006-03-08,1850000,F,N,L,1
+W1J 7FY,1,Apartment 14,Curzon Square,2008-06-20,2225000,F,N,L,2
+W1J 7FY,1,Apartment 15,Curzon Square,2007-12-13,2400000,F,N,L,2
+W1J 7FY,1,Apartment 16,Curzon Square,2005-03-07,1290000,F,N,L,1
+W1J 7FY,1,Apartment 17,Curzon Square,2005-05-03,850000,F,Y,L,1
+W1J 7FY,2,Apartment 1,Curzon Square,2004-03-15,595000,F,Y,L,1
+W1J 7FY,2,Apartment 2,Curzon Square,2004-03-15,645000,F,Y,L,1
+W1J 7FY,2,Apartment 3,Curzon Square,2004-03-12,1205000,F,Y,L,1
+W1J 7FY,2,Apartment 4,Curzon Square,2004-03-12,1300000,F,Y,L,1
+W1J 7FY,2,Apartment 5,Curzon Square,2017-10-26,2575000,F,N,L,3
+W1J 7FY,2,Apartment 6,Curzon Square,2006-11-21,1300000,F,N,L,2
+W1J 7FY,2,Apartment 7,Curzon Square,2007-02-21,1250000,F,N,L,2
+W1J 7FZ,1,Apartment 10,Curzon Square,2017-02-21,4200000,F,N,L,2
+W1J 7FZ,1,Apartment 16,Curzon Square,2019-02-12,2700000,F,N,L,2
+W1J 7FZ,1,Apartment 2,Curzon Square,2014-06-02,4200000,F,N,L,2
+W1J 7FZ,1,Apartment 3,Curzon Square,2010-08-24,2700000,F,N,L,1
+W1J 7FZ,1,Apartment 7,Curzon Square,2010-11-25,3900000,F,N,L,2
+W1J 7FZ,1,Apartment 8,Curzon Square,2005-10-19,1350350,F,N,L,1
+W1J 7FZ,1,Apartment 9,Curzon Square,2004-07-15,1125000,F,N,L,1
+W1J 5HG,7,Flat 1,Curzon Street,2020-01-14,1892000,F,N,L,1
+W1J 5HG,7,Flat 10,Curzon Street,2000-12-08,365000,F,N,L,1
+W1J 5HG,7,Flat 2,Curzon Street,2001-04-26,565000,F,N,L,1
+W1J 5HG,7,Flat 3,Curzon Street,2000-11-15,340000,F,Y,L,4
+W1J 5HG,7,Flat 4,Curzon Street,1998-10-08,400000,F,N,L,1
+W1J 5HG,7,Flat 5,Curzon Street,2008-10-23,115000,F,N,L,2
+W1J 5HG,7,Flat 6,Curzon Street,2020-11-05,3450000,F,N,L,3
+W1J 5HG,7,Flat 7,Curzon Street,2008-08-08,80000,F,N,L,4
+W1J 5HG,7,Flat 9,Curzon Street,2016-06-15,2090000,F,N,L,5
+W1J 5JA,Leconfield House,Second Floor And Third Floor (West),Curzon Street,1999-03-24,51000,F,N,F,1
+W1J 7FY,1,Apartment 1,Curzon Street,2005-11-22,1675000,F,Y,L,1
+W1J 7FY,1,Apartment 4,Curzon Street,2013-12-04,4000000,F,N,L,2
+W1J 7TR,33,Flat B,Curzon Street,2014-10-27,1500000,F,N,L,1
+W1J 7TR,33,Flat C,Curzon Street,2002-06-14,147000,F,N,L,2
+W1J 7TR,33,Flat D,Curzon Street,2017-05-25,1360000,F,N,L,1
+W1J 7TU,36,Flat 11,Curzon Street,1998-07-18,352500,F,N,L,1
+W1J 7TU,36,Flat 14,Curzon Street,2008-05-30,1475001,F,N,L,1
+W1J 7TU,36,Flat 18,Curzon Street,2015-11-16,3900000,F,N,L,5
+W1J 7TU,36,Flat 19,Curzon Street,1999-06-15,760000,F,N,L,2
+W1J 7TU,36,Flat 20,Curzon Street,2004-08-18,585000,F,N,L,3
+W1J 7TU,36,Flat 3,Curzon Street,2001-03-14,750000,F,N,L,2
+W1J 7TU,36,Flat 5,Curzon Street,2010-05-24,1060000,F,N,L,3
+W1J 7TU,36,Flat 6,Curzon Street,2014-10-17,1250000,F,N,L,1
+W1J 7TU,36,Flat 8,Curzon Street,2007-01-22,590000,F,N,L,1
+W1J 7TX,37,Flat 1,Curzon Street,2003-12-10,3300000,F,N,L,1
+W1J 7TX,37,Flat 3,Curzon Street,2004-10-29,3000000,F,N,L,1
+W1J 7TX,37,Flat 4,Curzon Street,2003-11-07,425000,F,N,L,1
+W1J 7TX,37,Penthouse,Curzon Street,2017-11-22,11000000,F,N,L,2
+W1J 7TX,37A,,Curzon Street,2001-04-26,475000,T,N,L,1
+W1J 7UE,42 - 43,Flat 1,Curzon Street,2014-10-24,1535000,F,N,L,3
+W1J 7UE,42 - 43,Flat 4,Curzon Street,2019-05-24,1750000,F,N,L,2
+W1J 7UE,42 - 43,Flat 5,Curzon Street,2007-10-10,715000,F,N,L,2
+W1J 7UE,42 - 43,Flat 7,Curzon Street,2016-12-15,800000,F,N,L,1
+W1J 7UF,43,,Curzon Street,2003-07-11,516000,F,Y,L,1
+W1J 7UW,50,,Curzon Street,1999-10-15,365000,F,N,L,1
+W1J 8PB,56,Flat 1 And 2,Curzon Street,2002-01-20,120000,F,N,L,1
+W1J 8PB,56,Flat 104,Curzon Street,2004-12-10,525000,F,N,L,2
+W1J 8PB,56,Flat 105,Curzon Street,2007-01-31,295000,F,N,L,2
+W1J 8PB,56,Flat 11 And 12,Curzon Street,2006-02-06,310000,F,N,L,1
+W1J 8PB,56,Flat 124,Curzon Street,1998-06-24,120000,F,N,L,1
+W1J 8PB,56,Flat 125 And 126,Curzon Street,2005-02-16,550000,F,N,L,2
+W1J 8PB,56,Flat 131 And 132,Curzon Street,2003-11-14,245000,F,N,L,1
+W1J 8PB,56,Flat 136,Curzon Street,2008-02-29,600000,F,N,L,1
+W1J 8PB,56,Flat 141 And 142,Curzon Street,2003-01-20,120000,F,Y,L,1
+W1J 8PB,56,Flat 146,Curzon Street,1999-07-09,120000,F,N,L,1
+W1J 8PB,56,Flat 154,Curzon Street,2003-11-20,385000,F,N,L,1
+W1J 8PB,56,Flat 157,Curzon Street,1997-04-30,100000,F,N,L,1
+W1J 8PB,56,Flat 16,Curzon Street,2005-05-03,250000,F,N,L,2
+W1J 8PB,56,Flat 21,Curzon Street,2005-10-06,230000,F,N,L,1
+W1J 8PB,56,Flat 24,Curzon Street,2008-06-17,415000,F,N,L,1
+W1J 8PB,56,Flat 37,Curzon Street,2002-01-20,80000,F,N,L,1
+W1J 8PB,56,Flat 45 And 46,Curzon Street,2004-11-15,400000,F,N,L,1
+W1J 8PB,56,Flat 49,Curzon Street,2008-04-07,725000,F,N,L,2
+W1J 8PB,56,Flat 55,Curzon Street,2007-12-20,600000,F,N,L,1
+W1J 8PB,56,Flat 57,Curzon Street,2005-01-26,250000,F,N,L,2
+W1J 8PB,56,Flat 62,Curzon Street,2005-12-22,825000,F,N,L,5
+W1J 8PB,56,Flat 96,Curzon Street,2007-09-17,300000,F,N,L,1
+W1J 8PB,56,Flat 97,Curzon Street,2001-03-29,285000,F,N,L,1
+W1J 7AB,4,,Derby Street,2012-05-18,4259000,T,N,F,2
+W1J 7AB,5,,Derby Street,1998-04-09,750000,T,N,F,1
+W1J 7AR,22,Flat 1,Down Street,1998-04-30,236125,F,N,L,1
+W1J 7AR,22,Flat 11,Down Street,1996-04-15,174550,F,N,L,1
+W1J 7AR,22,Flat 12,Down Street,2001-02-02,281250,F,N,L,2
+W1J 7AR,22,Flat 2,Down Street,2020-07-31,5500000,F,N,L,1
+W1J 7AR,22,Flat 5,Down Street,1997-04-15,1000000,F,N,L,1
+W1J 7AR,22,Flat 6,Down Street,1998-04-30,670058,F,N,L,1
+W1J 7AR,22,Flat 7,Down Street,2000-08-15,1588000,F,N,L,1
+W1J 7AR,22,Flat 8,Down Street,2005-09-29,2400000,F,N,L,1
+W1J 7AR,22,Flat 9,Down Street,1999-07-16,1375000,F,N,L,2
+W1J 7AR,23,Flat 11,Down Street,2010-10-25,970000,F,N,L,1
+W1J 7AR,23,Flat 12,Down Street,2006-10-09,1060000,F,N,L,2
+W1J 7AR,23,Flat 4,Down Street,2002-01-12,670000,F,N,L,4
+W1J 7AR,23,Flat 7,Down Street,1997-12-17,250000,F,N,L,1
+W1J 7AR,23,Flat 9,Down Street,2005-02-25,685000,F,N,L,2
+W1J 7AU,1,,Down Street Mews,2013-10-24,2000000,F,N,L,5
+W1J 5RF,14,,Farm Street,1996-12-10,1450000,T,N,F,3
+W1J 5RF,16A,,Farm Street,2000-08-31,950000,T,N,F,1
+W1J 5RF,18,,Farm Street,1997-03-14,660000,S,N,L,1
+W1J 5RF,8,,Farm Street,2000-06-16,2551000,S,N,F,1
+W1J 5RH,27,Flat 1,Farm Street,2014-02-07,1500000,F,N,L,1
+W1J 5RH,"Courtyard House, 27A",Flat 2,Farm Street,2001-12-19,550000,F,N,L,2
+W1J 5RH,"Courtyard House, 27A",Flat 3,Farm Street,2016-03-31,4875000,F,N,L,3
+W1J 5RH,"W P P Advertising, 27",Flat 3,Farm Street,2003-10-02,1115000,F,N,L,2
+W1J 5RQ,22A,,Farm Street,2006-02-28,3870000,T,N,F,1
+W1J 5RQ,24,,Farm Street,2002-04-17,2820000,T,N,F,3
+W1J 7AZ,5,,Half Moon Street,2018-09-20,1425000,F,N,L,2
+W1J 7AZ,5,Basement Flat,Half Moon Street,2020-11-20,1170000,F,N,L,3
+W1J 7AZ,5,Fourth Floor Flat,Half Moon Street,2013-09-09,1540000,F,N,L,1
+W1J 7AZ,5,Ground Floor Flat,Half Moon Street,2013-12-17,945000,F,N,L,2
+W1J 7AZ,5,Second Floor Flat,Half Moon Street,1997-04-01,290000,F,N,L,1
+W1J 7AZ,5,Third Floor Flat,Half Moon Street,1999-02-17,325000,F,N,L,1
+W1J 7DZ,15,,Half Moon Street,2003-04-29,2243000,T,N,F,1
+W1J 7HA,"Queensbury Court, 2",,Hamilton Mews,1998-12-23,690000,T,N,L,2
+W1J 7HB,"Queensberry Court, 2",Flat 2,Hamilton Mews,2005-05-18,880000,F,N,L,3
+W1J 7HB,"Queensberry Court, 2",Flat 3,Hamilton Mews,2016-08-19,1975000,F,N,L,3
+W1J 7HB,"Queensberry Court, 2",Flat 4,Hamilton Mews,2018-11-02,1750000,F,N,L,2
+W1J 7HB,"Queensberry Court, 2",Flat 5,Hamilton Mews,2018-01-19,3400000,F,N,L,1
+W1J 7HB,"Queensberry Court, 2",Flat 6,Hamilton Mews,2018-03-14,3700000,F,N,L,1
+W1J 8NS,"Berkeley House, 15",Flat 21,Hay Hill,2016-10-20,800000,F,N,L,1
+W1J 8NS,"Berkeley House, 15",Flat 22,Hay Hill,2007-06-14,600000,F,N,L,4
+W1J 8NS,"Berkeley House, 15",Flat 23,Hay Hill,2006-10-20,2770000,F,N,L,4
+W1J 8NS,"Berkeley House, 15",Flat 25,Hay Hill,2006-10-19,385000,F,N,L,1
+W1J 8NS,"Berkeley House, 15",Flat 26,Hay Hill,2010-01-27,800000,F,N,L,2
+W1J 8NS,"Berkeley House, 15",Flat 28,Hay Hill,2006-10-19,385000,F,N,L,3
+W1J 8NS,"Berkeley House, 15",Flat 30,Hay Hill,2017-04-27,810000,F,N,L,2
+W1J 8NS,"Berkeley House, 15",Flat 32,Hay Hill,2009-07-03,850000,F,N,L,3
+W1J 8NS,"Berkeley House, 15",Flat 33,Hay Hill,2017-11-10,1268000,F,N,L,1
+W1J 8NS,"Berkeley House, 15",Flat 35,Hay Hill,1995-02-03,160000,F,N,L,1
+W1J 8NS,"Berkeley House, 15",Flat 40,Hay Hill,1995-09-29,165000,F,N,L,1
+W1J 8NS,"Berkeley House, 15",Flat 41,Hay Hill,2011-03-18,1900000,F,N,L,2
+W1J 8NS,"Berkeley House, 15",Flat 42,Hay Hill,2007-11-21,850000,F,N,L,2
+W1J 8NS,"Berkeley House, 15",Flat 43,Hay Hill,1997-06-23,150000,F,N,L,1
+W1J 8NS,"Berkeley House, 15",Flat 46,Hay Hill,2008-06-17,1435000,F,N,L,2
+W1J 8NS,"Berkeley House, 15",Flat 47,Hay Hill,2018-01-16,4350000,F,N,L,2
+W1J 8NS,"Berkeley House, 15",Flat 48,Hay Hill,2017-01-16,1350000,F,N,L,1
+W1J 8NT,"Berkeley House, 15",Flat 50B,Hay Hill,2005-08-26,249999,F,N,L,1
+W1J 8NT,"Berkeley House, 15",Flat 51,Hay Hill,1999-03-01,650000,F,N,L,1
+W1J 8NT,"Berkeley House, 15",Flat 52,Hay Hill,2002-05-02,365000,F,N,L,1
+W1J 8NT,"Berkeley House, 15",Flat 53,Hay Hill,2003-12-19,405000,F,N,L,1
+W1J 8NT,"Berkeley House, 15",Flat 54,Hay Hill,1998-12-04,250000,F,N,L,3
+W1J 8NT,"Berkeley House, 15",Flat 60,Hay Hill,2007-06-26,195000,F,N,L,1
+W1J 8NT,"Berkeley House, 15",Flat 61,Hay Hill,2007-06-27,1265000,F,N,L,1
+W1J 8NT,"Berkeley House, 15",Flat 62,Hay Hill,2004-07-13,360000,F,N,L,1
+W1J 8NT,"Berkeley House, 15",Flat 65,Hay Hill,2012-07-04,675000,F,N,L,1
+W1J 8NT,"Berkeley House, 15",Flat 66,Hay Hill,2020-05-28,1200000,F,N,L,2
+W1J 8NT,"Berkeley House, 15",Flat 70,Hay Hill,2014-10-30,1475000,F,N,L,5
+W1J 8NT,"Berkeley House, 15",Flat 72,Hay Hill,2018-12-12,860000,F,N,L,1
+W1J 8NT,"Berkeley House, 15",Flat 73,Hay Hill,1998-09-11,245000,F,N,L,2
+W1J 8NT,"Berkeley House, 15",Flat 74,Hay Hill,2010-05-04,735000,F,N,L,4
+W1J 5PT,14,,Hays Mews,2000-05-05,3750000,T,N,L,1
+W1J 5PU,1,,Hays Mews,2002-08-19,1225000,F,N,L,2
+W1J 5PU,10,,Hays Mews,2010-06-25,6750000,T,N,F,1
+W1J 5PU,2,,Hays Mews,2000-10-05,1950000,T,N,L,2
+W1J 5PU,4,,Hays Mews,2011-02-18,2900000,F,N,L,3
+W1J 5PU,5,,Hays Mews,1998-07-30,200000,T,N,F,1
+W1J 5PU,8,,Hays Mews,2000-01-10,1740000,T,N,F,1
+W1J 5PU,9,,Hays Mews,2002-12-11,1350000,D,N,F,1
+W1J 5PY,17,,Hays Mews,2005-06-15,1100000,T,N,F,2
+W1J 5PY,19,,Hays Mews,1999-12-03,1700000,T,N,F,2
+W1J 5PY,23A,,Hays Mews,2006-11-23,1050000,F,N,L,2
+W1J 5PY,24,,Hays Mews,1999-10-08,160000,T,N,F,2
+W1J 5PY,24A,,Hays Mews,2002-01-17,495000,T,N,L,1
+W1J 5PY,25,,Hays Mews,2009-12-23,900000,F,N,L,1
+W1J 5PY,27,,Hays Mews,1995-05-15,435000,F,Y,L,1
+W1J 5PY,28,,Hays Mews,1995-05-15,270000,F,Y,L,1
+W1J 5PY,29,,Hays Mews,2014-03-05,2950000,F,N,L,1
+W1J 5PY,30,,Hays Mews,1998-11-04,620000,F,N,L,1
+W1J 5PY,31,,Hays Mews,2007-03-01,371000,T,N,F,1
+W1J 7RG,Carrington House,Flat 101,Hertford Street,2001-05-10,340000,F,N,L,2
+W1J 7RG,Carrington House,Flat 102,Hertford Street,2004-12-07,635000,F,N,L,1
+W1J 7RG,Carrington House,Flat 103,Hertford Street,2019-06-21,200000,F,N,L,2
+W1J 7RG,Carrington House,Flat 105,Hertford Street,2017-02-24,1770000,F,N,L,3
+W1J 7RG,Carrington House,Flat 106,Hertford Street,2008-04-17,1100000,F,N,L,2
+W1J 7RG,Carrington House,Flat 107,Hertford Street,2002-03-28,60000,F,N,L,1
+W1J 7RG,Carrington House,Flat 108,Hertford Street,2009-04-30,345000,F,N,L,1
+W1J 7RG,Carrington House,Flat 109,Hertford Street,2008-09-23,615000,F,N,L,1
+W1J 7RG,Carrington House,Flat 202,Hertford Street,2013-12-23,1500000,F,N,L,3
+W1J 7RG,Carrington House,Flat 203,Hertford Street,2010-12-09,1090000,F,N,L,1
+W1J 7RG,Carrington House,Flat 204,Hertford Street,2004-04-26,565000,F,N,L,4
+W1J 7RG,Carrington House,Flat 207,Hertford Street,2012-11-27,1330000,F,N,L,3
+W1J 7RG,Carrington House,Flat 210,Hertford Street,2006-02-28,415000,F,N,L,2
+W1J 7RG,Carrington House,Flat 211,Hertford Street,2000-04-05,360000,F,N,L,1
+W1J 7RG,Carrington House,Flat 303,Hertford Street,1998-12-09,250000,F,N,L,1
+W1J 7RG,Carrington House,Flat 304,Hertford Street,2002-03-22,472000,F,N,L,2
+W1J 7RG,Carrington House,Flat 307,Hertford Street,1995-04-28,205000,F,N,L,1
+W1J 7RG,Carrington House,Flat 309,Hertford Street,2016-11-25,1200000,F,N,L,3
+W1J 7RG,Carrington House,Flat 310,Hertford Street,1997-03-19,250000,F,N,L,2
+W1J 7RG,Carrington House,Flat 311,Hertford Street,2017-03-07,1380000,F,N,L,3
+W1J 7RG,Carrington House,Flat 5,Hertford Street,2004-12-06,486000,F,N,L,1
+W1J 7RG,Carrington House,Flat 8,Hertford Street,2008-12-31,480000,F,N,L,1
+W1J 7RJ,8 - 9,Flat 1,Hertford Street,2002-12-13,490000,F,N,L,2
+W1J 7RJ,8 - 9,Flat 101,Hertford Street,2010-09-10,925000,F,N,L,2
+W1J 7RJ,8 - 9,Flat 102,Hertford Street,2005-04-25,480000,F,N,L,1
+W1J 7RJ,8 - 9,Flat 2,Hertford Street,2010-06-25,885000,F,N,L,2
+W1J 7RJ,8 - 9,Flat 203,Hertford Street,2011-03-18,940000,F,N,L,2
+W1J 7RJ,8 - 9,Flat 204,Hertford Street,2010-01-18,950000,F,N,L,2
+W1J 7RJ,8 - 9,Flat 3,Hertford Street,2007-08-09,475000,F,N,L,1
+W1J 7RJ,8 - 9,Flat 401,Hertford Street,2006-09-05,425000,F,N,L,1
+W1J 7RJ,8 - 9,Flat 402,Hertford Street,2006-09-06,425000,F,N,L,1
+W1J 7RJ,8 - 9,Flat 403,Hertford Street,2006-09-07,425000,F,N,L,1
+W1J 7RJ,8 - 9,Flat 404,Hertford Street,2006-09-08,425000,F,N,L,1
+W1J 7RL,"Sheridan House, 10",,Hertford Street,2000-05-21,3500000,T,N,F,1
+W1J 7RT,18,Second Floor Flat,Hertford Street,1997-08-26,420000,F,N,L,2
+W1J 7RZ,22 - 23,,Hertford Street,2005-11-16,1465000,D,N,F,1
+W1J 7SJ,41,,Hertford Street,1998-03-20,1200000,T,N,L,1
+W1J 7SJ,41,D,Hertford Street,2007-06-14,1050000,F,N,L,3
+W1J 7SJ,41,E,Hertford Street,2001-12-14,430000,F,N,L,1
+W1J 7SJ,41,Flat E,Hertford Street,2018-06-29,1450000,F,N,L,1
+W1J 7SJ,41,Fourth And Fifth Floor Flat,Hertford Street,2007-07-06,2450000,F,N,L,2
+W1J 7SP,48,,Hertford Street,2003-05-27,1360000,T,N,F,1
+W1J 7SQ,39,,Hertford Street,1997-01-21,985000,S,N,L,1
+W1J 7ST,51 - 52,"First, Second And Third Floors",Hertford Street,2010-07-01,1900000,F,N,L,2
+W1J 7ST,51 - 52,Flat 2,Hertford Street,2011-10-11,1750000,F,N,L,1
+W1J 7ST,51 - 52,Flat 3,Hertford Street,2011-09-23,1750000,F,N,L,1
+W1J 7SU,Carrington House,Flat 403,Hertford Street,2006-02-28,780000,F,N,L,3
+W1J 7SU,Carrington House,Flat 404,Hertford Street,2016-04-22,1690000,F,N,L,2
+W1J 7SU,Carrington House,Flat 405,Hertford Street,2016-10-14,850000,F,N,L,2
+W1J 7SU,Carrington House,Flat 408,Hertford Street,2006-05-25,495000,F,N,L,1
+W1J 7SU,Carrington House,Flat 409,Hertford Street,1996-06-21,245000,F,N,L,1
+W1J 7SU,Carrington House,Flat 410,Hertford Street,1995-10-03,215000,F,N,L,2
+W1J 7SU,Carrington House,Flat 501,Hertford Street,2018-06-28,1600000,F,N,L,1
+W1J 7SU,Carrington House,Flat 502,Hertford Street,2003-04-24,485000,F,N,L,1
+W1J 7SU,Carrington House,Flat 507,Hertford Street,2009-04-29,600000,F,N,L,2
+W1J 7SU,Carrington House,Flat 509,Hertford Street,2012-08-24,785000,F,N,L,1
+W1J 7SU,Carrington House,Flat 601,Hertford Street,1995-02-01,202500,F,N,L,1
+W1J 7SU,Carrington House,Flat 602,Hertford Street,2009-10-16,940000,F,N,L,5
+W1J 7SU,Carrington House,Flat 603,Hertford Street,1999-10-05,335000,F,N,L,4
+W1J 7SU,Carrington House,Flat 604,Hertford Street,2014-06-12,1900000,F,N,L,2
+W1J 7SU,Carrington House,Flat 702,Hertford Street,2000-04-20,390000,F,N,L,1
+W1J 7SU,Carrington House,Flat 703,Hertford Street,1999-01-15,400000,F,N,L,1
+W1J 7SU,Carrington House,Flat 704,Hertford Street,2007-04-18,780000,F,N,L,1
+W1J 7SW,47,,Hertford Street,2002-10-14,2200000,T,N,F,1
+W1J 5LT,33,Flat 1,Hill Street,2016-03-31,7030000,F,N,L,1
+W1J 5LT,33,Flat 10,Hill Street,2001-06-28,1300000,F,N,L,2
+W1J 5LT,33,Flat 11,Hill Street,2003-09-25,1200000,F,N,L,1
+W1J 5LT,33,Flat 3,Hill Street,2001-12-21,1650000,F,N,L,1
+W1J 5LT,33,Flat 4,Hill Street,2017-07-18,2250000,F,N,L,3
+W1J 5LT,33,Flat 9,Hill Street,2001-01-13,425000,F,N,L,1
+W1J 5LY,39,Flat 71,Hill Street,2003-07-21,275000,F,N,L,1
+W1J 5LY,39,Flat 78,Hill Street,2003-05-30,176000,F,N,L,1
+W1J 5LY,39,Flat 80,Hill Street,2000-04-07,245000,F,N,L,3
+W1J 5LY,39,Flat 81,Hill Street,2003-12-22,535000,F,N,L,4
+W1J 5LZ,39,Flat 32,Hill Street,2011-06-20,650000,F,N,L,2
+W1J 5LZ,39,Flat 33,Hill Street,2007-03-26,340000,F,N,L,3
+W1J 5LZ,39,Flat 34,Hill Street,2002-01-18,210000,F,N,L,1
+W1J 5LZ,39,Flat 41,Hill Street,1995-10-25,137500,F,N,L,1
+W1J 5LZ,39,Flat 45,Hill Street,2003-03-13,385000,F,N,L,2
+W1J 5LZ,39,Flat 54,Hill Street,2003-08-28,425000,F,N,L,3
+W1J 5NA,39,Flat 11,Hill Street,2002-05-20,275000,F,N,L,1
+W1J 5NA,39,Flat 24,Hill Street,2003-05-23,180000,F,N,L,1
+W1J 5NA,39,Flat 25,Hill Street,2003-12-23,225000,F,N,L,3
+W1J 5NA,39,Flat 28,Hill Street,2007-05-15,730000,F,N,L,1
+W1J 5ND,2,,Hill Street,2002-09-03,2500000,F,N,L,1
+W1J 5NH,12 - 18,Flat 14,Hill Street,2001-04-06,313725,F,Y,L,1
+W1J 5NH,12 - 18,Flat 6,Hill Street,2001-06-15,1025000,F,N,L,1
+W1J 5NJ,20,,Hill Street,2008-05-02,1934000,T,N,F,1
+W1J 5NP,"Audley Court, 32 - 34",15,Hill Street,2001-12-07,620000,F,N,L,1
+W1J 5NP,"Audley Court, 32 - 34",Flat 1,Hill Street,2011-12-02,2300000,F,N,L,3
+W1J 5NP,"Audley Court, 32 - 34",Flat 10,Hill Street,1999-06-24,475000,F,N,L,1
+W1J 5NP,"Audley Court, 32 - 34",Flat 13,Hill Street,2011-12-07,450000,F,N,L,1
+W1J 5NP,"Audley Court, 32 - 34",Flat 3,Hill Street,2012-10-29,2300000,F,N,L,2
+W1J 5NP,"Audley Court, 32 - 34",Flat 5,Hill Street,2000-10-02,600000,F,N,L,2
+W1J 5NT,40B,,Hill Street,2001-03-14,2000000,T,N,L,1
+W1J 5NW,28,,Hill Street,2004-08-27,1315000,F,N,L,5
+W1J 5NW,28,Flat 1,Hill Street,2006-10-06,188000,F,N,L,2
+W1J 5NW,28,Flat 2,Hill Street,2006-10-06,380000,F,N,L,1
+W1J 5NW,28,Flat 4,Hill Street,1998-07-10,865000,F,N,L,1
+W1J 7BY,11,Flat 2,Market Mews,2016-09-22,1174565,F,N,L,7
+W1J 7BY,5,,Market Mews,2001-03-23,806000,F,N,F,1
+W1J 7BZ,11 - 15,Flat 4,Market Mews,1997-01-24,160000,F,N,L,2
+W1J 7BZ,8,,Market Mews,2000-02-10,930000,T,N,F,1
+W1J 7BZ,"Nugent House, 10",,Market Mews,1999-11-18,5540000,T,N,F,1
+W1J 7BZ,"Nugent House, 10",1,Market Mews,2002-11-08,880000,F,N,L,1
+W1J 7BZ,"Nugent House, 10",2,Market Mews,2001-02-26,585000,F,N,L,1
+W1J 0DP,"Malta House, 36 - 38",Unit 1,Piccadilly,2006-07-24,114089,F,N,L,1
+W1J 7NE,89,,Piccadilly,2008-04-15,133000,F,N,L,1
+W1J 7NE,89,Flat 1,Piccadilly,2004-11-15,499950,F,N,L,2
+W1J 7NE,89,Flat 11,Piccadilly,1999-05-10,335000,F,N,L,1
+W1J 7NE,89,Flat 12,Piccadilly,2009-05-01,750000,F,N,L,1
+W1J 7NE,89,Flat 14,Piccadilly,2010-03-04,800000,F,N,L,4
+W1J 7NE,89,Flat 2,Piccadilly,2001-08-24,460000,F,N,L,2
+W1J 7NE,89,Flat 4,Piccadilly,2006-07-07,495000,F,N,L,1
+W1J 7NE,89,Flat 5,Piccadilly,2002-05-24,470000,F,N,L,1
+W1J 7NE,89,Flat 6,Piccadilly,2002-07-12,635000,F,N,L,1
+W1J 7NE,89,Flat 7,Piccadilly,2011-07-28,171825,F,N,L,1
+W1J 7NE,89,Flat 9,Piccadilly,1996-06-21,300000,F,N,L,1
+W1J 7NH,100,Flat 1,Piccadilly,2006-02-27,1195000,F,N,L,4
+W1J 7NH,100,Flat 10,Piccadilly,2002-09-02,570000,F,N,L,1
+W1J 7NH,100,Flat 3,Piccadilly,1997-09-26,375000,F,N,L,1
+W1J 7NH,100,Flat 4,Piccadilly,2005-12-15,730000,F,N,L,1
+W1J 7NH,100,Flat 5,Piccadilly,2007-06-08,875000,F,N,L,3
+W1J 7NH,100,Flat 6,Piccadilly,2001-08-10,570000,F,N,L,1
+W1J 7NH,100,Flat 7,Piccadilly,2007-04-04,750000,F,N,L,2
+W1J 7NH,100,Flat 9,Piccadilly,2005-06-28,937500,F,N,L,1
+W1J 7NP,"Latymer House, 134",Flat 1,Piccadilly,2004-09-02,1275000,F,N,L,1
+W1J 7NP,"Latymer House, 134",Flat 10,Piccadilly,2003-09-09,795000,F,N,L,1
+W1J 7NP,"Latymer House, 134",Flat 11,Piccadilly,2003-09-04,1300000,F,N,L,1
+W1J 7NP,"Latymer House, 134",Flat 12,Piccadilly,2003-11-13,825000,F,N,L,1
+W1J 7NP,"Latymer House, 134",Flat 2,Piccadilly,2020-03-06,2250000,F,N,L,3
+W1J 7NP,"Latymer House, 134",Flat 3,Piccadilly,2012-11-23,3500000,F,N,L,2
+W1J 7NP,"Latymer House, 134",Flat 4,Piccadilly,2016-01-29,2300000,F,N,L,2
+W1J 7NP,"Latymer House, 134",Flat 5,Piccadilly,2004-04-22,1500000,F,N,L,1
+W1J 7NP,"Latymer House, 134",Flat 6,Piccadilly,2003-09-01,775000,F,N,L,1
+W1J 7NP,"Latymer House, 134",Flat 7,Piccadilly,2003-11-20,1518000,F,N,L,1
+W1J 7NP,"Latymer House, 134",Flat 8,Piccadilly,2003-11-20,782000,F,N,L,1
+W1J 7NP,"Latymer House, 134",Flat 9,Piccadilly,2004-07-23,1400000,F,N,L,1
+W1J 5PA,4 - 5,Apartment 5,Queen Street,2016-11-24,7200000,F,N,L,1
+W1J 5PB,7,,Queen Street,2000-03-20,2250000,T,N,F,1
+W1J 5PF,11,,Queen Street,2002-07-29,1700000,T,N,L,2
+W1J 5JR,4,,Red Lion Yard,2000-06-15,790000,S,Y,L,1
+W1J 5JR,5,,Red Lion Yard,2000-08-29,900000,T,Y,L,1
+W1J 5JR,6,,Red Lion Yard,2015-06-05,1575000,T,N,F,5
+W1J 5JR,7,,Red Lion Yard,2010-11-25,1225000,S,N,F,2
+W1J 5JT,1,,Saddle Yard,2014-02-14,2500000,F,N,L,2
+W1J 7PA,1A,,Shepherd Market,1996-08-27,155000,F,N,L,1
+W1J 7PE,7,,Shepherd Market,2008-12-19,63000,T,N,L,1
+W1J 7PG,11,,Shepherd Market,2006-12-05,685000,F,N,L,1
+W1J 7PR,27A,,Shepherd Market,2016-06-21,210000,F,N,L,3
+W1J 7PS,29,,Shepherd Market,2011-05-12,550000,F,N,L,2
+W1J 7QF,10,Ground Floor And Basement Premises,Shepherd Market,2002-03-14,775000,T,N,L,1
+W1J 7QX,54,,Shepherd Market,1998-09-15,600000,T,N,L,1
+W1J 7HJ,1,,Shepherd Street,2007-07-13,1150000,F,N,L,1
+W1J 7HN,"Shepherds House, 5",Flat 10,Shepherd Street,2015-03-06,1150000,F,N,L,1
+W1J 7HN,"Shepherds House, 5",Flat 12,Shepherd Street,1998-01-06,270000,F,N,L,1
+W1J 7HN,"Shepherds House, 5",Flat 14,Shepherd Street,1997-07-25,255000,F,N,L,1
+W1J 7HN,"Shepherds House, 5",Flat 15,Shepherd Street,1997-08-01,262000,F,N,L,1
+W1J 7HN,"Shepherds House, 5",Flat 18,Shepherd Street,2012-10-16,1250000,F,N,L,4
+W1J 7HN,"Shepherds House, 5",Flat 2,Shepherd Street,2002-08-31,247995,F,N,L,2
+W1J 7HN,"Shepherds House, 5",Flat 5,Shepherd Street,2020-05-29,925000,F,N,L,1
+W1J 7HN,"Shepherds House, 5",Flat 6,Shepherd Street,1999-07-22,240000,F,N,L,2
+W1J 7HN,"Shepherds House, 5",Flat 7,Shepherd Street,1995-03-30,185000,F,N,L,1
+W1J 7HN,"Shepherds House, 5",Flat 8,Shepherd Street,2020-06-12,1350000,F,N,L,2
+W1J 7HP,5B,,Shepherd Street,1996-11-15,300000,S,N,L,1
+W1J 7HP,5C,,Shepherd Street,2004-12-01,490000,F,N,F,1
+W1J 7HY,33,,Shepherd Street,2006-10-06,1650000,T,N,F,3
+W1J 7HZ,35,,Shepherd Street,2007-02-16,1500000,T,N,F,4
+W1J 7JJ,30,,Shepherd Street,2015-03-17,6800000,T,N,F,2
+W1J 7JL,42,,Shepherd Street,2011-03-23,2500000,T,N,F,2
+W1J 7JQ,20,First Floor Flat,Shepherd Street,2004-05-28,250000,F,N,L,2
+W1J 7JQ,20,The Third Floor Flat,Shepherd Street,2010-06-22,312500,F,N,L,3
+W1J 7BT,16,,Stanhope Row,1999-11-01,340000,F,N,L,1
+W1J 7BT,18,,Stanhope Row,2002-01-03,700000,D,N,L,1
+W1J 7BT,20,,Stanhope Row,2002-01-18,635000,T,N,L,1
+W1J 7BT,22,,Stanhope Row,2002-06-13,820000,T,N,L,2
+W1J 7LS,3,,Trebeck Street,1999-10-08,645000,T,N,F,1
+W1J 7LY,8A,,Trebeck Street,2005-09-01,550000,F,N,L,1
+W1J 5QN,1,,Waverton Street,2019-01-25,15000000,S,N,F,1
+W1J 5QN,3,,Waverton Street,2013-04-30,2500000,T,N,F,1
+W1J 5QN,4,,Waverton Street,1997-09-16,750000,S,N,F,1
+W1J 7LD,2,Ground First Second And Third Floors,White Horse Street,2004-11-25,835000,F,N,L,1
+W1J 7LE,2A,Ground Floor,White Horse Street,2013-06-28,1780000,F,N,L,1
+W1J 7LG,4,Flat,White Horse Street,2011-02-16,800000,F,N,L,4

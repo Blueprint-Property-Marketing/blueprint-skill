@@ -33,6 +33,20 @@
     </div>
   </section>
 
+  <section class="grid two" id="extra-row">
+    <div class="card" id="tp-card">
+      <h2>Houses and flats.</h2>
+      <p class="note" id="tp-note"></p>
+      <div class="legend" id="tp-legend"></div>
+      <div id="tp"></div>
+    </div>
+    <div class="card" id="rent-card">
+      <h2>Rents and yields.</h2>
+      <p class="note" id="rent-note"></p>
+      <div class="scroll"><table id="rents"></table></div>
+    </div>
+  </section>
+
   <section class="grid two">
     <div class="card">
       <h2>Registered sales by month.</h2>
@@ -50,7 +64,7 @@
     <div class="card">
       <div class="toggle" id="map-mode"><button data-p="12" class="on">12 months</button><button data-p="all">Since 2021</button></div>
       <h2>Where it sold.</h2>
-      <p class="note">Each dot is a postcode, sized by sales and shaded by median price. Click one to see its sales.</p>
+      <p class="note">Each dot is a postcode, sized by sales and shaded by median price, on the area's streets. Click one to see its sales.</p>
       <div id="map"></div>
       <div class="legend" id="map-legend" style="margin-top:8px"></div>
     </div>
@@ -108,6 +122,8 @@
   var MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
   var MONTHS_LONG = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
 
+  // public mode (?public in the address, or a "public" class): streets only, no house numbers, for screen-sharing
+  var PUBLIC = /[?&#]public\b/.test(location.href) || document.documentElement.classList.contains("public");
   var BR = applyBrand(D), HOUSE = BR.house, B = BR.brand, accent = BR.accent, rgb = BR.rgb,
       second = BR.second, shade = BR.shade;
 
@@ -132,10 +148,10 @@
   if (PT) kpis.push({ label: "Average price, " + PT.geography, value: money(PT.average_price),
     meta: '<span class="' + cls(PT.annual_change_pct) + '">' + pct(PT.annual_change_pct) + "</span> on a year. UK HPI, " + esc(PT.month) + "." });
   kpis.push({ label: "Registered sales, " + A.district, value: L12.registered_sales.toLocaleString("en-GB"),
-    meta: esc(L12.window) + "." + (vol ? ' <span class="' + cls(vol.change_pct) + '">' + pct(vol.change_pct) + "</span> on the year before (" + esc(vol.window) + ")." : "") });
+    meta: esc(L12.window) + "." + (vol && !PUBLIC ? ' <span class="' + cls(vol.change_pct) + '">' + pct(vol.change_pct) + "</span> on the year before (" + esc(vol.window) + ")." : "") });
   kpis.push({ label: "Median sale, " + A.district, value: money(L12.median_price), meta: "Last 12 months, " + L12.registered_sales + " sales." });
   if (L12.top_sale) kpis.push({ label: "Top sale, " + A.district, value: money(L12.top_sale.price),
-    meta: esc(L12.top_sale.type + ", " + L12.top_sale.street + ", " + L12.top_sale.month) + "." });
+    meta: esc(L12.top_sale.type + ", " + (PUBLIC ? "" : L12.top_sale.street + ", ") + L12.top_sale.month) + "." });
   el("kpis").innerHTML = kpis.map(function (k) {
     return '<div class="card kpi"><div class="label">' + esc(k.label) + '</div><div class="value">' + k.value + '</div><div class="meta">' + k.meta + "</div></div>";
   }).join("");
@@ -245,6 +261,46 @@
 
   // ---------- map
   var mapPeriod = "12";
+  // ---------- the street map under the dots (OS OpenData: roads, rivers, parks, place names)
+  function mapLine(a, q) { var la = a[0], lo = a[1], pts = [[la / q, lo / q]]; for (var i = 2; i < a.length; i += 2) { la += a[i]; lo += a[i + 1]; pts.push([la / q, lo / q]); } return pts; }
+  function mapPath(list, q, px, close) {
+    var s = "";
+    (list || []).forEach(function (a) { var p = mapLine(a, q); s += "M" + p.map(function (c) { var v = px(c); return v[0].toFixed(1) + " " + v[1].toFixed(1); }).join("L") + (close ? "Z" : ""); });
+    return s;
+  }
+  function basemap(M, px, W, H) {
+    var q = M.q, R = M.roads || {}, out = '<rect width="' + W + '" height="' + H.toFixed(0) + '" fill="#EDF0F4"/>';
+    var green = mapPath(M.green, q, px, true);
+    if (green) out += '<path d="' + green + '" fill="#DCE9D7" stroke="none"/>';
+    var w = M.water || {};
+    if ((w.r || []).length) out += '<path d="' + mapPath(w.r, q, px) + '" fill="none" stroke="#B7D3EE" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>';
+    if ((w.R || []).length) out += '<path d="' + mapPath(w.R, q, px) + '" fill="none" stroke="#B7D3EE" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>';
+    // widths: casing first, then the road; local streets thin white channels, A roads and motorways bolder
+    var S = [["x", 1.5, "#FFFFFF"], ["l", 1.9, "#FFFFFF"], ["m", 2.6, "#FFFFFF"], ["B", 3.4, "#FFFFFF"], ["A", 4.2, "#FFFFFF"], ["M", 5.4, "#E2E6EE"]];
+    var paths = {};
+    S.forEach(function (s) { paths[s[0]] = mapPath(R[s[0]], q, px); });
+    S.forEach(function (s) { if (paths[s[0]]) out += '<path d="' + paths[s[0]] + '" fill="none" stroke="' + (s[0] === "M" ? "#8E99AD" : s[0] === "A" ? "#AEB7C6" : "#CDD4DE") + '" stroke-width="' + (s[1] + (s[0] === "M" || s[0] === "A" ? 1.8 : 1.3)) + '" stroke-linecap="round" stroke-linejoin="round"/>'; });
+    S.forEach(function (s) { if (paths[s[0]]) out += '<path d="' + paths[s[0]] + '" fill="none" stroke="' + s[2] + '" stroke-width="' + s[1] + '" stroke-linecap="round" stroke-linejoin="round"/>'; });
+    return out;
+  }
+  function placeLabels(M, px, W, H) {
+    var out = "", boxes = [];
+    function free(b) { return boxes.every(function (o) { return b[2] < o[0] || b[0] > o[2] || b[3] < o[1] || b[1] > o[3]; }); }
+    (M.shields || []).forEach(function (s) {
+      var v = px([s[1] / M.q, s[2] / M.q]), wd = s[0].length * 6.4 + 8, b = [v[0] - wd / 2, v[1] - 8, v[0] + wd / 2, v[1] + 8];
+      if (v[0] < 10 || v[0] > W - 10 || v[1] < 10 || v[1] > H - 10 || !free(b)) return;
+      boxes.push(b);
+      out += '<g><rect x="' + b[0].toFixed(1) + '" y="' + (v[1] - 7).toFixed(1) + '" width="' + wd.toFixed(1) + '" height="14" rx="3" fill="#FFFFFF" stroke="#7D8698" stroke-width="0.8"/>' +
+        '<text x="' + v[0].toFixed(1) + '" y="' + (v[1] + 3.6).toFixed(1) + '" text-anchor="middle" font-size="10" font-weight="700" fill="#2B3140">' + esc(s[0]) + "</text></g>";
+    });
+    (M.places || []).forEach(function (p) {
+      var size = [15, 13.5, 12, 11, 10][p[3]] || 10, v = px([p[1] / M.q, p[2] / M.q]), wd = p[0].length * size * 0.56, b = [v[0] - wd / 2 - 3, v[1] - size, v[0] + wd / 2 + 3, v[1] + 4];
+      if (b[0] < 4 || b[2] > W - 4 || b[1] < 4 || b[3] > H - 14 || !free(b)) return;
+      boxes.push(b);
+      out += '<text x="' + v[0].toFixed(1) + '" y="' + v[1].toFixed(1) + '" text-anchor="middle" font-size="' + size + '" font-weight="' + (p[3] <= 1 ? 600 : 500) + '" fill="#4A5366" stroke="#EDF0F4" stroke-width="3.2" stroke-linejoin="round" paint-order="stroke" letter-spacing="0.02em">' + esc(p[0]) + "</text>";
+    });
+    return out;
+  }
   function drawMap() {
     var from = mapPeriod === "12" ? since12 : "0000";
     var by = {};
@@ -254,8 +310,8 @@
     var all = Object.keys(D.coords).map(function (k) { return D.coords[k]; });
     var lats = all.map(function (c) { return c[0]; }), lngs = all.map(function (c) { return c[1]; });
     var la0 = Math.min.apply(null, lats), la1 = Math.max.apply(null, lats), lo0 = Math.min.apply(null, lngs), lo1 = Math.max.apply(null, lngs);
-    var k = Math.cos((la0 + la1) / 2 * Math.PI / 180), W = 640, pad = 16;
-    var sx = (lo1 - lo0) * k || 1e-3, sy = (la1 - la0) || 1e-3, scale = (W - 2 * pad) / sx, H = Math.min(520, sy * scale + 2 * pad);
+    var MAP = D.map, k = Math.cos((la0 + la1) / 2 * Math.PI / 180), W = 640, pad = 16;
+    var sx = (lo1 - lo0) * k || 1e-3, sy = (la1 - la0) || 1e-3, scale = (W - 2 * pad) / sx, H = MAP ? 470 : Math.min(520, sy * scale + 2 * pad);
     scale = Math.min(scale, (H - 2 * pad) / sy);
     var ox = (W - sx * scale) / 2, oy = (H - sy * scale) / 2;
     function px(c) { return [ox + (c[1] - lo0) * k * scale, oy + (la1 - c[0]) * scale]; }
@@ -263,14 +319,15 @@
     var cuts = [.2, .4, .6, .8].map(function (q) { return meds[Math.floor(q * (meds.length - 1))]; });
     var tones = [.18, .34, .52, .72, .95];
     function tone(m) { var i = 0; while (i < cuts.length && m > cuts[i]) i++; return tones[i]; }
-    var g = "";
-    all.forEach(function (c) { var p = px(c); g += '<circle cx="' + p[0].toFixed(1) + '" cy="' + p[1].toFixed(1) + '" r="1.3" fill="#E3E6EA"/>'; });
+    var g = MAP ? basemap(MAP, px, W, H) : "";
+    if (!MAP) all.forEach(function (c) { var p = px(c); g += '<circle cx="' + p[0].toFixed(1) + '" cy="' + p[1].toFixed(1) + '" r="1.3" fill="#E3E6EA"/>'; });
     pcs.sort(function (a, b) { return by[b].length - by[a].length; }).forEach(function (pc) {
       var p = px(D.coords[pc]), n = by[pc].length, m = median(by[pc]);
       g += '<circle data-pc="' + esc(pc) + '" cx="' + p[0].toFixed(1) + '" cy="' + p[1].toFixed(1) + '" r="' + Math.min(3 + Math.sqrt(n) * 1.9, 13).toFixed(1) +
         '" fill="' + shade(tone(m)) + '" stroke="#fff" stroke-width="1" style="cursor:pointer"><title>' + esc(pc + ": " + n + " sale" + (n > 1 ? "s" : "") + ", median " + money(m)) + "</title></circle>";
     });
-    el("map").innerHTML = '<svg viewBox="0 0 ' + W + " " + H.toFixed(0) + '" role="img" aria-label="Sales by postcode">' + g + "</svg>";
+    if (MAP) g += placeLabels(MAP, px, W, H) + '<text x="' + (W - 6) + '" y="' + (H - 6).toFixed(0) + '" text-anchor="end" font-size="8.5" fill="#8A93A3">Contains OS data © Crown copyright and database right</text>';
+    el("map").innerHTML = '<svg viewBox="0 0 ' + W + " " + H.toFixed(0) + '" role="img" aria-label="Sales by postcode, on a street map" style="border-radius:10px;overflow:hidden;display:block">' + g + "</svg>";
     var edges = [meds[0]].concat(cuts).concat([meds[meds.length - 1]]);
     el("map-legend").innerHTML = tones.map(function (t, i) {
       return '<span><i style="background:' + shade(t) + ';height:10px;width:10px;border-radius:5px"></i>' + short(edges[i]) + "–" + short(edges[i + 1]) + "</span>";
@@ -338,7 +395,7 @@
   // ---------- explorer
   var sortKey = "date", sortDir = -1, shown = 50;
   el("explorer-note").textContent = "All " + sales.length.toLocaleString("en-GB") + " standard sales registered in " + A.district + " since " +
-    new Date(D.dates.sales_from + "T00:00:00").toLocaleDateString("en-GB", { month: "long", year: "numeric" }) + ". House numbers are for your own reference.";
+    new Date(D.dates.sales_from + "T00:00:00").toLocaleDateString("en-GB", { month: "long", year: "numeric" }) + (PUBLIC ? ". Public view: streets only." : ". House numbers are for your own reference.");
   function setFilter(q, period, newOnly) {
     el("q").value = q; el("period").value = period || "all"; el("newonly").checked = !!newOnly; shown = 50; drawSales();
     el("explorer-card").scrollIntoView({ behavior: "smooth", block: "start" });
@@ -370,7 +427,7 @@
     function th(k, label, num) { return "<th class='sort" + (num ? " num" : "") + "' data-k='" + k + "'>" + label + (sortKey === k ? (sortDir < 0 ? " ↓" : " ↑") : "") + "</th>"; }
     el("sales").innerHTML = "<tr>" + th("date", "Date") + th("street", "Address") + th("pc", "Postcode") + th("type", "Type") + "<th>Tenure</th>" + th("price", "Price", true) + "</tr>" +
       rows.slice(0, shown).map(function (s) {
-        return "<tr><td style='white-space:nowrap'>" + new Date(s.date + "T00:00:00").toLocaleDateString("en-GB", { day: "numeric", month: "short", year: "numeric" }) + "</td><td>" + esc((s.addr ? s.addr + " " : "") + s.street) +
+        return "<tr><td style='white-space:nowrap'>" + new Date(s.date + "T00:00:00").toLocaleDateString("en-GB", { day: "numeric", month: "short", year: "numeric" }) + "</td><td>" + esc((s.addr && !PUBLIC ? s.addr + " " : "") + s.street) +
           (s.nb ? " <span class='pill'>new build</span>" : "") + "</td><td style='white-space:nowrap'>" + esc(s.pc) + "</td><td>" + TYPES[s.type] + "</td><td>" + (s.ten === "F" ? "Freehold" : "Leasehold") +
           "</td><td class='num'>" + money(s.price) + "</td></tr>";
       }).join("");
@@ -386,6 +443,40 @@
   });
   el("more").addEventListener("click", function () { shown += 100; drawSales(); });
   drawSales();
+
+  // ---------- houses and flats; rents and yields (hidden when an area's files predate them)
+  (function () {
+    var TP = D.type_prices, RT = D.rents;
+    if (!TP || !TP.months || !TP.months.length) { el("tp-card").style.display = "none"; }
+    else {
+      var cols = [accent, BR.series[1], "#C9A227", "#8A93A3"], keys = ["D", "S", "T", "F"];
+      var W = 640, H = 230, pl = 54, pr = 10, pt = 10, pb = 24, vals = [];
+      keys.forEach(function (k) { (TP[k] || []).forEach(function (v) { if (v != null) vals.push(v); }); });
+      var lo = Math.min.apply(null, vals), hi = Math.max.apply(null, vals), pad = (hi - lo) * .08; lo -= pad; hi += pad;
+      var x = function (i) { return pl + i * (W - pl - pr) / Math.max(1, TP.months.length - 1); };
+      var y = function (v) { return pt + (hi - v) * (H - pt - pb) / (hi - lo); };
+      var g = "";
+      for (var k = 0; k <= 4; k++) { var v = lo + k * (hi - lo) / 4; g += '<line x1="' + pl + '" x2="' + (W - pr) + '" y1="' + y(v).toFixed(1) + '" y2="' + y(v).toFixed(1) + '" stroke="#E4E7EE"/><text x="' + (pl - 6) + '" y="' + (y(v) + 4).toFixed(1) + '" text-anchor="end" font-size="10.5" fill="#5F6472">' + short(v) + "</text>"; }
+      TP.months.forEach(function (m, i) { if (i % 12 === 0) g += '<text x="' + x(i).toFixed(1) + '" y="' + (H - 6) + '" text-anchor="middle" font-size="10.5" fill="#5F6472">' + m.slice(0, 4) + "</text>"; });
+      keys.forEach(function (key, j) {
+        var d = "", on = false;
+        (TP[key] || []).forEach(function (v, i) { if (v == null) { on = false; return; } d += (on ? "L" : "M") + x(i).toFixed(1) + " " + y(v).toFixed(1); on = true; });
+        g += '<path d="' + d + '" fill="none" stroke="' + cols[j] + '" stroke-width="2" stroke-linejoin="round"/>';
+      });
+      el("tp").innerHTML = '<svg viewBox="0 0 ' + W + " " + H + '" role="img" aria-label="Average price by property type">' + g + "</svg>";
+      el("tp-legend").innerHTML = keys.map(function (key, j) { return '<span><i style="background:' + cols[j] + '"></i>' + TYPES[key] + "</span>"; }).join("");
+      var last = TP.months.length - 1, yb = Math.max(0, last - 12);
+      var ch = keys.map(function (key) { var a = TP[key][yb], b = TP[key][last]; return a && b ? TYPES[key].toLowerCase() + " " + pct(100 * (b - a) / a) : null; }).filter(Boolean);
+      el("tp-note").textContent = "Average price by property type in " + D.area.local_authority + " (UK House Price Index), monthly since 2016. In the year to " + mlabel(TP.months[last], true) + ": " + ch.join(", ") + ".";
+    }
+    if (!RT) { el("rent-card").style.display = "none"; return; }
+    var yl = {}; (RT.gross_yields || []).forEach(function (r) { yl[r.type] = r; });
+    var rows = "<tr><th>Property</th><th class='num'>Average rent</th><th class='num'>On a year</th><th class='num'>Gross yield</th></tr>";
+    rows += RT.by_type.map(function (r) { var q = yl[r.type]; return "<tr><td>" + esc(r.type) + "</td><td class='num'>" + money(r.rent) + "</td><td class='num'>" + pct(r.change) + "</td><td class='num'>" + (q ? q.gross_yield_pct.toFixed(1) + "%" : "<span class='note'>too few</span>") + "</td></tr>"; }).join("");
+    rows += RT.by_bedrooms.map(function (r) { return "<tr><td>" + esc(r.bedrooms) + " bed</td><td class='num'>" + money(r.rent) + "</td><td class='num'>" + pct(r.change) + "</td><td></td></tr>"; }).join("");
+    el("rents").innerHTML = rows;
+    el("rent-note").textContent = "Average monthly rent across all tenancies in " + RT.council + ", " + RT.month + " (ONS Price Index of Private Rents). Gross yield: the type's average rent x 12 over its median registered sale in " + D.area.district + " in the last 12 months. Indicative, before costs.";
+  })();
 
   renderGapAndFooter(D);
 })();

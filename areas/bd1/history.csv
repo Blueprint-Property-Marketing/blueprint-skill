@@ -1,0 +1,2344 @@
+postcode,paon,saon,street,date,price,type,new,tenure,sales
+BD1 2LJ,1,,Akam Road,2006-05-30,78500,T,N,F,3
+BD1 2LJ,3,,Akam Road,2013-05-24,55000,T,N,F,2
+BD1 2LJ,5,,Akam Road,2011-02-11,62500,T,N,F,2
+BD1 2LJ,7,,Akam Road,2007-01-12,83000,T,N,F,2
+BD1 1QS,7,,Albion Court,2016-12-20,43000,T,N,F,2
+BD1 1UG,49,Flat 1,Bank Street,2009-12-01,80500,F,Y,L,1
+BD1 1UG,49,Flat 10,Bank Street,2007-04-04,119500,F,Y,L,1
+BD1 1UG,49,Flat 2,Bank Street,2007-04-30,149499,F,N,L,1
+BD1 1UG,49,Flat 3,Bank Street,2008-03-20,135000,F,Y,L,1
+BD1 1UG,49,Flat 4,Bank Street,2014-03-03,45000,F,N,L,1
+BD1 1UG,49,Flat 5,Bank Street,2008-03-20,145000,F,Y,L,1
+BD1 1UG,49,Flat 6,Bank Street,2007-01-12,102000,F,Y,L,1
+BD1 1UG,49,Flat 7,Bank Street,2007-07-04,154995,F,Y,L,1
+BD1 1UG,49,Flat 9,Bank Street,2007-05-21,135996,T,N,L,1
+BD1 2PS,33,,Baptist Place,2005-03-16,45000,F,N,L,1
+BD1 2PS,35,,Baptist Place,2007-05-16,30000,F,N,L,1
+BD1 4AR,Fairfax House,11,Barkerend Road,2003-04-23,20000,F,N,L,1
+BD1 4AR,Fairfax House,32,Barkerend Road,2015-04-28,30500,F,N,L,1
+BD1 2AW,28,,Barry Street,2003-03-18,60000,T,N,F,1
+BD1 4DA,"The John Green Building, 27",Apartment 2,Bolton Road,2008-08-11,103200,F,Y,L,1
+BD1 4DA,"The John Green Building, 27",Apartment 38,Bolton Road,2008-08-31,89010,F,Y,L,1
+BD1 4DA,"The John Green Building, 27",Apartment 40,Bolton Road,2008-08-05,89010,F,Y,L,1
+BD1 4DA,"The John Green Building, 27A",Apartment 7.2,Bolton Road,2010-06-09,100000,F,Y,L,1
+BD1 4DR,27A,,Bolton Road,2010-01-28,94000,F,N,L,1
+BD1 4DR,"Alexander House, 39 - 41",Apartment 206,Bolton Road,2014-11-27,61400,F,Y,L,1
+BD1 4DR,"Alexander House, 39 - 41",Apartment 207,Bolton Road,2015-02-09,68200,F,Y,L,1
+BD1 4DR,"Alexander House, 39 - 41",Apartment 208,Bolton Road,2015-04-24,71300,F,Y,L,1
+BD1 4DR,"Alexander House, 39 - 41",Apartment 209,Bolton Road,2015-05-18,68400,F,Y,L,1
+BD1 4DR,"Alexander House, 39 - 41",Apartment 210,Bolton Road,2015-05-18,65610,F,Y,L,1
+BD1 4DR,"Alexander House, 39 - 41",Apartment 211,Bolton Road,2015-05-18,64170,F,Y,L,1
+BD1 4DR,"Alexander House, 39 - 41",Apartment 212,Bolton Road,2015-05-25,69750,F,Y,L,1
+BD1 4DR,"Alexander House, 39 - 41",Apartment 213,Bolton Road,2015-05-18,68400,F,Y,L,1
+BD1 4DR,"Alexander House, 39 - 41",Apartment 214,Bolton Road,2015-05-18,68400,F,Y,L,1
+BD1 4DR,"Alexander House, 39 - 41",Apartment 215,Bolton Road,2015-05-18,68400,F,Y,L,1
+BD1 4DR,"Alexander House, 39 - 41",Apartment 216,Bolton Road,2015-03-19,54800,F,Y,L,1
+BD1 4DR,"Alexander House, 39 - 41",Apartment 217,Bolton Road,2014-11-27,53300,F,Y,L,1
+BD1 4DR,"Alexander House, 39 - 41",Apartment 301,Bolton Road,2014-11-27,56500,F,Y,L,1
+BD1 4DR,"Alexander House, 39 - 41",Apartment 302,Bolton Road,2014-11-27,67700,F,Y,L,1
+BD1 4DR,"Alexander House, 39 - 41",Apartment 303,Bolton Road,2014-11-27,67700,F,Y,L,1
+BD1 4DR,"Alexander House, 39 - 41",Apartment 304,Bolton Road,2014-11-27,65900,F,Y,L,1
+BD1 4DR,"Alexander House, 39 - 41",Apartment 305,Bolton Road,2015-03-13,65900,F,Y,L,1
+BD1 4DR,"Alexander House, 39 - 41",Apartment 306,Bolton Road,2014-12-16,64000,F,Y,L,1
+BD1 4DR,"Alexander House, 39 - 41",Apartment 307,Bolton Road,2015-01-30,71700,F,Y,L,1
+BD1 4DR,"Alexander House, 39 - 41",Apartment 308,Bolton Road,2015-04-29,73300,F,Y,L,1
+BD1 4DR,"Alexander House, 39 - 41",Apartment 309,Bolton Road,2015-03-26,78000,F,Y,L,1
+BD1 4DR,"Alexander House, 39 - 41",Apartment 312,Bolton Road,2015-04-27,70000,F,Y,L,1
+BD1 4DR,"Alexander House, 39 - 41",Apartment 313,Bolton Road,2015-04-27,73000,F,Y,L,1
+BD1 4DR,"Alexander House, 39 - 41",Apartment 314,Bolton Road,2015-05-07,70000,F,Y,L,1
+BD1 4DR,"Alexander House, 39 - 41",Apartment 402,Bolton Road,2014-11-27,68900,F,Y,L,1
+BD1 4DR,"Alexander House, 39 - 41",Apartment 403,Bolton Road,2014-11-27,68900,F,Y,L,1
+BD1 4DR,"Alexander House, 39 - 41",Apartment 408,Bolton Road,2015-02-27,74300,F,N,L,1
+BD1 4DR,"Alexander House, 39 - 41",Apartment 410,Bolton Road,2015-01-30,72700,F,N,L,1
+BD1 4DR,"Alexander House, 39 - 41",Apartment 412,Bolton Road,2015-04-27,76500,F,Y,L,1
+BD1 4DR,"Alexander House, 39 - 41",Apartment 413,Bolton Road,2014-11-27,77500,F,Y,L,1
+BD1 4DR,"Alexander House, 39 - 41",Apartment 414,Bolton Road,2015-04-08,75500,F,Y,L,1
+BD1 4DR,"Alexander House, 39 - 41",Apartment 415,Bolton Road,2015-03-07,77100,F,Y,L,1
+BD1 4DR,"Alexander House, 39 - 41",Apartment 416,Bolton Road,2014-11-27,86700,F,Y,L,1
+BD1 4DR,"Alexander House, 39 - 41",Apartment 417,Bolton Road,2014-11-27,81900,F,Y,L,1
+BD1 4DR,"Alexander House, 39 - 41",Apartment 501,Bolton Road,2014-11-27,77700,F,Y,L,1
+BD1 4DR,"Alexander House, 39 - 41",Apartment 502,Bolton Road,2014-12-16,70100,F,Y,L,1
+BD1 4DR,"Alexander House, 39 - 41",Apartment 503,Bolton Road,2014-11-27,70100,F,Y,L,1
+BD1 4DR,"Alexander House, 39 - 41",Apartment 504,Bolton Road,2014-11-27,68200,F,Y,L,1
+BD1 4DR,"Alexander House, 39 - 41",Apartment 505,Bolton Road,2014-11-27,68200,F,Y,L,1
+BD1 4DR,"Alexander House, 39 - 41",Apartment 506,Bolton Road,2015-01-30,68200,F,Y,L,1
+BD1 4DR,"Alexander House, 39 - 41",Apartment 507,Bolton Road,2015-03-18,74600,F,Y,L,1
+BD1 4DR,"Alexander House, 39 - 41",Apartment 508,Bolton Road,2015-04-17,74300,F,Y,L,1
+BD1 4DR,"Alexander House, 39 - 41",Apartment 509,Bolton Road,2015-04-29,79200,F,Y,L,1
+BD1 4DR,"Alexander House, 39 - 41",Apartment 512,Bolton Road,2015-05-07,80000,F,Y,L,1
+BD1 4DR,"Alexander House, 39 - 41",Apartment 513,Bolton Road,2015-04-30,80000,F,Y,L,1
+BD1 4DR,"Alexander House, 39 - 41",Apartment 514,Bolton Road,2014-11-27,82000,F,Y,L,1
+BD1 4DR,"Alexander House, 39 - 41",Apartment 515,Bolton Road,2015-05-07,79000,F,Y,L,1
+BD1 4DR,"Alexander House, 39 - 41",Apartment 516,Bolton Road,2014-11-27,77700,F,Y,L,1
+BD1 4DR,"Alexander House, 39 - 41",Apartment 517,Bolton Road,2014-11-27,81500,F,Y,L,1
+BD1 4DR,"Alexander House, 39 - 41",Apartment 601,Bolton Road,2014-12-16,77700,F,Y,L,1
+BD1 4DR,"Alexander House, 39 - 41",Apartment 602,Bolton Road,2014-12-16,70100,F,Y,L,1
+BD1 4DR,"Alexander House, 39 - 41",Apartment 603,Bolton Road,2014-11-27,68200,F,Y,L,1
+BD1 4DR,"Alexander House, 39 - 41",Apartment 604,Bolton Road,2014-12-16,68200,F,Y,L,1
+BD1 4DR,"Alexander House, 39 - 41",Apartment 605,Bolton Road,2014-12-16,68200,F,Y,L,1
+BD1 4DR,"Alexander House, 39 - 41",Apartment 606,Bolton Road,2015-06-24,66300,F,Y,L,1
+BD1 4DR,"Alexander House, 39 - 41",Apartment 607,Bolton Road,2015-03-19,74600,F,Y,L,1
+BD1 4DR,"Alexander House, 39 - 41",Apartment 612,Bolton Road,2015-04-27,81000,F,Y,L,1
+BD1 4DR,"Alexander House, 39 - 41",Apartment 613,Bolton Road,2015-04-29,81000,F,Y,L,1
+BD1 4DR,"Alexander House, 39 - 41",Apartment 614,Bolton Road,2015-04-29,81000,F,Y,L,1
+BD1 4DR,"Alexander House, 39 - 41",Apartment 616,Bolton Road,2014-11-27,84700,F,Y,L,1
+BD1 4DR,"Alexander House, 39 - 41",Apartment 617,Bolton Road,2014-11-27,83400,F,Y,L,1
+BD1 4DR,Apartment 17,Apartment 17,Bolton Road,2008-12-04,101480,F,Y,L,1
+BD1 4DR,Apartment 24,Apartment 24,Bolton Road,2008-08-12,101150,F,Y,L,1
+BD1 4DR,Apartment 47,Apartment 47,Bolton Road,2008-11-07,89870,F,Y,L,1
+BD1 4DR,"The John Green Building, 27",Apartment 1,Bolton Road,2008-07-31,98040,F,N,L,1
+BD1 4DR,"The John Green Building, 27",Apartment 10,Bolton Road,2008-12-12,100500,F,Y,L,1
+BD1 4DR,"The John Green Building, 27",Apartment 11,Bolton Road,2008-08-31,86860,F,Y,L,1
+BD1 4DR,"The John Green Building, 27",Apartment 12,Bolton Road,2008-08-19,86430,F,Y,L,1
+BD1 4DR,"The John Green Building, 27",Apartment 14,Bolton Road,2008-09-04,86430,F,Y,L,1
+BD1 4DR,"The John Green Building, 27",Apartment 15,Bolton Road,2008-12-12,100500,F,Y,L,1
+BD1 4DR,"The John Green Building, 27",Apartment 16,Bolton Road,2008-09-08,86430,F,Y,L,1
+BD1 4DR,"The John Green Building, 27",Apartment 18,Bolton Road,2008-08-11,106640,F,Y,L,1
+BD1 4DR,"The John Green Building, 27",Apartment 19,Bolton Road,2008-08-06,86860,F,Y,L,1
+BD1 4DR,"The John Green Building, 27",Apartment 20,Bolton Road,2008-09-01,87290,F,Y,L,1
+BD1 4DR,"The John Green Building, 27",Apartment 21,Bolton Road,2008-08-11,87720,F,Y,L,1
+BD1 4DR,"The John Green Building, 27",Apartment 22,Bolton Road,2008-08-31,87290,F,Y,L,1
+BD1 4DR,"The John Green Building, 27",Apartment 23,Bolton Road,2008-08-11,84290,F,Y,L,1
+BD1 4DR,"The John Green Building, 27",Apartment 25,Bolton Road,2008-08-14,87290,F,Y,L,1
+BD1 4DR,"The John Green Building, 27",Apartment 26,Bolton Road,2008-08-05,103200,F,Y,L,1
+BD1 4DR,"The John Green Building, 27",Apartment 27,Bolton Road,2008-08-01,108360,F,Y,L,1
+BD1 4DR,"The John Green Building, 27",Apartment 28,Bolton Road,2008-11-28,87720,F,Y,L,1
+BD1 4DR,"The John Green Building, 27",Apartment 29,Bolton Road,2008-10-01,85150,F,Y,L,1
+BD1 4DR,"The John Green Building, 27",Apartment 3,Bolton Road,2008-09-13,85140,F,Y,L,1
+BD1 4DR,"The John Green Building, 27",Apartment 30,Bolton Road,2008-08-31,88580,F,Y,L,1
+BD1 4DR,"The John Green Building, 27",Apartment 31,Bolton Road,2008-08-31,88150,F,Y,L,1
+BD1 4DR,"The John Green Building, 27",Apartment 32,Bolton Road,2008-08-07,88150,F,Y,L,1
+BD1 4DR,"The John Green Building, 27",Apartment 33,Bolton Road,2008-08-11,88150,F,Y,L,1
+BD1 4DR,"The John Green Building, 27",Apartment 34,Bolton Road,2008-10-22,102500,F,Y,L,1
+BD1 4DR,"The John Green Building, 27",Apartment 35,Bolton Road,2008-08-19,104920,F,Y,L,1
+BD1 4DR,"The John Green Building, 27",Apartment 36,Bolton Road,2008-08-11,110080,F,Y,L,1
+BD1 4DR,"The John Green Building, 27",Apartment 37,Bolton Road,2008-08-13,88580,F,Y,L,1
+BD1 4DR,"The John Green Building, 27",Apartment 39,Bolton Road,2008-08-12,89440,F,Y,L,1
+BD1 4DR,"The John Green Building, 27",Apartment 4,Bolton Road,2014-12-18,55000,F,N,L,2
+BD1 4DR,"The John Green Building, 27",Apartment 41,Bolton Road,2008-10-17,89010,F,Y,L,1
+BD1 4DR,"The John Green Building, 27",Apartment 42,Bolton Road,2008-08-01,103500,F,Y,L,1
+BD1 4DR,"The John Green Building, 27",Apartment 43,Bolton Road,2008-10-17,89010,F,Y,L,1
+BD1 4DR,"The John Green Building, 27",Apartment 44,Bolton Road,2008-08-11,106460,F,Y,L,1
+BD1 4DR,"The John Green Building, 27",Apartment 45,Bolton Road,2008-09-26,101800,F,Y,L,1
+BD1 4DR,"The John Green Building, 27",Apartment 46,Bolton Road,2008-10-13,89440,F,Y,L,1
+BD1 4DR,"The John Green Building, 27",Apartment 48,Bolton Road,2008-08-12,90300,F,Y,L,1
+BD1 4DR,"The John Green Building, 27",Apartment 49,Bolton Road,2008-12-24,100000,F,Y,L,1
+BD1 4DR,"The John Green Building, 27",Apartment 5,Bolton Road,2008-12-22,100000,F,Y,L,1
+BD1 4DR,"The John Green Building, 27",Apartment 50,Bolton Road,2008-08-01,89870,F,Y,L,1
+BD1 4DR,"The John Green Building, 27",Apartment 51,Bolton Road,2008-08-13,89870,F,Y,L,1
+BD1 4DR,"The John Green Building, 27",Apartment 52,Bolton Road,2008-08-12,104500,F,Y,L,1
+BD1 4DR,"The John Green Building, 27",Apartment 55,Bolton Road,2010-08-20,110000,F,N,L,2
+BD1 4DR,"The John Green Building, 27",Apartment 6,Bolton Road,2009-02-10,85570,F,Y,L,1
+BD1 4DR,"The John Green Building, 27",Apartment 7,Bolton Road,2008-11-14,99760,F,Y,L,2
+BD1 4DR,"The John Green Building, 27",Apartment 8,Bolton Road,2008-12-19,120000,F,Y,L,1
+BD1 4DR,"The John Green Building, 27",Apartment 9,Bolton Road,2008-08-08,86000,F,Y,L,1
+BD1 3BW,10,,Bowland Street,2000-07-27,31000,T,N,F,1
+BD1 3BW,7,,Bowland Street,2000-03-20,32000,S,N,F,1
+BD1 3ED,13,,Brearton Street,2018-10-12,110000,T,N,F,4
+BD1 3ED,15,,Brearton Street,2001-04-09,50000,T,N,L,1
+BD1 3ED,21,,Brearton Street,2020-09-04,205000,T,N,F,1
+BD1 3ED,3,,Brearton Street,2012-11-09,149000,T,N,F,2
+BD1 3EF,1,,Brearton Street,2004-11-02,117000,T,N,L,2
+BD1 1RX,9,Flat 1,Bridge Street,2007-12-17,110000,F,Y,L,1
+BD1 1RX,9,Flat 10,Bridge Street,2007-12-06,95000,F,N,L,1
+BD1 1RX,9,Flat 11,Bridge Street,2007-12-07,95000,F,Y,L,1
+BD1 1RX,9,Flat 12,Bridge Street,2007-12-17,105000,F,Y,L,1
+BD1 1RX,9,Flat 13,Bridge Street,2007-12-17,110000,F,Y,L,1
+BD1 1RX,9,Flat 15,Bridge Street,2008-01-23,110000,F,N,L,2
+BD1 1RX,9,Flat 2,Bridge Street,2008-01-07,110000,F,Y,L,1
+BD1 1RX,9,Flat 3,Bridge Street,2007-12-01,95000,F,Y,L,1
+BD1 1RX,9,Flat 4,Bridge Street,2007-12-21,95000,F,Y,L,1
+BD1 1RX,9,Flat 5,Bridge Street,2008-01-23,215000,F,Y,L,1
+BD1 1RX,9,Flat 6,Bridge Street,2007-11-29,95000,F,N,L,1
+BD1 1RX,9,Flat 8,Bridge Street,2007-12-21,110000,F,N,L,1
+BD1 1RX,9,Flat 9,Bridge Street,2008-02-01,110000,F,N,L,1
+BD1 4QQ,2,Apartment 87,Broad Street,2006-01-10,119500,F,N,L,2
+BD1 4QQ,Broadgate House,Apartment 70,Broad Street,2004-07-13,143000,F,Y,L,1
+BD1 4QQ,Broadgate House,Apartment 71,Broad Street,2004-08-26,132000,F,Y,L,1
+BD1 4QQ,"Broadgate House, 2",Apartment 1,Broad Street,2004-03-12,96000,F,Y,L,1
+BD1 4QQ,"Broadgate House, 2",Apartment 12,Broad Street,2004-01-05,86000,F,Y,L,1
+BD1 4QQ,"Broadgate House, 2",Apartment 12A,Broad Street,2003-12-09,70000,F,Y,L,1
+BD1 4QQ,"Broadgate House, 2",Apartment 14,Broad Street,2003-12-05,115000,F,Y,L,1
+BD1 4QQ,"Broadgate House, 2",Apartment 15,Broad Street,2003-12-15,83000,F,Y,L,1
+BD1 4QQ,"Broadgate House, 2",Apartment 16,Broad Street,2003-12-23,98500,F,Y,L,1
+BD1 4QQ,"Broadgate House, 2",Apartment 17,Broad Street,2004-01-30,122000,F,Y,L,1
+BD1 4QQ,"Broadgate House, 2",Apartment 18,Broad Street,2004-09-24,106000,F,N,L,2
+BD1 4QQ,"Broadgate House, 2",Apartment 19,Broad Street,2003-12-19,77625,F,Y,L,1
+BD1 4QQ,"Broadgate House, 2",Apartment 2,Broad Street,2004-02-27,87000,F,Y,L,1
+BD1 4QQ,"Broadgate House, 2",Apartment 20,Broad Street,2006-12-20,86950,F,N,L,2
+BD1 4QQ,"Broadgate House, 2",Apartment 22,Broad Street,2004-01-12,132000,F,Y,L,1
+BD1 4QQ,"Broadgate House, 2",Apartment 23,Broad Street,2004-01-12,132000,F,N,L,1
+BD1 4QQ,"Broadgate House, 2",Apartment 24,Broad Street,2016-10-04,65000,F,N,L,2
+BD1 4QQ,"Broadgate House, 2",Apartment 26,Broad Street,2007-11-30,120000,F,N,L,3
+BD1 4QQ,"Broadgate House, 2",Apartment 27,Broad Street,2003-11-28,105000,F,Y,L,1
+BD1 4QQ,"Broadgate House, 2",Apartment 28,Broad Street,2010-12-17,35000,F,N,L,2
+BD1 4QQ,"Broadgate House, 2",Apartment 29,Broad Street,2003-12-17,70000,F,Y,L,1
+BD1 4QQ,"Broadgate House, 2",Apartment 30,Broad Street,2003-10-22,115000,F,Y,L,1
+BD1 4QQ,"Broadgate House, 2",Apartment 31,Broad Street,2003-10-24,83000,F,Y,L,1
+BD1 4QQ,"Broadgate House, 2",Apartment 32,Broad Street,2003-10-22,113250,F,Y,L,1
+BD1 4QQ,"Broadgate House, 2",Apartment 33,Broad Street,2005-12-21,121000,F,N,L,2
+BD1 4QQ,"Broadgate House, 2",Apartment 34,Broad Street,2004-04-05,84000,F,Y,L,1
+BD1 4QQ,"Broadgate House, 2",Apartment 35,Broad Street,2003-09-29,77275,F,Y,L,1
+BD1 4QQ,"Broadgate House, 2",Apartment 36,Broad Street,2006-11-01,85000,F,N,L,2
+BD1 4QQ,"Broadgate House, 2",Apartment 37,Broad Street,2003-12-17,93000,F,Y,L,1
+BD1 4QQ,"Broadgate House, 2",Apartment 38,Broad Street,2003-10-20,132000,F,Y,L,1
+BD1 4QQ,"Broadgate House, 2",Apartment 39,Broad Street,2003-10-03,132000,F,Y,L,1
+BD1 4QQ,"Broadgate House, 2",Apartment 40,Broad Street,2003-10-28,126708,F,Y,L,1
+BD1 4QQ,"Broadgate House, 2",Apartment 41,Broad Street,2004-01-21,88000,F,Y,L,1
+BD1 4QQ,"Broadgate House, 2",Apartment 42,Broad Street,2003-10-23,101000,F,Y,L,1
+BD1 4QQ,"Broadgate House, 2",Apartment 43,Broad Street,2003-11-07,96000,F,Y,L,1
+BD1 4QQ,"Broadgate House, 2",Apartment 44,Broad Street,2007-08-23,89000,F,N,L,3
+BD1 4QQ,"Broadgate House, 2",Apartment 45,Broad Street,2003-09-12,70000,F,Y,L,1
+BD1 4QQ,"Broadgate House, 2",Apartment 46,Broad Street,2003-11-25,118000,F,Y,L,1
+BD1 4QQ,"Broadgate House, 2",Apartment 47,Broad Street,2004-01-27,96750,F,N,L,2
+BD1 4QQ,"Broadgate House, 2",Apartment 48,Broad Street,2005-11-02,105000,F,N,L,2
+BD1 4QQ,"Broadgate House, 2",Apartment 49,Broad Street,2012-10-17,86000,F,N,L,3
+BD1 4QQ,"Broadgate House, 2",Apartment 5,Broad Street,2007-08-21,89000,F,N,L,2
+BD1 4QQ,"Broadgate House, 2",Apartment 50,Broad Street,2003-09-15,87000,F,Y,L,1
+BD1 4QQ,"Broadgate House, 2",Apartment 51,Broad Street,2004-02-06,80000,F,N,L,1
+BD1 4QQ,"Broadgate House, 2",Apartment 52,Broad Street,2006-09-13,107000,F,N,L,3
+BD1 4QQ,"Broadgate House, 2",Apartment 52A,Broad Street,2020-05-22,55000,F,N,L,3
+BD1 4QQ,"Broadgate House, 2",Apartment 53,Broad Street,2004-07-19,127950,F,N,L,2
+BD1 4QQ,"Broadgate House, 2",Apartment 54,Broad Street,2003-10-20,140000,F,Y,L,1
+BD1 4QQ,"Broadgate House, 2",Apartment 56,Broad Street,2004-05-21,91000,F,N,L,2
+BD1 4QQ,"Broadgate House, 2",Apartment 57,Broad Street,2007-05-04,104000,F,N,L,2
+BD1 4QQ,"Broadgate House, 2",Apartment 58,Broad Street,2003-11-05,96000,F,Y,L,1
+BD1 4QQ,"Broadgate House, 2",Apartment 59,Broad Street,2007-04-03,84000,F,N,L,3
+BD1 4QQ,"Broadgate House, 2",Apartment 6,Broad Street,2004-02-09,84000,F,N,L,1
+BD1 4QQ,"Broadgate House, 2",Apartment 60,Broad Street,2012-03-21,49995,F,N,L,2
+BD1 4QQ,"Broadgate House, 2",Apartment 61,Broad Street,2003-08-27,115000,F,Y,L,1
+BD1 4QQ,"Broadgate House, 2",Apartment 62,Broad Street,2003-11-05,96000,F,Y,L,1
+BD1 4QQ,"Broadgate House, 2",Apartment 63,Broad Street,2003-08-27,98500,F,Y,L,1
+BD1 4QQ,"Broadgate House, 2",Apartment 64,Broad Street,2008-05-16,120000,F,N,L,1
+BD1 4QQ,"Broadgate House, 2",Apartment 65,Broad Street,2003-09-11,76500,F,Y,L,1
+BD1 4QQ,"Broadgate House, 2",Apartment 66,Broad Street,2003-08-28,78000,F,Y,L,1
+BD1 4QQ,"Broadgate House, 2",Apartment 67,Broad Street,2005-02-28,95000,F,N,L,2
+BD1 4QQ,"Broadgate House, 2",Apartment 68,Broad Street,2015-08-24,86000,F,N,L,3
+BD1 4QQ,"Broadgate House, 2",Apartment 69,Broad Street,2003-09-10,125000,F,Y,L,1
+BD1 4QQ,"Broadgate House, 2",Apartment 7,Broad Street,2004-07-09,100000,F,Y,L,1
+BD1 4QQ,"Broadgate House, 2",Apartment 72,Broad Street,2007-04-04,117000,F,N,L,2
+BD1 4QQ,"Broadgate House, 2",Apartment 73,Broad Street,2004-09-17,86000,F,N,L,2
+BD1 4QQ,"Broadgate House, 2",Apartment 74,Broad Street,2018-01-04,47500,F,N,L,2
+BD1 4QQ,"Broadgate House, 2",Apartment 75,Broad Street,2008-02-04,125000,F,N,L,2
+BD1 4QQ,"Broadgate House, 2",Apartment 76,Broad Street,2005-07-05,149995,F,N,L,2
+BD1 4QQ,"Broadgate House, 2",Apartment 77,Broad Street,2003-11-26,130000,F,Y,L,1
+BD1 4QQ,"Broadgate House, 2",Apartment 79,Broad Street,2003-11-19,116000,F,Y,L,1
+BD1 4QQ,"Broadgate House, 2",Apartment 8,Broad Street,2020-01-24,66000,F,N,L,3
+BD1 4QQ,"Broadgate House, 2",Apartment 80,Broad Street,2007-06-21,95000,F,N,L,3
+BD1 4QQ,"Broadgate House, 2",Apartment 81,Broad Street,2004-10-22,170000,F,Y,L,1
+BD1 4QQ,"Broadgate House, 2",Apartment 82,Broad Street,2005-03-17,149995,F,Y,L,1
+BD1 4QQ,"Broadgate House, 2",Apartment 84,Broad Street,2004-06-25,128900,F,Y,L,1
+BD1 4QQ,"Broadgate House, 2",Apartment 85,Broad Street,2004-04-06,123000,F,Y,L,1
+BD1 4QQ,"Broadgate House, 2",Apartment 86,Broad Street,2007-08-29,131000,F,N,L,1
+BD1 4QQ,"Broadgate House, 2",Apartment 88,Broad Street,2004-07-05,120000,F,N,L,1
+BD1 4QQ,"Broadgate House, 2",Apartment 9,Broad Street,2003-12-05,86000,F,Y,L,1
+BD1 1JB,"Landmark House, 11",Apartment 101,Broadway,2003-07-11,55250,F,Y,L,1
+BD1 1JB,"Landmark House, 11",Apartment 102,Broadway,2003-07-11,42650,F,Y,L,1
+BD1 1JB,"Landmark House, 11",Apartment 103,Broadway,2003-07-11,42650,F,Y,L,1
+BD1 1JB,"Landmark House, 11",Apartment 104,Broadway,2003-07-11,34500,F,Y,L,1
+BD1 1JB,"Landmark House, 11",Apartment 105,Broadway,2003-07-11,46475,F,Y,L,1
+BD1 1JB,"Landmark House, 11",Apartment 106,Broadway,2003-07-11,41000,F,Y,L,1
+BD1 1JB,"Landmark House, 11",Apartment 107,Broadway,2003-07-11,39000,F,Y,L,1
+BD1 1JB,"Landmark House, 11",Apartment 108,Broadway,2003-07-11,46475,F,Y,L,1
+BD1 1JB,"Landmark House, 11",Apartment 201,Broadway,2006-03-10,85000,F,N,L,2
+BD1 1JB,"Landmark House, 11",Apartment 202,Broadway,2003-07-10,53000,F,Y,L,1
+BD1 1JB,"Landmark House, 11",Apartment 203,Broadway,2003-07-07,64000,F,Y,L,1
+BD1 1JB,"Landmark House, 11",Apartment 204,Broadway,2004-02-27,68000,F,N,L,2
+BD1 1JB,"Landmark House, 11",Apartment 205,Broadway,2007-08-03,99000,F,N,L,3
+BD1 1JB,"Landmark House, 11",Apartment 206,Broadway,2003-07-07,56000,F,Y,L,1
+BD1 1JB,"Landmark House, 11",Apartment 207,Broadway,2005-10-10,100000,F,N,L,2
+BD1 1JB,"Landmark House, 11",Apartment 208,Broadway,2016-04-11,35000,F,N,L,2
+BD1 1JB,"Landmark House, 11",Apartment 209,Broadway,2003-07-08,50000,F,Y,L,1
+BD1 1JB,"Landmark House, 11",Apartment 210,Broadway,2003-06-30,52000,F,Y,L,1
+BD1 1JB,"Landmark House, 11",Apartment 211,Broadway,2017-10-03,60000,F,N,L,3
+BD1 1JB,"Landmark House, 11",Apartment 212,Broadway,2004-07-16,93000,F,N,L,2
+BD1 1JB,"Landmark House, 11",Apartment 213,Broadway,2003-07-22,59500,F,N,L,1
+BD1 1JB,"Landmark House, 11",Apartment 214,Broadway,2017-01-31,38000,F,N,L,2
+BD1 1JB,"Landmark House, 11",Apartment 215,Broadway,2003-07-07,59000,F,N,L,1
+BD1 1JB,"Landmark House, 11",Apartment 216,Broadway,2014-11-14,60000,F,N,L,4
+BD1 1JB,"Landmark House, 11",Apartment 217,Broadway,2003-07-07,50000,F,Y,L,1
+BD1 1JB,"Landmark House, 11",Apartment 218,Broadway,2007-12-20,108000,F,N,L,3
+BD1 1JB,"Landmark House, 11",Apartment 301,Broadway,2006-03-01,91000,F,N,L,2
+BD1 1JB,"Landmark House, 11",Apartment 302,Broadway,2004-07-30,75000,F,N,L,2
+BD1 1JB,"Landmark House, 11",Apartment 303,Broadway,2003-07-04,79950,F,N,L,1
+BD1 1JB,"Landmark House, 11",Apartment 305,Broadway,2003-07-02,64500,F,Y,L,1
+BD1 1JB,"Landmark House, 11",Apartment 306,Broadway,2003-07-04,56000,F,Y,L,1
+BD1 1JB,"Landmark House, 11",Apartment 307,Broadway,2003-06-30,68000,F,Y,L,1
+BD1 1JB,"Landmark House, 11",Apartment 308,Broadway,2003-07-04,52000,F,N,L,1
+BD1 1JB,"Landmark House, 11",Apartment 309,Broadway,2006-06-01,98000,F,N,L,4
+BD1 1JB,"Landmark House, 11",Apartment 310,Broadway,2006-08-31,86500,F,N,L,2
+BD1 1JB,"Landmark House, 11",Apartment 311,Broadway,2003-07-03,50000,F,Y,L,1
+BD1 1JB,"Landmark House, 11",Apartment 312,Broadway,2004-02-20,81950,F,N,L,2
+BD1 1JB,"Landmark House, 11",Apartment 313,Broadway,2017-02-28,39995,F,N,L,2
+BD1 1JB,"Landmark House, 11",Apartment 314,Broadway,2003-07-04,51500,F,N,L,1
+BD1 1JB,"Landmark House, 11",Apartment 315,Broadway,2003-07-04,58000,F,N,L,1
+BD1 1JB,"Landmark House, 11",Apartment 316,Broadway,2003-07-04,69000,F,Y,L,1
+BD1 1JB,"Landmark House, 11",Apartment 317,Broadway,2010-02-03,65000,F,N,L,3
+BD1 1JB,"Landmark House, 11",Apartment 318,Broadway,2003-07-04,60000,F,Y,L,1
+BD1 1JB,"Landmark House, 11",Apartment 401,Broadway,2006-05-26,95000,F,N,L,2
+BD1 1JB,"Landmark House, 11",Apartment 402,Broadway,2003-07-04,56000,F,Y,L,1
+BD1 1JB,"Landmark House, 11",Apartment 403,Broadway,2005-09-01,30000,F,N,L,2
+BD1 1JB,"Landmark House, 11",Apartment 404,Broadway,2003-12-12,70000,F,N,L,2
+BD1 1JB,"Landmark House, 11",Apartment 405,Broadway,2003-07-04,71000,F,N,L,1
+BD1 1JB,"Landmark House, 11",Apartment 406,Broadway,2003-07-04,72000,F,N,L,1
+BD1 1JB,"Landmark House, 11",Apartment 407,Broadway,2003-10-17,84000,F,N,L,2
+BD1 1JB,"Landmark House, 11",Apartment 408,Broadway,2004-04-16,69950,F,N,L,2
+BD1 1JB,"Landmark House, 11",Apartment 409,Broadway,2003-07-03,55000,F,Y,L,1
+BD1 1JB,"Landmark House, 11",Apartment 410,Broadway,2003-06-30,56000,F,Y,L,1
+BD1 1JB,"Landmark House, 11",Apartment 411,Broadway,2003-07-07,52000,F,Y,L,1
+BD1 1JB,"Landmark House, 11",Apartment 413,Broadway,2006-12-14,108000,T,N,L,3
+BD1 1JB,"Landmark House, 11",Apartment 414,Broadway,2003-07-09,51500,F,Y,L,1
+BD1 1JB,"Landmark House, 11",Apartment 415,Broadway,2006-07-27,92000,F,N,L,2
+BD1 1JB,"Landmark House, 11",Apartment 416,Broadway,2003-07-18,69000,F,Y,L,1
+BD1 1JB,"Landmark House, 11",Apartment 417,Broadway,2003-07-04,64000,F,N,L,1
+BD1 1JB,"Landmark House, 11",Apartment 418,Broadway,2003-07-04,61000,F,N,L,1
+BD1 1JB,"Landmark House, 11",Apartment 501,Broadway,2004-04-13,93000,F,N,L,2
+BD1 1JB,"Landmark House, 11",Apartment 502,Broadway,2006-09-07,90000,F,N,L,2
+BD1 1JB,"Landmark House, 11",Apartment 503,Broadway,2003-07-15,70000,F,N,L,1
+BD1 1JB,"Landmark House, 11",Apartment 504,Broadway,2004-04-19,78000,F,N,L,2
+BD1 1JB,"Landmark House, 11",Apartment 505,Broadway,2003-07-02,68000,F,Y,L,1
+BD1 1JB,"Landmark House, 11",Apartment 506,Broadway,2007-11-02,97000,F,N,L,2
+BD1 1JB,"Landmark House, 11",Apartment 507,Broadway,2003-07-11,83950,F,N,L,1
+BD1 1JB,"Landmark House, 11",Apartment 508,Broadway,2008-05-09,87000,F,N,L,2
+BD1 1JB,"Landmark House, 11",Apartment 509,Broadway,2013-02-20,56000,F,N,L,2
+BD1 1JB,"Landmark House, 11",Apartment 510,Broadway,2003-07-15,62000,F,Y,L,1
+BD1 1JB,"Landmark House, 11",Apartment 511,Broadway,2003-07-02,53000,F,Y,L,1
+BD1 1JB,"Landmark House, 11",Apartment 512,Broadway,2003-07-15,72000,F,Y,L,1
+BD1 1JB,"Landmark House, 11",Apartment 513,Broadway,2006-03-31,87500,F,N,L,2
+BD1 1JB,"Landmark House, 11",Apartment 514,Broadway,2003-06-26,53000,F,Y,L,1
+BD1 1JB,"Landmark House, 11",Apartment 515,Broadway,2006-07-14,92000,F,N,L,2
+BD1 1JB,"Landmark House, 11",Apartment 516,Broadway,2003-07-03,71000,F,Y,L,1
+BD1 1JB,"Landmark House, 11",Apartment 517,Broadway,2017-02-24,39995,F,N,L,2
+BD1 1JB,"Landmark House, 11",Apartment 518,Broadway,2013-02-18,58000,F,N,L,2
+BD1 1JB,"Landmark House, 11",Apartment 601,Broadway,2003-07-02,80000,F,N,L,1
+BD1 1JB,"Landmark House, 11",Apartment 602,Broadway,2003-07-02,85000,F,N,L,1
+BD1 1JB,"Landmark House, 11",Apartment 603,Broadway,2013-07-10,65000,F,N,L,4
+BD1 1JB,"Landmark House, 11",Apartment 604,Broadway,2003-07-02,82000,F,Y,L,1
+BD1 1JB,"Landmark House, 11",Apartment 605,Broadway,2003-07-02,95000,F,Y,L,1
+BD1 1JB,"Landmark House, 11",Apartment 606,Broadway,2003-07-02,90000,F,N,L,1
+BD1 1JB,"Landmark House, 11",Apartment 607,Broadway,2003-07-02,80000,F,Y,L,1
+BD1 1JB,"Landmark House, 11",Apartment 608,Broadway,2003-06-27,90000,F,Y,L,1
+BD1 1JB,"Landmark House, 11",Apartment 609,Broadway,2003-07-10,82000,F,Y,L,1
+BD1 1JB,"Landmark House, 11",Apartment 610,Broadway,2003-09-24,89000,F,N,L,2
+BD1 1JB,"Landmark House, 11",Apartment 611,Broadway,2008-05-01,110000,F,N,L,3
+BD1 5AP,1,13 Gallon House,Burnett Street,2007-11-05,140290,F,Y,L,1
+BD1 5AP,3B,,Burnett Street,2008-06-16,120000,F,Y,L,1
+BD1 5AP,"Gallon House, 1",1,Burnett Street,2009-08-10,90000,F,Y,L,1
+BD1 5AP,"Gallon House, 1",10,Burnett Street,2009-08-10,120000,F,Y,L,1
+BD1 5AP,"Gallon House, 1",11,Burnett Street,2009-08-10,120000,F,Y,L,1
+BD1 5AP,"Gallon House, 1",12,Burnett Street,2009-08-10,90000,F,Y,L,1
+BD1 5AP,"Gallon House, 1",14,Burnett Street,2009-08-10,120000,F,Y,L,1
+BD1 5AP,"Gallon House, 1",15,Burnett Street,2009-08-10,130000,F,Y,L,1
+BD1 5AP,"Gallon House, 1",17,Burnett Street,2008-06-13,136500,F,Y,L,1
+BD1 5AP,"Gallon House, 1",2,Burnett Street,2008-03-07,85000,F,Y,L,1
+BD1 5AP,"Gallon House, 1",3,Burnett Street,2009-08-10,70000,F,Y,L,1
+BD1 5AP,"Gallon House, 1",4,Burnett Street,2009-08-10,120000,F,Y,L,1
+BD1 5AP,"Gallon House, 1",5,Burnett Street,2007-11-09,120000,F,Y,L,1
+BD1 5AP,"Gallon House, 1",6,Burnett Street,2009-08-10,120000,F,Y,L,1
+BD1 5AP,"Gallon House, 1",7,Burnett Street,2009-08-10,120000,F,Y,L,1
+BD1 5AP,"Gallon House, 1",8,Burnett Street,2008-11-06,95000,F,Y,L,1
+BD1 5AP,"Gallon House, 1",9,Burnett Street,2008-03-07,100000,F,Y,L,1
+BD1 5BJ,"Delaunay House, 8",Apartment 2,Burnett Street,2017-07-25,55000,F,N,L,2
+BD1 5BJ,"Delaunay House, 8",Apartment 4,Burnett Street,2007-07-27,173750,F,N,L,1
+BD1 5BJ,"Delaunay House, 8",Apartment 5,Burnett Street,2007-09-07,115000,F,N,L,1
+BD1 5BJ,"Delaunay House, 8",Apartment 6,Burnett Street,2007-09-05,146625,F,N,L,1
+BD1 5BJ,"Delaunay House, 8",Apartment 7,Burnett Street,2020-12-02,48000,F,N,L,2
+BD1 5BJ,"Delaunay House, 8",Apartment 8,Burnett Street,2007-09-07,111000,F,Y,L,1
+BD1 4QG,Conditioning House,Apartment 120,Cape Street,2020-11-05,101355,F,Y,L,1
+BD1 4QG,Conditioning House,Apartment 127,Cape Street,2020-11-23,94455,F,Y,L,1
+BD1 4QG,Conditioning House,Apartment 25,Cape Street,2020-11-09,98955,F,Y,L,1
+BD1 4QG,Conditioning House,Apartment 29,Cape Street,2020-11-06,96255,F,Y,L,1
+BD1 4QG,Conditioning House,Apartment 31,Cape Street,2020-11-19,80995,F,Y,L,1
+BD1 4QZ,Conditioning House,Apartment 219,Cape Street,2020-11-17,111950,F,Y,L,1
+BD1 4QZ,Conditioning House,Apartment 223,Cape Street,2020-11-04,99155,F,Y,L,1
+BD1 4QZ,Conditioning House,Apartment 226,Cape Street,2020-11-19,97155,F,Y,L,1
+BD1 4QZ,Conditioning House,Apartment 227,Cape Street,2020-11-05,100955,F,Y,L,1
+BD1 4QZ,Conditioning House,Apartment 344,Cape Street,2020-11-06,129452,F,Y,L,1
+BD1 5AS,1A,,Cater Street,2007-12-28,149999,F,Y,L,1
+BD1 2PR,90,,Chain Street,2003-06-16,15000,T,N,L,1
+BD1 5AZ,Olicana House,Flat 111,Chapel Street,2020-12-04,61495,F,Y,L,1
+BD1 5AZ,Olicana House,Flat 113,Chapel Street,2020-11-13,62500,F,Y,L,1
+BD1 5AZ,Olicana House,Flat 122,Chapel Street,2020-11-03,59995,F,Y,L,1
+BD1 5AZ,Olicana House,Flat 203,Chapel Street,2020-11-03,39999,F,Y,L,1
+BD1 5AZ,Olicana House,Flat 207,Chapel Street,2020-11-03,39999,F,Y,L,1
+BD1 5AZ,Olicana House,Flat 210,Chapel Street,2020-02-03,39999,F,Y,L,1
+BD1 5AZ,Olicana House,Flat 211,Chapel Street,2020-11-23,55000,F,Y,L,1
+BD1 5AZ,Olicana House,Flat 212,Chapel Street,2020-11-13,59995,F,Y,L,1
+BD1 5AZ,Olicana House,Flat 213,Chapel Street,2020-11-27,64000,F,Y,L,1
+BD1 5AZ,Olicana House,Flat 311,Chapel Street,2020-11-23,55000,F,Y,L,1
+BD1 5AZ,Olicana House,Flat 314,Chapel Street,2020-11-23,55000,F,Y,L,1
+BD1 5AZ,Olicana House,Flat 324,Chapel Street,2020-11-03,39999,F,Y,L,1
+BD1 5BB,Olicana House,Flat 401,Chapel Street,2020-12-09,50100,F,Y,L,1
+BD1 5BB,Olicana House,Flat 411,Chapel Street,2020-11-23,55000,F,Y,L,1
+BD1 5BB,Olicana House,Flat 413,Chapel Street,2020-11-03,62000,F,Y,L,1
+BD1 5BB,Olicana House,Flat 414,Chapel Street,2020-11-03,65000,F,Y,L,1
+BD1 5BB,Olicana House,Flat 415,Chapel Street,2020-11-30,59995,F,Y,L,1
+BD1 5BB,Olicana House,Flat 417,Chapel Street,2020-11-03,51100,F,Y,L,1
+BD1 5BB,Olicana House,Flat 419,Chapel Street,2020-11-03,55000,F,Y,L,1
+BD1 5BB,Olicana House,Flat 424,Chapel Street,2020-11-03,39999,F,Y,L,1
+BD1 5DL,24,,Chapel Street,2003-11-28,78000,T,N,F,2
+BD1 5DL,26,,Chapel Street,2007-12-20,175000,T,N,F,1
+BD1 5DN,"Richard Day Building, 28",,Chapel Street,2007-03-08,131000,T,N,F,1
+BD1 5DP,"Tayson House, 36",Flat 1,Chapel Street,2009-08-21,70000,F,Y,L,1
+BD1 5DP,"Tayson House, 36",Flat 10,Chapel Street,2009-08-21,90000,F,Y,L,1
+BD1 5DP,"Tayson House, 36",Flat 11,Chapel Street,2009-08-21,125000,F,Y,L,1
+BD1 5DP,"Tayson House, 36",Flat 12,Chapel Street,2009-08-21,125000,F,Y,L,1
+BD1 5DP,"Tayson House, 36",Flat 13,Chapel Street,2009-08-21,90000,F,Y,L,1
+BD1 5DP,"Tayson House, 36",Flat 14,Chapel Street,2009-08-21,85000,F,Y,L,1
+BD1 5DP,"Tayson House, 36",Flat 15,Chapel Street,2009-08-21,90000,F,Y,L,1
+BD1 5DP,"Tayson House, 36",Flat 16,Chapel Street,2009-08-21,90000,F,Y,L,1
+BD1 5DP,"Tayson House, 36",Flat 17,Chapel Street,2009-08-21,85000,F,Y,L,1
+BD1 5DP,"Tayson House, 36",Flat 18,Chapel Street,2009-08-21,105000,F,Y,L,1
+BD1 5DP,"Tayson House, 36",Flat 19,Chapel Street,2009-08-21,130000,F,Y,L,1
+BD1 5DP,"Tayson House, 36",Flat 2,Chapel Street,2009-08-21,70000,F,Y,L,1
+BD1 5DP,"Tayson House, 36",Flat 20,Chapel Street,2009-08-21,85000,F,Y,L,1
+BD1 5DP,"Tayson House, 36",Flat 21,Chapel Street,2009-08-21,90000,F,Y,L,1
+BD1 5DP,"Tayson House, 36",Flat 22,Chapel Street,2009-08-21,85000,F,Y,L,1
+BD1 5DP,"Tayson House, 36",Flat 23,Chapel Street,2009-08-21,90000,F,Y,L,1
+BD1 5DP,"Tayson House, 36",Flat 24,Chapel Street,2009-08-21,90000,F,Y,L,1
+BD1 5DP,"Tayson House, 36",Flat 3,Chapel Street,2009-08-21,125000,F,Y,L,1
+BD1 5DP,"Tayson House, 36",Flat 4,Chapel Street,2018-09-06,54000,F,N,F,1
+BD1 5DP,"Tayson House, 36",Flat 5,Chapel Street,2009-08-21,125000,F,Y,L,1
+BD1 5DP,"Tayson House, 36",Flat 6,Chapel Street,2009-08-21,125000,F,Y,L,1
+BD1 5DP,"Tayson House, 36",Flat 7,Chapel Street,2009-08-21,90000,F,Y,L,1
+BD1 5DP,"Tayson House, 36",Flat 8,Chapel Street,2009-08-21,85000,F,Y,L,1
+BD1 5DP,"Tayson House, 36",Flat 9,Chapel Street,2009-08-21,90000,F,Y,L,1
+BD1 5DQ,"Hanover House, 40",Flat 1,Chapel Street,2009-08-21,60000,F,Y,L,1
+BD1 5DQ,"Hanover House, 40",Flat 10,Chapel Street,2009-08-21,120000,F,Y,L,1
+BD1 5DQ,"Hanover House, 40",Flat 11,Chapel Street,2008-05-16,76000,F,Y,L,1
+BD1 5DQ,"Hanover House, 40",Flat 12,Chapel Street,2009-08-21,85000,F,Y,L,1
+BD1 5DQ,"Hanover House, 40",Flat 13,Chapel Street,2009-08-21,70000,F,Y,L,1
+BD1 5DQ,"Hanover House, 40",Flat 14,Chapel Street,2009-08-21,85000,F,Y,L,1
+BD1 5DQ,"Hanover House, 40",Flat 15,Chapel Street,2009-08-21,120000,F,Y,L,1
+BD1 5DQ,"Hanover House, 40",Flat 16,Chapel Street,2009-08-21,130000,F,Y,L,1
+BD1 5DQ,"Hanover House, 40",Flat 17,Chapel Street,2009-08-21,100000,F,Y,L,1
+BD1 5DQ,"Hanover House, 40",Flat 18,Chapel Street,2009-08-21,105000,F,Y,L,1
+BD1 5DQ,"Hanover House, 40",Flat 19,Chapel Street,2009-08-21,105000,F,Y,L,1
+BD1 5DQ,"Hanover House, 40",Flat 2,Chapel Street,2009-08-21,90000,F,Y,L,1
+BD1 5DQ,"Hanover House, 40",Flat 3,Chapel Street,2009-08-21,85000,F,Y,L,1
+BD1 5DQ,"Hanover House, 40",Flat 4,Chapel Street,2009-08-21,90000,F,Y,L,1
+BD1 5DQ,"Hanover House, 40",Flat 5,Chapel Street,2009-08-21,85000,F,Y,L,1
+BD1 5DQ,"Hanover House, 40",Flat 6,Chapel Street,2008-05-16,85358,F,Y,L,1
+BD1 5DQ,"Hanover House, 40",Flat 7,Chapel Street,2009-08-21,85000,F,Y,L,1
+BD1 5DQ,"Hanover House, 40",Flat 8,Chapel Street,2008-05-21,82075,F,Y,L,1
+BD1 5DQ,"Hanover House, 40",Flat 9,Chapel Street,2009-08-21,85000,F,Y,L,1
+BD1 5DT,17 - 21,,Chapel Street,2007-01-31,92500,T,N,F,1
+BD1 5DT,27,,Chapel Street,1998-04-24,28000,T,N,F,1
+BD1 5RE,Olicana House,Apartment 101,Chapel Street,2014-10-27,41000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 102,Chapel Street,2015-06-24,49500,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 103,Chapel Street,2014-09-25,49500,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 105,Chapel Street,2015-03-30,49500,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 106,Chapel Street,2015-05-14,48500,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 108,Chapel Street,2014-10-27,40000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 109,Chapel Street,2014-08-29,38000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 111,Chapel Street,2015-04-13,51000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 112,Chapel Street,2015-01-30,51000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 114,Chapel Street,2015-09-04,69000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 115,Chapel Street,2014-09-25,50500,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 116,Chapel Street,2014-08-29,40000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 117,Chapel Street,2014-10-02,43000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 118,Chapel Street,2014-09-17,38000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 119,Chapel Street,2014-10-01,44500,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 120,Chapel Street,2014-09-30,49500,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 121,Chapel Street,2015-02-24,51500,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 122,Chapel Street,2015-03-30,52500,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 123,Chapel Street,2015-04-08,57000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 201,Chapel Street,2014-09-24,41000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 202,Chapel Street,2014-10-15,49500,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 203,Chapel Street,2015-04-27,49500,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 204,Chapel Street,2014-09-25,49500,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 207,Chapel Street,2015-01-19,49500,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 208,Chapel Street,2014-08-29,40000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 209,Chapel Street,2014-09-25,40000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 210,Chapel Street,2014-10-16,49500,F,Y,L,2
+BD1 5RE,Olicana House,Apartment 211,Chapel Street,2014-10-23,61000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 212,Chapel Street,2014-10-23,51000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 213,Chapel Street,2015-04-08,56500,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 214,Chapel Street,2014-09-25,60000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 215,Chapel Street,2014-11-17,50500,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 216,Chapel Street,2014-10-28,40000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 217,Chapel Street,2014-10-21,43000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 218,Chapel Street,2014-11-04,40500,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 219,Chapel Street,2014-09-05,44500,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 220,Chapel Street,2014-08-29,49500,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 221,Chapel Street,2014-09-11,51500,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 222,Chapel Street,2014-09-05,52500,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 223,Chapel Street,2014-09-19,59000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 301,Chapel Street,2014-09-12,41500,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 302,Chapel Street,2014-10-21,50000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 303,Chapel Street,2014-09-17,50000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 304,Chapel Street,2014-09-11,50000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 305,Chapel Street,2014-10-16,50000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 306,Chapel Street,2014-09-19,50000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 307,Chapel Street,2014-09-19,50000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 308,Chapel Street,2014-09-12,40400,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 309,Chapel Street,2014-09-25,40500,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 310,Chapel Street,2014-08-29,51000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 311,Chapel Street,2014-09-30,61500,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 312,Chapel Street,2014-10-27,51500,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 313,Chapel Street,2014-08-29,57000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 314,Chapel Street,2014-10-15,60000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 315,Chapel Street,2014-08-29,51000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 317,Chapel Street,2014-10-02,43500,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 318,Chapel Street,2014-09-11,41000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 319,Chapel Street,2014-09-12,45000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 320,Chapel Street,2014-08-29,50000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 321,Chapel Street,2015-03-27,52000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 322,Chapel Street,2014-10-01,53000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 323,Chapel Street,2014-10-23,59500,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 401,Chapel Street,2015-01-19,41500,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 402,Chapel Street,2014-09-15,50000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 403,Chapel Street,2014-09-05,50000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 404,Chapel Street,2014-09-15,50000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 405,Chapel Street,2014-09-12,50000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 406,Chapel Street,2014-09-12,50000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 407,Chapel Street,2014-10-03,49600,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 408,Chapel Street,2014-09-05,40500,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 409,Chapel Street,2014-10-23,40500,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 410,Chapel Street,2014-10-15,51000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 411,Chapel Street,2014-11-17,61500,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 412,Chapel Street,2014-08-29,51500,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 413,Chapel Street,2014-08-29,57000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 414,Chapel Street,2014-09-05,60000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 415,Chapel Street,2014-09-05,51000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 416,Chapel Street,2014-09-11,40500,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 417,Chapel Street,2014-09-15,43500,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 418,Chapel Street,2014-10-21,41000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 419,Chapel Street,2014-11-04,45000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 420,Chapel Street,2014-09-11,50000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 421,Chapel Street,2014-10-03,52000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 422,Chapel Street,2014-10-24,53000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 423,Chapel Street,2014-10-24,59500,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 501,Chapel Street,2014-08-29,42000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 502,Chapel Street,2014-10-23,50500,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 503,Chapel Street,2014-09-19,50500,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 504,Chapel Street,2014-10-21,50500,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 505,Chapel Street,2014-09-19,50500,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 506,Chapel Street,2014-08-29,50500,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 507,Chapel Street,2014-09-30,50500,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 508,Chapel Street,2014-09-11,41000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 509,Chapel Street,2014-10-28,41000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 510,Chapel Street,2014-10-01,51450,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 511,Chapel Street,2014-08-29,57000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 512,Chapel Street,2014-11-11,52000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 513,Chapel Street,2014-08-29,57500,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 514,Chapel Street,2014-08-29,60000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 515,Chapel Street,2014-09-05,51200,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 516,Chapel Street,2014-09-05,40700,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 517,Chapel Street,2014-09-24,44000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 518,Chapel Street,2014-10-15,41500,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 519,Chapel Street,2014-09-11,45500,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 520,Chapel Street,2014-10-21,50500,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 521,Chapel Street,2014-10-03,52500,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 522,Chapel Street,2014-10-31,52350,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 523,Chapel Street,2014-10-21,60000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 601,Chapel Street,2014-11-14,43000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 602,Chapel Street,2014-10-16,51000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 603,Chapel Street,2014-10-16,51000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 604,Chapel Street,2014-10-16,51000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 605,Chapel Street,2014-09-11,51000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 606,Chapel Street,2015-04-08,51000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 607,Chapel Street,2014-11-14,50500,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 608,Chapel Street,2014-09-19,42000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 609,Chapel Street,2014-09-05,42000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 610,Chapel Street,2014-09-19,52000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 611,Chapel Street,2015-04-27,53000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 612,Chapel Street,2014-10-21,54000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment 613,Chapel Street,2015-04-08,61000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment G06,Chapel Street,2014-09-11,44000,F,Y,L,1
+BD1 5RE,Olicana House,Apartment G10,Chapel Street,2015-04-08,59000,F,Y,L,1
+BD1 1HB,"The Xchange, 6",Flat 201,Charles Street,2019-02-26,69696,F,Y,L,1
+BD1 1HB,"The Xchange, 6",Flat 202,Charles Street,2019-02-26,63783,F,Y,L,1
+BD1 1HB,"The Xchange, 6",Flat 204,Charles Street,2019-02-26,91143,F,Y,L,1
+BD1 1HB,"The Xchange, 6",Flat 205,Charles Street,2019-02-26,92853,F,Y,L,1
+BD1 1HB,"The Xchange, 6",Flat 208,Charles Street,2019-02-26,63783,F,Y,L,1
+BD1 1HB,"The Xchange, 6",Flat 209,Charles Street,2019-02-26,63783,F,Y,L,1
+BD1 1HB,"The Xchange, 6",Flat 212,Charles Street,2019-02-26,62507,F,Y,L,1
+BD1 1HB,"The Xchange, 6",Flat 213,Charles Street,2019-02-26,93993,F,Y,L,1
+BD1 1HB,"The Xchange, 6",Flat 214,Charles Street,2019-03-22,90003,F,Y,L,1
+BD1 1HB,"The Xchange, 6",Flat 215,Charles Street,2019-02-26,63783,F,Y,L,1
+BD1 1HB,"The Xchange, 6",Flat 217,Charles Street,2019-02-26,63783,F,Y,L,1
+BD1 1HB,"The Xchange, 6",Flat 218,Charles Street,2019-02-26,72903,F,Y,L,1
+BD1 1HB,"The Xchange, 6",Flat 302,Charles Street,2019-02-26,64923,F,Y,L,1
+BD1 1HB,"The Xchange, 6",Flat 303,Charles Street,2019-03-22,64923,F,Y,L,1
+BD1 1HB,"The Xchange, 6",Flat 308,Charles Street,2019-02-26,70324,F,Y,L,1
+BD1 1HB,"The Xchange, 6",Flat 309,Charles Street,2019-02-26,62976,F,Y,L,1
+BD1 1HB,"The Xchange, 6",Flat 312,Charles Street,2019-02-26,62770,F,Y,L,1
+BD1 1HB,"The Xchange, 6",Flat 313,Charles Street,2019-02-26,103633,F,Y,L,1
+BD1 1HB,"The Xchange, 6",Flat 314,Charles Street,2019-02-26,91713,F,Y,L,1
+BD1 1HB,"The Xchange, 6",Flat 316,Charles Street,2019-02-26,64923,F,Y,L,1
+BD1 1HB,"The Xchange, 6",Flat 401,Charles Street,2019-02-26,64923,F,Y,L,1
+BD1 1HB,"The Xchange, 6",Flat 402,Charles Street,2019-02-26,64742,F,Y,L,1
+BD1 1HB,"The Xchange, 6",Flat 405,Charles Street,2019-02-26,96843,F,Y,L,1
+BD1 1HB,"The Xchange, 6",Flat 410,Charles Street,2019-02-26,66063,F,Y,L,1
+BD1 1HB,"The Xchange, 6",Flat 413,Charles Street,2019-02-26,95703,F,Y,L,1
+BD1 1HB,"The Xchange, 6",Flat 416,Charles Street,2019-03-22,66063,F,Y,L,1
+BD1 1HB,"The Xchange, 6",Flat 418,Charles Street,2019-03-22,75183,F,Y,L,1
+BD1 1HB,"The Xchange, 6",Flat 501,Charles Street,2019-03-22,63783,F,Y,L,1
+BD1 1HB,"The Xchange, 6",Flat 502,Charles Street,2019-05-24,65923,F,Y,L,1
+BD1 1HB,"The Xchange, 6",Flat 503,Charles Street,2019-02-26,67203,F,Y,L,1
+BD1 1HB,"The Xchange, 6",Flat 504,Charles Street,2019-02-26,101923,F,Y,L,1
+BD1 1HB,"The Xchange, 6",Flat 506,Charles Street,2019-02-26,67203,F,Y,L,1
+BD1 1HB,"The Xchange, 6",Flat 514,Charles Street,2019-03-22,93993,F,Y,L,1
+BD1 1HB,"The Xchange, 6",Flat 515,Charles Street,2019-02-26,67203,F,Y,L,1
+BD1 1HB,"The Xchange, 6",Flat 517,Charles Street,2019-03-25,67203,F,Y,L,1
+BD1 1HD,"The Xchange, 6",Flat 602,Charles Street,2019-02-26,65609,F,Y,L,1
+BD1 1HD,"The Xchange, 6",Flat 603,Charles Street,2019-03-22,76843,F,Y,L,1
+BD1 1HD,"The Xchange, 6",Flat 605,Charles Street,2019-02-26,111296,F,Y,L,1
+BD1 1HD,"The Xchange, 6",Flat 609,Charles Street,2019-02-26,68343,F,Y,L,1
+BD1 1HD,"The Xchange, 6",Flat 610,Charles Street,2019-02-26,68343,F,Y,L,1
+BD1 1HD,"The Xchange, 6",Flat 611,Charles Street,2019-02-26,76843,F,Y,L,1
+BD1 1HD,"The Xchange, 6",Flat 612,Charles Street,2019-02-26,68343,F,Y,L,1
+BD1 1HD,"The Xchange, 6",Flat 617,Charles Street,2019-03-25,68343,F,Y,L,1
+BD1 1HD,"The Xchange, 6",Flat 701,Charles Street,2019-02-26,68343,F,Y,L,1
+BD1 1HD,"The Xchange, 6",Flat 702,Charles Street,2019-02-26,69483,F,Y,L,1
+BD1 1HD,"The Xchange, 6",Flat 703,Charles Street,2019-02-26,69483,F,Y,L,1
+BD1 1HD,"The Xchange, 6",Flat 705,Charles Street,2019-02-26,112576,F,Y,L,1
+BD1 1HD,"The Xchange, 6",Flat 707,Charles Street,2019-02-26,67203,F,Y,L,1
+BD1 1HD,"The Xchange, 6",Flat 708,Charles Street,2020-02-26,69483,F,Y,L,1
+BD1 1HD,"The Xchange, 6",Flat 714,Charles Street,2019-02-26,96273,F,Y,L,1
+BD1 1HD,"The Xchange, 6",Flat 715,Charles Street,2019-02-26,69483,F,Y,L,1
+BD1 1HD,"The Xchange, 6",Flat 717,Charles Street,2019-03-25,69483,F,Y,L,1
+BD1 1HD,"The Xchange, 6",Flat 801,Charles Street,2019-02-26,69483,F,Y,L,1
+BD1 1HD,"The Xchange, 6",Flat 802,Charles Street,2019-02-26,67203,F,Y,L,1
+BD1 1HD,"The Xchange, 6",Flat 803,Charles Street,2019-02-26,70623,F,Y,L,1
+BD1 1HD,"The Xchange, 6",Flat 805,Charles Street,2019-02-26,88950,F,Y,L,1
+BD1 1HD,"The Xchange, 6",Flat 808,Charles Street,2019-02-26,69483,F,Y,L,1
+BD1 1HD,"The Xchange, 6",Flat 809,Charles Street,2019-03-22,70623,F,Y,L,1
+BD1 1HD,"The Xchange, 6",Flat 810,Charles Street,2019-02-26,68400,F,Y,L,1
+BD1 1HD,"The Xchange, 6",Flat 811,Charles Street,2019-05-14,71623,F,Y,L,1
+BD1 1HD,"The Xchange, 6",Flat 812,Charles Street,2019-02-26,68400,F,Y,L,1
+BD1 1HD,"The Xchange, 6",Flat 813,Charles Street,2019-02-26,113216,F,Y,L,1
+BD1 1HD,"The Xchange, 6",Flat 814,Charles Street,2019-02-26,97413,F,Y,L,1
+BD1 1HD,"The Xchange, 6",Flat 815,Charles Street,2019-03-22,70623,F,Y,L,1
+BD1 1HD,"The Xchange, 6",Flat 818,Charles Street,2019-02-26,78603,F,Y,L,1
+BD1 4HP,Cheapside Chambers 43,Flat 002,Cheapside,2017-10-20,39000,F,Y,L,1
+BD1 4HP,Cheapside Chambers 43,Flat 003,Cheapside,2018-06-19,33500,F,N,L,1
+BD1 4HP,Cheapside Chambers 43,Flat 006,Cheapside,2020-11-03,33500,F,N,L,2
+BD1 4HP,Cheapside Chambers 43,Flat 008,Cheapside,2018-06-28,33500,F,N,L,1
+BD1 4HP,Cheapside Chambers 43,Flat 010,Cheapside,2017-10-18,68750,F,Y,L,1
+BD1 4HP,Cheapside Chambers 43,Flat 110,Cheapside,2017-07-31,69250,F,Y,L,1
+BD1 4HP,Cheapside Chambers 43,Flat 301,Cheapside,2017-09-06,44000,F,Y,L,1
+BD1 4HP,Cheapside Chambers 43,Flat 303,Cheapside,2017-07-31,44000,F,Y,L,1
+BD1 4HP,Cheapside Chambers 43,Flat 305,Cheapside,2017-08-11,61000,F,Y,L,1
+BD1 4HP,Cheapside Chambers 43,Flat 308,Cheapside,2017-05-11,55227,F,N,L,1
+BD1 4HP,Cheapside Chambers 43,Flat 403,Cheapside,2017-10-17,44250,F,Y,L,1
+BD1 4HP,"Cheapside Chambers, 43",Apartment 2.02,Cheapside,2016-10-13,33000,F,Y,L,1
+BD1 4HP,"Cheapside Chambers, 43",Apartment 2.03,Cheapside,2016-10-13,34000,F,Y,L,1
+BD1 4HP,"Cheapside Chambers, 43",Apartment 2.04,Cheapside,2016-10-13,59800,F,Y,L,1
+BD1 4HP,"Cheapside Chambers, 43",Apartment 2.05,Cheapside,2016-10-11,67500,F,Y,L,1
+BD1 4HP,"Cheapside Chambers, 43",Apartment 2.06,Cheapside,2016-12-08,53500,F,Y,L,1
+BD1 4HP,"Cheapside Chambers, 43",Apartment 2.07,Cheapside,2016-10-14,33000,F,Y,L,1
+BD1 4HP,"Cheapside Chambers, 43",Apartment 2.10,Cheapside,2016-10-11,69800,F,Y,L,1
+BD1 4HP,"Cheapside Chambers, 43",Flat 101,Cheapside,2017-06-30,42000,F,Y,L,1
+BD1 4HP,"Cheapside Chambers, 43",Flat 102,Cheapside,2017-04-10,54491,F,N,L,1
+BD1 4HP,"Cheapside Chambers, 43",Flat 104,Cheapside,2017-05-02,57804,F,N,L,1
+BD1 4HP,"Cheapside Chambers, 43",Flat 106,Cheapside,2017-05-12,57804,F,N,L,1
+BD1 4HP,"Cheapside Chambers, 43",Flat 108,Cheapside,2017-04-10,54491,F,N,L,1
+BD1 4HP,"Cheapside Chambers, 43",Flat 209,Cheapside,2016-12-08,39995,F,Y,L,1
+BD1 4HP,"Cheapside Chambers, 43",Flat 304,Cheapside,2017-04-10,58541,F,N,L,1
+BD1 4HP,"Cheapside Chambers, 43",Flat 307,Cheapside,2017-04-10,57436,F,N,L,1
+BD1 4HP,"Cheapside Chambers, 43",Flat 310,Cheapside,2017-08-31,53000,F,Y,L,1
+BD1 4HP,"Cheapside Chambers, 43",Flat 401,Cheapside,2018-04-27,35000,F,N,L,1
+BD1 4HP,"Cheapside Chambers, 43",Flat 402,Cheapside,2018-03-07,34000,F,N,L,1
+BD1 4HP,"Cheapside Chambers, 43",Flat 404,Cheapside,2018-02-23,37500,F,N,L,1
+BD1 4HP,"Cheapside Chambers, 43",Flat 405,Cheapside,2017-10-11,61250,F,Y,L,1
+BD1 4HP,"Cheapside Chambers, 43",Flat 406,Cheapside,2017-10-06,35000,F,N,L,1
+BD1 4HP,"Cheapside Chambers, 43",Flat 408,Cheapside,2018-02-23,34000,F,N,L,1
+BD1 4HP,"Cheapside Chambers, 43",Flat 502,Cheapside,2018-02-09,42500,F,N,L,1
+BD1 4HP,"Cheapside Chambers, 43",Flat 504,Cheapside,2018-03-02,42500,F,N,L,1
+BD1 4HP,"Cheapside Chambers, 43",Flat 505,Cheapside,2018-02-09,37000,F,N,L,1
+BD1 4HP,"Cheapside Chambers, 43",Flat B.01,Cheapside,2017-10-26,39950,F,N,L,1
+BD1 4HP,"Cheapside Chambers, 43",Flat B.03,Cheapside,2017-10-26,39950,F,N,L,1
+BD1 4HP,"Cheapside Chambers, 43",Flat B.04,Cheapside,2017-10-26,52000,F,N,L,1
+BD1 4HP,"Cheapside Chambers, 43",Flat B.07,Cheapside,2017-10-26,39950,F,N,L,1
+BD1 4HP,"Cheapside Chambers, 43",Flat B02,Cheapside,2018-01-19,38000,F,N,L,1
+BD1 4HP,"Cheapside Chambers, 43",Flat B05,Cheapside,2017-10-26,57000,F,N,L,1
+BD1 4HP,"Cheapside Chambers, 43",Flat B06,Cheapside,2018-09-28,32500,F,N,L,1
+BD1 4HP,"Cheapside Chambers, 43",Flat B10,Cheapside,2018-08-14,39500,F,N,L,1
+BD1 4DZ,26 - 28,,Church Bank,2003-06-26,67500,T,N,F,1
+BD1 4HB,5,,Dale Street,2015-10-15,200000,T,N,F,1
+BD1 3RU,30,,Darfield Street,2004-06-04,70000,T,N,F,2
+BD1 3RU,34,,Darfield Street,2015-08-21,60000,T,N,F,2
+BD1 3RU,38 - 40,,Darfield Street,2006-08-09,95000,T,N,F,2
+BD1 2RF,12,12,Dyson Street,2008-08-27,113925,F,Y,L,1
+BD1 2RF,16,16,Dyson Street,2008-09-01,150000,F,Y,L,1
+BD1 2RF,17,17,Dyson Street,2008-08-28,88000,F,Y,L,1
+BD1 2RF,19,19,Dyson Street,2008-09-25,99000,F,Y,L,1
+BD1 2RF,2,2,Dyson Street,2008-08-27,93500,F,Y,L,1
+BD1 2RF,20,20,Dyson Street,2008-09-05,139750,F,Y,L,1
+BD1 2RF,3,3,Dyson Street,2008-08-27,96750,F,Y,L,1
+BD1 2RF,5,5,Dyson Street,2008-08-27,150000,F,Y,L,1
+BD1 2RF,Ruby House,1,Dyson Street,2008-09-05,99000,F,Y,L,1
+BD1 2RF,Ruby House,10,Dyson Street,2008-09-04,152000,F,Y,L,1
+BD1 2RF,Ruby House,11,Dyson Street,2009-01-09,70400,F,Y,L,1
+BD1 2RF,Ruby House,14,Dyson Street,2012-06-08,60000,F,N,L,2
+BD1 2RF,Ruby House,15,Dyson Street,2008-09-22,139750,F,Y,L,1
+BD1 2RF,Ruby House,18,Dyson Street,2008-09-09,113925,F,Y,L,1
+BD1 2RF,Ruby House,21,Dyson Street,2008-08-08,56000,F,Y,L,1
+BD1 2RF,Ruby House,4,Dyson Street,2008-09-03,111800,F,Y,L,1
+BD1 2RF,Ruby House,6,Dyson Street,2019-09-11,38000,F,N,L,2
+BD1 2RF,Ruby House,7,Dyson Street,2019-07-19,41000,F,N,L,2
+BD1 2RF,Ruby House,8,Dyson Street,2008-09-03,99000,F,N,L,1
+BD1 2RF,Ruby House,9,Dyson Street,2008-09-03,139750,F,Y,L,1
+BD1 5EP,"Caspian House, 61",,East Parade,2002-11-01,320000,D,N,F,1
+BD1 5HD,20,Ground Floor And Basement,East Parade,2014-06-20,175000,F,N,L,1
+BD1 5HD,26,,East Parade,2005-11-03,83775,F,N,L,2
+BD1 5HD,"Behrens Warehouse, 26",Flat 11,East Parade,2005-12-09,101500,F,N,L,2
+BD1 5HD,"Behrens Warehouse, 26",Flat 12,East Parade,2004-01-16,95500,F,Y,L,1
+BD1 5HD,"Behrens Warehouse, 26",Flat 13,East Parade,2019-06-06,39950,F,N,L,2
+BD1 5HD,"Behrens Warehouse, 26",Flat 14,East Parade,2017-03-27,67000,F,N,L,2
+BD1 5HD,"Behrens Warehouse, 26",Flat 15,East Parade,2007-08-03,115000,F,N,L,2
+BD1 5HD,"Behrens Warehouse, 26",Flat 19,East Parade,2004-03-24,104950,F,Y,L,1
+BD1 5HD,"Behrens Warehouse, 26",Flat 2,East Parade,2004-01-30,68950,F,Y,L,1
+BD1 5HD,"Behrens Warehouse, 26",Flat 20,East Parade,2006-07-31,145000,F,N,L,2
+BD1 5HD,"Behrens Warehouse, 26",Flat 22,East Parade,2007-12-07,124950,F,N,L,1
+BD1 5HD,"Behrens Warehouse, 26",Flat 23,East Parade,2004-04-01,115000,F,Y,L,1
+BD1 5HD,"Behrens Warehouse, 26",Flat 24,East Parade,2017-11-01,65500,F,N,L,2
+BD1 5HD,"Behrens Warehouse, 26",Flat 27,East Parade,2016-09-28,67500,F,N,L,2
+BD1 5HD,"Behrens Warehouse, 26",Flat 3,East Parade,2003-12-12,89950,F,Y,L,1
+BD1 5HD,"Behrens Warehouse, 26",Flat 30,East Parade,2005-04-22,112500,F,Y,L,1
+BD1 5HD,"Behrens Warehouse, 26",Flat 31,East Parade,2009-06-05,80000,F,N,L,1
+BD1 5HD,"Behrens Warehouse, 26",Flat 32,East Parade,2006-05-10,115000,F,N,L,2
+BD1 5HD,"Behrens Warehouse, 26",Flat 34,East Parade,2006-01-27,119000,F,Y,L,1
+BD1 5HD,"Behrens Warehouse, 26",Flat 4,East Parade,2004-06-11,105000,F,N,L,1
+BD1 5HD,"Behrens Warehouse, 26",Flat 5,East Parade,2004-08-02,100000,F,Y,L,1
+BD1 5HD,"Behrens Warehouse, 26",Flat 6,East Parade,2008-02-29,95000,F,N,L,2
+BD1 5HD,"Behrens Warehouse, 26",Flat 7,East Parade,2003-12-01,71950,F,N,L,1
+BD1 5HD,"Behrens Warehouse, 26",Flat 8,East Parade,2004-05-27,94950,F,Y,L,1
+BD1 5HD,"Behrens Warehouse, 26",Flat 9,East Parade,2004-03-12,72950,F,Y,L,1
+BD1 3AZ,3,,Eldon Place,2004-12-09,96800,T,N,F,2
+BD1 3AZ,6,,Eldon Place,2005-04-11,296117,T,N,F,1
+BD1 3AZ,7,,Eldon Place,2008-03-31,250000,T,N,F,1
+BD1 3AZ,8,,Eldon Place,2006-06-01,235000,D,N,F,1
+BD1 3AZ,9,,Eldon Place,2011-07-21,150000,T,N,F,2
+BD1 3AZ,"Style House, 14",,Eldon Place,2001-10-09,500000,S,N,F,1
+BD1 5BD,1,,Festival Square,2006-10-06,145000,F,Y,L,1
+BD1 5BD,3,,Festival Square,2006-12-11,147000,F,Y,L,1
+BD1 5AA,Broadacre House,The Annex,George Street,2011-02-01,520000,D,N,F,1
+BD1 2SD,52,,Godwin Street,2004-11-23,190000,D,N,F,1
+BD1 2SD,62,,Godwin Street,2006-04-07,485000,D,N,F,1
+BD1 2SH,45,,Godwin Street,2003-07-15,163000,T,N,F,1
+BD1 2SH,73,,Godwin Street,2003-05-02,113237,T,N,F,1
+BD1 2SH,75 - 77,,Godwin Street,2004-04-06,120000,T,N,F,1
+BD1 2SS,48,,Godwin Street,2010-01-14,250000,T,N,F,1
+BD1 3PP,"The Corner House, 129",Flat 1,Godwin Street,2008-03-10,75650,F,Y,L,1
+BD1 3PP,"The Corner House, 129",Flat 10,Godwin Street,2008-03-10,82875,F,Y,L,1
+BD1 3PP,"The Corner House, 129",Flat 11,Godwin Street,2008-03-13,82875,F,Y,L,1
+BD1 3PP,"The Corner House, 129",Flat 12,Godwin Street,2008-03-13,79900,F,Y,L,1
+BD1 3PP,"The Corner House, 129",Flat 13,Godwin Street,2008-03-13,75650,F,Y,L,1
+BD1 3PP,"The Corner House, 129",Flat 14,Godwin Street,2008-03-10,82875,F,Y,L,1
+BD1 3PP,"The Corner House, 129",Flat 15,Godwin Street,2008-03-13,82875,F,Y,L,1
+BD1 3PP,"The Corner House, 129",Flat 16,Godwin Street,2008-03-11,79900,F,Y,L,1
+BD1 3PP,"The Corner House, 129",Flat 2,Godwin Street,2008-04-03,82875,F,Y,L,1
+BD1 3PP,"The Corner House, 129",Flat 3,Godwin Street,2008-03-17,82875,F,Y,L,1
+BD1 3PP,"The Corner House, 129",Flat 4,Godwin Street,2008-03-13,79050,F,Y,L,1
+BD1 3PP,"The Corner House, 129",Flat 5,Godwin Street,2008-03-10,75650,F,Y,L,1
+BD1 3PP,"The Corner House, 129",Flat 6,Godwin Street,2008-03-17,82875,F,Y,L,1
+BD1 3PP,"The Corner House, 129",Flat 7,Godwin Street,2008-03-11,82875,F,Y,L,1
+BD1 3PP,"The Corner House, 129",Flat 8,Godwin Street,2008-03-11,79050,F,Y,L,1
+BD1 3PP,"The Corner House, 129",Flat 9,Godwin Street,2008-03-10,75650,F,Y,L,1
+BD1 2HS,131,,Grattan Road,2004-04-29,160000,T,N,F,1
+BD1 2LU,The Castle Public House,,Grattan Road,2017-03-09,161600,F,N,F,1
+BD1 2NG,Woolston Warehouse,201,Grattan Road,2009-11-06,140000,F,Y,L,1
+BD1 2NG,Woolston Warehouse,301,Grattan Road,2009-11-06,100000,F,Y,L,1
+BD1 2NG,Woolston Warehouse,302,Grattan Road,2009-11-06,80000,F,N,L,1
+BD1 2NG,Woolston Warehouse,303,Grattan Road,2009-11-06,105000,F,Y,L,1
+BD1 2NG,Woolston Warehouse,304,Grattan Road,2009-11-09,80000,F,Y,L,1
+BD1 2NG,Woolston Warehouse,305,Grattan Road,2010-02-24,90000,F,Y,L,1
+BD1 2NG,Woolston Warehouse,307,Grattan Road,2009-11-06,85000,F,Y,L,1
+BD1 2NG,Woolston Warehouse,310,Grattan Road,2009-11-20,98000,F,Y,L,1
+BD1 2NG,Woolston Warehouse,311,Grattan Road,2009-11-06,100000,F,Y,L,1
+BD1 2NG,Woolston Warehouse,401,Grattan Road,2013-11-21,40000,F,N,L,1
+BD1 2NG,Woolston Warehouse,403,Grattan Road,2014-04-15,44500,F,N,L,1
+BD1 2NG,Woolston Warehouse,404,Grattan Road,2009-11-06,100000,F,Y,L,1
+BD1 2NG,Woolston Warehouse,407,Grattan Road,2011-01-24,80000,F,Y,L,1
+BD1 2NG,Woolston Warehouse,408,Grattan Road,2009-12-16,115000,F,Y,L,1
+BD1 2NG,Woolston Warehouse,409,Grattan Road,2017-08-07,65000,F,N,L,2
+BD1 2NG,Woolston Warehouse,410,Grattan Road,2009-11-06,99450,F,Y,L,1
+BD1 2NG,Woolston Warehouse,412,Grattan Road,2013-12-31,47500,F,N,L,1
+BD1 2NG,Woolston Warehouse,413,Grattan Road,2014-04-15,44500,F,N,L,1
+BD1 2NG,Woolston Warehouse,414,Grattan Road,2011-01-24,80000,F,Y,L,1
+BD1 2NG,Woolston Warehouse,415,Grattan Road,2010-04-29,80000,F,Y,L,1
+BD1 2NH,Woolston Warehouse,501,Grattan Road,2009-11-06,100000,F,Y,L,1
+BD1 2NH,Woolston Warehouse,504,Grattan Road,2009-11-06,102500,F,Y,L,1
+BD1 2NH,Woolston Warehouse,505,Grattan Road,2014-04-15,44500,F,N,L,1
+BD1 2NH,Woolston Warehouse,506,Grattan Road,2009-11-16,80000,F,Y,L,1
+BD1 2NH,Woolston Warehouse,509,Grattan Road,2009-11-06,100000,F,Y,L,1
+BD1 2NH,Woolston Warehouse,511,Grattan Road,2012-12-07,40000,F,N,L,1
+BD1 2NH,Woolston Warehouse,515,Grattan Road,2014-04-15,44500,F,N,L,1
+BD1 2NH,Woolston Warehouse,516,Grattan Road,2014-03-25,36000,F,N,L,1
+BD1 2NH,Woolston Warehouse,517,Grattan Road,2009-11-12,85000,F,Y,L,1
+BD1 2NH,Woolston Warehouse,518,Grattan Road,2010-04-23,100000,F,Y,L,1
+BD1 2NH,Woolston Warehouse,605,Grattan Road,2009-11-12,80000,F,Y,L,1
+BD1 2NH,Woolston Warehouse,606,Grattan Road,2009-11-06,85000,F,Y,L,1
+BD1 2NH,Woolston Warehouse,608,Grattan Road,2010-01-19,99950,F,Y,L,1
+BD1 2NH,Woolston Warehouse,609,Grattan Road,2009-12-01,100000,F,Y,L,1
+BD1 2NH,Woolston Warehouse,613,Grattan Road,2009-11-06,90000,F,Y,L,1
+BD1 2NH,Woolston Warehouse,614,Grattan Road,2009-11-06,85000,F,Y,L,1
+BD1 2NH,Woolston Warehouse,615,Grattan Road,2017-02-23,46000,F,N,L,2
+BD1 2NH,Woolston Warehouse,617,Grattan Road,2009-11-06,85000,F,Y,L,1
+BD1 2NH,Woolston Warehouse,618,Grattan Road,2010-03-11,105000,F,Y,L,1
+BD1 2NH,Woolston Warehouse,707,Grattan Road,2012-12-07,37000,F,N,L,1
+BD1 2NH,Woolston Warehouse,708,Grattan Road,2009-11-06,80000,F,Y,L,1
+BD1 2NH,Woolston Warehouse,709,Grattan Road,2010-02-04,100000,F,Y,L,1
+BD1 2NH,Woolston Warehouse,712,Grattan Road,2009-11-09,90000,F,N,L,1
+BD1 2NH,Woolston Warehouse,716,Grattan Road,2012-12-07,25000,F,N,L,1
+BD1 2NH,Woolston Warehouse,717,Grattan Road,2009-12-01,87500,F,Y,L,1
+BD1 2NH,Woolston Warehouse,802,Grattan Road,2011-01-24,80000,F,Y,L,1
+BD1 2NH,Woolston Warehouse,805,Grattan Road,2009-12-16,130000,F,Y,L,1
+BD1 2NH,Woolston Warehouse,806,Grattan Road,2009-11-06,85000,F,Y,L,1
+BD1 2NH,Woolston Warehouse,808,Grattan Road,2019-12-04,66000,F,N,L,1
+BD1 2NH,Woolston Warehouse,809,Grattan Road,2013-04-08,56250,F,N,L,1
+BD1 2NH,Woolston Warehouse,810,Grattan Road,2014-03-25,36000,F,N,L,1
+BD1 2NH,Woolston Warehouse,813,Grattan Road,2014-03-25,36000,F,N,L,1
+BD1 2PG,47,,Grattan Road,2004-03-30,478032,D,N,F,1
+BD1 5DA,"City Exchange, 61",Apartment 23,Hall Ings,2018-12-12,77000,F,Y,L,1
+BD1 5DA,"City Exchange, 61",Apartment 44,Hall Ings,2018-12-10,71000,F,Y,L,1
+BD1 5DA,"City Exchange, 61",Apartment 60,Hall Ings,2018-12-07,72000,F,Y,L,1
+BD1 5DB,"City Exchange, 61",Apartment 101,Hall Ings,2018-11-14,65000,F,Y,L,1
+BD1 5DB,"City Exchange, 61",Apartment 108,Hall Ings,2018-12-13,75000,F,Y,L,1
+BD1 5DB,"City Exchange, 61",Apartment 109,Hall Ings,2018-12-13,75000,F,Y,L,1
+BD1 5DB,"City Exchange, 61",Apartment 112,Hall Ings,2018-12-11,75000,F,Y,L,1
+BD1 5DB,"City Exchange, 61",Apartment 116,Hall Ings,2018-12-07,84950,F,Y,L,1
+BD1 5DB,"City Exchange, 61",Apartment 117,Hall Ings,2018-12-07,84950,F,Y,L,1
+BD1 5DB,"City Exchange, 61",Apartment 118,Hall Ings,2018-12-07,84950,F,Y,L,1
+BD1 5DB,"City Exchange, 61",Apartment 95,Hall Ings,2018-11-27,74000,F,Y,L,1
+BD1 5SG,"City Exchange, 61",Apartment 1,Hall Ings,2018-11-16,60000,F,Y,L,1
+BD1 5SG,"City Exchange, 61",Apartment 10,Hall Ings,2017-10-17,65000,F,Y,L,1
+BD1 5SG,"City Exchange, 61",Apartment 103,Hall Ings,2020-06-08,71500,F,N,L,1
+BD1 5SG,"City Exchange, 61",Apartment 104,Hall Ings,2020-06-05,71500,F,N,L,1
+BD1 5SG,"City Exchange, 61",Apartment 105,Hall Ings,2020-06-10,71500,F,N,L,1
+BD1 5SG,"City Exchange, 61",Apartment 106,Hall Ings,2018-12-06,75000,F,Y,L,1
+BD1 5SG,"City Exchange, 61",Apartment 107,Hall Ings,2018-12-03,75000,F,Y,L,1
+BD1 5SG,"City Exchange, 61",Apartment 11,Hall Ings,2017-10-17,65000,F,Y,L,1
+BD1 5SG,"City Exchange, 61",Apartment 113,Hall Ings,2018-12-03,75000,F,Y,L,1
+BD1 5SG,"City Exchange, 61",Apartment 119,Hall Ings,2018-12-13,82950,F,Y,L,1
+BD1 5SG,"City Exchange, 61",Apartment 12,Hall Ings,2017-10-17,65000,F,Y,L,1
+BD1 5SG,"City Exchange, 61",Apartment 17,Hall Ings,2019-12-13,70000,F,N,L,1
+BD1 5SG,"City Exchange, 61",Apartment 21,Hall Ings,2018-12-03,77000,F,Y,L,1
+BD1 5SG,"City Exchange, 61",Apartment 22,Hall Ings,2018-12-03,77000,F,Y,L,1
+BD1 5SG,"City Exchange, 61",Apartment 38,Hall Ings,2018-12-03,71000,F,Y,L,1
+BD1 5SG,"City Exchange, 61",Apartment 39,Hall Ings,2018-12-03,71000,F,Y,L,1
+BD1 5SG,"City Exchange, 61",Apartment 40,Hall Ings,2018-12-13,71000,F,Y,L,1
+BD1 5SG,"City Exchange, 61",Apartment 41,Hall Ings,2018-12-13,71000,F,Y,L,1
+BD1 5SG,"City Exchange, 61",Apartment 42,Hall Ings,2018-12-13,71000,T,Y,L,1
+BD1 5SG,"City Exchange, 61",Apartment 43,Hall Ings,2018-12-13,71000,F,Y,L,1
+BD1 5SG,"City Exchange, 61",Apartment 45,Hall Ings,2018-12-07,71000,F,Y,L,1
+BD1 5SG,"City Exchange, 61",Apartment 55,Hall Ings,2018-12-03,72000,F,Y,L,1
+BD1 5SG,"City Exchange, 61",Apartment 56,Hall Ings,2018-12-07,72000,F,Y,L,1
+BD1 5SG,"City Exchange, 61",Apartment 57,Hall Ings,2018-12-13,72000,F,Y,L,1
+BD1 5SG,"City Exchange, 61",Apartment 58,Hall Ings,2018-12-04,72000,F,Y,L,1
+BD1 5SG,"City Exchange, 61",Apartment 59,Hall Ings,2018-12-03,72000,F,Y,L,1
+BD1 5SG,"City Exchange, 61",Apartment 61,Hall Ings,2018-12-12,72000,F,Y,L,1
+BD1 5SG,"City Exchange, 61",Apartment 63,Hall Ings,2018-12-04,72000,F,Y,L,1
+BD1 5SG,"City Exchange, 61",Apartment 7,Hall Ings,2018-11-14,65000,T,Y,L,1
+BD1 5SG,"City Exchange, 61",Apartment 72,Hall Ings,2018-12-04,73000,F,Y,L,1
+BD1 5SG,"City Exchange, 61",Apartment 73,Hall Ings,2018-12-06,73000,F,Y,L,1
+BD1 5SG,"City Exchange, 61",Apartment 74,Hall Ings,2018-12-14,73000,F,Y,L,1
+BD1 5SG,"City Exchange, 61",Apartment 75,Hall Ings,2018-12-04,73000,F,Y,L,1
+BD1 5SG,"City Exchange, 61",Apartment 78,Hall Ings,2018-12-12,73000,F,Y,L,1
+BD1 5SG,"City Exchange, 61",Apartment 8,Hall Ings,2017-10-17,65000,F,Y,L,1
+BD1 5SG,"City Exchange, 61",Apartment 9,Hall Ings,2017-10-17,65000,F,Y,L,1
+BD1 5SG,"City Exchange, 61",Apartment 94,Hall Ings,2018-12-13,74000,F,Y,L,1
+BD1 5SG,"City Exchange, 61",Apartment 97,Hall Ings,2018-12-03,74000,F,Y,L,1
+BD1 3RP,1,,Hallfield Road,2003-09-28,100000,S,N,F,2
+BD1 3RP,11,,Hallfield Road,2004-11-02,120000,T,N,F,1
+BD1 3RP,13,,Hallfield Road,2003-02-18,62500,T,N,F,1
+BD1 3RP,15,,Hallfield Road,2017-03-29,150000,S,N,F,1
+BD1 3RP,19,,Hallfield Road,2001-02-28,30000,S,N,F,1
+BD1 3RP,3,,Hallfield Road,2006-08-02,139000,S,N,F,1
+BD1 3RP,7,,Hallfield Road,2004-12-13,140000,T,N,F,1
+BD1 3RP,9,,Hallfield Road,2001-07-06,56000,T,N,F,2
+BD1 3RP,"Sunny House, 5",,Hallfield Road,2006-11-03,161000,T,N,F,1
+BD1 3RQ,14,,Hallfield Road,2018-12-14,165000,T,N,F,2
+BD1 3RQ,16,,Hallfield Road,2010-05-18,116000,T,N,F,1
+BD1 3RQ,18,,Hallfield Road,2013-09-20,105000,T,N,F,3
+BD1 3RQ,20,,Hallfield Road,2004-03-15,85000,T,N,F,1
+BD1 3RQ,22,,Hallfield Road,2018-03-21,162000,T,N,F,2
+BD1 3RQ,26,,Hallfield Road,1996-06-29,17000,T,N,F,1
+BD1 3RQ,6 - 8,,Hallfield Road,2005-02-07,205000,S,N,F,2
+BD1 3RQ,"Hallfield House, 24",,Hallfield Road,2020-04-30,156000,T,N,F,2
+BD1 3RQ,"Marshall Hartley, 12",,Hallfield Road,2000-10-13,45000,T,N,F,1
+BD1 3BY,18,,Hanover Square,2005-09-05,192000,T,N,F,2
+BD1 3BY,19,,Hanover Square,2007-09-07,170000,T,N,F,1
+BD1 3BY,21,,Hanover Square,2009-06-08,170000,T,N,F,5
+BD1 3BY,23,,Hanover Square,1995-02-24,39500,T,N,F,1
+BD1 3BY,24,,Hanover Square,2000-07-28,55000,T,N,F,1
+BD1 3BY,25,,Hanover Square,2015-12-18,75000,T,N,F,3
+BD1 3BY,28,,Hanover Square,2010-08-10,124500,T,N,F,4
+BD1 3BY,29,,Hanover Square,2000-09-13,39000,T,N,F,2
+BD1 3BY,30,,Hanover Square,2002-04-22,49000,T,N,F,1
+BD1 3BY,31,,Hanover Square,2019-09-12,160000,T,N,F,3
+BD1 3BY,33,,Hanover Square,1996-04-16,30770,T,N,F,1
+BD1 3BY,34,,Hanover Square,2006-06-06,200000,F,N,L,1
+BD1 3BY,35,,Hanover Square,2003-09-17,100000,T,N,F,3
+BD1 3BY,36,,Hanover Square,2020-09-11,60000,T,N,F,2
+BD1 3BY,37,,Hanover Square,2002-01-28,70000,T,N,F,1
+BD1 3BY,38,,Hanover Square,1997-03-14,39000,T,N,F,2
+BD1 3BY,39,,Hanover Square,2011-05-06,205000,T,N,F,1
+BD1 3BY,41,,Hanover Square,2007-02-16,90000,T,N,F,3
+BD1 3BY,42,,Hanover Square,2020-03-23,120000,T,N,F,3
+BD1 3BY,43,,Hanover Square,1996-04-16,30770,T,N,F,1
+BD1 3BY,45,,Hanover Square,1996-05-03,30770,T,N,F,1
+BD1 3BY,46,,Hanover Square,2002-09-04,43824,T,N,F,2
+BD1 3BY,48,,Hanover Square,2001-03-30,51500,T,N,F,1
+BD1 3BY,50,,Hanover Square,2013-08-28,62000,T,N,F,2
+BD1 3BY,51,,Hanover Square,1995-11-21,35000,T,N,F,1
+BD1 3BY,52,,Hanover Square,1997-05-30,41750,T,N,F,1
+BD1 3BY,53,,Hanover Square,1996-08-30,22750,T,N,F,2
+BD1 3BY,54,,Hanover Square,2018-02-02,130000,T,N,F,3
+BD1 3BY,55,,Hanover Square,2008-07-08,170000,T,N,F,2
+BD1 3BY,56,,Hanover Square,2004-10-15,120000,T,N,F,3
+BD1 3BY,7,,Hanover Square,1996-09-18,48500,T,N,F,2
+BD1 5HW,46,,Harris Street,2003-06-13,113500,D,N,F,1
+BD1 5JA,110,,Harris Street,2005-06-30,100000,D,N,F,1
+BD1 5JA,184,,Harris Street,2005-09-19,225000,D,N,F,1
+BD1 5JA,202,,Harris Street,2002-04-02,15000,T,N,F,2
+BD1 5AW,1,Apartment 1,Hick Street,2007-01-08,99950,F,Y,L,1
+BD1 5AW,1,Apartment 10,Hick Street,2006-11-23,132500,F,Y,L,1
+BD1 5AW,1,Apartment 11,Hick Street,2006-06-30,99850,F,Y,L,1
+BD1 5AW,1,Apartment 12,Hick Street,2006-06-06,105075,F,Y,L,1
+BD1 5AW,1,Apartment 13,Hick Street,2007-07-13,112500,F,Y,L,1
+BD1 5AW,1,Apartment 14,Hick Street,2007-01-05,115000,F,Y,L,1
+BD1 5AW,1,Apartment 15,Hick Street,2007-01-08,149000,F,Y,L,1
+BD1 5AW,1,Apartment 16,Hick Street,2006-06-19,129555,F,Y,L,1
+BD1 5AW,1,Apartment 18,Hick Street,2006-05-26,117250,F,Y,L,1
+BD1 5AW,1,Apartment 19,Hick Street,2020-05-22,60000,F,N,L,2
+BD1 5AW,1,Apartment 2,Hick Street,2007-03-09,99000,F,Y,L,1
+BD1 5AW,1,Apartment 21,Hick Street,2006-06-08,111105,F,Y,L,1
+BD1 5AW,1,Apartment 22,Hick Street,2006-11-03,130500,F,Y,L,1
+BD1 5AW,1,Apartment 4,Hick Street,2007-02-02,107000,F,Y,L,1
+BD1 5AW,1,Apartment 6,Hick Street,2006-06-09,104355,F,Y,L,1
+BD1 5AW,1,Apartment 7,Hick Street,2006-06-19,107055,F,Y,L,1
+BD1 5AW,1,Apartment 8,Hick Street,2007-08-06,105000,F,Y,L,1
+BD1 5AW,1,Apartment 9,Hick Street,2007-05-27,149950,F,Y,L,1
+BD1 5AW,4,Apartment 13,Hick Street,2006-10-27,82800,F,Y,L,1
+BD1 5AW,"Albion House, 4",Apartment 1,Hick Street,2006-11-22,155100,F,Y,L,1
+BD1 5AW,"Albion House, 4",Apartment 10,Hick Street,2006-11-24,169884,F,Y,L,1
+BD1 5AW,"Albion House, 4",Apartment 11,Hick Street,2006-11-17,136620,F,Y,L,1
+BD1 5AW,"Albion House, 4",Apartment 12,Hick Street,2006-12-01,104040,F,Y,L,1
+BD1 5AW,"Albion House, 4",Apartment 14,Hick Street,2006-12-15,107324,F,Y,L,1
+BD1 5AW,"Albion House, 4",Apartment 15,Hick Street,2007-01-12,100980,F,Y,L,1
+BD1 5AW,"Albion House, 4",Apartment 16,Hick Street,2006-12-15,110000,F,Y,L,1
+BD1 5AW,"Albion House, 4",Apartment 17,Hick Street,2006-09-25,158000,F,Y,L,1
+BD1 5AW,"Albion House, 4",Apartment 18,Hick Street,2006-10-04,155500,F,Y,L,1
+BD1 5AW,"Albion House, 4",Apartment 19,Hick Street,2007-05-01,115000,F,Y,L,1
+BD1 5AW,"Albion House, 4",Apartment 2,Hick Street,2006-12-05,141176,F,Y,L,1
+BD1 5AW,"Albion House, 4",Apartment 20,Hick Street,2006-11-30,169092,F,Y,L,1
+BD1 5AW,"Albion House, 4",Apartment 21,Hick Street,2006-10-13,132880,F,Y,L,1
+BD1 5AW,"Albion House, 4",Apartment 22,Hick Street,2006-12-01,107640,F,Y,L,1
+BD1 5AW,"Albion House, 4",Apartment 23,Hick Street,2006-10-02,85500,F,Y,L,1
+BD1 5AW,"Albion House, 4",Apartment 24,Hick Street,2007-08-24,107500,F,N,L,3
+BD1 5AW,"Albion House, 4",Apartment 25,Hick Street,2006-11-02,104880,F,Y,L,1
+BD1 5AW,"Albion House, 4",Apartment 26,Hick Street,2006-12-07,110000,F,Y,L,1
+BD1 5AW,"Albion House, 4",Apartment 27,Hick Street,2006-12-01,136080,F,Y,L,1
+BD1 5AW,"Albion House, 4",Apartment 28,Hick Street,2006-10-02,148000,F,Y,L,1
+BD1 5AW,"Albion House, 4",Apartment 29,Hick Street,2006-02-09,155000,F,Y,L,1
+BD1 5AW,"Albion House, 4",Apartment 3,Hick Street,2006-11-24,81906,F,Y,L,1
+BD1 5AW,"Albion House, 4",Apartment 30,Hick Street,2015-01-30,81250,F,N,L,2
+BD1 5AW,"Albion House, 4",Apartment 31,Hick Street,2006-10-13,134200,F,Y,L,1
+BD1 5AW,"Albion House, 4",Apartment 32,Hick Street,2006-11-15,102340,F,Y,L,1
+BD1 5AW,"Albion House, 4",Apartment 33,Hick Street,2006-11-02,84480,F,Y,L,1
+BD1 5AW,"Albion House, 4",Apartment 34,Hick Street,2006-11-24,90200,F,Y,L,1
+BD1 5AW,"Albion House, 4",Apartment 35,Hick Street,2007-01-26,95000,F,Y,L,1
+BD1 5AW,"Albion House, 4",Apartment 36,Hick Street,2006-12-01,95000,F,N,L,1
+BD1 5AW,"Albion House, 4",Apartment 37,Hick Street,2007-01-31,92180,F,Y,L,1
+BD1 5AW,"Albion House, 4",Apartment 38,Hick Street,2006-12-01,73491,F,Y,L,1
+BD1 5AW,"Albion House, 4",Apartment 39,Hick Street,2007-01-26,99995,F,Y,L,1
+BD1 5AW,"Albion House, 4",Apartment 4,Hick Street,2006-10-13,130000,F,Y,L,1
+BD1 5AW,"Albion House, 4",Apartment 40,Hick Street,2007-02-16,97000,F,Y,L,1
+BD1 5AW,"Albion House, 4",Apartment 41,Hick Street,2007-02-16,97000,F,Y,L,1
+BD1 5AW,"Albion House, 4",Apartment 42,Hick Street,2007-03-07,110000,F,Y,L,1
+BD1 5AW,"Albion House, 4",Apartment 43,Hick Street,2006-10-31,93500,F,Y,L,1
+BD1 5AW,"Albion House, 4",Apartment 44,Hick Street,2006-11-20,93500,F,Y,L,1
+BD1 5AW,"Albion House, 4",Apartment 45,Hick Street,2006-10-31,85580,F,Y,L,1
+BD1 5AW,"Albion House, 4",Apartment 6,Hick Street,2006-11-10,105570,F,Y,L,1
+BD1 5AW,"Albion House, 4",Apartment 7,Hick Street,2007-01-29,150000,F,Y,L,1
+BD1 5AW,"Albion House, 4",Apartment 8,Hick Street,2007-04-20,150000,F,Y,L,1
+BD1 5AW,"Albion House, 4",Apartment 9,Hick Street,2007-03-23,115000,F,N,L,1
+BD1 3RG,46,,Houghton Place,2002-08-12,58000,D,N,F,1
+BD1 3RG,"Graphic House, 31",,Houghton Place,2006-11-10,243000,T,N,F,2
+BD1 1NS,33,,Hustlergate,2008-07-23,700000,D,N,F,1
+BD1 1RE,1,,Hustlergate,2000-09-28,64500,D,N,F,1
+BD1 3SF,39,,Infirmary Street,2009-06-18,75000,T,N,F,3
+BD1 1SQ,1,,Ivegate,2007-08-22,385000,D,N,F,1
+BD1 1SQ,15,,Ivegate,2009-06-09,30000,T,N,L,2
+BD1 1SQ,17,,Ivegate,2009-04-24,160000,T,N,F,1
+BD1 1SQ,21,,Ivegate,2001-01-05,250000,T,N,F,1
+BD1 1SQ,23 - 25,,Ivegate,2001-01-05,400000,T,N,F,1
+BD1 1SQ,31,,Ivegate,2006-11-22,605000,S,N,F,1
+BD1 1SQ,39,,Ivegate,2000-04-26,225000,T,N,F,1
+BD1 1SR,11,Flat 1,Ivegate,2005-02-18,139950,F,Y,L,1
+BD1 1SR,11,Flat 2,Ivegate,2005-05-24,155000,F,Y,L,1
+BD1 1SR,11,Flat 4,Ivegate,2005-01-31,113952,F,Y,L,1
+BD1 1SR,11,Flat 5,Ivegate,2005-02-03,154250,F,Y,L,1
+BD1 1SR,11,Flat 6,Ivegate,2005-01-31,123000,F,N,L,1
+BD1 1SR,11,Flat 7,Ivegate,2005-10-14,123000,F,Y,L,1
+BD1 1SR,11,Flat 8,Ivegate,2005-02-18,160875,F,Y,L,1
+BD1 1SR,11,Flat 9,Ivegate,2005-04-22,135000,F,Y,L,1
+BD1 1ST,20,,Ivegate,2007-07-20,340000,T,N,F,1
+BD1 1SW,14 - 18,,Ivegate,2003-12-17,470000,T,N,F,1
+BD1 1SW,22,,Ivegate,1999-09-23,2000,T,N,L,1
+BD1 3PZ,25,Flat 13,James Street,2007-07-24,96000,F,N,L,1
+BD1 3PZ,25,Flat 16,James Street,2007-04-02,93500,F,N,L,1
+BD1 3PZ,25,Flat 17,James Street,2007-04-05,94200,F,Y,L,1
+BD1 3PZ,25,Flat 18,James Street,2007-04-02,99000,F,Y,L,1
+BD1 3PZ,25,Flat 3,James Street,2009-07-27,50000,F,N,L,1
+BD1 3PZ,25,Flat 6,James Street,2007-04-05,93500,F,N,L,1
+BD1 3PZ,25,Flat 7,James Street,2007-04-04,93500,F,Y,L,1
+BD1 3PZ,25,Flat 8,James Street,2016-03-30,59000,F,N,L,2
+BD1 3PZ,"Commercial, 24",,James Street,2010-09-09,173625,T,N,F,1
+BD1 3QG,4,Apartment 1,James Street,2019-11-15,59350,F,Y,L,1
+BD1 3QG,4,Apartment 10,James Street,2019-07-12,58500,F,Y,L,1
+BD1 3QG,4,Apartment 11,James Street,2019-08-13,62995,F,Y,L,1
+BD1 3QG,4,Apartment 14,James Street,2019-08-09,56850,F,Y,L,1
+BD1 3QG,4,Apartment 15,James Street,2019-05-29,58995,F,Y,L,1
+BD1 3QG,4,Apartment 16,James Street,2019-05-31,54995,F,Y,L,1
+BD1 3QG,4,Apartment 17,James Street,2019-07-12,56100,F,Y,L,1
+BD1 3QG,4,Apartment 18,James Street,2019-05-29,54000,F,Y,L,1
+BD1 3QG,4,Apartment 19,James Street,2019-05-30,49995,F,Y,L,1
+BD1 3QG,4,Apartment 2,James Street,2019-08-09,56100,F,Y,L,1
+BD1 3QG,4,Apartment 23,James Street,2019-08-02,62995,F,Y,L,1
+BD1 3QG,4,Apartment 24,James Street,2019-07-12,59250,F,Y,L,1
+BD1 3QG,4,Apartment 25,James Street,2020-01-08,58500,F,Y,L,1
+BD1 3QG,4,Apartment 26,James Street,2019-07-12,55995,F,Y,L,1
+BD1 3QG,4,Apartment 28,James Street,2019-09-12,59245,F,Y,L,1
+BD1 3QG,4,Apartment 29,James Street,2019-07-12,58500,F,Y,L,1
+BD1 3QG,4,Apartment 31,James Street,2019-09-13,58995,F,Y,L,1
+BD1 3QG,4,Apartment 32,James Street,2019-05-31,59995,F,Y,L,1
+BD1 3QG,4,Apartment 4,James Street,2019-07-12,56100,F,Y,L,1
+BD1 3QG,4,Apartment 5,James Street,2019-07-12,56100,F,Y,L,1
+BD1 3QG,4,Apartment 7,James Street,2019-07-26,49995,F,Y,L,1
+BD1 3QG,4,Apartment 9,James Street,2019-06-06,53000,F,Y,L,1
+BD1 3QG,"James Street Apartments, 4",Apartment 3,James Street,2019-05-31,58995,F,Y,L,1
+BD1 3JS,5,,John Street,2004-05-13,16200,T,N,L,1
+BD1 1PZ,77 - 79,,Kirkgate,1997-01-17,160000,T,N,F,1
+BD1 1TH,"Sunbridge House, 80",Flat 1,Kirkgate,2006-12-28,148400,F,Y,L,1
+BD1 1TH,"Sunbridge House, 80",Flat 2,Kirkgate,2006-12-28,112000,F,Y,L,1
+BD1 1TH,"Sunbridge House, 80",Flat 3,Kirkgate,2006-11-22,90400,F,Y,L,1
+BD1 1TH,"Sunbridge House, 80",Flat 4,Kirkgate,2006-12-04,140238,F,Y,L,1
+BD1 1TH,"Sunbridge House, 80",Flat 5,Kirkgate,2019-05-03,46000,F,N,L,3
+BD1 1TH,"Sunbridge House, 80",Flat 6,Kirkgate,2012-04-26,55000,F,N,L,2
+BD1 1TH,"Sunbridge House, 80",Flat 7,Kirkgate,2008-03-27,150000,F,N,L,2
+BD1 1TH,"Sunbridge House, 80",Flat 8,Kirkgate,2006-12-28,112000,F,Y,L,1
+BD1 1TH,"Sunbridge House, 80",Flat 9,Kirkgate,2006-12-28,90400,F,Y,L,1
+BD1 3PT,Kirkgate Arndale Centre,The Cock And Bull Ph 78,Kirkgate,2001-12-17,6000,D,N,L,1
+BD1 5AE,Apartment 33,Apartment 33,Leeds Road,2008-06-19,79643,F,Y,L,1
+BD1 5AE,Eastbrook Hall,4,Leeds Road,2008-09-01,77203,F,Y,L,1
+BD1 5AE,Eastbrook Hall,65,Leeds Road,2009-01-06,98992,F,Y,L,1
+BD1 5AE,Eastbrook Hall,70,Leeds Road,2009-01-23,60000,F,N,L,1
+BD1 5AE,Eastbrook Hall,Apartment 12,Leeds Road,2020-01-17,67500,F,N,L,2
+BD1 5AE,Eastbrook Hall,Apartment 14,Leeds Road,2009-01-16,85000,F,Y,L,1
+BD1 5AE,Eastbrook Hall,Apartment 21,Leeds Road,2008-06-19,109483,F,Y,L,1
+BD1 5AE,Eastbrook Hall,Apartment 28,Leeds Road,2008-06-13,83928,F,Y,L,1
+BD1 5AE,Eastbrook Hall,Apartment 46,Leeds Road,2018-08-21,35000,F,N,L,2
+BD1 5AE,Eastbrook Hall,Apartment 51,Leeds Road,2012-11-13,86026,F,N,L,1
+BD1 5AE,Eastbrook Hall,Apartment 71,Leeds Road,2012-11-13,75643,F,N,L,1
+BD1 5AF,53,Apartment 1,Leeds Road,2008-06-06,125000,F,N,L,2
+BD1 5AF,53,Apartment 10,Leeds Road,2007-07-27,100000,F,N,L,2
+BD1 5AF,53,Apartment 11,Leeds Road,2005-03-09,90300,F,Y,L,1
+BD1 5AF,53,Apartment 12,Leeds Road,2006-05-19,155000,F,Y,L,1
+BD1 5AF,53,Apartment 14,Leeds Road,2005-11-25,97375,F,Y,L,1
+BD1 5AF,53,Apartment 15,Leeds Road,2005-05-27,124950,F,N,L,1
+BD1 5AF,53,Apartment 16,Leeds Road,2005-03-09,97375,F,Y,L,1
+BD1 5AF,53,Apartment 17,Leeds Road,2005-12-23,83720,F,Y,L,1
+BD1 5AF,53,Apartment 18,Leeds Road,2005-03-09,90300,F,Y,L,1
+BD1 5AF,53,Apartment 19,Leeds Road,2005-04-13,159541,F,Y,L,1
+BD1 5AF,53,Apartment 2,Leeds Road,2006-06-28,111780,F,N,L,2
+BD1 5AF,53,Apartment 21,Leeds Road,2006-05-19,160000,F,Y,L,1
+BD1 5AF,53,Apartment 24,Leeds Road,2005-06-10,249950,F,Y,L,1
+BD1 5AF,53,Apartment 25,Leeds Road,2005-04-21,129842,F,Y,L,1
+BD1 5AF,53,Apartment 3,Leeds Road,2007-08-20,115000,F,N,L,2
+BD1 5AF,53,Apartment 4,Leeds Road,2008-02-29,100000,F,N,L,2
+BD1 5AF,53,Apartment 5,Leeds Road,2005-03-17,96695,F,N,L,1
+BD1 5AF,53,Apartment 6,Leeds Road,2005-12-23,99360,F,Y,L,1
+BD1 5AF,53,Apartment 7,Leeds Road,2005-11-07,117406,F,Y,L,1
+BD1 5AF,53,Apartment 8,Leeds Road,2008-06-06,125000,F,N,L,2
+BD1 5AF,53,Apartment 9,Leeds Road,2005-04-11,93375,F,Y,L,1
+BD1 5AF,55,Apartment 2,Leeds Road,2003-12-10,305000,T,N,F,1
+BD1 5BL,The Gatehaus,Apartment 201,Leeds Road,2008-03-27,130000,F,N,L,1
+BD1 5BL,The Gatehaus,Apartment 202,Leeds Road,2008-03-27,103000,F,N,L,1
+BD1 5BL,The Gatehaus,Apartment 203,Leeds Road,2016-05-06,62500,F,N,L,2
+BD1 5BL,The Gatehaus,Apartment 204,Leeds Road,2007-04-17,149000,F,Y,L,1
+BD1 5BL,The Gatehaus,Apartment 205,Leeds Road,2007-04-17,112500,F,Y,L,1
+BD1 5BL,The Gatehaus,Apartment 206,Leeds Road,2007-06-21,121000,F,N,L,1
+BD1 5BL,The Gatehaus,Apartment 207,Leeds Road,2007-05-23,148912,F,Y,L,1
+BD1 5BL,The Gatehaus,Apartment 208,Leeds Road,2007-12-11,147500,F,N,L,1
+BD1 5BL,The Gatehaus,Apartment 209,Leeds Road,2015-06-10,55000,F,N,L,2
+BD1 5BL,The Gatehaus,Apartment 210,Leeds Road,2007-09-27,117562,F,Y,L,1
+BD1 5BL,The Gatehaus,Apartment 211,Leeds Road,2007-06-25,151050,F,N,L,1
+BD1 5BL,The Gatehaus,Apartment 212,Leeds Road,2007-04-26,135000,F,N,L,1
+BD1 5BL,The Gatehaus,Apartment 213,Leeds Road,2007-06-28,115200,F,Y,L,1
+BD1 5BL,The Gatehaus,Apartment 214,Leeds Road,2007-06-25,163000,F,N,L,1
+BD1 5BL,The Gatehaus,Apartment 216,Leeds Road,2007-12-13,110700,F,Y,L,1
+BD1 5BL,The Gatehaus,Apartment 217,Leeds Road,2007-04-27,110700,F,Y,L,1
+BD1 5BL,The Gatehaus,Apartment 218,Leeds Road,2007-06-22,160000,F,N,L,1
+BD1 5BL,The Gatehaus,Apartment 219,Leeds Road,2007-05-29,119950,F,Y,L,1
+BD1 5BL,The Gatehaus,Apartment 220,Leeds Road,2007-04-17,114000,F,N,L,1
+BD1 5BL,The Gatehaus,Apartment 222,Leeds Road,2007-12-07,145800,F,Y,L,1
+BD1 5BL,The Gatehaus,Apartment 223,Leeds Road,2007-12-11,120000,F,N,L,1
+BD1 5BL,The Gatehaus,Apartment 224,Leeds Road,2007-05-04,118750,F,Y,L,1
+BD1 5BL,The Gatehaus,Apartment 225,Leeds Road,2007-08-31,153900,F,N,L,1
+BD1 5BL,The Gatehaus,Apartment 226,Leeds Road,2007-04-27,127500,F,Y,L,1
+BD1 5BL,The Gatehaus,Apartment 227,Leeds Road,2007-07-20,128015,F,N,L,1
+BD1 5BL,The Gatehaus,Apartment 228,Leeds Road,2007-06-22,156750,F,Y,L,1
+BD1 5BL,The Gatehaus,Apartment 229,Leeds Road,2007-12-21,147600,F,Y,L,1
+BD1 5BL,The Gatehaus,Apartment 230,Leeds Road,2007-12-04,115200,F,Y,L,1
+BD1 5BL,The Gatehaus,Apartment 231,Leeds Road,2007-04-27,115200,F,Y,L,1
+BD1 5BL,The Gatehaus,Apartment 232,Leeds Road,2007-05-17,152500,F,Y,L,1
+BD1 5BL,The Gatehaus,Apartment 233,Leeds Road,2007-04-18,157700,F,Y,L,1
+BD1 5BL,The Gatehaus,Apartment 301,Leeds Road,2007-06-05,154850,F,Y,L,1
+BD1 5BL,The Gatehaus,Apartment 302,Leeds Road,2007-05-23,150000,F,Y,L,1
+BD1 5BL,The Gatehaus,Apartment 303,Leeds Road,2007-05-25,141500,F,Y,L,1
+BD1 5BL,The Gatehaus,Apartment 304,Leeds Road,2007-05-23,152000,F,Y,L,1
+BD1 5BL,The Gatehaus,Apartment 305,Leeds Road,2007-05-23,115000,F,Y,L,1
+BD1 5BL,The Gatehaus,Apartment 306,Leeds Road,2011-11-17,55000,F,N,L,1
+BD1 5BL,The Gatehaus,Apartment 307,Leeds Road,2007-05-23,156275,F,N,L,1
+BD1 5BL,The Gatehaus,Apartment 308,Leeds Road,2007-06-15,157225,F,Y,L,1
+BD1 5BL,The Gatehaus,Apartment 309,Leeds Road,2007-05-23,133500,F,N,L,1
+BD1 5BL,The Gatehaus,Apartment 310,Leeds Road,2007-06-19,154000,F,Y,L,1
+BD1 5BL,The Gatehaus,Apartment 311,Leeds Road,2007-07-20,153425,F,N,L,1
+BD1 5BL,The Gatehaus,Apartment 312,Leeds Road,2007-07-06,117380,F,Y,L,1
+BD1 5BL,The Gatehaus,Apartment 313,Leeds Road,2018-06-18,55000,F,N,L,2
+BD1 5BL,The Gatehaus,Apartment 314,Leeds Road,2007-05-23,158650,F,Y,L,1
+BD1 5BL,The Gatehaus,Apartment 315,Leeds Road,2007-05-23,144400,F,Y,L,1
+BD1 5BL,The Gatehaus,Apartment 316,Leeds Road,2007-05-24,155500,F,N,L,1
+BD1 5BL,The Gatehaus,Apartment 317,Leeds Road,2007-07-13,154660,F,N,L,1
+BD1 5BL,The Gatehaus,Apartment 318,Leeds Road,2007-07-05,145000,F,Y,L,1
+BD1 5BL,The Gatehaus,Apartment 319,Leeds Road,2007-06-15,159600,F,Y,L,1
+BD1 5BL,The Gatehaus,Apartment 320,Leeds Road,2007-06-07,153500,F,Y,L,1
+BD1 5BL,The Gatehaus,Apartment 321,Leeds Road,2007-05-23,153500,F,Y,L,1
+BD1 5BL,The Gatehaus,Apartment 322,Leeds Road,2007-06-01,157000,F,Y,L,1
+BD1 5BL,The Gatehaus,Apartment 324,Leeds Road,2007-05-25,153900,F,N,L,1
+BD1 5BL,The Gatehaus,Apartment 325,Leeds Road,2007-06-05,151525,F,Y,L,1
+BD1 5BL,The Gatehaus,Apartment 326,Leeds Road,2007-06-05,150575,F,N,L,1
+BD1 5BL,The Gatehaus,Apartment 327,Leeds Road,2007-08-03,181500,F,Y,L,1
+BD1 5BL,The Gatehaus,Apartment 328,Leeds Road,2007-07-06,123500,F,N,L,1
+BD1 5BL,The Gatehaus,Apartment 329,Leeds Road,2008-05-30,79000,F,Y,L,1
+BD1 5BQ,The Gatehaus,101,Leeds Road,2007-07-12,140125,F,N,L,1
+BD1 5BQ,The Gatehaus,103,Leeds Road,2007-07-25,128000,F,N,L,1
+BD1 5BQ,The Gatehaus,105,Leeds Road,2007-08-01,171000,F,N,L,1
+BD1 5BQ,The Gatehaus,106,Leeds Road,2007-07-30,140000,F,Y,L,1
+BD1 5BQ,The Gatehaus,107,Leeds Road,2007-07-12,116000,F,N,L,1
+BD1 5BQ,The Gatehaus,108,Leeds Road,2007-07-23,116000,F,N,L,1
+BD1 5BQ,The Gatehaus,109,Leeds Road,2007-07-20,145000,F,N,L,1
+BD1 5BQ,The Gatehaus,110,Leeds Road,2008-01-04,176000,F,N,L,1
+BD1 5BQ,The Gatehaus,111,Leeds Road,2007-10-10,147500,F,Y,L,1
+BD1 5BQ,The Gatehaus,112,Leeds Road,2009-01-05,150000,F,N,L,2
+BD1 5BQ,The Gatehaus,113,Leeds Road,2007-07-26,128500,F,N,L,1
+BD1 5BQ,The Gatehaus,114,Leeds Road,2007-07-26,182250,F,N,L,1
+BD1 5BQ,The Gatehaus,116,Leeds Road,2007-08-20,142500,F,N,L,1
+BD1 5BQ,The Gatehaus,118,Leeds Road,2007-12-21,117500,F,N,L,1
+BD1 5BQ,The Gatehaus,119,Leeds Road,2007-09-10,147500,F,Y,L,1
+BD1 5BQ,The Gatehaus,120,Leeds Road,2008-01-04,161500,F,N,L,1
+BD1 5BQ,The Gatehaus,121,Leeds Road,2007-10-11,142500,F,N,L,1
+BD1 5BQ,The Gatehaus,122,Leeds Road,2007-08-23,148500,F,N,L,1
+BD1 5BQ,The Gatehaus,123,Leeds Road,2007-08-21,130000,F,Y,L,1
+BD1 5BQ,The Gatehaus,125,Leeds Road,2007-10-17,172500,F,N,L,1
+BD1 5BQ,The Gatehaus,126,Leeds Road,2011-11-17,55000,F,N,L,1
+BD1 5BQ,The Gatehaus,127,Leeds Road,2007-08-21,114000,F,N,L,1
+BD1 5BQ,The Gatehaus,128,Leeds Road,2007-08-21,114000,F,N,L,1
+BD1 5BQ,The Gatehaus,129,Leeds Road,2007-08-21,150000,F,N,L,1
+BD1 5BQ,The Gatehaus,130,Leeds Road,2008-01-15,163000,F,N,L,1
+BD1 5BQ,The Gatehaus,131,Leeds Road,2007-09-12,152500,F,N,L,1
+BD1 5BQ,The Gatehaus,132,Leeds Road,2007-08-24,149999,F,N,L,1
+BD1 5BQ,The Gatehaus,133,Leeds Road,2011-11-17,55000,F,N,L,1
+BD1 5BQ,The Gatehaus,134,Leeds Road,2007-11-22,181000,F,N,L,1
+BD1 5BQ,The Gatehaus,135,Leeds Road,2007-12-07,175000,F,N,L,1
+BD1 5BQ,The Gatehaus,136,Leeds Road,2007-10-30,154375,F,N,L,1
+BD1 5BQ,The Gatehaus,137,Leeds Road,2013-02-22,55000,F,N,L,2
+BD1 5BQ,The Gatehaus,139,Leeds Road,2007-09-28,152500,F,N,L,1
+BD1 5BQ,The Gatehaus,140,Leeds Road,2007-12-14,164500,F,Y,L,1
+BD1 5BQ,The Gatehaus,141,Leeds Road,2015-08-14,50600,F,N,L,4
+BD1 5BQ,The Gatehaus,142,Leeds Road,2018-01-31,39499,F,N,L,2
+BD1 5BQ,The Gatehaus,143,Leeds Road,2007-09-21,135000,F,N,L,1
+BD1 5BQ,The Gatehaus,144,Leeds Road,2007-09-21,195000,F,N,L,1
+BD1 5BQ,The Gatehaus,145,Leeds Road,2007-09-21,177500,F,N,L,1
+BD1 5BQ,The Gatehaus,146,Leeds Road,2007-09-21,150000,F,N,L,1
+BD1 5BQ,The Gatehaus,147,Leeds Road,2007-09-20,125000,F,N,L,1
+BD1 5BQ,The Gatehaus,148,Leeds Road,2007-09-26,125000,F,N,L,1
+BD1 5BQ,The Gatehaus,150,Leeds Road,2007-12-11,166000,F,Y,L,1
+BD1 5BQ,The Gatehaus,151,Leeds Road,2007-12-04,164587,F,N,L,1
+BD1 5BQ,The Gatehaus,152,Leeds Road,2007-10-18,157000,F,Y,L,1
+BD1 5BQ,The Gatehaus,153,Leeds Road,2007-11-22,130625,F,Y,L,1
+BD1 5BQ,The Gatehaus,154,Leeds Road,2007-11-22,186000,F,N,L,1
+BD1 5BQ,The Gatehaus,155,Leeds Road,2007-10-17,180000,F,N,L,1
+BD1 5BQ,The Gatehaus,156,Leeds Road,2007-10-19,152500,F,Y,L,1
+BD1 5BQ,The Gatehaus,157,Leeds Road,2007-10-17,127500,F,Y,L,1
+BD1 5BQ,The Gatehaus,158,Leeds Road,2007-11-15,127500,F,N,L,1
+BD1 5BQ,The Gatehaus,159,Leeds Road,2007-10-17,155000,F,Y,L,1
+BD1 5BQ,The Gatehaus,160,Leeds Road,2007-12-11,167500,F,N,L,1
+BD1 5BQ,The Gatehaus,161,Leeds Road,2007-11-28,160000,F,Y,L,1
+BD1 5BQ,The Gatehaus,162,Leeds Road,2007-10-29,160000,F,N,L,1
+BD1 5BQ,The Gatehaus,163,Leeds Road,2019-12-23,55500,F,N,L,2
+BD1 5BQ,The Gatehaus,164,Leeds Road,2007-11-23,205000,F,N,L,1
+BD1 5BQ,The Gatehaus,165,Leeds Road,2007-12-27,157500,F,N,L,1
+BD1 5BQ,The Gatehaus,166,Leeds Road,2007-10-31,126225,F,Y,L,1
+BD1 5BQ,The Gatehaus,167,Leeds Road,2014-06-06,47500,F,N,L,2
+BD1 5BQ,The Gatehaus,168,Leeds Road,2016-04-30,50000,F,N,L,3
+BD1 5BQ,The Gatehaus,169,Leeds Road,2007-11-19,152500,F,Y,L,1
+BD1 5BQ,The Gatehaus,170,Leeds Road,2007-11-09,152500,F,N,L,1
+BD1 5BQ,The Gatehaus,171,Leeds Road,2007-11-01,150000,F,N,L,1
+BD1 5BQ,The Gatehaus,172,Leeds Road,2007-11-21,207500,F,Y,L,1
+BD1 5BQ,The Gatehaus,173,Leeds Road,2007-11-01,167200,F,Y,L,1
+BD1 5BQ,The Gatehaus,174,Leeds Road,2007-11-02,123500,F,N,L,1
+BD1 5BQ,The Gatehaus,175,Leeds Road,2007-11-02,123500,F,N,L,1
+BD1 5BQ,The Gatehaus,176,Leeds Road,2007-11-30,162500,F,N,L,1
+BD1 5BQ,The Gatehaus,177,Leeds Road,2008-01-04,200000,F,N,L,1
+BD1 5BQ,The Gatehaus,178,Leeds Road,2015-05-11,150000,F,N,L,1
+BD1 5BQ,The Gatehaus,179,Leeds Road,2007-12-03,152500,F,Y,L,1
+BD1 5BQ,The Gatehaus,180,Leeds Road,2008-01-07,300000,F,Y,L,1
+BD1 2PY,1,,Longcroft Place,2001-10-26,5000,T,N,L,1
+BD1 2PY,23,Flat,Longcroft Place,2007-05-04,41000,F,N,L,1
+BD1 2PY,35,Flat,Longcroft Place,2002-11-21,21000,F,N,L,1
+BD1 3BN,101,,Manningham Lane,2002-06-01,55000,T,N,F,2
+BD1 3BN,99,,Manningham Lane,2003-12-19,95000,T,N,F,2
+BD1 3EB,52 - 54,,Manningham Lane,2006-03-20,335000,F,Y,L,1
+BD1 3EP,72C,,Manningham Lane,2004-02-19,95000,T,N,F,2
+BD1 3EP,74,,Manningham Lane,2006-04-12,53000,T,N,F,2
+BD1 4NL,Broadgate House,Apartment 11,Manor Row,2004-10-11,96000,F,N,L,1
+BD1 4NL,Broadgate House,Apartment 3,Manor Row,2004-02-11,87000,F,Y,L,1
+BD1 4NL,Broadgate House,Apartment 78,Manor Row,2005-12-21,120000,F,Y,L,1
+BD1 4NL,Broadgate House,Apartment 90,Manor Row,2004-10-25,116000,F,Y,L,1
+BD1 4NL,Broadgate House,Flat 83,Manor Row,2004-09-03,165000,F,Y,L,1
+BD1 4PB,Hennymoor House,Flat 1,Manor Row,2017-11-10,65000,F,N,L,1
+BD1 4PB,Hennymoor House,Flat 10,Manor Row,2017-11-10,65000,F,N,L,1
+BD1 4PB,Hennymoor House,Flat 11,Manor Row,2017-11-10,80000,F,N,L,1
+BD1 4PB,Hennymoor House,Flat 12,Manor Row,2017-11-10,65000,F,N,L,1
+BD1 4PB,Hennymoor House,Flat 13,Manor Row,2017-11-10,65000,F,N,L,1
+BD1 4PB,Hennymoor House,Flat 14,Manor Row,2017-11-10,65000,F,N,L,1
+BD1 4PB,Hennymoor House,Flat 15,Manor Row,2017-11-10,65000,F,N,L,1
+BD1 4PB,Hennymoor House,Flat 16,Manor Row,2017-11-10,65000,F,N,L,1
+BD1 4PB,Hennymoor House,Flat 17,Manor Row,2017-11-10,65000,F,N,L,1
+BD1 4PB,Hennymoor House,Flat 18,Manor Row,2017-11-10,65000,F,N,L,1
+BD1 4PB,Hennymoor House,Flat 2,Manor Row,2017-11-10,65000,F,N,L,1
+BD1 4PB,Hennymoor House,Flat 20,Manor Row,2017-11-10,65000,F,N,L,1
+BD1 4PB,Hennymoor House,Flat 21,Manor Row,2017-11-10,65000,F,N,L,1
+BD1 4PB,Hennymoor House,Flat 22,Manor Row,2017-11-10,65000,F,N,L,1
+BD1 4PB,Hennymoor House,Flat 23,Manor Row,2017-11-10,65000,F,N,L,1
+BD1 4PB,Hennymoor House,Flat 24,Manor Row,2017-11-10,65000,F,N,L,1
+BD1 4PB,Hennymoor House,Flat 25,Manor Row,2017-11-10,65000,F,N,L,1
+BD1 4PB,Hennymoor House,Flat 26,Manor Row,2017-11-10,65000,F,N,L,1
+BD1 4PB,Hennymoor House,Flat 27,Manor Row,2017-11-10,80000,F,N,L,1
+BD1 4PB,Hennymoor House,Flat 28,Manor Row,2017-11-10,65000,F,N,L,1
+BD1 4PB,Hennymoor House,Flat 29,Manor Row,2017-11-10,65000,F,N,L,1
+BD1 4PB,Hennymoor House,Flat 2A,Manor Row,2018-04-11,60000,F,N,L,1
+BD1 4PB,Hennymoor House,Flat 30,Manor Row,2017-11-10,65000,F,N,L,1
+BD1 4PB,Hennymoor House,Flat 4,Manor Row,2020-05-14,134000,F,N,L,2
+BD1 4PB,Hennymoor House,Flat 5,Manor Row,2017-11-10,65000,F,N,L,1
+BD1 4PB,Hennymoor House,Flat 6,Manor Row,2017-11-10,65000,F,N,L,1
+BD1 4PB,Hennymoor House,Flat 7,Manor Row,2017-11-10,65000,F,N,L,1
+BD1 4PB,Hennymoor House,Flat 8,Manor Row,2017-11-10,65000,F,N,L,1
+BD1 4PB,Hennymoor House,Flat 9,Manor Row,2017-11-10,65000,F,N,L,1
+BD1 4PB,"Netherwood Chambers, 1A",,Manor Row,2002-12-20,35000,T,N,L,1
+BD1 4PB,"Netherwood Chambers, 1A",Flat 12,Manor Row,2007-09-28,71250,F,N,L,1
+BD1 4PB,"Netherwood Chambers, 1A",Flat 13,Manor Row,2007-03-23,83000,F,N,L,2
+BD1 4PB,"Netherwood Chambers, 1A",Flat 14,Manor Row,2008-01-25,88750,T,N,L,2
+BD1 4PB,"Netherwood Chambers, 1A",Flat 16,Manor Row,2018-07-06,38000,F,N,L,3
+BD1 4PB,"Netherwood Chambers, 1A",Flat 17,Manor Row,2020-10-26,34000,F,N,L,3
+BD1 4PB,"Netherwood Chambers, 1A",Flat 21,Manor Row,2007-01-15,77950,F,N,L,3
+BD1 4PB,"Netherwood Chambers, 1A",Flat 22,Manor Row,2017-06-23,54000,F,N,L,3
+BD1 4PB,"Netherwood Chambers, 1A",Flat 23,Manor Row,2005-09-05,80000,F,N,L,2
+BD1 4PB,"Netherwood Chambers, 1A",Flat 24,Manor Row,2004-07-07,92500,F,N,L,3
+BD1 4PB,"Netherwood Chambers, 1A",Flat 25,Manor Row,2003-11-21,48950,F,N,L,3
+BD1 4PB,"Netherwood Chambers, 1A",Flat 27,Manor Row,1997-04-15,34300,F,Y,L,1
+BD1 4PB,"Netherwood Chambers, 1A",Flat 31,Manor Row,2001-10-26,38950,F,N,L,3
+BD1 4PB,"Netherwood Chambers, 1A",Flat 32,Manor Row,2007-03-23,91000,F,N,L,6
+BD1 4PB,"Netherwood Chambers, 1A",Flat 33,Manor Row,1997-02-14,36000,F,Y,L,1
+BD1 4PB,"Netherwood Chambers, 1A",Flat 34,Manor Row,1997-02-28,38500,F,Y,L,1
+BD1 4PB,"Netherwood Chambers, 1A",Flat 35,Manor Row,2004-09-09,47000,F,N,L,2
+BD1 4PB,"Netherwood Chambers, 1A",Flat 36,Manor Row,2004-09-20,70400,F,N,L,2
+BD1 4PB,"Netherwood Chambers, 1A",Flat 37,Manor Row,2010-09-08,64995,F,N,L,3
+BD1 4PB,"Netherwood Chambers, 1A",Flat 41,Manor Row,2004-08-13,60000,F,N,L,2
+BD1 4PB,"Netherwood Chambers, 1A",Flat 42,Manor Row,2007-06-22,82500,F,N,L,1
+BD1 4PB,"Netherwood Chambers, 1A",Flat 43,Manor Row,1997-03-07,37450,F,Y,L,1
+BD1 4PB,"Netherwood Chambers, 1A",Flat 44,Manor Row,2007-02-22,92500,F,N,L,2
+BD1 4PB,"Netherwood Chambers, 1A",Flat 46,Manor Row,2006-07-04,69900,F,N,L,2
+BD1 4PB,"Netherwood Chambers, 1A",Flat 47,Manor Row,2015-07-22,44000,F,N,L,1
+BD1 4PS,29,,Manor Row,2007-05-14,400000,D,N,F,3
+BD1 4PS,33,,Manor Row,2003-09-12,170000,D,N,F,2
+BD1 4QU,"Kenburgh House, 28",,Manor Row,2001-01-10,67000,D,N,F,1
+BD1 1NE,69,,Market Street,2002-03-26,105000,F,N,L,1
+BD1 1NE,"Ivebridge House, 59",Flat 1,Market Street,2001-11-28,59950,F,N,L,1
+BD1 1NE,"Ivebridge House, 59",Flat 10,Market Street,2008-08-22,75000,F,N,L,2
+BD1 1NE,"Ivebridge House, 59",Flat 11,Market Street,2001-11-30,85000,F,N,L,1
+BD1 1NE,"Ivebridge House, 59",Flat 12,Market Street,2002-02-28,59000,F,Y,L,1
+BD1 1NE,"Ivebridge House, 59",Flat 14,Market Street,2008-03-20,76500,F,N,L,3
+BD1 1NE,"Ivebridge House, 59",Flat 15,Market Street,2004-09-24,87950,F,N,L,3
+BD1 1NE,"Ivebridge House, 59",Flat 16,Market Street,2002-03-04,60000,F,N,L,1
+BD1 1NE,"Ivebridge House, 59",Flat 2,Market Street,2002-02-28,56500,F,N,L,1
+BD1 1NE,"Ivebridge House, 59",Flat 3,Market Street,2006-09-05,89000,F,N,L,3
+BD1 1NE,"Ivebridge House, 59",Flat 4,Market Street,2004-07-02,67000,F,N,L,2
+BD1 1NE,"Ivebridge House, 59",Flat 5,Market Street,2015-09-18,47500,F,N,L,2
+BD1 1NE,"Ivebridge House, 59",Flat 6,Market Street,2020-11-12,35500,F,N,L,3
+BD1 1NE,"Ivebridge House, 59",Flat 7,Market Street,2002-02-08,59950,F,N,L,1
+BD1 1NE,"Ivebridge House, 59",Flat 8,Market Street,2019-09-10,40000,F,N,L,3
+BD1 1NE,"Ivebridge House, 59",Flat 9,Market Street,2002-02-28,58500,F,N,L,1
+BD1 3EY,100,,Midland Road,2015-10-09,97000,T,N,F,1
+BD1 3EY,102,,Midland Road,2019-06-28,95000,T,N,F,3
+BD1 3EY,104,,Midland Road,2011-05-12,85000,T,N,F,1
+BD1 3EY,110,,Midland Road,2012-12-27,90000,T,N,F,1
+BD1 4AB,20 - 22,Apartment 1,Mill Street,2004-12-29,77700,F,Y,L,1
+BD1 4AB,20 - 22,Apartment 10,Mill Street,2004-04-26,105700,F,Y,L,1
+BD1 4AB,20 - 22,Apartment 13,Mill Street,2015-02-18,59000,F,N,L,2
+BD1 4AB,20 - 22,Apartment 14,Mill Street,2019-09-27,53000,F,N,L,2
+BD1 4AB,20 - 22,Apartment 15,Mill Street,2004-12-15,85250,F,Y,L,1
+BD1 4AB,20 - 22,Apartment 16,Mill Street,2005-05-16,80000,F,N,L,1
+BD1 4AB,20 - 22,Apartment 17,Mill Street,2005-04-22,80000,F,Y,L,1
+BD1 4AB,20 - 22,Apartment 18,Mill Street,2020-07-22,48000,F,N,L,3
+BD1 4AB,20 - 22,Apartment 2,Mill Street,2015-03-27,55000,F,N,L,2
+BD1 4AB,20 - 22,Apartment 20,Mill Street,2004-12-10,107250,F,N,L,1
+BD1 4AB,20 - 22,Apartment 21,Mill Street,2012-12-19,60000,F,N,L,1
+BD1 4AB,20 - 22,Apartment 22,Mill Street,2004-11-30,158250,F,Y,L,1
+BD1 4AB,20 - 22,Apartment 23,Mill Street,2004-12-03,108950,F,Y,L,1
+BD1 4AB,20 - 22,Apartment 25,Mill Street,2004-12-09,105950,F,Y,L,1
+BD1 4AB,20 - 22,Apartment 26,Mill Street,2005-03-04,105950,F,Y,L,1
+BD1 4AB,20 - 22,Apartment 27,Mill Street,2004-12-10,88950,F,N,L,1
+BD1 4AB,20 - 22,Apartment 28,Mill Street,2017-09-15,57000,F,N,L,2
+BD1 4AB,20 - 22,Apartment 29,Mill Street,2004-12-17,102950,F,Y,L,1
+BD1 4AB,20 - 22,Apartment 3,Mill Street,2018-12-20,68000,F,N,L,2
+BD1 4AB,20 - 22,Apartment 30,Mill Street,2004-12-17,142950,F,Y,L,1
+BD1 4AB,20 - 22,Apartment 31,Mill Street,2004-12-13,106950,F,Y,L,1
+BD1 4AB,20 - 22,Apartment 32,Mill Street,2004-12-13,153950,F,Y,L,1
+BD1 4AB,20 - 22,Apartment 34,Mill Street,2017-03-24,80000,F,N,L,3
+BD1 4AB,20 - 22,Apartment 35,Mill Street,2005-03-11,149250,F,Y,L,1
+BD1 4AB,20 - 22,Apartment 36,Mill Street,2007-08-10,125000,F,N,L,2
+BD1 4AB,20 - 22,Apartment 37,Mill Street,2013-08-23,47000,F,N,L,2
+BD1 4AB,20 - 22,Apartment 38,Mill Street,2005-03-18,146250,F,Y,L,1
+BD1 4AB,20 - 22,Apartment 4,Mill Street,2005-03-04,104700,F,Y,L,1
+BD1 4AB,20 - 22,Apartment 41,Mill Street,2005-03-18,114250,F,Y,L,1
+BD1 4AB,20 - 22,Apartment 42,Mill Street,2005-03-21,109250,F,Y,L,1
+BD1 4AB,20 - 22,Apartment 43,Mill Street,2005-05-03,164250,F,Y,L,1
+BD1 4AB,20 - 22,Apartment 44,Mill Street,2005-05-04,164250,F,Y,L,1
+BD1 4AB,20 - 22,Apartment 45,Mill Street,2005-09-07,139250,F,Y,L,1
+BD1 4AB,20 - 22,Apartment 47,Mill Street,2005-12-01,133000,F,Y,L,1
+BD1 4AB,20 - 22,Apartment 48,Mill Street,2011-09-09,55000,F,N,L,1
+BD1 4AB,20 - 22,Apartment 5,Mill Street,2005-01-08,82700,F,Y,L,1
+BD1 4AB,20 - 22,Apartment 6,Mill Street,2005-09-07,120000,F,N,L,1
+BD1 4AB,20 - 22,Apartment 8,Mill Street,2005-06-15,101700,F,Y,L,1
+BD1 3ET,30,,Nesfield Street,2005-12-29,135000,T,N,F,2
+BD1 3ET,32,,Nesfield Street,1997-06-20,92000,T,N,F,1
+BD1 3ET,4,,Nesfield Street,1998-08-25,27500,T,N,F,1
+BD1 3ET,6,,Nesfield Street,2003-09-05,124000,D,N,F,1
+BD1 3ET,63,,Nesfield Street,2005-04-18,129000,S,N,F,3
+BD1 3ET,67,,Nesfield Street,2010-11-02,145000,S,N,F,1
+BD1 3ET,Nesfield Tyres,,Nesfield Street,2004-02-16,80000,T,N,F,1
+BD1 5LR,"Augustus House, 3",Apartment 107,New Augustus Street,2020-04-01,80000,F,Y,L,1
+BD1 5LR,"Augustus House, 3",Apartment 110,New Augustus Street,2018-08-30,76000,F,Y,L,1
+BD1 5LR,"Augustus House, 3",Apartment 111,New Augustus Street,2019-07-18,82500,F,Y,L,1
+BD1 5LR,"Augustus House, 3",Apartment 205,New Augustus Street,2018-09-14,77700,F,Y,L,1
+BD1 5LR,"Augustus House, 3",Apartment 208,New Augustus Street,2019-07-18,82500,F,Y,L,1
+BD1 5LR,"Augustus House, 3",Apartment 209,New Augustus Street,2019-07-18,82500,F,Y,L,1
+BD1 5LR,"Augustus House, 3",Apartment 210,New Augustus Street,2019-07-18,82500,F,Y,L,1
+BD1 5LR,"Augustus House, 3",Apartment 215,New Augustus Street,2019-07-18,82500,F,Y,L,1
+BD1 5LR,"Augustus House, 3",Apartment 4,New Augustus Street,2018-09-14,75000,F,Y,L,1
+BD1 2QY,12,,New John Street,2008-06-20,280000,D,N,F,1
+BD1 3HT,12,,North Parade,2006-06-30,240000,T,N,F,1
+BD1 3HT,14,,North Parade,2011-10-11,107000,T,N,F,1
+BD1 3JL,15,,North Parade,2004-03-19,217500,D,N,L,1
+BD1 3JL,21,,North Parade,1995-06-30,95000,T,N,F,1
+BD1 3JL,23,,North Parade,2007-03-01,175000,T,N,F,2
+BD1 3JL,25,,North Parade,1998-10-15,84500,T,N,F,1
+BD1 3JL,27,,North Parade,2012-07-19,135000,T,N,F,3
+BD1 3JR,19,,Northgate,2003-01-31,52000,T,N,L,1
+BD1 3JR,21,,Northgate,1997-06-23,59999,T,N,F,1
+BD1 2HR,26,,Paradise Street,2001-08-30,34000,S,N,F,1
+BD1 5BD,13,,Peckover Street,2000-08-30,60000,T,N,F,2
+BD1 5BD,15,,Peckover Street,2007-06-20,190000,T,N,F,1
+BD1 5BD,"Silens Works, 29",Apartment 1,Peckover Street,2003-05-02,89000,F,N,L,1
+BD1 5BD,"Silens Works, 29",Apartment 10,Peckover Street,2008-04-28,112500,F,N,L,3
+BD1 5BD,"Silens Works, 29",Apartment 11,Peckover Street,2002-04-26,60000,F,N,L,1
+BD1 5BD,"Silens Works, 29",Apartment 12,Peckover Street,2002-04-26,85000,F,Y,L,1
+BD1 5BD,"Silens Works, 29",Apartment 13,Peckover Street,2002-01-16,65000,F,N,L,1
+BD1 5BD,"Silens Works, 29",Apartment 14,Peckover Street,2004-08-03,107000,F,N,L,2
+BD1 5BD,"Silens Works, 29",Apartment 15,Peckover Street,2002-05-31,90000,F,Y,L,1
+BD1 5BD,"Silens Works, 29",Apartment 16,Peckover Street,2006-09-01,124250,F,N,L,2
+BD1 5BD,"Silens Works, 29",Apartment 17,Peckover Street,2020-05-15,88000,F,N,L,4
+BD1 5BD,"Silens Works, 29",Apartment 18,Peckover Street,2002-07-30,90000,F,N,L,1
+BD1 5BD,"Silens Works, 29",Apartment 19,Peckover Street,2005-06-27,122000,F,N,L,3
+BD1 5BD,"Silens Works, 29",Apartment 2,Peckover Street,2002-03-04,90000,F,N,L,1
+BD1 5BD,"Silens Works, 29",Apartment 20,Peckover Street,2018-12-14,86000,F,N,L,2
+BD1 5BD,"Silens Works, 29",Apartment 21,Peckover Street,2007-02-14,120000,F,N,L,2
+BD1 5BD,"Silens Works, 29",Apartment 22,Peckover Street,2007-02-14,119500,F,N,L,2
+BD1 5BD,"Silens Works, 29",Apartment 23,Peckover Street,2002-06-05,94000,F,N,L,1
+BD1 5BD,"Silens Works, 29",Apartment 3,Peckover Street,2016-11-04,139000,F,N,L,2
+BD1 5BD,"Silens Works, 29",Apartment 4,Peckover Street,2004-09-10,120000,F,N,L,2
+BD1 5BD,"Silens Works, 29",Apartment 5,Peckover Street,2019-05-24,120000,F,N,L,2
+BD1 5BD,"Silens Works, 29",Apartment 6,Peckover Street,2007-03-30,177500,F,N,L,2
+BD1 5BD,"Silens Works, 29",Apartment 7,Peckover Street,2004-04-20,119000,F,N,L,2
+BD1 5BD,"Silens Works, 29",Apartment 8,Peckover Street,2008-10-10,97000,F,N,L,4
+BD1 5BD,"Silens Works, 29",Apartment 9,Peckover Street,2002-04-26,60000,F,N,L,1
+BD1 3LW,6,,Piccadilly,1999-07-28,117500,T,N,F,1
+BD1 3NN,Equity Chambers,The Basement,Piccadilly,2007-06-08,75000,F,Y,L,1
+BD1 3NN,"Equity Chambers, 40",Flat 1,Piccadilly,2019-10-14,45100,F,N,L,2
+BD1 3NN,"Equity Chambers, 40",Flat 10,Piccadilly,2006-06-07,108000,F,Y,L,1
+BD1 3NN,"Equity Chambers, 40",Flat 12,Piccadilly,2006-05-30,123750,F,Y,L,1
+BD1 3NN,"Equity Chambers, 40",Flat 13,Piccadilly,2006-06-20,130500,F,Y,L,1
+BD1 3NN,"Equity Chambers, 40",Flat 14,Piccadilly,2006-08-08,99000,F,Y,L,1
+BD1 3NN,"Equity Chambers, 40",Flat 15,Piccadilly,2009-12-09,48000,F,N,L,2
+BD1 3NN,"Equity Chambers, 40",Flat 16,Piccadilly,2006-10-06,121524,F,Y,L,1
+BD1 3NN,"Equity Chambers, 40",Flat 17,Piccadilly,2006-06-22,130500,F,Y,L,1
+BD1 3NN,"Equity Chambers, 40",Flat 18,Piccadilly,2006-05-30,125550,F,Y,L,1
+BD1 3NN,"Equity Chambers, 40",Flat 19,Piccadilly,2014-06-09,29000,F,N,L,2
+BD1 3NN,"Equity Chambers, 40",Flat 2,Piccadilly,2006-07-20,148500,F,Y,L,1
+BD1 3NN,"Equity Chambers, 40",Flat 20,Piccadilly,2018-07-27,55000,F,N,L,2
+BD1 3NN,"Equity Chambers, 40",Flat 21,Piccadilly,2006-09-11,125550,F,Y,L,1
+BD1 3NN,"Equity Chambers, 40",Flat 22,Piccadilly,2006-05-30,116955,F,Y,L,1
+BD1 3NN,"Equity Chambers, 40",Flat 23,Piccadilly,2006-08-23,119909,F,Y,L,1
+BD1 3NN,"Equity Chambers, 40",Flat 24,Piccadilly,2005-07-06,119250,F,N,L,1
+BD1 3NN,"Equity Chambers, 40",Flat 25,Piccadilly,2006-09-27,128250,F,Y,L,1
+BD1 3NN,"Equity Chambers, 40",Flat 26,Piccadilly,2006-09-06,142000,F,Y,L,1
+BD1 3NN,"Equity Chambers, 40",Flat 27,Piccadilly,2019-07-31,38000,F,N,L,2
+BD1 3NN,"Equity Chambers, 40",Flat 28,Piccadilly,2013-11-01,48000,F,N,L,2
+BD1 3NN,"Equity Chambers, 40",Flat 29,Piccadilly,2006-08-09,130071,F,Y,L,1
+BD1 3NN,"Equity Chambers, 40",Flat 3,Piccadilly,2006-05-31,112500,F,Y,L,1
+BD1 3NN,"Equity Chambers, 40",Flat 30,Piccadilly,2014-10-29,55000,F,N,L,2
+BD1 3NN,"Equity Chambers, 40",Flat 31,Piccadilly,2006-12-18,133000,F,Y,L,1
+BD1 3NN,"Equity Chambers, 40",Flat 32,Piccadilly,2017-08-31,64600,F,N,L,1
+BD1 3NN,"Equity Chambers, 40",Flat 33,Piccadilly,2006-09-01,130968,F,Y,L,1
+BD1 3NN,"Equity Chambers, 40",Flat 34,Piccadilly,2006-07-28,98518,F,Y,L,1
+BD1 3NN,"Equity Chambers, 40",Flat 35,Piccadilly,2018-04-20,60000,F,N,L,2
+BD1 3NN,"Equity Chambers, 40",Flat 36,Piccadilly,2006-09-26,134282,F,Y,L,1
+BD1 3NN,"Equity Chambers, 40",Flat 37,Piccadilly,2006-09-22,123612,F,Y,L,1
+BD1 3NN,"Equity Chambers, 40",Flat 38,Piccadilly,2006-10-10,124001,F,Y,L,1
+BD1 3NN,"Equity Chambers, 40",Flat 39,Piccadilly,2006-09-11,128650,F,Y,L,1
+BD1 3NN,"Equity Chambers, 40",Flat 4,Piccadilly,2006-06-23,112500,F,Y,L,1
+BD1 3NN,"Equity Chambers, 40",Flat 40,Piccadilly,2006-09-06,146837,F,Y,L,1
+BD1 3NN,"Equity Chambers, 40",Flat 41,Piccadilly,2013-12-13,47000,F,N,L,2
+BD1 3NN,"Equity Chambers, 40",Flat 42,Piccadilly,2006-08-16,134798,F,N,L,1
+BD1 3NN,"Equity Chambers, 40",Flat 44,Piccadilly,2006-07-07,106500,F,N,L,1
+BD1 3NN,"Equity Chambers, 40",Flat 45,Piccadilly,2013-10-23,50000,F,N,L,2
+BD1 3NN,"Equity Chambers, 40",Flat 46,Piccadilly,2006-07-14,105800,F,N,L,1
+BD1 3NN,"Equity Chambers, 40",Flat 47,Piccadilly,2006-07-14,109000,F,Y,L,1
+BD1 3NN,"Equity Chambers, 40",Flat 48,Piccadilly,2006-07-26,144000,F,Y,L,1
+BD1 3NN,"Equity Chambers, 40",Flat 49,Piccadilly,2007-03-02,122000,F,Y,L,1
+BD1 3NN,"Equity Chambers, 40",Flat 5,Piccadilly,2006-09-08,130500,F,Y,L,1
+BD1 3NN,"Equity Chambers, 40",Flat 50,Piccadilly,2006-07-14,127500,F,N,L,1
+BD1 3NN,"Equity Chambers, 40",Flat 51,Piccadilly,2013-02-06,45000,F,N,L,2
+BD1 3NN,"Equity Chambers, 40",Flat 52,Piccadilly,2006-07-11,103100,F,N,L,1
+BD1 3NN,"Equity Chambers, 40",Flat 53,Piccadilly,2006-07-13,106100,F,N,L,1
+BD1 3NN,"Equity Chambers, 40",Flat 54,Piccadilly,2007-07-18,106300,F,Y,L,1
+BD1 3NN,"Equity Chambers, 40",Flat 55,Piccadilly,2006-07-21,105700,F,N,L,1
+BD1 3NN,"Equity Chambers, 40",Flat 56,Piccadilly,2006-07-26,105160,F,N,L,1
+BD1 3NN,"Equity Chambers, 40",Flat 57,Piccadilly,2006-09-11,95000,F,Y,L,1
+BD1 3NN,"Equity Chambers, 40",Flat 58,Piccadilly,2006-07-07,103320,F,Y,L,1
+BD1 3NN,"Equity Chambers, 40",Flat 59,Piccadilly,2006-07-07,106000,F,N,L,1
+BD1 3NN,"Equity Chambers, 40",Flat 6,Piccadilly,2006-07-28,139500,F,Y,L,1
+BD1 3NN,"Equity Chambers, 40",Flat 60,Piccadilly,2016-02-15,60000,F,N,L,1
+BD1 3NN,"Equity Chambers, 40",Flat 61,Piccadilly,2006-09-12,111995,F,Y,L,1
+BD1 3NN,"Equity Chambers, 40",Flat 62,Piccadilly,2006-10-20,106000,F,Y,L,1
+BD1 3NN,"Equity Chambers, 40",Flat 7,Piccadilly,2006-05-31,122500,F,Y,L,1
+BD1 3NN,"Equity Chambers, 40",Flat 8,Piccadilly,2006-06-21,126000,F,Y,L,1
+BD1 3NN,"Equity Chambers, 40",Flat 9,Piccadilly,2006-06-29,121500,F,Y,L,1
+BD1 4EY,45,,Pine Street,2015-10-30,95000,T,N,F,2
+BD1 2ER,10,Apartment 16,Quebec Street,2013-10-10,59995,F,Y,L,1
+BD1 2ER,10,Apartment 8,Quebec Street,2013-10-10,59950,F,Y,L,1
+BD1 2ER,10,Apartment 9,Quebec Street,2013-10-10,59950,F,Y,L,1
+BD1 2ER,12 - 14,Flat 1,Quebec Street,2008-05-08,119950,F,N,L,1
+BD1 2ER,12 - 14,Flat 2,Quebec Street,2008-05-12,124950,F,N,L,1
+BD1 2ER,12 - 14,Flat 3,Quebec Street,2008-05-01,135000,F,Y,L,1
+BD1 2ER,12 - 14,Flat 4,Quebec Street,2013-05-31,60000,F,N,L,2
+BD1 2ER,12 - 14,Flat 5,Quebec Street,2013-01-18,60000,F,N,L,1
+BD1 2ER,12 - 14,Flat 6,Quebec Street,2013-01-18,60000,F,N,L,1
+BD1 2ER,18,Flat 1,Quebec Street,2008-05-14,109950,F,Y,L,2
+BD1 2ER,18,Flat 2,Quebec Street,2008-05-16,124950,F,N,L,1
+BD1 2ER,18,Flat 3,Quebec Street,2008-06-19,150000,F,N,L,2
+BD1 2ER,6 - 8,,Quebec Street,2001-11-12,32000,T,N,F,1
+BD1 3QQ,14 - 16,,Rawson Place,2004-06-22,525000,D,N,F,1
+BD1 3QQ,18,,Rawson Place,2015-12-10,95000,T,N,F,1
+BD1 3QQ,2,,Rawson Place,2009-03-17,60000,F,N,L,1
+BD1 3SA,"Rawson Buildings, 4",Flat 1,Rawson Road,2008-10-02,115000,F,Y,L,1
+BD1 3SA,"Rawson Buildings, 4",Flat 10,Rawson Road,2009-01-09,116000,F,N,L,2
+BD1 3SA,"Rawson Buildings, 4",Flat 11,Rawson Road,2008-09-30,105000,F,N,L,1
+BD1 3SA,"Rawson Buildings, 4",Flat 12,Rawson Road,2007-10-19,140000,F,Y,L,1
+BD1 3SA,"Rawson Buildings, 4",Flat 13,Rawson Road,2009-07-17,108000,F,N,L,1
+BD1 3SA,"Rawson Buildings, 4",Flat 14,Rawson Road,2009-10-16,48000,F,N,L,1
+BD1 3SA,"Rawson Buildings, 4",Flat 15,Rawson Road,2008-09-26,74717,F,N,L,1
+BD1 3SA,"Rawson Buildings, 4",Flat 16,Rawson Road,2010-01-29,100000,F,N,L,1
+BD1 3SA,"Rawson Buildings, 4",Flat 17,Rawson Road,2009-10-06,48000,F,N,L,1
+BD1 3SA,"Rawson Buildings, 4",Flat 18,Rawson Road,2009-12-10,94000,F,N,L,1
+BD1 3SA,"Rawson Buildings, 4",Flat 19,Rawson Road,2008-09-19,100000,F,N,L,1
+BD1 3SA,"Rawson Buildings, 4",Flat 2,Rawson Road,2007-11-07,120000,F,N,L,1
+BD1 3SA,"Rawson Buildings, 4",Flat 20,Rawson Road,2008-09-26,74718,F,N,L,1
+BD1 3SA,"Rawson Buildings, 4",Flat 21,Rawson Road,2009-04-14,94000,F,Y,L,1
+BD1 3SA,"Rawson Buildings, 4",Flat 22,Rawson Road,2009-12-08,100000,F,N,L,1
+BD1 3SA,"Rawson Buildings, 4",Flat 23,Rawson Road,2009-04-03,109950,F,N,L,1
+BD1 3SA,"Rawson Buildings, 4",Flat 24,Rawson Road,2009-01-05,71467,F,N,L,1
+BD1 3SA,"Rawson Buildings, 4",Flat 27,Rawson Road,2008-12-05,77967,F,N,L,1
+BD1 3SA,"Rawson Buildings, 4",Flat 28,Rawson Road,2008-12-05,71467,F,N,L,1
+BD1 3SA,"Rawson Buildings, 4",Flat 30,Rawson Road,2010-01-29,90000,F,N,L,1
+BD1 3SA,"Rawson Buildings, 4",Flat 31,Rawson Road,2009-03-31,137950,F,N,L,1
+BD1 3SA,"Rawson Buildings, 4",Flat 32,Rawson Road,2008-12-05,71467,F,Y,L,1
+BD1 3SA,"Rawson Buildings, 4",Flat 33,Rawson Road,2013-03-15,44000,F,N,L,2
+BD1 3SA,"Rawson Buildings, 4",Flat 34,Rawson Road,2009-09-25,89950,F,N,L,1
+BD1 3SA,"Rawson Buildings, 4",Flat 35,Rawson Road,2009-05-21,108000,F,Y,L,1
+BD1 3SA,"Rawson Buildings, 4",Flat 37,Rawson Road,2010-03-24,90000,F,Y,L,1
+BD1 3SA,"Rawson Buildings, 4",Flat 38,Rawson Road,2009-03-10,87500,F,Y,L,1
+BD1 3SA,"Rawson Buildings, 4",Flat 39,Rawson Road,2009-05-08,118200,F,Y,L,1
+BD1 3SA,"Rawson Buildings, 4",Flat 4,Rawson Road,2009-10-16,38000,F,N,L,1
+BD1 3SA,"Rawson Buildings, 4",Flat 40,Rawson Road,2009-06-05,129950,F,Y,L,1
+BD1 3SA,"Rawson Buildings, 4",Flat 41,Rawson Road,2010-01-11,90000,F,N,L,1
+BD1 3SA,"Rawson Buildings, 4",Flat 43,Rawson Road,2009-06-05,99950,F,Y,L,1
+BD1 3SA,"Rawson Buildings, 4",Flat 44,Rawson Road,2010-06-09,50000,F,N,L,1
+BD1 3SA,"Rawson Buildings, 4",Flat 5,Rawson Road,2008-09-25,110000,F,N,L,1
+BD1 3SA,"Rawson Buildings, 4",Flat 6,Rawson Road,2009-10-16,48000,F,N,L,1
+BD1 3SA,"Rawson Buildings, 4",Flat 7,Rawson Road,2007-10-12,99950,F,Y,L,1
+BD1 3SA,"Rawson Buildings, 4",Flat 8,Rawson Road,2008-09-25,110000,F,Y,L,1
+BD1 3SA,"Rawson Buildings, 4",Flat 9,Rawson Road,2009-10-16,38000,F,N,L,1
+BD1 2RY,32,,Rebecca Street,2008-03-06,150000,S,N,F,1
+BD1 2AJ,10,,Sackville Street,2001-07-19,34000,T,N,F,1
+BD1 2AJ,2,,Sackville Street,2005-06-21,101000,T,N,F,1
+BD1 2AJ,5,,Sackville Street,2004-07-27,35000,T,N,F,2
+BD1 2AJ,6,,Sackville Street,2005-07-15,139000,T,N,F,3
+BD1 4QH,15,,Salem Street,2007-11-08,150000,T,N,F,1
+BD1 4QH,19,,Salem Street,1996-06-28,62500,T,N,F,1
+BD1 4QH,"Equity House, 17",,Salem Street,2006-04-06,145000,T,N,F,2
+BD1 5EN,Acton House,Apartment 1,Scoresby Street,2006-02-27,149995,F,Y,L,1
+BD1 5EN,Acton House,Apartment 10,Scoresby Street,2006-02-23,162995,F,Y,L,1
+BD1 5EN,Acton House,Apartment 11,Scoresby Street,2006-02-24,159995,F,Y,L,1
+BD1 5EN,Acton House,Apartment 14,Scoresby Street,2018-11-14,55000,F,N,L,3
+BD1 5EN,Acton House,Apartment 15,Scoresby Street,2016-12-02,75000,F,N,L,2
+BD1 5EN,Acton House,Apartment 16,Scoresby Street,2006-02-06,164995,F,Y,L,1
+BD1 5EN,Acton House,Apartment 17,Scoresby Street,2007-11-16,76995,F,N,L,2
+BD1 5EN,Acton House,Apartment 18,Scoresby Street,2011-03-31,95000,F,N,L,2
+BD1 5EN,Acton House,Apartment 2,Scoresby Street,2006-06-02,109995,F,Y,L,1
+BD1 5EN,Acton House,Apartment 20,Scoresby Street,2009-01-30,147000,F,N,L,1
+BD1 5EN,Acton House,Apartment 21,Scoresby Street,2011-10-21,46000,F,N,L,1
+BD1 5EN,Acton House,Apartment 22,Scoresby Street,2006-04-24,127995,F,Y,L,1
+BD1 5EN,Acton House,Apartment 23,Scoresby Street,2013-03-01,66500,F,N,L,2
+BD1 5EN,Acton House,Apartment 24,Scoresby Street,2006-03-10,99790,F,Y,L,1
+BD1 5EN,Acton House,Apartment 25,Scoresby Street,2006-07-28,179995,F,Y,L,1
+BD1 5EN,Acton House,Apartment 27,Scoresby Street,2006-06-12,174000,F,Y,L,1
+BD1 5EN,Acton House,Apartment 28,Scoresby Street,2006-06-06,189995,F,Y,L,1
+BD1 5EN,Acton House,Apartment 29,Scoresby Street,2006-03-22,164995,F,Y,L,1
+BD1 5EN,Acton House,Apartment 3,Scoresby Street,2006-03-10,82960,F,Y,L,1
+BD1 5EN,Acton House,Apartment 30,Scoresby Street,2006-04-21,189995,F,N,L,1
+BD1 5EN,Acton House,Apartment 4,Scoresby Street,2006-03-09,149995,F,Y,L,1
+BD1 5EN,Acton House,Apartment 6,Scoresby Street,2006-07-19,107995,F,Y,L,1
+BD1 5EN,Acton House,Apartment 9,Scoresby Street,2006-04-04,149995,F,Y,L,1
+BD1 5EN,Apartment 30,Apartment 30,Scoresby Street,2008-11-14,117800,S,N,F,1
+BD1 5ET,11,Apartment 1,Scoresby Street,2007-02-13,132000,F,Y,L,1
+BD1 5ET,11,Apartment 2,Scoresby Street,2020-01-31,55000,F,N,L,3
+BD1 5ET,11,Apartment 3,Scoresby Street,2016-02-04,66000,F,N,L,1
+BD1 5ET,11,Apartment 4,Scoresby Street,2007-06-25,138000,F,Y,L,1
+BD1 5ET,11,Apartment 5,Scoresby Street,2006-11-09,125000,F,Y,L,1
+BD1 5ET,11,Apartment 6,Scoresby Street,2006-11-08,93500,F,Y,L,1
+BD1 5ET,11,Apartment 7,Scoresby Street,2006-12-21,93000,F,Y,L,1
+BD1 5ET,11,Apartment 9,Scoresby Street,2019-11-19,53000,F,N,L,4
+BD1 5ET,15,,Scoresby Street,2018-08-17,87500,F,N,L,3
+BD1 2RU,3,,Sedgfield Terrace,2007-05-04,41000,F,N,F,1
+BD1 2RU,4,,Sedgfield Terrace,2014-09-29,77000,T,N,F,1
+BD1 2RU,5,,Sedgfield Terrace,2005-11-28,119950,T,N,F,2
+BD1 2RU,6,,Sedgfield Terrace,1995-06-06,16500,T,N,F,1
+BD1 2RU,7,,Sedgfield Terrace,1996-06-28,20000,T,N,F,1
+BD1 3EJ,11,,Spring Gardens,2016-12-08,80000,T,N,F,1
+BD1 3EJ,13,,Spring Gardens,2002-05-24,50000,T,N,F,3
+BD1 3EJ,14,,Spring Gardens,2019-06-14,150000,T,N,F,2
+BD1 3EJ,16,,Spring Gardens,1997-06-06,54000,T,N,F,1
+BD1 3EJ,22,,Spring Gardens,2000-09-08,72500,T,N,F,1
+BD1 3EJ,25,,Spring Gardens,1996-09-13,42000,S,N,F,1
+BD1 3EJ,27,,Spring Gardens,1996-09-13,42000,S,N,F,1
+BD1 3EJ,29,,Spring Gardens,2007-01-08,190000,T,N,F,4
+BD1 3EJ,3,,Spring Gardens,2006-03-01,100000,T,N,F,2
+BD1 3EJ,31,,Spring Gardens,2004-01-12,95000,T,N,F,2
+BD1 3EJ,35,,Spring Gardens,1997-04-01,44000,S,N,F,1
+BD1 3EJ,37,,Spring Gardens,2020-02-07,185000,S,N,F,1
+BD1 3EJ,47,,Spring Gardens,2007-05-11,72500,T,Y,L,1
+BD1 3EJ,5,,Spring Gardens,2006-08-03,125000,T,N,F,2
+BD1 3EJ,7,,Spring Gardens,2005-11-18,142000,D,N,F,1
+BD1 3EZ,11,,Springfield Place,2010-12-17,120000,T,N,F,2
+BD1 3EZ,13,,Springfield Place,2001-04-05,50000,T,N,F,1
+BD1 3EZ,19,,Springfield Place,1996-02-22,40000,T,N,F,1
+BD1 3EZ,29,,Springfield Place,2001-03-16,77000,D,N,F,1
+BD1 3EZ,29A,,Springfield Place,2001-03-16,77000,S,N,F,1
+BD1 3EZ,7A,,Springfield Place,2004-12-17,150000,D,N,F,1
+BD1 2RW,14,,St Thomass Road,2003-05-19,80000,D,N,F,1
+BD1 4QF,Stone Gate House,Apartment 11,Stone Street,2008-02-19,110000,F,N,L,1
+BD1 4QF,Stone Gate House,Apartment 12,Stone Street,2005-02-18,101500,F,Y,L,1
+BD1 4QF,Stone Gate House,Apartment 12A,Stone Street,2005-02-18,128500,F,Y,L,1
+BD1 4QF,Stone Gate House,Apartment 14,Stone Street,2005-02-28,132000,F,Y,L,1
+BD1 4QF,Stone Gate House,Apartment 15,Stone Street,2006-03-07,123675,F,N,L,1
+BD1 4QF,Stone Gate House,Apartment 16,Stone Street,2005-03-18,132000,F,Y,L,1
+BD1 4QF,Stone Gate House,Apartment 17,Stone Street,2006-01-06,118000,F,N,L,2
+BD1 4QF,Stone Gate House,Apartment 19,Stone Street,2005-02-28,147500,F,Y,L,1
+BD1 4QF,Stone Gate House,Apartment 2,Stone Street,2005-02-18,140000,F,Y,L,1
+BD1 4QF,Stone Gate House,Apartment 20,Stone Street,2005-02-21,136500,F,N,L,1
+BD1 4QF,Stone Gate House,Apartment 23,Stone Street,2005-03-07,142500,F,Y,L,1
+BD1 4QF,Stone Gate House,Apartment 24,Stone Street,2005-04-29,92500,F,N,L,1
+BD1 4QF,Stone Gate House,Apartment 25,Stone Street,2005-04-05,129000,F,Y,L,1
+BD1 4QF,Stone Gate House,Apartment 26,Stone Street,2006-11-23,129000,F,N,L,2
+BD1 4QF,Stone Gate House,Apartment 28,Stone Street,2005-05-23,132500,F,Y,L,1
+BD1 4QF,Stone Gate House,Apartment 29,Stone Street,2005-04-08,142000,F,Y,L,1
+BD1 4QF,Stone Gate House,Apartment 30,Stone Street,2005-03-21,90000,F,N,L,1
+BD1 4QF,Stone Gate House,Apartment 31,Stone Street,2005-05-27,148000,F,Y,L,1
+BD1 4QF,Stone Gate House,Apartment 32,Stone Street,2005-03-24,137500,F,Y,L,1
+BD1 4QF,Stone Gate House,Apartment 34,Stone Street,2005-03-29,137500,F,Y,L,1
+BD1 4QF,Stone Gate House,Apartment 35,Stone Street,2007-01-12,142500,F,N,L,2
+BD1 4QF,Stone Gate House,Apartment 36,Stone Street,2005-04-29,93000,F,Y,L,1
+BD1 4QF,Stone Gate House,Apartment 37,Stone Street,2005-05-20,129500,F,Y,L,1
+BD1 4QF,Stone Gate House,Apartment 38,Stone Street,2005-04-25,133500,F,Y,L,1
+BD1 4QF,Stone Gate House,Apartment 39,Stone Street,2005-08-26,145500,F,Y,L,1
+BD1 4QF,Stone Gate House,Apartment 4,Stone Street,2005-02-18,140000,F,Y,L,1
+BD1 4QF,Stone Gate House,Apartment 40,Stone Street,2005-04-08,133500,F,Y,L,1
+BD1 4QF,Stone Gate House,Apartment 41,Stone Street,2005-04-13,143000,F,Y,L,1
+BD1 4QF,Stone Gate House,Apartment 42,Stone Street,2005-05-19,100100,F,Y,L,1
+BD1 4QF,Stone Gate House,Apartment 43,Stone Street,2005-05-20,162500,F,Y,L,1
+BD1 4QF,Stone Gate House,Apartment 45,Stone Street,2005-04-29,138000,F,Y,L,1
+BD1 4QF,Stone Gate House,Apartment 46,Stone Street,2005-05-06,138000,F,Y,L,1
+BD1 4QF,Stone Gate House,Apartment 47,Stone Street,2005-07-29,143500,F,Y,L,1
+BD1 4QF,Stone Gate House,Apartment 49,Stone Street,2005-04-28,137500,F,Y,L,1
+BD1 4QF,Stone Gate House,Apartment 5,Stone Street,2005-05-10,142000,F,Y,L,1
+BD1 4QF,Stone Gate House,Apartment 50,Stone Street,2005-05-06,134000,F,Y,L,1
+BD1 4QF,Stone Gate House,Apartment 51,Stone Street,2005-12-08,145400,F,Y,L,1
+BD1 4QF,Stone Gate House,Apartment 52,Stone Street,2006-07-18,135000,F,N,L,3
+BD1 4QF,Stone Gate House,Apartment 53,Stone Street,2005-04-08,157500,F,Y,L,1
+BD1 4QF,Stone Gate House,Apartment 54,Stone Street,2014-12-05,55000,F,N,L,2
+BD1 4QF,Stone Gate House,Apartment 55,Stone Street,2005-05-19,163350,F,N,L,1
+BD1 4QF,Stone Gate House,Apartment 56,Stone Street,2005-06-30,140000,F,Y,L,1
+BD1 4QF,Stone Gate House,Apartment 57,Stone Street,2005-05-06,139000,F,Y,L,1
+BD1 4QF,Stone Gate House,Apartment 58,Stone Street,2005-09-30,145000,F,Y,L,1
+BD1 4QF,Stone Gate House,Apartment 59,Stone Street,2005-04-28,143500,F,Y,L,1
+BD1 4QF,Stone Gate House,Apartment 60,Stone Street,2005-06-13,175000,F,Y,L,1
+BD1 4QF,Stone Gate House,Apartment 61,Stone Street,2005-09-27,165000,F,Y,L,1
+BD1 4QF,Stone Gate House,Apartment 62,Stone Street,2005-08-19,145000,F,Y,L,1
+BD1 4QF,Stone Gate House,Apartment 63,Stone Street,2006-04-27,165027,F,N,L,1
+BD1 4QF,Stone Gate House,Apartment 64,Stone Street,2006-03-28,177650,F,N,L,1
+BD1 4QF,Stone Gate House,Apartment 65,Stone Street,2006-11-09,199995,F,N,L,2
+BD1 4QF,Stone Gate House,Apartment 66,Stone Street,2006-06-14,169000,F,Y,L,1
+BD1 4QF,Stone Gate House,Apartment 67,Stone Street,2005-06-20,189995,F,Y,L,1
+BD1 4QF,Stone Gate House,Apartment 7,Stone Street,2005-02-25,148000,F,Y,L,1
+BD1 4QF,Stone Gate House,Apartment 8,Stone Street,2005-03-24,145000,F,Y,L,1
+BD1 4QL,7,Flat 1,Stone Street,2008-03-14,89100,F,Y,L,1
+BD1 4QL,7,Flat 10,Stone Street,2008-03-20,97200,F,Y,L,1
+BD1 4QL,7,Flat 11,Stone Street,2008-04-22,97200,F,Y,L,1
+BD1 4QL,7,Flat 12,Stone Street,2008-03-26,104305,F,Y,L,1
+BD1 4QL,7,Flat 13,Stone Street,2008-03-17,97200,F,Y,L,1
+BD1 4QL,7,Flat 14,Stone Street,2011-10-13,42000,F,Y,L,1
+BD1 4QL,7,Flat 16,Stone Street,2017-10-23,46000,F,N,L,2
+BD1 4QL,7,Flat 17,Stone Street,2008-07-11,127995,F,Y,L,1
+BD1 4QL,7,Flat 18,Stone Street,2011-10-13,40000,F,Y,L,1
+BD1 4QL,7,Flat 2,Stone Street,2008-03-19,94500,F,Y,L,1
+BD1 4QL,7,Flat 20,Stone Street,2011-10-14,40000,F,Y,L,1
+BD1 4QL,7,Flat 21,Stone Street,2011-10-13,40000,F,Y,L,1
+BD1 4QL,7,Flat 23,Stone Street,2011-10-13,40000,F,Y,L,1
+BD1 4QL,7,Flat 24,Stone Street,2011-10-19,35000,F,Y,L,2
+BD1 4QL,7,Flat 3,Stone Street,2008-03-17,94500,F,Y,L,1
+BD1 4QL,7,Flat 4,Stone Street,2008-03-17,89100,F,Y,L,1
+BD1 4QL,7,Flat 5,Stone Street,2008-05-09,97200,F,Y,L,1
+BD1 4QL,7,Flat 6,Stone Street,2018-06-22,55000,F,N,L,1
+BD1 4QL,7,Flat 7,Stone Street,2008-03-26,96300,F,Y,L,1
+BD1 4QL,7,Flat 8,Stone Street,2008-03-17,97200,F,Y,L,1
+BD1 4QL,7,Flat 9,Stone Street,2008-03-27,98100,F,Y,L,1
+BD1 4EH,17,,Stott Hill,2007-07-27,223000,D,N,F,1
+BD1 2AA,12 - 24,,Sunbridge Road,2004-05-21,335000,D,N,L,1
+BD1 2AA,18 - 20,,Sunbridge Road,2004-10-18,154000,S,N,L,1
+BD1 2AA,34 - 36,,Sunbridge Road,2007-10-19,180000,F,N,L,3
+BD1 2AA,"Twosixthirty, 32",Flat 1,Sunbridge Road,2007-10-01,99408,F,N,L,1
+BD1 2AA,"Twosixthirty, 32",Flat 11,Sunbridge Road,2007-10-01,87933,F,Y,L,1
+BD1 2AA,"Twosixthirty, 32",Flat 12,Sunbridge Road,2007-10-11,87083,F,Y,L,1
+BD1 2AA,"Twosixthirty, 32",Flat 13,Sunbridge Road,2007-09-27,89208,F,Y,L,1
+BD1 2AA,"Twosixthirty, 32",Flat 14,Sunbridge Road,2007-09-27,87933,F,N,L,1
+BD1 2AA,"Twosixthirty, 32",Flat 2,Sunbridge Road,2007-09-28,92608,F,Y,L,1
+BD1 2AA,"Twosixthirty, 32",Flat 3,Sunbridge Road,2007-09-27,88358,F,Y,L,1
+BD1 2AA,"Twosixthirty, 32",Flat 4,Sunbridge Road,2007-10-03,88658,F,Y,L,1
+BD1 2AA,"Twosixthirty, 32",Flat 5,Sunbridge Road,2007-10-10,86658,F,Y,L,1
+BD1 2AA,"Twosixthirty, 32",Flat 6,Sunbridge Road,2007-09-27,87508,F,Y,L,1
+BD1 2AA,"Twosixthirty, 32",Flat 7,Sunbridge Road,2007-09-27,100257,F,Y,L,1
+BD1 2AA,"Twosixthirty, 32",Flat 8,Sunbridge Road,2007-09-27,93033,F,Y,L,1
+BD1 2AA,"Twosixthirty, 32",Flat 9,Sunbridge Road,2015-06-22,57500,F,N,L,2
+BD1 2AQ,"Tordoffs Buildings, 84",Flat 10,Sunbridge Road,2013-05-17,54950,F,N,L,2
+BD1 2AQ,"Tordoffs Buildings, 84",Flat 11,Sunbridge Road,2013-03-14,60000,F,N,L,2
+BD1 2AQ,"Tordoffs Buildings, 84",Flat 13,Sunbridge Road,2006-09-21,111825,F,Y,L,1
+BD1 2AQ,"Tordoffs Buildings, 84",Flat 14,Sunbridge Road,2006-08-21,120575,F,Y,L,1
+BD1 2AQ,"Tordoffs Buildings, 84",Flat 17,Sunbridge Road,2006-09-27,92575,F,Y,L,1
+BD1 2AQ,"Tordoffs Buildings, 84",Flat 5,Sunbridge Road,2007-07-04,85700,F,N,L,1
+BD1 2AQ,"Tordoffs Buildings, 84",Flat 6,Sunbridge Road,2006-10-16,71925,F,Y,L,1
+BD1 2AT,"Sunbridge House, 132",Apartment 10,Sunbridge Road,2015-02-20,39000,F,N,L,1
+BD1 2AT,"Sunbridge House, 132",Apartment 11,Sunbridge Road,2015-02-20,39000,F,N,L,1
+BD1 2AT,"Sunbridge House, 132",Apartment 12,Sunbridge Road,2015-02-20,39000,F,N,L,1
+BD1 2AT,"Sunbridge House, 132",Apartment 13,Sunbridge Road,2015-02-20,39000,F,N,L,1
+BD1 2AT,"Sunbridge House, 132",Apartment 14,Sunbridge Road,2015-02-20,39000,F,N,L,1
+BD1 2AT,"Sunbridge House, 132",Apartment 17,Sunbridge Road,2015-03-13,39000,F,N,L,1
+BD1 2AT,"Sunbridge House, 132",Apartment 18,Sunbridge Road,2014-10-28,39000,F,Y,L,1
+BD1 2AT,"Sunbridge House, 132",Apartment 19,Sunbridge Road,2015-01-30,44000,F,Y,L,1
+BD1 2AT,"Sunbridge House, 132",Apartment 20,Sunbridge Road,2014-11-13,39000,F,Y,L,1
+BD1 2AT,"Sunbridge House, 132",Apartment 21,Sunbridge Road,2014-11-13,39000,F,Y,L,1
+BD1 2AT,"Sunbridge House, 132",Apartment 22,Sunbridge Road,2014-11-17,44000,F,Y,L,1
+BD1 2AT,"Sunbridge House, 132",Apartment 23,Sunbridge Road,2014-10-09,42000,F,Y,L,1
+BD1 2AT,"Sunbridge House, 132",Apartment 24,Sunbridge Road,2015-04-20,37000,F,N,L,1
+BD1 2AT,"Sunbridge House, 132",Apartment 25,Sunbridge Road,2014-11-20,44000,F,Y,L,1
+BD1 2AT,"Sunbridge House, 132",Apartment 26,Sunbridge Road,2015-03-02,39000,F,N,L,1
+BD1 2AT,"Sunbridge House, 132",Apartment 27,Sunbridge Road,2014-10-09,44000,F,Y,L,1
+BD1 2AT,"Sunbridge House, 132",Apartment 28,Sunbridge Road,2014-10-28,44000,F,Y,L,1
+BD1 2AT,"Sunbridge House, 132",Apartment 29,Sunbridge Road,2014-11-25,44000,F,Y,L,1
+BD1 2AT,"Sunbridge House, 132",Apartment 30,Sunbridge Road,2015-01-30,44000,F,Y,L,1
+BD1 2AT,"Sunbridge House, 132",Apartment 31,Sunbridge Road,2015-01-30,37000,F,N,L,1
+BD1 2AT,"Sunbridge House, 132",Apartment 32,Sunbridge Road,2014-10-31,39000,F,Y,L,1
+BD1 2AT,"Sunbridge House, 132",Apartment 34,Sunbridge Road,2015-02-20,37000,F,N,L,1
+BD1 2AT,"Sunbridge House, 132",Apartment 35,Sunbridge Road,2014-11-13,39000,F,Y,L,1
+BD1 2AT,"Sunbridge House, 132",Apartment 36,Sunbridge Road,2014-11-25,44000,F,Y,L,1
+BD1 2AT,"Sunbridge House, 132",Apartment 37,Sunbridge Road,2014-10-10,44000,F,Y,L,1
+BD1 2AT,"Sunbridge House, 132",Apartment 38,Sunbridge Road,2014-11-17,44000,F,Y,L,1
+BD1 2AT,"Sunbridge House, 132",Apartment 42,Sunbridge Road,2015-08-13,37000,F,N,L,1
+BD1 2AT,"Sunbridge House, 132",Apartment 43,Sunbridge Road,2015-03-31,37000,F,N,L,1
+BD1 2AT,"Sunbridge House, 132",Apartment 44,Sunbridge Road,2015-02-20,39000,F,N,L,1
+BD1 2AT,"Sunbridge House, 132",Apartment 45,Sunbridge Road,2014-11-14,44000,F,Y,L,1
+BD1 2AT,"Sunbridge House, 132",Apartment 46,Sunbridge Road,2014-11-13,44000,F,Y,L,1
+BD1 2AT,"Sunbridge House, 132",Apartment 47,Sunbridge Road,2014-11-05,44000,F,Y,L,1
+BD1 2AT,"Sunbridge House, 132",Apartment 48,Sunbridge Road,2014-10-09,44000,F,Y,L,1
+BD1 2AT,"Sunbridge House, 132",Apartment 49,Sunbridge Road,2014-10-09,44000,F,Y,L,1
+BD1 2AT,"Sunbridge House, 132",Apartment 5,Sunbridge Road,2015-02-11,39000,F,N,L,1
+BD1 2AT,"Sunbridge House, 132",Apartment 53,Sunbridge Road,2015-04-21,39000,F,N,L,1
+BD1 2AT,"Sunbridge House, 132",Apartment 54,Sunbridge Road,2015-05-05,39000,F,N,L,1
+BD1 2AT,"Sunbridge House, 132",Apartment 55,Sunbridge Road,2015-06-09,44000,F,N,L,2
+BD1 2AT,"Sunbridge House, 132",Apartment 56,Sunbridge Road,2014-10-16,44000,F,Y,L,1
+BD1 2AT,"Sunbridge House, 132",Apartment 57,Sunbridge Road,2014-11-19,44000,F,Y,L,1
+BD1 2AT,"Sunbridge House, 132",Apartment 58,Sunbridge Road,2014-10-09,42500,F,Y,L,1
+BD1 2AT,"Sunbridge House, 132",Apartment 59,Sunbridge Road,2014-10-10,42500,F,Y,L,1
+BD1 2AT,"Sunbridge House, 132",Apartment 6,Sunbridge Road,2015-02-11,39000,F,N,L,1
+BD1 2AT,"Sunbridge House, 132",Apartment 60,Sunbridge Road,2014-10-31,39000,F,Y,L,1
+BD1 2AT,"Sunbridge House, 132",Apartment 62,Sunbridge Road,2015-03-31,39000,F,N,L,1
+BD1 2AT,"Sunbridge House, 132",Apartment 63,Sunbridge Road,2014-10-09,44000,F,Y,L,1
+BD1 2AT,"Sunbridge House, 132",Apartment 64,Sunbridge Road,2015-02-06,38250,F,N,L,1
+BD1 2AT,"Sunbridge House, 132",Apartment 65,Sunbridge Road,2014-10-09,44000,F,Y,L,1
+BD1 2AT,"Sunbridge House, 132",Apartment 66,Sunbridge Road,2014-10-09,44000,F,Y,L,1
+BD1 2AT,"Sunbridge House, 132",Apartment 67,Sunbridge Road,2015-01-30,39000,F,N,L,1
+BD1 2AY,41,,Sunbridge Road,2007-03-22,515000,S,N,F,3
+BD1 2AY,"The Empress, 27",Apartment 1,Sunbridge Road,2007-06-25,165000,F,Y,L,1
+BD1 2AY,"The Empress, 27",Apartment 10,Sunbridge Road,2007-06-25,123000,F,N,L,1
+BD1 2AY,"The Empress, 27",Apartment 11,Sunbridge Road,2017-11-03,55000,F,N,L,2
+BD1 2AY,"The Empress, 27",Apartment 12,Sunbridge Road,2007-08-13,153000,F,Y,L,1
+BD1 2AY,"The Empress, 27",Apartment 12A,Sunbridge Road,2007-06-25,172000,F,N,L,1
+BD1 2AY,"The Empress, 27",Apartment 14,Sunbridge Road,2009-01-02,143000,F,N,L,2
+BD1 2AY,"The Empress, 27",Apartment 15,Sunbridge Road,2007-07-04,172000,F,Y,L,1
+BD1 2AY,"The Empress, 27",Apartment 16,Sunbridge Road,2007-06-28,174000,F,Y,L,1
+BD1 2AY,"The Empress, 27",Apartment 17,Sunbridge Road,2007-06-25,127000,F,Y,L,1
+BD1 2AY,"The Empress, 27",Apartment 18,Sunbridge Road,2007-06-25,129000,F,N,L,1
+BD1 2AY,"The Empress, 27",Apartment 19,Sunbridge Road,2007-06-25,157000,F,N,L,1
+BD1 2AY,"The Empress, 27",Apartment 2,Sunbridge Road,2007-06-29,167000,F,N,L,1
+BD1 2AY,"The Empress, 27",Apartment 20,Sunbridge Road,2007-06-25,176000,F,Y,L,1
+BD1 2AY,"The Empress, 27",Apartment 21,Sunbridge Road,2007-06-26,165000,F,Y,L,1
+BD1 2AY,"The Empress, 27",Apartment 22,Sunbridge Road,2007-06-25,167000,F,Y,L,1
+BD1 2AY,"The Empress, 27",Apartment 23,Sunbridge Road,2007-06-25,177000,F,N,L,1
+BD1 2AY,"The Empress, 27",Apartment 24,Sunbridge Road,2007-06-25,130000,F,Y,L,1
+BD1 2AY,"The Empress, 27",Apartment 26,Sunbridge Road,2007-06-26,160000,F,Y,L,1
+BD1 2AY,"The Empress, 27",Apartment 27,Sunbridge Road,2020-07-13,60000,F,N,L,2
+BD1 2AY,"The Empress, 27",Apartment 28,Sunbridge Road,2007-06-27,139400,F,N,L,1
+BD1 2AY,"The Empress, 27",Apartment 3,Sunbridge Road,2007-06-25,120000,F,N,L,1
+BD1 2AY,"The Empress, 27",Apartment 31,Sunbridge Road,2017-12-11,67000,F,N,L,1
+BD1 2AY,"The Empress, 27",Apartment 32,Sunbridge Road,2019-03-31,63500,F,N,L,1
+BD1 2AY,"The Empress, 27",Apartment 33,Sunbridge Road,2017-05-09,69500,F,N,L,1
+BD1 2AY,"The Empress, 27",Apartment 34,Sunbridge Road,2016-09-23,88500,F,N,L,1
+BD1 2AY,"The Empress, 27",Apartment 35,Sunbridge Road,2016-06-30,76000,F,N,L,1
+BD1 2AY,"The Empress, 27",Apartment 36,Sunbridge Road,2016-05-19,87500,F,N,L,1
+BD1 2AY,"The Empress, 27",Apartment 38,Sunbridge Road,2007-11-19,205950,F,Y,L,1
+BD1 2AY,"The Empress, 27",Apartment 39,Sunbridge Road,2016-09-22,60000,F,N,L,1
+BD1 2AY,"The Empress, 27",Apartment 4,Sunbridge Road,2007-06-25,122000,F,Y,L,1
+BD1 2AY,"The Empress, 27",Apartment 40,Sunbridge Road,2016-09-30,79950,F,N,L,1
+BD1 2AY,"The Empress, 27",Apartment 5,Sunbridge Road,2007-07-25,150000,F,N,L,1
+BD1 2AY,"The Empress, 27",Apartment 6,Sunbridge Road,2007-06-25,169000,F,Y,L,1
+BD1 2AY,"The Empress, 27",Apartment 7,Sunbridge Road,2007-06-25,160000,F,Y,L,1
+BD1 2AY,"The Empress, 27",Apartment 8,Sunbridge Road,2007-06-25,168000,F,Y,L,1
+BD1 2AY,"The Empress, 27",Apartment 9,Sunbridge Road,2007-06-25,170000,F,Y,L,1
+BD1 2BD,"Colonnade House, 201",Flat 512,Sunbridge Road,2020-05-14,96500,F,N,L,1
+BD1 2BD,"Colonnade House, 201",Flat 516,Sunbridge Road,2014-03-07,39995,F,N,L,1
+BD1 2BD,"Colonnade House, 201",Flat 524,Sunbridge Road,2020-09-24,50000,F,N,L,1
+BD1 2BD,"Colonnade House, 201",Flat 602,Sunbridge Road,2020-10-15,50000,F,N,L,1
+BD1 2BD,"Colonnade House, 201",Flat 603,Sunbridge Road,2020-07-31,50000,F,N,L,1
+BD1 2BD,"Colonnade House, 201",Flat 604,Sunbridge Road,2020-12-18,47500,F,N,L,1
+BD1 2BD,"Colonnade House, 201",Flat 606,Sunbridge Road,2020-08-14,50000,F,N,L,1
+BD1 2BD,"Colonnade House, 201",Flat 608,Sunbridge Road,2020-10-06,50000,F,N,L,1
+BD1 2BD,"Colonnade House, 201",Flat 609,Sunbridge Road,2020-01-07,50000,F,N,L,1
+BD1 2BD,"Colonnade House, 201",Flat 612,Sunbridge Road,2020-07-10,50000,F,N,L,1
+BD1 2BE,"Colonnade House, 201",Flat 707,Sunbridge Road,2020-04-22,50000,F,N,L,1
+BD1 2BE,"Colonnade House, 201",Flat 710,Sunbridge Road,2020-08-20,50000,F,N,L,1
+BD1 2BE,"Colonnade House, 201",Flat 711,Sunbridge Road,2020-08-20,50000,F,N,L,1
+BD1 2BE,"Colonnade House, 201",Flat 712,Sunbridge Road,2020-07-23,50000,F,N,L,1
+BD1 2BE,"Colonnade House, 201",Flat 714,Sunbridge Road,2020-02-14,50000,F,N,L,1
+BD1 2BE,"Colonnade House, 201",Flat 715,Sunbridge Road,2020-08-28,50000,F,N,L,1
+BD1 2BE,"Colonnade House, 201",Flat 716,Sunbridge Road,2020-08-28,50000,F,N,L,1
+BD1 2BE,"Colonnade House, 201",Flat 803,Sunbridge Road,2020-03-06,50000,F,N,L,1
+BD1 2BE,"Colonnade House, 201",Flat 809,Sunbridge Road,2019-12-23,50000,F,N,L,1
+BD1 2BE,"Colonnade House, 201",Flat 813,Sunbridge Road,2020-01-13,55000,F,N,L,1
+BD1 2BE,"Colonnade House, 201",Flat 817,Sunbridge Road,2014-02-26,39995,F,N,L,1
+BD1 2BE,"Colonnade House, 201",Flat 818,Sunbridge Road,2020-07-28,50000,F,N,L,1
+BD1 2BE,"Colonnade House, 201",Flat 821,Sunbridge Road,2020-05-01,49000,F,N,L,1
+BD1 2BE,"Colonnade House, 201",Flat 822,Sunbridge Road,2020-05-01,49000,F,N,L,1
+BD1 2BE,"Colonnade House, 201",Flat 823,Sunbridge Road,2014-05-16,40000,F,N,L,1
+BD1 2BE,"Colonnade House, 201",Flat 824,Sunbridge Road,2020-01-13,50000,F,N,L,1
+BD1 2BE,"Colonnade House, 201",Flat 901,Sunbridge Road,2020-09-03,49500,F,N,L,2
+BD1 2BE,"Colonnade House, 201",Flat 902,Sunbridge Road,2012-10-31,27500,F,N,L,1
+BD1 2BE,"Colonnade House, 201",Flat 903,Sunbridge Road,2012-10-31,27500,F,N,L,1
+BD1 2BE,"Colonnade House, 201",Flat 908,Sunbridge Road,2018-11-27,10000,F,N,L,1
+BD1 2BE,"Colonnade House, 201",Flat 911,Sunbridge Road,2020-03-16,49000,F,Y,L,1
+BD1 2BE,"Colonnade House, 201",Flat 916,Sunbridge Road,2020-09-25,50000,F,N,L,1
+BD1 2BE,"Colonnade House, 201",Flat 918,Sunbridge Road,2020-03-20,50000,F,N,L,1
+BD1 2BE,"Colonnade House, 201",Flat 921,Sunbridge Road,2020-01-10,50000,F,N,L,1
+BD1 2BE,"Colonnade House, 201",Flat 923,Sunbridge Road,2020-01-13,50000,F,N,L,1
+BD1 2BE,"Colonnade House, 201",Flat 924,Sunbridge Road,2019-12-12,48000,F,N,L,1
+BD1 2BQ,"Colonnade House, 201",Flat 201,Sunbridge Road,2014-06-13,40000,F,N,L,1
+BD1 2BQ,"Colonnade House, 201",Flat 203,Sunbridge Road,2014-06-13,40000,F,N,L,1
+BD1 2BQ,"Colonnade House, 201",Flat 218,Sunbridge Road,2014-05-09,40000,F,N,L,1
+BD1 2BQ,"Colonnade House, 201",Flat 318,Sunbridge Road,2014-10-23,40000,F,N,L,1
+BD1 2HA,144,,Sunbridge Road,2005-05-12,250000,D,N,F,1
+BD1 2HA,146,,Sunbridge Road,2005-07-22,105000,D,N,F,1
+BD1 2HB,175,Flat 2,Sunbridge Road,2007-07-27,74950,F,Y,L,1
+BD1 2HB,175,Flat 4,Sunbridge Road,2007-06-07,77000,F,Y,L,1
+BD1 2HQ,"Campbell House, 201",Flat 1,Sunbridge Road,2020-09-04,47000,F,N,L,1
+BD1 2HQ,"Campbell House, 201",Flat 14,Sunbridge Road,2020-07-23,49000,F,N,L,1
+BD1 2HQ,"Campbell House, 201",Flat 17,Sunbridge Road,2020-06-26,49000,F,Y,L,1
+BD1 2HQ,"Campbell House, 201",Flat 18,Sunbridge Road,2020-07-24,49000,F,N,L,1
+BD1 2HQ,"Campbell House, 201",Flat 2,Sunbridge Road,2020-09-01,48500,F,N,L,1
+BD1 2HQ,"Campbell House, 201",Flat 23,Sunbridge Road,2020-06-17,49000,F,Y,L,1
+BD1 2HQ,"Campbell House, 201",Flat 26,Sunbridge Road,2020-06-17,49000,F,Y,L,1
+BD1 2HQ,"Campbell House, 201",Flat 29,Sunbridge Road,2020-06-17,49000,F,Y,L,1
+BD1 2HQ,"Campbell House, 201",Flat 3,Sunbridge Road,2020-09-01,48500,F,N,L,1
+BD1 2HQ,"Campbell House, 201",Flat 30,Sunbridge Road,2020-06-17,49000,F,Y,L,1
+BD1 2HQ,"Campbell House, 201",Flat 31,Sunbridge Road,2020-06-17,49000,F,Y,L,1
+BD1 2HQ,"Campbell House, 201",Flat 34,Sunbridge Road,2020-06-17,49000,F,Y,L,1
+BD1 2HQ,"Campbell House, 201",Flat 37,Sunbridge Road,2020-06-26,49000,F,Y,L,1
+BD1 2HQ,"Campbell House, 201",Flat 4,Sunbridge Road,2020-12-11,49000,F,N,L,1
+BD1 2HQ,"Campbell House, 201",Flat 44,Sunbridge Road,2020-07-07,49000,F,Y,L,1
+BD1 2HQ,"Campbell House, 201",Flat 45,Sunbridge Road,2020-06-12,49000,F,Y,L,1
+BD1 2HQ,"Campbell House, 201",Flat 46,Sunbridge Road,2020-06-26,49000,F,Y,L,1
+BD1 2HQ,"Campbell House, 201",Flat 48,Sunbridge Road,2020-06-26,49000,F,Y,L,1
+BD1 2HQ,"Campbell House, 201",Flat 5,Sunbridge Road,2020-06-23,48000,F,N,L,1
+BD1 2HQ,"Campbell House, 201",Flat 50,Sunbridge Road,2020-06-17,49000,F,Y,L,1
+BD1 2HQ,"Campbell House, 201",Flat 51,Sunbridge Road,2020-06-17,49000,F,Y,L,1
+BD1 2HQ,"Campbell House, 201",Flat 52,Sunbridge Road,2020-06-17,49000,F,Y,L,1
+BD1 2HQ,"Colonnade House, 201",Flat 21 Room 713,Sunbridge Road,2020-02-14,50000,F,N,L,1
+BD1 2HQ,"Colonnade House, 201",Room 702,Sunbridge Road,2020-07-30,50000,F,N,L,1
+BD1 2HQ,"Colonnade House, 201",Room 703,Sunbridge Road,2020-05-01,50000,F,N,L,1
+BD1 2HQ,"Colonnade House, 201",Room 718,Sunbridge Road,2020-04-27,50000,F,N,L,1
+BD1 2LQ,618 Colonnade,,Sunbridge Road,2014-01-31,39995,F,N,L,1
+BD1 2LQ,Campbell House,Apartment 27,Sunbridge Road,2020-06-17,49000,F,Y,L,1
+BD1 2LQ,Campbell House,Apartment 32,Sunbridge Road,2020-06-17,49000,F,Y,L,1
+BD1 2LQ,Campbell House,Apartment 33,Sunbridge Road,2020-06-17,49000,F,Y,L,1
+BD1 2LQ,Campbell House,Apartment 36,Sunbridge Road,2020-06-26,49000,F,Y,L,1
+BD1 2LQ,Campbell House,Apartment 38,Sunbridge Road,2020-07-01,49000,F,Y,L,1
+BD1 2LQ,Campbell House,Apartment 41,Sunbridge Road,2020-06-26,49000,F,Y,L,1
+BD1 2LQ,Campbell House,Apartment 42,Sunbridge Road,2020-06-26,49000,F,Y,L,1
+BD1 2LQ,Campbell House,Apartment 47,Sunbridge Road,2020-06-26,49000,F,Y,L,1
+BD1 2LQ,Campbell House,Apartment 49,Sunbridge Road,2020-06-26,49000,F,Y,L,1
+BD1 2LQ,"Campbell House, 201",Apartment 11,Sunbridge Road,2020-09-22,49000,F,N,L,1
+BD1 2LQ,"Campbell House, 201",Apartment 16,Sunbridge Road,2020-10-27,49000,F,N,L,1
+BD1 2LQ,"Campbell House, 201",Apartment 6,Sunbridge Road,2020-06-23,48000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 207,Sunbridge Road,2014-07-25,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 209,Sunbridge Road,2014-05-16,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 211,Sunbridge Road,2014-07-07,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 215,Sunbridge Road,2014-04-04,39995,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 216,Sunbridge Road,2014-04-04,39995,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 217,Sunbridge Road,2014-05-16,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 219,Sunbridge Road,2014-07-11,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 221,Sunbridge Road,2014-09-11,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 222,Sunbridge Road,2014-07-07,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 223,Sunbridge Road,2014-07-11,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 224,Sunbridge Road,2014-06-24,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 302,Sunbridge Road,2014-07-11,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 303,Sunbridge Road,2014-07-07,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 304,Sunbridge Road,2014-07-07,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 307,Sunbridge Road,2014-10-30,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 308,Sunbridge Road,2015-08-20,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 309,Sunbridge Road,2014-06-20,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 310,Sunbridge Road,2014-06-06,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 311,Sunbridge Road,2014-06-27,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 312,Sunbridge Road,2014-06-20,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 313,Sunbridge Road,2014-06-27,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 316,Sunbridge Road,2014-04-04,39995,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 317,Sunbridge Road,2014-05-16,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 320,Sunbridge Road,2014-06-20,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 321,Sunbridge Road,2014-06-27,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 324,Sunbridge Road,2014-10-14,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 401,Sunbridge Road,2014-06-06,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 402,Sunbridge Road,2014-06-06,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 403,Sunbridge Road,2014-05-30,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 404,Sunbridge Road,2014-05-30,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 405,Sunbridge Road,2014-05-30,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 406,Sunbridge Road,2014-05-09,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 407,Sunbridge Road,2014-05-16,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 408,Sunbridge Road,2014-07-07,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 409,Sunbridge Road,2014-08-01,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 410,Sunbridge Road,2014-06-06,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 411,Sunbridge Road,2014-07-11,39995,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 412,Sunbridge Road,2014-05-30,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 413,Sunbridge Road,2014-06-11,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 414,Sunbridge Road,2014-10-14,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 415,Sunbridge Road,2014-05-09,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 416,Sunbridge Road,2014-06-11,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 418,Sunbridge Road,2014-06-11,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 421,Sunbridge Road,2014-05-16,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 422,Sunbridge Road,2014-05-16,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 501,Sunbridge Road,2014-04-25,39995,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 502,Sunbridge Road,2014-04-25,39995,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 503,Sunbridge Road,2014-06-11,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 504,Sunbridge Road,2014-04-11,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 505,Sunbridge Road,2014-04-11,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 507,Sunbridge Road,2014-04-11,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 508,Sunbridge Road,2014-04-11,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 509,Sunbridge Road,2014-06-20,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 510,Sunbridge Road,2014-05-09,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 511,Sunbridge Road,2014-06-11,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 512,Sunbridge Road,2014-07-07,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 513,Sunbridge Road,2014-07-11,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 515,Sunbridge Road,2014-06-07,39995,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 517,Sunbridge Road,2014-05-16,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 518,Sunbridge Road,2014-03-14,39995,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 519,Sunbridge Road,2014-03-21,39995,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 522,Sunbridge Road,2014-05-16,39995,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 523,Sunbridge Road,2014-04-04,39995,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 601,Sunbridge Road,2014-04-25,39995,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 602,Sunbridge Road,2014-05-09,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 603,Sunbridge Road,2014-05-09,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 604,Sunbridge Road,2014-05-22,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 605,Sunbridge Road,2014-04-25,39995,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 606,Sunbridge Road,2014-05-30,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 607,Sunbridge Road,2014-04-25,39995,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 608,Sunbridge Road,2014-07-11,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 609,Sunbridge Road,2014-05-02,39995,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 610,Sunbridge Road,2014-06-20,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 611,Sunbridge Road,2014-05-09,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 612,Sunbridge Road,2014-05-16,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 613,Sunbridge Road,2014-05-09,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 617,Sunbridge Road,2014-04-17,39995,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 623,Sunbridge Road,2014-04-25,39995,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 624,Sunbridge Road,2014-04-30,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 703,Sunbridge Road,2014-06-20,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 704,Sunbridge Road,2014-07-25,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 706,Sunbridge Road,2014-07-07,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 707,Sunbridge Road,2014-06-13,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 708,Sunbridge Road,2014-07-25,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 710,Sunbridge Road,2014-07-11,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 711,Sunbridge Road,2014-06-20,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 713,Sunbridge Road,2014-05-02,39995,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 714,Sunbridge Road,2014-06-20,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 716,Sunbridge Road,2014-02-26,40995,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 719,Sunbridge Road,2014-06-24,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 721,Sunbridge Road,2014-07-07,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 723,Sunbridge Road,2014-01-31,39995,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 801,Sunbridge Road,2014-06-20,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 802,Sunbridge Road,2014-05-16,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 803,Sunbridge Road,2014-06-24,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 804,Sunbridge Road,2014-06-06,39995,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 805,Sunbridge Road,2014-06-20,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 806,Sunbridge Road,2014-05-16,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 807,Sunbridge Road,2014-05-16,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 808,Sunbridge Road,2014-04-30,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 809,Sunbridge Road,2014-10-23,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 810,Sunbridge Road,2014-06-20,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 811,Sunbridge Road,2014-04-04,39995,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 815,Sunbridge Road,2014-03-21,39995,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 816,Sunbridge Road,2014-05-16,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 820,Sunbridge Road,2012-11-07,28950,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 904,Sunbridge Road,2014-06-20,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 905,Sunbridge Road,2014-07-07,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 906,Sunbridge Road,2014-06-20,40000,F,N,L,1
+BD1 2LQ,Colonnade,Apartment 907,Sunbridge Road,2014-07-07,40000,F,N,L,1
+BD1 2LQ,"Colonnade, 115",,Sunbridge Road,2014-09-30,40000,F,N,L,1
+BD1 2LQ,"Colonnade, 119",,Sunbridge Road,2014-09-30,40000,F,N,L,1
+BD1 2LQ,"Colonnade, 120",,Sunbridge Road,2014-09-30,40000,F,N,L,1
+BD1 2LQ,"Colonnade, 148",,Sunbridge Road,2014-07-15,40000,F,N,L,1
+BD1 2LQ,"Colonnade, 150",,Sunbridge Road,2014-07-15,40000,F,N,L,1
+BD1 2LQ,"Colonnade, 151",,Sunbridge Road,2014-07-15,40000,F,Y,L,1
+BD1 2LQ,"Colonnade, 152",,Sunbridge Road,2014-07-15,40000,F,N,L,1
+BD1 2LQ,"Colonnade, 163",,Sunbridge Road,2014-07-15,40000,F,N,L,1
+BD1 2NB,Colonial Building 135-139,Apartment 10,Sunbridge Road,2006-02-03,119000,F,Y,L,1
+BD1 2NB,Colonial Building 135-139,Apartment 11,Sunbridge Road,2005-10-14,101379,F,Y,L,1
+BD1 2NB,Colonial Building 135-139,Apartment 12,Sunbridge Road,2014-04-11,50000,F,N,L,2
+BD1 2NB,Colonial Building 135-139,Apartment 14,Sunbridge Road,2015-05-27,56500,F,N,L,3
+BD1 2NB,Colonial Building 135-139,Apartment 15,Sunbridge Road,2005-06-10,78500,F,Y,L,1
+BD1 2NB,Colonial Building 135-139,Apartment 16,Sunbridge Road,2017-08-23,72500,F,N,L,3
+BD1 2NB,Colonial Building 135-139,Apartment 17,Sunbridge Road,2012-11-12,40000,F,N,L,2
+BD1 2NB,Colonial Building 135-139,Apartment 2,Sunbridge Road,2006-02-10,125000,F,Y,L,1
+BD1 2NB,Colonial Building 135-139,Apartment 21,Sunbridge Road,2005-07-06,90985,F,Y,L,1
+BD1 2NB,Colonial Building 135-139,Apartment 22,Sunbridge Road,2017-04-03,45000,F,N,L,2
+BD1 2NB,Colonial Building 135-139,Apartment 23,Sunbridge Road,2005-07-05,91000,F,Y,L,1
+BD1 2NB,Colonial Building 135-139,Apartment 24,Sunbridge Road,2005-05-24,81000,F,N,L,1
+BD1 2NB,Colonial Building 135-139,Apartment 27,Sunbridge Road,2016-01-15,32500,F,N,L,2
+BD1 2NB,Colonial Building 135-139,Apartment 28,Sunbridge Road,2005-07-05,79680,F,N,L,1
+BD1 2NB,Colonial Building 135-139,Apartment 29,Sunbridge Road,2005-05-25,94484,F,N,L,1
+BD1 2NB,Colonial Building 135-139,Apartment 3,Sunbridge Road,2005-08-03,119145,F,Y,L,1
+BD1 2NB,Colonial Building 135-139,Apartment 30,Sunbridge Road,2012-11-12,40000,F,N,L,2
+BD1 2NB,Colonial Building 135-139,Apartment 31,Sunbridge Road,2015-08-07,62500,F,N,L,2
+BD1 2NB,Colonial Building 135-139,Apartment 32,Sunbridge Road,2015-04-24,55000,F,N,L,1
+BD1 2NB,Colonial Building 135-139,Apartment 33,Sunbridge Road,2005-05-25,88954,F,N,L,1
+BD1 2NB,Colonial Building 135-139,Apartment 34,Sunbridge Road,2005-08-31,94000,F,Y,L,1
+BD1 2NB,Colonial Building 135-139,Apartment 36,Sunbridge Road,2020-03-30,42000,F,N,L,2
+BD1 2NB,Colonial Building 135-139,Apartment 37,Sunbridge Road,2005-05-10,83200,F,Y,L,1
+BD1 2NB,Colonial Building 135-139,Apartment 38,Sunbridge Road,2005-05-12,94000,F,Y,L,1
+BD1 2NB,Colonial Building 135-139,Apartment 4,Sunbridge Road,2006-02-02,119100,F,Y,L,1
+BD1 2NB,Colonial Building 135-139,Apartment 41,Sunbridge Road,2005-05-12,90000,F,Y,L,1
+BD1 2NB,Colonial Building 135-139,Apartment 43,Sunbridge Road,2014-03-28,53000,F,N,L,3
+BD1 2NB,Colonial Building 135-139,Apartment 46,Sunbridge Road,2005-05-06,90180,F,Y,L,1
+BD1 2NB,Colonial Building 135-139,Apartment 48,Sunbridge Road,2005-05-17,94021,F,Y,L,1
+BD1 2NB,Colonial Building 135-139,Apartment 51,Sunbridge Road,2005-05-06,86170,F,Y,L,1
+BD1 2NB,Colonial Building 135-139,Apartment 52,Sunbridge Road,2020-01-17,39999,F,N,L,1
+BD1 2NB,Colonial Building 135-139,Apartment 53,Sunbridge Road,2005-05-05,98000,F,N,L,1
+BD1 2NB,Colonial Building 135-139,Apartment 59,Sunbridge Road,2017-07-19,50000,F,N,L,3
+BD1 2NB,Colonial Building 135-139,Apartment 6,Sunbridge Road,2006-02-02,125000,F,Y,L,1
+BD1 2NB,Colonial Building 135-139,Apartment 60,Sunbridge Road,2015-02-16,65000,F,N,L,2
+BD1 2NB,Colonial Building 135-139,Apartment 61,Sunbridge Road,2005-11-24,167280,F,N,L,1
+BD1 2NB,Colonial Building 135-139,Apartment 62,Sunbridge Road,2005-11-16,160450,F,Y,L,1
+BD1 2NB,Colonial Building 135-139,Apartment 63,Sunbridge Road,2010-01-20,60000,F,N,L,3
+BD1 2NB,Colonial Building 135-139,Apartment 64,Sunbridge Road,2005-12-07,160650,F,Y,L,1
+BD1 2NB,Colonial Building 135-139,Apartment 65,Sunbridge Road,2006-01-23,164550,F,Y,L,1
+BD1 2NB,Colonial Building 135-139,Apartment 66,Sunbridge Road,2005-12-20,156750,F,N,L,1
+BD1 2NB,Colonial Building 135-139,Apartment 67,Sunbridge Road,2007-01-26,120000,F,N,L,1
+BD1 2NB,Colonial Building 135-139,Apartment 68,Sunbridge Road,2017-01-20,74000,F,N,L,2
+BD1 2NB,Colonial Building 135-139,Apartment 69,Sunbridge Road,2016-08-12,70000,F,N,L,2
+BD1 2NB,Colonial Building 135-139,Apartment 7,Sunbridge Road,2005-09-23,119100,F,Y,L,1
+BD1 2NB,Colonial Building 135-139,Apartment 70,Sunbridge Road,2016-11-03,67000,F,N,L,2
+BD1 2NB,Colonial Building 135-139,Apartment 71,Sunbridge Road,2005-12-09,166950,F,Y,L,1
+BD1 2NB,Colonial Building 135-139,Apartment 72,Sunbridge Road,2005-11-23,156250,F,Y,L,1
+BD1 2NB,Colonial Building 135-139,Apartment 73,Sunbridge Road,2005-11-24,149950,F,Y,L,1
+BD1 2NB,Colonial Building 135-139,Apartment 74,Sunbridge Road,2006-09-01,199995,F,Y,L,1
+BD1 2NB,Colonial Building 135-139,Apartment 8,Sunbridge Road,2005-09-20,119145,F,Y,L,1
+BD1 2ND,122,,Sunbridge Road,2005-04-28,220000,D,N,F,1
+BD1 2PF,134,Flat 1,Sunbridge Road,2016-09-01,38995,F,Y,L,1
+BD1 2PF,134,Flat 10,Sunbridge Road,2016-09-05,38995,F,Y,L,1
+BD1 2PF,134,Flat 11,Sunbridge Road,2016-08-31,39995,F,Y,L,1
+BD1 2PF,134,Flat 12,Sunbridge Road,2016-08-30,39995,F,Y,L,1
+BD1 2PF,134,Flat 13,Sunbridge Road,2016-08-30,54995,F,Y,L,1
+BD1 2PF,134,Flat 14,Sunbridge Road,2016-09-16,49995,F,Y,L,1
+BD1 2PF,134,Flat 15,Sunbridge Road,2016-09-01,38995,F,Y,L,1
+BD1 2PF,134,Flat 16,Sunbridge Road,2016-08-30,39995,F,Y,L,1
+BD1 2PF,134,Flat 17,Sunbridge Road,2016-10-31,49995,F,Y,L,1
+BD1 2PF,134,Flat 18,Sunbridge Road,2016-08-30,39995,F,Y,L,1
+BD1 2PF,134,Flat 19,Sunbridge Road,2016-08-31,39995,F,Y,L,1
+BD1 2PF,134,Flat 2,Sunbridge Road,2016-09-01,39995,F,Y,L,1
+BD1 2PF,134,Flat 20,Sunbridge Road,2016-08-30,39995,F,Y,L,1
+BD1 2PF,134,Flat 21,Sunbridge Road,2016-08-30,39995,F,Y,L,1
+BD1 2PF,134,Flat 23,Sunbridge Road,2016-09-01,39995,F,Y,L,1
+BD1 2PF,134,Flat 26,Sunbridge Road,2016-08-04,39995,F,Y,L,1
+BD1 2PF,134,Flat 28,Sunbridge Road,2016-08-04,49995,F,Y,L,1
+BD1 2PF,134,Flat 29,Sunbridge Road,2016-08-04,39995,F,Y,L,1
+BD1 2PF,134,Flat 3,Sunbridge Road,2016-09-01,38995,F,Y,L,1
+BD1 2PF,134,Flat 30,Sunbridge Road,2016-08-05,38995,F,Y,L,1
+BD1 2PF,134,Flat 32,Sunbridge Road,2016-08-04,39995,F,Y,L,1
+BD1 2PF,134,Flat 33,Sunbridge Road,2016-08-08,39995,F,Y,L,1
+BD1 2PF,134,Flat 34,Sunbridge Road,2016-08-04,39995,F,Y,L,1
+BD1 2PF,134,Flat 35,Sunbridge Road,2016-08-04,39995,F,Y,L,1
+BD1 2PF,134,Flat 36,Sunbridge Road,2016-08-04,39995,F,Y,L,1
+BD1 2PF,134,Flat 37,Sunbridge Road,2016-08-04,39995,F,Y,L,1
+BD1 2PF,134,Flat 38,Sunbridge Road,2016-10-31,54995,F,Y,L,1
+BD1 2PF,134,Flat 40,Sunbridge Road,2016-08-03,39995,F,Y,L,1
+BD1 2PF,134,Flat 41,Sunbridge Road,2016-08-03,49995,F,Y,L,1
+BD1 2PF,134,Flat 43,Sunbridge Road,2016-08-03,39995,F,Y,L,1
+BD1 2PF,134,Flat 44,Sunbridge Road,2016-08-03,39995,F,Y,L,1
+BD1 2PF,134,Flat 45,Sunbridge Road,2016-08-03,54995,F,Y,L,1
+BD1 2PF,134,Flat 46,Sunbridge Road,2016-08-03,39995,F,Y,L,1
+BD1 2PF,134,Flat 47,Sunbridge Road,2016-08-03,39995,F,Y,L,1
+BD1 2PF,134,Flat 48,Sunbridge Road,2016-08-03,39995,F,Y,L,1
+BD1 2PF,134,Flat 49,Sunbridge Road,2016-08-11,39995,F,Y,L,1
+BD1 2PF,134,Flat 5,Sunbridge Road,2016-09-01,38995,F,Y,L,1
+BD1 2PF,134,Flat 50,Sunbridge Road,2016-08-11,39995,F,Y,L,1
+BD1 2PF,134,Flat 51,Sunbridge Road,2016-08-03,39995,F,Y,L,1
+BD1 2PF,134,Flat 52,Sunbridge Road,2016-08-03,54995,F,Y,L,1
+BD1 2PF,134,Flat 53,Sunbridge Road,2016-08-04,54995,F,Y,L,1
+BD1 2PF,134,Flat 54,Sunbridge Road,2016-08-19,39995,F,Y,L,1
+BD1 2PF,134,Flat 55,Sunbridge Road,2016-10-28,54995,F,Y,L,1
+BD1 2PF,134,Flat 56,Sunbridge Road,2016-09-07,53000,F,Y,L,1
+BD1 2PF,134,Flat 57,Sunbridge Road,2016-08-03,39995,F,Y,L,1
+BD1 2PF,134,Flat 58,Sunbridge Road,2016-08-03,39995,F,Y,L,1
+BD1 2PF,134,Flat 6,Sunbridge Road,2016-09-07,39995,F,Y,L,1
+BD1 2PF,134,Flat 60,Sunbridge Road,2016-08-18,39995,F,Y,L,1
+BD1 2PF,134,Flat 61,Sunbridge Road,2016-08-03,39995,F,Y,L,1
+BD1 2PF,134,Flat 63,Sunbridge Road,2016-08-03,39995,F,Y,L,1
+BD1 2PF,134,Flat 64,Sunbridge Road,2016-08-03,39995,F,Y,L,1
+BD1 2PF,134,Flat 65,Sunbridge Road,2016-08-03,39995,F,Y,L,1
+BD1 2PF,134,Flat 66,Sunbridge Road,2016-08-03,54995,F,Y,L,1
+BD1 2PF,134,Flat 7,Sunbridge Road,2016-08-31,39995,F,Y,L,1
+BD1 2PF,134,Flat 8,Sunbridge Road,2016-09-05,39995,F,Y,L,1
+BD1 2PF,134,Flat 9,Sunbridge Road,2016-09-29,39995,F,Y,L,1
+BD1 2PF,"Airedale House, 130",Flat 1,Sunbridge Road,2016-05-04,66750,F,Y,L,1
+BD1 2PF,"Airedale House, 130",Flat 10,Sunbridge Road,2016-03-30,69750,F,Y,L,1
+BD1 2PF,"Airedale House, 130",Flat 11,Sunbridge Road,2016-03-29,68500,F,Y,L,1
+BD1 2PF,"Airedale House, 130",Flat 12,Sunbridge Road,2017-04-03,72500,F,N,L,1
+BD1 2PF,"Airedale House, 130",Flat 13,Sunbridge Road,2016-03-30,73750,F,Y,L,1
+BD1 2PF,"Airedale House, 130",Flat 15,Sunbridge Road,2016-03-31,74500,F,Y,L,1
+BD1 2PF,"Airedale House, 130",Flat 16,Sunbridge Road,2016-03-29,70250,F,Y,L,1
+BD1 2PF,"Airedale House, 130",Flat 17,Sunbridge Road,2016-03-31,73750,F,Y,L,1
+BD1 2PF,"Airedale House, 130",Flat 18,Sunbridge Road,2016-06-15,69500,F,Y,L,1
+BD1 2PF,"Airedale House, 130",Flat 19,Sunbridge Road,2016-03-31,69500,F,Y,L,1
+BD1 2PF,"Airedale House, 130",Flat 2,Sunbridge Road,2018-09-14,86000,F,N,L,1
+BD1 2PF,"Airedale House, 130",Flat 20,Sunbridge Road,2016-03-31,75000,F,Y,L,1
+BD1 2PF,"Airedale House, 130",Flat 21,Sunbridge Road,2016-03-31,75000,F,Y,L,1
+BD1 2PF,"Airedale House, 130",Flat 22,Sunbridge Road,2016-06-10,66500,F,Y,L,1
+BD1 2PF,"Airedale House, 130",Flat 23,Sunbridge Road,2016-03-29,69500,F,Y,L,1
+BD1 2PF,"Airedale House, 130",Flat 24,Sunbridge Road,2016-09-30,73750,F,Y,L,1
+BD1 2PF,"Airedale House, 130",Flat 25,Sunbridge Road,2016-03-29,71750,F,Y,L,1
+BD1 2PF,"Airedale House, 130",Flat 27,Sunbridge Road,2016-03-31,75000,F,Y,L,1
+BD1 2PF,"Airedale House, 130",Flat 28,Sunbridge Road,2016-03-31,70250,F,Y,L,1
+BD1 2PF,"Airedale House, 130",Flat 29,Sunbridge Road,2016-04-22,69500,F,Y,L,1
+BD1 2PF,"Airedale House, 130",Flat 3,Sunbridge Road,2016-03-31,106250,F,Y,L,1
+BD1 2PF,"Airedale House, 130",Flat 30,Sunbridge Road,2016-03-31,70500,F,Y,L,1
+BD1 2PF,"Airedale House, 130",Flat 31,Sunbridge Road,2016-03-31,72750,F,Y,L,1
+BD1 2PF,"Airedale House, 130",Flat 33,Sunbridge Road,2016-03-30,75500,F,Y,L,1
+BD1 2PF,"Airedale House, 130",Flat 34,Sunbridge Road,2016-03-29,66000,F,Y,L,1
+BD1 2PF,"Airedale House, 130",Flat 36,Sunbridge Road,2016-03-29,71500,F,Y,L,1
+BD1 2PF,"Airedale House, 130",Flat 39,Sunbridge Road,2016-03-30,76000,F,Y,L,1
+BD1 2PF,"Airedale House, 130",Flat 4,Sunbridge Road,2016-11-04,66500,F,Y,L,1
+BD1 2PF,"Airedale House, 130",Flat 5,Sunbridge Road,2016-03-29,68500,F,Y,L,1
+BD1 2PF,"Airedale House, 130",Flat 6,Sunbridge Road,2016-03-29,68500,F,Y,L,1
+BD1 2PF,"Airedale House, 130",Flat 7,Sunbridge Road,2016-04-27,72750,F,Y,L,1
+BD1 2PF,"Flat 62, 134",,Sunbridge Road,2016-08-03,39995,F,Y,L,1
+BD1 2PH,134,Room 4,Sunbridge Road,2018-09-14,60000,F,N,L,1
+BD1 2PH,136,Room 24,Sunbridge Road,2017-01-05,53000,F,Y,L,1
+BD1 2PH,136,Room 27,Sunbridge Road,2016-12-20,50000,F,Y,L,1
+BD1 2RT,Colonnade,Apartment 108,Sunbridge Road,2014-06-13,40000,F,N,L,1
+BD1 2RT,Colonnade,Apartment 110,Sunbridge Road,2014-06-06,40000,F,N,L,1
+BD1 2RT,Colonnade,Apartment 226,Sunbridge Road,2014-06-06,40000,F,N,L,1
+BD1 2RT,Colonnade,Apartment 228,Sunbridge Road,2014-08-01,40000,F,N,L,1
+BD1 2RT,Colonnade,Apartment 230,Sunbridge Road,2014-08-22,40000,F,N,L,1
+BD1 2RT,Colonnade,Apartment 231,Sunbridge Road,2014-07-07,40000,F,N,L,1
+BD1 2RT,Colonnade,Apartment 232,Sunbridge Road,2014-06-06,40000,F,N,L,1
+BD1 2RT,Colonnade,Apartment 233,Sunbridge Road,2014-04-30,39995,F,N,L,1
+BD1 2RT,Colonnade,Apartment 326,Sunbridge Road,2014-06-06,40000,F,N,L,1
+BD1 2RT,Colonnade,Apartment 328,Sunbridge Road,2014-06-06,40000,F,N,L,1
+BD1 2RT,Colonnade,Apartment 329,Sunbridge Road,2014-06-06,39995,F,N,L,1
+BD1 2RT,Colonnade,Apartment 330,Sunbridge Road,2014-05-02,40000,F,N,L,1
+BD1 2RT,Colonnade,Apartment 331,Sunbridge Road,2014-04-30,39995,F,N,L,1
+BD1 2RT,Colonnade,Apartment 332,Sunbridge Road,2014-05-22,40000,F,N,L,1
+BD1 2RT,Colonnade,Apartment 333,Sunbridge Road,2014-05-09,40000,F,N,L,1
+BD1 2SX,126,,Sunbridge Road,2008-05-30,475000,D,N,F,2
+BD1 3BU,19,,Sylhet Close,2010-05-17,91000,T,Y,F,1
+BD1 2DX,108,Flat 1,Thornton Road,2011-09-28,68000,F,Y,L,1
+BD1 2DX,108,Flat 10,Thornton Road,2019-03-27,72000,F,N,L,2
+BD1 2DX,108,Flat 11,Thornton Road,2011-09-30,64800,F,Y,L,1
+BD1 2DX,108,Flat 12,Thornton Road,2011-09-30,70200,F,Y,L,1
+BD1 2DX,108,Flat 14,Thornton Road,2011-09-29,66600,F,Y,L,1
+BD1 2DX,108,Flat 15,Thornton Road,2011-09-23,70200,F,Y,L,1
+BD1 2DX,108,Flat 16,Thornton Road,2011-09-28,68400,F,Y,L,1
+BD1 2DX,108,Flat 17,Thornton Road,2011-09-30,70200,F,Y,L,1
+BD1 2DX,108,Flat 18,Thornton Road,2011-09-28,64800,F,Y,L,1
+BD1 2DX,108,Flat 19,Thornton Road,2011-09-23,70200,F,Y,L,1
+BD1 2DX,108,Flat 2,Thornton Road,2011-09-30,71250,F,Y,L,1
+BD1 2DX,108,Flat 20,Thornton Road,2011-09-30,84000,F,Y,L,1
+BD1 2DX,108,Flat 21,Thornton Road,2012-02-22,99000,F,Y,L,1
+BD1 2DX,108,Flat 22,Thornton Road,2019-03-27,75000,F,N,L,3
+BD1 2DX,108,Flat 23,Thornton Road,2011-09-30,70200,F,Y,L,1
+BD1 2DX,108,Flat 24,Thornton Road,2018-01-05,68000,F,N,L,2
+BD1 2DX,108,Flat 25,Thornton Road,2011-10-20,71200,F,Y,L,1
+BD1 2DX,108,Flat 26,Thornton Road,2011-09-30,68400,F,Y,L,1
+BD1 2DX,108,Flat 27,Thornton Road,2011-09-30,70200,F,Y,L,1
+BD1 2DX,108,Flat 28,Thornton Road,2011-09-30,64800,F,Y,L,1
+BD1 2DX,108,Flat 29,Thornton Road,2011-10-14,64800,F,Y,L,1
+BD1 2DX,108,Flat 3,Thornton Road,2011-10-26,70000,F,Y,L,1
+BD1 2DX,108,Flat 4,Thornton Road,2011-10-11,71250,F,Y,L,1
+BD1 2DX,108,Flat 5,Thornton Road,2011-09-23,67000,F,Y,L,1
+BD1 2DX,108,Flat 6,Thornton Road,2011-09-28,71250,F,Y,L,1
+BD1 2DX,108,Flat 7,Thornton Road,2011-09-30,66600,F,Y,L,1
+BD1 2DX,108,Flat 8,Thornton Road,2011-09-30,70200,F,Y,L,1
+BD1 2DX,108,Flat 9,Thornton Road,2012-01-27,68400,F,Y,L,1
+BD1 2DX,142,,Thornton Road,2004-10-08,40000,T,N,F,1
+BD1 2JD,171,,Thornton Road,1999-06-02,17500,T,N,F,1
+BD1 2JD,173,,Thornton Road,1996-11-22,28500,T,N,F,1
+BD1 2JD,183,,Thornton Road,2004-02-26,340000,D,N,F,1
+BD1 2JH,150,,Thornton Road,2007-08-17,230000,D,N,F,1
+BD1 2LB,254,,Thornton Road,2004-09-06,123500,T,N,F,1
+BD1 2NS,Platinum 0Ne,Flat 17,Thornton Road,2016-01-19,75200,F,Y,L,1
+BD1 2NS,Platinum 0Ne,Flat 20,Thornton Road,2016-01-29,50200,F,Y,L,1
+BD1 2NS,Platinum 0Ne,Flat 24,Thornton Road,2016-02-18,50200,F,Y,L,1
+BD1 2NS,Platinum 0Ne,Flat 26,Thornton Road,2016-04-11,52000,F,Y,L,1
+BD1 2NS,Platinum 0Ne,Flat 27,Thornton Road,2016-04-11,58000,F,Y,L,1
+BD1 2NS,Platinum 0Ne,Flat 63,Thornton Road,2016-02-16,56700,F,Y,L,1
+BD1 2NS,Platinum 0Ne,Flat 64,Thornton Road,2016-03-03,59200,F,Y,L,1
+BD1 2NS,Platinum 0Ne,Flat 65,Thornton Road,2016-04-18,59500,F,Y,L,1
+BD1 2NS,Platinum 0Ne,Flat 66,Thornton Road,2015-12-23,124900,F,Y,L,1
+BD1 2NS,Platinum 0Ne,Flat 69,Thornton Road,2016-01-29,93000,F,Y,L,1
+BD1 2NS,Platinum 0Ne,Flat 71,Thornton Road,2016-04-18,75200,F,Y,L,1
+BD1 2NS,Platinum 0Ne,Flat 72,Thornton Road,2015-12-23,53200,F,Y,L,1
+BD1 2NS,Platinum 0Ne,Flat 74,Thornton Road,2015-12-23,53200,F,Y,L,1
+BD1 2NS,Platinum 0Ne,Flat 75,Thornton Road,2016-04-14,53200,F,Y,L,1
+BD1 2NS,Platinum 0Ne,Flat 76,Thornton Road,2016-04-26,53200,F,Y,L,1
+BD1 2NS,Platinum 0Ne,Flat 81,Thornton Road,2015-12-23,59200,F,Y,L,1
+BD1 2NS,Platinum 0Ne,Flat 86,Thornton Road,2016-01-06,56200,F,Y,L,1
+BD1 2NS,Platinum 0Ne,Flat 87,Thornton Road,2016-01-13,56200,F,Y,L,1
+BD1 2NS,Platinum 0Ne,Flat 9,Thornton Road,2016-01-19,50200,F,Y,L,1
+BD1 3BZ,16,,Thurnscoe Road,2008-01-17,93000,T,N,F,3
+BD1 3BZ,22,,Thurnscoe Road,1997-09-12,45000,T,N,F,1
+BD1 3BZ,24,,Thurnscoe Road,1997-09-23,29000,T,N,F,1
+BD1 3BZ,26,,Thurnscoe Road,2003-11-07,65000,T,N,F,1
+BD1 3BZ,28,,Thurnscoe Road,2015-01-30,86000,T,N,F,1
+BD1 3BZ,49,,Thurnscoe Road,1995-08-31,38000,T,N,F,1
+BD1 3BZ,53,,Thurnscoe Road,2005-01-21,45000,T,N,F,2
+BD1 3BZ,54,,Thurnscoe Road,2016-02-22,75000,T,N,F,1
+BD1 3BZ,6,,Thurnscoe Road,2003-01-10,46000,T,N,F,2
+BD1 3BZ,60,,Thurnscoe Road,1997-08-28,43000,T,N,F,1
+BD1 3BZ,62,,Thurnscoe Road,2010-07-14,90000,T,N,F,1
+BD1 3BZ,67,,Thurnscoe Road,2003-05-20,42500,T,N,F,1
+BD1 3BZ,70,,Thurnscoe Road,2010-07-23,90000,T,N,F,2
+BD1 3BZ,72,,Thurnscoe Road,2012-12-27,100000,T,N,F,1
+BD1 1RU,29,,Tyrrel Street,1998-06-16,187500,S,N,F,1
+BD1 1SX,5,Apartment 10,Upper Millergate,2012-11-16,49000,F,Y,L,1
+BD1 1SX,5,Apartment 11,Upper Millergate,2012-11-16,59500,F,Y,L,1
+BD1 1SX,5,Apartment 12,Upper Millergate,2012-11-16,52500,F,Y,L,1
+BD1 1SX,5,Apartment 2,Upper Millergate,2012-11-16,59500,F,Y,L,1
+BD1 1SX,5,Apartment 3,Upper Millergate,2012-11-16,52500,F,Y,L,1
+BD1 1SX,5,Apartment 5,Upper Millergate,2012-11-16,49000,F,Y,L,1
+BD1 1SX,5,Apartment 6,Upper Millergate,2012-11-16,51000,F,Y,L,1
+BD1 1SX,5,Apartment 7,Upper Millergate,2012-11-16,52500,F,Y,L,1
+BD1 1SX,5,Apartment 8,Upper Millergate,2012-11-16,52500,F,Y,L,1
+BD1 1SX,5,Apartment 9,Upper Millergate,2012-11-16,59500,F,Y,L,1
+BD1 1SX,"Georges House, 5",Apartment 1,Upper Millergate,2012-11-16,45000,F,N,L,1
+BD1 1SX,"Georges House, 5",Apartment 5,Upper Millergate,2015-07-14,28000,F,N,L,1
+BD1 1SX,"Sunbridge Wells, 11",Flat 2,Upper Millergate,2018-10-30,46500,F,N,L,1
+BD1 1SX,"Sunbridge Wells, 11",Flat 3,Upper Millergate,2018-04-20,69950,F,N,L,1
+BD1 5DW,Treadwells Mill,Flat 10,Upper Park Gate,2004-09-21,78000,F,N,L,1
+BD1 5DW,Treadwells Mill,Flat 11,Upper Park Gate,2004-03-25,68343,F,N,L,1
+BD1 5DW,Treadwells Mill,Flat 13,Upper Park Gate,2015-03-30,57500,F,N,L,1
+BD1 5DW,Treadwells Mill,Flat 14,Upper Park Gate,2004-03-12,71250,F,Y,L,1
+BD1 5DW,Treadwells Mill,Flat 15,Upper Park Gate,2004-03-24,68970,F,Y,L,1
+BD1 5DW,Treadwells Mill,Flat 16,Upper Park Gate,2016-06-30,72500,F,N,L,2
+BD1 5DW,Treadwells Mill,Flat 17,Upper Park Gate,2004-03-12,78660,F,Y,L,1
+BD1 5DW,Treadwells Mill,Flat 18,Upper Park Gate,2004-03-12,68400,F,Y,L,1
+BD1 5DW,Treadwells Mill,Flat 19,Upper Park Gate,2020-07-31,45000,F,N,L,2
+BD1 5DW,Treadwells Mill,Flat 20,Upper Park Gate,2004-03-12,68400,F,Y,L,1
+BD1 5DW,Treadwells Mill,Flat 21,Upper Park Gate,2006-05-05,96000,F,N,L,2
+BD1 5DW,Treadwells Mill,Flat 22,Upper Park Gate,2004-03-12,91200,F,Y,L,1
+BD1 5DW,Treadwells Mill,Flat 23,Upper Park Gate,2006-06-23,107500,F,N,L,2
+BD1 5DW,Treadwells Mill,Flat 25,Upper Park Gate,2004-03-10,99750,F,Y,L,1
+BD1 5DW,Treadwells Mill,Flat 26,Upper Park Gate,2004-03-12,94050,F,Y,L,1
+BD1 5DW,Treadwells Mill,Flat 27,Upper Park Gate,2016-03-29,69995,F,N,L,2
+BD1 5DW,Treadwells Mill,Flat 28,Upper Park Gate,2004-03-12,78660,F,N,L,1
+BD1 5DW,Treadwells Mill,Flat 29,Upper Park Gate,2006-10-13,92500,F,N,L,2
+BD1 5DW,Treadwells Mill,Flat 3,Upper Park Gate,2007-12-12,125000,F,N,L,2
+BD1 5DW,Treadwells Mill,Flat 31,Upper Park Gate,2004-03-12,71250,F,Y,L,1
+BD1 5DW,Treadwells Mill,Flat 4,Upper Park Gate,2007-09-28,90000,F,N,L,2
+BD1 5DW,Treadwells Mill,Flat 5,Upper Park Gate,2004-03-12,68400,F,N,L,1
+BD1 5DW,Treadwells Mill,Flat 6,Upper Park Gate,2006-07-21,85000,F,N,L,2
+BD1 5DW,Treadwells Mill,Flat 7,Upper Park Gate,2004-03-12,102600,F,Y,L,1
+BD1 5DW,Treadwells Mill,Flat 9,Upper Park Gate,2004-03-12,68000,F,N,L,1
+BD1 3PD,York House,1,Upper Piccadilly,2017-07-14,85000,F,Y,L,1
+BD1 3PD,York House,10,Upper Piccadilly,2017-11-03,75000,F,Y,L,1
+BD1 3PD,York House,11,Upper Piccadilly,2017-10-13,75000,F,Y,L,1
+BD1 3PD,York House,12,Upper Piccadilly,2017-07-14,75000,F,Y,L,1
+BD1 3PD,York House,18,Upper Piccadilly,2017-10-13,75000,F,Y,L,1
+BD1 3PD,York House,19,Upper Piccadilly,2017-10-13,75000,F,Y,L,1
+BD1 3PD,York House,2,Upper Piccadilly,2017-07-26,75000,F,Y,L,1
+BD1 3PD,York House,22,Upper Piccadilly,2017-11-13,75000,F,Y,L,1
+BD1 3PD,York House,3,Upper Piccadilly,2017-07-21,75000,F,Y,L,1
+BD1 3PD,York House,7,Upper Piccadilly,2017-07-21,75000,F,Y,L,1
+BD1 3PD,York House,8,Upper Piccadilly,2017-10-13,75000,F,Y,L,1
+BD1 4AA,"Valley Point, 4",,Valley Road,2004-11-12,220000,S,N,F,1
+BD1 4RP,Midland Mills Block A,Second Floor Apartment,Valley Road,2016-03-30,59000,F,Y,L,1
+BD1 4RP,Midland Mills Block A,Third Floor Apartment 1,Valley Road,2016-03-30,55000,F,Y,L,1
+BD1 4RP,Midland Mills Block A,Third Floor Apartment 5,Valley Road,2016-03-30,66000,F,Y,L,1
+BD1 4RP,Midland Mills Block B,First Floor Apartment 1,Valley Road,2015-10-13,76650,F,Y,L,1
+BD1 4RP,Midland Mills Block B,First Floor Apartment 10,Valley Road,2015-11-17,70000,F,Y,L,1
+BD1 4RP,Midland Mills Block B,First Floor Apartment 11,Valley Road,2016-03-30,61950,F,Y,L,1
+BD1 4RP,Midland Mills Block B,First Floor Apartment 2,Valley Road,2015-10-13,84000,F,Y,L,1
+BD1 4RP,Midland Mills Block B,First Floor Apartment 3,Valley Road,2015-10-13,84000,F,Y,L,1
+BD1 4RP,Midland Mills Block B,First Floor Apartment 6,Valley Road,2015-12-02,84000,F,Y,L,1
+BD1 4RP,Midland Mills Block B,First Floor Apartment 7,Valley Road,2015-10-26,84000,F,Y,L,1
+BD1 4RP,Midland Mills Block B,Second Floor Apartment 2,Valley Road,2015-10-16,85050,F,Y,L,1
+BD1 4RP,Midland Mills Block B,Second Floor Apartment 3,Valley Road,2016-03-30,84000,F,Y,L,1
+BD1 4RP,Midland Mills Block B,Second Floor Apartment 5,Valley Road,2016-01-05,64050,F,Y,L,1
+BD1 4RP,Midland Mills Block B,Second Floor Apartment 7,Valley Road,2016-03-31,85050,F,Y,L,1
+BD1 4RP,Midland Mills Block B,Third Floor Apartment 1,Valley Road,2016-03-31,76650,F,Y,L,1
+BD1 4RP,Midland Mills Block B,Third Floor Apartment 2,Valley Road,2015-11-04,86100,F,Y,L,1
+BD1 4RP,Midland Mills Block B,Third Floor Apartment 3,Valley Road,2015-10-26,86100,F,Y,L,1
+BD1 4RP,Midland Mills Block C,Fourth Floor Apartment 4,Valley Road,2015-11-25,86000,F,Y,L,1
+BD1 4RP,Midland Mills Block C,Second Floor Apartment 3,Valley Road,2015-10-30,87591,F,Y,L,1
+BD1 4RP,Midland Mills Block C,Second Floor Apartment 4,Valley Road,2015-10-20,68250,F,Y,L,1
+BD1 4RP,Midland Mills Block C,Second Floor Apartment 5,Valley Road,2015-10-15,68250,F,Y,L,1
+BD1 4RP,Midland Mills Block C,Third Floor Apartment 6,Valley Road,2015-11-25,72450,F,Y,L,1
+BD1 4RP,Second Floor Apartment 4,,Valley Road,2015-12-02,85050,F,Y,L,1
+BD1 2LL,"Victoria House, 1",Flat 1,Vaughan Street,2015-06-19,57750,F,Y,L,1
+BD1 2LL,"Victoria House, 1",Flat 12,Vaughan Street,2015-07-15,52000,F,Y,L,1
+BD1 2LL,"Victoria House, 1",Flat 13,Vaughan Street,2017-10-11,55000,F,Y,L,1
+BD1 2LL,"Victoria House, 1",Flat 15,Vaughan Street,2015-08-21,52500,F,Y,L,1
+BD1 2LL,"Victoria House, 1",Flat 17,Vaughan Street,2015-05-13,52500,F,Y,L,1
+BD1 2LL,"Victoria House, 1",Flat 18,Vaughan Street,2015-08-05,54600,F,N,L,1
+BD1 2LL,"Victoria House, 1",Flat 19,Vaughan Street,2015-07-15,54600,F,Y,L,1
+BD1 2LL,"Victoria House, 1",Flat 2,Vaughan Street,2017-09-20,57500,F,Y,L,1
+BD1 2LL,"Victoria House, 1",Flat 24,Vaughan Street,2014-11-21,54600,F,Y,L,1
+BD1 2LL,"Victoria House, 1",Flat 26,Vaughan Street,2015-08-05,60000,F,N,L,1
+BD1 2LL,"Victoria House, 1",Flat 27,Vaughan Street,2015-01-30,52500,F,Y,L,1
+BD1 2LL,"Victoria House, 1",Flat 29,Vaughan Street,2015-05-13,52500,F,Y,L,1
+BD1 2LL,"Victoria House, 1",Flat 3,Vaughan Street,2017-10-11,57500,F,Y,L,1
+BD1 2LL,"Victoria House, 1",Flat 30,Vaughan Street,2015-03-25,42000,F,Y,L,1
+BD1 2LL,"Victoria House, 1",Flat 31,Vaughan Street,2015-06-12,42000,F,Y,L,1
+BD1 2LL,"Victoria House, 1",Flat 32,Vaughan Street,2015-07-08,42000,F,Y,L,1
+BD1 2LL,"Victoria House, 1",Flat 34,Vaughan Street,2015-04-13,52500,F,Y,L,1
+BD1 2LL,"Victoria House, 1",Flat 35,Vaughan Street,2014-11-17,54600,F,Y,L,1
+BD1 2LL,"Victoria House, 1",Flat 38,Vaughan Street,2014-11-17,52000,F,Y,L,1
+BD1 2LL,"Victoria House, 1",Flat 39,Vaughan Street,2015-01-16,52000,F,Y,L,1
+BD1 2LL,"Victoria House, 1",Flat 4,Vaughan Street,2015-08-05,56700,F,Y,L,1
+BD1 2LL,"Victoria House, 1",Flat 41,Vaughan Street,2015-01-16,60000,F,Y,L,1
+BD1 2LL,"Victoria House, 1",Flat 42,Vaughan Street,2014-11-03,57750,F,Y,L,1
+BD1 2LL,"Victoria House, 1",Flat 44,Vaughan Street,2014-11-17,54600,F,Y,L,1
+BD1 2LL,"Victoria House, 1",Flat 45,Vaughan Street,2015-01-16,52000,F,Y,L,1
+BD1 2LL,"Victoria House, 1",Flat 46,Vaughan Street,2015-03-25,56700,F,Y,L,1
+BD1 2LL,"Victoria House, 1",Flat 48,Vaughan Street,2015-02-18,52500,F,Y,L,1
+BD1 2LL,"Victoria House, 1",Flat 49,Vaughan Street,2015-01-16,54600,F,Y,L,1
+BD1 2LL,"Victoria House, 1",Flat 51,Vaughan Street,2015-06-05,42000,F,Y,L,1
+BD1 2LL,"Victoria House, 1",Flat 52,Vaughan Street,2015-06-12,42000,F,Y,L,1
+BD1 2LL,"Victoria House, 1",Flat 53,Vaughan Street,2015-05-13,42000,F,Y,L,1
+BD1 2LL,"Victoria House, 1",Flat 54,Vaughan Street,2015-07-15,52500,F,Y,L,1
+BD1 2LL,"Victoria House, 1",Flat 55,Vaughan Street,2017-07-28,52500,F,Y,L,1
+BD1 2LL,"Victoria House, 1",Flat 57,Vaughan Street,2014-11-20,52500,F,Y,L,1
+BD1 2LL,"Victoria House, 1",Flat 58,Vaughan Street,2014-11-20,52500,F,Y,L,1
+BD1 2LL,"Victoria House, 1",Flat 59,Vaughan Street,2014-11-17,52000,F,Y,L,1
+BD1 2LL,"Victoria House, 1",Flat 8,Vaughan Street,2015-04-17,52500,F,Y,L,1
+BD1 2LL,"Victoria House, 1",Flat 9,Vaughan Street,2015-04-13,42000,F,Y,L,1
+BD1 5BN,63,Flat 10,Vicar Lane,2018-10-26,79995,F,Y,L,1
+BD1 5BN,63,Flat 11,Vicar Lane,2018-12-14,55000,F,Y,L,1
+BD1 5BN,63,Flat 12,Vicar Lane,2019-01-15,55000,F,Y,L,1
+BD1 5BN,63,Flat 14,Vicar Lane,2018-10-26,55000,F,Y,L,1
+BD1 5BN,63,Flat 17,Vicar Lane,2018-04-19,79995,F,Y,L,1
+BD1 5BN,63,Flat 25,Vicar Lane,2018-04-26,79995,F,Y,L,1
+BD1 5BN,63,Flat 27,Vicar Lane,2018-03-15,74995,F,Y,L,1
+BD1 5BN,63,Flat 28,Vicar Lane,2018-02-28,74995,F,Y,L,1
+BD1 5BN,63,Flat 30,Vicar Lane,2018-03-15,79995,F,Y,L,1
+BD1 5BN,63,Flat 31,Vicar Lane,2020-11-09,35000,F,N,L,2
+BD1 5BN,63,Flat 32,Vicar Lane,2018-03-12,69995,F,Y,L,1
+BD1 5BN,63,Flat 33,Vicar Lane,2018-03-20,69995,F,Y,L,1
+BD1 5BN,63,Flat 36,Vicar Lane,2018-03-20,79995,F,Y,L,1
+BD1 5BN,63,Flat 37,Vicar Lane,2018-01-02,69995,F,Y,L,1
+BD1 5BN,63,Flat 38,Vicar Lane,2018-01-02,79995,F,Y,L,1
+BD1 5BN,63,Flat 39,Vicar Lane,2018-01-02,79995,F,Y,L,1
+BD1 5BN,63,Flat 40,Vicar Lane,2018-01-02,64995,F,Y,L,1
+BD1 5BN,63,Flat 41,Vicar Lane,2018-01-02,79995,F,Y,L,1
+BD1 5BN,63,Flat 43,Vicar Lane,2017-12-21,69995,F,Y,L,1
+BD1 5BN,63,Flat 44,Vicar Lane,2018-01-03,69995,F,Y,L,1
+BD1 5BN,63,Flat 45,Vicar Lane,2018-01-02,69995,F,Y,L,1
+BD1 5BN,63,Flat 46,Vicar Lane,2018-01-23,55000,F,Y,L,1
+BD1 5BN,63,Flat 47,Vicar Lane,2018-01-02,79995,F,Y,L,1
+BD1 5BN,63,Flat 48,Vicar Lane,2017-10-30,69995,F,Y,L,1
+BD1 5BN,63,Flat 49,Vicar Lane,2017-10-24,79995,F,Y,L,1
+BD1 5BN,63,Flat 50,Vicar Lane,2017-10-24,77495,F,Y,L,1
+BD1 5BN,63,Flat 51,Vicar Lane,2017-10-24,69995,F,Y,L,1
+BD1 5BN,63,Flat 52,Vicar Lane,2017-10-24,79995,F,Y,L,1
+BD1 5BN,63,Flat 53,Vicar Lane,2017-10-24,55000,F,Y,L,1
+BD1 5BN,63,Flat 54,Vicar Lane,2017-10-24,69995,F,Y,L,1
+BD1 5BN,63,Flat 56,Vicar Lane,2017-10-30,55000,F,Y,L,1
+BD1 5BN,63,Flat 58,Vicar Lane,2017-10-24,79995,F,Y,L,1
+BD1 5BN,63,Flat 59,Vicar Lane,2018-10-23,69995,F,Y,L,1
+BD1 5BN,63,Flat 6,Vicar Lane,2018-10-30,75000,F,Y,L,1
+BD1 5BN,63,Flat 60,Vicar Lane,2018-06-05,79995,F,Y,L,1
+BD1 5BN,63,Flat 61,Vicar Lane,2018-06-05,79995,F,Y,L,1
+BD1 5BN,63,Flat 62,Vicar Lane,2018-06-05,55000,F,Y,L,1
+BD1 5BN,63,Flat 64,Vicar Lane,2018-08-03,80000,F,Y,L,1
+BD1 5BN,63,Flat 65,Vicar Lane,2018-06-26,80000,F,Y,L,1
+BD1 5BN,63,Flat 66,Vicar Lane,2018-08-02,80000,F,Y,L,1
+BD1 5BN,63,Flat 67,Vicar Lane,2018-08-02,80000,F,Y,L,1
+BD1 5BN,63,Flat 68,Vicar Lane,2018-08-02,80000,F,Y,L,1
+BD1 5BN,63,Flat 7,Vicar Lane,2018-10-26,75000,F,Y,L,1
+BD1 5BN,63,Flat 70,Vicar Lane,2018-08-02,80000,F,Y,L,1
+BD1 5BN,63,Flat 9,Vicar Lane,2018-10-31,55000,F,Y,L,1
+BD1 2PJ,4,,Vincent Street,2001-10-05,97500,D,Y,F,1
+BD1 2PJ,9,Flat 1,Vincent Street,2009-08-19,84000,F,Y,L,1
+BD1 2PJ,9,Flat 12,Vincent Street,2009-08-19,85000,F,Y,L,1
+BD1 2PJ,9,Flat 15,Vincent Street,2009-09-04,100000,F,Y,L,1
+BD1 2PJ,9,Flat 2,Vincent Street,2009-09-04,100000,F,Y,L,1
+BD1 2PJ,9,Flat 3,Vincent Street,2009-09-25,80000,F,Y,L,1
+BD1 2PJ,9,Flat 9,Vincent Street,2009-09-25,75000,F,Y,L,1
+BD1 2RD,57 - 59,,Westgate,2004-03-23,140000,T,N,F,1
+BD1 2RD,61A,,Westgate,2013-12-31,100000,T,N,F,1
+BD1 2RD,63,,Westgate,2008-09-16,125000,T,N,F,1
+BD1 2RD,65,,Westgate,2002-11-29,78000,T,N,F,1
+BD1 2RN,166,,Westgate,2010-11-04,30000,T,N,F,2
+BD1 2RN,"Lancaster, 154",,Westgate,2001-09-28,55000,T,N,F,1
+BD1 3AA,169 - 171,,Westgate,2001-11-30,126524,D,N,F,1

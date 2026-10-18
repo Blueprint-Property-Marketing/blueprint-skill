@@ -1,0 +1,242 @@
+postcode,paon,saon,street,date,price,type,new,tenure,sales
+W1D 7AS,6,Flat 1,Archer Street,1997-10-17,135000,F,N,L,1
+W1D 7AS,6,Flat 2,Archer Street,1997-03-18,121000,F,N,L,1
+W1D 7AS,6,Flat 3,Archer Street,1998-02-13,105000,F,N,L,1
+W1D 7AT,6A,,Archer Street,2002-04-23,290000,F,N,F,1
+W1D 7BB,12,Flat 1,Archer Street,2006-03-31,550000,F,Y,L,1
+W1D 7BB,12,Flat 4,Archer Street,2014-06-09,1998000,F,N,L,4
+W1D 7BB,12A,Flat B,Archer Street,2005-06-17,535000,F,N,L,1
+W1D 7BE,16,Flat 5,Archer Street,2011-10-13,750000,F,N,L,1
+W1D 3AH,16,,Bateman Street,2002-11-13,280000,T,N,F,2
+W1D 3AH,16,Basement And Ground Floors,Bateman Street,2003-05-22,100000,T,N,L,1
+W1D 3AH,16,Flat 1A,Bateman Street,1997-06-23,87500,F,Y,L,1
+W1D 3AH,16,Flat 1B,Bateman Street,1997-08-01,125000,F,Y,L,1
+W1D 3AH,16,Flat 2,Bateman Street,2001-10-12,235000,F,N,L,3
+W1D 3AH,16,Flat 3,Bateman Street,2019-09-30,480000,F,N,L,3
+W1D 3AH,16,Flat 4,Bateman Street,2017-07-07,415000,F,N,L,5
+W1D 3AH,16,Flat 5,Bateman Street,2001-07-20,179500,F,N,L,2
+W1D 3AH,16,Flat 6,Bateman Street,2013-01-30,516500,F,N,L,3
+W1D 3AL,21,,Bateman Street,1997-06-24,365000,T,N,F,1
+W1D 4HZ,12,Flat 1,Bourchier Street,2011-10-18,1255000,F,N,L,3
+W1D 4HZ,12,Flat 10,Bourchier Street,2006-12-21,775000,F,N,L,5
+W1D 4HZ,12,Flat 11,Bourchier Street,2000-02-25,325000,F,N,L,2
+W1D 4HZ,12,Flat 12,Bourchier Street,2012-08-03,1375000,F,N,L,4
+W1D 4HZ,12,Flat 12A,Bourchier Street,2007-10-12,800000,F,N,L,2
+W1D 4HZ,12,Flat 14,Bourchier Street,2009-09-16,1000000,F,N,L,4
+W1D 4HZ,12,Flat 15,Bourchier Street,1998-08-28,289100,F,Y,L,1
+W1D 4HZ,12,Flat 16,Bourchier Street,2013-06-06,4400000,F,N,L,1
+W1D 4HZ,12,Flat 17,Bourchier Street,2017-08-24,2250000,F,N,L,2
+W1D 4HZ,12,Flat 2,Bourchier Street,2002-03-15,460000,F,N,L,2
+W1D 4HZ,12,Flat 3,Bourchier Street,2006-02-14,500000,F,N,L,3
+W1D 4HZ,12,Flat 4,Bourchier Street,2015-05-29,1750000,F,N,L,3
+W1D 4HZ,12,Flat 5,Bourchier Street,2001-01-17,512250,F,N,L,2
+W1D 4HZ,12,Flat 6,Bourchier Street,1999-09-23,455000,F,N,L,2
+W1D 4HZ,12,Flat 7,Bourchier Street,2000-11-10,320000,F,N,L,3
+W1D 4HZ,12,Flat 8,Bourchier Street,1998-08-28,455000,F,N,L,1
+W1D 4HZ,12,Flat 9,Bourchier Street,2007-06-29,825000,F,N,L,2
+W1D 3BH,3,Flat 1,Carlisle Street,2012-05-18,690000,F,N,L,1
+W1D 3BH,3,Flat 2,Carlisle Street,2012-07-27,730000,F,N,L,1
+W1D 3BH,3,Flat 3,Carlisle Street,2013-05-10,725000,F,N,L,1
+W1D 3BJ,4,Flat 1,Carlisle Street,2000-09-04,187950,F,N,L,1
+W1D 7AE,21 - 22,,Coventry Street,2008-06-24,23500000,D,N,F,1
+W1D 3BE,78,Second And Third Floor Flat,Dean Street,2003-06-19,250000,F,Y,L,1
+W1D 3RY,22 - 25,Flat 1,Dean Street,2005-12-09,207500,F,N,L,1
+W1D 3RY,22 - 25,Flat 10,Dean Street,2006-02-10,325000,F,N,L,1
+W1D 3RY,22 - 25,Flat 11,Dean Street,2006-07-14,450000,F,N,L,2
+W1D 3RY,22 - 25,Flat 3,Dean Street,2001-03-07,239498,F,N,L,2
+W1D 3RY,22 - 25,Flat 4,Dean Street,2017-04-07,445000,F,N,L,3
+W1D 3RY,22 - 25,Flat 6,Dean Street,2014-10-03,450000,F,N,L,3
+W1D 3RY,22 - 25,Flat 8,Dean Street,1996-08-23,74000,F,N,L,1
+W1D 3RY,22 - 25,Flat 9,Dean Street,2014-07-10,665000,F,N,L,3
+W1D 3RY,"Townsend House, 22 - 25",Ground And Mezzanine Floor Premises,Dean Street,2004-05-11,250000,F,N,L,1
+W1D 3RY,"Townsend House, 22 - 25",The Penthouse,Dean Street,2013-03-11,2150000,F,N,L,1
+W1D 3TN,21,Apartment 1,Dean Street,2001-05-04,755000,F,N,L,2
+W1D 3TN,21,Apartment 2,Dean Street,2009-03-05,1080000,F,N,L,2
+W1D 3TN,21,Apartment 3,Dean Street,2004-05-14,912500,F,N,L,2
+W1D 3TN,21,Apartment 4,Dean Street,2007-08-23,1750000,F,N,L,3
+W1D 4PR,34 - 35,Flat 1,Dean Street,2009-09-14,1500000,F,N,L,4
+W1D 4PR,34 - 35,Flat 2,Dean Street,2005-06-30,825000,F,Y,L,1
+W1D 4PR,34 - 35,Flat 3,Dean Street,2015-04-16,2550000,F,N,L,2
+W1D 4PU,39,,Dean Street,2004-11-18,660000,T,N,F,1
+W1D 4PU,39,First Floor Flat,Dean Street,2003-11-28,285000,F,N,L,2
+W1D 4PU,39,Second Floor Flat,Dean Street,2012-10-31,560000,F,N,L,4
+W1D 4QD,46,,Dean Street,2003-06-30,2100000,T,N,F,1
+W1D 5BL,52 - 53,Flat 1,Dean Street,2006-10-02,450000,F,N,L,2
+W1D 5BL,52 - 53,Flat 2,Dean Street,2007-08-10,595000,F,N,L,3
+W1D 5BL,52 - 53,Flat 3,Dean Street,2007-05-09,530000,F,N,L,3
+W1D 5BL,52 - 53,Flat 4,Dean Street,2019-02-14,1075000,F,N,L,1
+W1D 5BL,52 - 53,Flat 5,Dean Street,2018-12-21,925000,F,N,L,1
+W1D 5BL,52 - 53,Fourth Floor Flat 4,Dean Street,1999-03-18,195000,F,N,L,1
+W1D 7HA,2,First Floor Flat,Denman Street,2001-07-04,249950,F,N,L,2
+W1D 7HA,2,Second Floor Flat,Denman Street,2017-04-28,790000,F,N,L,4
+W1D 7HA,2,Third And Fourth Floor Flat,Denman Street,2001-02-23,385000,F,N,L,2
+W1D 7HB,3,Apartment 4,Denman Street,2000-08-09,195000,F,N,L,2
+W1D 7HB,3,Ground And Basement,Denman Street,2005-09-06,192000,F,N,L,1
+W1D 3EF,St. Annes House,Flat 1,Diadem Court,1999-09-17,285000,F,N,L,2
+W1D 3EF,St. Annes House,Flat 2,Diadem Court,2005-05-13,300000,F,N,L,3
+W1D 3EF,St. Annes House,Flat 3,Diadem Court,2004-01-12,320000,F,N,L,3
+W1D 3EF,St. Annes House,Flat 4,Diadem Court,2001-05-04,262000,F,N,L,2
+W1D 4RF,15,Basement Ground And First Floors,Frith Street,2006-05-31,82500,F,N,L,1
+W1D 4RF,16A,,Frith Street,2002-08-19,400000,T,N,F,1
+W1D 4RG,17,Flat B,Frith Street,2005-03-24,380000,T,N,L,1
+W1D 4RN,21 - 21A,Apartment 1,Frith Street,2007-11-09,600000,F,N,L,1
+W1D 4RN,21A,Apartment 1,Frith Street,2007-11-09,300000,F,N,L,1
+W1D 4RN,21A,Flat 5,Frith Street,2007-10-03,385000,F,Y,L,1
+W1D 4RP,22,Fourth Floor Flat,Frith Street,2003-08-07,248300,F,N,L,2
+W1D 4RP,22,Second Floor Flat,Frith Street,2003-08-07,248300,F,N,L,1
+W1D 4SD,45,,Frith Street,2006-04-06,125000,F,N,L,1
+W1D 5LL,39,,Frith Street,1998-11-03,475000,T,N,F,2
+W1D 5LW,41,,Frith Street,2004-07-09,480000,T,N,F,1
+W1D 5QE,40,,Gerrard Street,2009-07-13,425000,F,N,L,1
+W1D 5QJ,45,Ground Floor,Gerrard Street,2003-10-30,150000,F,N,L,1
+W1D 6JJ,23,,Gerrard Street,2003-03-21,625000,T,N,L,1
+W1D 7LA,20A,Flat 1,Great Windmill Street,2009-03-20,265000,F,N,L,1
+W1D 7LA,20A,Flat 6,Great Windmill Street,2009-11-13,605000,F,N,L,1
+W1D 7LU,38,,Great Windmill Street,2002-08-30,650000,T,N,F,1
+W1D 7LY,40,,Great Windmill Street,2005-06-18,600000,F,N,L,1
+W1D 7LY,40,"First, Second And Third Floors",Great Windmill Street,2001-08-23,248000,F,N,L,2
+W1D 4DU,20,Ground To Third Floor Premises,Greek Street,2003-11-21,850000,F,N,L,1
+W1D 4DX,21,Second Floor Flat,Greek Street,2016-11-23,750000,F,N,L,1
+W1D 4DX,21,Third Floor Flat,Greek Street,2016-11-23,750000,F,N,L,1
+W1D 4EJ,52A,,Greek Street,2004-02-19,240000,F,N,F,2
+W1D 5DL,35,,Greek Street,2004-02-12,180000,F,N,L,1
+W1D 4TF,10,,Old Compton Street,2002-04-24,50000,F,N,L,1
+W1D 4TG,10A,Flat 2,Old Compton Street,2020-02-14,355000,F,N,L,1
+W1D 4TG,10A,Flat 3,Old Compton Street,2002-02-01,242500,F,N,L,2
+W1D 4TG,10A,Flat 4,Old Compton Street,2010-09-01,385000,F,N,L,3
+W1D 4TG,10A,Flat 5,Old Compton Street,2007-06-21,400000,F,N,L,1
+W1D 4TG,10A,Flat 6,Old Compton Street,2007-03-30,235000,F,N,L,2
+W1D 4TG,10A,Flat 7,Old Compton Street,2014-08-28,699995,F,N,L,3
+W1D 4TG,10A,Flat 8,Old Compton Street,2015-10-30,680000,F,N,L,2
+W1D 4TG,10A,Flat 9,Old Compton Street,2004-07-27,345000,F,N,L,2
+W1D 4TH,14,Flat 1,Old Compton Street,2005-07-29,232000,F,N,L,2
+W1D 4TH,14,Flat 2,Old Compton Street,2007-04-12,325000,F,N,L,4
+W1D 4TH,14,Flat 3,Old Compton Street,2016-03-21,465000,F,N,L,1
+W1D 4TH,14,Flat 4,Old Compton Street,2006-09-21,265000,F,N,L,1
+W1D 4TH,14,Flat 5,Old Compton Street,2004-06-30,245000,F,N,L,3
+W1D 4TH,14,Flat 6,Old Compton Street,2020-10-02,640000,F,N,L,6
+W1D 4TH,14,Flat 7,Old Compton Street,2012-12-05,440000,F,N,L,1
+W1D 4TH,14,Flat 8,Old Compton Street,2019-08-20,702500,F,N,L,3
+W1D 4TH,14A,First Floor Flat 1,Old Compton Street,2007-08-07,330000,F,N,L,2
+W1D 4TH,14A,Third Floor Flat 3,Old Compton Street,2009-08-28,330000,F,N,L,3
+W1D 4TX,42,,Old Compton Street,1998-09-29,609562,T,N,F,1
+W1D 5JR,29,,Old Compton Street,2010-10-18,1437000,T,N,F,1
+W1D 5JX,35,Flat 3,Old Compton Street,2002-11-22,185000,F,N,L,2
+W1D 5JX,35,Flat 4,Old Compton Street,2005-09-23,220000,F,N,L,1
+W1D 6HJ,47B,Flat,Old Compton Street,2020-03-13,724000,F,N,L,1
+W1D 6HJ,"Flat A, 47",,Old Compton Street,2020-09-17,950000,F,N,L,1
+W1D 6HT,63,Flat 1-3,Old Compton Street,2005-05-25,700000,T,N,F,2
+W1D 6HW,55,Flat 1,Old Compton Street,2006-06-07,240000,F,N,L,2
+W1D 6HW,55,Flat 2,Old Compton Street,1998-12-11,120000,F,N,L,1
+W1D 6HW,55,Flat 3,Old Compton Street,2011-12-09,375000,F,N,L,6
+W1D 2DT,35,,Oxford Street,2003-11-04,2450000,T,N,F,1
+W1D 2EF,51,,Oxford Street,2001-01-19,2000000,T,N,F,1
+W1D 2HQ,105 - 109,,Oxford Street,2001-08-22,125000,F,N,L,1
+W1D 2HQ,"Beaver Building, 105",Apartment B7,Oxford Street,2017-06-21,2130000,F,N,L,2
+W1D 2HZ,137,,Oxford Street,2003-07-04,2300000,T,N,F,1
+W1D 2JR,169 - 173,,Oxford Street,1999-11-02,90000,F,N,L,1
+W1D 3HF,"Richmond House, 12 - 13",Flat 1,Richmond Buildings,2017-09-22,1712500,F,N,L,1
+W1D 3HF,"Richmond House, 12 - 13",Flat 2,Richmond Buildings,2017-08-14,1550000,F,N,L,1
+W1D 3HF,"Richmond House, 12 - 13",Flat 3,Richmond Buildings,2017-10-17,925000,F,N,L,1
+W1D 3HF,"Richmond House, 12 - 13",Flat 4,Richmond Buildings,2017-08-25,1139000,F,N,L,1
+W1D 3HF,"Richmond House, 12 - 13",Flat 7,Richmond Buildings,2017-08-11,1236750,F,N,L,1
+W1D 3HF,"Richmond House, 12 - 13",Flat 8,Richmond Buildings,2017-08-07,1080000,F,N,L,1
+W1D 3HF,"Richmond House, 12 - 13",Flat 9,Richmond Buildings,2017-12-21,2680000,F,N,L,1
+W1D 3DB,5,,Richmond Mews,2010-08-09,1300000,T,N,F,2
+W1D 3DD,10,Flat 11,Richmond Mews,2004-05-28,595000,F,N,L,3
+W1D 3DD,10,Flat 12,Richmond Mews,1995-06-02,105000,F,Y,L,1
+W1D 3DD,10,Flat 13,Richmond Mews,2009-10-12,670000,F,N,L,5
+W1D 3DD,10,Flat 14,Richmond Mews,2010-04-23,935000,F,N,L,3
+W1D 3DD,10,Flat 15,Richmond Mews,2013-05-31,1150000,F,N,L,4
+W1D 3DD,10,Flat 16,Richmond Mews,2001-11-30,450000,F,N,L,4
+W1D 3DD,10,Flat 17,Richmond Mews,1995-06-09,178000,F,Y,L,1
+W1D 3DD,10,Flat 19,Richmond Mews,1998-12-01,96500,F,N,L,4
+W1D 3DD,10,Flat 21,Richmond Mews,1999-07-19,750000,F,N,L,2
+W1D 3DD,10,Flat 22,Richmond Mews,1995-06-16,150000,F,Y,L,1
+W1D 3DD,10,Flat 23,Richmond Mews,1999-06-01,270000,F,N,L,2
+W1D 3DD,10,Flat 24,Richmond Mews,1999-07-16,399950,F,N,L,4
+W1D 3DD,10,Flat 25,Richmond Mews,2006-04-13,530000,F,N,L,3
+W1D 3DD,10,Flat 26,Richmond Mews,2012-10-17,1295000,F,N,L,1
+W1D 3DD,10,Flat 28,Richmond Mews,2008-01-24,765000,F,N,L,5
+W1D 3DD,10,Flat 29,Richmond Mews,1995-04-26,124000,F,Y,L,1
+W1D 3DD,10,Flat 3,Richmond Mews,1997-06-01,850000,F,Y,L,1
+W1D 3DD,10,Flat 31,Richmond Mews,2001-09-12,500000,F,N,L,2
+W1D 3DD,10,Flat 32,Richmond Mews,1996-02-27,147500,F,Y,L,1
+W1D 3DD,10,Flat 33,Richmond Mews,1995-03-24,115000,F,Y,L,1
+W1D 3DD,10,Flat 34,Richmond Mews,1997-10-31,366000,F,N,L,2
+W1D 3DD,10,Flat 38,Richmond Mews,1995-04-12,199000,F,Y,L,1
+W1D 3DD,10,Flat 39,Richmond Mews,2007-01-15,615000,F,N,L,3
+W1D 3DD,10,Flat 41,Richmond Mews,1995-05-01,285000,F,Y,L,1
+W1D 3DD,10,Flat 42,Richmond Mews,2001-12-12,599950,F,N,L,3
+W1D 3DD,10,Flat 43,Richmond Mews,1995-04-21,310000,F,Y,L,1
+W1D 3DD,10,Flat 44,Richmond Mews,2004-09-09,587500,F,N,L,2
+W1D 3DD,10,Flat 46,Richmond Mews,1995-05-01,415000,F,Y,L,1
+W1D 3DD,"Soho Lofts, 10",Flat 25,Richmond Mews,2020-02-06,1625000,F,N,L,1
+W1D 3DD,"Soho Lofts, 10",Flat 38,Richmond Mews,2017-02-24,1250000,F,N,L,1
+W1D 5AG,22,Apartment C,Romilly Street,2013-02-04,575000,F,N,L,2
+W1D 5AN,34,Flat,Romilly Street,2008-09-29,1500000,S,N,F,1
+W1D 5AQ,23,,Romilly Street,1995-09-06,680000,T,N,F,1
+W1D 6BG,54,Flat 2,Rupert Street,1999-03-19,120000,F,N,L,1
+W1D 6DL,30,,Rupert Street,2009-01-16,150000,F,N,L,1
+W1D 7PD,47,Flat 3,Rupert Street,2016-03-31,655000,F,Y,L,1
+W1D 7PE,47,Flat 1,Rupert Street,2015-05-08,730000,F,Y,L,1
+W1D 7PE,47,Flat 2,Rupert Street,2015-04-01,787920,F,N,L,1
+W1D 7PE,47,Flat 4,Rupert Street,2015-04-01,790000,F,Y,L,1
+W1D 7PE,47,Flat 5,Rupert Street,2016-03-31,845000,F,Y,L,1
+W1D 7PE,47 - 49,Flat 5,Rupert Street,2015-12-11,475000,F,Y,L,1
+W1D 7PF,49,Flat 2,Rupert Street,2015-05-27,613870,F,Y,L,1
+W1D 7PF,49,Flat 3,Rupert Street,2015-05-27,613870,F,Y,L,1
+W1D 7PF,49,Flat 4,Rupert Street,2015-04-01,632000,F,Y,L,1
+W1D 7PG,51,Flat 2,Rupert Street,2015-04-29,788000,F,N,L,1
+W1D 7PG,51,Flat 3,Rupert Street,2015-04-01,779000,F,Y,L,1
+W1D 7PG,51,Flat 4,Rupert Street,2015-12-16,665000,F,N,L,1
+W1D 7PG,51,Flat 9,Rupert Street,2015-04-01,788000,F,Y,L,1
+W1D 7PH,53,Flat 10,Rupert Street,2015-04-01,578680,F,Y,L,1
+W1D 7PH,53,Flat 5,Rupert Street,2015-04-01,613800,F,N,L,1
+W1D 7PH,53,Flat 6,Rupert Street,2015-05-01,610000,F,Y,L,1
+W1D 7PH,53,Flat 7,Rupert Street,2017-05-31,490000,F,N,L,2
+W1D 7PN,59,Flat 1,Rupert Street,2015-04-01,758000,F,Y,L,1
+W1D 7PN,59,Flat 10,Rupert Street,2015-04-01,999999,F,Y,L,1
+W1D 7PN,59,Flat 11,Rupert Street,2015-04-01,799582,F,Y,L,1
+W1D 7PN,59,Flat 12,Rupert Street,2015-04-28,499000,F,Y,L,1
+W1D 7PN,59,Flat 14,Rupert Street,2017-03-20,870000,F,N,L,2
+W1D 7PN,59,Flat 16,Rupert Street,2015-12-11,830000,F,Y,L,1
+W1D 7PN,59,Flat 3,Rupert Street,2015-04-01,762420,F,Y,L,1
+W1D 7PN,59,Flat 4,Rupert Street,2015-09-10,545000,F,Y,L,1
+W1D 7PN,59,Flat 5,Rupert Street,2015-08-24,927000,F,Y,L,1
+W1D 7PN,59,Flat 6,Rupert Street,2019-07-31,500000,F,N,L,1
+W1D 7PN,59,Flat 7,Rupert Street,2015-04-01,632415,F,Y,L,1
+W1D 7PN,59,Flat 8,Rupert Street,2015-04-01,647100,F,N,L,1
+W1D 7PQ,51 - 53,Flat 8,Rupert Street,2017-05-18,640000,F,N,L,1
+W1D 7PQ,51-53,Flat 1,Rupert Street,2015-04-01,756800,F,Y,L,1
+W1D 5EQ,"Exeter Mansions, 106",Flat 1,Shaftesbury Avenue,1996-09-13,210000,F,N,L,1
+W1D 5EQ,"Exeter Mansions, 106",Flat 10,Shaftesbury Avenue,2011-04-08,420000,F,N,L,3
+W1D 5EQ,"Exeter Mansions, 106",Flat 4,Shaftesbury Avenue,1998-01-06,285000,F,N,L,1
+W1D 5EQ,"Exeter Mansions, 106",Flat 5,Shaftesbury Avenue,2000-09-21,275000,F,N,L,1
+W1D 5EQ,"Exeter Mansions, 106",Flat 8,Shaftesbury Avenue,1996-11-04,240000,F,N,L,1
+W1D 5ER,"Nassau House, 122",Flat 1,Shaftesbury Avenue,2013-10-09,860000,F,N,L,1
+W1D 5ER,"Nassau House,, 122",Flat 3,Shaftesbury Avenue,1998-03-27,202000,F,N,L,1
+W1D 5EW,"Egmont House, 116",Flat 1,Shaftesbury Avenue,2003-07-01,250000,F,N,L,1
+W1D 5EW,"Egmont House, 116",Flat 2,Shaftesbury Avenue,2000-09-07,226493,F,N,L,2
+W1D 5EW,"Egmont House, 116",Flat 3,Shaftesbury Avenue,1997-03-10,95000,F,N,L,1
+W1D 5EW,"Egmont House, 116",Flat 4,Shaftesbury Avenue,1996-11-21,100000,F,N,L,1
+W1D 5EW,"Egmont House, 116",Flat 6,Shaftesbury Avenue,2008-10-17,480000,F,N,L,1
+W1D 3NT,10 - 10A,Flat 4,Soho Square,2014-11-25,4025000,F,N,L,1
+W1D 3QD,10,Apartment 1,Soho Square,2015-03-23,2250000,F,N,L,1
+W1D 3QD,10,Apartment 2,Soho Square,2015-01-23,1885000,F,N,L,1
+W1D 3QD,10,Apartment 3,Soho Square,2017-06-08,3350000,F,N,L,2
+W1D 3QD,10,Apartment 5,Soho Square,2016-12-20,3650000,F,N,L,1
+W1D 3QY,36,,Soho Square,2003-12-17,3000000,T,N,F,1
+W1D 3QZ,37,Flat 1,Soho Square,2014-10-07,2500000,F,N,L,2
+W1D 3QZ,37,Flat 2,Soho Square,2014-06-25,4050000,F,N,L,1
+W1D 3QZ,37,Flat 3,Soho Square,2013-11-29,3665001,F,N,L,1
+W1D 3QZ,37,Flat 5,Soho Square,2017-08-25,3999950,F,N,L,2
+W1D 3DN,14,,Soho Street,2009-11-20,776000,F,N,L,2
+W1D 3DN,14,Upper Flat,Soho Street,2009-11-20,950000,F,N,L,1
+W1D 6BG,"Rupert House, 4",Flat 1,Tisbury Court,2002-07-29,315000,F,N,L,1
+W1D 6BG,"Rupert House, 4",Flat 3,Tisbury Court,1999-03-19,85000,F,N,L,1
+W1D 6PF,9,,Wardour Street,1998-06-10,1000000,T,N,F,1
+W1D 6PG,11,,Wardour Street,2004-09-08,195000,F,N,L,1
+W1D 6PZ,45,,Wardour Street,1997-12-22,925000,S,N,F,1
+W1D 6QL,26,,Wardour Street,1998-03-04,565000,T,N,F,1
+W1D 6QN,28,,Wardour Street,1995-07-04,635000,S,N,F,1

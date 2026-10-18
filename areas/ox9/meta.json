@@ -27,6 +27,39 @@
   {
    "name": "ONS Postcode Directory",
    "licence": "Contains OS data © Crown copyright and database right 2026. Contains Royal Mail data © Royal Mail copyright and database right 2026. Source: Office for National Statistics licensed under the Open Government Licence v3.0."
+  },
+  {
+   "name": "ONS Price Index of Private Rents",
+   "licence": "Source: Office for National Statistics licensed under the Open Government Licence v3.0."
+  },
+  {
+   "name": "Environment Agency Risk of Flooding from Rivers and Sea",
+   "licence": "Contains Environment Agency information © Environment Agency and/or database right. Open Government Licence v3.0. England only."
+  },
+  {
+   "name": "Ofcom Connected Nations 2025",
+   "licence": "Contains Ofcom data. Open Government Licence v3.0."
+  },
+  {
+   "name": "Planning Data (MHCLG): conservation areas, Article 4, green belt, tree preservation, national parks, National Landscapes, listed buildings, scheduled monuments, brownfield land",
+   "licence": "Contains public sector information licensed under the Open Government Licence v3.0, including Historic England and Natural England data © Crown copyright and database right. England only."
+  },
+  {
+   "name": "Mining Remediation Authority Development High Risk Area",
+   "licence": "Contains Mining Remediation Authority data. Open Government Licence v3.0."
+  },
+  {
+   "name": "Get Information about Schools (DfE)",
+   "licence": "Department for Education. Open Government Licence v3.0. England only."
+  },
+  {
+   "name": "NaPTAN (DfT)",
+   "licence": "Department for Transport. Open Government Licence v3.0."
   }
- ]
+ ],
+ "la_code": "E07000179",
+ "other_la_codes": [
+  "E06000060"
+ ],
+ "extras_built": "2026-10-18"
 }

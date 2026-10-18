@@ -14,6 +14,13 @@
                                            the area dashboard: one self-contained HTML file (show it as an artifact)
     python blueprint.py offer  <moment>        the Blueprint line for a moment (brochure, development, ads,
                                            website, email, branding, gap, about, follow), with a tracked link
+    python blueprint.py address "<address, postcode>" [--asking N] [--type D|S|T|F] [--page]
+                                           a home's sale history since 1995, its last price on today's index,
+                                           comparable sales, an asking-price check, rents and local facts
+    python blueprint.py local  "<postcode>" [--page]   local facts and the material information checklist
+    python blueprint.py rents  <district> [--page]     ONS average rents by bedrooms and type, and gross yields
+    python blueprint.py guide  <district>      facts for an area guide (market, rents, schools, stations, places)
+    python blueprint.py sites  <district>      brownfield register sites (developers)
 
 Data comes from the Blueprint skill repository on github.com (a sparse git clone fetches only the
 area asked for). If GitHub can't be reached, attach the area's ZIP from the repository's
@@ -50,6 +57,7 @@ ASSETS = Path(__file__).resolve().parent.parent / "assets"
 TYPE_NAMES = {"D": "Detached", "S": "Semi-detached", "T": "Terraced", "F": "Flat or maisonette", "O": "Other"}
 MONTHS = ["January", "February", "March", "April", "May", "June", "July", "August",
           "September", "October", "November", "December"]
+AREA_FILES = ("sales.csv", "hpi.json", "meta.json", "postcodes.csv", "map.json", "history.csv", "index.json", "rents.json", "local.json")
 POSTCODE_DISTRICT = re.compile(r"^\s*([A-Z]{1,2}[0-9][0-9A-Z]?)\s*([0-9][A-Z]{2})?\s*$", re.I)
 
 try:
@@ -156,7 +164,7 @@ def fetch_from_zip(district: str, zip_path: str) -> Path:
             name = parts[-1]
             if name == "offers.json" and len(parts) <= 2:
                 (dest / name).write_bytes(z.read(member))
-            elif len(parts) >= 2 and parts[-2].lower() == want and name in ("sales.csv", "hpi.json", "meta.json", "postcodes.csv"):
+            elif len(parts) >= 2 and parts[-2].lower() == want and name in AREA_FILES:
                 (dest / name).write_bytes(z.read(member))
     if not (dest / "meta.json").exists():
         fail("error", f"That file doesn't hold {district}. Use the postcode-area file that starts with the same "
@@ -664,6 +672,13 @@ def monthly_counts(rows: list[dict], months: int = 24) -> list[dict]:
     return outl
 
 
+def _p360():
+    import property360
+    if property360.bp is None:
+        property360.bp = sys.modules[__name__]
+    return property360
+
+
 def dashboard(a) -> None:
     district = a.district.upper()
     rows, meta, hpi = load(district)
@@ -676,6 +691,8 @@ def dashboard(a) -> None:
         with open(d / "postcodes.csv", newline="", encoding="utf-8") as f:
             for r in csv.DictReader(f):
                 coords[r["postcode"]] = [float(r["lat"]), float(r["lng"])]
+    # the street map under the dots (OS OpenData, built by build_maps.py); absent -> the dots alone
+    basemap = read_json(d / "map.json") if (d / "map.json").exists() else None
     streets = sorted({r["street"] for r in rows})
     postcodes = sorted({r["postcode"] for r in rows})
     si = {x: i for i, x in enumerate(streets)}
@@ -706,7 +723,9 @@ def dashboard(a) -> None:
                 "volume_vs_last_year": s["volume_vs_last_year"], "new_builds": s["new_builds"]},
         "hpi_series": hpi_series,
         "monthly": monthly,
-        "streets": streets, "postcodes": postcodes, "coords": coords, "sales": sales,
+        "streets": streets, "postcodes": postcodes, "coords": coords, "sales": sales, "map": basemap,
+        "type_prices": _p360().Index(d).type_prices() if (d / "index.json").exists() else None,
+        "rents": _p360().rents_for(d, rows) if (d / "rents.json").exists() else None,
         "caveats": [
             f"Sales are standard residential sales (HM Land Registry category A) in {meta['district']}, registered "
             f"since {month_label(meta.get('sales_from', '2021-01-01'))}. Sales register weeks to months after "
@@ -718,6 +737,10 @@ def dashboard(a) -> None:
         ],
         **common_payload(a),
     }
+    if basemap:
+        payload["attribution"] = payload["attribution"] + [
+            f"Map: contains OS data © Crown copyright and database right {today.year} (OS Open Roads, OS Open Rivers, "
+            "OS Open Greenspace, OS Open Names), licensed under the Open Government Licence v3.0."]
     html = render_page("dashboard.html", payload)
     path = output_dir(a.out) / f"{district.lower()}-dashboard-{today.isoformat()}.html"
     path.write_text(html, encoding="utf-8")
@@ -835,6 +858,8 @@ def main() -> None:
         p.add_argument(opt)
     p.add_argument("--blueprint-style", "--house", dest="house", action="store_true")
     p.set_defaults(fn=compare)
+    import property360  # address check, asking-price check, rents, local facts, guides, sites
+    property360.register(sub, sys.modules[__name__])
     a = ap.parse_args()
     a.fn(a)
 

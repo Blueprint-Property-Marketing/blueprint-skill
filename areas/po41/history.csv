@@ -1,0 +1,833 @@
+postcode,paon,saon,street,date,price,type,new,tenure,sales
+PO41 0RL,The Thicket,,,2003-12-19,300000,D,N,F,2
+PO41 0UY,Bayside House,,,2015-07-20,825000,D,N,F,1
+PO41 0UY,Brambles,,,2016-03-29,2900000,D,N,F,1
+PO41 0UZ,Clevelands,Flat 1,,2020-09-18,215000,F,N,L,3
+PO41 0UZ,Clevelands,Flat 2,,2020-11-20,185000,F,N,L,7
+PO41 0UZ,Clevelands,Flat 3,,2000-11-17,75000,F,N,L,1
+PO41 0UZ,Clevelands,Flat 4,,2018-06-28,139200,F,N,L,3
+PO41 0UZ,Clevelands,Flat 5,,2007-08-10,160000,F,N,L,2
+PO41 0UZ,Clevelands,Flat 6,,1997-07-24,40000,T,N,L,1
+PO41 0UZ,Owl Cottage,,,2014-07-09,780000,D,N,F,2
+PO41 0YJ,Tapnell Cottages,Poachers Lodge 3,,2011-07-08,354000,T,N,F,1
+PO41 0QQ,1,,Alma Place,2018-10-12,320000,T,N,F,2
+PO41 0QQ,10,,Alma Place,2017-05-02,185000,D,N,F,1
+PO41 0QQ,2,,Alma Place,2007-04-02,214000,T,N,F,1
+PO41 0QQ,4,,Alma Place,2019-02-22,240000,T,N,F,1
+PO41 0QQ,5,,Alma Place,2014-07-03,212500,T,N,F,1
+PO41 0QQ,6,,Alma Place,1995-11-15,39000,T,N,F,1
+PO41 0QQ,7,,Alma Place,2017-09-11,271500,T,N,F,2
+PO41 0QQ,Muse Cottage,,Alma Place,1998-02-16,40000,S,N,F,1
+PO41 0QQ,Seapie Corner,,Alma Place,2018-03-26,282000,T,N,F,3
+PO41 0PY,The Coach House,,Basketts Lane,1996-08-02,170000,D,N,F,1
+PO41 0PY,The Hope Cottage,,Basketts Lane,2020-07-28,375000,D,N,F,3
+PO41 0PY,The Oaks,,Basketts Lane,2019-10-28,500000,D,N,F,3
+PO41 0PY,The Pound,,Basketts Lane,2019-04-18,605000,D,N,F,1
+PO41 0BD,2 The Salterns,,Bay Drive,2013-10-08,395000,D,Y,F,1
+PO41 0BD,5 The Salterns,,Bay Drive,2014-09-11,455000,D,Y,F,1
+PO41 0BD,The Salterns,2,Bay Drive,2020-07-21,530000,D,N,F,1
+PO41 0BD,The Salterns,4,Bay Drive,2015-07-16,460000,D,Y,F,1
+PO41 0BD,The Salterns,6,Bay Drive,2018-10-19,490000,D,N,F,2
+PO41 0BD,The Salterns,7,Bay Drive,2015-01-16,445000,D,Y,F,1
+PO41 0UY,2,,Bouldnor Cottages,2006-04-06,240000,F,N,L,1
+PO41 0LA,19,,Bouldnor Mead,2020-03-31,370000,D,Y,F,1
+PO41 0LA,21,,Bouldnor Mead,2020-03-27,465000,D,Y,F,1
+PO41 0LA,29,,Bouldnor Mead,2020-09-04,407000,D,Y,F,1
+PO41 0LA,31,,Bouldnor Mead,2020-03-24,400000,D,Y,F,1
+PO41 0LA,33,,Bouldnor Mead,2020-03-31,450000,D,Y,F,1
+PO41 0ND,Treligga House,,Bouldnor Road,1996-10-21,91000,D,Y,F,1
+PO41 0UP,Waterside,,Bouldnor Road,2018-05-29,700000,D,N,F,2
+PO41 0UP,West Ridge,,Bouldnor Road,2013-08-30,425000,D,N,F,2
+PO41 0RN,1,,Braxton Meadow,2006-11-03,310000,D,N,F,3
+PO41 0RN,10,,Braxton Meadow,2004-08-19,238000,D,N,F,1
+PO41 0RN,11,,Braxton Meadow,2000-07-24,140000,S,N,F,1
+PO41 0RN,2,,Braxton Meadow,2004-05-25,247000,D,N,F,2
+PO41 0RN,4,,Braxton Meadow,1999-07-28,104000,D,N,F,1
+PO41 0RN,5,,Braxton Meadow,2007-01-26,225000,D,N,F,1
+PO41 0RN,6,,Braxton Meadow,1999-04-26,152500,D,N,F,1
+PO41 0RN,7,,Braxton Meadow,2004-04-05,249980,D,N,F,1
+PO41 0PH,Eremue Court,Flat 1,Bridge Road,2017-04-06,121000,F,N,L,2
+PO41 0PH,Eremue Court,Flat 2,Bridge Road,2001-10-09,60000,F,N,L,1
+PO41 0PH,Eremue Court,Flat 4,Bridge Road,2017-02-03,142500,F,N,L,1
+PO41 0PH,Eremue Court,Flat 5,Bridge Road,2001-10-12,80000,F,N,L,1
+PO41 0PH,Eremue Court,Flat 6,Bridge Road,2001-07-02,90000,F,N,L,2
+PO41 0PJ,Coastguard Cottage,4,Bridge Road,1995-09-21,50625,T,N,F,1
+PO41 0PJ,Coastguard Cottages,1,Bridge Road,1997-10-14,132000,T,N,F,2
+PO41 0PJ,Coastguard Cottages,5,Bridge Road,2011-05-26,335000,T,N,F,3
+PO41 0PJ,Coastguard Cottages,7,Bridge Road,2015-02-23,325000,T,N,F,1
+PO41 0PJ,Coastguard Cottages,8,Bridge Road,2018-12-07,359000,T,N,F,1
+PO41 0UH,Dog Kennel Cottage,,Broad Lane,2013-10-11,800000,D,N,F,1
+PO41 0UD,2,,Brook Road,1996-05-31,38000,S,N,F,1
+PO41 0UD,4,,Brook Road,2008-12-05,250000,S,N,F,3
+PO41 0UE,Chessell Cottage,,Brook Road,2016-12-08,845000,D,N,F,1
+PO41 0UE,Chessell Farm,,Brook Road,2006-07-31,600000,D,N,F,1
+PO41 0TZ,Homestead Cottage,,Caulbourne Lane,2004-08-26,285000,D,N,L,1
+PO41 0TZ,Homestead Farm,,Caulbourne Lane,2008-10-13,1480000,D,N,F,1
+PO41 0TZ,Homestead Farm House,,Caulbourne Lane,2008-10-13,1480000,D,N,F,1
+PO41 0TZ,Lower Calbourne Mill,,Caulbourne Lane,2018-10-12,625000,D,N,F,1
+PO41 0TZ,Mill Green Cottage,,Caulbourne Lane,2016-03-14,217500,S,N,F,1
+PO41 0TZ,Millstream Cottage,,Caulbourne Lane,2015-06-17,320000,S,N,F,4
+PO41 0TZ,Shishford Cottage,,Caulbourne Lane,2006-04-28,315000,D,N,F,1
+PO41 0TZ,Waterfall Lodge,,Caulbourne Lane,1996-12-23,195000,D,N,F,1
+PO41 0UA,Ashbrooke,,Clay Lane,2017-11-28,250000,D,N,F,1
+PO41 0UA,Capriole,,Clay Lane,2010-11-05,225000,D,N,F,1
+PO41 0UA,Cuckmere,,Clay Lane,2001-06-22,185000,D,N,F,1
+PO41 0UA,Evergreen,,Clay Lane,2014-08-08,190000,D,N,F,4
+PO41 0UA,Lincoln,,Clay Lane,2015-02-05,195000,D,N,F,1
+PO41 0UA,Pigtails,,Clay Lane,2012-09-18,425000,D,N,F,3
+PO41 0UA,Rose Cottage,,Clay Lane,1995-08-24,135000,D,N,F,1
+PO41 0UA,Snowball Cottage,,Clay Lane,1999-07-20,133500,D,N,F,1
+PO41 0UA,Streamside,,Clay Lane,2010-05-11,449000,D,N,F,2
+PO41 0UA,Sunnyside,,Clay Lane,1997-02-14,38255,S,N,F,1
+PO41 0UA,Sweetwater,,Clay Lane,2001-10-02,100000,D,N,F,2
+PO41 0UA,The Dovecote,,Clay Lane,2017-09-15,170000,D,N,F,1
+PO41 0UA,The Rose Cottage,,Clay Lane,2011-09-19,550000,D,N,F,1
+PO41 0UA,Tulla,,Clay Lane,1999-12-10,87000,D,N,F,1
+PO41 0UJ,Greenmore,,Coopers Lane,2007-08-17,270000,S,N,F,1
+PO41 0UJ,Kingsmead,,Coopers Lane,2002-08-16,180000,D,N,F,1
+PO41 0UJ,Treasure Cottage,,Coopers Lane,2018-10-26,588000,D,N,F,1
+PO41 0XR,Clovelly,,Cranmore Avenue,2015-01-06,330000,D,N,F,5
+PO41 0XR,Downsview,,Cranmore Avenue,2002-06-20,172000,D,N,F,2
+PO41 0XR,Enborne,,Cranmore Avenue,2003-08-01,265000,D,N,F,1
+PO41 0XR,Freshfield,,Cranmore Avenue,2004-12-17,295000,D,N,F,1
+PO41 0XR,Funakoshi,,Cranmore Avenue,2007-11-08,370000,D,N,F,1
+PO41 0XR,Furzebrake,,Cranmore Avenue,2007-10-05,285000,D,N,F,2
+PO41 0XR,Heathercot,,Cranmore Avenue,2014-02-07,230000,D,N,F,2
+PO41 0XR,Homecroft,,Cranmore Avenue,2007-07-13,310000,D,N,F,2
+PO41 0XR,Inglefield,,Cranmore Avenue,1995-07-25,26000,D,N,F,1
+PO41 0XR,Kef,,Cranmore Avenue,2017-10-27,331000,D,N,F,1
+PO41 0XR,Kinross,,Cranmore Avenue,1998-12-03,68000,D,N,F,1
+PO41 0XR,On Y Va,,Cranmore Avenue,2010-07-30,465000,D,N,F,1
+PO41 0XR,Squirrels Wood,,Cranmore Avenue,2007-11-30,425000,D,N,F,2
+PO41 0XR,Sunningdale Farm,,Cranmore Avenue,2019-10-09,560000,D,N,F,2
+PO41 0XR,Thisledown,,Cranmore Avenue,2009-10-02,75000,D,N,F,1
+PO41 0XR,Venture,,Cranmore Avenue,1995-12-20,41000,D,N,F,1
+PO41 0XR,Willow End,,Cranmore Avenue,1996-10-25,99000,D,N,F,1
+PO41 0XS,Afton,,Cranmore Avenue,2001-10-08,147000,D,N,F,1
+PO41 0XS,Dingle,,Cranmore Avenue,2001-05-02,54000,D,N,F,1
+PO41 0XS,Lyndale,,Cranmore Avenue,2014-11-25,283000,D,N,F,3
+PO41 0XS,St Christopher,,Cranmore Avenue,2014-12-11,375000,D,N,F,2
+PO41 0XS,Sunnicot,,Cranmore Avenue,2016-03-18,295000,D,N,F,1
+PO41 0RU,Fiddlers View,,Crozier Road,1996-07-26,80000,D,N,F,1
+PO41 0RU,Solent Heights,,Crozier Road,2010-02-23,575000,D,N,F,3
+PO41 0RU,Westlands,,Crozier Road,2019-08-30,527500,D,N,F,4
+PO41 0UB,Churchills Farm House,,Dodpits Lane,2016-02-01,436000,D,N,F,1
+PO41 0XX,The Drey,,East Close,2019-02-06,450000,D,N,F,1
+PO41 0XX,The Squirrels Nest,,East Close,2018-04-11,461500,D,N,F,2
+PO41 0XX,West Hamstead Farm,,East Close,2002-02-14,787500,D,N,F,2
+PO41 0NH,1,,Eastmore Court,2020-03-17,236000,F,N,L,2
+PO41 0NH,10,,Eastmore Court,2020-11-12,200000,F,N,L,2
+PO41 0NH,2,,Eastmore Court,2011-02-15,197000,F,N,L,2
+PO41 0NH,3,,Eastmore Court,1997-05-23,79500,F,Y,L,1
+PO41 0NH,4,,Eastmore Court,2005-07-12,255000,F,N,L,3
+PO41 0NH,5,,Eastmore Court,1997-04-14,73000,T,N,L,1
+PO41 0NH,6,,Eastmore Court,2004-05-26,225000,F,N,L,2
+PO41 0NH,7,,Eastmore Court,1997-06-02,67500,F,N,L,1
+PO41 0NH,8,,Eastmore Court,2018-05-15,234500,F,N,L,4
+PO41 0NH,9,,Eastmore Court,2015-08-27,210000,T,N,L,6
+PO41 0PP,Bay Cottage,,Eremue Lane,1998-07-10,72500,T,N,F,2
+PO41 0PP,Bosun Cottage,,Eremue Lane,2014-04-11,200000,T,N,F,1
+PO41 0PP,The Flat,,Eremue Lane,2006-09-11,85000,F,N,L,1
+PO41 0QL,1,,Field Place,2012-08-24,171000,T,N,F,2
+PO41 0QL,2,,Field Place,2010-09-30,140500,S,N,F,1
+PO41 0QL,3,,Field Place,2013-05-29,140000,S,N,F,1
+PO41 0QL,4,,Field Place,2013-11-15,175000,S,N,F,2
+PO41 0SA,1,,Fort Victoria Cottages,2000-04-18,123000,T,N,L,2
+PO41 0SA,10,,Fort Victoria Cottages,2002-03-19,145000,T,N,L,2
+PO41 0SA,11,,Fort Victoria Cottages,1999-04-20,85000,T,N,L,1
+PO41 0SA,12,,Fort Victoria Cottages,2013-09-26,260000,T,N,L,2
+PO41 0SA,3,,Fort Victoria Cottages,2011-04-15,245000,T,N,L,4
+PO41 0SA,4,,Fort Victoria Cottages,2020-11-06,347000,T,N,L,4
+PO41 0SA,5,,Fort Victoria Cottages,2007-06-22,249200,T,N,L,5
+PO41 0SA,6,,Fort Victoria Cottages,1997-12-01,71000,T,N,L,1
+PO41 0SA,7,,Fort Victoria Cottages,2017-01-20,290000,T,N,L,4
+PO41 0SA,8,,Fort Victoria Cottages,2016-08-12,284000,T,N,L,3
+PO41 0SA,9,,Fort Victoria Cottages,1997-11-12,75000,T,Y,L,1
+PO41 0SE,Quay Cottage,,Gasworks Lane,1996-01-10,212500,D,N,F,1
+PO41 0SE,Venture,,Gasworks Lane,2020-10-20,1310000,D,N,F,1
+PO41 0RX,9,,Graeme Road,1999-01-06,95000,D,N,F,1
+PO41 0RX,Clearings,,Graeme Road,2011-08-08,242500,D,N,F,1
+PO41 0RX,Grasmere,,Graeme Road,2014-12-18,282000,D,N,F,2
+PO41 0RX,Highwood,,Graeme Road,2019-08-28,315000,D,N,F,2
+PO41 0RX,Pentwyn,,Graeme Road,2011-11-17,270000,D,N,F,1
+PO41 0RX,Quilcroft,,Graeme Road,2016-05-09,310000,D,N,F,2
+PO41 0RX,The Bungalow,,Graeme Road,2017-04-07,350000,D,N,F,3
+PO41 0RX,The Sycamores,,Graeme Road,2003-12-05,249500,D,N,F,1
+PO41 0RX,Westhill House,,Graeme Road,2014-08-07,645000,D,N,F,1
+PO41 0RX,Whinfield,,Graeme Road,2004-04-05,210000,D,N,F,1
+PO41 0RH,Braxton Lodge,,Halletts Shute,2010-03-01,324000,D,N,F,1
+PO41 0RH,Braxton Mews,,Halletts Shute,2020-11-11,595000,D,N,F,4
+PO41 0RH,Cartmead,,Halletts Shute,1997-11-28,155000,D,N,F,1
+PO41 0RH,Cracknells,,Halletts Shute,2002-01-31,460000,D,N,F,1
+PO41 0RH,Gunley Mede,,Halletts Shute,1999-11-15,600000,D,N,F,1
+PO41 0RH,Halletts Thatch,,Halletts Shute,2012-07-16,275000,S,N,F,3
+PO41 0RH,Highfield,Flat 1,Halletts Shute,2005-02-25,196500,F,N,L,1
+PO41 0RH,Highfield,Flat 2,Halletts Shute,2020-11-20,237500,F,N,L,1
+PO41 0RH,Highgrove,,Halletts Shute,2006-10-25,475000,D,N,F,2
+PO41 0RH,Holly Farm,,Halletts Shute,2017-04-12,500000,D,N,F,1
+PO41 0RH,Hopcroft,,Halletts Shute,2006-08-03,239000,D,N,F,1
+PO41 0RH,Medlars,,Halletts Shute,2015-12-16,360000,S,N,F,2
+PO41 0RH,The Old Coach House,,Halletts Shute,2003-04-23,135000,D,N,F,1
+PO41 0RH,Updown House,,Halletts Shute,2008-08-13,650000,D,N,F,3
+PO41 0RH,Well Cottage,,Halletts Shute,2001-10-02,100000,S,N,F,1
+PO41 0RJ,Cape Cottages,Unit A11,Halletts Shute,2008-01-09,105000,F,N,L,1
+PO41 0RJ,Cape Cottages,Unit A12,Halletts Shute,2008-01-09,105000,F,N,L,1
+PO41 0RJ,Cape Cottages,Unit A13,Halletts Shute,2008-01-09,105000,F,N,L,1
+PO41 0RJ,The Savoy,Cape Cottage A2,Halletts Shute,2008-04-24,148500,T,N,L,1
+PO41 0RJ,The Savoy,Munday Cottage H3,Halletts Shute,2007-04-11,155000,F,N,L,1
+PO41 0RJ,The Savoy,Munday Cottage H4,Halletts Shute,2009-04-16,66633,T,N,L,1
+PO41 0RJ,The Savoy,Munday Cottage H5,Halletts Shute,2006-12-15,157000,T,Y,L,1
+PO41 0RJ,The Savoy,Saltbox Cottage B1,Halletts Shute,2009-05-01,66633,T,N,L,1
+PO41 0RJ,The West Bay Club,Cape Cottage A8,Halletts Shute,2013-12-19,70000,S,N,L,1
+PO41 0RJ,The West Bay Club,Munday Cottage H1,Halletts Shute,2017-03-13,72000,S,N,L,1
+PO41 0RJ,West Bay,Unit J5,Halletts Shute,2009-04-16,107217,F,N,L,1
+PO41 0RJ,West Bay,Unit K1,Halletts Shute,2009-04-16,144898,F,N,L,1
+PO41 0RJ,West Bay,Unit M10,Halletts Shute,2009-04-16,107217,F,N,L,1
+PO41 0RJ,West Bay,Unit P10,Halletts Shute,2010-09-03,190000,T,N,L,1
+PO41 0SB,Aorangi,,Halletts Shute,2017-07-26,433000,D,N,F,1
+PO41 0SB,Beechcroft,,Halletts Shute,2006-01-11,395000,D,N,F,1
+PO41 0SB,Buddles Butt,,Halletts Shute,2004-05-18,900000,D,N,F,1
+PO41 0SB,Edelweiss,,Halletts Shute,2001-06-15,265000,D,N,F,1
+PO41 0SB,Norton Briars,,Halletts Shute,2019-09-09,495000,D,N,F,1
+PO41 0SB,Norton Cottage,,Halletts Shute,2020-11-12,920000,D,N,F,4
+PO41 0SB,Norton Rookery,,Halletts Shute,2017-07-07,527250,D,N,F,2
+PO41 0SB,Norton Thatch,,Halletts Shute,2018-01-05,574950,D,N,F,4
+PO41 0SB,Norton Wood,,Halletts Shute,2001-10-19,220000,D,N,F,1
+PO41 0SB,Sandhard,,Halletts Shute,1999-12-21,200000,D,N,F,1
+PO41 0SB,The Salt House,,Halletts Shute,2020-11-26,572500,D,N,F,1
+PO41 0SB,Tree Tops,,Halletts Shute,1999-11-01,230000,D,N,F,2
+PO41 0SB,Westfield,,Halletts Shute,2012-12-06,450000,D,N,F,2
+PO41 0SB,Willow Bank,,Halletts Shute,2015-11-20,500000,D,N,F,1
+PO41 0RP,10,,Hammond Close,2004-03-22,217000,D,N,F,1
+PO41 0RP,11,,Hammond Close,2016-12-16,260500,D,N,F,3
+PO41 0RP,13,,Hammond Close,2018-12-17,355000,D,N,F,3
+PO41 0RP,14,,Hammond Close,2017-10-31,372000,D,N,F,3
+PO41 0RP,7,,Hammond Close,2014-09-09,225000,D,N,F,2
+PO41 0RP,9,,Hammond Close,1997-11-24,93000,D,N,F,1
+PO41 0RP,Cestria,,Hammond Close,2013-10-07,233000,D,N,F,1
+PO41 0RP,"Lelant, 8",,Hammond Close,2017-03-06,260000,D,N,F,1
+PO41 0RP,Longwood,,Hammond Close,2020-08-10,343000,D,N,F,4
+PO41 0RP,Mayfield,,Hammond Close,1997-01-24,60000,S,N,F,1
+PO41 0RP,Tweedale,,Hammond Close,2013-10-10,305000,D,N,F,1
+PO41 0YE,Hamstead House,,Hamstead Drive,2001-06-29,380000,D,N,F,1
+PO41 0YE,Woodcote Cottage,,Hamstead Drive,2019-12-11,625000,D,N,F,1
+PO41 0YF,Creek Farm Cottage,,Hamstead Drive,2014-01-27,672500,D,N,F,3
+PO41 0YF,Lower Hamstead Farm,,Hamstead Drive,1996-01-02,250000,D,N,F,1
+PO41 0YA,Drumos,,Hamstead Road,2014-08-21,400000,D,N,F,2
+PO41 0YA,Lynwood,,Hamstead Road,2010-11-12,418000,D,N,F,2
+PO41 0YA,Oak Lodge,,Hamstead Road,1998-06-11,70000,D,N,F,2
+PO41 0YA,Stonefold,,Hamstead Road,2012-10-04,500000,D,N,F,3
+PO41 0YB,Abspann Cottage,,Hamstead Road,2009-12-04,144000,D,N,F,1
+PO41 0YB,Greenbush,,Hamstead Road,2017-01-30,320000,D,N,F,1
+PO41 0YB,Kiln Place,,Hamstead Road,2016-12-01,550000,D,N,F,1
+PO41 0YB,Merrilea,,Hamstead Road,2010-01-07,570000,D,N,F,3
+PO41 0YB,Nirvana,,Hamstead Road,2017-02-10,485000,D,N,F,4
+PO41 0YB,Oak Lea,,Hamstead Road,1995-08-07,59950,D,N,F,1
+PO41 0YB,Outwood,,Hamstead Road,1997-11-27,89950,D,N,F,2
+PO41 0YB,Pixes Place,,Hamstead Road,1997-08-08,45000,D,N,F,1
+PO41 0YB,Pond View,,Hamstead Road,2008-01-16,137500,D,N,F,2
+PO41 0YB,Risden,,Hamstead Road,2011-05-16,295000,D,N,F,1
+PO41 0YB,Saltayre,,Hamstead Road,2009-12-11,345000,D,N,F,1
+PO41 0YB,St Andrews,,Hamstead Road,2017-09-29,399950,D,N,F,3
+PO41 0YB,Woodlands,,Hamstead Road,2017-08-21,280000,D,N,F,2
+PO41 0QR,8,,Heytesbury Close,2008-05-23,140000,F,N,L,2
+PO41 0QR,Kosikot,,Heytesbury Close,2019-08-30,329000,D,N,F,2
+PO41 0QS,2,,Heytesbury Road,2013-08-15,287000,S,N,F,4
+PO41 0QS,4,,Heytesbury Road,2016-03-18,337500,S,N,F,3
+PO41 0QS,5,,Heytesbury Road,2013-02-25,295000,S,N,F,2
+PO41 0QS,6,,Heytesbury Road,2010-05-07,310000,D,N,F,2
+PO41 0QS,"Mallard House, 7",,Heytesbury Road,2000-08-01,145000,D,N,F,2
+PO41 0QS,The Bungalow,,Heytesbury Road,2012-07-06,232000,D,N,F,2
+PO41 0PL,20,,High Street,2007-10-01,190000,T,N,F,2
+PO41 0PL,Anson,,High Street,1998-11-20,65000,F,Y,L,1
+PO41 0PL,Dairy Cottage,,High Street,2016-03-23,240000,T,N,F,3
+PO41 0PL,Forresters Cottage,,High Street,2004-03-29,280000,S,N,F,3
+PO41 0PL,Pinings Corner,,High Street,1998-04-17,117500,T,N,F,1
+PO41 0PL,Pinings Yard,,High Street,2020-11-04,375000,T,N,F,5
+PO41 0PL,The Old Dairy,3,High Street,2005-07-08,295000,D,N,F,3
+PO41 0PL,Tovah,,High Street,2018-10-25,363000,T,N,F,2
+PO41 0PL,Tresco,,High Street,2015-02-02,250000,T,N,F,1
+PO41 0PL,Yarmouth House,1A,High Street,1995-11-21,36500,F,N,L,1
+PO41 0PL,Yarmouth House,1B,High Street,2014-10-10,138500,F,N,L,1
+PO41 0PN,Eremue Cottage,,High Street,2010-09-29,499000,T,N,F,4
+PO41 0PN,Gull Cottage,,High Street,2004-06-17,490000,T,N,F,2
+PO41 0PN,Kevack,,High Street,2014-09-03,330000,S,N,F,1
+PO41 0PN,Lavender Cottage,,High Street,2012-12-13,292500,T,N,F,1
+PO41 0PN,Lion Tree House,,High Street,2008-03-27,900000,D,N,F,2
+PO41 0PN,Little House,,High Street,2019-07-01,434000,D,N,F,1
+PO41 0PN,Longs Wharf Cottage,,High Street,2011-03-15,250000,T,N,F,1
+PO41 0PN,Marlborough Cottage,,High Street,2020-12-16,515000,T,N,F,3
+PO41 0PN,Mulberries,,High Street,2016-12-09,468400,D,N,F,4
+PO41 0PN,Ossian Cottage,,High Street,1999-10-01,350000,D,N,F,1
+PO41 0PN,Solent Cottage,,High Street,2007-09-14,450000,D,N,F,1
+PO41 0PN,Swann House,,High Street,2010-06-23,390000,T,N,F,3
+PO41 0PN,Tanners,,High Street,2017-05-30,1200000,D,N,F,1
+PO41 0PN,The Wight House,,High Street,2005-04-29,1225000,D,N,F,1
+PO41 0TJ,1,,Highfield Cottages,2017-08-04,399950,S,N,F,3
+PO41 0TJ,2,,Highfield Cottages,2006-02-14,240000,S,N,F,3
+PO41 0XJ,Holbrookes Cottage,7,Hill Place Lane,2000-08-11,95000,S,N,F,2
+PO41 0XJ,Holbrookes Cottages,2,Hill Place Lane,1996-05-29,58000,S,N,F,1
+PO41 0XJ,Holbrookes Cottages,3,Hill Place Lane,2002-07-04,149950,S,N,F,1
+PO41 0XJ,Holbrookes Cottages,9,Hill Place Lane,2002-09-18,105000,S,N,F,1
+PO41 0XJ,Stoneways,,Hill Place Lane,2004-06-11,150000,S,Y,F,1
+PO41 0ST,11,,Holmfield Avenue,1996-09-03,103500,D,N,F,1
+PO41 0ST,6,,Holmfield Avenue,2016-09-06,250000,D,N,F,2
+PO41 0ST,Claymore,,Holmfield Avenue,1998-11-10,84000,S,N,F,2
+PO41 0ST,Connemara,,Holmfield Avenue,2018-12-14,304000,S,N,F,2
+PO41 0ST,Elm Croft,,Holmfield Avenue,2019-11-11,355000,D,N,F,3
+PO41 0ST,Exbury,,Holmfield Avenue,2010-07-20,330000,D,N,F,4
+PO41 0ST,Herons,,Holmfield Avenue,2012-05-25,285000,D,N,F,2
+PO41 0ST,Kaos,,Holmfield Avenue,2001-08-24,138000,D,N,F,1
+PO41 0ST,Meadows Edge,,Holmfield Avenue,2013-09-20,265000,D,N,F,2
+PO41 0ST,Northaw,,Holmfield Avenue,2020-10-23,360000,D,N,F,1
+PO41 0ST,"Roseberry, 3",,Holmfield Avenue,2017-03-28,220000,S,N,F,5
+PO41 0ST,Spindlewood,,Holmfield Avenue,2000-09-19,84950,S,N,F,1
+PO41 0ST,Woodhouse,,Holmfield Avenue,2020-11-12,395000,D,N,F,2
+PO41 0NR,1,,Jireh Place,2014-09-05,105000,F,N,L,3
+PO41 0NR,3,,Jireh Place,2019-08-07,116500,F,N,L,1
+PO41 0NR,4,,Jireh Place,2016-03-31,121000,F,N,L,2
+PO41 0RL,1,,Linstone Drive,2015-11-20,270000,D,N,F,3
+PO41 0RL,10,,Linstone Drive,2012-04-12,278200,D,N,F,3
+PO41 0RL,11,,Linstone Drive,2020-10-27,395000,D,N,F,3
+PO41 0RL,12,,Linstone Drive,1995-02-17,67500,D,N,F,1
+PO41 0RL,13,,Linstone Drive,2000-07-31,125000,D,N,F,1
+PO41 0RL,15,,Linstone Drive,2014-01-31,460000,D,N,F,2
+PO41 0RL,15A,,Linstone Drive,2013-04-19,285000,D,N,F,1
+PO41 0RL,19,,Linstone Drive,2009-09-02,300000,D,N,F,3
+PO41 0RL,2,,Linstone Drive,2020-09-18,400000,D,N,F,2
+PO41 0RL,21,,Linstone Drive,2011-09-23,230000,D,N,F,1
+PO41 0RL,2A,,Linstone Drive,2002-07-12,199000,D,N,F,1
+PO41 0RL,2B,,Linstone Drive,2006-10-04,204000,S,N,F,1
+PO41 0RL,2C,,Linstone Drive,2006-09-05,200000,S,N,F,1
+PO41 0RL,2D,,Linstone Drive,2013-03-21,250000,D,N,F,2
+PO41 0RL,3,,Linstone Drive,1999-12-21,114000,D,N,F,1
+PO41 0RL,5,,Linstone Drive,2013-03-21,225000,D,N,F,1
+PO41 0RL,6,,Linstone Drive,2020-10-01,390000,D,N,F,2
+PO41 0RL,7,,Linstone Drive,2013-10-24,275000,D,N,F,2
+PO41 0RL,9,,Linstone Drive,2004-08-31,232000,D,N,F,2
+PO41 0RD,1,,Locksley Mews,2014-08-15,215000,S,N,F,4
+PO41 0RD,2,,Locksley Mews,2016-02-29,215000,T,N,F,2
+PO41 0RD,3,,Locksley Mews,2005-06-08,225000,D,N,F,3
+PO41 0RD,4,,Locksley Mews,2017-10-12,205000,T,N,F,4
+PO41 0RD,5,,Locksley Mews,2012-05-10,190000,T,N,F,1
+PO41 0RD,6,,Locksley Mews,2002-05-30,116000,T,N,F,3
+PO41 0PW,Mariners Cottage,,Longs Wharf,2011-09-30,850000,T,N,F,1
+PO41 0PW,Solent View Cottage,,Longs Wharf,2001-12-13,259004,T,N,F,1
+PO41 0SS,Acorn Cottage,,Main Road,2001-10-17,114000,S,N,F,2
+PO41 0SS,Blacksmith Cottage,,Main Road,2018-11-30,290000,S,N,F,3
+PO41 0SS,Crosstrees,,Main Road,2018-12-03,354995,D,N,F,2
+PO41 0SS,Forge Cottage,,Main Road,2004-04-29,130000,S,N,F,1
+PO41 0SS,High Trees,,Main Road,1998-04-30,98500,D,N,F,1
+PO41 0SS,Lightwood Cottage,,Main Road,2005-05-26,249500,D,N,F,5
+PO41 0SS,Newclose Farm Cottage,,Main Road,1998-05-14,59950,S,N,F,1
+PO41 0SS,Newclose Farm House,,Main Road,2013-02-26,425000,S,N,F,1
+PO41 0SS,Pilgrims,,Main Road,1998-11-26,91500,D,N,F,1
+PO41 0SS,Shepherds Brook,,Main Road,2003-10-10,250000,D,N,F,2
+PO41 0SS,Stoneleigh,,Main Road,2011-02-21,250000,D,N,F,3
+PO41 0SS,The Croft,,Main Road,2010-11-08,250000,D,N,F,1
+PO41 0SS,Woodmans,,Main Road,2015-03-31,163000,S,N,F,1
+PO41 0SU,North View,12,Main Road,2020-11-17,255000,S,N,F,3
+PO41 0SU,North View,2,Main Road,2017-06-16,220000,S,N,F,2
+PO41 0SU,North View,3,Main Road,2018-08-31,225000,S,N,F,1
+PO41 0SU,North View,6,Main Road,2013-11-06,170000,S,N,F,4
+PO41 0SU,North View,9,Main Road,1996-05-29,46500,S,N,F,1
+PO41 0SX,Appletrees,,Main Road,2019-10-18,345000,D,N,F,3
+PO41 0SX,Brookside,,Main Road,2010-11-01,242000,S,N,F,2
+PO41 0SX,Greenways,,Main Road,2003-10-30,175000,S,N,F,3
+PO41 0SX,Heron Lee,,Main Road,2004-06-03,295000,D,N,F,2
+PO41 0SX,Lingwood,,Main Road,1998-10-27,85000,S,N,F,1
+PO41 0SX,Little Orchard,,Main Road,1996-09-23,86000,D,N,F,1
+PO41 0SX,Long Lee,,Main Road,2006-11-23,300000,D,N,F,2
+PO41 0SX,Newclose,1,Main Road,2018-01-04,240000,S,N,F,1
+PO41 0SX,Newclose,2,Main Road,2007-01-05,185000,S,N,F,1
+PO41 0SX,Southlee,,Main Road,2013-11-08,425000,D,N,F,1
+PO41 0SX,The Barn,,Main Road,2014-06-27,405000,D,N,F,1
+PO41 0SX,The Manse,,Main Road,2015-03-24,228000,D,N,F,2
+PO41 0SX,The Old Corn Barn,,Main Road,2007-01-17,90000,D,N,F,1
+PO41 0SX,Upper Lee,,Main Road,2008-05-21,625000,D,N,F,1
+PO41 0SX,Wickhams,,Main Road,2012-10-09,385000,D,N,F,2
+PO41 0SZ,Bundys,,Main Road,2003-11-07,395000,D,N,F,1
+PO41 0SZ,Fairfields,1,Main Road,2005-11-11,190000,T,N,F,1
+PO41 0SZ,Fairfields,2,Main Road,2005-12-14,185000,T,N,F,2
+PO41 0SZ,Flowerburn Cottage,,Main Road,2020-12-18,500000,D,N,F,3
+PO41 0SZ,June Cottage,,Main Road,2012-04-10,215000,D,N,F,1
+PO41 0SZ,Laburnam Cottage,,Main Road,2005-07-22,175000,S,N,F,1
+PO41 0SZ,Lime Barn,,Main Road,2012-02-23,417500,D,N,F,3
+PO41 0SZ,Lobelia Cottage,,Main Road,2015-02-18,263000,D,N,F,2
+PO41 0SZ,Marshfield,,Main Road,2019-10-30,439000,D,N,F,3
+PO41 0SZ,Mattingley Farm,,Main Road,1996-09-02,285000,D,N,F,1
+PO41 0SZ,Rookmead,,Main Road,2017-11-03,400000,D,N,F,1
+PO41 0SZ,Sunnyside,,Main Road,2008-07-10,350000,D,N,F,1
+PO41 0SZ,Weald House,,Main Road,2013-02-22,275500,D,N,F,2
+PO41 0SZ,Wellow House,,Main Road,2011-02-28,480000,D,N,F,2
+PO41 0SZ,West Mead,,Main Road,2013-05-14,182500,D,N,F,1
+PO41 0SZ,Yellow Stone,,Main Road,2018-11-16,250000,D,N,F,1
+PO41 0TD,Brookmead,,Main Road,1997-10-31,84000,D,N,F,1
+PO41 0TD,Feltham House,,Main Road,2016-11-29,535000,D,N,F,2
+PO41 0TD,Free Place,,Main Road,1999-11-05,295000,D,N,F,1
+PO41 0TD,Greensleeves,,Main Road,2020-11-30,365000,D,N,F,1
+PO41 0TD,Highfield,,Main Road,2020-02-28,600000,D,N,F,2
+PO41 0TD,Landell House,,Main Road,2001-04-18,320000,D,N,F,1
+PO41 0TD,Mayfield,,Main Road,1997-03-21,75000,D,N,F,1
+PO41 0TD,Mount Place,,Main Road,2017-07-21,660000,D,N,F,2
+PO41 0TD,Orchard Croft,,Main Road,1999-07-01,135000,D,N,F,1
+PO41 0TD,Robins Post,,Main Road,2007-03-23,387500,D,N,F,1
+PO41 0TD,Rosehaven,,Main Road,2020-09-11,335000,D,N,F,1
+PO41 0TD,Sun Cottage,,Main Road,2018-09-28,295000,S,N,F,5
+PO41 0TD,The New House,,Main Road,2015-02-20,275000,D,N,F,1
+PO41 0TD,The Old Sun,,Main Road,2000-01-21,125000,D,N,F,1
+PO41 0TD,Tiggywinkles Cottage,,Main Road,2015-08-21,328000,D,N,F,1
+PO41 0TD,Whiteacre,,Main Road,2008-07-28,405000,D,N,F,3
+PO41 0TE,Bay Cottage,,Main Road,1998-02-17,130000,D,N,F,1
+PO41 0TE,Fairfield,,Main Road,2014-07-17,259000,D,N,F,2
+PO41 0TE,Reads Cottage,,Main Road,2012-05-29,384000,D,N,F,1
+PO41 0TE,The Cedars,,Main Road,1997-07-18,59500,D,N,F,1
+PO41 0TE,Thurleigh,,Main Road,2002-02-08,135000,D,N,F,1
+PO41 0TE,Wellow Cottage,,Main Road,2014-06-27,495000,D,N,F,3
+PO41 0TP,Westway,10,Main Road,2005-06-24,153000,S,N,F,1
+PO41 0TP,Westway,2,Main Road,2017-11-01,250000,S,N,F,3
+PO41 0TP,Westway,5,Main Road,2016-08-24,210000,S,N,F,1
+PO41 0TP,Westway,7,Main Road,2009-01-16,185000,S,N,F,2
+PO41 0TR,Dane Lodge,,Main Road,2011-10-20,363000,D,N,F,2
+PO41 0TR,Marlborough,,Main Road,2014-10-29,265000,D,N,F,4
+PO41 0TR,Notty Apple,,Main Road,2012-05-11,248000,D,N,F,2
+PO41 0TR,Sandy Way,,Main Road,2015-07-14,294000,D,N,F,2
+PO41 0TR,Spring Hill,,Main Road,2019-06-12,600000,D,N,F,2
+PO41 0TR,Tree Top,,Main Road,2004-11-25,190000,D,N,F,1
+PO41 0TR,Well Place,,Main Road,1998-01-27,135000,D,N,F,1
+PO41 0TR,Well Ridge,,Main Road,2019-01-10,425000,D,N,F,3
+PO41 0TU,Avon Rise,,Main Road,1999-04-16,67500,S,N,F,1
+PO41 0TU,Bank Farm Cottage,,Main Road,2014-06-20,450000,D,N,F,1
+PO41 0TU,Bay Tree Cottage,,Main Road,2017-01-16,312000,D,N,F,1
+PO41 0TU,Bedlam,,Main Road,2008-06-12,295950,D,N,F,1
+PO41 0TU,Eastview,,Main Road,2010-07-23,245000,S,N,F,2
+PO41 0TU,Holly Cottage,,Main Road,2008-02-27,240000,S,N,F,1
+PO41 0TU,Mayhem,,Main Road,2009-01-30,250000,D,N,F,2
+PO41 0TU,Old Timbers,1,Main Road,2014-03-27,241500,S,N,F,2
+PO41 0TU,Pippin Hill,,Main Road,2008-09-26,335000,D,N,F,3
+PO41 0TU,Rose Cottage,,Main Road,2004-01-07,61000,T,N,F,1
+PO41 0TU,Stone Cottage,,Main Road,2019-03-27,285000,D,N,F,1
+PO41 0TU,Stone House,,Main Road,2016-10-10,257500,D,N,F,1
+PO41 0TU,Suncot,,Main Road,2017-11-03,275000,S,N,F,2
+PO41 0TU,Sunnyside,3,Main Road,2015-01-30,270000,S,N,F,2
+PO41 0TU,Tangmere,,Main Road,1997-10-10,59000,S,N,F,1
+PO41 0TX,Bornholm,,Main Road,2010-06-25,220000,D,N,F,2
+PO41 0TX,Lavender Cottage,,Main Road,2017-10-20,263000,D,N,F,2
+PO41 0TX,Northlands,,Main Road,2005-09-05,310000,D,N,F,2
+PO41 0TX,Point Close,,Main Road,2020-12-04,345000,D,N,F,1
+PO41 0TY,Hillside,1,Main Road,2019-07-26,253000,S,N,F,2
+PO41 0TY,Hillside,2,Main Road,1995-11-20,30000,S,N,F,1
+PO41 0TY,Sweynestone,,Main Road,1999-10-11,158000,D,N,F,1
+PO41 0UG,Shalcombe Cottage,,Main Road,2016-03-30,355000,D,N,F,2
+PO41 0UR,Alverstone,,Main Road,2015-05-15,415000,S,N,F,1
+PO41 0UR,Amulet,,Main Road,2012-03-02,500000,D,N,F,2
+PO41 0UR,Appletrees,,Main Road,2010-07-02,440000,D,N,F,1
+PO41 0UR,Breezes,,Main Road,2015-09-08,462500,D,N,F,2
+PO41 0UR,Cheriton,,Main Road,1998-05-15,93000,S,N,F,1
+PO41 0UR,Cobblers,,Main Road,2011-06-14,395000,D,N,F,2
+PO41 0UR,Holdefast,,Main Road,2005-10-05,570000,D,N,F,1
+PO41 0UR,La Quinta,,Main Road,2006-09-05,400000,D,N,F,1
+PO41 0UR,Little Kleffens,,Main Road,2017-07-28,365000,S,N,F,3
+PO41 0UR,Mariners Lodge,,Main Road,2012-09-11,555000,D,N,F,2
+PO41 0UR,Moorings,,Main Road,2017-11-29,510000,D,N,F,1
+PO41 0UR,Netherby,,Main Road,1997-11-14,111000,S,N,F,2
+PO41 0UR,Old Harbours,,Main Road,2006-11-01,410000,D,N,F,1
+PO41 0UR,Prospect House,,Main Road,2020-07-21,430000,S,N,F,1
+PO41 0UR,Rofford Firs,,Main Road,2000-01-07,159950,D,N,F,2
+PO41 0UR,Sea House,,Main Road,2011-06-24,860000,D,N,F,3
+PO41 0UR,Seaways,,Main Road,2014-06-27,400000,D,N,F,3
+PO41 0UR,Shoreside,,Main Road,2004-10-12,405000,D,N,F,1
+PO41 0UR,Solent Edge,,Main Road,2011-03-21,510000,D,N,F,3
+PO41 0UR,Solentia,,Main Road,2006-01-16,435000,D,N,F,1
+PO41 0UR,The Bouldnor,,Main Road,1996-05-02,155000,D,N,F,1
+PO41 0UR,Waters Edge,,Main Road,2006-07-28,420000,D,N,F,3
+PO41 0UX,Northmead,,Main Road,2002-12-16,249950,D,N,F,1
+PO41 0UX,Pine Cottage,,Main Road,2012-06-29,475000,D,N,F,2
+PO41 0XA,Little Thatch,,Main Road,2020-08-19,1012500,D,N,F,2
+PO41 0XA,Purbeck House,,Main Road,2017-12-04,532000,D,N,F,2
+PO41 0XA,Sun Cottage,,Main Road,2006-09-26,280000,D,N,F,1
+PO41 0XL,Wing Cottage,,Main Road,2006-01-12,230000,D,N,F,2
+PO41 0XN,Cuckoo Corner,,Main Road,2013-06-25,535000,D,N,F,1
+PO41 0XN,Lee Brickyard Cottage,,Main Road,2001-05-21,120000,S,N,F,1
+PO41 0XN,Lee Brickyard Cottage,2,Main Road,2005-03-11,163000,S,N,F,1
+PO41 0YR,Crossways,3,Main Road,2000-12-15,84000,T,N,F,1
+PO41 0YR,Crossways,4,Main Road,2017-09-01,268000,S,N,F,3
+PO41 0QY,Mill Creek Cottage,,Mill Lane,1997-08-15,165000,D,N,F,1
+PO41 0QZ,Tides Reach,3,Mill Road,2004-03-29,156500,F,N,L,2
+PO41 0QZ,Tides Reach,5,Mill Road,2015-08-11,172000,F,N,L,1
+PO41 0QZ,Tideways,,Mill Road,2012-08-21,510000,D,N,F,2
+PO41 0RA,Boaters,,Mill Road,2014-10-02,425000,D,N,F,3
+PO41 0RA,Fernlea,,Mill Road,2006-11-22,582500,D,N,F,2
+PO41 0RA,Fishermans Cottages,1,Mill Road,2008-08-08,380000,T,N,F,1
+PO41 0RA,Fishermans Cottages,2,Mill Road,2008-08-22,380000,T,N,F,1
+PO41 0RA,Fishermans Cottages,3,Mill Road,2009-09-30,310000,T,N,F,1
+PO41 0RA,Fishermans Cottages,4,Mill Road,2008-10-24,315000,T,N,F,1
+PO41 0RA,Fishermans Cottages,5,Mill Road,2007-10-31,409000,S,N,F,1
+PO41 0RA,Fishermans Cottages,6,Mill Road,2008-10-24,310000,S,N,F,1
+PO41 0RA,River House,,Mill Road,2015-03-20,625000,D,N,F,3
+PO41 0RA,Summer Cottage,,Mill Road,2006-08-04,310000,D,N,F,2
+PO41 0RA,West View,,Mill Road,2011-03-22,375000,D,N,F,1
+PO41 0RE,1 Yar Cottages,,Mill Road,2012-11-05,250000,T,Y,F,1
+PO41 0RE,2 Yar Cottages,,Mill Road,2013-09-27,231500,T,Y,F,1
+PO41 0RE,3 Yar Cottages,,Mill Road,2012-10-25,245000,T,Y,L,1
+PO41 0RE,5 Yar Cottages,,Mill Road,2013-03-25,365000,T,Y,F,1
+PO41 0RE,Yar Cottages,4,Mill Road,2017-10-09,312000,T,N,F,1
+PO41 0RE,Yar Cottages,6,Mill Road,2016-11-09,299500,S,N,F,2
+PO41 0YJ,East Tapnell Cottage,,Newport Road,2000-04-20,129500,S,N,F,1
+PO41 0YJ,Garden Cottage,,Newport Road,1999-03-31,148500,D,Y,F,1
+PO41 0YJ,Larkfield Cottage,,Newport Road,2012-09-24,265000,S,N,F,4
+PO41 0YJ,Stockbridge Cottage,,Newport Road,2014-04-24,265000,T,N,F,1
+PO41 0YJ,Tapnell Cottage,4,Newport Road,2006-02-09,190000,S,N,F,1
+PO41 0YJ,The Barns,,Newport Road,2012-03-30,435000,T,N,F,1
+PO41 0YJ,West Cottage,,Newport Road,1998-04-29,78000,S,N,F,2
+PO41 0XP,Briarfield,,Ningwood Hill,1997-03-21,48000,D,N,F,1
+PO41 0XP,Cewood House,,Ningwood Hill,2020-09-11,640000,D,N,F,2
+PO41 0XP,Cranleigh,,Ningwood Hill,2013-10-10,334000,D,N,F,1
+PO41 0XP,Hillcrest,,Ningwood Hill,1999-09-01,127500,D,N,F,1
+PO41 0XP,Springfields,,Ningwood Hill,2019-05-14,600000,D,N,F,4
+PO41 0XP,Trees,,Ningwood Hill,2003-06-20,131000,D,N,F,1
+PO41 0XP,Whitegates Lodge,,Ningwood Hill,2014-03-17,360000,D,N,F,1
+PO41 0XP,Woodbury,,Ningwood Hill,2009-10-16,330000,D,N,F,1
+PO41 0XW,Cranmore Lodge,,Ningwood Hill,2002-07-12,246450,D,N,F,1
+PO41 0XW,Eversleigh,,Ningwood Hill,1996-08-09,65000,D,N,F,1
+PO41 0PL,1,,Old Bakery Mews,2011-07-29,235000,T,N,F,4
+PO41 0PL,2,,Old Bakery Mews,2014-05-23,265000,T,N,F,3
+PO41 0QA,2,,Ommanney Road,2004-10-01,235000,T,N,F,1
+PO41 0QA,3,,Ommanney Road,2020-11-06,335000,T,N,F,2
+PO41 0QA,7A,,Ommanney Road,2006-02-02,192500,F,N,L,4
+PO41 0QA,7B,,Ommanney Road,2012-12-19,207500,F,N,L,3
+PO41 0QA,Cleveland,,Ommanney Road,2014-08-05,300000,T,N,F,2
+PO41 0QA,Collingwood,,Ommanney Road,2010-01-05,320000,S,N,F,4
+PO41 0QA,Elm Cottage,,Ommanney Road,1999-07-12,180000,D,N,F,1
+PO41 0QA,Florence Villa,,Ommanney Road,2017-06-02,320000,S,N,F,4
+PO41 0QA,Gorse,,Ommanney Road,2018-10-12,355000,T,N,F,2
+PO41 0QA,Holmwood,,Ommanney Road,2014-03-17,312500,S,N,F,1
+PO41 0QA,Kent Villa,,Ommanney Road,2015-02-16,380000,T,N,F,2
+PO41 0QA,Lambda,,Ommanney Road,1996-05-03,80000,S,N,F,1
+PO41 0QA,Laurel Cottage,,Ommanney Road,2008-07-25,310000,T,N,F,2
+PO41 0QA,Myrtle Cottage,,Ommanney Road,2013-07-01,325000,S,N,F,3
+PO41 0QA,Orman Cottage,,Ommanney Road,1997-07-31,71000,S,N,F,1
+PO41 0QA,Pendeen,,Ommanney Road,2018-05-14,372500,T,N,F,4
+PO41 0QA,Pilots House,,Ommanney Road,2015-09-28,320000,S,N,F,3
+PO41 0QA,Rose Cottage,,Ommanney Road,2017-12-15,353500,S,N,F,2
+PO41 0QA,Rose Villa,,Ommanney Road,2010-12-03,360000,S,N,F,2
+PO41 0QA,The Broke,,Ommanney Road,2012-09-12,286000,S,N,F,1
+PO41 0QA,The Retreat,,Ommanney Road,2017-08-02,350000,S,N,F,1
+PO41 0QA,Tumble-Home,,Ommanney Road,2019-07-31,300000,S,N,F,1
+PO41 0QA,Westerlies,,Ommanney Road,1998-10-14,87000,S,N,F,1
+PO41 0UU,Plantation House,,Port La Salle,1998-09-10,562500,D,N,F,1
+PO41 0XD,15,,Port La Salle,2005-11-04,385000,D,N,F,3
+PO41 0XD,17,,Port La Salle,2018-11-01,725000,D,N,F,5
+PO41 0XD,18,,Port La Salle,2015-12-11,340000,D,N,F,2
+PO41 0XD,2,,Port La Salle,2009-12-07,175000,D,N,F,1
+PO41 0XD,21,,Port La Salle,2013-03-28,467500,D,N,F,3
+PO41 0XD,22,,Port La Salle,2009-10-29,330000,D,N,F,3
+PO41 0XD,3,,Port La Salle,2012-09-12,226000,S,N,F,5
+PO41 0XD,"Jumbles, 19",,Port La Salle,2018-12-11,665000,D,N,F,5
+PO41 0YP,Caernarvon Lodge,,Port La Salle,2011-08-19,467500,D,N,F,2
+PO41 0YP,Caernarvon Point,,Port La Salle,2006-06-01,355000,T,N,F,1
+PO41 0YP,Carnarvon House,,Port La Salle,2011-12-01,649000,T,N,F,1
+PO41 0YP,Chantry,,Port La Salle,2006-09-13,715000,T,N,F,1
+PO41 0YP,Middle House,,Port La Salle,1997-02-03,35000,T,Y,F,1
+PO41 0YP,Seahaven,,Port La Salle,2009-09-24,800000,T,N,F,2
+PO41 0YP,The Orangery,,Port La Salle,2013-08-15,480000,D,N,F,1
+PO41 0QU,1,,Providence Villas,2020-10-14,351000,S,N,F,1
+PO41 0PB,St James Court,Flat 1,Quay Street,2008-06-13,162500,F,N,L,2
+PO41 0PB,St James Court,Flat 2,Quay Street,2002-03-15,85000,F,N,L,2
+PO41 0PB,St James Court,Flat 3,Quay Street,2015-05-29,97500,F,N,L,2
+PO41 0PB,St James Court,Flat 4,Quay Street,2007-05-04,163000,F,N,L,5
+PO41 0PB,St James Court,Flat 5,Quay Street,2002-08-27,70000,F,N,L,3
+PO41 0PB,St James Court,Flat 6,Quay Street,2000-04-19,59000,F,N,L,2
+PO41 0RT,Westbrook,,Sconce Road,2011-07-01,305000,D,N,F,1
+PO41 0RT,Woodlands,,Sconce Road,2020-02-11,400000,D,N,F,1
+PO41 0XU,Cliff Cottage,,Seaview Road,2019-07-29,950000,D,N,F,2
+PO41 0XU,Greenwood,,Seaview Road,2018-12-17,978500,D,N,F,1
+PO41 0XU,High Oaks,,Seaview Road,2015-07-31,100000,D,N,F,1
+PO41 0XU,Oak Lodge,,Seaview Road,2008-09-26,250000,D,N,F,1
+PO41 0XU,Peveril,,Seaview Road,2011-04-28,375000,D,N,F,1
+PO41 0XU,The Heights,,Seaview Road,2002-07-02,125000,D,N,F,1
+PO41 0XY,Berehaven Cottage,,Solent Road,1999-08-03,110000,D,N,F,2
+PO41 0XY,Cedar Lodge,,Solent Road,2017-08-04,310000,D,N,F,1
+PO41 0XY,Kensal,,Solent Road,2007-05-31,263000,D,N,F,1
+PO41 0XY,Little Spinney,,Solent Road,2009-09-30,60000,D,N,F,1
+PO41 0XY,Petts Wood,,Solent Road,2020-12-04,650000,D,N,F,1
+PO41 0XY,Speedwell,,Solent Road,2017-09-01,310000,D,N,F,1
+PO41 0XY,Tanglewood,,Solent Road,2020-11-03,599950,D,N,F,2
+PO41 0XY,Tree Tops,,Solent Road,2015-03-16,225000,D,N,F,1
+PO41 0XY,Westfield,,Solent Road,2015-03-04,250000,D,N,F,2
+PO41 0XZ,Green Acres,,Solent Road,1998-03-06,80000,D,N,F,1
+PO41 0XZ,Robins Bush,,Solent Road,2002-02-01,175000,D,N,F,1
+PO41 0XZ,Silver Birches,,Solent Road,2019-01-29,257500,D,N,F,2
+PO41 0XZ,Westlands,,Solent Road,2007-10-16,415000,D,N,F,2
+PO41 0XZ,Woodbine Cottage,,Solent Road,2018-08-29,467000,D,N,F,2
+PO41 0QB,Gordon House,Flat 1,South Street,2008-05-23,175000,F,N,L,2
+PO41 0QB,Gordon House,Flat 2,South Street,2016-10-06,137000,F,N,L,3
+PO41 0QB,Gordon House,Flat 3,South Street,2002-11-21,76000,F,N,L,1
+PO41 0QB,Sandsfoot,,South Street,2007-08-01,390000,T,N,F,2
+PO41 0QD,The Old Dairy,2,South Street,2017-08-25,280000,T,N,F,4
+PO41 0QD,Two Grove Place,,South Street,1996-12-06,60000,S,N,F,1
+PO41 0QD,Uvedale House,,South Street,2001-11-28,190000,D,N,F,1
+PO41 0QE,Grove House,,South Street,2005-11-08,795000,D,N,F,1
+PO41 0QE,Halfway,,South Street,2010-10-01,285000,T,N,F,2
+PO41 0QE,Marstan Mews,,South Street,2016-03-31,385000,S,N,F,1
+PO41 0QE,Plevna House,,South Street,1999-09-17,243000,S,N,F,1
+PO41 0QE,The Anchorage,1,South Street,2014-06-27,141500,S,N,F,2
+PO41 0QF,Victoria Cottage,,South Street,1998-09-04,148000,D,N,F,2
+PO41 0QG,1,,South Street,2003-06-02,230000,T,N,F,1
+PO41 0QG,"May Cottage, 1",,South Street,2016-06-30,210000,T,N,F,2
+PO41 0QG,Tyntern,,South Street,2000-09-19,95000,T,N,F,1
+PO41 0QH,5 Coronation Cottages,,South Street,2012-09-05,210000,T,N,F,1
+PO41 0QH,Coronation Cottage,5,South Street,1999-09-20,85000,T,N,F,1
+PO41 0QH,Coronation Cottages,2,South Street,2014-10-02,260000,T,N,F,3
+PO41 0QH,Coronation Cottages,4,South Street,2015-01-23,250000,T,N,F,3
+PO41 0QH,Little End,,South Street,2017-09-04,275000,D,N,F,1
+PO41 0QH,Tap Cottage,,South Street,1996-07-11,45000,T,N,F,1
+PO41 0PA,4,,St James Close,2017-12-15,585000,D,N,F,4
+PO41 0PA,Orchards,,St James Close,2004-01-30,310000,D,N,F,1
+PO41 0PA,Seton,,St James Close,2016-08-08,540000,D,N,F,2
+PO41 0PA,Snape House,,St James Close,2006-05-15,400000,D,N,F,1
+PO41 0NU,Clematis Cottage,,St James Street,2015-11-06,322000,S,N,F,1
+PO41 0NU,Ivy Cottage,,St James Street,2017-02-06,773000,D,N,F,2
+PO41 0NU,Port House,,St James Street,1997-07-16,188000,T,N,F,1
+PO41 0NU,St. James House,,St James Street,1998-10-30,269000,D,N,F,3
+PO41 0NU,The Cottage,,St James Street,2013-12-17,460000,T,N,F,2
+PO41 0NU,Windward,,St James Street,2014-07-30,281250,D,N,F,2
+PO41 0UT,13,,St Swithins Crescent,2018-02-26,183000,S,N,F,2
+PO41 0UT,14,,St Swithins Crescent,2018-02-16,190000,S,N,F,2
+PO41 0UT,17,,St Swithins Crescent,2004-02-27,134500,S,N,F,1
+PO41 0UT,5,,St Swithins Crescent,2019-03-01,256000,S,N,F,4
+PO41 0UT,8,,St Swithins Crescent,2020-10-29,191000,T,N,F,1
+PO41 0QP,Woodsway,,Station Road,2014-04-08,285000,D,N,F,2
+PO41 0QT,Bramleys,,Station Road,2017-06-01,284000,S,N,F,2
+PO41 0QT,Brettargh Cottage,,Station Road,2019-01-31,277000,S,N,F,1
+PO41 0QT,Eastholme,,Station Road,2020-07-30,360000,S,N,F,4
+PO41 0QT,Ida Cottage,,Station Road,2020-11-23,315000,S,N,F,3
+PO41 0QT,Ingleton,,Station Road,2017-06-27,290000,S,N,F,1
+PO41 0QT,Merrilees,,Station Road,2018-09-13,325000,S,N,F,2
+PO41 0QT,Nestleton,,Station Road,2020-11-16,380000,S,N,F,3
+PO41 0QT,Thorley Brook,,Station Road,2013-07-30,232000,S,N,F,3
+PO41 0QT,Yarvista,,Station Road,2017-11-29,320000,S,N,F,2
+PO41 0QU,Claremont,,Station Road,2004-03-05,139000,S,N,F,1
+PO41 0QX,5,,Station Road,2012-09-11,272000,D,N,F,1
+PO41 0QX,Alvina Cottage,,Station Road,2012-03-05,277500,S,N,F,4
+PO41 0QX,Cambria,,Station Road,1999-12-07,132500,D,N,F,1
+PO41 0QX,Ermelo Cottage,,Station Road,2000-03-07,122500,S,N,F,2
+PO41 0QX,Heronshaw,,Station Road,2019-04-11,569950,D,N,F,3
+PO41 0QX,Hope Cove,,Station Road,2014-02-14,345000,D,N,F,1
+PO41 0QX,River Cottage,,Station Road,2000-03-02,80000,D,N,F,1
+PO41 0QX,St Michael,,Station Road,2020-11-06,405000,D,N,F,3
+PO41 0QX,The Gamble,,Station Road,2001-06-01,80000,S,N,F,1
+PO41 0QX,Threeways,,Station Road,1995-07-28,52000,D,N,F,1
+PO41 0QX,Waterside,,Station Road,2018-09-28,308000,D,N,F,3
+PO41 0TH,Barberry,,Station Road,2019-02-01,480000,D,N,F,3
+PO41 0TH,Field Cottage,,Station Road,2015-11-27,475000,D,N,F,3
+PO41 0TH,Meadow Cottage,,Station Road,1996-06-14,130500,D,N,F,1
+PO41 0TH,Westerly,,Station Road,2015-05-22,325000,D,N,F,1
+PO41 0TN,Tanglewood,,Station Road,2020-02-28,445000,D,N,F,1
+PO41 0TQ,Cedarwood Cottage,,Station Road,2016-08-30,320000,D,N,F,2
+PO41 0TQ,Myrtle Cottage,,Station Road,2019-08-09,619670,D,N,F,1
+PO41 0TQ,Ningwood Green Barn,,Station Road,2017-07-14,800000,S,N,F,1
+PO41 0TQ,Stone Close,,Station Road,2012-05-22,470000,D,N,F,2
+PO41 0TQ,Stonecot,,Station Road,2020-01-28,385000,D,N,F,2
+PO41 0TQ,Sun Meadow,,Station Road,2004-05-20,120000,D,N,F,1
+PO41 0TQ,The Cottage,,Station Road,2018-05-31,340000,D,N,F,2
+PO41 0SP,Owls Mead,,Tattels Lane,2007-05-18,185000,D,N,F,1
+PO41 0SP,Tattels Cottages,2,Tattels Lane,1999-09-13,73000,S,N,F,1
+PO41 0SR,Pinewood End,1,Tattels Lane,2019-11-12,475000,D,N,F,1
+PO41 0SW,Brambly Hedge,,Tattels Lane,1999-10-20,112000,D,N,F,2
+PO41 0SW,Freshfields,,Tattels Lane,2006-10-19,232500,D,N,F,3
+PO41 0SW,Lark Rise,,Tattels Lane,2005-02-04,207000,S,N,F,1
+PO41 0SW,"The Moorings, 2",,Tattels Lane,1999-04-23,85000,S,N,F,1
+PO41 0PT,3,,Tennyson Close,1995-10-02,72000,D,N,F,1
+PO41 0PT,South Bank,,Tennyson Close,2016-10-11,389000,D,N,F,3
+PO41 0PT,Wahroonga,,Tennyson Close,2020-03-20,405000,D,N,F,1
+PO41 0PT,Westport Cottage,,Tennyson Close,2016-08-19,510000,D,N,F,2
+PO41 0PU,Park Cottage,,Tennyson Close,2011-08-18,500000,D,N,F,2
+PO41 0PR,Bay Tree House,,Tennyson Road,2004-08-25,430000,D,N,F,2
+PO41 0PR,Easterholme,,Tennyson Road,2018-12-07,390000,D,N,F,1
+PO41 0PR,Garth House,,Tennyson Road,1997-06-04,115000,D,N,F,1
+PO41 0PR,Holly Oaks,,Tennyson Road,2002-09-30,320000,D,N,F,1
+PO41 0PR,Holmes Court,4,Tennyson Road,2000-08-31,88000,S,N,F,1
+PO41 0PS,Mountfield,1,Tennyson Road,2005-05-06,195000,S,N,F,2
+PO41 0PS,Mountfield,4,Tennyson Road,2003-12-08,152500,S,N,F,1
+PO41 0PS,Mountfield,6,Tennyson Road,2012-12-19,190000,S,N,F,4
+PO41 0PX,Cornerways,,Tennyson Road,2020-08-14,485000,D,N,F,2
+PO41 0PX,Elm Villa,,Tennyson Road,2017-06-16,190000,S,N,F,2
+PO41 0PX,Gravosa,,Tennyson Road,1998-08-28,110000,D,N,F,1
+PO41 0PX,Hazeldene,,Tennyson Road,2005-09-05,315000,D,N,F,2
+PO41 0PX,Malaya,,Tennyson Road,1998-03-13,78000,D,N,F,1
+PO41 0PX,Rosemead,,Tennyson Road,2013-05-20,265000,D,N,F,3
+PO41 0PX,South-Lynn,,Tennyson Road,2004-05-10,164500,S,N,F,1
+PO41 0QJ,Modwena,,Tennyson Road,2013-07-31,234000,D,N,F,3
+PO41 0QJ,Norton Cottage,,Tennyson Road,2004-01-14,185000,D,N,F,1
+PO41 0QJ,Old Walls,,Tennyson Road,2010-03-12,247500,D,N,F,1
+PO41 0QJ,Rose Cottage,,Tennyson Road,2006-11-14,395000,T,N,F,1
+PO41 0QL,Sixpenny Corner,,Tennyson Road,2017-10-08,185000,T,N,F,3
+PO41 0QN,Harbour Lee,Ground Floor Flat,Tennyson Road,2019-05-01,145000,F,N,L,3
+PO41 0QN,Jubilee Villa,,Tennyson Road,2018-11-15,415000,D,N,F,3
+PO41 0QN,River Lee,First Floor Flat,Tennyson Road,2007-10-12,163000,F,N,L,1
+PO41 0QN,Southford,1,Tennyson Road,2009-10-26,325000,S,N,F,2
+PO41 0PZ,11,,The Glen,2014-05-19,295000,T,N,F,1
+PO41 0PZ,14,,The Glen,1998-02-24,85000,T,N,F,1
+PO41 0PZ,16,,The Glen,2015-10-01,322500,T,N,F,2
+PO41 0PZ,3,,The Glen,2019-10-08,283000,T,N,F,2
+PO41 0PZ,7,,The Glen,2015-05-15,310000,S,N,F,2
+PO41 0PZ,9,,The Glen,2016-12-12,310000,T,N,F,1
+PO41 0RB,10,,The Mount,2011-09-29,425000,D,N,F,1
+PO41 0RB,11,,The Mount,2015-08-21,382500,D,N,F,1
+PO41 0RB,12,,The Mount,2015-01-23,436000,D,N,F,1
+PO41 0RB,13,,The Mount,2013-11-01,250000,T,N,F,1
+PO41 0RB,14,,The Mount,2020-09-18,390000,T,N,F,3
+PO41 0RB,15,,The Mount,1996-04-03,90111,T,N,F,1
+PO41 0RB,16,,The Mount,2016-10-28,300000,S,N,F,2
+PO41 0RB,17,,The Mount,1998-05-27,117000,T,N,F,1
+PO41 0RB,3,,The Mount,2006-06-30,605000,D,N,F,2
+PO41 0RB,4,,The Mount,1999-01-27,230000,D,N,F,1
+PO41 0RB,5,,The Mount,2017-11-03,725000,D,N,F,4
+PO41 0RB,6,,The Mount,2017-03-23,625000,D,N,F,1
+PO41 0RB,7,,The Mount,2006-09-08,535000,D,N,F,2
+PO41 0RB,9,,The Mount,2016-12-05,430000,D,N,F,1
+PO41 0RB,"Chartfield, 3",,The Mount,2011-02-23,780000,D,N,F,1
+PO41 0RB,Mount Lodge,1,The Mount,2007-07-19,450000,S,N,F,1
+PO41 0RB,Mount Lodge,2,The Mount,2007-07-27,375000,S,N,F,2
+PO41 0PQ,4,,The Quay,2010-08-26,330000,T,N,F,2
+PO41 0NP,Dolphin Cottage,,The Square,2013-11-12,725000,D,N,F,3
+PO41 0NP,The House,,The Square,2011-05-12,140000,F,N,F,1
+PO41 0NP,The House,Flat 1,The Square,2007-01-19,200000,F,Y,L,1
+PO41 0NS,"Marlborough House, 2",,The Square,2004-04-06,190000,F,N,L,3
+PO41 0NS,Seville House,Flat 1,The Square,2005-09-29,145000,F,N,L,3
+PO41 0NS,Seville House,Flat 2,The Square,2006-05-24,140000,F,N,L,2
+PO41 0NS,Seville House,Flat 3,The Square,2001-11-21,67500,T,N,L,2
+PO41 0NS,Seville House,Flat 4,The Square,2006-11-24,80000,F,N,L,3
+PO41 0NS,The Corner,Flat,The Square,2002-03-22,200000,F,N,L,2
+PO41 0XE,10,,The Vineyard,2019-08-08,242000,T,N,L,4
+PO41 0XE,11,,The Vineyard,2014-09-16,150000,S,N,L,2
+PO41 0XE,12,,The Vineyard,2016-03-02,155000,S,N,L,2
+PO41 0XE,14,,The Vineyard,2000-06-01,68000,T,N,L,1
+PO41 0XE,15,,The Vineyard,2019-09-11,175000,F,N,L,5
+PO41 0XE,16,,The Vineyard,2017-04-04,162000,T,N,L,2
+PO41 0XE,17,,The Vineyard,1999-03-02,76500,D,N,L,1
+PO41 0XE,18,,The Vineyard,2012-08-31,135000,T,N,L,2
+PO41 0XE,19,,The Vineyard,2015-02-16,130000,T,N,L,2
+PO41 0XE,2,,The Vineyard,2011-03-29,137000,S,N,L,4
+PO41 0XE,20,,The Vineyard,2020-12-17,168000,T,N,L,3
+PO41 0XE,21,,The Vineyard,2015-04-30,137000,T,N,L,4
+PO41 0XE,22,,The Vineyard,2018-01-03,145000,T,N,L,4
+PO41 0XE,23,,The Vineyard,2005-05-26,187500,D,Y,L,1
+PO41 0XE,24,,The Vineyard,2005-07-07,196000,D,Y,L,1
+PO41 0XE,25,,The Vineyard,2014-11-04,205000,D,N,L,2
+PO41 0XE,26,,The Vineyard,2007-02-12,168000,D,N,L,1
+PO41 0XE,27,,The Vineyard,2016-09-06,185000,S,N,L,3
+PO41 0XE,28,,The Vineyard,2013-09-10,122500,F,N,L,3
+PO41 0XE,29,,The Vineyard,2019-07-26,144000,F,N,L,2
+PO41 0XE,3,,The Vineyard,2019-01-31,240000,T,N,L,1
+PO41 0XE,31,,The Vineyard,2019-03-13,142500,F,N,L,2
+PO41 0XE,32,,The Vineyard,2006-03-04,142500,F,Y,L,1
+PO41 0XE,33,,The Vineyard,2015-08-05,136800,F,N,L,3
+PO41 0XE,34,,The Vineyard,2017-04-12,125000,F,N,L,1
+PO41 0XE,35,,The Vineyard,2017-06-05,157000,F,N,L,2
+PO41 0XE,4,,The Vineyard,1995-09-15,57000,T,N,L,1
+PO41 0XE,5,,The Vineyard,2020-07-13,255950,T,N,L,5
+PO41 0XE,6,,The Vineyard,2017-09-11,255000,S,N,L,4
+PO41 0XE,7,,The Vineyard,2006-07-07,237000,T,N,L,2
+PO41 0XE,8,,The Vineyard,2019-10-28,235000,F,N,L,2
+PO41 0XE,9,,The Vineyard,2003-10-09,149950,T,N,L,1
+PO41 0SH,Casita,,Thorley Road,2019-11-01,360000,D,N,F,1
+PO41 0SH,Downs Cottage,,Thorley Road,2013-10-21,459000,D,N,F,2
+PO41 0SH,Rofford Cottage,,Thorley Road,2009-06-11,246000,D,N,F,1
+PO41 0SH,Rofford Lodge,,Thorley Road,2003-09-24,160000,D,N,F,1
+PO41 0SH,Sunset Cottage,,Thorley Road,2014-01-17,250000,S,N,F,1
+PO41 0SH,Watermeadows,,Thorley Road,2017-04-12,472000,D,N,F,1
+PO41 0SJ,The Farmyard,,Thorley Road,2006-07-06,250000,D,N,F,1
+PO41 0QW,Belmont,,Victoria Road,2009-09-21,525000,D,N,F,1
+PO41 0QW,Belvedere,,Victoria Road,2006-07-07,285000,D,N,F,2
+PO41 0QW,Elston,,Victoria Road,2013-10-14,540000,D,N,F,3
+PO41 0QW,Garfield,,Victoria Road,2002-10-31,230000,D,N,F,3
+PO41 0QW,Glen Elva,,Victoria Road,2000-01-28,110000,S,N,F,2
+PO41 0QW,Glen Thorne,,Victoria Road,2002-05-02,165000,S,N,F,1
+PO41 0QW,Haslemere,,Victoria Road,2005-12-16,280000,S,N,F,1
+PO41 0QW,Haven Cottage,,Victoria Road,2005-10-12,245000,D,N,F,1
+PO41 0QW,Kingsmead,,Victoria Road,2009-09-04,370000,D,N,F,1
+PO41 0QW,Riverside,,Victoria Road,2008-02-07,417000,S,N,F,1
+PO41 0QW,Ruston,,Victoria Road,2019-11-26,560000,D,N,F,1
+PO41 0QW,South House,,Victoria Road,2018-10-03,355000,S,N,F,2
+PO41 0QW,St Hilda,,Victoria Road,2012-10-25,345000,S,N,F,2
+PO41 0QW,West View,5,Victoria Road,2014-09-30,250000,S,N,F,1
+PO41 0QW,West View,7,Victoria Road,2004-02-03,200000,S,N,F,1
+PO41 0QW,West View,8,Victoria Road,2017-10-04,335000,S,N,F,3
+PO41 0QW,Yar Cottage,,Victoria Road,2019-09-16,189000,D,N,L,3
+PO41 0XB,1,,Waters Edge,2014-03-05,463000,D,N,F,1
+PO41 0XB,10,,Waters Edge,2020-03-31,630000,D,N,F,1
+PO41 0XB,11,,Waters Edge,1999-06-04,187500,D,N,F,2
+PO41 0XB,12,,Waters Edge,1998-01-05,47000,D,Y,F,1
+PO41 0XB,15,,Waters Edge,2017-03-15,485000,D,N,F,2
+PO41 0XB,16,,Waters Edge,2000-05-09,135000,S,N,F,1
+PO41 0XB,17,,Waters Edge,1998-07-27,118500,D,N,F,1
+PO41 0XB,3,,Waters Edge,2016-01-15,762000,D,N,F,1
+PO41 0XB,4,,Waters Edge,2005-01-07,450000,D,N,F,2
+PO41 0XB,5,The Pines,Waters Edge,2017-11-10,897500,D,N,F,2
+PO41 0XB,7,,Waters Edge,2018-08-24,969000,D,N,F,3
+PO41 0XB,"Chartways, 4",,Waters Edge,2013-07-08,795000,D,N,F,1
+PO41 0LB,1,,Wellington Square,2004-01-23,126634,S,N,F,2
+PO41 0LB,10,,Wellington Square,2001-09-25,110000,S,Y,F,1
+PO41 0LB,2,,Wellington Square,2003-12-22,195000,S,N,F,2
+PO41 0LB,3,,Wellington Square,2012-04-03,317500,T,N,F,3
+PO41 0LB,5,,Wellington Square,2005-06-16,295000,T,N,F,2
+PO41 0LB,6,,Wellington Square,2018-08-16,334000,T,N,F,4
+PO41 0LB,7,,Wellington Square,2001-09-05,170000,S,Y,F,1
+PO41 0LB,8,,Wellington Square,2015-03-11,295000,T,N,F,3
+PO41 0LB,9,,Wellington Square,2014-03-31,320000,S,N,F,2
+PO41 0TG,Bluebell Cottage,,Wellow Road,2011-03-29,332000,S,N,F,3
+PO41 0TG,Manorfields,,Wellow Road,2020-04-02,380000,D,N,F,1
+PO41 0TG,Ningwood Cottage,,Wellow Road,2000-08-03,93500,S,N,F,1
+PO41 0TG,Ningwood Old Station,,Wellow Road,2014-12-08,395000,D,N,F,1
+PO41 0TA,Elm Grange,,Wellow Top Road,1996-08-27,153000,D,N,F,1
+PO41 0TA,Greenfields,,Wellow Top Road,2020-10-02,342000,D,N,F,1
+PO41 0TA,High Bank,,Wellow Top Road,2007-07-16,225000,D,N,F,1
+PO41 0TA,Sixpenny Cottage,,Wellow Top Road,2006-10-12,150000,D,N,F,3
+PO41 0TA,South View,1,Wellow Top Road,2003-06-30,160000,T,N,F,1
+PO41 0TA,South View,2,Wellow Top Road,2003-06-30,100000,T,N,F,1
+PO41 0TA,Wellow Green Cottage,,Wellow Top Road,2008-01-25,265000,D,N,F,1
+PO41 0TA,Wellow Post Office,,Wellow Top Road,2011-08-17,200000,T,N,F,2
+PO41 0TA,Windrush,,Wellow Top Road,2016-06-07,440000,D,N,F,2
+PO41 0TB,Alma Cottage,,Wellow Top Road,2020-12-04,490000,D,N,F,1
+PO41 0TB,Pebbles,,Wellow Top Road,2000-09-25,112500,S,N,F,1
+PO41 0TL,Larachbeg,,Wellow Top Road,2010-09-10,435000,D,N,F,3
+PO41 0TL,The Firs,2,Wellow Top Road,2018-10-16,245000,S,N,F,1
+PO41 0XT,Brackendene,,West Close,2002-08-16,190000,D,N,F,1
+PO41 0XT,Cedar Cottage,,West Close,2016-06-20,230000,D,N,F,1
+PO41 0XT,Green Acres,,West Close,2011-10-21,250000,D,N,F,3
+PO41 0NA,Alexandra Cottages,1,Westhill Lane,2002-12-17,495000,D,N,F,1
+PO41 0NA,Alexandra Cottages,2,Westhill Lane,2000-02-09,175000,S,N,F,1
+PO41 0NA,Alexandra Cottages,3,Westhill Lane,2000-02-16,174000,S,Y,F,1
+PO41 0NA,Alexandra Cottages,4,Westhill Lane,2007-03-29,350000,S,N,F,1
+PO41 0NA,Alexandra Cottages,5,Westhill Lane,2018-12-10,384000,S,N,F,3
+PO41 0NA,Villa Victoria,,Westhill Lane,2012-12-14,580000,D,N,F,1
+PO41 0NB,Beatrice Cottages,1,Westhill Lane,2020-07-21,465000,S,N,F,3
+PO41 0NB,Beatrice Cottages,2,Westhill Lane,1999-08-02,155000,S,Y,F,1
+PO41 0NB,Beatrice Cottages,3,Westhill Lane,1999-07-07,154000,S,Y,F,1
+PO41 0NB,Beatrice Cottages,4,Westhill Lane,1998-12-16,143500,S,Y,F,1
+PO41 0NB,Beatrice Cottages,5,Westhill Lane,2013-11-28,380000,S,N,F,3
+PO41 0NB,Beatrice Cottages,6,Westhill Lane,1998-09-15,145000,T,Y,F,1
+PO41 0RW,Cherry Trees,,Westhill Lane,1998-09-03,215000,D,N,F,1
+PO41 0RW,Fairfield,,Westhill Lane,2005-12-12,265000,D,N,F,1
+PO41 0RW,Farleys End,,Westhill Lane,2012-01-06,255000,D,N,F,2
+PO41 0RW,Floreat,,Westhill Lane,2019-07-31,410000,D,N,F,2
+PO41 0RW,Highgate,,Westhill Lane,2004-12-17,232500,D,N,F,2
+PO41 0RW,Kent Cottage,,Westhill Lane,2019-03-01,420000,D,N,F,1
+PO41 0RW,Rosebarton,,Westhill Lane,1997-08-01,90000,D,N,F,1
+PO41 0RW,Shardon,,Westhill Lane,2004-11-02,230000,D,N,F,2
+PO41 0RW,Westward,,Westhill Lane,1999-07-23,138000,D,N,F,1
+PO41 0PF,Damian House,Flat 1,Wheatsheaf Lane,2002-01-30,85000,F,N,L,1
+PO41 0PF,Damian House,Flat 2,Wheatsheaf Lane,2016-02-09,164000,F,N,L,2
+PO41 0PF,Damian House,Flat 3,Wheatsheaf Lane,2006-10-16,144000,F,N,L,1
+PO41 0SL,4,,Wilmingham Lane,2000-05-04,40000,D,N,F,1
+PO41 0RY,Blue Hayes,,Worsley Road,2009-05-29,242500,D,N,F,3
+PO41 0RY,Casabella,,Worsley Road,2003-10-01,220000,D,N,F,2
+PO41 0RY,Hybank,,Worsley Road,2014-11-28,235000,D,N,F,1
+PO41 0RY,Oakwood,,Worsley Road,1997-10-28,120000,D,N,F,1
+PO41 0RY,The Cottage,,Worsley Road,2019-09-02,280000,D,N,F,2
+PO41 0RY,Treeside,,Worsley Road,2016-09-06,330000,D,N,F,1
+PO41 0RY,Westhill Barn,,Worsley Road,2020-12-04,479000,S,N,F,2
+PO41 0RY,Westhill Cottage,,Worsley Road,2014-10-30,315000,D,N,F,1
+PO41 0RY,Westwood,,Worsley Road,2019-01-10,385000,D,N,F,1

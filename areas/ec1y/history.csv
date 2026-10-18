@@ -1,0 +1,913 @@
+postcode,paon,saon,street,date,price,type,new,tenure,sales
+EC1Y 0UJ,10,Flat 1,Baltic Street East,2000-01-14,210000,F,N,L,1
+EC1Y 0UJ,10,Flat 2,Baltic Street East,2000-02-02,249765,F,Y,L,1
+EC1Y 0UJ,10,Ground Floor,Baltic Street East,2005-09-21,141000,F,N,L,1
+EC1Y 0UJ,12,,Baltic Street East,1998-01-23,280000,T,N,F,1
+EC1Y 8JU,86 - 88,Flat 1,Banner Street,2001-11-15,238000,F,N,L,1
+EC1Y 8JU,86 - 88,Flat 10,Banner Street,2001-07-02,277500,F,Y,L,1
+EC1Y 8JU,86 - 88,Flat 11,Banner Street,2005-11-23,310000,F,N,L,2
+EC1Y 8JU,86 - 88,Flat 12,Banner Street,2013-04-12,500000,F,N,L,3
+EC1Y 8JU,86 - 88,Flat 2,Banner Street,2001-07-02,233000,F,N,L,1
+EC1Y 8JU,86 - 88,Flat 3,Banner Street,2001-07-05,265000,F,N,L,1
+EC1Y 8JU,86 - 88,Flat 4,Banner Street,2013-07-19,710000,F,N,L,3
+EC1Y 8JU,86 - 88,Flat 5,Banner Street,2015-11-12,790000,F,N,L,3
+EC1Y 8JU,86 - 88,Flat 6,Banner Street,2003-10-06,313500,F,N,L,2
+EC1Y 8JU,86 - 88,Flat 7,Banner Street,2001-06-29,255000,F,N,L,1
+EC1Y 8JU,86 - 88,Flat 8,Banner Street,2006-05-22,355000,F,N,L,2
+EC1Y 8JU,86 - 88,Flat 9,Banner Street,2011-09-27,496700,F,N,L,2
+EC1Y 8JU,90,Flat 1,Banner Street,2005-04-29,210000,F,Y,L,1
+EC1Y 8JU,90,Flat 2,Banner Street,2005-05-09,240000,F,Y,L,1
+EC1Y 8JU,90,Flat 4,Banner Street,2006-08-18,315000,F,N,L,2
+EC1Y 8JU,90,Flat 5,Banner Street,2011-09-08,372000,F,N,L,2
+EC1Y 8JU,90,Flat 6,Banner Street,2005-10-25,265000,F,Y,L,1
+EC1Y 8JU,90,Flat 7,Banner Street,2010-05-27,499950,F,N,L,3
+EC1Y 8JU,90,Flat 8,Banner Street,2003-04-23,920000,T,N,F,1
+EC1Y 8JU,94,Flat 1,Banner Street,2018-08-15,650000,F,N,L,1
+EC1Y 8JU,94,Flat 2,Banner Street,2016-01-07,741667,F,N,L,1
+EC1Y 8JU,94,Flat 4,Banner Street,2016-01-07,685000,F,N,L,1
+EC1Y 8JU,"Banner Buildings, 74 - 84",Flat 1,Banner Street,2016-03-30,2150000,F,N,L,3
+EC1Y 8JU,"Banner Buildings, 74 - 84",Flat 10,Banner Street,1997-03-21,235000,F,N,L,1
+EC1Y 8JU,"Banner Buildings, 74 - 84",Flat 11,Banner Street,1999-12-03,380000,F,N,L,3
+EC1Y 8JU,"Banner Buildings, 74 - 84",Flat 12,Banner Street,2012-04-30,1060000,F,N,L,3
+EC1Y 8JU,"Banner Buildings, 74 - 84",Flat 13,Banner Street,2012-03-02,1000000,F,N,L,2
+EC1Y 8JU,"Banner Buildings, 74 - 84",Flat 2,Banner Street,1996-08-12,125000,F,N,L,1
+EC1Y 8JU,"Banner Buildings, 74 - 84",Flat 3,Banner Street,2018-09-13,1400000,F,N,L,4
+EC1Y 8JU,"Banner Buildings, 74 - 84",Flat 4,Banner Street,2011-05-20,690000,F,N,L,2
+EC1Y 8JU,"Banner Buildings, 74 - 84",Flat 5,Banner Street,1996-10-07,140000,F,N,L,1
+EC1Y 8JU,"Banner Buildings, 74 - 84",Flat 6,Banner Street,2003-10-23,321000,F,N,L,3
+EC1Y 8JU,"Banner Buildings, 74 - 84",Flat 7,Banner Street,1996-03-22,92000,F,N,L,1
+EC1Y 8JU,"Banner Buildings, 74 - 84",Flat 8,Banner Street,2019-08-12,1875000,F,N,L,2
+EC1Y 8JU,"Banner Buildings, 74 - 84",Flat 9,Banner Street,2003-10-23,500000,F,N,L,3
+EC1Y 8PX,59,,Banner Street,2007-03-26,375000,F,N,L,3
+EC1Y 8PZ,61,,Banner Street,2005-06-14,415000,T,N,F,3
+EC1Y 8QA,Quaker Court,Flat 10,Banner Street,2018-07-30,750000,F,N,L,2
+EC1Y 8QA,Quaker Court,Flat 11,Banner Street,2014-02-14,521000,F,N,L,1
+EC1Y 8QA,Quaker Court,Flat 13,Banner Street,2007-08-21,375000,F,N,L,1
+EC1Y 8QA,Quaker Court,Flat 15,Banner Street,1999-09-15,79950,F,N,L,1
+EC1Y 8QA,Quaker Court,Flat 18,Banner Street,2002-01-15,245000,F,N,L,2
+EC1Y 8QA,Quaker Court,Flat 22,Banner Street,2011-12-19,309000,F,N,L,1
+EC1Y 8QA,Quaker Court,Flat 24,Banner Street,1995-03-17,80000,F,N,L,1
+EC1Y 8QA,Quaker Court,Flat 25,Banner Street,2016-05-20,720000,F,N,L,2
+EC1Y 8QA,Quaker Court,Flat 26,Banner Street,2011-09-21,395000,F,N,L,2
+EC1Y 8QA,Quaker Court,Flat 27,Banner Street,2004-08-31,300000,F,N,L,1
+EC1Y 8QA,Quaker Court,Flat 28,Banner Street,2001-07-26,200000,F,N,L,2
+EC1Y 8QA,Quaker Court,Flat 5,Banner Street,1997-11-07,91000,F,N,L,2
+EC1Y 8QA,Quaker Court,Flat 6,Banner Street,2000-09-21,175000,F,N,L,1
+EC1Y 8QA,Quaker Court,Flat 7,Banner Street,2003-09-03,275000,F,N,L,1
+EC1Y 8QA,Quaker Court,Flat 8,Banner Street,2010-04-29,350000,F,N,L,1
+EC1Y 8QB,Quaker Court,Flat 35,Banner Street,2005-07-15,285000,F,N,L,1
+EC1Y 8QB,Quaker Court,Flat 45,Banner Street,2010-10-04,330500,F,N,L,2
+EC1Y 8QB,Quaker Court,Flat 46,Banner Street,2003-12-19,245000,F,N,L,1
+EC1Y 8QB,Quaker Court,Flat 47,Banner Street,1997-12-05,76000,F,N,L,1
+EC1Y 8QB,Quaker Court,Flat 52,Banner Street,2013-10-28,270000,F,N,L,1
+EC1Y 8QB,Quaker Court,Flat 58,Banner Street,2010-07-30,345500,F,N,L,3
+EC1Y 8QB,Quaker Court,Flat 65,Banner Street,2013-06-27,250000,F,N,L,4
+EC1Y 8QB,Quaker Court,Flat 74,Banner Street,2016-01-22,325000,F,N,L,1
+EC1Y 8QB,Quaker Court,Flat 75,Banner Street,2010-09-01,157000,F,N,L,1
+EC1Y 8QB,Quaker Court,Flat 76,Banner Street,2006-04-28,170000,F,N,L,1
+EC1Y 8QF,65,,Banner Street,2013-01-03,755000,S,N,F,3
+EC1Y 8QH,"George Gillett Court, 70",Flat 3,Banner Street,2013-11-01,463500,F,N,L,1
+EC1Y 8LP,45,,Bunhill Row,2020-09-28,255000,F,N,L,1
+EC1Y 8NE,Braithwaite House,Flat 16,Bunhill Row,2019-11-08,430000,F,N,L,3
+EC1Y 8NE,Braithwaite House,Flat 30,Bunhill Row,2018-02-16,429500,F,N,L,3
+EC1Y 8NE,Braithwaite House,Flat 33,Bunhill Row,2016-03-31,420000,F,N,L,1
+EC1Y 8NE,Braithwaite House,Flat 40,Bunhill Row,2012-10-12,290000,F,N,L,1
+EC1Y 8NQ,Braithwaite House,Flat 102,Bunhill Row,2005-02-21,160000,F,N,L,1
+EC1Y 8NQ,Braithwaite House,Flat 60,Bunhill Row,2012-07-31,310000,F,N,L,2
+EC1Y 8NQ,Braithwaite House,Flat 68,Bunhill Row,2010-08-09,307500,F,N,L,2
+EC1Y 8NQ,Braithwaite House,Flat 69,Bunhill Row,2003-08-07,149950,F,N,L,1
+EC1Y 8NQ,Braithwaite House,Flat 87,Bunhill Row,2017-11-16,470000,F,N,L,2
+EC1Y 8QW,59,Flat 10,Bunhill Row,2000-10-26,185000,F,N,L,2
+EC1Y 8QW,59,Flat 11,Bunhill Row,2006-08-01,485000,F,N,L,1
+EC1Y 8QW,59,Flat 12,Bunhill Row,2012-11-01,550000,F,N,L,3
+EC1Y 8QW,59,Flat 13,Bunhill Row,1999-02-25,169000,F,Y,L,1
+EC1Y 8QW,59,Flat 14,Bunhill Row,2002-04-26,299000,F,N,L,2
+EC1Y 8QW,59,Flat 15,Bunhill Row,1999-06-03,179950,F,Y,L,1
+EC1Y 8QW,59,Flat 16,Bunhill Row,2011-04-15,367500,F,N,L,5
+EC1Y 8QW,59,Flat 17,Bunhill Row,2019-02-22,867000,F,N,L,4
+EC1Y 8QW,59,Flat 18,Bunhill Row,2000-12-18,205000,F,N,L,2
+EC1Y 8QW,59,Flat 19,Bunhill Row,1999-05-21,133000,F,Y,L,1
+EC1Y 8QW,59,Flat 20,Bunhill Row,2011-07-13,399950,F,N,L,4
+EC1Y 8QW,59,Flat 21,Bunhill Row,2009-03-11,280000,F,N,L,4
+EC1Y 8QW,59,Flat 22,Bunhill Row,1999-09-15,132500,F,Y,L,1
+EC1Y 8QW,59,Flat 23,Bunhill Row,1999-08-12,243000,F,Y,L,1
+EC1Y 8QW,59,Flat 24,Bunhill Row,1999-09-27,201500,F,Y,L,1
+EC1Y 8QW,59,Flat 25,Bunhill Row,2015-10-16,777000,F,N,L,3
+EC1Y 8QW,59,Flat 26,Bunhill Row,2006-06-22,370000,F,N,L,3
+EC1Y 8QW,59,Flat 27,Bunhill Row,1999-06-25,216000,F,Y,L,1
+EC1Y 8QW,59,Flat 28,Bunhill Row,1999-12-17,180000,F,Y,L,1
+EC1Y 8QW,59,Flat 29,Bunhill Row,2007-11-02,550000,F,N,L,3
+EC1Y 8QW,59,Flat 30,Bunhill Row,2005-11-07,315000,F,N,L,2
+EC1Y 8QW,59,Flat 31,Bunhill Row,1999-08-02,221000,F,Y,L,1
+EC1Y 8QW,59,Flat 32,Bunhill Row,1999-09-09,147500,F,Y,L,1
+EC1Y 8QW,59,Flat 33,Bunhill Row,2008-01-23,550000,F,N,L,3
+EC1Y 8QW,59,Flat 34,Bunhill Row,2000-03-31,275000,F,Y,L,1
+EC1Y 8QW,59,Flat 5,Bunhill Row,2017-11-29,500000,F,N,L,4
+EC1Y 8QW,59,Flat 6,Bunhill Row,2017-03-09,349000,F,N,L,3
+EC1Y 8QW,59,Flat 7,Bunhill Row,1999-06-23,150000,F,N,L,2
+EC1Y 8QW,59,Flat 8,Bunhill Row,2002-08-22,240000,F,N,L,3
+EC1Y 8QW,59,Flat 9,Bunhill Row,1999-05-25,158000,F,Y,L,1
+EC1Y 8PH,1,Studio 2,Cahill Street,2000-07-24,245000,F,N,L,2
+EC1Y 8PH,1,Studio 4,Cahill Street,2002-07-30,390000,F,N,L,2
+EC1Y 8PJ,1,,Chequer Street,2016-03-24,1800000,T,N,F,3
+EC1Y 8PJ,2,,Chequer Street,1996-11-05,215000,T,N,F,1
+EC1Y 8PW,"Chequer Court, 3",Flat 1,Chequer Street,2015-08-06,865000,F,N,L,3
+EC1Y 8PW,"Chequer Court, 3",Flat 10,Chequer Street,2016-03-29,885000,F,N,L,3
+EC1Y 8PW,"Chequer Court, 3",Flat 11,Chequer Street,2009-09-18,557500,F,N,L,3
+EC1Y 8PW,"Chequer Court, 3",Flat 12,Chequer Street,2000-04-05,200000,F,N,L,2
+EC1Y 8PW,"Chequer Court, 3",Flat 14,Chequer Street,2009-10-29,500000,F,N,L,5
+EC1Y 8PW,"Chequer Court, 3",Flat 16,Chequer Street,2013-01-04,550000,F,N,L,2
+EC1Y 8PW,"Chequer Court, 3",Flat 17,Chequer Street,2016-01-21,1050000,F,N,L,4
+EC1Y 8PW,"Chequer Court, 3",Flat 18,Chequer Street,2009-09-24,415000,F,N,L,3
+EC1Y 8PW,"Chequer Court, 3",Flat 19,Chequer Street,2011-06-14,537500,F,N,L,3
+EC1Y 8PW,"Chequer Court, 3",Flat 2,Chequer Street,2010-09-16,545000,F,N,L,2
+EC1Y 8PW,"Chequer Court, 3",Flat 20,Chequer Street,2007-10-26,300000,F,N,L,1
+EC1Y 8PW,"Chequer Court, 3",Flat 21,Chequer Street,2005-12-02,270000,F,Y,L,1
+EC1Y 8PW,"Chequer Court, 3",Flat 22,Chequer Street,2007-05-11,224500,F,N,L,2
+EC1Y 8PW,"Chequer Court, 3",Flat 3,Chequer Street,2002-12-19,470000,F,N,L,2
+EC1Y 8PW,"Chequer Court, 3",Flat 4,Chequer Street,2019-10-23,780000,F,N,L,3
+EC1Y 8PW,"Chequer Court, 3",Flat 5,Chequer Street,1999-03-12,139700,F,Y,L,1
+EC1Y 8PW,"Chequer Court, 3",Flat 6,Chequer Street,2006-07-12,385000,F,N,L,4
+EC1Y 8PW,"Chequer Court, 3",Flat 7,Chequer Street,2002-07-19,375000,F,N,L,2
+EC1Y 8PW,"Chequer Court, 3",Flat 8,Chequer Street,2014-04-10,1300000,F,N,L,5
+EC1Y 8PW,"Chequer Court, 3",Flat 9,Chequer Street,2002-03-25,499950,F,N,L,2
+EC1Y 1AF,"Bezier Apartments, 91",Eighth Floor Flat 86,City Road,2010-08-27,424375,F,N,L,1
+EC1Y 1AF,"Bezier Apartments, 91",Eighth Floor Flat 87,City Road,2010-08-17,552000,F,Y,L,1
+EC1Y 1AF,"Bezier Apartments, 91",Eighth Floor Flat 88,City Road,2010-08-16,336000,F,Y,L,1
+EC1Y 1AF,"Bezier Apartments, 91",Eighth Floor Flat 89,City Road,2010-06-21,570000,F,Y,L,1
+EC1Y 1AF,"Bezier Apartments, 91",Fifth Floor Flat 53,City Road,2010-08-19,585600,F,Y,L,1
+EC1Y 1AF,"Bezier Apartments, 91",Fifth Floor Flat 58,City Road,2010-09-15,435000,F,Y,L,1
+EC1Y 1AF,"Bezier Apartments, 91",Fifth Floor Flat 61,City Road,2010-08-05,540388,F,Y,L,1
+EC1Y 1AF,"Bezier Apartments, 91",Fifth Floor Flat 62,City Road,2010-08-02,426800,F,Y,L,1
+EC1Y 1AF,"Bezier Apartments, 91",Fifth Floor Flat 63,City Road,2010-07-12,585000,F,Y,L,1
+EC1Y 1AF,"Bezier Apartments, 91",First Floor Flat 1,City Road,2010-07-13,395000,F,Y,L,1
+EC1Y 1AF,"Bezier Apartments, 91",First Floor Flat 3,City Road,2010-08-02,347400,F,Y,L,1
+EC1Y 1AF,"Bezier Apartments, 91",Flat 1,City Road,2015-07-30,610000,F,N,L,1
+EC1Y 1AF,"Bezier Apartments, 91",Flat 10,City Road,2011-03-02,700000,F,Y,L,1
+EC1Y 1AF,"Bezier Apartments, 91",Flat 11,City Road,2011-06-10,430000,F,Y,L,1
+EC1Y 1AF,"Bezier Apartments, 91",Flat 12,City Road,2010-08-02,540000,F,Y,L,1
+EC1Y 1AF,"Bezier Apartments, 91",Flat 13,City Road,2016-08-26,1100000,F,N,L,2
+EC1Y 1AF,"Bezier Apartments, 91",Flat 14,City Road,2011-06-15,485000,F,Y,L,1
+EC1Y 1AF,"Bezier Apartments, 91",Flat 15,City Road,2019-07-17,575000,F,N,L,2
+EC1Y 1AF,"Bezier Apartments, 91",Flat 16,City Road,2010-05-10,410000,F,Y,L,1
+EC1Y 1AF,"Bezier Apartments, 91",Flat 17,City Road,2016-03-11,690000,F,N,L,1
+EC1Y 1AF,"Bezier Apartments, 91",Flat 18,City Road,2011-12-22,715000,F,Y,L,1
+EC1Y 1AF,"Bezier Apartments, 91",Flat 19,City Road,2011-03-11,350000,F,Y,L,1
+EC1Y 1AF,"Bezier Apartments, 91",Flat 22,City Road,2011-03-17,495000,F,Y,L,1
+EC1Y 1AF,"Bezier Apartments, 91",Flat 23,City Road,2016-08-02,827500,F,N,L,2
+EC1Y 1AF,"Bezier Apartments, 91",Flat 24,City Road,2011-03-04,422500,F,Y,L,1
+EC1Y 1AF,"Bezier Apartments, 91",Flat 25,City Road,2016-03-30,810000,F,N,L,1
+EC1Y 1AF,"Bezier Apartments, 91",Flat 26,City Road,2012-03-30,745000,F,Y,L,1
+EC1Y 1AF,"Bezier Apartments, 91",Flat 27,City Road,2020-10-16,525000,F,N,L,2
+EC1Y 1AF,"Bezier Apartments, 91",Flat 28,City Road,2011-02-03,436500,F,Y,L,1
+EC1Y 1AF,"Bezier Apartments, 91",Flat 35,City Road,2010-10-04,484800,F,Y,L,1
+EC1Y 1AF,"Bezier Apartments, 91",Flat 4,City Road,2011-09-30,339500,F,Y,L,1
+EC1Y 1AF,"Bezier Apartments, 91",Flat 40,City Road,2015-06-05,599950,F,N,L,2
+EC1Y 1AF,"Bezier Apartments, 91",Flat 41,City Road,2011-04-28,446200,F,Y,L,1
+EC1Y 1AF,"Bezier Apartments, 91",Flat 42,City Road,2011-05-20,480000,F,Y,L,1
+EC1Y 1AF,"Bezier Apartments, 91",Flat 44,City Road,2011-12-22,800000,F,Y,L,1
+EC1Y 1AF,"Bezier Apartments, 91",Flat 45,City Road,2011-02-23,375000,F,Y,L,1
+EC1Y 1AF,"Bezier Apartments, 91",Flat 46,City Road,2016-02-02,888000,F,N,L,2
+EC1Y 1AF,"Bezier Apartments, 91",Flat 48,City Road,2010-11-30,515000,F,Y,L,1
+EC1Y 1AF,"Bezier Apartments, 91",Flat 49,City Road,2012-03-15,820000,F,Y,L,1
+EC1Y 1AF,"Bezier Apartments, 91",Flat 5,City Road,2011-06-10,345000,F,Y,L,1
+EC1Y 1AF,"Bezier Apartments, 91",Flat 52,City Road,2011-09-29,760000,F,Y,L,1
+EC1Y 1AF,"Bezier Apartments, 91",Flat 54,City Road,2010-12-22,725000,F,Y,L,1
+EC1Y 1AF,"Bezier Apartments, 91",Flat 55,City Road,2012-05-17,900000,F,Y,L,1
+EC1Y 1AF,"Bezier Apartments, 91",Flat 6,City Road,2011-06-24,339500,F,Y,L,1
+EC1Y 1AF,"Bezier Apartments, 91",Flat 64,City Road,2015-02-09,700000,F,N,L,1
+EC1Y 1AF,"Bezier Apartments, 91",Flat 65,City Road,2011-08-11,860000,F,Y,L,1
+EC1Y 1AF,"Bezier Apartments, 91",Flat 66,City Road,2011-08-31,423000,F,Y,L,1
+EC1Y 1AF,"Bezier Apartments, 91",Flat 67,City Road,2012-04-27,890000,F,Y,L,1
+EC1Y 1AF,"Bezier Apartments, 91",Flat 69,City Road,2010-12-20,540000,F,Y,L,1
+EC1Y 1AF,"Bezier Apartments, 91",Flat 70,City Road,2018-01-15,430000,F,N,L,2
+EC1Y 1AF,"Bezier Apartments, 91",Flat 71,City Road,2011-01-14,555000,F,Y,L,1
+EC1Y 1AF,"Bezier Apartments, 91",Flat 74,City Road,2019-01-04,445000,F,N,L,1
+EC1Y 1AF,"Bezier Apartments, 91",Flat 75,City Road,2017-10-20,963000,F,N,L,1
+EC1Y 1AF,"Bezier Apartments, 91",Flat 76,City Road,2011-07-08,440000,F,Y,L,1
+EC1Y 1AF,"Bezier Apartments, 91",Flat 78,City Road,2010-12-10,420000,F,Y,L,1
+EC1Y 1AF,"Bezier Apartments, 91",Flat 79,City Road,2012-12-14,595000,F,N,L,1
+EC1Y 1AF,"Bezier Apartments, 91",Flat 8,City Road,2016-07-28,540000,F,N,L,2
+EC1Y 1AF,"Bezier Apartments, 91",Flat 80,City Road,2010-08-16,336000,F,Y,L,1
+EC1Y 1AF,"Bezier Apartments, 91",Flat 81,City Road,2010-10-19,630000,F,Y,L,1
+EC1Y 1AF,"Bezier Apartments, 91",Flat 83,City Road,2019-12-16,925000,F,N,L,2
+EC1Y 1AF,"Bezier Apartments, 91",Flat 87,City Road,2016-11-22,704750,F,N,L,1
+EC1Y 1AF,"Bezier Apartments, 91",Flat 9,City Road,2016-11-28,675000,F,N,L,3
+EC1Y 1AF,"Bezier Apartments, 91",Fourth Floor Flat 43,City Road,2010-08-27,480000,F,Y,L,1
+EC1Y 1AF,"Bezier Apartments, 91",Fourth Floor Flat 50,City Road,2010-08-11,430000,F,Y,L,1
+EC1Y 1AF,"Bezier Apartments, 91",Fourth Floor Flat 51,City Road,2010-08-02,556800,F,Y,L,1
+EC1Y 1AF,"Bezier Apartments, 91",Second Floor Flat 17,City Road,2010-06-11,460000,F,Y,L,1
+EC1Y 1AF,"Bezier Apartments, 91",Second Floor Flat 21,City Road,2010-09-03,426500,F,Y,L,1
+EC1Y 1AF,"Bezier Apartments, 91",Second Floor Flat 25,City Road,2010-07-16,560000,F,Y,L,1
+EC1Y 1AF,"Bezier Apartments, 91",Seventh Floor Flat 74,City Road,2010-05-05,395000,F,Y,L,1
+EC1Y 1AF,"Bezier Apartments, 91",Seventh Floor Flat 75,City Road,2010-05-05,845000,F,Y,L,1
+EC1Y 1AF,"Bezier Apartments, 91",Seventh Floor Flat 79,City Road,2010-06-04,535000,F,Y,L,1
+EC1Y 1AF,"Bezier Apartments, 91",Sixth Floor Flat 64,City Road,2010-06-23,820000,F,Y,L,1
+EC1Y 1AF,"Bezier Apartments, 91",Third Floor Flat 29,City Road,2010-05-18,415000,F,Y,L,1
+EC1Y 1AF,"Bezier Apartments, 91",Third Floor Flat 30,City Road,2010-05-24,460000,F,Y,L,1
+EC1Y 1AF,"Bezier Apartments, 91",Third Floor Flat 34,City Road,2010-08-11,435000,F,Y,L,1
+EC1Y 1AF,"Bezier Apartments, 91",Third Floor Flat 36,City Road,2010-09-30,700000,F,Y,L,1
+EC1Y 1AF,"Bezier Apartments, 91",Third Floor Flat 37,City Road,2010-08-11,426000,F,Y,L,1
+EC1Y 1AF,"Bezier Apartments, 91",Third Floor Flat 38,City Road,2010-08-02,557750,F,Y,L,1
+EC1Y 1AH,"Bezier Apartments, 91",Flat 100,City Road,2010-12-20,565000,F,Y,L,1
+EC1Y 1AH,"Bezier Apartments, 91",Flat 101,City Road,2011-08-26,985000,F,Y,L,1
+EC1Y 1AH,"Bezier Apartments, 91",Flat 102,City Road,2011-08-26,875000,F,Y,L,1
+EC1Y 1AH,"Bezier Apartments, 91",Flat 104,City Road,2011-09-01,865000,F,Y,L,1
+EC1Y 1AH,"Bezier Apartments, 91",Flat 108,City Road,2011-06-15,562000,F,Y,L,1
+EC1Y 1AH,"Bezier Apartments, 91",Flat 109,City Road,2011-09-14,1610000,F,Y,L,1
+EC1Y 1AH,"Bezier Apartments, 91",Flat 110,City Road,2011-07-08,999999,F,Y,L,1
+EC1Y 1AH,"Bezier Apartments, 91",Flat 114,City Road,2011-06-22,407500,F,Y,L,1
+EC1Y 1AH,"Bezier Apartments, 91",Flat 115,City Road,2013-07-15,1400000,F,Y,L,1
+EC1Y 1AH,"Bezier Apartments, 91",Flat 116,City Road,2011-03-14,565000,F,Y,L,1
+EC1Y 1AH,"Bezier Apartments, 91",Flat 117,City Road,2012-09-20,1685000,F,N,L,1
+EC1Y 1AH,"Bezier Apartments, 91",Flat 118,City Road,2012-07-26,1050000,F,Y,L,1
+EC1Y 1AH,"Bezier Apartments, 91",Flat 119,City Road,2019-02-01,800000,F,N,L,1
+EC1Y 1AH,"Bezier Apartments, 91",Flat 120,City Road,2011-07-22,417100,F,Y,L,1
+EC1Y 1AH,"Bezier Apartments, 91",Flat 122,City Road,2013-08-14,3500000,F,Y,L,1
+EC1Y 1AH,"Bezier Apartments, 91",Flat 123,City Road,2013-06-28,1650000,F,N,L,1
+EC1Y 1AH,"Bezier Apartments, 91",Flat 126,City Road,2011-04-01,1445000,F,Y,L,1
+EC1Y 1AH,"Bezier Apartments, 91",Flat 127,City Road,2016-03-23,4085706,F,N,L,1
+EC1Y 1AH,"Bezier Apartments, 91",Flat 2,City Road,2018-10-09,575000,F,N,L,1
+EC1Y 1AH,"Bezier Apartments, 91",Flat 91,City Road,2011-06-14,750000,F,Y,L,1
+EC1Y 1AH,"Bezier Apartments, 91",Flat 92,City Road,2010-11-19,430000,F,Y,L,1
+EC1Y 1AH,"Bezier Apartments, 91",Flat 94,City Road,2011-07-22,385000,F,Y,L,1
+EC1Y 1AH,"Bezier Apartments, 91",Flat 95,City Road,2011-04-28,550000,F,Y,L,1
+EC1Y 1AH,"Bezier Apartments, 91",Flat 96,City Road,2011-03-25,335000,F,Y,L,1
+EC1Y 1AH,"Bezier Apartments, 91",Flat 98,City Road,2011-08-22,557000,F,Y,L,1
+EC1Y 1AH,"Bezier Apartments, 91",Flat 99,City Road,2012-06-20,920000,F,Y,L,1
+EC1Y 1AH,"Bezier Apartments, 91",Ninth Floor Flat 90,City Road,2010-05-21,840000,F,Y,L,1
+EC1Y 1AH,"Bezier Apartments, 91",Tenth Floor Flat 107,City Road,2010-08-02,600000,F,Y,L,1
+EC1Y 1AH,"Bezier Apartments, 91",Twelfth Floor Flat 122,City Road,2010-06-30,750000,F,Y,L,1
+EC1Y 2AA,12,Flat 1,City Road,1996-07-18,98500,F,N,L,1
+EC1Y 2AA,12,Flat 2,City Road,2002-05-02,223000,F,N,L,2
+EC1Y 2AA,12,Flat 3,City Road,2016-11-14,640000,F,N,L,4
+EC1Y 2AA,16,Apartment 1,City Road,2002-01-17,325000,F,N,L,1
+EC1Y 2AA,16,Apartment 2,City Road,2013-12-19,680000,F,N,L,4
+EC1Y 2AA,16,Apartment 3,City Road,2002-01-02,310000,F,Y,L,1
+EC1Y 2AA,16,Apartment 4,City Road,2002-04-19,585000,F,N,L,1
+EC1Y 2AA,6,,City Road,2010-10-15,475000,F,N,L,3
+EC1Y 2AA,6,Flat 3,City Road,2007-10-31,450000,F,N,L,2
+EC1Y 2AA,"Charles White & Son Ltd, 6",Flat 1,City Road,2011-09-30,475000,F,N,L,2
+EC1Y 2AA,"Charles White & Son Ltd, 6",Flat 2,City Road,2000-03-29,183000,F,Y,L,1
+EC1Y 2AA,"Charles White & Son Ltd, 6A",Flat 4,City Road,2000-04-03,168500,F,Y,L,1
+EC1Y 2AA,"Citadel Court, 12",Flat 4,City Road,2001-05-18,195000,F,N,L,1
+EC1Y 2AF,"Bezier Apartment, 91",First Floor Flat 2,City Road,2010-08-11,455000,F,Y,L,1
+EC1Y 2AF,"Westview Apartments, 18",Flat 1,City Road,2006-07-07,450000,F,Y,L,1
+EC1Y 2AF,"Westview Apartments, 18",Flat 2,City Road,2006-04-20,390000,F,Y,L,1
+EC1Y 2AF,"Westview Apartments, 18",Flat 3,City Road,2006-04-21,425000,F,Y,L,1
+EC1Y 2AF,"Westview Apartments, 18",Flat 4,City Road,2013-07-19,699950,F,N,L,2
+EC1Y 2AF,"Westview Apartments, 18",Flat 5,City Road,2015-08-07,1700000,F,N,L,1
+EC1Y 2AJ,20,Flat 2,City Road,2016-03-30,735000,F,N,L,3
+EC1Y 2AJ,20,Flat 3,City Road,2000-06-21,310000,F,Y,L,1
+EC1Y 2AN,"Lexington Apartments, 40",1,City Road,2002-10-11,380000,F,N,L,2
+EC1Y 2AN,"Lexington Apartments, 40",10,City Road,1999-10-15,189000,F,N,L,2
+EC1Y 2AN,"Lexington Apartments, 40",11,City Road,1999-10-15,335000,F,N,L,2
+EC1Y 2AN,"Lexington Apartments, 40",12,City Road,2018-03-28,865000,F,N,L,6
+EC1Y 2AN,"Lexington Apartments, 40",14,City Road,2010-08-20,600000,F,N,L,4
+EC1Y 2AN,"Lexington Apartments, 40",15,City Road,2008-05-12,580000,F,N,L,3
+EC1Y 2AN,"Lexington Apartments, 40",16,City Road,2002-04-19,350000,F,N,L,2
+EC1Y 2AN,"Lexington Apartments, 40",17,City Road,2000-06-30,260000,F,N,L,2
+EC1Y 2AN,"Lexington Apartments, 40",18,City Road,2019-01-18,675000,F,N,L,5
+EC1Y 2AN,"Lexington Apartments, 40",19,City Road,2010-06-04,477500,F,N,L,3
+EC1Y 2AN,"Lexington Apartments, 40",2,City Road,2007-09-03,579950,F,N,L,2
+EC1Y 2AN,"Lexington Apartments, 40",20,City Road,1998-10-27,140000,F,Y,L,1
+EC1Y 2AN,"Lexington Apartments, 40",21,City Road,2003-12-05,295000,F,N,L,3
+EC1Y 2AN,"Lexington Apartments, 40",22,City Road,2001-10-05,250000,F,N,L,3
+EC1Y 2AN,"Lexington Apartments, 40",23,City Road,2011-12-02,675000,F,N,L,3
+EC1Y 2AN,"Lexington Apartments, 40",24,City Road,2007-05-15,510000,F,N,L,3
+EC1Y 2AN,"Lexington Apartments, 40",25,City Road,2005-12-22,330000,F,N,L,3
+EC1Y 2AN,"Lexington Apartments, 40",26,City Road,2000-03-10,245000,F,N,L,2
+EC1Y 2AN,"Lexington Apartments, 40",27,City Road,2012-05-31,568000,F,N,L,4
+EC1Y 2AN,"Lexington Apartments, 40",28,City Road,1998-10-30,275000,F,Y,L,1
+EC1Y 2AN,"Lexington Apartments, 40",29,City Road,2013-02-01,740000,F,N,L,5
+EC1Y 2AN,"Lexington Apartments, 40",3,City Road,2005-05-27,354000,F,N,L,2
+EC1Y 2AN,"Lexington Apartments, 40",30,City Road,2017-08-30,503500,F,N,L,1
+EC1Y 2AN,"Lexington Apartments, 40",31,City Road,2006-03-02,349950,F,N,L,2
+EC1Y 2AN,"Lexington Apartments, 40",32,City Road,2002-09-16,330000,F,N,L,2
+EC1Y 2AN,"Lexington Apartments, 40",33,City Road,2000-10-27,260000,F,N,L,2
+EC1Y 2AN,"Lexington Apartments, 40",34,City Road,2006-11-15,435000,F,N,L,3
+EC1Y 2AN,"Lexington Apartments, 40",35,City Road,1998-07-07,237500,F,N,L,1
+EC1Y 2AN,"Lexington Apartments, 40",36,City Road,2018-01-12,625000,F,N,L,4
+EC1Y 2AN,"Lexington Apartments, 40",37,City Road,1998-07-06,334000,F,Y,L,1
+EC1Y 2AN,"Lexington Apartments, 40",38,City Road,2006-01-20,417000,F,N,L,2
+EC1Y 2AN,"Lexington Apartments, 40",39,City Road,2006-02-20,405000,F,N,L,3
+EC1Y 2AN,"Lexington Apartments, 40",4,City Road,2015-07-03,820000,F,N,L,2
+EC1Y 2AN,"Lexington Apartments, 40",40,City Road,2017-06-26,875000,F,N,L,4
+EC1Y 2AN,"Lexington Apartments, 40",41,City Road,2000-02-04,295000,F,N,L,2
+EC1Y 2AN,"Lexington Apartments, 40",42,City Road,2014-03-25,567500,F,N,L,2
+EC1Y 2AN,"Lexington Apartments, 40",43,City Road,1998-10-16,300000,F,Y,L,1
+EC1Y 2AN,"Lexington Apartments, 40",44,City Road,2000-11-14,290000,F,N,L,2
+EC1Y 2AN,"Lexington Apartments, 40",45,City Road,1999-06-18,299000,F,Y,L,1
+EC1Y 2AN,"Lexington Apartments, 40",46,City Road,2018-04-20,1160000,F,N,L,4
+EC1Y 2AN,"Lexington Apartments, 40",47,City Road,2013-06-10,875000,F,N,L,4
+EC1Y 2AN,"Lexington Apartments, 40",48,City Road,2014-04-11,937000,F,N,L,3
+EC1Y 2AN,"Lexington Apartments, 40",49,City Road,2011-06-15,355000,F,N,L,3
+EC1Y 2AN,"Lexington Apartments, 40",5,City Road,2013-01-24,999000,F,N,L,3
+EC1Y 2AN,"Lexington Apartments, 40",50,City Road,2010-08-11,480000,F,N,L,4
+EC1Y 2AN,"Lexington Apartments, 40",51,City Road,2003-12-01,322500,F,N,L,2
+EC1Y 2AN,"Lexington Apartments, 40",52,City Road,2017-05-31,690000,F,N,L,3
+EC1Y 2AN,"Lexington Apartments, 40",53,City Road,1998-09-21,260000,F,Y,L,1
+EC1Y 2AN,"Lexington Apartments, 40",54,City Road,1998-09-21,475000,F,Y,L,1
+EC1Y 2AN,"Lexington Apartments, 40",55,City Road,2009-12-16,499999,F,N,L,3
+EC1Y 2AN,"Lexington Apartments, 40",56,City Road,1998-06-18,255000,F,Y,L,1
+EC1Y 2AN,"Lexington Apartments, 40",57,City Road,1998-06-08,175000,F,N,L,1
+EC1Y 2AN,"Lexington Apartments, 40",58,City Road,2017-09-29,950000,F,N,L,2
+EC1Y 2AN,"Lexington Apartments, 40",59,City Road,2003-06-27,360000,F,N,L,2
+EC1Y 2AN,"Lexington Apartments, 40",6,City Road,2010-02-26,377500,F,N,L,2
+EC1Y 2AN,"Lexington Apartments, 40",60,City Road,1998-06-15,290000,F,Y,L,1
+EC1Y 2AN,"Lexington Apartments, 40",61,City Road,2002-02-11,357000,F,N,L,2
+EC1Y 2AN,"Lexington Apartments, 40",62,City Road,2016-02-05,845000,F,N,L,3
+EC1Y 2AN,"Lexington Apartments, 40",63,City Road,2014-11-14,399950,F,N,L,3
+EC1Y 2AN,"Lexington Apartments, 40",64,City Road,2002-05-10,370000,F,N,L,2
+EC1Y 2AN,"Lexington Apartments, 40",65,City Road,1998-06-08,132500,F,Y,L,1
+EC1Y 2AN,"Lexington Apartments, 40",66,City Road,2001-11-02,395000,F,N,L,2
+EC1Y 2AN,"Lexington Apartments, 40",67,City Road,2008-07-07,535000,F,N,L,2
+EC1Y 2AN,"Lexington Apartments, 40",68,City Road,2001-06-15,342500,F,N,L,2
+EC1Y 2AN,"Lexington Apartments, 40",69,City Road,2006-10-10,380000,F,N,L,3
+EC1Y 2AN,"Lexington Apartments, 40",7,City Road,1998-12-11,165000,F,Y,L,1
+EC1Y 2AN,"Lexington Apartments, 40",70,City Road,2007-08-16,815000,F,N,L,2
+EC1Y 2AN,"Lexington Apartments, 40",71,City Road,1998-06-08,300000,F,Y,L,1
+EC1Y 2AN,"Lexington Apartments, 40",72,City Road,1998-05-26,297500,F,Y,L,1
+EC1Y 2AN,"Lexington Apartments, 40",73,City Road,2018-10-31,800000,F,N,L,4
+EC1Y 2AN,"Lexington Apartments, 40",74,City Road,2017-05-22,977000,F,N,L,3
+EC1Y 2AN,"Lexington Apartments, 40",75,City Road,2009-08-14,250000,F,N,L,3
+EC1Y 2AN,"Lexington Apartments, 40",76,City Road,2013-04-26,835000,F,N,L,3
+EC1Y 2AN,"Lexington Apartments, 40",77,City Road,2007-06-29,305000,F,N,L,4
+EC1Y 2AN,"Lexington Apartments, 40",78,City Road,2010-11-12,600000,F,N,L,3
+EC1Y 2AN,"Lexington Apartments, 40",79,City Road,1998-11-02,294000,F,Y,L,1
+EC1Y 2AN,"Lexington Apartments, 40",8,City Road,1998-07-17,235000,F,Y,L,1
+EC1Y 2AN,"Lexington Apartments, 40",80,City Road,1998-08-13,295000,F,Y,L,1
+EC1Y 2AN,"Lexington Apartments, 40",81,City Road,2005-02-18,280000,F,N,L,2
+EC1Y 2AN,"Lexington Apartments, 40",82,City Road,2014-07-17,1226000,F,N,L,3
+EC1Y 2AN,"Lexington Apartments, 40",83,City Road,1999-09-08,357500,F,Y,L,1
+EC1Y 2AN,"Lexington Apartments, 40",84,City Road,2011-12-22,860000,F,N,L,2
+EC1Y 2AN,"Lexington Apartments, 40",85,City Road,2001-03-28,385000,F,N,L,2
+EC1Y 2AN,"Lexington Apartments, 40",86,City Road,2012-02-17,935000,F,N,L,4
+EC1Y 2AN,"Lexington Apartments, 40",87,City Road,2004-02-04,197000,F,N,L,2
+EC1Y 2AN,"Lexington Apartments, 40",88,City Road,1998-06-30,345000,F,Y,L,1
+EC1Y 2AN,"Lexington Apartments, 40",89,City Road,2001-07-13,500000,F,N,L,2
+EC1Y 2AN,"Lexington Apartments, 40",9,City Road,1998-07-17,235000,F,Y,L,1
+EC1Y 2AN,"Lexington Apartments, 40",90,City Road,1999-06-29,145000,F,N,L,1
+EC1Y 0SP,1 - 3,A,Crescent Row,2001-03-02,140000,F,Y,L,1
+EC1Y 0SP,1 - 3,B,Crescent Row,2001-03-02,140000,F,Y,L,1
+EC1Y 0SP,1 - 3,C,Crescent Row,2001-03-02,140000,F,Y,L,1
+EC1Y 0SP,1 - 3,D,Crescent Row,2001-03-02,140000,F,Y,L,1
+EC1Y 0SP,5,Basement And Ground Floors,Crescent Row,2010-02-10,270000,F,N,L,1
+EC1Y 0SP,5,First Floor Flat,Crescent Row,2004-07-22,260000,F,N,L,2
+EC1Y 0TA,7,Flat 1,Domingo Street,2014-03-07,575000,F,N,L,1
+EC1Y 0TA,7,Flat 2,Domingo Street,2014-03-28,925000,F,N,L,1
+EC1Y 0TA,9 - 10,Third Floor Flat,Domingo Street,2010-03-12,435000,F,N,L,2
+EC1Y 8PQ,1,Flat A,Dufferin Avenue,1996-12-06,217970,F,N,L,1
+EC1Y 8PQ,1,Flat B,Dufferin Avenue,1997-01-06,175000,F,N,L,1
+EC1Y 8PQ,1,Flat D,Dufferin Avenue,2009-09-18,425000,F,N,L,3
+EC1Y 8PQ,1,Flat F,Dufferin Avenue,2016-01-15,955000,F,N,L,3
+EC1Y 8PQ,1,Flat G,Dufferin Avenue,1999-08-25,295000,F,N,L,2
+EC1Y 8PQ,2,,Dufferin Avenue,1995-09-15,140000,T,N,F,1
+EC1Y 8PQ,3,,Dufferin Avenue,2003-09-30,580000,T,N,F,1
+EC1Y 8PD,18,Flat 1,Dufferin Street,1999-01-20,335000,F,N,L,2
+EC1Y 8PD,18,Flat 2,Dufferin Street,2009-04-03,406000,F,N,L,5
+EC1Y 8PD,18,Flat 3,Dufferin Street,2011-04-15,475000,F,N,L,2
+EC1Y 8PD,18,Flat 4,Dufferin Street,2002-09-13,335000,F,N,L,2
+EC1Y 8PD,19 - 20,Flat 1,Dufferin Street,2012-08-29,465000,F,N,L,2
+EC1Y 8PD,19 - 20,Flat 2,Dufferin Street,2007-07-22,600000,F,N,L,3
+EC1Y 8PD,19 - 20,Flat 3,Dufferin Street,2018-12-14,880000,F,N,L,1
+EC1Y 8PD,19 - 20,Flat 4,Dufferin Street,2000-02-02,165000,F,Y,L,1
+EC1Y 8TB,Farriers House,Flat 13,Errol Street,2000-05-26,153000,F,N,L,1
+EC1Y 8TB,Farriers House,Flat 15,Errol Street,2005-08-05,250000,F,N,L,2
+EC1Y 8TB,Farriers House,Flat 17,Errol Street,1998-04-03,103950,F,N,L,2
+EC1Y 8TB,Farriers House,Flat 20,Errol Street,2016-03-24,462500,F,N,L,2
+EC1Y 8TB,Farriers House,Flat 22,Errol Street,1999-12-22,117500,F,N,L,1
+EC1Y 8TB,Farriers House,Flat 25,Errol Street,2013-05-20,420000,F,N,L,3
+EC1Y 8TB,Farriers House,Flat 29,Errol Street,2007-08-01,210000,F,N,L,1
+EC1Y 8TB,Farriers House,Flat 4,Errol Street,2009-04-24,284000,T,N,L,1
+EC1Y 8TB,Farriers House,Flat 41,Errol Street,2006-08-11,250000,F,N,L,2
+EC1Y 8TB,Farriers House,Flat 50,Errol Street,2000-09-15,153000,F,N,L,1
+EC1Y 8TB,Farriers House,Flat 51,Errol Street,2007-03-12,290000,F,N,L,1
+EC1Y 8TB,Farriers House,Flat 6,Errol Street,2016-03-30,639995,F,N,L,3
+EC1Y 8TB,Farriers House,Flat 9,Errol Street,2020-07-15,585000,F,N,L,1
+EC1Y 8AG,2,Apartment 10,Featherstone Street,2018-09-17,925000,F,Y,L,1
+EC1Y 8AG,2,Apartment 11,Featherstone Street,2018-09-07,1195000,F,Y,L,1
+EC1Y 8AG,2,Apartment 12,Featherstone Street,2019-01-10,1085000,F,Y,L,1
+EC1Y 8AG,2,Apartment 14,Featherstone Street,2018-09-07,1670000,F,Y,L,1
+EC1Y 8AG,2,Apartment 17,Featherstone Street,2018-09-13,1155000,F,Y,L,1
+EC1Y 8AG,2,Apartment 20,Featherstone Street,2018-10-05,698250,F,Y,L,1
+EC1Y 8AG,2,Apartment 26,Featherstone Street,2019-06-14,1250000,F,Y,L,1
+EC1Y 8AG,2,Apartment 27,Featherstone Street,2020-04-09,945000,F,Y,L,1
+EC1Y 8AG,2,Apartment 28,Featherstone Street,2018-09-27,1162030,F,Y,L,1
+EC1Y 8AG,2,Apartment 29,Featherstone Street,2018-09-27,1337970,F,Y,L,1
+EC1Y 8AG,2,Apartment 3,Featherstone Street,2019-03-18,900000,F,Y,L,1
+EC1Y 8AG,2,Apartment 30,Featherstone Street,2018-09-14,1230000,F,Y,L,1
+EC1Y 8AG,2,Apartment 32,Featherstone Street,2019-10-15,680000,F,Y,L,1
+EC1Y 8AG,2,Apartment 34,Featherstone Street,2019-08-16,885000,F,Y,L,1
+EC1Y 8AG,2,Apartment 36,Featherstone Street,2020-01-14,963500,F,Y,L,1
+EC1Y 8AG,2,Apartment 37,Featherstone Street,2018-10-01,707750,F,Y,L,1
+EC1Y 8AG,2,Apartment 38,Featherstone Street,2020-03-25,745000,F,Y,L,1
+EC1Y 8AG,2,Apartment 39,Featherstone Street,2020-01-20,750000,F,Y,L,1
+EC1Y 8AG,2,Apartment 4,Featherstone Street,2019-04-18,1060000,F,Y,L,1
+EC1Y 8AG,2,Apartment 40,Featherstone Street,2018-11-29,1100000,F,Y,L,1
+EC1Y 8AG,2,Apartment 6,Featherstone Street,2020-04-15,850000,F,Y,L,1
+EC1Y 8AG,2,Apartment 8,Featherstone Street,2020-04-30,925000,F,Y,L,1
+EC1Y 8RT,"Galileo Apartments, 48",Flat 1,Featherstone Street,2007-09-11,525000,F,N,L,1
+EC1Y 8RT,"Galileo Apartments, 48",Flat 10,Featherstone Street,2015-06-22,590000,F,N,L,2
+EC1Y 8RT,"Galileo Apartments, 48",Flat 11,Featherstone Street,2015-05-20,1700000,F,N,L,2
+EC1Y 8RT,"Galileo Apartments, 48",Flat 12,Featherstone Street,2014-05-15,783000,F,N,L,2
+EC1Y 8RT,"Galileo Apartments, 48",Flat 13,Featherstone Street,2007-07-06,620000,F,Y,L,1
+EC1Y 8RT,"Galileo Apartments, 48",Flat 14,Featherstone Street,2007-08-15,545000,F,Y,L,1
+EC1Y 8RT,"Galileo Apartments, 48",Flat 2,Featherstone Street,2013-04-09,742000,F,N,L,2
+EC1Y 8RT,"Galileo Apartments, 48",Flat 3,Featherstone Street,2015-12-16,985000,F,N,L,2
+EC1Y 8RT,"Galileo Apartments, 48",Flat 4,Featherstone Street,2008-01-23,800000,F,Y,L,1
+EC1Y 8RT,"Galileo Apartments, 48",Flat 5,Featherstone Street,2007-09-12,370000,F,Y,L,1
+EC1Y 8RT,"Galileo Apartments, 48",Flat 6,Featherstone Street,2007-09-14,585000,F,Y,L,1
+EC1Y 8RT,"Galileo Apartments, 48",Flat 7,Featherstone Street,2019-04-11,880000,F,N,L,3
+EC1Y 8RT,"Galileo Apartments, 48",Flat 8,Featherstone Street,2008-06-17,670000,F,N,L,1
+EC1Y 8RT,"Galileo Apartments, 48",Flat 9,Featherstone Street,2007-08-30,975000,F,Y,L,1
+EC1Y 8RZ,56,,Featherstone Street,2006-09-19,320000,F,N,L,2
+EC1Y 8RZ,56A,,Featherstone Street,2009-12-04,385000,F,N,L,2
+EC1Y 8RZ,58,,Featherstone Street,2001-04-17,235000,F,N,L,2
+EC1Y 8RZ,58A,,Featherstone Street,2010-09-24,450000,F,N,L,3
+EC1Y 8SL,Matisse Court 15-18,Flat 1,Featherstone Street,2002-09-04,250000,F,Y,L,1
+EC1Y 8SL,Matisse Court 15-18,Flat 10,Featherstone Street,2002-11-01,175000,F,Y,L,1
+EC1Y 8SL,Matisse Court 15-18,Flat 11,Featherstone Street,2002-05-31,245000,F,Y,L,1
+EC1Y 8SL,Matisse Court 15-18,Flat 12,Featherstone Street,2002-06-06,345000,F,Y,L,1
+EC1Y 8SL,Matisse Court 15-18,Flat 13,Featherstone Street,2013-12-02,480000,F,N,L,2
+EC1Y 8SL,Matisse Court 15-18,Flat 14,Featherstone Street,2015-11-02,755000,F,N,L,2
+EC1Y 8SL,Matisse Court 15-18,Flat 15,Featherstone Street,2011-01-11,365000,F,N,L,2
+EC1Y 8SL,Matisse Court 15-18,Flat 16,Featherstone Street,2003-10-31,195000,F,Y,L,1
+EC1Y 8SL,Matisse Court 15-18,Flat 17,Featherstone Street,2004-09-22,280000,F,N,L,2
+EC1Y 8SL,Matisse Court 15-18,Flat 18,Featherstone Street,2004-02-25,385600,F,N,L,2
+EC1Y 8SL,Matisse Court 15-18,Flat 19,Featherstone Street,2007-09-14,385550,F,N,L,2
+EC1Y 8SL,Matisse Court 15-18,Flat 2,Featherstone Street,2002-05-29,260000,F,Y,L,1
+EC1Y 8SL,Matisse Court 15-18,Flat 20,Featherstone Street,2002-06-28,290000,F,Y,L,1
+EC1Y 8SL,Matisse Court 15-18,Flat 21,Featherstone Street,2002-05-31,240000,F,Y,L,1
+EC1Y 8SL,Matisse Court 15-18,Flat 22,Featherstone Street,2002-06-06,220000,F,Y,L,1
+EC1Y 8SL,Matisse Court 15-18,Flat 23,Featherstone Street,2003-10-31,250000,F,N,L,2
+EC1Y 8SL,Matisse Court 15-18,Flat 24,Featherstone Street,2011-09-28,524000,F,N,L,3
+EC1Y 8SL,Matisse Court 15-18,Flat 25,Featherstone Street,2010-05-07,795750,F,N,L,1
+EC1Y 8SL,Matisse Court 15-18,Flat 26,Featherstone Street,2007-09-25,457000,F,N,L,2
+EC1Y 8SL,Matisse Court 15-18,Flat 27,Featherstone Street,2002-12-20,390000,F,Y,L,1
+EC1Y 8SL,Matisse Court 15-18,Flat 28,Featherstone Street,2003-02-28,550000,F,Y,L,1
+EC1Y 8SL,Matisse Court 15-18,Flat 3,Featherstone Street,2002-05-31,210000,F,N,L,1
+EC1Y 8SL,Matisse Court 15-18,Flat 4,Featherstone Street,2004-04-30,225000,F,N,L,3
+EC1Y 8SL,Matisse Court 15-18,Flat 5,Featherstone Street,2008-10-30,340000,F,N,L,2
+EC1Y 8SL,Matisse Court 15-18,Flat 6,Featherstone Street,2004-12-15,385000,F,N,L,2
+EC1Y 8SL,Matisse Court 15-18,Flat 7,Featherstone Street,2002-05-31,215000,F,N,L,1
+EC1Y 8SL,Matisse Court 15-18,Flat 8,Featherstone Street,2005-02-28,316000,F,N,L,2
+EC1Y 8SL,Matisse Court 15-18,Flat 9,Featherstone Street,2010-06-21,330000,F,N,L,2
+EC1Y 8SL,"Matisse Court, 15",25,Featherstone Street,2002-11-29,485000,F,Y,L,1
+EC1Y 0TT,5,Flat 1,Garrett Street,2013-11-29,1495000,F,N,L,4
+EC1Y 0TT,5,Flat 10,Garrett Street,2014-07-31,1675000,F,N,L,3
+EC1Y 0TT,5,Flat 11,Garrett Street,2014-07-31,1032289,F,N,L,3
+EC1Y 0TT,5,Flat 12,Garrett Street,2012-09-06,630000,F,N,L,1
+EC1Y 0TT,5,Flat 14,Garrett Street,2002-04-09,607500,F,N,L,1
+EC1Y 0TT,5,Flat 15,Garrett Street,2007-09-21,535000,F,N,L,2
+EC1Y 0TT,5,Flat 16,Garrett Street,2002-08-02,315000,F,Y,L,1
+EC1Y 0TT,5,Flat 17,Garrett Street,2011-07-29,1200000,F,N,L,3
+EC1Y 0TT,5,Flat 19,Garrett Street,2003-06-09,500000,F,Y,L,1
+EC1Y 0TT,5,Flat 2,Garrett Street,2015-01-19,1800000,F,N,L,3
+EC1Y 0TT,5,Flat 3,Garrett Street,2006-03-23,470000,F,Y,L,1
+EC1Y 0TT,5,Flat 4,Garrett Street,2018-04-11,750000,F,N,L,3
+EC1Y 0TT,5,Flat 5,Garrett Street,2006-06-02,900000,F,N,L,1
+EC1Y 0TT,5,Flat 6,Garrett Street,2020-10-02,1750000,F,N,L,3
+EC1Y 0TT,5,Flat 7,Garrett Street,2011-09-30,570000,F,N,L,2
+EC1Y 0TT,5,Flat 8,Garrett Street,2002-08-16,280000,F,Y,L,1
+EC1Y 0TT,5,Flat 9,Garrett Street,2013-07-11,1485000,F,N,L,2
+EC1Y 0TY,17,Flat 1,Garrett Street,2014-04-03,1015000,F,Y,L,1
+EC1Y 0TY,17,Flat 11,Garrett Street,2017-05-03,890000,F,N,L,1
+EC1Y 0TY,17,Flat 12,Garrett Street,2017-03-30,830000,F,N,L,1
+EC1Y 0TY,17,Flat 2,Garrett Street,2013-12-20,1150000,F,Y,L,1
+EC1Y 0TY,17,Flat 3,Garrett Street,2014-02-28,480000,F,Y,L,1
+EC1Y 0TY,17,Flat 4,Garrett Street,2014-01-27,460000,F,Y,L,1
+EC1Y 0TY,17,Flat 5,Garrett Street,2014-01-07,495000,F,N,L,1
+EC1Y 0TY,17,Flat 6,Garrett Street,2019-06-07,800000,F,N,L,2
+EC1Y 0TY,17,Flat 7,Garrett Street,2014-01-09,500000,F,N,L,1
+EC1Y 0TY,17,Flat 8,Garrett Street,2014-03-31,770000,F,Y,L,1
+EC1Y 0TY,17,Flat 9,Garrett Street,2014-05-07,760000,F,Y,L,1
+EC1Y 0TY,7,,Garrett Street,2019-08-02,5000000,T,N,F,1
+EC1Y 0AD,"9 Clarendon Court, 43",,Golden Lane,2020-11-16,703000,F,Y,L,1
+EC1Y 0AD,"Clarendon Court, 43",11,Golden Lane,2020-11-20,1100000,F,Y,L,1
+EC1Y 0AD,"Clarendon Court, 43",12,Golden Lane,2020-12-02,695000,F,Y,L,1
+EC1Y 0AD,"Clarendon Court, 43",13,Golden Lane,2020-11-26,749675,F,Y,L,1
+EC1Y 0AD,"Clarendon Court, 43",14,Golden Lane,2020-12-18,727300,F,Y,L,1
+EC1Y 0AD,"Clarendon Court, 43",16,Golden Lane,2020-11-11,664598,F,Y,L,1
+EC1Y 0AD,"Clarendon Court, 43",17,Golden Lane,2020-11-19,815450,F,Y,L,1
+EC1Y 0AD,"Clarendon Court, 43",24,Golden Lane,2020-11-16,1080000,F,Y,L,1
+EC1Y 0AD,"Clarendon Court, 43",25,Golden Lane,2020-12-08,676338,F,Y,L,1
+EC1Y 0AD,"Clarendon Court, 43",26,Golden Lane,2020-12-21,819575,F,Y,L,1
+EC1Y 0AD,"Clarendon Court, 43",27,Golden Lane,2020-12-07,1266000,F,Y,L,1
+EC1Y 0AD,"Clarendon Court, 43",31,Golden Lane,2020-12-01,1315000,F,Y,L,1
+EC1Y 0AD,"Clarendon Court, 43",36,Golden Lane,2020-11-20,950000,F,Y,L,1
+EC1Y 0AD,"Clarendon Court, 43",38,Golden Lane,2020-11-25,691991,F,Y,L,1
+EC1Y 0AD,"Clarendon Court, 43",39,Golden Lane,2020-12-15,833525,F,Y,L,1
+EC1Y 0AD,"Clarendon Court, 43",44,Golden Lane,2020-12-01,1397500,F,Y,L,1
+EC1Y 0AD,"Clarendon Court, 43",49,Golden Lane,2020-12-08,1268888,F,Y,L,1
+EC1Y 0AD,"Clarendon Court, 43",51,Golden Lane,2020-12-04,707643,F,Y,L,1
+EC1Y 0AD,"Clarendon Court, 43",52,Golden Lane,2020-12-08,853050,F,Y,L,1
+EC1Y 0AD,"Clarendon Court, 43",56,Golden Lane,2020-12-18,815000,F,Y,L,1
+EC1Y 0AD,"Clarendon Court, 43",57,Golden Lane,2020-12-21,1360000,F,Y,L,1
+EC1Y 0AD,"Clarendon Court, 43",58,Golden Lane,2020-12-04,1335000,F,Y,L,1
+EC1Y 0AD,"Clarendon Court, 43",59,Golden Lane,2020-12-21,761250,F,Y,L,1
+EC1Y 0AD,"Clarendon Court, 43",61,Golden Lane,2020-12-10,1058010,F,Y,L,1
+EC1Y 0AD,"Clarendon Court, 43",62,Golden Lane,2020-12-10,1470000,F,Y,L,1
+EC1Y 0AD,"Clarendon Court, 43",63,Golden Lane,2020-12-16,869400,F,Y,L,1
+EC1Y 0AD,"Clarendon Court, 43",64,Golden Lane,2020-12-10,1600000,F,Y,L,1
+EC1Y 0AD,"Clarendon Court, 43",65,Golden Lane,2020-12-16,1467400,F,Y,L,1
+EC1Y 0AD,"Clarendon Court, 43",68,Golden Lane,2020-12-11,1050000,F,Y,L,1
+EC1Y 0AD,"Clarendon Court, 43",69,Golden Lane,2020-12-07,790000,F,Y,L,1
+EC1Y 0AD,"Clarendon Court, 43",72,Golden Lane,2020-12-18,1062500,F,Y,L,1
+EC1Y 0AD,"Clarendon Court, 43",73,Golden Lane,2020-11-09,1066750,F,Y,L,1
+EC1Y 0AD,"Clarendon Court, 43",75,Golden Lane,2020-12-02,753000,F,Y,L,1
+EC1Y 0AD,"Clarendon Court, 43",76,Golden Lane,2020-10-30,668511,F,Y,L,1
+EC1Y 0AD,"Clarendon Court, 43",78,Golden Lane,2020-10-30,1050000,F,Y,L,1
+EC1Y 0AD,"Clarendon Court, 43",79,Golden Lane,2020-10-22,784900,F,Y,L,1
+EC1Y 0AD,"Clarendon Court, 43",8,Golden Lane,2020-11-18,682500,F,Y,L,1
+EC1Y 0AD,"Clarendon Court, 43",80,Golden Lane,2020-11-30,782000,F,Y,L,1
+EC1Y 0AD,"Clarendon Court, 43",83,Golden Lane,2020-10-22,1083750,F,Y,L,1
+EC1Y 0AD,"Clarendon Court, 43",84,Golden Lane,2020-10-19,798000,F,Y,L,1
+EC1Y 0AD,"Clarendon Court, 43",86,Golden Lane,2020-11-06,684164,F,Y,L,1
+EC1Y 0AD,"Clarendon Court, 43",87,Golden Lane,2020-11-16,1075200,F,Y,L,1
+EC1Y 0AD,"Clarendon Court, 43",88,Golden Lane,2020-11-04,1092250,F,Y,L,1
+EC1Y 0AD,"Clarendon Court, 43",89,Golden Lane,2020-11-03,814200,F,Y,L,1
+EC1Y 0AD,"Clarendon Court, 43",90,Golden Lane,2020-12-07,832600,F,Y,L,1
+EC1Y 0AD,"Clarendon Court, 43",92,Golden Lane,2020-12-11,1521500,F,Y,L,1
+EC1Y 0AD,"Clarendon Court, 43",93,Golden Lane,2020-12-22,750287,F,Y,L,1
+EC1Y 0AD,"Clarendon Court, 43",94,Golden Lane,2020-11-20,830000,F,Y,L,1
+EC1Y 0AD,"Clarendon Court, 43",97,Golden Lane,2020-12-09,854400,F,Y,L,1
+EC1Y 0AD,"Clarendon Court, 43",98,Golden Lane,2020-12-02,797000,F,Y,L,1
+EC1Y 0TJ,125,,Golden Lane,2007-04-27,930000,T,N,F,2
+EC1Y 0RB,Cuthbert Harrowing House,Flat 2,Golden Lane Estate,2000-09-20,191000,F,N,L,1
+EC1Y 0RB,Cuthbert Harrowing House,Flat 27,Golden Lane Estate,1995-05-04,64200,F,N,L,1
+EC1Y 0RB,Cuthbert Harrowing House,Flat 5,Golden Lane Estate,2002-10-14,272000,F,N,L,2
+EC1Y 0RB,Cuthbert Harrowing House,Flat 9,Golden Lane Estate,2018-07-06,730000,F,N,L,1
+EC1Y 0RD,Great Arthur House,Flat 15,Golden Lane Estate,2015-09-04,432000,F,N,L,1
+EC1Y 0RD,Great Arthur House,Flat 18,Golden Lane Estate,2019-03-29,424000,F,N,L,1
+EC1Y 0RD,Great Arthur House,Flat 20,Golden Lane Estate,2008-12-22,243000,F,N,L,1
+EC1Y 0RD,Great Arthur House,Flat 27,Golden Lane Estate,2008-10-10,249995,F,N,L,2
+EC1Y 0RD,Great Arthur House,Flat 31,Golden Lane Estate,2001-07-10,115000,F,N,L,2
+EC1Y 0RD,Great Arthur House,Flat 9,Golden Lane Estate,2001-10-15,130000,F,N,L,1
+EC1Y 0RE,Great Arthur House,Flat 34,Golden Lane Estate,1995-09-21,35000,F,N,L,1
+EC1Y 0RE,Great Arthur House,Flat 35,Golden Lane Estate,2003-09-26,206500,F,N,L,1
+EC1Y 0RE,Great Arthur House,Flat 36,Golden Lane Estate,2005-01-06,180000,F,N,L,1
+EC1Y 0RE,Great Arthur House,Flat 38,Golden Lane Estate,2012-02-29,320000,F,N,L,2
+EC1Y 0RE,Great Arthur House,Flat 39,Golden Lane Estate,2005-12-19,235000,F,N,L,2
+EC1Y 0RE,Great Arthur House,Flat 41,Golden Lane Estate,2004-12-13,195000,F,N,L,1
+EC1Y 0RE,Great Arthur House,Flat 43,Golden Lane Estate,2002-06-14,170000,F,N,L,1
+EC1Y 0RE,Great Arthur House,Flat 44,Golden Lane Estate,2010-03-15,236000,F,N,L,1
+EC1Y 0RE,Great Arthur House,Flat 46,Golden Lane Estate,2010-04-08,267500,F,N,L,2
+EC1Y 0RE,Great Arthur House,Flat 50,Golden Lane Estate,2000-02-24,117250,F,N,L,1
+EC1Y 0RE,Great Arthur House,Flat 53,Golden Lane Estate,2002-07-05,122000,F,N,L,1
+EC1Y 0RE,Great Arthur House,Flat 55,Golden Lane Estate,2010-06-25,240000,F,N,L,1
+EC1Y 0RE,Great Arthur House,Flat 57,Golden Lane Estate,2006-03-23,131000,F,N,L,1
+EC1Y 0RH,Great Arthur House,Flat 100,Golden Lane Estate,2007-02-09,220000,F,N,L,2
+EC1Y 0RH,Great Arthur House,Flat 103,Golden Lane Estate,2011-09-09,260000,F,N,L,2
+EC1Y 0RH,Great Arthur House,Flat 106,Golden Lane Estate,2009-12-21,238000,F,N,L,3
+EC1Y 0RH,Great Arthur House,Flat 110,Golden Lane Estate,2000-12-11,134000,F,N,L,1
+EC1Y 0RH,Great Arthur House,Flat 117,Golden Lane Estate,1997-10-17,60000,F,N,L,1
+EC1Y 0RH,Great Arthur House,Flat 119,Golden Lane Estate,2003-12-12,167500,F,N,L,1
+EC1Y 0RH,Great Arthur House,Flat 92,Golden Lane Estate,2005-07-04,192000,F,N,L,1
+EC1Y 0RH,Great Arthur House,Flat 94,Golden Lane Estate,2009-06-12,243000,F,N,L,2
+EC1Y 0RH,Great Arthur House,Flat 97,Golden Lane Estate,2010-06-07,249999,F,N,L,1
+EC1Y 0RH,Great Arthur House,Flat 98,Golden Lane Estate,2014-09-30,410000,F,N,L,1
+EC1Y 0RJ,Bowater House,Flat 1,Golden Lane Estate,2020-10-30,663000,F,N,L,2
+EC1Y 0RJ,Bowater House,Flat 20,Golden Lane Estate,2006-08-22,360000,F,N,L,2
+EC1Y 0RJ,Bowater House,Flat 21,Golden Lane Estate,2011-07-22,430000,F,N,L,2
+EC1Y 0RJ,Bowater House,Flat 28,Golden Lane Estate,1998-05-07,135000,F,N,L,1
+EC1Y 0RJ,Bowater House,Flat 40,Golden Lane Estate,2016-03-31,680000,F,N,L,1
+EC1Y 0RJ,Bowater House,Flat 44,Golden Lane Estate,2002-06-28,260000,F,N,L,1
+EC1Y 0RJ,Bowater House,Flat 46,Golden Lane Estate,2009-01-30,425000,F,N,L,3
+EC1Y 0RJ,Bowater House,Flat 8,Golden Lane Estate,2010-12-17,415000,F,N,L,1
+EC1Y 0RL,Stanley Cohen House,Flat 1,Golden Lane Estate,2008-05-06,306250,F,N,L,2
+EC1Y 0RL,Stanley Cohen House,Flat 10,Golden Lane Estate,2000-01-14,158000,F,N,L,1
+EC1Y 0RL,Stanley Cohen House,Flat 11,Golden Lane Estate,2016-04-14,435269,F,N,L,2
+EC1Y 0RL,Stanley Cohen House,Flat 12,Golden Lane Estate,2018-03-09,695000,F,N,L,1
+EC1Y 0RL,Stanley Cohen House,Flat 15,Golden Lane Estate,1998-06-12,110000,F,N,L,1
+EC1Y 0RL,Stanley Cohen House,Flat 25,Golden Lane Estate,2007-05-09,322730,F,N,L,1
+EC1Y 0RL,Stanley Cohen House,Flat 26,Golden Lane Estate,2010-09-03,315000,F,N,L,1
+EC1Y 0RL,Stanley Cohen House,Flat 27,Golden Lane Estate,2019-02-08,478000,F,N,L,1
+EC1Y 0RL,Stanley Cohen House,Flat 28,Golden Lane Estate,2007-10-12,340000,F,N,L,3
+EC1Y 0RL,Stanley Cohen House,Flat 29,Golden Lane Estate,2002-11-11,215000,F,N,L,1
+EC1Y 0RL,Stanley Cohen House,Flat 3,Golden Lane Estate,2003-02-28,245000,F,N,L,2
+EC1Y 0RL,Stanley Cohen House,Flat 32,Golden Lane Estate,2019-08-14,507500,F,N,L,3
+EC1Y 0RL,Stanley Cohen House,Flat 4,Golden Lane Estate,2001-06-20,230000,F,N,L,2
+EC1Y 0RN,Bayer House,Flat 22,Golden Lane Estate,2016-03-01,745000,F,N,L,2
+EC1Y 0RN,Bayer House,Flat 25,Golden Lane Estate,2017-02-23,695000,F,N,L,1
+EC1Y 0RN,Bayer House,Flat 28,Golden Lane Estate,1999-07-05,64000,F,Y,L,1
+EC1Y 0RN,Bayer House,Flat 3,Golden Lane Estate,2004-04-02,275000,F,N,L,2
+EC1Y 0RN,Bayer House,Flat 41,Golden Lane Estate,2001-10-15,235000,F,N,L,1
+EC1Y 0RN,Bayer House,Flat 44,Golden Lane Estate,2011-10-14,437000,F,N,L,4
+EC1Y 0RN,Bayer House,Flat 46,Golden Lane Estate,2012-11-16,495000,F,N,L,4
+EC1Y 0RN,Bayer House,Flat 48,Golden Lane Estate,2000-10-20,235000,F,N,L,1
+EC1Y 0RN,Bayer House,Flat 7,Golden Lane Estate,2010-03-09,425000,F,N,L,3
+EC1Y 0RQ,Great Arthur House,Flat 68,Golden Lane Estate,2007-08-16,287500,F,N,L,2
+EC1Y 0RQ,Great Arthur House,Flat 73,Golden Lane Estate,2017-03-28,490000,F,N,L,1
+EC1Y 0RQ,Great Arthur House,Flat 88,Golden Lane Estate,2001-09-28,149000,F,N,L,1
+EC1Y 0SH,Cullum Welch House,Flat 39,Golden Lane Estate,2012-03-22,250000,F,N,L,1
+EC1Y 0SH,Cullum Welch House,Flat 40,Golden Lane Estate,2006-06-30,185000,F,N,L,3
+EC1Y 0SH,Cullum Welch House,Flat 42,Golden Lane Estate,2005-01-28,162000,F,N,L,1
+EC1Y 0SH,Cullum Welch House,Flat 43,Golden Lane Estate,1998-08-28,63000,F,N,L,1
+EC1Y 0SH,Cullum Welch House,Flat 48,Golden Lane Estate,1997-11-21,70000,F,N,L,1
+EC1Y 0SH,Cullum Welch House,Flat 56,Golden Lane Estate,2014-06-06,315000,F,N,L,1
+EC1Y 0SH,Cullum Welch House,Flat 57,Golden Lane Estate,1998-02-26,68000,F,N,L,1
+EC1Y 0SH,Cullum Welch House,Flat 59,Golden Lane Estate,2011-07-21,250000,F,N,L,1
+EC1Y 0SH,Cullum Welch House,Flat 60,Golden Lane Estate,2009-08-28,192750,F,N,L,1
+EC1Y 0SH,Cullum Welch House,Flat 61,Golden Lane Estate,2013-12-16,350000,F,N,L,4
+EC1Y 0SH,Cullum Welch House,Flat 64,Golden Lane Estate,2007-04-16,240000,F,N,L,3
+EC1Y 0SH,Cullum Welch House,Flat 65,Golden Lane Estate,2005-11-04,180000,F,N,L,2
+EC1Y 0SJ,Crescent House,Flat 102,Golden Lane Estate,2015-06-12,395000,F,N,L,3
+EC1Y 0SJ,Crescent House,Flat 103,Golden Lane Estate,2010-06-15,250000,F,N,L,1
+EC1Y 0SJ,Crescent House,Flat 104,Golden Lane Estate,2011-09-30,450000,F,N,L,4
+EC1Y 0SJ,Crescent House,Flat 107,Golden Lane Estate,2015-08-24,410000,F,N,L,1
+EC1Y 0SJ,Crescent House,Flat 119,Golden Lane Estate,2013-10-08,377500,F,N,L,2
+EC1Y 0SJ,Crescent House,Flat 127,Golden Lane Estate,2018-01-08,360000,F,N,L,3
+EC1Y 0SJ,Crescent House,Flat 131,Golden Lane Estate,2006-03-17,205000,F,N,L,1
+EC1Y 0SJ,Crescent House,Flat 136,Golden Lane Estate,2007-02-01,265000,F,N,L,3
+EC1Y 0SJ,Crescent House,Flat 138,Golden Lane Estate,2012-02-24,315000,F,N,L,2
+EC1Y 0SJ,Crescent House,Flat 139,Golden Lane Estate,2018-06-01,360000,F,N,L,1
+EC1Y 0SJ,Crescent House,Flat 144,Golden Lane Estate,2014-09-17,395500,F,N,L,3
+EC1Y 0SJ,Crescent House,Flat 146,Golden Lane Estate,2010-09-27,243000,F,N,L,1
+EC1Y 0SL,Crescent House,Flat 203,Golden Lane Estate,2014-12-19,430000,F,N,L,3
+EC1Y 0SL,Crescent House,Flat 209,Golden Lane Estate,2004-01-22,182500,F,N,L,2
+EC1Y 0SL,Crescent House,Flat 212,Golden Lane Estate,2012-06-25,345000,F,N,L,2
+EC1Y 0SL,Crescent House,Flat 215,Golden Lane Estate,2013-11-14,345000,F,N,L,1
+EC1Y 0SL,Crescent House,Flat 217,Golden Lane Estate,1999-03-01,85000,F,N,L,1
+EC1Y 0SL,Crescent House,Flat 219,Golden Lane Estate,2019-02-15,320000,F,N,L,1
+EC1Y 0SL,Crescent House,Flat 224,Golden Lane Estate,1999-10-29,72000,F,N,L,1
+EC1Y 0SL,Crescent House,Flat 229,Golden Lane Estate,2010-05-28,200000,F,N,L,1
+EC1Y 0SL,Crescent House,Flat 240,Golden Lane Estate,2007-06-18,305000,F,N,L,4
+EC1Y 0SL,Crescent House,Flat 246,Golden Lane Estate,2001-09-28,135000,F,N,L,1
+EC1Y 0SL,Crescent House,Flat 248,Golden Lane Estate,2012-03-12,280000,F,N,L,2
+EC1Y 0SN,Crescent House,Flat 301,Golden Lane Estate,2006-09-29,325500,F,N,L,1
+EC1Y 0SN,Crescent House,Flat 304,Golden Lane Estate,2013-06-14,550000,F,N,L,1
+EC1Y 0SN,Crescent House,Flat 306,Golden Lane Estate,2013-05-10,350000,F,N,L,1
+EC1Y 0SN,Crescent House,Flat 307,Golden Lane Estate,2013-06-14,335000,F,N,L,2
+EC1Y 0SN,Crescent House,Flat 310,Golden Lane Estate,2018-07-16,456545,F,N,L,2
+EC1Y 0SN,Crescent House,Flat 314,Golden Lane Estate,2015-07-06,418000,F,N,L,1
+EC1Y 0SN,Crescent House,Flat 315,Golden Lane Estate,2017-08-01,418500,F,N,L,3
+EC1Y 0SN,Crescent House,Flat 319,Golden Lane Estate,2008-07-11,265000,F,N,L,1
+EC1Y 0SN,Crescent House,Flat 323,Golden Lane Estate,2014-04-16,415000,F,N,L,1
+EC1Y 0SN,Crescent House,Flat 324,Golden Lane Estate,2001-09-06,150000,F,N,L,1
+EC1Y 0SN,Crescent House,Flat 325,Golden Lane Estate,2002-01-25,160000,F,N,L,1
+EC1Y 0SN,Crescent House,Flat 327,Golden Lane Estate,2006-01-13,210000,F,N,L,1
+EC1Y 0SN,Crescent House,Flat 329,Golden Lane Estate,2016-06-14,525000,F,N,L,3
+EC1Y 0SN,Crescent House,Flat 334,Golden Lane Estate,2006-10-18,265000,F,N,L,2
+EC1Y 0SN,Crescent House,Flat 335,Golden Lane Estate,2009-12-07,280000,F,N,L,3
+EC1Y 0SN,Crescent House,Flat 337,Golden Lane Estate,2013-10-30,390000,F,N,L,2
+EC1Y 0SN,Crescent House,Flat 338,Golden Lane Estate,2003-11-14,205000,F,N,L,1
+EC1Y 0SN,Crescent House,Flat 339,Golden Lane Estate,2018-03-20,417000,F,N,L,2
+EC1Y 0SN,Crescent House,Flat 340,Golden Lane Estate,2013-08-01,390000,F,N,L,2
+EC1Y 0SN,Crescent House,Flat 342,Golden Lane Estate,2020-01-21,425000,F,N,L,3
+EC1Y 0SN,Crescent House,Flat 343,Golden Lane Estate,2006-06-08,235000,F,N,L,1
+EC1Y 0SN,Crescent House,Flat 344,Golden Lane Estate,1998-12-01,70000,F,N,L,1
+EC1Y 0SN,Crescent House,Flat 345,Golden Lane Estate,2007-05-04,318000,F,N,L,1
+EC1Y 0SN,Crescent House,Flat 346,Golden Lane Estate,2005-09-02,195000,F,N,L,2
+EC1Y 0SN,Crescent House,Flat 351,Golden Lane Estate,2005-12-07,237500,F,N,L,1
+EC1Y 0SQ,Cullum Welch House,Flat 12,Golden Lane Estate,2006-07-04,175000,F,N,L,3
+EC1Y 0SQ,Cullum Welch House,Flat 14,Golden Lane Estate,2014-02-21,317500,F,N,L,3
+EC1Y 0SQ,Cullum Welch House,Flat 15,Golden Lane Estate,2006-08-18,190000,F,N,L,1
+EC1Y 0SQ,Cullum Welch House,Flat 16,Golden Lane Estate,2007-11-07,239950,F,N,L,2
+EC1Y 0SQ,Cullum Welch House,Flat 20,Golden Lane Estate,2011-12-19,243500,F,N,L,1
+EC1Y 0SQ,Cullum Welch House,Flat 21,Golden Lane Estate,2007-01-26,215000,F,N,L,2
+EC1Y 0SQ,Cullum Welch House,Flat 24,Golden Lane Estate,2015-03-02,360000,F,N,L,2
+EC1Y 0SQ,Cullum Welch House,Flat 27,Golden Lane Estate,2002-07-25,158110,F,N,L,3
+EC1Y 0SQ,Cullum Welch House,Flat 3,Golden Lane Estate,2013-11-26,325000,F,N,L,2
+EC1Y 0SQ,Cullum Welch House,Flat 31,Golden Lane Estate,2002-01-18,125000,F,N,L,2
+EC1Y 0SQ,Cullum Welch House,Flat 34,Golden Lane Estate,1995-01-06,39000,F,N,L,1
+EC1Y 0SQ,Cullum Welch House,Flat 4,Golden Lane Estate,2011-10-19,248000,F,N,L,4
+EC1Y 0SQ,Cullum Welch House,Flat 8,Golden Lane Estate,2020-11-20,300000,F,N,L,2
+EC1Y 0SQ,Cullum Welch House,Flat 9,Golden Lane Estate,2008-02-22,247500,F,N,L,1
+EC1Y 0ST,Hatfield House,Flat 1,Golden Lane Estate,2010-09-07,300000,F,N,L,4
+EC1Y 0ST,Hatfield House,Flat 2,Golden Lane Estate,2011-11-22,250000,F,N,L,3
+EC1Y 0ST,Hatfield House,Flat 21,Golden Lane Estate,2008-01-31,485000,F,N,L,3
+EC1Y 0ST,Hatfield House,Flat 22,Golden Lane Estate,2003-01-31,249000,F,N,L,1
+EC1Y 0ST,Hatfield House,Flat 23,Golden Lane Estate,2002-10-25,315000,F,N,L,2
+EC1Y 0ST,Hatfield House,Flat 24,Golden Lane Estate,2015-10-16,802500,F,N,L,1
+EC1Y 0ST,Hatfield House,Flat 25,Golden Lane Estate,2004-05-19,282500,F,N,L,2
+EC1Y 0ST,Hatfield House,Flat 26,Golden Lane Estate,2011-09-27,445500,F,N,L,3
+EC1Y 0ST,Hatfield House,Flat 28,Golden Lane Estate,2015-09-18,690000,F,N,L,2
+EC1Y 0ST,Hatfield House,Flat 30,Golden Lane Estate,2004-06-17,270000,F,N,L,2
+EC1Y 0ST,Hatfield House,Flat 31,Golden Lane Estate,2001-01-19,190000,F,N,L,2
+EC1Y 0ST,Hatfield House,Flat 7,Golden Lane Estate,1996-10-24,57000,F,N,L,1
+EC1Y 0SU,Hatfield House,Flat 41,Golden Lane Estate,2017-06-30,695000,F,N,L,1
+EC1Y 0SU,Hatfield House,Flat 42,Golden Lane Estate,2016-06-02,695000,F,N,L,1
+EC1Y 0SU,Hatfield House,Flat 43,Golden Lane Estate,2001-10-26,285000,F,N,L,1
+EC1Y 0SU,Hatfield House,Flat 44,Golden Lane Estate,1996-06-21,90000,F,N,L,1
+EC1Y 0SU,Hatfield House,Flat 45,Golden Lane Estate,2014-02-03,650000,F,N,L,3
+EC1Y 0SU,Hatfield House,Flat 46,Golden Lane Estate,2001-07-06,226500,F,N,L,1
+EC1Y 0SU,Hatfield House,Flat 47,Golden Lane Estate,2009-10-16,370000,F,N,L,1
+EC1Y 0SU,Hatfield House,Flat 54,Golden Lane Estate,2005-08-26,290000,F,N,L,1
+EC1Y 0SU,Hatfield House,Flat 62,Golden Lane Estate,2018-04-12,700000,F,N,L,1
+EC1Y 0SU,Hatfield House,Flat 63,Golden Lane Estate,2013-11-29,692000,F,N,L,1
+EC1Y 0SU,Hatfield House,Flat 66,Golden Lane Estate,1996-08-23,80000,F,N,L,1
+EC1Y 0TN,Basterfield House,Flat 10,Golden Lane Estate,2003-12-19,298000,F,N,L,2
+EC1Y 0TN,Basterfield House,Flat 11,Golden Lane Estate,2007-10-15,465000,F,N,L,1
+EC1Y 0TN,Basterfield House,Flat 12,Golden Lane Estate,2004-04-19,275000,F,N,L,2
+EC1Y 0TN,Basterfield House,Flat 13,Golden Lane Estate,2014-05-22,655000,F,N,L,3
+EC1Y 0TN,Basterfield House,Flat 18,Golden Lane Estate,2006-07-27,425000,F,N,L,2
+EC1Y 0TN,Basterfield House,Flat 2,Golden Lane Estate,2001-01-30,215000,F,N,L,1
+EC1Y 0TN,Basterfield House,Flat 3,Golden Lane Estate,2005-03-23,290000,F,N,L,1
+EC1Y 0TN,Basterfield House,Flat 4,Golden Lane Estate,2007-09-19,450000,F,N,L,1
+EC1Y 0TN,Basterfield House,Flat 6,Golden Lane Estate,2010-12-16,450000,F,N,L,1
+EC1Y 0TN,Basterfield House,Flat 7,Golden Lane Estate,2002-04-12,235000,F,N,L,1
+EC1Y 0TN,Basterfield House,Flat 8,Golden Lane Estate,1998-08-19,115000,F,N,L,1
+EC1Y 0TN,Basterfield House,Flat 9,Golden Lane Estate,2005-12-02,345000,F,N,L,1
+EC1Y 0TP,Basterfield House,Flat 22,Golden Lane Estate,2011-10-07,437000,F,N,L,1
+EC1Y 0TP,Basterfield House,Flat 24,Golden Lane Estate,2011-05-09,432000,F,N,L,2
+EC1Y 0TP,Basterfield House,Flat 25,Golden Lane Estate,2011-02-21,425000,F,N,L,1
+EC1Y 0TP,Basterfield House,Flat 29,Golden Lane Estate,2007-07-17,488000,F,N,L,2
+EC1Y 0TP,Basterfield House,Flat 30,Golden Lane Estate,2008-10-30,430000,F,N,L,2
+EC1Y 0TP,Basterfield House,Flat 32,Golden Lane Estate,2008-09-25,450000,F,N,L,3
+EC1Y 0TP,Basterfield House,Flat 37,Golden Lane Estate,2007-10-12,500000,F,N,L,1
+EC1Y 0TR,Basterfield House,Flat 41,Golden Lane Estate,2013-12-19,640000,F,N,L,1
+EC1Y 0TR,Basterfield House,Flat 44,Golden Lane Estate,2009-06-05,400000,F,N,L,1
+EC1Y 0TR,Basterfield House,Flat 52,Golden Lane Estate,2004-10-08,272500,F,N,L,1
+EC1Y 0TR,Basterfield House,Flat 53,Golden Lane Estate,1997-08-22,90000,F,N,L,1
+EC1Y 0TR,Basterfield House,Flat 54,Golden Lane Estate,2006-12-08,355000,F,N,L,2
+EC1Y 0TR,Basterfield House,Flat 56,Golden Lane Estate,2004-07-09,325000,F,N,L,2
+EC1Y 0TH,1 - 5,Penthouse 1,Honduras Street,2012-02-27,810000,F,N,L,5
+EC1Y 0TH,"Aperture House, 6",Flat 1,Honduras Street,2016-03-31,670000,F,N,L,3
+EC1Y 0TH,"Aperture House, 6",Flat 3,Honduras Street,2013-03-15,575000,F,N,L,1
+EC1Y 0TH,"Aperture House, 6",Flat 4,Honduras Street,2013-03-15,465740,F,N,L,1
+EC1Y 0TH,"Aperture House, 6",Flat 6,Honduras Street,2013-03-15,530000,F,Y,L,1
+EC1Y 0TH,"Aperture House, 6",Flat 9,Honduras Street,2013-07-22,549500,F,N,L,2
+EC1Y 8AB,1,Apartment 1,Lambs Passage,2010-05-14,640000,F,Y,L,1
+EC1Y 8AB,1,Apartment 10,Lambs Passage,2010-01-04,435000,F,Y,L,1
+EC1Y 8AB,1,Apartment 11,Lambs Passage,2010-04-08,399950,F,Y,L,1
+EC1Y 8AB,1,Apartment 12,Lambs Passage,2010-02-10,399950,F,Y,L,1
+EC1Y 8AB,1,Apartment 13,Lambs Passage,2011-01-19,565250,F,Y,L,1
+EC1Y 8AB,1,Apartment 14,Lambs Passage,2010-06-25,630000,F,Y,L,1
+EC1Y 8AB,1,Apartment 15,Lambs Passage,2010-03-30,380000,F,Y,L,1
+EC1Y 8AB,1,Apartment 16,Lambs Passage,2013-02-25,650000,F,N,L,2
+EC1Y 8AB,1,Apartment 17,Lambs Passage,2010-12-01,627750,F,Y,L,1
+EC1Y 8AB,1,Apartment 18,Lambs Passage,2009-12-23,435000,F,Y,L,1
+EC1Y 8AB,1,Apartment 19,Lambs Passage,2013-09-19,430000,F,N,L,2
+EC1Y 8AB,1,Apartment 2,Lambs Passage,2014-01-24,535000,F,N,L,2
+EC1Y 8AB,1,Apartment 20,Lambs Passage,2010-03-24,395000,F,Y,L,1
+EC1Y 8AB,1,Apartment 21,Lambs Passage,2009-12-22,585000,F,Y,L,1
+EC1Y 8AB,1,Apartment 22,Lambs Passage,2010-03-30,600000,F,Y,L,1
+EC1Y 8AB,1,Apartment 23,Lambs Passage,2010-03-17,385500,F,Y,L,1
+EC1Y 8AB,1,Apartment 24,Lambs Passage,2011-01-26,565250,F,Y,L,1
+EC1Y 8AB,1,Apartment 25,Lambs Passage,2014-08-01,800000,F,N,L,2
+EC1Y 8AB,1,Apartment 26,Lambs Passage,2014-01-27,500000,F,N,L,2
+EC1Y 8AB,1,Apartment 28,Lambs Passage,2010-03-16,385000,F,Y,L,1
+EC1Y 8AB,1,Apartment 29,Lambs Passage,2015-05-01,489000,F,N,L,2
+EC1Y 8AB,1,Apartment 3,Lambs Passage,2015-03-27,472500,F,N,L,2
+EC1Y 8AB,1,Apartment 30,Lambs Passage,2010-03-15,385000,F,Y,L,1
+EC1Y 8AB,1,Apartment 31,Lambs Passage,2013-06-25,412000,F,N,L,2
+EC1Y 8AB,1,Apartment 32,Lambs Passage,2013-03-01,460000,F,N,L,2
+EC1Y 8AB,1,Apartment 33,Lambs Passage,2014-06-16,475000,F,N,L,2
+EC1Y 8AB,1,Apartment 34,Lambs Passage,2014-04-25,451000,F,N,L,2
+EC1Y 8AB,1,Apartment 35,Lambs Passage,2009-12-11,405000,F,Y,L,1
+EC1Y 8AB,1,Apartment 36,Lambs Passage,2010-04-29,415000,F,Y,L,1
+EC1Y 8AB,1,Apartment 37,Lambs Passage,2010-03-15,380000,F,Y,L,1
+EC1Y 8AB,1,Apartment 38,Lambs Passage,2009-12-14,380000,F,Y,L,1
+EC1Y 8AB,1,Apartment 39,Lambs Passage,2010-05-21,390000,F,Y,L,1
+EC1Y 8AB,1,Apartment 4,Lambs Passage,2010-01-12,440000,F,Y,L,1
+EC1Y 8AB,1,Apartment 40,Lambs Passage,2010-01-12,399950,F,Y,L,1
+EC1Y 8AB,1,Apartment 41,Lambs Passage,2013-10-16,580000,F,N,L,2
+EC1Y 8AB,1,Apartment 42,Lambs Passage,2009-12-14,385000,F,Y,L,1
+EC1Y 8AB,1,Apartment 43,Lambs Passage,2014-02-20,575000,F,N,L,2
+EC1Y 8AB,1,Apartment 44,Lambs Passage,2009-12-14,315000,F,Y,L,1
+EC1Y 8AB,1,Apartment 45,Lambs Passage,2011-10-20,300000,F,N,L,2
+EC1Y 8AB,1,Apartment 46,Lambs Passage,2011-10-12,432000,F,N,L,2
+EC1Y 8AB,1,Apartment 47,Lambs Passage,2010-01-04,390000,F,Y,L,1
+EC1Y 8AB,1,Apartment 48,Lambs Passage,2010-05-07,315000,F,Y,L,1
+EC1Y 8AB,1,Apartment 49,Lambs Passage,2009-12-04,540000,F,Y,L,1
+EC1Y 8AB,1,Apartment 5,Lambs Passage,2010-08-31,560000,F,Y,L,1
+EC1Y 8AB,1,Apartment 50,Lambs Passage,2013-07-22,455000,F,N,L,2
+EC1Y 8AB,1,Apartment 51,Lambs Passage,2012-07-23,440000,F,N,L,2
+EC1Y 8AB,1,Apartment 52,Lambs Passage,2009-12-04,430000,F,Y,L,1
+EC1Y 8AB,1,Apartment 53,Lambs Passage,2009-12-04,435000,F,Y,L,1
+EC1Y 8AB,1,Apartment 54,Lambs Passage,2018-03-16,425000,F,N,L,2
+EC1Y 8AB,1,Apartment 55,Lambs Passage,2017-06-06,540000,F,N,L,2
+EC1Y 8AB,1,Apartment 56,Lambs Passage,2014-05-07,510000,F,N,L,2
+EC1Y 8AB,1,Apartment 57,Lambs Passage,2014-08-01,855000,F,N,L,2
+EC1Y 8AB,1,Apartment 58,Lambs Passage,2014-10-31,830000,F,N,L,2
+EC1Y 8AB,1,Apartment 59,Lambs Passage,2010-03-15,780000,F,Y,L,1
+EC1Y 8AB,1,Apartment 6,Lambs Passage,2014-03-14,749950,F,N,L,2
+EC1Y 8AB,1,Apartment 61,Lambs Passage,2009-11-16,194237,F,Y,L,1
+EC1Y 8AB,1,Apartment 62,Lambs Passage,2009-11-16,220485,F,Y,L,1
+EC1Y 8AB,1,Apartment 64,Lambs Passage,2009-11-16,273966,F,Y,L,1
+EC1Y 8AB,1,Apartment 65,Lambs Passage,2009-11-16,194237,F,Y,L,1
+EC1Y 8AB,1,Apartment 66,Lambs Passage,2009-11-16,220485,F,Y,L,1
+EC1Y 8AB,1,Apartment 67,Lambs Passage,2009-11-16,180456,F,Y,L,1
+EC1Y 8AB,1,Apartment 68,Lambs Passage,2009-11-16,273966,F,Y,L,1
+EC1Y 8AB,1,Apartment 69,Lambs Passage,2009-11-16,194237,F,Y,L,1
+EC1Y 8AB,1,Apartment 7,Lambs Passage,2010-03-19,389950,F,Y,L,1
+EC1Y 8AB,1,Apartment 70,Lambs Passage,2009-11-16,220485,F,Y,L,1
+EC1Y 8AB,1,Apartment 71,Lambs Passage,2009-11-16,180456,F,Y,L,1
+EC1Y 8AB,1,Apartment 72,Lambs Passage,2009-11-16,273966,F,Y,L,1
+EC1Y 8AB,1,Apartment 73,Lambs Passage,2009-11-16,157224,F,Y,L,1
+EC1Y 8AB,1,Apartment 74,Lambs Passage,2009-11-16,225485,F,Y,L,1
+EC1Y 8AB,1,Apartment 75,Lambs Passage,2010-10-08,248325,F,N,L,2
+EC1Y 8AB,1,Apartment 76,Lambs Passage,2009-11-16,151318,F,Y,L,1
+EC1Y 8AB,1,Apartment 77,Lambs Passage,2020-04-24,125000,F,N,L,1
+EC1Y 8AB,1,Apartment 78,Lambs Passage,2016-12-05,140000,F,N,L,2
+EC1Y 8AB,1,Apartment 79,Lambs Passage,2009-11-16,225485,F,Y,L,1
+EC1Y 8AB,1,Apartment 8,Lambs Passage,2010-05-13,565000,F,Y,L,1
+EC1Y 8AB,1,Apartment 80,Lambs Passage,2013-11-15,110000,F,N,L,2
+EC1Y 8AB,1,Apartment 9,Lambs Passage,2011-02-01,625000,F,Y,L,1
+EC1Y 8AB,1,Unit A,Lambs Passage,2012-08-31,590000,F,N,L,1
+EC1Y 8TE,Shire House,Flat 15,Lambs Passage,2015-11-27,507500,F,N,L,1
+EC1Y 8TE,Shire House,Flat 17,Lambs Passage,2014-09-30,500000,F,N,L,2
+EC1Y 8TE,Shire House,Flat 18,Lambs Passage,2014-03-21,530000,F,N,L,4
+EC1Y 8TE,Shire House,Flat 2,Lambs Passage,2016-01-06,580000,F,N,L,1
+EC1Y 8TE,Shire House,Flat 20,Lambs Passage,2005-10-06,243000,F,N,L,2
+EC1Y 8TE,Shire House,Flat 21,Lambs Passage,2016-01-05,480000,F,N,L,1
+EC1Y 8TE,Shire House,Flat 23,Lambs Passage,2002-07-04,165000,F,N,L,1
+EC1Y 8TE,Shire House,Flat 24,Lambs Passage,2010-12-10,330000,F,N,L,1
+EC1Y 8TE,Shire House,Flat 27,Lambs Passage,2011-10-03,285000,F,N,L,1
+EC1Y 8TE,Shire House,Flat 28,Lambs Passage,1998-01-09,101500,F,N,L,1
+EC1Y 8TE,Shire House,Flat 3,Lambs Passage,2016-12-13,585000,F,N,L,2
+EC1Y 8TE,Shire House,Flat 7,Lambs Passage,2005-07-06,250000,F,N,L,2
+EC1Y 8TE,Shire House,Flat 8,Lambs Passage,2003-07-31,230000,F,N,L,1
+EC1Y 8RQ,11,,Mallow Street,2015-02-06,900000,F,N,L,4
+EC1Y 8RQ,11 - 12,Flat 2,Mallow Street,1997-03-07,200000,F,N,L,1
+EC1Y 8RQ,14,10,Mallow Street,2009-11-03,640000,F,N,L,3
+EC1Y 8RQ,14,11,Mallow Street,2008-12-19,500000,F,N,L,2
+EC1Y 8RQ,14,Flat 1,Mallow Street,2011-06-30,620000,F,N,L,3
+EC1Y 8RQ,14,Flat 11,Mallow Street,2017-03-15,850000,F,N,L,2
+EC1Y 8RQ,14,Flat 12,Mallow Street,2009-10-01,720000,F,N,L,3
+EC1Y 8RQ,14,Flat 2,Mallow Street,2006-07-07,333000,F,N,L,2
+EC1Y 8RQ,14,Flat 3,Mallow Street,2008-02-15,532750,F,N,L,3
+EC1Y 8RQ,14,Flat 4,Mallow Street,1999-11-19,215000,F,Y,L,1
+EC1Y 8RQ,14,Flat 5,Mallow Street,1999-11-17,170000,F,N,L,1
+EC1Y 8RQ,14,Flat 6,Mallow Street,1999-10-29,209000,F,Y,L,1
+EC1Y 8RQ,14,Flat 7,Mallow Street,2006-03-14,400008,F,N,L,2
+EC1Y 8RQ,14,Flat 8,Mallow Street,1999-10-29,170000,F,Y,L,1
+EC1Y 8RQ,14,Flat 9,Mallow Street,2016-03-23,955000,F,N,L,4
+EC1Y 8RQ,3 - 4,,Mallow Street,2012-09-20,960000,F,N,L,4
+EC1Y 8RQ,3 - 4,Basement Flat,Mallow Street,1996-10-16,87000,F,N,L,1
+EC1Y 8RQ,3 - 4,First Floor Flat,Mallow Street,2005-11-04,475000,F,N,L,2
+EC1Y 8RQ,3 - 4,Flat 4,Mallow Street,2020-04-03,1600000,F,N,L,4
+EC1Y 8RQ,3 - 4,Ground Floor Flat,Mallow Street,1996-12-17,175000,F,N,L,1
+EC1Y 8RQ,5 - 6,Flat 1,Mallow Street,2012-09-03,699950,F,N,L,4
+EC1Y 8RQ,5 - 6,Flat 2,Mallow Street,2001-06-04,330000,F,N,L,1
+EC1Y 8RQ,7,Ground Floor Flat,Mallow Street,2013-12-09,875000,F,N,L,1
+EC1Y 8RQ,7,Lower Ground Floor,Mallow Street,2010-04-09,310000,F,N,L,2
+EC1Y 8RQ,8,,Mallow Street,1999-06-25,270000,T,N,F,1
+EC1Y 8RQ,8A,,Mallow Street,2006-10-02,360000,F,N,L,2
+EC1Y 8RQ,8C,,Mallow Street,2003-07-11,249999,F,N,L,1
+EC1Y 8JD,103,Flat 1,Whitecross Street,2020-09-29,610000,F,N,L,4
+EC1Y 8JD,103,Flat 3,Whitecross Street,1999-09-23,145000,F,N,L,1
+EC1Y 8JD,103,Flat 4,Whitecross Street,2003-07-04,308600,F,N,L,2
+EC1Y 8JD,103,Flat 5,Whitecross Street,2000-08-10,155000,F,N,L,1
+EC1Y 8JD,109A,,Whitecross Street,2004-08-31,317120,F,N,F,1
+EC1Y 8JL,129,Flat 1,Whitecross Street,2020-06-15,490000,F,N,L,2
+EC1Y 8JL,129,Flat 2,Whitecross Street,2011-08-12,280000,F,N,L,2
+EC1Y 8JL,129,Flat 3,Whitecross Street,2016-03-30,730000,F,N,L,2
+EC1Y 8JL,133,,Whitecross Street,1996-07-10,35000,T,N,F,1
+EC1Y 8JL,137A,,Whitecross Street,2014-07-04,630000,F,N,L,1
+EC1Y 8JL,139,,Whitecross Street,2004-10-19,330000,T,N,F,2
+EC1Y 8JL,139,First And Second Floor Flat,Whitecross Street,2014-07-04,540000,F,N,L,2
+EC1Y 8JL,145,Flat 1,Whitecross Street,2019-12-23,500000,F,N,L,1
+EC1Y 8JL,145,Flat 2,Whitecross Street,2020-01-31,635000,F,N,L,1
+EC1Y 8JL,145,Flat 3,Whitecross Street,2019-11-08,725000,F,N,L,1
+EC1Y 8JL,145,Flat 4,Whitecross Street,2019-11-26,500000,F,N,L,1
+EC1Y 8JL,145,Flat 5,Whitecross Street,2020-03-16,647500,F,N,L,1
+EC1Y 8JL,145,Flat 6,Whitecross Street,2020-03-05,476000,F,N,L,1
+EC1Y 8JL,145,Flat 7,Whitecross Street,2019-10-25,592500,F,N,L,1
+EC1Y 8JL,153,Flat 1,Whitecross Street,2020-07-27,715000,F,N,L,1
+EC1Y 8JL,153,Flat 2,Whitecross Street,2020-09-04,640000,F,N,L,1
+EC1Y 8JL,153,Flat 3,Whitecross Street,2020-09-30,575000,F,N,L,1
+EC1Y 8JL,153,Flat 7,Whitecross Street,2020-09-04,817500,F,N,L,1
+EC1Y 8JL,161,Flat 2,Whitecross Street,2011-05-31,270000,F,N,L,1
+EC1Y 8JL,"Green Man And Still Public House, 161",Flat 7,Whitecross Street,2007-08-10,535000,F,N,L,1
+EC1Y 8JL,"Green Man And Still, 161",Flat 4,Whitecross Street,2002-02-08,165000,F,N,L,1
+EC1Y 8JL,"The Green Man And Still Public House, 161",Flat 1,Whitecross Street,2002-03-15,175000,F,N,L,1
+EC1Y 8JL,"The Green Man And Still Public House, 161",Flat 2,Whitecross Street,2007-05-24,250000,F,N,L,2
+EC1Y 8JL,"The Green Man And Still Public House, 161",Flat 3,Whitecross Street,2002-03-01,145000,F,N,L,1
+EC1Y 8JL,"The Green Man And Still Public House, 161",Flat 6,Whitecross Street,2002-04-24,180000,F,N,L,1
+EC1Y 8JL,"The Greenman And Still Public House, 161",Flat 5,Whitecross Street,2002-04-10,157500,F,Y,L,1
+EC1Y 8JT,169,,Whitecross Street,1995-07-14,15000,T,N,L,1
+EC1Y 8JT,175,Flat 1,Whitecross Street,2020-12-17,1750000,F,N,L,1
+EC1Y 8PU,126,Flat 1,Whitecross Street,2006-08-10,215000,F,Y,L,1
+EC1Y 8PU,126,Flat 2,Whitecross Street,2016-02-09,425000,F,N,L,3
+EC1Y 8PU,130,Flat A-B,Whitecross Street,2000-06-14,270000,T,N,F,1
+EC1Y 8QL,"Coltash Court, 152",Flat 3,Whitecross Street,2015-03-23,222300,F,N,L,1
+EC1Y 8QL,"Coltash Court, 152",Flat 30,Whitecross Street,1999-09-08,85000,F,N,L,1
+EC1Y 8QL,"Coltash Court, 152",Flat 33,Whitecross Street,2016-03-18,395000,F,N,L,2
+EC1Y 8QL,"Coltash Court, 152",Flat 42,Whitecross Street,2012-12-20,299500,F,N,L,2
+EC1Y 8QL,"Coltash Court, 152",Flat 44,Whitecross Street,2004-02-20,160000,F,N,L,1
+EC1Y 8QL,"Coltash Court, 152",Flat 46,Whitecross Street,2007-04-03,262500,F,N,L,2
+EC1Y 8QL,"Coltash Court, 152",Flat 5,Whitecross Street,2007-07-23,280000,F,N,L,1
+EC1Y 8QL,"Coltash Court, 152",Flat 51,Whitecross Street,2005-05-26,185000,F,N,L,1
+EC1Y 8QL,"Coltash Court, 152",Flat 62,Whitecross Street,2013-12-20,350000,F,N,L,1
+EC1Y 8QL,"Coltash Court, 152",Flat 65,Whitecross Street,2007-04-30,260000,F,N,L,1
+EC1Y 8QN,164,,Whitecross Street,2007-09-07,336000,T,N,F,1
+EC1Y 8QP,177 - 187,Flat 1,Whitecross Street,2004-04-21,270000,F,N,L,1
+EC1Y 8QP,177 - 187,Flat 2,Whitecross Street,2004-02-16,242500,F,N,L,1
+EC1Y 8QP,177 - 187,Flat 3,Whitecross Street,2010-11-15,570000,F,N,L,3
+EC1Y 8QP,177 - 187,Flat 4,Whitecross Street,2004-01-30,295000,F,N,L,1
+EC1Y 8QP,177 - 187,Flat 5,Whitecross Street,2004-06-18,285000,F,N,L,1
+EC1Y 8QP,177 - 187,Flat 6,Whitecross Street,2004-12-16,225000,F,N,L,1
+EC1Y 8QP,191,First Floor Flat,Whitecross Street,2006-01-12,165000,F,Y,L,1
+EC1Y 8QP,201,,Whitecross Street,1997-02-28,121500,F,N,F,1
+EC1Y 8QP,201A,,Whitecross Street,1997-02-28,121500,F,N,L,1
+EC1Y 8TD,"Cooper House, 90",Flat 12,Whitecross Street,2008-12-05,245000,F,N,L,1
+EC1Y 8TD,"Cooper House, 90",Flat 16,Whitecross Street,2003-09-12,149000,F,N,L,1
+EC1Y 8TD,"Cooper House, 90",Flat 30,Whitecross Street,2016-02-11,437500,F,N,L,1
+EC1Y 8TD,"Cooper House, 90",Flat 33,Whitecross Street,2000-08-31,127500,F,N,L,2
+EC1Y 8TD,"Cooper House, 90",Flat 36,Whitecross Street,2018-09-25,545000,F,N,L,2
+EC1Y 8TD,"Cooper House, 90",Flat 37,Whitecross Street,1995-11-17,47500,F,N,L,1
+EC1Y 8TD,"Cooper House, 90",Flat 38,Whitecross Street,2004-11-11,210000,F,N,L,1
+EC1Y 8TD,"Cooper House, 90",Flat 42,Whitecross Street,2002-07-31,165000,F,N,L,1
+EC1Y 8TD,"Cooper House, 90",Flat 7,Whitecross Street,2001-10-05,175000,F,N,L,1

@@ -1,40 +1,40 @@
 # Blueprint for Claude
 
-**Your area's property market, in Claude.** A free Claude skill from
-[Blueprint Property Marketing](https://blueprintpropertymarketing.com) for estate agents, developers, land and
-investment teams, and anyone who markets property in England and Wales.
+**The property answers you need, in Claude.** A free Claude skill from
+[Blueprint Property Marketing](https://blueprintpropertymarketing.com) for estate agents, letting agents, landlords,
+developers, investors and anyone who markets property in England and Wales.
 
-Give it any address or postcode in England and Wales and it opens a dashboard of that area beside the chat: price trends, sales by
-month and property type, new-build schemes, a postcode map, the busiest streets, and every sale since
-2021 to search.
-Give it your website or your logo and the dashboard carries your logo and colours. It is built from
-HM Land Registry data and the UK House Price Index. No API keys, no spreadsheets, nothing to set up
-beyond the upload.
+Give it any address and it tells you what the home has sold for since 1995, what that price is on today's index,
+what comparable homes nearby sold for, and whether an asking price stacks up. It gives the area's rents and yields,
+the local facts a listing needs (flood risk, broadband, conservation areas, listed buildings, coal mining, schools and
+stations), and a full area dashboard. Give it your website or logo and every page carries your logo and colours. It's
+built from official open data. No API keys, no spreadsheets, nothing to set up beyond the upload.
 
 ![The Blueprint area dashboard for Sale, M33](docs/example-dashboard.png)
 
 ## What it does.
 
-- **Area dashboard.** The average price and yearly change for your local authority, against your
-  region and England; registered sales by month; prices by property type; price bands; a postcode
-  map; the busiest streets.
-- **Every sale.** Search any street, postcode or house number since 2021, and filter by type, price
-  and new builds. Click a street or a postcode on the map to see its sales. Useful before a valuation
-  or a site appraisal.
-- **New builds.** Every scheme in the area with units sold, selling period, home types and median
-  price, and new-build sales set beside established homes of the same type in the same postcode
-  sectors and months. Leasehold shares by property type.
-- **Side by side.** Compare two or three areas: prices, sales, medians type by type, price bands and
-  the busiest streets. Useful for agents with more than one branch and developers weighing up sites.
-- **Any question the data can answer.** "Every semi on this street since 2021 and what each sold for
-  before." "Which postcodes in M33 have the most detached sales?" Claude works it out from the sales
-  data and says how.
-- **In your branding.** Share your website and it uses your logo and brand colour. If Claude can't
-  reach your site, attach your logo and it takes the colours from that.
-- **Questions in plain English.** "What sold on Brooklands Road since January?" "How do semis in M33
-  compare with Trafford?"
-
-More tools for property marketers are on the way.
+- **Address check.** Every registered sale of a home since 1995, its last price brought forward on the UK House Price
+  Index for its council area and property type ("on today's index", not a valuation), and the nearest comparable
+  sales of the same type, each brought to today's index. A branded property report for a valuation or a vendor.
+- **Asking-price check.** Where any asking price sits among those comparables, for stuck listings, relaunches and
+  buyers wondering what to offer. Claude can review the listing itself from screenshots.
+- **Rents and yields.** ONS average rents for the council area by bedrooms and property type, the change on a year,
+  and gross yields by type. For rent reviews, landlords deciding whether to sell, and investors.
+- **Local facts and material information.** For any postcode: flood risk from rivers and the sea, broadband and
+  mobile, conservation area, Article 4, green belt, national park or National Landscape, tree preservation areas,
+  listed buildings nearby, coal mining high-risk areas, the nearest schools and stations, and the National Trading
+  Standards material information checklist, showing what the data fills in and what the seller supplies.
+- **Area dashboard.** Price trends against the region and England, houses against flats over ten years, sales by
+  month and type, price bands, rents and yields, new-build schemes, a street map, and every sale since 2021 to search.
+- **Side by side.** Two or three areas compared: prices, sales, medians type by type, price bands.
+- **For developers.** New-build schemes against established homes, unit mix, brownfield register sites, constraints
+  at a site.
+- **Area guides and AI search.** The facts for an area page for every town you cover, and a check of how you show up
+  when buyers ask AI assistants for local agents.
+- **Writing from the numbers.** Vendor updates, price conversations, rent-review letters, landlord newsletters, board
+  papers, LinkedIn posts: Claude writes them from the real figures, with the sources.
+- **In your branding.** Share your website and pages use your logo and brand colour, or attach your logo.
 
 ## Install it.
 
@@ -56,7 +56,7 @@ Using Claude Code? Copy `skills/blueprint` into `~/.claude/skills/blueprint`.
 ## Where it works.
 
 Any address, postcode or place in England and Wales: all 2,288 postcode districts with registered sales,
-4,608,851 sales since January 2021. Data is refreshed each month; your installed skill picks up the new
+4,608,851 sales since January 2021, and the earlier history of 14,188,579 homes back to 1995. Data is refreshed each month; your installed skill picks up the new
 figures automatically.
 
 **If Claude can't download the data:** from the
@@ -73,11 +73,28 @@ SK7), attach it to your chat, and ask Claude to use it.
 - **UK House Price Index.** Published for the local authority, about two months behind. Every price
   trend comes from the index, because medians move with the mix of homes sold.
 - **Postcode locations** for the map, and each area's region, from the ONS Postcode Directory.
+- **Rents:** the ONS Price Index of Private Rents, by council area, bedrooms and property type.
+- **Flood risk:** the Environment Agency's postcodes in areas at risk of flooding from rivers and the sea (England).
+- **Broadband and mobile:** Ofcom Connected Nations 2025.
+- **Planning and heritage:** the Planning Data platform (conservation areas, Article 4 directions, green belt, tree
+  preservation, national parks, National Landscapes, listed buildings, scheduled monuments, brownfield land), with
+  Historic England and Natural England data (England).
+- **Coal mining:** the Mining Remediation Authority's Development High Risk Areas.
+- **Schools and stations:** Get Information about Schools (DfE, England) and NaPTAN (DfT).
+- **The street map** under the dots: roads, rivers, parks and place names from Ordnance Survey OpenData
+  (OS Open Roads, OS Open Rivers, OS Open Greenspace, OS Open Names).
 
 Contains HM Land Registry data © Crown copyright and database right 2026. This data is licensed under
 the [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
 Postcode locations contain OS data © Crown copyright and database right 2026, and Royal Mail data
 © Royal Mail copyright and database right 2026. Source: Office for National Statistics, OGL v3.0.
+The street map contains OS data © Crown copyright and database right 2026, licensed under the Open
+Government Licence v3.0.
+Rents: Source: Office for National Statistics, OGL v3.0. Flood risk: contains Environment Agency information ©
+Environment Agency and/or database right. Broadband and mobile: contains Ofcom data. Planning and heritage: contains
+public sector information licensed under the OGL v3.0, including Historic England and Natural England data © Crown
+copyright and database right. Coal mining: contains Mining Remediation Authority data. Schools: Department for
+Education. Stations: Department for Transport. All under the Open Government Licence v3.0.
 
 Price Paid Data contains address data processed against Ordnance Survey's AddressBase Premium product,
 which incorporates Royal Mail's PAF database. Royal Mail and Ordnance Survey permit use of this address
@@ -85,7 +102,7 @@ data for personal and/or non-commercial use, and to display for the purpose of p
 property price information services. For any other use, contact Royal Mail
 (address.management@royalmail.com).
 
-The dashboard is not a valuation, and Blueprint Property Marketing is not affiliated with HM Land
+Nothing here is a valuation, and Blueprint Property Marketing is not affiliated with HM Land
 Registry. Check figures before you rely on them.
 
 ## Privacy.

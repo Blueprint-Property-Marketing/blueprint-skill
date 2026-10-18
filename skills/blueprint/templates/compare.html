@@ -86,6 +86,7 @@
 (function () {
   "use strict";
   var D = JSON.parse(el("blueprint-data").textContent);
+  var PUBLIC = /[?&#]public\b/.test(location.href) || document.documentElement.classList.contains("public");
   var BR = applyBrand(D), COL = BR.series;
   var AS = D.areas, N = AS.length;
   document.documentElement.style.setProperty("--n", N);
@@ -129,7 +130,7 @@
   ].concat(TYPES.map(function (t) { return [t + ", median", function (x) { return typeRow(x, t); }]; })).concat([
     ["New-build sales, 12 months", function (x) { return x.last_12_months.new_build_sales; }],
     ["New-build sales since 2021", function (x) { var nb = x.new_builds || {}; return nb.since_start ? nb.since_start.toLocaleString("en-GB") + "<span class='sub2'>" + nb.share_pct + "% of sales; latest " + esc(nb.latest.street + ", " + nb.latest.month) + "</span>" : "none"; }],
-    ["Top sale, 12 months", function (x) { var t = x.last_12_months.top_sale; return t ? money(t.price) + "<span class='sub2'>" + esc(t.type + ", " + t.street + ", " + t.month) + "</span>" : "n/a"; }],
+    ["Top sale, 12 months", function (x) { var t = x.last_12_months.top_sale; return t ? money(t.price) + "<span class='sub2'>" + esc(t.type + ", " + (PUBLIC ? "" : t.street + ", ") + t.month) + "</span>" : "n/a"; }],
     ["Busiest street", function (x) { var s = x.last_12_months.busiest_streets[0]; return s ? esc(s.street) + "<span class='sub2'>" + s.sales + " sales</span>" : "n/a"; }]
   ]);
   el("side").innerHTML = "<tr><th></th>" + AS.map(function (x, i) { return "<th>" + sw(i) + esc(x.area.name + ", " + x.area.district) + "</th>"; }).join("") + "</tr>" +

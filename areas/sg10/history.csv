@@ -1,0 +1,430 @@
+postcode,paon,saon,street,date,price,type,new,tenure,sales
+SG10 6AB,Dell Cottage,,,2016-03-09,1500000,D,N,F,1
+SG10 6AD,Brands,,,2004-09-01,1250000,D,N,F,1
+SG10 6AD,Brands Farm Cottage,,,2006-01-17,470000,D,N,F,1
+SG10 6BA,Wynches,The Lodge,,2002-04-26,445000,D,N,F,1
+SG10 6BA,Wynches Barn,,,1997-01-31,370500,D,Y,F,1
+SG10 6BA,Wynches-Bothy,,,2020-07-16,1057500,D,N,F,2
+SG10 6BD,Barrowfield House,,,1999-02-26,1425000,D,N,F,1
+SG10 6BD,Barrowfield Lodge,,,1995-01-23,233500,D,N,F,1
+SG10 6HG,Little Agogs,,,2008-10-03,1762500,D,N,F,1
+SG10 6HN,Lordship Cottage,,,2018-10-18,653000,D,N,F,3
+SG10 6HN,Mulberry Lodge,,,2001-10-29,425000,S,N,F,1
+SG10 6HR,Holdens,,,1998-01-21,565000,D,N,F,1
+SG10 6HW,Bishops Folly,,,2010-07-02,1500000,T,N,F,1
+SG10 6HW,Palace Bothy,,,2017-09-29,980000,S,N,F,1
+SG10 6HW,Palace House,,,2017-09-01,2170000,T,N,F,1
+SG10 6JD,Elmtree Cottage,,,1997-12-10,125000,D,N,F,1
+SG10 6JD,Warren Cottage,,,2000-03-24,165000,D,N,F,1
+SG10 6JG,Danebridge,Longfield,,2018-02-26,950000,D,N,F,3
+SG10 6JH,Baltimore,,,2014-09-22,750000,D,N,F,1
+SG10 6JH,Cambusdrennie,,,2001-04-30,350000,D,N,F,1
+SG10 6JJ,Ardbrin,,,2011-07-08,910000,D,N,F,1
+SG10 6JJ,Church Lane Villa,1,,1997-05-23,156950,S,N,F,3
+SG10 6JJ,High Gables,,,2014-11-27,995000,D,N,F,3
+SG10 6JJ,Oddicombe,,,2003-10-23,482500,D,N,F,1
+SG10 6JL,Blacksmith Cottage,,,2016-06-17,690000,D,N,F,1
+SG10 6JL,Rose Cottage,,,2015-11-13,530000,D,N,F,1
+SG10 6JP,Cheviot,,,2006-06-30,290000,D,N,F,2
+SG10 6JP,Croft Cottage,,,2004-10-20,400000,D,N,F,1
+SG10 6JP,Grudd's Farm,,,2014-02-19,1400000,D,N,F,2
+SG10 6JP,Hales Croft,,,2016-12-19,1125000,D,N,F,2
+SG10 6JP,Marigolds,,,2007-07-27,382000,S,N,F,1
+SG10 6JP,Silver Fern Lodge,,,2005-09-01,420000,D,N,F,1
+SG10 6JP,Uffords Farm House,,,2019-12-20,845000,D,N,F,1
+SG10 6JP,White Horse Cottage,,,1998-04-30,250000,D,N,F,1
+SG10 6JQ,Five Farthings,,,2020-08-05,455000,S,N,F,2
+SG10 6JQ,Snells Cottages,,,2007-07-13,380000,S,N,F,1
+SG10 6LD,Hunts Barn,3,,2013-12-06,940000,T,N,F,1
+SG10 6LD,Hunts Barn,4,,2013-10-11,438500,T,N,F,1
+SG10 6DP,1,,Ash Meadow,2018-08-13,405000,S,N,F,2
+SG10 6DP,10,,Ash Meadow,2014-11-07,124995,F,N,L,5
+SG10 6DP,11,,Ash Meadow,2007-03-27,145995,F,N,L,3
+SG10 6DP,12,,Ash Meadow,2004-03-25,114500,F,N,L,3
+SG10 6DP,13,,Ash Meadow,2017-11-16,193000,F,N,L,4
+SG10 6DP,14,,Ash Meadow,2017-05-03,282500,T,N,F,1
+SG10 6DP,16,,Ash Meadow,2006-01-27,249995,T,N,F,2
+SG10 6DP,17,,Ash Meadow,2016-03-24,304000,T,N,F,3
+SG10 6DP,2,,Ash Meadow,2004-01-28,179200,T,N,F,2
+SG10 6DP,20,,Ash Meadow,1996-07-29,67995,T,N,F,1
+SG10 6DP,21,,Ash Meadow,2009-02-13,187000,T,N,F,3
+SG10 6DP,22,,Ash Meadow,2019-11-29,290000,T,N,F,4
+SG10 6DP,23,,Ash Meadow,2015-06-25,195000,T,N,F,1
+SG10 6DP,25,,Ash Meadow,2004-08-24,179995,T,N,F,2
+SG10 6DP,26,,Ash Meadow,2010-09-16,247500,T,N,F,2
+SG10 6DP,27,,Ash Meadow,2019-10-25,285000,T,N,F,2
+SG10 6DP,28,,Ash Meadow,2018-01-24,185000,T,N,F,3
+SG10 6DP,3,,Ash Meadow,2007-07-20,208500,T,N,F,1
+SG10 6DP,30,,Ash Meadow,2020-11-17,281500,T,N,F,2
+SG10 6DP,31,,Ash Meadow,1999-12-03,57000,F,N,L,1
+SG10 6DP,32,,Ash Meadow,2003-01-10,115000,F,N,L,3
+SG10 6DP,33,,Ash Meadow,2003-05-01,114995,F,N,L,3
+SG10 6DP,34,,Ash Meadow,2014-10-28,137000,F,N,L,4
+SG10 6DP,35,,Ash Meadow,1997-07-23,77950,T,N,F,1
+SG10 6DP,36,,Ash Meadow,2015-08-21,285100,T,N,F,3
+SG10 6DP,37,,Ash Meadow,2017-08-11,347000,T,N,F,3
+SG10 6DP,38,,Ash Meadow,1999-01-22,84000,T,N,F,1
+SG10 6DP,39,,Ash Meadow,2010-06-04,220000,T,N,F,3
+SG10 6DP,4,,Ash Meadow,2015-10-26,300000,T,N,F,3
+SG10 6DP,40,,Ash Meadow,2007-01-26,215000,T,N,F,2
+SG10 6DP,41,,Ash Meadow,2014-05-02,230000,T,N,F,4
+SG10 6DP,42,,Ash Meadow,2018-12-04,302000,T,N,F,3
+SG10 6DP,43,,Ash Meadow,1998-06-30,89995,T,N,F,1
+SG10 6DP,44,,Ash Meadow,2016-06-06,320000,T,N,F,4
+SG10 6DP,45,,Ash Meadow,2005-11-25,246000,S,N,F,1
+SG10 6DP,46,,Ash Meadow,2003-08-22,171000,D,N,F,2
+SG10 6DP,49,,Ash Meadow,2017-08-18,309000,T,N,F,5
+SG10 6DP,5,,Ash Meadow,2002-11-12,220000,T,N,F,1
+SG10 6DP,51,,Ash Meadow,2015-02-12,295000,S,N,F,2
+SG10 6DP,52,,Ash Meadow,2011-01-17,212500,T,N,F,1
+SG10 6DP,53,,Ash Meadow,2014-06-06,249000,T,N,F,5
+SG10 6DP,6,,Ash Meadow,2001-07-06,124995,T,N,F,1
+SG10 6DP,7,,Ash Meadow,2007-08-13,219995,T,N,F,5
+SG10 6DP,9,,Ash Meadow,2014-06-19,290000,T,N,F,2
+SG10 6AZ,Hadham Heights,,Black Bridge Lane,2002-09-16,1240000,D,N,F,3
+SG10 6ER,Bourneside,,Bourne Lane,2009-11-16,900000,D,N,F,1
+SG10 6ET,The Lodge,,Bourne Lane,2006-05-08,470000,D,N,F,2
+SG10 6AR,10,,Broadfield Way,2012-06-22,282000,S,N,F,1
+SG10 6AR,7,,Broadfield Way,2007-04-23,272000,S,N,F,1
+SG10 6AR,9,,Broadfield Way,2010-11-05,307500,S,N,F,1
+SG10 6AR,Walnut Cottage,,Broadfield Way,2008-06-02,422500,D,N,F,2
+SG10 6HT,Acorn Hill,,Bromley Lane,2015-11-10,799995,D,N,F,3
+SG10 6HT,Suncrest,,Bromley Lane,2018-06-08,645000,D,N,F,2
+SG10 6HU,Carldane Court,,Bromley Lane,1996-12-05,555000,D,N,F,1
+SG10 6HU,Welrose Cottage,,Bromley Lane,1998-08-20,249000,S,N,F,1
+SG10 6HU,West Cottage,,Bromley Lane,2001-06-01,335000,S,N,F,1
+SG10 6DG,Two Bridges,,Church Lane,2004-06-25,765000,D,N,F,1
+SG10 6DH,Dunam Folly,,Church Lane,1995-05-25,205000,D,N,F,1
+SG10 6DH,Glebe Cottage,,Church Lane,1998-07-20,350000,D,N,F,1
+SG10 6DH,Lowfield House,,Church Lane,2011-10-24,1650000,D,N,F,2
+SG10 6DH,Newtons,,Church Lane,2015-11-27,1670000,D,N,F,1
+SG10 6DH,St Andrews Cottage,,Church Lane,2010-07-15,615000,D,N,F,1
+SG10 6DH,Wickham Cottage,,Church Lane,2020-11-20,620000,D,N,F,4
+SG10 6AN,Ashview,,Culver Court,2007-11-07,650000,D,N,F,4
+SG10 6AN,Valley View,,Culver Court,1996-10-04,250000,D,Y,F,1
+SG10 6HX,1,,Danebridge Lane,2019-10-09,580000,D,N,F,1
+SG10 6HX,Clare Cottage,,Danebridge Lane,2018-07-19,600000,D,N,F,1
+SG10 6HX,Maple Cottage,,Danebridge Lane,1999-09-24,285000,D,N,F,1
+SG10 6HX,Wharenui,,Danebridge Lane,2005-09-27,555000,D,N,F,1
+SG10 6HY,Mulberry House,,Danebridge Road,1999-12-02,123400,S,N,F,1
+SG10 6HZ,Hill Farm,,Danebridge Road,2015-11-12,3250000,D,N,F,1
+SG10 6JN,Bulls Cottage,,Ducketts Lane,2006-08-25,1075000,D,N,F,3
+SG10 6JN,Little Fields,,Ducketts Lane,2012-08-16,700000,D,N,F,1
+SG10 6JN,Pear Tree Cottage,,Ducketts Lane,2005-09-29,180000,T,N,F,2
+SG10 6JN,Red Brick Cottage,3,Ducketts Lane,2002-05-23,95000,S,N,F,1
+SG10 6JN,The Pine Cottage,,Ducketts Lane,2003-09-30,287500,D,N,F,2
+SG10 6JN,Willow Cottage,,Ducketts Lane,2012-03-13,850000,D,N,F,3
+SG10 6JW,2,,Ducketts Lane,2020-11-05,350000,S,N,F,1
+SG10 6JW,8,,Ducketts Lane,2006-02-17,239000,S,N,F,1
+SG10 6DW,4,,Ferndale,2017-03-30,237777,T,N,F,2
+SG10 6DW,5,,Ferndale,2008-04-11,205000,T,N,F,1
+SG10 6DW,Copperbeech,,Ferndale,2000-06-30,167500,D,N,F,1
+SG10 6DW,Montague House,,Ferndale,2020-10-23,525000,S,N,F,3
+SG10 6DW,Wentworth House,,Ferndale,2015-10-26,575000,D,N,F,2
+SG10 6DW,Wickham House,,Ferndale,2006-12-08,400000,D,Y,F,1
+SG10 6FE,Apple Tree House,,Frederick Court,2017-12-22,415200,D,N,F,1
+SG10 6FE,Doulton House,,Frederick Court,2020-09-24,825000,D,N,F,1
+SG10 6FE,Holly Tree House,,Frederick Court,2019-03-22,925000,S,N,F,1
+SG10 6FE,Stablegate,,Frederick Court,2018-11-26,750000,D,N,F,1
+SG10 6JE,Exnalls Farm,,Great Hadham Road,2006-11-09,850000,D,N,F,1
+SG10 6JJ,Redmire Cottage,,Green Tye,2006-11-09,692000,D,N,F,1
+SG10 6AL,Abbey Dale,,Hadham Cross,2014-12-18,415000,S,N,F,2
+SG10 6AL,Chamberlains,,Hadham Cross,2010-05-21,335000,D,N,F,1
+SG10 6AL,Huntleigh,,Hadham Cross,1996-09-30,280000,S,N,F,1
+SG10 6AL,Littlestone,,Hadham Cross,2017-06-22,715000,D,N,F,3
+SG10 6AL,Rose Cottage,,Hadham Cross,2004-11-12,499999,D,N,F,2
+SG10 6AL,Shillingbury,,Hadham Cross,2000-12-13,73000,F,N,L,3
+SG10 6AL,Tanglewood,,Hadham Cross,2008-04-28,410000,D,N,F,1
+SG10 6AL,The Larkins,,Hadham Cross,2012-07-04,535000,S,N,F,1
+SG10 6AL,White Cottage,,Hadham Cross,2002-07-03,287000,D,N,F,1
+SG10 6AP,Braeside,,Hadham Cross,1998-02-13,151000,D,N,F,1
+SG10 6AP,Captains,,Hadham Cross,1996-10-16,382000,D,N,F,1
+SG10 6AP,Culver Cottage,,Hadham Cross,2016-02-26,815000,D,N,F,5
+SG10 6AP,Culver Court,3,Hadham Cross,2010-04-23,420000,D,N,F,1
+SG10 6AP,Grays,,Hadham Cross,2018-04-20,1600000,D,N,F,1
+SG10 6AP,Hadham Lodge,,Hadham Cross,2001-03-15,295000,T,N,F,1
+SG10 6AP,Laureldene,1,Hadham Cross,2015-08-24,599000,D,N,F,2
+SG10 6AP,Laureldene,2,Hadham Cross,2014-02-19,820000,D,N,F,2
+SG10 6AP,Laureldene,3,Hadham Cross,2020-08-21,900000,D,N,F,2
+SG10 6AP,Wheatcroft,,Hadham Cross,2012-11-09,765000,D,N,F,1
+SG10 6DE,Ardgowan,,Hadham Cross,1996-05-16,214000,D,N,F,1
+SG10 6DE,Ashview,,Hadham Cross,1999-12-21,290000,D,N,F,2
+SG10 6DE,Calluna,,Hadham Cross,2003-06-27,340000,D,N,F,1
+SG10 6DE,Fairfax House,,Hadham Cross,2007-11-23,375000,D,N,F,2
+SG10 6DE,North Bank,,Hadham Cross,2018-07-25,820000,D,N,F,2
+SG10 6DE,The Old Telephone Exchange,,Hadham Cross,2020-08-12,1140000,D,N,F,5
+SG10 6DE,Victoria Cottage,,Hadham Cross,2016-10-14,450000,S,N,F,2
+SG10 6DF,Bakers Cross,,Hadham Cross,2002-07-26,499950,S,N,F,1
+SG10 6DF,Byrds,,Hadham Cross,2014-01-06,705000,S,N,F,1
+SG10 6DF,Cavenlow,,Hadham Cross,2004-11-30,340000,S,N,F,1
+SG10 6DF,Chapel Cottages,2,Hadham Cross,2004-07-05,93000,T,Y,F,1
+SG10 6DF,Copper Kettle,,Hadham Cross,2003-12-01,330000,S,N,F,3
+SG10 6DF,Kings Cottage,,Hadham Cross,2003-02-28,290000,S,N,F,1
+SG10 6DF,Old Crown,,Hadham Cross,2006-02-06,405000,D,N,F,1
+SG10 6DF,Trimbeys,,Hadham Cross,2004-05-27,410000,T,N,F,3
+SG10 6BP,North Lodge,,High Street,2013-10-04,365500,S,N,F,1
+SG10 6BP,The Old Post House,,High Street,2010-07-09,570000,D,N,F,2
+SG10 6BS,45,,High Street,2011-01-26,225000,T,N,F,3
+SG10 6BS,Campden Cottage,,High Street,2014-11-20,300000,T,N,F,5
+SG10 6BS,Front Lodge Moor Place,,High Street,2019-03-04,975000,D,N,F,1
+SG10 6BS,Laylock Cottage,,High Street,2007-01-12,632500,D,N,F,2
+SG10 6BS,Morris Cottage,,High Street,2016-01-18,790000,D,N,F,3
+SG10 6BS,Plummers,,High Street,2015-04-10,282000,T,N,F,1
+SG10 6BS,Plummers Cottages,3,High Street,2016-02-10,290000,T,N,F,1
+SG10 6BS,Plummers Cottages,4,High Street,2016-11-14,280000,T,N,F,1
+SG10 6BS,The Orchard,,High Street,2006-12-20,1820000,D,N,F,1
+SG10 6BS,The Vineyard,,High Street,1995-02-09,942500,D,N,F,1
+SG10 6BS,Westside,,High Street,2014-05-01,760500,D,N,F,5
+SG10 6BT,Blakes,,High Street,2004-09-02,785000,S,N,F,2
+SG10 6BT,Park House,,High Street,2002-06-25,380000,S,N,F,2
+SG10 6BU,49,,High Street,2017-09-29,835000,D,N,F,3
+SG10 6BU,52,,High Street,2014-06-27,650000,S,N,F,5
+SG10 6BU,54,,High Street,2020-02-20,515000,S,N,F,1
+SG10 6BU,55,,High Street,2001-08-10,310000,S,N,F,1
+SG10 6BU,Red Cottage,,High Street,2008-04-25,499500,D,N,F,1
+SG10 6BU,Red House,,High Street,2010-09-02,915000,D,N,F,1
+SG10 6BY,Crown House,,High Street,1995-09-08,265000,D,N,F,1
+SG10 6BY,Gaytons,,High Street,2019-06-28,2200000,D,N,F,3
+SG10 6BY,Lewes,,High Street,1998-12-04,152500,D,N,F,1
+SG10 6BY,Old Builders Cottage,,High Street,2020-12-18,468500,D,N,F,3
+SG10 6BY,Plumbers Cottage,,High Street,2007-03-09,165000,T,N,F,4
+SG10 6BY,The Coach House,,High Street,2017-03-31,1000000,D,N,F,1
+SG10 6BY,The Old Court House,,High Street,1995-09-22,159600,D,N,F,1
+SG10 6BY,The Old Drapery,,High Street,2003-04-17,580000,D,N,F,1
+SG10 6BY,Tudor Cottage,,High Street,2009-12-11,235000,S,N,F,1
+SG10 6BY,Weathervane Cottage,,High Street,2011-11-24,340000,S,N,F,1
+SG10 6BY,Westbury House,,High Street,2014-05-01,1350000,D,N,F,3
+SG10 6BY,Woodham Cottage,,High Street,2000-08-22,240000,T,N,F,1
+SG10 6BY,Woodham House,,High Street,2006-12-11,1525000,D,N,F,1
+SG10 6DA,Batemans,,High Street,2018-01-25,745000,T,N,F,2
+SG10 6DA,Careless,,High Street,2010-07-02,950000,D,N,F,1
+SG10 6DA,Cobblers,,High Street,1999-11-26,350000,T,N,F,1
+SG10 6DA,Green Shutters,,High Street,2019-09-23,344500,T,N,F,4
+SG10 6DA,Hunters Cottage,,High Street,2015-09-11,262500,T,N,F,3
+SG10 6DA,Manor Sheiling,,High Street,2019-06-03,405000,T,N,F,2
+SG10 6DA,The Old Bakery,,High Street,2000-09-15,475000,T,N,F,1
+SG10 6DA,The Old House,,High Street,2014-02-28,865000,T,N,F,3
+SG10 6DA,Thurgoods,,High Street,2001-09-04,475000,D,N,F,1
+SG10 6DB,Northleys,,High Street,2014-11-26,3500000,D,N,F,2
+SG10 6DD,The Red Lion,1,High Street,2017-08-24,360000,F,N,L,3
+SG10 6DD,The Red Lion,2,High Street,2002-10-22,246000,F,N,L,1
+SG10 6DD,The Red Lion,4,High Street,2005-06-29,410000,F,N,F,2
+SG10 6DD,The Red Lion,5,High Street,2016-06-06,289995,T,N,F,1
+SG10 6DD,The Red Lion,6,High Street,2017-07-20,265000,F,N,L,4
+SG10 6LD,1,,Hunts Barn,1997-05-01,249000,D,Y,F,1
+SG10 6LD,2,,Hunts Barn,2004-01-30,650000,T,N,F,2
+SG10 6LD,3,,Hunts Barn,1997-09-10,385000,T,Y,F,1
+SG10 6AE,7,,Kettle Green,1996-08-12,325000,D,N,F,1
+SG10 6AF,1,,Kettle Green Cottages,2001-03-30,217000,T,N,F,3
+SG10 6AF,2,,Kettle Green Cottages,2001-10-05,137500,T,N,F,3
+SG10 6AE,North Barn,,Kettle Green Lane,2020-09-29,950000,S,N,F,1
+SG10 6AE,Oakleigh Cottage,,Kettle Green Lane,2018-01-03,896000,D,N,F,1
+SG10 6AJ,Crossways,,Kettle Green Lane,2015-10-02,735000,D,N,F,1
+SG10 6AJ,Holy Oak Cottage,2,Kettle Green Lane,2014-08-16,350000,S,N,F,1
+SG10 6AE,Kettle Barn,,Kettle Green Road,1997-12-19,100000,D,N,F,1
+SG10 6AE,Moat Farm House,,Kettle Green Road,2006-07-27,1590000,D,N,F,1
+SG10 6AE,North Barn,,Kettle Green Road,2006-09-14,844000,S,N,F,2
+SG10 6AE,South Barn,,Kettle Green Road,2006-06-15,795000,S,N,F,2
+SG10 6AE,The Brick Barn,,Kettle Green Road,2002-06-21,460000,D,N,F,2
+SG10 6AF,Old Hall Cottage East,,Kettle Green Road,2008-05-23,522000,S,N,F,3
+SG10 6AF,Old Hall Cottage West,,Kettle Green Road,2004-08-20,325000,S,N,F,2
+SG10 6AH,Old Hall Farm,,Kettle Green Road,2002-08-09,1100000,D,N,F,1
+SG10 6AJ,Berakah,,Kettle Green Road,2007-03-01,937500,D,N,F,2
+SG10 6AJ,Crossways,,Kettle Green Road,2009-11-26,590000,D,N,F,2
+SG10 6AJ,Hoppits,,Kettle Green Road,2004-11-05,775000,D,N,F,1
+SG10 6AJ,Tansor,,Kettle Green Road,1999-07-02,229000,D,N,F,1
+SG10 6AQ,Hayfields,,Kettle Green Road,2004-01-23,322500,D,N,F,1
+SG10 6FA,1,,Luxford Close,2016-08-12,825000,D,N,F,1
+SG10 6FA,2,,Luxford Close,2016-07-14,795000,D,N,F,1
+SG10 6FA,3,,Luxford Close,2017-04-25,1270000,D,N,F,1
+SG10 6FA,4,,Luxford Close,2016-07-21,1325000,D,N,F,1
+SG10 6FA,5,,Luxford Close,2019-02-28,1200000,D,N,F,2
+SG10 6AN,Birchwood,,Malting Lane,2012-02-24,375000,S,N,F,3
+SG10 6AN,Byfords,,Malting Lane,1996-06-28,139500,S,N,F,1
+SG10 6AN,Crows Nest,,Malting Lane,2002-11-08,335000,D,N,F,2
+SG10 6AN,Woodview,,Malting Lane,2008-04-28,625000,S,N,F,1
+SG10 6AN,Woodview Cottages,1,Malting Lane,2007-08-30,169995,T,N,F,2
+SG10 6AN,Woodview Cottages,2,Malting Lane,2004-08-03,130000,T,N,F,1
+SG10 6AN,Woodview Cottages,3,Malting Lane,2012-06-08,200000,T,N,F,1
+SG10 6AW,1 Southview Cottages,,Malting Lane,2003-10-24,250000,S,N,F,2
+SG10 6AW,Little Maltings,,Malting Lane,2002-08-08,410000,D,N,F,1
+SG10 6AW,Southview Cottages,1,Malting Lane,1998-03-20,115100,S,N,F,1
+SG10 6AW,The Old Malt House,,Malting Lane,2016-02-03,1250000,D,N,F,3
+SG10 6AU,1,,Mill Cottages,2003-06-27,125000,S,N,F,1
+SG10 6BN,1,,Millers View,1998-09-04,357000,D,N,F,1
+SG10 6BN,10,,Millers View,2017-08-31,950000,D,N,F,2
+SG10 6BN,11,,Millers View,2018-10-11,1125000,D,N,F,1
+SG10 6BN,13,,Millers View,2018-05-17,600000,S,N,F,1
+SG10 6BN,2,,Millers View,2007-01-26,645000,D,N,F,1
+SG10 6BN,3,,Millers View,1999-10-26,365000,D,N,F,1
+SG10 6BN,4,,Millers View,2012-03-09,714000,D,N,F,5
+SG10 6BN,5,,Millers View,2019-02-19,945000,D,N,F,3
+SG10 6BN,6,,Millers View,2001-08-30,420000,D,N,F,2
+SG10 6BN,8,,Millers View,2016-05-27,925000,D,N,F,3
+SG10 6BN,12,,"Millers View, Windmill Way",2017-12-21,650000,S,N,F,1
+SG10 6BN,14,,"Millers View, Windmill Way",2018-01-19,650000,S,N,F,1
+SG10 6BN,15,,"Millers View, Windmill Way",2018-02-12,650000,S,N,F,1
+SG10 6BF,Braybrooke Barn,,Moor Place Park,2016-05-29,800000,D,N,F,1
+SG10 6BF,Capel House,,Moor Place Park,2017-11-09,1270000,D,N,F,2
+SG10 6BF,Carriage House,,Moor Place Park,2018-06-29,830000,T,N,F,2
+SG10 6BF,Dairy Barn,,Moor Place Park,2015-12-23,1100000,D,N,F,1
+SG10 6BF,Farthing Barn,,Moor Place Park,2015-04-08,850000,S,Y,F,1
+SG10 6BF,Foxglove Barn,,Moor Place Park,2016-10-28,1700000,D,N,F,1
+SG10 6BF,Montagu House,,Moor Place Park,2016-03-29,2600000,D,N,F,1
+SG10 6BF,Oak Barn,,Moor Place Park,2017-12-08,1640000,D,N,F,1
+SG10 6BF,Sixpenny Barn,,Moor Place Park,2016-04-29,850000,S,N,F,1
+SG10 6BF,Stable Cottage,,Moor Place Park,2015-12-03,565000,T,Y,F,1
+SG10 6BF,The Coach House,,Moor Place Park,2015-10-28,1120000,T,Y,F,1
+SG10 6BF,The Granary,,Moor Place Park,2017-07-14,770000,S,N,F,2
+SG10 6BF,The Old Boiler House,,Moor Place Park,2015-03-27,895000,D,Y,F,1
+SG10 6BF,Wenlock House,,Moor Place Park,2015-10-23,745000,S,Y,F,1
+SG10 6HH,Pennyfields,,New Barns Lane,1999-09-30,283500,D,N,F,1
+SG10 6HQ,1,,Northend Cottages,2002-04-30,385000,D,N,F,1
+SG10 6HQ,2,,Northend Cottages,2005-11-30,420000,S,N,F,3
+SG10 6HL,1,,Old Lordship Farm Cottages,2011-08-05,365000,S,N,F,1
+SG10 6HL,2,,Old Lordship Farm Cottages,2017-08-18,589995,S,N,F,3
+SG10 6HL,3,,Old Lordship Farm Cottages,2014-07-07,400000,S,N,F,3
+SG10 6DQ,10,,Oudle Lane,2011-11-10,437500,S,N,F,3
+SG10 6DQ,3,,Oudle Lane,2006-01-27,280000,S,N,F,1
+SG10 6DQ,4,,Oudle Lane,2020-02-28,495000,S,N,F,3
+SG10 6DQ,7,,Oudle Lane,2020-06-29,530000,S,N,F,2
+SG10 6DQ,9,,Oudle Lane,2017-08-25,445000,S,N,F,1
+SG10 6DQ,Gella,,Oudle Lane,2003-10-31,419000,S,N,F,2
+SG10 6DQ,High Oaks,,Oudle Lane,2018-06-29,1235000,D,N,F,1
+SG10 6DQ,Meadow Bank,,Oudle Lane,2005-05-27,326000,S,N,F,2
+SG10 6DQ,Oak Tree House,,Oudle Lane,2011-08-19,1175000,D,N,F,3
+SG10 6HS,Trundlemead,,Oudle Lane,2009-07-03,730000,D,N,F,1
+SG10 6BT,1,,Park Terrace,2018-05-22,350000,T,N,F,4
+SG10 6BT,2,,Park Terrace,2014-08-19,287500,T,N,F,3
+SG10 6BT,3,,Park Terrace,2014-07-31,280000,T,N,F,3
+SG10 6BT,4,,Park Terrace,1998-10-21,45000,T,N,F,2
+SG10 6BT,5,,Park Terrace,2008-09-12,216000,T,N,F,3
+SG10 6BT,7,,Park Terrace,2012-07-20,190000,T,N,F,1
+SG10 6BT,8,,Park Terrace,2009-06-19,290000,S,N,F,1
+SG10 6DS,Sidehill House,,Perry Green,2014-06-17,1800000,D,N,F,2
+SG10 6DT,Daneswood,,Perry Green,1998-01-09,855000,D,N,F,1
+SG10 6DT,Daneswood Cottage,,Perry Green,2003-07-10,660000,D,N,F,1
+SG10 6DU,Hillhead,1,Perry Green,2003-08-01,287000,S,N,F,1
+SG10 6DU,Hillhead,4,Perry Green,1996-12-13,104500,S,N,F,1
+SG10 6DU,Kirkstalls,,Perry Green,2005-08-05,775000,D,N,F,1
+SG10 6DX,Applecroft,,Perry Green,2014-05-01,750000,D,N,F,5
+SG10 6DZ,Blewins,,Perry Green,2000-03-17,60000,D,N,F,2
+SG10 6DZ,Old School House,,Perry Green,2019-09-18,925000,D,N,F,3
+SG10 6EB,Bucklers Croft,,Perry Green,2008-07-25,1060000,D,N,F,3
+SG10 6ED,Peregrine,,Perry Green,2019-09-12,800000,D,N,F,1
+SG10 6EF,Baytree Lodge,,Perry Green,2008-04-14,470000,D,N,F,2
+SG10 6EF,Foxley,,Perry Green,2013-12-09,1060000,D,N,F,2
+SG10 6EF,Longfield Cottage,,Perry Green,2015-10-30,817500,D,N,F,4
+SG10 6EF,Three Castles,,Perry Green,1996-09-27,130000,T,N,F,1
+SG10 6EH,Clovers,,Perry Green,2006-05-10,657000,D,N,F,2
+SG10 6EH,Hopshill Mount,,Perry Green,2020-12-14,1115000,D,N,F,4
+SG10 6BS,1,,Plummers Cottages,2006-03-31,215000,T,N,F,4
+SG10 6BS,2,,Plummers Cottages,2011-11-24,190000,T,N,F,4
+SG10 6BS,3,,Plummers Cottages,2009-07-08,170000,T,N,F,2
+SG10 6BS,4,,Plummers Cottages,2010-01-22,199995,T,N,F,1
+SG10 6DL,1,,School Gardens,1998-12-18,175000,S,N,F,2
+SG10 6DL,2,,School Gardens,1997-10-17,126000,S,N,F,1
+SG10 6EN,Lenette,,South End,2006-10-23,530800,S,N,F,2
+SG10 6EN,The Owl House,,South End,1998-09-07,190000,S,N,F,1
+SG10 6EP,Minges Farm,,South End,1996-04-26,575000,D,N,F,1
+SG10 6EP,The Rick,,South End,2007-02-21,450000,D,N,F,2
+SG10 6EP,Turtle Farm,,South End,2019-02-15,2050000,D,N,F,2
+SG10 6EP,Vermont,,South End,2007-05-10,1175000,D,N,F,1
+SG10 6EP,Whiskers,,South End,2015-12-03,665000,D,N,F,2
+SG10 6AX,Farthings,,Station Road,2011-06-30,1530000,D,N,F,1
+SG10 6AX,Gara,,Station Road,2015-11-13,710000,D,N,F,1
+SG10 6AX,Grove House,,Station Road,2015-10-02,1100000,D,N,F,2
+SG10 6AX,Highbank,,Station Road,2016-06-23,940000,D,N,F,1
+SG10 6AX,Hightrees,,Station Road,2006-10-02,470000,D,N,F,1
+SG10 6AX,Homelea,,Station Road,2008-05-12,525000,D,N,F,2
+SG10 6AX,Kesten,,Station Road,2014-07-14,385000,D,N,F,1
+SG10 6AX,Lawnswood,,Station Road,2005-04-29,435000,D,N,F,1
+SG10 6AX,Rhoda Mount,,Station Road,1996-10-17,395000,D,N,F,1
+SG10 6AX,Southdene,,Station Road,2008-01-24,525000,D,N,F,2
+SG10 6AX,Warden,,Station Road,1995-12-14,150000,D,N,F,1
+SG10 6AX,Watersdown,,Station Road,2015-05-29,742500,D,N,F,2
+SG10 6AX,Willow House,,Station Road,2017-05-19,870000,D,N,F,2
+SG10 6BX,1,,The Square,2014-06-06,760000,S,N,F,4
+SG10 6BX,5,,The Square,2019-10-25,425000,S,N,F,1
+SG10 6BX,6,,The Square,2007-03-14,218500,T,N,F,3
+SG10 6BX,7,,The Square,2020-02-20,420000,S,N,F,5
+SG10 6DL,Brocketts,,Tower Hill,2004-07-01,545000,D,N,F,2
+SG10 6DL,Schuberts,,Tower Hill,2014-05-02,641000,D,N,F,2
+SG10 6DL,The Old School House,,Tower Hill,2019-01-15,468500,D,N,F,3
+SG10 6DE,2,,Victoria Terrace,2012-08-17,176500,T,N,F,1
+SG10 6AJ,Orchard Lodge,,Walnut Close,2015-03-19,645000,D,N,F,1
+SG10 6AJ,The Ashes,,Walnut Close,2019-10-16,1030000,D,N,F,1
+SG10 6AJ,Whiteoaks,,Walnut Close,2011-02-02,538750,D,N,F,1
+SG10 6FD,Redwood,,Walnut Close,2018-03-14,1000000,D,N,F,1
+SG10 6FD,The Cedars,,Walnut Close,2018-12-18,972500,D,N,F,1
+SG10 6FD,The Sycamores,,Walnut Close,2018-03-21,1245000,D,N,F,1
+SG10 6HP,1,,Waltons Cottages,1996-03-11,139000,S,N,F,1
+SG10 6JD,1,,Warren Place,2018-01-04,850000,S,Y,F,1
+SG10 6JD,2,,Warren Place,2018-08-13,710000,T,Y,F,1
+SG10 6JD,3,,Warren Place,2018-02-28,780000,T,Y,F,1
+SG10 6JD,4,,Warren Place,2018-03-15,915000,S,N,F,1
+SG10 6JD,5,,Warren Place,2018-05-25,850000,T,Y,F,1
+SG10 6JD,6,,Warren Place,2018-01-12,895000,S,Y,F,1
+SG10 6JD,7,,Warren Place,2018-04-20,925000,S,N,F,1
+SG10 6JD,8,,Warren Place,2018-11-02,930000,D,Y,F,1
+SG10 6AP,1,,Wheatcroft Terrace,2016-06-06,485000,T,N,F,2
+SG10 6AP,2,,Wheatcroft Terrace,2019-07-11,455000,T,N,F,3
+SG10 6AP,4,,Wheatcroft Terrace,2017-08-31,637000,T,N,F,4
+SG10 6HG,1,,Whiprow Cottages,2004-11-01,275000,T,N,F,1
+SG10 6HG,2,,Whiprow Cottages,2011-09-15,300000,T,N,F,1
+SG10 6HG,3,,Whiprow Cottages,1997-10-17,124000,T,N,F,2
+SG10 6HG,4,,Whiprow Cottages,2019-08-16,530000,T,N,F,2
+SG10 6AT,Ash Cottage,,Widford Road,1998-03-02,170000,D,N,F,1
+SG10 6AT,Ashleys,,Widford Road,2018-06-29,1350000,D,N,F,2
+SG10 6AT,Grey Mill,,Widford Road,2014-11-25,458500,S,N,F,1
+SG10 6AT,Magna House,,Widford Road,2018-09-25,1840000,D,N,F,1
+SG10 6AT,The Old Nurseries,,Widford Road,2019-02-01,830000,D,N,F,2
+SG10 6EY,Hadham Mill,,Widford Road,2008-01-25,1500000,D,N,F,2
+SG10 6EY,Hadham Mill Cottages,1,Widford Road,2011-01-15,550000,S,N,F,1
+SG10 6EY,Hadham Mill Cottages,2,Widford Road,2001-09-03,280000,S,N,F,2
+SG10 6EZ,Beausite,,Widford Road,2004-04-23,285000,D,N,F,1
+SG10 6EZ,Day Dawn,,Widford Road,2020-05-27,790000,D,N,F,3
+SG10 6EZ,Ivy Cottage,1,Widford Road,1999-11-18,215000,S,N,F,2
+SG10 6EZ,Ivy Cottage,2,Widford Road,1995-08-04,105000,S,N,F,1
+SG10 6EZ,Ridgemont,,Widford Road,2019-04-29,405000,D,N,F,2
+SG10 6EZ,Swiss Cottage,,Widford Road,2000-09-01,164000,D,N,F,1
+SG10 6EZ,Wychwood,,Widford Road,2019-02-22,875000,D,N,F,3
+SG10 6AL,1,,Wigram Cottages,2017-03-31,365000,S,N,F,4
+SG10 6AL,2,,Wigram Cottages,2020-11-23,380000,S,N,F,6
+SG10 6HP,Waltons,,Winding Hill,1998-08-20,1075000,D,N,F,2
+SG10 6BE,6,,Windmill Way,2020-08-07,480000,S,N,F,3
+SG10 6BE,6A,,Windmill Way,2019-12-19,557500,D,N,F,1
+SG10 6BG,15,,Windmill Way,2001-08-10,144000,T,N,F,1
+SG10 6BG,23,,Windmill Way,2003-04-03,187000,T,N,F,1
+SG10 6BH,14,,Windmill Way,2002-02-01,135000,S,N,F,1
+SG10 6BH,16,,Windmill Way,2013-04-16,268500,S,N,F,2
+SG10 6BH,18,,Windmill Way,2002-08-01,189995,S,N,F,1
+SG10 6BH,20,,Windmill Way,2006-03-30,225000,S,N,F,1
+SG10 6BH,22A,,Windmill Way,2018-08-24,490000,D,N,F,1
+SG10 6BH,30,,Windmill Way,2012-08-03,423000,D,N,F,2
+SG10 6BH,32,,Windmill Way,2015-10-21,535000,D,N,F,2
+SG10 6BH,34,,Windmill Way,2017-09-08,600000,D,N,F,2
+SG10 6BH,36,,Windmill Way,2003-12-19,279995,D,Y,F,1
+SG10 6BH,38,,Windmill Way,2003-11-21,370000,D,Y,F,1
+SG10 6BH,40,,Windmill Way,2003-11-28,299995,D,Y,F,1
+SG10 6BH,42,,Windmill Way,2003-12-19,455000,D,Y,F,1
+SG10 6BH,Applecroft,1,Windmill Way,2005-12-16,575000,D,N,F,2
+SG10 6BH,Applecroft,2,Windmill Way,2004-03-08,422000,D,N,F,3
+SG10 6BH,The Gables,,Windmill Way,2000-05-26,345000,D,N,F,1
+SG10 6BQ,115,,Windmill Way,2014-03-27,225000,S,N,F,2
+SG10 6BQ,117,,Windmill Way,2003-12-19,302000,D,Y,F,1
+SG10 6BQ,119,,Windmill Way,2003-12-19,355410,D,Y,F,1
+SG10 6BQ,121,,Windmill Way,2012-03-30,430000,D,N,F,2
+SG10 6BQ,29,,Windmill Way,2008-12-12,242500,S,N,F,1
+SG10 6BQ,35,,Windmill Way,2002-06-13,155000,S,N,F,3
+SG10 6BQ,49,,Windmill Way,2002-12-12,163000,S,N,F,1
+SG10 6BQ,57,,Windmill Way,2017-08-18,420000,T,N,F,2
+SG10 6BQ,67,,Windmill Way,2017-10-19,452000,T,N,F,2
+SG10 6BQ,69,,Windmill Way,2015-02-27,137500,T,N,F,1
+SG10 6BQ,71,,Windmill Way,2002-11-26,200000,S,N,F,1
+SG10 6BQ,75,,Windmill Way,2010-08-20,196995,T,N,F,1
+SG10 6BQ,77,,Windmill Way,2001-05-29,131000,T,N,F,2
+SG10 6BQ,79,,Windmill Way,2002-06-28,126500,T,N,F,2
+SG10 6BQ,83,,Windmill Way,2009-02-27,180000,S,N,F,3
+SG10 6BQ,85,,Windmill Way,2013-06-11,150000,T,N,F,3
+SG10 6BQ,87,,Windmill Way,2014-08-20,380000,S,N,F,2

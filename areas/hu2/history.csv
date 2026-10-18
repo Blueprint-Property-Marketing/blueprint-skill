@@ -1,0 +1,667 @@
+postcode,paon,saon,street,date,price,type,new,tenure,sales
+HU2 8AW,12,,Aldbro Street,2019-12-04,32150,F,N,L,1
+HU2 8AW,34,,Aldbro Street,2019-05-17,50000,F,N,L,1
+HU2 8AW,38,,Aldbro Street,2018-09-19,50500,F,N,L,1
+HU2 8AW,42,,Aldbro Street,2018-03-05,46800,F,N,L,2
+HU2 8HE,39,Flat 4,Baker Street,2010-07-02,95000,F,Y,L,1
+HU2 8HE,"Baker Street Central, 21",Flat 1,Baker Street,2005-12-20,99995,F,Y,L,1
+HU2 8HE,"Baker Street Central, 21",Flat 10,Baker Street,2005-12-20,94995,F,Y,L,1
+HU2 8HE,"Baker Street Central, 21",Flat 11,Baker Street,2006-03-06,79995,F,Y,L,1
+HU2 8HE,"Baker Street Central, 21",Flat 13,Baker Street,2006-01-23,132995,F,Y,L,1
+HU2 8HE,"Baker Street Central, 21",Flat 14,Baker Street,2006-01-06,84995,F,Y,L,1
+HU2 8HE,"Baker Street Central, 21",Flat 15,Baker Street,2006-05-16,103745,F,Y,L,1
+HU2 8HE,"Baker Street Central, 21",Flat 17,Baker Street,2005-12-20,112995,F,Y,L,1
+HU2 8HE,"Baker Street Central, 21",Flat 19,Baker Street,2006-01-06,81995,F,Y,L,1
+HU2 8HE,"Baker Street Central, 21",Flat 2,Baker Street,2015-05-01,70000,F,N,L,2
+HU2 8HE,"Baker Street Central, 21",Flat 20,Baker Street,2016-07-29,92500,F,N,L,2
+HU2 8HE,"Baker Street Central, 21",Flat 21,Baker Street,2006-05-05,149000,F,Y,L,1
+HU2 8HE,"Baker Street Central, 21",Flat 22,Baker Street,2017-10-24,70000,F,N,L,2
+HU2 8HE,"Baker Street Central, 21",Flat 23,Baker Street,2020-03-05,55500,F,N,L,1
+HU2 8HE,"Baker Street Central, 21",Flat 24,Baker Street,2006-03-06,142500,F,Y,L,1
+HU2 8HE,"Baker Street Central, 21",Flat 25,Baker Street,2006-04-28,85995,F,Y,L,1
+HU2 8HE,"Baker Street Central, 21",Flat 26,Baker Street,2007-02-01,99950,F,N,L,2
+HU2 8HE,"Baker Street Central, 21",Flat 27,Baker Street,2006-06-12,112500,F,Y,L,1
+HU2 8HE,"Baker Street Central, 21",Flat 28,Baker Street,2015-01-30,61000,F,N,L,2
+HU2 8HE,"Baker Street Central, 21",Flat 29,Baker Street,2006-05-19,124995,F,Y,L,1
+HU2 8HE,"Baker Street Central, 21",Flat 3,Baker Street,2005-12-16,79995,F,Y,L,1
+HU2 8HE,"Baker Street Central, 21",Flat 30,Baker Street,2006-08-04,108995,F,Y,L,1
+HU2 8HE,"Baker Street Central, 21",Flat 32,Baker Street,2006-06-16,94995,F,Y,L,1
+HU2 8HE,"Baker Street Central, 21",Flat 33,Baker Street,2006-04-21,92995,F,Y,L,1
+HU2 8HE,"Baker Street Central, 21",Flat 34,Baker Street,2006-07-11,122495,F,Y,L,1
+HU2 8HE,"Baker Street Central, 21",Flat 35,Baker Street,2006-03-17,99995,F,Y,L,1
+HU2 8HE,"Baker Street Central, 21",Flat 36,Baker Street,2006-04-21,88995,F,Y,L,1
+HU2 8HE,"Baker Street Central, 21",Flat 37,Baker Street,2006-05-24,118995,F,Y,L,1
+HU2 8HE,"Baker Street Central, 21",Flat 38,Baker Street,2009-04-17,56000,F,N,L,2
+HU2 8HE,"Baker Street Central, 21",Flat 39,Baker Street,2006-05-18,94995,F,Y,L,1
+HU2 8HE,"Baker Street Central, 21",Flat 4,Baker Street,2005-12-16,112995,F,Y,L,1
+HU2 8HE,"Baker Street Central, 21",Flat 40,Baker Street,2006-10-19,124995,F,Y,L,1
+HU2 8HE,"Baker Street Central, 21",Flat 41,Baker Street,2006-04-03,99995,F,Y,L,1
+HU2 8HE,"Baker Street Central, 21",Flat 42,Baker Street,2006-07-14,109995,F,Y,L,1
+HU2 8HE,"Baker Street Central, 21",Flat 5,Baker Street,2006-04-07,120000,F,Y,L,1
+HU2 8HE,"Baker Street Central, 21",Flat 6,Baker Street,2006-03-06,96995,F,Y,L,1
+HU2 8HE,"Baker Street Central, 21",Flat 7,Baker Street,2005-12-16,81995,F,Y,L,1
+HU2 8HP,15,,Baker Street,2011-03-21,122000,T,N,F,1
+HU2 9JH,11,,Blake Close,2018-01-08,75000,T,N,F,2
+HU2 9JH,13,,Blake Close,1997-11-14,34250,T,N,F,1
+HU2 9JH,16,,Blake Close,2019-03-07,70000,T,N,F,1
+HU2 9JH,17,,Blake Close,2007-07-16,88000,T,N,F,1
+HU2 9JH,23,,Blake Close,2013-10-11,82000,T,N,F,3
+HU2 9JH,25,,Blake Close,2009-10-02,69000,T,N,F,2
+HU2 9JH,27,,Blake Close,2007-03-28,83000,T,N,F,1
+HU2 9JH,28,,Blake Close,1998-03-18,36000,T,N,F,1
+HU2 9JH,34,,Blake Close,1998-01-26,14100,T,N,F,1
+HU2 9JH,38,,Blake Close,2001-08-31,21000,T,N,F,1
+HU2 9JH,6,,Blake Close,2012-06-29,79000,T,N,F,1
+HU2 9BX,10,,Blundell Close,2013-01-25,67000,T,N,F,2
+HU2 9BX,13,,Blundell Close,2005-09-23,85000,T,N,F,1
+HU2 9BX,3,,Blundell Close,2012-03-27,66500,T,N,F,1
+HU2 9BX,4,,Blundell Close,2007-02-19,62000,T,N,F,1
+HU2 9BX,5,,Blundell Close,2011-02-18,49500,T,N,F,2
+HU2 9BX,8,,Blundell Close,1998-07-03,30000,T,N,F,1
+HU2 8AE,27,,Bourne Street,2006-04-19,125000,D,N,F,2
+HU2 0DU,31,,Bridlington Avenue,1998-07-10,27295,T,N,F,1
+HU2 0DU,37,,Bridlington Avenue,2015-01-16,59000,T,N,F,2
+HU2 0DU,39,,Bridlington Avenue,2007-05-11,76000,T,N,F,3
+HU2 0DU,41,,Bridlington Avenue,2004-01-30,42000,T,N,F,1
+HU2 0DU,45,,Bridlington Avenue,2011-06-28,75000,T,N,F,3
+HU2 0DU,49,,Bridlington Avenue,2011-12-16,67500,T,N,F,3
+HU2 0DU,63,,Bridlington Avenue,2015-07-31,65000,T,N,F,2
+HU2 0DU,81,,Bridlington Avenue,2020-07-28,86000,T,N,F,2
+HU2 0DU,"Bridlington House, 4",,Bridlington Avenue,2006-01-03,349999,D,N,F,1
+HU2 9BP,2,,Burslem Street,1995-06-23,28000,T,N,F,1
+HU2 9BP,4,,Burslem Street,2019-01-28,72500,T,N,F,1
+HU2 9BP,5,,Burslem Street,2019-04-18,74000,T,N,F,2
+HU2 0AB,37,,Cannon Street,2006-07-28,120000,D,N,F,1
+HU2 8DR,,,Caroline Place,2008-10-24,110000,T,N,F,1
+HU2 8DR,11,,Caroline Place,2002-07-12,37250,T,N,F,1
+HU2 8DR,3,,Caroline Place,2008-10-24,80000,T,N,F,2
+HU2 8DR,50,,Caroline Place,2005-11-16,100000,S,N,F,1
+HU2 8DR,7,,Caroline Place,2017-06-16,125000,T,N,F,3
+HU2 8DR,8,,Caroline Place,2015-12-30,86500,T,N,F,1
+HU2 8DR,9,,Caroline Place,2005-11-24,62000,T,N,F,2
+HU2 8EA,Albion Buildings,1,Caroline Street,2014-10-17,32500,F,N,L,1
+HU2 8AN,6,,Catherine Street,2015-04-28,39950,F,N,L,2
+HU2 8DF,15,,Charles Street,2004-01-29,55000,T,N,F,2
+HU2 9PB,25,,Cheadle Close,2016-01-22,85000,T,N,F,2
+HU2 9PB,29,,Cheadle Close,2011-12-21,74000,T,N,F,1
+HU2 9PB,44,,Cheadle Close,2000-10-03,14500,T,N,F,1
+HU2 9AP,10,,Clifton Street,2003-01-27,45000,S,N,F,1
+HU2 9AP,12,,Clifton Street,2002-10-17,35139,T,N,F,2
+HU2 9AP,14,,Clifton Street,2002-10-17,35138,T,N,F,2
+HU2 9AP,16,,Clifton Street,2006-03-07,62500,T,N,F,2
+HU2 9AP,18,,Clifton Street,2015-04-24,91000,T,N,F,3
+HU2 9AP,20,,Clifton Street,2003-02-05,32000,T,N,F,1
+HU2 9AP,22,,Clifton Street,2013-04-25,71500,T,N,F,1
+HU2 9AP,26,,Clifton Street,2017-07-06,125000,T,N,F,2
+HU2 9AP,30,,Clifton Street,2014-06-17,45000,T,N,F,1
+HU2 9AP,32,,Clifton Street,2014-07-11,60500,T,N,F,1
+HU2 9AP,34,,Clifton Street,2005-09-23,62000,T,N,F,2
+HU2 9AP,36,,Clifton Street,2003-03-28,35000,T,N,F,1
+HU2 9AP,38,,Clifton Street,2004-12-10,37000,T,N,F,1
+HU2 9AP,44,,Clifton Street,2000-01-21,27500,T,N,F,1
+HU2 9AP,46,,Clifton Street,2007-10-22,70000,T,N,F,1
+HU2 9AP,48,,Clifton Street,2015-07-03,20000,T,N,F,1
+HU2 9AP,6,,Clifton Street,2003-06-12,16200,T,N,F,1
+HU2 9BB,55,,Clifton Street,2011-08-19,72000,T,N,F,1
+HU2 9BB,57,,Clifton Street,2011-02-25,70450,T,N,F,1
+HU2 9BB,59,,Clifton Street,2005-07-18,36000,T,N,F,1
+HU2 9PD,27,,Cresswell Close,2008-01-31,80000,T,N,F,2
+HU2 9PD,28,,Cresswell Close,1997-11-10,17100,T,N,F,1
+HU2 9PD,34,,Cresswell Close,2004-01-15,43750,T,N,F,2
+HU2 9PD,38,,Cresswell Close,2008-06-11,65000,T,N,F,1
+HU2 0QB,20,,Cumberland Street,1996-09-16,16000,T,N,F,1
+HU2 8NY,Flat 5,Flat 5,Ferensway,2008-09-11,80500,F,N,L,1
+HU2 8NY,Flat 8,Flat 8,Ferensway,2008-11-20,70000,F,N,L,1
+HU2 8NY,Kemley House,Flat 1,Ferensway,2005-07-22,102500,F,Y,L,1
+HU2 8NY,Kemley House,Flat 10,Ferensway,2005-07-25,94950,F,Y,L,1
+HU2 8NY,Kemley House,Flat 12,Ferensway,2005-07-28,115500,F,Y,L,1
+HU2 8NY,Kemley House,Flat 13,Ferensway,2012-05-22,90000,F,N,L,2
+HU2 8NY,Kemley House,Flat 18,Ferensway,2005-07-28,102500,F,Y,L,1
+HU2 8NY,Kemley House,Flat 19,Ferensway,2009-05-15,50125,F,N,L,3
+HU2 8NY,Kemley House,Flat 2,Ferensway,2005-07-25,94950,F,Y,L,1
+HU2 8NY,Kemley House,Flat 21,Ferensway,2014-02-06,59950,F,N,L,4
+HU2 8NY,Kemley House,Flat 22,Ferensway,2005-07-22,132000,F,Y,L,1
+HU2 8NY,Kemley House,Flat 23,Ferensway,2005-07-29,112500,F,N,L,1
+HU2 8NY,Kemley House,Flat 24,Ferensway,2006-01-05,143500,F,N,L,2
+HU2 8NY,Kemley House,Flat 25,Ferensway,2006-01-04,141600,F,N,L,2
+HU2 8NY,Kemley House,Flat 26,Ferensway,2006-01-04,144935,F,N,L,2
+HU2 8NY,Kemley House,Flat 27,Ferensway,2006-11-11,130950,F,N,L,3
+HU2 8NY,Kemley House,Flat 28,Ferensway,2005-07-22,118500,F,Y,L,1
+HU2 8NY,Kemley House,Flat 29,Ferensway,2007-03-15,157500,F,N,L,1
+HU2 8NY,Kemley House,Flat 3,Ferensway,2006-10-09,150000,F,N,L,2
+HU2 8NY,Kemley House,Flat 30,Ferensway,2008-06-11,70000,F,N,L,3
+HU2 8NY,Kemley House,Flat 31,Ferensway,2016-10-21,60000,F,N,L,2
+HU2 8NY,Kemley House,Flat 32,Ferensway,2005-07-22,112000,F,Y,L,1
+HU2 8NY,Kemley House,Flat 34,Ferensway,2006-01-04,130795,F,N,L,1
+HU2 8NY,Kemley House,Flat 4,Ferensway,2005-07-22,115000,F,Y,L,1
+HU2 8NY,Kemley House,Flat 5,Ferensway,2006-09-12,149950,F,N,L,1
+HU2 8NY,Kemley House,Flat 6,Ferensway,2005-07-22,112000,F,Y,L,1
+HU2 8NY,Kemley House,Flat 7,Ferensway,2005-07-29,115000,F,Y,L,1
+HU2 8NY,Kemley House,Flat 8,Ferensway,2005-07-22,122000,F,Y,L,1
+HU2 0DZ,1,,Fern Close,2011-10-20,82000,T,N,F,1
+HU2 0DZ,12,,Fern Close,2013-02-28,82250,T,N,F,2
+HU2 0DZ,14,,Fern Close,2013-05-03,41000,T,N,F,1
+HU2 0DZ,28,,Fern Close,2012-01-12,57500,T,N,F,2
+HU2 0DZ,3,,Fern Close,1997-08-22,33000,T,N,F,1
+HU2 0DZ,33,,Fern Close,2001-06-15,28450,T,N,F,2
+HU2 0DZ,47,,Fern Close,2015-10-09,100000,T,N,F,1
+HU2 9PR,29,,Finsbury Grove,2018-01-12,79000,T,N,F,1
+HU2 9PF,18,,Fountain Road,2005-11-18,63000,T,N,F,3
+HU2 9PF,20,,Fountain Road,2018-03-08,82000,T,N,F,3
+HU2 9PF,22,,Fountain Road,2007-04-12,66000,T,N,F,1
+HU2 8DG,"Francis Court, 140",Flat 1,Francis Street,2007-10-18,130000,F,N,L,1
+HU2 8DG,"Francis Court, 140",Flat 10,Francis Street,2016-04-08,81500,F,N,L,3
+HU2 8DG,"Francis Court, 140",Flat 12,Francis Street,2019-07-01,81000,F,N,L,2
+HU2 8DG,"Francis Court, 140",Flat 14,Francis Street,2008-09-12,95000,F,Y,L,1
+HU2 8DG,"Francis Court, 140",Flat 15,Francis Street,2013-04-15,77000,F,Y,L,1
+HU2 8DG,"Francis Court, 140",Flat 16,Francis Street,2014-04-11,79000,F,N,L,2
+HU2 8DG,"Francis Court, 140",Flat 19,Francis Street,2007-11-12,140000,F,N,L,1
+HU2 8DG,"Francis Court, 140",Flat 2,Francis Street,2007-10-18,125000,F,N,L,1
+HU2 8DG,"Francis Court, 140",Flat 22,Francis Street,2012-08-13,66000,F,Y,L,1
+HU2 8DG,"Francis Court, 140",Flat 24,Francis Street,2019-10-31,76000,F,N,L,2
+HU2 8DG,"Francis Court, 140",Flat 26,Francis Street,2013-05-31,67000,F,Y,L,1
+HU2 8DG,"Francis Court, 140",Flat 29,Francis Street,2012-07-25,68000,F,N,L,1
+HU2 8DG,"Francis Court, 140",Flat 3,Francis Street,2007-10-18,125000,F,N,L,1
+HU2 8DG,"Francis Court, 140",Flat 5,Francis Street,2013-07-26,73500,F,Y,L,1
+HU2 8DG,"Francis Court, 140",Flat 9,Francis Street,2011-11-25,79950,F,N,L,2
+HU2 8DT,71,,Francis Street,2006-07-05,38000,T,N,F,1
+HU2 8DT,Francis Court,6,Francis Street,2007-11-12,135000,F,N,L,1
+HU2 0BG,101,,Goodrich Close,2017-11-14,77500,T,N,F,1
+HU2 0BG,23,,Goodrich Close,2019-03-15,58500,T,N,F,1
+HU2 0BG,61,,Goodrich Close,1996-05-24,29950,S,N,F,1
+HU2 0BG,85,,Goodrich Close,2007-12-03,46000,T,N,L,1
+HU2 0BG,89,,Goodrich Close,2002-10-22,18500,T,N,F,1
+HU2 0BQ,10,,Goodrich Close,2012-06-11,49950,T,N,F,1
+HU2 0BQ,18,,Goodrich Close,2014-07-08,74750,T,N,F,2
+HU2 0BQ,48,,Goodrich Close,2003-05-02,37950,T,N,F,1
+HU2 0BQ,58,,Goodrich Close,2017-03-17,65000,T,N,F,1
+HU2 0BQ,72,,Goodrich Close,2015-09-29,87000,T,N,F,2
+HU2 0BQ,74,,Goodrich Close,2015-09-03,65250,T,N,F,2
+HU2 0BQ,76,,Goodrich Close,2007-12-14,83500,T,N,F,3
+HU2 0AT,10,,Grange Close,2005-04-15,59995,T,N,F,1
+HU2 0AT,14,,Grange Close,2017-12-15,90000,T,N,F,2
+HU2 0AT,19,,Grange Close,2016-03-08,75000,T,N,F,2
+HU2 0AT,21,,Grange Close,2011-12-16,55000,T,N,F,1
+HU2 0AT,4,,Grange Close,2005-10-07,75000,T,N,F,1
+HU2 0AT,50,,Grange Close,2015-11-20,72000,T,N,F,2
+HU2 0AT,8,,Grange Close,2008-06-13,87000,T,N,F,1
+HU2 0HG,12,,Green Lane,2010-06-03,75000,T,N,F,1
+HU2 0HG,19,,Green Lane,2004-06-24,37000,T,N,F,1
+HU2 0HG,"Central Buildings, 1",,Green Lane,2002-03-01,29000,T,N,F,1
+HU2 0HG,Victoria House,,Green Lane,2007-01-12,36000,T,N,F,2
+HU2 8TJ,17,,Grey Street,2007-05-16,23000,T,N,F,1
+HU2 8TJ,34,,Grey Street,1996-09-19,22000,T,N,F,1
+HU2 8TJ,42,,Grey Street,2016-07-26,73000,T,N,F,3
+HU2 8TJ,46,,Grey Street,2009-05-06,130000,T,N,F,2
+HU2 8TJ,48,,Grey Street,2006-02-03,92750,T,N,F,2
+HU2 0BD,12,,Hadleigh Close,1997-02-07,31950,T,N,F,2
+HU2 0BD,13,,Hadleigh Close,2020-07-27,90000,T,N,F,1
+HU2 0BD,7,,Hadleigh Close,2004-07-26,46000,T,N,F,1
+HU2 9BE,10A,,Harley Street,2002-04-30,15000,F,N,F,1
+HU2 9BE,11,Flat 1,Harley Street,2006-08-04,155000,F,N,L,1
+HU2 9BE,13,,Harley Street,2000-06-27,48500,T,N,F,1
+HU2 9BE,15,,Harley Street,2012-08-17,120000,T,N,F,1
+HU2 9BE,16,,Harley Street,2013-02-06,132500,T,N,F,3
+HU2 9BE,17,,Harley Street,2017-02-03,135000,T,N,F,2
+HU2 9BE,18 - 20,,Harley Street,2008-08-01,95750,T,N,F,1
+HU2 9BE,19,,Harley Street,2015-09-25,124000,T,N,F,1
+HU2 9BE,20,,Harley Street,2008-08-01,95750,T,N,F,2
+HU2 9BE,21,,Harley Street,2000-09-29,38500,T,N,F,2
+HU2 9BE,23,,Harley Street,2014-10-31,118000,T,N,F,1
+HU2 9BE,25,,Harley Street,2002-01-24,49500,T,N,F,2
+HU2 9BE,27,,Harley Street,2004-09-03,90000,T,N,F,1
+HU2 9BE,29,,Harley Street,2000-04-20,48500,T,N,F,1
+HU2 9BE,37,,Harley Street,2005-11-11,74950,T,N,F,1
+HU2 9BE,39,,Harley Street,2007-11-01,81500,T,N,F,1
+HU2 9BG,26 - 28,,Harley Street,2005-05-26,90000,T,N,F,1
+HU2 8DH,10,,John Street,2011-09-07,60000,T,N,F,1
+HU2 8DH,15,,John Street,1999-04-14,45000,S,N,F,1
+HU2 8DH,17,,John Street,2015-11-26,210000,T,N,F,3
+HU2 8DH,18,,John Street,2003-11-07,162500,T,N,F,2
+HU2 8DH,21,,John Street,1995-08-09,45000,T,N,F,1
+HU2 8DH,23,,John Street,2002-10-09,59950,T,N,F,1
+HU2 8DH,28,,John Street,2000-03-08,52000,S,N,F,1
+HU2 8BD,1,,Jubilee Square,2014-08-22,43000,F,N,L,1
+HU2 8BD,13,,Jubilee Square,1995-11-20,28500,F,N,L,1
+HU2 8BD,16,,Jubilee Square,2008-02-04,22680,F,N,L,1
+HU2 8BD,17,,Jubilee Square,2013-06-21,55000,F,N,L,2
+HU2 0DT,18,,Kilburn Avenue,2008-09-08,50000,S,N,F,1
+HU2 0DT,20,,Kilburn Avenue,2013-10-15,58000,T,N,F,2
+HU2 0DT,26,,Kilburn Avenue,2018-11-16,90000,T,N,F,2
+HU2 0DT,28,,Kilburn Avenue,1999-03-11,20000,T,N,F,1
+HU2 8DA,4,,Kingston Square,1999-07-23,90000,T,N,F,1
+HU2 8DA,5,,Kingston Square,1999-02-05,55000,T,N,F,1
+HU2 8GA,"Kingston Court, 6",Apartment 1,Kingston Square,2004-04-02,95000,F,Y,L,1
+HU2 8GA,"Kingston Court, 6",Apartment 10,Kingston Square,2017-10-02,117500,F,N,L,1
+HU2 8GA,"Kingston Court, 6",Apartment 11,Kingston Square,2004-03-26,142995,F,Y,L,1
+HU2 8GA,"Kingston Court, 6",Apartment 12,Kingston Square,2004-03-01,185995,F,Y,L,1
+HU2 8GA,"Kingston Court, 6",Apartment 13,Kingston Square,2004-03-01,109950,F,Y,L,1
+HU2 8GA,"Kingston Court, 6",Apartment 14,Kingston Square,2016-02-29,108000,F,N,L,2
+HU2 8GA,"Kingston Court, 6",Apartment 15,Kingston Square,2004-01-09,97950,F,Y,L,1
+HU2 8GA,"Kingston Court, 6",Apartment 16,Kingston Square,2004-03-31,129950,F,N,L,2
+HU2 8GA,"Kingston Court, 6",Apartment 17,Kingston Square,2003-12-04,176950,F,N,L,1
+HU2 8GA,"Kingston Court, 6",Apartment 18,Kingston Square,2012-05-15,150000,F,N,L,2
+HU2 8GA,"Kingston Court, 6",Apartment 19,Kingston Square,2011-05-19,117500,F,N,L,2
+HU2 8GA,"Kingston Court, 6",Apartment 2,Kingston Square,2018-11-28,88000,F,N,L,3
+HU2 8GA,"Kingston Court, 6",Apartment 20,Kingston Square,2004-10-29,150000,F,Y,L,1
+HU2 8GA,"Kingston Court, 6",Apartment 21,Kingston Square,2007-01-15,154950,F,N,L,2
+HU2 8GA,"Kingston Court, 6",Apartment 23,Kingston Square,2007-11-23,144950,F,N,L,3
+HU2 8GA,"Kingston Court, 6",Apartment 24,Kingston Square,2015-11-02,145000,F,N,L,3
+HU2 8GA,"Kingston Court, 6",Apartment 25,Kingston Square,2004-02-18,97950,F,Y,L,1
+HU2 8GA,"Kingston Court, 6",Apartment 26,Kingston Square,2004-09-30,141000,F,N,L,2
+HU2 8GA,"Kingston Court, 6",Apartment 28,Kingston Square,2015-07-06,100500,F,N,L,2
+HU2 8GA,"Kingston Court, 6",Apartment 29,Kingston Square,2019-01-25,148000,F,N,L,2
+HU2 8GA,"Kingston Court, 6",Apartment 3,Kingston Square,2004-03-25,101100,F,Y,L,1
+HU2 8GA,"Kingston Court, 6",Apartment 30,Kingston Square,2007-09-12,165500,F,N,L,3
+HU2 8GA,"Kingston Court, 6",Apartment 32,Kingston Square,2005-11-18,150000,F,Y,L,1
+HU2 8GA,"Kingston Court, 6",Apartment 33,Kingston Square,2016-05-12,102000,F,N,L,2
+HU2 8GA,"Kingston Court, 6",Apartment 34,Kingston Square,2004-03-26,143950,F,Y,L,1
+HU2 8GA,"Kingston Court, 6",Apartment 35,Kingston Square,2004-02-09,141950,F,Y,L,1
+HU2 8GA,"Kingston Court, 6",Apartment 36,Kingston Square,2003-11-14,142950,F,N,L,1
+HU2 8GA,"Kingston Court, 6",Apartment 4,Kingston Square,2005-06-17,121000,F,N,L,2
+HU2 8GA,"Kingston Court, 6",Apartment 5,Kingston Square,2003-12-29,101450,F,N,L,1
+HU2 8GA,"Kingston Court, 6",Apartment 6,Kingston Square,2003-12-17,101450,F,Y,L,1
+HU2 8GA,"Kingston Court, 6",Apartment 7,Kingston Square,2003-11-14,86950,F,N,L,1
+HU2 8GA,"Kingston Court, 6",Apartment 8,Kingston Square,2020-06-26,130000,F,N,L,3
+HU2 8GA,"Kingston Court, 6",Apartment 9,Kingston Square,2004-05-14,149995,F,Y,L,1
+HU2 9PE,24,,Lichfield Close,2007-05-18,62500,T,N,F,1
+HU2 9PE,29,,Lichfield Close,2007-08-17,92000,S,N,F,3
+HU2 9PE,3,,Lichfield Close,2002-08-19,12240,T,Y,F,1
+HU2 9PE,45,,Lichfield Close,2017-05-05,93000,T,N,F,1
+HU2 9PE,47,,Lichfield Close,2019-01-18,60000,T,N,F,1
+HU2 9PE,49,,Lichfield Close,1998-02-27,22750,T,N,F,1
+HU2 9PE,53,,Lichfield Close,2008-08-29,57000,T,N,F,3
+HU2 0PB,48,,Lincoln Street,2011-01-31,70000,T,N,L,1
+HU2 0HJ,4,,Lockwood Street,1998-11-18,34500,D,N,F,1
+HU2 0AJ,1,,Lorne Close,1996-07-26,31500,T,N,F,1
+HU2 0AJ,16,,Lorne Close,2008-03-20,98000,T,N,F,2
+HU2 0AJ,20,,Lorne Close,2019-01-11,72500,T,N,F,2
+HU2 0AJ,21,,Lorne Close,2003-07-23,44950,T,N,F,2
+HU2 0AJ,23,,Lorne Close,2010-11-22,55000,T,N,F,1
+HU2 0AJ,36,,Lorne Close,2015-07-17,105000,T,N,F,1
+HU2 0AJ,42,,Lorne Close,2007-03-01,60000,T,N,F,1
+HU2 0AJ,50,,Lorne Close,2018-10-24,50000,T,N,F,1
+HU2 0AJ,8,,Lorne Close,2019-11-11,95000,T,N,F,5
+HU2 0LF,"Unit A, 18",,Main Street,2008-03-06,145000,T,N,F,1
+HU2 9AE,9,,Marlborough Terrace,2006-06-02,71955,T,N,F,1
+HU2 8AU,Clowes Buildings,12,New George Street,2008-11-10,21840,F,N,L,1
+HU2 8AU,Clowes Buildings,24,New George Street,2004-07-30,22000,F,N,L,2
+HU2 8AU,Clowes Buildings,31,New George Street,2018-04-26,43000,F,N,L,2
+HU2 8AU,Clowes Buildings,33,New George Street,2004-02-09,49500,F,N,L,2
+HU2 8AU,Clowes Buildings,39,New George Street,2015-05-08,42000,F,N,L,2
+HU2 8AU,Clowes Buildings,42,New George Street,2019-02-11,26500,F,N,L,1
+HU2 8AX,15,,New George Street,2013-09-20,34000,F,N,L,1
+HU2 8AX,33,,New George Street,2014-10-14,45000,F,N,L,1
+HU2 8AX,35,,New George Street,2016-03-24,42500,F,N,L,3
+HU2 8AY,24,,New George Street,2018-02-14,41000,F,N,L,1
+HU2 8AY,32,,New George Street,2018-11-14,44000,F,N,L,2
+HU2 8AY,34,,New George Street,2015-08-18,41000,S,N,L,1
+HU2 8AY,38,,New George Street,2011-05-16,44950,F,N,L,1
+HU2 9AA,28,,Norfolk Street,1999-07-20,17000,T,N,F,1
+HU2 9AA,30,,Norfolk Street,2007-10-01,48000,T,N,F,1
+HU2 9AA,32,,Norfolk Street,2009-07-24,68000,T,N,F,1
+HU2 9AA,38,,Norfolk Street,2005-11-14,33000,T,N,F,1
+HU2 9AA,4,,Norfolk Street,2017-07-07,75000,T,N,F,1
+HU2 9JR,50,,Outram Close,2007-03-19,85000,T,N,F,1
+HU2 0QP,100,,Oxford Street,2005-07-08,135000,D,N,F,1
+HU2 0QP,118,,Oxford Street,2008-12-05,130000,D,N,F,1
+HU2 8TB,20,,Park Row,2008-03-31,19600,F,N,L,1
+HU2 8TB,38,,Park Row,2018-01-26,89000,T,N,F,1
+HU2 8TB,40,,Park Row,2004-11-08,23970,T,N,F,1
+HU2 8TB,46,,Park Row,2018-04-20,89000,S,N,F,1
+HU2 8TB,6,,Park Row,1997-12-01,12980,T,N,F,1
+HU2 8RR,28,,Park Street,2008-04-04,60000,F,N,L,1
+HU2 8RR,"Belgrave Mansions, 24",Flat 1,Park Street,2009-08-10,51000,F,N,L,3
+HU2 8RR,"Belgrave Mansions, 24",Flat 2,Park Street,2003-08-12,41950,F,N,L,2
+HU2 8RR,"Belgrave Mansions, 24",Flat 3,Park Street,1997-05-16,42995,F,N,L,2
+HU2 8RR,"Belgrave Mansions, 24",Flat 4,Park Street,2007-03-06,90000,F,N,L,5
+HU2 8RR,"Belgrave Mansions, 24",Flat 5,Park Street,2003-11-18,46000,F,N,L,2
+HU2 8RR,"Belgrave Mansions, 24",Flat 6,Park Street,2001-11-30,28000,F,N,L,3
+HU2 8RR,"Belgrave Mansions, 24A",Flat 10,Park Street,2007-05-30,91500,F,N,L,3
+HU2 8RR,"Belgrave Mansions, 24A",Flat 11,Park Street,1996-06-07,34950,F,Y,L,1
+HU2 8RR,"Belgrave Mansions, 24A",Flat 12,Park Street,2019-03-11,55000,F,N,L,2
+HU2 8RR,"Belgrave Mansions, 24A",Flat 7,Park Street,1997-12-23,34995,F,Y,L,1
+HU2 8RR,"Belgrave Mansions, 24A",Flat 8,Park Street,2006-08-04,83000,F,N,L,2
+HU2 8RR,"Belgrave Mansions, 24A",Flat 9,Park Street,2013-07-04,43000,F,N,L,2
+HU2 8RR,"Kingston House, 27",,Park Street,2006-04-28,190000,T,N,F,1
+HU2 8TA,36,,Park Street,2012-02-29,74950,T,N,F,2
+HU2 8TA,37,,Park Street,2007-09-24,61000,T,N,F,1
+HU2 8TA,38,,Park Street,2011-03-25,94950,T,N,F,1
+HU2 8TA,52,,Park Street,2007-11-12,35500,S,N,F,1
+HU2 8TA,53,,Park Street,2007-02-05,80000,F,N,F,1
+HU2 8HH,"Friends' Meeting House, 4",Flat 5,Percy Street,2009-02-02,125000,F,N,L,1
+HU2 8HL,31,,Percy Street,2003-01-03,28000,T,N,F,2
+HU2 8HL,32,,Percy Street,2004-03-05,160000,T,N,F,3
+HU2 8HL,33,,Percy Street,2012-08-31,65000,T,N,F,1
+HU2 8NR,Ferensway House,1,Prospect Street,2009-06-23,149950,F,N,L,1
+HU2 8NR,Ferensway House,2,Prospect Street,2005-08-12,132000,F,N,L,2
+HU2 8NR,Ferensway House,4,Prospect Street,2014-02-19,150000,F,N,L,3
+HU2 8NR,Ferensway House,5,Prospect Street,2010-03-05,115000,F,N,L,3
+HU2 8BE,1,Flat 1,Reed Street,2007-05-18,142000,F,N,L,1
+HU2 8BE,1,Flat 10,Reed Street,2007-06-22,118000,F,N,L,1
+HU2 8BE,1,Flat 11,Reed Street,2015-10-16,90000,F,N,L,2
+HU2 8BE,1,Flat 12,Reed Street,2007-06-13,121950,F,N,L,1
+HU2 8BE,1,Flat 14,Reed Street,2007-05-25,132950,F,N,L,1
+HU2 8BE,1,Flat 15,Reed Street,2007-05-18,118000,F,N,L,1
+HU2 8BE,1,Flat 16,Reed Street,2007-05-18,119000,F,N,L,1
+HU2 8BE,1,Flat 17,Reed Street,2007-07-02,145000,F,Y,L,1
+HU2 8BE,1,Flat 18,Reed Street,2007-05-18,121950,F,N,L,1
+HU2 8BE,1,Flat 19,Reed Street,2007-06-15,160000,F,N,L,1
+HU2 8BE,1,Flat 2,Reed Street,2007-06-15,121950,F,N,L,1
+HU2 8BE,1,Flat 3,Reed Street,2007-05-17,132950,F,N,L,1
+HU2 8BE,1,Flat 4,Reed Street,2020-02-28,51000,F,N,L,3
+HU2 8BE,1,Flat 5,Reed Street,2007-06-15,117000,F,N,L,1
+HU2 8BE,1,Flat 6,Reed Street,2017-09-01,84000,F,N,L,2
+HU2 8BE,1,Flat 7,Reed Street,2007-05-23,121950,F,N,L,1
+HU2 8BE,1,Flat 8,Reed Street,2007-05-25,132950,F,N,L,1
+HU2 8BE,1,Flat 9,Reed Street,2007-06-22,117000,F,N,L,1
+HU2 8BL,2,Flat 10,Reed Street,2007-05-12,114000,F,N,L,1
+HU2 8BL,2,Flat 11,Reed Street,2015-01-22,57000,F,N,L,2
+HU2 8BL,2,Flat 12,Reed Street,2007-05-22,137950,F,N,L,1
+HU2 8BL,2,Flat 14,Reed Street,2007-10-29,139950,T,N,L,2
+HU2 8BL,2,Flat 15,Reed Street,2007-05-22,137950,F,N,L,1
+HU2 8BL,2,Flat 2,Reed Street,2007-05-17,112000,F,N,L,1
+HU2 8BL,2,Flat 3,Reed Street,2007-05-21,112000,F,N,L,1
+HU2 8BL,2,Flat 4,Reed Street,2007-05-25,142000,F,N,L,1
+HU2 8BL,2,Flat 5,Reed Street,2007-05-22,128950,F,N,L,1
+HU2 8BL,2,Flat 6,Reed Street,2007-05-18,113000,F,N,L,1
+HU2 8BL,2,Flat 7,Reed Street,2007-05-17,113000,F,N,L,1
+HU2 8BL,2,Flat 8,Reed Street,2007-05-24,126500,F,N,L,1
+HU2 8BL,2,Flat 9,Reed Street,2007-05-17,132500,F,N,L,1
+HU2 9JP,24,,Rodney Close,2018-05-23,90000,T,N,F,3
+HU2 0BE,11,,Scotney Close,2013-12-18,65000,T,N,F,1
+HU2 0BE,12,,Scotney Close,2018-10-12,65000,T,N,F,2
+HU2 0BE,3,,Scotney Close,2006-02-24,30000,T,N,F,2
+HU2 8AP,36,,Scott Street,2007-11-12,16000,F,N,L,1
+HU2 9PA,11,,Somerscales Street,2006-05-29,68000,T,N,F,3
+HU2 9PA,13,,Somerscales Street,2015-09-25,75000,T,N,F,2
+HU2 9PA,19,,Somerscales Street,1996-04-19,31000,T,N,F,1
+HU2 9PA,21,,Somerscales Street,2011-04-26,71000,T,N,F,2
+HU2 9PA,23,,Somerscales Street,2020-12-11,96500,T,N,F,1
+HU2 9PA,5,,Somerscales Street,2006-07-05,72500,T,N,F,2
+HU2 9PA,7,,Somerscales Street,2006-03-23,59000,T,N,F,2
+HU2 9PA,9,,Somerscales Street,2008-11-24,75000,T,N,F,3
+HU2 9PG,10,,Sophia Close,2004-08-10,60000,S,N,F,2
+HU2 9PG,5,,Sophia Close,2004-08-06,60000,S,N,F,1
+HU2 9PG,6,,Sophia Close,2004-08-06,60000,S,N,F,1
+HU2 9PG,7,,Sophia Close,2004-08-06,60000,S,N,F,1
+HU2 9PG,8,,Sophia Close,2004-08-06,60000,S,N,F,1
+HU2 9PG,9,,Sophia Close,2004-08-10,60000,S,N,F,2
+HU2 8RB,10A,,Spring Street,2007-09-28,103000,T,N,F,1
+HU2 8RD,12,Apartment 10,Spring Street,2008-04-09,131300,F,Y,L,1
+HU2 8RD,12,Apartment 12,Spring Street,2019-03-22,50500,F,N,L,2
+HU2 8RD,12,Apartment 13,Spring Street,2008-04-09,126000,F,Y,L,1
+HU2 8RD,12,Apartment 14,Spring Street,2008-04-09,134000,F,Y,L,1
+HU2 8RD,12,Apartment 15,Spring Street,2008-03-17,126000,F,Y,L,1
+HU2 8RD,12,Apartment 16,Spring Street,2014-08-18,69500,F,N,L,1
+HU2 8RD,12,Apartment 17,Spring Street,2015-02-18,69500,F,N,L,1
+HU2 8RD,12,Apartment 18,Spring Street,2015-02-18,69500,F,N,L,1
+HU2 8RD,12,Apartment 19,Spring Street,2008-04-16,127800,F,Y,L,1
+HU2 8RD,12,Apartment 2,Spring Street,2014-08-18,69500,F,N,L,1
+HU2 8RD,12,Apartment 20,Spring Street,2008-04-09,135800,F,Y,L,1
+HU2 8RD,12,Apartment 21,Spring Street,2008-04-09,147500,F,Y,L,1
+HU2 8RD,12,Apartment 22,Spring Street,2015-02-26,72500,F,N,L,1
+HU2 8RD,12,Apartment 23,Spring Street,2016-03-31,72000,F,N,L,2
+HU2 8RD,12,Apartment 24,Spring Street,2014-08-18,69500,F,N,L,1
+HU2 8RD,12,Apartment 25,Spring Street,2008-04-25,120500,F,N,L,1
+HU2 8RD,12,Apartment 26,Spring Street,2008-04-25,126000,F,N,L,1
+HU2 8RD,12,Apartment 27,Spring Street,2014-08-18,69500,F,N,L,1
+HU2 8RD,12,Apartment 28,Spring Street,2008-04-09,139500,F,Y,L,1
+HU2 8RD,12,Apartment 29,Spring Street,2008-04-18,127800,F,Y,L,1
+HU2 8RD,12,Apartment 30,Spring Street,2008-04-09,135800,F,Y,L,1
+HU2 8RD,12,Apartment 31,Spring Street,2008-03-17,135800,F,Y,L,1
+HU2 8RD,12,Apartment 32,Spring Street,2008-03-17,135800,F,Y,L,1
+HU2 8RD,12,Apartment 33,Spring Street,2008-04-21,137600,F,Y,L,1
+HU2 8RD,12,Apartment 36,Spring Street,2017-05-31,64000,F,N,L,2
+HU2 8RD,12,Apartment 37,Spring Street,2015-02-18,69500,F,N,L,1
+HU2 8RD,12,Apartment 38,Spring Street,2015-02-26,72500,F,N,L,1
+HU2 8RD,12,Apartment 39,Spring Street,2014-08-18,69500,F,N,L,1
+HU2 8RD,12,Apartment 4,Spring Street,2018-07-13,54000,F,N,L,1
+HU2 8RD,12,Apartment 40,Spring Street,2008-04-09,135000,F,Y,L,1
+HU2 8RD,12,Apartment 41,Spring Street,2008-04-09,122300,F,Y,L,1
+HU2 8RD,12,Apartment 42,Spring Street,2008-04-09,135800,F,Y,L,1
+HU2 8RD,12,Apartment 43,Spring Street,2015-02-18,72500,F,N,L,1
+HU2 8RD,12,Apartment 44,Spring Street,2008-04-09,149300,F,Y,L,1
+HU2 8RD,12,Apartment 46,Spring Street,2008-04-09,137600,F,Y,L,1
+HU2 8RD,12,Apartment 47,Spring Street,2008-03-14,129600,F,Y,L,1
+HU2 8RD,12,Apartment 5,Spring Street,2008-04-09,145700,F,Y,L,1
+HU2 8RD,12,Apartment 50,Spring Street,2014-08-18,69500,F,N,L,1
+HU2 8RD,12,Apartment 51,Spring Street,2014-08-18,69500,F,N,L,1
+HU2 8RD,12,Apartment 52,Spring Street,2008-04-09,139400,F,Y,L,1
+HU2 8RD,12,Apartment 54,Spring Street,2016-03-31,72000,F,N,L,1
+HU2 8RD,12,Apartment 55,Spring Street,2008-06-02,137600,F,N,L,1
+HU2 8RD,12,Apartment 56,Spring Street,2008-04-09,124100,F,Y,L,1
+HU2 8RD,12,Apartment 57,Spring Street,2019-02-26,45600,F,N,L,2
+HU2 8RD,12,Apartment 58,Spring Street,2015-02-26,69500,F,N,L,1
+HU2 8RD,12,Apartment 59,Spring Street,2015-02-18,69500,F,N,L,1
+HU2 8RD,12,Apartment 6,Spring Street,2017-02-20,65000,F,N,L,1
+HU2 8RD,12,Apartment 60,Spring Street,2008-04-09,143100,F,Y,L,1
+HU2 8RD,12,Apartment 61,Spring Street,2015-02-18,69500,F,N,L,1
+HU2 8RD,12,Apartment 62,Spring Street,2008-04-09,131400,F,Y,L,1
+HU2 8RD,12,Apartment 63,Spring Street,2015-02-18,69500,F,N,L,1
+HU2 8RD,12,Apartment 64,Spring Street,2015-02-13,69500,F,N,L,1
+HU2 8RD,12,Apartment 65,Spring Street,2014-08-18,69500,F,N,L,1
+HU2 8RD,12,Apartment 66,Spring Street,2014-08-18,72500,F,N,L,1
+HU2 8RD,12,Apartment 67,Spring Street,2015-06-26,69500,F,N,L,1
+HU2 8RD,12,Apartment 68,Spring Street,2015-02-18,69500,F,N,L,1
+HU2 8RD,12,Apartment 69,Spring Street,2017-08-08,65000,F,N,L,2
+HU2 8RD,12,Apartment 7,Spring Street,2008-04-09,123300,F,Y,L,1
+HU2 8RD,12,Apartment 70,Spring Street,2014-08-18,69500,F,N,L,1
+HU2 8RD,12,Apartment 72,Spring Street,2015-04-22,69500,F,N,L,1
+HU2 8RD,12,Apartment 8,Spring Street,2008-04-09,110700,F,Y,L,1
+HU2 8RD,12,Apartment 9,Spring Street,2008-04-09,118700,F,Y,L,1
+HU2 8RD,"Urban 1, 12",Apartment 34,Spring Street,2008-03-17,137600,F,Y,L,1
+HU2 9LW,14,,St Clements Place,2016-03-29,31500,F,N,L,1
+HU2 9LW,16,,St Clements Place,2011-06-03,52500,T,N,F,2
+HU2 0DH,113,,St Pauls Street,2007-05-08,60000,T,N,F,1
+HU2 0DH,125,,St Pauls Street,2005-10-10,39440,T,N,F,1
+HU2 0DH,127,,St Pauls Street,2019-12-20,74000,T,N,F,3
+HU2 9BH,21,,Stafford Street,2006-12-19,90000,T,N,F,2
+HU2 9BH,23,,Stafford Street,2019-05-07,75000,T,N,F,1
+HU2 9BJ,24,,Stafford Street,2001-05-25,19000,T,N,F,1
+HU2 9BJ,27,,Stafford Street,2007-11-16,70000,T,N,F,1
+HU2 9BL,14,,Stoke Street,2004-03-01,12000,T,N,F,1
+HU2 9BL,18,,Stoke Street,2019-11-27,85000,S,N,F,1
+HU2 9BL,21,,Stoke Street,2005-05-27,94950,T,N,F,1
+HU2 9BL,22,,Stoke Street,2014-03-19,60000,T,N,F,1
+HU2 9BL,23,,Stoke Street,2006-01-09,28000,T,N,F,1
+HU2 9BL,26,,Stoke Street,2007-11-16,87000,T,N,F,2
+HU2 9BL,3,,Stoke Street,2003-10-10,20500,T,N,F,1
+HU2 9DA,17,,Strand Close,1999-07-28,31580,T,N,F,1
+HU2 9DA,27,,Strand Close,2003-08-18,14160,T,N,F,1
+HU2 8AZ,33,,Sykes Street,2017-07-10,35000,F,N,L,2
+HU2 8AZ,37,,Sykes Street,2007-12-10,13000,F,N,L,1
+HU2 8AZ,53,,Sykes Street,2002-10-14,20000,T,N,L,2
+HU2 8AZ,59,,Sykes Street,2007-08-20,19980,F,N,L,1
+HU2 8AZ,7,,Sykes Street,2013-10-29,48000,F,N,L,2
+HU2 8AZ,73,,Sykes Street,2013-06-03,14700,F,N,L,1
+HU2 8AZ,79,,Sykes Street,2006-02-13,17920,F,N,L,1
+HU2 8AZ,89,,Sykes Street,2019-10-21,32000,F,N,L,1
+HU2 8AZ,"Theatre Gardens, 1 - 3",Apartment 1,Sykes Street,2010-08-26,61500,F,N,L,1
+HU2 8AZ,"Theatre Gardens, 1 - 3",Apartment 2,Sykes Street,2012-10-25,89950,F,N,L,3
+HU2 8AZ,"Theatre Gardens, 1 - 3",Apartment 3,Sykes Street,2011-09-02,65000,F,N,L,1
+HU2 0DX,2,,Symons Close,2004-08-23,24400,S,N,F,1
+HU2 0DX,5,,Symons Close,2007-10-29,37000,T,N,F,1
+HU2 0DX,9,,Symons Close,2019-06-26,78000,T,N,F,1
+HU2 0BA,25,,Tattershall Close,2002-07-17,27500,T,N,F,3
+HU2 0BA,29,,Tattershall Close,2003-05-23,35000,T,N,F,1
+HU2 0BA,3,,Tattershall Close,2007-05-21,75500,T,N,F,2
+HU2 0BA,33,,Tattershall Close,2015-08-17,68000,T,N,F,2
+HU2 0BA,35,,Tattershall Close,2011-12-02,79000,S,N,F,1
+HU2 0BA,41,,Tattershall Close,2010-08-12,82000,T,N,F,1
+HU2 0BA,45,,Tattershall Close,2000-06-19,12190,T,N,F,1
+HU2 0BA,59,,Tattershall Close,2006-05-24,20000,T,N,F,2
+HU2 0BA,73,,Tattershall Close,2017-05-31,80000,T,N,F,1
+HU2 0BA,75,,Tattershall Close,2007-03-27,67000,T,N,F,1
+HU2 0BA,9,,Tattershall Close,2001-10-15,12720,T,N,F,1
+HU2 0BB,2,,Tattershall Close,2005-10-07,95000,S,N,F,2
+HU2 0BB,34,,Tattershall Close,2015-10-30,70000,T,N,F,2
+HU2 0BB,36,,Tattershall Close,2017-06-16,80000,T,N,F,2
+HU2 0BB,4,,Tattershall Close,2015-09-11,103000,T,N,F,2
+HU2 0BB,40,,Tattershall Close,2003-12-10,41950,T,N,F,2
+HU2 0BB,42,,Tattershall Close,2020-06-29,70000,T,N,F,2
+HU2 0BB,60,,Tattershall Close,2003-04-04,39950,T,N,F,1
+HU2 0BB,68,,Tattershall Close,2006-10-02,68000,T,N,F,2
+HU2 0BB,72,,Tattershall Close,2014-05-28,87000,T,N,F,2
+HU2 0BB,80,,Tattershall Close,2007-08-31,116000,T,N,F,2
+HU2 0BB,82,,Tattershall Close,2015-07-24,77500,T,N,F,2
+HU2 8HD,1,,Union Street,2006-12-13,120000,F,N,L,1
+HU2 8HD,4,,Union Street,2001-03-05,30000,T,N,L,1
+HU2 8HD,6,,Union Street,2006-01-30,108000,S,N,L,1
+HU2 0AN,16,,Viceroy Close,2010-12-10,77000,T,N,F,1
+HU2 0DY,10,,Waterloo Street,2010-10-29,74950,T,N,F,1
+HU2 0DY,18,,Waterloo Street,2017-05-08,100000,T,N,F,2
+HU2 0DY,2,,Waterloo Street,2006-08-07,600,T,N,F,1
+HU2 0DY,28,,Waterloo Street,2015-11-16,71000,T,N,F,2
+HU2 0DY,7,,Waterloo Street,2003-08-08,37000,T,N,F,3
+HU2 0DY,9,,Waterloo Street,2006-09-04,62000,T,N,F,2
+HU2 9LE,118,,Waterloo Street,2010-12-09,75000,T,N,F,1
+HU2 9LE,146,,Waterloo Street,2006-05-26,84950,T,N,F,1
+HU2 9LG,139,,Waterloo Street,2010-02-01,56000,T,N,F,1
+HU2 9LG,147,,Waterloo Street,2005-05-27,63500,T,N,F,3
+HU2 9LG,151,,Waterloo Street,2008-04-25,97995,T,N,F,1
+HU2 9LG,153,,Waterloo Street,2007-11-02,51500,T,N,F,2
+HU2 9LG,155,,Waterloo Street,2006-09-15,79500,T,N,F,1
+HU2 9LG,159,,Waterloo Street,2019-03-15,75000,T,N,F,1
+HU2 9LG,165,,Waterloo Street,2019-03-21,100000,T,N,F,2
+HU2 9LG,167,,Waterloo Street,2005-07-29,86520,T,N,F,1
+HU2 9LG,171,,Waterloo Street,1996-07-05,34000,T,N,F,1
+HU2 9LP,195,,Waterloo Street,2007-01-12,82000,T,N,F,3
+HU2 9LP,196,,Waterloo Street,2005-05-24,72000,T,N,F,2
+HU2 9LP,197,,Waterloo Street,2014-12-16,80000,T,N,F,2
+HU2 9LP,200,,Waterloo Street,2006-05-12,55000,T,N,F,1
+HU2 9LP,201,,Waterloo Street,1999-09-03,19950,T,N,F,2
+HU2 9LP,203,,Waterloo Street,2007-01-12,98000,T,N,F,2
+HU2 9LP,211,,Waterloo Street,1998-04-28,32500,T,N,F,2
+HU2 0PZ,196,,Wincolmlee,2011-02-21,68500,T,N,F,1
+HU2 0QE,303 - 305,,Wincolmlee,2012-03-14,23000,T,N,F,1
+HU2 0QL,410,,Wincolmlee,2001-02-16,60000,S,N,F,1
+HU2 8AG,"Bridge House, 41",,Wincolmlee,2009-09-07,225000,D,N,F,1
+HU2 8HZ,Old Harbour Court,Flat 14,Wincolmlee,2009-10-16,110000,F,Y,L,1
+HU2 8HZ,Old Harbour Court,Flat 29,Wincolmlee,2009-07-17,90000,F,Y,L,1
+HU2 8HZ,"Old Harbour Court, 10",1,Wincolmlee,2009-08-28,69995,F,Y,L,1
+HU2 8HZ,"Old Harbour Court, 10",10,Wincolmlee,2009-08-26,107500,F,Y,L,1
+HU2 8HZ,"Old Harbour Court, 10",11,Wincolmlee,2009-07-31,101675,F,Y,L,1
+HU2 8HZ,"Old Harbour Court, 10",21,Wincolmlee,2009-07-24,110000,F,N,L,1
+HU2 8HZ,"Old Harbour Court, 10",22,Wincolmlee,2009-06-29,100000,F,N,L,1
+HU2 8HZ,"Old Harbour Court, 10",35,Wincolmlee,2009-07-10,90000,F,N,L,1
+HU2 8HZ,"Old Harbour Court, 10",38,Wincolmlee,2009-09-25,105000,F,Y,L,1
+HU2 8HZ,"Old Harbour Court, 10",39,Wincolmlee,2009-06-19,104000,F,Y,L,1
+HU2 8HZ,"Old Harbour Court, 10",40,Wincolmlee,2009-05-01,80000,F,Y,L,1
+HU2 8HZ,"Old Harbour Court, 10",41,Wincolmlee,2009-07-17,100000,F,Y,L,1
+HU2 8HZ,"Old Harbour Court, 10",42,Wincolmlee,2009-07-24,85000,F,Y,L,1
+HU2 8HZ,"Old Harbour Court, 10",45,Wincolmlee,2009-05-01,100000,F,Y,L,1
+HU2 8HZ,"Old Harbour Court, 10",Flat 1,Wincolmlee,2015-02-20,58000,F,N,L,1
+HU2 8HZ,"Old Harbour Court, 10",Flat 10,Wincolmlee,2015-06-26,100000,F,N,L,1
+HU2 8HZ,"Old Harbour Court, 10",Flat 12,Wincolmlee,2020-01-06,60500,F,N,L,2
+HU2 8HZ,"Old Harbour Court, 10",Flat 13,Wincolmlee,2010-09-24,90000,F,Y,L,1
+HU2 8HZ,"Old Harbour Court, 10",Flat 15,Wincolmlee,2014-09-10,75000,F,N,L,1
+HU2 8HZ,"Old Harbour Court, 10",Flat 16,Wincolmlee,2012-11-20,85000,F,N,L,2
+HU2 8HZ,"Old Harbour Court, 10",Flat 17,Wincolmlee,2019-09-04,100000,F,N,L,1
+HU2 8HZ,"Old Harbour Court, 10",Flat 18,Wincolmlee,2019-02-12,92000,F,N,L,2
+HU2 8HZ,"Old Harbour Court, 10",Flat 19,Wincolmlee,2016-09-30,65000,F,N,L,1
+HU2 8HZ,"Old Harbour Court, 10",Flat 2,Wincolmlee,2009-09-11,95000,F,Y,L,1
+HU2 8HZ,"Old Harbour Court, 10",Flat 20,Wincolmlee,2016-10-10,65000,F,N,L,1
+HU2 8HZ,"Old Harbour Court, 10",Flat 21,Wincolmlee,2016-12-12,103500,F,N,L,1
+HU2 8HZ,"Old Harbour Court, 10",Flat 24,Wincolmlee,2011-09-16,94950,F,N,L,1
+HU2 8HZ,"Old Harbour Court, 10",Flat 25,Wincolmlee,2018-09-26,85000,F,N,L,3
+HU2 8HZ,"Old Harbour Court, 10",Flat 26,Wincolmlee,2013-10-18,70000,F,N,L,2
+HU2 8HZ,"Old Harbour Court, 10",Flat 28,Wincolmlee,2010-02-19,105000,F,Y,L,1
+HU2 8HZ,"Old Harbour Court, 10",Flat 3,Wincolmlee,2010-05-07,124999,F,Y,L,1
+HU2 8HZ,"Old Harbour Court, 10",Flat 32,Wincolmlee,2009-08-21,110000,F,Y,L,1
+HU2 8HZ,"Old Harbour Court, 10",Flat 33,Wincolmlee,2009-04-21,110000,F,Y,L,1
+HU2 8HZ,"Old Harbour Court, 10",Flat 34,Wincolmlee,2010-02-19,108995,F,Y,L,1
+HU2 8HZ,"Old Harbour Court, 10",Flat 36,Wincolmlee,2010-08-23,67500,F,Y,L,1
+HU2 8HZ,"Old Harbour Court, 10",Flat 37,Wincolmlee,2010-05-14,90000,F,Y,L,1
+HU2 8HZ,"Old Harbour Court, 10",Flat 38,Wincolmlee,2020-05-15,100000,F,N,L,2
+HU2 8HZ,"Old Harbour Court, 10",Flat 39,Wincolmlee,2017-10-09,105000,F,N,L,1
+HU2 8HZ,"Old Harbour Court, 10",Flat 4,Wincolmlee,2015-04-29,79500,F,N,L,2
+HU2 8HZ,"Old Harbour Court, 10",Flat 40,Wincolmlee,2018-04-30,100000,F,N,L,2
+HU2 8HZ,"Old Harbour Court, 10",Flat 42,Wincolmlee,2018-08-13,70000,F,N,L,1
+HU2 8HZ,"Old Harbour Court, 10",Flat 43,Wincolmlee,2010-07-02,87000,F,Y,L,1
+HU2 8HZ,"Old Harbour Court, 10",Flat 44,Wincolmlee,2018-08-01,116000,F,N,L,2
+HU2 8HZ,"Old Harbour Court, 10",Flat 5,Wincolmlee,2010-05-28,97995,F,Y,L,1
+HU2 8HZ,"Old Harbour Court, 10",Flat 6,Wincolmlee,2010-08-04,90000,F,Y,L,1
+HU2 8HZ,"Old Harbour Court, 10",Flat 7,Wincolmlee,2018-06-01,80000,F,N,L,2
+HU2 8HZ,"Old Harbour Court, 10",Flat 8,Wincolmlee,2018-11-22,75000,F,N,L,2
+HU2 8HZ,"Old Harbour Court, 10",Flat 9,Wincolmlee,2016-01-22,79000,F,N,L,2
+HU2 9JJ,11,,Woodbine Close,2011-10-03,74950,T,N,F,1
+HU2 9JJ,13,,Woodbine Close,1999-09-10,27500,T,N,F,1
+HU2 9JJ,15,,Woodbine Close,2014-05-09,65000,T,N,F,1
+HU2 9JJ,18,,Woodbine Close,2008-10-02,80000,T,N,F,1
+HU2 9JJ,5,,Woodbine Close,2018-05-04,65000,T,N,F,1
+HU2 9JJ,51,,Woodbine Close,2003-12-11,15000,T,N,F,1
+HU2 8HU,6,,Wright Street,2007-07-20,240000,D,N,F,1
+HU2 8HU,6,Flat 2,Wright Street,2009-02-19,110000,F,N,L,1
+HU2 8HU,6,Flat 3,Wright Street,2009-02-13,150000,F,Y,L,1
+HU2 8HU,"City Central, 22",Flat 1,Wright Street,2015-02-16,92500,F,N,L,1
+HU2 8HU,"City Central, 22",Flat 10,Wright Street,2006-02-17,156995,F,Y,L,1
+HU2 8HU,"City Central, 22",Flat 12,Wright Street,2006-02-27,130305,F,Y,L,1
+HU2 8HU,"City Central, 22",Flat 14,Wright Street,2015-04-20,73500,F,N,L,2
+HU2 8HU,"City Central, 22",Flat 15,Wright Street,2018-10-25,105500,F,N,L,3
+HU2 8HU,"City Central, 22",Flat 16,Wright Street,2018-05-01,61500,F,N,L,1
+HU2 8HU,"City Central, 22",Flat 17,Wright Street,2018-03-19,69700,F,N,L,1
+HU2 8HU,"City Central, 22",Flat 19,Wright Street,2008-03-20,142750,F,Y,L,1
+HU2 8HU,"City Central, 22",Flat 2,Wright Street,2006-07-13,130000,F,N,L,2
+HU2 8HU,"City Central, 22",Flat 20,Wright Street,2018-03-19,61500,F,N,L,1
+HU2 8HU,"City Central, 22",Flat 21,Wright Street,2008-03-20,143750,F,Y,L,1
+HU2 8HU,"City Central, 22",Flat 22,Wright Street,2008-07-04,95000,F,Y,L,1
+HU2 8HU,"City Central, 22",Flat 23,Wright Street,2018-03-19,61500,F,N,L,1
+HU2 8HU,"City Central, 22",Flat 26,Wright Street,2018-05-18,61500,F,N,L,1
+HU2 8HU,"City Central, 22",Flat 27,Wright Street,2008-04-04,130000,F,Y,L,1
+HU2 8HU,"City Central, 22",Flat 3,Wright Street,2006-04-10,175000,F,Y,L,1
+HU2 8HU,"City Central, 22",Flat 4,Wright Street,2006-09-27,130000,F,N,L,2
+HU2 8HU,"City Central, 22",Flat 5,Wright Street,2006-02-10,175000,F,N,L,1
+HU2 8HU,"City Central, 22",Flat 6,Wright Street,2018-03-07,65000,F,N,L,1
+HU2 8HU,"City Central, 22",Flat 8,Wright Street,2006-02-24,154995,F,Y,L,1
+HU2 8HU,"City Central, 22",Flat 9,Wright Street,2006-02-27,154375,F,Y,L,1
+HU2 8HU,"Salter House, 10 - 11",Flat 1,Wright Street,2005-11-17,154776,F,N,L,1
+HU2 8HU,"Salter House, 10 - 11",Flat 2,Wright Street,2005-10-28,112995,F,N,L,1
+HU2 8HU,"Salter House, 10 - 11",Flat 4,Wright Street,2006-03-17,123000,F,Y,L,1
+HU2 8HU,"Salter House, 10 - 11",Flat 5,Wright Street,2006-06-22,109000,F,Y,L,1
+HU2 8HU,"Salter House, 10 - 11",Flat 6,Wright Street,2020-12-04,70000,F,N,L,2
+HU2 8HU,"Salter House, 10 - 11",Flat 7,Wright Street,2005-12-08,194823,F,Y,L,1
+HU2 8JR,15,15,Wright Street,2008-07-10,200000,F,N,L,1
+HU2 8JR,"Kings Court, 71 - 76",10,Wright Street,2018-02-02,95000,F,N,L,1
+HU2 8JR,"Kings Court, 71 - 76",12,Wright Street,2015-02-20,101000,F,N,L,2
+HU2 8JR,"Kings Court, 71 - 76",14,Wright Street,2009-07-29,130000,F,Y,L,1
+HU2 8JR,"Kings Court, 71 - 76",31,Wright Street,2008-05-04,148196,F,Y,L,1
+HU2 8JR,"Kings Court, 71 - 76",Apartment 16,Wright Street,2007-02-19,180995,F,N,L,1
+HU2 8JR,"Kings Court, 71 - 76",Apartment 17,Wright Street,2008-10-30,140000,F,N,L,1
+HU2 8JR,"Kings Court, 71 - 76",Apartment 18,Wright Street,2007-02-19,188995,F,N,L,1
+HU2 8JR,"Kings Court, 71 - 76",Apartment 19,Wright Street,2007-02-16,188995,F,N,L,1
+HU2 8JR,"Kings Court, 71 - 76",Apartment 21,Wright Street,2017-09-08,115000,F,N,L,2
+HU2 8JR,"Kings Court, 71 - 76",Apartment 22,Wright Street,2016-07-06,120000,F,N,L,2
+HU2 8JR,"Kings Court, 71 - 76",Apartment 23,Wright Street,2007-02-20,196995,F,N,L,1
+HU2 8JR,"Kings Court, 71 - 76",Apartment 25,Wright Street,2007-12-18,151995,F,N,L,1
+HU2 8JR,"Kings Court, 71 - 76",Apartment 27,Wright Street,2019-08-22,87000,F,N,L,2
+HU2 8JR,"Kings Court, 71 - 76",Apartment 30,Wright Street,2013-11-28,103000,F,N,L,1
+HU2 8JR,"Kings Court, 71 - 76",Apartment 32,Wright Street,2007-06-05,149096,F,Y,L,1
+HU2 8JR,"Kings Court, 71 - 76",Apartment 34,Wright Street,2019-04-15,105000,F,N,L,2
+HU2 8JR,"Kings Court, 71 - 76",Apartment 36,Wright Street,2009-07-29,150000,F,Y,L,1
+HU2 8JS,77 - 81,Apartment 1,Wright Street,2019-01-18,90000,F,N,L,2
+HU2 8JS,77 - 81,Apartment 10,Wright Street,2006-12-07,129995,F,Y,L,1
+HU2 8JS,77 - 81,Apartment 11,Wright Street,2013-02-14,87500,F,N,L,2
+HU2 8JS,77 - 81,Apartment 14,Wright Street,2006-06-30,149995,F,Y,L,1
+HU2 8JS,77 - 81,Apartment 15,Wright Street,2006-06-16,129995,F,Y,L,1
+HU2 8JS,77 - 81,Apartment 16,Wright Street,2006-06-12,112495,F,Y,L,1
+HU2 8JS,77 - 81,Apartment 17,Wright Street,2006-06-13,112495,F,Y,L,1
+HU2 8JS,77 - 81,Apartment 18,Wright Street,2006-10-27,139995,F,Y,L,1
+HU2 8JS,77 - 81,Apartment 19,Wright Street,2006-06-28,121495,F,Y,L,1
+HU2 8JS,77 - 81,Apartment 2,Wright Street,2006-10-11,139995,F,Y,L,1
+HU2 8JS,77 - 81,Apartment 20,Wright Street,2006-06-30,144995,F,Y,L,1
+HU2 8JS,77 - 81,Apartment 21,Wright Street,2006-06-30,149995,F,Y,L,1
+HU2 8JS,77 - 81,Apartment 22,Wright Street,2006-06-15,144995,F,Y,L,1
+HU2 8JS,77 - 81,Apartment 23,Wright Street,2006-06-30,154995,F,Y,L,1
+HU2 8JS,77 - 81,Apartment 24,Wright Street,2006-06-16,114295,F,Y,L,1
+HU2 8JS,77 - 81,Apartment 25,Wright Street,2006-06-16,114295,F,Y,L,1
+HU2 8JS,77 - 81,Apartment 28,Wright Street,2006-06-30,149995,F,Y,L,1
+HU2 8JS,77 - 81,Apartment 29,Wright Street,2006-06-30,146995,F,Y,L,1
+HU2 8JS,77 - 81,Apartment 3,Wright Street,2006-06-23,139995,F,Y,L,1
+HU2 8JS,77 - 81,Apartment 30,Wright Street,2006-06-19,154995,F,Y,L,1
+HU2 8JS,77 - 81,Apartment 31,Wright Street,2006-06-12,154995,F,Y,L,1
+HU2 8JS,77 - 81,Apartment 4,Wright Street,2006-06-30,145995,F,Y,L,1
+HU2 8JS,77 - 81,Apartment 5,Wright Street,2006-09-22,138000,F,N,L,2
+HU2 8JS,77 - 81,Apartment 6,Wright Street,2006-06-23,121495,F,Y,L,1
+HU2 8JS,77 - 81,Apartment 8,Wright Street,2006-12-06,149995,F,Y,L,1
+HU2 0QD,86,,York Street,2007-01-15,79950,T,N,F,1

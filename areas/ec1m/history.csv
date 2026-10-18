@@ -1,0 +1,784 @@
+postcode,paon,saon,street,date,price,type,new,tenure,sales
+EC1M 5QL,"Albion House, 6 - 7",Apartment 101,Benjamin Street,1999-07-15,278000,F,Y,L,1
+EC1M 5QL,"Albion House, 6 - 7",Apartment 102,Benjamin Street,1999-08-23,252500,F,Y,L,1
+EC1M 5QL,"Albion House, 6 - 7",Apartment 201,Benjamin Street,2019-09-30,1000000,F,N,L,2
+EC1M 5QL,"Albion House, 6 - 7",Apartment 202,Benjamin Street,1999-11-30,295000,F,Y,L,1
+EC1M 5QL,"Albion House, 6 - 7",Apartment 301,Benjamin Street,1999-09-17,293000,F,Y,L,1
+EC1M 5QL,"Albion House, 6 - 7",Apartment 302,Benjamin Street,2003-01-10,380000,F,N,L,3
+EC1M 5QL,"Albion House, 6 - 7",Apartment 401,Benjamin Street,2014-01-23,1000000,F,N,L,2
+EC1M 5QL,"Albion House, 6 - 7",Apartment 402,Benjamin Street,2008-02-15,470000,F,N,L,2
+EC1M 5QL,"Albion House, 6 - 7",Apartment 501,Benjamin Street,2008-09-12,875000,F,N,L,2
+EC1M 5QL,"Albion House, 6 - 7",Apartment G01,Benjamin Street,2016-05-05,1200000,F,N,L,2
+EC1M 5NR,1,Flat 1,Briset Street,2005-09-09,265000,F,N,L,2
+EC1M 5NR,1,Flat 2,Briset Street,2018-11-02,744000,F,N,L,2
+EC1M 5NR,1,Flat 3,Briset Street,1997-10-01,95000,F,N,L,1
+EC1M 5NR,1,Flat 4,Briset Street,2000-03-21,610000,F,N,L,2
+EC1M 5NR,19,,Briset Street,2000-02-10,158000,T,N,F,1
+EC1M 5NA,44,,Britton Street,2014-12-02,3170000,T,N,F,1
+EC1M 5NW,"Millennium Heights, 1",Flat 1,Britton Street,2017-01-03,1800000,F,N,L,2
+EC1M 5NW,"Millennium Heights, 1",Flat 10,Britton Street,2014-08-19,600000,F,N,L,2
+EC1M 5NW,"Millennium Heights, 1",Flat 11,Britton Street,2013-05-24,499990,F,N,L,3
+EC1M 5NW,"Millennium Heights, 1",Flat 12,Britton Street,2011-09-30,392500,F,N,L,2
+EC1M 5NW,"Millennium Heights, 1",Flat 14,Britton Street,2004-08-19,257000,F,N,L,2
+EC1M 5NW,"Millennium Heights, 1",Flat 15,Britton Street,1998-05-22,305000,F,N,L,1
+EC1M 5NW,"Millennium Heights, 1",Flat 16,Britton Street,2007-05-10,675000,F,N,L,2
+EC1M 5NW,"Millennium Heights, 1",Flat 17,Britton Street,2005-08-19,430000,F,N,L,3
+EC1M 5NW,"Millennium Heights, 1",Flat 18,Britton Street,2014-08-04,899500,F,N,L,3
+EC1M 5NW,"Millennium Heights, 1",Flat 19,Britton Street,2012-11-23,850000,F,N,L,2
+EC1M 5NW,"Millennium Heights, 1",Flat 2,Britton Street,2015-12-04,1900000,F,N,L,6
+EC1M 5NW,"Millennium Heights, 1",Flat 20,Britton Street,2008-07-09,635000,F,N,L,3
+EC1M 5NW,"Millennium Heights, 1",Flat 21,Britton Street,2013-09-30,1200000,F,N,L,1
+EC1M 5NW,"Millennium Heights, 1",Flat 22,Britton Street,2000-12-14,330000,F,N,L,2
+EC1M 5NW,"Millennium Heights, 1",Flat 24,Britton Street,1998-05-19,270000,F,Y,L,1
+EC1M 5NW,"Millennium Heights, 1",Flat 25,Britton Street,2013-08-27,950000,F,N,L,2
+EC1M 5NW,"Millennium Heights, 1",Flat 26,Britton Street,2002-05-02,440000,F,N,L,2
+EC1M 5NW,"Millennium Heights, 1",Flat 27,Britton Street,2016-11-07,1145000,F,N,L,2
+EC1M 5NW,"Millennium Heights, 1",Flat 28,Britton Street,2007-10-12,650000,F,N,L,2
+EC1M 5NW,"Millennium Heights, 1",Flat 29,Britton Street,2012-08-03,775000,F,N,L,3
+EC1M 5NW,"Millennium Heights, 1",Flat 3,Britton Street,1998-12-09,410000,F,Y,L,1
+EC1M 5NW,"Millennium Heights, 1",Flat 30,Britton Street,2017-02-28,975000,F,N,L,2
+EC1M 5NW,"Millennium Heights, 1",Flat 31,Britton Street,2012-04-02,860000,F,N,L,4
+EC1M 5NW,"Millennium Heights, 1",Flat 32,Britton Street,2006-12-22,550000,F,N,L,1
+EC1M 5NW,"Millennium Heights, 1",Flat 33,Britton Street,2008-09-26,920000,F,N,L,3
+EC1M 5NW,"Millennium Heights, 1",Flat 34,Britton Street,2007-06-01,780000,F,N,L,1
+EC1M 5NW,"Millennium Heights, 1",Flat 36,Britton Street,2012-05-15,1025000,F,N,L,3
+EC1M 5NW,"Millennium Heights, 1",Flat 38,Britton Street,2014-05-28,4100000,F,N,L,1
+EC1M 5NW,"Millennium Heights, 1",Flat 4,Britton Street,2008-03-11,365000,F,N,L,5
+EC1M 5NW,"Millennium Heights, 1",Flat 5,Britton Street,2004-10-29,310000,F,N,L,2
+EC1M 5NW,"Millennium Heights, 1",Flat 6,Britton Street,2010-11-29,435000,F,N,L,2
+EC1M 5NW,"Millennium Heights, 1",Flat 7,Britton Street,2004-09-17,250000,F,N,L,2
+EC1M 5NW,"Millennium Heights, 1",Flat 8,Britton Street,2000-02-22,202000,F,N,L,2
+EC1M 5NW,"Millennium Heights, 1",Flat 9,Britton Street,2006-07-05,317000,F,N,L,3
+EC1M 5NY,"Mountford House, 25",Flat 1,Britton Street,1996-06-19,78500,F,N,L,1
+EC1M 5NY,"Mountford House, 25",Flat 12,Britton Street,2004-05-28,348000,F,N,L,1
+EC1M 5NY,"Mountford House, 25",Flat 12A,Britton Street,2013-08-16,625000,F,N,L,2
+EC1M 5NY,"Mountford House, 25",Flat 14,Britton Street,2006-01-16,342000,F,N,L,2
+EC1M 5NY,"Mountford House, 25",Flat 15,Britton Street,2002-02-11,274000,F,N,L,2
+EC1M 5NY,"Mountford House, 25",Flat 16,Britton Street,1996-04-30,128000,F,N,L,1
+EC1M 5NY,"Mountford House, 25",Flat 17,Britton Street,2018-04-30,550000,F,N,L,1
+EC1M 5NY,"Mountford House, 25",Flat 19,Britton Street,2004-07-15,725000,F,N,L,2
+EC1M 5NY,"Mountford House, 25",Flat 2,Britton Street,2009-01-23,290000,F,N,L,3
+EC1M 5NY,"Mountford House, 25",Flat 20,Britton Street,2018-06-29,1080000,F,N,L,4
+EC1M 5NY,"Mountford House, 25",Flat 3,Britton Street,1998-03-30,99200,F,N,L,2
+EC1M 5NY,"Mountford House, 25",Flat 4,Britton Street,2012-07-16,392000,F,N,L,3
+EC1M 5NY,"Mountford House, 25",Flat 5,Britton Street,2013-05-08,435000,F,N,L,2
+EC1M 5NY,"Mountford House, 25",Flat 6,Britton Street,2015-11-25,500000,F,N,L,2
+EC1M 5NY,"Mountford House, 25",Flat 7,Britton Street,2005-12-06,330000,F,N,L,1
+EC1M 5NY,"Mountford House, 25",Flat 9,Britton Street,2019-07-19,665000,F,N,L,1
+EC1M 5NZ,17 - 18,,Britton Street,1998-12-30,2200,T,N,F,1
+EC1M 5SX,Dickens Court 13-16,Flat 11,Britton Street,2011-03-29,460000,F,N,L,4
+EC1M 5SX,"Dickens Court, 13 - 16",Flat 1,Britton Street,2016-07-01,750000,F,N,L,4
+EC1M 5SX,"Dickens Court, 13 - 16",Flat 10,Britton Street,2017-06-05,1025000,F,N,L,5
+EC1M 5SX,"Dickens Court, 13 - 16",Flat 12,Britton Street,1999-06-30,190000,F,Y,L,1
+EC1M 5SX,"Dickens Court, 13 - 16",Flat 13,Britton Street,1999-06-30,327500,F,Y,L,1
+EC1M 5SX,"Dickens Court, 13 - 16",Flat 14,Britton Street,2015-08-26,1100000,F,N,L,3
+EC1M 5SX,"Dickens Court, 13 - 16",Flat 15,Britton Street,2002-07-30,480000,F,N,L,3
+EC1M 5SX,"Dickens Court, 13 - 16",Flat 16,Britton Street,2004-12-15,650000,F,N,L,3
+EC1M 5SX,"Dickens Court, 13 - 16",Flat 17,Britton Street,1999-08-26,355000,F,N,L,1
+EC1M 5SX,"Dickens Court, 13 - 16",Flat 18,Britton Street,2003-01-31,652500,F,N,L,2
+EC1M 5SX,"Dickens Court, 13 - 16",Flat 2,Britton Street,1999-06-30,185000,F,Y,L,1
+EC1M 5SX,"Dickens Court, 13 - 16",Flat 3,Britton Street,2005-04-08,580000,F,N,L,3
+EC1M 5SX,"Dickens Court, 13 - 16",Flat 4,Britton Street,2006-03-16,438450,F,N,L,3
+EC1M 5SX,"Dickens Court, 13 - 16",Flat 5,Britton Street,2013-12-05,1075000,F,N,L,4
+EC1M 5SX,"Dickens Court, 13 - 16",Flat 6,Britton Street,2006-11-15,340000,F,N,L,2
+EC1M 5SX,"Dickens Court, 13 - 16",Flat 7,Britton Street,1999-06-30,185000,F,N,L,1
+EC1M 5SX,"Dickens Court, 13 - 16",Flat 8,Britton Street,2005-06-14,495000,F,N,L,3
+EC1M 5SX,"Dickens Court, 13 - 16",Flat 9,Britton Street,2018-01-08,915000,F,N,L,6
+EC1M 5SX,"Dickens Court, 13 - 16",Unit A,Britton Street,1999-12-24,346000,F,Y,L,1
+EC1M 5UA,20,First Floor Offices,Britton Street,2000-12-22,235000,F,N,L,1
+EC1M 5UA,20,Fourth Floor Offices,Britton Street,2016-04-01,149000,F,N,L,1
+EC1M 5UA,20,Third Floor Offices,Britton Street,2006-06-23,315000,S,N,L,1
+EC1M 5UG,"City Pavilion, 33",Flat 101,Britton Street,2011-07-05,570000,F,N,L,3
+EC1M 5UG,"City Pavilion, 33",Flat 102,Britton Street,2002-06-11,443060,F,N,L,2
+EC1M 5UG,"City Pavilion, 33",Flat 103,Britton Street,2013-07-01,750000,F,N,L,4
+EC1M 5UG,"City Pavilion, 33",Flat 104,Britton Street,2002-04-08,616169,F,N,L,2
+EC1M 5UG,"City Pavilion, 33",Flat 105,Britton Street,2019-07-25,1000000,F,N,L,4
+EC1M 5UG,"City Pavilion, 33",Flat 106,Britton Street,2020-02-18,920000,F,N,L,3
+EC1M 5UG,"City Pavilion, 33",Flat 107,Britton Street,2012-01-20,676090,F,N,L,2
+EC1M 5UG,"City Pavilion, 33",Flat 108,Britton Street,2002-11-01,408862,F,N,L,2
+EC1M 5UG,"City Pavilion, 33",Flat 109,Britton Street,2004-06-24,460000,F,N,L,2
+EC1M 5UG,"City Pavilion, 33",Flat 110,Britton Street,2002-08-27,474455,F,N,L,2
+EC1M 5UG,"City Pavilion, 33",Flat 111,Britton Street,2018-08-31,1048500,F,N,L,4
+EC1M 5UG,"City Pavilion, 33",Flat 112,Britton Street,2002-07-11,430000,F,N,L,2
+EC1M 5UG,"City Pavilion, 33",Flat 113,Britton Street,2010-09-29,590000,F,N,L,3
+EC1M 5UG,"City Pavilion, 33",Flat 114,Britton Street,2013-08-01,718000,F,N,L,3
+EC1M 5UG,"City Pavilion, 33",Flat 115,Britton Street,2007-04-05,535000,F,N,L,3
+EC1M 5UG,"City Pavilion, 33",Flat 116,Britton Street,2014-09-29,865000,F,N,L,2
+EC1M 5UG,"City Pavilion, 33",Flat 117,Britton Street,2009-08-28,400000,F,N,L,3
+EC1M 5UG,"City Pavilion, 33",Flat 118,Britton Street,2002-07-18,495256,F,Y,L,2
+EC1M 5UG,"City Pavilion, 33",Flat 119,Britton Street,2002-07-29,408942,F,N,L,2
+EC1M 5UG,"City Pavilion, 33",Flat 120,Britton Street,1999-12-20,296218,F,Y,L,1
+EC1M 5UG,"City Pavilion, 33",Flat 121,Britton Street,2002-08-14,422820,F,N,L,2
+EC1M 5UG,"City Pavilion, 33",Flat 301,Britton Street,2013-09-30,760000,F,N,L,2
+EC1M 5UG,"City Pavilion, 33",Flat 302,Britton Street,2008-06-09,580000,F,N,L,2
+EC1M 5UG,"City Pavilion, 33",Flat 303,Britton Street,2004-07-02,450000,F,N,L,2
+EC1M 5UG,"City Pavilion, 33",Flat 304,Britton Street,2004-06-15,287000,F,N,L,2
+EC1M 5UG,"City Pavilion, 33",Flat 305,Britton Street,2002-01-17,267500,F,N,L,2
+EC1M 5UG,"City Pavilion, 33",Flat 306,Britton Street,2014-12-05,820000,F,N,L,2
+EC1M 5UG,"City Pavilion, 33",Flat 307,Britton Street,1999-12-20,250939,F,Y,L,1
+EC1M 5UG,"City Pavilion, 33",Flat 308,Britton Street,2004-08-19,380000,F,N,L,2
+EC1M 5UG,"City Pavilion, 33",Flat 309,Britton Street,2002-10-18,380144,F,N,L,2
+EC1M 5UG,"City Pavilion, 33",Flat 310,Britton Street,2002-11-15,400625,F,N,L,2
+EC1M 5UG,"City Pavilion, 33",Flat 311,Britton Street,2013-09-06,645000,F,N,L,2
+EC1M 5UG,"City Pavilion, 33",Flat 312,Britton Street,2015-10-09,870000,F,N,L,3
+EC1M 5UG,"City Pavilion, 33",Flat 313,Britton Street,2014-10-01,850000,F,N,L,4
+EC1M 5UG,"City Pavilion, 33",Flat 314,Britton Street,2007-04-20,315000,F,N,L,3
+EC1M 5UG,"City Pavilion, 33",Flat 315,Britton Street,2006-09-08,440000,F,N,L,2
+EC1M 5UG,"City Pavilion, 33",Flat 316,Britton Street,2017-09-08,850000,F,N,L,3
+EC1M 5UG,"City Pavilion, 33",Flat 401,Britton Street,2009-12-04,520000,F,N,L,2
+EC1M 5UG,"City Pavilion, 33",Flat 402,Britton Street,2004-11-24,385000,F,N,L,2
+EC1M 5UG,"City Pavilion, 33",Flat 403,Britton Street,2006-02-27,511840,F,N,L,3
+EC1M 5UG,"City Pavilion, 33",Flat 404,Britton Street,2002-02-19,268990,F,N,L,2
+EC1M 5UG,"City Pavilion, 33",Flat 405,Britton Street,2002-02-12,283750,F,N,L,2
+EC1M 5UG,"City Pavilion, 33",Flat 406,Britton Street,2016-11-11,910000,F,N,L,3
+EC1M 5UG,"City Pavilion, 33",Flat 407,Britton Street,2002-02-28,407715,F,N,L,2
+EC1M 5UG,"City Pavilion, 33",Flat 408,Britton Street,2002-07-07,390144,F,N,L,2
+EC1M 5UG,"City Pavilion, 33",Flat 409,Britton Street,2008-05-21,610000,F,N,L,3
+EC1M 5UG,"City Pavilion, 33",Flat 410,Britton Street,2005-04-20,450000,F,N,L,3
+EC1M 5UG,"City Pavilion, 33",Flat 411,Britton Street,2014-05-01,692500,F,N,L,2
+EC1M 5UG,"City Pavilion, 33",Flat 412,Britton Street,2006-09-04,431000,F,N,L,2
+EC1M 5UG,"City Pavilion, 33",Flat 413,Britton Street,2009-09-11,455000,F,N,L,3
+EC1M 5UG,"City Pavilion, 33",Flat 414,Britton Street,1999-12-20,209985,F,Y,L,1
+EC1M 5UG,"City Pavilion, 33",Flat 415,Britton Street,2002-07-22,385437,F,N,L,2
+EC1M 5UG,"City Pavilion, 33",Flat 416,Britton Street,2012-04-03,645000,F,N,L,3
+EC1M 5UG,"City Pavilion, 33",Flat 501,Britton Street,2010-03-11,530000,F,N,L,2
+EC1M 5UG,"City Pavilion, 33",Flat 502,Britton Street,2007-10-29,575000,F,N,L,2
+EC1M 5UG,"City Pavilion, 33",Flat 503,Britton Street,2013-06-07,795000,F,N,L,3
+EC1M 5UG,"City Pavilion, 33",Flat 504,Britton Street,2004-07-08,292500,F,N,L,3
+EC1M 5UG,"City Pavilion, 33",Flat 505,Britton Street,2002-01-09,274070,F,N,L,2
+EC1M 5UG,"City Pavilion, 33",Flat 506,Britton Street,2002-06-11,400945,F,N,L,2
+EC1M 5UG,"City Pavilion, 33",Flat 507,Britton Street,2008-10-31,495000,F,N,L,4
+EC1M 5UG,"City Pavilion, 33",Flat 508,Britton Street,2020-07-17,860000,F,N,L,3
+EC1M 5UG,"City Pavilion, 33",Flat 509,Britton Street,2004-08-26,390000,F,N,L,2
+EC1M 5UG,"City Pavilion, 33",Flat 510,Britton Street,2018-02-14,950000,F,N,L,3
+EC1M 5UG,"City Pavilion, 33",Flat 511,Britton Street,1999-12-20,244312,F,Y,L,1
+EC1M 5UG,"City Pavilion, 33",Flat 512,Britton Street,2013-03-15,626000,F,N,L,3
+EC1M 5UG,"City Pavilion, 33",Flat 513,Britton Street,2009-08-20,400000,F,N,L,2
+EC1M 5UG,"City Pavilion, 33",Flat 514,Britton Street,2010-05-12,450000,F,N,L,3
+EC1M 5UG,"City Pavilion, 33",Flat 515,Britton Street,2016-02-12,880000,F,N,L,2
+EC1M 5UG,"City Pavilion, 33",Flat 516,Britton Street,2015-05-28,855000,F,N,L,3
+EC1M 5UG,"City Pavilion, 33",Flat 601,Britton Street,2002-06-14,754134,F,N,L,2
+EC1M 5UG,"City Pavilion, 33",Flat 602,Britton Street,2006-03-24,670000,F,N,L,3
+EC1M 5UG,"City Pavilion, 33",Flat 603,Britton Street,2004-06-15,420000,F,N,L,3
+EC1M 5UG,"City Pavilion, 33",Flat 604,Britton Street,2005-11-10,875000,F,N,L,3
+EC1M 5UG,"City Pavilion, 33",Flat 605,Britton Street,2009-12-15,1125000,F,N,L,3
+EC1M 5UG,"City Pavilion, 33",Flat 606,Britton Street,2001-12-06,523782,F,N,L,2
+EC1M 5UG,"City Pavilion, 33",Flat 607,Britton Street,2002-03-06,523621,F,N,L,2
+EC1M 5UG,"City Pavilion, 33",Flat 608,Britton Street,1999-12-20,367512,F,Y,L,1
+EC1M 5UG,"City Pavilion, 33",Flat 609,Britton Street,2015-05-15,1200000,F,N,L,4
+EC1M 5UG,Flat 513,33      City Pavilion,Britton Street,2009-04-20,400000,F,N,L,1
+EC1M 5UH,29,,Britton Street,2001-04-19,550000,T,N,F,1
+EC1M 5UH,30,,Britton Street,2001-01-12,755000,T,N,F,1
+EC1M 5UH,32,,Britton Street,1997-10-10,685000,T,N,F,1
+EC1M 5UL,49,,Britton Street,2001-05-22,490000,F,N,F,1
+EC1M 5UQ,53,Flat 1,Britton Street,2008-06-18,460000,F,N,L,2
+EC1M 5UQ,53,Flat 10,Britton Street,2000-07-25,305000,F,Y,L,1
+EC1M 5UQ,53,Flat 11,Britton Street,2002-06-05,285000,F,N,L,2
+EC1M 5UQ,53,Flat 12,Britton Street,2000-07-21,315000,F,Y,L,1
+EC1M 5UQ,53,Flat 13,Britton Street,2010-11-05,567500,F,N,L,2
+EC1M 5UQ,53,Flat 14,Britton Street,2000-03-31,172000,F,Y,L,1
+EC1M 5UQ,53,Flat 15,Britton Street,2015-01-14,825000,F,N,L,2
+EC1M 5UQ,53,Flat 16,Britton Street,2005-06-24,340000,F,N,L,2
+EC1M 5UQ,53,Flat 17,Britton Street,2000-03-31,172000,F,Y,L,1
+EC1M 5UQ,53,Flat 18,Britton Street,2000-04-28,295000,F,Y,L,1
+EC1M 5UQ,53,Flat 19,Britton Street,2000-03-31,310000,F,Y,L,1
+EC1M 5UQ,53,Flat 2,Britton Street,2000-03-29,230000,F,Y,L,1
+EC1M 5UQ,53,Flat 20,Britton Street,2017-01-06,605000,F,N,L,2
+EC1M 5UQ,53,Flat 21,Britton Street,2018-03-20,860000,F,N,L,3
+EC1M 5UQ,53,Flat 22,Britton Street,2000-03-31,350000,F,Y,L,1
+EC1M 5UQ,53,Flat 23,Britton Street,2010-09-16,599950,F,N,L,2
+EC1M 5UQ,53,Flat 24,Britton Street,2007-08-22,580000,F,N,L,2
+EC1M 5UQ,53,Flat 25,Britton Street,2009-05-22,456000,F,N,L,2
+EC1M 5UQ,53,Flat 26,Britton Street,2009-12-18,495000,F,N,L,2
+EC1M 5UQ,53,Flat 27,Britton Street,2000-03-31,227000,F,Y,L,1
+EC1M 5UQ,53,Flat 28,Britton Street,2010-08-06,599950,F,N,L,2
+EC1M 5UQ,53,Flat 29,Britton Street,2007-08-24,600000,F,N,L,3
+EC1M 5UQ,53,Flat 3,Britton Street,2000-04-03,290000,F,Y,L,1
+EC1M 5UQ,53,Flat 30,Britton Street,2008-01-31,489499,F,N,L,3
+EC1M 5UQ,53,Flat 31,Britton Street,2000-03-31,230000,F,Y,L,1
+EC1M 5UQ,53,Flat 4,Britton Street,2015-10-26,825000,F,N,L,2
+EC1M 5UQ,53,Flat 5,Britton Street,2011-07-15,471000,F,N,L,4
+EC1M 5UQ,53,Flat 6,Britton Street,2000-03-31,210000,F,Y,L,1
+EC1M 5UQ,53,Flat 7,Britton Street,2009-07-27,390000,F,N,L,3
+EC1M 5UQ,53,Flat 8,Britton Street,2002-07-10,265000,F,N,L,2
+EC1M 5UQ,53,Flat 9,Britton Street,2001-04-30,1000000,F,N,F,3
+EC1M 5UQ,54,,Britton Street,2006-11-28,1510000,T,N,F,1
+EC1M 5UQ,55,Flat 2,Britton Street,2001-11-23,763000,F,N,F,1
+EC1M 5UR,56,,Britton Street,2010-08-09,3100000,D,N,F,1
+EC1M 5US,57,,Britton Street,2016-03-24,2912000,T,N,F,3
+EC1M 5UT,58,,Britton Street,1998-04-22,210000,F,N,L,1
+EC1M 5UT,58,Flat 2,Britton Street,2000-11-22,210000,F,N,L,2
+EC1M 5UT,58,Flat 3,Britton Street,2019-10-31,320000,F,N,L,2
+EC1M 5UT,"Shield House, 58",Flat 1,Britton Street,2000-06-30,200899,F,N,L,2
+EC1M 6AD,15,Flat 1,Carthusian Street,2007-07-13,370000,F,N,L,1
+EC1M 6AD,15,Flat 10,Carthusian Street,2007-07-13,1200000,F,N,L,1
+EC1M 6AD,15,Flat 11,Carthusian Street,2007-07-13,590000,F,Y,L,1
+EC1M 6AD,15,Flat 13,Carthusian Street,2007-07-16,1020000,F,N,L,1
+EC1M 6AD,15,Flat 14,Carthusian Street,2007-07-13,895000,F,N,L,1
+EC1M 6AD,15,Flat 2,Carthusian Street,2007-07-12,570000,F,N,L,1
+EC1M 6AD,15,Flat 3,Carthusian Street,2007-07-13,465000,F,N,L,1
+EC1M 6AD,15,Flat 4,Carthusian Street,2013-05-31,399950,F,N,L,2
+EC1M 6AD,15,Flat 5,Carthusian Street,2013-06-21,625000,F,N,L,2
+EC1M 6AD,15,Flat 6,Carthusian Street,2014-05-23,730000,F,N,L,2
+EC1M 6AD,15,Flat 7,Carthusian Street,2014-08-06,883000,F,N,L,1
+EC1M 6AD,15,Flat 8,Carthusian Street,2007-07-13,585000,F,Y,L,1
+EC1M 6AD,15,Flat 9,Carthusian Street,2007-07-17,500000,F,Y,L,1
+EC1M 6EB,"Pilgrims Court, 2 - 5",Flat 1,Carthusian Street,2005-03-01,237500,F,N,L,4
+EC1M 6EB,"Pilgrims Court, 2 - 5",Flat 10,Carthusian Street,2011-07-28,510000,F,N,L,3
+EC1M 6EB,"Pilgrims Court, 2 - 5",Flat 2,Carthusian Street,2001-11-19,273000,F,N,L,3
+EC1M 6EB,"Pilgrims Court, 2 - 5",Flat 3,Carthusian Street,2007-11-27,490000,F,N,L,3
+EC1M 6EB,"Pilgrims Court, 2 - 5",Flat 4,Carthusian Street,2004-06-10,250000,F,N,L,3
+EC1M 6EB,"Pilgrims Court, 2 - 5",Flat 5,Carthusian Street,2019-11-22,660000,F,N,L,4
+EC1M 6EB,"Pilgrims Court, 2 - 5",Flat 6,Carthusian Street,2003-07-22,289500,F,N,L,3
+EC1M 6EB,"Pilgrims Court, 2 - 5",Flat 7,Carthusian Street,2004-11-30,250000,F,N,L,3
+EC1M 6EB,"Pilgrims Court, 2 - 5",Flat 8,Carthusian Street,1999-07-27,220000,F,N,L,2
+EC1M 6EB,"Pilgrims Court, 2 - 5",Flat 9,Carthusian Street,2003-04-17,290000,F,N,L,3
+EC1M 7AN,7,First Floor Flat,Charterhouse Buildings,2009-10-01,325000,F,N,L,5
+EC1M 7AN,7,Flat 4,Charterhouse Buildings,2007-07-25,500000,F,N,F,1
+EC1M 7AN,7,Fourth Floor Flat,Charterhouse Buildings,2013-03-15,464000,F,N,L,6
+EC1M 7AN,7,Second Floor Flat,Charterhouse Buildings,2013-04-05,445000,F,N,L,5
+EC1M 7AN,7,Third Floor Flat,Charterhouse Buildings,2003-12-12,267500,F,N,L,4
+EC1M 6BB,1,,Charterhouse Mews,2000-10-20,485000,T,N,F,1
+EC1M 6BB,3 - 4,,Charterhouse Mews,1999-08-31,525000,T,N,F,1
+EC1M 6BB,4,,Charterhouse Mews,1998-01-29,590000,S,N,F,1
+EC1M 6EA,43,Fourth Floor,Charterhouse Square,2020-11-06,1300000,F,N,L,2
+EC1M 6EE,1,Apartment 1,Charterhouse Square,2016-07-04,1750000,F,N,L,1
+EC1M 6EE,1,Apartment 3,Charterhouse Square,2015-12-17,975000,F,N,L,1
+EC1M 6EE,1,Apartment 4,Charterhouse Square,2017-01-27,2400000,F,N,L,1
+EC1M 6EE,1A,,Charterhouse Square,2018-09-14,1450000,F,N,L,1
+EC1M 6EE,4,,Charterhouse Square,2004-01-27,1550000,T,N,F,1
+EC1M 6EE,One,Apartment 2,Charterhouse Square,2015-12-14,2200000,F,N,L,1
+EC1M 6ET,"Florin Court, 6 - 9",6A,Charterhouse Square,2006-08-18,265000,F,N,L,1
+EC1M 6ET,"Florin Court, 6 - 9",Flat 1,Charterhouse Square,2000-12-21,180000,F,N,L,2
+EC1M 6ET,"Florin Court, 6 - 9",Flat 11,Charterhouse Square,2003-09-19,286000,F,N,L,2
+EC1M 6ET,"Florin Court, 6 - 9",Flat 12,Charterhouse Square,2015-03-10,872500,F,N,L,2
+EC1M 6ET,"Florin Court, 6 - 9",Flat 15,Charterhouse Square,1995-10-25,29000,F,N,L,1
+EC1M 6ET,"Florin Court, 6 - 9",Flat 16,Charterhouse Square,2003-03-14,156000,F,N,L,2
+EC1M 6ET,"Florin Court, 6 - 9",Flat 17,Charterhouse Square,2018-10-09,410000,F,N,L,4
+EC1M 6ET,"Florin Court, 6 - 9",Flat 18,Charterhouse Square,2010-01-05,250000,F,N,L,2
+EC1M 6ET,"Florin Court, 6 - 9",Flat 19,Charterhouse Square,2005-08-31,150000,F,N,L,1
+EC1M 6ET,"Florin Court, 6 - 9",Flat 2,Charterhouse Square,2012-11-30,300250,F,N,L,1
+EC1M 6ET,"Florin Court, 6 - 9",Flat 20,Charterhouse Square,2007-08-31,175000,F,N,L,1
+EC1M 6ET,"Florin Court, 6 - 9",Flat 22,Charterhouse Square,2011-09-16,232000,F,N,L,3
+EC1M 6ET,"Florin Court, 6 - 9",Flat 23,Charterhouse Square,2004-03-26,268000,F,N,L,1
+EC1M 6ET,"Florin Court, 6 - 9",Flat 24,Charterhouse Square,1995-10-25,52000,F,N,L,1
+EC1M 6ET,"Florin Court, 6 - 9",Flat 25,Charterhouse Square,2015-06-04,900000,F,N,L,2
+EC1M 6ET,"Florin Court, 6 - 9",Flat 26,Charterhouse Square,2018-05-02,665000,F,N,L,3
+EC1M 6ET,"Florin Court, 6 - 9",Flat 27,Charterhouse Square,2006-08-01,190000,F,N,L,3
+EC1M 6ET,"Florin Court, 6 - 9",Flat 28,Charterhouse Square,1999-12-02,95000,F,N,L,1
+EC1M 6ET,"Florin Court, 6 - 9",Flat 29,Charterhouse Square,2007-02-26,211000,F,N,L,1
+EC1M 6ET,"Florin Court, 6 - 9",Flat 3,Charterhouse Square,2004-05-28,290000,F,N,L,1
+EC1M 6ET,"Florin Court, 6 - 9",Flat 30,Charterhouse Square,2012-03-09,250000,F,N,L,3
+EC1M 6ET,"Florin Court, 6 - 9",Flat 31,Charterhouse Square,2016-12-07,312000,F,N,L,2
+EC1M 6ET,"Florin Court, 6 - 9",Flat 4,Charterhouse Square,2003-02-14,180000,F,N,L,1
+EC1M 6ET,"Florin Court, 6 - 9",Flat 6,Charterhouse Square,1995-10-25,29000,F,N,L,1
+EC1M 6ET,"Florin Court, 6 - 9",Flat 7,Charterhouse Square,1997-02-28,46175,F,N,L,1
+EC1M 6ET,"Florin Court, 6 - 9",Flat 8,Charterhouse Square,2014-01-31,297000,F,N,L,4
+EC1M 6ET,"Florin Court, 6 - 9",Flat 9,Charterhouse Square,2019-07-01,360000,F,N,L,5
+EC1M 6EU,"Florin Court, 6 - 9",Flat 32,Charterhouse Square,2003-04-03,165000,F,N,L,2
+EC1M 6EU,"Florin Court, 6 - 9",Flat 33,Charterhouse Square,1996-11-08,68500,F,N,L,1
+EC1M 6EU,"Florin Court, 6 - 9",Flat 34,Charterhouse Square,1995-10-25,35500,F,N,L,1
+EC1M 6EU,"Florin Court, 6 - 9",Flat 35,Charterhouse Square,1998-02-16,77000,F,N,L,1
+EC1M 6EU,"Florin Court, 6 - 9",Flat 36,Charterhouse Square,2019-05-31,540000,F,N,L,3
+EC1M 6EU,"Florin Court, 6 - 9",Flat 37,Charterhouse Square,2001-05-11,220000,F,N,L,1
+EC1M 6EU,"Florin Court, 6 - 9",Flat 38,Charterhouse Square,2003-11-14,330000,F,N,L,2
+EC1M 6EU,"Florin Court, 6 - 9",Flat 40,Charterhouse Square,2019-11-04,367500,F,N,L,2
+EC1M 6EU,"Florin Court, 6 - 9",Flat 41,Charterhouse Square,1999-05-24,78000,F,N,L,2
+EC1M 6EU,"Florin Court, 6 - 9",Flat 42,Charterhouse Square,2016-04-15,360000,F,N,L,2
+EC1M 6EU,"Florin Court, 6 - 9",Flat 43,Charterhouse Square,2000-03-24,125000,F,N,L,1
+EC1M 6EU,"Florin Court, 6 - 9",Flat 44,Charterhouse Square,1996-05-31,59995,F,N,L,1
+EC1M 6EU,"Florin Court, 6 - 9",Flat 45,Charterhouse Square,2014-01-24,235000,F,N,L,2
+EC1M 6EU,"Florin Court, 6 - 9",Flat 46,Charterhouse Square,2014-03-21,380000,F,N,L,3
+EC1M 6EU,"Florin Court, 6 - 9",Flat 47,Charterhouse Square,1995-10-25,35500,F,N,L,1
+EC1M 6EU,"Florin Court, 6 - 9",Flat 48,Charterhouse Square,2001-11-23,125000,F,N,L,2
+EC1M 6EU,"Florin Court, 6 - 9",Flat 49,Charterhouse Square,2000-03-03,195000,F,N,L,1
+EC1M 6EU,"Florin Court, 6 - 9",Flat 50,Charterhouse Square,2012-05-31,480000,F,N,L,3
+EC1M 6EU,"Florin Court, 6 - 9",Flat 51,Charterhouse Square,1995-10-25,74000,F,N,L,1
+EC1M 6EU,"Florin Court, 6 - 9",Flat 52,Charterhouse Square,2018-12-03,674995,F,N,L,3
+EC1M 6EU,"Florin Court, 6 - 9",Flat 53,Charterhouse Square,2007-05-04,230000,F,N,L,3
+EC1M 6EU,"Florin Court, 6 - 9",Flat 55,Charterhouse Square,2005-04-01,156000,F,N,L,2
+EC1M 6EU,"Florin Court, 6 - 9",Flat 56,Charterhouse Square,2015-10-05,385000,F,N,L,3
+EC1M 6EU,"Florin Court, 6 - 9",Flat 57,Charterhouse Square,2005-12-21,182000,F,N,L,1
+EC1M 6EU,"Florin Court, 6 - 9",Flat 59,Charterhouse Square,2011-10-28,270000,F,N,L,4
+EC1M 6EU,"Florin Court, 6 - 9",Flat 60,Charterhouse Square,2007-05-25,285000,F,N,L,1
+EC1M 6EU,"Florin Court, 6 - 9",Flat 61,Charterhouse Square,1999-07-30,87500,F,N,L,1
+EC1M 6EX,"Florin Court, 6 - 9",Flat 62,Charterhouse Square,1999-04-12,132500,F,N,L,1
+EC1M 6EX,"Florin Court, 6 - 9",Flat 63,Charterhouse Square,2011-03-31,390000,F,N,L,2
+EC1M 6EX,"Florin Court, 6 - 9",Flat 66,Charterhouse Square,2010-10-01,238000,F,N,L,3
+EC1M 6EX,"Florin Court, 6 - 9",Flat 67,Charterhouse Square,2012-11-16,275000,F,N,L,5
+EC1M 6EX,"Florin Court, 6 - 9",Flat 68,Charterhouse Square,1998-10-02,74000,F,N,L,1
+EC1M 6EX,"Florin Court, 6 - 9",Flat 69,Charterhouse Square,2013-03-07,249000,F,N,L,1
+EC1M 6EX,"Florin Court, 6 - 9",Flat 71,Charterhouse Square,2011-12-16,243000,F,N,L,1
+EC1M 6EX,"Florin Court, 6 - 9",Flat 72,Charterhouse Square,2007-07-20,249950,F,N,L,2
+EC1M 6EX,"Florin Court, 6 - 9",Flat 73,Charterhouse Square,2004-04-30,196000,F,N,L,2
+EC1M 6EX,"Florin Court, 6 - 9",Flat 75,Charterhouse Square,2010-08-25,430000,F,N,L,2
+EC1M 6EX,"Florin Court, 6 - 9",Flat 76,Charterhouse Square,2013-12-18,490000,F,N,L,4
+EC1M 6EX,"Florin Court, 6 - 9",Flat 77,Charterhouse Square,2002-07-16,335000,F,N,L,2
+EC1M 6EX,"Florin Court, 6 - 9",Flat 79,Charterhouse Square,2007-11-20,283000,F,N,L,2
+EC1M 6EX,"Florin Court, 6 - 9",Flat 80,Charterhouse Square,1995-10-25,29000,F,N,L,1
+EC1M 6EX,"Florin Court, 6 - 9",Flat 81,Charterhouse Square,2007-01-15,198500,F,N,L,2
+EC1M 6EX,"Florin Court, 6 - 9",Flat 82,Charterhouse Square,2004-05-10,96000,F,N,L,1
+EC1M 6EX,"Florin Court, 6 - 9",Flat 83,Charterhouse Square,2011-08-08,248500,F,N,L,2
+EC1M 6EX,"Florin Court, 6 - 9",Flat 84,Charterhouse Square,2013-12-10,332000,F,N,L,4
+EC1M 6EX,"Florin Court, 6 - 9",Flat 85,Charterhouse Square,1995-10-25,35750,F,N,L,1
+EC1M 6EX,"Florin Court, 6 - 9",Flat 86,Charterhouse Square,1995-10-25,35750,F,N,L,1
+EC1M 6EX,"Florin Court, 6 - 9",Flat 89,Charterhouse Square,2015-06-10,640000,F,N,L,1
+EC1M 6EX,"Florin Court, 6 - 9",Flat 90,Charterhouse Square,2014-05-12,795000,F,N,L,1
+EC1M 6EX,"Florin Court, 6 - 9",Flat 92,Charterhouse Square,1999-11-05,99500,F,N,L,1
+EC1M 6EX,"Florin Court, 6 - 9",Flat 94,Charterhouse Square,2003-09-30,155000,F,N,L,3
+EC1M 6EX,"Florin Court, 6 - 9",Flat 95,Charterhouse Square,2006-01-19,180000,F,N,L,1
+EC1M 6EX,"Florin Court, 6 - 9",Flat 96,Charterhouse Square,2019-02-25,352000,F,N,L,2
+EC1M 6EY,"Florin Court, 6 - 9",Flat 100,Charterhouse Square,2002-05-10,140000,F,N,L,4
+EC1M 6EY,"Florin Court, 6 - 9",Flat 102,Charterhouse Square,2009-10-30,375000,F,N,L,4
+EC1M 6EY,"Florin Court, 6 - 9",Flat 103,Charterhouse Square,2001-07-26,320000,F,N,L,1
+EC1M 6EY,"Florin Court, 6 - 9",Flat 104,Charterhouse Square,2006-10-02,320000,F,N,L,1
+EC1M 6EY,"Florin Court, 6 - 9",Flat 105,Charterhouse Square,2011-04-21,243000,F,N,L,3
+EC1M 6EY,"Florin Court, 6 - 9",Flat 106,Charterhouse Square,2009-05-01,195000,F,N,L,3
+EC1M 6EY,"Florin Court, 6 - 9",Flat 107,Charterhouse Square,2008-06-17,193000,F,N,L,3
+EC1M 6EY,"Florin Court, 6 - 9",Flat 109,Charterhouse Square,2002-10-30,143500,F,N,L,2
+EC1M 6EY,"Florin Court, 6 - 9",Flat 110,Charterhouse Square,2005-08-04,160000,F,N,L,2
+EC1M 6EY,"Florin Court, 6 - 9",Flat 111,Charterhouse Square,1995-10-25,35750,F,N,L,1
+EC1M 6EY,"Florin Court, 6 - 9",Flat 112,Charterhouse Square,1995-10-25,35750,F,N,L,1
+EC1M 6EY,"Florin Court, 6 - 9",Flat 113,Charterhouse Square,2008-03-31,262500,F,N,L,3
+EC1M 6EY,"Florin Court, 6 - 9",Flat 114,Charterhouse Square,2012-06-28,720000,F,N,L,2
+EC1M 6EY,"Florin Court, 6 - 9",Flat 116,Charterhouse Square,1996-09-30,92000,F,N,L,1
+EC1M 6EY,"Florin Court, 6 - 9",Flat 117,Charterhouse Square,1999-10-08,92000,F,N,L,3
+EC1M 6EY,"Florin Court, 6 - 9",Flat 118,Charterhouse Square,2003-03-17,155000,F,N,L,2
+EC1M 6EY,"Florin Court, 6 - 9",Flat 119,Charterhouse Square,2005-06-29,157500,F,N,L,1
+EC1M 6EY,"Florin Court, 6 - 9",Flat 120,Charterhouse Square,2003-05-30,176000,F,N,L,1
+EC1M 6EY,"Florin Court, 6 - 9",Flat 121,Charterhouse Square,2014-05-02,345000,F,N,L,4
+EC1M 6EY,"Florin Court, 6 - 9",Flat 123,Charterhouse Square,1998-09-29,96000,F,N,L,1
+EC1M 6EY,"Florin Court, 6 - 9",Flat 124,Charterhouse Square,2006-10-02,210000,F,N,L,3
+EC1M 6EY,"Florin Court, 6 - 9",Flat 125,Charterhouse Square,2010-04-29,250000,F,N,L,2
+EC1M 6EY,"Florin Court, 6 - 9",Flat 97,Charterhouse Square,1995-10-25,29000,F,N,L,1
+EC1M 6EY,"Florin Court, 6 - 9",Flat 98,Charterhouse Square,2012-06-15,276500,F,N,L,5
+EC1M 6EY,"Florin Court, 6 - 9",Flat 99,Charterhouse Square,2015-09-16,390000,F,N,L,3
+EC1M 6AA,121 - 123,,Charterhouse Street,2000-02-07,180000,F,N,F,1
+EC1M 6AA,121 - 123,Flat 2,Charterhouse Street,2009-07-03,400000,F,N,L,1
+EC1M 6AA,121 - 123,Flat 3,Charterhouse Street,2003-09-08,230000,F,N,L,1
+EC1M 6AA,121 - 123,Flat 4,Charterhouse Street,2003-07-29,230000,F,N,L,1
+EC1M 6AA,121 - 123,Flat 5,Charterhouse Street,2011-01-21,397500,F,N,L,1
+EC1M 6HJ,77A,,Charterhouse Street,1999-06-01,1250000,D,N,F,1
+EC1M 6HJ,85,,Charterhouse Street,2006-12-21,140000,F,N,L,1
+EC1M 5PF,18,Flat 1,Clerkenwell Road,2019-11-15,700000,F,N,L,3
+EC1M 5PF,18,Flat 2,Clerkenwell Road,2000-12-01,460000,F,Y,L,1
+EC1M 5PF,18,Flat 3,Clerkenwell Road,2000-12-14,257500,F,Y,L,1
+EC1M 5PF,18,Flat 4,Clerkenwell Road,2013-12-18,1400000,F,N,L,2
+EC1M 5PN,9,Apartment 101,Clerkenwell Road,2008-03-20,315000,F,Y,L,1
+EC1M 5PN,9,Apartment 102,Clerkenwell Road,2008-04-15,370000,F,Y,L,1
+EC1M 5PN,9,Apartment 103,Clerkenwell Road,2008-03-26,415000,F,Y,L,1
+EC1M 5PN,9,Apartment 104,Clerkenwell Road,2013-06-11,738000,F,N,L,3
+EC1M 5PN,9,Apartment 201,Clerkenwell Road,2011-07-22,435000,F,N,L,3
+EC1M 5PN,9,Apartment 202,Clerkenwell Road,2011-12-08,575000,F,N,L,3
+EC1M 5PN,9,Apartment 203,Clerkenwell Road,2008-03-19,420000,F,Y,L,1
+EC1M 5PN,9,Apartment 204,Clerkenwell Road,2008-04-21,380000,F,Y,L,1
+EC1M 5PN,9,Apartment 301,Clerkenwell Road,2008-03-19,325000,F,Y,L,1
+EC1M 5PN,9,Apartment 302,Clerkenwell Road,2008-03-19,405000,F,Y,L,1
+EC1M 5PN,9,Apartment 303,Clerkenwell Road,2014-08-07,950000,F,N,L,2
+EC1M 5PN,9,Apartment 304,Clerkenwell Road,2008-03-19,385000,F,Y,L,1
+EC1M 5PN,9,Apartment 401,Clerkenwell Road,2008-03-19,330000,F,Y,L,1
+EC1M 5PN,9,Apartment 402,Clerkenwell Road,2010-09-10,525000,F,N,L,2
+EC1M 5PN,9,Apartment 403,Clerkenwell Road,2008-03-19,430000,F,Y,L,1
+EC1M 5PN,9,Apartment 404,Clerkenwell Road,2008-03-19,550000,F,Y,L,1
+EC1M 5PN,9,Apartment 501,Clerkenwell Road,2008-03-20,335000,F,Y,L,1
+EC1M 5PN,9,Apartment 502,Clerkenwell Road,2009-05-14,450000,F,Y,L,1
+EC1M 5PN,9,Apartment 503,Clerkenwell Road,2013-06-14,837005,F,N,L,2
+EC1M 5PN,9,Apartment 504,Clerkenwell Road,2012-05-16,620000,F,N,L,2
+EC1M 5PN,9,Apartment 601,Clerkenwell Road,2018-04-30,1850000,F,N,L,3
+EC1M 5PN,9,Apartment 602,Clerkenwell Road,2014-02-28,2225000,F,N,L,2
+EC1M 5PS,36 - 42,Basement And Ground Floor Premises,Clerkenwell Road,1998-09-09,110000,F,N,L,1
+EC1M 5PS,36 - 42,Flat 1,Clerkenwell Road,2000-08-23,320000,F,N,L,2
+EC1M 5PS,36 - 42,Flat 2,Clerkenwell Road,2001-10-31,415000,F,N,L,3
+EC1M 5PS,36 - 42,Flat 3,Clerkenwell Road,2010-12-20,880000,F,N,L,2
+EC1M 5PS,36 - 42,Flat 4,Clerkenwell Road,1998-07-03,265000,F,Y,L,1
+EC1M 5PS,36 - 42,Flat 5,Clerkenwell Road,2014-01-31,1425000,F,N,L,2
+EC1M 5PS,36 - 42,Flat 6,Clerkenwell Road,2011-10-13,865000,F,N,L,3
+EC1M 5PS,36 - 42,Flat 7,Clerkenwell Road,2002-07-05,1400000,F,N,L,2
+EC1M 5PS,44 - 48,Flat 1,Clerkenwell Road,2014-11-28,885000,F,N,L,4
+EC1M 5PS,44 - 48,Flat 2,Clerkenwell Road,2011-03-25,675000,F,N,L,3
+EC1M 5PS,44 - 48,Flat 3,Clerkenwell Road,2014-03-28,915000,F,N,L,4
+EC1M 5PS,44 - 48,Flat 4,Clerkenwell Road,2016-02-01,1450000,F,N,L,2
+EC1M 5PS,44 - 48,Flat 5,Clerkenwell Road,2002-07-02,422500,F,N,L,2
+EC1M 5PS,44 - 48,Flat 6,Clerkenwell Road,1999-07-02,14000,F,N,L,3
+EC1M 5PS,44 - 48,Flat 7,Clerkenwell Road,2002-07-02,760000,F,N,L,2
+EC1M 5PW,9A,Apartment 101,Clerkenwell Road,2017-09-22,665000,F,N,L,2
+EC1M 5PW,9A,Apartment 102,Clerkenwell Road,2008-07-02,600000,F,Y,L,1
+EC1M 5PW,9A,Apartment 103,Clerkenwell Road,2008-07-24,415000,F,Y,L,1
+EC1M 5PW,9A,Apartment 104,Clerkenwell Road,2008-05-16,525000,F,Y,L,1
+EC1M 5PW,9A,Apartment 105,Clerkenwell Road,2008-05-23,395000,F,Y,L,1
+EC1M 5PW,9A,Apartment 201,Clerkenwell Road,2008-05-16,410000,F,Y,L,1
+EC1M 5PW,9A,Apartment 202,Clerkenwell Road,2008-05-16,605000,F,Y,L,1
+EC1M 5PW,9A,Apartment 203,Clerkenwell Road,2017-06-16,750000,F,N,L,2
+EC1M 5PW,9A,Apartment 204,Clerkenwell Road,2008-05-16,530000,F,Y,L,1
+EC1M 5PW,9A,Apartment 205,Clerkenwell Road,2008-05-23,400000,F,Y,L,1
+EC1M 5PW,9A,Apartment 301,Clerkenwell Road,2008-05-23,415000,F,Y,L,1
+EC1M 5PW,9A,Apartment 302,Clerkenwell Road,2008-05-28,610000,F,Y,L,1
+EC1M 5PW,9A,Apartment 303,Clerkenwell Road,2012-11-23,640000,F,N,L,3
+EC1M 5PW,9A,Apartment 304,Clerkenwell Road,2009-11-30,475000,F,N,L,2
+EC1M 5PW,9A,Apartment 305,Clerkenwell Road,2013-06-03,475000,F,N,L,2
+EC1M 5PW,9A,Apartment 401,Clerkenwell Road,2008-12-05,500000,F,Y,L,1
+EC1M 5PW,9A,Apartment 402,Clerkenwell Road,2008-07-29,440000,F,Y,L,1
+EC1M 5PW,9A,Apartment 403,Clerkenwell Road,2012-10-18,480000,F,N,L,2
+EC1M 5PW,9A,Apartment 404,Clerkenwell Road,2008-08-14,675000,F,Y,L,1
+EC1M 5PW,9A,Apartment 501,Clerkenwell Road,2008-06-26,1050000,F,Y,L,1
+EC1M 5PW,9A,Apartment 502,Clerkenwell Road,2012-05-04,1110000,F,N,L,2
+EC1M 5PX,56A,,Clerkenwell Road,2007-07-19,330000,F,N,L,1
+EC1M 5PY,9B,Apartment 101,Clerkenwell Road,2008-12-12,375000,F,Y,L,1
+EC1M 5PY,9B,Apartment 102,Clerkenwell Road,2009-07-23,517000,F,Y,L,1
+EC1M 5PY,9B,Apartment 103,Clerkenwell Road,2010-06-04,537500,F,N,L,2
+EC1M 5PY,9B,Apartment 104,Clerkenwell Road,2009-06-11,450000,F,Y,L,1
+EC1M 5PY,9B,Apartment 105,Clerkenwell Road,2009-09-02,510000,F,N,L,2
+EC1M 5PY,9B,Apartment 201,Clerkenwell Road,2013-08-15,575000,F,N,L,2
+EC1M 5PY,9B,Apartment 202,Clerkenwell Road,2009-10-02,340000,F,N,L,2
+EC1M 5PY,9B,Apartment 203,Clerkenwell Road,2009-02-11,525000,F,Y,L,1
+EC1M 5PY,9B,Apartment 204,Clerkenwell Road,2016-10-11,950000,F,N,L,2
+EC1M 5PY,9B,Apartment 205,Clerkenwell Road,2009-08-28,515000,F,Y,L,1
+EC1M 5PY,9B,Apartment 206,Clerkenwell Road,2009-06-18,535000,F,Y,L,1
+EC1M 5PY,9B,Apartment 207,Clerkenwell Road,2009-09-04,335000,F,Y,L,1
+EC1M 5PY,9B,Apartment 301,Clerkenwell Road,2009-01-07,355000,F,Y,L,1
+EC1M 5PY,9B,Apartment 302,Clerkenwell Road,2015-03-27,610000,F,N,L,3
+EC1M 5PY,9B,Apartment 303,Clerkenwell Road,2009-05-29,530000,F,Y,L,1
+EC1M 5PY,9B,Apartment 304,Clerkenwell Road,2009-06-29,510000,F,Y,L,1
+EC1M 5PY,9B,Apartment 305,Clerkenwell Road,2009-06-10,540000,F,Y,L,1
+EC1M 5PY,9B,Apartment 306,Clerkenwell Road,2015-05-21,920000,F,N,L,3
+EC1M 5PY,9B,Apartment 307,Clerkenwell Road,2009-08-21,337000,F,Y,L,1
+EC1M 5PY,9B,Apartment 401,Clerkenwell Road,2009-04-15,340000,F,Y,L,1
+EC1M 5PY,9B,Apartment 402,Clerkenwell Road,2009-07-24,315000,F,Y,L,1
+EC1M 5PY,9B,Apartment 403,Clerkenwell Road,2018-12-05,875000,F,N,L,3
+EC1M 5PY,9B,Apartment 404,Clerkenwell Road,2009-04-23,515000,F,Y,L,1
+EC1M 5PY,9B,Apartment 405,Clerkenwell Road,2012-03-30,690000,F,N,L,2
+EC1M 5PY,9B,Apartment 406,Clerkenwell Road,2009-08-03,530000,F,Y,L,1
+EC1M 5PY,9B,Apartment 407,Clerkenwell Road,2014-08-01,605000,F,N,L,4
+EC1M 5PY,9B,Apartment 501,Clerkenwell Road,2019-04-15,620000,F,N,L,3
+EC1M 5PY,9B,Apartment 502,Clerkenwell Road,2009-06-11,600000,F,Y,L,1
+EC1M 5PY,9B,Apartment 503,Clerkenwell Road,2009-07-28,605000,F,Y,L,1
+EC1M 5PY,9B,Apartment 504,Clerkenwell Road,2009-07-24,535000,F,Y,L,1
+EC1M 5PY,9B,Apartment 505,Clerkenwell Road,2009-09-17,543000,F,Y,L,1
+EC1M 5PY,9B,Apartment 506,Clerkenwell Road,2012-07-16,450000,F,N,L,2
+EC1M 5PY,9B,Apartment 601,Clerkenwell Road,2010-05-10,396000,F,N,L,2
+EC1M 5PY,9B,Apartment 602,Clerkenwell Road,2009-09-10,600000,F,Y,L,1
+EC1M 5PY,9B,Apartment 603,Clerkenwell Road,2009-11-04,580000,F,Y,L,1
+EC1M 5PY,9B,Apartment 604,Clerkenwell Road,2011-06-26,600000,F,N,L,2
+EC1M 5PY,9B,Apartment 605,Clerkenwell Road,2009-07-28,550000,F,Y,L,1
+EC1M 5PY,9B,Apartment 606,Clerkenwell Road,2009-07-31,345000,F,N,L,2
+EC1M 5PY,9B,Apartment 701,Clerkenwell Road,2008-11-11,1050000,F,Y,L,1
+EC1M 5PZ,9C,Apartment 101,Clerkenwell Road,2008-03-26,310000,F,Y,L,1
+EC1M 5PZ,9C,Apartment 102,Clerkenwell Road,2008-03-19,415000,F,Y,L,1
+EC1M 5PZ,9C,Apartment 103,Clerkenwell Road,2008-03-19,585000,F,Y,L,1
+EC1M 5PZ,9C,Apartment 104,Clerkenwell Road,2017-06-06,830000,F,N,L,3
+EC1M 5PZ,9C,Apartment 105,Clerkenwell Road,2019-12-19,125000,F,N,L,2
+EC1M 5PZ,9C,Apartment 106,Clerkenwell Road,2008-03-20,420000,F,Y,L,1
+EC1M 5PZ,9C,Apartment 201,Clerkenwell Road,2008-03-19,435000,F,Y,L,1
+EC1M 5PZ,9C,Apartment 202,Clerkenwell Road,2014-09-01,600000,F,N,L,2
+EC1M 5PZ,9C,Apartment 203,Clerkenwell Road,2008-04-14,590000,F,Y,L,1
+EC1M 5PZ,9C,Apartment 204,Clerkenwell Road,2008-11-21,499000,F,Y,L,1
+EC1M 5PZ,9C,Apartment 205,Clerkenwell Road,2008-03-19,595000,F,Y,L,1
+EC1M 5PZ,9C,Apartment 206,Clerkenwell Road,2008-03-27,425000,F,Y,L,1
+EC1M 5PZ,9C,Apartment 301,Clerkenwell Road,2019-10-22,612000,F,N,L,2
+EC1M 5PZ,9C,Apartment 302,Clerkenwell Road,2008-03-19,300000,F,Y,L,1
+EC1M 5PZ,9C,Apartment 303,Clerkenwell Road,2008-04-04,595000,F,Y,L,1
+EC1M 5PZ,9C,Apartment 304,Clerkenwell Road,2008-03-26,575000,F,Y,L,1
+EC1M 5PZ,9C,Apartment 305,Clerkenwell Road,2014-12-12,965000,F,N,L,2
+EC1M 5PZ,9C,Apartment 306,Clerkenwell Road,2012-04-24,640000,F,N,L,2
+EC1M 5PZ,9C,Apartment 401,Clerkenwell Road,2020-02-20,550000,F,N,L,2
+EC1M 5PZ,9C,Apartment 402,Clerkenwell Road,2008-03-25,430000,F,Y,L,1
+EC1M 5PZ,9C,Apartment 403,Clerkenwell Road,2012-04-05,635000,F,N,L,2
+EC1M 5PZ,9C,Apartment 404,Clerkenwell Road,2008-03-19,580000,F,Y,L,1
+EC1M 5PZ,9C,Apartment 405,Clerkenwell Road,2008-11-07,610000,F,Y,L,1
+EC1M 5PZ,9C,Apartment 501,Clerkenwell Road,2017-06-01,610000,F,N,L,2
+EC1M 5PZ,9C,Apartment 502,Clerkenwell Road,2015-09-24,690000,F,N,L,3
+EC1M 5PZ,9C,Apartment 503,Clerkenwell Road,2008-03-20,610000,F,Y,L,1
+EC1M 5PZ,9C,Apartment 504,Clerkenwell Road,2015-05-08,870000,F,N,L,2
+EC1M 5PZ,9C,Apartment 505,Clerkenwell Road,2017-07-21,990000,F,N,L,2
+EC1M 5PZ,9C,Apartment 601,Clerkenwell Road,2010-01-22,1570000,F,N,L,2
+EC1M 5RN,27,,Clerkenwell Road,2003-12-22,1562500,T,N,F,1
+EC1M 5RS,45 - 47,Flat 1,Clerkenwell Road,2012-10-19,850000,F,N,L,4
+EC1M 5RS,45 - 47,Flat 10,Clerkenwell Road,2008-06-13,421150,F,N,L,2
+EC1M 5RS,45 - 47,Flat 11,Clerkenwell Road,2006-04-27,795000,F,N,L,3
+EC1M 5RS,45 - 47,Flat 12,Clerkenwell Road,2000-12-21,230000,F,N,L,1
+EC1M 5RS,45 - 47,Flat 3,Clerkenwell Road,2000-03-30,190000,F,N,L,2
+EC1M 5RS,45 - 47,Flat 4,Clerkenwell Road,2011-11-11,448000,F,N,L,4
+EC1M 5RS,45 - 47,Flat 5,Clerkenwell Road,2010-06-25,750000,F,N,L,3
+EC1M 5RS,45 - 47,Flat 6,Clerkenwell Road,2011-08-11,745000,F,N,L,4
+EC1M 5RS,45 - 47,Flat 7,Clerkenwell Road,2012-11-13,499999,F,N,L,4
+EC1M 5RS,45 - 47,Flat 8,Clerkenwell Road,2001-07-18,361500,F,N,L,2
+EC1M 5RS,45 - 47,Flat 9,Clerkenwell Road,2005-08-12,370000,F,N,L,2
+EC1M 5RS,45 - 47,Ground Floor Shop,Clerkenwell Road,1999-11-12,57064,F,N,L,1
+EC1M 5RS,"The Red House, 49 - 53",Flat 1,Clerkenwell Road,2019-12-06,945000,F,N,F,2
+EC1M 5RS,"The Red House, 49 - 53",Flat 10,Clerkenwell Road,2015-07-03,740000,F,N,L,3
+EC1M 5RS,"The Red House, 49 - 53",Flat 11,Clerkenwell Road,1996-01-12,145000,F,N,L,1
+EC1M 5RS,"The Red House, 49 - 53",Flat 12,Clerkenwell Road,2000-11-15,725000,F,N,L,2
+EC1M 5RS,"The Red House, 49 - 53",Flat 13,Clerkenwell Road,1996-09-20,85000,F,N,L,1
+EC1M 5RS,"The Red House, 49 - 53",Flat 14,Clerkenwell Road,2014-11-19,700000,F,N,L,4
+EC1M 5RS,"The Red House, 49 - 53",Flat 15,Clerkenwell Road,1996-10-28,150000,F,N,L,1
+EC1M 5RS,"The Red House, 49 - 53",Flat 16,Clerkenwell Road,2012-09-17,350000,F,N,L,3
+EC1M 5RS,"The Red House, 49 - 53",Flat 17,Clerkenwell Road,2011-12-09,430000,F,N,L,4
+EC1M 5RS,"The Red House, 49 - 53",Flat 18,Clerkenwell Road,2004-12-19,282500,F,N,L,2
+EC1M 5RS,"The Red House, 49 - 53",Flat 19,Clerkenwell Road,2003-01-10,310000,F,N,L,2
+EC1M 5RS,"The Red House, 49 - 53",Flat 2,Clerkenwell Road,1996-07-17,138000,F,N,L,1
+EC1M 5RS,"The Red House, 49 - 53",Flat 20,Clerkenwell Road,2014-05-22,230000,F,N,L,2
+EC1M 5RS,"The Red House, 49 - 53",Flat 21,Clerkenwell Road,2006-04-05,330000,F,N,L,3
+EC1M 5RS,"The Red House, 49 - 53",Flat 3,Clerkenwell Road,1997-03-19,180000,F,N,L,2
+EC1M 5RS,"The Red House, 49 - 53",Flat 4,Clerkenwell Road,2007-09-28,552000,F,N,L,3
+EC1M 5RS,"The Red House, 49 - 53",Flat 5,Clerkenwell Road,2006-09-08,480000,F,N,L,4
+EC1M 5RS,"The Red House, 49 - 53",Flat 6,Clerkenwell Road,2019-03-01,675000,F,N,L,2
+EC1M 5RS,"The Red House, 49 - 53",Flat 7,Clerkenwell Road,2011-01-31,670000,F,N,L,3
+EC1M 5RS,"The Red House, 49 - 53",Flat 8,Clerkenwell Road,2005-05-20,279000,F,N,L,3
+EC1M 5RS,"The Red House, 49 - 53",Flat 9,Clerkenwell Road,2006-04-21,340000,F,N,L,3
+EC1M 6BP,86 - 89,1,Cowcross Street,2008-10-31,187500,F,N,L,2
+EC1M 6BP,86 - 89,2,Cowcross Street,2002-12-16,220000,F,N,L,1
+EC1M 6BP,88,Flat 2,Cowcross Street,2012-10-23,390000,F,N,L,1
+EC1M 6BP,88,Flat 5,Cowcross Street,2015-05-22,750000,F,N,L,3
+EC1M 6BP,88,Flat 6,Cowcross Street,2018-05-16,640000,F,N,L,2
+EC1M 6BP,88,Flat 7,Cowcross Street,2018-07-04,695000,F,N,L,2
+EC1M 6BY,46,,Cowcross Street,1998-03-23,50000,F,N,L,1
+EC1M 6DH,Zinc House 19-25,Flat 501,Cowcross Street,1999-11-10,570000,F,Y,L,1
+EC1M 6DH,"Zinc House, 19 - 25",Flat 102,Cowcross Street,2007-08-10,305000,F,N,L,1
+EC1M 6DH,"Zinc House, 19 - 25",Flat 103,Cowcross Street,2007-08-10,300000,F,N,L,1
+EC1M 6DH,"Zinc House, 19 - 25",Flat 104,Cowcross Street,2007-08-10,600000,F,N,L,1
+EC1M 6DH,"Zinc House, 19 - 25",Flat 201,Cowcross Street,2007-08-10,460000,F,N,L,1
+EC1M 6DH,"Zinc House, 19 - 25",Flat 202,Cowcross Street,2007-08-10,320000,F,N,L,1
+EC1M 6DH,"Zinc House, 19 - 25",Flat 203,Cowcross Street,2007-08-10,310000,F,N,L,1
+EC1M 6DH,"Zinc House, 19 - 25",Flat 204,Cowcross Street,2007-08-10,610000,F,N,L,1
+EC1M 6DH,"Zinc House, 19 - 25",Flat 301,Cowcross Street,2007-08-10,470000,F,N,L,1
+EC1M 6DH,"Zinc House, 19 - 25",Flat 302,Cowcross Street,2007-08-10,325000,F,N,L,1
+EC1M 6DH,"Zinc House, 19 - 25",Flat 303,Cowcross Street,2007-08-10,315000,F,N,L,1
+EC1M 6DH,"Zinc House, 19 - 25",Flat 304,Cowcross Street,2007-08-10,620000,F,N,L,1
+EC1M 6DH,"Zinc House, 19 - 25",Flat 401,Cowcross Street,2007-08-10,670000,F,N,L,1
+EC1M 6DH,"Zinc House, 19 - 25",Flat 402,Cowcross Street,2007-08-10,755000,F,N,L,1
+EC1M 6DQ,"Sabian House, 27",3,Cowcross Street,2005-03-04,1250000,F,N,L,2
+EC1M 6DQ,"Sabian House, 27 - 28",1,Cowcross Street,2000-11-21,350000,F,Y,L,1
+EC1M 6DQ,"Sabian House, 27 - 28",2,Cowcross Street,2000-11-21,350000,F,Y,L,1
+EC1M 5SZ,1,,Dickens Mews,2003-01-24,585000,T,Y,L,2
+EC1M 5SZ,2,,Dickens Mews,2002-11-15,585000,F,N,L,2
+EC1M 5SZ,3,,Dickens Mews,2002-11-28,585000,F,N,L,1
+EC1M 5SZ,4,,Dickens Mews,2000-03-31,395000,F,Y,L,1
+EC1M 5SZ,5,,Dickens Mews,2002-12-20,590000,F,N,L,1
+EC1M 5SZ,6,,Dickens Mews,2012-02-01,802500,F,N,L,5
+EC1M 5SZ,7,,Dickens Mews,2019-08-01,1060000,F,N,L,4
+EC1M 5QD,10,Flat 1,Eagle Court,2006-06-09,415000,F,Y,L,1
+EC1M 5QD,10,Flat 2,Eagle Court,2006-06-09,360000,F,N,L,1
+EC1M 5QD,10,Flat 3,Eagle Court,2011-08-03,248000,F,N,L,2
+EC1M 5QD,10,Flat 4,Eagle Court,2016-08-05,825000,F,N,L,2
+EC1M 5QD,10,Flat 5,Eagle Court,2006-06-09,370000,F,Y,L,1
+EC1M 5QD,10,Flat 6,Eagle Court,2012-01-13,250000,F,N,L,2
+EC1M 5QD,10,Flat 7,Eagle Court,2007-09-26,660000,F,N,L,2
+EC1M 5QD,10,Flat 9,Eagle Court,2011-08-03,250000,F,N,L,2
+EC1M 5QD,8,Flat 10,Eagle Court,2012-02-15,325000,F,N,L,1
+EC1M 5QD,8,Flat 11,Eagle Court,2012-02-10,350000,F,N,L,1
+EC1M 5QD,8,Flat 13,Eagle Court,2012-02-23,675000,F,N,L,1
+EC1M 5QD,8,Flat 15,Eagle Court,2015-09-18,1135000,F,N,L,2
+EC1M 5QD,"Flat 14, 8",,Eagle Court,2012-02-10,615000,F,N,L,1
+EC1M 5QD,"Flat 16, 8",,Eagle Court,2012-02-17,895000,F,N,L,1
+EC1M 3HA,25,Flat 19,Farringdon Road,2003-05-22,443000,F,N,L,2
+EC1M 3HA,25 - 27,Flat 1,Farringdon Road,2005-10-07,265000,F,N,L,3
+EC1M 3HA,25 - 27,Flat 10,Farringdon Road,2020-06-08,900000,F,N,L,2
+EC1M 3HA,25 - 27,Flat 11,Farringdon Road,1999-03-10,150000,F,N,L,1
+EC1M 3HA,25 - 27,Flat 12,Farringdon Road,1999-05-04,310000,F,N,L,1
+EC1M 3HA,25 - 27,Flat 13,Farringdon Road,2020-01-09,500000,F,N,L,4
+EC1M 3HA,25 - 27,Flat 14,Farringdon Road,1999-08-11,250000,F,Y,L,1
+EC1M 3HA,25 - 27,Flat 15,Farringdon Road,2010-08-05,428000,F,N,L,4
+EC1M 3HA,25 - 27,Flat 16,Farringdon Road,2017-05-17,787500,F,N,L,1
+EC1M 3HA,25 - 27,Flat 17,Farringdon Road,1999-03-12,295000,F,N,L,1
+EC1M 3HA,25 - 27,Flat 18,Farringdon Road,2010-04-23,375000,F,N,L,3
+EC1M 3HA,25 - 27,Flat 2,Farringdon Road,1999-06-25,245894,F,N,L,1
+EC1M 3HA,25 - 27,Flat 20,Farringdon Road,2018-09-11,555000,F,N,L,3
+EC1M 3HA,25 - 27,Flat 21,Farringdon Road,2017-04-12,820000,F,N,L,3
+EC1M 3HA,25 - 27,Flat 22,Farringdon Road,2001-11-23,250000,F,N,L,2
+EC1M 3HA,25 - 27,Flat 23,Farringdon Road,2007-08-01,483000,F,N,L,2
+EC1M 3HA,25 - 27,Flat 24,Farringdon Road,2002-09-06,417500,F,N,L,2
+EC1M 3HA,25 - 27,Flat 25,Farringdon Road,1999-03-05,160000,F,N,L,1
+EC1M 3HA,25 - 27,Flat 26,Farringdon Road,2014-07-11,1060000,F,N,L,4
+EC1M 3HA,25 - 27,Flat 27,Farringdon Road,2010-12-10,355000,F,N,L,2
+EC1M 3HA,25 - 27,Flat 28,Farringdon Road,2013-08-02,727500,F,N,L,4
+EC1M 3HA,25 - 27,Flat 29,Farringdon Road,2008-02-25,400000,F,N,L,3
+EC1M 3HA,25 - 27,Flat 3,Farringdon Road,1999-09-08,249140,F,N,L,1
+EC1M 3HA,25 - 27,Flat 30,Farringdon Road,2003-06-09,315000,F,N,L,2
+EC1M 3HA,25 - 27,Flat 32,Farringdon Road,1999-03-11,157000,F,N,L,1
+EC1M 3HA,25 - 27,Flat 33,Farringdon Road,1999-07-23,312500,F,N,L,1
+EC1M 3HA,25 - 27,Flat 34,Farringdon Road,2015-09-08,575000,F,N,L,2
+EC1M 3HA,25 - 27,Flat 35,Farringdon Road,2007-04-20,490000,F,N,L,4
+EC1M 3HA,25 - 27,Flat 36,Farringdon Road,1999-03-08,167000,F,Y,L,1
+EC1M 3HA,25 - 27,Flat 37,Farringdon Road,2000-06-09,499950,F,N,L,2
+EC1M 3HA,25 - 27,Flat 38,Farringdon Road,2013-10-18,1375000,F,N,L,3
+EC1M 3HA,25 - 27,Flat 39,Farringdon Road,2002-10-01,485000,F,N,L,3
+EC1M 3HA,25 - 27,Flat 4,Farringdon Road,2007-06-06,300000,F,N,L,2
+EC1M 3HA,25 - 27,Flat 40,Farringdon Road,2018-01-11,1110000,F,N,L,3
+EC1M 3HA,25 - 27,Flat 41,Farringdon Road,1999-04-01,315000,F,N,L,1
+EC1M 3HA,25 - 27,Flat 5,Farringdon Road,2001-06-29,358000,F,N,L,2
+EC1M 3HA,25 - 27,Flat 6,Farringdon Road,1999-05-07,145000,F,N,L,1
+EC1M 3HA,25 - 27,Flat 7,Farringdon Road,2011-08-26,630000,F,N,L,5
+EC1M 3HA,25 - 27,Flat 8,Farringdon Road,2004-05-28,277500,F,N,L,3
+EC1M 3HA,25 - 27,Flat 9,Farringdon Road,2010-09-17,550000,F,N,L,2
+EC1M 3JB,53,,Farringdon Road,1997-12-05,325000,D,N,F,1
+EC1M 3JB,59 - 61,,Farringdon Road,2003-08-26,490000,F,N,L,1
+EC1M 3LL,81 - 89,Flat 1,Farringdon Road,2003-11-10,232500,F,N,L,2
+EC1M 3LL,81 - 89,Flat 10,Farringdon Road,2013-01-07,398950,F,N,L,2
+EC1M 3LL,81 - 89,Flat 11,Farringdon Road,1999-10-26,185000,F,N,L,1
+EC1M 3LL,81 - 89,Flat 12,Farringdon Road,1999-10-22,153000,F,N,L,1
+EC1M 3LL,81 - 89,Flat 13,Farringdon Road,2003-09-02,200000,F,N,L,2
+EC1M 3LL,81 - 89,Flat 14,Farringdon Road,1999-10-22,180000,F,N,L,1
+EC1M 3LL,81 - 89,Flat 15,Farringdon Road,2008-04-01,565000,F,N,L,3
+EC1M 3LL,81 - 89,Flat 16,Farringdon Road,2016-11-28,850000,F,N,L,2
+EC1M 3LL,81 - 89,Flat 17,Farringdon Road,1999-09-17,288500,F,N,L,1
+EC1M 3LL,81 - 89,Flat 18,Farringdon Road,1999-07-07,295500,F,N,L,1
+EC1M 3LL,81 - 89,Flat 19,Farringdon Road,1999-10-22,209500,F,Y,L,1
+EC1M 3LL,81 - 89,Flat 2,Farringdon Road,2007-01-31,250000,F,N,L,3
+EC1M 3LL,81 - 89,Flat 20,Farringdon Road,1999-10-01,160000,F,N,L,1
+EC1M 3LL,81 - 89,Flat 21,Farringdon Road,1999-11-05,385000,F,N,L,1
+EC1M 3LL,81 - 89,Flat 22,Farringdon Road,2011-09-12,900000,F,N,L,2
+EC1M 3LL,81 - 89,Flat 23,Farringdon Road,2013-05-14,902500,F,N,L,3
+EC1M 3LL,81 - 89,Flat 24,Farringdon Road,2010-08-12,678000,F,N,L,3
+EC1M 3LL,81 - 89,Flat 3,Farringdon Road,2005-09-16,245000,F,N,L,3
+EC1M 3LL,81 - 89,Flat 4,Farringdon Road,2013-06-06,500000,F,N,L,2
+EC1M 3LL,81 - 89,Flat 5,Farringdon Road,1999-10-29,253000,F,N,L,1
+EC1M 3LL,81 - 89,Flat 6,Farringdon Road,2014-09-02,915000,F,N,L,3
+EC1M 3LL,81 - 89,Flat 7,Farringdon Road,2008-09-24,533000,F,N,L,4
+EC1M 3LL,81 - 89,Flat 8,Farringdon Road,2011-05-06,575000,F,N,L,2
+EC1M 3LL,81 - 89,Flat 9,Farringdon Road,2002-09-11,124997,F,N,L,2
+EC1M 3LL,81 - 89,Ground And Mezzanine Floors,Farringdon Road,2003-09-29,800000,F,N,L,1
+EC1M 6DD,3 - 4,,Faulkners Alley,2005-08-26,750000,T,N,F,2
+EC1M 7AJ,25,Apartment 301,Goswell Road,2014-09-30,535000,F,N,L,2
+EC1M 7AJ,25,Apartment 302,Goswell Road,2011-11-21,340000,F,N,L,2
+EC1M 7AJ,25,Apartment 401,Goswell Road,2008-10-15,250000,F,Y,L,1
+EC1M 7AJ,25,Apartment 402,Goswell Road,2011-05-27,345000,F,N,L,2
+EC1M 7AJ,25,Apartment 501,Goswell Road,2008-10-07,275000,F,Y,L,1
+EC1M 7AJ,25,Apartment 502,Goswell Road,2011-05-13,355000,F,N,L,2
+EC1M 7AJ,25,Apartment 601,Goswell Road,2008-10-07,265000,F,Y,L,1
+EC1M 7AJ,25,Apartment 602,Goswell Road,2009-01-15,270000,F,N,L,1
+EC1M 7AJ,25,Apartment 701,Goswell Road,2008-10-07,270000,F,Y,L,1
+EC1M 7AJ,25,Apartment 702,Goswell Road,2008-10-03,275000,F,Y,L,1
+EC1M 7AJ,25,Apartment 801,Goswell Road,2010-09-20,1110000,F,N,L,2
+EC1M 4EL,1,,Hat & Mitre Court,1999-02-01,300000,F,N,L,1
+EC1M 4AN,69,Flat,St John Street,2014-01-17,480000,F,N,L,1
+EC1M 4AS,103,Flat 1,St John Street,2010-09-27,1250000,F,N,L,4
+EC1M 4AS,103,Flat 2,St John Street,2010-05-19,952500,F,N,L,3
+EC1M 4AS,103,Flat 3,St John Street,1999-01-29,225000,F,Y,L,1
+EC1M 4AS,103,Flat 4,St John Street,2010-11-19,539700,F,N,L,3
+EC1M 4AS,103,Flat 5,St John Street,2014-02-19,860000,F,N,L,3
+EC1M 4AS,103,Flat 6,St John Street,2006-03-10,720000,F,N,L,2
+EC1M 4AS,99,Flat,St John Street,1998-02-17,539500,S,N,F,2
+EC1M 4AY,10,,St John Street,2007-05-21,676000,T,N,F,2
+EC1M 4DF,44 - 46,Flat 2,St John Street,2006-10-11,434100,F,N,L,2
+EC1M 4DF,44 - 46,Flat 3,St John Street,2000-10-13,250000,F,N,L,3
+EC1M 4DF,44 - 46,The Stables,St John Street,2016-11-04,2000000,F,N,L,1
+EC1M 4DF,44 - 46,Unit 8,St John Street,1995-09-05,132000,D,N,L,1
+EC1M 4DF,"The Smokehouse, 44 - 46",,St John Street,2014-06-11,565000,T,N,L,1
+EC1M 4DT,66,Flat A,St John Street,2007-07-13,525000,F,N,L,2
+EC1M 4DT,66,Flat B,St John Street,1997-07-04,218000,F,Y,L,1
+EC1M 4DT,66,Flat C,St John Street,1997-06-18,240000,F,N,L,1
+EC1M 4DT,66,Flat D,St John Street,2012-07-06,1380000,F,N,L,3
+EC1M 4DT,66,Flat E,St John Street,1997-09-23,225000,F,Y,L,1
+EC1M 4DT,66,Flat F,St John Street,1998-02-26,225000,F,Y,L,1
+EC1M 4DT,66,Flat H,St John Street,2018-06-22,765000,F,N,L,2
+EC1M 4DT,66,Flat J,St John Street,2012-04-05,825000,F,N,L,2
+EC1M 4DT,66,Flat K,St John Street,1997-07-18,247000,F,N,L,1
+EC1M 4DT,66,Flat L,St John Street,1999-04-16,235000,F,Y,L,1
+EC1M 4DT,66,Flat M,St John Street,2015-11-03,1060000,F,N,L,4
+EC1M 4DT,66,Flat N,St John Street,2013-11-11,1212000,F,N,L,4
+EC1M 4DT,66,Flat P,St John Street,2005-12-20,1230000,F,N,L,1
+EC1M 4DT,70,,St John Street,2007-04-20,750000,T,N,F,2
+EC1M 4DT,"Justin Gates, 72",Flat 3,St John Street,1998-04-30,235000,F,N,L,1
+EC1M 4EH,86,,St John Street,1998-05-26,335000,S,N,F,1
+EC1M 4EH,88A,,St John Street,2001-06-21,1090000,F,N,F,1
+EC1M 4EH,88A,Flat 1,St John Street,2017-02-09,970000,F,N,L,1
+EC1M 4EH,88A,Flat 2,St John Street,2017-03-13,935000,F,N,L,1
+EC1M 4EH,88A,Flat 3,St John Street,2017-07-07,800000,F,N,L,1
+EC1M 4EH,90 - 92,Flat 1,St John Street,2003-09-30,390000,F,N,L,3
+EC1M 4EH,90 - 92,Flat 2,St John Street,2003-08-29,435000,F,N,L,2
+EC1M 4EH,90 - 92,Flat 3,St John Street,2005-11-25,320000,F,N,L,3
+EC1M 4EH,90 - 92,Flat 4,St John Street,1997-10-28,170000,F,Y,L,1
+EC1M 4NQ,81 - 87,Flat 1,St John Street,2008-01-14,490000,F,N,L,2
+EC1M 4NQ,81 - 87,Flat 2,St John Street,2002-11-06,450000,F,N,L,1
+EC1M 4NQ,81 - 87,Flat 3,St John Street,2002-12-16,322500,F,N,L,1
+EC1M 4NQ,81 - 87,Flat 4,St John Street,2004-09-30,399000,F,N,L,1
+EC1M 4NQ,81 - 87,Flat 5,St John Street,2002-12-13,340000,F,N,L,1
+EC1M 4NQ,81 - 87,Flat 6,St John Street,2002-11-06,430000,F,N,L,1
+EC1M 4NQ,81 - 87,The Penthouse,St John Street,2013-11-25,1900000,F,N,L,2
+EC1M 4NR,79,Ground And Lower Ground Floor Shop,St John Street,2009-11-30,350000,T,N,F,1
+EC1M 4BU,28,Flat 10,St John's Lane,2011-02-24,1526500,F,N,L,1
+EC1M 4BJ,40,Flat 1,St Johns Lane,1997-06-04,191000,F,N,L,1
+EC1M 4BJ,40,Flat 2,St Johns Lane,1999-04-30,225000,F,N,L,3
+EC1M 4BU,28,Flat 1,St Johns Lane,2009-03-06,815000,F,N,L,2
+EC1M 4BU,28,Flat 10,St Johns Lane,2002-09-11,1140000,F,N,L,1
+EC1M 4BU,28,Flat 2,St Johns Lane,2009-06-26,795000,F,N,L,3
+EC1M 4BU,28,Flat 3,St Johns Lane,2007-08-28,830000,F,N,L,2
+EC1M 4BU,28,Flat 4,St Johns Lane,2015-01-14,1450000,F,N,L,3
+EC1M 4BU,28,Flat 5,St Johns Lane,2004-10-08,615000,F,N,L,2
+EC1M 4BU,28,Flat 6,St Johns Lane,2009-06-19,831005,F,N,L,3
+EC1M 4BU,28,Flat 7,St Johns Lane,1999-01-29,645000,F,Y,L,1
+EC1M 4BU,28,Flat 9,St Johns Lane,2004-03-04,1250000,F,N,L,2
+EC1M 4NA,29,1,St Johns Lane,2006-04-13,765000,F,N,L,2
+EC1M 4DD,3,Flat,St Johns Path,2007-07-27,1200000,S,N,F,1
+EC1M 4DD,"Hidden House, 1",,St Johns Path,2012-04-12,2450000,F,N,L,3
+EC1M 4NP,1,Flat 1,St Johns Place,2006-09-01,360000,F,Y,L,1
+EC1M 4NP,1,Flat 2,St Johns Place,2017-02-21,800000,F,N,L,2
+EC1M 4NP,1,Flat 3,St Johns Place,2006-11-22,340000,F,Y,L,1
+EC1M 4NP,1,Flat 4,St Johns Place,2006-12-20,1000000,F,Y,L,1
+EC1M 4NP,1,Flat 5,St Johns Place,2007-03-15,393000,F,N,L,1
+EC1M 4NP,1,Flat 6,St Johns Place,2010-12-17,525100,F,N,L,2
+EC1M 4NP,1,Flat 7,St Johns Place,2017-12-18,535000,F,N,L,3
+EC1M 4NP,1,Flat 8,St Johns Place,2008-09-18,590000,F,N,L,2
+EC1M 4NP,1,Flat 9,St Johns Place,2006-09-11,512500,F,N,L,1
+EC1M 4NP,4,Flat 101,St Johns Place,2005-07-15,600000,F,Y,L,1
+EC1M 4NP,4,Flat 102,St Johns Place,2015-10-16,750000,F,N,L,3
+EC1M 4NP,4,Flat 103,St Johns Place,2012-06-08,685000,F,N,L,2
+EC1M 4NP,4,Flat 201,St Johns Place,2005-11-21,440000,F,N,L,1
+EC1M 4NP,4,Flat 202,St Johns Place,2008-09-17,378000,F,N,L,2
+EC1M 4NP,4,Flat 203,St Johns Place,2013-12-20,865000,F,N,L,2
+EC1M 4NP,4,Flat 301,St Johns Place,2005-08-26,440000,F,Y,L,1
+EC1M 4NP,4,Flat 302,St Johns Place,2005-07-18,315000,F,Y,L,1
+EC1M 4NP,4,Flat 303,St Johns Place,2006-01-04,500000,F,Y,L,1
+EC1M 4NP,4,Flat 401,St Johns Place,2019-12-19,1240000,F,N,L,2
+EC1M 4NP,4,Flat 402,St Johns Place,2014-06-06,400000,F,N,L,2
+EC1M 4NP,4,Flat 403,St Johns Place,2006-04-07,415000,F,Y,L,1
+EC1M 4NP,4,Flat 501,St Johns Place,2006-03-23,925000,F,N,L,1
+EC1M 4NP,6 - 8,Basement And Ground Floor Premises,St Johns Place,2005-04-22,495000,F,N,L,1
+EC1M 5QU,89,Loft 1,Turnmill Street,2006-05-03,400000,F,Y,L,1
+EC1M 5QU,89,Loft 2,Turnmill Street,2006-04-20,369500,F,Y,L,1
+EC1M 5QU,89,Loft 3,Turnmill Street,2006-04-20,265000,F,Y,L,1
+EC1M 5QU,91 - 92,Flat 4,Turnmill Street,2009-11-13,420000,F,N,L,1
+EC1M 5QU,91 - 92,Flat 7,Turnmill Street,2016-10-31,1500000,F,N,L,2
+EC1M 5QU,93,Flat 1,Turnmill Street,2007-12-07,250000,F,N,L,1
+EC1M 5QU,93,Flat 2,Turnmill Street,2007-12-07,317000,F,N,L,1
+EC1M 5QU,93,Flat 3,Turnmill Street,2007-12-06,250000,F,N,L,1
+EC1M 5QU,93,Flat 4,Turnmill Street,2007-12-06,250000,F,N,L,1
+EC1M 5RR,66,,Turnmill Street,2008-04-01,2400000,S,N,F,1
+EC1M 5RR,67,Flat 1,Turnmill Street,2011-01-04,440000,F,Y,L,1
+EC1M 5RR,67,Flat 10,Turnmill Street,2010-10-04,430000,F,N,L,1
+EC1M 5RR,67,Flat 13,Turnmill Street,2011-09-23,465000,F,Y,L,1
+EC1M 5RR,67,Flat 2,Turnmill Street,2015-09-24,1060000,F,N,L,2
+EC1M 5RR,67,Flat 3,Turnmill Street,2010-11-03,720000,F,Y,L,1
+EC1M 5RR,67,Flat 4,Turnmill Street,2019-04-18,535000,F,N,L,2
+EC1M 5RR,67,Flat 5,Turnmill Street,2011-03-11,690000,F,Y,L,1
+EC1M 5RR,67,Flat 7,Turnmill Street,2010-12-13,695000,F,Y,L,1
+EC1M 5RR,67,Flat 8,Turnmill Street,2011-03-11,470000,F,Y,L,1
+EC1M 5RR,67,Flat 9,Turnmill Street,2011-03-04,700000,F,Y,L,1
+EC1M 5SY,"Thackery Court, 75",Flat 1,Turnmill Street,2000-04-28,265000,F,Y,L,1
+EC1M 5SY,"Thackery Court, 75",Flat 10,Turnmill Street,2000-01-05,220000,F,Y,L,1
+EC1M 5SY,"Thackery Court, 75",Flat 11,Turnmill Street,1999-12-23,230000,F,Y,L,1
+EC1M 5SY,"Thackery Court, 75",Flat 12,Turnmill Street,2011-11-28,405000,F,N,L,3
+EC1M 5SY,"Thackery Court, 75",Flat 13,Turnmill Street,1999-12-22,170000,F,Y,L,1
+EC1M 5SY,"Thackery Court, 75",Flat 14,Turnmill Street,2010-01-29,310000,F,N,L,1
+EC1M 5SY,"Thackery Court, 75",Flat 15,Turnmill Street,1999-12-22,175000,F,Y,L,1
+EC1M 5SY,"Thackery Court, 75",Flat 16,Turnmill Street,2008-04-08,500000,F,N,L,2
+EC1M 5SY,"Thackery Court, 75",Flat 17,Turnmill Street,2002-03-08,290000,F,N,L,2
+EC1M 5SY,"Thackery Court, 75",Flat 18,Turnmill Street,2005-02-24,250000,F,N,L,3
+EC1M 5SY,"Thackery Court, 75",Flat 19,Turnmill Street,2002-12-04,280000,F,N,L,3
+EC1M 5SY,"Thackery Court, 75",Flat 2,Turnmill Street,2004-11-12,248995,F,N,L,3
+EC1M 5SY,"Thackery Court, 75",Flat 20,Turnmill Street,2005-02-21,250000,F,N,L,3
+EC1M 5SY,"Thackery Court, 75",Flat 21,Turnmill Street,2005-04-28,277000,F,N,L,3
+EC1M 5SY,"Thackery Court, 75",Flat 22,Turnmill Street,2014-12-18,825000,F,N,L,2
+EC1M 5SY,"Thackery Court, 75",Flat 23,Turnmill Street,2015-12-22,685000,F,N,L,2
+EC1M 5SY,"Thackery Court, 75",Flat 24,Turnmill Street,2012-06-01,465000,F,N,L,3
+EC1M 5SY,"Thackery Court, 75",Flat 25,Turnmill Street,2004-11-12,300000,F,N,L,3
+EC1M 5SY,"Thackery Court, 75",Flat 26,Turnmill Street,2005-06-01,275000,F,N,L,3
+EC1M 5SY,"Thackery Court, 75",Flat 27,Turnmill Street,2003-01-31,327500,F,N,L,3
+EC1M 5SY,"Thackery Court, 75",Flat 28,Turnmill Street,2015-03-20,660000,F,N,L,4
+EC1M 5SY,"Thackery Court, 75",Flat 3,Turnmill Street,2009-11-06,365000,F,N,L,2
+EC1M 5SY,"Thackery Court, 75",Flat 4,Turnmill Street,2004-12-16,249995,F,N,L,4
+EC1M 5SY,"Thackery Court, 75",Flat 5,Turnmill Street,2000-04-28,235000,F,Y,L,2
+EC1M 5SY,"Thackery Court, 75",Flat 6,Turnmill Street,1999-12-22,160000,F,Y,L,1
+EC1M 5SY,"Thackery Court, 75",Flat 7,Turnmill Street,1999-12-22,167000,F,Y,L,1
+EC1M 5SY,"Thackery Court, 75",Flat 8,Turnmill Street,2005-01-21,249995,F,Y,L,1
+EC1M 5SY,"Thackery Court, 75",Flat 9,Turnmill Street,2008-01-18,395000,F,N,L,3

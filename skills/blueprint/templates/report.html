@@ -1,0 +1,215 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Blueprint property report</title>
+<style>/*__COMMON_CSS__*/
+  .facts { list-style: none; padding: 0; margin: 0; }
+  .facts li { padding: 9px 0; border-bottom: 1px solid var(--line); display: grid; grid-template-columns: 150px 1fr; gap: 12px; font-size: 13.5px; }
+  .facts li:last-child { border-bottom: 0; }
+  .facts .k { color: var(--muted); }
+  .facts a, td a { color: var(--accent); }
+  .st { display: inline-block; font-size: 11px; padding: 1px 8px; border-radius: 99px; white-space: nowrap; }
+  .st.data { background: var(--soft); color: var(--ink); }
+  .st.link { background: #F1F3F7; color: var(--muted); }
+  .st.supply { background: #fff; border: 1px dashed var(--faint); color: var(--muted); }
+  .st.na { background: #F1F3F7; color: var(--faint); }
+  .lead { font-size: 15px; margin: 0 0 10px; }
+  .lead b { color: var(--accent); font-weight: 500; }
+  @media (max-width: 560px) { .facts li { grid-template-columns: 1fr; gap: 2px; } }
+</style>
+</head>
+<body>
+<header id="hdr" class="bp">
+  <div class="bar"><span id="logo-slot"></span><span class="eyebrow" id="eyebrow"></span></div>
+  <div class="panel">
+    <h1 id="title"></h1>
+    <div class="sub" id="sub"></div>
+    <div class="prepared" id="prepared"></div>
+  </div>
+</header>
+<main id="main"></main>
+<section style="max-width:1240px;margin:0 auto;padding:0 20px"><div class="card gap" id="gap"></div></section>
+<footer id="footer"></footer>
+<script>
+/*__COMMON_JS__*/
+(function () {
+  var D = /*__BLUEPRINT_DATA__*/;
+  var PUBLIC = /[?&#]public\b/.test(location.href) || document.documentElement.classList.contains("public");
+  var BR = applyBrand(D), R = D.result, A = D.area || {};
+  var main = el("main");
+  function card(h, note, body, wide) { return '<div class="card"' + (wide ? ' style="grid-column:1/-1"' : "") + "><h2>" + h + "</h2>" + (note ? '<p class="note">' + note + "</p>" : "") + body + "</div>"; }
+  function section(html) { main.insertAdjacentHTML("beforeend", '<section class="grid two">' + html + "</section>"); }
+  function kpis(list) { main.insertAdjacentHTML("beforeend", '<div class="grid kpis">' + list.map(function (k) {
+    return '<div class="card kpi"><div class="label">' + k[0] + '</div><div class="value">' + k[1] + '</div><div class="meta">' + (k[2] || "") + "</div></div>"; }).join("") + "</div>"); }
+  function fmtDate(d) { var p = d.split("-"); return +p[2] + " " + BP_MONTHS[+p[1] - 1] + " " + p[0]; }
+  function row(cells) { return "<tr>" + cells.map(function (c) { return "<td" + (c && c.num ? ' class="num"' : "") + ">" + (c && c.num ? c.v : c) + "</td>"; }).join("") + "</tr>"; }
+  function n(v) { return { num: 1, v: v }; }
+
+  function lineChart(series, months, opts) {
+    var W = 640, H = 220, pl = 54, pr = 10, pt = 10, pb = 24;
+    var vals = []; series.forEach(function (s) { s.v.forEach(function (x) { if (x != null) vals.push(x); }); });
+    if (!vals.length) return "";
+    var lo = Math.min.apply(null, vals), hi = Math.max.apply(null, vals), pad = (hi - lo) * .08 || hi * .05; lo -= pad; hi += pad;
+    function x(i) { return pl + i * (W - pl - pr) / Math.max(1, months.length - 1); }
+    function y(v) { return pt + (hi - v) * (H - pt - pb) / (hi - lo); }
+    var g = "";
+    for (var k = 0; k <= 4; k++) { var v = lo + k * (hi - lo) / 4; g += '<line x1="' + pl + '" x2="' + (W - pr) + '" y1="' + y(v).toFixed(1) + '" y2="' + y(v).toFixed(1) + '" stroke="#E4E7EE"/><text x="' + (pl - 6) + '" y="' + (y(v) + 4).toFixed(1) + '" text-anchor="end" font-size="10.5" fill="#5F6472">' + (opts && opts.fmt ? opts.fmt(v) : short(v)) + "</text>"; }
+    var step = Math.max(1, Math.round(months.length / 6));
+    months.forEach(function (m, i) { if ((i % step === 0 && months.length - 1 - i >= step / 2) || i === months.length - 1) g += '<text x="' + x(i).toFixed(1) + '" y="' + (H - 6) + '" text-anchor="middle" font-size="10.5" fill="#5F6472">' + mlabel(m) + "</text>"; });
+    series.forEach(function (s) {
+      var d = "", on = false;
+      s.v.forEach(function (v, i) { if (v == null) { on = false; return; } d += (on ? "L" : "M") + x(i).toFixed(1) + " " + y(v).toFixed(1); on = true; });
+      g += '<path d="' + d + '" fill="none" stroke="' + s.c + '" stroke-width="' + (s.w || 2) + '" stroke-linejoin="round"' + (s.dash ? ' stroke-dasharray="4 4"' : "") + "/>";
+    });
+    return '<div class="legend">' + series.map(function (s) { return '<span><i style="background:' + s.c + '"></i>' + esc(s.label) + "</span>"; }).join("") + '</div><svg viewBox="0 0 ' + W + " " + H + '">' + g + "</svg>";
+  }
+
+  function stripChart(values, marks) {
+    if (!values.length) return "";
+    var W = 640, H = 124, pl = 10, pr = 10, all = values.concat(marks.map(function (m) { return m.v; }));
+    var lo = Math.min.apply(null, all), hi = Math.max.apply(null, all), pad = (hi - lo) * .06 || hi * .05; lo -= pad; hi += pad;
+    function x(v) { return pl + (v - lo) * (W - pl - pr) / (hi - lo); }
+    var g = '<line x1="' + pl + '" x2="' + (W - pr) + '" y1="62" y2="62" stroke="#E4E7EE"/>';
+    values.forEach(function (v) { g += '<circle cx="' + x(v).toFixed(1) + '" cy="62" r="6" fill="' + BR.shade(.35) + '" stroke="#fff"/>'; });
+    marks.forEach(function (m, i) {  // first mark labelled above the line, second below
+      var xv = x(m.v), anchor = xv < 90 ? "start" : xv > W - 90 ? "end" : "middle";
+      g += '<line x1="' + xv.toFixed(1) + '" x2="' + xv.toFixed(1) + '" y1="' + (i ? 50 : 24) + '" y2="' + (i ? 100 : 74) + '" stroke="' + m.c + '" stroke-width="2.5"/>' +
+           '<text x="' + xv.toFixed(1) + '" y="' + (i ? 116 : 16) + '" text-anchor="' + anchor + '" font-size="11.5" fill="' + m.c + '">' + esc(m.label) + " " + short(m.v) + "</text>";
+    });
+    g += '<text x="' + pl + '" y="86" font-size="10.5" fill="#5F6472">' + short(lo + pad) + '</text><text x="' + (W - pr) + '" y="86" text-anchor="end" font-size="10.5" fill="#5F6472">' + short(hi - pad) + "</text>";
+    return '<svg viewBox="0 0 ' + W + " " + H + '">' + g + "</svg>";
+  }
+
+  function localCard(L) {
+    if (!L || !L.found) return "";
+    var items = [];
+    if (L.flood) items.push(["Flood risk", esc(L.flood.text) + (L.flood.check ? ' <a href="' + L.flood.check + '" target="_blank" rel="noopener">Check</a>' : "") + (L.flood.not_covered ? '<br><span class="note">' + esc(L.flood.not_covered) + "</span>" : "")]);
+    if (L.broadband) items.push(["Broadband", esc(L.broadband.text)]);
+    if (L.mobile) items.push(["Mobile", esc(L.mobile.text)]);
+    if (L.planning) items.push(["Planning and heritage", L.planning.flags.length ? L.planning.flags.map(function (f) { return esc(f.text); }).join("<br>") : esc(L.planning.text || "")]);
+    if (L.coal) items.push(["Coal mining", esc(L.coal.text)]);
+    if (L.links) items.push(["Energy certificate", '<a href="' + L.links.epc + '" target="_blank" rel="noopener">Find the EPC on GOV.UK</a>']);
+    return card("Local facts.", esc(L.note), '<ul class="facts">' + items.map(function (i) { return '<li><span class="k">' + i[0] + "</span><span>" + i[1] + "</span></li>"; }).join("") + "</ul>");
+  }
+
+  function placesCard(L) {
+    if (!L || !L.schools) return "";
+    var sc = L.schools.primary.concat(L.schools.secondary);
+    var t = "<tr><th>School</th><th>Phase</th><th>Type</th><th class='num'>Distance</th></tr>" + sc.map(function (s) {
+      return row(['<a href="' + s.details + '" target="_blank" rel="noopener">' + esc(s.name) + "</a>", esc(s.phase), esc(s.type), n(esc(s.distance))]); }).join("");
+    var st = (L.stations || []).map(function (s) { return row([esc(s.name), esc(s.kind), n(esc(s.distance))]); }).join("");
+    return card("Schools and stations nearby.", esc(L.schools.note), (sc.length ? '<div class="scroll"><table>' + t + "</table></div>" : "") +
+      (st ? '<h3 class="h3" style="margin-top:14px">Stations</h3><div class="scroll"><table><tr><th>Station</th><th>Kind</th><th class="num">Distance</th></tr>' + st + "</table></div>" : ""));
+  }
+
+  function materialCard(list) {
+    var lab = { data: "From the data", link: "Check", supply: "To supply", "n/a": "Not needed" };
+    var parts = { A: "A", B: "B", C: "C" };
+    var t = "<tr><th>Part</th><th>Item</th><th>Status</th><th>What we found</th></tr>" + list.map(function (r) {
+      return row([parts[r.part], esc(r.item), '<span class="st ' + (r.status === "n/a" ? "na" : r.status) + '">' + lab[r.status] + "</span>",
+                  esc(r.value || "") + (r.link ? ' <a href="' + r.link + '" target="_blank" rel="noopener">Open</a>' : "")]); }).join("");
+    return card("Material information.", "National Trading Standards' material information for property listings (Parts A to C): what the open data fills in, what to check, and what the seller or agent supplies.",
+                '<div class="scroll"><table>' + t + "</table></div>", true);
+  }
+
+  function rentsCard(Rt) {
+    if (!Rt) return "";
+    var t = "<tr><th>Property</th><th class='num'>Average rent</th><th class='num'>On a year</th><th class='num'>Gross yield</th></tr>";
+    var y = {}; (Rt.gross_yields || []).forEach(function (g) { y[g.type] = g; });
+    t += (Rt.by_type || []).map(function (r) { var g = y[r.type]; return row([esc(r.type), n(money(r.rent) + " pcm"), n(pct(r.change)), n(g ? g.gross_yield_pct.toFixed(1) + "%" : "<span class='note'>too few sales</span>")]); }).join("");
+    t += (Rt.by_bedrooms || []).map(function (r) { return row([esc(r.bedrooms) + " bed", n(money(r.rent) + " pcm"), n(pct(r.change)), ""]); }).join("");
+    return card("Rents and yields.", "ONS Price Index of Private Rents for " + esc(Rt.council) + ", " + esc(Rt.month) + ": average rent across all tenancies, by type and bedrooms. Gross yield = the type's average rent x 12 / its median registered sale price in " + esc(A.district) + " over 12 months. Indicative, before costs.",
+                '<div class="scroll"><table>' + t + "</table></div>");
+  }
+
+  function typesCard(TP) {
+    if (!TP || !TP.months || !TP.months.length) return "";
+    var c = [BR.accent, BR.series[1], "#C9A227", "#8A93A3"];
+    return card("Houses and flats.", "Average price by property type in " + esc(A.local_authority) + ", UK House Price Index, monthly since 2016.",
+      lineChart([{ label: "Detached", v: TP.D, c: c[0] }, { label: "Semi-detached", v: TP.S, c: c[1] }, { label: "Terraced", v: TP.T, c: c[2] }, { label: "Flat or maisonette", v: TP.F, c: c[3] }], TP.months));
+  }
+
+  // ---------- address report
+  if (D.mode === "address") {
+    var P = R.property, C = R.comparables, K = R.asking_check;
+    el("eyebrow").textContent = "Property report";
+    var pc = (P && P.postcode) || (R.local && R.local.postcode) || "";
+    el("title").textContent = (P ? (PUBLIC ? P.street : P.address) + ", " : "") + (A.name ? A.name + " " : "") + pc + ".";
+    el("sub").textContent = (P ? "Sale history since 1995, the last price on today's index, " : "") + "comparable sales and local facts. " + A.local_authority + ".";
+    el("prepared").textContent = BR.prepared(D.dates.generated_label);
+    var k = [];
+    if (P) {
+      k.push(["Last sold", money(P.last_sale.price), fmtDate(P.last_sale.date) + ". " + esc(P.type) + ", " + esc(P.tenure).toLowerCase() + "."]);
+      if (P.floor_area_m2) k.push(["Floor area", P.floor_area_m2 + " m²", "EPC " + esc(P.epc_rating || "") + ", " + esc(P.epc_year || "") + (P.on_index_today && P.on_index_today.per_m2 ? ". " + money(P.on_index_today.per_m2) + " per m² on today's index." : ".")]);
+      if (P.on_index_today) k.push(["On today's index", money(P.on_index_today.value), "UK HPI, " + esc(P.on_index_today.index_series === "all" ? "all homes" : P.type.toLowerCase()) + ", " + esc(P.on_index_today.geography) + ", to " + mlabel(P.on_index_today.to_month, true) + ". Not a valuation."]);
+    }
+    if (C) k.push(["Comparable sales", C.median_on_index_today ? money(C.median_on_index_today) : C.sales, "Median on today's index of the " + esc(C.basis.replace(/^the /, "")) + " " + esc(C.type.toLowerCase()) + " sales in " + esc(C.scope) + ", " + esc(C.window) + "."]);
+    if (K) k.push(["Asking price", money(K.asking), K.comparables ? "Above " + K.below_asking + " of " + K.comparables + " comparable sales on today's index." : ""]);
+    else if (R.rents && R.rents.by_type && P) { var rt = R.rents.by_type.filter(function (x) { return x.type === P.type; })[0]; if (rt) k.push(["Average rent", money(rt.rent) + " pcm", esc(P.type) + " homes, " + esc(R.rents.council) + ", " + esc(R.rents.month) + " (ONS)."]); }
+    kpis(k);
+    var parts = [];
+    if (P) {
+      var h = "<tr><th>Date</th><th class='num'>Price</th><th>Type</th><th>Tenure</th><th>Note</th></tr>" + R.history.map(function (x) {
+        return row([fmtDate(x.date), n(money(x.price)), esc(x.type), esc(x.tenure) + (x.new_build ? " (new build)" : ""), "<span class='note'>" + esc(x.note) + "</span>"]); }).join("");
+      parts.push(card("Sale history.", "Registered sales of this home (HM Land Registry, standard residential sales). Before 2021 the latest sale from 1995 to 2020 is shown.", '<div class="scroll"><table>' + h + "</table></div>" +
+        (P.on_index_today ? '<p class="note" style="margin-top:10px">' + esc(P.on_index_today.text) + " The index moves with all " + esc(P.on_index_today.index_series === "all" ? "homes" : P.type.toLowerCase() + " homes") + " in the council area; it knows nothing about this home's condition or changes since.</p>" : "")));
+    }
+    if (C) {
+      var marks = [];
+      if (K) marks.push({ v: K.asking, c: "#1A1C29", label: "Asking" });
+      if (P && P.on_index_today) marks.push({ v: P.on_index_today.value, c: BR.accent, label: "This home on the index" });
+      var vals = C.nearest.map(function (x) { return x.on_index_today; }).filter(function (v) { return v; });
+      var FA = C.with_floor_area > 0;
+      var t = "<tr><th>Date</th><th>Address</th><th class='num'>Price</th><th class='num'>On today's index</th>" + (FA ? "<th class='num'>m²</th><th class='num'>£/m²</th>" : "") + "<th class='num'>Distance</th></tr>" + C.nearest.map(function (x) {
+        return row([fmtDate(x.date), esc((x.number_or_name && !PUBLIC ? x.number_or_name + " " : "") + x.street) + (x.new_build ? " <span class='pill'>new</span>" : ""), n(money(x.price)), n(x.on_index_today ? money(x.on_index_today) : "n/a")]
+          .concat(FA ? [n(x.floor_area_m2 || ""), n(x.per_m2_on_index_today ? money(x.per_m2_on_index_today) : "")] : [])
+          .concat([n(x.distance_m != null ? (x.distance_m < 950 ? Math.round(x.distance_m / 10) * 10 + " m" : (x.distance_m / 1609.34).toFixed(1) + " mi") : "")])); }).join("");
+      parts.push(card("Comparable sales.", "The " + esc(C.basis.replace(/^the /, "")) + " " + esc(C.type.toLowerCase()) + " sales in " + esc(C.scope) + ", " + esc(C.window) + ", each brought to today's index. Same street first, then nearest. Size, condition and plot aren't in this data." + (PUBLIC ? " Public view: streets only." : " House numbers are for your own reference."),
+        stripChart(vals, marks) + (C.middle_half_on_index_today ? '<p class="note">Middle half on today\'s index: ' + money(C.middle_half_on_index_today[0]) + " to " + money(C.middle_half_on_index_today[1]) + ".</p>" : "") + '<div class="scroll"><table>' + t + "</table></div>"));
+    }
+    section(parts.join(""));
+    section(localCard(R.local) + placesCard(R.local));
+    section(rentsCard(R.rents) + typesCard(D.type_prices));
+    section(materialCard(R.material_information));
+  }
+
+  // ---------- material information pack
+  if (D.mode === "material") {
+    var L = R.local;
+    el("eyebrow").textContent = "Material information";
+    el("title").textContent = "Material information: " + L.postcode + ".";
+    el("sub").textContent = "What the open data says about this postcode, and what the listing still needs. " + A.local_authority + ".";
+    el("prepared").textContent = BR.prepared(D.dates.generated_label);
+    kpis([["Flood risk (rivers and sea)", L.flood && L.flood.status === "listed" ? "Listed" : L.flood && L.flood.status === "not_listed" ? "Not listed" : "Check", L.flood ? (L.flood.status === "wales" ? "Natural Resources Wales" : "Environment Agency") : ""],
+          ["Gigabit broadband", L.broadband ? L.broadband.gigabit_pct + "%" : "n/a", "of premises in the postcode (Ofcom)."],
+          ["Planning flags", L.planning ? L.planning.flags.length : 0, L.planning && L.planning.flags.length ? esc(L.planning.flags[0].text) : "None found at the postcode's centre."],
+          ["Coal mining", L.coal && L.coal.in_high_risk_area ? "High risk area" : "Not high risk", "Mining Remediation Authority."]]);
+    section(materialCard(R.material_information));
+    section(localCard(L) + placesCard(L));
+  }
+
+  // ---------- rents
+  if (D.mode === "rents") {
+    var Rt = R.rents;
+    el("eyebrow").textContent = "Rents and yields";
+    el("title").textContent = "Rents in " + Rt.council + ".";
+    el("sub").textContent = "ONS average private rents for the council area, by bedrooms and property type, " + Rt.month + ".";
+    el("prepared").textContent = BR.prepared(D.dates.generated_label);
+    var two = (Rt.by_bedrooms || []).filter(function (b) { return b.bedrooms === "2"; })[0];
+    kpis([["Average rent", money(Rt.average_rent) + " pcm", pct(Rt.annual_change_pct) + " on a year, " + esc(Rt.month) + "."],
+          ["Two bedrooms", two ? money(two.rent) + " pcm" : "n/a", two ? pct(two.change) + " on a year." : ""],
+          [Rt.region ? esc(Rt.region.name) : "Region", Rt.region ? money(Rt.region.rent) + " pcm" : "n/a", Rt.region ? pct(Rt.region.change) + " on a year." : ""],
+          [Rt.country ? esc(Rt.country.name) : "Country", Rt.country ? money(Rt.country.rent) + " pcm" : "n/a", Rt.country ? pct(Rt.country.change) + " on a year." : ""]]);
+    section(rentsCard(Rt) + card("Average rent since 2021.", "ONS Price Index of Private Rents, all property types, " + esc(Rt.council) + ".",
+      lineChart([{ label: Rt.council, v: Rt.series.map(function (s) { return s[1]; }), c: BR.accent }], Rt.series.map(function (s) { return s[0]; }), { fmt: function (v) { return "£" + Math.round(v).toLocaleString("en-GB"); } })));
+    section(card("How to use these figures.", "", "<ul class='facts'>" + Rt.notes.map(function (t) { return "<li><span class='k'>Note</span><span>" + esc(t) + "</span></li>"; }).join("") +
+      "<li><span class='k'>Rent reviews</span><span>These are market background for a whole council area. For a Section 13 notice or a tribunal, add advertised or agreed rents for similar homes nearby, and follow GOV.UK's guidance. This is not legal advice.</span></li></ul>", true));
+  }
+
+  renderGapAndFooter(D);
+})();
+</script>
+</body>
+</html>
