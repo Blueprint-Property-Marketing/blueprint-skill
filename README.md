@@ -42,13 +42,13 @@ About two minutes, on Claude's Free, Pro, Max and Team plans.
 
 1. Download **`blueprint.zip`** from the [latest release](https://github.com/Blueprint-Property-Marketing/blueprint-skill/releases/latest).
    Leave it zipped.
-2. In Claude, open **Settings → Capabilities** and check **Code execution and file creation** is on.
-3. Open **Customize → Skills**, click **+**, choose **Create skill → Upload a skill**, and pick
+2. In Claude, open **Settings → Capabilities**, check **Code execution and file creation** is on, and switch on **Allow network egress** (so Claude can download your area).
+3. Open **Customize → Skills**, click **+ Add → Upload skill**, and pick
    `blueprint.zip`. Make sure the toggle next to Blueprint is on.
 4. Start a new chat and type: **"Blueprint: my area dashboard for M33, our site is yourcompany.co.uk"**
    (your own postcode district and website).
 
-On Enterprise plans, an admin may need to allow network access to package managers first. If Claude
+On Enterprise plans, an admin may need to allow network egress first. If Claude
 says it can't download the data, use the area file below instead.
 
 Using Claude Code? Copy `skills/blueprint` into `~/.claude/skills/blueprint`.

@@ -67,7 +67,7 @@ python scripts/blueprint.py fetch "<what they said>"
   `download` link from the output, word for word: it's the file for their postcode's letters (`file`, such as
   `blueprint-areas-M.zip`). Never make up a file name. Ask them to attach it (it stays zipped), then run
   `python scripts/blueprint.py fetch <district> --zip <path to the attached file>`. Attached files are usually in
-  `/mnt/user-data/uploads/`. Mention once that if their plan lets them allow network access in Settings →
+  `/mnt/user-data/uploads/`. Mention once that if their plan lets them switch on Allow network egress in Settings →
   Capabilities, future chats can download areas themselves.
 
 If any output has `update`, tell the user once in the chat, at the end of that reply, as its `say` describes.

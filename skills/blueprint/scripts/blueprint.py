@@ -1016,7 +1016,7 @@ def cmd_setup(a) -> None:
         steps.append("In Claude, open Settings → Capabilities and turn on Code execution and file creation, then start a new chat.")
     fallback = area_file(a.area) if a.area else area_file(None)
     if not net_ok:
-        steps.append("If your plan lets you, allow network access for code execution in Settings → Capabilities (GitHub needs to be "
+        steps.append("If your plan lets you, switch on Allow network egress in Settings → Capabilities (GitHub needs to be "
                      "reachable), then start a new chat.")
         steps.append(f"Or, any time: download the area file for your postcode's letters and attach it to the chat"
                      + (f": {fallback['file']}, {fallback['download']}" if fallback.get("file") else f" ({fallback['download']}).")
