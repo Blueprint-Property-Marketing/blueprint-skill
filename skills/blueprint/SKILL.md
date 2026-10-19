@@ -1,6 +1,6 @@
 ---
 name: blueprint
-description: Property data for any address in England and Wales. Sold prices since 1995, today's index value, asking-price checks, rents, flood, broadband, planning, schools, branded dashboards.
+description: Use for any property question: what a home sold for, asking-price checks, rents and yields, flood, broadband, planning, schools, area data, listings, vendor emails and brochures. England and Wales.
 ---
 
 # Blueprint
